@@ -4,7 +4,7 @@
 
 > Workout with Haryanvi Songs.
 
-113 songs - 5 hr 38 min
+114 songs - 5 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Notorious Desi](https://open.spotify.com/track/7yCQyuIqzHtXBsIY0OiNti) | [Ndee Kundu](https://open.spotify.com/artist/61P6g4b3TgZ9m2caJlXS4K) | [Notorious Desi](https://open.spotify.com/album/0DBU7BkdjqHsgAT5WgvkFh) | 2:46 | 2024-03-26 |  |
 | [On The Way](https://open.spotify.com/track/0eXigexcbhLwQXgEtfO8Zv) | [Khasa Aala Chahar](https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck), [KD](https://open.spotify.com/artist/7iLbRJb6dj3iKikgCmapXn) | [On the Way](https://open.spotify.com/album/39KJPgQ0FsWskTQS3h2UCw) | 3:31 | 2023-07-24 | 2024-04-19 |
 | [On The Way](https://open.spotify.com/track/2iPHhqfqRUEDiHhBq5WICc) | [Khasa Aala Chahar](https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck), [KD DESIROCK](https://open.spotify.com/artist/4Pq2LW79qotJK4YAMFwlO0) | [On The Way](https://open.spotify.com/album/6w2anhBM6gSig6lvPQncTc) | 3:31 | 2024-04-17 |  |
+| [Pahalwani](https://open.spotify.com/track/3pIyIe9dwEnQyXUQfxaIcd) | [Krishan Madha](https://open.spotify.com/artist/7GTkzMSNgDarYvOGiBHRtL), [Moni Hooda](https://open.spotify.com/artist/7sTD73ts93UaMiWy1hk9KI) | [Pahalwani](https://open.spotify.com/album/7HfKGDVQgJcsZyXN5lklcl) | 4:00 | 2024-05-24 |  |
 | [Papi Purane](https://open.spotify.com/track/4RVpvENpsF5H5bJSruG0wC) | [Irshad Khan](https://open.spotify.com/artist/6fzmobEykeKCwfhH6EsZh4) | [Papi Purane](https://open.spotify.com/album/4sxXvRDG24bb2CA5pEUOKc) | 2:30 | 2024-04-17 |  |
 | [Papi Purane](https://open.spotify.com/track/4XUHHkMuN4pPj7mX4UEQYz) | [Irshad Khan](https://open.spotify.com/artist/6fzmobEykeKCwfhH6EsZh4) | [Papi Purane](https://open.spotify.com/album/1pV9QlaOmciHfC5lElLR6E) | 2:30 | 2024-03-08 | 2024-04-19 |
 | [Pataka](https://open.spotify.com/track/23jHzNShbAaRsuEmQJN5hE) | [RP Singh](https://open.spotify.com/artist/7pxBiDULrPympl9ppIewtZ), [Candy Sheoran](https://open.spotify.com/artist/5Gv7YQyjnnTxplUzBuKSUY) | [Pataka](https://open.spotify.com/album/1RHx6SdPqgoYkmpiOqV29P) | 3:24 | 2023-07-24 |  |
@@ -118,7 +119,7 @@
 | [Yaar Badmash](https://open.spotify.com/track/5UPMGvwJui1OCNX3NJgmFX) | [Amanraj Gill](https://open.spotify.com/artist/07hzX8SH6CEg7B2yl4hoKs) | [Yaar Badmash](https://open.spotify.com/album/17z4QdEJCqKtIw0bEaPo1m) | 3:08 | 2024-04-17 |  |
 | [Yaar Badmash](https://open.spotify.com/track/6vQYsw6Nfh3eI7CsrVz8A1) | [Amanraj Gill](https://open.spotify.com/artist/07hzX8SH6CEg7B2yl4hoKs) | [Yaar Badmash](https://open.spotify.com/album/6DuHB7XdpvrHK11Ry4ffe4) | 3:10 | 2023-07-24 | 2024-04-19 |
 | [Yaar Haryane Te](https://open.spotify.com/track/36pCCXFo9bICfCXIPrIegh) | [Armaan Malik](https://open.spotify.com/artist/3pibkVeMCi8twOlUWQGieI), [Gold E Gill](https://open.spotify.com/artist/1nReJyCgrkUDk0VfCGXpQ4), [Ankit Baiyanpuria](https://open.spotify.com/artist/1tYgxFs8KyYSXCfQGFsnsu), [Jaivir Rathee](https://open.spotify.com/artist/11RL0P8BYXqoAChg4JkUZZ) | [Yaar Haryane Te](https://open.spotify.com/album/3hD4sNUhV9yErXgYvyT6Au) | 2:20 | 2024-02-21 | 2024-03-27 |
-| [Yaar Mustande](https://open.spotify.com/track/0kf3xOV5y92nGVD4vfALaP) | [Raju Punjabi](https://open.spotify.com/artist/5RnjdaS0Pqb4KgWvCoohs8), [Veer Guru](https://open.spotify.com/artist/5PEw82Z44XSxsDZX1yzrL3) | [Yaar Mustande](https://open.spotify.com/album/2gMJm46YpZ6pZvgiwtvz2Z) | 3:51 | 2024-03-08 |  |
+| [Yaar Mustande](https://open.spotify.com/track/0kf3xOV5y92nGVD4vfALaP) | [Raju Punjabi](https://open.spotify.com/artist/5RnjdaS0Pqb4KgWvCoohs8), [Veer Guru](https://open.spotify.com/artist/5PEw82Z44XSxsDZX1yzrL3) | [Yaar Mustande](https://open.spotify.com/album/2gMJm46YpZ6pZvgiwtvz2Z) | 3:51 | 2024-03-08 | 2024-05-25 |
 | [Yaari](https://open.spotify.com/track/1GgE8OLZdV6X8vemSbGc0B) | [MD DesiRockstar](https://open.spotify.com/artist/5j28WuraZ1QL8A3IXruKU0), [Bunny Beats](https://open.spotify.com/artist/16FYhIBIBDW43AIviL9T4A) | [Yaari](https://open.spotify.com/album/4PZ0HxYICGGRROf4mM8UlN) | 2:29 | 2023-10-09 | 2023-11-23 |
 | [Yadav Maar Maran \(feat\. Akki Kalyan\)](https://open.spotify.com/track/3eqWEV3vl7YSITnYzzfW76) | [Sachin Yadav Official](https://open.spotify.com/artist/694xpjfQS0hWDQyGidnxGR) | [Yadav Maar Maran \(feat\. Akki Kalyan\)](https://open.spotify.com/album/0Y1KyxobsFGgQC3iufNDTY) | 3:09 | 2023-07-24 | 2023-08-01 |
 

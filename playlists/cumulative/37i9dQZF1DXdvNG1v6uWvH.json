@@ -511,6 +511,24 @@
     },
     {
       "album": {
+        "name": "Arena",
+        "url": "https://open.spotify.com/album/7IfHAYECjJU9jzopGiOtSq"
+      },
+      "artists": [
+        {
+          "name": "Rebecca & Fiona",
+          "url": "https://open.spotify.com/artist/6rgEPiKjowlMKZC1DF6W75"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238392,
+      "name": "Arena",
+      "url": "https://open.spotify.com/track/7MxSe1IUsbfSTyoZ3Vwgm4"
+    },
+    {
+      "album": {
         "name": "The Power",
         "url": "https://open.spotify.com/album/6Rbxgt8xNmnc6xHlXSRxQM"
       },
@@ -2049,6 +2067,24 @@
     },
     {
       "album": {
+        "name": "Day & Night",
+        "url": "https://open.spotify.com/album/16JG83fJ82wz6Rb88BsebO"
+      },
+      "artists": [
+        {
+          "name": "Maximillian",
+          "url": "https://open.spotify.com/artist/2Q9c6ETFOkDDTy53U7DIgr"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204432,
+      "name": "Day & Night",
+      "url": "https://open.spotify.com/track/3GeaYrqVpgZvTDIz7L6BW7"
+    },
+    {
+      "album": {
         "name": "day i die",
         "url": "https://open.spotify.com/album/7mv2k44vhKlpDu8uv3j8YO"
       },
@@ -3499,6 +3535,28 @@
     },
     {
       "album": {
+        "name": "Gegagedigedagedago (Cotton Eye Joe Viral Version)",
+        "url": "https://open.spotify.com/album/7ppANxRYsiauednEVILNlz"
+      },
+      "artists": [
+        {
+          "name": "Rednex",
+          "url": "https://open.spotify.com/artist/22Zqu1yyebVnbve8FxbJ2g"
+        },
+        {
+          "name": "Razi",
+          "url": "https://open.spotify.com/artist/3BiOCDs5cPIRMyOX5f5nC3"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155132,
+      "name": "Gegagedigedagedago (Cotton Eye Joe Viral Version) - Gegagedigedagedago (with Razi) [Cotton Eye Joe Viral Version]",
+      "url": "https://open.spotify.com/track/5PZEY7GQnozAM20AECyryR"
+    },
+    {
+      "album": {
         "name": "gegns\u00e6",
         "url": "https://open.spotify.com/album/4Go8wmVWyKJFGTeNhDwGVG"
       },
@@ -3833,6 +3891,28 @@
     },
     {
       "album": {
+        "name": "BABA BUSINESS 3",
+        "url": "https://open.spotify.com/album/16y1M4Dnrqiodnk8KvRhLf"
+      },
+      "artists": [
+        {
+          "name": "Branco",
+          "url": "https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6"
+        },
+        {
+          "name": "Headie One",
+          "url": "https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131985,
+      "name": "GUNS & ROSES (feat. Headie One)",
+      "url": "https://open.spotify.com/track/1exK56Xtm0UwrtEigvdCzD"
+    },
+    {
+      "album": {
         "name": "I've Tried Everything But Therapy (Part 1.5)",
         "url": "https://open.spotify.com/album/3egFmnuKrjoMAlqCfdw7KH"
       },
@@ -3884,6 +3964,28 @@
       "duration_ms": 181967,
       "name": "Hang On",
       "url": "https://open.spotify.com/track/1Yzkeg4AIn65PAIcM3AFzJ"
+    },
+    {
+      "album": {
+        "name": "Haunted",
+        "url": "https://open.spotify.com/album/2wWfdg10E1iQA3oLQ0Y0Y0"
+      },
+      "artists": [
+        {
+          "name": "BENJAMINRICH",
+          "url": "https://open.spotify.com/artist/4TD3d7oNp9cr8Ub6QUI0XJ"
+        },
+        {
+          "name": "sindr",
+          "url": "https://open.spotify.com/artist/4UiuiDCLil74AvDoXjdpib"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Haunted",
+      "url": "https://open.spotify.com/track/4I8iG4w35mo02JUINmVO5b"
     },
     {
       "album": {
@@ -4554,7 +4656,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 166340,
       "name": "Hva skjedde i g\u00e5r",
       "url": "https://open.spotify.com/track/78CcSemi3XfCX2T0knpp2f"
@@ -5370,6 +5472,28 @@
       "duration_ms": 255296,
       "name": "Kind Of Man",
       "url": "https://open.spotify.com/track/3JMc2rsrzFkhEyma8c56Xc"
+    },
+    {
+      "album": {
+        "name": "Kiss Me Hard",
+        "url": "https://open.spotify.com/album/2scm1kfRj6hy6To2hBsP4Y"
+      },
+      "artists": [
+        {
+          "name": "WhoMadeWho",
+          "url": "https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM"
+        },
+        {
+          "name": "Blue Hawaii",
+          "url": "https://open.spotify.com/artist/41y1iPh0WqB7tyGdzyeinZ"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227796,
+      "name": "Kiss Me Hard",
+      "url": "https://open.spotify.com/track/52sAVkP0ZuRzXbihUIsNCH"
     },
     {
       "album": {
@@ -6471,6 +6595,24 @@
     },
     {
       "album": {
+        "name": "MONEY ON THE DASH",
+        "url": "https://open.spotify.com/album/7iVR4pSwyZ7EENVQl2aDZY"
+      },
+      "artists": [
+        {
+          "name": "Fyex",
+          "url": "https://open.spotify.com/artist/7i7ddOIQP0uI3ktGxI0zkM"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109617,
+      "name": "MONEY ON THE DASH",
+      "url": "https://open.spotify.com/track/73PZa5qprNmqC3ePUj7Rou"
+    },
+    {
+      "album": {
         "name": "Moonlight",
         "url": "https://open.spotify.com/album/0Ew00sWkcmYmO7SUkaJrsL"
       },
@@ -6584,7 +6726,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 228118,
       "name": "My General",
       "url": "https://open.spotify.com/track/705T4qya7JTqU47oJaipeZ"
@@ -7278,7 +7420,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 240267,
       "name": "Only Child",
       "url": "https://open.spotify.com/track/79MA0IcNgrvAux9Oul5Uiq"
@@ -7776,7 +7918,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 132824,
       "name": "Rainbow Lorikeet",
       "url": "https://open.spotify.com/track/0ooKhrPkhhteWzybGMhXiu"
@@ -8172,6 +8314,24 @@
       "duration_ms": 232835,
       "name": "Same Page",
       "url": "https://open.spotify.com/track/59urXGUpl1LIsSx4hyYDNO"
+    },
+    {
+      "album": {
+        "name": "San Antonio",
+        "url": "https://open.spotify.com/album/6POggEzmQS7Egbc8JGAAwS"
+      },
+      "artists": [
+        {
+          "name": "Johnossi",
+          "url": "https://open.spotify.com/artist/0k5NrYJAazGYrIhzrDslcT"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183500,
+      "name": "San Antonio",
+      "url": "https://open.spotify.com/track/7JkuYydpzSlK7MYEFvOzCY"
     },
     {
       "album": {
@@ -9802,7 +9962,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 187517,
       "name": "Touching The Sky",
       "url": "https://open.spotify.com/track/2SaRD7OpQ2A9ZeCOntar0g"
@@ -9987,6 +10147,24 @@
     },
     {
       "album": {
+        "name": "txt me",
+        "url": "https://open.spotify.com/album/3iujjlSlmI1t1FOHuMJnTO"
+      },
+      "artists": [
+        {
+          "name": "tonser",
+          "url": "https://open.spotify.com/artist/4XQCRgJvDzVmu6xjcv5dfm"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162914,
+      "name": "txt me",
+      "url": "https://open.spotify.com/track/5LQbs2GsOStUGnLwnN6hH8"
+    },
+    {
+      "album": {
         "name": "UFO",
         "url": "https://open.spotify.com/album/21f17oQynU60lyfT0wjj8U"
       },
@@ -10100,7 +10278,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 158552,
       "name": "Upset",
       "url": "https://open.spotify.com/track/1lmESvOXWfDSgVAAaIruLL"
@@ -10894,7 +11072,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 191304,
       "name": "You'll Never Lose Affection",
       "url": "https://open.spotify.com/track/74QHvED66bGkJ411iWOOTM"

@@ -5649,6 +5649,24 @@
     },
     {
       "album": {
+        "name": "All For Something",
+        "url": "https://open.spotify.com/album/5oOtwx1qgZoWzvqu1pvmZm"
+      },
+      "artists": [
+        {
+          "name": "Tiny Habits",
+          "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256245,
+      "name": "People Always Change",
+      "url": "https://open.spotify.com/track/6uMlsNZsVHH2MLJx6z44IY"
+    },
+    {
+      "album": {
         "name": "I've Got Me",
         "url": "https://open.spotify.com/album/3l3xPtGZXUcnQaNlpbjvR0"
       },
@@ -6878,7 +6896,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 207928,
       "name": "Spring Bug",
       "url": "https://open.spotify.com/track/1m9B9sIeBibHosu4h5uae6"

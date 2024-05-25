@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "Fresh Latin pop on the rise. Cover: Yami Safdie",
+  "description": "Fresh Latin pop on the rise. Cover: Tiago PZK",
   "name": "el nuevo pop",
   "tracks": [
     {
@@ -164,7 +164,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 192727,
       "name": "5 > 1",
       "url": "https://open.spotify.com/track/1dX0ZPraR1ZaQ2THFMwEOp"
@@ -2962,7 +2962,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 263368,
       "name": "Dar\u00eda Todo",
       "url": "https://open.spotify.com/track/4uMxQAZrL9xpUKhjsVVgOY"
@@ -6988,6 +6988,24 @@
       "duration_ms": 195714,
       "name": "MI CLON",
       "url": "https://open.spotify.com/track/6EirSWHP9Q1it8S74vvg6o"
+    },
+    {
+      "album": {
+        "name": "Mi Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/5e8zaDNGYEs72yRCuPrr4w"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164565,
+      "name": "Mi Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/7vjG5IXd5ApgPTEVjo8zJu"
     },
     {
       "album": {
@@ -12028,7 +12046,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 211030,
       "name": "Tuvimos Futuro",
       "url": "https://open.spotify.com/track/4FmMQKqxmexvW18a8lQn6j"
@@ -12266,6 +12284,28 @@
       "duration_ms": 166730,
       "name": "Vamos Pa la Playa",
       "url": "https://open.spotify.com/track/7u4iBYiUYBJNr10Ov2u4s9"
+    },
+    {
+      "album": {
+        "name": "Ruido",
+        "url": "https://open.spotify.com/album/1AapL341jT2FY5gQE2RMf5"
+      },
+      "artists": [
+        {
+          "name": "Alex Ponce",
+          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
+        },
+        {
+          "name": "Sebastian Llosa",
+          "url": "https://open.spotify.com/artist/10vr6MNGdriyVivl7Ls8Xx"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162352,
+      "name": "Ve y Diles",
+      "url": "https://open.spotify.com/track/2yyQacjkbAQHD2D15QPTNU"
     },
     {
       "album": {
@@ -12542,6 +12582,24 @@
       "duration_ms": 214800,
       "name": "XQ Sigues Pasando :(",
       "url": "https://open.spotify.com/track/60WnyQpJMxndoCwfo3TbuE"
+    },
+    {
+      "album": {
+        "name": "Y SI SE ABREN LOS CIELOS",
+        "url": "https://open.spotify.com/album/7ojO0TsCWpHwxCIZ02vde4"
+      },
+      "artists": [
+        {
+          "name": "Gus",
+          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180893,
+      "name": "Y SI SE ABREN LOS CIELOS",
+      "url": "https://open.spotify.com/track/7hft2uQ3kmAHG3LkLgJjWw"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Jimmy Eat World. The essential tracks, all in one playlist.",
-  "num_followers": 43250,
+  "num_followers": 43264,
   "original_name": "This Is Jimmy Eat World",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zk01gAAAAADixTnf13ZDjJZUG1ps1fwr",
+  "snapshot_id": "Zk6HAAAAAAD39q88PaY+StLy98U45su0",
   "tracks": [
     {
       "added_at": null,
@@ -84,9 +84,9 @@
           "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
         }
       ],
-      "duration_ms": 220026,
-      "name": "Sweetness",
-      "url": "https://open.spotify.com/track/429IbFR4yp2J81CeTwF5iY"
+      "duration_ms": 181493,
+      "name": "Bleed American",
+      "url": "https://open.spotify.com/track/61XspFITuKmAlYdQacNCbF"
     },
     {
       "added_at": null,
@@ -148,9 +148,9 @@
           "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
         }
       ],
-      "duration_ms": 181493,
-      "name": "Bleed American",
-      "url": "https://open.spotify.com/track/61XspFITuKmAlYdQacNCbF"
+      "duration_ms": 284373,
+      "name": "Hear You Me",
+      "url": "https://open.spotify.com/track/1TvNcWY7WwPLQINhimxycA"
     },
     {
       "added_at": null,
@@ -210,11 +210,15 @@
         {
           "name": "Jimmy Eat World",
           "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        },
+        {
+          "name": "Davey Vonbohlen",
+          "url": "https://open.spotify.com/artist/2EYidR98SsS1xtRwavAmW1"
         }
       ],
-      "duration_ms": 284373,
-      "name": "Hear You Me",
-      "url": "https://open.spotify.com/track/1TvNcWY7WwPLQINhimxycA"
+      "duration_ms": 243506,
+      "name": "A Praise Chorus",
+      "url": "https://open.spotify.com/track/0n7d3no0cHnsnkgfFzDuj4"
     },
     {
       "added_at": null,
@@ -274,15 +278,11 @@
         {
           "name": "Jimmy Eat World",
           "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
-        },
-        {
-          "name": "Davey Vonbohlen",
-          "url": "https://open.spotify.com/artist/2EYidR98SsS1xtRwavAmW1"
         }
       ],
-      "duration_ms": 243506,
-      "name": "A Praise Chorus",
-      "url": "https://open.spotify.com/track/0n7d3no0cHnsnkgfFzDuj4"
+      "duration_ms": 217213,
+      "name": "The Authority Song",
+      "url": "https://open.spotify.com/track/7gAw3OKcrfeRWOFxWs7wgK"
     },
     {
       "added_at": null,
@@ -296,9 +296,9 @@
           "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
         }
       ],
-      "duration_ms": 433160,
-      "name": "23",
-      "url": "https://open.spotify.com/track/12tjs2HBsd4puDnUgZMKki"
+      "duration_ms": 228853,
+      "name": "Kill",
+      "url": "https://open.spotify.com/track/6dnHFZrpQDzSAxIsnQaEcJ"
     },
     {
       "added_at": null,
@@ -344,9 +344,25 @@
           "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
         }
       ],
-      "duration_ms": 217213,
-      "name": "The Authority Song",
-      "url": "https://open.spotify.com/track/7gAw3OKcrfeRWOFxWs7wgK"
+      "duration_ms": 273200,
+      "name": "If You Don't, Don't",
+      "url": "https://open.spotify.com/track/5prYdqVZFzoOBj33WFTdJu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Futures (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/58EcHXCjDzwqHiXDo9523u"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "duration_ms": 433160,
+      "name": "23",
+      "url": "https://open.spotify.com/track/12tjs2HBsd4puDnUgZMKki"
     },
     {
       "added_at": null,
@@ -463,22 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Invented (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1TxRb6Hl940xyXG4eL8Tlo"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Eat World",
-          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
-        }
-      ],
-      "duration_ms": 249040,
-      "name": "Littlething",
-      "url": "https://open.spotify.com/track/1OPeUHaZESc6zMHGXzsk6U"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Futures",
         "url": "https://open.spotify.com/album/2EDsu3fuAiflZczcFZTr4y"
       },
@@ -491,6 +491,22 @@
       "duration_ms": 291146,
       "name": "Polaris",
       "url": "https://open.spotify.com/track/4fQjex0ezXcMGpdjlGVi44"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Invented (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1TxRb6Hl940xyXG4eL8Tlo"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "duration_ms": 249040,
+      "name": "Littlething",
+      "url": "https://open.spotify.com/track/1OPeUHaZESc6zMHGXzsk6U"
     },
     {
       "added_at": null,
@@ -527,38 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Invented (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1TxRb6Hl940xyXG4eL8Tlo"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Eat World",
-          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
-        }
-      ],
-      "duration_ms": 225986,
-      "name": "Coffee And Cigarettes",
-      "url": "https://open.spotify.com/track/7svTK1vdqxc1zsVWTCYHaD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Futures (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/58EcHXCjDzwqHiXDo9523u"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Eat World",
-          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
-        }
-      ],
-      "duration_ms": 187266,
-      "name": "Nothing Wrong",
-      "url": "https://open.spotify.com/track/1XgHX1RQSXq5yxfpxCSJiz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Surviving",
         "url": "https://open.spotify.com/album/1oXiDeNuXr0A4DFQEr3fhI"
       },
@@ -575,8 +559,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Clarity (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0JfCEzWgcuUxrAUZw5eUT4"
+        "name": "Invented (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1TxRb6Hl940xyXG4eL8Tlo"
       },
       "artists": [
         {
@@ -584,9 +568,9 @@
           "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
         }
       ],
-      "duration_ms": 188400,
-      "name": "Believe In What You Want",
-      "url": "https://open.spotify.com/track/1MiVBh1JWUmplMqR79UjzF"
+      "duration_ms": 225986,
+      "name": "Coffee And Cigarettes",
+      "url": "https://open.spotify.com/track/7svTK1vdqxc1zsVWTCYHaD"
     },
     {
       "added_at": null,
@@ -607,8 +591,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Integrity Blues",
-        "url": "https://open.spotify.com/album/03hVtUfmQW3fhMbYoliIod"
+        "name": "Clarity (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0JfCEzWgcuUxrAUZw5eUT4"
       },
       "artists": [
         {
@@ -616,9 +600,9 @@
           "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
         }
       ],
-      "duration_ms": 234506,
-      "name": "It Matters",
-      "url": "https://open.spotify.com/track/6gXzzIJs34eYV6CnpiJsP2"
+      "duration_ms": 188400,
+      "name": "Believe In What You Want",
+      "url": "https://open.spotify.com/track/1MiVBh1JWUmplMqR79UjzF"
     },
     {
       "added_at": null,
@@ -635,6 +619,22 @@
       "duration_ms": 184773,
       "name": "Surviving",
       "url": "https://open.spotify.com/track/6oKVC61L9Jrd13dvDJJVJr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Integrity Blues",
+        "url": "https://open.spotify.com/album/03hVtUfmQW3fhMbYoliIod"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "duration_ms": 234506,
+      "name": "It Matters",
+      "url": "https://open.spotify.com/track/6gXzzIJs34eYV6CnpiJsP2"
     },
     {
       "added_at": null,
@@ -671,22 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Integrity Blues",
-        "url": "https://open.spotify.com/album/03hVtUfmQW3fhMbYoliIod"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Eat World",
-          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
-        }
-      ],
-      "duration_ms": 171640,
-      "name": "Through",
-      "url": "https://open.spotify.com/track/4Iydh0QUgxeOB1o5oKAzAr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Surviving",
         "url": "https://open.spotify.com/album/1oXiDeNuXr0A4DFQEr3fhI"
       },
@@ -703,8 +687,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Static Prevails (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/08EiadO7jxgjbJJdzX8mem"
+        "name": "Integrity Blues",
+        "url": "https://open.spotify.com/album/03hVtUfmQW3fhMbYoliIod"
       },
       "artists": [
         {
@@ -712,25 +696,9 @@
           "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
         }
       ],
-      "duration_ms": 180800,
-      "name": "Call It In The Air",
-      "url": "https://open.spotify.com/track/3j6nYQC9jVtIOBXFNOOu9A"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bleed American (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2P6BqQ7RMpgx8lgoeahpW8"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Eat World",
-          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
-        }
-      ],
-      "duration_ms": 221800,
-      "name": "No Sensitivity",
-      "url": "https://open.spotify.com/track/0kOWnNQzEwFv5G5FEal3MU"
+      "duration_ms": 171640,
+      "name": "Through",
+      "url": "https://open.spotify.com/track/4Iydh0QUgxeOB1o5oKAzAr"
     },
     {
       "added_at": null,
@@ -751,6 +719,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Static Prevails (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/08EiadO7jxgjbJJdzX8mem"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "duration_ms": 180800,
+      "name": "Call It In The Air",
+      "url": "https://open.spotify.com/track/3j6nYQC9jVtIOBXFNOOu9A"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Surviving",
         "url": "https://open.spotify.com/album/1oXiDeNuXr0A4DFQEr3fhI"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 174346,
       "name": "Love Never",
       "url": "https://open.spotify.com/track/2lfp6K5WOQ44IhxD2Wkhr2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bleed American (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2P6BqQ7RMpgx8lgoeahpW8"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "duration_ms": 221800,
+      "name": "No Sensitivity",
+      "url": "https://open.spotify.com/track/0kOWnNQzEwFv5G5FEal3MU"
     },
     {
       "added_at": null,

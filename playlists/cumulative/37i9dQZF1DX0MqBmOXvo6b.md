@@ -4,10 +4,11 @@
 
 > Concéntrate al máximo, sin distracciones.
 
-652 songs - 1 day 3 hr 40 min
+653 songs - 1 day 3 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [A Brighter Future](https://open.spotify.com/track/02mGLexrQiaZGpg9oV737j) | [Celesete Cooper](https://open.spotify.com/artist/6jmxsGLj7q0TnovfN32GUT) | [A Brighter Future](https://open.spotify.com/album/6mFYBZojwGTAiauZGEvHDc) | 2:08 | 2024-05-23 |  |
 | [A Gentle Sunlight](https://open.spotify.com/track/2QV0SPhmLDd9jqshZRnLY5) | [James Quinn](https://open.spotify.com/artist/5snx16ErkhOi5bNc2mLx5V) | [A Gentle Sunlight](https://open.spotify.com/album/5m80r6ueo0TW5kwn5AuDkF) | 1:57 | 2022-06-07 | 2022-12-24 |
 | [A Lost Promise](https://open.spotify.com/track/3AAJJ7JaO55UrHwZbmxLmw) | [Martha Kestner](https://open.spotify.com/artist/6wQdBCtENeiT5HRy6NojzG) | [A Lost Promise](https://open.spotify.com/album/6Qm82t3r1t298NGcm9ct3m) | 1:58 | 2022-06-07 | 2022-09-24 |
 | [A mal tiempo, buena cara](https://open.spotify.com/track/7AV0Pso4qINIXP8skPMkjb) | [Claribel Ramón](https://open.spotify.com/artist/2R6KwyIVkDBMHj2fNvy6Aq) | [A mal tiempo, buena cara](https://open.spotify.com/album/39z5R1YULmmQgsnx0ARZNf) | 2:28 | 2022-06-07 | 2024-04-10 |
@@ -89,7 +90,7 @@
 | [Calolziocorte](https://open.spotify.com/track/1eq8ybJ7diRj2rGsVwNVv6) | [Grazia Bellini](https://open.spotify.com/artist/03r4oR4wLUyjzpYtSf2RDS) | [Calolziocorte](https://open.spotify.com/album/1OchRw8VptiaBKQvFPbcdi) | 2:20 | 2024-04-22 |  |
 | [Campania](https://open.spotify.com/track/2Nf6J9vOtyzP4gX6xBvLv9) | [Gilded Reverie](https://open.spotify.com/artist/293KvG5a4tl3xjpUsnXjym) | [Campania](https://open.spotify.com/album/10Ol0BRzxel4NoqxFSJgC8) | 2:21 | 2024-04-17 |  |
 | [campfire](https://open.spotify.com/track/0hzKA9jzEj7vFgkLyF4LQu) | [Edvard Kravchuk](https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe) | [campfire](https://open.spotify.com/album/53amoiSBErIDMWnX1yBUj9) | 3:06 | 2023-07-24 |  |
-| [Carrousel](https://open.spotify.com/track/2HsHeR0683mY61u4e35Jg1) | [Léonne Michaud](https://open.spotify.com/artist/5tXCEjYUtlox3uFr67xM1k) | [Trustful Hearts](https://open.spotify.com/album/31uIH2IWFY6bH4R6ZFLrLe) | 2:59 | 2022-06-07 |  |
+| [Carrousel](https://open.spotify.com/track/2HsHeR0683mY61u4e35Jg1) | [Léonne Michaud](https://open.spotify.com/artist/5tXCEjYUtlox3uFr67xM1k) | [Trustful Hearts](https://open.spotify.com/album/31uIH2IWFY6bH4R6ZFLrLe) | 2:59 | 2022-06-07 | 2024-05-25 |
 | [Chalet](https://open.spotify.com/track/2oXoqsL0WnuxFnX3fpGsSz) | [Michèle Lefurgey](https://open.spotify.com/artist/7ib6lMOvVIMzRc4tPCEtHV) | [Chalet](https://open.spotify.com/album/4uKDACa5QRlBZ5Qoagz42Y) | 2:03 | 2022-06-07 |  |
 | [Chances](https://open.spotify.com/track/0ApqDSCbOWRSGh7gEFy2kv) | [Cindy Bellamy](https://open.spotify.com/artist/0JfQYvUds4dA0p41jg1MD2) | [Chances](https://open.spotify.com/album/5qAEgI2u2QQ2zgk5XlR4WD) | 2:42 | 2022-06-07 | 2023-05-25 |
 | [Change](https://open.spotify.com/track/0qfaICSE5qhRYHcetUqtbv) | [Jonas Gewald](https://open.spotify.com/artist/53k1kqkyCUpbJMK93MBxxc) | [Change](https://open.spotify.com/album/7tLi6HytSTQ65bozthbybW) | 3:01 | 2022-06-07 | 2022-09-24 |

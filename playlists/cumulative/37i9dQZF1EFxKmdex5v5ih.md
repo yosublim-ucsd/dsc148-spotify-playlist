@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4RSQdk2ty0YkO97WejZkdJ">Michael Pollack</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-423 songs - 23 hr 20 min
+424 songs - 23 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [Flowers](https://open.spotify.com/track/4DHcnVTT87F0zZhRPYmZ3B) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz) | 3:20 | 2023-03-12 | 2023-12-14 |
 | [Flowers](https://open.spotify.com/track/7DSAEUvxU8FajXtRloy8M0) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 3:20 | 2023-12-15 |  |
 | [Flowers](https://open.spotify.com/track/792wj4fbYgH66u8khzAUSj) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Flowers \(Official Video\)](https://open.spotify.com/album/7ljVAiH4UToMeJFUmDHJ9K) | 3:21 | 2023-12-13 | 2024-02-02 |
+| [Flowers \(Demo\)](https://open.spotify.com/track/1ZJwhLQLt2quexYKP2Q3gk) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 3:30 | 2024-05-24 |  |
 | [Folding My Patience](https://open.spotify.com/track/6PuZ4DVTekcM0wKILrWipL) | [Slaus Brown\-Paul](https://open.spotify.com/artist/1IUVqwmQS72YFtn2q93Nx5), [Shon Howard](https://open.spotify.com/artist/1JQK2oRQY4YYXM0qhz5ECD), [Tony Medina](https://open.spotify.com/artist/0VaH8VDmJlpa0XOHfiuiuB) | [The Burning Point Sessions](https://open.spotify.com/album/4YbQJFkGAeZpUsDW7dR4A3) | 5:17 | 2023-01-16 | 2023-12-14 |
 | [Footprints](https://open.spotify.com/track/6W1WqOE3Wd5AnZbL149Xfy) | [Molly Kate Kestner](https://open.spotify.com/artist/390x0qxDdsMmN20RAwspbf) | [Footprints](https://open.spotify.com/album/5vk7PQrawbv5FJtWHYUK9i) | 4:13 | 2021-12-27 |  |
 | [For Now](https://open.spotify.com/track/0PxJmAlyKcRdd1r9FvDbTn) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [\~how i'm feeling\~](https://open.spotify.com/album/6EgJXcGqaUvgZIF9bqPXfP) | 3:09 | 2021-12-27 | 2022-11-18 |

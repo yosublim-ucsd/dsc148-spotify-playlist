@@ -4,7 +4,7 @@
 
 > New music from popular Hindi artists\. Cover\- Arjuna Harjai
 
-1,049 songs - 2 day 12 hr 16 min
+1,050 songs - 2 day 12 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Aadat \- Alt](https://open.spotify.com/track/2qDZyNVo5t6Pw7HDk5MDER) | [Lisa Mishra](https://open.spotify.com/artist/418X5slNWlJwym4x3Oq3Cs) | [Aadat \(Alt\)](https://open.spotify.com/album/2jdzIRhivauVQHLoukbFD8) | 2:01 | 2024-03-01 | 2024-03-16 |
 | [Aadhe Raste](https://open.spotify.com/track/46ebBx0SwajtdikPU7N9vJ) | [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW), [Nikhil \- Swapnil](https://open.spotify.com/artist/7nkDVhgJreAJxinOGOWZCJ) | [Aadhe Raste](https://open.spotify.com/album/2OA7NvFAVOpYFDSdcG5nM2) | 3:28 | 2023-03-10 | 2023-04-22 |
 | [Aadhe Waade](https://open.spotify.com/track/5pCRRKwA796gdrNkCmJ9vt) | [Shreya Jain](https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD) | [Aadhe Waade](https://open.spotify.com/album/3rzWT5DEabAiiD3Dq221cl) | 2:34 | 2023-09-22 | 2023-10-28 |
+| [Aag](https://open.spotify.com/track/0mSyeDL1A1LGgF71G1H5yi) | [Faheem Abdullah](https://open.spotify.com/artist/05etL4pzWd6TSv1x5WrlG3) | [Lost;Found](https://open.spotify.com/album/013jUXOfDFXnDMBetTdsiH) | 4:14 | 2024-05-23 |  |
 | [Aaina](https://open.spotify.com/track/5BrvrAjXLTuh6dFMH0BrPl) | [Jazim Sharma](https://open.spotify.com/artist/5tUNLzDOTfdJ3WNBhNAJMB), [Muheet Bharti](https://open.spotify.com/artist/0HXiaOEvokxAkvyMIq88jJ) | [Aaina](https://open.spotify.com/album/3QAZ7OhmLqlw4MNPWj8mp4) | 3:12 | 2023-04-07 | 2023-04-22 |
 | [Aaj Kal](https://open.spotify.com/track/2kdomqzVkUfjIMURSnqByy) | [Anurag Saikia](https://open.spotify.com/artist/6hzngLO20cX5IGqT0hVv1G), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH), [Avinash Chouhan](https://open.spotify.com/artist/0uwbmn6SWX4kujbrDTnjaj) | [Aaj Kal](https://open.spotify.com/album/5Z3rCu6ZTbNCS8RacJ3JnJ) | 3:33 | 2023-04-14 | 2023-05-06 |
 | [Aaj Phir](https://open.spotify.com/track/2Sw1TG2ZgeHwSU5hL0YH4Z) | [Shrey Singhal](https://open.spotify.com/artist/36vLOasO8BD2hzG9nab0ED) | [Aaj Phir](https://open.spotify.com/album/4qBNXVqliGoNOOdxxdYsV1) | 3:01 | 2022-09-01 | 2022-10-01 |
@@ -723,7 +724,7 @@
 | [Pareshaan](https://open.spotify.com/track/5Infc095QF0BDwCF9rMyxD) | [Suzonn](https://open.spotify.com/artist/3xZ9z6k4Suc2O8cAiwMt7h) | [Pareshaan](https://open.spotify.com/album/45CSYEp4RHs2bNSiUUdfMb) | 4:04 | 2022-06-03 | 2022-06-18 |
 | [Paris Ka Trip](https://open.spotify.com/track/4t22MCG1GHjKlXRCIlJlDd) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR), [Millind Gaba](https://open.spotify.com/artist/7hVmdlsJp0E2WQIvVl8ngN), [Asli GOLD](https://open.spotify.com/artist/0MDuneb2yM4vkubU0FwDKp) | [Paris Ka Trip](https://open.spotify.com/album/3wrAkSJmYHwokdHci0Iuyh) | 3:16 | 2022-10-07 | 2022-11-25 |
 | [Paris London Amsterdam](https://open.spotify.com/track/3GWeh6TZPVUnvya1nawN2j) | [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9), [Aanchal Tyagi](https://open.spotify.com/artist/2Zk1S1jMx7YNHnGQi07off) | [Paris London Amsterdam](https://open.spotify.com/album/34O1GF6fBegS1jalmpTRjv) | 2:24 | 2022-10-10 | 2022-10-15 |
-| [Pariyon Ki Duniya](https://open.spotify.com/track/4PnZwswnElBV5JemrOnSuM) | [Joy Sengupta](https://open.spotify.com/artist/2w5FAQc2JWciNPGhsTBf4B), [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW), [Pinky Poonawala](https://open.spotify.com/artist/4DhyWRZAivYeuXMNmijjEY) | [Pariyon Ki Duniya](https://open.spotify.com/album/7MUReK6TwvioU10WVkZLiZ) | 3:01 | 2024-05-17 |  |
+| [Pariyon Ki Duniya](https://open.spotify.com/track/4PnZwswnElBV5JemrOnSuM) | [Joy Sengupta](https://open.spotify.com/artist/2w5FAQc2JWciNPGhsTBf4B), [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW), [Pinky Poonawala](https://open.spotify.com/artist/4DhyWRZAivYeuXMNmijjEY), [Nastya Saraswati](https://open.spotify.com/artist/0jtyiGiZtoSVHLgK4Qxz3Q) | [Pariyon Ki Duniya](https://open.spotify.com/album/7MUReK6TwvioU10WVkZLiZ) | 3:01 | 2024-05-17 |  |
 | [Parwaana](https://open.spotify.com/track/1plViHUxnafeKCFKV6Tegs) | [Ankur Tewari](https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6) | [Akela](https://open.spotify.com/album/2UtPYtrj2QPpvFV4PPwSCw) | 4:11 | 2023-08-04 | 2023-08-25 |
 | [Parwaaz](https://open.spotify.com/track/30yLu7ZxVdCC78PeljUek0) | [Vayu](https://open.spotify.com/artist/5vwmYR4hN6lASQJUMWPrEL), [Vaibhav Pani](https://open.spotify.com/artist/6FedIS4fevWR5JdQQvviFB) | [Parwaaz](https://open.spotify.com/album/3Hs3LgTNTl5zZyvbhsdPSm) | 3:30 | 2024-01-12 | 2024-02-10 |
 | [Pasbaan](https://open.spotify.com/track/0tiLDRf1GiKejG9M0WBqdd) | [Tanzeel Khan](https://open.spotify.com/artist/64Bnlany1OG6esdJyOxyey), [XTACY](https://open.spotify.com/artist/6YOZBKPwkJvn3lVxzkFIBP), [Hashim Nawaz](https://open.spotify.com/artist/2zurwnLzcPvY8n3jJEse5E) | [Pasbaan](https://open.spotify.com/album/44SnPFNd4MMe5sQyonRO36) | 4:01 | 2022-09-08 | 2022-10-08 |

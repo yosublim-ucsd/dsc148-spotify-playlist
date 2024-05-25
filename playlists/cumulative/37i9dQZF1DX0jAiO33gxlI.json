@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "Os lan\u00e7amentos e melhores sons do rap e trap nacionais. Foto: Kant",
+  "description": "Os lan\u00e7amentos e melhores sons do rap e trap nacionais. Foto: Criolo, Dino D'santiago, Amaro Freitas",
   "name": "Presen\u00e7a Hip Hop",
   "tracks": [
     {
@@ -4552,7 +4552,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 172137,
       "name": "Empenho",
       "url": "https://open.spotify.com/track/3qj4MgWO0oAIFJzTuGDdvJ"
@@ -4730,6 +4730,32 @@
       "duration_ms": 194000,
       "name": "Espelho",
       "url": "https://open.spotify.com/track/4a3RVKPRmFQzmN01wM9W2f"
+    },
+    {
+      "album": {
+        "name": "Esperan\u00e7a",
+        "url": "https://open.spotify.com/album/2iKq0sQSndxZ2MbSuO4iFt"
+      },
+      "artists": [
+        {
+          "name": "Criolo",
+          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
+        },
+        {
+          "name": "Dino d'Santiago",
+          "url": "https://open.spotify.com/artist/7qb2GMJaX4HeXqqPPyYdlr"
+        },
+        {
+          "name": "Amaro Freitas",
+          "url": "https://open.spotify.com/artist/3Y37ixG7KDgDqxSE6PL679"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261790,
+      "name": "Esperan\u00e7a",
+      "url": "https://open.spotify.com/track/56IfHJlxw8fkQ5ldt52T3G"
     },
     {
       "album": {
@@ -10330,7 +10356,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 161280,
       "name": "O Show de Truman",
       "url": "https://open.spotify.com/track/4WX3Pv0W0lLA7PQxZ3JgEz"
@@ -13497,6 +13523,32 @@
     },
     {
       "album": {
+        "name": "SEMR\u00c9H",
+        "url": "https://open.spotify.com/album/2xTJzFHszAuE5hAq0Q1Rpw"
+      },
+      "artists": [
+        {
+          "name": "Ryu, The Runner",
+          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
+        },
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "6ee",
+          "url": "https://open.spotify.com/artist/44sYX4gwGmUZBnNT2AZTPW"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147967,
+      "name": "SEMR\u00c9H",
+      "url": "https://open.spotify.com/track/2XdFauLk4oDWT1dKLLxFPs"
+    },
+    {
+      "album": {
         "name": "Eu Ainda Tenho Cora\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/7dMDChrId0PHuWQy5R3P5o"
       },
@@ -14134,10 +14186,40 @@
       ],
       "date_added": "2023-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 117500,
       "name": "Solta Minha Blusa",
       "url": "https://open.spotify.com/track/5i91iDdOjC7sexvXV3MlRc"
+    },
+    {
+      "album": {
+        "name": "Sotaque de Novela",
+        "url": "https://open.spotify.com/album/05VfZ8O7pflnKSzXPqyCy3"
+      },
+      "artists": [
+        {
+          "name": "Mago de Tarso",
+          "url": "https://open.spotify.com/artist/496KV2f0kNcIdXGe1i0Fh4"
+        },
+        {
+          "name": "Cyclope Beatz",
+          "url": "https://open.spotify.com/artist/0VQRHmzky5fo3E5LZB0x3e"
+        },
+        {
+          "name": "WR No Beat",
+          "url": "https://open.spotify.com/artist/4D1GYBX7yrYgjGrTcCa5zs"
+        },
+        {
+          "name": "Casa Amarela",
+          "url": "https://open.spotify.com/artist/0WpQ43GRHEtGhC913ZwXYs"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128812,
+      "name": "Sotaque de Novela",
+      "url": "https://open.spotify.com/track/0uakFqU1kcpGyWygupiBbY"
     },
     {
       "album": {

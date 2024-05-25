@@ -1,6 +1,6 @@
 {
   "description": "We hear you.",
-  "num_followers": 1190987,
+  "num_followers": 1190993,
   "original_name": "idk.",
   "owner": {
     "name": "Spotify",
@@ -331,22 +331,6 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "Hurting",
-        "url": "https://open.spotify.com/album/2iv4j11JOrhPnIz67C9UCT"
-      },
-      "artists": [
-        {
-          "name": "sign crushes motorist",
-          "url": "https://open.spotify.com/artist/02vrwnrNEeDRV96o9iPSYP"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "I'm Always Here",
-      "url": "https://open.spotify.com/track/485XGXNp7cvrPSaxJJbJ99"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
         "name": "minor",
         "url": "https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 160506,
       "name": "minor",
       "url": "https://open.spotify.com/track/1G9YZPtxUGfl1yVw7kq4yc"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
+        "name": "Hurting",
+        "url": "https://open.spotify.com/album/2iv4j11JOrhPnIz67C9UCT"
+      },
+      "artists": [
+        {
+          "name": "sign crushes motorist",
+          "url": "https://open.spotify.com/artist/02vrwnrNEeDRV96o9iPSYP"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "I'm Always Here",
+      "url": "https://open.spotify.com/track/485XGXNp7cvrPSaxJJbJ99"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -515,6 +515,22 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
+        "name": "THE GIRL WILL BE OKAY",
+        "url": "https://open.spotify.com/album/5Iv87ZOJiSAfvxYyarcdts"
+      },
+      "artists": [
+        {
+          "name": "RC AVENUE",
+          "url": "https://open.spotify.com/artist/72l1FxPT1pEy9kuGz2UC1w"
+        }
+      ],
+      "duration_ms": 96125,
+      "name": "THE GIRL WILL BE OKAY",
+      "url": "https://open.spotify.com/track/0QbzrbAp8Mfu1cdmFRbgBx"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
         "name": "I Can't Hate You",
         "url": "https://open.spotify.com/album/0hza96UteVyFpucn2BpAUc"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 178480,
       "name": "I Can't Hate You",
       "url": "https://open.spotify.com/track/21NeQgKhabORuZ3pfsPfz5"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
-        "name": "THE GIRL WILL BE OKAY",
-        "url": "https://open.spotify.com/album/5Iv87ZOJiSAfvxYyarcdts"
-      },
-      "artists": [
-        {
-          "name": "RC AVENUE",
-          "url": "https://open.spotify.com/artist/72l1FxPT1pEy9kuGz2UC1w"
-        }
-      ],
-      "duration_ms": 96125,
-      "name": "THE GIRL WILL BE OKAY",
-      "url": "https://open.spotify.com/track/0QbzrbAp8Mfu1cdmFRbgBx"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -617,6 +617,22 @@
       "url": "https://open.spotify.com/track/6djLGpfM8gPfaENZK5CvqL"
     },
     {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
+        "name": "Unpeeled",
+        "url": "https://open.spotify.com/album/4zpN41aGAYPWX3dzE19rH7"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "duration_ms": 280213,
+      "name": "Right Before My Eyes - Unpeeled",
+      "url": "https://open.spotify.com/track/7d6qX28ITEgBUhCJ86SeYq"
+    },
+    {
       "added_at": "2024-03-07 21:03:22",
       "album": {
         "name": "another life",
@@ -637,20 +653,20 @@
       "url": "https://open.spotify.com/track/1LRDoxji2NI4tkjkbYGCAC"
     },
     {
-      "added_at": "2023-09-29 20:20:52",
+      "added_at": "2024-05-10 21:58:08",
       "album": {
-        "name": "Unpeeled",
-        "url": "https://open.spotify.com/album/4zpN41aGAYPWX3dzE19rH7"
+        "name": "Rick(y)",
+        "url": "https://open.spotify.com/album/6eZQMCNFzChRdYviYn4LOn"
       },
       "artists": [
         {
-          "name": "Cage The Elephant",
-          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+          "name": "Ricky Montgomery",
+          "url": "https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw"
         }
       ],
-      "duration_ms": 280213,
-      "name": "Right Before My Eyes - Unpeeled",
-      "url": "https://open.spotify.com/track/7d6qX28ITEgBUhCJ86SeYq"
+      "duration_ms": 122366,
+      "name": "Here Comes the Moon",
+      "url": "https://open.spotify.com/track/0rSpqlc27kMB5gpad5mLMV"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -667,22 +683,6 @@
       "duration_ms": 212119,
       "name": "willow",
       "url": "https://open.spotify.com/track/61qLoMpEncPR7n8Ibf8Bhh"
-    },
-    {
-      "added_at": "2024-05-10 21:58:08",
-      "album": {
-        "name": "Rick(y)",
-        "url": "https://open.spotify.com/album/6eZQMCNFzChRdYviYn4LOn"
-      },
-      "artists": [
-        {
-          "name": "Ricky Montgomery",
-          "url": "https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw"
-        }
-      ],
-      "duration_ms": 122366,
-      "name": "Here Comes the Moon",
-      "url": "https://open.spotify.com/track/0rSpqlc27kMB5gpad5mLMV"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -801,22 +801,6 @@
       "url": "https://open.spotify.com/track/1pVvfmQB9OB8FqCbp2UGA8"
     },
     {
-      "added_at": "2024-03-07 21:03:22",
-      "album": {
-        "name": "Your Mother's Name",
-        "url": "https://open.spotify.com/album/0oTmJI1vJfW5D7zH9fGByM"
-      },
-      "artists": [
-        {
-          "name": "Susannah Joffe",
-          "url": "https://open.spotify.com/artist/3JGxLjd5coSPknSlbYyNLw"
-        }
-      ],
-      "duration_ms": 139086,
-      "name": "Die Your Daughter",
-      "url": "https://open.spotify.com/track/5Ey7icpjKCGpi5oJi7VLdu"
-    },
-    {
       "added_at": "2024-05-10 21:58:08",
       "album": {
         "name": "i'll remember tonight",
@@ -831,6 +815,22 @@
       "duration_ms": 237733,
       "name": "i'll remember tonight",
       "url": "https://open.spotify.com/track/06IdOdSeh4nnIgH3btVa7j"
+    },
+    {
+      "added_at": "2024-03-07 21:03:22",
+      "album": {
+        "name": "Your Mother's Name",
+        "url": "https://open.spotify.com/album/0oTmJI1vJfW5D7zH9fGByM"
+      },
+      "artists": [
+        {
+          "name": "Susannah Joffe",
+          "url": "https://open.spotify.com/artist/3JGxLjd5coSPknSlbYyNLw"
+        }
+      ],
+      "duration_ms": 139086,
+      "name": "Die Your Daughter",
+      "url": "https://open.spotify.com/track/5Ey7icpjKCGpi5oJi7VLdu"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "grim",
-        "url": "https://open.spotify.com/album/0PCca8yteh8duIBDV9PX55"
-      },
-      "artists": [
-        {
-          "name": "sadeyes",
-          "url": "https://open.spotify.com/artist/5fj4oi7qHDoklvnnYmSBl0"
-        }
-      ],
-      "duration_ms": 134885,
-      "name": "fragment",
-      "url": "https://open.spotify.com/track/77OWuDUCJMhizuSjOXDJbl"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
         "name": "VERY ALONE",
         "url": "https://open.spotify.com/album/3MFv8OuVq7MKHRMoAKwFjK"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 131146,
       "name": "VERY ALONE",
       "url": "https://open.spotify.com/track/1LCgehdvJ91SgSRuI7Ez90"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
+        "name": "grim",
+        "url": "https://open.spotify.com/album/0PCca8yteh8duIBDV9PX55"
+      },
+      "artists": [
+        {
+          "name": "sadeyes",
+          "url": "https://open.spotify.com/artist/5fj4oi7qHDoklvnnYmSBl0"
+        }
+      ],
+      "duration_ms": 134885,
+      "name": "fragment",
+      "url": "https://open.spotify.com/track/77OWuDUCJMhizuSjOXDJbl"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -1311,8 +1311,8 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "Ur Gonna Wish U Believed Me",
-        "url": "https://open.spotify.com/album/7Ddogby9L1bwm8sPaKfCf6"
+        "name": "squares / y 13",
+        "url": "https://open.spotify.com/album/1TszPNUGDtDdfgg1SPDPH6"
       },
       "artists": [
         {
@@ -1320,9 +1320,9 @@
           "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
         }
       ],
-      "duration_ms": 271420,
-      "name": "Ur Gonna Wish U Believed Me",
-      "url": "https://open.spotify.com/track/3f9Xt5Bcu1QooplxlTPEtb"
+      "duration_ms": 267031,
+      "name": "squares",
+      "url": "https://open.spotify.com/track/0byJI4UB0ibHxUVz5Fz5Ne"
     },
     {
       "added_at": "2024-05-10 21:58:08",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "Long Distance",
-        "url": "https://open.spotify.com/album/0nneppOsi22SxvwMOuISXQ"
-      },
-      "artists": [
-        {
-          "name": "Ralph Castelli",
-          "url": "https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Lonely",
-      "url": "https://open.spotify.com/track/4fPk5AIvhAOK9KELmztQxX"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
         "name": "FRIENDS KEEP SECRETS 2",
         "url": "https://open.spotify.com/album/7jainWomsRbTs5dGUOP21C"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 290466,
       "name": "Care (with Omar Apollo)",
       "url": "https://open.spotify.com/track/296wnQ0NPmj0hwpdhICSRy"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
+        "name": "Long Distance",
+        "url": "https://open.spotify.com/album/0nneppOsi22SxvwMOuISXQ"
+      },
+      "artists": [
+        {
+          "name": "Ralph Castelli",
+          "url": "https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/4fPk5AIvhAOK9KELmztQxX"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -1429,24 +1429,24 @@
       "url": "https://open.spotify.com/track/3cPY5q1lGDddy2UTmhkD8O"
     },
     {
-      "added_at": "2024-05-10 21:58:08",
+      "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "Let's get married",
-        "url": "https://open.spotify.com/album/6XQ4kJtZycCrz4JrsqCOac"
+        "name": "Afterglow",
+        "url": "https://open.spotify.com/album/6t1lPagW4j5xy89gEYEyXy"
       },
       "artists": [
         {
-          "name": "Delacey",
-          "url": "https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb"
+          "name": "Portair",
+          "url": "https://open.spotify.com/artist/5eNDu0xRakAeO0Za8pRIuG"
         },
         {
-          "name": "Valley Boy",
-          "url": "https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD"
+          "name": "WYNNE",
+          "url": "https://open.spotify.com/artist/7MtZPIh0gpnInKFnXGcYDS"
         }
       ],
-      "duration_ms": 161448,
-      "name": "Let's get married",
-      "url": "https://open.spotify.com/track/7zBhqzhAGVduUCOXA0fava"
+      "duration_ms": 190741,
+      "name": "Afterglow",
+      "url": "https://open.spotify.com/track/4xRDWaPf1AuMJo9sytQU0w"
     },
     {
       "added_at": "2024-05-10 21:58:08",
@@ -1467,8 +1467,8 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "squares / y 13",
-        "url": "https://open.spotify.com/album/1TszPNUGDtDdfgg1SPDPH6"
+        "name": "Ur Gonna Wish U Believed Me",
+        "url": "https://open.spotify.com/album/7Ddogby9L1bwm8sPaKfCf6"
       },
       "artists": [
         {
@@ -1476,29 +1476,9 @@
           "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
         }
       ],
-      "duration_ms": 267031,
-      "name": "squares",
-      "url": "https://open.spotify.com/track/0byJI4UB0ibHxUVz5Fz5Ne"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
-        "name": "Afterglow",
-        "url": "https://open.spotify.com/album/6t1lPagW4j5xy89gEYEyXy"
-      },
-      "artists": [
-        {
-          "name": "Portair",
-          "url": "https://open.spotify.com/artist/5eNDu0xRakAeO0Za8pRIuG"
-        },
-        {
-          "name": "WYNNE",
-          "url": "https://open.spotify.com/artist/7MtZPIh0gpnInKFnXGcYDS"
-        }
-      ],
-      "duration_ms": 190741,
-      "name": "Afterglow",
-      "url": "https://open.spotify.com/track/4xRDWaPf1AuMJo9sytQU0w"
+      "duration_ms": 271420,
+      "name": "Ur Gonna Wish U Believed Me",
+      "url": "https://open.spotify.com/track/3f9Xt5Bcu1QooplxlTPEtb"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -1521,20 +1501,24 @@
       "url": "https://open.spotify.com/track/0aTYHNdEClzKSBPpLvKsvr"
     },
     {
-      "added_at": "2023-09-29 20:20:52",
+      "added_at": "2024-05-10 21:58:08",
       "album": {
-        "name": "Learning",
-        "url": "https://open.spotify.com/album/0g1hqdwk04yfQdXgt3ifzG"
+        "name": "Let's get married",
+        "url": "https://open.spotify.com/album/6XQ4kJtZycCrz4JrsqCOac"
       },
       "artists": [
         {
-          "name": "Debbii Dawson",
-          "url": "https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh"
+          "name": "Delacey",
+          "url": "https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb"
+        },
+        {
+          "name": "Valley Boy",
+          "url": "https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD"
         }
       ],
-      "duration_ms": 136250,
-      "name": "Eulogy For Nobody",
-      "url": "https://open.spotify.com/track/11ozTm1ilFrLxwtdWt1iK0"
+      "duration_ms": 161448,
+      "name": "Let's get married",
+      "url": "https://open.spotify.com/track/7zBhqzhAGVduUCOXA0fava"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -1603,6 +1587,22 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
+        "name": "Learning",
+        "url": "https://open.spotify.com/album/0g1hqdwk04yfQdXgt3ifzG"
+      },
+      "artists": [
+        {
+          "name": "Debbii Dawson",
+          "url": "https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh"
+        }
+      ],
+      "duration_ms": 136250,
+      "name": "Eulogy For Nobody",
+      "url": "https://open.spotify.com/track/11ozTm1ilFrLxwtdWt1iK0"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
         "name": "emma, u up?",
         "url": "https://open.spotify.com/album/0SSLoMyVE2AiMtUMWVwg76"
       },
@@ -1615,22 +1615,6 @@
       "duration_ms": 144000,
       "name": "emma, u up?",
       "url": "https://open.spotify.com/track/5Z7WYPOCE6FCbg3NZrYDvh"
-    },
-    {
-      "added_at": "2023-10-16 20:29:38",
-      "album": {
-        "name": "trust exercises",
-        "url": "https://open.spotify.com/album/7F8Up4TqiQZO2cdsVUDUY8"
-      },
-      "artists": [
-        {
-          "name": "easy life",
-          "url": "https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK"
-        }
-      ],
-      "duration_ms": 214002,
-      "name": "trust exercises",
-      "url": "https://open.spotify.com/track/3NEPYiw4V5tmQLguweXgPP"
     },
     {
       "added_at": "2024-03-07 21:03:22",
@@ -1647,6 +1631,22 @@
       "duration_ms": 162013,
       "name": "In My Room",
       "url": "https://open.spotify.com/track/37mJhGOHG3oNeSmMVMRDBB"
+    },
+    {
+      "added_at": "2023-10-16 20:29:38",
+      "album": {
+        "name": "trust exercises",
+        "url": "https://open.spotify.com/album/7F8Up4TqiQZO2cdsVUDUY8"
+      },
+      "artists": [
+        {
+          "name": "easy life",
+          "url": "https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK"
+        }
+      ],
+      "duration_ms": 214002,
+      "name": "trust exercises",
+      "url": "https://open.spotify.com/track/3NEPYiw4V5tmQLguweXgPP"
     },
     {
       "added_at": "2023-09-29 20:20:52",

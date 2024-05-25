@@ -705,6 +705,24 @@
     },
     {
       "album": {
+        "name": "Eu Vou",
+        "url": "https://open.spotify.com/album/3VwjA6TL1mFL87K3My04VA"
+      },
+      "artists": [
+        {
+          "name": "LUDI",
+          "url": "https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133853,
+      "name": "Eu Vou",
+      "url": "https://open.spotify.com/track/7bBZWejBWjegNDZpdK5GkK"
+    },
+    {
+      "album": {
         "name": "Deixa-Te Modelar",
         "url": "https://open.spotify.com/album/06sZ6iCaL7EV1HOy8bFGhq"
       },

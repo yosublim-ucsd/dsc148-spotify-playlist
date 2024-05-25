@@ -5957,6 +5957,24 @@
     },
     {
       "album": {
+        "name": "The Craving (single version)",
+        "url": "https://open.spotify.com/album/7K7eWZNR5t9UBlrN2ltzLI"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173866,
+      "name": "The Craving (single version)",
+      "url": "https://open.spotify.com/track/0S7lkKStHgfgjgwSFOvRNA"
+    },
+    {
+      "album": {
         "name": "The Feel",
         "url": "https://open.spotify.com/album/4wMtlquxyRVtSk6nNOWDOT"
       },
@@ -6094,7 +6112,7 @@
       ],
       "date_added": "2019-06-16",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 210943,
       "name": "The Youth",
       "url": "https://open.spotify.com/track/34VxehtpB6VaZ7s0rHOOXb"

@@ -2460,7 +2460,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 273600,
       "name": "Brokenhearted",
       "url": "https://open.spotify.com/track/3s6NVWtlt4UCf0J3lwNDbA"
@@ -2942,7 +2942,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 188571,
       "name": "Ceremony",
       "url": "https://open.spotify.com/track/6kPi7wWjP3OCnLrolHJeHQ"
@@ -3184,7 +3184,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 225428,
       "name": "CLICK",
       "url": "https://open.spotify.com/track/0of4XBoLyjnbhTDgIRvQT5"
@@ -3808,7 +3808,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-18",
+      "date_removed": null,
       "duration_ms": 187200,
       "name": "Deadweight",
       "url": "https://open.spotify.com/track/1LVQWik5SWl7Sqd9achOuX"
@@ -5937,6 +5937,28 @@
     },
     {
       "album": {
+        "name": "FEEL AGAIN",
+        "url": "https://open.spotify.com/album/4kHLkD35YdrfrJLdXeb3dW"
+      },
+      "artists": [
+        {
+          "name": "OddKidOut",
+          "url": "https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux"
+        },
+        {
+          "name": "ellie d.",
+          "url": "https://open.spotify.com/artist/1sb3Wnb1EfKjGrGZxC7uhh"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167586,
+      "name": "FEEL AGAIN",
+      "url": "https://open.spotify.com/track/06R5NcXhfxHzw4b89lDB71"
+    },
+    {
+      "album": {
         "name": "Feel Anything",
         "url": "https://open.spotify.com/album/1ypr5ZvznewvPGn8bfRGjl"
       },
@@ -6142,7 +6164,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 200275,
       "name": "Feral",
       "url": "https://open.spotify.com/track/0DTGff67dAfbXMU14CWgnP"
@@ -7803,6 +7825,24 @@
     },
     {
       "album": {
+        "name": "Dogwater",
+        "url": "https://open.spotify.com/album/6SXovZDtjTYPfYTZ0yVxHx"
+      },
+      "artists": [
+        {
+          "name": "JAWNS",
+          "url": "https://open.spotify.com/artist/5dXHoJzpLuiEug5rSXeCib"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156444,
+      "name": "Hertz Donut",
+      "url": "https://open.spotify.com/track/6sAaasAUka6mKyyOTQUJPk"
+    },
+    {
+      "album": {
         "name": "HI-TECH",
         "url": "https://open.spotify.com/album/2cwfGnDOTg6CjVCkwOHGkH"
       },
@@ -8484,7 +8524,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-27",
+      "date_removed": null,
       "duration_ms": 230400,
       "name": "In The Place",
       "url": "https://open.spotify.com/track/64VyLST8MmGb2x5ilwNm2l"
@@ -9693,6 +9733,28 @@
     },
     {
       "album": {
+        "name": "LOADED",
+        "url": "https://open.spotify.com/album/32C8hb5LmXYLay6nTAjoO6"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "INFEKT",
+          "url": "https://open.spotify.com/artist/3I6KMDdmPiLE5UQ4XF8Kpl"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175448,
+      "name": "LOADED",
+      "url": "https://open.spotify.com/track/44Cg4jfknLvTM7ywPHrwdL"
+    },
+    {
+      "album": {
         "name": "Looking For More",
         "url": "https://open.spotify.com/album/3j32wZ0pudc0BLviHDVpi3"
       },
@@ -10151,6 +10213,28 @@
     },
     {
       "album": {
+        "name": "MELLOFIRE",
+        "url": "https://open.spotify.com/album/0EFGzNvzeRJEwYzxDiavHd"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "SampliFire",
+          "url": "https://open.spotify.com/artist/57gGqESEggWfCpE3KOzdVa"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "MELLOFIRE",
+      "url": "https://open.spotify.com/track/050CY7MuMkVwG6SQFGEeTQ"
+    },
+    {
+      "album": {
         "name": "Mercy",
         "url": "https://open.spotify.com/album/7634SoS9OTz1egYy9CFG2e"
       },
@@ -10210,7 +10294,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 218400,
       "name": "Mess",
       "url": "https://open.spotify.com/track/1YV5MOe4jrcwMOrKhxd8vH"
@@ -10984,7 +11068,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 219512,
       "name": "NEVER BE LONELY",
       "url": "https://open.spotify.com/track/4zU8t5VZPgUKEPuN3Oww1W"
@@ -11645,6 +11729,24 @@
     },
     {
       "album": {
+        "name": "oh ah",
+        "url": "https://open.spotify.com/album/2fTBaUXMJVI8pQ39YYZkUK"
+      },
+      "artists": [
+        {
+          "name": "The High",
+          "url": "https://open.spotify.com/artist/5mKNjpx3SmjNqtxQTmuo9Z"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123600,
+      "name": "oh ah",
+      "url": "https://open.spotify.com/track/31fAQ8MjS5r3hgIQMx17Pn"
+    },
+    {
+      "album": {
         "name": "OH LAWD",
         "url": "https://open.spotify.com/album/4qKjQ6GfhuN7WRxOHdB7U4"
       },
@@ -11686,7 +11788,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 141126,
       "name": "Okay Okay (with Eptic and IDK)",
       "url": "https://open.spotify.com/track/4bjyN1jFFC43cSTPtxqWpt"
@@ -11888,7 +11990,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 220952,
       "name": "One Chance (feat. Marlhy)",
       "url": "https://open.spotify.com/track/2PqmZr6uk48GxTmvZRYjfd"
@@ -12322,6 +12424,28 @@
       "duration_ms": 225600,
       "name": "Paper Moon",
       "url": "https://open.spotify.com/track/0QkLyxDS85ZsgqMazrhOMK"
+    },
+    {
+      "album": {
+        "name": "PARADOX",
+        "url": "https://open.spotify.com/album/20z7oJ2S5I8Elgk1q2efIz"
+      },
+      "artists": [
+        {
+          "name": "LSDREAM",
+          "url": "https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND"
+        },
+        {
+          "name": "Ruby Chase",
+          "url": "https://open.spotify.com/artist/7z3jWevFVKWVvlSbPVpjeq"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238181,
+      "name": "PARADOX",
+      "url": "https://open.spotify.com/track/0rGBmsGBjWAJoZXJpjXKPb"
     },
     {
       "album": {
@@ -12796,6 +12920,40 @@
       "duration_ms": 235813,
       "name": "Purity",
       "url": "https://open.spotify.com/track/0AzoovrzyAFTlOf2UaUPIx"
+    },
+    {
+      "album": {
+        "name": "Push",
+        "url": "https://open.spotify.com/album/3GSEVlHrbrQbKSP4ozWzx8"
+      },
+      "artists": [
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Hamdi",
+          "url": "https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg"
+        },
+        {
+          "name": "TAICHU",
+          "url": "https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN"
+        },
+        {
+          "name": "Contra",
+          "url": "https://open.spotify.com/artist/73BAwJ65pT6RvwR7JEkfEv"
+        },
+        {
+          "name": "OFFAIAH",
+          "url": "https://open.spotify.com/artist/2E1NFr5AeEGUJkLUUsWCAO"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185244,
+      "name": "Push",
+      "url": "https://open.spotify.com/track/29OFLlrrfKIEVwbVMTjBYe"
     },
     {
       "album": {
@@ -14450,7 +14608,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 130285,
       "name": "Shadows of Deceit",
       "url": "https://open.spotify.com/track/2saEmcdCaClJHTxadK9ZOp"
@@ -16180,7 +16338,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 234615,
       "name": "Ten Toes (Feat. MC Spyda, General Levy & Eksman)",
       "url": "https://open.spotify.com/track/6d7smhFOnBEVeaKAiYm8PK"
@@ -16242,7 +16400,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 181090,
       "name": "that's what you get",
       "url": "https://open.spotify.com/track/0RrZuYRSDMiPpYpSIs3dfS"
@@ -16902,6 +17060,32 @@
       "duration_ms": 235300,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/2QRj78RKZO2VGg2Z4SGCF8"
+    },
+    {
+      "album": {
+        "name": "Torture",
+        "url": "https://open.spotify.com/album/4ZVt3DEEjQaFCfloBApGl0"
+      },
+      "artists": [
+        {
+          "name": "NGHTMRE",
+          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
+        },
+        {
+          "name": "Franky Nuts",
+          "url": "https://open.spotify.com/artist/3YZPramylP3cGeVkbykhVZ"
+        },
+        {
+          "name": "DeathbyRomy",
+          "url": "https://open.spotify.com/artist/7aWpPjjgItUnXljFxYYKZI"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232000,
+      "name": "Torture",
+      "url": "https://open.spotify.com/track/5eo1iLxmJK3D4SXdDxY0Xr"
     },
     {
       "album": {
@@ -18326,6 +18510,24 @@
       "duration_ms": 256551,
       "name": "WITH U",
       "url": "https://open.spotify.com/track/1xuIethB7B6S14ZdQ2LxoW"
+    },
+    {
+      "album": {
+        "name": "with vengeance",
+        "url": "https://open.spotify.com/album/2BrCqqX0FnufWcOCEi53cK"
+      },
+      "artists": [
+        {
+          "name": "Nikita, the Wicked",
+          "url": "https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200598,
+      "name": "with vengeance",
+      "url": "https://open.spotify.com/track/1jUWJ90dmJLAb0AdL39vXU"
     },
     {
       "album": {

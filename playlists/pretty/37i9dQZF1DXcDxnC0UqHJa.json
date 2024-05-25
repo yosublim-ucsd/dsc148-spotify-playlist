@@ -1,6 +1,6 @@
 {
   "description": "Folksy takes on your favorite tracks. Cover: Norah Jones & Remi Wolf",
-  "num_followers": 460796,
+  "num_followers": 460817,
   "original_name": "Folksy Covers",
   "owner": {
     "name": "Spotify",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Lennon Bermuda",
-        "url": "https://open.spotify.com/album/5oprSAJ9hPKahkUBBSbOQj"
-      },
-      "artists": [
-        {
-          "name": "Heather Nova",
-          "url": "https://open.spotify.com/artist/76oeXwztPqAxVg9oqozK3z"
-        }
-      ],
-      "duration_ms": 143547,
-      "name": "Norwegian Wood",
-      "url": "https://open.spotify.com/track/2EK3UM0CKpjxMVk6JWRONr"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3r2nsltTqzo00OsH4aty5a"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 278611,
       "name": "Hannah Hunt",
       "url": "https://open.spotify.com/track/2es17WUR55CXoDIcKtT0eZ"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Lennon Bermuda",
+        "url": "https://open.spotify.com/album/5oprSAJ9hPKahkUBBSbOQj"
+      },
+      "artists": [
+        {
+          "name": "Heather Nova",
+          "url": "https://open.spotify.com/artist/76oeXwztPqAxVg9oqozK3z"
+        }
+      ],
+      "duration_ms": 143547,
+      "name": "Norwegian Wood",
+      "url": "https://open.spotify.com/track/2EK3UM0CKpjxMVk6JWRONr"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -795,22 +795,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Singing Other People's Love Songs",
-        "url": "https://open.spotify.com/album/3608IcniealifcqI8WbKte"
-      },
-      "artists": [
-        {
-          "name": "Lowland Hum",
-          "url": "https://open.spotify.com/artist/37YxyxKbCL7as3bH2adwQE"
-        }
-      ],
-      "duration_ms": 136891,
-      "name": "This Will Be Our Year",
-      "url": "https://open.spotify.com/track/3LPvSvPOv2z6FK4xyobePc"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Covers",
         "url": "https://open.spotify.com/album/5Uww2FfuPrPKdX7XfAyRGb"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 152885,
       "name": "I Think We\u2019re Alone Now",
       "url": "https://open.spotify.com/track/2NAY99q4qBsdJVDD3JDtLG"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Singing Other People's Love Songs",
+        "url": "https://open.spotify.com/album/3608IcniealifcqI8WbKte"
+      },
+      "artists": [
+        {
+          "name": "Lowland Hum",
+          "url": "https://open.spotify.com/artist/37YxyxKbCL7as3bH2adwQE"
+        }
+      ],
+      "duration_ms": 136891,
+      "name": "This Will Be Our Year",
+      "url": "https://open.spotify.com/track/3LPvSvPOv2z6FK4xyobePc"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "The Bridge School Concerts 25th Anniversary Edition",
-        "url": "https://open.spotify.com/album/48uNfLqdw5qyxMFZy41WlK"
-      },
-      "artists": [
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        }
-      ],
-      "duration_ms": 223133,
-      "name": "Jesus, Etc.",
-      "url": "https://open.spotify.com/track/7yt10HaB4Pg0c7pncxzqIp"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Pieces of the Sky (Expanded & Remastered)",
         "url": "https://open.spotify.com/album/04TlWfr3EnQE47HyNTBnex"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 197306,
       "name": "Bluebird Wine - 2003 Remaster",
       "url": "https://open.spotify.com/track/6GjOc3ZlVOzkHJJUzar2rl"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "The Bridge School Concerts 25th Anniversary Edition",
+        "url": "https://open.spotify.com/album/48uNfLqdw5qyxMFZy41WlK"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "duration_ms": 223133,
+      "name": "Jesus, Etc.",
+      "url": "https://open.spotify.com/track/7yt10HaB4Pg0c7pncxzqIp"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Sparks",
-        "url": "https://open.spotify.com/album/4U90Bo7CbGHeh1M8gKeaZG"
-      },
-      "artists": [
-        {
-          "name": "Jordana",
-          "url": "https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw"
-        }
-      ],
-      "duration_ms": 218750,
-      "name": "Sparks",
-      "url": "https://open.spotify.com/track/5L5hOvjcRVUCi9oSySDER4"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "...but i'd rather be with you, too",
         "url": "https://open.spotify.com/album/5rBVASdotOwS4z4a4LAbmS"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 197790,
       "name": "Strong Enough",
       "url": "https://open.spotify.com/track/69qLjFRZbz7V7uM13DtmOW"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Sparks",
+        "url": "https://open.spotify.com/album/4U90Bo7CbGHeh1M8gKeaZG"
+      },
+      "artists": [
+        {
+          "name": "Jordana",
+          "url": "https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw"
+        }
+      ],
+      "duration_ms": 218750,
+      "name": "Sparks",
+      "url": "https://open.spotify.com/track/5L5hOvjcRVUCi9oSySDER4"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
+        "name": "You're Still The One",
+        "url": "https://open.spotify.com/album/0iHiAPZvswtLHRhqZrZxHM"
+      },
+      "artists": [
+        {
+          "name": "Maple Glider",
+          "url": "https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk"
+        }
+      ],
+      "duration_ms": 296715,
+      "name": "You're Still The One",
+      "url": "https://open.spotify.com/track/2rqlJD4KKngNYUrk14dQWk"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
         "name": "There Is A War [Feat. Kevin Morby & Sam Cohen]",
         "url": "https://open.spotify.com/album/0lk3T7UZlCQBhVZeizAWbP"
       },
@@ -1367,22 +1383,6 @@
       "duration_ms": 222996,
       "name": "There Is A War [Feat. Kevin Morby & Sam Cohen]",
       "url": "https://open.spotify.com/track/6OmnOaeTaE6KGtsEaw6Lit"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "You're Still The One",
-        "url": "https://open.spotify.com/album/0iHiAPZvswtLHRhqZrZxHM"
-      },
-      "artists": [
-        {
-          "name": "Maple Glider",
-          "url": "https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk"
-        }
-      ],
-      "duration_ms": 296715,
-      "name": "You're Still The One",
-      "url": "https://open.spotify.com/track/2rqlJD4KKngNYUrk14dQWk"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Remembering Mountains : Unheard Songs By Karen Dalton",
-        "url": "https://open.spotify.com/album/0zH32ejJgyMAlwF0V3p6EI"
-      },
-      "artists": [
-        {
-          "name": "Sharon Van Etten",
-          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
-        }
-      ],
-      "duration_ms": 216773,
-      "name": "Remembering Mountains",
-      "url": "https://open.spotify.com/track/2zW0oWOUOc8KDLBCJXT80T"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Ohio / After The Gold Rush",
         "url": "https://open.spotify.com/album/0DstfAvDUGVokiUpr8k2ci"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 294142,
       "name": "After The Gold Rush",
       "url": "https://open.spotify.com/track/0YDtSXyLnPVYSl31N3bF54"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Remembering Mountains : Unheard Songs By Karen Dalton",
+        "url": "https://open.spotify.com/album/0zH32ejJgyMAlwF0V3p6EI"
+      },
+      "artists": [
+        {
+          "name": "Sharon Van Etten",
+          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
+        }
+      ],
+      "duration_ms": 216773,
+      "name": "Remembering Mountains",
+      "url": "https://open.spotify.com/track/2zW0oWOUOc8KDLBCJXT80T"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1731,6 +1731,22 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
+        "name": "i'm not okay",
+        "url": "https://open.spotify.com/album/7bLH8PFvqdSnlMkdiaJCCa"
+      },
+      "artists": [
+        {
+          "name": "Adam Melchor",
+          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
+        }
+      ],
+      "duration_ms": 174773,
+      "name": "i'm not okay",
+      "url": "https://open.spotify.com/track/7dGvMClz3JuBUs6qWfaqye"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
         "name": "Black Eyed Dog",
         "url": "https://open.spotify.com/album/3YKqcMhqAYrG90RKveNVkj"
       },
@@ -1747,22 +1763,6 @@
       "duration_ms": 168779,
       "name": "Black Eyed Dog",
       "url": "https://open.spotify.com/track/0ZRZ1iLy8QVnRs7SiSPIJ9"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "i'm not okay",
-        "url": "https://open.spotify.com/album/7bLH8PFvqdSnlMkdiaJCCa"
-      },
-      "artists": [
-        {
-          "name": "Adam Melchor",
-          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
-        }
-      ],
-      "duration_ms": 174773,
-      "name": "i'm not okay",
-      "url": "https://open.spotify.com/track/7dGvMClz3JuBUs6qWfaqye"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1903,22 +1903,18 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Someone Like You",
-        "url": "https://open.spotify.com/album/7hkImNgsAoOS5CtitpnFOb"
+        "name": "Elliot Greer Presents: Barebones I",
+        "url": "https://open.spotify.com/album/5jsVeQDD8XgW5hAEaBM9GA"
       },
       "artists": [
         {
-          "name": "Dan Wilson",
-          "url": "https://open.spotify.com/artist/045EiHd7X7cCjlamF0LV2M"
-        },
-        {
-          "name": "Kronos Quartet",
-          "url": "https://open.spotify.com/artist/0M6xcJTswOl2qvExCJhiS3"
+          "name": "Elliot Greer",
+          "url": "https://open.spotify.com/artist/6EFGjOozwPlW4PxLu8SoXD"
         }
       ],
-      "duration_ms": 291093,
-      "name": "Someone Like You",
-      "url": "https://open.spotify.com/track/3S7BZqv1qZO5hxku8u8fqB"
+      "duration_ms": 202788,
+      "name": "Vampire (Side A)",
+      "url": "https://open.spotify.com/track/2lGJtzntgzGN96xpouP9ry"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1939,18 +1935,22 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Elliot Greer Presents: Barebones I",
-        "url": "https://open.spotify.com/album/5jsVeQDD8XgW5hAEaBM9GA"
+        "name": "Someone Like You",
+        "url": "https://open.spotify.com/album/7hkImNgsAoOS5CtitpnFOb"
       },
       "artists": [
         {
-          "name": "Elliot Greer",
-          "url": "https://open.spotify.com/artist/6EFGjOozwPlW4PxLu8SoXD"
+          "name": "Dan Wilson",
+          "url": "https://open.spotify.com/artist/045EiHd7X7cCjlamF0LV2M"
+        },
+        {
+          "name": "Kronos Quartet",
+          "url": "https://open.spotify.com/artist/0M6xcJTswOl2qvExCJhiS3"
         }
       ],
-      "duration_ms": 202788,
-      "name": "Vampire (Side A)",
-      "url": "https://open.spotify.com/track/2lGJtzntgzGN96xpouP9ry"
+      "duration_ms": 291093,
+      "name": "Someone Like You",
+      "url": "https://open.spotify.com/track/3S7BZqv1qZO5hxku8u8fqB"
     }
   ],
   "unique_name": "Folksy Covers",

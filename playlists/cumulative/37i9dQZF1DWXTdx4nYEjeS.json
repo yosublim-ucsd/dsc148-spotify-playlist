@@ -204,7 +204,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 182876,
       "name": "A la Vez",
       "url": "https://open.spotify.com/track/5C9IeDOtfwkDUGd9aF2ELI"
@@ -5457,6 +5457,24 @@
     },
     {
       "album": {
+        "name": "Candombe Con La Ayudita De Mis Amigos",
+        "url": "https://open.spotify.com/album/0wwTfU7BUANqTrR6nlV2pD"
+      },
+      "artists": [
+        {
+          "name": "Ruben Rada",
+          "url": "https://open.spotify.com/artist/5AfGpwSbYKelc5nJjUVRmb"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232733,
+      "name": "D\u00eda De Domingo",
+      "url": "https://open.spotify.com/track/1mtQPjYoQ3b8D7KuZ7rEOh"
+    },
+    {
+      "album": {
         "name": "Con la Misma Moneda",
         "url": "https://open.spotify.com/album/0uHMJhys3A6ZexbwOQj0Hc"
       },
@@ -6420,7 +6438,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 522000,
       "name": "En la Ciudad de la Furia - MTV Unplugged",
       "url": "https://open.spotify.com/track/2p4FOWHHd2A6TBmTkdt1G0"
@@ -11094,7 +11112,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 222994,
       "name": "MELANCOL\u00cdA",
       "url": "https://open.spotify.com/track/41N9Co3jknF8m5BH0cNdqb"
@@ -14431,6 +14449,24 @@
     },
     {
       "album": {
+        "name": "P\u00f3stumo",
+        "url": "https://open.spotify.com/album/3GyuGgiV1VhQpYmwaCtQWQ"
+      },
+      "artists": [
+        {
+          "name": "Benjam\u00edn Amadeo",
+          "url": "https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214004,
+      "name": "P\u00f3stumo",
+      "url": "https://open.spotify.com/track/17EDLQzOKhHbwxCZBE8W5w"
+    },
+    {
+      "album": {
         "name": "q haces?",
         "url": "https://open.spotify.com/album/1wBLasyWpyYSmMbkEAjhfy"
       },
@@ -17534,6 +17570,24 @@
       "duration_ms": 170095,
       "name": "TU SI K TA LOKO",
       "url": "https://open.spotify.com/track/147SiJnBgxPKsuEYY5kMZT"
+    },
+    {
+      "album": {
+        "name": "Momentos",
+        "url": "https://open.spotify.com/album/4otpESFklCmaNyfdxaRueD"
+      },
+      "artists": [
+        {
+          "name": "Nahuel Pennisi",
+          "url": "https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216683,
+      "name": "Tu Sonrisa",
+      "url": "https://open.spotify.com/track/2fvS1uq09HxUdb5TacY4af"
     },
     {
       "album": {

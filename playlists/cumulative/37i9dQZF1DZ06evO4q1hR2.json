@@ -971,6 +971,28 @@
     },
     {
       "album": {
+        "name": "Las Culebras",
+        "url": "https://open.spotify.com/album/2Vvf4lURmmpC9QLeP28Kte"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        },
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "date_added": "2024-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161893,
+      "name": "Las Culebras",
+      "url": "https://open.spotify.com/track/1TyylTtAQXE6iYtAkaXTK9"
+    },
+    {
+      "album": {
         "name": "Escuela de la Vida",
         "url": "https://open.spotify.com/album/1FajOqCHXRux8YmKtYVbjg"
       },
@@ -1814,7 +1836,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 157274,
       "name": "Trienta Cartas",
       "url": "https://open.spotify.com/track/2h2e7oQQrXOMFSy4ttLaLU"

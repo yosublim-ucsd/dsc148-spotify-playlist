@@ -4,7 +4,7 @@
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Bluay
 
-608 songs - 1 day 8 hr 25 min
+609 songs - 1 day 8 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Break It](https://open.spotify.com/track/05vnos9Hfj27gKeReNWDNF) | [mishlawi](https://open.spotify.com/artist/27zRRhF2K0ai7JQxgAOZMF) | [Break It](https://open.spotify.com/album/2VGFyPuCNtXM9Y87rVW8Kq) | 2:24 | 2022-07-07 | 2023-04-28 |
 | [brilhante](https://open.spotify.com/track/46YB25J4LcAJ3WnGhGqGLd) | [Hachibae](https://open.spotify.com/artist/4Y32ard944s09cbgtFOD0i), [Ghost Wayne](https://open.spotify.com/artist/6fm87lblu89jZKJyMoHxxL) | [brilhante](https://open.spotify.com/album/40CKlrqbamQhrynPYJXjqz) | 2:55 | 2023-02-17 | 2023-03-11 |
 | [Brio](https://open.spotify.com/track/6DuYI9CWcb5tlBCft2Bp50) | [L\-ALI](https://open.spotify.com/artist/2O6Oes2ZnqSwoUHFl7rTyy), [Lunn](https://open.spotify.com/artist/3DhbIvEFQyWMVbVJByMMfW) | [Brio](https://open.spotify.com/album/26nGzK7VQ4i5APQW3BfApY) | 2:38 | 2023-07-06 | 2023-07-28 |
+| [Brisa](https://open.spotify.com/track/4LTeOBINTH5oxiKojXVN2C) | [TREZE](https://open.spotify.com/artist/5qaKZuVHAm3pM1oRaqTIJL) | [Brisa](https://open.spotify.com/album/2wcQyTLSo4epMdo2gahgvm) | 2:58 | 2024-05-24 |  |
 | [Brutos Diamantes](https://open.spotify.com/track/2Dn1EJ0AQAWSgl3cyeJK3V) | [SYRO](https://open.spotify.com/artist/55axQKUUXr8LoUcKagMp5x), [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY) | [Brutos Diamantes](https://open.spotify.com/album/0bAS2LP1ELHvX2BWJHDqan) | 2:56 | 2023-11-10 |  |
 | [BUNUNU](https://open.spotify.com/track/27RbLCNT9NqJFAqkCD2dEq) | [Remedy DON Dadda](https://open.spotify.com/artist/4Pk4SkoJXaM7GCpRHKK8yL), [AET](https://open.spotify.com/artist/1PSaLNwxWV9e6NCrxNbpIu) | [BUNUNU](https://open.spotify.com/album/7rPdVXdoU2IHD3h8fBlTI9) | 3:02 | 2023-11-10 | 2023-11-18 |
 | [Bênção](https://open.spotify.com/track/1hdWqiFAy5hNRxyVpDy81P) | [Mizzy Miles](https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I), [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS), [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY) | [Bênção](https://open.spotify.com/album/0qh2Oll4rfSc8I3tO1fYv0) | 3:25 | 2024-03-01 |  |
@@ -275,7 +276,7 @@
 | [In The Middle](https://open.spotify.com/track/3IQQGIHWNK1ryHqoMtqUZg) | [SFISTIKATED](https://open.spotify.com/artist/2LkUD32emCfDhhfldggZ9T), [Rezar](https://open.spotify.com/artist/0KwVGVN1bZfDNQVOySxjsk) | [In The Middle](https://open.spotify.com/album/6etc4KshHLH0RaeZrr0Vgi) | 3:37 | 2023-03-01 | 2023-03-25 |
 | [Incondicional](https://open.spotify.com/track/6lPmN0eGKHfOBWtg1j3POy) | [Eva Rapdiva](https://open.spotify.com/artist/3aS15wWCmzXkFRIvbu2KUd), [Deezy](https://open.spotify.com/artist/6EoXtJUmzYqNzkMVH1o5gN), [Teo No Beat](https://open.spotify.com/artist/4HLRxCBJE5n6Mm0sTzUEv2) | [Incondicional](https://open.spotify.com/album/2P0qrKBUGVHvzvZLcParmC) | 3:25 | 2023-11-17 | 2023-12-15 |
 | [Interfeer](https://open.spotify.com/track/0Sc0LtMt22xo48C8YiojYk) | [Chá Black](https://open.spotify.com/artist/3tiL6mQyAaxxHVa8lMudaI), [Rikas](https://open.spotify.com/artist/4Vfwk2pzV3ppLQ93PtT54a), [MasterPiece](https://open.spotify.com/artist/2A4Hd66juilvQXfb8JQe0L) | [Interfeer](https://open.spotify.com/album/20HDAlAV4WyhRQ8JmgwwvB) | 3:42 | 2023-09-14 | 2023-10-06 |
-| [INÍCIO](https://open.spotify.com/track/0pWS7S3UEkh2zGcNyB2p28) | [ZARCO](https://open.spotify.com/artist/39THfEzb8ivv7RVBzn39Zf) | [INÍCIO](https://open.spotify.com/album/2cYblQu0jTbi8qv71eaoBD) | 3:25 | 2024-04-18 |  |
+| [INÍCIO](https://open.spotify.com/track/0pWS7S3UEkh2zGcNyB2p28) | [ZARCO](https://open.spotify.com/artist/39THfEzb8ivv7RVBzn39Zf) | [INÍCIO](https://open.spotify.com/album/2cYblQu0jTbi8qv71eaoBD) | 3:25 | 2024-04-18 | 2024-05-25 |
 | [jingle.tm \- remix](https://open.spotify.com/track/4mXY3BEmpSxceP5bsT9JI5) | [PTM](https://open.spotify.com/artist/0wqRH0NmahVaDoeCXRlEuP), [LON3R JOHNY](https://open.spotify.com/artist/1fV7Au7ymGP3uhDV1TfjSd), [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS), [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G), [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS), [ProfJam](https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP), [Lhast](https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw) | [jingle.tm](https://open.spotify.com/album/5TTL9OOjczMupeEm3u2yM4) | 3:02 | 2024-04-25 |  |
 | [Jorge Mundo](https://open.spotify.com/track/249u6O2uBVavumgxEpQyWN) | [Reyz](https://open.spotify.com/artist/17NgBeR3LCYGxecmH0PTOl) | [Jorge Mundo](https://open.spotify.com/album/2jtgdgFSqKMJX2AuBIXnYA) | 3:27 | 2022-08-18 | 2022-09-02 |
 | [Jura](https://open.spotify.com/track/23GXQ3JzXWx72SM6eZP1B8) | [Jimmy P](https://open.spotify.com/artist/0Odg6UKDVyJQruefzF19FU) | [Jura](https://open.spotify.com/album/7ckkZsKrcK4fegh5MhbDif) | 2:52 | 2023-08-03 | 2023-09-15 |

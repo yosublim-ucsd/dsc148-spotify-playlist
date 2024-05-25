@@ -2,7 +2,7 @@
 
 ### [This Is The Clash](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2fKbHG)
 
-> This Is The Clash\. Los temas esenciales, todos en una lista.
+> This is The Clash\. The essential tracks, all in one playlist.
 
 61 songs - 3 hr 33 min
 

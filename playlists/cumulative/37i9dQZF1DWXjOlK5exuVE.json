@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-08-22",
-  "description": "\u00a1Bienvenidos a La Tierra del Corrido! Historias que hacen historia. Los Tucanes de Tijuana en portada. ",
+  "description": "\u00a1Bienvenidos a La Tierra del Corrido! Historias que hacen historia. Joan Sebastian en portada. ",
   "name": "La Tierra del Corrido",
   "tracks": [
     {
@@ -352,7 +352,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 136913,
       "name": "Ch y la Pizza",
       "url": "https://open.spotify.com/track/1ySH55O0zbQBR77q8wQEyn"
@@ -933,6 +933,28 @@
     },
     {
       "album": {
+        "name": "El Chulo",
+        "url": "https://open.spotify.com/album/3fqu1APHpe2qBiI3NgBmZj"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        },
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146146,
+      "name": "El Chulo",
+      "url": "https://open.spotify.com/track/4xydTcMJJGaTEJUdYaEUmQ"
+    },
+    {
+      "album": {
         "name": "Y Seguimos La Borrachera",
         "url": "https://open.spotify.com/album/1Dtzxd3Dumtysst0Xk4HnD"
       },
@@ -948,6 +970,24 @@
       "duration_ms": 199471,
       "name": "El Cigarrito Banado",
       "url": "https://open.spotify.com/track/0HeTasu9tMyqTFP7Exu6E7"
+    },
+    {
+      "album": {
+        "name": "El Consentido",
+        "url": "https://open.spotify.com/album/03d5AiP5PEssrmQ033TuOm"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201884,
+      "name": "El Consentido",
+      "url": "https://open.spotify.com/track/3PCAcQyEjs89Wr4VvxtNGH"
     },
     {
       "album": {
@@ -1078,6 +1118,24 @@
       "duration_ms": 205141,
       "name": "El De Las Mieles",
       "url": "https://open.spotify.com/track/1ON9tDhxK7Omz2vHVWkLCi"
+    },
+    {
+      "album": {
+        "name": "El del Morral",
+        "url": "https://open.spotify.com/album/0WyHtAY76R3I9pMI5TOfey"
+      },
+      "artists": [
+        {
+          "name": "Grupo Laberinto",
+          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171587,
+      "name": "El del Morral",
+      "url": "https://open.spotify.com/track/2lkL6T9gJ0yqGFLztjdNcr"
     },
     {
       "album": {
@@ -1212,7 +1270,7 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 112087,
       "name": "El Gordo Trae El Mando",
       "url": "https://open.spotify.com/track/3kf0WdFOalKWBkCCLJo4mA"
@@ -2312,7 +2370,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 129500,
       "name": "Kalashnikov",
       "url": "https://open.spotify.com/track/3zFLlF1SvWCt9oZUVPZehW"
@@ -2494,6 +2552,28 @@
       "duration_ms": 277460,
       "name": "La Fuga Del Dorian",
       "url": "https://open.spotify.com/track/5DgIgLz265MAoaBulWlV5f"
+    },
+    {
+      "album": {
+        "name": "El General",
+        "url": "https://open.spotify.com/album/5jfEZzk2tqBlPisJv6ov78"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        },
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155306,
+      "name": "La Gran Pachanga",
+      "url": "https://open.spotify.com/track/4cyXq6gzdDDa8nRercj5C9"
     },
     {
       "album": {
@@ -3147,6 +3227,24 @@
     },
     {
       "album": {
+        "name": "Me Dicen Pollito",
+        "url": "https://open.spotify.com/album/6WDnOFc2zd7QhjC5PU1Q4l"
+      },
+      "artists": [
+        {
+          "name": "Ra\u00fal Beltran",
+          "url": "https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259035,
+      "name": "Me Dicen Pollito",
+      "url": "https://open.spotify.com/track/4YyS1wqUv82TpRFPKfucl0"
+    },
+    {
+      "album": {
         "name": "Me Equivoqu\u00e9",
         "url": "https://open.spotify.com/album/7iFGsdLVmXjCiPeVdDTYX7"
       },
@@ -3389,6 +3487,24 @@
     },
     {
       "album": {
+        "name": "No Mastico Culebras",
+        "url": "https://open.spotify.com/album/0fpStU1jiwUS38aRfiSoOW"
+      },
+      "artists": [
+        {
+          "name": "Los Chavalitos",
+          "url": "https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134975,
+      "name": "No Mastico Culebras",
+      "url": "https://open.spotify.com/track/4leBhPSlAThn6GDviA2Tlp"
+    },
+    {
+      "album": {
         "name": "La Garra De...",
         "url": "https://open.spotify.com/album/36X48S9LwuT4hOF9igko7Y"
       },
@@ -3476,7 +3592,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 235061,
       "name": "Pixelados",
       "url": "https://open.spotify.com/track/77phWAt2l34OadUUUqi5ai"
@@ -3498,7 +3614,7 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 156040,
       "name": "Poco A Poco",
       "url": "https://open.spotify.com/track/4loIMejzvt11s97SGVEat8"
@@ -3668,7 +3784,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 238447,
       "name": "RUBICON",
       "url": "https://open.spotify.com/track/0xGZjxYqcNQ8WqxyeZ4eSN"
@@ -3704,7 +3820,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 156500,
       "name": "SABOR FRESA",
       "url": "https://open.spotify.com/track/1UMm1Qs3u59Wvk53zBUE8r"
@@ -3748,6 +3864,32 @@
       "duration_ms": 202021,
       "name": "Se Fue La Pantera (En Vivo)",
       "url": "https://open.spotify.com/track/6Yard5LK4aXEn0kBKtHSob"
+    },
+    {
+      "album": {
+        "name": "Se Volvieron Locos",
+        "url": "https://open.spotify.com/album/4LvndqvFdW4HsmC93jEeqY"
+      },
+      "artists": [
+        {
+          "name": "Grupo Selectivo",
+          "url": "https://open.spotify.com/artist/1EvLQTftUdMMQbOSeMOLn1"
+        },
+        {
+          "name": "Grupo Mente Maestra",
+          "url": "https://open.spotify.com/artist/7fReOInDdj4876IaRNzHC2"
+        },
+        {
+          "name": "Hector Rubio",
+          "url": "https://open.spotify.com/artist/2uSJ9ywE44eIRoTMatARAy"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160714,
+      "name": "Se Volvieron Locos",
+      "url": "https://open.spotify.com/track/7eUCC5cLcQVQVuE9JP0phS"
     },
     {
       "album": {

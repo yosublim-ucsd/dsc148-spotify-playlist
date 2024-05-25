@@ -3274,7 +3274,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 187000,
       "name": "Coming On Strong",
       "url": "https://open.spotify.com/track/5SyqIGTy7wgbPOQN6e3mlM"
@@ -4574,7 +4574,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 221584,
       "name": "Elements",
       "url": "https://open.spotify.com/track/6qWyL3wlqjxUbNhwcvlmcG"
@@ -6263,6 +6263,28 @@
     },
     {
       "album": {
+        "name": "Free Your Soul",
+        "url": "https://open.spotify.com/album/20HSSHpxaaxAHUYjCKA86p"
+      },
+      "artists": [
+        {
+          "name": "Spada",
+          "url": "https://open.spotify.com/artist/2hPCF7VDHhihvNdobslOHw"
+        },
+        {
+          "name": "Klara Sestiniova",
+          "url": "https://open.spotify.com/artist/0HiQZHV1PTmy0KBEXaMxzI"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198096,
+      "name": "Free Your Soul",
+      "url": "https://open.spotify.com/track/1i07sRwLRVMLp4QCuR8U3u"
+    },
+    {
+      "album": {
         "name": "The Archive, Pt. 1",
         "url": "https://open.spotify.com/album/30qXKFOhZgZak8pwONu1Cl"
       },
@@ -7630,7 +7652,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 178153,
       "name": "Hyper Hyper",
       "url": "https://open.spotify.com/track/7yDqQyCeTV2xXQP7tccX2D"
@@ -9676,6 +9698,24 @@
       "duration_ms": 205714,
       "name": "Lonely With You",
       "url": "https://open.spotify.com/track/4Y5FAQrTSqI2mlDF5i8lTi"
+    },
+    {
+      "album": {
+        "name": "Lore",
+        "url": "https://open.spotify.com/album/4hAh6uP5jYfGTW0YTtaoQz"
+      },
+      "artists": [
+        {
+          "name": "David Broaders",
+          "url": "https://open.spotify.com/artist/5HZLbeENEV5dYKfq2dG14b"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219952,
+      "name": "Lore",
+      "url": "https://open.spotify.com/track/0fuH8PTEbfLh4NLZ2xUkJh"
     },
     {
       "album": {
@@ -17220,7 +17260,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-24",
+      "date_removed": null,
       "duration_ms": 198654,
       "name": "Till The Sun Is Up High",
       "url": "https://open.spotify.com/track/6sS1woPe1F2CHvwr1JamkY"

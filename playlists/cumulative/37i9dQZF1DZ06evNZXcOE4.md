@@ -2,7 +2,7 @@
 
 ### [This Is Jane's Addiction](https://open.spotify.com/playlist/37i9dQZF1DZ06evNZXcOE4)
 
-> This is Jane's Addiction\. The essential tracks, all in one playlist.
+> This Is Jane's Addiction\. Los temas esenciales, todos en una lista.
 
 58 songs - 4 hr 21 min
 
@@ -27,7 +27,7 @@
 | [I'll Hit You Back](https://open.spotify.com/track/2qtXHxCj2sTZHwXQbAvIT0) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [The Great Escape Artist](https://open.spotify.com/album/0mqzGqI1ZDOWkr7we7Uard) | 3:48 | 2022-01-11 |  |
 | [Idiots Rule](https://open.spotify.com/track/51Nh6X9tfaBLQF3YyK6s2A) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Nothing's Shocking](https://open.spotify.com/album/4DVBJPJyizvHfJQt5pYaCa) | 3:01 | 2022-01-11 | 2022-10-13 |
 | [Irresistible Force](https://open.spotify.com/track/0D7r6CIGNRvs0IvsDOunZr) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [The Great Escape Artist](https://open.spotify.com/album/2xcFxFLi8CGvJLXBiVkHQj) | 4:00 | 2022-01-11 |  |
-| [Jane Says](https://open.spotify.com/track/7c1Dar0pIAW7w5TzaGjt9t) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Nothing's Shocking](https://open.spotify.com/album/4DVBJPJyizvHfJQt5pYaCa) | 4:47 | 2022-01-11 | 2024-05-24 |
+| [Jane Says](https://open.spotify.com/track/7c1Dar0pIAW7w5TzaGjt9t) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Nothing's Shocking](https://open.spotify.com/album/4DVBJPJyizvHfJQt5pYaCa) | 4:47 | 2022-01-11 |  |
 | [Just Because](https://open.spotify.com/track/3k6L0H08zSY5yRDgqI8fqx) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Strays](https://open.spotify.com/album/1Zyw4sk27JmiSQjD4gXszk) | 3:51 | 2022-01-11 |  |
 | [Kettle Whistle](https://open.spotify.com/track/1dtmoGPBXf345SW4HT5QUM) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Kettle Whistle](https://open.spotify.com/album/2N0n31aYPEwQGUQxNvhfMw) | 7:47 | 2022-01-11 |  |
 | [L.A\. Medley: L.A\. Woman / Nausea / Lexicon Devil \- Live, 1989](https://open.spotify.com/track/1emWNMyi5qMpp2zD7uYB6P) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [A Cabinet of Curiosities](https://open.spotify.com/album/3OruSfm0NBmUPhwTafdktT) | 3:43 | 2022-01-11 |  |
@@ -45,7 +45,7 @@
 | [Slow Divers \- Live](https://open.spotify.com/track/4KTJNobIzYHGWn0BkQA03r) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Kettle Whistle](https://open.spotify.com/album/2N0n31aYPEwQGUQxNvhfMw) | 4:35 | 2022-01-11 |  |
 | [So What!](https://open.spotify.com/track/5r9N2nRnW3IZhtQHFhAjxB) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Kettle Whistle](https://open.spotify.com/album/2N0n31aYPEwQGUQxNvhfMw) | 4:19 | 2022-01-11 |  |
 | [Splash A Little Water On It](https://open.spotify.com/track/6OrXMm2Ml4caLuU8D3czwU) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [The Great Escape Artist](https://open.spotify.com/album/0mqzGqI1ZDOWkr7we7Uard) | 5:13 | 2022-01-11 |  |
-| [Standing in the Shower...Thinking](https://open.spotify.com/track/7DzT745Oi9NI016FEkjWNa) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Nothing's Shocking](https://open.spotify.com/album/4DVBJPJyizvHfJQt5pYaCa) | 3:05 | 2022-01-11 |  |
+| [Standing in the Shower...Thinking](https://open.spotify.com/track/7DzT745Oi9NI016FEkjWNa) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Nothing's Shocking](https://open.spotify.com/album/4DVBJPJyizvHfJQt5pYaCa) | 3:05 | 2022-01-11 | 2024-05-25 |
 | [Stop](https://open.spotify.com/track/7F0dwqgKzlaIRrngChBRAc) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Ritual De Lo Habitual](https://open.spotify.com/album/2Jkbi83HTSfqEd0CBdYwpU) | 4:14 | 2022-01-11 |  |
 | [Strays](https://open.spotify.com/track/7fNLuDI0HJO61SWq0MctAn) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Strays](https://open.spotify.com/album/1Zyw4sk27JmiSQjD4gXszk) | 4:32 | 2022-01-27 |  |
 | [Suffer Some](https://open.spotify.com/track/2cTkuiLU9KFstJ2ikgrqPM) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Strays](https://open.spotify.com/album/1Zyw4sk27JmiSQjD4gXszk) | 4:14 | 2022-01-11 | 2022-08-19 |

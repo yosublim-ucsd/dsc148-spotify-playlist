@@ -4,7 +4,7 @@
 
 > Just good vibes all day long
 
-833 songs - 1 day 20 hr 50 min
+834 songs - 1 day 20 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -309,7 +309,7 @@
 | [Happy Music](https://open.spotify.com/track/3rh495Z2rIRwD316blea4f) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1) | [Happy Music / Something on My Mind](https://open.spotify.com/album/4D78IEl2Nl3ywiu254VOVn) | 3:52 | 2022-10-07 | 2022-10-19 |
 | [Happy Music](https://open.spotify.com/track/7uGpUhy4uf2UrHH7TyhM6C) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1) | [Happy Music / Something on My Mind](https://open.spotify.com/album/3UgxrgP8q9U0Zjz4t7PPGR) | 3:52 | 2022-10-07 | 2023-02-01 |
 | [happy stuff](https://open.spotify.com/track/1C7eURT2UroBgmOEAX2eiR) | [Walk Off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX) | [happy stuff](https://open.spotify.com/album/7myEihXeFfL1dv63LDaJoF) | 2:42 | 2022-08-26 | 2023-02-04 |
-| [HARLEY QUINN](https://open.spotify.com/track/6CvTEtGagmzQvkUzzyKR9k) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Pa las Baby's Y Belikeada](https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8) | 2:23 | 2023-11-17 |  |
+| [HARLEY QUINN](https://open.spotify.com/track/6CvTEtGagmzQvkUzzyKR9k) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Pa las Baby's Y Belikeada](https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8) | 2:23 | 2023-11-17 | 2024-05-25 |
 | [Harleys In Hawaii](https://open.spotify.com/track/5nCthAh3jt4xKuLJAifAaR) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Harleys In Hawaii](https://open.spotify.com/album/30UjBkRwwBeCdspCGPBB8V) | 3:05 | 2021-09-25 | 2022-03-05 |
 | [Head In The Clouds](https://open.spotify.com/track/2KsSYX6ZqPrazLabrl6EA4) | [Max Frost](https://open.spotify.com/artist/7r8xR0LmnaAM623MmRDn1V) | [Head In The Clouds](https://open.spotify.com/album/0pOrCE1nBzCciYzmorq4nk) | 3:11 | 2022-03-11 | 2022-04-09 |
 | [Heartbeat \(From the “Lyle, Lyle, Crocodile” Original Motion Picture Soundtrack\)](https://open.spotify.com/track/1gACe11pZiy8Xv3SY0ocyz) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Heartbeat \(From the “Lyle, Lyle, Crocodile” Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1ydhMijrPqgwuIxX4z90AT) | 2:20 | 2022-09-30 | 2022-10-22 |
@@ -453,6 +453,7 @@
 | [Lose My Mind \(feat\. Mr Gabriel\)](https://open.spotify.com/track/0zEKfIm5b8EUcDM3qoPXKX) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [The Cure To Loneliness](https://open.spotify.com/album/3RUimnrKcKNrCXkBkjPhBG) | 4:18 | 2019-09-05\* | 2021-09-25 |
 | [Lose You Again](https://open.spotify.com/track/2xzefshjUCbnclKWe6KStt) | [WALK THE MOON](https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic), [BRÅVES](https://open.spotify.com/artist/6x041MgK6W2MyccJc7EyWs) | [Lose You Again](https://open.spotify.com/album/2AqBW9viIo30axMM29S7wt) | 3:36 | 2019-09-11 | 2020-04-10 |
 | [Loser](https://open.spotify.com/track/0HIQTdxeEgAim6XGO31tGl) | [Mob Rich](https://open.spotify.com/artist/5cVeSOiS002MF1uiUFOPV5) | [Loser](https://open.spotify.com/album/12SkuNMHLY4fxHUZBtmkTN) | 2:25 | 2019-11-03 | 2021-09-25 |
+| [LOST!](https://open.spotify.com/track/02H58MSfVESkKyx4diDgu7) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Right Place, Wrong Person](https://open.spotify.com/album/512dQp7hBbDDurodCqSw5I) | 3:53 | 2024-05-24 |  |
 | [Love](https://open.spotify.com/track/07UkdNXHXfFnBP5JTXfViA) | [Trousdale](https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE) | [What Happiness Is](https://open.spotify.com/album/2o76vZToghhg9NBmSCb0sD) | 3:32 | 2021-11-13 | 2022-01-22 |
 | [Love Actually](https://open.spotify.com/track/1rkwEvRdpZirixNHJ8x61R) | [Off Bloom](https://open.spotify.com/artist/78JRZ7S8obuhstD79Jmu8L) | [Love Actually](https://open.spotify.com/album/70nGn5MEgxq623PBvNo0DI) | 3:24 | 2019-09-05\* | 2020-01-30 |
 | [Love from the Other Side](https://open.spotify.com/track/49uLH3xvQLd4I4pCQacGH8) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU) | [Love from the Other Side](https://open.spotify.com/album/7Fbph706oR8vaTPcYYvp9n) | 4:09 | 2024-05-03 |  |

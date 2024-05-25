@@ -4,7 +4,7 @@
 
 > Hottest indie sounds & the best new tracks from Asia\. cover: mindfreakkk \(Thailand\)
 
-1,320 songs - 3 day 7 hr 34 min
+1,321 songs - 3 day 7 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -628,6 +628,7 @@
 | [Lose Face](https://open.spotify.com/track/6mcgOEAqofUSR52I6dgeVs) | [YAØ](https://open.spotify.com/artist/65ZzuNL3HmtwhF9akIKXuJ) | [Lose Face](https://open.spotify.com/album/1KKqOyqwhcZKjDMH2tFZh1) | 2:40 | 2022-03-24 | 2022-04-01 |
 | [LosE tO yOu](https://open.spotify.com/track/6lTJOAfoSWVgRpCPiztujD) | [Tyson Yoshi](https://open.spotify.com/artist/3dayhmhJfL4I8w1PuL9MqQ) | [LosE tO yOu](https://open.spotify.com/album/2MooXNaTRtM9XNfajmvdcs) | 3:21 | 2024-03-14 |  |
 | [lost](https://open.spotify.com/track/26niEovvgyaq9po2KubsJI) | [Dvwn](https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b) | [lost](https://open.spotify.com/album/131Eo9LOhFcv05gClAIpCT) | 4:34 | 2022-06-16 | 2022-07-29 |
+| [LOST!](https://open.spotify.com/track/02H58MSfVESkKyx4diDgu7) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Right Place, Wrong Person](https://open.spotify.com/album/512dQp7hBbDDurodCqSw5I) | 3:53 | 2024-05-23 |  |
 | [Louder](https://open.spotify.com/track/660CX4lTKJFgOgoSmRrkSs) | [Elephant Kind](https://open.spotify.com/artist/4xerUCsurnILh4KpC5FVWX) | [Louder](https://open.spotify.com/album/0yx4JsRKHVe7JLgKIyebOp) | 3:00 | 2024-05-16 |  |
 | [Love As](https://open.spotify.com/track/4qZWumAOPURXXo1n2DDbRN) | [Elephant Kind](https://open.spotify.com/artist/4xerUCsurnILh4KpC5FVWX) | [Love As](https://open.spotify.com/album/1u1tWZF8haQZYoMB51NRYj) | 3:18 | 2023-02-23 | 2023-04-14 |
 | [Love Epiphany](https://open.spotify.com/track/3HEfLSVUo9rxdD0JxbLAUU) | [Reality Club](https://open.spotify.com/artist/1DjZI46mVZZZYmmmygRnTw) | [Reality Club Presents…](https://open.spotify.com/album/3pFDtZ4T0kJuNFYQGfGvAK) | 5:38 | 2023-05-25 | 2023-11-24 |

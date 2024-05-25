@@ -1,6 +1,6 @@
 {
   "description": "Relaxe com hinos ac\u00fasticos. Foto: Ton Carfi",
-  "num_followers": 299289,
+  "num_followers": 299378,
   "original_name": "Gospel Ac\u00fastico",
   "owner": {
     "name": "Spotify",
@@ -451,22 +451,6 @@
     {
       "added_at": "2024-04-26 03:41:46",
       "album": {
-        "name": "S\u00e9rie Ac\u00fastica Com Fernandinho, Vol. 2 (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/6auA8qJDI0OqKehNzbWc6q"
-      },
-      "artists": [
-        {
-          "name": "Fernandinho",
-          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
-        }
-      ],
-      "duration_ms": 265945,
-      "name": "Teus Sonhos - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/5nzYFnyJ8E8l8NPzWGrc4u"
-    },
-    {
-      "added_at": "2024-04-26 03:41:46",
-      "album": {
         "name": "Recome\u00e7ar",
         "url": "https://open.spotify.com/album/6RCZVCNWPM87w17ZNP4Tcv"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 230792,
       "name": "Recome\u00e7ar",
       "url": "https://open.spotify.com/track/38xsb628AajcMiMOXr3MR6"
+    },
+    {
+      "added_at": "2024-04-26 03:41:46",
+      "album": {
+        "name": "S\u00e9rie Ac\u00fastica Com Fernandinho, Vol. 2 (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/6auA8qJDI0OqKehNzbWc6q"
+      },
+      "artists": [
+        {
+          "name": "Fernandinho",
+          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
+        }
+      ],
+      "duration_ms": 265945,
+      "name": "Teus Sonhos - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/5nzYFnyJ8E8l8NPzWGrc4u"
     },
     {
       "added_at": "2024-04-26 03:41:46",
@@ -1411,6 +1411,30 @@
     {
       "added_at": "2024-04-26 03:41:46",
       "album": {
+        "name": "Acoustic Session, Vol. 01",
+        "url": "https://open.spotify.com/album/1pbf0SKp7UHiOJV8dK3LPp"
+      },
+      "artists": [
+        {
+          "name": "Casa Worship",
+          "url": "https://open.spotify.com/artist/4bqKmu3kRUl6X7pTl1CuVs"
+        },
+        {
+          "name": "L\u00e9o Brand\u00e3o",
+          "url": "https://open.spotify.com/artist/7Hy3BcTukq6HpDzVFrnJ8L"
+        },
+        {
+          "name": "Julliany Souza",
+          "url": "https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq"
+        }
+      ],
+      "duration_ms": 342250,
+      "name": "A Casa \u00c9 Sua - Acoustic Session",
+      "url": "https://open.spotify.com/track/5ROOQb6C8Tz71kJbViGSwG"
+    },
+    {
+      "added_at": "2024-04-26 03:41:46",
+      "album": {
         "name": "O Dia Que Ser\u00e1 pra Sempre",
         "url": "https://open.spotify.com/album/0MHHY212VEwOF5t9fxHBGw"
       },
@@ -1439,30 +1463,6 @@
       "duration_ms": 314861,
       "name": "Nenhuma Condena\u00e7\u00e3o H\u00e1",
       "url": "https://open.spotify.com/track/2hkr9PXGYznPeBoYQunptq"
-    },
-    {
-      "added_at": "2024-04-26 03:41:46",
-      "album": {
-        "name": "Acoustic Session, Vol. 01",
-        "url": "https://open.spotify.com/album/1pbf0SKp7UHiOJV8dK3LPp"
-      },
-      "artists": [
-        {
-          "name": "Casa Worship",
-          "url": "https://open.spotify.com/artist/4bqKmu3kRUl6X7pTl1CuVs"
-        },
-        {
-          "name": "L\u00e9o Brand\u00e3o",
-          "url": "https://open.spotify.com/artist/7Hy3BcTukq6HpDzVFrnJ8L"
-        },
-        {
-          "name": "Julliany Souza",
-          "url": "https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq"
-        }
-      ],
-      "duration_ms": 342250,
-      "name": "A Casa \u00c9 Sua - Acoustic Session",
-      "url": "https://open.spotify.com/track/5ROOQb6C8Tz71kJbViGSwG"
     }
   ],
   "unique_name": "Gospel Ac\u00fastico",

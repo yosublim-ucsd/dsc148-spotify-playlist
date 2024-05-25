@@ -1,6 +1,6 @@
 {
   "description": "Raw, sentimental feels.",
-  "num_followers": 447611,
+  "num_followers": 447650,
   "original_name": "sad lofi",
   "owner": {
     "name": "Spotify",
@@ -335,22 +335,6 @@
     {
       "added_at": "2024-05-13 12:58:04",
       "album": {
-        "name": "21st Trail",
-        "url": "https://open.spotify.com/album/2TYiO5QeDiFYvPy0NzajDb"
-      },
-      "artists": [
-        {
-          "name": "Smith Village Beat Street",
-          "url": "https://open.spotify.com/artist/40rTd7D3ud1Q9BB4Qop0WF"
-        }
-      ],
-      "duration_ms": 107027,
-      "name": "Hydra",
-      "url": "https://open.spotify.com/track/3rWFeNkAIxfHy0MvHdzvAj"
-    },
-    {
-      "added_at": "2024-05-13 12:58:04",
-      "album": {
         "name": "Breakfast In Bed",
         "url": "https://open.spotify.com/album/1mAPw9uF9teoADOpISmCTa"
       },
@@ -367,22 +351,6 @@
     {
       "added_at": "2024-05-13 12:58:04",
       "album": {
-        "name": "Dreemin'",
-        "url": "https://open.spotify.com/album/44WEHjidINWRXTcjHP9mF0"
-      },
-      "artists": [
-        {
-          "name": "_tag",
-          "url": "https://open.spotify.com/artist/0B3KPEKVLbLSOmCK0aTMMi"
-        }
-      ],
-      "duration_ms": 131641,
-      "name": "Dreemin'",
-      "url": "https://open.spotify.com/track/6L4ZXA6ROpbQCF8UlDqZ9A"
-    },
-    {
-      "added_at": "2024-05-13 12:58:04",
-      "album": {
         "name": "Blue Side",
         "url": "https://open.spotify.com/album/2PPei5ygMvZ0Zk1tDSIxZX"
       },
@@ -395,6 +363,38 @@
       "duration_ms": 128212,
       "name": "Blue Side",
       "url": "https://open.spotify.com/track/1PSbDjjGuMpfGeKaHZGiwh"
+    },
+    {
+      "added_at": "2024-05-13 12:58:04",
+      "album": {
+        "name": "21st Trail",
+        "url": "https://open.spotify.com/album/2TYiO5QeDiFYvPy0NzajDb"
+      },
+      "artists": [
+        {
+          "name": "Smith Village Beat Street",
+          "url": "https://open.spotify.com/artist/40rTd7D3ud1Q9BB4Qop0WF"
+        }
+      ],
+      "duration_ms": 107027,
+      "name": "Hydra",
+      "url": "https://open.spotify.com/track/3rWFeNkAIxfHy0MvHdzvAj"
+    },
+    {
+      "added_at": "2024-05-13 12:58:04",
+      "album": {
+        "name": "Dreemin'",
+        "url": "https://open.spotify.com/album/44WEHjidINWRXTcjHP9mF0"
+      },
+      "artists": [
+        {
+          "name": "_tag",
+          "url": "https://open.spotify.com/artist/0B3KPEKVLbLSOmCK0aTMMi"
+        }
+      ],
+      "duration_ms": 131641,
+      "name": "Dreemin'",
+      "url": "https://open.spotify.com/track/6L4ZXA6ROpbQCF8UlDqZ9A"
     },
     {
       "added_at": "2024-05-13 12:58:04",

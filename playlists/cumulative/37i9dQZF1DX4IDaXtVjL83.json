@@ -283,6 +283,28 @@
     },
     {
       "album": {
+        "name": "Ashes (feat. Ai Tomioka)",
+        "url": "https://open.spotify.com/album/6LmkkkXUI3esLEAEdJYUA3"
+      },
+      "artists": [
+        {
+          "name": "Zior Park",
+          "url": "https://open.spotify.com/artist/4gkSpcyfxtm5OFoZCYWTeD"
+        },
+        {
+          "name": "Ai Tomioka",
+          "url": "https://open.spotify.com/artist/6AXkwEv5wgjwooZOPf0l0q"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273223,
+      "name": "Ashes (feat. Ai Tomioka)",
+      "url": "https://open.spotify.com/track/1kcw0WhK11rDQGejHZUmfG"
+    },
+    {
+      "album": {
         "name": "AUTODEADMA (feat. WOOSEOK of PENTAGON)",
         "url": "https://open.spotify.com/album/1XSaxEw0RTVC2WRuFwONVP"
       },

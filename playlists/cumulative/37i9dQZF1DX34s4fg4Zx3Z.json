@@ -486,7 +486,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 248163,
       "name": "2512",
       "url": "https://open.spotify.com/track/5SR4uyxcgtXPNlZbghFZu7"
@@ -1898,6 +1898,24 @@
       "duration_ms": 218000,
       "name": "Anh Trao Cho Em M\u1ed9ng M\u01a1",
       "url": "https://open.spotify.com/track/6R56kYtqj1crH3Zx1snRDd"
+    },
+    {
+      "album": {
+        "name": "anh t\u00ecm em",
+        "url": "https://open.spotify.com/album/1xf36Fb73BgCQ5tTwcLJEg"
+      },
+      "artists": [
+        {
+          "name": "hoo",
+          "url": "https://open.spotify.com/artist/3m6jEnDtzQNbPcwI0XmoxL"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162322,
+      "name": "anh t\u00ecm em",
+      "url": "https://open.spotify.com/track/1TVq1ULdhvP2J6wME74Hpr"
     },
     {
       "album": {
@@ -7378,7 +7396,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 255371,
       "name": "C\u00f3 kh\u00f3c c\u0169ng th\u1ebf th\u00f4i",
       "url": "https://open.spotify.com/track/0n26s8WYudluDmczIfSg7O"
@@ -10832,6 +10850,28 @@
     {
       "album": {
         "name": "Gi\u00e1 Nh\u01b0",
+        "url": "https://open.spotify.com/album/13uFCKDWUbZ51c0cuuX2mi"
+      },
+      "artists": [
+        {
+          "name": "C\u00e0 N\u00e2u",
+          "url": "https://open.spotify.com/artist/1GaNXOOINBcBKwdd58rMbW"
+        },
+        {
+          "name": "Soonerr",
+          "url": "https://open.spotify.com/artist/1cTygyyG6dtnj7uNnM10Lh"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Gi\u00e1 Nh\u01b0",
+      "url": "https://open.spotify.com/track/0JPr0AnLb6gqF8Jtu0NUWB"
+    },
+    {
+      "album": {
+        "name": "Gi\u00e1 Nh\u01b0",
         "url": "https://open.spotify.com/album/5HvmfeAfbSrb8cxlE04c96"
       },
       "artists": [
@@ -13748,7 +13788,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 275557,
       "name": "Kh\u00f4ng Ai 102",
       "url": "https://open.spotify.com/track/4ZYXkf4wa1PdqxnUaeDzrM"
@@ -13876,6 +13916,24 @@
       "duration_ms": 195294,
       "name": "Kh\u00f4ng Em Th\u00ec Ai",
       "url": "https://open.spotify.com/track/6MPBvhAlkZQiLP3JfBcUU6"
+    },
+    {
+      "album": {
+        "name": "Kh\u00f4ng Gi\u1eef L\u1eddi",
+        "url": "https://open.spotify.com/album/4b0RmpPlSNRwcwUhKB3eWX"
+      },
+      "artists": [
+        {
+          "name": "ICD",
+          "url": "https://open.spotify.com/artist/2nk2PnWoh8U5lR6xDhDGFu"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248030,
+      "name": "Kh\u00f4ng Gi\u1eef L\u1eddi",
+      "url": "https://open.spotify.com/track/5wVqG9NBa2SBc40JmnNBgV"
     },
     {
       "album": {
@@ -14614,7 +14672,7 @@
       ],
       "date_added": "2023-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 216220,
       "name": "Lan Man",
       "url": "https://open.spotify.com/track/3hqOrxH5qPlvrApcb7Ac8c"
@@ -16324,6 +16382,24 @@
       "duration_ms": 144238,
       "name": "MAI MAI",
       "url": "https://open.spotify.com/track/2hBERr1FrSzZD78reQl0UK"
+    },
+    {
+      "album": {
+        "name": "Mai n\u00e0y",
+        "url": "https://open.spotify.com/album/7GCu2YGkb73DTUl6to5MTS"
+      },
+      "artists": [
+        {
+          "name": "Ognam",
+          "url": "https://open.spotify.com/artist/3rAhkIywGLdaIvt2TJi6Ha"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318435,
+      "name": "Mai n\u00e0y",
+      "url": "https://open.spotify.com/track/4G0MRuRn93v7laPYAhEgls"
     },
     {
       "album": {
@@ -18154,6 +18230,32 @@
       "duration_ms": 240429,
       "name": "M\u1ed9t Ng\u00e0y Trong Xanh (feat. D.Kh\u00e1nh)",
       "url": "https://open.spotify.com/track/6DoPkM8BDPEicZOz1yqwgX"
+    },
+    {
+      "album": {
+        "name": "M\u1ed9t N\u1eafm \u0110\u00f4 La",
+        "url": "https://open.spotify.com/album/0N1zI5AFHWcen128i4Wv8O"
+      },
+      "artists": [
+        {
+          "name": "Lonie",
+          "url": "https://open.spotify.com/artist/4Q5DdSdn5v7ot3UdMIH90H"
+        },
+        {
+          "name": "Oliroundtheworld",
+          "url": "https://open.spotify.com/artist/6DUbuYXsohTvKB368tooRT"
+        },
+        {
+          "name": "The Good Hood",
+          "url": "https://open.spotify.com/artist/2YxW5Y614k65x2aXbpeQS3"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173333,
+      "name": "M\u1ed9t N\u1eafm \u0110\u00f4 La",
+      "url": "https://open.spotify.com/track/2GaxnixJNVQyjXJsMVAWpi"
     },
     {
       "album": {
@@ -20468,7 +20570,7 @@
       ],
       "date_added": "2023-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 177019,
       "name": "N\u0103m M\u1edbi Nh\u01b0ng N\u1ed7i Bu\u1ed3n C\u0169",
       "url": "https://open.spotify.com/track/75RLGVAhsCyv957yxcBk8G"
@@ -24948,6 +25050,32 @@
       "duration_ms": 190540,
       "name": "Taste",
       "url": "https://open.spotify.com/track/6glN6mAhvl7Vwt2zMznmuL"
+    },
+    {
+      "album": {
+        "name": "TELL ME",
+        "url": "https://open.spotify.com/album/4k2fGsWiwxo4kDhyF4gPfZ"
+      },
+      "artists": [
+        {
+          "name": "RYAN",
+          "url": "https://open.spotify.com/artist/2SS68rlpemKET4j5nLibtC"
+        },
+        {
+          "name": "Narkie",
+          "url": "https://open.spotify.com/artist/67iWBQ6VcWrLbgIfzirS1v"
+        },
+        {
+          "name": "B\u00f9i H\u00e0 My",
+          "url": "https://open.spotify.com/artist/4f75qoW4tmox85MJ8DX4OT"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182161,
+      "name": "TELL ME",
+      "url": "https://open.spotify.com/track/460An2bcXMCKAaX6GzpHEH"
     },
     {
       "album": {

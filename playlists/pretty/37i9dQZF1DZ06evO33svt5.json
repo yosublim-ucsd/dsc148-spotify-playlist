@@ -1,12 +1,12 @@
 {
-  "description": "This is: Doja Cat. Alle wichtigen Tracks in einer Playlist.",
-  "num_followers": 998822,
+  "description": "This is Doja Cat. The essential tracks, all in one playlist.",
+  "num_followers": 999041,
   "original_name": "This Is Doja Cat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zk01gAAAAABnSLwb/DjsOit/UcH9qjhT",
+  "snapshot_id": "Zk6HAAAAAAAh3aeJyiBUXFMcHTqz2fq7",
   "tracks": [
     {
       "added_at": null,
@@ -59,46 +59,6 @@
       "duration_ms": 231750,
       "name": "Paint The Town Red",
       "url": "https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Planet Her",
-        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        },
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 208666,
-      "name": "Kiss Me More (feat. SZA)",
-      "url": "https://open.spotify.com/track/3DarAbFujv6eYNliUTyqtz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Twelve Carat Toothache",
-        "url": "https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        },
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 192840,
-      "name": "I Like You (A Happier Song) (with Doja Cat)",
-      "url": "https://open.spotify.com/track/0O6u0VJ46W86TxN9wgyqDj"
     },
     {
       "added_at": null,
@@ -555,22 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hot Pink",
-        "url": "https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 165733,
-      "name": "Cyber Sex",
-      "url": "https://open.spotify.com/track/1ghvzmzpx2nnrbx7wtpMgo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Freak",
         "url": "https://open.spotify.com/album/3jCcsG6jkQTnUJyCACAg0r"
       },
@@ -771,6 +715,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hot Pink",
+        "url": "https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 208480,
+      "name": "Addiction",
+      "url": "https://open.spotify.com/track/2OAcH9SD8ehxuG0tWNe0cU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MONTERO",
         "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
       },
@@ -787,6 +747,38 @@
       "duration_ms": 174164,
       "name": "SCOOP (feat. Doja Cat)",
       "url": "https://open.spotify.com/track/6bpq1jGkVz66Q3LYeoXdjZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Planet Her",
+        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 223560,
+      "name": "Naked",
+      "url": "https://open.spotify.com/track/0CsR9Y9SnC6ZWmekmVqSHz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Scarlet",
+        "url": "https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 197493,
+      "name": "Go Off",
+      "url": "https://open.spotify.com/track/032UZ3KVrzII6AE9Abnj7z"
     },
     {
       "added_at": null,
@@ -827,6 +819,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Amala",
+        "url": "https://open.spotify.com/album/54tInqO543zy0Y5F2VsUQI"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 240386,
+      "name": "Casual",
+      "url": "https://open.spotify.com/track/2tT9weSQUFDWsVgHBYz3G6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Scarlet",
         "url": "https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl"
       },
@@ -836,9 +844,9 @@
           "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
         }
       ],
-      "duration_ms": 197493,
-      "name": "Go Off",
-      "url": "https://open.spotify.com/track/032UZ3KVrzII6AE9Abnj7z"
+      "duration_ms": 192240,
+      "name": "Wet Vagina",
+      "url": "https://open.spotify.com/track/5MqauQV2PhcEFfhKtBOTua"
     },
     {
       "added_at": null,
@@ -859,18 +867,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Scarlet",
-        "url": "https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl"
+        "name": "Sunshine Kitty",
+        "url": "https://open.spotify.com/album/5kaCqETtik8oE7M9D8wxrW"
       },
       "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        },
         {
           "name": "Doja Cat",
           "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
         }
       ],
-      "duration_ms": 192240,
-      "name": "Wet Vagina",
-      "url": "https://open.spotify.com/track/5MqauQV2PhcEFfhKtBOTua"
+      "duration_ms": 134845,
+      "name": "Equally Lost (feat. Doja Cat)",
+      "url": "https://open.spotify.com/track/0zFComc9VzjCKWm4PSbIJk"
     },
     {
       "added_at": null,

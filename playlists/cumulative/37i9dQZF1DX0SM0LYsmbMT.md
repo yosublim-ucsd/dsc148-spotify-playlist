@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-4,129 songs - 6 day 13 hr 43 min
+4,130 songs - 6 day 13 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1329,6 +1329,7 @@
 | [Glamless](https://open.spotify.com/track/0fcfuOFofhqYFnUwLY6t3w) | [L One](https://open.spotify.com/artist/7tEjTeqNJNgTEprTguQGTK), [ditu](https://open.spotify.com/artist/6q7IGQxfZh6Dj8A3kjunaw), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Glamless](https://open.spotify.com/album/2tqdsLXFap9eJU9u9iHR4f) | 2:42 | 2021-11-30 | 2022-01-13 |
 | [Glaze](https://open.spotify.com/track/08J2bMXfjTPC4bFSS3IXZJ) | [Jam'addict](https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca), [Sam Cross](https://open.spotify.com/artist/4RY9rfaEmLMXM3RaVC4HLd) | [Glaze](https://open.spotify.com/album/2vj6fSV2xlHGOuNH3nbYRk) | 2:13 | 2023-10-19 | 2024-01-12 |
 | [Gleam](https://open.spotify.com/track/7miAttpnJOeJqJBBvYRxi0) | [Nofeels](https://open.spotify.com/artist/3Qn4P4XWpnaL8MfK237Mjl), [Nokiaa](https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN) | [Gleam](https://open.spotify.com/album/34b8MR4NTmiEHArveidQnz) | 1:38 | 2021-10-19 | 2022-04-01 |
+| [Glimmer](https://open.spotify.com/track/5Fzb2yPF8OZcxBYTCt9aa0) | [Mozzie](https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4) | [Glimmer](https://open.spotify.com/album/2l7oJmldb4PdljASTN9E2q) | 2:06 | 2024-05-16 |  |
 | [Glimmer](https://open.spotify.com/track/4HWBLNWTg51uInk2FLz72Z) | [Otis Ubaka](https://open.spotify.com/artist/1YreDOGr8en691i5jQJJMK) | [Glimmer](https://open.spotify.com/album/5PgDgNoA9NCxyC0hiB9MhI) | 2:32 | 2020-10-23 | 2021-05-07 |
 | [Glint](https://open.spotify.com/track/4yLh1AgaQhxdgIOhCPAMAp) | [Lichtboje](https://open.spotify.com/artist/5OEJiMPYAGd8sgyvA89ygr) | [Glint](https://open.spotify.com/album/5W4BbFuX8md3xhNHRTfW7g) | 1:52 | 2022-07-07 | 2023-10-20 |
 | [Glissade](https://open.spotify.com/track/1JolxvZ0oyWP0zxsJvdzrR) | [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6), [Waywell](https://open.spotify.com/artist/00AJqMNUixOtYt9itiUDZj) | [Mesame](https://open.spotify.com/album/0KAVgCqz8YH4FcpRY5v2mH) | 2:27 | 2022-11-17 | 2023-05-19 |
@@ -1779,7 +1780,7 @@
 | [Joyful Tears](https://open.spotify.com/track/6eFHssRnf7lUs1HcZ0x5v2) | [Youthology](https://open.spotify.com/artist/333R5FY9kU0xShruEP0BQM), [Louk](https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O), [xander.](https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3) | [Joyful Tears](https://open.spotify.com/album/1NIPZYQDe2EivDPQ4ll14t) | 2:55 | 2022-12-01 | 2022-12-24 |
 | [Joyride](https://open.spotify.com/track/4BT3cWxIubxCawVeiXxo5B) | [Bobby Dreamz BIG](https://open.spotify.com/artist/3WEutW4SLc7V9PiKTDM7bD) | [Joyride](https://open.spotify.com/album/5dxiJhr2AHKR7jYXq39o4k) | 2:15 | 2020-08-07 | 2021-04-02 |
 | [Juego de Olas](https://open.spotify.com/track/03vsJIe8ryh9Yv9YOp3J3Y) | [Pachakuti](https://open.spotify.com/artist/2pQzPOCdgQgaUpWG3WEcYr), [young.vishnu](https://open.spotify.com/artist/13ktebtZo4NRbX3uThOmP2) | [Juego de Olas](https://open.spotify.com/album/5YuCxPvs6aU0SEFE2yI4T5) | 2:08 | 2021-05-14 | 2021-07-09 |
-| [Jugallo](https://open.spotify.com/track/7MVJfTdUVlJFANqedc2ExD) | [Am Froggo](https://open.spotify.com/artist/1D9zRD0TQfQhCFDWz8XsAW) | [Jugallo](https://open.spotify.com/album/5YEA3xmOgqs8QpEkBhOTJY) | 1:29 | 2024-05-09 |  |
+| [Jugallo](https://open.spotify.com/track/7MVJfTdUVlJFANqedc2ExD) | [Am Froggo](https://open.spotify.com/artist/1D9zRD0TQfQhCFDWz8XsAW) | [Jugallo](https://open.spotify.com/album/5YEA3xmOgqs8QpEkBhOTJY) | 1:29 | 2024-05-09 | 2024-05-25 |
 | [Juicy](https://open.spotify.com/track/1RjL9QOgM1ICg846yLzgvd) | [Oaty.](https://open.spotify.com/artist/2S5BNs8nlCRoKvnw9LuwBU), [Smeeagain](https://open.spotify.com/artist/2LTRTV2dmIxyoyHC7QZ7mZ) | [Juicy](https://open.spotify.com/album/1tAVDFg0Rjmau3YbpvpMOg) | 2:02 | 2022-05-20 | 2022-11-20 |
 | [Juicy](https://open.spotify.com/track/33YYeNVd3MilBCq9GzBdrc) | [Smeeagain](https://open.spotify.com/artist/2LTRTV2dmIxyoyHC7QZ7mZ), [Oaty.](https://open.spotify.com/artist/2S5BNs8nlCRoKvnw9LuwBU) | [Juicy](https://open.spotify.com/album/3ocmwtu15NdO0srxQmlWNc) | 2:02 | 2022-11-17 | 2023-11-17 |
 | [Juicy Season](https://open.spotify.com/track/1gLtUr8YdAPvKfRyCWWHxH) | [Candy Kid](https://open.spotify.com/artist/6F3zmVi9MNIbt1oZcl2ebw) | [Juicy Season](https://open.spotify.com/album/3TD7iWLllNJg0QgrUFrbvO) | 2:32 | 2021-01-27 | 2021-06-11 |

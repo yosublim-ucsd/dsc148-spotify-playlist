@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 
 > Unearthing your new favourite artists\. Cover: zekke\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,456 likes - 98 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,457 likes - 98 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 | 97 | [DIGITAL LOVE](https://open.spotify.com/track/72pfW9wQgxfbZqyDU3IqYu) | [B.LEO](https://open.spotify.com/artist/7xSziEKgpFtmY9a2S18nxL) | [DIGITAL LOVE](https://open.spotify.com/album/6sctY550LQGQ72hSa6kYPl) | 3:04 |
 | 98 | [Blow](https://open.spotify.com/track/6oRKTJSDRW5aqg4nE8vETf) | [Amari Teague](https://open.spotify.com/artist/2fu7Ig6d88h9W1gyFoo0vC) | [Blow](https://open.spotify.com/album/5nZqzvIRrgYyWea4LVHiWU) | 2:13 |
 
-Snapshot ID: `Zk9oAAAAAABFBecE0uISkQroccRbK46j`
+Snapshot ID: `ZlAR/QAAAACQwr5YzXmBl33HjMayddez`

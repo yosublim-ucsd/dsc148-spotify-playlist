@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSY75PtDqTkW.md) - [plain]
 
 > Extra van je vrije tijd genieten voor jong en oud.
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,546 likes - 261 songs - 17 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,565 likes - 261 songs - 17 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -229,9 +229,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSY75PtDqTkW.md) - [plain]
 | 219 | [Morning Has Broken](https://open.spotify.com/track/3BqqF8suAIzW8655yJfcvh) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [Teaser And The Firecat](https://open.spotify.com/album/2B719vL1xtPTwYs0j5BuAo) | 3:20 |
 | 220 | [Broken Wings](https://open.spotify.com/track/63nVsCAdxu9OdeRhe58wiE) | [Mr\. Mister](https://open.spotify.com/artist/7Bah8E0kCETqEpAHI6CPzQ) | [Welcome To The Real World](https://open.spotify.com/album/1vmioa1hsabaxkYnYKROT1) | 5:45 |
 | 221 | [Would I Lie To You?](https://open.spotify.com/track/62R1MRux3R0v2cngA2xdJn) | [Charles & Eddie](https://open.spotify.com/artist/5rIhaCHkbFVvLJpKHWwOJD) | [Playlist: 90s Pop](https://open.spotify.com/album/6DUy5QdkKXI15NFbk3pYAZ) | 3:24 |
-| 222 | [Don't You \(Forget About Me\) \- Remastered](https://open.spotify.com/track/0A4PZuepTcIQVvA5m7R0M1) | [Simple Minds](https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj) | [Celebrate \(Greatest Hits\)](https://open.spotify.com/album/7dKQCCQnnkqgRQFxKRDqkJ) | 4:23 |
-| 223 | [Fire and Rain](https://open.spotify.com/track/3LcYYV9ozePfgYYmXv0P3r) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Sweet Baby James](https://open.spotify.com/album/2NEQ5Q4sBbUHVVx3Wf8TEZ) | 3:20 |
-| 224 | [Driver's Seat](https://open.spotify.com/track/0fJFBbpUxTwjhh1ScBQjeX) | [Sniff 'n' The Tears](https://open.spotify.com/artist/3EPScT793Qw5hkf8tvVpRV) | [Fickle Heart \(Plus Two Bonus Cuts\)](https://open.spotify.com/album/0sXMbAJXXbkoJDbrbIiQgo) | 4:00 |
+| 222 | [Driver's Seat](https://open.spotify.com/track/0fJFBbpUxTwjhh1ScBQjeX) | [Sniff 'n' The Tears](https://open.spotify.com/artist/3EPScT793Qw5hkf8tvVpRV) | [Fickle Heart \(Plus Two Bonus Cuts\)](https://open.spotify.com/album/0sXMbAJXXbkoJDbrbIiQgo) | 4:00 |
+| 223 | [Don't You \(Forget About Me\) \- Remastered](https://open.spotify.com/track/0A4PZuepTcIQVvA5m7R0M1) | [Simple Minds](https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj) | [Celebrate \(Greatest Hits\)](https://open.spotify.com/album/7dKQCCQnnkqgRQFxKRDqkJ) | 4:23 |
+| 224 | [Fire and Rain](https://open.spotify.com/track/3LcYYV9ozePfgYYmXv0P3r) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Sweet Baby James](https://open.spotify.com/album/2NEQ5Q4sBbUHVVx3Wf8TEZ) | 3:20 |
 | 225 | [One](https://open.spotify.com/track/0Y8o2jU3ATJsIuatAhTG5Y) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Breakthrough](https://open.spotify.com/album/5cnNuunPepqlcT0VoFdLOh) | 4:20 |
 | 226 | [Hold On](https://open.spotify.com/track/1gGY6qfslDtJ4OoWQGKtkE) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Boys & Girls](https://open.spotify.com/album/0YcQyzstsSbcnLCk4h7AUh) | 3:46 |
 | 227 | [The Winner Takes It All](https://open.spotify.com/track/5kBZR12AntJUTo9UeAsKqP) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Super Trouper](https://open.spotify.com/album/1nVUhbpkGwlTKxSIF6UJyM) | 4:54 |
@@ -247,8 +247,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSY75PtDqTkW.md) - [plain]
 | 237 | [The Boys Of Summer](https://open.spotify.com/track/7KY40pRBPKQSaSe0j5nKUK) | [Don Henley](https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2) | [The Very Best Of](https://open.spotify.com/album/2yPVB4tLlnfBl8SgcX8qDv) | 4:48 |
 | 238 | [Losing My Religion](https://open.spotify.com/track/74EV0g12ihUoOUXMprFpZB) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Out Of Time \(U.S\. Version\)](https://open.spotify.com/album/4v5hSLj6ClyLqj2nnaPbfD) | 4:27 |
 | 239 | [Englishman In New York](https://open.spotify.com/track/5wVylZHmBid99XzEsz8Fk7) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [Nothing Like The Sun](https://open.spotify.com/album/4ecNI9MO1rG2p5Q9xUxQ4X) | 4:26 |
-| 240 | [Follow the Sun](https://open.spotify.com/track/2dkUbLShKMCuRqWSTyUdMp) | [Xavier Rudd](https://open.spotify.com/artist/5lbM4g6bhxjNX7R5QHP2nD) | [Spirit Bird](https://open.spotify.com/album/0PVkmVc7ds2uXTY0FE825K) | 4:15 |
-| 241 | [Nikita](https://open.spotify.com/track/5lBI9isMBEHRn5Wxde058W) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Ice On Fire \(Remastered With Bonus Tracks\)](https://open.spotify.com/album/77IyyuuRV7IDN1ri7mBEuI) | 5:43 |
+| 240 | [Nikita](https://open.spotify.com/track/5lBI9isMBEHRn5Wxde058W) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Ice On Fire \(Remastered With Bonus Tracks\)](https://open.spotify.com/album/77IyyuuRV7IDN1ri7mBEuI) | 5:43 |
+| 241 | [Follow the Sun](https://open.spotify.com/track/2dkUbLShKMCuRqWSTyUdMp) | [Xavier Rudd](https://open.spotify.com/artist/5lbM4g6bhxjNX7R5QHP2nD) | [Spirit Bird](https://open.spotify.com/album/0PVkmVc7ds2uXTY0FE825K) | 4:15 |
 | 242 | [Everywhere](https://open.spotify.com/track/6i8ecOsx4J2Px1maiqzqoG) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tango In The Night](https://open.spotify.com/album/1W5YP0TlKjFtb2UZJThLpV) | 3:42 |
 | 243 | [People Gotta Move](https://open.spotify.com/track/08WJ9t3SXF2aE2tkMwSqQW) | [Gino Vannelli](https://open.spotify.com/artist/6ltcwvni6HdZAJaWhmIvNR) | [Powerful People](https://open.spotify.com/album/6Ffll9R625BUYyT6RxWyl3) | 3:21 |
 | 244 | [I Still Haven't Found What I'm Looking For \- Remastered 2007](https://open.spotify.com/track/7gozgbG5EBTukCFWToTRA5) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Joshua Tree \(Deluxe Edition Remastered\)](https://open.spotify.com/album/2qKmY7yt0kXdzSQxYAu9eZ) | 4:37 |
@@ -270,4 +270,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSY75PtDqTkW.md) - [plain]
 | 260 | [Suspicious Minds](https://open.spotify.com/track/4PNrapoSR2MBw8zkN1toez) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis Forever: The Best of Elvis Presley](https://open.spotify.com/album/77pqYHQlKULhqr6EgiLL8b) | 4:21 |
 | 261 | [Plage](https://open.spotify.com/track/71GqP05AEkzTSSKbNx6HAR) | [Crystal Fighters](https://open.spotify.com/artist/75EZuo5MHV2572NRpMWotC) | [Star Of Love](https://open.spotify.com/album/1bj3W2riKHMas7gH2TxNrn) | 3:50 |
 
-Snapshot ID: `ZgqoPgAAAAC4/BH3XkZeD7NG0Q1ck7yS`
+Snapshot ID: `ZlB7mgAAAABDGXBXDgeWNb0gQRzTTnYd`

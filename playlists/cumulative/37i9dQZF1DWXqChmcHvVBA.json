@@ -377,6 +377,28 @@
     },
     {
       "album": {
+        "name": "BANDIDA | E16",
+        "url": "https://open.spotify.com/album/2AaEaAoLStYQfyIoF8rS0G"
+      },
+      "artists": [
+        {
+          "name": "DJ Alex",
+          "url": "https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI"
+        },
+        {
+          "name": "OKY",
+          "url": "https://open.spotify.com/artist/6MLsGkmMLs3wFwNRleDyeU"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116206,
+      "name": "BANDIDA | E16",
+      "url": "https://open.spotify.com/track/4wzBhTJHrJtpjx0tPyMTTe"
+    },
+    {
+      "album": {
         "name": "rkt 420",
         "url": "https://open.spotify.com/album/5KOBZxsUb0UsFCqN85GEBX"
       },
@@ -1234,7 +1256,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 182500,
       "name": "En la Disco Te Vi",
       "url": "https://open.spotify.com/track/6NZU2yoQcqNsOWk4fGTe9I"

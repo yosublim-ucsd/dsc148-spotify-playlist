@@ -1,13 +1,29 @@
 {
   "description": "You've come to the crossroads of soul, folk, and the blues. Cover: Amythyst Kiah",
-  "num_followers": 443452,
+  "num_followers": 443508,
   "original_name": "Blues Roots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkbWfAAAAAB4JMeOLOMH1jtKvOhHOquz",
+  "snapshot_id": "ZlAQwAAAAAB3bEG4pz+2ai5M36OMNFYL",
   "tracks": [
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Hole",
+        "url": "https://open.spotify.com/album/3pu464f772FhbYLE5KaYlk"
+      },
+      "artists": [
+        {
+          "name": "Bad Flamingo",
+          "url": "https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE"
+        }
+      ],
+      "duration_ms": 233893,
+      "name": "Hole",
+      "url": "https://open.spotify.com/track/2jZcVKNkG5JMAXSRDumflt"
+    },
     {
       "added_at": "2024-05-17 04:01:00",
       "album": {
@@ -95,22 +111,6 @@
       "duration_ms": 154604,
       "name": "Digging the Hole",
       "url": "https://open.spotify.com/track/2j3LYpiK18HPUXK4MqTq0e"
-    },
-    {
-      "added_at": "2024-04-12 04:01:00",
-      "album": {
-        "name": "Numb",
-        "url": "https://open.spotify.com/album/6VEMeSXgvoxGKNC8dHOsg5"
-      },
-      "artists": [
-        {
-          "name": "Bad Flamingo",
-          "url": "https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE"
-        }
-      ],
-      "duration_ms": 133635,
-      "name": "Numb",
-      "url": "https://open.spotify.com/track/5rsnfjFFkwpWWKVSYOEjoH"
     },
     {
       "added_at": "2024-03-22 04:01:00",
@@ -497,7 +497,7 @@
       "url": "https://open.spotify.com/track/65M92JpTbAdHmTQm4jGaDa"
     },
     {
-      "added_at": "2024-01-12 05:01:00",
+      "added_at": "2024-05-24 04:00:00",
       "album": {
         "name": "Plenty of Time, None to Waste (Acoustic)",
         "url": "https://open.spotify.com/album/4GTqucW2wjwuv8SUYXvMGt"

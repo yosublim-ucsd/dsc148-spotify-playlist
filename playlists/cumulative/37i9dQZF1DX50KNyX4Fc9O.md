@@ -4,7 +4,7 @@
 
 > Keep your finger on the pulse of pop\. Cover: Charlie Puth
 
-1,026 songs - 2 day 5 hr 3 min
+1,028 songs - 2 day 5 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -446,6 +446,7 @@
 | [How Do We Stay In Love?](https://open.spotify.com/track/57C2Jt6xUTlN9QVrWSimBJ) | [Blake Rose](https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe) | [How Do We Stay In Love?](https://open.spotify.com/album/4CPmCif9l0FLCp4jRwu8AR) | 2:39 | 2023-07-20 | 2023-09-22 |
 | [How Does It Feel](https://open.spotify.com/track/1KNYCbS2hGara6pzGCa2Ui) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [How Does It Feel](https://open.spotify.com/album/7oEIRmKyqKCbWQO7LAgvrU) | 2:23 | 2023-06-15 | 2023-06-23 |
 | [How Long \(Is This Gonna Take\)?](https://open.spotify.com/track/07E8u5Xp7Db4Z4DxWyVEWl) | [natalie mei](https://open.spotify.com/artist/45z2aQmnsWVBrGxBtV8wVu) | [How Long \(Is This Gonna Take\)?](https://open.spotify.com/album/493HS1lMuydf1NfU59mZcA) | 3:48 | 2024-02-01 | 2024-03-29 |
+| [How Sweet](https://open.spotify.com/track/38tXZcL1gZRfbqfOG0VMTH) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [How Sweet](https://open.spotify.com/album/0EhZEM4RRz0yioTgucDhJq) | 3:39 | 2024-05-23 |  |
 | [how to change a tire](https://open.spotify.com/track/6ZlwbgqfMALnnwi8zVJTyr) | [Zach Hood](https://open.spotify.com/artist/5aHlyw2WWqZW0HLICBuv7U) | [how to change a tire](https://open.spotify.com/album/09oYcPRYGDwOZcP7XkO6Mr) | 3:00 | 2024-03-14 | 2024-04-05 |
 | [How?](https://open.spotify.com/track/3CLIHcG3QkhN69YEPFc2ZM) | [Dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [How?](https://open.spotify.com/album/0ORqx48RYRW5PPhHj9GiAY) | 3:02 | 2024-04-11 | 2024-05-17 |
 | [I AM \- From the Ava DuVernay feature film 'Origin'](https://open.spotify.com/track/1uNSDmdnCmOgMvAyfCnh2Q) | [Stan Walker](https://open.spotify.com/artist/7fRw4ouudxR1jHgyrTIKuY) | [I AM \(From the Ava DuVernay feature film 'Origin'\)](https://open.spotify.com/album/5xu60Zz8cb4j7Qnmy7oio7) | 4:29 | 2023-11-30 | 2024-02-02 |
@@ -533,6 +534,7 @@
 | [Lead Me On](https://open.spotify.com/track/0dXHRxaBl9mlrBh2XF3cIn) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Lead Me On](https://open.spotify.com/album/2sU1qbQCl9mUgnlciieWtb) | 2:53 | 2024-01-25 | 2024-03-01 |
 | [Leave In The Morning](https://open.spotify.com/track/2NV0xEWJNdaMzdP94pksrl) | [Will Swinton](https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh) | [Leave In The Morning](https://open.spotify.com/album/1gRQl5tQu5KTWyvs3zdd2p) | 2:48 | 2023-09-07 | 2023-10-13 |
 | [leave me for dead](https://open.spotify.com/track/3ItJaK3oSkvCE4QiLkaxbi) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [leave me for dead](https://open.spotify.com/album/7cTW6R0SHT2K64F07CY4vO) | 2:56 | 2023-08-24 | 2023-10-06 |
+| [Lemon Tea](https://open.spotify.com/track/6Zk2jK6GsGrH0lhNy1ukRz) | [Sharny](https://open.spotify.com/artist/7mVN8whS1b2pF7UDDiYAv8) | [Lemon Tea](https://open.spotify.com/album/7wMKPka806GEbddfgR14vV) | 2:27 | 2024-05-23 |  |
 | [Lemonade](https://open.spotify.com/track/6ygDuZR468369KJvtcQr5Z) | [Tash](https://open.spotify.com/artist/3kX6nt9QiDarAkCsIGRIgR) | [Lemonade](https://open.spotify.com/album/6jMpfEJqxuHjwlX0o7vFe7) | 2:30 | 2023-12-07 | 2024-01-19 |
 | [lesson learned](https://open.spotify.com/track/2rNqKSbPV283cPSS8uePpT) | [Matt Hansen](https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ) | [lesson learned](https://open.spotify.com/album/0yXub8Il8KnUlH5n2zm8lN) | 3:08 | 2024-04-11 | 2024-05-10 |
 | [Lessons](https://open.spotify.com/track/5vCSjHa6tOvfr02DoBFwx9) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [I've told the trees everything](https://open.spotify.com/album/2KHOBUj9QsyV2U3OYlKNJw) | 3:01 | 2024-03-14 | 2024-04-12 |

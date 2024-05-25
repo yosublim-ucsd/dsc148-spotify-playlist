@@ -14809,6 +14809,24 @@
     },
     {
       "album": {
+        "name": "HELLA BOY CRAZY",
+        "url": "https://open.spotify.com/album/1qdVwpG3yeKWXT36RhLZ26"
+      },
+      "artists": [
+        {
+          "name": "Tiffany Day",
+          "url": "https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134786,
+      "name": "HELLA BOY CRAZY",
+      "url": "https://open.spotify.com/track/6MGXeJPWlv3enSLaIz2egy"
+    },
+    {
+      "album": {
         "name": "Hello",
         "url": "https://open.spotify.com/album/1nPZWuk5Gv94RfPBYDxbNx"
       },
@@ -16430,7 +16448,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 167083,
       "name": "I Hope It All Works Out",
       "url": "https://open.spotify.com/track/2u2claSA1aCUMrVRsBD4Ik"
@@ -21638,7 +21656,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 199461,
       "name": "Make More Money",
       "url": "https://open.spotify.com/track/1AfQb3PcCfeUQo39c0jUR7"
@@ -35264,6 +35282,24 @@
       "duration_ms": 168978,
       "name": "Tummy Hurts",
       "url": "https://open.spotify.com/track/0hFTdvxUbHl1CqrdZcbWtZ"
+    },
+    {
+      "album": {
+        "name": "Turn it up",
+        "url": "https://open.spotify.com/album/53oYO35gOzGGGINKHB8cd0"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147020,
+      "name": "Turn it up",
+      "url": "https://open.spotify.com/track/1YhNljrEyPYaYNgBNsWap5"
     },
     {
       "album": {

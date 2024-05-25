@@ -1,12 +1,12 @@
 {
-  "description": "This Is Vangelis. Los temas esenciales, todos en una lista.",
-  "num_followers": 104835,
+  "description": "This Is Vangelis. Todas as faixas essenciais numa \u00fanica playlist.",
+  "num_followers": 104849,
   "original_name": "This Is Vangelis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zk01gAAAAAD6YSa1c/zpyAXUFQcaBQn8",
+  "snapshot_id": "Zk6HAAAAAADGM5CYJnEYZLbtrRukVu/s",
   "tracks": [
     {
       "added_at": null,
@@ -319,8 +319,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rosetta",
-        "url": "https://open.spotify.com/album/6ROeoiTdZBO7N5C8gC2xix"
+        "name": "Oceanic",
+        "url": "https://open.spotify.com/album/7gzxLnMS0lmzbbW0ebaBNb"
       },
       "artists": [
         {
@@ -328,9 +328,9 @@
           "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
         }
       ],
-      "duration_ms": 302112,
-      "name": "Rosetta",
-      "url": "https://open.spotify.com/track/1O9rxgijWmS9jXksIXbxw8"
+      "duration_ms": 163333,
+      "name": "Dreams of Surf",
+      "url": "https://open.spotify.com/track/3PUufjfgnfjiDXj8nW77hq"
     },
     {
       "added_at": null,
@@ -351,8 +351,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oceanic",
-        "url": "https://open.spotify.com/album/7gzxLnMS0lmzbbW0ebaBNb"
+        "name": "Rosetta",
+        "url": "https://open.spotify.com/album/6ROeoiTdZBO7N5C8gC2xix"
       },
       "artists": [
         {
@@ -360,9 +360,9 @@
           "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
         }
       ],
-      "duration_ms": 223866,
-      "name": "Aquatic Dance",
-      "url": "https://open.spotify.com/track/3FqkOf0gZvWbUmmAUA9Ao8"
+      "duration_ms": 302112,
+      "name": "Rosetta",
+      "url": "https://open.spotify.com/track/1O9rxgijWmS9jXksIXbxw8"
     },
     {
       "added_at": null,
@@ -424,9 +424,9 @@
           "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
         }
       ],
-      "duration_ms": 372680,
-      "name": "Songs of the Seas",
-      "url": "https://open.spotify.com/track/0arhGtmkHcZTlwhAurRUF2"
+      "duration_ms": 223866,
+      "name": "Aquatic Dance",
+      "url": "https://open.spotify.com/track/3FqkOf0gZvWbUmmAUA9Ao8"
     },
     {
       "added_at": null,
@@ -479,6 +479,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Oceanic",
+        "url": "https://open.spotify.com/album/7gzxLnMS0lmzbbW0ebaBNb"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "duration_ms": 372680,
+      "name": "Songs of the Seas",
+      "url": "https://open.spotify.com/track/0arhGtmkHcZTlwhAurRUF2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ambient & Relax",
         "url": "https://open.spotify.com/album/4E6iTDSE9Ix7eQCLh6daW5"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 312826,
       "name": "Vangelis: Through the Night Mist",
       "url": "https://open.spotify.com/track/1krI0NrRwDykPwXnliC4mx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Albedo 0.39",
-        "url": "https://open.spotify.com/album/7M2EhhKnJYcmluPNzmB35N"
-      },
-      "artists": [
-        {
-          "name": "Vangelis",
-          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
-        }
-      ],
-      "duration_ms": 344293,
-      "name": "Alpha",
-      "url": "https://open.spotify.com/track/1qkp9OvCk8FjeDdEd2bKQ6"
     },
     {
       "added_at": null,
@@ -527,8 +527,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Peaceful Piano Moods",
-        "url": "https://open.spotify.com/album/58offraDl2HW0WWh4WCzUZ"
+        "name": "Albedo 0.39",
+        "url": "https://open.spotify.com/album/7M2EhhKnJYcmluPNzmB35N"
       },
       "artists": [
         {
@@ -536,9 +536,9 @@
           "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
         }
       ],
-      "duration_ms": 331920,
-      "name": "Main Theme - From \"Chariots of Fire\"",
-      "url": "https://open.spotify.com/track/7pROUkMe7OJAQ9iGZqcik7"
+      "duration_ms": 344293,
+      "name": "Alpha",
+      "url": "https://open.spotify.com/track/1qkp9OvCk8FjeDdEd2bKQ6"
     },
     {
       "added_at": null,
@@ -667,6 +667,22 @@
       "duration_ms": 331426,
       "name": "12 O'Clock",
       "url": "https://open.spotify.com/track/5cijIVFJvAeCTn933Pr6xW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "L'apocalypse des animaux (Remastered)",
+        "url": "https://open.spotify.com/album/3UNXsFe9kpKxRaKE1hG7TD"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "duration_ms": 65266,
+      "name": "L'ours musicien - Remastered",
+      "url": "https://open.spotify.com/track/52bPjLwQ91weMD1gL13tBM"
     }
   ],
   "unique_name": "This Is Vangelis",

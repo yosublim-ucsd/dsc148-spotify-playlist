@@ -1,12 +1,12 @@
 {
-  "description": "This is Generaci\u00f3n 12. The essential tracks, all in one playlist.",
-  "num_followers": 39818,
+  "description": "This Is Generaci\u00f3n 12. Los temas esenciales, todos en una lista.",
+  "num_followers": 39845,
   "original_name": "This Is Generaci\u00f3n 12",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zk01gAAAAAC38ZprPe3WH3hfcgsD3+7D",
+  "snapshot_id": "Zk6HAAAAAACoYe0d8FedGHfd13FPgGnc",
   "tracks": [
     {
       "added_at": null,
@@ -247,26 +247,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Luz",
-        "url": "https://open.spotify.com/album/1XFGH2sQhe9oIJIVMjrnsN"
-      },
-      "artists": [
-        {
-          "name": "Vaes",
-          "url": "https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu"
-        },
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        }
-      ],
-      "duration_ms": 180320,
-      "name": "Blanco y Negro",
-      "url": "https://open.spotify.com/track/2m1nDW5217YpVmoTgbuB4H"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Como En El Cielo (feat. Marcos Brunet)",
         "url": "https://open.spotify.com/album/4u09zmFvxmof6OfmgZNQkn"
       },
@@ -283,6 +263,26 @@
       "duration_ms": 439810,
       "name": "Como En El Cielo (feat. Marcos Brunet)",
       "url": "https://open.spotify.com/track/3ysJ1hNyG3eAy3IdPVFd4R"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Luz",
+        "url": "https://open.spotify.com/album/1XFGH2sQhe9oIJIVMjrnsN"
+      },
+      "artists": [
+        {
+          "name": "Vaes",
+          "url": "https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu"
+        },
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        }
+      ],
+      "duration_ms": 180320,
+      "name": "Blanco y Negro",
+      "url": "https://open.spotify.com/track/2m1nDW5217YpVmoTgbuB4H"
     },
     {
       "added_at": null,
@@ -451,22 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ah\u00ed Est\u00e1s T\u00fa",
-        "url": "https://open.spotify.com/album/3WS3WMgCXg5JDaxXDn7AsW"
-      },
-      "artists": [
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        }
-      ],
-      "duration_ms": 356204,
-      "name": "Ah\u00ed Est\u00e1s T\u00fa",
-      "url": "https://open.spotify.com/track/2dlk0PXifJPRYAEpEyV8FT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Todo Lo Haces Nuevo",
         "url": "https://open.spotify.com/album/7050tzQ5BRBlsMowdSDBwy"
       },
@@ -479,6 +463,26 @@
       "duration_ms": 260221,
       "name": "Eres T\u00fa",
       "url": "https://open.spotify.com/track/6KwQ4NFdhpZw39FtPOEDAu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Remix 1.2",
+        "url": "https://open.spotify.com/album/5wWH3xxakgFaCjK3oa8dr3"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        },
+        {
+          "name": "Marco Barrientos",
+          "url": "https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ"
+        }
+      ],
+      "duration_ms": 221905,
+      "name": "Dios Incomparable 1.2 (feat. Marco Barrientos)",
+      "url": "https://open.spotify.com/track/2obGra074oqYXQTg9eEtJE"
     },
     {
       "added_at": null,
@@ -507,22 +511,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Remix 1.2",
-        "url": "https://open.spotify.com/album/5wWH3xxakgFaCjK3oa8dr3"
+        "name": "Ah\u00ed Est\u00e1s T\u00fa",
+        "url": "https://open.spotify.com/album/3WS3WMgCXg5JDaxXDn7AsW"
       },
       "artists": [
         {
           "name": "Generaci\u00f3n 12",
           "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        },
-        {
-          "name": "Marco Barrientos",
-          "url": "https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ"
         }
       ],
-      "duration_ms": 221905,
-      "name": "Dios Incomparable 1.2 (feat. Marco Barrientos)",
-      "url": "https://open.spotify.com/track/2obGra074oqYXQTg9eEtJE"
+      "duration_ms": 356204,
+      "name": "Ah\u00ed Est\u00e1s T\u00fa",
+      "url": "https://open.spotify.com/track/2dlk0PXifJPRYAEpEyV8FT"
     },
     {
       "added_at": null,

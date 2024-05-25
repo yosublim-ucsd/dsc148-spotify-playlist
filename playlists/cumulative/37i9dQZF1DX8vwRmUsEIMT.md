@@ -4,7 +4,7 @@
 
 > All the new music you need to hear right now\. Cover: PinkPantheress
 
-2,049 songs - 4 day 14 hr 17 min
+2,051 songs - 4 day 14 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -847,6 +847,7 @@
 | [How Does It Feel](https://open.spotify.com/track/0ixyLzNaPr7G2Fu5ETgssB) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [How Does It Feel](https://open.spotify.com/album/0WTSA6keV6kTkTZPWULRcg) | 2:46 | 2023-02-24 | 2023-04-14 |
 | [How Does It Feel](https://open.spotify.com/track/1KNYCbS2hGara6pzGCa2Ui) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [How Does It Feel](https://open.spotify.com/album/7oEIRmKyqKCbWQO7LAgvrU) | 2:23 | 2023-05-04 | 2023-07-07 |
 | [How I'm Feeling Now](https://open.spotify.com/track/5CcfIvFHULvnM0ST4nzRRN) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [How I'm Feeling Now](https://open.spotify.com/album/5Kys3ZEzHMqSbpKnyfSkqj) | 3:46 | 2023-03-17 | 2023-05-05 |
+| [How Sweet](https://open.spotify.com/track/38tXZcL1gZRfbqfOG0VMTH) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [How Sweet](https://open.spotify.com/album/0EhZEM4RRz0yioTgucDhJq) | 3:39 | 2024-05-23 |  |
 | [How You Feeling?](https://open.spotify.com/track/76i9UMCv33W5yX9U0n160A) | [Strandz](https://open.spotify.com/artist/33X2jfLSVyDevoksJjRZoS), [Tora\-i](https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z) | [No Time](https://open.spotify.com/album/32ssgZlHoCbooKfrlctDbL) | 2:34 | 2024-03-29 | 2024-05-03 |
 | [How You Leave A Man](https://open.spotify.com/track/4ySjA0oHoiVQRuHdkm2wsy) | [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa) | [How You Leave A Man](https://open.spotify.com/album/30AHFEzmxi6iKzhb6PTv29) | 3:34 | 2023-10-12 | 2023-11-10 |
 | [Human Condition](https://open.spotify.com/track/1eNyYS3r2V3lNJNz5uqwCW) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [Human Condition](https://open.spotify.com/album/0yqT3zXPPNYb3OA2c75JBT) | 3:07 | 2022-06-02 | 2022-06-25 |
@@ -1434,6 +1435,7 @@
 | [Pink Lemonade](https://open.spotify.com/track/3RWmzM0NCyGYECii62Yeyi) | [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip) | [Pink Lemonade](https://open.spotify.com/album/1VOdCuElxozdNXPDIV8KHU) | 1:26 | 2023-05-11 | 2023-05-26 |
 | [Pink Skies](https://open.spotify.com/track/43Ka2d0YZZlOzVGwf96xNw) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [How Have You Been?](https://open.spotify.com/album/4FqEHLgdiMHXboXIztMkkO) | 3:21 | 2024-02-02 | 2024-02-09 |
 | [Pink Skies](https://open.spotify.com/track/4MiJlJoCLr6X2Q7D9fN4hT) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Pink Skies](https://open.spotify.com/album/6mhMHaEdNMxyPi4Otr73nM) | 3:21 | 2024-01-12 | 2024-02-07 |
+| [Pink Skies](https://open.spotify.com/track/4ZJ4vzLQekI0WntDbanNC7) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Pink Skies](https://open.spotify.com/album/7LRZfujsTLyy814AnMSdtT) | 3:14 | 2024-05-23 |  |
 | [Pink Venom](https://open.spotify.com/track/0skYUMpS0AcbpjcGsAbRGj) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [Pink Venom](https://open.spotify.com/album/3dZBZnDa3z20uEVnxR38M1) | 3:06 | 2022-08-23 | 2022-10-05 |
 | [Pisces \(feat\. Krept & Konan\)](https://open.spotify.com/track/1YTKdKM3X8G1XjUStxchPP) | [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p), [Krept & Konan](https://open.spotify.com/artist/31lnFZEM6ysvjOx59VyxRE) | [Pisces \(feat\. Krept & Konan\)](https://open.spotify.com/album/3n9e29kuHF17F9d0XF8H5j) | 2:40 | 2022-09-29 | 2022-10-26 |
 | [Placebo Effect](https://open.spotify.com/track/6m3T4RHAMaSIKUDsxko43y) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Placebo Effect](https://open.spotify.com/album/3dFr6Li35Nik82qwIMrSYa) | 3:11 | 2023-02-10 | 2023-02-24 |

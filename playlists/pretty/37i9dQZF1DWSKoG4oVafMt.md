@@ -2,18 +2,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 
 ### [Punjabi Pyar](https://open.spotify.com/playlist/37i9dQZF1DWSKoG4oVafMt)
 
-> The very best of Punjabi romance featuring Sargun Mehta & Jordan Sandhu
+> The very best of Punjabi romance featuring Sonam Bajwa & Ammy Virk
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,190 likes - 75 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,285 likes - 75 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Tareefan](https://open.spotify.com/track/4hYKmQvLi2yaFAd7Kx07Vp) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Mehar Vaani](https://open.spotify.com/artist/1292Fb98poF6N9aEk9oibw) | [Tareefan](https://open.spotify.com/album/36Bplz54txKmm4xAJoUGcg) | 3:12 |
-| 2 | [Ishqan De Rog](https://open.spotify.com/track/3pDxUzAOLnmjxUum5PcTip) | [Deep Chambal](https://open.spotify.com/artist/3urpfjeiggQzlhbXFylaB0) | [Ishqan De Rog](https://open.spotify.com/album/537pV5ckO6gHzSYjgpKGmA) | 2:54 |
-| 3 | [Taare](https://open.spotify.com/track/3oWoAZ0Pe8PsI4A5SVVF3A) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2), [Mandeep Maavi](https://open.spotify.com/artist/0nMjrfJdkdeEdNHDU72Rn1) | [Taare](https://open.spotify.com/album/0jwE7wNAlVPDUxem6bUXJ7) | 3:11 |
-| 4 | [Parindey \(From "Jatt Nuu Chudail Takri"\)](https://open.spotify.com/track/4zD5IxK0MBPZ0ET58Ihhpm) | [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j), [Harmanjeet](https://open.spotify.com/artist/2FRg6CIXD61xyvxUOzhYy5), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN) | [Parindey \(From "Jatt Nuu Chudail Takri"\)](https://open.spotify.com/album/416V9hPUHyM30URol93F8M) | 4:03 |
-| 5 | [Gulab](https://open.spotify.com/track/1CMivY02VCtga3xT7AyfQ4) | [Karan Randhawa](https://open.spotify.com/artist/3mnR9SJ3hfV6EcrGKH44H9) | [Loverboy](https://open.spotify.com/album/67uk6VOF3UDB3JW5pKycnF) | 2:39 |
-| 6 | [Dil Chandra \- From "Kudi Haryane Val Di"](https://open.spotify.com/track/3iJWqjOGH1yLZFnxsRbSqP) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59), [Komal Chaudhary](https://open.spotify.com/artist/3NDoCvXtQOPngtgRsqjcd3), [V Rakx Music](https://open.spotify.com/artist/4bfUvviIpz5Vb25tZSVSxF) | [Dil Chandra \(From "Kudi Haryane Val Di"\)](https://open.spotify.com/album/5HID3BLnlU4k6d0dIG3HNZ) | 3:55 |
+| 1 | [Dil Chandra \- From "Kudi Haryane Val Di"](https://open.spotify.com/track/3iJWqjOGH1yLZFnxsRbSqP) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59), [Komal Chaudhary](https://open.spotify.com/artist/3NDoCvXtQOPngtgRsqjcd3), [V Rakx Music](https://open.spotify.com/artist/4bfUvviIpz5Vb25tZSVSxF) | [Dil Chandra \(From "Kudi Haryane Val Di"\)](https://open.spotify.com/album/5HID3BLnlU4k6d0dIG3HNZ) | 3:55 |
+| 2 | [Tareefan](https://open.spotify.com/track/4hYKmQvLi2yaFAd7Kx07Vp) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Mehar Vaani](https://open.spotify.com/artist/1292Fb98poF6N9aEk9oibw) | [Tareefan](https://open.spotify.com/album/36Bplz54txKmm4xAJoUGcg) | 3:12 |
+| 3 | [Ishqan De Rog](https://open.spotify.com/track/3pDxUzAOLnmjxUum5PcTip) | [Deep Chambal](https://open.spotify.com/artist/3urpfjeiggQzlhbXFylaB0) | [Ishqan De Rog](https://open.spotify.com/album/537pV5ckO6gHzSYjgpKGmA) | 2:54 |
+| 4 | [Taare](https://open.spotify.com/track/3oWoAZ0Pe8PsI4A5SVVF3A) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2), [Mandeep Maavi](https://open.spotify.com/artist/0nMjrfJdkdeEdNHDU72Rn1) | [Taare](https://open.spotify.com/album/0jwE7wNAlVPDUxem6bUXJ7) | 3:11 |
+| 5 | [Parindey \(From "Jatt Nuu Chudail Takri"\)](https://open.spotify.com/track/4zD5IxK0MBPZ0ET58Ihhpm) | [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j), [Harmanjeet](https://open.spotify.com/artist/2FRg6CIXD61xyvxUOzhYy5), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN) | [Parindey \(From "Jatt Nuu Chudail Takri"\)](https://open.spotify.com/album/416V9hPUHyM30URol93F8M) | 4:03 |
+| 6 | [Gulab](https://open.spotify.com/track/1CMivY02VCtga3xT7AyfQ4) | [Karan Randhawa](https://open.spotify.com/artist/3mnR9SJ3hfV6EcrGKH44H9) | [Loverboy](https://open.spotify.com/album/67uk6VOF3UDB3JW5pKycnF) | 2:39 |
 | 7 | [Whenever](https://open.spotify.com/track/75NrYaibnoCgQZASqWrcYs) | [Amrit Maan](https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [Whenever](https://open.spotify.com/album/0sQRiOLXkzvK9b3r1LVZHK) | 3:30 |
 | 8 | [Dekhha Tenu \(From "Mr\. And Mrs\. Mahi"\)](https://open.spotify.com/track/34Fh4HXZmnuBdtgejWUZg2) | [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT), [Mohammad Faiz](https://open.spotify.com/artist/4xNgNFUMUuGCoy7IX74Y60) | [Dekhha Tenu \(From "Mr\. And Mrs\. Mahi"\)](https://open.spotify.com/album/1C3FmwSQAbjnZR6GRgnWQc) | 4:41 |
 | 9 | [Mi Amor](https://open.spotify.com/track/24MMjyA3NLqCsDJfsn51eg) | [Sharn](https://open.spotify.com/artist/74RGMjbSsFv5RLj8wVx9Yv), [40k](https://open.spotify.com/artist/6nAMu7pGqdwUSsGMZPUvSk), [The Paul](https://open.spotify.com/artist/1i31OYo0s5VoMCaMRJFZkJ) | [Mi Amor](https://open.spotify.com/album/0azGrKHPYvl2MEKwQFfbV2) | 3:23 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 | 74 | [Sab Kuchh \(From "MOH"\)](https://open.spotify.com/track/7HV84VsK9HDX1XJh3mxwaW) | [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j) | [Sab Kuchh \(From "MOH"\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/6FII2by2pqBRs4ooDQIpI2) | 4:20 |
 | 75 | [Guitar \- From the Album "XYZ"](https://open.spotify.com/track/76XQ1JrztUciUlQHYIXLl0) | [Karan Randhawa](https://open.spotify.com/artist/3mnR9SJ3hfV6EcrGKH44H9) | [Guitar](https://open.spotify.com/album/2cZavSlbZLnEpU938tCGuG) | 2:32 |
 
-Snapshot ID: `Zk8aUAAAAAD8qBaxRtYEX9rpK6nsydaM`
+Snapshot ID: `ZlAJ2wAAAABhHJ8sBCtS8ljSyAjMCEQa`

@@ -6,105 +6,145 @@
     "name": "Maciej P\u0119dzich",
     "url": "https://open.spotify.com/user/jkmn666pyyh1kpn5367vt27l2"
   },
-  "snapshot_id": "AAAC9V1h+zSR4eFTIjMQnzatUaLpSiDO",
+  "snapshot_id": "AAADBvDDZtosgrOVMlKNGakx9GgxNoeM",
   "tracks": [
     {
-      "added_at": "2024-04-24 16:42:17",
+      "added_at": "2024-05-24 20:53:59",
       "album": {
-        "name": "MARAVILLOSA",
-        "url": "https://open.spotify.com/album/1ws8EoubWWoxcprSyoHsbb"
+        "name": "Voice Machine",
+        "url": "https://open.spotify.com/album/74sGDyM908xhzHMkfnyr7S"
       },
       "artists": [
         {
-          "name": "ero808",
-          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
+          "name": "HeyDoc!",
+          "url": "https://open.spotify.com/artist/5EwW7fH1tpfaLhv54OgneB"
+        }
+      ],
+      "duration_ms": 245625,
+      "name": "Voice Machine",
+      "url": "https://open.spotify.com/track/3qGegN5LcHC2gYV6IsDusb"
+    },
+    {
+      "added_at": "2024-05-24 20:54:03",
+      "album": {
+        "name": "All The Way",
+        "url": "https://open.spotify.com/album/2yL0wl9CvwWNIpIFBSUcP1"
+      },
+      "artists": [
+        {
+          "name": "Reece Ros\u00e9",
+          "url": "https://open.spotify.com/artist/7e7AGt1EJqxXsb9xpaflJ5"
+        }
+      ],
+      "duration_ms": 243809,
+      "name": "All The Way",
+      "url": "https://open.spotify.com/track/6kjP9hwgKBzKo0psteGFDY"
+    },
+    {
+      "added_at": "2024-05-24 20:54:11",
+      "album": {
+        "name": "UNSPOKEN DESIRES EP",
+        "url": "https://open.spotify.com/album/6AC9s4oFLhVC7M3PCmdzjD"
+      },
+      "artists": [
+        {
+          "name": "AGLF",
+          "url": "https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG"
+        }
+      ],
+      "duration_ms": 199074,
+      "name": "Don't Watch Her",
+      "url": "https://open.spotify.com/track/7KCIyeB50sJSlNI0qcLhtf"
+    },
+    {
+      "added_at": "2024-05-24 20:57:09",
+      "album": {
+        "name": "Don't Sweat It",
+        "url": "https://open.spotify.com/album/3u7jL6KxRZ2OhGcyjXesFF"
+      },
+      "artists": [
+        {
+          "name": "SUBSHIFT",
+          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
         },
         {
-          "name": "NXSTY",
-          "url": "https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU"
+          "name": "BINGEWATCH",
+          "url": "https://open.spotify.com/artist/46GFgB66csz8utVAK4Z29Z"
         }
       ],
-      "duration_ms": 152812,
-      "name": "MARAVILLOSA",
-      "url": "https://open.spotify.com/track/2gqTJ6kG9qgbRuwsRb66LA"
+      "duration_ms": 176750,
+      "name": "Don't Sweat It",
+      "url": "https://open.spotify.com/track/46ejVpRBMemcDh4RMHrQzR"
     },
     {
-      "added_at": "2024-04-24 16:42:12",
+      "added_at": "2024-05-24 20:54:30",
       "album": {
-        "name": "Automatic",
-        "url": "https://open.spotify.com/album/15xLRQ3xbSbUKcVSjQCMSO"
+        "name": "\u6697\u82b1",
+        "url": "https://open.spotify.com/album/52GNNEKQppvR22nVaZ3fTI"
       },
       "artists": [
         {
-          "name": "NuBass",
-          "url": "https://open.spotify.com/artist/5Nd61ppMOQbbtF1HV13kBO"
-        }
-      ],
-      "duration_ms": 166285,
-      "name": "Automatic",
-      "url": "https://open.spotify.com/track/5UTcXCoN6lJwjaBjTFlt9B"
-    },
-    {
-      "added_at": "2024-04-24 16:42:05",
-      "album": {
-        "name": "Frikitona (Odd Mob Remix)",
-        "url": "https://open.spotify.com/album/0tDuxbHaSqjfQrqCDYalHk"
-      },
-      "artists": [
-        {
-          "name": "Andruss",
-          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
+          "name": "Chace",
+          "url": "https://open.spotify.com/artist/5kPhAZL6iV8iDywUmIPC3g"
         },
         {
-          "name": "Odd Mob",
-          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
+          "name": "Hugo",
+          "url": "https://open.spotify.com/artist/3IMSkE3ztjCySBCGRTyh47"
         }
       ],
-      "duration_ms": 191718,
-      "name": "Frikitona - Odd Mob Remix",
-      "url": "https://open.spotify.com/track/4VmJrlaQyNESNp5kAK7zIY"
+      "duration_ms": 234563,
+      "name": "\u6697\u82b1",
+      "url": "https://open.spotify.com/track/52kv9hsW6DLvoL1Ae0UrnH"
     },
     {
-      "added_at": "2024-04-24 16:41:43",
+      "added_at": "2024-05-24 20:54:17",
       "album": {
-        "name": "Bring It",
-        "url": "https://open.spotify.com/album/73urxOIceB1W6TUudf9xZ8"
+        "name": "Delusion",
+        "url": "https://open.spotify.com/album/024B7xm7NNf5xAQKYtTBO3"
       },
       "artists": [
         {
-          "name": "OOTORO",
-          "url": "https://open.spotify.com/artist/3kWLEfykUXgiuhbR2NwnLI"
+          "name": "Freyer",
+          "url": "https://open.spotify.com/artist/5rWDaIemV0O8diTTcitrZ4"
         },
         {
-          "name": "ZDX",
-          "url": "https://open.spotify.com/artist/47nioEb6pIp7utNqQ9UqzA"
+          "name": "CYMN",
+          "url": "https://open.spotify.com/artist/1WJ5N2Ld3BdB4y0bEvCuRO"
         }
       ],
-      "duration_ms": 188437,
-      "name": "Bring It",
-      "url": "https://open.spotify.com/track/4gUg5vmjYicLAn029z1E1G"
+      "duration_ms": 159838,
+      "name": "Delusion",
+      "url": "https://open.spotify.com/track/4ZgMrN8p7ilyVQXwVb3hxz"
     },
     {
-      "added_at": "2024-04-24 16:41:54",
+      "added_at": "2024-05-24 20:54:25",
       "album": {
-        "name": "Put Em' High",
-        "url": "https://open.spotify.com/album/68ZSSaNKoyjZJcnFHTqGyM"
+        "name": "Night Bass Remixed Vol. 3",
+        "url": "https://open.spotify.com/album/1Cdc4VQAG1CZ454qaV5Aco"
       },
       "artists": [
         {
-          "name": "CASHEW",
-          "url": "https://open.spotify.com/artist/15ouNMI0IA7d45Tez6JbRw"
+          "name": "AC Slater",
+          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
+        },
+        {
+          "name": "Frisco",
+          "url": "https://open.spotify.com/artist/1AKNroq6zJX4DlJaA0dcKw"
+        },
+        {
+          "name": "Qlank",
+          "url": "https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y"
         }
       ],
-      "duration_ms": 243779,
-      "name": "Put Em' High",
-      "url": "https://open.spotify.com/track/6PbEpqfl9An6JeNKdmFADk"
+      "duration_ms": 278095,
+      "name": "Come Thru - Qlank Remix",
+      "url": "https://open.spotify.com/track/00uNDlNkpDkZP0CsJtD0qD"
     },
     {
-      "added_at": "2024-04-24 16:42:01",
+      "added_at": "2024-05-24 20:54:07",
       "album": {
-        "name": "Need My Love",
-        "url": "https://open.spotify.com/album/4Doqei3f3QFbYetrrQIN4X"
+        "name": "When I'm in It",
+        "url": "https://open.spotify.com/album/7a9A18elWcSzhDqAgZ6N5r"
       },
       "artists": [
         {
@@ -112,77 +152,49 @@
           "url": "https://open.spotify.com/artist/2oOuwFJjxe5enJAkDgPkHp"
         }
       ],
-      "duration_ms": 174500,
-      "name": "Need My Love",
-      "url": "https://open.spotify.com/track/3T4wzWbX6MirfuYdJek7AR"
+      "duration_ms": 173858,
+      "name": "When I'm in It",
+      "url": "https://open.spotify.com/track/4qEgpcBgO4bit8EQIJkjr5"
     },
     {
-      "added_at": "2024-04-24 16:42:09",
+      "added_at": "2024-05-24 20:54:36",
       "album": {
-        "name": "CASH",
-        "url": "https://open.spotify.com/album/5yPmLk3SMzOtbkHp9jnivj"
+        "name": "2AM",
+        "url": "https://open.spotify.com/album/22gPZACM941jJGpd6vU4ZX"
       },
       "artists": [
         {
-          "name": "Habstrakt",
-          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "CASH",
-      "url": "https://open.spotify.com/track/10Tg2LXtZG5yHyrYxM8dEk"
-    },
-    {
-      "added_at": "2024-04-24 16:43:13",
-      "album": {
-        "name": "OVERN!GHT",
-        "url": "https://open.spotify.com/album/0VjQZjB5Y9rBDwYXPs5p2N"
-      },
-      "artists": [
-        {
-          "name": "dhuss",
-          "url": "https://open.spotify.com/artist/0VCdowS9c0KjYcVJAZCvBd"
-        }
-      ],
-      "duration_ms": 293760,
-      "name": "OVERN!GHT",
-      "url": "https://open.spotify.com/track/7FMKInxdXSjAAFRnVDXybH"
-    },
-    {
-      "added_at": "2024-04-24 16:44:32",
-      "album": {
-        "name": "DNA (Radio Edit)",
-        "url": "https://open.spotify.com/album/1hzPSg9JPNLCSsIzBDbKss"
-      },
-      "artists": [
-        {
-          "name": "SUBSHIFT",
-          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
-        }
-      ],
-      "duration_ms": 178190,
-      "name": "DNA - Radio Edit",
-      "url": "https://open.spotify.com/track/29Aui4Zhp6GQKfIJULRfHT"
-    },
-    {
-      "added_at": "2024-04-24 16:42:30",
-      "album": {
-        "name": "Like This",
-        "url": "https://open.spotify.com/album/70Y499sKPQoo4qVMdT7RwD"
-      },
-      "artists": [
-        {
-          "name": "Jack Beats",
-          "url": "https://open.spotify.com/artist/5dUIQXIt7WeBKpETFZyTFW"
+          "name": "Window Kid",
+          "url": "https://open.spotify.com/artist/0Gt5eU7AuKfotkBLgjyg9p"
         },
         {
-          "name": "Qlank",
-          "url": "https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y"
+          "name": "Local",
+          "url": "https://open.spotify.com/artist/5pNualCkz8Fih2WjCYwEZ2"
         }
       ],
-      "duration_ms": 153750,
-      "name": "Like This",
-      "url": "https://open.spotify.com/track/4A2vWdaWh7cF3SBguQm9l3"
+      "duration_ms": 188498,
+      "name": "2AM",
+      "url": "https://open.spotify.com/track/1mTibrsVeunMhiq1ADqzhY"
+    },
+    {
+      "added_at": "2024-05-24 20:54:40",
+      "album": {
+        "name": "Watch The Skank",
+        "url": "https://open.spotify.com/album/01CQfqMHQFq4S0ogijNGwJ"
+      },
+      "artists": [
+        {
+          "name": "Zero",
+          "url": "https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH"
+        },
+        {
+          "name": "Tempa T",
+          "url": "https://open.spotify.com/artist/5itdSz26wZC57bo3dhQTPq"
+        }
+      ],
+      "duration_ms": 181714,
+      "name": "Watch The Skank",
+      "url": "https://open.spotify.com/track/49zk3dTYmYjtXK6UnG18Er"
     }
   ],
   "unique_name": "Mac's Mixtape",

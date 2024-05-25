@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1mPHJeSJNRN.md) - [plain]
 
 > Soundtrack spring time with uplifting and sunny Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,778 likes - 100 songs - 7 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,792 likes - 100 songs - 7 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1mPHJeSJNRN.md) - [plain]
 | 8 | [Taking a Chance on Love](https://open.spotify.com/track/3I1DVI1Bllke45hTQke9ux) | [Renee Olstead](https://open.spotify.com/artist/19B0pJt4UEl3fUijGTRzxB) | [Renee Olstead](https://open.spotify.com/album/0xBTBaqqZd6Vnmp0tJ3g42) | 3:30 |
 | 9 | [After The Rain](https://open.spotify.com/track/3cYAxfeE7rwiF1vjCTYi3i) | [Rigmor Gustafsson](https://open.spotify.com/artist/4PVhLylgFzJbW165GuwMzU) | [On My Way to You](https://open.spotify.com/album/1HQrW5oQigjeWcKwR3HkNX) | 2:52 |
 | 10 | [A Ballad for Alice](https://open.spotify.com/track/01gXG16eWORzNaZdTqdVWD) | [Armel Dupas Trio](https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU) | [A Ballad for Alice](https://open.spotify.com/album/1iWcq6geiresvdyp7hUajv) | 2:58 |
-| 11 | [I Fall In Love Too Easily](https://open.spotify.com/track/5KX9xXNC0MlBQLgHw0HOC1) | [Cande y Paulo](https://open.spotify.com/artist/305J40TcfZv1ntw9RI6dc1) | [Cande y Paulo](https://open.spotify.com/album/5bdHY0adQ8GNFOa5PdgAVg) | 3:46 |
-| 12 | [Everything To Me](https://open.spotify.com/track/1D7BVIjNGLW0dBlD5NEmev) | [CMC 3](https://open.spotify.com/artist/6GtEW3IyxraJqKi2h86JqC) | [Everything To Me](https://open.spotify.com/album/5gKlIc5h9S3NigmdtLUwjI) | 5:24 |
+| 11 | [Everything To Me](https://open.spotify.com/track/1D7BVIjNGLW0dBlD5NEmev) | [CMC 3](https://open.spotify.com/artist/6GtEW3IyxraJqKi2h86JqC) | [Everything To Me](https://open.spotify.com/album/5gKlIc5h9S3NigmdtLUwjI) | 5:24 |
+| 12 | [I Fall In Love Too Easily](https://open.spotify.com/track/5KX9xXNC0MlBQLgHw0HOC1) | [Cande y Paulo](https://open.spotify.com/artist/305J40TcfZv1ntw9RI6dc1) | [Cande y Paulo](https://open.spotify.com/album/5bdHY0adQ8GNFOa5PdgAVg) | 3:46 |
 | 13 | [Spring Is in the Air](https://open.spotify.com/track/0c6PEeFIX4PQ20yyjwW1SE) | [Martin Landström](https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN) | [In a Deeper Sense](https://open.spotify.com/album/7HUtFnt2Tl5PJGhybMBAt1) | 4:48 |
 | 14 | [Omission](https://open.spotify.com/track/3k5DKMMsGADkmtIVa72D7p) | [Julian Lage](https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT) | [Omission](https://open.spotify.com/album/593q9vEn6lZFiooIkdGWgm) | 3:26 |
 | 15 | [Mrs\. Cold](https://open.spotify.com/track/2fZpBqtZeNpXxX5UiO0AVw) | [Flora Martínez](https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ) | [Mrs\. Cold](https://open.spotify.com/album/1WhW0QimR7aDE0qoBhzCaz) | 3:03 |
@@ -66,12 +66,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1mPHJeSJNRN.md) - [plain]
 | 56 | [Chandra](https://open.spotify.com/track/40KYa8MjDOKIByCm3iv8P9) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y), [Paul Motian](https://open.spotify.com/artist/4VIPZJwfn4EGbJxYVHJ0WX), [Gary Peacock](https://open.spotify.com/artist/2k1Qcdf3sOJYCNZEPus58Y) | [At The Deer Head Inn](https://open.spotify.com/album/5dv5GivEsrsnfdwLNHVzQx) | 9:21 |
 | 57 | [On a Turquoise Cloud](https://open.spotify.com/track/1XrEY8nz2P4L9rVoq9MdXs) | [Echoes of Swing](https://open.spotify.com/artist/2MGK5rV3sBiI1UW1hjYDD8) | [Travelin'](https://open.spotify.com/album/6pOPaRqCpE0X8aJN1lvXD5) | 3:48 |
 | 58 | [Joy Spring](https://open.spotify.com/track/4wy9xl0qIefHzCyFP92oBE) | [Emilie\-Claire Barlow](https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg) | [Happyfeet](https://open.spotify.com/album/384kvE6BvSyX2mghUSW7FP) | 6:40 |
-| 59 | [I’ve Got A Crush On You](https://open.spotify.com/track/3OQratgAjUQhiDyku1RJEg) | [Kristin Chenoweth](https://open.spotify.com/artist/3DgcBA7P0ji5co7Z1Gfp2Q), [Dave Koz](https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm) | [The Art Of Elegance](https://open.spotify.com/album/2ZdIKuNRW5Jn9Bt1jYkevo) | 2:54 |
-| 60 | [Tangorrus Field](https://open.spotify.com/track/0tJ5RazKORwxkHbJRDQ8nj) | [Jan Harbeck Quartet](https://open.spotify.com/artist/7JGHjWlWkG5A8cB7HzQL0x) | [The Sound the Rhythm](https://open.spotify.com/album/1vyIqrS1y7Cv0tIJcIPBMC) | 7:24 |
-| 61 | [Avril au Portugal](https://open.spotify.com/track/11ephJHUUPlf7KrQiM05ic) | [Eartha Kitt](https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC) | [That Bad Eartha](https://open.spotify.com/album/19ZUoDOWmYb59rG5p5WoSW) | 2:54 |
-| 62 | [I Will Wait for You](https://open.spotify.com/track/7lZEeFkTjWvwoVIVJ54vGT) | [Rigmor Gustafsson](https://open.spotify.com/artist/4PVhLylgFzJbW165GuwMzU) | [I Will Wait for You \(with Nils Landgren & FleshQuartet\)](https://open.spotify.com/album/3qZhst0qZ2bq0VXr135meE) | 4:22 |
-| 63 | [Up Jumped Spring](https://open.spotify.com/track/0Ym1XHuFUolBWg6pTZHarn) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [Backlash](https://open.spotify.com/album/3pZiA4rrKQQP8ZXDAafgYj) | 6:41 |
-| 64 | [Gone With The Wind](https://open.spotify.com/track/5IBREbYRb8KyBIu1TyxDXq) | [Wes Montgomery](https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ) | [Incredible Jazz Guitar](https://open.spotify.com/album/74kBIzv8E0CG5V6qx5ytm2) | 6:21 |
+| 59 | [I Will Wait for You](https://open.spotify.com/track/7lZEeFkTjWvwoVIVJ54vGT) | [Rigmor Gustafsson](https://open.spotify.com/artist/4PVhLylgFzJbW165GuwMzU) | [I Will Wait for You \(with Nils Landgren & FleshQuartet\)](https://open.spotify.com/album/3qZhst0qZ2bq0VXr135meE) | 4:22 |
+| 60 | [I’ve Got A Crush On You](https://open.spotify.com/track/3OQratgAjUQhiDyku1RJEg) | [Kristin Chenoweth](https://open.spotify.com/artist/3DgcBA7P0ji5co7Z1Gfp2Q), [Dave Koz](https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm) | [The Art Of Elegance](https://open.spotify.com/album/2ZdIKuNRW5Jn9Bt1jYkevo) | 2:54 |
+| 61 | [Tangorrus Field](https://open.spotify.com/track/0tJ5RazKORwxkHbJRDQ8nj) | [Jan Harbeck Quartet](https://open.spotify.com/artist/7JGHjWlWkG5A8cB7HzQL0x) | [The Sound the Rhythm](https://open.spotify.com/album/1vyIqrS1y7Cv0tIJcIPBMC) | 7:24 |
+| 62 | [Gone With The Wind](https://open.spotify.com/track/5IBREbYRb8KyBIu1TyxDXq) | [Wes Montgomery](https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ) | [Incredible Jazz Guitar](https://open.spotify.com/album/74kBIzv8E0CG5V6qx5ytm2) | 6:21 |
+| 63 | [Avril au Portugal](https://open.spotify.com/track/11ephJHUUPlf7KrQiM05ic) | [Eartha Kitt](https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC) | [That Bad Eartha](https://open.spotify.com/album/19ZUoDOWmYb59rG5p5WoSW) | 2:54 |
+| 64 | [Up Jumped Spring](https://open.spotify.com/track/0Ym1XHuFUolBWg6pTZHarn) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [Backlash](https://open.spotify.com/album/3pZiA4rrKQQP8ZXDAafgYj) | 6:41 |
 | 65 | [Melancholy March](https://open.spotify.com/track/2beWW2ss3csNXl9x2wECPh) | [Julie London](https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m) | [Calendar Girl](https://open.spotify.com/album/17tLyn0tBCYOeKZC2iaFRE) | 2:21 |
 | 66 | [Holland](https://open.spotify.com/track/6or1VbOYOIjDPxJxyjZvuE) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq) | [Where Do You Start](https://open.spotify.com/album/2s8XWSfq0eLzFd6oaNiIx2) | 8:46 |
 | 67 | [My Shining Hour](https://open.spotify.com/track/2f3JyFkXqpwFB9sDjwJzZN) | [Sara Gazarek](https://open.spotify.com/artist/7JAxSqDybAiZCDoqJ1R1fc) | [Yours](https://open.spotify.com/album/2Xe4xUaQClQbY5KN9OBaZM) | 3:13 |

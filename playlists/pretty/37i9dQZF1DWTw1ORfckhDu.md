@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 > 100 Suomi 💯 Kannessa Isac Elliot ja Averagekidluke.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,984 likes - 69 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,012 likes - 69 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

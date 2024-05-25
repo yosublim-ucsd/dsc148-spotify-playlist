@@ -2,7 +2,7 @@
 
 ### [Funk Hits](https://open.spotify.com/playlist/37i9dQZF1DWTkIwO2HDifB)
 
-> Não Vou Namorar e os funks mais 🔑 do Brasil\. Foto: DJ Ws da Igrejinha, DJ JOÃO PEREIRA, Mc Dudu Sk, MC TH DA SERRA
+> MTG QUEM NÃO QUER SOU EU e os funks mais 🔑 do Brasil\. Foto: DJ TOPO, Seu Jorge, Mc Leozin
 
 262 songs - 14 hr 45 min
 

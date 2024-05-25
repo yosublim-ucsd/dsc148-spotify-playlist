@@ -1,13 +1,29 @@
 {
-  "description": "Underground indie rock gems. Cover: Wishy",
-  "num_followers": 295223,
+  "description": "Underground indie rock gems. Cover: YULLOLA",
+  "num_followers": 295227,
   "original_name": "undercurrents",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zkdo+AAAAADfOy7vjDsoXrcZSdTE7d/y",
+  "snapshot_id": "ZlDAHgAAAADf+Gii+0WcKezX41UYlAx2",
   "tracks": [
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Zen Maiden",
+        "url": "https://open.spotify.com/album/5KzJWSKekKo0IbzjrrXjsR"
+      },
+      "artists": [
+        {
+          "name": "YULLOLA",
+          "url": "https://open.spotify.com/artist/6vABHl7aPLdJwk0BU9cilg"
+        }
+      ],
+      "duration_ms": 168598,
+      "name": "Sweet Lilac",
+      "url": "https://open.spotify.com/track/4AvzyTw47aX8JW04H33O1i"
+    },
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
@@ -25,6 +41,86 @@
       "url": "https://open.spotify.com/track/3jl676aK6eGkmcQxizfPRh"
     },
     {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Pumpkin",
+        "url": "https://open.spotify.com/album/6b5OV9K1FhzSTREVtpy8hs"
+      },
+      "artists": [
+        {
+          "name": "Been Stellar",
+          "url": "https://open.spotify.com/artist/3ep1YmatQ8L9UKCGYiJNBh"
+        }
+      ],
+      "duration_ms": 257920,
+      "name": "Pumpkin",
+      "url": "https://open.spotify.com/track/1IQx5nJcdso6KsMloQSWza"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Rootin' For Ya",
+        "url": "https://open.spotify.com/album/0hKRKYg5UNFALZdhwukJVL"
+      },
+      "artists": [
+        {
+          "name": "Field Guide",
+          "url": "https://open.spotify.com/artist/3m8lmJWxlk9SPTFFCdxJVz"
+        }
+      ],
+      "duration_ms": 191333,
+      "name": "Somehow I Forgot",
+      "url": "https://open.spotify.com/track/0YtblIQRK83VTI0ienTyOH"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "sKill isSue",
+        "url": "https://open.spotify.com/album/5KQOYZ9WKmTGpqAUSUNJET"
+      },
+      "artists": [
+        {
+          "name": "untitled (halo)",
+          "url": "https://open.spotify.com/artist/3r9Q5Yy2TA8QG4CtJlvhIn"
+        }
+      ],
+      "duration_ms": 115800,
+      "name": "sKill isSue",
+      "url": "https://open.spotify.com/track/4XFSlBTvpkjvClOl57muno"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "Michigan",
+        "url": "https://open.spotify.com/album/6GKWORJPsbQ2lLP5Sa9s6k"
+      },
+      "artists": [
+        {
+          "name": "Tasha",
+          "url": "https://open.spotify.com/artist/4ZbFpxbORhzU78ve8e62Ej"
+        }
+      ],
+      "duration_ms": 179467,
+      "name": "Michigan",
+      "url": "https://open.spotify.com/track/1WfEUgnWKJLPpuEbEj69qh"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Runway",
+        "url": "https://open.spotify.com/album/3dnOO9ml5nuGJm8LdVzvRx"
+      },
+      "artists": [
+        {
+          "name": "Kaz Moon",
+          "url": "https://open.spotify.com/artist/70TpT5Yq8mRwav91mSTKQV"
+        }
+      ],
+      "duration_ms": 188955,
+      "name": "Runway",
+      "url": "https://open.spotify.com/track/2nyi6DiE3kwKc3Kbc0DILM"
+    },
+    {
       "added_at": "2024-05-17 04:00:00",
       "album": {
         "name": "Holy Touch",
@@ -39,6 +135,22 @@
       "duration_ms": 224395,
       "name": "Holy Touch",
       "url": "https://open.spotify.com/track/4OX2oCV4aZHnmCf1Woh0FG"
+    },
+    {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
+        "name": "Why Is It Light Out?",
+        "url": "https://open.spotify.com/album/6904DB41CM3pjgKkUTKWjm"
+      },
+      "artists": [
+        {
+          "name": "The Kilans",
+          "url": "https://open.spotify.com/artist/4OyAwz3jcZcejoUd3bc5Qt"
+        }
+      ],
+      "duration_ms": 242438,
+      "name": "Why Is It Light Out?",
+      "url": "https://open.spotify.com/track/1f6xPiazNywm5rC1krjr5O"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -71,38 +183,6 @@
       "duration_ms": 152472,
       "name": "Television",
       "url": "https://open.spotify.com/track/0X8bnjtn3TXsMRcnIpQFaG"
-    },
-    {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
-        "name": "Why Is It Light Out?",
-        "url": "https://open.spotify.com/album/6904DB41CM3pjgKkUTKWjm"
-      },
-      "artists": [
-        {
-          "name": "The Kilans",
-          "url": "https://open.spotify.com/artist/4OyAwz3jcZcejoUd3bc5Qt"
-        }
-      ],
-      "duration_ms": 242438,
-      "name": "Why Is It Light Out?",
-      "url": "https://open.spotify.com/track/1f6xPiazNywm5rC1krjr5O"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Michigan",
-        "url": "https://open.spotify.com/album/6GKWORJPsbQ2lLP5Sa9s6k"
-      },
-      "artists": [
-        {
-          "name": "Tasha",
-          "url": "https://open.spotify.com/artist/4ZbFpxbORhzU78ve8e62Ej"
-        }
-      ],
-      "duration_ms": 179467,
-      "name": "Michigan",
-      "url": "https://open.spotify.com/track/1WfEUgnWKJLPpuEbEj69qh"
     },
     {
       "added_at": "2024-05-17 04:00:00",

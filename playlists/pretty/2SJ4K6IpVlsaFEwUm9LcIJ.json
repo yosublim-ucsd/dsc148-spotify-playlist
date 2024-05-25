@@ -1,12 +1,12 @@
 {
   "description": "what i&#x27;m listening to: may-june 2024 (previous playlists archived on my profile)",
-  "num_followers": 19541,
+  "num_followers": 19544,
   "original_name": "impressive\u2026 but true!",
   "owner": {
     "name": "margeaux",
     "url": "https://open.spotify.com/user/1220511975"
   },
-  "snapshot_id": "AAAKbNF/+miUnI1nytaIANfJk6/s8wUs",
+  "snapshot_id": "AAAKcVa+bjYsh3l+RLZNq9eLMHB+T2AG",
   "tracks": [
     {
       "added_at": "2024-05-16 01:01:16",
@@ -283,26 +283,6 @@
     {
       "added_at": "2024-05-20 22:01:43",
       "album": {
-        "name": "There is only love and fear",
-        "url": "https://open.spotify.com/album/1uVwUTnbeJYN352RI4jRKe"
-      },
-      "artists": [
-        {
-          "name": "Bex Burch",
-          "url": "https://open.spotify.com/artist/1tdT4MNoOC6sagnhU2XEbQ"
-        },
-        {
-          "name": "Macie Stewart",
-          "url": "https://open.spotify.com/artist/4bAFS16s5qBFYuOM4gQ5Xv"
-        }
-      ],
-      "duration_ms": 290026,
-      "name": "Dawn blessings",
-      "url": "https://open.spotify.com/track/2CDErqDxCM5ggWEgiYopcl"
-    },
-    {
-      "added_at": "2024-05-20 22:01:43",
-      "album": {
         "name": "Bird Sanctuary",
         "url": "https://open.spotify.com/album/0eFo49QMBP8QcNuLv1XwPN"
       },
@@ -365,22 +345,6 @@
       "url": "https://open.spotify.com/track/33R2KZxpZ8nnOihRTHea8s"
     },
     {
-      "added_at": "2024-05-23 16:51:30",
-      "album": {
-        "name": "Walkin' My Cat Named Dog",
-        "url": "https://open.spotify.com/album/0unsYxXMMsYMQB0epWjPu0"
-      },
-      "artists": [
-        {
-          "name": "Norma Tanega",
-          "url": "https://open.spotify.com/artist/4nlQA3jNE8cukTo6CdyCWP"
-        }
-      ],
-      "duration_ms": 145200,
-      "name": "I'm the Sky",
-      "url": "https://open.spotify.com/track/5RZakBALQyiqL1dG5VMmzH"
-    },
-    {
       "added_at": "2024-05-22 23:51:07",
       "album": {
         "name": "Becker and Fagen - The Early Years",
@@ -399,6 +363,58 @@
       "duration_ms": 124973,
       "name": "You Go Where I Go",
       "url": "https://open.spotify.com/track/3GHI7zfOFyQigfGBiJc2Ya"
+    },
+    {
+      "added_at": "2024-05-24 19:59:16",
+      "album": {
+        "name": "Le Jardin De Heavenly",
+        "url": "https://open.spotify.com/album/0InB1oG08YUmJuztRRoHvK"
+      },
+      "artists": [
+        {
+          "name": "Heavenly",
+          "url": "https://open.spotify.com/artist/1sDWIdL18InXgES9TwvsL2"
+        },
+        {
+          "name": "Calvin Johnson",
+          "url": "https://open.spotify.com/artist/4L0x6V9ckwc4QhR069mk9M"
+        }
+      ],
+      "duration_ms": 201666,
+      "name": "C Is The Heavenly Option",
+      "url": "https://open.spotify.com/track/08mk6DH2nTVwlrQTE0Hunr"
+    },
+    {
+      "added_at": "2024-05-24 21:10:04",
+      "album": {
+        "name": "Bundle of Joy",
+        "url": "https://open.spotify.com/album/6c1VIXuJZJBDkmNM236bXt"
+      },
+      "artists": [
+        {
+          "name": "Land of the Loops",
+          "url": "https://open.spotify.com/artist/0H4Rek6UJ2GpLm5HduQ9uv"
+        }
+      ],
+      "duration_ms": 255133,
+      "name": "Multi-Family Garage Sale (Bargain-Bin Mix)",
+      "url": "https://open.spotify.com/track/314KmbRrSXcQHFujzdOr9v"
+    },
+    {
+      "added_at": "2024-05-24 21:55:29",
+      "album": {
+        "name": "This is Our Music",
+        "url": "https://open.spotify.com/album/79JBh8OZRmvaC4ORkKB7ou"
+      },
+      "artists": [
+        {
+          "name": "Galaxie 500",
+          "url": "https://open.spotify.com/artist/6guTJsgPymDUVfqDJyz5UG"
+        }
+      ],
+      "duration_ms": 338506,
+      "name": "Fourth of July",
+      "url": "https://open.spotify.com/track/3AASTYWf8pLMdBj2ZIAMBx"
     }
   ],
   "unique_name": "impressive\u2026 but true!",

@@ -4,7 +4,7 @@
 
 > The best new music by Experimental independent artists and labels\. Ozoyo on cover\. Artwork by Thami Nabil
 
-1,707 songs - 5 day 16 hr 1 min
+1,708 songs - 5 day 16 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,6 +175,7 @@
 | [BBR](https://open.spotify.com/track/6TPVhal4pIHTRgnY2B1ott) | [Tammo Hesselink](https://open.spotify.com/artist/476UnBjd8dIwacvae4WSDz) | [Silicon](https://open.spotify.com/album/19bLVEYkO9y1lm9qPZQXAU) | 5:25 | 2022-11-09 | 2022-12-01 |
 | [Be Like Water](https://open.spotify.com/track/5rtpUO69EPGFmOIEEDGbrf) | [Mark Pritchard](https://open.spotify.com/artist/7wDfZhaCORLgP3K62R3MJK) | [Be Like Water](https://open.spotify.com/album/3Eh6yLC7YxuHtPnjxeusJH) | 3:48 | 2020-11-05 | 2021-01-15 |
 | [Bear](https://open.spotify.com/track/00Kq9F35KrFQ99KoT32b8V) | [Julian Stetter](https://open.spotify.com/artist/5LItxzjKC2W1nRnxGflkkj) | [Outbound 5.1](https://open.spotify.com/album/4AeXlrnJDR4YsA1ympQRdc) | 7:16 | 2023-06-07 | 2023-10-05 |
+| [Bearded Fireworm](https://open.spotify.com/track/4M8eiodme1wpFvyVujDz9m) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Bearded Fireworm](https://open.spotify.com/album/3oJHNvLKrp708XlgVTjFbG) | 3:18 | 2024-05-24 |  |
 | [Beauty Wings](https://open.spotify.com/track/6J8vkmAq7srqMYF8AnH9E6) | [Felix Hering](https://open.spotify.com/artist/3h8QE0HwsoUbhit7J7Aqds) | [Beauty Wings](https://open.spotify.com/album/6q3gM6Cny9j5GHhigykrWm) | 3:36 | 2022-09-14 | 2022-09-22 |
 | [Because It Speaks](https://open.spotify.com/track/1Rn0XikOTy75toIqnbXuRH) | [Ian William Craig](https://open.spotify.com/artist/0romFcKJdf5jOe6S8row0Q) | [Split Series 24](https://open.spotify.com/album/3t0PEjGdNi244WZBZR65vp) | 18:23 | 2021-07-23 | 2021-09-22 |
 | [BEEN 2 HELL & BACK <3](https://open.spotify.com/track/6bhA5CoHakKzo46pqZhjyy) | [thanks god](https://open.spotify.com/artist/3q43Jrg093Ogo5F9PDMdMX) | [PaY 2 W!N](https://open.spotify.com/album/6gJsz5f9HD6n3Wh440Zsu1) | 3:12 | 2022-04-27 | 2022-07-21 |
@@ -770,7 +771,7 @@
 | [Jungle de la Muerte](https://open.spotify.com/track/2ojyhMaBhBcCCidkHxWOfM) | [María y José](https://open.spotify.com/artist/6DsIWcjlRh4a01ig2mutYX), [Siete Catorce](https://open.spotify.com/artist/3MVzVLPSlOV0s6mGQ2YZHr) | [Mala Hierba](https://open.spotify.com/album/2gUpydA3UPgqBkpjGbCCOy) | 3:10 | 2021-01-28 | 2021-02-11 |
 | [Junkie](https://open.spotify.com/track/3WIJ9GLscKxOIG1oszGvFo) | [urika's bedroom](https://open.spotify.com/artist/6LhbOssuAbrXa5Wzcskhhw) | [Junkie](https://open.spotify.com/album/4GcXFLrJYvYYiu9NXV51yg) | 3:36 | 2023-08-16 | 2024-03-07 |
 | [just a little more life with u](https://open.spotify.com/track/4DnPIFvrSk6OcFC185XwMG) | [innerinnerlife](https://open.spotify.com/artist/3SJn3wuHQGbKFT0vDKT3Yo) | [just a little more life with u](https://open.spotify.com/album/40uK99AoMTVcqhOmyc6t7P) | 3:13 | 2022-08-03 | 2022-09-01 |
-| [JUST A WORM](https://open.spotify.com/track/1VrZ1GXJ7ung4o9uLMnqzU) | [DJ Girl](https://open.spotify.com/artist/1DONuOPYFilfKkB5rpBkfe) | [RUNGBELLER](https://open.spotify.com/album/5CgnsKqbZOGrdA0ljoUZVm) | 4:40 | 2024-03-13 |  |
+| [JUST A WORM](https://open.spotify.com/track/1VrZ1GXJ7ung4o9uLMnqzU) | [DJ Girl](https://open.spotify.com/artist/1DONuOPYFilfKkB5rpBkfe) | [RUNGBELLER](https://open.spotify.com/album/5CgnsKqbZOGrdA0ljoUZVm) | 4:40 | 2024-03-13 | 2024-05-25 |
 | [Just Me, Selling Desires](https://open.spotify.com/track/7erIdv0TTM04ZjvVtTJEsy) | [\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|](https://open.spotify.com/artist/2i9OpWjVeuDPilnZ0mgM1L) | [Just Me, Selling Desires](https://open.spotify.com/album/6fU3Rgpdz3JIqrXZqloTsE) | 2:42 | 2021-03-11 | 2021-03-25 |
 | [Já não consigo mais, mas vou continuar](https://open.spotify.com/track/7GUaRliFFYyWV2NuUPjsPh) | [Gil Dionísio](https://open.spotify.com/artist/1cNxusdvXFitPzzJOGolCn) | [Já não consigo mais, mas vou continuar](https://open.spotify.com/album/4QWDAjTZJu8sLj1WtFEH3f) | 5:54 | 2023-08-30 | 2023-11-20 |
 | [Já não consigo mais, mas vou continuar](https://open.spotify.com/track/7KYswH2kUpHwYo81gatUsJ) | [Gil Dionísio](https://open.spotify.com/artist/1cNxusdvXFitPzzJOGolCn) | [Já não consigo mais, mas vou continuar](https://open.spotify.com/album/6G7f7Qxs5DgFxNipIjZ6hZ) | 5:54 | 2023-08-30 | 2023-11-30 |

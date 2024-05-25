@@ -481,6 +481,24 @@
     },
     {
       "album": {
+        "name": "Creatures",
+        "url": "https://open.spotify.com/album/6tWsRZMq3LPk5L58Ccdnw9"
+      },
+      "artists": [
+        {
+          "name": "Motionless In White",
+          "url": "https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172920,
+      "name": "Abigail",
+      "url": "https://open.spotify.com/track/5xenULMipKwyxl99DSdnIq"
+    },
+    {
+      "album": {
         "name": "Fast Times At Barrington High",
         "url": "https://open.spotify.com/album/2IEGo0H1J8AihVqaf5ghkJ"
       },
@@ -532,6 +550,24 @@
       "duration_ms": 132189,
       "name": "About It",
       "url": "https://open.spotify.com/track/2jrDrfZImsSBvaDY58ZCHv"
+    },
+    {
+      "album": {
+        "name": "House of Gold & Bones, Part 1",
+        "url": "https://open.spotify.com/album/2nCHgPLLyIgxFKUBYuMKPn"
+      },
+      "artists": [
+        {
+          "name": "Stone Sour",
+          "url": "https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229840,
+      "name": "Absolute Zero",
+      "url": "https://open.spotify.com/track/14EORgkbXqIx5K4Haucmnb"
     },
     {
       "album": {
@@ -1250,7 +1286,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 234106,
       "name": "Army Of Me",
       "url": "https://open.spotify.com/track/5zRuPOBoe38AjACFMsxkof"
@@ -1358,7 +1394,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 202560,
       "name": "Back For More",
       "url": "https://open.spotify.com/track/1QlrSCN6TkLKTvZcpUVWSS"
@@ -2219,6 +2255,24 @@
     },
     {
       "album": {
+        "name": "For Now",
+        "url": "https://open.spotify.com/album/79Daasf9K9t4SnLDxSmFsx"
+      },
+      "artists": [
+        {
+          "name": "Courage My Love",
+          "url": "https://open.spotify.com/artist/3pnnJVeIXqNJdUVUoLVPtl"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246320,
+      "name": "Bridges",
+      "url": "https://open.spotify.com/track/06hwOuz3WiHkqfy0iNs3Tt"
+    },
+    {
+      "album": {
         "name": "Endgame",
         "url": "https://open.spotify.com/album/1ueojQqs9eBYzStz2uM5Dr"
       },
@@ -2736,6 +2790,24 @@
       "duration_ms": 252053,
       "name": "Carry the Cross",
       "url": "https://open.spotify.com/track/5GnJy3HRwswXKX3rmffErf"
+    },
+    {
+      "album": {
+        "name": "Aquarius (Special Edition)",
+        "url": "https://open.spotify.com/album/0VN03Z2zA08bsq8eiDQZxu"
+      },
+      "artists": [
+        {
+          "name": "Aqua",
+          "url": "https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219440,
+      "name": "Cartoon Heroes - Radio Edit",
+      "url": "https://open.spotify.com/track/7vJgjjXD9spt5fgaSPox9z"
     },
     {
       "album": {
@@ -3854,6 +3926,24 @@
       "duration_ms": 212355,
       "name": "Dead Plants",
       "url": "https://open.spotify.com/track/3Q8WLratqyNqJxsJPyHLIC"
+    },
+    {
+      "album": {
+        "name": "Avenged Sevenfold",
+        "url": "https://open.spotify.com/album/3Id3VUk9jSKBD1guNo1buF"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 393480,
+      "name": "Dear God",
+      "url": "https://open.spotify.com/track/2FML7gk7ac6quGFIjvkDb3"
     },
     {
       "album": {
@@ -7640,7 +7730,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 228144,
       "name": "if you still like me in the morning",
       "url": "https://open.spotify.com/track/32UGfgmC8cbsK3RpqIJs4f"
@@ -8281,6 +8371,24 @@
     },
     {
       "album": {
+        "name": "Remember the Themes - Manga Anime, and Other Cartoon Themes",
+        "url": "https://open.spotify.com/album/33wo1N71Za7lJwkEUlLib4"
+      },
+      "artists": [
+        {
+          "name": "Coded Channel",
+          "url": "https://open.spotify.com/artist/5KTdvobMRET4Z8uRxvMUCW"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 35879,
+      "name": "Jimmy Neutron - Theme",
+      "url": "https://open.spotify.com/track/450y5TyBlnE5EWF9OBX72O"
+    },
+    {
+      "album": {
         "name": "Best of Bowie",
         "url": "https://open.spotify.com/album/2PEAajl89bIS4eWMk7zlbV"
       },
@@ -8768,7 +8876,7 @@
       ],
       "date_added": "2024-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-18",
+      "date_removed": null,
       "duration_ms": 255413,
       "name": "Lemuria",
       "url": "https://open.spotify.com/track/0lWYqPPmSQ0LIY4nN29QAl"
@@ -9024,7 +9132,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 380893,
       "name": "Livin' On The Edge",
       "url": "https://open.spotify.com/track/4avSaixVwu8uqfSs7zgoj3"
@@ -9388,7 +9496,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-19",
+      "date_removed": null,
       "duration_ms": 279272,
       "name": "Love Over Glory",
       "url": "https://open.spotify.com/track/0FQroAJHjN85mvXb9Wu56D"
@@ -9496,7 +9604,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 192706,
       "name": "Lugares Comunes",
       "url": "https://open.spotify.com/track/3Q7ps56omB24P5ClK5Thhv"
@@ -11432,7 +11540,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 282533,
       "name": "One Wild Night",
       "url": "https://open.spotify.com/track/03LGpDYgqaaj2TuX5Sj7CS"
@@ -12136,7 +12244,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 239280,
       "name": "Poison",
       "url": "https://open.spotify.com/track/6RZOIthuCD95PLtDYpYy9d"
@@ -12504,7 +12612,7 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-22",
+      "date_removed": null,
       "duration_ms": 354226,
       "name": "Rap Vs. Racismo - Con L\u00edrico, Santo, El Langui, Kase.O, Nach, Locus, Ose, Nervizzo, Sho Hai, Zatu, Gitano Anton, Tit\u00f3 y Xhelazz.",
       "url": "https://open.spotify.com/track/3FZDo3ehmRfeKpkwhsjn7A"
@@ -12558,7 +12666,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 222453,
       "name": "Re-Education (Through Labor)",
       "url": "https://open.spotify.com/track/6c1Bdvp208X0jbLmFnWbkC"
@@ -13081,6 +13189,24 @@
     },
     {
       "album": {
+        "name": "Iron Maiden (2015 Remaster)",
+        "url": "https://open.spotify.com/album/3DNeMApEMCo4IDXNMYnlFi"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197573,
+      "name": "Running Free - 2015 Remaster",
+      "url": "https://open.spotify.com/track/5JX4CIPK47CU1iVeAWJtH5"
+    },
+    {
+      "album": {
         "name": "Rust",
         "url": "https://open.spotify.com/album/7FzzbpaRYEmXLSrlhkpXyd"
       },
@@ -13244,6 +13370,24 @@
       "duration_ms": 297586,
       "name": "Sancta Terra",
       "url": "https://open.spotify.com/track/2fmVfcXaKrDNHa3ZKeILob"
+    },
+    {
+      "album": {
+        "name": "Iron Maiden (1998 Remastered Edition)",
+        "url": "https://open.spotify.com/album/5J5fnu7PEwhgzdkiBBtblw"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196226,
+      "name": "Sanctuary - 1998 Remastered Version",
+      "url": "https://open.spotify.com/track/5cJUFUWnVYkqwpCLxfOrzp"
     },
     {
       "album": {
@@ -14173,6 +14317,24 @@
     },
     {
       "album": {
+        "name": "Speechless",
+        "url": "https://open.spotify.com/album/4ABBtWGwPKGMpph6AAK0hQ"
+      },
+      "artists": [
+        {
+          "name": "Demae",
+          "url": "https://open.spotify.com/artist/1HkWfjmOohAg7lS9bv1QcL"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "Speechless",
+      "url": "https://open.spotify.com/track/5S4llrdOSlVYLlFZflVQE8"
+    },
+    {
+      "album": {
         "name": "Unconditional",
         "url": "https://open.spotify.com/album/0fTnGyrD3rUawLknAHeV48"
       },
@@ -14996,7 +15158,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 271475,
       "name": "Tangerine",
       "url": "https://open.spotify.com/track/6xdB35eP1oltwaPgtwZ9tP"
@@ -15418,7 +15580,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 302333,
       "name": "The Conjuring - Remastered",
       "url": "https://open.spotify.com/track/0pv49erP5wxMZMnprRCqXT"
@@ -17002,7 +17164,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 272866,
       "name": "Un Amor Violento",
       "url": "https://open.spotify.com/track/1DSWmpfOQZrEAbD0a3RF0u"
@@ -18102,7 +18264,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 215866,
       "name": "Where The River Flows",
       "url": "https://open.spotify.com/track/5c3K5Lwh6vcHi98qNYSNx8"

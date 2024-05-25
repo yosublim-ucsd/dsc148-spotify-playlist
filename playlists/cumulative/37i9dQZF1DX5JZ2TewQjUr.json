@@ -1465,6 +1465,24 @@
     },
     {
       "album": {
+        "name": "BUTTERFLIES",
+        "url": "https://open.spotify.com/album/2RNF3bStKxEkhbDRxe9IYF"
+      },
+      "artists": [
+        {
+          "name": "Flare",
+          "url": "https://open.spotify.com/artist/5fOFTVTh01fR3j1D0vpxOQ"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181767,
+      "name": "BUTTERFLIES",
+      "url": "https://open.spotify.com/track/4z5gS7C4LphtrMFHiQcDUu"
+    },
+    {
+      "album": {
         "name": "butterfly girl",
         "url": "https://open.spotify.com/album/3GL0FlvXkCofjH2HQUMzrU"
       },

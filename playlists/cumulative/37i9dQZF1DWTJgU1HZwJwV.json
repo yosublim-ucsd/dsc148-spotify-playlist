@@ -196,7 +196,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 192925,
       "name": "A Short Walk To Open Fields",
       "url": "https://open.spotify.com/track/0AcpMokszr0bPJQ5eoTPvg"
@@ -1309,6 +1309,24 @@
     },
     {
       "album": {
+        "name": "Carmen",
+        "url": "https://open.spotify.com/album/5lTAEn3yYDwQogpKLv1Zhr"
+      },
+      "artists": [
+        {
+          "name": "Rafaela Moreno",
+          "url": "https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173537,
+      "name": "Carmen",
+      "url": "https://open.spotify.com/track/7rQjEa1Vn8WDcfxc1Vt08s"
+    },
+    {
+      "album": {
         "name": "Carroll Gardens",
         "url": "https://open.spotify.com/album/6UTtrPhsCgjxjG24Zfn6jq"
       },
@@ -1490,6 +1508,24 @@
       "duration_ms": 179490,
       "name": "Combo Cadre",
       "url": "https://open.spotify.com/track/2iuH3nCY89Ljb1tjmvcKwV"
+    },
+    {
+      "album": {
+        "name": "Come to Me in the Silence of the Night",
+        "url": "https://open.spotify.com/album/0yOTmHU1sMWDhOoHi7TCdE"
+      },
+      "artists": [
+        {
+          "name": "Dominic Ruiz",
+          "url": "https://open.spotify.com/artist/4x3JdU2gxNgHzMdY61pCOx"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188623,
+      "name": "Come to Me in the Silence of the Night",
+      "url": "https://open.spotify.com/track/1V7vKOUi1FNJ2Ytl2ERakv"
     },
     {
       "album": {
@@ -1969,6 +2005,24 @@
     },
     {
       "album": {
+        "name": "Dreamy Meadows",
+        "url": "https://open.spotify.com/album/0xefdrtyuO0gIAPhzePx5c"
+      },
+      "artists": [
+        {
+          "name": "Timothy Hall",
+          "url": "https://open.spotify.com/artist/5WQIOA7Nu5yv3EVY7a6ot2"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151923,
+      "name": "Dreamy Meadows",
+      "url": "https://open.spotify.com/track/1rUJumpgrhAbL0PfhbTX7z"
+    },
+    {
+      "album": {
         "name": "Driving Alongside",
         "url": "https://open.spotify.com/album/5i4GPhiFsiEmNxgrFITm5D"
       },
@@ -2204,7 +2258,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 165166,
       "name": "Eminence",
       "url": "https://open.spotify.com/track/1vTdIN54rYOds3Cf1ymCE5"
@@ -3018,7 +3072,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 149750,
       "name": "Glide",
       "url": "https://open.spotify.com/track/6pkcB9YBzPNECMEqOsdSBa"
@@ -3414,7 +3468,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 126890,
       "name": "H\u00fcgel des Nordens",
       "url": "https://open.spotify.com/track/5VHzu2yKW2AKQoC3KJPkXL"
@@ -3486,7 +3540,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 148154,
       "name": "Il Tramonto",
       "url": "https://open.spotify.com/track/1wHO9UPhBh1b7kg0JOBlSd"
@@ -3756,7 +3810,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 171547,
       "name": "Jardim do Sanhos",
       "url": "https://open.spotify.com/track/5nG1fgUDpAhD6vHkMzvMYj"
@@ -3810,7 +3864,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 152723,
       "name": "King's Cross",
       "url": "https://open.spotify.com/track/3CSM7adhRTYXlZFMVFcgjI"
@@ -4408,6 +4462,24 @@
       "duration_ms": 167817,
       "name": "Lux Brumalis",
       "url": "https://open.spotify.com/track/2QrxZvUD1JpMLREXy3D44T"
+    },
+    {
+      "album": {
+        "name": "Madrigale",
+        "url": "https://open.spotify.com/album/74i60tfoF7VnXZgTjGJj5o"
+      },
+      "artists": [
+        {
+          "name": "Valerio Castilla",
+          "url": "https://open.spotify.com/artist/4kot0Uzr67BAdjYsmnUczI"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190701,
+      "name": "Madrigale",
+      "url": "https://open.spotify.com/track/5ypdfYneEqII1aOckEzzfz"
     },
     {
       "album": {
@@ -5726,7 +5798,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 177272,
       "name": "Pitaya",
       "url": "https://open.spotify.com/track/0qkLFOcaTCaFFwxh1uk9Mr"
@@ -5816,7 +5888,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 154911,
       "name": "Port Blair",
       "url": "https://open.spotify.com/track/1jMovOA0kIWC73Xio4pdXT"
@@ -5932,6 +6004,24 @@
       "duration_ms": 174105,
       "name": "Preludio, Op. 26",
       "url": "https://open.spotify.com/track/7phkF9WGZC8CoPKrQdv24D"
+    },
+    {
+      "album": {
+        "name": "Presence",
+        "url": "https://open.spotify.com/album/7spT1eTyS8gj0L8MHBX69x"
+      },
+      "artists": [
+        {
+          "name": "Leandra Costa",
+          "url": "https://open.spotify.com/artist/4pan7mPpKbyrhcNLveAiKr"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147620,
+      "name": "Presence",
+      "url": "https://open.spotify.com/track/65PwJhpGEDq3T9ifVlSM4r"
     },
     {
       "album": {
@@ -6432,7 +6522,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 224165,
       "name": "Salzburger Traum",
       "url": "https://open.spotify.com/track/5tkLBbZH27EVS0OZoYxrtf"
@@ -7170,7 +7260,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 120592,
       "name": "Sunrise With You",
       "url": "https://open.spotify.com/track/6x3yM2v8pDa91E03LPzcsx"
@@ -8002,7 +8092,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 124597,
       "name": "Tuscany",
       "url": "https://open.spotify.com/track/30Oh4ng8nkRQVhTtJEFI5I"

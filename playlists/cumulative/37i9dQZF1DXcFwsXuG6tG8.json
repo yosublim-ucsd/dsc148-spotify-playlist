@@ -218,7 +218,7 @@
       ],
       "date_added": "2023-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 281880,
       "name": "Babysita </3",
       "url": "https://open.spotify.com/track/0TzPApPjiPWXv98qSCrgbp"
@@ -258,7 +258,7 @@
       ],
       "date_added": "2023-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 201263,
       "name": "Bossa No S\u00e9 (feat. Jean Carter)",
       "url": "https://open.spotify.com/track/3kEsMLO3qUUwiXeCndsMIb"
@@ -808,7 +808,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 267198,
       "name": "Lo Que Llevo Dentro",
       "url": "https://open.spotify.com/track/33k1gWL9jqQVDhjd515rhM"
@@ -880,7 +880,7 @@
       ],
       "date_added": "2023-07-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-19",
+      "date_removed": null,
       "duration_ms": 215800,
       "name": "Mayo",
       "url": "https://open.spotify.com/track/04I96rrYFcOt1WprFHxFZg"
@@ -982,7 +982,7 @@
       ],
       "date_added": "2023-08-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-18",
+      "date_removed": null,
       "duration_ms": 121836,
       "name": "MI NI\u00d1A (RubyRose_Am_98BPM)",
       "url": "https://open.spotify.com/track/2RRq4PrIGH6XCqMz4URWNh"
@@ -1022,7 +1022,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 211791,
       "name": "MILAMORES",
       "url": "https://open.spotify.com/track/38K7p7vJm8rOGUBAZrEyW3"
@@ -1716,7 +1716,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-19",
+      "date_removed": null,
       "duration_ms": 207529,
       "name": "te acuerdas de mi?",
       "url": "https://open.spotify.com/track/1eYAhTrgoJVF8hi1j4n1lq"
@@ -1854,7 +1854,7 @@
       ],
       "date_added": "2023-07-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-13",
+      "date_removed": null,
       "duration_ms": 231604,
       "name": "Un ratito m\u00e1s",
       "url": "https://open.spotify.com/track/6oxu4nBUPJonbBptv1bX1n"
@@ -1880,6 +1880,24 @@
       "duration_ms": 203999,
       "name": "WCID?",
       "url": "https://open.spotify.com/track/4mwQi413D8omgjFXRnaA4u"
+    },
+    {
+      "album": {
+        "name": "Y SI SE ABREN LOS CIELOS",
+        "url": "https://open.spotify.com/album/7ojO0TsCWpHwxCIZ02vde4"
+      },
+      "artists": [
+        {
+          "name": "Gus",
+          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180893,
+      "name": "Y SI SE ABREN LOS CIELOS",
+      "url": "https://open.spotify.com/track/7hft2uQ3kmAHG3LkLgJjWw"
     },
     {
       "album": {
@@ -1934,7 +1952,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 169613,
       "name": "\u00bfY Si Eras T\u00fa?",
       "url": "https://open.spotify.com/track/4PFEzT2wC6BISXyRbP72zs"

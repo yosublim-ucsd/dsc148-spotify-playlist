@@ -4,7 +4,7 @@
 
 > Nieuw deze week \- Nouveautés de la semaine\. Cover: Hannah Mae & MAKSIM
 
-414 songs - 22 hr 10 min
+416 songs - 22 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,6 +165,7 @@
 | [Hope Is a Scary Thing](https://open.spotify.com/track/58SrfExCWNIdEh01NiAUOg) | [Carol Ades](https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr) | [Hope Is a Scary Thing](https://open.spotify.com/album/5vEqFwTMcGrqZw1Xuw04Qu) | 2:48 | 2024-04-26 | 2024-05-03 |
 | [Horizon \- uit Liefde Voor Muziek](https://open.spotify.com/track/0ntyu3ZtqlHluvT9hWjZ7C) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Liefde Voor Muziek 2024](https://open.spotify.com/album/2Z8qdGPSpLwxOm9ekV3jXW) | 3:15 | 2024-05-16 | 2024-05-24 |
 | [Hot Fever Dream](https://open.spotify.com/track/3bivI0NycEM5Q9uzfmFulF) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Hot Fever Dream](https://open.spotify.com/album/43hFtKcoKhHpJndFac4O1j) | 2:27 | 2024-05-02 | 2024-05-10 |
+| [How Sweet](https://open.spotify.com/track/38tXZcL1gZRfbqfOG0VMTH) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [How Sweet](https://open.spotify.com/album/0EhZEM4RRz0yioTgucDhJq) | 3:39 | 2024-05-23 |  |
 | [Hummer](https://open.spotify.com/track/0efPHHuOf5AiEB8GDttcmh) | [Dina Ayada](https://open.spotify.com/artist/5L88UL7xuw4CzYyzxqwgBz) | [Hummer](https://open.spotify.com/album/36lT9oOTW2b8qKpOCQDHSh) | 2:35 | 2024-05-16 | 2024-05-24 |
 | [Hundreds Of Times \- uit Liefde Voor Muziek](https://open.spotify.com/track/17AEFVCy5kQVdxp0KqT3A3) | [Johannes Genard](https://open.spotify.com/artist/6hmstwvcDUg8I2j5KaeRHE) | [Hundreds Of Times \- uit Liefde Voor Muziek](https://open.spotify.com/album/1fdFryqiecxenMw4KObxiy) | 3:43 | 2024-04-26 | 2024-05-03 |
 | [Hurt Me](https://open.spotify.com/track/2rkf3F19As1KUykfS45TQv) | [SERA](https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE) | [Hurt Me](https://open.spotify.com/album/36Wlc2fxWoilGfYwd7SaC4) | 3:05 | 2024-05-03 | 2024-05-10 |
@@ -220,6 +221,7 @@
 | [Lose My Breath](https://open.spotify.com/track/1eB1JymprhH8QTLA8m1AsB) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE), [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Lose My Breath](https://open.spotify.com/album/4sVlv4qektcY4zi9Osspbl) | 2:46 | 2024-05-10 | 2024-05-17 |
 | [Loser](https://open.spotify.com/track/5Dj8pFjDCm6Pm4aaOqfgkj) | [RORI](https://open.spotify.com/artist/1VGFnvgAwxMlV8D729gs5I) | [Loser](https://open.spotify.com/album/4v8CMaH9wc0c47jev8WYEp) | 2:49 | 2024-05-16 | 2024-05-24 |
 | [LOST IN LIGHT](https://open.spotify.com/track/6qGHz5UKuRhPjxeTe2zz5j) | [PEER](https://open.spotify.com/artist/0AVYVn1irsC3O2VFSAvHMW) | [LOST IN LIGHT](https://open.spotify.com/album/3QXEma6Maw7RGPnyNK5ucR) | 3:13 | 2024-05-23 |  |
+| [LOST!](https://open.spotify.com/track/02H58MSfVESkKyx4diDgu7) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Right Place, Wrong Person](https://open.spotify.com/album/512dQp7hBbDDurodCqSw5I) | 3:53 | 2024-05-23 |  |
 | [Love Bites \(Feat\. Tove Lo & SG Lewis\)](https://open.spotify.com/track/3bgaDjKLaicRMFD3Vmw3wv) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [Love Bites \(Feat\. Tove Lo & SG Lewis\)](https://open.spotify.com/album/3ZOz5WED7SNRykujcrvXUZ) | 2:47 | 2024-05-23 |  |
 | [Love Me JeJe](https://open.spotify.com/track/47hsUYxvbTlBAN3sP9dEOd) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Love Me JeJe](https://open.spotify.com/album/0DSIfkfmDDNRbB87Xk0ipd) | 2:58 | 2024-04-26 | 2024-05-03 |
 | [Love Stick](https://open.spotify.com/track/01bstKDtp3c65hmE0GubDJ) | [Funkhauser](https://open.spotify.com/artist/2sYp638IcOnnrIFRR63B9B) | [Love Stick](https://open.spotify.com/album/1Uo2Y7OAOvBrpd2XHMWX2T) | 2:48 | 2024-05-23 |  |

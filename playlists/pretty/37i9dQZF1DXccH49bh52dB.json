@@ -1,6 +1,6 @@
 {
   "description": "The softer side of dance.",
-  "num_followers": 574186,
+  "num_followers": 574461,
   "original_name": "Chilled Dance Hits",
   "owner": {
     "name": "Spotify",
@@ -547,26 +547,6 @@
     {
       "added_at": "2024-03-19 13:37:55",
       "album": {
-        "name": "All We Know",
-        "url": "https://open.spotify.com/album/0xmaV6EtJ4M3ebZUPRnhyb"
-      },
-      "artists": [
-        {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-        },
-        {
-          "name": "Phoebe Ryan",
-          "url": "https://open.spotify.com/artist/4N874uPqBka1QiCvnCVOtr"
-        }
-      ],
-      "duration_ms": 194080,
-      "name": "All We Know",
-      "url": "https://open.spotify.com/track/2rizacJSyD9S1IQUxUxnsK"
-    },
-    {
-      "added_at": "2024-03-19 13:37:55",
-      "album": {
         "name": "Kx5",
         "url": "https://open.spotify.com/album/7krgzxFJr9YxsmyWlO5Ubg"
       },
@@ -591,6 +571,26 @@
       "duration_ms": 240445,
       "name": "Escape (feat. Hayla)",
       "url": "https://open.spotify.com/track/3VpxEo6vMpi4rQ6t2WVVkK"
+    },
+    {
+      "added_at": "2024-03-19 13:37:55",
+      "album": {
+        "name": "All We Know",
+        "url": "https://open.spotify.com/album/0xmaV6EtJ4M3ebZUPRnhyb"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "Phoebe Ryan",
+          "url": "https://open.spotify.com/artist/4N874uPqBka1QiCvnCVOtr"
+        }
+      ],
+      "duration_ms": 194080,
+      "name": "All We Know",
+      "url": "https://open.spotify.com/track/2rizacJSyD9S1IQUxUxnsK"
     },
     {
       "added_at": "2024-03-19 13:37:55",
@@ -1635,6 +1635,26 @@
     {
       "added_at": "2024-03-19 13:37:55",
       "album": {
+        "name": "I Was Wrong (Robin Schulz Remix)",
+        "url": "https://open.spotify.com/album/1jyWfFpqX77KFi32DtAIbT"
+      },
+      "artists": [
+        {
+          "name": "A R I Z O N A",
+          "url": "https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt"
+        },
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        }
+      ],
+      "duration_ms": 220677,
+      "name": "I Was Wrong - Robin Schulz Remix",
+      "url": "https://open.spotify.com/track/3TZ3MiMILR5wrQbbWiFUwI"
+    },
+    {
+      "added_at": "2024-03-19 13:37:55",
+      "album": {
         "name": "Lost My Mind (Wake Up)",
         "url": "https://open.spotify.com/album/3sHc1hZu6UZ63wgnqqUjDw"
       },
@@ -1655,22 +1675,18 @@
     {
       "added_at": "2024-03-19 13:37:55",
       "album": {
-        "name": "I Was Wrong (Robin Schulz Remix)",
-        "url": "https://open.spotify.com/album/1jyWfFpqX77KFi32DtAIbT"
+        "name": "Where I Find My Mind",
+        "url": "https://open.spotify.com/album/0sJ4br8FWqrOwoGcxTwJOM"
       },
       "artists": [
         {
-          "name": "A R I Z O N A",
-          "url": "https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt"
-        },
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+          "name": "Eli & Fur",
+          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
         }
       ],
-      "duration_ms": 220677,
-      "name": "I Was Wrong - Robin Schulz Remix",
-      "url": "https://open.spotify.com/track/3TZ3MiMILR5wrQbbWiFUwI"
+      "duration_ms": 212500,
+      "name": "Where I Find My Mind",
+      "url": "https://open.spotify.com/track/1RuXenlriyybOv1ra0zeSQ"
     },
     {
       "added_at": "2024-03-19 13:37:55",
@@ -1695,22 +1711,6 @@
       "duration_ms": 178333,
       "name": "Coming Over (feat. James Hersey)",
       "url": "https://open.spotify.com/track/6m3ZWIXhjoV76syT1j2oE9"
-    },
-    {
-      "added_at": "2024-03-19 13:37:55",
-      "album": {
-        "name": "Where I Find My Mind",
-        "url": "https://open.spotify.com/album/0sJ4br8FWqrOwoGcxTwJOM"
-      },
-      "artists": [
-        {
-          "name": "Eli & Fur",
-          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
-        }
-      ],
-      "duration_ms": 212500,
-      "name": "Where I Find My Mind",
-      "url": "https://open.spotify.com/track/1RuXenlriyybOv1ra0zeSQ"
     },
     {
       "added_at": "2024-03-19 13:37:55",

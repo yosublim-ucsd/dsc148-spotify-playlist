@@ -1,12 +1,12 @@
 {
-  "description": "This is Oasis. The essential tracks, all in one playlist.",
-  "num_followers": 960924,
+  "description": "This Is Oasis. Los temas esenciales, todos en una lista.",
+  "num_followers": 961179,
   "original_name": "This Is Oasis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zk01gAAAAADuszlHJPt9tgOtYBDkAFKZ",
+  "snapshot_id": "Zk6HAAAAAADALKQIfpGFwcqcJ7SpL12q",
   "tracks": [
     {
       "added_at": null,
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
         }
       ],
-      "duration_ms": 240093,
-      "name": "Roll With It - Remastered",
-      "url": "https://open.spotify.com/track/3czgcbI4YZ4Gg29DOYFAnd"
+      "duration_ms": 263746,
+      "name": "Talk Tonight - Remastered",
+      "url": "https://open.spotify.com/track/2LNV0347QKt4AHxRSfCBij"
     },
     {
       "added_at": null,
@@ -331,8 +331,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don't Believe The Truth",
-        "url": "https://open.spotify.com/album/18ACIuiPrMJMkRPtNL9G7h"
+        "name": "Definitely Maybe (Deluxe Edition Remastered)",
+        "url": "https://open.spotify.com/album/3AMHMM2aNG6k3d7ybcQ5bY"
       },
       "artists": [
         {
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
         }
       ],
-      "duration_ms": 310440,
-      "name": "Lyla",
-      "url": "https://open.spotify.com/track/1XYLtiNehOF8D5NmlQknpI"
+      "duration_ms": 322946,
+      "name": "Rock 'n' Roll Star - Remastered",
+      "url": "https://open.spotify.com/track/4bQHPFjRT6O1KdMCd4cD9u"
     },
     {
       "added_at": null,
@@ -356,9 +356,25 @@
           "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
         }
       ],
-      "duration_ms": 327920,
-      "name": "Some Might Say - Remastered",
-      "url": "https://open.spotify.com/track/1xxPQaR29dAf3yxaafByeD"
+      "duration_ms": 240093,
+      "name": "Roll With It - Remastered",
+      "url": "https://open.spotify.com/track/3czgcbI4YZ4Gg29DOYFAnd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Don't Believe The Truth",
+        "url": "https://open.spotify.com/album/18ACIuiPrMJMkRPtNL9G7h"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "duration_ms": 310440,
+      "name": "Lyla",
+      "url": "https://open.spotify.com/track/1XYLtiNehOF8D5NmlQknpI"
     },
     {
       "added_at": null,
@@ -379,6 +395,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Definitely Maybe (Deluxe Edition Remastered)",
+        "url": "https://open.spotify.com/album/3AMHMM2aNG6k3d7ybcQ5bY"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "duration_ms": 392306,
+      "name": "Slide Away - Remastered",
+      "url": "https://open.spotify.com/track/1AvavliFQoc2l0ZCCWa5VG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Be Here Now (Deluxe Remastered Edition)",
         "url": "https://open.spotify.com/album/4XBCWqCXqCdN72K9SklIjy"
       },
@@ -395,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Definitely Maybe (Deluxe Edition Remastered)",
-        "url": "https://open.spotify.com/album/3AMHMM2aNG6k3d7ybcQ5bY"
-      },
-      "artists": [
-        {
-          "name": "Oasis",
-          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
-        }
-      ],
-      "duration_ms": 152266,
-      "name": "Digsy's Dinner - Remastered",
-      "url": "https://open.spotify.com/track/2Xma2zCgfsz6amJ0qZ1cow"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dig Out Your Soul",
         "url": "https://open.spotify.com/album/0qzmQzJH4ZDYMHvfN1Px15"
       },
@@ -423,6 +439,22 @@
       "duration_ms": 299946,
       "name": "The Shock Of The Lightning",
       "url": "https://open.spotify.com/track/72pRggptACNxeYG0vG3V3Q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Standing On The Shoulder Of Giants",
+        "url": "https://open.spotify.com/album/6aBxuQpJ9D20cZQpF3wLL3"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "duration_ms": 278693,
+      "name": "Go Let It Out",
+      "url": "https://open.spotify.com/track/7kFbTUR31qyzrjjary7llr"
     },
     {
       "added_at": null,
@@ -459,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Definitely Maybe (Deluxe Edition Remastered)",
-        "url": "https://open.spotify.com/album/3AMHMM2aNG6k3d7ybcQ5bY"
+        "name": "The Masterplan",
+        "url": "https://open.spotify.com/album/15D0D1mafSX8Vx5a7w2ZR4"
       },
       "artists": [
         {
@@ -468,9 +500,9 @@
           "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
         }
       ],
-      "duration_ms": 377400,
-      "name": "Columbia - Remastered",
-      "url": "https://open.spotify.com/track/20EkniSUbhZ86v1Oc0hhUI"
+      "duration_ms": 381173,
+      "name": "Listen Up",
+      "url": "https://open.spotify.com/track/7IN0xNq5UxvsJXTqZ3rdSE"
     },
     {
       "added_at": null,
@@ -491,8 +523,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Masterplan",
-        "url": "https://open.spotify.com/album/15D0D1mafSX8Vx5a7w2ZR4"
+        "name": "Dig Out Your Soul",
+        "url": "https://open.spotify.com/album/0qzmQzJH4ZDYMHvfN1Px15"
       },
       "artists": [
         {
@@ -500,9 +532,9 @@
           "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
         }
       ],
-      "duration_ms": 381173,
-      "name": "Listen Up",
-      "url": "https://open.spotify.com/track/7IN0xNq5UxvsJXTqZ3rdSE"
+      "duration_ms": 260079,
+      "name": "Falling Down",
+      "url": "https://open.spotify.com/track/7Do5xcVXgjNEbXzYUSrPvg"
     },
     {
       "added_at": null,
@@ -523,8 +555,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dig Out Your Soul",
-        "url": "https://open.spotify.com/album/0qzmQzJH4ZDYMHvfN1Px15"
+        "name": "Go Let It Out",
+        "url": "https://open.spotify.com/album/1ggiOXW9IWnJrwYOCBttGM"
       },
       "artists": [
         {
@@ -532,9 +564,9 @@
           "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
         }
       ],
-      "duration_ms": 260079,
-      "name": "Falling Down",
-      "url": "https://open.spotify.com/track/7Do5xcVXgjNEbXzYUSrPvg"
+      "duration_ms": 233640,
+      "name": "Let's All Make Believe",
+      "url": "https://open.spotify.com/track/4iM2s0WZFznvgoC0HxZekI"
     },
     {
       "added_at": null,
@@ -555,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Go Let It Out",
-        "url": "https://open.spotify.com/album/1ggiOXW9IWnJrwYOCBttGM"
+        "name": "Don't Believe The Truth",
+        "url": "https://open.spotify.com/album/18ACIuiPrMJMkRPtNL9G7h"
       },
       "artists": [
         {
@@ -564,9 +596,9 @@
           "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
         }
       ],
-      "duration_ms": 233640,
-      "name": "Let's All Make Believe",
-      "url": "https://open.spotify.com/track/4iM2s0WZFznvgoC0HxZekI"
+      "duration_ms": 239240,
+      "name": "Turn Up The Sun",
+      "url": "https://open.spotify.com/track/3TYfwCR3kT7ijbiGTGc5kM"
     },
     {
       "added_at": null,
@@ -587,8 +619,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don't Believe The Truth",
-        "url": "https://open.spotify.com/album/18ACIuiPrMJMkRPtNL9G7h"
+        "name": "D'You Know What I Mean?",
+        "url": "https://open.spotify.com/album/0GiKjeftaw3HccbDaA1Ryk"
       },
       "artists": [
         {
@@ -596,9 +628,9 @@
           "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
         }
       ],
-      "duration_ms": 239240,
-      "name": "Turn Up The Sun",
-      "url": "https://open.spotify.com/track/3TYfwCR3kT7ijbiGTGc5kM"
+      "duration_ms": 249226,
+      "name": "Heroes",
+      "url": "https://open.spotify.com/track/1FSURsZPnG8CkfTvmO8ssK"
     },
     {
       "added_at": null,
@@ -615,22 +647,6 @@
       "duration_ms": 368253,
       "name": "Gas Panic!",
       "url": "https://open.spotify.com/track/2klLrvEu0OroEWsJWeafWp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "D'You Know What I Mean?",
-        "url": "https://open.spotify.com/album/0GiKjeftaw3HccbDaA1Ryk"
-      },
-      "artists": [
-        {
-          "name": "Oasis",
-          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
-        }
-      ],
-      "duration_ms": 249226,
-      "name": "Heroes",
-      "url": "https://open.spotify.com/track/1FSURsZPnG8CkfTvmO8ssK"
     },
     {
       "added_at": null,
@@ -667,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Standing On The Shoulder Of Giants",
-        "url": "https://open.spotify.com/album/6aBxuQpJ9D20cZQpF3wLL3"
-      },
-      "artists": [
-        {
-          "name": "Oasis",
-          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
-        }
-      ],
-      "duration_ms": 391146,
-      "name": "Roll It Over",
-      "url": "https://open.spotify.com/track/1tX2Wfp0KtbHQbFLIPwiW0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Knebworth 1996 (Live)",
         "url": "https://open.spotify.com/album/5TC9oSol9ZQwXQk8XcsD7i"
       },
@@ -695,6 +695,22 @@
       "duration_ms": 310251,
       "name": "My Big Mouth (Live at Knebworth, 10 August '96)",
       "url": "https://open.spotify.com/track/7rkqDEXEdL0zg9B7IDakLF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Standing On The Shoulder Of Giants",
+        "url": "https://open.spotify.com/album/6aBxuQpJ9D20cZQpF3wLL3"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "duration_ms": 391146,
+      "name": "Roll It Over",
+      "url": "https://open.spotify.com/track/1tX2Wfp0KtbHQbFLIPwiW0"
     },
     {
       "added_at": null,

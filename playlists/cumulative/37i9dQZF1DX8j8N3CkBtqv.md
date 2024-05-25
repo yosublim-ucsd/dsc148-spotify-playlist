@@ -4,7 +4,7 @@
 
 > Naye Indie gaano ka khazana! Cover\- Akanksha Sethi
 
-599 songs - 1 day 8 hr 46 min
+600 songs - 1 day 8 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Aadhe Raste](https://open.spotify.com/track/46ebBx0SwajtdikPU7N9vJ) | [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW), [Nikhil \- Swapnil](https://open.spotify.com/artist/7nkDVhgJreAJxinOGOWZCJ) | [Aadhe Raste](https://open.spotify.com/album/2OA7NvFAVOpYFDSdcG5nM2) | 3:28 | 2023-04-14 | 2023-05-20 |
 | [Aadhe Waade](https://open.spotify.com/track/5pCRRKwA796gdrNkCmJ9vt) | [Shreya Jain](https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD) | [Aadhe Waade](https://open.spotify.com/album/3rzWT5DEabAiiD3Dq221cl) | 2:34 | 2023-09-22 | 2023-09-30 |
 | [Aaftab](https://open.spotify.com/track/1fFa1AF2vQfTCfKDpl2ujT) | [Rajiv Dayal](https://open.spotify.com/artist/3OY4REdDcTl0XKl7gjvEih) | [Aaftab](https://open.spotify.com/album/6UZgALlUwDJBIfA8avEGUA) | 3:16 | 2023-07-07 | 2023-07-29 |
+| [Aag](https://open.spotify.com/track/0mSyeDL1A1LGgF71G1H5yi) | [Faheem Abdullah](https://open.spotify.com/artist/05etL4pzWd6TSv1x5WrlG3) | [Lost;Found](https://open.spotify.com/album/013jUXOfDFXnDMBetTdsiH) | 4:14 | 2024-05-23 |  |
 | [Aaghaaz](https://open.spotify.com/track/4RGU0e3tMHMY9f12bmM5p1) | [Moosa Saleem](https://open.spotify.com/artist/16m66acFCoUlPwjQf9D6fN), [Soham Mallick](https://open.spotify.com/artist/0xEem18avGCL5Bacbup8Ue), [Saptak Chatterjee](https://open.spotify.com/artist/7rcHjaw38oHqxTjwQUnlRc) | [Aaghaaz](https://open.spotify.com/album/5hKk5gTfnrNlCs9LQUkbfQ) | 3:48 | 2024-04-12 |  |
 | [Aaj Kal](https://open.spotify.com/track/2kdomqzVkUfjIMURSnqByy) | [Anurag Saikia](https://open.spotify.com/artist/6hzngLO20cX5IGqT0hVv1G), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH), [Avinash Chouhan](https://open.spotify.com/artist/0uwbmn6SWX4kujbrDTnjaj) | [Aaj Kal](https://open.spotify.com/album/5Z3rCu6ZTbNCS8RacJ3JnJ) | 3:33 | 2023-04-14 | 2023-06-30 |
 | [Aaj Phir](https://open.spotify.com/track/0ZhUr44gkooybSmoNgqjya) | [Raghav Kaushik](https://open.spotify.com/artist/2NSBUoP14iO3vxm14Slc5H), [Shruti Prakash](https://open.spotify.com/artist/4wTxusmB0eB08npurjqk5T) | [Aaj Phir](https://open.spotify.com/album/6KdQegAYeMPv8oIIjAtndT) | 1:09 | 2023-06-30 | 2023-07-29 |

@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Dark Times",
+        "url": "https://open.spotify.com/album/30BFY5VHii4PyWqkTubUWX"
+      },
+      "artists": [
+        {
+          "name": "Vince Staples",
+          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176849,
+      "name": "\"Radio\"",
+      "url": "https://open.spotify.com/track/5yVRwEPSCpcuOUgkz2T0Lu"
+    },
+    {
+      "album": {
         "name": "WAY2GEEKED",
         "url": "https://open.spotify.com/album/0NVK13Q93Egu6zMj858l8W"
       },

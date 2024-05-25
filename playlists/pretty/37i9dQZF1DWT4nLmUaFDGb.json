@@ -1,6 +1,6 @@
 {
   "description": "The easy listening sound of Jazz. Cover: Norah Jones",
-  "num_followers": 495679,
+  "num_followers": 495884,
   "original_name": "Easy Jazz",
   "owner": {
     "name": "Spotify",
@@ -175,22 +175,6 @@
     {
       "added_at": "2024-04-12 13:06:45",
       "album": {
-        "name": "Careless Love",
-        "url": "https://open.spotify.com/album/4Kev9VMY5Ypfo19jRqK6bW"
-      },
-      "artists": [
-        {
-          "name": "Madeleine Peyroux",
-          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
-        }
-      ],
-      "duration_ms": 191946,
-      "name": "Don't Wait Too Long",
-      "url": "https://open.spotify.com/track/2JgQULmVwV0J3Gds7YfBCu"
-    },
-    {
-      "added_at": "2024-04-12 13:06:45",
-      "album": {
         "name": "Mother and Brother",
         "url": "https://open.spotify.com/album/5fjoxztU1qKAYHLgHiFh6o"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 219773,
       "name": "The Sun Is Shining for Our Love",
       "url": "https://open.spotify.com/track/1TT7MMEeEz2W4jxaQxU7lZ"
+    },
+    {
+      "added_at": "2024-04-12 13:06:45",
+      "album": {
+        "name": "Careless Love",
+        "url": "https://open.spotify.com/album/4Kev9VMY5Ypfo19jRqK6bW"
+      },
+      "artists": [
+        {
+          "name": "Madeleine Peyroux",
+          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
+        }
+      ],
+      "duration_ms": 191946,
+      "name": "Don't Wait Too Long",
+      "url": "https://open.spotify.com/track/2JgQULmVwV0J3Gds7YfBCu"
     },
     {
       "added_at": "2024-04-12 13:06:45",
@@ -291,6 +291,22 @@
     {
       "added_at": "2024-04-12 13:06:45",
       "album": {
+        "name": "Half The Perfect World",
+        "url": "https://open.spotify.com/album/5OomYDbQatByUYt4aXXVwH"
+      },
+      "artists": [
+        {
+          "name": "Madeleine Peyroux",
+          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
+        }
+      ],
+      "duration_ms": 234106,
+      "name": "The Summer Wind",
+      "url": "https://open.spotify.com/track/4mp28AMgYCgrkfJMSYtl3C"
+    },
+    {
+      "added_at": "2024-04-12 13:06:45",
+      "album": {
         "name": "Peter Cincotti",
         "url": "https://open.spotify.com/album/4Cs9KXE4AhiqiptCLmL3eT"
       },
@@ -359,22 +375,6 @@
     {
       "added_at": "2024-04-12 13:06:45",
       "album": {
-        "name": "Half The Perfect World",
-        "url": "https://open.spotify.com/album/5OomYDbQatByUYt4aXXVwH"
-      },
-      "artists": [
-        {
-          "name": "Madeleine Peyroux",
-          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
-        }
-      ],
-      "duration_ms": 234106,
-      "name": "The Summer Wind",
-      "url": "https://open.spotify.com/track/4mp28AMgYCgrkfJMSYtl3C"
-    },
-    {
-      "added_at": "2024-04-12 13:06:45",
-      "album": {
         "name": "Dreaming Wide Awake",
         "url": "https://open.spotify.com/album/7AhMtlYN5CdfxJPVYzbjA9"
       },
@@ -419,22 +419,6 @@
       "duration_ms": 217573,
       "name": "Dream A Little Dream",
       "url": "https://open.spotify.com/track/5vVLUqs9ogEGnH44Lh8Tuc"
-    },
-    {
-      "added_at": "2024-04-12 13:06:45",
-      "album": {
-        "name": "On The Moon",
-        "url": "https://open.spotify.com/album/7HFqV8NOZJ4fWXbz79tvws"
-      },
-      "artists": [
-        {
-          "name": "Peter Cincotti",
-          "url": "https://open.spotify.com/artist/1PjKnsWzJra4dV8OXiNC5F"
-        }
-      ],
-      "duration_ms": 212426,
-      "name": "Some Kind Of Wonderful",
-      "url": "https://open.spotify.com/track/1bDQlSam1rz9QQYzXzmFr9"
     },
     {
       "added_at": "2024-04-12 13:06:45",
@@ -491,18 +475,18 @@
     {
       "added_at": "2024-04-12 13:06:45",
       "album": {
-        "name": "Currency Of Man (The Artist's Cut)",
-        "url": "https://open.spotify.com/album/4ZkGB9t9bsqqoLeN98k1mR"
+        "name": "On The Moon",
+        "url": "https://open.spotify.com/album/7HFqV8NOZJ4fWXbz79tvws"
       },
       "artists": [
         {
-          "name": "Melody Gardot",
-          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
+          "name": "Peter Cincotti",
+          "url": "https://open.spotify.com/artist/1PjKnsWzJra4dV8OXiNC5F"
         }
       ],
-      "duration_ms": 305578,
-      "name": "Morning Sun",
-      "url": "https://open.spotify.com/track/46XjHO7TEewoj69KMpUoFQ"
+      "duration_ms": 212426,
+      "name": "Some Kind Of Wonderful",
+      "url": "https://open.spotify.com/track/1bDQlSam1rz9QQYzXzmFr9"
     },
     {
       "added_at": "2024-04-12 13:06:45",
@@ -519,6 +503,22 @@
       "duration_ms": 208266,
       "name": "What a Difference a Day Makes",
       "url": "https://open.spotify.com/track/11N6MAeBhzUfNVfsBVTcL4"
+    },
+    {
+      "added_at": "2024-04-12 13:06:45",
+      "album": {
+        "name": "Currency Of Man (The Artist's Cut)",
+        "url": "https://open.spotify.com/album/4ZkGB9t9bsqqoLeN98k1mR"
+      },
+      "artists": [
+        {
+          "name": "Melody Gardot",
+          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
+        }
+      ],
+      "duration_ms": 305578,
+      "name": "Morning Sun",
+      "url": "https://open.spotify.com/track/46XjHO7TEewoj69KMpUoFQ"
     },
     {
       "added_at": "2024-04-12 13:06:45",
@@ -871,22 +871,6 @@
     {
       "added_at": "2024-04-12 13:06:45",
       "album": {
-        "name": "Songbird 20",
-        "url": "https://open.spotify.com/album/3XqJP3zCQMeEdJrk7IGiTJ"
-      },
-      "artists": [
-        {
-          "name": "Eva Cassidy",
-          "url": "https://open.spotify.com/artist/6fNmOWQzfOVyHLQ2UqUQew"
-        }
-      ],
-      "duration_ms": 282640,
-      "name": "Autumn Leaves",
-      "url": "https://open.spotify.com/track/76rNA8RYBC1WgspUaOVZsB"
-    },
-    {
-      "added_at": "2024-04-12 13:06:45",
-      "album": {
         "name": "Bells On Sand",
         "url": "https://open.spotify.com/album/5WmMcrffw3sBnMxxrhbF0g"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 329306,
       "name": "Just A Dream",
       "url": "https://open.spotify.com/track/3n09FQ8rPHhxS46wzYEmWq"
+    },
+    {
+      "added_at": "2024-04-12 13:06:45",
+      "album": {
+        "name": "Songbird 20",
+        "url": "https://open.spotify.com/album/3XqJP3zCQMeEdJrk7IGiTJ"
+      },
+      "artists": [
+        {
+          "name": "Eva Cassidy",
+          "url": "https://open.spotify.com/artist/6fNmOWQzfOVyHLQ2UqUQew"
+        }
+      ],
+      "duration_ms": 282640,
+      "name": "Autumn Leaves",
+      "url": "https://open.spotify.com/track/76rNA8RYBC1WgspUaOVZsB"
     },
     {
       "added_at": "2024-04-12 13:06:45",
@@ -1483,6 +1483,34 @@
     {
       "added_at": "2024-04-12 13:06:45",
       "album": {
+        "name": "I\u00b4m a Fool to Want You",
+        "url": "https://open.spotify.com/album/0SzmD3ohQtsXaTVh7VSbJ5"
+      },
+      "artists": [
+        {
+          "name": "Flora Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
+        },
+        {
+          "name": "Jose Reinoso",
+          "url": "https://open.spotify.com/artist/2yWY3Ocvnnu0at3c976leJ"
+        },
+        {
+          "name": "Marcelo Kimura",
+          "url": "https://open.spotify.com/artist/17SALfRouyrGDGbjJBcZF3"
+        },
+        {
+          "name": "Fi Mar\u00f3stica",
+          "url": "https://open.spotify.com/artist/6YT55fXGg6nMvzH6XpUlOP"
+        }
+      ],
+      "duration_ms": 246349,
+      "name": "I\u00b4m a Fool to Want You",
+      "url": "https://open.spotify.com/track/6ZxtkBVKcbpEOVeaj21VA1"
+    },
+    {
+      "added_at": "2024-04-12 13:06:45",
+      "album": {
         "name": "I Only Have Eyes For You",
         "url": "https://open.spotify.com/album/131VG5VwoQVANxBMPQ5fZF"
       },
@@ -1511,34 +1539,6 @@
       "duration_ms": 245148,
       "name": "The Sound of Music",
       "url": "https://open.spotify.com/track/58HbwdrmyWwFIamvSI8bDx"
-    },
-    {
-      "added_at": "2024-04-12 13:06:45",
-      "album": {
-        "name": "I\u00b4m a Fool to Want You",
-        "url": "https://open.spotify.com/album/0SzmD3ohQtsXaTVh7VSbJ5"
-      },
-      "artists": [
-        {
-          "name": "Flora Mart\u00ednez",
-          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
-        },
-        {
-          "name": "Jose Reinoso",
-          "url": "https://open.spotify.com/artist/2yWY3Ocvnnu0at3c976leJ"
-        },
-        {
-          "name": "Marcelo Kimura",
-          "url": "https://open.spotify.com/artist/17SALfRouyrGDGbjJBcZF3"
-        },
-        {
-          "name": "Fi Mar\u00f3stica",
-          "url": "https://open.spotify.com/artist/6YT55fXGg6nMvzH6XpUlOP"
-        }
-      ],
-      "duration_ms": 246349,
-      "name": "I\u00b4m a Fool to Want You",
-      "url": "https://open.spotify.com/track/6ZxtkBVKcbpEOVeaj21VA1"
     },
     {
       "added_at": "2024-04-12 13:06:45",
@@ -2175,18 +2175,18 @@
     {
       "added_at": "2024-04-12 13:06:45",
       "album": {
-        "name": "I Need Your Love",
-        "url": "https://open.spotify.com/album/7FiZVylKJmgNbDXsz5VBav"
+        "name": "A Reckoning Bell",
+        "url": "https://open.spotify.com/album/6GKocL930IvNJmtyfCCidO"
       },
       "artists": [
         {
-          "name": "Ellen Andrea Wang",
-          "url": "https://open.spotify.com/artist/3EpohDnrFdsgQj03BOsPUf"
+          "name": "The Magic Lantern",
+          "url": "https://open.spotify.com/artist/2jIhiAEbmLrPj69WLM2R3V"
         }
       ],
-      "duration_ms": 260377,
-      "name": "I Need Your Love",
-      "url": "https://open.spotify.com/track/68uxsEa7j2Y4c0bj9aITND"
+      "duration_ms": 261500,
+      "name": "This Life",
+      "url": "https://open.spotify.com/track/13MCrdnvqoKGl4emlgLuE7"
     },
     {
       "added_at": "2024-04-12 13:06:45",
@@ -2215,18 +2215,18 @@
     {
       "added_at": "2024-04-12 13:06:45",
       "album": {
-        "name": "A Reckoning Bell",
-        "url": "https://open.spotify.com/album/6GKocL930IvNJmtyfCCidO"
+        "name": "I Need Your Love",
+        "url": "https://open.spotify.com/album/7FiZVylKJmgNbDXsz5VBav"
       },
       "artists": [
         {
-          "name": "The Magic Lantern",
-          "url": "https://open.spotify.com/artist/2jIhiAEbmLrPj69WLM2R3V"
+          "name": "Ellen Andrea Wang",
+          "url": "https://open.spotify.com/artist/3EpohDnrFdsgQj03BOsPUf"
         }
       ],
-      "duration_ms": 261500,
-      "name": "This Life",
-      "url": "https://open.spotify.com/track/13MCrdnvqoKGl4emlgLuE7"
+      "duration_ms": 260377,
+      "name": "I Need Your Love",
+      "url": "https://open.spotify.com/track/68uxsEa7j2Y4c0bj9aITND"
     },
     {
       "added_at": "2024-04-12 13:06:45",
@@ -2551,22 +2551,6 @@
     {
       "added_at": "2024-04-12 13:06:45",
       "album": {
-        "name": "Moon Lover",
-        "url": "https://open.spotify.com/album/05an8UcHjgcT3AIt1Sw1ye"
-      },
-      "artists": [
-        {
-          "name": "Flora Mart\u00ednez",
-          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Blue Moon",
-      "url": "https://open.spotify.com/track/4DEOJOUfwi3jErNGJcW6Vu"
-    },
-    {
-      "added_at": "2024-04-12 13:06:45",
-      "album": {
         "name": "The Boy Next Door",
         "url": "https://open.spotify.com/album/5sRAARt1vXMVsC2bAuS2JP"
       },
@@ -2595,6 +2579,22 @@
       "duration_ms": 261920,
       "name": "You've Got A Friend",
       "url": "https://open.spotify.com/track/0tzpPgaBndJ7KflHxmoPWS"
+    },
+    {
+      "added_at": "2024-04-12 13:06:45",
+      "album": {
+        "name": "Moon Lover",
+        "url": "https://open.spotify.com/album/05an8UcHjgcT3AIt1Sw1ye"
+      },
+      "artists": [
+        {
+          "name": "Flora Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Blue Moon",
+      "url": "https://open.spotify.com/track/4DEOJOUfwi3jErNGJcW6Vu"
     },
     {
       "added_at": "2024-04-12 13:06:45",

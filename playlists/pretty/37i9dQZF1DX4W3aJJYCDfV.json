@@ -1,12 +1,12 @@
 {
   "description": "Brand new music from Bring Me The Horizon (pictured), Central Cee ft Lil Baby, PinkPantheress and more!",
-  "num_followers": 851067,
+  "num_followers": 851207,
   "original_name": "New Music Friday UK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zk/KcAAAAAC5RZgCaf72tNOr0JEkOZu2",
+  "snapshot_id": "ZlDDygAAAAC/9jsZ5AnOk0GOgZ5jSa7n",
   "tracks": [
     {
       "added_at": "2024-05-23 23:00:00",
@@ -323,6 +323,38 @@
       "duration_ms": 196752,
       "name": "Hero",
       "url": "https://open.spotify.com/track/5TTyyKNJZHONhjtAiXL1nG"
+    },
+    {
+      "added_at": "2024-05-23 23:00:00",
+      "album": {
+        "name": "How Sweet",
+        "url": "https://open.spotify.com/album/0EhZEM4RRz0yioTgucDhJq"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "duration_ms": 219026,
+      "name": "How Sweet",
+      "url": "https://open.spotify.com/track/38tXZcL1gZRfbqfOG0VMTH"
+    },
+    {
+      "added_at": "2024-05-23 23:00:00",
+      "album": {
+        "name": "Pink Skies",
+        "url": "https://open.spotify.com/album/7LRZfujsTLyy814AnMSdtT"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 194920,
+      "name": "Pink Skies",
+      "url": "https://open.spotify.com/track/4ZJ4vzLQekI0WntDbanNC7"
     },
     {
       "added_at": "2024-05-23 23:00:00",
@@ -688,7 +720,7 @@
           "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
         }
       ],
-      "duration_ms": 234453,
+      "duration_ms": 234421,
       "name": "Grippy",
       "url": "https://open.spotify.com/track/2dfnX2aizo1CGP8iHh2U8G"
     },
@@ -863,6 +895,22 @@
       "duration_ms": 137415,
       "name": "headline",
       "url": "https://open.spotify.com/track/3AM5wx8YnsAnk5lu0tTUSX"
+    },
+    {
+      "added_at": "2024-05-23 23:00:00",
+      "album": {
+        "name": "Clear the Smoke",
+        "url": "https://open.spotify.com/album/23RLz5Jsy8E54z7BZnH01D"
+      },
+      "artists": [
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        }
+      ],
+      "duration_ms": 218052,
+      "name": "Clear the Smoke",
+      "url": "https://open.spotify.com/track/0tWvBMSTdobhWgsJyviGeU"
     },
     {
       "added_at": "2024-05-23 23:00:00",
@@ -1679,7 +1727,7 @@
     {
       "added_at": "2024-05-23 23:00:00",
       "album": {
-        "name": "SheBeen (feat. Breakage)",
+        "name": "Shebeen (feat. Breakage)",
         "url": "https://open.spotify.com/album/6gHE9dZxnB7awspRIVjKLW"
       },
       "artists": [
@@ -1697,7 +1745,7 @@
         }
       ],
       "duration_ms": 164228,
-      "name": "SheBeen (feat. Breakage)",
+      "name": "Shebeen (feat. Breakage)",
       "url": "https://open.spotify.com/track/47BD4fkYIOHcWhdR78Rqro"
     },
     {

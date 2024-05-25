@@ -1,13 +1,29 @@
 {
   "description": "R&B of the moment by the artists of the future. Cover: kwn",
-  "num_followers": 50773,
+  "num_followers": 50798,
   "original_name": "R&B Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkbWQAAAAAAg5/foPTc4fc3+T/WVVGCK",
+  "snapshot_id": "ZlA/LgAAAADdbn/lQfbJMfj0Ti3Ypq4h",
   "tracks": [
+    {
+      "added_at": "2024-05-24 07:18:06",
+      "album": {
+        "name": "Rental",
+        "url": "https://open.spotify.com/album/2kT3e81zlLH8LsIfw1d8da"
+      },
+      "artists": [
+        {
+          "name": "Fana Hues",
+          "url": "https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg"
+        }
+      ],
+      "duration_ms": 189266,
+      "name": "Rental",
+      "url": "https://open.spotify.com/track/2SctW8kEr0eNsnantkaxj1"
+    },
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
@@ -61,6 +77,26 @@
       "url": "https://open.spotify.com/track/2oCNvjR0wSsPzfDxmcoyqb"
     },
     {
+      "added_at": "2024-05-24 07:18:06",
+      "album": {
+        "name": "dangerous game",
+        "url": "https://open.spotify.com/album/50vOO58Z9Sdf5k8ms9l9Cj"
+      },
+      "artists": [
+        {
+          "name": "ESTA.",
+          "url": "https://open.spotify.com/artist/4KZmpaIhanIo46eaQimtgO"
+        },
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 230936,
+      "name": "dangerous game",
+      "url": "https://open.spotify.com/track/0drf8c8YvWVvs3aFY5iBrp"
+    },
+    {
       "added_at": "2024-05-03 14:53:38",
       "album": {
         "name": "Paper Tigers",
@@ -93,10 +129,10 @@
       "url": "https://open.spotify.com/track/5Kz3bfVcSB3MyZ9Po0vlH6"
     },
     {
-      "added_at": "2024-05-17 04:00:00",
+      "added_at": "2024-05-24 07:18:06",
       "album": {
-        "name": "Double Tragedy - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/2qB5xtNmOWlJGCNGDQo11B"
+        "name": "Double Tragedy",
+        "url": "https://open.spotify.com/album/5Knkg9Hx7EoJE4ZnLX7f8H"
       },
       "artists": [
         {
@@ -104,9 +140,9 @@
           "url": "https://open.spotify.com/artist/6PgkNi6EyAfgiKtFwAwvbH"
         }
       ],
-      "duration_ms": 165881,
-      "name": "Double Tragedy - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/45LnuVmnymxokS3QNGJlrN"
+      "duration_ms": 165520,
+      "name": "Double Tragedy",
+      "url": "https://open.spotify.com/track/2Zs7Q7lJB1aUDL06rE2xN2"
     },
     {
       "added_at": "2024-05-03 14:53:38",
@@ -141,28 +177,24 @@
       "url": "https://open.spotify.com/track/4d68kQcEkzo54yzicu9N9K"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-05-24 07:18:06",
       "album": {
-        "name": "too fast",
-        "url": "https://open.spotify.com/album/6UV79NnkVMC2doyJeC4twp"
+        "name": "5 Minutes",
+        "url": "https://open.spotify.com/album/40EQfE7yMNI8pMAGONi4Cj"
       },
       "artists": [
         {
-          "name": "ESTA.",
-          "url": "https://open.spotify.com/artist/4KZmpaIhanIo46eaQimtgO"
+          "name": "Shantel May",
+          "url": "https://open.spotify.com/artist/3dLvESWiG5LWozJmdvk6D0"
         },
         {
-          "name": "Joyce Wrice",
-          "url": "https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum"
-        },
-        {
-          "name": "Duckwrth",
-          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
+          "name": "Tone Stith",
+          "url": "https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44"
         }
       ],
-      "duration_ms": 194028,
-      "name": "too fast",
-      "url": "https://open.spotify.com/track/6GZ4qfWtm0xjKPw5EKSdze"
+      "duration_ms": 169795,
+      "name": "5 Minutes",
+      "url": "https://open.spotify.com/track/3NybtZLoGsWTT1SHwExhkE"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -343,6 +375,26 @@
       "duration_ms": 142080,
       "name": "Here Now",
       "url": "https://open.spotify.com/track/7pL8Abg7AAMFu66W3etmAy"
+    },
+    {
+      "added_at": "2024-05-24 07:18:06",
+      "album": {
+        "name": "Like Dat (feat. Ambr\u00e9)",
+        "url": "https://open.spotify.com/album/1qP8ynOHPVFbG1Un3aY7xR"
+      },
+      "artists": [
+        {
+          "name": "LARA'",
+          "url": "https://open.spotify.com/artist/0WNTADu0FukWXgtEF8V7yu"
+        },
+        {
+          "name": "Ambr\u00e9",
+          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
+        }
+      ],
+      "duration_ms": 147666,
+      "name": "Like Dat (feat. Ambr\u00e9)",
+      "url": "https://open.spotify.com/track/1Th19MzhiHUJ61zfzr4sNH"
     },
     {
       "added_at": "2024-05-03 14:53:38",

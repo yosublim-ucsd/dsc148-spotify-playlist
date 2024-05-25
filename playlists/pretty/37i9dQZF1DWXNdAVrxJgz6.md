@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXNdAVrxJgz6.md) - [plain]
 
 > El cantautor del Pueblo: canciones que duelen, del rancho para el Mundo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,727 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,823 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXNdAVrxJgz6.md) - [plain]
 | 38 | [Besitos En El Cuello](https://open.spotify.com/track/2ZufmJCBqebEuiJdhPOnpm) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Las Bandas Románticas](https://open.spotify.com/album/3HZwshxrCybf8WzwrGLw22) | 2:28 |
 | 39 | [La Mejor Opción](https://open.spotify.com/track/7A9x7OMm06SBjYHAalICS8) | [Banda Rancho Viejo De Julio Aramburo La Bandononona](https://open.spotify.com/artist/39dmt5DRpnyJKgz5bc4ZNV) | [La Mejor Opción](https://open.spotify.com/album/7we22mTDfrYLTrtpCfXKgU) | 3:36 |
 | 40 | [Como Burro Sin Mecate](https://open.spotify.com/track/62ilw5WsIN69ieZJMyeHed) | [Chuy Lizarraga y Su Banda Tierra Sinaloense](https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr) | [Como Burro Sin Mecate](https://open.spotify.com/album/7BRFJ2bJow1REP2KMGaWuA) | 2:51 |
-| 41 | [Después de Ti](https://open.spotify.com/track/68Hvooe0kFHseO33GGiyWz) | [Los Buitres De Culiacan Sinaloa](https://open.spotify.com/artist/535ap2f16rTOKTMPTkvbGB) | [Después de Ti](https://open.spotify.com/album/13EpUJ6wpVvbgEl3yj2Zp3) | 3:22 |
-| 42 | [Miénteme](https://open.spotify.com/track/45Hq0mHyzGBrZAItH7QU7j) | [Los Nietos](https://open.spotify.com/artist/3exw3iAIHmh6Kw7fevjPHv) | [18 Grandes Éxitos](https://open.spotify.com/album/3g1t9kHLgXKJQ9elwgjAkX) | 3:34 |
+| 41 | [Miénteme](https://open.spotify.com/track/45Hq0mHyzGBrZAItH7QU7j) | [Los Nietos](https://open.spotify.com/artist/3exw3iAIHmh6Kw7fevjPHv) | [18 Grandes Éxitos](https://open.spotify.com/album/3g1t9kHLgXKJQ9elwgjAkX) | 3:34 |
+| 42 | [Después de Ti](https://open.spotify.com/track/68Hvooe0kFHseO33GGiyWz) | [Los Buitres De Culiacan Sinaloa](https://open.spotify.com/artist/535ap2f16rTOKTMPTkvbGB) | [Después de Ti](https://open.spotify.com/album/13EpUJ6wpVvbgEl3yj2Zp3) | 3:22 |
 | 43 | [Todas Son Iguales](https://open.spotify.com/track/1z9MHvR7w6VQMjLepUWFwm) | [El Dasa](https://open.spotify.com/artist/1neZPoVY3mCc2mNMVXslA7), [Voz De Mando](https://open.spotify.com/artist/5sLCZx5RvQ1Cv6kguDLCLx) | [Alegre Y Enamorado](https://open.spotify.com/album/0WajbKSeGZ1YQDoZydroCJ) | 2:53 |
 | 44 | [Invisible](https://open.spotify.com/track/5fnb3Ubh7OdktXzUugk5WO) | [Palomo](https://open.spotify.com/artist/27plYDXNJSOD084j39Lmlj) | [Las Nuevas Inmortales](https://open.spotify.com/album/0WHkuG3EexyWKl6pB56R9N) | 2:56 |
 | 45 | [Eres Mi Paz](https://open.spotify.com/track/0awSrFzOvDRklXhZSuRnMe) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [El Rancho Grande](https://open.spotify.com/album/2EsT6h6uz0AUyozpqoJh7e) | 3:02 |

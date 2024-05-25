@@ -2,9 +2,9 @@
 
 ### [RADAR Thailand 2024](https://open.spotify.com/playlist/37i9dQZF1DX4Q8j1DJOWem)
 
-> สุดในรุ่น! กับศิลปิน RADAR 2024 มารู้จักพวกเขาให้มากขึ้นที่นี่เลย! ปก: MXFRUIT
+> สุดในรุ่น! กับศิลปิน RADAR 2024 มารู้จักพวกเขาให้มากขึ้นที่นี่เลย! ปก: MONICA
 
-183 songs - 11 hr 29 min
+185 songs - 11 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Lonely \(Extrovert?\)](https://open.spotify.com/track/3Swv2AEOzXaGL0j100O5fK) | [LUSS](https://open.spotify.com/artist/6hJoakJWJIDyWnYujjhhR6) | [Lonely \(Extrovert?\)](https://open.spotify.com/album/6aXRR12EPkiyoWZvC09pMy) | 2:49 | 2023-09-15 | 2023-10-06 |
 | [May I?](https://open.spotify.com/track/1MWPdQMZD2tPJmmFgH3wwW) | [TOFFE](https://open.spotify.com/artist/2seAV47mn1Z0NnjI78vLPn) | [May I?](https://open.spotify.com/album/75lB1IBnVNFwuC9c974gsh) | 3:47 | 2023-10-05 | 2024-03-29 |
 | [Me](https://open.spotify.com/track/1CpGLnjauP66HeqZEaCq5i) | [Blackbeans](https://open.spotify.com/artist/3u45DFB1kjVXKwE14FKXCo) | [Flowers on earth](https://open.spotify.com/album/26V3mMqmTFbQxjVHCHjlle) | 4:29 | 2022-09-15 | 2023-08-26 |
-| [Miserable In December](https://open.spotify.com/track/71yOI0Awo57nYpNbVfUiMU) | [2Ectasy](https://open.spotify.com/artist/4WXkCBHyUCfIPPZrZFcP5m) | [Miserable In December](https://open.spotify.com/album/73QlHz8uqujMgNIoXA1bPW) | 2:02 | 2024-03-28 | 2024-04-12 |
+| [Miserable In December](https://open.spotify.com/track/71yOI0Awo57nYpNbVfUiMU) | [2Ectasy](https://open.spotify.com/artist/4WXkCBHyUCfIPPZrZFcP5m) | [Miserable In December](https://open.spotify.com/album/73QlHz8uqujMgNIoXA1bPW) | 2:02 | 2024-03-28 |  |
 | [Missed Call](https://open.spotify.com/track/1fNr9IOJ7mMsWorMQFlsW8) | [2Ectasy](https://open.spotify.com/artist/4WXkCBHyUCfIPPZrZFcP5m) | [Missed Call](https://open.spotify.com/album/3b4wW8YhqVI7qqV4k89hUC) | 2:12 | 2024-03-28 |  |
 | [MUSE](https://open.spotify.com/track/7bRSjYVqEPeAvKG1KrlPtI) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx), [DAVII](https://open.spotify.com/artist/7qvsi3nQ5V6Np0MdEpdmoc) | [MUSE](https://open.spotify.com/album/0JApBQ8xuOnFPw32RnoGrS) | 3:27 | 2023-04-13 | 2024-03-29 |
 | [My Moon](https://open.spotify.com/track/1kynRiOydIAzpVIXOKf5iH) | [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5), [SIMON](https://open.spotify.com/artist/4Dz036NLSs8GPIFaCPJWGU) | [My Moon](https://open.spotify.com/album/1M2AkqbtUCIMHa0stw4Fuc) | 3:00 | 2023-04-20 | 2023-05-09 |
@@ -46,6 +46,7 @@
 | [Ride](https://open.spotify.com/track/7fyVBKYJYMP42nNr9RFTAT) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Ride](https://open.spotify.com/album/4w4qRzvzlZZE2QgMOm5ifs) | 3:01 | 2022-09-15 | 2024-02-19 |
 | [Sex and Float](https://open.spotify.com/track/5GRT98ZOTA1cWRvDRuH3ni) | [Percy](https://open.spotify.com/artist/1YDIuX4Pe5XwZmInJ4GYGr), [naphat](https://open.spotify.com/artist/1ByBKKdq5BwGdsjJKCYFt9) | [Sex and Float](https://open.spotify.com/album/7hid6u9Km3DiB8KbRtDpyj) | 2:37 | 2024-03-28 | 2024-04-12 |
 | [Shall We](https://open.spotify.com/track/42TLIkJ2kFSY0WlCBjqzhB) | [Percy](https://open.spotify.com/artist/1YDIuX4Pe5XwZmInJ4GYGr), [4ourYou](https://open.spotify.com/artist/6cEEa8xu47O2bYkQedFkUK), [GENA DESOUZA](https://open.spotify.com/artist/7jyl0OsOio6yzfWZUSCbip) | [Shall We](https://open.spotify.com/album/3KyVvNvqo1Rp14e1lR0z6i) | 3:17 | 2024-03-28 |  |
+| [so good so bad](https://open.spotify.com/track/0w6zTpil7ny1enDWlFLMff) | [MXFRUIT](https://open.spotify.com/artist/556NsleNBrQWCLjVHoPQ6G) | [so good so bad](https://open.spotify.com/album/5JpxHDyjPJ06ky5W08b5yb) | 3:44 | 2024-05-24 |  |
 | [Stand By](https://open.spotify.com/track/5gKIQRJmfu3x9F4a9nIKrg) | [TIGGER \(ทิกเกอร์\)](https://open.spotify.com/artist/2DKX2U91UfBZyzVtlwZWdF) | [Stand By \- Single](https://open.spotify.com/album/1a0KehRZqLKSK69TKsJcxK) | 3:56 | 2024-01-11 | 2024-02-19 |
 | [Stay](https://open.spotify.com/track/12fWIindDPAAsaPXPSAYJK) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [Stay](https://open.spotify.com/album/5MwGuY9wRplZgMtA1Bn1UV) | 3:27 | 2023-07-21 | 2023-11-30 |
 | [Stranger](https://open.spotify.com/track/1yoiLtaODum3lNm7NjG1zs) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [Stranger](https://open.spotify.com/album/6bG0Hug4UHRMvKapaqsslZ) | 5:46 | 2022-11-23 | 2023-04-14 |
@@ -57,7 +58,7 @@
 | [Vivienne Westwood](https://open.spotify.com/track/6gf3gCFZloUNpXnrZZd15z) | [2Ectasy](https://open.spotify.com/artist/4WXkCBHyUCfIPPZrZFcP5m) | [Vivienne Westwood](https://open.spotify.com/album/6yRUPMoKD3euuXHpnyJsRY) | 2:37 | 2024-03-28 |  |
 | [Walk Away](https://open.spotify.com/track/0gjsVf6ueVVEBQ2X0Z8f5R) | [Flower.far](https://open.spotify.com/artist/4aMPZAY3aJQokQfO5ZEryr) | [Walk Away](https://open.spotify.com/album/1lf9GkaZgCSnDWZhLzcPc9) | 3:26 | 2023-04-13 | 2024-01-12 |
 | [WATCH YOUR STEP](https://open.spotify.com/track/6N1ZqtABCgsqotshwnvEk1) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [WATCH YOUR STEP](https://open.spotify.com/album/347v2CFOheG1u8zXZrex32) | 3:50 | 2024-03-28 | 2024-04-12 |
-| [what do i do \- English Ver.](https://open.spotify.com/track/3XMR34OkkyIp3MSBq4fCBu) | [MXFRUIT](https://open.spotify.com/artist/556NsleNBrQWCLjVHoPQ6G) | [what do i do \(English Ver.\)](https://open.spotify.com/album/1yQEgE6dGDBmVm124WIzF5) | 4:01 | 2024-05-15 |  |
+| [what do i do \- English Ver.](https://open.spotify.com/track/3XMR34OkkyIp3MSBq4fCBu) | [MXFRUIT](https://open.spotify.com/artist/556NsleNBrQWCLjVHoPQ6G) | [what do i do \(English Ver.\)](https://open.spotify.com/album/1yQEgE6dGDBmVm124WIzF5) | 4:01 | 2024-05-15 | 2024-05-25 |
 | [While We’re Young](https://open.spotify.com/track/4XU7XpYsuIkfRDDrvAP0a4) | [LUSS](https://open.spotify.com/artist/6hJoakJWJIDyWnYujjhhR6) | [While We’re Young](https://open.spotify.com/album/0LwBRRXyiACQX7ykl1mTbc) | 3:24 | 2023-01-10 | 2023-07-22 |
 | [Would You Mind](https://open.spotify.com/track/5kbvcxWFMPNY1zPI3y0wHa) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Making Steak](https://open.spotify.com/album/2KR8a0U0f286MuzLaEJhL6) | 3:22 | 2022-09-15 | 2023-04-14 |
 | [YEAH](https://open.spotify.com/track/64lp69KnGmOUNnu9EaRTTI) | [OG BOBBY](https://open.spotify.com/artist/43dGDLrsposfk1tD7omTDe), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [YEAH](https://open.spotify.com/album/6Si3b37FOS0251tjPO3hB5) | 3:27 | 2023-04-13 | 2024-01-12 |
@@ -109,6 +110,7 @@
 | [ทำไมไม่รู้ \(what do i do\)](https://open.spotify.com/track/5w7l2QyX9C6oBk3JUnlkQt) | [MXFRUIT](https://open.spotify.com/artist/556NsleNBrQWCLjVHoPQ6G) | [ทำไมไม่รู้ \(what do i do\)](https://open.spotify.com/album/5J8ovIBR7COZoUhKF6qXhM) | 4:01 | 2024-03-28 |  |
 | [ทิ้งไป](https://open.spotify.com/track/0kQLcP9TrYqx79QIDZnnO0) | [Only Monday](https://open.spotify.com/artist/2zByTMDKM5g76Kbz4huf0A) | [ทิ้งไป](https://open.spotify.com/album/6HJHVbKJB854i2UIgqGzfl) | 5:47 | 2022-09-15 | 2023-05-13 |
 | [ทุกความทรงจำ](https://open.spotify.com/track/3iJNeAiZwFxiPHWk456Bcw) | [Only Monday](https://open.spotify.com/artist/2zByTMDKM5g76Kbz4huf0A) | [Only Monday](https://open.spotify.com/album/1X0gxc8emKCs9T9kCeozIu) | 4:35 | 2022-11-23 | 2024-03-29 |
+| [ท้องฟ้ามหาสมุทร](https://open.spotify.com/track/6a55uCFZms2NM0SSNFRKE5) | [MONICA](https://open.spotify.com/artist/47KiQg20CB8KsTCAtF5aIc) | [ท้องฟ้ามหาสมุทร \- Single](https://open.spotify.com/album/5TwcFbVn9ChH5ceFfSnzlC) | 4:12 | 2024-05-24 |  |
 | [นอนหน่อยไหม ?](https://open.spotify.com/track/1n7SJLokzGV1IoLUEmeOuZ) | [Anatomy Rabbit](https://open.spotify.com/artist/73M9RjjrrKjXnf6Is6hNdg) | [นอนหน่อยไหม ?](https://open.spotify.com/album/3Xiahop7bLCvr2CEHvaXX2) | 3:53 | 2023-01-18 | 2023-04-14 |
 | [นักรอ](https://open.spotify.com/track/40gIsFZ7XR0y13f2AFzDAE) | [The White Hair Cut](https://open.spotify.com/artist/2uL9cdYQwaJbvudGv4VxOc) | [นักรอ](https://open.spotify.com/album/2yl29z5fk9BCv6HO06LNaF) | 3:13 | 2023-03-23 | 2023-07-03 |
 | [นั้น](https://open.spotify.com/track/5CiAE9nLZkkNkFnMAjUgeD) | [THEMOONWILLALWAYSBEWITHME](https://open.spotify.com/artist/0yVywi4NwefY85n4BxZMaz) | [นั้น](https://open.spotify.com/album/6xKKC6DregDGOqrUgkSZhA) | 3:20 | 2022-09-23 | 2023-01-11 |

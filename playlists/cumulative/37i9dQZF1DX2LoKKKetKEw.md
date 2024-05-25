@@ -4,7 +4,7 @@
 
 > Jesus Music but make it pon pon\.  Get your fill of Afrobeats and Bible right here!  Cover: <a href="spotify:artist:58r1rB5t3VF5X6yXGPequV">Maverick City Music</a> & <a href="spotify:artist:6008gjU9UTUCfLZoSun5SH">Annatoria</a>
 
-280 songs - 14 hr 31 min
+281 songs - 14 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,7 @@
 | [Gold](https://open.spotify.com/track/3hlQG5mVjjR5MupseJXkid) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt) | [Gold](https://open.spotify.com/album/6ogAwvxSzjwnaolFyQBpAf) | 2:54 | 2022-12-16 | 2024-01-04 |
 | [Good](https://open.spotify.com/track/6RM5xAAj92QSAIGTd2i267) | [Nolly](https://open.spotify.com/artist/1qDxmgIV0aTR4QGRL4zXWM), [Omojo](https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC) | [Good](https://open.spotify.com/album/0hoXUusEcoPlaMlclSn51i) | 3:36 | 2023-10-24 |  |
 | [Good 2 Me](https://open.spotify.com/track/3mczLeyhLCkkbn5jb5IMaX) | [Romeyo Wilson](https://open.spotify.com/artist/2dlixKsISNrgfVBQJzg3VJ) | [Good 2 Me](https://open.spotify.com/album/3Ir3eESTZEQDEGKiqFDF6m) | 3:12 | 2024-02-02 |  |
-| [Good Thing](https://open.spotify.com/track/0bKzerzZVCgaS2Bx0WDabA) | [Mün The Shinobi](https://open.spotify.com/artist/3C0LlGBwMGs0ZjAtxUlJ6B), [Sal Ly](https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ) | [Good Thing](https://open.spotify.com/album/1qhTnZDA67hssvx5HQ2O77) | 2:54 | 2024-01-26 |  |
+| [Good Thing](https://open.spotify.com/track/0bKzerzZVCgaS2Bx0WDabA) | [Mün The Shinobi](https://open.spotify.com/artist/3C0LlGBwMGs0ZjAtxUlJ6B), [Sal Ly](https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ) | [Good Thing](https://open.spotify.com/album/1qhTnZDA67hssvx5HQ2O77) | 2:54 | 2024-01-26 | 2024-05-25 |
 | [Greatest](https://open.spotify.com/track/4RGma6BvBMPUlES6oAVubZ) | [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [RADICAL](https://open.spotify.com/album/1Wo57u7paNfHF6mFD0W2wE) | 3:08 | 2023-10-24 | 2024-01-27 |
 | [Halle](https://open.spotify.com/track/3jjIz7mRqYI8zXutJ9zwad) | [Ko'rale](https://open.spotify.com/artist/4Fvr1wBzDl0Qy3QwcbAVnS), [yoyo michael](https://open.spotify.com/artist/2UJIApZoVW4enFYjW39Tfv) | [Halle](https://open.spotify.com/album/3mcjpEjMXLuhBeaVPhPoub) | 2:20 | 2023-08-25 | 2024-01-27 |
 | [HALLELUJAH](https://open.spotify.com/track/2qBYHbmwGdn6aEMDc9xmha) | [LC Beatz](https://open.spotify.com/artist/5XkBrq2jCva8S9IKRphUVi), [Shirlvin Desir](https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y) | [HALLELUJAH](https://open.spotify.com/album/3lC2Nhs1VxXn4QubjCQqea) | 2:16 | 2024-01-26 |  |
@@ -256,6 +256,7 @@
 | [THIS YEAR \(Blessings\) \- North African Remix](https://open.spotify.com/track/6lsj28Ac7tqZUpILTwMfbs) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8), [Ehis 'D' Greatest](https://open.spotify.com/artist/6QdzKE9cMAEFZj1pYcxpsf) | [THIS YEAR \(Blessings\) \[North African Remix\]](https://open.spotify.com/album/5fGAs374BFHuzbA7rzfGyM) | 2:09 | 2023-05-19 | 2023-08-26 |
 | [This Year Affirmation](https://open.spotify.com/track/7IFlKuUZch3MkSUknrCkBa) | [Enakeno](https://open.spotify.com/artist/4TmyJqF1VO3ajOFLveUFWi) | [This Year Affirmation](https://open.spotify.com/album/0DhoCi1Q2t4aQ2qtC8FIFh) | 2:00 | 2024-01-26 |  |
 | [To Jireh](https://open.spotify.com/track/525D9ITdqJ3ygzrrxQTvtX) | [Da'ville](https://open.spotify.com/artist/4kV9mrNI60H24Jj55wjKfw) | [To Jireh](https://open.spotify.com/album/4lfXUvcF2cToRLidbJ8g7Y) | 3:25 | 2022-09-18 | 2022-10-02 |
+| [Todo El Mundo](https://open.spotify.com/track/4WrxZsRgrDUIAG6AWo9xFI) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Niko Eme](https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL) | [Todo El Mundo](https://open.spotify.com/album/0e7KLjcWrnx4ee71Bq89IT) | 3:02 | 2024-05-24 |  |
 | [TOTORI \(The Name of Jesus\)](https://open.spotify.com/track/21rTE3IBtnxuVE1tmt90Ac) | [Mike Aremu](https://open.spotify.com/artist/714vqy5IsHxOtHRvGIkIYX), [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [TOTORI \(The Name of Jesus\)](https://open.spotify.com/album/6QKDQjlkZlsm2V0T4gxjZj) | 3:24 | 2023-05-19 | 2023-09-14 |
 | [TOTORI \(The Name of Jesus\)](https://open.spotify.com/track/6C2YHtc0mW29XBFRTIFuAZ) | [Mike Aremu](https://open.spotify.com/artist/714vqy5IsHxOtHRvGIkIYX), [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [TOTORI \(The Name of Jesus\)](https://open.spotify.com/album/2kUPjp8CwTRXMWnzaiemdT) | 3:24 | 2023-08-25 | 2024-04-19 |
 | [True Love](https://open.spotify.com/track/4bJfDj5FDY5cP1cndlE9Vj) | [Paul\-Emmanuel](https://open.spotify.com/artist/4VLYFcmEJqb17kzkQ64wE3), [Break The Eyes](https://open.spotify.com/artist/0ySk960unJNGQV1FrSen3p) | [True Love](https://open.spotify.com/album/1jEbLKBbUdvKqLoCoNTDz4) | 2:56 | 2022-07-30 | 2023-10-25 |

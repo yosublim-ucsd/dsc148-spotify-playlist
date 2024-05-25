@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-03",
-  "description": "El infierno hecho ruido. Bienvenido al culto de La Bestia. Takeover: Bruce Dickinson",
+  "description": "El infierno hecho ruido. Bienvenido al culto de La Bestia. Takeover: AC/DC ",
   "name": "La Bestia",
   "tracks": [
     {
@@ -233,6 +233,24 @@
     },
     {
       "album": {
+        "name": "Back In Black",
+        "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255493,
+      "name": "Back In Black",
+      "url": "https://open.spotify.com/track/08mG3Y1vljYA6bvDt4Wqkj"
+    },
+    {
+      "album": {
         "name": "Scorched",
         "url": "https://open.spotify.com/album/2JSQcvezbKguh7AVhvwLwu"
       },
@@ -328,7 +346,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 318000,
       "name": "Black Hole Sun",
       "url": "https://open.spotify.com/track/7fURZRPkB2S70sYR1naKTK"
@@ -562,7 +580,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 246106,
       "name": "Chemical Wedding - 2001 Remaster",
       "url": "https://open.spotify.com/track/4rHBxp5ss7VnYrEo5m3Cfg"
@@ -677,6 +695,24 @@
     },
     {
       "album": {
+        "name": "POWER UP",
+        "url": "https://open.spotify.com/album/3bTNxJYk2bwdWBMtrjBxb0"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210360,
+      "name": "Demon Fire",
+      "url": "https://open.spotify.com/track/6jtUOVRO4p09Z7E35ERRL7"
+    },
+    {
+      "album": {
         "name": "Rammstein",
         "url": "https://open.spotify.com/album/1LoyJQVHPLHE3fCCS8Juek"
       },
@@ -713,6 +749,24 @@
     },
     {
       "album": {
+        "name": "Dirty Deeds Done Dirt Cheap",
+        "url": "https://open.spotify.com/album/76mvVgXOde87B9aOzLXCOI"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231933,
+      "name": "Dirty Deeds Done Dirt Cheap",
+      "url": "https://open.spotify.com/track/2d4e45fmUnguxh6yqC7gNT"
+    },
+    {
+      "album": {
         "name": "Point Of Know Return (Expanded Edition)",
         "url": "https://open.spotify.com/album/6oU298pdPTCQnMx1PYwyUA"
       },
@@ -742,7 +796,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 280786,
       "name": "Earth Mother",
       "url": "https://open.spotify.com/track/764F5dyelTQhL8TwWkl5Fj"
@@ -929,6 +983,24 @@
     },
     {
       "album": {
+        "name": "For Those About to Rock (We Salute You)",
+        "url": "https://open.spotify.com/album/7DUvURQ0wfA1kgG8j99frR"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344240,
+      "name": "For Those About to Rock (We Salute You)",
+      "url": "https://open.spotify.com/track/17lu4tymfnhmcIDlzBbtAb"
+    },
+    {
+      "album": {
         "name": "Embers",
         "url": "https://open.spotify.com/album/6vXIUx3svkyAY7TrtMGGrN"
       },
@@ -983,6 +1055,24 @@
     },
     {
       "album": {
+        "name": "Highway to Hell",
+        "url": "https://open.spotify.com/album/10v912xgTZbjAtYfyKWJCS"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203293,
+      "name": "Girls Got Rhythm",
+      "url": "https://open.spotify.com/track/6Wn3pdFtAcnYJyJVITwt7N"
+    },
+    {
+      "album": {
         "name": "We Are Mot\u00f6rhead",
         "url": "https://open.spotify.com/album/5qa57QOyTJ8EeZmOEno8Rn"
       },
@@ -1030,7 +1120,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 413826,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/3pRaLNL3b8x5uBOcsgvdqM"
@@ -1091,6 +1181,42 @@
     },
     {
       "album": {
+        "name": "Back In Black",
+        "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312293,
+      "name": "Hells Bells",
+      "url": "https://open.spotify.com/track/69QHm3pustz01CJRwdo20z"
+    },
+    {
+      "album": {
+        "name": "Highway to Hell",
+        "url": "https://open.spotify.com/album/10v912xgTZbjAtYfyKWJCS"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208400,
+      "name": "Highway to Hell",
+      "url": "https://open.spotify.com/track/2zYzyRzz6pRmhPzyfMEC8s"
+    },
+    {
+      "album": {
         "name": "Killing For Pleasure Forever",
         "url": "https://open.spotify.com/album/4hmuNlSu0LVjViNzd8td1U"
       },
@@ -1142,6 +1268,24 @@
       "duration_ms": 220415,
       "name": "If Looks Could Kill",
       "url": "https://open.spotify.com/track/1mr9ZUNWfCUClBDhYbCErx"
+    },
+    {
+      "album": {
+        "name": "Highway to Hell",
+        "url": "https://open.spotify.com/album/10v912xgTZbjAtYfyKWJCS"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274226,
+      "name": "If You Want Blood (You've Got It)",
+      "url": "https://open.spotify.com/track/7zscdQe9CjzXnqT3P1Ey7K"
     },
     {
       "album": {
@@ -1217,6 +1361,24 @@
     },
     {
       "album": {
+        "name": "High Voltage",
+        "url": "https://open.spotify.com/album/19AUoKWRAaQYrggVvdQnqq"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301226,
+      "name": "It's a Long Way to the Top (If You Wanna Rock 'N' Roll)",
+      "url": "https://open.spotify.com/track/7nemcVsXVFZF01iqpIIo2Y"
+    },
+    {
+      "album": {
         "name": "Ixik Uh",
         "url": "https://open.spotify.com/album/0QQk3gni24RrKqxVXSCxwx"
       },
@@ -1282,7 +1444,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 351360,
       "name": "Jesus Christ Pose - Remastered 2016",
       "url": "https://open.spotify.com/track/2UoHjfejHhemj0KSWCOV2A"
@@ -1358,6 +1520,24 @@
       "duration_ms": 154343,
       "name": "LATINOAMERICA",
       "url": "https://open.spotify.com/track/4lFNmiREHY1ropjtOEGlJd"
+    },
+    {
+      "album": {
+        "name": "Let There Be Rock",
+        "url": "https://open.spotify.com/album/3JwFNl80WWeXPiKEjIFbqa"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366346,
+      "name": "Let There Be Rock",
+      "url": "https://open.spotify.com/track/753KutoAy00apPsplMRetG"
     },
     {
       "album": {
@@ -1538,6 +1718,24 @@
       "duration_ms": 175333,
       "name": "Mochado",
       "url": "https://open.spotify.com/track/40LeUqlvSejNaIFfDMscmA"
+    },
+    {
+      "album": {
+        "name": "The Razors Edge",
+        "url": "https://open.spotify.com/album/4vu7F6h90Br1ZtYYaqfITy"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225946,
+      "name": "Moneytalks",
+      "url": "https://open.spotify.com/track/5u5F7qLDvZjBSktaDp4HxB"
     },
     {
       "album": {
@@ -1865,6 +2063,42 @@
     },
     {
       "album": {
+        "name": "Black Ice",
+        "url": "https://open.spotify.com/album/7qVfz4UGONwEd5nQjj0ESN"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261506,
+      "name": "Rock N Roll Train",
+      "url": "https://open.spotify.com/track/4feXJ5IC3avXsVW9WNFSag"
+    },
+    {
+      "album": {
+        "name": "Rock or Bust",
+        "url": "https://open.spotify.com/album/6OwvO40ahugJE5PH4TjqTg"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183053,
+      "name": "Rock or Bust",
+      "url": "https://open.spotify.com/track/2vyae4DvSU2gs8OMOGwXF2"
+    },
+    {
+      "album": {
         "name": "Dirt (2022 Remaster)",
         "url": "https://open.spotify.com/album/58NXIEYqmq5dQHg9nV9duM"
       },
@@ -1894,7 +2128,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 344600,
       "name": "Sabbath Bloody Sabbath (2009 - Remaster)",
       "url": "https://open.spotify.com/track/29KYPEsbcMcVKnd6iyu6Q5"
@@ -1991,6 +2225,42 @@
     },
     {
       "album": {
+        "name": "Back In Black",
+        "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317426,
+      "name": "Shoot to Thrill",
+      "url": "https://open.spotify.com/track/0C80GCp0mMuBzLf3EAXqxv"
+    },
+    {
+      "album": {
+        "name": "POWER UP",
+        "url": "https://open.spotify.com/album/3bTNxJYk2bwdWBMtrjBxb0"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185133,
+      "name": "Shot In The Dark",
+      "url": "https://open.spotify.com/track/0sfdiwck2xr4PteGOdyOfz"
+    },
+    {
+      "album": {
         "name": "Homicidal Ecstasy",
         "url": "https://open.spotify.com/album/32ZHR9tU1jBp3xdYldee30"
       },
@@ -2056,7 +2326,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 201828,
       "name": "Soldier of Fortune - 2023 Remix",
       "url": "https://open.spotify.com/track/3Aki4Iz8BWnt6QvCkrAfLZ"
@@ -2110,7 +2380,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 506160,
       "name": "Stargazer",
       "url": "https://open.spotify.com/track/1aDNYyeU62BuQsBAY18i48"
@@ -2132,6 +2402,24 @@
       "duration_ms": 212826,
       "name": "Swamped XX",
       "url": "https://open.spotify.com/track/2GwbIA9hZvw1IthidzIGY6"
+    },
+    {
+      "album": {
+        "name": "High Voltage",
+        "url": "https://open.spotify.com/album/19AUoKWRAaQYrggVvdQnqq"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214666,
+      "name": "T.N.T.",
+      "url": "https://open.spotify.com/track/7LRMbd3LEoV5wZJvXT1Lwb"
     },
     {
       "album": {
@@ -2164,7 +2452,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 858133,
       "name": "Telegraph Road",
       "url": "https://open.spotify.com/track/0Bg100ruK1ZD7H96rNo6fR"
@@ -2330,7 +2618,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 340360,
       "name": "The Last In Line",
       "url": "https://open.spotify.com/track/1V0p6CzMVJPtAPpJPA2O6d"
@@ -2424,6 +2712,24 @@
       "duration_ms": 330100,
       "name": "Thelos",
       "url": "https://open.spotify.com/track/3X0UDx7EPJipUHATcZgcoh"
+    },
+    {
+      "album": {
+        "name": "The Razors Edge",
+        "url": "https://open.spotify.com/album/4vu7F6h90Br1ZtYYaqfITy"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292880,
+      "name": "Thunderstruck",
+      "url": "https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj"
     },
     {
       "album": {
@@ -2554,7 +2860,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 899933,
       "name": "Voodoo Chile",
       "url": "https://open.spotify.com/track/0auKlivXpm76wR63mMJ3pR"
@@ -2716,7 +3022,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 298333,
       "name": "White Room",
       "url": "https://open.spotify.com/track/3Xls4cNOwy01dtrNXb1inG"
@@ -2759,6 +3065,24 @@
     },
     {
       "album": {
+        "name": "Who Made Who",
+        "url": "https://open.spotify.com/album/07EFoHHspqSwsmkbnWaB4A"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207146,
+      "name": "Who Made Who",
+      "url": "https://open.spotify.com/track/6rvldt6EoZwzogApECUCwd"
+    },
+    {
+      "album": {
         "name": "Greatest Hits II (Remastered)",
         "url": "https://open.spotify.com/album/1uG9cIT7IRuq9NqFvKFUsI"
       },
@@ -2795,6 +3119,24 @@
     },
     {
       "album": {
+        "name": "Let There Be Rock",
+        "url": "https://open.spotify.com/album/3JwFNl80WWeXPiKEjIFbqa"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333800,
+      "name": "Whole Lotta Rosie",
+      "url": "https://open.spotify.com/track/4wYq5wugZDzQiMZQYG4wVB"
+    },
+    {
+      "album": {
         "name": "Live",
         "url": "https://open.spotify.com/album/1dmBXO2zmCbsf8qAicqbs0"
       },
@@ -2806,7 +3148,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 269973,
       "name": "Whole Lotta Rosie - Live - 1991",
       "url": "https://open.spotify.com/track/4eoGQROWDgOs43F0WEYR8a"
@@ -2864,6 +3206,24 @@
       "duration_ms": 285074,
       "name": "YNQHDD",
       "url": "https://open.spotify.com/track/4sDf40sVxvH3RsjxcvfJv4"
+    },
+    {
+      "album": {
+        "name": "Back In Black",
+        "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210173,
+      "name": "You Shook Me All Night Long",
+      "url": "https://open.spotify.com/track/2SiXAy7TuUkycRVbbWDEpo"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NmM48Aqz3e.md) - [plain]
 
 > Favourites from Canadians who dominated the 1990s\. Cover: Alanis Morissette
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,231 likes - 100 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,284 likes - 100 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,10 +12,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NmM48Aqz3e.md) - [plain]
 | 2 | [Drinking in L.A.](https://open.spotify.com/track/2vd5WiKwFzW5YeYcscu20j) | [Bran Van 3000](https://open.spotify.com/artist/3D3blX3lLE3BCMdo3SOMlB) | [Glee](https://open.spotify.com/album/3vXanoRgJfcgjymf63ur5h) | 3:56 |
 | 3 | [Superman's Dead](https://open.spotify.com/track/5AqdEGne9bWAMPTI5UUmQY) | [Our Lady Peace](https://open.spotify.com/artist/1lqW59DUEKqvcHc8mVWBtH) | [Clumsy](https://open.spotify.com/album/4mWNf9f6fkznoMKchh2u1M) | 4:15 |
 | 4 | [Love Song](https://open.spotify.com/track/2l0Ef5m29J2fNOS5Ydkg8s) | [Sky](https://open.spotify.com/artist/5synmfYnU6t9Lw1ZiN3ZTT) | [Piece Of Paradise](https://open.spotify.com/album/060HunSfIEfWvy1bnYn4Fu) | 3:36 |
-| 5 | [Poets \- 2023 Remastered](https://open.spotify.com/track/0tOeuzHJaeptDdXQxKJguE) | [The Tragically Hip](https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0) | [Phantom Power \(Deluxe\)](https://open.spotify.com/album/1HSX49MRRoXiT8DCN2xTet) | 3:59 |
-| 6 | [Sucks To Be You](https://open.spotify.com/track/3St0CuLCZghaJrT33e7RT5) | [Prozzak](https://open.spotify.com/artist/0xJDpKj8NVkSRawbaxRF6q) | [Hot Show](https://open.spotify.com/album/5UFAqjSyp85UfL30v4lpsz) | 3:21 |
-| 7 | [When You're Gone](https://open.spotify.com/track/0mto4XYo8GISKnDxlLdK2a) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc), [Melanie C](https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df) | [On A Day Like Today](https://open.spotify.com/album/5x3Ws76JQN6elCUAOfVVlT) | 3:24 |
-| 8 | [She's so High](https://open.spotify.com/track/7mnGQesk1TzQLzQ9bYWZPR) | [Tal Bachman](https://open.spotify.com/artist/3KEb1kbIZN5jumsjFEWgSW) | [Tal Bachman](https://open.spotify.com/album/3v17hBg9lx5vdJQ8Dfr6OD) | 3:44 |
+| 5 | [She's so High](https://open.spotify.com/track/7mnGQesk1TzQLzQ9bYWZPR) | [Tal Bachman](https://open.spotify.com/artist/3KEb1kbIZN5jumsjFEWgSW) | [Tal Bachman](https://open.spotify.com/album/3v17hBg9lx5vdJQ8Dfr6OD) | 3:44 |
+| 6 | [Poets \- 2023 Remastered](https://open.spotify.com/track/0tOeuzHJaeptDdXQxKJguE) | [The Tragically Hip](https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0) | [Phantom Power \(Deluxe\)](https://open.spotify.com/album/1HSX49MRRoXiT8DCN2xTet) | 3:59 |
+| 7 | [Sucks To Be You](https://open.spotify.com/track/3St0CuLCZghaJrT33e7RT5) | [Prozzak](https://open.spotify.com/artist/0xJDpKj8NVkSRawbaxRF6q) | [Hot Show](https://open.spotify.com/album/5UFAqjSyp85UfL30v4lpsz) | 3:21 |
+| 8 | [When You're Gone](https://open.spotify.com/track/0mto4XYo8GISKnDxlLdK2a) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc), [Melanie C](https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df) | [On A Day Like Today](https://open.spotify.com/album/5x3Ws76JQN6elCUAOfVVlT) | 3:24 |
 | 9 | [You Oughta Know \- 2015 Remaster](https://open.spotify.com/track/3jS7bB0oXVOwGFZn3aE5NV) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Jagged Little Pill \(2015 Remaster\)](https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA) | 4:09 |
 | 10 | [That Song](https://open.spotify.com/track/2XI1Ja1rRLgNuiZCvias4w) | [Big Wreck](https://open.spotify.com/artist/557SGrCJ59ysjCE1xjVZbS) | [In Loving Memory](https://open.spotify.com/album/0k4rjOvtXzqIP3sktiBvek) | 5:04 |
 | 11 | [Building a Mystery](https://open.spotify.com/track/2mazBRLLeWQSHeNiu7jxDm) | [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp) | [Surfacing](https://open.spotify.com/album/2XIPqTkZP5BSrtlHE7jkVz) | 4:07 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NmM48Aqz3e.md) - [plain]
 | 99 | [If I Fall](https://open.spotify.com/track/5y1SrenKCtZ1AXnl9fGLb1) | [Tara MacLean](https://open.spotify.com/artist/1It4wk41Lhrspxd3awN9FJ) | [Passenger](https://open.spotify.com/album/5kWqCXOvFL0hdGqOZcmJUW) | 4:09 |
 | 100 | [Apparitions](https://open.spotify.com/track/7CosFlbml7Rhw7t4FrSkdz) | [Matthew Good Band](https://open.spotify.com/artist/0BwxeEcojb5X47ugNMQvhL) | [Underdogs](https://open.spotify.com/album/74Rz6pP4zcrT10smt1EALp) | 5:14 |
 
-Snapshot ID: `ZkZTNwAAAAA/jMCCkMiEAiS6dRh/0uYZ`
+Snapshot ID: `ZlAQwAAAAABpgfA6GmArlCkcnb94ocSN`

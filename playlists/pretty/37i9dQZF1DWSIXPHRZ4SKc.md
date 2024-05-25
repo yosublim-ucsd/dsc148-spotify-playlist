@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIXPHRZ4SKc.md) - [plain]
 
 > It's how you wear the mask that matters\. Music from and inspired by Spider\-Man: Into the Spider\-Verse and Spider\-Man: Across the Spider\-Verse.
 
-[Spotify](https://open.spotify.com/user/spotify) - 781,715 likes - 77 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 781,765 likes - 77 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIXPHRZ4SKc.md) - [plain]
 | 47 | [Save The Day \(feat\. Coi Leray & LouGotCash\)](https://open.spotify.com/track/0vkzRCT7wzqWCFJw5TN1MQ) | [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry), [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [LouGotCash](https://open.spotify.com/artist/1Sz0VZ2PxcZPD2qRIX9GSK) | [Spider\-Man: Into the Spider\-Verse \(Soundtrack From & Inspired by the Motion Picture\)](https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs) | 2:58 |
 | 48 | [Spider\-Man India \(Pavitr Prabhakar\)](https://open.spotify.com/track/6JzXhKJhK1UKTCwZTvchP2) | [Daniel Pemberton](https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR) | [Spider\-Man: Across the Spider\-Verse \(Original Score\)](https://open.spotify.com/album/6nlUFeFAPjaDTA7A0VVwnO) | 2:20 |
 | 49 | [Sunflower](https://open.spotify.com/track/0eLevmMdFLKMf2rprarJ8M) | [Zozi](https://open.spotify.com/artist/0M5Q1neRqarfVnbmcn30O3) | [The Sunflower Covers \(From and Inspired by the Motion Picture "Spider\-Man: Across the Spider\-Verse"\)](https://open.spotify.com/album/2JED1rFxGmujnglUiAAzEZ) | 2:42 |
-| 50 | [Sunflower](https://open.spotify.com/track/0a4BQch1z8SHov9jJgsh1v) | [Lismar](https://open.spotify.com/artist/67r9pSNdmDu31zmO51cWU6), [Beatz Akademy](https://open.spotify.com/artist/0UjwmWs0TpcR8ntCOjlxkI) | [The Sunflower Covers \(From and Inspired by the Motion Picture "Spider\-Man: Across the Spider\-Verse"\)](https://open.spotify.com/album/2JED1rFxGmujnglUiAAzEZ) | 2:20 |
+| 50 | [Sunflower](https://open.spotify.com/track/0a4BQch1z8SHov9jJgsh1v) | [Lismar](https://open.spotify.com/artist/2JAxtl8czMHyssC2W7b8jy), [Beatz Akademy](https://open.spotify.com/artist/0UjwmWs0TpcR8ntCOjlxkI) | [The Sunflower Covers \(From and Inspired by the Motion Picture "Spider\-Man: Across the Spider\-Verse"\)](https://open.spotify.com/album/2JED1rFxGmujnglUiAAzEZ) | 2:20 |
 | 51 | [Nueva York Train Chase](https://open.spotify.com/track/34ZrUENGT9Jx9dfX6d2LEm) | [Daniel Pemberton](https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR) | [Spider\-Man: Across the Spider\-Verse \(Original Score\)](https://open.spotify.com/album/6nlUFeFAPjaDTA7A0VVwnO) | 5:58 |
 | 52 | [Spot Holes 2](https://open.spotify.com/track/2G6N99ANS6NGn9BusRUmCx) | [Daniel Pemberton](https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR) | [Spider\-Man: Across the Spider\-Verse \(Original Score\)](https://open.spotify.com/album/6nlUFeFAPjaDTA7A0VVwnO) | 1:11 |
 | 53 | [The Amazing Spider\-Man](https://open.spotify.com/track/0p8ypNn35B9Ld1QJP0q3NE) | [Daniel Pemberton](https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR) | [Spider\-Man: Into the Spider\-Verse \(Original Score\)](https://open.spotify.com/album/5KP2NReDL2Bv0QLzHSvUwM) | 1:56 |

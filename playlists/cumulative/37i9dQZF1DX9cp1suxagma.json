@@ -951,6 +951,24 @@
     },
     {
       "album": {
+        "name": "D\u00edas de mierda (Arial 3)",
+        "url": "https://open.spotify.com/album/3suowBgMkaBa4m1sp9Xg78"
+      },
+      "artists": [
+        {
+          "name": "Susana Cala",
+          "url": "https://open.spotify.com/artist/68LgpWsaAwjflP3CLXC0LB"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141968,
+      "name": "D\u00edas de mierda (Arial 3)",
+      "url": "https://open.spotify.com/track/2SOn6LXgv9xybGMOEoYzwD"
+    },
+    {
+      "album": {
         "name": "El Amor Es Perfecto",
         "url": "https://open.spotify.com/album/3jvv2aafvKHKZGuq0EfqFa"
       },
@@ -1194,7 +1212,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 185476,
       "name": "Estoy Enamorao",
       "url": "https://open.spotify.com/track/1DVAYuOMOaKn7Usi7j2TmR"

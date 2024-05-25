@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "New jazz for open minds. Cover: Al Di Meola",
+  "description": "New jazz for open minds. Cover: Julius Rodriguez",
   "name": "State of Jazz",
   "tracks": [
     {
@@ -1004,7 +1004,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 223426,
       "name": "Akka-Safad",
       "url": "https://open.spotify.com/track/29Pk4XB98ecmEFZXKyQNfj"
@@ -1600,7 +1600,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 189418,
       "name": "Anointed Soul",
       "url": "https://open.spotify.com/track/6kPK6JPNSsWovpDcnfOIyQ"
@@ -2176,7 +2176,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 207812,
       "name": "AT EASE",
       "url": "https://open.spotify.com/track/1w8qCPaSGag0pzg9VkbVoj"
@@ -3416,6 +3416,40 @@
       "duration_ms": 157975,
       "name": "Birds of Rocky Point",
       "url": "https://open.spotify.com/track/7CurxbuwMd0zxu2DOtI94j"
+    },
+    {
+      "album": {
+        "name": "Birthworkers Magic, and how we get hear . . .",
+        "url": "https://open.spotify.com/album/6F3VdCxcW07qBx5UIHy0nT"
+      },
+      "artists": [
+        {
+          "name": "Carlos Ni\u00f1o",
+          "url": "https://open.spotify.com/artist/55Ox89YvyME4t8bYTIJsRu"
+        },
+        {
+          "name": "Carlos Ni\u00f1o & Friends",
+          "url": "https://open.spotify.com/artist/5Vp9z1lRUNMLQCXbwrIbDK"
+        },
+        {
+          "name": "Maia M\u0103l\u0103ncu\u0219",
+          "url": "https://open.spotify.com/artist/1eWX16Gl2i63vOyqfvUIFw"
+        },
+        {
+          "name": "Andr\u00e9 3000",
+          "url": "https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6"
+        },
+        {
+          "name": "Jesse Peterson",
+          "url": "https://open.spotify.com/artist/39R8T60LFn9nVR0kJ9tG8e"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 441893,
+      "name": "Birthworkers Magic, and how we get hear . . .",
+      "url": "https://open.spotify.com/track/0pE5byXLOMyxM2bi6Dm1pa"
     },
     {
       "album": {
@@ -5031,6 +5065,24 @@
     },
     {
       "album": {
+        "name": "Chubbby (48)",
+        "url": "https://open.spotify.com/album/5iKxluZeWos0lpGXpZ0tFm"
+      },
+      "artists": [
+        {
+          "name": "corto.alto",
+          "url": "https://open.spotify.com/artist/5Kd7e5lauV4CDdTHm5uiJH"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158066,
+      "name": "Chubbby (48)",
+      "url": "https://open.spotify.com/track/4SsjHCvYNo1NpgG36C7Nje"
+    },
+    {
+      "album": {
         "name": "Fly Through It",
         "url": "https://open.spotify.com/album/0xf6qauscnwnpOE0o9frPo"
       },
@@ -5072,6 +5124,24 @@
       "duration_ms": 161799,
       "name": "Circadian",
       "url": "https://open.spotify.com/track/2H2t8HCFkE2TIN8xik7wGE"
+    },
+    {
+      "album": {
+        "name": "Circles Going Round The Sun",
+        "url": "https://open.spotify.com/album/73UyeBjza8LmOpE3gMhi27"
+      },
+      "artists": [
+        {
+          "name": "Galliano",
+          "url": "https://open.spotify.com/artist/5wCNzQ86Wfer6KdOxaPlQG"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262844,
+      "name": "Circles Going Round The Sun",
+      "url": "https://open.spotify.com/track/2iqGCO59bOrYt9OMzT9zOn"
     },
     {
       "album": {
@@ -5126,7 +5196,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 251466,
       "name": "Cleanse - (The Waters) - feat. Braxton Cook",
       "url": "https://open.spotify.com/track/6EPWNZTkW8ugUmpQlagLiz"
@@ -5414,7 +5484,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 281833,
       "name": "concentrate",
       "url": "https://open.spotify.com/track/78BHW3aMoR2UrF1Pg1W0oc"
@@ -9702,7 +9772,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 226153,
       "name": "Future Overture",
       "url": "https://open.spotify.com/track/6Uxa3NekEWl5Vt9mSDPCMa"
@@ -10334,6 +10404,36 @@
       "duration_ms": 157241,
       "name": "Goodfellow",
       "url": "https://open.spotify.com/track/0EmPf7jknzDyjgFEJ3x0Dm"
+    },
+    {
+      "album": {
+        "name": "Got that?",
+        "url": "https://open.spotify.com/album/08nVCZBo8sBzTkzFAFtI3A"
+      },
+      "artists": [
+        {
+          "name": "Greg Spero",
+          "url": "https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd"
+        },
+        {
+          "name": "Dominique Xavier",
+          "url": "https://open.spotify.com/artist/08pNXT13jLN3ri7eT6pRuv"
+        },
+        {
+          "name": "Stixx Taylor",
+          "url": "https://open.spotify.com/artist/2eMTWZLa7eqnNsp71eM6Tg"
+        },
+        {
+          "name": "Joe Cleveland",
+          "url": "https://open.spotify.com/artist/1OREq1cp67WA7bvs7v1Ogg"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104458,
+      "name": "Got that?",
+      "url": "https://open.spotify.com/track/3hlHFttlQkeQFNka58JINT"
     },
     {
       "album": {
@@ -13824,7 +13924,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 188761,
       "name": "Last Laugh",
       "url": "https://open.spotify.com/track/307ZBrMJEoKG6khQpX0g4N"
@@ -14174,6 +14274,24 @@
       "duration_ms": 365945,
       "name": "Libations: Omnyama",
       "url": "https://open.spotify.com/track/6Bd3QTwgistsqEXT5NfQ7d"
+    },
+    {
+      "album": {
+        "name": "Libations: Uxolo",
+        "url": "https://open.spotify.com/album/0qA2Jayxr2HYMJfAQGhrmg"
+      },
+      "artists": [
+        {
+          "name": "Nduduzo Makhathini",
+          "url": "https://open.spotify.com/artist/6EvFcDtvFuVugEtZNslkft"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261825,
+      "name": "Libations: Uxolo",
+      "url": "https://open.spotify.com/track/6V8pgoXgZWDPys7JkFRz8q"
     },
     {
       "album": {
@@ -14550,6 +14668,28 @@
       "duration_ms": 193846,
       "name": "Little Rock",
       "url": "https://open.spotify.com/track/2q21Zlz0eG3Uy60r75y5WB"
+    },
+    {
+      "album": {
+        "name": "Live Your Best Dream",
+        "url": "https://open.spotify.com/album/3hIu9BJQTZAtWlYNdJwXDn"
+      },
+      "artists": [
+        {
+          "name": "Redtenbacher's Funkestra",
+          "url": "https://open.spotify.com/artist/1oYScdotTIXO74h10l8ISA"
+        },
+        {
+          "name": "Carter Arrington",
+          "url": "https://open.spotify.com/artist/33QeDPfeSWWQSZmbUC15Ly"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280560,
+      "name": "Live Your Best Dream",
+      "url": "https://open.spotify.com/track/57Nud2GW7rZK6IGDqwOQuA"
     },
     {
       "album": {
@@ -15040,6 +15180,28 @@
       "duration_ms": 293781,
       "name": "Love Brings Happiness",
       "url": "https://open.spotify.com/track/1siSBgeVP8XmhgvjQadP38"
+    },
+    {
+      "album": {
+        "name": "Love Everlasting",
+        "url": "https://open.spotify.com/album/58vnAqtTDxhEglDNuJTDSF"
+      },
+      "artists": [
+        {
+          "name": "Julius Rodriguez",
+          "url": "https://open.spotify.com/artist/50qPbhYR2iMZzD3iz0eBMF"
+        },
+        {
+          "name": "Keyon Harrold",
+          "url": "https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229560,
+      "name": "Love Everlasting (feat. Keyon Harrold)",
+      "url": "https://open.spotify.com/track/0cwNWUmPRol4j4XCjrg6so"
     },
     {
       "album": {
@@ -16288,7 +16450,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 262560,
       "name": "Mission Statement",
       "url": "https://open.spotify.com/track/6owLXAOd68ZFVFZtIDYaOG"
@@ -19703,6 +19865,24 @@
     },
     {
       "album": {
+        "name": "Mid Spiral: Order",
+        "url": "https://open.spotify.com/album/33rnYTEiJv1Rb2EWmU0ViX"
+      },
+      "artists": [
+        {
+          "name": "BADBADNOTGOOD",
+          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 415372,
+      "name": "Playgroup",
+      "url": "https://open.spotify.com/track/2zZZDhZp98OaElYpscNbWd"
+    },
+    {
+      "album": {
         "name": "Playing With Fire",
         "url": "https://open.spotify.com/album/0gyhPuSxDzaGZ39E4epAqV"
       },
@@ -19814,6 +19994,24 @@
       "duration_ms": 283880,
       "name": "Portrommet",
       "url": "https://open.spotify.com/track/29SjQRP3L3VhsYd8CKT0Lx"
+    },
+    {
+      "album": {
+        "name": "Pra voc\u00ea, Ilza - Hermeto Pascoal & Grupo",
+        "url": "https://open.spotify.com/album/2zHPl6LEnnTzFMhyD0jTFm"
+      },
+      "artists": [
+        {
+          "name": "Hermeto Pascoal",
+          "url": "https://open.spotify.com/artist/5COT5dVPZHSd0ZFyCQCm7s"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213150,
+      "name": "Pra voc\u00ea, Ilza - Hermeto Pascoal & Grupo",
+      "url": "https://open.spotify.com/track/7xtdk0DZ8FYgbw0HcHVHyi"
     },
     {
       "album": {
@@ -20450,7 +20648,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 265076,
       "name": "Quintuplets",
       "url": "https://open.spotify.com/track/1aQBuQh63tlZD1ZKNI5hp0"
@@ -22532,7 +22730,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 249100,
       "name": "side sidemi",
       "url": "https://open.spotify.com/track/5yyGyo0fRbH1erG8Pms7vt"
@@ -23377,6 +23575,28 @@
     },
     {
       "album": {
+        "name": "Selah",
+        "url": "https://open.spotify.com/album/5AJi0kbwgacrQ5KwO7DLdj"
+      },
+      "artists": [
+        {
+          "name": "Jesus Molina",
+          "url": "https://open.spotify.com/artist/7Gl7yiOLDSRr1cZyPwpGv4"
+        },
+        {
+          "name": "Noel Schajris",
+          "url": "https://open.spotify.com/artist/2uEjXyVi0SA1HPpj3zquXh"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282122,
+      "name": "Soul Journey",
+      "url": "https://open.spotify.com/track/0H1zabAPVUnyG7jaEzGLya"
+    },
+    {
+      "album": {
         "name": "Tora Collective",
         "url": "https://open.spotify.com/album/4fNLNOZCihfNb2nPT2LBQG"
       },
@@ -24012,7 +24232,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 326240,
       "name": "Stony Gate",
       "url": "https://open.spotify.com/track/2VOrpfVIDkJVC8hdQQzueQ"
@@ -26300,6 +26520,24 @@
       "duration_ms": 738967,
       "name": "The Lonely One - Live",
       "url": "https://open.spotify.com/track/0hqyR1hZP9RvMV3cHgGfNs"
+    },
+    {
+      "album": {
+        "name": "The Love Bomb",
+        "url": "https://open.spotify.com/album/5GKREWE4YEENGoMeYGd1Jf"
+      },
+      "artists": [
+        {
+          "name": "Telemakus",
+          "url": "https://open.spotify.com/artist/2tgOGRSlg4TCPaXr3kDRK6"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201950,
+      "name": "The Love Bomb",
+      "url": "https://open.spotify.com/track/0HjIJpkvrcMiLVGtIzzDA9"
     },
     {
       "album": {
@@ -29049,6 +29287,28 @@
     },
     {
       "album": {
+        "name": "Wanna Know",
+        "url": "https://open.spotify.com/album/1JUqliwwviS7Wxi0x0KRj8"
+      },
+      "artists": [
+        {
+          "name": "takoda",
+          "url": "https://open.spotify.com/artist/73iCRSMTOEczMdEyZwWzME"
+        },
+        {
+          "name": "daniel hayn",
+          "url": "https://open.spotify.com/artist/2E54rBy4UeaSYijZiWlNpO"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148788,
+      "name": "Wanna Know",
+      "url": "https://open.spotify.com/track/4KI4lyBmhxYtTYeaOxVpAA"
+    },
+    {
+      "album": {
         "name": "Could We Be More",
         "url": "https://open.spotify.com/album/2EN95hEamtoztxIF6WATgZ"
       },
@@ -29158,7 +29418,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 394975,
       "name": "Water Spirits: Izinkonjana",
       "url": "https://open.spotify.com/track/4dCaP48I6Gy52R3fT5Xq7D"
@@ -29494,7 +29754,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 129690,
       "name": "What was that other part?",
       "url": "https://open.spotify.com/track/5IGJBxd2q5cm09vNA1OdLE"
@@ -30082,6 +30342,36 @@
       "duration_ms": 400800,
       "name": "Words Left Unspoken",
       "url": "https://open.spotify.com/track/2b7mhgBdpvDCLYGK8nRfMX"
+    },
+    {
+      "album": {
+        "name": "A Family Gathering Chapter 4",
+        "url": "https://open.spotify.com/album/6yifjnuGq0d98IHyCLF0Pa"
+      },
+      "artists": [
+        {
+          "name": "Mark de Clive-Lowe",
+          "url": "https://open.spotify.com/artist/6K3loJxbWoXzVycXOBKh7P"
+        },
+        {
+          "name": "Rich Medina",
+          "url": "https://open.spotify.com/artist/79s8bIiHdwNsqLNHpwvqBF"
+        },
+        {
+          "name": "Bread & Souls",
+          "url": "https://open.spotify.com/artist/1t2puEAa4DiYt7U7S20SN4"
+        },
+        {
+          "name": "Bembe Segue",
+          "url": "https://open.spotify.com/artist/2ox6AU0eHDMkXfbcvmOQA4"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266266,
+      "name": "Working On It",
+      "url": "https://open.spotify.com/track/1B7410Yu4AUDOYgl80lA1D"
     },
     {
       "album": {
@@ -30775,6 +31065,24 @@
     },
     {
       "album": {
+        "name": "SPEED MUSIC \u30bd\u30af\u30c9\u30ce\u30aa\u30f3\u30ac\u30af vol. 8",
+        "url": "https://open.spotify.com/album/2yObyX0grPczUT4dViwQVf"
+      },
+      "artists": [
+        {
+          "name": "H ZETTRIO",
+          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181000,
+      "name": "\u3046\u308b\u661f\u3084\u3064\u3089\u306e\u30c6\u30fc\u30de(\u30e9\u30e0\u306e\u30e9\u30d6\u30bd\u30f3\u30b0)",
+      "url": "https://open.spotify.com/track/7FmUK7lmhHZ4QWG5rLSplO"
+    },
+    {
+      "album": {
         "name": "\u304a\u3060\u3084\u304b\u306b",
         "url": "https://open.spotify.com/album/1T0SNc2d2rs2G5orX4X3Ed"
       },
@@ -30826,7 +31134,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 169000,
       "name": "\u30b9\u30a4\u30fc\u30c8\u30ec\u30b9\u30dd\u30f3\u30b9\u30d5\u30ed\u30e0\u30c9\u30c3\u30b0\u30b9",
       "url": "https://open.spotify.com/track/5p2Nq9Z0JfI12PrjAfj1YX"

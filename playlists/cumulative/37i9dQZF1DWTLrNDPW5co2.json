@@ -45,6 +45,24 @@
     },
     {
       "album": {
+        "name": "SUBSTATE",
+        "url": "https://open.spotify.com/album/4piB5tOFZA5RhUTMMpAm2o"
+      },
+      "artists": [
+        {
+          "name": "LYZZA",
+          "url": "https://open.spotify.com/artist/57xaBKepmdqQ6BjXkiHa4B"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189676,
+      "name": "90210",
+      "url": "https://open.spotify.com/track/3vrqIdzS88pCWGe51tXpOP"
+    },
+    {
+      "album": {
         "name": "Always Been",
         "url": "https://open.spotify.com/album/10SELiFQ5TbsmxH0pmAHYs"
       },
@@ -244,10 +262,28 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 345560,
       "name": "Blind - Radio Edit",
       "url": "https://open.spotify.com/track/2acK24b60RQD2zBpW0Zsrw"
+    },
+    {
+      "album": {
+        "name": "BLOODLUST",
+        "url": "https://open.spotify.com/album/3fQpL7kNMhV2Pxqks7yYJE"
+      },
+      "artists": [
+        {
+          "name": "LSDXOXO",
+          "url": "https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197372,
+      "name": "BLOODLUST",
+      "url": "https://open.spotify.com/track/4Os9ymrNziTsMCE29enrp9"
     },
     {
       "album": {
@@ -502,7 +538,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 290778,
       "name": "Cocky",
       "url": "https://open.spotify.com/track/6g2iUBWLQbCFVMqtTaFPhh"
@@ -1440,7 +1476,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 629446,
       "name": "He Is the Voice I Hear",
       "url": "https://open.spotify.com/track/0bC0IHtRUfM82mozT9cjCh"
@@ -1764,7 +1800,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 253440,
       "name": "Inside Your Head",
       "url": "https://open.spotify.com/track/6iRSsdRMHkkJfAqT4Zg5oM"
@@ -3243,6 +3279,24 @@
     },
     {
       "album": {
+        "name": "way of the dolls",
+        "url": "https://open.spotify.com/album/28p3hxN9jIXZC6Qoqqu0rF"
+      },
+      "artists": [
+        {
+          "name": "Star Amerasu",
+          "url": "https://open.spotify.com/artist/5KeTqUR48eqXCpvEHQm7P6"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212307,
+      "name": "way of the dolls",
+      "url": "https://open.spotify.com/track/4HvYbLRi7l6n1fBoxpZl6q"
+    },
+    {
+      "album": {
         "name": "WICKED GYAL",
         "url": "https://open.spotify.com/album/0qbhpOqIGOMnwveNz9Ljwb"
       },
@@ -3368,6 +3422,24 @@
       "duration_ms": 135454,
       "name": "Your Skin - Edit",
       "url": "https://open.spotify.com/track/5jaCuftaprHN71hy2tuPcu"
+    },
+    {
+      "album": {
+        "name": "Zaha",
+        "url": "https://open.spotify.com/album/5xsrZ11csUdZR5fSFBMTEH"
+      },
+      "artists": [
+        {
+          "name": "DJ Wawa",
+          "url": "https://open.spotify.com/artist/1UYB9Z1Te7aDqP3XMSV9El"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299939,
+      "name": "Zaha",
+      "url": "https://open.spotify.com/track/1t8mcaYKj28FuKntLxIsIg"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWTLrNDPW5co2"

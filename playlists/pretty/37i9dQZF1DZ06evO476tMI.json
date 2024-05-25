@@ -1,13 +1,29 @@
 {
   "description": "This is Whitney Houston. The essential tracks, all in one playlist.",
-  "num_followers": 603860,
+  "num_followers": 603953,
   "original_name": "This Is Whitney Houston",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zk01gAAAAACLL/3DCieAsULU4MNQaGnq",
+  "snapshot_id": "Zk6HAAAAAAA3ymk9Qd/+YJS2UVXrxPAn",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Whitney",
+        "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 291293,
+      "name": "I Wanna Dance with Somebody (Who Loves Me)",
+      "url": "https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj"
+    },
     {
       "added_at": null,
       "album": {
@@ -120,9 +136,9 @@
           "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
         }
       ],
-      "duration_ms": 291400,
-      "name": "Greatest Love of All",
-      "url": "https://open.spotify.com/track/6yJxCltgtmGxIgKOS6ndnu"
+      "duration_ms": 275533,
+      "name": "How Will I Know",
+      "url": "https://open.spotify.com/track/5tdKaKLnC4SgtDZ6RlWeal"
     },
     {
       "added_at": null,
@@ -304,9 +320,9 @@
           "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
         }
       ],
-      "duration_ms": 251426,
-      "name": "All The Man That I Need",
-      "url": "https://open.spotify.com/track/07M76e7IXxYdnC1BBiJxEX"
+      "duration_ms": 299426,
+      "name": "I'm Your Baby Tonight",
+      "url": "https://open.spotify.com/track/3SmPl0CGxvvkQCrTv7edEE"
     },
     {
       "added_at": null,
@@ -368,9 +384,9 @@
           "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
         }
       ],
-      "duration_ms": 299426,
-      "name": "I'm Your Baby Tonight",
-      "url": "https://open.spotify.com/track/3SmPl0CGxvvkQCrTv7edEE"
+      "duration_ms": 251426,
+      "name": "All The Man That I Need",
+      "url": "https://open.spotify.com/track/07M76e7IXxYdnC1BBiJxEX"
     },
     {
       "added_at": null,
@@ -763,26 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bobby",
-        "url": "https://open.spotify.com/album/6MBpIrXaNMdoTNrWchRpO7"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        },
-        {
-          "name": "Bobby Brown",
-          "url": "https://open.spotify.com/artist/62sPt3fswraiEPnKQpAbdE"
-        }
-      ],
-      "duration_ms": 299800,
-      "name": "Something In Common",
-      "url": "https://open.spotify.com/track/3D6xxbFiyPRduSUowHbjSP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Bodyguard - Original Soundtrack Album",
         "url": "https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96"
       },
@@ -835,22 +831,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Whitney",
-        "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 256200,
-      "name": "You're Still My Man",
-      "url": "https://open.spotify.com/track/2csRQWI7A2FjLYBQBiAIoi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Wanna Dance With Somebody (The Movie: Whitney New, Classic and Reimagined)",
         "url": "https://open.spotify.com/album/00EjgohJGEYfe4vP35LVOv"
       },
@@ -867,6 +847,26 @@
       "duration_ms": 259053,
       "name": "If You Say My Eyes Are Beautiful (with Jermaine Jackson)",
       "url": "https://open.spotify.com/track/0iDSjpKH1oJdPbvNYjbUmH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Whitney Houston",
+        "url": "https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        },
+        {
+          "name": "Jermaine Jackson",
+          "url": "https://open.spotify.com/artist/1VDurPMbOKrNU8mcMP4X1P"
+        }
+      ],
+      "duration_ms": 228093,
+      "name": "Nobody Loves Me Like You Do (with Jermaine Jackson)",
+      "url": "https://open.spotify.com/track/72NcOvvGdarZaOyKMNHZ1m"
     }
   ],
   "unique_name": "This Is Whitney Houston",

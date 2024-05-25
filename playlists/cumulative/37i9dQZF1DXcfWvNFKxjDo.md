@@ -4,7 +4,7 @@
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Timmy Trumpet, Sam Feldt
 
-1,539 songs - 2 day 23 hr 16 min
+1,540 songs - 2 day 23 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -904,6 +904,7 @@
 | [My Body](https://open.spotify.com/track/3Xa11anZWV00L8cB0dtJpL) | [LOVRA](https://open.spotify.com/artist/4fIPBdK4awAR1W14u3v1J5) | [My Body](https://open.spotify.com/album/1jhvdy1WLUr4L0sutlzutg) | 2:02 | 2023-11-09 | 2023-11-18 |
 | [My City](https://open.spotify.com/track/5sjvmFMLPjBXDd2XDr9JIm) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Prophecy](https://open.spotify.com/artist/03O6WINYmDJRCE2EUFaykv) | [My City](https://open.spotify.com/album/0qmEnrR9K8ho8OrxvS6rKe) | 2:31 | 2024-05-16 |  |
 | [My Gasoline](https://open.spotify.com/track/6dyfsauAoa5qN0tj9JKamE) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [Fēlēs](https://open.spotify.com/artist/7akxhVMmCpSDFw152XqCu6) | [My Gasoline](https://open.spotify.com/album/0EaF9YPTmGw5K9ndExhQ7a) | 3:56 | 2023-08-31 | 2023-09-08 |
+| [My Girl \(with Da Tweekaz\)](https://open.spotify.com/track/2bzvrWspouWjonF0iQb7Tf) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Da Tweekaz](https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6) | [My Girl \(with Da Tweekaz\)](https://open.spotify.com/album/0Xj5todrbov5QKusXz2qmA) | 3:10 | 2024-05-24 |  |
 | [My Gravity](https://open.spotify.com/track/03PtgZwlFwUNIv7nEENgry) | [Paul Keen](https://open.spotify.com/artist/4pDTUbU3HuTpPwm1jjS0iF), [TurnTableTimmie](https://open.spotify.com/artist/7JdQTQaBacQLCGIOiOGaSX), [Ladina Viva](https://open.spotify.com/artist/6KIl9XHyJDDXbQLnbTf5wm) | [My Gravity](https://open.spotify.com/album/4AgsvlV1sEygl8QpRoh9yQ) | 2:19 | 2023-10-19 | 2023-11-11 |
 | [My Life Not Yours](https://open.spotify.com/track/29yJkrgZMOFZKA3tStqeyR) | [NOTSOBAD](https://open.spotify.com/artist/2aLLYZ0sdqweMEPFUyYIXJ) | [My Life Not Yours](https://open.spotify.com/album/3AYxUsmCtcPyoF9EptqtPX) | 2:11 | 2024-01-25 | 2024-02-02 |
 | [My Love](https://open.spotify.com/track/5a7BTIy1zD3JlxQaB3y9vj) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [CLMD](https://open.spotify.com/artist/7LiVklVR1325BIOqD9kykr), [Gia Koka](https://open.spotify.com/artist/71WExccCBN2mw0klSzfYzz) | [My Love](https://open.spotify.com/album/774PJ8bDv2kJIY8Y1RB00c) | 2:31 | 2023-09-14 | 2023-09-29 |

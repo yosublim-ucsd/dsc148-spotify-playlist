@@ -4,7 +4,7 @@
 
 > killer rock & alternative covers\. Cover: Paramore
 
-355 songs - 23 hr 2 min
+356 songs - 23 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,7 @@
 | [Everything She Wants](https://open.spotify.com/track/01pR1krOFbSYfTbSaxYHq0) | [Alien Ant Farm](https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO) | [Everything She Wants](https://open.spotify.com/album/5fCJH4JORE9qWixhlniKem) | 3:41 | 2020-12-16 | 2022-07-29 |
 | [Fade Into You](https://open.spotify.com/track/0v55XuHDYNj4ELPzpRnNo0) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Falling In](https://open.spotify.com/album/59ZFxwkLZ1vUJJVqHTdXEU) | 5:15 | 2022-03-25 |  |
 | [Faith](https://open.spotify.com/track/5MYsvAONqcsIVOwu2HTQ3p) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Three Dollar Bill, Y'all $](https://open.spotify.com/album/3I34EprFC0rlAO4pKNeX1t) | 2:26 | 2022-06-17 | 2024-04-19 |
-| [Faith](https://open.spotify.com/track/3zZQg2DLezm194cTeGQuOD) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Greatest Hitz](https://open.spotify.com/album/1RylctYsdF1nIN4Vn916Tc) | 2:26 | 2020-12-16 |  |
+| [Faith](https://open.spotify.com/track/3zZQg2DLezm194cTeGQuOD) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Greatest Hitz](https://open.spotify.com/album/1RylctYsdF1nIN4Vn916Tc) | 2:26 | 2020-12-16 | 2024-05-25 |
 | [Feeling Good](https://open.spotify.com/track/4QTZCaX7Xs1hiApvK93dpF) | [Crown Lands](https://open.spotify.com/artist/0MnazDWzh4tAnT5y4vWZFr) | [Feeling Good](https://open.spotify.com/album/0Ybt2bnCBFHh8opWZE0ITt) | 4:35 | 2022-03-25 | 2022-04-18 |
 | [Feeling Good](https://open.spotify.com/track/5Yj4AP0JGQWierBFKdKVyS) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Origin of Symmetry](https://open.spotify.com/album/1AP6uGYHdakRgwuWQsP5pK) | 3:18 | 2022-03-25 |  |
 | [Fly Away](https://open.spotify.com/track/1exxuu9LFRjU12jZFmYjc5) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Fly Away](https://open.spotify.com/album/4bEqT3WEG6xMGuHs5XPEbr) | 3:30 | 2020-12-16 | 2022-07-29 |
@@ -136,6 +136,7 @@
 | [Higher Ground \- Remastered 2003](https://open.spotify.com/track/5arVt2Wg0zbiWwAOZef2Nl) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Mother's Milk](https://open.spotify.com/album/1oOkcBu5bgkUzZTvKD1m8z) | 3:22 | 2020-12-16 |  |
 | [Highway to Hell \(feat\. Bruce Springsteen & Eddie Vedder\)](https://open.spotify.com/track/30BltpTtw0lEHf34NesoUu) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT), [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh) | [Highway to Hell \(feat\. Bruce Springsteen & Eddie Vedder\)](https://open.spotify.com/album/60qUFi2mJQWWvBONczWFLa) | 3:31 | 2021-08-04 |  |
 | [Holding Out for a Hero \- Stripped](https://open.spotify.com/track/5N9LUibd7Fwxa7y2hEzGU6) | [Kelsy Karter & The Heroines](https://open.spotify.com/artist/2mAAO54PkHr3NjdlRpzEDl) | [Holding Out for a Hero \(Stripped\)](https://open.spotify.com/album/03v7PCLu8jomBjLh96hPG4) | 2:49 | 2023-11-17 |  |
+| [Hooked On A Feeling \- Spotify Singles](https://open.spotify.com/track/7t8vTwXLc7EZqTo9t88LTH) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Hooked On A Feeling \- Spotify Singles](https://open.spotify.com/album/4jlPlNZFyZa1bCFRp2N7fn) | 2:14 | 2024-05-24 |  |
 | [House of the Rising Sun](https://open.spotify.com/track/0KxKNPHZpOLvJaT8ATekoT) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [The Wrong Side of Heaven and the Righteous Side of Hell, Vol\. 2](https://open.spotify.com/album/4cf8wfqub8gibjfGhLAieK) | 4:07 | 2023-06-30 | 2024-04-19 |
 | [House of the Rising Sun](https://open.spotify.com/track/2SgQsZIWs0UC01ibNOBu7q) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [The Wrong Side of Heaven and the Righteous Side of Hell, Vol\. 2](https://open.spotify.com/album/6cNLSrGEjnrEhV5valjcYD) | 4:07 | 2022-06-17 | 2023-08-20 |
 | [House of The Rising Sun](https://open.spotify.com/track/4ZmX8elKMkH0MfniNi0Adu) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [The Wrong Side Of Heaven And The Righteous Side Of Hell, Volume 2](https://open.spotify.com/album/0RP9MT74WH7Yis10EO7tZS) | 4:07 | 2020-12-16 |  |

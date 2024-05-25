@@ -1,6 +1,6 @@
 {
   "description": "All the classic songs you love\u2014covered. Cover: Brandi Carlile",
-  "num_followers": 681546,
+  "num_followers": 681603,
   "original_name": "Classic Covers",
   "owner": {
     "name": "Spotify",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2024-01-09 15:49:37",
       "album": {
+        "name": "Won't You Be My Neighbor? (A Benefit For Refugee Aid)",
+        "url": "https://open.spotify.com/album/7mr65EthWJRSzJ6AvoIj3S"
+      },
+      "artists": [
+        {
+          "name": "Anthony D'Amato",
+          "url": "https://open.spotify.com/artist/1oplL2hHYq7CQykvSbd6gy"
+        }
+      ],
+      "duration_ms": 192927,
+      "name": "I Won't Back Down",
+      "url": "https://open.spotify.com/track/0ty4f4slQKbXZnPrcHWHsu"
+    },
+    {
+      "added_at": "2024-01-09 15:49:37",
+      "album": {
         "name": "Rita Wilson Now & Forever: Duets",
         "url": "https://open.spotify.com/album/3HjYQdV5p5j8SoXIaAr6C0"
       },
@@ -1383,22 +1399,6 @@
       "duration_ms": 293066,
       "name": "Slip Slidin' Away",
       "url": "https://open.spotify.com/track/6AR6KJkyuFJT4dgPEd7VMo"
-    },
-    {
-      "added_at": "2024-01-09 15:49:37",
-      "album": {
-        "name": "Won't You Be My Neighbor? (A Benefit For Refugee Aid)",
-        "url": "https://open.spotify.com/album/7mr65EthWJRSzJ6AvoIj3S"
-      },
-      "artists": [
-        {
-          "name": "Anthony D'Amato",
-          "url": "https://open.spotify.com/artist/1oplL2hHYq7CQykvSbd6gy"
-        }
-      ],
-      "duration_ms": 192927,
-      "name": "I Won't Back Down",
-      "url": "https://open.spotify.com/track/0ty4f4slQKbXZnPrcHWHsu"
     },
     {
       "added_at": "2024-01-09 15:49:37",

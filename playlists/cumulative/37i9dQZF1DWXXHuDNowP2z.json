@@ -23,6 +23,28 @@
     },
     {
       "album": {
+        "name": "A LA ORDEN",
+        "url": "https://open.spotify.com/album/0qmW400K0VgJ28CuBx8InD"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Yahir Saldivar",
+          "url": "https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175058,
+      "name": "A LA ORDEN",
+      "url": "https://open.spotify.com/track/0rodUDZZo1w7pZHHoTtUb7"
+    },
+    {
+      "album": {
         "name": "Vuelvo Contigo",
         "url": "https://open.spotify.com/album/3Bqrpyh09jij3b2SiqzQlU"
       },
@@ -208,7 +230,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 224285,
       "name": "ALV",
       "url": "https://open.spotify.com/track/32hCeeK3ayPux4UauNPsgA"
@@ -248,6 +270,24 @@
       "duration_ms": 240500,
       "name": "Amanda Cierrale - Live Session",
       "url": "https://open.spotify.com/track/1JrP6eV81Lm9X3JzRw9PNy"
+    },
+    {
+      "album": {
+        "name": "Memorias <3",
+        "url": "https://open.spotify.com/album/7I35dC3g7n1Uv7h1Yn7EXA"
+      },
+      "artists": [
+        {
+          "name": "emmanuellcortess_",
+          "url": "https://open.spotify.com/artist/7hDt3OE2ubsKzO9rMYPXox"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202058,
+      "name": "Amor",
+      "url": "https://open.spotify.com/track/0hkoQgoqic1qQtxPOudmrx"
     },
     {
       "album": {
@@ -493,6 +533,24 @@
     },
     {
       "album": {
+        "name": "Canto De Un \u00c1ngel",
+        "url": "https://open.spotify.com/album/5N9sWdRqI0IMXKHt5KfaB0"
+      },
+      "artists": [
+        {
+          "name": "Raymix",
+          "url": "https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223026,
+      "name": "Canto De Un \u00c1ngel",
+      "url": "https://open.spotify.com/track/6ArNLEMZUN1mVmWr3jsoXT"
+    },
+    {
+      "album": {
         "name": "CARALUNA",
         "url": "https://open.spotify.com/album/5TY4XLG0oRzjliAbQ8V4cH"
       },
@@ -580,7 +638,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 180491,
       "name": "Chimenea - En Vivo",
       "url": "https://open.spotify.com/track/1cgLvBPuUENkEPApSFpt30"
@@ -856,7 +914,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 194265,
       "name": "Cumbia Pa' Bailar",
       "url": "https://open.spotify.com/track/1da0RHxAqFEFikCqJaA8x0"
@@ -1578,7 +1636,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 252000,
       "name": "El P\u00e1vido N\u00e1vido",
       "url": "https://open.spotify.com/track/0sTV1ucJEAj8M15YJQCLsR"
@@ -1891,6 +1949,24 @@
     },
     {
       "album": {
+        "name": "En Mi Defensa",
+        "url": "https://open.spotify.com/album/2oS87aZVLDkJOResbJgX9W"
+      },
+      "artists": [
+        {
+          "name": "R\u00e9gulo Caro",
+          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186500,
+      "name": "En Mi Defensa",
+      "url": "https://open.spotify.com/track/73Ssnz5NOJwYpKw2OWXv7p"
+    },
+    {
+      "album": {
         "name": "Pa' La Pista y Pa'l Pisto, Vol. 2",
         "url": "https://open.spotify.com/album/5TEuiPGD4Gpmy7mE3nfHPI"
       },
@@ -1978,7 +2054,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 216550,
       "name": "Es Viernes",
       "url": "https://open.spotify.com/track/6SXlVEDXV7bMS4A3kbAGlc"
@@ -2126,7 +2202,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 175355,
       "name": "Existo",
       "url": "https://open.spotify.com/track/7ITHQze4eUbzMRJyi40dLN"
@@ -2619,6 +2695,24 @@
     },
     {
       "album": {
+        "name": "Jaripeyeras De Coraz\u00f3n (En Vivo)",
+        "url": "https://open.spotify.com/album/6GdBitcgCUldSO0pYSw8yW"
+      },
+      "artists": [
+        {
+          "name": "Kikin y Los Astros",
+          "url": "https://open.spotify.com/artist/5esNpX3rlw42k8Lc8BWCYx"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212374,
+      "name": "Jaripeyeras De Coraz\u00f3n - En Vivo",
+      "url": "https://open.spotify.com/track/6I4tIQfGWrTpNBNcb6xNdZ"
+    },
+    {
+      "album": {
         "name": "Desqu\u00edtate Conmigo",
         "url": "https://open.spotify.com/album/3khJ0CsPZTkhU2PidmUk6S"
       },
@@ -2872,7 +2966,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 224933,
       "name": "La Chica Sexy",
       "url": "https://open.spotify.com/track/2kSIYlXbNK6JQ8F2n8TDLW"
@@ -3038,7 +3132,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 300733,
       "name": "La Del Mo\u00f1o Colorado",
       "url": "https://open.spotify.com/track/4fkCG6ZvZ4oFHnNJQmD0lE"
@@ -3720,6 +3814,46 @@
       "duration_ms": 217495,
       "name": "Locamente Enamorado",
       "url": "https://open.spotify.com/track/6dxjiCfpcppozI6xVrPqJl"
+    },
+    {
+      "album": {
+        "name": "Los Cacahuatazos",
+        "url": "https://open.spotify.com/album/3kdv2NDNPtHRmGvzFxnAB2"
+      },
+      "artists": [
+        {
+          "name": "La Autorizaci\u00f3n",
+          "url": "https://open.spotify.com/artist/1V9705vd14WxDwXeTp2TYJ"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165194,
+      "name": "Los Cacahuatazos",
+      "url": "https://open.spotify.com/track/5uGTO3PtMdZPsLw6xqTjoc"
+    },
+    {
+      "album": {
+        "name": "LOS DOS",
+        "url": "https://open.spotify.com/album/5jBDqTxBaTjgnDQA1m8Z3T"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        },
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214735,
+      "name": "LOS DOS",
+      "url": "https://open.spotify.com/track/0wbPydD5UUkau6EKhtBqjM"
     },
     {
       "album": {
@@ -4549,6 +4683,28 @@
     },
     {
       "album": {
+        "name": "Perdonarte, \u00bfPara Qu\u00e9?",
+        "url": "https://open.spotify.com/album/1fXZxmn9aUIo5Zjx8zQFol"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        },
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193933,
+      "name": "Perdonarte, \u00bfPara Qu\u00e9?",
+      "url": "https://open.spotify.com/track/4dLLdfiniBhDP9dlJQIOi4"
+    },
+    {
+      "album": {
         "name": "En Vivo Desde Hacienda Heights",
         "url": "https://open.spotify.com/album/6nQUTyzVC8h10TDOEf9tYl"
       },
@@ -4814,7 +4970,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 200232,
       "name": "Qu\u00e9 Pensaste",
       "url": "https://open.spotify.com/track/1qde1NqHQno17MdNziaYmN"
@@ -5168,6 +5324,24 @@
       "duration_ms": 224396,
       "name": "Tongoneaito",
       "url": "https://open.spotify.com/track/13nitMCnQQCcpvcI03KQrE"
+    },
+    {
+      "album": {
+        "name": "Tristes Recuerdos",
+        "url": "https://open.spotify.com/album/6kSt9SQ1mkG7hUwX16Dlc0"
+      },
+      "artists": [
+        {
+          "name": "Marqua Y Su Combo",
+          "url": "https://open.spotify.com/artist/2PZsKRXlw0K1IYyjRFJEEv"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178723,
+      "name": "Tristes Recuerdos",
+      "url": "https://open.spotify.com/track/0RVq2Gc0ujeOVMFZgWhLAT"
     },
     {
       "album": {

@@ -3114,7 +3114,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 228590,
       "name": "Bl\u00e5 Himmel (feat. Hans Philip)",
       "url": "https://open.spotify.com/track/0qA2qykpcGdVl3tiiYum4g"
@@ -12486,7 +12486,7 @@
       ],
       "date_added": "2024-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-19",
+      "date_removed": null,
       "duration_ms": 194660,
       "name": "Hun",
       "url": "https://open.spotify.com/track/6ZC9iIWBCy4VtBhoY1YTuR"
@@ -12946,6 +12946,24 @@
       "duration_ms": 226248,
       "name": "Hvor Vi Henne",
       "url": "https://open.spotify.com/track/0sGnRfUImz5TqgK2x4sx6B"
+    },
+    {
+      "album": {
+        "name": "HVORFOR STOP",
+        "url": "https://open.spotify.com/album/1MpdWY66Jb1ZtjvBVxst3z"
+      },
+      "artists": [
+        {
+          "name": "Ude Af Kontrol",
+          "url": "https://open.spotify.com/artist/2ZbyyCS8KLKsuoNlxc76Ev"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161153,
+      "name": "HVORFOR STOP",
+      "url": "https://open.spotify.com/track/5qmEfb067N8MUT94qHkcX5"
     },
     {
       "album": {
@@ -27010,7 +27028,7 @@
       ],
       "date_added": "2024-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 233456,
       "name": "TEXAS HOLD 'EM",
       "url": "https://open.spotify.com/track/7wLShogStyDeZvL0a6daN5"

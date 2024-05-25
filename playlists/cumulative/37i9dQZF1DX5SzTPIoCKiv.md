@@ -2,9 +2,9 @@
 
 ### [Christian Mix](https://open.spotify.com/playlist/37i9dQZF1DX5SzTPIoCKiv)
 
-> Recent smashes from your favorite Christian Contemporary artists\.  Cover: Mac Powell
+> Recent smashes from your favorite Christian Contemporary artists\.  Cover: Seph Schlueter
 
-232 songs - 15 hr 16 min
+234 songs - 15 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Confidence](https://open.spotify.com/track/6sToW2vF0y8ZEXuHoMQob9) | [Sanctus Real](https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj) | [Changed](https://open.spotify.com/album/1GGV9IZO83uLgRE0VYx0dx) | 3:01 | 2021-10-15 |  |
 | [Control \(Somehow You Want Me\)](https://open.spotify.com/track/0pAPFaE1Iwfvex9EVJuQlG) | [Tenth Avenue North](https://open.spotify.com/artist/7v35CkHBaT1SStgQHl95a0) | [Followers](https://open.spotify.com/album/4Hjjqd2cPyD9K8TbSC9O6C) | 4:08 | 2021-10-15 |  |
 | [Count on Me](https://open.spotify.com/track/2IQGuX6Tz6iuwLbfA3zk6Y) | [The Young Escape](https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW) | [Count on Me](https://open.spotify.com/album/1QURUAttDWCBlv3Av7WpMq) | 3:46 | 2021-10-15 | 2022-07-25 |
+| [Counting My Blessings](https://open.spotify.com/track/7fncKHVMe7fKcrOGN9MRuq) | [Seph Schlueter](https://open.spotify.com/artist/3rdJD72bitczKtW5yNgAA4) | [Stay](https://open.spotify.com/album/7rzmRYz4bw46oHvESwkTuv) | 3:29 | 2024-05-24 |  |
 | [Dead Man Walking](https://open.spotify.com/track/1z5YtEopKg5pyjCM3BEsr5) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk) | [The Story's Not Over](https://open.spotify.com/album/3gSR4A397QFdzyvO2qihm3) | 3:07 | 2021-10-15 |  |
 | [Death Was Arrested](https://open.spotify.com/track/7eBybNhcjCylloMZT2QjQE) | [North Point Worship](https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1), [Seth Condrey](https://open.spotify.com/artist/4DeiqSO9kyWDr1KuQTYMVg) | [Death Was Arrested](https://open.spotify.com/album/7JnYzgXFC4jEM0XFtwRdK9) | 4:53 | 2021-10-15 | 2022-07-24 |
 | [Death Was Arrested \(feat\. Seth Condrey\)](https://open.spotify.com/track/1rXQLRlZfNTj8uaxIsEZQi) | [North Point Worship](https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1), [Seth Condrey](https://open.spotify.com/artist/4DeiqSO9kyWDr1KuQTYMVg) | [Death Was Arrested \(feat\. Seth Condrey\)](https://open.spotify.com/album/4MkIi2td3gzbKS3fgNqvJr) | 4:55 | 2021-10-15 | 2024-04-19 |
@@ -61,7 +62,7 @@
 | [Don't Quit](https://open.spotify.com/track/7Astyw7Pvb7a7VgmtZM25Y) | [Jordan Smith](https://open.spotify.com/artist/6TV0LZ3BaEun0OQEh96elP) | [Don't Quit](https://open.spotify.com/album/3N6aAb9jiFxqb1xDevsLdS) | 4:44 | 2021-10-15 | 2022-07-28 |
 | [Don't You Dare](https://open.spotify.com/track/41Yp3rSMdCjPIaDFb0LSa5) | [Ginny Owens](https://open.spotify.com/artist/2mVoAGALkIviYCkBDNDKcn) | [Expressions II: Wonder](https://open.spotify.com/album/0Q78D0tJYKfFhIBRuEQaqu) | 4:17 | 2021-10-15 | 2022-07-27 |
 | [Dusty Road](https://open.spotify.com/track/2YpIziXbqt5XVQfjGQamLY) | [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN) | [Dusty Road](https://open.spotify.com/album/498FsuSGrpsPOXb4qgsQrN) | 3:24 | 2021-10-15 | 2022-06-04 |
-| [E6 \- Hot Mix](https://open.spotify.com/track/5wQMXr2mmNfnMUtgR7A8hi) | [Evvie McKinney](https://open.spotify.com/artist/7G7JWOsGhDMily2HtfzcIZ) | [E6 \(Hot Mix\)](https://open.spotify.com/album/3VWh2UjLcYbic1FFmkzL9B) | 3:30 | 2021-10-15 |  |
+| [E6 \- Hot Mix](https://open.spotify.com/track/5wQMXr2mmNfnMUtgR7A8hi) | [Evvie McKinney](https://open.spotify.com/artist/7G7JWOsGhDMily2HtfzcIZ) | [E6 \(Hot Mix\)](https://open.spotify.com/album/3VWh2UjLcYbic1FFmkzL9B) | 3:30 | 2021-10-15 | 2024-05-25 |
 | [Endless Alleluia](https://open.spotify.com/track/0mqDhUDKwpnDvIFoQYR524) | [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU) | [Reckless Love](https://open.spotify.com/album/63fUIyRGFTFdVlDMTT5tLB) | 4:25 | 2021-10-15 |  |
 | [Even If](https://open.spotify.com/track/1zNkDuAsIpMf9vAMxeZ8Ih) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [Lifer](https://open.spotify.com/album/3KVlZJCLMdeU43OwSU0Hac) | 4:15 | 2021-10-15 | 2024-04-19 |
 | [Even If](https://open.spotify.com/track/787cootcZRw5Xr47Of97AN) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [Lifer](https://open.spotify.com/album/0PcT8mmJZRU6H1HXeChS2H) | 4:15 | 2021-10-15 | 2022-07-29 |
@@ -128,6 +129,7 @@
 | [Keep Me In The Moment \- Radio Version](https://open.spotify.com/track/2c87x3mBYuffK4ihylVwAG) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk) | [Keep Me In The Moment \(Radio Version\)](https://open.spotify.com/album/3oqTEcAfMzfN861Fearp4G) | 3:27 | 2021-10-15 |  |
 | [King Of Kings](https://open.spotify.com/track/6kmhapLx51lmwhIIDFsUQU) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [King Of Kings](https://open.spotify.com/album/30RfU2mnzbrCsnZA4TSCcY) | 4:25 | 2021-10-15 | 2024-01-05 |
 | [King Of The World](https://open.spotify.com/track/2sHDB7pY43GVTsl0X3ob1B) | [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh) | [Be One \(Deluxe Version\)](https://open.spotify.com/album/1BA61ZwyerWAKW9hsPMAlt) | 3:36 | 2023-02-18 |  |
+| [Lead On Good Shepherd](https://open.spotify.com/track/4pamu1hc1av1c4BhY8Wh3j) | [Patrick Mayberry](https://open.spotify.com/artist/4ry1oelvTLzDwOKVxLpzwo), [Zahriya Zachary](https://open.spotify.com/artist/4yKfjUNdXjRX2fHUEgoL5L) | [Lead On Good Shepherd](https://open.spotify.com/album/0kU2cgMwYC02qZ9YigsHBO) | 3:23 | 2024-05-24 |  |
 | [Let It Rain \(Is There Anybody\)](https://open.spotify.com/track/3Rf7ZckSUqSffVhHmiwOde) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu), [Mandisa](https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3) | [I Know A Ghost](https://open.spotify.com/album/7JiKelPfVrHUCRNsu6k9lq) | 3:29 | 2021-10-15 |  |
 | [Like A Kid](https://open.spotify.com/track/6GsZ4HTLTKZR9PHLDMJOfO) | [Landry Cantrell](https://open.spotify.com/artist/6WYJ7U3mOA7bzOMkkkT3N6) | [Glasshouse](https://open.spotify.com/album/0Te9CCKeQNk5RfuqFyvt5W) | 3:45 | 2021-10-15 | 2022-07-27 |
 | [Like You Love Me](https://open.spotify.com/track/33bqWsuJvnjTgAYr8DMadN) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Citizen of Heaven](https://open.spotify.com/album/7o7x7p8emSxFJXS2ECj1Us) | 3:30 | 2021-10-15 |  |
@@ -186,7 +188,7 @@
 | [Resurrecting \(Studio Version\)](https://open.spotify.com/track/4m3rBNZbDBZ5adk4EnDi4s) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Resurrecting \- EP](https://open.spotify.com/album/0Pw8f54MEx8sIYpMYrIQSn) | 4:24 | 2021-10-15 | 2022-07-05 |
 | [Revelation Song \- Live](https://open.spotify.com/track/35msHwn81uKQS5Jn783oSU) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [Passion: Let The Future Begin \(Deluxe Edition\)](https://open.spotify.com/album/6FdImKs7ZL5y2pi1x2Kea3) | 8:28 | 2023-02-18 |  |
 | [Rise Up \(Lazarus\)](https://open.spotify.com/track/5whJyPtbKSw3BNU61o9sPE) | [CAIN](https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq), [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ) | [Rise Up \(Lazarus\)](https://open.spotify.com/album/6YY0P901PKubs9nGoysyiZ) | 3:25 | 2021-10-15 |  |
-| [River Of Life](https://open.spotify.com/track/3K0JbVAbnkVTfxlShlREjc) | [Mac Powell](https://open.spotify.com/artist/5X77nNxT45eR0OshjmAvKa) | [New Creation](https://open.spotify.com/album/47wcUSZJCn9vQ1LQr2iZtk) | 2:49 | 2021-10-15 |  |
+| [River Of Life](https://open.spotify.com/track/3K0JbVAbnkVTfxlShlREjc) | [Mac Powell](https://open.spotify.com/artist/5X77nNxT45eR0OshjmAvKa) | [New Creation](https://open.spotify.com/album/47wcUSZJCn9vQ1LQr2iZtk) | 2:49 | 2021-10-15 | 2024-05-25 |
 | [River Of Life](https://open.spotify.com/track/0B1GuT4svftHFzZ8wXcBau) | [Mac Powell](https://open.spotify.com/artist/5X77nNxT45eR0OshjmAvKa) | [River Of Life](https://open.spotify.com/album/6vF3ktUVSaC3IEtZHZwU3b) | 2:49 | 2021-10-15 | 2022-07-28 |
 | [Roses](https://open.spotify.com/track/3HnuBJfiwfMKaeunoyN4YA) | [Andrew Ripp](https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN) | [Evergreen](https://open.spotify.com/album/7ebIxlhEADsL5NNiWmRRuk) | 4:02 | 2021-10-15 |  |
 | [Same God](https://open.spotify.com/track/3kHh1th3S2di1tg5XoZTzU) | [Hannah Kerr](https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq) | [Same God](https://open.spotify.com/album/294x9L2GHOfyL9k0Ufo1qh) | 3:49 | 2021-10-15 |  |

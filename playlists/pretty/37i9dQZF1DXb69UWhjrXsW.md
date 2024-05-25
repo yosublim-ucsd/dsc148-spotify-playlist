@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb69UWhjrXsW.md) - [plain]
 
 > The greatest songs in the history of cinema\. Cover: Cruel Intentions
 
-[Spotify](https://open.spotify.com/user/spotify) - 888,702 likes - 100 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 888,886 likes - 100 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb69UWhjrXsW.md) - [plain]
 | 24 | [My Favorite Things](https://open.spotify.com/track/702fAWRsLomCKFROeMfKZd) | [Julie Andrews](https://open.spotify.com/artist/5RdqZVi36tpDPYNPw8jJbO), [Charmian Carr](https://open.spotify.com/artist/0mvTBNG2hAuAEzUVgTYpQ2), [Heather Menzies](https://open.spotify.com/artist/54dXJA9AzCTXZ8gmX0nX6T), [Nicholas Hammond](https://open.spotify.com/artist/0JSadiWcHiwpHQhq8DhXJl), [Duane Chase](https://open.spotify.com/artist/0QWBkbHktK9RQYaMSZnZ01), [Angela Cartwright](https://open.spotify.com/artist/5wPIr3J58uJUeU9Xu2mOuc), [Debbie Turner](https://open.spotify.com/artist/4HiH23Ui1OvUZfRp5YBQxs), [Kym Karath](https://open.spotify.com/artist/2RqZ8Pqz6WmjR3VmQF9dgA) | [The Sound Of Music \(50th Anniversary Edition\)](https://open.spotify.com/album/6p9jUvfQvXHAzStDArgYj5) | 4:12 |
 | 25 | [Take My Breath Away \- Love Theme from "Top Gun"](https://open.spotify.com/track/15MJ5NThPjj6xhPcts8MiY) | [Berlin](https://open.spotify.com/artist/2aS6jYh7ysTL1ZUsHneNgM) | [Top Gun \- Motion Picture Soundtrack \(Special Expanded Edition\)](https://open.spotify.com/album/6K8iDZW8jPaoiqSzFFebJA) | 4:15 |
 | 26 | [Iris](https://open.spotify.com/track/6vrUTGn5p8IrfTZ0J6sIVM) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Greatest Hits Volume One \- The Singles](https://open.spotify.com/album/0UccZZgelTAbbk3OSPZymO) | 4:49 |
-| 27 | [Stayin' Alive](https://open.spotify.com/track/2xSXw1EqGSAKc1e4TPaQvV) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [Saturday Night Fever \(The Original Movie Soundtrack Deluxe Edition\)](https://open.spotify.com/album/3xaCKtqadm4KnviPFKEjs7) | 4:44 |
+| 27 | [Stayin' Alive \- From "Saturday Night Fever" Soundtrack](https://open.spotify.com/track/2xSXw1EqGSAKc1e4TPaQvV) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [Saturday Night Fever \(The Original Movie Soundtrack Deluxe Edition\)](https://open.spotify.com/album/3xaCKtqadm4KnviPFKEjs7) | 4:44 |
 | 28 | [Happy \- From "Despicable Me 2"](https://open.spotify.com/track/60nZcImufyMA1MKQY3dcCH) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [G I R L](https://open.spotify.com/album/0lrmy4pJINsFzycJvttX2W) | 3:52 |
 | 29 | [The Way We Were](https://open.spotify.com/track/1vZTgn4JXWMahR8r99ug5H) | [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6) | [The Way We Were](https://open.spotify.com/album/0vTu2dD57pVlPvd3pfxUSS) | 3:31 |
 | 30 | [I Will Always Love You](https://open.spotify.com/track/4eHbdreAnSOrDDsFfc4Fpm) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [The Bodyguard \- Original Soundtrack Album](https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96) | 4:31 |

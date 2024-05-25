@@ -4,7 +4,7 @@
 
 > Warm indie dance vibes, the music you need at golden hour.
 
-479 songs - 1 day 6 hr 29 min
+481 songs - 1 day 6 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,8 +29,9 @@
 | [Alone in the Mountains](https://open.spotify.com/track/2Ug0yCvg19wxkpwALYWzHi) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Alone in the Mountains](https://open.spotify.com/album/7oGOnYxXUMTH8BGooDqsC4) | 3:16 | 2023-04-21 |  |
 | [Antidote](https://open.spotify.com/track/5WTeFqk3rVakNfKSsZQYrF) | [Amo Amo](https://open.spotify.com/artist/6IXFZ8obsCsz6YcPuPwSSm) | [Antidote](https://open.spotify.com/album/3u6dsqF6OwR0UtwQXAt5XX) | 4:53 | 2020-12-22 | 2022-07-29 |
 | [Anxious](https://open.spotify.com/track/1Ym5VTu587kLmzWFzS4ePa) | [Holy Ghost!](https://open.spotify.com/artist/2Vhc7Y0Kc6HzMC6glKM4h6) | [Anxious](https://open.spotify.com/album/3XitazgHhYwNBfccOAeVte) | 4:45 | 2020-12-22 | 2022-04-21 |
-| [As It Was](https://open.spotify.com/track/1i92UFFkxtKv4tYNzt1X1b) | [PREP](https://open.spotify.com/artist/31SBgHxc8eqZUk9MdveH42) | [As It Was](https://open.spotify.com/album/58i1O2d95vxAnDhkySrVOU) | 3:46 | 2023-11-17 |  |
+| [As It Was](https://open.spotify.com/track/1i92UFFkxtKv4tYNzt1X1b) | [PREP](https://open.spotify.com/artist/31SBgHxc8eqZUk9MdveH42) | [As It Was](https://open.spotify.com/album/58i1O2d95vxAnDhkySrVOU) | 3:46 | 2023-11-17 | 2024-05-25 |
 | [Attrape\-rêve](https://open.spotify.com/track/0aTaTaROrLwQokUSudVKIe) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Feel Good](https://open.spotify.com/album/10H4nbqjbmrGo4bG23dfWK) | 3:44 | 2020-12-22 | 2022-06-15 |
+| [Automatic](https://open.spotify.com/track/4SNHeDCR40LwXL16BfzmpX) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Automatic](https://open.spotify.com/album/5vADgMWFWWTBPwexXjBEAi) | 3:39 | 2024-05-24 |  |
 | [Awaken \(Feel Alive\)](https://open.spotify.com/track/1p6AQlMFpnH4hmhrSfoQ3k) | [Big Wild](https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA), [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Awaken \(Feel Alive\)](https://open.spotify.com/album/3G2IDH5CJxDMVaX8mQ9kVp) | 3:00 | 2022-05-13 | 2022-06-04 |
 | [Baby It's You](https://open.spotify.com/track/3Yoy8R29IewKS8sO80L4XB) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [Baby It's You](https://open.spotify.com/album/1X25p3GpzvOSH8oupRUh0t) | 4:02 | 2020-12-22 | 2022-04-14 |
 | [Baby It's You](https://open.spotify.com/track/4hevTIy9B4g2ebKwYMrq6T) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [Baby It's You](https://open.spotify.com/album/7GgGpETDvC5GH4kEusX8cQ) | 4:02 | 2020-12-22 | 2022-04-21 |
@@ -114,6 +115,7 @@
 | [Drift](https://open.spotify.com/track/7nF0GGmgvZ0ViSocnGr2zZ) | [Benji Lewis](https://open.spotify.com/artist/1BPsbKiNgav1TY1ITIU8C5) | [Home For Now](https://open.spotify.com/album/5C08sWlLMLwp1QWfPZH9Yo) | 3:42 | 2020-12-22 | 2023-01-27 |
 | [Dynasty](https://open.spotify.com/track/1UglHGkDf43W58XZKdnqbE) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM) | [Through the Walls](https://open.spotify.com/album/58NWdqyxvKIUlzHEXqfeiv) | 3:21 | 2020-12-22 | 2022-04-20 |
 | [easy breezy](https://open.spotify.com/track/1eXzN85vuVH3VpDJlsrH8j) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [easy breezy](https://open.spotify.com/album/3oiZnlQEBv4kVT0yoSr86S) | 3:19 | 2023-11-10 | 2024-01-06 |
+| [Eating Heartache \(feat\. spill tab\)](https://open.spotify.com/track/6av2VhdqgE87rHJVaqtOfS) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL), [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Stop Thinking Start Feeling](https://open.spotify.com/album/1m3JuJHtgpkuoMFtxCpoSS) | 2:42 | 2024-05-24 |  |
 | [Ecstasy](https://open.spotify.com/track/5wzGHgamBPcqrWwuhGDfam) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Ecstasy](https://open.spotify.com/album/6BcSwoWKyFgB4CoVIYLxac) | 5:03 | 2020-12-22 | 2022-04-19 |
 | [Electric Fish](https://open.spotify.com/track/2i90BhQ6Mfvrd8yHRTHyZx) | [Ana Frango Elétrico](https://open.spotify.com/artist/7uvxsk688pwnBNA62cTKS1) | [Me Chama De Gato Que Eu Sou Sua](https://open.spotify.com/album/6UZpK4jB5MYVYJpwwi2mbP) | 4:12 | 2023-11-24 | 2024-03-02 |
 | [Electric Soul](https://open.spotify.com/track/3bhwkMjQpHAHWjbYt17mEv) | [Maddie Moon](https://open.spotify.com/artist/4Bpw0DO4ri8ngNl38rLkDS) | [Melancholy](https://open.spotify.com/album/4vW0eQKEuPKQmiL1dS59iI) | 2:20 | 2024-01-26 |  |
@@ -338,7 +340,7 @@
 | [Pink & Blue](https://open.spotify.com/track/1TJqHWEHHQ7Z5mJ0P6rXqq) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry), [Saint Sinner](https://open.spotify.com/artist/0DoWlk1NzQp1VWVFtZOb8Y) | [Weather](https://open.spotify.com/album/1mRyfDR7Dc55GbC8V3kVis) | 4:19 | 2020-12-22 | 2022-04-19 |
 | [Pizza Guy](https://open.spotify.com/track/1bq6eYt2tdB5rSkwXgiwgD) | [Touch Sensitive](https://open.spotify.com/artist/2OC53Inn0G9QwWM7CM0G5Z) | [Pizza Guy / Show Me](https://open.spotify.com/album/41wUvXg0GwaIv8qsUii790) | 5:49 | 2020-12-22 | 2023-12-11 |
 | [Pizza Guy](https://open.spotify.com/track/434qlyPFJd5FWpJ72eB3VL) | [Touch Sensitive](https://open.spotify.com/artist/2OC53Inn0G9QwWM7CM0G5Z) | [Pizza Guy / Show Me](https://open.spotify.com/album/7JnjKZH4ztUn2MtYhrCFWz) | 5:49 | 2024-01-05 | 2024-03-02 |
-| [PLACES](https://open.spotify.com/track/3eSmjY0PxxTlX6UxRDKaul) | [The Blaze](https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos) | [DANCEHALL](https://open.spotify.com/album/4Ekdf8v7lFV5c3zIdtpyjY) | 3:34 | 2020-12-22 |  |
+| [PLACES](https://open.spotify.com/track/3eSmjY0PxxTlX6UxRDKaul) | [The Blaze](https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos) | [DANCEHALL](https://open.spotify.com/album/4Ekdf8v7lFV5c3zIdtpyjY) | 3:34 | 2020-12-22 | 2024-05-25 |
 | [Pon Pón](https://open.spotify.com/track/41c8iFH2Q8n87lkrlaRZ1X) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [A LA SALA](https://open.spotify.com/album/1PeC1ckDJSzYHkwo6JHbP2) | 2:58 | 2024-04-26 |  |
 | [Pool Party](https://open.spotify.com/track/43ArUDXPIOqF4R3w2TjfxZ) | [nite swim](https://open.spotify.com/artist/4JoqKyiPAsXMuc8mkF25Ju) | [Pool Party](https://open.spotify.com/album/3FoihGlEHr7U6IKp1NyGlF) | 3:26 | 2020-12-22 | 2022-07-23 |
 | [Pressure](https://open.spotify.com/track/1T80qAVK3nXJAsEdnuppbp) | [Photay](https://open.spotify.com/artist/1MSxOmIt7uYgvPydd1tU8F) | [Waking Hours](https://open.spotify.com/album/0ZJ8jsAUo8z3d8nVjNl3aN) | 5:18 | 2020-12-22 | 2022-07-29 |

@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,621 songs - 4 day 15 hr 30 min
+1,622 songs - 4 day 15 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -447,6 +447,7 @@
 | [Favourite Place](https://open.spotify.com/track/36bQ9KQlmwNZnccm7MMjjP) | [edapollo](https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm), [Fractures](https://open.spotify.com/artist/7sjRnhONmeFL1tmlUvdq70) | [Favourite Place](https://open.spotify.com/album/0hi96KFhhFchURSGce2nq1) | 3:00 | 2024-01-26 |  |
 | [Favours](https://open.spotify.com/track/2qw0O8LXratT32TdreMuup) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [Nat Dunn](https://open.spotify.com/artist/6uNiUxDeo17yUnA472Zhni) | [Between Us](https://open.spotify.com/album/3BFj0MO4iiDBggZXcJ5k4D) | 3:54 | 2020-03-20 | 2020-06-12 |
 | [Faxing Berlin](https://open.spotify.com/track/2xFnqwhg3eY69bM6M7kVbv) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx) | [Random Album Title](https://open.spotify.com/album/26OQwhLRLkFpFp3OJ873w7) | 8:41 | 2020-05-22 | 2020-07-03 |
+| [Feel](https://open.spotify.com/track/5mMCnnycAkho18eZmZIDwi) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Feel](https://open.spotify.com/album/1xr54fLjHQSPjOF3MF6pEm) | 3:39 | 2024-05-24 |  |
 | [Feel](https://open.spotify.com/track/5o5N0Mdh10WHKeQyUD93tU) | [Sizzle Bird](https://open.spotify.com/artist/6HL3uLHjsLddvoSXVGDfbQ) | [Feel](https://open.spotify.com/album/3T6Ap9r2qjJFSf5ODg1RB0) | 3:01 | 2020-05-18 | 2020-07-18 |
 | [Feel](https://open.spotify.com/track/4MBi2Nry64OPYJQXFL5Vqa) | [Sébastien Léger](https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp) | [Feel EP](https://open.spotify.com/album/64Uoup86wYHFgyjE5Nxoxx) | 9:12 | 2021-08-06 | 2022-04-21 |
 | [Feel Again \- anamē Remix](https://open.spotify.com/track/5PNBQvJZ8psgufkJMnthTN) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII), [anamē](https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi) | [Feel Again \(Remixes\)](https://open.spotify.com/album/4JDUbnbF8WAebdHNWTdDID) | 4:44 | 2023-12-22 |  |
@@ -1205,7 +1206,7 @@
 | [Run For Your Life \(Interlude\)](https://open.spotify.com/track/3X5cgqoizZxxohjeNqoL2k) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP) | [NOVA](https://open.spotify.com/album/7GpuEZzRrPT4IGiEuWaBzy) | 2:22 | 2020-05-18 | 2022-04-21 |
 | [Runaway \- CS Remix](https://open.spotify.com/track/7L1N3v6DULT0wEh8JUVLpI) | [Henry Land](https://open.spotify.com/artist/04m6PNXckfHHQqDHK92NKh), [ODA](https://open.spotify.com/artist/0YwZx5vGf17WMCi6KdOt4U), [CS](https://open.spotify.com/artist/0jMeMO3jOeDhJsWbzyi0BX) | [Runaway \(Remixes\)](https://open.spotify.com/album/0o6h3NFMcYv1WWDKgXPcbu) | 3:47 | 2020-05-19 | 2020-07-03 |
 | [Running](https://open.spotify.com/track/2sFOzyRqcN5fKXPrZJjoc2) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [Running](https://open.spotify.com/album/4Hj5CeXqyFNj3WizYuTa8T) | 3:52 | 2022-09-23 | 2022-10-13 |
-| [Running In A Dream](https://open.spotify.com/track/4wXTePdTVHsFKowOVLVCbs) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb), [Kasbo](https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq), [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [Running In A Dream](https://open.spotify.com/album/0QwLVfeowQtETeolwF7V5x) | 4:29 | 2023-12-01 |  |
+| [Running In A Dream](https://open.spotify.com/track/4wXTePdTVHsFKowOVLVCbs) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb), [Kasbo](https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq), [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [Running In A Dream](https://open.spotify.com/album/0QwLVfeowQtETeolwF7V5x) | 4:29 | 2023-12-01 | 2024-05-25 |
 | [Running Out \- Samuraii Remix](https://open.spotify.com/track/3bu38wOOaBOOf4OYi23R6a) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq), [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm), [Samuraii](https://open.spotify.com/artist/2yNQvjEbPVQzceNCU1L2AO) | [Running Out Remix EP](https://open.spotify.com/album/4JbiALxW6KGF20S8kfGJD2) | 2:54 | 2020-05-18 | 2020-07-18 |
 | [Ryat](https://open.spotify.com/track/7GA8fQLArH3685QEhNIwOD) | [ATTLAS](https://open.spotify.com/artist/0jM4IKp6YlTxq8tNDH9fX3) | [Bloom EP](https://open.spotify.com/album/1gJbw5p7ohUbTq0gtGxzOD) | 4:03 | 2020-05-18 | 2020-10-10 |
 | [Safe \- Joris Voorn Remix](https://open.spotify.com/track/2cVGCUx6xnmcdIz2Ns9OLw) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa), [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU) | [Safe \(Joris Voorn Remix\)](https://open.spotify.com/album/4E3pSvdTWyLs6K9saNu97L) | 4:54 | 2022-03-18 | 2023-09-09 |

@@ -974,7 +974,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 225388,
       "name": "CUFF IT",
       "url": "https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS"
@@ -1014,6 +1014,28 @@
       "duration_ms": 172920,
       "name": "Dance With You",
       "url": "https://open.spotify.com/track/2pgAIjDHGyhCiljwR8cHA6"
+    },
+    {
+      "album": {
+        "name": "Deal With Love",
+        "url": "https://open.spotify.com/album/0lWEcyqe1x63wdfzVpGgS8"
+      },
+      "artists": [
+        {
+          "name": "M\u00f8me",
+          "url": "https://open.spotify.com/artist/4lDXfIznmGueBgTjI3qGUX"
+        },
+        {
+          "name": "Paco Versailles",
+          "url": "https://open.spotify.com/artist/5VptPtXbT0T4imW6GcobiW"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272000,
+      "name": "Deal With Love",
+      "url": "https://open.spotify.com/track/32JvxnUlvQEtPY9SCRXwK3"
     },
     {
       "album": {
@@ -3190,7 +3212,7 @@
       ],
       "date_added": "2021-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 204823,
       "name": "Love If You Need It (feat. Fi McCluskey) - Mousse T.'s Classic Shizzle",
       "url": "https://open.spotify.com/track/1MQ1gkmAvEE0hIuPlyeaCz"
@@ -3615,6 +3637,24 @@
     },
     {
       "album": {
+        "name": "MUY FINITO",
+        "url": "https://open.spotify.com/album/5PDJxIcBMtjti0J23ayqlj"
+      },
+      "artists": [
+        {
+          "name": "Never Dull",
+          "url": "https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165875,
+      "name": "MUY FINITO",
+      "url": "https://open.spotify.com/track/4xHkNofcMKGYJ8gzQLBzAW"
+    },
+    {
+      "album": {
         "name": "My All",
         "url": "https://open.spotify.com/album/1OcLyVBjgU7apJ6hAumLkH"
       },
@@ -3634,6 +3674,24 @@
       "duration_ms": 240691,
       "name": "My All",
       "url": "https://open.spotify.com/track/59InWAMIhtGPeN29gH5DjH"
+    },
+    {
+      "album": {
+        "name": "My General",
+        "url": "https://open.spotify.com/album/2Ct37AYoKgP9tcjHLsdK33"
+      },
+      "artists": [
+        {
+          "name": "Abel Balder",
+          "url": "https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228118,
+      "name": "My General",
+      "url": "https://open.spotify.com/track/705T4qya7JTqU47oJaipeZ"
     },
     {
       "album": {
@@ -4892,7 +4950,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 181477,
       "name": "Substitution (feat. Julian Perretta)",
       "url": "https://open.spotify.com/track/2F2p7b5Xq20mRyEeWYaeUF"

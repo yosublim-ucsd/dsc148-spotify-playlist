@@ -118,7 +118,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 186534,
       "name": "100 Yrs",
       "url": "https://open.spotify.com/track/4KCIIUBjU0mfYQmZGnGg5o"
@@ -734,7 +734,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 130190,
       "name": "Again",
       "url": "https://open.spotify.com/track/0UpdzAadhUQrtVnvPk27TF"
@@ -1928,7 +1928,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 172235,
       "name": "Bitch Duh (Remix)",
       "url": "https://open.spotify.com/track/4mu8JZ7AQKkSYk1DNBKjZT"
@@ -3861,6 +3861,28 @@
     },
     {
       "album": {
+        "name": "Elegant",
+        "url": "https://open.spotify.com/album/4BMGdKiwQdey6Y3pKQJGRD"
+      },
+      "artists": [
+        {
+          "name": "Southside",
+          "url": "https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN"
+        },
+        {
+          "name": "LUCKI",
+          "url": "https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157297,
+      "name": "Elegant",
+      "url": "https://open.spotify.com/track/5urtbbacJkW1vfkwidsR8V"
+    },
+    {
+      "album": {
         "name": "Elon Musk (feat. Gunna)",
         "url": "https://open.spotify.com/album/5AviR59jAHiYp4Up3hj0bw"
       },
@@ -4594,6 +4616,24 @@
       "duration_ms": 185502,
       "name": "Fresh",
       "url": "https://open.spotify.com/track/6AF1EXOhKE8VxOmyN995uG"
+    },
+    {
+      "album": {
+        "name": "From That Way",
+        "url": "https://open.spotify.com/album/6UKhM2YEeUmC8z9vV5bU8A"
+      },
+      "artists": [
+        {
+          "name": "Icewear Vezzo",
+          "url": "https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180031,
+      "name": "From That Way",
+      "url": "https://open.spotify.com/track/7EnHTtFwTtXoQ4ZRae8tY7"
     },
     {
       "album": {
@@ -6324,6 +6364,24 @@
       "duration_ms": 235725,
       "name": "Hustlaz",
       "url": "https://open.spotify.com/track/5mV02eybPC77hODuGYd054"
+    },
+    {
+      "album": {
+        "name": "I Ain\u2019t Done Yet",
+        "url": "https://open.spotify.com/album/4z9eSqqeu1ywW7S6f5UYeI"
+      },
+      "artists": [
+        {
+          "name": "YN Jay",
+          "url": "https://open.spotify.com/artist/3gIWD9hK0VEhgsSrLu19PU"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146808,
+      "name": "I Ain\u2019t Done Yet",
+      "url": "https://open.spotify.com/track/5N5SRBufLOm9aNa28nWqxT"
     },
     {
       "album": {
@@ -8610,7 +8668,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 202788,
       "name": "Mike Jack (feat. G Herbo & Rob49)",
       "url": "https://open.spotify.com/track/5PqtvOUAjO6XXSbGcvA7Oo"
@@ -8756,7 +8814,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-03",
+      "date_removed": null,
       "duration_ms": 234893,
       "name": "Misfit (feat. Polo G)",
       "url": "https://open.spotify.com/track/2sVOlqoAXmVtFweGWmFZUq"
@@ -9924,6 +9982,24 @@
       "duration_ms": 114264,
       "name": "Opps Block",
       "url": "https://open.spotify.com/track/7yDzPmFZ356mCmahvNZXHD"
+    },
+    {
+      "album": {
+        "name": "#FreeMyHoodFuckYoHood",
+        "url": "https://open.spotify.com/album/7wlu5wQlVFvT4emQsSZAlQ"
+      },
+      "artists": [
+        {
+          "name": "VonOff1700",
+          "url": "https://open.spotify.com/artist/47UhY4DqayBiq2gp43WOcZ"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102047,
+      "name": "Opps On Deck",
+      "url": "https://open.spotify.com/track/7tEZ2SJzxEpfVXkIPHj8zl"
     },
     {
       "album": {
@@ -11965,6 +12041,28 @@
     },
     {
       "album": {
+        "name": "In Sexyy We Trust",
+        "url": "https://open.spotify.com/album/5PmtX9B5vNa4uaiXQVn4Gx"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        },
+        {
+          "name": "VonOff1700",
+          "url": "https://open.spotify.com/artist/47UhY4DqayBiq2gp43WOcZ"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164002,
+      "name": "Sexyy Love Money (feat. VonOff1700)",
+      "url": "https://open.spotify.com/track/0wrhW3tAAt7w9Y09CazT16"
+    },
+    {
+      "album": {
         "name": "Shake That A$$ Baby",
         "url": "https://open.spotify.com/album/5VcgQj0bTAhewQa9FhJyy5"
       },
@@ -12644,7 +12742,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 167915,
       "name": "Sorrys & Ferraris",
       "url": "https://open.spotify.com/track/0tCqfQ0MHZBYvsZ169ZnUM"
@@ -14054,7 +14152,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 179206,
       "name": "This That Typa (featuring Peezy)",
       "url": "https://open.spotify.com/track/1mHp02bNdtwV6E6Cqp5cJd"
@@ -14332,7 +14430,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 179200,
       "name": "Together",
       "url": "https://open.spotify.com/track/57pOyrIbZjxLqRbME7haSW"
@@ -14640,6 +14738,28 @@
       "duration_ms": 228266,
       "name": "Type Shit",
       "url": "https://open.spotify.com/track/28drn6tQo95MRvO0jQEo5C"
+    },
+    {
+      "album": {
+        "name": "In Sexyy We Trust",
+        "url": "https://open.spotify.com/album/5PmtX9B5vNa4uaiXQVn4Gx"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225132,
+      "name": "U My Everything (feat. Drake)",
+      "url": "https://open.spotify.com/track/1TgStpMGTflN84asKJ8VU3"
     },
     {
       "album": {

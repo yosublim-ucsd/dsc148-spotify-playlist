@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFk5r8uS3l2.md) - [plain]
 
 > You've come to the crossroads of soul, folk, and the blues\. Cover: Amythyst Kiah
 
-[Spotify](https://open.spotify.com/user/spotify) - 443,452 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 443,508 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [If I Were You](https://open.spotify.com/track/5liq5qOK5I5xS7yfyfR22A) | [Luke Winslow\-King](https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC) | [If I Were You](https://open.spotify.com/album/6ftNejmDvsTlBidilwPDOm) | 4:12 |
-| 2 | [Leave the Light On](https://open.spotify.com/track/4smQ0i6j6gH4Yly2qUcuqZ) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Leave The Light On](https://open.spotify.com/album/0XzophZTU9CMVqTudEZVWo) | 3:19 |
-| 3 | [In The Pines](https://open.spotify.com/track/5HTRW7oVRwE0ZxYkYfQ6Vo) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [In The Pines](https://open.spotify.com/album/1OzEgLG6ww4gtGzIwkNvp8) | 3:30 |
-| 4 | [Trouble \(Sunday Version\)](https://open.spotify.com/track/3ePUzOCiAf8o8q34KZA6tN) | [Miko Marks](https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs), [The Resurrectors](https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5), [Mark Lettieri](https://open.spotify.com/artist/3USL7r0FYOWUiTPQGz3HpP) | [Feel Like Going Home \(Deluxe Version\)](https://open.spotify.com/album/5dWdL988AdroD2DvuJ3wjw) | 3:05 |
-| 5 | [Digging the Hole](https://open.spotify.com/track/2j3LYpiK18HPUXK4MqTq0e) | [Chris Smither](https://open.spotify.com/artist/4PM86aECDhcdwuJNZNrR22) | [Digging the Hole](https://open.spotify.com/album/2NlTw9xQM5HIjCgk1rMxBx) | 2:34 |
-| 6 | [Numb](https://open.spotify.com/track/5rsnfjFFkwpWWKVSYOEjoH) | [Bad Flamingo](https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE) | [Numb](https://open.spotify.com/album/6VEMeSXgvoxGKNC8dHOsg5) | 2:13 |
+| 1 | [Hole](https://open.spotify.com/track/2jZcVKNkG5JMAXSRDumflt) | [Bad Flamingo](https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE) | [Hole](https://open.spotify.com/album/3pu464f772FhbYLE5KaYlk) | 3:53 |
+| 2 | [If I Were You](https://open.spotify.com/track/5liq5qOK5I5xS7yfyfR22A) | [Luke Winslow\-King](https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC) | [If I Were You](https://open.spotify.com/album/6ftNejmDvsTlBidilwPDOm) | 4:12 |
+| 3 | [Leave the Light On](https://open.spotify.com/track/4smQ0i6j6gH4Yly2qUcuqZ) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Leave The Light On](https://open.spotify.com/album/0XzophZTU9CMVqTudEZVWo) | 3:19 |
+| 4 | [In The Pines](https://open.spotify.com/track/5HTRW7oVRwE0ZxYkYfQ6Vo) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [In The Pines](https://open.spotify.com/album/1OzEgLG6ww4gtGzIwkNvp8) | 3:30 |
+| 5 | [Trouble \(Sunday Version\)](https://open.spotify.com/track/3ePUzOCiAf8o8q34KZA6tN) | [Miko Marks](https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs), [The Resurrectors](https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5), [Mark Lettieri](https://open.spotify.com/artist/3USL7r0FYOWUiTPQGz3HpP) | [Feel Like Going Home \(Deluxe Version\)](https://open.spotify.com/album/5dWdL988AdroD2DvuJ3wjw) | 3:05 |
+| 6 | [Digging the Hole](https://open.spotify.com/track/2j3LYpiK18HPUXK4MqTq0e) | [Chris Smither](https://open.spotify.com/artist/4PM86aECDhcdwuJNZNrR22) | [Digging the Hole](https://open.spotify.com/album/2NlTw9xQM5HIjCgk1rMxBx) | 2:34 |
 | 7 | [Little Heartbreak Girl](https://open.spotify.com/track/1mbtYYDO3E6kVogF9Mv9iP) | [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC) | [Little Heartbreak Girl](https://open.spotify.com/album/5ubfzzKMnqxjv2Wa3JGe21) | 4:18 |
 | 8 | [Stealing A Kiss](https://open.spotify.com/track/5kdZiJ0KIPEyQ42xLj61Gt) | [The War And Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Stealing A Kiss](https://open.spotify.com/album/5i9nk8WvKRe0d78UaCba9u) | 4:55 |
 | 9 | [ALLIIGATOR TEARS](https://open.spotify.com/track/1LSWDkZxVngIpfjvMs6Q56) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 2:59 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFk5r8uS3l2.md) - [plain]
 | 99 | [Freedom Road](https://open.spotify.com/track/5zRlD6bPTJI0zBvqMJ2H95) | [Indra Rios\-Moore](https://open.spotify.com/artist/43WX6yWKK6qAqKCr2d3yw9) | [Freedom Road](https://open.spotify.com/album/3fN5DXHpo9ut4TmVAouTRG) | 3:43 |
 | 100 | [How Deep Is Your Love](https://open.spotify.com/track/5O7oXGr6wariuJbTNNX4oy) | [The Bros\. Landreth](https://open.spotify.com/artist/7aW0i5ASfG998fHzkNDniL) | [How Deep Is Your Love](https://open.spotify.com/album/4p2PP3RIx6tghBjEJZurTh) | 4:08 |
 
-Snapshot ID: `ZkbWfAAAAAB4JMeOLOMH1jtKvOhHOquz`
+Snapshot ID: `ZlAQwAAAAAB3bEG4pz+2ai5M36OMNFYL`

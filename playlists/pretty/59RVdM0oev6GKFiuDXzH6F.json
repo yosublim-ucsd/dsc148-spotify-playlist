@@ -1,12 +1,12 @@
 {
   "description": "Club tracks and dancefloor essentials. The best floor fillers. Change your living room to a nightclub with these tracks!",
-  "num_followers": 4174,
+  "num_followers": 4173,
   "original_name": "Tech House & Clubbing 2024",
   "owner": {
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "AAAOzFFfLTBEh9wLMmYZMe4ZDyqvllrW",
+  "snapshot_id": "AAAO0ISiiqrSLNyd8HEhGu5VrJZkB+eD",
   "tracks": [
     {
       "added_at": "2024-05-02 23:33:40",
@@ -171,7 +171,7 @@
     {
       "added_at": "2024-05-17 08:18:55",
       "album": {
-        "name": "My City",
+        "name": "My City (feat. Katy Tiz)",
         "url": "https://open.spotify.com/album/3xNEWVkFaNdnAPmC0M5J0c"
       },
       "artists": [
@@ -182,10 +182,14 @@
         {
           "name": "Prophecy",
           "url": "https://open.spotify.com/artist/03O6WINYmDJRCE2EUFaykv"
+        },
+        {
+          "name": "Katy Tiz",
+          "url": "https://open.spotify.com/artist/2E19mfEFhCr6UgZUYJGOEW"
         }
       ],
       "duration_ms": 151874,
-      "name": "My City",
+      "name": "My City (feat. Katy Tiz)",
       "url": "https://open.spotify.com/track/3G8UpeZbzVGRMJQD5Zn3mB"
     },
     {
@@ -481,6 +485,22 @@
       "url": "https://open.spotify.com/track/1MMrT4bXrtdpfUJfsRIZU7"
     },
     {
+      "added_at": "2024-05-24 14:31:49",
+      "album": {
+        "name": "Cruisin' Down Crenshaw EP",
+        "url": "https://open.spotify.com/album/08MQdiaBRvA9JtlU3f63D8"
+      },
+      "artists": [
+        {
+          "name": "Riley (UK)",
+          "url": "https://open.spotify.com/artist/41vJAAunDUYAg81pOkcWh3"
+        }
+      ],
+      "duration_ms": 396851,
+      "name": "Be You",
+      "url": "https://open.spotify.com/track/3DP7Vn2Oqw0ycl5IYb6NdO"
+    },
+    {
       "added_at": "2024-05-02 23:33:40",
       "album": {
         "name": "Push Me Down",
@@ -585,6 +605,26 @@
       "url": "https://open.spotify.com/track/6knUSEy7DCqqUbFoUIqffY"
     },
     {
+      "added_at": "2024-05-24 13:33:05",
+      "album": {
+        "name": "Bass Drum",
+        "url": "https://open.spotify.com/album/4Xt5yw6I8i7R8BPMbabHoL"
+      },
+      "artists": [
+        {
+          "name": "CGVE",
+          "url": "https://open.spotify.com/artist/0B4AlWqnBZwrDvvXjm71bZ"
+        },
+        {
+          "name": "Shamil",
+          "url": "https://open.spotify.com/artist/7IrZpbKw6j5L70Ymxr6ysg"
+        }
+      ],
+      "duration_ms": 153360,
+      "name": "Bass Drum",
+      "url": "https://open.spotify.com/track/5BNwl3ZruZS6LKjmBeid27"
+    },
+    {
       "added_at": "2024-05-17 14:57:20",
       "album": {
         "name": "Barah\u00fanda",
@@ -599,6 +639,22 @@
       "duration_ms": 139082,
       "name": "Barah\u00fanda",
       "url": "https://open.spotify.com/track/2ZuWHrPX5Qas5lQ4fqAcXS"
+    },
+    {
+      "added_at": "2024-05-24 14:17:35",
+      "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/4FR5GqDVSOv5GiuwDedjSZ"
+      },
+      "artists": [
+        {
+          "name": "Wildcard (US)",
+          "url": "https://open.spotify.com/artist/4kNI2d4AVNwPVcZNwgJFtr"
+        }
+      ],
+      "duration_ms": 210461,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/4UE5YjqaUALV8MVr9pJDfo"
     },
     {
       "added_at": "2024-05-13 15:18:31",
@@ -715,6 +771,22 @@
       "duration_ms": 245714,
       "name": "Vamo Que Vamo",
       "url": "https://open.spotify.com/track/4MezYLhoClZzEbL2wGAFq4"
+    },
+    {
+      "added_at": "2024-05-24 14:22:06",
+      "album": {
+        "name": "Play",
+        "url": "https://open.spotify.com/album/3lwbaoXT5j76EIiz5XmzAe"
+      },
+      "artists": [
+        {
+          "name": "Bassium",
+          "url": "https://open.spotify.com/artist/2W3Nv6Ej8jREhbxiTKK0lc"
+        }
+      ],
+      "duration_ms": 209288,
+      "name": "Play",
+      "url": "https://open.spotify.com/track/18iezdh9TvdsxBK5hdRlhv"
     },
     {
       "added_at": "2024-05-02 23:33:40",

@@ -4,7 +4,7 @@
 
 > Hit music from Ethiopia's finest.
 
-106 songs - 8 hr 3 min
+107 songs - 8 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,10 +17,11 @@
 | [Altelashim](https://open.spotify.com/track/4UISxp6gvMxGkjQfFbonuC) | [Abdu Kiar](https://open.spotify.com/artist/2B8c0XLWWKbFmgSKDruKk4) | [Tikur Anbessa](https://open.spotify.com/album/00p6FsZcNMhNMjJu3cc5p8) | 5:09 | 2018-10-04 | 2024-05-04 |
 | [Amsaya](https://open.spotify.com/track/5fMFrjOkltUkTKPlV7qtRM) | [Sami Dan](https://open.spotify.com/artist/6pmiKm0FnDKK5oIYrMCLRY) | [Qitsbet](https://open.spotify.com/album/0Cml7FJiuQWF4aaPrhBV5Y) | 4:12 | 2023-03-17 |  |
 | [Atiyo](https://open.spotify.com/track/1pNBlWJrub3pRPhoTtXf0j) | [Ephrem Amare](https://open.spotify.com/artist/6l7ED7MvvS43jtq5TUMB95) | [Atiyo](https://open.spotify.com/album/55td4C2TUwzbKOMWT12JwV) | 4:50 | 2020-06-05 |  |
-| [Atse Tewodros](https://open.spotify.com/track/00T2SlsSVzJSVYMmbAiclO) | [Teddy Afro](https://open.spotify.com/artist/08oMhAUN23C91R1zltrR6p) | [Ethiopia](https://open.spotify.com/album/4EVEPI1V6dWOEw2wN1ghmJ) | 7:57 | 2018-10-04 |  |
+| [Atse Tewodros](https://open.spotify.com/track/00T2SlsSVzJSVYMmbAiclO) | [Teddy Afro](https://open.spotify.com/artist/08oMhAUN23C91R1zltrR6p) | [Ethiopia](https://open.spotify.com/album/4EVEPI1V6dWOEw2wN1ghmJ) | 7:57 | 2018-10-04 | 2024-05-25 |
 | [Ayeneye](https://open.spotify.com/track/4wSz0N4SCEwdHolekBUdmv) | [Hayleyesus Feyssa](https://open.spotify.com/artist/4jYB05zmRJeaMatlpZTn9i) | [Yeaddis Ken Tsehay](https://open.spotify.com/album/77Nr43rl51Q1PsN78MlhCF) | 7:02 | 2020-06-05 |  |
 | [Aymelesem](https://open.spotify.com/track/5E1nojcspbVe6yrHVpiHz9) | [Lastarock](https://open.spotify.com/artist/2p1llRTtQY8IJPaTwPwW1x) | [Aymelesem](https://open.spotify.com/album/0aW55aqypy7Q01Ecorl9BZ) | 2:56 | 2023-08-14 |  |
 | [Aynama](https://open.spotify.com/track/6gf5wTdci9QTxjJfc8UDlf) | [Sol Romeyo](https://open.spotify.com/artist/4QK1PhAwLD8knsSXnXI9Cg), [Flashkiiddo](https://open.spotify.com/artist/63tu1CZybzgoXM2tPG7UE5) | [Aynama](https://open.spotify.com/album/2UG2pd1aBEDIFetK9Gm9na) | 4:00 | 2022-11-17 |  |
+| [AYZON](https://open.spotify.com/track/29nzNE7CyuywKJKBlt2deI) | [BiniZion](https://open.spotify.com/artist/0gP8OJt9A0EdaSAyuUhSEU), [Anteneh Minalu](https://open.spotify.com/artist/6dIY3ynRrBa1745sJFNgkY) | [AYZON](https://open.spotify.com/album/1Fuoeuwn8qldn6ATtrAUPD) | 4:32 | 2024-05-24 |  |
 | [Baby I Like You](https://open.spotify.com/track/2vHxbqyjmmWJbjXwA5vemN) | [Mikael](https://open.spotify.com/artist/6I5gAHP6D7Hq1nmwcJXRdK) | [Baby I Like You](https://open.spotify.com/album/7CqSOctRr8f69vJ0tf6Guf) | 1:55 | 2023-03-17 | 2024-04-20 |
 | [Bado](https://open.spotify.com/track/6DJRq42LKg4I0z0BWFPQZA) | [Betty G](https://open.spotify.com/artist/0DhTQscKk7XJt49yxEyqDV) | [Wegegta](https://open.spotify.com/album/0ZKMte07PAbDkYoMFP500R) | 3:13 | 2018-10-04 |  |
 | [Balgeru, Vol\. 3](https://open.spotify.com/track/35RzQeM58TA744ln3HaRDA) | [Ephrem Tamiru](https://open.spotify.com/artist/2R863D7ulLA8AJRllmiW60), [Gosayie Tesfaye](https://open.spotify.com/artist/5nUICzCLIY5eYGqvpttE9J) | [Nahom's Favorite, Vol\. 16](https://open.spotify.com/album/3ef6vyNLF0MGhFSZvLcXcL) | 6:37 | 2018-10-04 |  |

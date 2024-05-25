@@ -4457,6 +4457,28 @@
     },
     {
       "album": {
+        "name": "Where The Good Ones Go (feat. Jake Owen)",
+        "url": "https://open.spotify.com/album/6uySGsXuAevT2XU2GNejSj"
+      },
+      "artists": [
+        {
+          "name": "Chase Bryant",
+          "url": "https://open.spotify.com/artist/7io3MyhMxDZoBYXp4rlRFA"
+        },
+        {
+          "name": "Jake Owen",
+          "url": "https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271306,
+      "name": "Where The Good Ones Go (feat. Jake Owen)",
+      "url": "https://open.spotify.com/track/4qBdkbrHXpS7RcaINDQXyj"
+    },
+    {
+      "album": {
         "name": "Whites Creek",
         "url": "https://open.spotify.com/album/12GOHDbrW1upZa3bZcwZjX"
       },

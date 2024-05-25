@@ -4,7 +4,7 @@
 
 > A blend of new songs and artists in the soul space\. Cover: FKJ
 
-430 songs - 1 day 1 hr 25 min
+431 songs - 1 day 1 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,7 @@
 | [Dangerous Thing](https://open.spotify.com/track/2GoLjbOvkBlKxLXLiA4Vst) | [Jay Warren](https://open.spotify.com/artist/692sqZdmqkQjdCk87QECpd) | [Dangerous Thing](https://open.spotify.com/album/1OajkNiDeH1jVZV6lOYwOI) | 3:34 | 2021-12-16 | 2022-01-26 |
 | [Daughter Of The Sun](https://open.spotify.com/track/07x5IGHde3C9DdVGojqG5B) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Daughter Of The Sun](https://open.spotify.com/album/2vyy1M855VK7gP1yQF6AbS) | 3:57 | 2021-12-16 | 2022-10-15 |
 | [Dead Inside Shuffle](https://open.spotify.com/track/4imq60KskF2cm4WpYbwk9V) | [Louis Cole](https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH) | [Dead Inside Shuffle](https://open.spotify.com/album/6EWu0oVvV2cGBbF1KUUlk6) | 3:20 | 2022-09-29 | 2023-12-12 |
-| [Desire](https://open.spotify.com/track/3ocGQh1erdD9zAfijHMQZu) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Gold](https://open.spotify.com/album/67DWn1tZ245gendegv7Ioz) | 4:53 | 2023-10-06 |  |
+| [Desire](https://open.spotify.com/track/3ocGQh1erdD9zAfijHMQZu) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Gold](https://open.spotify.com/album/67DWn1tZ245gendegv7Ioz) | 4:53 | 2023-10-06 | 2024-05-25 |
 | [Dingaling](https://open.spotify.com/track/1upqTfjNfblLHKqasQAPc0) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [Dingaling](https://open.spotify.com/album/5aMRGlhrRsaVUIL25FRYsJ) | 3:20 | 2021-12-16 | 2022-10-15 |
 | [Don’t Count Me In](https://open.spotify.com/track/2k8tbt4jY1Nl5nY5CL7Heg) | [.multibeat](https://open.spotify.com/artist/4QQM0xwh18KQeE0CrnSqyj), [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn) | [Don’t Count Me In](https://open.spotify.com/album/38nOb3gb5ohG3WtRMZ32ZW) | 3:18 | 2024-01-17 |  |
 | [Downright](https://open.spotify.com/track/030k1bb2qwKTsBxPskfkB1) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR) | [Downright](https://open.spotify.com/album/5avhqr0GessrsdBSr82FIE) | 2:57 | 2022-05-19 | 2022-10-15 |
@@ -169,6 +169,7 @@
 | [Home](https://open.spotify.com/track/1ofGBwyRKtNKRi6NXRz1tg) | [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR), [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR), [Dylan Jones](https://open.spotify.com/artist/4XoX7Wk4oPECLHHbGNMfhG) | [Motherland Journey](https://open.spotify.com/album/1Ot6KlRfnV6vGwcQPpr6eg) | 3:35 | 2022-02-24 | 2023-02-18 |
 | [Home](https://open.spotify.com/track/2V1uSXkEy77WNk9ZL6IuxJ) | [K.ZIA](https://open.spotify.com/artist/3atSqEy99wAtJLRIrFdpMY) | [Genesis](https://open.spotify.com/album/4Pc3nWPVnnOQcMKRE53qYT) | 3:03 | 2022-11-03 | 2023-02-18 |
 | [Home](https://open.spotify.com/track/3wa8JC8fe9gtsrMj7pXiKz) | [K.ZIA](https://open.spotify.com/artist/3atSqEy99wAtJLRIrFdpMY) | [Genesis](https://open.spotify.com/album/0uqPboQOJKyyLKAx41LygI) | 3:03 | 2022-02-10 | 2022-11-20 |
+| [Home](https://open.spotify.com/track/0zo3jZ7I0wMugFsqgN1zQp) | [LULU.](https://open.spotify.com/artist/65hPbr4xlxQ3jLfAqKv0Ch) | [Dear Disorientated Soul](https://open.spotify.com/album/67zBPvAcphmzJxuYPpyeUQ) | 2:16 | 2024-05-24 |  |
 | [Hope](https://open.spotify.com/track/23bwujVYKeGdbcLd2LQxVo) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Collapsed In Sunbeams](https://open.spotify.com/album/42joEEymK7EIHODfNB4yug) | 4:30 | 2021-12-16 | 2022-02-11 |
 | [How Long](https://open.spotify.com/track/3kbDEejuDSeOS2biB43MNq) | [Shuko](https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10), [Nia Wyn](https://open.spotify.com/artist/6llDm40EBFJNERFGyWn2wH), [Pete Philly](https://open.spotify.com/artist/0DD1CBUI4ypYSqvKUyjNoO), [Keymer](https://open.spotify.com/artist/11KbGk05uR2COLPYEqehU3) | [How Long](https://open.spotify.com/album/7HUqyV0fOajsXvFxDvdHEO) | 3:33 | 2022-12-02 | 2024-02-10 |
 | [How Much Can A Heart Take \(feat\. Yebba\)](https://open.spotify.com/track/5SFssNXGjeOxdAnECfgttm) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J), [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Table For Two](https://open.spotify.com/album/0OPKA9Mrv6JFrTjC0KpvdT) | 5:02 | 2021-12-16 | 2022-04-29 |

@@ -611,6 +611,24 @@
     },
     {
       "album": {
+        "name": "Barbie (Can You Play Ken?)",
+        "url": "https://open.spotify.com/album/1jdlRluwOgkV2pT9n32V04"
+      },
+      "artists": [
+        {
+          "name": "lilster",
+          "url": "https://open.spotify.com/artist/2nCL53xQ71uzEmr6pZWuNM"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173735,
+      "name": "Barbie (Can You Play Ken?)",
+      "url": "https://open.spotify.com/track/4WGds8JfW57apo2HHLORop"
+    },
+    {
+      "album": {
         "name": "Bbl Drizzy",
         "url": "https://open.spotify.com/album/1NrONKqPMpofuPdoQdU4IU"
       },
@@ -4550,7 +4568,7 @@
       ],
       "date_added": "2024-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-23",
+      "date_removed": null,
       "duration_ms": 168355,
       "name": "Miles On It",
       "url": "https://open.spotify.com/track/4pkb8SbRGeHAvdb87v9rpf"
@@ -7790,7 +7808,7 @@
       ],
       "date_added": "2024-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 144604,
       "name": "Weakest Link",
       "url": "https://open.spotify.com/track/3PYqcDxuJkecEGCXQwt5H9"
@@ -8222,7 +8240,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 180979,
       "name": "ZARI",
       "url": "https://open.spotify.com/track/3wRgk5tGQzfNXtSawH8O3S"

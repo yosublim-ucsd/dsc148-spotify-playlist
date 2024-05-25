@@ -1,12 +1,12 @@
 {
-  "description": "This Is Eric Clapton. Los temas esenciales, todos en una lista.",
-  "num_followers": 348617,
+  "description": "This is Eric Clapton. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 348661,
   "original_name": "This Is Eric Clapton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zk01gAAAAAA2TFjYCVWHMgmpAhQipVkM",
+  "snapshot_id": "Zk6HAAAAAAC8kD2CYsN+c552Mak2Cx5R",
   "tracks": [
     {
       "added_at": null,
@@ -523,26 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Riding With The King",
-        "url": "https://open.spotify.com/album/7w0uQiYScm3ApS8cWXmf4c"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        },
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        }
-      ],
-      "duration_ms": 516533,
-      "name": "Three O'Clock Blues",
-      "url": "https://open.spotify.com/track/6lWxIJH0CyUtmFaIAeVmTQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Behind the Sun",
         "url": "https://open.spotify.com/album/5WX2WQT74bVZl9UqqY6LZT"
       },
@@ -979,6 +959,26 @@
       "duration_ms": 265546,
       "name": "Worried Life Blues",
       "url": "https://open.spotify.com/track/2fdhU7kBO3WVYkWJnYAlO3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Road to Escondido",
+        "url": "https://open.spotify.com/album/2w8NxQ2lUGDAjNGEvdJ079"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        },
+        {
+          "name": "J.J. Cale",
+          "url": "https://open.spotify.com/artist/06nsZ3qSOYZ2hPVIMcr1IN"
+        }
+      ],
+      "duration_ms": 275520,
+      "name": "Ride the River",
+      "url": "https://open.spotify.com/track/3sDSFcI1b35KqEEd0bDzBu"
     }
   ],
   "unique_name": "This Is Eric Clapton",

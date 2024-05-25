@@ -4,7 +4,7 @@
 
 > The jam scene is alive and well\. Cover: SunSquabi
 
-194 songs - 18 hr 10 min
+196 songs - 18 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,8 +51,9 @@
 | [Décharge](https://open.spotify.com/track/4RtJLZeu4b7PJb2RZN6O9r) | [BZSounds](https://open.spotify.com/artist/5sfU8PTosAbplqqVFQGwVH) | [Décharge](https://open.spotify.com/album/0u172cwRjrAKd9Us5lPC1u) | 3:27 | 2023-06-30 |  |
 | [East West \- Tchad Blake Remix](https://open.spotify.com/track/4EfV0VgqqgSyoXx0LaGT1H) | [The Third Mind](https://open.spotify.com/artist/1LkLIVstA1IoipK1nx0RAD), [Tchad Blake](https://open.spotify.com/artist/0CL5kQ3kBjgge3GQtIJAyp) | [East West \(Tchad Blake Remix\)](https://open.spotify.com/album/2yyye28bQHerBTQIw0c44D) | 17:03 | 2023-06-23 |  |
 | [Electric Taco Stand](https://open.spotify.com/track/2mMElb3GObwkGdVYtyT0nu) | [Spafford](https://open.spotify.com/artist/7fA0IDinGo27lmOeGy6oGV) | [Spafford](https://open.spotify.com/album/6XNKBFhh66GoOhMpOd8s05) | 4:23 | 2022-06-23 |  |
+| [Eleven](https://open.spotify.com/track/6RlUNmMWlEahnYd5XjBbxV) | [Lucid Evolution](https://open.spotify.com/artist/2dY5xy6PtZVgHwTKOjWQAC) | [Eleven](https://open.spotify.com/album/6yGgMNCo7J5Uiu4qTJSZ9h) | 5:18 | 2024-05-24 |  |
 | [Enjoy the Ride](https://open.spotify.com/track/4EAZKkjcKYdjm2Ms0cL1Mm) | [The Jauntee](https://open.spotify.com/artist/79iSQLNRiPa93oo3yYxAmN) | [Enjoy the Ride](https://open.spotify.com/album/5CfoFSPM4KCVjS6MbIEDZr) | 6:23 | 2022-06-23 |  |
-| [Evolve](https://open.spotify.com/track/6M7LYr6R248JrG3eoA0Xui) | [Phish](https://open.spotify.com/artist/5wbIWUzTPuTxTyG6ouQKqz) | [Evolve](https://open.spotify.com/album/0WEz9Ie0cx9AFaiM40bi4Q) | 4:12 | 2024-04-12 |  |
+| [Evolve](https://open.spotify.com/track/6M7LYr6R248JrG3eoA0Xui) | [Phish](https://open.spotify.com/artist/5wbIWUzTPuTxTyG6ouQKqz) | [Evolve](https://open.spotify.com/album/0WEz9Ie0cx9AFaiM40bi4Q) | 4:12 | 2024-04-12 | 2024-05-25 |
 | [Eyes of the World](https://open.spotify.com/track/2CYkIcN130a5sm4ObsUOA0) | [Kendall Street Company](https://open.spotify.com/artist/6AKT0nNWeP4Eb7ntkeBOj9) | [Eyes of the World](https://open.spotify.com/album/53NBbrnfy9ER5w3aX1KxNY) | 5:13 | 2023-06-30 | 2023-07-29 |
 | [Fact from Fiction](https://open.spotify.com/track/2vWHuNouTFcfkcOY7zQKZ9) | [The Fritz](https://open.spotify.com/artist/792UqbFMNV10U1J1onyAq8) | [Natural Mind](https://open.spotify.com/album/6MDZ1To0ibnc4VcKMMYhBj) | 8:25 | 2022-06-23 |  |
 | [Fannie](https://open.spotify.com/track/3L2U8GgZE0y2WX0z6cUYGX) | [Dopapod](https://open.spotify.com/artist/6ur6SxSBdRLBgehOIT2iwX) | [Dopapod](https://open.spotify.com/album/2LrH4Sm8KxA10mnUy3IcFA) | 4:07 | 2022-06-23 | 2023-04-22 |
@@ -126,6 +127,7 @@
 | [New Eyes](https://open.spotify.com/track/0iZyxYvHPplB3GTkfyXnkQ) | [Cbdb](https://open.spotify.com/artist/0Rt9ML8x5r1DFhSPAJhbwr) | [Joyfunk Is Dead](https://open.spotify.com/album/0SPbrfi5dOmewfhS0Ec2N7) | 2:53 | 2022-06-23 | 2023-05-06 |
 | [Not Just a Word](https://open.spotify.com/track/0h0VOIqGeMkGsho6OS9nkh) | [Papadosio](https://open.spotify.com/artist/22nCgEikczPLtGfDdpRroh) | [Not Just a Word](https://open.spotify.com/album/7bt6AjNv93TydZQbb6mqW1) | 5:38 | 2022-08-26 | 2023-06-03 |
 | [Nuff](https://open.spotify.com/track/0rkhQA2GnItdPJxgb0PKN7) | [Dopapod](https://open.spotify.com/artist/6ur6SxSBdRLBgehOIT2iwX) | [Dopapod](https://open.spotify.com/album/2LrH4Sm8KxA10mnUy3IcFA) | 5:04 | 2022-06-23 |  |
+| [Oblivion](https://open.spotify.com/track/6HvnPZNXaiaOzHldLAiOfE) | [Phish](https://open.spotify.com/artist/5wbIWUzTPuTxTyG6ouQKqz) | [Oblivion](https://open.spotify.com/album/6EEjJ6CtxuWLGW34oQkFXv) | 6:03 | 2024-05-24 |  |
 | [Off Leash](https://open.spotify.com/track/7APwVMzYErmKqvTkaHs3NS) | [The Magic Beans](https://open.spotify.com/artist/6v39xVS6Vpmnun982EF8XH) | [Off Leash](https://open.spotify.com/album/5DDz8IrNkVcyMVdSFdgODU) | 7:42 | 2022-06-23 |  |
 | [On and On](https://open.spotify.com/track/24DTU2rSsVkiehF2bxUKRL) | [Mike Stewart Theory](https://open.spotify.com/artist/7dXeiG15ERvFe3ojvuz3Wr) | [On and On](https://open.spotify.com/album/2eG0rnrlN26Bau8qgf1eKg) | 4:46 | 2023-06-23 |  |
 | [One More Time](https://open.spotify.com/track/4Kzi9HfJf8MbpvGIAZXSl6) | [The String Cheese Incident](https://open.spotify.com/artist/7N3JfLDzzjXdPbsyco7X0l) | [One More Time](https://open.spotify.com/album/2oW4uG3cuWhOAgJwuw6gZO) | 3:04 | 2023-07-07 | 2024-02-24 |
@@ -170,7 +172,7 @@
 | [The Only Thing](https://open.spotify.com/track/4nzCwV6pz7bvDBg9jlVtEM) | [Dave Matthews Band](https://open.spotify.com/artist/2TI7qyDE0QfyOlnbtfDo7L) | [Walk Around The Moon](https://open.spotify.com/album/2hCtza1F54WPNrX8MC1jRM) | 4:42 | 2023-05-19 | 2023-07-08 |
 | [The Road](https://open.spotify.com/track/3F2SdHEBSOZZPDKfkiP0k8) | [Backup Planet](https://open.spotify.com/artist/1Jc3wYtJwv8KMbo3Ct7aLD) | [Element](https://open.spotify.com/album/1M8jFuVLqJOlqYtOv1cdAI) | 7:13 | 2022-06-23 |  |
 | [The Saga of Milly and Fee Part I \- Peruvian Love Song](https://open.spotify.com/track/69m1VanYi7q6ZiDLuMucWJ) | [Ari Joshua](https://open.spotify.com/artist/3C9Z1YhnRr08CKRSZ7nEuV), [Russ Lawton](https://open.spotify.com/artist/2C4UBATq8DBVT4HBy4UBNE), [Ray Paczkowski](https://open.spotify.com/artist/5RCKLpu3QFZbFSagy35QcO), [Soule Monde](https://open.spotify.com/artist/7sag5QujhVfDU0hGeGDl3x) | [The Saga of Milly and Fee Part I \- Peruvian Love Song](https://open.spotify.com/album/2qF9GzUH5M7k5fvj4Rq1bB) | 1:10 | 2022-10-28 | 2023-04-22 |
-| [The Seed](https://open.spotify.com/track/1yMrLBFGC0TlBaL2Jk5eWo) | [Lucid Evolution](https://open.spotify.com/artist/2dY5xy6PtZVgHwTKOjWQAC) | [The Seed](https://open.spotify.com/album/7i6icaKn9TNM8k94CEFamu) | 7:02 | 2024-02-23 |  |
+| [The Seed](https://open.spotify.com/track/1yMrLBFGC0TlBaL2Jk5eWo) | [Lucid Evolution](https://open.spotify.com/artist/2dY5xy6PtZVgHwTKOjWQAC) | [The Seed](https://open.spotify.com/album/7i6icaKn9TNM8k94CEFamu) | 7:02 | 2024-02-23 | 2024-05-25 |
 | [The Wheel](https://open.spotify.com/track/1gQYm7VKVjc9ExTKVT409f) | [Plantasia](https://open.spotify.com/artist/7ahksytqjF7OhN0kFEZ2Du) | [The Wheel & The Witness](https://open.spotify.com/album/5ZXpDefilGS1vQOgV3P5vG) | 4:05 | 2022-10-07 |  |
 | [The World Is A Ghetto](https://open.spotify.com/track/184uLww2SrfPYRWs6RuyGN) | [Los Lobos](https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT) | [Native Sons](https://open.spotify.com/album/1uqu7aUJh1qONoGAI0Sd23) | 8:33 | 2022-07-01 | 2024-04-19 |
 | [The World Is A Ghetto](https://open.spotify.com/track/5yiEFVz2RhuNvi9msiw3oI) | [Los Lobos](https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT) | [Native Sons](https://open.spotify.com/album/2AH53pDM2S1jAggLLAueAM) | 8:33 | 2022-06-23 |  |

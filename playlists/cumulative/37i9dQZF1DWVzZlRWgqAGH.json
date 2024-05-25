@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-09-29",
-  "description": "Music for your soul. Cover: NxWorries",
+  "description": "Music for your soul. Cover: Capleton",
   "name": "BUTTER",
   "tracks": [
     {
@@ -4082,7 +4082,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 168244,
       "name": "Celebration",
       "url": "https://open.spotify.com/track/3mGOF4mH0WVlxcKfayGZam"
@@ -5280,6 +5280,28 @@
       "duration_ms": 305350,
       "name": "Dang! (feat. Anderson .Paak)",
       "url": "https://open.spotify.com/track/5iUQMwxUPdJBFeGkePtM66"
+    },
+    {
+      "album": {
+        "name": "dangerous game",
+        "url": "https://open.spotify.com/album/50vOO58Z9Sdf5k8ms9l9Cj"
+      },
+      "artists": [
+        {
+          "name": "ESTA.",
+          "url": "https://open.spotify.com/artist/4KZmpaIhanIo46eaQimtgO"
+        },
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230936,
+      "name": "dangerous game",
+      "url": "https://open.spotify.com/track/0drf8c8YvWVvs3aFY5iBrp"
     },
     {
       "album": {
@@ -8612,7 +8634,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 171218,
       "name": "Get Close",
       "url": "https://open.spotify.com/track/0Ani0foia32xeSDE2MdHWM"
@@ -12108,6 +12130,24 @@
       "duration_ms": 210093,
       "name": "Kyiv",
       "url": "https://open.spotify.com/track/4eaPeaQePXlQMcrV7s7BcK"
+    },
+    {
+      "album": {
+        "name": "cuatro",
+        "url": "https://open.spotify.com/album/1IwCEfVYg8KlEankYmqeP7"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249884,
+      "name": "La Boda",
+      "url": "https://open.spotify.com/track/4vj6sWvmBLMhoF8AWQSeHX"
     },
     {
       "album": {
@@ -21414,7 +21454,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 270586,
       "name": "The Botanist",
       "url": "https://open.spotify.com/track/7nZVVWPrKXaqxBXEJSf77L"
@@ -22280,6 +22320,28 @@
       "duration_ms": 150758,
       "name": "Tipsy",
       "url": "https://open.spotify.com/track/0ldSiq9oj9gFXGw2LM2lAA"
+    },
+    {
+      "album": {
+        "name": "Tired Of The Drama",
+        "url": "https://open.spotify.com/album/6aIktsaxJpjVn3aHxIqK0i"
+      },
+      "artists": [
+        {
+          "name": "Capleton",
+          "url": "https://open.spotify.com/artist/21J3YJTyq1biE3SvSNjzuf"
+        },
+        {
+          "name": "Derrick Sound",
+          "url": "https://open.spotify.com/artist/6K2wSa8g588RRkVb0ZPkqo"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196853,
+      "name": "Tired Of The Drama",
+      "url": "https://open.spotify.com/track/5xte2vI7ToTKPCsVbgDEO0"
     },
     {
       "album": {

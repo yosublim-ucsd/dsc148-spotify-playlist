@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jlzMTQ2PY5.md) - [plain]
 
 > Escape with these melodic liquid drum & bass beats\. \(photo from Hubble Space Project\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,554 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,611 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,9 +38,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jlzMTQ2PY5.md) - [plain]
 | 28 | [Try Again](https://open.spotify.com/track/0SJExjBtsh8tcKE1ZTYDyP) | [Dogger](https://open.spotify.com/artist/79gz89B3EUt31SNQVQW1tU), [Tyler Daley](https://open.spotify.com/artist/4RZ0xAhQmDexe49EAe28hr) | [Try Again](https://open.spotify.com/album/3KjLZmbiLld9UQQB2twWJQ) | 4:58 |
 | 29 | [NOT FOR YOU](https://open.spotify.com/track/5B2xXCfmRlOlBA8YCcQzw9) | [SISICA](https://open.spotify.com/artist/6ZxNkk8ek1Ho5qNxnYNH9D) | [RECREATION](https://open.spotify.com/album/2tqqSO4VOIG6BN7xjSmemx) | 2:32 |
 | 30 | [Runaway](https://open.spotify.com/track/1RC2jgk8nnxArMGxjt8yEN) | [Murdock](https://open.spotify.com/artist/501MfkAIop4dRLvOqjlMHl), [Medyk](https://open.spotify.com/artist/7vbAs9frQTkhTyOWWIwsSL) | [X\-Ray](https://open.spotify.com/album/0e1sHJqFhzoetj1tPKXEyw) | 3:01 |
-| 31 | [Not Alone](https://open.spotify.com/track/2460FCYtdrrcTChzU7G7aT) | [Alix Perez](https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z) | [Not Alone](https://open.spotify.com/album/3uAGplw7cRRx927H35iokm) | 4:58 |
+| 31 | [Endless Haze](https://open.spotify.com/track/657ok2Bk1W8xDJfPBFi73X) | [Koherent](https://open.spotify.com/artist/2648rIoX4aFFXNipSvyBUD) | [Endless Haze](https://open.spotify.com/album/5UGUBeYZSWd1qjsWC7LRYO) | 4:54 |
 | 32 | [Broken Hearts](https://open.spotify.com/track/36BEINszOa1KYgXcnBtzsK) | [Nat Slater](https://open.spotify.com/artist/6aoPz3BFmcELxlTAx9xxts) | [Broken Hearts](https://open.spotify.com/album/68APyVqYotExPXndQ6VFRU) | 2:16 |
-| 33 | [Endless Haze](https://open.spotify.com/track/657ok2Bk1W8xDJfPBFi73X) | [Koherent](https://open.spotify.com/artist/2648rIoX4aFFXNipSvyBUD) | [Endless Haze](https://open.spotify.com/album/5UGUBeYZSWd1qjsWC7LRYO) | 4:54 |
+| 33 | [Not Alone](https://open.spotify.com/track/2460FCYtdrrcTChzU7G7aT) | [Alix Perez](https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z) | [Not Alone](https://open.spotify.com/album/3uAGplw7cRRx927H35iokm) | 4:58 |
 | 34 | [Grow](https://open.spotify.com/track/0JCHKnoruBII0Ir6CnhLCf) | [Carmelle Cox](https://open.spotify.com/artist/5LprRwSpDwiAQxRbrZ70zz), [Calibre](https://open.spotify.com/artist/0sklgkoO5JeS7YNhHS5EmH), [ST Files](https://open.spotify.com/artist/3ovV3uOHZzKoAzcdNSsP2p) | [Grow](https://open.spotify.com/album/3ltcAgSi9tAObMxJwGvzBC) | 5:55 |
 | 35 | [Dreaming Of You](https://open.spotify.com/track/7iSNRfFHvHeYL3fq4Njqd9) | [Disrupta](https://open.spotify.com/artist/6VJ0MDdr6OO6ih2TKP5g2G) | [Dreaming Of You](https://open.spotify.com/album/3qYlIJsZmQyM9K9CfSv9Ri) | 3:24 |
 | 36 | [Dayfall](https://open.spotify.com/track/6Ajue5zNJ44SGKXnqXSrhg) | [Telomic](https://open.spotify.com/artist/2uCrvTUHRA9kuW4IA67oDn), [Emily Makis](https://open.spotify.com/artist/51ferxocEKt0vjxzUsqyFX) | [Dayfall](https://open.spotify.com/album/1ui6rZ7vZIt79JfiYxYn8o) | 4:09 |

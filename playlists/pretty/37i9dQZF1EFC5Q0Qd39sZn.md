@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,769 likes - 509 songs - 1 day 11 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,767 likes - 509 songs - 1 day 11 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -132,8 +132,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 122 | [After Tonight](https://open.spotify.com/track/5nxuah08yYECil4UZuEE8N) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Rainbow](https://open.spotify.com/album/1iSTXHBhLc9ImaqyvVZGft) | 4:14 |
 | 123 | [Now That I Found You](https://open.spotify.com/track/1M5sHKA3KvHHhSttsYhWMP) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [Time, Love & Tenderness](https://open.spotify.com/album/4wQ6v4Q5YidrpC85KuBlTL) | 4:32 |
 | 124 | [Water From The Moon](https://open.spotify.com/track/2kpXktIVu9aoHPnIyXAtoc) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Celine Dion](https://open.spotify.com/album/7C6LFxLn63uasNoDIQ5khO) | 4:39 |
-| 125 | [How Many Times, How Many Lies](https://open.spotify.com/track/7FUNXj1tiocAaBSvD7stT6) | [The Pussycat Dolls](https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ) | [PCD](https://open.spotify.com/album/5x8e8UcCeOgrOzSnDGuPye) | 3:55 |
-| 126 | [Don't Take Away My Heaven](https://open.spotify.com/track/1cn5Mwu4U4b7JFxIVFWlKj) | [Aaron Neville](https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT) | [The Grand Tour](https://open.spotify.com/album/244kealm5K00bfuRFlolwF) | 4:40 |
+| 125 | [Don't Take Away My Heaven](https://open.spotify.com/track/1cn5Mwu4U4b7JFxIVFWlKj) | [Aaron Neville](https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT) | [The Grand Tour](https://open.spotify.com/album/244kealm5K00bfuRFlolwF) | 4:40 |
+| 126 | [How Many Times, How Many Lies](https://open.spotify.com/track/7FUNXj1tiocAaBSvD7stT6) | [The Pussycat Dolls](https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ) | [PCD](https://open.spotify.com/album/5x8e8UcCeOgrOzSnDGuPye) | 3:55 |
 | 127 | [All I Want Is Forever](https://open.spotify.com/track/6lUfWjM1Gw4dWt5Ro2rHE0) | [Regina Belle](https://open.spotify.com/artist/3J9tQvcK0bY3CcVcgRELxH) | [Stay With Me](https://open.spotify.com/album/3rQZT5l3PZVv100H8zH32U) | 4:31 |
 | 128 | [Music Of The Sun](https://open.spotify.com/track/3vPkkIsaQ5NqOqvj7Ht8kR) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Music Of The Sun](https://open.spotify.com/album/4FyGpObwABjn0o8Tdp7AZz) | 3:56 |
 | 129 | [The Time Alone With You](https://open.spotify.com/track/4qVzqyB11x7Rsk2hAs5dgj) | [Bad English](https://open.spotify.com/artist/5fhMbh4PVSLSODF2fhWwqt) | [BACKLASH](https://open.spotify.com/album/0AoG5TUFJKiWG8JNhOTIw0) | 4:40 |
@@ -362,8 +362,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 352 | [You're Right, I Was Wrong](https://open.spotify.com/track/3XyvYg1ffmvYJT0YZ334Rj) | [Meat Loaf](https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz) | [I Couldn´t Have Said It Better Myself](https://open.spotify.com/album/4aIx98BVdGYLJGGftvmGVS) | 3:44 |
 | 353 | [Counterfeit](https://open.spotify.com/track/5PYoVbt8FHP2RF54we98q2) | [Tulisa](https://open.spotify.com/artist/2T2FygBhNFzuzjLefPpsdv) | [The Female Boss](https://open.spotify.com/album/0zXYx82zuw2TWYR96aaFNH) | 4:07 |
 | 354 | [NAACP Swing](https://open.spotify.com/track/3TKklRQ0zQFzZ4o8bAho35) | [Marcus Miller](https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9) | [Marshall \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3L4djDxGf9l7mF39CGlHOZ) | 1:34 |
-| 355 | [Your Heart Is Safe With Me](https://open.spotify.com/track/223UQ3ktTf6AvbhIdGips6) | [LFO](https://open.spotify.com/artist/1FizW0swe8ODtXvEOHXbHX) | [LFO](https://open.spotify.com/album/6DZdRerOCdaQyBLwntH2cX) | 3:50 |
-| 356 | [Couldn't Say Goodbye](https://open.spotify.com/track/0YSXgWm3oTCWIo7RSUg17X) | [Tom Jones](https://open.spotify.com/artist/1T0wRBO0CK0vK8ouUMqEl5) | [Carrying a Torch](https://open.spotify.com/album/0mtNKWJ7tZkESd0k36ei5c) | 3:50 |
+| 355 | [Couldn't Say Goodbye](https://open.spotify.com/track/0YSXgWm3oTCWIo7RSUg17X) | [Tom Jones](https://open.spotify.com/artist/1T0wRBO0CK0vK8ouUMqEl5) | [Carrying a Torch](https://open.spotify.com/album/0mtNKWJ7tZkESd0k36ei5c) | 3:50 |
+| 356 | [Your Heart Is Safe With Me](https://open.spotify.com/track/223UQ3ktTf6AvbhIdGips6) | [LFO](https://open.spotify.com/artist/1FizW0swe8ODtXvEOHXbHX) | [LFO](https://open.spotify.com/album/6DZdRerOCdaQyBLwntH2cX) | 3:50 |
 | 357 | [If U Go](https://open.spotify.com/track/4kxckcfvTM73YQTkDckVFl) | [Belinda Carlisle](https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U) | [Kismet](https://open.spotify.com/album/6b5qQmB2IQBQULdHl73wtx) | 3:26 |
 | 358 | [I Tried](https://open.spotify.com/track/4ik9oDeRdXGKheZ6LXLFWX) | [The Jeff Healey Band](https://open.spotify.com/artist/3d2hJTVTwo08F9b0ZFQukJ) | [Legacy \(Volume One\)](https://open.spotify.com/album/4Cpi2rXw1GfsC8L4je7lO6) | 4:04 |
 | 359 | [In Walked Love](https://open.spotify.com/track/5UzPgmMKEwsxZsQbwXQFkY) | [Exposé](https://open.spotify.com/artist/5nPz5R1FDPTMI3Dw4JnTGb) | [Exposé](https://open.spotify.com/album/4O0YlGNpMCAPXsWOiivJJd) | 4:54 |
@@ -393,8 +393,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 383 | [Baby Be There](https://open.spotify.com/track/1K9cAcnZ55oIaIsVQMXsAH) | [Atlantic Starr](https://open.spotify.com/artist/2YdVmtVBpIrv0N6WiBzSqm) | [Time](https://open.spotify.com/album/3dlQhSbEXPzDKCr3jPsT0Q) | 3:49 |
 | 384 | [Sanity](https://open.spotify.com/track/1SMBqiTr7Gl9Xz9xGBkPbr) | [Belinda Carlisle](https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U) | [Kismet](https://open.spotify.com/album/6b5qQmB2IQBQULdHl73wtx) | 3:27 |
 | 385 | [Good Girl's Gone Bad](https://open.spotify.com/track/4pSDmTScq6aVZg7HJr8iVt) | [Booty Luv](https://open.spotify.com/artist/1RtyP3Yk376oIq4dB7VMzC) | [Boogie 2Nite](https://open.spotify.com/album/32X8uLgBiRxuGYBtMu8XNa) | 2:34 |
-| 386 | [Marshall's Theme \- We Got the Law](https://open.spotify.com/track/2kexQpnNHASZqerAT9nPQt) | [Marcus Miller](https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9) | [Marshall \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3L4djDxGf9l7mF39CGlHOZ) | 1:05 |
-| 387 | [OLI MAZI \(We Are All Together\)](https://open.spotify.com/track/2kNdcf6YKLNC8mtQalv4H6) | [Rita Wilson](https://open.spotify.com/artist/60LfX8q7jliswygVxBPIL4), [Christos Mastoras](https://open.spotify.com/artist/1XlTr7C0vwBmlpnsN8OMhu) | [OLI MAZI \(We Are All Together\)](https://open.spotify.com/album/0BaHbx9vN3XE8tBJMp6T38) | 3:18 |
+| 386 | [OLI MAZI \(We Are All Together\)](https://open.spotify.com/track/2kNdcf6YKLNC8mtQalv4H6) | [Rita Wilson](https://open.spotify.com/artist/60LfX8q7jliswygVxBPIL4), [Christos Mastoras](https://open.spotify.com/artist/1XlTr7C0vwBmlpnsN8OMhu) | [OLI MAZI \(We Are All Together\)](https://open.spotify.com/album/0BaHbx9vN3XE8tBJMp6T38) | 3:18 |
+| 387 | [Marshall's Theme \- We Got the Law](https://open.spotify.com/track/2kexQpnNHASZqerAT9nPQt) | [Marcus Miller](https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9) | [Marshall \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3L4djDxGf9l7mF39CGlHOZ) | 1:05 |
 | 388 | [You And The Moon](https://open.spotify.com/track/1cZbKoufXmYGWADU65eKHP) | [D.A\. Wallach](https://open.spotify.com/artist/0NrYD7GlHbFixu0iknQ2xn) | [Time Machine](https://open.spotify.com/album/2Dobv4jeXllRUhEb8Ite5e) | 4:06 |
 | 389 | [Overloved](https://open.spotify.com/track/0Y1U5q9knkjYgk9iKRco64) | [Raven\-Symoné](https://open.spotify.com/artist/6kUQJlewgd3UFKVYrrmILh) | [This Is My Time](https://open.spotify.com/album/5iz3DdRLx9bhxWffOblQrz) | 4:11 |
 | 390 | [Who Says You Can't Have It All \- StreetDance 2 Mix](https://open.spotify.com/track/41aZNnw779d8sN08DPSZqH) | [Dionne Bromfield](https://open.spotify.com/artist/4iXrcntPCevDmneGb6mEJK) | [Who Says You Can't Have It All \(StreetDance 2 Mix\)](https://open.spotify.com/album/3LumIJwBBVtmwOHKgC2DiC) | 3:23 |
@@ -518,4 +518,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 508 | [I Don't Know About That](https://open.spotify.com/track/0QVu6tcahV7XR25KY4gowA) | [Elan Lea](https://open.spotify.com/artist/0yaj6mNaPV5xeNn0wOyZlQ) | [My only excuse](https://open.spotify.com/album/6kl4ymNl4SRsvzBiLZBrkq) | 3:19 |
 | 509 | [Have You Ever Been Lonely](https://open.spotify.com/track/7MVfFDPFQwI1rE0sH1ntco) | [Raymond Wallbank](https://open.spotify.com/artist/0M0yiAaU5OOxqwKYmkrEy0) | [Easy Listening Organs](https://open.spotify.com/album/5jUrzVWqVclpNKGVMs8DDP) | 0:56 |
 
-Snapshot ID: `AbSIYwAAAABSkQMQb6ReAPaCZhiJ4ZAN`
+Snapshot ID: `AbSOPgAAAADbqMPJrR77gRE9jlgUCDEk`

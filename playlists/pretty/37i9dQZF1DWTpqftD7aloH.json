@@ -1,6 +1,6 @@
 {
   "description": "No caminho para igreja, trabalho ou voltando para casa, louve ao Senhor em todo o tempo. ",
-  "num_followers": 352231,
+  "num_followers": 352386,
   "original_name": "Louvando no Tr\u00e2nsito",
   "owner": {
     "name": "Spotify",
@@ -391,6 +391,22 @@
     {
       "added_at": "2024-04-26 03:44:28",
       "album": {
+        "name": "Ele N\u00e3o Desiste de Voc\u00ea",
+        "url": "https://open.spotify.com/album/66e3vt8NHTng82HAKQJxGW"
+      },
+      "artists": [
+        {
+          "name": "Marquinhos Gomes",
+          "url": "https://open.spotify.com/artist/2llyl9OO3itnyIvJcIEaeP"
+        }
+      ],
+      "duration_ms": 290763,
+      "name": "Ele N\u00e3o Desiste de Voc\u00ea",
+      "url": "https://open.spotify.com/track/344vyXHCBYXPGV4jO8Jo8X"
+    },
+    {
+      "added_at": "2024-04-26 03:44:28",
+      "album": {
         "name": "Ruja o Le\u00e3o / Que Se Abram Os C\u00e9us (Ao Vivo)",
         "url": "https://open.spotify.com/album/4PSU1YDNjWdpb4xErJpQRt"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 454133,
       "name": "Ruja o Le\u00e3o / Que Se Abram Os C\u00e9us - Ao Vivo",
       "url": "https://open.spotify.com/track/36OnXKUU9pAKRYs9jfusbl"
-    },
-    {
-      "added_at": "2024-04-26 03:44:28",
-      "album": {
-        "name": "Ele N\u00e3o Desiste de Voc\u00ea",
-        "url": "https://open.spotify.com/album/66e3vt8NHTng82HAKQJxGW"
-      },
-      "artists": [
-        {
-          "name": "Marquinhos Gomes",
-          "url": "https://open.spotify.com/artist/2llyl9OO3itnyIvJcIEaeP"
-        }
-      ],
-      "duration_ms": 290763,
-      "name": "Ele N\u00e3o Desiste de Voc\u00ea",
-      "url": "https://open.spotify.com/track/344vyXHCBYXPGV4jO8Jo8X"
     },
     {
       "added_at": "2024-04-26 03:44:28",
@@ -699,22 +699,6 @@
     {
       "added_at": "2024-04-26 03:44:28",
       "album": {
-        "name": "Bondade De Deus",
-        "url": "https://open.spotify.com/album/3dzF8IDJZ6F0y3STsKV2l4"
-      },
-      "artists": [
-        {
-          "name": "Pedras Vivas",
-          "url": "https://open.spotify.com/artist/2vk7Xg1PFNhLuqJlXTRy8F"
-        }
-      ],
-      "duration_ms": 295714,
-      "name": "Bondade De Deus",
-      "url": "https://open.spotify.com/track/2qXz5WtB4sr13hR59w4Ml9"
-    },
-    {
-      "added_at": "2024-04-26 03:44:28",
-      "album": {
         "name": "Enche-me (Ao Vivo)",
         "url": "https://open.spotify.com/album/74y0JyRZhViylaRsmrx8mk"
       },
@@ -735,18 +719,18 @@
     {
       "added_at": "2024-04-26 03:44:28",
       "album": {
-        "name": "Samuel Messias (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6TtTqrCRMPuSOpVUDlNSeX"
+        "name": "Bondade De Deus",
+        "url": "https://open.spotify.com/album/3dzF8IDJZ6F0y3STsKV2l4"
       },
       "artists": [
         {
-          "name": "Samuel Messias",
-          "url": "https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ"
+          "name": "Pedras Vivas",
+          "url": "https://open.spotify.com/artist/2vk7Xg1PFNhLuqJlXTRy8F"
         }
       ],
-      "duration_ms": 391720,
-      "name": "Todavia Me Alegrarei (Ao Vivo)",
-      "url": "https://open.spotify.com/track/3AH9Eok8N2BIGNUNBg1APv"
+      "duration_ms": 295714,
+      "name": "Bondade De Deus",
+      "url": "https://open.spotify.com/track/2qXz5WtB4sr13hR59w4Ml9"
     },
     {
       "added_at": "2024-04-26 03:44:28",
@@ -771,22 +755,18 @@
     {
       "added_at": "2024-04-26 03:44:28",
       "album": {
-        "name": "Tu \u00e9s Poderoso (Ao Vivo)",
-        "url": "https://open.spotify.com/album/79vEKNU7OVQvFb02e6hgMP"
+        "name": "Samuel Messias (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6TtTqrCRMPuSOpVUDlNSeX"
       },
       "artists": [
         {
-          "name": "Lukas Agustinho",
-          "url": "https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O"
-        },
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+          "name": "Samuel Messias",
+          "url": "https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ"
         }
       ],
-      "duration_ms": 629133,
-      "name": "Tu \u00e9s Poderoso - Ao Vivo",
-      "url": "https://open.spotify.com/track/4yXujiRu5pBHtanqTFVPKG"
+      "duration_ms": 391720,
+      "name": "Todavia Me Alegrarei (Ao Vivo)",
+      "url": "https://open.spotify.com/track/3AH9Eok8N2BIGNUNBg1APv"
     },
     {
       "added_at": "2024-04-26 03:44:28",
@@ -807,22 +787,22 @@
     {
       "added_at": "2024-04-26 03:44:28",
       "album": {
-        "name": "Deus de Promessas",
-        "url": "https://open.spotify.com/album/5AyYZsFmT70fJevCQRgc4G"
+        "name": "Tu \u00e9s Poderoso (Ao Vivo)",
+        "url": "https://open.spotify.com/album/79vEKNU7OVQvFb02e6hgMP"
       },
       "artists": [
         {
-          "name": "Davi Sacer",
-          "url": "https://open.spotify.com/artist/6z6iovCkrGvBsRsLOrFbdx"
+          "name": "Lukas Agustinho",
+          "url": "https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O"
         },
         {
-          "name": "Simone Mendes",
-          "url": "https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3"
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
         }
       ],
-      "duration_ms": 339033,
-      "name": "Deus de Promessas",
-      "url": "https://open.spotify.com/track/4HKLVCgmv0R8R7PbHgS6hP"
+      "duration_ms": 629133,
+      "name": "Tu \u00e9s Poderoso - Ao Vivo",
+      "url": "https://open.spotify.com/track/4yXujiRu5pBHtanqTFVPKG"
     },
     {
       "added_at": "2024-04-26 03:44:28",
@@ -839,6 +819,26 @@
       "duration_ms": 386560,
       "name": "Vai Valer a Pena",
       "url": "https://open.spotify.com/track/7fzImqefMkagp3jEeKtdVy"
+    },
+    {
+      "added_at": "2024-04-26 03:44:28",
+      "album": {
+        "name": "Deus de Promessas",
+        "url": "https://open.spotify.com/album/5AyYZsFmT70fJevCQRgc4G"
+      },
+      "artists": [
+        {
+          "name": "Davi Sacer",
+          "url": "https://open.spotify.com/artist/6z6iovCkrGvBsRsLOrFbdx"
+        },
+        {
+          "name": "Simone Mendes",
+          "url": "https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3"
+        }
+      ],
+      "duration_ms": 339033,
+      "name": "Deus de Promessas",
+      "url": "https://open.spotify.com/track/4HKLVCgmv0R8R7PbHgS6hP"
     },
     {
       "added_at": "2024-04-26 03:44:28",
@@ -879,26 +879,6 @@
     {
       "added_at": "2024-04-26 03:44:28",
       "album": {
-        "name": "Fornalha Laura Souguellis",
-        "url": "https://open.spotify.com/album/6wc5LOhw4vZGwkaJPQqdwW"
-      },
-      "artists": [
-        {
-          "name": "Laura Souguellis",
-          "url": "https://open.spotify.com/artist/0MDyxNYI11EEQWhjsrPFd2"
-        },
-        {
-          "name": "Dunamis Music",
-          "url": "https://open.spotify.com/artist/1qtVabPP0TkBR3UyFHL7Ce"
-        }
-      ],
-      "duration_ms": 735253,
-      "name": "Em Teus Bra\u00e7os",
-      "url": "https://open.spotify.com/track/0kH6BPFcm3yNBVry3SpwMQ"
-    },
-    {
-      "added_at": "2024-04-26 03:44:28",
-      "album": {
         "name": "Clamo Jesus",
         "url": "https://open.spotify.com/album/4Wjcs71kOvbTCLYuqZqXjC"
       },
@@ -919,6 +899,26 @@
       "duration_ms": 437426,
       "name": "Clamo Jesus",
       "url": "https://open.spotify.com/track/3Ns4xzoj5d1r0K5pc9uq64"
+    },
+    {
+      "added_at": "2024-04-26 03:44:28",
+      "album": {
+        "name": "Fornalha Laura Souguellis",
+        "url": "https://open.spotify.com/album/6wc5LOhw4vZGwkaJPQqdwW"
+      },
+      "artists": [
+        {
+          "name": "Laura Souguellis",
+          "url": "https://open.spotify.com/artist/0MDyxNYI11EEQWhjsrPFd2"
+        },
+        {
+          "name": "Dunamis Music",
+          "url": "https://open.spotify.com/artist/1qtVabPP0TkBR3UyFHL7Ce"
+        }
+      ],
+      "duration_ms": 735253,
+      "name": "Em Teus Bra\u00e7os",
+      "url": "https://open.spotify.com/track/0kH6BPFcm3yNBVry3SpwMQ"
     },
     {
       "added_at": "2024-04-26 03:44:28",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2024-04-26 03:44:28",
       "album": {
-        "name": "Esconderijo",
-        "url": "https://open.spotify.com/album/3jMLnHksYKlHMOExcsx7dh"
-      },
-      "artists": [
-        {
-          "name": "Pr. Lucas",
-          "url": "https://open.spotify.com/artist/5uBdPagL8e7AwfIzrM8zuS"
-        }
-      ],
-      "duration_ms": 296147,
-      "name": "Deus de Detalhes",
-      "url": "https://open.spotify.com/track/1fofBIhfx2AOJQFQpsdeeq"
-    },
-    {
-      "added_at": "2024-04-26 03:44:28",
-      "album": {
         "name": "Uma Coisa (Ao Vivo)",
         "url": "https://open.spotify.com/album/5apwTXXwp74piToPxH30dE"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 398562,
       "name": "Para Que Entre o Rei - Ao Vivo",
       "url": "https://open.spotify.com/track/2c8UiaOBa5eWB5eVIMpAna"
+    },
+    {
+      "added_at": "2024-04-26 03:44:28",
+      "album": {
+        "name": "Esconderijo",
+        "url": "https://open.spotify.com/album/3jMLnHksYKlHMOExcsx7dh"
+      },
+      "artists": [
+        {
+          "name": "Pr. Lucas",
+          "url": "https://open.spotify.com/artist/5uBdPagL8e7AwfIzrM8zuS"
+        }
+      ],
+      "duration_ms": 296147,
+      "name": "Deus de Detalhes",
+      "url": "https://open.spotify.com/track/1fofBIhfx2AOJQFQpsdeeq"
     },
     {
       "added_at": "2024-04-26 03:44:28",
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2024-04-26 03:44:28",
       "album": {
+        "name": "Gratid\u00e3o (Gratitude)",
+        "url": "https://open.spotify.com/album/0mP7as70Wcc6A7ZoOGZx9q"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Brito",
+          "url": "https://open.spotify.com/artist/4LXMmTqllPBxNh4msJMYCm"
+        }
+      ],
+      "duration_ms": 275841,
+      "name": "Gratid\u00e3o (Gratitude)",
+      "url": "https://open.spotify.com/track/3sR3rQ3iBgTEDpZQ8fgrxv"
+    },
+    {
+      "added_at": "2024-04-26 03:44:28",
+      "album": {
         "name": "Agrade\u00e7o",
         "url": "https://open.spotify.com/album/5W23bwhWkoCoQ21uyYMel3"
       },
@@ -1163,22 +1179,6 @@
       "duration_ms": 221976,
       "name": "Agrade\u00e7o",
       "url": "https://open.spotify.com/track/6XFZxwJ5TNZY4TdAfx1v55"
-    },
-    {
-      "added_at": "2024-04-26 03:44:28",
-      "album": {
-        "name": "Gratid\u00e3o (Gratitude)",
-        "url": "https://open.spotify.com/album/0mP7as70Wcc6A7ZoOGZx9q"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Brito",
-          "url": "https://open.spotify.com/artist/4LXMmTqllPBxNh4msJMYCm"
-        }
-      ],
-      "duration_ms": 275841,
-      "name": "Gratid\u00e3o (Gratitude)",
-      "url": "https://open.spotify.com/track/3sR3rQ3iBgTEDpZQ8fgrxv"
     },
     {
       "added_at": "2024-04-26 03:44:28",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2024-04-26 03:44:28",
       "album": {
-        "name": "Deus de Milagres (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5rIIyLwfSFv7ZaxjZyCbI9"
-      },
-      "artists": [
-        {
-          "name": "Mari Borges",
-          "url": "https://open.spotify.com/artist/0p2zpsFX6FVVOWOVQ9SSa6"
-        }
-      ],
-      "duration_ms": 348773,
-      "name": "Deus de Milagres - Ao Vivo",
-      "url": "https://open.spotify.com/track/2pniWHcFFrhNfR5SlUB5Ba"
-    },
-    {
-      "added_at": "2024-04-26 03:44:28",
-      "album": {
         "name": "Os Planos de Deus (Ao Vivo)",
         "url": "https://open.spotify.com/album/4hmoxjfFLeugjFi7NavOgo"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 392556,
       "name": "Os Planos de Deus (Ao Vivo)",
       "url": "https://open.spotify.com/track/0fO7XrdPkRXe7k0TzII9Br"
+    },
+    {
+      "added_at": "2024-04-26 03:44:28",
+      "album": {
+        "name": "Deus de Milagres (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5rIIyLwfSFv7ZaxjZyCbI9"
+      },
+      "artists": [
+        {
+          "name": "Mari Borges",
+          "url": "https://open.spotify.com/artist/0p2zpsFX6FVVOWOVQ9SSa6"
+        }
+      ],
+      "duration_ms": 348773,
+      "name": "Deus de Milagres - Ao Vivo",
+      "url": "https://open.spotify.com/track/2pniWHcFFrhNfR5SlUB5Ba"
     },
     {
       "added_at": "2024-04-26 03:44:28",
@@ -1987,26 +1987,6 @@
     {
       "added_at": "2024-04-26 03:44:28",
       "album": {
-        "name": "O Nazareno",
-        "url": "https://open.spotify.com/album/3GDrnx8ePXn3ykgVosI7J6"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        },
-        {
-          "name": "Generaci\u00f3n Gracia M\u00fasica",
-          "url": "https://open.spotify.com/artist/7qwXfWee0I0c9hgkJfzich"
-        }
-      ],
-      "duration_ms": 339373,
-      "name": "O Nazareno",
-      "url": "https://open.spotify.com/track/5bQKQ0pDrQXXJyAolC5g4z"
-    },
-    {
-      "added_at": "2024-04-26 03:44:28",
-      "album": {
         "name": "ASSIM SEJA",
         "url": "https://open.spotify.com/album/7Bel1Ka4jSYFXlckOLJFsu"
       },
@@ -2023,6 +2003,26 @@
       "duration_ms": 362666,
       "name": "Estremece a Terra",
       "url": "https://open.spotify.com/track/4dAXUOXLtF5Tj5BQZ65zug"
+    },
+    {
+      "added_at": "2024-04-26 03:44:28",
+      "album": {
+        "name": "O Nazareno",
+        "url": "https://open.spotify.com/album/3GDrnx8ePXn3ykgVosI7J6"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        },
+        {
+          "name": "Generaci\u00f3n Gracia M\u00fasica",
+          "url": "https://open.spotify.com/artist/7qwXfWee0I0c9hgkJfzich"
+        }
+      ],
+      "duration_ms": 339373,
+      "name": "O Nazareno",
+      "url": "https://open.spotify.com/track/5bQKQ0pDrQXXJyAolC5g4z"
     },
     {
       "added_at": "2024-04-26 03:44:28",
@@ -2119,30 +2119,6 @@
     {
       "added_at": "2024-04-26 03:44:28",
       "album": {
-        "name": "Digno de Tudo/ Nada Mais Satisfaz/ At\u00e9 Que Nada Mais Importe (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4H6fBnVIQ4gdnBbcHtjmII"
-      },
-      "artists": [
-        {
-          "name": "Gabi Sampaio",
-          "url": "https://open.spotify.com/artist/1mwuQroxtrC6ANU2Jwb8ZQ"
-        },
-        {
-          "name": "SOM DO C\u00c9U",
-          "url": "https://open.spotify.com/artist/4Tq5E0plsM6uNnLmxJWKNp"
-        },
-        {
-          "name": "Sarah Lanza",
-          "url": "https://open.spotify.com/artist/6MdZMOTIGQlJUOjfT02Q2J"
-        }
-      ],
-      "duration_ms": 704453,
-      "name": "Digno de Tudo/ Nada Mais Satisfaz/ At\u00e9 Que Nada Mais Importe - Ao Vivo",
-      "url": "https://open.spotify.com/track/3aEa2l3IM0Uzw7SseltnZh"
-    },
-    {
-      "added_at": "2024-04-26 03:44:28",
-      "album": {
         "name": "Ora\u00e7\u00e3o De Gratid\u00e3o",
         "url": "https://open.spotify.com/album/0zyRK8liOTanEtFqhQTnI5"
       },
@@ -2163,6 +2139,30 @@
       "duration_ms": 236031,
       "name": "Ora\u00e7\u00e3o De Gratid\u00e3o",
       "url": "https://open.spotify.com/track/2BrZxM2Acd5g3iESZMV37m"
+    },
+    {
+      "added_at": "2024-04-26 03:44:28",
+      "album": {
+        "name": "Digno de Tudo/ Nada Mais Satisfaz/ At\u00e9 Que Nada Mais Importe (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4H6fBnVIQ4gdnBbcHtjmII"
+      },
+      "artists": [
+        {
+          "name": "Gabi Sampaio",
+          "url": "https://open.spotify.com/artist/1mwuQroxtrC6ANU2Jwb8ZQ"
+        },
+        {
+          "name": "SOM DO C\u00c9U",
+          "url": "https://open.spotify.com/artist/4Tq5E0plsM6uNnLmxJWKNp"
+        },
+        {
+          "name": "Sarah Lanza",
+          "url": "https://open.spotify.com/artist/6MdZMOTIGQlJUOjfT02Q2J"
+        }
+      ],
+      "duration_ms": 704453,
+      "name": "Digno de Tudo/ Nada Mais Satisfaz/ At\u00e9 Que Nada Mais Importe - Ao Vivo",
+      "url": "https://open.spotify.com/track/3aEa2l3IM0Uzw7SseltnZh"
     },
     {
       "added_at": "2024-04-26 03:44:28",

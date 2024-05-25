@@ -4,7 +4,7 @@
 
 > The perfect family party playlist \- jam packed with all your favorite KIDZ BOP hits.
 
-83 songs - 4 hr 2 min
+84 songs - 4 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [TEXAS HOLD 'EM](https://open.spotify.com/track/0KhNXkYL4RMRKzsr51Hcnc) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [TEXAS HOLD 'EM](https://open.spotify.com/album/7FsXesEv0qrJEcs7FWlrFF) | 3:35 | 2024-05-03 |  |
 | [TOO MUCH](https://open.spotify.com/track/5m9mT86dI2PKotZYjt9m98) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [TOO MUCH](https://open.spotify.com/album/22BHyOK36cLz85X5AbAoku) | 2:10 | 2024-03-08 |  |
 | [TQG](https://open.spotify.com/track/5rpsAg6usB6NepA846O9K1) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2023 Vol\. 2](https://open.spotify.com/album/7FG9GrSpXpe0X2Ipv9BR5m) | 2:47 | 2023-07-14 |  |
+| [Training Season](https://open.spotify.com/track/3pBAUZNudmb6DbnhlTyNgm) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Training Season](https://open.spotify.com/album/6yTP07jdb8B9wflHFaVPNf) | 3:11 | 2024-05-24 |  |
 | [TRUSTFALL](https://open.spotify.com/track/5wGn1TsD4ddPVmm0QoReKC) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2023 Vol\. 2](https://open.spotify.com/album/7FG9GrSpXpe0X2Ipv9BR5m) | 3:40 | 2023-07-14 |  |
 | [TRUSTFALL](https://open.spotify.com/track/7E7E6JigvQ3wr08M0g7CaH) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [TRUSTFALL](https://open.spotify.com/album/2cW6PAdLsP7wS2lSTWQV9a) | 3:40 | 2023-06-09 | 2023-07-15 |
 | [Uptown Funk](https://open.spotify.com/track/6oDMkS87z90Vjm3QrlGdD1) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP All\-Time Greatest Hits](https://open.spotify.com/album/2r2u6SsHaCMojcx5bpSlJ8) | 3:46 | 2023-06-09 |  |

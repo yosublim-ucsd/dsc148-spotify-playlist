@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4uT4afwoFqf5HupqMjErXX">Chiiild</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-115 songs - 6 hr 23 min
+116 songs - 6 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Mind \(feat\. Kai\)](https://open.spotify.com/track/6ZpR2XFuQJSHAQwg9495KZ) | [Jack Ü](https://open.spotify.com/artist/1HxJeLhIuegM3KgvPn8sTa), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [kai](https://open.spotify.com/artist/6xHUXzrfhFgnIv86EBR3Ml) | [Skrillex and Diplo present Jack Ü](https://open.spotify.com/album/6bfkwBrGYKJFk6Z4QVyjxd) | 4:02 | 2022-11-11 |  |
 | [Mine](https://open.spotify.com/track/3LU1LzDmm5siz3WExknlil) | [BAYNK](https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj), [Cub Sport](https://open.spotify.com/artist/6vqMDhoigg5btfdPsPTVFt) | [ADOLESCENCE](https://open.spotify.com/album/6RcCRqPn7qtoleMiH8pxSH) | 4:00 | 2024-04-02 |  |
 | [Mon seul abri](https://open.spotify.com/track/47kSaGCROStUQFjMxVO9bl) | [Olivier Cheuwa](https://open.spotify.com/artist/2izAP4n3Cio3Yzh1g7v0XX) | [Mon idéal](https://open.spotify.com/album/5WqTxX9o3AxiheK4eOyGTR) | 3:36 | 2022-11-11 |  |
+| [Murder](https://open.spotify.com/track/7Ev7Bb8tPrQFR2MvQzrfM9) | [Thes](https://open.spotify.com/artist/7nnzlSxfrZkifdVvMhKyGp) | [Young Giant](https://open.spotify.com/album/4j6RpYZk9y67ggu1gWO8QL) | 4:35 | 2024-05-24 |  |
 | [Murder She Wrote](https://open.spotify.com/track/0GXVf8MuVWOlHmZuO2twqa) | [Brian Puspos](https://open.spotify.com/artist/6b7899n8Uz21dTYrABfFEO) | [Murder She Wrote](https://open.spotify.com/album/4xzY2KvcFofA9oKCGRb0LO) | 3:11 | 2022-11-11 | 2023-02-11 |
 | [Murder She Wrote](https://open.spotify.com/track/0tJBeqmWBj0xuqagXetkbl) | [Brian Puspos](https://open.spotify.com/artist/6b7899n8Uz21dTYrABfFEO) | [Murder She Wrote](https://open.spotify.com/album/0xkzaBfYdedCClL20VAvxW) | 3:11 | 2023-02-10 | 2023-12-15 |
 | [Murder She Wrote](https://open.spotify.com/track/5Vg4FhZIbx6z9wPHBlkG4h) | [Brian Puspos](https://open.spotify.com/artist/6b7899n8Uz21dTYrABfFEO) | [Murder She Wrote](https://open.spotify.com/album/6bWg6jalDjYDpabESVxM8F) | 3:11 | 2023-12-14 |  |

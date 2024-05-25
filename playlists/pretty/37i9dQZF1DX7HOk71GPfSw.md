@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > "b\*tch i'm taylor swift" \-Porter Robinson
 
-[Spotify](https://open.spotify.com/user/spotify) - 454,335 likes - 127 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 454,390 likes - 127 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

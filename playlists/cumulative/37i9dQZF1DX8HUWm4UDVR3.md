@@ -2,9 +2,9 @@
 
 ### [Couleur Pop](https://open.spotify.com/playlist/37i9dQZF1DX8HUWm4UDVR3)
 
-> La pop française annonce la couleur\. Photo : The Doug
+> La pop française annonce la couleur\. Photo : Leslie Medina
 
-184 songs - 9 hr 6 min
+186 songs - 9 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Etoile noire](https://open.spotify.com/track/7D8lO8l8QLSKahYnuKK9ls) | [Izïa](https://open.spotify.com/artist/6T08mUIMB32dtqq5ryxQZ3) | [La vitesse](https://open.spotify.com/album/6fTd6zoldO0tq7EM5d82RF) | 3:17 | 2023-07-27 | 2023-09-08 |
 | [Feel Good](https://open.spotify.com/track/6PcVlezWXunO2Bh78iEq0W) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Feel Good](https://open.spotify.com/album/3W7uKLpwgHebqF1kjKbYix) | 2:43 | 2023-09-14 |  |
 | [FEEL GOOD](https://open.spotify.com/track/4818KPM4qB4jOHL3wCx4xv) | [Julien Granel](https://open.spotify.com/artist/3VvDMiseFeokUqlLPXMh45) | [FEEL GOOD](https://open.spotify.com/album/0nUUsu6S1qzEjiTZ7ibxQF) | 3:19 | 2023-07-27 | 2023-10-13 |
+| [Fifty Fifty](https://open.spotify.com/track/0cJIkCG4DfWxfucQ4Lfd1T) | [Princesse](https://open.spotify.com/artist/6btazhSPWJjAUX7Qvk8CEw) | [Fifty Fifty](https://open.spotify.com/album/3YjUte5XpnyfvLeq3M8mcO) | 3:08 | 2024-05-24 |  |
 | [Film Noir](https://open.spotify.com/track/1DIQCidDAFLBkOz5w7Iwdo) | [Abel](https://open.spotify.com/artist/4kitxzTDsGXkCybo2BIUnW) | [Film Noir](https://open.spotify.com/album/0EAD1CSYjqg88Wsgp3xwKC) | 3:27 | 2023-11-16 | 2024-02-09 |
 | [Forteresse](https://open.spotify.com/track/2dlsjJGFMoWD3Nu4YcIX09) | [Emilie Simon](https://open.spotify.com/artist/6kLw7VpGwN4N0sBdmKhhfd) | [Forteresse](https://open.spotify.com/album/5bjLJg01d8FPkMKBdNxeQp) | 2:53 | 2024-03-14 | 2024-04-05 |
 | [fou](https://open.spotify.com/track/1FG0HeNkIK4bmj6W1iBg3B) | [Zélie](https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx) | [fou](https://open.spotify.com/album/1fYpB6W7Yt1RopNSdVGMk9) | 2:48 | 2023-11-09 |  |
@@ -91,6 +92,7 @@
 | [L'amour l'enfer](https://open.spotify.com/track/6gRBB7g9JpPEctr8lIIUlV) | [Princesse](https://open.spotify.com/artist/6btazhSPWJjAUX7Qvk8CEw), [Zélie](https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx) | [Jolis monstres](https://open.spotify.com/album/6TmUb13Fk8tz1i6YZ5H0qr) | 2:52 | 2023-10-05 | 2024-03-01 |
 | [L'an prochain](https://open.spotify.com/track/5KcrRKstOkD5USI4wA2hEV) | [Emma Hoet](https://open.spotify.com/artist/2XPd4InVAVACQRNm6DLIz9), [Jules Jaconelli](https://open.spotify.com/artist/5vQd9dKRdEZFKuMjtF4qoJ) | [L'an prochain](https://open.spotify.com/album/6kExkDePwNliVyZfXLRscx) | 3:20 | 2023-07-27 | 2023-09-22 |
 | [L'Atlantique](https://open.spotify.com/track/2M9JOD1W6AUSkbnpsDaWce) | [Opaline](https://open.spotify.com/artist/0Mp2rPC1xoRs63od7dflGV) | [L'Atlantique](https://open.spotify.com/album/7uzRSsf4pJDhkYqaSBDZ0W) | 2:46 | 2024-02-15 | 2024-05-03 |
+| [L'or & le fer](https://open.spotify.com/track/5jJDOgQ8ZY5cDUvWpAEANZ) | [Leslie Medina](https://open.spotify.com/artist/6v4kwEeHOGcxcS9PtYAoYN) | [L'or & le fer](https://open.spotify.com/album/75OHOkrQ8bYdZvTN6a1YpH) | 3:06 | 2024-05-24 |  |
 | [L'été](https://open.spotify.com/track/3BsWBBgjhc9Iaqh74ffpTf) | [Pépite](https://open.spotify.com/artist/0oA0cg7ajEwV0EXKCAlQ63) | [L'été](https://open.spotify.com/album/7xTNZ0EmI8hmzZLFwQRUAB) | 3:20 | 2023-10-05 | 2023-11-25 |
 | [La vie est longue](https://open.spotify.com/track/2McsyeHX5S2SyUFfb73J5Z) | [Juicy Cola](https://open.spotify.com/artist/6u9m2Ocxutj8gv7UJdwiWJ), [Orilia](https://open.spotify.com/artist/5NerLamEpJvx6k2iquvXHK) | [La vie est longue](https://open.spotify.com/album/1N83q5bGAu09JywfzvlYi3) | 2:37 | 2024-04-11 |  |
 | [Langue de P\*\*\*](https://open.spotify.com/track/3i9Pggk53qDhoMSV5CPmUk) | [Zaoui](https://open.spotify.com/artist/5nrmuhl0AXvSLeoZgB3Tmr) | [Langue de P\*\*\*](https://open.spotify.com/album/4CiDivdp3Wgi3isf1Soywy) | 2:44 | 2023-07-27 | 2023-10-13 |
@@ -98,7 +100,7 @@
 | [Le club des 27](https://open.spotify.com/track/4u7Vc3ia7XEhirbBk9BqRe) | [Jean Castel](https://open.spotify.com/artist/1mNalEbDGiL0rHTGwagfr1) | [Le club des 27](https://open.spotify.com/album/18Q7ySQhJ4nDErcnQ7fTnj) | 3:12 | 2023-09-21 | 2024-01-19 |
 | [Le dessert en premier](https://open.spotify.com/track/1rJMWy4MeA2fo04H9O9YxU) | [Ehla](https://open.spotify.com/artist/5KXt8UHaa6JBSYltw052Cp) | [Pause](https://open.spotify.com/album/4LydZSdKsiddSZKUSAII46) | 2:38 | 2023-07-27 | 2024-01-12 |
 | [Le Marbre](https://open.spotify.com/track/2e5C5tdiQEjk3QCa1H9AbV) | [CHARLES](https://open.spotify.com/artist/3BAyGVtoPcmQbeb58hlIZs) | [Le Marbre](https://open.spotify.com/album/2qh4jxj48CyH6n7jUuk8Ja) | 2:22 | 2024-03-28 |  |
-| [Le Mythe de Jesse James](https://open.spotify.com/track/54hOQ15avjXZfBecwARm7z) | [Takeshi HRTBRK](https://open.spotify.com/artist/5UDVJ8zsudfutHD7DCLeuz) | [Le Mythe de Jesse James](https://open.spotify.com/album/7vCaq8ooLgcw5p08ZEdQUy) | 3:24 | 2024-03-14 |  |
+| [Le Mythe de Jesse James](https://open.spotify.com/track/54hOQ15avjXZfBecwARm7z) | [Takeshi HRTBRK](https://open.spotify.com/artist/5UDVJ8zsudfutHD7DCLeuz) | [Le Mythe de Jesse James](https://open.spotify.com/album/7vCaq8ooLgcw5p08ZEdQUy) | 3:24 | 2024-03-14 | 2024-05-25 |
 | [Le Pas](https://open.spotify.com/track/52N5YwXgVCV9dHWAOegiPr) | [Esken](https://open.spotify.com/artist/6YASQSJPMeUFm0rpMXY0p1) | [Le pas](https://open.spotify.com/album/2kizAvObb16TiKr4G2y6Yz) | 2:36 | 2024-03-29 | 2024-05-17 |
 | [Le sport](https://open.spotify.com/track/327n10K86XlYJ6SNU92HLx) | [Louisette & Amaury](https://open.spotify.com/artist/5SfrCQKlH9T305RZiAud0y), [Louisette](https://open.spotify.com/artist/3X0yWI2mffotaoZ6rvbFVT), [Amaury](https://open.spotify.com/artist/0C0OTAymY2bmqgYZ0WZCJI) | [Le sport](https://open.spotify.com/album/1eeXV77VD0bcIROCu4MAI0) | 3:08 | 2023-10-12 | 2023-11-17 |
 | [LE TEMPS DE VIVRE \(ENCORE PLUS FORT\)](https://open.spotify.com/track/2XVGJbLeWeKxsb8dN5sPH3) | [NACH](https://open.spotify.com/artist/1Rt8z1WIL486Ohrcokl6t0) | [LE TEMPS DE VIVRE \(ENCORE PLUS FORT\)](https://open.spotify.com/album/2ynHjQselUDztGQiXi8nFd) | 2:42 | 2024-01-18 | 2024-03-15 |
@@ -151,7 +153,7 @@
 | [QUAND LA NUIT TOMBE](https://open.spotify.com/track/62FdpcF3fC2IAzQKhJ1saY) | [Marguerite Thiam](https://open.spotify.com/artist/0q8xRKBXrsCAzK5Ynq4U8B) | [QUAND LA NUIT TOMBE](https://open.spotify.com/album/769m5Tn6dsfqtV2Kqe611Y) | 3:31 | 2023-12-08 | 2024-03-29 |
 | [Que des coeurs](https://open.spotify.com/track/030g4LPa9Nnlx8GA8QzM6R) | [Charlie Faron](https://open.spotify.com/artist/7bHfn00UcuTafrQLESy8UE) | [Que des coeurs](https://open.spotify.com/album/2O2gUhyodNlJsM9Y7HpKsM) | 2:49 | 2024-04-04 | 2024-04-19 |
 | [Que des coeurs](https://open.spotify.com/track/0UFkdHfHFVAguM7egweU0q) | [Charlie Faron](https://open.spotify.com/artist/7bHfn00UcuTafrQLESy8UE) | [Que des coeurs](https://open.spotify.com/album/7cQ4UlVIDXLPsm6iMyUTF0) | 2:49 | 2024-03-21 | 2024-04-05 |
-| [Que des coeurs](https://open.spotify.com/track/7cfP2PmkCxA2HVBKNgAdOX) | [Charlie Faron](https://open.spotify.com/artist/7bHfn00UcuTafrQLESy8UE) | [Que des coeurs](https://open.spotify.com/album/3GY4dWvQs60WJMAaNbSJZw) | 2:49 | 2024-03-21 |  |
+| [Que des coeurs](https://open.spotify.com/track/7cfP2PmkCxA2HVBKNgAdOX) | [Charlie Faron](https://open.spotify.com/artist/7bHfn00UcuTafrQLESy8UE) | [Que des coeurs](https://open.spotify.com/album/3GY4dWvQs60WJMAaNbSJZw) | 2:49 | 2024-03-21 | 2024-05-25 |
 | [Questions](https://open.spotify.com/track/1MuIj3SP4hYQZGgdRvvmKP) | [Doria D](https://open.spotify.com/artist/3o3EvvWqx9JYkPCWM3C15w) | [Questions](https://open.spotify.com/album/51EdMV48no4HCO33L6x9aj) | 2:30 | 2024-04-18 |  |
 | [R+V](https://open.spotify.com/track/5Spizxd5taKrL0tQgW8IuT) | [Eddy de Pretto](https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj) | [R+V](https://open.spotify.com/album/4NYERenRZSe7KCptxkD6ja) | 1:29 | 2023-08-24 | 2023-09-15 |
 | [Remia](https://open.spotify.com/track/6YGurDnYXwVgx3v76n9Ddt) | [Tessa B](https://open.spotify.com/artist/2zHuN04qyNnz890Y2R0Nkr) | [Remia](https://open.spotify.com/album/3rvOpnOkVmgqWcSNA6O1so) | 3:14 | 2023-10-05 | 2024-01-12 |

@@ -1,13 +1,97 @@
 {
-  "description": "The latest tracks from Mad Decent and friends. New music from Kito &amp; Chrome Sparks, plus the latest cuts from Snow Strippers, evilgiane, and more.",
-  "num_followers": 50729,
+  "description": "The latest tracks from Mad Decent and friends. New music from Snow Strippers and Aluna, plus the latest cuts from evilgiane, Kito &amp; Chrome Sparks + more.",
+  "num_followers": 50727,
   "original_name": "Mad Decent Weekly",
   "owner": {
     "name": "Mad Decent",
     "url": "https://open.spotify.com/user/maddecent"
   },
-  "snapshot_id": "AAAZc8ueloyqZ6nF0IaQYMAGr4ufb/nj",
+  "snapshot_id": "AAAZn5F1pFLaXVCymm2wbH1AarxbHS6V",
   "tracks": [
+    {
+      "added_at": "2024-05-24 18:17:53",
+      "album": {
+        "name": "Night Killaz Vol. 2",
+        "url": "https://open.spotify.com/album/4oxh61KL99ewB5vvYpXaiX"
+      },
+      "artists": [
+        {
+          "name": "Snow Strippers",
+          "url": "https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8"
+        }
+      ],
+      "duration_ms": 146865,
+      "name": "So What If I'm A Freak",
+      "url": "https://open.spotify.com/track/1QtnG5cri4ZeYQd20bDlCg"
+    },
+    {
+      "added_at": "2024-05-10 21:11:22",
+      "album": {
+        "name": "Ride Or Die",
+        "url": "https://open.spotify.com/album/0WQI7WAVAKPFLJRR2xvIKS"
+      },
+      "artists": [
+        {
+          "name": "Aluna",
+          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
+        }
+      ],
+      "duration_ms": 168199,
+      "name": "Ride Or Die",
+      "url": "https://open.spotify.com/track/2CbuQYjqutizzJraX3ILZY"
+    },
+    {
+      "added_at": "2024-05-24 17:53:12",
+      "album": {
+        "name": "JaJaJa (JO\u00c3O L\u00c1GRIMA DE OURO REMIX)",
+        "url": "https://open.spotify.com/album/14IxalFKKZWFWyjuQ9GDM2"
+      },
+      "artists": [
+        {
+          "name": "SoFTT",
+          "url": "https://open.spotify.com/artist/2gpYstJ2WNS3mNwzuyPOB2"
+        },
+        {
+          "name": "Jo\u00e3o L\u00e1grima de Ouro",
+          "url": "https://open.spotify.com/artist/5bmcpwBSIz0TdjLVafaaWJ"
+        }
+      ],
+      "duration_ms": 203636,
+      "name": "JaJaJa - JO\u00c3O L\u00c1GRIMA DE OURO REMIX",
+      "url": "https://open.spotify.com/track/5zWtPQUALuDdeh7ALn0iMk"
+    },
+    {
+      "added_at": "2024-05-24 17:55:51",
+      "album": {
+        "name": "Secret",
+        "url": "https://open.spotify.com/album/6uViHbzccu6aZc7kgOFMSH"
+      },
+      "artists": [
+        {
+          "name": "Mietze Conte",
+          "url": "https://open.spotify.com/artist/3ETvRzzQK7ppB28GcAE8rN"
+        }
+      ],
+      "duration_ms": 116571,
+      "name": "Secret",
+      "url": "https://open.spotify.com/track/6fw8w7yJ2sMPkurAh2FIcl"
+    },
+    {
+      "added_at": "2024-05-24 17:54:43",
+      "album": {
+        "name": "Sexy to Someone",
+        "url": "https://open.spotify.com/album/281y6GLUpFfmSyBO7JMLfU"
+      },
+      "artists": [
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "duration_ms": 207795,
+      "name": "Sexy to Someone",
+      "url": "https://open.spotify.com/track/2Nq4SFbvYYZa8AF7lD7CWU"
+    },
     {
       "added_at": "2024-05-10 21:05:41",
       "album": {
@@ -25,20 +109,20 @@
       "url": "https://open.spotify.com/track/4v3LkPH31MOIh2MFp8niuU"
     },
     {
-      "added_at": "2024-05-10 21:11:22",
+      "added_at": "2024-05-10 21:05:53",
       "album": {
-        "name": "Ride Or Die",
-        "url": "https://open.spotify.com/album/0WQI7WAVAKPFLJRR2xvIKS"
+        "name": "Night Killaz Vol. 2",
+        "url": "https://open.spotify.com/album/4oxh61KL99ewB5vvYpXaiX"
       },
       "artists": [
         {
-          "name": "Aluna",
-          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
+          "name": "Snow Strippers",
+          "url": "https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8"
         }
       ],
-      "duration_ms": 168199,
-      "name": "Ride Or Die",
-      "url": "https://open.spotify.com/track/2CbuQYjqutizzJraX3ILZY"
+      "duration_ms": 174035,
+      "name": "Favorite Lifeline",
+      "url": "https://open.spotify.com/track/6rHBKKhVw5pANLuynFxQjp"
     },
     {
       "added_at": "2024-05-10 21:06:39",
@@ -65,22 +149,6 @@
       "url": "https://open.spotify.com/track/5MSm2ISgTkk47tFLnE8vlW"
     },
     {
-      "added_at": "2024-05-10 21:08:05",
-      "album": {
-        "name": "Britpop",
-        "url": "https://open.spotify.com/album/5y9Fis539BaAsi7MmHKHm2"
-      },
-      "artists": [
-        {
-          "name": "A. G. Cook",
-          "url": "https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8"
-        }
-      ],
-      "duration_ms": 275892,
-      "name": "Heartache",
-      "url": "https://open.spotify.com/track/39GZz9WxQpwJul7NnfBTb3"
-    },
-    {
       "added_at": "2024-05-10 21:10:43",
       "album": {
         "name": "EVILSLIME",
@@ -103,6 +171,90 @@
       "duration_ms": 115211,
       "name": "RIGHT OR WRONG",
       "url": "https://open.spotify.com/track/1HICE9MTB7TW2aqxp7LF7U"
+    },
+    {
+      "added_at": "2024-05-24 18:16:36",
+      "album": {
+        "name": "Valedictorian",
+        "url": "https://open.spotify.com/album/0HTo6u0rhojf1LLVLd9r5x"
+      },
+      "artists": [
+        {
+          "name": "ian",
+          "url": "https://open.spotify.com/artist/23hzc59PkIUau13dqXx5Ef"
+        }
+      ],
+      "duration_ms": 127872,
+      "name": "Never Stop",
+      "url": "https://open.spotify.com/track/74mCnk2QnSTiirhkxxpRNP"
+    },
+    {
+      "added_at": "2024-05-24 18:16:11",
+      "album": {
+        "name": "nothing like uuu",
+        "url": "https://open.spotify.com/album/128pEVu7AFfVkyiIw9lN33"
+      },
+      "artists": [
+        {
+          "name": "Nettspend",
+          "url": "https://open.spotify.com/artist/2jl4qd6UbzeCmImT4nWbtA"
+        }
+      ],
+      "duration_ms": 112243,
+      "name": "nothing like uuu",
+      "url": "https://open.spotify.com/track/7tHXd3CsT7VGZAJ5Jkqt61"
+    },
+    {
+      "added_at": "2024-05-24 17:51:57",
+      "album": {
+        "name": "Starburned and Unkissed",
+        "url": "https://open.spotify.com/album/3mj7Bt7kMctCQdC9pqgdFc"
+      },
+      "artists": [
+        {
+          "name": "Caroline Polachek",
+          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+        }
+      ],
+      "duration_ms": 220148,
+      "name": "Starburned and Unkissed",
+      "url": "https://open.spotify.com/track/12V0MwkaN60cghsLsglkIf"
+    },
+    {
+      "added_at": "2024-05-10 21:08:05",
+      "album": {
+        "name": "Britpop",
+        "url": "https://open.spotify.com/album/5y9Fis539BaAsi7MmHKHm2"
+      },
+      "artists": [
+        {
+          "name": "A. G. Cook",
+          "url": "https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8"
+        }
+      ],
+      "duration_ms": 275892,
+      "name": "Heartache",
+      "url": "https://open.spotify.com/track/39GZz9WxQpwJul7NnfBTb3"
+    },
+    {
+      "added_at": "2024-05-24 17:54:40",
+      "album": {
+        "name": "In Sexyy We Trust",
+        "url": "https://open.spotify.com/album/5PmtX9B5vNa4uaiXQVn4Gx"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 225132,
+      "name": "U My Everything (feat. Drake)",
+      "url": "https://open.spotify.com/track/1TgStpMGTflN84asKJ8VU3"
     },
     {
       "added_at": "2024-05-10 21:22:10",
@@ -135,6 +287,22 @@
       "duration_ms": 122571,
       "name": "liverounds",
       "url": "https://open.spotify.com/track/2mB9h4ED7P8PCErQPF3aso"
+    },
+    {
+      "added_at": "2024-05-24 17:56:15",
+      "album": {
+        "name": "Your Day Will Come",
+        "url": "https://open.spotify.com/album/5VJTZMk9joIX2t80S9e6ov"
+      },
+      "artists": [
+        {
+          "name": "Chanel Beads",
+          "url": "https://open.spotify.com/artist/3x11XrMEnyP18hv73pmKRL"
+        }
+      ],
+      "duration_ms": 90133,
+      "name": "Idea June",
+      "url": "https://open.spotify.com/track/1NqqTOnwFzODsJECdvTE2S"
     },
     {
       "added_at": "2024-05-10 21:23:19",
@@ -171,22 +339,6 @@
       "duration_ms": 228013,
       "name": "Raining",
       "url": "https://open.spotify.com/track/6ngOwk7jSESY5bAihIzNs6"
-    },
-    {
-      "added_at": "2024-05-10 21:05:53",
-      "album": {
-        "name": "Night Killaz Vol. 2",
-        "url": "https://open.spotify.com/album/4oxh61KL99ewB5vvYpXaiX"
-      },
-      "artists": [
-        {
-          "name": "Snow Strippers",
-          "url": "https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8"
-        }
-      ],
-      "duration_ms": 174035,
-      "name": "Favorite Lifeline",
-      "url": "https://open.spotify.com/track/6rHBKKhVw5pANLuynFxQjp"
     },
     {
       "added_at": "2024-05-10 21:20:06",
@@ -247,22 +399,6 @@
       "duration_ms": 219515,
       "name": "Lights On",
       "url": "https://open.spotify.com/track/3vaicHsditfwRXvezuFB3S"
-    },
-    {
-      "added_at": "2024-04-25 22:53:02",
-      "album": {
-        "name": "So What If I'm A Freak",
-        "url": "https://open.spotify.com/album/01Si4JV49tWw0ZI3o9L7VQ"
-      },
-      "artists": [
-        {
-          "name": "Snow Strippers",
-          "url": "https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8"
-        }
-      ],
-      "duration_ms": 146865,
-      "name": "So What If I'm A Freak",
-      "url": "https://open.spotify.com/track/3Om0j8yTp9MMMvrf4Xe94N"
     },
     {
       "added_at": "2024-04-25 22:53:02",
@@ -499,22 +635,6 @@
       "duration_ms": 126857,
       "name": "Neverend",
       "url": "https://open.spotify.com/track/5mz455lNi6jtxtfDszs6Gr"
-    },
-    {
-      "added_at": "2024-04-26 18:14:55",
-      "album": {
-        "name": "JaJaJa",
-        "url": "https://open.spotify.com/album/39kaEp4VG6LaV4l6q2ZMvF"
-      },
-      "artists": [
-        {
-          "name": "SoFTT",
-          "url": "https://open.spotify.com/artist/2gpYstJ2WNS3mNwzuyPOB2"
-        }
-      ],
-      "duration_ms": 164050,
-      "name": "JaJaJa",
-      "url": "https://open.spotify.com/track/5YXkLwZyPzf5D9YlG0L5NM"
     },
     {
       "added_at": "2024-04-26 18:15:17",
@@ -803,42 +923,6 @@
       "duration_ms": 180840,
       "name": "Lorelei",
       "url": "https://open.spotify.com/track/08fcIMIo6tXMHm0UbqVdvQ"
-    },
-    {
-      "added_at": "2024-04-25 22:53:02",
-      "album": {
-        "name": "Dede",
-        "url": "https://open.spotify.com/album/0bePC9TQQn0AQmnckyTuXd"
-      },
-      "artists": [
-        {
-          "name": "Nora Toure",
-          "url": "https://open.spotify.com/artist/3Mo1ZXmpbD9cckUQTtXiBS"
-        }
-      ],
-      "duration_ms": 224864,
-      "name": "Dede",
-      "url": "https://open.spotify.com/track/1rYHkSLAn0kcdkpmVeHhxd"
-    },
-    {
-      "added_at": "2024-04-25 22:53:02",
-      "album": {
-        "name": "One Night/All Night",
-        "url": "https://open.spotify.com/album/3ISYaclw23kCz3IZtn7koK"
-      },
-      "artists": [
-        {
-          "name": "Justice",
-          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
-        },
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 276066,
-      "name": "One Night/All Night",
-      "url": "https://open.spotify.com/track/7sjuNUjWtSqhbxJ3RAUffm"
     },
     {
       "added_at": "2024-04-25 22:53:02",
@@ -1239,30 +1323,6 @@
     {
       "added_at": "2024-04-25 22:53:02",
       "album": {
-        "name": "The von dutch remix with addison rae and a.g. cook",
-        "url": "https://open.spotify.com/album/5Pj0xqgA9D5lJ8ZQuAe3ft"
-      },
-      "artists": [
-        {
-          "name": "Charli XCX",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        },
-        {
-          "name": "Addison Rae",
-          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
-        },
-        {
-          "name": "A. G. Cook",
-          "url": "https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8"
-        }
-      ],
-      "duration_ms": 157328,
-      "name": "The von dutch remix with addison rae and a.g. cook",
-      "url": "https://open.spotify.com/track/1EycQzSpakKNsHgMbTMMKo"
-    },
-    {
-      "added_at": "2024-04-25 22:53:02",
-      "album": {
         "name": "Tiny Dancer",
         "url": "https://open.spotify.com/album/1FkKpFNNxxvGTRWVe1xmW4"
       },
@@ -1591,26 +1651,6 @@
     {
       "added_at": "2024-04-25 22:53:02",
       "album": {
-        "name": "All I Want (ILLENIUM 2014 Remix)",
-        "url": "https://open.spotify.com/album/7IDFv7Wp03oySSNHOsGnsk"
-      },
-      "artists": [
-        {
-          "name": "Dawn Golden",
-          "url": "https://open.spotify.com/artist/6MzxeKydmXufvX7HYPknFW"
-        },
-        {
-          "name": "ILLENIUM",
-          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
-        }
-      ],
-      "duration_ms": 280253,
-      "name": "All I Want - ILLENIUM 2014 Remix",
-      "url": "https://open.spotify.com/track/01Dp1oObao4WWF2nQTi1Eg"
-    },
-    {
-      "added_at": "2024-04-25 22:53:02",
-      "album": {
         "name": "Dog Days",
         "url": "https://open.spotify.com/album/1eB6a3hIAK3q2SxjG9DHnY"
       },
@@ -1731,26 +1771,6 @@
     {
       "added_at": "2024-04-25 22:53:02",
       "album": {
-        "name": "#HEAVENSGATE VOL. 1",
-        "url": "https://open.spotify.com/album/3KvLqvjycoPfH0DTkU9riY"
-      },
-      "artists": [
-        {
-          "name": "evilgiane",
-          "url": "https://open.spotify.com/artist/4bbAeMRdMbfCLVSlpryAVV"
-        },
-        {
-          "name": "Harto Fali\u00f3n",
-          "url": "https://open.spotify.com/artist/0wAEYYaHOqYJhHaSvpZUwP"
-        }
-      ],
-      "duration_ms": 115384,
-      "name": "TALKING TO WALL",
-      "url": "https://open.spotify.com/track/3nrh4t7qOQOwfsnaYkfsJa"
-    },
-    {
-      "added_at": "2024-04-25 22:53:02",
-      "album": {
         "name": "Bad Lines",
         "url": "https://open.spotify.com/album/4EoeTFWnMAHHnh0NfSlA6o"
       },
@@ -1763,26 +1783,6 @@
       "duration_ms": 230550,
       "name": "Bad Lines",
       "url": "https://open.spotify.com/track/2loO0mL3yxH650l9wq7KKQ"
-    },
-    {
-      "added_at": "2024-04-25 22:53:02",
-      "album": {
-        "name": "MYCELiUM",
-        "url": "https://open.spotify.com/album/70EGm440rh8lEHNCj4NZdX"
-      },
-      "artists": [
-        {
-          "name": "Aluna",
-          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
-        },
-        {
-          "name": "Route 94",
-          "url": "https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6"
-        }
-      ],
-      "duration_ms": 183750,
-      "name": "Underwater",
-      "url": "https://open.spotify.com/track/263JN9EXwP2tIPTMOsfIrI"
     },
     {
       "added_at": "2024-04-25 22:53:02",
@@ -1803,22 +1803,6 @@
       "duration_ms": 279773,
       "name": "I Touch",
       "url": "https://open.spotify.com/track/2n9x5USWpRg0c88EGbW6KV"
-    },
-    {
-      "added_at": "2024-04-25 22:53:02",
-      "album": {
-        "name": "Road Ballad",
-        "url": "https://open.spotify.com/album/7lKvyJGHgwb2ZYeExUmEDJ"
-      },
-      "artists": [
-        {
-          "name": "Holodec",
-          "url": "https://open.spotify.com/artist/5QGhyDXeg6nwFfYHAXnLS3"
-        }
-      ],
-      "duration_ms": 140500,
-      "name": "Road Ballad",
-      "url": "https://open.spotify.com/track/2RPEGXX96YDuE8JpSj8PwN"
     },
     {
       "added_at": "2024-04-25 22:53:02",

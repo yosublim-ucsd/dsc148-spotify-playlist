@@ -1,12 +1,12 @@
 {
   "description": "This is Senses Fail. The essential tracks, all in one playlist.",
-  "num_followers": 8851,
+  "num_followers": 8859,
   "original_name": "This Is Senses Fail",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zk01gAAAAADsa7tZEd1gb9dOrF8wVLdQ",
+  "snapshot_id": "Zk6HAAAAAACPyDKtpYxkfA0JFoZt4+D2",
   "tracks": [
     {
       "added_at": null,
@@ -195,6 +195,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Still Searching (Deluxe Version)",
+        "url": "https://open.spotify.com/album/4YRcdjj0Xm8KQUWmS2JXcZ"
+      },
+      "artists": [
+        {
+          "name": "Senses Fail",
+          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
+        }
+      ],
+      "duration_ms": 261746,
+      "name": "The Priest and the Matador",
+      "url": "https://open.spotify.com/track/1c65Bhl4i5mUmrSEfD75HJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Weight of the World",
         "url": "https://open.spotify.com/album/7B2HLlPLG4sF7VbGRBMUdr"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 192422,
       "name": "Weight of the World",
       "url": "https://open.spotify.com/track/1psooo00FPOftSv5NaY6fL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Still Searching (Deluxe Version)",
-        "url": "https://open.spotify.com/album/4YRcdjj0Xm8KQUWmS2JXcZ"
-      },
-      "artists": [
-        {
-          "name": "Senses Fail",
-          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
-        }
-      ],
-      "duration_ms": 261746,
-      "name": "The Priest and the Matador",
-      "url": "https://open.spotify.com/track/1c65Bhl4i5mUmrSEfD75HJ"
     },
     {
       "added_at": null,
@@ -263,22 +263,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "If There Is Light, It Will Find You",
-        "url": "https://open.spotify.com/album/5Bdj3JrmjvkampuUvA8nx0"
-      },
-      "artists": [
-        {
-          "name": "Senses Fail",
-          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
-        }
-      ],
-      "duration_ms": 205373,
-      "name": "Double Cross",
-      "url": "https://open.spotify.com/track/0LLA6vTC4qkmENHsr3PkOH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Still Searching (Deluxe Version)",
         "url": "https://open.spotify.com/album/4YRcdjj0Xm8KQUWmS2JXcZ"
       },
@@ -295,8 +279,32 @@
     {
       "added_at": null,
       "album": {
-        "name": "Life Is Not a Waiting Room",
-        "url": "https://open.spotify.com/album/1GzlMqFXb8oj91bAMRLj0K"
+        "name": "VOID ETERNAL",
+        "url": "https://open.spotify.com/album/3zO5Pq3zhf3qz85rpFlDNK"
+      },
+      "artists": [
+        {
+          "name": "nothing,nowhere.",
+          "url": "https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P"
+        },
+        {
+          "name": "Buddy Nielsen",
+          "url": "https://open.spotify.com/artist/2H6DEyiv5p0f3s5Bl7mAOc"
+        },
+        {
+          "name": "Senses Fail",
+          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
+        }
+      ],
+      "duration_ms": 184111,
+      "name": "M1SERY_SYNDROME (feat. BUDDY NIELSEN)",
+      "url": "https://open.spotify.com/track/5HuONHSJVsyksi8JJnLmh0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "If There Is Light, It Will Find You",
+        "url": "https://open.spotify.com/album/5Bdj3JrmjvkampuUvA8nx0"
       },
       "artists": [
         {
@@ -304,9 +312,9 @@
           "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
         }
       ],
-      "duration_ms": 207520,
-      "name": "Wolves at the Door",
-      "url": "https://open.spotify.com/track/48T4mKe6sqTNi6I22mYnYY"
+      "duration_ms": 205373,
+      "name": "Double Cross",
+      "url": "https://open.spotify.com/track/0LLA6vTC4qkmENHsr3PkOH"
     },
     {
       "added_at": null,
@@ -323,22 +331,6 @@
       "duration_ms": 145706,
       "name": "You're Cute When You Scream",
       "url": "https://open.spotify.com/track/5yPIfd3L1qNuruNs4BaQSI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "If There Is Light, It Will Find You",
-        "url": "https://open.spotify.com/album/5Bdj3JrmjvkampuUvA8nx0"
-      },
-      "artists": [
-        {
-          "name": "Senses Fail",
-          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
-        }
-      ],
-      "duration_ms": 377600,
-      "name": "If There is Light, It Will Find You",
-      "url": "https://open.spotify.com/track/2129CLYgR1NmJrW1Iszn3l"
     },
     {
       "added_at": null,
@@ -368,25 +360,9 @@
           "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
         }
       ],
-      "duration_ms": 218746,
-      "name": "Garden State",
-      "url": "https://open.spotify.com/track/6mMu70aOyDSS8MxOhKMgUt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Let It Enfold You",
-        "url": "https://open.spotify.com/album/1dnNjLBeisuc0bUp3wwPR1"
-      },
-      "artists": [
-        {
-          "name": "Senses Fail",
-          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
-        }
-      ],
-      "duration_ms": 228653,
-      "name": "NJ Falls Into the Atlantic",
-      "url": "https://open.spotify.com/track/666IN8CY7vEX1Hzto5ZxIV"
+      "duration_ms": 207520,
+      "name": "Wolves at the Door",
+      "url": "https://open.spotify.com/track/48T4mKe6sqTNi6I22mYnYY"
     },
     {
       "added_at": null,
@@ -407,8 +383,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "From The Depths Of Dreams",
-        "url": "https://open.spotify.com/album/1Sd2yj3wFNHskILXgPCf0y"
+        "name": "Let It Enfold You",
+        "url": "https://open.spotify.com/album/1dnNjLBeisuc0bUp3wwPR1"
       },
       "artists": [
         {
@@ -416,9 +392,25 @@
           "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
         }
       ],
-      "duration_ms": 141200,
-      "name": "Handguns and Second Chances",
-      "url": "https://open.spotify.com/track/2HdtxF6IO9zvFTyuoe44kX"
+      "duration_ms": 228653,
+      "name": "NJ Falls Into the Atlantic",
+      "url": "https://open.spotify.com/track/666IN8CY7vEX1Hzto5ZxIV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "If There Is Light, It Will Find You",
+        "url": "https://open.spotify.com/album/5Bdj3JrmjvkampuUvA8nx0"
+      },
+      "artists": [
+        {
+          "name": "Senses Fail",
+          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
+        }
+      ],
+      "duration_ms": 377600,
+      "name": "If There is Light, It Will Find You",
+      "url": "https://open.spotify.com/track/2129CLYgR1NmJrW1Iszn3l"
     },
     {
       "added_at": null,
@@ -432,9 +424,25 @@
           "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
         }
       ],
-      "duration_ms": 255466,
-      "name": "Four Years",
-      "url": "https://open.spotify.com/track/6805gZi35lOajVzQNpnzKF"
+      "duration_ms": 218746,
+      "name": "Garden State",
+      "url": "https://open.spotify.com/track/6mMu70aOyDSS8MxOhKMgUt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "From The Depths Of Dreams",
+        "url": "https://open.spotify.com/album/1Sd2yj3wFNHskILXgPCf0y"
+      },
+      "artists": [
+        {
+          "name": "Senses Fail",
+          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
+        }
+      ],
+      "duration_ms": 141200,
+      "name": "Handguns and Second Chances",
+      "url": "https://open.spotify.com/track/2HdtxF6IO9zvFTyuoe44kX"
     },
     {
       "added_at": null,
@@ -471,6 +479,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Life Is Not a Waiting Room",
+        "url": "https://open.spotify.com/album/1GzlMqFXb8oj91bAMRLj0K"
+      },
+      "artists": [
+        {
+          "name": "Senses Fail",
+          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
+        }
+      ],
+      "duration_ms": 255466,
+      "name": "Four Years",
+      "url": "https://open.spotify.com/track/6805gZi35lOajVzQNpnzKF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Still Searching",
         "url": "https://open.spotify.com/album/1Irua9m0zfrn12jJ803gZ5"
       },
@@ -503,22 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Life Is Not a Waiting Room",
-        "url": "https://open.spotify.com/album/1GzlMqFXb8oj91bAMRLj0K"
-      },
-      "artists": [
-        {
-          "name": "Senses Fail",
-          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
-        }
-      ],
-      "duration_ms": 129919,
-      "name": "Fireworks at Dawn",
-      "url": "https://open.spotify.com/track/0pAuXS0axaaZxs2vkIjDXQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hell is in Your Head",
         "url": "https://open.spotify.com/album/1Rj8VxOUGmuKrTDcFNISvB"
       },
@@ -539,6 +547,22 @@
       "duration_ms": 236506,
       "name": "End of the World/A Game of Chess",
       "url": "https://open.spotify.com/track/2l860vihpp6XxMEKRc5n73"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Life Is Not a Waiting Room",
+        "url": "https://open.spotify.com/album/1GzlMqFXb8oj91bAMRLj0K"
+      },
+      "artists": [
+        {
+          "name": "Senses Fail",
+          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
+        }
+      ],
+      "duration_ms": 129919,
+      "name": "Fireworks at Dawn",
+      "url": "https://open.spotify.com/track/0pAuXS0axaaZxs2vkIjDXQ"
     },
     {
       "added_at": null,
@@ -575,22 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Renacer",
-        "url": "https://open.spotify.com/album/7Jt2OKLFWzwgqqUAOCZ0Q0"
-      },
-      "artists": [
-        {
-          "name": "Senses Fail",
-          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
-        }
-      ],
-      "duration_ms": 293373,
-      "name": "Between the Mountains and the Sea",
-      "url": "https://open.spotify.com/track/7e4ibBc923bkYzwUCenlXz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hell is in Your Head",
         "url": "https://open.spotify.com/album/1Rj8VxOUGmuKrTDcFNISvB"
       },
@@ -603,6 +611,22 @@
       "duration_ms": 192000,
       "name": "I'm Sorry I'm Leaving",
       "url": "https://open.spotify.com/track/3Jfeb0s8slLKVt9GQop2jL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Renacer",
+        "url": "https://open.spotify.com/album/7Jt2OKLFWzwgqqUAOCZ0Q0"
+      },
+      "artists": [
+        {
+          "name": "Senses Fail",
+          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
+        }
+      ],
+      "duration_ms": 293373,
+      "name": "Between the Mountains and the Sea",
+      "url": "https://open.spotify.com/track/7e4ibBc923bkYzwUCenlXz"
     },
     {
       "added_at": null,
@@ -687,22 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Renacer",
-        "url": "https://open.spotify.com/album/7Jt2OKLFWzwgqqUAOCZ0Q0"
-      },
-      "artists": [
-        {
-          "name": "Senses Fail",
-          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
-        }
-      ],
-      "duration_ms": 209026,
-      "name": "Mi Amor",
-      "url": "https://open.spotify.com/track/39gXTmxpFrCYcSgnoietZJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "If There Is Light, It Will Find You",
         "url": "https://open.spotify.com/album/5Bdj3JrmjvkampuUvA8nx0"
       },
@@ -715,6 +723,22 @@
       "duration_ms": 174653,
       "name": "First Breath, Last Breath",
       "url": "https://open.spotify.com/track/6eRpj3GLxtaBv2z0ruySm1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Renacer",
+        "url": "https://open.spotify.com/album/7Jt2OKLFWzwgqqUAOCZ0Q0"
+      },
+      "artists": [
+        {
+          "name": "Senses Fail",
+          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
+        }
+      ],
+      "duration_ms": 209026,
+      "name": "Mi Amor",
+      "url": "https://open.spotify.com/track/39gXTmxpFrCYcSgnoietZJ"
     },
     {
       "added_at": null,
@@ -819,22 +843,6 @@
       "duration_ms": 198918,
       "name": "The Burial of the Dead",
       "url": "https://open.spotify.com/track/0ja7fAjEUM6qNaFrBT9fzM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "In Your Absence",
-        "url": "https://open.spotify.com/album/3UirsR8nqi8bDfjDzFUUR8"
-      },
-      "artists": [
-        {
-          "name": "Senses Fail",
-          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
-        }
-      ],
-      "duration_ms": 200300,
-      "name": "In Your Absence",
-      "url": "https://open.spotify.com/track/7ougGsLXXBTJU13WFOE6W7"
     }
   ],
   "unique_name": "This Is Senses Fail",

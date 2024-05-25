@@ -683,6 +683,28 @@
     },
     {
       "album": {
+        "name": "Aquariana",
+        "url": "https://open.spotify.com/album/5nOjg27AnUcrvTv7qOic0F"
+      },
+      "artists": [
+        {
+          "name": "Abayomi",
+          "url": "https://open.spotify.com/artist/2uDMCuJTV24DEJJh4p5dc0"
+        },
+        {
+          "name": "Feyj\u00e3o",
+          "url": "https://open.spotify.com/artist/2tRjUL3itR7rBI8XrvJrCt"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225587,
+      "name": "Aquariana",
+      "url": "https://open.spotify.com/track/4WZ3yYuXMTNZZZ7UMQiDXF"
+    },
+    {
+      "album": {
         "name": "AQUELA SORTE",
         "url": "https://open.spotify.com/album/1AEdoC9BnOyBqdNFRfYSdY"
       },
@@ -2511,6 +2533,24 @@
     },
     {
       "album": {
+        "name": "ESCOLA",
+        "url": "https://open.spotify.com/album/5W2OoC58CVzyOqKubTMTSX"
+      },
+      "artists": [
+        {
+          "name": "Tupi",
+          "url": "https://open.spotify.com/artist/4VPfdVmQ3Lm86SOPgaCsCf"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171875,
+      "name": "ESCOLA",
+      "url": "https://open.spotify.com/track/6K11WB4Usv7VKWlF6XkToE"
+    },
+    {
+      "album": {
         "name": "ESPANHA",
         "url": "https://open.spotify.com/album/01X4fEJzQTGupReTLcRsqV"
       },
@@ -2530,7 +2570,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 210309,
       "name": "ESPANHA",
       "url": "https://open.spotify.com/track/4tEpblUf8pxF8v0BI5lXfO"
@@ -2830,7 +2870,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 154615,
       "name": "Eu T\u00f4 Bem",
       "url": "https://open.spotify.com/track/2xk8j9SCiaFehFgxoFVEAW"

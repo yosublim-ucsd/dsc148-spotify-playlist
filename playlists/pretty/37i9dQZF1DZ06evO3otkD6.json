@@ -1,12 +1,12 @@
 {
   "description": "This Is Belinda. Los temas esenciales, todos en una lista.",
-  "num_followers": 65986,
+  "num_followers": 66018,
   "original_name": "This Is Belinda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zk01gAAAAADC0//b2Ir9BNvk3HiGurmk",
+  "snapshot_id": "Zk6HAAAAAABiqWwUBNm/+j+lXd6O0zP5",
   "tracks": [
     {
       "added_at": null,
@@ -319,30 +319,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The King Is Back",
-        "url": "https://open.spotify.com/album/5N6P3Eh36VTePIz2g2n3Pu"
-      },
-      "artists": [
-        {
-          "name": "Juan Mag\u00e1n",
-          "url": "https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51"
-        },
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        },
-        {
-          "name": "Lapiz Conciente",
-          "url": "https://open.spotify.com/artist/0UTsdD7VIsEB9i7a6DDx5t"
-        }
-      ],
-      "duration_ms": 185480,
-      "name": "Si No Te Quisiera",
-      "url": "https://open.spotify.com/track/0wLqXnCLseMice1Hwq6yLz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "4.0",
         "url": "https://open.spotify.com/album/7zCW1I02UgkVjg0UYd5rOq"
       },
@@ -563,22 +539,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Un Traguito",
-        "url": "https://open.spotify.com/album/1OfaHu7z6jOeVkoZsEVl0H"
+        "name": "Catarsis",
+        "url": "https://open.spotify.com/album/7zOaF1rmHsRNkBd6QZd3Qg"
       },
       "artists": [
-        {
-          "name": "L\u00e9rica",
-          "url": "https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo"
-        },
         {
           "name": "Belinda",
           "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
         }
       ],
-      "duration_ms": 184185,
-      "name": "Un Traguito",
-      "url": "https://open.spotify.com/track/5OSrMt5y9dExB2J5vMdTVk"
+      "duration_ms": 207346,
+      "name": "En La Obscuridad",
+      "url": "https://open.spotify.com/track/1BYfviBeZuGy7SCFg4mBt9"
     },
     {
       "added_at": null,
@@ -595,6 +567,26 @@
       "duration_ms": 195866,
       "name": "Dopamina",
       "url": "https://open.spotify.com/track/3jGVYqal9gz8MLufUzrRhU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Un Traguito",
+        "url": "https://open.spotify.com/album/1OfaHu7z6jOeVkoZsEVl0H"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9rica",
+          "url": "https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo"
+        },
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 184185,
+      "name": "Un Traguito",
+      "url": "https://open.spotify.com/track/5OSrMt5y9dExB2J5vMdTVk"
     },
     {
       "added_at": null,
@@ -1019,6 +1011,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Colorblind",
+        "url": "https://open.spotify.com/album/10pmOIJFrZ1Miyl1qP6Xfw"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 205040,
+      "name": "Colorblind",
+      "url": "https://open.spotify.com/track/2oekKvTdvWAk3x09g7HVlJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Madrid X Marbella",
         "url": "https://open.spotify.com/album/2coM4rvjL0SLDKoCwjtu8y"
       },
@@ -1035,22 +1043,6 @@
       "duration_ms": 194576,
       "name": "Madrid X Marbella",
       "url": "https://open.spotify.com/track/3DiE3kg9WyLw0s8Sa7aTPE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Colorblind",
-        "url": "https://open.spotify.com/album/10pmOIJFrZ1Miyl1qP6Xfw"
-      },
-      "artists": [
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 205040,
-      "name": "Colorblind",
-      "url": "https://open.spotify.com/track/2oekKvTdvWAk3x09g7HVlJ"
     },
     {
       "added_at": null,

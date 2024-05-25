@@ -581,6 +581,28 @@
     },
     {
       "album": {
+        "name": "Sin Miedo: Un Tiro - Ra\u00fal Ramirez (Sessiones con P\u00fablico) [En Vivo]",
+        "url": "https://open.spotify.com/album/6EwZ8CnSFgD8IKvwbhToc0"
+      },
+      "artists": [
+        {
+          "name": "Sin Miedo",
+          "url": "https://open.spotify.com/artist/02lGxcSZaGuHiJryv6vkOY"
+        },
+        {
+          "name": "Raul Ramirez",
+          "url": "https://open.spotify.com/artist/5LN3tGphckDuG0irNsiAs0"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116579,
+      "name": "El Humo del Cigarrillo - En Vivo",
+      "url": "https://open.spotify.com/track/1d3bKbNVwO3YgXPAi3YrI9"
+    },
+    {
+      "album": {
         "name": "El Ni\u00f1o (En Vivo en el Luna Park)",
         "url": "https://open.spotify.com/album/2ZlaAvyAp0jI5k8zHglaSO"
       },
@@ -748,7 +770,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 194931,
       "name": "Estuve Ah\u00ed",
       "url": "https://open.spotify.com/track/0vj7n8tknwKtbvZQ1ocATb"

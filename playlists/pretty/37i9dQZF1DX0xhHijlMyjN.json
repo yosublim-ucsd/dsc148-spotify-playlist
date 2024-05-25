@@ -1,6 +1,6 @@
 {
   "description": "Lo que necesita cualquier verbena veraniega.",
-  "num_followers": 342327,
+  "num_followers": 342340,
   "original_name": "Cl\u00e1sicos del Verano",
   "owner": {
     "name": "Spotify",
@@ -527,22 +527,6 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "Todo De Ti",
-        "url": "https://open.spotify.com/album/3zjKITMp5FHj5aqtWWXrxH"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 199604,
-      "name": "Todo De Ti",
-      "url": "https://open.spotify.com/track/4fSIb4hdOQ151TILNsSEaF"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
         "name": "Me Reh\u00faso",
         "url": "https://open.spotify.com/album/4RrvIEhnaHKpFxsjXc4D7d"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 205714,
       "name": "Me Reh\u00faso",
       "url": "https://open.spotify.com/track/6De0lHrwBfPfrhorm9q1Xl"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
+        "name": "Todo De Ti",
+        "url": "https://open.spotify.com/album/3zjKITMp5FHj5aqtWWXrxH"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 199604,
+      "name": "Todo De Ti",
+      "url": "https://open.spotify.com/track/4fSIb4hdOQ151TILNsSEaF"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "Gipsy Kings",
-        "url": "https://open.spotify.com/album/43uh4QoHA259dOUkXte7dl"
-      },
-      "artists": [
-        {
-          "name": "Gipsy Kings",
-          "url": "https://open.spotify.com/artist/3jc496ljiyrS3ECrD7QiqL"
-        }
-      ],
-      "duration_ms": 204240,
-      "name": "Djobi, Djoba",
-      "url": "https://open.spotify.com/track/2Mz7HwloqFNdA6iZeZk5PJ"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
         "name": "Palabras m\u00e1s, palabras menos",
         "url": "https://open.spotify.com/album/0vcyVi1DEoFqSkGEJ8H46t"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 234800,
       "name": "Mucho mejor (feat. Coque Malla)",
       "url": "https://open.spotify.com/track/06xLo8Oa53wmBMdWcIsqPL"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
+        "name": "Gipsy Kings",
+        "url": "https://open.spotify.com/album/43uh4QoHA259dOUkXte7dl"
+      },
+      "artists": [
+        {
+          "name": "Gipsy Kings",
+          "url": "https://open.spotify.com/artist/3jc496ljiyrS3ECrD7QiqL"
+        }
+      ],
+      "duration_ms": 204240,
+      "name": "Djobi, Djoba",
+      "url": "https://open.spotify.com/track/2Mz7HwloqFNdA6iZeZk5PJ"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -1939,18 +1939,18 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "La Bomba",
-        "url": "https://open.spotify.com/album/6P73QHeqdIP1AnJYopAPB2"
+        "name": "Confidencial/New Booklet",
+        "url": "https://open.spotify.com/album/4MlGPzHeuch6yl8VBzDDmU"
       },
       "artists": [
         {
-          "name": "King Africa",
-          "url": "https://open.spotify.com/artist/2vAu3qMgOvtukijgajuXhM"
+          "name": "Tequila",
+          "url": "https://open.spotify.com/artist/6stZWw6L5Sjy5m7OdUR3rO"
         }
       ],
-      "duration_ms": 199106,
-      "name": "La Bomba",
-      "url": "https://open.spotify.com/track/5UmGJS0jd1r52OjnNvVHvU"
+      "duration_ms": 189133,
+      "name": "Salta!!!",
+      "url": "https://open.spotify.com/track/0M2tanh26PWePnaGVV3h3y"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -1971,22 +1971,6 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "Confidencial/New Booklet",
-        "url": "https://open.spotify.com/album/4MlGPzHeuch6yl8VBzDDmU"
-      },
-      "artists": [
-        {
-          "name": "Tequila",
-          "url": "https://open.spotify.com/artist/6stZWw6L5Sjy5m7OdUR3rO"
-        }
-      ],
-      "duration_ms": 189133,
-      "name": "Salta!!!",
-      "url": "https://open.spotify.com/track/0M2tanh26PWePnaGVV3h3y"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
         "name": "Como te d\u00e9 la gana",
         "url": "https://open.spotify.com/album/5pZyF7BqhusMyrBd8eOjy8"
       },
@@ -2003,6 +1987,22 @@
       "duration_ms": 300026,
       "name": "Las cosas peque\u00f1itas - Mix",
       "url": "https://open.spotify.com/track/6ILh8Kypi5rnlOV8LzvVtj"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
+        "name": "La Bomba",
+        "url": "https://open.spotify.com/album/6P73QHeqdIP1AnJYopAPB2"
+      },
+      "artists": [
+        {
+          "name": "King Africa",
+          "url": "https://open.spotify.com/artist/2vAu3qMgOvtukijgajuXhM"
+        }
+      ],
+      "duration_ms": 199106,
+      "name": "La Bomba",
+      "url": "https://open.spotify.com/track/5UmGJS0jd1r52OjnNvVHvU"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -2059,22 +2059,6 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "El Virao",
-        "url": "https://open.spotify.com/album/33yE3j2Pd10Qa23sWW9bNe"
-      },
-      "artists": [
-        {
-          "name": "Los Cantantes",
-          "url": "https://open.spotify.com/artist/1OK49IC8PfUPbAtQRv2ryh"
-        }
-      ],
-      "duration_ms": 292800,
-      "name": "El Venao",
-      "url": "https://open.spotify.com/track/66y4liRr8Orq45N0I6VRAP"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
         "name": "Xapomel\u00f6n",
         "url": "https://open.spotify.com/album/5YGUW9OJPCoT3bUySE50X7"
       },
@@ -2103,6 +2087,22 @@
       "duration_ms": 211253,
       "name": "Oh La La La",
       "url": "https://open.spotify.com/track/3y7KI1lRSm9jjrCjmsyFPN"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
+        "name": "El Virao",
+        "url": "https://open.spotify.com/album/33yE3j2Pd10Qa23sWW9bNe"
+      },
+      "artists": [
+        {
+          "name": "Los Cantantes",
+          "url": "https://open.spotify.com/artist/1OK49IC8PfUPbAtQRv2ryh"
+        }
+      ],
+      "duration_ms": 292800,
+      "name": "El Venao",
+      "url": "https://open.spotify.com/track/66y4liRr8Orq45N0I6VRAP"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -2255,6 +2255,22 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
+        "name": "La Luna y el Toro (Made In Spain)",
+        "url": "https://open.spotify.com/album/6K9PyNTelZbYHxplIMoq10"
+      },
+      "artists": [
+        {
+          "name": "El Matador",
+          "url": "https://open.spotify.com/artist/6ErWALskhNtDPw3dYDtHjG"
+        }
+      ],
+      "duration_ms": 267386,
+      "name": "La Luna y el Toro",
+      "url": "https://open.spotify.com/track/2fow2c3MQ5qlj0AzzTqktt"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
         "name": "Europop",
         "url": "https://open.spotify.com/album/54vbD17F1t5q3yHkj1cX37"
       },
@@ -2271,22 +2287,6 @@
       "duration_ms": 283747,
       "name": "Blue (Da Ba Dee) - Gabry Ponte Ice Pop Radio",
       "url": "https://open.spotify.com/track/2yAVzRiEQooPEJ9SYx11L3"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
-        "name": "La Luna y el Toro (Made In Spain)",
-        "url": "https://open.spotify.com/album/6K9PyNTelZbYHxplIMoq10"
-      },
-      "artists": [
-        {
-          "name": "El Matador",
-          "url": "https://open.spotify.com/artist/6ErWALskhNtDPw3dYDtHjG"
-        }
-      ],
-      "duration_ms": 267386,
-      "name": "La Luna y el Toro",
-      "url": "https://open.spotify.com/track/2fow2c3MQ5qlj0AzzTqktt"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -2391,22 +2391,6 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "En Cuerpo Y Alma",
-        "url": "https://open.spotify.com/album/0leovhkkVh1112UiSTR2PC"
-      },
-      "artists": [
-        {
-          "name": "David Civera",
-          "url": "https://open.spotify.com/artist/2DxcVfyMWELUI4yPBxgoZF"
-        }
-      ],
-      "duration_ms": 212133,
-      "name": "Que La Detengan",
-      "url": "https://open.spotify.com/track/5a76ewdxMy4WoMuDinapcl"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
         "name": "Matricula De Honor/New Booklet",
         "url": "https://open.spotify.com/album/4ajHTO6YQLBIgfsF9MpKBv"
       },
@@ -2419,6 +2403,22 @@
       "duration_ms": 180266,
       "name": "Rock And Roll en la Plaza del Pueblo",
       "url": "https://open.spotify.com/track/5fCYRuYxc1ox7yWKcKD6tf"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
+        "name": "En Cuerpo Y Alma",
+        "url": "https://open.spotify.com/album/0leovhkkVh1112UiSTR2PC"
+      },
+      "artists": [
+        {
+          "name": "David Civera",
+          "url": "https://open.spotify.com/artist/2DxcVfyMWELUI4yPBxgoZF"
+        }
+      ],
+      "duration_ms": 212133,
+      "name": "Que La Detengan",
+      "url": "https://open.spotify.com/track/5a76ewdxMy4WoMuDinapcl"
     },
     {
       "added_at": "2023-06-09 09:38:51",

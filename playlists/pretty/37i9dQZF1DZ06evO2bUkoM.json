@@ -1,12 +1,12 @@
 {
   "description": "This is Hayley Kiyoko. The essential tracks, all in one playlist.",
-  "num_followers": 49475,
+  "num_followers": 49477,
   "original_name": "This Is Hayley Kiyoko",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zk01gAAAAAD9bn/AfNKzHr6HLeXTjuo5",
+  "snapshot_id": "Zk6HAAAAAAAQ/00E962BmeMBNTtGc+n8",
   "tracks": [
     {
       "added_at": null,
@@ -387,18 +387,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "PANORAMA",
-        "url": "https://open.spotify.com/album/2TJlASpVb5tgcEY0RMyZjQ"
+        "name": "Headcase",
+        "url": "https://open.spotify.com/album/2wDVgssxE37up35W78SFDM"
       },
       "artists": [
+        {
+          "name": "Kailee Morgue",
+          "url": "https://open.spotify.com/artist/245PKF3hKjtxJKIG153kF0"
+        },
         {
           "name": "Hayley Kiyoko",
           "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
         }
       ],
-      "duration_ms": 167433,
-      "name": "luna",
-      "url": "https://open.spotify.com/track/4rCiYKROPDRqMGKX0zSGEo"
+      "duration_ms": 193200,
+      "name": "Headcase",
+      "url": "https://open.spotify.com/track/6NJQ69XAEJ4TbTuDWA0gM0"
     },
     {
       "added_at": null,
@@ -419,22 +423,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Headcase",
-        "url": "https://open.spotify.com/album/2wDVgssxE37up35W78SFDM"
+        "name": "PANORAMA",
+        "url": "https://open.spotify.com/album/2TJlASpVb5tgcEY0RMyZjQ"
       },
       "artists": [
-        {
-          "name": "Kailee Morgue",
-          "url": "https://open.spotify.com/artist/245PKF3hKjtxJKIG153kF0"
-        },
         {
           "name": "Hayley Kiyoko",
           "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
         }
       ],
-      "duration_ms": 193200,
-      "name": "Headcase",
-      "url": "https://open.spotify.com/track/6NJQ69XAEJ4TbTuDWA0gM0"
+      "duration_ms": 167433,
+      "name": "luna",
+      "url": "https://open.spotify.com/track/4rCiYKROPDRqMGKX0zSGEo"
     },
     {
       "added_at": null,

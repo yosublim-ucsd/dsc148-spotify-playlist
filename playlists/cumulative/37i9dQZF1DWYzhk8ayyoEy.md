@@ -4,7 +4,7 @@
 
 > Warm, inspirational pop, that's good at heart.
 
-129 songs - 7 hr 16 min
+130 songs - 7 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Build a Boat \(feat\. Gabby Barrett\)](https://open.spotify.com/track/3x7aKJjH0KB2etVEzlQf4v) | [Colton Dixon](https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R), [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Build a Boat \(feat\. Gabby Barrett\)](https://open.spotify.com/album/4SZMNcGVATjnAUfOXT9pTf) | 2:50 | 2023-01-28 |  |
 | [bulletproof](https://open.spotify.com/track/4V2bBjCOgiOSNtgrTZL0og) | [Jamie Fine](https://open.spotify.com/artist/4uwJ3NRArTb8VlKbuAFyFG) | [bulletproof](https://open.spotify.com/album/1hCiqZ2uyJT5fWd4pxWwx0) | 3:02 | 2024-03-08 |  |
 | [By The Grace Of God](https://open.spotify.com/track/2IRK3qdY6BzbKxKr8eBk8o) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [PRISM \(Deluxe\)](https://open.spotify.com/album/5MQBzs5YlZlE28mD9yUItn) | 4:27 | 2023-01-04 |  |
-| [Cherry On Top](https://open.spotify.com/track/235lO0qJ7TO9lpDorTvegE) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Cherry On Top](https://open.spotify.com/album/5xnwFUWAv18LZOUhAKkpGm) | 4:14 | 2024-04-12 |  |
+| [Cherry On Top](https://open.spotify.com/track/235lO0qJ7TO9lpDorTvegE) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Cherry On Top](https://open.spotify.com/album/5xnwFUWAv18LZOUhAKkpGm) | 4:14 | 2024-04-12 | 2024-05-25 |
 | [Clarity](https://open.spotify.com/track/5c6lM2zjAF6MFoD8C1hiBr) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Clarity](https://open.spotify.com/album/4V3BerycmgxqE3sr3RaDYE) | 3:47 | 2023-01-04 |  |
 | [creature](https://open.spotify.com/track/6tJkq3zUXlEjWluMW9Hdij) | [half•alive](https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k) | [Now, Not Yet](https://open.spotify.com/album/2KSWrd22LGc0Hmqs2Z5i7z) | 5:35 | 2024-02-27 |  |
 | [Don't Give Up On Me](https://open.spotify.com/track/0fiijtFXDJ9MOVwgSaEQJ5) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Naïve](https://open.spotify.com/album/4NkgzNCOzuki4FuWUOY28R) | 3:16 | 2023-09-29 | 2024-04-19 |
@@ -83,6 +83,7 @@
 | [Love Myself](https://open.spotify.com/track/4o4MwnE4OK3JNG4lCYFnwm) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Love Myself](https://open.spotify.com/album/3dWKxlG74AkudyddirBxuF) | 3:07 | 2023-01-04 |  |
 | [Love You Anyway](https://open.spotify.com/track/31QplXgQf5ZZzk6mbx5KHr) | [Devon Gilfillian](https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH) | [Love You Anyway](https://open.spotify.com/album/3yDRYiQJHgrzUxztqO5hrG) | 3:47 | 2023-04-07 |  |
 | [ME YOU](https://open.spotify.com/track/2u1gdTcWQjyCTCWYBWkoEj) | [Troy Ogletree](https://open.spotify.com/artist/4bfmahiXCtliOatKTQe0Vt), [Nyman](https://open.spotify.com/artist/5uUtgag4eH1FrlbGUz3XgT) | [ME YOU](https://open.spotify.com/album/1Ug4L0tW4LHyQobHV2B6Pw) | 2:56 | 2023-01-04 | 2023-01-29 |
+| [More Than Enough](https://open.spotify.com/track/1YozunxkoDX1OJno9DG9W1) | [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [More Than Enough](https://open.spotify.com/album/0gc82qsBXTGXq7UshX8qSq) | 3:07 | 2024-05-24 |  |
 | [My Light](https://open.spotify.com/track/1XhNAeoka7OOCPf3MbKJU6) | [Colton Dixon](https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R) | [My Light \(Acoustic Version\)](https://open.spotify.com/album/2cjjFYOq98eUZSMY2Nqbm4) | 2:27 | 2023-05-12 | 2024-04-19 |
 | [My Light](https://open.spotify.com/track/2KD4v8UbJi44ZaPLeTm5t5) | [Colton Dixon](https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R) | [My Light](https://open.spotify.com/album/4pBtX6lfkeENkYIQ2vpus2) | 2:27 | 2023-02-24 |  |
 | [My Revival](https://open.spotify.com/track/33ihkBSArzmeAbT0DNDVsC) | [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [My Revival](https://open.spotify.com/album/07da4vVoTXWXZ0rdiIHL1d) | 3:44 | 2023-09-29 |  |

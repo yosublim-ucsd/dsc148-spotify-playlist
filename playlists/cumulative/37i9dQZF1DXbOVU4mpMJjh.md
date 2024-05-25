@@ -4,7 +4,7 @@
 
 > Relax to gentle vocal and instrumental Jazz.
 
-1,169 songs - 3 day 6 hr 50 min
+1,171 songs - 3 day 6 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -551,6 +551,7 @@
 | [Last Time I Saw You](https://open.spotify.com/track/2Qyrr1fiYwV3bShAZqiivZ) | [West Village Trio](https://open.spotify.com/artist/6cIFYOs23Aowktaez0d6ew) | [Rue Saint\-Rustique](https://open.spotify.com/album/1IJrePjVbCWRK31hmKa3jB) | 3:55 | 2022-12-22 |  |
 | [Last Time We Kissed](https://open.spotify.com/track/2VKyHhj7QFTyxqOwyde1rS) | [The Groove Trio](https://open.spotify.com/artist/4vmN5DgVFk2GDBHDu1ZJeb) | [Life in Space](https://open.spotify.com/album/63Y51ZVDizFQyxA8znmmbn) | 4:14 | 2022-12-22 |  |
 | [Late At Night](https://open.spotify.com/track/6pv7UGD1CNFS7Lzm6ro7aK) | [Ellie Manne](https://open.spotify.com/artist/64pmY5ar3DraFZpBJcrvZf) | [Late At Night](https://open.spotify.com/album/5TuHXCf4FxpKGBtrdibi9m) | 3:50 | 2023-08-10 |  |
+| [Late At Night](https://open.spotify.com/track/2hs7iNULNKcfbFpLsyazEz) | [Wildflower Trio](https://open.spotify.com/artist/201JTvpknVv2BZgtwDaQH6) | [Late At Night](https://open.spotify.com/album/3lMYHC4ZL9xYxsp5yysMKl) | 3:08 | 2024-05-23 |  |
 | [Late Bagatelle](https://open.spotify.com/track/7BfOE71MK4usBrYmArJt5M) | [Nouvelle Marée](https://open.spotify.com/artist/53xh7BAl56yKW1LrqaLqdq) | [Late Bagatelle](https://open.spotify.com/album/1rn3qFrQqF1w4uKBU0mnhW) | 3:59 | 2023-08-18 |  |
 | [Late Night](https://open.spotify.com/track/7DStSdmgPggkeAzVhZFj6s) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [Late Night](https://open.spotify.com/album/4xhU21k5nDS4D0V1RpL1JB) | 4:52 | 2024-04-23 |  |
 | [Late Night Serenade](https://open.spotify.com/track/335m1wcXqBuTOnGkHvQLKE) | [Devon Crouch](https://open.spotify.com/artist/02zs7OtXn8UAl8HAc6hfYZ) | [Late Night Serenade](https://open.spotify.com/album/0vgWnvmrW0MKhqM0x47EoG) | 3:15 | 2023-06-15 |  |
@@ -678,7 +679,7 @@
 | [My first kiss](https://open.spotify.com/track/30VQy0OHXjam8lKkpsZF4Z) | [Dave Oakley trio](https://open.spotify.com/artist/6HOLnnkgNpWVVjZRELl9lc) | [My first kiss](https://open.spotify.com/album/1Qhe73UDyVrdfpi6j3Ymnw) | 3:24 | 2023-03-09 |  |
 | [My Foolish Heart](https://open.spotify.com/track/6J973mNweqCDzoGfl2v8SA) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [Waltz For Debby \[Original Jazz Classics Remasters\] \(OJC Remaster\)](https://open.spotify.com/album/3jrQgQYZ3WDW3mn55SFuUv) | 4:57 | 2022-04-14 | 2022-07-29 |
 | [My Foolish Heart](https://open.spotify.com/track/6yKkA8HzwWTZ5taIMaG4Nm) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [Waltz For Debby \[Original Jazz Classics Remasters\] \(OJC Remaster\)](https://open.spotify.com/album/0MjlKhtsyax9HSWNkYaWM2) | 4:57 | 2022-06-30 | 2022-11-18 |
-| [My Foolish Heart](https://open.spotify.com/track/7zLJoMkTqAZMfQOfRorCEc) | [Carl Winther Trio](https://open.spotify.com/artist/3y4phUBzYdEtzU05FMCeu6), [Anders Mogensen](https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik), [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R) | [More Swingin'](https://open.spotify.com/album/4HgnJan8IvNyaBkA1qVBnA) | 4:43 | 2024-03-15 |  |
+| [My Foolish Heart](https://open.spotify.com/track/7zLJoMkTqAZMfQOfRorCEc) | [Carl Winther Trio](https://open.spotify.com/artist/3y4phUBzYdEtzU05FMCeu6), [Anders Mogensen](https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik), [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R) | [More Swingin'](https://open.spotify.com/album/4HgnJan8IvNyaBkA1qVBnA) | 4:43 | 2024-03-15 | 2024-05-25 |
 | [My Fortune](https://open.spotify.com/track/0jXPKgpfyYXEWNHVBSCJ4P) | [Garry Cooper Trio](https://open.spotify.com/artist/3cgKynIVkHB5ZWckvrDE3Q) | [My Fortune](https://open.spotify.com/album/4FEMX7bMR5J0w3cRUXOoKJ) | 4:31 | 2022-10-06 |  |
 | [My Funny Valentine](https://open.spotify.com/track/0MfK7lsLUvMq2CURkt61uF) | [Miles Davis Quintet](https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx) | [Cookin' With The Miles Davis Quintet \[Rudy Van Gelder edition\] \(Remastered\)](https://open.spotify.com/album/4klctF4THHFlLLTZGpa4D2) | 6:00 | 2022-04-14 | 2022-07-29 |
 | [My Funny Valentine \- Rudy Van Gelder Remaster 2007](https://open.spotify.com/track/5FYgwqjjq9kPCMj8yArfTr) | [Miles Davis Quintet](https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx) | [Cookin' With The Miles Davis Quintet](https://open.spotify.com/album/6QPFCq6SHAOhBI1Vf14G0y) | 5:58 | 2022-06-30 | 2022-09-30 |
@@ -1089,6 +1090,7 @@
 | [Walk Beside Me](https://open.spotify.com/track/7eyXx9ngV1jkChWMPuR6al) | [Gabriel Gonzalez](https://open.spotify.com/artist/5bL2hXMTtmocrHU3BqsZ4U) | [Walk Beside Me](https://open.spotify.com/album/2dNuBRAlgAWOXFyw3w6GOA) | 3:20 | 2024-05-10 |  |
 | [Walking into Love](https://open.spotify.com/track/5j3WbWhQJpANH3HFWHtLq5) | [Nordic Swing](https://open.spotify.com/artist/5LL0LIw64LrSLwmZEhJNq4) | [Walking into Love](https://open.spotify.com/album/2lfst2A0Lbz8kpzxprjnM2) | 3:17 | 2023-04-20 |  |
 | [Walking talking fields](https://open.spotify.com/track/2sMyolj16yyMfF5TDs2Xs8) | [Rossdale Junction](https://open.spotify.com/artist/07lLIhOAtuwjGaZ0goh3iO) | [Walking talking fields](https://open.spotify.com/album/1PWAJ2s1OLsjPBA8ZieZvr) | 3:54 | 2023-09-29 |  |
+| [Walking You Home](https://open.spotify.com/track/0FGssXb5s6d7QPLFQLE4OO) | [Mino Conte & Co](https://open.spotify.com/artist/1kzntvfEnEvuhMeA3IcaZi) | [Walking You Home](https://open.spotify.com/album/3SJawp8ghUJ2HrbZ8kcpKi) | 2:59 | 2024-05-23 |  |
 | [Wallflower](https://open.spotify.com/track/5UmbhPeNquH5OmwJ8oGuAP) | [Isac Solo Trio](https://open.spotify.com/artist/0PQJ8CW64ZpCQTXIWvpkUN) | [Wallflower](https://open.spotify.com/album/3tzw5TaV9l6hhMczQiTSPK) | 3:40 | 2023-09-29 |  |
 | [Was It Me?](https://open.spotify.com/track/6Q0qioDylmmGPhj2s7qo4q) | [Al Fowler Trio](https://open.spotify.com/artist/5CerxxaCrkjDa5ShjsTwcX) | [Was It Me?](https://open.spotify.com/album/2NBKYZxvxE535vWtPzIlHv) | 4:21 | 2023-12-08 |  |
 | [Waterfall](https://open.spotify.com/track/0Gyu7ttkfam04VeAgZEB3c) | [Pimm's Trio](https://open.spotify.com/artist/0vlyMzroosYUjkAfHLx6kF) | [Waterfall](https://open.spotify.com/album/4ce6IAUlzsEe7elxVkRZqc) | 2:32 | 2023-01-12 |  |
@@ -1145,7 +1147,7 @@
 | [Worrisome Heart](https://open.spotify.com/track/3zh5km8gPDYMiWvmLTsos0) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J) | [Worrisome Heart](https://open.spotify.com/album/5ahEd7berYIgjRYsIHZa8Y) | 4:21 | 2022-04-14 | 2022-08-30 |
 | [Worry and Gossip](https://open.spotify.com/track/32BL3Zghn1hSCgpgLSrUqc) | [Courtney Salas Group](https://open.spotify.com/artist/7hQlDvOgJjwCaF5Ecsvnj7) | [Worry and Gossip](https://open.spotify.com/album/1GA9JcA89pxedYvGc7FUqV) | 3:41 | 2023-10-13 |  |
 | [Would You Be So Kind](https://open.spotify.com/track/5rdkWQtSU6UT2Fg6MuwsNa) | [Lyle Jones](https://open.spotify.com/artist/3iqAlBaVPXnsS3tIPUH9Wu) | [Would You Be So Kind](https://open.spotify.com/album/7KkBDxCXqxEOkpFi4WaXtX) | 4:05 | 2023-12-08 |  |
-| [Would You Mind?](https://open.spotify.com/track/4CC7JBuwQKHCSCxf5hc6SK) | [The Boston Four](https://open.spotify.com/artist/2vRbMto00LAZjdA2s227Sl) | [Would You Mind?](https://open.spotify.com/album/4gwpfTc34g72SU0lUN34di) | 3:34 | 2024-03-08 |  |
+| [Would You Mind?](https://open.spotify.com/track/4CC7JBuwQKHCSCxf5hc6SK) | [The Boston Four](https://open.spotify.com/artist/2vRbMto00LAZjdA2s227Sl) | [Would You Mind?](https://open.spotify.com/album/4gwpfTc34g72SU0lUN34di) | 3:34 | 2024-03-08 | 2024-05-25 |
 | [Wrap Your Troubles In Dreams](https://open.spotify.com/track/7H6doSNNykKJH1ewJxW4FL) | [Elvine Harley](https://open.spotify.com/artist/3pbfHgFHAngmFcmZeeIDPY) | [Wrap Your Troubles In Dreams](https://open.spotify.com/album/5BMDLUvkvvkaxOVWKDnM7Q) | 2:49 | 2023-06-08 |  |
 | [Yesteryear](https://open.spotify.com/track/2qbPX1fQUyknyc7cZw2L8W) | [Snorre Kirk](https://open.spotify.com/artist/1QgZiL5uQ3WN1sMkmbVaGM), [Michael Blicher](https://open.spotify.com/artist/63pT7P8TZCJmvsEbCbE0sZ) | [Yesteryear](https://open.spotify.com/album/5XqLTTwrDqietv4GjKIXuD) | 4:19 | 2023-03-09 |  |
 | [You Are Too Beautiful](https://open.spotify.com/track/3rGH9xLvAP2R6445FaLVs8) | [Grace Carey](https://open.spotify.com/artist/6r8iQcLJAEKpFGN0FSusEd) | [You Are Too Beautiful](https://open.spotify.com/album/33NCFfEVLRuMZduy6wUiQA) | 3:18 | 2023-05-25 |  |

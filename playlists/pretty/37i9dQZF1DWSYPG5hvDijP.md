@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 
 > New Hip Hop from India.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,181 likes - 75 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,220 likes - 75 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,12 +12,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 | 2 | [Independent](https://open.spotify.com/track/60xwE3pt6nzNed0COrDhgE) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [Independent](https://open.spotify.com/album/1UNGlQZLUxbLzqwEOZ4lge) | 3:40 |
 | 3 | [Bail Pe](https://open.spotify.com/track/2zJfPQxcKXcYLx1AEaeGIO) | [Loka](https://open.spotify.com/artist/0AK5uxL2fY52xEoj1bBySu), [Kaam Bhaari](https://open.spotify.com/artist/5bTYVMQ6vmt4Bm12hM59N3), [Vijay Dk](https://open.spotify.com/artist/0FnHTpXidzx2HMEaqMerkt) | [Loka Yaha Hai](https://open.spotify.com/album/0SOdtFMbmVADfBZZY8cqTc) | 3:40 |
 | 4 | [Chakkar](https://open.spotify.com/track/6cVA32Qy5BJH7tfSd3SvRm) | [tricksingh](https://open.spotify.com/artist/3xvOoFJqHTgdPqUVWlRYQk), [Eyepatch](https://open.spotify.com/artist/1kmbGVNEUnTbq1yptaiOVj) | [Chakkar](https://open.spotify.com/album/1J4fg0GhFDmnqtimUJZZE3) | 2:36 |
-| 5 | [Gangster Shit 1st](https://open.spotify.com/track/78WyKftS4YtbhbnQGwAMMi) | [SAMBATA](https://open.spotify.com/artist/3Il6TyOnML9fMSCyDMbUCO) | [Gangster Shit 1st](https://open.spotify.com/album/2EASVa2mSXZs7KERC2D8zp) | 5:21 |
-| 6 | [Daae / Baae](https://open.spotify.com/track/7ivAQyb7IBhsv5JE2C25Ab) | [Yashraj](https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST), [Dropped Out](https://open.spotify.com/artist/7zN7ZzgJdUZdEcbecViK4N) | [Daae / Baae](https://open.spotify.com/album/7946Gev1ctUBANzL1tMVX0) | 3:56 |
-| 7 | [Gardan Pe](https://open.spotify.com/track/4PVTwQqET48kzzI8SJTLIO) | [Hitzone](https://open.spotify.com/artist/0mtJ84Ykk72kP5NvC14s6V) | [Gardan Pe](https://open.spotify.com/album/5LTMMbrkGD4ai6MkYMXi3L) | 2:58 |
-| 8 | [Tera Hua](https://open.spotify.com/track/2ZVW5S2D4MR6EJO08qInbo) | [Karma](https://open.spotify.com/artist/2RS1R0tueoL8EJXTSBAt2F), [Sez on the Beat](https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe) | [Tera Hua](https://open.spotify.com/album/6erT6iguLk3iop4nykkHgC) | 2:15 |
-| 9 | [Dil Lena Khel](https://open.spotify.com/track/0rikQXyHCK7fpkrCjO0FDz) | [Dino James](https://open.spotify.com/artist/45PG2L6Fh2XvYL4ONzpdoW), [R\. D\. Burman](https://open.spotify.com/artist/2JSYASbWU5Y0fVpts3Eq7g), [Bluish Music](https://open.spotify.com/artist/3KlLo4hL4Qq2mhSIGMfas6) | [Dil Lena Khel](https://open.spotify.com/album/0pA1hZCAfTz1TrV6oXpD1M) | 2:26 |
-| 10 | [Kaala Teeka](https://open.spotify.com/track/6GDEzYzHX4DcmQdR2njtC5) | [Dizlaw](https://open.spotify.com/artist/1UCR3l3JEC7O3XMS5I8dUU) | [Kaala Teeka](https://open.spotify.com/album/0Hy9vV9UuBV1uDy14zG76n) | 2:51 |
+| 5 | [House Of Lies](https://open.spotify.com/track/7avo2LpNFXrgUgRtl9OsAL) | [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR), [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Sanjoy](https://open.spotify.com/artist/6qjhYs5KNSoSU6fNJqDGIo) | [House Of Lies](https://open.spotify.com/album/58U6KMHr9ApwuTXeKXIGa9) | 2:59 |
+| 6 | [Gangster Shit 1st](https://open.spotify.com/track/78WyKftS4YtbhbnQGwAMMi) | [SAMBATA](https://open.spotify.com/artist/3Il6TyOnML9fMSCyDMbUCO) | [Gangster Shit 1st](https://open.spotify.com/album/2EASVa2mSXZs7KERC2D8zp) | 5:21 |
+| 7 | [Mainland](https://open.spotify.com/track/6YrQ422bJREGoc6TvVlGDm) | [Kidshot](https://open.spotify.com/artist/0vZEDTIhGPOIRL0KjqMWTy), [Basshole](https://open.spotify.com/artist/0ekmt23HAEQg3GXQtVNk4e) | [Mainland](https://open.spotify.com/album/3y5zOBt4JrHvS6vU90cAg5) | 2:19 |
+| 8 | [Daae / Baae](https://open.spotify.com/track/7ivAQyb7IBhsv5JE2C25Ab) | [Yashraj](https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST), [Dropped Out](https://open.spotify.com/artist/7zN7ZzgJdUZdEcbecViK4N) | [Daae / Baae](https://open.spotify.com/album/7946Gev1ctUBANzL1tMVX0) | 3:56 |
+| 9 | [Tera Hua](https://open.spotify.com/track/2ZVW5S2D4MR6EJO08qInbo) | [Karma](https://open.spotify.com/artist/2RS1R0tueoL8EJXTSBAt2F), [Sez on the Beat](https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe) | [Tera Hua](https://open.spotify.com/album/6erT6iguLk3iop4nykkHgC) | 2:15 |
+| 10 | [Dil Lena Khel](https://open.spotify.com/track/0rikQXyHCK7fpkrCjO0FDz) | [Dino James](https://open.spotify.com/artist/45PG2L6Fh2XvYL4ONzpdoW), [R\. D\. Burman](https://open.spotify.com/artist/2JSYASbWU5Y0fVpts3Eq7g), [Bluish Music](https://open.spotify.com/artist/3KlLo4hL4Qq2mhSIGMfas6) | [Dil Lena Khel](https://open.spotify.com/album/0pA1hZCAfTz1TrV6oXpD1M) | 2:26 |
 | 11 | [7 May](https://open.spotify.com/track/6KLFIY2LIzzFQ6TQDn0Ioo) | [MC INSANE](https://open.spotify.com/artist/7vlghc3VSBc7oPg2a2FRSq) | [7 May](https://open.spotify.com/album/027yRLY4A2lxMCkWcpnGO7) | 4:19 |
 | 12 | [G\-Yaan](https://open.spotify.com/track/3wGz2eHyWekq06k6LdqYiG) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh) | [Ek Tha Raja](https://open.spotify.com/album/0LcyzKKw3RjFKL6ygISTeU) | 2:22 |
 | 13 | [Maula Mere](https://open.spotify.com/track/78F8mvqlYWrA2f8tYhdV8c) | [Loka](https://open.spotify.com/artist/0AK5uxL2fY52xEoj1bBySu), [MC Altaf](https://open.spotify.com/artist/1oMKeiHXRkg7tNqwhaS3fu) | [Loka Yaha Hai](https://open.spotify.com/album/0SOdtFMbmVADfBZZY8cqTc) | 3:00 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 | 74 | [Kaha Tak](https://open.spotify.com/track/1EvFCT12WiFT649pC9wsPV) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t), [Jokhay](https://open.spotify.com/artist/0Nl4kTPLk2ucrARvaf55zQ), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi) | [Time Will Tell](https://open.spotify.com/album/2KeoHVqxTVYsOz5ThUyQ6y) | 3:33 |
 | 75 | [Boyfriend](https://open.spotify.com/track/79L4Ilf14zlMlwosjVWWyG) | [Dino James](https://open.spotify.com/artist/45PG2L6Fh2XvYL4ONzpdoW), [Sez on the Beat](https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe), [Bluish Music](https://open.spotify.com/artist/3KlLo4hL4Qq2mhSIGMfas6) | [Boyfriend](https://open.spotify.com/album/5iygFlfiQ410htPcHY6w0S) | 5:30 |
 
-Snapshot ID: `Zk2OwAAAAACGtnFPy2K14Ew50elTiJ5m`
+Snapshot ID: `ZlA42wAAAACP1pUTuRTYl2LsDM8Khd2e`

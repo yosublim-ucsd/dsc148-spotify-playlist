@@ -4,7 +4,7 @@
 
 > Your favourite café with that warm and cozy Jazz vibe.
 
-203 songs - 12 hr 0 min
+208 songs - 12 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [All I See In You](https://open.spotify.com/track/5CFZEWl1VQpFDda3PYitiP) | [Most Iverson](https://open.spotify.com/artist/7b4IdPtHjtIptOsszfiSy2) | [All I See In You](https://open.spotify.com/album/2ggzixrXLK0VQOCNtWntdM) | 3:55 | 2023-08-24 |  |
 | [All My Tomorrows](https://open.spotify.com/track/4WnBYBYzYhS2I838VTxhaN) | [Figgy Mold](https://open.spotify.com/artist/1nr44rcCUJR2qL0SKfCOYF) | [All My Tomorrows](https://open.spotify.com/album/5kICb2TJOeFRTCvJsI1ldJ) | 3:21 | 2023-03-03 |  |
 | [All The Sunsets](https://open.spotify.com/track/0cI9MAnRKv5R2AVWmQl4Tg) | [Midnight Trio](https://open.spotify.com/artist/6tlN3eXUM981BWTAHN27bv) | [All The Sunsets](https://open.spotify.com/album/3fPBnVnETDCjBgytUK8vjE) | 3:40 | 2024-03-08 |  |
+| [Another Day](https://open.spotify.com/track/516dXS5QwzvlvP3zS63dnS) | [Arta Porting](https://open.spotify.com/artist/6e2ZpZDumV9AabK9rxpIUg) | [Another Day](https://open.spotify.com/album/2mCmt4mpUId90aVmNJY7zt) | 4:47 | 2024-05-24 |  |
 | [Autumn Once Again](https://open.spotify.com/track/3FFYuymUtI8DihGhLMHggW) | [CMC 3](https://open.spotify.com/artist/6GtEW3IyxraJqKi2h86JqC) | [Autumn Once Again](https://open.spotify.com/album/3XWIqHBr7g3vkRKOx94SFk) | 4:44 | 2023-03-03 |  |
 | [Barney's](https://open.spotify.com/track/4SPtyeZCNeiPsquKP8B8ip) | [The Groove Trio](https://open.spotify.com/artist/4vmN5DgVFk2GDBHDu1ZJeb) | [Life in Space](https://open.spotify.com/album/63Y51ZVDizFQyxA8znmmbn) | 3:03 | 2023-03-03 |  |
 | [Beautiful Sunrise](https://open.spotify.com/track/6vtzBYf1I2Ozsdp94A2t5i) | [Arta Porting](https://open.spotify.com/artist/6e2ZpZDumV9AabK9rxpIUg) | [Beautiful Sunrise](https://open.spotify.com/album/5uyJnjft5UrYelzlatQxJH) | 4:51 | 2023-03-03 |  |
@@ -51,7 +52,7 @@
 | [Don't Go To Strangers](https://open.spotify.com/track/5n3Fi4f7VJyQQrFlfA9F9f) | [Old Town Trio](https://open.spotify.com/artist/4dSiNMDfIlI3qwNuAlk4dZ) | [Don't Go To Strangers](https://open.spotify.com/album/3WxjvFCGzABRCtw8vPWm7m) | 4:02 | 2023-03-03 |  |
 | [Dreaming](https://open.spotify.com/track/6Ig0tGfqeR97XcFvtcOuJu) | [Cara Myers Trio](https://open.spotify.com/artist/3YKaVuPgMSkBr5r3zqxEdV) | [Dreaming](https://open.spotify.com/album/1IRYKF2RkTZ2moQCjAm8KZ) | 3:34 | 2024-03-08 |  |
 | [Ducks for cover](https://open.spotify.com/track/4oECG5mUxW51Nh3U6iOdrc) | [Reuben Plays](https://open.spotify.com/artist/5RktRZOHbkKduKINbyTHNC) | [Ducks for cover](https://open.spotify.com/album/4sbUuCDayRl0uaF92eUquz) | 2:40 | 2023-05-11 |  |
-| [Early Mornings](https://open.spotify.com/track/4a0p3YclRTqjojqSG75XLK) | [Arta Porting](https://open.spotify.com/artist/6e2ZpZDumV9AabK9rxpIUg) | [Early Mornings](https://open.spotify.com/album/7hYqoSorlDTgJMuIEXFepE) | 5:35 | 2023-03-24 |  |
+| [Early Mornings](https://open.spotify.com/track/4a0p3YclRTqjojqSG75XLK) | [Arta Porting](https://open.spotify.com/artist/6e2ZpZDumV9AabK9rxpIUg) | [Early Mornings](https://open.spotify.com/album/7hYqoSorlDTgJMuIEXFepE) | 5:35 | 2023-03-24 | 2024-05-25 |
 | [Echoes of Elegance](https://open.spotify.com/track/2Ba5S2YdO9uMq0m6McDnzj) | [Bill Parker](https://open.spotify.com/artist/58mMPpww20oJW8J0UZ3frj) | [Echoes of Elegance](https://open.spotify.com/album/27fUpjNhwSGatFLShTeR8G) | 2:56 | 2023-08-31 |  |
 | [Elegant As They Come](https://open.spotify.com/track/4kPYGarMXHC5eACXc17P25) | [Prism Trio](https://open.spotify.com/artist/6oDehRFhqt0eSSSIKD4XgE) | [Above the Clouds](https://open.spotify.com/album/2JayXGwZRkOf2d8800ymf4) | 4:22 | 2023-08-24 |  |
 | [Endless](https://open.spotify.com/track/4JKlhfRIqQkvJsAhnLvThW) | [Luke Marantz Trio](https://open.spotify.com/artist/6skWyJ0S6yQ2bKBQb1klxo) | [Endless](https://open.spotify.com/album/0yKp48RlWbcV0h443MVXAJ) | 3:26 | 2024-03-22 |  |
@@ -98,6 +99,7 @@
 | [Just Like Talking](https://open.spotify.com/track/04o0imSbqJGkbXKPuvCgWv) | [Norris Walker Trio](https://open.spotify.com/artist/2AOwERyiRRzThecI5m7xK9) | [Just Like Talking](https://open.spotify.com/album/10pU0nothMHxWm1Jz7jDqJ) | 3:32 | 2024-01-05 |  |
 | [Keep It Simple](https://open.spotify.com/track/6aJUOfoLUBcZqc1emenF1F) | [Ray Horne Trio](https://open.spotify.com/artist/51XvvMJ1TNAQpuGnDlwmUT) | [Keep It Simple](https://open.spotify.com/album/4pwU7mmJ6jB0K2LdjzfVPZ) | 3:43 | 2023-03-03 |  |
 | [Last Call](https://open.spotify.com/track/2nUhKiUfVdLcGmcdYHdjBw) | [Glass Trio](https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm) | [Nightcaps](https://open.spotify.com/album/2LkaBy0R9FbEBd6xqsT0ja) | 2:49 | 2023-03-03 |  |
+| [Late At Night](https://open.spotify.com/track/2hs7iNULNKcfbFpLsyazEz) | [Wildflower Trio](https://open.spotify.com/artist/201JTvpknVv2BZgtwDaQH6) | [Late At Night](https://open.spotify.com/album/3lMYHC4ZL9xYxsp5yysMKl) | 3:08 | 2024-05-24 |  |
 | [Late Reflections](https://open.spotify.com/track/76RWGx3zZ46aIY4WPjsLuo) | [Douglas Ruby Trio](https://open.spotify.com/artist/1viVBXkZrTMnLT6hsFhiMM) | [Late Reflections](https://open.spotify.com/album/2iJH0ujIwbtlQ41b3CBcaO) | 3:41 | 2023-04-14 |  |
 | [Lemon Tart](https://open.spotify.com/track/1cPvmbaYDC33sTkNlfTuIB) | [LaSalle Street Trio](https://open.spotify.com/artist/0lEDIqg3LH3JQ9YoFMJAIn) | [Lemon Tart](https://open.spotify.com/album/6zS3RKFsnWW7oIpYMGL1XW) | 3:31 | 2023-04-27 |  |
 | [Let's Not](https://open.spotify.com/track/4LJfsJaMLMWNpysdH5K5oS) | [Danny Ryan Jazz Band](https://open.spotify.com/artist/3xs6vmsEWnke7fTjjn0n3j) | [Blueberry Street](https://open.spotify.com/album/1RDmHgLLP027hDRFZxg0Fo) | 4:25 | 2023-03-03 |  |
@@ -111,6 +113,7 @@
 | [Ludlow](https://open.spotify.com/track/2EhrFpsVC4rkiCf86AeVdv) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [Easy Dreamin'](https://open.spotify.com/album/4JkR0RYW5wCohQPke2Kwl2) | 3:03 | 2023-03-03 |  |
 | [Make bad worse](https://open.spotify.com/track/0YSEDfbMKIihgvPsqmERWu) | [Ornette Haynes](https://open.spotify.com/artist/5Fb5lnOYweoOU7Xt5qQ1h6) | [Make bad worse](https://open.spotify.com/album/7ty0Qser224kx5eqTevfPq) | 2:40 | 2023-10-06 |  |
 | [Mancuso's Joint](https://open.spotify.com/track/5bVT6a3fLBhW0969fn40lo) | [Norris Walker Trio](https://open.spotify.com/artist/2AOwERyiRRzThecI5m7xK9) | [Mancuso's Joint](https://open.spotify.com/album/4lNWtfpQzNsLIVvYy8kSgF) | 4:18 | 2023-03-03 |  |
+| [May This Dance Last Forever](https://open.spotify.com/track/7o5OtG2KwcXObjebVXJNG4) | [The Belleville Band](https://open.spotify.com/artist/06ZTM5bZGUrNwBobE5eVBW) | [May This Dance Last Forever](https://open.spotify.com/album/52jObqeeDAtFOT9sQ5O1Kq) | 2:49 | 2024-05-24 |  |
 | [Maze of Tranquility](https://open.spotify.com/track/06henIQqvVk2vAKj1yQtTp) | [Martin Landström](https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN) | [Maze of Tranquility](https://open.spotify.com/album/3xOT2GRM03MGNTRMQFSPZS) | 4:22 | 2023-03-03 |  |
 | [Me and You](https://open.spotify.com/track/13PQrxT6yKIpsjIKPRBtC5) | [Måns & Dotter](https://open.spotify.com/artist/2p01LeKL4qyvQ5xKWs9S40) | [Du & Jag](https://open.spotify.com/album/6XFSqJXCjg1x5GeBslZkBN) | 3:02 | 2023-03-03 |  |
 | [Mellow Moments](https://open.spotify.com/track/3YGVTfSxTCuDykWrENqmGp) | [Leeluck & Co](https://open.spotify.com/artist/5IZZX2p6pyi2VqFUBKEDHL) | [Mellow Moments](https://open.spotify.com/album/1ewVy7oBv5CLUM7htj4oFk) | 3:08 | 2023-04-27 |  |
@@ -155,6 +158,7 @@
 | [Short Intermission](https://open.spotify.com/track/2RLd480e9nMzuvgds9fSqg) | [Arto Ferrara](https://open.spotify.com/artist/0mhQiATaCY2exxGueTVOpH) | [Short Intermission](https://open.spotify.com/album/6bDsTyNw02QSceWcDRmNKd) | 2:32 | 2024-02-02 |  |
 | [Soft Lad](https://open.spotify.com/track/2D5WUT4UAYqceSBUmwstDf) | [Tyrone Coates & Friends](https://open.spotify.com/artist/2XSpojB87LHkWSrF4yBNmC) | [Soft Lad](https://open.spotify.com/album/4y9M38huG2kr1sOGZnqzYw) | 2:54 | 2023-08-31 |  |
 | [Soft Moments](https://open.spotify.com/track/0cGUiaeg4Ty9MxXIttAnQB) | [Alec Taylor Trio](https://open.spotify.com/artist/67UMypld1JroGkopxoDP9J) | [Soft Moments](https://open.spotify.com/album/2jqAwZGJu7ymVMmo3qYTKD) | 3:22 | 2024-01-12 |  |
+| [Solace](https://open.spotify.com/track/1NzYzUEStQAj2i819bn0zk) | [Gillian Spencer Trio](https://open.spotify.com/artist/4NopJ2j5J608OXktrn5IAM) | [Solace](https://open.spotify.com/album/2OC9d9vetlQ7abD7uDxqbZ) | 2:56 | 2024-05-24 |  |
 | [Solitaire](https://open.spotify.com/track/0loeb8Q4ErFkJWqr2wmNeq) | [Leeluck & Co](https://open.spotify.com/artist/5IZZX2p6pyi2VqFUBKEDHL) | [Solitaire](https://open.spotify.com/album/71qxttrdClPi0LYz05vJhw) | 3:31 | 2023-03-03 |  |
 | [Someone Elses Love](https://open.spotify.com/track/0NVDCHyEn5eLwfcxx2QFC6) | [Sodermalm Strand](https://open.spotify.com/artist/33J2KlLdNu8EHXQ1j4ifLp) | [Someone Elses Love](https://open.spotify.com/album/0UF9P6f5lz0xSlJpg7X4kv) | 3:43 | 2023-03-03 | 2023-06-23 |
 | [Something about him](https://open.spotify.com/track/18L4SUEMJ0jJKmajWCCRP7) | [Bruce Willmington & Co](https://open.spotify.com/artist/0hY5GNx2g4D1ZtwrQRAY2y) | [Something about him](https://open.spotify.com/album/091PRS9X1pT5pEVDFAd7Vx) | 2:40 | 2023-05-11 |  |
@@ -197,6 +201,7 @@
 | [Wedgewood](https://open.spotify.com/track/4osP8M9dqqSdWlXFsRKZZ4) | [Josh Lavender Trio](https://open.spotify.com/artist/4vphT3pBuwveeulpKz5DzU) | [Late\-Night Feelings](https://open.spotify.com/album/4tYjXPwEDWw6Ipp5hE5rOX) | 4:47 | 2023-03-03 |  |
 | [What's Life Without You](https://open.spotify.com/track/4bb1bddVF7iDn4Db0bY4Ic) | [Mr\. Right Time](https://open.spotify.com/artist/0WPPJlHG7B9doyzIEy69LQ) | [In My Own Small World](https://open.spotify.com/album/1nEShi0S3yWyDvXW6evjgl) | 4:18 | 2023-03-03 |  |
 | [When You Come Home](https://open.spotify.com/track/1TlWfTGEALeyG39A9qHokR) | [Midnight Trio](https://open.spotify.com/artist/6tlN3eXUM981BWTAHN27bv) | [When You Come Home](https://open.spotify.com/album/40kyT8n1MAUF56KmpkQeqs) | 3:36 | 2024-02-09 |  |
+| [Where Are You?](https://open.spotify.com/track/1G9aTMIOFrVvsxthH1c20e) | [Nick Osman Trio](https://open.spotify.com/artist/2Al01GKqZ47q0irdqBXMQr) | [Where Are You?](https://open.spotify.com/album/2VPB60I319VrZoxrSwEOX0) | 3:05 | 2024-05-24 |  |
 | [Where is Jack?](https://open.spotify.com/track/1eFaguvJh03AF3XOUAlWR4) | [Reuben Plays](https://open.spotify.com/artist/5RktRZOHbkKduKINbyTHNC) | [Where is Jack?](https://open.spotify.com/album/6IAwrExHAogD5ayPqjQc1S) | 3:35 | 2023-03-03 |  |
 | [Where or When](https://open.spotify.com/track/5ABObbZnTJIMSOfaNcu0xm) | [Joe Wilson Trio](https://open.spotify.com/artist/3K1jFkuCruS7nx1GbWvH8E) | [Where or when](https://open.spotify.com/album/1Q1UqyRWrgL4JK2hbyiTQA) | 3:28 | 2023-12-22 |  |
 | [Whispers of the Forest](https://open.spotify.com/track/5SJm0GUkKjN3GzJQdwY8RS) | [Arthur Taylor Trio](https://open.spotify.com/artist/5jwt0e3bddxJFS0qGhvv9n) | [Whispers of the Forest](https://open.spotify.com/album/6j4y9U6qH8AiJPOudBRWLR) | 3:27 | 2024-02-02 |  |

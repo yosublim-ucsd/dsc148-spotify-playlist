@@ -4,7 +4,7 @@
 
 > Best of South Asian Music\. Cover: Shubh
 
-316 songs - 18 hr 5 min
+317 songs - 18 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Case](https://open.spotify.com/track/0TdWXMXyfTQ2qp5vvU9LID) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Intense](https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN) | [Ghost](https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd) | 2:15 | 2024-01-05 | 2024-04-20 |
 | [Chaand Baaliyan](https://open.spotify.com/track/0snQrp1VaY5Pj1YIHRJpRJ) | [Aditya A](https://open.spotify.com/artist/4wwYGgSpeBtvk5WX6HBqzw) | [Chaand Baaliyan](https://open.spotify.com/album/6AJaDEafyyyWWXHZQtcFGe) | 1:43 | 2022-04-07 | 2024-01-06 |
 | [Chaka Chak](https://open.spotify.com/track/4uLG79ROWYEXx1kJvDVbWI) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Atrangi Re](https://open.spotify.com/album/3UkMnMdm9Jq7eXIfv0YMXm) | 4:31 | 2022-01-13 | 2023-01-13 |
+| [Chal Chaliye](https://open.spotify.com/track/0Wr1k0Fm8PQvjnSiYReNGC) | [Sajjad Ali](https://open.spotify.com/artist/5THsb9SGB89ZN6mj7ZYVSD), [Farheen Raza Jaffry](https://open.spotify.com/artist/6pyNI5UnUNUotfiJiybFuc) | [Chal Chaliye](https://open.spotify.com/album/0lkJiX0MNdmSw4aSK0tvgB) | 3:54 | 2024-05-24 |  |
 | [Chaleya](https://open.spotify.com/track/3xMHXmedL5Rvfxmiar9Ryv) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk) | [Jawan](https://open.spotify.com/album/3WLJmMZUeDOuERFAk1Mxs6) | 3:20 | 2023-10-03 |  |
 | [Chaleya \(From "Jawan"\)](https://open.spotify.com/track/4nc6XiUze2Yh7wFueGOPv7) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk) | [Chaleya \(From "Jawan"\)](https://open.spotify.com/album/7zAITOBN6eG4UBm4IapAik) | 3:20 | 2023-09-08 | 2023-11-30 |
 | [Challa \- Spotify Singles](https://open.spotify.com/track/3zvzQBIjjVRTdYmsdiBvNm) | [Gurdas Maan](https://open.spotify.com/artist/3ttzOzBpRWRBzhn6thqhdT), [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Challa \- Spotify Singles](https://open.spotify.com/album/3u7kkfoyrcF13kxMn3o23J) | 4:43 | 2023-03-18 | 2023-05-05 |

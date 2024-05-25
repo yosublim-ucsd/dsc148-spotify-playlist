@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "2x2",
+        "url": "https://open.spotify.com/album/5bgr5dGuxXoVUZigkqMGcK"
+      },
+      "artists": [
+        {
+          "name": "Taj Farrant",
+          "url": "https://open.spotify.com/artist/33yogRYdM0M5dc9VxfoqaJ"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160353,
+      "name": "2x2",
+      "url": "https://open.spotify.com/track/1ErjgoKMkRUjsEQ50bFaTJ"
+    },
+    {
+      "album": {
         "name": "Harlem",
         "url": "https://open.spotify.com/album/2eST5Em3wuzueE8AkR2kTF"
       },
@@ -128,6 +146,28 @@
       "duration_ms": 156973,
       "name": "Ace Of Spades",
       "url": "https://open.spotify.com/track/7q1E64SIbT2cmkiRSjZmZe"
+    },
+    {
+      "album": {
+        "name": "Ain't No Cure Like The Blues",
+        "url": "https://open.spotify.com/album/2FyBb2zYjEMfpYbKxhCCg5"
+      },
+      "artists": [
+        {
+          "name": "Justine Blazer",
+          "url": "https://open.spotify.com/artist/1yLt8nmhDz17SVp6yWrsDq"
+        },
+        {
+          "name": "Lauren Anderson",
+          "url": "https://open.spotify.com/artist/3AoeCSG1zkka1T0WO3dPUJ"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212160,
+      "name": "Ain't No Cure Like The Blues",
+      "url": "https://open.spotify.com/track/2i1EsHwA5GhttL6GPQUCje"
     },
     {
       "album": {
@@ -500,7 +540,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 265010,
       "name": "Big Legged Man",
       "url": "https://open.spotify.com/track/7JDEtVgmR53Yi9S0C1Vktj"
@@ -1036,7 +1076,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 223546,
       "name": "Cornbread, Peas, Black Molasses",
       "url": "https://open.spotify.com/track/3nRr46yu7zDTd8ly3PZNXn"
@@ -1468,7 +1508,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 342853,
       "name": "Down To The Bottom",
       "url": "https://open.spotify.com/track/2867syuupBlecM1Ra7PGyZ"
@@ -1620,6 +1660,46 @@
       "duration_ms": 202413,
       "name": "Everything You Got",
       "url": "https://open.spotify.com/track/2qnPC8AZ3vfCjF7hHBWi93"
+    },
+    {
+      "album": {
+        "name": "Evil No More",
+        "url": "https://open.spotify.com/album/40KojEJo2Z7pgCuQQeGuxg"
+      },
+      "artists": [
+        {
+          "name": "Boneshakers",
+          "url": "https://open.spotify.com/artist/24riNM88j6XOrjc8c8D55m"
+        },
+        {
+          "name": "Charlie Musselwhite",
+          "url": "https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167906,
+      "name": "Evil No More",
+      "url": "https://open.spotify.com/track/72nKlhl1q9s7yCuP5DixYc"
+    },
+    {
+      "album": {
+        "name": "Fear Is My New Roommate",
+        "url": "https://open.spotify.com/album/3Rd6lTBLanAa7xIYRC20Rq"
+      },
+      "artists": [
+        {
+          "name": "Chris Cain",
+          "url": "https://open.spotify.com/artist/3HFfi1wOWbXd83qSiwJhuv"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213024,
+      "name": "Fear Is My New Roommate",
+      "url": "https://open.spotify.com/track/1VzGzUf768FvZtPTl1j61D"
     },
     {
       "album": {
@@ -7066,7 +7146,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 258680,
       "name": "You Know My Love",
       "url": "https://open.spotify.com/track/4ZHmUh8uIxHzAIeBdPg6mB"

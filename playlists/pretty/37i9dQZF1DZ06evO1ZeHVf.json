@@ -1,12 +1,12 @@
 {
-  "description": "This is CeCe Winans. The essential tracks, all in one playlist.",
-  "num_followers": 34529,
+  "description": "This Is CeCe Winans. Los temas esenciales, todos en una lista.",
+  "num_followers": 34580,
   "original_name": "This Is CeCe Winans",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zk01gAAAAAD8EpeV3bj63jw1Kae1wjZg",
+  "snapshot_id": "Zk6HAAAAAAD69zTESlTZfMIA22/zs/AA",
   "tracks": [
     {
       "added_at": null,
@@ -115,8 +115,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Come Jesus Come",
-        "url": "https://open.spotify.com/album/0aYbAtML1iNwTXvkMdwirB"
+        "name": "Throne Room (Gold Edition)",
+        "url": "https://open.spotify.com/album/5ErmGtv1jPppmj2GoESfVz"
       },
       "artists": [
         {
@@ -124,9 +124,9 @@
           "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
         }
       ],
-      "duration_ms": 298050,
-      "name": "Come Jesus Come",
-      "url": "https://open.spotify.com/track/6WHe4Ilqwx9H5cY8V9glhr"
+      "duration_ms": 300733,
+      "name": "Mercy Said No",
+      "url": "https://open.spotify.com/track/3wOHgqLMIqHierF0D8VoMl"
     },
     {
       "added_at": null,
@@ -179,6 +179,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Come Jesus Come",
+        "url": "https://open.spotify.com/album/0aYbAtML1iNwTXvkMdwirB"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 298050,
+      "name": "Come Jesus Come",
+      "url": "https://open.spotify.com/track/6WHe4Ilqwx9H5cY8V9glhr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "That's My King",
         "url": "https://open.spotify.com/album/4yZXtJdzh7ybESwXr3c9rA"
       },
@@ -215,22 +231,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Throne Room (Gold Edition)",
-        "url": "https://open.spotify.com/album/5ErmGtv1jPppmj2GoESfVz"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 294493,
-      "name": "Jesus, You're Beautiful",
-      "url": "https://open.spotify.com/track/2hURR2OEp83kltTqHXaB6G"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Believe For It (Deluxe Edition)",
         "url": "https://open.spotify.com/album/40svdUPxmIoge1BkDNWSDw"
       },
@@ -243,6 +243,22 @@
       "duration_ms": 218400,
       "name": "I've Got Joy",
       "url": "https://open.spotify.com/track/6tbDvXVbqENripiP4beZpj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Throne Room (Gold Edition)",
+        "url": "https://open.spotify.com/album/5ErmGtv1jPppmj2GoESfVz"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 219333,
+      "name": "A Heart Like Yours",
+      "url": "https://open.spotify.com/track/75Zi4UtjmA481WbpT0nXjA"
     },
     {
       "added_at": null,
@@ -279,22 +295,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Throne Room (Gold Edition)",
-        "url": "https://open.spotify.com/album/5ErmGtv1jPppmj2GoESfVz"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 219333,
-      "name": "A Heart Like Yours",
-      "url": "https://open.spotify.com/track/75Zi4UtjmA481WbpT0nXjA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "More Than This",
         "url": "https://open.spotify.com/album/0zvZ25UkgLXQDZLQDxpwPw"
       },
@@ -307,6 +307,22 @@
       "duration_ms": 79812,
       "name": "Sanctuary",
       "url": "https://open.spotify.com/track/4rBFZdjLJvBzGawP7XH52S"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Throne Room (Gold Edition)",
+        "url": "https://open.spotify.com/album/5ErmGtv1jPppmj2GoESfVz"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 300973,
+      "name": "Thirst For You",
+      "url": "https://open.spotify.com/track/616Gk8gc7edgxJOLRUZaSg"
     },
     {
       "added_at": null,
@@ -343,22 +359,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Throne Room (Gold Edition)",
-        "url": "https://open.spotify.com/album/5ErmGtv1jPppmj2GoESfVz"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 300973,
-      "name": "Thirst For You",
-      "url": "https://open.spotify.com/track/616Gk8gc7edgxJOLRUZaSg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "More Than This",
         "url": "https://open.spotify.com/album/0zvZ25UkgLXQDZLQDxpwPw"
       },
@@ -371,6 +371,22 @@
       "duration_ms": 83561,
       "name": "Oh The Blood Of Jesus",
       "url": "https://open.spotify.com/track/6omRhMoKDTQT0o2NOg0M8V"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Throne Room (Gold Edition)",
+        "url": "https://open.spotify.com/album/5ErmGtv1jPppmj2GoESfVz"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 69200,
+      "name": "Hallelujah To The King - Intro",
+      "url": "https://open.spotify.com/track/76NJYRHzTRjBqkS87nBCQv"
     },
     {
       "added_at": null,
@@ -407,6 +423,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "More Than This",
+        "url": "https://open.spotify.com/album/2lsb6BmwfbVswn64kaLgcy"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        },
+        {
+          "name": "Todd Dulaney",
+          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
+        }
+      ],
+      "duration_ms": 499250,
+      "name": "More Than This",
+      "url": "https://open.spotify.com/track/2kmucvuH6lJzDpvd5QXHWG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Throne Room (Gold Edition)",
         "url": "https://open.spotify.com/album/5ErmGtv1jPppmj2GoESfVz"
       },
@@ -416,25 +452,9 @@
           "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
         }
       ],
-      "duration_ms": 69200,
-      "name": "Hallelujah To The King - Intro",
-      "url": "https://open.spotify.com/track/76NJYRHzTRjBqkS87nBCQv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "More Than This",
-        "url": "https://open.spotify.com/album/0zvZ25UkgLXQDZLQDxpwPw"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 244634,
-      "name": "Be Still and Know",
-      "url": "https://open.spotify.com/track/4imu5r7gaV1uenj2X1iFBb"
+      "duration_ms": 288400,
+      "name": "Come Fill My Heart",
+      "url": "https://open.spotify.com/track/6ooJQCVtJdIdUJTX7MP0Bg"
     },
     {
       "added_at": null,
@@ -475,44 +495,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Throne Room (Gold Edition)",
-        "url": "https://open.spotify.com/album/5ErmGtv1jPppmj2GoESfVz"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 288400,
-      "name": "Come Fill My Heart",
-      "url": "https://open.spotify.com/track/6ooJQCVtJdIdUJTX7MP0Bg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "More Than This",
-        "url": "https://open.spotify.com/album/2lsb6BmwfbVswn64kaLgcy"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        },
-        {
-          "name": "Todd Dulaney",
-          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
-        }
-      ],
-      "duration_ms": 499250,
-      "name": "More Than This",
-      "url": "https://open.spotify.com/track/2kmucvuH6lJzDpvd5QXHWG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Alabaster Box",
-        "url": "https://open.spotify.com/album/1MVEzZd7FgqYLwIBFAwyVK"
+        "url": "https://open.spotify.com/album/0zvZ25UkgLXQDZLQDxpwPw"
       },
       "artists": [
         {
@@ -520,9 +504,9 @@
           "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
         }
       ],
-      "duration_ms": 190600,
-      "name": "He's Not On His Knees Yet",
-      "url": "https://open.spotify.com/track/3AhG2xpFa39bulk3v24sjy"
+      "duration_ms": 244634,
+      "name": "Be Still and Know",
+      "url": "https://open.spotify.com/track/4imu5r7gaV1uenj2X1iFBb"
     },
     {
       "added_at": null,
@@ -539,6 +523,22 @@
       "duration_ms": 246266,
       "name": "Alone In The Presence",
       "url": "https://open.spotify.com/track/5z4OzC03DQ1B8mzGVWjE71"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Alabaster Box",
+        "url": "https://open.spotify.com/album/1MVEzZd7FgqYLwIBFAwyVK"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 190600,
+      "name": "He's Not On His Knees Yet",
+      "url": "https://open.spotify.com/track/3AhG2xpFa39bulk3v24sjy"
     },
     {
       "added_at": null,
@@ -583,22 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alabaster Box",
-        "url": "https://open.spotify.com/album/1MVEzZd7FgqYLwIBFAwyVK"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 264893,
-      "name": "King Of Kings (He's A Wonder)",
-      "url": "https://open.spotify.com/track/6xyx0WMEvDrSbpH5i3Oil6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CeCe Winans Presents Pure Worship",
         "url": "https://open.spotify.com/album/30KEIO6pQIvgHF3bpvhj6f"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 327215,
       "name": "How Great Is Our God/How Great Thou Art - Medley",
       "url": "https://open.spotify.com/track/4giHNYioIQoM2zGvDaAZ2S"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Alabaster Box",
+        "url": "https://open.spotify.com/album/1MVEzZd7FgqYLwIBFAwyVK"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 264893,
+      "name": "King Of Kings (He's A Wonder)",
+      "url": "https://open.spotify.com/track/6xyx0WMEvDrSbpH5i3Oil6"
     },
     {
       "added_at": null,
@@ -711,22 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Believe For It",
-        "url": "https://open.spotify.com/album/5UXG9YjxHZu7l4tTNjwIYX"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 635360,
-      "name": "King of Glory - Live",
-      "url": "https://open.spotify.com/track/7CyRF25QZlsZmFtFPnQSTF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Thy Kingdom Come",
         "url": "https://open.spotify.com/album/4wmO83yKXBEaAKME5PGOaF"
       },
@@ -759,6 +743,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Believe For It",
+        "url": "https://open.spotify.com/album/2Wf09CJNp4sH4Oq9KZOzor"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 635360,
+      "name": "King of Glory - Live",
+      "url": "https://open.spotify.com/track/5JtEowhVthCH9oNtnjZl93"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Billy Graham Music Homecoming (Vol. 2 / Live)",
         "url": "https://open.spotify.com/album/0Gn8LSdxzYGqXhTs91kWx8"
       },
@@ -783,22 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CeCe Winans",
-        "url": "https://open.spotify.com/album/0rJg3QtLoMmkkK91BOH69P"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 228733,
-      "name": "Looking Back At You",
-      "url": "https://open.spotify.com/track/4bG7zbyd6ijoCm6P1Tin6g"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Purified",
         "url": "https://open.spotify.com/album/6FfAauX1EP2zHgPoOnwWZ8"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 210893,
       "name": "Pray",
       "url": "https://open.spotify.com/track/0gbglUQi9q4cQmaNu8N3t9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CeCe Winans",
+        "url": "https://open.spotify.com/album/0rJg3QtLoMmkkK91BOH69P"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 228733,
+      "name": "Looking Back At You",
+      "url": "https://open.spotify.com/track/4bG7zbyd6ijoCm6P1Tin6g"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 
 > Check out these inspired hits to keep your Summer fun and upbeat!
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,950 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,954 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,17 +85,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 | 75 | [Sound of Heaven](https://open.spotify.com/track/0DAryQ3hgh1moozAbN0QAr) | [Brad & Rebekah](https://open.spotify.com/artist/1ef7Y06MRVT7HfRdJDHBOG) | [Sound of Heaven](https://open.spotify.com/album/0wMiTkGO2EsLLutbOD9Zkv) | 4:35 |
 | 76 | [Look At Me Now \(feat\. JUICEBANGERS, nobigdyl\. & Steve Malcolm\) \- Remix](https://open.spotify.com/track/3XEgNWVG2r6vxYfNLrI1by) | [Roy Tosh](https://open.spotify.com/artist/7JjM4ZFJffM5vti5m241ye), [GIDI](https://open.spotify.com/artist/4jpyLwY88iZc65WHKxderI), [Juicebangers](https://open.spotify.com/artist/5NJ5H0WVG6JpjTROfISdpE), [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4), [Steve Malcolm](https://open.spotify.com/artist/6a839D2SIj8AazasGFuKQ6) | [Remix](https://open.spotify.com/album/55NnP6YjYGWIbvnbiC3bIw) | 3:14 |
 | 77 | [Sunshine](https://open.spotify.com/track/131v1BlhiL7dkO2cDbOLuu) | [Charles Goose](https://open.spotify.com/artist/0sgZD5vkGo0IsvDIR6Orli) | [Sunshine](https://open.spotify.com/album/0WEbwmZfFmknHSNig8RyyP) | 3:13 |
-| 78 | [Drive](https://open.spotify.com/track/1Yqovy9hlOeV91IY3Bhcf2) | [Ben Rector](https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI) | [Magic](https://open.spotify.com/album/1FmtmLnB1KrXjK0uWLkyhq) | 3:17 |
-| 79 | [Don't Wanna Wake Up](https://open.spotify.com/track/0OO6L0O3kKGtn6nmh8nX4i) | [Capital Kings](https://open.spotify.com/artist/3lTIrl4h1Vov8fDaNqXUof) | [Don't Wanna Wake Up](https://open.spotify.com/album/7ki92KOeh9spsNOnW0eubE) | 3:47 |
+| 78 | [Don't Wanna Wake Up](https://open.spotify.com/track/0OO6L0O3kKGtn6nmh8nX4i) | [Capital Kings](https://open.spotify.com/artist/3lTIrl4h1Vov8fDaNqXUof) | [Don't Wanna Wake Up](https://open.spotify.com/album/7ki92KOeh9spsNOnW0eubE) | 3:47 |
+| 79 | [Drive](https://open.spotify.com/track/1Yqovy9hlOeV91IY3Bhcf2) | [Ben Rector](https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI) | [Magic](https://open.spotify.com/album/1FmtmLnB1KrXjK0uWLkyhq) | 3:17 |
 | 80 | [Right Here](https://open.spotify.com/track/1Vi9gJaDuDyeIW7CGawrc2) | [Ed Williams](https://open.spotify.com/artist/5VCEIQ2wKeadz8P8yomYOK) | [Right Here](https://open.spotify.com/album/6vaQaNyqrJ3Wb5kL3UprvL) | 3:09 |
 | 81 | [You](https://open.spotify.com/track/6OW9DM0XwDzdiIlKcTuPD3) | [Apollo LTD](https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp) | [You](https://open.spotify.com/album/2mgnhYvHdQQzVOM2LDkuXU) | 3:46 |
 | 82 | [Hang On](https://open.spotify.com/track/591lgphAIVn2aY9oyJRGuX) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [Hang On / Seasons](https://open.spotify.com/album/6om9QgG1aY3whjxSTqvzXM) | 4:18 |
 | 83 | [Grace Got You](https://open.spotify.com/track/72Hr8XLZckFo1Gie68XoMf) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [Lifer](https://open.spotify.com/album/0PcT8mmJZRU6H1HXeChS2H) | 3:35 |
 | 84 | [joy.](https://open.spotify.com/track/35WxT8FX7Y3i7Tc4VX7yR3) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [joy.](https://open.spotify.com/album/6qHyInMPaaQ8AcXp0ZOKa2) | 3:53 |
-| 85 | [Fight for Me](https://open.spotify.com/track/6ox0BtzYRNG5RmuWvHQeGE) | [GAWVI](https://open.spotify.com/artist/0oPd8f0W82Tgrazx2PYNab), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Fight for Me](https://open.spotify.com/album/3tPGtUd8BG730n9yKZJDsS) | 3:23 |
-| 86 | [Glorify](https://open.spotify.com/track/4FtxvQmm0kJPGCIQwaQ5eM) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA) | [Glorify](https://open.spotify.com/album/2ULtMFFMjr1q56GUhnKyRo) | 2:57 |
-| 87 | [One More Day](https://open.spotify.com/track/3dRYvI5lRyCuJLbduvAec2) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [One More Day](https://open.spotify.com/album/04pYxtxYcz7gYXZyOzfcp1) | 3:14 |
-| 88 | [All Good](https://open.spotify.com/track/2DRk66DsTtDrUsCEOmvQaq) | [Capital Kings](https://open.spotify.com/artist/3lTIrl4h1Vov8fDaNqXUof), [Hollyn](https://open.spotify.com/artist/2E6Nnh7AAOVajEHHRDALav) | [All Good](https://open.spotify.com/album/5qyktniRg06avBi3Tkbxd3) | 3:24 |
+| 85 | [All Good](https://open.spotify.com/track/2DRk66DsTtDrUsCEOmvQaq) | [Capital Kings](https://open.spotify.com/artist/3lTIrl4h1Vov8fDaNqXUof), [Hollyn](https://open.spotify.com/artist/2E6Nnh7AAOVajEHHRDALav) | [All Good](https://open.spotify.com/album/5qyktniRg06avBi3Tkbxd3) | 3:24 |
+| 86 | [Fight for Me](https://open.spotify.com/track/6ox0BtzYRNG5RmuWvHQeGE) | [GAWVI](https://open.spotify.com/artist/0oPd8f0W82Tgrazx2PYNab), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Fight for Me](https://open.spotify.com/album/3tPGtUd8BG730n9yKZJDsS) | 3:23 |
+| 87 | [Glorify](https://open.spotify.com/track/4FtxvQmm0kJPGCIQwaQ5eM) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA) | [Glorify](https://open.spotify.com/album/2ULtMFFMjr1q56GUhnKyRo) | 2:57 |
+| 88 | [One More Day](https://open.spotify.com/track/3dRYvI5lRyCuJLbduvAec2) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [One More Day](https://open.spotify.com/album/04pYxtxYcz7gYXZyOzfcp1) | 3:14 |
 | 89 | [I'm Gonna Let It Go](https://open.spotify.com/track/6IqgRdrXDwZeSdSZtFmyTo) | [Jason Gray](https://open.spotify.com/artist/4i2mkyKkRrc0OvPrWqb4BE) | [I'm Gonna Let It Go](https://open.spotify.com/album/7fHnC7zjvIf46XZV6KAoVt) | 3:06 |
 | 90 | [Who Says?](https://open.spotify.com/track/06jL2R1sjBpH72xwfXoRX4) | [Joshua Micah](https://open.spotify.com/artist/6pLDSW3de0uRB6cP30krKv) | [Who Says?](https://open.spotify.com/album/6yTgYuQQtwvybabsSQMHMR) | 4:06 |
 | 91 | [Happy Dance](https://open.spotify.com/track/1vABXHS6jUrX4gae0MuniF) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [Lifer](https://open.spotify.com/album/0PcT8mmJZRU6H1HXeChS2H) | 2:51 |

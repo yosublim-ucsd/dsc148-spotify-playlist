@@ -1,12 +1,12 @@
 {
   "description": "This is Bear McCreary. The essential tracks, all in one playlist.",
-  "num_followers": 9459,
+  "num_followers": 9463,
   "original_name": "This Is Bear McCreary",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zk01gAAAAADPaOPV4C6OQGDlv6wb6vH/",
+  "snapshot_id": "Zk6HAAAAAACoFmVCTHD9BoIAevt3aFAA",
   "tracks": [
     {
       "added_at": null,
@@ -383,8 +383,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Black Sails (A Starz Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/504RcsupcUwvcgNdQXoAtU"
+        "name": "The Walking Dead (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5VDBnlsmkyOlotpdRGn88D"
       },
       "artists": [
         {
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
         }
       ],
-      "duration_ms": 197640,
-      "name": "Theme from Black Sails",
-      "url": "https://open.spotify.com/track/5KXtl8RNG1uFrZinr6hxWh"
+      "duration_ms": 49321,
+      "name": "Theme from the Walking Dead",
+      "url": "https://open.spotify.com/track/2cji350vUbvxQ9QwyL5Nkp"
     },
     {
       "added_at": null,
@@ -451,8 +451,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Walking Dead (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/5VDBnlsmkyOlotpdRGn88D"
+        "name": "Black Sails (A Starz Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/504RcsupcUwvcgNdQXoAtU"
       },
       "artists": [
         {
@@ -460,9 +460,9 @@
           "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
         }
       ],
-      "duration_ms": 49321,
-      "name": "Theme from the Walking Dead",
-      "url": "https://open.spotify.com/track/2cji350vUbvxQ9QwyL5Nkp"
+      "duration_ms": 197640,
+      "name": "Theme from Black Sails",
+      "url": "https://open.spotify.com/track/5KXtl8RNG1uFrZinr6hxWh"
     },
     {
       "added_at": null,
@@ -487,42 +487,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Singularity",
-        "url": "https://open.spotify.com/album/3F3bn1GGgjTSn8AQadLo4w"
-      },
-      "artists": [
-        {
-          "name": "Bear McCreary",
-          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        },
-        {
-          "name": "Corey Taylor",
-          "url": "https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q"
-        }
-      ],
-      "duration_ms": 254317,
-      "name": "Leviathan",
-      "url": "https://open.spotify.com/track/7GQySNHooG5azXnoLKaMzV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Lord of the Rings: The Rings of Power (Season One: Amazon Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/1zCtGVGxobce9FJXXLe1V2"
-      },
-      "artists": [
-        {
-          "name": "Bear McCreary",
-          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        }
-      ],
-      "duration_ms": 203266,
-      "name": "Elrond Half-elven",
-      "url": "https://open.spotify.com/track/1isA2WMKG9elY7Kqq0dDve"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "God of War (PlayStation Soundtrack)",
         "url": "https://open.spotify.com/album/3AieuV7WztobSMYG86Hdez"
       },
@@ -543,8 +507,24 @@
     {
       "added_at": null,
       "album": {
-        "name": "Incinerator",
-        "url": "https://open.spotify.com/album/6oxVcOp8P3YBQ5AZlA0YwS"
+        "name": "The Lord of the Rings: The Rings of Power (Season One: Amazon Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/1zCtGVGxobce9FJXXLe1V2"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "duration_ms": 203266,
+      "name": "Elrond Half-elven",
+      "url": "https://open.spotify.com/track/1isA2WMKG9elY7Kqq0dDve"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Singularity",
+        "url": "https://open.spotify.com/album/3F3bn1GGgjTSn8AQadLo4w"
       },
       "artists": [
         {
@@ -552,13 +532,13 @@
           "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
         },
         {
-          "name": "Serj Tankian",
-          "url": "https://open.spotify.com/artist/0BEI7i5sgUuivcfwXLzFmM"
+          "name": "Corey Taylor",
+          "url": "https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q"
         }
       ],
-      "duration_ms": 221060,
-      "name": "Incinerator",
-      "url": "https://open.spotify.com/track/3uAdXOqP7pbGh2eCJuGhd1"
+      "duration_ms": 254317,
+      "name": "Leviathan",
+      "url": "https://open.spotify.com/track/7GQySNHooG5azXnoLKaMzV"
     },
     {
       "added_at": null,
@@ -575,6 +555,26 @@
       "duration_ms": 204666,
       "name": "Brianna and Roger Theme",
       "url": "https://open.spotify.com/track/7HvFEJxUMSKnfcZVJcRtur"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Incinerator",
+        "url": "https://open.spotify.com/album/6oxVcOp8P3YBQ5AZlA0YwS"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        },
+        {
+          "name": "Serj Tankian",
+          "url": "https://open.spotify.com/artist/0BEI7i5sgUuivcfwXLzFmM"
+        }
+      ],
+      "duration_ms": 221060,
+      "name": "Incinerator",
+      "url": "https://open.spotify.com/track/3uAdXOqP7pbGh2eCJuGhd1"
     },
     {
       "added_at": null,

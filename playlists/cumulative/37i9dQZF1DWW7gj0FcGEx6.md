@@ -4,7 +4,7 @@
 
 > The latest, greatest soundtracks from the big and small screen.
 
-354 songs - 17 hr 38 min
+355 songs - 17 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -208,6 +208,7 @@
 | [Obi\-Wan](https://open.spotify.com/track/22VtvEbttc3y0MuekCm7Sb) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Obi\-Wan Kenobi \(Original Soundtrack\)](https://open.spotify.com/album/2hDDDUl05cnWTrheIVVCma) | 4:06 | 2022-07-01 |  |
 | [Office Car Fantasy](https://open.spotify.com/track/27scRKyXIL0iAmEXANCqKO) | [Richard Reed Parry](https://open.spotify.com/artist/7kdBCYCfsZQPu4dVYpvswY), [Adam Kinner](https://open.spotify.com/artist/4vvaUYT7sXCWHVEaB5jmvx), [Pietro Amato](https://open.spotify.com/artist/5wWlz5GR3MOimh3Sv6zA3E) | [Eileen \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3Cj7hb4DMxk3oOMENa8tBK) | 2:48 | 2023-12-01 |  |
 | [On Our Plates](https://open.spotify.com/track/0iYsrjk7owSIKL2TEv0sRA) | [ABBOTT](https://open.spotify.com/artist/5CU8kbEERwvAfRatCVyPnt), [2WEI](https://open.spotify.com/artist/4SGDDnlwi5G42HTGzYl2Fc) | [Joko Winterscheidt Presents: The World's Most Dangerous Show \(Amazon Original Series Soundtrack\)](https://open.spotify.com/album/1dhumjxsQOOmrJLUt0gstP) | 4:07 | 2023-06-09 |  |
+| [Only One Of Us Will Make It](https://open.spotify.com/track/2VMnCsXVBgmuhTqI6w2mhh) | [Andrew Lockington](https://open.spotify.com/artist/0sK0i9UQeU4aPaxgGTFTcC) | [Atlas \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/6Oj6UMsSWZ1Y5HvVBsUCzE) | 3:50 | 2024-05-24 |  |
 | [Open Road](https://open.spotify.com/track/4AZ2cfgMFMTY0zYXJXMsqU) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Open Road \(From Wonder Woman 1984\)](https://open.spotify.com/album/1YbLmCnQbXLV1yG6jJqAo5) | 5:36 | 2021-12-20 | 2022-07-09 |
 | [Our Universe](https://open.spotify.com/track/35oXOy6T19a5Q3o6AsslAm) | [Anne Nikitin](https://open.spotify.com/artist/1ZA3IynpePtaBeajOMrFfr), [Jessica Jones](https://open.spotify.com/artist/72L0J56ukCcJUX0OXANi5X) | [Our Universe: Season 1 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/1xuMCuQ3vx77cQd6v7n10S) | 1:13 | 2022-11-18 |  |
 | [Over The Pines](https://open.spotify.com/track/2gAIy3MuCMOZUejECGPBUa) | [Ben Sollee](https://open.spotify.com/artist/3Zzs4IqjV4b0yEFWqRv1si), [Time For Three](https://open.spotify.com/artist/5GK2hLwkSIVQSaQMTAmLbk) | [Over The Pines \(from the Motion Picture "Land"\)](https://open.spotify.com/album/2tCF0m1P1g25NcPfv0Sfjj) | 3:11 | 2021-12-20 |  |

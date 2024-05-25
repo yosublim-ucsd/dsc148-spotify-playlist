@@ -2,9 +2,9 @@
 
 ### [Yacht Rock Revival](https://open.spotify.com/playlist/37i9dQZF1DX4TJ9HJlcZl3)
 
-> Still yachting\. Cover: Young Gun Silver Fox
+> Still yachting\. Cover: Yacht Rock Revue
 
-112 songs - 6 hr 59 min
+113 songs - 7 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,7 @@
 | [Somebody's Watching You](https://open.spotify.com/track/2zPxnWGwRGGwsvG1OSqCqF) | [The Jack Moves](https://open.spotify.com/artist/6QR60hk0TiNHphDexqZ6Pp) | [Cruiserweight](https://open.spotify.com/album/50Yah9QKupPNZNyvbwb5pI) | 3:35 | 2022-10-21 |  |
 | [Somebody's Watching You](https://open.spotify.com/track/2zz7F5w83J4MySb9RX8WWY) | [The Jack Moves](https://open.spotify.com/artist/6QR60hk0TiNHphDexqZ6Pp) | [Cruiserweight](https://open.spotify.com/album/1onqdmFxHDk2sMBhYATWX3) | 3:35 | 2022-10-21 | 2024-04-19 |
 | [Somewhere in New York](https://open.spotify.com/track/7aDCH8TKuA5auDD5nmSexb) | [John Splithoff](https://open.spotify.com/artist/7A2x4Urpc4VKF1pb7qnNqD) | [Somewhere in New York](https://open.spotify.com/album/3vnZq5RfAud6eglpxcc035) | 2:31 | 2022-11-18 | 2024-05-03 |
-| [Step](https://open.spotify.com/track/4tSfW5rFL596C52yfvygz2) | [Yacht Rock Revue](https://open.spotify.com/artist/5vJbbFDnRQql9BtSgR9vZH) | [Hot Dads in Tight Jeans](https://open.spotify.com/album/6UPvt5EJIuI3uCpnwgoOJ6) | 4:02 | 2022-10-21 |  |
+| [Step](https://open.spotify.com/track/4tSfW5rFL596C52yfvygz2) | [Yacht Rock Revue](https://open.spotify.com/artist/5vJbbFDnRQql9BtSgR9vZH) | [Hot Dads in Tight Jeans](https://open.spotify.com/album/6UPvt5EJIuI3uCpnwgoOJ6) | 4:02 | 2022-10-21 | 2024-05-25 |
 | [Still Got It Goin' On \- Radio Edit](https://open.spotify.com/track/0s29NsEfTyZQ5FFeQbVWWs) | [Young Gun Silver Fox](https://open.spotify.com/artist/3qQloBz05T6e0rKubNCmjG) | [Still Got It Goin' On \(Radio Edit\)](https://open.spotify.com/album/70IIzf8VDiLTvmKIVFQjzz) | 4:03 | 2023-01-13 | 2023-09-23 |
 | [Strawberry Soju](https://open.spotify.com/track/3Naqjihn2GJjOBZNeenivP) | [Jesse Barrera](https://open.spotify.com/artist/51KbY36mrjHRQwvSbel74l), [Albert Posis](https://open.spotify.com/artist/4bNOdxc26omK0xR7FPucJn), [Michael Carreon](https://open.spotify.com/artist/5rYJsXiNw3NxHJfOxtmDuC) | [Strawberry Soju](https://open.spotify.com/album/5ndnvMs3zF4hOcyT9NFHI9) | 2:51 | 2023-04-07 | 2023-09-09 |
 | [Surrender](https://open.spotify.com/track/2lbfgYWkeW7rQRYlixgkAZ) | [Surahn](https://open.spotify.com/artist/7isf2onROC85pAnUK3wXAb) | [Surrender](https://open.spotify.com/album/2RknVcT1UWgRzNEJyRpLPn) | 4:38 | 2023-05-05 |  |
@@ -105,6 +105,7 @@
 | [Tip Of The Flame \- 12" Disco Mix](https://open.spotify.com/track/6ywx4XD9UL3FrllzCjaU0T) | [Young Gun Silver Fox](https://open.spotify.com/artist/3qQloBz05T6e0rKubNCmjG) | [Ticket To Shangri\-La \(Deluxe Version\)](https://open.spotify.com/album/4CYFJzamIcEG44GjBceFp9) | 5:57 | 2023-09-01 | 2024-04-19 |
 | [Tip of the Flame \- 12” Disco Mix](https://open.spotify.com/track/3PF7zlShrw5JwwW3b1E3Jh) | [Young Gun Silver Fox](https://open.spotify.com/artist/3qQloBz05T6e0rKubNCmjG) | [Tip of the Flame \(12” Disco Mix\)](https://open.spotify.com/album/0zasXyPv7yIEJ6mRJoaBEi) | 5:57 | 2023-09-01 |  |
 | [Trick To Happy](https://open.spotify.com/track/4lrkAUjZqFCofSF4QplDYd) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Sad Hunk](https://open.spotify.com/album/0vWNWn7PcEotOycEtBC7br) | 3:24 | 2022-10-21 |  |
+| [Tropical Illusion](https://open.spotify.com/track/0ox6C5vyLLOY7o6tkv04X6) | [Yacht Rock Revue](https://open.spotify.com/artist/5vJbbFDnRQql9BtSgR9vZH) | [Tropical Illusion / Passengers](https://open.spotify.com/album/5heyrwO90ALCOD40rQOKAy) | 3:47 | 2024-05-24 |  |
 | [Valencia](https://open.spotify.com/track/0EGWhz27mOGqTyhisGL0cM) | [Emm Gryner](https://open.spotify.com/artist/7MXEntILebAfX9ByW6MObM) | [Valencia](https://open.spotify.com/album/1nSK9uUr9jJxOOQG27XVY4) | 3:57 | 2022-11-11 |  |
 | [Villa](https://open.spotify.com/track/42DzViBjJl5he25R02T5WH) | [Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [VANILLA VILLA](https://open.spotify.com/album/63f7oiyBTexDSGuPTd6Egq) | 2:41 | 2022-10-21 | 2022-11-19 |
 | [Waffle House](https://open.spotify.com/track/5iE3eUH2WGCXcE2xr6DEmU) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Waffle House](https://open.spotify.com/album/7lWGbTl1g2VxxWg9fDvF99) | 2:25 | 2023-04-07 |  |

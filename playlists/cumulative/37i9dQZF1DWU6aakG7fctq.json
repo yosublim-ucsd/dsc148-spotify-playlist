@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Fresh Latin Indie you should know. Cover: Girl Ultra",
+  "description": "Fresh Latin Indie you should know. Cover: Gus",
   "name": "el nuevo indie",
   "tracks": [
     {
@@ -812,6 +812,28 @@
       "duration_ms": 176751,
       "name": "Amtrak",
       "url": "https://open.spotify.com/track/5F6ekGcdu623mkhTVgk64Z"
+    },
+    {
+      "album": {
+        "name": "Andrea",
+        "url": "https://open.spotify.com/album/0SptCyCiXbtPJzdAJ6Sw3U"
+      },
+      "artists": [
+        {
+          "name": "Suave",
+          "url": "https://open.spotify.com/artist/16QMnwd53HiSIbB57esWKu"
+        },
+        {
+          "name": "D3llano",
+          "url": "https://open.spotify.com/artist/2op8AnWkI11yZAv1KwS9Ck"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172453,
+      "name": "Andrea",
+      "url": "https://open.spotify.com/track/5xMhjUFxBKARLrvjq3DpHR"
     },
     {
       "album": {
@@ -2858,6 +2880,28 @@
       "duration_ms": 217760,
       "name": "Duele (Negociaci\u00f3n)",
       "url": "https://open.spotify.com/track/5yI50XJm7uEHYxM14gpBGu"
+    },
+    {
+      "album": {
+        "name": "D\u00e9jame Decir Te Quiero",
+        "url": "https://open.spotify.com/album/3BxYz7JYPTS8LIIWkTvdhF"
+      },
+      "artists": [
+        {
+          "name": "David Velasco",
+          "url": "https://open.spotify.com/artist/2lrPjlojnpUIuxFpGg7lAL"
+        },
+        {
+          "name": "Dromedarios M\u00e1gicos",
+          "url": "https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185610,
+      "name": "D\u00e9jame Decir Te Quiero",
+      "url": "https://open.spotify.com/track/3ZUtWP2fCW6WptxdsbaOTi"
     },
     {
       "album": {
@@ -7549,6 +7593,24 @@
     },
     {
       "album": {
+        "name": "Noches de la Luna",
+        "url": "https://open.spotify.com/album/3jSA6kPSMzjIpPBql7Qyan"
+      },
+      "artists": [
+        {
+          "name": "1915",
+          "url": "https://open.spotify.com/artist/4jwnlVc9Lj5vMkL32978d1"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194389,
+      "name": "Noches de la Luna",
+      "url": "https://open.spotify.com/track/20UDEAiUtKvHwclS4MhWmJ"
+    },
+    {
+      "album": {
         "name": "Nos Despedimos / Window Shopping",
         "url": "https://open.spotify.com/album/0JAhLeKnyJ5SeRGU3F261M"
       },
@@ -9188,7 +9250,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 208666,
       "name": "Radiocaset",
       "url": "https://open.spotify.com/track/3eJxCkekeUGMI237Uc3I4q"
@@ -10017,6 +10079,24 @@
     },
     {
       "album": {
+        "name": "SOLA CON LA LUNA",
+        "url": "https://open.spotify.com/album/7Hk2BhlBYVd4NopkQbLamP"
+      },
+      "artists": [
+        {
+          "name": "Al\u00e9 Araya",
+          "url": "https://open.spotify.com/artist/2kcVXlSyLmHdET22JmJ4jK"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232758,
+      "name": "SOLA CON LA LUNA",
+      "url": "https://open.spotify.com/track/6mz49W2hyCbQ3eTkTEWyOZ"
+    },
+    {
+      "album": {
         "name": "Solo",
         "url": "https://open.spotify.com/album/1Eq3jsx4ZmnlEmLCGZQJXm"
       },
@@ -10144,7 +10224,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 248937,
       "name": "Somos raros",
       "url": "https://open.spotify.com/track/7vqd25RugFisRuScw3xSyq"
@@ -10380,7 +10460,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 108631,
       "name": "su\u00e9ltate",
       "url": "https://open.spotify.com/track/1Qzyd8eMlwPPYVCUwyhNFI"
@@ -12194,6 +12274,24 @@
       "duration_ms": 185350,
       "name": "XO",
       "url": "https://open.spotify.com/track/7Hv1cgxfZs6pswYKvh0tDJ"
+    },
+    {
+      "album": {
+        "name": "Y SI SE ABREN LOS CIELOS",
+        "url": "https://open.spotify.com/album/7ojO0TsCWpHwxCIZ02vde4"
+      },
+      "artists": [
+        {
+          "name": "Gus",
+          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180893,
+      "name": "Y SI SE ABREN LOS CIELOS",
+      "url": "https://open.spotify.com/track/7hft2uQ3kmAHG3LkLgJjWw"
     },
     {
       "album": {

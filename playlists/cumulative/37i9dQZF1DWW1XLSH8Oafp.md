@@ -4,7 +4,7 @@
 
 > ur on the list bb 🪐 featuring aimei媚
 
-896 songs - 2 day 1 hr 54 min
+897 songs - 2 day 1 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -421,6 +421,7 @@
 | [idgaf](https://open.spotify.com/track/4Ej0ob9L6wzurJsEvbYNjF) | [Rome in Silver](https://open.spotify.com/artist/0Hh9X3QxTHPE2dlAS1g8IN), [Lhasa Petik](https://open.spotify.com/artist/4F6d5pVnChKy8CcMBaZ1Ja) | [idgaf](https://open.spotify.com/album/6wMU9MnWIR1jM9xY5rt8zC) | 2:31 | 2023-12-01 | 2024-01-13 |
 | [idol](https://open.spotify.com/track/4cOq1Qx9d5Kxtjd3Tww47b) | [Sillyelly](https://open.spotify.com/artist/1rWg0CyGoCsRYYtpj5NC5P), [EnimraK](https://open.spotify.com/artist/5aBezG2V4TZr1YpJxeTfYf) | [Manic Pixie Dream Girl](https://open.spotify.com/album/2FIrS3aP6Fd1NeEDLf8QNi) | 2:17 | 2023-11-17 |  |
 | [iluv](https://open.spotify.com/track/4u0N8a9adNalT4XdihjeSr) | [Effy](https://open.spotify.com/artist/19SX00qkAvpVQroAka9GI0), [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [iluv](https://open.spotify.com/album/2TvY3bIQKy2yz3Rj4575Jv) | 4:17 | 2024-02-16 |  |
+| [In and Out](https://open.spotify.com/track/4NHZvvyxAMNT1bjKDdtv75) | [Take Van](https://open.spotify.com/artist/3BLx7avD36sNpMNA1nZ7Dj) | [In My Mind We're Great](https://open.spotify.com/album/0XnHb0OOc96m5JrEulfqTB) | 2:16 | 2024-05-24 |  |
 | [In Luv](https://open.spotify.com/track/5TqJk3sBqryMoZqKMYxUnG) | [Good Luck](https://open.spotify.com/artist/4qjYf4FY77csjIalUFicQS) | [In Luv](https://open.spotify.com/album/0K4faqdamNDNazCkrhcT0l) | 5:22 | 2023-08-10 | 2024-05-17 |
 | [in my closet](https://open.spotify.com/track/48GvmXwI4c36lzW21byz3H) | [Catnapp](https://open.spotify.com/artist/2W47Nby5KFaS1pdUt7qmCU), [Modeselektor](https://open.spotify.com/artist/2jYMYP2SVifgmzNRQJx3SJ) | [in my closet](https://open.spotify.com/album/5l7VNatAUY3dVj3kIoJ9kI) | 3:32 | 2022-04-22 | 2022-05-07 |
 | [in my head](https://open.spotify.com/track/7cWvWr9JTwQ4NFmvgYyNR0) | [joss lockwood](https://open.spotify.com/artist/7c0umSPytMVzf1GT9eL7f2) | [in my head](https://open.spotify.com/album/1kwmTBvSKbt6e03fVrxCGV) | 1:58 | 2022-05-13 | 2022-12-10 |

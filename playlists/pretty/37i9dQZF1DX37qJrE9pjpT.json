@@ -1,15 +1,31 @@
 {
   "description": "The hottest rap anthems from Tanzania all in one playlist. Cover: Fredrick Mulla",
-  "num_followers": 2785,
+  "num_followers": 2790,
   "original_name": "Bongo Bars",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkadxAAAAACrDlc5Wo5f8pqAdXMgg4uQ",
+  "snapshot_id": "ZlBtSgAAAABHpcVSQKUgI+ZwQ0Rjob51",
   "tracks": [
     {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-24 10:34:50",
+      "album": {
+        "name": "Hii Hapa",
+        "url": "https://open.spotify.com/album/61JiVZe3Ati0R8qVux7XOo"
+      },
+      "artists": [
+        {
+          "name": "Weusi",
+          "url": "https://open.spotify.com/artist/7eECTa41N0fSqdhZbIxcGK"
+        }
+      ],
+      "duration_ms": 258604,
+      "name": "Hii Hapa",
+      "url": "https://open.spotify.com/track/6OdlGVgbF5r7ZGEnZg42pb"
+    },
+    {
+      "added_at": "2024-05-24 10:34:50",
       "album": {
         "name": "Freestyle Session 6",
         "url": "https://open.spotify.com/album/4dF6aB9fzWC6PsvZLogWeJ"
@@ -25,7 +41,7 @@
       "url": "https://open.spotify.com/track/274hVRT472ghZ8Nj0nZ1M7"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-24 10:34:50",
       "album": {
         "name": "Oyaah Mzee",
         "url": "https://open.spotify.com/album/3d882qIA2AiFkMo5q3MPOh"
@@ -69,7 +85,23 @@
       "url": "https://open.spotify.com/track/3mROEEmw1oz7X29S7KMSZ5"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-24 10:34:50",
+      "album": {
+        "name": "Bachela",
+        "url": "https://open.spotify.com/album/5FAm31IKryLF4D7F7ZyYlO"
+      },
+      "artists": [
+        {
+          "name": "Nay Wa Mitego",
+          "url": "https://open.spotify.com/artist/3P97oGJM0vr8VZEz1HX1aq"
+        }
+      ],
+      "duration_ms": 229407,
+      "name": "Bachela",
+      "url": "https://open.spotify.com/track/3P0h3icGbxwgsdH3FIbPs4"
+    },
+    {
+      "added_at": "2024-05-24 10:34:50",
       "album": {
         "name": "Msanii Bora Wa HipHop",
         "url": "https://open.spotify.com/album/0qvVDp2cgoajYtLicW2oLh"
@@ -85,7 +117,7 @@
       "url": "https://open.spotify.com/track/1Es37yRzabfGiil1SOikVd"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-24 10:34:50",
       "album": {
         "name": "MoroBuzz - Azimio",
         "url": "https://open.spotify.com/album/68jmy2YmnQP19trSUGmoFC"
@@ -105,23 +137,7 @@
       "url": "https://open.spotify.com/track/117vIXHVLQDRr0DPaWhJlo"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
-      "album": {
-        "name": "Bachela",
-        "url": "https://open.spotify.com/album/5FAm31IKryLF4D7F7ZyYlO"
-      },
-      "artists": [
-        {
-          "name": "Nay Wa Mitego",
-          "url": "https://open.spotify.com/artist/3P97oGJM0vr8VZEz1HX1aq"
-        }
-      ],
-      "duration_ms": 229407,
-      "name": "Bachela",
-      "url": "https://open.spotify.com/track/3P0h3icGbxwgsdH3FIbPs4"
-    },
-    {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-24 10:34:50",
       "album": {
         "name": "Bibi Titi",
         "url": "https://open.spotify.com/album/79arQ73MXkLG1Qa0UrNs2Q"
@@ -145,23 +161,7 @@
       "url": "https://open.spotify.com/track/2aoSJFc9xdhUnJK2CnSiqc"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
-      "album": {
-        "name": "Hii Hapa",
-        "url": "https://open.spotify.com/album/61JiVZe3Ati0R8qVux7XOo"
-      },
-      "artists": [
-        {
-          "name": "Weusi",
-          "url": "https://open.spotify.com/artist/7eECTa41N0fSqdhZbIxcGK"
-        }
-      ],
-      "duration_ms": 258604,
-      "name": "Hii Hapa",
-      "url": "https://open.spotify.com/track/6OdlGVgbF5r7ZGEnZg42pb"
-    },
-    {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-24 10:34:50",
       "album": {
         "name": "Hunijui Sikujui",
         "url": "https://open.spotify.com/album/7CRbdwo59LDjoNLoSY0b7q"
@@ -177,7 +177,7 @@
       "url": "https://open.spotify.com/track/0Gip2yqJKKsyRoBvS32QK6"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-24 10:34:50",
       "album": {
         "name": "MoroBuzz - Kora Hill",
         "url": "https://open.spotify.com/album/0iyO9qAPpWz8ITuRtxsNr5"
@@ -197,7 +197,7 @@
       "url": "https://open.spotify.com/track/2c0PQu7DbBkdtugnJwGZp1"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-24 10:34:50",
       "album": {
         "name": "King'ang'a",
         "url": "https://open.spotify.com/album/66tzb74hiCdWpcKW1yBLpe"
@@ -213,7 +213,7 @@
       "url": "https://open.spotify.com/track/7hLeYjOa3EEQ8ShzQXrneK"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-24 10:34:50",
       "album": {
         "name": "Way Back (Refix)",
         "url": "https://open.spotify.com/album/2WJRTwesazwP7iwnhfnSrU"
@@ -229,7 +229,7 @@
       "url": "https://open.spotify.com/track/3SprIdI5ZCIZRD2OQEOibh"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-24 10:34:50",
       "album": {
         "name": "Take a Breath Cypher",
         "url": "https://open.spotify.com/album/4dgwocJ2eLgkuwZFyRmkdo"
@@ -257,7 +257,7 @@
       "url": "https://open.spotify.com/track/5vgkNGzGssQkiExZdLPEee"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-24 10:34:50",
       "album": {
         "name": "Nakaba Koo",
         "url": "https://open.spotify.com/album/6NwoAKwmJk3jRb80PS2Apa"
@@ -273,7 +273,7 @@
       "url": "https://open.spotify.com/track/4aOcwNkD3CRHHCtQ3h8D5x"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-24 10:34:50",
       "album": {
         "name": "Brian Simba Essentials #2",
         "url": "https://open.spotify.com/album/6IGw4dYhbUcY5gD4BJHzWN"
@@ -293,7 +293,7 @@
       "url": "https://open.spotify.com/track/6jKGuJdZBe6nBwA6xQP8s2"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-24 10:34:50",
       "album": {
         "name": "Gangster Tendencies",
         "url": "https://open.spotify.com/album/5WFlzOTgQah4uHOwJkmgyV"
@@ -313,7 +313,7 @@
       "url": "https://open.spotify.com/track/5alssGGzqvPB3BsetB3dee"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-24 10:34:50",
       "album": {
         "name": "Way Back",
         "url": "https://open.spotify.com/album/4vMvwOYKHG67tbUfqX2gld"
@@ -333,27 +333,7 @@
       "url": "https://open.spotify.com/track/3Loia1cYk1tBvYFFb9nNvS"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
-      "album": {
-        "name": "MoroBuzz - Masika",
-        "url": "https://open.spotify.com/album/6ASpevrvKJvzlcGcl37mqE"
-      },
-      "artists": [
-        {
-          "name": "Umoja Sounds",
-          "url": "https://open.spotify.com/artist/6a8xnLQPDn7HANbZgT3tj9"
-        },
-        {
-          "name": "Fredrick Mulla",
-          "url": "https://open.spotify.com/artist/5rfiYSKHAN3WUdskfrEOvD"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "MoroBuzz - Masika",
-      "url": "https://open.spotify.com/track/5yDbafnVIALOgWtQPRkKqf"
-    },
-    {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-24 10:34:50",
       "album": {
         "name": "Unstoppable",
         "url": "https://open.spotify.com/album/5dbFsmwiSTeoavGolk4gNg"
@@ -373,7 +353,7 @@
       "url": "https://open.spotify.com/track/5yXMrWOLyf9GufnP59zCzl"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-24 10:34:50",
       "album": {
         "name": "NEW SCHUL CYPHER vol.2",
         "url": "https://open.spotify.com/album/7CCDWngFxKnp2TpOLGBsCi"
@@ -405,7 +385,7 @@
       "url": "https://open.spotify.com/track/0vKS7xHRrFnyPl6fzPUJIX"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-24 10:34:50",
       "album": {
         "name": "50 SHADES, Pt. 1",
         "url": "https://open.spotify.com/album/1HwLiJDkK3m0CSWtAaVql7"
@@ -421,7 +401,7 @@
       "url": "https://open.spotify.com/track/5PKCKlTE4JoINtXddc1p4k"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-24 10:34:50",
       "album": {
         "name": "Wapi Huko",
         "url": "https://open.spotify.com/album/5qSW3lI8C6X1QNhFo6vAlh"
@@ -437,7 +417,47 @@
       "url": "https://open.spotify.com/track/4ALRkQz2dbmZI666ErjSRG"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-24 10:34:50",
+      "album": {
+        "name": "MoroBuzz - Masika",
+        "url": "https://open.spotify.com/album/6ASpevrvKJvzlcGcl37mqE"
+      },
+      "artists": [
+        {
+          "name": "Umoja Sounds",
+          "url": "https://open.spotify.com/artist/6a8xnLQPDn7HANbZgT3tj9"
+        },
+        {
+          "name": "Fredrick Mulla",
+          "url": "https://open.spotify.com/artist/5rfiYSKHAN3WUdskfrEOvD"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "MoroBuzz - Masika",
+      "url": "https://open.spotify.com/track/5yDbafnVIALOgWtQPRkKqf"
+    },
+    {
+      "added_at": "2024-05-24 10:34:50",
+      "album": {
+        "name": "Won't Stop",
+        "url": "https://open.spotify.com/album/6aqb7770V1McvED2w7jhJu"
+      },
+      "artists": [
+        {
+          "name": "MansuLi",
+          "url": "https://open.spotify.com/artist/6VOOF46Lijbw5bWBQqy8x5"
+        },
+        {
+          "name": "Nyandu Tozzy",
+          "url": "https://open.spotify.com/artist/2ufAg7fIpFoEw1fsaAS491"
+        }
+      ],
+      "duration_ms": 207157,
+      "name": "Won't Stop",
+      "url": "https://open.spotify.com/track/1gl8Eld8kB4cUS82Sd3Cd4"
+    },
+    {
+      "added_at": "2024-05-24 10:34:50",
       "album": {
         "name": "TMA Swahili Rap",
         "url": "https://open.spotify.com/album/5QkjVw5itvxoEyeQ5uK4fR"
@@ -457,7 +477,7 @@
       "url": "https://open.spotify.com/track/5K9DKSXdqEQRFv9EYsJli4"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-24 10:34:50",
       "album": {
         "name": "PAST THE FUTURE",
         "url": "https://open.spotify.com/album/7hlunmg0KZ4F2yqM94q1Pk"
@@ -477,7 +497,7 @@
       "url": "https://open.spotify.com/track/1vkaoISSwDgdAPosFERaVo"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-24 10:34:50",
       "album": {
         "name": "Current Situation",
         "url": "https://open.spotify.com/album/0387VwvQCdqqoxFyRSO23f"
@@ -497,7 +517,7 @@
       "url": "https://open.spotify.com/track/3LMUTCgud5RcUcer01ShUf"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-24 10:34:50",
       "album": {
         "name": "Long Time",
         "url": "https://open.spotify.com/album/5BMup50cKvhd1AM1yWnbQ2"
@@ -517,7 +537,7 @@
       "url": "https://open.spotify.com/track/6xzeAvRTs0uI4TPPmCzJBp"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-24 10:34:50",
       "album": {
         "name": "No Time (feat. Jux)",
         "url": "https://open.spotify.com/album/4iEzTeOZTPuHmYAYd0Qftj"
@@ -537,7 +557,7 @@
       "url": "https://open.spotify.com/track/3apTsLuYniqTYCr8cU51Gd"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-24 10:34:50",
       "album": {
         "name": "Debbie",
         "url": "https://open.spotify.com/album/3BD5EDEiEw40c6Oke3xVH8"
@@ -557,7 +577,7 @@
       "url": "https://open.spotify.com/track/40YWoIsRFKXZkCTTwZjpE6"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-24 10:34:50",
       "album": {
         "name": "Moments",
         "url": "https://open.spotify.com/album/3OVAeg4LYk7x1hVCU0hUzV"
@@ -573,7 +593,7 @@
       "url": "https://open.spotify.com/track/2mgdmjXJqhvTW6regqKHQX"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-24 10:34:50",
       "album": {
         "name": "Ramadhani Kareem",
         "url": "https://open.spotify.com/album/71Lja5G9XJkfFlN0bMpLQr"
@@ -589,7 +609,7 @@
       "url": "https://open.spotify.com/track/2J0fR5BWLj3W1WyvCImhfj"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-24 10:34:50",
       "album": {
         "name": "Mirror",
         "url": "https://open.spotify.com/album/2cJXPh9c0qV8Wej730ypmg"
@@ -613,7 +633,27 @@
       "url": "https://open.spotify.com/track/144nZKc5hqgdY5f0BoLP4r"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-24 10:34:50",
+      "album": {
+        "name": "Nova Scotia",
+        "url": "https://open.spotify.com/album/1k4A5Jq2ljXTZL184o37Op"
+      },
+      "artists": [
+        {
+          "name": "The.wav",
+          "url": "https://open.spotify.com/artist/1OiTKR7t69UAVnJYfbOPf4"
+        },
+        {
+          "name": "ScrewStache",
+          "url": "https://open.spotify.com/artist/07a5aC3ZBAnsySXGEMhXe1"
+        }
+      ],
+      "duration_ms": 129574,
+      "name": "Nova Scotia",
+      "url": "https://open.spotify.com/track/0qg5Xeam0d7ARHpb7Okwl8"
+    },
+    {
+      "added_at": "2024-05-24 10:34:50",
       "album": {
         "name": "MULA",
         "url": "https://open.spotify.com/album/0bf5isMGeCK6c3qHQtQngm"
@@ -629,7 +669,7 @@
       "url": "https://open.spotify.com/track/4FQOEivzf0HHpkYzhf8Dz1"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-24 10:34:50",
       "album": {
         "name": "Hatupo Salama",
         "url": "https://open.spotify.com/album/6ZMC9PU7nmFi4DbY7Vz4tA"
@@ -653,7 +693,7 @@
       "url": "https://open.spotify.com/track/7L3EdBTilFlvWBv4FZO7xP"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-24 10:34:50",
       "album": {
         "name": "Mali Safi",
         "url": "https://open.spotify.com/album/4052FovkK8LYyRyZ6cJ5Rl"
@@ -669,7 +709,7 @@
       "url": "https://open.spotify.com/track/6fTviZad3Hk5QQ8zeZki98"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-24 10:34:50",
       "album": {
         "name": "50 SHADES, Pt. 5",
         "url": "https://open.spotify.com/album/5KdaOAGYB1z48I6Q6zZWCS"
@@ -693,23 +733,23 @@
       "url": "https://open.spotify.com/track/4pDLXiEr8ZMq7sVQm4RIqQ"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-24 10:34:50",
       "album": {
-        "name": "Champion",
-        "url": "https://open.spotify.com/album/02kQonHPOxEgq2a58uExZ3"
+        "name": "Wireless",
+        "url": "https://open.spotify.com/album/0FgYO74uE2M2In1V7R9rln"
       },
       "artists": [
         {
-          "name": "Fid Q",
-          "url": "https://open.spotify.com/artist/3C6NG0KFmmZlKkeg4DxDHK"
+          "name": "Solo Stoner",
+          "url": "https://open.spotify.com/artist/0aN929mmHhL41EQpPozzMP"
         }
       ],
-      "duration_ms": 115017,
-      "name": "Champion",
-      "url": "https://open.spotify.com/track/1CoGvdlhU6yoX27qt1572K"
+      "duration_ms": 242494,
+      "name": "Wireless",
+      "url": "https://open.spotify.com/track/0IflFT1aqElqca2QKnawRz"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-24 10:34:50",
       "album": {
         "name": "Confidence (feat. Shedy)",
         "url": "https://open.spotify.com/album/4Lmet0AQ9PM6WldvPRB5O8"
@@ -729,7 +769,7 @@
       "url": "https://open.spotify.com/track/2S795TGQ8bFnF3JyvGRIIg"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-24 10:34:50",
       "album": {
         "name": "PAPUCHI",
         "url": "https://open.spotify.com/album/6BM5wNrwsq0OPHg5mVfg2z"
@@ -749,7 +789,7 @@
       "url": "https://open.spotify.com/track/1eBsRZiqVztNnTvQZlwL1A"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-24 10:34:50",
       "album": {
         "name": "Underated",
         "url": "https://open.spotify.com/album/3nzGGudeGMwFou9SswrfDU"
@@ -765,7 +805,7 @@
       "url": "https://open.spotify.com/track/7bd4QDW2jxqpV9oGN27xcJ"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-24 10:34:50",
       "album": {
         "name": "Vitasa",
         "url": "https://open.spotify.com/album/6ku6iXnTyY0yLMxXSNhrMa"
@@ -781,7 +821,7 @@
       "url": "https://open.spotify.com/track/4bmJwAdMUhPxvwL4lp4rrW"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-24 10:34:50",
       "album": {
         "name": "Siku 462",
         "url": "https://open.spotify.com/album/6tJOOG9u6TLa7teKtA0ctV"
@@ -801,7 +841,7 @@
       "url": "https://open.spotify.com/track/6Ra0c5H61aJLKRpkFhkAZz"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-24 10:34:50",
       "album": {
         "name": "Maria",
         "url": "https://open.spotify.com/album/5izjFJOMioHMQJQPDU6QWM"
@@ -821,7 +861,7 @@
       "url": "https://open.spotify.com/track/0vS8dzwAEV5ushczxoc1J1"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-24 10:34:50",
       "album": {
         "name": "In Too Deep",
         "url": "https://open.spotify.com/album/6MzrChd39GWAtvFe9kcFpH"
@@ -837,7 +877,7 @@
       "url": "https://open.spotify.com/track/1yUouKyKMhi35uipb9dS1C"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-24 10:34:50",
       "album": {
         "name": "Binamu",
         "url": "https://open.spotify.com/album/3sxbgedksUzpc3eI8XbV4n"
@@ -857,31 +897,7 @@
       "url": "https://open.spotify.com/track/6aRuR8PrZxjoclgk4St3Nr"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
-      "album": {
-        "name": "Mr Xmas III",
-        "url": "https://open.spotify.com/album/1XwFNhqHCMroHW8wBcUTlL"
-      },
-      "artists": [
-        {
-          "name": "Izzo Bizness",
-          "url": "https://open.spotify.com/artist/6W098BENpm3dJ0jmHW2tVF"
-        },
-        {
-          "name": "Roma Mkatoliki",
-          "url": "https://open.spotify.com/artist/5vt0v1SOjFGt55GNikLTGf"
-        },
-        {
-          "name": "Stamina Shorwebwenzi",
-          "url": "https://open.spotify.com/artist/7vGp5tmuvQ5ku1Fh6d1UsV"
-        }
-      ],
-      "duration_ms": 413306,
-      "name": "Mr Xmas III",
-      "url": "https://open.spotify.com/track/3UIKevjNLmMIAMIQ6gqaJb"
-    },
-    {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-24 10:34:50",
       "album": {
         "name": "Malume",
         "url": "https://open.spotify.com/album/5qUOx9PNiugWjY420uFKu9"
@@ -905,7 +921,7 @@
       "url": "https://open.spotify.com/track/6PurjVxHGLhG896qwH2YTS"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-24 10:34:50",
       "album": {
         "name": "Putin",
         "url": "https://open.spotify.com/album/7Ieceym17LPKTFTBkPDxE2"
@@ -925,7 +941,7 @@
       "url": "https://open.spotify.com/track/7e9x1ZBopSmZE5hPdVDTbD"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-24 10:34:50",
       "album": {
         "name": "Vitu Vingi",
         "url": "https://open.spotify.com/album/09o8Ri7Y1ThTozxbeUpn6b"
@@ -941,23 +957,7 @@
       "url": "https://open.spotify.com/track/30Mrl3Y5T64ZK1usuQhhZt"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
-      "album": {
-        "name": "New Material",
-        "url": "https://open.spotify.com/album/4HWu1KASNwCCp5FtyVotS7"
-      },
-      "artists": [
-        {
-          "name": "Chemical",
-          "url": "https://open.spotify.com/artist/0I7KLVHA1tXcQTJOrzcCv6"
-        }
-      ],
-      "duration_ms": 201168,
-      "name": "New Material",
-      "url": "https://open.spotify.com/track/3839CtDs1ySFB0VtgTw4Ep"
-    },
-    {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-24 10:34:50",
       "album": {
         "name": "MAJANI",
         "url": "https://open.spotify.com/album/2Lm2VZwvLelZQvf2xVWQUE"
@@ -981,7 +981,7 @@
       "url": "https://open.spotify.com/track/3Sbh9hBmH00c1dJ8AKW9cA"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-24 10:34:50",
       "album": {
         "name": "Israel & Palestine Tears (Freestyle)",
         "url": "https://open.spotify.com/album/4sNn9Mo6H9ePvEMoSAeltF"

@@ -4,7 +4,7 @@
 
 > Pop de los mejores artistas colombianos\. ¡Dale play! Foto: Bacilos
 
-208 songs - 11 hr 3 min
+209 songs - 11 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Dos Semanas](https://open.spotify.com/track/24HpRg5rCOPJtLij5jDY3l) | [Alejandro Santamaria](https://open.spotify.com/artist/7HXJp9OMIL5tdwZYleuBvy) | [Dos Semanas](https://open.spotify.com/album/5qLNiFFzTrty1N3gJ0LaW1) | 2:39 | 2024-02-16 | 2024-04-13 |
 | [Duele](https://open.spotify.com/track/5IgAMrxJSs0IpSE3R7oRln) | [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6), [Gusi](https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe) | [Duele](https://open.spotify.com/album/2PuqtGQoJqhXo5AubtfoOx) | 3:33 | 2023-05-19 | 2024-05-04 |
 | [Déjala Que Vuelva \(feat\. Manuel Turizo\)](https://open.spotify.com/track/33bnxcjePIkcmNjEFTJX0l) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Déjala Que Vuelva \(feat\. Manuel Turizo\)](https://open.spotify.com/album/70WadO9CAH4rOI1rEbTS0a) | 3:40 | 2023-02-17 |  |
+| [Días de mierda \(Arial 3\)](https://open.spotify.com/track/2SOn6LXgv9xybGMOEoYzwD) | [Susana Cala](https://open.spotify.com/artist/68LgpWsaAwjflP3CLXC0LB) | [Días de mierda \(Arial 3\)](https://open.spotify.com/album/3suowBgMkaBa4m1sp9Xg78) | 2:21 | 2024-05-24 |  |
 | [El Amor Es Perfecto](https://open.spotify.com/track/69cAqCB2QFhKkmmDmkYc9A) | [Cabas](https://open.spotify.com/artist/3W4lVkySjtIvd67UUg0F3i) | [El Amor Es Perfecto](https://open.spotify.com/album/3jvv2aafvKHKZGuq0EfqFa) | 2:58 | 2023-02-17 | 2024-05-04 |
 | [El Equivocado](https://open.spotify.com/track/25Qow1XsQiXi0v2C8cxhwL) | [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6) | [El Equivocado](https://open.spotify.com/album/0DKMuyi55HlxjQONKbt1xl) | 3:39 | 2023-02-17 |  |
 | [El Gran Teatro](https://open.spotify.com/track/2n9rHWOVp9Dyy64MNPH3Sf) | [Santiago Cruz](https://open.spotify.com/artist/5ClJtuiNlr83ua45Dvpcf7), [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6) | [Nueve](https://open.spotify.com/album/7EnM4Hxe911FnoxbHlfADy) | 3:53 | 2023-02-17 | 2023-04-29 |
@@ -69,7 +70,7 @@
 | [Enredadera](https://open.spotify.com/track/2VcrkGRHNbftgUZpqChlCD) | [Bacilos](https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl) | [Pequeños Romances](https://open.spotify.com/album/02YYFa5lfqrTzRXUQQaQZo) | 4:55 | 2024-05-17 |  |
 | [ERES \(Acto IV: Sálvese quien pueda\)](https://open.spotify.com/track/57lu7hXebjTcjw8QKvYzuM) | [The Mills](https://open.spotify.com/artist/7fcGiQtR6dTLwpQzrWsiJn) | [ERES \(Acto IV: Sálvese quien pueda\)](https://open.spotify.com/album/4MhdAyDEfQTFG3FP1prddY) | 2:56 | 2023-09-08 | 2023-10-07 |
 | [Esperándote](https://open.spotify.com/track/1nfyE13arjOuO54HH0zmqj) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Esperándote](https://open.spotify.com/album/1PEgEtk3DMrUxG6Mkco3Zg) | 3:19 | 2023-02-17 |  |
-| [Estoy Enamorao](https://open.spotify.com/track/1DVAYuOMOaKn7Usi7j2TmR) | [Gusi](https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe) | [Estoy Enamorao](https://open.spotify.com/album/1Nmqx99fuiE1CPNmtLUJUu) | 3:05 | 2023-02-17 |  |
+| [Estoy Enamorao](https://open.spotify.com/track/1DVAYuOMOaKn7Usi7j2TmR) | [Gusi](https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe) | [Estoy Enamorao](https://open.spotify.com/album/1Nmqx99fuiE1CPNmtLUJUu) | 3:05 | 2023-02-17 | 2024-05-25 |
 | [Estrella Fugaz](https://open.spotify.com/track/4ono3Yv2pkKMHOyhGR3XLW) | [Isabel Garcés](https://open.spotify.com/artist/4xkkYZnuGYyxRIvkLz5LfY) | [Estrella Fugaz](https://open.spotify.com/album/0U4CGswPa88DuTdtQojlBs) | 2:53 | 2023-08-25 | 2023-11-11 |
 | [Falta Amor](https://open.spotify.com/track/2ukaTb7sSeWHdr22n1xTBs) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Falta Amor](https://open.spotify.com/album/3gkp7anxdJUMULQZaIND1m) | 3:23 | 2023-02-17 |  |
 | [Faltas Tú](https://open.spotify.com/track/4mIc3AQWkqLb2LVjkVKv4K) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Faltas Tú](https://open.spotify.com/album/0ZNk0pIBMIIDgutlALp6ia) | 3:21 | 2024-04-12 |  |

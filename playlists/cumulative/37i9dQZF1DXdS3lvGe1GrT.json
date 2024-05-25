@@ -5411,6 +5411,24 @@
     },
     {
       "album": {
+        "name": "Do Your Worst",
+        "url": "https://open.spotify.com/album/2LS7qVSq37ThFZkkmhrY3w"
+      },
+      "artists": [
+        {
+          "name": "Zackery",
+          "url": "https://open.spotify.com/artist/5GQHNdYVBppXNGb7RHJHIc"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219956,
+      "name": "Do Your Worst",
+      "url": "https://open.spotify.com/track/1WQm4kw3blYLYbsA9kTsTE"
+    },
+    {
+      "album": {
         "name": "dog",
         "url": "https://open.spotify.com/album/4GoNNtWHaiJHoaRK6kl08u"
       },
@@ -13526,6 +13544,32 @@
       "duration_ms": 204597,
       "name": "Montana",
       "url": "https://open.spotify.com/track/4DOxDsuZ6W8PdyRvd4ToDJ"
+    },
+    {
+      "album": {
+        "name": "Move into the Luminous",
+        "url": "https://open.spotify.com/album/5sML4aezLsPEnVJe4ObNxm"
+      },
+      "artists": [
+        {
+          "name": "Makushin",
+          "url": "https://open.spotify.com/artist/7aYflwlSz6eBm0teArvEgl"
+        },
+        {
+          "name": "Andrew Wasylyk",
+          "url": "https://open.spotify.com/artist/6eWBxi3noFhe59k8qdPbzG"
+        },
+        {
+          "name": "David A Jaycock",
+          "url": "https://open.spotify.com/artist/3SMHagl0r9hdZ6fmiXnlM6"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281702,
+      "name": "More Easily",
+      "url": "https://open.spotify.com/track/4TJu2i1NcYxTgO0fFSk1Xf"
     },
     {
       "album": {

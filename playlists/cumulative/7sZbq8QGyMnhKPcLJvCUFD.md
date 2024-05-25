@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-546 songs - 1 day 3 hr 56 min
+547 songs - 1 day 3 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,6 +183,7 @@
 | [feel](https://open.spotify.com/track/1YWRkdve95UlDNmUIj67Z4) | [JB Hain](https://open.spotify.com/artist/7iJUjgKf5EfgLRlczakDtA) | [feel](https://open.spotify.com/album/6lYnCqxUSRXwLHpfMNeTu1) | 3:01 | 2023-03-08 | 2023-08-10 |
 | [Feel](https://open.spotify.com/track/1whGAh2hFEr9CQeEmhouJq) | [Raptures.](https://open.spotify.com/artist/37H2zWHT07jLwDF8ddpu6m), [DigEx](https://open.spotify.com/artist/1fkyWtQzPTsS3Vj6kRtKi0) | [Feel](https://open.spotify.com/album/6fvg92JFSGmu8WbC3xLtDU) | 2:36 | 2022-06-07 | 2023-04-28 |
 | [Feel Good](https://open.spotify.com/track/0dkV8DuMfWAVhfi3iMnIX3) | [Syn Cole](https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH) | [Feel Good](https://open.spotify.com/album/5QI7p02EaQO90V2i9lVxMY) | 3:01 | 2023-08-08 | 2024-02-16 |
+| [Feel Like](https://open.spotify.com/track/5Oji8AVm2hDRqs0hTgKJUc) | [Aix Cee](https://open.spotify.com/artist/7gyRTQclDoJrMHMNfSuSUe) | [Feel Like](https://open.spotify.com/album/2gycRsICkZ2zZlXda4YXA6) | 2:51 | 2024-05-24 |  |
 | [feel someth!ng](https://open.spotify.com/track/4xj9oZ67frEPQrlf8rlR89) | [if found](https://open.spotify.com/artist/39W8ER2QJe2x3pKLIXTiwK) | [false / youth](https://open.spotify.com/album/5aaY5bclpHazZWkLinHh9S) | 3:31 | 2022-12-06 | 2023-04-28 |
 | [Feelings](https://open.spotify.com/track/7wUW5qYK19RlL6ljqDbc5x) | [Diviners](https://open.spotify.com/artist/22lnnGKlaDxk8sfzCNRJuA), [Azertion](https://open.spotify.com/artist/2UsZKeB2olmMd3wAUxRC6G) | [Feelings](https://open.spotify.com/album/6bgdgylfzmjqqeV8ztYoR5) | 2:54 | 2023-08-08 | 2023-12-14 |
 | [Feelings](https://open.spotify.com/track/0objHGHDjDdVGCyWYBLdQT) | [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64), [Cajama](https://open.spotify.com/artist/3YiP0AyiXuD61EE5xTaTbY) | [Feelings](https://open.spotify.com/album/6ufiR1kjFwmTAvhrmcFLjE) | 2:41 | 2022-05-05 | 2023-04-28 |

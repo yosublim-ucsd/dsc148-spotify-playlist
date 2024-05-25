@@ -4,7 +4,7 @@
 
 > layan je
 
-150 songs - 9 hr 49 min
+151 songs - 9 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Darah](https://open.spotify.com/track/4PK0MXzzC7iz7ygDCQn5Xj) | [Marsha Milan](https://open.spotify.com/artist/318pGzlr5IiN6UAAL8KHTD) | [Darah](https://open.spotify.com/album/1fSHmbA2mAVQhLAZSZmNTO) | 3:29 | 2024-01-18 | 2024-01-26 |
 | [Dawai \(From "Air Mata Di Ujung Sajadah"\)](https://open.spotify.com/track/5KKqMjyldESKZbcfEs9QnY) | [Fadhilah Intan](https://open.spotify.com/artist/452u7UZFOhNTdO5dQwbhzL) | [Dawai \(From "Air Mata Di Ujung Sajadah"\)](https://open.spotify.com/album/4eRO6qTZCzTqibBy1j9lHz) | 4:39 | 2024-01-18 | 2024-02-29 |
 | [Dealova](https://open.spotify.com/track/7I55fdwpyAz4OZbsK6QC3A) | [Fadhilah Intan](https://open.spotify.com/artist/452u7UZFOhNTdO5dQwbhzL) | [Dealova](https://open.spotify.com/album/6p8PaOcS2B8N9MSNgqhkOP) | 4:42 | 2024-02-15 | 2024-02-23 |
-| [Denting](https://open.spotify.com/track/4i7xD6pmEaV25wL6K7Pjd0) | [Petra Sihombing](https://open.spotify.com/artist/5TV9JhBjG6c2hHsoibBaIW) | [Denting](https://open.spotify.com/album/1nZGplPUPFeiAxhJnl0Ajx) | 3:09 | 2024-01-18 |  |
+| [Denting](https://open.spotify.com/track/4i7xD6pmEaV25wL6K7Pjd0) | [Petra Sihombing](https://open.spotify.com/artist/5TV9JhBjG6c2hHsoibBaIW) | [Denting](https://open.spotify.com/album/1nZGplPUPFeiAxhJnl0Ajx) | 3:09 | 2024-01-18 | 2024-05-25 |
 | [Dilemma \- From "Racun Rihanna"](https://open.spotify.com/track/1VNPTiES2ROlyZQSk0gJIf) | [Kaka Azraff](https://open.spotify.com/artist/4a6rcjvQs6YOwK5sVlybKV) | [Dilemma \(From "Racun Rihanna"\)](https://open.spotify.com/album/55LCvUS6r2dNQJc36FwMbr) | 4:37 | 2024-04-05 | 2024-04-19 |
 | [Dugaan Takdir Cinta \- From "Takdir Itu Milik Aku"](https://open.spotify.com/track/4YYok2PE88TSr0hLqS6E8F) | [Afif Tirmizie](https://open.spotify.com/artist/7fqIZ8Dd8XUIESFSoUeq2y), [Nikki Palikat](https://open.spotify.com/artist/6EdlX521xMCxqlD9vUeQKa) | [Dugaan Takdir Cinta \(From "Takdir Itu Milik Aku"\)](https://open.spotify.com/album/1alT5EmIg0oovdyHkCeFXn) | 4:11 | 2024-02-15 | 2024-02-23 |
 | [Dugaan Takdir Cinta \- Piano Version \- From "Takdir Itu Milik Aku"](https://open.spotify.com/track/0TtkIdfUUhmcbgAj6DkmwD) | [Afif Tirmizie](https://open.spotify.com/artist/7fqIZ8Dd8XUIESFSoUeq2y), [Nikki Palikat](https://open.spotify.com/artist/6EdlX521xMCxqlD9vUeQKa) | [Dugaan Takdir Cinta \(Piano Version \- From "Takdir Itu Milik Aku"\)](https://open.spotify.com/album/6lT10ZfMkvKpmBHTLdbYgV) | 4:10 | 2024-02-29 | 2024-03-08 |
@@ -80,6 +80,7 @@
 | [Lagu Pernikahan Kita](https://open.spotify.com/track/3diRmt2Z6xSEaT0mqBr681) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm), [Arsy Widianto](https://open.spotify.com/artist/7j5PGC0BF48rRtcmgbVvOT) | [Lagu Pernikahan Kita](https://open.spotify.com/album/5eY3dzN1EvreoSLr1vWVMu) | 4:21 | 2024-02-01 |  |
 | [LDDT](https://open.spotify.com/track/43IR9onZwu3shjgkNgxdZz) | [Aziz Harun](https://open.spotify.com/artist/1dmuM6bG5J8sDFyp26x9Nf) | [LDDT](https://open.spotify.com/album/6NXwLalTLEsz52Yh4iqQJG) | 2:54 | 2024-01-18 | 2024-01-26 |
 | [Lemas](https://open.spotify.com/track/1WWSoLU0JxOQEPsBowClCK) | [Khai Bahar](https://open.spotify.com/artist/3jNp263VZXVLzuznuLgghq) | [Lemas](https://open.spotify.com/album/5SQWdDMdgty7ssDgO42eqh) | 3:57 | 2024-02-01 | 2024-02-23 |
+| [Mahir Memberi Luka](https://open.spotify.com/track/5hPv6XDaQzixDaYN0yRCFi) | [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [Everlast](https://open.spotify.com/album/4RQqQiwO3kTfzQI7YQfDMg) | 3:22 | 2024-05-24 |  |
 | [Masih Hatiku](https://open.spotify.com/track/6L1jkVbb331DNvK89C3L8u) | [Arsy Widianto](https://open.spotify.com/artist/7j5PGC0BF48rRtcmgbVvOT), [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Masih Hatiku](https://open.spotify.com/album/6uwl5luJhAy6CLqoU8ExTY) | 4:22 | 2024-02-22 |  |
 | [Masih Ku Sayang](https://open.spotify.com/track/5G9afAQLqId5heLtc3Ra6I) | [Hoondoo](https://open.spotify.com/artist/3FRJ1DX6ZUdVquwKsjs0D6) | [Masih Ku Sayang](https://open.spotify.com/album/7poIkWOHtsKXf2uXimQmXO) | 3:20 | 2024-05-16 | 2024-05-24 |
 | [Masihkah Ada Rasa Itu? \- From "Wanita Syurga"](https://open.spotify.com/track/4c4Rs17mDezGSFJI3u7CcW) | [Misha Omar](https://open.spotify.com/artist/5cpxHc2y6L3Jn3FWY3z94Q) | [Masihkah Ada Rasa Itu? \(From "Wanita Syurga"\)](https://open.spotify.com/album/3u4ZDExYXwapRXRWwzbJ0G) | 3:22 | 2024-02-29 | 2024-03-08 |

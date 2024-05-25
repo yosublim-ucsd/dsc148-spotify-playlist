@@ -1,13 +1,53 @@
 {
   "description": "All new, all blues. Cover: Judith Hill",
-  "num_followers": 147768,
+  "num_followers": 147770,
   "original_name": "Nu-Blue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkbWfAAAAACOztlwGoSdjiGL1Cap02/Y",
+  "snapshot_id": "ZlAQwAAAAADmji5iNmwObntQmRvZhUFA",
   "tracks": [
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Stuck Between",
+        "url": "https://open.spotify.com/album/291w3CauiM43jZ8JCPWkxt"
+      },
+      "artists": [
+        {
+          "name": "Sugaray Rayford",
+          "url": "https://open.spotify.com/artist/4dctcbWDGbSj1Nn29CV4g3"
+        },
+        {
+          "name": "Sam Morrow",
+          "url": "https://open.spotify.com/artist/5fHiDVbd5c6LzxbjRO8ZZs"
+        }
+      ],
+      "duration_ms": 200453,
+      "name": "Stuck Between",
+      "url": "https://open.spotify.com/track/5LIRAS31nsE5mNgS3Guf1W"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Don't Belong",
+        "url": "https://open.spotify.com/album/0tWE6SvTgWYbMaB1VpnfEZ"
+      },
+      "artists": [
+        {
+          "name": "Pimps of Joytime",
+          "url": "https://open.spotify.com/artist/6NPWjCsZUtFRognZKJm5N4"
+        },
+        {
+          "name": "Sophia Urista",
+          "url": "https://open.spotify.com/artist/0ZOIPu5gy4F5VFvJrRfvVP"
+        }
+      ],
+      "duration_ms": 164909,
+      "name": "Don't Belong",
+      "url": "https://open.spotify.com/track/2SyGEOEEY0cfF4RPLV3e1N"
+    },
     {
       "added_at": "2024-05-17 04:01:00",
       "album": {
@@ -147,26 +187,6 @@
       "duration_ms": 345596,
       "name": "Good People",
       "url": "https://open.spotify.com/track/0KlEYhot7IwsbCNGpww72s"
-    },
-    {
-      "added_at": "2024-04-19 04:01:00",
-      "album": {
-        "name": "Queen Of The Road",
-        "url": "https://open.spotify.com/album/0dnQw3nGeIg2ZOKiA8cVhA"
-      },
-      "artists": [
-        {
-          "name": "Pimps of Joytime",
-          "url": "https://open.spotify.com/artist/6NPWjCsZUtFRognZKJm5N4"
-        },
-        {
-          "name": "Sophia Urista",
-          "url": "https://open.spotify.com/artist/0ZOIPu5gy4F5VFvJrRfvVP"
-        }
-      ],
-      "duration_ms": 225068,
-      "name": "Queen Of The Road",
-      "url": "https://open.spotify.com/track/0Z941Yv9mo0BQIPdVCT1B0"
     },
     {
       "added_at": "2024-04-12 04:01:00",
@@ -383,22 +403,6 @@
       "duration_ms": 195436,
       "name": "Almighty $$",
       "url": "https://open.spotify.com/track/7EWfX1yhJpk8oEBuXEzx4Q"
-    },
-    {
-      "added_at": "2024-02-13 18:01:41",
-      "album": {
-        "name": "Run For Cover",
-        "url": "https://open.spotify.com/album/0Lz7mQyFpcf4a7GSokAOps"
-      },
-      "artists": [
-        {
-          "name": "Sugaray Rayford",
-          "url": "https://open.spotify.com/artist/4dctcbWDGbSj1Nn29CV4g3"
-        }
-      ],
-      "duration_ms": 173803,
-      "name": "Run For Cover",
-      "url": "https://open.spotify.com/track/3fXOZy6tSY2rc0EiS4VE6o"
     },
     {
       "added_at": "2024-02-16 05:01:00",

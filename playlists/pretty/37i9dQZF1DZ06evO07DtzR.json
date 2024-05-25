@@ -1,12 +1,12 @@
 {
   "description": "This is EGOIST. The essential tracks, all in one playlist.",
-  "num_followers": 39663,
+  "num_followers": 39668,
   "original_name": "This Is EGOIST",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zk01gAAAAABF2u2RBWLOF7ASUsvibbvJ",
+  "snapshot_id": "Zk6HAAAAAAA6w5r3yWthT58rHDbtAqpR",
   "tracks": [
     {
       "added_at": null,
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
         }
       ],
-      "duration_ms": 243506,
-      "name": "Lovely Icecream Princess Sweetie",
-      "url": "https://open.spotify.com/track/5fgPoYpE1cphb5f0pRqm9P"
+      "duration_ms": 271586,
+      "name": "LoveStruck",
+      "url": "https://open.spotify.com/track/4ts45vwSYcZJdIZdlt5OUz"
     },
     {
       "added_at": null,
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
         }
       ],
-      "duration_ms": 271586,
-      "name": "LoveStruck",
-      "url": "https://open.spotify.com/track/4ts45vwSYcZJdIZdlt5OUz"
+      "duration_ms": 243506,
+      "name": "Lovely Icecream Princess Sweetie",
+      "url": "https://open.spotify.com/track/5fgPoYpE1cphb5f0pRqm9P"
     },
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Departures - Anata Ni Okuru Ai No Uta",
-        "url": "https://open.spotify.com/album/5WlYfrfJKDX3JbZDfQbJgy"
-      },
-      "artists": [
-        {
-          "name": "EGOIST",
-          "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
-        }
-      ],
-      "duration_ms": 431186,
-      "name": "Departures \u301c\u3042\u306a\u305f\u306b\u304a\u304f\u308b\u30a2\u30a4\u306e\u6b4c\u301c -BOOM BOOM SATELLITES Remix-",
-      "url": "https://open.spotify.com/track/4shRfuRkwt9ydnL1gTr0dA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fallen",
         "url": "https://open.spotify.com/album/6YHmti57sy3833VRHXR5bI"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 270733,
       "name": "Fallen -Instrumental-",
       "url": "https://open.spotify.com/track/03byyh97Boqpvg7QF6Kwk2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Departures - Anata Ni Okuru Ai No Uta",
+        "url": "https://open.spotify.com/album/5WlYfrfJKDX3JbZDfQbJgy"
+      },
+      "artists": [
+        {
+          "name": "EGOIST",
+          "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
+        }
+      ],
+      "duration_ms": 431186,
+      "name": "Departures \u301c\u3042\u306a\u305f\u306b\u304a\u304f\u308b\u30a2\u30a4\u306e\u6b4c\u301c -BOOM BOOM SATELLITES Remix-",
+      "url": "https://open.spotify.com/track/4shRfuRkwt9ydnL1gTr0dA"
     },
     {
       "added_at": null,

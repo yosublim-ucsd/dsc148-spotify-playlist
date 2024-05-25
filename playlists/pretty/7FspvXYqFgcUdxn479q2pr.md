@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7FspvXYqFgcUdxn479q2pr.md) - [plain]
 
 > New dance music from Deep House to Future Rave\. Refreshed every Friday by Spinnin' Records\. Check <a href="https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5">Spinnin' Records Brand New</a> for the latest Spinnin' releases\.  COVER: JEV
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 32,504 likes - 7 songs - 21 min 16 sec
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 32,500 likes - 11 songs - 37 min 49 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,5 +15,9 @@ pretty - [cumulative](/playlists/cumulative/7FspvXYqFgcUdxn479q2pr.md) - [plain]
 | 5 | [VIKINGS \(Hey Ho\)](https://open.spotify.com/track/6IT0imWqG8TkVQhyMZEVm7) | [HEDEGAARD](https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2) | [VIKINGS \(Hey Ho\)](https://open.spotify.com/album/40d9SJ6rMFbupMyYq2Rx4W) | 3:15 |
 | 6 | [33 Max Verstappen \(Dj René Abrego Mexico Remix\)](https://open.spotify.com/track/0ZM7l1RhuyjeXgi8D5qJBd) | [Carte Blanq](https://open.spotify.com/artist/2JMSG0XzHySNP6pdV6g30o), [Maxx Power](https://open.spotify.com/artist/5xO3qTeIdumG381f7Kuqu5), [Dj René Abrego](https://open.spotify.com/artist/6xA9nblh3vWgH8D593Jhkz), [QOTAX](https://open.spotify.com/artist/1IgsSgFTsbBmxBGZoNK0Hw) | [33 Max Verstappen \(Dj René Abrego Mexico Remix\)](https://open.spotify.com/album/6UhUDsU5r1OvZUOGsM700D) | 2:43 |
 | 7 | [June](https://open.spotify.com/track/1xfj8i1OvEhqJmWncOV2d5) | [Thierry Von Der Warth](https://open.spotify.com/artist/2mF9PcfpN8vxRtCfra8hz1), [Carston](https://open.spotify.com/artist/0WRqpklDf9jCcdVitOJGn6), [Horizon Blue](https://open.spotify.com/artist/2vOzV5WdvOYH3K1NJyt7wb) | [June](https://open.spotify.com/album/5R8lqTv6VUfTgPyuA3vScp) | 2:43 |
+| 8 | [In Berlin](https://open.spotify.com/track/17MQNLNMd9BZ5IMbHTiOYi) | [Andrew Galaxy](https://open.spotify.com/artist/67Bgeu6V5DKzChSuDcjTEe), [Vision Next](https://open.spotify.com/artist/4uX9udVnZmcSxztMjNauqA) | [ARCH](https://open.spotify.com/album/4cScqtWDOzm7Vaf3snY0u8) | 3:04 |
+| 9 | [Take My Heart](https://open.spotify.com/track/0k2nAIEgXwyphwyzEVrv2G) | [Nick Morgan](https://open.spotify.com/artist/29P8YF3232VxBXaU3vE4W8) | [Take My Heart](https://open.spotify.com/album/0MbL6sSWFgsesRBS1oQGmi) | 3:08 |
+| 10 | [SIGN](https://open.spotify.com/track/1zg0rYI4vsiJPXeRZ3esIo) | [Tonic Walter](https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv) | [SIGN](https://open.spotify.com/album/4w5yEqweK9vCLC6tBQ5Npk) | 3:43 |
+| 11 | [Be You](https://open.spotify.com/track/3DP7Vn2Oqw0ycl5IYb6NdO) | [Riley \(UK\)](https://open.spotify.com/artist/41vJAAunDUYAg81pOkcWh3) | [Cruisin' Down Crenshaw EP](https://open.spotify.com/album/08MQdiaBRvA9JtlU3f63D8) | 6:36 |
 
-Snapshot ID: `AAAqhpzHPq6V4hf1+1fg4sSnJpR1ZB/w`
+Snapshot ID: `AAAqi4v29X9o2G54LXwW2lsQkm/3VPzk`

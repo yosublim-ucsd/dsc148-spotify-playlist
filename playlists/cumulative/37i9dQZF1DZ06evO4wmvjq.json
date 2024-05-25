@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "This Is Terry Riley. Los temas esenciales, todos en una lista.",
+  "description": "This is Terry Riley. The essential tracks, all in one playlist.",
   "name": "This Is Terry Riley",
   "tracks": [
     {
@@ -1470,7 +1470,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-21",
+      "date_removed": null,
       "duration_ms": 1441491,
       "name": "Keyboard Study 2 - Remastered 2021",
       "url": "https://open.spotify.com/track/58qqLWy7sAix9wTtS8kEIb"
@@ -3018,7 +3018,7 @@
       ],
       "date_added": "2023-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 324680,
       "name": "The Lake",
       "url": "https://open.spotify.com/track/11p1Pf5SQjJBWD8NkyyYKM"

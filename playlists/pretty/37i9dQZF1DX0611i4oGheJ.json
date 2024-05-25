@@ -1,6 +1,6 @@
 {
   "description": "Sweet gems to help you slow down and savor your day.",
-  "num_followers": 443650,
+  "num_followers": 443737,
   "original_name": "Soft & Slow",
   "owner": {
     "name": "Spotify",
@@ -439,6 +439,22 @@
     {
       "added_at": "2024-04-19 15:40:59",
       "album": {
+        "name": "Th\u00e9r\u00e8se",
+        "url": "https://open.spotify.com/album/1lbJOgLXOtyxQbvjt17eGT"
+      },
+      "artists": [
+        {
+          "name": "Maya Hawke",
+          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
+        }
+      ],
+      "duration_ms": 207389,
+      "name": "Th\u00e9r\u00e8se",
+      "url": "https://open.spotify.com/track/1LklAGxyeK07JYRzw3Vzx9"
+    },
+    {
+      "added_at": "2024-04-19 15:40:59",
+      "album": {
         "name": "multiverse",
         "url": "https://open.spotify.com/album/4P9CkSDRbEULCwwFNnneBC"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 179224,
       "name": "multiverse",
       "url": "https://open.spotify.com/track/5SNrF8sTUjkyliM7ZLhUtN"
-    },
-    {
-      "added_at": "2024-04-19 15:40:59",
-      "album": {
-        "name": "Th\u00e9r\u00e8se",
-        "url": "https://open.spotify.com/album/1lbJOgLXOtyxQbvjt17eGT"
-      },
-      "artists": [
-        {
-          "name": "Maya Hawke",
-          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
-        }
-      ],
-      "duration_ms": 207389,
-      "name": "Th\u00e9r\u00e8se",
-      "url": "https://open.spotify.com/track/1LklAGxyeK07JYRzw3Vzx9"
     },
     {
       "added_at": "2024-04-19 15:40:59",
@@ -735,22 +735,6 @@
     {
       "added_at": "2024-04-19 15:40:59",
       "album": {
-        "name": "Life Is",
-        "url": "https://open.spotify.com/album/54eLc8KKiIJcWmrkQV3A2b"
-      },
-      "artists": [
-        {
-          "name": "Jessica Pratt",
-          "url": "https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh"
-        }
-      ],
-      "duration_ms": 188293,
-      "name": "Life Is",
-      "url": "https://open.spotify.com/track/3aJrUfPxOANdzY1weAqrgH"
-    },
-    {
-      "added_at": "2024-04-19 15:40:59",
-      "album": {
         "name": "Light That Match",
         "url": "https://open.spotify.com/album/7kgdul3E3sTCCS3hLU01vx"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 182386,
       "name": "Light That Match",
       "url": "https://open.spotify.com/track/5iiXIpA0AGJekS2sOsMBUf"
+    },
+    {
+      "added_at": "2024-04-19 15:40:59",
+      "album": {
+        "name": "Life Is",
+        "url": "https://open.spotify.com/album/54eLc8KKiIJcWmrkQV3A2b"
+      },
+      "artists": [
+        {
+          "name": "Jessica Pratt",
+          "url": "https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh"
+        }
+      ],
+      "duration_ms": 188293,
+      "name": "Life Is",
+      "url": "https://open.spotify.com/track/3aJrUfPxOANdzY1weAqrgH"
     },
     {
       "added_at": "2024-04-19 15:40:59",
@@ -995,22 +995,6 @@
     {
       "added_at": "2024-04-19 15:40:59",
       "album": {
-        "name": "You Never Know",
-        "url": "https://open.spotify.com/album/5FecyVN6cTbuI1UnwvaYcD"
-      },
-      "artists": [
-        {
-          "name": "Iron & Wine",
-          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
-        }
-      ],
-      "duration_ms": 290584,
-      "name": "You Never Know",
-      "url": "https://open.spotify.com/track/3BOU0eJQjfmhbZsQ76OJi9"
-    },
-    {
-      "added_at": "2024-04-19 15:40:59",
-      "album": {
         "name": "The Meetings of the Waters",
         "url": "https://open.spotify.com/album/4Z1NVo5nAjUFxL07vgSQkA"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 300277,
       "name": "The Meetings of the Waters",
       "url": "https://open.spotify.com/track/2EH99L821vO7FTvKVo5YnJ"
+    },
+    {
+      "added_at": "2024-04-19 15:40:59",
+      "album": {
+        "name": "You Never Know",
+        "url": "https://open.spotify.com/album/5FecyVN6cTbuI1UnwvaYcD"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "duration_ms": 290584,
+      "name": "You Never Know",
+      "url": "https://open.spotify.com/track/3BOU0eJQjfmhbZsQ76OJi9"
     },
     {
       "added_at": "2024-04-19 15:40:59",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2024-04-19 15:40:59",
       "album": {
-        "name": "Stones & Waves",
-        "url": "https://open.spotify.com/album/6GXgoZCLZA8FVakysuTHkZ"
-      },
-      "artists": [
-        {
-          "name": "Elias Hix",
-          "url": "https://open.spotify.com/artist/7caEhKgBilB0MHIyWWWGsV"
-        }
-      ],
-      "duration_ms": 190714,
-      "name": "Stones & Waves",
-      "url": "https://open.spotify.com/track/634FnvBHSfPkHbG5ovee8Y"
-    },
-    {
-      "added_at": "2024-04-19 15:40:59",
-      "album": {
         "name": "i leave early",
         "url": "https://open.spotify.com/album/6WM1ihagtD7rboK5Ycy1lX"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 193793,
       "name": "i leave early",
       "url": "https://open.spotify.com/track/3v6a2Q4iClZE8a2Qv5g60r"
+    },
+    {
+      "added_at": "2024-04-19 15:40:59",
+      "album": {
+        "name": "Stones & Waves",
+        "url": "https://open.spotify.com/album/6GXgoZCLZA8FVakysuTHkZ"
+      },
+      "artists": [
+        {
+          "name": "Elias Hix",
+          "url": "https://open.spotify.com/artist/7caEhKgBilB0MHIyWWWGsV"
+        }
+      ],
+      "duration_ms": 190714,
+      "name": "Stones & Waves",
+      "url": "https://open.spotify.com/track/634FnvBHSfPkHbG5ovee8Y"
     },
     {
       "added_at": "2024-04-19 15:40:59",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2024-04-19 15:40:59",
       "album": {
-        "name": "Way I Go",
-        "url": "https://open.spotify.com/album/5YqVZuseoRLBTC5xoYVvFj"
-      },
-      "artists": [
-        {
-          "name": "Gordi",
-          "url": "https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM"
-        }
-      ],
-      "duration_ms": 247829,
-      "name": "Way I Go",
-      "url": "https://open.spotify.com/track/6v0X2SMVKK9gXHH9y6ilA4"
-    },
-    {
-      "added_at": "2024-04-19 15:40:59",
-      "album": {
         "name": "Roof of the World",
         "url": "https://open.spotify.com/album/4VDDyQSZ7fT8YgQqjufWoP"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 256311,
       "name": "Roof of the World",
       "url": "https://open.spotify.com/track/0pOYLQ8ZnPF1G6GE43Jf7U"
+    },
+    {
+      "added_at": "2024-04-19 15:40:59",
+      "album": {
+        "name": "Way I Go",
+        "url": "https://open.spotify.com/album/5YqVZuseoRLBTC5xoYVvFj"
+      },
+      "artists": [
+        {
+          "name": "Gordi",
+          "url": "https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM"
+        }
+      ],
+      "duration_ms": 247829,
+      "name": "Way I Go",
+      "url": "https://open.spotify.com/track/6v0X2SMVKK9gXHH9y6ilA4"
     },
     {
       "added_at": "2024-04-19 15:40:59",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2024-04-19 15:40:59",
       "album": {
-        "name": "I Only See the Moon",
-        "url": "https://open.spotify.com/album/7tXYHXjFDzAtPIZoIoX2W6"
-      },
-      "artists": [
-        {
-          "name": "The Milk Carton Kids",
-          "url": "https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg"
-        }
-      ],
-      "duration_ms": 177573,
-      "name": "I Only See the Moon",
-      "url": "https://open.spotify.com/track/37Fhfv4v0beY9Q57Hfg5Dp"
-    },
-    {
-      "added_at": "2024-04-19 15:40:59",
-      "album": {
         "name": "Restless Minds",
         "url": "https://open.spotify.com/album/5wIJ5KSFs23rMjn3JDoTR7"
       },
@@ -1643,18 +1627,18 @@
     {
       "added_at": "2024-04-19 15:40:59",
       "album": {
-        "name": "Fallout",
-        "url": "https://open.spotify.com/album/1moTvG9SmxZ59rYEpitQ64"
+        "name": "I Only See the Moon",
+        "url": "https://open.spotify.com/album/7tXYHXjFDzAtPIZoIoX2W6"
       },
       "artists": [
         {
-          "name": "Jesse Jo Stark",
-          "url": "https://open.spotify.com/artist/1VmIiQ7VHrqHg90igSWrB0"
+          "name": "The Milk Carton Kids",
+          "url": "https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg"
         }
       ],
-      "duration_ms": 231131,
-      "name": "Fallout",
-      "url": "https://open.spotify.com/track/359hAVmBw0503I81ATOcaJ"
+      "duration_ms": 177573,
+      "name": "I Only See the Moon",
+      "url": "https://open.spotify.com/track/37Fhfv4v0beY9Q57Hfg5Dp"
     },
     {
       "added_at": "2024-04-19 15:40:59",
@@ -1671,6 +1655,22 @@
       "duration_ms": 219245,
       "name": "Reliance",
       "url": "https://open.spotify.com/track/2rNlmDqduDNkj8W9D1O7KM"
+    },
+    {
+      "added_at": "2024-04-19 15:40:59",
+      "album": {
+        "name": "Fallout",
+        "url": "https://open.spotify.com/album/1moTvG9SmxZ59rYEpitQ64"
+      },
+      "artists": [
+        {
+          "name": "Jesse Jo Stark",
+          "url": "https://open.spotify.com/artist/1VmIiQ7VHrqHg90igSWrB0"
+        }
+      ],
+      "duration_ms": 231131,
+      "name": "Fallout",
+      "url": "https://open.spotify.com/track/359hAVmBw0503I81ATOcaJ"
     },
     {
       "added_at": "2024-04-19 15:40:59",
@@ -1851,22 +1851,6 @@
     {
       "added_at": "2024-04-19 15:40:59",
       "album": {
-        "name": "when i look at you.",
-        "url": "https://open.spotify.com/album/1RxM5TK6tax3e20Z90SRPC"
-      },
-      "artists": [
-        {
-          "name": "Rosie Carney",
-          "url": "https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9"
-        }
-      ],
-      "duration_ms": 232800,
-      "name": "when i look at you.",
-      "url": "https://open.spotify.com/track/2Hf4lbVibsJo6u6cFAxwdQ"
-    },
-    {
-      "added_at": "2024-04-19 15:40:59",
-      "album": {
         "name": "Bon Iver",
         "url": "https://open.spotify.com/album/1JlvIsP2f6ckoa62aN7kLn"
       },
@@ -1879,6 +1863,22 @@
       "duration_ms": 336613,
       "name": "Holocene",
       "url": "https://open.spotify.com/track/4fbvXwMTXPWaFyaMWUm9CR"
+    },
+    {
+      "added_at": "2024-04-19 15:40:59",
+      "album": {
+        "name": "when i look at you.",
+        "url": "https://open.spotify.com/album/1RxM5TK6tax3e20Z90SRPC"
+      },
+      "artists": [
+        {
+          "name": "Rosie Carney",
+          "url": "https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9"
+        }
+      ],
+      "duration_ms": 232800,
+      "name": "when i look at you.",
+      "url": "https://open.spotify.com/track/2Hf4lbVibsJo6u6cFAxwdQ"
     },
     {
       "added_at": "2024-04-19 15:40:59",
@@ -1995,6 +1995,22 @@
     {
       "added_at": "2024-04-19 15:40:59",
       "album": {
+        "name": "Twist",
+        "url": "https://open.spotify.com/album/0b2nNS8Gbjojn314hxDzVL"
+      },
+      "artists": [
+        {
+          "name": "Lorkin O'Reilly",
+          "url": "https://open.spotify.com/artist/4NQg2mwGxphbDjrkc1Rb6l"
+        }
+      ],
+      "duration_ms": 186157,
+      "name": "Twist",
+      "url": "https://open.spotify.com/track/7rbVQAeKbC37aU45N5GOVC"
+    },
+    {
+      "added_at": "2024-04-19 15:40:59",
+      "album": {
         "name": "I Just Love You",
         "url": "https://open.spotify.com/album/2owEBEzStwkeUDp7dHLj9R"
       },
@@ -2039,22 +2055,6 @@
       "duration_ms": 277676,
       "name": "Moon Song",
       "url": "https://open.spotify.com/track/6sALLrBPX30ptG1HWH6vmW"
-    },
-    {
-      "added_at": "2024-04-19 15:40:59",
-      "album": {
-        "name": "Twist",
-        "url": "https://open.spotify.com/album/0b2nNS8Gbjojn314hxDzVL"
-      },
-      "artists": [
-        {
-          "name": "Lorkin O'Reilly",
-          "url": "https://open.spotify.com/artist/4NQg2mwGxphbDjrkc1Rb6l"
-        }
-      ],
-      "duration_ms": 186157,
-      "name": "Twist",
-      "url": "https://open.spotify.com/track/7rbVQAeKbC37aU45N5GOVC"
     }
   ],
   "unique_name": "Soft & Slow",

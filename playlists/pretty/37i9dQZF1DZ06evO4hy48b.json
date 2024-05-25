@@ -1,12 +1,12 @@
 {
   "description": "This Is Aitana. Los temas esenciales, todos en una lista.",
-  "num_followers": 198689,
+  "num_followers": 198712,
   "original_name": "This Is Aitana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zk01gAAAAABqPBFDRGYHjmhaMLr8ARC+",
+  "snapshot_id": "Zk6HAAAAAAC7PS2EV+6kKcr9m9pHVKiJ",
   "tracks": [
     {
       "added_at": null,
@@ -51,6 +51,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Balas Perdidas (Edici\u00f3n Especial)",
+        "url": "https://open.spotify.com/album/1o5GGiUcnDHS9Y6OK9VBTM"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        },
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "duration_ms": 174379,
+      "name": "Presiento",
+      "url": "https://open.spotify.com/track/2V4hc5gplg7EXlrRUvD4rp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "alpha",
         "url": "https://open.spotify.com/album/7itZH9cqWCweOqCGsjWlLx"
       },
@@ -87,26 +107,6 @@
       "duration_ms": 154000,
       "name": "mariposas",
       "url": "https://open.spotify.com/track/5R2hNuiiwnKVAUNktF9j2Y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "M\u00e1s De Lo Que Apost\u00e9",
-        "url": "https://open.spotify.com/album/4DAiwXZWP397meKmAG7xaS"
-      },
-      "artists": [
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        },
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
-        }
-      ],
-      "duration_ms": 205031,
-      "name": "M\u00e1s De Lo Que Apost\u00e9",
-      "url": "https://open.spotify.com/track/00QBHaaP4KUcjlmxWriMbC"
     },
     {
       "added_at": null,
@@ -155,6 +155,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "alpha",
+        "url": "https://open.spotify.com/album/7itZH9cqWCweOqCGsjWlLx"
+      },
+      "artists": [
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        },
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 159360,
+      "name": "miamor",
+      "url": "https://open.spotify.com/track/7qMXuEQmZzlQ6nDpxJfcRo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "11 RAZONES",
+        "url": "https://open.spotify.com/album/0e1CKKCDX94OvUk79Zlr9D"
+      },
+      "artists": [
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        },
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "duration_ms": 181200,
+      "name": "CORAZ\u00d3N SIN VIDA",
+      "url": "https://open.spotify.com/track/4yWFdN9K3CgzPfMltDZ8Cj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Spoiler",
         "url": "https://open.spotify.com/album/0UMkp3B0Dqf3t0HkLmoX0j"
       },
@@ -187,6 +227,22 @@
       "duration_ms": 224761,
       "name": "Si T\u00fa La Quieres",
       "url": "https://open.spotify.com/track/35qwAQ3oZeKAMhR3hCV9IM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "alpha",
+        "url": "https://open.spotify.com/album/7itZH9cqWCweOqCGsjWlLx"
+      },
+      "artists": [
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "duration_ms": 158826,
+      "name": "Los \u00c1ngeles",
+      "url": "https://open.spotify.com/track/0knbcslkZje0qdsqbd8jwj"
     },
     {
       "added_at": null,
@@ -455,18 +511,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Otra Vez",
-        "url": "https://open.spotify.com/album/1DfewrrMbOAybrEzqKalG4"
+        "name": "Tu Foto Del DNI",
+        "url": "https://open.spotify.com/album/3NJKXmNaDC83yJhGX76Uc8"
       },
       "artists": [
+        {
+          "name": "Marmi",
+          "url": "https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx"
+        },
         {
           "name": "Aitana",
           "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
         }
       ],
-      "duration_ms": 155498,
-      "name": "Otra Vez",
-      "url": "https://open.spotify.com/track/23sXtu1mNhQwZCCSyvwZCc"
+      "duration_ms": 179653,
+      "name": "Tu Foto Del DNI",
+      "url": "https://open.spotify.com/track/1eWWdO6oIBdJT8SCXaYCYV"
     },
     {
       "added_at": null,
@@ -507,8 +567,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "alpha",
-        "url": "https://open.spotify.com/album/7itZH9cqWCweOqCGsjWlLx"
+        "name": "Otra Vez",
+        "url": "https://open.spotify.com/album/1DfewrrMbOAybrEzqKalG4"
       },
       "artists": [
         {
@@ -516,9 +576,9 @@
           "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
         }
       ],
-      "duration_ms": 166200,
-      "name": "Ella Bailaba",
-      "url": "https://open.spotify.com/track/08Aq3EZhoJFc4sLaUt6Ifq"
+      "duration_ms": 155498,
+      "name": "Otra Vez",
+      "url": "https://open.spotify.com/track/23sXtu1mNhQwZCCSyvwZCc"
     },
     {
       "added_at": null,
@@ -663,22 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "alpha",
-        "url": "https://open.spotify.com/album/7itZH9cqWCweOqCGsjWlLx"
-      },
-      "artists": [
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        }
-      ],
-      "duration_ms": 222640,
-      "name": "Luna",
-      "url": "https://open.spotify.com/track/531VAckj8CrGSXaE14kI9z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Enemigos",
         "url": "https://open.spotify.com/album/1LT7cecI9sEVx569gvjyd4"
       },
@@ -715,22 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "11 RAZONES",
-        "url": "https://open.spotify.com/album/0e1CKKCDX94OvUk79Zlr9D"
-      },
-      "artists": [
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        }
-      ],
-      "duration_ms": 210726,
-      "name": "NO TE HAS IDO Y YA TE EXTRA\u00d1O",
-      "url": "https://open.spotify.com/track/5XJIXRAM4ivaOitRM4NuE4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "TEL\u00c9FONO",
         "url": "https://open.spotify.com/album/3hgpPBjZ7yR1yHyrVEngZL"
       },
@@ -743,6 +771,22 @@
       "duration_ms": 163293,
       "name": "TEL\u00c9FONO",
       "url": "https://open.spotify.com/track/5h8VHxOBK1VWWj46T8fSly"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ni Una M\u00e1s",
+        "url": "https://open.spotify.com/album/07qDUnbnhjLruMXRxa5PsU"
+      },
+      "artists": [
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "duration_ms": 208378,
+      "name": "Ni Una M\u00e1s",
+      "url": "https://open.spotify.com/track/7aogFQAg0TrYKwGHurgNPg"
     },
     {
       "added_at": null,
@@ -763,22 +807,6 @@
       "duration_ms": 168933,
       "name": "La Canci\u00f3n Que No Quiero Cantarte",
       "url": "https://open.spotify.com/track/5PHEToa3yWlCiagig8MFE9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ni Una M\u00e1s",
-        "url": "https://open.spotify.com/album/07qDUnbnhjLruMXRxa5PsU"
-      },
-      "artists": [
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        }
-      ],
-      "duration_ms": 208378,
-      "name": "Ni Una M\u00e1s",
-      "url": "https://open.spotify.com/track/7aogFQAg0TrYKwGHurgNPg"
     },
     {
       "added_at": null,
@@ -939,22 +967,6 @@
       "duration_ms": 176484,
       "name": "Oasis",
       "url": "https://open.spotify.com/track/1bU795MH97xqMytiTzvHdI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Spoiler",
-        "url": "https://open.spotify.com/album/0UMkp3B0Dqf3t0HkLmoX0j"
-      },
-      "artists": [
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        }
-      ],
-      "duration_ms": 189030,
-      "name": "Nada Sale Mal",
-      "url": "https://open.spotify.com/track/51ltTOzVJWp3BUHzYrRxEa"
     }
   ],
   "unique_name": "This Is Aitana",

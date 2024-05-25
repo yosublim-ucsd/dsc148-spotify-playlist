@@ -1362,7 +1362,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 195082,
       "name": "Changed",
       "url": "https://open.spotify.com/track/3DU1AMXRg8IkrvAMg6odMt"
@@ -1881,6 +1881,28 @@
     },
     {
       "album": {
+        "name": "dangerous game",
+        "url": "https://open.spotify.com/album/50vOO58Z9Sdf5k8ms9l9Cj"
+      },
+      "artists": [
+        {
+          "name": "ESTA.",
+          "url": "https://open.spotify.com/artist/4KZmpaIhanIo46eaQimtgO"
+        },
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230936,
+      "name": "dangerous game",
+      "url": "https://open.spotify.com/track/0drf8c8YvWVvs3aFY5iBrp"
+    },
+    {
+      "album": {
         "name": "DARLING",
         "url": "https://open.spotify.com/album/6XrAWrMOgdiK9a96OIM3Kb"
       },
@@ -2012,7 +2034,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 127826,
       "name": "Desperate Soul",
       "url": "https://open.spotify.com/track/5n6pFWEIz6KlcAsZL4J7O3"
@@ -4523,6 +4545,24 @@
     },
     {
       "album": {
+        "name": "Ravyn Lenae - Spotify Singles",
+        "url": "https://open.spotify.com/album/6LTLO1em5gSsWWlBCOBazT"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226355,
+      "name": "Killing Me Softly With His Song - Spotify Singles",
+      "url": "https://open.spotify.com/track/3bhNKifdyaf0TUr7bBxQGU"
+    },
+    {
+      "album": {
         "name": "I Thought It'd Be Different",
         "url": "https://open.spotify.com/album/1YA6dnUyaevjSC6hGQ9wmX"
       },
@@ -5216,6 +5256,28 @@
       "duration_ms": 231532,
       "name": "Mad At Fire",
       "url": "https://open.spotify.com/track/3PqLsRd5qvGGYllBy1IWII"
+    },
+    {
+      "album": {
+        "name": "Made For Me (with Mariah Carey)",
+        "url": "https://open.spotify.com/album/7kLt47kt9E31gqRepjHIn7"
+      },
+      "artists": [
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        },
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189000,
+      "name": "Made For Me (with Mariah Carey)",
+      "url": "https://open.spotify.com/track/7A237bWglHPhH3nKGgBsRr"
     },
     {
       "album": {
@@ -8788,7 +8850,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 188933,
       "name": "Time Will Tell",
       "url": "https://open.spotify.com/track/7t15QHGSW2IyHkVEjsD6XH"

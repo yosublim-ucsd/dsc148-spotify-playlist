@@ -1,12 +1,12 @@
 {
   "description": "This is Tye Tribbett. The essential tracks, all in one playlist.",
-  "num_followers": 10321,
+  "num_followers": 10328,
   "original_name": "This Is Tye Tribbett",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zk01gAAAAACtUEQNOoN6q03zho/0Ie2T",
+  "snapshot_id": "Zk6HAAAAAAA+ZDE7gbWgcFamomVMW1Mi",
   "tracks": [
     {
       "added_at": null,
@@ -39,6 +39,22 @@
       "duration_ms": 214973,
       "name": "We Gon\u2019 Be Alright",
       "url": "https://open.spotify.com/track/0ErItBOhcHJahcQ8BGqk4V"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All Things New",
+        "url": "https://open.spotify.com/album/45lswZgaYAADtSPrUy1EM6"
+      },
+      "artists": [
+        {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        }
+      ],
+      "duration_ms": 195404,
+      "name": "New",
+      "url": "https://open.spotify.com/track/2ArYLCGjKDAwhr7DKQ7v2v"
     },
     {
       "added_at": null,
@@ -92,9 +108,9 @@
           "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
         }
       ],
-      "duration_ms": 463666,
-      "name": "What Can I Do - Live",
-      "url": "https://open.spotify.com/track/3MwZoGEVR9i2AWzA8Vko9O"
+      "duration_ms": 564293,
+      "name": "He Turned It - Live",
+      "url": "https://open.spotify.com/track/7Fte0ZlZByZwdmiOBfTWxr"
     },
     {
       "added_at": null,
@@ -131,54 +147,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "All Things New",
-        "url": "https://open.spotify.com/album/45lswZgaYAADtSPrUy1EM6"
-      },
-      "artists": [
-        {
-          "name": "Tye Tribbett",
-          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
-        }
-      ],
-      "duration_ms": 187458,
-      "name": "All Things New",
-      "url": "https://open.spotify.com/track/6hl8sfNAe5rgNzGLg7N7PH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Greater Than (Live)",
-        "url": "https://open.spotify.com/album/4PbHCckGALCndisP6NsETF"
-      },
-      "artists": [
-        {
-          "name": "Tye Tribbett",
-          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
-        }
-      ],
-      "duration_ms": 493826,
-      "name": "The Worship Medley (There Is Nothing Like/Glory To God Forever) - Live",
-      "url": "https://open.spotify.com/track/1vFEBipU2hVB15OjzFrrds"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Victory Live",
-        "url": "https://open.spotify.com/album/14AByKbhJJzkvoY8f5qZuG"
-      },
-      "artists": [
-        {
-          "name": "Tye Tribbett",
-          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
-        }
-      ],
-      "duration_ms": 262653,
-      "name": "Everything Part I, Part II / Bow Before the King - Live",
-      "url": "https://open.spotify.com/track/3RGTo92TDaI3t6HKLTD4pQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "All Things New (Live In Orlando)",
         "url": "https://open.spotify.com/album/4oCeWb8lHFZyOmJbYNxyzV"
       },
@@ -211,8 +179,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greater Than (Live)",
-        "url": "https://open.spotify.com/album/4PbHCckGALCndisP6NsETF"
+        "name": "Victory Live",
+        "url": "https://open.spotify.com/album/14AByKbhJJzkvoY8f5qZuG"
       },
       "artists": [
         {
@@ -220,9 +188,9 @@
           "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
         }
       ],
-      "duration_ms": 564293,
-      "name": "He Turned It - Live",
-      "url": "https://open.spotify.com/track/7Fte0ZlZByZwdmiOBfTWxr"
+      "duration_ms": 262653,
+      "name": "Everything Part I, Part II / Bow Before the King - Live",
+      "url": "https://open.spotify.com/track/3RGTo92TDaI3t6HKLTD4pQ"
     },
     {
       "added_at": null,
@@ -403,6 +371,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "All Things New",
+        "url": "https://open.spotify.com/album/45lswZgaYAADtSPrUy1EM6"
+      },
+      "artists": [
+        {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        },
+        {
+          "name": "PJ Morton",
+          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
+        }
+      ],
+      "duration_ms": 415745,
+      "name": "Walk By Faith",
+      "url": "https://open.spotify.com/track/39rmy6uMG0EfDL38Xk7PMl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Covered: Alive In Asia (Deluxe Version)",
         "url": "https://open.spotify.com/album/2XHkWEJaHIrMfpKTMGr4wb"
       },
@@ -439,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greater Than (Live)",
-        "url": "https://open.spotify.com/album/4PbHCckGALCndisP6NsETF"
-      },
-      "artists": [
-        {
-          "name": "Tye Tribbett",
-          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
-        }
-      ],
-      "duration_ms": 334186,
-      "name": "Nobody - Live",
-      "url": "https://open.spotify.com/track/3vzBiQcnpn27wXF2uI7Atr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "All Things New (Live In Orlando)",
         "url": "https://open.spotify.com/album/4oCeWb8lHFZyOmJbYNxyzV"
       },
@@ -467,6 +439,22 @@
       "duration_ms": 50188,
       "name": "There Is Nothing Like - Live",
       "url": "https://open.spotify.com/track/2KtrDA3iKRdjAPlIKKoO2z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Greater Than (Live)",
+        "url": "https://open.spotify.com/album/4PbHCckGALCndisP6NsETF"
+      },
+      "artists": [
+        {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        }
+      ],
+      "duration_ms": 334186,
+      "name": "Nobody - Live",
+      "url": "https://open.spotify.com/track/3vzBiQcnpn27wXF2uI7Atr"
     },
     {
       "added_at": null,
@@ -511,6 +499,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Stand out",
+        "url": "https://open.spotify.com/album/0eamOeDsOqnsFG1nMJdsHf"
+      },
+      "artists": [
+        {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        }
+      ],
+      "duration_ms": 406946,
+      "name": "Chasing After You (The Morning Song)",
+      "url": "https://open.spotify.com/track/04XXelgRAVZOFw8M5Qd2j4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Definition Of...",
         "url": "https://open.spotify.com/album/3NnAB6jt5B0jjkZAuNddVo"
       },
@@ -547,38 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stand out",
-        "url": "https://open.spotify.com/album/0eamOeDsOqnsFG1nMJdsHf"
-      },
-      "artists": [
-        {
-          "name": "Tye Tribbett",
-          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
-        }
-      ],
-      "duration_ms": 406946,
-      "name": "Chasing After You (The Morning Song)",
-      "url": "https://open.spotify.com/track/04XXelgRAVZOFw8M5Qd2j4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "All Things New",
-        "url": "https://open.spotify.com/album/45lswZgaYAADtSPrUy1EM6"
-      },
-      "artists": [
-        {
-          "name": "Tye Tribbett",
-          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
-        }
-      ],
-      "duration_ms": 258808,
-      "name": "IDK",
-      "url": "https://open.spotify.com/track/7iBKYoVKGE8yJ2paD87Zvi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Bloody Win (Live)",
         "url": "https://open.spotify.com/album/4LJMZurhpJDxopsPlwQvqk"
       },
@@ -591,6 +563,22 @@
       "duration_ms": 211880,
       "name": "Already Won - Live",
       "url": "https://open.spotify.com/track/6eoJ4Rs6P8H29MZ43JnbRH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stand out",
+        "url": "https://open.spotify.com/album/0eamOeDsOqnsFG1nMJdsHf"
+      },
+      "artists": [
+        {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        }
+      ],
+      "duration_ms": 306920,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/19vgIcw6SOe7Ss7EuWzxM7"
     },
     {
       "added_at": null,
@@ -627,8 +615,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stand out",
-        "url": "https://open.spotify.com/album/0eamOeDsOqnsFG1nMJdsHf"
+        "name": "Victory Live",
+        "url": "https://open.spotify.com/album/14AByKbhJJzkvoY8f5qZuG"
       },
       "artists": [
         {
@@ -636,25 +624,9 @@
           "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
         }
       ],
-      "duration_ms": 306920,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/19vgIcw6SOe7Ss7EuWzxM7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fresh",
-        "url": "https://open.spotify.com/album/6XoZ9zBsXQhtXK6j804l5A"
-      },
-      "artists": [
-        {
-          "name": "Tye Tribbett",
-          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
-        }
-      ],
-      "duration_ms": 307986,
-      "name": "Keep Me",
-      "url": "https://open.spotify.com/track/4lc8tL8vr0VFFDAp9Wu41j"
+      "duration_ms": 198226,
+      "name": "1-2 (Victory Check) - Live",
+      "url": "https://open.spotify.com/track/5EN0vOxkd5jnh62qvM5BP1"
     },
     {
       "added_at": null,
@@ -675,22 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Victory Live",
-        "url": "https://open.spotify.com/album/14AByKbhJJzkvoY8f5qZuG"
-      },
-      "artists": [
-        {
-          "name": "Tye Tribbett",
-          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
-        }
-      ],
-      "duration_ms": 198226,
-      "name": "1-2 (Victory Check) - Live",
-      "url": "https://open.spotify.com/track/5EN0vOxkd5jnh62qvM5BP1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stand out",
         "url": "https://open.spotify.com/album/0eamOeDsOqnsFG1nMJdsHf"
       },
@@ -703,6 +659,22 @@
       "duration_ms": 257733,
       "name": "Let Us Worship",
       "url": "https://open.spotify.com/track/135kZmHIhJhzomzKpV9IVm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fresh",
+        "url": "https://open.spotify.com/album/6XoZ9zBsXQhtXK6j804l5A"
+      },
+      "artists": [
+        {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        }
+      ],
+      "duration_ms": 307986,
+      "name": "Keep Me",
+      "url": "https://open.spotify.com/track/4lc8tL8vr0VFFDAp9Wu41j"
     },
     {
       "added_at": null,
@@ -723,26 +695,6 @@
       "duration_ms": 505773,
       "name": "I Give You Glory",
       "url": "https://open.spotify.com/track/6FuvrUof9KtgkIuFAta53C"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Smokie Norful Live",
-        "url": "https://open.spotify.com/album/2LDhc2VoiPQ6uKpPQc4R4u"
-      },
-      "artists": [
-        {
-          "name": "Smokie Norful",
-          "url": "https://open.spotify.com/artist/0sD8Amms4kSxs5tBV4CUmR"
-        },
-        {
-          "name": "Tye Tribbett",
-          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
-        }
-      ],
-      "duration_ms": 296346,
-      "name": "He's Gonna Come Through - Live",
-      "url": "https://open.spotify.com/track/5WQjEbzqwdGbkwfzTuPTmO"
     },
     {
       "added_at": null,
@@ -775,6 +727,26 @@
       "duration_ms": 282786,
       "name": "Stand Out",
       "url": "https://open.spotify.com/track/3gYH02L5BHwo7fAM7oiziR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Smokie Norful Live",
+        "url": "https://open.spotify.com/album/2LDhc2VoiPQ6uKpPQc4R4u"
+      },
+      "artists": [
+        {
+          "name": "Smokie Norful",
+          "url": "https://open.spotify.com/artist/0sD8Amms4kSxs5tBV4CUmR"
+        },
+        {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        }
+      ],
+      "duration_ms": 296346,
+      "name": "He's Gonna Come Through - Live",
+      "url": "https://open.spotify.com/track/5WQjEbzqwdGbkwfzTuPTmO"
     },
     {
       "added_at": null,
@@ -815,6 +787,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Greater Than (Live)",
+        "url": "https://open.spotify.com/album/4PbHCckGALCndisP6NsETF"
+      },
+      "artists": [
+        {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        }
+      ],
+      "duration_ms": 362773,
+      "name": "You Are Everything - Live",
+      "url": "https://open.spotify.com/track/3Xoh1EUt6BjiwXQnHqLuM9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Victory Live",
         "url": "https://open.spotify.com/album/14AByKbhJJzkvoY8f5qZuG"
       },
@@ -827,26 +815,6 @@
       "duration_ms": 327400,
       "name": "Hallelujah To Your Name - Live",
       "url": "https://open.spotify.com/track/0z1Uxx7uxGBgXlLahkrMXQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "As I Am",
-        "url": "https://open.spotify.com/album/1M0VIXPymzW0uscfSIRHUr"
-      },
-      "artists": [
-        {
-          "name": "1K Phew",
-          "url": "https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl"
-        },
-        {
-          "name": "Tye Tribbett",
-          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
-        }
-      ],
-      "duration_ms": 130406,
-      "name": "Baptize",
-      "url": "https://open.spotify.com/track/30pzROQaEOgr7meYwlTc3K"
     },
     {
       "added_at": null,
@@ -883,6 +851,58 @@
       "duration_ms": 462253,
       "name": "I Want More - Live",
       "url": "https://open.spotify.com/track/7wIkV5aBDfYDgmhr7x2IrY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Greater Than (Live)",
+        "url": "https://open.spotify.com/album/4PbHCckGALCndisP6NsETF"
+      },
+      "artists": [
+        {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        }
+      ],
+      "duration_ms": 376186,
+      "name": "Better - Live",
+      "url": "https://open.spotify.com/track/39cX8eJunXD8YGbupo4raV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "As I Am",
+        "url": "https://open.spotify.com/album/1M0VIXPymzW0uscfSIRHUr"
+      },
+      "artists": [
+        {
+          "name": "1K Phew",
+          "url": "https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl"
+        },
+        {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        }
+      ],
+      "duration_ms": 130406,
+      "name": "Baptize",
+      "url": "https://open.spotify.com/track/30pzROQaEOgr7meYwlTc3K"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fresh",
+        "url": "https://open.spotify.com/album/6XoZ9zBsXQhtXK6j804l5A"
+      },
+      "artists": [
+        {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        }
+      ],
+      "duration_ms": 378880,
+      "name": "Take Over",
+      "url": "https://open.spotify.com/track/2fY0CRWw4uzISL291dQymx"
     }
   ],
   "unique_name": "This Is Tye Tribbett",

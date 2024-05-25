@@ -4,7 +4,7 @@
 
 > Walk the bridge between indie and folk\. Cover: Babehoven
 
-475 songs - 1 day 5 hr 23 min
+476 songs - 1 day 5 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -314,6 +314,7 @@
 | [Pareidolia](https://open.spotify.com/track/7auhQqfbDNtYmOoLwPhGju) | [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [Pareidolia](https://open.spotify.com/album/5lMw5oHGZQQWJVYTbn4el4) | 4:07 | 2022-01-21 | 2022-07-29 |
 | [Party's Over](https://open.spotify.com/track/2GpJftoEXefvW1pdRH7iNh) | [Half Waif](https://open.spotify.com/artist/28mCmWkgrWHZ4fm5c3OcIj) | [Party's Over](https://open.spotify.com/album/6f0ynebrefkTEiM8S4akrs) | 3:23 | 2022-04-13 | 2022-07-24 |
 | [Party's Over](https://open.spotify.com/track/3cUktIJJfxfXFt5RvaHsty) | [Half Waif](https://open.spotify.com/artist/28mCmWkgrWHZ4fm5c3OcIj) | [Mythopoetics](https://open.spotify.com/album/4FdIfIKSgiDBEG6Er5ANj4) | 3:23 | 2022-04-29 | 2022-09-11 |
+| [People Always Change](https://open.spotify.com/track/6uMlsNZsVHH2MLJx6z44IY) | [Tiny Habits](https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn) | [All For Something](https://open.spotify.com/album/5oOtwx1qgZoWzvqu1pvmZm) | 4:16 | 2024-05-24 |  |
 | [People Are Toys to You](https://open.spotify.com/track/7zqVo3K1HdI3bDEK1FJRDA) | [Joanna Sternberg](https://open.spotify.com/artist/2qDa6aEDJtMIQMb6IddWaI) | [I've Got Me](https://open.spotify.com/album/3l3xPtGZXUcnQaNlpbjvR0) | 2:43 | 2023-12-08 | 2024-02-06 |
 | [Persephone](https://open.spotify.com/track/3Gi5PGt4oDR6izqgUt0tmY) | [Tyler Burkhart](https://open.spotify.com/artist/6hNArc2Vya9KBBDhvIj1BM) | [Persephone](https://open.spotify.com/album/2PdWxpqdvoFyW3LSiR8aY6) | 2:28 | 2023-06-30 | 2023-07-17 |
 | [Photograph](https://open.spotify.com/track/4R7BQYeTzAhy0Vl83xrAcQ) | [Alex Siegel](https://open.spotify.com/artist/65FPMBREZBLfEDpkHlm8sS) | [Photograph](https://open.spotify.com/album/4OlFnnZylFcZU5cYTKLXh6) | 2:15 | 2022-10-14 | 2022-11-13 |
@@ -381,7 +382,7 @@
 | [Souvenir](https://open.spotify.com/track/21JL0gpeAYgbSUmzhgSPJz) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [boygenius](https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9) | 3:32 | 2022-10-14 |  |
 | [Spell](https://open.spotify.com/track/6VnKIbHslTmwhEmH36ln4Q) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [Spell](https://open.spotify.com/album/4DW2TnIuLYckzD1fPIgOrK) | 4:07 | 2022-10-21 |  |
 | [Spitting Image](https://open.spotify.com/track/34FB1jk6Tq4q8cto3JlF8O) | [Sharon Silva](https://open.spotify.com/artist/6I55n82pFxEj4D3zMdnR9S) | [Spitting Image](https://open.spotify.com/album/0EqJ4c61p88qmPbjRx8Zlb) | 4:19 | 2022-04-13 | 2022-11-13 |
-| [Spring Bug](https://open.spotify.com/track/1m9B9sIeBibHosu4h5uae6) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Spring Bug](https://open.spotify.com/album/3KqVVm7Gwy3lbz12qFTf0L) | 3:27 | 2023-06-02 |  |
+| [Spring Bug](https://open.spotify.com/track/1m9B9sIeBibHosu4h5uae6) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Spring Bug](https://open.spotify.com/album/3KqVVm7Gwy3lbz12qFTf0L) | 3:27 | 2023-06-02 | 2024-05-25 |
 | [squirrel song](https://open.spotify.com/track/2MVWfVyKTaoH3APa1ZUYCh) | [Juliana Chahayed](https://open.spotify.com/artist/2qvGuhgaubJ02pfiKcJAdR) | [squirrel song](https://open.spotify.com/album/4NLO4ooPUDV0YlNNrRUvQn) | 1:48 | 2023-02-24 |  |
 | [stained glass](https://open.spotify.com/track/0QxUwYYcLvt1560lZP5il6) | [Field Medic](https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ) | [stained glass](https://open.spotify.com/album/7LW5Bo8L7FlRHCNhMmTcGX) | 4:12 | 2022-10-14 | 2022-12-11 |
 | [stained glass](https://open.spotify.com/track/68zzdY0R3TIjFJm1nEQO1f) | [Field Medic](https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ) | [grow your hair long if you’re wanting to see something that you can change](https://open.spotify.com/album/5YCEWH1mVK86feTnIOBtHQ) | 4:12 | 2022-12-09 | 2023-02-11 |

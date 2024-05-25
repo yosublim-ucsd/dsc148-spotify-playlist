@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO18bmQy.md) - [plain]
 
 ### [This Is Djonga](https://open.spotify.com/playlist/37i9dQZF1DZ06evO18bmQy)
 
-> This is Djonga\. The essential tracks, all in one playlist.
+> This is Djonga\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,500 likes - 50 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,536 likes - 50 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO18bmQy.md) - [plain]
 | 43 | [Pódio](https://open.spotify.com/track/3HbwiEXq3qP1fxF34knmnV) | [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY) | [Pódio](https://open.spotify.com/album/7APauEMJTjJ92yVrCoa16T) | 4:52 |
 | 44 | [tôbem](https://open.spotify.com/track/7DQcatEz0pafKCO6LYzSef) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [O Dono do Lugar](https://open.spotify.com/album/77iFfJuIIWGZs1PJZF39m4) | 3:20 |
 | 45 | [Sintoniza](https://open.spotify.com/track/52aonA32y0YYt1NfnZNvWv) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY) | [AFRODHIT](https://open.spotify.com/album/31sonubmJGHeNaAUPrcHj5) | 2:58 |
-| 46 | [Ogum \- Ao Vivo](https://open.spotify.com/track/4jkyBKpk8bzUPHe2Cfiwv4) | [Zeca Pagodinho](https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY) | [Ogum \(Ao Vivo\)](https://open.spotify.com/album/43fO4cPFyHYJyV0bWWVklU) | 4:39 |
+| 46 | [REAL NIGGA](https://open.spotify.com/track/6cL2kYwllJ29fyvrGMKWxE) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW), [Gigantes](https://open.spotify.com/artist/6IRQqK4ODeABKC4kLRoiHe) | [VERÃO CRIMINOSO](https://open.spotify.com/album/4CGf0iysUv0JUMoBqx4GOx) | 3:12 |
 | 47 | [Zero Chances \- Ao Vivo](https://open.spotify.com/track/2BApXORsRdAgiHFlmuxAMz) | [Akatu](https://open.spotify.com/artist/1AuDtbIuaPj9LHnOUMT3C8), [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY) | [Zero Chances \(Ao Vivo\)](https://open.spotify.com/album/46Wor6bbb4uOs3xhIgfSR9) | 3:38 |
-| 48 | [REAL NIGGA](https://open.spotify.com/track/6cL2kYwllJ29fyvrGMKWxE) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW), [Gigantes](https://open.spotify.com/artist/6IRQqK4ODeABKC4kLRoiHe) | [VERÃO CRIMINOSO](https://open.spotify.com/album/4CGf0iysUv0JUMoBqx4GOx) | 3:12 |
+| 48 | [Ogum \- Ao Vivo](https://open.spotify.com/track/4jkyBKpk8bzUPHe2Cfiwv4) | [Zeca Pagodinho](https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY) | [Ogum \(Ao Vivo\)](https://open.spotify.com/album/43fO4cPFyHYJyV0bWWVklU) | 4:39 |
 | 49 | [bala fini](https://open.spotify.com/track/1gnDVuH3uQnJH0cBLRSJKC) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [O Dono do Lugar](https://open.spotify.com/album/77iFfJuIIWGZs1PJZF39m4) | 3:29 |
 | 50 | [Xapralá](https://open.spotify.com/track/6l9UA6IlEGFl1RVAncqvwo) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [MDN Beatz](https://open.spotify.com/artist/6EaIRN2UvHGu9EdeBvfPo1), [Rapaz do Dread](https://open.spotify.com/artist/4AUugyBbC7wnwh6zF2kg5B) | [NU](https://open.spotify.com/album/1BGWFAkM0Oz88Dq7v369eP) | 3:48 |
 
-Snapshot ID: `Zk01gAAAAADj5D36UHCqAuChrXw4D0qp`
+Snapshot ID: `Zk6HAAAAAAC5BJLVc3PD7m2yY+ppVLT0`

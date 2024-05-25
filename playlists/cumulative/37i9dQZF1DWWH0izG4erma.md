@@ -4,7 +4,7 @@
 
 > Country Music that rocks\. Cover: Avery Anna
 
-357 songs - 20 hr 28 min
+358 songs - 20 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -287,6 +287,7 @@
 | [Sound of a Saturday Night](https://open.spotify.com/track/1T3UYXsrPFc6iP5VqjCSxk) | [LANCO](https://open.spotify.com/artist/2lRH2dgU5Kk4Bc5phmII4T) | [Sound of a Saturday Night](https://open.spotify.com/album/2b13avuST7edA3frvztBUq) | 3:30 | 2023-06-02 | 2023-08-26 |
 | [Sound of the South](https://open.spotify.com/track/5lGwwBBuLPazDtYTkKvbxQ) | [Kaleb Austin](https://open.spotify.com/artist/23Aa3SZPUF6wAxeEOC1GmD) | [Sound of the South](https://open.spotify.com/album/3j9eYGUmLu5EiIXt1MBMsn) | 4:03 | 2021-11-01 | 2023-01-15 |
 | [Southbound](https://open.spotify.com/track/1jxiUxaIBx8C2IOlak1j4Q) | [Ryan Kinder](https://open.spotify.com/artist/0GAapPTQR8KFJxrNZOKksy) | [Room to Dream Part II](https://open.spotify.com/album/7xpZ5rRDizgbzLEwl88p7m) | 3:57 | 2021-11-01 | 2022-07-23 |
+| [Southern Rock](https://open.spotify.com/track/0UT58DMxUfSb8ECS85tgn3) | [Travis Denning](https://open.spotify.com/artist/6CegFHnUqJcOBipgphZ2CJ), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [Roads That Go Nowhere](https://open.spotify.com/album/5fxgfA3NwGKeIhi22Z9Pir) | 3:38 | 2024-05-24 |  |
 | [Still a Few Cowboys Left](https://open.spotify.com/track/064qcqSMgEpFffFjsePeaU) | [Ben Gallaher](https://open.spotify.com/artist/1F1iOPcBFgAYGEM5x1s6SJ) | [Still a Few Cowboys Left](https://open.spotify.com/album/4M2nYHoEGhqwfGKWtUXowD) | 3:14 | 2022-10-14 | 2023-03-12 |
 | [Still Somethin' \- Bonus](https://open.spotify.com/track/04zWejuIz7CTNxHVeEYe6E) | [Andrew Hyatt](https://open.spotify.com/artist/6L1jfL0BaxCDXCcy51CEcg) | [Four Good Years](https://open.spotify.com/album/3OFpU1aJJJzwEI7ixUZer1) | 3:08 | 2022-05-06 | 2022-07-28 |
 | [Stronger Than You](https://open.spotify.com/track/2ybneV0OTObEyiOMxq0yMc) | [Tim Montana](https://open.spotify.com/artist/5RM955coCWa6UkFtlMapwC) | [Long Shots](https://open.spotify.com/album/2wIIIZwinQQ2ieKTL3iqjs) | 3:08 | 2021-11-01 | 2023-01-21 |
@@ -356,7 +357,7 @@
 | [World on Fire](https://open.spotify.com/track/5ya0TmUQw2wHMkq36rPsnd) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [NATE SMITH \(DELUXE\)](https://open.spotify.com/album/2WSeZEFsZKPJQ09abZCIaz) | 3:09 | 2023-04-28 |  |
 | [Wrecking Ball](https://open.spotify.com/track/1Fl4vSE3PegDGtkNL7JXNl) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Wrecking Ball](https://open.spotify.com/album/6ckYZ5KfxoZisFywOMThYd) | 3:55 | 2023-10-20 |  |
 | [Wrong Right Now](https://open.spotify.com/track/3eYGnIYCmbijn1IJQiDIb0) | [Tyler Braden](https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N) | [Neon Grave EP](https://open.spotify.com/album/5ofgQK2bhBfCwK3MstIGez) | 3:09 | 2023-03-03 | 2023-04-29 |
-| [Wrong Turns](https://open.spotify.com/track/74uXfGRDayyx7UIV1irrhK) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Meat and Candy](https://open.spotify.com/album/1G4WDlYjm0VqgyEymNJRcf) | 3:28 | 2023-01-20 |  |
+| [Wrong Turns](https://open.spotify.com/track/74uXfGRDayyx7UIV1irrhK) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Meat and Candy](https://open.spotify.com/album/1G4WDlYjm0VqgyEymNJRcf) | 3:28 | 2023-01-20 | 2024-05-25 |
 | [Year to Be Young 1994](https://open.spotify.com/track/5bfYMxQP2oRIe0ZGLRuOED) | [Stephen Wilson Jr.](https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd) | [søn of dad](https://open.spotify.com/album/1yoC2Wq50qymZj5HyF2z2A) | 3:20 | 2023-12-08 | 2024-04-19 |
 | [Year to Be Young 1994](https://open.spotify.com/track/189qLE479B11BbwQlOFxQO) | [Stephen Wilson Jr.](https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd) | [Year to Be Young 1994](https://open.spotify.com/album/3OwjwpFlpEiHMFuXGxVqTA) | 3:20 | 2021-11-05 | 2023-02-27 |
 | [You and Me](https://open.spotify.com/track/3sxQbGjZ069MiXljzJTMsT) | [Giovannie and the Hired Guns](https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94) | [Tejano Punk Boyz](https://open.spotify.com/album/4jNsjnBYtuXuprFqRhbA85) | 4:24 | 2022-10-28 | 2023-01-08 |

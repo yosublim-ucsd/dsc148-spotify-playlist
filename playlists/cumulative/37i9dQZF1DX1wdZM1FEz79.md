@@ -2,9 +2,9 @@
 
 ### [K\-Folk/Acoustic](https://open.spotify.com/playlist/37i9dQZF1DX1wdZM1FEz79)
 
-> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover:Choi Su\-in\(최수인\)\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
+> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover:Darin\(다린\)\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
 
-502 songs - 1 day 5 hr 53 min
+503 songs - 1 day 5 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [Despite it all](https://open.spotify.com/track/7LLnHEOcFGPd0ACRIE6CtP) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Despite it all](https://open.spotify.com/album/0AybLuodK9yOikxRilqpBB) | 3:49 | 2022-02-18 | 2022-04-19 |
 | [Did you miss me? \(feat\. 임철\)](https://open.spotify.com/track/22rbXKRME0ASiBHcH8OBPu) | [Oneyears](https://open.spotify.com/artist/1KWw0DYl1RylWUmZUgTqkH), [임철](https://open.spotify.com/artist/3RabhGGr0SjsaDgcrrF7EW) | [Replay](https://open.spotify.com/album/4APXVX9x7dCCrzLvQYO6tP) | 3:41 | 2023-06-14 | 2023-07-02 |
 | [Diving](https://open.spotify.com/track/49QAAi1tZEROASlvApjnrn) | [OKDAL](https://open.spotify.com/artist/43qbEc59aqLydrvuWsrNoE) | [Forty](https://open.spotify.com/album/13JzvhyivpmgMUlmySRjvH) | 3:17 | 2024-03-15 | 2024-03-29 |
+| [dog\-ear serenade](https://open.spotify.com/track/67Ik5JjDPh8woWj712RxEk) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [serenade](https://open.spotify.com/album/72pWzyWNfsulaflLOi7gby) | 4:35 | 2024-05-24 |  |
 | [Don't Hurt the Island Please](https://open.spotify.com/track/1FBEwUknugg7TJC70uVJ7s) | [Hanbona](https://open.spotify.com/artist/5Ks1S1FGw6Yym0Km9XCrsH) | [Don't Hurt the Island Please](https://open.spotify.com/album/3kNufrGn0Vxd0KCUoWWBlt) | 3:24 | 2021-12-10 | 2022-04-08 |
 | [Dozy Dozy](https://open.spotify.com/track/3WKdOdaC8iHUxmMdH3wCtx) | [J Rabbit](https://open.spotify.com/artist/4Imsd61cGosmAFBaMLtl4G) | [RESTORE : A](https://open.spotify.com/album/6DFNZmHSfrwN8vdaJWPnaB) | 4:47 | 2022-11-25 | 2023-01-11 |
 | [Drawing](https://open.spotify.com/track/7ykvewPaJOFaFesFDtUO7N) | [Kang Jeonhan](https://open.spotify.com/artist/3mWjp3jzaJVV6gHbrUNMXz) | [Drawing](https://open.spotify.com/album/01mxZOqvTAB7OCvO997KQQ) | 4:14 | 2022-03-31 | 2022-04-20 |
@@ -247,7 +248,7 @@
 | [Loveless Night](https://open.spotify.com/track/3D51P7X8MO6G6YaynJsprB) | [KWON SOON IL](https://open.spotify.com/artist/1e7AZDBG64lv62iUtQ6nTf) | [Twinkling Watermelon \(Original Television Soundtrack\) Pt\. 6](https://open.spotify.com/album/1uPd7ZyJe84CbFHoNco4ne) | 4:17 | 2023-11-10 | 2024-05-11 |
 | [Making Memories](https://open.spotify.com/track/6WhLfYQ0pPKOVPBLE0B99M) | [Lee Seok Hoon](https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot) | [the late Kim Hyun\-sik's 30th Anniversary Memorial Album "Making Memories" Part 4](https://open.spotify.com/album/7wU4uoS5zUzkQeXe10sxI3) | 4:28 | 2022-03-31 | 2022-04-21 |
 | [Malibu Orange](https://open.spotify.com/track/2mFRIZpQVeTRLDIuspIj66) | [Park So Eun](https://open.spotify.com/artist/20gFWTh2tofhLIjyn2fHeG) | [Malibu Orange](https://open.spotify.com/album/5IwfAOlbbLtXQeYsd74Ds4) | 2:22 | 2022-04-12 | 2022-04-15 |
-| [May 17 \(feat\. WISUE\)](https://open.spotify.com/track/5g03DNNJAyGS1m0tzgNDIg) | [Choi Su\-in](https://open.spotify.com/artist/4OKZWQn7ppMO0mpyXp6HHK), [WISUE](https://open.spotify.com/artist/6AtePm872YnH0PPQZpNFry) | [May 17 \(feat\. WISUE\)](https://open.spotify.com/album/5ylxnw3A7UgiwiXNAbVima) | 3:06 | 2024-05-17 |  |
+| [May 17 \(feat\. WISUE\)](https://open.spotify.com/track/5g03DNNJAyGS1m0tzgNDIg) | [Choi Su\-in](https://open.spotify.com/artist/4OKZWQn7ppMO0mpyXp6HHK), [WISUE](https://open.spotify.com/artist/6AtePm872YnH0PPQZpNFry) | [May 17 \(feat\. WISUE\)](https://open.spotify.com/album/5ylxnw3A7UgiwiXNAbVima) | 3:06 | 2024-05-17 | 2024-05-25 |
 | [maybe you can fix me](https://open.spotify.com/track/2X2TEJ3hJcN2QXqwXNtYQI) | [G\. Nine](https://open.spotify.com/artist/6KyAMbfO1f5yIQjh9WWYDa) | [maybe you can fix me](https://open.spotify.com/album/4WUQXSwMum7tOgiFrIuhEo) | 2:57 | 2022-08-12 | 2022-08-19 |
 | [Maze in the Mirror](https://open.spotify.com/track/12I69qHomlIZflYA1G2MAp) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Dream Chapter: ETERNITY](https://open.spotify.com/album/4jTVGyo4fSSFniFPbfr0bW) | 3:46 | 2022-07-08 | 2024-04-19 |
 | [Maze in the Mirror](https://open.spotify.com/track/2tYA2hPbaJqshY73q15wJz) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Dream Chapter: ETERNITY](https://open.spotify.com/album/2fL64wNyyZ4BwwRImYeora) | 3:46 | 2021-12-10 | 2022-07-14 |

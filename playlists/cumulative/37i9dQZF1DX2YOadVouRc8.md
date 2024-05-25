@@ -4,7 +4,7 @@
 
 > afrobeats: best served chill
 
-445 songs - 21 hr 55 min
+446 songs - 21 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,7 +143,7 @@
 | [feeling lonely](https://open.spotify.com/track/724JoIfyLE80Ctr29UhHvV) | [Obembe](https://open.spotify.com/artist/3BtuRQMNvyNMsXQneahybl), [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN), [Blicbee](https://open.spotify.com/artist/4js9YFDtEQAB96RAktFmv5) | [feeling lonely](https://open.spotify.com/album/3CsUunOj0HJ45lwS5TfigX) | 2:10 | 2023-12-08 | 2024-01-26 |
 | [Feeling U](https://open.spotify.com/track/3z3R7AUrnhoHrmDNvZicti) | [Mut4y](https://open.spotify.com/artist/5eWt7HdpWwlidAEBcNtqWQ), [Elhi](https://open.spotify.com/artist/4o5e5s9T1cFmu223JUxLVI) | [Feelin U](https://open.spotify.com/album/4OcqHYAYxhyYfSZ81IZpo6) | 3:21 | 2022-06-09 | 2023-05-27 |
 | [Feels](https://open.spotify.com/track/2WE7yrbVF47nEmMkWCRwHd) | [OCHÉ](https://open.spotify.com/artist/0syn1OL9u8k1x9gEnNLt6X) | [Feels](https://open.spotify.com/album/4eziN2ydqDpZ2zNjr2ZWmD) | 2:17 | 2023-04-20 | 2023-06-03 |
-| [Fefe Ne Fe](https://open.spotify.com/track/2NQwFpvbOhJVVxm4Y4grEV) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [This Is Not the Tape III](https://open.spotify.com/album/6LyLd9gp7xoOKaFtPxI7PI) | 2:48 | 2024-03-29 |  |
+| [Fefe Ne Fe](https://open.spotify.com/track/2NQwFpvbOhJVVxm4Y4grEV) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [This Is Not the Tape III](https://open.spotify.com/album/6LyLd9gp7xoOKaFtPxI7PI) | 2:48 | 2024-03-29 | 2024-05-25 |
 | [Fever](https://open.spotify.com/track/3GAu2fSg9deV207noxMKl0) | [Soundz](https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0), [FAVE](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Fever](https://open.spotify.com/album/1YDZJz0EVdKuusZojxdTPL) | 3:06 | 2023-05-19 |  |
 | [Fever](https://open.spotify.com/track/0cnUf6ju03BFY1Sx2mb3l2) | [Yung D3mz](https://open.spotify.com/artist/2PWdxiDyY5rv1qBHEUfqQf) | [Fever](https://open.spotify.com/album/7zzg2CYfFzbMe2mZVv9Dee) | 2:39 | 2022-06-09 | 2022-08-22 |
 | [Fight For You](https://open.spotify.com/track/486xqw5vpm02s7I4ft7p3Q) | [Naomi Achu](https://open.spotify.com/artist/4Q8E3fomRdmnzlhOP14npl), [Seun Kuti](https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ) | [Fight For You](https://open.spotify.com/album/6c9lJuYxGTn9u7WEYimS67) | 3:28 | 2022-09-30 | 2023-06-05 |
@@ -241,6 +241,7 @@
 | [Make Sense](https://open.spotify.com/track/4V5ewWUvecAPHQmgZ1TPQJ) | [Bad Boy Timz](https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [No Bad Boy, No Party](https://open.spotify.com/album/3haflscpuVSkTXo1yw3ghT) | 3:09 | 2023-06-02 | 2024-01-31 |
 | [Malibu](https://open.spotify.com/track/0JAzlCL0Btz2z6qWN09AaG) | [Preyé](https://open.spotify.com/artist/6dbTmlL5brq9B2fkUj2MQD) | [Malibu](https://open.spotify.com/album/6lGF6ysU8aKnpIUiA6lYpz) | 2:51 | 2022-06-09 | 2022-10-01 |
 | [MAMI WATA](https://open.spotify.com/track/6yqwxY8qifBBhyryjZutxk) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [LA MELO EST GANGX](https://open.spotify.com/album/4C9mVDiMHuxOZ2eORwkCE1) | 3:53 | 2024-03-01 |  |
+| [Maneuver](https://open.spotify.com/track/2ODAvnex44msoXiQvrbIkb) | [Gnewzy](https://open.spotify.com/artist/2JAcb1ml3M70lNwgrkajYw), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Maneuver](https://open.spotify.com/album/25jhDPjLU58vtmoNxsYVcQ) | 2:31 | 2024-05-24 |  |
 | [Many Man](https://open.spotify.com/track/4R2luhzq04pJjSQWNOiY0S) | [Stainless](https://open.spotify.com/artist/5Y6MOzpao9KN6cjk0tUlmT) | [Many Man](https://open.spotify.com/album/46cAEUCfM1djPs5ydCww2C) | 2:36 | 2023-04-14 | 2023-07-15 |
 | [Maria](https://open.spotify.com/track/0nUdCgNaD390nOnmbBxRp9) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl) | [Saturn](https://open.spotify.com/album/6QZtBw7JM1PqmJwcGQaSVX) | 2:43 | 2023-09-29 | 2023-11-03 |
 | [Maria](https://open.spotify.com/track/31vGsbC3mF1BQN2yoAIbwM) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl) | [Saturn](https://open.spotify.com/album/4RIkecgp5BwhKiYTt9tmwB) | 2:43 | 2022-06-09 | 2023-04-22 |

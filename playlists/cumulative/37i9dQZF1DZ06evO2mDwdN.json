@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "This is Harold Melvin & The Blue Notes. The essential tracks, all in one playlist.",
+  "description": "This is Harold Melvin & The Blue Notes\u3002\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u4ee3\u8868\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002",
   "name": "This Is Harold Melvin & The Blue Notes",
   "tracks": [
     {
@@ -442,7 +442,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-24",
+      "date_removed": null,
       "duration_ms": 398453,
       "name": "Don't Give Me Up - M & M 12\" Mix",
       "url": "https://open.spotify.com/track/4tBRV1dhprHCwYo6Uy3z2j"
@@ -762,7 +762,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 322146,
       "name": "I Really Love You",
       "url": "https://open.spotify.com/track/4nr9biIV72ZDo4fWJADCBM"
@@ -1084,7 +1084,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-22",
+      "date_removed": null,
       "duration_ms": 290613,
       "name": "It All Depends On You (feat. Teddy Pendergrass)",
       "url": "https://open.spotify.com/track/3Hy8XnWjOEl4bjFmigA1Fr"
@@ -1242,7 +1242,7 @@
       ],
       "date_added": "2022-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 302642,
       "name": "Love Train - Live",
       "url": "https://open.spotify.com/track/6c0MsQv8iqGKJQUyietUwj"
@@ -1398,7 +1398,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-20",
+      "date_removed": null,
       "duration_ms": 338586,
       "name": "Pretty Flower (feat. Teddy Pendergrass)",
       "url": "https://open.spotify.com/track/3RjJB4T5VClw5FoqefBrl5"
@@ -1650,7 +1650,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 213853,
       "name": "The Love I Lost (feat. Teddy Pendergrass) - Single Version",
       "url": "https://open.spotify.com/track/7AswIMJtp31Y62pgWFoQJI"
@@ -1686,7 +1686,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 263360,
       "name": "This Is The Love",
       "url": "https://open.spotify.com/track/5pjHNWc7sdv9RXnXsCwIEk"
@@ -1930,7 +1930,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-24",
+      "date_removed": null,
       "duration_ms": 213173,
       "name": "What Can A Man Do",
       "url": "https://open.spotify.com/track/3CHoatkZzRYeCmrelOa1SG"
@@ -2004,7 +2004,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 199480,
       "name": "Where Are All My Friends (feat. Teddy Pendergrass)",
       "url": "https://open.spotify.com/track/1h6KiZutaBzWoWvMXB8sg0"
@@ -2102,7 +2102,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-01",
+      "date_removed": null,
       "duration_ms": 214558,
       "name": "\u611b\u306e\u5e7b\u60f3",
       "url": "https://open.spotify.com/track/6QK48frVNsKpfWDXqoG1yH"

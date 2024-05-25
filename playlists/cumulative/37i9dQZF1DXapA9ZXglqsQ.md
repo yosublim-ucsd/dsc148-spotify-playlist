@@ -4,7 +4,7 @@
 
 > Meet Joe Hisaishi, a one\-of\-a\-kind composer/musician known for his world famous "Studio Ghibli" film scores, as well as countless other classics.
 
-67 songs - 5 hr 1 min
+68 songs - 5 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [The Wind of Life](https://open.spotify.com/track/47fjdEwVngKqmgda3UR3Rl) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [PIANO STORIES II ～The Wind of Life～](https://open.spotify.com/album/1QDFS0uYL7jEmBoM92uxQi) | 4:44 | 2021-08-19 |  |
 | [TRI\-AD for Large Orchestra](https://open.spotify.com/track/4H0FAXrRBToxTL22u4lvHX) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB), [新日本フィルワールドドリームオーケストラ](https://open.spotify.com/artist/3dGpSt7QHSpwp9FBObQ224) | [ミニマリズム 3](https://open.spotify.com/album/4FVZteYjRnxYYJmNiEogD7) | 11:28 | 2021-08-19 |  |
 | [TWO OF US](https://open.spotify.com/track/008RKiNmjW5Lb6Ocumq6MA) | [久石 譲 アンサンブル](https://open.spotify.com/artist/6mOCYCpXBAmulHN4kMfQaa) | [Shoot The Violist\[ヴィオリストを撃て\]](https://open.spotify.com/album/6tV65ufkt6zqjVKDAvyAnY) | 4:58 | 2021-08-19 |  |
+| [Viola Saga: Movement 1 \(Pt\. 1\)](https://open.spotify.com/track/4BMPs7HNKuL0qkjLAYYUFU) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB), [Wiener Symphoniker](https://open.spotify.com/artist/6XZxFuZaBnZBngpxbut80O), [Antoine Tamestit](https://open.spotify.com/artist/31U8AuKww3USO1uWfUBnlr) | [Joe Hisaishi: Viola Saga: Movement 1 \(Pt\. 1\)](https://open.spotify.com/album/1dFoys5aEPQxjLAfPnsha1) | 7:03 | 2024-05-24 |  |
 | [WAVE](https://open.spotify.com/track/0xqVGGeww9N3lKNNeppyU0) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [ミニマリズム 2](https://open.spotify.com/album/1T3q09tNWjloYmlymnI12C) | 5:05 | 2021-08-19 |  |
 | [World Dreams](https://open.spotify.com/track/2uT63HrwAiIVmRx6gkZ6op) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB), [新日本フィルワールドドリームオーケストラ](https://open.spotify.com/artist/3dGpSt7QHSpwp9FBObQ224) | [W.D.O\. BEST](https://open.spotify.com/album/2VyoOeOqbzLO1JRhJHwm3N) | 4:52 | 2021-08-19 |  |
 | [「もののけ姫」組曲 \- Live](https://open.spotify.com/track/1QvJdMm7R2Xp5T0eagZOUU) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB), [新日本フィルワールドドリームオーケストラ](https://open.spotify.com/artist/3dGpSt7QHSpwp9FBObQ224) | [真夏の夜の悪夢 \(Live\)](https://open.spotify.com/album/61qcmMGMLgDCh2oGUqJJHc) | 8:31 | 2021-08-19 |  |

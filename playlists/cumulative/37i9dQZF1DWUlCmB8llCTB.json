@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Perreando toda la noche con El Malilla, Yeyo, Jowell & Randy.",
+  "description": "Perreando toda la noche con El Jordan 23.",
   "name": "Perreo City",
   "tracks": [
     {
@@ -822,7 +822,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 195066,
       "name": "Amigos",
       "url": "https://open.spotify.com/track/40jgBnBitjAwrWszYMLrvR"
@@ -936,7 +936,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 172774,
       "name": "ANDO",
       "url": "https://open.spotify.com/track/6hwGwCfCwHoSJQw7AYPEQu"
@@ -1288,7 +1288,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 197179,
       "name": "Baccarat",
       "url": "https://open.spotify.com/track/74ORZ2qrQK0pDL8rzoiuyr"
@@ -2188,7 +2188,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 144261,
       "name": "Brabus",
       "url": "https://open.spotify.com/track/6vkmfvsAI702EEgTElodBc"
@@ -2278,6 +2278,24 @@
       "duration_ms": 204000,
       "name": "Brinca - Spotify Singles",
       "url": "https://open.spotify.com/track/1TPtornOIqa4PprEZp9LLB"
+    },
+    {
+      "album": {
+        "name": "BRINKEN",
+        "url": "https://open.spotify.com/album/4oMyPt61mh1uvq2o97LoCO"
+      },
+      "artists": [
+        {
+          "name": "El Jordan 23",
+          "url": "https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115384,
+      "name": "BRINKEN",
+      "url": "https://open.spotify.com/track/1mCfNPVJ0IfcYe1A4GAi3Q"
     },
     {
       "album": {
@@ -5359,6 +5377,32 @@
     },
     {
       "album": {
+        "name": "En La Oscuridad",
+        "url": "https://open.spotify.com/album/3q6U9iZrZuA7L8hAUYzx6j"
+      },
+      "artists": [
+        {
+          "name": "Pipo Beatz",
+          "url": "https://open.spotify.com/artist/5zDVnUun4YSqFlbGk0W1kZ"
+        },
+        {
+          "name": "El Bugg",
+          "url": "https://open.spotify.com/artist/6o4L5N0aiAhdtN3pqEwG0P"
+        },
+        {
+          "name": "El Osito Wito",
+          "url": "https://open.spotify.com/artist/3BaNymWUlGvGOXKRJmySoG"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175011,
+      "name": "En La Oscuridad",
+      "url": "https://open.spotify.com/track/1bsTCFjuhbASVsx1IZ4Wls"
+    },
+    {
+      "album": {
         "name": "Temporada de Reggaet\u00f3n",
         "url": "https://open.spotify.com/album/48vGyeerQqM7mWU0JzRkAl"
       },
@@ -5436,6 +5480,28 @@
       "duration_ms": 153851,
       "name": "EN VISTO",
       "url": "https://open.spotify.com/track/1fFB8ahI0ZwU3X9mimCpjb"
+    },
+    {
+      "album": {
+        "name": "Enemigo",
+        "url": "https://open.spotify.com/album/3MpY9D0qaaL3gJLlEX3oOd"
+      },
+      "artists": [
+        {
+          "name": "Soley",
+          "url": "https://open.spotify.com/artist/1zo2ucFhzu58hKcniMpSQs"
+        },
+        {
+          "name": "The Prodigiez",
+          "url": "https://open.spotify.com/artist/0ITff7REwQrTAlu9HsiWQT"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150105,
+      "name": "Enemigo",
+      "url": "https://open.spotify.com/track/5rsTUSxqHysadud5uwpqke"
     },
     {
       "album": {
@@ -6322,6 +6388,44 @@
       "duration_ms": 215715,
       "name": "F\u00e1cil",
       "url": "https://open.spotify.com/track/4KtRZ4ZQiCObBVBatJomRn"
+    },
+    {
+      "album": {
+        "name": "G Low Kitty (Remix)",
+        "url": "https://open.spotify.com/album/5HdE72l91YCqPtlMx7YPHD"
+      },
+      "artists": [
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Uzielito Mix",
+          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
+        },
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        },
+        {
+          "name": "Yeri Mua",
+          "url": "https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M"
+        },
+        {
+          "name": "Dj Rockwel Mx",
+          "url": "https://open.spotify.com/artist/2eobLT6bmdvl5yGG5qPAgd"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279990,
+      "name": "G Low Kitty - Remix",
+      "url": "https://open.spotify.com/track/5J2pn2fzrIp7CT0IHLlgQ7"
     },
     {
       "album": {
@@ -8842,6 +8946,24 @@
       "duration_ms": 166704,
       "name": "Lo Olvidaste",
       "url": "https://open.spotify.com/track/6HQTemjqjKBwDfN8AG16uj"
+    },
+    {
+      "album": {
+        "name": "Lo Romp\u00ed",
+        "url": "https://open.spotify.com/album/6G07yGb8KaKxHKGrWfo5ED"
+      },
+      "artists": [
+        {
+          "name": "Sael",
+          "url": "https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150013,
+      "name": "Lo Romp\u00ed",
+      "url": "https://open.spotify.com/track/1w88cwfa1WISsobRBBUwat"
     },
     {
       "album": {
@@ -12984,7 +13106,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 225661,
       "name": "Piscina",
       "url": "https://open.spotify.com/track/6q6aChVJ5LLXFUSfakwpxW"
@@ -13436,7 +13558,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 182891,
       "name": "PRIMER AVISO",
       "url": "https://open.spotify.com/track/6EWPFLaVPVmuhmA7J3ASP8"
@@ -15104,6 +15226,24 @@
       "duration_ms": 331066,
       "name": "Si Me Toca",
       "url": "https://open.spotify.com/track/29jLR2tvOAtko7AqIhFVqf"
+    },
+    {
+      "album": {
+        "name": "SI NO ES CONTIGO",
+        "url": "https://open.spotify.com/album/4ecjQGViGCD4snnZ3QJOEL"
+      },
+      "artists": [
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156020,
+      "name": "SI NO ES CONTIGO",
+      "url": "https://open.spotify.com/track/5Uptvz6j1sjDKxidAcnH2L"
     },
     {
       "album": {

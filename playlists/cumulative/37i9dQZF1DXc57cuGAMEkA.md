@@ -4,7 +4,7 @@
 
 > 洋楽を中心に今週の新曲をチェック。XG, ずっと真夜中でいいのに。, Imagine Dragons, Charlie Puth and more! cover: XG
 
-5,344 songs - 12 day 13 hr 24 min
+5,347 songs - 12 day 13 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -820,6 +820,7 @@
 | [CLASSIC \(O.G\. Remix\)](https://open.spotify.com/track/2WJtR6JpIt16iXv6c5h0UE) | [TWIGY](https://open.spotify.com/artist/3LRuRmJcuRBvc7mLhTli0v), [ZEEBRA](https://open.spotify.com/artist/3zFZk4H2XhV8bCRDyPir54), [Rino Latina II](https://open.spotify.com/artist/6RdQUqN8PjAPmAK5zwz9Gh) | [CLASSIC \(O.G\. Remix\)](https://open.spotify.com/album/4Gi2Z8wyybwTDnNSAW3lrS) | 3:20 | 2023-04-20 | 2023-04-28 |
 | [Classical](https://open.spotify.com/track/1kHMBN4ab6WLlT2Q0KvsoW) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Classical](https://open.spotify.com/album/5feyAYllLDkJZtc0ZOkBnJ) | 4:19 | 2024-03-14 | 2024-03-22 |
 | [Claudine](https://open.spotify.com/track/3vTSGUgTcDJHO47dlkzDcU) | [Wu\-Tang Clan](https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk), [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt), [Ghostface Killah](https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe), [Mathematics](https://open.spotify.com/artist/6T7ap0aCwj4aJVj3bJ0EWh), [Nicole Bus](https://open.spotify.com/artist/0IeB4swNmNetlaZUgdHqBX) | [Claudine](https://open.spotify.com/album/6CrpCUOZaU1N3N5ZaFesAi) | 3:55 | 2023-10-19 | 2023-11-11 |
+| [Clear the Smoke](https://open.spotify.com/track/0tWvBMSTdobhWgsJyviGeU) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Clear the Smoke](https://open.spotify.com/album/23RLz5Jsy8E54z7BZnH01D) | 3:38 | 2024-05-23 |  |
 | [Clockwise](https://open.spotify.com/track/4d5utY9ixyUP7FIkwtJHzp) | [Newspeak](https://open.spotify.com/artist/3eaUqC1a64Qk1pjNBv5L71) | [Clockwise](https://open.spotify.com/album/3ZYJ3qfsls9eOCR2WcoAPF) | 3:26 | 2023-05-11 | 2023-05-19 |
 | [Close Calls](https://open.spotify.com/track/2JO7CpZKggHArL31IKRpZx) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [Breakfast EP](https://open.spotify.com/album/2onCLWv34wdqijf6bJDIr9) | 2:41 | 2024-05-02 | 2024-05-10 |
 | [Close Quarters](https://open.spotify.com/track/7eCpxZdpP7kz9j2OUJLbpd) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [Close Quarters](https://open.spotify.com/album/4JEizeJf7M3cbLEzbtmxif) | 3:40 | 2023-10-19 | 2023-11-11 |
@@ -1947,6 +1948,7 @@
 | [How I'm Feeling Now](https://open.spotify.com/track/5CcfIvFHULvnM0ST4nzRRN) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [How I'm Feeling Now](https://open.spotify.com/album/5Kys3ZEzHMqSbpKnyfSkqj) | 3:46 | 2023-03-17 | 2023-03-25 |
 | [how many times](https://open.spotify.com/track/4gg6FpCTrY1qA6RboNeyJY) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [Intro](https://open.spotify.com/album/4QiOFIkalboEAZI1jaDgo1) | 3:56 | 2023-06-15 | 2023-06-23 |
 | [How Music Makes You Feel Better \- Edit](https://open.spotify.com/track/2bBuxaPbzrUGK9rnLJ5fFN) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [How Music Makes You Feel Better](https://open.spotify.com/album/4mUY2PlUa8qducN1OyWu4w) | 3:21 | 2023-09-28 | 2023-10-06 |
+| [How Sweet](https://open.spotify.com/track/38tXZcL1gZRfbqfOG0VMTH) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [How Sweet](https://open.spotify.com/album/0EhZEM4RRz0yioTgucDhJq) | 3:39 | 2024-05-23 |  |
 | [how sweet does this sound?](https://open.spotify.com/track/4JiFapbeuEUnoyyy6JQdlO) | [a kid named rufus](https://open.spotify.com/artist/7K6yjBaUgEaSFnjJMxLO4j) | [how sweet does this sound?](https://open.spotify.com/album/1itMip3QgwzDvtQjqGNS37) | 2:48 | 2023-06-08 | 2023-06-16 |
 | [How To Be Human](https://open.spotify.com/track/6uKLmDqK2zOO8BJ2vvYaMr) | [Amber Run](https://open.spotify.com/artist/0MmnmsAuQKRFpo6vJElcaU) | [How To Be Human](https://open.spotify.com/album/1HS3YNocpXpYUwcaqTcaht) | 3:48 | 2023-02-23 | 2023-03-03 |
 | [How To Drive](https://open.spotify.com/track/4memBjRe8ZXDJha8grYdRm) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [How To Drive](https://open.spotify.com/album/6ztNIufAkZjQ7aadvJdTN0) | 3:39 | 2023-01-29 | 2023-02-03 |
@@ -2535,6 +2537,7 @@
 | [LOST IT ALL \(feat\. Fridayy\)](https://open.spotify.com/track/6DixIW3CTticYSsVPknx6q) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [CHILDREN OF THE SLUMS](https://open.spotify.com/album/3uhGsFAXshXmRs9qLiYqGz) | 3:40 | 2024-04-19 | 2024-04-26 |
 | [Lost Me](https://open.spotify.com/track/4KTK0uE4uJlS2Y8Gtq81I9) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [THE SOUND](https://open.spotify.com/album/4ZW5rXkLINHYqH2MIAhkP2) | 3:09 | 2023-02-23 | 2023-03-03 |
 | [Lost The Breakup](https://open.spotify.com/track/13SfKfixPEDQBOYYtaY3Wh) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Lost The Breakup](https://open.spotify.com/album/60trS6aUorLG5ZBi1bWcz8) | 3:09 | 2023-03-31 | 2023-04-07 |
+| [LOST!](https://open.spotify.com/track/02H58MSfVESkKyx4diDgu7) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Right Place, Wrong Person](https://open.spotify.com/album/512dQp7hBbDDurodCqSw5I) | 3:53 | 2024-05-23 |  |
 | [Lottery \(feat\. LU KALA\)](https://open.spotify.com/track/1JUtrCqYzJ80tcAzMbCvir) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [LU KALA](https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg) | [Lottery \(feat\. LU KALA\)](https://open.spotify.com/album/2cMtG6iuA7hXGNb4DHVql4) | 3:06 | 2023-02-16 | 2023-02-24 |
 | [Love & Money](https://open.spotify.com/track/69puCjWb1rrocZBah5s3GR) | [Katie Melua](https://open.spotify.com/artist/5uCXJWo3WoXgqv3T1RlAbh) | [Love & Money](https://open.spotify.com/album/2JfNxUZXLBPzTYWZ0x4BPb) | 3:20 | 2023-03-24 | 2023-03-31 |
 | [Love & War](https://open.spotify.com/track/5b7bLfTz2AtmfKdF1BQHxs) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Everything I Thought It Was](https://open.spotify.com/album/44e3xckIbDMtFm8jeZLLZ7) | 3:34 | 2024-03-14 | 2024-03-22 |

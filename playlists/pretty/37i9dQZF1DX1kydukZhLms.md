@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kydukZhLms.md) - [plain]
 
 > Throw your lighters in the air and wave them like you don't care\. Cover: Guns N' Roses
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,356,634 likes - 100 songs - 8 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,357,042 likes - 100 songs - 8 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,15 +67,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kydukZhLms.md) - [plain]
 | 57 | [Love Me Forever](https://open.spotify.com/track/7akyedgeVgZeT6oD77nyHn) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [1916](https://open.spotify.com/album/6mvrfjdgSvwcDXhxyVjWTx) | 5:27 |
 | 58 | [Fall to Pieces](https://open.spotify.com/track/4A9O9e4iTm4bYnOPSzWaGb) | [Velvet Revolver](https://open.spotify.com/artist/7CHilrn81OdYjkh4uSVnYM) | [Contraband](https://open.spotify.com/album/5pJSDIgzal89ksQUzcGGFE) | 4:31 |
 | 59 | [Screaming in the Night](https://open.spotify.com/track/25suYHVUwWFTG6G31kuhZH) | [Krokus](https://open.spotify.com/artist/4YveAIZNQZBiWbt7iWsvCa) | [Head Hunter](https://open.spotify.com/album/1QTVIHunxbQf1dT4fXH9DO) | 6:37 |
-| 60 | [Blue On Black](https://open.spotify.com/track/1nemRFgJG6WIAtNwKArjXt) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [And Justice for None \(Deluxe\)](https://open.spotify.com/album/2IA9d7atwNgtiS6Tpv9WKt) | 4:34 |
-| 61 | [Burden](https://open.spotify.com/track/7EqkvBTdhYPTd91mN2DmcA) | [Opeth](https://open.spotify.com/artist/0ybFZ2Ab08V8hueghSXm6E) | [Watershed \(Special Edition\)](https://open.spotify.com/album/0fayDgcekIaW0yQtUQ8CDm) | 7:41 |
+| 60 | [Burden](https://open.spotify.com/track/7EqkvBTdhYPTd91mN2DmcA) | [Opeth](https://open.spotify.com/artist/0ybFZ2Ab08V8hueghSXm6E) | [Watershed \(Special Edition\)](https://open.spotify.com/album/0fayDgcekIaW0yQtUQ8CDm) | 7:41 |
+| 61 | [Blue On Black](https://open.spotify.com/track/1nemRFgJG6WIAtNwKArjXt) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [And Justice for None \(Deluxe\)](https://open.spotify.com/album/2IA9d7atwNgtiS6Tpv9WKt) | 4:34 |
 | 62 | [I Never Cry](https://open.spotify.com/track/7y5mfSJLUmPYmrI5hcCWnT) | [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [Alice Cooper Goes to Hell](https://open.spotify.com/album/040ZtZ1HRgoHRruJtI4IAh) | 3:44 |
 | 63 | [Before the Dawn](https://open.spotify.com/track/29KPwkhfGpRkrL57TmFbDE) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Killing Machine](https://open.spotify.com/album/5Ud4v6Y2UC3uNeTdVssXj0) | 3:23 |
 | 64 | [Watching over Me \- Remixed & Remastered](https://open.spotify.com/track/07thLbY0eGli2xWWIPdrN2) | [Iced Earth](https://open.spotify.com/artist/3KEixcRfBS5K3E91Vn1Kdy) | [Something Wicked This Way Comes](https://open.spotify.com/album/0fd4JVsaEIH2C8O5KYoCYw) | 4:28 |
 | 65 | [Tomorrow](https://open.spotify.com/track/13fy0ees8udedKdDo7xJdW) | [Europe](https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz) | [Out Of This World](https://open.spotify.com/album/06CcedRLfxrvt5rTD35Mw2) | 3:04 |
 | 66 | [Scene Five: Through Her Eyes](https://open.spotify.com/track/19CegINw7X0pqHaY7YOaz8) | [Dream Theater](https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep) | [Metropolis, Pt\. 2: Scenes from a Memory](https://open.spotify.com/album/1QZi8laY96nhaeGSklvN4D) | 5:29 |
-| 67 | [Wait](https://open.spotify.com/track/2QfjV18pg4Ye7Vo4TsSobq) | [White Lion](https://open.spotify.com/artist/3nLYJvqbEzs5kg2TlprxIG) | [When The Children Cry \- Greatest Hits](https://open.spotify.com/album/45jAG1Yxe3gdYoTKRxu6vE) | 4:55 |
-| 68 | [Right Here](https://open.spotify.com/track/36IkR2i4HaV3SRsSHzje6v) | [Staind](https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb) | [Chapter V](https://open.spotify.com/album/4hW0Ey4Me41hKcmbygqhIL) | 4:11 |
+| 67 | [Right Here](https://open.spotify.com/track/36IkR2i4HaV3SRsSHzje6v) | [Staind](https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb) | [Chapter V](https://open.spotify.com/album/4hW0Ey4Me41hKcmbygqhIL) | 4:11 |
+| 68 | [Wait](https://open.spotify.com/track/2QfjV18pg4Ye7Vo4TsSobq) | [White Lion](https://open.spotify.com/artist/3nLYJvqbEzs5kg2TlprxIG) | [When The Children Cry \- Greatest Hits](https://open.spotify.com/album/45jAG1Yxe3gdYoTKRxu6vE) | 4:55 |
 | 69 | [Only Women Bleed](https://open.spotify.com/track/59xDvLlKHcLI0c9CSmzxSN) | [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [Welcome to My Nightmare](https://open.spotify.com/album/4QhvqS4OQ4Lxe78Bafn8VH) | 3:30 |
 | 70 | [Master of the Wind](https://open.spotify.com/track/2rDIYysZGyx68TWlBdvjqk) | [Manowar](https://open.spotify.com/artist/4CzUzn54Cp9TQr6a7JIlMZ) | [The Triumph of Steel](https://open.spotify.com/album/1uVLEeDuKWgOazttohIOvd) | 5:26 |
 | 71 | [Prisoner of Your Eyes](https://open.spotify.com/track/2VLwPKY2gaBxGxwgmwRDUf) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Screaming For Vengeance](https://open.spotify.com/album/0V7mTTzioHiYIjfM8ATZBI) | 7:10 |
@@ -102,9 +102,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kydukZhLms.md) - [plain]
 | 92 | [The Silent Man](https://open.spotify.com/track/2vzfV6LgfAWtv7JeSoEPFO) | [Dream Theater](https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep) | [Awake](https://open.spotify.com/album/4jP59Kwqvy3n09eUe1Cge7) | 3:47 |
 | 93 | [Our Loved Ones](https://open.spotify.com/track/1Fekh45eTzyteap9YgmOr1) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Outlaw Gentlemen & Shady Ladies](https://open.spotify.com/album/5SBrIIYCvThaqN9r1SV2pv) | 4:50 |
 | 94 | [Mourn](https://open.spotify.com/track/4KcNupwVIuM2AOoiKdgpRf) | [Sentenced](https://open.spotify.com/artist/5jQPKWBobu6cJwGSbbqgCk) | [Frozen](https://open.spotify.com/album/0xdSf6KFTkFciT8kK3gD2e) | 4:44 |
-| 95 | [Believe in Nothing](https://open.spotify.com/track/3zdUWmaNcbTqv2V7ZYLXQ8) | [Nevermore](https://open.spotify.com/artist/1wUArE0NhHB8M1bU2WSplY) | [Dead Heart In a Dead World](https://open.spotify.com/album/1v1hdLXVBjFel9srMX8paD) | 4:21 |
+| 95 | [Believe](https://open.spotify.com/track/6jCA4rJ4caeRuyTxvf9UvA) | [Savatage](https://open.spotify.com/artist/3N1B1g6JtIgd6ClRkzD4yT) | [Streets \- A Rock Opera \(2011 Edition\)](https://open.spotify.com/album/5bMMMSrjV78gkbhxarBbWT) | 5:42 |
 | 96 | [Might As Well Be On Mars](https://open.spotify.com/track/32Z3DgoryCdqcg9eaLTbnc) | [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [Hey Stoopid](https://open.spotify.com/album/0lhICEAy0rRGbhvWzlP0Ke) | 7:08 |
-| 97 | [Believe](https://open.spotify.com/track/6jCA4rJ4caeRuyTxvf9UvA) | [Savatage](https://open.spotify.com/artist/3N1B1g6JtIgd6ClRkzD4yT) | [Streets \- A Rock Opera \(2011 Edition\)](https://open.spotify.com/album/5bMMMSrjV78gkbhxarBbWT) | 5:42 |
+| 97 | [Believe in Nothing](https://open.spotify.com/track/3zdUWmaNcbTqv2V7ZYLXQ8) | [Nevermore](https://open.spotify.com/artist/1wUArE0NhHB8M1bU2WSplY) | [Dead Heart In a Dead World](https://open.spotify.com/album/1v1hdLXVBjFel9srMX8paD) | 4:21 |
 | 98 | [Ghost of Freedom](https://open.spotify.com/track/2DUz22ncVE4Vw44sn3lvJa) | [Iced Earth](https://open.spotify.com/artist/3KEixcRfBS5K3E91Vn1Kdy) | [Horror Show](https://open.spotify.com/album/2LI1sWcLYsWeN1TwZ6VvNK) | 5:11 |
 | 99 | [Scarlet Rose](https://open.spotify.com/track/1I0oWAoXKhCp9VgLeuU9l0) | [Edguy](https://open.spotify.com/artist/3AGFqPP3gt5rMSvhR87Xxu) | [Vain Glory Opera](https://open.spotify.com/album/2T9uuvdso9EyHnHG0r3l4Z) | 5:11 |
 | 100 | [The Ballad](https://open.spotify.com/track/5dZqQns5MwVcbvNqkgocWI) | [Testament](https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg) | [Practice What You Preach](https://open.spotify.com/album/7lNeBg16EP03ifo5Wutq52) | 6:08 |

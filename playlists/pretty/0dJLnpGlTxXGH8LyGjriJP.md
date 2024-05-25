@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0dJLnpGlTxXGH8LyGjriJP.md) - [plain]
 
 > 
 
-[skillstreet](https://open.spotify.com/user/skillstreet) - 3 likes - 781 songs - 1 day 15 hr 55 min
+[skillstreet](https://open.spotify.com/user/skillstreet) - 3 likes - 782 songs - 1 day 15 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -789,5 +789,6 @@ pretty - [cumulative](/playlists/cumulative/0dJLnpGlTxXGH8LyGjriJP.md) - [plain]
 | 779 | [Not Like Us](https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Not Like Us](https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ) | 4:34 |
 | 780 | [Everything Lit](https://open.spotify.com/track/3ECYmjiIOeCCXrpSkVj8ff) | [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm) | [Everything Lit](https://open.spotify.com/album/5XL0ne5zAAok8w8A4mZ9Cx) | 2:25 |
 | 781 | [Deep End](https://open.spotify.com/track/1yZpdHZpwnnT7Evpo7W2ZX) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [Deep End](https://open.spotify.com/album/6YMwAuclDCYoo0D0fpwFyC) | 2:26 |
+| 782 | [BAND4BAND \(feat\. Lil Baby\)](https://open.spotify.com/track/7iabz12vAuVQYyekFIWJxD) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [BAND4BAND \(feat\. Lil Baby\)](https://open.spotify.com/album/4AzPr5SUpNF553eC1d3aRy) | 2:20 |
 
-Snapshot ID: `AAADtmC3oOEcNifdzCRQMjUPVYmRrjRm`
+Snapshot ID: `AAADt3JK6tcNo/9QNJYwxbAT5aha0Ery`

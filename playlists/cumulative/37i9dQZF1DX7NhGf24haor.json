@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-10",
-  "description": "Updated weekly | Hardstyle | Cover: Timmy Trumpet",
+  "description": "Updated weekly | Hardstyle | Cover: D-Block & S-te-Fan and The Prophet",
   "name": "Hardstyle Adrenaline! 2024",
   "tracks": [
     {
@@ -226,7 +226,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 169000,
       "name": "Addicted To Rave",
       "url": "https://open.spotify.com/track/26U7mvLqEFr9E1Y7ThCxS2"
@@ -1244,7 +1244,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 170261,
       "name": "Be With You",
       "url": "https://open.spotify.com/track/4VWAwBkIxi9t9xG9zwPWwJ"
@@ -2132,7 +2132,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 145829,
       "name": "Bring Me To Life",
       "url": "https://open.spotify.com/track/5KBaFnbQ1KraM85yTULi6v"
@@ -3078,7 +3078,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 208955,
       "name": "Cosmic Dance",
       "url": "https://open.spotify.com/track/6nHXUm7pMJGnkqqRiW9kdO"
@@ -3173,6 +3173,32 @@
     },
     {
       "album": {
+        "name": "Crunch",
+        "url": "https://open.spotify.com/album/6Ik9MjMnvXaI5y7IBCgQSg"
+      },
+      "artists": [
+        {
+          "name": "TNT",
+          "url": "https://open.spotify.com/artist/1CqOLQmjzVWXQTiIN5Wucs"
+        },
+        {
+          "name": "Technoboy",
+          "url": "https://open.spotify.com/artist/37jL2LnGjAkadOCszr8v7C"
+        },
+        {
+          "name": "Tuneboy",
+          "url": "https://open.spotify.com/artist/3mZnhzeAyjpFhO3cIepzBr"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179188,
+      "name": "Crunch",
+      "url": "https://open.spotify.com/track/67ERjTGEze2g1UVNCog2Je"
+    },
+    {
+      "album": {
         "name": "Daddy DJ",
         "url": "https://open.spotify.com/album/6Fp2vEjNNadaQMw0JgbFCZ"
       },
@@ -3232,7 +3258,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 127500,
       "name": "Dangerous",
       "url": "https://open.spotify.com/track/0yAVKaQr7UxS9PCixQCwYs"
@@ -4439,6 +4465,28 @@
     },
     {
       "album": {
+        "name": "elevate our mind",
+        "url": "https://open.spotify.com/album/6ncFLe2YJwFCrEftvLYKpo"
+      },
+      "artists": [
+        {
+          "name": "Atmozfears",
+          "url": "https://open.spotify.com/artist/0MBGxwmCdXdO26ojaNcT64"
+        },
+        {
+          "name": "RE-PULZE",
+          "url": "https://open.spotify.com/artist/5YR9VKJNA2pGS1Ic4I2vmd"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196552,
+      "name": "elevate our mind",
+      "url": "https://open.spotify.com/track/0sav1CL1qLvUnmh7C1dePM"
+    },
+    {
+      "album": {
         "name": "Elysium",
         "url": "https://open.spotify.com/album/2GOzAZNCu2LWGJgDaUQmpb"
       },
@@ -5308,7 +5356,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 201483,
       "name": "Feel The Rhythm",
       "url": "https://open.spotify.com/track/57lWgVfNM9AMcYRaGbq96T"
@@ -8070,7 +8118,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 248484,
       "name": "INTO THE WILD - Official Intents Festival 2024 Anthem",
       "url": "https://open.spotify.com/track/0uB4Gw3Qggi9dxHnH3FNp5"
@@ -8642,6 +8690,24 @@
       "duration_ms": 181500,
       "name": "Klabautermann",
       "url": "https://open.spotify.com/track/47NBYCgCQaSElp8uo5mbxH"
+    },
+    {
+      "album": {
+        "name": "Knock Knock",
+        "url": "https://open.spotify.com/album/2MMcDEzxbtsv9vT30RNVfL"
+      },
+      "artists": [
+        {
+          "name": "GINIA",
+          "url": "https://open.spotify.com/artist/5TJicvDK81mzKFz3hP9ct3"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226147,
+      "name": "Knock Knock",
+      "url": "https://open.spotify.com/track/1TYAESZ8siOy1rqcbw1oUb"
     },
     {
       "album": {
@@ -10746,7 +10812,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 154593,
       "name": "MOVIE DREAM",
       "url": "https://open.spotify.com/track/7CNTnuvqYFzSMNm8GLOAbG"
@@ -10820,6 +10886,28 @@
       "duration_ms": 194072,
       "name": "Mr. Navigator - Ran-D Remix",
       "url": "https://open.spotify.com/track/38pcNACe3G6rISaAJhZLaF"
+    },
+    {
+      "album": {
+        "name": "My Girl (with Da Tweekaz)",
+        "url": "https://open.spotify.com/album/0Xj5todrbov5QKusXz2qmA"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "Da Tweekaz",
+          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190525,
+      "name": "My Girl (with Da Tweekaz)",
+      "url": "https://open.spotify.com/track/2bzvrWspouWjonF0iQb7Tf"
     },
     {
       "album": {
@@ -10994,7 +11082,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 178566,
       "name": "Need Someone",
       "url": "https://open.spotify.com/track/3LrqCQXIptLkPb5iHDyZVc"
@@ -11371,6 +11459,24 @@
     },
     {
       "album": {
+        "name": "No One Knows",
+        "url": "https://open.spotify.com/album/3wBbein33XvJnLUQfhGZIH"
+      },
+      "artists": [
+        {
+          "name": "Audiotricz",
+          "url": "https://open.spotify.com/artist/52I8HbScEEvgwiiSDaM7gP"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145250,
+      "name": "No One Knows",
+      "url": "https://open.spotify.com/track/4MNeHpxYrSZrgbojVQOlJ7"
+    },
+    {
+      "album": {
         "name": "No Resistance",
         "url": "https://open.spotify.com/album/64YdKvElIkpCQ2GAcDNZwv"
       },
@@ -11540,6 +11646,28 @@
       "duration_ms": 196307,
       "name": "Nothing About You",
       "url": "https://open.spotify.com/track/58AHKBiwr20gH8XYOZsyaz"
+    },
+    {
+      "album": {
+        "name": "Nothing But Rave",
+        "url": "https://open.spotify.com/album/4NJra0ewTCFEODSaj4NYcU"
+      },
+      "artists": [
+        {
+          "name": "D-Block & S-te-Fan",
+          "url": "https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z"
+        },
+        {
+          "name": "The Prophet",
+          "url": "https://open.spotify.com/artist/2iRqqPkOyIvvb7qFZN1Onz"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207000,
+      "name": "Nothing But Rave",
+      "url": "https://open.spotify.com/track/6sLOD5PmgKoZnFnlUOP6Qs"
     },
     {
       "album": {
@@ -12259,6 +12387,28 @@
     },
     {
       "album": {
+        "name": "Over The Edge",
+        "url": "https://open.spotify.com/album/5VLcdmbNUd7to8mj4N30RE"
+      },
+      "artists": [
+        {
+          "name": "Scarra",
+          "url": "https://open.spotify.com/artist/75CWM6dvHUuLGsQj8fJyXr"
+        },
+        {
+          "name": "Cryex",
+          "url": "https://open.spotify.com/artist/5NkT0VLTEXldi82KVVnG1b"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221109,
+      "name": "Over The Edge",
+      "url": "https://open.spotify.com/track/3OJtqlbp0jLbFnUd9L4EVd"
+    },
+    {
+      "album": {
         "name": "Over The Rainbow (Radio Edit)",
         "url": "https://open.spotify.com/album/2OiY6p5HZus0Gh3Wk48kyZ"
       },
@@ -12614,7 +12764,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 168191,
       "name": "Polestar",
       "url": "https://open.spotify.com/track/4IQRBdStUUgT2dExFKQYsN"
@@ -13076,7 +13226,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 126000,
       "name": "Rave Mozart",
       "url": "https://open.spotify.com/track/2LthmFrSphvy9i4ZbCOvrw"
@@ -14429,6 +14579,24 @@
     },
     {
       "album": {
+        "name": "Say No",
+        "url": "https://open.spotify.com/album/5s91teU4C91tcRybR8GYbn"
+      },
+      "artists": [
+        {
+          "name": "LNY TNZ",
+          "url": "https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181600,
+      "name": "Say No",
+      "url": "https://open.spotify.com/track/4yZ67vf6v005eSfKdpOUiQ"
+    },
+    {
+      "album": {
         "name": "Schooier (feat. Chicco)",
         "url": "https://open.spotify.com/album/4EZ2RE6eZtPRJopw0rW2SV"
       },
@@ -14908,7 +15076,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 208823,
       "name": "Something New",
       "url": "https://open.spotify.com/track/2ClJdYDfI8kjMadp5qTziB"
@@ -15919,6 +16087,58 @@
     },
     {
       "album": {
+        "name": "TAKE ME AWAY",
+        "url": "https://open.spotify.com/album/7MPTCVqNTcRJYgfErXWGUe"
+      },
+      "artists": [
+        {
+          "name": "Rooler",
+          "url": "https://open.spotify.com/artist/2lpFs8QJyIeVDb2Sq4vZYi"
+        },
+        {
+          "name": "Sickmode",
+          "url": "https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW"
+        },
+        {
+          "name": "Paul Elstak",
+          "url": "https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200333,
+      "name": "TAKE ME AWAY",
+      "url": "https://open.spotify.com/track/66exMOdOYDvytfS9RQXiXq"
+    },
+    {
+      "album": {
+        "name": "Take Me Away (feat. 4 Strings)",
+        "url": "https://open.spotify.com/album/3vOYtOP8y4n972n5YFZL0O"
+      },
+      "artists": [
+        {
+          "name": "Toneshifterz",
+          "url": "https://open.spotify.com/artist/4LBa6kTLaQHiONCfTfTaXV"
+        },
+        {
+          "name": "Dr Phunk",
+          "url": "https://open.spotify.com/artist/1naX4fxuRaDFlj9tGfIUZk"
+        },
+        {
+          "name": "4 Strings",
+          "url": "https://open.spotify.com/artist/2a0fbijQhcaj1hOFp5b3id"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182709,
+      "name": "Take Me Away (feat. 4 Strings)",
+      "url": "https://open.spotify.com/track/6uwZTxW1wBkWNSAqd1noW8"
+    },
+    {
+      "album": {
         "name": "Take Me Away (Into The Night)",
         "url": "https://open.spotify.com/album/3a4aJoZz0sUbHTb3fTfRzC"
       },
@@ -16022,6 +16242,32 @@
       "duration_ms": 195096,
       "name": "Take You Higher",
       "url": "https://open.spotify.com/track/7rK1KaTLVKqniKtMg3Lf8m"
+    },
+    {
+      "album": {
+        "name": "TAKING OVER",
+        "url": "https://open.spotify.com/album/7gN1gSTN1rZmuW0goOmmPU"
+      },
+      "artists": [
+        {
+          "name": "Rebelion",
+          "url": "https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg"
+        },
+        {
+          "name": "Killshot",
+          "url": "https://open.spotify.com/artist/2m5uCiZcpQ50tXsJrThFoM"
+        },
+        {
+          "name": "Boray",
+          "url": "https://open.spotify.com/artist/1tC69g1QLo1PvMg0vki9bY"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148500,
+      "name": "TAKING OVER",
+      "url": "https://open.spotify.com/track/0roNsDM3FEnG1UjoTjpWq0"
     },
     {
       "album": {
@@ -16426,7 +16672,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 169814,
       "name": "The Enlightenment",
       "url": "https://open.spotify.com/track/3UwDiiACQag0380BQlBwCL"
@@ -17184,6 +17430,24 @@
       "duration_ms": 250400,
       "name": "The Unknown",
       "url": "https://open.spotify.com/track/5Io0UXwI0DhCUI7imo7VPh"
+    },
+    {
+      "album": {
+        "name": "The Unknown",
+        "url": "https://open.spotify.com/album/0xOaevmR0i2TzuOhkFT1eV"
+      },
+      "artists": [
+        {
+          "name": "VENNIC",
+          "url": "https://open.spotify.com/artist/0I9hDUnGp3ZYpR9FmnKXqS"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198971,
+      "name": "The Unknown",
+      "url": "https://open.spotify.com/track/7DbegEH7xQiMoMJxDQHriF"
     },
     {
       "album": {
@@ -18121,6 +18385,24 @@
     },
     {
       "album": {
+        "name": "Unseen Beast",
+        "url": "https://open.spotify.com/album/2eyQ26MAnJu1dKUXdIMIS0"
+      },
+      "artists": [
+        {
+          "name": "Devin Wild",
+          "url": "https://open.spotify.com/artist/4ksdbwHbqSmv7sWP3W6L21"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156774,
+      "name": "Unseen Beast",
+      "url": "https://open.spotify.com/track/1zrG9RTM2XD6sSaWDurbFg"
+    },
+    {
+      "album": {
         "name": "Unspoken",
         "url": "https://open.spotify.com/album/4ZeO8CWebXZWsEyRT3iEe7"
       },
@@ -18162,6 +18444,32 @@
       "duration_ms": 256000,
       "name": "Unsung Heroes",
       "url": "https://open.spotify.com/track/75QWJJ6axfkD7KqSYVqmAJ"
+    },
+    {
+      "album": {
+        "name": "Untamed",
+        "url": "https://open.spotify.com/album/4N9zYRE9u4mheJg1vEoqgK"
+      },
+      "artists": [
+        {
+          "name": "Ran-D",
+          "url": "https://open.spotify.com/artist/7IeovKzVkfcG9mIJGNzTcT"
+        },
+        {
+          "name": "Nolz",
+          "url": "https://open.spotify.com/artist/6kudMw2A0xOBJHpW8VNaDA"
+        },
+        {
+          "name": "Micah Martin",
+          "url": "https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264524,
+      "name": "Untamed",
+      "url": "https://open.spotify.com/track/7ytNUOozBXUbRWoIe2voEP"
     },
     {
       "album": {
@@ -18298,6 +18606,28 @@
       "duration_ms": 154936,
       "name": "Vertigo",
       "url": "https://open.spotify.com/track/6pl7bKdaDOCArT097PV6ma"
+    },
+    {
+      "album": {
+        "name": "Victorious",
+        "url": "https://open.spotify.com/album/156ttQp6WGs1sfr91MbA7p"
+      },
+      "artists": [
+        {
+          "name": "Frontliner",
+          "url": "https://open.spotify.com/artist/7momuad2Twkv5O7MY3dODa"
+        },
+        {
+          "name": "Noubya",
+          "url": "https://open.spotify.com/artist/7mE37XRULrIzHfg9OWmIud"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247758,
+      "name": "Victorious",
+      "url": "https://open.spotify.com/track/7GXdv79Bkj3yuFuvzILHVw"
     },
     {
       "album": {
@@ -19074,7 +19404,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 186400,
       "name": "Where We Belong",
       "url": "https://open.spotify.com/track/5oosgsjZ33wx5jwXzkbaJL"
@@ -19532,7 +19862,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 192000,
       "name": "XTREME XTASY",
       "url": "https://open.spotify.com/track/7DIAUvqEp8uCAp9rL5pBEA"

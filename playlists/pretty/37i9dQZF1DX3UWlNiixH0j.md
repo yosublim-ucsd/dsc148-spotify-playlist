@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: BBHF
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,948 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,967 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 69 | [幸せのまわり道](https://open.spotify.com/track/1OCvIuUDYIwnuv6lQzdoD7) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [幸せのまわり道](https://open.spotify.com/album/5Rr1mK7xiTXEgPN6it8VJN) | 3:45 |
 | 70 | [不屈に花](https://open.spotify.com/track/0YN5Tb3ui1yon2qSqDR4VM) | [jo0ji](https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk) | [475](https://open.spotify.com/album/2wQuSgcO8nbUhdfXQpd6Rn) | 3:17 |
 | 71 | [Phenomeno](https://open.spotify.com/track/18zFxPtXcMTISAHwMDDRte) | [Tohji](https://open.spotify.com/artist/7j7kL8K4GE1z5Cdxl7ucBF) | [Phenomeno](https://open.spotify.com/album/4yk7K6h54kH24QaEzxINC4) | 2:45 |
-| 72 | [ファンデーションの前に](https://open.spotify.com/track/490KCtGnjNDhOJw3Tmn8Sy) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [ファンデーションの前に](https://open.spotify.com/album/0vfStzXN4XJeTmvnITS5wS) | 2:49 |
+| 72 | [ですとらくしょん!!](https://open.spotify.com/track/54krDxm0tOxeZy36AKT3Bj) | [Chevon](https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr) | [Chevon](https://open.spotify.com/album/5zpDo1cOOtnbzrRjKdCqA8) | 4:01 |
 | 73 | [honestly](https://open.spotify.com/track/7ntRuy1lDZsIXNeSNsuCkz) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [12 hugs \(like butterflies\)](https://open.spotify.com/album/1wNDOs0Zmqrm7dhgnneflC) | 2:59 |
-| 74 | [ですとらくしょん!!](https://open.spotify.com/track/54krDxm0tOxeZy36AKT3Bj) | [Chevon](https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr) | [Chevon](https://open.spotify.com/album/5zpDo1cOOtnbzrRjKdCqA8) | 4:01 |
+| 74 | [ファンデーションの前に](https://open.spotify.com/track/490KCtGnjNDhOJw3Tmn8Sy) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [ファンデーションの前に](https://open.spotify.com/album/0vfStzXN4XJeTmvnITS5wS) | 2:49 |
 | 75 | [SONGS](https://open.spotify.com/track/0l93cYkJLTiSgHSBGful5p) | [Age Factory](https://open.spotify.com/artist/7pgRyTH4nTH4KoruoGuAQo) | [Songs](https://open.spotify.com/album/5KCNofx4mr0Blk7WXGiPXU) | 2:47 |
 | 76 | [風の向きが変わって](https://open.spotify.com/track/1up7HNjeHsDrtzirzJT4Wt) | [MONO NO AWARE](https://open.spotify.com/artist/5vFyh7GL35ShoJWrXL9aUR) | [風の向きが変わって](https://open.spotify.com/album/16zd5CxZ5VzZKppocHWg2E) | 5:02 |
 | 77 | [Spaceship](https://open.spotify.com/track/5uTctpcdaA0o91A5LGx5LR) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [Komorebi](https://open.spotify.com/album/18abfRUQQNVLHEA127jj6h) | 3:23 |
@@ -95,18 +95,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 85 | [Factor](https://open.spotify.com/track/2KIj2vjdFaPUGSbwBga6G4) | [DJ RYOW](https://open.spotify.com/artist/1bmqi99UHMUsIQVZDx4dAn), [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09), [C.O.S.A.](https://open.spotify.com/artist/7kj57NIwoqvnBTSpSgrO3p) | [DRIVE MY DREAMS](https://open.spotify.com/album/5FWp05PHX3UMevTppACZJ5) | 3:02 |
 | 86 | [もうけもん](https://open.spotify.com/track/2hMn9FYHmZtIFikDDHnoTn) | [MONO NO AWARE](https://open.spotify.com/artist/5vFyh7GL35ShoJWrXL9aUR) | [もうけもん](https://open.spotify.com/album/3M4xYeC19rVjldE12l7UxF) | 1:58 |
 | 87 | [Cubism](https://open.spotify.com/track/2vQi0AbpCSO0YRSmH44Jzl) | [Ovall](https://open.spotify.com/artist/5fajxqVLxJxAzMvZn0AGIv) | [Cubism](https://open.spotify.com/album/7kZYHnhPHOqT4T0KRaUYVx) | 3:13 |
-| 88 | [NEHAN](https://open.spotify.com/track/11c1SrN1UdW3BCNrrZddTb) | [Tempalay](https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP) | [NEHAN](https://open.spotify.com/album/1BLvDXPyzT4TqUekITovR8) | 5:29 |
-| 89 | [いろどりのうた](https://open.spotify.com/track/2459bwFobqlziZ0zo5EtmO) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [長岡亮介](https://open.spotify.com/artist/18rZSYLeI8QvUrWsfv5frK) | [いろどりのうた](https://open.spotify.com/album/6yps06S6fkYR6LhljQ10GF) | 2:51 |
+| 88 | [いろどりのうた](https://open.spotify.com/track/2459bwFobqlziZ0zo5EtmO) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [長岡亮介](https://open.spotify.com/artist/18rZSYLeI8QvUrWsfv5frK) | [いろどりのうた](https://open.spotify.com/album/6yps06S6fkYR6LhljQ10GF) | 2:51 |
+| 89 | [NEHAN](https://open.spotify.com/track/11c1SrN1UdW3BCNrrZddTb) | [Tempalay](https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP) | [NEHAN](https://open.spotify.com/album/1BLvDXPyzT4TqUekITovR8) | 5:29 |
 | 90 | [あたしの全部を愛せない](https://open.spotify.com/track/4Lz2o8TYE2p39ZUJaFpsmk) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [あたしの全部を愛せない](https://open.spotify.com/album/0OunnU4xFgcVZBbFZ61kHQ) | 3:18 |
 | 91 | [PULSE](https://open.spotify.com/track/1E1220SmTWNZhmdEML5PL7) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [MAGNET](https://open.spotify.com/album/7DBDfww3UEeui6kRnFSJpr) | 3:41 |
 | 92 | [Strangers In The Night](https://open.spotify.com/track/3GoiPlWtQO9m1iqxKorcrr) | [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb) | [Strangers In The Night](https://open.spotify.com/album/55CO6FPOjzSeWBHdVz1wTv) | 3:55 |
 | 93 | [ダンス・デカダンス](https://open.spotify.com/track/3MuPlYnGnFXvQEeBvMy365) | [Chevon](https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr) | [ダンス・デカダンス](https://open.spotify.com/album/3h5YMuHYruQ5w2t1KYhE37) | 3:14 |
 | 94 | [グリン・グリーンレッド](https://open.spotify.com/track/1TkMAu5WSBvxcM7WcG7x0K) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [グリン・グリーンレッド](https://open.spotify.com/album/7Fncd7Lp8hwh7fy9i5Uw0X) | 1:14 |
-| 95 | [今世紀最大の夢](https://open.spotify.com/track/7LoraRHT6Un4WbAoiBVtYV) | [Tempalay](https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP) | [今世紀最大の夢](https://open.spotify.com/album/1kpFuWgqpwrpXOXaDxVyua) | 5:06 |
-| 96 | [Side Step](https://open.spotify.com/track/386pH7tdgWOUkvAEija9eK) | [Satoko Shibata](https://open.spotify.com/artist/4RaaBbyl7DzAmfkjGiyUGU) | [Your Favorite Things](https://open.spotify.com/album/45w2uu1ElL5z9NCTJ9Sf8e) | 3:28 |
-| 97 | [Everyday](https://open.spotify.com/track/28DnHTmW8CP94r9gdrklrY) | [satomoka](https://open.spotify.com/artist/0yFTQM79Y12E6J6aOPRoZg) | [Everyday](https://open.spotify.com/album/6ixXVAnvxRiOpufVVZc6wb) | 3:01 |
-| 98 | [副都心](https://open.spotify.com/track/4WmBjNWriwtA7nV7jWiU4n) | [Gestalt Girl](https://open.spotify.com/artist/7gBefUcQxW9DQljFrjOFwL), [荒井岳史](https://open.spotify.com/artist/7grzhKqVws9ckPpZSWKqLw) | [副都心](https://open.spotify.com/album/0D7gVvwBF5aei9MZ4Vskhv) | 3:32 |
-| 99 | [apart](https://open.spotify.com/track/0xXsJc6dz9YT4NMRnNAiry) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [apart](https://open.spotify.com/album/4L00KfJ0AfJ0lUEUNW0AGr) | 2:56 |
+| 95 | [Side Step](https://open.spotify.com/track/386pH7tdgWOUkvAEija9eK) | [Satoko Shibata](https://open.spotify.com/artist/4RaaBbyl7DzAmfkjGiyUGU) | [Your Favorite Things](https://open.spotify.com/album/45w2uu1ElL5z9NCTJ9Sf8e) | 3:28 |
+| 96 | [Everyday](https://open.spotify.com/track/28DnHTmW8CP94r9gdrklrY) | [satomoka](https://open.spotify.com/artist/0yFTQM79Y12E6J6aOPRoZg) | [Everyday](https://open.spotify.com/album/6ixXVAnvxRiOpufVVZc6wb) | 3:01 |
+| 97 | [副都心](https://open.spotify.com/track/4WmBjNWriwtA7nV7jWiU4n) | [Gestalt Girl](https://open.spotify.com/artist/7gBefUcQxW9DQljFrjOFwL), [荒井岳史](https://open.spotify.com/artist/7grzhKqVws9ckPpZSWKqLw) | [副都心](https://open.spotify.com/album/0D7gVvwBF5aei9MZ4Vskhv) | 3:32 |
+| 98 | [apart](https://open.spotify.com/track/0xXsJc6dz9YT4NMRnNAiry) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [apart](https://open.spotify.com/album/4L00KfJ0AfJ0lUEUNW0AGr) | 2:56 |
+| 99 | [今世紀最大の夢](https://open.spotify.com/track/7LoraRHT6Un4WbAoiBVtYV) | [Tempalay](https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP) | [今世紀最大の夢](https://open.spotify.com/album/1kpFuWgqpwrpXOXaDxVyua) | 5:06 |
 | 100 | [trank](https://open.spotify.com/track/5tJasimBMGlOR9y15v1ATu) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [trank](https://open.spotify.com/album/0mcReQHeeMJzIG8BFCyQJf) | 2:57 |
 
 Snapshot ID: `Zky28AAAAAB8VAs5D9sk7qc2XQq9ysWN`

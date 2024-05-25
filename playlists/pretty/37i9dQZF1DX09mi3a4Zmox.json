@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica para enamorarse.",
-  "num_followers": 3962685,
+  "num_followers": 3962925,
   "original_name": "Baladas Rom\u00e1nticas",
   "owner": {
     "name": "Spotify",
@@ -1291,26 +1291,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Que Vuelva",
-        "url": "https://open.spotify.com/album/127a5w9VTjL6LjZBbW8T4X"
-      },
-      "artists": [
-        {
-          "name": "Kany Garc\u00eda",
-          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
-        },
-        {
-          "name": "Carla Morrison",
-          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
-        }
-      ],
-      "duration_ms": 166815,
-      "name": "Que Vuelva",
-      "url": "https://open.spotify.com/track/6Pcyu6EUWWvOdLMnA3Hq9P"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Todav\u00eda No",
         "url": "https://open.spotify.com/album/14HRjTaQi0BJvpyYw4hW6L"
       },
@@ -1327,6 +1307,26 @@
       "duration_ms": 198280,
       "name": "Todav\u00eda No",
       "url": "https://open.spotify.com/track/2cYqMVc4sVem0FsuwArxD2"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Que Vuelva",
+        "url": "https://open.spotify.com/album/127a5w9VTjL6LjZBbW8T4X"
+      },
+      "artists": [
+        {
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+        },
+        {
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+        }
+      ],
+      "duration_ms": 166815,
+      "name": "Que Vuelva",
+      "url": "https://open.spotify.com/track/6Pcyu6EUWWvOdLMnA3Hq9P"
     },
     {
       "added_at": "2024-05-22 11:00:00",

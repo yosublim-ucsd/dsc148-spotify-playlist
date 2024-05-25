@@ -4,7 +4,7 @@
 
 > Dreamy melodies and hushed vocals\. Cover: Still Woozy
 
-981 songs - 2 day 2 hr 55 min
+982 songs - 2 day 2 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -731,6 +731,7 @@
 | [Set Piece](https://open.spotify.com/track/3ishRxjsqYVk6FdAGeeUAP) | [Vansire](https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY), [sophie meiers](https://open.spotify.com/artist/4Qz5J3GBpmR1LcPgqFbzlW), [Ivy Sole](https://open.spotify.com/artist/59XmvE08Ar9UZIF6oVsd3J) | [Angel Youth](https://open.spotify.com/album/3Zqe5icElI6gNEM9v3UpXN) | 3:19 | 2019-07-31 | 2021-05-28 |
 | [Seven](https://open.spotify.com/track/2dwvxOHnQjndZLowIR6PiS) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Seven](https://open.spotify.com/album/3HdIy1njUneWoE5pWy4lEY) | 3:45 | 2019-07-31 | 2022-12-15 |
 | [sex is good \(but have you tried\)](https://open.spotify.com/track/1Py2kWpJuFb3ga3OjWmSJM) | [Donna Missal](https://open.spotify.com/artist/4QFHHdZkeqmneDQqKIjAN8) | [sex is good \(but have you tried\)](https://open.spotify.com/album/3gjqaqdDbiveU9hALQFhwK) | 3:35 | 2021-04-30 | 2021-05-27 |
+| [Sexy to Someone](https://open.spotify.com/track/2Nq4SFbvYYZa8AF7lD7CWU) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Sexy to Someone](https://open.spotify.com/album/281y6GLUpFfmSyBO7JMLfU) | 3:27 | 2024-05-24 |  |
 | [Shadows](https://open.spotify.com/track/7gF4K3K2EqWHkLHh1gE3vO) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Shadows](https://open.spotify.com/album/1zByU7wtJp0Z1dev808ePd) | 2:37 | 2021-09-10 | 2022-12-15 |
 | [Sharpener](https://open.spotify.com/track/2aReOPqi6NjhJ8zxa0Mi2D) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Sharpener](https://open.spotify.com/album/3MxrCAA1Z5FOaqdqOaiFYz) | 3:57 | 2021-06-04 | 2022-12-15 |
 | [She Likes My Style](https://open.spotify.com/track/5xlT9ftd8x7Wj7qsrBlGNg) | [Emmett Mulrooney](https://open.spotify.com/artist/5pJ2pz0jrulWmS23wiPknh) | [She Likes My Style](https://open.spotify.com/album/26PbqymykCuTWZFzsKH5re) | 3:16 | 2022-04-29 | 2022-05-04 |
@@ -801,7 +802,7 @@
 | [String Lights](https://open.spotify.com/track/6b1eBxLC6cD3qvqZXrirgq) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [String Lights](https://open.spotify.com/album/507ZVYcgV9C5pwXQlfZJo7) | 3:50 | 2022-03-04 | 2022-07-27 |
 | [Sugar](https://open.spotify.com/track/2joEpsXflccZD0ZwKEdz5m) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Untourable Album](https://open.spotify.com/album/7FkJxlcljM6Ix0pC2JSNOE) | 2:56 | 2021-09-01 | 2022-12-15 |
 | [sugar ray](https://open.spotify.com/track/2A1WPASEga9mFnpNRc7ADd) | [pizzagirl](https://open.spotify.com/artist/0ef7Q5r0NAMicEugmtYxjA) | [sugar ray](https://open.spotify.com/album/6Ou1n0STYMpzbbrxNC454M) | 4:03 | 2021-06-04 | 2022-04-26 |
-| [Summer Crush](https://open.spotify.com/track/4r0s51MILHrL1kOn0zEIH9) | [Sexy Pigeon](https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U) | [Summer Crush](https://open.spotify.com/album/1oONppotlfdPDcG7DY91uc) | 2:02 | 2024-05-10 |  |
+| [Summer Crush](https://open.spotify.com/track/4r0s51MILHrL1kOn0zEIH9) | [Sexy Pigeon](https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U) | [Summer Crush](https://open.spotify.com/album/1oONppotlfdPDcG7DY91uc) | 2:02 | 2024-05-10 | 2024-05-25 |
 | [SUMMER GIRL](https://open.spotify.com/track/7Ivlg6WEcmRLCqO32ZhfGd) | [Ian Hugel](https://open.spotify.com/artist/24uWm1jxjtBwiVnEGT0pjC) | [SUMMER GIRL](https://open.spotify.com/album/6qGinm5pwGdYnvcR4e2SUC) | 2:48 | 2020-07-08 | 2023-08-26 |
 | [summers ours](https://open.spotify.com/track/5FK2LR2lepWzp5qGDyi2AL) | [reptilelegit](https://open.spotify.com/artist/3eEJnQZUZcQDjJLkBiqQMd), [Wes Calliope](https://open.spotify.com/artist/11RMlyK9xv96pa0PEWALMJ) | [summers ours](https://open.spotify.com/album/3eH8TUNHdAOEm4MxxCqGLX) | 1:42 | 2021-08-13 | 2022-04-19 |
 | [Summertime](https://open.spotify.com/track/6wnYU4r3lrzn9Yloq816Oj) | [lilong](https://open.spotify.com/artist/4UZPdE9dtMICvMOO8vb492) | [Summertime](https://open.spotify.com/album/3KpLyj4nJzfZVthITEOMQ4) | 3:10 | 2021-06-25 | 2022-04-19 |

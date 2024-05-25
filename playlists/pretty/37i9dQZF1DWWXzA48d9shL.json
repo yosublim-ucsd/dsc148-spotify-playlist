@@ -1,18 +1,18 @@
 {
   "description": "Rap from hell. Cover: $uicideboy$",
-  "num_followers": 585797,
+  "num_followers": 585848,
   "original_name": "TIRADE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zk3QMAAAAACzi9gtEPq7xlHIooIWlfVK",
+  "snapshot_id": "ZlAe0AAAAAAjVMJDW4YPmjq9y9dnjy6A",
   "tracks": [
     {
-      "added_at": "2024-03-29 04:01:00",
+      "added_at": "2024-05-24 05:00:00",
       "album": {
-        "name": "Us Vs. Them",
-        "url": "https://open.spotify.com/album/6G7r3vu2Snjn8Ese1uwNZp"
+        "name": "The Thin Grey Line",
+        "url": "https://open.spotify.com/album/3rXifZlYd2eKqicNt3z5HF"
       },
       "artists": [
         {
@@ -20,9 +20,25 @@
           "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
         }
       ],
-      "duration_ms": 184633,
-      "name": "Us Vs. Them",
-      "url": "https://open.spotify.com/track/3cmdqMDc0Fj4TgPeyDOYTM"
+      "duration_ms": 105724,
+      "name": "The Thin Grey Line",
+      "url": "https://open.spotify.com/track/0lZYlxoSG7DCecuLvMERfP"
+    },
+    {
+      "added_at": "2024-05-24 05:00:00",
+      "album": {
+        "name": "Bl\u00fcdhaven",
+        "url": "https://open.spotify.com/album/59Grt87N5tvB698akuFC5d"
+      },
+      "artists": [
+        {
+          "name": "do not resurrect",
+          "url": "https://open.spotify.com/artist/0QRp7CyL31iErUn6cX0YU3"
+        }
+      ],
+      "duration_ms": 130682,
+      "name": "Babydoll",
+      "url": "https://open.spotify.com/track/2NE8pVJOkEsmPwSRDE6d2h"
     },
     {
       "added_at": "2024-04-26 18:40:13",
@@ -61,6 +77,22 @@
       "url": "https://open.spotify.com/track/5cF4gR8WHnHgkPFSD6hdC2"
     },
     {
+      "added_at": "2024-05-24 05:00:00",
+      "album": {
+        "name": "BULLY",
+        "url": "https://open.spotify.com/album/5Fx6t1QOJLz6EaLQQRJ8TJ"
+      },
+      "artists": [
+        {
+          "name": "$NOT",
+          "url": "https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO"
+        }
+      ],
+      "duration_ms": 117251,
+      "name": "BULLY",
+      "url": "https://open.spotify.com/track/1T2MtGqjxsP6YkHNPTEjpa"
+    },
+    {
       "added_at": "2024-04-19 05:00:00",
       "album": {
         "name": "Cosmic Humility Interlude",
@@ -77,20 +109,20 @@
       "url": "https://open.spotify.com/track/1NoMJ5WqoxSchoyRd5D8mO"
     },
     {
-      "added_at": "2024-05-20 22:50:19",
+      "added_at": "2024-03-29 04:01:00",
       "album": {
-        "name": "TAMAGO KAKE GOHAN",
-        "url": "https://open.spotify.com/album/5fdA6CBCmJaGgI78Ch2kEC"
+        "name": "Us Vs. Them",
+        "url": "https://open.spotify.com/album/6G7r3vu2Snjn8Ese1uwNZp"
       },
       "artists": [
         {
-          "name": "LITTLE 4N",
-          "url": "https://open.spotify.com/artist/66sdClSxeLEamPlKTQcrbd"
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
         }
       ],
-      "duration_ms": 227417,
-      "name": "TAMAGO KAKE GOHAN",
-      "url": "https://open.spotify.com/track/1u8cWdbrtFbfETFvyhU5gu"
+      "duration_ms": 184633,
+      "name": "Us Vs. Them",
+      "url": "https://open.spotify.com/track/3cmdqMDc0Fj4TgPeyDOYTM"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -149,6 +181,22 @@
       "url": "https://open.spotify.com/track/30UdcE73xUzIaOPd8EsxrR"
     },
     {
+      "added_at": "2024-05-24 05:00:00",
+      "album": {
+        "name": "In the Dead Middle of the Night",
+        "url": "https://open.spotify.com/album/2PJsZoffwf9N4kBCTo3nMN"
+      },
+      "artists": [
+        {
+          "name": "MAKAVELIGODD",
+          "url": "https://open.spotify.com/artist/6ODBnKbicdw1rDq8P2lBzO"
+        }
+      ],
+      "duration_ms": 146773,
+      "name": "In the Dead Middle of the Night",
+      "url": "https://open.spotify.com/track/7EVOpeAIepGkGsHaFwjfi2"
+    },
+    {
       "added_at": "2023-12-27 19:57:37",
       "album": {
         "name": "Freddie's Inferno",
@@ -163,26 +211,6 @@
       "duration_ms": 169946,
       "name": "Limbo",
       "url": "https://open.spotify.com/track/37F7E7BKEw2E4O2L7u0IEp"
-    },
-    {
-      "added_at": "2024-05-20 22:50:19",
-      "album": {
-        "name": "Speak Up",
-        "url": "https://open.spotify.com/album/1yKGe9D6qts1Oh66bkEWww"
-      },
-      "artists": [
-        {
-          "name": "Lil Tytan",
-          "url": "https://open.spotify.com/artist/6xPylMjsDB2ZlarNnsSmev"
-        },
-        {
-          "name": "Andy Christ",
-          "url": "https://open.spotify.com/artist/7CBMPDJkT3251VCtVITNr5"
-        }
-      ],
-      "duration_ms": 120363,
-      "name": "Speak Up",
-      "url": "https://open.spotify.com/track/556OoUOVrWZmMiQbL7FXCl"
     },
     {
       "added_at": "2023-11-13 15:13:31",
@@ -225,24 +253,40 @@
       "url": "https://open.spotify.com/track/7DBugDTo7KIdilZ3wWeE3K"
     },
     {
-      "added_at": "2024-04-26 18:40:13",
+      "added_at": "2024-05-20 22:50:19",
       "album": {
-        "name": "EMBRACE THE CHAOS, VOL. 1",
-        "url": "https://open.spotify.com/album/2Ut99Lzl7p2JWWE7ACN9vg"
+        "name": "Speak Up",
+        "url": "https://open.spotify.com/album/1yKGe9D6qts1Oh66bkEWww"
       },
       "artists": [
         {
-          "name": "Kill Dyll",
-          "url": "https://open.spotify.com/artist/1r5YzslA0QwyIZISgHJrU7"
+          "name": "Lil Tytan",
+          "url": "https://open.spotify.com/artist/6xPylMjsDB2ZlarNnsSmev"
         },
         {
-          "name": "Kamiyada+",
-          "url": "https://open.spotify.com/artist/7cB6KjTm98hhNE9eeyhcnF"
+          "name": "Andy Christ",
+          "url": "https://open.spotify.com/artist/7CBMPDJkT3251VCtVITNr5"
         }
       ],
-      "duration_ms": 149133,
-      "name": "FALL BACK (feat. Kamiyada+)",
-      "url": "https://open.spotify.com/track/6fjl71ZnCQF2Exk0DT4mwk"
+      "duration_ms": 120363,
+      "name": "Speak Up",
+      "url": "https://open.spotify.com/track/556OoUOVrWZmMiQbL7FXCl"
+    },
+    {
+      "added_at": "2024-05-20 22:50:19",
+      "album": {
+        "name": "TAMAGO KAKE GOHAN",
+        "url": "https://open.spotify.com/album/5fdA6CBCmJaGgI78Ch2kEC"
+      },
+      "artists": [
+        {
+          "name": "LITTLE 4N",
+          "url": "https://open.spotify.com/artist/66sdClSxeLEamPlKTQcrbd"
+        }
+      ],
+      "duration_ms": 227417,
+      "name": "TAMAGO KAKE GOHAN",
+      "url": "https://open.spotify.com/track/1u8cWdbrtFbfETFvyhU5gu"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -293,6 +337,22 @@
       "url": "https://open.spotify.com/track/0QPs2Ro9xbivfVYQt7ehYr"
     },
     {
+      "added_at": "2024-05-24 05:00:00",
+      "album": {
+        "name": "Shinjuku Station",
+        "url": "https://open.spotify.com/album/1ZwjVpsJLsvivnlWWA20M2"
+      },
+      "artists": [
+        {
+          "name": "Xavier Wulf",
+          "url": "https://open.spotify.com/artist/3uo0ix4Y67XHVWBhXXIY1S"
+        }
+      ],
+      "duration_ms": 67395,
+      "name": "Shinjuku Station",
+      "url": "https://open.spotify.com/track/64M6KHUZMPQ9e8Bg9IsqWL"
+    },
+    {
       "added_at": "2024-04-26 18:40:13",
       "album": {
         "name": "HellValleySkyTree.exe",
@@ -307,6 +367,42 @@
       "duration_ms": 163161,
       "name": "HellValleySkyTree.exe",
       "url": "https://open.spotify.com/track/27ts3IQd4j4MwddJk2djUK"
+    },
+    {
+      "added_at": "2024-03-22 15:15:26",
+      "album": {
+        "name": "Step Back!",
+        "url": "https://open.spotify.com/album/5bgXspdu04zFxX5gq8uXMl"
+      },
+      "artists": [
+        {
+          "name": "1nonly",
+          "url": "https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER"
+        },
+        {
+          "name": "SXMPRA",
+          "url": "https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R"
+        }
+      ],
+      "duration_ms": 150674,
+      "name": "Step Back!",
+      "url": "https://open.spotify.com/track/6jdwbcH788txYS6Doy1F1j"
+    },
+    {
+      "added_at": "2023-08-29 17:56:43",
+      "album": {
+        "name": "I No Longer Fear The Razor Guarding My Heel (V)",
+        "url": "https://open.spotify.com/album/5HV1423uFq5uNui7tZBBas"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "duration_ms": 180774,
+      "name": "Not Even Ghosts Are This Empty",
+      "url": "https://open.spotify.com/track/7rzNKooM3JrKVT40fR22HI"
     },
     {
       "added_at": "2024-03-29 04:01:00",
@@ -327,30 +423,6 @@
       "duration_ms": 186352,
       "name": "MARMADUKE",
       "url": "https://open.spotify.com/track/5d9imY4am4ijdLDFnh82xK"
-    },
-    {
-      "added_at": "2024-04-19 05:00:00",
-      "album": {
-        "name": "LUNG BUTTER",
-        "url": "https://open.spotify.com/album/4wOMYBYhtV2yNmHeTNiSql"
-      },
-      "artists": [
-        {
-          "name": "Mvko",
-          "url": "https://open.spotify.com/artist/1VaxrIeH9UUBdXlJ9wBQ9P"
-        },
-        {
-          "name": "Mobbs Radical",
-          "url": "https://open.spotify.com/artist/5CMFdQq95rtIg41Vip9wLR"
-        },
-        {
-          "name": "Netuh",
-          "url": "https://open.spotify.com/artist/2kppis5CDjgY0jeNIFgKUG"
-        }
-      ],
-      "duration_ms": 120685,
-      "name": "LUNG BUTTER",
-      "url": "https://open.spotify.com/track/3Fa9FEqVjc1Y4p3NFW47BA"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -383,42 +455,6 @@
       "duration_ms": 141883,
       "name": "Black Dahlia",
       "url": "https://open.spotify.com/track/1Khv5TP0lDVHlWh1uOFIhg"
-    },
-    {
-      "added_at": "2023-08-29 17:56:43",
-      "album": {
-        "name": "I No Longer Fear The Razor Guarding My Heel (V)",
-        "url": "https://open.spotify.com/album/5HV1423uFq5uNui7tZBBas"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        }
-      ],
-      "duration_ms": 180774,
-      "name": "Not Even Ghosts Are This Empty",
-      "url": "https://open.spotify.com/track/7rzNKooM3JrKVT40fR22HI"
-    },
-    {
-      "added_at": "2024-03-22 15:15:26",
-      "album": {
-        "name": "Step Back!",
-        "url": "https://open.spotify.com/album/5bgXspdu04zFxX5gq8uXMl"
-      },
-      "artists": [
-        {
-          "name": "1nonly",
-          "url": "https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER"
-        },
-        {
-          "name": "SXMPRA",
-          "url": "https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R"
-        }
-      ],
-      "duration_ms": 150674,
-      "name": "Step Back!",
-      "url": "https://open.spotify.com/track/6jdwbcH788txYS6Doy1F1j"
     },
     {
       "added_at": "2024-03-22 15:15:26",
@@ -679,6 +715,22 @@
       "duration_ms": 156734,
       "name": "snakes",
       "url": "https://open.spotify.com/track/2d7R3uf4J0RlM2iHI5RttN"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "DESIRE",
+        "url": "https://open.spotify.com/album/4HRlH8H0ujyz46QqdEBI51"
+      },
+      "artists": [
+        {
+          "name": "LITTLE 4N",
+          "url": "https://open.spotify.com/artist/66sdClSxeLEamPlKTQcrbd"
+        }
+      ],
+      "duration_ms": 141253,
+      "name": "DESIRE",
+      "url": "https://open.spotify.com/track/25sabs7iC9eESyOpf0b6CY"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -1935,22 +1987,6 @@
       "duration_ms": 150383,
       "name": "GANJA GOBLIN",
       "url": "https://open.spotify.com/track/2C0qiqukMAE9WZjvQB76qH"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "DESIRE",
-        "url": "https://open.spotify.com/album/4HRlH8H0ujyz46QqdEBI51"
-      },
-      "artists": [
-        {
-          "name": "LITTLE 4N",
-          "url": "https://open.spotify.com/artist/66sdClSxeLEamPlKTQcrbd"
-        }
-      ],
-      "duration_ms": 141253,
-      "name": "DESIRE",
-      "url": "https://open.spotify.com/track/25sabs7iC9eESyOpf0b6CY"
     }
   ],
   "unique_name": "TIRADE",

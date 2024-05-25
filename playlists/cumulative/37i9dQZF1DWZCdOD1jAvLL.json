@@ -5908,7 +5908,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 191022,
       "name": "Hot In Here",
       "url": "https://open.spotify.com/track/0jzGm5fCcbUdaiUj4hAxeM"
@@ -6504,6 +6504,24 @@
       "duration_ms": 168780,
       "name": "Issa Vibe",
       "url": "https://open.spotify.com/track/2I5faAdg3IZbd6HEn6Blfz"
+    },
+    {
+      "album": {
+        "name": "it boy",
+        "url": "https://open.spotify.com/album/6tl4X5mM1eOnkWr7oB5LAM"
+      },
+      "artists": [
+        {
+          "name": "bbno$",
+          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145846,
+      "name": "it boy",
+      "url": "https://open.spotify.com/track/2UerDbZznc07mmGMD3WfHH"
     },
     {
       "album": {
@@ -9355,6 +9373,28 @@
     },
     {
       "album": {
+        "name": "On Yo Head",
+        "url": "https://open.spotify.com/album/1ly2NDDnNznsnioS4CgwrS"
+      },
+      "artists": [
+        {
+          "name": "Mal\u00f3ne",
+          "url": "https://open.spotify.com/artist/7fQMET8UaHL3gpH9LhqINM"
+        },
+        {
+          "name": "Nacho Scoppa",
+          "url": "https://open.spotify.com/artist/53c3s3SEmRB6OlD1fG7BqA"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148183,
+      "name": "On Yo Head",
+      "url": "https://open.spotify.com/track/22DdTkVVMAY4O5GTCwps4b"
+    },
+    {
+      "album": {
         "name": "Once Again",
         "url": "https://open.spotify.com/album/2Vo614FBJLiGi1FOXp6L9x"
       },
@@ -10028,7 +10068,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 155520,
       "name": "Party Crashers",
       "url": "https://open.spotify.com/track/2gVxKVSXaj9AONYkw2AUZc"

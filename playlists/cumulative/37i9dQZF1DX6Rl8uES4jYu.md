@@ -4,7 +4,7 @@
 
 > This fun, upbeat playlist will help get you up and ready to start your day!
 
-447 songs - 1 day 0 hr 54 min
+448 songs - 1 day 0 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,6 +181,7 @@
 | [Guy I Used To Be](https://open.spotify.com/track/4dmNWxKKw0Me0uzgE7WIGT) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) | [Guy I Used To Be](https://open.spotify.com/album/4clPOxIV3bm5XheafZ24b7) | 3:48 | 2024-04-05 |  |
 | [Happy Days](https://open.spotify.com/track/1u8BiP9APkwKjtVb9L1z50) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Happy Days](https://open.spotify.com/album/7vOFsagJ42zKDY8mDR0krm) | 3:51 | 2020-11-13 | 2022-03-21 |
 | [head up in the clouds](https://open.spotify.com/track/58ARvD7EyLhMS2kbB1UAXQ) | [GARDENA](https://open.spotify.com/artist/0HjFA96a8v0dDyN58HGhrB), [Sajan Nauriyal](https://open.spotify.com/artist/2gJudBgAFdkmKegrBl0yT6) | [head up in the clouds](https://open.spotify.com/album/3U6Xy6GcypfSSm8AOYT3jH) | 4:32 | 2023-09-15 |  |
+| [HELLA BOY CRAZY](https://open.spotify.com/track/6MGXeJPWlv3enSLaIz2egy) | [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu) | [HELLA BOY CRAZY](https://open.spotify.com/album/1qdVwpG3yeKWXT36RhLZ26) | 2:14 | 2024-05-24 |  |
 | [High \(When I’m Low\)](https://open.spotify.com/track/1hCemip7lYfAnPSWRYyf0z) | [Dylan Chambers](https://open.spotify.com/artist/2jP4GO0BDgY15BqUcUVhG9), [Dave Koz](https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm), [LunchMoney Lewis](https://open.spotify.com/artist/2iUbk5KhZYZt4CRvWbwb7S) | [High \(When I’m Low\)](https://open.spotify.com/album/4bqPhRP8HDMoA6cO0GhO0W) | 2:48 | 2024-03-01 |  |
 | [Higher](https://open.spotify.com/track/7KMIMHMUV8kZJmeX8F7zuN) | [Melle Jutte](https://open.spotify.com/artist/29NcmXvID0g9FtDLTvTrxZ), [Calundé](https://open.spotify.com/artist/4cNiCiyVjl5qDdJYqiuxxX) | [Higher](https://open.spotify.com/album/2FGydD8obP61PUKLoFXFL9) | 3:34 | 2021-06-04 | 2022-07-30 |
 | [Home Improvement](https://open.spotify.com/track/17O5F0I7FZJ009c9aKtWRo) | [Brasstracks](https://open.spotify.com/artist/5sKvgmG84C0bIMWeS2SRPr), [Rothstein](https://open.spotify.com/artist/0Qta34kIeeonfyC692s5b8) | [Indigo](https://open.spotify.com/album/7hwvmVx9NHOAmRHFgWZpe4) | 1:57 | 2023-06-02 |  |
@@ -336,7 +337,7 @@
 | [Slush](https://open.spotify.com/track/65G9ljHILZ3jYtQwnBIWSt) | [Royce Wood Junior](https://open.spotify.com/artist/681N6DCEDKu6miVIUE4MrT) | [Slush](https://open.spotify.com/album/5WI4Iwq4M6g4enr4ZCUozH) | 3:57 | 2021-09-21 | 2022-07-05 |
 | [Smile](https://open.spotify.com/track/3OZ812Wywu349zAw9zaYKh) | [Winston Surfshirt](https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh) | [Smile](https://open.spotify.com/album/5gN92MuecXEnWHhf2C3Amd) | 3:23 | 2020-11-13 | 2022-03-06 |
 | [SNOW](https://open.spotify.com/track/7MUKTjyG2zHN2tLaiTzBjf) | [FLY BOY JACK](https://open.spotify.com/artist/35GAPh9jdXm4l3KLXCBQFJ), [Jordan Dennis](https://open.spotify.com/artist/2iSbupdaMW303tk8tqdCv5), [Dallas Woods](https://open.spotify.com/artist/7AlRsfXxw5GcXNob86rgnH), [JUJO](https://open.spotify.com/artist/6lUuCxT476utVj3g9IUaFF) | [SNOW](https://open.spotify.com/album/6N1EWAyHaxsPxkVor08KSc) | 2:57 | 2022-09-09 | 2023-09-09 |
-| [So Special](https://open.spotify.com/track/2yYj4A83qox4a2SBAE6a3t) | [Citizen Queen](https://open.spotify.com/artist/2z7BqfKvVlkr8KVAOTBKcz) | [So Special](https://open.spotify.com/album/5CIv2KGq1JvtcuNI584N1i) | 2:41 | 2023-03-03 |  |
+| [So Special](https://open.spotify.com/track/2yYj4A83qox4a2SBAE6a3t) | [Citizen Queen](https://open.spotify.com/artist/2z7BqfKvVlkr8KVAOTBKcz) | [So Special](https://open.spotify.com/album/5CIv2KGq1JvtcuNI584N1i) | 2:41 | 2023-03-03 | 2024-05-25 |
 | [Softest Touch](https://open.spotify.com/track/42QLP7Z6KvkOV7vYr8RaLD) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Softest Touch](https://open.spotify.com/album/3DZd5Fvl7UuxgMT0FXwsUi) | 2:44 | 2023-03-31 |  |
 | [Some Kind of Happy](https://open.spotify.com/track/4MUUeP1sB9aPT4IG45lLIg) | [Dylan Chambers](https://open.spotify.com/artist/2jP4GO0BDgY15BqUcUVhG9) | [Some Kind of Happy](https://open.spotify.com/album/0Aki6726TFTxqdhaucQqoj) | 3:22 | 2021-03-12 | 2022-07-29 |
 | [Somebody Like Me \(feat\. Brasstracks\)](https://open.spotify.com/track/0MiywregjNJedadEvRcVDU) | [Jak Lizard](https://open.spotify.com/artist/1fSVQsyT52lNgeTUza3oH5), [Brasstracks](https://open.spotify.com/artist/5sKvgmG84C0bIMWeS2SRPr) | [Humphrey](https://open.spotify.com/album/0x6A6RLnaqf1L5YPmldoEF) | 3:08 | 2020-11-20 | 2022-03-26 |

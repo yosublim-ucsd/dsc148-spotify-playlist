@@ -1,6 +1,6 @@
 {
   "description": "\u4e16\u754c\u4e2d\u306e\u30ed\u30c3\u30af\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u8a71\u984c\u66f2\u3092\u30c1\u30a7\u30c3\u30af\u3002Cover: Bring Me the Horizon",
-  "num_followers": 47175,
+  "num_followers": 47177,
   "original_name": "Rock The World",
   "owner": {
     "name": "Spotify",
@@ -935,6 +935,22 @@
     {
       "added_at": "2024-05-23 15:00:00",
       "album": {
+        "name": "Neon Pill",
+        "url": "https://open.spotify.com/album/2dGlEut1TyhAyApZ0ADIsd"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "duration_ms": 195760,
+      "name": "Rainbow",
+      "url": "https://open.spotify.com/track/6buQeGlk47QiPVoPObaZ7x"
+    },
+    {
+      "added_at": "2024-05-23 15:00:00",
+      "album": {
         "name": "You Won't Go Before You're Supposed To",
         "url": "https://open.spotify.com/album/2sLBMdUF5HYNB0voqWs4K3"
       },
@@ -959,22 +975,6 @@
     {
       "added_at": "2024-05-23 15:00:00",
       "album": {
-        "name": "Metaverse",
-        "url": "https://open.spotify.com/album/6Ae0axgHydUkFfR4IIs8Up"
-      },
-      "artists": [
-        {
-          "name": "Cage The Elephant",
-          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
-        }
-      ],
-      "duration_ms": 134373,
-      "name": "Metaverse",
-      "url": "https://open.spotify.com/track/56awJyqhhuQW0p0bu1yTCo"
-    },
-    {
-      "added_at": "2024-05-23 15:00:00",
-      "album": {
         "name": "hummingbird",
         "url": "https://open.spotify.com/album/3UYJbvUYlO9bx4DEoV3XZW"
       },
@@ -995,22 +995,6 @@
     {
       "added_at": "2024-05-23 15:00:00",
       "album": {
-        "name": "Blame My Ex",
-        "url": "https://open.spotify.com/album/1a5idDFSq90ej8CzQC7YDc"
-      },
-      "artists": [
-        {
-          "name": "The Beaches",
-          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
-        }
-      ],
-      "duration_ms": 160244,
-      "name": "Edge of the Earth",
-      "url": "https://open.spotify.com/track/4Zy6m1QjUivLl8Zt7E8uxr"
-    },
-    {
-      "added_at": "2024-05-23 15:00:00",
-      "album": {
         "name": "PSYCHO",
         "url": "https://open.spotify.com/album/453RlEBiL47ArcRDW2PwUd"
       },
@@ -1023,6 +1007,54 @@
       "duration_ms": 198748,
       "name": "PSYCHO",
       "url": "https://open.spotify.com/track/1CwXFT3pDiMCPmvv3Ohfli"
+    },
+    {
+      "added_at": "2024-05-23 15:00:00",
+      "album": {
+        "name": "The Craving (single version)",
+        "url": "https://open.spotify.com/album/7K7eWZNR5t9UBlrN2ltzLI"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "duration_ms": 173866,
+      "name": "The Craving (single version)",
+      "url": "https://open.spotify.com/track/0S7lkKStHgfgjgwSFOvRNA"
+    },
+    {
+      "added_at": "2024-05-23 15:00:00",
+      "album": {
+        "name": "Metaverse",
+        "url": "https://open.spotify.com/album/6Ae0axgHydUkFfR4IIs8Up"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "duration_ms": 134373,
+      "name": "Metaverse",
+      "url": "https://open.spotify.com/track/56awJyqhhuQW0p0bu1yTCo"
+    },
+    {
+      "added_at": "2024-05-23 15:00:00",
+      "album": {
+        "name": "Blame My Ex",
+        "url": "https://open.spotify.com/album/1a5idDFSq90ej8CzQC7YDc"
+      },
+      "artists": [
+        {
+          "name": "The Beaches",
+          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
+        }
+      ],
+      "duration_ms": 160244,
+      "name": "Edge of the Earth",
+      "url": "https://open.spotify.com/track/4Zy6m1QjUivLl8Zt7E8uxr"
     },
     {
       "added_at": "2024-05-23 15:00:00",
@@ -1059,38 +1091,6 @@
     {
       "added_at": "2024-05-23 15:00:00",
       "album": {
-        "name": "Burning Down the House",
-        "url": "https://open.spotify.com/album/4zJNGGmaY5E5E5i1t2m2Ek"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 218093,
-      "name": "Burning Down the House",
-      "url": "https://open.spotify.com/track/3pRCHHfwYNVCOjWSrkGNw1"
-    },
-    {
-      "added_at": "2024-05-23 15:00:00",
-      "album": {
-        "name": "Neon Pill",
-        "url": "https://open.spotify.com/album/2dGlEut1TyhAyApZ0ADIsd"
-      },
-      "artists": [
-        {
-          "name": "Cage The Elephant",
-          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
-        }
-      ],
-      "duration_ms": 195760,
-      "name": "Rainbow",
-      "url": "https://open.spotify.com/track/6buQeGlk47QiPVoPObaZ7x"
-    },
-    {
-      "added_at": "2024-05-23 15:00:00",
-      "album": {
         "name": "Lacrimosa",
         "url": "https://open.spotify.com/album/7aicWqRCVMzEdYerhhFywp"
       },
@@ -1103,6 +1103,38 @@
       "duration_ms": 361978,
       "name": "Lacrimosa",
       "url": "https://open.spotify.com/track/5N1AoYTWihbPJTsKJYI30c"
+    },
+    {
+      "added_at": "2024-05-23 15:00:00",
+      "album": {
+        "name": "ROCKSTAR",
+        "url": "https://open.spotify.com/album/3vCjG6V4zutlCWvVPQFzbl"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 194341,
+      "name": "ROCKSTAR",
+      "url": "https://open.spotify.com/track/5jhY1n1cTKSxx8lEujMcAS"
+    },
+    {
+      "added_at": "2024-05-23 15:00:00",
+      "album": {
+        "name": "Burning Down the House",
+        "url": "https://open.spotify.com/album/4zJNGGmaY5E5E5i1t2m2Ek"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 218093,
+      "name": "Burning Down the House",
+      "url": "https://open.spotify.com/track/3pRCHHfwYNVCOjWSrkGNw1"
     },
     {
       "added_at": "2024-05-23 15:00:00",
@@ -1139,6 +1171,22 @@
     {
       "added_at": "2024-05-23 15:00:00",
       "album": {
+        "name": "Living Proof",
+        "url": "https://open.spotify.com/album/033ib5SQJwXO1IXLPUXfuA"
+      },
+      "artists": [
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        }
+      ],
+      "duration_ms": 219346,
+      "name": "Living Proof",
+      "url": "https://open.spotify.com/track/3vkoTOfHvOGyVSK4PNpebV"
+    },
+    {
+      "added_at": "2024-05-23 15:00:00",
+      "album": {
         "name": "Ohio Players",
         "url": "https://open.spotify.com/album/4Tdem6pnui14BlWLCB4VrI"
       },
@@ -1167,38 +1215,6 @@
       "duration_ms": 233853,
       "name": "SPECIALZ",
       "url": "https://open.spotify.com/track/5oQpH1uuZte4axR411rIlN"
-    },
-    {
-      "added_at": "2024-05-23 15:00:00",
-      "album": {
-        "name": "ROCKSTAR",
-        "url": "https://open.spotify.com/album/3vCjG6V4zutlCWvVPQFzbl"
-      },
-      "artists": [
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 194341,
-      "name": "ROCKSTAR",
-      "url": "https://open.spotify.com/track/5jhY1n1cTKSxx8lEujMcAS"
-    },
-    {
-      "added_at": "2024-05-23 15:00:00",
-      "album": {
-        "name": "Living Proof",
-        "url": "https://open.spotify.com/album/033ib5SQJwXO1IXLPUXfuA"
-      },
-      "artists": [
-        {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
-        }
-      ],
-      "duration_ms": 219346,
-      "name": "Living Proof",
-      "url": "https://open.spotify.com/track/3vkoTOfHvOGyVSK4PNpebV"
     },
     {
       "added_at": "2024-05-23 15:00:00",
@@ -1331,6 +1347,22 @@
     {
       "added_at": "2024-05-23 15:00:00",
       "album": {
+        "name": "Nothing To Do",
+        "url": "https://open.spotify.com/album/5YoeeJL0Ks1sYbc79jOBO7"
+      },
+      "artists": [
+        {
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+        }
+      ],
+      "duration_ms": 175091,
+      "name": "Nothing To Do",
+      "url": "https://open.spotify.com/track/2Eza3ko1jcN2xkm6BkeUM4"
+    },
+    {
+      "added_at": "2024-05-23 15:00:00",
+      "album": {
         "name": "Troubleshooting",
         "url": "https://open.spotify.com/album/26ogXm7X0kUSidtoaQVBei"
       },
@@ -1367,18 +1399,18 @@
     {
       "added_at": "2024-05-23 15:00:00",
       "album": {
-        "name": "Nothing To Do",
-        "url": "https://open.spotify.com/album/5YoeeJL0Ks1sYbc79jOBO7"
+        "name": "Coming Back To Me Good",
+        "url": "https://open.spotify.com/album/50qGjQfFPahaiJBDdVS8hE"
       },
       "artists": [
         {
-          "name": "Kings of Leon",
-          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+          "name": "Kasabian",
+          "url": "https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue"
         }
       ],
-      "duration_ms": 175091,
-      "name": "Nothing To Do",
-      "url": "https://open.spotify.com/track/2Eza3ko1jcN2xkm6BkeUM4"
+      "duration_ms": 169568,
+      "name": "Coming Back To Me Good",
+      "url": "https://open.spotify.com/track/3ffFwRkfTvWJ0sXNYQcUZS"
     },
     {
       "added_at": "2024-05-23 15:00:00",
@@ -1399,22 +1431,6 @@
     {
       "added_at": "2024-05-23 15:00:00",
       "album": {
-        "name": "Coming Back To Me Good",
-        "url": "https://open.spotify.com/album/50qGjQfFPahaiJBDdVS8hE"
-      },
-      "artists": [
-        {
-          "name": "Kasabian",
-          "url": "https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue"
-        }
-      ],
-      "duration_ms": 169568,
-      "name": "Coming Back To Me Good",
-      "url": "https://open.spotify.com/track/3ffFwRkfTvWJ0sXNYQcUZS"
-    },
-    {
-      "added_at": "2024-05-23 15:00:00",
-      "album": {
         "name": "Human",
         "url": "https://open.spotify.com/album/2Mr2fNS6Jz0dGUA7hR6lNR"
       },
@@ -1427,6 +1443,26 @@
       "duration_ms": 211000,
       "name": "Human - Single Version",
       "url": "https://open.spotify.com/track/5cHjWKnwhdfj1z7pSJJ4uD"
+    },
+    {
+      "added_at": "2024-05-23 15:00:00",
+      "album": {
+        "name": "ANGEL SONG (feat. David Draiman)",
+        "url": "https://open.spotify.com/album/3xG14XU3wjw2wYCwDPvx11"
+      },
+      "artists": [
+        {
+          "name": "NOTHING MORE",
+          "url": "https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc"
+        },
+        {
+          "name": "David Draiman",
+          "url": "https://open.spotify.com/artist/74uyCKYpif9tOA7iWvXlj1"
+        }
+      ],
+      "duration_ms": 186905,
+      "name": "ANGEL SONG (feat. David Draiman)",
+      "url": "https://open.spotify.com/track/2P8gpYwOOL37vKoDqCFXS9"
     },
     {
       "added_at": "2024-05-23 15:00:00",
@@ -1447,6 +1483,22 @@
     {
       "added_at": "2024-05-23 15:00:00",
       "album": {
+        "name": "Both Ways",
+        "url": "https://open.spotify.com/album/3eh5lPgtVovNYkSdGlRi5I"
+      },
+      "artists": [
+        {
+          "name": "The Script",
+          "url": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
+        }
+      ],
+      "duration_ms": 186779,
+      "name": "Both Ways",
+      "url": "https://open.spotify.com/track/1iZhzsEoPfULMJFSOJcxYK"
+    },
+    {
+      "added_at": "2024-05-23 15:00:00",
+      "album": {
         "name": "WHAT THE HELL",
         "url": "https://open.spotify.com/album/3ipWal9rIQJcZHztmB8tLQ"
       },
@@ -1459,22 +1511,6 @@
       "duration_ms": 172604,
       "name": "WHAT THE HELL",
       "url": "https://open.spotify.com/track/7fjd7XOn6Bp8PMNdp7YZDO"
-    },
-    {
-      "added_at": "2024-05-23 15:00:00",
-      "album": {
-        "name": "The Craving (single version)",
-        "url": "https://open.spotify.com/album/7K7eWZNR5t9UBlrN2ltzLI"
-      },
-      "artists": [
-        {
-          "name": "Twenty One Pilots",
-          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
-        }
-      ],
-      "duration_ms": 173866,
-      "name": "The Craving (single version)",
-      "url": "https://open.spotify.com/track/0S7lkKStHgfgjgwSFOvRNA"
     },
     {
       "added_at": "2024-05-23 15:00:00",
@@ -1527,42 +1563,6 @@
     {
       "added_at": "2024-05-23 15:00:00",
       "album": {
-        "name": "ANGEL SONG (feat. David Draiman)",
-        "url": "https://open.spotify.com/album/3xG14XU3wjw2wYCwDPvx11"
-      },
-      "artists": [
-        {
-          "name": "NOTHING MORE",
-          "url": "https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc"
-        },
-        {
-          "name": "David Draiman",
-          "url": "https://open.spotify.com/artist/74uyCKYpif9tOA7iWvXlj1"
-        }
-      ],
-      "duration_ms": 186905,
-      "name": "ANGEL SONG (feat. David Draiman)",
-      "url": "https://open.spotify.com/track/2P8gpYwOOL37vKoDqCFXS9"
-    },
-    {
-      "added_at": "2024-05-23 15:00:00",
-      "album": {
-        "name": "Both Ways",
-        "url": "https://open.spotify.com/album/3eh5lPgtVovNYkSdGlRi5I"
-      },
-      "artists": [
-        {
-          "name": "The Script",
-          "url": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
-        }
-      ],
-      "duration_ms": 186779,
-      "name": "Both Ways",
-      "url": "https://open.spotify.com/track/1iZhzsEoPfULMJFSOJcxYK"
-    },
-    {
-      "added_at": "2024-05-23 15:00:00",
-      "album": {
         "name": "Wasteland, Baby! (Special Edition)",
         "url": "https://open.spotify.com/album/4qpvDzPCm5PLNLNINaEWM5"
       },
@@ -1575,22 +1575,6 @@
       "duration_ms": 248333,
       "name": "Why Would You Be Loved",
       "url": "https://open.spotify.com/track/378Ufdm9Bq9SjWRQ6d4jn1"
-    },
-    {
-      "added_at": "2024-05-23 15:00:00",
-      "album": {
-        "name": "STRAY / SAD OCTOBER",
-        "url": "https://open.spotify.com/album/1RQRIpDcdE828hNQ8bpQsT"
-      },
-      "artists": [
-        {
-          "name": "jxdn",
-          "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
-        }
-      ],
-      "duration_ms": 153603,
-      "name": "STRAY",
-      "url": "https://open.spotify.com/track/7MCtZJoabikk4AVQp8o6rP"
     },
     {
       "added_at": "2024-05-23 15:00:00",
@@ -1627,6 +1611,22 @@
     {
       "added_at": "2024-05-23 15:00:00",
       "album": {
+        "name": "Just My Type",
+        "url": "https://open.spotify.com/album/1FrfBppniPQH42IpFBBgAh"
+      },
+      "artists": [
+        {
+          "name": "Palaye Royale",
+          "url": "https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI"
+        }
+      ],
+      "duration_ms": 185642,
+      "name": "Just My Type",
+      "url": "https://open.spotify.com/track/3U2fxzzmfG6IubKrvXbWr8"
+    },
+    {
+      "added_at": "2024-05-23 15:00:00",
+      "album": {
         "name": "Long Yellow Dress",
         "url": "https://open.spotify.com/album/5cDUm4xijWkKovh69cUL3H"
       },
@@ -1643,18 +1643,18 @@
     {
       "added_at": "2024-05-23 15:00:00",
       "album": {
-        "name": "Just My Type",
-        "url": "https://open.spotify.com/album/1FrfBppniPQH42IpFBBgAh"
+        "name": "STRAY / SAD OCTOBER",
+        "url": "https://open.spotify.com/album/1RQRIpDcdE828hNQ8bpQsT"
       },
       "artists": [
         {
-          "name": "Palaye Royale",
-          "url": "https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI"
+          "name": "jxdn",
+          "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
         }
       ],
-      "duration_ms": 185642,
-      "name": "Just My Type",
-      "url": "https://open.spotify.com/track/3U2fxzzmfG6IubKrvXbWr8"
+      "duration_ms": 153603,
+      "name": "STRAY",
+      "url": "https://open.spotify.com/track/7MCtZJoabikk4AVQp8o6rP"
     },
     {
       "added_at": "2024-05-23 15:00:00",

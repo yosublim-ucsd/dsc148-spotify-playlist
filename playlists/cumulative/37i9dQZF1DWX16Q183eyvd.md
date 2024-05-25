@@ -4,12 +4,12 @@
 
 > Push play on the coolest playlist around, and get ready to jump around\. Cover: Gracie's Corner
 
-140 songs - 6 hr 39 min
+141 songs - 6 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1 Times Tables \(TI Style\)](https://open.spotify.com/track/4UAdHXcCnQFmdqaRUsnA2a) | [Multiplication Hip Hop For Kids](https://open.spotify.com/artist/661nGSGFdpxESwfUkaaLEL) | [Multiplication Times Tables \- 2 Pac, Biggie, & TI Style](https://open.spotify.com/album/7J2JwQSMGuY513Bo3lDGjc) | 3:22 | 2021-11-19 | 2024-01-30 |
-| [10 In The Bed \(Roll Over\)](https://open.spotify.com/track/0JMGdZigXqHJ1kiHtWKGFk) | [Jools TV](https://open.spotify.com/artist/7ssReBmPT2Ls9U8lAHTSJN) | [10 In The Bed \(Roll Over\)](https://open.spotify.com/album/0piivjD8vMJps0eZI8PbHZ) | 2:46 | 2024-04-12 |  |
+| [10 In The Bed \(Roll Over\)](https://open.spotify.com/track/0JMGdZigXqHJ1kiHtWKGFk) | [Jools TV](https://open.spotify.com/artist/7ssReBmPT2Ls9U8lAHTSJN) | [10 In The Bed \(Roll Over\)](https://open.spotify.com/album/0piivjD8vMJps0eZI8PbHZ) | 2:46 | 2024-04-12 | 2024-05-25 |
 | [2 Times Tables \(Biggie Style\)](https://open.spotify.com/track/6pFoYMv2aU4aBORxa4UrIz) | [Multiplication Hip Hop For Kids](https://open.spotify.com/artist/661nGSGFdpxESwfUkaaLEL) | [Multiplication Times Tables \- 2 Pac, Biggie, & TI Style](https://open.spotify.com/album/7J2JwQSMGuY513Bo3lDGjc) | 4:49 | 2021-11-19 | 2024-01-31 |
 | [ABC You A G](https://open.spotify.com/track/0WJRF99Adva94LORA1Cyud) | [Pierce Freelon](https://open.spotify.com/artist/49DZXXkpkkpbrEsEaMKuKG), [Nnenna Freelon](https://open.spotify.com/artist/4WkgNR9kn136k50T4pc7RS), [Stella Freelon](https://open.spotify.com/artist/07a4pfP7i1yw280o7TWBCk) | [AnceStars](https://open.spotify.com/album/64aREOj3hb0pCmJzTSxTXc) | 1:53 | 2024-01-30 |  |
 | [Affirmation Alphabets](https://open.spotify.com/track/23EL7i3uZgzPROoD1NYL4b) | [Phonicsman](https://open.spotify.com/artist/3uBROWn3YUw9MweORiLbFI) | [Affirmation Alphabets](https://open.spotify.com/album/2fNNnhBbvYqbNTnubH9iiC) | 5:08 | 2024-01-30 |  |
@@ -114,6 +114,7 @@
 | [Safari](https://open.spotify.com/track/0qaUiV6xlTRYqQZ2332Qsh) | [Eek\-A\-Mouse](https://open.spotify.com/artist/6xqlgBccdlxUh5DeJSx2ho) | [Reggae for Kids](https://open.spotify.com/album/76ttmB1eG7cD2riXBBYBCW) | 3:23 | 2021-11-19 | 2023-11-04 |
 | [Safari](https://open.spotify.com/track/1Cz147uNA3JuLlaF60TP5K) | [Eek\-A\-Mouse](https://open.spotify.com/artist/6xqlgBccdlxUh5DeJSx2ho) | [Mouse\-A\-Mania](https://open.spotify.com/album/1XHsqic4Jn9koJxkRYwVNw) | 3:25 | 2023-10-10 | 2024-01-31 |
 | [Shake Ya Tailfeather](https://open.spotify.com/track/2t3ZxwOLtpRYxctPbXRRns) | [Giggle Club](https://open.spotify.com/artist/0VXTiAhwelyAgBsxbbinnf) | [Kids Rap Radio](https://open.spotify.com/album/3rVTfED6gnKVwhU7VEf6y5) | 3:58 | 2021-11-19 | 2024-01-31 |
+| [Share With A Friend](https://open.spotify.com/track/3H9Ua2hhkeuNnWcxdM2qbg) | [Jools TV](https://open.spotify.com/artist/7ssReBmPT2Ls9U8lAHTSJN) | [Share With A Friend](https://open.spotify.com/album/0eJvpFoxe5FN1k2YffWTWE) | 2:00 | 2024-05-24 |  |
 | [Shine Bright](https://open.spotify.com/track/0vky4YTaxSuGlnSPjpWHt1) | [Super Siah](https://open.spotify.com/artist/36s30oXmxBFCjVoJLiOY9P) | [Shine Bright](https://open.spotify.com/album/7xpTudRq1jnZtbsJKaVxsK) | 1:47 | 2024-01-30 |  |
 | [Sloth Song](https://open.spotify.com/track/4sub7oxrLD24rxycmqH3c6) | [Cooltime](https://open.spotify.com/artist/5Cx0MO39eG4ElGaD1juoZQ) | [Sloth Song](https://open.spotify.com/album/1CRGwitVzCfM6ruhkkCUjY) | 2:40 | 2024-03-01 |  |
 | [SUBS](https://open.spotify.com/track/6pwCquNMHo4z4gFJDSPgMd) | [GoNoodle](https://open.spotify.com/artist/13QcQR3aMDTgC8jdNqSx4f), [Blazer Fresh](https://open.spotify.com/artist/4pgIT5fWtcmcMm0YqPDEV0) | [Straight Outta Recess](https://open.spotify.com/album/4Hjyjf2kPHQRQ0GtMaunye) | 2:09 | 2024-02-02 |  |

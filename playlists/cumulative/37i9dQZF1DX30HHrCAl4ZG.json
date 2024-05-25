@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Explore all things indie rock right now. Featuring music from Rainbow Kitten Surprise",
+  "description": "Explore all things indie rock right now. Featuring music from Dehd",
   "name": "Today's Indie Rock",
   "tracks": [
     {
@@ -2032,7 +2032,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 210904,
       "name": "Bad Dream",
       "url": "https://open.spotify.com/track/4G7LYlnVgPWVmjXERE8NnB"
@@ -3002,6 +3002,24 @@
       "duration_ms": 182773,
       "name": "BLOOM",
       "url": "https://open.spotify.com/track/1hXG79pd6Iap7RgjJWUGpO"
+    },
+    {
+      "album": {
+        "name": "bloom",
+        "url": "https://open.spotify.com/album/2IAfoNDtDi2F4cLoXfLx52"
+      },
+      "artists": [
+        {
+          "name": "Sjowgren",
+          "url": "https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250626,
+      "name": "bloom",
+      "url": "https://open.spotify.com/track/3u0eQFJsVwdvsNuXpN69LL"
     },
     {
       "album": {
@@ -8388,7 +8406,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 205240,
       "name": "Excalibur",
       "url": "https://open.spotify.com/track/2Y2nA9IKV1wFPNdzQe116n"
@@ -9728,7 +9746,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 237466,
       "name": "Frog In Boiling Water",
       "url": "https://open.spotify.com/track/0JAxbxS5Hd2N7g8Sd01eq3"
@@ -11754,6 +11772,24 @@
       "duration_ms": 162570,
       "name": "I Could Never Stay Mad at You",
       "url": "https://open.spotify.com/track/0c7X02GyiWb35Iw9LVRyqd"
+    },
+    {
+      "album": {
+        "name": "I Do It For Me",
+        "url": "https://open.spotify.com/album/0cEoKYAexz3fdPSaTcLdyq"
+      },
+      "artists": [
+        {
+          "name": "GRLwood",
+          "url": "https://open.spotify.com/artist/0yrzVTuk6PgF51NYgfgKXe"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178346,
+      "name": "I Do It For Me",
+      "url": "https://open.spotify.com/track/6rQyI3yYE6gBDs1anWPN3Z"
     },
     {
       "album": {
@@ -14786,7 +14822,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 160838,
       "name": "Lost Boys",
       "url": "https://open.spotify.com/track/14RHVhgK4QxsOCQcu4R1Q3"
@@ -15003,6 +15039,24 @@
     },
     {
       "album": {
+        "name": "LOVEBITES",
+        "url": "https://open.spotify.com/album/4gHjIxAYsDLd6gAWcwNod7"
+      },
+      "artists": [
+        {
+          "name": "Lava La Rue",
+          "url": "https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212500,
+      "name": "LOVEBITES",
+      "url": "https://open.spotify.com/track/5Qmabe5M68D39yD3ie9dum"
+    },
+    {
+      "album": {
         "name": "Low Era",
         "url": "https://open.spotify.com/album/1TBlTbuSKgZ0YBY0AoU7yQ"
       },
@@ -15058,6 +15112,24 @@
       "duration_ms": 243440,
       "name": "Lucky",
       "url": "https://open.spotify.com/track/6mTrJCo3VOX1ch8vBOthH5"
+    },
+    {
+      "album": {
+        "name": "Lucy Takes a Picture",
+        "url": "https://open.spotify.com/album/1dQQ661oLGGtZ1fC1dj6dx"
+      },
+      "artists": [
+        {
+          "name": "Youth Lagoon",
+          "url": "https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259131,
+      "name": "Lucy Takes a Picture",
+      "url": "https://open.spotify.com/track/20vW1Ew2jU6mgOFrRZhUdN"
     },
     {
       "album": {
@@ -15732,7 +15804,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 211252,
       "name": "Memory Loss",
       "url": "https://open.spotify.com/track/6qnETnA4VJJi5TJKSuk6qK"
@@ -16194,7 +16266,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 164819,
       "name": "MONKI",
       "url": "https://open.spotify.com/track/30eZI7pnpdWKgk1UmUAxoF"
@@ -16374,7 +16446,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 236426,
       "name": "Mother Nature",
       "url": "https://open.spotify.com/track/3kC6EmjBbLcnv1aAsAEGPP"
@@ -18038,7 +18110,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 162470,
       "name": "Over Again",
       "url": "https://open.spotify.com/track/54wd5JxagBtas3CQOkj0gG"
@@ -19159,6 +19231,24 @@
     },
     {
       "album": {
+        "name": "Pumpkin",
+        "url": "https://open.spotify.com/album/6b5OV9K1FhzSTREVtpy8hs"
+      },
+      "artists": [
+        {
+          "name": "Been Stellar",
+          "url": "https://open.spotify.com/artist/3ep1YmatQ8L9UKCGYiJNBh"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257920,
+      "name": "Pumpkin",
+      "url": "https://open.spotify.com/track/1IQx5nJcdso6KsMloQSWza"
+    },
+    {
+      "album": {
         "name": "Punching Bag",
         "url": "https://open.spotify.com/album/5btTgXXIZWCd7oAnToE1pl"
       },
@@ -19318,6 +19408,24 @@
       "duration_ms": 195760,
       "name": "Rainbow",
       "url": "https://open.spotify.com/track/6buQeGlk47QiPVoPObaZ7x"
+    },
+    {
+      "album": {
+        "name": "Raining On Your Pillow",
+        "url": "https://open.spotify.com/album/35uymqTjUrltGX52KHDns8"
+      },
+      "artists": [
+        {
+          "name": "DIIV",
+          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233000,
+      "name": "Raining On Your Pillow",
+      "url": "https://open.spotify.com/track/29ghl4sckPwUAv11krSaBg"
     },
     {
       "album": {
@@ -20834,7 +20942,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 280016,
       "name": "Showtime",
       "url": "https://open.spotify.com/track/0YLhxYUv69go9H8iirbSWO"
@@ -22966,6 +23074,24 @@
       "duration_ms": 133050,
       "name": "Sweet Tooth",
       "url": "https://open.spotify.com/track/5dtgtmWdO4pOASLQdOfWSr"
+    },
+    {
+      "album": {
+        "name": "Swell blue",
+        "url": "https://open.spotify.com/album/7sFOT66j6WXgZqn1Yh2OIr"
+      },
+      "artists": [
+        {
+          "name": "60 juno",
+          "url": "https://open.spotify.com/artist/6BMp2cQhN9C3Vl8PLzLvw9"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181504,
+      "name": "Swell blue",
+      "url": "https://open.spotify.com/track/1eNqSVl5fEn6l9I9w0JBFJ"
     },
     {
       "album": {
@@ -25582,10 +25708,28 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 192127,
       "name": "Vampire Empire",
       "url": "https://open.spotify.com/track/0ToG55iJZCOzZkcpWbXxpW"
+    },
+    {
+      "album": {
+        "name": "Vanishing Point / Barefoot",
+        "url": "https://open.spotify.com/album/1awkhz2kzBXmKHivY5gXB3"
+      },
+      "artists": [
+        {
+          "name": "Tanlines",
+          "url": "https://open.spotify.com/artist/7pW390CJdmhakvtcGZIqGP"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193018,
+      "name": "Vanishing Point",
+      "url": "https://open.spotify.com/track/6apUBRo4UDhHibOftiq0F9"
     },
     {
       "album": {
@@ -26811,6 +26955,24 @@
     },
     {
       "album": {
+        "name": "Wink",
+        "url": "https://open.spotify.com/album/2MzpjA3zHufCtB5MWdX6KZ"
+      },
+      "artists": [
+        {
+          "name": "Horse Jumper of Love",
+          "url": "https://open.spotify.com/artist/6U1lmwvy3I9dIYu9RalJi6"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178933,
+      "name": "Wink",
+      "url": "https://open.spotify.com/track/5IgYoIjoRxfSuAr436g029"
+    },
+    {
+      "album": {
         "name": "Winona",
         "url": "https://open.spotify.com/album/29HNHTBfCETetrohUBXJxY"
       },
@@ -27298,6 +27460,24 @@
       "duration_ms": 212750,
       "name": "YKWIM?",
       "url": "https://open.spotify.com/track/2vWBUC9djv6BtiGlmKiQaH"
+    },
+    {
+      "album": {
+        "name": "You (Show Me Where My Days Went)",
+        "url": "https://open.spotify.com/album/6cN6j2Fr5vVCSZnWQyqSSs"
+      },
+      "artists": [
+        {
+          "name": "Wallows",
+          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167144,
+      "name": "You (Show Me Where My Days Went)",
+      "url": "https://open.spotify.com/track/3UIeiuDKnbhZ7OoXZ9j0U5"
     },
     {
       "album": {

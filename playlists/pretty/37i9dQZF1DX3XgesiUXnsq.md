@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XgesiUXnsq.md) - [plain]
 
 > Damn son, where'd ya find this?
 
-[Spotify](https://open.spotify.com/user/spotify) - 294,657 likes - 99 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 294,726 likes - 99 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XgesiUXnsq.md) - [plain]
 | 16 | [THE SAMURAI'S MONOLOGUE.](https://open.spotify.com/track/2T3eL2nVjkbdVOVbVi84Fj) | [jev.](https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF) | [THE SAMURAI'S MONOLOGUE.](https://open.spotify.com/album/4HAGH15IhcCaqgHotxfoKk) | 2:10 |
 | 17 | [Twinz \(feat\. Fat Joe\)](https://open.spotify.com/track/0B8drtTSp68pZdkmVrG9ZA) | [Big Pun](https://open.spotify.com/artist/2Xu7q46Hf02xOoEIm4E1Qs), [Fat Joe](https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6) | [Capital Punishment](https://open.spotify.com/album/3IIHk2ZLXKWuVAjCbQ9g4Y) | 3:48 |
 | 18 | [WEARY](https://open.spotify.com/track/2ZZbZZmUVqgdKLJdiOXmwp) | [Machinedrum](https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4), [Jesse Boykins III](https://open.spotify.com/artist/7N3L5HZxQqxWSfhrrTNI29), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [WEARY](https://open.spotify.com/album/6TwZUO3jqcX5SGJlh1FLXQ) | 2:18 |
-| 19 | [Julie](https://open.spotify.com/track/6So6e4dD5bMm9beIswtUtx) | [Mike Shabb](https://open.spotify.com/artist/6neEhK0FxJha78nD9giAjW) | [Sewaside III](https://open.spotify.com/album/7cSs7eUdygnNWTOu8OW0cS) | 2:30 |
+| 19 | [Julie](https://open.spotify.com/track/6So6e4dD5bMm9beIswtUtx) | [Mike Shabb](https://open.spotify.com/artist/76SkgDqq9mIavOoqDfn9rJ) | [Sewaside III](https://open.spotify.com/album/7cSs7eUdygnNWTOu8OW0cS) | 2:30 |
 | 20 | [Mercedez](https://open.spotify.com/track/0wlckRqDjrNoD78B3frNrN) | [Troy Ave](https://open.spotify.com/artist/3cvKNz7BwIY404XtZ5tpUW) | [Mercedez](https://open.spotify.com/album/5RKlFF38uJeUOTYcGMmXLo) | 1:54 |
 | 21 | [That's All, That's It](https://open.spotify.com/track/3rbiKvmWjsDcuEobPjVOuY) | [Danny Miles](https://open.spotify.com/artist/4gKUbrpi04oVG9zEGaAuxi), [Shad](https://open.spotify.com/artist/15lOM8PWY9pXQoURZwSZlK) | [That's All, That's It](https://open.spotify.com/album/1oalRkbONNcLrFFN7jDfvG) | 2:49 |
 | 22 | [A.D.H.D](https://open.spotify.com/track/2Fw5S2gaOSZzdN5dFoC2dj) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Section.80](https://open.spotify.com/album/1bkN9nIkkCnXeG4yitVS1J) | 3:35 |

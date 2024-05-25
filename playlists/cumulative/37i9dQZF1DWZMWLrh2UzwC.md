@@ -2,9 +2,9 @@
 
 ### [New Music Friday Malaysia](https://open.spotify.com/playlist/37i9dQZF1DWZMWLrh2UzwC)
 
-> The best newly released songs of the week.
+> The best newly released songs of the week\. Cover: NewJeans
 
-10,693 songs - 24 day 9 hr 51 min
+10,696 songs - 24 day 10 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4024,6 +4024,7 @@
 | [How Long \- From"Euphoria" An HBO Original Series](https://open.spotify.com/track/05eZlxyjbkHMPCnunUasCS) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [How Long \(From "Euphoria" An HBO Original Series\)](https://open.spotify.com/album/7IneQ0ViJjz9UR0lisWJzJ) | 3:19 | 2022-01-27 | 2022-02-04 |
 | [How Many Times](https://open.spotify.com/track/4AXZYEXduIgEPps3nKbmpq) | [Jaime Wong](https://open.spotify.com/artist/6SzwY0WC15s1MJh3BO9xtz) | [I say too much](https://open.spotify.com/album/2uLHWaGWLAJWQr0Ka1HDrp) | 3:03 | 2022-09-15 | 2022-09-23 |
 | [How Soon](https://open.spotify.com/track/3xYN1E1k2yKo542ORTXM0G) | [ASTN](https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co) | [How Soon](https://open.spotify.com/album/4jdF1Zm7qKtorqthSwAokK) | 3:10 | 2023-04-27 | 2023-05-05 |
+| [How Sweet](https://open.spotify.com/track/38tXZcL1gZRfbqfOG0VMTH) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [How Sweet](https://open.spotify.com/album/0EhZEM4RRz0yioTgucDhJq) | 3:39 | 2024-05-23 |  |
 | [how sweet does this sound?](https://open.spotify.com/track/4JiFapbeuEUnoyyy6JQdlO) | [a kid named rufus](https://open.spotify.com/artist/7K6yjBaUgEaSFnjJMxLO4j) | [how sweet does this sound?](https://open.spotify.com/album/1itMip3QgwzDvtQjqGNS37) | 2:48 | 2023-06-08 | 2023-06-16 |
 | [How To Drive](https://open.spotify.com/track/4memBjRe8ZXDJha8grYdRm) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [How To Drive](https://open.spotify.com/album/6ztNIufAkZjQ7aadvJdTN0) | 3:39 | 2023-01-26 | 2023-02-03 |
 | [How To Go On](https://open.spotify.com/track/0orRPUR6XYEknr7oLFkk5w) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [How To Go On](https://open.spotify.com/album/0GzLiI9ZLKSztLSj6uzHwP) | 3:37 | 2024-05-16 | 2024-05-24 |
@@ -4638,6 +4639,7 @@
 | [It′ll Be Alright](https://open.spotify.com/track/4xrLFswrUOP8MHJaTHHD8T) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [,and](https://open.spotify.com/album/5fJXjW9On6vPk1f58kMQNP) | 4:18 | 2022-10-27 | 2022-11-04 |
 | [It′s okay to get clothes wet](https://open.spotify.com/track/12wZT5qxYlbo4LawaFJ5su) | [Huckleberryfinn](https://open.spotify.com/artist/4HWH9BmIaKteAv5RmqWeZa) | [It's okay to get clothes wet 〈Sanullim's 50th anniversary collaboration album〉](https://open.spotify.com/album/6VWEljuETyA6NM2Rqyj19N) | 4:10 | 2024-03-07 | 2024-03-15 |
 | [Ivory](https://open.spotify.com/track/4jXvHTFGDPqfWml9bAhPYg) | [Sio Lubis](https://open.spotify.com/artist/6fzB3myUVKUDnUriIReh26), [Danesh Leonadi](https://open.spotify.com/artist/1k0wAlKAGHhKN6W3QeC52J) | [Ivory](https://open.spotify.com/album/3JoAY9aRx1P6iEkFQdaIwT) | 3:01 | 2023-09-14 | 2023-09-22 |
+| [IWALY](https://open.spotify.com/track/4SwXtg8jDejWX18zLsZwCO) | [I\-LAND2 : N/a](https://open.spotify.com/artist/5wA7TzIKrDqmlnEFk6t1y4) | [I\-LAND2 : N/a \- 1:1 POSITION BATTLE](https://open.spotify.com/album/7zjYgWfGErSNv1Zs2IGDGl) | 3:03 | 2024-05-23 |  |
 | [IYA.](https://open.spotify.com/track/3SBP53NRX6Rik4ufPlfrV8) | [Rhosy](https://open.spotify.com/artist/3lL6jMbIkYzyxsXn3TU7GK) | [IYA.](https://open.spotify.com/album/67nTFHJgJjVvQ73BLUjXhJ) | 4:08 | 2022-06-23 | 2022-07-01 |
 | [IYKYK](https://open.spotify.com/track/2z6NZZh2r69AOCydR2QlbM) | [Dominic Chin](https://open.spotify.com/artist/1fQk4DNRfj70qf362wV8GQ) | [IYKYK](https://open.spotify.com/album/2gyCbNvo2ecXPh99eq3Mtr) | 2:45 | 2022-09-22 | 2022-09-30 |
 | [iykyk](https://open.spotify.com/track/1WRZw10YFUGb9tZSLuvApB) | [Heiakim](https://open.spotify.com/artist/7CSdLmKke7VFyb0ZJfl3W1), [KJ Blosch](https://open.spotify.com/artist/5J2lPpIEb4wQnNQHkEhKsV) | [iykyk](https://open.spotify.com/album/2B8XJ5opYoC6XBiRQMQp7K) | 2:50 | 2023-05-11 | 2023-05-19 |
@@ -5332,6 +5334,7 @@
 | [Lost The Breakup](https://open.spotify.com/track/13SfKfixPEDQBOYYtaY3Wh) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Lost The Breakup](https://open.spotify.com/album/60trS6aUorLG5ZBi1bWcz8) | 3:09 | 2023-03-30 | 2023-04-07 |
 | [Lost Track](https://open.spotify.com/track/5Z8XoeUBjZngKO0NGWnAiS) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Lost Track](https://open.spotify.com/album/3HM2a6YdzuBPmDe5tTEV88) | 2:22 | 2022-03-03 | 2022-03-11 |
 | [Lost Without You \(with Dean Lewis\)](https://open.spotify.com/track/1eGW1YBT17a5G1hKPWrpW7) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Lost Without You \(with Dean Lewis\)](https://open.spotify.com/album/3aWYlSAu7ES9Hc9ATloTXI) | 3:23 | 2022-07-07 | 2022-07-15 |
+| [LOST!](https://open.spotify.com/track/02H58MSfVESkKyx4diDgu7) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Right Place, Wrong Person](https://open.spotify.com/album/512dQp7hBbDDurodCqSw5I) | 3:53 | 2024-05-23 |  |
 | [LOST!](https://open.spotify.com/track/7AOe2bLNTnBt09RkfrRudU) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [LOST!](https://open.spotify.com/album/1nMZef6fwTtOO1T3SBZDrI) | 2:06 | 2023-11-02 | 2023-11-10 |
 | [Lottery \(feat\. LU KALA\)](https://open.spotify.com/track/1JUtrCqYzJ80tcAzMbCvir) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [LU KALA](https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg) | [Lottery \(feat\. LU KALA\)](https://open.spotify.com/album/2cMtG6iuA7hXGNb4DHVql4) | 3:06 | 2023-02-16 | 2023-02-24 |
 | [LOTUS](https://open.spotify.com/track/6HkSylgCGtlAPF5noI0CUr) | [Jack Donn](https://open.spotify.com/artist/36hz4zHcALj3eLFbdNh6TS), [Henkar](https://open.spotify.com/artist/4KgJIBIlB3NvO6olLuJRl7) | [LOTUS](https://open.spotify.com/album/0PAyIddobjqAOBSoScnTr5) | 3:23 | 2022-03-03 | 2022-03-11 |

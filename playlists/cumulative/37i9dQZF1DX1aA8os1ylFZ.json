@@ -2139,6 +2139,24 @@
     },
     {
       "album": {
+        "name": "Double Tragedy",
+        "url": "https://open.spotify.com/album/5Knkg9Hx7EoJE4ZnLX7f8H"
+      },
+      "artists": [
+        {
+          "name": "Hailey Knox",
+          "url": "https://open.spotify.com/artist/6PgkNi6EyAfgiKtFwAwvbH"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165520,
+      "name": "Double Tragedy",
+      "url": "https://open.spotify.com/track/2Zs7Q7lJB1aUDL06rE2xN2"
+    },
+    {
+      "album": {
         "name": "Dream No More (feat. Ruel & Genesis Owusu)",
         "url": "https://open.spotify.com/album/4ezUp3Uu9WBPK0DsbQvgGO"
       },
@@ -2488,7 +2506,7 @@
       ],
       "date_added": "2023-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 152347,
       "name": "Feelin'",
       "url": "https://open.spotify.com/track/7dbNxYPYILE3MNxh9ND12K"

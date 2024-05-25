@@ -1,12 +1,12 @@
 {
-  "description": "This is LUDMILLA. The essential tracks, all in one playlist.",
-  "num_followers": 291486,
+  "description": "This is LUDMILLA. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 291528,
   "original_name": "This Is LUDMILLA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zk01gAAAAABmuQfIc+y+1/Ms537e+0mm",
+  "snapshot_id": "Zk6HAAAAAABnnPfY5Rl+vnzP8/a6BbcI",
   "tracks": [
     {
       "added_at": null,
@@ -586,11 +586,15 @@
         {
           "name": "LUDMILLA",
           "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
+        {
+          "name": "Sorriso Maroto",
+          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
         }
       ],
-      "duration_ms": 401511,
-      "name": "Desse Jeito \u00e9 Ruim Pra Mim / Perfume / Antes de Dizer Adeus - Ao vivo",
-      "url": "https://open.spotify.com/track/1CehxijvhSszrBS3FuCxBw"
+      "duration_ms": 215304,
+      "name": "N\u00e3o \u00c9 Por Maldade - Ao vivo",
+      "url": "https://open.spotify.com/track/19IIiuViFv6TsPDXV2ZWB3"
     },
     {
       "added_at": null,
@@ -696,9 +700,9 @@
           "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
         }
       ],
-      "duration_ms": 160455,
-      "name": "Um P\u00f4r do Sol na Praia - Ao vivo",
-      "url": "https://open.spotify.com/track/7M1YydD0jJ9teSC62fhfY9"
+      "duration_ms": 401511,
+      "name": "Desse Jeito \u00e9 Ruim Pra Mim / Perfume / Antes de Dizer Adeus - Ao vivo",
+      "url": "https://open.spotify.com/track/1CehxijvhSszrBS3FuCxBw"
     },
     {
       "added_at": null,
@@ -759,6 +763,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Numanice (Ao vivo)",
+        "url": "https://open.spotify.com/album/5u9JxohIzAYCPE53Ev4uiN"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 160455,
+      "name": "Um P\u00f4r do Sol na Praia - Ao vivo",
+      "url": "https://open.spotify.com/track/7M1YydD0jJ9teSC62fhfY9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Prazer, eu sou Ferrugem (Ao vivo)",
         "url": "https://open.spotify.com/album/3SkOXrdSri5EIpDpUvfdm3"
       },
@@ -775,22 +795,6 @@
       "duration_ms": 233637,
       "name": "Paci\u00eancia (Participa\u00e7\u00e3o especial de Ludmilla) - Ao vivo",
       "url": "https://open.spotify.com/track/3jHsNUej99xBE7TX3fg1xD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Numanice (Ao vivo)",
-        "url": "https://open.spotify.com/album/5u9JxohIzAYCPE53Ev4uiN"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 325002,
-      "name": "Sintoma de Amor / Depois do Amor / Agenda - Ao vivo",
-      "url": "https://open.spotify.com/track/6LgkG3CQKp6qejNMpOatMj"
     },
     {
       "added_at": null,
@@ -855,26 +859,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "GG Astral (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1ldJ0FBMF8yZpbRqlno8kL"
-      },
-      "artists": [
-        {
-          "name": "Leo Santana",
-          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
-        },
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 153237,
-      "name": "Toma - Ao Vivo",
-      "url": "https://open.spotify.com/track/5lOHHtPiIEotQp8oCMoEp0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Numanice #2 (Ao Vivo) - Deluxe",
         "url": "https://open.spotify.com/album/6iCqu8WWngOqpEGxGthyvv"
       },
@@ -891,6 +875,26 @@
       "duration_ms": 301682,
       "name": "Faz uma Loucura por mim / Voc\u00ea me vira a cabe\u00e7a - Ao Vivo",
       "url": "https://open.spotify.com/track/2hy9PyCleGC4HRe5MsPwfF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "GG Astral (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1ldJ0FBMF8yZpbRqlno8kL"
+      },
+      "artists": [
+        {
+          "name": "Leo Santana",
+          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
+        },
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 153237,
+      "name": "Toma - Ao Vivo",
+      "url": "https://open.spotify.com/track/5lOHHtPiIEotQp8oCMoEp0"
     },
     {
       "added_at": null,

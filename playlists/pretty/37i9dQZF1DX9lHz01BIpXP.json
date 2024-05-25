@@ -1,6 +1,6 @@
 {
   "description": "Die beste in Afrikaanse Hip Hop. Cover: <a href=\"https://open.spotify.com/artist/6CzVcrDqwjvTDr3uxyNgWG?si=5-3ltZAmQIajFl12I2zImA\">Early B</a> ",
-  "num_followers": 1556,
+  "num_followers": 1558,
   "original_name": "Afrikaanse Hip Hop",
   "owner": {
     "name": "Spotify",
@@ -659,6 +659,22 @@
     {
       "added_at": "2024-02-15 22:00:00",
       "album": {
+        "name": "DIE LANIE",
+        "url": "https://open.spotify.com/album/6CqQqWzEOHGTYkZjrjGqAe"
+      },
+      "artists": [
+        {
+          "name": "Madgas",
+          "url": "https://open.spotify.com/artist/6SxrHxCHpyEIfdtUOQrkMH"
+        }
+      ],
+      "duration_ms": 163526,
+      "name": "DIE LANIE",
+      "url": "https://open.spotify.com/track/7DGKnYj1l9tUChMBAqpXh1"
+    },
+    {
+      "added_at": "2024-02-15 22:00:00",
+      "album": {
         "name": "Ek Sal Nie Lieg Nie",
         "url": "https://open.spotify.com/album/0P2QBEdQVwvUwQJXWVJ4mQ"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 151196,
       "name": "Ek Sal Nie Lieg Nie",
       "url": "https://open.spotify.com/track/4reYk1zhvoQh4K78On9Y0h"
-    },
-    {
-      "added_at": "2024-02-15 22:00:00",
-      "album": {
-        "name": "DIE LANIE",
-        "url": "https://open.spotify.com/album/6CqQqWzEOHGTYkZjrjGqAe"
-      },
-      "artists": [
-        {
-          "name": "Madgas",
-          "url": "https://open.spotify.com/artist/6SxrHxCHpyEIfdtUOQrkMH"
-        }
-      ],
-      "duration_ms": 163526,
-      "name": "DIE LANIE",
-      "url": "https://open.spotify.com/track/7DGKnYj1l9tUChMBAqpXh1"
     },
     {
       "added_at": "2024-02-15 22:00:00",
@@ -759,22 +759,6 @@
       "duration_ms": 159686,
       "name": "Deh!",
       "url": "https://open.spotify.com/track/1PJqCEQSbxRaeWwDSlJBXJ"
-    },
-    {
-      "added_at": "2024-02-22 22:00:00",
-      "album": {
-        "name": "Wat Ek Moet Doen",
-        "url": "https://open.spotify.com/album/3N574squ1VAtisezwlbE8s"
-      },
-      "artists": [
-        {
-          "name": "KYLEO FROM THE WEST",
-          "url": "https://open.spotify.com/artist/4DzGe30tm58us62vjtCIL7"
-        }
-      ],
-      "duration_ms": 142863,
-      "name": "Wat Ek Moet Doen",
-      "url": "https://open.spotify.com/track/0xiM7s7YsjtNNjVLYiBVti"
     },
     {
       "added_at": "2024-02-15 22:00:00",
@@ -873,24 +857,20 @@
       "url": "https://open.spotify.com/track/7gEtSGK5PaKgh0gbT1oEXz"
     },
     {
-      "added_at": "2024-02-15 22:00:00",
+      "added_at": "2024-02-22 22:00:00",
       "album": {
-        "name": "Klaar Praat",
-        "url": "https://open.spotify.com/album/7gbz82FKLF2FPRBGKiyBI5"
+        "name": "Wat Ek Moet Doen",
+        "url": "https://open.spotify.com/album/3N574squ1VAtisezwlbE8s"
       },
       "artists": [
         {
           "name": "KYLEO FROM THE WEST",
           "url": "https://open.spotify.com/artist/4DzGe30tm58us62vjtCIL7"
-        },
-        {
-          "name": "G-BONE",
-          "url": "https://open.spotify.com/artist/0e0QFpFodxO9NMBJnWdfBi"
         }
       ],
-      "duration_ms": 128261,
-      "name": "Klaar Praat",
-      "url": "https://open.spotify.com/track/6knLuTcyJUQHrQCM74FqQI"
+      "duration_ms": 142863,
+      "name": "Wat Ek Moet Doen",
+      "url": "https://open.spotify.com/track/0xiM7s7YsjtNNjVLYiBVti"
     },
     {
       "added_at": "2024-02-15 22:00:00",
@@ -923,6 +903,22 @@
       "duration_ms": 188453,
       "name": "Broke",
       "url": "https://open.spotify.com/track/4DaJv3w5BZrsj5eLgDWsEK"
+    },
+    {
+      "added_at": "2024-02-15 22:00:00",
+      "album": {
+        "name": "So Laatie Dou",
+        "url": "https://open.spotify.com/album/1V91ZIjl4e6pcEp8C1Fr0T"
+      },
+      "artists": [
+        {
+          "name": "Terror MC",
+          "url": "https://open.spotify.com/artist/1yZbqrCBkdHJ2bewe0HEHG"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "So Laatie Dou",
+      "url": "https://open.spotify.com/track/70AYbxLFIm9Y5jhocOiV0Y"
     }
   ],
   "unique_name": "Afrikaanse Hip Hop",

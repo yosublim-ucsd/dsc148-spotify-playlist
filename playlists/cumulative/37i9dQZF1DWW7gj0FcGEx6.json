@@ -3777,6 +3777,24 @@
     },
     {
       "album": {
+        "name": "Atlas (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/6Oj6UMsSWZ1Y5HvVBsUCzE"
+      },
+      "artists": [
+        {
+          "name": "Andrew Lockington",
+          "url": "https://open.spotify.com/artist/0sK0i9UQeU4aPaxgGTFTcC"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230160,
+      "name": "Only One Of Us Will Make It",
+      "url": "https://open.spotify.com/track/2VMnCsXVBgmuhTqI6w2mhh"
+    },
+    {
+      "album": {
         "name": "Open Road (From Wonder Woman 1984)",
         "url": "https://open.spotify.com/album/1YbLmCnQbXLV1yG6jJqAo5"
       },

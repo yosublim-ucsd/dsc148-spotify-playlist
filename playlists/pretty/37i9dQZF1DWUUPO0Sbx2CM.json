@@ -1,6 +1,6 @@
 {
   "description": "A mix of EDM, Pop, Hip Hop, Worship, and remixes!  Discover songs from artists defining the sound of now and tomorrow!",
-  "num_followers": 202403,
+  "num_followers": 202471,
   "original_name": "Christian Dance Party",
   "owner": {
     "name": "Spotify",
@@ -87,6 +87,22 @@
     {
       "added_at": "2024-05-10 04:42:27",
       "album": {
+        "name": "AQU\u00cd ESTOY",
+        "url": "https://open.spotify.com/album/0cGZEnGBXNGzO2Nxn8WaB1"
+      },
+      "artists": [
+        {
+          "name": "ELEVATION RHYTHM",
+          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
+        }
+      ],
+      "duration_ms": 155021,
+      "name": "AQU\u00cd ESTOY",
+      "url": "https://open.spotify.com/track/02nEIwx2VWEK89j7XZvDUn"
+    },
+    {
+      "added_at": "2024-05-10 04:42:27",
+      "album": {
         "name": "God Problems (Not By Power) [feat. Miles Minnick]",
         "url": "https://open.spotify.com/album/7uReIdluNEl7e8GiyiFE5j"
       },
@@ -103,22 +119,6 @@
       "duration_ms": 177345,
       "name": "God Problems (Not By Power) [feat. Miles Minnick]",
       "url": "https://open.spotify.com/track/3kp3PccskbukN2xIiElSYp"
-    },
-    {
-      "added_at": "2024-05-10 04:42:27",
-      "album": {
-        "name": "AQU\u00cd ESTOY",
-        "url": "https://open.spotify.com/album/0cGZEnGBXNGzO2Nxn8WaB1"
-      },
-      "artists": [
-        {
-          "name": "ELEVATION RHYTHM",
-          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
-        }
-      ],
-      "duration_ms": 155021,
-      "name": "AQU\u00cd ESTOY",
-      "url": "https://open.spotify.com/track/02nEIwx2VWEK89j7XZvDUn"
     },
     {
       "added_at": "2024-05-10 04:42:27",
@@ -547,22 +547,6 @@
     {
       "added_at": "2024-05-10 04:42:27",
       "album": {
-        "name": "Love Me Back to Life",
-        "url": "https://open.spotify.com/album/3HZqRpVyE10Z5PEJ3gXLbM"
-      },
-      "artists": [
-        {
-          "name": "Natalie Layne",
-          "url": "https://open.spotify.com/artist/6N1l2HIYtw3RhoJ2wzLYaB"
-        }
-      ],
-      "duration_ms": 167617,
-      "name": "Love Me Back to Life",
-      "url": "https://open.spotify.com/track/28ZTokxLv6KCdjjgqI0T5J"
-    },
-    {
-      "added_at": "2024-05-10 04:42:27",
-      "album": {
         "name": "RELATE (R3HAB Remix)",
         "url": "https://open.spotify.com/album/3RkxywFjnyxYlm7NqJNmMI"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 166666,
       "name": "RELATE (R3HAB Remix)",
       "url": "https://open.spotify.com/track/6hZQGrJlAQwrNnUyFkdO8r"
+    },
+    {
+      "added_at": "2024-05-10 04:42:27",
+      "album": {
+        "name": "Love Me Back to Life",
+        "url": "https://open.spotify.com/album/3HZqRpVyE10Z5PEJ3gXLbM"
+      },
+      "artists": [
+        {
+          "name": "Natalie Layne",
+          "url": "https://open.spotify.com/artist/6N1l2HIYtw3RhoJ2wzLYaB"
+        }
+      ],
+      "duration_ms": 167617,
+      "name": "Love Me Back to Life",
+      "url": "https://open.spotify.com/track/28ZTokxLv6KCdjjgqI0T5J"
     },
     {
       "added_at": "2024-05-10 04:42:27",
@@ -651,22 +651,6 @@
     {
       "added_at": "2024-05-10 04:42:27",
       "album": {
-        "name": "Where To Find Me",
-        "url": "https://open.spotify.com/album/5QVDdRmn9AEfo8z1ZD8vrb"
-      },
-      "artists": [
-        {
-          "name": "Jet Trouble",
-          "url": "https://open.spotify.com/artist/6W2lyFO79SNpk3ZpF0A2s9"
-        }
-      ],
-      "duration_ms": 138846,
-      "name": "Where To Find Me",
-      "url": "https://open.spotify.com/track/5CxUClSpwnM0bu7CnBky2k"
-    },
-    {
-      "added_at": "2024-05-10 04:42:27",
-      "album": {
         "name": "NEVER FELT SO GOOD",
         "url": "https://open.spotify.com/album/1EKGO8s7zRK7OG2xOMUOjN"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 139285,
       "name": "NEVER FELT SO GOOD",
       "url": "https://open.spotify.com/track/2exfMpNGW6W8sIMARfmWLg"
+    },
+    {
+      "added_at": "2024-05-10 04:42:27",
+      "album": {
+        "name": "Where To Find Me",
+        "url": "https://open.spotify.com/album/5QVDdRmn9AEfo8z1ZD8vrb"
+      },
+      "artists": [
+        {
+          "name": "Jet Trouble",
+          "url": "https://open.spotify.com/artist/6W2lyFO79SNpk3ZpF0A2s9"
+        }
+      ],
+      "duration_ms": 138846,
+      "name": "Where To Find Me",
+      "url": "https://open.spotify.com/track/5CxUClSpwnM0bu7CnBky2k"
     },
     {
       "added_at": "2024-05-10 04:42:27",
@@ -935,22 +935,6 @@
     {
       "added_at": "2024-05-10 04:42:27",
       "album": {
-        "name": "Searching For",
-        "url": "https://open.spotify.com/album/7zY4HF5n4vHhlTp7hAuPPf"
-      },
-      "artists": [
-        {
-          "name": "ISLY",
-          "url": "https://open.spotify.com/artist/6vcdxuQqc3jvWqznVDPEAW"
-        }
-      ],
-      "duration_ms": 255118,
-      "name": "Searching For",
-      "url": "https://open.spotify.com/track/1c57E3GgckZveqzUkDzvqd"
-    },
-    {
-      "added_at": "2024-05-10 04:42:27",
-      "album": {
         "name": "Truth",
         "url": "https://open.spotify.com/album/58J1TyJc0toPmIFfOjJMhh"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 204613,
       "name": "Nothing But The Truth",
       "url": "https://open.spotify.com/track/7trY7vybnipAG4fbm53TMT"
+    },
+    {
+      "added_at": "2024-05-10 04:42:27",
+      "album": {
+        "name": "Searching For",
+        "url": "https://open.spotify.com/album/7zY4HF5n4vHhlTp7hAuPPf"
+      },
+      "artists": [
+        {
+          "name": "ISLY",
+          "url": "https://open.spotify.com/artist/6vcdxuQqc3jvWqznVDPEAW"
+        }
+      ],
+      "duration_ms": 255118,
+      "name": "Searching For",
+      "url": "https://open.spotify.com/track/1c57E3GgckZveqzUkDzvqd"
     },
     {
       "added_at": "2024-05-10 04:42:27",
@@ -1259,18 +1259,18 @@
     {
       "added_at": "2024-05-10 04:42:27",
       "album": {
-        "name": "Better View, Part II",
-        "url": "https://open.spotify.com/album/6VJwdT4jWHtnhCtC7tzMNy"
+        "name": "It's Coming",
+        "url": "https://open.spotify.com/album/2ajlFA4Z0LJYZXBuJPTr5j"
       },
       "artists": [
         {
-          "name": "Switch",
-          "url": "https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN"
+          "name": "Jet Trouble",
+          "url": "https://open.spotify.com/artist/6W2lyFO79SNpk3ZpF0A2s9"
         }
       ],
-      "duration_ms": 184393,
-      "name": "Invited",
-      "url": "https://open.spotify.com/track/4LHJUZCjDrjI7mQEbM48r3"
+      "duration_ms": 154305,
+      "name": "It's Coming",
+      "url": "https://open.spotify.com/track/08l9XA11fZJMCkU7urkO5n"
     },
     {
       "added_at": "2024-05-10 04:42:27",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2024-05-10 04:42:27",
       "album": {
-        "name": "It's Coming",
-        "url": "https://open.spotify.com/album/2ajlFA4Z0LJYZXBuJPTr5j"
-      },
-      "artists": [
-        {
-          "name": "Jet Trouble",
-          "url": "https://open.spotify.com/artist/6W2lyFO79SNpk3ZpF0A2s9"
-        }
-      ],
-      "duration_ms": 154305,
-      "name": "It's Coming",
-      "url": "https://open.spotify.com/track/08l9XA11fZJMCkU7urkO5n"
-    },
-    {
-      "added_at": "2024-05-10 04:42:27",
-      "album": {
         "name": "Kyrie Eleison (It's Mercy We Need)",
         "url": "https://open.spotify.com/album/2mB4e81cL77ixkv9EJqFMF"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 261239,
       "name": "Kyrie Eleison (It's Mercy We Need)",
       "url": "https://open.spotify.com/track/39Zb3y5PrBJuVRwRw6zNIl"
+    },
+    {
+      "added_at": "2024-05-10 04:42:27",
+      "album": {
+        "name": "Better View, Part II",
+        "url": "https://open.spotify.com/album/6VJwdT4jWHtnhCtC7tzMNy"
+      },
+      "artists": [
+        {
+          "name": "Switch",
+          "url": "https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN"
+        }
+      ],
+      "duration_ms": 184393,
+      "name": "Invited",
+      "url": "https://open.spotify.com/track/4LHJUZCjDrjI7mQEbM48r3"
     },
     {
       "added_at": "2024-05-10 04:42:27",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2024-05-10 04:42:27",
       "album": {
-        "name": "Heavy",
-        "url": "https://open.spotify.com/album/1iEHm6xjd7QWKYt67AmjZ3"
-      },
-      "artists": [
-        {
-          "name": "Stephen Stanley",
-          "url": "https://open.spotify.com/artist/5uGLuPqfATGbvk6shtjDoX"
-        }
-      ],
-      "duration_ms": 225520,
-      "name": "Heavy",
-      "url": "https://open.spotify.com/track/7Fmk7xa6JijQVUpDILAxrR"
-    },
-    {
-      "added_at": "2024-05-10 04:42:27",
-      "album": {
         "name": "You, Me, The Church, That's Us - Side B",
         "url": "https://open.spotify.com/album/2yJsvDKWdnG1pszRmhqSpK"
       },
@@ -1395,18 +1379,18 @@
     {
       "added_at": "2024-05-10 04:42:27",
       "album": {
-        "name": "More Than Halfway",
-        "url": "https://open.spotify.com/album/4mEerAhqml8ALLnBOzZm1n"
+        "name": "Heavy",
+        "url": "https://open.spotify.com/album/1iEHm6xjd7QWKYt67AmjZ3"
       },
       "artists": [
         {
-          "name": "Local Sound",
-          "url": "https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2"
+          "name": "Stephen Stanley",
+          "url": "https://open.spotify.com/artist/5uGLuPqfATGbvk6shtjDoX"
         }
       ],
-      "duration_ms": 221453,
-      "name": "More Than Halfway",
-      "url": "https://open.spotify.com/track/4tG9V6oCruIY1xovDGgDXg"
+      "duration_ms": 225520,
+      "name": "Heavy",
+      "url": "https://open.spotify.com/track/7Fmk7xa6JijQVUpDILAxrR"
     },
     {
       "added_at": "2024-05-10 04:42:27",
@@ -1423,6 +1407,22 @@
       "duration_ms": 182593,
       "name": "Deeper",
       "url": "https://open.spotify.com/track/2X8mAkdiXXxFdcDGQ4Og13"
+    },
+    {
+      "added_at": "2024-05-10 04:42:27",
+      "album": {
+        "name": "More Than Halfway",
+        "url": "https://open.spotify.com/album/4mEerAhqml8ALLnBOzZm1n"
+      },
+      "artists": [
+        {
+          "name": "Local Sound",
+          "url": "https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2"
+        }
+      ],
+      "duration_ms": 221453,
+      "name": "More Than Halfway",
+      "url": "https://open.spotify.com/track/4tG9V6oCruIY1xovDGgDXg"
     },
     {
       "added_at": "2024-05-10 04:42:27",

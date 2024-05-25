@@ -700,7 +700,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 209109,
       "name": "Champagne",
       "url": "https://open.spotify.com/track/4k6zSLCDhm0pjLAVbLrF5P"
@@ -888,7 +888,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 232000,
       "name": "Cowboy Gangster Politician",
       "url": "https://open.spotify.com/track/3imw8kF7wpq1oxYqHw4COo"
@@ -1249,6 +1249,24 @@
     },
     {
       "album": {
+        "name": "Drink Em Up",
+        "url": "https://open.spotify.com/album/5i46iLiuPrN7dV73mqDN2l"
+      },
+      "artists": [
+        {
+          "name": "The Washboard Union",
+          "url": "https://open.spotify.com/artist/2YftJBwNPaJJMK5ORcHq8k"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191800,
+      "name": "Drink Em Up",
+      "url": "https://open.spotify.com/track/2yDvLr9bG5NsJO4s43mgvd"
+    },
+    {
+      "album": {
         "name": "The Album",
         "url": "https://open.spotify.com/album/49DERKtzOTKNT7T0O4l6m4"
       },
@@ -1311,6 +1329,24 @@
     },
     {
       "album": {
+        "name": "Nobody\u2019s Born With A Broken Heart (the first few)",
+        "url": "https://open.spotify.com/album/10ttWGowlB9os9gWQzSwkT"
+      },
+      "artists": [
+        {
+          "name": "MacKenzie Porter",
+          "url": "https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169614,
+      "name": "Easy To Miss",
+      "url": "https://open.spotify.com/track/22CreGLxXnyqg2ktUVZShT"
+    },
+    {
+      "album": {
         "name": "Lambs & Lions",
         "url": "https://open.spotify.com/album/32XQ51OITWIlkwB0esqbwd"
       },
@@ -1362,6 +1398,24 @@
       "duration_ms": 232058,
       "name": "Fall In Love",
       "url": "https://open.spotify.com/track/5gVCfYmQRPy1QJifP8f5gg"
+    },
+    {
+      "album": {
+        "name": "Tim & The Glory Boys (Deluxe)",
+        "url": "https://open.spotify.com/album/7L6UgCIxEViu4qDyrnjbwZ"
+      },
+      "artists": [
+        {
+          "name": "Tim & The Glory Boys",
+          "url": "https://open.spotify.com/artist/2TWquaofWA67mGmfN72csX"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179347,
+      "name": "Falling for You",
+      "url": "https://open.spotify.com/track/4kbaHslboiwyCgHmxRyLTm"
     },
     {
       "album": {
@@ -1948,7 +2002,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 162606,
       "name": "Have Your Beer",
       "url": "https://open.spotify.com/track/6z2tIsAUwS4hIVQGLqLfwq"
@@ -2162,6 +2216,24 @@
       "duration_ms": 156275,
       "name": "hole in the bottle (with Shania Twain)",
       "url": "https://open.spotify.com/track/2bV4NwncWMnVvcWyU2yxwB"
+    },
+    {
+      "album": {
+        "name": "Home Less",
+        "url": "https://open.spotify.com/album/3hVyB0AKhws3fOuDa1o3z6"
+      },
+      "artists": [
+        {
+          "name": "Owen Riegling",
+          "url": "https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207966,
+      "name": "Home Less",
+      "url": "https://open.spotify.com/track/4E6QysmamTqsumshjlibem"
     },
     {
       "album": {
@@ -2620,7 +2692,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 226666,
       "name": "If You Show Me Yours",
       "url": "https://open.spotify.com/track/0BeR6G47ddBXg7S8OGPgCn"
@@ -4405,6 +4477,28 @@
     },
     {
       "album": {
+        "name": "Seven Bridges Road",
+        "url": "https://open.spotify.com/album/6GXkpobqUCBNcak0es2wJ7"
+      },
+      "artists": [
+        {
+          "name": "The Wilder Blue",
+          "url": "https://open.spotify.com/artist/5hewAzHE9nqxKYvSzqtVJD"
+        },
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190174,
+      "name": "Seven Bridges Road",
+      "url": "https://open.spotify.com/track/24T44qdZXhaFn92pW2OHWh"
+    },
+    {
+      "album": {
         "name": "Shakin' In Them Boots",
         "url": "https://open.spotify.com/album/12JRLrNicKNlQDu5zNKaF3"
       },
@@ -4528,7 +4622,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 166956,
       "name": "Shoulda Known Better",
       "url": "https://open.spotify.com/track/1TsOMAJ1lwgRaZFCsrFEH0"
@@ -4950,6 +5044,24 @@
       "duration_ms": 168524,
       "name": "Summer Don't Go",
       "url": "https://open.spotify.com/track/7CwEDwMKJOimuaw6nOtE2r"
+    },
+    {
+      "album": {
+        "name": "Take Her Home",
+        "url": "https://open.spotify.com/album/0be6zO5PTMEctXmGMb7R75"
+      },
+      "artists": [
+        {
+          "name": "Kenny Chesney",
+          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182466,
+      "name": "Take Her Home",
+      "url": "https://open.spotify.com/track/0Jagf5iAYYiWAs0BEoWbWZ"
     },
     {
       "album": {
@@ -6050,7 +6162,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 189368,
       "name": "Wide Open",
       "url": "https://open.spotify.com/track/5TUpyqeMd2q1rC2xDHN1JE"

@@ -4,7 +4,7 @@
 
 > La casa del trap chileno al mando de Cris Mj.
 
-221 songs - 11 hr 37 min
+223 songs - 11 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Aborrecio](https://open.spotify.com/track/3ADriUpeN2lGE8tfcAr1oP) | [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH), [Nikxz](https://open.spotify.com/artist/1hQJhlI1r2oa893f8N6wcg) | [Aborrecio](https://open.spotify.com/album/3mvr64wBs7lsr2jwzwlWKR) | 4:02 | 2022-01-20 |  |
 | [Aborrecio](https://open.spotify.com/track/0z2Z7f3Osa9lZm3od9A47Y) | [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy) | [Aborrecio](https://open.spotify.com/album/344jAFq72ipLqCH5QSFh61) | 2:55 | 2023-07-07 | 2023-09-09 |
 | [Aburrido](https://open.spotify.com/track/1QX8IaUVnmdZo8jqyGyZfZ) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Quilapayún](https://open.spotify.com/artist/76sZcEL2ZXBTqNeFJAhlup), [Inti Illimani Histórico](https://open.spotify.com/artist/3ofeDjH3XD66EbnLIHWk8i) | [Aburrido](https://open.spotify.com/album/2MCIfa3wYX8ru8do68PxfJ) | 3:49 | 2022-01-20 | 2024-02-03 |
+| [AC\-REJE](https://open.spotify.com/track/5NddxCX0Tz3A7HdortHswA) | [Aqua VS](https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p) | [AC\-REJE](https://open.spotify.com/album/68UH1HlO40NtLJRi9X3FnM) | 1:45 | 2024-05-24 |  |
 | [Ahora Que Me Vio](https://open.spotify.com/track/7qtW7ghQS8u7asDZvFU2N0) | [Camiloskill](https://open.spotify.com/artist/11JWPmE5SJIzBWa7b9m0Mk) | [Ahora Que Me Vio](https://open.spotify.com/album/4i9JqslNuZDWGH3fMrtemE) | 3:54 | 2022-01-20 | 2022-05-28 |
 | [AIRDROP](https://open.spotify.com/track/216o3rch4ioVv7DjpkjFWk) | [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [AWITA](https://open.spotify.com/album/7IU0iqOqmM6tCyOI4u1ZRe) | 3:01 | 2022-01-20 | 2022-05-28 |
 | [AKRI TU ERE UN XULO](https://open.spotify.com/track/6eAB8tVW7rhRgggH472v9U) | [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL) | [001](https://open.spotify.com/album/4hg1fV1YKWKPF3XUpO12z1) | 2:26 | 2023-07-07 | 2023-12-09 |
@@ -134,6 +135,7 @@
 | [Mi Trap](https://open.spotify.com/track/1ClVzLNM120B8JIWs6aF1x) | [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [Moonkey](https://open.spotify.com/artist/3qiQUUvazYmo7tBgQeb2rf) | [Mi Trap](https://open.spotify.com/album/4UM2Lb9e4MBrj0vPjZA4OQ) | 3:52 | 2022-01-20 |  |
 | [Mi Trap](https://open.spotify.com/track/1GWETx8pAGHNXYsLyB1asj) | [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [Moonkey](https://open.spotify.com/artist/3qiQUUvazYmo7tBgQeb2rf) | [Mi Trap](https://open.spotify.com/album/64RG2dGK1oAHgsVQtrPRXJ) | 3:52 | 2023-11-30 | 2024-04-19 |
 | [Miami Vibes](https://open.spotify.com/track/028ScBVIUAYXeuiFvGki1e) | [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL), [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE) | [898](https://open.spotify.com/album/3H8MfVpMUsydvLI5pbVUde) | 1:16 | 2022-01-20 |  |
+| [MIAMI VIBES 2.0 \(with Polimá Westcoast & Aqua VS\)](https://open.spotify.com/track/2gK4jE05sDGissNGeIYvn7) | [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL), [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [Aqua VS](https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p) | [FINALMENTE LIBRE](https://open.spotify.com/album/4SOp9ebHU3O2waxCa7cm49) | 3:20 | 2024-05-24 |  |
 | [Mientras Duermo](https://open.spotify.com/track/2QpGytrXW6IkrOLIYJwCWU) | [Jaudy](https://open.spotify.com/artist/482w6SuAShFPgge3PuRmO3), [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl) | [Mientras Duermo](https://open.spotify.com/album/31dwA5ERJVQLSM42nQZ7Fh) | 3:07 | 2022-01-20 | 2022-05-28 |
 | [Misiones \(Remix\) \(feat\. Duki\)](https://open.spotify.com/track/56EvTtsyFL3JRjgnrafZQ0) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Misiones \(Remix\) \(feat\. Duki\)](https://open.spotify.com/album/5Ovh7KZm4TLsJGF8JZe7uS) | 3:42 | 2022-01-20 |  |
 | [Mode On, Marcianeke \#05](https://open.spotify.com/track/6aFtRDWUyybfR3578mB3Bv) | [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy), [Nes](https://open.spotify.com/artist/3dC19P4w1BbDuwCailjybv) | [Mode On](https://open.spotify.com/album/79RYVRZr0yVV0B0qid9qoy) | 2:47 | 2022-01-20 | 2024-04-19 |

@@ -2151,6 +2151,28 @@
     },
     {
       "album": {
+        "name": "Oh Baby!",
+        "url": "https://open.spotify.com/album/5dsP2jPN6LflY4wrKnmCRB"
+      },
+      "artists": [
+        {
+          "name": "TRYPBOX",
+          "url": "https://open.spotify.com/artist/5r4lVYYPWIvbRMH4rlAeFj"
+        },
+        {
+          "name": "Houseium",
+          "url": "https://open.spotify.com/artist/7nLII53mP3tGEh5B5Hx83o"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180468,
+      "name": "Oh Baby!",
+      "url": "https://open.spotify.com/track/7iUYRbnAN8XmiwK0WG3F66"
+    },
+    {
+      "album": {
         "name": "Oldschool (Radio Edit)",
         "url": "https://open.spotify.com/album/0SQFyNAkxb09LdYg8ElIPo"
       },

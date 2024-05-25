@@ -1,12 +1,12 @@
 {
   "description": "This is Edicion Especial. The essential tracks, all in one playlist.",
-  "num_followers": 117639,
+  "num_followers": 117750,
   "original_name": "This Is Edicion Especial",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zk01gAAAAAD7VYBsQJGC3l51z9noLm91",
+  "snapshot_id": "Zk6HAAAAAABP+v1EazMV2EuHw2Wa2R3B",
   "tracks": [
     {
       "added_at": null,
@@ -135,6 +135,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mingo",
+        "url": "https://open.spotify.com/album/0Eh9VKm1zUBjXMRNXqwrtx"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 188074,
+      "name": "Mingo",
+      "url": "https://open.spotify.com/track/0P3YnLaoAqN45hH34Jgiwj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Nini",
         "url": "https://open.spotify.com/album/4t9ykJcRqh40msncpBbLF0"
       },
@@ -151,22 +167,6 @@
       "duration_ms": 271346,
       "name": "El Nini",
       "url": "https://open.spotify.com/track/2U1NhCp8wc2m4kYZSBeYl4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mingo",
-        "url": "https://open.spotify.com/album/0Eh9VKm1zUBjXMRNXqwrtx"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 188074,
-      "name": "Mingo",
-      "url": "https://open.spotify.com/track/0P3YnLaoAqN45hH34Jgiwj"
     },
     {
       "added_at": null,
@@ -271,6 +271,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Pocho 43",
+        "url": "https://open.spotify.com/album/7pZlwL9vBGDR5sMDXHrvSh"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 227860,
+      "name": "El Pocho 43",
+      "url": "https://open.spotify.com/track/6GpUIhRCjIwKBLVt4pvcZo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Don (En Vivo)",
         "url": "https://open.spotify.com/album/7vhzZZ4h4s2wxPkatBqgWD"
       },
@@ -287,22 +303,6 @@
       "duration_ms": 210383,
       "name": "Don (En Vivo)",
       "url": "https://open.spotify.com/track/3Zwq6Ih1Ojjrgx9rhkakp0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Pocho 43",
-        "url": "https://open.spotify.com/album/7pZlwL9vBGDR5sMDXHrvSh"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 227860,
-      "name": "El Pocho 43",
-      "url": "https://open.spotify.com/track/6GpUIhRCjIwKBLVt4pvcZo"
     },
     {
       "added_at": null,
@@ -439,22 +439,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Cuadros (Live)",
-        "url": "https://open.spotify.com/album/20eftZvtNJDJXXal1uDTCe"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 246997,
-      "name": "El Cuadros - Live",
-      "url": "https://open.spotify.com/track/5nYKgIWaO0z42UjrBaet5x"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Playball",
         "url": "https://open.spotify.com/album/19Yw9DlcLrityl7uXQDCpU"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 160946,
       "name": "Amarte",
       "url": "https://open.spotify.com/track/5STnRqz3RMTnMXQVUunkHf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Cuadros (Live)",
+        "url": "https://open.spotify.com/album/20eftZvtNJDJXXal1uDTCe"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 246997,
+      "name": "El Cuadros - Live",
+      "url": "https://open.spotify.com/track/5nYKgIWaO0z42UjrBaet5x"
     },
     {
       "added_at": null,
@@ -751,6 +751,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gracias",
+        "url": "https://open.spotify.com/album/0Jzq42fDyl8JrXRlhSfPIj"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 265899,
+      "name": "Gracias",
+      "url": "https://open.spotify.com/track/3Zpx6R4PODhw1XNQCA5ik4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Super Del Barril",
         "url": "https://open.spotify.com/album/1GN1V9GFypeKwM2xclRkRo"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 197151,
       "name": "La Super Del Barril",
       "url": "https://open.spotify.com/track/6HjLOag0JzUheMcTrMGVL4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gracias",
-        "url": "https://open.spotify.com/album/0Jzq42fDyl8JrXRlhSfPIj"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 265899,
-      "name": "Gracias",
-      "url": "https://open.spotify.com/track/3Zpx6R4PODhw1XNQCA5ik4"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-07-30",
-  "description": "Genre-less. Quality first always. Cover: NxWorries",
+  "description": "Genre-less. Quality first always. Cover: Vince Staples",
   "name": "POLLEN",
   "tracks": [
     {
@@ -3460,7 +3460,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 165360,
       "name": "Aphid (feat. Dijon)",
       "url": "https://open.spotify.com/track/5BLRxUeMQFa4cK61ljrNiF"
@@ -5753,6 +5753,24 @@
     },
     {
       "album": {
+        "name": "Dark Times",
+        "url": "https://open.spotify.com/album/30BFY5VHii4PyWqkTubUWX"
+      },
+      "artists": [
+        {
+          "name": "Vince Staples",
+          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198630,
+      "name": "Black&Blue",
+      "url": "https://open.spotify.com/track/6sKGGi2pVKXR69s1SNdhGv"
+    },
+    {
+      "album": {
         "name": "Blackbox Life Recorder 21f",
         "url": "https://open.spotify.com/album/3LIBbRYQgXY8ARKlSl6TJX"
       },
@@ -6131,6 +6149,24 @@
     },
     {
       "album": {
+        "name": "Blue Car",
+        "url": "https://open.spotify.com/album/2nmTgipc2Mjf7vhtgjkbSl"
+      },
+      "artists": [
+        {
+          "name": "Shivani Day",
+          "url": "https://open.spotify.com/artist/5mnwQTXBL1eoE4Fj9v9Awn"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179538,
+      "name": "Blue Car",
+      "url": "https://open.spotify.com/track/6q0T53SQOskEXvzI5BcpWR"
+    },
+    {
+      "album": {
         "name": "Electric Dusk",
         "url": "https://open.spotify.com/album/5u7OrPu6BbadcZNWuH10VT"
       },
@@ -6302,7 +6338,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 153066,
       "name": "Bob Dylan Bus (feat. King Isis)",
       "url": "https://open.spotify.com/track/1P2ugR200fs2J3ASKUAIMg"
@@ -7064,7 +7100,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 154920,
       "name": "Buddy A Fool",
       "url": "https://open.spotify.com/track/1dX4aE2jUQklKlXIFXHF7K"
@@ -10859,6 +10895,28 @@
     },
     {
       "album": {
+        "name": "dangerous game",
+        "url": "https://open.spotify.com/album/50vOO58Z9Sdf5k8ms9l9Cj"
+      },
+      "artists": [
+        {
+          "name": "ESTA.",
+          "url": "https://open.spotify.com/artist/4KZmpaIhanIo46eaQimtgO"
+        },
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230936,
+      "name": "dangerous game",
+      "url": "https://open.spotify.com/track/0drf8c8YvWVvs3aFY5iBrp"
+    },
+    {
+      "album": {
         "name": "CAPRISONGS",
         "url": "https://open.spotify.com/album/3G77BQuJy3jahjdkKQNNNM"
       },
@@ -11020,7 +11078,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 368770,
       "name": "Daydream Repeat",
       "url": "https://open.spotify.com/track/4c7b2Ft8Br0CgJLmt3mI7Z"
@@ -12118,7 +12176,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 114853,
       "name": "Dogfish",
       "url": "https://open.spotify.com/track/0TVMOi7iwDYpgJexAlNtm9"
@@ -13160,7 +13218,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 236750,
       "name": "Duofade",
       "url": "https://open.spotify.com/track/18aVHbdnr0Uu0vDsTJfYwR"
@@ -17156,7 +17214,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 194520,
       "name": "Gangsta",
       "url": "https://open.spotify.com/track/49oKnEjgRSs3DMXScEU2G1"
@@ -17566,7 +17624,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 167990,
       "name": "gimmi it",
       "url": "https://open.spotify.com/track/4TfFYHETOnTpdojoy7Up3H"
@@ -18902,7 +18960,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 215786,
       "name": "Hand On Me",
       "url": "https://open.spotify.com/track/2uffOhl7IE6vbk8NtvpD9c"
@@ -22170,10 +22228,28 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 166506,
       "name": "ice",
       "url": "https://open.spotify.com/track/0Tsr1YNiCw3znq8RYwiLjp"
+    },
+    {
+      "album": {
+        "name": "ICE COLD",
+        "url": "https://open.spotify.com/album/0kY11UduFEWltlwEzsAov1"
+      },
+      "artists": [
+        {
+          "name": "Opal OD",
+          "url": "https://open.spotify.com/artist/6t9ljQX4QGp8kwH7llR2dw"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147368,
+      "name": "ICE COLD",
+      "url": "https://open.spotify.com/track/16n4AGKAZ2FPN9MCxSfSev"
     },
     {
       "album": {
@@ -23136,7 +23212,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 194000,
       "name": "Irrational",
       "url": "https://open.spotify.com/track/1AAk3NJuimLgWIFjiOgtig"
@@ -24288,6 +24364,24 @@
       "duration_ms": 213333,
       "name": "Kali",
       "url": "https://open.spotify.com/track/5MJPZdoWBTx134lpRvnCUE"
+    },
+    {
+      "album": {
+        "name": "Kali Yuga Discotheque",
+        "url": "https://open.spotify.com/album/4zaHfhoQmv9JFBKN3Glomd"
+      },
+      "artists": [
+        {
+          "name": "A/S/L",
+          "url": "https://open.spotify.com/artist/2BX74Qt23X4mO6oAK28KBh"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198749,
+      "name": "Kali Yuga Discotheque",
+      "url": "https://open.spotify.com/track/7qhj9SfAu5s0JJo3iKho9X"
     },
     {
       "album": {
@@ -25536,7 +25630,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 86292,
       "name": "Lethal Weapon",
       "url": "https://open.spotify.com/track/6dm4Ip02h98f6eko5A647f"
@@ -28954,7 +29048,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 154074,
       "name": "mister misfit but aint missed a fit in months",
       "url": "https://open.spotify.com/track/3LpIKVn5vVhuZZpPCx8Poi"
@@ -29768,7 +29862,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 293555,
       "name": "My Dream Dungeon Makeover",
       "url": "https://open.spotify.com/track/65JPv9TsAqdrmo5iVqF7pW"
@@ -32458,7 +32552,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 321800,
       "name": "Oral - Olof Dreijer Remix",
       "url": "https://open.spotify.com/track/1RJL72qQlZxHUIxKEuQWDg"
@@ -34264,7 +34358,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 180588,
       "name": "Polish Jazz",
       "url": "https://open.spotify.com/track/60D2JqdH4iixYCW5KQFNyR"
@@ -36091,6 +36185,24 @@
     },
     {
       "album": {
+        "name": "Rental",
+        "url": "https://open.spotify.com/album/2kT3e81zlLH8LsIfw1d8da"
+      },
+      "artists": [
+        {
+          "name": "Fana Hues",
+          "url": "https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189266,
+      "name": "Rental",
+      "url": "https://open.spotify.com/track/2SctW8kEr0eNsnantkaxj1"
+    },
+    {
+      "album": {
         "name": "After Hours (Deluxe)",
         "url": "https://open.spotify.com/album/0lc1TxAzpSHI7DGhgdWuMI"
       },
@@ -36124,6 +36236,32 @@
       "duration_ms": 195813,
       "name": "Repeat After Me (Interlude)",
       "url": "https://open.spotify.com/track/40U8d12pC5UHqmHwXjHjjl"
+    },
+    {
+      "album": {
+        "name": "3FOR82",
+        "url": "https://open.spotify.com/album/5bOzaa9qvH7q8rEl3fg5nE"
+      },
+      "artists": [
+        {
+          "name": "Machinedrum",
+          "url": "https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4"
+        },
+        {
+          "name": "Topaz Jones",
+          "url": "https://open.spotify.com/artist/76bAuLD5jMIT1YDJ84KB8l"
+        },
+        {
+          "name": "Ezri",
+          "url": "https://open.spotify.com/artist/4l5nRI74C0dHyddoaTKNwJ"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170386,
+      "name": "RESPEK",
+      "url": "https://open.spotify.com/track/5Bbr0WZHVxuJ8DxBjdPywV"
     },
     {
       "album": {
@@ -40674,7 +40812,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 204878,
       "name": "Sprungboard",
       "url": "https://open.spotify.com/track/734tGYxSWui9uJ2SMlN1B1"
@@ -41564,7 +41702,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 302920,
       "name": "Suffer One",
       "url": "https://open.spotify.com/track/0Kg30B2rdLeb2Lau5uZIXQ"
@@ -44638,7 +44776,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 251546,
       "name": "Time Machine",
       "url": "https://open.spotify.com/track/5dnEmsv2Uc24hMnLv9k0Xo"
@@ -45408,6 +45546,24 @@
       "duration_ms": 290480,
       "name": "Tunnel - Samaran Remix",
       "url": "https://open.spotify.com/track/1WxaFElLjwlqjxVmEZgFIh"
+    },
+    {
+      "album": {
+        "name": "Turn it up",
+        "url": "https://open.spotify.com/album/53oYO35gOzGGGINKHB8cd0"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147020,
+      "name": "Turn it up",
+      "url": "https://open.spotify.com/track/1YhNljrEyPYaYNgBNsWap5"
     },
     {
       "album": {

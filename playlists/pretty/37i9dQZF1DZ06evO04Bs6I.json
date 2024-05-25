@@ -1,12 +1,12 @@
 {
-  "description": "This is Isadora Pompeo. The essential tracks, all in one playlist.",
+  "description": "This is Isadora Pompeo. Todos os maiores hits em uma s\u00f3 playlist.",
   "num_followers": 105091,
   "original_name": "This Is Isadora Pompeo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zk01gAAAAABPp7OdCimY9tU2KQlG2+RH",
+  "snapshot_id": "Zk6HAAAAAACIYGyLEH20vpl8h8E1JsEf",
   "tracks": [
     {
       "added_at": null,
@@ -487,22 +487,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pra Te Contar Os Meus Segredos (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0yzFwrBgTavltGMMfwS4p5"
-      },
-      "artists": [
-        {
-          "name": "Isadora Pompeo",
-          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
-        }
-      ],
-      "duration_ms": 237333,
-      "name": "Preciso Entender - Ao Vivo",
-      "url": "https://open.spotify.com/track/1EUm3fTMaakB3KdffkvCZk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bem Perto (Ao Vivo)",
         "url": "https://open.spotify.com/album/2yBnldCguXVLd6kd78B4Xq"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 426318,
       "name": "Bem Perto - Ao Vivo",
       "url": "https://open.spotify.com/track/4KE3EfxxvBZwoLVB3gHCc2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pra Te Contar Os Meus Segredos (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0yzFwrBgTavltGMMfwS4p5"
+      },
+      "artists": [
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "duration_ms": 237333,
+      "name": "Preciso Entender - Ao Vivo",
+      "url": "https://open.spotify.com/track/1EUm3fTMaakB3KdffkvCZk"
     },
     {
       "added_at": null,
@@ -731,22 +731,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dono dos Meus Dias",
-        "url": "https://open.spotify.com/album/0nklO7xX9T6fnQuDqzMPJU"
+        "name": "Guia-me",
+        "url": "https://open.spotify.com/album/2EEQMKmT4Ce4VCYWuWMSQS"
       },
       "artists": [
-        {
-          "name": "Daniela Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
-        },
         {
           "name": "Isadora Pompeo",
           "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
         }
       ],
-      "duration_ms": 239946,
-      "name": "Dono dos Meus Dias",
-      "url": "https://open.spotify.com/track/4DqMjreua66sH84GbccttX"
+      "duration_ms": 248062,
+      "name": "Guia-me",
+      "url": "https://open.spotify.com/track/2epjjOlDk4NrSMPtCvPkSc"
     },
     {
       "added_at": null,
@@ -775,18 +771,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Guia-me",
-        "url": "https://open.spotify.com/album/2EEQMKmT4Ce4VCYWuWMSQS"
+        "name": "Dono dos Meus Dias",
+        "url": "https://open.spotify.com/album/0nklO7xX9T6fnQuDqzMPJU"
       },
       "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        },
         {
           "name": "Isadora Pompeo",
           "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
         }
       ],
-      "duration_ms": 248062,
-      "name": "Guia-me",
-      "url": "https://open.spotify.com/track/2epjjOlDk4NrSMPtCvPkSc"
+      "duration_ms": 239946,
+      "name": "Dono dos Meus Dias",
+      "url": "https://open.spotify.com/track/4DqMjreua66sH84GbccttX"
     },
     {
       "added_at": null,

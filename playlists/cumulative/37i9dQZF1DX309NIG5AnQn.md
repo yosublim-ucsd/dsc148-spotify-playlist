@@ -2,9 +2,9 @@
 
 ### [el under](https://open.spotify.com/playlist/37i9dQZF1DX309NIG5AnQn)
 
-> rock alternativo argentino\. <br/>📷 RYAN
+> rock alternativo argentino\. <br/>📷 Buenos Vampiros
 
-212 songs - 12 hr 5 min
+213 songs - 12 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Abstinencia](https://open.spotify.com/track/72tsfpEv65vC4UxuviirDb) | [Winona Riders](https://open.spotify.com/artist/6ipac2Z0d0L6LWS7tTudcp) | [Abstinencia](https://open.spotify.com/album/4qACZqHGBIQvjcB5OLnzDJ) | 4:44 | 2023-03-23 | 2024-02-03 |
 | [Acantilados](https://open.spotify.com/track/3ye5LxSF9ckZBvuKgfOggW) | [Marina Fages](https://open.spotify.com/artist/1jBRvUY23iEpMeGCKZ2RO3) | [Acantilados](https://open.spotify.com/album/4oOSQbhvA8Rn6tMVkdWfAX) | 3:17 | 2022-03-25 | 2023-08-26 |
 | [ACUARIOS](https://open.spotify.com/track/5QyyzMLh3lYr88rJJmr8xf) | [FERMIN](https://open.spotify.com/artist/6ugrj0FCDIKINVrQP9sPJz), [Saramalacara](https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir) | [ORDEN Y PROGRESO](https://open.spotify.com/album/5vDs96vuAqYosG7g0jxxFx) | 3:05 | 2022-03-25 | 2023-03-25 |
-| [Aforismos](https://open.spotify.com/track/1xlNttatz94ku8vVjH7OMS) | [Maria Codino](https://open.spotify.com/artist/7zuaGTLVm6z97wydRCyUdj), [Carmen Sánchez Viamonte](https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6) | [Tiene Que Haber Un Mapa](https://open.spotify.com/album/4Nurj8APmgekx15HgXOyYB) | 3:28 | 2023-08-11 |  |
+| [Aforismos](https://open.spotify.com/track/1xlNttatz94ku8vVjH7OMS) | [Maria Codino](https://open.spotify.com/artist/7zuaGTLVm6z97wydRCyUdj), [Carmen Sánchez Viamonte](https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6) | [Tiene Que Haber Un Mapa](https://open.spotify.com/album/4Nurj8APmgekx15HgXOyYB) | 3:28 | 2023-08-11 | 2024-05-25 |
 | [Aguardiente](https://open.spotify.com/track/34h4kkt4n6SVI5zsjYrFvy) | [Marina Fages](https://open.spotify.com/artist/1jBRvUY23iEpMeGCKZ2RO3) | [EL MUNDO PEQUEÑO](https://open.spotify.com/album/7wmhvmQJ2Ms31oXLF0mLzi) | 4:25 | 2023-07-28 |  |
 | [Algo de Mí, Algo de Vos](https://open.spotify.com/track/5QLSpgVelBjHe6S7tMxzY7) | [Viva Elástico](https://open.spotify.com/artist/6dpGJKjrEet5TfcNTn2lZZ), [Jorge Serrano](https://open.spotify.com/artist/0MKZAy5tWkpbK7elkCZRLF) | [Algo de Mí, Algo de Vos](https://open.spotify.com/album/2OjRONkL7HZt4jhaXX0MDn) | 4:33 | 2022-03-25 | 2023-03-25 |
 | [Algo Especial](https://open.spotify.com/track/7CvOAdS95Jt41VPw7WyOER) | [Joint Ravolta](https://open.spotify.com/artist/6iOXlI4iuOoXZO1gzp99UW), [Eterna Inocencia](https://open.spotify.com/artist/5O8lCdBWT1JlDufwVywp01) | [Hartó](https://open.spotify.com/album/5UsHHKrC04Hq8tKe9UYJjF) | 5:23 | 2022-03-25 | 2023-03-25 |
@@ -147,6 +147,7 @@
 | [No Los Pueden Separar](https://open.spotify.com/track/7oJgGoOiDOYcwvGkQswzbO) | [RYAN](https://open.spotify.com/artist/3g7K56xAln97Nmy0G1hx8E) | [No Los Pueden Separar](https://open.spotify.com/album/3UQL0qaEoWlzrDcK1W7Z6j) | 2:22 | 2024-04-19 |  |
 | [no puedo volver](https://open.spotify.com/track/2LN4fRBRHEmhipl7OjQ9e1) | [Jazmín Esquivel](https://open.spotify.com/artist/0wfckwaQiT9YWllkSO7oUU) | [Medianoche Radio Club](https://open.spotify.com/album/1Bhx6as8YJyXPhRUS8rHj1) | 3:46 | 2022-03-25 | 2023-03-25 |
 | [No Te Perdono](https://open.spotify.com/track/6VCtOmBEoVZ1vMVS7HBY4C) | [MUGRE](https://open.spotify.com/artist/2mJNVPV7WxtrVrPSddTW6V) | [No Te Perdono](https://open.spotify.com/album/5xp6MOD8RdA1KQsR1qSXN0) | 3:23 | 2022-03-25 |  |
+| [No tengo idea](https://open.spotify.com/track/416HsmtDS0KEpTJlyGsLJS) | [Buenos Vampiros](https://open.spotify.com/artist/3zJriU41e7xy7PVHIhflBo) | [No tengo idea](https://open.spotify.com/album/5IEtotjjUIcyRkIJ743Ide) | 3:48 | 2024-05-24 |  |
 | [No Voy a Salir de la Cama](https://open.spotify.com/track/7gZnkVesq9YHoXpe6Jmoh4) | [La Real Academia](https://open.spotify.com/artist/4Rin3fJL3HmFKZsoJ2OzZm) | [Programa](https://open.spotify.com/album/22bH5HAEXK1gBETj87xxXm) | 2:26 | 2023-04-07 |  |
 | [NOVIOS IMAGINARIOS](https://open.spotify.com/track/3cJZrt65UKu0QUK0k6P0mb) | [BLAIR](https://open.spotify.com/artist/5sSn8vGaBxIKeCclAk67TJ) | [NOVIOS IMAGINARIOS](https://open.spotify.com/album/5wODKDJLbCcI79XTka4k00) | 4:44 | 2023-07-14 | 2023-10-28 |
 | [NT al sol](https://open.spotify.com/track/7maIZJiVUL5HBOzjFqOwp0) | [Melanie Williams & El Cabloide](https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31), [Paul Higgs](https://open.spotify.com/artist/0IomtauMPN6jngzrLsCb5V), [El Mundo Limon](https://open.spotify.com/artist/6ewUKYDx23YcomTOQdDvTB) | [NT al sol](https://open.spotify.com/album/1iI0hU3oBxRKRGs6lprkse) | 3:22 | 2023-03-31 |  |

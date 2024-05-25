@@ -2,14 +2,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZqKP81pHlu.md) - [plain]
 
 ### [DZ Hits](https://open.spotify.com/playlist/37i9dQZF1DX7ZqKP81pHlu)
 
-> Les hits algériens du moment\. Cover: Didine Canon 16
+> Les hits algériens du moment\. Cover: TIF
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,080 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,134 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Normal](https://open.spotify.com/track/64BdhCUilpLD8cxjbUIHER) | [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [Normal](https://open.spotify.com/album/0kp1wmniMAFFatjW8ehxsE) | 3:06 |
-| 2 | [Nothing Personal \- A COLORS SHOW](https://open.spotify.com/track/45Vsjd89poscQkXodaMc0v) | [TIF](https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH) | [Nothing Personal \- A COLORS SHOW](https://open.spotify.com/album/4DbG96qdPpW4hCvOUU5Vny) | 2:58 |
+| 1 | [Nothing Personal \- A COLORS SHOW](https://open.spotify.com/track/45Vsjd89poscQkXodaMc0v) | [TIF](https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH) | [Nothing Personal \- A COLORS SHOW](https://open.spotify.com/album/4DbG96qdPpW4hCvOUU5Vny) | 2:58 |
+| 2 | [Normal](https://open.spotify.com/track/64BdhCUilpLD8cxjbUIHER) | [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [Normal](https://open.spotify.com/album/0kp1wmniMAFFatjW8ehxsE) | 3:06 |
 | 3 | [Otra](https://open.spotify.com/track/0x9KqMgyO6SzBf4fLH9gsX) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [Otra](https://open.spotify.com/album/7CDNVS0VbByb886MZVPeuF) | 2:14 |
 | 4 | [Jamais yensak](https://open.spotify.com/track/1aoiOAlXOV3slSPbqACbp5) | [Lyna Mahyem](https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP), [Numidia Lezoul](https://open.spotify.com/artist/6muXgBSOp2nEPpnoJZUvGZ) | [Jamais yensak](https://open.spotify.com/album/6EcswaZItJn3EL53VYpU0w) | 2:48 |
 | 5 | [La nuit](https://open.spotify.com/track/0EqzmPWtJPcFvJfsa9rga7) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m), [TIF](https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH) | [Chambre 140 \(Part.1\)](https://open.spotify.com/album/0VRRwExn96kc3L9BfYIF6s) | 2:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZqKP81pHlu.md) - [plain]
 | 49 | [Ça dépend](https://open.spotify.com/track/5IQgqdOpizKkUmiwAcyCuu) | [Flenn](https://open.spotify.com/artist/66OYzK2q18j4EVdMqRtf6L), [Syc](https://open.spotify.com/artist/6IayXElM5gfjgyWj9Ipbiu) | [Ça dépend](https://open.spotify.com/album/0nowTxq2NVPtVxJBLeDdwp) | 2:50 |
 | 50 | [Toi & moi \(feat\. Mok Saib\) \- version acoustique](https://open.spotify.com/track/0W4h9LlrLvqE6B9u7KWdBz) | [Zaho](https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o), [Mok Saib](https://open.spotify.com/artist/6jcvupTBm6vk5SMEEVpvSW) | [Résilience](https://open.spotify.com/album/7pv5ansWsFSWQbN7uTJvQ2) | 3:19 |
 
-Snapshot ID: `ZkMNdQAAAACPqWw/AMyjSy3jYbxDOxGI`
+Snapshot ID: `ZlDiKgAAAACEdRJtrs0vAHkBKaWTnue+`

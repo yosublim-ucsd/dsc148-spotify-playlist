@@ -430,10 +430,28 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 135178,
       "name": "Asha",
       "url": "https://open.spotify.com/track/2UU4ALDWrARtEvD3yfhRUZ"
+    },
+    {
+      "album": {
+        "name": "Astral",
+        "url": "https://open.spotify.com/album/2KxWo30watEqpd1UsPAtT6"
+      },
+      "artists": [
+        {
+          "name": "Coherent Energy",
+          "url": "https://open.spotify.com/artist/7JjVTrxF7P0Vu0pXIIwsXP"
+        }
+      ],
+      "date_added": "2024-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133000,
+      "name": "Astral",
+      "url": "https://open.spotify.com/track/17gqU8qjn3Pq0ko215nvKY"
     },
     {
       "album": {
@@ -790,7 +808,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 186687,
       "name": "Changes",
       "url": "https://open.spotify.com/track/5wlC59ql7RSgBjZAL9lOYc"
@@ -1391,6 +1409,24 @@
     },
     {
       "album": {
+        "name": "Feathered",
+        "url": "https://open.spotify.com/album/6k0P5sLc32BTupcMUdqBRu"
+      },
+      "artists": [
+        {
+          "name": "MoonBees",
+          "url": "https://open.spotify.com/artist/3k3ZzD4rSu4E00cUi1900f"
+        }
+      ],
+      "date_added": "2024-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "Feathered",
+      "url": "https://open.spotify.com/track/6pfep9zCzzbIHalmG5cYRN"
+    },
+    {
+      "album": {
         "name": "Feel",
         "url": "https://open.spotify.com/album/4wgcY2pJnmKsDgbJPnrjWS"
       },
@@ -1834,7 +1870,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 166000,
       "name": "In Balance",
       "url": "https://open.spotify.com/track/5ipYoy8xS7FCAZqGJl0cvg"
@@ -1982,7 +2018,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 174473,
       "name": "Joie",
       "url": "https://open.spotify.com/track/1VmHLEPjlDmL3zCWQcygGC"
@@ -2112,6 +2148,24 @@
       "duration_ms": 178148,
       "name": "Light for all",
       "url": "https://open.spotify.com/track/0FRYGxLKBj6O8Fi0oKI3vB"
+    },
+    {
+      "album": {
+        "name": "Liraflor",
+        "url": "https://open.spotify.com/album/5R1HPAR6wqC7dVrd4XPfff"
+      },
+      "artists": [
+        {
+          "name": "Quiescent State",
+          "url": "https://open.spotify.com/artist/7kDDYKZcymPZjsZPFflsuJ"
+        }
+      ],
+      "date_added": "2024-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206400,
+      "name": "Liraflor",
+      "url": "https://open.spotify.com/track/4pYtXFw74ifagUgYy8XmKl"
     },
     {
       "album": {
@@ -2292,6 +2346,42 @@
       "duration_ms": 160800,
       "name": "Nano",
       "url": "https://open.spotify.com/track/1hg4tcl5W0XUhqBXqdYF78"
+    },
+    {
+      "album": {
+        "name": "Natural Aura",
+        "url": "https://open.spotify.com/album/0dkM1RjmZRlMDXCweCa8B0"
+      },
+      "artists": [
+        {
+          "name": "New Dawns",
+          "url": "https://open.spotify.com/artist/5hrLalNIieWvBxqxbj855p"
+        }
+      ],
+      "date_added": "2024-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142853,
+      "name": "Natural Aura",
+      "url": "https://open.spotify.com/track/2P9W9q7A8RUUU2XePN5IQM"
+    },
+    {
+      "album": {
+        "name": "Nebulas' Dream",
+        "url": "https://open.spotify.com/album/5n9lxDLqna8693aboPBgok"
+      },
+      "artists": [
+        {
+          "name": "Medi Mindler",
+          "url": "https://open.spotify.com/artist/2ltLAvYUvTFOgaovdZYUbr"
+        }
+      ],
+      "date_added": "2024-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175624,
+      "name": "Nebulas' Dream",
+      "url": "https://open.spotify.com/track/740ni6xq5jo2hkMD4DY0NU"
     },
     {
       "album": {
@@ -2583,6 +2673,24 @@
     },
     {
       "album": {
+        "name": "Placid",
+        "url": "https://open.spotify.com/album/4Ps00yzpjrio09MlcaAdKu"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Siesta",
+          "url": "https://open.spotify.com/artist/2TqnggQ9LjdAR1GBHhUcZ1"
+        }
+      ],
+      "date_added": "2024-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170666,
+      "name": "Placid",
+      "url": "https://open.spotify.com/track/6HRbUx7V017PctkDJotRc4"
+    },
+    {
+      "album": {
         "name": "Pondering",
         "url": "https://open.spotify.com/album/7t9gbTOlSMndGUbLJqOYH6"
       },
@@ -2634,6 +2742,24 @@
       "duration_ms": 191851,
       "name": "Rays of Warmth",
       "url": "https://open.spotify.com/track/66OUrai5ZjJgzwhKimF8F8"
+    },
+    {
+      "album": {
+        "name": "Reconcile",
+        "url": "https://open.spotify.com/album/5msoz4eQiiV0jKKmHw5QW0"
+      },
+      "artists": [
+        {
+          "name": "Jan Garlow",
+          "url": "https://open.spotify.com/artist/7ayyfLsqbafl12N6rdELCe"
+        }
+      ],
+      "date_added": "2024-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195466,
+      "name": "Reconcile",
+      "url": "https://open.spotify.com/track/3ICePNxRuTz1ufDJC7cq08"
     },
     {
       "album": {
@@ -2792,7 +2918,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 144109,
       "name": "Resting Mode",
       "url": "https://open.spotify.com/track/4M4pPhb3nKessOfO2luI7M"
@@ -3026,7 +3152,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 131797,
       "name": "Soft Blend",
       "url": "https://open.spotify.com/track/62bbizSic7MEEfMFDJniE5"
@@ -3996,7 +4122,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 172303,
       "name": "Zweck",
       "url": "https://open.spotify.com/track/4izTO69HJBi2zPaOGMc75S"

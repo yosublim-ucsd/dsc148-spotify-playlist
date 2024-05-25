@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMUEVjFZYsCv.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5rGEVA02BzuqceQxXAGrqE">James Arthur</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14 likes - 96 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 15 likes - 96 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMUEVjFZYsCv.md) - [plain]
 | 35 | [Remember Who I Was](https://open.spotify.com/track/0N5iX9O78Wsg0bzaU9qHIL) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Back from the Edge](https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD) | 2:57 |
 | 36 | [Is This Love?](https://open.spotify.com/track/7oJljyEdQzyTDzSM7b7cyG) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [James Arthur](https://open.spotify.com/album/7pzwt3MlcxBDbLwfKXpOuW) | 3:07 |
 | 37 | [Safe Inside \- Acoustic](https://open.spotify.com/track/0kIpJQHzu46yw6q3V78Ypt) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Safe Inside \(Acoustic\)](https://open.spotify.com/album/3yMhNXvtRBdXiG4tfKqge0) | 3:52 |
-| 38 | [Sober](https://open.spotify.com/track/6UzmmekCrcYrumwAjztVBK) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Back from the Edge](https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD) | 3:06 |
-| 39 | [Just Us](https://open.spotify.com/track/4OLtcsg17zj25oARUaaPpp) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Bitter Sweet Love](https://open.spotify.com/album/02muSEofPSAk276DCafUPb) | 3:34 |
+| 38 | [Just Us](https://open.spotify.com/track/4OLtcsg17zj25oARUaaPpp) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Bitter Sweet Love](https://open.spotify.com/album/02muSEofPSAk276DCafUPb) | 3:34 |
+| 39 | [Sober](https://open.spotify.com/track/6UzmmekCrcYrumwAjztVBK) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Back from the Edge](https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD) | 3:06 |
 | 40 | [Get Down](https://open.spotify.com/track/0XhJFBF31y90BAVf05XzqI) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [James Arthur](https://open.spotify.com/album/7pzwt3MlcxBDbLwfKXpOuW) | 3:46 |
 | 41 | [Maybe](https://open.spotify.com/track/3bMEc0K6zJNhTQeoyxox8j) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [YOU](https://open.spotify.com/album/0cm9LOQUBK3JUgyoRj238z) | 3:39 |
 | 42 | [Finally](https://open.spotify.com/track/1ZFu5Zz8XaS2q03fafwWKF) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Back from the Edge](https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD) | 4:21 |
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMUEVjFZYsCv.md) - [plain]
 | 95 | [Burn Me Alive \(feat\. James Arthur\)](https://open.spotify.com/track/1avrqqjrHakyG5JrlNRkq4) | [Alex Hepburn](https://open.spotify.com/artist/1rQ2ssALv6BirzJJxwETXO), [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Things I've Seen](https://open.spotify.com/album/2ptUS7vVvBKOD5PUSXZsGi) | 3:50 |
 | 96 | [Rollercoaster](https://open.spotify.com/track/7nzR2Ix0xJE4U9foEqTEsf) | [Missy Five](https://open.spotify.com/artist/1HrQGnCZCDGCJVicgtGlqW) | [Groovy 90S Hits!](https://open.spotify.com/album/4LPAFPbrRwAQ8qQ24ZLma9) | 3:14 |
 
-Snapshot ID: `AbSIWAAAAAD/hn4SnFBDp1LQwXYKNNBa`
+Snapshot ID: `AbSONAAAAACdbcHIoZF4Zwdl7JbNy8Lm`

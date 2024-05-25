@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX72wBcERxgla.md) - [plain]
 
 > Jazz piano to accompany your reading.
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,159 likes - 459 songs - 23 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,231 likes - 459 songs - 23 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Our Time](https://open.spotify.com/track/41AJ4gZHoL7JOpgUPXl4vr) | [Timothy Reisen](https://open.spotify.com/artist/4rJYlfkVsUwDk0iDUUBU01) | [Our Time](https://open.spotify.com/album/4uX4neguBj1gfq3xum5kSs) | 2:16 |
-| 2 | [Just A Little Thought](https://open.spotify.com/track/5wU4KJSvgbfxHPdXj5Sp6b) | [Seth Liane](https://open.spotify.com/artist/4JLTxlTLrEwcYFc2g0anOT) | [Just A Little Thought](https://open.spotify.com/album/3ZRG84XNodq7Km8JTbzeov) | 3:19 |
-| 3 | [We've Never Been Here](https://open.spotify.com/track/4ymZ6dNuL9uXOPKztxaGti) | [Tyler Marshall](https://open.spotify.com/artist/0fGoqU6EcyjcEEas59ee3k) | [We've Never Been Here](https://open.spotify.com/album/5m8PIlJl2gw8F5iCCX8HUM) | 3:13 |
-| 4 | [Still playing](https://open.spotify.com/track/3ZmMB5MLuocZsQ7zqoqjMX) | [Jeannie Purdue](https://open.spotify.com/artist/0A0cOM444T6hJehiTABk83) | [Still playing](https://open.spotify.com/album/2ATOhcvDREGBOSfpGb2ecZ) | 2:54 |
-| 5 | [I Guess I'll Hang My Tears Out To Dry](https://open.spotify.com/track/5qjvtdtsrrXo6Z6QvRknPZ) | [Will Mays](https://open.spotify.com/artist/4jx5IGq82FvwoaN7v0fTil) | [I Guess I'll Hang My Tears Out To Dry](https://open.spotify.com/album/3ADezWHg1JFVlxcrTnvSQa) | 2:43 |
-| 6 | [The Moon And Back](https://open.spotify.com/track/5rmRoI0SV7fE06r3FEl10z) | [Frank Guardiola](https://open.spotify.com/artist/5gcPk6Qs7bOVFQDwH5xRcl) | [The Moon And Back](https://open.spotify.com/album/3hTaYPoN4X56NliyzoMvtf) | 2:53 |
-| 7 | [Do You Know What It Means to Miss New Orleans](https://open.spotify.com/track/5foQbQQz5S3QBVX3LbrtqJ) | [Kristian Hart](https://open.spotify.com/artist/22SCUKjW2tk0xN50keUwjD) | [Do You Know What It Means to Miss New Orleans](https://open.spotify.com/album/0s66yiL4HYNtAAy3tHUHP2) | 3:43 |
-| 8 | [Piece de resistance](https://open.spotify.com/track/4BqrjtDW2iF3Cqnm52eySR) | [Jan Singh](https://open.spotify.com/artist/3754x5uMBUG3kwven7gOgu) | [Piece de resistance](https://open.spotify.com/album/4X1xVsNHV3u6faxprtA3Pi) | 2:36 |
+| 2 | [We've Never Been Here](https://open.spotify.com/track/4ymZ6dNuL9uXOPKztxaGti) | [Tyler Marshall](https://open.spotify.com/artist/0fGoqU6EcyjcEEas59ee3k) | [We've Never Been Here](https://open.spotify.com/album/5m8PIlJl2gw8F5iCCX8HUM) | 3:13 |
+| 3 | [Still playing](https://open.spotify.com/track/3ZmMB5MLuocZsQ7zqoqjMX) | [Jeannie Purdue](https://open.spotify.com/artist/0A0cOM444T6hJehiTABk83) | [Still playing](https://open.spotify.com/album/2ATOhcvDREGBOSfpGb2ecZ) | 2:54 |
+| 4 | [I Guess I'll Hang My Tears Out To Dry](https://open.spotify.com/track/5qjvtdtsrrXo6Z6QvRknPZ) | [Will Mays](https://open.spotify.com/artist/4jx5IGq82FvwoaN7v0fTil) | [I Guess I'll Hang My Tears Out To Dry](https://open.spotify.com/album/3ADezWHg1JFVlxcrTnvSQa) | 2:43 |
+| 5 | [The Moon And Back](https://open.spotify.com/track/5rmRoI0SV7fE06r3FEl10z) | [Frank Guardiola](https://open.spotify.com/artist/5gcPk6Qs7bOVFQDwH5xRcl) | [The Moon And Back](https://open.spotify.com/album/3hTaYPoN4X56NliyzoMvtf) | 2:53 |
+| 6 | [Do You Know What It Means to Miss New Orleans](https://open.spotify.com/track/5foQbQQz5S3QBVX3LbrtqJ) | [Kristian Hart](https://open.spotify.com/artist/22SCUKjW2tk0xN50keUwjD) | [Do You Know What It Means to Miss New Orleans](https://open.spotify.com/album/0s66yiL4HYNtAAy3tHUHP2) | 3:43 |
+| 7 | [Piece de resistance](https://open.spotify.com/track/4BqrjtDW2iF3Cqnm52eySR) | [Jan Singh](https://open.spotify.com/artist/3754x5uMBUG3kwven7gOgu) | [Piece de resistance](https://open.spotify.com/album/4X1xVsNHV3u6faxprtA3Pi) | 2:36 |
+| 8 | [Just A Little Thought](https://open.spotify.com/track/5wU4KJSvgbfxHPdXj5Sp6b) | [Seth Liane](https://open.spotify.com/artist/4JLTxlTLrEwcYFc2g0anOT) | [Just A Little Thought](https://open.spotify.com/album/3ZRG84XNodq7Km8JTbzeov) | 3:19 |
 | 9 | [Clear State Of Mind](https://open.spotify.com/track/36OpzLOYcztdNv6V9cJ9DB) | [Herman Anderson](https://open.spotify.com/artist/3SoWeHWTQIqJhegPfsR5Wp) | [Clear State Of Mind](https://open.spotify.com/album/6MVTvA4RGDOGA3XSVRndGY) | 3:32 |
 | 10 | [novak](https://open.spotify.com/track/3rZVAQpemoV95KJ7hvrSg8) | [Linior](https://open.spotify.com/artist/6IBrNzuYAMMWiTAg3xJRgw) | [novak](https://open.spotify.com/album/1ZLd1xk9RnVjL94hq4m3bM) | 2:10 |
 | 11 | [See you tomorrow](https://open.spotify.com/track/5ApP4J3IcZF6kFoldItSWy) | [Trey Patton](https://open.spotify.com/artist/16YBPq22nB5oyX5exXWfSn) | [See you tomorrow](https://open.spotify.com/album/7alzLpjhSmsL2Ixpc7WGgE) | 2:23 |
@@ -468,4 +468,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX72wBcERxgla.md) - [plain]
 | 458 | [I'm Glad There Is You](https://open.spotify.com/track/0wAqaMAcQhd9Jk78XgqHWs) | [Edward France](https://open.spotify.com/artist/6rPvE9uUU2fm3TaL12b8Hp) | [I'm Glad There Is You](https://open.spotify.com/album/77MH1Wv80xJi7l26Ri1VaJ) | 4:46 |
 | 459 | [I Left My Heart In San Francisco](https://open.spotify.com/track/0qMhdJjFV0VVu7atzy3VXd) | [Jim Jensen](https://open.spotify.com/artist/1mzZZuAmYl9ZyBmrI0beiJ) | [I Left My Heart In San Francisco](https://open.spotify.com/album/7Cti2pokVA6FYhZmYBzBZY) | 4:33 |
 
-Snapshot ID: `Zk7mEQAAAAB4Hfx0xHWjG4g1icKMgHi6`
+Snapshot ID: `ZlCVcQAAAAB+8N/XREM7MMTZhb4umUi/`

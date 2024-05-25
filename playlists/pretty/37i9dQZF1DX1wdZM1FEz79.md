@@ -2,13 +2,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wdZM1FEz79.md) - [plain]
 
 ### [K\-Folk/Acoustic](https://open.spotify.com/playlist/37i9dQZF1DX1wdZM1FEz79)
 
-> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover:Choi Su\-in\(최수인\)\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
+> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover:Darin\(다린\)\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 286,918 likes - 52 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,931 likes - 52 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [May 17 \(feat\. WISUE\)](https://open.spotify.com/track/5g03DNNJAyGS1m0tzgNDIg) | [Choi Su\-in](https://open.spotify.com/artist/4OKZWQn7ppMO0mpyXp6HHK), [WISUE](https://open.spotify.com/artist/6AtePm872YnH0PPQZpNFry) | [May 17 \(feat\. WISUE\)](https://open.spotify.com/album/5ylxnw3A7UgiwiXNAbVima) | 3:06 |
+| 1 | [dog\-ear serenade](https://open.spotify.com/track/67Ik5JjDPh8woWj712RxEk) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [serenade](https://open.spotify.com/album/72pWzyWNfsulaflLOi7gby) | 4:35 |
 | 2 | [Come back to me](https://open.spotify.com/track/2RNut2tMgGnggdKCxzLLNM) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Come back to me](https://open.spotify.com/album/01TpqEJQDjap26yL6FhByW) | 6:28 |
 | 3 | [First Confession](https://open.spotify.com/track/449Oc8OI6gPZo8FFuCEYO2) | [Norwegian Wood](https://open.spotify.com/artist/2Uvrls9HlspsRUtW6mp4Q3), [Eunbyeol](https://open.spotify.com/artist/6w4yTmsjdEcvc2nKuQo6gJ) | [First Confession](https://open.spotify.com/album/13AOgIWiuBJCMvAyBWW9SU) | 4:01 |
 | 4 | [Late Night Walk](https://open.spotify.com/track/3pzyC2zklDL1GFW41lWoWm) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [5.6 \[Late Night Walk\]](https://open.spotify.com/album/5IP9ctHpvSgG0YmR2Y5rAg) | 3:54 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wdZM1FEz79.md) - [plain]
 | 51 | [My Day](https://open.spotify.com/track/6tRGDcL8puwtHHPhac0uoq) | [TAEMIN](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) | [Navillera \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/4G8Gt7AamVOeGVo9Tq031e) | 3:06 |
 | 52 | [STAR](https://open.spotify.com/track/0DZ2mMWPkgDwWBnH6gtsQW) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [Our Blues, Pt\. 8 \(Original Television Soundtrack\)](https://open.spotify.com/album/7HGYMEqDL4pBarAVmpQDho) | 4:17 |
 
-Snapshot ID: `ZkcizwAAAABSg2xmSCNWXtDCfZBh6ZpG`
+Snapshot ID: `ZlCguwAAAADxD0RqBUlI53c3FJBZdoS+`

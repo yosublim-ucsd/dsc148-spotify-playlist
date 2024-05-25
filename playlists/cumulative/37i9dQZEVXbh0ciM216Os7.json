@@ -1910,7 +1910,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 181046,
       "name": "Back In My Bag",
       "url": "https://open.spotify.com/track/0rFpErCI4zTGkjb0tCuaLh"
@@ -3792,6 +3792,24 @@
       "duration_ms": 111458,
       "name": "BURN",
       "url": "https://open.spotify.com/track/04CyMEHliadfQWMUJb1w99"
+    },
+    {
+      "album": {
+        "name": "Burn for You (Extended Remix)",
+        "url": "https://open.spotify.com/album/0SMzwGfocvgE2AhwudkhFe"
+      },
+      "artists": [
+        {
+          "name": "INXS",
+          "url": "https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 368240,
+      "name": "Burn for You - Extended Remix",
+      "url": "https://open.spotify.com/track/6ZbVB0IaTWxNndZu2VIgGJ"
     },
     {
       "album": {
@@ -5852,7 +5870,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 390213,
       "name": "Devil Inside - 12\" Mix",
       "url": "https://open.spotify.com/track/3exSAvLVRkjjphLziPZoEi"
@@ -6240,6 +6258,28 @@
       "duration_ms": 231041,
       "name": "Dizzy (feat. Amin\u00e9)",
       "url": "https://open.spotify.com/track/4zoCcLYrVxb91i6GLfry1m"
+    },
+    {
+      "album": {
+        "name": "DND (It\u2019s Not Personal) - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/0mXQq8b0ovLxhT9TrGIgIP"
+      },
+      "artists": [
+        {
+          "name": "Rapsody",
+          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
+        },
+        {
+          "name": "Bee-B",
+          "url": "https://open.spotify.com/artist/13FgCXn7z3ld9mR2Pz8eqc"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156425,
+      "name": "DND (It's Not Personal) - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/0uhXqLoDPvsNpdgmmVpFFg"
     },
     {
       "album": {
@@ -6935,6 +6975,32 @@
     },
     {
       "album": {
+        "name": "DREAMS",
+        "url": "https://open.spotify.com/album/4CHv4PNbumbSkExOJ0bBOV"
+      },
+      "artists": [
+        {
+          "name": "Semaj Dee",
+          "url": "https://open.spotify.com/artist/5Z01iu7X49wa2EZGMvcFWG"
+        },
+        {
+          "name": "Georgia Anne Muldrow",
+          "url": "https://open.spotify.com/artist/2RdnkH5txHb9c4vGwq0I31"
+        },
+        {
+          "name": "Wakai",
+          "url": "https://open.spotify.com/artist/5id04zWscpprjAk5py8fkx"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177617,
+      "name": "DREAMS",
+      "url": "https://open.spotify.com/track/1w657XmpiKVz3p99BFMkNr"
+    },
+    {
+      "album": {
         "name": "Dreams (Live at the Fabulous Forum, Inglewood, CA 08/29/77)",
         "url": "https://open.spotify.com/album/3DWQp7uq3XlPvC03gZuGeq"
       },
@@ -7574,6 +7640,32 @@
       "duration_ms": 262000,
       "name": "Enter the swarm",
       "url": "https://open.spotify.com/track/5qKhOdwInRdhmJ86hBjkRe"
+    },
+    {
+      "album": {
+        "name": "Wang Tang",
+        "url": "https://open.spotify.com/album/6NY3YUltynfGoMGL8t5Mb2"
+      },
+      "artists": [
+        {
+          "name": "D.O.M of Dnd",
+          "url": "https://open.spotify.com/artist/6J5VuFIm5Yvy3o5LJKMnBm"
+        },
+        {
+          "name": "Inspectah Deck",
+          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
+        },
+        {
+          "name": "Bronze Nazareth",
+          "url": "https://open.spotify.com/artist/4VhYUWpDsLraUG6Sd8g9TF"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166301,
+      "name": "Erectah Deck",
+      "url": "https://open.spotify.com/track/6wrCRloYUpj7ooJy1lddk2"
     },
     {
       "album": {
@@ -9809,6 +9901,28 @@
     },
     {
       "album": {
+        "name": "Evil Eye / Get A Grip",
+        "url": "https://open.spotify.com/album/0DItQKhgUwLv6oWRcUeskz"
+      },
+      "artists": [
+        {
+          "name": "Black Sabbath",
+          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+        },
+        {
+          "name": "Tony Iommi",
+          "url": "https://open.spotify.com/artist/7iA7uWUkWLpapsaaqmzRQV"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241773,
+      "name": "Get a Grip - 2024 Tony Iommi Remix",
+      "url": "https://open.spotify.com/track/3nyCzsxkBLSJ7gltRb36Sb"
+    },
+    {
+      "album": {
         "name": "Get Close",
         "url": "https://open.spotify.com/album/75636FX5iYEcgCrLqcBtXr"
       },
@@ -9876,10 +9990,36 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 206397,
       "name": "Get Lit",
       "url": "https://open.spotify.com/track/22U208xCU1Vhw7jVlhnMZu"
+    },
+    {
+      "album": {
+        "name": "Fearless Movement",
+        "url": "https://open.spotify.com/album/0Jy18n9qpKS4RyDYmaPpdL"
+      },
+      "artists": [
+        {
+          "name": "Kamasi Washington",
+          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
+        },
+        {
+          "name": "George Clinton",
+          "url": "https://open.spotify.com/artist/2GVBp7QyHckoOg7rYkLvrA"
+        },
+        {
+          "name": "D Smoke",
+          "url": "https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206397,
+      "name": "Get Lit",
+      "url": "https://open.spotify.com/track/71W5DxBrYZaTuN2InvogKq"
     },
     {
       "album": {
@@ -14929,6 +15069,32 @@
     },
     {
       "album": {
+        "name": "Like This",
+        "url": "https://open.spotify.com/album/7l1XFL2D3OCSksIhejkPHv"
+      },
+      "artists": [
+        {
+          "name": "Slim Bill",
+          "url": "https://open.spotify.com/artist/0vkPpqhcnoNsC6FbSzWiqF"
+        },
+        {
+          "name": "IAM",
+          "url": "https://open.spotify.com/artist/56Q6weEROZ1RsVrTak8Bm7"
+        },
+        {
+          "name": "Icedbigfella",
+          "url": "https://open.spotify.com/artist/5aSZC5gikKgcpNN0lPlSk0"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139200,
+      "name": "Like This",
+      "url": "https://open.spotify.com/track/6zdHznovk52eXvTf9yL3QL"
+    },
+    {
+      "album": {
         "name": "Wax (Live at Sugarshack Sessions)",
         "url": "https://open.spotify.com/album/0kGqq07OHhebsF8IjQE5Wd"
       },
@@ -15082,7 +15248,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 226546,
       "name": "Little Foot Big Foot (feat. Young Nudy)",
       "url": "https://open.spotify.com/track/1SdqlTmK9P97PntBQrtf85"
@@ -15536,7 +15702,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 179586,
       "name": "LUNCH",
       "url": "https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE"
@@ -16840,7 +17006,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 133608,
       "name": "Moon Slide",
       "url": "https://open.spotify.com/track/6CrO3YUT3CwYI8lCU5GXvc"
@@ -17792,7 +17958,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-18",
+      "date_removed": null,
       "duration_ms": 266493,
       "name": "Neverender",
       "url": "https://open.spotify.com/track/0ccoGCaOFCxI6pHixrQpKj"
@@ -18338,6 +18504,24 @@
       "duration_ms": 220584,
       "name": "n\u00e9e-nah",
       "url": "https://open.spotify.com/track/6TdFkofgTvN0WfnWFmh4a6"
+    },
+    {
+      "album": {
+        "name": "Oblivion",
+        "url": "https://open.spotify.com/album/6EEjJ6CtxuWLGW34oQkFXv"
+      },
+      "artists": [
+        {
+          "name": "Phish",
+          "url": "https://open.spotify.com/artist/5wbIWUzTPuTxTyG6ouQKqz"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363863,
+      "name": "Oblivion",
+      "url": "https://open.spotify.com/track/6HvnPZNXaiaOzHldLAiOfE"
     },
     {
       "album": {
@@ -19036,7 +19220,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 175520,
       "name": "Organized Chaos",
       "url": "https://open.spotify.com/track/6rLSe4oGty53YAGDvkTS9k"
@@ -19621,6 +19805,28 @@
     },
     {
       "album": {
+        "name": "North Vol. 2",
+        "url": "https://open.spotify.com/album/29ViDgMA62axNx2WOABMjG"
+      },
+      "artists": [
+        {
+          "name": "Sango",
+          "url": "https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg"
+        },
+        {
+          "name": "GoldLink",
+          "url": "https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159166,
+      "name": "Peace",
+      "url": "https://open.spotify.com/track/60gKxdKtL9VIRhr3ENddBp"
+    },
+    {
+      "album": {
         "name": "Pegasus (ft. Phoebe Bridgers)",
         "url": "https://open.spotify.com/album/0gsw4flnfCrEqGr16ACAoQ"
       },
@@ -19684,6 +19890,24 @@
       "duration_ms": 109634,
       "name": "PERCEPTION CHECK",
       "url": "https://open.spotify.com/track/6o2nroFoqAxj7kSWLo6AGb"
+    },
+    {
+      "album": {
+        "name": "Perfume Of The Timeless",
+        "url": "https://open.spotify.com/album/2lzs5KtWl3eovh9AMdWwCt"
+      },
+      "artists": [
+        {
+          "name": "Nightwish",
+          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 491933,
+      "name": "Perfume Of The Timeless",
+      "url": "https://open.spotify.com/track/2XXXvrIkEBtR3LlbfJExpJ"
     },
     {
       "album": {
@@ -20943,6 +21167,28 @@
     },
     {
       "album": {
+        "name": "RATATATA",
+        "url": "https://open.spotify.com/album/4DccXktGbSRsgUoBvH8EN7"
+      },
+      "artists": [
+        {
+          "name": "BABYMETAL",
+          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
+        },
+        {
+          "name": "Electric Callboy",
+          "url": "https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216428,
+      "name": "RATATATA",
+      "url": "https://open.spotify.com/track/14WYmNQWvR2TTWoRp8t9Ml"
+    },
+    {
+      "album": {
         "name": "Real Good Day (with Wax)",
         "url": "https://open.spotify.com/album/4TLebqBQrKVQFsO6fjpnd2"
       },
@@ -21262,7 +21508,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 215193,
       "name": "Reign overall",
       "url": "https://open.spotify.com/track/6EuTNEFiSvBESrRyInKHdU"
@@ -28487,6 +28733,28 @@
     },
     {
       "album": {
+        "name": "wasted time re-mix",
+        "url": "https://open.spotify.com/album/67EFBkdaaq4kJ9gUUYgRXe"
+      },
+      "artists": [
+        {
+          "name": "white grouse",
+          "url": "https://open.spotify.com/artist/7pIv06qOhU2S6qfbAZn5KV"
+        },
+        {
+          "name": "Ol' Dirty Bastard",
+          "url": "https://open.spotify.com/artist/50NoVNy9GU1lCrDV8iGpyu"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139468,
+      "name": "wasted time re-mix",
+      "url": "https://open.spotify.com/track/09vOW9W5lC9O7tQZ73YtR5"
+    },
+    {
+      "album": {
         "name": "Watch This (ARIZONATEARS Pluggnb Remix)",
         "url": "https://open.spotify.com/album/0h04WVpjhX7TDcUlr5ztzo"
       },
@@ -29832,7 +30100,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 228127,
       "name": "World is yours",
       "url": "https://open.spotify.com/track/7tTyBDqBDLoOb5naKaM8Mm"

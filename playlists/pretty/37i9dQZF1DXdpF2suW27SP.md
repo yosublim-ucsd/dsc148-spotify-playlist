@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 
 > Plutonio entra na zona.
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,590 likes - 75 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,639 likes - 75 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 | 26 | [ANTI$$OCIAL](https://open.spotify.com/track/2zYzywRBJleWk5sOWWMjwp) | [LON3R JOHNY](https://open.spotify.com/artist/1fV7Au7ymGP3uhDV1TfjSd), [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [ANTI$$OCIAL](https://open.spotify.com/album/1IZA9xdjA6eL5M9sOfCvyI) | 3:14 |
 | 27 | [Heartless](https://open.spotify.com/track/1q4F4KfUNY4nDkuHDVLQya) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Heartbreak & Other Stories](https://open.spotify.com/album/3ZND79VBwdSp1g9jUndMXU) | 2:44 |
 | 28 | [Praça Onze](https://open.spotify.com/track/30WnHkBkq3vE8jJcNZ3RKr) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Praça Onze](https://open.spotify.com/album/3jPS6pgoJ4adGHImcNxETl) | 4:23 |
-| 29 | [Zaza](https://open.spotify.com/track/6z5v6mkzlQSwhVxWLBdPkR) | [Zara G](https://open.spotify.com/artist/7gem2HsdUnIMlGuhZT22Sb), [SUAVEYOUKNOW](https://open.spotify.com/artist/6AEbLpzV2RnxVZeWjP01no) | [Zaza](https://open.spotify.com/album/3uQP0b2GQjsBpM5kZoOghZ) | 2:12 |
+| 29 | [Zaza](https://open.spotify.com/track/6z5v6mkzlQSwhVxWLBdPkR) | [Zara G](https://open.spotify.com/artist/7gem2HsdUnIMlGuhZT22Sb), [SUAVEYOUKNOW](https://open.spotify.com/artist/1yFyrQDjGdTw0bo1YZdSmZ) | [Zaza](https://open.spotify.com/album/3uQP0b2GQjsBpM5kZoOghZ) | 2:12 |
 | 30 | [Pain](https://open.spotify.com/track/2LhPmI9zmj6V9kKr48xcqr) | [Dezinho](https://open.spotify.com/artist/6HV1KRb1BBx4VgcXyBmXxA) | [Pain](https://open.spotify.com/album/54J13b5GudIcDSsewgQB5Q) | 3:44 |
 | 31 | [WOW!](https://open.spotify.com/track/2pxjD7HGonOXbBOcw5Cd7o) | [LON3R JOHNY](https://open.spotify.com/artist/1fV7Au7ymGP3uhDV1TfjSd) | [WOW!](https://open.spotify.com/album/6acbvN5Pe1pKO58pys1H94) | 2:54 |
 | 32 | [Mesmo Lugar](https://open.spotify.com/track/5WzNOAQd3wjwwnWMAPnvpY) | [Gama WNTD](https://open.spotify.com/artist/0T49oz78JYl4FkVJPGlJiD) | [Mesmo Lugar](https://open.spotify.com/album/0fB64sC0z6R9MW8hj0GVCp) | 3:45 |

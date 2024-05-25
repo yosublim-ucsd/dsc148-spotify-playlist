@@ -2,9 +2,9 @@
 
 ### [VOLUME](https://open.spotify.com/playlist/37i9dQZF1DWWJOmJ7nRx0C)
 
-> The rock songs you need to know\. Turn it  ⬆️ Cover: <b>Highly Suspect</b>
+> The very best new rock songs\. Turn it  ⬆️ Cover: <b>Lenny Kravitz</b>
 
-1,173 songs - 2 day 22 hr 8 min
+1,175 songs - 2 day 22 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -301,7 +301,7 @@
 | [Divided](https://open.spotify.com/track/6CJcjkTDkX3hFoTxVPXJmw) | [Villain of the Story](https://open.spotify.com/artist/28XopU8Uw6D6Wl7rIgCVNE), [Loveless](https://open.spotify.com/artist/1MP7xlABJ13LtmHfG77SCJ) | [Divided](https://open.spotify.com/album/3y8C86Pm7N3YWAohYNAmjY) | 4:12 | 2022-11-18 | 2023-01-14 |
 | [Divine Attack \- Shingeki \-](https://open.spotify.com/track/0uOtodY9htazL9wojWhKhQ) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [Divine Attack \- Shingeki \-](https://open.spotify.com/album/6QZX14rv2DloXGEXcYMmSR) | 3:38 | 2022-10-21 | 2022-11-19 |
 | [Divisive](https://open.spotify.com/track/56FwTQ5GaxiatMwdFg1II4) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Divisive](https://open.spotify.com/album/5BcsEo6JDnVfXIzLzKzWeb) | 3:58 | 2022-10-28 | 2022-11-19 |
-| [Do It Faster](https://open.spotify.com/track/51SDO6rVAyqVouNO5AadIy) | [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q) | [Life Under The Gun](https://open.spotify.com/album/47k5dQRj8tZJwZjLUt85fi) | 1:47 | 2024-04-12 |  |
+| [Do It Faster](https://open.spotify.com/track/51SDO6rVAyqVouNO5AadIy) | [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q) | [Life Under The Gun](https://open.spotify.com/album/47k5dQRj8tZJwZjLUt85fi) | 1:47 | 2024-04-12 | 2024-05-25 |
 | [Do It So Good](https://open.spotify.com/track/7AdLQWyE8e2AKUBooSGCBt) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [Do It So Good](https://open.spotify.com/album/7s7bmCIHQjNtt83diSRZjm) | 3:22 | 2023-07-14 | 2023-09-16 |
 | [Do Or Die \(feat\. Nathan James\)](https://open.spotify.com/track/3LghS5iipA13F5iOJ8j0Gi) | [Sophie Lloyd](https://open.spotify.com/artist/6jOoEU2E2d2kGbxw33oJs3), [Inglorious](https://open.spotify.com/artist/5BxR80mpdn8MmHgzKVtiP7), [Nathan James](https://open.spotify.com/artist/61ZNvjxuVnqNtdxzLLUVyp) | [Do Or Die \(feat\. Nathan James\)](https://open.spotify.com/album/4VZkuF5QWDCbgdtjy4N4fI) | 3:13 | 2022-12-12 | 2023-05-13 |
 | [DOGMA](https://open.spotify.com/track/2HIhl2w9iWzxc9b6PJbXFw) | [Crown The Empire](https://open.spotify.com/artist/2vKiJjsgjgqIECUyYeIVvO) | [DOGMA](https://open.spotify.com/album/6bjW09q0WnAX0nIhrJ9rBr) | 2:46 | 2023-03-10 | 2023-07-01 |
@@ -488,7 +488,7 @@
 | [How To Ruin Everything \(Patience\) \[feat\. Ice Nine Kills\]](https://open.spotify.com/track/7Fl0b9D0scfhSmflkS9YLE) | [Bayside](https://open.spotify.com/artist/51J0q8S7W3kIEYHQi3EPqk), [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [How To Ruin Everything \(Patience\) \[feat\. Ice Nine Kills\]](https://open.spotify.com/album/3wI6LYcqfyWa4bvrRsIjNv) | 3:20 | 2023-02-03 | 2023-07-01 |
 | [How We Roll](https://open.spotify.com/track/1PEswZbSgJOEhMGY4FFLPE) | [Rockin'1000](https://open.spotify.com/artist/63umtqFBxSYFUupAErOYi4), [Black Stone Cherry](https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug) | [How We Roll](https://open.spotify.com/album/6LmYOtAKfNuJkkcfTZMc2U) | 2:54 | 2023-06-09 | 2023-07-29 |
 | [HTIS \(feat\. Luna Shadows & Carmen Vandenberg\)](https://open.spotify.com/track/3gbagPtR7WT8reMyyGXPl0) | [Meg Myers](https://open.spotify.com/artist/0W8xe7IqAPlnBRMUpWOUuJ), [Carmen Vandenberg](https://open.spotify.com/artist/2Zc5QLd6oXX67boj5GGfdS), [Luna Shadows](https://open.spotify.com/artist/55SUpsj027epu8yi663EKZ) | [HTIS \(feat\. Luna Shadows & Carmen Vandenberg\)](https://open.spotify.com/album/5XnTBxVlabGBGoMxw9b1PA) | 3:15 | 2022-04-01 | 2022-07-23 |
-| [Human \- Single Version](https://open.spotify.com/track/5cHjWKnwhdfj1z7pSJJ4uD) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Human](https://open.spotify.com/album/2Mr2fNS6Jz0dGUA7hR6lNR) | 3:31 | 2024-03-22 |  |
+| [Human \- Single Version](https://open.spotify.com/track/5cHjWKnwhdfj1z7pSJJ4uD) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Human](https://open.spotify.com/album/2Mr2fNS6Jz0dGUA7hR6lNR) | 3:31 | 2024-03-22 | 2024-05-25 |
 | [Hunter’s Moon](https://open.spotify.com/track/2sOzXOVI7Ia5ima0kLSl7v) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Hunter's Moon](https://open.spotify.com/album/3rBn9ZuDULTYNitBUO5ov1) | 3:16 | 2021-10-01 | 2022-04-23 |
 | [Hunting Season](https://open.spotify.com/track/0NCvhkLffy3suyYgXITOzP) | [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [Hunting Season](https://open.spotify.com/album/0WYaIyXVinvlnZvQlCNvB6) | 3:18 | 2022-04-01 | 2022-07-30 |
 | [Hurricane](https://open.spotify.com/track/5FJVPdR48WRCivDT7CXbYf) | [Cyan Kicks](https://open.spotify.com/artist/6nA097TpH4DgdzRYFXAXry) | [Hurricane](https://open.spotify.com/album/65z7MiMcyvptnddVK2LZeC) | 3:00 | 2022-01-14 | 2022-03-05 |
@@ -562,7 +562,7 @@
 | [Kill The Noise](https://open.spotify.com/track/2DyDyOW1hRYFFaMhBCAHJ9) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Ego Trip](https://open.spotify.com/album/5OSVAtytFqdJwIJpD3gGEJ) | 3:08 | 2022-04-08 | 2022-05-07 |
 | [Kill The Noise](https://open.spotify.com/track/3xr0ZIYqXVKogVu00fJRBX) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Kill The Noise](https://open.spotify.com/album/5Ob0D7DLOzpHe0KcZb67Ky) | 3:08 | 2021-09-10 | 2022-02-26 |
 | [Kingdom](https://open.spotify.com/track/3lecNIKPdDJoJngGhemome) | [Charlie Scene](https://open.spotify.com/artist/1NYRkiWuB3Hx3lT9O6D2JN) | [Kingdom](https://open.spotify.com/album/5JRSgrS54yE6ZMBHskYULB) | 2:57 | 2021-09-24 | 2022-06-11 |
-| [Kool\-Aid](https://open.spotify.com/track/1rBiNR61IhvbzeKwfs3AwE) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Kool\-Aid](https://open.spotify.com/album/1JYAxspYlODs9LjYO8Okut) | 3:48 | 2024-01-05 |  |
+| [Kool\-Aid](https://open.spotify.com/track/1rBiNR61IhvbzeKwfs3AwE) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Kool\-Aid](https://open.spotify.com/album/1JYAxspYlODs9LjYO8Okut) | 3:48 | 2024-01-05 | 2024-05-25 |
 | [Kryptonite \(Reloaded\)](https://open.spotify.com/track/2VMs3LPD0pKKD3z55ZmnVH) | [Jeris Johnson](https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq) | [Kryptonite \(Reloaded\)](https://open.spotify.com/album/0G2SRdxswmTnAehBCW0zqU) | 2:37 | 2022-12-21 | 2023-04-29 |
 | [KULT \(feat\. Jasiah\)](https://open.spotify.com/track/22ya9ZSp7FxhcgFLALm0eS) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4), [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0) | [KULT \(feat\. Jasiah\)](https://open.spotify.com/album/0OxOw42tYvwBMV2MVCWLKl) | 2:57 | 2022-02-25 | 2022-09-24 |
 | [Lacerate](https://open.spotify.com/track/2rR7ZDUEZNahj6RcV6U80J) | [Anberlin](https://open.spotify.com/artist/5v61OSg53KaQxGMpErkBNp) | [Lacerate](https://open.spotify.com/album/0tUGsLsmMtRk1YzpGExEhX) | 3:30 | 2023-06-09 | 2023-09-23 |
@@ -757,6 +757,7 @@
 | [Panoramic View](https://open.spotify.com/track/24DMpa4roYV1VkykwCSNMG) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Panoramic View](https://open.spotify.com/album/3lN0LPFg54r1NQOmLW24Jz) | 3:52 | 2024-03-29 |  |
 | [Paper Machete](https://open.spotify.com/track/5vdEuDGGG5PuyHwN6xtc6W) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Paper Machete](https://open.spotify.com/album/2ec7VED8zxmb93zpjdFYBM) | 3:22 | 2023-07-14 | 2023-12-09 |
 | [Paradox](https://open.spotify.com/track/6A7sTvj68RJAVgTduJEQnA) | [Survive Said The Prophet](https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh) | [Paradox](https://open.spotify.com/album/5CVLZcnzPNgpSUqJA71HYz) | 4:01 | 2023-04-07 | 2023-08-19 |
+| [Paralyzed](https://open.spotify.com/track/6PKxJG1HapLGNqaKoRaIq4) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Paralyzed](https://open.spotify.com/album/1CBaF78AkVYS2S3PufMKgl) | 4:28 | 2024-05-24 |  |
 | [Paranoid \(Crash & Burn\)](https://open.spotify.com/track/0BeWU3xxG2plP1lhphj660) | [Pop Evil](https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2) | [Paranoid \(Crash & Burn\)](https://open.spotify.com/album/4oLteDk1bawqdQuWd7K1iF) | 3:55 | 2022-09-30 | 2023-03-18 |
 | [Parasite](https://open.spotify.com/track/0sBXPxWJpMlQBnVF2y78Rg) | [Archetypes Collide](https://open.spotify.com/artist/6Gnk08ItppARKX1z1EW3Vn) | [Parasite](https://open.spotify.com/album/0sx2ImaWkigyLHH45jdIo1) | 3:32 | 2023-03-17 | 2023-08-26 |
 | [Parasite](https://open.spotify.com/track/47yul4OvMZctnAVjrEJ1YC) | [Set It Off](https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k) | [Parasite](https://open.spotify.com/album/1snJ2mJ2UJXASD7QteQ6PK) | 2:44 | 2023-12-08 | 2024-03-02 |
@@ -1061,6 +1062,7 @@
 | [Too Far Gone?](https://open.spotify.com/track/7KdgYr9jNkQO1Au7BGjGLW) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5) | 4:33 | 2023-04-21 | 2024-02-24 |
 | [Too Good At Raising Hell](https://open.spotify.com/track/7oob8M60wM76SlqThEwoTC) | [The Struts](https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA) | [Too Good At Raising Hell](https://open.spotify.com/album/7rynwXAYkqA8uExmOuXlwO) | 3:49 | 2023-08-11 | 2024-02-17 |
 | [Too Late](https://open.spotify.com/track/1n110MY4nS0rX59wbpNoPS) | [\(Hed\) P.E.](https://open.spotify.com/artist/0xIChbcTsuYLueN1oEsX9v) | [Too Late](https://open.spotify.com/album/5xTfpkXcdVjW5RjiWl4PkF) | 4:09 | 2023-10-13 | 2023-12-02 |
+| [Top 10 staTues tHat CriEd bloOd](https://open.spotify.com/track/7g4hIeYVk3h5qQXb9RLeXP) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [POST HUMAN: NeX GEn](https://open.spotify.com/album/1k7OXnGQPV4zF3seDwRroD) | 4:00 | 2024-05-24 |  |
 | [Trash](https://open.spotify.com/track/26TWZ1x4NDSEpzDtHxiZAM) | [The Hunna](https://open.spotify.com/artist/7jZycSvTyx0W9poD4PjEIG) | [Trash](https://open.spotify.com/album/3mCgA0NaZukB0CROXayoHp) | 2:10 | 2022-07-29 | 2022-09-24 |
 | [Trial By Fire](https://open.spotify.com/track/6oIGM95s3TIyPqhHIH2AQ6) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Trial By Fire](https://open.spotify.com/album/0Tfz5EVaNE6oeAn4vttNEi) | 4:21 | 2024-01-12 | 2024-02-24 |
 | [Truth](https://open.spotify.com/track/47HaGgU2pNSoSEqGXhpBvw) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [Lighting Up The Sky](https://open.spotify.com/album/178SPEdKkCkZI05AGiZXad) | 4:33 | 2024-02-23 |  |

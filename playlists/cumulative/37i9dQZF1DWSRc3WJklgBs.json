@@ -482,7 +482,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 220653,
       "name": "adore u",
       "url": "https://open.spotify.com/track/3YgtkOxZsTuaZdL8McA1FQ"
@@ -552,7 +552,7 @@
       ],
       "date_added": "2021-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 224569,
       "name": "After You (feat. Calle Lehmann)",
       "url": "https://open.spotify.com/track/6DiogHhtwkVgUHUDUJVuXV"
@@ -1620,6 +1620,28 @@
       "duration_ms": 204703,
       "name": "Anybody Else - Alyx Ander Remix",
       "url": "https://open.spotify.com/track/70ssLyL7lsxio25h7maT7I"
+    },
+    {
+      "album": {
+        "name": "Anyone",
+        "url": "https://open.spotify.com/album/4YLt37YBJKmbL9udretXlK"
+      },
+      "artists": [
+        {
+          "name": "LAR",
+          "url": "https://open.spotify.com/artist/2w3NdJswSn39l3TU9vIRq0"
+        },
+        {
+          "name": "Taylr Renee",
+          "url": "https://open.spotify.com/artist/27feHJH3VKyk8FgOndiWU8"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267540,
+      "name": "Anyone",
+      "url": "https://open.spotify.com/track/0s1XsqBecwpSibK8RSueWM"
     },
     {
       "album": {
@@ -4208,7 +4230,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 158019,
       "name": "Chemical High",
       "url": "https://open.spotify.com/track/01mt0RLXC0DQ4VPQpV6WWy"
@@ -6018,7 +6040,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 205479,
       "name": "Don\u2019t Let Me Let Go (with ILLENIUM & EVAN GIIA)",
       "url": "https://open.spotify.com/track/251aCFbFK1f4Jkil96E5g1"
@@ -7115,6 +7137,28 @@
     },
     {
       "album": {
+        "name": "Feel",
+        "url": "https://open.spotify.com/album/1xr54fLjHQSPjOF3MF6pEm"
+      },
+      "artists": [
+        {
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        },
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219208,
+      "name": "Feel",
+      "url": "https://open.spotify.com/track/5mMCnnycAkho18eZmZIDwi"
+    },
+    {
+      "album": {
         "name": "Feel Alive",
         "url": "https://open.spotify.com/album/7HrcX0abyUxFmgpVpFPN9y"
       },
@@ -8060,7 +8104,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 166230,
       "name": "Forever And A Day",
       "url": "https://open.spotify.com/track/5o1mS67lEoLCeFobGIaNb2"
@@ -8130,7 +8174,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 208017,
       "name": "Forgive Me",
       "url": "https://open.spotify.com/track/3IUiA6msgyFl3f8kzbdgQP"
@@ -8236,6 +8280,24 @@
       "duration_ms": 229253,
       "name": "Friday Night",
       "url": "https://open.spotify.com/track/6wgmzw64fvWGVNfDRbOHFh"
+    },
+    {
+      "album": {
+        "name": "From Inside",
+        "url": "https://open.spotify.com/album/6OtfFwVgDne8Nbq4RNt4KB"
+      },
+      "artists": [
+        {
+          "name": "Night Tales",
+          "url": "https://open.spotify.com/artist/7lCWd42OYd5Rn7UbozbA6R"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214750,
+      "name": "From Inside",
+      "url": "https://open.spotify.com/track/3ZukMcLMJa5JraseGmD2BI"
     },
     {
       "album": {
@@ -10756,7 +10818,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 196558,
       "name": "I Do - Vandelux Remix",
       "url": "https://open.spotify.com/track/5muXOWzcV0ckxYq0ATO1EW"
@@ -11410,7 +11472,7 @@
       ],
       "date_added": "2022-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 129600,
       "name": "I Want More",
       "url": "https://open.spotify.com/track/4ZWyj5whGZ3nNLwOtOLrMt"
@@ -13018,7 +13080,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 150000,
       "name": "Kratos (A Little Closer)",
       "url": "https://open.spotify.com/track/5xblvfji6HaQl7L4OwBMsm"
@@ -13252,6 +13314,28 @@
       "duration_ms": 234857,
       "name": "Leaving",
       "url": "https://open.spotify.com/track/5XlvOh5YbJMp7CU3NoksNf"
+    },
+    {
+      "album": {
+        "name": "Left Or Right",
+        "url": "https://open.spotify.com/album/5b7e1Oph2YSLKHw0hxPMn6"
+      },
+      "artists": [
+        {
+          "name": "Laidback Luke",
+          "url": "https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk"
+        },
+        {
+          "name": "Matthew Nolan",
+          "url": "https://open.spotify.com/artist/00eBZtIQVnVtZHOW1qDDDn"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193250,
+      "name": "Left Or Right",
+      "url": "https://open.spotify.com/track/4xNYBLLd9x2DA9ZW7DYYcg"
     },
     {
       "album": {
@@ -14116,7 +14200,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 139071,
       "name": "Lose It All (I Don't Wanna)",
       "url": "https://open.spotify.com/track/6FWAIkMvnS0ABEdBKcIp5K"
@@ -15190,6 +15274,24 @@
       "duration_ms": 296567,
       "name": "Lullaby",
       "url": "https://open.spotify.com/track/2c4dLyo3OqHdaej5tafhfR"
+    },
+    {
+      "album": {
+        "name": "L\u2019AMOUR DE MA VIE [OVER NOW EXTENDED EDIT]",
+        "url": "https://open.spotify.com/album/4YCeHlXgJTKlzuwHmvZZo8"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271969,
+      "name": "L\u2019AMOUR DE MA VIE [OVER NOW EXTENDED EDIT]",
+      "url": "https://open.spotify.com/track/2Y6U158gVXfvqNWOLdis0R"
     },
     {
       "album": {
@@ -20650,7 +20752,7 @@
       ],
       "date_added": "2024-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 136312,
       "name": "SLEEP TONIGHT (THIS IS THE LIFE) - with R3HAB and Sam Feldt",
       "url": "https://open.spotify.com/track/3pt8FTbqdnMyh3r9noAYsQ"
@@ -24847,6 +24949,28 @@
     },
     {
       "album": {
+        "name": "U REALLY HURT ME",
+        "url": "https://open.spotify.com/album/0sEsTyGtFhgTWxwIofbeC5"
+      },
+      "artists": [
+        {
+          "name": "Mild Minds",
+          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
+        },
+        {
+          "name": "LUV HRTS",
+          "url": "https://open.spotify.com/artist/4CCmq3kObiwqiUOn7dOww8"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162406,
+      "name": "U REALLY HURT ME",
+      "url": "https://open.spotify.com/track/1g6CSA2mlxKShnuNbUsLmy"
+    },
+    {
+      "album": {
         "name": "U&ME",
         "url": "https://open.spotify.com/album/1ENNuqHU0L7gI0Cc8HaqOq"
       },
@@ -25122,6 +25246,24 @@
       "duration_ms": 223542,
       "name": "WAIT (feat. Bipolar Sunshine)",
       "url": "https://open.spotify.com/track/06ZFfsiywuaqGnYQiUfbyn"
+    },
+    {
+      "album": {
+        "name": "Wait For Me",
+        "url": "https://open.spotify.com/album/7n1OTVw7UI8cSWS8yjbRXY"
+      },
+      "artists": [
+        {
+          "name": "Deerock",
+          "url": "https://open.spotify.com/artist/3BCouSmFlw2lHBmJmi1umh"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167272,
+      "name": "Wait For Me",
+      "url": "https://open.spotify.com/track/3lsFEuZwbkampEPm2uj84K"
     },
     {
       "album": {
@@ -26952,7 +27094,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 174193,
       "name": "Worlds On Fire (with R3HAB & Au/Ra)",
       "url": "https://open.spotify.com/track/7grzdNt3eQRiBC70GksRp1"

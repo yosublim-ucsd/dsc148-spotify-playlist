@@ -74,7 +74,7 @@
       ],
       "date_added": "2023-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 277106,
       "name": "20ms",
       "url": "https://open.spotify.com/track/2tMJnfs9ZcmNLweduzrvBv"
@@ -180,6 +180,32 @@
       "duration_ms": 359024,
       "name": "ADSR - Extended Mix",
       "url": "https://open.spotify.com/track/62sKCTw9PDCX5nr7yWzd8h"
+    },
+    {
+      "album": {
+        "name": "Air",
+        "url": "https://open.spotify.com/album/0sJSPnCa8bYl5OPuTmt5GZ"
+      },
+      "artists": [
+        {
+          "name": "Heard Right",
+          "url": "https://open.spotify.com/artist/3KdFNDrWsHS0EePg8svgRl"
+        },
+        {
+          "name": "Jope",
+          "url": "https://open.spotify.com/artist/2ro0e9u9DL7BkcXTtS7fJp"
+        },
+        {
+          "name": "Beacon Bloom",
+          "url": "https://open.spotify.com/artist/7ecriBfYo3KBxbNspB0Tcc"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228125,
+      "name": "Air",
+      "url": "https://open.spotify.com/track/4iDOEn9BxlbjorrOQji42Z"
     },
     {
       "album": {
@@ -394,6 +420,24 @@
       "duration_ms": 245208,
       "name": "ATK",
       "url": "https://open.spotify.com/track/6bhqnnTOHVIGsQL47S3w4N"
+    },
+    {
+      "album": {
+        "name": "Auna",
+        "url": "https://open.spotify.com/album/1ytjyth8lIRAvKp0ifGT00"
+      },
+      "artists": [
+        {
+          "name": "Hey Lu",
+          "url": "https://open.spotify.com/artist/1cEFbjnZBo3n1CrsGQHVuE"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214896,
+      "name": "Auna",
+      "url": "https://open.spotify.com/track/6rLCOcMd1DEPqMgX05ry7r"
     },
     {
       "album": {
@@ -1000,7 +1044,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 198877,
       "name": "Coming Up (Hold On) - Dokho Remix",
       "url": "https://open.spotify.com/track/0pAKG0jaOC5Zc6RykZzvgC"
@@ -1309,6 +1353,32 @@
     },
     {
       "album": {
+        "name": "Don't Look Back",
+        "url": "https://open.spotify.com/album/4lNYwEa1C888Vc8AeSoGoC"
+      },
+      "artists": [
+        {
+          "name": "Morgin Madison",
+          "url": "https://open.spotify.com/artist/1WrO4cGKIG6EgYqyHNReej"
+        },
+        {
+          "name": "HILYTE",
+          "url": "https://open.spotify.com/artist/4sElZwvStUkR2gFNypRwee"
+        },
+        {
+          "name": "Kayrae",
+          "url": "https://open.spotify.com/artist/6EVFrk3v6tpfgsx2FCPM2E"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211904,
+      "name": "Don't Look Back",
+      "url": "https://open.spotify.com/track/0BgTW71XRJ9hxR0zFYu5eN"
+    },
+    {
+      "album": {
         "name": "separation anxiety",
         "url": "https://open.spotify.com/album/7o9t3adexgpcxrEeEp8Dut"
       },
@@ -1474,7 +1544,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 134400,
       "name": "Echo",
       "url": "https://open.spotify.com/track/32fmwlkq7srmOAb5N0vdyj"
@@ -1936,6 +2006,24 @@
       "duration_ms": 275874,
       "name": "Feel This Way",
       "url": "https://open.spotify.com/track/7EdhZv9O79tzsVMVgUcDnM"
+    },
+    {
+      "album": {
+        "name": "Feelin'",
+        "url": "https://open.spotify.com/album/0RTmBSVTMfd6oIQ1Z0WwCv"
+      },
+      "artists": [
+        {
+          "name": "Anfisa Letyago",
+          "url": "https://open.spotify.com/artist/7icoOm5fKKPo49jVxoj1Cq"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165125,
+      "name": "Feelin'",
+      "url": "https://open.spotify.com/track/4mm3PG3fwbfLpmdVUmjM3T"
     },
     {
       "album": {
@@ -2431,6 +2519,24 @@
     },
     {
       "album": {
+        "name": "Guardian",
+        "url": "https://open.spotify.com/album/3vERVTVUvIE7JRPr5wlQwq"
+      },
+      "artists": [
+        {
+          "name": "Spencer Brown",
+          "url": "https://open.spotify.com/artist/4L9PX6lwPWo2NeuXL9kyJK"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 443500,
+      "name": "Guardian",
+      "url": "https://open.spotify.com/track/67bDg0xmFhqSJrOe83NGZf"
+    },
+    {
+      "album": {
         "name": "Heart Pieces",
         "url": "https://open.spotify.com/album/5jMooG8upBMMsuy1ynr1dh"
       },
@@ -2450,7 +2556,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 449280,
       "name": "Heart Pieces - Mustafa Ismaeel Remix",
       "url": "https://open.spotify.com/track/7lCOCbOmfYnM0YciPpIP1X"
@@ -2774,7 +2880,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 203540,
       "name": "I Got Nothing",
       "url": "https://open.spotify.com/track/4yagkb6nJCRcfjUhaOVHTw"
@@ -3752,6 +3858,24 @@
       "duration_ms": 186625,
       "name": "Moonbow",
       "url": "https://open.spotify.com/track/1G1CnOw2l7BIXLLzKhpUNF"
+    },
+    {
+      "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/28D9umTTAsMuEWuKj5WNAi"
+      },
+      "artists": [
+        {
+          "name": "Goom Gum",
+          "url": "https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224640,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/2uEcNtI8A8cxID8JCCIVZJ"
     },
     {
       "album": {
@@ -4958,7 +5082,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 257424,
       "name": "Seven Six Four",
       "url": "https://open.spotify.com/track/6yXhA6Kpk7wNOGx7fqzVZ0"
@@ -5731,6 +5855,24 @@
     },
     {
       "album": {
+        "name": "When I'm With You EP",
+        "url": "https://open.spotify.com/album/78J6ne4FcdzP9s7NiN6Mrr"
+      },
+      "artists": [
+        {
+          "name": "Nox Vahn",
+          "url": "https://open.spotify.com/artist/2bqGPuC8kDCTLWieGOyWxu"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226254,
+      "name": "The World Keeps Turning",
+      "url": "https://open.spotify.com/track/1sxGoYIDd1zPjLdxOgar7R"
+    },
+    {
+      "album": {
         "name": "This Feeling",
         "url": "https://open.spotify.com/album/70DRinqBAX17xz604tCR5M"
       },
@@ -6136,7 +6278,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 212782,
       "name": "Want U - Extended",
       "url": "https://open.spotify.com/track/47oPT0022xvFqb2eTNy7Uc"

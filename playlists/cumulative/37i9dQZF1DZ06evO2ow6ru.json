@@ -78,7 +78,7 @@
       ],
       "date_added": "2023-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 187317,
       "name": "Back to You",
       "url": "https://open.spotify.com/track/0NNFtjZHwjTZzBtBkRxhtY"
@@ -136,7 +136,7 @@
       ],
       "date_added": "2023-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 193151,
       "name": "Blinding Lights",
       "url": "https://open.spotify.com/track/2fx0rkeRamaGtmtA5QVkuy"
@@ -632,7 +632,7 @@
       ],
       "date_added": "2023-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 214093,
       "name": "Last Young Renegade",
       "url": "https://open.spotify.com/track/66hOCG7IpEJI5wfLDhajxD"
@@ -820,7 +820,7 @@
       ],
       "date_added": "2023-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-22",
+      "date_removed": null,
       "duration_ms": 226328,
       "name": "Oh, Calamity!",
       "url": "https://open.spotify.com/track/02Yrhsjo8H8UkjOm0kr7ca"
@@ -990,6 +990,24 @@
       "duration_ms": 204250,
       "name": "Say Something - Live From Spotify UK",
       "url": "https://open.spotify.com/track/3JHuDEDfKiFDvRaIlyBM5h"
+    },
+    {
+      "album": {
+        "name": "So Wrong, It's Right",
+        "url": "https://open.spotify.com/album/0H4ELcHequ3OligrjWfrZP"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "date_added": "2024-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221733,
+      "name": "Shameless",
+      "url": "https://open.spotify.com/track/5pWqD58cZ9TNvL9WbNfcQ3"
     },
     {
       "album": {
@@ -1310,7 +1328,7 @@
       ],
       "date_added": "2023-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-08",
+      "date_removed": null,
       "duration_ms": 172280,
       "name": "Toxic Valentine",
       "url": "https://open.spotify.com/track/0reDMKFg0nKaGUKqS3YUG0"

@@ -1911,6 +1911,24 @@
     },
     {
       "album": {
+        "name": "He Called Me Baby",
+        "url": "https://open.spotify.com/album/7aiK72YOfer4Rx9KzSOnak"
+      },
+      "artists": [
+        {
+          "name": "AJ Lee & Blue Summit",
+          "url": "https://open.spotify.com/artist/1VwMKPdHxC7tI21tynmXEr"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279198,
+      "name": "He Called Me Baby",
+      "url": "https://open.spotify.com/track/07XgjLPy8zK8ppSZ7r38gb"
+    },
+    {
+      "album": {
         "name": "Heart-Shaped Box",
         "url": "https://open.spotify.com/album/1oCcDnADb3h6NEvVPa2Cps"
       },
@@ -3176,6 +3194,24 @@
       "duration_ms": 186538,
       "name": "On the Turning Away",
       "url": "https://open.spotify.com/track/3TRR5kid8vTvIxBv5IC8Of"
+    },
+    {
+      "album": {
+        "name": "Campfire Sessions, Vol. 1",
+        "url": "https://open.spotify.com/album/1uXmtxwP3IC0mxBQdJybLP"
+      },
+      "artists": [
+        {
+          "name": "Malingo",
+          "url": "https://open.spotify.com/artist/3GPiR3rPEC514i5QxcfwFk"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244192,
+      "name": "Ooh La La",
+      "url": "https://open.spotify.com/track/1CIv9WQZP4Ny4cF9tfzA6T"
     },
     {
       "album": {
@@ -4642,6 +4678,28 @@
       "duration_ms": 294680,
       "name": "Valerie",
       "url": "https://open.spotify.com/track/41YOqmMxkDQZWqMZAExMx1"
+    },
+    {
+      "album": {
+        "name": "Wake Me Up (The Bluegrass Rendition)",
+        "url": "https://open.spotify.com/album/5nNr9tOefpudgC4QLcwh3g"
+      },
+      "artists": [
+        {
+          "name": "Tebey",
+          "url": "https://open.spotify.com/artist/2S0WpGRnEPyS5OuMp3KOEo"
+        },
+        {
+          "name": "Jake Vaadeland",
+          "url": "https://open.spotify.com/artist/3xQzfgIw2TLiFUfvlrKgH3"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263996,
+      "name": "Wake Me Up - The Bluegrass Rendition",
+      "url": "https://open.spotify.com/track/71W7aqLRQQmrqnGA7U5mzB"
     },
     {
       "album": {

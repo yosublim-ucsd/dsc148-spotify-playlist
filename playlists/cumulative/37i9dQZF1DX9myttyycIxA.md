@@ -2,9 +2,9 @@
 
 ### [undercurrents](https://open.spotify.com/playlist/37i9dQZF1DX9myttyycIxA)
 
-> Underground indie rock gems\. Cover: Wishy
+> Underground indie rock gems\. Cover: YULLOLA
 
-1,254 songs - 2 day 23 hr 30 min
+1,259 songs - 2 day 23 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -871,6 +871,7 @@
 | [princes of melancholia](https://open.spotify.com/track/6VTs85uQ0holJSYhflQsua) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [Dark Corners and Alchemy](https://open.spotify.com/album/3pcb6cs5ZquBAOiZXuQQRA) | 2:33 | 2023-03-24 | 2023-06-16 |
 | [Prove It](https://open.spotify.com/track/6DK7eKgThVAYH0VtQhtG6x) | [Lala Lala](https://open.spotify.com/artist/492I2sQFcHDcsZECYX25dE) | [Prove It](https://open.spotify.com/album/0nUe42yrUWiUl7pTUhPwGy) | 2:47 | 2021-09-10 | 2022-04-29 |
 | [Prudence & Poise](https://open.spotify.com/track/3RMZ0lEGewSR0CPab6Kv1r) | [Soft Glas](https://open.spotify.com/artist/64YO6kjOrspjCGA2GQwsT0) | [Prudence & Poise](https://open.spotify.com/album/0Z2ZkWyy4ZhCb6CzBVDxI0) | 4:20 | 2021-03-05 | 2022-04-20 |
+| [Pumpkin](https://open.spotify.com/track/1IQx5nJcdso6KsMloQSWza) | [Been Stellar](https://open.spotify.com/artist/3ep1YmatQ8L9UKCGYiJNBh) | [Pumpkin](https://open.spotify.com/album/6b5OV9K1FhzSTREVtpy8hs) | 4:17 | 2024-05-24 |  |
 | [Quantum Physics](https://open.spotify.com/track/5mI7nxjalLOnhoqeHLOSOX) | [Ruby Waters](https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd) | [Quantum Physics](https://open.spotify.com/album/4rRem8BYu1grDC7PMrlZ62) | 2:38 | 2021-03-05 | 2022-04-21 |
 | [Quarry](https://open.spotify.com/track/2rQw8ZLhgYDGMS8ijHk6Tr) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Rat Saw God](https://open.spotify.com/album/1oTR3aC0jYmwUlr9duBi05) | 4:07 | 2023-12-15 | 2024-05-18 |
 | [Queen of Ears](https://open.spotify.com/track/2y20szyvKlsK3jnL3LwPK9) | [Quasi](https://open.spotify.com/artist/0fiUV7n91Qqmgln2vQMVdO) | [Queen of Ears](https://open.spotify.com/album/5pPAwx1AV9H3aWepcY7DhA) | 3:06 | 2022-10-28 | 2022-12-18 |
@@ -912,6 +913,7 @@
 | [Runaway](https://open.spotify.com/track/5NCu775I8ic63BLtEB8szw) | [Kylie V](https://open.spotify.com/artist/59tF1lYaJIOSw9JvWXsRAI) | [Runaway](https://open.spotify.com/album/4oDBU6BARbCOFLsDwGkf9n) | 5:38 | 2023-02-03 | 2023-03-18 |
 | [Runner](https://open.spotify.com/track/5PmvRPR1SedsWA08jDDgF9) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Runner](https://open.spotify.com/album/5jhIfSbDYyInZbF9c4EauX) | 2:36 | 2022-06-24 | 2022-08-06 |
 | [runnning in place at the edge of the map](https://open.spotify.com/track/26DOPFm4uhx8EVpwrYTb8M) | [Runnner](https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0) | [runnning in place at the edge of the map](https://open.spotify.com/album/4Uukzt62MsJKfLH4U6Ks6x) | 5:07 | 2023-01-27 | 2023-06-16 |
+| [Runway](https://open.spotify.com/track/2nyi6DiE3kwKc3Kbc0DILM) | [Kaz Moon](https://open.spotify.com/artist/70TpT5Yq8mRwav91mSTKQV) | [Runway](https://open.spotify.com/album/3dnOO9ml5nuGJm8LdVzvRx) | 3:08 | 2024-05-24 |  |
 | [Rushmore](https://open.spotify.com/track/3yqMNt1hSk4Dv4N13Ho29W) | [ash tuesday](https://open.spotify.com/artist/3kEaS1rKstrWw6Zb9H5vBE) | [Rushmore](https://open.spotify.com/album/5tGPASugTD6gzSVXc8o2h6) | 2:54 | 2022-07-29 | 2022-12-15 |
 | [Sad Chick \(Overcoats Remix\)](https://open.spotify.com/track/3pSzGdBI2izEY9gbvVufGD) | [talker](https://open.spotify.com/artist/1wcTmtixisIzV10W69W6lm), [Overcoats](https://open.spotify.com/artist/2pst3pDewxsl4kJERuDZpp) | [Sad Chick \(Overcoats Remix\)](https://open.spotify.com/album/3f2JR6SGYHgPeTcoDSOzLf) | 3:31 | 2022-12-02 | 2023-01-22 |
 | [Sad Disco](https://open.spotify.com/track/2BedHMJWiW5CuiTd2wza1u) | [flipturn](https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH) | [Shadowglow](https://open.spotify.com/album/1gu4P2JcclHD1BvDXx2pqq) | 3:47 | 2022-08-19 | 2023-01-18 |
@@ -959,6 +961,7 @@
 | [Sinkin'](https://open.spotify.com/track/1Jolzi0FbJxLh2VOZXBvin) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Sunflower](https://open.spotify.com/album/09VQgw9zdYyTRCvQMY3lK3) | 3:09 | 2021-04-30 | 2022-04-22 |
 | [Sit Down, Let Me Tell You a Story.](https://open.spotify.com/track/77DCX4rrfn4nHCudFcfSLg) | [Deerhoof](https://open.spotify.com/artist/7AZwAitWq1KcFoIJhRWb6V) | [Miracle\-Level](https://open.spotify.com/album/2ue49EW32PZ8ytPDOtZHcw) | 2:05 | 2023-06-15 | 2023-07-27 |
 | [Sit on Your Hands](https://open.spotify.com/track/1AUl49yGgselgHvW6DKQpx) | [chemical club](https://open.spotify.com/artist/1J4KMCREAODEtqsexXWbeN) | [Sit on Your Hands](https://open.spotify.com/album/6MwVFr8VucrU2kVVAI3xqQ) | 2:55 | 2021-03-05 | 2021-12-31 |
+| [sKill isSue](https://open.spotify.com/track/4XFSlBTvpkjvClOl57muno) | [untitled \(halo\)](https://open.spotify.com/artist/3r9Q5Yy2TA8QG4CtJlvhIn) | [sKill isSue](https://open.spotify.com/album/5KQOYZ9WKmTGpqAUSUNJET) | 1:55 | 2024-05-24 |  |
 | [Skin Parade / Fade Into You \- Live At Narcissus](https://open.spotify.com/track/2FsPY6AAXMDqU9EsN8Gs0t) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [Live At Narcissus](https://open.spotify.com/album/5CV2tpSgGgDj7OhcLfRLM1) | 5:38 | 2024-04-12 |  |
 | [Sleep In](https://open.spotify.com/track/7xAh188KXyqSqxisi0HL2j) | [Career Woman](https://open.spotify.com/artist/17RK5BpOKQ4YVtCHFWKK3y), [Small Crush](https://open.spotify.com/artist/5MpGrez01Tx9nl5YQ1Aseq) | [Sleep In](https://open.spotify.com/album/22TydprUERlmijzweFcqpb) | 3:28 | 2022-07-22 | 2022-09-29 |
 | [Sleeping on the Ground](https://open.spotify.com/track/0mEB7kL6nknUILQyD3pzMW) | [Homeschool](https://open.spotify.com/artist/3QSLQuaMerIfT2VHvqObG8) | [Sleeping on the Ground](https://open.spotify.com/album/4aJ3DahrixMsErIem1NFM9) | 3:03 | 2022-03-04 | 2022-04-21 |
@@ -982,6 +985,7 @@
 | [Soft Stud](https://open.spotify.com/track/2i1jIsRpjjzaV85v1fS4Hu) | [Black Belt Eagle Scout](https://open.spotify.com/artist/1CUUXdvZE6UzwQyBUm5YVD) | [Mother of My Children](https://open.spotify.com/album/2QjUIrwCIeXwORe8R4u7tH) | 6:08 | 2021-06-02 | 2022-04-29 |
 | [Some Things Never Change](https://open.spotify.com/track/4clBv8sHZ7gqyH7xhlmCCC) | [Priestgate](https://open.spotify.com/artist/0mhU2f9YqeYcnEW6ynit0i) | [Some Things Never Change](https://open.spotify.com/album/1UQqxMCjWrWBm5oIk79sV4) | 3:37 | 2022-10-14 | 2022-12-15 |
 | [Somebody Else](https://open.spotify.com/track/6vo7lsIDO64i9a4wgh5TbC) | [Luby Sparks](https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq) | [Somebody Else](https://open.spotify.com/album/2f0EYXEOVj2PYJcWK6XmsS) | 4:36 | 2024-04-26 |  |
+| [Somehow I Forgot](https://open.spotify.com/track/0YtblIQRK83VTI0ienTyOH) | [Field Guide](https://open.spotify.com/artist/3m8lmJWxlk9SPTFFCdxJVz) | [Rootin' For Ya](https://open.spotify.com/album/0hKRKYg5UNFALZdhwukJVL) | 3:11 | 2024-05-24 |  |
 | [Someone to Love](https://open.spotify.com/track/5UIdBn6A2gHCRmmdghSnFo) | [Drugdealer](https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ) | [Pictures of You](https://open.spotify.com/album/4VykpJKWx1lQ0b4r9cRCTP) | 3:56 | 2022-10-21 | 2022-11-13 |
 | [Someone to Love](https://open.spotify.com/track/6FAoGmM3fdvOvEivi9edSd) | [Drugdealer](https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ) | [Someone to Love](https://open.spotify.com/album/42PFGz6vnOm79L3kYli8Z5) | 3:56 | 2022-08-26 | 2022-10-31 |
 | [Someone to Love](https://open.spotify.com/track/7wtNoo3GB6Dv7KhiLmyY7T) | [Drugdealer](https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ) | [Hiding in Plain Sight](https://open.spotify.com/album/7kaw62RSTT97qeCUyURCLN) | 3:56 | 2022-10-21 | 2023-01-18 |
@@ -1055,6 +1059,7 @@
 | [Sweet](https://open.spotify.com/track/05vnmfSANBVUgbHuZ6cc8W) | [feeble little horse](https://open.spotify.com/artist/2GJa7lPCjAB1rKXptXrfy8) | [Girl with Fish](https://open.spotify.com/album/4lVMhVIgEdxIoTu7gS7CoT) | 2:35 | 2023-06-09 | 2023-06-16 |
 | [Sweet Caroline](https://open.spotify.com/track/4DRKhEKQ1NxncQ2IbhRayU) | [Mr Floyd Larry](https://open.spotify.com/artist/1k8ck5j4cuHYuzy3nPHDrM) | [Sweet Caroline](https://open.spotify.com/album/7hib9PcyzXjKAxL9YS1ubl) | 1:41 | 2023-12-01 | 2024-05-11 |
 | [Sweet Delila](https://open.spotify.com/track/75RVE1N6t9Lyku02EpOGKd) | [Celler Dwellers](https://open.spotify.com/artist/6JqJpTCoO1tmLR7mVhFmFx) | [Sweet Delila](https://open.spotify.com/album/4oZfvdDPjf20MludjEHUpS) | 2:47 | 2022-12-02 | 2022-12-15 |
+| [Sweet Lilac](https://open.spotify.com/track/4AvzyTw47aX8JW04H33O1i) | [YULLOLA](https://open.spotify.com/artist/6vABHl7aPLdJwk0BU9cilg) | [Zen Maiden](https://open.spotify.com/album/5KzJWSKekKo0IbzjrrXjsR) | 2:48 | 2024-05-24 |  |
 | [Sweetgreen](https://open.spotify.com/track/1vE7VkxO8nIvtidcZTf1yy) | [Gabbo](https://open.spotify.com/artist/1RSDS6LlCTScYAfJivL0Cw) | [Sweetgreen](https://open.spotify.com/album/5vheKIiwAA69WtWQT67DWs) | 4:16 | 2021-07-16 | 2022-04-12 |
 | [T\-Shirt](https://open.spotify.com/track/4nbUCgADOoOzz8bU8SXkk0) | [Laura Elliott](https://open.spotify.com/artist/0YJEuTCD642Yp34CoiH0ox) | [T\-Shirt](https://open.spotify.com/album/4xxjiWgYKD5P1g0SFKBqNh) | 2:47 | 2023-11-17 | 2024-05-03 |
 | [Table](https://open.spotify.com/track/5OkOZ6NZzrqSUE3OlBY2RJ) | [Katy Kirby](https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy) | [Table](https://open.spotify.com/album/1ZDE21dsxXP6INA3HwkvID) | 2:00 | 2023-10-27 | 2024-01-27 |

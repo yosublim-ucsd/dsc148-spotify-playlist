@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUACcBjzMiIY.md) - [plain]
 
 > Easy listening for a pleasant drive.
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,429 likes - 200 songs - 12 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,433 likes - 200 songs - 12 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

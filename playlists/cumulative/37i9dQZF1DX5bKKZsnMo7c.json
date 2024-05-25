@@ -479,6 +479,28 @@
     },
     {
       "album": {
+        "name": "Elegant Ensemble",
+        "url": "https://open.spotify.com/album/5LVsFiW7vbyElF7NBGEZB2"
+      },
+      "artists": [
+        {
+          "name": "May Rio",
+          "url": "https://open.spotify.com/artist/1SlT1K1OULPzNSwmieTA2w"
+        },
+        {
+          "name": "Elegant Ensemble",
+          "url": "https://open.spotify.com/artist/6Gis2e0EzPH00b2v5OIFxh"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196226,
+      "name": "Aspartame",
+      "url": "https://open.spotify.com/track/18PHtRnlXpXC3A01eOXRdX"
+    },
+    {
+      "album": {
         "name": "Backseat Girl",
         "url": "https://open.spotify.com/album/1Ht5DzGkQdXs6iXCQjjRC9"
       },
@@ -1640,10 +1662,28 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 179955,
       "name": "Devil Town",
       "url": "https://open.spotify.com/track/0vf2eBw2inhl8y61cYQMv2"
+    },
+    {
+      "album": {
+        "name": "Knives For Aries",
+        "url": "https://open.spotify.com/album/2EL0n7jffmOwkdEvm60kwi"
+      },
+      "artists": [
+        {
+          "name": "Roar",
+          "url": "https://open.spotify.com/artist/7dIpKWlEeAljA20vFJ82RD"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126246,
+      "name": "Difluoroethane",
+      "url": "https://open.spotify.com/track/6wqlEKnSMVq37ZipY04pMp"
     },
     {
       "album": {
@@ -2954,7 +2994,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 119400,
       "name": "I Love To Dance",
       "url": "https://open.spotify.com/track/3IbT4cFEQYLz1P9MFnRmYu"
@@ -3218,7 +3258,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 146769,
       "name": "It Is What It Is",
       "url": "https://open.spotify.com/track/1558CwDaXSZiCplq9AaH0q"
@@ -5569,6 +5609,24 @@
     },
     {
       "album": {
+        "name": "Sunday Morning",
+        "url": "https://open.spotify.com/album/5Z61nSZOz926LJeacvpf3b"
+      },
+      "artists": [
+        {
+          "name": "Dominick Fulco",
+          "url": "https://open.spotify.com/artist/3s7mu0cVl7jhG6EZE6WNP6"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171333,
+      "name": "Sunday Morning",
+      "url": "https://open.spotify.com/track/3viBNiQST9s6ea8NW27ZYo"
+    },
+    {
+      "album": {
         "name": "Who Really Cares",
         "url": "https://open.spotify.com/album/4oL7pMxnb04uuRI7ReXmuh"
       },
@@ -6511,6 +6569,24 @@
     },
     {
       "album": {
+        "name": "Wedding Day",
+        "url": "https://open.spotify.com/album/2OcYyisv1jKz7vjLuG42qS"
+      },
+      "artists": [
+        {
+          "name": "Justin Nech",
+          "url": "https://open.spotify.com/artist/6rbfAxYhRLdtLo3CzhTieA"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165309,
+      "name": "Wedding Day",
+      "url": "https://open.spotify.com/track/0VdwQ8I71j9oEQEMftFjTC"
+    },
+    {
+      "album": {
         "name": "The Black Parade",
         "url": "https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK"
       },
@@ -6664,7 +6740,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 215936,
       "name": "World Burn",
       "url": "https://open.spotify.com/track/12t8ncJH9PC4P9SxvEEySH"

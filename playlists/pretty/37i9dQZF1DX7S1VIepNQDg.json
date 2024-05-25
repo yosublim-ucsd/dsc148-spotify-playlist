@@ -1,6 +1,6 @@
 {
   "description": "Got that summertime feeling \ud83c\udf34",
-  "num_followers": 60483,
+  "num_followers": 60484,
   "original_name": "Pool Party",
   "owner": {
     "name": "Spotify",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-12-19 09:07:27",
       "album": {
-        "name": "Trippin Up",
-        "url": "https://open.spotify.com/album/7uwEnfcYLSmSn4W8ZTCsoh"
-      },
-      "artists": [
-        {
-          "name": "The Jungle Giants",
-          "url": "https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt"
-        }
-      ],
-      "duration_ms": 177851,
-      "name": "Trippin Up",
-      "url": "https://open.spotify.com/track/4hK0ysTJ6bUo6xDtonuq16"
-    },
-    {
-      "added_at": "2023-12-19 09:07:27",
-      "album": {
         "name": "Things Don't Always Go The Way You Plan",
         "url": "https://open.spotify.com/album/6JlmbLrsozWe61rYTVsG7n"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 233859,
       "name": "Rhinestone 1.7.2 [2018 Export Wav] feat. Isabella Manfredi",
       "url": "https://open.spotify.com/track/06gtPF7fljlItis2PohQP0"
+    },
+    {
+      "added_at": "2023-12-19 09:07:27",
+      "album": {
+        "name": "Trippin Up",
+        "url": "https://open.spotify.com/album/7uwEnfcYLSmSn4W8ZTCsoh"
+      },
+      "artists": [
+        {
+          "name": "The Jungle Giants",
+          "url": "https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt"
+        }
+      ],
+      "duration_ms": 177851,
+      "name": "Trippin Up",
+      "url": "https://open.spotify.com/track/4hK0ysTJ6bUo6xDtonuq16"
     },
     {
       "added_at": "2023-12-19 09:07:27",
@@ -971,6 +971,22 @@
     {
       "added_at": "2023-12-19 09:07:27",
       "album": {
+        "name": "Coffee",
+        "url": "https://open.spotify.com/album/5QvtSMjg0Qr2DFa7LRKA1u"
+      },
+      "artists": [
+        {
+          "name": "Memphis LK",
+          "url": "https://open.spotify.com/artist/7z3XgqpRYdNJ7RvEUlYaUe"
+        }
+      ],
+      "duration_ms": 193737,
+      "name": "Coffee",
+      "url": "https://open.spotify.com/track/7uS0B4O1PDYQhZJQIuFjtR"
+    },
+    {
+      "added_at": "2023-12-19 09:07:27",
+      "album": {
         "name": "You Thought (feat. Janelle Mon\u00e1e)",
         "url": "https://open.spotify.com/album/35ejmgq9Xl3fz18MQmVSs6"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 181453,
       "name": "You Thought (feat. Janelle Mon\u00e1e)",
       "url": "https://open.spotify.com/track/52hSgk5YbiBmdDdIrGDPsd"
-    },
-    {
-      "added_at": "2023-12-19 09:07:27",
-      "album": {
-        "name": "Coffee",
-        "url": "https://open.spotify.com/album/5QvtSMjg0Qr2DFa7LRKA1u"
-      },
-      "artists": [
-        {
-          "name": "Memphis LK",
-          "url": "https://open.spotify.com/artist/7z3XgqpRYdNJ7RvEUlYaUe"
-        }
-      ],
-      "duration_ms": 193737,
-      "name": "Coffee",
-      "url": "https://open.spotify.com/track/7uS0B4O1PDYQhZJQIuFjtR"
     },
     {
       "added_at": "2023-12-19 09:07:27",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2023-12-19 09:07:27",
       "album": {
-        "name": "Sofa King",
-        "url": "https://open.spotify.com/album/2GLBrbr4Syp565yWaurWJo"
-      },
-      "artists": [
-        {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
-        }
-      ],
-      "duration_ms": 196317,
-      "name": "Sofa King",
-      "url": "https://open.spotify.com/track/4CxgqrS5kSP1asW2Mtj7sP"
-    },
-    {
-      "added_at": "2023-12-19 09:07:27",
-      "album": {
         "name": "Mosquito Love",
         "url": "https://open.spotify.com/album/6BSM2BWyG87s0j7hWIQC1V"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 195610,
       "name": "Sour Berry",
       "url": "https://open.spotify.com/track/2SDyTX6UVufhOds0mg2No8"
+    },
+    {
+      "added_at": "2023-12-19 09:07:27",
+      "album": {
+        "name": "Sofa King",
+        "url": "https://open.spotify.com/album/2GLBrbr4Syp565yWaurWJo"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "duration_ms": 196317,
+      "name": "Sofa King",
+      "url": "https://open.spotify.com/track/4CxgqrS5kSP1asW2Mtj7sP"
     },
     {
       "added_at": "2023-12-19 09:07:27",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2023-12-19 09:07:27",
       "album": {
-        "name": "Moth Love",
-        "url": "https://open.spotify.com/album/3TmRBALTpwplqDDM4ZRPMr"
-      },
-      "artists": [
-        {
-          "name": "1tbsp",
-          "url": "https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4"
-        }
-      ],
-      "duration_ms": 202391,
-      "name": "Moth Love",
-      "url": "https://open.spotify.com/track/0lP6dtgyfTtVcxJ1GVmIyA"
-    },
-    {
-      "added_at": "2023-12-19 09:07:27",
-      "album": {
         "name": "Under Utopia",
         "url": "https://open.spotify.com/album/7yo3NsVZi39N0JWEnPhDA9"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 203806,
       "name": "Shining",
       "url": "https://open.spotify.com/track/3fELwzVdYerUr3JuxaEa5C"
+    },
+    {
+      "added_at": "2023-12-19 09:07:27",
+      "album": {
+        "name": "Moth Love",
+        "url": "https://open.spotify.com/album/3TmRBALTpwplqDDM4ZRPMr"
+      },
+      "artists": [
+        {
+          "name": "1tbsp",
+          "url": "https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4"
+        }
+      ],
+      "duration_ms": 202391,
+      "name": "Moth Love",
+      "url": "https://open.spotify.com/track/0lP6dtgyfTtVcxJ1GVmIyA"
     },
     {
       "added_at": "2023-12-19 09:07:27",

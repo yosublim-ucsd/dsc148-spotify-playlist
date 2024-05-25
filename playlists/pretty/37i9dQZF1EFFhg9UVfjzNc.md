@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFhg9UVfjzNc.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5JjUlPENcVZsqsYpaLmlDl">Hananiel Eduardo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 801 likes - 78 songs - 7 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 802 likes - 79 songs - 7 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,9 +82,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFhg9UVfjzNc.md) - [plain]
 | 72 | [A Ti](https://open.spotify.com/track/4xHBqxLXbwemwOnHKfIFjU) | [Fernanda Ferro](https://open.spotify.com/artist/080EtCY2JWqzfNFmEJUW3x) | [Céu na Terra](https://open.spotify.com/album/6um3WlqCMSWWT8auIqxtlG) | 5:33 |
 | 73 | [Exemplo de Maria](https://open.spotify.com/track/460pUpGhBdWKY8t2balfG4) | [Simone Medeiros](https://open.spotify.com/artist/07Ax7WxyKbSR0aIFGzalA5) | [Deixa\-Te Modelar](https://open.spotify.com/album/06sZ6iCaL7EV1HOy8bFGhq) | 4:19 |
 | 74 | [Anseio por Ti](https://open.spotify.com/track/2W12vYVznKRTuW34TM2j0V) | [Simone Medeiros](https://open.spotify.com/artist/07Ax7WxyKbSR0aIFGzalA5) | [Deixa\-Te Modelar](https://open.spotify.com/album/06sZ6iCaL7EV1HOy8bFGhq) | 7:17 |
-| 75 | [Digno É O Cordeiro • BRAVE Night \- Ao Vivo](https://open.spotify.com/track/5LVhsXEMFeYNzgo6KWUB3z) | [BRAVE](https://open.spotify.com/artist/0HEKgwjfWOG03c4KMBMa3h), [Hananiel Eduardo](https://open.spotify.com/artist/6jcaFu5t6OajYlT3inEMkM), [Juliana Kontopp](https://open.spotify.com/artist/4wI3Jgf2m5qf5Zb76UzP0J) | [Digno É O Cordeiro • BRAVE Night \(Ao Vivo\)](https://open.spotify.com/album/6POG9vscV9bFOsyGNRIQCW) | 9:51 |
-| 76 | [Holy Table](https://open.spotify.com/track/2hu1HijSqMWWLmKBnjGZ7O) | [Liturgical Folk](https://open.spotify.com/artist/5OhGNb4thJQ6YlKt8So8B9) | [Edenland](https://open.spotify.com/album/4PrPfexL3BkYo36X3oh13d) | 6:25 |
-| 77 | [Espontâneo](https://open.spotify.com/track/6kmm2XHqCC0RwFhidwOv8Y) | [Hananiel Eduardo](https://open.spotify.com/artist/6jcaFu5t6OajYlT3inEMkM), [BRAVE](https://open.spotify.com/artist/0HEKgwjfWOG03c4KMBMa3h) | [Lugar Secreto • Vol\. 1](https://open.spotify.com/album/5oyeR5JZwaJZdH4yijAyVn) | 19:07 |
-| 78 | [Esperança \(feat\. Davidson Silva\)](https://open.spotify.com/track/1CiCxfOQ10xtiQIaTBDCeQ) | [Simone Medeiros](https://open.spotify.com/artist/07Ax7WxyKbSR0aIFGzalA5), [Davidson Silva](https://open.spotify.com/artist/0OdUgZgZEJmXDCkHYqh05z) | [Deixa\-Te Modelar](https://open.spotify.com/album/06sZ6iCaL7EV1HOy8bFGhq) | 6:29 |
+| 75 | [Eu Vou](https://open.spotify.com/track/7bBZWejBWjegNDZpdK5GkK) | [LUDI](https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde) | [Eu Vou](https://open.spotify.com/album/3VwjA6TL1mFL87K3My04VA) | 2:13 |
+| 76 | [Digno É O Cordeiro • BRAVE Night \- Ao Vivo](https://open.spotify.com/track/5LVhsXEMFeYNzgo6KWUB3z) | [BRAVE](https://open.spotify.com/artist/0HEKgwjfWOG03c4KMBMa3h), [Hananiel Eduardo](https://open.spotify.com/artist/6jcaFu5t6OajYlT3inEMkM), [Juliana Kontopp](https://open.spotify.com/artist/4wI3Jgf2m5qf5Zb76UzP0J) | [Digno É O Cordeiro • BRAVE Night \(Ao Vivo\)](https://open.spotify.com/album/6POG9vscV9bFOsyGNRIQCW) | 9:51 |
+| 77 | [Holy Table](https://open.spotify.com/track/2hu1HijSqMWWLmKBnjGZ7O) | [Liturgical Folk](https://open.spotify.com/artist/5OhGNb4thJQ6YlKt8So8B9) | [Edenland](https://open.spotify.com/album/4PrPfexL3BkYo36X3oh13d) | 6:25 |
+| 78 | [Espontâneo](https://open.spotify.com/track/6kmm2XHqCC0RwFhidwOv8Y) | [Hananiel Eduardo](https://open.spotify.com/artist/6jcaFu5t6OajYlT3inEMkM), [BRAVE](https://open.spotify.com/artist/0HEKgwjfWOG03c4KMBMa3h) | [Lugar Secreto • Vol\. 1](https://open.spotify.com/album/5oyeR5JZwaJZdH4yijAyVn) | 19:07 |
+| 79 | [Esperança \(feat\. Davidson Silva\)](https://open.spotify.com/track/1CiCxfOQ10xtiQIaTBDCeQ) | [Simone Medeiros](https://open.spotify.com/artist/07Ax7WxyKbSR0aIFGzalA5), [Davidson Silva](https://open.spotify.com/artist/0OdUgZgZEJmXDCkHYqh05z) | [Deixa\-Te Modelar](https://open.spotify.com/album/06sZ6iCaL7EV1HOy8bFGhq) | 6:29 |
 
-Snapshot ID: `AbSIbAAAAAA4ViiIpk1gNDRLx7Vgvn7v`
+Snapshot ID: `AbSODAAAAADXZ/8AjTSTe3sDA9Oc1Szp`

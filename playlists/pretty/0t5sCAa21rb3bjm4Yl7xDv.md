@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0t5sCAa21rb3bjm4Yl7xDv.md) - [plain]
 
 > The hottest tracks you want to hear, all in one playlist! Cover: Nelly Furtado
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 79,699 likes - 87 songs - 4 hr 32 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 79,692 likes - 87 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Ideale muziek voor de werkdag
 
-451 songs - 1 day 2 hr 13 min
+452 songs - 1 day 2 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,7 +140,7 @@
 | [get older](https://open.spotify.com/track/2uu7LrCxYJ5WvtyzdxLiPC) | [remme](https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5) | [get older](https://open.spotify.com/album/0WBPBQuEfYJcRmIA3OdJmq) | 2:57 | 2023-02-23 |  |
 | [Give Me That Feeling](https://open.spotify.com/track/1TttmYJbJ5SfbmA06qJ8kZ) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B VI](https://open.spotify.com/album/7Cq7tNfVMckpwGX4llhsVN) | 4:14 | 2024-04-11 |  |
 | [Give Me That Feeling](https://open.spotify.com/track/5nqcyjp4fFX7MTsxzXlMdm) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B VI](https://open.spotify.com/album/671hZnMHapwrrMIjousq6l) | 4:14 | 2024-02-26 | 2024-04-19 |
-| [Glow](https://open.spotify.com/track/09NpMJO80vtOO5kH0uKPaw) | [Jessica Mauboy](https://open.spotify.com/artist/6rHWAH6F4mr2AViSxMV673) | [Glow](https://open.spotify.com/album/1R6ntu2OZzt8K8trkqtjPQ) | 3:08 | 2024-03-26 |  |
+| [Glow](https://open.spotify.com/track/09NpMJO80vtOO5kH0uKPaw) | [Jessica Mauboy](https://open.spotify.com/artist/6rHWAH6F4mr2AViSxMV673) | [Glow](https://open.spotify.com/album/1R6ntu2OZzt8K8trkqtjPQ) | 3:08 | 2024-03-26 | 2024-05-25 |
 | [Going Back Home](https://open.spotify.com/track/2CujSydnhdFygZpsjyytZU) | [Jacqueline Govaert](https://open.spotify.com/artist/7LTI9KZLhnMbrDojlJK7Li) | [Songs to Soothe](https://open.spotify.com/album/0MRyCWBOc0EyOiLmPYRg7K) | 3:15 | 2023-04-25 |  |
 | [Golden Days](https://open.spotify.com/track/08FJ6a0DVTGYwJAKyhCNt2) | [Krystl](https://open.spotify.com/artist/7eacKV5WqetV2IZTDrwKhi) | [Rolling](https://open.spotify.com/album/5meYSRyh2OUGjPDYxHxJ3Z) | 2:51 | 2023-02-23 | 2023-04-26 |
 | [Golden Lovers](https://open.spotify.com/track/5SgWKAMXnGT8yp4wMDjtik) | [Marnix Emanuel](https://open.spotify.com/artist/6KGuYVnF7JVw7WpKPdfkvr) | [Golden Lovers](https://open.spotify.com/album/4Jv2duaN6eNUpDs3sXbJct) | 3:22 | 2023-02-23 |  |
@@ -164,6 +164,7 @@
 | [Here With You \- Acoustic](https://open.spotify.com/track/5LebGpYKQvTVM8PrMIrF99) | [Tangarine](https://open.spotify.com/artist/6M1HAXD9PmL4w7uB5aP659) | [Y O U](https://open.spotify.com/album/0zbcEWMDwjdf2jCGYTxdUr) | 3:41 | 2023-04-25 |  |
 | [Here Without You](https://open.spotify.com/track/3NLrRZoMF0Lx6zTlYqeIo4) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Away From The Sun](https://open.spotify.com/album/72olNArm75vOycSziqIX9Y) | 3:58 | 2024-03-21 |  |
 | [Hi\-Lo](https://open.spotify.com/track/3rPvqdTUROO6eFGFJnY6Jr) | [AJ Mitchell](https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77) | [SKYVIEW](https://open.spotify.com/album/7nkAfiUqBFSD19EwyvCShv) | 2:57 | 2023-02-23 | 2024-04-05 |
+| [High](https://open.spotify.com/track/5hlPrSCx9BvnQ3rCTkblMZ) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Angel Face](https://open.spotify.com/album/6CczqhUdYOH4qLSDnN3zkg) | 2:41 | 2024-05-24 |  |
 | [High Five](https://open.spotify.com/track/1KNfDol8Thjs1dNXPPppBy) | [Janne Schra](https://open.spotify.com/artist/7IGk0iXhaPjqvQF4Zi2R2K) | [High Five](https://open.spotify.com/album/3G3sIi4NccAcwsZwUC537k) | 3:29 | 2023-02-23 | 2024-03-22 |
 | [High Five](https://open.spotify.com/track/6HXGmN7Gh9mdutkMb9tCdj) | [Janne Schra](https://open.spotify.com/artist/7IGk0iXhaPjqvQF4Zi2R2K) | [The Heart is Asymmetrical](https://open.spotify.com/album/3ewMwdapGFLdxrLcwkrQkv) | 3:29 | 2024-04-04 | 2024-04-19 |
 | [High Places \- Radio Edit](https://open.spotify.com/track/2LNgXgVzyqeIUTWX1gqJpg) | [KANE](https://open.spotify.com/artist/7rgKxnnBAsZ7Q04d6jICu6), [Ilse DeLange](https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx) | [Singles Only \(Deluxe Edition\)](https://open.spotify.com/album/1CU246tMIaAhMfAfmtR2h6) | 3:44 | 2023-02-23 | 2024-04-19 |
@@ -204,7 +205,7 @@
 | [Keep Your Head Up](https://open.spotify.com/track/5fpEDGQX0Ah3utGnFYulQZ) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Every Kingdom](https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce) | 4:24 | 2023-02-23 | 2023-04-26 |
 | [Kids Are Born Stars](https://open.spotify.com/track/2pD74s7WAlBWUXjrTsKgdS) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Kids Are Born Stars](https://open.spotify.com/album/7HhcskxiIqyd0KthMqR7eA) | 3:07 | 2024-03-26 |  |
 | [Kiss Me \- Acoustic](https://open.spotify.com/track/7xQUulzggtLVXbo8tLwpjc) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Kiss Me](https://open.spotify.com/album/23A1VrlL0AyJkv6OpZofNy) | 4:00 | 2023-02-23 | 2024-03-22 |
-| [Kiss You](https://open.spotify.com/track/61vlpInisekQjqqipr7HkP) | [Caity Baser](https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC) | [Kiss You](https://open.spotify.com/album/3WSuMX82JwjiyR3fUfw97c) | 2:32 | 2024-03-19 |  |
+| [Kiss You](https://open.spotify.com/track/61vlpInisekQjqqipr7HkP) | [Caity Baser](https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC) | [Kiss You](https://open.spotify.com/album/3WSuMX82JwjiyR3fUfw97c) | 2:32 | 2024-03-19 | 2024-05-25 |
 | [Knocked Out](https://open.spotify.com/track/13cFJziN6qRk7ZBQ57DtZ4) | [Trijntje Oosterhuis](https://open.spotify.com/artist/7nJtdgCxkhZFvFMPTsHavb) | [Wrecks We Adore](https://open.spotify.com/album/1jf8StBAfVpC7IBPtqdcqx) | 4:39 | 2023-02-23 |  |
 | [Laps Around The Sun](https://open.spotify.com/track/3U0UzEdzd45T81FHdPPbfC) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [Laps Around The Sun](https://open.spotify.com/album/6JYmn58l1Lj90pF1a9mdh5) | 3:26 | 2023-02-23 | 2024-02-03 |
 | [Laps Around The Sun](https://open.spotify.com/track/6TfJaJV86gzlrXy1K0S5Wp) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [Laps Around The Sun](https://open.spotify.com/album/0nucTlCF9MJRacvHF4Oe8O) | 3:26 | 2024-01-16 | 2024-04-19 |
@@ -315,7 +316,7 @@
 | [Satellite](https://open.spotify.com/track/1G9hDB1bmxz131N9svQ8pY) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Satellite](https://open.spotify.com/album/1NmhmrcrG143ODfGk9myHE) | 3:06 | 2024-03-26 |  |
 | [Save Your Love](https://open.spotify.com/track/2egtrr5T0vdqOBtuYbzEu4) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Leap](https://open.spotify.com/album/06ug65kBTheiQOomrAq0iB) | 3:23 | 2023-02-23 | 2023-04-07 |
 | [Say Something \(feat\. Chris Stapleton\)](https://open.spotify.com/track/1LhMopPAallLeaeNutqbgS) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Man of the Woods](https://open.spotify.com/album/01l3jTY261V3CESZR4dABz) | 4:38 | 2023-02-23 |  |
-| [Seatbelts](https://open.spotify.com/track/5LpNNr02dABUYZ6ofq0xkY) | [Ruben Hein](https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS) | [Seatbelts](https://open.spotify.com/album/7dx3bn5pvZnNwVA1Gptpll) | 3:47 | 2023-02-23 | 2024-05-24 |
+| [Seatbelts](https://open.spotify.com/track/5LpNNr02dABUYZ6ofq0xkY) | [Ruben Hein](https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS) | [Seatbelts](https://open.spotify.com/album/7dx3bn5pvZnNwVA1Gptpll) | 3:47 | 2023-02-23 |  |
 | [Second Hand Lover](https://open.spotify.com/track/4uFws0rPYlbDCcPXTMjbfC) | [Jeangu Macrooy](https://open.spotify.com/artist/3t9HafA5eFHM992s4GZ0Gr) | [Horizon](https://open.spotify.com/album/3nziLyYhBlU55CVhB7PDGC) | 3:34 | 2023-02-23 |  |
 | [Seeing Straight](https://open.spotify.com/track/37jDUmxh5NUuaBWTAOB0si) | [Mitch Santiago](https://open.spotify.com/artist/6eERFYkiQQPyRK4rPEXTNH) | [Seeing Straight](https://open.spotify.com/album/4JAKg35Lyg9g9259rmL2cW) | 4:38 | 2023-02-23 | 2023-04-26 |
 | [Selfish Ways \- Acoustic](https://open.spotify.com/track/1nnNyDxDuSW88AP2oh4pQp) | [Elle Hollis](https://open.spotify.com/artist/5ZCeCsLU92i1Uv75rarNNn) | [Selfish Ways \(Acoustic\)](https://open.spotify.com/album/1F4rojYzrIQvsD6xNU1dTC) | 2:40 | 2023-04-25 | 2024-03-20 |

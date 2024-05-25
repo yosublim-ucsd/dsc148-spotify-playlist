@@ -1,13 +1,29 @@
 {
-  "description": "Artists recording in Coke Studio at Spotify LA. Cover: Kalisway",
-  "num_followers": 59,
+  "description": "Artists recording in Coke Studio at Spotify LA. Cover: New Jeans",
+  "num_followers": 61,
   "original_name": "A day in the studio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjM58AAAAADvgsIsVzz3kTGr9JeqDCFF",
+  "snapshot_id": "ZlAQwAAAAADsBisdehmTPRBkWPubXqrw",
   "tracks": [
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "How Sweet",
+        "url": "https://open.spotify.com/album/0EhZEM4RRz0yioTgucDhJq"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "duration_ms": 219026,
+      "name": "How Sweet",
+      "url": "https://open.spotify.com/track/38tXZcL1gZRfbqfOG0VMTH"
+    },
     {
       "added_at": "2024-05-02 07:00:00",
       "album": {

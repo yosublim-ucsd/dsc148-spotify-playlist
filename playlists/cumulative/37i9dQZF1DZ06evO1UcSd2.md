@@ -2,7 +2,7 @@
 
 ### [This Is Lenin Ramírez](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1UcSd2)
 
-> This is Lenin Ramírez\. Todos os maiores hits em uma só playlist.
+> This Is Lenin Ramírez\. Los temas esenciales, todos en una lista.
 
 98 songs - 5 hr 5 min
 
@@ -32,7 +32,7 @@
 | [El Blue](https://open.spotify.com/track/3CfSS20rhCGYdjJSbt5qCz) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Las Vueltas de la Vida](https://open.spotify.com/album/3jKITc4vEht1Bk6Km1cJKW) | 3:18 | 2022-06-02 | 2022-10-13 |
 | [El Cabe \(En Vivo\)](https://open.spotify.com/track/1A6CTHoF8kNPPmT5uRZqTJ) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [El Cabe \(En Vivo\)](https://open.spotify.com/album/7rYPaiJkjB2BHt6k9THWXD) | 2:56 | 2023-03-06 | 2023-06-17 |
 | [El Camaron](https://open.spotify.com/track/0QEu2G3MytoxkCjQgDqeth) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Album De Mi Puno Y Letra](https://open.spotify.com/album/2OXmlL4OKCcZOLddvPTxai) | 3:37 | 2022-06-01 | 2022-10-13 |
-| [El Centenario \(En Vivo\)](https://open.spotify.com/track/0eUb4yGTMT4WFiElWuTH5N) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk) | [En Vivo](https://open.spotify.com/album/3OoDAWDsVyaDZYgvfv9ebT) | 2:08 | 2022-06-01 |  |
+| [El Centenario \(En Vivo\)](https://open.spotify.com/track/0eUb4yGTMT4WFiElWuTH5N) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk) | [En Vivo](https://open.spotify.com/album/3OoDAWDsVyaDZYgvfv9ebT) | 2:08 | 2022-06-01 | 2024-05-25 |
 | [El Chino](https://open.spotify.com/track/268zPLDFKoXULAX7aFqcE7) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [El Chino](https://open.spotify.com/album/6cIC7nXT8crS5Q7XaPPZdo) | 2:47 | 2022-06-01 |  |
 | [El Cl\-1](https://open.spotify.com/track/3YSTO30NZkuyPhQFkzAdbW) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Las Vueltas de la Vida](https://open.spotify.com/album/3jKITc4vEht1Bk6Km1cJKW) | 2:47 | 2022-06-01 | 2022-10-13 |
 | [El de la Ciudad del Sol \(En Vivo\)](https://open.spotify.com/track/1v90F4FNxt3nb3v5ahWVnU) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk) | [En Vivo](https://open.spotify.com/album/3OoDAWDsVyaDZYgvfv9ebT) | 2:23 | 2022-06-03 | 2022-06-14 |

@@ -1,15 +1,399 @@
 {
-  "description": "P fkn R. Esto llega al choliiiii. Cover: CDobleta",
-  "num_followers": 299011,
+  "description": "P fkn R. Esto llega al choliiiii. Cover: Jovaan & JEYYFF",
+  "num_followers": 299026,
   "original_name": "Rompiendo: Puerto Rico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkbWQAAAAAAL5NQTlgO/Xgl4nt7v83/n",
+  "snapshot_id": "ZlAQwAAAAACUcK10nPKlRT1LQTPy77vE",
   "tracks": [
     {
-      "added_at": "2024-05-17 04:00:00",
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Hickey",
+        "url": "https://open.spotify.com/album/1RpQyRy62ij8VYq7K4DL2l"
+      },
+      "artists": [
+        {
+          "name": "Jovaan",
+          "url": "https://open.spotify.com/artist/5y1mXGApE4lshXA10gQ0S3"
+        },
+        {
+          "name": "JEYYFF",
+          "url": "https://open.spotify.com/artist/6aH9igPZf8ShUGL3ITPQhA"
+        }
+      ],
+      "duration_ms": 211078,
+      "name": "Hickey",
+      "url": "https://open.spotify.com/track/17jNQ0lKM8bA9lWcyXxIc0"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Curarme",
+        "url": "https://open.spotify.com/album/0W3Z5uER6TDCeaR8BqSdil"
+      },
+      "artists": [
+        {
+          "name": "Conep",
+          "url": "https://open.spotify.com/artist/5kCv5opFav2P7nPl8FiEQx"
+        },
+        {
+          "name": "iZaak",
+          "url": "https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK"
+        },
+        {
+          "name": "Amarion",
+          "url": "https://open.spotify.com/artist/7Bb4i0RT3zaudzb8KvxTUQ"
+        }
+      ],
+      "duration_ms": 200869,
+      "name": "Curarme",
+      "url": "https://open.spotify.com/track/7Ecvkr9n80PvRJOI8wLYLf"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Estas Pacas No Me Dan",
+        "url": "https://open.spotify.com/album/6vOcK3zgAqfbpdjMqUo6dh"
+      },
+      "artists": [
+        {
+          "name": "CDobleta",
+          "url": "https://open.spotify.com/artist/2KtMll7bpqySnZhr8wriRE"
+        }
+      ],
+      "duration_ms": 136588,
+      "name": "Estas Pacas No Me Dan",
+      "url": "https://open.spotify.com/track/0akh8smnyX36OALzQFOdJ2"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Sport+",
+        "url": "https://open.spotify.com/album/71gG3D59KZOdUfRzta8h0L"
+      },
+      "artists": [
+        {
+          "name": "Clarent",
+          "url": "https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY"
+        }
+      ],
+      "duration_ms": 132336,
+      "name": "Sport+",
+      "url": "https://open.spotify.com/track/3lDudOXkxqByT6RrZG5eKl"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "FUNNY",
+        "url": "https://open.spotify.com/album/4ZFnbIO6RKOyBMZcecmDFQ"
+      },
+      "artists": [
+        {
+          "name": "iZaak",
+          "url": "https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK"
+        },
+        {
+          "name": "CDobleta",
+          "url": "https://open.spotify.com/artist/2KtMll7bpqySnZhr8wriRE"
+        }
+      ],
+      "duration_ms": 174545,
+      "name": "FUNNY",
+      "url": "https://open.spotify.com/track/72DYpX9rw0QPTalkJpvjMB"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Bellakita",
+        "url": "https://open.spotify.com/album/001Nuj6059F5eukzPiJYLa"
+      },
+      "artists": [
+        {
+          "name": "Conep",
+          "url": "https://open.spotify.com/artist/5kCv5opFav2P7nPl8FiEQx"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 254625,
+      "name": "Bellakita",
+      "url": "https://open.spotify.com/track/7nQtDn5fzxYY1GU0kg4zbW"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Tommy John",
+        "url": "https://open.spotify.com/album/0k4XOeS7hRH1OgCOi4zu3W"
+      },
+      "artists": [
+        {
+          "name": "AloSofia",
+          "url": "https://open.spotify.com/artist/5Q6CBqo1uJlO4qbw7MD875"
+        },
+        {
+          "name": "Remers",
+          "url": "https://open.spotify.com/artist/5bVgn8ImAnQDIB1NjxfSvb"
+        }
+      ],
+      "duration_ms": 187096,
+      "name": "Tommy John",
+      "url": "https://open.spotify.com/track/2lRUU3ITueZpRl0PBhMHDb"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "R\u00f3mpela",
+        "url": "https://open.spotify.com/album/3MNhodNbMyYzPbTvUVZmY6"
+      },
+      "artists": [
+        {
+          "name": "Fiamma",
+          "url": "https://open.spotify.com/artist/4wOu4vVTBMgHkts7CQJhZb"
+        }
+      ],
+      "duration_ms": 167960,
+      "name": "R\u00f3mpela",
+      "url": "https://open.spotify.com/track/6racd8xVWuVWrZw8MZuctV"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Mini Van",
+        "url": "https://open.spotify.com/album/2tAB5fiRV9LdNGuxGPe8m9"
+      },
+      "artists": [
+        {
+          "name": "lil joujou",
+          "url": "https://open.spotify.com/artist/6UhGN5pVzgbBYjpqkxKM5F"
+        },
+        {
+          "name": "Slayter",
+          "url": "https://open.spotify.com/artist/44cW3xznP61BXbu0e7fgxn"
+        },
+        {
+          "name": "Midnvght",
+          "url": "https://open.spotify.com/artist/2f0j8IhXgOli2Ub2amAiUZ"
+        }
+      ],
+      "duration_ms": 202800,
+      "name": "Mini Van",
+      "url": "https://open.spotify.com/track/44EDvLaqyDOrViTGE5lMQ9"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Typing",
+        "url": "https://open.spotify.com/album/4mQPCVJ1vgvQ6iyUdwBAFm"
+      },
+      "artists": [
+        {
+          "name": "Yannc",
+          "url": "https://open.spotify.com/artist/3rqKgkODmiyDdimpz5D3y1"
+        },
+        {
+          "name": "Full Harmony",
+          "url": "https://open.spotify.com/artist/05zdv8cIoFjW1CLROPsqkE"
+        },
+        {
+          "name": "lil joujou",
+          "url": "https://open.spotify.com/artist/6UhGN5pVzgbBYjpqkxKM5F"
+        },
+        {
+          "name": "Moffa",
+          "url": "https://open.spotify.com/artist/2lcWprkQW6ehqKep82rWnC"
+        },
+        {
+          "name": "DIA",
+          "url": "https://open.spotify.com/artist/7xVUa8mqwCgdu4mQn3geCY"
+        },
+        {
+          "name": "J Abdiel",
+          "url": "https://open.spotify.com/artist/17SY5q1CMOZJBRuPcKWwPI"
+        }
+      ],
+      "duration_ms": 223940,
+      "name": "Typing",
+      "url": "https://open.spotify.com/track/2AyYL7Lw5b96VDXxqSwy9o"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "MUSA (feat. Espano)",
+        "url": "https://open.spotify.com/album/3WqCQK1KAxsoBdfwjgwdFc"
+      },
+      "artists": [
+        {
+          "name": "Rojas On The Beat",
+          "url": "https://open.spotify.com/artist/48yQpzWYzshNnJ2bmruUS5"
+        },
+        {
+          "name": "Jey Blessing",
+          "url": "https://open.spotify.com/artist/1MVP5iQH6wMKZuOn41UHOB"
+        },
+        {
+          "name": "D Tenox",
+          "url": "https://open.spotify.com/artist/4gG1oCXDiIy90Jxpv0C4Cd"
+        },
+        {
+          "name": "Espano",
+          "url": "https://open.spotify.com/artist/2nltuI3fbXK0RbX9PVcQT9"
+        }
+      ],
+      "duration_ms": 225276,
+      "name": "MUSA (feat. Espano)",
+      "url": "https://open.spotify.com/track/5TJvrRVnpIgFy1FnE3ir4y"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "CVRBON VRMOR [C_DE: G_D.O.N.]",
+        "url": "https://open.spotify.com/album/3zaBxuBf9zSlxZ20ZRHXXE"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "K4G",
+          "url": "https://open.spotify.com/artist/7iE1RkAmNySaonnYrV8lmU"
+        }
+      ],
+      "duration_ms": 248653,
+      "name": "SHOFAR",
+      "url": "https://open.spotify.com/track/68lSedap260kbjpvdvF7Tp"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "VIENES?",
+        "url": "https://open.spotify.com/album/0lMF1b8fMVrL5toe8tk0DZ"
+      },
+      "artists": [
+        {
+          "name": "CARLI\u00c1N",
+          "url": "https://open.spotify.com/artist/75Ix62cxoDdvrQr5sC8ala"
+        },
+        {
+          "name": "Heartgaze",
+          "url": "https://open.spotify.com/artist/6r5C5m57jRSpf2xE16ofxH"
+        }
+      ],
+      "duration_ms": 196129,
+      "name": "VIENES?",
+      "url": "https://open.spotify.com/track/5xaM0GEVgl21EKn7AtsFVI"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Cielo",
+        "url": "https://open.spotify.com/album/40XyVBNUthDsXgMsNTYghO"
+      },
+      "artists": [
+        {
+          "name": "Young Martino",
+          "url": "https://open.spotify.com/artist/7Kh6SBEGtFtqjYo5bN0ACG"
+        },
+        {
+          "name": "Yan Block",
+          "url": "https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec"
+        },
+        {
+          "name": "Brray",
+          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
+        }
+      ],
+      "duration_ms": 180571,
+      "name": "Cielo",
+      "url": "https://open.spotify.com/track/5K2ODpYr9BmI46XDYyJaDr"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Ll\u00e9vame (Fux Beat Remix)",
+        "url": "https://open.spotify.com/album/0MDdFxsg8zHfyx6f2nVUNv"
+      },
+      "artists": [
+        {
+          "name": "Fux Beat",
+          "url": "https://open.spotify.com/artist/6hftbcqGKIFB01XfseVMN1"
+        },
+        {
+          "name": "Bebo Dumont",
+          "url": "https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe"
+        }
+      ],
+      "duration_ms": 185238,
+      "name": "Ll\u00e9vame - Fux Beat Remix",
+      "url": "https://open.spotify.com/track/5ZtcanoSNYduuyRLk0kUEW"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "2 DIABLOS (REMIX)",
+        "url": "https://open.spotify.com/album/2Gqn9wzwAaNip73fWHE6LY"
+      },
+      "artists": [
+        {
+          "name": "Eix",
+          "url": "https://open.spotify.com/artist/384MqcXCGGFh9UcjI5Tpc5"
+        },
+        {
+          "name": "iZaak",
+          "url": "https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK"
+        },
+        {
+          "name": "Pressure 9X19",
+          "url": "https://open.spotify.com/artist/7MNP6nVHIDvPCRvfCeAJpF"
+        }
+      ],
+      "duration_ms": 242823,
+      "name": "2 DIABLOS - REMIX",
+      "url": "https://open.spotify.com/track/4h6j8818JA9RvMAs8xNnvU"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Yo s\u00e9",
+        "url": "https://open.spotify.com/album/4NHI7kUT9UsxlgKgDnaJdv"
+      },
+      "artists": [
+        {
+          "name": "Yan Block",
+          "url": "https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec"
+        },
+        {
+          "name": "TORRRES",
+          "url": "https://open.spotify.com/artist/34PYzJSu4DHKEyhdBfsn0E"
+        }
+      ],
+      "duration_ms": 129705,
+      "name": "Yo s\u00e9",
+      "url": "https://open.spotify.com/track/5DdLSEyKh8zgCrJq2hFj92"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "ADQEP",
+        "url": "https://open.spotify.com/album/7pv37Mdqk6WOuFeqBBWJyq"
+      },
+      "artists": [
+        {
+          "name": "GERO",
+          "url": "https://open.spotify.com/artist/7r6BQAQC6tORZMC6RIJBcO"
+        }
+      ],
+      "duration_ms": 215200,
+      "name": "ADQEP",
+      "url": "https://open.spotify.com/track/41mQgCe5yZDBEh63FVWlpE"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
       "album": {
         "name": "Omert\u00e0",
         "url": "https://open.spotify.com/album/4dGze6kiqWAZAAnVXZQ4z8"
@@ -25,7 +409,7 @@
       "url": "https://open.spotify.com/track/0PfOm0OrB4KEq7K1okETeq"
     },
     {
-      "added_at": "2024-05-17 04:00:00",
+      "added_at": "2024-05-24 04:00:00",
       "album": {
         "name": "Mensajes Ficticios",
         "url": "https://open.spotify.com/album/49TvE3U0uoZvqjgSBZJGLh"
@@ -41,7 +425,7 @@
       "url": "https://open.spotify.com/track/294xRw3sftsLgAcyiFAU6i"
     },
     {
-      "added_at": "2024-05-17 04:00:00",
+      "added_at": "2024-05-24 04:00:00",
       "album": {
         "name": "Hablarte Claro 2.0",
         "url": "https://open.spotify.com/album/1ad9iQ4AWdH4ki7GekjZ3l"
@@ -73,31 +457,7 @@
       "url": "https://open.spotify.com/track/4Ss3QPfS26HEoH0RIqAMqG"
     },
     {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Cielo",
-        "url": "https://open.spotify.com/album/40XyVBNUthDsXgMsNTYghO"
-      },
-      "artists": [
-        {
-          "name": "Young Martino",
-          "url": "https://open.spotify.com/artist/7Kh6SBEGtFtqjYo5bN0ACG"
-        },
-        {
-          "name": "Yan Block",
-          "url": "https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec"
-        },
-        {
-          "name": "Brray",
-          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
-        }
-      ],
-      "duration_ms": 180571,
-      "name": "Cielo",
-      "url": "https://open.spotify.com/track/5K2ODpYr9BmI46XDYyJaDr"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
+      "added_at": "2024-05-24 04:00:00",
       "album": {
         "name": "Porque Puedo",
         "url": "https://open.spotify.com/album/1yHXJzuDKUHwR0kM0oah82"
@@ -113,7 +473,7 @@
       "url": "https://open.spotify.com/track/4y6avDOMg27PS7n71aOZZB"
     },
     {
-      "added_at": "2024-05-17 04:00:00",
+      "added_at": "2024-05-24 04:00:00",
       "album": {
         "name": "FaceTime",
         "url": "https://open.spotify.com/album/1PE0OuZCvXN4cEViRkapbS"
@@ -129,7 +489,7 @@
       "url": "https://open.spotify.com/track/3PXVXnWArIsMpKUAu1Gs5H"
     },
     {
-      "added_at": "2024-05-17 04:00:00",
+      "added_at": "2024-05-24 04:00:00",
       "album": {
         "name": "Big Bag",
         "url": "https://open.spotify.com/album/3djmCdsygPjrOlIakPFX3i"
@@ -149,7 +509,7 @@
       "url": "https://open.spotify.com/track/74sEg7DdSzh7pEWdfjUn2p"
     },
     {
-      "added_at": "2024-05-17 04:00:00",
+      "added_at": "2024-05-24 04:00:00",
       "album": {
         "name": "MI FAN",
         "url": "https://open.spotify.com/album/0b9XserYp5OEAgeckTrDMZ"
@@ -169,7 +529,7 @@
       "url": "https://open.spotify.com/track/7qOEpVU8rNkgIxgwzUSXiB"
     },
     {
-      "added_at": "2024-05-17 04:00:00",
+      "added_at": "2024-05-24 04:00:00",
       "album": {
         "name": "SEXY",
         "url": "https://open.spotify.com/album/6hkxQvyf9kdyUBxbuYT05k"
@@ -185,51 +545,7 @@
       "url": "https://open.spotify.com/track/0kGcCNrSMtopX2yDVAJ7fd"
     },
     {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "2 DIABLOS (REMIX)",
-        "url": "https://open.spotify.com/album/2Gqn9wzwAaNip73fWHE6LY"
-      },
-      "artists": [
-        {
-          "name": "Eix",
-          "url": "https://open.spotify.com/artist/384MqcXCGGFh9UcjI5Tpc5"
-        },
-        {
-          "name": "iZaak",
-          "url": "https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK"
-        },
-        {
-          "name": "Pressure 9X19",
-          "url": "https://open.spotify.com/artist/7MNP6nVHIDvPCRvfCeAJpF"
-        }
-      ],
-      "duration_ms": 242823,
-      "name": "2 DIABLOS - REMIX",
-      "url": "https://open.spotify.com/track/4h6j8818JA9RvMAs8xNnvU"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Ll\u00e9vame (Fux Beat Remix)",
-        "url": "https://open.spotify.com/album/0MDdFxsg8zHfyx6f2nVUNv"
-      },
-      "artists": [
-        {
-          "name": "Fux Beat",
-          "url": "https://open.spotify.com/artist/6hftbcqGKIFB01XfseVMN1"
-        },
-        {
-          "name": "Bebo Dumont",
-          "url": "https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe"
-        }
-      ],
-      "duration_ms": 185238,
-      "name": "Ll\u00e9vame - Fux Beat Remix",
-      "url": "https://open.spotify.com/track/5ZtcanoSNYduuyRLk0kUEW"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
+      "added_at": "2024-05-24 04:00:00",
       "album": {
         "name": "Balmain",
         "url": "https://open.spotify.com/album/3KE1H9I83VTaI6eH4OuUTF"
@@ -245,7 +561,7 @@
       "url": "https://open.spotify.com/track/6eLCtyK6VcTrcJy6MiWLzg"
     },
     {
-      "added_at": "2024-05-17 04:00:00",
+      "added_at": "2024-05-24 04:00:00",
       "album": {
         "name": "Fenix",
         "url": "https://open.spotify.com/album/6DZST5OAt6QTRBhT3lRf0B"
@@ -261,83 +577,7 @@
       "url": "https://open.spotify.com/track/4wJGFYrPvVZqA1VFkFO9sB"
     },
     {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "FUNNY",
-        "url": "https://open.spotify.com/album/4ZFnbIO6RKOyBMZcecmDFQ"
-      },
-      "artists": [
-        {
-          "name": "iZaak",
-          "url": "https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK"
-        },
-        {
-          "name": "CDobleta",
-          "url": "https://open.spotify.com/artist/2KtMll7bpqySnZhr8wriRE"
-        }
-      ],
-      "duration_ms": 174545,
-      "name": "FUNNY",
-      "url": "https://open.spotify.com/track/72DYpX9rw0QPTalkJpvjMB"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Sport+",
-        "url": "https://open.spotify.com/album/71gG3D59KZOdUfRzta8h0L"
-      },
-      "artists": [
-        {
-          "name": "Clarent",
-          "url": "https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY"
-        }
-      ],
-      "duration_ms": 132336,
-      "name": "Sport+",
-      "url": "https://open.spotify.com/track/3lDudOXkxqByT6RrZG5eKl"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Mini Van",
-        "url": "https://open.spotify.com/album/2tAB5fiRV9LdNGuxGPe8m9"
-      },
-      "artists": [
-        {
-          "name": "lil joujou",
-          "url": "https://open.spotify.com/artist/6UhGN5pVzgbBYjpqkxKM5F"
-        },
-        {
-          "name": "Slayter",
-          "url": "https://open.spotify.com/artist/44cW3xznP61BXbu0e7fgxn"
-        },
-        {
-          "name": "Midnvght",
-          "url": "https://open.spotify.com/artist/2f0j8IhXgOli2Ub2amAiUZ"
-        }
-      ],
-      "duration_ms": 202800,
-      "name": "Mini Van",
-      "url": "https://open.spotify.com/track/44EDvLaqyDOrViTGE5lMQ9"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "CVRBON VRMOR [C_DE: G_D.O.N.]",
-        "url": "https://open.spotify.com/album/3zaBxuBf9zSlxZ20ZRHXXE"
-      },
-      "artists": [
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        }
-      ],
-      "duration_ms": 158413,
-      "name": "G_D.O.N.",
-      "url": "https://open.spotify.com/track/5VCZscSilRDSIDzBWmupQJ"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
+      "added_at": "2024-05-24 04:00:00",
       "album": {
         "name": "Porque Puedo",
         "url": "https://open.spotify.com/album/1yHXJzuDKUHwR0kM0oah82"
@@ -353,7 +593,7 @@
       "url": "https://open.spotify.com/track/75GbllGszQynPdm2qj78Lu"
     },
     {
-      "added_at": "2024-05-17 04:00:00",
+      "added_at": "2024-05-24 04:00:00",
       "album": {
         "name": "LUV ALLERGIC",
         "url": "https://open.spotify.com/album/2GWvMroIa2HWucEPvpLw9R"
@@ -373,27 +613,7 @@
       "url": "https://open.spotify.com/track/4dyk4RsP8lpUkM4HTU0x9Q"
     },
     {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Bellakita",
-        "url": "https://open.spotify.com/album/001Nuj6059F5eukzPiJYLa"
-      },
-      "artists": [
-        {
-          "name": "Conep",
-          "url": "https://open.spotify.com/artist/5kCv5opFav2P7nPl8FiEQx"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 254625,
-      "name": "Bellakita",
-      "url": "https://open.spotify.com/track/7nQtDn5fzxYY1GU0kg4zbW"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
+      "added_at": "2024-05-24 04:00:00",
       "album": {
         "name": "Papaya",
         "url": "https://open.spotify.com/album/2oSZhnHDrFrTt4BCreAG9P"
@@ -409,7 +629,7 @@
       "url": "https://open.spotify.com/track/0V9mw8S22fciKdLiQlQNeZ"
     },
     {
-      "added_at": "2024-05-17 04:00:00",
+      "added_at": "2024-05-24 04:00:00",
       "album": {
         "name": "ELY",
         "url": "https://open.spotify.com/album/5JyPL5CuSIXPsxdfxjrAK7"
@@ -425,7 +645,7 @@
       "url": "https://open.spotify.com/track/1lbed3gubLtcz2DivmFEKY"
     },
     {
-      "added_at": "2024-05-17 04:00:00",
+      "added_at": "2024-05-24 04:00:00",
       "album": {
         "name": "carta a una fan",
         "url": "https://open.spotify.com/album/5d4pBNfOVwKe9MFVfO5BVD"
@@ -441,7 +661,7 @@
       "url": "https://open.spotify.com/track/1g9Po7xiWBJu9mIa3IVNUz"
     },
     {
-      "added_at": "2024-05-17 04:00:00",
+      "added_at": "2024-05-24 04:00:00",
       "album": {
         "name": "Tierra",
         "url": "https://open.spotify.com/album/32J5NblDzVXpvTMuEFtyUA"
@@ -457,23 +677,7 @@
       "url": "https://open.spotify.com/track/4owkQ4569f24b5CmVdr3jt"
     },
     {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "R\u00f3mpela",
-        "url": "https://open.spotify.com/album/3MNhodNbMyYzPbTvUVZmY6"
-      },
-      "artists": [
-        {
-          "name": "Fiamma",
-          "url": "https://open.spotify.com/artist/4wOu4vVTBMgHkts7CQJhZb"
-        }
-      ],
-      "duration_ms": 167960,
-      "name": "R\u00f3mpela",
-      "url": "https://open.spotify.com/track/6racd8xVWuVWrZw8MZuctV"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
+      "added_at": "2024-05-24 04:00:00",
       "album": {
         "name": "CVRBON VRMOR [C_DE: G_D.O.N.]",
         "url": "https://open.spotify.com/album/3zaBxuBf9zSlxZ20ZRHXXE"
@@ -482,18 +686,14 @@
         {
           "name": "Farruko",
           "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        },
-        {
-          "name": "Sharo Towers",
-          "url": "https://open.spotify.com/artist/4h6Eg0dBZ4Fr8vRcSn8r5r"
         }
       ],
-      "duration_ms": 187920,
-      "name": "CARBON VRMOR",
-      "url": "https://open.spotify.com/track/5pQed9UAd4DqG6cWUQegGm"
+      "duration_ms": 158413,
+      "name": "G_D.O.N.",
+      "url": "https://open.spotify.com/track/5VCZscSilRDSIDzBWmupQJ"
     },
     {
-      "added_at": "2024-05-17 04:00:00",
+      "added_at": "2024-05-24 04:00:00",
       "album": {
         "name": "CoMo ANiTTa",
         "url": "https://open.spotify.com/album/4eoIwLgKexqZXLoRwdLLPQ"
@@ -517,7 +717,7 @@
       "url": "https://open.spotify.com/track/1cOZBYhbdMLOb7khE5p6ol"
     },
     {
-      "added_at": "2024-05-17 04:00:00",
+      "added_at": "2024-05-24 04:00:00",
       "album": {
         "name": "Sparta",
         "url": "https://open.spotify.com/album/3WhKjg8HjKMvsbpImu0bEZ"
@@ -533,27 +733,7 @@
       "url": "https://open.spotify.com/track/7EEKaGdamO34oYDAh61UeE"
     },
     {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Hickey",
-        "url": "https://open.spotify.com/album/1RpQyRy62ij8VYq7K4DL2l"
-      },
-      "artists": [
-        {
-          "name": "Jovaan",
-          "url": "https://open.spotify.com/artist/5y1mXGApE4lshXA10gQ0S3"
-        },
-        {
-          "name": "JEYYFF",
-          "url": "https://open.spotify.com/artist/6aH9igPZf8ShUGL3ITPQhA"
-        }
-      ],
-      "duration_ms": 211078,
-      "name": "Hickey",
-      "url": "https://open.spotify.com/track/17jNQ0lKM8bA9lWcyXxIc0"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
+      "added_at": "2024-05-24 04:00:00",
       "album": {
         "name": "PATEK",
         "url": "https://open.spotify.com/album/6eRaB8iPiPcIGXkFdhkDqv"
@@ -577,7 +757,7 @@
       "url": "https://open.spotify.com/track/0zKlV8mV3QWDrpiVt5tM28"
     },
     {
-      "added_at": "2024-05-17 04:00:00",
+      "added_at": "2024-05-24 04:00:00",
       "album": {
         "name": "Carmela Soprano",
         "url": "https://open.spotify.com/album/6p7PuiQy9lZ3g7xLtXZLgJ"
@@ -597,7 +777,7 @@
       "url": "https://open.spotify.com/track/4sEJF7ME4gV9w4SCXFwDSH"
     },
     {
-      "added_at": "2024-05-17 04:00:00",
+      "added_at": "2024-05-24 04:00:00",
       "album": {
         "name": "100xCiento",
         "url": "https://open.spotify.com/album/0ftjfi9ePDKKe3JI7IxqEy"
@@ -625,27 +805,7 @@
       "url": "https://open.spotify.com/track/52qI65Ek66LV3evWVDf1ET"
     },
     {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Tommy John",
-        "url": "https://open.spotify.com/album/0k4XOeS7hRH1OgCOi4zu3W"
-      },
-      "artists": [
-        {
-          "name": "AloSofia",
-          "url": "https://open.spotify.com/artist/5Q6CBqo1uJlO4qbw7MD875"
-        },
-        {
-          "name": "Remers",
-          "url": "https://open.spotify.com/artist/5bVgn8ImAnQDIB1NjxfSvb"
-        }
-      ],
-      "duration_ms": 187096,
-      "name": "Tommy John",
-      "url": "https://open.spotify.com/track/2lRUU3ITueZpRl0PBhMHDb"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
+      "added_at": "2024-05-24 04:00:00",
       "album": {
         "name": "Who Who",
         "url": "https://open.spotify.com/album/5YwNXkTwhwBv1dZE5pbE11"
@@ -665,23 +825,7 @@
       "url": "https://open.spotify.com/track/5chbw52W6N0FMq7hFsdQyU"
     },
     {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "la nena de un gang$ter",
-        "url": "https://open.spotify.com/album/1Fu0dkMZw7xmM577HnKWw9"
-      },
-      "artists": [
-        {
-          "name": "paopao",
-          "url": "https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9"
-        }
-      ],
-      "duration_ms": 206256,
-      "name": "la nena de un gang$ter",
-      "url": "https://open.spotify.com/track/398DmYDYzH9wnoGSoCx5pk"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
+      "added_at": "2024-05-24 04:00:00",
       "album": {
         "name": "31",
         "url": "https://open.spotify.com/album/7eWeQJPoi5K9AznEBcKUNJ"
@@ -697,23 +841,7 @@
       "url": "https://open.spotify.com/track/3wVpRDw177Q92oJQWkqELs"
     },
     {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Radio Sunshine",
-        "url": "https://open.spotify.com/album/6EqV9d8O0KlLBRGMLwHa23"
-      },
-      "artists": [
-        {
-          "name": "Ana Macho",
-          "url": "https://open.spotify.com/artist/6LpPPlGAVJAaNqsp8n4vyu"
-        }
-      ],
-      "duration_ms": 154800,
-      "name": "Vacation Bae",
-      "url": "https://open.spotify.com/track/6IIc7LQm8bcshVRbZvMvJ5"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
+      "added_at": "2024-05-24 04:00:00",
       "album": {
         "name": "Demon Time",
         "url": "https://open.spotify.com/album/0WDYRRTzhqXxrA6b01LJMX"
@@ -733,107 +861,7 @@
       "url": "https://open.spotify.com/track/5jxDo5QNrKLxOAtLsiaE27"
     },
     {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Estas Pacas No Me Dan",
-        "url": "https://open.spotify.com/album/6vOcK3zgAqfbpdjMqUo6dh"
-      },
-      "artists": [
-        {
-          "name": "CDobleta",
-          "url": "https://open.spotify.com/artist/2KtMll7bpqySnZhr8wriRE"
-        }
-      ],
-      "duration_ms": 136588,
-      "name": "Estas Pacas No Me Dan",
-      "url": "https://open.spotify.com/track/0akh8smnyX36OALzQFOdJ2"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "HOMENAJE",
-        "url": "https://open.spotify.com/album/0ztt17XG00kFS3YcCauWts"
-      },
-      "artists": [
-        {
-          "name": "Lyanno",
-          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
-        },
-        {
-          "name": "Anubiis",
-          "url": "https://open.spotify.com/artist/5X8Uu9qHN3KXLH2Fws87LB"
-        },
-        {
-          "name": "Hades66",
-          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
-        }
-      ],
-      "duration_ms": 215869,
-      "name": "HOMENAJE",
-      "url": "https://open.spotify.com/track/02qsYZznhFSX0psInKC7st"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Thick",
-        "url": "https://open.spotify.com/album/4ULTm7uYU8IeO85cREMVDk"
-      },
-      "artists": [
-        {
-          "name": "G Chini",
-          "url": "https://open.spotify.com/artist/0L64HIQZ1gjIh2Ft9UO30H"
-        }
-      ],
-      "duration_ms": 142000,
-      "name": "Thick",
-      "url": "https://open.spotify.com/track/17hlS4OGOmvGeyPGRlPYDo"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Hellstar",
-        "url": "https://open.spotify.com/album/0E289dUYJgNvGlqE7mW0fY"
-      },
-      "artists": [
-        {
-          "name": "Panda Black",
-          "url": "https://open.spotify.com/artist/1QcutbFtA6u8A2ZFTZuLSL"
-        },
-        {
-          "name": "Midnvght",
-          "url": "https://open.spotify.com/artist/2f0j8IhXgOli2Ub2amAiUZ"
-        }
-      ],
-      "duration_ms": 166829,
-      "name": "Hellstar",
-      "url": "https://open.spotify.com/track/1T7dnzqt20Ueir9mPv8K6J"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Curarme",
-        "url": "https://open.spotify.com/album/0W3Z5uER6TDCeaR8BqSdil"
-      },
-      "artists": [
-        {
-          "name": "Conep",
-          "url": "https://open.spotify.com/artist/5kCv5opFav2P7nPl8FiEQx"
-        },
-        {
-          "name": "iZaak",
-          "url": "https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK"
-        },
-        {
-          "name": "Amarion",
-          "url": "https://open.spotify.com/artist/7Bb4i0RT3zaudzb8KvxTUQ"
-        }
-      ],
-      "duration_ms": 200869,
-      "name": "Curarme",
-      "url": "https://open.spotify.com/track/7Ecvkr9n80PvRJOI8wLYLf"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
+      "added_at": "2024-05-24 04:00:00",
       "album": {
         "name": "AHORA M\u00c1S QUE NUNCA",
         "url": "https://open.spotify.com/album/7fFFd3OVyeEs8TRF7udrvj"
@@ -849,7 +877,7 @@
       "url": "https://open.spotify.com/track/0pyrQ6PzcBoFoILGzygu4L"
     },
     {
-      "added_at": "2024-05-17 04:00:00",
+      "added_at": "2024-05-24 04:00:00",
       "album": {
         "name": "Bon Appetit",
         "url": "https://open.spotify.com/album/5pfJaXYadRStPQUXxetfDF"
@@ -865,7 +893,7 @@
       "url": "https://open.spotify.com/track/0iXa7J39v2nQj6zcekQAhb"
     },
     {
-      "added_at": "2024-05-17 04:00:00",
+      "added_at": "2024-05-24 04:00:00",
       "album": {
         "name": "Cantazo",
         "url": "https://open.spotify.com/album/4w6VufJP9yRfjSGpDKnjSF"
@@ -881,7 +909,7 @@
       "url": "https://open.spotify.com/track/1Ts2Jt5jMbpimNbGpakCzu"
     },
     {
-      "added_at": "2024-05-17 04:00:00",
+      "added_at": "2024-05-24 04:00:00",
       "album": {
         "name": "Dile a tu Mama",
         "url": "https://open.spotify.com/album/7lt4ZgwYHHsYYFIuaO4VoV"
@@ -905,7 +933,7 @@
       "url": "https://open.spotify.com/track/1i8WflIBtMNow8IALzHYqL"
     },
     {
-      "added_at": "2024-05-17 04:00:00",
+      "added_at": "2024-05-24 04:00:00",
       "album": {
         "name": "Amor Con Rabia",
         "url": "https://open.spotify.com/album/7uwXFum7WBXQXqoGWHM52e"
@@ -925,7 +953,7 @@
       "url": "https://open.spotify.com/track/4onvgTedcSskQgi6eGi5Zp"
     },
     {
-      "added_at": "2024-05-17 04:00:00",
+      "added_at": "2024-05-24 04:00:00",
       "album": {
         "name": "Cual es el Problema",
         "url": "https://open.spotify.com/album/0PPYr90kRAaYMjy2oE3voP"
@@ -945,7 +973,7 @@
       "url": "https://open.spotify.com/track/0I77c8JqNLdihoGeO7uah8"
     },
     {
-      "added_at": "2024-05-17 04:00:00",
+      "added_at": "2024-05-24 04:00:00",
       "album": {
         "name": "Mu\u00f1eca (Remix)",
         "url": "https://open.spotify.com/album/4XhJvgJr7UWOnw6rWFMIJe"

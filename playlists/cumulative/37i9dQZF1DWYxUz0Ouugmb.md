@@ -2,9 +2,9 @@
 
 ### [RADAR Indonesia ](https://open.spotify.com/playlist/37i9dQZF1DWYxUz0Ouugmb)
 
-> Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Ashira Zamita
+> Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Nyoman Paul
 
-219 songs - 14 hr 5 min
+220 songs - 14 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Blood & Light \(Prologue Version\)](https://open.spotify.com/track/5g2qaDg6fsIB1LKSQM3Zbq) | [Stereo Wall](https://open.spotify.com/artist/0kw7tMniMnrp9Pcr7vgDAm), [Tuantigabelas](https://open.spotify.com/artist/0CKf1Ac7v8HTqXxYdWsyWn) | [Prologue](https://open.spotify.com/album/5xGgVRebfE9c1LkYPdK21s) | 4:42 | 2023-10-19 | 2024-03-29 |
 | [Blue Jeans](https://open.spotify.com/track/4kfjA6WfgKBt7I7YKuDCkU) | [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI) | [Blue Jeans](https://open.spotify.com/album/7sO28fbiEU3JbkTcY7vkZi) | 3:31 | 2021-11-25 | 2022-03-25 |
 | [Bodoh](https://open.spotify.com/track/3sC5zNoeqCirdTFtuvpJ0D) | [Anggis Devaki](https://open.spotify.com/artist/7lXTU6VtJQWfiN2vuZyzqf) | [Bodoh](https://open.spotify.com/album/0W6CtBfGyNGW7fwiUwL81Z) | 4:08 | 2024-03-29 |  |
+| [Boleh Juga](https://open.spotify.com/track/2RadWC8dJhTEkvSBTndJZ5) | [Salma Salsabil](https://open.spotify.com/artist/1y46m0kIaKwnodL0ElvQIs) | [Boleh Juga](https://open.spotify.com/album/61yVevFbBURg0USzarrdQ4) | 3:47 | 2024-05-24 |  |
 | [BOY OF THE YEAR](https://open.spotify.com/track/6jRjPgWMFdYROlNXU5xUZQ) | [Warren Hue](https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g) | [BOY OF THE YEAR](https://open.spotify.com/album/1PQd3NJjYgsG2pE88bwTwp) | 3:32 | 2022-07-28 | 2023-04-14 |
 | [Bunga Hati](https://open.spotify.com/track/4AfhlJghKIWkXa8sfFEXVd) | [Salma Salsabil](https://open.spotify.com/artist/1y46m0kIaKwnodL0ElvQIs) | [Bunga Hati](https://open.spotify.com/album/4F4XK6lkrHveOTKSGMeGF4) | 2:53 | 2024-03-29 |  |
 | [Butterflies](https://open.spotify.com/track/0Cd1m9urXAgl2dADwSEvio) | [Jasmine Nadya](https://open.spotify.com/artist/3riJuqytC4fjg5RFkYGT4O) | [Butterflies](https://open.spotify.com/album/0riwHA4hqJEaYi8GEXwzxp) | 3:25 | 2024-03-29 |  |

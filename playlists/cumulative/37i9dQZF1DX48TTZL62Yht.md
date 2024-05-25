@@ -4,7 +4,7 @@
 
 > The tracks you just keep pulling up\. Cover: Gunna
 
-746 songs - 1 day 14 hr 33 min
+747 songs - 1 day 14 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -244,6 +244,7 @@
 | [Gangsta Boo \(with Lil Tjay\)](https://open.spotify.com/track/7jr6fz888xjUlsAD2tZzKR) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Like..? \(Deluxe\)](https://open.spotify.com/album/2pD2Hn4NPvf58NDSdWmUAk) | 2:40 | 2023-09-21 | 2023-10-13 |
 | [Gangsta's Paradise](https://open.spotify.com/track/1DIXPcTDzTj8ZMHt3PDt8p) | [Coolio](https://open.spotify.com/artist/3y24n3XhZ96wgwRXjvS17T), [L.V.](https://open.spotify.com/artist/2LhsePRtgCo4THVKULQBL7) | [Gangsta's Paradise](https://open.spotify.com/album/0BJYNipGyMrw4ngKDJXzXZ) | 4:00 | 2022-10-07 | 2022-12-30 |
 | [Get Away](https://open.spotify.com/track/65nmqAEqW7CJIkXOIkxyg8) | [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g) | [Get Away](https://open.spotify.com/album/32FRll0ejOVNcspDDtUEqY) | 3:00 | 2022-12-16 | 2023-03-08 |
+| [Get It Sexyy](https://open.spotify.com/track/2MjXWroB9wlTG2kqv3avfS) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Get It Sexyy](https://open.spotify.com/album/3ahxhuhmGJiN0CWLOff9Sw) | 2:28 | 2024-05-24 |  |
 | [GET OFF ME \(with Travis Scott\)](https://open.spotify.com/track/2Adxpr1j5lSihOCsmIfflJ) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [INSANO](https://open.spotify.com/album/0tpIUAzCeUkoV4u2r5NrQr) | 3:35 | 2024-04-05 |  |
 | [Get Ready](https://open.spotify.com/track/6Z41D7DQdX432uzWT1aGBO) | [Classified](https://open.spotify.com/artist/7t6GsqGAwrj1kwYbvNX0hN), [Merkules](https://open.spotify.com/artist/4oYZcPoj3q3DneXomtQBzg) | [Time](https://open.spotify.com/album/11Z8ocMyIU4AOMlhxrdSVI) | 3:44 | 2022-04-01 | 2022-04-20 |
 | [Get Rich or Die Tryin](https://open.spotify.com/track/5nLNuK7OoJt36gY9gWgnbo) | [YSN Fab](https://open.spotify.com/artist/4e7DLHD3L0VvT1ubv5oq0w) | [Get Rich or Die Tryin](https://open.spotify.com/album/3RDp0IJMcYp61ZTLgLBt8i) | 3:13 | 2022-01-07 | 2022-05-06 |
@@ -745,7 +746,7 @@
 | [XO Tour Llif3](https://open.spotify.com/track/7GX5flRQZVHRAGd6B4TmDO) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Luv Is Rage 2](https://open.spotify.com/album/733e1ZfktLSwj96X5rsMeE) | 3:02 | 2023-03-11 |  |
 | [Ye Not Crazy](https://open.spotify.com/track/70jjParnrP2X3mOVkoljGE) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [Ye Not Crazy](https://open.spotify.com/album/19KpEHCcxkTNQWm0O0aa9w) | 3:46 | 2022-06-10 | 2022-07-29 |
 | [Yeah Glo!](https://open.spotify.com/track/0SdBkFh6u5IHIXqlBu0NyI) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Yeah Glo!](https://open.spotify.com/album/4C6tr5dhwjMXTLkWL86Rqa) | 2:22 | 2024-04-05 | 2024-05-18 |
-| [Yeern 101](https://open.spotify.com/track/3K5yjMCFHN4TRWKj1zdKIQ) | [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [Yeern 101](https://open.spotify.com/album/1G1kvp5sKVBposBjP4xUy2) | 2:20 | 2024-05-22 |  |
+| [Yeern 101](https://open.spotify.com/track/3K5yjMCFHN4TRWKj1zdKIQ) | [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [Yeern 101](https://open.spotify.com/album/1G1kvp5sKVBposBjP4xUy2) | 2:20 | 2024-05-22 | 2024-05-25 |
 | [Yes Indeed](https://open.spotify.com/track/6vN77lE9LK6HP2DewaN6HZ) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Harder Than Ever](https://open.spotify.com/album/7yf9ZJyHRbp8sHtpDKfPpt) | 2:22 | 2022-04-01 | 2023-02-18 |
 | [YES! \(feat\. Rich The Kid & K CAMP\)](https://open.spotify.com/track/2tDrlnQWiCDis4H8RT0W2h) | [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v), [K CAMP](https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [YES! \(feat\. Rich The Kid & K CAMP\)](https://open.spotify.com/album/3ELdOnZbhc2ogc3BCAmQSd) | 3:15 | 2022-04-01 | 2022-04-20 |
 | [Yikes](https://open.spotify.com/track/75dLEqanQTupF3dtP9exT5) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Yikes](https://open.spotify.com/album/2IvvAdx63KEfVHPAvYdQ1O) | 2:36 | 2022-04-01 | 2022-04-20 |

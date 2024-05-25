@@ -1,6 +1,6 @@
 {
   "description": "Sit back and relax to our favorite local indie and R&B sounds.",
-  "num_followers": 574892,
+  "num_followers": 574910,
   "original_name": "Relax Tayo",
   "owner": {
     "name": "Spotify",
@@ -231,6 +231,22 @@
     {
       "added_at": "2024-05-08 07:36:39",
       "album": {
+        "name": "Destination XYZ",
+        "url": "https://open.spotify.com/album/3tIU2WCVDgPwnG4MraWwQ6"
+      },
+      "artists": [
+        {
+          "name": "Callalily",
+          "url": "https://open.spotify.com/artist/4HOEnLufwAqJ2qoJPVnL01"
+        }
+      ],
+      "duration_ms": 326813,
+      "name": "Magbalik",
+      "url": "https://open.spotify.com/track/5zMR44ZH4KVZj4FlhTj3SE"
+    },
+    {
+      "added_at": "2024-05-08 07:36:39",
+      "album": {
         "name": "Gusto",
         "url": "https://open.spotify.com/album/5x5yKLZt6MF5oznNY42pYK"
       },
@@ -247,22 +263,6 @@
       "duration_ms": 260000,
       "name": "Gusto feat. Al James",
       "url": "https://open.spotify.com/track/6t4krDdBmRmcRH7mb8wPRL"
-    },
-    {
-      "added_at": "2024-05-08 07:36:39",
-      "album": {
-        "name": "Destination XYZ",
-        "url": "https://open.spotify.com/album/3tIU2WCVDgPwnG4MraWwQ6"
-      },
-      "artists": [
-        {
-          "name": "Callalily",
-          "url": "https://open.spotify.com/artist/4HOEnLufwAqJ2qoJPVnL01"
-        }
-      ],
-      "duration_ms": 326813,
-      "name": "Magbalik",
-      "url": "https://open.spotify.com/track/5zMR44ZH4KVZj4FlhTj3SE"
     },
     {
       "added_at": "2024-05-08 07:36:39",
@@ -351,22 +351,6 @@
     {
       "added_at": "2024-05-08 07:36:39",
       "album": {
-        "name": "Pulso",
-        "url": "https://open.spotify.com/album/5RhDcf3sUb46WGHaFy1uDz"
-      },
-      "artists": [
-        {
-          "name": "Zack Tabudlo",
-          "url": "https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac"
-        }
-      ],
-      "duration_ms": 269250,
-      "name": "Pulso",
-      "url": "https://open.spotify.com/track/1lFymAs0a5XGjFVBmkxjQZ"
-    },
-    {
-      "added_at": "2024-05-08 07:36:39",
-      "album": {
         "name": "Byahe",
         "url": "https://open.spotify.com/album/6GkdhbqD0GxO1YMan6eK2b"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 252214,
       "name": "o ninanais",
       "url": "https://open.spotify.com/track/0wu1deoRFwktnfD6dTt9KE"
+    },
+    {
+      "added_at": "2024-05-08 07:36:39",
+      "album": {
+        "name": "Pulso",
+        "url": "https://open.spotify.com/album/5RhDcf3sUb46WGHaFy1uDz"
+      },
+      "artists": [
+        {
+          "name": "Zack Tabudlo",
+          "url": "https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac"
+        }
+      ],
+      "duration_ms": 269250,
+      "name": "Pulso",
+      "url": "https://open.spotify.com/track/1lFymAs0a5XGjFVBmkxjQZ"
     },
     {
       "added_at": "2024-05-08 07:36:39",
@@ -503,6 +503,22 @@
     {
       "added_at": "2024-05-08 07:36:39",
       "album": {
+        "name": "Bakit?",
+        "url": "https://open.spotify.com/album/4yUpIXYnlsHPTT3mIAzIKI"
+      },
+      "artists": [
+        {
+          "name": "Maki",
+          "url": "https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK"
+        }
+      ],
+      "duration_ms": 194442,
+      "name": "Bakit?",
+      "url": "https://open.spotify.com/track/1PpuRYoMSWX8CQZDTE1MRV"
+    },
+    {
+      "added_at": "2024-05-08 07:36:39",
+      "album": {
         "name": "Closer You and I",
         "url": "https://open.spotify.com/album/3oiv09ehNwGqaLWk3TDBgA"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 312133,
       "name": "Buko",
       "url": "https://open.spotify.com/track/5uH5Gl7brNoFCpR9Ds9k94"
-    },
-    {
-      "added_at": "2024-05-08 07:36:39",
-      "album": {
-        "name": "Bakit?",
-        "url": "https://open.spotify.com/album/4yUpIXYnlsHPTT3mIAzIKI"
-      },
-      "artists": [
-        {
-          "name": "Maki",
-          "url": "https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK"
-        }
-      ],
-      "duration_ms": 194442,
-      "name": "Bakit?",
-      "url": "https://open.spotify.com/track/1PpuRYoMSWX8CQZDTE1MRV"
     },
     {
       "added_at": "2024-05-08 07:36:39",

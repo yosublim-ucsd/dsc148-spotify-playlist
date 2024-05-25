@@ -4,7 +4,7 @@
 
 > Tu lista favorita de Bachata ❤️ Cover: Luis Miguel Del Amargue
 
-373 songs - 22 hr 47 min
+375 songs - 22 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,7 +118,7 @@
 | [Donde Estan Esos Amigos](https://open.spotify.com/track/0PLpw3w76h4mVnXUDnveRG) | [El Chaval de la Bachata](https://open.spotify.com/artist/4RnIr0AAau1SBJMbjJ9poC) | [Ya Me Canse](https://open.spotify.com/album/1y8IaieixW46sJO0Zio0EV) | 4:30 | 2022-07-19 | 2023-02-25 |
 | [Donde Estan Esos Amigos](https://open.spotify.com/track/1dN6LzonVuFgQ90x4Ttrse) | [El Chaval de la Bachata](https://open.spotify.com/artist/4RnIr0AAau1SBJMbjJ9poC) | [Ya Me Canse](https://open.spotify.com/album/2lqcFHVGcnVbR0SvqSICSv) | 4:30 | 2022-03-04 | 2022-07-29 |
 | [Dos Locos](https://open.spotify.com/track/1ePEbbeWx3scydfir7HBcq) | [Monchy & Alexandra](https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub) | [Exitos Y Mas](https://open.spotify.com/album/6uW6SpZHEJAgu91uiBzdM1) | 4:06 | 2022-03-04 | 2022-09-03 |
-| [El Campeón](https://open.spotify.com/track/3HEXAkSc7S6Dbo4pJpOp1R) | [Luis Vargas](https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq) | [El Campeón](https://open.spotify.com/album/5hWtvm0it85s5boeVL6v7G) | 3:43 | 2023-12-08 |  |
+| [El Campeón](https://open.spotify.com/track/3HEXAkSc7S6Dbo4pJpOp1R) | [Luis Vargas](https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq) | [El Campeón](https://open.spotify.com/album/5hWtvm0it85s5boeVL6v7G) | 3:43 | 2023-12-08 | 2024-05-25 |
 | [El Cuchillo](https://open.spotify.com/track/51sf8K5TcoLvuMF24c84Lv) | [Optimo](https://open.spotify.com/artist/37tpydsl5wICltyf0U7iHM) | [A World Tour](https://open.spotify.com/album/7M4TBKECznxg5dPL0tgI3U) | 3:41 | 2022-03-04 | 2024-01-13 |
 | [El Guión](https://open.spotify.com/track/0vhTmQVJYu1IGKcGHfwkYO) | [Manny Rod](https://open.spotify.com/artist/18tdJvI6qutPImA2Hgdlyv) | [My Destiny](https://open.spotify.com/album/4VW1AYCLK5bpjLwsevKdjh) | 3:29 | 2022-03-25 | 2022-07-22 |
 | [El Guión](https://open.spotify.com/track/50BYSpPCSxT9Uy5ZjarBMt) | [Manny Rod](https://open.spotify.com/artist/18tdJvI6qutPImA2Hgdlyv) | [My Destiny](https://open.spotify.com/album/2DjM5pDh6eQxjHOKRSg29X) | 3:29 | 2022-07-19 | 2022-09-03 |
@@ -208,6 +208,7 @@
 | [Madre](https://open.spotify.com/track/1e89wmECkzDpPCr9op4Pxf) | [El Chacal](https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA) | [Madre](https://open.spotify.com/album/44TzyeLPqQZT2ipNqJwQ4r) | 3:39 | 2024-01-12 | 2024-02-24 |
 | [Mala](https://open.spotify.com/track/4sLW4tfhCMYPfiN7u8r9DT) | [Mr\. Don](https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR), [Lirow](https://open.spotify.com/artist/7DstIz9YAYYupeK7r5tbbs) | [Deluxe](https://open.spotify.com/album/3oUyYJZkXbamjwIaHjJO3l) | 3:23 | 2022-03-04 | 2022-07-29 |
 | [Mala](https://open.spotify.com/track/35hNtYsDTSNEGwCcIGH2TV) | [Mr\. Don](https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR), [Lirow](https://open.spotify.com/artist/7DstIz9YAYYupeK7r5tbbs) | [Mala](https://open.spotify.com/album/6aKN4CGU6ZC3at6PwB2K7s) | 3:24 | 2022-07-19 | 2022-09-03 |
+| [Me Bebí Tu Recuerdo](https://open.spotify.com/track/2jqmRUKoapLfY0zZmSwrZB) | [Elvis Martinez](https://open.spotify.com/artist/66U02qGDesTqZImnLSiYeE), [Héctor Acosta "El Torito"](https://open.spotify.com/artist/4TCAAIMmeZXCTVlHUsicOn) | [Me Bebí Tu Recuerdo](https://open.spotify.com/album/6I5ClG7uNBguIeRRAkwLtW) | 3:28 | 2024-05-24 |  |
 | [Me Duele \- Remix](https://open.spotify.com/track/0a0JLEXyAPnGGYjXaeoKnc) | [Rodry\-Go!](https://open.spotify.com/artist/0It4ViJPDNNNXkK7u899xV), [Grupo Extra](https://open.spotify.com/artist/4L5SLCIDWPPNGzrLraYCOS), [DJ Paso](https://open.spotify.com/artist/2dOyCw1LXxFFT3UDNJhKIm) | [Me Duele \(Remix\)](https://open.spotify.com/album/56jdCrkHHIcwQQUZIxLJwh) | 3:21 | 2024-02-16 |  |
 | [Me Emborrachare \- Bachata Radio Edit](https://open.spotify.com/track/3iGjLTDqokSuf6yYI83wzi) | [Grupo Extra](https://open.spotify.com/artist/4L5SLCIDWPPNGzrLraYCOS) | [Colores \(Bachata Is Taking Over!\)](https://open.spotify.com/album/0e60AWHAGO3t7mNZPImsKA) | 3:59 | 2022-03-04 | 2022-09-03 |
 | [Me EnRD](https://open.spotify.com/track/3GkctxmZmeGmW4K5Oya0Z1) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Me EnRD](https://open.spotify.com/album/3BumcT1ophGlEOHCi1fzoW) | 3:05 | 2023-04-21 |  |
@@ -264,6 +265,7 @@
 | [Perro](https://open.spotify.com/track/74o96bZLSIZFIG12H7ZwUm) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Fórmula, Vol\. 3](https://open.spotify.com/album/3kGn13mW34Ookfj6yiY8BF) | 3:33 | 2022-09-02 | 2022-09-10 |
 | [Pincesa Mia](https://open.spotify.com/track/3P3KYALsULoYB2D8qIuu2A) | [Jalil Lopez](https://open.spotify.com/artist/1lE4AVltTIHnpsWVdN58jN) | [Pincesa Mia](https://open.spotify.com/album/5Cn3fxulYCvMIosx6iYaLn) | 3:40 | 2022-03-25 | 2022-04-24 |
 | [Pobre Diabla](https://open.spotify.com/track/7gxVgMixTYh4NXiNMao4s2) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [Musica Tropical Para Bailar](https://open.spotify.com/album/47l8vVWxhdk85fSx65LN2e) | 4:15 | 2022-09-09 | 2023-02-25 |
+| [Poniendo Fichas](https://open.spotify.com/track/5YCoBe7xqmh0yIinTyoitg) | [Daniel Santacruz](https://open.spotify.com/artist/4tLUnrSgMM7tT0zVs3wX61) | [Poniendo Fichas](https://open.spotify.com/album/0N0IxkJg7P4sYM7qIthUm4) | 3:39 | 2024-05-24 |  |
 | [Por Amor](https://open.spotify.com/track/2J9P7Ve41peMW0fkxiEImK) | [JFab & Paola Fabre](https://open.spotify.com/artist/1652mfhXA8ApJ7devxmKds) | [Por Amor](https://open.spotify.com/album/3YVhQkKRXxcI9cTuBRWKqT) | 3:40 | 2022-03-04 | 2022-09-03 |
 | [Por Favor](https://open.spotify.com/track/7md4w7QFuWT2mFRcNSJyuA) | [24 Horas](https://open.spotify.com/artist/26tM7QuWssfjMPfOUPaHxY) | [Por Favor](https://open.spotify.com/album/33KEBf8NwF0YfSZqcNoVAP) | 3:43 | 2022-09-16 | 2023-04-19 |
 | [Por Tu Culpa](https://open.spotify.com/track/5yrCbCPTgYS1rPt7GMRCJi) | [24 Horas](https://open.spotify.com/artist/26tM7QuWssfjMPfOUPaHxY) | [Por Tu Culpa](https://open.spotify.com/album/0YDxzNrXmAHkOMR4K23Fe7) | 3:21 | 2022-03-25 | 2023-01-25 |
@@ -346,7 +348,7 @@
 | [Te Vas](https://open.spotify.com/track/7n64p4WEpmE97s6Jg0Hq0M) | [Tutto Durán](https://open.spotify.com/artist/6J5DvhqOWQlM4RcdzePXEZ) | [Como Antes](https://open.spotify.com/album/53Qxmjm4LKN2YAMFsSWsvk) | 3:04 | 2024-01-12 | 2024-03-16 |
 | [Tengo un Amor](https://open.spotify.com/track/4dz2XW41AQTMn0bFKzaqsr) | [Toby Love](https://open.spotify.com/artist/72R3RMGmSmzG57R7OUaDaN) | [Toby Love](https://open.spotify.com/album/4fbI9fPXCA7DZkkef3rBuG) | 4:18 | 2022-03-04 | 2024-01-13 |
 | [Todavía Me Amas](https://open.spotify.com/track/6eB5YDhEiJ2vsNajJP3732) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [Todavía Me Amas: Lo Mejor de Aventura](https://open.spotify.com/album/4rncYwFMKLyhdd0yYQH19k) | 4:45 | 2022-03-04 | 2022-07-29 |
-| [Todo Cansa](https://open.spotify.com/track/6dSfOKkfLJpy7hfCH6uGci) | [Joe Veras](https://open.spotify.com/artist/3pbg6hZGMHg6G5TiuCh21K) | [Todo Cansa](https://open.spotify.com/album/05J8ZaGTOnHxGKHT7TKm09) | 3:22 | 2024-02-02 |  |
+| [Todo Cansa](https://open.spotify.com/track/6dSfOKkfLJpy7hfCH6uGci) | [Joe Veras](https://open.spotify.com/artist/3pbg6hZGMHg6G5TiuCh21K) | [Todo Cansa](https://open.spotify.com/album/05J8ZaGTOnHxGKHT7TKm09) | 3:22 | 2024-02-02 | 2024-05-25 |
 | [Tokyo](https://open.spotify.com/track/3uCspcbDztT97O4NOSLzLW) | [Dani J](https://open.spotify.com/artist/3TEhIeweC59okLmqFu6LWv) | [Tokyo](https://open.spotify.com/album/2yTVsta2Kf8ITZAgHF0zC4) | 3:09 | 2024-04-19 |  |
 | [Traiciónalo Conmigo](https://open.spotify.com/track/5NmKNwXMyZiWcPlL6QcXUT) | [Henry Santos](https://open.spotify.com/artist/1cUfMJtWJXfhTQvYGJQtaF) | [Traiciónalo Conmigo](https://open.spotify.com/album/4XUP2O5nbnpRD2hhp5vsJJ) | 3:45 | 2022-03-25 | 2023-02-07 |
 | [Traiganme Alcohol](https://open.spotify.com/track/483stYH6hNRad4b5qeyI9K) | [JFab & Paola Fabre](https://open.spotify.com/artist/1652mfhXA8ApJ7devxmKds) | [Pa' Que Te Duela](https://open.spotify.com/album/6TU8wHPVsx9a4byLoZllb7) | 3:54 | 2022-03-25 | 2022-09-03 |

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Belarus.
 
-173 songs - 7 hr 28 min
+174 songs - 7 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [FUNKED UP \- SLOWED](https://open.spotify.com/track/4VL5XwfATZuAVTW471Wpro) | [xxanteria](https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp), [isq](https://open.spotify.com/artist/6JjQbtAO09K7qBEW2pdX5s) | [FUNKED UP](https://open.spotify.com/album/4FRxgE6LA2UGJ5yz8diaI9) | 1:55 | 2024-01-29 | 2024-04-23 |
 | [Haunted House](https://open.spotify.com/track/6pgZZ8xfIBewpXeeVvIjyl) | [Aarne](https://open.spotify.com/artist/5B5qmrbTFvA7TAxWruuwbo), [Big Baby Tape](https://open.spotify.com/artist/5NMwoStnfHT4LdETlJSwDT), [kizaru](https://open.spotify.com/artist/5NipqMGsY4AUeb7kGT8aVz) | [AA LANGUAGE 2](https://open.spotify.com/album/7IvfbDBurAnYpUC0w1h1Na) | 2:33 | 2024-01-29 | 2024-02-05 |
 | [HOW ARE U](https://open.spotify.com/track/4Ypw4Et7oz04ZL9Reizi9u) | [Pepel Nahudi](https://open.spotify.com/artist/4AM93R2m6QIKGPWH6QILF3), [xxxmanera](https://open.spotify.com/artist/0hAEtx2GQLtMTJj8qycHRr) | [HOW ARE U](https://open.spotify.com/album/5Ba3n0vGf3XDDVZh4UIE0h) | 2:16 | 2024-02-17 | 2024-02-20 |
-| [HURTZ](https://open.spotify.com/track/2WWlNStuw5Tqg5noCtR7oq) | [Toxi$](https://open.spotify.com/artist/2hTmpvdwhpNZryOkwTisRW) | [HOTSHOT](https://open.spotify.com/album/2Tt5k4YZ6gkYtjJeLBHGkG) | 1:44 | 2024-01-29 |  |
+| [HURTZ](https://open.spotify.com/track/2WWlNStuw5Tqg5noCtR7oq) | [Toxi$](https://open.spotify.com/artist/2hTmpvdwhpNZryOkwTisRW) | [HOTSHOT](https://open.spotify.com/album/2Tt5k4YZ6gkYtjJeLBHGkG) | 1:44 | 2024-01-29 | 2024-05-25 |
 | [I Believe In You](https://open.spotify.com/track/3Af5F6bqnFBLptWHbuJbJV) | [Xenia](https://open.spotify.com/artist/4c13QPiKh4XE8FNqXr28FU) | [Happy Vibes XENIA](https://open.spotify.com/album/6MY0wuDDbzzqzAtpXafE5u) | 3:07 | 2024-04-22 | 2024-04-24 |
 | [Ignis Aeternus](https://open.spotify.com/track/2D7xpmq3H8ld4J1sXUWv9i) | [Antinem](https://open.spotify.com/artist/1Gz538DkElU8nUejaYW3HA) | [Amor Et Memoria](https://open.spotify.com/album/0X7BfIp0NbQZVF4YnwrIQJ) | 4:12 | 2024-03-28 | 2024-03-30 |
 | [juice](https://open.spotify.com/track/2PXxdh7WHZAlONZW8P3H2h) | [daryana](https://open.spotify.com/artist/5GVO9K6Iaebk8oQnXGTzqL) | [juice](https://open.spotify.com/album/704AHdqt76FvWV8EFSPtDV) | 1:47 | 2024-03-02 |  |
@@ -107,6 +107,7 @@
 | [кончил](https://open.spotify.com/track/4Q6eUXtjd9sbzP2orZY6x0) | [ENINA](https://open.spotify.com/artist/1jUPTaRiy2sOdOhvIEUosG) | [кончил](https://open.spotify.com/album/6IzJYD4LZjnlggZmYHsKX6) | 2:10 | 2024-04-25 |  |
 | [Крепче](https://open.spotify.com/track/6bCLkzoE3agC7Ws9NxVxIn) | [KRBK](https://open.spotify.com/artist/0E56Ncr2I37JQhW71UJALE) | [Крепче](https://open.spotify.com/album/1e82MHQz8mczZXotjeR0ky) | 2:00 | 2024-01-29 |  |
 | [КТО ТЕБЕ ЭТО СКАЗАЛ](https://open.spotify.com/track/0mEoX8LDlk1UR2Uem8NfFu) | [Pepel Nahudi](https://open.spotify.com/artist/4AM93R2m6QIKGPWH6QILF3) | [PSYCHEDELIC LOVE](https://open.spotify.com/album/3HOCSNvo6JGfDUuRzWssWe) | 2:13 | 2024-04-06 | 2024-04-08 |
+| [кто ты](https://open.spotify.com/track/1eAy3nePI1v2EHpye6iy0g) | [daryana](https://open.spotify.com/artist/5GVO9K6Iaebk8oQnXGTzqL) | [кто ты](https://open.spotify.com/album/48Zo7gXVhzzW5VbvUQjzxy) | 1:40 | 2024-05-24 |  |
 | [ЛАБИРИНТ](https://open.spotify.com/track/7biChppM3c8q7qcVl7ceb2) | [FACE](https://open.spotify.com/artist/2z20q6EEfm6w6PiIKsgtb3) | [12](https://open.spotify.com/album/12gG6thCtApE8B1nKcowOg) | 2:49 | 2024-01-29 |  |
 | [Лиза](https://open.spotify.com/track/69E0PXED6MvClnqED4d7f5) | [FACE](https://open.spotify.com/artist/2z20q6EEfm6w6PiIKsgtb3), [Squirrel Flower](https://open.spotify.com/artist/7bI1v9NGBBhq8iGfytctni) | [Hate Love](https://open.spotify.com/album/5UKIxEdQDFQztvCEfK5QME) | 3:00 | 2024-01-29 | 2024-04-23 |
 | [МАЙ МАЙ](https://open.spotify.com/track/2t33vDAERvsbqTLQuphuwA) | [LOVV66](https://open.spotify.com/artist/5A9NWhs9ydYZPGgvcWI8Ms) | [МАЙ МАЙ](https://open.spotify.com/album/7FLL81YdbJHC7OB0ntas4C) | 1:49 | 2024-05-02 | 2024-05-07 |
@@ -166,9 +167,9 @@
 | [фенибут 2.0](https://open.spotify.com/track/4YfWMQ0M3FYOh71etUTmO7) | [mapt0v](https://open.spotify.com/artist/5GTZUVrKf86Aco9LJQquxc) | [фенибут 2.0](https://open.spotify.com/album/102uVTPFXr32GnnmD2piYL) | 1:29 | 2024-04-16 |  |
 | [фенибут 2.0 \- speed up](https://open.spotify.com/track/5ktnJaccf1XbHRws28PlyK) | [mapt0v](https://open.spotify.com/artist/5GTZUVrKf86Aco9LJQquxc) | [фенибут 2.0](https://open.spotify.com/album/102uVTPFXr32GnnmD2piYL) | 1:15 | 2024-04-06 |  |
 | [ХАЙЕГОХО](https://open.spotify.com/track/5DIprzXMd8Ot7RSVe50qfq) | [Toxi$](https://open.spotify.com/artist/2hTmpvdwhpNZryOkwTisRW) | [JAZZ DO IT](https://open.spotify.com/album/54qJYajtPSQ350ArxQmmcU) | 1:36 | 2024-04-13 | 2024-04-17 |
-| [Холод](https://open.spotify.com/track/4jiwxqE1yye4hzG5CpNcUH) | [shadowraze](https://open.spotify.com/artist/0TO6y1x0LQodwBnxGtQu9o) | [Холод](https://open.spotify.com/album/2ow8uzDPdwcUgajYFxrylH) | 2:03 | 2024-01-29 | 2024-05-22 |
+| [Холод](https://open.spotify.com/track/4jiwxqE1yye4hzG5CpNcUH) | [shadowraze](https://open.spotify.com/artist/0TO6y1x0LQodwBnxGtQu9o) | [Холод](https://open.spotify.com/album/2ow8uzDPdwcUgajYFxrylH) | 2:03 | 2024-01-29 |  |
 | [ХОЧУ 18+](https://open.spotify.com/track/5x39VMQPsF1wDgLyhUSZYP) | [uniqe](https://open.spotify.com/artist/0NhjeTa9uSqiD1wEG3gfII), [nkeeei](https://open.spotify.com/artist/0kD3TUffiD0sPxGwygzjg7), [ARTEM SHILOVETS](https://open.spotify.com/artist/3r1Md7Hk5iqtpyEoGo8032), [Voskresenskii](https://open.spotify.com/artist/4x79BOihyDga7T7R1ULYC3) | [2007, Ч.1](https://open.spotify.com/album/3X6mGWf1bB8pwtcHDdRvNo) | 2:41 | 2024-01-29 |  |
-| [Художник](https://open.spotify.com/track/67pvnFwqbZ6Bcc3UdOtsvG) | [KRBK](https://open.spotify.com/artist/0E56Ncr2I37JQhW71UJALE) | [Художник](https://open.spotify.com/album/2T7zv5tviCnIqmQsMwNHIg) | 1:47 | 2024-04-25 |  |
+| [Художник](https://open.spotify.com/track/67pvnFwqbZ6Bcc3UdOtsvG) | [KRBK](https://open.spotify.com/artist/0E56Ncr2I37JQhW71UJALE) | [Художник](https://open.spotify.com/album/2T7zv5tviCnIqmQsMwNHIg) | 1:47 | 2024-04-25 | 2024-05-25 |
 | [Царица](https://open.spotify.com/track/1sgGy5HcUAdYoWGj3RXmYb) | [ANNA ASTI](https://open.spotify.com/artist/40YXr3tdSqFv0kfmgjj8vP) | [Царица](https://open.spotify.com/album/2rnuTMnUTPZOZQUw99TleP) | 3:35 | 2024-01-29 | 2024-05-16 |
 | [Целую](https://open.spotify.com/track/22Gx9ozLJwjo4fBgoSw7y9) | [Pepel Nahudi](https://open.spotify.com/artist/4AM93R2m6QIKGPWH6QILF3) | [Целую](https://open.spotify.com/album/5MMOUwDx6k2gxYw1CifHY7) | 1:48 | 2024-04-10 | 2024-05-03 |
 | [Час](https://open.spotify.com/track/4mVDYu5SYxeKK9BhEnlstT) | [Vivienne Mort](https://open.spotify.com/artist/6mQd5HeHhMBZK8u2bTCduH) | [Досвід](https://open.spotify.com/album/44prQVO4fIoqf2qQYy0Eyq) | 3:20 | 2024-05-13 |  |

@@ -2,20 +2,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DvacitluwF.md) - [plain]
 
 ### [R&Beats](https://open.spotify.com/playlist/37i9dQZF1DX8DvacitluwF)
 
-> Only the best in South African and international RnB\. Cover: <a href=https://open.spotify.com/artist/1K288EUFcrCVl5dIm46bYU?si=h\_oFscVVQlWeEYlJz8QZtw>Hanna</a>
+> Only the best in South African and international RnB\. Cover: <a href=https://open.spotify.com/artist/5o0lTomGzanpzoNLZg7mDu?si=q\_MjphLZQ0y26ofXapGApw>Nnashe</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,372 likes - 90 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,384 likes - 90 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Vision Remix \(feat\. Chlöe\)](https://open.spotify.com/track/43ZEiGYEJ5vcmjlBwanwyW) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh), [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Vision Remix \(feat\. Chlöe\)](https://open.spotify.com/album/1cdHnVkU4QloSiH06bI8pA) | 2:46 |
-| 2 | [All I Need](https://open.spotify.com/track/4ez5tXxdlc2N2L6KM8skxP) | [Hanna](https://open.spotify.com/artist/1K288EUFcrCVl5dIm46bYU) | [Guilt Free](https://open.spotify.com/album/48VUg8Curh2m3zbmjSUf95) | 2:34 |
-| 3 | [1:59 \(feat\. Gunna\)](https://open.spotify.com/track/4nncvBrXyuKNg5jfBnJ1dR) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [1:59 \(feat\. Gunna\)](https://open.spotify.com/album/4QTPH0500WkMREPzyNYp9d) | 3:12 |
-| 4 | [Truth or Dare](https://open.spotify.com/track/1whAXVGN8AdfrnoXNIXfJf) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA](https://open.spotify.com/album/6cWVXZCgpDJhvFOqB6o0DP) | 3:10 |
-| 5 | [Risk \(feat\. Moliy\)](https://open.spotify.com/track/2dMAggfV7EGVwdaP74xlhB) | [Shekhinah](https://open.spotify.com/artist/1F42GOcKAImOu4yj1b04NB), [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [Risk \(feat\. Moliy\)](https://open.spotify.com/album/5KSgs1ELY7Hw9psUKBUCZh) | 2:47 |
-| 6 | [Love Me JeJe](https://open.spotify.com/track/47hsUYxvbTlBAN3sP9dEOd) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Love Me JeJe](https://open.spotify.com/album/0DSIfkfmDDNRbB87Xk0ipd) | 2:58 |
-| 7 | [No More](https://open.spotify.com/track/34UMYs60QzWIxQyrPSTqAk) | [Gemma Fassie](https://open.spotify.com/artist/19dvqSl1KGxLWkMSfJgZSS) | [No More](https://open.spotify.com/album/2rV7c4zLraZi1iCDKnTSsW) | 3:06 |
-| 8 | [Temptation](https://open.spotify.com/track/3fQNGqh3o9uPfzHyJmFaSs) | [Nnashe](https://open.spotify.com/artist/5o0lTomGzanpzoNLZg7mDu) | [Temptation](https://open.spotify.com/album/23cOEXHFZ7zDqZBd9fRSyY) | 2:22 |
+| 2 | [1:59 \(feat\. Gunna\)](https://open.spotify.com/track/4nncvBrXyuKNg5jfBnJ1dR) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [1:59 \(feat\. Gunna\)](https://open.spotify.com/album/4QTPH0500WkMREPzyNYp9d) | 3:12 |
+| 3 | [Temptation](https://open.spotify.com/track/3fQNGqh3o9uPfzHyJmFaSs) | [Nnashe](https://open.spotify.com/artist/5o0lTomGzanpzoNLZg7mDu) | [Temptation](https://open.spotify.com/album/23cOEXHFZ7zDqZBd9fRSyY) | 2:22 |
+| 4 | [All I Need](https://open.spotify.com/track/4ez5tXxdlc2N2L6KM8skxP) | [Hanna](https://open.spotify.com/artist/1K288EUFcrCVl5dIm46bYU) | [Guilt Free](https://open.spotify.com/album/48VUg8Curh2m3zbmjSUf95) | 2:34 |
+| 5 | [Truth or Dare](https://open.spotify.com/track/1whAXVGN8AdfrnoXNIXfJf) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA](https://open.spotify.com/album/6cWVXZCgpDJhvFOqB6o0DP) | 3:10 |
+| 6 | [Risk \(feat\. Moliy\)](https://open.spotify.com/track/2dMAggfV7EGVwdaP74xlhB) | [Shekhinah](https://open.spotify.com/artist/1F42GOcKAImOu4yj1b04NB), [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [Risk \(feat\. Moliy\)](https://open.spotify.com/album/5KSgs1ELY7Hw9psUKBUCZh) | 2:47 |
+| 7 | [Love Me JeJe](https://open.spotify.com/track/47hsUYxvbTlBAN3sP9dEOd) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Love Me JeJe](https://open.spotify.com/album/0DSIfkfmDDNRbB87Xk0ipd) | 2:58 |
+| 8 | [No More](https://open.spotify.com/track/34UMYs60QzWIxQyrPSTqAk) | [Gemma Fassie](https://open.spotify.com/artist/19dvqSl1KGxLWkMSfJgZSS) | [No More](https://open.spotify.com/album/2rV7c4zLraZi1iCDKnTSsW) | 3:06 |
 | 9 | [Hold Me Tight](https://open.spotify.com/track/3nledyW6TPc8hfXeDi8LNK) | [Manana](https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ) | [Hold Me Tight](https://open.spotify.com/album/0B3sKMBkPgz7g8yXZZxMDz) | 3:19 |
 | 10 | [stubborn](https://open.spotify.com/track/2rTMWzycOUHyAVfZkh3Okk) | [Jemapelle James](https://open.spotify.com/artist/3j7tJ1MrdVZR6gLm0Xg0Zj) | [Stubborn](https://open.spotify.com/album/7t00kEQzFRXDx2KXF6IuQj) | 2:44 |
 | 11 | [Please Don't Fall In Love With Me \- Live](https://open.spotify.com/track/0yzVN5F03qzQ9zs8t60H7m) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Please Don't Fall In Love With Me](https://open.spotify.com/album/1UiyDtsYD5kOd8gPjEINbw) | 3:29 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DvacitluwF.md) - [plain]
 | 89 | [SAME MISTAKE](https://open.spotify.com/track/3VQ5lMMpas43wu1xIQuu0s) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [SAME MISTAKE](https://open.spotify.com/album/41EmgJAJQInxILfagQ608k) | 2:58 |
 | 90 | [Rhythm & Blues](https://open.spotify.com/track/4yZIlBKbrvOfQlhR0oZvwS) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Rhythm & Blues](https://open.spotify.com/album/5avPK0nUF9JHE01pCFW0mB) | 2:24 |
 
-Snapshot ID: `Zk/KcAAAAABA4h9JmadlTEiGrAdoh3SF`
+Snapshot ID: `ZlA7AQAAAABX2zGxdMimfLXGG4iWCjPk`

@@ -2,9 +2,9 @@
 
 ### [Indigo](https://open.spotify.com/playlist/37i9dQZF1DWUgBy0IJPlHq)
 
-> A new shade of Country\. Cover: Orville Peck
+> A new shade of Country\. Cover: The Red Clay Strays
 
-564 songs - 1 day 10 hr 38 min
+566 songs - 1 day 10 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -375,6 +375,7 @@
 | [Paycheck to Paycheck](https://open.spotify.com/track/2rK7rEmSllMs6iIJzle9oM) | [Mike and the Moonpies](https://open.spotify.com/artist/0t1sRNhzk7wIfWSvjD87vi) | [Paycheck to Paycheck](https://open.spotify.com/album/3snVS5Ve1YUMpLyYELK00B) | 2:36 | 2021-12-17 | 2022-06-18 |
 | [Persephone](https://open.spotify.com/track/2icih9ttMWVZCIJRHmdUA0) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Persephone](https://open.spotify.com/album/6YefG0DventwCUhX8PgzP9) | 4:22 | 2021-12-17 | 2022-04-09 |
 | [Pine Grove \(Madhouse\)](https://open.spotify.com/track/0V6rLTwbZqPXlQzKJ4Wvua) | [Ian Noe](https://open.spotify.com/artist/2TEpPi5SFalflhpcQHq3lB) | [Pine Grove \(Madhouse\)](https://open.spotify.com/album/7dzN4ats6WPUwCkFL2pkZF) | 4:05 | 2022-01-14 | 2022-03-26 |
+| [Pink Skies](https://open.spotify.com/track/4ZJ4vzLQekI0WntDbanNC7) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Pink Skies](https://open.spotify.com/album/7LRZfujsTLyy814AnMSdtT) | 3:14 | 2024-05-24 |  |
 | [Pink Sky](https://open.spotify.com/track/067mB5gMI3BhrtPfLutzFm) | [Lola Kirke](https://open.spotify.com/artist/1g5bYOQ7ZHGbn0tuUHxSgE) | [Pink Sky](https://open.spotify.com/album/3RInB0XjMkDIOlOzuZXPG6) | 3:39 | 2022-04-01 | 2022-04-29 |
 | [Pink Sky](https://open.spotify.com/track/5erf3Lj664ICIbDzaVdquG) | [Lola Kirke](https://open.spotify.com/artist/1g5bYOQ7ZHGbn0tuUHxSgE) | [Lady for Sale](https://open.spotify.com/album/3t0A9s7LtUGzVcXUJZc05U) | 3:39 | 2022-04-29 | 2022-10-01 |
 | [Pipeliner](https://open.spotify.com/track/4CoT2SH4LmAouvTnBgLi4w) | [Teague Brothers Band](https://open.spotify.com/artist/79kA7zyNoaWwAmpf21p7vH) | [Pipeliner](https://open.spotify.com/album/11O7JgRPasUbpB1Eg0yjyb) | 4:39 | 2022-08-05 | 2023-03-25 |
@@ -516,6 +517,7 @@
 | [Vampire Empire](https://open.spotify.com/track/0ToG55iJZCOzZkcpWbXxpW) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Vampire Empire](https://open.spotify.com/album/2Msefc9DYHFMTNY6zuCOIm) | 3:12 | 2023-12-15 |  |
 | [Vanlife](https://open.spotify.com/track/45VMPMgzOLjEc7XHcWXiJJ) | [Willi Carlisle](https://open.spotify.com/artist/3JXh5RaaZipkV08RQK9L3L) | [Vanlife](https://open.spotify.com/album/1R1JBKJdMh57oGTmp37vuF) | 4:46 | 2022-06-17 | 2022-08-13 |
 | [Villain in Me](https://open.spotify.com/track/7k4HVWYcyrsdv3IiIqozat) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [Villain in Me](https://open.spotify.com/album/4CoXWcHp6KDoKJW4ypKTRY) | 3:37 | 2021-12-17 | 2022-05-20 |
+| [Wanna Be Loved](https://open.spotify.com/track/4boa7Bv0VijpxoP1SHjjUb) | [The Red Clay Strays](https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ) | [Wanna Be Loved](https://open.spotify.com/album/3gkwDd6hohNwtgET2IpJLZ) | 3:37 | 2024-05-24 |  |
 | [Wannabe](https://open.spotify.com/track/22NdTBOE9CgBsMwKlwXJoI) | [Dalton Domino](https://open.spotify.com/artist/2qsLBELO7Pw7Bpffvv9yDT), [Stephanie Lambring](https://open.spotify.com/artist/7chfbqQEd0M1cJPwybXaZD) | [Wannabe](https://open.spotify.com/album/5XrGiVliWSPdiaIySBz5y4) | 4:53 | 2021-12-17 | 2022-05-20 |
 | [Wasn't Her Own](https://open.spotify.com/track/35bixwNlqgab7vYz9ZEnAb) | [Dalton Domino](https://open.spotify.com/artist/2qsLBELO7Pw7Bpffvv9yDT) | [Wasn't Her Own](https://open.spotify.com/album/5QACHd3nkQSDpX5OcVoO7o) | 4:51 | 2021-12-17 | 2022-01-22 |
 | [Wasted Time](https://open.spotify.com/track/5E53ij5aeq9B4HXDMuHh6w) | [Tray Wellington](https://open.spotify.com/artist/5aqFCmHlaXKczjY9MT2QUh) | [Black Banjo](https://open.spotify.com/album/60WtwjOc8WzjAIixV2r5X2) | 2:35 | 2022-06-17 | 2022-07-30 |

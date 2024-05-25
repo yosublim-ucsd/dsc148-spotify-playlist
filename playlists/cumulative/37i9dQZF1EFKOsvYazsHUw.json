@@ -1383,6 +1383,24 @@
     },
     {
       "album": {
+        "name": "Young Giant",
+        "url": "https://open.spotify.com/album/4j6RpYZk9y67ggu1gWO8QL"
+      },
+      "artists": [
+        {
+          "name": "Thes",
+          "url": "https://open.spotify.com/artist/7nnzlSxfrZkifdVvMhKyGp"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275500,
+      "name": "Murder",
+      "url": "https://open.spotify.com/track/7Ev7Bb8tPrQFR2MvQzrfM9"
+    },
+    {
+      "album": {
         "name": "Murder She Wrote",
         "url": "https://open.spotify.com/album/4xzY2KvcFofA9oKCGRb0LO"
       },

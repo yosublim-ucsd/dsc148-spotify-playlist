@@ -633,6 +633,32 @@
     },
     {
       "album": {
+        "name": "The Hood",
+        "url": "https://open.spotify.com/album/0qkvEZD47o0t4oLD5rSKEk"
+      },
+      "artists": [
+        {
+          "name": "Ninja",
+          "url": "https://open.spotify.com/artist/2praKdsjYPKh2yNXBdTWGT"
+        },
+        {
+          "name": "Happy Raikoti",
+          "url": "https://open.spotify.com/artist/6q71Xu33Q9DBhLFSUCLMUM"
+        },
+        {
+          "name": "Gag Studioz",
+          "url": "https://open.spotify.com/artist/1rXD7gKuyN5XcsIXE60UQ3"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "FIR",
+      "url": "https://open.spotify.com/track/5LKwyZEcftYJl9AJNV0hpr"
+    },
+    {
+      "album": {
         "name": "Welcome To Punjab",
         "url": "https://open.spotify.com/album/4eOCSM24EwRcX9US7gQjRA"
       },
@@ -810,7 +836,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 248511,
       "name": "Jagga",
       "url": "https://open.spotify.com/track/5XJGVtJcKHgWBo3fNwJWSl"

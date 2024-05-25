@@ -3823,6 +3823,24 @@
     },
     {
       "album": {
+        "name": "Anywhere But Here",
+        "url": "https://open.spotify.com/album/78ciF696Xfki1ZI8Vqko8z"
+      },
+      "artists": [
+        {
+          "name": "Sydney <3",
+          "url": "https://open.spotify.com/artist/0nlD8bXf7Cm1xZaIA3jGAZ"
+        }
+      ],
+      "date_added": "2024-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166875,
+      "name": "Anywhere But Here",
+      "url": "https://open.spotify.com/track/3QKABrwyeKEDL7uV66pqir"
+    },
+    {
+      "album": {
         "name": "EVERYTHING IS LOVE (Clean)",
         "url": "https://open.spotify.com/album/1x7IPmap6ALHrqcyWGnFT2"
       },
@@ -5448,6 +5466,24 @@
       "duration_ms": 279746,
       "name": "Beach Song",
       "url": "https://open.spotify.com/track/1qHb9HszpXTGVSOHi74ubw"
+    },
+    {
+      "album": {
+        "name": "Beam Me Up!",
+        "url": "https://open.spotify.com/album/6jasdK3DjBOVyt63icmbFz"
+      },
+      "artists": [
+        {
+          "name": "Cherry Blonde",
+          "url": "https://open.spotify.com/artist/25y7fG0CNjnRHUnT5ppyYa"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161815,
+      "name": "Beam Me Up!",
+      "url": "https://open.spotify.com/track/0GBSwgvLhG9meotnVaQCZF"
     },
     {
       "album": {
@@ -9147,6 +9183,24 @@
     },
     {
       "album": {
+        "name": "Can You Feel It?",
+        "url": "https://open.spotify.com/album/3jIngYInfVl02nCSlefq2h"
+      },
+      "artists": [
+        {
+          "name": "Red Machine",
+          "url": "https://open.spotify.com/artist/5937fULbm5xcjdHFi4G8Ef"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126088,
+      "name": "Can You Feel It?",
+      "url": "https://open.spotify.com/track/5S6DMNWR4HP21GKI8OIXFU"
+    },
+    {
+      "album": {
         "name": "Can You Hear Me?",
         "url": "https://open.spotify.com/album/6FFmbuVpEauWymDukl0rrn"
       },
@@ -9422,6 +9476,24 @@
       "duration_ms": 187418,
       "name": "Capt. Koyake",
       "url": "https://open.spotify.com/track/656P0KoVreJhTqD1G52QLK"
+    },
+    {
+      "album": {
+        "name": "Captivated",
+        "url": "https://open.spotify.com/album/5gKIHJKCA3ndnDTRq8AgaJ"
+      },
+      "artists": [
+        {
+          "name": "Codey Lee James",
+          "url": "https://open.spotify.com/artist/6GT8SLhWdvEDgmGAhV763E"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208697,
+      "name": "Captivated",
+      "url": "https://open.spotify.com/track/1wIEOWw51yvFuV2yJYyozY"
     },
     {
       "album": {
@@ -11794,7 +11866,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 178588,
       "name": "Contradictory Girl",
       "url": "https://open.spotify.com/track/20M8qlECg4w0ERlD47aqal"
@@ -22541,6 +22613,24 @@
     },
     {
       "album": {
+        "name": "Good Stuff",
+        "url": "https://open.spotify.com/album/0GSqj2tCgbXDN2wrVFrTVn"
+      },
+      "artists": [
+        {
+          "name": "Neelais",
+          "url": "https://open.spotify.com/artist/0OeOKwCIlRePkSfI6rHovu"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210562,
+      "name": "Good Stuff",
+      "url": "https://open.spotify.com/track/3zeA8ztyj9u42gpxmFBHSG"
+    },
+    {
+      "album": {
         "name": "Good Thing",
         "url": "https://open.spotify.com/album/5mluD3JTCkol96a8uF5wWY"
       },
@@ -22750,7 +22840,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 176172,
       "name": "Goodbyes",
       "url": "https://open.spotify.com/track/3a86vrsmi1lDfqw1nGQHux"
@@ -23970,7 +24060,7 @@
       ],
       "date_added": "2024-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 216000,
       "name": "Heart to Bone",
       "url": "https://open.spotify.com/track/2gbKV8shxDVy0BWHcbg6pP"
@@ -26486,7 +26576,7 @@
       ],
       "date_added": "2024-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 217781,
       "name": "I Saw Jon Hamm At The Beach",
       "url": "https://open.spotify.com/track/7uyjIiva3TyQ5jhVAWPQvS"
@@ -27760,7 +27850,7 @@
       ],
       "date_added": "2024-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 188750,
       "name": "IN LOVE",
       "url": "https://open.spotify.com/track/7Au4ChJkv9jo0NnpEVp3hK"
@@ -29590,7 +29680,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 153600,
       "name": "Kafka",
       "url": "https://open.spotify.com/track/0dPMYriM07Lu8Md86ZEiIf"
@@ -33418,7 +33508,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 191029,
       "name": "Love Can Save Us",
       "url": "https://open.spotify.com/track/4DDAtJyBgcorv1Fncj7HGd"
@@ -34794,7 +34884,7 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 222701,
       "name": "Man of the House",
       "url": "https://open.spotify.com/track/79lVtncTTbDunHTDrnqrbT"
@@ -44313,6 +44403,24 @@
     },
     {
       "album": {
+        "name": "Puffy Eyes",
+        "url": "https://open.spotify.com/album/1hUnyaNYDd1GsKg3DlxQcD"
+      },
+      "artists": [
+        {
+          "name": "tet\u00e9",
+          "url": "https://open.spotify.com/artist/3CYhcizMHA30W2o6nn39Xf"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168211,
+      "name": "Puffy Eyes",
+      "url": "https://open.spotify.com/track/1dtcvUNShoDTo7iYYkk9a9"
+    },
+    {
+      "album": {
         "name": "Pull Me Under",
         "url": "https://open.spotify.com/album/1GCQ1N8wLN4zgo8sntuBFR"
       },
@@ -47793,6 +47901,24 @@
     },
     {
       "album": {
+        "name": "oceanbay",
+        "url": "https://open.spotify.com/album/4h4cLJlwbRtecLa0FWkJKV"
+      },
+      "artists": [
+        {
+          "name": "Robousto",
+          "url": "https://open.spotify.com/artist/49l3P1Khg67KCEALrHHbF0"
+        }
+      ],
+      "date_added": "2024-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "SEABIRD",
+      "url": "https://open.spotify.com/track/5FWG4k7ol5iX35I0cQK5Ue"
+    },
+    {
+      "album": {
         "name": "Search & Rescue",
         "url": "https://open.spotify.com/album/67WUCOjyl44d8fAFzHONjW"
       },
@@ -48782,6 +48908,28 @@
       "duration_ms": 202500,
       "name": "Show You Love",
       "url": "https://open.spotify.com/track/7Lt9nbE6n4npCmmcC7vSQW"
+    },
+    {
+      "album": {
+        "name": "Ela",
+        "url": "https://open.spotify.com/album/2PtkBKh0h4N4IAanGC3ZIr"
+      },
+      "artists": [
+        {
+          "name": "Tomidrey",
+          "url": "https://open.spotify.com/artist/3EoEhybMTG3lOm1ABZNvRb"
+        },
+        {
+          "name": "Kaylan Arnold",
+          "url": "https://open.spotify.com/artist/30Umdbc6mDkhyrfyPw2quC"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227478,
+      "name": "Show You Off",
+      "url": "https://open.spotify.com/track/3SLKvLzqx9ZtZa2dnsYVe0"
     },
     {
       "album": {
@@ -52866,7 +53014,7 @@
       ],
       "date_added": "2024-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 157707,
       "name": "Superhero",
       "url": "https://open.spotify.com/track/4E62rYwn02nTFqyYnpXDEe"
@@ -53540,6 +53688,24 @@
       "duration_ms": 192049,
       "name": "Take My Time",
       "url": "https://open.spotify.com/track/7ny92Ege0Hp8jeIQIa2pw0"
+    },
+    {
+      "album": {
+        "name": "TAKE OVER ME",
+        "url": "https://open.spotify.com/album/0VTtMtQJNsFyFA4shX7H5X"
+      },
+      "artists": [
+        {
+          "name": "DILLON BROOKS",
+          "url": "https://open.spotify.com/artist/7LCtpefI8Gu2XNAMAPWJJm"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250070,
+      "name": "TAKE OVER ME",
+      "url": "https://open.spotify.com/track/3w9y6JFAHjkskMZEi26MuA"
     },
     {
       "album": {
@@ -55564,6 +55730,24 @@
       "duration_ms": 172000,
       "name": "The Way It Is",
       "url": "https://open.spotify.com/track/2YrFCauRKOx7jBYzv6KDle"
+    },
+    {
+      "album": {
+        "name": "The Way Things Go",
+        "url": "https://open.spotify.com/album/52hYcjHtrNwC0Z3HfYao99"
+      },
+      "artists": [
+        {
+          "name": "Luke Lasso",
+          "url": "https://open.spotify.com/artist/1qNLvjiHNgbUh4QzuC4wZh"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189440,
+      "name": "The Way Things Go",
+      "url": "https://open.spotify.com/track/3vymu3fBpcisORqtS8KDKh"
     },
     {
       "album": {
@@ -61335,6 +61519,24 @@
     },
     {
       "album": {
+        "name": "Darryl C.",
+        "url": "https://open.spotify.com/album/3ZrSggBUh5JtzixISHXLyU"
+      },
+      "artists": [
+        {
+          "name": "Darryl C.",
+          "url": "https://open.spotify.com/artist/0uxXFTU7dywOZzINO6Z3we"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323986,
+      "name": "When the Love Is Gone",
+      "url": "https://open.spotify.com/track/0zh5kKuDExaSzb70VJsUiG"
+    },
+    {
+      "album": {
         "name": "When the Time Comes/Blue",
         "url": "https://open.spotify.com/album/0RdLDp7mj0cRvMTXcBQglc"
       },
@@ -63128,7 +63330,7 @@
       ],
       "date_added": "2024-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 159047,
       "name": "You & I",
       "url": "https://open.spotify.com/track/3OpDKm2qS44I6LFQS9Gxca"

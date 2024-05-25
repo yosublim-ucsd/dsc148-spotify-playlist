@@ -939,6 +939,24 @@
     },
     {
       "album": {
+        "name": "Another Day",
+        "url": "https://open.spotify.com/album/2mCmt4mpUId90aVmNJY7zt"
+      },
+      "artists": [
+        {
+          "name": "Arta Porting",
+          "url": "https://open.spotify.com/artist/6e2ZpZDumV9AabK9rxpIUg"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287515,
+      "name": "Another Day",
+      "url": "https://open.spotify.com/track/516dXS5QwzvlvP3zS63dnS"
+    },
+    {
+      "album": {
         "name": "Another Day Gone By",
         "url": "https://open.spotify.com/album/46hpO6Ecbxhs5FTzJtySpo"
       },
@@ -1282,7 +1300,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 202427,
       "name": "Baubles, Bangles & Beads",
       "url": "https://open.spotify.com/track/7hOfHLHUyYaOVuL8MxzoLv"
@@ -5303,6 +5321,24 @@
     },
     {
       "album": {
+        "name": "Late At Night",
+        "url": "https://open.spotify.com/album/3lMYHC4ZL9xYxsp5yysMKl"
+      },
+      "artists": [
+        {
+          "name": "Wildflower Trio",
+          "url": "https://open.spotify.com/artist/201JTvpknVv2BZgtwDaQH6"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188371,
+      "name": "Late At Night",
+      "url": "https://open.spotify.com/track/2hs7iNULNKcfbFpLsyazEz"
+    },
+    {
+      "album": {
         "name": "Late Bagatelle",
         "url": "https://open.spotify.com/album/1rn3qFrQqF1w4uKBU0mnhW"
       },
@@ -6131,6 +6167,24 @@
     },
     {
       "album": {
+        "name": "May This Dance Last Forever",
+        "url": "https://open.spotify.com/album/52jObqeeDAtFOT9sQ5O1Kq"
+      },
+      "artists": [
+        {
+          "name": "The Belleville Band",
+          "url": "https://open.spotify.com/artist/06ZTM5bZGUrNwBobE5eVBW"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169594,
+      "name": "May This Dance Last Forever",
+      "url": "https://open.spotify.com/track/7o5OtG2KwcXObjebVXJNG4"
+    },
+    {
+      "album": {
         "name": "Maze of Tranquility",
         "url": "https://open.spotify.com/album/3xOT2GRM03MGNTRMQFSPZS"
       },
@@ -6736,7 +6790,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 204103,
       "name": "My first kiss",
       "url": "https://open.spotify.com/track/30VQy0OHXjam8lKkpsZF4Z"
@@ -7420,7 +7474,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 157877,
       "name": "On A Clear Day",
       "url": "https://open.spotify.com/track/2rtTRNbX2fRQGsLBje9YHS"
@@ -8590,7 +8644,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 330163,
       "name": "Sleep Deprivation",
       "url": "https://open.spotify.com/track/1xNbrJNkuEmItjwCt2dvnM"
@@ -10228,7 +10282,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 237679,
       "name": "The Wind",
       "url": "https://open.spotify.com/track/3ssyhOkzW2tfNCiR7qihx4"
@@ -11402,6 +11456,24 @@
       "duration_ms": 163892,
       "name": "When Your Lover Has Gone",
       "url": "https://open.spotify.com/track/0TgEPps1Z86WY2henEcH2T"
+    },
+    {
+      "album": {
+        "name": "Where Are You?",
+        "url": "https://open.spotify.com/album/2VPB60I319VrZoxrSwEOX0"
+      },
+      "artists": [
+        {
+          "name": "Nick Osman Trio",
+          "url": "https://open.spotify.com/artist/2Al01GKqZ47q0irdqBXMQr"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185325,
+      "name": "Where Are You?",
+      "url": "https://open.spotify.com/track/1G9aTMIOFrVvsxthH1c20e"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
-  "description": "This Is Banda Bostik. Los temas esenciales, todos en una lista.",
-  "num_followers": 4846,
+  "description": "This is Banda Bostik. The essential tracks, all in one playlist.",
+  "num_followers": 4851,
   "original_name": "This Is Banda Bostik",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zk01gAAAAABR1Kyc+wmuy7v2d/ltjqD1",
+  "snapshot_id": "Zk6HAAAAAADKPbMh8REAVAsi7e8nDsjU",
   "tracks": [
     {
       "added_at": null,
@@ -491,22 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trascendencia",
-        "url": "https://open.spotify.com/album/6wI9HpmGoMc2abajO10K1k"
-      },
-      "artists": [
-        {
-          "name": "Banda Bostik",
-          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
-        }
-      ],
-      "duration_ms": 239600,
-      "name": "Trascendencia",
-      "url": "https://open.spotify.com/track/5D5wscvQ327rxOjhJ4wECK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ataca de Nuevo: En Vivo, Vol. 2",
         "url": "https://open.spotify.com/album/2Yqdp2ibr3M8sqxZNGx3zu"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 213440,
       "name": "Rateros Con Placas",
       "url": "https://open.spotify.com/track/11ctA2XRw5P9MDwYsBCWn3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Trascendencia",
+        "url": "https://open.spotify.com/album/6wI9HpmGoMc2abajO10K1k"
+      },
+      "artists": [
+        {
+          "name": "Banda Bostik",
+          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
+        }
+      ],
+      "duration_ms": 239600,
+      "name": "Trascendencia",
+      "url": "https://open.spotify.com/track/5D5wscvQ327rxOjhJ4wECK"
     },
     {
       "added_at": null,
@@ -555,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Del Barrio",
-        "url": "https://open.spotify.com/album/21867014aseBS6APsqGgcN"
-      },
-      "artists": [
-        {
-          "name": "Banda Bostik",
-          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
-        }
-      ],
-      "duration_ms": 268887,
-      "name": "Ciego",
-      "url": "https://open.spotify.com/track/2PXyrWoAhaPaY4hoGjze7b"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ataca de Nuevo: En Vivo, Vol. 2",
         "url": "https://open.spotify.com/album/2Yqdp2ibr3M8sqxZNGx3zu"
       },
@@ -587,8 +571,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ataca de Nuevo: En Vivo, Vol. 1",
-        "url": "https://open.spotify.com/album/1J414WmCyoFwbOb0Kz5sXD"
+        "name": "Del Barrio",
+        "url": "https://open.spotify.com/album/21867014aseBS6APsqGgcN"
       },
       "artists": [
         {
@@ -596,9 +580,9 @@
           "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
         }
       ],
-      "duration_ms": 413066,
-      "name": "Tocando Fondo - En Vivo",
-      "url": "https://open.spotify.com/track/00UFHHEQIkhUtHQ09lGUvq"
+      "duration_ms": 268887,
+      "name": "Ciego",
+      "url": "https://open.spotify.com/track/2PXyrWoAhaPaY4hoGjze7b"
     },
     {
       "added_at": null,
@@ -619,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Del Barrio",
-        "url": "https://open.spotify.com/album/21867014aseBS6APsqGgcN"
+        "name": "Ataca de Nuevo: En Vivo, Vol. 1",
+        "url": "https://open.spotify.com/album/1J414WmCyoFwbOb0Kz5sXD"
       },
       "artists": [
         {
@@ -628,9 +612,9 @@
           "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
         }
       ],
-      "duration_ms": 296472,
-      "name": "\u00bfPor Qu\u00e9?",
-      "url": "https://open.spotify.com/track/14MVUODB4PCoJlnkcAo0PG"
+      "duration_ms": 413066,
+      "name": "Tocando Fondo - En Vivo",
+      "url": "https://open.spotify.com/track/00UFHHEQIkhUtHQ09lGUvq"
     },
     {
       "added_at": null,
@@ -651,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Capturados",
-        "url": "https://open.spotify.com/album/3yAAIY2FjKw8IkOVTEguWu"
+        "name": "Del Barrio",
+        "url": "https://open.spotify.com/album/21867014aseBS6APsqGgcN"
       },
       "artists": [
         {
@@ -660,9 +644,9 @@
           "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
         }
       ],
-      "duration_ms": 191750,
-      "name": "Maribel",
-      "url": "https://open.spotify.com/track/24R36ZDhCWbXsucZwm4LBc"
+      "duration_ms": 296472,
+      "name": "\u00bfPor Qu\u00e9?",
+      "url": "https://open.spotify.com/track/14MVUODB4PCoJlnkcAo0PG"
     },
     {
       "added_at": null,
@@ -679,6 +663,22 @@
       "duration_ms": 340560,
       "name": "Ave Nocturna",
       "url": "https://open.spotify.com/track/7ebnVkj8vrXaPD51rSw0ia"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Trascendencia",
+        "url": "https://open.spotify.com/album/6wI9HpmGoMc2abajO10K1k"
+      },
+      "artists": [
+        {
+          "name": "Banda Bostik",
+          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
+        }
+      ],
+      "duration_ms": 287986,
+      "name": "Que F\u00e1cil",
+      "url": "https://open.spotify.com/track/6BKgSJEwlxSGadurggJAPf"
     },
     {
       "added_at": null,
@@ -703,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trascendencia",
-        "url": "https://open.spotify.com/album/6wI9HpmGoMc2abajO10K1k"
-      },
-      "artists": [
-        {
-          "name": "Banda Bostik",
-          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
-        }
-      ],
-      "duration_ms": 287986,
-      "name": "Que F\u00e1cil",
-      "url": "https://open.spotify.com/track/6BKgSJEwlxSGadurggJAPf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Capturados",
         "url": "https://open.spotify.com/album/3yAAIY2FjKw8IkOVTEguWu"
       },
@@ -728,9 +712,9 @@
           "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
         }
       ],
-      "duration_ms": 213623,
-      "name": "Pandillero, Pt. 2",
-      "url": "https://open.spotify.com/track/2jzXiiFmGO0ITTDntM0uiX"
+      "duration_ms": 191750,
+      "name": "Maribel",
+      "url": "https://open.spotify.com/track/24R36ZDhCWbXsucZwm4LBc"
     },
     {
       "added_at": null,
@@ -795,6 +779,22 @@
       "duration_ms": 148560,
       "name": "C. P.",
       "url": "https://open.spotify.com/track/6MAslBnj6a3vpV9YcEt90S"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Capturados",
+        "url": "https://open.spotify.com/album/3yAAIY2FjKw8IkOVTEguWu"
+      },
+      "artists": [
+        {
+          "name": "Banda Bostik",
+          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
+        }
+      ],
+      "duration_ms": 213623,
+      "name": "Pandillero, Pt. 2",
+      "url": "https://open.spotify.com/track/2jzXiiFmGO0ITTDntM0uiX"
     },
     {
       "added_at": null,

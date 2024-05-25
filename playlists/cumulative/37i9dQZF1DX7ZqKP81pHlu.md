@@ -2,7 +2,7 @@
 
 ### [DZ Hits](https://open.spotify.com/playlist/37i9dQZF1DX7ZqKP81pHlu)
 
-> Les hits algériens du moment\. Cover: Didine Canon 16
+> Les hits algériens du moment\. Cover: TIF
 
 200 songs - 12 hr 8 min
 

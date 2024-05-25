@@ -2,9 +2,9 @@
 
 ### [pulp](https://open.spotify.com/playlist/37i9dQZF1DX3IplhwNexYg)
 
-> The best in current indie rock\. Cover: 86TVs
+> The best in current indie rock\. Cover: Orla Gartland
 
-582 songs - 1 day 8 hr 39 min
+584 songs - 1 day 8 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,7 @@
 | [Blu Shirt Boy](https://open.spotify.com/track/7bAT6eo8VuSTPKA52CxPTJ) | [Nieve Ella](https://open.spotify.com/artist/14zhvja4OxwrmivOB3LHOn) | [Blu Shirt Boy](https://open.spotify.com/album/0wIdXaa8pAUQh5H0DBVmXK) | 3:43 | 2022-09-08 | 2022-10-13 |
 | [Blue](https://open.spotify.com/track/2Jtv7FYvZFQkz7GLJCIbTh) | [Thyla](https://open.spotify.com/artist/0L6tY7VDHwGDhx3T989SAJ) | [Blue](https://open.spotify.com/album/34PFa8obv2n5a5s1zEGnus) | 3:00 | 2021-03-09 | 2022-01-17 |
 | [Blueheart](https://open.spotify.com/track/2tYefVtZYM82eB4pdFtxmR) | [Lucia & The Best Boys](https://open.spotify.com/artist/3hihvmS048d6bb8YlZaTU1) | [Blueheart](https://open.spotify.com/album/0p6qEOTGGbdANAL2Galia5) | 2:49 | 2021-03-09 | 2022-01-17 |
-| [Borderline Insane](https://open.spotify.com/track/3G48URkjBTbQLTwW8mz1Po) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu), [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Borderline Insane](https://open.spotify.com/album/5Qh5HPMvrJfFujCGAV9GDB) | 2:19 | 2023-01-13 |  |
+| [Borderline Insane](https://open.spotify.com/track/3G48URkjBTbQLTwW8mz1Po) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu), [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Borderline Insane](https://open.spotify.com/album/5Qh5HPMvrJfFujCGAV9GDB) | 2:19 | 2023-01-13 | 2024-05-25 |
 | [Boyfriend](https://open.spotify.com/track/0ty4GQLhjq2lDzV8GpCNCT) | [Hot Freaks](https://open.spotify.com/artist/0wGzciem2JUvglxX6Hr3E9) | [Boyfriend](https://open.spotify.com/album/4JyXpLldphcUiQG9IjLFfs) | 3:22 | 2023-07-13 | 2023-09-10 |
 | [Break Right In](https://open.spotify.com/track/5CGI3BH6qXG6tSRwq6E8IQ) | [Buzzard Buzzard Buzzard](https://open.spotify.com/artist/69ilUSFj31FA2iLHtegRwi) | [Break Right In](https://open.spotify.com/album/6vyfTT54LDqMiX8BoakH0k) | 3:17 | 2022-01-17 | 2022-07-29 |
 | [Break Right In](https://open.spotify.com/track/6uUIfHixhGAsm3PcMOmv1Q) | [Buzzard Buzzard Buzzard](https://open.spotify.com/artist/69ilUSFj31FA2iLHtegRwi) | [A Passionate Life](https://open.spotify.com/album/6xfTNIzi9KL3Lxzz6jbzSp) | 3:17 | 2022-04-01 | 2022-08-19 |
@@ -193,7 +193,7 @@
 | [Full Round Table](https://open.spotify.com/track/2mX022csmPILfLhGGwctqn) | [Chappaqua Wrestling](https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC) | [Full Round Table](https://open.spotify.com/album/6gptW1eODnspT3YYkcVfTf) | 4:14 | 2022-08-18 | 2022-10-07 |
 | [Garden](https://open.spotify.com/track/2oh6OHvQ8BmsxzTthpuz7b) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Garden](https://open.spotify.com/album/5rV3o00UyA3MBnwPEpvmiC) | 3:00 | 2024-05-16 |  |
 | [Gaslight](https://open.spotify.com/track/6hc42LuTezXyDwquiPH2uf) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Gaslight](https://open.spotify.com/album/47aUK3fEcaVMuZsEdEWuLt) | 2:53 | 2022-01-17 | 2022-02-04 |
-| [Gen\-X Cops](https://open.spotify.com/track/0UqpCnZlv5X2IJf9OOR5fh) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Capricorn / Gen\-X Cops](https://open.spotify.com/album/3szHsSqtiYzj9UbJRgvqkv) | 3:47 | 2024-02-16 |  |
+| [Gen\-X Cops](https://open.spotify.com/track/0UqpCnZlv5X2IJf9OOR5fh) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Capricorn / Gen\-X Cops](https://open.spotify.com/album/3szHsSqtiYzj9UbJRgvqkv) | 3:47 | 2024-02-16 | 2024-05-25 |
 | [Gen\-X Cops](https://open.spotify.com/track/7EBmnpMsikHSmwOoCnAKrd) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Only God Was Above Us](https://open.spotify.com/album/1W04wu2W4OIcuiNc5AMB3y) | 3:47 | 2024-03-15 | 2024-04-19 |
 | [Get Out of My House](https://open.spotify.com/track/34G5OFBcyzDCxPKTuhSfye) | [Miya Folick](https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV) | [Get Out of My House](https://open.spotify.com/album/3OkTj8C7lVgXTqFShwOH5s) | 3:32 | 2023-05-25 | 2023-06-10 |
 | [Get the Piss Up](https://open.spotify.com/track/1O2qx7Q2Qm1LYxzCMHqYLn) | [Broken Baby](https://open.spotify.com/artist/3HqT4VT5m66V7HvOgxtmoA) | [Get the Piss Up](https://open.spotify.com/album/7pcNOY0MHc4kbVa5qTAMHN) | 3:34 | 2021-07-16 | 2022-08-19 |
@@ -312,6 +312,7 @@
 | [Let's Go](https://open.spotify.com/track/0FGRPpBeQxkGEpnIChlnf8) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Let's Go](https://open.spotify.com/album/09PcwXJ6Kdt2M6ezSCYnQb) | 2:22 | 2021-04-30 | 2022-02-04 |
 | [Liffey](https://open.spotify.com/track/6JWsaKAJaqznc19DLk5d00) | [Pillow Queens](https://open.spotify.com/artist/7BDvurihyagH0uSPNDJX7d) | [In Waiting](https://open.spotify.com/album/1bcRBsdflwrlfkkVSTFKBI) | 4:19 | 2021-03-09 | 2022-01-22 |
 | [Like A Lesson](https://open.spotify.com/track/2MxDVhWDvd2f7ROLe8VDYe) | [Pillow Queens](https://open.spotify.com/artist/7BDvurihyagH0uSPNDJX7d) | [Like A Lesson](https://open.spotify.com/album/7htHFZFmrO9ChMSK82QLXx) | 3:19 | 2024-03-15 | 2024-05-17 |
+| [Little Chaos](https://open.spotify.com/track/2UGWhW5YmrEDUDRB3H1fif) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Little Chaos](https://open.spotify.com/album/7xP8WWOKNqBhItpZ2j7OXM) | 2:54 | 2024-05-24 |  |
 | [Little Fix](https://open.spotify.com/track/10kO3DBfY2UJSeYOuxDZPd) | [Sprints](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Little Fix](https://open.spotify.com/album/2Hw3eI5w9JgGXqgnAS0rAi) | 3:16 | 2022-01-17 | 2022-08-19 |
 | [Loser at Best](https://open.spotify.com/track/3AVYmz1xX2INIwnSz9pyat) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Loser at Best](https://open.spotify.com/album/5kCYiAEMWTDztfN77A7FDk) | 3:10 | 2023-05-18 | 2023-08-05 |
 | [Losing You](https://open.spotify.com/track/00zlgHUZDIixDNBRE4r4lK) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Losing You](https://open.spotify.com/album/1JtdjMrrJTW1wC4r8olF1t) | 3:02 | 2023-08-17 | 2023-11-10 |
@@ -402,6 +403,7 @@
 | [Portrait of a Blank Slate](https://open.spotify.com/track/7505qe0xzCuDPaILCURnOC) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Wake Up & It's Over](https://open.spotify.com/album/5LHuQr88XpvvuGpqgsu2gr) | 3:47 | 2023-05-18 |  |
 | [Praise You](https://open.spotify.com/track/5zFlp5CJqy3NPOYF1FXEYF) | [Afflecks Palace](https://open.spotify.com/artist/4IPPxhNko81s8pZsgyYhYW) | [Praise You](https://open.spotify.com/album/0FLyhyx0Ui5m8esZnPE6Qi) | 3:10 | 2022-08-18 | 2022-11-18 |
 | [Prep\-School Gangsters](https://open.spotify.com/track/0NiaHPlgDp7081zSqXuULS) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Only God Was Above Us](https://open.spotify.com/album/1W04wu2W4OIcuiNc5AMB3y) | 3:48 | 2024-05-16 |  |
+| [Price On Fun](https://open.spotify.com/track/3RVdfN1q7TMQKywRmtfhdD) | [Chloe Slater](https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24) | [You Can't Put A Price On Fun](https://open.spotify.com/album/3ypNothOPxns9O8DIJubYb) | 3:20 | 2024-05-24 |  |
 | [Prophecy of the Dragon](https://open.spotify.com/track/6sDP5eAl2X2VZXc6vQfRJM) | [The Voidz](https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ) | [Prophecy of the Dragon](https://open.spotify.com/album/2vgY7kyz9brbPUKBE6DAqs) | 4:53 | 2023-05-25 | 2024-05-17 |
 | [Punk Rock Loser](https://open.spotify.com/track/2pqoh1jUQoppztoQRRGyKK) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Cave World](https://open.spotify.com/album/2IC2TP7bnwkfl56vjabLQt) | 3:57 | 2022-08-18 |  |
 | [Puppy](https://open.spotify.com/track/6lKPZsX33G9uTJ3mDU3pVB) | [L'objectif](https://open.spotify.com/artist/7dB5TtNG9BHNj4QCfS0SQg) | [Puppy](https://open.spotify.com/album/0qjJwpkIck9Qj5IoGdHnT2) | 3:15 | 2024-01-26 | 2024-02-09 |

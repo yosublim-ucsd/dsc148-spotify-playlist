@@ -4,7 +4,7 @@
 
 > 
 
-1,403 songs - 3 day 4 hr 55 min
+1,404 songs - 3 day 4 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1082,6 +1082,7 @@
 | [Shipwreck](https://open.spotify.com/track/3iVUZyw2EdOZP0Srh8ya0H) | [Unproven](https://open.spotify.com/artist/5WPHwuzXyFyIheuZKM42lI) | [Shipwreck](https://open.spotify.com/album/21f96cIirulxYd4vvs8B7G) | 3:54 | 2023-03-25 |  |
 | [Shockwave](https://open.spotify.com/track/7jEHdn446rOCOuJiL9OjR9) | [Dither](https://open.spotify.com/artist/2CTPZndAY5BwdgHk8AX0B7), [Nolz](https://open.spotify.com/artist/6kudMw2A0xOBJHpW8VNaDA) | [Shockwave](https://open.spotify.com/album/3j7zpz12akF07kxcciSf5E) | 4:19 | 2022-09-22 |  |
 | [Shooting Stars](https://open.spotify.com/track/4XIob709mZn9KTLKNxEKDP) | [DJ Genki](https://open.spotify.com/artist/787mj6iFvEpBBuQQRDdMXB) | [Shooting Stars](https://open.spotify.com/album/5q8UHxGTLqBtZrpTuVSkgd) | 2:09 | 2023-03-05 |  |
+| [Shot Me](https://open.spotify.com/track/0iyysJlfl1uBwoh4GxMzyv) | [Sghenny](https://open.spotify.com/artist/4ciy3r7f8nrBKoLZsJ6oVY) | [Shot Me](https://open.spotify.com/album/2J4s2W2BCnh4MsWBtUgXDI) | 2:16 | 2024-05-24 |  |
 | [Shout](https://open.spotify.com/track/5DXOZpg1kgYat7meZMRZmQ) | [Primeshock](https://open.spotify.com/artist/0BtiMLqwAvO3yHcPh5BWCS), [Pie Star](https://open.spotify.com/artist/5nUXeLjAJBxQvOe2xuBMGy) | [Shout](https://open.spotify.com/album/091I19r7uDRereR4VADK7I) | 3:01 | 2024-03-29 |  |
 | [Signal](https://open.spotify.com/track/2oaXAbSxNPuUVZZyJeesiY) | [rejection](https://open.spotify.com/artist/0S23vj2YyvxsVlhqqSohrk), [Such](https://open.spotify.com/artist/0m7tILDYjOZCFFVVGmI3io) | [Beyond core EVANGELIX 01](https://open.spotify.com/album/5mFg1Tms9cKuoG2LsnIn1V) | 5:15 | 2022-02-22 |  |
 | [Sirius](https://open.spotify.com/track/5yzfLXH4yZoeWsgx7yVqYA) | [The Wither](https://open.spotify.com/artist/1asmhMpAyPyIZRmRuuOujU), [Jeypieh](https://open.spotify.com/artist/2H7yqsjikGoB9AlYYxT5rM) | [Sirius](https://open.spotify.com/album/36XvpEDkaUapj5st14IytT) | 4:30 | 2022-12-22 |  |

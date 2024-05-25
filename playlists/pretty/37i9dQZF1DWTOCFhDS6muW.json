@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Esto es punta!",
-  "num_followers": 24385,
+  "num_followers": 24391,
   "original_name": "Punta",
   "owner": {
     "name": "Spotify",
@@ -367,86 +367,6 @@
     {
       "added_at": "2020-05-26 15:53:13",
       "album": {
-        "name": "Baila Baila",
-        "url": "https://open.spotify.com/album/4p7cukDbJpuArJP7IGsYvo"
-      },
-      "artists": [
-        {
-          "name": "Grupo Kazzabe",
-          "url": "https://open.spotify.com/artist/5BclDYLlC8kap9AJhDWca3"
-        }
-      ],
-      "duration_ms": 113475,
-      "name": "Vamos Vamos Todos Con la Seleccion",
-      "url": "https://open.spotify.com/track/68qPcByui0DvzHLxZKuVzl"
-    },
-    {
-      "added_at": "2020-05-26 15:53:13",
-      "album": {
-        "name": "Encarguitos Del Caribe",
-        "url": "https://open.spotify.com/album/2ma5OpIYAH0fZm3H23krvR"
-      },
-      "artists": [
-        {
-          "name": "Guillermo Anderson",
-          "url": "https://open.spotify.com/artist/6rxRjKb9HsicUr844FIfpy"
-        }
-      ],
-      "duration_ms": 308920,
-      "name": "Pobre Marinero",
-      "url": "https://open.spotify.com/track/0FqthNlBdnwU3OjPG5Tkml"
-    },
-    {
-      "added_at": "2020-05-26 15:53:13",
-      "album": {
-        "name": "Saben Quien Llego",
-        "url": "https://open.spotify.com/album/78w7svKazglFlKTtHOYht7"
-      },
-      "artists": [
-        {
-          "name": "Banda Blanca",
-          "url": "https://open.spotify.com/artist/1Ykx49KpY0FqIXUwyuD3TJ"
-        }
-      ],
-      "duration_ms": 302000,
-      "name": "Swing Latino",
-      "url": "https://open.spotify.com/track/2kVZfr5MW8w7wc7v6ULwWK"
-    },
-    {
-      "added_at": "2020-05-26 15:53:13",
-      "album": {
-        "name": "La Guerra De Las Puntas",
-        "url": "https://open.spotify.com/album/7MRIkW4ZvHEVWVvoGDieW8"
-      },
-      "artists": [
-        {
-          "name": "Los Silver Star",
-          "url": "https://open.spotify.com/artist/6CTqFWJlzyKHtEcVfdLMsP"
-        }
-      ],
-      "duration_ms": 249933,
-      "name": "Catalina La Coja",
-      "url": "https://open.spotify.com/track/0YRYTEfZUNm1oxEVbJYmWB"
-    },
-    {
-      "added_at": "2020-05-26 15:53:13",
-      "album": {
-        "name": "Punta Gold, Vol. 1",
-        "url": "https://open.spotify.com/album/6kN8KMWQJRLCKJtV06Rkdk"
-      },
-      "artists": [
-        {
-          "name": "Supa G",
-          "url": "https://open.spotify.com/artist/4lJKjqL2fCL4yfNyKhm1sB"
-        }
-      ],
-      "duration_ms": 193516,
-      "name": "Carolina (Club Mix)",
-      "url": "https://open.spotify.com/track/44vM0hGs6C6GMvoFrAJpGH"
-    },
-    {
-      "added_at": "2020-05-26 15:53:13",
-      "album": {
         "name": "Batalla de Puntas 3: Power Mix",
         "url": "https://open.spotify.com/album/61cxt6Q8r6STi4zsGVsKZT"
       },
@@ -479,18 +399,98 @@
     {
       "added_at": "2020-05-26 15:53:13",
       "album": {
-        "name": "Batalla de las Puntas, Vol. 6",
-        "url": "https://open.spotify.com/album/5zKgSHI93j3BpGncORJ87T"
+        "name": "Encarguitos Del Caribe",
+        "url": "https://open.spotify.com/album/2ma5OpIYAH0fZm3H23krvR"
       },
       "artists": [
         {
-          "name": "La Gran Banda",
-          "url": "https://open.spotify.com/artist/7bUAuQ2SZDbUbRgEPPeBBo"
+          "name": "Guillermo Anderson",
+          "url": "https://open.spotify.com/artist/6rxRjKb9HsicUr844FIfpy"
         }
       ],
-      "duration_ms": 227813,
-      "name": "Mandele Gas",
-      "url": "https://open.spotify.com/track/75XWB4hpjYqw7beNddHhhe"
+      "duration_ms": 308920,
+      "name": "Pobre Marinero",
+      "url": "https://open.spotify.com/track/0FqthNlBdnwU3OjPG5Tkml"
+    },
+    {
+      "added_at": "2020-05-26 15:53:13",
+      "album": {
+        "name": "Baila Baila",
+        "url": "https://open.spotify.com/album/4p7cukDbJpuArJP7IGsYvo"
+      },
+      "artists": [
+        {
+          "name": "Grupo Kazzabe",
+          "url": "https://open.spotify.com/artist/5BclDYLlC8kap9AJhDWca3"
+        }
+      ],
+      "duration_ms": 113475,
+      "name": "Vamos Vamos Todos Con la Seleccion",
+      "url": "https://open.spotify.com/track/68qPcByui0DvzHLxZKuVzl"
+    },
+    {
+      "added_at": "2020-05-26 15:53:13",
+      "album": {
+        "name": "La Guerra De Las Puntas",
+        "url": "https://open.spotify.com/album/7MRIkW4ZvHEVWVvoGDieW8"
+      },
+      "artists": [
+        {
+          "name": "Los Silver Star",
+          "url": "https://open.spotify.com/artist/6CTqFWJlzyKHtEcVfdLMsP"
+        }
+      ],
+      "duration_ms": 249933,
+      "name": "Catalina La Coja",
+      "url": "https://open.spotify.com/track/0YRYTEfZUNm1oxEVbJYmWB"
+    },
+    {
+      "added_at": "2020-05-26 15:53:13",
+      "album": {
+        "name": "Saben Quien Llego",
+        "url": "https://open.spotify.com/album/78w7svKazglFlKTtHOYht7"
+      },
+      "artists": [
+        {
+          "name": "Banda Blanca",
+          "url": "https://open.spotify.com/artist/1Ykx49KpY0FqIXUwyuD3TJ"
+        }
+      ],
+      "duration_ms": 302000,
+      "name": "Swing Latino",
+      "url": "https://open.spotify.com/track/2kVZfr5MW8w7wc7v6ULwWK"
+    },
+    {
+      "added_at": "2020-05-26 15:53:13",
+      "album": {
+        "name": "Punta Gold, Vol. 1",
+        "url": "https://open.spotify.com/album/6kN8KMWQJRLCKJtV06Rkdk"
+      },
+      "artists": [
+        {
+          "name": "Supa G",
+          "url": "https://open.spotify.com/artist/4lJKjqL2fCL4yfNyKhm1sB"
+        }
+      ],
+      "duration_ms": 193516,
+      "name": "Carolina (Club Mix)",
+      "url": "https://open.spotify.com/track/44vM0hGs6C6GMvoFrAJpGH"
+    },
+    {
+      "added_at": "2020-05-26 15:53:13",
+      "album": {
+        "name": "Metela Sacala",
+        "url": "https://open.spotify.com/album/76RLt9PsMCiN2z8iC7Hxho"
+      },
+      "artists": [
+        {
+          "name": "El Chevo",
+          "url": "https://open.spotify.com/artist/2vC9dN2ebF9lBbAFlIUeL4"
+        }
+      ],
+      "duration_ms": 181996,
+      "name": "Metela Sacala",
+      "url": "https://open.spotify.com/track/0XfQtIY7TqdPzowUopof7U"
     },
     {
       "added_at": "2020-05-26 15:53:13",
@@ -527,18 +527,18 @@
     {
       "added_at": "2020-05-26 15:53:13",
       "album": {
-        "name": "Metela Sacala",
-        "url": "https://open.spotify.com/album/76RLt9PsMCiN2z8iC7Hxho"
+        "name": "Batalla de las Puntas, Vol. 6",
+        "url": "https://open.spotify.com/album/5zKgSHI93j3BpGncORJ87T"
       },
       "artists": [
         {
-          "name": "El Chevo",
-          "url": "https://open.spotify.com/artist/2vC9dN2ebF9lBbAFlIUeL4"
+          "name": "La Gran Banda",
+          "url": "https://open.spotify.com/artist/7bUAuQ2SZDbUbRgEPPeBBo"
         }
       ],
-      "duration_ms": 181996,
-      "name": "Metela Sacala",
-      "url": "https://open.spotify.com/track/0XfQtIY7TqdPzowUopof7U"
+      "duration_ms": 227813,
+      "name": "Mandele Gas",
+      "url": "https://open.spotify.com/track/75XWB4hpjYqw7beNddHhhe"
     },
     {
       "added_at": "2020-05-26 15:53:13",

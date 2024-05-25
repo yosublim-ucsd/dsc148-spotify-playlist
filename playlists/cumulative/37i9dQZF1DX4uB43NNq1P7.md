@@ -4,7 +4,7 @@
 
 > The sounds of rain outside, while you're cozy inside with some relaxing piano music in the background.
 
-112 songs - 5 hr 5 min
+114 songs - 5 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Blessed](https://open.spotify.com/track/077mY6IQpD9wrNkDSxGXjK) | [My Dream Escape](https://open.spotify.com/artist/4X3g5HpVJZUww98e0Qf39d) | [She's Playing Moody Piano on a Rainy Day](https://open.spotify.com/album/23fGXtCZFxRYXWuPqFvYx4) | 2:27 | 2023-03-13 |  |
 | [Breathing Slow](https://open.spotify.com/track/1Pjg5w4Cl1ZBP95XZmZ7HL) | [My Dream Escape](https://open.spotify.com/artist/4X3g5HpVJZUww98e0Qf39d) | [She's Playing Moody Piano on a Rainy Day](https://open.spotify.com/album/23fGXtCZFxRYXWuPqFvYx4) | 2:47 | 2023-03-13 |  |
 | [Calm After the Storm](https://open.spotify.com/track/3235QVqcxdKo9ZrJhRY9of) | [Moon Garden](https://open.spotify.com/artist/3BXLBEYS53k3FXlvHUJsw7) | [Calm After the Storm](https://open.spotify.com/album/10ovShyd8irxuFd71dxjvj) | 3:46 | 2024-01-09 |  |
+| [Conversation \(in Rain\)](https://open.spotify.com/track/0HfgErtwnzAUlSLza9VdoJ) | [Antoine Minot](https://open.spotify.com/artist/7uJIaUfHJ3VtFpeYm2jPTz) | [Conversation \(in Rain\)](https://open.spotify.com/album/6INwjFy13gUUQVlfGqQRjt) | 2:30 | 2024-05-24 |  |
 | [Cosima and the rain](https://open.spotify.com/track/2Vzx62MFkOGyi7wJxhsAIs) | [Arvid Purna](https://open.spotify.com/artist/0B8wOVY2YZ4A3KVLNdtp2K) | [Cosima and the rain](https://open.spotify.com/album/69lq5lpObxtOW71joJFjrI) | 2:06 | 2023-03-13 |  |
 | [Cosy Day](https://open.spotify.com/track/16wvTJtKC9P8V31kDUERXZ) | [Little Florence](https://open.spotify.com/artist/2GpEugU55XENAxQST64ZPn) | [Cosy Day](https://open.spotify.com/album/0L1vwvEbLPiUEXgUjSuJE0) | 2:26 | 2024-02-05 |  |
 | [diamond star \- ambient room mix](https://open.spotify.com/track/1z4saOKqN0itK3mzITCmRv) | [our distant worlds](https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT) | [the piano next door](https://open.spotify.com/album/7pVqb2flsJL6zX6ly0VoR2) | 2:48 | 2023-03-13 |  |
@@ -84,6 +85,7 @@
 | [Returning Home](https://open.spotify.com/track/1ClUmEEJYoDemcIPQQIODw) | [A Long Story](https://open.spotify.com/artist/1RFdkmm7AtmHeZTrdoJOFI) | [Returning Home](https://open.spotify.com/album/7xgg2hiwbvf5ZTXLfbxP1L) | 2:28 | 2023-03-13 |  |
 | [Safety Blanket](https://open.spotify.com/track/3MRIF4BQ3Oq6T84mGZxkLe) | [Dennis Shaw](https://open.spotify.com/artist/0nj9xF9necCK5vtX9WaRyA) | [Sara's Dream](https://open.spotify.com/album/7F6h50htukYIIbflsJs9TF) | 3:18 | 2023-03-13 | 2023-10-20 |
 | [Saudade \(rain\)](https://open.spotify.com/track/50B2aIF9naQZcULzikaTyi) | [Noella Russo](https://open.spotify.com/artist/2zgddkOsrXf0cnPquq6N59) | [Saudade \(rain\)](https://open.spotify.com/album/0istZOKM7NdEcAPqgCQf93) | 3:04 | 2024-03-20 |  |
+| [Seedlings](https://open.spotify.com/track/0z49vRcUNgQFpzRSkfOrKA) | [Iris Emmanuelle](https://open.spotify.com/artist/5JCKrEmMJlkxsBLjiBBmzn) | [Seedlings](https://open.spotify.com/album/68sG1nEUrWakDNJm4MaVW7) | 2:48 | 2024-05-24 |  |
 | [Shoganai \- Rain version](https://open.spotify.com/track/1GNOoyUXt6Cthxd4JlOLx2) | [Marlon Guild](https://open.spotify.com/artist/37H3UX4jTV7ZjH5yL6l3Yl) | [Shoganai \- Rain version](https://open.spotify.com/album/3edIRkiUxDKsY0IxoU2ZQy) | 3:14 | 2023-04-24 |  |
 | [Soft Piano In Light Rain](https://open.spotify.com/track/2t5rleV4AUS329uPShiEQ6) | [Wonderful Escape](https://open.spotify.com/artist/0PJ6I5TXDRK4pmLuSfh33T) | [Rain & Piano](https://open.spotify.com/album/4Hxom43QXe8rjoiw1uxyFB) | 3:20 | 2023-03-13 |  |
 | [Solitude \(rain\)](https://open.spotify.com/track/7rJ7Zhxvd04reQjatzKhCg) | [Ren Lockhart](https://open.spotify.com/artist/2o6Pj478mXZrEZbEFnAbXp) | [Tjörnin \(rain\)](https://open.spotify.com/album/2KAYvmo41twqasnKkDigBs) | 3:36 | 2023-09-01 |  |

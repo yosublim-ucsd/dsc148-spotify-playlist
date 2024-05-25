@@ -6809,6 +6809,24 @@
     },
     {
       "album": {
+        "name": "VSQ Performs the Hits of 2016, Vol. 2",
+        "url": "https://open.spotify.com/album/10WHTghh38mVQRKNlk4rx8"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207640,
+      "name": "Cheap Thrills",
+      "url": "https://open.spotify.com/track/4dRYlZtS7kYfWxkYfMPTe7"
+    },
+    {
+      "album": {
         "name": "Chela Con Lim\u00f3n",
         "url": "https://open.spotify.com/album/5Z3boL3oT2KukCeHGl7LQF"
       },
@@ -11320,7 +11338,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-24",
+      "date_removed": null,
       "duration_ms": 124374,
       "name": "Emociones",
       "url": "https://open.spotify.com/track/4M4Tc6Mx3IZhOXD8H7Iziq"
@@ -13596,7 +13614,7 @@
       ],
       "date_added": "2023-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 150047,
       "name": "From the Start",
       "url": "https://open.spotify.com/track/6BJHsLiE47Sk0wQkuppqhr"
@@ -35252,7 +35270,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 180141,
       "name": "The Code",
       "url": "https://open.spotify.com/track/1EjIXKhNHI00ZLMRpS8iz8"

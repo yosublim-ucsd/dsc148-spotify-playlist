@@ -1,12 +1,12 @@
 {
   "description": "This Is Pedro Cap\u00f3. Los temas esenciales, todos en una lista.",
-  "num_followers": 63527,
+  "num_followers": 63545,
   "original_name": "This Is Pedro Cap\u00f3",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zk01gAAAAAA9p7mgtWvJMS9xXUIF2DyI",
+  "snapshot_id": "Zk6HAAAAAAC2oQiUloQ4MlBz2j4CLsPl",
   "tracks": [
     {
       "added_at": null,
@@ -511,26 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Good Vibration - Vol. 1",
-        "url": "https://open.spotify.com/album/4F6bIheCKeB1DdoG5OaoYG"
-      },
-      "artists": [
-        {
-          "name": "Natiruts",
-          "url": "https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO"
-        },
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 200899,
-      "name": "Todo Bien",
-      "url": "https://open.spotify.com/track/3tRKqZBZFpQ6DyJDAWNqOB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sin Haber Dormido",
         "url": "https://open.spotify.com/album/2TuwTjtSX2dXBKfaVODYsh"
       },
@@ -547,6 +527,26 @@
       "duration_ms": 187593,
       "name": "Sin Haber Dormido",
       "url": "https://open.spotify.com/track/3f8ohdsBs0EG9ktGccn4h0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Good Vibration - Vol. 1",
+        "url": "https://open.spotify.com/album/4F6bIheCKeB1DdoG5OaoYG"
+      },
+      "artists": [
+        {
+          "name": "Natiruts",
+          "url": "https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO"
+        },
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "duration_ms": 200899,
+      "name": "Todo Bien",
+      "url": "https://open.spotify.com/track/3tRKqZBZFpQ6DyJDAWNqOB"
     },
     {
       "added_at": null,
@@ -627,22 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Letra de Otro",
-        "url": "https://open.spotify.com/album/2FSiTQRfhKBOb0my3NK60n"
-      },
-      "artists": [
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 236893,
-      "name": "Estoy Enamorado",
-      "url": "https://open.spotify.com/track/1twgctCV8hHwexACjTzBRn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cumbiana II",
         "url": "https://open.spotify.com/album/4fscMZmg0NKVmgDDDE6mA6"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 193844,
       "name": "Pagamento",
       "url": "https://open.spotify.com/track/0FzATyAkvGkWdR6Rp0lN2x"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Letra de Otro",
+        "url": "https://open.spotify.com/album/2FSiTQRfhKBOb0my3NK60n"
+      },
+      "artists": [
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "duration_ms": 236893,
+      "name": "Estoy Enamorado",
+      "url": "https://open.spotify.com/track/1twgctCV8hHwexACjTzBRn"
     },
     {
       "added_at": null,

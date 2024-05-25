@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 
 > The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \| Cover: Joris Delacroix
 
-[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 271,817 likes - 217 songs - 11 hr 35 min
+[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 271,814 likes - 217 songs - 11 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -226,4 +226,4 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 | 216 | [Pull You Closer](https://open.spotify.com/track/6EUv3FQeCI8ty2EjxdRSpd) | [Sistek](https://open.spotify.com/artist/7AfIBbjDpPR6FlLWLsAcHu), [Sadie Rose Van](https://open.spotify.com/artist/26WIQmMRRABfsQCIhwtNns) | [Pull You Closer](https://open.spotify.com/album/23l29phZycnvFu8GpIcN7B) | 2:35 |
 | 217 | [Subterranean](https://open.spotify.com/track/1e21WWJUeqFhZhDuakGkdd) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR), [AVIRA](https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS), [LUNA](https://open.spotify.com/artist/0AZgkXW6n0zfyOhVAnIopA) | [Subterranean](https://open.spotify.com/album/6cw5camBc9Lf9t4BS5NEDn) | 3:30 |
 
-Snapshot ID: `AADRePKn7BYyY1Y9vNJtkrtWBpfTNy+q`
+Snapshot ID: `AADRgEjWyjAhUC/25e+3fRTaSiTGqXCG`

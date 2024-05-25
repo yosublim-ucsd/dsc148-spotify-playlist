@@ -1,6 +1,6 @@
 {
   "description": "The new wave of Garage - an evolution of the classic UK dancefloor sound.",
-  "num_followers": 77492,
+  "num_followers": 77517,
   "original_name": "New UK Garage",
   "owner": {
     "name": "Spotify",
@@ -1079,26 +1079,6 @@
     {
       "added_at": "2024-05-10 14:58:01",
       "album": {
-        "name": "Lost2TheSound",
-        "url": "https://open.spotify.com/album/0dzEElBKQIeLCMMkmRrVSi"
-      },
-      "artists": [
-        {
-          "name": "Joe Hertz",
-          "url": "https://open.spotify.com/artist/76QHVIjgqlkWB9LNGliman"
-        },
-        {
-          "name": "Manny Noir",
-          "url": "https://open.spotify.com/artist/3YAdlYloykgwECqb1Mtpas"
-        }
-      ],
-      "duration_ms": 200029,
-      "name": "Lost2TheSound",
-      "url": "https://open.spotify.com/track/1xooD0EkUnwr1yRL8yK5ad"
-    },
-    {
-      "added_at": "2024-05-10 14:58:01",
-      "album": {
         "name": "Pressure",
         "url": "https://open.spotify.com/album/1BfBUqYMPQF0N3GGM5QJEU"
       },
@@ -1127,6 +1107,26 @@
       "duration_ms": 245714,
       "name": "Henney & Coke",
       "url": "https://open.spotify.com/track/4GhHZmuz8WBif4eoHExyxi"
+    },
+    {
+      "added_at": "2024-05-10 14:58:01",
+      "album": {
+        "name": "Lost2TheSound",
+        "url": "https://open.spotify.com/album/0dzEElBKQIeLCMMkmRrVSi"
+      },
+      "artists": [
+        {
+          "name": "Joe Hertz",
+          "url": "https://open.spotify.com/artist/76QHVIjgqlkWB9LNGliman"
+        },
+        {
+          "name": "Manny Noir",
+          "url": "https://open.spotify.com/artist/3YAdlYloykgwECqb1Mtpas"
+        }
+      ],
+      "duration_ms": 200029,
+      "name": "Lost2TheSound",
+      "url": "https://open.spotify.com/track/1xooD0EkUnwr1yRL8yK5ad"
     }
   ],
   "unique_name": "New UK Garage",

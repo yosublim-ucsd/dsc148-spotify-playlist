@@ -1,13 +1,29 @@
 {
   "description": "where folk flowers bloom. cover: Lily Meola",
-  "num_followers": 108003,
+  "num_followers": 108025,
   "original_name": "juniper",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zk91AQAAAADaZrqzcUQnk0GCZsjVlJDJ",
+  "snapshot_id": "ZlC8eAAAAAAUDRjr3MopboWZYhdGaRTf",
   "tracks": [
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "All For Something",
+        "url": "https://open.spotify.com/album/5oOtwx1qgZoWzvqu1pvmZm"
+      },
+      "artists": [
+        {
+          "name": "Tiny Habits",
+          "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
+        }
+      ],
+      "duration_ms": 256245,
+      "name": "People Always Change",
+      "url": "https://open.spotify.com/track/6uMlsNZsVHH2MLJx6z44IY"
+    },
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
@@ -23,6 +39,22 @@
       "duration_ms": 332585,
       "name": "Timeline",
       "url": "https://open.spotify.com/track/3T9QstFb2oeBo4QoMVMKKx"
+    },
+    {
+      "added_at": "2024-05-24 16:12:40",
+      "album": {
+        "name": "Pink Skies",
+        "url": "https://open.spotify.com/album/7LRZfujsTLyy814AnMSdtT"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 194920,
+      "name": "Pink Skies",
+      "url": "https://open.spotify.com/track/4ZJ4vzLQekI0WntDbanNC7"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -73,20 +105,20 @@
       "url": "https://open.spotify.com/track/1B62o4CbdL9ckGvwsz2cgn"
     },
     {
-      "added_at": "2024-05-10 04:00:00",
+      "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Please Be Rude",
-        "url": "https://open.spotify.com/album/0SW9RZVTLHaA1JtNPj0cNz"
+        "name": "Honey I'm Hardly",
+        "url": "https://open.spotify.com/album/3qqr9XxKeseTVFrlcPuxNF"
       },
       "artists": [
         {
-          "name": "Gigi Perez",
-          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
+          "name": "Oliver Hazard",
+          "url": "https://open.spotify.com/artist/3F4iXxXxe7iazo3Jnwucng"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Please Be Rude",
-      "url": "https://open.spotify.com/track/1MLYuzjhAUt254cNOnjmts"
+      "duration_ms": 167733,
+      "name": "Honey I'm Hardly",
+      "url": "https://open.spotify.com/track/0SOuHPVyGL4CtXg6Q7QOMV"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -153,22 +185,6 @@
       "url": "https://open.spotify.com/track/06qDEAG26TspT2yK2NLgEZ"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
-        "name": "Wishes",
-        "url": "https://open.spotify.com/album/5SGGfUHXyfzxU11aAby1S1"
-      },
-      "artists": [
-        {
-          "name": "Tiny Habits",
-          "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
-        }
-      ],
-      "duration_ms": 249138,
-      "name": "Wishes",
-      "url": "https://open.spotify.com/track/7aQcp936NYgjF1vQOnuKGi"
-    },
-    {
       "added_at": "2024-03-08 05:00:00",
       "album": {
         "name": "Highway Queen",
@@ -183,6 +199,22 @@
       "duration_ms": 212470,
       "name": "Highway Queen",
       "url": "https://open.spotify.com/track/3E7z1rLE9rR2rhTW3TeXGo"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Weatherman",
+        "url": "https://open.spotify.com/album/6YZiUZWUDdRigGpPW4O4SB"
+      },
+      "artists": [
+        {
+          "name": "Zach Hood",
+          "url": "https://open.spotify.com/artist/5aHlyw2WWqZW0HLICBuv7U"
+        }
+      ],
+      "duration_ms": 175075,
+      "name": "Weatherman",
+      "url": "https://open.spotify.com/track/4yEkhMRfKJVYVgFmO1dLuj"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -217,6 +249,22 @@
       "url": "https://open.spotify.com/track/6rN7TjmOYlaX5hWFVo9AYF"
     },
     {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Older",
+        "url": "https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 245720,
+      "name": "Drunk, Running",
+      "url": "https://open.spotify.com/track/0OQFriWHtnIzsRp3uImlGt"
+    },
+    {
       "added_at": "2024-05-17 04:00:00",
       "album": {
         "name": "Sunwarmed",
@@ -233,20 +281,20 @@
       "url": "https://open.spotify.com/track/2NN9upqz79D5uLDoiaPOx4"
     },
     {
-      "added_at": "2024-04-12 04:00:00",
+      "added_at": "2024-05-10 04:00:00",
       "album": {
-        "name": "Older",
-        "url": "https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM"
+        "name": "Please Be Rude",
+        "url": "https://open.spotify.com/album/0SW9RZVTLHaA1JtNPj0cNz"
       },
       "artists": [
         {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+          "name": "Gigi Perez",
+          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
         }
       ],
-      "duration_ms": 343360,
-      "name": "Vortex",
-      "url": "https://open.spotify.com/track/7ySoma7tOtUTPSELihpcko"
+      "duration_ms": 180000,
+      "name": "Please Be Rude",
+      "url": "https://open.spotify.com/track/1MLYuzjhAUt254cNOnjmts"
     },
     {
       "added_at": "2024-04-19 04:01:44",
@@ -331,6 +379,22 @@
       "duration_ms": 272065,
       "name": "Stick Around",
       "url": "https://open.spotify.com/track/4LxQxGzZj0niHD8bbZCEYn"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Stranger in the Alps (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5rcJ5xCMYYLCgGilFDKRZl"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 305000,
+      "name": "Scott Street",
+      "url": "https://open.spotify.com/track/21uFPefbgeR3QLVJWATlrr"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -613,20 +677,20 @@
       "url": "https://open.spotify.com/track/5cUbosneCQpRAxRWaNi7t2"
     },
     {
-      "added_at": "2024-03-29 04:00:00",
+      "added_at": "2024-02-16 05:00:00",
       "album": {
-        "name": "Milk Town / Mr. Carter",
-        "url": "https://open.spotify.com/album/3yWm9a3y2UxbjInLPhDU4D"
+        "name": "Slipping Through My Fingers",
+        "url": "https://open.spotify.com/album/0koTZdaOlOsITAVODhjAAp"
       },
       "artists": [
         {
-          "name": "Nep",
-          "url": "https://open.spotify.com/artist/5IMSbLzrwV9SZOWSLU1dl5"
+          "name": "Declan McKenna",
+          "url": "https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c"
         }
       ],
-      "duration_ms": 77032,
-      "name": "Milk Town / Mr. Carter",
-      "url": "https://open.spotify.com/track/1sXeTMn9R8JlyG5JWVtZFQ"
+      "duration_ms": 263500,
+      "name": "Slipping Through My Fingers",
+      "url": "https://open.spotify.com/track/5GRarkYarOgejsLCxLprQD"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -805,22 +869,6 @@
       "url": "https://open.spotify.com/track/13VtzJP8HQuK6jQRJrP6xL"
     },
     {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "Mudroom",
-        "url": "https://open.spotify.com/album/4z3Lq0ha127elfRFtkbKsc"
-      },
-      "artists": [
-        {
-          "name": "Tiny Habits",
-          "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
-        }
-      ],
-      "duration_ms": 239895,
-      "name": "Mudroom",
-      "url": "https://open.spotify.com/track/6UJaQZTvpWUWp7FZDJJUXj"
-    },
-    {
       "added_at": "2024-02-16 05:00:00",
       "album": {
         "name": "Half of forever",
@@ -835,38 +883,6 @@
       "duration_ms": 153250,
       "name": "Half of forever",
       "url": "https://open.spotify.com/track/5v3MSh7CD3VNyCwAoSha5p"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "Bright Future",
-        "url": "https://open.spotify.com/album/2Y8WS7iDIZkvzB5GUeLvku"
-      },
-      "artists": [
-        {
-          "name": "Adrianne Lenker",
-          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
-        }
-      ],
-      "duration_ms": 235178,
-      "name": "Vampire Empire",
-      "url": "https://open.spotify.com/track/2DSxUFEL5v1YT8CwYzhWyf"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "Slipping Through My Fingers",
-        "url": "https://open.spotify.com/album/0koTZdaOlOsITAVODhjAAp"
-      },
-      "artists": [
-        {
-          "name": "Declan McKenna",
-          "url": "https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c"
-        }
-      ],
-      "duration_ms": 263500,
-      "name": "Slipping Through My Fingers",
-      "url": "https://open.spotify.com/track/5GRarkYarOgejsLCxLprQD"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -935,6 +951,22 @@
       "duration_ms": 252878,
       "name": "Cairngorms",
       "url": "https://open.spotify.com/track/2d5gLLZEhhkwKpFR5akW0F"
+    },
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
+        "name": "Wishes",
+        "url": "https://open.spotify.com/album/5SGGfUHXyfzxU11aAby1S1"
+      },
+      "artists": [
+        {
+          "name": "Tiny Habits",
+          "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
+        }
+      ],
+      "duration_ms": 249138,
+      "name": "Wishes",
+      "url": "https://open.spotify.com/track/7aQcp936NYgjF1vQOnuKGi"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1337,6 +1369,22 @@
       "url": "https://open.spotify.com/track/5RXjt2s4HBJw3TcaAzwSrD"
     },
     {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Milk Town / Mr. Carter",
+        "url": "https://open.spotify.com/album/3yWm9a3y2UxbjInLPhDU4D"
+      },
+      "artists": [
+        {
+          "name": "Nep",
+          "url": "https://open.spotify.com/artist/5IMSbLzrwV9SZOWSLU1dl5"
+        }
+      ],
+      "duration_ms": 77032,
+      "name": "Milk Town / Mr. Carter",
+      "url": "https://open.spotify.com/track/1sXeTMn9R8JlyG5JWVtZFQ"
+    },
+    {
       "added_at": "2024-02-16 05:00:00",
       "album": {
         "name": "kid",
@@ -1367,22 +1415,6 @@
       "duration_ms": 280106,
       "name": "Unknown / Nth",
       "url": "https://open.spotify.com/track/1ptwL6lZNLc654XAaHqcHb"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "Good Riddance (Deluxe)",
-        "url": "https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 259592,
-      "name": "Amelie",
-      "url": "https://open.spotify.com/track/5SnMKAJBo7X4rUyaSMseun"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1527,50 +1559,6 @@
       "duration_ms": 192961,
       "name": "Bruises Off The Peach",
       "url": "https://open.spotify.com/track/6DdAZ0zZmmSwM8uqoVlepL"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "the record",
-        "url": "https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI"
-      },
-      "artists": [
-        {
-          "name": "boygenius",
-          "url": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
-        },
-        {
-          "name": "Julien Baker",
-          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
-        },
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        },
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Cool About It",
-      "url": "https://open.spotify.com/track/5PJH1U5Iie893v48Fl9yaC"
-    },
-    {
-      "added_at": "2024-02-16 05:00:00",
-      "album": {
-        "name": "Time Shrinks",
-        "url": "https://open.spotify.com/album/70DhLvAJHcpWMoZVWTH1v0"
-      },
-      "artists": [
-        {
-          "name": "Arcy Drive",
-          "url": "https://open.spotify.com/artist/7o1TBmx7Ube5h2Czlam84O"
-        }
-      ],
-      "duration_ms": 216531,
-      "name": "Time Shrinks",
-      "url": "https://open.spotify.com/track/5SDIFVKRHCDEuJGD3TSRwV"
     },
     {
       "added_at": "2024-02-16 05:00:00",

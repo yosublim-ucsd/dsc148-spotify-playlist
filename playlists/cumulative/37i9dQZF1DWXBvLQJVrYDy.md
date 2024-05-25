@@ -4,7 +4,7 @@
 
 > Smooth and cozy saxophone ballads for relaxing or focus.
 
-215 songs - 14 hr 0 min
+218 songs - 14 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Bridges](https://open.spotify.com/track/4lwnOftnucowM1naK5rB7X) | [Ikigai](https://open.spotify.com/artist/0bNWgPLuFJzQ3IXoDfydPv) | [Bridges](https://open.spotify.com/album/5zZQGomSy4wpZaWL34x6fK) | 2:53 | 2023-06-08 |  |
 | [Café International](https://open.spotify.com/track/6mWHwX0VNVDyWVF0j6qQ56) | [Nelly Vernon](https://open.spotify.com/artist/2QTDEcFCA6jvoJwQsm3TpS) | [Café International](https://open.spotify.com/album/0bBBE6Q90Fvr4Ka2EO0ObZ) | 3:30 | 2023-03-23 |  |
 | [Chelsea Bridge](https://open.spotify.com/track/2wxy1aZya6S7mYZAn2m3I3) | [Karl\-Martin Almqvist](https://open.spotify.com/artist/4dXbqcDmR48iVBEpgLPuhm), [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R) | [A Ballad Moment: Second View](https://open.spotify.com/album/7CxvY9uDtXY6za0GdpWInW) | 4:49 | 2023-08-17 |  |
+| [Cliffs](https://open.spotify.com/track/4LEDxHTo5iTzYgNbzIfaBK) | [Lennie Weston](https://open.spotify.com/artist/2i25BOgCBeXtPKKpj3I0NJ) | [Cliffs](https://open.spotify.com/album/5BNrTrQr8lcyRso4aXESIP) | 3:37 | 2024-05-24 |  |
 | [Close Enough For Love](https://open.spotify.com/track/0JVGzHbAmJybAXzPV6D7CM) | [The Boston Four](https://open.spotify.com/artist/2vRbMto00LAZjdA2s227Sl) | [Close Enough For Love](https://open.spotify.com/album/1chLDtOmC1qhV5Pq7YpiqJ) | 3:25 | 2022-08-18 | 2024-02-23 |
 | [Cocktails For Two](https://open.spotify.com/track/50ijZUy4vc2q9Pm12q5F7K) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0), [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk), [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [Verve Jazz Masters 34: Coleman Hawkins](https://open.spotify.com/album/068xxiiZI5PQYoYVQl2R7y) | 2:39 | 2022-08-18 | 2023-05-05 |
 | [Compassion](https://open.spotify.com/track/6Pam6EgPKbExmLSPRTCRDL) | [Jenny Jones](https://open.spotify.com/artist/4EDpGeRNin742qDkiwBE1X) | [Compassion](https://open.spotify.com/album/1ZdxPS9TA5wuI201gxbabv) | 4:11 | 2022-08-18 |  |
@@ -73,6 +74,7 @@
 | [God Bless The Child](https://open.spotify.com/track/6EpATvQFAodhQrHKqsZStm) | [Eddie Harper](https://open.spotify.com/artist/7297VsEKnQhcbuXvB3GJ68) | [God Bless The Child](https://open.spotify.com/album/3QiXg44gYchM0zVHw4JgVz) | 4:16 | 2022-08-18 |  |
 | [Haze](https://open.spotify.com/track/3CGuaAf6lpT0bjutZ7DJt8) | [Hermie](https://open.spotify.com/artist/79egg74LRIcDzIxYb0XVSK) | [Haze](https://open.spotify.com/album/0aRC6BqXtgWMaGPg9R9fcB) | 3:28 | 2022-08-18 |  |
 | [Hazel](https://open.spotify.com/track/31xTgQQsM0etDnwb6ziLbW) | [Stewart Park Quartet](https://open.spotify.com/artist/6WM9U52WDUrqLdjVDJRT1d) | [Hazel](https://open.spotify.com/album/0kTzgg4yQiJKfDymYvvqh9) | 3:51 | 2024-02-09 |  |
+| [Hear Hear](https://open.spotify.com/track/6GFJjH5HjMJYPotMuHVN32) | [Geeder](https://open.spotify.com/artist/65SoHM1qvoOmpiIBxWGAk1) | [Hear Hear](https://open.spotify.com/album/6WAila18C1NidEzseKeNee) | 3:58 | 2024-05-24 |  |
 | [Heyoke](https://open.spotify.com/track/00dxvvVllByEVaCnkLR1RL) | [Carlton Maison Quartet](https://open.spotify.com/artist/0Tq1tUZV3Vw3CUvNwIjxpm) | [Heyoke](https://open.spotify.com/album/1qugT0donvhBonOVJIUjdy) | 4:09 | 2022-08-18 |  |
 | [How Deep Is The Ocean](https://open.spotify.com/track/3vJ0oV1CUjal1rIHqRI4is) | [Felix McCoy Quartet](https://open.spotify.com/artist/2UIgtE5XCEu7BYtjaY8wsh) | [How Deep Is The Ocean](https://open.spotify.com/album/4A5xzotabZ3PhlTTynmrWJ) | 3:46 | 2022-08-18 |  |
 | [I awake](https://open.spotify.com/track/6AianoPQwgFLarNY5s3ntc) | [Ikigai](https://open.spotify.com/artist/0bNWgPLuFJzQ3IXoDfydPv) | [I awake](https://open.spotify.com/album/1H478Tq3lKuqWtTdzhLa8q) | 4:05 | 2023-02-02 |  |
@@ -87,7 +89,7 @@
 | [I've Grown Accustomed To Your Face](https://open.spotify.com/track/5D9zI5bZ2XgFDEYdqGrHnP) | [John B\. Stewart](https://open.spotify.com/artist/0hdiMvtIodxDuDN6Wq9Ibe) | [I've Grown Accustomed To Your Face](https://open.spotify.com/album/3ecnXHWiMR4xIF94MCd9p2) | 3:13 | 2022-08-18 |  |
 | [Imogene](https://open.spotify.com/track/6py54bF1qKFbA1kjz3rKdG) | [Sand Quartet](https://open.spotify.com/artist/7yfwOkCekTgoZgzi9VavgA) | [Imogene](https://open.spotify.com/album/1cLToydVxdvrwNklrhtYXr) | 3:58 | 2024-02-02 |  |
 | [In the Street At Night](https://open.spotify.com/track/1eSTYxkIjJzUA6mLIhFZO5) | [Andy Miller Group](https://open.spotify.com/artist/7prqikKsztTvb6GHaYVbku) | [In the Street At Night](https://open.spotify.com/album/6yvmjm40lzpupHBaSb1juD) | 3:15 | 2023-05-25 |  |
-| [In The Wee Small Hours Of The Mornin](https://open.spotify.com/track/7xOTO27JomMqWgzaeyD7WQ) | [Geeder](https://open.spotify.com/artist/65SoHM1qvoOmpiIBxWGAk1) | [In The Wee Small Hours Of The Mornin](https://open.spotify.com/album/2t1AH1fXeiYZBUOUQsoZ8r) | 3:43 | 2022-08-18 |  |
+| [In The Wee Small Hours Of The Mornin](https://open.spotify.com/track/7xOTO27JomMqWgzaeyD7WQ) | [Geeder](https://open.spotify.com/artist/65SoHM1qvoOmpiIBxWGAk1) | [In The Wee Small Hours Of The Mornin](https://open.spotify.com/album/2t1AH1fXeiYZBUOUQsoZ8r) | 3:43 | 2022-08-18 | 2024-05-25 |
 | [Infant Eyes](https://open.spotify.com/track/0Cgg4UFV8Du0Kg0wLHUa1k) | [Yorkville](https://open.spotify.com/artist/6VR3RgGN43zxy9ckRugsXn) | [Infant Eyes](https://open.spotify.com/album/6O9lAPhLztpO0LNKzFbOXO) | 3:52 | 2022-08-18 |  |
 | [Irridescent Mountains](https://open.spotify.com/track/6W2hNKNp5Brv1igihBn5zw) | [Felix McCoy Quartet](https://open.spotify.com/artist/2UIgtE5XCEu7BYtjaY8wsh) | [Irridescent Mountains](https://open.spotify.com/album/2Qkk2GO6d72FNEdGZloHwq) | 3:19 | 2023-04-13 |  |
 | [Isn't It Romantic](https://open.spotify.com/track/2A2ibsCKYVNGvOorAhMz4s) | [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32), [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [New Jazz Sounds: The Benny Carter Verve Story](https://open.spotify.com/album/4oXHYdguAaz3AIeFKnEUTF) | 3:40 | 2022-08-18 | 2022-10-14 |
@@ -173,6 +175,7 @@
 | [Softly As In A Morning Sunrise \- Live At The Village Vanguard, New York City, NY/1957/Evening Alternate Take 7](https://open.spotify.com/track/3ybRszkVXeMWxWAec3NMJH) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [A Night At The Village Vanguard \(Live\)](https://open.spotify.com/album/4lZ0JM0RUD4jddNbD63O7b) | 6:39 | 2022-08-18 | 2022-09-09 |
 | [Someone to Watch Over Me](https://open.spotify.com/track/18iF9PLIbNvy01JS5zLkDT) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [See You At The Fair](https://open.spotify.com/album/1jMKRKYJTWspPOKBmjfUsq) | 4:30 | 2022-08-18 | 2023-09-23 |
 | [Soul Eyes](https://open.spotify.com/track/1PuNnWMF5z3cwLjfnneoWw) | [Chris Memento](https://open.spotify.com/artist/6dLMos1sm6vC0KWbloaCXb) | [Soul Eyes](https://open.spotify.com/album/69RwU1eJbKXowhXpb6rd6B) | 4:45 | 2022-08-18 | 2023-01-06 |
+| [South Valley Park](https://open.spotify.com/track/11oNCdjoD73GQdsDIICXE3) | [Le Bourget](https://open.spotify.com/artist/39QGocubAYKDY8IlHzs6ZL) | [South Valley Park](https://open.spotify.com/album/75Xh4ArRbt72Jy27GCF2FD) | 3:57 | 2024-05-24 |  |
 | [Spirited Away](https://open.spotify.com/track/3eaM1LE28xBoGvIEv5E9qs) | [Darlington](https://open.spotify.com/artist/6Kv77H8NfrNdRoGMCeuIVz) | [Spirited Away](https://open.spotify.com/album/6hbNsW5mwt435LHpDk8GTa) | 3:11 | 2023-02-16 | 2023-06-16 |
 | [Spring Is Here](https://open.spotify.com/track/0d4XWfUyqLQnemAJJlcaAg) | [Eddie Harper](https://open.spotify.com/artist/7297VsEKnQhcbuXvB3GJ68) | [Spring Is Here](https://open.spotify.com/album/224qBI3ZUfjrQsoZNxxaji) | 3:15 | 2022-08-18 |  |
 | [Star\-Crossed Lovers](https://open.spotify.com/track/390r0C8H4XIoKtk0kOnbrE) | [Pepper Adams](https://open.spotify.com/artist/7fSCq6nVoFiyBqFD8fQFWR) | [Encounter!](https://open.spotify.com/album/7DkZ2AIH5OifT32a1HLBK5) | 3:55 | 2022-08-18 |  |

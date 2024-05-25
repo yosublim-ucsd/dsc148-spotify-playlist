@@ -178,7 +178,7 @@
       ],
       "date_added": "2023-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-24",
+      "date_removed": null,
       "duration_ms": 327240,
       "name": "Bone Church",
       "url": "https://open.spotify.com/track/36sAFU68abNDrMOJI5QYZi"
@@ -376,7 +376,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 211320,
       "name": "Heirloom",
       "url": "https://open.spotify.com/track/7d0XwaQbPLT8tPX81uRYMv"
@@ -412,7 +412,7 @@
       ],
       "date_added": "2022-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 157826,
       "name": "I Am Hated",
       "url": "https://open.spotify.com/track/1hrDDgkVbbS5bySL8uHLh3"
@@ -466,7 +466,7 @@
       ],
       "date_added": "2024-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-20",
+      "date_removed": null,
       "duration_ms": 184306,
       "name": "Liberate",
       "url": "https://open.spotify.com/track/0SNybMfb3uFISmnYrIt7Gs"
@@ -592,7 +592,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-22",
+      "date_removed": null,
       "duration_ms": 215600,
       "name": "People = Shit",
       "url": "https://open.spotify.com/track/0Y2i84QWPFiFHQfEQDgHya"
@@ -610,7 +610,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-24",
+      "date_removed": null,
       "duration_ms": 284120,
       "name": "Psychosocial",
       "url": "https://open.spotify.com/track/3RAFcUBrCNaboRXoP3S5t1"
@@ -743,6 +743,24 @@
     },
     {
       "album": {
+        "name": "All Hope Is Gone (10th Anniversary)",
+        "url": "https://open.spotify.com/album/2ISXjEm0D4chvU2IDNvUqk"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "date_added": "2024-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277800,
+      "name": "Sulfur",
+      "url": "https://open.spotify.com/track/1ckta9xwbEcxLaGClreVRf"
+    },
+    {
+      "album": {
         "name": "All Hope Is Gone",
         "url": "https://open.spotify.com/album/0hFWapnP7orzXCMwNU5DuA"
       },
@@ -754,7 +772,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 277800,
       "name": "Sulfur",
       "url": "https://open.spotify.com/track/4g3QZlvz39UllCcRXDZ0Do"
@@ -898,7 +916,7 @@
       ],
       "date_added": "2022-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-24",
+      "date_removed": null,
       "duration_ms": 203586,
       "name": "The Dying Song (Time To Sing)",
       "url": "https://open.spotify.com/track/6rsoBvxrlxdmqJyGPPciyq"
@@ -1042,7 +1060,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 147840,
       "name": "Wait and Bleed",
       "url": "https://open.spotify.com/track/2gscB6kDOmrv1P6qs2KXE3"

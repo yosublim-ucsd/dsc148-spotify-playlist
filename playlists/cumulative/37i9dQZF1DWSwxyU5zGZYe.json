@@ -610,7 +610,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 203202,
       "name": "Ek Taara Reprise",
       "url": "https://open.spotify.com/track/1c0FE1ZloNTZpLS8CRwl6X"
@@ -768,7 +768,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 201480,
       "name": "Hum Yahin - From \"Madgaon Express\"",
       "url": "https://open.spotify.com/track/0nl0sFvQFtphsnlLmHsWHK"
@@ -2285,6 +2285,28 @@
     },
     {
       "album": {
+        "name": "Mr. And Mrs. Mahi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3PI3er7mHLniPndwdo0mlA"
+      },
+      "artists": [
+        {
+          "name": "Vishal Mishra",
+          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
+        },
+        {
+          "name": "Azeem Dayani",
+          "url": "https://open.spotify.com/artist/3LS9qSMFoF810jMMBGf4fU"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300434,
+      "name": "Roya Jab Tu (From \"Mr. And Mrs. Mahi\")",
+      "url": "https://open.spotify.com/track/0IKoHIQ1CshjtvYIOu5hwB"
+    },
+    {
+      "album": {
         "name": "Rozana (From \"Naam Shabana\")",
         "url": "https://open.spotify.com/album/6QsWVJu3QawRgoAgUH9QX5"
       },
@@ -2702,6 +2724,36 @@
       "duration_ms": 129229,
       "name": "Tose Naina Lage (Unplugged)",
       "url": "https://open.spotify.com/track/3ceyAysjbknWYu2C3Bgkin"
+    },
+    {
+      "album": {
+        "name": "Mr. And Mrs. Mahi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3PI3er7mHLniPndwdo0mlA"
+      },
+      "artists": [
+        {
+          "name": "Hunny",
+          "url": "https://open.spotify.com/artist/5kZoZ4jNlN8RaFR7uNwhmR"
+        },
+        {
+          "name": "Bunny",
+          "url": "https://open.spotify.com/artist/0Or6EukLg1g2fTl08fPz2o"
+        },
+        {
+          "name": "Sagar",
+          "url": "https://open.spotify.com/artist/6CWBs7ul78QwnBrcOCwhf5"
+        },
+        {
+          "name": "Neeti Mohan",
+          "url": "https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208600,
+      "name": "Tu Hain Toh - Neeti Mohan Version (From \"Mr. And Mrs. Mahi\")",
+      "url": "https://open.spotify.com/track/7o9amiuyYz7o2fnL6YdfA6"
     },
     {
       "album": {

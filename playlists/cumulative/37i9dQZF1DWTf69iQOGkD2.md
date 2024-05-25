@@ -4,7 +4,7 @@
 
 > Sinta o flow do rap em estilo acústico ou romântico\. Foto: Hungria Hip Hop
 
-221 songs - 13 hr 55 min
+222 songs - 13 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Espelho](https://open.spotify.com/track/3iUAOQo7VGZazoXlJ5FBre) | [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp), [SóCIRO](https://open.spotify.com/artist/3rS2eMg4fwgs0ViHxkxuUz), [Deb Ribeiro](https://open.spotify.com/artist/06v3ak9dY0QtSzyR0XKb6N) | [Espelho](https://open.spotify.com/album/1eVZSmh6v5Su9dVX5oFu40) | 3:30 | 2023-03-17 | 2023-08-05 |
 | [Espero Que Não Dure \- Acústico](https://open.spotify.com/track/2LipaKn124ClsUoFjCoQIJ) | [Sabrina Lopes](https://open.spotify.com/artist/70p8zOZeaAh5bskcL0dCtH), [Aka Rasta](https://open.spotify.com/artist/1beK7BpUs2hTagfzLUb1HB) | [Espero Que Não Dure \(Acústico\)](https://open.spotify.com/album/2dmxASah4bRnBadFadPbXM) | 2:34 | 2023-09-22 | 2023-10-21 |
 | [Eu Não Sou Tão Bom Assim](https://open.spotify.com/track/4Sz4wqydJaWpFfR2QoaLCJ) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4), [Salve Malak](https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0) | [Eu Não Sou Tão Bom Assim](https://open.spotify.com/album/0DTufNM9g4WpoUJ9HEII6Q) | 4:02 | 2022-03-18 | 2023-05-20 |
+| [Evolução](https://open.spotify.com/track/3NMRmNdQU5qOtpgbThQHaZ) | [Morgado](https://open.spotify.com/artist/18PzCN6SSqd7FcS21URnnN), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf) | [Evolução](https://open.spotify.com/album/5J6Eier2tG2Z1czHptwAkg) | 3:11 | 2024-05-24 |  |
 | [Expectativas](https://open.spotify.com/track/0EvH4HVrhZnvAfyctBSGrk) | [3030](https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5) | [Expectativas](https://open.spotify.com/album/13xuKcNArawB92zGJibUKh) | 3:21 | 2022-07-01 | 2023-12-09 |
 | [fase](https://open.spotify.com/track/1zV8QFCfpK50GpqrNZ1O0N) | [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [Dois](https://open.spotify.com/album/5NRBahRXTDabcbEVvCGtAm) | 2:12 | 2023-11-10 |  |
 | [Fases da Vida](https://open.spotify.com/track/7wVfxMleDc8z52sT0ZX2Uf) | [LK](https://open.spotify.com/artist/1NwOxFPX8X4zAp6gF4K8DD) | [Fases da Vida](https://open.spotify.com/album/4S9O0HX42wSVc8GwMHUz0S) | 2:49 | 2023-09-15 | 2023-09-30 |

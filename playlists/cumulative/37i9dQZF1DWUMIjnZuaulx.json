@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "New songs from some of the latest and greatest Gospel music artists. Cover: Deitrick Haddon",
+  "description": "New songs from some of the latest and greatest Gospel music artists. Cover: Sinach",
   "name": "Fresh Gospel",
   "tracks": [
     {
@@ -1404,7 +1404,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 178135,
       "name": "Come By Here - Live",
       "url": "https://open.spotify.com/track/6mZ1PxohgwgQcHxrGM2q28"
@@ -1422,7 +1422,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 251520,
       "name": "Come In",
       "url": "https://open.spotify.com/track/7gXPEZH5f13ER9tYujntDa"
@@ -3846,6 +3846,36 @@
       "duration_ms": 250658,
       "name": "House of the Lord (No Limits)",
       "url": "https://open.spotify.com/track/4QMZfsUTKlWljyRhvhHLgj"
+    },
+    {
+      "album": {
+        "name": "How Good",
+        "url": "https://open.spotify.com/album/0X6DrawsTySzVRCqJHVI79"
+      },
+      "artists": [
+        {
+          "name": "Manor Collective",
+          "url": "https://open.spotify.com/artist/0R1ceXNBGwlvKurOZ8t2oh"
+        },
+        {
+          "name": "Becca Folkes",
+          "url": "https://open.spotify.com/artist/6gNm3KPTOr2uiejwae6rHb"
+        },
+        {
+          "name": "Junior Garr",
+          "url": "https://open.spotify.com/artist/2wRZSDRny0AhA1Cup3sAh2"
+        },
+        {
+          "name": "Tertia May",
+          "url": "https://open.spotify.com/artist/2l5D9yWJD8XtjzTMCKUown"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159531,
+      "name": "How Good",
+      "url": "https://open.spotify.com/track/430snTDu3WneiuuOAjqv5e"
     },
     {
       "album": {
@@ -6369,6 +6399,24 @@
     },
     {
       "album": {
+        "name": "Never Deny You",
+        "url": "https://open.spotify.com/album/0QBwXIF4MPfb5LVAsYQ8yv"
+      },
+      "artists": [
+        {
+          "name": "Romeyo Wilson",
+          "url": "https://open.spotify.com/artist/2dlixKsISNrgfVBQJzg3VJ"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Never Deny You",
+      "url": "https://open.spotify.com/track/3M27JviHxxcEQzzlGpghSr"
+    },
+    {
+      "album": {
         "name": "Never Let Me Down (Radio Edit)",
         "url": "https://open.spotify.com/album/3gbha6N9JuiaXLB29z4AeN"
       },
@@ -6654,6 +6702,24 @@
       "duration_ms": 268625,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/4MecJ3fe9PaGCS6Fd5pnQN"
+    },
+    {
+      "album": {
+        "name": "Not Alone (Live)",
+        "url": "https://open.spotify.com/album/5a5ZrRjl8v8kL6pJSbjfhF"
+      },
+      "artists": [
+        {
+          "name": "Sinach",
+          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270810,
+      "name": "Not Alone - Live",
+      "url": "https://open.spotify.com/track/0Wr8M61fEfpvhJ9aZOtJ35"
     },
     {
       "album": {
@@ -8112,7 +8178,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 216120,
       "name": "Speak",
       "url": "https://open.spotify.com/track/5COeD3R2UOtM6VR7ItOoLx"

@@ -1,12 +1,12 @@
 {
   "description": "Maak je klaar voor de zomer van 2024!",
-  "num_followers": 564564,
+  "num_followers": 564632,
   "original_name": "Summer '24",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zk+8YAAAAAAGrco/fHONsQ13ZEHOuRIa",
+  "snapshot_id": "ZlBfHwAAAABsbKT7vmJXpvLYRsHZR5be",
   "tracks": [
     {
       "added_at": "2024-05-23 22:00:00",
@@ -279,6 +279,26 @@
       "duration_ms": 190645,
       "name": "What If I Want You Now",
       "url": "https://open.spotify.com/track/6yYFUkI1RitIRxGlXadb4d"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
+        "name": "Beat Of Your Heart",
+        "url": "https://open.spotify.com/album/0FemeRyKTEUCQUDiBu7NIL"
+      },
+      "artists": [
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        },
+        {
+          "name": "\u00c1SD\u00cdS",
+          "url": "https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg"
+        }
+      ],
+      "duration_ms": 209186,
+      "name": "Beat Of Your Heart",
+      "url": "https://open.spotify.com/track/0prrKDxUVhyN9UMtD2m499"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -847,26 +867,6 @@
       "duration_ms": 200640,
       "name": "How Many Nights",
       "url": "https://open.spotify.com/track/565PkWWdrqFITixrqoNSRi"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
-        "name": "Beat Of Your Heart",
-        "url": "https://open.spotify.com/album/0FemeRyKTEUCQUDiBu7NIL"
-      },
-      "artists": [
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        },
-        {
-          "name": "\u00c1SD\u00cdS",
-          "url": "https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg"
-        }
-      ],
-      "duration_ms": 209186,
-      "name": "Beat Of Your Heart",
-      "url": "https://open.spotify.com/track/0prrKDxUVhyN9UMtD2m499"
     },
     {
       "added_at": "2024-05-23 22:00:00",

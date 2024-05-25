@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "Rimas argentinas. Foto: YSY A.",
+  "description": "Rimas argentinas. Foto: Trueno.",
   "name": "Hip Hop Argento",
   "tracks": [
     {
@@ -122,7 +122,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 229441,
       "name": "333",
       "url": "https://open.spotify.com/track/3zdIMwE2l96zC7Txbg9g5Q"
@@ -1658,7 +1658,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 173793,
       "name": "Detr\u00e1s Del D\u00f3lar",
       "url": "https://open.spotify.com/track/5EslUzaxGTmgaoYGXkbhLa"
@@ -2715,6 +2715,24 @@
     },
     {
       "album": {
+        "name": "EL \u00daLTIMO BAILE",
+        "url": "https://open.spotify.com/album/3EWJoKrG9XnCjvAPzkQZ88"
+      },
+      "artists": [
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 41996,
+      "name": "INTRO",
+      "url": "https://open.spotify.com/track/5OKy5809rOuZGRiCyWwfZS"
+    },
+    {
+      "album": {
         "name": "EL DON",
         "url": "https://open.spotify.com/album/4LGUFTOOvXX8fl5yrAHUxj"
       },
@@ -2796,7 +2814,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 198751,
       "name": "Jueves 15",
       "url": "https://open.spotify.com/track/3iho8kP4fRLItE4brZVJ3E"
@@ -2964,6 +2982,24 @@
       "duration_ms": 195146,
       "name": "La Vibe",
       "url": "https://open.spotify.com/track/3YCMLVzfHHZIcuQTjoeVGg"
+    },
+    {
+      "album": {
+        "name": "GRASA",
+        "url": "https://open.spotify.com/album/2ab0PTJ5OG7I6YfSqpDFZv"
+      },
+      "artists": [
+        {
+          "name": "NATHY PELUSO",
+          "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184058,
+      "name": "LEGENDARIO",
+      "url": "https://open.spotify.com/track/47Y7zbY54UmViUUDUrq7Sk"
     },
     {
       "album": {
@@ -3136,7 +3172,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 242758,
       "name": "Low La",
       "url": "https://open.spotify.com/track/7tWS3WOhV4OErtDDB7YE65"
@@ -3652,7 +3688,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 147562,
       "name": "Modelo",
       "url": "https://open.spotify.com/track/3kpYDvfKVwjEwyl515tR7G"
@@ -3718,6 +3754,32 @@
       "duration_ms": 185624,
       "name": "Mujer",
       "url": "https://open.spotify.com/track/1pCgmKc1xoCpFnhm3JnmRq"
+    },
+    {
+      "album": {
+        "name": "muy distinto",
+        "url": "https://open.spotify.com/album/3mmHwroW6r1PIxlOrNB8Ta"
+      },
+      "artists": [
+        {
+          "name": "Foking",
+          "url": "https://open.spotify.com/artist/60n2WytJgR3JHkeqJxZQrm"
+        },
+        {
+          "name": "Lisan Beat",
+          "url": "https://open.spotify.com/artist/33mpx3IrKw93IM1C8tVSQi"
+        },
+        {
+          "name": "DommoBeats",
+          "url": "https://open.spotify.com/artist/2kMVBdVpeeZOVpeirhykCc"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102938,
+      "name": "muy distinto",
+      "url": "https://open.spotify.com/track/6fULUXHMkfQOvbx5y6COkn"
     },
     {
       "album": {
@@ -4233,6 +4295,24 @@
     },
     {
       "album": {
+        "name": "EL \u00daLTIMO BAILE",
+        "url": "https://open.spotify.com/album/3EWJoKrG9XnCjvAPzkQZ88"
+      },
+      "artists": [
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117249,
+      "name": "PLO PLO!",
+      "url": "https://open.spotify.com/track/64yGL8p8jWN41sT38BbYJ3"
+    },
+    {
+      "album": {
         "name": "POETA",
         "url": "https://open.spotify.com/album/13HPwvBIlvGaBW86b1ZgPZ"
       },
@@ -4310,6 +4390,24 @@
       "duration_ms": 156665,
       "name": "PUAJ (sesi\u00f3n)",
       "url": "https://open.spotify.com/track/6fTxvdEyWl3zZg2XTWO4s8"
+    },
+    {
+      "album": {
+        "name": "EL \u00daLTIMO BAILE",
+        "url": "https://open.spotify.com/album/3EWJoKrG9XnCjvAPzkQZ88"
+      },
+      "artists": [
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143540,
+      "name": "PULL UP!",
+      "url": "https://open.spotify.com/track/6FFuIWkavxpcwxeyZRgXuJ"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ngZHk5xUsP.md) - [plain]
 
 > Temukan musisi kesayanganmu dari berbagai penjuru Jawa Barat\. Cover: Rossa
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,386 likes - 87 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,389 likes - 87 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

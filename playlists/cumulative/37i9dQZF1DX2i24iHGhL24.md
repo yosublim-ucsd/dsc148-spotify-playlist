@@ -4,7 +4,7 @@
 
 > Reimagined pop covers of your favorite songs\.  Cover: Ed Sheeran
 
-429 songs - 1 day 0 hr 41 min
+430 songs - 1 day 0 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -261,7 +261,7 @@
 | [Lucky](https://open.spotify.com/track/3ThAExlMNs4A86hime1qNG) | [Dizzy](https://open.spotify.com/artist/0g3BS5QoR5r6pOAg1tvwXv) | [Basement Covers](https://open.spotify.com/album/6eO7oW6th87o1WBH9uNzPS) | 3:31 | 2021-12-17 | 2022-01-10 |
 | [Magic](https://open.spotify.com/track/1ryKtGzdk4zMPLhEC6F95t) | [nodisco.](https://open.spotify.com/artist/5r9DYiYT0GKn6FcbbJtlqq) | [Magic](https://open.spotify.com/album/7JqZcRZTsuvLO228vbGiwK) | 3:04 | 2021-12-17 | 2022-12-30 |
 | [Manchild](https://open.spotify.com/track/1v8bDsrquS2MbPcY0rXnCl) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Neneh Cherry](https://open.spotify.com/artist/3JxCEqL9zjKnDJgUhRuRJD) | [Manchild](https://open.spotify.com/album/4T3bAELPl0l8HhqKMp7Z8I) | 3:17 | 2022-05-01 | 2022-12-30 |
-| [Meet Me At Our Spot](https://open.spotify.com/track/2ochlNu8xd3kD6ac1Ek4iO) | [Christian French](https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM) | [Meet Me At Our Spot](https://open.spotify.com/album/2lzM23zuz2RO62VyMFzG8c) | 2:17 | 2022-11-18 |  |
+| [Meet Me At Our Spot](https://open.spotify.com/track/2ochlNu8xd3kD6ac1Ek4iO) | [Christian French](https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM) | [Meet Me At Our Spot](https://open.spotify.com/album/2lzM23zuz2RO62VyMFzG8c) | 2:17 | 2022-11-18 | 2024-05-25 |
 | [Meet Me At Our Spot](https://open.spotify.com/track/36d4GIYKnTr37URimc6FSP) | [Christian French](https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM) | [Meet Me At Our Spot](https://open.spotify.com/album/7yYIY5ZSptEn9CBm9QhW5O) | 2:17 | 2023-02-24 | 2024-04-19 |
 | [Meet Me At Our Spot](https://open.spotify.com/track/5soh0KBoNInC6rSQ57vCvl) | [Groovie Gang](https://open.spotify.com/artist/3PcuPOF2Ev7AF4Fj4pLFLf), [Kid Travis](https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk) | [Meet Me At Our Spot](https://open.spotify.com/album/3THXn3TUoFfSSinL7c8NKu) | 2:42 | 2022-08-19 | 2022-12-30 |
 | [Mercy](https://open.spotify.com/track/0s5qyDeL5KqWoBP4xRnse7) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Covers](https://open.spotify.com/album/56I8Oktz4fuZ58HYg1sXAe) | 3:12 | 2021-12-17 | 2022-05-02 |
@@ -283,6 +283,7 @@
 | [Not Over You \- Recorded at Sound Stage Studios Nashville](https://open.spotify.com/track/5hS4YR5CkE6YF5sH0d9boA) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Spotify Singles](https://open.spotify.com/album/7boqvY24W5gfCDALsi4QD1) | 3:35 | 2021-12-17 | 2022-05-02 |
 | [Not Your Friend \- Acoustic](https://open.spotify.com/track/3dfF6dJlUfcDRx2qC0KiGI) | [Landon Austin](https://open.spotify.com/artist/2WROyFfIOmKtRopsTrIL52) | [Not Your Friend \(Acoustic\)](https://open.spotify.com/album/4pMYcSYbJhaifhn8NvQcy1) | 2:49 | 2021-12-17 | 2022-01-22 |
 | [Nothing Breaks Like A Heart](https://open.spotify.com/track/2ERicIur5ytRZhi554bMsr) | [Sea Girls](https://open.spotify.com/artist/45FqwUG4hTT6d39r2HUsUe) | [Nothing Breaks Like A Heart](https://open.spotify.com/album/26KH76C2A8lS48PEQ3JZHD) | 3:41 | 2021-12-17 | 2023-10-17 |
+| [Nothing Compares 2 U](https://open.spotify.com/track/4nNjUrfMmKz8x367DDoSKR) | [Capital Cities](https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu) | [Nothing Compares 2 U](https://open.spotify.com/album/3cSIW5teNU9fIF4rAncyWb) | 4:13 | 2024-05-24 |  |
 | [Nothing Compares 2 U](https://open.spotify.com/track/0m0Tv8qRoePqoWmU2Py5Gk) | [COSIMA](https://open.spotify.com/artist/2BccVcXzmwMB2b2mDEPuQH) | [Nothing Compares 2 U](https://open.spotify.com/album/237lAdghHVsaFBpkOa7uoP) | 4:19 | 2021-12-17 |  |
 | [Ocean Avenue](https://open.spotify.com/track/6XfrYdVVHUD3MH0vkepB7L) | [AFTRHOURS](https://open.spotify.com/artist/3pvFPaqjwCdXwVIt3uIad5) | [Ocean Avenue](https://open.spotify.com/album/2HjA3htA4jlDnn99SHW460) | 2:39 | 2021-12-17 | 2022-01-15 |
 | [Ocean Eyes \(Acoustic\)](https://open.spotify.com/track/1mKAKzJuIZWz3M0nbVDfmD) | [SVRCINA](https://open.spotify.com/artist/3wRt3iJpZDOg73CTUkfv5C) | [Ocean Eyes \(Acoustic\)](https://open.spotify.com/album/1CeJ6aLT0stviKNx2dZOYj) | 3:36 | 2021-12-17 | 2022-12-30 |

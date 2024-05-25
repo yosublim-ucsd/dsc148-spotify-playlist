@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "As belas novidades da MPB. Foto: TIAGO IORC",
+  "description": "As belas novidades da MPB. Foto: Mericia",
   "name": "Divina MPB",
   "tracks": [
     {
@@ -4116,7 +4116,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 189787,
       "name": "Em cada pra sempre",
       "url": "https://open.spotify.com/track/0kPzRt0WtGRSQk0BFRAKq5"
@@ -4226,6 +4226,24 @@
       "duration_ms": 131192,
       "name": "Espelho",
       "url": "https://open.spotify.com/track/51240EZPieH7ahE2B7IFJv"
+    },
+    {
+      "album": {
+        "name": "Esporte Fino",
+        "url": "https://open.spotify.com/album/3H6f4PgTDEa5yj25b4FkqU"
+      },
+      "artists": [
+        {
+          "name": "Mericia",
+          "url": "https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148037,
+      "name": "Esporte Fino",
+      "url": "https://open.spotify.com/track/6PEIWY9GXsQCAEf0671GJR"
     },
     {
       "album": {
@@ -5092,7 +5110,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 240822,
       "name": "F\u00eanix",
       "url": "https://open.spotify.com/track/4d3UkxDzBK91Q9Lb2G2Y5o"
@@ -11914,6 +11932,24 @@
       "duration_ms": 231250,
       "name": "Sonhos & Ilus\u00f5es - acoustic",
       "url": "https://open.spotify.com/track/3zJ9bsVbbXvdCkh4sNxpXR"
+    },
+    {
+      "album": {
+        "name": "Sons da Lagoa",
+        "url": "https://open.spotify.com/album/02tnPTnWp0MT6UREYoJhbP"
+      },
+      "artists": [
+        {
+          "name": "Arthur Diniz",
+          "url": "https://open.spotify.com/artist/29Ow3spq0aDLMVNqhUumU7"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135346,
+      "name": "Sons da Lagoa",
+      "url": "https://open.spotify.com/track/2ShP9m6Uc5JbmqTbiXKIJK"
     },
     {
       "album": {

@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLoUfni1QYZU.md) - [plain]
 | 32 | [Death Valley](https://open.spotify.com/track/5zEIsGLEDLpdzWU89dvTpl) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Lost On You](https://open.spotify.com/album/1MhlJ1wjx4XHrtPxwm5Bb1) | 2:53 |
 | 33 | [I Better Love You](https://open.spotify.com/track/2jFd3RbfyLbGAZz822QcKN) | [Will Heard](https://open.spotify.com/artist/39AZSw4A8hCFWunEg2k89Z) | [Trust \- EP](https://open.spotify.com/album/6jYfRAJmHkycharyGlu9yC) | 3:16 |
 | 34 | [You Want It All](https://open.spotify.com/track/7sHsryAVFw3QUEeM1EuZG4) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Lost On You](https://open.spotify.com/album/1MhlJ1wjx4XHrtPxwm5Bb1) | 4:11 |
-| 35 | [Pride \(In The Name Of Love\)](https://open.spotify.com/track/6qkRb2XZbkvm0Bk55F4J8F) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [The Time Is Now!](https://open.spotify.com/album/36bkD1IoDWM5DIbgFR5okR) | 3:54 |
-| 36 | [I'll Do It](https://open.spotify.com/track/42RyAUeVOnn2umPYFpdhOi) | [lilster](https://open.spotify.com/artist/2nCL53xQ71uzEmr6pZWuNM) | [I'll Do It](https://open.spotify.com/album/2jfViE17oVo9pNtxv2OvLd) | 3:33 |
+| 35 | [I'll Do It](https://open.spotify.com/track/42RyAUeVOnn2umPYFpdhOi) | [lilster](https://open.spotify.com/artist/2nCL53xQ71uzEmr6pZWuNM) | [I'll Do It](https://open.spotify.com/album/2jfViE17oVo9pNtxv2OvLd) | 3:33 |
+| 36 | [Pride \(In The Name Of Love\)](https://open.spotify.com/track/6qkRb2XZbkvm0Bk55F4J8F) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [The Time Is Now!](https://open.spotify.com/album/36bkD1IoDWM5DIbgFR5okR) | 3:54 |
 | 37 | [Happening](https://open.spotify.com/track/4lWGDBaPtSsZTup9v4f6J1) | [Chiddy Bang](https://open.spotify.com/artist/40giwFcTQtv9ezxW8yqxJU) | [Breakfast](https://open.spotify.com/album/1YnYYbRawnQcFqRooF0159) | 3:16 |
 | 38 | [Standing Where You Left Me](https://open.spotify.com/track/47ByDQbcfBfhkrzgJ1Ojs0) | [Erik Hassle](https://open.spotify.com/artist/6MKNzi38fPQCFRdWOtHqTJ) | [Pieces](https://open.spotify.com/album/2LQCkZkjgKKTaPb8SYqufS) | 3:20 |
 | 39 | [Lolita](https://open.spotify.com/track/1CksYfCiy5yqIWQspL9kBQ) | [The Veronicas](https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln) | [Untouched](https://open.spotify.com/album/2mBzwVNK25pwRgriCYyfiW) | 3:25 |
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLoUfni1QYZU.md) - [plain]
 | 83 | [Afraid To Sleep \- The Voice Performance](https://open.spotify.com/track/06Km3ZJ7x5Bbw6BzwvKNgq) | [Vicci Martinez](https://open.spotify.com/artist/1sxu3pxg9icRUHpyWpDxz2) | [Afraid To Sleep \(The Voice Performance\)](https://open.spotify.com/album/1ZXYmRM2sYpVMXRHYvSezX) | 3:20 |
 | 84 | [Pedestal](https://open.spotify.com/track/1mVW6SmGOr1UMfIBf9xSag) | [EMIN](https://open.spotify.com/artist/0sKY9AcBdiGx4FbFbQsXoX) | [Good Love](https://open.spotify.com/album/13jgOeU2lMcpB0JJ77aJXt) | 3:25 |
 
-Snapshot ID: `AbSIYgAAAAA8zZ5xg/kizkU8fjY1zdpu`
+Snapshot ID: `AbSOQQAAAACxOQq/V3BH4/XwvDkC3J2s`

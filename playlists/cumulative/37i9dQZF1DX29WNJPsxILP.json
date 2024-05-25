@@ -1053,6 +1053,32 @@
     },
     {
       "album": {
+        "name": "House Of Lies",
+        "url": "https://open.spotify.com/album/58U6KMHr9ApwuTXeKXIGa9"
+      },
+      "artists": [
+        {
+          "name": "Ikka",
+          "url": "https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR"
+        },
+        {
+          "name": "Karan Aujla",
+          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
+        },
+        {
+          "name": "Sanjoy",
+          "url": "https://open.spotify.com/artist/6qjhYs5KNSoSU6fNJqDGIo"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179169,
+      "name": "House Of Lies",
+      "url": "https://open.spotify.com/track/7avo2LpNFXrgUgRtl9OsAL"
+    },
+    {
+      "album": {
         "name": "I Guess",
         "url": "https://open.spotify.com/album/7eDGcL0rxILbzih7x51fMk"
       },
@@ -2174,7 +2200,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 192000,
       "name": "Saiyyan Ji",
       "url": "https://open.spotify.com/track/6tvRHN6beXyqVz4aQYxukl"

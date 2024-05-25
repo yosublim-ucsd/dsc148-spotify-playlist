@@ -1,6 +1,6 @@
 {
   "description": "Come closer and see... into the dark. The Cure on cover.",
-  "num_followers": 775378,
+  "num_followers": 775764,
   "original_name": "Dark & Gothic",
   "owner": {
     "name": "Spotify",
@@ -651,18 +651,18 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "Narin Yaln\u0131zl\u0131k",
-        "url": "https://open.spotify.com/album/2tuiAgjwrn1rKciu8dqNmB"
+        "name": "Is Nothing Sacred?",
+        "url": "https://open.spotify.com/album/2VgrqPs1veikehj6Vc0JS8"
       },
       "artists": [
         {
-          "name": "She Past Away",
-          "url": "https://open.spotify.com/artist/6paE8ghTau4qwwNzVRSgjR"
+          "name": "Lords Of The New Church",
+          "url": "https://open.spotify.com/artist/5JEhWD9S2znCiQRiGj2OUk"
         }
       ],
-      "duration_ms": 252093,
-      "name": "Asimilasyon",
-      "url": "https://open.spotify.com/track/3A6pYIUJ7jspDJdab9pCPo"
+      "duration_ms": 205693,
+      "name": "Dance With Me",
+      "url": "https://open.spotify.com/track/1AhLr3bpGIfeHUZ18WCpPV"
     },
     {
       "added_at": "2021-10-15 04:04:50",
@@ -699,18 +699,18 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "Is Nothing Sacred?",
-        "url": "https://open.spotify.com/album/2VgrqPs1veikehj6Vc0JS8"
+        "name": "Narin Yaln\u0131zl\u0131k",
+        "url": "https://open.spotify.com/album/2tuiAgjwrn1rKciu8dqNmB"
       },
       "artists": [
         {
-          "name": "Lords Of The New Church",
-          "url": "https://open.spotify.com/artist/5JEhWD9S2znCiQRiGj2OUk"
+          "name": "She Past Away",
+          "url": "https://open.spotify.com/artist/6paE8ghTau4qwwNzVRSgjR"
         }
       ],
-      "duration_ms": 205693,
-      "name": "Dance With Me",
-      "url": "https://open.spotify.com/track/1AhLr3bpGIfeHUZ18WCpPV"
+      "duration_ms": 252093,
+      "name": "Asimilasyon",
+      "url": "https://open.spotify.com/track/3A6pYIUJ7jspDJdab9pCPo"
     },
     {
       "added_at": "2021-10-15 04:04:50",
@@ -1193,22 +1193,6 @@
       "url": "https://open.spotify.com/track/7HyrigNQ5MIr19G4ECFNeH"
     },
     {
-      "added_at": "2022-03-30 01:50:22",
-      "album": {
-        "name": "Catching Up with Depeche Mode",
-        "url": "https://open.spotify.com/album/1fuXkfdOh71JbMvOLIXpX9"
-      },
-      "artists": [
-        {
-          "name": "Depeche Mode",
-          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
-        }
-      ],
-      "duration_ms": 306400,
-      "name": "Blasphemous Rumours",
-      "url": "https://open.spotify.com/track/7JRWBhgl6KeAuDdoUxkSw4"
-    },
-    {
       "added_at": "2021-10-15 04:04:50",
       "album": {
         "name": "Loved",
@@ -1243,6 +1227,22 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
+        "name": "Maria Dimension",
+        "url": "https://open.spotify.com/album/4JIs8fvvujGkjy5ieyYOYG"
+      },
+      "artists": [
+        {
+          "name": "The Legendary Pink Dots",
+          "url": "https://open.spotify.com/artist/55XX7sgmxtVFNJnHrQMXh5"
+        }
+      ],
+      "duration_ms": 247800,
+      "name": "Bella Donna",
+      "url": "https://open.spotify.com/track/7ELpiKwEBL3tBoGFgqnZBw"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
         "name": "Shimmering, Warm and Bright",
         "url": "https://open.spotify.com/album/6d2yDqhmiZi054fXscl4Sn"
       },
@@ -1257,20 +1257,20 @@
       "url": "https://open.spotify.com/track/2agj6uHYuUwlQoOjEuiM7n"
     },
     {
-      "added_at": "2021-10-15 04:04:50",
+      "added_at": "2022-03-30 01:50:22",
       "album": {
-        "name": "Maria Dimension",
-        "url": "https://open.spotify.com/album/4JIs8fvvujGkjy5ieyYOYG"
+        "name": "Catching Up with Depeche Mode",
+        "url": "https://open.spotify.com/album/1fuXkfdOh71JbMvOLIXpX9"
       },
       "artists": [
         {
-          "name": "The Legendary Pink Dots",
-          "url": "https://open.spotify.com/artist/55XX7sgmxtVFNJnHrQMXh5"
+          "name": "Depeche Mode",
+          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
         }
       ],
-      "duration_ms": 247800,
-      "name": "Bella Donna",
-      "url": "https://open.spotify.com/track/7ELpiKwEBL3tBoGFgqnZBw"
+      "duration_ms": 306400,
+      "name": "Blasphemous Rumours",
+      "url": "https://open.spotify.com/track/7JRWBhgl6KeAuDdoUxkSw4"
     },
     {
       "added_at": "2023-01-04 01:49:09",

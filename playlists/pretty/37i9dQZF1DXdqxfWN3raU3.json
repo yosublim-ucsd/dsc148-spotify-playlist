@@ -1,6 +1,6 @@
 {
   "description": "Disfruta del m\u00e1s fino R&B hecho en espa\u00f1ol. Rels B en portada.",
-  "num_followers": 253767,
+  "num_followers": 253791,
   "original_name": "R&B Latino",
   "owner": {
     "name": "Spotify",
@@ -351,6 +351,22 @@
     {
       "added_at": "2024-05-17 06:00:00",
       "album": {
+        "name": "LA NENA DE ARGENTINA",
+        "url": "https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 214008,
+      "name": "CUANDO HACEMOS EL AMOR",
+      "url": "https://open.spotify.com/track/3l0sygctfWjxXitgE3WciJ"
+    },
+    {
+      "added_at": "2024-05-17 06:00:00",
+      "album": {
         "name": "Dime Si Tu",
         "url": "https://open.spotify.com/album/2LkuDGwEPEfOlrU5cmBt43"
       },
@@ -371,22 +387,6 @@
       "duration_ms": 196823,
       "name": "Dime Si Tu",
       "url": "https://open.spotify.com/track/2hiEWGnFqLCJoZvXU9Ozmr"
-    },
-    {
-      "added_at": "2024-05-17 06:00:00",
-      "album": {
-        "name": "LA NENA DE ARGENTINA",
-        "url": "https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL"
-      },
-      "artists": [
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 214008,
-      "name": "CUANDO HACEMOS EL AMOR",
-      "url": "https://open.spotify.com/track/3l0sygctfWjxXitgE3WciJ"
     },
     {
       "added_at": "2024-05-17 06:00:00",
@@ -711,22 +711,6 @@
     {
       "added_at": "2024-05-17 06:00:00",
       "album": {
-        "name": "Bayside",
-        "url": "https://open.spotify.com/album/433b5MFhScrhyXk5p7UjU3"
-      },
-      "artists": [
-        {
-          "name": "Dalex",
-          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
-        }
-      ],
-      "duration_ms": 129134,
-      "name": "Bayside",
-      "url": "https://open.spotify.com/track/1HtEP7EwQrI8Rvaz1V5DEu"
-    },
-    {
-      "added_at": "2024-05-17 06:00:00",
-      "album": {
         "name": "Tanto",
         "url": "https://open.spotify.com/album/1EcuhRjExVXfWXcYz2AtTj"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 253150,
       "name": "Tanto",
       "url": "https://open.spotify.com/track/5ZqbJRd75CSRoqSBK5gsrn"
+    },
+    {
+      "added_at": "2024-05-17 06:00:00",
+      "album": {
+        "name": "Bayside",
+        "url": "https://open.spotify.com/album/433b5MFhScrhyXk5p7UjU3"
+      },
+      "artists": [
+        {
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+        }
+      ],
+      "duration_ms": 129134,
+      "name": "Bayside",
+      "url": "https://open.spotify.com/track/1HtEP7EwQrI8Rvaz1V5DEu"
     },
     {
       "added_at": "2024-05-17 06:00:00",
@@ -1219,26 +1219,6 @@
     {
       "added_at": "2024-05-17 06:00:00",
       "album": {
-        "name": "K NO ME SUELTES",
-        "url": "https://open.spotify.com/album/0suJmL0fyf4I5yBT7geZYB"
-      },
-      "artists": [
-        {
-          "name": "Vera GRV",
-          "url": "https://open.spotify.com/artist/03ibrSvByQ6WCX79oFaORa"
-        },
-        {
-          "name": "Edu Garc\u00eda",
-          "url": "https://open.spotify.com/artist/4Gr4Wo60IdAOBJLYgRZytK"
-        }
-      ],
-      "duration_ms": 177666,
-      "name": "K NO ME SUELTES",
-      "url": "https://open.spotify.com/track/2vtBaWSQQSEw0lZv5sKQan"
-    },
-    {
-      "added_at": "2024-05-17 06:00:00",
-      "album": {
         "name": "Corazones en Alm\u00edbar",
         "url": "https://open.spotify.com/album/3OqIGVF9QZptoacYAp3JUK"
       },
@@ -1271,6 +1251,26 @@
       "duration_ms": 204521,
       "name": "La Serenata",
       "url": "https://open.spotify.com/track/2FtfaSWn9AFc1uDXNo3LKY"
+    },
+    {
+      "added_at": "2024-05-17 06:00:00",
+      "album": {
+        "name": "K NO ME SUELTES",
+        "url": "https://open.spotify.com/album/0suJmL0fyf4I5yBT7geZYB"
+      },
+      "artists": [
+        {
+          "name": "Vera GRV",
+          "url": "https://open.spotify.com/artist/03ibrSvByQ6WCX79oFaORa"
+        },
+        {
+          "name": "Edu Garc\u00eda",
+          "url": "https://open.spotify.com/artist/4Gr4Wo60IdAOBJLYgRZytK"
+        }
+      ],
+      "duration_ms": 177666,
+      "name": "K NO ME SUELTES",
+      "url": "https://open.spotify.com/track/2vtBaWSQQSEw0lZv5sKQan"
     },
     {
       "added_at": "2024-05-17 06:00:00",
@@ -1447,6 +1447,22 @@
     {
       "added_at": "2024-05-17 06:00:00",
       "album": {
+        "name": "Aguilera",
+        "url": "https://open.spotify.com/album/2BmY3i6FzE8Ii6yURYz6SH"
+      },
+      "artists": [
+        {
+          "name": "Sofish",
+          "url": "https://open.spotify.com/artist/2RDGc14pPXYlnN55kzJYeB"
+        }
+      ],
+      "duration_ms": 150661,
+      "name": "Aguilera",
+      "url": "https://open.spotify.com/track/1wUDZpiLH0kTTnajPQr3QX"
+    },
+    {
+      "added_at": "2024-05-17 06:00:00",
+      "album": {
         "name": "Boomerang",
         "url": "https://open.spotify.com/album/6GBWx201Pez8oOd7Y4Szqe"
       },
@@ -1479,26 +1495,6 @@
     {
       "added_at": "2024-05-17 06:00:00",
       "album": {
-        "name": "Te Hice Mal (Remix)",
-        "url": "https://open.spotify.com/album/3QJN1KLfND8BJpBRHDPCDk"
-      },
-      "artists": [
-        {
-          "name": "Lui5",
-          "url": "https://open.spotify.com/artist/0gfBmg53uxgAVNEDB23X5n"
-        },
-        {
-          "name": "Micro TDH",
-          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
-        }
-      ],
-      "duration_ms": 269000,
-      "name": "Te Hice Mal (Remix)",
-      "url": "https://open.spotify.com/track/5GScJWskAOiLZz9upeOKaI"
-    },
-    {
-      "added_at": "2024-05-17 06:00:00",
-      "album": {
         "name": "idek",
         "url": "https://open.spotify.com/album/3WOcKu6D3jHEPkWW28SGN1"
       },
@@ -1515,18 +1511,22 @@
     {
       "added_at": "2024-05-17 06:00:00",
       "album": {
-        "name": "Aguilera",
-        "url": "https://open.spotify.com/album/2BmY3i6FzE8Ii6yURYz6SH"
+        "name": "Te Hice Mal (Remix)",
+        "url": "https://open.spotify.com/album/3QJN1KLfND8BJpBRHDPCDk"
       },
       "artists": [
         {
-          "name": "Sofish",
-          "url": "https://open.spotify.com/artist/2RDGc14pPXYlnN55kzJYeB"
+          "name": "Lui5",
+          "url": "https://open.spotify.com/artist/0gfBmg53uxgAVNEDB23X5n"
+        },
+        {
+          "name": "Micro TDH",
+          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
         }
       ],
-      "duration_ms": 150661,
-      "name": "Aguilera",
-      "url": "https://open.spotify.com/track/1wUDZpiLH0kTTnajPQr3QX"
+      "duration_ms": 269000,
+      "name": "Te Hice Mal (Remix)",
+      "url": "https://open.spotify.com/track/5GScJWskAOiLZz9upeOKaI"
     },
     {
       "added_at": "2024-05-17 06:00:00",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2024-05-17 06:00:00",
       "album": {
-        "name": "THICK",
-        "url": "https://open.spotify.com/album/7iFPYMnIrLl33MDiZwyb5o"
-      },
-      "artists": [
-        {
-          "name": "Kris Floyd",
-          "url": "https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H"
-        }
-      ],
-      "duration_ms": 139285,
-      "name": "THICK",
-      "url": "https://open.spotify.com/track/4b14BvhPrVDbbpICnw2P9L"
-    },
-    {
-      "added_at": "2024-05-17 06:00:00",
-      "album": {
         "name": "Gotas",
         "url": "https://open.spotify.com/album/76YyNZPRiXT5cyULAqajlB"
       },
@@ -1659,34 +1643,18 @@
     {
       "added_at": "2024-05-17 06:00:00",
       "album": {
-        "name": "Qui\u00e9n Pudiera?",
-        "url": "https://open.spotify.com/album/2MYyRpVLzYJuTwO70iLQph"
+        "name": "THICK",
+        "url": "https://open.spotify.com/album/7iFPYMnIrLl33MDiZwyb5o"
       },
       "artists": [
         {
-          "name": "Cardellino",
-          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
-        },
-        {
-          "name": "Irepelusa",
-          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
-        },
-        {
-          "name": "\u00c7antamarta",
-          "url": "https://open.spotify.com/artist/5Ayb9yqemFxECJB8LEG8ln"
-        },
-        {
-          "name": "Veztalone",
-          "url": "https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h"
-        },
-        {
-          "name": "Comida Para Llevar",
-          "url": "https://open.spotify.com/artist/6ybUCb9uQ4fd6gtIptuaYO"
+          "name": "Kris Floyd",
+          "url": "https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H"
         }
       ],
-      "duration_ms": 213861,
-      "name": "Qui\u00e9n Pudiera?",
-      "url": "https://open.spotify.com/track/0oPGGzsXUmZswgsxUhLn45"
+      "duration_ms": 139285,
+      "name": "THICK",
+      "url": "https://open.spotify.com/track/4b14BvhPrVDbbpICnw2P9L"
     },
     {
       "added_at": "2024-05-17 06:00:00",
@@ -1719,18 +1687,22 @@
     {
       "added_at": "2024-05-17 06:00:00",
       "album": {
-        "name": "Dopamina",
-        "url": "https://open.spotify.com/album/0dEUjKmUXbLnRZUPfpnvVA"
+        "name": "Invisible",
+        "url": "https://open.spotify.com/album/4xxtiFnG5k9Tr92mdUGTaW"
       },
       "artists": [
         {
-          "name": "Joonti",
-          "url": "https://open.spotify.com/artist/15m7tZMQlQ8QHh4eOnzYGj"
+          "name": "Kidd Manny",
+          "url": "https://open.spotify.com/artist/6ckHURH4vaNUiIsoFanfX8"
+        },
+        {
+          "name": "Birat Bitz",
+          "url": "https://open.spotify.com/artist/3EXtIEvqDsuQiHxHKJoi2b"
         }
       ],
-      "duration_ms": 195373,
-      "name": "Dopamina",
-      "url": "https://open.spotify.com/track/4Y9SjgJOMppiqp7GwmW7LS"
+      "duration_ms": 156060,
+      "name": "Invisible",
+      "url": "https://open.spotify.com/track/02nqZpvFs0QLGbn8lItNWW"
     },
     {
       "added_at": "2024-05-17 06:00:00",
@@ -1751,22 +1723,50 @@
     {
       "added_at": "2024-05-17 06:00:00",
       "album": {
-        "name": "Invisible",
-        "url": "https://open.spotify.com/album/4xxtiFnG5k9Tr92mdUGTaW"
+        "name": "Dopamina",
+        "url": "https://open.spotify.com/album/0dEUjKmUXbLnRZUPfpnvVA"
       },
       "artists": [
         {
-          "name": "Kidd Manny",
-          "url": "https://open.spotify.com/artist/6ckHURH4vaNUiIsoFanfX8"
-        },
-        {
-          "name": "Birat Bitz",
-          "url": "https://open.spotify.com/artist/3EXtIEvqDsuQiHxHKJoi2b"
+          "name": "Joonti",
+          "url": "https://open.spotify.com/artist/15m7tZMQlQ8QHh4eOnzYGj"
         }
       ],
-      "duration_ms": 156060,
-      "name": "Invisible",
-      "url": "https://open.spotify.com/track/02nqZpvFs0QLGbn8lItNWW"
+      "duration_ms": 195373,
+      "name": "Dopamina",
+      "url": "https://open.spotify.com/track/4Y9SjgJOMppiqp7GwmW7LS"
+    },
+    {
+      "added_at": "2024-05-17 06:00:00",
+      "album": {
+        "name": "Qui\u00e9n Pudiera?",
+        "url": "https://open.spotify.com/album/2MYyRpVLzYJuTwO70iLQph"
+      },
+      "artists": [
+        {
+          "name": "Cardellino",
+          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
+        },
+        {
+          "name": "Irepelusa",
+          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
+        },
+        {
+          "name": "\u00c7antamarta",
+          "url": "https://open.spotify.com/artist/5Ayb9yqemFxECJB8LEG8ln"
+        },
+        {
+          "name": "Veztalone",
+          "url": "https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h"
+        },
+        {
+          "name": "Comida Para Llevar",
+          "url": "https://open.spotify.com/artist/6ybUCb9uQ4fd6gtIptuaYO"
+        }
+      ],
+      "duration_ms": 213861,
+      "name": "Qui\u00e9n Pudiera?",
+      "url": "https://open.spotify.com/track/0oPGGzsXUmZswgsxUhLn45"
     },
     {
       "added_at": "2024-05-17 06:00:00",
@@ -1807,6 +1807,22 @@
     {
       "added_at": "2024-05-17 06:00:00",
       "album": {
+        "name": "Room 302",
+        "url": "https://open.spotify.com/album/2ahKg6oAm6bUCnCaUob2mV"
+      },
+      "artists": [
+        {
+          "name": "Maikel Delacalle",
+          "url": "https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV"
+        }
+      ],
+      "duration_ms": 182500,
+      "name": "Room 302",
+      "url": "https://open.spotify.com/track/1CRG6Br8GUtDwpi2l4LuIW"
+    },
+    {
+      "added_at": "2024-05-17 06:00:00",
+      "album": {
         "name": "Nico Valdi produciendo a Juli Martorell",
         "url": "https://open.spotify.com/album/0a3SDR3HFeSpzhCdNBZxaS"
       },
@@ -1823,22 +1839,6 @@
       "duration_ms": 164854,
       "name": "Nico Valdi produciendo a Juli Martorell",
       "url": "https://open.spotify.com/track/12TqKfJ54Sv6qamEwWiOa2"
-    },
-    {
-      "added_at": "2024-05-17 06:00:00",
-      "album": {
-        "name": "Room 302",
-        "url": "https://open.spotify.com/album/2ahKg6oAm6bUCnCaUob2mV"
-      },
-      "artists": [
-        {
-          "name": "Maikel Delacalle",
-          "url": "https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV"
-        }
-      ],
-      "duration_ms": 182500,
-      "name": "Room 302",
-      "url": "https://open.spotify.com/track/1CRG6Br8GUtDwpi2l4LuIW"
     },
     {
       "added_at": "2024-05-17 06:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "This is Mitski. The essential tracks, all in one playlist.",
-  "num_followers": 255248,
+  "num_followers": 255413,
   "original_name": "This Is Mitski",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zk01gAAAAABWHW/R7jiLrYXMQdz1fI0O",
+  "snapshot_id": "Zk6HAAAAAABr7IErwluA4FGLX/5zkqQQ",
   "tracks": [
     {
       "added_at": null,
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
         }
       ],
-      "duration_ms": 109824,
-      "name": "Class of 2013",
-      "url": "https://open.spotify.com/track/39bPZbBmJfBgNJUtbOua0D"
+      "duration_ms": 137024,
+      "name": "Goodbye, My Danish Sweetheart",
+      "url": "https://open.spotify.com/track/5aBGhgBAQui7ESYNH0zFJB"
     },
     {
       "added_at": null,
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
         }
       ],
-      "duration_ms": 137024,
-      "name": "Goodbye, My Danish Sweetheart",
-      "url": "https://open.spotify.com/track/5aBGhgBAQui7ESYNH0zFJB"
+      "duration_ms": 109824,
+      "name": "Class of 2013",
+      "url": "https://open.spotify.com/track/39bPZbBmJfBgNJUtbOua0D"
     },
     {
       "added_at": null,
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
         }
       ],
-      "duration_ms": 155015,
-      "name": "Valentine, Texas",
-      "url": "https://open.spotify.com/track/21r4kosHuDosz3AIdXqUGk"
+      "duration_ms": 196433,
+      "name": "Stay Soft",
+      "url": "https://open.spotify.com/track/07zVQBJfbOuaAhpT3stRFL"
     },
     {
       "added_at": null,
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
         }
       ],
-      "duration_ms": 196433,
-      "name": "Stay Soft",
-      "url": "https://open.spotify.com/track/07zVQBJfbOuaAhpT3stRFL"
+      "duration_ms": 155015,
+      "name": "Valentine, Texas",
+      "url": "https://open.spotify.com/track/21r4kosHuDosz3AIdXqUGk"
     },
     {
       "added_at": null,

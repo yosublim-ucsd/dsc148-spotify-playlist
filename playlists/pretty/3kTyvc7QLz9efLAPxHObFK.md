@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 
 > 
 
-[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 16 likes - 1,402 songs - 3 day 4 hr 52 min
+[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 16 likes - 1,403 songs - 3 day 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1410,5 +1410,6 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 | 1400 | [Party Till We Die](https://open.spotify.com/track/5hWex38oqFdZLodrPVepVu) | [Vasto](https://open.spotify.com/artist/35l9BKzdhvLy5HOC50NECa) | [ElektraWave](https://open.spotify.com/album/29I2xhfBPyvI5lAM6sPOZs) | 2:42 |
 | 1401 | [ElektraWave](https://open.spotify.com/track/3JhzSXcPe9EH76bENsBsYC) | [Vasto](https://open.spotify.com/artist/35l9BKzdhvLy5HOC50NECa) | [ElektraWave](https://open.spotify.com/album/29I2xhfBPyvI5lAM6sPOZs) | 2:19 |
 | 1402 | [Hide & Seek](https://open.spotify.com/track/7nfmoPd39J8Xc7kve8CmT3) | [Vasto](https://open.spotify.com/artist/35l9BKzdhvLy5HOC50NECa) | [ElektraWave](https://open.spotify.com/album/29I2xhfBPyvI5lAM6sPOZs) | 2:36 |
+| 1403 | [Shot Me](https://open.spotify.com/track/0iyysJlfl1uBwoh4GxMzyv) | [Sghenny](https://open.spotify.com/artist/4ciy3r7f8nrBKoLZsJ6oVY) | [Shot Me](https://open.spotify.com/album/2J4s2W2BCnh4MsWBtUgXDI) | 2:16 |
 
-Snapshot ID: `AAAFptcsujSOkJbdxU9uogbWXqJHUHKY`
+Snapshot ID: `AAAFpzucQXkqsi3SQ0B0CcgOj9sjYEZH`

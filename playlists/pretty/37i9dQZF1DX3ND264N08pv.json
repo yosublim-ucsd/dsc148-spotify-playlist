@@ -1,6 +1,6 @@
 {
   "description": "Hardcore and uptempo to get you pumped",
-  "num_followers": 73010,
+  "num_followers": 73020,
   "original_name": "Hardcore Rage 2024",
   "owner": {
     "name": "Spotify",
@@ -599,6 +599,34 @@
     {
       "added_at": "2024-05-17 09:22:25",
       "album": {
+        "name": "The Rusty Trombone",
+        "url": "https://open.spotify.com/album/4Hu3riTVGkKf74N3qAwykS"
+      },
+      "artists": [
+        {
+          "name": "Partyraiser",
+          "url": "https://open.spotify.com/artist/39cgo5SPJygKIlIcrwkd73"
+        },
+        {
+          "name": "S-KILL",
+          "url": "https://open.spotify.com/artist/6UPQ041bqYr2Oftpv3hLLq"
+        },
+        {
+          "name": "Principle",
+          "url": "https://open.spotify.com/artist/3IfmtKe5jXM7GXvtHavhTG"
+        },
+        {
+          "name": "Rob The Rocket",
+          "url": "https://open.spotify.com/artist/6EONY1bI70bNeyNF2lP5je"
+        }
+      ],
+      "duration_ms": 173714,
+      "name": "The Rusty Trombone",
+      "url": "https://open.spotify.com/track/2BjnNxArj2lvXD7sqwQ0PL"
+    },
+    {
+      "added_at": "2024-05-17 09:22:25",
+      "album": {
         "name": "Not Afraid to Fall",
         "url": "https://open.spotify.com/album/45XBkkNEnLzgSQJFWMqo92"
       },
@@ -647,34 +675,6 @@
       "duration_ms": 166950,
       "name": "So Druff - D-Fence Remix",
       "url": "https://open.spotify.com/track/1yDNPqk30hDMY2wTPuqQiu"
-    },
-    {
-      "added_at": "2024-05-17 09:22:25",
-      "album": {
-        "name": "The Rusty Trombone",
-        "url": "https://open.spotify.com/album/4Hu3riTVGkKf74N3qAwykS"
-      },
-      "artists": [
-        {
-          "name": "Partyraiser",
-          "url": "https://open.spotify.com/artist/39cgo5SPJygKIlIcrwkd73"
-        },
-        {
-          "name": "S-KILL",
-          "url": "https://open.spotify.com/artist/6UPQ041bqYr2Oftpv3hLLq"
-        },
-        {
-          "name": "Principle",
-          "url": "https://open.spotify.com/artist/3IfmtKe5jXM7GXvtHavhTG"
-        },
-        {
-          "name": "Rob The Rocket",
-          "url": "https://open.spotify.com/artist/6EONY1bI70bNeyNF2lP5je"
-        }
-      ],
-      "duration_ms": 173714,
-      "name": "The Rusty Trombone",
-      "url": "https://open.spotify.com/track/2BjnNxArj2lvXD7sqwQ0PL"
     },
     {
       "added_at": "2024-05-17 09:22:25",
@@ -807,22 +807,6 @@
     {
       "added_at": "2024-05-17 09:22:25",
       "album": {
-        "name": "Spellbound",
-        "url": "https://open.spotify.com/album/3VVzubmO7pwygwJpniAgEf"
-      },
-      "artists": [
-        {
-          "name": "Evil Activities",
-          "url": "https://open.spotify.com/artist/1Y1sNScqx8BPZceaO7LjTO"
-        }
-      ],
-      "duration_ms": 206808,
-      "name": "Spellbound",
-      "url": "https://open.spotify.com/track/5rDs2OzHnP6V6JuqEf5aDx"
-    },
-    {
-      "added_at": "2024-05-17 09:22:25",
-      "album": {
         "name": "Back 2 The Rave",
         "url": "https://open.spotify.com/album/5K3tYCDfi6KH4T4VOuYiJ8"
       },
@@ -843,22 +827,38 @@
     {
       "added_at": "2024-05-17 09:22:25",
       "album": {
-        "name": "This Feeling",
-        "url": "https://open.spotify.com/album/6cZWKvXdA4z02iC42gBWns"
+        "name": "Spellbound",
+        "url": "https://open.spotify.com/album/3VVzubmO7pwygwJpniAgEf"
       },
       "artists": [
         {
-          "name": "Korsakoff",
-          "url": "https://open.spotify.com/artist/1rWaCpcmmjycvD00Kf6YyE"
-        },
-        {
-          "name": "Ricardo Moreno",
-          "url": "https://open.spotify.com/artist/3508HjNdwnzSespkyxLOUt"
+          "name": "Evil Activities",
+          "url": "https://open.spotify.com/artist/1Y1sNScqx8BPZceaO7LjTO"
         }
       ],
-      "duration_ms": 188000,
-      "name": "This Feeling",
-      "url": "https://open.spotify.com/track/2H0eRy9vmts59596rouqUy"
+      "duration_ms": 206808,
+      "name": "Spellbound",
+      "url": "https://open.spotify.com/track/5rDs2OzHnP6V6JuqEf5aDx"
+    },
+    {
+      "added_at": "2024-05-17 09:22:25",
+      "album": {
+        "name": "U Will Be Mine",
+        "url": "https://open.spotify.com/album/1Z4SqaLqiOma9BMs8M8MQo"
+      },
+      "artists": [
+        {
+          "name": "Hysta",
+          "url": "https://open.spotify.com/artist/5b4R0928g89y6qmOgtEN1O"
+        },
+        {
+          "name": "Radium",
+          "url": "https://open.spotify.com/artist/5YG7cC1VX7Nh7AjUOf6PcG"
+        }
+      ],
+      "duration_ms": 191999,
+      "name": "U Will Be Mine",
+      "url": "https://open.spotify.com/track/7qZhWZkh309jgVao0Jo8DO"
     },
     {
       "added_at": "2024-05-17 09:22:25",
@@ -883,22 +883,22 @@
     {
       "added_at": "2024-05-17 09:22:25",
       "album": {
-        "name": "U Will Be Mine",
-        "url": "https://open.spotify.com/album/1Z4SqaLqiOma9BMs8M8MQo"
+        "name": "This Feeling",
+        "url": "https://open.spotify.com/album/6cZWKvXdA4z02iC42gBWns"
       },
       "artists": [
         {
-          "name": "Hysta",
-          "url": "https://open.spotify.com/artist/5b4R0928g89y6qmOgtEN1O"
+          "name": "Korsakoff",
+          "url": "https://open.spotify.com/artist/1rWaCpcmmjycvD00Kf6YyE"
         },
         {
-          "name": "Radium",
-          "url": "https://open.spotify.com/artist/5YG7cC1VX7Nh7AjUOf6PcG"
+          "name": "Ricardo Moreno",
+          "url": "https://open.spotify.com/artist/3508HjNdwnzSespkyxLOUt"
         }
       ],
-      "duration_ms": 191999,
-      "name": "U Will Be Mine",
-      "url": "https://open.spotify.com/track/7qZhWZkh309jgVao0Jo8DO"
+      "duration_ms": 188000,
+      "name": "This Feeling",
+      "url": "https://open.spotify.com/track/2H0eRy9vmts59596rouqUy"
     },
     {
       "added_at": "2024-05-17 09:22:25",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2024-05-17 09:22:25",
       "album": {
-        "name": "Higher",
-        "url": "https://open.spotify.com/album/4BWyDlJgFG1aPEF7NvHFEM"
-      },
-      "artists": [
-        {
-          "name": "Korsakoff",
-          "url": "https://open.spotify.com/artist/1rWaCpcmmjycvD00Kf6YyE"
-        }
-      ],
-      "duration_ms": 234846,
-      "name": "Higher",
-      "url": "https://open.spotify.com/track/1QdqN2pX7iLIhN9XmxReGX"
-    },
-    {
-      "added_at": "2024-05-17 09:22:25",
-      "album": {
         "name": "Bass Face",
         "url": "https://open.spotify.com/album/4LdrJQvh1iRoPY3pgVePE2"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 187200,
       "name": "Bass Face",
       "url": "https://open.spotify.com/track/4AuEotNw42YumygG85tYyV"
+    },
+    {
+      "added_at": "2024-05-17 09:22:25",
+      "album": {
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/4BWyDlJgFG1aPEF7NvHFEM"
+      },
+      "artists": [
+        {
+          "name": "Korsakoff",
+          "url": "https://open.spotify.com/artist/1rWaCpcmmjycvD00Kf6YyE"
+        }
+      ],
+      "duration_ms": 234846,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/1QdqN2pX7iLIhN9XmxReGX"
     },
     {
       "added_at": "2024-05-17 09:22:25",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2024-05-17 09:22:25",
       "album": {
-        "name": "The Protest",
-        "url": "https://open.spotify.com/album/536OPRnnwY5JfGXiGW6cy5"
-      },
-      "artists": [
-        {
-          "name": "Neophyte",
-          "url": "https://open.spotify.com/artist/2AfGElfjqXuSyUny7dsj9p"
-        }
-      ],
-      "duration_ms": 191779,
-      "name": "The Protest",
-      "url": "https://open.spotify.com/track/1pd0GNHdkIyVxQybxNS46W"
-    },
-    {
-      "added_at": "2024-05-17 09:22:25",
-      "album": {
         "name": "Fuego (Official Masters of Hardcore Spain 2022 Anthem)",
         "url": "https://open.spotify.com/album/11z5qFumjzdnEPFmPgAdWx"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 279157,
       "name": "Fuego - Official Masters of Hardcore Spain 2022 Anthem",
       "url": "https://open.spotify.com/track/28xaU1zdGofWCsxKwvIZ2o"
+    },
+    {
+      "added_at": "2024-05-17 09:22:25",
+      "album": {
+        "name": "The Protest",
+        "url": "https://open.spotify.com/album/536OPRnnwY5JfGXiGW6cy5"
+      },
+      "artists": [
+        {
+          "name": "Neophyte",
+          "url": "https://open.spotify.com/artist/2AfGElfjqXuSyUny7dsj9p"
+        }
+      ],
+      "duration_ms": 191779,
+      "name": "The Protest",
+      "url": "https://open.spotify.com/track/1pd0GNHdkIyVxQybxNS46W"
     },
     {
       "added_at": "2024-05-17 09:22:25",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2024-05-17 09:22:25",
       "album": {
-        "name": "The Ultimate Sound",
-        "url": "https://open.spotify.com/album/2yxYtxZZmQDIchjXz0gegW"
-      },
-      "artists": [
-        {
-          "name": "Neophyte",
-          "url": "https://open.spotify.com/artist/2AfGElfjqXuSyUny7dsj9p"
-        }
-      ],
-      "duration_ms": 161419,
-      "name": "The Ultimate Sound",
-      "url": "https://open.spotify.com/track/2Jum2ypFvxaNcLWHUyi17g"
-    },
-    {
-      "added_at": "2024-05-17 09:22:25",
-      "album": {
         "name": "We Roar Special",
         "url": "https://open.spotify.com/album/0K9Jpxbt3Er6NMwMkEFR0r"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 164400,
       "name": "Like An Animal - Jur Terreur Remix",
       "url": "https://open.spotify.com/track/2Ja6dTeqsDx8YFAR1ojmpx"
+    },
+    {
+      "added_at": "2024-05-17 09:22:25",
+      "album": {
+        "name": "The Ultimate Sound",
+        "url": "https://open.spotify.com/album/2yxYtxZZmQDIchjXz0gegW"
+      },
+      "artists": [
+        {
+          "name": "Neophyte",
+          "url": "https://open.spotify.com/artist/2AfGElfjqXuSyUny7dsj9p"
+        }
+      ],
+      "duration_ms": 161419,
+      "name": "The Ultimate Sound",
+      "url": "https://open.spotify.com/track/2Jum2ypFvxaNcLWHUyi17g"
     },
     {
       "added_at": "2024-05-17 09:22:25",
@@ -1467,18 +1467,26 @@
     {
       "added_at": "2024-05-17 09:22:25",
       "album": {
-        "name": "Blow Up",
-        "url": "https://open.spotify.com/album/6m5sNwYESSevGMnqRJHImH"
+        "name": "After Dark",
+        "url": "https://open.spotify.com/album/5NGidUj0aCwf9QLxMWomEy"
       },
       "artists": [
         {
-          "name": "Anime",
-          "url": "https://open.spotify.com/artist/6lnEWBl7dhcA1FL5yqRHPO"
+          "name": "Yoshiko",
+          "url": "https://open.spotify.com/artist/4lSE8OyTMhErkE7OshR2Hq"
+        },
+        {
+          "name": "Antenora",
+          "url": "https://open.spotify.com/artist/72SQfmyjszuSw1SNoNWpvz"
+        },
+        {
+          "name": "Dionysus",
+          "url": "https://open.spotify.com/artist/7olPZFkqjZyoBY6Jxase3b"
         }
       ],
-      "duration_ms": 204439,
-      "name": "Blow Up",
-      "url": "https://open.spotify.com/track/3GfmmpnJql1SqFBmJNPYVd"
+      "duration_ms": 223578,
+      "name": "After Dark",
+      "url": "https://open.spotify.com/track/0I6ZUfEYKF37J8UQhIVKBg"
     },
     {
       "added_at": "2024-05-17 09:22:25",
@@ -1503,26 +1511,18 @@
     {
       "added_at": "2024-05-17 09:22:25",
       "album": {
-        "name": "After Dark",
-        "url": "https://open.spotify.com/album/5NGidUj0aCwf9QLxMWomEy"
+        "name": "Blow Up",
+        "url": "https://open.spotify.com/album/6m5sNwYESSevGMnqRJHImH"
       },
       "artists": [
         {
-          "name": "Yoshiko",
-          "url": "https://open.spotify.com/artist/4lSE8OyTMhErkE7OshR2Hq"
-        },
-        {
-          "name": "Antenora",
-          "url": "https://open.spotify.com/artist/72SQfmyjszuSw1SNoNWpvz"
-        },
-        {
-          "name": "Dionysus",
-          "url": "https://open.spotify.com/artist/7olPZFkqjZyoBY6Jxase3b"
+          "name": "Anime",
+          "url": "https://open.spotify.com/artist/6lnEWBl7dhcA1FL5yqRHPO"
         }
       ],
-      "duration_ms": 223578,
-      "name": "After Dark",
-      "url": "https://open.spotify.com/track/0I6ZUfEYKF37J8UQhIVKBg"
+      "duration_ms": 204439,
+      "name": "Blow Up",
+      "url": "https://open.spotify.com/track/3GfmmpnJql1SqFBmJNPYVd"
     },
     {
       "added_at": "2024-05-17 09:22:25",

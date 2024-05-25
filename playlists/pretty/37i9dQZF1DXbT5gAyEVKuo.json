@@ -1,6 +1,6 @@
 {
   "description": "The power of praise lives on LIVE! Get up on your feet and let the spirit move in your heart to these amazing performances.",
-  "num_followers": 82387,
+  "num_followers": 82410,
   "original_name": "Gospel Live",
   "owner": {
     "name": "Spotify",
@@ -419,22 +419,6 @@
     {
       "added_at": "2023-02-18 05:28:04",
       "album": {
-        "name": "Blessed By Association",
-        "url": "https://open.spotify.com/album/7Mlu5erqJLuAR4zWPIEIDx"
-      },
-      "artists": [
-        {
-          "name": "John P. Kee & The New Life Community Choir",
-          "url": "https://open.spotify.com/artist/04LhvDkXmA8kPyJED34IEM"
-        }
-      ],
-      "duration_ms": 292466,
-      "name": "I Won't Let Go - Live",
-      "url": "https://open.spotify.com/track/0PAidbgBw2xovbTTrSXfy2"
-    },
-    {
-      "added_at": "2023-02-18 05:28:04",
-      "album": {
         "name": "Live In Washington",
         "url": "https://open.spotify.com/album/6Ig7DpVL0oQhlX8Di6TbUk"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 388626,
       "name": "The Battle Is the Lord's",
       "url": "https://open.spotify.com/track/1QN1TuZOtJssiRYkYbYO9S"
+    },
+    {
+      "added_at": "2023-02-18 05:28:04",
+      "album": {
+        "name": "Blessed By Association",
+        "url": "https://open.spotify.com/album/7Mlu5erqJLuAR4zWPIEIDx"
+      },
+      "artists": [
+        {
+          "name": "John P. Kee & The New Life Community Choir",
+          "url": "https://open.spotify.com/artist/04LhvDkXmA8kPyJED34IEM"
+        }
+      ],
+      "duration_ms": 292466,
+      "name": "I Won't Let Go - Live",
+      "url": "https://open.spotify.com/track/0PAidbgBw2xovbTTrSXfy2"
     },
     {
       "added_at": "2023-02-18 05:28:04",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-02-18 05:28:04",
       "album": {
-        "name": "The Best Of Gospel Superfest (Live)",
-        "url": "https://open.spotify.com/album/7zXF8rjj6tDybn7aavDm6N"
-      },
-      "artists": [
-        {
-          "name": "Karen Clark Sheard",
-          "url": "https://open.spotify.com/artist/76dDIM8amCY58U3uvr1Rw1"
-        }
-      ],
-      "duration_ms": 379533,
-      "name": "It's Not Over",
-      "url": "https://open.spotify.com/track/4HY5Tyq3E7c7LlfSPUItRf"
-    },
-    {
-      "added_at": "2023-02-18 05:28:04",
-      "album": {
         "name": "20th Century Masters - The Millennium Collection: The Best Of Richard Smallwood",
         "url": "https://open.spotify.com/album/1vqjoOP0rOi0zHrbvBp8nU"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 267053,
       "name": "The Lord's Prayer - Live",
       "url": "https://open.spotify.com/track/07Mjg6guQW9bJNspyyncGb"
+    },
+    {
+      "added_at": "2023-02-18 05:28:04",
+      "album": {
+        "name": "The Best Of Gospel Superfest (Live)",
+        "url": "https://open.spotify.com/album/7zXF8rjj6tDybn7aavDm6N"
+      },
+      "artists": [
+        {
+          "name": "Karen Clark Sheard",
+          "url": "https://open.spotify.com/artist/76dDIM8amCY58U3uvr1Rw1"
+        }
+      ],
+      "duration_ms": 379533,
+      "name": "It's Not Over",
+      "url": "https://open.spotify.com/track/4HY5Tyq3E7c7LlfSPUItRf"
     },
     {
       "added_at": "2023-02-18 05:28:04",
@@ -827,22 +827,6 @@
     {
       "added_at": "2023-02-18 05:28:04",
       "album": {
-        "name": "Gospel's Best Live",
-        "url": "https://open.spotify.com/album/5NvLAYXvwMmEfYC5K2CsUd"
-      },
-      "artists": [
-        {
-          "name": "Richard Smallwood",
-          "url": "https://open.spotify.com/artist/4WIRlLxuzmZciQ8JS2b3jP"
-        }
-      ],
-      "duration_ms": 445360,
-      "name": "Center Of My Joy - Live",
-      "url": "https://open.spotify.com/track/2oKFjzpOQrj2t0lwXlSrjV"
-    },
-    {
-      "added_at": "2023-02-18 05:28:04",
-      "album": {
         "name": "Already Won (Live)",
         "url": "https://open.spotify.com/album/4epcjphraBNrnFAIGPl0GB"
       },
@@ -855,6 +839,26 @@
       "duration_ms": 211884,
       "name": "Already Won - Live",
       "url": "https://open.spotify.com/track/0cZAIIbDleBvlEXfpYJfVU"
+    },
+    {
+      "added_at": "2023-02-18 05:28:04",
+      "album": {
+        "name": "Sessions - EP",
+        "url": "https://open.spotify.com/album/5baBTN8eqOMrGY9wnLWDpi"
+      },
+      "artists": [
+        {
+          "name": "Jonathan McReynolds",
+          "url": "https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9"
+        },
+        {
+          "name": "Chantae Cann",
+          "url": "https://open.spotify.com/artist/1cPLFQV7MAWQiaDW5SlUMR"
+        }
+      ],
+      "duration_ms": 249176,
+      "name": "Maintain (feat. Chantae Cann) (Live)",
+      "url": "https://open.spotify.com/track/7oPr7tHtMifbFJrkoXe8aO"
     }
   ],
   "unique_name": "Gospel Live",

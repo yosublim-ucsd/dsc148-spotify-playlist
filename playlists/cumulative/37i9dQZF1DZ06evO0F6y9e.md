@@ -2,14 +2,14 @@
 
 ### [This Is Grupo Firme](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0F6y9e)
 
-> This is Grupo Firme\. The essential tracks, all in one playlist.
+> This Is Grupo Firme\. Los temas esenciales, todos en una lista.
 
 74 songs - 4 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Mi Modo](https://open.spotify.com/track/4yTTya8odDhObFpaoUL23T) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [La Ventaja](https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD) | [A Mi Modo](https://open.spotify.com/album/5ieqS1Hv44JfmKTyNnWjV2) | 3:09 | 2023-08-08 | 2024-04-03 |
-| [Acábame de Matar \(Feat\. Luis Angel "El Flaco"\)](https://open.spotify.com/track/3Tq17cNZ19NxBlNgLPXx7u) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl) | [Acábame de Matar \(Feat\. Luis Angel "El Flaco"\)](https://open.spotify.com/album/5gJytBbQyZB1voWvuVk6of) | 3:34 | 2023-08-08 |  |
+| [Acábame de Matar \(Feat\. Luis Angel "El Flaco"\)](https://open.spotify.com/track/3Tq17cNZ19NxBlNgLPXx7u) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl) | [Acábame de Matar \(Feat\. Luis Angel "El Flaco"\)](https://open.spotify.com/album/5gJytBbQyZB1voWvuVk6of) | 3:34 | 2023-08-08 | 2024-05-25 |
 | [Alaska](https://open.spotify.com/track/607ZGkxOxHJUVDEU3MZl86) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Alaska](https://open.spotify.com/album/6un8b7BMCwlYBFxbf3rSnZ) | 4:01 | 2023-08-08 |  |
 | [Amor Borrachito](https://open.spotify.com/track/2yzM8Nq2ykj03M6OGhgLTW) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Amor Borrachito](https://open.spotify.com/album/4V7LGD03uKHxCJrIy6gjOK) | 2:55 | 2023-08-08 | 2023-08-23 |
 | [Amor Borrachito](https://open.spotify.com/track/7hSEneMeYg58qG23eYj97m) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Amor Borrachito](https://open.spotify.com/album/0P615coDq1h7bjj9UURk0d) | 2:55 | 2023-08-22 |  |

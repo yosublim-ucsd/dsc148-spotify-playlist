@@ -455,6 +455,28 @@
     },
     {
       "album": {
+        "name": "Le Jardin De Heavenly",
+        "url": "https://open.spotify.com/album/0InB1oG08YUmJuztRRoHvK"
+      },
+      "artists": [
+        {
+          "name": "Heavenly",
+          "url": "https://open.spotify.com/artist/1sDWIdL18InXgES9TwvsL2"
+        },
+        {
+          "name": "Calvin Johnson",
+          "url": "https://open.spotify.com/artist/4L0x6V9ckwc4QhR069mk9M"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201666,
+      "name": "C Is The Heavenly Option",
+      "url": "https://open.spotify.com/track/08mk6DH2nTVwlrQTE0Hunr"
+    },
+    {
+      "album": {
         "name": "Cooper B Handy's Album, Vol. 3",
         "url": "https://open.spotify.com/album/0uRS4EwISSvwcBbfaxdfJi"
       },
@@ -668,7 +690,7 @@
       ],
       "date_added": "2024-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 290026,
       "name": "Dawn blessings",
       "url": "https://open.spotify.com/track/2CDErqDxCM5ggWEgiYopcl"
@@ -1101,6 +1123,24 @@
     },
     {
       "album": {
+        "name": "This is Our Music",
+        "url": "https://open.spotify.com/album/79JBh8OZRmvaC4ORkKB7ou"
+      },
+      "artists": [
+        {
+          "name": "Galaxie 500",
+          "url": "https://open.spotify.com/artist/6guTJsgPymDUVfqDJyz5UG"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338506,
+      "name": "Fourth of July",
+      "url": "https://open.spotify.com/track/3AASTYWf8pLMdBj2ZIAMBx"
+    },
+    {
+      "album": {
         "name": "Unknown Country",
         "url": "https://open.spotify.com/album/258ADCcHaA6gRgiM5JrbU2"
       },
@@ -1498,7 +1538,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 145200,
       "name": "I'm the Sky",
       "url": "https://open.spotify.com/track/5RZakBALQyiqL1dG5VMmzH"
@@ -1834,6 +1874,24 @@
       "duration_ms": 126246,
       "name": "Moon Like a Pearl",
       "url": "https://open.spotify.com/track/2KkuQ32WtE9ImerVSnUWk5"
+    },
+    {
+      "album": {
+        "name": "Bundle of Joy",
+        "url": "https://open.spotify.com/album/6c1VIXuJZJBDkmNM236bXt"
+      },
+      "artists": [
+        {
+          "name": "Land of the Loops",
+          "url": "https://open.spotify.com/artist/0H4Rek6UJ2GpLm5HduQ9uv"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255133,
+      "name": "Multi-Family Garage Sale (Bargain-Bin Mix)",
+      "url": "https://open.spotify.com/track/314KmbRrSXcQHFujzdOr9v"
     },
     {
       "album": {

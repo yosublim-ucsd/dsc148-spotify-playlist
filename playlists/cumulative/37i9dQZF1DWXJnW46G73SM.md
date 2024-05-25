@@ -2,9 +2,9 @@
 
 ### [مصري جديد](https://open.spotify.com/playlist/37i9dQZF1DWXJnW46G73SM)
 
-> أحدث الأغاني المصرية هنا🤩 الغلاف: إليسا
+> أحدث الأغاني المصرية هنا🤩 الغلاف: فريد
 
-959 songs - 2 day 6 hr 14 min
+960 songs - 2 day 6 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -683,6 +683,7 @@
 | [ابن امبارح](https://open.spotify.com/track/74zhameHOFlWAhXWTwp5GQ) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [ابن امبارح](https://open.spotify.com/album/31igzNV5FN0huFzyxNNo1J) | 3:59 | 2024-02-01 | 2024-03-11 |
 | [اتنين بمقام ملايين](https://open.spotify.com/track/0TchhsYsdtIsY6HCJ0YQWL) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [اتنين بمقام ملايين](https://open.spotify.com/album/19CKrkJEOEKlPHId6Sex76) | 2:53 | 2024-03-10 |  |
 | [احسن حد](https://open.spotify.com/track/7vLDQJQ0YqbXrH35uR8Ozy) | [مشاعل بنت محمد](https://open.spotify.com/artist/5hMpabYClaGFv8u2O7Y1gK) | [احسن حد](https://open.spotify.com/album/5NsoLUMKvzQq1g67lv1p2O) | 3:41 | 2023-11-21 | 2024-01-18 |
+| [احلي سحر](https://open.spotify.com/track/4dVU6RuUeo8aOnRdvMaW0N) | [Farid](https://open.spotify.com/artist/5OaC42gxOxSYgfmmSxe672) | [احلي سحر](https://open.spotify.com/album/0SdV8Gnkw1zonjBAnTcIsC) | 3:18 | 2024-05-24 |  |
 | [احنا في حتة تانية](https://open.spotify.com/track/2qf81ena3saXA1BHE9Kbxk) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [احنا في حتة تانية](https://open.spotify.com/album/3R4q4R8A2zdjMF1WavLYeS) | 3:18 | 2022-12-29 | 2023-01-13 |
 | [اختياراتي \- من فيلم مستر إكس](https://open.spotify.com/track/3ilp9U50Ak4CKkS7jdCY4L) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [اختياراتي \(من فيلم مستر إكس\)](https://open.spotify.com/album/1RJUtPJMzR9NYADVQwStNT) | 2:50 | 2023-06-20 | 2023-08-10 |
 | [اخر مرة قابلتك](https://open.spotify.com/track/7y7GL4KTpBlSpYtJNDqJdF) | [Haytham Shaker](https://open.spotify.com/artist/6qRALpme6YIgJ8jWM2D0G2) | [اخر مرة قابلتك](https://open.spotify.com/album/15TA8XyjrQrS16X6kbSx23) | 3:37 | 2024-02-23 | 2024-05-09 |
@@ -736,7 +737,7 @@
 | [انسي يأسك](https://open.spotify.com/track/67ELl3i4PFwL2Yc53ANsvE) | [Ahmed Khaled](https://open.spotify.com/artist/5j6v310BfwEmAPM5bezCrG) | [انسي يأسك](https://open.spotify.com/album/5Y9UEFxBi8Yye2e5OvpAWn) | 3:01 | 2023-12-29 | 2024-02-06 |
 | [اهي مشيت](https://open.spotify.com/track/55AsAf4UgULhtMrr50SBRH) | [farid](https://open.spotify.com/artist/1gSaqK4ZkM1P44SeOi3ay9), [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [اهي مشيت](https://open.spotify.com/album/4EvxoILg3a3IZrqwevxXTc) | 3:44 | 2023-12-29 | 2024-02-08 |
 | [ايام](https://open.spotify.com/track/2J9kFHbO9TW5Qzi53uDhuv) | [Ahmed Jeka](https://open.spotify.com/artist/0m2dRGnwWjMA2a1Jy1FGMZ) | [ايام](https://open.spotify.com/album/0qlHMbg9mLJeYKJhKvWP4i) | 4:19 | 2024-02-29 | 2024-03-07 |
-| [ايام ونسيتها](https://open.spotify.com/track/1SJXNoG9rW3kkEDfPN9YWV) | [Farid](https://open.spotify.com/artist/5OaC42gxOxSYgfmmSxe672) | [ايام ونسيتها](https://open.spotify.com/album/27pxn0VeLoRrQTA4vuNDrM) | 3:58 | 2024-04-18 |  |
+| [ايام ونسيتها](https://open.spotify.com/track/1SJXNoG9rW3kkEDfPN9YWV) | [Farid](https://open.spotify.com/artist/5OaC42gxOxSYgfmmSxe672) | [ايام ونسيتها](https://open.spotify.com/album/27pxn0VeLoRrQTA4vuNDrM) | 3:58 | 2024-04-18 | 2024-05-25 |
 | [ايه السعادة دي](https://open.spotify.com/track/5yA23gQnPVD5H5GeO3oSEE) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [ايه السعادة دي](https://open.spotify.com/album/4zuku3m8svJHhlHGylFIpJ) | 2:57 | 2023-09-01 | 2023-12-22 |
 | [ايه غيرك](https://open.spotify.com/track/7d8Q20fRUqE7FaUXOTcARp) | [Jamila](https://open.spotify.com/artist/7K0Se2JHfaWPp6OUS2gvgI) | [ايه غيرك](https://open.spotify.com/album/7dNP8GXz9DfdQGZEgSfhK4) | 3:53 | 2023-02-23 | 2023-04-21 |
 | [بابا جه](https://open.spotify.com/track/4eFl2NwlXKqP117RFSGmqI) | [Akram Hosny](https://open.spotify.com/artist/0uFv3QyIZZuL1ZzT9J19Fi), [Ahmed Wahid](https://open.spotify.com/artist/6dmeENLe1uYPwlRncez1qJ), [Lavinia Nader](https://open.spotify.com/artist/45yMxZ7PMLp4lCcq2rl6CH) | [بابا جه](https://open.spotify.com/album/0GufQQdl0rb9MoWUV8aGsn) | 2:18 | 2024-03-07 |  |

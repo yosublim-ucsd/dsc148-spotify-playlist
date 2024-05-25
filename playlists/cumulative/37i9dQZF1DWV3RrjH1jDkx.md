@@ -4,7 +4,7 @@
 
 > Endelig fredag! 🎵
 
-534 songs - 1 day 3 hr 28 min
+536 songs - 1 day 3 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -373,6 +373,7 @@
 | [Pad Thai](https://open.spotify.com/track/2V4WavDKcWrlmzFXmlNv7k) | [Daniela Rathana](https://open.spotify.com/artist/5U2TzkbKD84n8gHhZtL3Ui) | [Pad Thai](https://open.spotify.com/album/3ThGd1eoD9xHmzpUxqAqIS) | 3:01 | 2024-05-16 | 2024-05-24 |
 | [Parents](https://open.spotify.com/track/5QCBY9fU0gViLSVkZaJnTk) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [Parents](https://open.spotify.com/album/1rkY67qjeWpzsLp5suW0Y0) | 2:06 | 2024-05-16 | 2024-05-24 |
 | [Paris \(Politits\)](https://open.spotify.com/track/5mfO4PDpOxnLYgLxmsgYPc) | [KANSELLERT](https://open.spotify.com/artist/3R1yZ8cIqiJC8mUAFQFy2z), [Banters](https://open.spotify.com/artist/2ufjpBentwcKOGch7U7NQN) | [Paris \(Politits\)](https://open.spotify.com/album/3xFHqZwfB1P0JzsYIgmUF1) | 2:13 | 2024-04-26 | 2024-05-03 |
+| [Pink Skies](https://open.spotify.com/track/4ZJ4vzLQekI0WntDbanNC7) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Pink Skies](https://open.spotify.com/album/7LRZfujsTLyy814AnMSdtT) | 3:14 | 2024-05-24 |  |
 | [Plant](https://open.spotify.com/track/01zHIVXzbDFiWYmH4oRHQS) | [Efterklang](https://open.spotify.com/artist/3DL71JYSG6VREkmLSzfWhU), [Mabe Fratti](https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo) | [Plant](https://open.spotify.com/album/00yKsovhEU8RaikKH7bqVD) | 3:49 | 2024-05-09 | 2024-05-17 |
 | [POLAROID](https://open.spotify.com/track/4QhOIfeA8E7HF3emK44UBC) | [Kenny](https://open.spotify.com/artist/2pR8rR0X5ya3oulwEuMIzx) | [POLAROID](https://open.spotify.com/album/2CKAaXSMB8auUL37hnH5Kl) | 1:58 | 2024-05-16 | 2024-05-24 |
 | [Potential](https://open.spotify.com/track/7D7oIpsm4trbxthAU7JMtB) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Potential](https://open.spotify.com/album/7k0D9VjRqVMbhg0uNMiq3O) | 2:57 | 2024-04-26 | 2024-05-03 |
@@ -465,6 +466,7 @@
 | [The Bruised Are the Bravest](https://open.spotify.com/track/4OAv2cr4GkVe9PwIyBZsXo) | [Oda Rose](https://open.spotify.com/artist/1pOfQF2KsryuGHdZwBDKsY) | [The Bruised Are the Bravest](https://open.spotify.com/album/4eIcMfbbddWT8MCxt5GHXq) | 3:01 | 2024-05-09 | 2024-05-17 |
 | [The Craving \(single version\)](https://open.spotify.com/track/0S7lkKStHgfgjgwSFOvRNA) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [The Craving \(single version\)](https://open.spotify.com/album/7K7eWZNR5t9UBlrN2ltzLI) | 2:53 | 2024-05-23 |  |
 | [The Genre Police](https://open.spotify.com/track/17mYJ0a4KeROL4NFGi1MYS) | [AronChupa](https://open.spotify.com/artist/5vCOdeiQt9LyzdI87kt5Sh), [Little Sis Nora](https://open.spotify.com/artist/1KYt3TMGpa1LtVi0m2A0F9), [S3RL](https://open.spotify.com/artist/11aa081aKYUzmeFm0yHdT2) | [The Genre Police](https://open.spotify.com/album/0eCghxCXkfCgxEbAGssStE) | 3:03 | 2024-05-16 | 2024-05-24 |
+| [The Groke](https://open.spotify.com/track/6aDXwAUnEqMFzBx2i7wgpc) | [Okay Kaya](https://open.spotify.com/artist/7d64ZVOXg02y73HB5UMqkb) | [The Groke](https://open.spotify.com/album/0WyFT30FkW1v1GquwmQsYN) | 3:14 | 2024-05-24 |  |
 | [The Idea of You](https://open.spotify.com/track/13skFf8DWYHxbZx3jP3V0B) | [Nicholas Galitzine](https://open.spotify.com/artist/6FupcSGek9Zs4EJGpkBllL), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [The Idea of You](https://open.spotify.com/album/5brGFiJgrngm9vyWMhzc9Y) | 3:06 | 2024-05-02 | 2024-05-10 |
 | [The Other Side](https://open.spotify.com/track/1whkfFxtxHalsQt83YfUGH) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Angel Face \(Club Deluxe\)](https://open.spotify.com/album/3fD6ZQKymy2oP1t6c8NEOc) | 3:16 | 2024-04-26 | 2024-05-03 |
 | [The Speed of Life](https://open.spotify.com/track/42opmht9GJpxaxwMh79oQD) | [Malin Pettersen](https://open.spotify.com/artist/3kVhFap6wa2EN5yrMZIupm) | [The Speed of Life](https://open.spotify.com/album/67RgoyC2ZlmnPUUHVzMFly) | 3:21 | 2024-05-02 | 2024-05-10 |

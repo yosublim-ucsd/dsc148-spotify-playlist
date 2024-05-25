@@ -1,6 +1,6 @@
 {
   "description": "Les plus belles chansons d'amour de la vari\u00e9t\u00e9 fran\u00e7aise.",
-  "num_followers": 316625,
+  "num_followers": 316637,
   "original_name": "French Kiss",
   "owner": {
     "name": "Spotify",
@@ -259,22 +259,6 @@
     {
       "added_at": "2024-05-23 16:09:45",
       "album": {
-        "name": "La Maladie D'Amour",
-        "url": "https://open.spotify.com/album/4Np1TTVFW72n9RjrJaQWqf"
-      },
-      "artists": [
-        {
-          "name": "Michel Sardou",
-          "url": "https://open.spotify.com/artist/0krCd0zVANPv9ryri4T0TO"
-        }
-      ],
-      "duration_ms": 210186,
-      "name": "La maladie d'amour",
-      "url": "https://open.spotify.com/track/2flivK5ivlprHRE7YNcRrj"
-    },
-    {
-      "added_at": "2024-05-23 16:09:45",
-      "album": {
         "name": "Addictions (Ultimate Version)",
         "url": "https://open.spotify.com/album/3Pn9nKN7m8MKBhAtRzuugW"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 219000,
       "name": "Longtemps",
       "url": "https://open.spotify.com/track/73yB2HMz9zu0VcueZ4P1UU"
+    },
+    {
+      "added_at": "2024-05-23 16:09:45",
+      "album": {
+        "name": "La Maladie D'Amour",
+        "url": "https://open.spotify.com/album/4Np1TTVFW72n9RjrJaQWqf"
+      },
+      "artists": [
+        {
+          "name": "Michel Sardou",
+          "url": "https://open.spotify.com/artist/0krCd0zVANPv9ryri4T0TO"
+        }
+      ],
+      "duration_ms": 210186,
+      "name": "La maladie d'amour",
+      "url": "https://open.spotify.com/track/2flivK5ivlprHRE7YNcRrj"
     },
     {
       "added_at": "2024-05-23 16:09:45",
@@ -323,38 +323,6 @@
     {
       "added_at": "2024-05-23 16:09:45",
       "album": {
-        "name": "Savoir Aimer",
-        "url": "https://open.spotify.com/album/6f6O9rhUAlFv9y18O2AZ0p"
-      },
-      "artists": [
-        {
-          "name": "Florent Pagny",
-          "url": "https://open.spotify.com/artist/0g7hZVprd3orBpMrSLWeJ9"
-        }
-      ],
-      "duration_ms": 281213,
-      "name": "Savoir aimer",
-      "url": "https://open.spotify.com/track/0x8GIrcAO8msuslNoTKIXM"
-    },
-    {
-      "added_at": "2024-05-23 16:09:45",
-      "album": {
-        "name": "Joe Dassin \u00c9ternel...",
-        "url": "https://open.spotify.com/album/3BRgfYZqKjLoqmEt1jZSHa"
-      },
-      "artists": [
-        {
-          "name": "Joe Dassin",
-          "url": "https://open.spotify.com/artist/64LCTpIu9Iji2EPaxxPpxF"
-        }
-      ],
-      "duration_ms": 269320,
-      "name": "L'\u00e9t\u00e9 indien",
-      "url": "https://open.spotify.com/track/7BNeFchpHDCWYSUV4hfU89"
-    },
-    {
-      "added_at": "2024-05-23 16:09:45",
-      "album": {
         "name": "Les femmes id\u00e9ales",
         "url": "https://open.spotify.com/album/2cpyU2HuvpC3LyCHJn12XO"
       },
@@ -375,18 +343,50 @@
     {
       "added_at": "2024-05-23 16:09:45",
       "album": {
-        "name": "La vieille",
-        "url": "https://open.spotify.com/album/7cQsqaKx87ZHeJEoRsIStm"
+        "name": "Joe Dassin \u00c9ternel...",
+        "url": "https://open.spotify.com/album/3BRgfYZqKjLoqmEt1jZSHa"
       },
       "artists": [
         {
-          "name": "Michel Sardou",
-          "url": "https://open.spotify.com/artist/0krCd0zVANPv9ryri4T0TO"
+          "name": "Joe Dassin",
+          "url": "https://open.spotify.com/artist/64LCTpIu9Iji2EPaxxPpxF"
         }
       ],
-      "duration_ms": 327200,
-      "name": "Je vais t'aimer",
-      "url": "https://open.spotify.com/track/3TqoXM2sHgEFXgd1ywgyZf"
+      "duration_ms": 269320,
+      "name": "L'\u00e9t\u00e9 indien",
+      "url": "https://open.spotify.com/track/7BNeFchpHDCWYSUV4hfU89"
+    },
+    {
+      "added_at": "2024-05-23 16:09:45",
+      "album": {
+        "name": "Savoir Aimer",
+        "url": "https://open.spotify.com/album/6f6O9rhUAlFv9y18O2AZ0p"
+      },
+      "artists": [
+        {
+          "name": "Florent Pagny",
+          "url": "https://open.spotify.com/artist/0g7hZVprd3orBpMrSLWeJ9"
+        }
+      ],
+      "duration_ms": 281213,
+      "name": "Savoir aimer",
+      "url": "https://open.spotify.com/track/0x8GIrcAO8msuslNoTKIXM"
+    },
+    {
+      "added_at": "2024-05-23 16:09:45",
+      "album": {
+        "name": "Fragile (Remastered)",
+        "url": "https://open.spotify.com/album/0UPJEVD6jVBaAEuFyTaCyX"
+      },
+      "artists": [
+        {
+          "name": "Francis Cabrel",
+          "url": "https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv"
+        }
+      ],
+      "duration_ms": 186706,
+      "name": "L'encre de tes yeux - Remastered",
+      "url": "https://open.spotify.com/track/2mLFPvKfZ6LI9NaAtFDyUL"
     },
     {
       "added_at": "2024-05-23 16:09:45",
@@ -423,22 +423,6 @@
     {
       "added_at": "2024-05-23 16:09:45",
       "album": {
-        "name": "Fragile (Remastered)",
-        "url": "https://open.spotify.com/album/0UPJEVD6jVBaAEuFyTaCyX"
-      },
-      "artists": [
-        {
-          "name": "Francis Cabrel",
-          "url": "https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv"
-        }
-      ],
-      "duration_ms": 186706,
-      "name": "L'encre de tes yeux - Remastered",
-      "url": "https://open.spotify.com/track/2mLFPvKfZ6LI9NaAtFDyUL"
-    },
-    {
-      "added_at": "2024-05-23 16:09:45",
-      "album": {
         "name": "Alors regarde",
         "url": "https://open.spotify.com/album/2BPmd6BmvLHEz9ieEJBSNt"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 219226,
       "name": "J'te l'dis quand m\u00eame",
       "url": "https://open.spotify.com/track/1Ek1OEhcEw9gRr5fxVizhk"
+    },
+    {
+      "added_at": "2024-05-23 16:09:45",
+      "album": {
+        "name": "La vieille",
+        "url": "https://open.spotify.com/album/7cQsqaKx87ZHeJEoRsIStm"
+      },
+      "artists": [
+        {
+          "name": "Michel Sardou",
+          "url": "https://open.spotify.com/artist/0krCd0zVANPv9ryri4T0TO"
+        }
+      ],
+      "duration_ms": 327200,
+      "name": "Je vais t'aimer",
+      "url": "https://open.spotify.com/track/3TqoXM2sHgEFXgd1ywgyZf"
     },
     {
       "added_at": "2024-05-23 16:09:45",
@@ -503,6 +503,22 @@
     {
       "added_at": "2024-05-23 16:09:45",
       "album": {
+        "name": "Joie de vivre",
+        "url": "https://open.spotify.com/album/7cyuFUJLQkLVF7JIB2U9T2"
+      },
+      "artists": [
+        {
+          "name": "Louane",
+          "url": "https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC"
+        }
+      ],
+      "duration_ms": 176160,
+      "name": "Aimer \u00e0 mort",
+      "url": "https://open.spotify.com/track/2HENwndPLHINxHhQPMh8BE"
+    },
+    {
+      "added_at": "2024-05-23 16:09:45",
+      "album": {
         "name": "Mais je t'aime",
         "url": "https://open.spotify.com/album/5OU0fh8Jg5DjOZMhvmkBUI"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 268243,
       "name": "Mais je t'aime",
       "url": "https://open.spotify.com/track/4dtG1p71E6VPt9BmVYWcY5"
-    },
-    {
-      "added_at": "2024-05-23 16:09:45",
-      "album": {
-        "name": "Joie de vivre",
-        "url": "https://open.spotify.com/album/7cyuFUJLQkLVF7JIB2U9T2"
-      },
-      "artists": [
-        {
-          "name": "Louane",
-          "url": "https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC"
-        }
-      ],
-      "duration_ms": 176160,
-      "name": "Aimer \u00e0 mort",
-      "url": "https://open.spotify.com/track/2HENwndPLHINxHhQPMh8BE"
     },
     {
       "added_at": "2024-05-23 16:09:45",
@@ -771,22 +771,6 @@
     {
       "added_at": "2024-05-23 16:09:45",
       "album": {
-        "name": "Je Suis Malade",
-        "url": "https://open.spotify.com/album/6TdQpl3zNMInvcyJLrkBM0"
-      },
-      "artists": [
-        {
-          "name": "Serge Lama",
-          "url": "https://open.spotify.com/artist/3fR5PRhFohNbxEXDE69pUz"
-        }
-      ],
-      "duration_ms": 249826,
-      "name": "Je suis malade",
-      "url": "https://open.spotify.com/track/4Qzdktws811tv59fMf7CBz"
-    },
-    {
-      "added_at": "2024-05-23 16:09:45",
-      "album": {
         "name": "Toujours moi",
         "url": "https://open.spotify.com/album/4MFaXg3uAGNTzUATRvIMEg"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 245973,
       "name": "Parce que c'est toi",
       "url": "https://open.spotify.com/track/0FHJcPgK7UBMUa6hdHLW6m"
+    },
+    {
+      "added_at": "2024-05-23 16:09:45",
+      "album": {
+        "name": "Je Suis Malade",
+        "url": "https://open.spotify.com/album/6TdQpl3zNMInvcyJLrkBM0"
+      },
+      "artists": [
+        {
+          "name": "Serge Lama",
+          "url": "https://open.spotify.com/artist/3fR5PRhFohNbxEXDE69pUz"
+        }
+      ],
+      "duration_ms": 249826,
+      "name": "Je suis malade",
+      "url": "https://open.spotify.com/track/4Qzdktws811tv59fMf7CBz"
     },
     {
       "added_at": "2024-05-23 16:09:45",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2024-05-23 16:09:45",
       "album": {
-        "name": "PS : Je t'aime",
-        "url": "https://open.spotify.com/album/7jHd7tLmgjtkLSzv84nVCy"
-      },
-      "artists": [
-        {
-          "name": "Christophe Willem",
-          "url": "https://open.spotify.com/artist/0wb3S587JG0riRtdPA6PQD"
-        }
-      ],
-      "duration_ms": 173440,
-      "name": "PS : Je t'aime",
-      "url": "https://open.spotify.com/track/58FtNfnN5RrJ1ybhWntYuJ"
-    },
-    {
-      "added_at": "2024-05-23 16:09:45",
-      "album": {
         "name": "Nonchalances",
         "url": "https://open.spotify.com/album/1pXcmUDdmlRibJHaAMcbNr"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 179333,
       "name": "Elle pr\u00e9f\u00e8re l'amour en mer",
       "url": "https://open.spotify.com/track/5ZhLMUNyZWRjVWwHKDNF6H"
+    },
+    {
+      "added_at": "2024-05-23 16:09:45",
+      "album": {
+        "name": "PS : Je t'aime",
+        "url": "https://open.spotify.com/album/7jHd7tLmgjtkLSzv84nVCy"
+      },
+      "artists": [
+        {
+          "name": "Christophe Willem",
+          "url": "https://open.spotify.com/artist/0wb3S587JG0riRtdPA6PQD"
+        }
+      ],
+      "duration_ms": 173440,
+      "name": "PS : Je t'aime",
+      "url": "https://open.spotify.com/track/58FtNfnN5RrJ1ybhWntYuJ"
     },
     {
       "added_at": "2024-05-23 16:09:45",

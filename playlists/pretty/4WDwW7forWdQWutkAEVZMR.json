@@ -1,13 +1,185 @@
 {
-  "description": "Your go-to playlist for this week's hottest music featuring Koe Wetzel, Miley Cyrus, and more! Cover: Koe Wetzel",
+  "description": "Your go-to playlist for this week's hottest music featuring Bring Me The Horizon, Miley Cyrus, and more! Cover: Bring Me The Horizon",
   "num_followers": 8020,
   "original_name": "Columbia Records: Weekly Mix",
   "owner": {
     "name": "Columbia Records",
     "url": "https://open.spotify.com/user/columbiarecords_us"
   },
-  "snapshot_id": "AAAbYH/UA3ldmwSP/OmRfwSod/LQz1Bh",
+  "snapshot_id": "AAAbcVTpH5hA418dr/LIako87xN2Cqkg",
   "tracks": [
+    {
+      "added_at": "2024-05-24 04:59:50",
+      "album": {
+        "name": "POST HUMAN: NeX GEn",
+        "url": "https://open.spotify.com/album/1k7OXnGQPV4zF3seDwRroD"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 240590,
+      "name": "Top 10 staTues tHat CriEd bloOd",
+      "url": "https://open.spotify.com/track/7g4hIeYVk3h5qQXb9RLeXP"
+    },
+    {
+      "added_at": "2024-05-24 05:00:07",
+      "album": {
+        "name": "BAND4BAND (feat. Lil Baby)",
+        "url": "https://open.spotify.com/album/4AzPr5SUpNF553eC1d3aRy"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 140733,
+      "name": "BAND4BAND (feat. Lil Baby)",
+      "url": "https://open.spotify.com/track/7iabz12vAuVQYyekFIWJxD"
+    },
+    {
+      "added_at": "2024-05-24 05:00:18",
+      "album": {
+        "name": "DARK",
+        "url": "https://open.spotify.com/album/5hcEXufQsdqSx8Ik7oXXEm"
+      },
+      "artists": [
+        {
+          "name": "WesGhost",
+          "url": "https://open.spotify.com/artist/6YmJPuYzqe1HsJArGYcHBJ"
+        }
+      ],
+      "duration_ms": 179439,
+      "name": "DARK",
+      "url": "https://open.spotify.com/track/1qlsoHIuuOsrm1qGENz4RM"
+    },
+    {
+      "added_at": "2024-05-24 05:00:32",
+      "album": {
+        "name": "QUIET COMPANY",
+        "url": "https://open.spotify.com/album/30KjoTkl4xcROFA5PGVapI"
+      },
+      "artists": [
+        {
+          "name": "Jack Harris",
+          "url": "https://open.spotify.com/artist/27edmR0EqnlQYsj80VTusr"
+        }
+      ],
+      "duration_ms": 170812,
+      "name": "QUIET COMPANY",
+      "url": "https://open.spotify.com/track/35PVngoOf0GRd6t3nyaYkm"
+    },
+    {
+      "added_at": "2024-05-24 05:00:48",
+      "album": {
+        "name": "What Do You Believe In?",
+        "url": "https://open.spotify.com/album/63c9Ujs0fkzuFi6OkDG7cP"
+      },
+      "artists": [
+        {
+          "name": "Rag'n'Bone Man",
+          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
+        }
+      ],
+      "duration_ms": 190474,
+      "name": "What Do You Believe In?",
+      "url": "https://open.spotify.com/track/2j5YYik2gA3Z7FgH3NiybN"
+    },
+    {
+      "added_at": "2024-05-24 05:01:04",
+      "album": {
+        "name": "Wildlife (feat. Sleepy Hallow)",
+        "url": "https://open.spotify.com/album/6NRSyW6U2CGW7eedBPyB3f"
+      },
+      "artists": [
+        {
+          "name": "Scorey",
+          "url": "https://open.spotify.com/artist/0X3nsc84A9qlFilmlWNwQb"
+        },
+        {
+          "name": "Sleepy Hallow",
+          "url": "https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV"
+        }
+      ],
+      "duration_ms": 173233,
+      "name": "Wildlife (feat. Sleepy Hallow)",
+      "url": "https://open.spotify.com/track/350eBNxmi87YdMxQvauyUQ"
+    },
+    {
+      "added_at": "2024-05-24 05:01:19",
+      "album": {
+        "name": "A Real Man",
+        "url": "https://open.spotify.com/album/46Hx2WVHRs07MDXGVgzdD1"
+      },
+      "artists": [
+        {
+          "name": "Dax",
+          "url": "https://open.spotify.com/artist/5icKdCmMhNMYoAzVBAWt39"
+        }
+      ],
+      "duration_ms": 221640,
+      "name": "A Real Man",
+      "url": "https://open.spotify.com/track/00SU9JMELyhWF2Kn6KQRc7"
+    },
+    {
+      "added_at": "2024-05-24 05:01:32",
+      "album": {
+        "name": "Soon",
+        "url": "https://open.spotify.com/album/22uGI5GA7iyFkry32zZT7t"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Sterling",
+          "url": "https://open.spotify.com/artist/2TX3RFFIqwzwDjFMJN4nV9"
+        }
+      ],
+      "duration_ms": 155675,
+      "name": "Soon",
+      "url": "https://open.spotify.com/track/3J0LxopRLLyLxOVOLouZMr"
+    },
+    {
+      "added_at": "2024-05-24 05:01:47",
+      "album": {
+        "name": "3vil Reflection",
+        "url": "https://open.spotify.com/album/17DbwNYaf8YjmLXSwiKG3M"
+      },
+      "artists": [
+        {
+          "name": "Glokk40Spaz",
+          "url": "https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W"
+        },
+        {
+          "name": "OsamaSon",
+          "url": "https://open.spotify.com/artist/0uj6QiPsPfK8ywLC7uwBE1"
+        }
+      ],
+      "duration_ms": 136281,
+      "name": "Movie",
+      "url": "https://open.spotify.com/track/56nMxD5Hz0gI2E1lDmC0kk"
+    },
+    {
+      "added_at": "2024-05-24 05:02:01",
+      "album": {
+        "name": "Hard To See",
+        "url": "https://open.spotify.com/album/0RkVJHDQpePIHNuViSKQpI"
+      },
+      "artists": [
+        {
+          "name": "Swavy",
+          "url": "https://open.spotify.com/artist/6CHTgEfOTvm5flR5Cpzw0I"
+        }
+      ],
+      "duration_ms": 177230,
+      "name": "Hard To See",
+      "url": "https://open.spotify.com/track/43MPwMnVPoGj3AIItvxdRl"
+    },
     {
       "added_at": "2024-05-17 05:17:34",
       "album": {
@@ -41,90 +213,6 @@
       "url": "https://open.spotify.com/track/74mCnk2QnSTiirhkxxpRNP"
     },
     {
-      "added_at": "2024-05-17 05:18:24",
-      "album": {
-        "name": "Nivel Dios",
-        "url": "https://open.spotify.com/album/4kqA5xSxfGhwH7OubMCZQl"
-      },
-      "artists": [
-        {
-          "name": "Yahritza Y Su Esencia",
-          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
-        },
-        {
-          "name": "Michelle Maciel",
-          "url": "https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6"
-        }
-      ],
-      "duration_ms": 151000,
-      "name": "Nivel Dios",
-      "url": "https://open.spotify.com/track/2fQDPWL8HKiiAC3l95dXJO"
-    },
-    {
-      "added_at": "2024-05-17 05:18:43",
-      "album": {
-        "name": "feel it all",
-        "url": "https://open.spotify.com/album/4foh7Gb8M1UuHGO5Y1InO9"
-      },
-      "artists": [
-        {
-          "name": "Elle Darlington",
-          "url": "https://open.spotify.com/artist/4jASzso2t2zBFIcOZE8O7x"
-        }
-      ],
-      "duration_ms": 177525,
-      "name": "feel it all",
-      "url": "https://open.spotify.com/track/5Rpc2HDYk3C9hcwfS3aPVW"
-    },
-    {
-      "added_at": "2024-05-17 05:18:57",
-      "album": {
-        "name": "Run Inside",
-        "url": "https://open.spotify.com/album/5wv3aoeJwbjgnnEq6XfujK"
-      },
-      "artists": [
-        {
-          "name": "Resentvul",
-          "url": "https://open.spotify.com/artist/6ogEi25sdXxNuKmzXB75nH"
-        }
-      ],
-      "duration_ms": 105244,
-      "name": "Run Inside",
-      "url": "https://open.spotify.com/track/3hU6z9THFwW5Rg3oBd3txr"
-    },
-    {
-      "added_at": "2024-05-17 05:19:18",
-      "album": {
-        "name": "Good Guy",
-        "url": "https://open.spotify.com/album/0RyA2xMwkkHI46spLAOZ5V"
-      },
-      "artists": [
-        {
-          "name": "Cole Phillips",
-          "url": "https://open.spotify.com/artist/2Ew91UUE0bjzHWCEnA8cHy"
-        }
-      ],
-      "duration_ms": 165226,
-      "name": "Good Guy",
-      "url": "https://open.spotify.com/track/0iaXdS4yDgZCXMiV7tuTJP"
-    },
-    {
-      "added_at": "2024-05-17 05:19:30",
-      "album": {
-        "name": "surrender",
-        "url": "https://open.spotify.com/album/0WDBggtAl8PzkzTsvn1Lvk"
-      },
-      "artists": [
-        {
-          "name": "Zevia",
-          "url": "https://open.spotify.com/artist/6z9k3E8sR90LH0N4zyOxUu"
-        }
-      ],
-      "duration_ms": 154177,
-      "name": "surrender",
-      "url": "https://open.spotify.com/track/6xylbEim7Wc6PiEt0QaS7a"
-    },
-    {
       "added_at": "2024-05-13 19:56:22",
       "album": {
         "name": "No Hard Feelings",
@@ -139,70 +227,6 @@
       "duration_ms": 213833,
       "name": "No Shade at Pitti",
       "url": "https://open.spotify.com/track/0Wz5dUk7mkYv57W81E5T7u"
-    },
-    {
-      "added_at": "2024-05-13 19:56:22",
-      "album": {
-        "name": "Built by Broken Hearts",
-        "url": "https://open.spotify.com/album/7JOwEL7RKpB6vdYXH3snG8"
-      },
-      "artists": [
-        {
-          "name": "Matt Stell",
-          "url": "https://open.spotify.com/artist/7EekKnlf2HwNaLLpL9Cpgy"
-        }
-      ],
-      "duration_ms": 193200,
-      "name": "Built by Broken Hearts",
-      "url": "https://open.spotify.com/track/1IvNEs3RfxDNhR2RO7vX2e"
-    },
-    {
-      "added_at": "2024-05-13 19:56:22",
-      "album": {
-        "name": "Picasso",
-        "url": "https://open.spotify.com/album/7aeEAI1j1z0yDnBVaaN967"
-      },
-      "artists": [
-        {
-          "name": "Bradley Simpson",
-          "url": "https://open.spotify.com/artist/3zvWY9gE8cITnJz7vJeDDE"
-        }
-      ],
-      "duration_ms": 196533,
-      "name": "Picasso",
-      "url": "https://open.spotify.com/track/2Bwzb9e5mzm9oZ2zDFx6n3"
-    },
-    {
-      "added_at": "2024-05-13 19:56:22",
-      "album": {
-        "name": "Family Feud",
-        "url": "https://open.spotify.com/album/3GwGPvsD2XJN0M9zAR8dJx"
-      },
-      "artists": [
-        {
-          "name": "Julia Pratt",
-          "url": "https://open.spotify.com/artist/0F9yMp30FUREoa635VLsY8"
-        }
-      ],
-      "duration_ms": 216918,
-      "name": "Michael",
-      "url": "https://open.spotify.com/track/0KLJ25bNfbIVGLrdOYizSJ"
-    },
-    {
-      "added_at": "2024-05-13 19:56:22",
-      "album": {
-        "name": "Nights On Hill",
-        "url": "https://open.spotify.com/album/2vT7ZWBzFpR61FqyB7fxck"
-      },
-      "artists": [
-        {
-          "name": "Swavy",
-          "url": "https://open.spotify.com/artist/6CHTgEfOTvm5flR5Cpzw0I"
-        }
-      ],
-      "duration_ms": 123692,
-      "name": "Nights On Hill",
-      "url": "https://open.spotify.com/track/3jdUCvNWOrhljGFReoZaEm"
     },
     {
       "added_at": "2024-05-13 19:56:22",

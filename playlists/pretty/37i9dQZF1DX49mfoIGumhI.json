@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Vive la salsa de los '80! El Gran Combo de Puerto Rico en portada.",
-  "num_followers": 202590,
+  "num_followers": 202706,
   "original_name": "Salsa: Los '80",
   "owner": {
     "name": "Spotify",
@@ -143,22 +143,6 @@
     {
       "added_at": "2022-12-30 20:18:36",
       "album": {
-        "name": "Solo Salsa",
-        "url": "https://open.spotify.com/album/0demEi0ZeG1Ix9Hi37DS0O"
-      },
-      "artists": [
-        {
-          "name": "Galy Galiano",
-          "url": "https://open.spotify.com/artist/2OSKh2JIKMr66DxByxhwzT"
-        }
-      ],
-      "duration_ms": 290742,
-      "name": "La Cita",
-      "url": "https://open.spotify.com/track/54eCgeI2qOXjAbKwnZ2UK0"
-    },
-    {
-      "added_at": "2022-12-30 20:18:36",
-      "album": {
         "name": "Tiempo pa' Matar",
         "url": "https://open.spotify.com/album/12fkmxSR5zWnxJqCyxDIy5"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 414266,
       "name": "Gitana",
       "url": "https://open.spotify.com/track/4VTb5wB46sZDsfL8XgroGt"
+    },
+    {
+      "added_at": "2022-12-30 20:18:36",
+      "album": {
+        "name": "Solo Salsa",
+        "url": "https://open.spotify.com/album/0demEi0ZeG1Ix9Hi37DS0O"
+      },
+      "artists": [
+        {
+          "name": "Galy Galiano",
+          "url": "https://open.spotify.com/artist/2OSKh2JIKMr66DxByxhwzT"
+        }
+      ],
+      "duration_ms": 290742,
+      "name": "La Cita",
+      "url": "https://open.spotify.com/track/54eCgeI2qOXjAbKwnZ2UK0"
     },
     {
       "added_at": "2022-12-30 20:18:36",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2022-12-30 20:18:36",
       "album": {
+        "name": "Exitos Bailables",
+        "url": "https://open.spotify.com/album/1n1QP3u4JAI4XkxMDd51Fo"
+      },
+      "artists": [
+        {
+          "name": "German Carre\u00f1o Y Su Orquesta",
+          "url": "https://open.spotify.com/artist/6Jd6ScenyoH7n1kvMeLmUY"
+        }
+      ],
+      "duration_ms": 282746,
+      "name": "Vestida De Blanco",
+      "url": "https://open.spotify.com/track/1EwOtt45TzDHOHC2pho6t2"
+    },
+    {
+      "added_at": "2022-12-30 20:18:36",
+      "album": {
         "name": "Sed\u00faceme",
         "url": "https://open.spotify.com/album/3R7986xkYKoYwxc1dRiZxy"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 285600,
       "name": "Esa Mujer",
       "url": "https://open.spotify.com/track/6Hy15JctLui5HYK03s5oT6"
-    },
-    {
-      "added_at": "2022-12-30 20:18:36",
-      "album": {
-        "name": "Exitos Bailables",
-        "url": "https://open.spotify.com/album/1n1QP3u4JAI4XkxMDd51Fo"
-      },
-      "artists": [
-        {
-          "name": "German Carre\u00f1o Y Su Orquesta",
-          "url": "https://open.spotify.com/artist/6Jd6ScenyoH7n1kvMeLmUY"
-        }
-      ],
-      "duration_ms": 282746,
-      "name": "Vestida De Blanco",
-      "url": "https://open.spotify.com/track/1EwOtt45TzDHOHC2pho6t2"
     },
     {
       "added_at": "2022-12-30 20:18:36",

@@ -4,7 +4,7 @@
 
 > Sad songs 4 sad days.
 
-266 songs - 15 hr 15 min
+267 songs - 15 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,7 @@
 | [El Mismo Aire](https://open.spotify.com/track/3a29UVSEIj6x3YcfKs2rdi) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Por Primera Vez](https://open.spotify.com/album/6xS6mQz1fQZ6eZE654J15I) | 3:06 | 2021-12-06 | 2024-05-17 |
 | [El Que Olvida](https://open.spotify.com/track/69dW5grE2KVwjl0ACruk0k) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD) | [Circo Soledad](https://open.spotify.com/album/3MYtBNFvuGUSEIi2Sfwl2w) | 3:51 | 2021-12-06 | 2024-05-17 |
 | [En Algún Momento \(Ahora No\)](https://open.spotify.com/track/4LqkF0XoUPjOk7mykwuHit) | [Johan Sotelo](https://open.spotify.com/artist/4EgDDojMyrVB4MxP7nAevd) | [En Algún Momento \(Ahora No\)](https://open.spotify.com/album/2EYXnk2ySeQzxVzhccNQxh) | 2:43 | 2021-12-06 | 2022-07-28 |
-| [en la ciudad](https://open.spotify.com/track/5smdosXwKG5czbMDXqRtc7) | [Mario Puglia](https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT), [dóntia](https://open.spotify.com/artist/6otFL2m5sOProVKidtkpyx) | [en la ciudad](https://open.spotify.com/album/6FC9OVa2vFyot2dp23GdiM) | 3:31 | 2024-05-16 |  |
+| [en la ciudad](https://open.spotify.com/track/5smdosXwKG5czbMDXqRtc7) | [Mario Puglia](https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT), [dóntia](https://open.spotify.com/artist/6otFL2m5sOProVKidtkpyx) | [en la ciudad](https://open.spotify.com/album/6FC9OVa2vFyot2dp23GdiM) | 3:31 | 2024-05-16 | 2024-05-25 |
 | [Enamórate De Alguien Más](https://open.spotify.com/track/1pDgS6HDNrrIawdhYEvI0s) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [¿A Dónde Vamos?](https://open.spotify.com/album/01R2vYq9iDhn4ZXtM5dd7i) | 3:49 | 2023-01-06 | 2024-05-17 |
 | [Estallo al Mundo](https://open.spotify.com/track/0y7gCUeZFDSjleaqyZCXhK) | [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay) | [Estallo al Mundo](https://open.spotify.com/album/4Ctoc7zT5X8dGDk3G7GAq7) | 3:31 | 2021-12-06 | 2022-05-25 |
 | [Evergreen \(You Didn’t Deserve Me At All\)](https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:36 | 2024-05-16 |  |
@@ -137,6 +137,7 @@
 | [Me Va a Extrañar \(Unchain My Heart\)](https://open.spotify.com/track/35436ddSANnATz1eBT5FAY) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [Ricardo Montaner Con La London Metropolitan Orchestra](https://open.spotify.com/album/7dI1jAbtx6nFn2rcQKVPFE) | 4:58 | 2021-12-06 | 2024-05-17 |
 | [Me vas a ver](https://open.spotify.com/track/5BhSZWrUa5xkZ2K7Ze5fVT) | [Beret](https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl) | [Me vas a ver](https://open.spotify.com/album/2fQQrxHLh19ZQGFLOGBc2X) | 2:15 | 2021-12-06 | 2024-05-17 |
 | [Mentimos](https://open.spotify.com/track/5pxWQmhgxd2Rjtp5bkGaSM) | [Debi Nova](https://open.spotify.com/artist/5zaG384VZzAb6AMfEnSy2r) | [3:33](https://open.spotify.com/album/2uQbBt3Ot0Qpj6grNS11bK) | 4:07 | 2021-12-06 | 2022-06-23 |
+| [Mi Corazón](https://open.spotify.com/track/7vjG5IXd5ApgPTEVjo8zJu) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Mi Corazón](https://open.spotify.com/album/5e8zaDNGYEs72yRCuPrr4w) | 2:44 | 2024-05-24 |  |
 | [Mi Mejor Despedida](https://open.spotify.com/track/7zhw8ovSA2cDrJehxI1TZh) | [Manel Navarro](https://open.spotify.com/artist/2JPHexLGEM1hT0Jli8rztQ), [Funambulista](https://open.spotify.com/artist/16UAI1WxiKCIKd4NHtFt2U) | [Mi Mejor Despedida](https://open.spotify.com/album/4GZGJXcjbA1CRcw8Z5Ma5s) | 3:15 | 2021-12-06 | 2022-07-28 |
 | [mi momento](https://open.spotify.com/track/5P9a5jGMKjVU2rixgF5C3o) | [céro](https://open.spotify.com/artist/5AiFFE0KopBkOzEZeDbSaH) | [mi momento](https://open.spotify.com/album/35AJvGtijtlB8DlJSeipjo) | 2:10 | 2024-05-17 |  |
 | [Modo Ofendida](https://open.spotify.com/track/2lBEp7EJ7BfgkAqStAu0BE) | [Lucah](https://open.spotify.com/artist/2L0nCuTUHFPHC3Y8uqbUKw) | [Modo Ofendida](https://open.spotify.com/album/4BodBh6T2yaVLoANvzjWBB) | 3:15 | 2021-12-06 | 2022-07-07 |

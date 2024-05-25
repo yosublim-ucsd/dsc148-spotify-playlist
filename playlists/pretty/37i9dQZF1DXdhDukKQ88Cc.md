@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 
 > <a href="spotify:artist:1YwMnnHvnG64fJxYSVwmN6">Branco</a> takker af med kronen på værket 🏆 <a href="spotify:album:16y1M4Dnrqiodnk8KvRhLf">BABA BUISNESS 3</a> 🏆 kig med i story 👀
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,490 likes - 53 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,561 likes - 53 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 | 2 | [De Her Timer](https://open.spotify.com/track/2DDTfTNiglWtbbqUsQ1RJt) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [De Her Timer](https://open.spotify.com/album/1gEllZRCBqHP0HhbJyTezA) | 3:28 |
 | 3 | [OCHO](https://open.spotify.com/track/2wPGyAND3tFUfR4weYWmuz) | [Merro8](https://open.spotify.com/artist/5LcNaarbF34TMSkVLE7YQc) | [OCHO](https://open.spotify.com/album/6qNTf2SSU5LesB8d8w63if) | 2:54 |
 | 4 | [Året Ud \(feat\. KESI & Noah Carter\)](https://open.spotify.com/track/2aehSqz7mLvJ4Sp7UtpN5m) | [Kimbo](https://open.spotify.com/artist/4a88Q5HOh8FSXQ1gPcQu2U), [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE), [Noah Carter](https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp) | [Året Ud \(feat\. KESI & Noah Carter\)](https://open.spotify.com/album/0II9bww0pk1x5lPvocJRbl) | 2:29 |
-| 5 | [MAGIC AIRLINES](https://open.spotify.com/track/2BwK0nlKXl065pfHhbEoCy) | [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6), [Blæst](https://open.spotify.com/artist/3elCsuJ1JjDeAd8mjlRRX5) | [BABA BUSINESS 3](https://open.spotify.com/album/16y1M4Dnrqiodnk8KvRhLf) | 2:43 |
+| 5 | [MAGIC AIRLINES \(feat\. Blæst\)](https://open.spotify.com/track/2BwK0nlKXl065pfHhbEoCy) | [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6), [Blæst](https://open.spotify.com/artist/3elCsuJ1JjDeAd8mjlRRX5) | [BABA BUSINESS 3](https://open.spotify.com/album/16y1M4Dnrqiodnk8KvRhLf) | 2:43 |
 | 6 | [Balaclava](https://open.spotify.com/track/0GSoForoOEUELr6W30bDpp) | [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt) | [Balaclava](https://open.spotify.com/album/03R0VwOAvruUcU4S6C4VgE) | 2:29 |
 | 7 | [Chanel Freestyle](https://open.spotify.com/track/5LAsl3k0Vas49Pnoj9GJr3) | [Anton Westerlin](https://open.spotify.com/artist/5NYUb39ntjgN7cRtN4y25T), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [Chanel Freestyle](https://open.spotify.com/album/19GP2Hpfv764Wi35GNrbvz) | 2:06 |
 | 8 | [10/10](https://open.spotify.com/track/58Jj3c8s3JHbHw424dK2bv) | [Lord Siva](https://open.spotify.com/artist/5SwsSD9zyWaWeVyK9qIW9l) | [Blåregn / 10/10](https://open.spotify.com/album/6BPaKbKBo3mbcgsNl1o3mh) | 2:18 |

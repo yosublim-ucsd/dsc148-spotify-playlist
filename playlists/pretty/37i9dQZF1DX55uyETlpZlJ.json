@@ -1,12 +1,12 @@
 {
   "description": "Catch up with the Indie Songs from 'namma ooru'\nCover :Rahul Dit-O",
-  "num_followers": 23097,
+  "num_followers": 23098,
   "original_name": "Kannada Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zkwz5QAAAADekm4W7rkW/osppzqvhH/9",
+  "snapshot_id": "ZlBE5gAAAAB+6fGheh5PzGv6jwhoeTVt",
   "tracks": [
     {
       "added_at": "2024-04-26 12:05:14",
@@ -91,6 +91,22 @@
       "duration_ms": 186186,
       "name": "Oo Jeevave",
       "url": "https://open.spotify.com/track/3oVtDUiXOdiJNeZ9GdkE7Q"
+    },
+    {
+      "added_at": "2024-05-24 07:42:30",
+      "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/2yVUXFVHUNWFFJ8f571ltz"
+      },
+      "artists": [
+        {
+          "name": "Adhvik",
+          "url": "https://open.spotify.com/artist/7Brq4omogaIOJiHqQwIgnV"
+        }
+      ],
+      "duration_ms": 211555,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/6fTBrgN6MgDU4wsjv1jewf"
     },
     {
       "added_at": "2024-05-13 06:23:59",
@@ -1423,30 +1439,6 @@
       "duration_ms": 354860,
       "name": "Enagide Nanna Hrudaya",
       "url": "https://open.spotify.com/track/4KEF69Otx6MOJOy6QYKQDz"
-    },
-    {
-      "added_at": "2023-12-13 13:02:40",
-      "album": {
-        "name": "Masada Itti Mosada Maccha",
-        "url": "https://open.spotify.com/album/3uPYwCGaIzR559lUCGt9bZ"
-      },
-      "artists": [
-        {
-          "name": "Jassie Gift",
-          "url": "https://open.spotify.com/artist/3cowxATurZfjWsJC4uEHsl"
-        },
-        {
-          "name": "Praveen Kadapatti",
-          "url": "https://open.spotify.com/artist/3g5LvlyMO7x7Pn0sCIFvst"
-        },
-        {
-          "name": "Malu Nipanal Singer",
-          "url": "https://open.spotify.com/artist/1neweBRDB8wCNzQjUYmJwx"
-        }
-      ],
-      "duration_ms": 393572,
-      "name": "Masada Itti Mosada Maccha",
-      "url": "https://open.spotify.com/track/06UZsfaWjMjcmsd3DI2Dln"
     }
   ],
   "unique_name": "Kannada Indie",

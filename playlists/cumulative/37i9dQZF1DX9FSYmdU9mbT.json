@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Os grandes artistas da MPB. Foto: MPB4",
+  "description": "Os grandes artistas da MPB. Foto: Silva",
   "name": "O Melhor da MPB",
   "tracks": [
     {
@@ -194,6 +194,28 @@
       "duration_ms": 180258,
       "name": "Ang\u00e9lica",
       "url": "https://open.spotify.com/track/1LjfrlwvGYyYxFEWbUzjWS"
+    },
+    {
+      "album": {
+        "name": "Real Grandeza",
+        "url": "https://open.spotify.com/album/3usj8jb2F3lbhlwH3xAQ3Z"
+      },
+      "artists": [
+        {
+          "name": "Jards Macal\u00e9",
+          "url": "https://open.spotify.com/artist/11dkvirvWFnfNUsaGVvObg"
+        },
+        {
+          "name": "Adriana Calcanhotto",
+          "url": "https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195853,
+      "name": "Anjo Exterminado",
+      "url": "https://open.spotify.com/track/65ih3kBtkXPjtJUuT2A8rk"
     },
     {
       "album": {
@@ -878,6 +900,28 @@
       "duration_ms": 383706,
       "name": "Constru\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/1ECean5dVz7mYQ07mdVGKT"
+    },
+    {
+      "album": {
+        "name": "Encantado",
+        "url": "https://open.spotify.com/album/6TkreSvzyI1lQbkP2oxIkX"
+      },
+      "artists": [
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        },
+        {
+          "name": "Marcos Valle",
+          "url": "https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159331,
+      "name": "Copo D'\u00c1gua",
+      "url": "https://open.spotify.com/track/5e2970I7TJmZxEeFFnQnH7"
     },
     {
       "album": {

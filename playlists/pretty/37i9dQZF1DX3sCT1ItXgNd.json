@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor del pop en espa\u00f1ol. Foto: Rauw Alejandro",
-  "num_followers": 961973,
+  "num_followers": 962021,
   "original_name": "Pop con \u00d1",
   "owner": {
     "name": "Spotify",
@@ -403,22 +403,22 @@
     {
       "added_at": "2024-05-24 00:01:00",
       "album": {
-        "name": "FINAL (Vol.2)",
-        "url": "https://open.spotify.com/album/5LHd4piJoHcz4CXhjsFKxx"
+        "name": "La Raz\u00f3n",
+        "url": "https://open.spotify.com/album/1BfH1Sen3V361yL4Yck3Rg"
       },
       "artists": [
         {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+          "name": "Ana Mena",
+          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
         },
         {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+          "name": "GALE",
+          "url": "https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM"
         }
       ],
-      "duration_ms": 186366,
-      "name": "La Botella",
-      "url": "https://open.spotify.com/track/5zkZazxkRze7ub2fT8Xv8u"
+      "duration_ms": 162906,
+      "name": "La Raz\u00f3n",
+      "url": "https://open.spotify.com/track/3CmSv76KDKsvtiyrdgHZHH"
     },
     {
       "added_at": "2024-05-24 00:01:00",
@@ -443,22 +443,22 @@
     {
       "added_at": "2024-05-24 00:01:00",
       "album": {
-        "name": "La Raz\u00f3n",
-        "url": "https://open.spotify.com/album/1BfH1Sen3V361yL4Yck3Rg"
+        "name": "FINAL (Vol.2)",
+        "url": "https://open.spotify.com/album/5LHd4piJoHcz4CXhjsFKxx"
       },
       "artists": [
         {
-          "name": "Ana Mena",
-          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
         },
         {
-          "name": "GALE",
-          "url": "https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM"
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
         }
       ],
-      "duration_ms": 162906,
-      "name": "La Raz\u00f3n",
-      "url": "https://open.spotify.com/track/3CmSv76KDKsvtiyrdgHZHH"
+      "duration_ms": 186366,
+      "name": "La Botella",
+      "url": "https://open.spotify.com/track/5zkZazxkRze7ub2fT8Xv8u"
     },
     {
       "added_at": "2024-05-24 00:01:00",
@@ -591,6 +591,26 @@
     {
       "added_at": "2024-05-24 00:01:00",
       "album": {
+        "name": "El Viaje",
+        "url": "https://open.spotify.com/album/4iQQnrUj7fhHgw2iOGTvpU"
+      },
+      "artists": [
+        {
+          "name": "Luis Fonsi",
+          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
+        },
+        {
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        }
+      ],
+      "duration_ms": 200520,
+      "name": "Santa Marta",
+      "url": "https://open.spotify.com/track/4XIpKXTvQ3Wa94C2zsYfV1"
+    },
+    {
+      "added_at": "2024-05-24 00:01:00",
+      "album": {
         "name": "Sin Filtro",
         "url": "https://open.spotify.com/album/5FFN7Ju1YOxdSBcbO7Iqs5"
       },
@@ -627,26 +647,6 @@
       "duration_ms": 187240,
       "name": "Ella",
       "url": "https://open.spotify.com/track/1DPtfQYOFB9IAEk1o4qBmS"
-    },
-    {
-      "added_at": "2024-05-24 00:01:00",
-      "album": {
-        "name": "El Viaje",
-        "url": "https://open.spotify.com/album/4iQQnrUj7fhHgw2iOGTvpU"
-      },
-      "artists": [
-        {
-          "name": "Luis Fonsi",
-          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
-        },
-        {
-          "name": "Carlos Vives",
-          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
-        }
-      ],
-      "duration_ms": 200520,
-      "name": "Santa Marta",
-      "url": "https://open.spotify.com/track/4XIpKXTvQ3Wa94C2zsYfV1"
     },
     {
       "added_at": "2024-05-24 00:01:00",
@@ -735,42 +735,6 @@
     {
       "added_at": "2024-05-24 00:01:00",
       "album": {
-        "name": "Lo Dejo Todo",
-        "url": "https://open.spotify.com/album/2PKNKFGJWr9Dups2cYlwnX"
-      },
-      "artists": [
-        {
-          "name": "Mar Lucas",
-          "url": "https://open.spotify.com/artist/7K5OqI5GnphpZMfIRs2UsI"
-        },
-        {
-          "name": "Antonio Jos\u00e9",
-          "url": "https://open.spotify.com/artist/1dbp04JzZ81JXlMGupCnJ8"
-        }
-      ],
-      "duration_ms": 159163,
-      "name": "Lo Dejo Todo",
-      "url": "https://open.spotify.com/track/5b6VY0fZS7671s4vPZ8Ob4"
-    },
-    {
-      "added_at": "2024-05-24 00:01:00",
-      "album": {
-        "name": "TE TRAJE FLORES",
-        "url": "https://open.spotify.com/album/4TFyBwPFFulgy4cPKfeuxA"
-      },
-      "artists": [
-        {
-          "name": "Enol",
-          "url": "https://open.spotify.com/artist/5f7z2thkqWrA4vp5Hh476O"
-        }
-      ],
-      "duration_ms": 177103,
-      "name": "COMO TE QUIERO YO",
-      "url": "https://open.spotify.com/track/5ElBS8iZQYjScNJCtwLXKO"
-    },
-    {
-      "added_at": "2024-05-24 00:01:00",
-      "album": {
         "name": "Copita Champagne",
         "url": "https://open.spotify.com/album/6u333hTQgleC2pzoNvBKcU"
       },
@@ -787,6 +751,22 @@
       "duration_ms": 163000,
       "name": "Copita Champagne",
       "url": "https://open.spotify.com/track/3xvnCTCFA6Ntd5gKLfKnmW"
+    },
+    {
+      "added_at": "2024-05-24 00:01:00",
+      "album": {
+        "name": "TE TRAJE FLORES",
+        "url": "https://open.spotify.com/album/4TFyBwPFFulgy4cPKfeuxA"
+      },
+      "artists": [
+        {
+          "name": "Enol",
+          "url": "https://open.spotify.com/artist/5f7z2thkqWrA4vp5Hh476O"
+        }
+      ],
+      "duration_ms": 177103,
+      "name": "COMO TE QUIERO YO",
+      "url": "https://open.spotify.com/track/5ElBS8iZQYjScNJCtwLXKO"
     },
     {
       "added_at": "2024-05-24 00:01:00",
@@ -811,6 +791,26 @@
       "duration_ms": 204492,
       "name": "Frenes\u00ed",
       "url": "https://open.spotify.com/track/3XTmOwWk9zGehWbMzvOnex"
+    },
+    {
+      "added_at": "2024-05-24 00:01:00",
+      "album": {
+        "name": "Lo Dejo Todo",
+        "url": "https://open.spotify.com/album/2PKNKFGJWr9Dups2cYlwnX"
+      },
+      "artists": [
+        {
+          "name": "Mar Lucas",
+          "url": "https://open.spotify.com/artist/7K5OqI5GnphpZMfIRs2UsI"
+        },
+        {
+          "name": "Antonio Jos\u00e9",
+          "url": "https://open.spotify.com/artist/1dbp04JzZ81JXlMGupCnJ8"
+        }
+      ],
+      "duration_ms": 159163,
+      "name": "Lo Dejo Todo",
+      "url": "https://open.spotify.com/track/5b6VY0fZS7671s4vPZ8Ob4"
     },
     {
       "added_at": "2024-05-24 00:01:00",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-10-07",
-  "description": "Chillout hip-hop vibes. Cover: Joyner Lucas",
+  "description": "Chillout hip-hop vibes. Cover: Vince Staples",
   "name": "Mellow Bars",
   "tracks": [
     {
@@ -5036,7 +5036,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 147455,
       "name": "Doves",
       "url": "https://open.spotify.com/track/39UI3Q3AInxMEZQRqjSec9"
@@ -6523,6 +6523,24 @@
     },
     {
       "album": {
+        "name": "Dark Times",
+        "url": "https://open.spotify.com/album/30BFY5VHii4PyWqkTubUWX"
+      },
+      "artists": [
+        {
+          "name": "Vince Staples",
+          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154950,
+      "name": "Freeman",
+      "url": "https://open.spotify.com/track/4Zg0lLdrF1IJ32IOOZBHGr"
+    },
+    {
+      "album": {
         "name": "Decisions",
         "url": "https://open.spotify.com/album/1wXA0CPAKjjqonYux7JJvC"
       },
@@ -7625,6 +7643,32 @@
     },
     {
       "album": {
+        "name": "3FOR82",
+        "url": "https://open.spotify.com/album/5bOzaa9qvH7q8rEl3fg5nE"
+      },
+      "artists": [
+        {
+          "name": "Machinedrum",
+          "url": "https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4"
+        },
+        {
+          "name": "AKTHESAVIOR",
+          "url": "https://open.spotify.com/artist/1RlBttuJAY33jcaL1TOlUw"
+        },
+        {
+          "name": "Deniro Farrar",
+          "url": "https://open.spotify.com/artist/3xXtYXTUWYuJpJXub1Up5p"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143630,
+      "name": "HEAL",
+      "url": "https://open.spotify.com/track/4pvB37YDfHY3DHXWSzCKim"
+    },
+    {
+      "album": {
         "name": "SUNDAY DINNER",
         "url": "https://open.spotify.com/album/43C9qcFuylC5QjGspwpqTl"
       },
@@ -8516,7 +8560,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 265076,
       "name": "Imagine",
       "url": "https://open.spotify.com/track/73wXgS33gR5XYBsIm2SUCd"
@@ -9132,6 +9176,24 @@
       "duration_ms": 126245,
       "name": "Just What it Seem",
       "url": "https://open.spotify.com/track/1EX11t2KcrBqQmi5v3AyuG"
+    },
+    {
+      "album": {
+        "name": "Dark Times",
+        "url": "https://open.spotify.com/album/30BFY5VHii4PyWqkTubUWX"
+      },
+      "artists": [
+        {
+          "name": "Vince Staples",
+          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124231,
+      "name": "Justin",
+      "url": "https://open.spotify.com/track/3hKvzj76LffbRbzdM8Grof"
     },
     {
       "album": {
@@ -9764,6 +9826,28 @@
       "duration_ms": 194289,
       "name": "Life & Times",
       "url": "https://open.spotify.com/track/72yDZnVtbbtfWLYWvonF9f"
+    },
+    {
+      "album": {
+        "name": "You're All Welcome",
+        "url": "https://open.spotify.com/album/5BcQD4NjrX8CnnFHY023wV"
+      },
+      "artists": [
+        {
+          "name": "Smoke DZA",
+          "url": "https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd"
+        },
+        {
+          "name": "DJ RELLYRELL",
+          "url": "https://open.spotify.com/artist/2ZhgI73DhMmguqiE6Uc2J3"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206851,
+      "name": "Life Goals",
+      "url": "https://open.spotify.com/track/1a6umRqovO240DFN3xCEVf"
     },
     {
       "album": {
@@ -10586,7 +10670,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 267175,
       "name": "Meanwhile",
       "url": "https://open.spotify.com/track/6MUraCPaGkI8FG3KlWNHJk"
@@ -10604,7 +10688,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 160628,
       "name": "Meet Me In Napa",
       "url": "https://open.spotify.com/track/6dICrSO1wQgnNGRY9O1YWT"
@@ -11766,7 +11850,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 142000,
       "name": "On Mine",
       "url": "https://open.spotify.com/track/2hPM60BDGZvWTYZA7f1Z0e"
@@ -13831,6 +13915,28 @@
     },
     {
       "album": {
+        "name": "SALAD",
+        "url": "https://open.spotify.com/album/0xkWdFSnZVaHICeiGyiVIY"
+      },
+      "artists": [
+        {
+          "name": "Obl\u00e9 Reed",
+          "url": "https://open.spotify.com/artist/4drP7GL5gdmNowIgcunWgn"
+        },
+        {
+          "name": "ARDN",
+          "url": "https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173176,
+      "name": "SALAD",
+      "url": "https://open.spotify.com/track/29fUrdzF1FqIhk0ZWxyyby"
+    },
+    {
+      "album": {
         "name": "Samurai",
         "url": "https://open.spotify.com/album/1xG63QNNCiQvy0PERgfpaH"
       },
@@ -14182,6 +14288,24 @@
       "duration_ms": 208599,
       "name": "Shakedown",
       "url": "https://open.spotify.com/track/4Ba1J8qxhOWi1ihiyaFQk9"
+    },
+    {
+      "album": {
+        "name": "Shame On The Devil",
+        "url": "https://open.spotify.com/album/4uQDzFAaXpBDBIkwhJQo8T"
+      },
+      "artists": [
+        {
+          "name": "Vince Staples",
+          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205287,
+      "name": "Shame On The Devil",
+      "url": "https://open.spotify.com/track/6nEikEkWTXZ4SiZvUOAqND"
     },
     {
       "album": {
@@ -17324,7 +17448,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 150000,
       "name": "Vanilla Sky",
       "url": "https://open.spotify.com/track/0JAoQHaj0XY64ElsGshZc2"

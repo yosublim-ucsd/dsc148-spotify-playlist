@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GUbRHVEX42.md) - [plain]
 
 > The best of current & contemporary Reggae\. Welcome To Jamrock Reggae Cruise\. Cover: Kabaka Pyramid
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,114,676 likes - 70 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,114,680 likes - 70 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,15 +67,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GUbRHVEX42.md) - [plain]
 | 57 | [Helping Hand \(with Anthony B\)](https://open.spotify.com/track/6PjLeKjVLdN76GcBcDXn82) | [Irie Souljah](https://open.spotify.com/artist/1Qfee1zwAFUrtaaPMbkpsw), [Anthony B](https://open.spotify.com/artist/7Lij2ZLJJQOfGojVR3Wmqa) | [Thankful \(with Chronic Law\)](https://open.spotify.com/album/5LM9OTMQ4ub6exdf9E8h23) | 4:13 |
 | 58 | [Final Warning](https://open.spotify.com/track/1jBmIONvgPrALQhRL6AgHe) | [Max Romeo](https://open.spotify.com/artist/45QpZznbXYo3nWy0TIhvgv), [Skank N Prod](https://open.spotify.com/artist/4rK98VLS3BkgpGFeWO6OI0) | [Final Warning](https://open.spotify.com/album/7lLoUQrpBTGAfW4Wu7cqmk) | 3:42 |
 | 59 | [Dirty Money](https://open.spotify.com/track/0beUa4YmnC5oMtWqzoeNYt) | [Jesse Royal](https://open.spotify.com/artist/4aXUVIuNCDbLoRAYfuVDi1), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Dirty Money](https://open.spotify.com/album/04Och1XUiZ5tcwFRcTwAx5) | 4:13 |
-| 60 | [Message Of Love](https://open.spotify.com/track/3Vr6JTctfPeDOVAEc6TJbj) | [UB40](https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5), [House of Shem](https://open.spotify.com/artist/2ERWeFslDVHB4E9pSSw845) | [Message Of Love](https://open.spotify.com/album/1lLiwJF55HL5rfIZLD09Ve) | 3:08 |
-| 61 | [Fill My Cup](https://open.spotify.com/track/58PFZiGVblDkRgiFbsCXTm) | [Iotosh](https://open.spotify.com/artist/5IzolPBJ2JFhc2NeNA8Log) | [Fill My Cup](https://open.spotify.com/album/5GjpNkfPldpQpyqH8UgOrE) | 3:22 |
+| 60 | [Fill My Cup](https://open.spotify.com/track/58PFZiGVblDkRgiFbsCXTm) | [Iotosh](https://open.spotify.com/artist/5IzolPBJ2JFhc2NeNA8Log) | [Fill My Cup](https://open.spotify.com/album/5GjpNkfPldpQpyqH8UgOrE) | 3:22 |
+| 61 | [Message Of Love](https://open.spotify.com/track/3Vr6JTctfPeDOVAEc6TJbj) | [UB40](https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5), [House of Shem](https://open.spotify.com/artist/2ERWeFslDVHB4E9pSSw845) | [Message Of Love](https://open.spotify.com/album/1lLiwJF55HL5rfIZLD09Ve) | 3:08 |
 | 62 | [Oh Jah](https://open.spotify.com/track/74iQyrji8Tbu5VDffj9rgZ) | [Jah Cure](https://open.spotify.com/artist/1bSn5aMcE83TXLlLDU9rTy), [Ireland Boss](https://open.spotify.com/artist/3JoZVMSSVzYhhMQ5dthRuT) | [Oh Jah](https://open.spotify.com/album/7aVMzB3MdZyZkLXu7pJ1Oj) | 4:01 |
 | 63 | [If You Know](https://open.spotify.com/track/1BGk2pZMRXI9T3tTPgKKtf) | [Romain Virgo](https://open.spotify.com/artist/6HCIRVlJ8tvmKPAtFnxyFg) | [If You Know](https://open.spotify.com/album/5xlc1ipBEgREqACGiNI8rt) | 3:51 |
 | 64 | [Mama's Prayer](https://open.spotify.com/track/12zOHhw84rjzStFU9EJDgs) | [Zagga](https://open.spotify.com/artist/7kxhAigiReN4qjtyOZPeg5) | [Mama's Prayer](https://open.spotify.com/album/1VG17Zkbog3ddUDLcu5P43) | 3:14 |
 | 65 | [1865 \(96 Degrees In The Shade\) \[Re\-Recorded\]](https://open.spotify.com/track/4tI7IW2L7UfI052FOwgS5N) | [Third World](https://open.spotify.com/artist/6qfKnsgz1CwyqA7lTdieRJ) | [1865 \(96 Degrees In The Shade\) \[Re\-Recorded\] \[Acapella\] \- Single](https://open.spotify.com/album/7MU0ZWUVRON6MvGzA3sHMb) | 4:18 |
 | 66 | [Woman](https://open.spotify.com/track/6N37hPucYSTkj59pOnOkuW) | [The Kemist](https://open.spotify.com/artist/1HvF89QVwGlk74nQZC6MCG), [Gentleman](https://open.spotify.com/artist/5tlNJfV9UIpgnbWmvUEFu7) | [Woman](https://open.spotify.com/album/1xKNKZOiZkU4GWPfpfPGNV) | 3:18 |
-| 67 | [How Could You](https://open.spotify.com/track/3Sag8mEE8Kh22DQs9jaraT) | [Christopher Martin](https://open.spotify.com/artist/3dXC1YPbnQPsfHPVkm1ipj) | [Six Miles Riddim](https://open.spotify.com/album/26F2DJwryT3drRoc3EVuby) | 3:47 |
-| 68 | [Moonage Daydream](https://open.spotify.com/track/01jTcKw2oL7Ho0J3wvkR7e) | [Easy Star All\-Stars](https://open.spotify.com/artist/5FWTu1MZdB5fjKif2rZldJ), [Naomi Cowan](https://open.spotify.com/artist/129TLJBvb1WfwaaBsSIH1m) | [Moonage Daydream](https://open.spotify.com/album/7B4rzkIjVtGyxPEGYUgizu) | 4:33 |
+| 67 | [Moonage Daydream](https://open.spotify.com/track/01jTcKw2oL7Ho0J3wvkR7e) | [Easy Star All\-Stars](https://open.spotify.com/artist/5FWTu1MZdB5fjKif2rZldJ), [Naomi Cowan](https://open.spotify.com/artist/129TLJBvb1WfwaaBsSIH1m) | [Moonage Daydream](https://open.spotify.com/album/7B4rzkIjVtGyxPEGYUgizu) | 4:33 |
+| 68 | [How Could You](https://open.spotify.com/track/3Sag8mEE8Kh22DQs9jaraT) | [Christopher Martin](https://open.spotify.com/artist/3dXC1YPbnQPsfHPVkm1ipj) | [Six Miles Riddim](https://open.spotify.com/album/26F2DJwryT3drRoc3EVuby) | 3:47 |
 | 69 | [Thankful \(with Chronic Law\)](https://open.spotify.com/track/2jDpWZDhwfWyJjGWLN43MB) | [Irie Souljah](https://open.spotify.com/artist/1Qfee1zwAFUrtaaPMbkpsw), [Chronic Law](https://open.spotify.com/artist/3zorWCDx017sz4UYP2fC9w) | [Thankful \(with Chronic Law\)](https://open.spotify.com/album/5LM9OTMQ4ub6exdf9E8h23) | 2:13 |
 | 70 | [Girl I Love You](https://open.spotify.com/track/66kyTVEzClMpjQ5FeddhCu) | [I Wayne](https://open.spotify.com/artist/3HQIkVkhoARQMb0XlvyUKL) | [Girl I Love You](https://open.spotify.com/album/4hAf0zZXenvIJvQvecUjeV) | 4:13 |
 

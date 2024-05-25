@@ -1,6 +1,6 @@
 {
   "description": "Rel\u00e1jate con tus canciones favoritas en versi\u00f3n ac\u00fastica / Descontrai com vers\u00f5es ac\u00fasticas das tuas m\u00fasicas preferidas.",
-  "num_followers": 926769,
+  "num_followers": 926868,
   "original_name": "Hits ac\u00fasticos",
   "owner": {
     "name": "Spotify",
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-11-30 18:27:42",
       "album": {
-        "name": "Spotify Sessions - Long Way Down",
-        "url": "https://open.spotify.com/album/3801iWIKMAQT9FRuEoJCXN"
-      },
-      "artists": [
-        {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        }
-      ],
-      "duration_ms": 257266,
-      "name": "Another Love - Live from Spotify (SXSW)",
-      "url": "https://open.spotify.com/track/0rhJ30qQSus6Ckn3hKZ6Hr"
-    },
-    {
-      "added_at": "2023-11-30 18:27:42",
-      "album": {
         "name": "We Can't Stop (Acoustic)",
         "url": "https://open.spotify.com/album/1KfszzDrkQINyxI5oUgCxk"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 178490,
       "name": "We Can't Stop - Acoustic",
       "url": "https://open.spotify.com/track/2nYRexPm8vndayCOHgbovU"
+    },
+    {
+      "added_at": "2023-11-30 18:27:42",
+      "album": {
+        "name": "Spotify Sessions - Long Way Down",
+        "url": "https://open.spotify.com/album/3801iWIKMAQT9FRuEoJCXN"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "duration_ms": 257266,
+      "name": "Another Love - Live from Spotify (SXSW)",
+      "url": "https://open.spotify.com/track/0rhJ30qQSus6Ckn3hKZ6Hr"
     },
     {
       "added_at": "2023-11-30 18:27:42",
@@ -879,22 +879,6 @@
     {
       "added_at": "2023-11-30 18:27:42",
       "album": {
-        "name": "\u4e3a\u7231\u505a\u7684\u4e00\u5207",
-        "url": "https://open.spotify.com/album/019FOSKZXxS56quC2Wmb1K"
-      },
-      "artists": [
-        {
-          "name": "Joanna Wang",
-          "url": "https://open.spotify.com/artist/1km0aro5NJuoX5dE0Mub5C"
-        }
-      ],
-      "duration_ms": 225053,
-      "name": "Wild World - Acoustic Version",
-      "url": "https://open.spotify.com/track/0ZWSpn7UgqAp4exbKEUD5g"
-    },
-    {
-      "added_at": "2023-11-30 18:27:42",
-      "album": {
         "name": "Why Worry: A Collection of Covers",
         "url": "https://open.spotify.com/album/2XB49bxOGV2L6tz6vkwRjT"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 245906,
       "name": "Landslide",
       "url": "https://open.spotify.com/track/2AhqPhQ4E1r9v2i2TfJHR0"
+    },
+    {
+      "added_at": "2023-11-30 18:27:42",
+      "album": {
+        "name": "\u4e3a\u7231\u505a\u7684\u4e00\u5207",
+        "url": "https://open.spotify.com/album/019FOSKZXxS56quC2Wmb1K"
+      },
+      "artists": [
+        {
+          "name": "Joanna Wang",
+          "url": "https://open.spotify.com/artist/1km0aro5NJuoX5dE0Mub5C"
+        }
+      ],
+      "duration_ms": 225053,
+      "name": "Wild World - Acoustic Version",
+      "url": "https://open.spotify.com/track/0ZWSpn7UgqAp4exbKEUD5g"
     },
     {
       "added_at": "2023-11-30 18:27:42",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2023-11-30 18:27:42",
       "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/3AkgNcAjPBlz6PGzgHpDYU"
-      },
-      "artists": [
-        {
-          "name": "Tore",
-          "url": "https://open.spotify.com/artist/1GZrKwVL73MyDEr4bR9sRk"
-        }
-      ],
-      "duration_ms": 245780,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/4JrV4NJ4ChSoxBTEIb0D7F"
-    },
-    {
-      "added_at": "2023-11-30 18:27:42",
-      "album": {
         "name": "Scars To Your Beautiful",
         "url": "https://open.spotify.com/album/7lwdqOUtzxHH7wxUHtFffj"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 237857,
       "name": "Scars To Your Beautiful",
       "url": "https://open.spotify.com/track/19f6MVdX9dLFerHynoM5im"
+    },
+    {
+      "added_at": "2023-11-30 18:27:42",
+      "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/3AkgNcAjPBlz6PGzgHpDYU"
+      },
+      "artists": [
+        {
+          "name": "Tore",
+          "url": "https://open.spotify.com/artist/1GZrKwVL73MyDEr4bR9sRk"
+        }
+      ],
+      "duration_ms": 245780,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/4JrV4NJ4ChSoxBTEIb0D7F"
     },
     {
       "added_at": "2023-11-30 18:27:42",
@@ -1991,8 +1991,8 @@
     {
       "added_at": "2023-11-30 18:27:42",
       "album": {
-        "name": "Sorry",
-        "url": "https://open.spotify.com/album/0ep3oeAyv1CQKlVAGBUhrm"
+        "name": "Let It Go",
+        "url": "https://open.spotify.com/album/0ZRoNXFBWk10Rj0PO5PSPG"
       },
       "artists": [
         {
@@ -2000,9 +2000,9 @@
           "url": "https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm"
         }
       ],
-      "duration_ms": 165697,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/21Cr9ZzBDHF7QxDS8kE5Lx"
+      "duration_ms": 194129,
+      "name": "Let It Go",
+      "url": "https://open.spotify.com/track/6r8OnTtDrhKBIIYgzxrnZ1"
     },
     {
       "added_at": "2023-11-30 18:27:42",
@@ -2123,8 +2123,8 @@
     {
       "added_at": "2023-11-30 18:27:42",
       "album": {
-        "name": "Let It Go",
-        "url": "https://open.spotify.com/album/0ZRoNXFBWk10Rj0PO5PSPG"
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/0ep3oeAyv1CQKlVAGBUhrm"
       },
       "artists": [
         {
@@ -2132,9 +2132,9 @@
           "url": "https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm"
         }
       ],
-      "duration_ms": 194129,
-      "name": "Let It Go",
-      "url": "https://open.spotify.com/track/6r8OnTtDrhKBIIYgzxrnZ1"
+      "duration_ms": 165697,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/21Cr9ZzBDHF7QxDS8kE5Lx"
     },
     {
       "added_at": "2023-11-30 18:27:42",

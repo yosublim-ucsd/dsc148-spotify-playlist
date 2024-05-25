@@ -2933,6 +2933,36 @@
     },
     {
       "album": {
+        "name": "Desacelerar",
+        "url": "https://open.spotify.com/album/5VNG5eW6yxQQ4PDTkDDveB"
+      },
+      "artists": [
+        {
+          "name": "Cabelera",
+          "url": "https://open.spotify.com/artist/3qWbHCWsOvqbTqKXFKCbnb"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Cortuah",
+          "url": "https://open.spotify.com/artist/7kGUzXplnvy1ID4H75a6TA"
+        },
+        {
+          "name": "Pedro Malcher",
+          "url": "https://open.spotify.com/artist/4hDRyVT1vb7vdIvAQwaYo6"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Desacelerar",
+      "url": "https://open.spotify.com/track/62XD42qxP5lALEdbKNowzm"
+    },
+    {
+      "album": {
         "name": "desacostumar (special edition)",
         "url": "https://open.spotify.com/album/4nuZLiikdYgkvWjitxOvVF"
       },
@@ -6362,7 +6392,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 216154,
       "name": "M\u00edstica",
       "url": "https://open.spotify.com/track/2ELzrSFShJep9kd20V3SAQ"
@@ -6904,7 +6934,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 230772,
       "name": "N\u00e3o Te Largo, N\u00e3o Te Troco - Ac\u00fastico",
       "url": "https://open.spotify.com/track/20oATguIKxxfwp1h9MlNGZ"
@@ -11153,6 +11183,28 @@
     },
     {
       "album": {
+        "name": "Vem C\u00e1, Me Beija",
+        "url": "https://open.spotify.com/album/5iTMqZsLOCGnxjVuxcfs5P"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Napoli",
+          "url": "https://open.spotify.com/artist/0LcE3YrT8d2Bc0ylmnnx1L"
+        },
+        {
+          "name": "Carol Passos",
+          "url": "https://open.spotify.com/artist/5PTSuEffMevlta7r4D3asP"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158170,
+      "name": "Vem C\u00e1, Me Beija",
+      "url": "https://open.spotify.com/track/5zrnow8n59LyOhSa4IhcVI"
+    },
+    {
+      "album": {
         "name": "Vem Me Encontrar",
         "url": "https://open.spotify.com/album/78KW27Ao3Z0xeoWY9Q9xpz"
       },
@@ -11974,6 +12026,28 @@
       "duration_ms": 178666,
       "name": "\u00d3leo de Coco",
       "url": "https://open.spotify.com/track/5mF6dnj2rxGMVrGLbLXk5Z"
+    },
+    {
+      "album": {
+        "name": "\u00danica Op\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/3vB743HwA5YsvyRLfnhjSH"
+      },
+      "artists": [
+        {
+          "name": "Belita",
+          "url": "https://open.spotify.com/artist/2xlX2xlzRLg1y914U4acVR"
+        },
+        {
+          "name": "ALMAR",
+          "url": "https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130272,
+      "name": "\u00danica Op\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/5rpodz6JCSBZi07wn3OxRU"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX8mWv7JDZ0Ht"

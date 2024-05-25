@@ -273,6 +273,24 @@
     },
     {
       "album": {
+        "name": "Lucky",
+        "url": "https://open.spotify.com/album/1iM2E9fPRRzADkK1EitFWr"
+      },
+      "artists": [
+        {
+          "name": "Raveena",
+          "url": "https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS"
+        }
+      ],
+      "date_added": "2024-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226306,
+      "name": "Lucky",
+      "url": "https://open.spotify.com/track/3cQJowYPZdx2mpmVhrRk2e"
+    },
+    {
+      "album": {
         "name": "Asha\u2019s Awakening",
         "url": "https://open.spotify.com/album/2q0yeivzk1b2UUdtHf8mcC"
       },

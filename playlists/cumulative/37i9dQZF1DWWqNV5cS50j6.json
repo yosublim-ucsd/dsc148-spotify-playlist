@@ -1472,7 +1472,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-24",
+      "date_removed": null,
       "duration_ms": 165360,
       "name": "Aphid (feat. Dijon)",
       "url": "https://open.spotify.com/track/5BLRxUeMQFa4cK61ljrNiF"
@@ -2185,7 +2185,7 @@
     },
     {
       "album": {
-        "name": "Bad Joke",
+        "name": "bad joke",
         "url": "https://open.spotify.com/album/31ceqD4m45Pk4AKR3tbYC4"
       },
       "artists": [
@@ -2196,9 +2196,9 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-23",
+      "date_removed": null,
       "duration_ms": 105669,
-      "name": "Bad Joke",
+      "name": "bad joke",
       "url": "https://open.spotify.com/track/1uAdlow4ZhOSQYNFQw7GOw"
     },
     {
@@ -2696,7 +2696,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 137739,
       "name": "berkshires",
       "url": "https://open.spotify.com/track/28r0lL76bZnYpgqUsXoKTe"
@@ -6358,7 +6358,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-11",
+      "date_removed": null,
       "duration_ms": 246626,
       "name": "Daddy",
       "url": "https://open.spotify.com/track/3jKlmTVS7ym2axSs9OEcrT"
@@ -7288,7 +7288,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 138466,
       "name": "DO u WANNA BE HIGH? - A COLORS SHOW",
       "url": "https://open.spotify.com/track/2Ok4sNdvbffCf9p8sP9DPW"
@@ -10640,7 +10640,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-13",
+      "date_removed": null,
       "duration_ms": 211875,
       "name": "Gimme A Chance",
       "url": "https://open.spotify.com/track/3Hu3EPU5S3ftac3ulsEw7d"
@@ -22143,6 +22143,24 @@
     },
     {
       "album": {
+        "name": "PULL UP",
+        "url": "https://open.spotify.com/album/1brHIGC0EiM5onDMz2aCB9"
+      },
+      "artists": [
+        {
+          "name": "Internet Girl",
+          "url": "https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140143,
+      "name": "PULL UP",
+      "url": "https://open.spotify.com/track/35wqLh4Ht76d4YIUU2oNXq"
+    },
+    {
+      "album": {
         "name": "Pull Up(s)",
         "url": "https://open.spotify.com/album/3YctpjaNzPkk8faA4Scemh"
       },
@@ -25646,7 +25664,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 175182,
       "name": "spiderman",
       "url": "https://open.spotify.com/track/4egsNbOOKxuyfXgmMzhOJ0"
@@ -28218,7 +28236,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 250539,
       "name": "The Ransom",
       "url": "https://open.spotify.com/track/3iQcTLzH1Cp6iQjtFWco34"
@@ -29250,7 +29268,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 234990,
       "name": "True",
       "url": "https://open.spotify.com/track/0JZxdMGoZwcF7ab04Xphk5"

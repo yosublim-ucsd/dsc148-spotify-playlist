@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain]
 
 > Country gone wild! You never know what you're gonna get\. Cover: Kane Brown and Marshmello
 
-[Spotify](https://open.spotify.com/user/spotify) - 919,731 likes - 123 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 919,743 likes - 123 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain]
 | 24 | [I Can Feel It](https://open.spotify.com/track/2eGvz6O6tVnh9nKiitDEhZ) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [I Can Feel It](https://open.spotify.com/album/0zjGKouRkAN6Z9Y9CwuSqi) | 2:43 |
 | 25 | [Raised Right](https://open.spotify.com/track/2TPhxHTLZA7Rncf2NZFQho) | [Reyna Roberts](https://open.spotify.com/artist/4jpqm8g4We93Uk6M9M4FDh) | [Raised Right](https://open.spotify.com/album/46DaRD6UeqBpfhlULp0Zdy) | 3:11 |
 | 26 | [LIKE A COWBOY](https://open.spotify.com/track/6phGbOOctxoxviraYh93rY) | [Vwillz](https://open.spotify.com/artist/0S7eN9KAsbAaIZtFyCn1q1) | [LIKE A COWBOY](https://open.spotify.com/album/234akgdWij2RVq479NpxDI) | 2:12 |
-| 27 | [Vegas](https://open.spotify.com/track/6FEV8FeTA9kKU2sLTSJw7V) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Vegas](https://open.spotify.com/album/2RUdZVnTQeSGB0QVffPJ7m) | 3:00 |
+| 27 | [Vegas](https://open.spotify.com/track/6FEV8FeTA9kKU2sLTSJw7V) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Vegas](https://open.spotify.com/album/2RUdZVnTQeSGB0QVffPJ7m) | 3:01 |
 | 28 | [Rodeo](https://open.spotify.com/track/1vatH00GQmecBevlKY5ztN) | [Norman North](https://open.spotify.com/artist/3qKHegS8r4Q08xagEIJwez) | [Rodeo](https://open.spotify.com/album/7onB4ESplhXRNbxMJrg1z1) | 2:25 |
 | 29 | [I Like You Better](https://open.spotify.com/track/6O2U3KEpMJusHQ6m3IR2vg) | [Rodell Duff](https://open.spotify.com/artist/4JMY9dX6C0SYxm1YEGAEky) | [I Like You Better](https://open.spotify.com/album/79MV4Y5B13sz8nlhEJh4bG) | 2:51 |
 | 30 | [Cowboy Cry](https://open.spotify.com/track/7bDf4FJfRCTXPnOqxWu5xG) | [Jay Webb](https://open.spotify.com/artist/74a1KhMBkw4iweAtpbjuHk) | [Cowboy Cry + Me & This Bottle](https://open.spotify.com/album/4U2eiBxJifBFuArPwPWpA0) | 2:11 |
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain]
 | 84 | [Dear Alcohol \(feat\. Elle King\)](https://open.spotify.com/track/2JspXl1hD5EUfyBln7r0F6) | [Dax](https://open.spotify.com/artist/5icKdCmMhNMYoAzVBAWt39), [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Dear Alcohol feat\. Elle King](https://open.spotify.com/album/23RUi91AHXz67vI3sgpgLS) | 3:08 |
 | 85 | [Blacked Out](https://open.spotify.com/track/5ImqyYZ3zgraskdflX6Cdc) | [Katie Noel](https://open.spotify.com/artist/4nreGSB7QWCSeYWKpcz3pt) | [Blacked Out](https://open.spotify.com/album/3Hi7EH9ZBJCzH8dLll20A6) | 3:28 |
 | 86 | [Bets On Us](https://open.spotify.com/track/1AZEKyJQKVucfisCqKO1Nk) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Bets On Us](https://open.spotify.com/album/3n6nbKCoNMsSDBpzvEg1Q5) | 3:00 |
-| 87 | [Anabelle](https://open.spotify.com/track/3FJapheyNIZg3W7bt1qpOa) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Anabelle](https://open.spotify.com/album/49vqjsIgu9xzPAiURWy4vc) | 3:04 |
+| 87 | [Anabelle](https://open.spotify.com/track/3FJapheyNIZg3W7bt1qpOa) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Anabelle](https://open.spotify.com/album/49vqjsIgu9xzPAiURWy4vc) | 3:06 |
 | 88 | [Good With Me](https://open.spotify.com/track/47EkFFYRTlgatkXS0gg5FZ) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [Good With Me](https://open.spotify.com/album/4MOXUKrGGMuokVxovC7wQL) | 2:26 |
 | 89 | [Stupid](https://open.spotify.com/track/53ACLnePPOVA8wE8rWueSD) | [David Morris](https://open.spotify.com/artist/23Pb3oXBOQj9WEziS6laUW) | [Bored In The USA](https://open.spotify.com/album/6hbXCjnJv5b73GH1yyeprH) | 3:03 |
 | 90 | [If You Were My Girl](https://open.spotify.com/track/4lJHWJx0QXiQO4bwLGJEft) | [Austin Tolliver](https://open.spotify.com/artist/3mJzTRR6NlyNWYkZ946WgC) | [If You Were My Girl](https://open.spotify.com/album/1ne7atFrKKogLQ2SVvk4by) | 2:59 |

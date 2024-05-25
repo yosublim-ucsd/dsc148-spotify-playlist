@@ -489,6 +489,24 @@
     },
     {
       "album": {
+        "name": "blu",
+        "url": "https://open.spotify.com/album/757Mnb96yy0jT7po5qnvuU"
+      },
+      "artists": [
+        {
+          "name": "Girl Ultra",
+          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136220,
+      "name": "blu",
+      "url": "https://open.spotify.com/track/5gNEUS6Ca9zxn5yYDiyTgK"
+    },
+    {
+      "album": {
         "name": "Brillando",
         "url": "https://open.spotify.com/album/3cpu7Bc6c6VQw6VBnHw6i6"
       },
@@ -1300,7 +1318,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 194000,
       "name": "El Tonto",
       "url": "https://open.spotify.com/track/1QbjXGsTITFUIxPauH3wJR"
@@ -1524,7 +1542,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 227554,
       "name": "Es Clara",
       "url": "https://open.spotify.com/track/4qjbWPK08sOcDls6mURNSu"
@@ -2951,6 +2969,24 @@
     },
     {
       "album": {
+        "name": "Once",
+        "url": "https://open.spotify.com/album/3gEo1R7IlW4A6q5S7UKzM8"
+      },
+      "artists": [
+        {
+          "name": "F\u00e1rmacos",
+          "url": "https://open.spotify.com/artist/1FJENlxciHSXzfHlYMgB2M"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298133,
+      "name": "Once",
+      "url": "https://open.spotify.com/track/1y526sUKDGQNlxTHaNS1Qn"
+    },
+    {
+      "album": {
         "name": "J\u00f3venes Ilustres",
         "url": "https://open.spotify.com/album/4bUI7Izg70iMO3zXjSS14x"
       },
@@ -3915,6 +3951,24 @@
     },
     {
       "album": {
+        "name": "5 Disparos",
+        "url": "https://open.spotify.com/album/01Pld7YTG3G2kxUpcInxJe"
+      },
+      "artists": [
+        {
+          "name": "Kinky",
+          "url": "https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169354,
+      "name": "Un X100to",
+      "url": "https://open.spotify.com/track/6HFdytzvCJv6tuymVGrAne"
+    },
+    {
+      "album": {
         "name": "Una Historia Sin Final",
         "url": "https://open.spotify.com/album/00ZYICR61FOAcHsb9hK5l5"
       },
@@ -3980,7 +4034,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 199901,
       "name": "VOID",
       "url": "https://open.spotify.com/track/6uPUgwjxECrLR7X5O7XacW"

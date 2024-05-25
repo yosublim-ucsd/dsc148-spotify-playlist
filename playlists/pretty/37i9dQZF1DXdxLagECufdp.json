@@ -1,6 +1,6 @@
 {
   "description": "Fanfarrias y ritmos clown para gozar las tragicomedias de la vida.",
-  "num_followers": 100245,
+  "num_followers": 100250,
   "original_name": "Balkanista Circus",
   "owner": {
     "name": "Spotify",
@@ -823,6 +823,22 @@
     {
       "added_at": "2023-07-07 06:00:00",
       "album": {
+        "name": "Canzoni a manovella (2018 Remaster)",
+        "url": "https://open.spotify.com/album/7AYil3edcAVcb7nfyf0Tn7"
+      },
+      "artists": [
+        {
+          "name": "Vinicio Capossela",
+          "url": "https://open.spotify.com/artist/6FlxhoUGATC40TALMesaFM"
+        }
+      ],
+      "duration_ms": 205773,
+      "name": "Maraj\u00e0 - 2018 Remaster",
+      "url": "https://open.spotify.com/track/70EXIyETxgloAlVkRbO2H9"
+    },
+    {
+      "added_at": "2023-07-07 06:00:00",
+      "album": {
         "name": "Constelaci\u00f3n",
         "url": "https://open.spotify.com/album/5hXsDY407wtAlm5W81aM1F"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 189199,
       "name": "Constelaci\u00f3n",
       "url": "https://open.spotify.com/track/58yXDaeNbIqbbAkFH8or6a"
-    },
-    {
-      "added_at": "2023-07-07 06:00:00",
-      "album": {
-        "name": "Electric Bhairavi",
-        "url": "https://open.spotify.com/album/6h5WjOpelHPgjr1OjCm1tm"
-      },
-      "artists": [
-        {
-          "name": "Bombay Rickey",
-          "url": "https://open.spotify.com/artist/25K3DdUbAxFXeydGHPoyPz"
-        }
-      ],
-      "duration_ms": 239306,
-      "name": "Gopher",
-      "url": "https://open.spotify.com/track/01hqaLJ7lsOf5w0zTysbGD"
     }
   ],
   "unique_name": "Balkanista Circus",

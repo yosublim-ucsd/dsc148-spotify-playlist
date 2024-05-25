@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "\u00a1Las poderosas, las reinas, las chacalosas! Estas son la mujeres quebrando barreras en la M\u00fasica Mexicana. Cover: Thalia ",
+  "description": "\u00a1Las poderosas, las reinas, las chacalosas! Estas son la mujeres quebrando barreras en la M\u00fasica Mexicana. Cover: Designo Celestial ",
   "name": "Las Chacalosas",
   "tracks": [
     {
@@ -399,6 +399,24 @@
     },
     {
       "album": {
+        "name": "Anitta \"Fresita\"",
+        "url": "https://open.spotify.com/album/3JhEthd5rwcNeLO903tPH5"
+      },
+      "artists": [
+        {
+          "name": "Designo Celestial",
+          "url": "https://open.spotify.com/artist/7ApLnBw5BDaqVN1gYM9pAb"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Anitta \"Fresita\"",
+      "url": "https://open.spotify.com/track/2WX1remNuBAAqQCYwzxhbC"
+    },
+    {
+      "album": {
         "name": "Aparentemente Bien",
         "url": "https://open.spotify.com/album/1932flu69zKoy3j2Qgz0P2"
       },
@@ -570,6 +588,24 @@
       "duration_ms": 147263,
       "name": "BBYKTAL",
       "url": "https://open.spotify.com/track/3pJFmgY5LJtR1Z8OyHM7MI"
+    },
+    {
+      "album": {
+        "name": "Beliconas",
+        "url": "https://open.spotify.com/album/03dOg3kjLlQ5ftioBZ7KmD"
+      },
+      "artists": [
+        {
+          "name": "Victoria La Mala",
+          "url": "https://open.spotify.com/artist/67Ve4PFfgeDZuowPNJ42fc"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161506,
+      "name": "Beliconas",
+      "url": "https://open.spotify.com/track/71jVCWrWErZhrvVywvVLgM"
     },
     {
       "album": {
@@ -1502,7 +1538,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 182309,
       "name": "El R\u00e1pido",
       "url": "https://open.spotify.com/track/1jQD11D6t4f1OlPjY8XEL2"
@@ -2028,7 +2064,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 194531,
       "name": "Fumar Beber",
       "url": "https://open.spotify.com/track/7iWyYpsMYA8VUuJqeRn9B3"
@@ -2374,6 +2410,28 @@
       "duration_ms": 220173,
       "name": "La Chacalosa",
       "url": "https://open.spotify.com/track/78thkAb46Sm4s67EW6kDby"
+    },
+    {
+      "album": {
+        "name": "La Chamba",
+        "url": "https://open.spotify.com/album/1eKSr02jXW0YrIAPDQRFer"
+      },
+      "artists": [
+        {
+          "name": "Estilo Sin Limite",
+          "url": "https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd"
+        },
+        {
+          "name": "Paty Cant\u00fa",
+          "url": "https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163335,
+      "name": "La Chamba",
+      "url": "https://open.spotify.com/track/50PPvQOz0WqwMDEx2mMA0Z"
     },
     {
       "album": {
@@ -2932,7 +2990,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 154000,
       "name": "Lo Dijiste Todo - En Vivo",
       "url": "https://open.spotify.com/track/6x431KgZOM8WOq4w37CpPe"
@@ -4358,7 +4416,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 163875,
       "name": "Paso A Pasito",
       "url": "https://open.spotify.com/track/098EZ7cByfKymuAiMKtOmR"
@@ -4662,6 +4720,28 @@
       "duration_ms": 171349,
       "name": "Pronto Me Ver\u00e1n",
       "url": "https://open.spotify.com/track/5hR3DWk1mNkDVfpiA9LU0H"
+    },
+    {
+      "album": {
+        "name": "Puro Pinche Pari (PPP)",
+        "url": "https://open.spotify.com/album/4rATRjPNbTx9SCII7VsWYs"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        },
+        {
+          "name": "Don Elektron",
+          "url": "https://open.spotify.com/artist/7DlW3AsJBngztfUBjAY0W2"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150413,
+      "name": "Puro Pinche Pari (PPP)",
+      "url": "https://open.spotify.com/track/0KV2Dy7DpMXI6C7bBGCdgu"
     },
     {
       "album": {

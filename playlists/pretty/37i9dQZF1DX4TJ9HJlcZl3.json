@@ -1,13 +1,29 @@
 {
-  "description": "Still yachting. Cover: Young Gun Silver Fox",
-  "num_followers": 13574,
+  "description": "Still yachting. Cover: Yacht Rock Revue",
+  "num_followers": 13695,
   "original_name": "Yacht Rock Revival",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjRhfAAAAADsbMmXmFHO8KQw5ai+9l8G",
+  "snapshot_id": "ZlAQwAAAAAAeKzJfmOMzA6w94qCq5mtu",
   "tracks": [
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Tropical Illusion / Passengers",
+        "url": "https://open.spotify.com/album/5heyrwO90ALCOD40rQOKAy"
+      },
+      "artists": [
+        {
+          "name": "Yacht Rock Revue",
+          "url": "https://open.spotify.com/artist/5vJbbFDnRQql9BtSgR9vZH"
+        }
+      ],
+      "duration_ms": 227282,
+      "name": "Tropical Illusion",
+      "url": "https://open.spotify.com/track/0ox6C5vyLLOY7o6tkv04X6"
+    },
     {
       "added_at": "2024-05-03 04:01:00",
       "album": {
@@ -727,22 +743,6 @@
       "duration_ms": 300506,
       "name": "I Don't Think We Should Wait",
       "url": "https://open.spotify.com/track/59PWRSbpBHbeI5pw6llR5v"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Hot Dads in Tight Jeans",
-        "url": "https://open.spotify.com/album/6UPvt5EJIuI3uCpnwgoOJ6"
-      },
-      "artists": [
-        {
-          "name": "Yacht Rock Revue",
-          "url": "https://open.spotify.com/artist/5vJbbFDnRQql9BtSgR9vZH"
-        }
-      ],
-      "duration_ms": 242293,
-      "name": "Step",
-      "url": "https://open.spotify.com/track/4tSfW5rFL596C52yfvygz2"
     },
     {
       "added_at": "2023-09-01 04:00:00",

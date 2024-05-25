@@ -715,6 +715,24 @@
     },
     {
       "album": {
+        "name": "Boy Met Girl",
+        "url": "https://open.spotify.com/album/4wosV0MkmsGXFhZBRK7zQD"
+      },
+      "artists": [
+        {
+          "name": "Parov Stelar",
+          "url": "https://open.spotify.com/artist/65EXuYHVoehCKqp0kOS6px"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175011,
+      "name": "Boy Met Girl",
+      "url": "https://open.spotify.com/track/7uoUAYZAe7hyo8jQRYQ6xS"
+    },
+    {
+      "album": {
         "name": "Gold Magic",
         "url": "https://open.spotify.com/album/2TGo61xXzrq8ozhGaSFTRl"
       },
@@ -850,7 +868,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 162075,
       "name": "Candy Girl",
       "url": "https://open.spotify.com/track/3bEoJn1bacU7dhpcjmWw72"
@@ -1957,6 +1975,28 @@
     },
     {
       "album": {
+        "name": "Freedom (Glenn Gatsby Remix)",
+        "url": "https://open.spotify.com/album/14CzhJOqwjT4u5m2SlykvZ"
+      },
+      "artists": [
+        {
+          "name": "Szigeti Juli",
+          "url": "https://open.spotify.com/artist/3u8tUhDhqNoF6jRPEFnKNF"
+        },
+        {
+          "name": "Glenn Gatsby",
+          "url": "https://open.spotify.com/artist/2i1i4w0EZ19SIJzPhAEp4i"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167619,
+      "name": "Freedom - Glenn Gatsby Remix",
+      "url": "https://open.spotify.com/track/4QPeMeGlceuhETy8qMN3kg"
+    },
+    {
+      "album": {
         "name": "Art Disco",
         "url": "https://open.spotify.com/album/59BDI0sDzcjiRYnUz8O0UW"
       },
@@ -2842,6 +2882,24 @@
       "duration_ms": 315483,
       "name": "Invisible Man - Wolfgang Lohr Remix",
       "url": "https://open.spotify.com/track/4XMhYWy4WojL9YUMfnZBOm"
+    },
+    {
+      "album": {
+        "name": "Is It Really Me... Or Not?",
+        "url": "https://open.spotify.com/album/40WeuwRYeEorQMUOLbyDko"
+      },
+      "artists": [
+        {
+          "name": "Swingrowers",
+          "url": "https://open.spotify.com/artist/3mp5zzEz1qTq7X5a2yOS2B"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174212,
+      "name": "Is It Really Me... Or Not?",
+      "url": "https://open.spotify.com/track/2xTHbHHQuWCwrnvKys0fPy"
     },
     {
       "album": {
@@ -4868,7 +4926,7 @@
       ],
       "date_added": "2021-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 213120,
       "name": "Rose",
       "url": "https://open.spotify.com/track/2CYKdqyzyGOK57fU9akmhI"
@@ -6006,7 +6064,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 212000,
       "name": "Swing Delusion",
       "url": "https://open.spotify.com/track/4Xv0OEuS4178t2vEVzdDQO"

@@ -1,6 +1,6 @@
 {
   "description": "F\u00fcr ein bisschen mehr Leichtigkeit.",
-  "num_followers": 352964,
+  "num_followers": 353006,
   "original_name": "Feelgood Pop",
   "owner": {
     "name": "Spotify",
@@ -279,22 +279,6 @@
     {
       "added_at": "2024-05-23 07:21:20",
       "album": {
-        "name": "Dance Before We Walk (From \u201cThe Idea of You\u201d)",
-        "url": "https://open.spotify.com/album/6cJvVRDKO1eZcKomjxVQUK"
-      },
-      "artists": [
-        {
-          "name": "August Moon",
-          "url": "https://open.spotify.com/artist/4INWJGqEB91KDU1xAwLRaA"
-        }
-      ],
-      "duration_ms": 157658,
-      "name": "Dance Before We Walk (From \u201cThe Idea of You\u201d)",
-      "url": "https://open.spotify.com/track/7xELUwXl4BJq1Hm3PE2v1R"
-    },
-    {
-      "added_at": "2024-05-23 07:21:20",
-      "album": {
         "name": "All I Know So Far",
         "url": "https://open.spotify.com/album/0uVOhoZbkmOIM4kxJFT2IH"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 277413,
       "name": "All I Know So Far",
       "url": "https://open.spotify.com/track/4LmN3eU1R1vVEdKuDELpGk"
+    },
+    {
+      "added_at": "2024-05-23 07:21:20",
+      "album": {
+        "name": "Dance Before We Walk (From \u201cThe Idea of You\u201d)",
+        "url": "https://open.spotify.com/album/6cJvVRDKO1eZcKomjxVQUK"
+      },
+      "artists": [
+        {
+          "name": "August Moon",
+          "url": "https://open.spotify.com/artist/4INWJGqEB91KDU1xAwLRaA"
+        }
+      ],
+      "duration_ms": 157658,
+      "name": "Dance Before We Walk (From \u201cThe Idea of You\u201d)",
+      "url": "https://open.spotify.com/track/7xELUwXl4BJq1Hm3PE2v1R"
     },
     {
       "added_at": "2024-05-23 07:21:20",
@@ -575,22 +575,6 @@
     {
       "added_at": "2024-05-23 07:21:20",
       "album": {
-        "name": "Black Hole",
-        "url": "https://open.spotify.com/album/0ogiikOppOfG6kkhtC5BDz"
-      },
-      "artists": [
-        {
-          "name": "Griff",
-          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
-        }
-      ],
-      "duration_ms": 200523,
-      "name": "Black Hole",
-      "url": "https://open.spotify.com/track/6xw8ld1ztoCKifwTN6uGDq"
-    },
-    {
-      "added_at": "2024-05-23 07:21:20",
-      "album": {
         "name": "Ready To Be Loved",
         "url": "https://open.spotify.com/album/0n154sm1hveOmE5VKenM9n"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 180581,
       "name": "Ready To Be Loved",
       "url": "https://open.spotify.com/track/1DqxoM9tJrH8VElhileZ2v"
+    },
+    {
+      "added_at": "2024-05-23 07:21:20",
+      "album": {
+        "name": "Black Hole",
+        "url": "https://open.spotify.com/album/0ogiikOppOfG6kkhtC5BDz"
+      },
+      "artists": [
+        {
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+        }
+      ],
+      "duration_ms": 200523,
+      "name": "Black Hole",
+      "url": "https://open.spotify.com/track/6xw8ld1ztoCKifwTN6uGDq"
     },
     {
       "added_at": "2024-05-23 07:21:20",
@@ -659,22 +659,6 @@
     {
       "added_at": "2024-05-23 07:21:20",
       "album": {
-        "name": "Good To Be",
-        "url": "https://open.spotify.com/album/0GBpszNiUBiRAKZoCRb9KW"
-      },
-      "artists": [
-        {
-          "name": "Mark Ambor",
-          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
-        }
-      ],
-      "duration_ms": 147166,
-      "name": "Good To Be",
-      "url": "https://open.spotify.com/track/2hPGC3ZuGsJUF1ixwzNMU6"
-    },
-    {
-      "added_at": "2024-05-23 07:21:20",
-      "album": {
         "name": "Sie",
         "url": "https://open.spotify.com/album/1cX0czWPIRtDrC5kdMiNB1"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 178120,
       "name": "Flugmodus",
       "url": "https://open.spotify.com/track/2iNzRQE0MlCaSHbHGzmbN2"
+    },
+    {
+      "added_at": "2024-05-23 07:21:20",
+      "album": {
+        "name": "Good To Be",
+        "url": "https://open.spotify.com/album/0GBpszNiUBiRAKZoCRb9KW"
+      },
+      "artists": [
+        {
+          "name": "Mark Ambor",
+          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
+        }
+      ],
+      "duration_ms": 147166,
+      "name": "Good To Be",
+      "url": "https://open.spotify.com/track/2hPGC3ZuGsJUF1ixwzNMU6"
     },
     {
       "added_at": "2024-05-23 07:21:20",
@@ -887,22 +887,6 @@
     {
       "added_at": "2024-05-23 07:21:20",
       "album": {
-        "name": "Leap Of Faith",
-        "url": "https://open.spotify.com/album/4tHS6lrzRFmakGJwnUbfWX"
-      },
-      "artists": [
-        {
-          "name": "Christopher",
-          "url": "https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC"
-        }
-      ],
-      "duration_ms": 217713,
-      "name": "Leap Of Faith",
-      "url": "https://open.spotify.com/track/571B8LxRZwmG1S1YNfGq4Q"
-    },
-    {
-      "added_at": "2024-05-23 07:21:20",
-      "album": {
         "name": "Mirror",
         "url": "https://open.spotify.com/album/70xpiL7Pl2AlH9J64acWpD"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 156167,
       "name": "Mirror",
       "url": "https://open.spotify.com/track/4NjTrZ2IQeWnIbzyY2SOfz"
+    },
+    {
+      "added_at": "2024-05-23 07:21:20",
+      "album": {
+        "name": "Leap Of Faith",
+        "url": "https://open.spotify.com/album/4tHS6lrzRFmakGJwnUbfWX"
+      },
+      "artists": [
+        {
+          "name": "Christopher",
+          "url": "https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC"
+        }
+      ],
+      "duration_ms": 217713,
+      "name": "Leap Of Faith",
+      "url": "https://open.spotify.com/track/571B8LxRZwmG1S1YNfGq4Q"
     },
     {
       "added_at": "2024-05-23 07:21:20",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2024-05-23 07:21:20",
       "album": {
+        "name": "Flashback",
+        "url": "https://open.spotify.com/album/5zg1NLMl5KghK5QPq9hMuV"
+      },
+      "artists": [
+        {
+          "name": "\u00c1SD\u00cdS",
+          "url": "https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg"
+        }
+      ],
+      "duration_ms": 169400,
+      "name": "Flashback",
+      "url": "https://open.spotify.com/track/4HS4JTTgXjH6fxsLYHQqhQ"
+    },
+    {
+      "added_at": "2024-05-23 07:21:20",
+      "album": {
         "name": "Sweethoneylove",
         "url": "https://open.spotify.com/album/79HdCrzbPStOTw648gYTuQ"
       },
@@ -1067,18 +1083,18 @@
     {
       "added_at": "2024-05-23 07:21:20",
       "album": {
-        "name": "Flashback",
-        "url": "https://open.spotify.com/album/5zg1NLMl5KghK5QPq9hMuV"
+        "name": "She dance",
+        "url": "https://open.spotify.com/album/4SGeCmelsh6NWTngijcCnE"
       },
       "artists": [
         {
-          "name": "\u00c1SD\u00cdS",
-          "url": "https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg"
+          "name": "AVAION",
+          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
         }
       ],
-      "duration_ms": 169400,
-      "name": "Flashback",
-      "url": "https://open.spotify.com/track/4HS4JTTgXjH6fxsLYHQqhQ"
+      "duration_ms": 154078,
+      "name": "She dance",
+      "url": "https://open.spotify.com/track/7e3OWxJIayp8RUFmmI8Qiw"
     },
     {
       "added_at": "2024-05-23 07:21:20",
@@ -1095,22 +1111,6 @@
       "duration_ms": 214239,
       "name": "Nur die Musik",
       "url": "https://open.spotify.com/track/4zbjLM7jut3CaojmphTOdG"
-    },
-    {
-      "added_at": "2024-05-23 07:21:20",
-      "album": {
-        "name": "She dance",
-        "url": "https://open.spotify.com/album/4SGeCmelsh6NWTngijcCnE"
-      },
-      "artists": [
-        {
-          "name": "AVAION",
-          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
-        }
-      ],
-      "duration_ms": 154078,
-      "name": "She dance",
-      "url": "https://open.spotify.com/track/7e3OWxJIayp8RUFmmI8Qiw"
     },
     {
       "added_at": "2024-05-23 07:21:20",

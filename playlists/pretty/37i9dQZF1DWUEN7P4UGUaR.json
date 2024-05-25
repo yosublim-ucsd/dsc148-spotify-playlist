@@ -1,6 +1,6 @@
 {
   "description": "Fresh gospel music from Ghana. Cover: Joe Mettle",
-  "num_followers": 10424,
+  "num_followers": 10439,
   "original_name": "Aseda",
   "owner": {
     "name": "Spotify",
@@ -775,38 +775,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Okasa",
-        "url": "https://open.spotify.com/album/3PSX2qgryboF6ibNTYOfkP"
-      },
-      "artists": [
-        {
-          "name": "Eugene Zuta",
-          "url": "https://open.spotify.com/artist/1KmG9OvZmiOv0ntWc7mYcP"
-        }
-      ],
-      "duration_ms": 267424,
-      "name": "Okasa",
-      "url": "https://open.spotify.com/track/6TYPPXh9VhmqP3o47FMOdc"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "Efiri Nyame",
-        "url": "https://open.spotify.com/album/0nYa4h4NADQ8GkhgVw0iYl"
-      },
-      "artists": [
-        {
-          "name": "Ceccy Twum",
-          "url": "https://open.spotify.com/artist/388AN0RI2UvUm7RwCU5Twz"
-        }
-      ],
-      "duration_ms": 275706,
-      "name": "Me Ko M'Anim",
-      "url": "https://open.spotify.com/track/4aRLuPcQMUH6XnOoHdcXeH"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "DaaDaa",
         "url": "https://open.spotify.com/album/5aqjEIvIk8S3bsX2cIUeur"
       },
@@ -827,6 +795,38 @@
       "duration_ms": 193306,
       "name": "DaaDaa",
       "url": "https://open.spotify.com/track/1jiwwDBOufD9TgWimVJOXb"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Efiri Nyame",
+        "url": "https://open.spotify.com/album/0nYa4h4NADQ8GkhgVw0iYl"
+      },
+      "artists": [
+        {
+          "name": "Ceccy Twum",
+          "url": "https://open.spotify.com/artist/388AN0RI2UvUm7RwCU5Twz"
+        }
+      ],
+      "duration_ms": 275706,
+      "name": "Me Ko M'Anim",
+      "url": "https://open.spotify.com/track/4aRLuPcQMUH6XnOoHdcXeH"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Okasa",
+        "url": "https://open.spotify.com/album/3PSX2qgryboF6ibNTYOfkP"
+      },
+      "artists": [
+        {
+          "name": "Eugene Zuta",
+          "url": "https://open.spotify.com/artist/1KmG9OvZmiOv0ntWc7mYcP"
+        }
+      ],
+      "duration_ms": 267424,
+      "name": "Okasa",
+      "url": "https://open.spotify.com/track/6TYPPXh9VhmqP3o47FMOdc"
     },
     {
       "added_at": "2024-05-22 11:00:00",

@@ -4710,7 +4710,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 204018,
       "name": "Brothers",
       "url": "https://open.spotify.com/track/6Imq8YhHb4vmcNRMhj0QaI"
@@ -4728,7 +4728,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 190359,
       "name": "Bud Light The Way",
       "url": "https://open.spotify.com/track/2Hg4pSdvKX11F0qzrylTYE"
@@ -6351,6 +6351,24 @@
     },
     {
       "album": {
+        "name": "Cooler Full Of Good Times",
+        "url": "https://open.spotify.com/album/2Y3i8Zr8SiqQAQ2AB0ooRF"
+      },
+      "artists": [
+        {
+          "name": "Josh Kiser",
+          "url": "https://open.spotify.com/artist/0f3VHWozHxr2u1VcsOVWnV"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159590,
+      "name": "Cooler Full Of Good Times",
+      "url": "https://open.spotify.com/track/3sADp2gl2yYtYEq7YdOGoV"
+    },
+    {
+      "album": {
         "name": "Excuse The Mess",
         "url": "https://open.spotify.com/album/16GDL2iCmBKN5tmf3pbiZ7"
       },
@@ -7579,6 +7597,24 @@
     },
     {
       "album": {
+        "name": "Desperado",
+        "url": "https://open.spotify.com/album/2hNSdAKWfQS80AbV1wd3RT"
+      },
+      "artists": [
+        {
+          "name": "Louie TheSinger",
+          "url": "https://open.spotify.com/artist/0Ht6v1kud5bXl4mp8eaDjj"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169173,
+      "name": "Desperado",
+      "url": "https://open.spotify.com/track/09NCGmpDgU6Q8WjwHO4fuF"
+    },
+    {
+      "album": {
         "name": "Bad For Me",
         "url": "https://open.spotify.com/album/6vuwxb0fLibvV8pIh071QY"
       },
@@ -7728,6 +7764,24 @@
       "duration_ms": 186533,
       "name": "Didn't Even Date (feat. Roman Alexander)",
       "url": "https://open.spotify.com/track/2EvA9kbBy7MHWf3rmHGihD"
+    },
+    {
+      "album": {
+        "name": "Didn't I",
+        "url": "https://open.spotify.com/album/0IyfBFOBxNW9oVtwrJo4J9"
+      },
+      "artists": [
+        {
+          "name": "Austin Burke",
+          "url": "https://open.spotify.com/artist/5jfImMkUYyViFJrhdfYt1c"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184550,
+      "name": "Didn't I",
+      "url": "https://open.spotify.com/track/36m5WF7HISlTNWz3spoDxQ"
     },
     {
       "album": {
@@ -9989,6 +10043,24 @@
     },
     {
       "album": {
+        "name": "Fast Asleep",
+        "url": "https://open.spotify.com/album/7dWMAoJMvXjPhb1XsDYMiA"
+      },
+      "artists": [
+        {
+          "name": "49 Winchester",
+          "url": "https://open.spotify.com/artist/1JWMpIl0nhqFJNdO3IOQ20"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272173,
+      "name": "Fast Asleep",
+      "url": "https://open.spotify.com/track/5s8DrAoxwPB846boyVOKHS"
+    },
+    {
+      "album": {
         "name": "fault line",
         "url": "https://open.spotify.com/album/1ZYo7uB8K9cvd8BotBNU2u"
       },
@@ -11126,6 +11198,24 @@
       "duration_ms": 180139,
       "name": "Get You",
       "url": "https://open.spotify.com/track/2ZwdntJcAbaQTdbivEpakc"
+    },
+    {
+      "album": {
+        "name": "Getaway",
+        "url": "https://open.spotify.com/album/0Co2sInyDHF9VAQOqITc9k"
+      },
+      "artists": [
+        {
+          "name": "Harper Grace",
+          "url": "https://open.spotify.com/artist/0iFBiDNiS0JpYjIrj2lsA5"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213373,
+      "name": "Getaway",
+      "url": "https://open.spotify.com/track/3HuP4JlS05GXiGdgYQk0bl"
     },
     {
       "album": {
@@ -19263,6 +19353,24 @@
     },
     {
       "album": {
+        "name": "Let Me Let You",
+        "url": "https://open.spotify.com/album/53qlmHcJyh8lBg5gHZxwV1"
+      },
+      "artists": [
+        {
+          "name": "Shaylen",
+          "url": "https://open.spotify.com/artist/5wqQVApxKeHbMsfLJTfWMJ"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172500,
+      "name": "Let Me Let You",
+      "url": "https://open.spotify.com/track/7JeJQMFOrvzwx0z5ZKfWoz"
+    },
+    {
+      "album": {
         "name": "Let Your Horses Run",
         "url": "https://open.spotify.com/album/53xzDPqP7H6wVce4Y4Uyrd"
       },
@@ -19982,7 +20090,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 196428,
       "name": "Livin' Proof",
       "url": "https://open.spotify.com/track/5LDbaNU2m0fHISLJYErLPE"
@@ -20054,7 +20162,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 223660,
       "name": "Lonely Hour",
       "url": "https://open.spotify.com/track/6u0Eoqzo2CrIEantCoeOcM"
@@ -20170,6 +20278,24 @@
       "duration_ms": 200546,
       "name": "Lonesome Drinkers",
       "url": "https://open.spotify.com/track/4VAzdlWsoSkjCcdL0YFGIv"
+    },
+    {
+      "album": {
+        "name": "Long Ago",
+        "url": "https://open.spotify.com/album/6pqa8P4dMIbyj9Lg1aNr2D"
+      },
+      "artists": [
+        {
+          "name": "Blake Henderson",
+          "url": "https://open.spotify.com/artist/5ILg0WBOzkaN5ePByRuMw4"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207936,
+      "name": "Long Ago",
+      "url": "https://open.spotify.com/track/4dqESZKrfwGQWEGac3pxHr"
     },
     {
       "album": {
@@ -22495,6 +22621,24 @@
     },
     {
       "album": {
+        "name": "Bruce County",
+        "url": "https://open.spotify.com/album/2LtmmDRoH27B1li1RRWYvp"
+      },
+      "artists": [
+        {
+          "name": "Owen Riegling",
+          "url": "https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224693,
+      "name": "Moonshines",
+      "url": "https://open.spotify.com/track/6OOVF3wtJ6Qj2fPPHcuzj5"
+    },
+    {
+      "album": {
         "name": "More Me",
         "url": "https://open.spotify.com/album/4P9iA68PjGj5qZjZQZ2sDx"
       },
@@ -22690,7 +22834,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 211791,
       "name": "Moving Target",
       "url": "https://open.spotify.com/track/23CgM5ADhPNz6JFyrgMPot"
@@ -24710,7 +24854,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 182571,
       "name": "On My Breath",
       "url": "https://open.spotify.com/track/7uobSZuPtCHGLbycBmL3SE"
@@ -27015,6 +27159,24 @@
     },
     {
       "album": {
+        "name": "Can't Just Be Me",
+        "url": "https://open.spotify.com/album/7yV8AyLdPAquTjQ27qETI3"
+      },
+      "artists": [
+        {
+          "name": "Vincent Mason",
+          "url": "https://open.spotify.com/artist/6QJ5CE7ujPr7oZCURhFZVS"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197482,
+      "name": "Really Don't Love Me",
+      "url": "https://open.spotify.com/track/3m9mWLjQ7kkTZhzlc1OvTy"
+    },
+    {
+      "album": {
         "name": "Reason For Leaving",
         "url": "https://open.spotify.com/album/26iZXxIh2xKEG5PTdHJfb6"
       },
@@ -28538,6 +28700,24 @@
       "duration_ms": 167228,
       "name": "Settle Up",
       "url": "https://open.spotify.com/track/5lkdtsMTVc0pRZOVl3PhFg"
+    },
+    {
+      "album": {
+        "name": "The Heartbroken Record",
+        "url": "https://open.spotify.com/album/2sXBjRSJLswlqxCrEHUghq"
+      },
+      "artists": [
+        {
+          "name": "Lauren Watkins",
+          "url": "https://open.spotify.com/artist/4gF2OluaMxcC4qrGbPaB7S"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172206,
+      "name": "Settling Things",
+      "url": "https://open.spotify.com/track/1B6w8crxUWBJv12p7cKuxM"
     },
     {
       "album": {
@@ -31314,7 +31494,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 175139,
       "name": "Stuck In My Ways",
       "url": "https://open.spotify.com/track/1h6wrhkahpTVVfStALPUG4"
@@ -34531,6 +34711,24 @@
     },
     {
       "album": {
+        "name": "Tore Up",
+        "url": "https://open.spotify.com/album/6EcOuWQk7k288Swdrqjbxn"
+      },
+      "artists": [
+        {
+          "name": "Eddie And The Getaway",
+          "url": "https://open.spotify.com/artist/7oTkfyZOcKQuCUFnSVLB3j"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175814,
+      "name": "Tore Up",
+      "url": "https://open.spotify.com/track/1XBvrDoEHLE3hOgYKAJy7I"
+    },
+    {
+      "album": {
         "name": "Tough",
         "url": "https://open.spotify.com/album/2cGSKkPbN68zQCBoe4f1yu"
       },
@@ -36843,6 +37041,28 @@
     },
     {
       "album": {
+        "name": "Where The Good Ones Go (feat. Jake Owen)",
+        "url": "https://open.spotify.com/album/6uySGsXuAevT2XU2GNejSj"
+      },
+      "artists": [
+        {
+          "name": "Chase Bryant",
+          "url": "https://open.spotify.com/artist/7io3MyhMxDZoBYXp4rlRFA"
+        },
+        {
+          "name": "Jake Owen",
+          "url": "https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271306,
+      "name": "Where The Good Ones Go (feat. Jake Owen)",
+      "url": "https://open.spotify.com/track/4qBdkbrHXpS7RcaINDQXyj"
+    },
+    {
+      "album": {
         "name": "Where the Time Goes",
         "url": "https://open.spotify.com/album/0SlVaPuiqItyXW0VCNYg5z"
       },
@@ -37620,7 +37840,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 198840,
       "name": "Wild Than Tame",
       "url": "https://open.spotify.com/track/2krOhQexsy4onw9lK6X4nF"
@@ -38498,7 +38718,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 215280,
       "name": "Yearnin\u2019 For You",
       "url": "https://open.spotify.com/track/3bBWNi61k8Re8QQ01LtcIC"
@@ -38859,6 +39079,24 @@
     },
     {
       "album": {
+        "name": "You Go I Go",
+        "url": "https://open.spotify.com/album/4uVTyygRO0UE4nI2F1VrPC"
+      },
+      "artists": [
+        {
+          "name": "Adam Doleac",
+          "url": "https://open.spotify.com/artist/4NsVVzuaZGk4aya8Pyacew"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173107,
+      "name": "You Go I Go",
+      "url": "https://open.spotify.com/track/2mPaYMKVjuFkM2gqlNGBcv"
+    },
+    {
+      "album": {
         "name": "You Got It",
         "url": "https://open.spotify.com/album/233d1wJqpwcKTOY3ZqO5fo"
       },
@@ -39094,6 +39332,24 @@
       "duration_ms": 145696,
       "name": "You're So Cruel",
       "url": "https://open.spotify.com/track/7eGTNVmPCLLg1H80egouhZ"
+    },
+    {
+      "album": {
+        "name": "You, Me & the Moon",
+        "url": "https://open.spotify.com/album/19KZ0vZm4XQXEZzyRBkJOa"
+      },
+      "artists": [
+        {
+          "name": "Palmer Anthony",
+          "url": "https://open.spotify.com/artist/412iPDYOYPA2pcGgdlLh5s"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188942,
+      "name": "You, Me & the Moon",
+      "url": "https://open.spotify.com/track/7KKfwOIYqJ1joapasPJzoR"
     },
     {
       "album": {

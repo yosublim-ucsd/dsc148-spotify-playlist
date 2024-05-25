@@ -541,6 +541,24 @@
     },
     {
       "album": {
+        "name": "Se Joga (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3uyCAKNUG2xNsLDjSz7CZd"
+      },
+      "artists": [
+        {
+          "name": "M\u00e1rcia Fellipe",
+          "url": "https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143474,
+      "name": "A Mulher Mais Foda do Brasil - Ao Vivo",
+      "url": "https://open.spotify.com/track/2fjEpLQpG0Ey7icNV4Dl8P"
+    },
+    {
+      "album": {
         "name": "A QUEDA",
         "url": "https://open.spotify.com/album/1nrGJRwyxKMNnGB8Rz1QJR"
       },
@@ -17342,7 +17360,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-24",
+      "date_removed": null,
       "duration_ms": 177237,
       "name": "P\u00e9ssima Hora - Ao Vivo",
       "url": "https://open.spotify.com/track/2BPZCE8hyWgaURPxQNA7pq"
@@ -17654,7 +17672,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-24",
+      "date_removed": null,
       "duration_ms": 160669,
       "name": "Quero Ver C\u00eas Terminar",
       "url": "https://open.spotify.com/track/4fwode2LHBWDTfmmEFR9mw"
@@ -18218,7 +18236,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 168216,
       "name": "Rua - Ao Vivo em Bahamas",
       "url": "https://open.spotify.com/track/4FC0VLxNPtX6qBAtyvxroL"
@@ -20010,7 +20028,7 @@
       ],
       "date_added": "2024-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 116818,
       "name": "S\u00f3 n\u00e3o dou meu celular",
       "url": "https://open.spotify.com/track/0HBhrMK1qmOKA2ZLFv2YmU"
@@ -22200,7 +22218,7 @@
       ],
       "date_added": "2024-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 115298,
       "name": "Vem Desestressar",
       "url": "https://open.spotify.com/track/7j0N4df9g0jECdfSR07elf"

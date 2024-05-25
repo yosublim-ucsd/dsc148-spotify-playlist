@@ -1,6 +1,6 @@
 {
   "description": "A mega Anime hits mix! \u30a2\u30cb\u30e1\u30b7\u30fc\u30f3\u306e\u30ed\u30f3\u30b0&\u30e1\u30ac\u30d2\u30c3\u30c8\u66f2\u3092\u307e\u3068\u3081\u3066\u697d\u3057\u3082\u3046\u3002Illustration by <a href=\"https://kazuhisauragami.com/\"> Kazuhisa Uragami</a> ",
-  "num_followers": 597850,
+  "num_followers": 598258,
   "original_name": "Anime On Replay",
   "owner": {
     "name": "Spotify",
@@ -959,6 +959,22 @@
     {
       "added_at": "2024-04-30 15:00:00",
       "album": {
+        "name": "spiral",
+        "url": "https://open.spotify.com/album/5TcOT3xsaZzNiocd2Faxzs"
+      },
+      "artists": [
+        {
+          "name": "LONGMAN",
+          "url": "https://open.spotify.com/artist/0MBIT0F93uiCv6uLQfH7i7"
+        }
+      ],
+      "duration_ms": 231066,
+      "name": "spiral",
+      "url": "https://open.spotify.com/track/6xAIVrhyFQaHwPVWfUvWvE"
+    },
+    {
+      "added_at": "2024-04-30 15:00:00",
+      "album": {
         "name": "\u30a2\u30a4\u30bf\u30ea\u30ca\u30a4",
         "url": "https://open.spotify.com/album/1C5VITN2qaLE4PChtSmSrj"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 162366,
       "name": "\u30a2\u30a4\u30bf\u30ea\u30ca\u30a4",
       "url": "https://open.spotify.com/track/67seLhibwW3OAyZcEw5Ijh"
-    },
-    {
-      "added_at": "2024-04-30 15:00:00",
-      "album": {
-        "name": "spiral",
-        "url": "https://open.spotify.com/album/5TcOT3xsaZzNiocd2Faxzs"
-      },
-      "artists": [
-        {
-          "name": "LONGMAN",
-          "url": "https://open.spotify.com/artist/0MBIT0F93uiCv6uLQfH7i7"
-        }
-      ],
-      "duration_ms": 231066,
-      "name": "spiral",
-      "url": "https://open.spotify.com/track/6xAIVrhyFQaHwPVWfUvWvE"
     },
     {
       "added_at": "2024-04-30 15:00:00",
@@ -1079,26 +1079,18 @@
     {
       "added_at": "2024-04-30 15:00:00",
       "album": {
-        "name": "\u30a2\u30a4\u30ef\u30ca\u30e0\u30c1\u30e5\u30fc",
-        "url": "https://open.spotify.com/album/1JNzKXrtkaXgn5y96johqC"
+        "name": "\u6b8b\u6a5f",
+        "url": "https://open.spotify.com/album/3wGoYoTJhdbkvn7WZpTqz3"
       },
       "artists": [
         {
-          "name": "MAISONdes",
-          "url": "https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM"
-        },
-        {
-          "name": "asmi",
-          "url": "https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza"
-        },
-        {
-          "name": "\u3059\u308a\u3043",
-          "url": "https://open.spotify.com/artist/29XdcKZcwr9ikcmxud5UEa"
+          "name": "ZUTOMAYO",
+          "url": "https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj"
         }
       ],
-      "duration_ms": 205733,
-      "name": "\u30a2\u30a4\u30ef\u30ca\u30e0\u30c1\u30e5\u30fc",
-      "url": "https://open.spotify.com/track/21zl36W7QoaVy5MMxAvfcv"
+      "duration_ms": 230066,
+      "name": "\u6b8b\u6a5f",
+      "url": "https://open.spotify.com/track/1XeOqgzh2fZhmgxnmyiIJ8"
     },
     {
       "added_at": "2024-04-30 15:00:00",
@@ -1123,22 +1115,6 @@
     {
       "added_at": "2024-04-30 15:00:00",
       "album": {
-        "name": "\u6b8b\u6a5f",
-        "url": "https://open.spotify.com/album/3wGoYoTJhdbkvn7WZpTqz3"
-      },
-      "artists": [
-        {
-          "name": "ZUTOMAYO",
-          "url": "https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj"
-        }
-      ],
-      "duration_ms": 230066,
-      "name": "\u6b8b\u6a5f",
-      "url": "https://open.spotify.com/track/1XeOqgzh2fZhmgxnmyiIJ8"
-    },
-    {
-      "added_at": "2024-04-30 15:00:00",
-      "album": {
         "name": "\u30a6\u30e9\u30e9",
         "url": "https://open.spotify.com/album/3zS9R7KJTSgwfhcmL4ckjl"
       },
@@ -1155,24 +1131,8 @@
     {
       "added_at": "2024-04-30 15:00:00",
       "album": {
-        "name": "\u5927\u8133\u7684\u306a\u30e9\u30f3\u30c7\u30d6\u30fc",
-        "url": "https://open.spotify.com/album/5wJn8Yo0FqeSsvfUgrlXhx"
-      },
-      "artists": [
-        {
-          "name": "Kanaria",
-          "url": "https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF"
-        }
-      ],
-      "duration_ms": 132295,
-      "name": "\u5927\u8133\u7684\u306a\u30e9\u30f3\u30c7\u30d6\u30fc",
-      "url": "https://open.spotify.com/track/2peXRsKoFZMyy30Zi3dhLH"
-    },
-    {
-      "added_at": "2024-04-30 15:00:00",
-      "album": {
-        "name": "\u30a2\u30a4\u30a6\u30a8",
-        "url": "https://open.spotify.com/album/1cWeuydo4eS8AwAID5YUGJ"
+        "name": "\u30a2\u30a4\u30ef\u30ca\u30e0\u30c1\u30e5\u30fc",
+        "url": "https://open.spotify.com/album/1JNzKXrtkaXgn5y96johqC"
       },
       "artists": [
         {
@@ -1180,17 +1140,17 @@
           "url": "https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM"
         },
         {
-          "name": "\u7f8e\u6ce2",
-          "url": "https://open.spotify.com/artist/1KXJUpTiNeMv93LrJbbm7G"
+          "name": "asmi",
+          "url": "https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza"
         },
         {
-          "name": "SAKURAmoti",
-          "url": "https://open.spotify.com/artist/2raQe3AjMykp6K4Y890owO"
+          "name": "\u3059\u308a\u3043",
+          "url": "https://open.spotify.com/artist/29XdcKZcwr9ikcmxud5UEa"
         }
       ],
-      "duration_ms": 222366,
-      "name": "\u30a2\u30a4\u30a6\u30a8",
-      "url": "https://open.spotify.com/track/7rqYTYi70xZBqEMAtSVhXc"
+      "duration_ms": 205733,
+      "name": "\u30a2\u30a4\u30ef\u30ca\u30e0\u30c1\u30e5\u30fc",
+      "url": "https://open.spotify.com/track/21zl36W7QoaVy5MMxAvfcv"
     },
     {
       "added_at": "2024-04-30 15:00:00",
@@ -1211,18 +1171,18 @@
     {
       "added_at": "2024-04-30 15:00:00",
       "album": {
-        "name": "BOY",
-        "url": "https://open.spotify.com/album/2uBF1lnflUJBHLGvg2rEyI"
+        "name": "\u5927\u8133\u7684\u306a\u30e9\u30f3\u30c7\u30d6\u30fc",
+        "url": "https://open.spotify.com/album/5wJn8Yo0FqeSsvfUgrlXhx"
       },
       "artists": [
         {
-          "name": "King Gnu",
-          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
+          "name": "Kanaria",
+          "url": "https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF"
         }
       ],
-      "duration_ms": 231385,
-      "name": "BOY",
-      "url": "https://open.spotify.com/track/3oQaOjaIYPsnJbGNzXcIID"
+      "duration_ms": 132295,
+      "name": "\u5927\u8133\u7684\u306a\u30e9\u30f3\u30c7\u30d6\u30fc",
+      "url": "https://open.spotify.com/track/2peXRsKoFZMyy30Zi3dhLH"
     },
     {
       "added_at": "2024-04-30 15:00:00",
@@ -1239,6 +1199,22 @@
       "duration_ms": 248453,
       "name": "Hello,world!",
       "url": "https://open.spotify.com/track/1YqVJ2YSgwxWpfuENocF2t"
+    },
+    {
+      "added_at": "2024-04-30 15:00:00",
+      "album": {
+        "name": "BOY",
+        "url": "https://open.spotify.com/album/2uBF1lnflUJBHLGvg2rEyI"
+      },
+      "artists": [
+        {
+          "name": "King Gnu",
+          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
+        }
+      ],
+      "duration_ms": 231385,
+      "name": "BOY",
+      "url": "https://open.spotify.com/track/3oQaOjaIYPsnJbGNzXcIID"
     },
     {
       "added_at": "2024-04-30 15:00:00",
@@ -1323,6 +1299,30 @@
     {
       "added_at": "2024-04-30 15:00:00",
       "album": {
+        "name": "\u30a2\u30a4\u30a6\u30a8",
+        "url": "https://open.spotify.com/album/1cWeuydo4eS8AwAID5YUGJ"
+      },
+      "artists": [
+        {
+          "name": "MAISONdes",
+          "url": "https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM"
+        },
+        {
+          "name": "\u7f8e\u6ce2",
+          "url": "https://open.spotify.com/artist/1KXJUpTiNeMv93LrJbbm7G"
+        },
+        {
+          "name": "SAKURAmoti",
+          "url": "https://open.spotify.com/artist/2raQe3AjMykp6K4Y890owO"
+        }
+      ],
+      "duration_ms": 222366,
+      "name": "\u30a2\u30a4\u30a6\u30a8",
+      "url": "https://open.spotify.com/track/7rqYTYi70xZBqEMAtSVhXc"
+    },
+    {
+      "added_at": "2024-04-30 15:00:00",
+      "album": {
         "name": "\u7a81\u7834\u53e3 / \u81ea\u6162\u306b\u306a\u308a\u305f\u3044",
         "url": "https://open.spotify.com/album/7leiGT0C2C6iTwyfzOVBqB"
       },
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2024-04-30 15:00:00",
       "album": {
-        "name": "\u30a2\u30ab\u30b7\u30a2",
-        "url": "https://open.spotify.com/album/1XY5kWsl3pdO4z1XZjffsF"
-      },
-      "artists": [
-        {
-          "name": "BUMP OF CHICKEN",
-          "url": "https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy"
-        }
-      ],
-      "duration_ms": 262106,
-      "name": "\u30a2\u30ab\u30b7\u30a2",
-      "url": "https://open.spotify.com/track/0Jcx9VqsO4t20gYeznW7Uq"
-    },
-    {
-      "added_at": "2024-04-30 15:00:00",
-      "album": {
         "name": "\u82b1\u306b\u4ea1\u970a",
         "url": "https://open.spotify.com/album/5mVxVdNG00wGPJjZD5pdsR"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 240120,
       "name": "\u82b1\u306b\u4ea1\u970a",
       "url": "https://open.spotify.com/track/53maoOKr6j04iqk6qjdvQN"
+    },
+    {
+      "added_at": "2024-04-30 15:00:00",
+      "album": {
+        "name": "\u30a2\u30ab\u30b7\u30a2",
+        "url": "https://open.spotify.com/album/1XY5kWsl3pdO4z1XZjffsF"
+      },
+      "artists": [
+        {
+          "name": "BUMP OF CHICKEN",
+          "url": "https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy"
+        }
+      ],
+      "duration_ms": 262106,
+      "name": "\u30a2\u30ab\u30b7\u30a2",
+      "url": "https://open.spotify.com/track/0Jcx9VqsO4t20gYeznW7Uq"
     },
     {
       "added_at": "2024-04-30 15:00:00",
@@ -1523,18 +1523,18 @@
     {
       "added_at": "2024-04-30 15:00:00",
       "album": {
-        "name": "\u5149\u306e\u4e2d\u3078",
-        "url": "https://open.spotify.com/album/5sDC6Ant3CvtIFt6kPhGm8"
+        "name": "\u660e\u3051\u661f",
+        "url": "https://open.spotify.com/album/4iQhpT848HsgBFeXfLgBoY"
       },
       "artists": [
         {
-          "name": "\u7d50\u675f\u30d0\u30f3\u30c9",
-          "url": "https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD"
+          "name": "LiSA",
+          "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
         }
       ],
-      "duration_ms": 258265,
-      "name": "\u5149\u306e\u4e2d\u3078",
-      "url": "https://open.spotify.com/track/5pRchw0E4RpVqIWcyVCrJv"
+      "duration_ms": 269000,
+      "name": "\u660e\u3051\u661f",
+      "url": "https://open.spotify.com/track/3J34JtfZNylVXSKN4TDf12"
     },
     {
       "added_at": "2024-04-30 15:00:00",
@@ -1555,18 +1555,18 @@
     {
       "added_at": "2024-04-30 15:00:00",
       "album": {
-        "name": "\u660e\u3051\u661f",
-        "url": "https://open.spotify.com/album/4iQhpT848HsgBFeXfLgBoY"
+        "name": "\u5149\u306e\u4e2d\u3078",
+        "url": "https://open.spotify.com/album/5sDC6Ant3CvtIFt6kPhGm8"
       },
       "artists": [
         {
-          "name": "LiSA",
-          "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
+          "name": "\u7d50\u675f\u30d0\u30f3\u30c9",
+          "url": "https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD"
         }
       ],
-      "duration_ms": 269000,
-      "name": "\u660e\u3051\u661f",
-      "url": "https://open.spotify.com/track/3J34JtfZNylVXSKN4TDf12"
+      "duration_ms": 258265,
+      "name": "\u5149\u306e\u4e2d\u3078",
+      "url": "https://open.spotify.com/track/5pRchw0E4RpVqIWcyVCrJv"
     },
     {
       "added_at": "2024-04-30 15:00:00",
@@ -1587,18 +1587,18 @@
     {
       "added_at": "2024-04-30 15:00:00",
       "album": {
-        "name": "\u30b7\u30f3\u30c7\u30ec\u30e9",
-        "url": "https://open.spotify.com/album/1OqBXmqvKxd0nlL5v9sA7u"
+        "name": "\u9583\u5149",
+        "url": "https://open.spotify.com/album/1M0bv6o77rYRLeP0RYAcju"
       },
       "artists": [
         {
-          "name": "Cidergirl",
-          "url": "https://open.spotify.com/artist/3hprFQEXS7glX1Jxxwv9Dn"
+          "name": "[Alexandros]",
+          "url": "https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI"
         }
       ],
-      "duration_ms": 212310,
-      "name": "\u30b7\u30f3\u30c7\u30ec\u30e9",
-      "url": "https://open.spotify.com/track/6ilTR3RpLCAHDt3Z6YuQGx"
+      "duration_ms": 265466,
+      "name": "\u9583\u5149",
+      "url": "https://open.spotify.com/track/6orDsQsMy7BaqGoRWw3fVN"
     },
     {
       "added_at": "2024-04-30 15:00:00",
@@ -1623,18 +1623,18 @@
     {
       "added_at": "2024-04-30 15:00:00",
       "album": {
-        "name": "\u9583\u5149",
-        "url": "https://open.spotify.com/album/1M0bv6o77rYRLeP0RYAcju"
+        "name": "\u30b7\u30f3\u30c7\u30ec\u30e9",
+        "url": "https://open.spotify.com/album/1OqBXmqvKxd0nlL5v9sA7u"
       },
       "artists": [
         {
-          "name": "[Alexandros]",
-          "url": "https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI"
+          "name": "Cidergirl",
+          "url": "https://open.spotify.com/artist/3hprFQEXS7glX1Jxxwv9Dn"
         }
       ],
-      "duration_ms": 265466,
-      "name": "\u9583\u5149",
-      "url": "https://open.spotify.com/track/6orDsQsMy7BaqGoRWw3fVN"
+      "duration_ms": 212310,
+      "name": "\u30b7\u30f3\u30c7\u30ec\u30e9",
+      "url": "https://open.spotify.com/track/6ilTR3RpLCAHDt3Z6YuQGx"
     },
     {
       "added_at": "2024-04-30 15:00:00",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2024-04-30 15:00:00",
       "album": {
-        "name": "\u6c38\u9060\u306e\u4e0d\u5728\u8a3c\u660e",
-        "url": "https://open.spotify.com/album/5y7E3hUWGNoY98C1TubePY"
-      },
-      "artists": [
-        {
-          "name": "Tokyo Incidents",
-          "url": "https://open.spotify.com/artist/6KQWWzFLPQbqomJrieHAW5"
-        }
-      ],
-      "duration_ms": 261440,
-      "name": "\u6c38\u9060\u306e\u4e0d\u5728\u8a3c\u660e",
-      "url": "https://open.spotify.com/track/7FL5iSLdKcersBgDiwijis"
-    },
-    {
-      "added_at": "2024-04-30 15:00:00",
-      "album": {
         "name": "\u30cb\u30c3\u30dd\u30f3\u7b11\u9854\u767e\u666f",
         "url": "https://open.spotify.com/album/3xafGKlmb5CcZsqWInSU7d"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 234573,
       "name": "\u30cb\u30c3\u30dd\u30f3\u7b11\u9854\u767e\u666f",
       "url": "https://open.spotify.com/track/7HvLwBlGXvaWJZpg1IqwbS"
+    },
+    {
+      "added_at": "2024-04-30 15:00:00",
+      "album": {
+        "name": "\u6c38\u9060\u306e\u4e0d\u5728\u8a3c\u660e",
+        "url": "https://open.spotify.com/album/5y7E3hUWGNoY98C1TubePY"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Incidents",
+          "url": "https://open.spotify.com/artist/6KQWWzFLPQbqomJrieHAW5"
+        }
+      ],
+      "duration_ms": 261440,
+      "name": "\u6c38\u9060\u306e\u4e0d\u5728\u8a3c\u660e",
+      "url": "https://open.spotify.com/track/7FL5iSLdKcersBgDiwijis"
     }
   ],
   "unique_name": "Anime On Replay",

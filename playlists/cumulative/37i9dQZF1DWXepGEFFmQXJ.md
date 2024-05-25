@@ -4,7 +4,7 @@
 
 > The cream of today's Country crop\. Cover: Bailey Zimmerman
 
-644 songs - 1 day 11 hr 22 min
+645 songs - 1 day 11 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -418,6 +418,7 @@
 | [People Drinkin' Beer](https://open.spotify.com/track/1Ac4GuCaD0RDsSUCoZTGrp) | [The Viper Creek Band](https://open.spotify.com/artist/0V0iGpPvQ1BdTHvGBaxn9Y) | [People Drinkin' Beer](https://open.spotify.com/album/0atuo4lRqiZyjIj8L1dzSh) | 2:47 | 2021-12-30 | 2022-01-28 |
 | [Pick Me Up](https://open.spotify.com/track/7xNYZeFtrB05pi9tc6lEeb) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Pick Me Up](https://open.spotify.com/album/0AFaIppKjr2lO1pCjx1wK5) | 2:49 | 2022-01-27 | 2022-07-15 |
 | [Pink Champagne](https://open.spotify.com/track/0LI59fuqv8OTAnY9cqCife) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Denim & Rhinestones](https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u) | 3:23 | 2022-06-09 | 2022-09-30 |
+| [Pink Skies](https://open.spotify.com/track/4ZJ4vzLQekI0WntDbanNC7) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Pink Skies](https://open.spotify.com/album/7LRZfujsTLyy814AnMSdtT) | 3:14 | 2024-05-24 |  |
 | [Place for Me](https://open.spotify.com/track/6lhnuGmvxgRiozlK4J2cer) | [Kasey Tyndall](https://open.spotify.com/artist/08fvWshbReeOVorxMtddh2), [Dylan Marlowe](https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax) | [Place for Me](https://open.spotify.com/album/23KSpAVjELjsop1LUXsldT) | 3:12 | 2023-01-05 | 2023-04-28 |
 | [Pour My Heart Out](https://open.spotify.com/track/15EHG8LhwOn1eRRjb3KSLJ) | [Taylor Moss](https://open.spotify.com/artist/6kk3eFuZoE4Lq7dD03Ehkj) | [Pour My Heart Out](https://open.spotify.com/album/0SR72BuMowT5gSFqfZpD4y) | 3:38 | 2023-09-21 | 2023-11-17 |
 | [Pretty Doesn't Make You Good](https://open.spotify.com/track/6HAMVck4qqyaEvvO35FoLi) | [Darlinghurst](https://open.spotify.com/artist/3OjwjBrXRtZtqqmrjc9RYA) | [Pretty Doesn't Make You Good](https://open.spotify.com/album/2CCgH95QT9QgkKSU1HdZyN) | 2:53 | 2023-05-18 | 2023-07-07 |

@@ -3451,6 +3451,24 @@
     },
     {
       "album": {
+        "name": "Look At Me",
+        "url": "https://open.spotify.com/album/1dzxMhanj9kriQCS1PDwzU"
+      },
+      "artists": [
+        {
+          "name": "Nostalgix",
+          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147692,
+      "name": "Look At Me",
+      "url": "https://open.spotify.com/track/03T8F9SOv7aeJX7QKvV1eN"
+    },
+    {
+      "album": {
         "name": "Loving You Kills Me",
         "url": "https://open.spotify.com/album/53r3BRA2TeyJyEtYDBrI60"
       },
@@ -4010,6 +4028,24 @@
       "duration_ms": 180230,
       "name": "Night Spot (feat. B Che)",
       "url": "https://open.spotify.com/track/5n6ETg2Eeov0az6DLDPYfN"
+    },
+    {
+      "album": {
+        "name": "NNTS",
+        "url": "https://open.spotify.com/album/6IiM3S96ZnWUPAXx9ue2KT"
+      },
+      "artists": [
+        {
+          "name": "Ookay",
+          "url": "https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149760,
+      "name": "NNTS",
+      "url": "https://open.spotify.com/track/4sOHlTI0wJCjwlZaZHOdoG"
     },
     {
       "album": {

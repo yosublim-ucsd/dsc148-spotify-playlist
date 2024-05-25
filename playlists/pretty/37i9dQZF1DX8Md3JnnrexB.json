@@ -1,6 +1,6 @@
 {
   "description": "Laid back soul music.",
-  "num_followers": 209453,
+  "num_followers": 209467,
   "original_name": "Soulful Blend",
   "owner": {
     "name": "Spotify",
@@ -275,22 +275,6 @@
     {
       "added_at": "2024-04-11 12:37:11",
       "album": {
-        "name": "The Soul Album",
-        "url": "https://open.spotify.com/album/3YKQkIPHtWGuvkBeVNIMhg"
-      },
-      "artists": [
-        {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
-        }
-      ],
-      "duration_ms": 240800,
-      "name": "Cigarettes and Coffee",
-      "url": "https://open.spotify.com/track/4PFiLGx8jAzcAJxwPLUeZ9"
-    },
-    {
-      "added_at": "2024-04-11 12:37:11",
-      "album": {
         "name": "In Your Eyes",
         "url": "https://open.spotify.com/album/4QZ7wq0y0io4KdNDqF81y8"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 345240,
       "name": "Reunited",
       "url": "https://open.spotify.com/track/7wbPfd2mXbStoZZSnHNd2V"
+    },
+    {
+      "added_at": "2024-04-11 12:37:11",
+      "album": {
+        "name": "The Soul Album",
+        "url": "https://open.spotify.com/album/3YKQkIPHtWGuvkBeVNIMhg"
+      },
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "duration_ms": 240800,
+      "name": "Cigarettes and Coffee",
+      "url": "https://open.spotify.com/track/4PFiLGx8jAzcAJxwPLUeZ9"
     },
     {
       "added_at": "2024-04-11 12:37:11",
@@ -403,22 +403,6 @@
     {
       "added_at": "2024-04-11 12:37:11",
       "album": {
-        "name": "Circle Of One",
-        "url": "https://open.spotify.com/album/0AXqyNdhstfyZyVjjJMszO"
-      },
-      "artists": [
-        {
-          "name": "Oleta Adams",
-          "url": "https://open.spotify.com/artist/1BMb6sQJVkmUyCuodmRs2g"
-        }
-      ],
-      "duration_ms": 274693,
-      "name": "Get Here",
-      "url": "https://open.spotify.com/track/5QuBsgbjQHpwfiV7aIwvQV"
-    },
-    {
-      "added_at": "2024-04-11 12:37:11",
-      "album": {
         "name": "Jarreau",
         "url": "https://open.spotify.com/album/3shAfFQ9RZWalGR5JSgnTb"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 258399,
       "name": "Mornin'",
       "url": "https://open.spotify.com/track/4TxBGpTxrNvRNhF39Dl3NQ"
+    },
+    {
+      "added_at": "2024-04-11 12:37:11",
+      "album": {
+        "name": "Circle Of One",
+        "url": "https://open.spotify.com/album/0AXqyNdhstfyZyVjjJMszO"
+      },
+      "artists": [
+        {
+          "name": "Oleta Adams",
+          "url": "https://open.spotify.com/artist/1BMb6sQJVkmUyCuodmRs2g"
+        }
+      ],
+      "duration_ms": 274693,
+      "name": "Get Here",
+      "url": "https://open.spotify.com/track/5QuBsgbjQHpwfiV7aIwvQV"
     },
     {
       "added_at": "2024-04-11 12:37:11",
@@ -663,22 +663,6 @@
     {
       "added_at": "2024-04-11 12:37:11",
       "album": {
-        "name": "Breakin' Away",
-        "url": "https://open.spotify.com/album/5rMktOHgYGeV65qjHk6W2X"
-      },
-      "artists": [
-        {
-          "name": "Al Jarreau",
-          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
-        }
-      ],
-      "duration_ms": 226066,
-      "name": "We're in This Love Together",
-      "url": "https://open.spotify.com/track/1Let4BYaYSum46nAGO1i6v"
-    },
-    {
-      "added_at": "2024-04-11 12:37:11",
-      "album": {
         "name": "The Dude",
         "url": "https://open.spotify.com/album/2GD9TjWG3Tu4JygAZniBY0"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 259040,
       "name": "One Hundred Ways",
       "url": "https://open.spotify.com/track/0Yp603BgzIKDDcSUBrYYba"
+    },
+    {
+      "added_at": "2024-04-11 12:37:11",
+      "album": {
+        "name": "Breakin' Away",
+        "url": "https://open.spotify.com/album/5rMktOHgYGeV65qjHk6W2X"
+      },
+      "artists": [
+        {
+          "name": "Al Jarreau",
+          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
+        }
+      ],
+      "duration_ms": 226066,
+      "name": "We're in This Love Together",
+      "url": "https://open.spotify.com/track/1Let4BYaYSum46nAGO1i6v"
     },
     {
       "added_at": "2024-04-11 12:37:11",
@@ -1051,26 +1051,6 @@
     {
       "added_at": "2024-04-11 12:37:11",
       "album": {
-        "name": "Sweeter (feat. Terrace Martin)",
-        "url": "https://open.spotify.com/album/7MEVKXLS3YOlaz3kXexPeM"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        },
-        {
-          "name": "Terrace Martin",
-          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
-        }
-      ],
-      "duration_ms": 167468,
-      "name": "Sweeter (feat. Terrace Martin)",
-      "url": "https://open.spotify.com/track/1ehhGlTvjtHo2e4xJFB0SZ"
-    },
-    {
-      "added_at": "2024-04-11 12:37:11",
-      "album": {
         "name": "Bring it on Home to Me (feat. Charlie Bereal)",
         "url": "https://open.spotify.com/album/54tJsoenzgUlUokisFrWVA"
       },
@@ -1095,6 +1075,26 @@
       "duration_ms": 201600,
       "name": "Bring it on Home to Me (feat. Charlie Bereal)",
       "url": "https://open.spotify.com/track/578ziqCj8ieyz7NLrZ31km"
+    },
+    {
+      "added_at": "2024-04-11 12:37:11",
+      "album": {
+        "name": "Sweeter (feat. Terrace Martin)",
+        "url": "https://open.spotify.com/album/7MEVKXLS3YOlaz3kXexPeM"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        },
+        {
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+        }
+      ],
+      "duration_ms": 167468,
+      "name": "Sweeter (feat. Terrace Martin)",
+      "url": "https://open.spotify.com/track/1ehhGlTvjtHo2e4xJFB0SZ"
     },
     {
       "added_at": "2024-04-11 12:37:11",
@@ -1163,26 +1163,6 @@
     {
       "added_at": "2024-04-11 12:37:11",
       "album": {
-        "name": "Golden Time Of Day (Remastered)",
-        "url": "https://open.spotify.com/album/3MorhYBBdoEOeBJlkWHXIS"
-      },
-      "artists": [
-        {
-          "name": "Maze",
-          "url": "https://open.spotify.com/artist/3DvdryKH4O95ZnsUZJKXpt"
-        },
-        {
-          "name": "Frankie Beverly",
-          "url": "https://open.spotify.com/artist/6rXycobs8wkWicUGLtmB0n"
-        }
-      ],
-      "duration_ms": 333666,
-      "name": "Golden Time Of Day - Remastered",
-      "url": "https://open.spotify.com/track/0epdaOT9HBO8Mm7ykRuFpT"
-    },
-    {
-      "added_at": "2024-04-11 12:37:11",
-      "album": {
         "name": "The Essentials: Ambrosia",
         "url": "https://open.spotify.com/album/1CB0IK8U51Tv4ynJYdKKXW"
       },
@@ -1199,6 +1179,26 @@
       "duration_ms": 326800,
       "name": "Biggest Part of Me - Remastered Version",
       "url": "https://open.spotify.com/track/5APylRvEGGAegrESwuG3A0"
+    },
+    {
+      "added_at": "2024-04-11 12:37:11",
+      "album": {
+        "name": "Golden Time Of Day (Remastered)",
+        "url": "https://open.spotify.com/album/3MorhYBBdoEOeBJlkWHXIS"
+      },
+      "artists": [
+        {
+          "name": "Maze",
+          "url": "https://open.spotify.com/artist/3DvdryKH4O95ZnsUZJKXpt"
+        },
+        {
+          "name": "Frankie Beverly",
+          "url": "https://open.spotify.com/artist/6rXycobs8wkWicUGLtmB0n"
+        }
+      ],
+      "duration_ms": 333666,
+      "name": "Golden Time Of Day - Remastered",
+      "url": "https://open.spotify.com/track/0epdaOT9HBO8Mm7ykRuFpT"
     },
     {
       "added_at": "2024-04-11 12:37:11",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2024-04-11 12:37:11",
       "album": {
+        "name": "Friends In Love",
+        "url": "https://open.spotify.com/album/2cTcWY4AibpkqpwbUjJmuK"
+      },
+      "artists": [
+        {
+          "name": "Dionne Warwick",
+          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
+        }
+      ],
+      "duration_ms": 298946,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/5LvUhG3juSj0TnCoHifKd7"
+    },
+    {
+      "added_at": "2024-04-11 12:37:11",
+      "album": {
         "name": "Been and Gone",
         "url": "https://open.spotify.com/album/6aTDGqCSxTL7ltobEf5q89"
       },
@@ -1267,22 +1283,6 @@
       "duration_ms": 280218,
       "name": "Been and Gone",
       "url": "https://open.spotify.com/track/23QzGEg02ffn4D9Dje9Nsc"
-    },
-    {
-      "added_at": "2024-04-11 12:37:11",
-      "album": {
-        "name": "Friends In Love",
-        "url": "https://open.spotify.com/album/2cTcWY4AibpkqpwbUjJmuK"
-      },
-      "artists": [
-        {
-          "name": "Dionne Warwick",
-          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
-        }
-      ],
-      "duration_ms": 298946,
-      "name": "For You",
-      "url": "https://open.spotify.com/track/5LvUhG3juSj0TnCoHifKd7"
     },
     {
       "added_at": "2024-04-11 12:37:11",

@@ -1,6 +1,6 @@
 {
   "description": "\u30a2\u30cb\u30e1\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u9054\u3092\u7279\u96c6\uff01 Celebrate the great female artists from anime culture. Cover: \u30ab\u30ce\u30a8\u30e9\u30ca",
-  "num_followers": 159465,
+  "num_followers": 159482,
   "original_name": "EQUAL Anime",
   "owner": {
     "name": "Spotify",
@@ -571,22 +571,6 @@
     {
       "added_at": "2024-05-23 15:00:00",
       "album": {
-        "name": "\u5149\u306e\u4e2d\u3078",
-        "url": "https://open.spotify.com/album/5sDC6Ant3CvtIFt6kPhGm8"
-      },
-      "artists": [
-        {
-          "name": "\u7d50\u675f\u30d0\u30f3\u30c9",
-          "url": "https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD"
-        }
-      ],
-      "duration_ms": 258265,
-      "name": "\u5149\u306e\u4e2d\u3078",
-      "url": "https://open.spotify.com/track/5pRchw0E4RpVqIWcyVCrJv"
-    },
-    {
-      "added_at": "2024-05-23 15:00:00",
-      "album": {
         "name": "\u96d1\u8e0f\u3001\u50d5\u3089\u306e\u8857",
         "url": "https://open.spotify.com/album/5aX0n53SHMx8iHE6ctlOwh"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 184243,
       "name": "\u96d1\u8e0f\u3001\u50d5\u3089\u306e\u8857",
       "url": "https://open.spotify.com/track/0tNSVPZeJjpNH7Q9VqrbyJ"
+    },
+    {
+      "added_at": "2024-05-23 15:00:00",
+      "album": {
+        "name": "\u5149\u306e\u4e2d\u3078",
+        "url": "https://open.spotify.com/album/5sDC6Ant3CvtIFt6kPhGm8"
+      },
+      "artists": [
+        {
+          "name": "\u7d50\u675f\u30d0\u30f3\u30c9",
+          "url": "https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD"
+        }
+      ],
+      "duration_ms": 258265,
+      "name": "\u5149\u306e\u4e2d\u3078",
+      "url": "https://open.spotify.com/track/5pRchw0E4RpVqIWcyVCrJv"
     },
     {
       "added_at": "2024-05-23 15:00:00",
@@ -795,22 +795,6 @@
     {
       "added_at": "2024-05-23 15:00:00",
       "album": {
-        "name": "\u5287\u5834\u7248\u300e\u6a5f\u52d5\u6226\u58eb\u30ac\u30f3\u30c0\u30e0SEED FREEDOM\u300f\u30a8\u30f3\u30c7\u30a3\u30f3\u30b0\u30c6\u30fc\u30de\u3000\u53bb\u308a\u969b\u306e\u30ed\u30de\u30f3\u30c6\u30a3\u30af\u30b9",
-        "url": "https://open.spotify.com/album/0tqbUs4gvTju9SmPZZung9"
-      },
-      "artists": [
-        {
-          "name": "See-Saw",
-          "url": "https://open.spotify.com/artist/7FVrkZcfwIc1ZwlQPatdUw"
-        }
-      ],
-      "duration_ms": 276160,
-      "name": "\u53bb\u308a\u969b\u306e\u30ed\u30de\u30f3\u30c6\u30a3\u30af\u30b9",
-      "url": "https://open.spotify.com/track/4DxET2JXNYoul7xQnRZpih"
-    },
-    {
-      "added_at": "2024-05-23 15:00:00",
-      "album": {
         "name": "\u72c2\u4fe1\u8005\u306e\u30d1\u30ec\u30fc\u30c9 - The Parade of Battlers",
         "url": "https://open.spotify.com/album/6Rql8tyfUXkJWq5tlzVMjP"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 251000,
       "name": "\u72c2\u4fe1\u8005\u306e\u30d1\u30ec\u30fc\u30c9 - The Parade of Battlers",
       "url": "https://open.spotify.com/track/2eag5tepAFxHgvyM5DNed5"
+    },
+    {
+      "added_at": "2024-05-23 15:00:00",
+      "album": {
+        "name": "\u5287\u5834\u7248\u300e\u6a5f\u52d5\u6226\u58eb\u30ac\u30f3\u30c0\u30e0SEED FREEDOM\u300f\u30a8\u30f3\u30c7\u30a3\u30f3\u30b0\u30c6\u30fc\u30de\u3000\u53bb\u308a\u969b\u306e\u30ed\u30de\u30f3\u30c6\u30a3\u30af\u30b9",
+        "url": "https://open.spotify.com/album/0tqbUs4gvTju9SmPZZung9"
+      },
+      "artists": [
+        {
+          "name": "See-Saw",
+          "url": "https://open.spotify.com/artist/7FVrkZcfwIc1ZwlQPatdUw"
+        }
+      ],
+      "duration_ms": 276160,
+      "name": "\u53bb\u308a\u969b\u306e\u30ed\u30de\u30f3\u30c6\u30a3\u30af\u30b9",
+      "url": "https://open.spotify.com/track/4DxET2JXNYoul7xQnRZpih"
     },
     {
       "added_at": "2024-05-23 15:00:00",
@@ -843,18 +843,18 @@
     {
       "added_at": "2024-05-23 15:00:00",
       "album": {
-        "name": "HELLO WORLD",
-        "url": "https://open.spotify.com/album/710djdFa2qcgDZvp8UzqLB"
+        "name": "Red:birthmark",
+        "url": "https://open.spotify.com/album/7AY0g8TDN47O4adtsPLFgj"
       },
       "artists": [
         {
-          "name": "LiSA",
-          "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
+          "name": "AiNA THE END",
+          "url": "https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC"
         }
       ],
-      "duration_ms": 293013,
-      "name": "HELLO WORLD",
-      "url": "https://open.spotify.com/track/4Fc2uEp6DsKCxWB7day331"
+      "duration_ms": 216826,
+      "name": "Red:birthmark",
+      "url": "https://open.spotify.com/track/29m9hdcziVa1g3FrXtdNOe"
     }
   ],
   "unique_name": "EQUAL Anime",

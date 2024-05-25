@@ -185,6 +185,24 @@
     },
     {
       "album": {
+        "name": "Conversation (in Rain)",
+        "url": "https://open.spotify.com/album/6INwjFy13gUUQVlfGqQRjt"
+      },
+      "artists": [
+        {
+          "name": "Antoine Minot",
+          "url": "https://open.spotify.com/artist/7uJIaUfHJ3VtFpeYm2jPTz"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Conversation (in Rain)",
+      "url": "https://open.spotify.com/track/0HfgErtwnzAUlSLza9VdoJ"
+    },
+    {
+      "album": {
         "name": "Cosima and the rain",
         "url": "https://open.spotify.com/album/69lq5lpObxtOW71joJFjrI"
       },
@@ -1370,6 +1388,24 @@
       "duration_ms": 184000,
       "name": "Saudade (rain)",
       "url": "https://open.spotify.com/track/50B2aIF9naQZcULzikaTyi"
+    },
+    {
+      "album": {
+        "name": "Seedlings",
+        "url": "https://open.spotify.com/album/68sG1nEUrWakDNJm4MaVW7"
+      },
+      "artists": [
+        {
+          "name": "Iris Emmanuelle",
+          "url": "https://open.spotify.com/artist/5JCKrEmMJlkxsBLjiBBmzn"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168480,
+      "name": "Seedlings",
+      "url": "https://open.spotify.com/track/0z49vRcUNgQFpzRSkfOrKA"
     },
     {
       "album": {

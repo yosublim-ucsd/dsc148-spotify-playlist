@@ -1,12 +1,12 @@
 {
-  "description": "This is Ladysmith Black Mambazo. The essential tracks, all in one playlist.",
-  "num_followers": 27790,
+  "description": "This is Ladysmith Black Mambazo. Tutti i brani in un'unica playlist.",
+  "num_followers": 27791,
   "original_name": "This Is Ladysmith Black Mambazo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zk01gAAAAADrAE2/tj7sDBqEZEFrso1R",
+  "snapshot_id": "Zk6HAAAAAABg+Wqf8W3ZyWdwPNHshGWH",
   "tracks": [
     {
       "added_at": null,
@@ -183,38 +183,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shaka Zulu",
-        "url": "https://open.spotify.com/album/6BqoNCQsupSaLBkl8u1uME"
-      },
-      "artists": [
-        {
-          "name": "Ladysmith Black Mambazo",
-          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
-        }
-      ],
-      "duration_ms": 189360,
-      "name": "Hello My Baby",
-      "url": "https://open.spotify.com/track/6FajJfTlwR9r1kkGlKlB8c"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Africa in Harmony: 50th Anniversary Edition",
-        "url": "https://open.spotify.com/album/7E9IY8XpEVPycKNk5egsfF"
-      },
-      "artists": [
-        {
-          "name": "Ladysmith Black Mambazo",
-          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
-        }
-      ],
-      "duration_ms": 210613,
-      "name": "Nkosi Sikelel' iAfrika (Shosholoza Mix)",
-      "url": "https://open.spotify.com/track/2twGhMExp2xH9ZF3gYl9ZT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "In Harmony",
         "url": "https://open.spotify.com/album/0Ei2iU4AG1Qgz23S5pNpjf"
       },
@@ -231,6 +199,22 @@
       "duration_ms": 237626,
       "name": "Once In a Blue Moon",
       "url": "https://open.spotify.com/track/1aJD2XbbrBlhjg8zi63o0d"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Africa in Harmony: 50th Anniversary Edition",
+        "url": "https://open.spotify.com/album/7E9IY8XpEVPycKNk5egsfF"
+      },
+      "artists": [
+        {
+          "name": "Ladysmith Black Mambazo",
+          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
+        }
+      ],
+      "duration_ms": 210613,
+      "name": "Nkosi Sikelel' iAfrika (Shosholoza Mix)",
+      "url": "https://open.spotify.com/track/2twGhMExp2xH9ZF3gYl9ZT"
     },
     {
       "added_at": null,
@@ -307,26 +291,6 @@
       "duration_ms": 368184,
       "name": "Gnamale",
       "url": "https://open.spotify.com/track/7ry3Gw24g4C9BEm6MIQlN3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Love, Damini",
-        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        },
-        {
-          "name": "Ladysmith Black Mambazo",
-          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
-        }
-      ],
-      "duration_ms": 142737,
-      "name": "Love, Damini (feat. Ladysmith Black Mambazo)",
-      "url": "https://open.spotify.com/track/0KRrOQfFl8nQ4DuIAPnlYP"
     },
     {
       "added_at": null,
@@ -455,6 +419,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Book of Roses",
+        "url": "https://open.spotify.com/album/3f3DZviJ9w39tCBsj2go2F"
+      },
+      "artists": [
+        {
+          "name": "Andreas Vollenweider",
+          "url": "https://open.spotify.com/artist/7MynOMOTsGz8NFcPUImWAp"
+        },
+        {
+          "name": "Ladysmith Black Mambazo",
+          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
+        },
+        {
+          "name": "Walter Keiser",
+          "url": "https://open.spotify.com/artist/3LfEGh0Nwxa7mJ79Q1kTkX"
+        }
+      ],
+      "duration_ms": 149733,
+      "name": "Passage to Promise",
+      "url": "https://open.spotify.com/track/7rFbSBTKulTxbuM3Z8ncSe"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Shaka Zulu Revisited: 30th Anniversary Celebration",
         "url": "https://open.spotify.com/album/5GoqzAwIz3px7nSHXDOb3X"
       },
@@ -467,22 +455,6 @@
       "duration_ms": 221760,
       "name": "This Little Light of Mine (Bonus Track)",
       "url": "https://open.spotify.com/track/7Eh1tCfRDvCMd20d4Fy4be"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Africa in Harmony: 50th Anniversary Edition",
-        "url": "https://open.spotify.com/album/7E9IY8XpEVPycKNk5egsfF"
-      },
-      "artists": [
-        {
-          "name": "Ladysmith Black Mambazo",
-          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
-        }
-      ],
-      "duration_ms": 183360,
-      "name": "Music Knows No Boundaries",
-      "url": "https://open.spotify.com/track/2ICJfwuwjtePkwgUE4tliT"
     },
     {
       "added_at": null,
@@ -511,26 +483,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Book of Roses",
-        "url": "https://open.spotify.com/album/3f3DZviJ9w39tCBsj2go2F"
+        "name": "Africa in Harmony: 50th Anniversary Edition",
+        "url": "https://open.spotify.com/album/7E9IY8XpEVPycKNk5egsfF"
       },
       "artists": [
         {
-          "name": "Andreas Vollenweider",
-          "url": "https://open.spotify.com/artist/7MynOMOTsGz8NFcPUImWAp"
-        },
-        {
           "name": "Ladysmith Black Mambazo",
           "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
-        },
-        {
-          "name": "Walter Keiser",
-          "url": "https://open.spotify.com/artist/3LfEGh0Nwxa7mJ79Q1kTkX"
         }
       ],
-      "duration_ms": 149733,
-      "name": "Passage to Promise",
-      "url": "https://open.spotify.com/track/7rFbSBTKulTxbuM3Z8ncSe"
+      "duration_ms": 183360,
+      "name": "Music Knows No Boundaries",
+      "url": "https://open.spotify.com/track/2ICJfwuwjtePkwgUE4tliT"
     },
     {
       "added_at": null,
@@ -687,6 +651,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Spirit Of South Africa",
+        "url": "https://open.spotify.com/album/3lSXtIZ7BtoMW3e17WxFCy"
+      },
+      "artists": [
+        {
+          "name": "Ladysmith Black Mambazo",
+          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
+        }
+      ],
+      "duration_ms": 212950,
+      "name": "Nomathemba",
+      "url": "https://open.spotify.com/track/3gptqhvLYt8xyL1fwuObYv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Steel Storm Remixes",
         "url": "https://open.spotify.com/album/0ZvVk2HHDVCWYiQIXoQjnc"
       },
@@ -715,34 +695,6 @@
       "duration_ms": 341880,
       "name": "Steel Storm - Musumeci Remix",
       "url": "https://open.spotify.com/track/3uVRUivtrpzSVaf2lx2IeR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Kryptos",
-        "url": "https://open.spotify.com/album/2fuUjzLESnRRBubXfSiV4o"
-      },
-      "artists": [
-        {
-          "name": "Andreas Vollenweider",
-          "url": "https://open.spotify.com/artist/7MynOMOTsGz8NFcPUImWAp"
-        },
-        {
-          "name": "Joseph Shabalala",
-          "url": "https://open.spotify.com/artist/6J5hjzVL89IrrgVYE50AmK"
-        },
-        {
-          "name": "Ladysmith Black Mambazo",
-          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
-        },
-        {
-          "name": "Walter Keiser",
-          "url": "https://open.spotify.com/artist/3LfEGh0Nwxa7mJ79Q1kTkX"
-        }
-      ],
-      "duration_ms": 102960,
-      "name": "Bhambororo!",
-      "url": "https://open.spotify.com/track/3AE8rjopEuiZqPXgJyg4t8"
     },
     {
       "added_at": null,
@@ -779,18 +731,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spirit Of South Africa",
-        "url": "https://open.spotify.com/album/3lSXtIZ7BtoMW3e17WxFCy"
+        "name": "Kryptos",
+        "url": "https://open.spotify.com/album/2fuUjzLESnRRBubXfSiV4o"
       },
       "artists": [
         {
+          "name": "Andreas Vollenweider",
+          "url": "https://open.spotify.com/artist/7MynOMOTsGz8NFcPUImWAp"
+        },
+        {
+          "name": "Joseph Shabalala",
+          "url": "https://open.spotify.com/artist/6J5hjzVL89IrrgVYE50AmK"
+        },
+        {
           "name": "Ladysmith Black Mambazo",
           "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
+        },
+        {
+          "name": "Walter Keiser",
+          "url": "https://open.spotify.com/artist/3LfEGh0Nwxa7mJ79Q1kTkX"
         }
       ],
-      "duration_ms": 212950,
-      "name": "Nomathemba",
-      "url": "https://open.spotify.com/track/3gptqhvLYt8xyL1fwuObYv"
+      "duration_ms": 102960,
+      "name": "Bhambororo!",
+      "url": "https://open.spotify.com/track/3AE8rjopEuiZqPXgJyg4t8"
     },
     {
       "added_at": null,
@@ -851,6 +815,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Africa in Harmony: 50th Anniversary Edition",
+        "url": "https://open.spotify.com/album/7E9IY8XpEVPycKNk5egsfF"
+      },
+      "artists": [
+        {
+          "name": "Ladysmith Black Mambazo",
+          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
+        }
+      ],
+      "duration_ms": 255927,
+      "name": "Selingelethu Sonke",
+      "url": "https://open.spotify.com/track/0hdzhCgfrfVbLpjbwzrcXh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Listen Again",
         "url": "https://open.spotify.com/album/7bpWEp24oHgUs08ImjakfU"
       },
@@ -883,22 +863,6 @@
       "duration_ms": 164080,
       "name": "Yesterday (feat. Bebe Rexha) vs. Lift Me Up (feat. Nico & Vinz, Ladysmith Black Mambazo) - Listenin' Continuous Mix",
       "url": "https://open.spotify.com/track/1L2DLOdfG1jHh7XYewDptW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Africa in Harmony: 50th Anniversary Edition",
-        "url": "https://open.spotify.com/album/7E9IY8XpEVPycKNk5egsfF"
-      },
-      "artists": [
-        {
-          "name": "Ladysmith Black Mambazo",
-          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
-        }
-      ],
-      "duration_ms": 255927,
-      "name": "Selingelethu Sonke",
-      "url": "https://open.spotify.com/track/0hdzhCgfrfVbLpjbwzrcXh"
     },
     {
       "added_at": null,
@@ -999,6 +963,38 @@
       "duration_ms": 198800,
       "name": "Sishumayel' Ivangeli",
       "url": "https://open.spotify.com/track/2CgAlc3jjlpnTrTeQUKq5X"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ezinkulu",
+        "url": "https://open.spotify.com/album/5w7fCN6djX1UXL1rTG9Rnh"
+      },
+      "artists": [
+        {
+          "name": "Ladysmith Black Mambazo",
+          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
+        }
+      ],
+      "duration_ms": 275613,
+      "name": "Amafutha Esibane",
+      "url": "https://open.spotify.com/track/5msU28j9wIWfTAK9Zcewrm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wenyukela",
+        "url": "https://open.spotify.com/album/1sCK9ROgvlWRvN08keQmb7"
+      },
+      "artists": [
+        {
+          "name": "Ladysmith Black Mambazo",
+          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
+        }
+      ],
+      "duration_ms": 297213,
+      "name": "Wangibambezela (Message From His Heart)",
+      "url": "https://open.spotify.com/track/43EM1Raenxk6YrW73ytjcX"
     }
   ],
   "unique_name": "This Is Ladysmith Black Mambazo",

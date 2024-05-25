@@ -190,7 +190,7 @@
       ],
       "date_added": "2018-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 477680,
       "name": "Atse Tewodros",
       "url": "https://open.spotify.com/track/00T2SlsSVzJSVYMmbAiclO"
@@ -252,6 +252,28 @@
       "duration_ms": 240169,
       "name": "Aynama",
       "url": "https://open.spotify.com/track/6gf5wTdci9QTxjJfc8UDlf"
+    },
+    {
+      "album": {
+        "name": "AYZON",
+        "url": "https://open.spotify.com/album/1Fuoeuwn8qldn6ATtrAUPD"
+      },
+      "artists": [
+        {
+          "name": "BiniZion",
+          "url": "https://open.spotify.com/artist/0gP8OJt9A0EdaSAyuUhSEU"
+        },
+        {
+          "name": "Anteneh Minalu",
+          "url": "https://open.spotify.com/artist/6dIY3ynRrBa1745sJFNgkY"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272132,
+      "name": "AYZON",
+      "url": "https://open.spotify.com/track/29nzNE7CyuywKJKBlt2deI"
     },
     {
       "album": {

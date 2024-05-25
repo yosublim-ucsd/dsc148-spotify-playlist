@@ -195,6 +195,32 @@
     },
     {
       "album": {
+        "name": "ALL NIGHT LONG",
+        "url": "https://open.spotify.com/album/2nIA1z6Hak8ejNvZ9MndXf"
+      },
+      "artists": [
+        {
+          "name": "Ryyd3r",
+          "url": "https://open.spotify.com/artist/4VFUayFquvlUZEsTwMti7v"
+        },
+        {
+          "name": "Nosgov",
+          "url": "https://open.spotify.com/artist/6FK0azeTwe5RwhUAkpkhnh"
+        },
+        {
+          "name": "rukasu",
+          "url": "https://open.spotify.com/artist/3LdN1wHoVlOR2F78Zr1u9f"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153157,
+      "name": "ALL NIGHT LONG",
+      "url": "https://open.spotify.com/track/7DMJSnooQV6bXdSnq7qt95"
+    },
+    {
+      "album": {
         "name": "amends",
         "url": "https://open.spotify.com/album/4eVKslgPopgYARIH7TiSPX"
       },
@@ -400,7 +426,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 148474,
       "name": "BFM (w/ Britney Manson & kets4eki)",
       "url": "https://open.spotify.com/track/5ZwMjCsprna6nM8D86dv6e"
@@ -1033,6 +1059,28 @@
     },
     {
       "album": {
+        "name": "DON'T UNDERSTAND IT (w/ kets4eki)",
+        "url": "https://open.spotify.com/album/4s8qlYYwSDxybyR7DkWkAJ"
+      },
+      "artists": [
+        {
+          "name": "asteria",
+          "url": "https://open.spotify.com/artist/0I7VmE5LkRmWoHltutTUh9"
+        },
+        {
+          "name": "kets4eki",
+          "url": "https://open.spotify.com/artist/4waORdvuFnffJPrj784KeG"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109465,
+      "name": "DON'T UNDERSTAND IT (w/ kets4eki)",
+      "url": "https://open.spotify.com/track/2dEXSfIbrWCXpDqvzHC1sO"
+    },
+    {
+      "album": {
         "name": "DOOR TO DUSK",
         "url": "https://open.spotify.com/album/1guVWyGigDPn9PYzibhbpJ"
       },
@@ -1379,6 +1427,32 @@
     },
     {
       "album": {
+        "name": "FUCKED UP BRAIN!",
+        "url": "https://open.spotify.com/album/60teuvy4vmsVsbv2iRueFu"
+      },
+      "artists": [
+        {
+          "name": "kmrnxo",
+          "url": "https://open.spotify.com/artist/74MU7adE5990G7b8NHXMM3"
+        },
+        {
+          "name": "d3r",
+          "url": "https://open.spotify.com/artist/41PE0deubI6MpwYruSEWHG"
+        },
+        {
+          "name": "WASTY",
+          "url": "https://open.spotify.com/artist/1a4fut94sWqBrkavalr3hJ"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136767,
+      "name": "FUCKED UP BRAIN!",
+      "url": "https://open.spotify.com/track/0CICooqqgcHvmuuxOcMoBq"
+    },
+    {
+      "album": {
         "name": "FUNKED UP",
         "url": "https://open.spotify.com/album/4FRxgE6LA2UGJ5yz8diaI9"
       },
@@ -1514,7 +1588,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 112558,
       "name": "get ya money!",
       "url": "https://open.spotify.com/track/0Oo8x9J4snJZhQoEC0qcJJ"
@@ -2877,6 +2951,36 @@
     },
     {
       "album": {
+        "name": "OD",
+        "url": "https://open.spotify.com/album/3ohsSrvgaCsEctiXLHQA1e"
+      },
+      "artists": [
+        {
+          "name": "Nosgov",
+          "url": "https://open.spotify.com/artist/6FK0azeTwe5RwhUAkpkhnh"
+        },
+        {
+          "name": "sagrada",
+          "url": "https://open.spotify.com/artist/6a52hB0cfqNzxDp8VoV8BZ"
+        },
+        {
+          "name": "SXCREDMANE",
+          "url": "https://open.spotify.com/artist/7MLzeghYGtox25YcP078j9"
+        },
+        {
+          "name": "Pr0xy",
+          "url": "https://open.spotify.com/artist/3PmktxhWPrnvZ9dW9EWMcM"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102416,
+      "name": "OD",
+      "url": "https://open.spotify.com/track/0ElVra0U2mjIVh8eXGsj71"
+    },
+    {
+      "album": {
         "name": "OK WE SININ",
         "url": "https://open.spotify.com/album/5FMPea4GvLcbEA1GMW5zKA"
       },
@@ -3978,7 +4082,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 118177,
       "name": "Take A Pic (w/ asteria)",
       "url": "https://open.spotify.com/track/31DMk9v2hVFRItOF2lJuoc"
@@ -4072,7 +4176,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 144490,
       "name": "TOO MANY LINES!",
       "url": "https://open.spotify.com/track/7bQMD4pot56isH55H60bla"

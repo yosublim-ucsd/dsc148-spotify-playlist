@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [\(You Look\) So Funny](https://open.spotify.com/track/5F4RB2LvrszWVTZ2dGZ7Lq) | [Rogér Fakhr](https://open.spotify.com/artist/6UFqtFCNxhYqsQ1QRF6HRd) | [East of Any Place \(Habibi Funk 025\)](https://open.spotify.com/album/7sTew04rtXKxlXg87MgS6e) | 1:48 | 2023-12-05 |  |
+| [\(You Look\) So Funny](https://open.spotify.com/track/5F4RB2LvrszWVTZ2dGZ7Lq) | [Rogér Fakhr](https://open.spotify.com/artist/6UFqtFCNxhYqsQ1QRF6HRd) | [East of Any Place \(Habibi Funk 025\)](https://open.spotify.com/album/7sTew04rtXKxlXg87MgS6e) | 1:48 | 2023-12-05 | 2024-05-25 |
 | [23](https://open.spotify.com/track/0ajUM9ZopaMpzaOZ0A0sdn) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [23](https://open.spotify.com/album/0uCNv4sLGPihQDMa0k4xa1) | 3:07 | 2023-04-15 |  |
 | [2U \- Acoustic Version](https://open.spotify.com/track/1jUyxF7NmNXGlZQDVw40O8) | [Clementine Duo](https://open.spotify.com/artist/4s6YWKUwngB7oxE6CPWsW2) | [2U \(Acoustic Version\)](https://open.spotify.com/album/1ZeL89nYpDqgnRxzgmSBcU) | 3:28 | 2021-07-16 |  |
 | [7 Inches](https://open.spotify.com/track/0Dh4cFSEyEWacV2FRf1viP) | [Kate Vargas](https://open.spotify.com/artist/6IaBcgmfcrqB8yGh0BrTf1) | [For the Wolfish & Wandering](https://open.spotify.com/album/6tcuUCswHBUn4TikHmJK3M) | 3:26 | 2021-07-16 | 2022-07-29 |
@@ -179,7 +179,7 @@
 | [Never Leave You](https://open.spotify.com/track/0DPFRkcObN0j4sHREcVfgO) | [Sterre Weldring](https://open.spotify.com/artist/59s7DQXAvTQemfh1di85uL) | [Never Leave You](https://open.spotify.com/album/54njbARQAQA2LBGs9pD0LN) | 3:27 | 2021-07-16 |  |
 | [Never My Love](https://open.spotify.com/track/4zRkmGHVgGGnJMhemMXD6I) | [Isobel Campbell](https://open.spotify.com/artist/55dlp5I9jyc4UjzlrcKMnq) | [Voices In The Sky](https://open.spotify.com/album/3xbtHD6AtuBZia9256EhML) | 3:26 | 2021-07-16 |  |
 | [New Rules](https://open.spotify.com/track/4ebS9j23Z1sQQtjsK06vD2) | [Postcards & Polaroids](https://open.spotify.com/artist/5ccCHLpAxCdSMFHeeLUPrw) | [New Rules](https://open.spotify.com/album/3YJr0IXRu7iHCe2iQ6I9hA) | 3:14 | 2021-07-16 |  |
-| [No Regrets](https://open.spotify.com/track/6UPJmpmGukbscT5WQIM0Zm) | [Scott & Young](https://open.spotify.com/artist/72r3ZCpFAFMj7ISnPfcTPU) | [No Regrets](https://open.spotify.com/album/1muyJu5LIeZz7MoEuuVaTI) | 3:07 | 2021-07-16 | 2024-05-24 |
+| [No Regrets](https://open.spotify.com/track/6UPJmpmGukbscT5WQIM0Zm) | [Scott & Young](https://open.spotify.com/artist/72r3ZCpFAFMj7ISnPfcTPU) | [No Regrets](https://open.spotify.com/album/1muyJu5LIeZz7MoEuuVaTI) | 3:07 | 2021-07-16 |  |
 | [No Tears Left To Cry](https://open.spotify.com/track/4J4JYXUaYLxtKstFyABT5J) | [Isabella Celander](https://open.spotify.com/artist/6sQYT9B066RITdelCECQuE) | [No Tears Left To Cry](https://open.spotify.com/album/2QU9UieGw1gfqyyMh2187Y) | 3:58 | 2021-07-16 |  |
 | [Nothing Breaks Like a Heart](https://open.spotify.com/track/5Usv5MphawKc1YZGbTlAly) | [Brimsley](https://open.spotify.com/artist/0UhNZ8dTl8Wq4iPcwsqPmd) | [Nothing Breaks Like a Heart](https://open.spotify.com/album/4WHIT1gsLTquLhqMhBrwuP) | 3:23 | 2021-07-16 |  |
 | [NY Man](https://open.spotify.com/track/3ZfJ3tNrqVY9CDLPgeow8T) | [A Girl Called Eddy](https://open.spotify.com/artist/4R024vmmAv1tyJGZPWkEDu) | [Been Around](https://open.spotify.com/album/6DwkzPEjQeTutwvtajX7mO) | 4:02 | 2021-07-16 | 2022-07-29 |

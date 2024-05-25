@@ -4,7 +4,7 @@
 
 > Current indie tunes from Asia and around the world\. Cover: Clairo
 
-1,571 songs - 3 day 22 hr 45 min
+1,572 songs - 3 day 22 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -781,6 +781,7 @@
 | [Losing You](https://open.spotify.com/track/00zlgHUZDIixDNBRE4r4lK) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Losing You](https://open.spotify.com/album/1JtdjMrrJTW1wC4r8olF1t) | 3:02 | 2023-08-18 | 2023-09-30 |
 | [Lost Changes](https://open.spotify.com/track/77tzZpDAF4lZGQN10R2i61) | [Beth Gibbons](https://open.spotify.com/artist/6Lt6KFXX3P0v6vfrynQAMo) | [Lost Changes](https://open.spotify.com/album/0InZsj14Zayf3eC7auh4aJ) | 5:41 | 2024-05-17 |  |
 | [LOST CONTROL](https://open.spotify.com/track/4apL2Bd2RIMXj94M8dEJHj) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [SPARK](https://open.spotify.com/album/5FgDFLMa4LM50AlBypheGs) | 2:48 | 2022-09-16 | 2022-10-29 |
+| [LOST!](https://open.spotify.com/track/02H58MSfVESkKyx4diDgu7) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Right Place, Wrong Person](https://open.spotify.com/album/512dQp7hBbDDurodCqSw5I) | 3:53 | 2024-05-23 |  |
 | [Louder](https://open.spotify.com/track/660CX4lTKJFgOgoSmRrkSs) | [Elephant Kind](https://open.spotify.com/artist/4xerUCsurnILh4KpC5FVWX) | [Louder](https://open.spotify.com/album/0yx4JsRKHVe7JLgKIyebOp) | 3:00 | 2024-05-17 |  |
 | [Love](https://open.spotify.com/track/2S21tvV0jigedzU9tbQksd) | [Merry Lamb Lamb](https://open.spotify.com/artist/6wLVho9ZDD140wQ9laOlhx) | [Love](https://open.spotify.com/album/6Hs4hl7bsGLefnPMY31cng) | 4:54 | 2021-12-16 | 2022-02-11 |
 | [Love](https://open.spotify.com/track/4hriybgE67pyiH6yz7J8R5) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [Daniela Lalita](https://open.spotify.com/artist/2eblCDvXEKYYapO1uchGds) | [Love](https://open.spotify.com/album/3wd9XQoU36zD1K6xWlRtw5) | 3:59 | 2023-09-11 | 2023-09-30 |

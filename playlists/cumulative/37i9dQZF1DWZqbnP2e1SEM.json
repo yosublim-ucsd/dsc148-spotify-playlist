@@ -517,6 +517,28 @@
     },
     {
       "album": {
+        "name": "At Night EP",
+        "url": "https://open.spotify.com/album/1EjlFbnAJYYxw9n3YurTPA"
+      },
+      "artists": [
+        {
+          "name": "Upper90",
+          "url": "https://open.spotify.com/artist/5ye3YheRaIaodo3nid7Wxz"
+        },
+        {
+          "name": "Baron Von Trax",
+          "url": "https://open.spotify.com/artist/0fwVrpm40ibmSV0BNqbQgT"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238367,
+      "name": "At Night",
+      "url": "https://open.spotify.com/track/3J571kOMtmPh3s3c57xpUW"
+    },
+    {
+      "album": {
         "name": "Baby",
         "url": "https://open.spotify.com/album/4ag07Nbz1xUcFWU17JNh1r"
       },
@@ -536,6 +558,24 @@
       "duration_ms": 177733,
       "name": "Baby",
       "url": "https://open.spotify.com/track/3pudQCMnsFGwOElTZmuml8"
+    },
+    {
+      "album": {
+        "name": "Baby",
+        "url": "https://open.spotify.com/album/4JYfU6NeDueGC1ZXKQO6Vs"
+      },
+      "artists": [
+        {
+          "name": "Malugi",
+          "url": "https://open.spotify.com/artist/50udUOTR7dQUgyPwPuCLM6"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163180,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/5NNOhlMKhGFODsPv2O4Nuq"
     },
     {
       "album": {
@@ -1396,7 +1436,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 240445,
       "name": "Escape (feat. Hayla)",
       "url": "https://open.spotify.com/track/10oKSzRcwbZsog2uq2gb4b"
@@ -1534,6 +1574,32 @@
       "duration_ms": 200984,
       "name": "Everybody Wants You (feat. Sam Fischer)",
       "url": "https://open.spotify.com/track/6bXi3POdPDmcJJ2A43pLIw"
+    },
+    {
+      "album": {
+        "name": "EYAH (You'll Be Alright)",
+        "url": "https://open.spotify.com/album/3ZFctsaDV84rcejIEOHhOv"
+      },
+      "artists": [
+        {
+          "name": "Westend",
+          "url": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
+        },
+        {
+          "name": "Tudor",
+          "url": "https://open.spotify.com/artist/6YPmhC6xckfcUiw4undxAb"
+        },
+        {
+          "name": "Punctual",
+          "url": "https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175748,
+      "name": "EYAH (You'll Be Alright)",
+      "url": "https://open.spotify.com/track/2TE1Pr3iaDJdWvGSfMm3TS"
     },
     {
       "album": {
@@ -5114,7 +5180,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 202905,
       "name": "Sun Came Up",
       "url": "https://open.spotify.com/track/2wf2KMhjoHSZXKVHNBoTMg"
@@ -5421,6 +5487,28 @@
     },
     {
       "album": {
+        "name": "The Nighttrain",
+        "url": "https://open.spotify.com/album/4t5mdjfkRkRPwQmHmXRx1v"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Maitland",
+          "url": "https://open.spotify.com/artist/0Q73yVxsPyLsllS3ILTEZL"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186573,
+      "name": "The Nighttrain",
+      "url": "https://open.spotify.com/track/067wD8CKiwiOz8beq5OTV2"
+    },
+    {
+      "album": {
         "name": "The Parade",
         "url": "https://open.spotify.com/album/6OV7KH6OamCkgFzgD7ijEa"
       },
@@ -5586,7 +5674,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 226206,
       "name": "Used To This",
       "url": "https://open.spotify.com/track/6IlL9Xlnm0Oq6wXSe6TH9v"
@@ -6054,7 +6142,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 185896,
       "name": "You Give Me A Feeling",
       "url": "https://open.spotify.com/track/1YKp8PG1DEQJ0hLc2CJGO8"

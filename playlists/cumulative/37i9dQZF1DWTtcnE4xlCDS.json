@@ -917,6 +917,48 @@
     },
     {
       "album": {
+        "name": "BRIGHT HORIZON",
+        "url": "https://open.spotify.com/album/5Jn7SnaBo5yDbKvcHJOYjh"
+      },
+      "artists": [
+        {
+          "name": "\u96fb\u97f3\u90e8",
+          "url": "https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx"
+        },
+        {
+          "name": "\u6c60\u888b\u96fb\u97f3\u90e8",
+          "url": "https://open.spotify.com/artist/6vF4vGu7LpNXNg4qEpAIFf"
+        },
+        {
+          "name": "MY NEW GEAR",
+          "url": "https://open.spotify.com/artist/6DgP2yWREz9inxiohm7G4n"
+        },
+        {
+          "name": "\u963f\u6c99\u8599 \u5e2f (CV: \u548c\u4e45\u91ce\u611b\u4f73)",
+          "url": "https://open.spotify.com/artist/0FVJVsdVF7htwuJ6lZrZPW"
+        },
+        {
+          "name": "\u96c5\u8cc0\u70c8\u8cc0 (CV: \u77e2\u5439\u771f\u592e)",
+          "url": "https://open.spotify.com/artist/6Og06r0dwHQ67oUeISJSFN"
+        },
+        {
+          "name": "\u96eb\u4f86\u53c9\u624b\u6bec (CV: \u4e2d\u6751\u3055\u3093\u305d)",
+          "url": "https://open.spotify.com/artist/79UeIfR6f31bTepVlCxADZ"
+        },
+        {
+          "name": "\u4e2d\u6751\u3055\u3093\u305d",
+          "url": "https://open.spotify.com/artist/30R9MQOeKqrMoafeHmTYuY"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "BRIGHT HORIZON",
+      "url": "https://open.spotify.com/track/0ccN6XDPd3o3eAVup3COAO"
+    },
+    {
+      "album": {
         "name": "BUKURO ELECTRO",
         "url": "https://open.spotify.com/album/1nKiwhiOGI7rEhs7CmWNHc"
       },
@@ -3972,6 +4014,40 @@
       "duration_ms": 121366,
       "name": "Kawaii Halloween Opening Track",
       "url": "https://open.spotify.com/track/6CkJoKjbzQ2IAY30VXdvkH"
+    },
+    {
+      "album": {
+        "name": "Keep it simple",
+        "url": "https://open.spotify.com/album/1p8Qs04ywTq69jQtcOc8gX"
+      },
+      "artists": [
+        {
+          "name": "\u96fb\u97f3\u90e8",
+          "url": "https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx"
+        },
+        {
+          "name": "KOTONOHOUSE",
+          "url": "https://open.spotify.com/artist/3eOyGULyH8dDoCBQMuLYZC"
+        },
+        {
+          "name": "\u9cf3\u51f0\u706b\u51db (CV: \u5065\u5c4b\u82b1\u90a3)",
+          "url": "https://open.spotify.com/artist/12WNAXEoWB8oNjlyuYU5hZ"
+        },
+        {
+          "name": "\u702c\u6238\u6d77\u6708 (CV: \u30b7\u30b9\u30bf\u30fc\u30fb\u30af\u30ec\u30a2)",
+          "url": "https://open.spotify.com/artist/3fHDuekX2NfAhKC0f3Qde5"
+        },
+        {
+          "name": "\u5927\u8cc0\u30eb\u30ad\u30a2 (CV: \u661f\u5ddd\u30b5\u30e9)",
+          "url": "https://open.spotify.com/artist/3IFOQg0N8gQooK5duWNRq4"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175053,
+      "name": "Keep it simple",
+      "url": "https://open.spotify.com/track/0FzfknayuJcxOT1QJCPFZb"
     },
     {
       "album": {
@@ -7293,6 +7369,36 @@
     },
     {
       "album": {
+        "name": "Tasting",
+        "url": "https://open.spotify.com/album/7G7LsMcnui1l2rf8EUBWV5"
+      },
+      "artists": [
+        {
+          "name": "\u771f\u65b0\u5bbfGR\u5b66\u5712",
+          "url": "https://open.spotify.com/artist/05W3IYfntUTen1kfrsHY0N"
+        },
+        {
+          "name": "\u96fb\u97f3\u90e8",
+          "url": "https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx"
+        },
+        {
+          "name": "Togo",
+          "url": "https://open.spotify.com/artist/6dVJwjyigCAtLxELuayamf"
+        },
+        {
+          "name": "\u5927\u795e \u7e8f (CV: \u5409\u7530\u51dc\u97f3)",
+          "url": "https://open.spotify.com/artist/0KVD9C9bWghG5tKjDMZxrM"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181949,
+      "name": "Tasting",
+      "url": "https://open.spotify.com/track/0RT2rOTWJBsOQ7iI7XZnre"
+    },
+    {
+      "album": {
         "name": "teardrop",
         "url": "https://open.spotify.com/album/2cBHn11uOtQyNnet1BjlG3"
       },
@@ -8673,6 +8779,36 @@
     },
     {
       "album": {
+        "name": "\u30b3\u30b9\u30d1\u3067Show",
+        "url": "https://open.spotify.com/album/16TUCqXuUrshBkAs53iKsC"
+      },
+      "artists": [
+        {
+          "name": "\u96fb\u97f3\u90e8",
+          "url": "https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx"
+        },
+        {
+          "name": "\u864e\u4e38\u7b11\u4e07(CV:Lico)",
+          "url": "https://open.spotify.com/artist/0vsKwg9qupfYuYgYoX7igD"
+        },
+        {
+          "name": "\u98f4\u6751\u97f3\u51db(CV:Noa)",
+          "url": "https://open.spotify.com/artist/0lFXZD9gGS5IzBWv1KZhf6"
+        },
+        {
+          "name": "\u6771\u6d77\u6797\u6843\u3005\u5b50(CV:Mone)",
+          "url": "https://open.spotify.com/artist/10ItJwGJ85nKGk1LfHtCMh"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181379,
+      "name": "\u30b3\u30b9\u30d1\u3067Show",
+      "url": "https://open.spotify.com/track/6QxJYGYftWDPhtRFTDsXZd"
+    },
+    {
+      "album": {
         "name": "\u30b3\u30df\u30e5\u529b\u30aa\u30d0\u30b1",
         "url": "https://open.spotify.com/album/4NhxsccZhkuGCp4a8xgP6M"
       },
@@ -9618,6 +9754,48 @@
       "duration_ms": 162186,
       "name": "\u857e",
       "url": "https://open.spotify.com/track/3hurBvVxgtptPyVo3JnlSA"
+    },
+    {
+      "album": {
+        "name": "\u857e (9W3R7Y Remix)",
+        "url": "https://open.spotify.com/album/1uumxhZ2GJGKAkE20VGfwn"
+      },
+      "artists": [
+        {
+          "name": "\u96fb\u97f3\u90e8",
+          "url": "https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx"
+        },
+        {
+          "name": "\u6c60\u888b\u96fb\u97f3\u90e8",
+          "url": "https://open.spotify.com/artist/6vF4vGu7LpNXNg4qEpAIFf"
+        },
+        {
+          "name": "MY NEW GEAR",
+          "url": "https://open.spotify.com/artist/6DgP2yWREz9inxiohm7G4n"
+        },
+        {
+          "name": "\u96c5\u8cc0\u70c8\u8cc0 (CV: \u77e2\u5439\u771f\u592e)",
+          "url": "https://open.spotify.com/artist/6Og06r0dwHQ67oUeISJSFN"
+        },
+        {
+          "name": "\u96eb\u4f86\u53c9\u624b\u6bec (CV: \u4e2d\u6751\u3055\u3093\u305d)",
+          "url": "https://open.spotify.com/artist/79UeIfR6f31bTepVlCxADZ"
+        },
+        {
+          "name": "\u4e2d\u6751\u3055\u3093\u305d",
+          "url": "https://open.spotify.com/artist/30R9MQOeKqrMoafeHmTYuY"
+        },
+        {
+          "name": "9W3R7Y",
+          "url": "https://open.spotify.com/artist/1iLGAus85kuJm7VzksGAY5"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178758,
+      "name": "\u857e - 9W3R7Y Remix",
+      "url": "https://open.spotify.com/track/229vrU4k3kW5u5rIYkWn4s"
     },
     {
       "album": {

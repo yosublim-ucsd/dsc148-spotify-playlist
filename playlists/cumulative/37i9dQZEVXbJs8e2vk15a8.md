@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Chile.
 
-1,968 songs - 4 day 10 hr 11 min
+1,969 songs - 4 day 10 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -330,6 +330,7 @@
 | [Chakalitos](https://open.spotify.com/track/3dDhSk8D6fDJeEnpwMEZTp) | [Angi Fire](https://open.spotify.com/artist/73YwEbcEC1sbvdO05F61Dt), [Tilin Insano](https://open.spotify.com/artist/2ydNwGTDHASG7vfwTZP6i9) | [Chakalitos](https://open.spotify.com/album/1SDkQBxs672NHOFSZ9mNzo) | 3:29 | 2023-08-15 | 2023-09-20 |
 | [Chale](https://open.spotify.com/track/74WROFXsox6wkeUrEK2DS6) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Chale](https://open.spotify.com/album/6xsbNXdWNHFDvl9vCT3a8a) | 2:50 | 2022-04-15 | 2022-05-11 |
 | [Chance](https://open.spotify.com/track/2SJZdZ5DLtlRosJ2xHJJJa) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Chance](https://open.spotify.com/album/4vOLBVH0wiFWa4Us2h5Vo4) | 3:24 | 2022-05-03 | 2022-05-11 |
+| [Cheap Thrills](https://open.spotify.com/track/4dRYlZtS7kYfWxkYfMPTe7) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs the Hits of 2016, Vol\. 2](https://open.spotify.com/album/10WHTghh38mVQRKNlk4rx8) | 3:27 | 2024-05-24 |  |
 | [Chela Con Limón](https://open.spotify.com/track/32RW2swgqonNpcJiXRwy7Z) | [Nico Ruiz](https://open.spotify.com/artist/0PoNc2Vn4Ag4NOySSD666z) | [Chela Con Limón](https://open.spotify.com/album/5Z3boL3oT2KukCeHGl7LQF) | 3:14 | 2022-07-30 | 2022-08-01 |
 | [CHICAS COMO TU](https://open.spotify.com/track/6mpBtlxpCF0GvZ1LyckbaG) | [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq) | [THE LIFE OF XULO](https://open.spotify.com/album/1UOrzS8OYpnI6I1GYr9ICX) | 2:54 | 2023-01-10 | 2023-01-17 |
 | [Chipi Chipi Chapa Chapa](https://open.spotify.com/track/0t33mdnOe8aMhO5BtRHgH5) | [lusttqwe](https://open.spotify.com/artist/1ppoDV6LO37SPuHEK2FAyR), [lorche](https://open.spotify.com/artist/644qnZiBHVcjcMCHsiV0PL), [bexter](https://open.spotify.com/artist/2nb1xGx7gKOs9Yu5g1sJ8n), [Kairas](https://open.spotify.com/artist/3Ug4eAerBcBlwia1oHosMY) | [Chipi Chipi Chapa Chapa](https://open.spotify.com/album/5F1cOAxZbtA379LrMe59ZH) | 3:46 | 2024-01-09 | 2024-01-12 |
@@ -554,7 +555,7 @@
 | [Ella Baila Sola](https://open.spotify.com/track/3qQbCzHBycnDpGskqOWY0E) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [DESVELADO](https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM) | 2:45 | 2023-04-29 | 2023-06-28 |
 | [Ella Me Pide](https://open.spotify.com/track/6RJ3Xrbvz6yeqkh4OzWgIo) | [rikimusic](https://open.spotify.com/artist/7zBJxdV5shRK2lNBH0beQZ) | [Ella Me Pide](https://open.spotify.com/album/26smhau7Vr9irF2NydGL13) | 1:38 | 2024-04-02 | 2024-04-11 |
 | [Emeycé](https://open.spotify.com/track/6P7Baz3uteblV2zklm39BC) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Emeycé](https://open.spotify.com/album/1l8YtHOLFpLCEmfOpqQXal) | 2:56 | 2023-03-07 | 2023-03-09 |
-| [Emociones](https://open.spotify.com/track/4M4Tc6Mx3IZhOXD8H7Iziq) | [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE) | [Emociones](https://open.spotify.com/album/0j5oHHGTmEo3CzLt0wYTya) | 2:04 | 2024-02-06 | 2024-05-24 |
+| [Emociones](https://open.spotify.com/track/4M4Tc6Mx3IZhOXD8H7Iziq) | [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE) | [Emociones](https://open.spotify.com/album/0j5oHHGTmEo3CzLt0wYTya) | 2:04 | 2024-02-06 |  |
 | [EMPELOTICA](https://open.spotify.com/track/0dKsNKiWmqkoz8YAUzfigC) | [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [EMPELOTICA](https://open.spotify.com/album/1Cf5ZIMxdIYC60Cz7Q4GZg) | 3:10 | 2024-03-12 | 2024-03-27 |
 | [En 4](https://open.spotify.com/track/5eBVwJIJQY5amfYluJ8FF0) | [El Jordan 23](https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V) | [En 4](https://open.spotify.com/album/4jRue9Ub0QsHVjbEJiwgSt) | 2:21 | 2023-11-15 | 2023-12-03 |
 | [En Argentina Naci](https://open.spotify.com/track/1eDVvuPpEEe90AyANLKJGm) | [Diego Redes](https://open.spotify.com/artist/53ZoDw3I4QsmqW5ROApRlt), [Adrian Araujo](https://open.spotify.com/artist/5zI0aII6LDdZm2D5MLm9t1) | [En Argentina Naci](https://open.spotify.com/album/3lKaP0P4vprTqAGFsrvI0G) | 2:52 | 2022-12-20 | 2022-12-27 |
@@ -666,7 +667,7 @@
 | [Freestyle 2](https://open.spotify.com/track/31sjR1a4RChnmDJxyspqUp) | [Lleflight](https://open.spotify.com/artist/5GpRyfJV04fcnHBDzfVb8V) | [Freestyle 2](https://open.spotify.com/album/1xJkLFwNBBNoKSnXfwJzwV) | 2:45 | 2023-12-19 | 2023-12-27 |
 | [FRESH](https://open.spotify.com/track/4hcnbu7PdISGGj82ZuDpFQ) | [NXVAMANE](https://open.spotify.com/artist/4f0duKhSmQubrgvVjUAKvh) | [FRESH](https://open.spotify.com/album/5eRHyCycBt78BNaa8vR4Si) | 1:08 | 2023-06-15 | 2023-06-27 |
 | [FRI\(END\)S](https://open.spotify.com/track/0PBTlQ84CBJF0tBnKGmQa6) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [FRI\(END\)S](https://open.spotify.com/album/7v4sqd0NZ9Fm8HnwCcCGIs) | 2:28 | 2024-04-02 | 2024-04-17 |
-| [From the Start](https://open.spotify.com/track/6BJHsLiE47Sk0wQkuppqhr) | [Good Kid](https://open.spotify.com/artist/38SKxCyfrmNWqWunb9wGHP) | [From the Start](https://open.spotify.com/album/5SUqRbAHrcEGeLPb38L85v) | 2:30 | 2023-12-23 |  |
+| [From the Start](https://open.spotify.com/track/6BJHsLiE47Sk0wQkuppqhr) | [Good Kid](https://open.spotify.com/artist/38SKxCyfrmNWqWunb9wGHP) | [From the Start](https://open.spotify.com/album/5SUqRbAHrcEGeLPb38L85v) | 2:30 | 2023-12-23 | 2024-05-25 |
 | [From The Start](https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [From The Start](https://open.spotify.com/album/1BOZNMzXTIkz8nUfGCxfpe) | 2:49 | 2023-06-15 | 2023-09-03 |
 | [Fruto](https://open.spotify.com/track/4SW9gHnW8NfKOdqmh0ij45) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [en dormir sin Madrid](https://open.spotify.com/album/4NMv3cMkDwkkR6EdLloQDB) | 2:12 | 2023-10-24 | 2023-11-06 |
 | [Frágil](https://open.spotify.com/track/4JdSXF2p71cr8uCY3UiJM0) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Frágil](https://open.spotify.com/album/6iZUwDpa27jeAvKxs8UYI2) | 2:40 | 2023-05-02 | 2023-07-26 |
@@ -1700,7 +1701,7 @@
 | [THE AUTOTREM 1.0](https://open.spotify.com/track/1cOOhtwpwDFIjsuZkp2KYJ) | [DJ RICK 013](https://open.spotify.com/artist/3Cd3LHNXuJd9NudRiH1IxS) | [THE AUTOTREM 1.0](https://open.spotify.com/album/3B6zpOLO07POn5FKcNwTKB) | 2:29 | 2023-07-09 | 2023-07-29 |
 | [The Best](https://open.spotify.com/track/6pPWRBubXOBAHnjl5ZIujB) | [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak) | [Foreign Affair](https://open.spotify.com/album/3hgAoHSmany3EiKL0Aqh3G) | 5:29 | 2023-05-26 | 2023-06-03 |
 | [the boy is mine](https://open.spotify.com/track/0Lmbke3KNVFXtoH2mMSHCw) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 2:53 | 2024-03-26 | 2024-04-03 |
-| [The Code](https://open.spotify.com/track/1EjIXKhNHI00ZLMRpS8iz8) | [Nemo](https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N) | [The Code](https://open.spotify.com/album/30euLVaktPWmngBsGDUYdA) | 3:00 | 2024-05-18 |  |
+| [The Code](https://open.spotify.com/track/1EjIXKhNHI00ZLMRpS8iz8) | [Nemo](https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N) | [The Code](https://open.spotify.com/album/30euLVaktPWmngBsGDUYdA) | 3:00 | 2024-05-18 | 2024-05-25 |
 | [The Emperor's New Clothes](https://open.spotify.com/track/0HSmS7KsbOpB3K4UFdOSx9) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [I Do Not Want What I Haven't Got](https://open.spotify.com/album/0fV9DAddjwNZcmCP1Q8b01) | 5:16 | 2023-07-28 | 2023-08-05 |
 | [the grudge](https://open.spotify.com/track/3Nl5OkkmS5DaBZvuYofpAt) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:09 | 2023-09-26 | 2023-09-29 |
 | [THE LONELIEST](https://open.spotify.com/track/1Ame8XTX6QHY0l0ahqUhgv) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [THE LONELIEST](https://open.spotify.com/album/1DFNeS38zvoPkx9wwMEwbc) | 4:07 | 2022-11-01 | 2022-11-06 |

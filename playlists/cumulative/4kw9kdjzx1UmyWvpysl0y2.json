@@ -845,6 +845,28 @@
     },
     {
       "album": {
+        "name": "Another World",
+        "url": "https://open.spotify.com/album/1F2S0yuHSOnWaEjQRyMSq6"
+      },
+      "artists": [
+        {
+          "name": "Modestep",
+          "url": "https://open.spotify.com/artist/5zYJziKktyqWwmoAWXrShP"
+        },
+        {
+          "name": "SOTA",
+          "url": "https://open.spotify.com/artist/78UYwUXnotbqcp2NTxjujP"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223541,
+      "name": "Another World",
+      "url": "https://open.spotify.com/track/2zzdZqzq6GZ5Vlr4Z2Ghep"
+    },
+    {
+      "album": {
         "name": "Arcadia",
         "url": "https://open.spotify.com/album/020sw1PoNOrKDpA8t1Vgou"
       },
@@ -4311,7 +4333,7 @@
     },
     {
       "album": {
-        "name": "Feel Again",
+        "name": "FEEL AGAIN",
         "url": "https://open.spotify.com/album/4kHLkD35YdrfrJLdXeb3dW"
       },
       "artists": [
@@ -4328,7 +4350,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 167586,
-      "name": "Feel Again",
+      "name": "FEEL AGAIN",
       "url": "https://open.spotify.com/track/06R5NcXhfxHzw4b89lDB71"
     },
     {

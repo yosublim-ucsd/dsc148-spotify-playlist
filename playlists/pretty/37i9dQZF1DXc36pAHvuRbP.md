@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc36pAHvuRbP.md) - [plain]
 
 > Toutes les nouveautés préférées de vos enfants\. Découvrez les nouvelles chansons favorites de la famille!
 
-[Spotify](https://open.spotify.com/user/spotify) - 616 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 618 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc36pAHvuRbP.md) - [plain]
 | 15 | [A quoi rêve t'il ?](https://open.spotify.com/track/5R9PGIMpm2ZsLDY7Z5FfLV) | [Nicolas Berton](https://open.spotify.com/artist/7I0x0YDBHmRV0BnND5S3Hr) | [Les comptines de Kikobert, vol\. 1](https://open.spotify.com/album/3WB5YjKoohtEqv62CfE2jr) | 1:35 |
 | 16 | [Les poissons panés](https://open.spotify.com/track/1OF1i7TZnKq96uL3GjXkI7) | [Pascal Parisot](https://open.spotify.com/artist/0GHdbA1O72G8k3EcddfP4r) | [Les pieds dans le plat](https://open.spotify.com/album/4i8l6zVkhPzO8n5gi2PDHM) | 2:51 |
 | 17 | [Tout simplement](https://open.spotify.com/track/0PBk93EyJBctNlOTV7DZ2R) | [Aldebert](https://open.spotify.com/artist/1Vr9NCbc1sYiPDeZmFjOTS), [Jérémy Frerot](https://open.spotify.com/artist/4lhtlpMg6j1absrQvXYlRK) | [Enfantillages 4 \(nouvelle édition\)](https://open.spotify.com/album/1ZWPMvFYSX5OPAuo06Sn0u) | 3:00 |
-| 18 | [Thomas Pesquet](https://open.spotify.com/track/50YeLRN6WuokVA4am51idF) | [Les Enfantastiques](https://open.spotify.com/artist/0ON4LlfWkxxkwP73WYmDBo) | [Demain](https://open.spotify.com/album/0buU8ofbPSLAUHWd73Gdrn) | 4:28 |
-| 19 | [Po\-po\-pollutions](https://open.spotify.com/track/0IxX2UcP54UqvzsU48cv7I) | [Tartine Reverdy](https://open.spotify.com/artist/1whYmO7nzvBoPhtC3HtnEe) | [Dans les bois](https://open.spotify.com/album/49ZMQ81ruV7VPNQW341eOQ) | 2:18 |
+| 18 | [Po\-po\-pollutions](https://open.spotify.com/track/0IxX2UcP54UqvzsU48cv7I) | [Tartine Reverdy](https://open.spotify.com/artist/1whYmO7nzvBoPhtC3HtnEe) | [Dans les bois](https://open.spotify.com/album/49ZMQ81ruV7VPNQW341eOQ) | 2:18 |
+| 19 | [Thomas Pesquet](https://open.spotify.com/track/50YeLRN6WuokVA4am51idF) | [Les Enfantastiques](https://open.spotify.com/artist/0ON4LlfWkxxkwP73WYmDBo) | [Demain](https://open.spotify.com/album/0buU8ofbPSLAUHWd73Gdrn) | 4:28 |
 | 20 | [Emoi et moi](https://open.spotify.com/track/4STLNBoqrN6MiJyMqJuwIX) | [Méli Mômes](https://open.spotify.com/artist/662WKYh0Dqqc0cwb5f5dcs) | [Même pas !](https://open.spotify.com/album/4hks57cdKR3buw5jUH7HTH) | 3:45 |
 | 21 | [Jour après jour](https://open.spotify.com/track/2mrztXHhKdZakOGkVYyRmf) | [Anne Darban](https://open.spotify.com/artist/5aCcmpcfPDJJMVoWBh4xQI) | [Gardiens de la forêt](https://open.spotify.com/album/1vh5w8QO5wZIrKgBMWGu4D) | 2:24 |
 | 22 | [Allez on fait la paix](https://open.spotify.com/track/1WKkhJXBgtWyX5x1f8nPTX) | [Les Déménageurs](https://open.spotify.com/artist/5LXF4uYZowOh8m8pUW46Xf) | [Le patamodd](https://open.spotify.com/album/02hqji8pH8CAhLxNGOZCk2) | 3:28 |
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc36pAHvuRbP.md) - [plain]
 | 34 | [Différents](https://open.spotify.com/track/2lDC0u4QVDrNTEXMsfeh0T) | [BAB et les chats](https://open.spotify.com/artist/3LlW5HV7PUrapO8Zi41hKG) | [Au bonheur des mômes](https://open.spotify.com/album/7HriK4Z1qbySsEGtoRT9YS) | 2:37 |
 | 35 | [Oui, tu peux tout](https://open.spotify.com/track/1t6UqYDgZ2cbQK2JAfY0sr) | [Alain Schneider](https://open.spotify.com/artist/4EIBpXAtyE9RuhNRUfnzN6) | [Mundo Pataques](https://open.spotify.com/album/3yo0Q9fgzmyIrQTR3QO8x6) | 3:09 |
 | 36 | [C'est qui qui ?](https://open.spotify.com/track/17KU29ddpFt7Pz9ptp9KAD) | [Ego le cachalot](https://open.spotify.com/artist/1NUbfVDGaCGn7076nftqsX), [David Delabrosse](https://open.spotify.com/artist/3QQEhfPjYoFBl3UJQidYvs) | [Super ego](https://open.spotify.com/album/4W0zJt6SU9faWpR7wB4UT2) | 3:27 |
-| 37 | [Mon pyjama de nuit](https://open.spotify.com/track/3qr8P26MpzPsbX9UlsTDR8) | [Lilie PRINTEMPS](https://open.spotify.com/artist/6Xonv30F4iMglvc2ShBS5d), [Damien Joëts](https://open.spotify.com/artist/5wdkTEkiwIkJBc2GxCIQsm) | [Quand le chat n'est pas là..\. ça part en live !](https://open.spotify.com/album/1GACfNIsqn0yWWI7NWrmV3) | 3:02 |
+| 37 | [Super flemmard](https://open.spotify.com/track/4u57MxyzGESjI1yoeLuinS) | [Rit qui qui](https://open.spotify.com/artist/75RS6CioQFfsuQ4fkv1hHZ), [Pascal Peroteau](https://open.spotify.com/artist/6SANO2sCHf6LhTTCvhmecK) | [Les vacances, zones a,b,c et la Corse aussi et les Dom\-Tom etc.](https://open.spotify.com/album/3B4Tjf9PWob95nPYjd7FkN) | 2:57 |
 | 38 | [Même pas vrai](https://open.spotify.com/track/7ELaCrdSeZaFeGTTKAoFCT) | [Méli Mômes](https://open.spotify.com/artist/662WKYh0Dqqc0cwb5f5dcs) | [Même pas !](https://open.spotify.com/album/4hks57cdKR3buw5jUH7HTH) | 3:57 |
-| 39 | [Super flemmard](https://open.spotify.com/track/4u57MxyzGESjI1yoeLuinS) | [Rit qui qui](https://open.spotify.com/artist/75RS6CioQFfsuQ4fkv1hHZ), [Pascal Peroteau](https://open.spotify.com/artist/6SANO2sCHf6LhTTCvhmecK) | [Les vacances, zones a,b,c et la Corse aussi et les Dom\-Tom etc.](https://open.spotify.com/album/3B4Tjf9PWob95nPYjd7FkN) | 2:57 |
+| 39 | [Mon pyjama de nuit](https://open.spotify.com/track/3qr8P26MpzPsbX9UlsTDR8) | [Lilie PRINTEMPS](https://open.spotify.com/artist/6Xonv30F4iMglvc2ShBS5d), [Damien Joëts](https://open.spotify.com/artist/5wdkTEkiwIkJBc2GxCIQsm) | [Quand le chat n'est pas là..\. ça part en live !](https://open.spotify.com/album/1GACfNIsqn0yWWI7NWrmV3) | 3:02 |
 | 40 | [Bienvenue à toi](https://open.spotify.com/track/6awvphIFrbxUEKPtF4CyzL) | [Mélyne](https://open.spotify.com/artist/097FQHsEBVe3sfWA4CzMXg) | [Au fil des émotions](https://open.spotify.com/album/3599W40Fl4JOYPOi6p20dn) | 2:25 |
 | 41 | [Behhh !](https://open.spotify.com/track/0mIDfkO3ECnK3Hb7kDoFZl) | [Pascal Parisot](https://open.spotify.com/artist/0GHdbA1O72G8k3EcddfP4r) | [Les pieds dans le plat](https://open.spotify.com/album/4i8l6zVkhPzO8n5gi2PDHM) | 2:44 |
 | 42 | [Rock de la confesssion](https://open.spotify.com/track/2uTC1SJ00q7tOJudyh6G8s) | [Les Z'imbert & Moreau](https://open.spotify.com/artist/2MI5qVfIMsW0IqztPD33HK) | [Magique !](https://open.spotify.com/album/0g1v80kNMKNXXPUpkt9CIt) | 2:47 |

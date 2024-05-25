@@ -1,6 +1,6 @@
 {
   "description": "21st Century nomadic expressions interwoven into a very unexpected patchwork.",
-  "num_followers": 180867,
+  "num_followers": 180933,
   "original_name": "Folk Fabrique",
   "owner": {
     "name": "Spotify",
@@ -759,6 +759,22 @@
     {
       "added_at": "2021-10-20 20:05:06",
       "album": {
+        "name": "Nuova Napoli",
+        "url": "https://open.spotify.com/album/1NuMP2jrBeyxR3MqwengWD"
+      },
+      "artists": [
+        {
+          "name": "Nu Genea",
+          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
+        }
+      ],
+      "duration_ms": 273058,
+      "name": "Parev' Ajere",
+      "url": "https://open.spotify.com/track/6nPnAYsGwE8HDGxdNvSaex"
+    },
+    {
+      "added_at": "2021-10-20 20:05:06",
+      "album": {
         "name": "On te l'avait dit",
         "url": "https://open.spotify.com/album/769hXvYI0EBGEC2ldfRgnp"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 384383,
       "name": "On te l'avait dit",
       "url": "https://open.spotify.com/track/3d6u38zeC6XIt87Hhp4pql"
-    },
-    {
-      "added_at": "2021-10-20 20:05:06",
-      "album": {
-        "name": "Nuova Napoli",
-        "url": "https://open.spotify.com/album/1NuMP2jrBeyxR3MqwengWD"
-      },
-      "artists": [
-        {
-          "name": "Nu Genea",
-          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
-        }
-      ],
-      "duration_ms": 273058,
-      "name": "Parev' Ajere",
-      "url": "https://open.spotify.com/track/6nPnAYsGwE8HDGxdNvSaex"
     },
     {
       "added_at": "2023-05-25 23:48:57",
@@ -813,22 +813,6 @@
       "url": "https://open.spotify.com/track/6a2lsRBLR68z0azpNyFrzr"
     },
     {
-      "added_at": "2022-08-31 03:53:27",
-      "album": {
-        "name": "Under No Nation (Radio Edit)",
-        "url": "https://open.spotify.com/album/6NpZ9v8aJwdLdhhVEJq3Lm"
-      },
-      "artists": [
-        {
-          "name": "Goat",
-          "url": "https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP"
-        }
-      ],
-      "duration_ms": 184256,
-      "name": "Under No Nation - Radio Edit",
-      "url": "https://open.spotify.com/track/4FtumUPkZgKXyItJx2telR"
-    },
-    {
       "added_at": "2023-12-12 21:18:55",
       "album": {
         "name": "The Livelong Day",
@@ -843,6 +827,22 @@
       "duration_ms": 614363,
       "name": "The Wild Rover",
       "url": "https://open.spotify.com/track/0hJuFoWIujL61y6bFwUpsL"
+    },
+    {
+      "added_at": "2022-08-31 03:53:27",
+      "album": {
+        "name": "Under No Nation (Radio Edit)",
+        "url": "https://open.spotify.com/album/6NpZ9v8aJwdLdhhVEJq3Lm"
+      },
+      "artists": [
+        {
+          "name": "Goat",
+          "url": "https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP"
+        }
+      ],
+      "duration_ms": 184256,
+      "name": "Under No Nation - Radio Edit",
+      "url": "https://open.spotify.com/track/4FtumUPkZgKXyItJx2telR"
     },
     {
       "added_at": "2022-12-29 18:51:03",
@@ -963,6 +963,22 @@
     {
       "added_at": "2023-11-23 03:51:02",
       "album": {
+        "name": "The Livelong Day",
+        "url": "https://open.spotify.com/album/4h6xvRg0yciHX5BidpT1yC"
+      },
+      "artists": [
+        {
+          "name": "Lankum",
+          "url": "https://open.spotify.com/artist/2zPm4XzwKuPidtfKh92H2Z"
+        }
+      ],
+      "duration_ms": 331500,
+      "name": "Bear Creek",
+      "url": "https://open.spotify.com/track/1olcVMgFm2KGCDVK4g5b76"
+    },
+    {
+      "added_at": "2023-11-23 03:51:02",
+      "album": {
         "name": "Racines",
         "url": "https://open.spotify.com/album/1w1WPKt7ZbZJAgugYNs8bx"
       },
@@ -993,20 +1009,20 @@
       "url": "https://open.spotify.com/track/2Xr1RQQ15GeaJ7TFa8CTBj"
     },
     {
-      "added_at": "2023-11-23 03:51:02",
+      "added_at": "2022-02-23 18:02:26",
       "album": {
-        "name": "The Livelong Day",
-        "url": "https://open.spotify.com/album/4h6xvRg0yciHX5BidpT1yC"
+        "name": "No. 1",
+        "url": "https://open.spotify.com/album/4wpPZZoZk7tIm2pdiKEEWC"
       },
       "artists": [
         {
-          "name": "Lankum",
-          "url": "https://open.spotify.com/artist/2zPm4XzwKuPidtfKh92H2Z"
+          "name": "Etran de L'A\u00cfr",
+          "url": "https://open.spotify.com/artist/1Tj92mXFtSUJPPnT5fG4Gg"
         }
       ],
-      "duration_ms": 331500,
-      "name": "Bear Creek",
-      "url": "https://open.spotify.com/track/1olcVMgFm2KGCDVK4g5b76"
+      "duration_ms": 351374,
+      "name": "Agrim Agadez",
+      "url": "https://open.spotify.com/track/784k9MLp8Sce2hcItg5eaL"
     },
     {
       "added_at": "2023-12-05 16:22:29",
@@ -1025,22 +1041,6 @@
       "url": "https://open.spotify.com/track/68M4djLGRDlVPD53Dgiwnz"
     },
     {
-      "added_at": "2022-02-23 18:02:26",
-      "album": {
-        "name": "No. 1",
-        "url": "https://open.spotify.com/album/4wpPZZoZk7tIm2pdiKEEWC"
-      },
-      "artists": [
-        {
-          "name": "Etran de L'A\u00cfr",
-          "url": "https://open.spotify.com/artist/1Tj92mXFtSUJPPnT5fG4Gg"
-        }
-      ],
-      "duration_ms": 351374,
-      "name": "Agrim Agadez",
-      "url": "https://open.spotify.com/track/784k9MLp8Sce2hcItg5eaL"
-    },
-    {
       "added_at": "2021-10-20 20:05:06",
       "album": {
         "name": "Afrique Victime",
@@ -1055,6 +1055,22 @@
       "duration_ms": 338108,
       "name": "Tala Tannam",
       "url": "https://open.spotify.com/track/7FDVKzLOGTeeLEsR91ck9W"
+    },
+    {
+      "added_at": "2023-12-12 21:18:55",
+      "album": {
+        "name": "False Lankum",
+        "url": "https://open.spotify.com/album/2lu7c86G1ptjMJVL9upG1H"
+      },
+      "artists": [
+        {
+          "name": "Lankum",
+          "url": "https://open.spotify.com/artist/2zPm4XzwKuPidtfKh92H2Z"
+        }
+      ],
+      "duration_ms": 343000,
+      "name": "Newcastle",
+      "url": "https://open.spotify.com/track/2GiVRxdolsLBU3QZ8U7CNk"
     },
     {
       "added_at": "2023-04-14 00:27:25",
@@ -1107,22 +1123,6 @@
       "duration_ms": 239875,
       "name": "Yemay\u00e1",
       "url": "https://open.spotify.com/track/1LNxaEths4h9zioJN4yjJ4"
-    },
-    {
-      "added_at": "2023-12-12 21:18:55",
-      "album": {
-        "name": "False Lankum",
-        "url": "https://open.spotify.com/album/2lu7c86G1ptjMJVL9upG1H"
-      },
-      "artists": [
-        {
-          "name": "Lankum",
-          "url": "https://open.spotify.com/artist/2zPm4XzwKuPidtfKh92H2Z"
-        }
-      ],
-      "duration_ms": 343000,
-      "name": "Newcastle",
-      "url": "https://open.spotify.com/track/2GiVRxdolsLBU3QZ8U7CNk"
     },
     {
       "added_at": "2021-10-20 20:05:06",
@@ -1433,22 +1433,6 @@
       "url": "https://open.spotify.com/track/0X8xhlGsWrdkcbZrfqOxGO"
     },
     {
-      "added_at": "2023-07-24 17:57:15",
-      "album": {
-        "name": "Marzipan (Habibi Funk 023) [Bonus Edition]",
-        "url": "https://open.spotify.com/album/6KzZvtfDldSPWptq61k3Sv"
-      },
-      "artists": [
-        {
-          "name": "Charif Megarbane",
-          "url": "https://open.spotify.com/artist/3251WMUEVLhM2xvYlpkyG4"
-        }
-      ],
-      "duration_ms": 170500,
-      "name": "Chez Mounir",
-      "url": "https://open.spotify.com/track/3AYbUnxgA6rrg6VC9rtFod"
-    },
-    {
       "added_at": "2022-08-31 05:20:13",
       "album": {
         "name": "Ghibli",
@@ -1463,6 +1447,22 @@
       "duration_ms": 235519,
       "name": "Ghibli",
       "url": "https://open.spotify.com/track/034Z4bIOzqWhWaQNxOZMDU"
+    },
+    {
+      "added_at": "2023-07-24 17:57:15",
+      "album": {
+        "name": "Marzipan (Habibi Funk 023) [Bonus Edition]",
+        "url": "https://open.spotify.com/album/6KzZvtfDldSPWptq61k3Sv"
+      },
+      "artists": [
+        {
+          "name": "Charif Megarbane",
+          "url": "https://open.spotify.com/artist/3251WMUEVLhM2xvYlpkyG4"
+        }
+      ],
+      "duration_ms": 170500,
+      "name": "Chez Mounir",
+      "url": "https://open.spotify.com/track/3AYbUnxgA6rrg6VC9rtFod"
     },
     {
       "added_at": "2023-07-19 02:50:55",
@@ -1527,22 +1527,6 @@
       "duration_ms": 373893,
       "name": "Calling England Home",
       "url": "https://open.spotify.com/track/6jd5uWEpV3zdgnR0obsXZ2"
-    },
-    {
-      "added_at": "2024-01-11 22:44:49",
-      "album": {
-        "name": "Wee Rosebud",
-        "url": "https://open.spotify.com/album/52NR1QlvraGMvlG7d6OVdD"
-      },
-      "artists": [
-        {
-          "name": "Clarissa Connelly",
-          "url": "https://open.spotify.com/artist/5YTJVNTfb9qDXATTlzuR5S"
-        }
-      ],
-      "duration_ms": 261959,
-      "name": "Wee Rosebud",
-      "url": "https://open.spotify.com/track/4UZmFxgOxdrbgJyskDm3AS"
     },
     {
       "added_at": "2022-02-25 04:25:29",
@@ -1611,6 +1595,22 @@
       "duration_ms": 319169,
       "name": "Mu\u00ed\u00f1o",
       "url": "https://open.spotify.com/track/6zAuPi2fZsUYgXMIozkowv"
+    },
+    {
+      "added_at": "2024-01-11 22:44:49",
+      "album": {
+        "name": "Wee Rosebud",
+        "url": "https://open.spotify.com/album/52NR1QlvraGMvlG7d6OVdD"
+      },
+      "artists": [
+        {
+          "name": "Clarissa Connelly",
+          "url": "https://open.spotify.com/artist/5YTJVNTfb9qDXATTlzuR5S"
+        }
+      ],
+      "duration_ms": 261959,
+      "name": "Wee Rosebud",
+      "url": "https://open.spotify.com/track/4UZmFxgOxdrbgJyskDm3AS"
     },
     {
       "added_at": "2021-10-20 20:05:06",
@@ -1705,6 +1705,22 @@
       "url": "https://open.spotify.com/track/64Pztp6tg1ZBV9zF09mdFr"
     },
     {
+      "added_at": "2024-01-03 16:26:39",
+      "album": {
+        "name": "Hagata",
+        "url": "https://open.spotify.com/album/7cclyMWA0t4LT2qaBodOzp"
+      },
+      "artists": [
+        {
+          "name": "TEKE::TEKE",
+          "url": "https://open.spotify.com/artist/2muMdTToIY0P9819HvSYyu"
+        }
+      ],
+      "duration_ms": 244973,
+      "name": "Doppelganger",
+      "url": "https://open.spotify.com/track/7hWdNwrLMi89VNngqPxsm8"
+    },
+    {
       "added_at": "2023-02-10 03:09:47",
       "album": {
         "name": "Khun Narin's Electric Phin Band",
@@ -1719,22 +1735,6 @@
       "duration_ms": 357552,
       "name": "Lam Phu Thai # 1",
       "url": "https://open.spotify.com/track/6dsZAzOrP9af5rmzGl9Tlr"
-    },
-    {
-      "added_at": "2021-10-20 20:05:06",
-      "album": {
-        "name": "Wakangenei",
-        "url": "https://open.spotify.com/album/4bLNEzOnUc5MHalt1RyWO2"
-      },
-      "artists": [
-        {
-          "name": "Ankobo + Kaboo",
-          "url": "https://open.spotify.com/artist/3YbBjagRnNl4slaLBbhiO6"
-        }
-      ],
-      "duration_ms": 232800,
-      "name": "Wakangenei",
-      "url": "https://open.spotify.com/track/5p1U25xU1JZNFcZVHlZVwH"
     }
   ],
   "unique_name": "Folk Fabrique",

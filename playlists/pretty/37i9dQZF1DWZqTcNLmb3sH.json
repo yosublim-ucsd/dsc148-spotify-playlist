@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zk3svAAAAAAPfAnPiDk0/FBtufedsKCg",
+  "snapshot_id": "ZlBFjwAAAACo/ejGx12p47uqN6tY+qbC",
   "tracks": [
     {
       "added_at": "2024-05-22 13:01:10",
@@ -97,6 +97,26 @@
       "url": "https://open.spotify.com/track/0iTPdcPKhtTOzuDUOXaiKQ"
     },
     {
+      "added_at": "2024-05-24 07:45:19",
+      "album": {
+        "name": "Kiraathaka 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3WMWZGVq1vZREdP8nsFDZE"
+      },
+      "artists": [
+        {
+          "name": "Swaraag Keerthan",
+          "url": "https://open.spotify.com/artist/6uWcaIloiXIyWBb7oarvQL"
+        },
+        {
+          "name": "Praddyottan",
+          "url": "https://open.spotify.com/artist/2cM8BF1ngqyE703rsaRbaw"
+        }
+      ],
+      "duration_ms": 260570,
+      "name": "Naane Raama Naane Raavana (from \"Kiraathaka 2\")",
+      "url": "https://open.spotify.com/track/23QhRp2hSAyUWDrbbW8AwO"
+    },
+    {
       "added_at": "2024-05-14 04:29:52",
       "album": {
         "name": "Maathu Sothu (From \"Kotee\")",
@@ -119,6 +139,34 @@
       "duration_ms": 203684,
       "name": "Maathu Sothu (From \"Kotee\")",
       "url": "https://open.spotify.com/track/0UvB51pcl6Z34iPZZ8AEJK"
+    },
+    {
+      "added_at": "2024-05-24 07:45:19",
+      "album": {
+        "name": "Kiraathaka 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3WMWZGVq1vZREdP8nsFDZE"
+      },
+      "artists": [
+        {
+          "name": "Praddyottan",
+          "url": "https://open.spotify.com/artist/2cM8BF1ngqyE703rsaRbaw"
+        },
+        {
+          "name": "Pradeep Raj",
+          "url": "https://open.spotify.com/artist/63rtXrM1oIjlFVoaDIaEL2"
+        },
+        {
+          "name": "Sai Sanjana",
+          "url": "https://open.spotify.com/artist/2F3aeS1VyxuGPsRbrieZs6"
+        },
+        {
+          "name": "Vasumathi Gowda",
+          "url": "https://open.spotify.com/artist/6RdkvwGWA7CIKHT3VACaIK"
+        }
+      ],
+      "duration_ms": 119821,
+      "name": "Kiraathaka Rap Song",
+      "url": "https://open.spotify.com/track/2Ft6r2khrZ5sx6p8i6Ju19"
     },
     {
       "added_at": "2024-05-22 13:01:48",
@@ -1631,94 +1679,6 @@
       "duration_ms": 206206,
       "name": "Hithalaka Karibyada Maava (From \"Karataka Damanaka\")",
       "url": "https://open.spotify.com/track/2MMfYFIcxu0CbLVdsqFI7k"
-    },
-    {
-      "added_at": "2024-02-27 11:40:33",
-      "album": {
-        "name": "Yaav Kannu Chucchitho Yamanige (From \"HanuMan\") [Kannada]",
-        "url": "https://open.spotify.com/album/7nL9OFoVTlOX8lRB973KTy"
-      },
-      "artists": [
-        {
-          "name": "Krishna Saurabh Surampalli",
-          "url": "https://open.spotify.com/artist/0tykRfpBauzwKTzwR5YCfW"
-        },
-        {
-          "name": "Kala Bhairava",
-          "url": "https://open.spotify.com/artist/4tejKImNVmDcORNBuZ1l14"
-        },
-        {
-          "name": "K Kalyan",
-          "url": "https://open.spotify.com/artist/48lApU5PPixk0Szsxibdw3"
-        }
-      ],
-      "duration_ms": 268235,
-      "name": "Yaav Kannu Chucchitho Yamanige (From \"HanuMan\") [Kannada]",
-      "url": "https://open.spotify.com/track/1uZVsdUqh1i0N0zcuMZ3H7"
-    },
-    {
-      "added_at": "2024-03-04 11:32:38",
-      "album": {
-        "name": "Haraisuve (From \"For Regn\")",
-        "url": "https://open.spotify.com/album/0FM7CJvol0EqqHPLdzVUnY"
-      },
-      "artists": [
-        {
-          "name": "Vijay Prakash",
-          "url": "https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39"
-        },
-        {
-          "name": "Kaviraj",
-          "url": "https://open.spotify.com/artist/4QGaxjeQKdSWgWzzwUa1tM"
-        }
-      ],
-      "duration_ms": 289500,
-      "name": "Haraisuve ( From \"For Regn\")",
-      "url": "https://open.spotify.com/track/0IQ7MlkYIHnqA99RxYyY45"
-    },
-    {
-      "added_at": "2024-02-28 15:41:59",
-      "album": {
-        "name": "Bramayugam - Kannada",
-        "url": "https://open.spotify.com/album/3fFTTlMbK4lfeeBIV1Pssi"
-      },
-      "artists": [
-        {
-          "name": "Christo Xavier",
-          "url": "https://open.spotify.com/artist/3COuDGy2RmxZvq16WMZpSn"
-        },
-        {
-          "name": "Sai Vignesh",
-          "url": "https://open.spotify.com/artist/3cGZqGPKhq8ChGYotV0mlS"
-        },
-        {
-          "name": "Sayanth S",
-          "url": "https://open.spotify.com/artist/7ImKOVIYXQFPwQHBNdejsy"
-        }
-      ],
-      "duration_ms": 282549,
-      "name": "The Age Of Madness - Kannada",
-      "url": "https://open.spotify.com/track/5yICKMOnrZq4HybPhmwJLJ"
-    },
-    {
-      "added_at": "2024-02-02 13:16:55",
-      "album": {
-        "name": "Ellaa Maatannu (from \"Ondu Sarala Prema Kathe\")",
-        "url": "https://open.spotify.com/album/1rQPkxAVUVyuGd9vk5WMui"
-      },
-      "artists": [
-        {
-          "name": "Shivani Swami",
-          "url": "https://open.spotify.com/artist/64VSAmd4CFfkJ4JQljYjsr"
-        },
-        {
-          "name": "Veer Samarth",
-          "url": "https://open.spotify.com/artist/4y7yOpyqmE7aXMngtperyb"
-        }
-      ],
-      "duration_ms": 258445,
-      "name": "Ellaa Maatannu (from \"Ondu Sarala Prema Kathe\")",
-      "url": "https://open.spotify.com/track/2cbEhOVcx6eGNU1KX9cflQ"
     }
   ],
   "unique_name": "Latest Kannada",

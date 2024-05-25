@@ -4,7 +4,7 @@
 
 > The best of today's funk\. Cover: Durand Bernarr
 
-427 songs - 1 day 1 hr 11 min
+428 songs - 1 day 1 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -237,7 +237,7 @@
 | [Live It Up](https://open.spotify.com/track/2vQba2IJ5M9PDtY8qJ4KSb) | [La Felix](https://open.spotify.com/artist/3PoWaGWGbWmC3DrCOyGXOj) | [Live It Up](https://open.spotify.com/album/13b4XCQdlFs1V38vEVsxlI) | 2:40 | 2024-04-12 |  |
 | [Living Backwards](https://open.spotify.com/track/2FRX6fs6wXkf8jJigGdpGm) | [Pace](https://open.spotify.com/artist/7qem60JOzr0TKI9WOmkNaG) | [Living Backwards](https://open.spotify.com/album/2BZziXEUmY61NXLni2LOSJ) | 3:16 | 2021-03-19 | 2022-06-04 |
 | [lockdown](https://open.spotify.com/track/6JvM4RyaFmEdiV58dpv1Jr) | [GARDENA](https://open.spotify.com/artist/0HjFA96a8v0dDyN58HGhrB), [Ethan Dufault](https://open.spotify.com/artist/5c7oIOloT3runmK9YMayzJ) | [lockdown](https://open.spotify.com/album/6ZgBNr3doJZ1IIWjB9snwZ) | 3:21 | 2023-02-24 | 2024-03-30 |
-| [Lockstep](https://open.spotify.com/track/7y6fgrmnX6HF4pbyQugSTQ) | [Family Company](https://open.spotify.com/artist/68TMIdW3csuFrzKleLKrM0), [MacKenzie](https://open.spotify.com/artist/7boixvIKSl9OEnvnsJNws6) | [Lockstep](https://open.spotify.com/album/5iH6tJElNHGHMrUEmpgs6j) | 5:18 | 2023-09-08 |  |
+| [Lockstep](https://open.spotify.com/track/7y6fgrmnX6HF4pbyQugSTQ) | [Family Company](https://open.spotify.com/artist/68TMIdW3csuFrzKleLKrM0), [MacKenzie](https://open.spotify.com/artist/7boixvIKSl9OEnvnsJNws6) | [Lockstep](https://open.spotify.com/album/5iH6tJElNHGHMrUEmpgs6j) | 5:18 | 2023-09-08 | 2024-05-25 |
 | [Lola](https://open.spotify.com/track/5wncqbdGEyrmowwIGddZCs) | [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc) | [Lola](https://open.spotify.com/album/2eMcFHmOIAepZqmlt15wOY) | 3:32 | 2024-05-17 |  |
 | [Look Around](https://open.spotify.com/track/4cH9h6nvtxYNo450VXEo1s) | [Dux](https://open.spotify.com/artist/4KhjcdYNau3U89mU0hLuqr), [Moorea Masa & the Mood](https://open.spotify.com/artist/4Hs0J7IFJzXGJLhnytbCfR), [Swatkins](https://open.spotify.com/artist/0HnF3y5xRlNr6eGQmFZgjP) | [Look Around](https://open.spotify.com/album/6ttL4crGEJOfpcIiEVQFmM) | 3:41 | 2024-03-22 |  |
 | [Look At Me](https://open.spotify.com/track/3MmyrLEMNBwGicrY8x7jTs) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [Look At Me](https://open.spotify.com/album/4W0Gyfy905bzv92GLkyoat) | 3:53 | 2023-05-23 |  |
@@ -295,6 +295,7 @@
 | [Outta Touch](https://open.spotify.com/track/7IHToAweRwCubhQLs0Vy48) | [Corey El](https://open.spotify.com/artist/7MiIOLb4zegDIU0Uq7UKhd) | [Outta Touch](https://open.spotify.com/album/6TQSwl8zJuSJ3uD72qRfMT) | 3:31 | 2021-07-02 | 2022-04-29 |
 | [Over It](https://open.spotify.com/track/7HBNVNTJcQBlSKoxvwJcsH) | [Dux](https://open.spotify.com/artist/4KhjcdYNau3U89mU0hLuqr), [Raquel Rodriguez](https://open.spotify.com/artist/7CPwAwFBnruFlDqUQCrM1Q) | [Over It](https://open.spotify.com/album/1F7PbXOe9Fxopa97vqhRZb) | 3:46 | 2023-05-05 | 2024-03-23 |
 | [Park Your Car on My Face](https://open.spotify.com/track/2rAlaZWP0d14VyphXZEsZr) | [Louis Cole](https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH) | [Quality Over Opinion](https://open.spotify.com/album/57Xg6JumEnG5i5MBzJVdT7) | 3:36 | 2022-10-17 | 2023-03-25 |
+| [Party Head](https://open.spotify.com/track/5mjKQzWQb4IaGonP5fP9OB) | [BRADIO](https://open.spotify.com/artist/4bykb0rz2eT2t2kzihCsne) | [Party Head](https://open.spotify.com/album/1d12LPQ2UlPrHzIly118qq) | 4:11 | 2024-05-24 |  |
 | [Patrick Swayze](https://open.spotify.com/track/0jf7jehC9YDd49ipvJDzFS) | [Mogul](https://open.spotify.com/artist/6sqiRzYTXxK2QixYmy3Ebz), [Cool Company](https://open.spotify.com/artist/6lOCVUQbb9wzuZQbZQV9zn) | [Patrick Swayze](https://open.spotify.com/album/6BZSvgXRCnf3WjaaOafAwJ) | 3:55 | 2021-10-15 | 2022-11-12 |
 | [Pay It No Mind](https://open.spotify.com/track/4sV3lFXdxg0xDtmt3IwRYr) | [Ric Wilson](https://open.spotify.com/artist/34zbMuAgXxsgqnGXSxWvCR), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt) | [Pay It No Mind](https://open.spotify.com/album/6mFhdt0e4DjyQ9U7lLqvGV) | 3:47 | 2023-02-24 | 2023-04-01 |
 | [Pepper Dem](https://open.spotify.com/track/3NNozRRUuQnwMb3uASRpj4) | [Nathan Adams](https://open.spotify.com/artist/4Qc2hTBOx11WvgZMK2M4O9) | [Pepper Dem](https://open.spotify.com/album/2UffSLAJYhM96CBOt5dZtR) | 4:08 | 2022-06-17 | 2024-03-02 |

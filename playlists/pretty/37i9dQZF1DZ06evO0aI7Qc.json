@@ -1,12 +1,12 @@
 {
   "description": "This is Luis R Conriquez. The essential tracks, all in one playlist.",
-  "num_followers": 290222,
+  "num_followers": 290606,
   "original_name": "This Is Luis R Conriquez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zk01gAAAAAB7oFy0PRz1Ct8qZdvX6y/n",
+  "snapshot_id": "Zk6HAAAAAADiYEdnm4jAy4Ne3yFqMigd",
   "tracks": [
     {
       "added_at": null,
@@ -619,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos B\u00e9licos, Vol. 3",
-        "url": "https://open.spotify.com/album/2tqw9Hsyxr5G3bCR5NgWGo"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 162624,
-      "name": "Mi Momento",
-      "url": "https://open.spotify.com/track/0yhduE0AtElWqyPkgeSMja"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corridos B\u00e9licos, Vol. IV",
         "url": "https://open.spotify.com/album/6OOtv7bmTFpSBh1uubgyTb"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 184274,
       "name": "Aquellos Botones",
       "url": "https://open.spotify.com/track/7pK2omxNCdDHqWqjRPJPoN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos B\u00e9licos, Vol. 3",
+        "url": "https://open.spotify.com/album/2tqw9Hsyxr5G3bCR5NgWGo"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 162624,
+      "name": "Mi Momento",
+      "url": "https://open.spotify.com/track/0yhduE0AtElWqyPkgeSMja"
     },
     {
       "added_at": null,
@@ -971,26 +971,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bandido (En Vivo)",
-        "url": "https://open.spotify.com/album/05WrjfX5fyvh4OSDKUwrwZ"
-      },
-      "artists": [
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 214826,
-      "name": "Bandido - En Vivo",
-      "url": "https://open.spotify.com/track/1gKuxAJX4sKow9NOABCLSK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Pobreza Buena",
         "url": "https://open.spotify.com/album/5pvt7RiMn0dNrzHbxg2NAI"
       },
@@ -1011,6 +991,26 @@
       "duration_ms": 209683,
       "name": "La Pobreza Buena",
       "url": "https://open.spotify.com/track/6znmbSFyJDp4diXQWO5QW8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bandido (En Vivo)",
+        "url": "https://open.spotify.com/album/05WrjfX5fyvh4OSDKUwrwZ"
+      },
+      "artists": [
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 214826,
+      "name": "Bandido - En Vivo",
+      "url": "https://open.spotify.com/track/1gKuxAJX4sKow9NOABCLSK"
     },
     {
       "added_at": null,

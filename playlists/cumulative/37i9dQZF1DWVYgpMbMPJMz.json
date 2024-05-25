@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "No need to wait!  Experience today's best Worship music right here, right now. Cover:  Elevation Worship",
+  "description": "No need to wait!  Experience today's best Worship music right here, right now. Cover:  Steven Malcom & Sanctus Real",
   "name": "WorshipNow",
   "tracks": [
     {
@@ -234,7 +234,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 375735,
       "name": "Acts 2",
       "url": "https://open.spotify.com/track/2SMCSikXj3CYsghcaUVscv"
@@ -2896,6 +2896,28 @@
       "duration_ms": 242768,
       "name": "Fear is Not My Future - Radio Version",
       "url": "https://open.spotify.com/track/6VCUTG3DbG8PpkqSvLogfa"
+    },
+    {
+      "album": {
+        "name": "Feels To Be Free",
+        "url": "https://open.spotify.com/album/7B4r5TyNaLZmuZ1alv08c1"
+      },
+      "artists": [
+        {
+          "name": "Steven Malcolm",
+          "url": "https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8"
+        },
+        {
+          "name": "Sanctus Real",
+          "url": "https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223722,
+      "name": "Feels To Be Free",
+      "url": "https://open.spotify.com/track/4a5nav3DaelqdoyE0MZmRN"
     },
     {
       "album": {
@@ -6613,6 +6635,24 @@
     },
     {
       "album": {
+        "name": "Love Me Back To Life (Live)",
+        "url": "https://open.spotify.com/album/4eTd5vEfp2UlWkir885GfX"
+      },
+      "artists": [
+        {
+          "name": "7 Hills Worship",
+          "url": "https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317831,
+      "name": "Love Me Back To Life - Live",
+      "url": "https://open.spotify.com/track/4whO8Lsvth4qxAHoxXZWtp"
+    },
+    {
+      "album": {
         "name": "Made For More (Live)",
         "url": "https://open.spotify.com/album/4WSovjbbLpFMz7M3NtJiKh"
       },
@@ -8749,6 +8789,24 @@
     },
     {
       "album": {
+        "name": "Revelation Song (Live)",
+        "url": "https://open.spotify.com/album/47IkERc7mxJxVlktq4bY3b"
+      },
+      "artists": [
+        {
+          "name": "Jesus Co.",
+          "url": "https://open.spotify.com/artist/6Ll7sTNN0NeJHoB0bmCKZ1"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 521042,
+      "name": "Revelation Song - Live",
+      "url": "https://open.spotify.com/track/64Vcux99vOGYkJ6u9KY2A4"
+    },
+    {
+      "album": {
         "name": "Revive Us",
         "url": "https://open.spotify.com/album/17oIxNONWHkpyohJKlpHDZ"
       },
@@ -9208,7 +9266,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 317146,
       "name": "Simple Matter",
       "url": "https://open.spotify.com/track/19TiECi9uhu3vRj2XAQrq5"
@@ -9596,7 +9654,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 297488,
       "name": "Supernatural Love - Live",
       "url": "https://open.spotify.com/track/1KrKAsdDbmvyBwqKST85hq"
@@ -11591,6 +11649,28 @@
     },
     {
       "album": {
+        "name": "WHAT YOU'RE WORTHY OF",
+        "url": "https://open.spotify.com/album/5lI5bQFhbTu0sY1Zl7EX3N"
+      },
+      "artists": [
+        {
+          "name": "TEMITOPE",
+          "url": "https://open.spotify.com/artist/2YrmP8ksRyeEVkzYp5to25"
+        },
+        {
+          "name": "Mitch Wong",
+          "url": "https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266275,
+      "name": "WHAT YOU'RE WORTHY OF",
+      "url": "https://open.spotify.com/track/1opOqU6Vph4HcZW1xiloe5"
+    },
+    {
+      "album": {
         "name": "Yahweh",
         "url": "https://open.spotify.com/album/0C8IetiUJZpIa1mArhWgpQ"
       },
@@ -12038,7 +12118,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 513466,
       "name": "Yahweh Will Manifest - Live From San Juan PR",
       "url": "https://open.spotify.com/track/1z7Fxs69SXH3OD9XNye8Lz"

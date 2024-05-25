@@ -4,7 +4,7 @@
 
 > Indie soul that's highkey fire
 
-713 songs - 1 day 15 hr 1 min
+714 songs - 1 day 15 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -358,7 +358,7 @@
 | [Let It Go](https://open.spotify.com/track/1OFEzFogOuGlrjZt6jdz6l) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Raven](https://open.spotify.com/album/06uhdSmIYrWRkdnAPjcRcT) | 4:22 | 2023-02-10 |  |
 | [Let Me](https://open.spotify.com/track/7jbR0coXoqygIfc6OFW8ly) | [NNAVY](https://open.spotify.com/artist/3X9xtTCJtryAoqsSMKCzXu), [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC), [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq), [Hendrick Sam](https://open.spotify.com/artist/3JCq2a0rntSwS9gtnhfNO9) | [CLOSER](https://open.spotify.com/album/4cSCZXFa68eNFY1pEeIzcW) | 3:48 | 2024-04-26 |  |
 | [Let Me Feel Your Charm \- Spotify Singles](https://open.spotify.com/track/2kOdSOu7imEWFLgeYcY7tq) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU), [Jensine Benitez](https://open.spotify.com/artist/6EkOEYrG2cAQgIatrHQJbX) | [Let Me Feel Your Charm \- Spotify Singles](https://open.spotify.com/album/3LOouZQ6CUoH29m6MnY8qV) | 2:42 | 2024-02-17 |  |
-| [Let Me Know](https://open.spotify.com/track/6ThpQpPBewDQv65CJBmD0J) | [Carlos Abril](https://open.spotify.com/artist/3EZSFgcjMOuvt39vZQDo7L), [Amelia Rose](https://open.spotify.com/artist/3UU07M4msKfDqC4c9JCnDl), [9ICK](https://open.spotify.com/artist/6kHG4q4IIYCw3ijwWZs6Zx) | [Let Me Know](https://open.spotify.com/album/7KvAGVlZvGAB0qGYcjoazV) | 3:56 | 2023-03-10 |  |
+| [Let Me Know](https://open.spotify.com/track/6ThpQpPBewDQv65CJBmD0J) | [Carlos Abril](https://open.spotify.com/artist/3EZSFgcjMOuvt39vZQDo7L), [Amelia Rose](https://open.spotify.com/artist/3UU07M4msKfDqC4c9JCnDl), [9ICK](https://open.spotify.com/artist/6kHG4q4IIYCw3ijwWZs6Zx) | [Let Me Know](https://open.spotify.com/album/7KvAGVlZvGAB0qGYcjoazV) | 3:56 | 2023-03-10 | 2024-05-25 |
 | [Let This Go](https://open.spotify.com/track/5AvT8QuysDMHiqKD9lDulK) | [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu) | [Let This Go](https://open.spotify.com/album/4JtkxBWC37gnLUi1oWid1V) | 2:57 | 2023-10-27 |  |
 | [Let's Go Get Stoned](https://open.spotify.com/track/1XCqGflyHjZAE1BnRqWUc9) | [Booker T\. & the M.G.'s](https://open.spotify.com/artist/2vDV0T8sxx2ENnKXds75e5) | [Doin' Our Thing](https://open.spotify.com/album/2OWQVMKNjSZeTaVXpfHPX5) | 2:54 | 2021-12-15 | 2023-04-15 |
 | [Let's Stay Together](https://open.spotify.com/track/3spYJ0xnfApOUDuV3dkf5n) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Let's Stay Together](https://open.spotify.com/album/3SXhmpjNlep1yKcBU8Wk6i) | 3:38 | 2023-06-23 |  |
@@ -469,6 +469,7 @@
 | [only u](https://open.spotify.com/track/0jatnHT0N0LSpbE1obPLB9) | [Karri](https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME) | [only u](https://open.spotify.com/album/2U7bhZNHzxwpRJQ9de7LmZ) | 2:26 | 2023-05-05 | 2023-09-09 |
 | [Only You](https://open.spotify.com/track/3inov7UTS3ZHlq3RvDT5Ga) | [James Vickery](https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch) | [Sheet Music](https://open.spotify.com/album/6dZamUVfDA1r94i5PWQQfG) | 3:08 | 2023-03-03 | 2024-02-01 |
 | [Ooowee \(feat\. Elijah Dax\)](https://open.spotify.com/track/4XkyUlAe8KLpV5bpvyyIBx) | [Junia\-T](https://open.spotify.com/artist/0OnVUhC12ynNpOuQsRgXLl), [Elijah Dax](https://open.spotify.com/artist/6Hwr3bDEGLweTOT3jeFhtD) | [Studio Monk](https://open.spotify.com/album/2TX2WnQmumRHMhiK22XfVO) | 4:13 | 2021-12-15 | 2022-08-14 |
+| [open](https://open.spotify.com/track/7y4voxIo9QJT9ZODjKEBLS) | [Merges](https://open.spotify.com/artist/4kxopTxmOJYaWkOAbcB7x3) | [open](https://open.spotify.com/album/7nkV7ATNyYOJsYPZ63aPP4) | 2:22 | 2023-11-10 |  |
 | [ordinary love](https://open.spotify.com/track/6c1hBQhJpn1n8Jgf7pLAYE) | [Humble the Great](https://open.spotify.com/artist/2mt0DSoD1Lc8halPyRTVHP) | [ordinary love](https://open.spotify.com/album/2wtHEZMiYClmFw6klKyISA) | 3:12 | 2024-03-22 | 2024-04-27 |
 | [Ordinary Pleasure](https://open.spotify.com/track/31F0KxmTD4rz3o0tJht5RL) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Outer Peace](https://open.spotify.com/album/7lXkGYfPd8ygerG681NxQG) | 3:03 | 2021-12-15 | 2022-07-29 |
 | [Ordinary Pleasure](https://open.spotify.com/track/1r1BFALfShEfyv1aEs7MRW) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Outer Peace](https://open.spotify.com/album/3KkxbmbkRvxghNwGwQRZcj) | 3:03 | 2022-06-30 | 2023-03-11 |

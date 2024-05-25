@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-23",
-  "description": "Eletr\u00f4nico do momento para curtir onde estiver. Foto: KVSH, CERES, DISORDER",
+  "description": "Eletr\u00f4nico do momento para curtir onde estiver. Foto: Bhaskar",
   "name": "Dance Paradise",
   "tracks": [
     {
@@ -1026,7 +1026,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 156093,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/5WzW9TJyM9crru0ATLE1tm"
@@ -1427,6 +1427,28 @@
     },
     {
       "album": {
+        "name": "Crazy People (Victor Ruiz Remix)",
+        "url": "https://open.spotify.com/album/6TyFYm26pb39Lms5kOnOac"
+      },
+      "artists": [
+        {
+          "name": "Liquid Soul",
+          "url": "https://open.spotify.com/artist/2OayjBrvpxhiDrV2KzKehh"
+        },
+        {
+          "name": "Victor Ruiz",
+          "url": "https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 434005,
+      "name": "Crazy People - Victor Ruiz Remix",
+      "url": "https://open.spotify.com/track/3amcv0aAbe57YRevwUxjVw"
+    },
+    {
+      "album": {
         "name": "Crazy Tech",
         "url": "https://open.spotify.com/album/6WkMXJvvcOFJywfHIuPO8U"
       },
@@ -1592,7 +1614,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 228571,
       "name": "DEEPER",
       "url": "https://open.spotify.com/track/1BxtUxsBmTxUOdH2f1LVXx"
@@ -3105,6 +3127,32 @@
     },
     {
       "album": {
+        "name": "I'm an Alien",
+        "url": "https://open.spotify.com/album/5HYzQDtk0lKtJ06aagndZ7"
+      },
+      "artists": [
+        {
+          "name": "Meca",
+          "url": "https://open.spotify.com/artist/4BXrJLagIbiwWnfJMd1sKQ"
+        },
+        {
+          "name": "Puka",
+          "url": "https://open.spotify.com/artist/3Gmuv8ih6UWYlZQlM4zFgo"
+        },
+        {
+          "name": "Wasiu",
+          "url": "https://open.spotify.com/artist/5U1eJDpMKZiQustw16e0g2"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199218,
+      "name": "I'm an Alien",
+      "url": "https://open.spotify.com/track/5OpsMaCuFKEJBa64ogjrGW"
+    },
+    {
+      "album": {
         "name": "If U Need It",
         "url": "https://open.spotify.com/album/628CN0UzuPsstc678cQ5Sn"
       },
@@ -3511,6 +3559,24 @@
     },
     {
       "album": {
+        "name": "KO EP",
+        "url": "https://open.spotify.com/album/4NAZqj101hs4hTkxl2YAx1"
+      },
+      "artists": [
+        {
+          "name": "Breaking Beattz",
+          "url": "https://open.spotify.com/artist/0eRxVzLBxZGMZcsSoMESfX"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213750,
+      "name": "KO",
+      "url": "https://open.spotify.com/track/6AYmnPmVcnay8vjvyLeR6w"
+    },
+    {
+      "album": {
         "name": "KRVSH!",
         "url": "https://open.spotify.com/album/65kyqMMsojSFxxSTdRt3Wt"
       },
@@ -3803,6 +3869,24 @@
     },
     {
       "album": {
+        "name": "Make It Loud",
+        "url": "https://open.spotify.com/album/0Zl7Eez8Eu49Ssp30wzLBd"
+      },
+      "artists": [
+        {
+          "name": "Bhaskar",
+          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236129,
+      "name": "Make It Loud",
+      "url": "https://open.spotify.com/track/4lXEBALFOZ9cxp3NgSWDhN"
+    },
+    {
+      "album": {
         "name": "Make It Right",
         "url": "https://open.spotify.com/album/2d02o3jAuy4Rnyd7bdy8PO"
       },
@@ -4076,7 +4160,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 216750,
       "name": "MUMBLE",
       "url": "https://open.spotify.com/track/5EpNu3BHwYMXtyeNNgTxVI"
@@ -4902,6 +4986,28 @@
       "duration_ms": 160650,
       "name": "Please Press Play - Radio Edit",
       "url": "https://open.spotify.com/track/37JCQAFq3xloM2QraYGUUk"
+    },
+    {
+      "album": {
+        "name": "Promised Land",
+        "url": "https://open.spotify.com/album/0uj28c7dMMgO59Jzx84bSE"
+      },
+      "artists": [
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "NoMBe",
+          "url": "https://open.spotify.com/artist/5Lhxlge1CR1DrgDAje8Qaw"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170471,
+      "name": "Pleasure Chasers",
+      "url": "https://open.spotify.com/track/6pf5Yqg1zSbsxHaLBf49BP"
     },
     {
       "album": {
@@ -6490,7 +6596,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 147582,
       "name": "Trapped",
       "url": "https://open.spotify.com/track/4c1t2huQZh2Q2wddgJ6wMB"
@@ -6556,7 +6662,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 136000,
       "name": "Tsunami",
       "url": "https://open.spotify.com/track/7Datvb4oPN6dHpfIYWgJii"

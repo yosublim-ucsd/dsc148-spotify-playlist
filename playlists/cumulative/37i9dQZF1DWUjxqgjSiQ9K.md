@@ -4,7 +4,7 @@
 
 > Las canciones de fe que más se escuchan en Latinoamérica\. Foto: <a href="spotify:artist:4VMYDCV2IEDYJArk749S6m">Daddy Yankee</a>
 
-569 songs - 1 day 19 hr 54 min
+571 songs - 1 day 20 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -307,6 +307,7 @@
 | [Lo Volvería A Hacer \(feat\. Grilex\)](https://open.spotify.com/track/0HPKcGVJgcCOOiWZ3N9QpZ) | [Kike Pavón](https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0), [Grilex](https://open.spotify.com/artist/5jViV3w4fYOGcMSPYJ7AR8) | [Lo Volvería A Hacer \(feat\. Grilex\)](https://open.spotify.com/album/105Pb9j0NYKUeeLLn2yEtX) | 3:28 | 2022-08-12 | 2023-08-19 |
 | [Loco Corazón](https://open.spotify.com/track/3222yl84B3wPXBQ0VvEyux) | [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [Recarga](https://open.spotify.com/album/3jAyk5Gqm3aTIoviY7Fx06) | 3:22 | 2023-05-26 | 2024-01-27 |
 | [Los Brazos De Papá \- Live](https://open.spotify.com/track/76S244M8FAxdlfeE2nJLeF) | [Grupo Grace](https://open.spotify.com/artist/6toUclayfnCvKyLtLSmyqb), [Oasis Ministry](https://open.spotify.com/artist/0ZEe7eLQ6kHrR2RDqhTL3e) | [Libres Live](https://open.spotify.com/album/7K4hArl8DPqoejk1RnJDsW) | 12:23 | 2022-05-13 | 2023-02-11 |
+| [LOVEO](https://open.spotify.com/track/0rBVM75Fqi5U6rCm2m5iTK) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [LOVEO](https://open.spotify.com/album/00lZ4WPWOw5BdLJAPMtvrr) | 2:53 | 2024-05-24 |  |
 | [Lugar Seguro](https://open.spotify.com/track/2E1UQXZ4BfEm7G22YvO5DU) | [Lead](https://open.spotify.com/artist/5pyTY6jmdDNfKmmlo92Vfd) | [Muestra Tu Gloria](https://open.spotify.com/album/3kvysTWqbulRjCoVWGeBxs) | 6:49 | 2022-02-25 | 2022-03-18 |
 | [Luna](https://open.spotify.com/track/3rEFHkpVayHvY6wx5Fb7a1) | [Indiomar](https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM) | [Luna](https://open.spotify.com/album/6jLDlv6qLUjwVgvcq8h3NB) | 3:20 | 2022-05-20 | 2022-10-15 |
 | [Luna Que Me Alumbra](https://open.spotify.com/track/1QJXOveHlGy5N9Lie82Gm2) | [El Leo Pa´](https://open.spotify.com/artist/67SzMFfffYwYnlQhxPGsOt), [Lemuel Amaury](https://open.spotify.com/artist/0XrJ1hYeE7gqPA77uNADqe) | [Luna Que Me Alumbra](https://open.spotify.com/album/3DSh6c9bEuPAfwBGHs6sAZ) | 2:59 | 2022-05-20 | 2022-07-02 |
@@ -399,6 +400,7 @@
 | [Poderoso](https://open.spotify.com/track/7suLotu4fPldWgHbsvvmzz) | [Alex Linares](https://open.spotify.com/artist/35DcV9GrbHnpHMpTxqO7aT), [Ander Bock](https://open.spotify.com/artist/3ARwD7QJqYlDmcFeB6oPQM) | [Poderoso](https://open.spotify.com/album/7w9SYfdjGZLL8xM5J944OU) | 3:28 | 2023-01-06 | 2023-03-04 |
 | [Poderoso Dios \- Grande y Fiel](https://open.spotify.com/track/1ZeKgGNqFR7NlbxOhEBDJd) | [Gateway Worship Español](https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Poderoso Dios \(Grande Y Fiel\)](https://open.spotify.com/album/3kBXpmimlp4hbrmf8itlxj) | 7:53 | 2022-03-11 | 2022-04-09 |
 | [Poema \- Remix](https://open.spotify.com/track/3CqZiTsF4U6vGQfxPYdn4k) | [Kev Miranda](https://open.spotify.com/artist/5mAsjDDm81xwtAbB6TrWVR), [Harold Velazquez](https://open.spotify.com/artist/7whnCG4xTRqrIsagRrrjLj) | [Poema \(Remix\)](https://open.spotify.com/album/3dLjaByozvJs91ooszGEEp) | 3:21 | 2023-02-03 | 2023-03-11 |
+| [Por la Fe](https://open.spotify.com/track/3Gr1vznivWJAGupbD3OrSp) | [Un Corazón](https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm), [Barak](https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P), [Kim Richards](https://open.spotify.com/artist/5njxJJEEXE6Kxkr4yiFeJi), [Robert Green](https://open.spotify.com/artist/4O8q5lfrEaSe3ukfFJTRGi) | [KINTSUGI](https://open.spotify.com/album/47J2ZFBFAynjWuc7vrFBZo) | 7:36 | 2024-05-24 |  |
 | [Por Un Año Más](https://open.spotify.com/track/3VAKxSrwXA3qpEIIlZc8WT) | [Lilly Goodman](https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS) | [Por Un Año Más](https://open.spotify.com/album/6x9BTyxCu5g1TojB7rbGX5) | 2:50 | 2022-02-25 | 2022-07-23 |
 | [Prendio](https://open.spotify.com/track/0AFZ3q755SUhvquX6EVpnJ) | [DOMINICO GONZALEZ](https://open.spotify.com/artist/72zhW2gZnxEz4jKsutwSLw), [Townix](https://open.spotify.com/artist/4iSbdQ17ULxAugOFOC5Bx2) | [Prendio](https://open.spotify.com/album/2hvgQGdaaADwSomkDxOLcD) | 2:42 | 2022-11-25 | 2022-12-03 |
 | [Presencia Aquí \(Known\)](https://open.spotify.com/track/4LMPG7K5kPF4keIqrncb2R) | [Anthem Worship Español](https://open.spotify.com/artist/32P5BFOjACzqsAvzeJkR9A), [SioVera](https://open.spotify.com/artist/6mEJxv4yQ0uvEZ023sKEPt), [Mass Anthem](https://open.spotify.com/artist/0KVR8D2dx5Td8ONhNZRLkM), [Anthem Worship](https://open.spotify.com/artist/71LGmy4toAaXKJP7IK8xvG) | [Presencia Aquí \(Known\)](https://open.spotify.com/album/1dt4viwBquPPTzHcmU8vmq) | 3:21 | 2023-07-28 |  |

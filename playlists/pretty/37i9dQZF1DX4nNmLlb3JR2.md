@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nNmLlb3JR2.md) - [plain]
 
 > A fresh lofi spin on your favourite tunes and old songs you love.
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,560 likes - 161 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,688 likes - 161 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nNmLlb3JR2.md) - [plain]
 | 27 | [Creepin](https://open.spotify.com/track/33nYtG8rlanRyq3v9bcb6w) | [Bat Bilger](https://open.spotify.com/artist/1hHeQ22aJjCgE42pUjvkon) | [Creepin](https://open.spotify.com/album/0jZdGZMQud5jzPD3bxLlbj) | 3:10 |
 | 28 | [Yellow \- Lo\-Fi](https://open.spotify.com/track/1YN98svRQo1ghA4WVuzPUi) | [yoshi the brilliant](https://open.spotify.com/artist/6k8AnK3Kuk6fv1AQu0IGBJ) | [Yellow & The Scientist \(Lo\-Fi\)](https://open.spotify.com/album/7CiuiRXNH5oVv3gUThOHuY) | 4:18 |
 | 29 | [boulevard of broken dreams](https://open.spotify.com/track/0ZA0zhZye770PB2gALNv1Z) | [Tetouan](https://open.spotify.com/artist/5zqfe0xfWmU830hI8jThsi) | [boulevard of broken dreams](https://open.spotify.com/album/64jmiYsMnjBcEooouZb33R) | 1:48 |
-| 30 | [Blue](https://open.spotify.com/track/0rhcBC8kyqZYNo9yCk4MLc) | [helistofax](https://open.spotify.com/artist/1OFeufWeaCNizpr4djN3qW) | [Blue](https://open.spotify.com/album/4UlNAmbpoPjHUqx0rabSc0) | 2:15 |
+| 30 | [Blue](https://open.spotify.com/track/0rhcBC8kyqZYNo9yCk4MLc) | [helistofax](https://open.spotify.com/artist/1yqwldCn06dMm3w2huiFQn) | [Blue](https://open.spotify.com/album/4UlNAmbpoPjHUqx0rabSc0) | 2:15 |
 | 31 | [when i was your man](https://open.spotify.com/track/75z7lw3D0bIqla7vXKbaK7) | [haki donzo](https://open.spotify.com/artist/7JCLpMzChs65N5MKKyup2b) | [when i was your man](https://open.spotify.com/album/1ORHp2iPLW0OjhWH7gw4O1) | 2:18 |
 | 32 | [Die For You](https://open.spotify.com/track/1nLi6OAjTRfFRNYTrvpmPj) | [Ingelwood Syndicate](https://open.spotify.com/artist/3Mvlf7TqfvwKklBsRxezJ7) | [Die For You](https://open.spotify.com/album/4a7N9UUXtAjasSIMiIMpwW) | 3:28 |
 | 33 | [God Girl](https://open.spotify.com/track/6PUrpc5FKEIdOHB6Cr0UOQ) | [Salty Soundz](https://open.spotify.com/artist/0uj4WSTdDGg22OCuqLTKk9) | [God Girl](https://open.spotify.com/album/0FUXc6dVrKHPn2dT9FhzrU) | 2:48 |

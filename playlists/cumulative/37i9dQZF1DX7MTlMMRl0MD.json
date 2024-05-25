@@ -2172,7 +2172,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 223573,
       "name": "El Campe\u00f3n",
       "url": "https://open.spotify.com/track/3HEXAkSc7S6Dbo4pJpOp1R"
@@ -3905,6 +3905,28 @@
     },
     {
       "album": {
+        "name": "Me Beb\u00ed Tu Recuerdo",
+        "url": "https://open.spotify.com/album/6I5ClG7uNBguIeRRAkwLtW"
+      },
+      "artists": [
+        {
+          "name": "Elvis Martinez",
+          "url": "https://open.spotify.com/artist/66U02qGDesTqZImnLSiYeE"
+        },
+        {
+          "name": "H\u00e9ctor Acosta \"El Torito\"",
+          "url": "https://open.spotify.com/artist/4TCAAIMmeZXCTVlHUsicOn"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208703,
+      "name": "Me Beb\u00ed Tu Recuerdo",
+      "url": "https://open.spotify.com/track/2jqmRUKoapLfY0zZmSwrZB"
+    },
+    {
+      "album": {
         "name": "Me Duele (Remix)",
         "url": "https://open.spotify.com/album/56jdCrkHHIcwQQUZIxLJwh"
       },
@@ -4998,6 +5020,24 @@
       "duration_ms": 255680,
       "name": "Pobre Diabla",
       "url": "https://open.spotify.com/track/7gxVgMixTYh4NXiNMao4s2"
+    },
+    {
+      "album": {
+        "name": "Poniendo Fichas",
+        "url": "https://open.spotify.com/album/0N0IxkJg7P4sYM7qIthUm4"
+      },
+      "artists": [
+        {
+          "name": "Daniel Santacruz",
+          "url": "https://open.spotify.com/artist/4tLUnrSgMM7tT0zVs3wX61"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219625,
+      "name": "Poniendo Fichas",
+      "url": "https://open.spotify.com/track/5YCoBe7xqmh0yIinTyoitg"
     },
     {
       "album": {
@@ -6576,7 +6616,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 202500,
       "name": "Todo Cansa",
       "url": "https://open.spotify.com/track/6dSfOKkfLJpy7hfCH6uGci"

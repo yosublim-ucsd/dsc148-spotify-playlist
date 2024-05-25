@@ -1,13 +1,117 @@
 {
-  "description": "Every week badass heavy-music artists drop badass new cuts, and every week we&#x27;ll add those tracks to this evolving list for your headbanging pleasure. Cover artist: Body Count",
-  "num_followers": 8569,
+  "description": "Every week badass heavy-music artists drop badass new cuts, and every week we&#x27;ll add those tracks to this evolving list for your headbanging pleasure. Cover artist: Bring Me the Horizon",
+  "num_followers": 8567,
   "original_name": "Best New Songs Right Now",
   "owner": {
     "name": "revolvermagazine",
     "url": "https://open.spotify.com/user/revolvermagazine"
   },
-  "snapshot_id": "AAAMG/oBWrYBenOJ6/27ibxoCkO49DFJ",
+  "snapshot_id": "AAAMI/ZcG1jajr1Mpfz4TpGSmu3oCtPX",
   "tracks": [
+    {
+      "added_at": "2024-05-24 19:53:24",
+      "album": {
+        "name": "POST HUMAN: NeX GEn",
+        "url": "https://open.spotify.com/album/1k7OXnGQPV4zF3seDwRroD"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        },
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+        }
+      ],
+      "duration_ms": 251939,
+      "name": "liMOusIne (feat. AURORA)",
+      "url": "https://open.spotify.com/track/6tVahG14lCjexVQnYWKgwF"
+    },
+    {
+      "added_at": "2024-05-24 19:53:44",
+      "album": {
+        "name": "Something I'm Not",
+        "url": "https://open.spotify.com/album/6TprautIu2RUz8oYQSv8BB"
+      },
+      "artists": [
+        {
+          "name": "Graphic Nature",
+          "url": "https://open.spotify.com/artist/0QUcDHMfwBsMAufKXbzhkH"
+        }
+      ],
+      "duration_ms": 205837,
+      "name": "Something I'm Not",
+      "url": "https://open.spotify.com/track/266NgH6rHSWkgdTSHyVfnB"
+    },
+    {
+      "added_at": "2024-05-24 19:53:57",
+      "album": {
+        "name": "RATATATA",
+        "url": "https://open.spotify.com/album/4DccXktGbSRsgUoBvH8EN7"
+      },
+      "artists": [
+        {
+          "name": "BABYMETAL",
+          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
+        },
+        {
+          "name": "Electric Callboy",
+          "url": "https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc"
+        }
+      ],
+      "duration_ms": 216428,
+      "name": "RATATATA",
+      "url": "https://open.spotify.com/track/14WYmNQWvR2TTWoRp8t9Ml"
+    },
+    {
+      "added_at": "2024-05-24 19:55:23",
+      "album": {
+        "name": "Carry My Own Torch",
+        "url": "https://open.spotify.com/album/0kzlRoT1TagiE9NdIj029t"
+      },
+      "artists": [
+        {
+          "name": "Firewalker",
+          "url": "https://open.spotify.com/artist/5IeFfgx0s1a3ny8dFyz5si"
+        }
+      ],
+      "duration_ms": 109090,
+      "name": "Carry My Own Torch",
+      "url": "https://open.spotify.com/track/2y1QK4Ryxlg1KZ47rjkHbq"
+    },
+    {
+      "added_at": "2024-05-24 19:55:36",
+      "album": {
+        "name": "Pure Pleasure",
+        "url": "https://open.spotify.com/album/5guM78A4Dt1cFGYYaQiswE"
+      },
+      "artists": [
+        {
+          "name": "Pure Pleasure",
+          "url": "https://open.spotify.com/artist/0HQnl1hXiwKMgYFL4E2ajp"
+        }
+      ],
+      "duration_ms": 141781,
+      "name": "Counting Sheep",
+      "url": "https://open.spotify.com/track/7rF03kr20a9jpRUng7XU5f"
+    },
+    {
+      "added_at": "2024-05-24 19:55:48",
+      "album": {
+        "name": "Melt The Crown",
+        "url": "https://open.spotify.com/album/4EpVa0eeQghz10IzWXj28Z"
+      },
+      "artists": [
+        {
+          "name": "Anciients",
+          "url": "https://open.spotify.com/artist/3YQOcYukzO6U1MjFcavDUE"
+        }
+      ],
+      "duration_ms": 425201,
+      "name": "Melt The Crown",
+      "url": "https://open.spotify.com/track/2FgGrRwDJyQOHUah3NLTFB"
+    },
     {
       "added_at": "2024-05-17 18:33:34",
       "album": {

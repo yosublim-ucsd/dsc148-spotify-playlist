@@ -1,13 +1,257 @@
 {
   "description": "New releases for the kids. Cover: Laurie Berkner",
-  "num_followers": 22719,
+  "num_followers": 22782,
   "original_name": "New Kids Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkbWQAAAAAD68sb6vusuQg9sMx2yd0xK",
+  "snapshot_id": "ZlAQwAAAAACe7BDucHBBkxygr9Jg9/G8",
   "tracks": [
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Netflix Jr. Jams: Vol. 7",
+        "url": "https://open.spotify.com/album/1T1V21x7a4s8vaflfs8aUR"
+      },
+      "artists": [
+        {
+          "name": "Netflix Jr.",
+          "url": "https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH"
+        }
+      ],
+      "duration_ms": 131253,
+      "name": "Fun With Everyone",
+      "url": "https://open.spotify.com/track/5J8WIvgZgwD52qRXS6jQKe"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Break the Pinata! (Songs For Kids)",
+        "url": "https://open.spotify.com/album/4fii0c956boEU0T3cUClmo"
+      },
+      "artists": [
+        {
+          "name": "LooLoo Kids",
+          "url": "https://open.spotify.com/artist/2njkfzRhOJFKLWFTu8FNWx"
+        }
+      ],
+      "duration_ms": 139861,
+      "name": "Break the Pinata! (Songs For Kids)",
+      "url": "https://open.spotify.com/track/4K9hHoLa9hwITb2mqAzbwC"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "The Fairly Odd Parents: A New Wish Theme Song",
+        "url": "https://open.spotify.com/album/7432WNglQgJgNsRSnHr5Rt"
+      },
+      "artists": [
+        {
+          "name": "Nickelodeon",
+          "url": "https://open.spotify.com/artist/6EP1XFnygH4lAap7EsBs65"
+        },
+        {
+          "name": "The Fairly Odd Parents",
+          "url": "https://open.spotify.com/artist/7ncLkpQYZi1VUpmeygyTpC"
+        }
+      ],
+      "duration_ms": 30634,
+      "name": "The Fairly Odd Parents: A New Wish Theme Song",
+      "url": "https://open.spotify.com/track/4B4MTX5stbB4WSVXBGuKCj"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Share With A Friend",
+        "url": "https://open.spotify.com/album/0eJvpFoxe5FN1k2YffWTWE"
+      },
+      "artists": [
+        {
+          "name": "Jools TV",
+          "url": "https://open.spotify.com/artist/7ssReBmPT2Ls9U8lAHTSJN"
+        }
+      ],
+      "duration_ms": 120917,
+      "name": "Share With A Friend",
+      "url": "https://open.spotify.com/track/3H9Ua2hhkeuNnWcxdM2qbg"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Princess Power: Season 3 (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/68gA8BfDjCYuA9ADMUZ6DK"
+      },
+      "artists": [
+        {
+          "name": "Princess Power",
+          "url": "https://open.spotify.com/artist/48rvn0SQ8YkKH1wcjggkVr"
+        }
+      ],
+      "duration_ms": 60146,
+      "name": "Perfectest Day",
+      "url": "https://open.spotify.com/track/66qZiIT1uK5hmASIGBkOsU"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Bring It On Home",
+        "url": "https://open.spotify.com/album/1ICtDzEwotcOEsxiqTK0XH"
+      },
+      "artists": [
+        {
+          "name": "Qai Qai",
+          "url": "https://open.spotify.com/artist/5WWFVcF0hvHeO9N8QLKGlv"
+        }
+      ],
+      "duration_ms": 114453,
+      "name": "Bring It On Home",
+      "url": "https://open.spotify.com/track/049veW5CjHNNRnKwsGTQZu"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "We're All Different",
+        "url": "https://open.spotify.com/album/62DqtbALZLOUkRVMlMiZLd"
+      },
+      "artists": [
+        {
+          "name": "Tiny Totz Kidz",
+          "url": "https://open.spotify.com/artist/54vwxOSuLxx758lpaUjTst"
+        },
+        {
+          "name": "Marc & Katt",
+          "url": "https://open.spotify.com/artist/2xngCNPOK7JnX9yqEeThoC"
+        }
+      ],
+      "duration_ms": 133009,
+      "name": "We're All Different",
+      "url": "https://open.spotify.com/track/1gSmDs8u0bplnwYdgQ57o5"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Training Season",
+        "url": "https://open.spotify.com/album/6yTP07jdb8B9wflHFaVPNf"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 191859,
+      "name": "Training Season",
+      "url": "https://open.spotify.com/track/3pBAUZNudmb6DbnhlTyNgm"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Happy as a Clam",
+        "url": "https://open.spotify.com/album/7jQaKcRyBvS9Fev3eo1U3Q"
+      },
+      "artists": [
+        {
+          "name": "Corey Kilgannon",
+          "url": "https://open.spotify.com/artist/0XuYkyliNor6szd1B6oBKk"
+        },
+        {
+          "name": "Corey Kilgannon & the Spring River Kids",
+          "url": "https://open.spotify.com/artist/0VNgy10ubUw6aEYfvRwtSk"
+        }
+      ],
+      "duration_ms": 173250,
+      "name": "Happy as a Clam",
+      "url": "https://open.spotify.com/track/5ozUJM0vWGPBiFunzSeqX8"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Workin' on a Beautiful Song",
+        "url": "https://open.spotify.com/album/3FvFhbgcNlbP3x4ISEt6b1"
+      },
+      "artists": [
+        {
+          "name": "Lucie Silvas",
+          "url": "https://open.spotify.com/artist/57HiMjhnxdJflQodRyC5Ju"
+        },
+        {
+          "name": "John Osborne",
+          "url": "https://open.spotify.com/artist/2ykJ3vU8SMONSbIyI2rmdF"
+        }
+      ],
+      "duration_ms": 154980,
+      "name": "Workin' on a Beautiful Song",
+      "url": "https://open.spotify.com/track/4qlObRfYoa3H6U9bMiOja1"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Mermaid",
+        "url": "https://open.spotify.com/album/3GBztOt4r4XSz48UD1Z9M3"
+      },
+      "artists": [
+        {
+          "name": "Dolly Style",
+          "url": "https://open.spotify.com/artist/0D00AEI0IWmoBtdIH75zXs"
+        }
+      ],
+      "duration_ms": 179002,
+      "name": "Mermaid",
+      "url": "https://open.spotify.com/track/4r6yqniacnQJnKxOF25n2X"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Booger Song",
+        "url": "https://open.spotify.com/album/4DmU478kFyfavFgqOdLNbt"
+      },
+      "artists": [
+        {
+          "name": "Cooltime",
+          "url": "https://open.spotify.com/artist/5Cx0MO39eG4ElGaD1juoZQ"
+        }
+      ],
+      "duration_ms": 109540,
+      "name": "Booger Song",
+      "url": "https://open.spotify.com/track/5iAF7gpKK8LRJBnJ01O02r"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Tayo Play Songs",
+        "url": "https://open.spotify.com/album/4eIWoPxhQsgZ9mt1Rbe3oe"
+      },
+      "artists": [
+        {
+          "name": "Tayo the Little Bus",
+          "url": "https://open.spotify.com/artist/3gzyfNen0cMn6dybhnmwpd"
+        }
+      ],
+      "duration_ms": 126000,
+      "name": "Clean Up Song",
+      "url": "https://open.spotify.com/track/3fnc5XgoI1jlVvxfbD5uMJ"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Face\u2019s Summertime Jam!",
+        "url": "https://open.spotify.com/album/0fludMVB04mg1iLV1Op1lG"
+      },
+      "artists": [
+        {
+          "name": "Nick Jr.",
+          "url": "https://open.spotify.com/artist/2hMLlEmFVPTsBh803qCfoC"
+        },
+        {
+          "name": "Face from Nick Jr.",
+          "url": "https://open.spotify.com/artist/5FXWsVWydMhZab1C0vyXlj"
+        }
+      ],
+      "duration_ms": 48602,
+      "name": "At The Beach Party",
+      "url": "https://open.spotify.com/track/6UZIU7g6ZlPgkgz4k5AQuZ"
+    },
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {

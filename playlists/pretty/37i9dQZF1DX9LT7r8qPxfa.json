@@ -1,6 +1,6 @@
 {
   "description": "deep & dark. bold & bare. cover: Samia",
-  "num_followers": 321605,
+  "num_followers": 321582,
   "original_name": "noir",
   "owner": {
     "name": "Spotify",
@@ -755,6 +755,22 @@
     {
       "added_at": "2023-10-13 19:48:40",
       "album": {
+        "name": "Pick Apart",
+        "url": "https://open.spotify.com/album/3zLwkjB6CMrlyeEvlNriiO"
+      },
+      "artists": [
+        {
+          "name": "Samantha Crain",
+          "url": "https://open.spotify.com/artist/5dpLK5cD7FwWyDKv4qbodS"
+        }
+      ],
+      "duration_ms": 215793,
+      "name": "Pick Apart",
+      "url": "https://open.spotify.com/track/0ssUuvHbzmex6n2ZojDvuS"
+    },
+    {
+      "added_at": "2023-10-13 19:48:40",
+      "album": {
         "name": "Calming Night Partner",
         "url": "https://open.spotify.com/album/3Xy8Iod03tm1nOXCQCq0p7"
       },
@@ -787,22 +803,6 @@
     {
       "added_at": "2023-10-13 19:48:40",
       "album": {
-        "name": "Pick Apart",
-        "url": "https://open.spotify.com/album/3zLwkjB6CMrlyeEvlNriiO"
-      },
-      "artists": [
-        {
-          "name": "Samantha Crain",
-          "url": "https://open.spotify.com/artist/5dpLK5cD7FwWyDKv4qbodS"
-        }
-      ],
-      "duration_ms": 215793,
-      "name": "Pick Apart",
-      "url": "https://open.spotify.com/track/0ssUuvHbzmex6n2ZojDvuS"
-    },
-    {
-      "added_at": "2023-10-13 19:48:40",
-      "album": {
         "name": "I\u2019ll Still Have Me (Aquilo Remix)",
         "url": "https://open.spotify.com/album/3qRH0q4XS0sbjX0tAaFECr"
       },
@@ -823,22 +823,6 @@
     {
       "added_at": "2023-10-13 19:48:40",
       "album": {
-        "name": "Held Down",
-        "url": "https://open.spotify.com/album/0Mgg0Wv09HVGKnfj33Zo1K"
-      },
-      "artists": [
-        {
-          "name": "Laura Marling",
-          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
-        }
-      ],
-      "duration_ms": 247933,
-      "name": "Held Down",
-      "url": "https://open.spotify.com/track/2PHeCBCWESSAqfxpORbxKA"
-    },
-    {
-      "added_at": "2023-10-13 19:48:40",
-      "album": {
         "name": "Soft Drop",
         "url": "https://open.spotify.com/album/6Uw2NnSBTN9FSotz6NBfcB"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 196756,
       "name": "Horses",
       "url": "https://open.spotify.com/track/5Ano4JVB4uDv8fQnhwdYfo"
+    },
+    {
+      "added_at": "2023-10-13 19:48:40",
+      "album": {
+        "name": "Held Down",
+        "url": "https://open.spotify.com/album/0Mgg0Wv09HVGKnfj33Zo1K"
+      },
+      "artists": [
+        {
+          "name": "Laura Marling",
+          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
+        }
+      ],
+      "duration_ms": 247933,
+      "name": "Held Down",
+      "url": "https://open.spotify.com/track/2PHeCBCWESSAqfxpORbxKA"
     },
     {
       "added_at": "2023-10-13 19:48:40",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2023-10-13 19:48:40",
       "album": {
-        "name": "Walking Proof",
-        "url": "https://open.spotify.com/album/2z9K9JtKHRue5qfVMV7J7a"
-      },
-      "artists": [
-        {
-          "name": "Lilly Hiatt",
-          "url": "https://open.spotify.com/artist/0bDtDHLE3cBlqZxyLUDf90"
-        }
-      ],
-      "duration_ms": 175773,
-      "name": "Rae",
-      "url": "https://open.spotify.com/track/2MQC4MMW0xXjNPM0b30I1D"
-    },
-    {
-      "added_at": "2023-10-13 19:48:40",
-      "album": {
         "name": "Family Album",
         "url": "https://open.spotify.com/album/5u6PO5NjPvgFDcc3EkTyVD"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 257147,
       "name": "Heavy Head (Keep It Near)",
       "url": "https://open.spotify.com/track/6GDUqLI7Wh88WNyZqCsYuQ"
+    },
+    {
+      "added_at": "2023-10-13 19:48:40",
+      "album": {
+        "name": "Walking Proof",
+        "url": "https://open.spotify.com/album/2z9K9JtKHRue5qfVMV7J7a"
+      },
+      "artists": [
+        {
+          "name": "Lilly Hiatt",
+          "url": "https://open.spotify.com/artist/0bDtDHLE3cBlqZxyLUDf90"
+        }
+      ],
+      "duration_ms": 175773,
+      "name": "Rae",
+      "url": "https://open.spotify.com/track/2MQC4MMW0xXjNPM0b30I1D"
     },
     {
       "added_at": "2023-10-13 19:48:40",

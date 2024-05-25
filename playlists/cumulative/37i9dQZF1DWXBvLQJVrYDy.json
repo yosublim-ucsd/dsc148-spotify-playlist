@@ -621,6 +621,24 @@
     },
     {
       "album": {
+        "name": "Cliffs",
+        "url": "https://open.spotify.com/album/5BNrTrQr8lcyRso4aXESIP"
+      },
+      "artists": [
+        {
+          "name": "Lennie Weston",
+          "url": "https://open.spotify.com/artist/2i25BOgCBeXtPKKpj3I0NJ"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217500,
+      "name": "Cliffs",
+      "url": "https://open.spotify.com/track/4LEDxHTo5iTzYgNbzIfaBK"
+    },
+    {
+      "album": {
         "name": "Close Enough For Love",
         "url": "https://open.spotify.com/album/1chLDtOmC1qhV5Pq7YpiqJ"
       },
@@ -1199,6 +1217,24 @@
     },
     {
       "album": {
+        "name": "Hear Hear",
+        "url": "https://open.spotify.com/album/6WAila18C1NidEzseKeNee"
+      },
+      "artists": [
+        {
+          "name": "Geeder",
+          "url": "https://open.spotify.com/artist/65SoHM1qvoOmpiIBxWGAk1"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238374,
+      "name": "Hear Hear",
+      "url": "https://open.spotify.com/track/6GFJjH5HjMJYPotMuHVN32"
+    },
+    {
+      "album": {
         "name": "Heyoke",
         "url": "https://open.spotify.com/album/1qugT0donvhBonOVJIUjdy"
       },
@@ -1466,7 +1502,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 223643,
       "name": "In The Wee Small Hours Of The Mornin",
       "url": "https://open.spotify.com/track/7xOTO27JomMqWgzaeyD7WQ"
@@ -3020,6 +3056,24 @@
       "duration_ms": 285934,
       "name": "Soul Eyes",
       "url": "https://open.spotify.com/track/1PuNnWMF5z3cwLjfnneoWw"
+    },
+    {
+      "album": {
+        "name": "South Valley Park",
+        "url": "https://open.spotify.com/album/75Xh4ArRbt72Jy27GCF2FD"
+      },
+      "artists": [
+        {
+          "name": "Le Bourget",
+          "url": "https://open.spotify.com/artist/39QGocubAYKDY8IlHzs6ZL"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237000,
+      "name": "South Valley Park",
+      "url": "https://open.spotify.com/track/11oNCdjoD73GQdsDIICXE3"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Discover the path back to an era of enlightenment \ud83c\udf05\u2728\ud83e\uddd8\u200d\u2642\ufe0f",
-  "num_followers": 90002,
+  "num_followers": 90060,
   "original_name": "New Age: The Dawning",
   "owner": {
     "name": "Spotify",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Heaven on Earth",
-        "url": "https://open.spotify.com/album/6kG8wYW07MJM7DerMehJxI"
-      },
-      "artists": [
-        {
-          "name": "Schawkie Roth",
-          "url": "https://open.spotify.com/artist/74y6Yo0Qo80WWOoX4DvXtf"
-        }
-      ],
-      "duration_ms": 332786,
-      "name": "Living Your Ending",
-      "url": "https://open.spotify.com/track/6paVj0h627Cg6BsofgPdi8"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "Sands of Time: Selected Studio & Concert Recordings 1974-1990",
         "url": "https://open.spotify.com/album/4B9rJo0KUUVkWkyCeb7hpI"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 455333,
       "name": "Alchemy",
       "url": "https://open.spotify.com/track/6rOvoAtGJrlHavLh73Vgsu"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Heaven on Earth",
+        "url": "https://open.spotify.com/album/6kG8wYW07MJM7DerMehJxI"
+      },
+      "artists": [
+        {
+          "name": "Schawkie Roth",
+          "url": "https://open.spotify.com/artist/74y6Yo0Qo80WWOoX4DvXtf"
+        }
+      ],
+      "duration_ms": 332786,
+      "name": "Living Your Ending",
+      "url": "https://open.spotify.com/track/6paVj0h627Cg6BsofgPdi8"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Pathless Path",
-        "url": "https://open.spotify.com/album/5XjnuZHb9Int91DwZka2ok"
-      },
-      "artists": [
-        {
-          "name": "Charles Lloyd",
-          "url": "https://open.spotify.com/artist/0GC1oqEWpiAjfE7jm5LQO5"
-        }
-      ],
-      "duration_ms": 226826,
-      "name": "Koto",
-      "url": "https://open.spotify.com/track/7spWddYJhxpkPz8TFOSWtD"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "Ages",
         "url": "https://open.spotify.com/album/1qJneJpWOOFSWUQckJZSaX"
       },
@@ -1231,22 +1215,34 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Meditation",
-        "url": "https://open.spotify.com/album/0JSDPdBfLDLbKSbdSwS9ND"
+        "name": "Pathless Path",
+        "url": "https://open.spotify.com/album/5XjnuZHb9Int91DwZka2ok"
       },
       "artists": [
         {
-          "name": "Tony Scott",
-          "url": "https://open.spotify.com/artist/3wtfcI8iPGKBmnalt0013v"
-        },
-        {
-          "name": "Jan Akkerman",
-          "url": "https://open.spotify.com/artist/3JeTATqIkiHIjyrdOyr68t"
+          "name": "Charles Lloyd",
+          "url": "https://open.spotify.com/artist/0GC1oqEWpiAjfE7jm5LQO5"
         }
       ],
-      "duration_ms": 720426,
-      "name": "Silmarillion",
-      "url": "https://open.spotify.com/track/04L2aKI6v8tNHhvxTGjtYE"
+      "duration_ms": 226826,
+      "name": "Koto",
+      "url": "https://open.spotify.com/track/7spWddYJhxpkPz8TFOSWtD"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Open Like a Flute",
+        "url": "https://open.spotify.com/album/0TrS3HBuDtFY8E912RmRpP"
+      },
+      "artists": [
+        {
+          "name": "Ariel Kalma",
+          "url": "https://open.spotify.com/artist/1XDHnXR3sd1pGoc7vqUtBq"
+        }
+      ],
+      "duration_ms": 348880,
+      "name": "Arrival - Remastered",
+      "url": "https://open.spotify.com/track/3Cl55s20Th5GHbu56Sltz7"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -1283,18 +1279,22 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Open Like a Flute",
-        "url": "https://open.spotify.com/album/0TrS3HBuDtFY8E912RmRpP"
+        "name": "Meditation",
+        "url": "https://open.spotify.com/album/0JSDPdBfLDLbKSbdSwS9ND"
       },
       "artists": [
         {
-          "name": "Ariel Kalma",
-          "url": "https://open.spotify.com/artist/1XDHnXR3sd1pGoc7vqUtBq"
+          "name": "Tony Scott",
+          "url": "https://open.spotify.com/artist/3wtfcI8iPGKBmnalt0013v"
+        },
+        {
+          "name": "Jan Akkerman",
+          "url": "https://open.spotify.com/artist/3JeTATqIkiHIjyrdOyr68t"
         }
       ],
-      "duration_ms": 348880,
-      "name": "Arrival - Remastered",
-      "url": "https://open.spotify.com/track/3Cl55s20Th5GHbu56Sltz7"
+      "duration_ms": 720426,
+      "name": "Silmarillion",
+      "url": "https://open.spotify.com/track/04L2aKI6v8tNHhvxTGjtYE"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -1331,18 +1331,18 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Glide/Star Gazer",
-        "url": "https://open.spotify.com/album/2Rk837DGOC1KWlqBHjWz9K"
+        "name": "Open Like a Flute",
+        "url": "https://open.spotify.com/album/0TrS3HBuDtFY8E912RmRpP"
       },
       "artists": [
         {
-          "name": "Peter Davison",
-          "url": "https://open.spotify.com/artist/5hLJQt5bIzxV7O0HvYNFqy"
+          "name": "Ariel Kalma",
+          "url": "https://open.spotify.com/artist/1XDHnXR3sd1pGoc7vqUtBq"
         }
       ],
-      "duration_ms": 505733,
-      "name": "Glide III",
-      "url": "https://open.spotify.com/track/6bmHCvu6qgO6roOubB3Ga5"
+      "duration_ms": 254626,
+      "name": "Boreale - Remastered",
+      "url": "https://open.spotify.com/track/2rskwmXeE2OdTXrs54sop7"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -1359,6 +1359,22 @@
       "duration_ms": 200080,
       "name": "Crystal Petals",
       "url": "https://open.spotify.com/track/58FEt2axLMIzvw6LtGZAZP"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Glide/Star Gazer",
+        "url": "https://open.spotify.com/album/2Rk837DGOC1KWlqBHjWz9K"
+      },
+      "artists": [
+        {
+          "name": "Peter Davison",
+          "url": "https://open.spotify.com/artist/5hLJQt5bIzxV7O0HvYNFqy"
+        }
+      ],
+      "duration_ms": 505733,
+      "name": "Glide III",
+      "url": "https://open.spotify.com/track/6bmHCvu6qgO6roOubB3Ga5"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -1391,22 +1407,6 @@
       "duration_ms": 116440,
       "name": "Abraxas",
       "url": "https://open.spotify.com/track/6dwE9pYlCT9K1XDyUHk8d2"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
-        "name": "Open Like a Flute",
-        "url": "https://open.spotify.com/album/0TrS3HBuDtFY8E912RmRpP"
-      },
-      "artists": [
-        {
-          "name": "Ariel Kalma",
-          "url": "https://open.spotify.com/artist/1XDHnXR3sd1pGoc7vqUtBq"
-        }
-      ],
-      "duration_ms": 254626,
-      "name": "Boreale - Remastered",
-      "url": "https://open.spotify.com/track/2rskwmXeE2OdTXrs54sop7"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Open Like a Flute",
-        "url": "https://open.spotify.com/album/0TrS3HBuDtFY8E912RmRpP"
-      },
-      "artists": [
-        {
-          "name": "Ariel Kalma",
-          "url": "https://open.spotify.com/artist/1XDHnXR3sd1pGoc7vqUtBq"
-        }
-      ],
-      "duration_ms": 1041569,
-      "name": "Pagnifico - Remastered",
-      "url": "https://open.spotify.com/track/0VDYvtQF5rtN9a7XshFZCd"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "Schoener, Eberhard: Meditation",
         "url": "https://open.spotify.com/album/3YUWFn0j9YmB8BQjMUvAlb"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 1049000,
       "name": "Meditation: I. Part I",
       "url": "https://open.spotify.com/track/3jmVssDLvTVSRTVZQzCZcW"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Open Like a Flute",
+        "url": "https://open.spotify.com/album/0TrS3HBuDtFY8E912RmRpP"
+      },
+      "artists": [
+        {
+          "name": "Ariel Kalma",
+          "url": "https://open.spotify.com/artist/1XDHnXR3sd1pGoc7vqUtBq"
+        }
+      ],
+      "duration_ms": 1041569,
+      "name": "Pagnifico - Remastered",
+      "url": "https://open.spotify.com/track/0VDYvtQF5rtN9a7XshFZCd"
     },
     {
       "added_at": "2023-08-18 14:02:54",

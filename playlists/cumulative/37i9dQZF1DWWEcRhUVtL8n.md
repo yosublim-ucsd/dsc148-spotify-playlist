@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: ROLE MODEL
 
-1,866 songs - 4 day 2 hr 22 min
+1,868 songs - 4 day 2 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -847,7 +847,7 @@
 | [I'm Not In Love](https://open.spotify.com/track/0fB64S7FNKUDQlyYXlacYi) | [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x) | [I'm Not In Love](https://open.spotify.com/album/10VeT6WRqObxGPOirjcank) | 1:37 | 2022-06-17 | 2022-10-13 |
 | [I'm Not In Love](https://open.spotify.com/track/7gEw6TDaj60NOibnidPBix) | [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x) | [I'm Not In Love](https://open.spotify.com/album/6nqKQaJR7WETXh4s176M3K) | 1:37 | 2022-10-28 | 2022-12-22 |
 | [I'm Not Okay \(feat\. meija\)](https://open.spotify.com/track/09USLRwzsSitztRekqWpM3) | [Tyzo Bloom](https://open.spotify.com/artist/38fu1DhmEN33ALaBa7jGhI), [meija](https://open.spotify.com/artist/5Uc38SFcTd4bzDk3hhvRu1) | [Random Thoughts](https://open.spotify.com/album/2nTBFr520WwBWIsJvR4Hfc) | 3:55 | 2020-11-13 | 2021-01-15 |
-| [I'M SCARED](https://open.spotify.com/track/0rkpvtBvgYH9VPgJFw0Paj) | [Walter The Producer](https://open.spotify.com/artist/59QOcYlBSqJMi5rTHcwplJ) | [PLEASE HELP ME..\. Part 1](https://open.spotify.com/album/4p00pudzSjGeQXQKD981gQ) | 3:00 | 2024-05-17 |  |
+| [I'M SCARED](https://open.spotify.com/track/0rkpvtBvgYH9VPgJFw0Paj) | [Walter The Producer](https://open.spotify.com/artist/59QOcYlBSqJMi5rTHcwplJ) | [PLEASE HELP ME..\. Part 1](https://open.spotify.com/album/4p00pudzSjGeQXQKD981gQ) | 3:00 | 2024-05-17 | 2024-05-25 |
 | [I'm So Bored](https://open.spotify.com/track/4o2W2DAQqBRN9RpSNnEIRw) | [Sarah and the Sundays](https://open.spotify.com/artist/1vnh2cDW2CgA5M1ya95mZG) | [The Living End](https://open.spotify.com/album/4SklRLhsxx0ZHr9SEkP19B) | 3:28 | 2022-12-09 | 2023-07-29 |
 | [IDK](https://open.spotify.com/track/5oObGXk0NriZXxV78aIO0X) | [Phoebe Green](https://open.spotify.com/artist/5qt7yk11uFzsBUC3CgbyNP) | [IDK](https://open.spotify.com/album/15GbsI16l3f6XhdEVxn0EM) | 3:26 | 2021-05-03 | 2022-04-16 |
 | [idwgtyp](https://open.spotify.com/track/28Qv23wjvAhPZGr5NXhBq8) | [lovelytheband](https://open.spotify.com/artist/4KJ6jujcNPzOyhdNoiNftp) | [idwgtyp](https://open.spotify.com/album/0x5swq6Ju73lmGUdR7sjwi) | 3:06 | 2021-01-15 | 2021-03-02 |
@@ -982,7 +982,7 @@
 | [Lightning In A Bottle](https://open.spotify.com/track/6HRwgc2j0ESFuzktA0f7KI) | [Rook Monroe](https://open.spotify.com/artist/0xwMjJn29gSNkQYNxc5IED) | [Lightning In A Bottle](https://open.spotify.com/album/6XpurspQZneViQ6orWzAvm) | 2:38 | 2022-06-17 | 2022-06-21 |
 | [Lights On](https://open.spotify.com/track/4pbKp6lF5XuBMSKVpSySmc) | [Hatchie](https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt) | [Lights On](https://open.spotify.com/album/6AdKzEgpmht7QUDbRfsWUt) | 3:56 | 2022-04-15 | 2022-04-20 |
 | [Like 1999 \- Late Night Mix](https://open.spotify.com/track/7s0X4wWySiulPPh8EXnjyn) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [Like 1999](https://open.spotify.com/album/6relo8mBsOcQDYI28LUnKA) | 3:05 | 2021-04-03 | 2022-07-29 |
-| [Lil Tune](https://open.spotify.com/track/0xFKj9yBje6JakSVa2JsrO) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4), [Electric Guest](https://open.spotify.com/artist/7sgWBYtJpblXpJl2lU5WVs) | [Lil Tune](https://open.spotify.com/album/4Vv9jIuo0EOmqajkwXaSBH) | 3:58 | 2024-02-27 |  |
+| [Lil Tune](https://open.spotify.com/track/0xFKj9yBje6JakSVa2JsrO) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4), [Electric Guest](https://open.spotify.com/artist/7sgWBYtJpblXpJl2lU5WVs) | [Lil Tune](https://open.spotify.com/album/4Vv9jIuo0EOmqajkwXaSBH) | 3:58 | 2024-02-27 | 2024-05-25 |
 | [Limbo](https://open.spotify.com/track/2zXyD0X0uhENeTGH6RuVp3) | [Glades](https://open.spotify.com/artist/14rP13jdQNgQvuPA2AkBgm) | [Limbo](https://open.spotify.com/album/0HjvMm9C2AE2rwb9frroWL) | 3:06 | 2021-05-06 | 2022-04-06 |
 | [Line Without a Hook](https://open.spotify.com/track/5NvOZCjZaGGGL597exlQWv) | [Ricky Montgomery](https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw) | [Montgomery Ricky](https://open.spotify.com/album/25paSmOYSF03s81DCNqQn3) | 4:09 | 2021-01-15 | 2021-02-06 |
 | [Line Without a Hook \(feat\. mxmtoon\)](https://open.spotify.com/track/4dHdqpGaO9km4TEw9nNQSR) | [Ricky Montgomery](https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw), [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [Line Without a Hook \(feat\. mxmtoon\)](https://open.spotify.com/album/6uDkQYNploKRDP7Pu36DNz) | 4:11 | 2021-02-06 | 2023-02-25 |
@@ -1444,6 +1444,7 @@
 | [Serotonin](https://open.spotify.com/track/7tLTxOJY6cjQz4aJYMs8Nu) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [if i could make it go quiet](https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn) | 3:02 | 2022-10-07 | 2023-06-17 |
 | [Seven Nights](https://open.spotify.com/track/0OCcQORDDBDAJOXLMcaJuo) | [Mysie](https://open.spotify.com/artist/3rf7cB2o79L2LEcl9HIjAf) | [Seven Nights](https://open.spotify.com/album/3AI6Z6CpWrC2f3P9O9OMeR) | 2:50 | 2021-06-04 | 2022-04-16 |
 | [Sex Tape](https://open.spotify.com/track/57rOrYZq3UmlRnww6XOftv) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Sex Tape](https://open.spotify.com/album/2HOh6Vrm6LO8BPazURNiSc) | 2:54 | 2021-08-06 | 2022-04-14 |
+| [Sexy to Someone](https://open.spotify.com/track/2Nq4SFbvYYZa8AF7lD7CWU) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Sexy to Someone](https://open.spotify.com/album/281y6GLUpFfmSyBO7JMLfU) | 3:27 | 2024-05-24 |  |
 | [Shady](https://open.spotify.com/track/4SPq74rXWTLniPFUYxK2eh) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Shady](https://open.spotify.com/album/1ZKO2za2kGt7e1dGOh8nIc) | 2:55 | 2020-11-13 | 2021-03-02 |
 | [she calls me daddy](https://open.spotify.com/track/4nBsvvjN134KFVcvFMLWwK) | [KiNG MALA](https://open.spotify.com/artist/5Lz5CnywFeg4Rs4l76OtG2) | [she calls me daddy](https://open.spotify.com/album/2fKXo7qmQYw5u0DOeKhQoU) | 3:03 | 2021-05-03 | 2022-04-07 |
 | [She's Just the Type of Girl](https://open.spotify.com/track/6O1nkPz0MoSrN8XhZUXiOc) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb), [dreamcastmoe](https://open.spotify.com/artist/05PeUup2zYw9VOGnaknbn9) | [She's Just the Type of Girl](https://open.spotify.com/album/6VMekpzEYoucovwkIj6zDl) | 2:41 | 2023-01-23 | 2023-07-29 |
@@ -1847,6 +1848,7 @@
 | [YOU](https://open.spotify.com/track/0HC9b7pwCxlrjfR8co5tSP) | [Eliza & The Delusionals](https://open.spotify.com/artist/5XOV5b7cxUgB9PcoLBn69l) | [YOU](https://open.spotify.com/album/2fIzj3GEqMEKxW8ooFrFjV) | 3:17 | 2021-05-08 | 2021-10-13 |
 | [You & Jennifer](https://open.spotify.com/track/0g21KZ1XJuhwexWPLpuEt1) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4) | [Damaged Vol\. 2](https://open.spotify.com/album/1gZ3Wi966cliRIktXiaWij) | 2:39 | 2020-11-14 | 2022-04-14 |
 | [You & Me](https://open.spotify.com/track/1qXvOWQgDGwvIGIP4qVQY3) | [Genevieve Stokes](https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ) | [You & Me](https://open.spotify.com/album/1Z1JeFFAZ1mNdsMUPPFsgs) | 2:55 | 2023-03-03 | 2023-04-03 |
+| [You \(Show Me Where My Days Went\)](https://open.spotify.com/track/3UIeiuDKnbhZ7OoXZ9j0U5) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [You \(Show Me Where My Days Went\)](https://open.spotify.com/album/6cN6j2Fr5vVCSZnWQyqSSs) | 2:47 | 2024-05-24 |  |
 | [you and me together is a problem](https://open.spotify.com/track/3h6YM4RZxLScJA2WernKFL) | [remy](https://open.spotify.com/artist/4DsVKs4W72RTKOfD3CtTaw), [Jutes](https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4) | [you and me together is a problem](https://open.spotify.com/album/7yPCzWYprWlTY5GviKlHme) | 3:20 | 2021-09-25 | 2021-10-16 |
 | [You asked for this](https://open.spotify.com/track/1JbS3r3gT4pK5qWBEShIJU) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [If I Can’t Have Love, I Want Power](https://open.spotify.com/album/3sq0hRtlT2SYeYajr5Cx22) | 4:25 | 2021-10-13 | 2021-10-14 |
 | [you can't stay mad at me](https://open.spotify.com/track/2xYVyHIRMmA6dVqSrn3ReA) | [lael](https://open.spotify.com/artist/1znowipTv2C0PgcaulHEA8) | [you can't stay mad at me](https://open.spotify.com/album/1VTGmkgwWYNJjsI0fxiYdO) | 2:16 | 2022-01-14 | 2022-06-18 |

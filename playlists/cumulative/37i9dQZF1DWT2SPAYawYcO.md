@@ -4,7 +4,7 @@
 
 > The best new songs of the week! Cover: Cosmo's Midnight
 
-4,190 songs - 9 day 10 hr 20 min
+4,193 songs - 9 day 10 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -719,6 +719,7 @@
 | [Claw Machine](https://open.spotify.com/track/0pUlPdW6iTBWLgMHCp1yvc) | [Sloppy Jane](https://open.spotify.com/artist/0Vll0SNLozOGHbfHbjY4pv), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Claw Machine](https://open.spotify.com/album/0OSVJBh1GMnRjzyPUCTdDP) | 3:47 | 2024-05-09 | 2024-05-17 |
 | [Clean Cut](https://open.spotify.com/track/2exzpcAhjJmnw4clYVLmkp) | [Charm of Finches](https://open.spotify.com/artist/2vfDwM6xqZbOjg5h6VLoke) | [Clean Cut](https://open.spotify.com/album/5MTtsV1XLkI3lxFn1M4aWc) | 3:34 | 2024-02-01 | 2024-02-09 |
 | [Clean Cut](https://open.spotify.com/track/40W2EkXwPyI3spqM4BdFz9) | [Charm of Finches](https://open.spotify.com/artist/2vfDwM6xqZbOjg5h6VLoke) | [Clean Cut](https://open.spotify.com/album/2M3FaOtl5YS8EhfT2cVV6L) | 3:34 | 2024-02-01 | 2024-02-03 |
+| [Clear the Smoke](https://open.spotify.com/track/0tWvBMSTdobhWgsJyviGeU) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Clear the Smoke](https://open.spotify.com/album/23RLz5Jsy8E54z7BZnH01D) | 3:38 | 2024-05-23 |  |
 | [Cleopatra](https://open.spotify.com/track/3Y11Cdb3yQqTlz6FyVmxQN) | [SHYY](https://open.spotify.com/artist/1YwahHQ8EJW7tM6z9hQci3), [No Money Enterprise](https://open.spotify.com/artist/3cI6oSkDCirRNVAgBsGJyB) | [Cleopatra](https://open.spotify.com/album/0DJs9ZbmZfELKebEReq8Du) | 2:15 | 2023-11-23 | 2023-12-01 |
 | [Close](https://open.spotify.com/track/1FnbRzgI5mGdh8XjXTXD9w) | [Gustaf](https://open.spotify.com/artist/6QqLYrbjh5CnfMG7z5r96E) | [Close](https://open.spotify.com/album/0VG3BsmyLoIEEUIUswHV9i) | 3:57 | 2024-03-14 | 2024-03-22 |
 | [Close My Eyes](https://open.spotify.com/track/0CQ4LqiyejeeXRDCce1Mp4) | [Luke Hemmings](https://open.spotify.com/artist/4UFShyUQuA8dguoZrqX0jQ) | [Close My Eyes](https://open.spotify.com/album/1dsCW9E6mNZxcxfp0zgTH4) | 2:49 | 2024-04-04 | 2024-04-12 |
@@ -1711,6 +1712,7 @@
 | [How Do We Stay In Love?](https://open.spotify.com/track/57C2Jt6xUTlN9QVrWSimBJ) | [Blake Rose](https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe) | [How Do We Stay In Love?](https://open.spotify.com/album/4CPmCif9l0FLCp4jRwu8AR) | 2:39 | 2023-07-20 | 2023-07-28 |
 | [How Do You Feel?](https://open.spotify.com/track/5yVbX2nYXuroIi16eIEJjJ) | [Cat & Calmell](https://open.spotify.com/artist/0SaaipFXHYbYDLDB6atAoR) | [How Do You Feel?](https://open.spotify.com/album/2PVSQH2TCtppaZAGAHF0Iz) | 3:21 | 2023-09-28 | 2023-10-06 |
 | [How Far Will We Take It?](https://open.spotify.com/track/453CeQGjxlMGaokntLtz5x) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Stampede: Vol\. 1](https://open.spotify.com/album/5xmQFJ2yArFC5glJ3xclfE) | 2:52 | 2024-05-09 | 2024-05-17 |
+| [How Sweet](https://open.spotify.com/track/38tXZcL1gZRfbqfOG0VMTH) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [How Sweet](https://open.spotify.com/album/0EhZEM4RRz0yioTgucDhJq) | 3:39 | 2024-05-23 |  |
 | [how to change a tire](https://open.spotify.com/track/6ZlwbgqfMALnnwi8zVJTyr) | [Zach Hood](https://open.spotify.com/artist/5aHlyw2WWqZW0HLICBuv7U) | [how to change a tire](https://open.spotify.com/album/09oYcPRYGDwOZcP7XkO6Mr) | 3:00 | 2024-03-14 | 2024-03-22 |
 | [How to Forget](https://open.spotify.com/track/5E7ShoQeHx2WoEa5uFwRWW) | [Husky](https://open.spotify.com/artist/47nuMLurQsLP1gLK7gJtis) | [How to Forget](https://open.spotify.com/album/3MYJWD831kp1HuvlBCE61X) | 3:54 | 2024-02-22 | 2024-03-01 |
 | [How To Swim](https://open.spotify.com/track/12Znv2agtII57o7w1HrG9F) | [Loretta](https://open.spotify.com/artist/59D3Q3GPUKTirID5bOxnzR) | [Never Thought Of Growing Up](https://open.spotify.com/album/0CYx16W90z6xetkhh3i0wt) | 3:20 | 2023-11-02 | 2023-11-10 |
@@ -2078,6 +2080,7 @@
 | [Legendary](https://open.spotify.com/track/0NJKX45ZZnGWyDcEnoH7C5) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Legendary](https://open.spotify.com/album/4Qp0INJYYCPCOnUpOREZnb) | 4:05 | 2024-03-14 | 2024-03-22 |
 | [Lego Ring](https://open.spotify.com/track/3bGMtDPWFXqPM7QecjVHlG) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Lego Ring](https://open.spotify.com/album/61ZY4FMQgChUDCXRJ4C4lz) | 2:43 | 2024-01-11 | 2024-01-19 |
 | [Lemme See](https://open.spotify.com/track/24yqhl33zaZf84naREO04L) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [When I Was Dead \(Original Version\)](https://open.spotify.com/album/706gbProQVkQA9pAz5aSjc) | 2:45 | 2023-11-09 | 2023-11-17 |
+| [Lemon Tea](https://open.spotify.com/track/6Zk2jK6GsGrH0lhNy1ukRz) | [Sharny](https://open.spotify.com/artist/7mVN8whS1b2pF7UDDiYAv8) | [Lemon Tea](https://open.spotify.com/album/7wMKPka806GEbddfgR14vV) | 2:27 | 2024-05-23 |  |
 | [Lemonade](https://open.spotify.com/track/6ygDuZR468369KJvtcQr5Z) | [Tash](https://open.spotify.com/artist/3kX6nt9QiDarAkCsIGRIgR) | [Lemonade](https://open.spotify.com/album/6jMpfEJqxuHjwlX0o7vFe7) | 2:30 | 2023-12-07 | 2023-12-15 |
 | [Leo](https://open.spotify.com/track/4VwPMpZ4svZluuiZj9vNSM) | [Milan Ring](https://open.spotify.com/artist/3byro7ByLeWjNoWLAfiq0b) | [Leo](https://open.spotify.com/album/0gzJMcdE0Ghdvw4EMnaAfL) | 4:05 | 2024-04-18 | 2024-04-26 |
 | [Lessons](https://open.spotify.com/track/5vCSjHa6tOvfr02DoBFwx9) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [I've told the trees everything](https://open.spotify.com/album/2KHOBUj9QsyV2U3OYlKNJw) | 3:01 | 2024-03-14 | 2024-03-22 |

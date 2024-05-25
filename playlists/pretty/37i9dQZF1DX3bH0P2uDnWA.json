@@ -1,13 +1,65 @@
 {
   "description": "Bringing the roaring 20s into the 2020s",
-  "num_followers": 379647,
+  "num_followers": 379650,
   "original_name": "Electro Swing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkbWfAAAAACfvsyCZ93pVhaBKnYxC/ZG",
+  "snapshot_id": "ZlAQwAAAAAAiWkVPZ++O0MticXEELMJt",
   "tracks": [
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Is It Really Me... Or Not?",
+        "url": "https://open.spotify.com/album/40WeuwRYeEorQMUOLbyDko"
+      },
+      "artists": [
+        {
+          "name": "Swingrowers",
+          "url": "https://open.spotify.com/artist/3mp5zzEz1qTq7X5a2yOS2B"
+        }
+      ],
+      "duration_ms": 174212,
+      "name": "Is It Really Me... Or Not?",
+      "url": "https://open.spotify.com/track/2xTHbHHQuWCwrnvKys0fPy"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Boy Met Girl",
+        "url": "https://open.spotify.com/album/4wosV0MkmsGXFhZBRK7zQD"
+      },
+      "artists": [
+        {
+          "name": "Parov Stelar",
+          "url": "https://open.spotify.com/artist/65EXuYHVoehCKqp0kOS6px"
+        }
+      ],
+      "duration_ms": 175011,
+      "name": "Boy Met Girl",
+      "url": "https://open.spotify.com/track/7uoUAYZAe7hyo8jQRYQ6xS"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Freedom (Glenn Gatsby Remix)",
+        "url": "https://open.spotify.com/album/14CzhJOqwjT4u5m2SlykvZ"
+      },
+      "artists": [
+        {
+          "name": "Szigeti Juli",
+          "url": "https://open.spotify.com/artist/3u8tUhDhqNoF6jRPEFnKNF"
+        },
+        {
+          "name": "Glenn Gatsby",
+          "url": "https://open.spotify.com/artist/2i1i4w0EZ19SIJzPhAEp4i"
+        }
+      ],
+      "duration_ms": 167619,
+      "name": "Freedom - Glenn Gatsby Remix",
+      "url": "https://open.spotify.com/track/4QPeMeGlceuhETy8qMN3kg"
+    },
     {
       "added_at": "2024-05-10 04:01:00",
       "album": {
@@ -1787,26 +1839,6 @@
     {
       "added_at": "2023-11-06 13:47:16",
       "album": {
-        "name": "Wild & Groovy",
-        "url": "https://open.spotify.com/album/66tlY8Lw40KgqtOKPAz3Ej"
-      },
-      "artists": [
-        {
-          "name": "Szigeti Juli",
-          "url": "https://open.spotify.com/artist/3u8tUhDhqNoF6jRPEFnKNF"
-        },
-        {
-          "name": "Atom Smith",
-          "url": "https://open.spotify.com/artist/6ExlnA1FV2yvFCVlurHsc2"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Swing Delusion",
-      "url": "https://open.spotify.com/track/4Xv0OEuS4178t2vEVzdDQO"
-    },
-    {
-      "added_at": "2023-11-06 13:47:16",
-      "album": {
         "name": "Otto Croy EP",
         "url": "https://open.spotify.com/album/5GOnP5QYwMOwKee44Fqipl"
       },
@@ -2163,22 +2195,6 @@
       "duration_ms": 279200,
       "name": "What Lana Says",
       "url": "https://open.spotify.com/track/5l1deuLMR3ZqRAdq5SpVeE"
-    },
-    {
-      "added_at": "2023-11-06 13:47:16",
-      "album": {
-        "name": "Rose",
-        "url": "https://open.spotify.com/album/5Gq7HZLgyQlHUnAgxiwoOl"
-      },
-      "artists": [
-        {
-          "name": "Swingrowers",
-          "url": "https://open.spotify.com/artist/3mp5zzEz1qTq7X5a2yOS2B"
-        }
-      ],
-      "duration_ms": 213120,
-      "name": "Rose",
-      "url": "https://open.spotify.com/track/2CYKdqyzyGOK57fU9akmhI"
     },
     {
       "added_at": "2023-11-06 13:47:16",
@@ -2559,26 +2575,6 @@
       "duration_ms": 209579,
       "name": "Bad Boy Good Man - Rmx 2023",
       "url": "https://open.spotify.com/track/3ygbRD0PvH6CWdFH6NWGQx"
-    },
-    {
-      "added_at": "2023-11-06 13:47:16",
-      "album": {
-        "name": "Candy Girl",
-        "url": "https://open.spotify.com/album/3uBxUOlXsW91M7dy5BnIw1"
-      },
-      "artists": [
-        {
-          "name": "Parov Stelar",
-          "url": "https://open.spotify.com/artist/65EXuYHVoehCKqp0kOS6px"
-        },
-        {
-          "name": "Vallemarie",
-          "url": "https://open.spotify.com/artist/7IEexZoQUGuysrjOv20v0g"
-        }
-      ],
-      "duration_ms": 162075,
-      "name": "Candy Girl",
-      "url": "https://open.spotify.com/track/3bEoJn1bacU7dhpcjmWw72"
     },
     {
       "added_at": "2023-11-06 13:47:16",

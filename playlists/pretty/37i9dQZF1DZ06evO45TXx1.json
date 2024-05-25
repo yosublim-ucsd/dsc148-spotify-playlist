@@ -1,13 +1,37 @@
 {
-  "description": "This is Mc Luanna. The essential tracks, all in one playlist.",
-  "num_followers": 8516,
+  "description": "This is Mc Luanna. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 8541,
   "original_name": "This Is Mc Luanna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zk01gAAAAACQCFCmZ97jiZv7D51eKk6o",
+  "snapshot_id": "Zk6HAAAAAAAh//oH/mAvQ4ID35hSwl5B",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Piranha",
+        "url": "https://open.spotify.com/album/7Msb9eEGxaujbKTFzL9ykK"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Ajuliacosta",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "Mello Santana",
+          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
+        }
+      ],
+      "duration_ms": 176098,
+      "name": "Piranha",
+      "url": "https://open.spotify.com/track/3FVtG5hvfbOpcQipyovIZE"
+    },
     {
       "added_at": null,
       "album": {
@@ -1191,6 +1215,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Linha Torta",
+        "url": "https://open.spotify.com/album/3KrYvhcB19xsyDusw9UiJI"
+      },
+      "artists": [
+        {
+          "name": "DJ Matt D",
+          "url": "https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5"
+        },
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        }
+      ],
+      "duration_ms": 128242,
+      "name": "Linha Torta",
+      "url": "https://open.spotify.com/track/3Ifz1x4eWUlPArtAPeog8w"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Evolu\u00e7\u00e3o 2",
         "url": "https://open.spotify.com/album/1xi8mesuJOPY2hRHIxAeCB"
       },
@@ -1223,26 +1267,6 @@
       "duration_ms": 320048,
       "name": "Evolu\u00e7\u00e3o 2",
       "url": "https://open.spotify.com/track/62IAsbS9u4jzcO6x4LmdaF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Linha Torta",
-        "url": "https://open.spotify.com/album/3KrYvhcB19xsyDusw9UiJI"
-      },
-      "artists": [
-        {
-          "name": "DJ Matt D",
-          "url": "https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5"
-        },
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        }
-      ],
-      "duration_ms": 128242,
-      "name": "Linha Torta",
-      "url": "https://open.spotify.com/track/3Ifz1x4eWUlPArtAPeog8w"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Odkryj swojego nowego ulubionego artystę\. Cover: <a href="spotify:artist:3gC2pjwYVTQdMuHUucgODF">NEL</a>
 
-144 songs - 7 hr 7 min
+145 songs - 7 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,10 +92,11 @@
 | [Niepewność](https://open.spotify.com/track/7rMtFn0tDxMB0WqN2DHKTd) | [IGNACY](https://open.spotify.com/artist/4ccurDUZ48cXNrcrLsA9ub) | [Niepewność](https://open.spotify.com/album/7g9YalkkMEqvtfXweACsRd) | 2:54 | 2023-10-05 | 2024-05-04 |
 | [Nothin’ to worry](https://open.spotify.com/track/2r9c6RIWi7elZWGDxQZC0n) | [TYNSKY](https://open.spotify.com/artist/31Sw8RRROaHLjst7yEXwZF) | [Nothin’ to worry](https://open.spotify.com/album/1jnB1ZnjhNLSv6EZii6iRv) | 2:42 | 2022-08-26 | 2023-10-06 |
 | [Obca](https://open.spotify.com/track/1mM3zG72lDhGcCE8CG9XT7) | [bryska](https://open.spotify.com/artist/5I8Y0U8doFLVCsSY88v4Vh) | [Obca](https://open.spotify.com/album/2OlRkoAlAt76nhOhn30rIK) | 2:42 | 2024-02-02 |  |
-| [Oceany](https://open.spotify.com/track/30UVmRMUluX69S9OwuCdsv) | [P\. Tropez](https://open.spotify.com/artist/73WmoKfPsHU8sSCoRx2v2J) | [Oceany](https://open.spotify.com/album/0KEVljxnak0oVwBpKaNODK) | 3:10 | 2022-08-26 |  |
+| [Oceany](https://open.spotify.com/track/30UVmRMUluX69S9OwuCdsv) | [P\. Tropez](https://open.spotify.com/artist/73WmoKfPsHU8sSCoRx2v2J) | [Oceany](https://open.spotify.com/album/0KEVljxnak0oVwBpKaNODK) | 3:10 | 2022-08-26 | 2024-05-25 |
 | [odbicie \- Mark Neve Remix](https://open.spotify.com/track/71Y5CV2iG2t0dPzVqvTwZR) | [bryska](https://open.spotify.com/artist/5I8Y0U8doFLVCsSY88v4Vh), [Mark Neve](https://open.spotify.com/artist/0JRqO4cmb3UXFw4itnYSaH) | [moja ciemność \(deluxe edition\)](https://open.spotify.com/album/5JDuoSUawI1hto3pkbvyVS) | 3:00 | 2022-08-26 | 2022-09-24 |
 | [odpływam](https://open.spotify.com/track/362sPAroLBtYQhg4nJGton) | [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d) | [odpływam](https://open.spotify.com/album/23a6rGwxVVEcFxaJdwWeQQ) | 4:08 | 2022-08-26 | 2023-02-07 |
 | [Ogień](https://open.spotify.com/track/1bZG6SFJ3OLbyhFVcFe5xJ) | [Dziwna Wiosna](https://open.spotify.com/artist/2tAn2eNFnu7gP3mTdQE3ML) | [Ogień](https://open.spotify.com/album/62TmwYrQb4pZp6HVLSe6f8) | 3:11 | 2022-08-26 | 2024-02-03 |
+| [Orion](https://open.spotify.com/track/5QmLjH5tyHzL5g2wdAnahq) | [P\. Tropez](https://open.spotify.com/artist/73WmoKfPsHU8sSCoRx2v2J) | [Orion](https://open.spotify.com/album/5qPgbDOwT1KfXNv33zIzqX) | 2:36 | 2024-05-24 |  |
 | [Outro](https://open.spotify.com/track/3ys9zEe2Pru33ihkvskHJ5) | [Ania Leon](https://open.spotify.com/artist/43QBxtuscxneLyKYYEFfEu), [Igor Herbut](https://open.spotify.com/artist/5KTMtd3GnDdcWnwxcEBwKX) | [Outro](https://open.spotify.com/album/0NqV8UXKjInjxi0HWEmfWC) | 4:43 | 2023-03-13 |  |
 | [Overdosed](https://open.spotify.com/track/0CpY0Y6slxHrBKzcxIVEDc) | [TYNSKY](https://open.spotify.com/artist/31Sw8RRROaHLjst7yEXwZF) | [Overdosed](https://open.spotify.com/album/3kre8DZWDZZX9ODlxPwUDr) | 2:50 | 2022-08-26 | 2023-05-17 |
 | [Pan ten](https://open.spotify.com/track/1LdeDUCyrxAIoSzfbqyElX) | [KIWI](https://open.spotify.com/artist/6VQUyaRqUl5BCTJS0cCEki) | [Pętla](https://open.spotify.com/album/5XUJwC1TtVT7xm3Qjtev4I) | 3:48 | 2022-08-26 | 2023-11-11 |

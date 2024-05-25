@@ -4,7 +4,7 @@
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: raissa anggiani
 
-291 songs - 19 hr 0 min
+292 songs - 19 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,6 +166,7 @@
 | [Luka](https://open.spotify.com/track/3uAbxlHUC7hZkUMQ2NfIOp) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku), [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI) | [Berona](https://open.spotify.com/album/6sV7rZpvGIIQS1ccs61YXV) | 3:13 | 2024-01-18 | 2024-02-02 |
 | [MADE 4 U](https://open.spotify.com/track/5yetn3rXSPBP8fl5d5zExV) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [MADE 4 U](https://open.spotify.com/album/0WlcKSVRN8XsTDN4yXsMWZ) | 4:09 | 2024-01-18 | 2024-02-09 |
 | [Magic Hour](https://open.spotify.com/track/2k7cxrmYo5sYdaJn4125St) | [JKT48](https://open.spotify.com/artist/2l8I5pWUnfF7bMK1z6EJRk) | [Magic Hour](https://open.spotify.com/album/12NWZ9Mqv0wEotkMHmrDNm) | 3:08 | 2024-05-09 |  |
+| [Mahir Memberi Luka](https://open.spotify.com/track/5hPv6XDaQzixDaYN0yRCFi) | [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [Everlast](https://open.spotify.com/album/4RQqQiwO3kTfzQI7YQfDMg) | 3:22 | 2024-05-24 |  |
 | [Maka Diturunkanlah Hujan](https://open.spotify.com/track/7910f0STGFRvvIUmnizkBA) | [Parade Hujan](https://open.spotify.com/artist/12FqhPQ5x6a1V3UeN7hD9z), [Adrian Yunan](https://open.spotify.com/artist/25ex997B5aNaPvmqEO9AsJ) | [Maka Diturunkanlah Hujan](https://open.spotify.com/album/4ZZbKreS16M4F3dRvKMHSi) | 4:18 | 2024-03-21 | 2024-05-03 |
 | [Malang](https://open.spotify.com/track/7sqv8Eqs0gW6GHVTx20WNm) | [Hal](https://open.spotify.com/artist/5vTG3EyFrsARtIGDWZNRzu) | [Malang](https://open.spotify.com/album/47zY7uyQnStZjlbqwrn3M3) | 4:50 | 2024-03-21 |  |
 | [Manja](https://open.spotify.com/track/6VimN19HWwFiVLozrwhMld) | [Eclat Story](https://open.spotify.com/artist/77hI181qpBHYyQItXWNwom), [Ada Band](https://open.spotify.com/artist/2owBL6a90fnWufVtP70K8f) | [Manja](https://open.spotify.com/album/6XFEIkdZ22o6VDLLLyB2tq) | 5:04 | 2024-05-16 |  |

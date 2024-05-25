@@ -1,13 +1,45 @@
 {
   "description": "Jazz voices of today. Cover: Samara Joy",
-  "num_followers": 140613,
+  "num_followers": 140653,
   "original_name": "Vocal Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjRhfAAAAACmYNEFEV0xB7rrnb7hPlc6",
+  "snapshot_id": "ZlAQwAAAAAA4VuicYItKmYnKpkKKzmMF",
   "tracks": [
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Silver Tongue",
+        "url": "https://open.spotify.com/album/6kzadEspZVh3DAFv5BnulS"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "duration_ms": 262741,
+      "name": "Silver Tongue",
+      "url": "https://open.spotify.com/track/0Qxsuh1NoCMWDYVfC49XRE"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Baubles, Bangles and Beads",
+        "url": "https://open.spotify.com/album/4JWLquxM9QXW72eK3NniiX"
+      },
+      "artists": [
+        {
+          "name": "Caity Gyorgy",
+          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
+        }
+      ],
+      "duration_ms": 278093,
+      "name": "Baubles, Bangles and Beads",
+      "url": "https://open.spotify.com/track/7dt9M8v0wtxdyUDlnqgyNX"
+    },
     {
       "added_at": "2024-05-03 04:01:00",
       "album": {
@@ -39,6 +71,26 @@
       "duration_ms": 189267,
       "name": "Shadows",
       "url": "https://open.spotify.com/track/1MyPG6X9Keh9Nx3U9ynegk"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "It Had To Be You",
+        "url": "https://open.spotify.com/album/2b8wEojn3wg2tUUf9bkyWt"
+      },
+      "artists": [
+        {
+          "name": "Matt Dusk",
+          "url": "https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs"
+        },
+        {
+          "name": "Lou Pomanti",
+          "url": "https://open.spotify.com/artist/4dSjbjQP6Si6yNXMCG19UW"
+        }
+      ],
+      "duration_ms": 163140,
+      "name": "It Had to Be You",
+      "url": "https://open.spotify.com/track/1SxhbINyfT8WmacOwQZ8Xt"
     },
     {
       "added_at": "2024-04-12 04:01:00",
@@ -73,6 +125,22 @@
       "url": "https://open.spotify.com/track/4kY3cAWzzKVn3ZmYfOOJul"
     },
     {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Ordinaire",
+        "url": "https://open.spotify.com/album/00EeSGGVZmAfATtQcB8a20"
+      },
+      "artists": [
+        {
+          "name": "Jill Barber",
+          "url": "https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx"
+        }
+      ],
+      "duration_ms": 246078,
+      "name": "Ordinaire",
+      "url": "https://open.spotify.com/track/4vpgTddDyBV25oLHhXDfYa"
+    },
+    {
       "added_at": "2024-04-26 04:01:00",
       "album": {
         "name": "Ennio",
@@ -101,6 +169,30 @@
       "url": "https://open.spotify.com/track/467IHEFyhfSUvQniIlaeb2"
     },
     {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "I Cover the Waterfront",
+        "url": "https://open.spotify.com/album/0O35zsyZBnWVAJTQSqp1mu"
+      },
+      "artists": [
+        {
+          "name": "Andrew Bird",
+          "url": "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
+        },
+        {
+          "name": "Alan Hampton",
+          "url": "https://open.spotify.com/artist/0D2V0AdCoK1eKTiJR15nzj"
+        },
+        {
+          "name": "Ted Poor",
+          "url": "https://open.spotify.com/artist/5Stfdr5cRd6Gg9OMYmLR9Y"
+        }
+      ],
+      "duration_ms": 291693,
+      "name": "I Cover the Waterfront",
+      "url": "https://open.spotify.com/track/6gzE7AzP73YongOc8OU56N"
+    },
+    {
       "added_at": "2024-05-03 04:01:00",
       "album": {
         "name": "If You Could See Me Now",
@@ -115,26 +207,6 @@
       "duration_ms": 340644,
       "name": "If You Could See Me Now",
       "url": "https://open.spotify.com/track/6C5hPfo53PLkPRB4wfFGdv"
-    },
-    {
-      "added_at": "2024-04-26 04:01:00",
-      "album": {
-        "name": "For Once In My Life",
-        "url": "https://open.spotify.com/album/0gyOghIejAM8UeTxt2LuQq"
-      },
-      "artists": [
-        {
-          "name": "Matt Dusk",
-          "url": "https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs"
-        },
-        {
-          "name": "Lou Pomanti",
-          "url": "https://open.spotify.com/artist/4dSjbjQP6Si6yNXMCG19UW"
-        }
-      ],
-      "duration_ms": 229747,
-      "name": "For Once In My Life",
-      "url": "https://open.spotify.com/track/2bxofRdvqQGRAHVjCpAQ6G"
     },
     {
       "added_at": "2024-05-03 04:01:00",
@@ -963,26 +1035,6 @@
     {
       "added_at": "2023-02-24 05:01:00",
       "album": {
-        "name": "Are You Experienced",
-        "url": "https://open.spotify.com/album/0iFfWrk8r0RbucOIso5pbu"
-      },
-      "artists": [
-        {
-          "name": "Michael Stephenson",
-          "url": "https://open.spotify.com/artist/2hLykFY0OkRxdzJAaidlzk"
-        },
-        {
-          "name": "Alexander Claffy",
-          "url": "https://open.spotify.com/artist/68A73mdUJaTyVodPFbfDnG"
-        }
-      ],
-      "duration_ms": 319040,
-      "name": "Are You Experienced",
-      "url": "https://open.spotify.com/track/4SWiB0euITeK3LQg4DTgQM"
-    },
-    {
-      "added_at": "2023-02-24 05:01:00",
-      "album": {
         "name": "Melancolia",
         "url": "https://open.spotify.com/album/1GATA4Xp005aHyOdYpwe9s"
       },
@@ -999,30 +1051,6 @@
       "duration_ms": 276123,
       "name": "Melancolia",
       "url": "https://open.spotify.com/track/3QEumJ2N6d2aIofXv9TogC"
-    },
-    {
-      "added_at": "2023-02-24 05:01:00",
-      "album": {
-        "name": "It's Only a Paper Moon",
-        "url": "https://open.spotify.com/album/1Ml1lR7ejgAB6K3uaXMQ8p"
-      },
-      "artists": [
-        {
-          "name": "Claire Martin",
-          "url": "https://open.spotify.com/artist/7iIgJB2PSutn6IYzwdTomh"
-        },
-        {
-          "name": "Scott Dunn",
-          "url": "https://open.spotify.com/artist/1CULc0qvcbzrAU9R8OK0J1"
-        },
-        {
-          "name": "Royal Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
-        }
-      ],
-      "duration_ms": 265706,
-      "name": "It's Only a Paper Moon",
-      "url": "https://open.spotify.com/track/0nDyZrMQ9sFTD77L8gEnrI"
     },
     {
       "added_at": "2023-03-10 05:01:00",
@@ -1283,22 +1311,6 @@
       "duration_ms": 457813,
       "name": "My Foolish Heart",
       "url": "https://open.spotify.com/track/0MjqmuJitgjV1E740JPEKl"
-    },
-    {
-      "added_at": "2023-02-17 17:00:00",
-      "album": {
-        "name": "I Want To Talk About You",
-        "url": "https://open.spotify.com/album/41ZrzvkOwvqsm0HliMBwrW"
-      },
-      "artists": [
-        {
-          "name": "Catherine Russell",
-          "url": "https://open.spotify.com/artist/7j46Sze6UWb7p41IqcYFAp"
-        }
-      ],
-      "duration_ms": 273266,
-      "name": "I Want To Talk About You",
-      "url": "https://open.spotify.com/track/1qQlQID3eEJ9Nm4sgfKwF4"
     },
     {
       "added_at": "2023-06-02 04:01:00",
@@ -1759,22 +1771,6 @@
       "duration_ms": 169703,
       "name": "Pendulum",
       "url": "https://open.spotify.com/track/3Y5onKZN1Im4FxoTUMnEzb"
-    },
-    {
-      "added_at": "2024-02-02 05:01:00",
-      "album": {
-        "name": "Next Time",
-        "url": "https://open.spotify.com/album/5wKPzPaWDHbyDOHpIGHfAL"
-      },
-      "artists": [
-        {
-          "name": "Caity Gyorgy",
-          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
-        }
-      ],
-      "duration_ms": 318077,
-      "name": "Next Time",
-      "url": "https://open.spotify.com/track/2dAikVHuf4fWuiK5i8Hjcg"
     },
     {
       "added_at": "2024-02-16 05:01:00",

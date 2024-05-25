@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WDOjoils23.md) - [plain]
 
 > Your favorite Punjabi Ghazals and Qawwalis\. Cover: Jagjit Singh
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,842 likes - 43 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,851 likes - 43 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

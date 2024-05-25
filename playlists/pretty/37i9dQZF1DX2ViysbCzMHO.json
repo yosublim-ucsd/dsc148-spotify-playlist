@@ -1,6 +1,6 @@
 {
   "description": "Acoustic country songs from the heart of Nashville - stripped down to the basics.",
-  "num_followers": 153040,
+  "num_followers": 153097,
   "original_name": "Nashville Stripped",
   "owner": {
     "name": "Spotify",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Put It In A Song",
-        "url": "https://open.spotify.com/album/4enHcau3yyps8zTLjImeuH"
-      },
-      "artists": [
-        {
-          "name": "Trisha Yearwood",
-          "url": "https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j"
-        }
-      ],
-      "duration_ms": 215480,
-      "name": "Put It In A Song",
-      "url": "https://open.spotify.com/track/33JXc7HJY4mZcCuGESBgtD"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
         "name": "TWENTY SOMETHING (DELUXE)",
         "url": "https://open.spotify.com/album/5MoyIbsjnEHO2o6BNKjCpd"
       },
@@ -1043,6 +1027,22 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
+        "name": "Put It In A Song",
+        "url": "https://open.spotify.com/album/4enHcau3yyps8zTLjImeuH"
+      },
+      "artists": [
+        {
+          "name": "Trisha Yearwood",
+          "url": "https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j"
+        }
+      ],
+      "duration_ms": 215480,
+      "name": "Put It In A Song",
+      "url": "https://open.spotify.com/track/33JXc7HJY4mZcCuGESBgtD"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
         "name": "No Horse To Ride (demo version)",
         "url": "https://open.spotify.com/album/1KzOdWkcjSDpJvOINJROAB"
       },
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Gonna Love You (Alternate Versions)",
-        "url": "https://open.spotify.com/album/2LyGE0JPXYK4ygkYPyk3uX"
-      },
-      "artists": [
-        {
-          "name": "Parmalee",
-          "url": "https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I"
-        }
-      ],
-      "duration_ms": 174863,
-      "name": "Gonna Love You - Acoustic",
-      "url": "https://open.spotify.com/track/0fsiU4KOmZkqDqS6VO3PEh"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
         "name": "Another (Wedding Version)",
         "url": "https://open.spotify.com/album/4RTl5pDygFl1McoNT4AkMd"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 171188,
       "name": "Another - Wedding Version",
       "url": "https://open.spotify.com/track/3pF8tbhwVEqpef7RJkFUtK"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Gonna Love You (Alternate Versions)",
+        "url": "https://open.spotify.com/album/2LyGE0JPXYK4ygkYPyk3uX"
+      },
+      "artists": [
+        {
+          "name": "Parmalee",
+          "url": "https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I"
+        }
+      ],
+      "duration_ms": 174863,
+      "name": "Gonna Love You - Acoustic",
+      "url": "https://open.spotify.com/track/0fsiU4KOmZkqDqS6VO3PEh"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Made (Wedding Version)",
-        "url": "https://open.spotify.com/album/4gcjd7zcsqJNHUWvl8kIbA"
-      },
-      "artists": [
-        {
-          "name": "Spencer Crandall",
-          "url": "https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG"
-        }
-      ],
-      "duration_ms": 215227,
-      "name": "Made (Wedding Version)",
-      "url": "https://open.spotify.com/track/1BS7PmDyAlNTqMeex4Kt5X"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
         "name": "Handful / Already Broke Up",
         "url": "https://open.spotify.com/album/3ef62M5CFUa1tZ9rpKZuDS"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 162632,
       "name": "Handful - Acoustic",
       "url": "https://open.spotify.com/track/7pAFcp3k95JFqAYNGQQMC4"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Made (Wedding Version)",
+        "url": "https://open.spotify.com/album/4gcjd7zcsqJNHUWvl8kIbA"
+      },
+      "artists": [
+        {
+          "name": "Spencer Crandall",
+          "url": "https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG"
+        }
+      ],
+      "duration_ms": 215227,
+      "name": "Made (Wedding Version)",
+      "url": "https://open.spotify.com/track/1BS7PmDyAlNTqMeex4Kt5X"
     },
     {
       "added_at": "2024-05-03 04:00:00",

@@ -1,6 +1,6 @@
 {
   "description": "The iconic songs celebrating love across the African continent from the 2000's to date",
-  "num_followers": 61393,
+  "num_followers": 61502,
   "original_name": "100 Best African Love Songs ",
   "owner": {
     "name": "Spotify",
@@ -291,6 +291,26 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
+        "name": "Forever (Remix)",
+        "url": "https://open.spotify.com/album/4aVhyknHZk1updZEHkwd0H"
+      },
+      "artists": [
+        {
+          "name": "Gyakie",
+          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+        },
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 201600,
+      "name": "Forever (Remix)",
+      "url": "https://open.spotify.com/track/4vLY6fJQWgBzQYHzguDZme"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
         "name": "Permanent Music 3",
         "url": "https://open.spotify.com/album/6qXlSLu7mrUz8XIyJaBlow"
       },
@@ -311,26 +331,6 @@
       "duration_ms": 410847,
       "name": "iPlan",
       "url": "https://open.spotify.com/track/5yyYL1FpimADTIftYQU0cg"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "Forever (Remix)",
-        "url": "https://open.spotify.com/album/4aVhyknHZk1updZEHkwd0H"
-      },
-      "artists": [
-        {
-          "name": "Gyakie",
-          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
-        },
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 201600,
-      "name": "Forever (Remix)",
-      "url": "https://open.spotify.com/track/4vLY6fJQWgBzQYHzguDZme"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -395,22 +395,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Jolie",
-        "url": "https://open.spotify.com/album/1KyvLDpjRbcHFKXFEvq0bZ"
-      },
-      "artists": [
-        {
-          "name": "Khaid",
-          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
-        }
-      ],
-      "duration_ms": 209235,
-      "name": "Jolie",
-      "url": "https://open.spotify.com/track/7wMYtt3SEquaep8sWCdQqp"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Aye",
         "url": "https://open.spotify.com/album/54KREqr92Gm0dbTLGHp0JE"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 235171,
       "name": "Aye",
       "url": "https://open.spotify.com/track/7wh3ROxsX7i6GflbQGhGo7"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Jolie",
+        "url": "https://open.spotify.com/album/1KyvLDpjRbcHFKXFEvq0bZ"
+      },
+      "artists": [
+        {
+          "name": "Khaid",
+          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
+        }
+      ],
+      "duration_ms": 209235,
+      "name": "Jolie",
+      "url": "https://open.spotify.com/track/7wMYtt3SEquaep8sWCdQqp"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -711,6 +711,26 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
+        "name": "Black Love",
+        "url": "https://open.spotify.com/album/38LPmNiFu2NPdKAPAYb7ct"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        }
+      ],
+      "duration_ms": 223166,
+      "name": "Can't Let You Go (feat. King Promise)",
+      "url": "https://open.spotify.com/track/60HGKB4wbcZhClLTYIjzNw"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
         "name": "Tender Love (feat. DJ Maphorisa & Kabza De Small)",
         "url": "https://open.spotify.com/album/3rwjHfjfkHzuyt2h9UK5IZ"
       },
@@ -731,26 +751,6 @@
       "duration_ms": 444474,
       "name": "Tender Love (feat. DJ Maphorisa & Kabza De Small)",
       "url": "https://open.spotify.com/track/7ckWQdFniRR7CNsIA1VIML"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "Black Love",
-        "url": "https://open.spotify.com/album/38LPmNiFu2NPdKAPAYb7ct"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        }
-      ],
-      "duration_ms": 223166,
-      "name": "Can't Let You Go (feat. King Promise)",
-      "url": "https://open.spotify.com/track/60HGKB4wbcZhClLTYIjzNw"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1123,26 +1123,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Hiyo Lento",
-        "url": "https://open.spotify.com/album/5bzpGxfaAfxhaeMRXWjYql"
-      },
-      "artists": [
-        {
-          "name": "Jabu Khanyile",
-          "url": "https://open.spotify.com/artist/14pAu5JI8kVOY4XQq8riuB"
-        },
-        {
-          "name": "Bayete",
-          "url": "https://open.spotify.com/artist/5RC5jsZCSBUIdjT6mJlZU4"
-        }
-      ],
-      "duration_ms": 335840,
-      "name": "Sponky Ponky",
-      "url": "https://open.spotify.com/track/3aP5INLpRhdPK4PXWUVpIH"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Sondela (feat. Yumbs, Raspy, Blxckie, Riky Rick & Tshego)",
         "url": "https://open.spotify.com/album/7JpIFYw3A6DlTK8PsoZ8PA"
       },
@@ -1179,6 +1159,26 @@
       "duration_ms": 246822,
       "name": "Sondela (feat. Yumbs, Raspy, Blxckie, Riky Rick & Tshego)",
       "url": "https://open.spotify.com/track/0Fts0ctd6WoZPjffe6VlCD"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Hiyo Lento",
+        "url": "https://open.spotify.com/album/5bzpGxfaAfxhaeMRXWjYql"
+      },
+      "artists": [
+        {
+          "name": "Jabu Khanyile",
+          "url": "https://open.spotify.com/artist/14pAu5JI8kVOY4XQq8riuB"
+        },
+        {
+          "name": "Bayete",
+          "url": "https://open.spotify.com/artist/5RC5jsZCSBUIdjT6mJlZU4"
+        }
+      ],
+      "duration_ms": 335840,
+      "name": "Sponky Ponky",
+      "url": "https://open.spotify.com/track/3aP5INLpRhdPK4PXWUVpIH"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1703,26 +1703,18 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Uyangijabulisa",
-        "url": "https://open.spotify.com/album/04HgLbUVHdvAvawQzjX9JW"
+        "name": "Ex",
+        "url": "https://open.spotify.com/album/4TnCuNvX8Bzhbx2uv5K5cR"
       },
       "artists": [
         {
-          "name": "Fezeka Dlamini",
-          "url": "https://open.spotify.com/artist/3w6Mt5dBdn8iPH2PgdnbP7"
-        },
-        {
-          "name": "Nomfundo Moh",
-          "url": "https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan"
-        },
-        {
-          "name": "Naledi",
-          "url": "https://open.spotify.com/artist/092ZdmX5G7PFTtsWoQHkmX"
+          "name": "Nikita Kering'",
+          "url": "https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X"
         }
       ],
-      "duration_ms": 288052,
-      "name": "Uyangijabulisa",
-      "url": "https://open.spotify.com/track/3RmhsiQszFnnixoOrLznAN"
+      "duration_ms": 204000,
+      "name": "Ex",
+      "url": "https://open.spotify.com/track/2r4GUjWmfz5xth28hb7a6G"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1747,18 +1739,26 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Ex",
-        "url": "https://open.spotify.com/album/4TnCuNvX8Bzhbx2uv5K5cR"
+        "name": "Uyangijabulisa",
+        "url": "https://open.spotify.com/album/04HgLbUVHdvAvawQzjX9JW"
       },
       "artists": [
         {
-          "name": "Nikita Kering'",
-          "url": "https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X"
+          "name": "Fezeka Dlamini",
+          "url": "https://open.spotify.com/artist/3w6Mt5dBdn8iPH2PgdnbP7"
+        },
+        {
+          "name": "Nomfundo Moh",
+          "url": "https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan"
+        },
+        {
+          "name": "Naledi",
+          "url": "https://open.spotify.com/artist/092ZdmX5G7PFTtsWoQHkmX"
         }
       ],
-      "duration_ms": 204000,
-      "name": "Ex",
-      "url": "https://open.spotify.com/track/2r4GUjWmfz5xth28hb7a6G"
+      "duration_ms": 288052,
+      "name": "Uyangijabulisa",
+      "url": "https://open.spotify.com/track/3RmhsiQszFnnixoOrLznAN"
     },
     {
       "added_at": "2024-05-22 11:00:00",

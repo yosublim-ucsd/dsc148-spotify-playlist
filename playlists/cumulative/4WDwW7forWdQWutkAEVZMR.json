@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "Your go-to playlist for this week's hottest music featuring Koe Wetzel, Miley Cyrus, and more! Cover: Koe Wetzel",
+  "description": "Your go-to playlist for this week's hottest music featuring Bring Me The Horizon, Miley Cyrus, and more! Cover: Bring Me The Horizon",
   "name": "Columbia Records: Weekly Mix",
   "tracks": [
     {
@@ -362,6 +362,24 @@
       "duration_ms": 172880,
       "name": "A Lover Like Me",
       "url": "https://open.spotify.com/track/3WfvvgQ2RJLJiCbFP67EbI"
+    },
+    {
+      "album": {
+        "name": "A Real Man",
+        "url": "https://open.spotify.com/album/46Hx2WVHRs07MDXGVgzdD1"
+      },
+      "artists": [
+        {
+          "name": "Dax",
+          "url": "https://open.spotify.com/artist/5icKdCmMhNMYoAzVBAWt39"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221640,
+      "name": "A Real Man",
+      "url": "https://open.spotify.com/track/00SU9JMELyhWF2Kn6KQRc7"
     },
     {
       "album": {
@@ -1030,6 +1048,28 @@
       "duration_ms": 147435,
       "name": "Bag Talk",
       "url": "https://open.spotify.com/track/6Y95jrYOOWDkh7uO6PSDBT"
+    },
+    {
+      "album": {
+        "name": "BAND4BAND (feat. Lil Baby)",
+        "url": "https://open.spotify.com/album/4AzPr5SUpNF553eC1d3aRy"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140733,
+      "name": "BAND4BAND (feat. Lil Baby)",
+      "url": "https://open.spotify.com/track/7iabz12vAuVQYyekFIWJxD"
     },
     {
       "album": {
@@ -1898,7 +1938,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 193200,
       "name": "Built by Broken Hearts",
       "url": "https://open.spotify.com/track/1IvNEs3RfxDNhR2RO7vX2e"
@@ -3132,6 +3172,24 @@
       "duration_ms": 251309,
       "name": "Dancing with Myself",
       "url": "https://open.spotify.com/track/5Ds6UPLXf9wRe1ly0N8o7o"
+    },
+    {
+      "album": {
+        "name": "DARK",
+        "url": "https://open.spotify.com/album/5hcEXufQsdqSx8Ik7oXXEm"
+      },
+      "artists": [
+        {
+          "name": "WesGhost",
+          "url": "https://open.spotify.com/artist/6YmJPuYzqe1HsJArGYcHBJ"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179439,
+      "name": "DARK",
+      "url": "https://open.spotify.com/track/1qlsoHIuuOsrm1qGENz4RM"
     },
     {
       "album": {
@@ -4538,7 +4596,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 177525,
       "name": "feel it all",
       "url": "https://open.spotify.com/track/5Rpc2HDYk3C9hcwfS3aPVW"
@@ -5448,7 +5506,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 165226,
       "name": "Good Guy",
       "url": "https://open.spotify.com/track/0iaXdS4yDgZCXMiV7tuTJP"
@@ -5696,6 +5754,24 @@
       "duration_ms": 170466,
       "name": "Hard Dreams",
       "url": "https://open.spotify.com/track/1sJAQWkZdaJDsPifl1fvOd"
+    },
+    {
+      "album": {
+        "name": "Hard To See",
+        "url": "https://open.spotify.com/album/0RkVJHDQpePIHNuViSKQpI"
+      },
+      "artists": [
+        {
+          "name": "Swavy",
+          "url": "https://open.spotify.com/artist/6CHTgEfOTvm5flR5Cpzw0I"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177230,
+      "name": "Hard To See",
+      "url": "https://open.spotify.com/track/43MPwMnVPoGj3AIItvxdRl"
     },
     {
       "album": {
@@ -8312,7 +8388,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 216918,
       "name": "Michael",
       "url": "https://open.spotify.com/track/0KLJ25bNfbIVGLrdOYizSJ"
@@ -8616,6 +8692,28 @@
       "duration_ms": 208314,
       "name": "MOVE (T5)",
       "url": "https://open.spotify.com/track/7EtNbIeSYjE4PeitHqEHhs"
+    },
+    {
+      "album": {
+        "name": "3vil Reflection",
+        "url": "https://open.spotify.com/album/17DbwNYaf8YjmLXSwiKG3M"
+      },
+      "artists": [
+        {
+          "name": "Glokk40Spaz",
+          "url": "https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W"
+        },
+        {
+          "name": "OsamaSon",
+          "url": "https://open.spotify.com/artist/0uj6QiPsPfK8ywLC7uwBE1"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136281,
+      "name": "Movie",
+      "url": "https://open.spotify.com/track/56nMxD5Hz0gI2E1lDmC0kk"
     },
     {
       "album": {
@@ -9086,7 +9184,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 123692,
       "name": "Nights On Hill",
       "url": "https://open.spotify.com/track/3jdUCvNWOrhljGFReoZaEm"
@@ -9126,7 +9224,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 151000,
       "name": "Nivel Dios",
       "url": "https://open.spotify.com/track/2fQDPWL8HKiiAC3l95dXJO"
@@ -10208,7 +10306,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 196533,
       "name": "Picasso",
       "url": "https://open.spotify.com/track/2Bwzb9e5mzm9oZ2zDFx6n3"
@@ -10495,6 +10593,24 @@
     },
     {
       "album": {
+        "name": "QUIET COMPANY",
+        "url": "https://open.spotify.com/album/30KjoTkl4xcROFA5PGVapI"
+      },
+      "artists": [
+        {
+          "name": "Jack Harris",
+          "url": "https://open.spotify.com/artist/27edmR0EqnlQYsj80VTusr"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170812,
+      "name": "QUIET COMPANY",
+      "url": "https://open.spotify.com/track/35PVngoOf0GRd6t3nyaYkm"
+    },
+    {
+      "album": {
         "name": "VIRALITY",
         "url": "https://open.spotify.com/album/4cZQDPI9rDzPpqMMLyvj7B"
       },
@@ -10702,7 +10818,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 105244,
       "name": "Run Inside",
       "url": "https://open.spotify.com/track/3hU6z9THFwW5Rg3oBd3txr"
@@ -11341,6 +11457,24 @@
     },
     {
       "album": {
+        "name": "Soon",
+        "url": "https://open.spotify.com/album/22uGI5GA7iyFkry32zZT7t"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Sterling",
+          "url": "https://open.spotify.com/artist/2TX3RFFIqwzwDjFMJN4nV9"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155675,
+      "name": "Soon",
+      "url": "https://open.spotify.com/track/3J0LxopRLLyLxOVOLouZMr"
+    },
+    {
+      "album": {
         "name": "Sweet Boy Pt. 2",
         "url": "https://open.spotify.com/album/4hQLHqX3ht0FNuk2z5sKfG"
       },
@@ -11910,7 +12044,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 154177,
       "name": "surrender",
       "url": "https://open.spotify.com/track/6xylbEim7Wc6PiEt0QaS7a"
@@ -12734,6 +12868,24 @@
       "duration_ms": 251424,
       "name": "Too Sweet",
       "url": "https://open.spotify.com/track/4IadxL6BUymXlh8RCJJu7T"
+    },
+    {
+      "album": {
+        "name": "POST HUMAN: NeX GEn",
+        "url": "https://open.spotify.com/album/1k7OXnGQPV4zF3seDwRroD"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240590,
+      "name": "Top 10 staTues tHat CriEd bloOd",
+      "url": "https://open.spotify.com/track/7g4hIeYVk3h5qQXb9RLeXP"
     },
     {
       "album": {
@@ -13683,6 +13835,24 @@
     },
     {
       "album": {
+        "name": "What Do You Believe In?",
+        "url": "https://open.spotify.com/album/63c9Ujs0fkzuFi6OkDG7cP"
+      },
+      "artists": [
+        {
+          "name": "Rag'n'Bone Man",
+          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190474,
+      "name": "What Do You Believe In?",
+      "url": "https://open.spotify.com/track/2j5YYik2gA3Z7FgH3NiybN"
+    },
+    {
+      "album": {
         "name": "drowning",
         "url": "https://open.spotify.com/album/4MG8Z8BcUsNQFgJjMxzTWN"
       },
@@ -14060,6 +14230,28 @@
       "duration_ms": 197838,
       "name": "Wild Ones (feat. Jelly Roll) (Extended Version)",
       "url": "https://open.spotify.com/track/3aKGpk1aXEqZyl62XQuxby"
+    },
+    {
+      "album": {
+        "name": "Wildlife (feat. Sleepy Hallow)",
+        "url": "https://open.spotify.com/album/6NRSyW6U2CGW7eedBPyB3f"
+      },
+      "artists": [
+        {
+          "name": "Scorey",
+          "url": "https://open.spotify.com/artist/0X3nsc84A9qlFilmlWNwQb"
+        },
+        {
+          "name": "Sleepy Hallow",
+          "url": "https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173233,
+      "name": "Wildlife (feat. Sleepy Hallow)",
+      "url": "https://open.spotify.com/track/350eBNxmi87YdMxQvauyUQ"
     },
     {
       "album": {

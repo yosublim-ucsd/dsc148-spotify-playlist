@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 
 > Come alive with this progressive & melodic house selection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,717 likes - 60 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,792 likes - 60 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 | 34 | [Save Me](https://open.spotify.com/track/75gsMOTK0ZXgBeJ4wvDpL4) | [Laura van Dam](https://open.spotify.com/artist/6gmecOfbzCBnKd3OGkCQuz), [Ginchy](https://open.spotify.com/artist/0HOE39NQ7ewDCXEZm796MP) | [Save Me](https://open.spotify.com/album/4A0StE56VMKnr1QlzosEua) | 3:09 |
 | 35 | [Losing Game](https://open.spotify.com/track/3tCA2JJ8Udtnry8BIMQijU) | [Durante](https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh), [SOHN](https://open.spotify.com/artist/6XZYAWJLL8UIbxAqjKj3cg) | [Enter](https://open.spotify.com/album/519cygxrNzWY4C3hyTdMHk) | 4:00 |
 | 36 | [Afterglow](https://open.spotify.com/track/5lGgglkaWaFS5g0yRlqeV7) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo), [GIVVEN](https://open.spotify.com/artist/7e1aNehmQevT0RVtN8Pzly) | [Afterglow](https://open.spotify.com/album/7jLwbeWUr2NVz7fZmX6rRb) | 6:35 |
-| 37 | [Fall Between The Cracks](https://open.spotify.com/track/37FvnZdhlIjEqCGrpqjxdD) | [Fritz Kalkbrenner](https://open.spotify.com/artist/08Ut1tYxtmgIInVyQqohkM) | [Fall Between The Cracks](https://open.spotify.com/album/6b0Q7jiXPpDpvWjGRs0nJV) | 3:46 |
+| 37 | [Aquatic](https://open.spotify.com/track/4PJaGVVVYNSN9EZJmMLtfK) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Aquatic](https://open.spotify.com/album/1sXUPeXG3bo3norKvF2nJx) | 3:46 |
 | 38 | [Home](https://open.spotify.com/track/2FsUQgO3jopRHjW6rQ7jMc) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [JONAH](https://open.spotify.com/artist/3Rmw0IldYoch0L6XmTjQO4) | [Begin Again](https://open.spotify.com/album/1ZwkNGxlonmG4bjmLbV1Rr) | 3:33 |
-| 39 | [Aquatic](https://open.spotify.com/track/4PJaGVVVYNSN9EZJmMLtfK) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Aquatic](https://open.spotify.com/album/1sXUPeXG3bo3norKvF2nJx) | 3:46 |
+| 39 | [Fall Between The Cracks](https://open.spotify.com/track/37FvnZdhlIjEqCGrpqjxdD) | [Fritz Kalkbrenner](https://open.spotify.com/artist/08Ut1tYxtmgIInVyQqohkM) | [Fall Between The Cracks](https://open.spotify.com/album/6b0Q7jiXPpDpvWjGRs0nJV) | 3:46 |
 | 40 | [No Time \- RÜFÜS DU SOL Remix](https://open.spotify.com/track/7qRqmkHtKgk9B8FTGp9YjL) | [Lastlings](https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi), [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [No Time \(RÜFÜS DU SOL Remix\)](https://open.spotify.com/album/4uYah5RDbWZkcytZ5OwdEy) | 6:38 |
 | 41 | [Ice Moon](https://open.spotify.com/track/1Vv4jqn3EZZw0BThJqjhJD) | [LSR/CITY](https://open.spotify.com/artist/0YQ22xAzgefaKw8vKCAEp2), [Gareth Emery](https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi), [Annabel](https://open.spotify.com/artist/4zR2t8bagib4ozydVgb93l) | [Ice Moon](https://open.spotify.com/album/4ZFwY8augL822xcvrf0LL2) | 2:34 |
 | 42 | [The Sun](https://open.spotify.com/track/3JxvXfdWhKOzM2VGy1Gt1z) | [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB), [Gab Rhome](https://open.spotify.com/artist/3VXMcHmS4xk3cacv4oXWKI) | [The Sun](https://open.spotify.com/album/5r6iKwNhaF0AlqX8YKMpk7) | 3:36 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 | 56 | [Spaces](https://open.spotify.com/track/0bWtNDvDLoR1lgFhf2MEvY) | [Braxton](https://open.spotify.com/artist/3yOWDl4RunYUhE6dWCXhp4) | [Spaces](https://open.spotify.com/album/79BuUC7A4UwuFOcSz9BNhB) | 3:44 |
 | 57 | [Paint My Tomorrow](https://open.spotify.com/track/7FI9lWbsdyv5BGnO8eBBgw) | [Midnight Pass](https://open.spotify.com/artist/2F8qRDc5o9tYPuRiT4cvN6), [GAM8Y](https://open.spotify.com/artist/5ch71xT3tifThqNN03BCy6), [Sam Welch](https://open.spotify.com/artist/3JmD9HEyTy3vtITvwUFK9K) | [Paint My Tomorrow](https://open.spotify.com/album/5A6O6zDkdKNo94ZGErrQlK) | 2:30 |
 | 58 | [Feel It Still](https://open.spotify.com/track/7MKVZqTTMCwuJevnFX8rtu) | [LuvLess](https://open.spotify.com/artist/3nlrFqpQAci9Bx0O5VZ5Hr), [Warren](https://open.spotify.com/artist/3hsPrgSO08dwXVkDzFbfSY) | [Feel It Still](https://open.spotify.com/album/2mw8ukho8umDiLim1lKQ0E) | 3:03 |
-| 59 | [Love Is Enough](https://open.spotify.com/track/0gET2J2Mq8ym97aOSffW1P) | [Paul van Dyk](https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR), [Sue McLaren](https://open.spotify.com/artist/7AzAtQ0LFRXazvHMDx620D) | [Love Is Enough](https://open.spotify.com/album/2CqlLD4Ho2MmE4HV4UNryN) | 2:56 |
-| 60 | [Holding On](https://open.spotify.com/track/4XZk8j2tyVDMoXjmblznuu) | [Durante](https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [Holding On](https://open.spotify.com/album/7eWioRNyXGjl0KnIeZIeHI) | 3:58 |
+| 59 | [Holding On](https://open.spotify.com/track/4XZk8j2tyVDMoXjmblznuu) | [Durante](https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [Holding On](https://open.spotify.com/album/7eWioRNyXGjl0KnIeZIeHI) | 3:58 |
+| 60 | [Love Is Enough](https://open.spotify.com/track/0gET2J2Mq8ym97aOSffW1P) | [Paul van Dyk](https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR), [Sue McLaren](https://open.spotify.com/artist/7AzAtQ0LFRXazvHMDx620D) | [Love Is Enough](https://open.spotify.com/album/2CqlLD4Ho2MmE4HV4UNryN) | 2:56 |
 
 Snapshot ID: `Zj4yHAAAAADHhJX2yTOZA3rSAeIWkzHU`

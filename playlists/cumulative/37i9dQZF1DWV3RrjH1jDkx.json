@@ -7175,6 +7175,24 @@
     },
     {
       "album": {
+        "name": "Pink Skies",
+        "url": "https://open.spotify.com/album/7LRZfujsTLyy814AnMSdtT"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194920,
+      "name": "Pink Skies",
+      "url": "https://open.spotify.com/track/4ZJ4vzLQekI0WntDbanNC7"
+    },
+    {
+      "album": {
         "name": "Plant",
         "url": "https://open.spotify.com/album/00yKsovhEU8RaikKH7bqVD"
       },
@@ -8960,6 +8978,24 @@
       "duration_ms": 183642,
       "name": "The Genre Police",
       "url": "https://open.spotify.com/track/17mYJ0a4KeROL4NFGi1MYS"
+    },
+    {
+      "album": {
+        "name": "The Groke",
+        "url": "https://open.spotify.com/album/0WyFT30FkW1v1GquwmQsYN"
+      },
+      "artists": [
+        {
+          "name": "Okay Kaya",
+          "url": "https://open.spotify.com/artist/7d64ZVOXg02y73HB5UMqkb"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194106,
+      "name": "The Groke",
+      "url": "https://open.spotify.com/track/6aDXwAUnEqMFzBx2i7wgpc"
     },
     {
       "album": {

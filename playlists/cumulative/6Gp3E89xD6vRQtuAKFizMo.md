@@ -4,7 +4,7 @@
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every Tuesday and Friday!
 
-305 songs - 14 hr 45 min
+307 songs - 14 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,6 +171,7 @@
 | [Lockup \(feat\. NEWYON\)](https://open.spotify.com/track/15aTBfj5AimmXhVrj9tU5h) | [juuku](https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl), [SSOS](https://open.spotify.com/artist/1X90DISqAUei3m4aEHCYhR), [NEWYON](https://open.spotify.com/artist/2WZr7KzJCA3Z5ZZAhVQufn) | [Lockup \(feat\. NEWYON\)](https://open.spotify.com/album/1qYIHfSHQvglXsYeUv8T9Z) | 2:27 | 2023-04-14 |  |
 | [Loco](https://open.spotify.com/track/0jpJNvfr7oBTn5AQnpjEoC) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [SAYMYNAME](https://open.spotify.com/artist/1PP0a3KRZiaqtahgtJ3bdv) | [Loco](https://open.spotify.com/album/6mhUBbGECknvUeH5TzmrCi) | 2:45 | 2022-07-27 | 2023-04-09 |
 | [Long Way Down](https://open.spotify.com/track/4Gn8upxtpncAQRBaqhYBGz) | [StayLoose](https://open.spotify.com/artist/6kyUfziWP8ydAsKzyXsC83) | [Long Way Down](https://open.spotify.com/album/3iDpry2d331nweoBhOJMTm) | 3:36 | 2022-07-01 | 2022-12-21 |
+| [Look At Me](https://open.spotify.com/track/03T8F9SOv7aeJX7QKvV1eN) | [Nostalgix](https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz) | [Look At Me](https://open.spotify.com/album/1dzxMhanj9kriQCS1PDwzU) | 2:27 | 2024-05-24 |  |
 | [Loving You Kills Me](https://open.spotify.com/track/2Zjg31wnbhRzGsnOrnEY0r) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [Loving You Kills Me](https://open.spotify.com/album/53r3BRA2TeyJyEtYDBrI60) | 2:54 | 2022-05-06 | 2022-06-25 |
 | [Lullaby](https://open.spotify.com/track/4zalizeajaM4COAsb04Ihh) | [MNNR](https://open.spotify.com/artist/4yZ4oFs7rKNy4OXlZmcZnd) | [Lullaby](https://open.spotify.com/album/5a6dggnsI1SEbenUoqZtFO) | 2:47 | 2023-11-22 |  |
 | [MACH 10](https://open.spotify.com/track/1lBkr90r5ayibZw92Be7RJ) | [Ookay](https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t) | [MACH 10](https://open.spotify.com/album/3Uj5FjcVPVhC8UHUt1wfhV) | 3:19 | 2023-11-22 |  |
@@ -198,6 +199,7 @@
 | [New Chapter \(뉴 챕터\)](https://open.spotify.com/track/7cxudOOQvZl3ot8JaL0yQc) | [Fahjah](https://open.spotify.com/artist/7LjoOGD9rMWkR8clGUu2Id), [Hollakim](https://open.spotify.com/artist/0g4osFXWrdwah2NGdon8yn) | [New Chapter \(뉴 챕터\)](https://open.spotify.com/album/52YITUh4O8tt4LcRRMpo8Q) | 2:21 | 2023-11-22 |  |
 | [Next Track](https://open.spotify.com/track/1q6EXjWwI7PSqG2QOZXRev) | [Otira](https://open.spotify.com/artist/0rEj1VGJGJIxCn3H9B3kWb) | [Next Track](https://open.spotify.com/album/5QG60uPzCpuXdxvHZWHzks) | 2:45 | 2022-05-06 | 2022-08-20 |
 | [Night Spot \(feat\. B Che\)](https://open.spotify.com/track/5n6ETg2Eeov0az6DLDPYfN) | [R3LL](https://open.spotify.com/artist/1oIdLFKLJx0NicqeiEvBj5), [B Che](https://open.spotify.com/artist/0vnNVC4zb0oOJotPEU7gFN) | [Night Spot \(feat\. B Che\)](https://open.spotify.com/album/0piJif1CsqBq86iQiCxsFJ) | 3:00 | 2022-11-18 | 2023-03-03 |
+| [NNTS](https://open.spotify.com/track/4sOHlTI0wJCjwlZaZHOdoG) | [Ookay](https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t) | [NNTS](https://open.spotify.com/album/6IiM3S96ZnWUPAXx9ue2KT) | 2:29 | 2024-05-24 |  |
 | [No Beef \- R3HAB Remix](https://open.spotify.com/track/7JlyO7PxFXc1rV4NJQceHa) | [Afrojack](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Miss Palmer](https://open.spotify.com/artist/2Vd2ZmSFVZ9LEwHeJ8vf7U), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [No Beef \(REMIXES pt\. 2\)](https://open.spotify.com/album/34vw1mPnsLj6ref9RueohR) | 2:48 | 2022-05-06 | 2022-08-03 |
 | [No Beef \- Steve Aoki's 11 Years Later Remix](https://open.spotify.com/track/03PNqjZycgvVlRqSXEhM57) | [Afrojack](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Miss Palmer](https://open.spotify.com/artist/2Vd2ZmSFVZ9LEwHeJ8vf7U) | [No Beef \(REMIXES pt\. 1\)](https://open.spotify.com/album/2uOdq6lHvgGZWcKxUmn5ya) | 3:23 | 2022-05-06 | 2022-09-20 |
 | [No Brakes](https://open.spotify.com/track/2rNt0cXjLDLefeCItQrFwG) | [Bok Nero](https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V) | [No Brakes](https://open.spotify.com/album/7o60ves6sdc3vr5LuUpK3Y) | 2:41 | 2022-05-06 | 2022-10-28 |

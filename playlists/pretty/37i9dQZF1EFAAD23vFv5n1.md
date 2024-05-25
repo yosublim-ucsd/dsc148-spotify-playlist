@@ -45,12 +45,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAD23vFv5n1.md) - [plain]
 | 35 | [CRISI v8](https://open.spotify.com/track/3ZITsuxamXIoDlyy4Fi2Wt) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [ANATOMIA CRISTALLO](https://open.spotify.com/album/3cQbctP7TYxlAQIZjDduuv) | 3:13 |
 | 36 | [PASTIGLIA v7](https://open.spotify.com/track/4Vp13e77ads0KmyLkV9XLj) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [ANATOMIA CRISTALLO](https://open.spotify.com/album/3cQbctP7TYxlAQIZjDduuv) | 2:38 |
 | 37 | [mi ami davvero?](https://open.spotify.com/track/0zfY0EORigBVMK5Y8VXbbp) | [cmqmartina](https://open.spotify.com/artist/3t7NdpIbIprOtDChVJ94DP) | [mi ami davvero?](https://open.spotify.com/album/6rdzzMFUBmZRgraYqE2NrI) | 3:25 |
-| 38 | [Cose che si dicono](https://open.spotify.com/track/0NITryefiKERw6elK9pvnU) | [Claudym](https://open.spotify.com/artist/7pNCSsicJGpwrn2wwGD91g) | [Incidenti Di Percorso](https://open.spotify.com/album/3F8GHkZjiGX9djLFSAGgW9) | 3:22 |
-| 39 | [okok](https://open.spotify.com/track/5cnzY2pz4gUFNGyhLJRvxh) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ok](https://open.spotify.com/album/23YHyxWe8nTsFFHvV2WFLZ) | 3:30 |
+| 38 | [okok](https://open.spotify.com/track/5cnzY2pz4gUFNGyhLJRvxh) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ok](https://open.spotify.com/album/23YHyxWe8nTsFFHvV2WFLZ) | 3:30 |
+| 39 | [Cose che si dicono](https://open.spotify.com/track/0NITryefiKERw6elK9pvnU) | [Claudym](https://open.spotify.com/artist/7pNCSsicJGpwrn2wwGD91g) | [Incidenti Di Percorso](https://open.spotify.com/album/3F8GHkZjiGX9djLFSAGgW9) | 3:22 |
 | 40 | [MARGHERITA v11](https://open.spotify.com/track/3rsFDYxfupH9kXBnHSZJsx) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [ANATOMIA CRISTALLO](https://open.spotify.com/album/3cQbctP7TYxlAQIZjDduuv) | 2:31 |
 | 41 | [Paradiso](https://open.spotify.com/track/3xoTmAPceMAHGRFe9HKV4m) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [Paradiso](https://open.spotify.com/album/7E4Wy23cEvWIrJZOjjX5h0) | 3:35 |
-| 42 | [Nessuno](https://open.spotify.com/track/3GjK6xL9L2u0DTZtJ17hyp) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [Nessuno](https://open.spotify.com/album/5Ev6Kga0Mc8swJ7u9JPSPU) | 2:19 |
-| 43 | [Forza](https://open.spotify.com/track/3Qvwoqzcq7aKpW1omzCgQb) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg), [Estremo](https://open.spotify.com/artist/3L0bVe5X6KoxPPjDdL1gIM) | [Forza](https://open.spotify.com/album/4BYazN4kNLuHwpVzBNcW0T) | 3:12 |
+| 42 | [Forza](https://open.spotify.com/track/3Qvwoqzcq7aKpW1omzCgQb) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg), [Estremo](https://open.spotify.com/artist/3L0bVe5X6KoxPPjDdL1gIM) | [Forza](https://open.spotify.com/album/4BYazN4kNLuHwpVzBNcW0T) | 3:12 |
+| 43 | [Nessuno](https://open.spotify.com/track/3GjK6xL9L2u0DTZtJ17hyp) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [Nessuno](https://open.spotify.com/album/5Ev6Kga0Mc8swJ7u9JPSPU) | 2:19 |
 | 44 | [BILLY CARTER](https://open.spotify.com/track/43qoTN79aYYpeMWL1f461l) | [Colla Zio](https://open.spotify.com/artist/5b7RP4RDJ37q5EPUs4nf59) | [ROCKABILLY CARTER](https://open.spotify.com/album/4JhRql5w7yWaRipBuUM7ar) | 2:29 |
 | 45 | [Eravamo ragazzini](https://open.spotify.com/track/50psUCaLbN5VxB4XU7ZaTC) | [Giuse The Lizia](https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK) | [CRUSH](https://open.spotify.com/album/6prdGyJZaUBHgCvVJ4mJH5) | 3:14 |
 | 46 | [okokokokok](https://open.spotify.com/track/37YI4M2Js09a5XwI2KsMh9) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [okokokokok](https://open.spotify.com/album/225bRLDL6ZSHL8O5x2wp3k) | 2:53 |
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAD23vFv5n1.md) - [plain]
 | 95 | [might as well](https://open.spotify.com/track/0k6UETYeSV0WsZeZGgTzlU) | [HÅN](https://open.spotify.com/artist/7n3jYxJuLzLuOv8Fk1s9N1) | [projections on a human screen](https://open.spotify.com/album/6l6gC5OMQRjxPQFunLNRCP) | 2:36 |
 | 96 | [sonic interlude](https://open.spotify.com/track/7GzqVB2D2VYev0Q99IpeXK) | [HÅN](https://open.spotify.com/artist/7n3jYxJuLzLuOv8Fk1s9N1) | [projections on a human screen](https://open.spotify.com/album/6l6gC5OMQRjxPQFunLNRCP) | 1:17 |
 
-Snapshot ID: `AbSIbAAAAAAOJmMY5U4uoAbuniQFNtY4`
+Snapshot ID: `AbSODAAAAACK2QJdL2O7nhRYB5T/vSpJ`

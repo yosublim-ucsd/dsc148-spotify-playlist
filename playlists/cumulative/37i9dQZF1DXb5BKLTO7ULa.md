@@ -4,7 +4,7 @@
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: Suzan & Freek
 
-6,285 songs - 13 day 17 hr 50 min
+6,287 songs - 13 day 17 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2485,6 +2485,7 @@
 | [How I'm Feeling Now](https://open.spotify.com/track/5CcfIvFHULvnM0ST4nzRRN) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [How I'm Feeling Now](https://open.spotify.com/album/5Kys3ZEzHMqSbpKnyfSkqj) | 3:46 | 2023-03-17 | 2023-03-25 |
 | [How It Feels](https://open.spotify.com/track/0D8tYrylQeWsOJ5UIyF0sj) | [Jon Allen](https://open.spotify.com/artist/5ajIkPBUamM5hTDLtrpTBa) | [How It Feels](https://open.spotify.com/album/4wIS0aZIO3Yn5PuTeJ9LPB) | 3:23 | 2023-04-27 | 2023-05-05 |
 | [How Many Nights](https://open.spotify.com/track/0Nj0v1zGvDLgvhjLLzMzom) | [The Indien](https://open.spotify.com/artist/1M6DAgCuvRE1Ct0Tsq74Lb) | [How Many Nights](https://open.spotify.com/album/1f3LbA9R9kNKlj4EOE6kl9) | 3:20 | 2024-03-07 | 2024-03-15 |
+| [How Sweet](https://open.spotify.com/track/38tXZcL1gZRfbqfOG0VMTH) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [How Sweet](https://open.spotify.com/album/0EhZEM4RRz0yioTgucDhJq) | 3:39 | 2024-05-23 |  |
 | [How We Roll](https://open.spotify.com/track/7Fdhp8np9nZhsghO2VIPvJ) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [How We Roll](https://open.spotify.com/album/6QK3O5sAs6NJ8n3h8UssuZ) | 3:19 | 2023-08-03 | 2023-08-11 |
 | [How You Feel \(Ft\. Leven Kali\)](https://open.spotify.com/track/3Kwj07sN1wdzlRNMU8rNX0) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Erik Bandt](https://open.spotify.com/artist/4vhZgo4uiuMnCgnSJEb7yb), [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [How You Feel \(Ft\. Leven Kali\)](https://open.spotify.com/album/76AAYzJLL9rJHfOkPNAeB9) | 3:16 | 2024-04-19 | 2024-04-26 |
 | [How You Samba](https://open.spotify.com/track/3nyebfHIhsgRvUJd9wv3u1) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Tinie Tempah](https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp) | [How You Samba](https://open.spotify.com/album/7yTCyFCX4y3xymp5q65peJ) | 2:31 | 2023-05-11 | 2023-05-13 |
@@ -3297,6 +3298,7 @@
 | [Lost On You](https://open.spotify.com/track/3UtYoTwKcbwWoQQl6dt0EN) | [Cloud Cukkoo](https://open.spotify.com/artist/3bIIfcj0VjiKKPrJgA57Rg) | [Half\-Forgotten Dream](https://open.spotify.com/album/3sh64PUb3jcRCT0wf25Adv) | 3:28 | 2023-10-05 | 2023-10-13 |
 | [Lost The Breakup](https://open.spotify.com/track/13SfKfixPEDQBOYYtaY3Wh) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Lost The Breakup](https://open.spotify.com/album/60trS6aUorLG5ZBi1bWcz8) | 3:09 | 2023-03-30 | 2023-04-07 |
 | [Lost You to a Boy](https://open.spotify.com/track/3msE1wzzC277wpbWfFSxMZ) | [Sofie Winterson](https://open.spotify.com/artist/5pKrorYHoVt088MOxEhNLg) | [Lost You to a Boy](https://open.spotify.com/album/2iG9IAiMMswiP6Xd8NThV8) | 3:23 | 2023-05-04 | 2023-05-12 |
+| [LOST!](https://open.spotify.com/track/02H58MSfVESkKyx4diDgu7) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Right Place, Wrong Person](https://open.spotify.com/album/512dQp7hBbDDurodCqSw5I) | 3:53 | 2024-05-23 |  |
 | [Louder](https://open.spotify.com/track/2uNoq7Xuqo7wBBg1rU3Xjk) | [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [Louder](https://open.spotify.com/album/1oQupLohOrOigi27xo9qwf) | 3:49 | 2024-01-25 | 2024-02-02 |
 | [Louis Vitty](https://open.spotify.com/track/52bpMP45rQUZt3ZScK7VjB) | [Midas the Jagaban](https://open.spotify.com/artist/07MX7XJsNTn8JlgEcbZ7Fd), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Louis Vitty](https://open.spotify.com/album/6N04dmSFRnpaGexcUsM04O) | 3:38 | 2023-09-14 | 2023-09-22 |
 | [Louise \(feat\. Teitur\)](https://open.spotify.com/track/1ZeVc8ZvZsCzVZ532nr14a) | [eee gee](https://open.spotify.com/artist/7wwdO3koJONTrS5TtFJ8RN), [Teitur](https://open.spotify.com/artist/1lrjRRYpYP8kVTlHLShjJM) | [Louise \(feat\. Teitur\)](https://open.spotify.com/album/5JQlz2FPLZqgm4b0AgxRXS) | 3:29 | 2024-03-28 | 2024-04-05 |

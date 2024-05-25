@@ -1,12 +1,12 @@
 {
   "description": "Extra van je vrije tijd genieten voor jong en oud.",
-  "num_followers": 97546,
+  "num_followers": 97565,
   "original_name": "Quality Time",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZgqoPgAAAAC4/BH3XkZeD7NG0Q1ck7yS",
+  "snapshot_id": "ZlB7mgAAAABDGXBXDgeWNb0gQRzTTnYd",
   "tracks": [
     {
       "added_at": "2024-04-01 12:27:42",
@@ -3607,6 +3607,22 @@
     {
       "added_at": "2024-04-01 12:27:42",
       "album": {
+        "name": "Fickle Heart (Plus Two Bonus Cuts)",
+        "url": "https://open.spotify.com/album/0sXMbAJXXbkoJDbrbIiQgo"
+      },
+      "artists": [
+        {
+          "name": "Sniff 'n' The Tears",
+          "url": "https://open.spotify.com/artist/3EPScT793Qw5hkf8tvVpRV"
+        }
+      ],
+      "duration_ms": 240746,
+      "name": "Driver's Seat",
+      "url": "https://open.spotify.com/track/0fJFBbpUxTwjhh1ScBQjeX"
+    },
+    {
+      "added_at": "2024-04-01 12:27:42",
+      "album": {
         "name": "Celebrate (Greatest Hits)",
         "url": "https://open.spotify.com/album/7dKQCCQnnkqgRQFxKRDqkJ"
       },
@@ -3635,22 +3651,6 @@
       "duration_ms": 200579,
       "name": "Fire and Rain",
       "url": "https://open.spotify.com/track/3LcYYV9ozePfgYYmXv0P3r"
-    },
-    {
-      "added_at": "2024-04-01 12:27:42",
-      "album": {
-        "name": "Fickle Heart (Plus Two Bonus Cuts)",
-        "url": "https://open.spotify.com/album/0sXMbAJXXbkoJDbrbIiQgo"
-      },
-      "artists": [
-        {
-          "name": "Sniff 'n' The Tears",
-          "url": "https://open.spotify.com/artist/3EPScT793Qw5hkf8tvVpRV"
-        }
-      ],
-      "duration_ms": 240746,
-      "name": "Driver's Seat",
-      "url": "https://open.spotify.com/track/0fJFBbpUxTwjhh1ScBQjeX"
     },
     {
       "added_at": "2024-04-01 12:27:42",
@@ -3903,22 +3903,6 @@
     {
       "added_at": "2024-04-01 12:27:42",
       "album": {
-        "name": "Spirit Bird",
-        "url": "https://open.spotify.com/album/0PVkmVc7ds2uXTY0FE825K"
-      },
-      "artists": [
-        {
-          "name": "Xavier Rudd",
-          "url": "https://open.spotify.com/artist/5lbM4g6bhxjNX7R5QHP2nD"
-        }
-      ],
-      "duration_ms": 255493,
-      "name": "Follow the Sun",
-      "url": "https://open.spotify.com/track/2dkUbLShKMCuRqWSTyUdMp"
-    },
-    {
-      "added_at": "2024-04-01 12:27:42",
-      "album": {
         "name": "Ice On Fire (Remastered With Bonus Tracks)",
         "url": "https://open.spotify.com/album/77IyyuuRV7IDN1ri7mBEuI"
       },
@@ -3931,6 +3915,22 @@
       "duration_ms": 343240,
       "name": "Nikita",
       "url": "https://open.spotify.com/track/5lBI9isMBEHRn5Wxde058W"
+    },
+    {
+      "added_at": "2024-04-01 12:27:42",
+      "album": {
+        "name": "Spirit Bird",
+        "url": "https://open.spotify.com/album/0PVkmVc7ds2uXTY0FE825K"
+      },
+      "artists": [
+        {
+          "name": "Xavier Rudd",
+          "url": "https://open.spotify.com/artist/5lbM4g6bhxjNX7R5QHP2nD"
+        }
+      ],
+      "duration_ms": 255493,
+      "name": "Follow the Sun",
+      "url": "https://open.spotify.com/track/2dkUbLShKMCuRqWSTyUdMp"
     },
     {
       "added_at": "2024-04-01 12:27:42",

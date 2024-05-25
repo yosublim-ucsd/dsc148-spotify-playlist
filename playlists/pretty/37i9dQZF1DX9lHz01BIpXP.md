@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lHz01BIpXP.md) - [plain]
 
 > Die beste in Afrikaanse Hip Hop\. Cover: <a href="https://open.spotify.com/artist/6CzVcrDqwjvTDr3uxyNgWG?si=5\-3ltZAmQIajFl12I2zImA">Early B</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,556 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,558 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,20 +43,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lHz01BIpXP.md) - [plain]
 | 33 | [Violence \- Afrikaans Drill](https://open.spotify.com/track/6S9YhbxX3kHqUhYAoAR4Og) | [SwiinkBEATS.Ltd](https://open.spotify.com/artist/1CgMsuCR1kJBIHfmj2obaG), [KG Lucas](https://open.spotify.com/artist/0EapRyIBol6qpPBm7hPd9l) | [Violence \(Afrikaans Drill\)](https://open.spotify.com/album/0jObNX3R2nb3iYkuTDN8MN) | 3:40 |
 | 34 | [Hopeless](https://open.spotify.com/track/4pmnGONjm31Llig19zwpde) | [Marky Futurekid](https://open.spotify.com/artist/0VKwzWkYVBRwmyykRhCWFr) | [Hopeless](https://open.spotify.com/album/1Vpan89LcSJn14BVEq2DDD) | 3:03 |
 | 35 | [Way Back](https://open.spotify.com/track/527mz0huuO9JxDvSPitqzl) | [Cream Machine](https://open.spotify.com/artist/4LvxgCidcknysBR0fMgzSx) | [Way Back](https://open.spotify.com/album/6IKLbddOqFbBZQ6VQGwcDk) | 3:29 |
-| 36 | [Ek Sal Nie Lieg Nie](https://open.spotify.com/track/4reYk1zhvoQh4K78On9Y0h) | [KYLEO FROM THE WEST](https://open.spotify.com/artist/4DzGe30tm58us62vjtCIL7), [M.Jay](https://open.spotify.com/artist/6NSyRLnJIPll8pR2mRYRnl) | [Ek Sal Nie Lieg Nie](https://open.spotify.com/album/0P2QBEdQVwvUwQJXWVJ4mQ) | 2:31 |
-| 37 | [DIE LANIE](https://open.spotify.com/track/7DGKnYj1l9tUChMBAqpXh1) | [Madgas](https://open.spotify.com/artist/6SxrHxCHpyEIfdtUOQrkMH) | [DIE LANIE](https://open.spotify.com/album/6CqQqWzEOHGTYkZjrjGqAe) | 2:43 |
+| 36 | [DIE LANIE](https://open.spotify.com/track/7DGKnYj1l9tUChMBAqpXh1) | [Madgas](https://open.spotify.com/artist/6SxrHxCHpyEIfdtUOQrkMH) | [DIE LANIE](https://open.spotify.com/album/6CqQqWzEOHGTYkZjrjGqAe) | 2:43 |
+| 37 | [Ek Sal Nie Lieg Nie](https://open.spotify.com/track/4reYk1zhvoQh4K78On9Y0h) | [KYLEO FROM THE WEST](https://open.spotify.com/artist/4DzGe30tm58us62vjtCIL7), [M.Jay](https://open.spotify.com/artist/6NSyRLnJIPll8pR2mRYRnl) | [Ek Sal Nie Lieg Nie](https://open.spotify.com/album/0P2QBEdQVwvUwQJXWVJ4mQ) | 2:31 |
 | 38 | [OGlizzy](https://open.spotify.com/track/1NlWi9AEB4vB9z7MxoalXS) | [Jossi\-Boy](https://open.spotify.com/artist/4Ewat2VC8zABVgUA0YEXvY) | [OGlizzy](https://open.spotify.com/album/58cgGZyo8nD6zMFjdMfQFH) | 3:16 |
 | 39 | [Hou Vas](https://open.spotify.com/track/2hoT3UMzDU3FeeRDnL0lOD) | [Klein Fortuin](https://open.spotify.com/artist/7i6gIaTRv7iECLBF89Mdw5), [Illrow](https://open.spotify.com/artist/7CsyTb53IWkpe2j43VIsg7) | [Hou Vas](https://open.spotify.com/album/5JUHiZaI261mwUGVEUibNU) | 3:06 |
 | 40 | [Los Hom](https://open.spotify.com/track/7Iec6TaiOl3rOaqW3cTCfk) | [Wboy](https://open.spotify.com/artist/04JztP9AaI1fxKtfZ6eQVW) | [Forever](https://open.spotify.com/album/3XFk6y7qOGBONEP0C7Vlme) | 2:01 |
 | 41 | [Deh!](https://open.spotify.com/track/1PJqCEQSbxRaeWwDSlJBXJ) | [Epidemi](https://open.spotify.com/artist/4mb93T3CWJd1pKp2XAsp9K) | [Deh!](https://open.spotify.com/album/38J1BiT27OyRsI60572LsP) | 2:39 |
-| 42 | [Wat Ek Moet Doen](https://open.spotify.com/track/0xiM7s7YsjtNNjVLYiBVti) | [KYLEO FROM THE WEST](https://open.spotify.com/artist/4DzGe30tm58us62vjtCIL7) | [Wat Ek Moet Doen](https://open.spotify.com/album/3N574squ1VAtisezwlbE8s) | 2:22 |
-| 43 | [Sal Alright is](https://open.spotify.com/track/2tNf5CIEfQ0FNIXereIvAQ) | [Shameel Afrikaans Music](https://open.spotify.com/artist/5JVEUKZM50V4pnjV8Rv6Yl), [BIGDMUZIC](https://open.spotify.com/artist/5SILa3QBUig6bmSsaCHIur) | [Sal Alright is](https://open.spotify.com/album/30XOqBXKgS6q4rHt4oeCDL) | 4:12 |
-| 44 | [Dus Okay](https://open.spotify.com/track/2ySsXPwpuDV1SMyZ68JYUs) | [Marky Futurekid](https://open.spotify.com/artist/0VKwzWkYVBRwmyykRhCWFr), [Jovie](https://open.spotify.com/artist/0vK7SrJ0Xm55soTAi4DE37), [EmGee](https://open.spotify.com/artist/7tztZahujREhfsctTM4czq) | [Dus Okay](https://open.spotify.com/album/4b47ILddnlUFGMyhSvvuZt) | 3:19 |
-| 45 | [Da Money](https://open.spotify.com/track/2PpXTeSSxwZ3CfqI1or0wM) | [Jossi\-Boy](https://open.spotify.com/artist/4Ewat2VC8zABVgUA0YEXvY), [Cee Jay Zondagh](https://open.spotify.com/artist/3GWLfJPjLRZdlKUoVzUZ9a) | [Da Money](https://open.spotify.com/album/3adAOGcOj3SiDgZcExb9bN) | 3:44 |
-| 46 | [Trap In Die Hood](https://open.spotify.com/track/1knJxiQusxbgHW0oKjwOym) | [Cee Jay Zondagh](https://open.spotify.com/artist/4VmAlrF7izp3l9EaOzSedM) | [Big Cee](https://open.spotify.com/album/59W9gdp4g28mnEy5KAXnmz) | 3:25 |
-| 47 | [4EvR](https://open.spotify.com/track/7gEtSGK5PaKgh0gbT1oEXz) | [Hxnry](https://open.spotify.com/artist/5dtikmaABYcNvQG4d5zfUQ) | [4EvR](https://open.spotify.com/album/5rEvOfwPXeii3VdzsIIWlN) | 1:28 |
-| 48 | [Klaar Praat](https://open.spotify.com/track/6knLuTcyJUQHrQCM74FqQI) | [KYLEO FROM THE WEST](https://open.spotify.com/artist/4DzGe30tm58us62vjtCIL7), [G\-BONE](https://open.spotify.com/artist/0e0QFpFodxO9NMBJnWdfBi) | [Klaar Praat](https://open.spotify.com/album/7gbz82FKLF2FPRBGKiyBI5) | 2:08 |
-| 49 | [3 Eye](https://open.spotify.com/track/4j9VeWjzXx53kdf4u5T7p6) | [G.1 J03 71D4](https://open.spotify.com/artist/2VhbbO8bvfyKQCa1nmKYN6) | [3 Eye](https://open.spotify.com/album/7nib0P6SMbUAc46envB1mf) | 3:36 |
-| 50 | [Broke](https://open.spotify.com/track/4DaJv3w5BZrsj5eLgDWsEK) | [Demo Ricch](https://open.spotify.com/artist/48pSu0n4jTo1FRkZXZNBcY) | [Broke](https://open.spotify.com/album/39JjyQmeNvnbFwNkOHIBQw) | 3:08 |
+| 42 | [Sal Alright is](https://open.spotify.com/track/2tNf5CIEfQ0FNIXereIvAQ) | [Shameel Afrikaans Music](https://open.spotify.com/artist/5JVEUKZM50V4pnjV8Rv6Yl), [BIGDMUZIC](https://open.spotify.com/artist/5SILa3QBUig6bmSsaCHIur) | [Sal Alright is](https://open.spotify.com/album/30XOqBXKgS6q4rHt4oeCDL) | 4:12 |
+| 43 | [Dus Okay](https://open.spotify.com/track/2ySsXPwpuDV1SMyZ68JYUs) | [Marky Futurekid](https://open.spotify.com/artist/0VKwzWkYVBRwmyykRhCWFr), [Jovie](https://open.spotify.com/artist/0vK7SrJ0Xm55soTAi4DE37), [EmGee](https://open.spotify.com/artist/7tztZahujREhfsctTM4czq) | [Dus Okay](https://open.spotify.com/album/4b47ILddnlUFGMyhSvvuZt) | 3:19 |
+| 44 | [Da Money](https://open.spotify.com/track/2PpXTeSSxwZ3CfqI1or0wM) | [Jossi\-Boy](https://open.spotify.com/artist/4Ewat2VC8zABVgUA0YEXvY), [Cee Jay Zondagh](https://open.spotify.com/artist/3GWLfJPjLRZdlKUoVzUZ9a) | [Da Money](https://open.spotify.com/album/3adAOGcOj3SiDgZcExb9bN) | 3:44 |
+| 45 | [Trap In Die Hood](https://open.spotify.com/track/1knJxiQusxbgHW0oKjwOym) | [Cee Jay Zondagh](https://open.spotify.com/artist/4VmAlrF7izp3l9EaOzSedM) | [Big Cee](https://open.spotify.com/album/59W9gdp4g28mnEy5KAXnmz) | 3:25 |
+| 46 | [4EvR](https://open.spotify.com/track/7gEtSGK5PaKgh0gbT1oEXz) | [Hxnry](https://open.spotify.com/artist/5dtikmaABYcNvQG4d5zfUQ) | [4EvR](https://open.spotify.com/album/5rEvOfwPXeii3VdzsIIWlN) | 1:28 |
+| 47 | [Wat Ek Moet Doen](https://open.spotify.com/track/0xiM7s7YsjtNNjVLYiBVti) | [KYLEO FROM THE WEST](https://open.spotify.com/artist/4DzGe30tm58us62vjtCIL7) | [Wat Ek Moet Doen](https://open.spotify.com/album/3N574squ1VAtisezwlbE8s) | 2:22 |
+| 48 | [3 Eye](https://open.spotify.com/track/4j9VeWjzXx53kdf4u5T7p6) | [G.1 J03 71D4](https://open.spotify.com/artist/2VhbbO8bvfyKQCa1nmKYN6) | [3 Eye](https://open.spotify.com/album/7nib0P6SMbUAc46envB1mf) | 3:36 |
+| 49 | [Broke](https://open.spotify.com/track/4DaJv3w5BZrsj5eLgDWsEK) | [Demo Ricch](https://open.spotify.com/artist/48pSu0n4jTo1FRkZXZNBcY) | [Broke](https://open.spotify.com/album/39JjyQmeNvnbFwNkOHIBQw) | 3:08 |
+| 50 | [So Laatie Dou](https://open.spotify.com/track/70AYbxLFIm9Y5jhocOiV0Y) | [Terror MC](https://open.spotify.com/artist/1yZbqrCBkdHJ2bewe0HEHG) | [So Laatie Dou](https://open.spotify.com/album/1V91ZIjl4e6pcEp8C1Fr0T) | 2:40 |
 
 Snapshot ID: `Zk+8YAAAAABGxlJ47PneJlfpPY0V3mG0`

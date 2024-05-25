@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzp8aTdsnVq.md) - [plain]
 
 > Honrando a la leyenda vallenata y compositor de 1000 canciones\. Hasta siempre, Omar Geles 🪗
 
-[Spotify](https://open.spotify.com/user/spotify) - 344,500 likes - 60 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 345,575 likes - 60 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,13 +30,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzp8aTdsnVq.md) - [plain]
 | 20 | [Cambiare](https://open.spotify.com/track/4lggFo9nivXVGnIELKieNb) | [Patricia Teherán](https://open.spotify.com/artist/2pctdrQetn7EI0QpCm9RIF) | [Adiós A La Diosa](https://open.spotify.com/album/6j5jg92wHBLq4c96hO8nIB) | 3:58 |
 | 21 | [Por Gustarte](https://open.spotify.com/track/2bOLBSNYbh7MBZYDiUh7oN) | [Jorge Celedón](https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek), [Jimmy Zambrano](https://open.spotify.com/artist/3uKiTiDNyvbeVE5zlM4Zlj) | [Canto Vallenato](https://open.spotify.com/album/1nbW9IiNSMm4saZxmma99d) | 4:30 |
 | 22 | [BACANO](https://open.spotify.com/track/4lHjc7jgioQhACpJADMsED) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e) | ['TA MALO](https://open.spotify.com/album/75BaMB8qvdrjZrIYwRBNOZ) | 3:10 |
-| 23 | [La Juma](https://open.spotify.com/track/0GHpkjLnZpTcZ7ltzmYy7c) | [La Banda del 5](https://open.spotify.com/artist/3fwLvzwmgJkUwtn9YmpTiB) | [La Juma](https://open.spotify.com/album/13hIUugv4LXUG6PITBdZiE) | 4:38 |
-| 24 | [Cupido](https://open.spotify.com/track/26PCa9oiL7a8frOxeo4G52) | [Diego Daza](https://open.spotify.com/artist/6Rx5xY11vfnmOp312VzXMc), [Carlos Rueda](https://open.spotify.com/artist/7LVgdS3biF4E0taTah5GEW) | [A To' Timbal](https://open.spotify.com/album/62XE6gFwbqHghQwsifIVyO) | 3:26 |
-| 25 | [Modo Avión](https://open.spotify.com/track/0hkMAFDOIP6whke8ckr0bs) | [Elder Dayán Díaz](https://open.spotify.com/artist/0w8jfjckFjwtKLRkX9NT2K), [Lucas Dangond](https://open.spotify.com/artist/3ozq7y6TMdWzUMc27vzFMX) | [Para Ustedes](https://open.spotify.com/album/1JfE5rJHaf1orCmnwtEDHd) | 3:42 |
-| 26 | [Sin Medir Distancia](https://open.spotify.com/track/7yx473uSOxKxtrtarfAVde) | [Diomedes Diaz](https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG) | [Diomedes Vive](https://open.spotify.com/album/19vByA1IlHGAogr4eeqier) | 5:01 |
-| 27 | [Ya Pa Que](https://open.spotify.com/track/3Q7equZktTSZJ3KBytS4cX) | [Churo Diaz](https://open.spotify.com/artist/35hWXzGwF4IR8nRicL7jey), [Elías Mendoza](https://open.spotify.com/artist/0oniumgsmbuItH1l6O8vER) | [Único](https://open.spotify.com/album/06wq8hSeOt7YNj8LeJX5Nz) | 4:13 |
-| 28 | [Amantes](https://open.spotify.com/track/0rm6Ey3w4PrWdRac85vXN7) | [Elder Dayán Díaz](https://open.spotify.com/artist/0w8jfjckFjwtKLRkX9NT2K), [Rolando Ochoa](https://open.spotify.com/artist/0VWoer2RDTKY4Sr9U93QTJ) | [El Disco Que Me Gusta](https://open.spotify.com/album/3rH6YMIS5KlgGrFRKumNrN) | 3:45 |
-| 29 | [Bandolera](https://open.spotify.com/track/66RZtIysZkIVCVwfVDxC2T) | [La Banda del 5](https://open.spotify.com/artist/3fwLvzwmgJkUwtn9YmpTiB), [Alberto Kammerer](https://open.spotify.com/artist/5PZgiiLyMOIQxO8oUdR6sl) | [Bandolera](https://open.spotify.com/album/2JxZO69Tr7zwmhQyoEEjYS) | 4:11 |
+| 23 | [PODER FEMENINO](https://open.spotify.com/track/0YnARtjkCPRfMX4qEkrVBb) | [Karen Lizarazo](https://open.spotify.com/artist/6Xiry0W18NKRSiFwXi4zjV) | [MUJERES](https://open.spotify.com/album/0R0MHbY0NdwLWCBwfShrpS) | 3:42 |
+| 24 | [La Juma](https://open.spotify.com/track/0GHpkjLnZpTcZ7ltzmYy7c) | [La Banda del 5](https://open.spotify.com/artist/3fwLvzwmgJkUwtn9YmpTiB) | [La Juma](https://open.spotify.com/album/13hIUugv4LXUG6PITBdZiE) | 4:38 |
+| 25 | [Cupido](https://open.spotify.com/track/26PCa9oiL7a8frOxeo4G52) | [Diego Daza](https://open.spotify.com/artist/6Rx5xY11vfnmOp312VzXMc), [Carlos Rueda](https://open.spotify.com/artist/7LVgdS3biF4E0taTah5GEW) | [A To' Timbal](https://open.spotify.com/album/62XE6gFwbqHghQwsifIVyO) | 3:26 |
+| 26 | [Modo Avión](https://open.spotify.com/track/0hkMAFDOIP6whke8ckr0bs) | [Elder Dayán Díaz](https://open.spotify.com/artist/0w8jfjckFjwtKLRkX9NT2K), [Lucas Dangond](https://open.spotify.com/artist/3ozq7y6TMdWzUMc27vzFMX) | [Para Ustedes](https://open.spotify.com/album/1JfE5rJHaf1orCmnwtEDHd) | 3:42 |
+| 27 | [Sin Medir Distancia](https://open.spotify.com/track/7yx473uSOxKxtrtarfAVde) | [Diomedes Diaz](https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG) | [Diomedes Vive](https://open.spotify.com/album/19vByA1IlHGAogr4eeqier) | 5:01 |
+| 28 | [Ya Pa Que](https://open.spotify.com/track/3Q7equZktTSZJ3KBytS4cX) | [Churo Diaz](https://open.spotify.com/artist/35hWXzGwF4IR8nRicL7jey), [Elías Mendoza](https://open.spotify.com/artist/0oniumgsmbuItH1l6O8vER) | [Único](https://open.spotify.com/album/06wq8hSeOt7YNj8LeJX5Nz) | 4:13 |
+| 29 | [Amantes](https://open.spotify.com/track/0rm6Ey3w4PrWdRac85vXN7) | [Elder Dayán Díaz](https://open.spotify.com/artist/0w8jfjckFjwtKLRkX9NT2K), [Rolando Ochoa](https://open.spotify.com/artist/0VWoer2RDTKY4Sr9U93QTJ) | [El Disco Que Me Gusta](https://open.spotify.com/album/3rH6YMIS5KlgGrFRKumNrN) | 3:45 |
 | 30 | [La Rompecorazones](https://open.spotify.com/track/2aXgU9biHn0rIrBapROjNI) | [La Banda del 5](https://open.spotify.com/artist/3fwLvzwmgJkUwtn9YmpTiB), [Alberto Kammerer](https://open.spotify.com/artist/5PZgiiLyMOIQxO8oUdR6sl) | [Se Va Formando](https://open.spotify.com/album/36jTX86gCCKfkKpzIPLQ7W) | 3:52 |
 | 31 | [Ilusiones](https://open.spotify.com/track/2jHaeV9nx3KARH8srHZFER) | [Diomedes Diaz](https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG), [Franco Argüelles](https://open.spotify.com/artist/66pMOS7QsO8moXgL0Zza6q) | [Experiencias Vividas](https://open.spotify.com/album/7jN66YGPSXc7ibUmQHqsWq) | 4:32 |
 | 32 | [No Te Vayas](https://open.spotify.com/track/1tSA4yV2AisiGnZiVz5uux) | [Los Diablitos](https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd) | [Version Original](https://open.spotify.com/album/3bdzKN0XxINusa0DO7DRLo) | 4:56 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzp8aTdsnVq.md) - [plain]
 | 59 | [Difícil de Igualar](https://open.spotify.com/track/3vD0lvTizLj1jr8QE75Y9x) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Grandes Hits](https://open.spotify.com/album/29Jat1EcKzilBPkmmd1d3R) | 5:03 |
 | 60 | [Ya No Me Duele Más](https://open.spotify.com/track/0n2npnG9p4XnPAopv39USd) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e) | [Ya No Me Duele Más](https://open.spotify.com/album/0eUcBIlIkSckfugOOwJLkL) | 3:46 |
 
-Snapshot ID: `Zk43LAAAAACPTiG3D63NHauHW5AceUpB`
+Snapshot ID: `ZlAelAAAAABJTDOnK7f7710t5f8RK2Jm`

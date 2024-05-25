@@ -250,7 +250,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 166110,
       "name": "Afuera Que Tengan Miedo - Jayrick Remix",
       "url": "https://open.spotify.com/track/3Sualy9gkVDHDgOKcTJgFd"
@@ -1036,6 +1036,28 @@
       "duration_ms": 164494,
       "name": "Atrapado En La Rutina",
       "url": "https://open.spotify.com/track/7HQEiku5JYDQT7s32SNf4I"
+    },
+    {
+      "album": {
+        "name": "Avenida de los Pobres",
+        "url": "https://open.spotify.com/album/3T3ggAcuQvQfS9kdO9ZNbr"
+      },
+      "artists": [
+        {
+          "name": "Htorrez",
+          "url": "https://open.spotify.com/artist/0QBVCVJffg7PDDSDvO8kne"
+        },
+        {
+          "name": "Solitario Mondragon",
+          "url": "https://open.spotify.com/artist/4KXpp5lz2MakNFcTszi2B9"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244399,
+      "name": "Avenida de los Pobres",
+      "url": "https://open.spotify.com/track/77Dze8YZ8kp2OwqaaMzCEP"
     },
     {
       "album": {
@@ -2218,7 +2240,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 159600,
       "name": "Confundido",
       "url": "https://open.spotify.com/track/1YrgSEIWCCZSgBmeo8ZmPL"
@@ -2713,6 +2735,28 @@
     },
     {
       "album": {
+        "name": "De Nada Somos Due\u00f1os",
+        "url": "https://open.spotify.com/album/72qKliFsqj1S9vmsAxP2NZ"
+      },
+      "artists": [
+        {
+          "name": "FK In The Beats",
+          "url": "https://open.spotify.com/artist/02tSgGoPaKu9vDTA30O6Wd"
+        },
+        {
+          "name": "union fatal",
+          "url": "https://open.spotify.com/artist/3oIk1qSjFp5QrM6R44cqbL"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240009,
+      "name": "De Nada Somos Due\u00f1os",
+      "url": "https://open.spotify.com/track/2KUVGvl6RnbstW8F2YkDmQ"
+    },
+    {
+      "album": {
         "name": "De Niro",
         "url": "https://open.spotify.com/album/3g54wS3nIA94mvCwrE4LQ5"
       },
@@ -3138,7 +3182,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 231177,
       "name": "El Bols\u00f3n",
       "url": "https://open.spotify.com/track/56BnSpQ60kTtOt415JTRoD"
@@ -4348,6 +4392,28 @@
       "duration_ms": 234000,
       "name": "Gangstas",
       "url": "https://open.spotify.com/track/5uYbDOI7HansBkIAnRbbmt"
+    },
+    {
+      "album": {
+        "name": "Gimme A Second",
+        "url": "https://open.spotify.com/album/01wFnLBPNdYcg05kJDkdbQ"
+      },
+      "artists": [
+        {
+          "name": "Rich The Kid",
+          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173067,
+      "name": "Gimme A Second",
+      "url": "https://open.spotify.com/track/1xcMA2bFuMseSFaJgpSeXx"
     },
     {
       "album": {
@@ -5829,6 +5895,24 @@
     },
     {
       "album": {
+        "name": "Lo Necesario",
+        "url": "https://open.spotify.com/album/7oFDq5F8UqiT8u8FDNZT5e"
+      },
+      "artists": [
+        {
+          "name": "Robot95",
+          "url": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "Lo Necesario",
+      "url": "https://open.spotify.com/track/5flMyPH1w2R5arUxk0M17u"
+    },
+    {
+      "album": {
         "name": "Lo Que Quieran (feat. Trono Mob & Missound)",
         "url": "https://open.spotify.com/album/3NiACEHYJQM5Q0S8ZlBOA7"
       },
@@ -5952,6 +6036,28 @@
       "duration_ms": 318947,
       "name": "Luna",
       "url": "https://open.spotify.com/track/0URC8f5QD7uSczpqc4Z4Vn"
+    },
+    {
+      "album": {
+        "name": "Luz & Control",
+        "url": "https://open.spotify.com/album/5jaqnjweKla9QvdJczbEth"
+      },
+      "artists": [
+        {
+          "name": "Santa Suerte",
+          "url": "https://open.spotify.com/artist/1eblaVtbXUDGr90qMXfqAa"
+        },
+        {
+          "name": "Astrid Cruz",
+          "url": "https://open.spotify.com/artist/1WhuV4MAbMhWKjYXojKN8i"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219071,
+      "name": "Luz & Control",
+      "url": "https://open.spotify.com/track/6QxO8EqxdnOlDmrRvshxX3"
     },
     {
       "album": {
@@ -6462,7 +6568,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 214168,
       "name": "Mexikan",
       "url": "https://open.spotify.com/track/2CQQm6eZY2ZeLQPDZvvBmm"
@@ -9026,7 +9132,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 214736,
       "name": "Retumbando en la Ciudad",
       "url": "https://open.spotify.com/track/729kMWkfzHPcum2dMczWoa"
@@ -9350,7 +9456,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 300000,
       "name": "Sangre Latina",
       "url": "https://open.spotify.com/track/6UFSmkCAWAX3dt85f1TBNA"
@@ -9822,6 +9928,24 @@
       "duration_ms": 265617,
       "name": "Sin Rap No Hay Vida",
       "url": "https://open.spotify.com/track/3dKrmQJqytKDhScy0KlVut"
+    },
+    {
+      "album": {
+        "name": "Sin Sendero",
+        "url": "https://open.spotify.com/album/2ANVtDVy4ib21lbrZJLK2C"
+      },
+      "artists": [
+        {
+          "name": "Faruz Feet",
+          "url": "https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213646,
+      "name": "Sin Sendero",
+      "url": "https://open.spotify.com/track/20G6EzPINihLGvToMI49Dd"
     },
     {
       "album": {

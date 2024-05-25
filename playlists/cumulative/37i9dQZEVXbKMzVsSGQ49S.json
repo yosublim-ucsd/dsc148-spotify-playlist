@@ -1689,6 +1689,32 @@
     },
     {
       "album": {
+        "name": "Amor Diferente (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5J8HTgNywN4142FNZ79TDa"
+      },
+      "artists": [
+        {
+          "name": "Thiago e Samuel",
+          "url": "https://open.spotify.com/artist/47G1BLjQOWOwr75duaf1QC"
+        },
+        {
+          "name": "Simone Mendes",
+          "url": "https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3"
+        },
+        {
+          "name": "Os Parazim",
+          "url": "https://open.spotify.com/artist/0jhNzTzC1CZaf2FFgBVCMT"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175903,
+      "name": "Amor Diferente - Ao Vivo",
+      "url": "https://open.spotify.com/track/1BpnfIGAoWr04mls61Hf5n"
+    },
+    {
+      "album": {
         "name": "Pink Tape",
         "url": "https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz"
       },
@@ -3792,6 +3818,24 @@
       "duration_ms": 191364,
       "name": "Bl\u00f3\u00f0ugt b\u00far",
       "url": "https://open.spotify.com/track/7MW1qsWATTjc6nSX4cnoIe"
+    },
+    {
+      "album": {
+        "name": "Boca Beba (Ao Vivo)",
+        "url": "https://open.spotify.com/album/56k96HNVpKHDfarUwXMFg9"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Moura & Rafael",
+          "url": "https://open.spotify.com/artist/2KZFvVVk9lxD85USaOv76T"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153865,
+      "name": "Boca Beba (Ao Vivo)",
+      "url": "https://open.spotify.com/track/6P8OpxLp3ILo8iHXClO5Il"
     },
     {
       "album": {
@@ -7162,7 +7206,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 195748,
       "name": "Digitando",
       "url": "https://open.spotify.com/track/3QpDKVHmf9RDQkJbAUNWzI"
@@ -8184,6 +8228,24 @@
       "duration_ms": 199120,
       "name": "D\u00fdr\u00f0 \u00ed dau\u00f0a\u00fe\u00f6gn",
       "url": "https://open.spotify.com/track/5faV3B9PfIOabLD8PPUAxo"
+    },
+    {
+      "album": {
+        "name": "Uma Nova Hist\u00f3ria (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7zlrNdgfJERc7xtQKxpTtz"
+      },
+      "artists": [
+        {
+          "name": "Fabiano Henrique",
+          "url": "https://open.spotify.com/artist/6HVdQVEWZVpMNIp48n6A0r"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199648,
+      "name": "E a Saudade - Ao Vivo",
+      "url": "https://open.spotify.com/track/1r0FyC5sQQhXZvxlJYsH6p"
     },
     {
       "album": {
@@ -10908,7 +10970,7 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 228965,
       "name": "Fortnight (feat. Post Malone)",
       "url": "https://open.spotify.com/track/2OzhQlSqBEmt7hmkYxfT6m"
@@ -11172,7 +11234,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 125852,
       "name": "Frost er \u00fati fuglinn minn",
       "url": "https://open.spotify.com/track/1sgn8wmK2kuJrF9ppsnH2F"
@@ -31501,6 +31563,24 @@
     },
     {
       "album": {
+        "name": "S\u00f3 n\u00e3o dou meu celular",
+        "url": "https://open.spotify.com/album/5Q9X5b2s3zeKjskcXzSs2l"
+      },
+      "artists": [
+        {
+          "name": "Vitor Amaral",
+          "url": "https://open.spotify.com/artist/5BR3g7k0JOUJFIwnJsYpuT"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116818,
+      "name": "S\u00f3 n\u00e3o dou meu celular",
+      "url": "https://open.spotify.com/track/0HBhrMK1qmOKA2ZLFv2YmU"
+    },
+    {
+      "album": {
         "name": "Garg",
         "url": "https://open.spotify.com/album/6iw2nPSojDVNCULFudEtSr"
       },
@@ -33560,7 +33640,7 @@
       ],
       "date_added": "2024-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 228266,
       "name": "Type Shit",
       "url": "https://open.spotify.com/track/28drn6tQo95MRvO0jQEo5C"

@@ -2,9 +2,9 @@
 
 ### [Biso Na Biso](https://open.spotify.com/playlist/37i9dQZF1DX8d57cbyhqPM)
 
-> Du Congo, au monde\. 🌍 Photo: Dadju et Tayc
+> Du Congo, au monde\. 🌍 Photo: Tontons BOLEMVN, KeBlack et Naza
 
-381 songs - 23 hr 7 min
+382 songs - 23 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,7 @@
 | [Dendisa](https://open.spotify.com/track/4pCgqcgvfx0VQwzgzY63Vw) | [Gaz Mawete](https://open.spotify.com/artist/4WSA56zRr2ZBnbQqVNrMay), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Dendisa](https://open.spotify.com/album/1uSSXiCyplT46MTqfia54L) | 4:06 | 2023-05-19 |  |
 | [Destiny](https://open.spotify.com/track/6GSExS8Qhs4M1sutLM4tAf) | [Ryan De La Cruz](https://open.spotify.com/artist/0hascI4XWSMRTdWgdxNI8T) | [Destiny](https://open.spotify.com/album/0L5PgMi5IUZ3UN0LE3ZfaN) | 2:23 | 2023-05-05 | 2023-06-10 |
 | [Determine](https://open.spotify.com/track/4UkJjtS8GCk1A0KDhV0K79) | [Rui Reis Maia](https://open.spotify.com/artist/2Wgx2i22tok6zOYMXfV5Ug), [ALBI X](https://open.spotify.com/artist/4RbGljqjA1uq3D5Og5AE56) | [White Berry \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5o4UdtYpFLzBSGIuAPiBDU) | 1:32 | 2022-07-29 | 2023-03-18 |
-| [Diamant](https://open.spotify.com/track/6KUZmPHPg2SGrINq8SVLI7) | [MASIDI](https://open.spotify.com/artist/2ZfpJTfi4q60zRUFWhll73), [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [Diamant](https://open.spotify.com/album/6Tseko2czwOTsBe4A3ST5W) | 2:48 | 2023-07-14 |  |
+| [Diamant](https://open.spotify.com/track/6KUZmPHPg2SGrINq8SVLI7) | [MASIDI](https://open.spotify.com/artist/2ZfpJTfi4q60zRUFWhll73), [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [Diamant](https://open.spotify.com/album/6Tseko2czwOTsBe4A3ST5W) | 2:48 | 2023-07-14 | 2024-05-25 |
 | [Diemba \(Balançoire\) \- Générique](https://open.spotify.com/track/423bpv5RaWC3xEm2j2iAjv) | [Werrason](https://open.spotify.com/artist/3aU2pbMucMTW4NYF3ISuVO) | [7 jours de la semaine](https://open.spotify.com/album/2rmeu6hYfpX84iyOKLjzsy) | 5:31 | 2022-06-30 | 2023-10-29 |
 | [Dindon](https://open.spotify.com/track/6qPNkMZwvdlUUD3s1fXDQs) | [Love Lokombe](https://open.spotify.com/artist/1oiTM6RUjVUAmDXDpbv6ob), [Moonshine](https://open.spotify.com/artist/6uZcG9ex8hJKEo3XUyMxEX) | [Dindon](https://open.spotify.com/album/0GqeIb1eJrv7ihFpVb0y7z) | 4:05 | 2022-06-30 | 2023-04-01 |
 | [Dior \- Remix](https://open.spotify.com/track/0qMTefNvgkvCO9cQ4feQSe) | [IDPizzle](https://open.spotify.com/artist/3tHfJUWTW4xMGVrUuFD7DC) | [Dior \(Remix\)](https://open.spotify.com/album/6sZZqxemLuzmPWZiW6PFGu) | 3:46 | 2022-06-30 | 2023-02-04 |
@@ -105,6 +105,7 @@
 | [Do Me Like](https://open.spotify.com/track/4nQxcx1puImaEuSbglXFvt) | [AFROWAVETO](https://open.spotify.com/artist/7rlNBe6IerXXD6HTOaC9Q2), [Teebee](https://open.spotify.com/artist/29oxPTcfjSkPeXI3P5eP7B), [Kris Hans](https://open.spotify.com/artist/3pV4mFQfwj3coygDws7OTd), [Cloclo claudel](https://open.spotify.com/artist/4mHCo8XXxd4a2mSVAQwrxV) | [Do Me Like](https://open.spotify.com/album/0OqBGMazZrMYgRmmhPuvTO) | 3:45 | 2022-08-19 | 2022-09-03 |
 | [Dodo \- Remix](https://open.spotify.com/track/0xX55NB90iv1LGAosfkmqO) | [Gino J](https://open.spotify.com/artist/4cAltlzViWaH9SL0RKlrED), [Gaz Mawete](https://open.spotify.com/artist/4WSA56zRr2ZBnbQqVNrMay) | [Dodo \(Remix\)](https://open.spotify.com/album/7E3aU7OQ0sWpAY46h3TRfh) | 2:36 | 2023-02-17 | 2023-11-18 |
 | [Dolce & Gabbana](https://open.spotify.com/track/6qFbHaZFzOrX5wKSbu1vvx) | [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86) | [Dolce & Gabbana](https://open.spotify.com/album/0MazTQ41JWkYdlPLzXQN3j) | 2:54 | 2023-03-31 | 2023-09-09 |
+| [Double appel](https://open.spotify.com/track/1O8JyjQbRtGDNCaKbyvWPl) | [BOLEMVN](https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7), [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86), [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [47°](https://open.spotify.com/album/2u1FFQgZEDlhdQtXVqjaw4) | 2:24 | 2024-05-24 |  |
 | [Doucement](https://open.spotify.com/track/3y7t7hnu9bIv7IIH2rBfrC) | [Rolls Des Nuances](https://open.spotify.com/artist/0qlAmqdnILTjaNXi0uoHaM), [Still Fresh](https://open.spotify.com/artist/3AGggQTwJaSofLcpDlYhV4) | [Doucement](https://open.spotify.com/album/0RnNLpEuu508N7UcgndkBf) | 2:48 | 2022-12-16 | 2023-07-22 |
 | [Dubai](https://open.spotify.com/track/3Jg3zb38h4kPxF0FnOseFU) | [Samarino](https://open.spotify.com/artist/3rIS2pZczFmGjl4LVxelm7), [Koffi Olomide](https://open.spotify.com/artist/7e14Bh8oZXNRmZxjhhTARb) | [Dubai](https://open.spotify.com/album/0DNol5cKf3k5lqtcGGTizD) | 3:18 | 2022-12-30 | 2023-08-26 |
 | [Duda](https://open.spotify.com/track/2fCkFI19Md79sMg9lyZSxq) | [Tito Monako](https://open.spotify.com/artist/0QjXhvnUioV2bhmMRcOvPE) | [Duda](https://open.spotify.com/album/1ZZpj2GgG8vw6Gj4Jo2OAD) | 5:40 | 2022-07-15 | 2022-11-26 |

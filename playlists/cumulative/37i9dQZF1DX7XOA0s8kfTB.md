@@ -4,7 +4,7 @@
 
 > Music from “Girls Band Cry” / アニメ『<a href="https://girls\-band\-cry.com/">ガールズバンドクライ</a>』を彩る数々の楽曲達がここに。怒りも喜びも哀しさも全部ぶちこめ。  ©東映アニメーション
 
-37 songs - 1 hr 39 min
+38 songs - 1 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Ba\. ルパ ボイスメッセージ](https://open.spotify.com/track/19jDmN4iPdxdKIgnAQkRqC) | [「ガールズバンドクライ」](https://open.spotify.com/artist/6XbhByybHgZbtvlEnCSrL1) | [Ba\. ルパ ボイスメッセージ](https://open.spotify.com/album/7gk75EjUFhKFdRWPsF4HU1) | 1:01 | 2024-04-06 |  |
 | [Bleeding Hearts](https://open.spotify.com/track/6XjjysW84F31LxB5GDVbZ8) | [トゲナシトゲアリ](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [Bleeding Hearts](https://open.spotify.com/album/55YkdMjpfnqPo2zIFux1BJ) | 3:41 | 2024-04-04 | 2024-04-19 |
 | [Dr\. 安和 すばる ボイスメッセージ](https://open.spotify.com/track/4AWPsoNGuc7tKwIRKIBGog) | [「ガールズバンドクライ」](https://open.spotify.com/artist/6XbhByybHgZbtvlEnCSrL1) | [Dr\. 安和 すばる ボイスメッセージ](https://open.spotify.com/album/4yoHtdI2CP1VspPyjiElfg) | 0:52 | 2024-04-04 |  |
+| [ETERNAL FLAME 〜空の箱〜](https://open.spotify.com/track/3Gl3gfLfll4OqTvcdj8BfB) | [ダイヤモンドダスト](https://open.spotify.com/artist/2Q0v7CWY0hXuqRX8NZ6REp) | [ETERNAL FLAME 〜空の箱〜](https://open.spotify.com/album/5N26EVvRXe1T7uZTpnpTjr) | 3:24 | 2024-05-24 |  |
 | [Gt\. 河原木 桃香 ボイスメッセージ](https://open.spotify.com/track/1rJ6e59hoGbP02eDTWIy1B) | [「ガールズバンドクライ」](https://open.spotify.com/artist/6XbhByybHgZbtvlEnCSrL1) | [Gt\. 河原木 桃香 ボイスメッセージ](https://open.spotify.com/album/1GqmnFpcDw0XsWXY5gJwPf) | 1:10 | 2024-04-04 |  |
 | [Hurtful & Painful](https://open.spotify.com/track/467gpRaK1LVLotoTYvNuhO) | [トゲナシトゲアリ](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [Hurtful & Painful](https://open.spotify.com/album/6QZM176HJrHekEwVD4j6mz) | 3:16 | 2024-04-04 | 2024-04-19 |
 | [I'm Nobody](https://open.spotify.com/track/0QRni3sVIyJ2BF3fqdGr6h) | [トゲナシトゲアリ](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [I'm Nobody](https://open.spotify.com/album/6cTfEqAW6DqlUzxnWnNsQB) | 3:09 | 2024-04-12 | 2024-04-19 |

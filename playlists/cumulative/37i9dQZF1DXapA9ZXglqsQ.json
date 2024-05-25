@@ -1033,6 +1033,32 @@
     },
     {
       "album": {
+        "name": "Joe Hisaishi: Viola Saga: Movement 1 (Pt. 1)",
+        "url": "https://open.spotify.com/album/1dFoys5aEPQxjLAfPnsha1"
+      },
+      "artists": [
+        {
+          "name": "Joe Hisaishi",
+          "url": "https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB"
+        },
+        {
+          "name": "Wiener Symphoniker",
+          "url": "https://open.spotify.com/artist/6XZxFuZaBnZBngpxbut80O"
+        },
+        {
+          "name": "Antoine Tamestit",
+          "url": "https://open.spotify.com/artist/31U8AuKww3USO1uWfUBnlr"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 423786,
+      "name": "Viola Saga: Movement 1 (Pt. 1)",
+      "url": "https://open.spotify.com/track/4BMPs7HNKuL0qkjLAYYUFU"
+    },
+    {
+      "album": {
         "name": "\u30df\u30cb\u30de\u30ea\u30ba\u30e0 2",
         "url": "https://open.spotify.com/album/1T3q09tNWjloYmlymnI12C"
       },

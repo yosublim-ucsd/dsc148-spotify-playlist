@@ -1,6 +1,6 @@
 {
   "description": "A cup of Joe and the raw Blues.",
-  "num_followers": 86073,
+  "num_followers": 86135,
   "original_name": "Black Coffee Blues",
   "owner": {
     "name": "Spotify",
@@ -859,22 +859,6 @@
     {
       "added_at": "2023-11-24 19:23:20",
       "album": {
-        "name": "Heavy Load Blues",
-        "url": "https://open.spotify.com/album/4RZFJXFYLHs9VhATqZ2nan"
-      },
-      "artists": [
-        {
-          "name": "Gov't Mule",
-          "url": "https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708"
-        }
-      ],
-      "duration_ms": 289786,
-      "name": "Black Horizon",
-      "url": "https://open.spotify.com/track/3E6epwRVuuksTZDlvc24VH"
-    },
-    {
-      "added_at": "2023-11-24 19:23:20",
-      "album": {
         "name": "Love Comin' Down",
         "url": "https://open.spotify.com/album/0kzGduWwsaqFQ4x4hJS8iS"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 272493,
       "name": "Two Trains",
       "url": "https://open.spotify.com/track/1E6zG7BknaI9FQPIhb7o9r"
+    },
+    {
+      "added_at": "2023-11-24 19:23:20",
+      "album": {
+        "name": "Heavy Load Blues",
+        "url": "https://open.spotify.com/album/4RZFJXFYLHs9VhATqZ2nan"
+      },
+      "artists": [
+        {
+          "name": "Gov't Mule",
+          "url": "https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708"
+        }
+      ],
+      "duration_ms": 289786,
+      "name": "Black Horizon",
+      "url": "https://open.spotify.com/track/3E6epwRVuuksTZDlvc24VH"
     },
     {
       "added_at": "2023-11-24 19:23:20",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2023-11-24 19:23:20",
       "album": {
-        "name": "Devil Got My Woman",
-        "url": "https://open.spotify.com/album/0sgYD9rg6DpI2uWrffTXEr"
-      },
-      "artists": [
-        {
-          "name": "Skip James",
-          "url": "https://open.spotify.com/artist/2zlMeTjA7szCmqcJjBzYXJ"
-        }
-      ],
-      "duration_ms": 315000,
-      "name": "Devil Got My Woman",
-      "url": "https://open.spotify.com/track/6DawgaTuMtL9DOq1jCVeVN"
-    },
-    {
-      "added_at": "2023-11-24 19:23:20",
-      "album": {
         "name": "Make Myself Me Again",
         "url": "https://open.spotify.com/album/6MlhXUHL77RMMOhBw1OHre"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 169826,
       "name": "Small Town Nashville Blues",
       "url": "https://open.spotify.com/track/40hxZyIGMPdymJB5DWiJei"
+    },
+    {
+      "added_at": "2023-11-24 19:23:20",
+      "album": {
+        "name": "Devil Got My Woman",
+        "url": "https://open.spotify.com/album/0sgYD9rg6DpI2uWrffTXEr"
+      },
+      "artists": [
+        {
+          "name": "Skip James",
+          "url": "https://open.spotify.com/artist/2zlMeTjA7szCmqcJjBzYXJ"
+        }
+      ],
+      "duration_ms": 315000,
+      "name": "Devil Got My Woman",
+      "url": "https://open.spotify.com/track/6DawgaTuMtL9DOq1jCVeVN"
     },
     {
       "added_at": "2023-11-24 19:23:20",
@@ -1439,22 +1439,18 @@
     {
       "added_at": "2023-11-24 19:23:20",
       "album": {
-        "name": "Dirtiest Little Darling / Railroad Bill",
-        "url": "https://open.spotify.com/album/7vAzun3PS8V9f8ylWHIVW5"
+        "name": "Empire State Express",
+        "url": "https://open.spotify.com/album/2DMWrcLl3inqFygxUFnpkh"
       },
       "artists": [
         {
-          "name": "Blind Boy Paxton",
-          "url": "https://open.spotify.com/artist/6UjmSUS82bBSEjsybZkVc2"
-        },
-        {
-          "name": "NO",
-          "url": "https://open.spotify.com/artist/7d7puoArkvCslRGWxOxFFC"
+          "name": "Son House",
+          "url": "https://open.spotify.com/artist/15oeqKO5k5uZ5773tWvpda"
         }
       ],
-      "duration_ms": 211999,
-      "name": "Dirtiest Little Darling",
-      "url": "https://open.spotify.com/track/4iZMmiAM3X720dVFxGTwu7"
+      "duration_ms": 270706,
+      "name": "Empire State Express",
+      "url": "https://open.spotify.com/track/3eT162kkfyBYC5EjmupvSG"
     },
     {
       "added_at": "2023-11-24 19:23:20",
@@ -1491,18 +1487,22 @@
     {
       "added_at": "2023-11-24 19:23:20",
       "album": {
-        "name": "Empire State Express",
-        "url": "https://open.spotify.com/album/2DMWrcLl3inqFygxUFnpkh"
+        "name": "Dirtiest Little Darling / Railroad Bill",
+        "url": "https://open.spotify.com/album/7vAzun3PS8V9f8ylWHIVW5"
       },
       "artists": [
         {
-          "name": "Son House",
-          "url": "https://open.spotify.com/artist/15oeqKO5k5uZ5773tWvpda"
+          "name": "Blind Boy Paxton",
+          "url": "https://open.spotify.com/artist/6UjmSUS82bBSEjsybZkVc2"
+        },
+        {
+          "name": "NO",
+          "url": "https://open.spotify.com/artist/7d7puoArkvCslRGWxOxFFC"
         }
       ],
-      "duration_ms": 270706,
-      "name": "Empire State Express",
-      "url": "https://open.spotify.com/track/3eT162kkfyBYC5EjmupvSG"
+      "duration_ms": 211999,
+      "name": "Dirtiest Little Darling",
+      "url": "https://open.spotify.com/track/4iZMmiAM3X720dVFxGTwu7"
     },
     {
       "added_at": "2023-11-24 19:23:20",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2023-11-24 19:23:20",
       "album": {
-        "name": "Good Morning Mr. Blues",
-        "url": "https://open.spotify.com/album/2zb7HGV0Tme5sfLodL8Qmn"
-      },
-      "artists": [
-        {
-          "name": "Otis Spann",
-          "url": "https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X"
-        }
-      ],
-      "duration_ms": 205360,
-      "name": "Good Morning Mr. Blues",
-      "url": "https://open.spotify.com/track/1T6DPowtT7hazkIVaiuoOW"
-    },
-    {
-      "added_at": "2023-11-24 19:23:20",
-      "album": {
         "name": "Wild Country",
         "url": "https://open.spotify.com/album/53IDDlOPFfhxS5juY4m8jG"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 358133,
       "name": "Wild Country 2021",
       "url": "https://open.spotify.com/track/4m4dj4kNqbvpgAKap6wJbs"
+    },
+    {
+      "added_at": "2023-11-24 19:23:20",
+      "album": {
+        "name": "Good Morning Mr. Blues",
+        "url": "https://open.spotify.com/album/2zb7HGV0Tme5sfLodL8Qmn"
+      },
+      "artists": [
+        {
+          "name": "Otis Spann",
+          "url": "https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X"
+        }
+      ],
+      "duration_ms": 205360,
+      "name": "Good Morning Mr. Blues",
+      "url": "https://open.spotify.com/track/1T6DPowtT7hazkIVaiuoOW"
     },
     {
       "added_at": "2023-11-24 19:23:20",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2023-11-24 19:23:20",
       "album": {
-        "name": "Roots",
-        "url": "https://open.spotify.com/album/5UThB2HUZQxIe2mhEV97qd"
-      },
-      "artists": [
-        {
-          "name": "Jhett Black",
-          "url": "https://open.spotify.com/artist/4xz4YAqEHCJQsbrqBy4Iz2"
-        }
-      ],
-      "duration_ms": 222724,
-      "name": "Smoke In Heaven",
-      "url": "https://open.spotify.com/track/2qYV73ZzVbhgqGyhqP6myQ"
-    },
-    {
-      "added_at": "2023-11-24 19:23:20",
-      "album": {
         "name": "Unknown Road",
         "url": "https://open.spotify.com/album/0esv0rfP9vJSi0rduSczyK"
       },
@@ -1639,18 +1623,18 @@
     {
       "added_at": "2023-11-24 19:23:20",
       "album": {
-        "name": "A Soul to Claim",
-        "url": "https://open.spotify.com/album/1wXsCNbcEIPuW4Gkf11afj"
+        "name": "Roots",
+        "url": "https://open.spotify.com/album/5UThB2HUZQxIe2mhEV97qd"
       },
       "artists": [
         {
-          "name": "Doug MacLeod",
-          "url": "https://open.spotify.com/artist/74TtiqgtscsnZGa84SHolz"
+          "name": "Jhett Black",
+          "url": "https://open.spotify.com/artist/4xz4YAqEHCJQsbrqBy4Iz2"
         }
       ],
-      "duration_ms": 267512,
-      "name": "Only Porter at the Station",
-      "url": "https://open.spotify.com/track/5SPr9SKT4ipy5X4ngnX40A"
+      "duration_ms": 222724,
+      "name": "Smoke In Heaven",
+      "url": "https://open.spotify.com/track/2qYV73ZzVbhgqGyhqP6myQ"
     },
     {
       "added_at": "2023-11-24 19:23:20",
@@ -1687,6 +1671,22 @@
       "duration_ms": 372440,
       "name": "Death Letter Blues",
       "url": "https://open.spotify.com/track/4qZRDyzwPafiskSh3YIIPr"
+    },
+    {
+      "added_at": "2023-11-24 19:23:20",
+      "album": {
+        "name": "A Soul to Claim",
+        "url": "https://open.spotify.com/album/1wXsCNbcEIPuW4Gkf11afj"
+      },
+      "artists": [
+        {
+          "name": "Doug MacLeod",
+          "url": "https://open.spotify.com/artist/74TtiqgtscsnZGa84SHolz"
+        }
+      ],
+      "duration_ms": 267512,
+      "name": "Only Porter at the Station",
+      "url": "https://open.spotify.com/track/5SPr9SKT4ipy5X4ngnX40A"
     },
     {
       "added_at": "2023-11-24 19:23:20",
@@ -1859,22 +1859,6 @@
     {
       "added_at": "2023-11-24 19:23:20",
       "album": {
-        "name": "Lee's Blues",
-        "url": "https://open.spotify.com/album/1nGxSeKWJlbUgOERip9lIA"
-      },
-      "artists": [
-        {
-          "name": "Oliver Darling",
-          "url": "https://open.spotify.com/artist/5wU74VdLtnvreTbydFZg6f"
-        }
-      ],
-      "duration_ms": 174855,
-      "name": "Lee\u2019s Blues",
-      "url": "https://open.spotify.com/track/5JgTwbPuqCCKV6wfTeNT2L"
-    },
-    {
-      "added_at": "2023-11-24 19:23:20",
-      "album": {
         "name": "Go Blues",
         "url": "https://open.spotify.com/album/1fuJuYNFJ20UoSzh44aCpO"
       },
@@ -1887,6 +1871,22 @@
       "duration_ms": 147080,
       "name": "Confused",
       "url": "https://open.spotify.com/track/5NxtIDK4XcLJY63pI2S2hX"
+    },
+    {
+      "added_at": "2023-11-24 19:23:20",
+      "album": {
+        "name": "Lee's Blues",
+        "url": "https://open.spotify.com/album/1nGxSeKWJlbUgOERip9lIA"
+      },
+      "artists": [
+        {
+          "name": "Oliver Darling",
+          "url": "https://open.spotify.com/artist/5wU74VdLtnvreTbydFZg6f"
+        }
+      ],
+      "duration_ms": 174855,
+      "name": "Lee\u2019s Blues",
+      "url": "https://open.spotify.com/track/5JgTwbPuqCCKV6wfTeNT2L"
     },
     {
       "added_at": "2023-11-24 19:23:20",
@@ -1931,6 +1931,22 @@
     {
       "added_at": "2023-11-24 19:23:20",
       "album": {
+        "name": "The Blues Is Here to Stay, 1947 - 1959",
+        "url": "https://open.spotify.com/album/1MjCiAzSTe317Kl53b8qxY"
+      },
+      "artists": [
+        {
+          "name": "Eddie Boyd",
+          "url": "https://open.spotify.com/artist/6tlPbmYME3fjRkSBb3pjoB"
+        }
+      ],
+      "duration_ms": 189986,
+      "name": "Mr. Highway Man",
+      "url": "https://open.spotify.com/track/2mGcByWICVJC9QHcmaagAe"
+    },
+    {
+      "added_at": "2023-11-24 19:23:20",
+      "album": {
         "name": "Set Sail",
         "url": "https://open.spotify.com/album/12psJfvIqIEwGY6JNuQMzF"
       },
@@ -1947,22 +1963,6 @@
       "duration_ms": 298293,
       "name": "Outside (featuring Lamar Williams Jr.)",
       "url": "https://open.spotify.com/track/00b6fpaBoDoPhbsVbraJX3"
-    },
-    {
-      "added_at": "2023-11-24 19:23:20",
-      "album": {
-        "name": "The Blues Is Here to Stay, 1947 - 1959",
-        "url": "https://open.spotify.com/album/1MjCiAzSTe317Kl53b8qxY"
-      },
-      "artists": [
-        {
-          "name": "Eddie Boyd",
-          "url": "https://open.spotify.com/artist/6tlPbmYME3fjRkSBb3pjoB"
-        }
-      ],
-      "duration_ms": 189986,
-      "name": "Mr. Highway Man",
-      "url": "https://open.spotify.com/track/2mGcByWICVJC9QHcmaagAe"
     },
     {
       "added_at": "2023-11-24 19:23:20",

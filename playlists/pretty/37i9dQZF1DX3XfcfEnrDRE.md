@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XfcfEnrDRE.md) - [plain]
 
 > The ever\-evolving sound of Alt! Cover: Alive City
 
-[Spotify](https://open.spotify.com/user/spotify) - 239,311 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 239,327 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XfcfEnrDRE.md) - [plain]
 | 39 | [Pilot](https://open.spotify.com/track/2ePV8y7NK53tnk6AJEntBV) | [IMRSQD](https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc), [Moflo Music](https://open.spotify.com/artist/6MPy3PayvN8uNYA8Wm3Z4a), [Sammie Lee](https://open.spotify.com/artist/4xdSrVRzcVvxW4CJVCuRJ2) | [Pilot](https://open.spotify.com/album/7ujAh0O6Cr9BTIW7aH0cJY) | 1:40 |
 | 40 | [My Heart Alone](https://open.spotify.com/track/62IMghHVMRqb8GsuVm5Hbc) | [Colorvault](https://open.spotify.com/artist/15r1ip4y85i0oDNt03C4Er), [Alex Taylor](https://open.spotify.com/artist/0q3bKZP4Pjf3Z5SKSxEhKi) | [My Heart Alone](https://open.spotify.com/album/5TDg5nfshvPqFm6Ma7gfTB) | 3:21 |
 | 41 | [Nothing To Buy](https://open.spotify.com/track/3EuZbohxMO9P7C8UbkEpaT) | [Rita Springer](https://open.spotify.com/artist/0XnterAMV09fuPjq4joR0c), [kalley](https://open.spotify.com/artist/1VfUR2Su5Ags5Im3mZGnPo) | [Nothing To Buy](https://open.spotify.com/album/36XduRuhm8VvFCWAgdr8zl) | 4:27 |
-| 42 | [Hold On](https://open.spotify.com/track/23VrO89DkfhYigoLPvEnm7) | [Corey Voss](https://open.spotify.com/artist/1eqQW3Oj7MHXK05b8O5RHa) | [Hold On](https://open.spotify.com/album/0WP1SzAIHrXKAaNbCG8fYV) | 4:09 |
-| 43 | [Leaving The 99 \- Remix](https://open.spotify.com/track/5oqOAAVvyIDAt8pZ1Lwy0V) | [Billy Ballenger](https://open.spotify.com/artist/3MWi1gukTtaCmUQyvjSmIN) | [Leaving The 99 \(Remix\)](https://open.spotify.com/album/2QrCnGivrRzA59PhP0Qlze) | 4:02 |
+| 42 | [Leaving The 99 \- Remix](https://open.spotify.com/track/5oqOAAVvyIDAt8pZ1Lwy0V) | [Billy Ballenger](https://open.spotify.com/artist/3MWi1gukTtaCmUQyvjSmIN) | [Leaving The 99 \(Remix\)](https://open.spotify.com/album/2QrCnGivrRzA59PhP0Qlze) | 4:02 |
+| 43 | [Hold On](https://open.spotify.com/track/23VrO89DkfhYigoLPvEnm7) | [Corey Voss](https://open.spotify.com/artist/1eqQW3Oj7MHXK05b8O5RHa) | [Hold On](https://open.spotify.com/album/0WP1SzAIHrXKAaNbCG8fYV) | 4:09 |
 | 44 | [Calm Before the Storm](https://open.spotify.com/track/7wsBA8293E5O4SMS1nH350) | [United Pursuit](https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo) | [Calm Before the Storm](https://open.spotify.com/album/3jWsaxV8HH7v4osDCriC6Q) | 3:55 |
 | 45 | [Love Over Religion](https://open.spotify.com/track/7uZEBTWHzuG68sXaADrwW5) | [Dara Maclean](https://open.spotify.com/artist/51mDLET3uU71KUA2OkDvFm) | [River](https://open.spotify.com/album/1wo9f0FTXsciSHZCKD808u) | 4:12 |
 | 46 | [Feel Holy](https://open.spotify.com/track/1HxtNVkzA5PAzeqDXLCX37) | [Eliza King](https://open.spotify.com/artist/3b3oceAq7kCrQBmrsWOtMa) | [Feel Holy](https://open.spotify.com/album/33BAADumKYukAW2Mw0w4ac) | 5:31 |
@@ -63,15 +63,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XfcfEnrDRE.md) - [plain]
 | 53 | [Still Mighty](https://open.spotify.com/track/7lNZVe64Do0fQIUR2AGli8) | [Leeland](https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2) | [Still Mighty](https://open.spotify.com/album/0fGqJjdvlODlS1d0clsMQs) | 3:52 |
 | 54 | [Mountains](https://open.spotify.com/track/1MIuSxzMBDUcLqHzI1Dfo1) | [Jonas Myrin](https://open.spotify.com/artist/2NFO8MvrS1FOyjQZKwgra5) | [Mountains](https://open.spotify.com/album/01CGd2LzkhL2l85kU0bgpP) | 3:24 |
 | 55 | [Somebody](https://open.spotify.com/track/3SE2OWRSRPwNtO3flHQOKv) | [Mōzi](https://open.spotify.com/artist/5w603RhGuKjuDtIlkQt3E4), [Kylie Odetta](https://open.spotify.com/artist/2meUQKRm9yos5hbsWl9TRq) | [Somebody](https://open.spotify.com/album/6ReAgEGnlcVPWAoCHwMU8E) | 3:12 |
-| 56 | [Start Again](https://open.spotify.com/track/5Ry2PLL01YfcO12r4NfT15) | [James Paek](https://open.spotify.com/artist/2TSvKiWhpJaQ6m2zhhA7rz) | [Start Again](https://open.spotify.com/album/3BG3qsmqpkBNqkgwFzQX8k) | 3:50 |
-| 57 | [Keep Your Head Up \- Radio Version](https://open.spotify.com/track/5MCclZ7cXNHyyAkvNqHYBm) | [Fireflight](https://open.spotify.com/artist/5v6wlK6GCKVovWMbPqSHNy) | [Keep Your Head Up \(Radio Version\)](https://open.spotify.com/album/0EqvE6md1QlGSu2qjYHc1r) | 3:35 |
+| 56 | [Keep Your Head Up \- Radio Version](https://open.spotify.com/track/5MCclZ7cXNHyyAkvNqHYBm) | [Fireflight](https://open.spotify.com/artist/5v6wlK6GCKVovWMbPqSHNy) | [Keep Your Head Up \(Radio Version\)](https://open.spotify.com/album/0EqvE6md1QlGSu2qjYHc1r) | 3:35 |
+| 57 | [Start Again](https://open.spotify.com/track/5Ry2PLL01YfcO12r4NfT15) | [James Paek](https://open.spotify.com/artist/2TSvKiWhpJaQ6m2zhhA7rz) | [Start Again](https://open.spotify.com/album/3BG3qsmqpkBNqkgwFzQX8k) | 3:50 |
 | 58 | [Way, Truth, Life](https://open.spotify.com/track/5INCnWloUf354udWzwGgYs) | [Jonny Henninger](https://open.spotify.com/artist/1L9zhXcitRv35NwUZmwBZ4), [Naomi Mae](https://open.spotify.com/artist/7vNoVbs242w1vl2kaeOfdK) | [Way, Truth, Life](https://open.spotify.com/album/34FQy01AMCNmDh2NJ4ustB) | 2:53 |
-| 59 | [Broken Places](https://open.spotify.com/track/5qCoYTRtXwsCIiMaE9D8L6) | [Jars Of Clay](https://open.spotify.com/artist/1lMaDSraU3oiNUsVWJLHdF) | [Broken Places](https://open.spotify.com/album/0DX0eOgQHUgQqBFVSyKCQF) | 4:15 |
-| 60 | [Every Morning](https://open.spotify.com/track/17P6kojDstdaw65xDCOARU) | [Aaron Shust](https://open.spotify.com/artist/0oM8RWZXhJYSnzGdepP7fM) | [Every Morning](https://open.spotify.com/album/6re1dUsurh2IKlkZhL6tiy) | 3:43 |
+| 59 | [Every Morning](https://open.spotify.com/track/17P6kojDstdaw65xDCOARU) | [Aaron Shust](https://open.spotify.com/artist/0oM8RWZXhJYSnzGdepP7fM) | [Every Morning](https://open.spotify.com/album/6re1dUsurh2IKlkZhL6tiy) | 3:43 |
+| 60 | [Broken Places](https://open.spotify.com/track/5qCoYTRtXwsCIiMaE9D8L6) | [Jars Of Clay](https://open.spotify.com/artist/1lMaDSraU3oiNUsVWJLHdF) | [Broken Places](https://open.spotify.com/album/0DX0eOgQHUgQqBFVSyKCQF) | 4:15 |
 | 61 | [Give My All](https://open.spotify.com/track/6RUhMJ816rKag5trw0iiH1) | [Audacious Worship](https://open.spotify.com/artist/7DeOhE2vpc4L1SebSy1gUe) | [Give My All](https://open.spotify.com/album/6Uv2XAIAwMLVun8cvzK0nh) | 3:19 |
-| 62 | [BURNING IN THE RAIN](https://open.spotify.com/track/7c0ZefCWafOW57yTPXVdVv) | [OLY](https://open.spotify.com/artist/7g4y9yOwMFSp1qvlhboro8) | [BURNING IN THE RAIN](https://open.spotify.com/album/4rQ5aKcrCfqwL7CdSsa57I) | 3:22 |
-| 63 | [OLDER](https://open.spotify.com/track/74dJdWzKwtxV5s77GOsa8w) | [Alexander Pappas](https://open.spotify.com/artist/5bjQjhv3Zzxo1VoxGcyaHC) | [OLDER](https://open.spotify.com/album/1dLlSnoQk8tec7Tyubd7u7) | 3:22 |
-| 64 | [Heaven Is Everywhere](https://open.spotify.com/track/1rPFqJjK21mcwaT0C10EfS) | [Johnnyswim](https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm) | [Heaven Is Everywhere](https://open.spotify.com/album/5UeiyI4lj9FMmNQWymskL1) | 3:54 |
+| 62 | [OLDER](https://open.spotify.com/track/74dJdWzKwtxV5s77GOsa8w) | [Alexander Pappas](https://open.spotify.com/artist/5bjQjhv3Zzxo1VoxGcyaHC) | [OLDER](https://open.spotify.com/album/1dLlSnoQk8tec7Tyubd7u7) | 3:22 |
+| 63 | [Heaven Is Everywhere](https://open.spotify.com/track/1rPFqJjK21mcwaT0C10EfS) | [Johnnyswim](https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm) | [Heaven Is Everywhere](https://open.spotify.com/album/5UeiyI4lj9FMmNQWymskL1) | 3:54 |
+| 64 | [BURNING IN THE RAIN](https://open.spotify.com/track/7c0ZefCWafOW57yTPXVdVv) | [OLY](https://open.spotify.com/artist/7g4y9yOwMFSp1qvlhboro8) | [BURNING IN THE RAIN](https://open.spotify.com/album/4rQ5aKcrCfqwL7CdSsa57I) | 3:22 |
 | 65 | [Raise Up](https://open.spotify.com/track/6wulXQCZNl4nrD4W5qxoOg) | [Semler](https://open.spotify.com/artist/1UPqLSmKOY8Ld8LoAuNA5g) | [Stages Of A Breakdown](https://open.spotify.com/album/68BNGjFd975yYbcLvQh8oT) | 3:12 |
 | 66 | [Old Dreams \- Live from Kansas City](https://open.spotify.com/track/6vbM3xlbUdLxtcyDB5YKEC) | [Chris Renzema](https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT) | [HOPE OR NOSTALGIA LIVE](https://open.spotify.com/album/03mLh8NKcmNYxPW4mjIBz0) | 3:09 |
 | 67 | [No Fear In Love](https://open.spotify.com/track/2NXKrBVJYAvVLUPm5lMPaE) | [WorshipMob](https://open.spotify.com/artist/2gVSazqKUYYYS645CEhrcL), [White Flag](https://open.spotify.com/artist/1Kb1JBQgQyAVncGfPetaKg) | [No Fear In Love](https://open.spotify.com/album/5zmejejlQErGrI0qDJiXoS) | 8:35 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XfcfEnrDRE.md) - [plain]
 | 74 | [Hurricane](https://open.spotify.com/track/3nLnyUoJEOPISomgrVqJw7) | [Whitefield](https://open.spotify.com/artist/3Bl7IsHkpS3ccNug2A8txP) | [Hurricane](https://open.spotify.com/album/4EFGJxZDk9XF6WuOd5IjNW) | 4:29 |
 | 75 | [Stream](https://open.spotify.com/track/4KOP4xmCdhMu6trazcOdy6) | [BEACH W](https://open.spotify.com/artist/1sHJFAgrPJokmkPDinDuyp) | [Stream](https://open.spotify.com/album/4OxKwDgLuX1kuIqJh7AF7Q) | 4:43 |
 | 76 | [Conversation](https://open.spotify.com/track/0HgPrONoZRbbsRxsTJgtg3) | [Grace Graber](https://open.spotify.com/artist/5zKLAqfSLwj61spd5ereRK) | [Conversation](https://open.spotify.com/album/5waJx72B7sI3cYPhVDfd7F) | 3:24 |
-| 77 | [Angels vs Demons \- Piano Version](https://open.spotify.com/track/71Ax2oi6fIzusCsdwyGZhE) | [Nathan Wagner](https://open.spotify.com/artist/0XURMEB81vOurKFntVmbBV) | [Angels vs Demons](https://open.spotify.com/album/3sYjKGdSYoghebq89K5XlL) | 3:20 |
-| 78 | [Against the Wall](https://open.spotify.com/track/5K1JLIgK0p1suxreWPoFc0) | [Collington](https://open.spotify.com/artist/0gaq1utzcPeKnfv5paHyzS) | [Against the Wall](https://open.spotify.com/album/2dFlpNGCzodFPyn4X5mo0Q) | 3:25 |
+| 77 | [Against the Wall](https://open.spotify.com/track/5K1JLIgK0p1suxreWPoFc0) | [Collington](https://open.spotify.com/artist/0gaq1utzcPeKnfv5paHyzS) | [Against the Wall](https://open.spotify.com/album/2dFlpNGCzodFPyn4X5mo0Q) | 3:25 |
+| 78 | [Angels vs Demons \- Piano Version](https://open.spotify.com/track/71Ax2oi6fIzusCsdwyGZhE) | [Nathan Wagner](https://open.spotify.com/artist/0XURMEB81vOurKFntVmbBV) | [Angels vs Demons](https://open.spotify.com/album/3sYjKGdSYoghebq89K5XlL) | 3:20 |
 | 79 | [Crisis Of Faith](https://open.spotify.com/track/6f6nJ6rTSOkv2FRFmUk6ha) | [The War Within](https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh) | [Crisis Of Faith](https://open.spotify.com/album/1WUw7XicfoxqSif4iiFXOi) | 3:48 |
 | 80 | [Killer](https://open.spotify.com/track/05F7rkqDQPBZboapB7MCA5) | [Truslow](https://open.spotify.com/artist/0zBShgJCo19qQZtM0CZxJv) | [Natural Killer](https://open.spotify.com/album/3oZfCFEY6PqY59fsUyitbV) | 3:44 |
 | 81 | [War Going On](https://open.spotify.com/track/6cIBuZ98m0KM51HOx18AcB) | [Port Duo](https://open.spotify.com/artist/2dmTeILyALVCUMdrPQSMnP) | [War Going On](https://open.spotify.com/album/0qxSyQTMLkMIktzp62IZaJ) | 4:22 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XfcfEnrDRE.md) - [plain]
 | 99 | [limbo](https://open.spotify.com/track/6JqwhcKzZX3HPbtyTxaQU7) | [Mas](https://open.spotify.com/artist/3f7sxX5HfXXiD3DvLm0CWm) | [limbo](https://open.spotify.com/album/3R6MKsZWoTZZt63NHnChWf) | 4:35 |
 | 100 | [May The Lamb](https://open.spotify.com/track/7H2I1AIj744jqp4Sh7U6ad) | [Chris McCall](https://open.spotify.com/artist/0TcGpkdfl5wneHvpYgN3xp) | [May The Lamb](https://open.spotify.com/album/6SdX9be9ZQk4Y1ZqS45o46) | 4:23 |
 
-Snapshot ID: `Zj2lbwAAAADS6KNVFSvvucdksO9uuBB3`
+Snapshot ID: `ZlAQwAAAAAD1tp2VD8S2E81xR6l5d7Xk`

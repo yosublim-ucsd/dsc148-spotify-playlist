@@ -1,6 +1,6 @@
 {
   "description": "Nh\u1eefng ca kh\u00fac \u0111\u1ec3 \u0111\u1eddi c\u1ee7a d\u00f2ng nh\u1ea1c v\u00e0ng. \u1ea2nh b\u00eca: Nh\u01b0 Qu\u1ef3nh",
-  "num_followers": 34971,
+  "num_followers": 34976,
   "original_name": "Bolero Tuy\u1ec7t Ph\u1ea9m",
   "owner": {
     "name": "Spotify",
@@ -371,22 +371,6 @@
     {
       "added_at": "2024-03-12 05:56:26",
       "album": {
-        "name": "V\u1ec1 \u0110\u00e2u M\u00e1i T\u00f3c Ng\u01b0\u1eddi Th\u01b0\u01a1ng",
-        "url": "https://open.spotify.com/album/5r9F0ckw8JHmCq90VgBzx0"
-      },
-      "artists": [
-        {
-          "name": "Quang L\u1eadp",
-          "url": "https://open.spotify.com/artist/6PORUlK3pnUDFJi2tyYVsZ"
-        }
-      ],
-      "duration_ms": 317333,
-      "name": "V\u1ec1 \u0111\u00e2u m\u00e1i t\u00f3c ng\u01b0\u1eddi th\u01b0\u01a1ng",
-      "url": "https://open.spotify.com/track/27fatF8hvPt6l2qQcY3I58"
-    },
-    {
-      "added_at": "2024-03-12 05:56:26",
-      "album": {
         "name": "C\u00f3 Tin Vui Gi\u1eefa Gi\u1edd Tuy\u1ec7t V\u1ecdng",
         "url": "https://open.spotify.com/album/32JYrF4w3zEFKUGMHlG3HI"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 372866,
       "name": "Nh\u1eefng \u0111\u1ed3i hoa sim",
       "url": "https://open.spotify.com/track/5RWImsPAjdpJucoMXRmpCU"
+    },
+    {
+      "added_at": "2024-03-12 05:56:26",
+      "album": {
+        "name": "V\u1ec1 \u0110\u00e2u M\u00e1i T\u00f3c Ng\u01b0\u1eddi Th\u01b0\u01a1ng",
+        "url": "https://open.spotify.com/album/5r9F0ckw8JHmCq90VgBzx0"
+      },
+      "artists": [
+        {
+          "name": "Quang L\u1eadp",
+          "url": "https://open.spotify.com/artist/6PORUlK3pnUDFJi2tyYVsZ"
+        }
+      ],
+      "duration_ms": 317333,
+      "name": "V\u1ec1 \u0111\u00e2u m\u00e1i t\u00f3c ng\u01b0\u1eddi th\u01b0\u01a1ng",
+      "url": "https://open.spotify.com/track/27fatF8hvPt6l2qQcY3I58"
     },
     {
       "added_at": "2024-03-12 05:56:26",
@@ -475,18 +475,18 @@
     {
       "added_at": "2024-03-12 05:56:26",
       "album": {
-        "name": "H\u01b0\u01a1ng T\u00ecnh C\u0169 2",
-        "url": "https://open.spotify.com/album/6dx0sFloEPYu8goYx9Hmpr"
+        "name": "Hoa No Ve Dem",
+        "url": "https://open.spotify.com/album/04b4J4LM9xzBG8V4F9VdDx"
       },
       "artists": [
         {
-          "name": "Tu\u1ea5n Anh",
-          "url": "https://open.spotify.com/artist/4zQeGGpvdaprG8JNG2pueS"
+          "name": "Ph\u01b0\u01a1ng Dung",
+          "url": "https://open.spotify.com/artist/2P7WrPkRtQLLJY5KPOmDt3"
         }
       ],
-      "duration_ms": 261673,
-      "name": "M\u01b0a L\u1ec7",
-      "url": "https://open.spotify.com/track/5iZnP16d5MkJVVrnbo6xTH"
+      "duration_ms": 285269,
+      "name": "Tau Dem Nam Cu",
+      "url": "https://open.spotify.com/track/5tVuKbPyMauB0YKbJeCGDc"
     },
     {
       "added_at": "2024-03-12 05:56:26",
@@ -507,18 +507,18 @@
     {
       "added_at": "2024-03-12 05:56:26",
       "album": {
-        "name": "Hoa No Ve Dem",
-        "url": "https://open.spotify.com/album/04b4J4LM9xzBG8V4F9VdDx"
+        "name": "H\u01b0\u01a1ng T\u00ecnh C\u0169 2",
+        "url": "https://open.spotify.com/album/6dx0sFloEPYu8goYx9Hmpr"
       },
       "artists": [
         {
-          "name": "Ph\u01b0\u01a1ng Dung",
-          "url": "https://open.spotify.com/artist/2P7WrPkRtQLLJY5KPOmDt3"
+          "name": "Tu\u1ea5n Anh",
+          "url": "https://open.spotify.com/artist/4zQeGGpvdaprG8JNG2pueS"
         }
       ],
-      "duration_ms": 285269,
-      "name": "Tau Dem Nam Cu",
-      "url": "https://open.spotify.com/track/5tVuKbPyMauB0YKbJeCGDc"
+      "duration_ms": 261673,
+      "name": "M\u01b0a L\u1ec7",
+      "url": "https://open.spotify.com/track/5iZnP16d5MkJVVrnbo6xTH"
     },
     {
       "added_at": "2024-03-12 05:56:26",
@@ -731,18 +731,18 @@
     {
       "added_at": "2024-03-12 05:56:26",
       "album": {
-        "name": "N\u1ebfu Anh \u0110\u1eebng H\u1eb9n (Remastered)",
-        "url": "https://open.spotify.com/album/47bWNTOUhEM9afdPfFd1fg"
+        "name": "Hoa No Ve Dem",
+        "url": "https://open.spotify.com/album/04b4J4LM9xzBG8V4F9VdDx"
       },
       "artists": [
         {
-          "name": "Thi\u00ean Trang",
-          "url": "https://open.spotify.com/artist/7zR1RF6IqZwR9CgCC3rXOl"
+          "name": "Ph\u01b0\u01a1ng Dung",
+          "url": "https://open.spotify.com/artist/2P7WrPkRtQLLJY5KPOmDt3"
         }
       ],
-      "duration_ms": 279020,
-      "name": "N\u1ebfu Anh \u0110\u1eebng H\u1eb9n (1988) - Remastered",
-      "url": "https://open.spotify.com/track/2mczhHtmooMTaX77bUfvhb"
+      "duration_ms": 220701,
+      "name": "Buc Tam Thu",
+      "url": "https://open.spotify.com/track/5FchCbqk8VyiBedLQxzwch"
     },
     {
       "added_at": "2024-03-12 05:56:26",
@@ -799,18 +799,18 @@
     {
       "added_at": "2024-03-12 05:56:26",
       "album": {
-        "name": "Hoa No Ve Dem",
-        "url": "https://open.spotify.com/album/04b4J4LM9xzBG8V4F9VdDx"
+        "name": "N\u1ebfu Anh \u0110\u1eebng H\u1eb9n (Remastered)",
+        "url": "https://open.spotify.com/album/47bWNTOUhEM9afdPfFd1fg"
       },
       "artists": [
         {
-          "name": "Ph\u01b0\u01a1ng Dung",
-          "url": "https://open.spotify.com/artist/2P7WrPkRtQLLJY5KPOmDt3"
+          "name": "Thi\u00ean Trang",
+          "url": "https://open.spotify.com/artist/7zR1RF6IqZwR9CgCC3rXOl"
         }
       ],
-      "duration_ms": 220701,
-      "name": "Buc Tam Thu",
-      "url": "https://open.spotify.com/track/5FchCbqk8VyiBedLQxzwch"
+      "duration_ms": 279020,
+      "name": "N\u1ebfu Anh \u0110\u1eebng H\u1eb9n (1988) - Remastered",
+      "url": "https://open.spotify.com/track/2mczhHtmooMTaX77bUfvhb"
     },
     {
       "added_at": "2024-03-12 05:56:26",

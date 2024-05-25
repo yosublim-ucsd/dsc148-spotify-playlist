@@ -1,12 +1,12 @@
 {
-  "description": "This is Hyperanhas. The essential tracks, all in one playlist.",
-  "num_followers": 3591,
+  "description": "This is Hyperanhas. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 3593,
   "original_name": "This Is Hyperanhas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zk01gAAAAAA7rmvRF38pjAkSPpOC8Oxx",
+  "snapshot_id": "Zk6HAAAAAACxjDloKbVGM7oGS59nswlG",
   "tracks": [
     {
       "added_at": null,
@@ -339,26 +339,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "V\u00caNUS\u2260netuno",
-        "url": "https://open.spotify.com/album/5T2KhsmSyj6UvXehTNFLg8"
-      },
-      "artists": [
-        {
-          "name": "DAY LIMNS",
-          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
-        },
-        {
-          "name": "Hyperanhas",
-          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        }
-      ],
-      "duration_ms": 183380,
-      "name": "APOCAL\u00cdPTIKA",
-      "url": "https://open.spotify.com/track/4pdHinWMilOcFb65irdH8w"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Reca\u00edda",
         "url": "https://open.spotify.com/album/02AaiB6d2Io8EgmfnEY5vx"
       },
@@ -379,6 +359,26 @@
       "duration_ms": 188976,
       "name": "Reca\u00edda",
       "url": "https://open.spotify.com/track/55vzhkPkwksWHU83hhDMX0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "V\u00caNUS\u2260netuno",
+        "url": "https://open.spotify.com/album/5T2KhsmSyj6UvXehTNFLg8"
+      },
+      "artists": [
+        {
+          "name": "DAY LIMNS",
+          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
+        },
+        {
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        }
+      ],
+      "duration_ms": 183380,
+      "name": "APOCAL\u00cdPTIKA",
+      "url": "https://open.spotify.com/track/4pdHinWMilOcFb65irdH8w"
     },
     {
       "added_at": null,
@@ -895,30 +895,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ECL\u00c9TICO",
-        "url": "https://open.spotify.com/album/3L3KKjl7QGb1WxFsaGmFYn"
-      },
-      "artists": [
-        {
-          "name": "MC PH",
-          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
-        },
-        {
-          "name": "Hyperanhas",
-          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        },
-        {
-          "name": "Murillo e LT no Beat",
-          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
-        }
-      ],
-      "duration_ms": 253884,
-      "name": "Chamo Ela Vem",
-      "url": "https://open.spotify.com/track/3fVMUkxJJid5GCCeaHuF1Y"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nike Novo",
         "url": "https://open.spotify.com/album/7vdftrf3dgyLrWO5LNXrOm"
       },
@@ -939,6 +915,30 @@
       "duration_ms": 184256,
       "name": "Nike Novo",
       "url": "https://open.spotify.com/track/6dvmKKxL0An5ynDVAAkAZy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ECL\u00c9TICO",
+        "url": "https://open.spotify.com/album/3L3KKjl7QGb1WxFsaGmFYn"
+      },
+      "artists": [
+        {
+          "name": "MC PH",
+          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
+        },
+        {
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        },
+        {
+          "name": "Murillo e LT no Beat",
+          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
+        }
+      ],
+      "duration_ms": 253884,
+      "name": "Chamo Ela Vem",
+      "url": "https://open.spotify.com/track/3fVMUkxJJid5GCCeaHuF1Y"
     },
     {
       "added_at": null,
@@ -1223,6 +1223,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Quer Ibope",
+        "url": "https://open.spotify.com/album/3d3XuKBeJDcqXJlwzxBr9x"
+      },
+      "artists": [
+        {
+          "name": "MARIAH",
+          "url": "https://open.spotify.com/artist/30Fmcbg4I8jHYVbPyXdhRo"
+        },
+        {
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        },
+        {
+          "name": "AMUSIK",
+          "url": "https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl"
+        }
+      ],
+      "duration_ms": 223218,
+      "name": "Quer Ibope",
+      "url": "https://open.spotify.com/track/24vi6EYIoHqAlAQmPdmfdU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Festa na Piscina",
         "url": "https://open.spotify.com/album/00FA6DwM0uincXdQJ8wltO"
       },
@@ -1251,26 +1275,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quer Ibope",
-        "url": "https://open.spotify.com/album/3d3XuKBeJDcqXJlwzxBr9x"
+        "name": "O Que Vai Ser De Mim",
+        "url": "https://open.spotify.com/album/0RF7AQDptSuhkg2Z711xaQ"
       },
       "artists": [
         {
-          "name": "MARIAH",
-          "url": "https://open.spotify.com/artist/30Fmcbg4I8jHYVbPyXdhRo"
+          "name": "Caio Passos",
+          "url": "https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di"
         },
         {
           "name": "Hyperanhas",
           "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        },
-        {
-          "name": "AMUSIK",
-          "url": "https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl"
         }
       ],
-      "duration_ms": 223218,
-      "name": "Quer Ibope",
-      "url": "https://open.spotify.com/track/24vi6EYIoHqAlAQmPdmfdU"
+      "duration_ms": 225600,
+      "name": "O Que Vai Ser De Mim",
+      "url": "https://open.spotify.com/track/2RkTX1WTeUS5VLCF20zAos"
     },
     {
       "added_at": null,
@@ -1307,26 +1327,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Que Vai Ser De Mim",
-        "url": "https://open.spotify.com/album/0RF7AQDptSuhkg2Z711xaQ"
-      },
-      "artists": [
-        {
-          "name": "Caio Passos",
-          "url": "https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di"
-        },
-        {
-          "name": "Hyperanhas",
-          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        }
-      ],
-      "duration_ms": 225600,
-      "name": "O Que Vai Ser De Mim",
-      "url": "https://open.spotify.com/track/2RkTX1WTeUS5VLCF20zAos"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ta Bom",
         "url": "https://open.spotify.com/album/5LpQKXsKsJWAGYjk2bdzkl"
       },
@@ -1343,6 +1343,42 @@
       "duration_ms": 174000,
       "name": "Ta Bom",
       "url": "https://open.spotify.com/track/46UPP4xynkI9HDt6zK4dhq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Time dos Sonhos",
+        "url": "https://open.spotify.com/album/6nzRGaBnhvL6hqJ0X0o9S5"
+      },
+      "artists": [
+        {
+          "name": "Caio Passos",
+          "url": "https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di"
+        },
+        {
+          "name": "MC Charada",
+          "url": "https://open.spotify.com/artist/3dbwE7BndV7CQ3m7XkphXv"
+        },
+        {
+          "name": "Mc Daniel",
+          "url": "https://open.spotify.com/artist/3aSsTuHETvBRL9yRzNsbH4"
+        },
+        {
+          "name": "TrapLaudo",
+          "url": "https://open.spotify.com/artist/39QiJaZ1HzRcpY9xlMKCsF"
+        },
+        {
+          "name": "Fe Ribeiro",
+          "url": "https://open.spotify.com/artist/58tgIussK95AuRsnDpXnJX"
+        },
+        {
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        }
+      ],
+      "duration_ms": 411428,
+      "name": "Time dos Sonhos",
+      "url": "https://open.spotify.com/track/1Ab3rxk7i8yZ4jbs3AzGrC"
     },
     {
       "added_at": null,
@@ -1411,54 +1447,6 @@
       "duration_ms": 399252,
       "name": "Set Dj Br da Tijuca 3",
       "url": "https://open.spotify.com/track/1xQABs4bfvIunZOZ4Ov0im"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SET DJ BR DA TIJUCA 5",
-        "url": "https://open.spotify.com/album/7HCfAEM56k6BWMvKTOIIlZ"
-      },
-      "artists": [
-        {
-          "name": "BR DA TIJUCA",
-          "url": "https://open.spotify.com/artist/7KEk6kxe9YqyuVg9QeMVNQ"
-        },
-        {
-          "name": "JP Diazz",
-          "url": "https://open.spotify.com/artist/344mmrwz81JfFfW9PLqZsd"
-        },
-        {
-          "name": "Hyperanhas",
-          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        },
-        {
-          "name": "Felp 22",
-          "url": "https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK"
-        },
-        {
-          "name": "Gabzin",
-          "url": "https://open.spotify.com/artist/7ELdt6pzP4LFi4cnVTXqsF"
-        },
-        {
-          "name": "DJ Biel do Furduncinho",
-          "url": "https://open.spotify.com/artist/6Us5Zsn5MAHBk7SHBUsG5X"
-        },
-        {
-          "name": "Mc KF",
-          "url": "https://open.spotify.com/artist/2zaQ4hz4xLgGGtABoUS8kf"
-        },
-        {
-          "name": "Leo da Zona Sul",
-          "url": "https://open.spotify.com/artist/7ylv7b3bmpR5NC2OilrZmo"
-        },
-        {
-          "name": "Lipinho Oficial",
-          "url": "https://open.spotify.com/artist/3tgFm4QrXC1zIicYXUqi5q"
-        }
-      ],
-      "duration_ms": 354545,
-      "name": "SET DJ BR DA TIJUCA 5",
-      "url": "https://open.spotify.com/track/4bwlglmM45i6wO0hWKQ9N4"
     }
   ],
   "unique_name": "This Is Hyperanhas",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Recent smashes from your favorite Christian Contemporary artists.  Cover: Mac Powell",
+  "description": "Recent smashes from your favorite Christian Contemporary artists.  Cover: Seph Schlueter",
   "name": "Christian Mix",
   "tracks": [
     {
@@ -831,6 +831,24 @@
     },
     {
       "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/7rzmRYz4bw46oHvESwkTuv"
+      },
+      "artists": [
+        {
+          "name": "Seph Schlueter",
+          "url": "https://open.spotify.com/artist/3rdJD72bitczKtW5yNgAA4"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209595,
+      "name": "Counting My Blessings",
+      "url": "https://open.spotify.com/track/7fncKHVMe7fKcrOGN9MRuq"
+    },
+    {
+      "album": {
         "name": "The Story's Not Over",
         "url": "https://open.spotify.com/album/3gSR4A397QFdzyvO2qihm3"
       },
@@ -1038,7 +1056,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 210679,
       "name": "E6 - Hot Mix",
       "url": "https://open.spotify.com/track/5wQMXr2mmNfnMUtgR7A8hi"
@@ -2261,6 +2279,28 @@
     },
     {
       "album": {
+        "name": "Lead On Good Shepherd",
+        "url": "https://open.spotify.com/album/0kU2cgMwYC02qZ9YigsHBO"
+      },
+      "artists": [
+        {
+          "name": "Patrick Mayberry",
+          "url": "https://open.spotify.com/artist/4ry1oelvTLzDwOKVxLpzwo"
+        },
+        {
+          "name": "Zahriya Zachary",
+          "url": "https://open.spotify.com/artist/4yKfjUNdXjRX2fHUEgoL5L"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203973,
+      "name": "Lead On Good Shepherd",
+      "url": "https://open.spotify.com/track/4pamu1hc1av1c4BhY8Wh3j"
+    },
+    {
+      "album": {
         "name": "I Know A Ghost",
         "url": "https://open.spotify.com/album/7JiKelPfVrHUCRNsu6k9lq"
       },
@@ -3364,7 +3404,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 169426,
       "name": "River Of Life",
       "url": "https://open.spotify.com/track/3K0JbVAbnkVTfxlShlREjc"

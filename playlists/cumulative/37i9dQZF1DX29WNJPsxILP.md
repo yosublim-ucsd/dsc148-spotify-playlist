@@ -4,7 +4,7 @@
 
 > Rap from the hoods of Dilli featuring Karma
 
-129 songs - 6 hr 42 min
+130 songs - 6 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [HMM](https://open.spotify.com/track/1vGFCl9e0zVpFSl2K8oOGZ) | [KhullarG](https://open.spotify.com/artist/2yAbjVguK4dIqZ6IdVJP4i), [Bluish Music](https://open.spotify.com/artist/3KlLo4hL4Qq2mhSIGMfas6) | [HMM](https://open.spotify.com/album/1appD8E7s8Zuju8u0NrQDi) | 3:04 | 2024-02-05 |  |
 | [Hold Up](https://open.spotify.com/track/15zn8wY4uZ05htjsWBanjS) | [Karma](https://open.spotify.com/artist/2RS1R0tueoL8EJXTSBAt2F), [Sez on the Beat](https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe) | [Hold Up](https://open.spotify.com/album/15fhMI25QDeXlJPLkAEvFC) | 3:21 | 2023-08-08 |  |
 | [Hona Door](https://open.spotify.com/track/5V53iOEMA72GtdvMyCoooa) | [Yunan](https://open.spotify.com/artist/6gIUB3nYX67IbwUi2bcrUJ), [Ysoblue](https://open.spotify.com/artist/2ASakRf4a8CynyqnuCMEww) | [Hona Door](https://open.spotify.com/album/7pdDgRl2GqNxWbcDCArEAo) | 2:45 | 2023-07-24 | 2023-11-17 |
+| [House Of Lies](https://open.spotify.com/track/7avo2LpNFXrgUgRtl9OsAL) | [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR), [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Sanjoy](https://open.spotify.com/artist/6qjhYs5KNSoSU6fNJqDGIo) | [House Of Lies](https://open.spotify.com/album/58U6KMHr9ApwuTXeKXIGa9) | 2:59 | 2024-05-24 |  |
 | [I Guess](https://open.spotify.com/track/0OxG3hlJNNzXcSrNVXEu8f) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t) | [I Guess](https://open.spotify.com/album/7eDGcL0rxILbzih7x51fMk) | 3:06 | 2023-03-10 |  |
 | [ICE](https://open.spotify.com/track/6gjarl3YlvQtnvGCZQ4IRK) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36) | [HARD DRIVE Vol\. 1](https://open.spotify.com/album/1AHeeHqsxY6YxuMzHESiEv) | 2:48 | 2023-03-10 |  |
 | [Illuminaughty \(From "Bajao"\)](https://open.spotify.com/track/09Qj66cjuqlD8jLGup9zju) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36) | [Illuminaughty \(From "Bajao"\)](https://open.spotify.com/album/6B5Y8ExFWpfd7WVcmjrJrM) | 3:01 | 2024-04-09 |  |
@@ -105,7 +106,7 @@
 | [Rishte](https://open.spotify.com/track/2RKQzkqmZvqGr1G328uocF) | [Prabh Deep](https://open.spotify.com/artist/7suHsCqUEifucqVyWaljgC) | [Bhram \(Deluxe\)](https://open.spotify.com/album/79E5VDPJEVHjfwVoQw6v9d) | 4:17 | 2023-03-10 | 2023-11-07 |
 | [Saath Ya Khilaaf](https://open.spotify.com/track/3PpzBZMTrCuNx4TC6SZN69) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t), [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36) | [Saath Ya Khilaaf](https://open.spotify.com/album/5Y73P4JbAElupnQAZCStkR) | 3:34 | 2023-03-10 | 2024-04-19 |
 | [Saath Ya Khilaaf](https://open.spotify.com/track/6t871hnKtXAqYjkRUjN7FY) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t), [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36) | [Saath Ya Khilaaf](https://open.spotify.com/album/5nXrYjQPzsbdxWz8z8g0E5) | 3:34 | 2024-04-09 |  |
-| [Saiyyan Ji](https://open.spotify.com/track/6tvRHN6beXyqVz4aQYxukl) | [Panther](https://open.spotify.com/artist/1HnV8VaGdip3y1SpJPgft0), [AKASA](https://open.spotify.com/artist/4mRPyvdSBxARQIFeXXM13s), [Ankee](https://open.spotify.com/artist/0eJO7NuzYBNE2tVGcxiRfn) | [Kasam Paida Karne Wale Ki](https://open.spotify.com/album/5z0wEYUqQSFOb3hFfq6qDY) | 3:12 | 2023-09-01 |  |
+| [Saiyyan Ji](https://open.spotify.com/track/6tvRHN6beXyqVz4aQYxukl) | [Panther](https://open.spotify.com/artist/1HnV8VaGdip3y1SpJPgft0), [AKASA](https://open.spotify.com/artist/4mRPyvdSBxARQIFeXXM13s), [Ankee](https://open.spotify.com/artist/0eJO7NuzYBNE2tVGcxiRfn) | [Kasam Paida Karne Wale Ki](https://open.spotify.com/album/5z0wEYUqQSFOb3hFfq6qDY) | 3:12 | 2023-09-01 | 2024-05-25 |
 | [Samajh Rahi Hai](https://open.spotify.com/track/680FKrGby9wBLFIzY2MFf9) | [Panther](https://open.spotify.com/artist/1HnV8VaGdip3y1SpJPgft0), [Spectra Music](https://open.spotify.com/artist/6kQXMHA8JGJQsRsMBqqe7l) | [Samajh Rahi Hai](https://open.spotify.com/album/1k8V6kgfwZp4Bx7IyqzTQ4) | 2:53 | 2023-08-10 |  |
 | [Sanki](https://open.spotify.com/track/0Dwsm89mqCLjfwiRstctbl) | [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR), [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo), [Raga](https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO), [Aghor](https://open.spotify.com/artist/3AsmJFW9t14OXuJp9zOuPk) | [Nishu](https://open.spotify.com/album/0PA5ewwEHCceY61xBeVBV1) | 4:58 | 2023-03-10 |  |
 | [Sath Chalegi](https://open.spotify.com/track/0mTscimdid589rZpKNJZPu) | [Raga](https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO), [Rish](https://open.spotify.com/artist/0KzR1TCZ13KSIabw8xUaMK) | [Sath Chalegi](https://open.spotify.com/album/6359k4XlwyF81N12omSDHD) | 2:18 | 2023-03-10 | 2023-10-12 |

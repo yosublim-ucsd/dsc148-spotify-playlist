@@ -2,9 +2,9 @@
 
 ### [Next Gen Singer\-Songwriters](https://open.spotify.com/playlist/37i9dQZF1DXdbTERrLjYkP)
 
-> Discover the next wave of talent on the scene writing their own songs\. Cover: Greyson Chance
+> Discover the next wave of talent on the scene writing their own songs\. Cover: Romy Mars
 
-672 songs - 1 day 11 hr 42 min
+679 songs - 1 day 12 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,6 +163,7 @@
 | [Different](https://open.spotify.com/track/1KfXuX55mKi7dJmNhDlaW3) | [Landan Ash](https://open.spotify.com/artist/6qhb8OD7uR2pIteZ1FfroC) | [Different](https://open.spotify.com/album/7Jm1oRYt9j8kD7tMdDB19a) | 4:05 | 2024-01-05 | 2024-04-27 |
 | [Difficult](https://open.spotify.com/track/3JiaA3hvuKu4Fjf6AWwVMX) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Difficult](https://open.spotify.com/album/5ut6gnxZsNlq5ZjiW06Ht8) | 4:17 | 2022-10-07 | 2023-01-28 |
 | [dishes](https://open.spotify.com/track/5fl0hbVtZpswYuFORfDkfO) | [dee holt](https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL) | [dishes](https://open.spotify.com/album/3Sk4lToMRHoSjjzorQBAQX) | 2:40 | 2023-03-10 | 2023-08-12 |
+| [Do Your Worst](https://open.spotify.com/track/1WQm4kw3blYLYbsA9kTsTE) | [Zackery](https://open.spotify.com/artist/5GQHNdYVBppXNGb7RHJHIc) | [Do Your Worst](https://open.spotify.com/album/2LS7qVSq37ThFZkkmhrY3w) | 3:39 | 2024-05-24 |  |
 | [Don't Tell My Mom](https://open.spotify.com/track/52xPJ6sISOam1g1blK9RF0) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Don’t Tell My Mom](https://open.spotify.com/album/3TE6FmGfVRv442zvXQVsqv) | 3:08 | 2022-09-30 | 2022-12-16 |
 | [Don't Tell My Mom](https://open.spotify.com/track/1Ip2m42GTwiaG20hW7dtuZ) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Everything To Everyone](https://open.spotify.com/album/4Kk5hoolfW8UN6cTSo5fXJ) | 3:09 | 2022-11-25 | 2023-06-13 |
 | [Don’t Look At Me](https://open.spotify.com/track/1PRbcpYwFl2kLzFDR5HiUn) | [Maddy Hicks](https://open.spotify.com/artist/0wKl6457qdsk7WxnqOeeFJ) | [Don’t Look At Me](https://open.spotify.com/album/427MZvPeKO2DZMAPHLGVwY) | 2:28 | 2024-04-26 |  |
@@ -326,6 +327,7 @@
 | [If Nobody Likes U](https://open.spotify.com/track/7aHpcQcGlehH1LNJaTHUkW) | [Addison Grace](https://open.spotify.com/artist/39EIRTZx1JjfeDLVdbj2ap) | [If Nobody Likes U](https://open.spotify.com/album/1BjzbpWTiPQQchpat72gCH) | 3:33 | 2022-10-28 | 2022-11-12 |
 | [if you ask me to](https://open.spotify.com/track/63XZMpI9z3Grrd5YH5sl5L) | [charli d'amelio](https://open.spotify.com/artist/7yURu3gRxmCReoYCg8m5M9) | [if you ask me to](https://open.spotify.com/album/4jF92ciZwl1apnJCvn3giR) | 3:12 | 2022-10-28 | 2023-01-28 |
 | [if you hate me, say it](https://open.spotify.com/track/5fY07Uq0bLdEKIolWaNjpO) | [Cassidi](https://open.spotify.com/artist/3hHnYAexHQ3wYGYno6LArK) | [if you hate me, say it](https://open.spotify.com/album/3SuFmwD5seyB2fgzvJGg8r) | 3:18 | 2022-01-14 | 2022-08-06 |
+| [if you still like me in the morning](https://open.spotify.com/track/32UGfgmC8cbsK3RpqIJs4f) | [Tessa Rae](https://open.spotify.com/artist/1DdDuFwFjcX2NN5bYnqu5k) | [if you still like me in the morning](https://open.spotify.com/album/7uEB2J1sLv4Wg48XXUH93l) | 3:48 | 2024-05-24 |  |
 | [If You'll Be Mine](https://open.spotify.com/track/7zU6Wxahb3l4ZOz4V0RljM) | [Hudson Ingram](https://open.spotify.com/artist/1BRxpuKTlqnqSofTbVx4oo) | [If You'll Be Mine](https://open.spotify.com/album/2hWRvVLlBOGkTVfB776DaF) | 2:51 | 2023-12-15 |  |
 | [In a Few Months](https://open.spotify.com/track/6FAMGlXpqVkgCpTgA5iEYs) | [Savannah Sgro](https://open.spotify.com/artist/5aj9AKqFL0JpL2sQ8Q2irp) | [In a Few Months](https://open.spotify.com/album/2tGxcCJyqcipZtervTeD77) | 2:52 | 2023-01-27 | 2023-04-15 |
 | [in my head](https://open.spotify.com/track/4E4K8qooKOsDHpZrmquBGm) | [Mad Tsai](https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB) | [in my head](https://open.spotify.com/album/6LxluJA87ubb7G4prSX07I) | 3:44 | 2023-04-28 | 2023-09-02 |
@@ -369,6 +371,7 @@
 | [Like All My Friends](https://open.spotify.com/track/70Vjb8pcNJT2HVfDLC2MJo) | [Francis Karel](https://open.spotify.com/artist/2ICBdsgeKJwqgRZv2yU5s6) | [Like All My Friends](https://open.spotify.com/album/41cZLPaKv1sqOsLdbeGGoq) | 3:07 | 2022-04-01 | 2022-05-20 |
 | [like i used to](https://open.spotify.com/track/1RoBUQ0gt9T4cff4xQflq3) | [Savanna Leigh](https://open.spotify.com/artist/056C8IrJo00DfazBdLIiLt) | [unfamiliar, like i used to](https://open.spotify.com/album/4suJEX0wCdoExjzxVZFkso) | 2:35 | 2024-02-02 |  |
 | [Like Me, Like Me](https://open.spotify.com/track/4O49IKbCszP1tUKQFhJ2xS) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [Like Me, Like Me](https://open.spotify.com/album/022V8TNgMqyKKLkqTD5TUO) | 2:25 | 2023-08-11 | 2023-12-14 |
+| [Like You Used To](https://open.spotify.com/track/6l6ycuWiB5kaDRAObqzedo) | [Hunter Daily](https://open.spotify.com/artist/5t5Fbw7cQgZyJnyJhmanlW) | [Like You Used To](https://open.spotify.com/album/7j3SAf1ObSZg3aWi1tkssR) | 3:50 | 2024-05-24 |  |
 | [Little Bit More](https://open.spotify.com/track/6rG1DdPCTzGibgHliYJ4ws) | [Suriel Hess](https://open.spotify.com/artist/5MLIxVYkY4Fc2dwdaYSS8G) | [Little Bit More](https://open.spotify.com/album/0Fb8tXgVncpgZgUeuOiDlF) | 3:00 | 2022-10-28 | 2022-12-24 |
 | [Little Things](https://open.spotify.com/track/1nmOgtVp3yZNJQ1RzJ8Ney) | [Brye](https://open.spotify.com/artist/6Z5uMO0V6jlOuZ7LUDrSsC) | [Little Things](https://open.spotify.com/album/0nMEiut01f32QDCyKojM3N) | 3:17 | 2024-05-17 |  |
 | [Locked Up Never Fade](https://open.spotify.com/track/30DYH6JwOhWdGwrQfU2U55) | [Lucy Gaffney](https://open.spotify.com/artist/1dWfI2kDIBAxs8OxI5GUVQ) | [Locked Up Never Fade](https://open.spotify.com/album/54vZ2lPCS9hCzSERgIG3z8) | 5:24 | 2024-01-05 |  |
@@ -431,6 +434,7 @@
 | [Muscle Memory](https://open.spotify.com/track/66MkUGsPCH3k12PHghVQaQ) | [Tatiana Manaois](https://open.spotify.com/artist/7z1VrrLktQYoS9C0cFbfnI) | [Muscle Memory](https://open.spotify.com/album/1pWzezVNG1OBtP62iJs6c3) | 3:28 | 2022-01-14 | 2022-05-20 |
 | [My Brother](https://open.spotify.com/track/2GZolwLhttPdstcBXqKXyW) | [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [Who Do You Pray To?](https://open.spotify.com/album/5gJbs8y4oJD0hJESKi1E5z) | 3:09 | 2022-03-18 | 2022-04-12 |
 | [My Eyes Only](https://open.spotify.com/track/2iD1Ogu3Mck9MuMKIgIBVG) | [Precious Pepala](https://open.spotify.com/artist/2i6GoBzXmwxdD44bUM26M1) | [My Eyes Only](https://open.spotify.com/album/1VChtX56VENbyIyKw0NP19) | 3:14 | 2022-06-22 | 2022-12-17 |
+| [NEED ME](https://open.spotify.com/track/2M0Mh2R2GPAOAVYnXVjSFR) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [NEED ME](https://open.spotify.com/album/4LEWE31MV5QuWP9F0qxOus) | 3:43 | 2024-05-24 |  |
 | [Never Had a Chance](https://open.spotify.com/track/7kWHoZvIn3TzxUHYrszYFc) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [Never Had a Chance](https://open.spotify.com/album/5td0jzs96pRarCswOchXN8) | 2:25 | 2022-04-08 | 2022-06-23 |
 | [New Friend](https://open.spotify.com/track/6ypdHshYFvRKxwvk3gV2TC) | [ILIRA](https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41) | [NEVER REALLY THE END](https://open.spotify.com/album/0m8rinQENV3VFp8fud5gaD) | 3:38 | 2023-11-24 | 2024-04-06 |
 | [New Name to Heartbreak](https://open.spotify.com/track/65AxjXcLId94KrLHXAU0Kb) | [Emily James](https://open.spotify.com/artist/7FxEy78P0oIVEVxdaL9npy) | [New Name to Heartbreak](https://open.spotify.com/album/5WK6X2lUucPMPm6IfIGM0i) | 3:34 | 2023-06-12 | 2023-11-11 |
@@ -481,7 +485,7 @@
 | [promise to pick up the phone](https://open.spotify.com/track/4OkHozB0MJuzeFiHRU2CFC) | [eee gee](https://open.spotify.com/artist/7wwdO3koJONTrS5TtFJ8RN) | [SHE\-REX](https://open.spotify.com/album/0ioNHVLud9ieI0626t0RP9) | 3:52 | 2023-09-01 | 2024-01-20 |
 | [promised](https://open.spotify.com/track/2Fv3WCZVsCxQtkMAQLHMmJ) | [quinnie](https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e) | [flounder](https://open.spotify.com/album/3AmWQhIXHawKYgthdEJSLJ) | 3:58 | 2023-02-24 | 2023-06-24 |
 | [Prophecies](https://open.spotify.com/track/4Et7m1pazErkSegnrBNXkF) | [J\. Maya](https://open.spotify.com/artist/6uFYqDeLIwfURuF1yxVqJU) | [Poetic License](https://open.spotify.com/album/7G2Dh8OsAMclQAWIShyb7v) | 3:14 | 2022-12-02 | 2023-02-25 |
-| [Queen of Hollywood](https://open.spotify.com/track/6gSA54ZcMahgDve60MlqJC) | [Caity Krone](https://open.spotify.com/artist/0qMLMrYSgSJBquDGCOMERs) | [Queen of Hollywood](https://open.spotify.com/album/1KqfJ8A0XHIPWmFxObJB49) | 4:56 | 2024-04-05 |  |
+| [Queen of Hollywood](https://open.spotify.com/track/6gSA54ZcMahgDve60MlqJC) | [Caity Krone](https://open.spotify.com/artist/0qMLMrYSgSJBquDGCOMERs) | [Queen of Hollywood](https://open.spotify.com/album/1KqfJ8A0XHIPWmFxObJB49) | 4:56 | 2024-04-05 | 2024-05-25 |
 | [rage](https://open.spotify.com/track/0Ed5MKGIAIMYiW86M7qumt) | [Blessing](https://open.spotify.com/artist/57bDO2vmzu955G1W6EsYth) | [the girl next door](https://open.spotify.com/album/3MaPbB8htJFUCWQwUW0SjP) | 2:37 | 2022-04-22 | 2022-07-16 |
 | [Raining in June](https://open.spotify.com/track/7oHcx5tDMNr2YyyilaxsyG) | [Olivia Klugman](https://open.spotify.com/artist/3SEtmo8E5DJVuGddKYqeiU) | [Raining in June](https://open.spotify.com/album/3ceqN8cAMEoULjPmSytTNc) | 2:46 | 2022-01-14 | 2022-03-18 |
 | [realistic](https://open.spotify.com/track/4jSQEWDlHLrYEs8iDPb7qc) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [realistic](https://open.spotify.com/album/6AT3vx5geFUXbuo89ZJcfW) | 3:33 | 2022-11-25 | 2023-01-28 |
@@ -568,6 +572,7 @@
 | [Stranger](https://open.spotify.com/track/6zQjpTXDwTr0otUzBFqdPo) | [Willow Avalon](https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR) | [Stranger](https://open.spotify.com/album/4I3hBaNXrp7V0Fzx9KE8iA) | 3:54 | 2023-10-06 | 2024-01-27 |
 | [String Lights](https://open.spotify.com/track/6b1eBxLC6cD3qvqZXrirgq) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [String Lights](https://open.spotify.com/album/507ZVYcgV9C5pwXQlfZJo7) | 3:50 | 2022-01-14 | 2022-03-18 |
 | [Struck By Lightning \(feat\. Cavetown\)](https://open.spotify.com/track/3tAQPcaksoaVhCEMoPxZEJ) | [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH), [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Struck By Lightning \(feat\. Cavetown\)](https://open.spotify.com/album/1WAwuDACzHQWEef9ULmE4C) | 2:34 | 2022-01-14 | 2022-02-19 |
+| [Stuck Up](https://open.spotify.com/track/16q24WOiHPeEhuuCDw45ZR) | [Romy Mars](https://open.spotify.com/artist/6cJxlOHcaXLNUUKYkSecTd) | [Stuck Up](https://open.spotify.com/album/5mvwo5vHABNejQeADXkTeI) | 2:35 | 2024-05-24 |  |
 | [Sunday Crossword](https://open.spotify.com/track/3CB973XnoNN2QBAF5yaBxU) | [J\. Maya](https://open.spotify.com/artist/6uFYqDeLIwfURuF1yxVqJU) | [Sunday Crossword](https://open.spotify.com/album/6m0eoETUxlI5sWCW6e9akR) | 3:04 | 2022-08-12 | 2022-11-12 |
 | [Sunlight](https://open.spotify.com/track/710qfjtXZ5epd7pl9KdpTY) | [Maisy Kay](https://open.spotify.com/artist/1O9EVVcpg2FOQ0vAQ7LqiT) | [Sunlight](https://open.spotify.com/album/7LGzfSHsRiIXq2M47vwWZg) | 3:09 | 2024-02-16 |  |
 | [Sunny day](https://open.spotify.com/track/12UQIJePnGeLmpVReYpG2w) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 2:40 | 2022-07-15 | 2022-08-06 |
@@ -577,6 +582,7 @@
 | [Talk Too Much](https://open.spotify.com/track/1ekAgx1qOdnVoSlmkHghKq) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Snow Angel](https://open.spotify.com/album/3RqO05jxT9YYgNtMdQmo8Z) | 3:16 | 2023-09-01 | 2023-11-11 |
 | [Talk Too Much](https://open.spotify.com/track/7haim7EewbN5RnByO5GtWV) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Talk Too Much](https://open.spotify.com/album/5rsy1T9egnzYvl4wpfyXPw) | 3:16 | 2023-07-14 | 2023-09-05 |
 | [talking in your sleep](https://open.spotify.com/track/3FpztYu0GOJH1txtKKRnKw) | [Devon Gabriella](https://open.spotify.com/artist/1rfIKfqoygAsxTWBdzVO2i) | [From the Next Room](https://open.spotify.com/album/54IqM9oTczHCMX8sljk0AY) | 3:10 | 2024-02-23 |  |
+| [Tangerine](https://open.spotify.com/track/6xdB35eP1oltwaPgtwZ9tP) | [Caity Krone](https://open.spotify.com/artist/0qMLMrYSgSJBquDGCOMERs) | [Nose Job](https://open.spotify.com/album/2uOQTwIOf0IJecVoNYdFAi) | 4:31 | 2024-05-24 |  |
 | [Teenage Mona Lisa](https://open.spotify.com/track/4CnA1w7WulFrRPehCWDULz) | [Alfie Castley](https://open.spotify.com/artist/4t5uGGNiFjujYEEyVVDEwc) | [Teenage Mona Lisa](https://open.spotify.com/album/35Sb1Pi7OBPPWPyyGf9N6d) | 3:18 | 2022-02-16 | 2022-05-14 |
 | [Tell You More](https://open.spotify.com/track/73Ezf1bUEs8UUFKB1uQDd3) | [Will Troy](https://open.spotify.com/artist/2D9TZalGr1SmjkGguD6Jy1) | [Tell You More](https://open.spotify.com/album/3UY4wNYSfoWTbVEjGpGcud) | 3:17 | 2023-11-24 | 2024-03-02 |
 | [Tennis](https://open.spotify.com/track/5HjMrOB5mWB8F8Uh3wu58E) | [Matilda Lyn](https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0) | [A Bowl of Unripe Fruit](https://open.spotify.com/album/1sTbqsjJft5XrgnGRN2Y05) | 2:19 | 2023-11-10 | 2024-01-20 |
@@ -604,6 +610,7 @@
 | [this house is not a home](https://open.spotify.com/track/7CKDmTfTBNp6cezLioRqRs) | [Munn](https://open.spotify.com/artist/3cKS6z9VNfN9u5ZyNiph4l), [Delanie Leclerc](https://open.spotify.com/artist/547XK7rrl55NSCTqDa7TUx) | [this house is not a home](https://open.spotify.com/album/4sfBi3CDkc1y3k5MiReoLJ) | 2:38 | 2022-01-14 | 2022-09-03 |
 | [this town is a little less mine](https://open.spotify.com/track/4NtxiZ0LM2IWZecXKhY4MK) | [Jades Goudreault](https://open.spotify.com/artist/1LFfKkCrn95l1ZuxCNa3yN) | [this town is a little less mine](https://open.spotify.com/album/7Gr5p3X05a1cnlX5UI8oIT) | 2:07 | 2022-09-02 | 2022-12-24 |
 | [Til Death Do Us Part](https://open.spotify.com/track/4HkyqRGphINv1xhlP7xPEC) | [Leroy Sanchez](https://open.spotify.com/artist/1qwVM2JnEMXbKgvZESGsRn) | [Til Death Do Us Part](https://open.spotify.com/album/6AE7Jgr7arm1a48S8wOjvK) | 3:10 | 2022-01-21 | 2022-09-10 |
+| [Times Are Changin'](https://open.spotify.com/track/5GfeGwrQvFAQgevgfvmQ2D) | [Fraser Churchill](https://open.spotify.com/artist/07Y56gwdkeIu8RZpGy7tSZ) | [Times Are Changin'](https://open.spotify.com/album/6Mc1EE6rHNvMjKXrBadFIa) | 3:18 | 2024-05-24 |  |
 | [Tippy Toes](https://open.spotify.com/track/6krUyrHwGzkaF2nC6PlCSe) | [Sophie Holohan](https://open.spotify.com/artist/4kpaI92KQcPABQj9qxIopw) | [Tippy Toes](https://open.spotify.com/album/3nXahun45P81Hbx8Pyow2v) | 4:09 | 2024-04-05 |  |
 | [To The Bone](https://open.spotify.com/track/31A6HUffhAwFHlk5akfxiD) | [Sammy Copley](https://open.spotify.com/artist/2Ss8myJnkg66YWeaVqtOmN) | [To The Bone](https://open.spotify.com/album/2pBLBGkgGi5xgoPz5Wqudg) | 4:01 | 2022-05-27 | 2022-11-05 |
 | [Too Fast](https://open.spotify.com/track/3d4PNHZ9nOuZzfvRrRaIWI) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [This Kind of Thing Doesn’t Last](https://open.spotify.com/album/0Dfe6jHESwMI9ldlb7ENn0) | 3:56 | 2022-11-11 | 2023-02-04 |

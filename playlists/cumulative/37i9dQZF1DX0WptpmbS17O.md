@@ -4,7 +4,7 @@
 
 > I'd come back if you'd just call
 
-112 songs - 7 hr 16 min
+113 songs - 7 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [No, Pedal Steel](https://open.spotify.com/track/33Ym9lYGDDhFeS3ZzSfP9t) | [Muscadine Bloodline](https://open.spotify.com/artist/0EyZDKtc41e4A3a3v69MxD) | [Dispatch to 16th Ave.](https://open.spotify.com/album/4oNeyMqut0MLJpV85MMKqu) | 3:48 | 2023-03-03 | 2024-04-19 |
 | [Oh Sarah](https://open.spotify.com/track/25oxeU7fMQVrxvScjCMAeC) | [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB) | [Cuttin' Grass \- Vol\. 2 \(Cowboy Arms Sessions\)](https://open.spotify.com/album/3N51Ixwph25awFqhoACG0U) | 3:05 | 2022-10-12 |  |
 | [Ohio Forever](https://open.spotify.com/track/2DPTXclMay45uBj9bKEq9B) | [Michigander](https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu), [Sydney Sprague](https://open.spotify.com/artist/6kclOkS27VyWBtdnNq5GHs) | [Anniversary II](https://open.spotify.com/album/1fOUybYJNec1lhpwWIln83) | 3:22 | 2022-10-12 |  |
+| [Pink Skies](https://open.spotify.com/track/4ZJ4vzLQekI0WntDbanNC7) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Pink Skies](https://open.spotify.com/album/7LRZfujsTLyy814AnMSdtT) | 3:14 | 2024-05-24 |  |
 | [Please Don't Go](https://open.spotify.com/track/6DHPLbudo5JXNdUlG7zDcC) | [Wyatt Flores](https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y) | [Please Don't Go](https://open.spotify.com/album/4K2htiCgz7DrhLOWepp3ru) | 3:01 | 2023-02-15 |  |
 | [Pollution](https://open.spotify.com/track/0Ul3RMdHEyJHN6VQ7MfuML) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [Pollution](https://open.spotify.com/album/0wicQNp0h8uvwFp0Bro1Tq) | 3:54 | 2023-09-29 |  |
 | [Punchline](https://open.spotify.com/track/4gqRVDvnILW0cvBWZzKcRf) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Autumn Variations](https://open.spotify.com/album/5LXOgcszGvUkYzYL4v6wYg) | 3:26 | 2023-09-29 |  |

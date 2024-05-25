@@ -4,7 +4,7 @@
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-1,361 songs - 3 day 13 hr 17 min
+1,362 songs - 3 day 13 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,6 +204,7 @@
 | [Fantastic future \- from CrosSing](https://open.spotify.com/track/2L4IMezZdogiY0ndeYNitp) | [諏訪ななか](https://open.spotify.com/artist/2Rpn2JNSFaoyhgEj3H9dVO) | [Fantastic future \- from CrosSing](https://open.spotify.com/album/0kMgI0rrMO9cnNMyPvrOAq) | 4:15 | 2023-01-17 | 2023-01-19 |
 | [Far Middle](https://open.spotify.com/track/0xLdA7l1vOtMJTynqt7qkJ) | [YABI×YABI](https://open.spotify.com/artist/5lNh74hra4Q3pgXdV8nMjz) | [Far Middle](https://open.spotify.com/album/1SgmpdT9zS4CFjjbmAxov1) | 2:59 | 2023-01-17 | 2023-01-27 |
 | [Fashion](https://open.spotify.com/track/4cM4ZnZnS5YgzIb0TnuJpp) | [降幡 愛](https://open.spotify.com/artist/1VWk7Kn85D60gL6BPzaMWD) | [Fashion](https://open.spotify.com/album/5HPtIZYkRKNzpnERaQTrsz) | 3:12 | 2023-08-17 | 2023-09-29 |
+| [Fighting My Way](https://open.spotify.com/track/0Mk3AtI0pacKbiGiZo9bOi) | [初星学園](https://open.spotify.com/artist/4C9binD0PqNg8nLD93FQpr), [Giga](https://open.spotify.com/artist/73agKiU7x2AtIEH2IAK2iS), [花海咲季](https://open.spotify.com/artist/3mzeh6yk3FFBVsxodzs5cN) | [Fighting My Way](https://open.spotify.com/album/3fwJuPDLZ3v7CMCdCqiADW) | 3:19 | 2024-05-24 |  |
 | [FightSong](https://open.spotify.com/track/37vujUbX37xoBmwoddMYck) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [FightSong](https://open.spotify.com/album/6rpUs50OKVNUGDDusbHvET) | 3:28 | 2022-12-27 | 2023-01-18 |
 | [Find the truth](https://open.spotify.com/track/11kTme3riMq4bEgawgtGT6) | [Rainy。](https://open.spotify.com/artist/2xhw0zn3geEHR4WX62KrAl) | [Find the truth](https://open.spotify.com/album/3LfcO5kUpQBwGFwT4DkM6o) | 3:50 | 2022-05-28 | 2022-06-03 |
 | [Fine Days](https://open.spotify.com/track/7IvySywtSMnhPm2pDPIDfj) | [諏訪ななか](https://open.spotify.com/artist/2Rpn2JNSFaoyhgEj3H9dVO) | [Fine Days](https://open.spotify.com/album/5G2H3tBsXRon4X7ska2MwG) | 3:40 | 2022-11-02 | 2022-12-07 |
@@ -819,7 +820,7 @@
 | [おどる ひかり](https://open.spotify.com/track/5vKeKeMQEOVVHvWoboCWdK) | [Cody・Lee\(李\)](https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX) | [おどる ひかり](https://open.spotify.com/album/70dxLOHCgr6kXq9PU6v1er) | 4:41 | 2023-04-06 | 2023-05-26 |
 | [おれはジャイアンさまだ! \- 2022](https://open.spotify.com/track/4twohb62NBcXxAEAPF4lF6) | [ジャイアン \(CV: 木村 昴\)](https://open.spotify.com/artist/4dqkQ7WY5gXehLHawc7ht6) | [ジャイアントドリーム/おれはジャイアンさまだ!2022](https://open.spotify.com/album/7dnlGbyQpyFRRwcI7hUV3p) | 2:08 | 2022-07-19 | 2022-08-17 |
 | [おーる・ざ・やんぐ・ぎーくす](https://open.spotify.com/track/5eMZFpCA34CjojOSMwtLTQ) | [Earphones](https://open.spotify.com/artist/6nH1MaNtYwXEuwdOZ1R75p) | [おーる・ざ・やんぐ・ぎーくす](https://open.spotify.com/album/7DdO9kXkzARuAeVDc15Ibs) | 4:03 | 2024-02-08 | 2024-02-14 |
-| [お化けひまわり](https://open.spotify.com/track/5Gn4dQju4nRtBfPmvjLGuh) | [Pii](https://open.spotify.com/artist/2PSgWXYHWYU45JStIE38LH) | [お化けひまわり](https://open.spotify.com/album/5jpzjlkCt5fwM9slW8k5Zm) | 3:23 | 2024-04-23 |  |
+| [お化けひまわり](https://open.spotify.com/track/5Gn4dQju4nRtBfPmvjLGuh) | [Pii](https://open.spotify.com/artist/2PSgWXYHWYU45JStIE38LH) | [お化けひまわり](https://open.spotify.com/album/5jpzjlkCt5fwM9slW8k5Zm) | 3:23 | 2024-04-23 | 2024-05-25 |
 | [かえりみちの色](https://open.spotify.com/track/3bLVwyhaJuRyxZAGWO0vv0) | [渋谷ハル](https://open.spotify.com/artist/6mXvoLGqYh8T8As0LYuU8s) | [かえりみちの色](https://open.spotify.com/album/15V9z87xbRv1SECaxMDxrs) | 4:09 | 2022-07-07 | 2022-07-29 |
 | [かかった魔法はアマノジャク](https://open.spotify.com/track/2tSjz7fRrvwTfQWaElC1xX) | [Aimi](https://open.spotify.com/artist/4csDToi5WSYjE48uYt0uYi) | [AIMI SOUND](https://open.spotify.com/album/7MdsF6SQF5LIkZK82DhaDr) | 3:32 | 2022-07-12 | 2022-08-24 |
 | [かたち](https://open.spotify.com/track/70sWTc5SHGVpbV0K56LMC6) | [安月名莉子](https://open.spotify.com/artist/7ChJuYuw9pM8MqaZOAmvHX) | [TVアニメ「メイドインアビス 烈日の黄金郷」オープニングテーマ「かたち」](https://open.spotify.com/album/3TUSn0hWiEhS7AnFGUOWB7) | 3:32 | 2022-08-23 | 2022-08-25 |

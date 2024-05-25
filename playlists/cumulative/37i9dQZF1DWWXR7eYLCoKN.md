@@ -4,10 +4,11 @@
 
 > Sambinhas selecionados especialmente pra você curtir um dia de sol.
 
-149 songs - 8 hr 45 min
+150 songs - 8 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [A Carta \- Ao Vivo](https://open.spotify.com/track/5SBtvHWDye0wHQZzyIp9jz) | [Illy](https://open.spotify.com/artist/5gWFbdcQOMRYz1cdCuBxWO) | [Samba Djanira \(Ao Vivo\)](https://open.spotify.com/album/2p9rpcvacUrFxMJ7bUgUgK) | 3:30 | 2024-05-24 |  |
 | [Alegria / o Sol Nascerá](https://open.spotify.com/track/0lI75kXFjBF9FCL7PGWTji) | [Roberta Sá](https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG) | [Sambas & Bossas](https://open.spotify.com/album/3BmqqPiJw5xmmQBdpr8Q3S) | 4:09 | 2023-04-28 |  |
 | [Alquimias](https://open.spotify.com/track/0AXNgjMMwC79W7C3FtzkDP) | [Fabiana Cozza](https://open.spotify.com/artist/4LRB7RihmGCUE9TYFH6151), [Ilessi](https://open.spotify.com/artist/7tFzUF3Tvd65nlJ1Nky7va) | [Urucungo](https://open.spotify.com/album/0lMmvVQva0pzeKH1aJ6r1p) | 5:11 | 2023-11-10 |  |
 | [Alvorada](https://open.spotify.com/track/7Bq17tNAUCLceZQOJMnj3D) | [Cartola](https://open.spotify.com/artist/0RSWHhBUwW7lhCqXqxKxWN) | [Raizes Do Samba](https://open.spotify.com/album/0i9SwtLwZ8cOuH5qtkwTvT) | 2:38 | 2023-04-28 |  |
@@ -151,7 +152,7 @@
 | [Vaso Quebrado](https://open.spotify.com/track/5xlsorPYXsFijrO57RSe0n) | [Elza Soares](https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi) | [Onze \(Músicas Inéditas de Adoniran Barbosa\)](https://open.spotify.com/album/5XhVm7loNdz3YTAkTgDPgF) | 3:26 | 2023-07-28 |  |
 | [Vive](https://open.spotify.com/track/27Q2MMzV3wnE3ha02N4Fg4) | [Maria Bethânia](https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV) | [Oasis](https://open.spotify.com/album/3fyFwIi7A4hCq08q2JvMgS) | 5:06 | 2023-11-10 | 2024-04-19 |
 | [Vive](https://open.spotify.com/track/7L8CsrDISh97u1oArY2HAs) | [Maria Bethânia](https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV) | [Oasis](https://open.spotify.com/album/4vWO9mZWPOLip3fnRqDtCl) | 5:06 | 2023-07-28 | 2023-12-24 |
-| [Vive](https://open.spotify.com/track/6IoUbKPRLM7nTt2bjbTogh) | [Maria Bethânia](https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV), [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [Oásis de Bethânia](https://open.spotify.com/album/3nG2XP3MFdQYCdX40pQAF9) | 5:06 | 2024-01-19 |  |
+| [Vive](https://open.spotify.com/track/6IoUbKPRLM7nTt2bjbTogh) | [Maria Bethânia](https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV), [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [Oásis de Bethânia](https://open.spotify.com/album/3nG2XP3MFdQYCdX40pQAF9) | 5:06 | 2024-01-19 | 2024-05-25 |
 | [Zé Do Caroço](https://open.spotify.com/track/1x8uLFuwVbLxcvVerQtuWq) | [Mariana Aydar](https://open.spotify.com/artist/3rE82NMVBb5C5tQ83o8u8N), [Leci Brandao](https://open.spotify.com/artist/5iiQvuDCnlXoK8iAhydW0u) | [Kavita 1](https://open.spotify.com/album/7hqmVqRcjVRqcEfoAQjqoO) | 6:32 | 2023-04-28 |  |
 | [Zé Do Caroço](https://open.spotify.com/track/06LyRh04GT2eHMLShK3nsz) | [Mariana Aydar](https://open.spotify.com/artist/3rE82NMVBb5C5tQ83o8u8N), [Leci Brandao](https://open.spotify.com/artist/5iiQvuDCnlXoK8iAhydW0u) | [Welcome To COPACABANA \- The Brazilian Melting Pop](https://open.spotify.com/album/0veFCfLzR5pOgNVXzAXlJQ) | 6:32 | 2024-01-19 | 2024-04-19 |
 | [Água de Chuva no Mar \- Do filme "Um Casal Inseparável"](https://open.spotify.com/track/1PmJKK9Jclc230tru8UOHb) | [Mart'nália](https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX) | [Água de Chuva no Mar \(Do filme "Um Casal Inseparável"\)](https://open.spotify.com/album/2Mz2TXMsFDEqrccgPKVUQo) | 4:08 | 2023-04-28 |  |

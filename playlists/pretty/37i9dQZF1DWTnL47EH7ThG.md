@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnL47EH7ThG.md) - [plain]
 
 > <a href="spotify:artist:6kf69CwzgodrETRgzcjX95">BAMBII</a>'s favorite tracks\. Updated regularly\. Curated by BAMBII\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,422 likes - 148 songs - 7 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,436 likes - 148 songs - 7 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -142,7 +142,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnL47EH7ThG.md) - [plain]
 | 132 | [Khmlwugh](https://open.spotify.com/track/6fsAWAKljmG877puzgHPjt) | [HOMESHAKE](https://open.spotify.com/artist/4DMSJzGjw2SMkKAT5EEE5u) | [Fresh Air](https://open.spotify.com/album/6Jd5SAg6TVeYlXIu5F7Ia8) | 3:35 |
 | 133 | [You](https://open.spotify.com/track/3wG8a1EraWKj9FnoVWaO2t) | [Roska](https://open.spotify.com/artist/5p8U1acntDKzfbbZLwWYE5), [Murder He Wrote](https://open.spotify.com/artist/4n11sJzNp7JjBQw9sDze9Z) | [You](https://open.spotify.com/album/127QctLnyMThhls3ZlrbIf) | 4:15 |
 | 134 | [Smack the Door](https://open.spotify.com/track/0vlLuzbwUUB4L8aYTtwQQu) | [Dismantle](https://open.spotify.com/artist/6sjpYOCYKYiurpvJk0oNEp), [Van Basten](https://open.spotify.com/artist/3RhrAAJ6NscgogAUdBP1eg) | [Smack the Door](https://open.spotify.com/album/1ws4hwmPF3xto7rLuI87gi) | 3:50 |
-| 135 | [RESPECT](https://open.spotify.com/track/1SZNl9ghP3M7nvkki8rzCu) | [London Hilll](https://open.spotify.com/artist/7cqLnc6zTajTX61F6SGA2A), [LGP Qua](https://open.spotify.com/artist/3mCVZUKS4SXMHf7QdyKQFz) | [RESPECT](https://open.spotify.com/album/5au4sCWtFcJ70S74ABl9QZ) | 2:49 |
+| 135 | [RESPECT](https://open.spotify.com/track/1SZNl9ghP3M7nvkki8rzCu) | [London Hill](https://open.spotify.com/artist/1GHGcTFOhjYspfN2UKhhY8), [LGP Qua](https://open.spotify.com/artist/3mCVZUKS4SXMHf7QdyKQFz) | [RESPECT](https://open.spotify.com/album/5au4sCWtFcJ70S74ABl9QZ) | 2:49 |
 | 136 | [Run it](https://open.spotify.com/track/5VCsDSmSNkmIP7RaFYSMGZ) | [Vanessa Tha Finessa](https://open.spotify.com/artist/7d55wy6vEfabtFevi23pZt), [Smiles Davis](https://open.spotify.com/artist/6vjhuQY1IzfsaJJIKskfZD) | [Run it](https://open.spotify.com/album/5Kmk9a1DIxzpf0ebPMkYYQ) | 2:42 |
 | 137 | [Moody! \(feat\. Saba\)](https://open.spotify.com/track/3GH8eacML602pwvPdKiLAc) | [Jean Deaux](https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg), [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x) | [Watch This!](https://open.spotify.com/album/4Vu0PtnR4eyViFmKZNpJqL) | 1:45 |
 | 138 | [No Shade](https://open.spotify.com/track/6ukoGH0t4RbK3tCqbCpbbN) | [myst milano.](https://open.spotify.com/artist/0J1rVE3RunTC4Pm8ohPM7z) | [Shapeshyfter](https://open.spotify.com/album/0cESoqQSfbpjOLuT3b23G0) | 2:51 |

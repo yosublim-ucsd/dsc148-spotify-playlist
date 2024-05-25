@@ -1,12 +1,12 @@
 {
   "description": "This is El de La Guitarra. The essential tracks, all in one playlist.",
-  "num_followers": 88656,
+  "num_followers": 88676,
   "original_name": "This Is El de La Guitarra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zk01gAAAAAAJeR8Hs0CuKWtDWG8R/AiI",
+  "snapshot_id": "Zk6HAAAAAADJ9uBy5CBPj53D+ztCgf5i",
   "tracks": [
     {
       "added_at": null,
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
         }
       ],
-      "duration_ms": 138272,
-      "name": "Alex Valencia",
-      "url": "https://open.spotify.com/track/07fYyawvkLBdf7V4Ad0dwL"
+      "duration_ms": 120653,
+      "name": "Diamantes De Esfera",
+      "url": "https://open.spotify.com/track/2G7lzDzR0Bz3x7LoD3r27I"
     },
     {
       "added_at": null,
@@ -604,29 +604,9 @@
           "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
         }
       ],
-      "duration_ms": 120653,
-      "name": "Diamantes De Esfera",
-      "url": "https://open.spotify.com/track/2G7lzDzR0Bz3x7LoD3r27I"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Por Las Calles",
-        "url": "https://open.spotify.com/album/4sqxfNeqy1wpAJgk8Xuz1e"
-      },
-      "artists": [
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        },
-        {
-          "name": "Dani G",
-          "url": "https://open.spotify.com/artist/5VF5P0WpOEvfNmSVYRaSqq"
-        }
-      ],
-      "duration_ms": 149000,
-      "name": "Por Las Calles",
-      "url": "https://open.spotify.com/track/4nGiX1q909OD6ewChFFiB1"
+      "duration_ms": 138272,
+      "name": "Alex Valencia",
+      "url": "https://open.spotify.com/track/07fYyawvkLBdf7V4Ad0dwL"
     },
     {
       "added_at": null,
@@ -663,6 +643,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Por Las Calles",
+        "url": "https://open.spotify.com/album/4sqxfNeqy1wpAJgk8Xuz1e"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        },
+        {
+          "name": "Dani G",
+          "url": "https://open.spotify.com/artist/5VF5P0WpOEvfNmSVYRaSqq"
+        }
+      ],
+      "duration_ms": 149000,
+      "name": "Por Las Calles",
+      "url": "https://open.spotify.com/track/4nGiX1q909OD6ewChFFiB1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Con Los Pies En La Tierra Y La Mirada En El Cielo",
         "url": "https://open.spotify.com/album/2DE5r32KUueRrOKkeGXQ1T"
       },
@@ -675,22 +675,6 @@
       "duration_ms": 197247,
       "name": "WAX",
       "url": "https://open.spotify.com/track/7utzGYXtCeiFOMTAWzU6BJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El 7",
-        "url": "https://open.spotify.com/album/2f9SmGJPGVkdQmq4hbS7rd"
-      },
-      "artists": [
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        }
-      ],
-      "duration_ms": 225142,
-      "name": "El 7",
-      "url": "https://open.spotify.com/track/2CSB2buyBO4fRRNepjHRq5"
     },
     {
       "added_at": null,
@@ -727,8 +711,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vida De Jefe",
-        "url": "https://open.spotify.com/album/5oaYRUViQpFhtJmvdmKNME"
+        "name": "El 7",
+        "url": "https://open.spotify.com/album/2f9SmGJPGVkdQmq4hbS7rd"
       },
       "artists": [
         {
@@ -736,9 +720,9 @@
           "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
         }
       ],
-      "duration_ms": 155250,
-      "name": "Vida De Jefe",
-      "url": "https://open.spotify.com/track/2JwqhwGplXHVHX7kBIv9I4"
+      "duration_ms": 225142,
+      "name": "El 7",
+      "url": "https://open.spotify.com/track/2CSB2buyBO4fRRNepjHRq5"
     },
     {
       "added_at": null,
@@ -755,6 +739,22 @@
       "duration_ms": 153289,
       "name": "JJ Es La Clave",
       "url": "https://open.spotify.com/track/1g6LesEZ6Ai99arHJv6hBr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vida De Jefe",
+        "url": "https://open.spotify.com/album/5oaYRUViQpFhtJmvdmKNME"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "duration_ms": 155250,
+      "name": "Vida De Jefe",
+      "url": "https://open.spotify.com/track/2JwqhwGplXHVHX7kBIv9I4"
     },
     {
       "added_at": null,

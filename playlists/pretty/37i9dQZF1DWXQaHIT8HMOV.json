@@ -1,31 +1,15 @@
 {
-  "description": "Homegrown Ugandan hits in one playlist. Cover: Joshua Baraka",
-  "num_followers": 2984,
+  "description": "Homegrown Ugandan hits in one playlist. Cover: Winnie Nwagi",
+  "num_followers": 3003,
   "original_name": "Made In Uganda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkadxAAAAABRpqvGMuejmtYnCpZ8b437",
+  "snapshot_id": "ZlAhMAAAAAAXHgQ7lPOvMGyRbVad9xlN",
   "tracks": [
     {
-      "added_at": "2024-05-16 23:59:00",
-      "album": {
-        "name": "Masavu",
-        "url": "https://open.spotify.com/album/1kE9moAXgGGMB53Rxl6TuS"
-      },
-      "artists": [
-        {
-          "name": "Azawi",
-          "url": "https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR"
-        }
-      ],
-      "duration_ms": 176170,
-      "name": "Masavu",
-      "url": "https://open.spotify.com/track/4vQsuuW1bwV4Zy6YvdyyBG"
-    },
-    {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-24 05:10:08",
       "album": {
         "name": "Commander",
         "url": "https://open.spotify.com/album/6zG9mpL0l0Y914JBs63i58"
@@ -41,7 +25,39 @@
       "url": "https://open.spotify.com/track/0qy7wQ1yDQO6zNwzHd3Kmk"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-24 05:10:08",
+      "album": {
+        "name": "The One Omwami",
+        "url": "https://open.spotify.com/album/77dA9HhOrTOGx1mtsJqGtj"
+      },
+      "artists": [
+        {
+          "name": "Winnie Nwagi",
+          "url": "https://open.spotify.com/artist/6D2BPqCTzdBn26ficmaciD"
+        }
+      ],
+      "duration_ms": 251813,
+      "name": "Omwami",
+      "url": "https://open.spotify.com/track/30vOxrrv6DscZqziG7DFic"
+    },
+    {
+      "added_at": "2024-05-24 05:10:08",
+      "album": {
+        "name": "Masavu",
+        "url": "https://open.spotify.com/album/1kE9moAXgGGMB53Rxl6TuS"
+      },
+      "artists": [
+        {
+          "name": "Azawi",
+          "url": "https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR"
+        }
+      ],
+      "duration_ms": 176170,
+      "name": "Masavu",
+      "url": "https://open.spotify.com/track/4vQsuuW1bwV4Zy6YvdyyBG"
+    },
+    {
+      "added_at": "2024-05-24 05:10:08",
       "album": {
         "name": "Pepepepe",
         "url": "https://open.spotify.com/album/2Wy6NBtz5cWdiMcpFkVude"
@@ -57,7 +73,23 @@
       "url": "https://open.spotify.com/track/2sCdsQv4x44paAKor3Yeh9"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-24 05:10:08",
+      "album": {
+        "name": "MAD (INFINITY REMIX)",
+        "url": "https://open.spotify.com/album/2kEa8JfCMLMjnaPH94L2Da"
+      },
+      "artists": [
+        {
+          "name": "Navio",
+          "url": "https://open.spotify.com/artist/0itCt7khLTvv5WqlMJwYNQ"
+        }
+      ],
+      "duration_ms": 180638,
+      "name": "MAD - INFINITY REMIX",
+      "url": "https://open.spotify.com/track/4Yjd8cctVhkhYFgugKv2fp"
+    },
+    {
+      "added_at": "2024-05-24 05:10:08",
       "album": {
         "name": "Bailando (Latin Urbano Remix)",
         "url": "https://open.spotify.com/album/6X8mPyaTmPedCn0oWimxao"
@@ -77,7 +109,7 @@
       "url": "https://open.spotify.com/track/3D7q9QbalMOtCBNAsgLjY8"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-24 05:10:08",
       "album": {
         "name": "Growing Pains (Deluxe)",
         "url": "https://open.spotify.com/album/47EX0L1oFrF9x13M3VhuxG"
@@ -97,55 +129,7 @@
       "url": "https://open.spotify.com/track/5zaoKCTA6RW3XW03TUHTLe"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
-      "album": {
-        "name": "After 10:30",
-        "url": "https://open.spotify.com/album/6KAZHte6Hf1iL1Y6VKwzwZ"
-      },
-      "artists": [
-        {
-          "name": "Kohen Jaycee",
-          "url": "https://open.spotify.com/artist/2vFrO2ALgC0Q5y9pms9Mq1"
-        }
-      ],
-      "duration_ms": 132929,
-      "name": "After 10:30",
-      "url": "https://open.spotify.com/track/14VxAHYAoIxL6OZAhvUnL5"
-    },
-    {
-      "added_at": "2024-05-16 23:59:00",
-      "album": {
-        "name": "Mind Your Business",
-        "url": "https://open.spotify.com/album/4c4rNpKzG8uoVIBrvjlrjz"
-      },
-      "artists": [
-        {
-          "name": "Spice Diana",
-          "url": "https://open.spotify.com/artist/0l4viSdndwVHufMRZposyM"
-        }
-      ],
-      "duration_ms": 208822,
-      "name": "Mind Your Business",
-      "url": "https://open.spotify.com/track/3ndAqWz3OJZ7adPyS4yhm9"
-    },
-    {
-      "added_at": "2024-05-16 23:59:00",
-      "album": {
-        "name": "Muleleetu",
-        "url": "https://open.spotify.com/album/5sSTTcNNCE1SUVmp0sQ13D"
-      },
-      "artists": [
-        {
-          "name": "Eddy Kenzo",
-          "url": "https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j"
-        }
-      ],
-      "duration_ms": 158093,
-      "name": "Muleleetu",
-      "url": "https://open.spotify.com/track/15KycmRRSpjaczTTgwowex"
-    },
-    {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-24 05:10:08",
       "album": {
         "name": "Wakikuba",
         "url": "https://open.spotify.com/album/0WTiRdax3GmbI0EpPgccUq"
@@ -161,7 +145,71 @@
       "url": "https://open.spotify.com/track/4qBvBJ1HcZN4PYJV0Z1pEF"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-24 05:10:08",
+      "album": {
+        "name": "Embaga Ya Isma Na Amina",
+        "url": "https://open.spotify.com/album/2lPAD0u8rrpi95AVxZ2JAl"
+      },
+      "artists": [
+        {
+          "name": "Gravity Omutujju",
+          "url": "https://open.spotify.com/artist/6nxjPyAUGxuhWX68nT7oko"
+        }
+      ],
+      "duration_ms": 207229,
+      "name": "Embaga Ya Isma Na Amina",
+      "url": "https://open.spotify.com/track/27WeTg92aDBNGMTwAzlFDC"
+    },
+    {
+      "added_at": "2024-05-24 05:10:08",
+      "album": {
+        "name": "After 10:30",
+        "url": "https://open.spotify.com/album/6KAZHte6Hf1iL1Y6VKwzwZ"
+      },
+      "artists": [
+        {
+          "name": "Kohen Jaycee",
+          "url": "https://open.spotify.com/artist/2vFrO2ALgC0Q5y9pms9Mq1"
+        }
+      ],
+      "duration_ms": 132929,
+      "name": "After 10:30",
+      "url": "https://open.spotify.com/track/14VxAHYAoIxL6OZAhvUnL5"
+    },
+    {
+      "added_at": "2024-05-24 05:10:08",
+      "album": {
+        "name": "Mind Your Business",
+        "url": "https://open.spotify.com/album/4c4rNpKzG8uoVIBrvjlrjz"
+      },
+      "artists": [
+        {
+          "name": "Spice Diana",
+          "url": "https://open.spotify.com/artist/0l4viSdndwVHufMRZposyM"
+        }
+      ],
+      "duration_ms": 208822,
+      "name": "Mind Your Business",
+      "url": "https://open.spotify.com/track/3ndAqWz3OJZ7adPyS4yhm9"
+    },
+    {
+      "added_at": "2024-05-24 05:10:08",
+      "album": {
+        "name": "Muleleetu",
+        "url": "https://open.spotify.com/album/5sSTTcNNCE1SUVmp0sQ13D"
+      },
+      "artists": [
+        {
+          "name": "Eddy Kenzo",
+          "url": "https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j"
+        }
+      ],
+      "duration_ms": 158093,
+      "name": "Muleleetu",
+      "url": "https://open.spotify.com/track/15KycmRRSpjaczTTgwowex"
+    },
+    {
+      "added_at": "2024-05-24 05:10:08",
       "album": {
         "name": "Nteesa",
         "url": "https://open.spotify.com/album/3Uqp5YcoDFG26NlMTT2NnI"
@@ -181,7 +229,23 @@
       "url": "https://open.spotify.com/track/5cYU1jOUJuoJIrxXGg8nnd"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-24 05:10:08",
+      "album": {
+        "name": "Filipa",
+        "url": "https://open.spotify.com/album/7m0P0wpQMNZKFtziYkeO6E"
+      },
+      "artists": [
+        {
+          "name": "Airak",
+          "url": "https://open.spotify.com/artist/25o0mksRbxTxyfzh2nmD4n"
+        }
+      ],
+      "duration_ms": 124705,
+      "name": "Filipa",
+      "url": "https://open.spotify.com/track/2rjdyaSYYfMAGrQCRB9WqV"
+    },
+    {
+      "added_at": "2024-05-24 05:10:08",
       "album": {
         "name": "Hallo",
         "url": "https://open.spotify.com/album/3sTK6MaEkl5bRWZfQ4ontI"
@@ -201,7 +265,7 @@
       "url": "https://open.spotify.com/track/2hLyobDDNdIZ4Oarc95nkz"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-24 05:10:08",
       "album": {
         "name": "Abeeyo",
         "url": "https://open.spotify.com/album/3jApHQPhttpEFWxyx9OnaH"
@@ -221,7 +285,7 @@
       "url": "https://open.spotify.com/track/1duc3xfXWOgV9nq2w7cBIN"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-24 05:10:08",
       "album": {
         "name": "Butterflies",
         "url": "https://open.spotify.com/album/0Ffs3G6AtmVdMarb5jZbwF"
@@ -241,7 +305,7 @@
       "url": "https://open.spotify.com/track/7kq5akv1G7pBvCrxxROyd1"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-24 05:10:08",
       "album": {
         "name": "Kamese",
         "url": "https://open.spotify.com/album/4DmPcjBDA2fKQZyWH6lg1I"
@@ -257,7 +321,31 @@
       "url": "https://open.spotify.com/track/7wP1e00PvG9EJAkTFYGIIT"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-24 05:10:08",
+      "album": {
+        "name": "Do You Want to Party",
+        "url": "https://open.spotify.com/album/7jPtTxpFgvCeDJwUfxO0OZ"
+      },
+      "artists": [
+        {
+          "name": "Chwezimadeit",
+          "url": "https://open.spotify.com/artist/2TquSTWImAEk1CP0ZVeIqm"
+        },
+        {
+          "name": "DJ Chris",
+          "url": "https://open.spotify.com/artist/5kR9F5Fbmx5OY5NNG5Pbzk"
+        },
+        {
+          "name": "Kyvo Bouy",
+          "url": "https://open.spotify.com/artist/3DEny7mL5yyeEDPYXdO3ky"
+        }
+      ],
+      "duration_ms": 147368,
+      "name": "Do You Want to Party",
+      "url": "https://open.spotify.com/track/7srUC2ZI9u5srmd6juLAOH"
+    },
+    {
+      "added_at": "2024-05-24 05:10:08",
       "album": {
         "name": "Nkwekwe",
         "url": "https://open.spotify.com/album/6VE2TV96pn6x3hAv9Bu1PC"
@@ -273,7 +361,23 @@
       "url": "https://open.spotify.com/track/0bIJgylKORoXpq3CxBvIbG"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-24 05:10:08",
+      "album": {
+        "name": "Namulabako",
+        "url": "https://open.spotify.com/album/04Z3CMpi3cYj1QvoZ7ilMj"
+      },
+      "artists": [
+        {
+          "name": "Ugaboys",
+          "url": "https://open.spotify.com/artist/3MJRn5EWi6McEFbI00qNGe"
+        }
+      ],
+      "duration_ms": 167816,
+      "name": "Namulabako",
+      "url": "https://open.spotify.com/track/2iuL25zyjR69LmdlDzkj34"
+    },
+    {
+      "added_at": "2024-05-24 05:10:08",
       "album": {
         "name": "My Hero",
         "url": "https://open.spotify.com/album/1bK0u2oDaHIK8mWKDvfK16"
@@ -289,7 +393,7 @@
       "url": "https://open.spotify.com/track/1nZzoDuUje5KlTpte9rM1Q"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-24 05:10:08",
       "album": {
         "name": "Bend Ova",
         "url": "https://open.spotify.com/album/6NsGcX3HENASU71GnqMw8k"
@@ -317,7 +421,7 @@
       "url": "https://open.spotify.com/track/6bnxHm59kBn04ciFEZ2lxK"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-24 05:10:08",
       "album": {
         "name": "Sumagiza",
         "url": "https://open.spotify.com/album/62EA7ktWVkqJSodSQgxtv8"
@@ -337,31 +441,7 @@
       "url": "https://open.spotify.com/track/5TGDdmSgCybtcm4u2vFkfk"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
-      "album": {
-        "name": "Do You Want to Party",
-        "url": "https://open.spotify.com/album/7jPtTxpFgvCeDJwUfxO0OZ"
-      },
-      "artists": [
-        {
-          "name": "Chwezimadeit",
-          "url": "https://open.spotify.com/artist/2TquSTWImAEk1CP0ZVeIqm"
-        },
-        {
-          "name": "DJ Chris",
-          "url": "https://open.spotify.com/artist/5kR9F5Fbmx5OY5NNG5Pbzk"
-        },
-        {
-          "name": "Kyvo Bouy",
-          "url": "https://open.spotify.com/artist/3DEny7mL5yyeEDPYXdO3ky"
-        }
-      ],
-      "duration_ms": 147368,
-      "name": "Do You Want to Party",
-      "url": "https://open.spotify.com/track/7srUC2ZI9u5srmd6juLAOH"
-    },
-    {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-24 05:10:08",
       "album": {
         "name": "save me",
         "url": "https://open.spotify.com/album/4ZAwJKZynaG7DQDEUdgNeM"
@@ -381,23 +461,7 @@
       "url": "https://open.spotify.com/track/7hZAxrcjBKR0F3MdWmUavI"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
-      "album": {
-        "name": "Namulabako",
-        "url": "https://open.spotify.com/album/04Z3CMpi3cYj1QvoZ7ilMj"
-      },
-      "artists": [
-        {
-          "name": "Ugaboys",
-          "url": "https://open.spotify.com/artist/3MJRn5EWi6McEFbI00qNGe"
-        }
-      ],
-      "duration_ms": 167816,
-      "name": "Namulabako",
-      "url": "https://open.spotify.com/track/2iuL25zyjR69LmdlDzkj34"
-    },
-    {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-24 05:10:08",
       "album": {
         "name": "Crazy (Mutwe)",
         "url": "https://open.spotify.com/album/4dnmFaGd53nFSvCcQQE0PH"
@@ -417,7 +481,7 @@
       "url": "https://open.spotify.com/track/3ThEef9saIuUggNzBZOg4s"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-24 05:10:08",
       "album": {
         "name": "Your Sky Has No Limit(Remix)",
         "url": "https://open.spotify.com/album/7ecsebsRRk5R1JITUMUcrG"
@@ -437,7 +501,7 @@
       "url": "https://open.spotify.com/track/5w5nAChJ1GYZbZkG7KmBKS"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-24 05:10:08",
       "album": {
         "name": "Buntu Butono",
         "url": "https://open.spotify.com/album/6IM786ebwxU17zlAZLcwal"
@@ -453,7 +517,7 @@
       "url": "https://open.spotify.com/track/67YI9vKutXxFndWzBfvw8q"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-24 05:10:08",
       "album": {
         "name": "Kukyakala Na Kubwa",
         "url": "https://open.spotify.com/album/2VCSAuTmt8zOUi89AXNgGo"
@@ -489,7 +553,7 @@
       "url": "https://open.spotify.com/track/6EcnXbxE8u1QZfcNJ2tbxe"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-24 05:10:08",
       "album": {
         "name": "My Date",
         "url": "https://open.spotify.com/album/6pxjIHdQiPZyZ7oecyNPm4"
@@ -509,7 +573,27 @@
       "url": "https://open.spotify.com/track/7MymgauD1EQPJoApCn1RVG"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-24 05:10:08",
+      "album": {
+        "name": "Growing Pains",
+        "url": "https://open.spotify.com/album/5xLpYZ6JUKj4bqo5Bc2hLx"
+      },
+      "artists": [
+        {
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+        },
+        {
+          "name": "Axon",
+          "url": "https://open.spotify.com/artist/3g95XKMEfhHYudfTK9m6Ol"
+        }
+      ],
+      "duration_ms": 167755,
+      "name": "Dalilah",
+      "url": "https://open.spotify.com/track/22xDZE9YEZ2W0f19rVb5Gy"
+    },
+    {
+      "added_at": "2024-05-24 05:10:08",
       "album": {
         "name": "Akamuli",
         "url": "https://open.spotify.com/album/5NqUwN0zgmV8oz5hVaEaFb"
@@ -529,7 +613,7 @@
       "url": "https://open.spotify.com/track/7LSJCvHCUjmlE56OafIp6k"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-24 05:10:08",
       "album": {
         "name": "Hand Made Triumph (Omupambanyi)",
         "url": "https://open.spotify.com/album/1Eoq5CtZFKHJ7bDXy6rq56"
@@ -549,7 +633,7 @@
       "url": "https://open.spotify.com/track/67C63vdbFde7T1Mj1QH4Jq"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-24 05:10:08",
       "album": {
         "name": "Falling In Love",
         "url": "https://open.spotify.com/album/1ZSLFbAvGTUNECT52W2KCJ"
@@ -573,7 +657,7 @@
       "url": "https://open.spotify.com/track/5aJ7cMRKGlNwe4Mpl7aNot"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-24 05:10:08",
       "album": {
         "name": "Let's Music Vol 2",
         "url": "https://open.spotify.com/album/2ZaMITZXW1qt20EnWbIMuf"
@@ -589,7 +673,7 @@
       "url": "https://open.spotify.com/track/6776viloLrnBTXcAEYsaQ1"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-24 05:10:08",
       "album": {
         "name": "Kwete Kwete",
         "url": "https://open.spotify.com/album/3SkSbKK0xZIBHP7oeKeEAy"
@@ -605,43 +689,7 @@
       "url": "https://open.spotify.com/track/6e6y8lswqMRbRYiCFLyLLW"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
-      "album": {
-        "name": "SIGWA JAJJAWO (Onjagaliza Bubbi)",
-        "url": "https://open.spotify.com/album/4u1KmhTrnaZrQaHpYFNLHK"
-      },
-      "artists": [
-        {
-          "name": "Ziza Bafana",
-          "url": "https://open.spotify.com/artist/0rF2MfjTZWvmRsrdsVcdF3"
-        }
-      ],
-      "duration_ms": 157030,
-      "name": "Sigwa Jajjawo",
-      "url": "https://open.spotify.com/track/49y84WrwYfcZpBpFfv08Ni"
-    },
-    {
-      "added_at": "2024-05-16 23:59:00",
-      "album": {
-        "name": "Growing Pains",
-        "url": "https://open.spotify.com/album/5xLpYZ6JUKj4bqo5Bc2hLx"
-      },
-      "artists": [
-        {
-          "name": "Joshua Baraka",
-          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
-        },
-        {
-          "name": "Axon",
-          "url": "https://open.spotify.com/artist/3g95XKMEfhHYudfTK9m6Ol"
-        }
-      ],
-      "duration_ms": 167755,
-      "name": "Dalilah",
-      "url": "https://open.spotify.com/track/22xDZE9YEZ2W0f19rVb5Gy"
-    },
-    {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-24 05:10:08",
       "album": {
         "name": "Let's Music",
         "url": "https://open.spotify.com/album/3fyDH3PCwQOxqYJW0y1Klw"
@@ -657,7 +705,7 @@
       "url": "https://open.spotify.com/track/31ZxmuPnWEgJ6wu95mgf40"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-24 05:10:08",
       "album": {
         "name": "Yo Body",
         "url": "https://open.spotify.com/album/4NRlTxbeenzGsRORM3gLPC"
@@ -673,7 +721,7 @@
       "url": "https://open.spotify.com/track/5IfuuYy11rSQFghYk6RUB2"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-24 05:10:08",
       "album": {
         "name": "Let It Play",
         "url": "https://open.spotify.com/album/1ucEK6a8nB1piGe2HGMtZW"
@@ -693,7 +741,7 @@
       "url": "https://open.spotify.com/track/0DbRMauNkXY78bzmB1fa6B"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-24 05:10:08",
       "album": {
         "name": "Back",
         "url": "https://open.spotify.com/album/2Sw5Bk9fsTJbBJQUS3GRXp"
@@ -713,7 +761,7 @@
       "url": "https://open.spotify.com/track/3hf9XdQz2JETTL489EiI6b"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-24 05:10:08",
       "album": {
         "name": "Muntu Wange",
         "url": "https://open.spotify.com/album/43OSX80VLJScSkGM1r7E8P"
@@ -729,7 +777,7 @@
       "url": "https://open.spotify.com/track/2cltWvrDEDiWP5t9ufEOp3"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-24 05:10:08",
       "album": {
         "name": "Thursday",
         "url": "https://open.spotify.com/album/5hPcbB7WQJyICsr7CJxeGQ"
@@ -753,7 +801,7 @@
       "url": "https://open.spotify.com/track/5d4mvGOh7ZzKVIZrNmKKGc"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-24 05:10:08",
       "album": {
         "name": "OASIS",
         "url": "https://open.spotify.com/album/2LyrxrjHJM2SxaXc9UWpVV"
@@ -777,7 +825,7 @@
       "url": "https://open.spotify.com/track/1MtRGITSni0szQUvcCXhHj"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-24 05:10:08",
       "album": {
         "name": "Over",
         "url": "https://open.spotify.com/album/3O35nnZEXcmQht2m1vzNGl"
@@ -797,23 +845,7 @@
       "url": "https://open.spotify.com/track/0dUQnaFf8mn6ts1gI5Pb89"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
-      "album": {
-        "name": "Offline",
-        "url": "https://open.spotify.com/album/4BtgtXxG8BujT1B8qVZNRL"
-      },
-      "artists": [
-        {
-          "name": "Riff",
-          "url": "https://open.spotify.com/artist/2T29CQjXjyp2RAEXUVz6Qh"
-        }
-      ],
-      "duration_ms": 163369,
-      "name": "Offline",
-      "url": "https://open.spotify.com/track/1RG1d70HrUzbGljyF2wjlI"
-    },
-    {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-24 05:10:08",
       "album": {
         "name": "Tutamire",
         "url": "https://open.spotify.com/album/5F3Ahu2jSh25zW4YGm9qQ1"
@@ -829,7 +861,7 @@
       "url": "https://open.spotify.com/track/63l4eF30bX8vVTcRSuoBIc"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-24 05:10:08",
       "album": {
         "name": "Nwanilaako",
         "url": "https://open.spotify.com/album/37hfU05WeAHrchmEGW5O40"
@@ -845,7 +877,7 @@
       "url": "https://open.spotify.com/track/3LqicxLoiOglpMim5kwit2"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-24 05:10:08",
       "album": {
         "name": "Kyekiliwo",
         "url": "https://open.spotify.com/album/3sf7zqF8HY4XUTiAVn4RU6"
@@ -861,7 +893,7 @@
       "url": "https://open.spotify.com/track/5n3YEFEO4K5AvHIHkyZCg6"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-24 05:10:08",
       "album": {
         "name": "SANKOFA",
         "url": "https://open.spotify.com/album/1zSyQiZdfsczxs84VVghKC"
@@ -881,7 +913,7 @@
       "url": "https://open.spotify.com/track/4FKLDG7TJuMHtaP9sDZOpi"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-24 05:10:08",
       "album": {
         "name": "Kyabazinga",
         "url": "https://open.spotify.com/album/0coxBoWWL8gc7luOPj2nKY"
@@ -901,47 +933,7 @@
       "url": "https://open.spotify.com/track/1dXe4sn2nqtlf5N85sGfp5"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
-      "album": {
-        "name": "No Lie",
-        "url": "https://open.spotify.com/album/5GEQghh5ACDyb2Vbz25FnI"
-      },
-      "artists": [
-        {
-          "name": "Joshua Baraka",
-          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
-        },
-        {
-          "name": "Magixx",
-          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
-        }
-      ],
-      "duration_ms": 196363,
-      "name": "No Lie",
-      "url": "https://open.spotify.com/track/6ElY31qcNcHfiMH2cvuveK"
-    },
-    {
-      "added_at": "2024-05-16 23:59:00",
-      "album": {
-        "name": "Omukwano (Love)",
-        "url": "https://open.spotify.com/album/1DvxeF75SryYMeYsarF6NN"
-      },
-      "artists": [
-        {
-          "name": "Joshua Baraka",
-          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
-        },
-        {
-          "name": "Winnie Nwagi",
-          "url": "https://open.spotify.com/artist/6D2BPqCTzdBn26ficmaciD"
-        }
-      ],
-      "duration_ms": 183673,
-      "name": "Omukwano (Love)",
-      "url": "https://open.spotify.com/track/0OwVXpiH4Mikje2le0NQrG"
-    },
-    {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-24 05:10:08",
       "album": {
         "name": "Dreams",
         "url": "https://open.spotify.com/album/184CyMEhWh2T7O32DlVucH"
@@ -957,7 +949,7 @@
       "url": "https://open.spotify.com/track/5aDbyGU5A2TScEkKczGVUM"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-24 05:10:08",
       "album": {
         "name": "Gukuba",
         "url": "https://open.spotify.com/album/2sGJOLxu38C9Fzin1iwB8z"
@@ -977,7 +969,7 @@
       "url": "https://open.spotify.com/track/17rKr1FfnEDzA1LfyoAZqx"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-24 05:10:08",
       "album": {
         "name": "SANKOFA",
         "url": "https://open.spotify.com/album/1zSyQiZdfsczxs84VVghKC"
@@ -993,7 +985,7 @@
       "url": "https://open.spotify.com/track/35eelQcBjSxSVUq41Ip1el"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-24 05:10:08",
       "album": {
         "name": "Blessings",
         "url": "https://open.spotify.com/album/4BR9qEpGlHcLOWmWayRCcL"
@@ -1009,7 +1001,7 @@
       "url": "https://open.spotify.com/track/0TiSmHrbTSzMLrMXac4Jt8"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-24 05:10:08",
       "album": {
         "name": "Bwepaba",
         "url": "https://open.spotify.com/album/3KTcQeURSAxN6ubdoh9QKa"
@@ -1029,7 +1021,7 @@
       "url": "https://open.spotify.com/track/5zxBCElTKxOF2FptuZBjDt"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-24 05:10:08",
       "album": {
         "name": "Ability",
         "url": "https://open.spotify.com/album/7snzcqObYYgEgCzXPXCjqe"
@@ -1049,7 +1041,7 @@
       "url": "https://open.spotify.com/track/2WfykADENkOGFjTxL8I5Cs"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-24 05:10:08",
       "album": {
         "name": "Salary",
         "url": "https://open.spotify.com/album/0ysAKohoYkEI47eHS9GPry"
@@ -1069,7 +1061,7 @@
       "url": "https://open.spotify.com/track/78al3N9RaWJUDMhPS6Z669"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-24 05:10:08",
       "album": {
         "name": "Binkolele",
         "url": "https://open.spotify.com/album/6MfNYhFnajErRuvwzRBC8w"
@@ -1085,7 +1077,7 @@
       "url": "https://open.spotify.com/track/0zDT3yAXoFiBn0gcj91uaJ"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-24 05:10:08",
       "album": {
         "name": "Bedroom Essentials",
         "url": "https://open.spotify.com/album/1UNHyhwVrEpDXadpnPQeF4"
@@ -1105,7 +1097,7 @@
       "url": "https://open.spotify.com/track/3J12BNX50z4OsGpmihm4LG"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-24 05:10:08",
       "album": {
         "name": "Bailando",
         "url": "https://open.spotify.com/album/7t4A3s2p3zolibFnDwx1xY"
@@ -1121,7 +1113,7 @@
       "url": "https://open.spotify.com/track/5Kl68dPoUw00u2RvXLYFnn"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-24 05:10:08",
       "album": {
         "name": "Fertilizer",
         "url": "https://open.spotify.com/album/6Pz7K5KdsXCbk5CybkwIlp"

@@ -1,6 +1,6 @@
 {
   "description": "Roll the windows down and take a few risks out on the open, country roads.",
-  "num_followers": 32041,
+  "num_followers": 32048,
   "original_name": "The Road Less Traveled",
   "owner": {
     "name": "Spotify",
@@ -659,6 +659,26 @@
     {
       "added_at": "2024-03-25 16:53:27",
       "album": {
+        "name": "Tales Of America (The Second Coming)",
+        "url": "https://open.spotify.com/album/53NJ8rhui9uzJ1IagwQa4V"
+      },
+      "artists": [
+        {
+          "name": "Ondara",
+          "url": "https://open.spotify.com/artist/33saQZHi434TBuDAXbyU2W"
+        },
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 174586,
+      "name": "Milk And Honey",
+      "url": "https://open.spotify.com/track/3MBj4YAt6umNKhjOzAOWoz"
+    },
+    {
+      "added_at": "2024-03-25 16:53:27",
+      "album": {
         "name": "Interstate Gospel",
         "url": "https://open.spotify.com/album/0IXxmmlfSQxgJNWnNjHhgJ"
       },
@@ -683,26 +703,6 @@
       "duration_ms": 222733,
       "name": "Best Years of My Life",
       "url": "https://open.spotify.com/track/6mTSw3gE4k9U7CK8pzX9c0"
-    },
-    {
-      "added_at": "2024-03-25 16:53:27",
-      "album": {
-        "name": "Tales Of America (The Second Coming)",
-        "url": "https://open.spotify.com/album/53NJ8rhui9uzJ1IagwQa4V"
-      },
-      "artists": [
-        {
-          "name": "Ondara",
-          "url": "https://open.spotify.com/artist/33saQZHi434TBuDAXbyU2W"
-        },
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 174586,
-      "name": "Milk And Honey",
-      "url": "https://open.spotify.com/track/3MBj4YAt6umNKhjOzAOWoz"
     },
     {
       "added_at": "2024-03-25 16:53:27",
@@ -771,22 +771,6 @@
     {
       "added_at": "2024-03-25 16:53:27",
       "album": {
-        "name": "Lamentations",
-        "url": "https://open.spotify.com/album/16cNE8Er5s7OeJAe0Ki3vC"
-      },
-      "artists": [
-        {
-          "name": "American Aquarium",
-          "url": "https://open.spotify.com/artist/7nSYcucRT6IGiMepEmiZgT"
-        }
-      ],
-      "duration_ms": 175391,
-      "name": "Before The Dogwood Blooms",
-      "url": "https://open.spotify.com/track/6OkVaVrNaWT54KQMBCCmyN"
-    },
-    {
-      "added_at": "2024-03-25 16:53:27",
-      "album": {
         "name": "That Girl",
         "url": "https://open.spotify.com/album/7wZmpvh4f6WIBftDnAdxCP"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 379855,
       "name": "Learning to Lose (feat. Willie Nelson)",
       "url": "https://open.spotify.com/track/7AA9ZppMBiNOGSW0nR6hxc"
+    },
+    {
+      "added_at": "2024-03-25 16:53:27",
+      "album": {
+        "name": "Lamentations",
+        "url": "https://open.spotify.com/album/16cNE8Er5s7OeJAe0Ki3vC"
+      },
+      "artists": [
+        {
+          "name": "American Aquarium",
+          "url": "https://open.spotify.com/artist/7nSYcucRT6IGiMepEmiZgT"
+        }
+      ],
+      "duration_ms": 175391,
+      "name": "Before The Dogwood Blooms",
+      "url": "https://open.spotify.com/track/6OkVaVrNaWT54KQMBCCmyN"
     },
     {
       "added_at": "2024-03-25 16:53:27",
@@ -1051,18 +1051,22 @@
     {
       "added_at": "2024-03-25 16:53:27",
       "album": {
-        "name": "Neon Cross",
-        "url": "https://open.spotify.com/album/2ENwnvyAD2AzUP2Z46l8bQ"
+        "name": "Everything Is Broken",
+        "url": "https://open.spotify.com/album/6wBh8mo97CY42OTfh1DjHi"
       },
       "artists": [
         {
-          "name": "Jaime Wyatt",
-          "url": "https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U"
+          "name": "Sheryl Crow",
+          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+        },
+        {
+          "name": "Jason Isbell",
+          "url": "https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY"
         }
       ],
-      "duration_ms": 264181,
-      "name": "Neon Cross",
-      "url": "https://open.spotify.com/track/5ayliDKP3otgKuYCfSiySg"
+      "duration_ms": 272213,
+      "name": "Everything Is Broken",
+      "url": "https://open.spotify.com/track/3UHyIr4CEma2wusb208Wyl"
     },
     {
       "added_at": "2024-03-25 16:53:27",
@@ -1083,22 +1087,18 @@
     {
       "added_at": "2024-03-25 16:53:27",
       "album": {
-        "name": "Everything Is Broken",
-        "url": "https://open.spotify.com/album/6wBh8mo97CY42OTfh1DjHi"
+        "name": "Neon Cross",
+        "url": "https://open.spotify.com/album/2ENwnvyAD2AzUP2Z46l8bQ"
       },
       "artists": [
         {
-          "name": "Sheryl Crow",
-          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
-        },
-        {
-          "name": "Jason Isbell",
-          "url": "https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY"
+          "name": "Jaime Wyatt",
+          "url": "https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U"
         }
       ],
-      "duration_ms": 272213,
-      "name": "Everything Is Broken",
-      "url": "https://open.spotify.com/track/3UHyIr4CEma2wusb208Wyl"
+      "duration_ms": 264181,
+      "name": "Neon Cross",
+      "url": "https://open.spotify.com/track/5ayliDKP3otgKuYCfSiySg"
     },
     {
       "added_at": "2024-03-25 16:53:27",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2024-03-25 16:53:27",
       "album": {
-        "name": "Call the Captain",
-        "url": "https://open.spotify.com/album/5YNqgj9e3qqsaUojuGfPSi"
-      },
-      "artists": [
-        {
-          "name": "Western Centuries",
-          "url": "https://open.spotify.com/artist/0NlJw273FRxv1BFIYwYBTp"
-        }
-      ],
-      "duration_ms": 222333,
-      "name": "Before That Final Bell",
-      "url": "https://open.spotify.com/track/4vwpnBraqdzWKugN0Brrfq"
-    },
-    {
-      "added_at": "2024-03-25 16:53:27",
-      "album": {
         "name": "Colder Than You",
         "url": "https://open.spotify.com/album/4tJcolZrF1YhafTGxATF1R"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 171692,
       "name": "Heading South",
       "url": "https://open.spotify.com/track/2c8WbESPtql9rRE2lB9Wwl"
+    },
+    {
+      "added_at": "2024-03-25 16:53:27",
+      "album": {
+        "name": "Call the Captain",
+        "url": "https://open.spotify.com/album/5YNqgj9e3qqsaUojuGfPSi"
+      },
+      "artists": [
+        {
+          "name": "Western Centuries",
+          "url": "https://open.spotify.com/artist/0NlJw273FRxv1BFIYwYBTp"
+        }
+      ],
+      "duration_ms": 222333,
+      "name": "Before That Final Bell",
+      "url": "https://open.spotify.com/track/4vwpnBraqdzWKugN0Brrfq"
     },
     {
       "added_at": "2024-03-25 16:53:27",

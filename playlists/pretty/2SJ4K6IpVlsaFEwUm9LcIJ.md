@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: may\-june 2024 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 19,541 likes - 24 songs - 1 hr 2 min
+[margeaux](https://open.spotify.com/user/1220511975) - 19,544 likes - 25 songs - 1 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,12 +25,13 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 15 | [The Duke Of Burgundy](https://open.spotify.com/track/5FCJpFKaJrPrXy8YyK9vBG) | [Cat's Eyes](https://open.spotify.com/artist/6DdzNsmghFtH7toJKhQfF6) | [The Duke Of Burgundy \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3L2QXOFpMeZaU2xxJXZPur) | 2:18 |
 | 16 | [Sunny](https://open.spotify.com/track/7LQDZxNGroDz0eg0Vyb2av) | [Blue Bendy](https://open.spotify.com/artist/7Fv9bX6Oy7AhbhKXh5dgIG) | [So Medieval](https://open.spotify.com/album/5gpglBxq454hY07XTJpJ5C) | 1:46 |
 | 17 | [I'm Sorry I Left Him To Bleed](https://open.spotify.com/track/7AwMd4z4jV8p5A791fxD7A) | [Blue Bendy](https://open.spotify.com/artist/7Fv9bX6Oy7AhbhKXh5dgIG) | [So Medieval](https://open.spotify.com/album/5gpglBxq454hY07XTJpJ5C) | 2:47 |
-| 18 | [Dawn blessings](https://open.spotify.com/track/2CDErqDxCM5ggWEgiYopcl) | [Bex Burch](https://open.spotify.com/artist/1tdT4MNoOC6sagnhU2XEbQ), [Macie Stewart](https://open.spotify.com/artist/4bAFS16s5qBFYuOM4gQ5Xv) | [There is only love and fear](https://open.spotify.com/album/1uVwUTnbeJYN352RI4jRKe) | 4:50 |
-| 19 | [Bird Sanctuary](https://open.spotify.com/track/1Ymtftt6QMLElD15yVmTQO) | [22º Halo](https://open.spotify.com/artist/6p355yiyJc67iSNeWLM8WH) | [Bird Sanctuary](https://open.spotify.com/album/0eFo49QMBP8QcNuLv1XwPN) | 2:12 |
-| 20 | [La voix psychédélique](https://open.spotify.com/track/6OGybl75EBNMNalQ8cg5RD) | [Emmanuel Brun](https://open.spotify.com/artist/02yigcgaTkoA3sajC1FKEE) | [Magie de la scie musicale \(Musical Saw\)](https://open.spotify.com/album/3KrbT3JMLafZbSWUAuvmb7) | 1:50 |
-| 21 | [Boy With the Bright Eyes](https://open.spotify.com/track/2r0XYwo9sFmmUFy3K4ZbnE) | [The Shermans](https://open.spotify.com/artist/1ijBXnXG7DX8hUI35tuuT8) | [Happiness Is Toy Shaped](https://open.spotify.com/album/6GwF4YxPAKGaxKpKELs36H) | 2:44 |
-| 22 | [Bright Lit Blue Skies](https://open.spotify.com/track/33R2KZxpZ8nnOihRTHea8s) | [The Rising Storm](https://open.spotify.com/artist/54skrHw57l27U6kIoGlCmG) | [Calm Before...](https://open.spotify.com/album/6A4VmOZWt0GZfdbfhfWXhJ) | 2:31 |
-| 23 | [I'm the Sky](https://open.spotify.com/track/5RZakBALQyiqL1dG5VMmzH) | [Norma Tanega](https://open.spotify.com/artist/4nlQA3jNE8cukTo6CdyCWP) | [Walkin' My Cat Named Dog](https://open.spotify.com/album/0unsYxXMMsYMQB0epWjPu0) | 2:25 |
-| 24 | [You Go Where I Go](https://open.spotify.com/track/3GHI7zfOFyQigfGBiJc2Ya) | [Walter Becker](https://open.spotify.com/artist/3yf5bmiturJVzQYIK1QbWX), [Donald Fagen](https://open.spotify.com/artist/0S1SjYebdSaiMpI8xSW2Wb) | [Becker and Fagen \- The Early Years](https://open.spotify.com/album/5IKG0ke9HxlwfB5E8QpJEu) | 2:04 |
+| 18 | [Bird Sanctuary](https://open.spotify.com/track/1Ymtftt6QMLElD15yVmTQO) | [22º Halo](https://open.spotify.com/artist/6p355yiyJc67iSNeWLM8WH) | [Bird Sanctuary](https://open.spotify.com/album/0eFo49QMBP8QcNuLv1XwPN) | 2:12 |
+| 19 | [La voix psychédélique](https://open.spotify.com/track/6OGybl75EBNMNalQ8cg5RD) | [Emmanuel Brun](https://open.spotify.com/artist/02yigcgaTkoA3sajC1FKEE) | [Magie de la scie musicale \(Musical Saw\)](https://open.spotify.com/album/3KrbT3JMLafZbSWUAuvmb7) | 1:50 |
+| 20 | [Boy With the Bright Eyes](https://open.spotify.com/track/2r0XYwo9sFmmUFy3K4ZbnE) | [The Shermans](https://open.spotify.com/artist/1ijBXnXG7DX8hUI35tuuT8) | [Happiness Is Toy Shaped](https://open.spotify.com/album/6GwF4YxPAKGaxKpKELs36H) | 2:44 |
+| 21 | [Bright Lit Blue Skies](https://open.spotify.com/track/33R2KZxpZ8nnOihRTHea8s) | [The Rising Storm](https://open.spotify.com/artist/54skrHw57l27U6kIoGlCmG) | [Calm Before...](https://open.spotify.com/album/6A4VmOZWt0GZfdbfhfWXhJ) | 2:31 |
+| 22 | [You Go Where I Go](https://open.spotify.com/track/3GHI7zfOFyQigfGBiJc2Ya) | [Walter Becker](https://open.spotify.com/artist/3yf5bmiturJVzQYIK1QbWX), [Donald Fagen](https://open.spotify.com/artist/0S1SjYebdSaiMpI8xSW2Wb) | [Becker and Fagen \- The Early Years](https://open.spotify.com/album/5IKG0ke9HxlwfB5E8QpJEu) | 2:04 |
+| 23 | [C Is The Heavenly Option](https://open.spotify.com/track/08mk6DH2nTVwlrQTE0Hunr) | [Heavenly](https://open.spotify.com/artist/1sDWIdL18InXgES9TwvsL2), [Calvin Johnson](https://open.spotify.com/artist/4L0x6V9ckwc4QhR069mk9M) | [Le Jardin De Heavenly](https://open.spotify.com/album/0InB1oG08YUmJuztRRoHvK) | 3:21 |
+| 24 | [Multi\-Family Garage Sale \(Bargain\-Bin Mix\)](https://open.spotify.com/track/314KmbRrSXcQHFujzdOr9v) | [Land of the Loops](https://open.spotify.com/artist/0H4Rek6UJ2GpLm5HduQ9uv) | [Bundle of Joy](https://open.spotify.com/album/6c1VIXuJZJBDkmNM236bXt) | 4:15 |
+| 25 | [Fourth of July](https://open.spotify.com/track/3AASTYWf8pLMdBj2ZIAMBx) | [Galaxie 500](https://open.spotify.com/artist/6guTJsgPymDUVfqDJyz5UG) | [This is Our Music](https://open.spotify.com/album/79JBh8OZRmvaC4ORkKB7ou) | 5:38 |
 
-Snapshot ID: `AAAKbNF/+miUnI1nytaIANfJk6/s8wUs`
+Snapshot ID: `AAAKcVa+bjYsh3l+RLZNq9eLMHB+T2AG`

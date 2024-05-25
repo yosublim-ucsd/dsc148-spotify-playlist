@@ -1515,6 +1515,24 @@
     },
     {
       "album": {
+        "name": "Everlast",
+        "url": "https://open.spotify.com/album/4RQqQiwO3kTfzQI7YQfDMg"
+      },
+      "artists": [
+        {
+          "name": "Fabio Asher",
+          "url": "https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202784,
+      "name": "Mahir Memberi Luka",
+      "url": "https://open.spotify.com/track/5hPv6XDaQzixDaYN0yRCFi"
+    },
+    {
+      "album": {
         "name": "Malang",
         "url": "https://open.spotify.com/album/47zY7uyQnStZjlbqwrn3M3"
       },

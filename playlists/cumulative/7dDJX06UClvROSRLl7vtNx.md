@@ -4,7 +4,7 @@
 
 > Summer 2024 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-365 songs - 16 hr 1 min
+366 songs - 16 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Another Night](https://open.spotify.com/track/5fc1tca544MPaPJ1ng7Q8T) | [Dallien](https://open.spotify.com/artist/3iAbOn3r0bXmmxyQYBxVHJ), [Spagbo](https://open.spotify.com/artist/2EZUOnMtEkQv06k5fkbKTJ), [Summer Vibes](https://open.spotify.com/artist/2BCjzlKkYOwpNS5WZqX7Bm) | [Another Night](https://open.spotify.com/album/3V4qu83f9ZoDOe1uvQ6tUy) | 2:57 | 2024-02-25 | 2024-04-16 |
 | [Anymore](https://open.spotify.com/track/0x7N7pvwZTUYCsSvYfjDHp) | [Friends & I](https://open.spotify.com/artist/1DgkENk0JhWHATAaVZN4Bn) | [Anymore](https://open.spotify.com/album/0136dl7WXw7P8tptO4Ir2t) | 2:21 | 2023-09-22 | 2024-05-13 |
 | [Anywhere With You](https://open.spotify.com/track/55KplvBzr2DNKvWTnxm2mS) | [Mellowdy](https://open.spotify.com/artist/2qcHi6YzCJYvbHIs0jvHGc) | [Anywhere With You](https://open.spotify.com/album/1isQywIBds6XO5h6ZaU36K) | 2:23 | 2023-10-27 | 2024-01-08 |
+| [Are You With Me](https://open.spotify.com/track/6EagnEg9fcmVnVTnVc2pRN) | [PHURS](https://open.spotify.com/artist/2UXdzClMex3N47C9m1fkeX), [Timmy Commerford](https://open.spotify.com/artist/0Y0r9IKRjfC62MAYMDEMZO) | [Are You With Me](https://open.spotify.com/album/0xk0DimpO7ovSx4nMcmXvU) | 2:30 | 2024-05-24 |  |
 | [Around The Sun](https://open.spotify.com/track/7kRI2M30QkCXK5fIVO9qQe) | [Thierry Von Der Warth](https://open.spotify.com/artist/2mF9PcfpN8vxRtCfra8hz1), [Kidd Thorn](https://open.spotify.com/artist/56ZpzAG62hbF97XLdQCy3t) | [Around The Sun](https://open.spotify.com/album/37bbpzGIPULPmY6xJj2ii9) | 2:40 | 2024-04-15 |  |
 | [Astronaut](https://open.spotify.com/track/6nMcQh09lWR6Tup4v9ooIg) | [LO](https://open.spotify.com/artist/6bdx22A1shpd9U6YAd8Vto), [HEIGHTS](https://open.spotify.com/artist/5EdogtWIzqFv45sdk6ePZH) | [Astronaut](https://open.spotify.com/album/0BWRcNqTxZUroW6vcTL3TT) | 2:44 | 2024-01-27 | 2024-05-13 |
 | [At Ease](https://open.spotify.com/track/29lEQ7rsyme07uwxvyslVV) | [Addy Ace](https://open.spotify.com/artist/58ooGFd8wuWnWBhxhQLH63) | [At Ease](https://open.spotify.com/album/3XoGsRn2xcL43iRKys8BTG) | 2:34 | 2024-01-11 | 2024-01-23 |

@@ -1,6 +1,6 @@
 {
   "description": "Dance tracks for your power moves",
-  "num_followers": 98516,
+  "num_followers": 98523,
   "original_name": "Power Up!",
   "owner": {
     "name": "Spotify",
@@ -247,26 +247,6 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "Location",
-        "url": "https://open.spotify.com/album/6s94PA4PE2tymla2Jr8Q3O"
-      },
-      "artists": [
-        {
-          "name": "Cheat Codes",
-          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
-        },
-        {
-          "name": "A7S",
-          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
-        }
-      ],
-      "duration_ms": 142123,
-      "name": "Location",
-      "url": "https://open.spotify.com/track/2FBTSfQJOLt4btsvhbC7NH"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
         "name": "What We Know (feat. Conor Byrne)",
         "url": "https://open.spotify.com/album/1OeHZucueiMEy970AN5vHd"
       },
@@ -283,6 +263,26 @@
       "duration_ms": 168867,
       "name": "What We Know (feat. Conor Byrne)",
       "url": "https://open.spotify.com/track/0qODLyd99ldgvBHMVsScye"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
+        "name": "Location",
+        "url": "https://open.spotify.com/album/6s94PA4PE2tymla2Jr8Q3O"
+      },
+      "artists": [
+        {
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+        },
+        {
+          "name": "A7S",
+          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
+        }
+      ],
+      "duration_ms": 142123,
+      "name": "Location",
+      "url": "https://open.spotify.com/track/2FBTSfQJOLt4btsvhbC7NH"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -479,22 +479,6 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "The Switch",
-        "url": "https://open.spotify.com/album/3x0717lwXQfyWeLFwiEe5S"
-      },
-      "artists": [
-        {
-          "name": "KREAM",
-          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
-        }
-      ],
-      "duration_ms": 206410,
-      "name": "The Switch",
-      "url": "https://open.spotify.com/track/2Uf2IFn75rflEjYN4z1YUR"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
         "name": "What a Night",
         "url": "https://open.spotify.com/album/203rSwQJ4j3HSbE0aoXRh0"
       },
@@ -519,6 +503,26 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
+        "name": "Careful What You Wish For (feat. Alida)",
+        "url": "https://open.spotify.com/album/5AyE7tjRTu5Qgzupx5UYMb"
+      },
+      "artists": [
+        {
+          "name": "Lucas & Steve",
+          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
+        },
+        {
+          "name": "Alida",
+          "url": "https://open.spotify.com/artist/1kiq2kUV0cbLUhJsr7cpW0"
+        }
+      ],
+      "duration_ms": 176264,
+      "name": "Careful What You Wish For (feat. Alida)",
+      "url": "https://open.spotify.com/track/6F5CRnO0SbW5FxAyRB6Vp0"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
         "name": "When You're Lonely",
         "url": "https://open.spotify.com/album/1kfbRsla1nsTki4JVunQFW"
       },
@@ -539,22 +543,18 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "Careful What You Wish For (feat. Alida)",
-        "url": "https://open.spotify.com/album/5AyE7tjRTu5Qgzupx5UYMb"
+        "name": "The Switch",
+        "url": "https://open.spotify.com/album/3x0717lwXQfyWeLFwiEe5S"
       },
       "artists": [
         {
-          "name": "Lucas & Steve",
-          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
-        },
-        {
-          "name": "Alida",
-          "url": "https://open.spotify.com/artist/1kiq2kUV0cbLUhJsr7cpW0"
+          "name": "KREAM",
+          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
         }
       ],
-      "duration_ms": 176264,
-      "name": "Careful What You Wish For (feat. Alida)",
-      "url": "https://open.spotify.com/track/6F5CRnO0SbW5FxAyRB6Vp0"
+      "duration_ms": 206410,
+      "name": "The Switch",
+      "url": "https://open.spotify.com/track/2Uf2IFn75rflEjYN4z1YUR"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "All Night Long",
-        "url": "https://open.spotify.com/album/4pWtDAU2CYcvsVwJKVWimA"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 164400,
-      "name": "All Night Long",
-      "url": "https://open.spotify.com/track/6Wq9mMoP3u5DUoTF45Ov7u"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
         "name": "Elektro",
         "url": "https://open.spotify.com/album/06F26Q4nAKjQAbr3I4QRMq"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 160629,
       "name": "Elektro",
       "url": "https://open.spotify.com/track/1SOUkhtnUfSD5S8a4w13xO"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
+        "name": "All Night Long",
+        "url": "https://open.spotify.com/album/4pWtDAU2CYcvsVwJKVWimA"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 164400,
+      "name": "All Night Long",
+      "url": "https://open.spotify.com/track/6Wq9mMoP3u5DUoTF45Ov7u"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -1111,26 +1111,6 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "Exceso (feat. GALE)",
-        "url": "https://open.spotify.com/album/46y7BZhXOZeFO1ZeEBZZHT"
-      },
-      "artists": [
-        {
-          "name": "DallasK",
-          "url": "https://open.spotify.com/artist/7uas0F5EhsZg6KDJ7yy7rW"
-        },
-        {
-          "name": "GALE",
-          "url": "https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM"
-        }
-      ],
-      "duration_ms": 142829,
-      "name": "Exceso (feat. GALE)",
-      "url": "https://open.spotify.com/track/5SBsYJjr5Dg09XNV6RZpUy"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
         "name": "Cumbia Buena",
         "url": "https://open.spotify.com/album/59VYHr4qf3xQbc8giaxAoM"
       },
@@ -1147,6 +1127,26 @@
       "duration_ms": 149760,
       "name": "Cumbia Buena",
       "url": "https://open.spotify.com/track/2i6VTVzBnl3mMKnLi8hDEB"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
+        "name": "Exceso (feat. GALE)",
+        "url": "https://open.spotify.com/album/46y7BZhXOZeFO1ZeEBZZHT"
+      },
+      "artists": [
+        {
+          "name": "DallasK",
+          "url": "https://open.spotify.com/artist/7uas0F5EhsZg6KDJ7yy7rW"
+        },
+        {
+          "name": "GALE",
+          "url": "https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM"
+        }
+      ],
+      "duration_ms": 142829,
+      "name": "Exceso (feat. GALE)",
+      "url": "https://open.spotify.com/track/5SBsYJjr5Dg09XNV6RZpUy"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
+        "name": "Needing You",
+        "url": "https://open.spotify.com/album/1SKUtzbpnb3sNj0EWBiUF7"
+      },
+      "artists": [
+        {
+          "name": "Laura van Dam",
+          "url": "https://open.spotify.com/artist/6gmecOfbzCBnKd3OGkCQuz"
+        }
+      ],
+      "duration_ms": 216190,
+      "name": "Needing You",
+      "url": "https://open.spotify.com/track/36TDp73ujhbKnX6qxPqjmb"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
         "name": "Chances",
         "url": "https://open.spotify.com/album/6QwpK5fPO5mHyFRt1bBzZV"
       },
@@ -1339,22 +1355,6 @@
       "duration_ms": 170039,
       "name": "Chances",
       "url": "https://open.spotify.com/track/0mVLuJBvxToIMCU0CrpO08"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
-        "name": "Needing You",
-        "url": "https://open.spotify.com/album/1SKUtzbpnb3sNj0EWBiUF7"
-      },
-      "artists": [
-        {
-          "name": "Laura van Dam",
-          "url": "https://open.spotify.com/artist/6gmecOfbzCBnKd3OGkCQuz"
-        }
-      ],
-      "duration_ms": 216190,
-      "name": "Needing You",
-      "url": "https://open.spotify.com/track/36TDp73ujhbKnX6qxPqjmb"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -1499,26 +1499,6 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "September (Club Mix)",
-        "url": "https://open.spotify.com/album/5jNrQMFz5rQOGyLIXHBV1e"
-      },
-      "artists": [
-        {
-          "name": "Syzz",
-          "url": "https://open.spotify.com/artist/5qQTwkRWNaZngwkU1CPmYJ"
-        },
-        {
-          "name": "Nora Van Elken",
-          "url": "https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM"
-        }
-      ],
-      "duration_ms": 199024,
-      "name": "September (Club Mix) - Radio Edit",
-      "url": "https://open.spotify.com/track/1dQS6r99azgncYwRDVM82m"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
         "name": "Fantasy",
         "url": "https://open.spotify.com/album/54Dzt1WneTLVnfwWCKxoik"
       },
@@ -1535,6 +1515,26 @@
       "duration_ms": 162222,
       "name": "Fantasy",
       "url": "https://open.spotify.com/track/7gTz5MRjppI1Pdid7VX6Xy"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
+        "name": "September (Club Mix)",
+        "url": "https://open.spotify.com/album/5jNrQMFz5rQOGyLIXHBV1e"
+      },
+      "artists": [
+        {
+          "name": "Syzz",
+          "url": "https://open.spotify.com/artist/5qQTwkRWNaZngwkU1CPmYJ"
+        },
+        {
+          "name": "Nora Van Elken",
+          "url": "https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM"
+        }
+      ],
+      "duration_ms": 199024,
+      "name": "September (Club Mix) - Radio Edit",
+      "url": "https://open.spotify.com/track/1dQS6r99azgncYwRDVM82m"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -1575,26 +1575,6 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "Currents",
-        "url": "https://open.spotify.com/album/2rfaWwbzTb380DNEpLWQRy"
-      },
-      "artists": [
-        {
-          "name": "Mahalo",
-          "url": "https://open.spotify.com/artist/1SeU8Y2rEUpEoeWmUCdQIR"
-        },
-        {
-          "name": "Guillaume Gordon",
-          "url": "https://open.spotify.com/artist/3TfKErb0eKYPcZbuA32oPj"
-        }
-      ],
-      "duration_ms": 162712,
-      "name": "Got a Friend",
-      "url": "https://open.spotify.com/track/0fdpoQFH8s3viiqy42p1f5"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/4DKA5qXjV1vihrD5m2lVWD"
       },
@@ -1615,6 +1595,26 @@
       "duration_ms": 174624,
       "name": "Closer",
       "url": "https://open.spotify.com/track/1B4OIfL8ovAHujVlHvhnAq"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
+        "name": "Currents",
+        "url": "https://open.spotify.com/album/2rfaWwbzTb380DNEpLWQRy"
+      },
+      "artists": [
+        {
+          "name": "Mahalo",
+          "url": "https://open.spotify.com/artist/1SeU8Y2rEUpEoeWmUCdQIR"
+        },
+        {
+          "name": "Guillaume Gordon",
+          "url": "https://open.spotify.com/artist/3TfKErb0eKYPcZbuA32oPj"
+        }
+      ],
+      "duration_ms": 162712,
+      "name": "Got a Friend",
+      "url": "https://open.spotify.com/track/0fdpoQFH8s3viiqy42p1f5"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "Fine Day",
-        "url": "https://open.spotify.com/album/0f75aP4uE3xyqL3DMIBTZg"
-      },
-      "artists": [
-        {
-          "name": "DubVision",
-          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
-        }
-      ],
-      "duration_ms": 182769,
-      "name": "Fine Day",
-      "url": "https://open.spotify.com/track/7l0EE7nSalFQrV4Nf60xhQ"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
         "name": "Nothing In Common",
         "url": "https://open.spotify.com/album/2OVpPBoS3pjmlaJH6PuT39"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 180000,
       "name": "Nothing In Common",
       "url": "https://open.spotify.com/track/3q7U43P5AbtkD1XiB0J1wR"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
+        "name": "Fine Day",
+        "url": "https://open.spotify.com/album/0f75aP4uE3xyqL3DMIBTZg"
+      },
+      "artists": [
+        {
+          "name": "DubVision",
+          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
+        }
+      ],
+      "duration_ms": 182769,
+      "name": "Fine Day",
+      "url": "https://open.spotify.com/track/7l0EE7nSalFQrV4Nf60xhQ"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -1799,22 +1799,6 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "Save Me",
-        "url": "https://open.spotify.com/album/6P2CZNhzDnpIdi3KOm7QkS"
-      },
-      "artists": [
-        {
-          "name": "LV",
-          "url": "https://open.spotify.com/artist/3aCyI9bM14mcQajmM5641q"
-        }
-      ],
-      "duration_ms": 139000,
-      "name": "Save Me",
-      "url": "https://open.spotify.com/track/6azYMWnHlQwbkpDNxSIluY"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
         "name": "Escape",
         "url": "https://open.spotify.com/album/0CQfmsk7BSYwG9OvBN2eaA"
       },
@@ -1827,6 +1811,22 @@
       "duration_ms": 157440,
       "name": "Escape",
       "url": "https://open.spotify.com/track/5pkC1t47FLpe2laj71YgH2"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
+        "name": "Save Me",
+        "url": "https://open.spotify.com/album/6P2CZNhzDnpIdi3KOm7QkS"
+      },
+      "artists": [
+        {
+          "name": "LV",
+          "url": "https://open.spotify.com/artist/3aCyI9bM14mcQajmM5641q"
+        }
+      ],
+      "duration_ms": 139000,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/6azYMWnHlQwbkpDNxSIluY"
     },
     {
       "added_at": "2024-05-23 22:00:00",

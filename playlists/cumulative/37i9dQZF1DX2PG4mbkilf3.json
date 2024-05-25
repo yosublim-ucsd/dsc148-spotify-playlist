@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "This is R&B in Canada, elevate your aura with RUSSELL!",
+  "description": "This is R&B in Canada, elevate your aura with Dimi & Roy Woods!",
   "name": "Mood Ring ",
   "tracks": [
     {
@@ -310,6 +310,28 @@
       "duration_ms": 213300,
       "name": "4am",
       "url": "https://open.spotify.com/track/1yM0dE07jBAkAYKQHzaInk"
+    },
+    {
+      "album": {
+        "name": "5 Minutes",
+        "url": "https://open.spotify.com/album/40EQfE7yMNI8pMAGONi4Cj"
+      },
+      "artists": [
+        {
+          "name": "Shantel May",
+          "url": "https://open.spotify.com/artist/3dLvESWiG5LWozJmdvk6D0"
+        },
+        {
+          "name": "Tone Stith",
+          "url": "https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169795,
+      "name": "5 Minutes",
+      "url": "https://open.spotify.com/track/3NybtZLoGsWTT1SHwExhkE"
     },
     {
       "album": {
@@ -2649,6 +2671,28 @@
     },
     {
       "album": {
+        "name": "Can't Save You (feat. Roy Woods)",
+        "url": "https://open.spotify.com/album/0cFBvQZXXthbjQb93WRumJ"
+      },
+      "artists": [
+        {
+          "name": "Dimi",
+          "url": "https://open.spotify.com/artist/5XZBEzJ9W4UvHVJ5jFD4LY"
+        },
+        {
+          "name": "Roy Woods",
+          "url": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195750,
+      "name": "Can't Save You (feat. Roy Woods)",
+      "url": "https://open.spotify.com/track/0N3IlFOcL5vlwrV63wct3b"
+    },
+    {
+      "album": {
         "name": "Can't Wait",
         "url": "https://open.spotify.com/album/29UTEWJkBTdpIMCrXH8x4N"
       },
@@ -3321,6 +3365,24 @@
     },
     {
       "album": {
+        "name": "BARE CHAT",
+        "url": "https://open.spotify.com/album/47uDkYlLrtQMT26ywUpaGQ"
+      },
+      "artists": [
+        {
+          "name": "SadBoi",
+          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169846,
+      "name": "Complicated",
+      "url": "https://open.spotify.com/track/3pQKpXKVx2VUpt62QIdTQZ"
+    },
+    {
+      "album": {
         "name": "Consume",
         "url": "https://open.spotify.com/album/1kKjsmADxnPEjoY75Ye4lk"
       },
@@ -3880,7 +3942,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 191699,
       "name": "Deeper Than",
       "url": "https://open.spotify.com/track/1bYZBYoByapdkzprIjpbzH"
@@ -4186,7 +4248,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 240263,
       "name": "DnL",
       "url": "https://open.spotify.com/track/2yNYaq9FooEgo71ffsqqUD"
@@ -5506,7 +5568,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 200930,
       "name": "Fallback Queen (feat. Vory)",
       "url": "https://open.spotify.com/track/3w7AzChjtAtjLvVQll2Mjf"
@@ -6314,6 +6376,24 @@
       "duration_ms": 148608,
       "name": "Garden",
       "url": "https://open.spotify.com/track/7tqncrBGsGJQqc24e5Ffiv"
+    },
+    {
+      "album": {
+        "name": "The Alternate Ending",
+        "url": "https://open.spotify.com/album/79J7lTojt5GNstcDpZhD0z"
+      },
+      "artists": [
+        {
+          "name": "Liza",
+          "url": "https://open.spotify.com/artist/7CeUn1UNtIFSZIIBNXV8jk"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120461,
+      "name": "Gasoline",
+      "url": "https://open.spotify.com/track/3AEhzP83T8HxudeMahwjAV"
     },
     {
       "album": {
@@ -9592,7 +9672,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 148860,
       "name": "LIE LIE LIE!",
       "url": "https://open.spotify.com/track/0pAQYA3DItRcxctQCGM2AH"
@@ -10498,6 +10578,24 @@
       "duration_ms": 347226,
       "name": "Marvins Room",
       "url": "https://open.spotify.com/track/047fCsbO4NdmwCBn8pcUXl"
+    },
+    {
+      "album": {
+        "name": "Me Against My Vices",
+        "url": "https://open.spotify.com/album/450vWf8eiM4JTaI1yGxdVG"
+      },
+      "artists": [
+        {
+          "name": "SPIRITSAVER",
+          "url": "https://open.spotify.com/artist/3DbCiwrbBPRRuCo4UvLl8c"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169830,
+      "name": "Me Against My Vices",
+      "url": "https://open.spotify.com/track/4Uu9hWGagXuIM98FgmjXbr"
     },
     {
       "album": {
@@ -20054,7 +20152,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 186566,
       "name": "\u00bfQue Te Gusta De M\u00ed?",
       "url": "https://open.spotify.com/track/2g1ftDAco1fjjXzinsf1Nx"

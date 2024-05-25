@@ -356,7 +356,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 248266,
       "name": "Before my body is dry",
       "url": "https://open.spotify.com/track/1FvZeK3MgmGldxeYDvzanR"
@@ -1302,7 +1302,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 234053,
       "name": "Inferno",
       "url": "https://open.spotify.com/track/6ZXVnfb7cIIDxg1DfLCP1M"
@@ -1580,7 +1580,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 389160,
       "name": "Might*U",
       "url": "https://open.spotify.com/track/3YfBeHLGH9EhRPVHYaQMyD"
@@ -1732,7 +1732,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 266920,
       "name": "NARUTO Main Theme",
       "url": "https://open.spotify.com/track/5kKloaKFvAuDNFi8m52hxy"
@@ -1966,7 +1966,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 252026,
       "name": "One Last Kiss",
       "url": "https://open.spotify.com/track/5RhWszHMSKzb7KiXk4Ae0M"
@@ -2404,7 +2404,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 289274,
       "name": "Sing My Pleasure",
       "url": "https://open.spotify.com/track/6wOazYrDGLhMAhwU6RArlg"
@@ -2664,7 +2664,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 246362,
       "name": "The Cruel Angel's Thesis",
       "url": "https://open.spotify.com/track/1QFPI3slA71XOdiBV5qti1"
@@ -3304,7 +3304,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 228960,
       "name": "\u30ae\u30bf\u30fc\u3068\u5b64\u72ec\u3068\u84bc\u3044\u60d1\u661f",
       "url": "https://open.spotify.com/track/17rhDgnYYryQU4uS71ZxFu"
@@ -3730,6 +3730,28 @@
       "duration_ms": 227185,
       "name": "\u6c17\u5206\u4e0a\u3005\u2191\u2191",
       "url": "https://open.spotify.com/track/1Ymiw5yfFzwSkbrAN3iAKm"
+    },
+    {
+      "album": {
+        "name": "\u6c38\u4e45 -\u30c8\u30b3\u30b7\u30a8-",
+        "url": "https://open.spotify.com/album/0iavoiplUxtsNRRcSoDJ5a"
+      },
+      "artists": [
+        {
+          "name": "HYDE",
+          "url": "https://open.spotify.com/artist/0ZXSQd2JNOfwJcLNbX0jpN"
+        },
+        {
+          "name": "MY FIRST STORY",
+          "url": "https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261497,
+      "name": "\u6c38\u4e45 -\u30c8\u30b3\u30b7\u30a8-",
+      "url": "https://open.spotify.com/track/4sWlVvuOg0lzDkC56lWrbg"
     },
     {
       "album": {

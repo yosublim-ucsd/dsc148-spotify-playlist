@@ -7676,7 +7676,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-20",
+      "date_removed": null,
       "duration_ms": 168746,
       "name": "Colis\u00e9e (feat. SDM)",
       "url": "https://open.spotify.com/track/3RzWvMggSzFMIueWIaDwEU"
@@ -18470,7 +18470,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 162840,
       "name": "Laboratoire",
       "url": "https://open.spotify.com/track/24JrEVHDfohup0ypuOV7os"
@@ -18492,6 +18492,24 @@
       "duration_ms": 162840,
       "name": "Laboratoire",
       "url": "https://open.spotify.com/track/2GMXeFK2Zz6DqUP5LT9NHz"
+    },
+    {
+      "album": {
+        "name": "Carr\u00e9",
+        "url": "https://open.spotify.com/album/7kUEtGrWj083U6ppOmGAeQ"
+      },
+      "artists": [
+        {
+          "name": "Werenoi",
+          "url": "https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162840,
+      "name": "Laboratoire",
+      "url": "https://open.spotify.com/track/7wOgZ1otoKYDvKyQKP1sNZ"
     },
     {
       "album": {
@@ -19948,7 +19966,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 161354,
       "name": "LOCO",
       "url": "https://open.spotify.com/track/36sechlCLEmV6QHNt8ryrF"
@@ -22426,7 +22444,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 155151,
       "name": "MILLION DOLLAR BABY",
       "url": "https://open.spotify.com/track/7fzHQizxTqy8wTXwlrgPQQ"
@@ -35618,7 +35636,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-19",
+      "date_removed": null,
       "duration_ms": 120000,
       "name": "X",
       "url": "https://open.spotify.com/track/5URQsgEa4ciF01AYbIhWvO"

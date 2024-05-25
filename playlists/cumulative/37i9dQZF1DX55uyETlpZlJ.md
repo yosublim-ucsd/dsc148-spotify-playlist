@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover :Rahul Dit\-O
 
-334 songs - 18 hr 5 min
+335 songs - 18 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Aigiri Nandini](https://open.spotify.com/track/4bJCeVoQH0g0IVtZT1Mw1D) | [Prasanna Kumar M S](https://open.spotify.com/artist/6Q4hpP5rBdhz1rK2DkKuZJ) | [Aigiri Nandini](https://open.spotify.com/album/7LMtFuBWtKUZ9qJW6erzrs) | 1:30 | 2024-01-29 | 2024-02-17 |
 | [ALAG HAI](https://open.spotify.com/track/3ptmb4toZVGAs73tbERceP) | [D shabdha](https://open.spotify.com/artist/3q7u9e1jJCYdvxkdjnfQgh) | [ALAG HAI](https://open.spotify.com/album/7A7jELEKRiRVMIQMZGlGyN) | 1:23 | 2023-09-20 | 2024-02-17 |
 | [ALAG HAI](https://open.spotify.com/track/5E11KdVG38ylpaI736pJ9I) | [D shabdha](https://open.spotify.com/artist/3q7u9e1jJCYdvxkdjnfQgh) | [ALAG HAI](https://open.spotify.com/album/5gqrIFh0OfRGTwNqrV52rz) | 1:23 | 2023-09-20 | 2024-01-07 |
+| [Alive](https://open.spotify.com/track/6fTBrgN6MgDU4wsjv1jewf) | [Adhvik](https://open.spotify.com/artist/7Brq4omogaIOJiHqQwIgnV) | [Alive](https://open.spotify.com/album/2yVUXFVHUNWFFJ8f571ltz) | 3:31 | 2024-05-24 |  |
 | [Alladsro](https://open.spotify.com/track/5VcLXHP9BQXJpxKYRLLe5E) | [PS Praveen](https://open.spotify.com/artist/2Dl133Jk9EdG3Z8lKbTMle) | [Alladsro](https://open.spotify.com/album/1Xxq3dTXHid0SEifag64gu) | 3:56 | 2023-08-25 | 2023-09-22 |
 | [AMADA](https://open.spotify.com/track/5hyRMNjIVnHK4cvkjddsCG) | [Athmik Rai](https://open.spotify.com/artist/1iDyvK9ioAbcL0LhWlKPev), [Sukeerth Shetty](https://open.spotify.com/artist/6uqYgNPvEW86Ek9oVLXOlo), [Surabhi Bharadwaj](https://open.spotify.com/artist/2QlJhNbj61Ci927HCUQTlr) | [AMADA](https://open.spotify.com/album/12q9qvqT21dpZAr3z4sMY3) | 4:24 | 2024-04-01 |  |
 | [Amma](https://open.spotify.com/track/1cknWsTf04j4n2FoGUV7DS) | [Pavana V Kashyap](https://open.spotify.com/artist/1KqqYAhcih9exiT1rEUQlQ), [Paluz45](https://open.spotify.com/artist/0W1hviGDJk8gLz7ELtHL04) | [Amma](https://open.spotify.com/album/6LoIoj7lzUFF4lNld1TQWQ) | 2:06 | 2024-05-02 |  |
@@ -182,7 +183,7 @@
 | [MANIFEST](https://open.spotify.com/track/2aukHnHoljvfUz0q7KqNet) | [AGORAH](https://open.spotify.com/artist/0MS0PxbrMlTrqjSVLIdCaE) | [MANIFEST](https://open.spotify.com/album/5FTnu7pgquZYRIIhDdf5Gq) | 3:08 | 2023-09-28 | 2024-04-02 |
 | [Many Me](https://open.spotify.com/track/2zkjOcWVfozoWtgRj9QzvJ) | [NUMB\-URGH](https://open.spotify.com/artist/3zPtAKDN5Ldh5BAVPbzVlD), [Shastra](https://open.spotify.com/artist/6L0zcPmoJp0r8YIsSYmu34), [John On The Beat](https://open.spotify.com/artist/6LlGGD8vKtcraxhCCPkRaS) | [Many Me](https://open.spotify.com/album/6NJRgP6X0G2gOBFLGTtjyp) | 3:10 | 2023-08-31 | 2024-02-17 |
 | [Marethiruve](https://open.spotify.com/track/5fIu0KByVpki8ueCk0Nig5) | [Ahamm](https://open.spotify.com/artist/3FIOkx3f9C6UuJJunHucpC), [Bassmnt](https://open.spotify.com/artist/1ve81U9YJgA5fdxKKjo2o1) | [Marethiruve](https://open.spotify.com/album/1IhNHGpsPbzBwd6kYv2XwN) | 4:17 | 2023-12-22 | 2024-02-17 |
-| [Masada Itti Mosada Maccha](https://open.spotify.com/track/06UZsfaWjMjcmsd3DI2Dln) | [Jassie Gift](https://open.spotify.com/artist/3cowxATurZfjWsJC4uEHsl), [Praveen Kadapatti](https://open.spotify.com/artist/3g5LvlyMO7x7Pn0sCIFvst), [Malu Nipanal Singer](https://open.spotify.com/artist/1neweBRDB8wCNzQjUYmJwx) | [Masada Itti Mosada Maccha](https://open.spotify.com/album/3uPYwCGaIzR559lUCGt9bZ) | 6:33 | 2023-12-13 |  |
+| [Masada Itti Mosada Maccha](https://open.spotify.com/track/06UZsfaWjMjcmsd3DI2Dln) | [Jassie Gift](https://open.spotify.com/artist/3cowxATurZfjWsJC4uEHsl), [Praveen Kadapatti](https://open.spotify.com/artist/3g5LvlyMO7x7Pn0sCIFvst), [Malu Nipanal Singer](https://open.spotify.com/artist/1neweBRDB8wCNzQjUYmJwx) | [Masada Itti Mosada Maccha](https://open.spotify.com/album/3uPYwCGaIzR559lUCGt9bZ) | 6:33 | 2023-12-13 | 2024-05-25 |
 | [Matte bhandidhini](https://open.spotify.com/track/19xxlcCzShEhzAtrBn8mFA) | [It's me plk](https://open.spotify.com/artist/5MzgfdVaUb1uux2LZBahP3) | [Matte bhandidhini](https://open.spotify.com/album/2pJVV5Oi68mN4qdaAJb1vp) | 2:08 | 2024-02-16 |  |
 | [Matthe Meravanige](https://open.spotify.com/track/61JVZE02xZy5l2XJkIczfQ) | [KP Milan Kumar](https://open.spotify.com/artist/2zig6tnmiGy9rjVlXRoIa4), [Anusha Jane D'Souza](https://open.spotify.com/artist/14n1m18TW4XpYiJIAKNAvN) | [Matthe Meravanige](https://open.spotify.com/album/7fsTVJMKeGFIbXixpP2HLM) | 4:23 | 2023-03-08 | 2023-11-29 |
 | [Maḷe Banthu Maḷe](https://open.spotify.com/track/57TPkV7QunC4b8zkAuVakD) | [TED](https://open.spotify.com/artist/3vYuRADChTXexcQyHbIS0T), [Yohanan](https://open.spotify.com/artist/1ibksd4lv48ZNCu0tw2DMB) | [ART OF WAVES](https://open.spotify.com/album/0RjvS9LHtU7dhFbppc84yw) | 4:05 | 2024-01-30 |  |

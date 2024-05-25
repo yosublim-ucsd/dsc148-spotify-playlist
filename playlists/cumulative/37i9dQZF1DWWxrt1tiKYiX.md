@@ -4,7 +4,7 @@
 
 > Lovely, acoustic pop\. Cover: Taylor Swift
 
-255 songs - 14 hr 4 min
+256 songs - 14 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [Daylight](https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Daylight](https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv) | 3:32 | 2023-04-14 |  |
 | [Dear August](https://open.spotify.com/track/6IOxwhhSrFl9tHPjbRvpG0) | [PJ Harding](https://open.spotify.com/artist/1RryIbDjpwt00AKkSpCGvP), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [People Don't Change](https://open.spotify.com/album/3MCI7K9Qj3lAMADbHP4EaQ) | 3:20 | 2023-04-28 |  |
 | [Desire \(with Sam Smith\) \- Acoustic](https://open.spotify.com/track/5EUZq2pJJi1X2yRHzAeDWJ) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Desire \(with Sam Smith\) \[Acoustic\]](https://open.spotify.com/album/15fFDWyVcxknsTGmJ2q354) | 3:05 | 2023-09-29 | 2024-02-24 |
-| [Devil Doesn’t Bargain \- Acoustic](https://open.spotify.com/track/5iRlgbAfme5SYmUPYnZs6y) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Devil Doesn’t Bargain \(Acoustic\)](https://open.spotify.com/album/6R9I3f43R1OLJSGWixrqBo) | 2:41 | 2022-07-15 |  |
+| [Devil Doesn’t Bargain \- Acoustic](https://open.spotify.com/track/5iRlgbAfme5SYmUPYnZs6y) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Devil Doesn’t Bargain \(Acoustic\)](https://open.spotify.com/album/6R9I3f43R1OLJSGWixrqBo) | 2:41 | 2022-07-15 | 2024-05-25 |
 | [Dial Drunk](https://open.spotify.com/track/0caJ2wkqp4UmXBwdR2JvB5) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season \(We'll All Be Here Forever\)](https://open.spotify.com/album/1pb3je8gXTs5dpRRTKhHRC) | 3:33 | 2023-06-16 |  |
 | [Diamonds \- Acoustic](https://open.spotify.com/track/4y8OZW2dyWRobsi2w0C64W) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Diamonds \(Acoustic\)](https://open.spotify.com/album/6xMjjKuAngFJw7oh0lsfG8) | 3:14 | 2022-01-28 |  |
 | [Don't Forget Me](https://open.spotify.com/track/0DFldA3ySuV2dblrOAWq1f) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Don't Forget Me](https://open.spotify.com/album/2bSJsOM3hBoBBF4MaxJKyQ) | 4:25 | 2024-02-16 |  |
@@ -198,6 +198,7 @@
 | [Remember \- Acoustic](https://open.spotify.com/track/5aXfGM7WVcqyAvqnL7k0y3) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Remember \(Acoustic\)](https://open.spotify.com/album/6tMWod3p4ojBLD8g2KzhtM) | 2:58 | 2022-01-28 |  |
 | [Remember That Night? \- Acoustic](https://open.spotify.com/track/49HbzUD2vcpoTAepAW2sjI) | [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH) | [Remember That Night? \(Acoustic\)](https://open.spotify.com/album/5yCBbhqxEr4KYJb7e3qwgd) | 3:42 | 2022-01-28 |  |
 | [RUNAWAY \- Acoustic](https://open.spotify.com/track/4Z3jnL8wjTptUo0OgxKa47) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [RUNAWAY \(Acoustic\)](https://open.spotify.com/album/6O4FUArVCjvgfvWMIwwPf3) | 2:22 | 2023-08-18 |  |
+| [Sacrifice Tomorrow \- Acoustic](https://open.spotify.com/track/1vAoGKnZqRyfVgVHyX6Et9) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [12 Notes](https://open.spotify.com/album/56alTwsbtrn2veUwwDTdny) | 2:21 | 2024-05-24 |  |
 | [Sad Tonight \- Acoustic](https://open.spotify.com/track/1aXIgw5xYdFSZhoK1f6VbI) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Sad Tonight \(Original + Acoustic\)](https://open.spotify.com/album/3NkEzmCBqHZiLjoJsRpG5L) | 3:13 | 2022-01-28 | 2023-06-10 |
 | [Safe Inside \- Acoustic](https://open.spotify.com/track/0kIpJQHzu46yw6q3V78Ypt) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Safe Inside \(Acoustic\)](https://open.spotify.com/album/3yMhNXvtRBdXiG4tfKqge0) | 3:52 | 2022-01-28 | 2023-05-10 |
 | [Safe With Me \(with Audrey Mika\) \- Acoustic](https://open.spotify.com/track/2O5pJf3YqnPEvWeeLELl7R) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Audrey Mika](https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp) | [Safe With Me \(with Audrey Mika\) \[Acoustic\]](https://open.spotify.com/album/1OTXmfSLAWBuAShzey4hJv) | 3:23 | 2022-01-28 |  |

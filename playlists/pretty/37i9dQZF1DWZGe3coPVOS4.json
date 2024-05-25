@@ -1,13 +1,29 @@
 {
   "description": "The perfect family party playlist - jam packed with all your favorite KIDZ BOP hits.",
-  "num_followers": 9742,
+  "num_followers": 9759,
   "original_name": "Kidz Bop Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkbWQAAAAADh7IQI4UIF2A8gHRNiHFca",
+  "snapshot_id": "ZlAQwAAAAACPfNfHxH0SLMDjMncTTbLn",
   "tracks": [
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Training Season",
+        "url": "https://open.spotify.com/album/6yTP07jdb8B9wflHFaVPNf"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 191859,
+      "name": "Training Season",
+      "url": "https://open.spotify.com/track/3pBAUZNudmb6DbnhlTyNgm"
+    },
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Flow sudamericano con Gino Mella, Sayian Jimmy, LIT killah, Jun, Jairo Vera & Dani Flow.",
+  "description": "Flow sudamericano con Gino Mella.",
   "name": "Flow al Sur",
   "tracks": [
     {
@@ -452,7 +452,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 232840,
       "name": "2000's",
       "url": "https://open.spotify.com/track/21YrUZi23eK0jx7wPU5oh0"
@@ -2096,7 +2096,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 201507,
       "name": "Anuel AA: Bzrp Music Sessions, Vol. 46",
       "url": "https://open.spotify.com/track/1mrGEef8GuaEnDdw8J5BQp"
@@ -2709,7 +2709,7 @@
     },
     {
       "album": {
-        "name": "BAD BOY (feat. Juhn, Jairo Vera, Dani Flow, Nysix Music, CamiMusic & Montana the Producer) [Remix]",
+        "name": "BAD BOY (feat. Juhn, Jairo Vera, Sayian Jimmy, Nysix Music, CamiMusic & Montana the Producer) [Remix]",
         "url": "https://open.spotify.com/album/06KxwydF7895ixPU54krhE"
       },
       "artists": [
@@ -2718,8 +2718,8 @@
           "url": "https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY"
         },
         {
-          "name": "Sayian Jimmy",
-          "url": "https://open.spotify.com/artist/3ZfYo6sKskRv0wOyrZZdAj"
+          "name": "Dani Flow",
+          "url": "https://open.spotify.com/artist/0Y5fvbFYGpskZqqXa3tCep"
         },
         {
           "name": "LIT killah",
@@ -2734,8 +2734,8 @@
           "url": "https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc"
         },
         {
-          "name": "Dani Flow",
-          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
+          "name": "Sayian Jimmy",
+          "url": "https://open.spotify.com/artist/3ZfYo6sKskRv0wOyrZZdAj"
         },
         {
           "name": "Nysix Music",
@@ -2754,7 +2754,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 351910,
-      "name": "BAD BOY (feat. Juhn, Jairo Vera, Dani Flow, Nysix Music, CamiMusic & Montana the Producer) - Remix",
+      "name": "BAD BOY (feat. Juhn, Jairo Vera, Sayian Jimmy, Nysix Music, CamiMusic & Montana the Producer) - Remix",
       "url": "https://open.spotify.com/track/1aJT5lePkBJ0bAmhptUys7"
     },
     {
@@ -3804,6 +3804,24 @@
       "duration_ms": 115560,
       "name": "BRINCANDO",
       "url": "https://open.spotify.com/track/2rDr08hLBZLu4aVFKuQRuY"
+    },
+    {
+      "album": {
+        "name": "BRINKEN",
+        "url": "https://open.spotify.com/album/4oMyPt61mh1uvq2o97LoCO"
+      },
+      "artists": [
+        {
+          "name": "El Jordan 23",
+          "url": "https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115384,
+      "name": "BRINKEN",
+      "url": "https://open.spotify.com/track/1mCfNPVJ0IfcYe1A4GAi3Q"
     },
     {
       "album": {
@@ -6073,6 +6091,28 @@
     },
     {
       "album": {
+        "name": "Culpa",
+        "url": "https://open.spotify.com/album/2xHtRc5LXqflCdyMvhfxj8"
+      },
+      "artists": [
+        {
+          "name": "Deyco",
+          "url": "https://open.spotify.com/artist/7bp6cKqrM7NIxhGxDKY0Lp"
+        },
+        {
+          "name": "Santy-P",
+          "url": "https://open.spotify.com/artist/2PFhyG1gFk1fU3Ko3pb5QL"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "Culpa",
+      "url": "https://open.spotify.com/track/2Z3pMVdSHUJ9iHxfr08AAH"
+    },
+    {
+      "album": {
         "name": "YSYSMO",
         "url": "https://open.spotify.com/album/2Vo0I6ocNBz16QklB1zVc3"
       },
@@ -7002,7 +7042,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 181272,
       "name": "DIFERENTE",
       "url": "https://open.spotify.com/track/0zjlDOMaan6IH87OFaosuZ"
@@ -10600,7 +10640,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 172422,
       "name": "HACE TIEMPO",
       "url": "https://open.spotify.com/track/7m641CKXqrdZU1iRE9WdLQ"
@@ -12425,6 +12465,24 @@
     },
     {
       "album": {
+        "name": "GRASA",
+        "url": "https://open.spotify.com/album/2ab0PTJ5OG7I6YfSqpDFZv"
+      },
+      "artists": [
+        {
+          "name": "NATHY PELUSO",
+          "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194350,
+      "name": "LA MENTIRA",
+      "url": "https://open.spotify.com/track/5Zle5uMfNmpyLFRD0p7Nyf"
+    },
+    {
+      "album": {
         "name": "La Mitad de los Chavos (Remix)",
         "url": "https://open.spotify.com/album/1UNFEn0Veqr2kXeYtNfEF7"
       },
@@ -12604,7 +12662,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 263183,
       "name": "La Receta",
       "url": "https://open.spotify.com/track/5wslflNJXn11yXV5qtAmUh"
@@ -13372,7 +13430,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 258285,
       "name": "Llamame Bebe",
       "url": "https://open.spotify.com/track/66vWfpNGNT4y6nPdW5WMtj"
@@ -14499,6 +14557,28 @@
     },
     {
       "album": {
+        "name": "GRASA",
+        "url": "https://open.spotify.com/album/2ab0PTJ5OG7I6YfSqpDFZv"
+      },
+      "artists": [
+        {
+          "name": "NATHY PELUSO",
+          "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192425,
+      "name": "MANHATTAN",
+      "url": "https://open.spotify.com/track/1ky7iKY5camXBUrfRyHHhT"
+    },
+    {
+      "album": {
         "name": "Ma\u00f1anero",
         "url": "https://open.spotify.com/album/1DrYNadwai9D9rocbIXu2e"
       },
@@ -15547,6 +15627,24 @@
     },
     {
       "album": {
+        "name": "Mi Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/5e8zaDNGYEs72yRCuPrr4w"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164565,
+      "name": "Mi Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/7vjG5IXd5ApgPTEVjo8zJu"
+    },
+    {
+      "album": {
         "name": "La Melod\u00eda",
         "url": "https://open.spotify.com/album/1YFZVIsaSTXUuplcnpIxLc"
       },
@@ -15562,6 +15660,28 @@
       "duration_ms": 117750,
       "name": "Mi Estilo",
       "url": "https://open.spotify.com/track/17mO121s5ssjoi3lVK7qs9"
+    },
+    {
+      "album": {
+        "name": "Mi Gangster",
+        "url": "https://open.spotify.com/album/7hAS4lureFfdm0p2sVo585"
+      },
+      "artists": [
+        {
+          "name": "Bby Sowl",
+          "url": "https://open.spotify.com/artist/2d0aBDmcK49NFCgnMI6BIR"
+        },
+        {
+          "name": "Daiko 02",
+          "url": "https://open.spotify.com/artist/7HyrZUMEfu8eTF2iN5iP7T"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "Mi Gangster",
+      "url": "https://open.spotify.com/track/0awvbYe3RUtWZoGfBwq7Y8"
     },
     {
       "album": {
@@ -15880,7 +16000,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 200595,
       "name": "MIAMI VIBES 2.0 (with Polim\u00e1 Westcoast & Aqua VS)",
       "url": "https://open.spotify.com/track/2gK4jE05sDGissNGeIYvn7"
@@ -17443,6 +17563,24 @@
     },
     {
       "album": {
+        "name": "EL \u00daLTIMO BAILE",
+        "url": "https://open.spotify.com/album/3EWJoKrG9XnCjvAPzkQZ88"
+      },
+      "artists": [
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164254,
+      "name": "NIGHT",
+      "url": "https://open.spotify.com/track/3WYDHx5ZdIQ5CbptHDlASI"
+    },
+    {
+      "album": {
         "name": "Nike en mis pies",
         "url": "https://open.spotify.com/album/7jIcByfOrJhrQcvRQSS7Xh"
       },
@@ -17626,7 +17764,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 113000,
       "name": "No Estoy",
       "url": "https://open.spotify.com/track/4AOxMjHyzzcbjFnHOmd1l7"
@@ -21516,7 +21654,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 185454,
       "name": "QUICKIE",
       "url": "https://open.spotify.com/track/2chjKRTw1KKrIRHGf6K52T"
@@ -21900,6 +22038,24 @@
       "duration_ms": 138777,
       "name": "Recordando",
       "url": "https://open.spotify.com/track/1ZKYYoAs6OCsTOT051wcgY"
+    },
+    {
+      "album": {
+        "name": "Red Flag",
+        "url": "https://open.spotify.com/album/6nMqd6gK1zwnu0hTqMu9n1"
+      },
+      "artists": [
+        {
+          "name": "Gino Mella",
+          "url": "https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134783,
+      "name": "Red Flag",
+      "url": "https://open.spotify.com/track/1YZR8L15wmHNWRs2kwGklj"
     },
     {
       "album": {
@@ -23371,6 +23527,24 @@
     },
     {
       "album": {
+        "name": "SI NO ES CONTIGO",
+        "url": "https://open.spotify.com/album/4ecjQGViGCD4snnZ3QJOEL"
+      },
+      "artists": [
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156020,
+      "name": "SI NO ES CONTIGO",
+      "url": "https://open.spotify.com/track/5Uptvz6j1sjDKxidAcnH2L"
+    },
+    {
+      "album": {
         "name": "Si Quieren Frontear",
         "url": "https://open.spotify.com/album/4YyrXtsGoYbaoiQg0FZaHy"
       },
@@ -23924,7 +24098,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 227200,
       "name": "SORRY (REMIX)",
       "url": "https://open.spotify.com/track/6MSXHicqOs2kGtYbledHgw"
@@ -25313,6 +25487,28 @@
     },
     {
       "album": {
+        "name": "GRASA",
+        "url": "https://open.spotify.com/album/2ab0PTJ5OG7I6YfSqpDFZv"
+      },
+      "artists": [
+        {
+          "name": "NATHY PELUSO",
+          "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
+        },
+        {
+          "name": "CA7RIEL & Paco Amoroso",
+          "url": "https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187500,
+      "name": "TODO ROTO",
+      "url": "https://open.spotify.com/track/2neEt3A8fA4Scfwo4jAw1J"
+    },
+    {
+      "album": {
         "name": "TODOMAL",
         "url": "https://open.spotify.com/album/5rw89PPLx8jwrynGPo6SuO"
       },
@@ -25728,7 +25924,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 144950,
       "name": "Tu Cintura",
       "url": "https://open.spotify.com/track/1FlIoJ5n8JAJlTnNgdnO5D"
@@ -26024,6 +26220,36 @@
       "duration_ms": 136800,
       "name": "Tu Tormento",
       "url": "https://open.spotify.com/track/1fgFZZ19cPaJtoJbu0IXi1"
+    },
+    {
+      "album": {
+        "name": "K\u00e1psula",
+        "url": "https://open.spotify.com/album/5Phj9N70ogNLLz7MLXXsdj"
+      },
+      "artists": [
+        {
+          "name": "Knak",
+          "url": "https://open.spotify.com/artist/3IYKcXI1sFqT1ZtfyoW55C"
+        },
+        {
+          "name": "COSMIC KID",
+          "url": "https://open.spotify.com/artist/4JuwA35M2yrQkpOSokiH9h"
+        },
+        {
+          "name": "Tadu V\u00e1zquez",
+          "url": "https://open.spotify.com/artist/71scL1K5Nu1Z7FgBkg3Gjk"
+        },
+        {
+          "name": "AFTER",
+          "url": "https://open.spotify.com/artist/6RGri3BX7P64gUBuf6uU7p"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130000,
+      "name": "TU TU TU <3",
+      "url": "https://open.spotify.com/track/050VXPfWKK6kAtOoDZkQW4"
     },
     {
       "album": {

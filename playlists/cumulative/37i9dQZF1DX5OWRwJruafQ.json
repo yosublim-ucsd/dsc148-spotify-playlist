@@ -726,7 +726,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 256551,
       "name": "BAD-DUA",
       "url": "https://open.spotify.com/track/1tdfzRdcrv2SlEfmGXev8N"
@@ -1126,7 +1126,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 174373,
       "name": "Bne Na Bne",
       "url": "https://open.spotify.com/track/1DOHmhUluD2V8p2NsKTPFl"
@@ -1206,6 +1206,24 @@
       "duration_ms": 185346,
       "name": "Brand Deals",
       "url": "https://open.spotify.com/track/2iUY2m9C0mCdYJVvGuhEGm"
+    },
+    {
+      "album": {
+        "name": "BTFL (Break It Up)",
+        "url": "https://open.spotify.com/album/7CuZlhImuFI5LeFZ6aoTas"
+      },
+      "artists": [
+        {
+          "name": "Shivjot",
+          "url": "https://open.spotify.com/artist/1CluO4PWr2z45POcQ92ZPs"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158962,
+      "name": "BTFL (Break It Up)",
+      "url": "https://open.spotify.com/track/5q4HVIuDLTew7NHzGvp7XY"
     },
     {
       "album": {
@@ -3439,6 +3457,32 @@
     },
     {
       "album": {
+        "name": "House Of Lies",
+        "url": "https://open.spotify.com/album/58U6KMHr9ApwuTXeKXIGa9"
+      },
+      "artists": [
+        {
+          "name": "Ikka",
+          "url": "https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR"
+        },
+        {
+          "name": "Karan Aujla",
+          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
+        },
+        {
+          "name": "Sanjoy",
+          "url": "https://open.spotify.com/artist/6qjhYs5KNSoSU6fNJqDGIo"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179169,
+      "name": "House Of Lies",
+      "url": "https://open.spotify.com/track/7avo2LpNFXrgUgRtl9OsAL"
+    },
+    {
+      "album": {
         "name": "Still Here",
         "url": "https://open.spotify.com/album/55nYYOQPH0AUrbfsV0Nhgl"
       },
@@ -3900,7 +3944,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 197802,
       "name": "Jatt Life Zone",
       "url": "https://open.spotify.com/track/6V3RLScZlL8Bim7KyqW2cA"
@@ -5893,6 +5937,50 @@
     },
     {
       "album": {
+        "name": "OG",
+        "url": "https://open.spotify.com/album/7qSB8sD9esyUYbYQww8pWZ"
+      },
+      "artists": [
+        {
+          "name": "Shahat Gill",
+          "url": "https://open.spotify.com/artist/7JYrslpC4w9YRhzwFDZSZV"
+        },
+        {
+          "name": "Kaptaan",
+          "url": "https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139946,
+      "name": "OG",
+      "url": "https://open.spotify.com/track/7Gy5Su3ee5oLp0LV4Mddl3"
+    },
+    {
+      "album": {
+        "name": "OG OG",
+        "url": "https://open.spotify.com/album/1Eb1PMj67NH7XypDAm1nS9"
+      },
+      "artists": [
+        {
+          "name": "Singga",
+          "url": "https://open.spotify.com/artist/6nmrEhAdodPuhMLMbefluW"
+        },
+        {
+          "name": "Crew 47",
+          "url": "https://open.spotify.com/artist/5mrfuOKQRKcfj6lGIZAuPO"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222226,
+      "name": "OG OG",
+      "url": "https://open.spotify.com/track/5qzdF5Egtyo19WwLuxaQ3l"
+    },
+    {
+      "album": {
         "name": "Ok Reportaan",
         "url": "https://open.spotify.com/album/3cd3OLaia7aYId42IPsg5C"
       },
@@ -7882,7 +7970,7 @@
       ],
       "date_added": "2023-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 176418,
       "name": "WAR",
       "url": "https://open.spotify.com/track/4Tr9TEb18Jb6hQxeXXzZcX"

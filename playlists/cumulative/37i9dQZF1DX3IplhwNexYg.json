@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "The best in current indie rock. Cover: 86TVs",
+  "description": "The best in current indie rock. Cover: Orla Gartland",
   "name": "pulp",
   "tracks": [
     {
@@ -1388,7 +1388,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 139664,
       "name": "Borderline Insane",
       "url": "https://open.spotify.com/track/3G48URkjBTbQLTwW8mz1Po"
@@ -3394,7 +3394,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 227506,
       "name": "Gen-X Cops",
       "url": "https://open.spotify.com/track/0UqpCnZlv5X2IJf9OOR5fh"
@@ -5533,6 +5533,24 @@
     },
     {
       "album": {
+        "name": "Little Chaos",
+        "url": "https://open.spotify.com/album/7xP8WWOKNqBhItpZ2j7OXM"
+      },
+      "artists": [
+        {
+          "name": "Orla Gartland",
+          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174893,
+      "name": "Little Chaos",
+      "url": "https://open.spotify.com/track/2UGWhW5YmrEDUDRB3H1fif"
+    },
+    {
+      "album": {
         "name": "Little Fix",
         "url": "https://open.spotify.com/album/2Hw3eI5w9JgGXqgnAS0rAi"
       },
@@ -7190,6 +7208,24 @@
       "duration_ms": 228546,
       "name": "Prep-School Gangsters",
       "url": "https://open.spotify.com/track/0NiaHPlgDp7081zSqXuULS"
+    },
+    {
+      "album": {
+        "name": "You Can't Put A Price On Fun",
+        "url": "https://open.spotify.com/album/3ypNothOPxns9O8DIJubYb"
+      },
+      "artists": [
+        {
+          "name": "Chloe Slater",
+          "url": "https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200449,
+      "name": "Price On Fun",
+      "url": "https://open.spotify.com/track/3RVdfN1q7TMQKywRmtfhdD"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "The best rock songs of the moment. Cover: Cage The Elephant",
+  "description": "The best rock songs of the moment. Cover: Bring Me The Horizon",
   "name": "Rock Now",
   "tracks": [
     {
@@ -50,6 +50,24 @@
       "duration_ms": 195066,
       "name": "10:36",
       "url": "https://open.spotify.com/track/1FPTtFzvWMtV1A7ouK78at"
+    },
+    {
+      "album": {
+        "name": "1998",
+        "url": "https://open.spotify.com/album/6Zt0WBvkIvqzQfpdYR3uut"
+      },
+      "artists": [
+        {
+          "name": "Bleeker",
+          "url": "https://open.spotify.com/artist/64tT0KKbU4AFWkO6v1VvXv"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219642,
+      "name": "1998",
+      "url": "https://open.spotify.com/track/7GOVDt4GGRkwLKPQMQYLlM"
     },
     {
       "album": {
@@ -162,6 +180,24 @@
       "duration_ms": 459120,
       "name": "72 Seasons",
       "url": "https://open.spotify.com/track/6txhb14PWs9yrkTgR2jnU4"
+    },
+    {
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/1N1hcETSwMi13yU30szzpD"
+      },
+      "artists": [
+        {
+          "name": "Softcult",
+          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240527,
+      "name": "9 Circles",
+      "url": "https://open.spotify.com/track/0yo0S4H7hSS79S2C2vptGV"
     },
     {
       "album": {
@@ -1114,7 +1150,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 248774,
       "name": "Barbaric",
       "url": "https://open.spotify.com/track/1vDnhuoFPLK3Vgf64yO8fG"
@@ -1528,7 +1564,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 371280,
       "name": "Blue Kite",
       "url": "https://open.spotify.com/track/3mmPVTmjCRIa7p7cA8lDTh"
@@ -4054,7 +4090,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 152331,
       "name": "Eyes Wide Shut",
       "url": "https://open.spotify.com/track/556awMv4WQP0h1VXMU8rSU"
@@ -4754,7 +4790,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 128466,
       "name": "Fortune Cookies",
       "url": "https://open.spotify.com/track/2tSuIw7VLESHDHga6iX9Oy"
@@ -5998,7 +6034,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 165173,
       "name": "How To Live With Yourself",
       "url": "https://open.spotify.com/track/6VdLqabyUC4LCdjVu7mtuc"
@@ -6980,7 +7016,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 165186,
       "name": "Ladybug",
       "url": "https://open.spotify.com/track/3Xokw1dgXW1kAEPcMpVWoe"
@@ -7164,7 +7200,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 193969,
       "name": "Let's Go",
       "url": "https://open.spotify.com/track/1Px7qTzJHL2nDbwO5Fpf7w"
@@ -7436,6 +7472,24 @@
       "duration_ms": 164775,
       "name": "Lightning",
       "url": "https://open.spotify.com/track/2ReaOb4kY5o4h5PHq7K2yO"
+    },
+    {
+      "album": {
+        "name": "Lightning and Thunder",
+        "url": "https://open.spotify.com/album/0o5i56t1PxK8yLG9MnCmsG"
+      },
+      "artists": [
+        {
+          "name": "Marianas Trench",
+          "url": "https://open.spotify.com/artist/68EB3QvNdVLkC7SAgDbHIR"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207405,
+      "name": "Lightning and Thunder",
+      "url": "https://open.spotify.com/track/01IQy9o6fgtw7ZCThALXgn"
     },
     {
       "album": {
@@ -9489,6 +9543,24 @@
     },
     {
       "album": {
+        "name": "Sleepyhead",
+        "url": "https://open.spotify.com/album/26Ztf9CMF4nOwB1zLs5Qiw"
+      },
+      "artists": [
+        {
+          "name": "Jutes",
+          "url": "https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162493,
+      "name": "Obsessed",
+      "url": "https://open.spotify.com/track/0utVbKNn9TmorprYviaxv8"
+    },
+    {
+      "album": {
         "name": "Funeral for Justice",
         "url": "https://open.spotify.com/album/1fJajwWIysMm9TqWzFcHwq"
       },
@@ -9872,7 +9944,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 190733,
       "name": "Overcompensate (edit)",
       "url": "https://open.spotify.com/track/7kcApwUclbIw9B6MuVmqPc"
@@ -9930,6 +10002,24 @@
       "duration_ms": 180370,
       "name": "papercuts",
       "url": "https://open.spotify.com/track/3nkW3TPQjBip1lER4h78NX"
+    },
+    {
+      "album": {
+        "name": "Paralyzed",
+        "url": "https://open.spotify.com/album/1CBaF78AkVYS2S3PufMKgl"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268421,
+      "name": "Paralyzed",
+      "url": "https://open.spotify.com/track/6PKxJG1HapLGNqaKoRaIq4"
     },
     {
       "album": {
@@ -10244,6 +10334,24 @@
       "duration_ms": 197000,
       "name": "Poison Pill",
       "url": "https://open.spotify.com/track/7u0uisz8AVu8vTeEYyq4XM"
+    },
+    {
+      "album": {
+        "name": "Politicking",
+        "url": "https://open.spotify.com/album/70IcDDLyhTjBt413hAz51P"
+      },
+      "artists": [
+        {
+          "name": "Yuki Dreams Again",
+          "url": "https://open.spotify.com/artist/4IYRXwfKzdo76LVTCG3r2t"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Politicking",
+      "url": "https://open.spotify.com/track/5QgF5mYqbdF4R7veZjLQVl"
     },
     {
       "album": {
@@ -12413,6 +12521,24 @@
     },
     {
       "album": {
+        "name": "Stupid Heart",
+        "url": "https://open.spotify.com/album/2mNque84IKRiGLn6QpHrxn"
+      },
+      "artists": [
+        {
+          "name": "Rare Americans",
+          "url": "https://open.spotify.com/artist/0e5Rda7VQAY786739xp0Jt"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142133,
+      "name": "Stupid Heart",
+      "url": "https://open.spotify.com/track/64FWcpeHm6BB9oFlacsY3w"
+    },
+    {
+      "album": {
         "name": "Summer",
         "url": "https://open.spotify.com/album/0k5arnScjVZaqqvNFK3otb"
       },
@@ -12947,6 +13073,24 @@
     },
     {
       "album": {
+        "name": "The Craving (single version)",
+        "url": "https://open.spotify.com/album/7K7eWZNR5t9UBlrN2ltzLI"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173866,
+      "name": "The Craving (single version)",
+      "url": "https://open.spotify.com/track/0S7lkKStHgfgjgwSFOvRNA"
+    },
+    {
+      "album": {
         "name": "Return of the Dream Canteen",
         "url": "https://open.spotify.com/album/0KJc9ksnoJJsdpQxV3z5i1"
       },
@@ -13070,6 +13214,24 @@
       "duration_ms": 229786,
       "name": "The Glass",
       "url": "https://open.spotify.com/track/26iWAXoJRiUv9yYzxYBqSv"
+    },
+    {
+      "album": {
+        "name": "The Go Down",
+        "url": "https://open.spotify.com/album/439ekKZJmgH7sWLk6Ze4JH"
+      },
+      "artists": [
+        {
+          "name": "dialE",
+          "url": "https://open.spotify.com/artist/2MRAnlUDLuUImm4UEZ9nHB"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130243,
+      "name": "The Go Down",
+      "url": "https://open.spotify.com/track/4r1IIs9keKHVRO7KSlnxCh"
     },
     {
       "album": {
@@ -13710,7 +13872,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 181120,
       "name": "Together Right",
       "url": "https://open.spotify.com/track/2pWJywnRIrDfgaKQnru6ri"
@@ -13786,6 +13948,24 @@
       "duration_ms": 229212,
       "name": "Too Good At Raising Hell",
       "url": "https://open.spotify.com/track/7oob8M60wM76SlqThEwoTC"
+    },
+    {
+      "album": {
+        "name": "POST HUMAN: NeX GEn",
+        "url": "https://open.spotify.com/album/1k7OXnGQPV4zF3seDwRroD"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240590,
+      "name": "Top 10 staTues tHat CriEd bloOd",
+      "url": "https://open.spotify.com/track/7g4hIeYVk3h5qQXb9RLeXP"
     },
     {
       "album": {
@@ -14332,7 +14512,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 213720,
       "name": "Wait Up",
       "url": "https://open.spotify.com/track/0Tt6nZygsl1BMjnXZwHMRI"

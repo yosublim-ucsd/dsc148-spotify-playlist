@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Deja que la m\u00fasica te inspire para acabar con tu tarea!",
-  "num_followers": 572631,
+  "num_followers": 572591,
   "original_name": "Tarea Casual",
   "owner": {
     "name": "Spotify",
@@ -571,22 +571,6 @@
     {
       "added_at": "2023-01-13 21:02:37",
       "album": {
-        "name": "A Perfect Contradiction (Outsiders' Expanded Edition)",
-        "url": "https://open.spotify.com/album/3jRG3qOfsSSW3SBdeBiIfC"
-      },
-      "artists": [
-        {
-          "name": "Paloma Faith",
-          "url": "https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa"
-        }
-      ],
-      "duration_ms": 232893,
-      "name": "Only Love Can Hurt Like This",
-      "url": "https://open.spotify.com/track/62ke5zFUJN6RvtXZgVH0F8"
-    },
-    {
-      "added_at": "2023-01-13 21:02:37",
-      "album": {
         "name": "Feel Something",
         "url": "https://open.spotify.com/album/6MuWCR3WPjwyKhqsTKLZ3z"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 237720,
       "name": "Infinity",
       "url": "https://open.spotify.com/track/1SOClUWhOi8vHZYMz3GluK"
+    },
+    {
+      "added_at": "2023-01-13 21:02:37",
+      "album": {
+        "name": "A Perfect Contradiction (Outsiders' Expanded Edition)",
+        "url": "https://open.spotify.com/album/3jRG3qOfsSSW3SBdeBiIfC"
+      },
+      "artists": [
+        {
+          "name": "Paloma Faith",
+          "url": "https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa"
+        }
+      ],
+      "duration_ms": 232893,
+      "name": "Only Love Can Hurt Like This",
+      "url": "https://open.spotify.com/track/62ke5zFUJN6RvtXZgVH0F8"
     },
     {
       "added_at": "2023-01-13 21:02:37",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2023-01-13 21:02:37",
       "album": {
-        "name": "Brother Sun/Sister Moon",
-        "url": "https://open.spotify.com/album/09YtitY2sCZiltmlRmhrtc"
-      },
-      "artists": [
-        {
-          "name": "LYS",
-          "url": "https://open.spotify.com/artist/6Kp9gMLqYA14HIrTitRJEQ"
-        }
-      ],
-      "duration_ms": 216400,
-      "name": "Brother Sun/Sister Moon",
-      "url": "https://open.spotify.com/track/1K1avESFuxk2TmPTQ3j9wJ"
-    },
-    {
-      "added_at": "2023-01-13 21:02:37",
-      "album": {
         "name": "A Boy from Colorado",
         "url": "https://open.spotify.com/album/1RKiTh2gOJYS6SRh7iMXBK"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 138136,
       "name": "Suddenly",
       "url": "https://open.spotify.com/track/1dFzOEaw0sm022IIBgTDU4"
+    },
+    {
+      "added_at": "2023-01-13 21:02:37",
+      "album": {
+        "name": "Brother Sun/Sister Moon",
+        "url": "https://open.spotify.com/album/09YtitY2sCZiltmlRmhrtc"
+      },
+      "artists": [
+        {
+          "name": "LYS",
+          "url": "https://open.spotify.com/artist/6Kp9gMLqYA14HIrTitRJEQ"
+        }
+      ],
+      "duration_ms": 216400,
+      "name": "Brother Sun/Sister Moon",
+      "url": "https://open.spotify.com/track/1K1avESFuxk2TmPTQ3j9wJ"
     },
     {
       "added_at": "2023-01-13 21:02:37",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2023-01-13 21:02:37",
       "album": {
-        "name": "Your Power",
-        "url": "https://open.spotify.com/album/7H3vJa2HHgxb7qqclOdfJ3"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 245896,
-      "name": "Your Power",
-      "url": "https://open.spotify.com/track/5qNh5WtzMbfpSj2jLlBkoD"
-    },
-    {
-      "added_at": "2023-01-13 21:02:37",
-      "album": {
         "name": "I'm Sure",
         "url": "https://open.spotify.com/album/79zUXfErg2kVJQxQ7ypEZ8"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 321438,
       "name": "Swing Lynn",
       "url": "https://open.spotify.com/track/6hIOunhsLUT66KQgZV5dMD"
+    },
+    {
+      "added_at": "2023-01-13 21:02:37",
+      "album": {
+        "name": "Your Power",
+        "url": "https://open.spotify.com/album/7H3vJa2HHgxb7qqclOdfJ3"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 245896,
+      "name": "Your Power",
+      "url": "https://open.spotify.com/track/5qNh5WtzMbfpSj2jLlBkoD"
     },
     {
       "added_at": "2023-01-13 21:02:37",

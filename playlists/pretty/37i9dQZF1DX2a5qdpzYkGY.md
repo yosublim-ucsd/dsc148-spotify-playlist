@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2a5qdpzYkGY.md) - [plain]
 
 > a journey through ephemeral moments
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,171 likes - 75 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,172 likes - 75 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,11 +76,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2a5qdpzYkGY.md) - [plain]
 | 66 | [Beside April](https://open.spotify.com/track/0ILCCPZp5fXzakTTPsIdR8) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Karriem Riggins](https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ), [Arthur Verocai](https://open.spotify.com/artist/1tP3R35TdPW8BMwmTPOoVZ) | [Beside April](https://open.spotify.com/album/3jGdsI7EtNflxCUUre7QXP) | 5:13 |
 | 67 | [Tloque Nahuaque](https://open.spotify.com/track/4439dBPyNcwW7Vt9vKdQl5) | [Uriel VIllalobos Alva](https://open.spotify.com/artist/7bWtjxmBs2HQH4A4iO8LmA), [Uriel Villalobos](https://open.spotify.com/artist/0xszix5WIkPOTjBrXlJQfu), [Orquesta Invisible de Lagos de Moreno](https://open.spotify.com/artist/4uCE0x1AQV3x4VGBV18WRW) | [Tloque Nahuaque](https://open.spotify.com/album/4Jb0KPq6u9VcGkGPuaio7N) | 6:31 |
 | 68 | [Earth's Orbit](https://open.spotify.com/track/6XVZhsWHSbQcPmHN6MCdza) | [Adam Saunders](https://open.spotify.com/artist/26EJOdtsKzoO67yCn7kdAU), [Mark Stephen Cousins](https://open.spotify.com/artist/4Tcr21ghQ8bsvYRc41GqIF), [Mark Cousins](https://open.spotify.com/artist/532Rq5aGExIRlG4QDwOQlx) | [Docutrax, Vol\. 2: Serious Incidents](https://open.spotify.com/album/5FkAhhLYin1Ktwfc3WYHG1) | 2:32 |
-| 69 | [1978](https://open.spotify.com/track/6hqEwHPaSspW6qF1lL2lTQ) | [Do Make Say Think](https://open.spotify.com/artist/1WudHeuEN3d18SXVos95mc) | [Do Make Say Think](https://open.spotify.com/album/4wdTsdXzJJddL3FwHmJHDy) | 10:29 |
-| 70 | [Mirrored Solitude](https://open.spotify.com/track/52vNlD5YZT1yUmZUnukAbT) | [Kalia Vandever](https://open.spotify.com/artist/2eFIJMz1OPMcyyqxVbh8tL) | [Mirrored Solitude](https://open.spotify.com/album/4bd0O6ioCKu3uh3d89rtpB) | 3:26 |
-| 71 | [Marilene \- Somewhere in Texas](https://open.spotify.com/track/6jVbgzKpU5TV5Vijk7TD37) | [Gigi Masin](https://open.spotify.com/artist/0dCVhSVXD9JhJh2bTySJZx) | [Marilene \(Somewhere in Texas\)](https://open.spotify.com/album/77JuxMNZxYkDmhDzFywvn7) | 7:55 |
-| 72 | [City Of Red Sand](https://open.spotify.com/track/5pQI4osudR5207IiprBP7J) | [Marc Barreca](https://open.spotify.com/artist/6jpmlBMb9q7F75J0yFxOnh) | [The Empty Bridge](https://open.spotify.com/album/2ZTO0VErlT8DV5HLPdTVS6) | 6:43 |
-| 73 | [Inspiral](https://open.spotify.com/track/2g5wSGjYZB8gMGMgyKuVd8) | [EN.KI.DU](https://open.spotify.com/artist/1dZP0pipirizLq80zTSSBE) | [BITTER.ROOT](https://open.spotify.com/album/2LIZdIGqsOqJ9w31QHLAe4) | 4:36 |
+| 69 | [Marilene \- Somewhere in Texas](https://open.spotify.com/track/6jVbgzKpU5TV5Vijk7TD37) | [Gigi Masin](https://open.spotify.com/artist/0dCVhSVXD9JhJh2bTySJZx) | [Marilene \(Somewhere in Texas\)](https://open.spotify.com/album/77JuxMNZxYkDmhDzFywvn7) | 7:55 |
+| 70 | [1978](https://open.spotify.com/track/6hqEwHPaSspW6qF1lL2lTQ) | [Do Make Say Think](https://open.spotify.com/artist/1WudHeuEN3d18SXVos95mc) | [Do Make Say Think](https://open.spotify.com/album/4wdTsdXzJJddL3FwHmJHDy) | 10:29 |
+| 71 | [Mirrored Solitude](https://open.spotify.com/track/52vNlD5YZT1yUmZUnukAbT) | [Kalia Vandever](https://open.spotify.com/artist/2eFIJMz1OPMcyyqxVbh8tL) | [Mirrored Solitude](https://open.spotify.com/album/4bd0O6ioCKu3uh3d89rtpB) | 3:26 |
+| 72 | [Inspiral](https://open.spotify.com/track/2g5wSGjYZB8gMGMgyKuVd8) | [EN.KI.DU](https://open.spotify.com/artist/1dZP0pipirizLq80zTSSBE) | [BITTER.ROOT](https://open.spotify.com/album/2LIZdIGqsOqJ9w31QHLAe4) | 4:36 |
+| 73 | [City Of Red Sand](https://open.spotify.com/track/5pQI4osudR5207IiprBP7J) | [Marc Barreca](https://open.spotify.com/artist/6jpmlBMb9q7F75J0yFxOnh) | [The Empty Bridge](https://open.spotify.com/album/2ZTO0VErlT8DV5HLPdTVS6) | 6:43 |
 | 74 | [Francis K.](https://open.spotify.com/track/7EIlPzBmqzRRUdriseY4XP) | [A\. M.](https://open.spotify.com/artist/2GetULOyoPrlJ6DentO2Wa) | [Origen](https://open.spotify.com/album/4qbGp9cj61TMzAeFAtEUj8) | 5:13 |
 | 75 | [III](https://open.spotify.com/track/53t36WpigyJBFRFy3jrygw) | [Oren Ambarchi](https://open.spotify.com/artist/1fIzM2bmsXG77E5EMPtdKW) | [Shebang](https://open.spotify.com/album/1khpMdVH3EXz5RWt4WRAbg) | 6:16 |
 

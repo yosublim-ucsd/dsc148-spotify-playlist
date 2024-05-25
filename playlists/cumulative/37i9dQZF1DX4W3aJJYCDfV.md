@@ -4,7 +4,7 @@
 
 > Brand new music from Bring Me The Horizon \(pictured\), Central Cee ft Lil Baby, PinkPantheress and more!
 
-10,490 songs - 23 day 14 hr 0 min
+10,493 songs - 23 day 14 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1694,6 +1694,7 @@
 | [clean up](https://open.spotify.com/track/4HF1hEh0iKSDZ6i04tNuhb) | [shortstraw.](https://open.spotify.com/artist/3qlFWAsq8StLpupHiBDVND) | [clean up](https://open.spotify.com/album/7mRp1RiMhmGA1BjtGbcl4p) | 2:28 | 2023-10-19 | 2023-10-27 |
 | [Clear](https://open.spotify.com/track/2fs9xs7NcbZFlP8NER3v7V) | [Jelani Blackman](https://open.spotify.com/artist/0fjaIHFhiW9vWX8bncZCOo) | [Clear](https://open.spotify.com/album/6Tr8xisiLIe1NJ6t1l8kcw) | 3:35 | 2023-11-10 | 2023-11-17 |
 | [Clear My Mind](https://open.spotify.com/track/33kkbA8q9wSYoUnEfARX64) | [Sensu](https://open.spotify.com/artist/4KkoOAycKxCd85wUPaImhw) | [Clear My Mind](https://open.spotify.com/album/7jdCm5rOaDGoVNGwaS52hU) | 2:13 | 2023-05-04 | 2023-05-12 |
+| [Clear the Smoke](https://open.spotify.com/track/0tWvBMSTdobhWgsJyviGeU) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Clear the Smoke](https://open.spotify.com/album/23RLz5Jsy8E54z7BZnH01D) | 3:38 | 2024-05-23 |  |
 | [Clementine](https://open.spotify.com/track/3KRyg5VWNpVw3HTXtp47yV) | [Lucy Tun](https://open.spotify.com/artist/6OtMoXdFTNYbPwyx1M6Yk6) | [Unreal](https://open.spotify.com/album/2IjTLiLnqonRQxxCqiO0pR) | 2:50 | 2023-11-10 | 2023-11-17 |
 | [Click](https://open.spotify.com/track/5dnhTckX8GqkRQEdXAePqE) | [Enda Gallery](https://open.spotify.com/artist/1quMAp2YAz3SDEs0OmTIET) | [Click](https://open.spotify.com/album/2F3Hg4GLqseXCo9hIPRl4v) | 4:45 | 2023-10-19 | 2023-10-27 |
 | [Click Of My Fingers](https://open.spotify.com/track/1Ohz23hcw8s35yExjFv3Rc) | [Clavish](https://open.spotify.com/artist/4ygR3mAG9AsBRVKIlmFYP1) | [Click Of My Fingers](https://open.spotify.com/album/6wfMwjhTgS27jazms5vOoi) | 3:13 | 2023-08-03 | 2023-08-11 |
@@ -4156,6 +4157,7 @@
 | [How Many Love Songs Have Died In Vegas?](https://open.spotify.com/track/6ldiSdfgx96IQvUm2XOobi) | [Swim Deep](https://open.spotify.com/artist/2XddLUPFBmTonCFy8uB3uc) | [How Many Love Songs Have Died In Vegas?](https://open.spotify.com/album/3ctaMoubphJD5IVfNfsb1V) | 3:53 | 2024-02-23 | 2024-03-01 |
 | [How Many Times](https://open.spotify.com/track/45Vvoe20MW6GD7FwoacZc8) | [DJ Big N](https://open.spotify.com/artist/2mGQZqxcJJOHMYhU8c7l4B), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [How Many Times](https://open.spotify.com/album/32pRltYP2ioIOuycPQFpXm) | 3:12 | 2023-04-13 | 2023-04-21 |
 | [How Music Makes You Feel Better \- Edit](https://open.spotify.com/track/2bBuxaPbzrUGK9rnLJ5fFN) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [How Music Makes You Feel Better](https://open.spotify.com/album/4mUY2PlUa8qducN1OyWu4w) | 3:21 | 2023-09-28 | 2023-10-06 |
+| [How Sweet](https://open.spotify.com/track/38tXZcL1gZRfbqfOG0VMTH) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [How Sweet](https://open.spotify.com/album/0EhZEM4RRz0yioTgucDhJq) | 3:39 | 2024-05-23 |  |
 | [How The Light Gets In](https://open.spotify.com/track/3WCkCuKDZv13MTUmL9FP7s) | [Lawrence Hart](https://open.spotify.com/artist/2pQj31A8LgfwBTGmhHdRXa) | [How The Light Gets In](https://open.spotify.com/album/72ImiCyFEh3JXpXbZIW5Qk) | 3:32 | 2023-01-20 | 2023-01-27 |
 | [How The Story Ends](https://open.spotify.com/track/2UZgjzIwe1luGtukImuXDi) | [Lily Williams](https://open.spotify.com/artist/1f2q4venkA2pATVTmWhS6Z) | [How The Story Ends](https://open.spotify.com/album/6hFUWN8f9dlGuBaCeYsmul) | 2:45 | 2023-02-03 | 2023-02-10 |
 | [How To Be A Man](https://open.spotify.com/track/2774WP13iz2HKZGAsTe9zh) | [Benny Atlas](https://open.spotify.com/artist/6IXnkjY4xozfLmaA0DxuoS) | [How To Be A Man](https://open.spotify.com/album/3K7RHI0HOlf6MKtrToYQLj) | 2:59 | 2024-03-15 | 2024-03-22 |
@@ -7124,6 +7126,7 @@
 | [Pink Notes](https://open.spotify.com/track/4yGnh6cZZCOts87hnFUJMg) | [JUICE MENACE](https://open.spotify.com/artist/762lsZj1M33PjCaBCmxaAB) | [Pink Notes](https://open.spotify.com/album/2S0klxYPTC8Sg5SgeHmvqJ) | 2:40 | 2023-01-27 | 2023-02-03 |
 | [Pink Push\-Up Bra](https://open.spotify.com/track/6QbpIejpFu4dpnyHdGJ0fX) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4) | [Pink Push\-Up Bra](https://open.spotify.com/album/5vormAy9yNKoLQ6yHsEldX) | 2:12 | 2023-09-21 | 2023-09-29 |
 | [Pink Skies](https://open.spotify.com/track/4MiJlJoCLr6X2Q7D9fN4hT) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Pink Skies](https://open.spotify.com/album/6mhMHaEdNMxyPi4Otr73nM) | 3:21 | 2024-01-12 | 2024-01-19 |
+| [Pink Skies](https://open.spotify.com/track/4ZJ4vzLQekI0WntDbanNC7) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Pink Skies](https://open.spotify.com/album/7LRZfujsTLyy814AnMSdtT) | 3:14 | 2024-05-23 |  |
 | [Pinot](https://open.spotify.com/track/3HzBrycUi2tbHJKSW8SAjb) | [Banditt](https://open.spotify.com/artist/4uoxnYSZK48iKLjfbjRi6A), [Clarcq](https://open.spotify.com/artist/1rNXEojTDioDqwEHps11f4) | [Pinot](https://open.spotify.com/album/0y1F0onkPdPvKn2MG5XJn4) | 3:14 | 2023-02-03 | 2023-02-10 |
 | [Pistol](https://open.spotify.com/track/5g5XvfePSypMK6eiVL6BI7) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Pistol](https://open.spotify.com/album/681myoJD0vQ3rCpF15ECcP) | 3:54 | 2022-11-18 | 2022-11-25 |
 | [Pitched](https://open.spotify.com/track/51agQxa45KgkLFUsPEzkqo) | [Effy](https://open.spotify.com/artist/19SX00qkAvpVQroAka9GI0) | [Pitched](https://open.spotify.com/album/2H6k7lpjx4f64j6B67BcGQ) | 4:24 | 2023-09-28 | 2023-10-06 |
@@ -7969,7 +7972,7 @@
 | [She's got this](https://open.spotify.com/track/4yqOS1XZE4Q8dbcR1YhiNW) | [anna leah](https://open.spotify.com/artist/5e9KbGgdnBvD8H1marauXz) | [She's got this](https://open.spotify.com/album/55A8R2MjJrI16nBkOoGOyv) | 4:02 | 2023-11-24 | 2023-12-01 |
 | [SHE'S NOT LEAVIN](https://open.spotify.com/track/0hhtb1A5JQRbDloPFhHTXq) | [Layzee Gold](https://open.spotify.com/artist/7hcfPgk1kIiXbQFbLwkTwK) | [SHE'S NOT LEAVIN](https://open.spotify.com/album/6sno4ePutWsHDrhQKFxcuE) | 1:47 | 2023-11-24 | 2023-12-01 |
 | [She's On My Mind](https://open.spotify.com/track/4heve4ydl1u6V3AD4moZq9) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Mid Air](https://open.spotify.com/album/7vQRJ5q9b0c4gKrsh9yIhE) | 3:01 | 2023-09-07 | 2023-09-15 |
-| [SheBeen \(feat\. Breakage\)](https://open.spotify.com/track/47BD4fkYIOHcWhdR78Rqro) | [SHY FX](https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j), [Mr\. Williamz](https://open.spotify.com/artist/3iL52u3kr14P6cTpB0VuEs), [Breakage](https://open.spotify.com/artist/68Wb5Pcy71lLaKdIB6cBA5) | [SheBeen \(feat\. Breakage\)](https://open.spotify.com/album/6gHE9dZxnB7awspRIVjKLW) | 2:44 | 2024-05-23 |  |
+| [Shebeen \(feat\. Breakage\)](https://open.spotify.com/track/47BD4fkYIOHcWhdR78Rqro) | [SHY FX](https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j), [Mr\. Williamz](https://open.spotify.com/artist/3iL52u3kr14P6cTpB0VuEs), [Breakage](https://open.spotify.com/artist/68Wb5Pcy71lLaKdIB6cBA5) | [Shebeen \(feat\. Breakage\)](https://open.spotify.com/album/6gHE9dZxnB7awspRIVjKLW) | 2:44 | 2024-05-23 |  |
 | [Shella Verse](https://open.spotify.com/track/2aoWvGMW6W40WelevwsOUx) | [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Shella Verse](https://open.spotify.com/album/4BitmFpa4h4GaGNvtnsQw3) | 2:43 | 2023-06-29 | 2023-07-07 |
 | [Shenseea](https://open.spotify.com/track/2ZG1Qyoe2cpYFpUh0tp08v) | [Boy Boy](https://open.spotify.com/artist/3UwGbC4Sl9MmonrpWo6grS) | [Shenseea](https://open.spotify.com/album/6b1oJCELcbB7aHQIDhqKss) | 2:37 | 2024-02-09 | 2024-02-16 |
 | [She’s So Cool \(with Pale Waves\)](https://open.spotify.com/track/2ma25BxbSTq90j64a0SP60) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y), [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [She’s So Cool \(with Pale Waves\)](https://open.spotify.com/album/3XLcU3IGsgZ6JwIApfrTmJ) | 2:26 | 2023-12-15 | 2023-12-22 |

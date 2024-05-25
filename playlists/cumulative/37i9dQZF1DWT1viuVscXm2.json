@@ -1766,7 +1766,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 198188,
       "name": "Es lo que hay",
       "url": "https://open.spotify.com/track/4sYiGhu0HEL0ZlkbHesfYC"
@@ -1969,6 +1969,24 @@
     },
     {
       "album": {
+        "name": "Fue Facil",
+        "url": "https://open.spotify.com/album/1WVw7hxo9Tbk1vAe8fA5CG"
+      },
+      "artists": [
+        {
+          "name": "Grupo Play",
+          "url": "https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181699,
+      "name": "Fue Facil",
+      "url": "https://open.spotify.com/track/6FTYhQeBISU2K63RB0q6xc"
+    },
+    {
+      "album": {
         "name": "Fue Solo Piel",
         "url": "https://open.spotify.com/album/4O8LVFTp9vwoQystHNX5Lr"
       },
@@ -2090,6 +2108,28 @@
       "duration_ms": 196017,
       "name": "Hey Tu",
       "url": "https://open.spotify.com/track/2w28uMXOKPOVaoOQDDp9pR"
+    },
+    {
+      "album": {
+        "name": "Hoy",
+        "url": "https://open.spotify.com/album/4ENi7P1IV01E2jzbHZeKxn"
+      },
+      "artists": [
+        {
+          "name": "Valentino Merlo",
+          "url": "https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6"
+        },
+        {
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198495,
+      "name": "Hoy",
+      "url": "https://open.spotify.com/track/0SoBfYjQHvL6cuWHtPUYnq"
     },
     {
       "album": {
@@ -4013,6 +4053,28 @@
     },
     {
       "album": {
+        "name": "Perdonarte, \u00bfPara Qu\u00e9?",
+        "url": "https://open.spotify.com/album/1fXZxmn9aUIo5Zjx8zQFol"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        },
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193933,
+      "name": "Perdonarte, \u00bfPara Qu\u00e9?",
+      "url": "https://open.spotify.com/track/4dLLdfiniBhDP9dlJQIOi4"
+    },
+    {
+      "album": {
         "name": "Perfecta",
         "url": "https://open.spotify.com/album/4t1mtvtgdEtwlfen0Ks7yp"
       },
@@ -4068,7 +4130,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 198620,
       "name": "Piel y Huesos",
       "url": "https://open.spotify.com/track/4xtRpCuA9EHceVZKERguSt"
@@ -4876,7 +4938,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 203846,
       "name": "Si Regresas",
       "url": "https://open.spotify.com/track/56MNKndcWxFCIlgpDtd8Fd"
@@ -5488,7 +5550,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 173887,
       "name": "Tuyo Siempre",
       "url": "https://open.spotify.com/track/1FQjnCLBH6QF0FBmLIlr8m"
@@ -6020,6 +6082,24 @@
       "duration_ms": 224655,
       "name": "Ya Re Fue",
       "url": "https://open.spotify.com/track/1XbWDGxWXD69Lsi9R5tq6Q"
+    },
+    {
+      "album": {
+        "name": "Ya Sera Tarde",
+        "url": "https://open.spotify.com/album/6jiWZxtBjLgknEKGJAeVCR"
+      },
+      "artists": [
+        {
+          "name": "18 Kilates",
+          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220575,
+      "name": "Ya Sera Tarde",
+      "url": "https://open.spotify.com/track/4fvEhNtBhn3wKumiosH34t"
     },
     {
       "album": {

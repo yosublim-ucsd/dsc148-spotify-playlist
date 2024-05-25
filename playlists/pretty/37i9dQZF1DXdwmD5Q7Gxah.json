@@ -1,12 +1,12 @@
 {
   "description": "clairo is back : )",
-  "num_followers": 1147395,
+  "num_followers": 1147652,
   "original_name": "Lorem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zk+s8gAAAAAVOgAeGq0s8PnM4s9ZUrOm",
+  "snapshot_id": "ZlABzwAAAADmKMgXeWF8PcCEBaU2j849",
   "tracks": [
     {
       "added_at": "2024-05-23 16:00:00",
@@ -41,22 +41,6 @@
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
     },
     {
-      "added_at": "2024-05-23 20:54:10",
-      "album": {
-        "name": "Les Fleurs",
-        "url": "https://open.spotify.com/album/4QAzV4Z3hJq5XULwP74Gm7"
-      },
-      "artists": [
-        {
-          "name": "Minnie Riperton",
-          "url": "https://open.spotify.com/artist/2i1IdHG5w0wiSmJGoqAGlj"
-        }
-      ],
-      "duration_ms": 281807,
-      "name": "Inside My Love",
-      "url": "https://open.spotify.com/track/64qumU8DunSmNXYQKuIVWv"
-    },
-    {
       "added_at": "2024-05-14 17:00:48",
       "album": {
         "name": "Confusion Song",
@@ -89,24 +73,20 @@
       "url": "https://open.spotify.com/track/1WM80A5a4xDtlndjqjZQIv"
     },
     {
-      "added_at": "2024-05-22 11:00:00",
+      "added_at": "2024-05-23 20:54:10",
       "album": {
-        "name": "Undecided",
-        "url": "https://open.spotify.com/album/7xQuTGBZQO20Ss8MLgHnoG"
+        "name": "Les Fleurs",
+        "url": "https://open.spotify.com/album/4QAzV4Z3hJq5XULwP74Gm7"
       },
       "artists": [
         {
-          "name": "Christian Kuria",
-          "url": "https://open.spotify.com/artist/4uaGojdWj4H6cTJydZUPWG"
-        },
-        {
-          "name": "Cautious Clay",
-          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
+          "name": "Minnie Riperton",
+          "url": "https://open.spotify.com/artist/2i1IdHG5w0wiSmJGoqAGlj"
         }
       ],
-      "duration_ms": 145226,
-      "name": "Undecided",
-      "url": "https://open.spotify.com/track/7hMQeVQwsKzLKAuF6iXS8d"
+      "duration_ms": 281807,
+      "name": "Inside My Love",
+      "url": "https://open.spotify.com/track/64qumU8DunSmNXYQKuIVWv"
     },
     {
       "added_at": "2024-05-09 21:07:55",
@@ -123,6 +103,22 @@
       "duration_ms": 158866,
       "name": "Take A Bite",
       "url": "https://open.spotify.com/track/7ddVpLW467CLYffbPRQNmH"
+    },
+    {
+      "added_at": "2024-05-23 16:00:00",
+      "album": {
+        "name": "You (Show Me Where My Days Went)",
+        "url": "https://open.spotify.com/album/6cN6j2Fr5vVCSZnWQyqSSs"
+      },
+      "artists": [
+        {
+          "name": "Wallows",
+          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
+        }
+      ],
+      "duration_ms": 167144,
+      "name": "You (Show Me Where My Days Went)",
+      "url": "https://open.spotify.com/track/3UIeiuDKnbhZ7OoXZ9j0U5"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -205,6 +201,22 @@
       "url": "https://open.spotify.com/track/6TGd66r0nlPaYm3KIoI7ET"
     },
     {
+      "added_at": "2024-05-24 02:56:15",
+      "album": {
+        "name": "Country",
+        "url": "https://open.spotify.com/album/6DUyohk95eun9LArJtHyF7"
+      },
+      "artists": [
+        {
+          "name": "Medium Build",
+          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
+        }
+      ],
+      "duration_ms": 162013,
+      "name": "In My Room",
+      "url": "https://open.spotify.com/track/1qai0W2oVkHl8yI5kYQIt4"
+    },
+    {
       "added_at": "2024-05-17 04:00:00",
       "album": {
         "name": "Coasting",
@@ -219,22 +231,6 @@
       "duration_ms": 170109,
       "name": "Coasting",
       "url": "https://open.spotify.com/track/4xghRTAU6Hqjyf4MO1gr6w"
-    },
-    {
-      "added_at": "2024-05-23 16:00:00",
-      "album": {
-        "name": "You (Show Me Where My Days Went)",
-        "url": "https://open.spotify.com/album/6cN6j2Fr5vVCSZnWQyqSSs"
-      },
-      "artists": [
-        {
-          "name": "Wallows",
-          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
-        }
-      ],
-      "duration_ms": 167144,
-      "name": "You (Show Me Where My Days Went)",
-      "url": "https://open.spotify.com/track/3UIeiuDKnbhZ7OoXZ9j0U5"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -267,6 +263,26 @@
       "duration_ms": 155133,
       "name": "She Loves Me",
       "url": "https://open.spotify.com/track/341bqzt1REzbvIodveSRSJ"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Undecided",
+        "url": "https://open.spotify.com/album/7xQuTGBZQO20Ss8MLgHnoG"
+      },
+      "artists": [
+        {
+          "name": "Christian Kuria",
+          "url": "https://open.spotify.com/artist/4uaGojdWj4H6cTJydZUPWG"
+        },
+        {
+          "name": "Cautious Clay",
+          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
+        }
+      ],
+      "duration_ms": 145226,
+      "name": "Undecided",
+      "url": "https://open.spotify.com/track/7hMQeVQwsKzLKAuF6iXS8d"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -517,6 +533,22 @@
       "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
     },
     {
+      "added_at": "2024-05-04 23:47:44",
+      "album": {
+        "name": "14 minutes",
+        "url": "https://open.spotify.com/album/2qwv7hNjSGfLarHY2adeq9"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 74378,
+      "name": "misses",
+      "url": "https://open.spotify.com/track/6WTFHKrnZpwEBLRS10Ylqs"
+    },
+    {
       "added_at": "2024-03-21 17:07:38",
       "album": {
         "name": "Mika's Laundry",
@@ -551,22 +583,6 @@
       "duration_ms": 210469,
       "name": "Bend",
       "url": "https://open.spotify.com/track/0IxMbYZoqIFC087bOrST5y"
-    },
-    {
-      "added_at": "2024-05-04 23:47:44",
-      "album": {
-        "name": "14 minutes",
-        "url": "https://open.spotify.com/album/2qwv7hNjSGfLarHY2adeq9"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "duration_ms": 74378,
-      "name": "misses",
-      "url": "https://open.spotify.com/track/6WTFHKrnZpwEBLRS10Ylqs"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -915,22 +931,6 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
-        "name": "Ur Heart Stops",
-        "url": "https://open.spotify.com/album/5rRJx5COOJRUxk1t07WJf2"
-      },
-      "artists": [
-        {
-          "name": "fantasy of a broken heart",
-          "url": "https://open.spotify.com/artist/7fgs0Ym1ukMZDgKjx8mbMe"
-        }
-      ],
-      "duration_ms": 228866,
-      "name": "Ur Heart Stops",
-      "url": "https://open.spotify.com/track/3nFh3VQoEFJYl1jz2VcWbh"
-    },
-    {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
         "name": "I HATE IT TOO",
         "url": "https://open.spotify.com/album/4dAeoPXvxRL7vuoveshiPP"
       },
@@ -1039,6 +1039,22 @@
       "duration_ms": 174918,
       "name": "Crybaby",
       "url": "https://open.spotify.com/track/7gcjgCVdyvXgbme0Q47Pfr"
+    },
+    {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
+        "name": "Ur Heart Stops",
+        "url": "https://open.spotify.com/album/5rRJx5COOJRUxk1t07WJf2"
+      },
+      "artists": [
+        {
+          "name": "fantasy of a broken heart",
+          "url": "https://open.spotify.com/artist/7fgs0Ym1ukMZDgKjx8mbMe"
+        }
+      ],
+      "duration_ms": 228866,
+      "name": "Ur Heart Stops",
+      "url": "https://open.spotify.com/track/3nFh3VQoEFJYl1jz2VcWbh"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -1295,22 +1311,6 @@
       "duration_ms": 200624,
       "name": "Angel Blessings",
       "url": "https://open.spotify.com/track/2GMa39HCjyvuiYYFfipifp"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Crying Over U",
-        "url": "https://open.spotify.com/album/5YCO5fV52dmvfcfYVzLjcj"
-      },
-      "artists": [
-        {
-          "name": "Medium Build",
-          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
-        }
-      ],
-      "duration_ms": 234231,
-      "name": "Crying Over U",
-      "url": "https://open.spotify.com/track/4f7tq7M9gHrh9fykTSDU6J"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1973,6 +1973,26 @@
       "url": "https://open.spotify.com/track/11ozTm1ilFrLxwtdWt1iK0"
     },
     {
+      "added_at": "2024-01-31 18:29:24",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4cpxNFudYhCQbFw8810O1U"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        },
+        {
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+        }
+      ],
+      "duration_ms": 289964,
+      "name": "Change (feat. Remi Wolf)",
+      "url": "https://open.spotify.com/track/3mehDctP70zwlcRaY4iQ1X"
+    },
+    {
       "added_at": "2024-02-27 19:07:18",
       "album": {
         "name": "47",
@@ -2067,26 +2087,6 @@
       "duration_ms": 212440,
       "name": "drifting",
       "url": "https://open.spotify.com/track/2YuySJd7C2aoBarBP8OvzR"
-    },
-    {
-      "added_at": "2024-01-31 18:29:24",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4cpxNFudYhCQbFw8810O1U"
-      },
-      "artists": [
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        },
-        {
-          "name": "Remi Wolf",
-          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
-        }
-      ],
-      "duration_ms": 289964,
-      "name": "Change (feat. Remi Wolf)",
-      "url": "https://open.spotify.com/track/3mehDctP70zwlcRaY4iQ1X"
     },
     {
       "added_at": "2023-11-03 04:00:00",

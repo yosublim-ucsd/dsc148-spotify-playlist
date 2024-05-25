@@ -195,6 +195,28 @@
     },
     {
       "album": {
+        "name": "LEGACY",
+        "url": "https://open.spotify.com/album/7AyeG0N0sstxc0YRWdawE4"
+      },
+      "artists": [
+        {
+          "name": "Paolo Fresu",
+          "url": "https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi"
+        },
+        {
+          "name": "Uri Caine",
+          "url": "https://open.spotify.com/artist/1l10UPSXfbHFvNnDN7kgbA"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197517,
+      "name": "ANTRACITE",
+      "url": "https://open.spotify.com/track/6dI34ifmnK54makfHsZ74r"
+    },
+    {
+      "album": {
         "name": "Argonautica",
         "url": "https://open.spotify.com/album/779K5iF5o1GS0GR0v1YUEu"
       },
@@ -2930,7 +2952,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 200570,
       "name": "WW1",
       "url": "https://open.spotify.com/track/4SG33WjhoWeytudIUA6vMn"

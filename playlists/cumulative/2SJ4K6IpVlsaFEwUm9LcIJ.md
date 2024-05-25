@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to: may\-june 2024 \(previous playlists archived on my profile\)
 
-163 songs - 8 hr 17 min
+166 songs - 8 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Bright Lit Blue Skies](https://open.spotify.com/track/33R2KZxpZ8nnOihRTHea8s) | [The Rising Storm](https://open.spotify.com/artist/54skrHw57l27U6kIoGlCmG) | [Calm Before...](https://open.spotify.com/album/6A4VmOZWt0GZfdbfhfWXhJ) | 2:31 | 2024-05-22 |  |
 | [burnt out star](https://open.spotify.com/track/0FyUHfRwEPegqwLpiTcjUd) | [Immortal Wound](https://open.spotify.com/artist/48f43rxWbm2XTh3wwn7bag) | [burnt out star](https://open.spotify.com/album/71ithxlGE6Sup2JT3AMOhD) | 2:37 | 2024-03-20 | 2024-05-16 |
 | [By the Mark](https://open.spotify.com/track/7vZ499OwlWTpddvdXXb0VF) | [Gillian Welch](https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz) | [Revival](https://open.spotify.com/album/2rQnb3cAjCW49K3sA7xaep) | 3:40 | 2024-04-13 | 2024-05-16 |
+| [C Is The Heavenly Option](https://open.spotify.com/track/08mk6DH2nTVwlrQTE0Hunr) | [Heavenly](https://open.spotify.com/artist/1sDWIdL18InXgES9TwvsL2), [Calvin Johnson](https://open.spotify.com/artist/4L0x6V9ckwc4QhR069mk9M) | [Le Jardin De Heavenly](https://open.spotify.com/album/0InB1oG08YUmJuztRRoHvK) | 3:21 | 2024-05-24 |  |
 | [Can You Feel the Beat Tonight?](https://open.spotify.com/track/5xbpkr8kuz9Djodai18VIA) | [LUCY \(Cooper B\. Handy\)](https://open.spotify.com/artist/16j0wVUk9UOoYEDknfb9rK) | [Cooper B Handy's Album, Vol\. 3](https://open.spotify.com/album/0uRS4EwISSvwcBbfaxdfJi) | 1:57 | 2024-03-18 | 2024-05-16 |
 | [Casa Del Queso](https://open.spotify.com/track/2PT6tdovqv5DRfbRrwsblr) | [Aventuras De Kirlian](https://open.spotify.com/artist/7hA1LNd4lisPMV7RLmxvg7) | [86\-88](https://open.spotify.com/album/69aOUaKV2diPvH7PWI8xPZ) | 1:28 | 2024-02-27 | 2024-03-10 |
 | [Celesta](https://open.spotify.com/track/43zrSh64eLYs8fpHbT20LJ) | [Azamiah](https://open.spotify.com/artist/0q4P4opctE6mHRUnm9PHD8) | [In Phases](https://open.spotify.com/album/5FYCzyWq5vcfhDLSTh9Sze) | 4:09 | 2024-02-13 | 2024-03-10 |
@@ -44,7 +45,7 @@
 | [Convenient Parking](https://open.spotify.com/track/7ow8R2QCGeAr3JiRbSDzWs) | [Modest Mouse](https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT) | [The Lonesome Crowded West](https://open.spotify.com/album/5mvHTVy1iUIkAflIufoOpj) | 4:08 | 2024-01-05 | 2024-03-10 |
 | [Corrections](https://open.spotify.com/track/6FWAfVMxU51ftt8lmtm2Ej) | [Kaikobad](https://open.spotify.com/artist/5lnQetmw5xW1Y1FVKA07Az) | [Corrections](https://open.spotify.com/album/4tc0n2pKK44heQTOzXIfvZ) | 3:39 | 2024-01-05 | 2024-03-10 |
 | [Cozy](https://open.spotify.com/track/6WTEo1YkpHsOIg0CH638Z0) | [Operelly](https://open.spotify.com/artist/7b5ONZHG45xm3qlyJqlz63) | [Cozy](https://open.spotify.com/album/0IPNMyYo3yYoFu9vUtjKtY) | 3:11 | 2024-03-20 | 2024-05-16 |
-| [Dawn blessings](https://open.spotify.com/track/2CDErqDxCM5ggWEgiYopcl) | [Bex Burch](https://open.spotify.com/artist/1tdT4MNoOC6sagnhU2XEbQ), [Macie Stewart](https://open.spotify.com/artist/4bAFS16s5qBFYuOM4gQ5Xv) | [There is only love and fear](https://open.spotify.com/album/1uVwUTnbeJYN352RI4jRKe) | 4:50 | 2024-05-20 |  |
+| [Dawn blessings](https://open.spotify.com/track/2CDErqDxCM5ggWEgiYopcl) | [Bex Burch](https://open.spotify.com/artist/1tdT4MNoOC6sagnhU2XEbQ), [Macie Stewart](https://open.spotify.com/artist/4bAFS16s5qBFYuOM4gQ5Xv) | [There is only love and fear](https://open.spotify.com/album/1uVwUTnbeJYN352RI4jRKe) | 4:50 | 2024-05-20 | 2024-05-25 |
 | [Days Incomplete](https://open.spotify.com/track/4kWa3YO4waI2Iz69peM7gx) | [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5) | [Days Incomplete](https://open.spotify.com/album/4eG5JklQFLR4PPSVzfcb4d) | 3:39 | 2024-05-16 |  |
 | [De Novo](https://open.spotify.com/track/0DmLfTFkLqIqiRqEMyxMXU) | [Clarissa Connelly](https://open.spotify.com/artist/5YTJVNTfb9qDXATTlzuR5S) | [Tech Duinn](https://open.spotify.com/album/71Y6SuqeTUnuDa3V0v25cv) | 2:50 | 2024-03-27 | 2024-05-16 |
 | [Deep Water](https://open.spotify.com/track/4HbMU0noKfNinw6ePEKXmQ) | [Ed Askew](https://open.spotify.com/artist/6dkNBFTQ8DdQpfYxmi3kIB) | [Imperfiction](https://open.spotify.com/album/0jduFLrhdG0KDrsHuzBirs) | 2:26 | 2024-05-16 |  |
@@ -68,6 +69,7 @@
 | [Falling Backwards](https://open.spotify.com/track/3DYTT6HXBesNRtfFYAYVTY) | [Brittle Stars](https://open.spotify.com/artist/6uZBMEZeMcDuBoamJ7wLf5) | [Garage Sale EP + Remixes](https://open.spotify.com/album/1pcaVlKBjlBWSUqfcELSzO) | 1:40 | 2024-01-31 | 2024-03-10 |
 | [Fishbrain](https://open.spotify.com/track/0xEHXAoanem0YrAZ2HMFRY) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl) | [Fishbrain](https://open.spotify.com/album/0ynJtdryiHqFKeHHSCRjnc) | 4:37 | 2024-02-09 | 2024-03-10 |
 | [Forever](https://open.spotify.com/track/64QEDKqiHt6bSU6zHNwKsv) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C) | [Forever](https://open.spotify.com/album/3PETlpfp2dwPJlESwbpjnt) | 3:28 | 2024-01-30 | 2024-03-10 |
+| [Fourth of July](https://open.spotify.com/track/3AASTYWf8pLMdBj2ZIAMBx) | [Galaxie 500](https://open.spotify.com/artist/6guTJsgPymDUVfqDJyz5UG) | [This is Our Music](https://open.spotify.com/album/79JBh8OZRmvaC4ORkKB7ou) | 5:38 | 2024-05-24 |  |
 | [Franz Kafka at the Zoo](https://open.spotify.com/track/6lapVjn3EjBGS5m2r17h0x) | [The Clean](https://open.spotify.com/artist/6LRmgzRManplPQghd2BMqz) | [Unknown Country](https://open.spotify.com/album/258ADCcHaA6gRgiM5JrbU2) | 1:58 | 2024-01-08 | 2024-03-10 |
 | [Gates of Heaven](https://open.spotify.com/track/21S8jPbABB05vCFFwuyXGS) | [Horse Jumper of Love](https://open.spotify.com/artist/6U1lmwvy3I9dIYu9RalJi6) | [Gates of Heaven / Snake Eyes \(again\)](https://open.spotify.com/album/6Ek7TQ6Halv6mbhuzRuvcZ) | 2:22 | 2024-03-11 | 2024-05-16 |
 | [Gift](https://open.spotify.com/track/7FgePu0nqCf8rkafQOeHV7) | [Tujiko Noriko](https://open.spotify.com/artist/7n9eKttEekbKaDErD29u7l) | [Solo](https://open.spotify.com/album/72GG3m2QVQ4pQ5Ipi07oO4) | 5:01 | 2024-02-02 | 2024-03-10 |
@@ -89,7 +91,7 @@
 | [I Ought To Stay Away From You](https://open.spotify.com/track/4tAkesAHyf2zsmmWPoCDWJ) | [Margo Guryan](https://open.spotify.com/artist/3SMY2MGuaUOhuPpgRn6clw) | [I Ought To Stay Away From You b/w Why Do I Cry](https://open.spotify.com/album/0igbKMZKrnrO2x3TPDFL1M) | 2:39 | 2024-01-08 | 2024-03-10 |
 | [I'd Rather You Leave Me](https://open.spotify.com/track/7loaQK9Jd9RVYVj3iN4Xms) | [The Choir](https://open.spotify.com/artist/1CBHzR63n8JTqYNiGwgeqO) | [I'd Rather You Leave Me](https://open.spotify.com/album/1h3zASfdILrqQDjxhpOQls) | 2:02 | 2024-01-05 | 2024-03-10 |
 | [I'm Sorry I Left Him To Bleed](https://open.spotify.com/track/7AwMd4z4jV8p5A791fxD7A) | [Blue Bendy](https://open.spotify.com/artist/7Fv9bX6Oy7AhbhKXh5dgIG) | [So Medieval](https://open.spotify.com/album/5gpglBxq454hY07XTJpJ5C) | 2:47 | 2024-05-18 |  |
-| [I'm the Sky](https://open.spotify.com/track/5RZakBALQyiqL1dG5VMmzH) | [Norma Tanega](https://open.spotify.com/artist/4nlQA3jNE8cukTo6CdyCWP) | [Walkin' My Cat Named Dog](https://open.spotify.com/album/0unsYxXMMsYMQB0epWjPu0) | 2:25 | 2024-05-23 |  |
+| [I'm the Sky](https://open.spotify.com/track/5RZakBALQyiqL1dG5VMmzH) | [Norma Tanega](https://open.spotify.com/artist/4nlQA3jNE8cukTo6CdyCWP) | [Walkin' My Cat Named Dog](https://open.spotify.com/album/0unsYxXMMsYMQB0epWjPu0) | 2:25 | 2024-05-23 | 2024-05-25 |
 | [ice](https://open.spotify.com/track/0Tsr1YNiCw3znq8RYwiLjp) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0), [They Hate Change](https://open.spotify.com/artist/6ht9VksrtRJDQXKzC2BZ3d) | [ice](https://open.spotify.com/album/0PNTKdFanCgqy26RQ9TtUA) | 2:46 | 2024-02-08 | 2024-03-10 |
 | [Images](https://open.spotify.com/track/1uaY7sON2Hi95MRVnWmZ0v) | [Mikey Enwright](https://open.spotify.com/artist/0ZDYUmvfOj3XAHSIkeepyn) | [Images](https://open.spotify.com/album/1ZijTOVIDEYinWZ9Wy0JRk) | 2:59 | 2024-04-25 | 2024-05-16 |
 | [In Your Eyes](https://open.spotify.com/track/1wyluqXP2ujdTpCfm1E617) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [So \(Remastered\)](https://open.spotify.com/album/0hQb1KT6L3iEYRkS5u8cjm) | 5:27 | 2024-04-13 | 2024-05-16 |
@@ -108,6 +110,7 @@
 | [Microtronics 20](https://open.spotify.com/track/1AmWCQ6yHUOnWb0wKwhzaa) | [Broadcast](https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU) | [Microtronics \- Volumes 1 & 2](https://open.spotify.com/album/3nk4c7gVqXNGzkCiVvpLQx) | 1:35 | 2024-04-18 | 2024-05-16 |
 | [Mint](https://open.spotify.com/track/0RYwEPSvf7KSj5YI0VA72t) | [Cola](https://open.spotify.com/artist/1KCSUZBJy1bAsIz7wUYkd8) | [Deep in View](https://open.spotify.com/album/6xCiTaBETJXjbRP68e7g0P) | 3:23 | 2024-01-08 | 2024-03-10 |
 | [Moon Like a Pearl](https://open.spotify.com/track/2KkuQ32WtE9ImerVSnUWk5) | [Pia Fraus](https://open.spotify.com/artist/15cjYStG6SRmTS9d5wNVxT) | [Wonder What It's Like](https://open.spotify.com/album/4iIEtjfL8Xdyt0MglEJFTD) | 2:06 | 2024-03-09 | 2024-05-16 |
+| [Multi\-Family Garage Sale \(Bargain\-Bin Mix\)](https://open.spotify.com/track/314KmbRrSXcQHFujzdOr9v) | [Land of the Loops](https://open.spotify.com/artist/0H4Rek6UJ2GpLm5HduQ9uv) | [Bundle of Joy](https://open.spotify.com/album/6c1VIXuJZJBDkmNM236bXt) | 4:15 | 2024-05-24 |  |
 | [My Head Falls Softly](https://open.spotify.com/track/2vWT6FckKmNnsT0IafgQ78) | [Kitty Craft](https://open.spotify.com/artist/5mmXz0LCVnPbgHcZ7KBJlj) | [Catskills](https://open.spotify.com/album/3ZBm3ZogFDZusSwJooRf1c) | 4:23 | 2024-04-18 | 2024-05-16 |
 | [MyLoveILove 12](https://open.spotify.com/track/5j109YHsQvawuVrm45qwDc) | [Bogdan Raczynski](https://open.spotify.com/artist/2bYCvT1nqpbbspU5DZG5nA) | [MyLoveILove](https://open.spotify.com/album/5ifjWl35H9cFxw1NcIzopE) | 1:36 | 2024-04-18 | 2024-05-16 |
 | [Naomi and Me](https://open.spotify.com/track/3KQmiV4dShQBaIUGbI2ZWu) | [Rocketship](https://open.spotify.com/artist/2dLzeuFyFPAYdWKU3UuYTA) | [Hey, Hey Girl 7"](https://open.spotify.com/album/4MCpw6grgnk4HK0QPkKk67) | 2:07 | 2024-01-13 | 2024-03-10 |

@@ -1,6 +1,6 @@
 {
   "description": "Covers of classic songs with a touch of Jazz. Cover: Joey Alexander",
-  "num_followers": 128119,
+  "num_followers": 128170,
   "original_name": "Jazz Covers",
   "owner": {
     "name": "Spotify",
@@ -943,6 +943,30 @@
     {
       "added_at": "2024-03-20 13:48:17",
       "album": {
+        "name": "When a Man Loves a Woman",
+        "url": "https://open.spotify.com/album/7HXO2Y7G36z8v9E2aO2ouW"
+      },
+      "artists": [
+        {
+          "name": "Michael Stephenson",
+          "url": "https://open.spotify.com/artist/2hLykFY0OkRxdzJAaidlzk"
+        },
+        {
+          "name": "Alexander Claffy",
+          "url": "https://open.spotify.com/artist/68A73mdUJaTyVodPFbfDnG"
+        },
+        {
+          "name": "Benny Benack III",
+          "url": "https://open.spotify.com/artist/4qinsDOSZCJRirJq6Pm8SG"
+        }
+      ],
+      "duration_ms": 258398,
+      "name": "When a Man Loves a Woman",
+      "url": "https://open.spotify.com/track/4tag1OCBjKXVAcfBpL6Fn7"
+    },
+    {
+      "added_at": "2024-03-20 13:48:17",
+      "album": {
         "name": "Give Us These Days",
         "url": "https://open.spotify.com/album/3eo3nkUCc90eI7UDHfkZE3"
       },
@@ -967,30 +991,6 @@
       "duration_ms": 361813,
       "name": "Let It Be",
       "url": "https://open.spotify.com/track/4UpSPiCAeE8Wjzs71LiXnK"
-    },
-    {
-      "added_at": "2024-03-20 13:48:17",
-      "album": {
-        "name": "When a Man Loves a Woman",
-        "url": "https://open.spotify.com/album/7HXO2Y7G36z8v9E2aO2ouW"
-      },
-      "artists": [
-        {
-          "name": "Michael Stephenson",
-          "url": "https://open.spotify.com/artist/2hLykFY0OkRxdzJAaidlzk"
-        },
-        {
-          "name": "Alexander Claffy",
-          "url": "https://open.spotify.com/artist/68A73mdUJaTyVodPFbfDnG"
-        },
-        {
-          "name": "Benny Benack III",
-          "url": "https://open.spotify.com/artist/4qinsDOSZCJRirJq6Pm8SG"
-        }
-      ],
-      "duration_ms": 258398,
-      "name": "When a Man Loves a Woman",
-      "url": "https://open.spotify.com/track/4tag1OCBjKXVAcfBpL6Fn7"
     },
     {
       "added_at": "2024-03-20 13:48:17",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2024-03-20 13:48:17",
       "album": {
+        "name": "Don't Know Why",
+        "url": "https://open.spotify.com/album/0cBXrplymCEbiJsABgYkV8"
+      },
+      "artists": [
+        {
+          "name": "Trois Amis",
+          "url": "https://open.spotify.com/artist/19hT5DHNATnRhmkR5LevK7"
+        }
+      ],
+      "duration_ms": 179198,
+      "name": "Don't Know Why",
+      "url": "https://open.spotify.com/track/16F8ZSX2jOtcBQrKdVryWe"
+    },
+    {
+      "added_at": "2024-03-20 13:48:17",
+      "album": {
         "name": "Follow the White Rabbit",
         "url": "https://open.spotify.com/album/5OCGFTXS1TWGk6d94pK4VM"
       },
@@ -1127,18 +1143,18 @@
     {
       "added_at": "2024-03-20 13:48:17",
       "album": {
-        "name": "Don't Know Why",
-        "url": "https://open.spotify.com/album/0cBXrplymCEbiJsABgYkV8"
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/5NaIn42BHM4s814EXBSolu"
       },
       "artists": [
         {
-          "name": "Trois Amis",
-          "url": "https://open.spotify.com/artist/19hT5DHNATnRhmkR5LevK7"
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
         }
       ],
-      "duration_ms": 179198,
-      "name": "Don't Know Why",
-      "url": "https://open.spotify.com/track/16F8ZSX2jOtcBQrKdVryWe"
+      "duration_ms": 152813,
+      "name": "Blowin' In The Wind",
+      "url": "https://open.spotify.com/track/6jKnINtSHvjyz7jgw0pJnx"
     },
     {
       "added_at": "2024-03-20 13:48:17",
@@ -1159,22 +1175,6 @@
       "duration_ms": 353941,
       "name": "Vincent",
       "url": "https://open.spotify.com/track/6adWVN7hPrztmftktK3zES"
-    },
-    {
-      "added_at": "2024-03-20 13:48:17",
-      "album": {
-        "name": "Reflections",
-        "url": "https://open.spotify.com/album/5NaIn42BHM4s814EXBSolu"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 152813,
-      "name": "Blowin' In The Wind",
-      "url": "https://open.spotify.com/track/6jKnINtSHvjyz7jgw0pJnx"
     },
     {
       "added_at": "2024-03-20 13:48:17",
@@ -1231,6 +1231,26 @@
     {
       "added_at": "2024-03-20 13:48:17",
       "album": {
+        "name": "Champagne & Declarations",
+        "url": "https://open.spotify.com/album/5AY7Msz86fX5pNuQtHtPL7"
+      },
+      "artists": [
+        {
+          "name": "Nicole Zuraitis",
+          "url": "https://open.spotify.com/artist/7G5hZmmEd71pbEqiBNWp8A"
+        },
+        {
+          "name": "Thana Alexa",
+          "url": "https://open.spotify.com/artist/6jvFT2wqxaFL9lcPTrzjyV"
+        }
+      ],
+      "duration_ms": 277411,
+      "name": "Walk On The Wildside",
+      "url": "https://open.spotify.com/track/7FTnotwGzyx6fdVYfkxuTT"
+    },
+    {
+      "added_at": "2024-03-20 13:48:17",
+      "album": {
         "name": "Daylight at Midnight",
         "url": "https://open.spotify.com/album/68WQeI53fmmHW8ouqsJM8d"
       },
@@ -1267,22 +1287,18 @@
     {
       "added_at": "2024-03-20 13:48:17",
       "album": {
-        "name": "Champagne & Declarations",
-        "url": "https://open.spotify.com/album/5AY7Msz86fX5pNuQtHtPL7"
+        "name": "Oliver Nelson Plays Michelle",
+        "url": "https://open.spotify.com/album/4gpVcA06Od08ym7LDyQ0qw"
       },
       "artists": [
         {
-          "name": "Nicole Zuraitis",
-          "url": "https://open.spotify.com/artist/7G5hZmmEd71pbEqiBNWp8A"
-        },
-        {
-          "name": "Thana Alexa",
-          "url": "https://open.spotify.com/artist/6jvFT2wqxaFL9lcPTrzjyV"
+          "name": "Oliver Nelson",
+          "url": "https://open.spotify.com/artist/2nQKUeZeleLGNsJj6WLUXN"
         }
       ],
-      "duration_ms": 277411,
-      "name": "Walk On The Wildside",
-      "url": "https://open.spotify.com/track/7FTnotwGzyx6fdVYfkxuTT"
+      "duration_ms": 162480,
+      "name": "Yesterday",
+      "url": "https://open.spotify.com/track/6c6XaTu2VM32NHxtYZUWMY"
     },
     {
       "added_at": "2024-03-20 13:48:17",
@@ -1299,22 +1315,6 @@
       "duration_ms": 432915,
       "name": "Car Wash",
       "url": "https://open.spotify.com/track/6esuuSi7EMHUUpAwiE2su4"
-    },
-    {
-      "added_at": "2024-03-20 13:48:17",
-      "album": {
-        "name": "Oliver Nelson Plays Michelle",
-        "url": "https://open.spotify.com/album/4gpVcA06Od08ym7LDyQ0qw"
-      },
-      "artists": [
-        {
-          "name": "Oliver Nelson",
-          "url": "https://open.spotify.com/artist/2nQKUeZeleLGNsJj6WLUXN"
-        }
-      ],
-      "duration_ms": 162480,
-      "name": "Yesterday",
-      "url": "https://open.spotify.com/track/6c6XaTu2VM32NHxtYZUWMY"
     },
     {
       "added_at": "2024-03-20 13:48:17",
@@ -1939,34 +1939,6 @@
     {
       "added_at": "2024-03-20 13:48:17",
       "album": {
-        "name": "Whole Lotta Love: The Music of Led Zeppelin",
-        "url": "https://open.spotify.com/album/6cMcEVbbkRqL640ToyX3kg"
-      },
-      "artists": [
-        {
-          "name": "Obed Calvaire",
-          "url": "https://open.spotify.com/artist/6LbNXRQZMLpMJ4E1S1d1Dm"
-        },
-        {
-          "name": "Kevin Hays",
-          "url": "https://open.spotify.com/artist/2uOemiMYq8Lh6yzwELpb3J"
-        },
-        {
-          "name": "Bob Franceschini",
-          "url": "https://open.spotify.com/artist/60wazyFfOCbXXrJCC0I3O4"
-        },
-        {
-          "name": "Orlando Le Fleming",
-          "url": "https://open.spotify.com/artist/6SW6dyOPmcKpO0ZwiUDZj5"
-        }
-      ],
-      "duration_ms": 411020,
-      "name": "Immigrant Song",
-      "url": "https://open.spotify.com/track/4P8HAphnGilaQ7lIR3dfd5"
-    },
-    {
-      "added_at": "2024-03-20 13:48:17",
-      "album": {
         "name": "Cry",
         "url": "https://open.spotify.com/album/6MdJLoigLIOtMEHh3a4XcO"
       },
@@ -1995,6 +1967,34 @@
       "duration_ms": 552186,
       "name": "Masters Of War",
       "url": "https://open.spotify.com/track/4cOFrivheYAhrEppNAWMW7"
+    },
+    {
+      "added_at": "2024-03-20 13:48:17",
+      "album": {
+        "name": "Whole Lotta Love: The Music of Led Zeppelin",
+        "url": "https://open.spotify.com/album/6cMcEVbbkRqL640ToyX3kg"
+      },
+      "artists": [
+        {
+          "name": "Obed Calvaire",
+          "url": "https://open.spotify.com/artist/6LbNXRQZMLpMJ4E1S1d1Dm"
+        },
+        {
+          "name": "Kevin Hays",
+          "url": "https://open.spotify.com/artist/2uOemiMYq8Lh6yzwELpb3J"
+        },
+        {
+          "name": "Bob Franceschini",
+          "url": "https://open.spotify.com/artist/60wazyFfOCbXXrJCC0I3O4"
+        },
+        {
+          "name": "Orlando Le Fleming",
+          "url": "https://open.spotify.com/artist/6SW6dyOPmcKpO0ZwiUDZj5"
+        }
+      ],
+      "duration_ms": 411020,
+      "name": "Immigrant Song",
+      "url": "https://open.spotify.com/track/4P8HAphnGilaQ7lIR3dfd5"
     },
     {
       "added_at": "2024-03-20 13:48:17",

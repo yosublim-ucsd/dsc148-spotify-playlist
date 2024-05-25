@@ -2,9 +2,9 @@
 
 ### [O Melhor da MPB](https://open.spotify.com/playlist/37i9dQZF1DX9FSYmdU9mbT)
 
-> Os grandes artistas da MPB\. Foto: MPB4
+> Os grandes artistas da MPB\. Foto: Silva
 
-148 songs - 9 hr 31 min
+150 songs - 9 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Amor I Love You \(feat\. Arnaldo Antunes\) \- Ao Vivo](https://open.spotify.com/track/5x5z1Agy0vAlPqqJQL6VQK) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH), [Arnaldo Antunes](https://open.spotify.com/artist/7lOUbhzQ1F3xcCMEcTtbO5) | [Memórias \(2001\) \- Ao Vivo](https://open.spotify.com/album/3nUrkarTlEKsV56TgJ5PQK) | 3:20 | 2021-12-31 |  |
 | [Andar Com Fé](https://open.spotify.com/track/5IRaXLiPevrMXjToXtD3Rm) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Andar Com Fé](https://open.spotify.com/album/7u1F0ffa1xp774Eyht8K7w) | 3:14 | 2021-12-31 |  |
 | [Angélica](https://open.spotify.com/track/1LjfrlwvGYyYxFEWbUzjWS) | [MPB4](https://open.spotify.com/artist/3SKTkAUNa3oUa2rkd8DAyM), [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t) | [Angélica](https://open.spotify.com/album/0qJF66hF0OL18NydgS31hS) | 3:00 | 2024-05-17 |  |
+| [Anjo Exterminado](https://open.spotify.com/track/65ih3kBtkXPjtJUuT2A8rk) | [Jards Macalé](https://open.spotify.com/artist/11dkvirvWFnfNUsaGVvObg), [Adriana Calcanhotto](https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi) | [Real Grandeza](https://open.spotify.com/album/3usj8jb2F3lbhlwH3xAQ3Z) | 3:15 | 2024-05-24 |  |
 | [Anunciação \- Ao Vivo](https://open.spotify.com/track/3JrFuUhcNLHiD3hJPVaHTy) | [Alceu Valença](https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG), [Elba Ramalho](https://open.spotify.com/artist/4ph6Bt1mkDlmf32PSvRa8A), [Geraldo Azevedo](https://open.spotify.com/artist/65TbyndeGrDlFd4IkZNfbN) | [O Grande Encontro 20 Anos: Alceu, Elba e Geraldo \(Ao Vivo\)](https://open.spotify.com/album/33HKZh4hP8FmsVmPGoaDYC) | 5:27 | 2021-12-31 |  |
 | [Apenas Mais uma de Amor](https://open.spotify.com/track/6YNCE5qtrTa7YcnAOAEsDQ) | [Lulu Santos](https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1) | [Lulu Acústico](https://open.spotify.com/album/14xCfgcBE9uCrwwR36NoVB) | 3:38 | 2021-12-31 |  |
 | [Aquarela](https://open.spotify.com/track/1bnSsCeLiWIDcw214J5Eso) | [Toquinho](https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y) | [Nossa Velha Infância](https://open.spotify.com/album/0J3tpUINMvTiOCklBoxBb5) | 4:13 | 2022-11-09 | 2022-11-13 |
@@ -54,6 +55,7 @@
 | [Construção](https://open.spotify.com/track/3FIuBxOxuQ6kYy8JO0gq2a) | [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t) | [Construção](https://open.spotify.com/album/7yrRo2o4XzDfv3mNnkPRE5) | 6:23 | 2022-06-24 | 2024-04-19 |
 | [Construção](https://open.spotify.com/track/4zqDrHbBP5W4uIZs1jkmtr) | [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t) | [Brasil Anos 70](https://open.spotify.com/album/7CiALzol1H2XDl3culsO9S) | 6:23 | 2022-11-09 | 2022-11-13 |
 | [Construção](https://open.spotify.com/track/1ECean5dVz7mYQ07mdVGKT) | [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t) | [Construção](https://open.spotify.com/album/5YARZzYbonX4CbZ5hucHPc) | 6:23 | 2021-12-31 |  |
+| [Copo D'Água](https://open.spotify.com/track/5e2970I7TJmZxEeFFnQnH7) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz), [Marcos Valle](https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk) | [Encantado](https://open.spotify.com/album/6TkreSvzyI1lQbkP2oxIkX) | 2:39 | 2024-05-24 |  |
 | [Copo Vazio](https://open.spotify.com/track/7Ln4YB6fKXHq6GhP2H6BF0) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr), [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t) | [Copo Vazio](https://open.spotify.com/album/1RNjXvxEB0NjT6rl8rh7Fj) | 3:13 | 2021-12-31 | 2022-01-21 |
 | [Coração Vagabundo](https://open.spotify.com/track/20vPQfpYA6qfYGblGAWSvS) | [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW), [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Nenhuma Dor](https://open.spotify.com/album/3uv833F3xc92vzytEkbmN6) | 2:36 | 2021-12-31 | 2022-01-21 |
 | [Corra e Olhe o Céu](https://open.spotify.com/track/41xNiLF0fk3EZuhfkK99F4) | [Teresa Cristina](https://open.spotify.com/artist/2j5unrF80yCu3AF8MPE2VE) | [Canta Cartola](https://open.spotify.com/album/3JetnGaI0LSpY0HtoM2Ci5) | 2:26 | 2022-06-24 | 2024-04-19 |

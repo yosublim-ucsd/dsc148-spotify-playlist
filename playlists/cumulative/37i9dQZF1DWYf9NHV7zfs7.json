@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-15",
-  "description": "y nada m\u00e1s que pop \u2728\u2728\u2728\n\ud83d\udcf7 Nahuel Pennisi",
+  "description": "y nada m\u00e1s que pop \u2728\u2728\u2728\n\ud83d\udcf7 Benjamin Amadeo",
   "name": "Esto es Pop",
   "tracks": [
     {
@@ -844,7 +844,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 151000,
       "name": "Cositas",
       "url": "https://open.spotify.com/track/6u0O2Kmx6BxnYUDyVtUY3I"
@@ -1150,7 +1150,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 212044,
       "name": "En tu casa o en la m\u00eda (feat. Conociendo Rusia)",
       "url": "https://open.spotify.com/track/6Y6dbhxP8gesJ5oTr7lBmi"
@@ -2051,6 +2051,28 @@
     },
     {
       "album": {
+        "name": "La Vida Baila",
+        "url": "https://open.spotify.com/album/0dICtEXAGHGIB7F2umpmLm"
+      },
+      "artists": [
+        {
+          "name": "SER",
+          "url": "https://open.spotify.com/artist/5Tk3cLiTSfgrMC4BxInpO9"
+        },
+        {
+          "name": "Salo",
+          "url": "https://open.spotify.com/artist/017ABXmkLtlACQrBeTdvlV"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211466,
+      "name": "La Vida Baila",
+      "url": "https://open.spotify.com/track/26tkAeyQlch0s77x0tazYQ"
+    },
+    {
+      "album": {
         "name": "Sesiones Solo S\u00e9",
         "url": "https://open.spotify.com/album/0Ak3jCp6wVF2fuM7OFH69b"
       },
@@ -2158,6 +2180,24 @@
       "duration_ms": 183786,
       "name": "Live Sessions Vol. 1 - Ya Me Habr\u00e9 Ido",
       "url": "https://open.spotify.com/track/7fYrjpCLegFYOA3LTznMzk"
+    },
+    {
+      "album": {
+        "name": "Live Sessions Vol. 4 - Todav\u00eda Voy Bien",
+        "url": "https://open.spotify.com/album/5gNyXBuZ7oadtEOMmmMwoW"
+      },
+      "artists": [
+        {
+          "name": "Camil\u00fa",
+          "url": "https://open.spotify.com/artist/305uX4OPy99KGVU2dhE2AF"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153482,
+      "name": "Live Sessions Vol. 4 - Todav\u00eda Voy Bien",
+      "url": "https://open.spotify.com/track/2XDWIDPAHU2Xi82qeJZmhp"
     },
     {
       "album": {
@@ -2880,7 +2920,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 197894,
       "name": "nada mejor",
       "url": "https://open.spotify.com/track/3kWuBlBpeKyaZzlGxVHG2e"
@@ -2934,7 +2974,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 185138,
       "name": "No hay nadie como t\u00fa",
       "url": "https://open.spotify.com/track/2ylnGkpzyQ7NIqFA4yt0sZ"
@@ -3152,6 +3192,24 @@
       "duration_ms": 237456,
       "name": "Otro Lado",
       "url": "https://open.spotify.com/track/7MIvQKZ714X6urIoeZP77O"
+    },
+    {
+      "album": {
+        "name": "Todo vuelve al punto de partida",
+        "url": "https://open.spotify.com/album/4hVgE3zYsNG70rMTcQ0vyW"
+      },
+      "artists": [
+        {
+          "name": "Paz Carrara",
+          "url": "https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195392,
+      "name": "Panamericana",
+      "url": "https://open.spotify.com/track/58rDV9zGkwcuHd0BZLIKc6"
     },
     {
       "album": {
@@ -3482,6 +3540,24 @@
       "duration_ms": 185960,
       "name": "P\u00e9ndulo (feat. Juan Pablo Vega)",
       "url": "https://open.spotify.com/track/3DnW0doatLuxj7IGgobjGE"
+    },
+    {
+      "album": {
+        "name": "P\u00f3stumo",
+        "url": "https://open.spotify.com/album/3GyuGgiV1VhQpYmwaCtQWQ"
+      },
+      "artists": [
+        {
+          "name": "Benjam\u00edn Amadeo",
+          "url": "https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214004,
+      "name": "P\u00f3stumo",
+      "url": "https://open.spotify.com/track/17EDLQzOKhHbwxCZBE8W5w"
     },
     {
       "album": {
@@ -4202,7 +4278,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 190702,
       "name": "Tres D\u00edas",
       "url": "https://open.spotify.com/track/4kWqcOfHbdCtEnkzm8Um0W"
@@ -4242,6 +4318,24 @@
       "duration_ms": 244800,
       "name": "Tu Misterioso Alguien",
       "url": "https://open.spotify.com/track/5BaWu0bYT7XPaIYyXJOZvJ"
+    },
+    {
+      "album": {
+        "name": "Momentos",
+        "url": "https://open.spotify.com/album/4otpESFklCmaNyfdxaRueD"
+      },
+      "artists": [
+        {
+          "name": "Nahuel Pennisi",
+          "url": "https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216683,
+      "name": "Tu Sonrisa",
+      "url": "https://open.spotify.com/track/2fvS1uq09HxUdb5TacY4af"
     },
     {
       "album": {

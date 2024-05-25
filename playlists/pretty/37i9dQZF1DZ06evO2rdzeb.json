@@ -1,12 +1,12 @@
 {
-  "description": "This is Adrianne Lenker. The essential tracks, all in one playlist.",
-  "num_followers": 6319,
+  "description": "This is: Adrianne Lenker. Alle wichtigen Tracks in einer Playlist.",
+  "num_followers": 6339,
   "original_name": "This Is Adrianne Lenker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zk01gAAAAAAWzzRp9MTilZnP3nx36bC6",
+  "snapshot_id": "Zk6HAAAAAAA9NuQwg+Nq3xqnpBaeOVR4",
   "tracks": [
     {
       "added_at": null,
@@ -56,9 +56,9 @@
           "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
         }
       ],
-      "duration_ms": 174539,
-      "name": "Fool",
-      "url": "https://open.spotify.com/track/4jGfNIAPEJNpHoGm4r5znR"
+      "duration_ms": 215514,
+      "name": "Free Treasure",
+      "url": "https://open.spotify.com/track/3zGhR60NOVSgtzNEQNcHav"
     },
     {
       "added_at": null,
@@ -124,9 +124,9 @@
           "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
         }
       ],
-      "duration_ms": 215514,
-      "name": "Free Treasure",
-      "url": "https://open.spotify.com/track/3zGhR60NOVSgtzNEQNcHav"
+      "duration_ms": 174539,
+      "name": "Fool",
+      "url": "https://open.spotify.com/track/4jGfNIAPEJNpHoGm4r5znR"
     },
     {
       "added_at": null,
@@ -316,9 +316,9 @@
           "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
         }
       ],
-      "duration_ms": 57679,
-      "name": "To Violet",
-      "url": "https://open.spotify.com/track/3oVNHBpsS6W704YXbIoZaN"
+      "duration_ms": 173253,
+      "name": "A Love of Some Kind",
+      "url": "https://open.spotify.com/track/0Lix58xJgTxJyrHuSM7Jny"
     },
     {
       "added_at": null,
@@ -384,9 +384,9 @@
           "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
         }
       ],
-      "duration_ms": 173253,
-      "name": "A Love of Some Kind",
-      "url": "https://open.spotify.com/track/0Lix58xJgTxJyrHuSM7Jny"
+      "duration_ms": 57679,
+      "name": "To Violet",
+      "url": "https://open.spotify.com/track/3oVNHBpsS6W704YXbIoZaN"
     },
     {
       "added_at": null,

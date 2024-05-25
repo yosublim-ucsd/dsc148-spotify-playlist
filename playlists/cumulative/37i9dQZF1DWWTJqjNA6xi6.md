@@ -4,7 +4,7 @@
 
 > Groove to your family's favorite tracks from Netflix Jr\. Jams.
 
-56 songs - 2 hr 31 min
+60 songs - 2 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,10 +24,13 @@
 | [Far Away \(But That's Okay\)](https://open.spotify.com/track/0HaAs0Z8akxTXLYHKFCQx8) | [Netflix Jr.](https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH) | [Netflix Jr\. Jams: Vol\. 3](https://open.spotify.com/album/543rbtvsbqEQY2AIynQQC6) | 3:15 | 2023-06-20 |  |
 | [Far Away \(But That's Okay\)](https://open.spotify.com/track/32FtZpPu2cMr4t5HqVZzh4) | [Netflix Jr.](https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH) | [Netflix Jr\. Jams: Vol\. 3](https://open.spotify.com/album/2Zc0nzqLHanTAqcnlltkEz) | 3:15 | 2022-08-19 | 2024-04-19 |
 | [Far Away \(But That's Okay\)](https://open.spotify.com/track/3DLSq65MuiJUgQGgVQ9lPw) | [Netflix Jr.](https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH) | [Netflix Jr\. Jams: Vol\. 3](https://open.spotify.com/album/2TUshFZxuXqiX6KOKoj6CP) | 3:15 | 2022-03-03 | 2022-11-17 |
+| [Friends are the Best](https://open.spotify.com/track/2nwKbvgMd2SCSn6XRloT4c) | [Netflix Jr.](https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH) | [Netflix Jr\. Jams: Vol\. 7](https://open.spotify.com/album/1T1V21x7a4s8vaflfs8aUR) | 2:26 | 2024-05-24 |  |
+| [Fun With Everyone](https://open.spotify.com/track/5J8WIvgZgwD52qRXS6jQKe) | [Netflix Jr.](https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH) | [Netflix Jr\. Jams: Vol\. 7](https://open.spotify.com/album/1T1V21x7a4s8vaflfs8aUR) | 2:11 | 2024-05-24 |  |
 | [Go! Go! Go! \(Wake Up Song\)](https://open.spotify.com/track/41yd9PbwZWorINj0xH4FEb) | [Netflix Jr.](https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH) | [Netflix Jr\. Jams Vol\. 5](https://open.spotify.com/album/0YXxCsNjl2rb2pirWoy6v0) | 3:04 | 2022-08-19 |  |
 | [Go! Go! Go! \(Wake Up Song\)](https://open.spotify.com/track/5YOOEo0itNGgaMCSs9oha6) | [Netflix Jr.](https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH) | [Netflix Jr\. Jams: Vol\. 5](https://open.spotify.com/album/2I5iRdflbKjzrBadnhUUKX) | 3:04 | 2022-08-19 | 2024-04-19 |
 | [Good Good Day](https://open.spotify.com/track/3FH6IMkUQAEga9Go1MTfcA) | [Netflix Jr.](https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH) | [Netflix Jr\. Jams Vol\. 4](https://open.spotify.com/album/5DVi5E1sWfntwlsAqs4Vya) | 2:37 | 2022-03-03 |  |
 | [Good Good Day](https://open.spotify.com/track/7GBJRh3VuuahAsusXIopQ7) | [Netflix Jr.](https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH) | [Netflix Jr\. Jams: Vol\. 4](https://open.spotify.com/album/6HNhpLhni1sQwajwDBT0RT) | 2:37 | 2022-08-19 | 2024-04-19 |
+| [Hello Halloween](https://open.spotify.com/track/4UFmi2kW7pvM83lcEmIdUh) | [Netflix Jr.](https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH) | [Netflix Jr\. Jams: Vol\. 7](https://open.spotify.com/album/1T1V21x7a4s8vaflfs8aUR) | 2:44 | 2024-05-24 |  |
 | [I'll Always Love You](https://open.spotify.com/track/5rpvjntUS4tjEOFRGJr7d9) | [Netflix Jr.](https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH), [Winter River](https://open.spotify.com/artist/3qbipbZdbYVPJUroZzAoLA) | [Netflix Jr\. Jams: Vol\. 3](https://open.spotify.com/album/543rbtvsbqEQY2AIynQQC6) | 2:53 | 2023-06-20 |  |
 | [I'll Always Love You](https://open.spotify.com/track/6xY7CmImqIfHHlesaUg2oO) | [Netflix Jr.](https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH), [Winter River](https://open.spotify.com/artist/3qbipbZdbYVPJUroZzAoLA) | [Netflix Jr\. Jams: Vol\. 3](https://open.spotify.com/album/2TUshFZxuXqiX6KOKoj6CP) | 2:53 | 2022-03-03 | 2022-11-17 |
 | [I'll Always Love You](https://open.spotify.com/track/7nZf4oOrYSOnlDSPiObea9) | [Netflix Jr.](https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH), [Winter River](https://open.spotify.com/artist/3qbipbZdbYVPJUroZzAoLA) | [Netflix Jr\. Jams: Vol\. 3](https://open.spotify.com/album/2Zc0nzqLHanTAqcnlltkEz) | 2:53 | 2022-08-19 | 2024-04-19 |
@@ -58,6 +61,7 @@
 | [Wash Your Hands Band](https://open.spotify.com/track/0U0varN1lqQdQiqa8F2iIn) | [Netflix Jr.](https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH) | [Netflix Jr\. Jams: Vol\. 1](https://open.spotify.com/album/64Vj7Dola6M4HsOieRb3QO) | 2:38 | 2023-06-20 |  |
 | [Wash Your Hands Band](https://open.spotify.com/track/2HtTrP47xipDabsg44Ttas) | [Netflix Jr.](https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH) | [Netflix Jr\. Jams: Vol\. 1](https://open.spotify.com/album/1PzABZqe93ZpL887oyqYiK) | 2:38 | 2022-03-03 | 2022-11-18 |
 | [Wash Your Hands Band](https://open.spotify.com/track/4m92BYji23YHvv00N5XAXL) | [Netflix Jr.](https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH) | [Netflix Jr\. Jams: Vol\. 1](https://open.spotify.com/album/5O3GrZ9O4eziEZmGBVENZF) | 2:38 | 2022-08-19 | 2024-04-19 |
+| [You Gotta Jump](https://open.spotify.com/track/2zfep9DVFfAaPPE4S1DocB) | [Netflix Jr.](https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH) | [Netflix Jr\. Jams: Vol\. 7](https://open.spotify.com/album/1T1V21x7a4s8vaflfs8aUR) | 2:40 | 2024-05-24 |  |
 | [You're A Star](https://open.spotify.com/track/0uVlPXd7hF21o4Q1W66kGt) | [Netflix Jr.](https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH) | [Netflix Jr\. Jams: Vol\. 1](https://open.spotify.com/album/5O3GrZ9O4eziEZmGBVENZF) | 2:46 | 2022-08-19 | 2024-04-19 |
 | [You're A Star](https://open.spotify.com/track/5XKxjgX5qFGH8fzWe2rWfW) | [Netflix Jr.](https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH) | [Netflix Jr\. Jams: Vol\. 1](https://open.spotify.com/album/1PzABZqe93ZpL887oyqYiK) | 2:46 | 2022-03-03 | 2022-11-18 |
 | [You're A Star](https://open.spotify.com/track/61ddRTKxzbfM5GT9BGwQk1) | [Netflix Jr.](https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH) | [Netflix Jr\. Jams: Vol\. 1](https://open.spotify.com/album/64Vj7Dola6M4HsOieRb3QO) | 2:46 | 2023-06-20 |  |

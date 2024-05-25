@@ -1,6 +1,6 @@
 {
   "description": "The best metal songs of the 90s. Cover: KoRn",
-  "num_followers": 1046805,
+  "num_followers": 1047317,
   "original_name": "90s Metal Classics",
   "owner": {
     "name": "Spotify",
@@ -379,22 +379,6 @@
     {
       "added_at": "2023-03-01 15:25:34",
       "album": {
-        "name": "Hellbilly Deluxe",
-        "url": "https://open.spotify.com/album/2B4lHoTCpWbxQPTZmCOjnH"
-      },
-      "artists": [
-        {
-          "name": "Rob Zombie",
-          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
-        }
-      ],
-      "duration_ms": 201400,
-      "name": "Living Dead Girl",
-      "url": "https://open.spotify.com/track/10V8XpuyMoEcSMfM79WDET"
-    },
-    {
-      "added_at": "2023-03-01 15:25:34",
-      "album": {
         "name": "Reload",
         "url": "https://open.spotify.com/album/0Ip2GlQPoAIgdkqCO2YkMa"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 269800,
       "name": "Fuel",
       "url": "https://open.spotify.com/track/6FUwPb4mGlUDbx42uspXaZ"
+    },
+    {
+      "added_at": "2023-03-01 15:25:34",
+      "album": {
+        "name": "Hellbilly Deluxe",
+        "url": "https://open.spotify.com/album/2B4lHoTCpWbxQPTZmCOjnH"
+      },
+      "artists": [
+        {
+          "name": "Rob Zombie",
+          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+        }
+      ],
+      "duration_ms": 201400,
+      "name": "Living Dead Girl",
+      "url": "https://open.spotify.com/track/10V8XpuyMoEcSMfM79WDET"
     },
     {
       "added_at": "2023-03-01 15:25:34",
@@ -975,22 +975,6 @@
     {
       "added_at": "2023-03-01 15:25:34",
       "album": {
-        "name": "Cleansing",
-        "url": "https://open.spotify.com/album/1RmsgRJnBFyRMAVl1NW9pO"
-      },
-      "artists": [
-        {
-          "name": "Prong",
-          "url": "https://open.spotify.com/artist/6SER9tY2pDIDVWVf5Ql97B"
-        }
-      ],
-      "duration_ms": 251533,
-      "name": "Snap Your Fingers, Snap Your Neck",
-      "url": "https://open.spotify.com/track/7hgtn706RqLE5q1mWe8aQx"
-    },
-    {
-      "added_at": "2023-03-01 15:25:34",
-      "album": {
         "name": "Lights...Camera...Revolution",
         "url": "https://open.spotify.com/album/414jOqUfrq3k2QlAddNXfT"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 348093,
       "name": "You Can't Bring Me Down",
       "url": "https://open.spotify.com/track/203xxdlledLFnkqrUleD72"
+    },
+    {
+      "added_at": "2023-03-01 15:25:34",
+      "album": {
+        "name": "Cleansing",
+        "url": "https://open.spotify.com/album/1RmsgRJnBFyRMAVl1NW9pO"
+      },
+      "artists": [
+        {
+          "name": "Prong",
+          "url": "https://open.spotify.com/artist/6SER9tY2pDIDVWVf5Ql97B"
+        }
+      ],
+      "duration_ms": 251533,
+      "name": "Snap Your Fingers, Snap Your Neck",
+      "url": "https://open.spotify.com/track/7hgtn706RqLE5q1mWe8aQx"
     },
     {
       "added_at": "2023-03-01 15:25:34",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2023-03-01 15:25:34",
       "album": {
-        "name": "Danzig III: How The Gods Kill",
-        "url": "https://open.spotify.com/album/5FRzKiBPlUkfULxupLXK53"
-      },
-      "artists": [
-        {
-          "name": "Danzig",
-          "url": "https://open.spotify.com/artist/34c4iQ5tkaZKu6Sv28BTde"
-        }
-      ],
-      "duration_ms": 356400,
-      "name": "How The Gods Kill",
-      "url": "https://open.spotify.com/track/5w8agmmSkjBh4ScKCAtWqx"
-    },
-    {
-      "added_at": "2023-03-01 15:25:34",
-      "album": {
         "name": "Burn My Eyes",
         "url": "https://open.spotify.com/album/4S4WHsBRNEIha796lnU8NJ"
       },
@@ -1247,18 +1231,18 @@
     {
       "added_at": "2023-03-01 15:25:34",
       "album": {
-        "name": "Bloody Kisses",
-        "url": "https://open.spotify.com/album/127mCJhPsHAB33rOYybK04"
+        "name": "Danzig III: How The Gods Kill",
+        "url": "https://open.spotify.com/album/5FRzKiBPlUkfULxupLXK53"
       },
       "artists": [
         {
-          "name": "Type O Negative",
-          "url": "https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco"
+          "name": "Danzig",
+          "url": "https://open.spotify.com/artist/34c4iQ5tkaZKu6Sv28BTde"
         }
       ],
-      "duration_ms": 675653,
-      "name": "Black No. 1 (Little Miss Scare -All)",
-      "url": "https://open.spotify.com/track/6HtFpG2WX3TfB8oLLua3XJ"
+      "duration_ms": 356400,
+      "name": "How The Gods Kill",
+      "url": "https://open.spotify.com/track/5w8agmmSkjBh4ScKCAtWqx"
     },
     {
       "added_at": "2023-03-01 15:25:34",
@@ -1275,6 +1259,22 @@
       "duration_ms": 205506,
       "name": "Vote with a Bullet",
       "url": "https://open.spotify.com/track/5Z7U8TRHAlX2uL2lVYv5Wa"
+    },
+    {
+      "added_at": "2023-03-01 15:25:34",
+      "album": {
+        "name": "Bloody Kisses",
+        "url": "https://open.spotify.com/album/127mCJhPsHAB33rOYybK04"
+      },
+      "artists": [
+        {
+          "name": "Type O Negative",
+          "url": "https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco"
+        }
+      ],
+      "duration_ms": 675653,
+      "name": "Black No. 1 (Little Miss Scare -All)",
+      "url": "https://open.spotify.com/track/6HtFpG2WX3TfB8oLLua3XJ"
     },
     {
       "added_at": "2023-03-01 15:25:34",
@@ -1343,18 +1343,18 @@
     {
       "added_at": "2023-03-01 15:25:34",
       "album": {
-        "name": "The Essential Stabbing Westward",
-        "url": "https://open.spotify.com/album/1K9DEVSr5iG2W72escDZV7"
+        "name": "The More Things Change...",
+        "url": "https://open.spotify.com/album/60l0eb8lzf8jNF0K6XsbWL"
       },
       "artists": [
         {
-          "name": "Stabbing Westward",
-          "url": "https://open.spotify.com/artist/5daXMUbrPh8oX9Nd4CnToG"
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
         }
       ],
-      "duration_ms": 253573,
-      "name": "Save Yourself",
-      "url": "https://open.spotify.com/track/561spezvXFVnAOYoSv4Bxy"
+      "duration_ms": 254666,
+      "name": "Ten Ton Hammer",
+      "url": "https://open.spotify.com/track/0bxUaSy4x46Ogeio8khuBd"
     },
     {
       "added_at": "2023-03-01 15:25:34",
@@ -1375,6 +1375,22 @@
     {
       "added_at": "2023-03-01 15:25:34",
       "album": {
+        "name": "The Essential Stabbing Westward",
+        "url": "https://open.spotify.com/album/1K9DEVSr5iG2W72escDZV7"
+      },
+      "artists": [
+        {
+          "name": "Stabbing Westward",
+          "url": "https://open.spotify.com/artist/5daXMUbrPh8oX9Nd4CnToG"
+        }
+      ],
+      "duration_ms": 253573,
+      "name": "Save Yourself",
+      "url": "https://open.spotify.com/track/561spezvXFVnAOYoSv4Bxy"
+    },
+    {
+      "added_at": "2023-03-01 15:25:34",
+      "album": {
         "name": "GROOVE FAMILY CYCO",
         "url": "https://open.spotify.com/album/55u43mARrmqFDHNb2qQ59M"
       },
@@ -1387,22 +1403,6 @@
       "duration_ms": 256293,
       "name": "Violent & Funky",
       "url": "https://open.spotify.com/track/7je6HRz7AoYt0HoW0gEUdP"
-    },
-    {
-      "added_at": "2023-03-01 15:25:34",
-      "album": {
-        "name": "The More Things Change...",
-        "url": "https://open.spotify.com/album/60l0eb8lzf8jNF0K6XsbWL"
-      },
-      "artists": [
-        {
-          "name": "Machine Head",
-          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
-        }
-      ],
-      "duration_ms": 254666,
-      "name": "Ten Ton Hammer",
-      "url": "https://open.spotify.com/track/0bxUaSy4x46Ogeio8khuBd"
     },
     {
       "added_at": "2023-03-01 15:25:34",

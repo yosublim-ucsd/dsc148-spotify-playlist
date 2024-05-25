@@ -1,6 +1,6 @@
 {
   "description": "Women at full volume. Cover: Esther Graf",
-  "num_followers": 34087,
+  "num_followers": 34084,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
@@ -751,6 +751,22 @@
     {
       "added_at": "2024-05-01 07:25:52",
       "album": {
+        "name": "Hoffe, dir geht's mies",
+        "url": "https://open.spotify.com/album/5Qag9d6zz6QDY16sB2ZTrq"
+      },
+      "artists": [
+        {
+          "name": "Victoryaz",
+          "url": "https://open.spotify.com/artist/6F71TTGaz9SrRCJhCzGhNk"
+        }
+      ],
+      "duration_ms": 193826,
+      "name": "Hoffe, dir geht's mies",
+      "url": "https://open.spotify.com/track/2OGDD8ZZBnXLkj3gtbxFf9"
+    },
+    {
+      "added_at": "2024-05-01 07:25:52",
+      "album": {
         "name": "MESS",
         "url": "https://open.spotify.com/album/3dbDjrPXsQoCDo4HUykPQb"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 158192,
       "name": "Frauen",
       "url": "https://open.spotify.com/track/5WfgoryvbxSLzNesIX4dtR"
-    },
-    {
-      "added_at": "2024-05-01 07:25:52",
-      "album": {
-        "name": "Hoffe, dir geht's mies",
-        "url": "https://open.spotify.com/album/5Qag9d6zz6QDY16sB2ZTrq"
-      },
-      "artists": [
-        {
-          "name": "Victoryaz",
-          "url": "https://open.spotify.com/artist/6F71TTGaz9SrRCJhCzGhNk"
-        }
-      ],
-      "duration_ms": 193826,
-      "name": "Hoffe, dir geht's mies",
-      "url": "https://open.spotify.com/track/2OGDD8ZZBnXLkj3gtbxFf9"
     },
     {
       "added_at": "2024-05-01 07:25:52",

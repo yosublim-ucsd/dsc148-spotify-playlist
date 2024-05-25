@@ -88,7 +88,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-20",
+      "date_removed": null,
       "duration_ms": 202226,
       "name": "A Brighter Day",
       "url": "https://open.spotify.com/track/2cHxeaqKLZL9Shs3Qel5GS"
@@ -1618,7 +1618,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-05",
+      "date_removed": null,
       "duration_ms": 138493,
       "name": "Be Encouraged (Reprise)",
       "url": "https://open.spotify.com/track/4XCUTVp0xXfeOPzg7rqopS"
@@ -2126,7 +2126,7 @@
       ],
       "date_added": "2024-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 362506,
       "name": "Bless The Lord",
       "url": "https://open.spotify.com/track/5QMPtd5oYStJbVJhX4ILpz"
@@ -2794,6 +2794,24 @@
       "duration_ms": 415126,
       "name": "Celebration Medley - Live",
       "url": "https://open.spotify.com/track/5fkLvc9PQAnDFqgLckD6ta"
+    },
+    {
+      "album": {
+        "name": "I Need An Angel",
+        "url": "https://open.spotify.com/album/1zc9Bicds4da6pzuAsE8A4"
+      },
+      "artists": [
+        {
+          "name": "Ruben Studdard",
+          "url": "https://open.spotify.com/artist/0H0yrKDty3I7pPrNUSH3wW"
+        }
+      ],
+      "date_added": "2024-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352120,
+      "name": "Center Of My Joy",
+      "url": "https://open.spotify.com/track/4uK4xjIkuEJEEkPAqbr7oo"
     },
     {
       "album": {
@@ -3508,7 +3526,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-18",
+      "date_removed": null,
       "duration_ms": 337896,
       "name": "Dear God - Live",
       "url": "https://open.spotify.com/track/0ROHVar91z6Coqmv5WKjDP"
@@ -4318,7 +4336,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 539365,
       "name": "Everything's Gonna Be Alright - Acoustic Version",
       "url": "https://open.spotify.com/track/6pngkRSya22JiPHtGqlK0t"
@@ -5928,7 +5946,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 346500,
       "name": "God Has Been So Good",
       "url": "https://open.spotify.com/track/2WQgBeDpIPdDmD675sMiva"
@@ -9138,7 +9156,7 @@
       ],
       "date_added": "2024-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-17",
+      "date_removed": null,
       "duration_ms": 248417,
       "name": "I Can't Breathe",
       "url": "https://open.spotify.com/track/4eEOh2xjZTFkLYDVknWz6Q"
@@ -11472,7 +11490,7 @@
       ],
       "date_added": "2023-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-05",
+      "date_removed": null,
       "duration_ms": 66188,
       "name": "If/Then a Cappella",
       "url": "https://open.spotify.com/track/2FZquh90z6BpLcetqkSj69"
@@ -11638,7 +11656,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-03",
+      "date_removed": null,
       "duration_ms": 232760,
       "name": "In Return",
       "url": "https://open.spotify.com/track/2KssxEq22uVJzXzu4K393p"
@@ -13662,7 +13680,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 262920,
       "name": "Let Go",
       "url": "https://open.spotify.com/track/299sErxtD0A5Ga7Egda855"
@@ -14634,7 +14652,7 @@
       ],
       "date_added": "2024-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 313786,
       "name": "Love Isn't Love",
       "url": "https://open.spotify.com/track/0dpMtEYKo7cCJk2UzdzZ0l"
@@ -15708,7 +15726,7 @@
       ],
       "date_added": "2024-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 383893,
       "name": "More, More, More",
       "url": "https://open.spotify.com/track/5bViLIKOBeIH49Gyleo1rE"
@@ -16394,7 +16412,7 @@
       ],
       "date_added": "2023-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 249984,
       "name": "Never Left Me Alone",
       "url": "https://open.spotify.com/track/6Ow2S3oWDyPvAkgvvnwoA1"
@@ -16886,6 +16904,24 @@
       "duration_ms": 148909,
       "name": "Note to Self",
       "url": "https://open.spotify.com/track/54K8zb0SYloRCoEV977jRx"
+    },
+    {
+      "album": {
+        "name": "Nothing Without You",
+        "url": "https://open.spotify.com/album/3xvYm9ncK7ihqXVfAjsWEr"
+      },
+      "artists": [
+        {
+          "name": "Smokie Norful",
+          "url": "https://open.spotify.com/artist/0sD8Amms4kSxs5tBV4CUmR"
+        }
+      ],
+      "date_added": "2024-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235306,
+      "name": "Nothing Without You",
+      "url": "https://open.spotify.com/track/64gg28WiCmBfq0T3ty4eKy"
     },
     {
       "album": {
@@ -17814,7 +17850,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 230891,
       "name": "Over and Over (feat. Commissioned)",
       "url": "https://open.spotify.com/track/7wHGiGfccVKd7xJPvbuMJm"
@@ -17850,7 +17886,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-24",
+      "date_removed": null,
       "duration_ms": 252619,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/5p4aqYZlL44hI0imyk7AV2"
@@ -18700,7 +18736,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-18",
+      "date_removed": null,
       "duration_ms": 229026,
       "name": "Psalm 64",
       "url": "https://open.spotify.com/track/1RzJSycPERDFCJ5gZz11DL"
@@ -19330,7 +19366,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-18",
+      "date_removed": null,
       "duration_ms": 187133,
       "name": "Run Til I Finish",
       "url": "https://open.spotify.com/track/70f2csknABwJHInhZD03hq"
@@ -19366,7 +19402,7 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 286760,
       "name": "Running Back To You",
       "url": "https://open.spotify.com/track/5xZMkew3Fshtxul72kEsrr"
@@ -20834,7 +20870,7 @@
       ],
       "date_added": "2023-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 315541,
       "name": "Soul\u2019s Anthem (It Is Well)",
       "url": "https://open.spotify.com/track/3p5z6hZE4twttR81jsbwKa"
@@ -23038,7 +23074,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 315373,
       "name": "The Winner In Me",
       "url": "https://open.spotify.com/track/21cm4GO6lNvYRWSFJobEQr"
@@ -23074,7 +23110,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 291813,
       "name": "There Is More",
       "url": "https://open.spotify.com/track/0RugrGfhtDCfFN4SUwg0th"
@@ -24094,7 +24130,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-24",
+      "date_removed": null,
       "duration_ms": 251533,
       "name": "Up Above My Head",
       "url": "https://open.spotify.com/track/1WhTUxcKVIONh2pB6Zz9l3"
@@ -24816,7 +24852,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 151573,
       "name": "What A Beautiful Name - A Cappella Version",
       "url": "https://open.spotify.com/track/2J2pgeCxen6pU1Zm7bXjWb"
@@ -25264,7 +25300,7 @@
       ],
       "date_added": "2023-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-20",
+      "date_removed": null,
       "duration_ms": 219065,
       "name": "Whole World In His Hands - Radio Edit",
       "url": "https://open.spotify.com/track/2rH6klpQqamjrWudLnKCmQ"

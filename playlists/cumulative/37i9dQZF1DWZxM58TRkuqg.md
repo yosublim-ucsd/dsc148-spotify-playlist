@@ -4,7 +4,7 @@
 
 > Deretan musik Indonesia terpopuler saat ini\. <br/>Cover: D'MASIV
 
-140 songs - 9 hr 23 min
+141 songs - 9 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [Love Again](https://open.spotify.com/track/6YAGyRdsS4SZNlFGrpFjNr) | [Christie](https://open.spotify.com/artist/0ua3HlZNc0psrEhsqAynnr) | [Love Again](https://open.spotify.com/album/3ueOQerHU7Qv1tuHmmDl3e) | 3:12 | 2024-03-01 | 2024-05-03 |
 | [Luka](https://open.spotify.com/track/3uAbxlHUC7hZkUMQ2NfIOp) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku), [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI) | [Berona](https://open.spotify.com/album/6sV7rZpvGIIQS1ccs61YXV) | 3:13 | 2024-01-26 | 2024-05-03 |
 | [MADE 4 U](https://open.spotify.com/track/5yetn3rXSPBP8fl5d5zExV) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [MADE 4 U](https://open.spotify.com/album/0WlcKSVRN8XsTDN4yXsMWZ) | 4:09 | 2024-01-26 | 2024-03-22 |
+| [Mahir Memberi Luka](https://open.spotify.com/track/5hPv6XDaQzixDaYN0yRCFi) | [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [Everlast](https://open.spotify.com/album/4RQqQiwO3kTfzQI7YQfDMg) | 3:22 | 2024-05-24 |  |
 | [Malang](https://open.spotify.com/track/7sqv8Eqs0gW6GHVTx20WNm) | [Hal](https://open.spotify.com/artist/5vTG3EyFrsARtIGDWZNRzu) | [Malang](https://open.spotify.com/album/47zY7uyQnStZjlbqwrn3M3) | 4:50 | 2024-03-21 | 2024-05-17 |
 | [Masa Mudaku Habis](https://open.spotify.com/track/7016fRgPW6LoYsuBIjgfVr) | [Ghea Indrawari](https://open.spotify.com/artist/3qL7BzwJOXq3EzAio36aLX) | [Masa Mudaku Habis](https://open.spotify.com/album/3XntILaq6yQVrdUk0kVRwZ) | 4:14 | 2024-01-26 | 2024-03-22 |
 | [Masih Hatiku](https://open.spotify.com/track/6L1jkVbb331DNvK89C3L8u) | [Arsy Widianto](https://open.spotify.com/artist/7j5PGC0BF48rRtcmgbVvOT), [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Masih Hatiku](https://open.spotify.com/album/6uwl5luJhAy6CLqoU8ExTY) | 4:22 | 2024-02-23 |  |

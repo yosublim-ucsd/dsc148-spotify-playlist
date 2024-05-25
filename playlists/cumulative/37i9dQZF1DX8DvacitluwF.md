@@ -2,7 +2,7 @@
 
 ### [R&Beats](https://open.spotify.com/playlist/37i9dQZF1DX8DvacitluwF)
 
-> Only the best in South African and international RnB\. Cover: <a href=https://open.spotify.com/artist/1K288EUFcrCVl5dIm46bYU?si=h\_oFscVVQlWeEYlJz8QZtw>Hanna</a>
+> Only the best in South African and international RnB\. Cover: <a href=https://open.spotify.com/artist/5o0lTomGzanpzoNLZg7mDu?si=q\_MjphLZQ0y26ofXapGApw>Nnashe</a>
 
 254 songs - 13 hr 27 min
 

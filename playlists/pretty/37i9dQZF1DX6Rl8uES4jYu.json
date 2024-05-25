@@ -1,13 +1,29 @@
 {
   "description": "This fun, upbeat playlist will help get you up and ready to start your day! ",
-  "num_followers": 238252,
+  "num_followers": 238244,
   "original_name": "Ready for the Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkbWQAAAAADiEuSH6fpNYNAjm/P+6kh9",
+  "snapshot_id": "ZlAQwAAAAABueACInwY9glzSjddWaCRi",
   "tracks": [
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "HELLA BOY CRAZY",
+        "url": "https://open.spotify.com/album/1qdVwpG3yeKWXT36RhLZ26"
+      },
+      "artists": [
+        {
+          "name": "Tiffany Day",
+          "url": "https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu"
+        }
+      ],
+      "duration_ms": 134786,
+      "name": "HELLA BOY CRAZY",
+      "url": "https://open.spotify.com/track/6MGXeJPWlv3enSLaIz2egy"
+    },
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
@@ -1591,22 +1607,6 @@
       "duration_ms": 158133,
       "name": "FAMJAM4000",
       "url": "https://open.spotify.com/track/08vlprFBmwh9TQnjXUtZDG"
-    },
-    {
-      "added_at": "2023-03-03 05:01:00",
-      "album": {
-        "name": "So Special",
-        "url": "https://open.spotify.com/album/5CIv2KGq1JvtcuNI584N1i"
-      },
-      "artists": [
-        {
-          "name": "Citizen Queen",
-          "url": "https://open.spotify.com/artist/2z7BqfKvVlkr8KVAOTBKcz"
-        }
-      ],
-      "duration_ms": 161868,
-      "name": "So Special",
-      "url": "https://open.spotify.com/track/2yYj4A83qox4a2SBAE6a3t"
     },
     {
       "added_at": "2022-05-06 04:02:00",

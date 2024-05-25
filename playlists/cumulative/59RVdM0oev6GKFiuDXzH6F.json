@@ -1153,6 +1153,28 @@
     },
     {
       "album": {
+        "name": "Bass Drum",
+        "url": "https://open.spotify.com/album/4Xt5yw6I8i7R8BPMbabHoL"
+      },
+      "artists": [
+        {
+          "name": "CGVE",
+          "url": "https://open.spotify.com/artist/0B4AlWqnBZwrDvvXjm71bZ"
+        },
+        {
+          "name": "Shamil",
+          "url": "https://open.spotify.com/artist/7IrZpbKw6j5L70Ymxr6ysg"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153360,
+      "name": "Bass Drum",
+      "url": "https://open.spotify.com/track/5BNwl3ZruZS6LKjmBeid27"
+    },
+    {
+      "album": {
         "name": "Be Shy",
         "url": "https://open.spotify.com/album/4Fn8CBNCqKSHeJyW7Xw9Cu"
       },
@@ -1168,6 +1190,24 @@
       "duration_ms": 129677,
       "name": "Be Shy",
       "url": "https://open.spotify.com/track/2WYvrMyqZwGogXkLEIenWG"
+    },
+    {
+      "album": {
+        "name": "Cruisin' Down Crenshaw EP",
+        "url": "https://open.spotify.com/album/08MQdiaBRvA9JtlU3f63D8"
+      },
+      "artists": [
+        {
+          "name": "Riley (UK)",
+          "url": "https://open.spotify.com/artist/41vJAAunDUYAg81pOkcWh3"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 396851,
+      "name": "Be You",
+      "url": "https://open.spotify.com/track/3DP7Vn2Oqw0ycl5IYb6NdO"
     },
     {
       "album": {
@@ -3926,6 +3966,24 @@
       "duration_ms": 171083,
       "name": "Freak Like Me",
       "url": "https://open.spotify.com/track/2kCEz5SnL22qQhJeOjgNQW"
+    },
+    {
+      "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/4FR5GqDVSOv5GiuwDedjSZ"
+      },
+      "artists": [
+        {
+          "name": "Wildcard (US)",
+          "url": "https://open.spotify.com/artist/4kNI2d4AVNwPVcZNwgJFtr"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210461,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/4UE5YjqaUALV8MVr9pJDfo"
     },
     {
       "album": {
@@ -8039,7 +8097,7 @@
     },
     {
       "album": {
-        "name": "My City",
+        "name": "My City (feat. Katy Tiz)",
         "url": "https://open.spotify.com/album/3xNEWVkFaNdnAPmC0M5J0c"
       },
       "artists": [
@@ -8050,13 +8108,17 @@
         {
           "name": "Prophecy",
           "url": "https://open.spotify.com/artist/03O6WINYmDJRCE2EUFaykv"
+        },
+        {
+          "name": "Katy Tiz",
+          "url": "https://open.spotify.com/artist/2E19mfEFhCr6UgZUYJGOEW"
         }
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 151874,
-      "name": "My City",
+      "name": "My City (feat. Katy Tiz)",
       "url": "https://open.spotify.com/track/3G8UpeZbzVGRMJQD5Zn3mB"
     },
     {
@@ -9470,6 +9532,24 @@
       "duration_ms": 197903,
       "name": "Pills",
       "url": "https://open.spotify.com/track/5arYn3Yofxkw0CCM3XkiCE"
+    },
+    {
+      "album": {
+        "name": "Play",
+        "url": "https://open.spotify.com/album/3lwbaoXT5j76EIiz5XmzAe"
+      },
+      "artists": [
+        {
+          "name": "Bassium",
+          "url": "https://open.spotify.com/artist/2W3Nv6Ej8jREhbxiTKK0lc"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209288,
+      "name": "Play",
+      "url": "https://open.spotify.com/track/18iezdh9TvdsxBK5hdRlhv"
     },
     {
       "album": {

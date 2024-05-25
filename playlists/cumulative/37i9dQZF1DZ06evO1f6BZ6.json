@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-02-08",
-  "description": "This is Toby Keith. The essential tracks, all in one playlist.",
+  "description": "This is Toby Keith. En \u00f6nemli par\u00e7alar, hepsi tek bir \u00e7alma listesinde.",
   "name": "This Is Toby Keith",
   "tracks": [
     {
@@ -128,7 +128,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 204000,
       "name": "Beer For My Horses",
       "url": "https://open.spotify.com/track/7E2DqvnVtbIrFrL5X6YH9Q"
@@ -812,7 +812,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-24",
+      "date_removed": null,
       "duration_ms": 239506,
       "name": "She Never Cried in Front of Me",
       "url": "https://open.spotify.com/track/4CA1ZvDNhoaCJcozvGP8WH"

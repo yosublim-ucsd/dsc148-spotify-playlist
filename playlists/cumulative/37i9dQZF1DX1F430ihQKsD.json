@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "La sc\u00e8ne musicale montr\u00e9alaise au premier plan. Photo: Geoffroy",
+  "description": "La sc\u00e8ne musicale montr\u00e9alaise au premier plan. Photo: Bibi Club",
   "name": "Montr\u00e9al Chill",
   "tracks": [
     {
@@ -496,7 +496,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 168354,
       "name": "Ami",
       "url": "https://open.spotify.com/track/0N0Ymk2UB6yzGBL2Xqo82L"
@@ -732,6 +732,24 @@
       "duration_ms": 210192,
       "name": "Away from You",
       "url": "https://open.spotify.com/track/6YWrJWR12Z5XEXB37n3LAy"
+    },
+    {
+      "album": {
+        "name": "Baby Has A Frown",
+        "url": "https://open.spotify.com/album/58nMtDYsuRQqmPBGAJiiJr"
+      },
+      "artists": [
+        {
+          "name": "Ouri",
+          "url": "https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160713,
+      "name": "Baby Has A Frown",
+      "url": "https://open.spotify.com/track/3iA5tU7zZ1YUKv7NDO7ppf"
     },
     {
       "album": {
@@ -1050,7 +1068,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 198649,
       "name": "blueprints of us",
       "url": "https://open.spotify.com/track/165ZtkfUdMu36Wqw7YiyGW"
@@ -2607,6 +2625,28 @@
     },
     {
       "album": {
+        "name": "Fait du sens",
+        "url": "https://open.spotify.com/album/0XmcPP9hH44pkQoFaVaXco"
+      },
+      "artists": [
+        {
+          "name": "Grand Eug\u00e8ne",
+          "url": "https://open.spotify.com/artist/15HoDsauDCgOxvCFijHxdT"
+        },
+        {
+          "name": "Niall Mutter",
+          "url": "https://open.spotify.com/artist/26nkWfI1zwh7OFESYPRn2w"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192453,
+      "name": "Fait du sens",
+      "url": "https://open.spotify.com/track/1KWCsJZq5YjqBPqf1yOgiP"
+    },
+    {
+      "album": {
         "name": "Falling Behind",
         "url": "https://open.spotify.com/album/7EKPZpguEOpNXn7R75Zumw"
       },
@@ -2832,6 +2872,28 @@
       "duration_ms": 178461,
       "name": "Fleurs",
       "url": "https://open.spotify.com/track/6J4sn4PN9POF1TeZiE77w2"
+    },
+    {
+      "album": {
+        "name": "Flying Away",
+        "url": "https://open.spotify.com/album/3klMx33nQECUneOjwk9lc5"
+      },
+      "artists": [
+        {
+          "name": "Sara-Danielle",
+          "url": "https://open.spotify.com/artist/3asDPAs8xchUTMEEkpkkPO"
+        },
+        {
+          "name": "Anna Majidson",
+          "url": "https://open.spotify.com/artist/7jfJJuEsycOiEc2n4fCM7z"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154984,
+      "name": "Flying Away",
+      "url": "https://open.spotify.com/track/3bszv09KHptpoVP6yDN2wv"
     },
     {
       "album": {
@@ -4430,10 +4492,28 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 210286,
       "name": "Les Heures",
       "url": "https://open.spotify.com/track/0NooWH9hVyWAZXK0RDjRNr"
+    },
+    {
+      "album": {
+        "name": "Les nouveaux infinis",
+        "url": "https://open.spotify.com/album/3p359s7FAMTjo50xzFlHt4"
+      },
+      "artists": [
+        {
+          "name": "Nicolet",
+          "url": "https://open.spotify.com/artist/5M1fJVSLxyQGV6RSqilBjR"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220933,
+      "name": "Les nouveaux infinis",
+      "url": "https://open.spotify.com/track/6tq1i5M92NGSSQSgt7B088"
     },
     {
       "album": {
@@ -4538,7 +4618,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 195086,
       "name": "Lisbonne, Paris la Sorbonne",
       "url": "https://open.spotify.com/track/4nB7Z6mGzUQ4rDlqkJU2FQ"
@@ -7596,7 +7676,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 191666,
       "name": "Stuck Here",
       "url": "https://open.spotify.com/track/3Y0No5lXAS30OlN84b6NWv"
@@ -7846,6 +7926,28 @@
       "duration_ms": 202347,
       "name": "Terminal",
       "url": "https://open.spotify.com/track/611bHLbCX1SlJUIdPLiJ3c"
+    },
+    {
+      "album": {
+        "name": "Testify",
+        "url": "https://open.spotify.com/album/7ItYQn2qm80WSH0eFJyxf5"
+      },
+      "artists": [
+        {
+          "name": "Marilyne L\u00e9onard",
+          "url": "https://open.spotify.com/artist/00WvHy3wvdUV4WSvvc0N5p"
+        },
+        {
+          "name": "Mike Clay",
+          "url": "https://open.spotify.com/artist/0XkKzWXudWJloK6SWsH8B8"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135757,
+      "name": "Testify",
+      "url": "https://open.spotify.com/track/4WQUkqnQr0UAqY6izXUEi5"
     },
     {
       "album": {

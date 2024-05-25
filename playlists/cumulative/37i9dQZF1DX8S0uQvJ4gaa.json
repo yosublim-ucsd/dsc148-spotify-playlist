@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "New music discovery is what we're about. Try it on for size. Cover: Lainey Wilson",
+  "description": "New music discovery is what we're about. Try it on for size. Cover: Tucker Wetmore",
   "name": "New Boots",
   "tracks": [
     {
@@ -4452,7 +4452,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 200957,
       "name": "Burn",
       "url": "https://open.spotify.com/track/2Ba6D8yeOe14QoHwMaQkAK"
@@ -13966,6 +13966,24 @@
       "duration_ms": 166133,
       "name": "Hell Of A Way To Go",
       "url": "https://open.spotify.com/track/4vfTyv3PkLAac4zTn5P82d"
+    },
+    {
+      "album": {
+        "name": "Hell or High Water (From Twisters: The Album)",
+        "url": "https://open.spotify.com/album/75bF2ZeHewzInYro8m5IYE"
+      },
+      "artists": [
+        {
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194571,
+      "name": "Hell or High Water (From Twisters: The Album)",
+      "url": "https://open.spotify.com/track/0M40J5bPZACa2XXC5GF8tn"
     },
     {
       "album": {
@@ -23797,6 +23815,24 @@
     },
     {
       "album": {
+        "name": "Old Fashioned Feeling",
+        "url": "https://open.spotify.com/album/3ojGoD6lwIzSjHKqgndFD9"
+      },
+      "artists": [
+        {
+          "name": "Midland",
+          "url": "https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202280,
+      "name": "Old Fashioned Feeling",
+      "url": "https://open.spotify.com/track/1mlFsqgc3lgTCboLATYHBo"
+    },
+    {
+      "album": {
         "name": "Fire & Brimstone (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0kKGVv7XAWy9YH5KJRFn8G"
       },
@@ -26628,7 +26664,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 198858,
       "name": "Roads That Go Nowhere",
       "url": "https://open.spotify.com/track/2ZB6CLPqN9OvtPKKC81Sq6"
@@ -27198,7 +27234,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 196000,
       "name": "Same Drunk",
       "url": "https://open.spotify.com/track/7ia6WjhKSljuub3g3KVkBG"
@@ -27808,6 +27844,24 @@
       "duration_ms": 205651,
       "name": "She's No Good for Me",
       "url": "https://open.spotify.com/track/4dmNC1afkVZKr5RfHkaj0E"
+    },
+    {
+      "album": {
+        "name": "She's Somebody's Daughter",
+        "url": "https://open.spotify.com/album/655M0y2ab0r8OFlhkXIOc5"
+      },
+      "artists": [
+        {
+          "name": "Drew Baldridge",
+          "url": "https://open.spotify.com/artist/08qaG5crPMPF7i0h2wORk5"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176360,
+      "name": "She's Somebody's Daughter",
+      "url": "https://open.spotify.com/track/7dQ9151STgBvjSxz8FM28m"
     },
     {
       "album": {
@@ -29658,6 +29712,28 @@
       "duration_ms": 190093,
       "name": "Southern Comfort",
       "url": "https://open.spotify.com/track/2oNXyZLQcsd0vJhhCjPnbb"
+    },
+    {
+      "album": {
+        "name": "Roads That Go Nowhere",
+        "url": "https://open.spotify.com/album/5fxgfA3NwGKeIhi22Z9Pir"
+      },
+      "artists": [
+        {
+          "name": "Travis Denning",
+          "url": "https://open.spotify.com/artist/6CegFHnUqJcOBipgphZ2CJ"
+        },
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218860,
+      "name": "Southern Rock",
+      "url": "https://open.spotify.com/track/0UT58DMxUfSb8ECS85tgn3"
     },
     {
       "album": {
@@ -34435,6 +34511,24 @@
     },
     {
       "album": {
+        "name": "Wanna Be Loved",
+        "url": "https://open.spotify.com/album/3gkwDd6hohNwtgET2IpJLZ"
+      },
+      "artists": [
+        {
+          "name": "The Red Clay Strays",
+          "url": "https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217307,
+      "name": "Wanna Be Loved",
+      "url": "https://open.spotify.com/track/4boa7Bv0VijpxoP1SHjjUb"
+    },
+    {
+      "album": {
         "name": "Country Again (Side A)",
         "url": "https://open.spotify.com/album/54gUAvhpOHFDhHGAINyogO"
       },
@@ -35541,6 +35635,24 @@
     },
     {
       "album": {
+        "name": "What Would You Do?",
+        "url": "https://open.spotify.com/album/1moDPEq3gWL5V2WDsFydS4"
+      },
+      "artists": [
+        {
+          "name": "Tucker Wetmore",
+          "url": "https://open.spotify.com/artist/4sCKpwwEsgReZxjtKFm2A0"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183026,
+      "name": "What Would You Do?",
+      "url": "https://open.spotify.com/track/3F7qTaugjHaRNTWS6cqoFM"
+    },
+    {
+      "album": {
         "name": "What's It Gonna Take",
         "url": "https://open.spotify.com/album/1p2FLEALTHFqwBM1t98LCS"
       },
@@ -35628,7 +35740,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 149002,
       "name": "Whatcha See Is Whatcha Get",
       "url": "https://open.spotify.com/track/5Cwy5VbPoYIwc5NSFWP91C"
@@ -36986,7 +37098,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 166343,
       "name": "Wine Into Whiskey",
       "url": "https://open.spotify.com/track/2DVHIJA2bLas9cGLmHmUsY"
@@ -37470,7 +37582,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 220558,
       "name": "Worst Way",
       "url": "https://open.spotify.com/track/1osfLqL6L2iQsirRf83ded"

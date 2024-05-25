@@ -4,7 +4,7 @@
 
 > Les sons les plus frais du Rap Tunisien sont ici\. Cover : A.L.A
 
-61 songs - 3 hr 33 min
+63 songs - 3 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,15 +53,17 @@
 | [Nesta3ref](https://open.spotify.com/track/0dIYvl9pLL5lhmTXOWkz5Q) | [2Two](https://open.spotify.com/artist/0mj273jWZNCOCMIorzMjtw), [Raste](https://open.spotify.com/artist/7hblKQxMowm5BZpxUjcYQT) | [Nesta3ref](https://open.spotify.com/album/5We6huHN6gtuVPYXXqNw3e) | 3:25 | 2024-02-24 |  |
 | [Noss Ellil](https://open.spotify.com/track/5fF004YYfSgDOwIqxWsSKz) | [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [Noss Ellil](https://open.spotify.com/album/24wRSBBUiTv9EGUuhQnwYp) | 3:16 | 2024-02-24 | 2024-05-04 |
 | [Nouveau Riche](https://open.spotify.com/track/2VcyehrwqaIcLx1Urq7HFs) | [DAK](https://open.spotify.com/artist/0ijMujujEFjjkBPJcCtI9u) | [Nouveau Riche](https://open.spotify.com/album/30z0Kw1N8iRCGyh44wgs3o) | 3:13 | 2024-02-24 |  |
-| [Oumouri](https://open.spotify.com/track/27KxDtFcRXU1fcnRk7nnPz) | [Sanfara](https://open.spotify.com/artist/2s55Po6VBr22RYwlCmYlY6) | [Oumouri](https://open.spotify.com/album/1EqoJhmcKMFw1VeB1Ols5k) | 3:37 | 2024-04-25 |  |
-| [Raby Yostor](https://open.spotify.com/track/7vXf6XzqsUYqQ9Ky3Z0adb) | [Sanfara](https://open.spotify.com/artist/2s55Po6VBr22RYwlCmYlY6) | [Raby Yostor](https://open.spotify.com/album/6MWT9JJ0rjhtLdSLNaPhcs) | 3:04 | 2024-02-24 |  |
+| [Oumouri](https://open.spotify.com/track/27KxDtFcRXU1fcnRk7nnPz) | [Sanfara](https://open.spotify.com/artist/2s55Po6VBr22RYwlCmYlY6) | [Oumouri](https://open.spotify.com/album/1EqoJhmcKMFw1VeB1Ols5k) | 3:37 | 2024-04-25 | 2024-05-25 |
+| [Qatra](https://open.spotify.com/track/25Nh8YaZAgdp3oU35ARlet) | [Sanfara](https://open.spotify.com/artist/2s55Po6VBr22RYwlCmYlY6) | [Qatra](https://open.spotify.com/album/4XbFnBQrOtlwkXsEe4idAF) | 3:36 | 2024-05-24 |  |
+| [Raby Yostor](https://open.spotify.com/track/7vXf6XzqsUYqQ9Ky3Z0adb) | [Sanfara](https://open.spotify.com/artist/2s55Po6VBr22RYwlCmYlY6) | [Raby Yostor](https://open.spotify.com/album/6MWT9JJ0rjhtLdSLNaPhcs) | 3:04 | 2024-02-24 | 2024-05-25 |
 | [Rjel Tunis](https://open.spotify.com/track/4I5ZyFF55zqQRNzYdhl1Od) | [Omar Laya](https://open.spotify.com/artist/3bbrfcE7yIia9BrIIMeZLF) | [Rjel Tunis](https://open.spotify.com/album/2nyIDIgnhMpVuD7MGkUO5S) | 3:33 | 2024-02-24 |  |
 | [Sa7a](https://open.spotify.com/track/4FLgbthreXG0QiWWYeYfMf) | [NASTYSH!!T](https://open.spotify.com/artist/6qiiqFqUgHwAhMNDVR0PXz) | [Sa7a](https://open.spotify.com/album/5GBcqogPqtHNYomZqoELo7) | 3:19 | 2024-02-24 |  |
 | [Sada9tha](https://open.spotify.com/track/7DM7AOqoEAouQ6ChSTAxaD) | [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0) | [Sada9tha](https://open.spotify.com/album/19tu9RtMJ5uH4VJ4GZIrMq) | 3:31 | 2024-02-24 |  |
-| [Shkoon](https://open.spotify.com/track/76oxojNipN7ol8ALGuNA0Y) | [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [Shkoon](https://open.spotify.com/album/5Et9sV7KldC7b3sxSR4uWW) | 3:36 | 2024-02-24 |  |
+| [Shkoon](https://open.spotify.com/track/76oxojNipN7ol8ALGuNA0Y) | [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [Shkoon](https://open.spotify.com/album/5Et9sV7KldC7b3sxSR4uWW) | 3:36 | 2024-02-24 | 2024-05-25 |
 | [Smile](https://open.spotify.com/track/1tH4uq1ObOtg8bOaMIot2F) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Smile](https://open.spotify.com/album/6nGD6qoBhp61FUabIjWWGV) | 3:34 | 2024-05-02 |  |
 | [SNE NMES SME](https://open.spotify.com/track/60iFivuGYfiQaI0doBvyop) | [EMP1RE](https://open.spotify.com/artist/2aFZFL6yee8SaztShh7AST) | [NOTE](https://open.spotify.com/album/3t4d4XbkJ02ohP8efP1g4L) | 3:17 | 2024-02-24 |  |
 | [Souk](https://open.spotify.com/track/0xbh3QhQx7S3GLEOWXWzGr) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Souk](https://open.spotify.com/album/60yaMTkfX5OtAOnnrD8ya2) | 3:40 | 2024-05-10 |  |
+| [Souvenir](https://open.spotify.com/track/3sajl2Mtz02P2QysiiDB6W) | [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [Souvenir](https://open.spotify.com/album/5wVVL0wIYIJT2k08l5ysQi) | 2:57 | 2024-05-24 |  |
 | [Stava Bene](https://open.spotify.com/track/0uEjppwk80YQMkyW4eWleQ) | [RedStar](https://open.spotify.com/artist/5KrsMlfx8tbhq2GjZo0KP5), [Mc Artisan](https://open.spotify.com/artist/24XkH7tJDFfDrOLlONiy7S) | [Stava Bene](https://open.spotify.com/album/2WYGHDw0lmUlgKGlsY2FTF) | 3:44 | 2024-04-18 |  |
 | [Stava Bene](https://open.spotify.com/track/19IVlD9YCOcPNaonf2YNNT) | [RedStar](https://open.spotify.com/artist/5KrsMlfx8tbhq2GjZo0KP5), [Mc Artisan](https://open.spotify.com/artist/24XkH7tJDFfDrOLlONiy7S) | [صنع بسحر](https://open.spotify.com/album/1nVZ0Q37nv6whKbONk0Gxu) | 3:44 | 2024-02-24 | 2024-04-19 |
 | [Sur La Tête De Ma Mère](https://open.spotify.com/track/6FdXUFCdk2oTBltsS216gC) | [Soldjvt](https://open.spotify.com/artist/1vLZfHcyqW1vBDy93tdTYV) | [Sur La Tête De Ma Mère](https://open.spotify.com/album/3nktcC8HVPUiJP5cdUYnJh) | 3:03 | 2024-02-24 |  |

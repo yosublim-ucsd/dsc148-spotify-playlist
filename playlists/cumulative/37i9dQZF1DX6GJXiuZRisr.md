@@ -4,7 +4,7 @@
 
 > Progressive <a href="spotify:genre:edm\_dance">house</a> music for the late night highway.
 
-489 songs - 1 day 10 hr 35 min
+490 songs - 1 day 10 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,6 +184,7 @@
 | [Heartbeat](https://open.spotify.com/track/6autWijbEdpktfTNI5fkx5) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Heartbeat](https://open.spotify.com/album/0mZhESlUF6AQ9aUAer6LI1) | 3:01 | 2024-05-17 |  |
 | [Heartbreak](https://open.spotify.com/track/5HopfU98O15r6TiQorUxSD) | [Jack Wins](https://open.spotify.com/artist/5v8ZROs9c26k4yGMxUkebt), [SHELLS](https://open.spotify.com/artist/1ZwuShKjJItDJez0aDCsxN) | [Heartbreak](https://open.spotify.com/album/5bcLZ1o7ub4dgrVhaQBlDG) | 2:50 | 2022-08-19 | 2022-11-20 |
 | [Hero](https://open.spotify.com/track/5XAQO5MN3T7Z5ecAAql0JV) | [Estiva](https://open.spotify.com/artist/1ltDgA6tV4utKM6y1BOYIE), [Dezza](https://open.spotify.com/artist/3p7y4jD6cIfONGyx6xaFik) | [Spectacle](https://open.spotify.com/album/6TABqazLHONbP5kyTWIFW1) | 3:13 | 2021-05-07 | 2023-03-29 |
+| [Hey Boy Hey Girl \- ARTBAT Remix](https://open.spotify.com/track/6ncIQAyVDdHePrHc8HxIjv) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo), [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1) | [Hey Boy Hey Girl \(ARTBAT Remix\)](https://open.spotify.com/album/5iPUTw7ZqnL3X53FdUVWmz) | 3:12 | 2024-05-24 |  |
 | [Hide and Seek \- Le Youth Remix](https://open.spotify.com/track/6uSLLJJ5r936DO1SASSViy) | [Catie Turner](https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa), [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx) | [Hide and Seek \(Le Youth Remix\)](https://open.spotify.com/album/0scTzt9c9pgTQJM5jPthaO) | 3:51 | 2021-05-07 | 2023-11-18 |
 | [Higher](https://open.spotify.com/track/2pW8MxDV77hQvyxjL3tgKi) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO), [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W) | [The Remixes](https://open.spotify.com/album/0SI7sJIrvhZtGbUo97t0aX) | 3:36 | 2023-08-11 |  |
 | [Higher](https://open.spotify.com/track/7pBUtlTE8IJZ6mvKloa6T0) | [Matt Fax](https://open.spotify.com/artist/1XgI1X3xjXCKRP1ZjhqgkV), [Boxer](https://open.spotify.com/artist/2BCF7CstRXVyyH72etqztG) | [Higher](https://open.spotify.com/album/6dfeKG9t94b3SZGdESfAqn) | 3:48 | 2022-01-14 | 2022-07-29 |
@@ -472,7 +473,7 @@
 | [Voye](https://open.spotify.com/track/54GMmWJvKU8o1BrGB1NaqO) | [Enamour](https://open.spotify.com/artist/6D1PUSzHf2Z4jTFIdhjJoO) | [Voye/Culture Is Chaos](https://open.spotify.com/album/5SGkJqdh31fCP50j2boyrv) | 4:34 | 2021-05-07 | 2022-04-17 |
 | [Waiting For You](https://open.spotify.com/track/67cSFn3SLBoKqGW20bswdw) | [Anabel Englund](https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c), [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Waiting For You](https://open.spotify.com/album/6nNwHKu6VPH8XNSoLXOyGg) | 3:45 | 2021-07-30 | 2022-08-15 |
 | [Warehouse](https://open.spotify.com/track/2wER3gVMMIWPusxOjoWlcQ) | [Oliver Smith](https://open.spotify.com/artist/2Npo4Cfm48M2uKlvxiXMic) | [Warehouse](https://open.spotify.com/album/5nMBgawIQbyTWNeQ5HVXxK) | 4:06 | 2021-05-07 | 2022-08-15 |
-| [Warrior](https://open.spotify.com/track/5cjbk2qAP4pWvntOySll30) | [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp) | [Warrior](https://open.spotify.com/album/6Ajxy3TSyqd7mZJI4QELXl) | 3:25 | 2024-04-26 |  |
+| [Warrior](https://open.spotify.com/track/5cjbk2qAP4pWvntOySll30) | [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp) | [Warrior](https://open.spotify.com/album/6Ajxy3TSyqd7mZJI4QELXl) | 3:25 | 2024-04-26 | 2024-05-25 |
 | [Waves of the Soul](https://open.spotify.com/track/3pIFT7NY5IjtUoLlD1kWOt) | [Massane](https://open.spotify.com/artist/0cjvrTtv350Ls87eGY80iz) | [Waves of the Soul](https://open.spotify.com/album/3j0ZhOcH3kccfgsVKUa7mL) | 3:32 | 2022-06-03 | 2022-07-29 |
 | [Way I Feel](https://open.spotify.com/track/56zUjcO1ep1a2tS6G1gjla) | [Return Of The Jaded](https://open.spotify.com/artist/0eWRTAqa2LtWcunkLFL4sS) | [Way I Feel](https://open.spotify.com/album/6ouvdn2AWrVovdXIbGaqOi) | 3:57 | 2021-11-19 | 2022-07-26 |
 | [Weight Of The World](https://open.spotify.com/track/7tjxcrVxHH7fPvkTdcqFcB) | [Going Deeper](https://open.spotify.com/artist/2SHmJ9pvh1h1TXu2WulzL4), [Danny Dearden](https://open.spotify.com/artist/52kE0a8ilvPQop3NN7tplj) | [Weight Of The World](https://open.spotify.com/album/2KR80RxGPkUTDb9o2aPPH5) | 3:30 | 2021-05-07 | 2022-04-18 |

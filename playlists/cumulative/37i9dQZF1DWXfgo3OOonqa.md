@@ -4,7 +4,7 @@
 
 > Håll det 100.
 
-1,471 songs - 2 day 16 hr 26 min
+1,472 songs - 2 day 16 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -853,6 +853,7 @@
 | [Ma chérie](https://open.spotify.com/track/1ILnuJSm8ScyNAlaWdn8fx) | [Lelo](https://open.spotify.com/artist/4GeZOI31ZG8C6PvdAk8Lbw), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [Ma chérie](https://open.spotify.com/album/1ImQaimhAPnEMnvpetjoFm) | 2:55 | 2023-02-16 | 2023-04-21 |
 | [Ma Luv](https://open.spotify.com/track/3WqNXP1hDDDbYDZyM6WW3a) | [GULEED](https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5) | [Ma Luv](https://open.spotify.com/album/3cttM63PQAPP7zb32WGpc3) | 2:40 | 2024-02-15 | 2024-03-01 |
 | [MA TINSÄNI](https://open.spotify.com/track/7b9DNLoGVzpxv1yRugBPWg) | [Jazlin](https://open.spotify.com/artist/2PXGoeN12YqSbK0fCpSPPl) | [MA TINSÄNI](https://open.spotify.com/album/59qPPpQLTU8kCP1cqDQbcI) | 2:12 | 2023-08-26 | 2023-12-08 |
+| [Made Nigga](https://open.spotify.com/track/0iRJcsr0WyHqhJSWN9aMru) | [JB](https://open.spotify.com/artist/6Xln2zf2OkGDhFKUQcw1yB) | [Försöker Hitta Hem](https://open.spotify.com/album/1Dl3Mu1BQODg31Nw8c2vJW) | 2:24 | 2024-05-23 |  |
 | [MAGAZINE](https://open.spotify.com/track/41up0oLKR7aV5FWJcB0Z3F) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ), [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7) | [MAGAZINE](https://open.spotify.com/album/6BRicQSOjuznb15diXZ2wD) | 2:37 | 2022-09-08 | 2022-11-04 |
 | [Magic](https://open.spotify.com/track/3irxSh2ZXZCje8VrlizdBo) | [Seedy](https://open.spotify.com/artist/1iQU1h00vZTEnTiqL15gVv), [Kayen](https://open.spotify.com/artist/3ntW47aiIFFvi4glmmP8a1) | [Magic](https://open.spotify.com/album/2Q0PRojnW0cbNXH5GixiFW) | 2:14 | 2023-06-17 | 2023-07-21 |
 | [Makine](https://open.spotify.com/track/2p5aqtJ05qtjlnEflc12h9) | [SINAN](https://open.spotify.com/artist/3pvc2tagjnl9pGIi6BBfIS), [Dilly D](https://open.spotify.com/artist/4dpsCdvMMSKcvNref2AMCZ) | [Makine](https://open.spotify.com/album/0rtIGqQNC1ctaZfLPkXoUk) | 2:10 | 2023-05-18 | 2023-06-16 |

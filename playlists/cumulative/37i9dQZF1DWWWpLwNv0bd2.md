@@ -2,9 +2,9 @@
 
 ### [Latest Love Tamil](https://open.spotify.com/playlist/37i9dQZF1DWWWpLwNv0bd2)
 
-> Check out the Latest Romance Tracks.<br/>Cover : STAR
+> Check out the Latest Romance Tracks.<br/>Cover : Raayan
 
-227 songs - 14 hr 57 min
+228 songs - 15 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -229,6 +229,7 @@
 | [Velagaadha \- From "Lover"](https://open.spotify.com/track/0KTyfuhoHpgiC9KMyQ4uMg) | [Sean Roldan](https://open.spotify.com/artist/3TUNkjIHkcvEy9oeK2D4hU), [Kapil Kapilan](https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2), [Mohan Rajan](https://open.spotify.com/artist/5ZBar35f3oB1F9TcWAa3ma) | [Velagaadha \(From "Lover"\)](https://open.spotify.com/album/03aHFYMBRVpssw2YjQYPKa) | 3:22 | 2024-01-03 |  |
 | [Veyyon Silli \(From "Soorarai Pottru"\)](https://open.spotify.com/track/2gqapLp6Br7jcR1QQNBVFz) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Harish Sivaramakrishnan](https://open.spotify.com/artist/3B3pVT24J4ROpfNDEqmEt2) | [Veyyon Silli \(From "Soorarai Pottru"\)](https://open.spotify.com/album/1oA5gS57LrStSzavWwXZHx) | 5:04 | 2021-11-29 | 2022-06-21 |
 | [Vintage Love \(From "Star"\)](https://open.spotify.com/track/0lttJ9CNuTWRojQmg9ytla) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy) | [Vintage Love \(From "Star"\)](https://open.spotify.com/album/3nq5Ll8c03wZ8jlTulsfHO) | 3:27 | 2024-04-05 |  |
+| [Water Packet \(From "Raayan"\)](https://open.spotify.com/track/1hHrBEkN0JIaeFPegy4Xak) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Shweta Mohan](https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9), [Gana Kadhar](https://open.spotify.com/artist/0T487EE91kx2O8oGPO8Krh), [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6) | [Water Packet \(From "Raayan"\)](https://open.spotify.com/album/7JFHHTttxtJtGG9S2lAfob) | 4:06 | 2024-05-24 |  |
 | [Yaaraiyum Ivlo Azhaga \- From "Sulthan"](https://open.spotify.com/track/6PDkbkVKBCMIwm1wlDhT3s) | [Vivek \- Mervin](https://open.spotify.com/artist/4hBCDHUWTljP6BDl5AekgW), [Silambarasan TR](https://open.spotify.com/artist/5Hn84AFwiTEi8eMoI5B9AS) | [Yaaraiyum Ivlo Azhaga \(From "Sulthan"\)](https://open.spotify.com/album/5MNzOtjJZh98O2uNICovAo) | 4:58 | 2021-11-29 | 2022-10-19 |
 | [Yaaro Yaaro Iva \- From "Pattathu Arasan"](https://open.spotify.com/track/2PLN6smipRqWw3gzKtqoTx) | [Ghibran](https://open.spotify.com/artist/3jw2v5ZbSWBinNaECXq8cJ), [Yazin Nizar](https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX), [Mani Amudhavan](https://open.spotify.com/artist/1kSTKro0qSNVuTIzuS6LQa) | [Yaaro Yaaro Iva \(From "Pattathu Arasan"\)](https://open.spotify.com/album/1CbNcQqjEjQfPScUB3MYbp) | 3:37 | 2022-11-16 | 2023-02-16 |
 | [Yaarum Kaanadha \(From "Fight Club"\)](https://open.spotify.com/track/0eZhnyCegKvjpjwInI7veG) | [Govind Vasantha](https://open.spotify.com/artist/5AWtJTaoFmLLrPwDR5dLPB), [Kapil Kapilan](https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2), [Keerthana Vaidyanathan](https://open.spotify.com/artist/4L2JVt0fmwYdNB6TsKSyd8) | [Yaarum Kaanadha \(From "Fight Club"\)](https://open.spotify.com/album/2US3NIwQ7DavSK8mODYRIJ) | 3:40 | 2023-12-14 |  |

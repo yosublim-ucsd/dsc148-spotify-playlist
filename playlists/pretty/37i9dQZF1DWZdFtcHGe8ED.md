@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdFtcHGe8ED.md) - [plain]
 
 > All the greatest Thrash tunes \- from classics to the best new tracks\. Cover: Anthrax
 
-[Spotify](https://open.spotify.com/user/spotify) - 545,198 likes - 120 songs - 8 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 545,275 likes - 120 songs - 8 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,10 +109,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdFtcHGe8ED.md) - [plain]
 | 99 | [Kill the Silence](https://open.spotify.com/track/224yEQIVV5jtW5sFX1f0GO) | [Nervosa](https://open.spotify.com/artist/5D9d9xyLNQu32QVD9t4YqH) | [Downfall of Mankind](https://open.spotify.com/album/48Wg0oCUOO87Yr5ZGeM8aj) | 3:29 |
 | 100 | [Lowlife](https://open.spotify.com/track/5BPPlNliU7Ddz1uU20MQcG) | [Cryptic Slaughter](https://open.spotify.com/artist/20ml1U2ibB2HPnPpWrJIKT) | [Convicted](https://open.spotify.com/album/7mHgdfVzpEFJ3w5ZMM1Ehv) | 2:32 |
 | 101 | [Masked Jackal](https://open.spotify.com/track/2pjI7phMrTO2KOJCqCkHIU) | [Coroner](https://open.spotify.com/artist/7lfdXL6PuTM5iWJNvI7PPV) | [Punishment for Decadence](https://open.spotify.com/album/2o6XqegTow2rfyKM9UglBX) | 4:47 |
-| 102 | [Aita](https://open.spotify.com/track/0TfZAE7oV7Zv56crYu5m0K) | [Korpiklaani](https://open.spotify.com/artist/521Yl3LUvD7G9dMRO4fpCy) | [Aita](https://open.spotify.com/album/78zNb7zhpXPx2IxLz4vZKz) | 3:47 |
-| 103 | [Certain Death](https://open.spotify.com/track/6K6bdBIpKj3pL0IrA4b1Kt) | [Sadus](https://open.spotify.com/artist/2J1GmSL3D47TR4TdFYs2hu) | [Chemical Exposure](https://open.spotify.com/album/7pWX1741ZblBq93ZAEPLQT) | 4:14 |
+| 102 | [Certain Death](https://open.spotify.com/track/6K6bdBIpKj3pL0IrA4b1Kt) | [Sadus](https://open.spotify.com/artist/2J1GmSL3D47TR4TdFYs2hu) | [Chemical Exposure](https://open.spotify.com/album/7pWX1741ZblBq93ZAEPLQT) | 4:14 |
+| 103 | [Voyage Of The Disturbed](https://open.spotify.com/track/4SNmIjbSWwYlqB6HV3GiFp) | [Mortal Sin](https://open.spotify.com/artist/3Pxc8FkiGcuuVhE2WcHb7g) | [Face of Despair](https://open.spotify.com/album/2d4iPSQfwwQZDN5F4woNvi) | 5:06 |
 | 104 | [Agents of Steel](https://open.spotify.com/track/7vhN8nkLJKIlQIfhp6gkuE) | [Agent Steel](https://open.spotify.com/artist/1FQv3rI4iJPitbZiTxBGut) | [Skeptics Apocalypse](https://open.spotify.com/album/33w5Y1NMYvaifunYJJtDCT) | 3:03 |
-| 105 | [Voyage Of The Disturbed](https://open.spotify.com/track/4SNmIjbSWwYlqB6HV3GiFp) | [Mortal Sin](https://open.spotify.com/artist/3Pxc8FkiGcuuVhE2WcHb7g) | [Face of Despair](https://open.spotify.com/album/2d4iPSQfwwQZDN5F4woNvi) | 5:06 |
+| 105 | [Aita](https://open.spotify.com/track/0TfZAE7oV7Zv56crYu5m0K) | [Korpiklaani](https://open.spotify.com/artist/521Yl3LUvD7G9dMRO4fpCy) | [Aita](https://open.spotify.com/album/78zNb7zhpXPx2IxLz4vZKz) | 3:47 |
 | 106 | [Bestial Invasion](https://open.spotify.com/track/2TNiNhyFLXAjtBuVydgYfo) | [Destruction](https://open.spotify.com/artist/5d6KI8frPEo3qGsIL8Sak2) | [Infernal Overkill](https://open.spotify.com/album/6Alq1l8ezrAFtEK0tCWnZC) | 4:36 |
 | 107 | [Bombenhagel](https://open.spotify.com/track/4GQgQvZ00znkKCALpKhQSf) | [Sodom](https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM) | [Bombenhagel](https://open.spotify.com/album/3OWGH02j9Ituqld8RF4emS) | 6:06 |
 | 108 | [A New Land](https://open.spotify.com/track/4K21taEZsYaCLsWosMcqeq) | [Rage](https://open.spotify.com/artist/5TJVsWPUaJxBxWfVZQEt2x) | [Resurrection Day](https://open.spotify.com/album/4c91poPTEELsFj0yUPhoWl) | 3:50 |

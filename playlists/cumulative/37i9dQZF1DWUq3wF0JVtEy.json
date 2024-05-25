@@ -3698,7 +3698,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 141692,
       "name": "Hello",
       "url": "https://open.spotify.com/track/4Sl7FLTwgrbbBaGYEEJ9ee"
@@ -4086,6 +4086,24 @@
       "duration_ms": 153387,
       "name": "Hypnotize",
       "url": "https://open.spotify.com/track/4TRR5t5l0MJSqNJSeaOEXn"
+    },
+    {
+      "album": {
+        "name": "I DON'T KNOW",
+        "url": "https://open.spotify.com/album/117TpFRsOx0lQK6oqamSmv"
+      },
+      "artists": [
+        {
+          "name": "Julian Jordan",
+          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172519,
+      "name": "I DON'T KNOW",
+      "url": "https://open.spotify.com/track/5eYsvZMMvuBsxsSuGsyu8h"
     },
     {
       "album": {
@@ -4761,6 +4779,32 @@
     },
     {
       "album": {
+        "name": "Let Me Go",
+        "url": "https://open.spotify.com/album/2uHlocPTUywNEkgnvDW5vp"
+      },
+      "artists": [
+        {
+          "name": "Mark Bale",
+          "url": "https://open.spotify.com/artist/4zrsPs5wddzJnn6vSO2jlx"
+        },
+        {
+          "name": "Noel Holler",
+          "url": "https://open.spotify.com/artist/7GAYMj354pCJ0yazsS0ryj"
+        },
+        {
+          "name": "Alyshia",
+          "url": "https://open.spotify.com/artist/47YYkJaxYJZhqr12pTjkkw"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157080,
+      "name": "Let Me Go",
+      "url": "https://open.spotify.com/track/2FfkyfDcT0GWWUX7fr5MyQ"
+    },
+    {
+      "album": {
         "name": "Let Me Think About It Again",
         "url": "https://open.spotify.com/album/5BiDACecOtLeeDR7ElF7zz"
       },
@@ -4834,7 +4878,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 209062,
       "name": "Let's Rock",
       "url": "https://open.spotify.com/track/24rPV15ci9iOz0BRTX5ZKt"
@@ -7420,7 +7464,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-10",
+      "date_removed": null,
       "duration_ms": 153749,
       "name": "Ravers",
       "url": "https://open.spotify.com/track/5YWxunBgmnSlEq2xz49FqI"
@@ -7574,7 +7618,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 183095,
       "name": "RENEGADE MASTER",
       "url": "https://open.spotify.com/track/6HLzHv2ife0pITGSi8DLaA"

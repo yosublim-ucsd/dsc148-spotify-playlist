@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX697hr2C9QhQ.md) - [plain]
 
 > Rock Legends from Ireland\. Cover: Sinéad O'Connor
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,957 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,007 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX697hr2C9QhQ.md) - [plain]
 | 47 | [Parachute](https://open.spotify.com/track/12h3ZVYHOEMLBA3NDo5zGd) | [Something Happens](https://open.spotify.com/artist/6V7D7M2wECmGR8eBp9r4Kx) | [Stuck Together With God's Glue](https://open.spotify.com/album/0VC8DNqENeIyGehHX5nsuV) | 4:30 |
 | 48 | [Where's Me Jumper?](https://open.spotify.com/track/0wRBCcuhLoI85VbrPByx88) | [Sultans Of Ping F.C.](https://open.spotify.com/artist/6SdAlCpKHeAXKmNzvhuhSs), [Frank Mcnamara](https://open.spotify.com/artist/6gauCsjCSocvGc243BRdnT) | [Casual Sex In The Cineplex](https://open.spotify.com/album/3Nunc0C2S3K5heQ9VRQFPy) | 3:08 |
 | 49 | [Mary](https://open.spotify.com/track/29U5hgoEjrssTYJ9KeaFub) | [The 4 Of Us](https://open.spotify.com/artist/1Yr9lXq2m3KO4otqQKcllY), [Michael H\. Brauer](https://open.spotify.com/artist/2YUPBZYVy2KFNGeNILURg6) | [Songs For The Tempted](https://open.spotify.com/album/4GFXKDjclL9PwTnjrJiFpo) | 3:33 |
-| 50 | [Everything That Rises](https://open.spotify.com/track/4a0Ilq1skteEcXiZieqIBR) | [The Stunning](https://open.spotify.com/artist/1fEwGqdphBrvv5Vx79PjUi) | [Twice Around the World](https://open.spotify.com/album/54nsvKNwSLXa7YnkbgOExa) | 3:50 |
+| 50 | [This Is](https://open.spotify.com/track/0rmpVuNzKVMQXwSQGtNpt8) | [Aslan](https://open.spotify.com/artist/02pGsYqIR3RxXOflYYc4V7) | [Reeling In The Decades](https://open.spotify.com/album/4FLE3sQpCWW9zwB1HE7erQ) | 3:52 |
 
 Snapshot ID: `ZMF1kwAAAAA7m2f+sgof7qUAU1NGPFDt`

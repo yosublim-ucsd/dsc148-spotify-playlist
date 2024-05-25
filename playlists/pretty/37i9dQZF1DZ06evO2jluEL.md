@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2jluEL.md) - [plain]
 
 ### [This Is Ludmila Ferber](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2jluEL)
 
-> This is Ludmila Ferber\. The essential tracks, all in one playlist.
+> This is Ludmila Ferber\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,472 likes - 50 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,474 likes - 50 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,18 +14,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2jluEL.md) - [plain]
 | 4 | [Meu Prazer](https://open.spotify.com/track/1xWZv65Lh0soR16GOhTsoV) | [Ministério Koinonya de Louvor](https://open.spotify.com/artist/4HVKmt7N1MkZtPmsZPeTZg), [Márcio Pereira](https://open.spotify.com/artist/0qdCtA4DBrgIcS3hdL6ZcB), [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Adoração 7 \- Filho do Homem](https://open.spotify.com/album/6PHskQPBNPz0blL2d5MCit) | 5:07 |
 | 5 | [Doce Presença](https://open.spotify.com/track/1W9xebEJbpHSuER5BYfvLa) | [Fred Arrais](https://open.spotify.com/artist/4b6QClfbEvFpOu9Nuyun0Q), [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Doce Presença](https://open.spotify.com/album/47yy4zXeQJ7TY4c0MeXm4E) | 4:07 |
 | 6 | [Um Novo Começo](https://open.spotify.com/track/4Oc780FqTA7ZqnK9zeL3Tf) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Um Novo Começo](https://open.spotify.com/album/6rEjR0YsJAidJaRh9R8AqG) | 5:37 |
-| 7 | [Maravilhoso](https://open.spotify.com/track/5QLKWX0W2fcPqeuwG5pg2O) | [Ministério Koinonya de Louvor](https://open.spotify.com/artist/4HVKmt7N1MkZtPmsZPeTZg), [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Adoração 8 \- Maravilhoso És](https://open.spotify.com/album/05GWMnAUx5EJwpgUPvJnhL) | 4:32 |
-| 8 | [Aguenta Firme \- Ao Vivo](https://open.spotify.com/track/0NR9d8dB0sT21mIogGTUNj) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Adoração Profética 5: Coragem \(Ao Vivo\)](https://open.spotify.com/album/18vcxTw8s6ZkvAkU9ulcFP) | 6:08 |
+| 7 | [Aguenta Firme \- Ao Vivo](https://open.spotify.com/track/0NR9d8dB0sT21mIogGTUNj) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Adoração Profética 5: Coragem \(Ao Vivo\)](https://open.spotify.com/album/18vcxTw8s6ZkvAkU9ulcFP) | 6:08 |
+| 8 | [Maravilhoso](https://open.spotify.com/track/5QLKWX0W2fcPqeuwG5pg2O) | [Ministério Koinonya de Louvor](https://open.spotify.com/artist/4HVKmt7N1MkZtPmsZPeTZg), [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Adoração 8 \- Maravilhoso És](https://open.spotify.com/album/05GWMnAUx5EJwpgUPvJnhL) | 4:32 |
 | 9 | [Ouça e Tome Posse](https://open.spotify.com/track/6Oh73zhneF8DSBZ3K3qe9J) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Adoração Profética: Os Sonhos de Deus](https://open.spotify.com/album/0lv1AZvaQT3BNDV5PztLDX) | 5:26 |
 | 10 | [Sopra Espírito](https://open.spotify.com/track/5922FUTIiDyxgRZoJ9Chlp) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Deus É Bom Demais](https://open.spotify.com/album/6MogrOg46kXWjllw4gEbJN) | 5:32 |
 | 11 | [O Mover do Espírito](https://open.spotify.com/track/6hDhsbyAXQbHdCEo258lNP) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Cantarei para Sempre](https://open.spotify.com/album/714CqfPzokz27FP3pV8B0T) | 5:03 |
-| 12 | [Unção Sem Limites](https://open.spotify.com/track/5TFqXjqtCGvqxA9WSmgjPR) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Pérolas da Adoração \- Músicas que Marcaram a Nossa História](https://open.spotify.com/album/5OMvO6gJEnRda4CEV6T7mL) | 5:16 |
-| 13 | [Buscar Tua Face é Preciso \- Ao Vivo](https://open.spotify.com/track/1EeHWzE395JKcIOuHeJ35G) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Adoração Profética 4: Nunca Pare de Lutar \(Ao Vivo\)](https://open.spotify.com/album/01yELzhEJBvdusztcyJX3k) | 6:35 |
+| 12 | [Buscar Tua Face é Preciso \- Ao Vivo](https://open.spotify.com/track/1EeHWzE395JKcIOuHeJ35G) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Adoração Profética 4: Nunca Pare de Lutar \(Ao Vivo\)](https://open.spotify.com/album/01yELzhEJBvdusztcyJX3k) | 6:35 |
+| 13 | [Unção Sem Limites](https://open.spotify.com/track/5TFqXjqtCGvqxA9WSmgjPR) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Pérolas da Adoração \- Músicas que Marcaram a Nossa História](https://open.spotify.com/album/5OMvO6gJEnRda4CEV6T7mL) | 5:16 |
 | 14 | [A Doçura do Teu Falar](https://open.spotify.com/track/3uOBqGrPcqIlcLFtvsqK7R) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Para Orar e Adorar: O Coração de Quem Adora](https://open.spotify.com/album/2n9IDWleJ5NPsWInxVMyKz) | 5:56 |
 | 15 | [Doce Presença](https://open.spotify.com/track/75eZ1vHWZB5KYCsSm70FHX) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [O Verdadeiro Amor](https://open.spotify.com/album/3V9Ew3aQ1Cq86tUlMaJ5Ga) | 3:32 |
 | 16 | [Maior é Jesus](https://open.spotify.com/track/3kXERD0Bbh4gQYuObnB8lC) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Canções Inesquecíveis](https://open.spotify.com/album/4WfAu0Bd0G638EiZKCw4yO) | 5:11 |
-| 17 | [Nunca Pare De Lutar](https://open.spotify.com/track/3xcF4BD6UoNL3jqQ5xmV2V) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Nunca Pare de Lutar / Tua Graça Me Basta](https://open.spotify.com/album/2woKwrMEpv4ltwGp4cDa6D) | 7:39 |
-| 18 | [Maior é Jesus](https://open.spotify.com/track/2top1l3nzYWOeVWCssxoBx) | [Ministério Koinonya de Louvor](https://open.spotify.com/artist/4HVKmt7N1MkZtPmsZPeTZg), [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Adoração 11 \- O Ano da Graça](https://open.spotify.com/album/0TikZHgk6FGo9Aoo4KfKY1) | 3:40 |
+| 17 | [Maior é Jesus](https://open.spotify.com/track/2top1l3nzYWOeVWCssxoBx) | [Ministério Koinonya de Louvor](https://open.spotify.com/artist/4HVKmt7N1MkZtPmsZPeTZg), [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Adoração 11 \- O Ano da Graça](https://open.spotify.com/album/0TikZHgk6FGo9Aoo4KfKY1) | 3:40 |
+| 18 | [Nunca Pare De Lutar](https://open.spotify.com/track/3xcF4BD6UoNL3jqQ5xmV2V) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Nunca Pare de Lutar / Tua Graça Me Basta](https://open.spotify.com/album/2woKwrMEpv4ltwGp4cDa6D) | 7:39 |
 | 19 | [O Deserto Vale Ouro \(feat\. Fernanda Brum\)](https://open.spotify.com/track/5kMfmB02ngkeIwfI9FgXxZ) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn), [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Pra Me Alegrar](https://open.spotify.com/album/0gH7iDQNDPnJ5C4ynNNf4l) | 4:01 |
 | 20 | [Canção do Amigo](https://open.spotify.com/track/3uiy3qcfjRJFwhH68iR74V) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Canções Inesquecíveis](https://open.spotify.com/album/4WfAu0Bd0G638EiZKCw4yO) | 5:42 |
 | 21 | [Deus Conhece](https://open.spotify.com/track/3yhGDWHhhewie2l9sMr4Yp) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [O Poder de Aliança](https://open.spotify.com/album/4zsVqpHfZlhH5QChdJ14ab) | 4:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2jluEL.md) - [plain]
 | 49 | [Hoje Eu Só Quero Te Adorar \- Ao Vivo](https://open.spotify.com/track/1Q8voR558znVrDCaeCadPs) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Adoração Profética 4: Nunca Pare de Lutar \(Ao Vivo\)](https://open.spotify.com/album/01yELzhEJBvdusztcyJX3k) | 6:09 |
 | 50 | [Andar com Deus](https://open.spotify.com/track/4EUkoxg641qUnJ1yExWWUA) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Deus É Bom Demais](https://open.spotify.com/album/6MogrOg46kXWjllw4gEbJN) | 4:03 |
 
-Snapshot ID: `Zk01gAAAAADSVheERSRLWHhaoSbXdPuN`
+Snapshot ID: `Zk6HAAAAAADXoiIZQMXI56SrGr/Rg6uo`

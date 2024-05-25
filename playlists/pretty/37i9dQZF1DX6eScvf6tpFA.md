@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6eScvf6tpFA.md) - [plain]
 
 > <a href="spotify:artist:7o2Y6TQr9B0ynZGhUDAkyj">Lotic</a>'s favorite tracks\. Updated regularly\. Curated by Lotic\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,204 likes - 81 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,205 likes - 81 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Flexer](https://open.spotify.com/track/0ks4uYRJkY5jHRas2caXEu) | [London Hilll](https://open.spotify.com/artist/7cqLnc6zTajTX61F6SGA2A) | [Flexer](https://open.spotify.com/album/77fd8l7jAZ391CwLxiVOHR) | 2:21 |
+| 1 | [Flexer](https://open.spotify.com/track/0ks4uYRJkY5jHRas2caXEu) | [London Hill](https://open.spotify.com/artist/1GHGcTFOhjYspfN2UKhhY8) | [Flexer](https://open.spotify.com/album/77fd8l7jAZ391CwLxiVOHR) | 2:21 |
 | 2 | [Oblivious](https://open.spotify.com/track/1JyokA2F8V2Q3RHshyJB75) | [Lotic](https://open.spotify.com/artist/7o2Y6TQr9B0ynZGhUDAkyj) | [Water](https://open.spotify.com/album/7neio4srvDRACrUSTdpMMf) | 6:40 |
 | 3 | [Pedi](https://open.spotify.com/track/718LR2LTJEjk61pTBn2cOo) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Pedi](https://open.spotify.com/album/0sy5zTEXULEyswNOxnAoLU) | 2:05 |
 | 4 | [Rent Money \(feat\. Dave East\)](https://open.spotify.com/track/2lFIxJbGfhcAIz5tzacZdK) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [Dave East](https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5) | [Rent Money \(feat\. Dave East\)](https://open.spotify.com/album/2e6qv6myguUFVoLfsjHZ1w) | 3:49 |

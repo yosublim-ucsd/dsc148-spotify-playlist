@@ -2,7 +2,7 @@
 
 ### [This Is Joan Sebastian](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4xC36w)
 
-> This is Joan Sebastian\. The essential tracks, all in one playlist.
+> This is: Joan Sebastian\. Alle wichtigen Tracks in einer Playlist.
 
 60 songs - 3 hr 5 min
 

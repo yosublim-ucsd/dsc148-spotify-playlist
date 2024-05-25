@@ -1,28 +1,28 @@
 {
   "description": "next gen pop Cover: Camila Cabello & Lil Nas X",
-  "num_followers": 1309006,
+  "num_followers": 1308983,
   "original_name": "Pop Sauce",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zk3QMAAAAABSOgAljRybMXgxffejb7SD",
+  "snapshot_id": "ZlAQwAAAAAB9chuuHLHfTL6G4T6DHfNS",
   "tracks": [
     {
-      "added_at": "2024-05-17 04:00:00",
+      "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "HIT ME HARD AND SOFT",
-        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+        "name": "Turn it up",
+        "url": "https://open.spotify.com/album/53oYO35gOzGGGINKHB8cd0"
       },
       "artists": [
         {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
         }
       ],
-      "duration_ms": 179586,
-      "name": "LUNCH",
-      "url": "https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE"
+      "duration_ms": 147020,
+      "name": "Turn it up",
+      "url": "https://open.spotify.com/track/1YhNljrEyPYaYNgBNsWap5"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -43,6 +43,38 @@
       "duration_ms": 181840,
       "name": "HE KNOWS (feat. Lil Nas X)",
       "url": "https://open.spotify.com/track/6G53gri09h5KXRegSCcWy9"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 179586,
+      "name": "LUNCH",
+      "url": "https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "6 feet under",
+        "url": "https://open.spotify.com/album/7D7IUwxhCNgJSoSYrJpyqa"
+      },
+      "artists": [
+        {
+          "name": "kenzie",
+          "url": "https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg"
+        }
+      ],
+      "duration_ms": 159526,
+      "name": "6 feet under",
+      "url": "https://open.spotify.com/track/3yzjSBWNbB743QQhQKBMAG"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -113,24 +145,20 @@
       "url": "https://open.spotify.com/track/3SAga35lAPYdjj3qyfEsCF"
     },
     {
-      "added_at": "2024-05-10 04:00:00",
+      "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Woah!! (feat. kets4eki)",
-        "url": "https://open.spotify.com/album/0vCm9yXPMOX7BpLtuB0YjC"
+        "name": "Me vs. Me",
+        "url": "https://open.spotify.com/album/2ibQlGalU0J2XhYpeMkgqc"
       },
       "artists": [
         {
-          "name": "Sophie Powers",
-          "url": "https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI"
-        },
-        {
-          "name": "kets4eki",
-          "url": "https://open.spotify.com/artist/4waORdvuFnffJPrj784KeG"
+          "name": "Bea and her Business",
+          "url": "https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym"
         }
       ],
-      "duration_ms": 177000,
-      "name": "Woah!! (feat. kets4eki)",
-      "url": "https://open.spotify.com/track/3EgRznELSayrCj19aGYRic"
+      "duration_ms": 177773,
+      "name": "Sunburnt Shoulders",
+      "url": "https://open.spotify.com/track/1e8JjEsphQZkxK5XURPzYC"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -179,6 +207,22 @@
       "duration_ms": 175075,
       "name": "Weatherman",
       "url": "https://open.spotify.com/track/4yEkhMRfKJVYVgFmO1dLuj"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "SLOW DOWN",
+        "url": "https://open.spotify.com/album/5Ej7j1DuYx8vqML3Ewtxtx"
+      },
+      "artists": [
+        {
+          "name": "Jessica Baio",
+          "url": "https://open.spotify.com/artist/0VMFTqmv0hYlWruyBERT95"
+        }
+      ],
+      "duration_ms": 148263,
+      "name": "SLOW DOWN",
+      "url": "https://open.spotify.com/track/0RnKHcb6dnWIBBuiipNx2o"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -277,6 +321,42 @@
       "url": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"
     },
     {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
+        "name": "Woah!! (feat. kets4eki)",
+        "url": "https://open.spotify.com/album/0vCm9yXPMOX7BpLtuB0YjC"
+      },
+      "artists": [
+        {
+          "name": "Sophie Powers",
+          "url": "https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI"
+        },
+        {
+          "name": "kets4eki",
+          "url": "https://open.spotify.com/artist/4waORdvuFnffJPrj784KeG"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "Woah!! (feat. kets4eki)",
+      "url": "https://open.spotify.com/track/3EgRznELSayrCj19aGYRic"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 210373,
+      "name": "BIRDS OF A FEATHER",
+      "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
+    },
+    {
       "added_at": "2024-04-05 04:01:00",
       "album": {
         "name": "Good Luck, Babe!",
@@ -291,6 +371,22 @@
       "duration_ms": 218423,
       "name": "Good Luck, Babe!",
       "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Turn The TV On",
+        "url": "https://open.spotify.com/album/7IjALOKHOTM6RGhhXJFwPF"
+      },
+      "artists": [
+        {
+          "name": "Debbii Dawson",
+          "url": "https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh"
+        }
+      ],
+      "duration_ms": 179346,
+      "name": "Turn The TV On",
+      "url": "https://open.spotify.com/track/1HQg5OfC2cfVO5Pv9KU0vE"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -325,20 +421,20 @@
       "url": "https://open.spotify.com/track/6tNgRQ0K2NYZ0Rb9l9DzL8"
     },
     {
-      "added_at": "2024-05-17 04:00:00",
+      "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "HIT ME HARD AND SOFT",
-        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+        "name": "Hero",
+        "url": "https://open.spotify.com/album/62wSbbJY50qycn9uBP4rIC"
       },
       "artists": [
         {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
         }
       ],
-      "duration_ms": 210373,
-      "name": "BIRDS OF A FEATHER",
-      "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
+      "duration_ms": 196752,
+      "name": "Hero",
+      "url": "https://open.spotify.com/track/5TTyyKNJZHONhjtAiXL1nG"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -357,56 +453,20 @@
       "url": "https://open.spotify.com/track/46kspZSY3aKmwQe7O77fCC"
     },
     {
-      "added_at": "2024-04-19 04:00:00",
+      "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Happy World",
-        "url": "https://open.spotify.com/album/6fFP8CR3WRLZxwnrvBfGTh"
+        "name": "Right Place, Wrong Person",
+        "url": "https://open.spotify.com/album/512dQp7hBbDDurodCqSw5I"
       },
       "artists": [
         {
-          "name": "Debbii Dawson",
-          "url": "https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh"
+          "name": "RM",
+          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
         }
       ],
-      "duration_ms": 179993,
-      "name": "Happy World",
-      "url": "https://open.spotify.com/track/0kY86R5mW1Js0jymCs8Wfp"
-    },
-    {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
-        "name": "Who's Gonna",
-        "url": "https://open.spotify.com/album/4PJdPJ45GyTzBrKYgJIheH"
-      },
-      "artists": [
-        {
-          "name": "LU KALA",
-          "url": "https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg"
-        }
-      ],
-      "duration_ms": 178027,
-      "name": "Who's Gonna",
-      "url": "https://open.spotify.com/track/2X3xur7x1K5PYiWrzJfM1O"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "close to you",
-        "url": "https://open.spotify.com/album/6x0gUHUpKPbMlzoQEaNaHL"
-      },
-      "artists": [
-        {
-          "name": "kenzie",
-          "url": "https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg"
-        },
-        {
-          "name": "ASTN",
-          "url": "https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co"
-        }
-      ],
-      "duration_ms": 160800,
-      "name": "close to you",
-      "url": "https://open.spotify.com/track/1sxEFo3yp89PYwBP8qRmkh"
+      "duration_ms": 233013,
+      "name": "LOST!",
+      "url": "https://open.spotify.com/track/02H58MSfVESkKyx4diDgu7"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -423,6 +483,22 @@
       "duration_ms": 188143,
       "name": "Illusion",
       "url": "https://open.spotify.com/track/59xD5osEFsaNt5PXfIKUnX"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "Cursed Romantics",
+        "url": "https://open.spotify.com/album/0JKztCLBEY4jKjVSQBWeGE"
+      },
+      "artists": [
+        {
+          "name": "Maude Latour",
+          "url": "https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62"
+        }
+      ],
+      "duration_ms": 190942,
+      "name": "Cursed Romantics",
+      "url": "https://open.spotify.com/track/5492WJL5APlDdZFOjn0PxK"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -457,22 +533,6 @@
       "url": "https://open.spotify.com/track/7hcNXgnBncyybhQVhTFNd7"
     },
     {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "hair down",
-        "url": "https://open.spotify.com/album/5djAY9zWdFiHnzrpcyV7R5"
-      },
-      "artists": [
-        {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 210027,
-      "name": "hair down",
-      "url": "https://open.spotify.com/track/1E7ernXLGM9tS7Ng5fNycn"
-    },
-    {
       "added_at": "2024-02-16 05:00:00",
       "album": {
         "name": "Austin",
@@ -487,22 +547,6 @@
       "duration_ms": 171782,
       "name": "Austin",
       "url": "https://open.spotify.com/track/4NJqhmkGN042BrvHoMKUrJ"
-    },
-    {
-      "added_at": "2024-04-02 14:47:40",
-      "album": {
-        "name": "favorite",
-        "url": "https://open.spotify.com/album/6pngQ1BGnsddTXtAJQUkF7"
-      },
-      "artists": [
-        {
-          "name": "Isabel LaRosa",
-          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
-        }
-      ],
-      "duration_ms": 133608,
-      "name": "favorite",
-      "url": "https://open.spotify.com/track/3QJsSWa0Xo8MfaRn1gr4Be"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -589,6 +633,22 @@
       "url": "https://open.spotify.com/track/1Gp3vNi64EY7sEStAZ51en"
     },
     {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
+        "name": "Who's Gonna",
+        "url": "https://open.spotify.com/album/4PJdPJ45GyTzBrKYgJIheH"
+      },
+      "artists": [
+        {
+          "name": "LU KALA",
+          "url": "https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg"
+        }
+      ],
+      "duration_ms": 178027,
+      "name": "Who's Gonna",
+      "url": "https://open.spotify.com/track/2X3xur7x1K5PYiWrzJfM1O"
+    },
+    {
       "added_at": "2024-04-05 04:01:00",
       "album": {
         "name": "Small Town Scandal",
@@ -603,22 +663,6 @@
       "duration_ms": 210893,
       "name": "Small Town Scandal",
       "url": "https://open.spotify.com/track/56yiEEYcSMw27ujiSyVzCS"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Cursed Romantics",
-        "url": "https://open.spotify.com/album/0JKztCLBEY4jKjVSQBWeGE"
-      },
-      "artists": [
-        {
-          "name": "Maude Latour",
-          "url": "https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62"
-        }
-      ],
-      "duration_ms": 190942,
-      "name": "Cursed Romantics",
-      "url": "https://open.spotify.com/track/5492WJL5APlDdZFOjn0PxK"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -637,20 +681,20 @@
       "url": "https://open.spotify.com/track/1WLpHzABY3TFLkOQoU4bDW"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Drama in Doses",
-        "url": "https://open.spotify.com/album/6FIHQn3metCrRMo2q8XpLc"
+        "name": "Happy World",
+        "url": "https://open.spotify.com/album/6fFP8CR3WRLZxwnrvBfGTh"
       },
       "artists": [
         {
-          "name": "Sid Dorey",
-          "url": "https://open.spotify.com/artist/6UcErG934cEadG4q16v37T"
+          "name": "Debbii Dawson",
+          "url": "https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh"
         }
       ],
-      "duration_ms": 168857,
-      "name": "Drama in Doses",
-      "url": "https://open.spotify.com/track/2LbcamjmZDFMOj6dNVaIwA"
+      "duration_ms": 179993,
+      "name": "Happy World",
+      "url": "https://open.spotify.com/track/0kY86R5mW1Js0jymCs8Wfp"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1093,22 +1137,6 @@
       "url": "https://open.spotify.com/track/2U0Zowgw2tgJXu5K56i4Q4"
     },
     {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Jennifer's Body",
-        "url": "https://open.spotify.com/album/1HekaZKhXgi9JpGFODnmHF"
-      },
-      "artists": [
-        {
-          "name": "Nxdia",
-          "url": "https://open.spotify.com/artist/0Dkj3iE06TJGxGIrGCmwVf"
-        }
-      ],
-      "duration_ms": 117430,
-      "name": "Jennifer's Body",
-      "url": "https://open.spotify.com/track/176fR2MtPlctufVYwqoW1j"
-    },
-    {
       "added_at": "2024-04-05 04:01:00",
       "album": {
         "name": "Close My Eyes",
@@ -1365,22 +1393,6 @@
       "url": "https://open.spotify.com/track/3i3yFaIwk9ATfh20Jq9UX0"
     },
     {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Better On Mute",
-        "url": "https://open.spotify.com/album/11cXlTcVE4u0BTEm6YID09"
-      },
-      "artists": [
-        {
-          "name": "Sophie Powers",
-          "url": "https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI"
-        }
-      ],
-      "duration_ms": 157782,
-      "name": "Better On Mute",
-      "url": "https://open.spotify.com/track/4PUoS8YRJCKdG76cYjbdpL"
-    },
-    {
       "added_at": "2024-03-01 05:00:00",
       "album": {
         "name": "Iconique",
@@ -1625,22 +1637,6 @@
       "url": "https://open.spotify.com/track/4O8KIGH2v0z5yR20nzFrWv"
     },
     {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Mirror (Deluxe)",
-        "url": "https://open.spotify.com/album/5mm7YZkfxMlprJTOJEWfxq"
-      },
-      "artists": [
-        {
-          "name": "Lauren Spencer Smith",
-          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
-        }
-      ],
-      "duration_ms": 175550,
-      "name": "Sad Forever",
-      "url": "https://open.spotify.com/track/63jCeAYGLcRL21xm0jKlgn"
-    },
-    {
       "added_at": "2024-04-26 04:00:00",
       "album": {
         "name": "Try Again",
@@ -1655,22 +1651,6 @@
       "duration_ms": 211242,
       "name": "Try Again",
       "url": "https://open.spotify.com/track/2Jdo2UwlQMc0AySBT7T2EZ"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
-        "name": "Two Hands",
-        "url": "https://open.spotify.com/album/14ISDS5Xh5QsS8NZN6H20l"
-      },
-      "artists": [
-        {
-          "name": "Astrid S",
-          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
-        }
-      ],
-      "duration_ms": 182733,
-      "name": "Two Hands",
-      "url": "https://open.spotify.com/track/523F1pQJh1P4JKvbVOgDU7"
     }
   ],
   "unique_name": "Pop Sauce",

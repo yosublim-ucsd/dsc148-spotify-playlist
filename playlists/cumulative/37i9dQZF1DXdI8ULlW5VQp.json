@@ -1842,7 +1842,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 127616,
       "name": "El estruendo",
       "url": "https://open.spotify.com/track/1Q4C6iN26GfC94W6QHZJ7T"
@@ -2078,6 +2078,24 @@
       "duration_ms": 241780,
       "name": "Entre T\u00fa y Yo",
       "url": "https://open.spotify.com/track/3mE3dc4gce6Z2KvKwJqHnh"
+    },
+    {
+      "album": {
+        "name": "Espacio Infinito",
+        "url": "https://open.spotify.com/album/4UaFgjr9ZGMvtX96fvSror"
+      },
+      "artists": [
+        {
+          "name": "Paola Meza",
+          "url": "https://open.spotify.com/artist/5njFdXuFrH8HzkBpoEFHy0"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210243,
+      "name": "Espacio Infinito",
+      "url": "https://open.spotify.com/track/5pTrvPMK10VcX8A6z8Q5Oa"
     },
     {
       "album": {

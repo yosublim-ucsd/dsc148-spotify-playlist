@@ -1,6 +1,6 @@
 {
   "description": "Canciones desenchufadas, en la intimidad del estudio o en el fuego del escenario. Foto: Ainda. ",
-  "num_followers": 184017,
+  "num_followers": 184054,
   "original_name": "Modo Ac\u00fastico",
   "owner": {
     "name": "Spotify",
@@ -643,6 +643,22 @@
     {
       "added_at": "2024-05-16 20:53:32",
       "album": {
+        "name": "Unplugged",
+        "url": "https://open.spotify.com/album/7vuvoAP3WxyXIvH64LDn1R"
+      },
+      "artists": [
+        {
+          "name": "Charly Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
+        }
+      ],
+      "duration_ms": 288200,
+      "name": "Rezo Por Vos - Live",
+      "url": "https://open.spotify.com/track/09owTrI1VnYKs5i1CCMnE2"
+    },
+    {
+      "added_at": "2024-05-16 20:53:32",
+      "album": {
         "name": "Musikita del Cielo",
         "url": "https://open.spotify.com/album/29ZPGvp5WB9BGPA2jleMoz"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 180500,
       "name": "Musikita del Cielo",
       "url": "https://open.spotify.com/track/1MXRVVSP19x3zTkqmD2MzF"
-    },
-    {
-      "added_at": "2024-05-16 20:53:32",
-      "album": {
-        "name": "Unplugged",
-        "url": "https://open.spotify.com/album/7vuvoAP3WxyXIvH64LDn1R"
-      },
-      "artists": [
-        {
-          "name": "Charly Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
-        }
-      ],
-      "duration_ms": 288200,
-      "name": "Rezo Por Vos - Live",
-      "url": "https://open.spotify.com/track/09owTrI1VnYKs5i1CCMnE2"
     },
     {
       "added_at": "2024-05-16 20:53:32",
@@ -799,6 +799,22 @@
     {
       "added_at": "2024-05-16 20:53:32",
       "album": {
+        "name": "No me pidas que no sea un inconsciente",
+        "url": "https://open.spotify.com/album/40RaXs4L3REotbG4aUQh9g"
+      },
+      "artists": [
+        {
+          "name": "Sir Hope",
+          "url": "https://open.spotify.com/artist/53TIYA7MKf5c5tgpI4gcEA"
+        }
+      ],
+      "duration_ms": 133859,
+      "name": "No me pidas que no sea un inconsciente",
+      "url": "https://open.spotify.com/track/7zHsLEE8CDXjzHyaw3Klc2"
+    },
+    {
+      "added_at": "2024-05-16 20:53:32",
+      "album": {
         "name": "Hay Momentos (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/6FKHKWtyIN49H0PHIiHhpG"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 279684,
       "name": "Hay Momentos - Ac\u00fastico",
       "url": "https://open.spotify.com/track/19KbiCmPqcAcG3sYMrWPzN"
-    },
-    {
-      "added_at": "2024-05-16 20:53:32",
-      "album": {
-        "name": "No me pidas que no sea un inconsciente",
-        "url": "https://open.spotify.com/album/40RaXs4L3REotbG4aUQh9g"
-      },
-      "artists": [
-        {
-          "name": "Sir Hope",
-          "url": "https://open.spotify.com/artist/53TIYA7MKf5c5tgpI4gcEA"
-        }
-      ],
-      "duration_ms": 133859,
-      "name": "No me pidas que no sea un inconsciente",
-      "url": "https://open.spotify.com/track/7zHsLEE8CDXjzHyaw3Klc2"
     },
     {
       "added_at": "2024-05-16 20:53:32",
@@ -899,18 +899,18 @@
     {
       "added_at": "2024-05-16 20:53:32",
       "album": {
-        "name": "Esta podr\u00eda ser la se\u00f1al",
-        "url": "https://open.spotify.com/album/5y5qNhfSQM4ip0yYRSdxaE"
+        "name": "Feroza",
+        "url": "https://open.spotify.com/album/3Ear2Vze1ZV4JDk4ZfWp2A"
       },
       "artists": [
         {
-          "name": "Papina de Palma",
-          "url": "https://open.spotify.com/artist/2bkcXTFPnDVBhj5s7YEDx3"
+          "name": "Feli Colina",
+          "url": "https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs"
         }
       ],
-      "duration_ms": 77890,
-      "name": "Timba",
-      "url": "https://open.spotify.com/track/7hEb4FubnwHYtQCT7of7Ub"
+      "duration_ms": 178756,
+      "name": "Susurrito",
+      "url": "https://open.spotify.com/track/7btTCfo8fyFOhqFXFdMi7b"
     },
     {
       "added_at": "2024-05-16 20:53:32",
@@ -935,18 +935,18 @@
     {
       "added_at": "2024-05-16 20:53:32",
       "album": {
-        "name": "Feroza",
-        "url": "https://open.spotify.com/album/3Ear2Vze1ZV4JDk4ZfWp2A"
+        "name": "Esta podr\u00eda ser la se\u00f1al",
+        "url": "https://open.spotify.com/album/5y5qNhfSQM4ip0yYRSdxaE"
       },
       "artists": [
         {
-          "name": "Feli Colina",
-          "url": "https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs"
+          "name": "Papina de Palma",
+          "url": "https://open.spotify.com/artist/2bkcXTFPnDVBhj5s7YEDx3"
         }
       ],
-      "duration_ms": 178756,
-      "name": "Susurrito",
-      "url": "https://open.spotify.com/track/7btTCfo8fyFOhqFXFdMi7b"
+      "duration_ms": 77890,
+      "name": "Timba",
+      "url": "https://open.spotify.com/track/7hEb4FubnwHYtQCT7of7Ub"
     },
     {
       "added_at": "2024-05-16 20:53:32",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2024-05-16 20:53:32",
       "album": {
-        "name": "MTV Unplugged",
-        "url": "https://open.spotify.com/album/3xB3SzIEkry77YmregfUHZ"
-      },
-      "artists": [
-        {
-          "name": "Diego Torres",
-          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
-        }
-      ],
-      "duration_ms": 250573,
-      "name": "Deja de Pedir Perd\u00f3n - MTV Unplugged",
-      "url": "https://open.spotify.com/track/2pRfK1DH705B1NL48C31ka"
-    },
-    {
-      "added_at": "2024-05-16 20:53:32",
-      "album": {
         "name": "BIG BANG",
         "url": "https://open.spotify.com/album/6B7FOMNgkV9mi9HjDm3NvS"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 183131,
       "name": "BIG BANG",
       "url": "https://open.spotify.com/track/7tAfeILKh4vMrLMTswA8Xf"
+    },
+    {
+      "added_at": "2024-05-16 20:53:32",
+      "album": {
+        "name": "MTV Unplugged",
+        "url": "https://open.spotify.com/album/3xB3SzIEkry77YmregfUHZ"
+      },
+      "artists": [
+        {
+          "name": "Diego Torres",
+          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
+        }
+      ],
+      "duration_ms": 250573,
+      "name": "Deja de Pedir Perd\u00f3n - MTV Unplugged",
+      "url": "https://open.spotify.com/track/2pRfK1DH705B1NL48C31ka"
     },
     {
       "added_at": "2024-05-16 20:53:32",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2024-05-16 20:53:32",
       "album": {
-        "name": "Las Plantas Crecen",
-        "url": "https://open.spotify.com/album/17mK7xiORNWE4ZZLqKznTV"
-      },
-      "artists": [
-        {
-          "name": "Perot\u00e1 Ching\u00f3",
-          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
-        }
-      ],
-      "duration_ms": 115029,
-      "name": "Las Plantas Crecen",
-      "url": "https://open.spotify.com/track/0sp03jNxMUhjqAEK8lz3yb"
-    },
-    {
-      "added_at": "2024-05-16 20:53:32",
-      "album": {
         "name": "Me Est\u00e1s Tratando Mal (Ac\u00fastico Gran Rex Vol. 2)",
         "url": "https://open.spotify.com/album/4rMbWu6f2RBLP6NxcsB3EM"
       },
@@ -1299,18 +1283,18 @@
     {
       "added_at": "2024-05-16 20:53:32",
       "album": {
-        "name": "Dije Que No Me Iba a Enamorar",
-        "url": "https://open.spotify.com/album/4xbpODmwG0GGAVbTA8PH8Y"
+        "name": "Las Plantas Crecen",
+        "url": "https://open.spotify.com/album/17mK7xiORNWE4ZZLqKznTV"
       },
       "artists": [
         {
-          "name": "Yami Safdie",
-          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
+          "name": "Perot\u00e1 Ching\u00f3",
+          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
         }
       ],
-      "duration_ms": 152520,
-      "name": "Tan Bien",
-      "url": "https://open.spotify.com/track/6CpH8zZLNEXLP0hGEMdKnu"
+      "duration_ms": 115029,
+      "name": "Las Plantas Crecen",
+      "url": "https://open.spotify.com/track/0sp03jNxMUhjqAEK8lz3yb"
     },
     {
       "added_at": "2024-05-16 20:53:32",
@@ -1331,6 +1315,22 @@
     {
       "added_at": "2024-05-16 20:53:32",
       "album": {
+        "name": "Dije Que No Me Iba a Enamorar",
+        "url": "https://open.spotify.com/album/4xbpODmwG0GGAVbTA8PH8Y"
+      },
+      "artists": [
+        {
+          "name": "Yami Safdie",
+          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
+        }
+      ],
+      "duration_ms": 152520,
+      "name": "Tan Bien",
+      "url": "https://open.spotify.com/track/6CpH8zZLNEXLP0hGEMdKnu"
+    },
+    {
+      "added_at": "2024-05-16 20:53:32",
+      "album": {
         "name": "Turf",
         "url": "https://open.spotify.com/album/0ZFSgOIzslnsomJl9HhXHV"
       },
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2024-05-16 20:53:32",
       "album": {
-        "name": "Tributo A Los Fabulosos Cadillacs",
-        "url": "https://open.spotify.com/album/124W0KG9oS8z7s7D8mGU76"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
-        }
-      ],
-      "duration_ms": 321433,
-      "name": "Vasos Vac\u00edos",
-      "url": "https://open.spotify.com/track/6P2KDyo8e74VfxeC1aAlFV"
-    },
-    {
-      "added_at": "2024-05-16 20:53:32",
-      "album": {
         "name": "Flotando (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/6ESGXcMWl63n7PzIzPdtxh"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 256708,
       "name": "Flotando (Ac\u00fastico)",
       "url": "https://open.spotify.com/track/1UmmEBHP4MKyExlob4MJbu"
+    },
+    {
+      "added_at": "2024-05-16 20:53:32",
+      "album": {
+        "name": "Tributo A Los Fabulosos Cadillacs",
+        "url": "https://open.spotify.com/album/124W0KG9oS8z7s7D8mGU76"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+        }
+      ],
+      "duration_ms": 321433,
+      "name": "Vasos Vac\u00edos",
+      "url": "https://open.spotify.com/track/6P2KDyo8e74VfxeC1aAlFV"
     },
     {
       "added_at": "2024-05-16 20:53:32",
@@ -1483,6 +1483,22 @@
     {
       "added_at": "2024-05-16 20:53:32",
       "album": {
+        "name": "Diecinueve",
+        "url": "https://open.spotify.com/album/2X7QgOXDviisukXhIrVt1k"
+      },
+      "artists": [
+        {
+          "name": "Manu Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/37P2y0CGo3jIcG0QIIJQfS"
+        }
+      ],
+      "duration_ms": 213105,
+      "name": "Fuimos",
+      "url": "https://open.spotify.com/track/6iaDLPWGJk8CIKMLkZU3HO"
+    },
+    {
+      "added_at": "2024-05-16 20:53:32",
+      "album": {
         "name": "Celesteacustica",
         "url": "https://open.spotify.com/album/1tQKUvIE5Hy2AAu5vQ42xe"
       },
@@ -1503,18 +1519,18 @@
     {
       "added_at": "2024-05-16 20:53:32",
       "album": {
-        "name": "Diecinueve",
-        "url": "https://open.spotify.com/album/2X7QgOXDviisukXhIrVt1k"
+        "name": "Hecho a la Antigua",
+        "url": "https://open.spotify.com/album/5HnvoKpp1JTDYP3SNWvl2V"
       },
       "artists": [
         {
-          "name": "Manu Mart\u00ednez",
-          "url": "https://open.spotify.com/artist/37P2y0CGo3jIcG0QIIJQfS"
+          "name": "Ricardo Arjona",
+          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
         }
       ],
-      "duration_ms": 213105,
-      "name": "Fuimos",
-      "url": "https://open.spotify.com/track/6iaDLPWGJk8CIKMLkZU3HO"
+      "duration_ms": 222643,
+      "name": "Dime Que No - Versi\u00f3n Ac\u00fastica",
+      "url": "https://open.spotify.com/track/5mDOxSFtO6zkQFUJfOsRA0"
     },
     {
       "added_at": "2024-05-16 20:53:32",
@@ -1535,18 +1551,18 @@
     {
       "added_at": "2024-05-16 20:53:32",
       "album": {
-        "name": "Hecho a la Antigua",
-        "url": "https://open.spotify.com/album/5HnvoKpp1JTDYP3SNWvl2V"
+        "name": "Romaphonic Sessions",
+        "url": "https://open.spotify.com/album/4WBgkA2GTBT6Vc2Eo7hjpl"
       },
       "artists": [
         {
-          "name": "Ricardo Arjona",
-          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
         }
       ],
-      "duration_ms": 222643,
-      "name": "Dime Que No - Versi\u00f3n Ac\u00fastica",
-      "url": "https://open.spotify.com/track/5mDOxSFtO6zkQFUJfOsRA0"
+      "duration_ms": 279994,
+      "name": "Paloma - Romaphonic",
+      "url": "https://open.spotify.com/track/6zSl32Slcz3R6guCdNIiIF"
     },
     {
       "added_at": "2024-05-16 20:53:32",
@@ -1567,38 +1583,6 @@
     {
       "added_at": "2024-05-16 20:53:32",
       "album": {
-        "name": "Romaphonic Sessions",
-        "url": "https://open.spotify.com/album/4WBgkA2GTBT6Vc2Eo7hjpl"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
-        }
-      ],
-      "duration_ms": 279994,
-      "name": "Paloma - Romaphonic",
-      "url": "https://open.spotify.com/track/6zSl32Slcz3R6guCdNIiIF"
-    },
-    {
-      "added_at": "2024-05-16 20:53:32",
-      "album": {
-        "name": "Abriendo Latidos",
-        "url": "https://open.spotify.com/album/5aA6xXb2YJGRjyPhx0orry"
-      },
-      "artists": [
-        {
-          "name": "LAR\u00d3",
-          "url": "https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri"
-        }
-      ],
-      "duration_ms": 194555,
-      "name": "Abriendo Latidos",
-      "url": "https://open.spotify.com/track/5PnoR6ebAhK7paJET1iv6a"
-    },
-    {
-      "added_at": "2024-05-16 20:53:32",
-      "album": {
         "name": "Ac\u00fastico,Teatro Opera, Buenos Aires, Argentina.",
         "url": "https://open.spotify.com/album/6j8Pylv9STVsYonxYxUoYE"
       },
@@ -1615,18 +1599,18 @@
     {
       "added_at": "2024-05-16 20:53:32",
       "album": {
-        "name": "AWCH (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/6gMcC5nNeCd8F4HmCSGnwf"
+        "name": "Abriendo Latidos",
+        "url": "https://open.spotify.com/album/5aA6xXb2YJGRjyPhx0orry"
       },
       "artists": [
         {
-          "name": "Angela Torres",
-          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
+          "name": "LAR\u00d3",
+          "url": "https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri"
         }
       ],
-      "duration_ms": 196004,
-      "name": "AWCH - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/4jFT1VnKshlmMFJYDXNlQL"
+      "duration_ms": 194555,
+      "name": "Abriendo Latidos",
+      "url": "https://open.spotify.com/track/5PnoR6ebAhK7paJET1iv6a"
     },
     {
       "added_at": "2024-05-16 20:53:32",
@@ -1651,6 +1635,22 @@
       "duration_ms": 206080,
       "name": "Voy Con Vos - En Vivo",
       "url": "https://open.spotify.com/track/1t3Op2vLVRwSVATVvJzHzR"
+    },
+    {
+      "added_at": "2024-05-16 20:53:32",
+      "album": {
+        "name": "AWCH (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/6gMcC5nNeCd8F4HmCSGnwf"
+      },
+      "artists": [
+        {
+          "name": "Angela Torres",
+          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
+        }
+      ],
+      "duration_ms": 196004,
+      "name": "AWCH - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4jFT1VnKshlmMFJYDXNlQL"
     },
     {
       "added_at": "2024-05-16 20:53:32",

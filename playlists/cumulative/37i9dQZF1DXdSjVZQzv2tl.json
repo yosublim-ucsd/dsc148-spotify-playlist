@@ -718,7 +718,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 124511,
       "name": "Canudinho - Ao Vivo",
       "url": "https://open.spotify.com/track/6AENBD8I0mDGglFqrRZGu7"
@@ -1771,6 +1771,28 @@
     },
     {
       "album": {
+        "name": "FALTA DE QU\u00ca?",
+        "url": "https://open.spotify.com/album/0Dq8h1ncJUPjvgSbhF2DPt"
+      },
+      "artists": [
+        {
+          "name": "Luan Pereira",
+          "url": "https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl"
+        },
+        {
+          "name": "Murilo Huff",
+          "url": "https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152245,
+      "name": "FALTA DE QU\u00ca?",
+      "url": "https://open.spotify.com/track/6hNREzgHbVM5AkGwP4SPmU"
+    },
+    {
+      "album": {
         "name": "Faz Amor Comigo S\u00f3 Hoje (Ao Vivo)",
         "url": "https://open.spotify.com/album/3J7UQC40YfybB6TvralOEK"
       },
@@ -1848,6 +1870,24 @@
       "duration_ms": 209802,
       "name": "Fim da Noite - Ao Vivo",
       "url": "https://open.spotify.com/track/6rKwnVo6wuXk0egEls9kSD"
+    },
+    {
+      "album": {
+        "name": "Rionegro e Solim\u00f5es em Uberl\u00e2ndia, Vol. 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/41dPjkp2RaG6C5nbNjjiaQ"
+      },
+      "artists": [
+        {
+          "name": "Rionegro & Solim\u00f5es",
+          "url": "https://open.spotify.com/artist/33NrinbbEctw1wsdKNgZeZ"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158713,
+      "name": "Fivela Com Fivela - Ao Vivo",
+      "url": "https://open.spotify.com/track/73SIgqXr3oRzzWbX1muX3I"
     },
     {
       "album": {
@@ -2430,6 +2470,24 @@
       "duration_ms": 208007,
       "name": "Meu N\u00famero - Ao Vivo",
       "url": "https://open.spotify.com/track/3XF598RmEUF3XW4XKo1lyP"
+    },
+    {
+      "album": {
+        "name": "Meu Pra Sempre N\u00e3o Era Meu (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3Zdg35YqxOS1Sfz74ifi8u"
+      },
+      "artists": [
+        {
+          "name": "Simone Mendes",
+          "url": "https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163307,
+      "name": "Meu Pra Sempre N\u00e3o Era Meu - Ao Vivo",
+      "url": "https://open.spotify.com/track/7CutNxjzAKbs7EhBAlnRJt"
     },
     {
       "album": {
@@ -4010,7 +4068,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 171712,
       "name": "Um M\u00eas E Pouco - Ao Vivo",
       "url": "https://open.spotify.com/track/3PqU6gHWUaBTtIZi5oxEJ7"

@@ -929,6 +929,32 @@
     },
     {
       "album": {
+        "name": "Bagd\u00e1",
+        "url": "https://open.spotify.com/album/50n58IMNyk8m1Ola98WoMp"
+      },
+      "artists": [
+        {
+          "name": "La\u00edz",
+          "url": "https://open.spotify.com/artist/0gv81Nb7IoUMeOvGd3K4Om"
+        },
+        {
+          "name": "The New Love Experience",
+          "url": "https://open.spotify.com/artist/2JfBJAgIk3EVjROlooESVT"
+        },
+        {
+          "name": "young.vishnu",
+          "url": "https://open.spotify.com/artist/13ktebtZo4NRbX3uThOmP2"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248382,
+      "name": "Bagd\u00e1",
+      "url": "https://open.spotify.com/track/6oYmmffMFmQhFlDBPsM3lf"
+    },
+    {
+      "album": {
         "name": "Bald Men Anthem",
         "url": "https://open.spotify.com/album/28eqkHAkRq6mpW0qeH8e4Z"
       },
@@ -5884,10 +5910,32 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 140956,
       "name": "Jes' Grew in Osaka",
       "url": "https://open.spotify.com/track/53zSIKyb1KsBsb9EmFerpM"
+    },
+    {
+      "album": {
+        "name": "Jewel Thief",
+        "url": "https://open.spotify.com/album/6P6DRCn3AnpjUL3FVYFttK"
+      },
+      "artists": [
+        {
+          "name": "Michael Wilbur",
+          "url": "https://open.spotify.com/artist/4xa7ht9m5Uj0YhGWIm0K9n"
+        },
+        {
+          "name": "Tonio Sagan",
+          "url": "https://open.spotify.com/artist/4FNaaByFBfE9qqGRRhrUdi"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227520,
+      "name": "Jewel Thief",
+      "url": "https://open.spotify.com/track/1d1Iot4KbF01jNhK7FiCRO"
     },
     {
       "album": {
@@ -9076,7 +9124,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 149476,
       "name": "Rocket",
       "url": "https://open.spotify.com/track/1mkO4VYl6YYBoomp76vzor"

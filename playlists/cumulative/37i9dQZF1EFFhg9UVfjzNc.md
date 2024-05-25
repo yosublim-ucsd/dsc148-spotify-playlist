@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5JjUlPENcVZsqsYpaLmlDl">Hananiel Eduardo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-98 songs - 9 hr 53 min
+99 songs - 9 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Estou Seguro \- Ao Vivo](https://open.spotify.com/track/3ivf2zetHD8ZMvrNVtGguO) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Hosana \(Ao Vivo\)](https://open.spotify.com/album/7k4vRmoiCX5Xvta66oFOUL) | 5:16 | 2022-06-04 |  |
 | [Eu Creio \- Ao Vivo](https://open.spotify.com/track/12dGdIwsVKWoi9llS1dwNA) | [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB) | [Eterno Presente \(Ao Vivo\)](https://open.spotify.com/album/2hK5ylp49oUsOJFfdpUqXf) | 5:20 | 2022-06-04 |  |
 | [Eu e o Rei \- Ao Vivo](https://open.spotify.com/track/2Yrv7iT74UqFhj13Jg7tRw) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto), [Weslei Santos](https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi) | [Hosana \(Ao Vivo\)](https://open.spotify.com/album/7k4vRmoiCX5Xvta66oFOUL) | 5:37 | 2022-06-04 |  |
+| [Eu Vou](https://open.spotify.com/track/7bBZWejBWjegNDZpdK5GkK) | [LUDI](https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde) | [Eu Vou](https://open.spotify.com/album/3VwjA6TL1mFL87K3My04VA) | 2:13 | 2024-05-24 |  |
 | [Exemplo de Maria](https://open.spotify.com/track/460pUpGhBdWKY8t2balfG4) | [Simone Medeiros](https://open.spotify.com/artist/07Ax7WxyKbSR0aIFGzalA5) | [Deixa\-Te Modelar](https://open.spotify.com/album/06sZ6iCaL7EV1HOy8bFGhq) | 4:19 | 2022-06-04 |  |
 | [Holy Table](https://open.spotify.com/track/2hu1HijSqMWWLmKBnjGZ7O) | [Liturgical Folk](https://open.spotify.com/artist/5OhGNb4thJQ6YlKt8So8B9) | [Edenland](https://open.spotify.com/album/4PrPfexL3BkYo36X3oh13d) | 6:25 | 2024-04-18 |  |
 | [Hosana \- Ao Vivo](https://open.spotify.com/track/2IHUox8N5k5g7fgeuNB0Kl) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto), [Lukas Agustinho](https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O) | [Hosana \(Ao Vivo\)](https://open.spotify.com/album/7k4vRmoiCX5Xvta66oFOUL) | 5:26 | 2022-06-04 |  |

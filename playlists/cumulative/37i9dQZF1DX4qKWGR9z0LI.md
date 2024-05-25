@@ -2,9 +2,9 @@
 
 ### [Salsa Nation](https://open.spotify.com/playlist/37i9dQZF1DX4qKWGR9z0LI)
 
-> Lo último y lo mejor de la salsa\. Cover: Fonseca
+> Lo último y lo mejor de la salsa\. Cover: Luis Figueroa
 
-273 songs - 20 hr 10 min
+274 songs - 20 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,7 @@
 | [De Vuelta Pa' La Vuelta](https://open.spotify.com/track/7AUhck1sPy11OExQmDDx4P) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [De Vuelta Pa' La Vuelta](https://open.spotify.com/album/1mFvOlraT4JKt4D7aGb9tc) | 3:51 | 2022-01-01 |  |
 | [Decidí Tener Pantalones](https://open.spotify.com/track/60AjFqriLK9hYqSF4BUgRL) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Lado A Lado B](https://open.spotify.com/album/2nPt3BGpcWAt2pU6FjQC5n) | 4:36 | 2022-04-29 | 2023-06-06 |
 | [Desnudate](https://open.spotify.com/track/6YW3b8q2AChjKpdmDWbFjK) | [Lumay](https://open.spotify.com/artist/1f1uJBokIf66XMqm46dVQI) | [Desnudate](https://open.spotify.com/album/4s8TDve9FJBLySITHpR8U8) | 3:03 | 2023-02-07 | 2023-03-18 |
-| [Desnúdate](https://open.spotify.com/track/3lAPRVmezONEzjHgzOvh5m) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Desnúdate](https://open.spotify.com/album/5uLpJ330k49clXLzxyhHrf) | 3:51 | 2023-03-17 |  |
+| [Desnúdate](https://open.spotify.com/track/3lAPRVmezONEzjHgzOvh5m) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Desnúdate](https://open.spotify.com/album/5uLpJ330k49clXLzxyhHrf) | 3:51 | 2023-03-17 | 2024-05-25 |
 | [Desprendiéndome de Ti](https://open.spotify.com/track/72OnnXSq3LIgaczZSauZfb) | [N'Samble](https://open.spotify.com/artist/7Ksq8BTaGcbM7OgVQi3y8f) | [Desprendiéndome de Ti](https://open.spotify.com/album/2l62A1oukfG7aKAyKBXlgh) | 4:39 | 2022-05-20 | 2022-09-26 |
 | [Detalles](https://open.spotify.com/track/21d6EkqWaoA2hPDBUp2u8H) | [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ) | [Detalles](https://open.spotify.com/album/0yw16WalUWK5vOUbFlGYAI) | 4:38 | 2022-01-01 | 2022-07-29 |
 | [Detalles](https://open.spotify.com/track/4YOz0Fl5q0cXanSCUtsW13) | [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ) | [Llego La Salsa](https://open.spotify.com/album/45Aa2zCt6Y20hqGxVjI0tI) | 4:38 | 2022-05-20 | 2024-04-19 |
@@ -141,6 +141,7 @@
 | [La Vida Es Un Carnaval](https://open.spotify.com/track/0yp6jw6F0LNnjbxLejWaPK) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Amores Perros \(Soundtrack\)](https://open.spotify.com/album/6pccc4jYCY75jhGwV8qFVe) | 4:36 | 2022-01-01 | 2022-07-29 |
 | [La Vida Es Un Carnaval](https://open.spotify.com/track/1BwrMGGhPA6GarWIYaFrW8) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Para La Eternidad](https://open.spotify.com/album/2MSP1JG7KflqYqAHtk7wlB) | 4:38 | 2022-05-20 | 2024-04-19 |
 | [La Vida Es Un Carnaval](https://open.spotify.com/track/7HL0P35A96wkutKopiovaX) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Festejá con ritmos latinos](https://open.spotify.com/album/3nnjSxO8sva22SJQgOwKYL) | 4:38 | 2022-09-09 | 2022-11-14 |
+| [Llorar Bonito](https://open.spotify.com/track/1fMrqP0wLuJiVRZnxZlqvz) | [Luis Figueroa](https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7) | [Llorar Bonito](https://open.spotify.com/album/46HRM7k8BxkyhhzDTjkbxT) | 3:55 | 2024-05-24 |  |
 | [Llorarás](https://open.spotify.com/track/1s25QxtuRQsSrOm9tTOaD6) | [Dimension Latina](https://open.spotify.com/artist/2ixSzFmACsZSsx40fXTNYk) | [Los Oscares De Oscar](https://open.spotify.com/album/5Y990OGQRoPBqdJ6YnU6tZ) | 3:48 | 2022-01-01 |  |
 | [Lo Dudo](https://open.spotify.com/track/0mZqBGmiNEmhDyUnfKrj9A) | [Tommy Olivencia y Su Orquesta](https://open.spotify.com/artist/60K60Egdxg9rGWcUCI23Qx), [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV), [Hector Tricoche](https://open.spotify.com/artist/7GvSqZ1gF1sl3VvGRmQ2En) | [Celebrando Otro Aniversario](https://open.spotify.com/album/6D3WhKedEYDPQjuWSo6Aph) | 5:08 | 2022-01-01 | 2022-05-26 |
 | [Lo Dudo \(feat\. Frankie Ruiz & Hector Trioche\)](https://open.spotify.com/track/3eT851yEUBZFxqVPxzO5pi) | [Tommy Olivencia y Su Orquesta](https://open.spotify.com/artist/60K60Egdxg9rGWcUCI23Qx), [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV), [Hector Trioche](https://open.spotify.com/artist/0dCUgh9eADnLsyDWCY2iNK) | [Celebrando Otro Aniversario \(feat\. Frankie Ruiz & Hector Trioche\)](https://open.spotify.com/album/5jNfI4zTzOYFdycIzK1pkQ) | 5:08 | 2022-05-20 | 2023-07-25 |

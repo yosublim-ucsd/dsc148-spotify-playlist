@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYX0SFpLcPgx.md) - [plain]
 
 > Les 60 titres incontournables de ces dernières années\. Photo : Loreen
 
-[Spotify](https://open.spotify.com/user/spotify) - 242,129 likes - 60 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 242,142 likes - 60 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

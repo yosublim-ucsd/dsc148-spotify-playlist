@@ -1,6 +1,6 @@
 {
   "description": "Gospel music from across East Africa",
-  "num_followers": 5285,
+  "num_followers": 5288,
   "original_name": "Sunday Service",
   "owner": {
     "name": "Spotify",
@@ -153,6 +153,22 @@
       "url": "https://open.spotify.com/track/56GZHQ4E3i9w9xgRkzitd4"
     },
     {
+      "added_at": "2024-01-19 00:01:00",
+      "album": {
+        "name": "Running Home",
+        "url": "https://open.spotify.com/album/0x7Hr6i67SAQ4Kd4rclmPB"
+      },
+      "artists": [
+        {
+          "name": "Cochren & Co.",
+          "url": "https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4"
+        }
+      ],
+      "duration_ms": 222106,
+      "name": "Running Home",
+      "url": "https://open.spotify.com/track/3x3rh9ZI4rLvjyCg1MMZNu"
+    },
+    {
       "added_at": "2023-11-17 00:01:00",
       "album": {
         "name": "Jireh (My Provider)",
@@ -175,22 +191,6 @@
       "duration_ms": 168000,
       "name": "Jireh (My Provider)",
       "url": "https://open.spotify.com/track/4pR4oQJULf7FDB54TleMyH"
-    },
-    {
-      "added_at": "2024-01-19 00:01:00",
-      "album": {
-        "name": "Running Home",
-        "url": "https://open.spotify.com/album/0x7Hr6i67SAQ4Kd4rclmPB"
-      },
-      "artists": [
-        {
-          "name": "Cochren & Co.",
-          "url": "https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4"
-        }
-      ],
-      "duration_ms": 222106,
-      "name": "Running Home",
-      "url": "https://open.spotify.com/track/3x3rh9ZI4rLvjyCg1MMZNu"
     },
     {
       "added_at": "2024-01-19 00:01:00",
@@ -517,6 +517,30 @@
       "url": "https://open.spotify.com/track/7qKq3YnzxmYfYipYQxzLe4"
     },
     {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
+        "name": "No Longer Bound (I'm Free)",
+        "url": "https://open.spotify.com/album/7o2PA6yCeen44YsR1KuVWP"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        }
+      ],
+      "duration_ms": 175188,
+      "name": "No Longer Bound (I'm Free)",
+      "url": "https://open.spotify.com/track/2GGvmXF70zQ13NS86nOw7k"
+    },
+    {
       "added_at": "2024-01-19 00:01:00",
       "album": {
         "name": "Take It All Back",
@@ -559,30 +583,6 @@
       "duration_ms": 228690,
       "name": "Somebody to You",
       "url": "https://open.spotify.com/track/4TnXEn8UJaGqCa1cqWkX2z"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
-        "name": "No Longer Bound (I'm Free)",
-        "url": "https://open.spotify.com/album/7o2PA6yCeen44YsR1KuVWP"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        },
-        {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
-        }
-      ],
-      "duration_ms": 175188,
-      "name": "No Longer Bound (I'm Free)",
-      "url": "https://open.spotify.com/track/2GGvmXF70zQ13NS86nOw7k"
     },
     {
       "added_at": "2024-01-19 00:01:00",
@@ -859,26 +859,6 @@
     {
       "added_at": "2024-01-19 00:01:00",
       "album": {
-        "name": "The Narrow Way",
-        "url": "https://open.spotify.com/album/5dnEn1RrHFx1tjG6ARSdw0"
-      },
-      "artists": [
-        {
-          "name": "Steffany Gretzinger",
-          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
-        },
-        {
-          "name": "Leeland",
-          "url": "https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2"
-        }
-      ],
-      "duration_ms": 390967,
-      "name": "No Turning Back",
-      "url": "https://open.spotify.com/track/1HvmrH54shSA0a1bwK91R0"
-    },
-    {
-      "added_at": "2024-01-19 00:01:00",
-      "album": {
         "name": "Lead On Good Shepherd",
         "url": "https://open.spotify.com/album/0kU2cgMwYC02qZ9YigsHBO"
       },
@@ -895,6 +875,26 @@
       "duration_ms": 203973,
       "name": "Lead On Good Shepherd",
       "url": "https://open.spotify.com/track/4pamu1hc1av1c4BhY8Wh3j"
+    },
+    {
+      "added_at": "2024-01-19 00:01:00",
+      "album": {
+        "name": "The Narrow Way",
+        "url": "https://open.spotify.com/album/5dnEn1RrHFx1tjG6ARSdw0"
+      },
+      "artists": [
+        {
+          "name": "Steffany Gretzinger",
+          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
+        },
+        {
+          "name": "Leeland",
+          "url": "https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2"
+        }
+      ],
+      "duration_ms": 390967,
+      "name": "No Turning Back",
+      "url": "https://open.spotify.com/track/1HvmrH54shSA0a1bwK91R0"
     },
     {
       "added_at": "2024-01-19 00:01:00",

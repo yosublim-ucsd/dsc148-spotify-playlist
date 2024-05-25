@@ -1,15 +1,15 @@
 {
   "description": "Playlist dial a7sen w akher ma kayn f rap mghribi. Cover: Draganov",
-  "num_followers": 148412,
+  "num_followers": 148456,
   "original_name": "ABAT\u2211RA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkcIdwAAAAA1zPTkfcYWPNe4QTVymHm7",
+  "snapshot_id": "ZlBIPAAAAADaPu8XS3Jcp5+Qh2TqsvGz",
   "tracks": [
     {
-      "added_at": "2024-05-17 07:34:15",
+      "added_at": "2024-05-24 07:56:44",
       "album": {
         "name": "YA RAYEH",
         "url": "https://open.spotify.com/album/3J3ZKCjqKeyDA3Dx9JJgNo"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/1uzGViEs42FcNS1KfqhaIT"
     },
     {
-      "added_at": "2024-05-17 07:34:15",
+      "added_at": "2024-05-24 07:56:44",
       "album": {
         "name": "ICEBERG",
         "url": "https://open.spotify.com/album/3zKwuAbA8kBGjwgGhebvI5"
@@ -49,7 +49,7 @@
       "url": "https://open.spotify.com/track/3pkKb7bj2eVQjNaHOGzYSf"
     },
     {
-      "added_at": "2024-05-17 07:34:15",
+      "added_at": "2024-05-24 07:56:44",
       "album": {
         "name": "Hotel",
         "url": "https://open.spotify.com/album/0ofD5pzUTbUDiumyojrMCN"
@@ -69,7 +69,7 @@
       "url": "https://open.spotify.com/track/1UKKa0dT81UdHFFiGq1Qtb"
     },
     {
-      "added_at": "2024-05-17 07:34:15",
+      "added_at": "2024-05-24 07:56:44",
       "album": {
         "name": "San Siro",
         "url": "https://open.spotify.com/album/5QOytCFrVEvxxeR3zGsjfP"
@@ -85,7 +85,7 @@
       "url": "https://open.spotify.com/track/0WuTPXry9d1aV446dafoO1"
     },
     {
-      "added_at": "2024-05-17 07:34:15",
+      "added_at": "2024-05-24 07:56:44",
       "album": {
         "name": "27",
         "url": "https://open.spotify.com/album/5e3bPy9xbaSULrXRVG8fp8"
@@ -101,7 +101,23 @@
       "url": "https://open.spotify.com/track/01GVrWU4CZgZyHFMShuQb1"
     },
     {
-      "added_at": "2024-05-17 07:34:15",
+      "added_at": "2024-05-24 07:56:44",
+      "album": {
+        "name": "ACH KHBARKOM",
+        "url": "https://open.spotify.com/album/0YVZWo3y2gsX6Dev7uGp71"
+      },
+      "artists": [
+        {
+          "name": "Moro",
+          "url": "https://open.spotify.com/artist/1akll7SRGZblDrbCF5eqYW"
+        }
+      ],
+      "duration_ms": 213539,
+      "name": "ACH KHBARKOM",
+      "url": "https://open.spotify.com/track/6tPMsNHDqitLURI5FMcNm6"
+    },
+    {
+      "added_at": "2024-05-24 07:56:44",
       "album": {
         "name": "Rehab",
         "url": "https://open.spotify.com/album/3zsV6gi1HFVr3j4EiPWJED"
@@ -125,23 +141,7 @@
       "url": "https://open.spotify.com/track/4GGWAVyhrHWysVj3wyk523"
     },
     {
-      "added_at": "2024-05-17 07:34:15",
-      "album": {
-        "name": "ACH KHBARKOM",
-        "url": "https://open.spotify.com/album/0YVZWo3y2gsX6Dev7uGp71"
-      },
-      "artists": [
-        {
-          "name": "Moro",
-          "url": "https://open.spotify.com/artist/1akll7SRGZblDrbCF5eqYW"
-        }
-      ],
-      "duration_ms": 213539,
-      "name": "ACH KHBARKOM",
-      "url": "https://open.spotify.com/track/6tPMsNHDqitLURI5FMcNm6"
-    },
-    {
-      "added_at": "2024-05-17 07:34:15",
+      "added_at": "2024-05-24 07:56:44",
       "album": {
         "name": "MATAL3ACH",
         "url": "https://open.spotify.com/album/7e2fbam9ZoNFL7xvTZqOTH"
@@ -161,23 +161,7 @@
       "url": "https://open.spotify.com/track/55T3HvQKuTr6N57mMoIgMc"
     },
     {
-      "added_at": "2024-05-17 07:34:15",
-      "album": {
-        "name": "2x1",
-        "url": "https://open.spotify.com/album/5jVfTzpviF4GNj47qcrGbp"
-      },
-      "artists": [
-        {
-          "name": "LFERDA",
-          "url": "https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v"
-        }
-      ],
-      "duration_ms": 203694,
-      "name": "Zagalo",
-      "url": "https://open.spotify.com/track/7JhSP9fNLGM6l8XEpQIUBH"
-    },
-    {
-      "added_at": "2024-05-17 07:34:15",
+      "added_at": "2024-05-24 07:56:44",
       "album": {
         "name": "Unique",
         "url": "https://open.spotify.com/album/0iVvvnQXwwLBQhiwX3WFQ8"
@@ -193,23 +177,7 @@
       "url": "https://open.spotify.com/track/4SIEgCDS7h90gFP5MEU4ai"
     },
     {
-      "added_at": "2024-05-17 07:34:15",
-      "album": {
-        "name": "27",
-        "url": "https://open.spotify.com/album/5e3bPy9xbaSULrXRVG8fp8"
-      },
-      "artists": [
-        {
-          "name": "ElGrandeToto",
-          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
-        }
-      ],
-      "duration_ms": 204426,
-      "name": "SULTAN",
-      "url": "https://open.spotify.com/track/7AghOMSZrtR7DkfWxLuRDs"
-    },
-    {
-      "added_at": "2024-05-17 07:34:15",
+      "added_at": "2024-05-24 07:56:44",
       "album": {
         "name": "\u00c9chec (Spotify Singles)",
         "url": "https://open.spotify.com/album/1wnHxsDjULbyppLwnAYsPt"
@@ -229,7 +197,7 @@
       "url": "https://open.spotify.com/track/7bpuBTsNwlWnBABYbCZAkN"
     },
     {
-      "added_at": "2024-05-17 07:34:15",
+      "added_at": "2024-05-24 07:56:44",
       "album": {
         "name": "Makina",
         "url": "https://open.spotify.com/album/5ToqGDvXIckkQuRXe64T0Z"
@@ -249,111 +217,7 @@
       "url": "https://open.spotify.com/track/1smoNV80CXLbgur5vK5qTY"
     },
     {
-      "added_at": "2024-05-17 07:34:15",
-      "album": {
-        "name": "Machi Lkhatri",
-        "url": "https://open.spotify.com/album/6dAhHPgc12Cq9ZdyON9fVU"
-      },
-      "artists": [
-        {
-          "name": "Figoshin",
-          "url": "https://open.spotify.com/artist/7vg7wkmGzMEM7p2ZkMPHJS"
-        },
-        {
-          "name": "Norfafrica",
-          "url": "https://open.spotify.com/artist/3UGUD4F6kDvesqDwOzXl8y"
-        }
-      ],
-      "duration_ms": 209070,
-      "name": "Machi Lkhatri",
-      "url": "https://open.spotify.com/track/5BSg7yE6EmP6hSdhjPy0J0"
-    },
-    {
-      "added_at": "2024-05-17 07:34:15",
-      "album": {
-        "name": "2x1",
-        "url": "https://open.spotify.com/album/5jVfTzpviF4GNj47qcrGbp"
-      },
-      "artists": [
-        {
-          "name": "LFERDA",
-          "url": "https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v"
-        }
-      ],
-      "duration_ms": 227890,
-      "name": "Stafit",
-      "url": "https://open.spotify.com/track/1AoVPFt1EmDqa5TxTzuese"
-    },
-    {
-      "added_at": "2024-05-17 07:34:15",
-      "album": {
-        "name": "FEUTAH",
-        "url": "https://open.spotify.com/album/7qSKmrrrE0o8mZd98Z6PSr"
-      },
-      "artists": [
-        {
-          "name": "Fetah",
-          "url": "https://open.spotify.com/artist/3XGTrzVLfhQ0hK13svf6pu"
-        }
-      ],
-      "duration_ms": 192496,
-      "name": "FEUTAH",
-      "url": "https://open.spotify.com/track/3J7Kmg4rbb4G3q5z5X64Rz"
-    },
-    {
-      "added_at": "2024-05-17 07:34:15",
-      "album": {
-        "name": "CA VA CHANGER",
-        "url": "https://open.spotify.com/album/5SL4UrYn4VkqJT0ca8FmBR"
-      },
-      "artists": [
-        {
-          "name": "Bo9al",
-          "url": "https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF"
-        },
-        {
-          "name": "Ghost Killer Track",
-          "url": "https://open.spotify.com/artist/37S0GFsBW73uqxGXNFeADJ"
-        }
-      ],
-      "duration_ms": 232643,
-      "name": "CA VA CHANGER",
-      "url": "https://open.spotify.com/track/2F8dlGXBefyzEdGgTX51eB"
-    },
-    {
-      "added_at": "2024-05-17 07:34:15",
-      "album": {
-        "name": "MTV CRIBS",
-        "url": "https://open.spotify.com/album/1OXlhfKHKoXmHBVBhAlSFi"
-      },
-      "artists": [
-        {
-          "name": "Fat Mizzo",
-          "url": "https://open.spotify.com/artist/4sGgnHfL5rjJqK5WxQl9bU"
-        }
-      ],
-      "duration_ms": 224596,
-      "name": "MTV CRIBS",
-      "url": "https://open.spotify.com/track/2pMw5VOlOtM7q5j2vp3QbF"
-    },
-    {
-      "added_at": "2024-05-17 07:34:15",
-      "album": {
-        "name": "TRAP ROUMI V5",
-        "url": "https://open.spotify.com/album/0pMUVXedchr9B1aGmXruEj"
-      },
-      "artists": [
-        {
-          "name": "Kouz1",
-          "url": "https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8"
-        }
-      ],
-      "duration_ms": 244800,
-      "name": "TRAP ROUMI V5",
-      "url": "https://open.spotify.com/track/5lLOq77WKo2UMY4Y7w22oL"
-    },
-    {
-      "added_at": "2024-05-17 07:34:15",
+      "added_at": "2024-05-24 07:56:44",
       "album": {
         "name": "27",
         "url": "https://open.spotify.com/album/5e3bPy9xbaSULrXRVG8fp8"
@@ -364,196 +228,12 @@
           "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
         }
       ],
-      "duration_ms": 197466,
-      "name": "BGHAWNI",
-      "url": "https://open.spotify.com/track/1wrvsIADrnhWKBCw27UxZ9"
+      "duration_ms": 204426,
+      "name": "SULTAN",
+      "url": "https://open.spotify.com/track/7AghOMSZrtR7DkfWxLuRDs"
     },
     {
-      "added_at": "2024-05-17 07:34:15",
-      "album": {
-        "name": "OMG",
-        "url": "https://open.spotify.com/album/5ZkU2Bpyms27ABdDTnVfqR"
-      },
-      "artists": [
-        {
-          "name": "Bo9al",
-          "url": "https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF"
-        }
-      ],
-      "duration_ms": 219607,
-      "name": "OMG",
-      "url": "https://open.spotify.com/track/1bCiTfGvySuWQiOVwghr5J"
-    },
-    {
-      "added_at": "2024-05-17 07:34:15",
-      "album": {
-        "name": "Wa3ra",
-        "url": "https://open.spotify.com/album/1K2UJSMp9GcnyESsOk9Zmg"
-      },
-      "artists": [
-        {
-          "name": "Hassa1",
-          "url": "https://open.spotify.com/artist/6g4L5CJkiMINgAzUQsb7fr"
-        }
-      ],
-      "duration_ms": 136932,
-      "name": "Wa3ra",
-      "url": "https://open.spotify.com/track/4ZhL9IgqKHsVa7goaJ6MVD"
-    },
-    {
-      "added_at": "2024-05-17 07:34:15",
-      "album": {
-        "name": "ICEBERG",
-        "url": "https://open.spotify.com/album/3zKwuAbA8kBGjwgGhebvI5"
-      },
-      "artists": [
-        {
-          "name": "Stormy",
-          "url": "https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh"
-        },
-        {
-          "name": "Abduh",
-          "url": "https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "RALLY DAKAR",
-      "url": "https://open.spotify.com/track/6RFjHcQlq5ielUHwYec9xS"
-    },
-    {
-      "added_at": "2024-05-17 07:34:15",
-      "album": {
-        "name": "Stylo Dahbi",
-        "url": "https://open.spotify.com/album/3GVXKwAO4uct6zUOitRPEN"
-      },
-      "artists": [
-        {
-          "name": "SCOOL BOY",
-          "url": "https://open.spotify.com/artist/5suJPIX3Y4r4hEIrz60szV"
-        }
-      ],
-      "duration_ms": 180425,
-      "name": "Stylo Dahbi",
-      "url": "https://open.spotify.com/track/0RvgOvbCAgQIpD4jhqHxVO"
-    },
-    {
-      "added_at": "2024-05-17 07:34:15",
-      "album": {
-        "name": "Ma M\u00e8re",
-        "url": "https://open.spotify.com/album/2O9O6EeyowClx0t4uRpYLh"
-      },
-      "artists": [
-        {
-          "name": "Lemhllwess",
-          "url": "https://open.spotify.com/artist/454idLWxvkeePy4v39nP0J"
-        },
-        {
-          "name": "Dollypran",
-          "url": "https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS"
-        }
-      ],
-      "duration_ms": 187401,
-      "name": "Ma M\u00e8re",
-      "url": "https://open.spotify.com/track/7olBJXnUt6te4YGhDd8OPW"
-    },
-    {
-      "added_at": "2024-05-17 07:34:15",
-      "album": {
-        "name": "M.I.M",
-        "url": "https://open.spotify.com/album/16VwVZ1dFAaCXAeQrsyit8"
-      },
-      "artists": [
-        {
-          "name": "Dada",
-          "url": "https://open.spotify.com/artist/7prKK2GchmQEkgUsAFXEz0"
-        }
-      ],
-      "duration_ms": 172500,
-      "name": "3ADI JIDAN",
-      "url": "https://open.spotify.com/track/2wNNXprT139bOoaBGmc12V"
-    },
-    {
-      "added_at": "2024-05-17 07:34:15",
-      "album": {
-        "name": "FOUTINI",
-        "url": "https://open.spotify.com/album/1LxzhmDjWplTu82txhjpo8"
-      },
-      "artists": [
-        {
-          "name": "Bo9al",
-          "url": "https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF"
-        }
-      ],
-      "duration_ms": 239916,
-      "name": "FOUTINI",
-      "url": "https://open.spotify.com/track/5w7eAmcnRKFo1SwYAcpdHg"
-    },
-    {
-      "added_at": "2024-05-17 07:34:15",
-      "album": {
-        "name": "POPO",
-        "url": "https://open.spotify.com/album/18Cf3fPeZ5mRYI8ihYBhqo"
-      },
-      "artists": [
-        {
-          "name": "Stormy",
-          "url": "https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh"
-        }
-      ],
-      "duration_ms": 191666,
-      "name": "POPO",
-      "url": "https://open.spotify.com/track/0sMCcICKRGJ8Td75nZloeU"
-    },
-    {
-      "added_at": "2024-05-17 07:34:15",
-      "album": {
-        "name": "M.I.M",
-        "url": "https://open.spotify.com/album/16VwVZ1dFAaCXAeQrsyit8"
-      },
-      "artists": [
-        {
-          "name": "Dada",
-          "url": "https://open.spotify.com/artist/7prKK2GchmQEkgUsAFXEz0"
-        }
-      ],
-      "duration_ms": 151000,
-      "name": "SWEETCHY",
-      "url": "https://open.spotify.com/track/0c3oj5HJnYj2bbMEoabmiY"
-    },
-    {
-      "added_at": "2024-05-17 07:34:15",
-      "album": {
-        "name": "LILA",
-        "url": "https://open.spotify.com/album/06CGM6DLyWKlbP1YYidQtx"
-      },
-      "artists": [
-        {
-          "name": "SCOOL BOY",
-          "url": "https://open.spotify.com/artist/5suJPIX3Y4r4hEIrz60szV"
-        }
-      ],
-      "duration_ms": 164050,
-      "name": "LILA",
-      "url": "https://open.spotify.com/track/5CkDVJBrBjYduZiPtPmgRW"
-    },
-    {
-      "added_at": "2024-05-17 07:34:15",
-      "album": {
-        "name": "Metamorphose",
-        "url": "https://open.spotify.com/album/36tEw2LCtzCcHT4ATz7fy6"
-      },
-      "artists": [
-        {
-          "name": "Pause",
-          "url": "https://open.spotify.com/artist/1ZwAwymAUb2hTFTMxmNbL5"
-        }
-      ],
-      "duration_ms": 216015,
-      "name": "Lyam",
-      "url": "https://open.spotify.com/track/2k46XpoEmXFj8s0TAcb1Bh"
-    },
-    {
-      "added_at": "2024-05-17 07:34:15",
+      "added_at": "2024-05-24 07:56:44",
       "album": {
         "name": "TODO BEN\u00c9 (Spotify Singles)",
         "url": "https://open.spotify.com/album/47nX5KQ0W5gE2Pm5smHk9x"
@@ -573,7 +253,279 @@
       "url": "https://open.spotify.com/track/5NN51zQh6lnnXPuIQu1cFd"
     },
     {
-      "added_at": "2024-05-17 07:34:15",
+      "added_at": "2024-05-24 07:56:44",
+      "album": {
+        "name": "2x1",
+        "url": "https://open.spotify.com/album/5jVfTzpviF4GNj47qcrGbp"
+      },
+      "artists": [
+        {
+          "name": "LFERDA",
+          "url": "https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v"
+        }
+      ],
+      "duration_ms": 227890,
+      "name": "Stafit",
+      "url": "https://open.spotify.com/track/1AoVPFt1EmDqa5TxTzuese"
+    },
+    {
+      "added_at": "2024-05-24 07:56:44",
+      "album": {
+        "name": "CA VA CHANGER",
+        "url": "https://open.spotify.com/album/5SL4UrYn4VkqJT0ca8FmBR"
+      },
+      "artists": [
+        {
+          "name": "Bo9al",
+          "url": "https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF"
+        },
+        {
+          "name": "Ghost Killer Track",
+          "url": "https://open.spotify.com/artist/37S0GFsBW73uqxGXNFeADJ"
+        }
+      ],
+      "duration_ms": 232643,
+      "name": "CA VA CHANGER",
+      "url": "https://open.spotify.com/track/2F8dlGXBefyzEdGgTX51eB"
+    },
+    {
+      "added_at": "2024-05-24 07:56:44",
+      "album": {
+        "name": "Machi Lkhatri",
+        "url": "https://open.spotify.com/album/6dAhHPgc12Cq9ZdyON9fVU"
+      },
+      "artists": [
+        {
+          "name": "Figoshin",
+          "url": "https://open.spotify.com/artist/7vg7wkmGzMEM7p2ZkMPHJS"
+        },
+        {
+          "name": "Norfafrica",
+          "url": "https://open.spotify.com/artist/3UGUD4F6kDvesqDwOzXl8y"
+        }
+      ],
+      "duration_ms": 209070,
+      "name": "Machi Lkhatri",
+      "url": "https://open.spotify.com/track/5BSg7yE6EmP6hSdhjPy0J0"
+    },
+    {
+      "added_at": "2024-05-24 07:56:44",
+      "album": {
+        "name": "MTV CRIBS",
+        "url": "https://open.spotify.com/album/1OXlhfKHKoXmHBVBhAlSFi"
+      },
+      "artists": [
+        {
+          "name": "Fat Mizzo",
+          "url": "https://open.spotify.com/artist/4sGgnHfL5rjJqK5WxQl9bU"
+        }
+      ],
+      "duration_ms": 224596,
+      "name": "MTV CRIBS",
+      "url": "https://open.spotify.com/track/2pMw5VOlOtM7q5j2vp3QbF"
+    },
+    {
+      "added_at": "2024-05-24 07:56:44",
+      "album": {
+        "name": "TRAP ROUMI V5",
+        "url": "https://open.spotify.com/album/0pMUVXedchr9B1aGmXruEj"
+      },
+      "artists": [
+        {
+          "name": "Kouz1",
+          "url": "https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8"
+        }
+      ],
+      "duration_ms": 244800,
+      "name": "TRAP ROUMI V5",
+      "url": "https://open.spotify.com/track/5lLOq77WKo2UMY4Y7w22oL"
+    },
+    {
+      "added_at": "2024-05-24 07:56:44",
+      "album": {
+        "name": "ICEBERG",
+        "url": "https://open.spotify.com/album/3zKwuAbA8kBGjwgGhebvI5"
+      },
+      "artists": [
+        {
+          "name": "Stormy",
+          "url": "https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh"
+        },
+        {
+          "name": "Abduh",
+          "url": "https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "RALLY DAKAR",
+      "url": "https://open.spotify.com/track/6RFjHcQlq5ielUHwYec9xS"
+    },
+    {
+      "added_at": "2024-05-24 07:56:44",
+      "album": {
+        "name": "Wa3ra",
+        "url": "https://open.spotify.com/album/1K2UJSMp9GcnyESsOk9Zmg"
+      },
+      "artists": [
+        {
+          "name": "Hassa1",
+          "url": "https://open.spotify.com/artist/6g4L5CJkiMINgAzUQsb7fr"
+        }
+      ],
+      "duration_ms": 136932,
+      "name": "Wa3ra",
+      "url": "https://open.spotify.com/track/4ZhL9IgqKHsVa7goaJ6MVD"
+    },
+    {
+      "added_at": "2024-05-24 07:56:44",
+      "album": {
+        "name": "27",
+        "url": "https://open.spotify.com/album/5e3bPy9xbaSULrXRVG8fp8"
+      },
+      "artists": [
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        }
+      ],
+      "duration_ms": 197466,
+      "name": "BGHAWNI",
+      "url": "https://open.spotify.com/track/1wrvsIADrnhWKBCw27UxZ9"
+    },
+    {
+      "added_at": "2024-05-24 07:56:44",
+      "album": {
+        "name": "Stylo Dahbi",
+        "url": "https://open.spotify.com/album/3GVXKwAO4uct6zUOitRPEN"
+      },
+      "artists": [
+        {
+          "name": "SCOOL BOY",
+          "url": "https://open.spotify.com/artist/5suJPIX3Y4r4hEIrz60szV"
+        }
+      ],
+      "duration_ms": 180425,
+      "name": "Stylo Dahbi",
+      "url": "https://open.spotify.com/track/0RvgOvbCAgQIpD4jhqHxVO"
+    },
+    {
+      "added_at": "2024-05-24 07:56:44",
+      "album": {
+        "name": "Ma M\u00e8re",
+        "url": "https://open.spotify.com/album/2O9O6EeyowClx0t4uRpYLh"
+      },
+      "artists": [
+        {
+          "name": "Lemhllwess",
+          "url": "https://open.spotify.com/artist/454idLWxvkeePy4v39nP0J"
+        },
+        {
+          "name": "Dollypran",
+          "url": "https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS"
+        }
+      ],
+      "duration_ms": 187401,
+      "name": "Ma M\u00e8re",
+      "url": "https://open.spotify.com/track/7olBJXnUt6te4YGhDd8OPW"
+    },
+    {
+      "added_at": "2024-05-24 07:56:44",
+      "album": {
+        "name": "M.I.M",
+        "url": "https://open.spotify.com/album/16VwVZ1dFAaCXAeQrsyit8"
+      },
+      "artists": [
+        {
+          "name": "Dada",
+          "url": "https://open.spotify.com/artist/7prKK2GchmQEkgUsAFXEz0"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "3ADI JIDAN",
+      "url": "https://open.spotify.com/track/2wNNXprT139bOoaBGmc12V"
+    },
+    {
+      "added_at": "2024-05-24 07:56:44",
+      "album": {
+        "name": "FOUTINI",
+        "url": "https://open.spotify.com/album/1LxzhmDjWplTu82txhjpo8"
+      },
+      "artists": [
+        {
+          "name": "Bo9al",
+          "url": "https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF"
+        }
+      ],
+      "duration_ms": 239916,
+      "name": "FOUTINI",
+      "url": "https://open.spotify.com/track/5w7eAmcnRKFo1SwYAcpdHg"
+    },
+    {
+      "added_at": "2024-05-24 07:56:44",
+      "album": {
+        "name": "POPO",
+        "url": "https://open.spotify.com/album/18Cf3fPeZ5mRYI8ihYBhqo"
+      },
+      "artists": [
+        {
+          "name": "Stormy",
+          "url": "https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh"
+        }
+      ],
+      "duration_ms": 191666,
+      "name": "POPO",
+      "url": "https://open.spotify.com/track/0sMCcICKRGJ8Td75nZloeU"
+    },
+    {
+      "added_at": "2024-05-24 07:56:44",
+      "album": {
+        "name": "M.I.M",
+        "url": "https://open.spotify.com/album/16VwVZ1dFAaCXAeQrsyit8"
+      },
+      "artists": [
+        {
+          "name": "Dada",
+          "url": "https://open.spotify.com/artist/7prKK2GchmQEkgUsAFXEz0"
+        }
+      ],
+      "duration_ms": 151000,
+      "name": "SWEETCHY",
+      "url": "https://open.spotify.com/track/0c3oj5HJnYj2bbMEoabmiY"
+    },
+    {
+      "added_at": "2024-05-24 07:56:44",
+      "album": {
+        "name": "LILA",
+        "url": "https://open.spotify.com/album/06CGM6DLyWKlbP1YYidQtx"
+      },
+      "artists": [
+        {
+          "name": "SCOOL BOY",
+          "url": "https://open.spotify.com/artist/5suJPIX3Y4r4hEIrz60szV"
+        }
+      ],
+      "duration_ms": 164050,
+      "name": "LILA",
+      "url": "https://open.spotify.com/track/5CkDVJBrBjYduZiPtPmgRW"
+    },
+    {
+      "added_at": "2024-05-24 07:56:44",
+      "album": {
+        "name": "Metamorphose",
+        "url": "https://open.spotify.com/album/36tEw2LCtzCcHT4ATz7fy6"
+      },
+      "artists": [
+        {
+          "name": "Pause",
+          "url": "https://open.spotify.com/artist/1ZwAwymAUb2hTFTMxmNbL5"
+        }
+      ],
+      "duration_ms": 216015,
+      "name": "Lyam",
+      "url": "https://open.spotify.com/track/2k46XpoEmXFj8s0TAcb1Bh"
+    },
+    {
+      "added_at": "2024-05-24 07:56:44",
       "album": {
         "name": "Iori 6",
         "url": "https://open.spotify.com/album/1MIlCKmMbtiCyZzIpCwRnU"
@@ -589,7 +541,7 @@
       "url": "https://open.spotify.com/track/4ahs2aBbxGxVCDJcwXCWXb"
     },
     {
-      "added_at": "2024-05-17 07:34:15",
+      "added_at": "2024-05-24 07:56:44",
       "album": {
         "name": "ZIGZAG",
         "url": "https://open.spotify.com/album/00AGiSuiFx3kmEIbj0ENeK"
@@ -605,7 +557,7 @@
       "url": "https://open.spotify.com/track/2Pn4RjpmuYRMJTXWzTonXn"
     },
     {
-      "added_at": "2024-05-17 07:34:15",
+      "added_at": "2024-05-24 07:56:44",
       "album": {
         "name": "M.I.M",
         "url": "https://open.spotify.com/album/2gfPi1iEcCqRKuBxPprAxK"
@@ -625,7 +577,7 @@
       "url": "https://open.spotify.com/track/1r2Fl6ZdRIAZpQDGR9X9ov"
     },
     {
-      "added_at": "2024-05-17 07:34:15",
+      "added_at": "2024-05-24 07:56:44",
       "album": {
         "name": "Rwicha",
         "url": "https://open.spotify.com/album/1FK36KFJthvyz6tCJO7ZVP"
@@ -641,7 +593,7 @@
       "url": "https://open.spotify.com/track/05CEmWl3xGITe99ZZkgl2c"
     },
     {
-      "added_at": "2024-05-17 07:34:15",
+      "added_at": "2024-05-24 07:56:44",
       "album": {
         "name": "CHAINSOMNIA",
         "url": "https://open.spotify.com/album/04PJqCbNrq3miYRMclUjA9"
@@ -657,7 +609,7 @@
       "url": "https://open.spotify.com/track/2oHeNtYUMzxvNstwht8bri"
     },
     {
-      "added_at": "2024-05-17 07:34:15",
+      "added_at": "2024-05-24 07:56:44",
       "album": {
         "name": "SOUVENIRS",
         "url": "https://open.spotify.com/album/0OIv1dSO03mVAV7HasG78H"
@@ -673,7 +625,7 @@
       "url": "https://open.spotify.com/track/2RdFjBnr4vPvUDHoYhzeDs"
     },
     {
-      "added_at": "2024-05-17 07:34:15",
+      "added_at": "2024-05-24 07:56:44",
       "album": {
         "name": "JOUJ MIZAN",
         "url": "https://open.spotify.com/album/4GYRFzg6eT9WcyAkegwmdp"
@@ -697,7 +649,7 @@
       "url": "https://open.spotify.com/track/0J4y5Eq182zXfVERO8fqTD"
     },
     {
-      "added_at": "2024-05-17 07:34:15",
+      "added_at": "2024-05-24 07:56:44",
       "album": {
         "name": "Skhoon",
         "url": "https://open.spotify.com/album/6jrdwfwfKKQbs7kbhnN3Z2"
@@ -713,7 +665,7 @@
       "url": "https://open.spotify.com/track/0lWhFSQ7eWejR3mOYPJ4zy"
     },
     {
-      "added_at": "2024-05-17 07:34:15",
+      "added_at": "2024-05-24 07:56:44",
       "album": {
         "name": "\u0645\u0627\u0645\u0627",
         "url": "https://open.spotify.com/album/3o1uJGm5FWz1nZThS1xB8o"
@@ -729,7 +681,7 @@
       "url": "https://open.spotify.com/track/02JOIeE385aLgrUrMvOjGh"
     },
     {
-      "added_at": "2024-05-17 07:34:15",
+      "added_at": "2024-05-24 07:56:44",
       "album": {
         "name": "Nfss Lhala",
         "url": "https://open.spotify.com/album/4UPtx2VWPSsMIVPThB2cW7"
@@ -745,7 +697,7 @@
       "url": "https://open.spotify.com/track/4Sf0D2p1XLbfnVAAFFLl0E"
     },
     {
-      "added_at": "2024-05-17 07:34:15",
+      "added_at": "2024-05-24 07:56:44",
       "album": {
         "name": "Free Mami",
         "url": "https://open.spotify.com/album/41ObiBc5qr2G0WGgxSIo2k"
@@ -765,7 +717,7 @@
       "url": "https://open.spotify.com/track/3Ibieq8gwYw4pOTlP0NkJN"
     },
     {
-      "added_at": "2024-05-17 07:34:15",
+      "added_at": "2024-05-24 07:56:44",
       "album": {
         "name": "Wsalni MSG",
         "url": "https://open.spotify.com/album/0QftcGAPGyjwlZespn29DU"
@@ -785,7 +737,7 @@
       "url": "https://open.spotify.com/track/5REou7BKcQgFUOe6tTUXBD"
     },
     {
-      "added_at": "2024-05-17 07:34:15",
+      "added_at": "2024-05-24 07:56:44",
       "album": {
         "name": "Cabeza",
         "url": "https://open.spotify.com/album/1bZcXMltsvN7OaGVdXqPZO"

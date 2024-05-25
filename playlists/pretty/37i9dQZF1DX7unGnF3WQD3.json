@@ -1,6 +1,6 @@
 {
   "description": "t\u00edrate un paso y saca los prohibidos",
-  "num_followers": 76583,
+  "num_followers": 76645,
   "original_name": "los prohibidos",
   "owner": {
     "name": "Spotify",
@@ -243,22 +243,6 @@
     {
       "added_at": "2024-05-14 17:26:42",
       "album": {
-        "name": "Bailando Bachata",
-        "url": "https://open.spotify.com/album/6NthM7pMQaf9oO8KO4zrNe"
-      },
-      "artists": [
-        {
-          "name": "Chayanne",
-          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
-        }
-      ],
-      "duration_ms": 170809,
-      "name": "Bailando Bachata",
-      "url": "https://open.spotify.com/track/0nKu6ysQjldXxABnxMu7kL"
-    },
-    {
-      "added_at": "2024-05-14 17:26:42",
-      "album": {
         "name": "We Broke The Rules",
         "url": "https://open.spotify.com/album/5QdYO6Q2POaG7dhVIsJeWd"
       },
@@ -275,22 +259,18 @@
     {
       "added_at": "2024-05-14 17:26:42",
       "album": {
-        "name": "F\u00f3rmula, Vol. 2 (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/17HsiXfqKUPoTP6Y5ebs1L"
+        "name": "Bailando Bachata",
+        "url": "https://open.spotify.com/album/6NthM7pMQaf9oO8KO4zrNe"
       },
       "artists": [
         {
-          "name": "Romeo Santos",
-          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
-        },
-        {
-          "name": "Carlos Santana",
-          "url": "https://open.spotify.com/artist/0MsXN56oNCyqorqEPViWgQ"
+          "name": "Chayanne",
+          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
         }
       ],
-      "duration_ms": 264266,
-      "name": "Necio (feat. Carlos Santana)",
-      "url": "https://open.spotify.com/track/3DKWF8is9hzp84aSxnhlag"
+      "duration_ms": 170809,
+      "name": "Bailando Bachata",
+      "url": "https://open.spotify.com/track/0nKu6ysQjldXxABnxMu7kL"
     },
     {
       "added_at": "2024-05-14 17:26:42",
@@ -315,6 +295,26 @@
       "duration_ms": 204000,
       "name": "Brinca - Spotify Singles",
       "url": "https://open.spotify.com/track/1TPtornOIqa4PprEZp9LLB"
+    },
+    {
+      "added_at": "2024-05-14 17:26:42",
+      "album": {
+        "name": "F\u00f3rmula, Vol. 2 (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/17HsiXfqKUPoTP6Y5ebs1L"
+      },
+      "artists": [
+        {
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+        },
+        {
+          "name": "Carlos Santana",
+          "url": "https://open.spotify.com/artist/0MsXN56oNCyqorqEPViWgQ"
+        }
+      ],
+      "duration_ms": 264266,
+      "name": "Necio (feat. Carlos Santana)",
+      "url": "https://open.spotify.com/track/3DKWF8is9hzp84aSxnhlag"
     },
     {
       "added_at": "2024-05-14 17:26:42",
@@ -523,6 +523,26 @@
     {
       "added_at": "2024-05-14 17:26:42",
       "album": {
+        "name": "OJITOS ROJOS",
+        "url": "https://open.spotify.com/album/6mJsfQtxflmwDCCaeDBwYV"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        },
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        }
+      ],
+      "duration_ms": 221601,
+      "name": "OJITOS ROJOS",
+      "url": "https://open.spotify.com/track/5LsvrplQ7YCK4ROg4gym9a"
+    },
+    {
+      "added_at": "2024-05-14 17:26:42",
+      "album": {
         "name": "Bronceado (Remix)",
         "url": "https://open.spotify.com/album/5h6GCVe6hkOkaG12TVrzr2"
       },
@@ -543,26 +563,6 @@
       "duration_ms": 156631,
       "name": "Bronceado - Remix",
       "url": "https://open.spotify.com/track/1xxtsuafCIJm7WPQ1tdDDi"
-    },
-    {
-      "added_at": "2024-05-14 17:26:42",
-      "album": {
-        "name": "OJITOS ROJOS",
-        "url": "https://open.spotify.com/album/6mJsfQtxflmwDCCaeDBwYV"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        },
-        {
-          "name": "Ke Personajes",
-          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
-        }
-      ],
-      "duration_ms": 221601,
-      "name": "OJITOS ROJOS",
-      "url": "https://open.spotify.com/track/5LsvrplQ7YCK4ROg4gym9a"
     },
     {
       "added_at": "2024-05-14 17:26:42",
@@ -627,6 +627,22 @@
     {
       "added_at": "2024-05-14 17:26:42",
       "album": {
+        "name": "No Se Va (EN VIVO)",
+        "url": "https://open.spotify.com/album/5jgCL0iatyi00rPPXjmYS3"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 194019,
+      "name": "No Se Va - EN VIVO",
+      "url": "https://open.spotify.com/track/23Lyy7ZXRvzfgH4JtDkKrX"
+    },
+    {
+      "added_at": "2024-05-14 17:26:42",
+      "album": {
         "name": "Adi\u00f3s Amor / Oye Mujer",
         "url": "https://open.spotify.com/album/0BfSiRWo0RiAGhKowhcrxn"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 253857,
       "name": "Tus Mentiras",
       "url": "https://open.spotify.com/track/40PLgjgLNIbrLCdX3wVN1k"
-    },
-    {
-      "added_at": "2024-05-14 17:26:42",
-      "album": {
-        "name": "No Se Va (EN VIVO)",
-        "url": "https://open.spotify.com/album/5jgCL0iatyi00rPPXjmYS3"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 194019,
-      "name": "No Se Va - EN VIVO",
-      "url": "https://open.spotify.com/track/23Lyy7ZXRvzfgH4JtDkKrX"
     },
     {
       "added_at": "2024-05-14 17:26:42",
@@ -767,6 +767,26 @@
     {
       "added_at": "2024-05-14 17:26:42",
       "album": {
+        "name": "Felic\u00edtalo",
+        "url": "https://open.spotify.com/album/1yuJDBp4QY5KFIXBQfyZW7"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        },
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        }
+      ],
+      "duration_ms": 186226,
+      "name": "Felic\u00edtalo",
+      "url": "https://open.spotify.com/track/34nGrSL3eyH5KOg7AQEAjd"
+    },
+    {
+      "added_at": "2024-05-14 17:26:42",
+      "album": {
         "name": "Con Su Loquera",
         "url": "https://open.spotify.com/album/4S18mM72RcD7OY9WiyHE8q"
       },
@@ -799,26 +819,6 @@
       "duration_ms": 153506,
       "name": "Marbella",
       "url": "https://open.spotify.com/track/0nbCZLgGT6kCGzDYYAdhW6"
-    },
-    {
-      "added_at": "2024-05-14 17:26:42",
-      "album": {
-        "name": "Felic\u00edtalo",
-        "url": "https://open.spotify.com/album/1yuJDBp4QY5KFIXBQfyZW7"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        },
-        {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
-        }
-      ],
-      "duration_ms": 186226,
-      "name": "Felic\u00edtalo",
-      "url": "https://open.spotify.com/track/34nGrSL3eyH5KOg7AQEAjd"
     },
     {
       "added_at": "2024-05-14 17:26:42",
@@ -887,22 +887,6 @@
     {
       "added_at": "2024-05-14 17:26:42",
       "album": {
-        "name": "El Hombre Mas Famoso De La Tierra",
-        "url": "https://open.spotify.com/album/59IdVahjfUKyRxPcGiAp98"
-      },
-      "artists": [
-        {
-          "name": "Fulanito",
-          "url": "https://open.spotify.com/artist/0hD97064k3LBUrRvfT42SE"
-        }
-      ],
-      "duration_ms": 205333,
-      "name": "Guallando",
-      "url": "https://open.spotify.com/track/4jRxEVNituPZObHbCSBZL3"
-    },
-    {
-      "added_at": "2024-05-14 17:26:42",
-      "album": {
         "name": "CUMBIA 85",
         "url": "https://open.spotify.com/album/1HumThM5yaQwYcEoFa0yD8"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 221330,
       "name": "CUMBIA 85",
       "url": "https://open.spotify.com/track/2gJ4wHjnUZFGf9GXAU83gv"
+    },
+    {
+      "added_at": "2024-05-14 17:26:42",
+      "album": {
+        "name": "El Hombre Mas Famoso De La Tierra",
+        "url": "https://open.spotify.com/album/59IdVahjfUKyRxPcGiAp98"
+      },
+      "artists": [
+        {
+          "name": "Fulanito",
+          "url": "https://open.spotify.com/artist/0hD97064k3LBUrRvfT42SE"
+        }
+      ],
+      "duration_ms": 205333,
+      "name": "Guallando",
+      "url": "https://open.spotify.com/track/4jRxEVNituPZObHbCSBZL3"
     },
     {
       "added_at": "2024-05-14 17:26:42",
@@ -959,22 +959,6 @@
     {
       "added_at": "2024-05-14 17:26:42",
       "album": {
-        "name": "El Poder de New York",
-        "url": "https://open.spotify.com/album/4pqxqBDUI1WnJXItH0SFji"
-      },
-      "artists": [
-        {
-          "name": "Oro Solido",
-          "url": "https://open.spotify.com/artist/7wLYNBd1fXGEKSLJMNnlt4"
-        }
-      ],
-      "duration_ms": 279893,
-      "name": "Abusadora",
-      "url": "https://open.spotify.com/track/0Pr05tDGNCf4f8Fe8ubSJ4"
-    },
-    {
-      "added_at": "2024-05-14 17:26:42",
-      "album": {
         "name": "T\u00fa o Yo",
         "url": "https://open.spotify.com/album/3Uu0DhWrr2GiqDf9wPE8I2"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 163188,
       "name": "T\u00fa o Yo",
       "url": "https://open.spotify.com/track/6kALmpYx3aGYLQhcsXlKaz"
+    },
+    {
+      "added_at": "2024-05-14 17:26:42",
+      "album": {
+        "name": "El Poder de New York",
+        "url": "https://open.spotify.com/album/4pqxqBDUI1WnJXItH0SFji"
+      },
+      "artists": [
+        {
+          "name": "Oro Solido",
+          "url": "https://open.spotify.com/artist/7wLYNBd1fXGEKSLJMNnlt4"
+        }
+      ],
+      "duration_ms": 279893,
+      "name": "Abusadora",
+      "url": "https://open.spotify.com/track/0Pr05tDGNCf4f8Fe8ubSJ4"
     },
     {
       "added_at": "2024-05-14 17:26:42",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2024-05-14 17:26:42",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/2se2DHy9J2L20JV02zwQHx"
-      },
-      "artists": [
-        {
-          "name": "Fulanito",
-          "url": "https://open.spotify.com/artist/0hD97064k3LBUrRvfT42SE"
-        }
-      ],
-      "duration_ms": 206493,
-      "name": "El Cepillo",
-      "url": "https://open.spotify.com/track/2EWZswsvSERfAWzXPE2trG"
-    },
-    {
-      "added_at": "2024-05-14 17:26:42",
-      "album": {
         "name": "Cumbia Con Clase",
         "url": "https://open.spotify.com/album/1cyozcO6UvvmK3LgN8Y8iy"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 254883,
       "name": "Paloma Ajena",
       "url": "https://open.spotify.com/track/7mhIpZ9VHarkdWABXLXEEk"
+    },
+    {
+      "added_at": "2024-05-14 17:26:42",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/2se2DHy9J2L20JV02zwQHx"
+      },
+      "artists": [
+        {
+          "name": "Fulanito",
+          "url": "https://open.spotify.com/artist/0hD97064k3LBUrRvfT42SE"
+        }
+      ],
+      "duration_ms": 206493,
+      "name": "El Cepillo",
+      "url": "https://open.spotify.com/track/2EWZswsvSERfAWzXPE2trG"
     },
     {
       "added_at": "2024-05-14 17:26:42",
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2024-05-14 17:26:42",
       "album": {
+        "name": "Me Liber\u00e9",
+        "url": "https://open.spotify.com/album/32bZg0QYyvPGxfmkebhmIg"
+      },
+      "artists": [
+        {
+          "name": "Mala Fe",
+          "url": "https://open.spotify.com/artist/4oVcPiYDvfGxamTzwvnKtp"
+        }
+      ],
+      "duration_ms": 208360,
+      "name": "Con El Pompi Pa' 'rriba",
+      "url": "https://open.spotify.com/track/2NMCFyKkZFbjCDauYOBRKI"
+    },
+    {
+      "added_at": "2024-05-14 17:26:42",
+      "album": {
         "name": "Se Agradece",
         "url": "https://open.spotify.com/album/3qOtTVQrOweneiMPwaRme2"
       },
@@ -1547,22 +1563,6 @@
       "duration_ms": 221211,
       "name": "Se Agradece",
       "url": "https://open.spotify.com/track/5zOxGBR8fT1a7P58vkKTCs"
-    },
-    {
-      "added_at": "2024-05-14 17:26:42",
-      "album": {
-        "name": "Me Liber\u00e9",
-        "url": "https://open.spotify.com/album/32bZg0QYyvPGxfmkebhmIg"
-      },
-      "artists": [
-        {
-          "name": "Mala Fe",
-          "url": "https://open.spotify.com/artist/4oVcPiYDvfGxamTzwvnKtp"
-        }
-      ],
-      "duration_ms": 208360,
-      "name": "Con El Pompi Pa' 'rriba",
-      "url": "https://open.spotify.com/track/2NMCFyKkZFbjCDauYOBRKI"
     },
     {
       "added_at": "2024-05-14 17:26:42",

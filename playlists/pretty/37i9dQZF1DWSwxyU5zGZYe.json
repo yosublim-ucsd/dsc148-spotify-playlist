@@ -1,12 +1,12 @@
 {
   "description": "Tender, thoughtful & stripped down versions of your favourite Bollywood songs. ",
-  "num_followers": 207484,
+  "num_followers": 207506,
   "original_name": "Bollywood Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkGcJAAAAACvFYRNXS3VtCwg2YWhm6ts",
+  "snapshot_id": "ZlBhnAAAAAB6LWnjMeZiVaUbW37vBhGd",
   "tracks": [
     {
       "added_at": "2024-05-13 04:50:44",
@@ -51,6 +51,34 @@
       "duration_ms": 66315,
       "name": "Tu Kya Jaane - Parineeti's Cover Version",
       "url": "https://open.spotify.com/track/4EqdxKyap3pnJg1gjdpEHg"
+    },
+    {
+      "added_at": "2024-05-24 09:45:00",
+      "album": {
+        "name": "Mr. And Mrs. Mahi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3PI3er7mHLniPndwdo0mlA"
+      },
+      "artists": [
+        {
+          "name": "Hunny",
+          "url": "https://open.spotify.com/artist/5kZoZ4jNlN8RaFR7uNwhmR"
+        },
+        {
+          "name": "Bunny",
+          "url": "https://open.spotify.com/artist/0Or6EukLg1g2fTl08fPz2o"
+        },
+        {
+          "name": "Sagar",
+          "url": "https://open.spotify.com/artist/6CWBs7ul78QwnBrcOCwhf5"
+        },
+        {
+          "name": "Neeti Mohan",
+          "url": "https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM"
+        }
+      ],
+      "duration_ms": 208600,
+      "name": "Tu Hain Toh - Neeti Mohan Version (From \"Mr. And Mrs. Mahi\")",
+      "url": "https://open.spotify.com/track/7o9amiuyYz7o2fnL6YdfA6"
     },
     {
       "added_at": "2024-05-13 04:50:44",
@@ -155,6 +183,26 @@
       "duration_ms": 240786,
       "name": "Pani Da Rang Male (From \"Vicky Donor\")",
       "url": "https://open.spotify.com/track/6sfVSlvCl5evgokuWNrHbE"
+    },
+    {
+      "added_at": "2024-05-24 09:45:00",
+      "album": {
+        "name": "Mr. And Mrs. Mahi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3PI3er7mHLniPndwdo0mlA"
+      },
+      "artists": [
+        {
+          "name": "Vishal Mishra",
+          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
+        },
+        {
+          "name": "Azeem Dayani",
+          "url": "https://open.spotify.com/artist/3LS9qSMFoF810jMMBGf4fU"
+        }
+      ],
+      "duration_ms": 300434,
+      "name": "Roya Jab Tu (From \"Mr. And Mrs. Mahi\")",
+      "url": "https://open.spotify.com/track/0IKoHIQ1CshjtvYIOu5hwB"
     },
     {
       "added_at": "2024-05-13 04:50:44",
@@ -947,34 +995,6 @@
     {
       "added_at": "2024-05-13 04:50:44",
       "album": {
-        "name": "Mast Mein Rehne Ka",
-        "url": "https://open.spotify.com/album/57Mp5CEnRAXsuDHeltvyKf"
-      },
-      "artists": [
-        {
-          "name": "Madhubanti Bagchi",
-          "url": "https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h"
-        },
-        {
-          "name": "Keshav Tyohar",
-          "url": "https://open.spotify.com/artist/4K2l6pikW66DDwViUWSUpS"
-        },
-        {
-          "name": "Anurag Saikia",
-          "url": "https://open.spotify.com/artist/6hzngLO20cX5IGqT0hVv1G"
-        },
-        {
-          "name": "Vijay Maurya",
-          "url": "https://open.spotify.com/artist/0DPMEDEtRZYhlbWSAtbpNX"
-        }
-      ],
-      "duration_ms": 203202,
-      "name": "Ek Taara Reprise",
-      "url": "https://open.spotify.com/track/1c0FE1ZloNTZpLS8CRwl6X"
-    },
-    {
-      "added_at": "2024-05-13 04:50:44",
-      "album": {
         "name": "Laal Singh Chaddha (Extended Album)",
         "url": "https://open.spotify.com/album/7mlKqiSL0QQAdf3ZFzGVez"
       },
@@ -1011,26 +1031,6 @@
       "duration_ms": 75000,
       "name": "Tum Kya Mile - Jonita's Version",
       "url": "https://open.spotify.com/track/7JdzydVMtRwxr1BUIipZbv"
-    },
-    {
-      "added_at": "2024-05-13 04:50:44",
-      "album": {
-        "name": "Madgaon Express (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/30nKAJc9tf9QOEZQCa2jPH"
-      },
-      "artists": [
-        {
-          "name": "Kunal Kemmu",
-          "url": "https://open.spotify.com/artist/0YHAEByvvpuptet6AuZaTz"
-        },
-        {
-          "name": "Ankur Tewari",
-          "url": "https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6"
-        }
-      ],
-      "duration_ms": 201480,
-      "name": "Hum Yahin - From \"Madgaon Express\"",
-      "url": "https://open.spotify.com/track/0nl0sFvQFtphsnlLmHsWHK"
     },
     {
       "added_at": "2024-05-13 04:50:44",

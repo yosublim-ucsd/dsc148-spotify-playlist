@@ -2158,7 +2158,7 @@
       ],
       "date_added": "2024-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 178608,
       "name": "Gardan Pe",
       "url": "https://open.spotify.com/track/4PVTwQqET48kzzI8SJTLIO"
@@ -2661,6 +2661,32 @@
     },
     {
       "album": {
+        "name": "House Of Lies",
+        "url": "https://open.spotify.com/album/58U6KMHr9ApwuTXeKXIGa9"
+      },
+      "artists": [
+        {
+          "name": "Ikka",
+          "url": "https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR"
+        },
+        {
+          "name": "Karan Aujla",
+          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
+        },
+        {
+          "name": "Sanjoy",
+          "url": "https://open.spotify.com/artist/6qjhYs5KNSoSU6fNJqDGIo"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179169,
+      "name": "House Of Lies",
+      "url": "https://open.spotify.com/track/7avo2LpNFXrgUgRtl9OsAL"
+    },
+    {
+      "album": {
         "name": "Humnasheen",
         "url": "https://open.spotify.com/album/1lrsCjg7ktVG4Db5gB7ZKH"
       },
@@ -3078,7 +3104,7 @@
       ],
       "date_added": "2024-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 171400,
       "name": "Kaala Teeka",
       "url": "https://open.spotify.com/track/6GDEzYzHX4DcmQdR2njtC5"
@@ -3680,6 +3706,28 @@
       "duration_ms": 201151,
       "name": "Madari (feat. Karan Kanchan)",
       "url": "https://open.spotify.com/track/6mn6FTPISyKwCo4On7CmVZ"
+    },
+    {
+      "album": {
+        "name": "Mainland",
+        "url": "https://open.spotify.com/album/3y5zOBt4JrHvS6vU90cAg5"
+      },
+      "artists": [
+        {
+          "name": "Kidshot",
+          "url": "https://open.spotify.com/artist/0vZEDTIhGPOIRL0KjqMWTy"
+        },
+        {
+          "name": "Basshole",
+          "url": "https://open.spotify.com/artist/0ekmt23HAEQg3GXQtVNk4e"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139928,
+      "name": "Mainland",
+      "url": "https://open.spotify.com/track/6YrQ422bJREGoc6TvVlGDm"
     },
     {
       "album": {

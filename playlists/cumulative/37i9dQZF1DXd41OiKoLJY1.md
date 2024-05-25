@@ -4,7 +4,7 @@
 
 > Fresh releases from your future favorite artists\. Cover: Ron Macapagal\. Artwork: Isu Kim
 
-2,335 songs - 5 day 17 hr 47 min
+2,336 songs - 5 day 17 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2127,6 +2127,7 @@
 | [Too](https://open.spotify.com/track/1G0BWOTACWK9fA2EPMrGrR) | [chamomile](https://open.spotify.com/artist/62G9l0YFUduJjC2g9XsJHS) | [Late Springer](https://open.spotify.com/album/4zodZSzp5k57kVpkWhK2fu) | 4:42 | 2023-02-16 | 2023-03-03 |
 | [Too Blessed](https://open.spotify.com/track/771dgpjuGEZYS5c0uMqfUQ) | [J.Tine](https://open.spotify.com/artist/5Un8ToMrUafryP1SKg4Fzf), [Young Blood Neet](https://open.spotify.com/artist/0Vl8gbpWPr8B6N7g5UtPSU) | [Too Blessed](https://open.spotify.com/album/4lSlyouB22jVRwdbdCjPlc) | 3:42 | 2023-05-25 | 2023-06-16 |
 | [Too Good](https://open.spotify.com/track/1UiEbiTRPVVq84zWwLYyku) | [Mica Javier](https://open.spotify.com/artist/1fwxng0bfmgRfzdutglXEa) | [Too Good](https://open.spotify.com/album/0mWUfnQkonmY7Td5XN31T6) | 2:52 | 2023-08-24 | 2023-09-15 |
+| [TOP SHOTTA](https://open.spotify.com/track/13qqNEfNs0IlDp7dEy7hRP) | [THUGSTA](https://open.spotify.com/artist/5EmXpuTNIJc6YTD2su7L4x) | [TOP SHOTTA](https://open.spotify.com/album/2DZh4v65B9K2b5eLVJfxSC) | 2:05 | 2024-05-23 |  |
 | [Totoo Lang](https://open.spotify.com/track/1PHy2M2RuDQ1SRhHrJPsgP) | [Rich Flo](https://open.spotify.com/artist/71junpzEi4CvJM1nhoVuWc) | [Totoo Lang](https://open.spotify.com/album/0ebGwTsXwgNlDWq9zpLVbL) | 3:33 | 2023-08-17 | 2023-09-08 |
 | [Toxic](https://open.spotify.com/track/6MrVnhyFPEsJix8yNfvbUe) | [CJt](https://open.spotify.com/artist/5wMe42YSVxyFt6amGFPCbS), [innerbloomboi](https://open.spotify.com/artist/3KsXtARnps2rBlq7d8W7wV) | [Toxic](https://open.spotify.com/album/5S6Z0fC76i8RoAyefcqiWE) | 2:49 | 2023-08-03 | 2024-01-12 |
 | [TOXIC](https://open.spotify.com/track/1jJb9OuE26uSzFep0XJaYt) | [KZZY](https://open.spotify.com/artist/3npYwV74Euuu9W97dL6K8E), [Dominsuu](https://open.spotify.com/artist/2u913cPvHStJrhCDTLckhU) | [TOXIC](https://open.spotify.com/album/0VhzIC8f5QzF64lUgohJnU) | 2:41 | 2024-04-11 |  |

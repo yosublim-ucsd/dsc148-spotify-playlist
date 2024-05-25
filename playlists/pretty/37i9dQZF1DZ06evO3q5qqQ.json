@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Arriesgado. The essential tracks, all in one playlist.",
-  "num_followers": 107865,
+  "num_followers": 107888,
   "original_name": "This Is Grupo Arriesgado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zk01gAAAAADOlOjcaVgbWfix9IOf7QNt",
+  "snapshot_id": "Zk6HAAAAAABp/QwV9AgZzHFyeJY+ngb5",
   "tracks": [
     {
       "added_at": null,
@@ -287,22 +287,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hasta La Caja Cuesta",
-        "url": "https://open.spotify.com/album/4u0jPQcfzJhe0a9kwSspky"
+        "name": "La Novedad",
+        "url": "https://open.spotify.com/album/4g1jM8LxOmRtbYAV5StdLS"
       },
       "artists": [
         {
-          "name": "Los Alegres Del Barranco",
-          "url": "https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv"
+          "name": "Ra\u00fal Beltran",
+          "url": "https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP"
         },
         {
           "name": "Grupo Arriesgado",
           "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
         }
       ],
-      "duration_ms": 173760,
-      "name": "Hasta La Caja Cuesta",
-      "url": "https://open.spotify.com/track/6Wh9RDEd5wjWETZNWkwt1F"
+      "duration_ms": 209157,
+      "name": "La Novedad",
+      "url": "https://open.spotify.com/track/0dTEbcnrWxFuUsq0dkhHgi"
     },
     {
       "added_at": null,
@@ -323,22 +323,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Novedad",
-        "url": "https://open.spotify.com/album/4g1jM8LxOmRtbYAV5StdLS"
+        "name": "Hasta La Caja Cuesta",
+        "url": "https://open.spotify.com/album/4u0jPQcfzJhe0a9kwSspky"
       },
       "artists": [
         {
-          "name": "Ra\u00fal Beltran",
-          "url": "https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP"
+          "name": "Los Alegres Del Barranco",
+          "url": "https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv"
         },
         {
           "name": "Grupo Arriesgado",
           "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
         }
       ],
-      "duration_ms": 209157,
-      "name": "La Novedad",
-      "url": "https://open.spotify.com/track/0dTEbcnrWxFuUsq0dkhHgi"
+      "duration_ms": 173760,
+      "name": "Hasta La Caja Cuesta",
+      "url": "https://open.spotify.com/track/6Wh9RDEd5wjWETZNWkwt1F"
     },
     {
       "added_at": null,
@@ -475,6 +475,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Mollete (En Vivo)",
+        "url": "https://open.spotify.com/album/6NHKYhMdtDI52ztF4mkeBA"
+      },
+      "artists": [
+        {
+          "name": "Los Chavalitos",
+          "url": "https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0"
+        },
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 125400,
+      "name": "El Mollete (En Vivo)",
+      "url": "https://open.spotify.com/track/0rpdG6Pg0AjxHiIzwnvUMq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Precio De La Soledad",
         "url": "https://open.spotify.com/album/2eJw7c1smx7ycjTqcBgI5I"
       },
@@ -507,26 +527,6 @@
       "duration_ms": 216604,
       "name": "La Ley del Mayo",
       "url": "https://open.spotify.com/track/4JgF8vGk0Vp3rBOHWBMjW7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Mollete (En Vivo)",
-        "url": "https://open.spotify.com/album/6NHKYhMdtDI52ztF4mkeBA"
-      },
-      "artists": [
-        {
-          "name": "Los Chavalitos",
-          "url": "https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0"
-        },
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 125400,
-      "name": "El Mollete (En Vivo)",
-      "url": "https://open.spotify.com/track/0rpdG6Pg0AjxHiIzwnvUMq"
     },
     {
       "added_at": null,
@@ -615,22 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Mes De Las Madres",
-        "url": "https://open.spotify.com/album/5wUs3Gjy7H6Pvq873lvoDN"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 175673,
-      "name": "El Chapio",
-      "url": "https://open.spotify.com/track/67awu82DAAtJGUtvfbSZM8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Rey Del Desierto",
         "url": "https://open.spotify.com/album/4JCudJFhG9tWtQSpeeUMo2"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 179733,
       "name": "El Rey Del Desierto",
       "url": "https://open.spotify.com/track/1iO6pfHqWdge88EyhGaqFE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Mes De Las Madres",
+        "url": "https://open.spotify.com/album/5wUs3Gjy7H6Pvq873lvoDN"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 175673,
+      "name": "El Chapio",
+      "url": "https://open.spotify.com/track/67awu82DAAtJGUtvfbSZM8"
     },
     {
       "added_at": null,
@@ -687,22 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Mes De Las Madres",
-        "url": "https://open.spotify.com/album/5wUs3Gjy7H6Pvq873lvoDN"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 154409,
-      "name": "El Me\u00f1o",
-      "url": "https://open.spotify.com/track/0R7ryDiB3sID2SDt9ny50C"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rancherik Asterik",
         "url": "https://open.spotify.com/album/4oXl05OItqFoGP7f80mnGD"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 134826,
       "name": "Rancherik Asterik",
       "url": "https://open.spotify.com/track/61xXO8u6IwE1o2cDv66V83"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Mes De Las Madres",
+        "url": "https://open.spotify.com/album/5wUs3Gjy7H6Pvq873lvoDN"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 154409,
+      "name": "El Me\u00f1o",
+      "url": "https://open.spotify.com/track/0R7ryDiB3sID2SDt9ny50C"
     },
     {
       "added_at": null,
@@ -775,6 +775,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gustoso Y Contento (En Vivo)",
+        "url": "https://open.spotify.com/album/1hcmRYDs73U5kqweVzy7vE"
+      },
+      "artists": [
+        {
+          "name": "Los Chavalitos",
+          "url": "https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0"
+        },
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 153640,
+      "name": "Gustoso Y Contento (En Vivo)",
+      "url": "https://open.spotify.com/track/3vD7rRP6RitDcgJxPIOns3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Son Cosas De La Peda",
         "url": "https://open.spotify.com/album/1JIFXZFu0d8ZPUiyq531zE"
       },
@@ -827,42 +847,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gustoso Y Contento (En Vivo)",
-        "url": "https://open.spotify.com/album/1hcmRYDs73U5kqweVzy7vE"
-      },
-      "artists": [
-        {
-          "name": "Los Chavalitos",
-          "url": "https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0"
-        },
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 153640,
-      "name": "Gustoso Y Contento (En Vivo)",
-      "url": "https://open.spotify.com/track/3vD7rRP6RitDcgJxPIOns3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A La Sombra De Un \u00c1rbol, Vol. II (En Vivo)",
-        "url": "https://open.spotify.com/album/5E7iMK7m675htoXMQigyeM"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 189738,
-      "name": "Chuyito y el Mayo (En Vivo)",
-      "url": "https://open.spotify.com/track/7jjlHbcXCJOHJ2h7ilpQyx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Son Cosas De La Peda",
         "url": "https://open.spotify.com/album/27dr3cYlhnh0gCCXdctJXZ"
       },
@@ -887,8 +871,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Tiempos De Aguas",
-        "url": "https://open.spotify.com/album/3RPyUzWLR3liD40Lpytjxg"
+        "name": "A La Sombra De Un \u00c1rbol, Vol. II (En Vivo)",
+        "url": "https://open.spotify.com/album/5E7iMK7m675htoXMQigyeM"
       },
       "artists": [
         {
@@ -896,9 +880,9 @@
           "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
         }
       ],
-      "duration_ms": 184957,
-      "name": "Jimenez",
-      "url": "https://open.spotify.com/track/7j1Un12rLufeK7WEuTgAKe"
+      "duration_ms": 189738,
+      "name": "Chuyito y el Mayo (En Vivo)",
+      "url": "https://open.spotify.com/track/7jjlHbcXCJOHJ2h7ilpQyx"
     },
     {
       "added_at": null,
@@ -919,6 +903,22 @@
       "duration_ms": 203504,
       "name": "Somos Gente Del Sombrero - En Vivo",
       "url": "https://open.spotify.com/track/5cJUpAtZBY253aPOo0QmId"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Los Tiempos De Aguas",
+        "url": "https://open.spotify.com/album/3RPyUzWLR3liD40Lpytjxg"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 184957,
+      "name": "Jimenez",
+      "url": "https://open.spotify.com/track/7j1Un12rLufeK7WEuTgAKe"
     }
   ],
   "unique_name": "This Is Grupo Arriesgado",

@@ -2,9 +2,9 @@
 
 ### [Top Christian & Gospel](https://open.spotify.com/playlist/37i9dQZF1DXcb6CQIjdqKy)
 
-> The best mix of today's Christian music, all genres, worldwide\. Cover: <a href="spotify:artist:5wpEBloInversG3zp3CVAk">Jeremy Camp</a>
+> The best mix of today's Christian music, all genres, worldwide\. Cover: <a href="spotify:artist:7yAymwuYh9RcpX84GSNIq2">Josiah Queen</a>
 
-795 songs - 2 day 7 hr 23 min
+796 songs - 2 day 7 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -399,7 +399,7 @@
 | [Lamb \(feat\. Tiffany Hudson\) \- Live](https://open.spotify.com/track/0RG4tDb9PCACXsbzxBcxUa) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Tiffany Hudson](https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV) | [LION: Live From The Loft](https://open.spotify.com/album/3NuWIiW4HolOWYQFYiJ5eg) | 6:53 | 2022-08-19 | 2022-12-03 |
 | [Lamb of God \- Live](https://open.spotify.com/track/3Qh7WTXJYgxVG0lr2TUK6o) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ), [David Funk](https://open.spotify.com/artist/5Bj9jhPkLNyIDxkHOf2fpc) | [Lamb of God \(Live\)](https://open.spotify.com/album/6291e3R6aw8Vy6FgoZ6aq2) | 5:35 | 2023-02-03 | 2023-02-18 |
 | [Lay It Down](https://open.spotify.com/track/00pIogLJIuzEt6BgGqmeSU) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [Lay It Down](https://open.spotify.com/album/4zCQTxGGVRYQXQtakZeqnV) | 4:53 | 2023-09-01 | 2023-11-18 |
-| [Lead On Good Shepherd](https://open.spotify.com/track/4pamu1hc1av1c4BhY8Wh3j) | [Patrick Mayberry](https://open.spotify.com/artist/4ry1oelvTLzDwOKVxLpzwo), [Zahriya Zachary](https://open.spotify.com/artist/4yKfjUNdXjRX2fHUEgoL5L) | [Lead On Good Shepherd](https://open.spotify.com/album/0kU2cgMwYC02qZ9YigsHBO) | 3:23 | 2023-09-01 |  |
+| [Lead On Good Shepherd](https://open.spotify.com/track/4pamu1hc1av1c4BhY8Wh3j) | [Patrick Mayberry](https://open.spotify.com/artist/4ry1oelvTLzDwOKVxLpzwo), [Zahriya Zachary](https://open.spotify.com/artist/4yKfjUNdXjRX2fHUEgoL5L) | [Lead On Good Shepherd](https://open.spotify.com/album/0kU2cgMwYC02qZ9YigsHBO) | 3:23 | 2023-09-01 | 2024-05-25 |
 | [Lead Us Again](https://open.spotify.com/track/0seNJfhpswD4tezTwdDihi) | [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW) | [Lead Us Again](https://open.spotify.com/album/4XtnfesJFV6BOsF29xMYJa) | 4:32 | 2023-05-26 | 2023-09-23 |
 | [Lean on the Lord](https://open.spotify.com/track/1zbaqLQ3LEuteLOWobr61c) | [Housefires](https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD), [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C), [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [Lean On The Lord](https://open.spotify.com/album/55CizL1IoHzTok1dG3Oo2I) | 5:46 | 2022-11-18 | 2023-01-06 |
 | [Leaning](https://open.spotify.com/track/5i4eapszFQYMycVSOiBxHG) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW), [Lizzie Morgan](https://open.spotify.com/artist/6ErLTSGjADcbmh10k8uion) | [Leaning](https://open.spotify.com/album/6Dk3GXUdiov6fsnXdELZTi) | 3:39 | 2022-04-01 | 2022-06-25 |
@@ -468,6 +468,7 @@
 | [More Than Able \(feat\. Tasha Cobbs Leonard\)](https://open.spotify.com/track/7KeMUZAdegNFrikChmSbvV) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [The Maverick Way \- EP](https://open.spotify.com/album/4GHtoBIXzNJcjoqPD0WSlz) | 9:16 | 2023-09-15 | 2023-10-24 |
 | [MORE!](https://open.spotify.com/track/66wPG22qStRk2Hl5h0905j) | [Consumed By Fire](https://open.spotify.com/artist/7nuXXKpffW4YAaXrJP6IH5) | [First Things First](https://open.spotify.com/album/06eEaL5af1KAXPZY8pinIj) | 2:29 | 2023-09-22 | 2024-02-03 |
 | [My Deliverer](https://open.spotify.com/track/0oTqpffMAdIcVD2QInfrIO) | [Dara Maclean](https://open.spotify.com/artist/51mDLET3uU71KUA2OkDvFm), [Chi Chi Onyekanne](https://open.spotify.com/artist/50gFsE5NXUZTs9Ystdog7B) | [My Deliverer](https://open.spotify.com/album/3dBEsJbJjAytRaLnBWWOr9) | 5:24 | 2022-04-22 | 2022-10-01 |
+| [My God Can](https://open.spotify.com/track/1ySdxDrt5kh9MiEM8doZLL) | [Katy Nichole](https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [Jesus Changed My Life \(Deluxe Edition\)](https://open.spotify.com/album/1DaO9r3sgudFiiBYVPGrSo) | 3:13 | 2024-05-24 |  |
 | [My God Can](https://open.spotify.com/track/66FyOjreSvM26FWvVvsjOP) | [Katy Nichole](https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [My God Can](https://open.spotify.com/album/2EsJkUcFBmJxhwhFU6dZnI) | 3:13 | 2024-01-05 | 2024-03-16 |
 | [My God Is Still The Same](https://open.spotify.com/track/18QN5s8wxFP61qsKPLiBue) | [Sanctus Real](https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj) | [My God Is Still The Same](https://open.spotify.com/album/5YFrFIwYuNxdYIA0I0qFy1) | 3:25 | 2022-02-11 | 2022-04-23 |
 | [My Inheritance](https://open.spotify.com/track/2WqciR3rQkk09eWCrxtjo3) | [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU) | [My Inheritance](https://open.spotify.com/album/7LxrrpGOizlJSuXhVGNWUR) | 3:34 | 2023-09-01 | 2023-09-16 |

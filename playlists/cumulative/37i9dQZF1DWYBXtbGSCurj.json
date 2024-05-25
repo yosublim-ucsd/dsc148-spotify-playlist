@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "O Trap brasileiro puro ouro, entre lan\u00e7amentos e hits. Foto: Cryzin",
+  "description": "O Trap brasileiro puro ouro, entre lan\u00e7amentos e hits. Foto: Mc Luanna, Ajuliacosta",
   "name": "Trap Ouro",
   "tracks": [
     {
@@ -3762,7 +3762,7 @@
       ],
       "date_added": "2024-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 140146,
       "name": "Bpn",
       "url": "https://open.spotify.com/track/5L3AslRWDg4kyf3wkRGYEl"
@@ -3918,7 +3918,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 160629,
       "name": "Brotou uma P!ranha",
       "url": "https://open.spotify.com/track/3VqAUdeNOHJqheiVit9gyl"
@@ -7392,7 +7392,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 179057,
       "name": "Desce na Onda pra Mim",
       "url": "https://open.spotify.com/track/72RQSTPOid12RS0zHdy91E"
@@ -7710,6 +7710,36 @@
       "duration_ms": 179574,
       "name": "Dez e Faixa",
       "url": "https://open.spotify.com/track/0Z6gKWw11x5pKSA16NOn6C"
+    },
+    {
+      "album": {
+        "name": "Consequ\u00eancias",
+        "url": "https://open.spotify.com/album/0iRMKFD3Pwq7heMrMsg8Dk"
+      },
+      "artists": [
+        {
+          "name": "Marquinho no Beat",
+          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
+        },
+        {
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+        },
+        {
+          "name": "Azevedo",
+          "url": "https://open.spotify.com/artist/0wopeyG3WHLoKcmrFD2jrY"
+        },
+        {
+          "name": "Shenlong",
+          "url": "https://open.spotify.com/artist/6Dzh6uXgA0QKVg1eIWxdDY"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208372,
+      "name": "Dia de Baile",
+      "url": "https://open.spotify.com/track/1zq1SispRxaFIKj3v9qOzN"
     },
     {
       "album": {
@@ -22289,6 +22319,32 @@
     },
     {
       "album": {
+        "name": "Piranha",
+        "url": "https://open.spotify.com/album/7Msb9eEGxaujbKTFzL9ykK"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Ajuliacosta",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "Mello Santana",
+          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176098,
+      "name": "Piranha",
+      "url": "https://open.spotify.com/track/3FVtG5hvfbOpcQipyovIZE"
+    },
+    {
+      "album": {
         "name": "LADY LESTE",
         "url": "https://open.spotify.com/album/4Qq4x0tJGWEFZt6jnvOKrQ"
       },
@@ -24207,6 +24263,32 @@
     },
     {
       "album": {
+        "name": "Que Covardia",
+        "url": "https://open.spotify.com/album/25aRYo4Sa4bdM0bTALSDj6"
+      },
+      "artists": [
+        {
+          "name": "MC Maneirinho",
+          "url": "https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ"
+        },
+        {
+          "name": "NADAMAL",
+          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
+        },
+        {
+          "name": "MC PH",
+          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173114,
+      "name": "Que Covardia",
+      "url": "https://open.spotify.com/track/4MsMm1zNLzSnATK1l1NnjZ"
+    },
+    {
+      "album": {
         "name": "Que Nem Crian\u00e7a",
         "url": "https://open.spotify.com/album/4wrYuwiRAIrhkpf5z8Nbtt"
       },
@@ -24344,7 +24426,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 210649,
       "name": "Quer ou N\u00e3o Quer?",
       "url": "https://open.spotify.com/track/6P3pUqOjoXYxsYEeqdHriP"
@@ -25276,6 +25358,32 @@
       "duration_ms": 202545,
       "name": "Ronda",
       "url": "https://open.spotify.com/track/31WO5KyloADrEOP61iLm4i"
+    },
+    {
+      "album": {
+        "name": "Roupa Cara",
+        "url": "https://open.spotify.com/album/41nwWMEfFod2eEV3FrqgbF"
+      },
+      "artists": [
+        {
+          "name": "Leviano",
+          "url": "https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ"
+        },
+        {
+          "name": "Mc Paiva ZS",
+          "url": "https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5"
+        },
+        {
+          "name": "Marquinho no Beat",
+          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145714,
+      "name": "Roupa Cara",
+      "url": "https://open.spotify.com/track/7HMavl9dGhcX5TxD1CWBT5"
     },
     {
       "album": {
@@ -27623,6 +27731,36 @@
     },
     {
       "album": {
+        "name": "SEMR\u00c9H",
+        "url": "https://open.spotify.com/album/2xTJzFHszAuE5hAq0Q1Rpw"
+      },
+      "artists": [
+        {
+          "name": "Ryu, The Runner",
+          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
+        },
+        {
+          "name": "6ee",
+          "url": "https://open.spotify.com/artist/44sYX4gwGmUZBnNT2AZTPW"
+        },
+        {
+          "name": "Iuri Rio Branco",
+          "url": "https://open.spotify.com/artist/7CDNHcDbOQU1gK1OxjZlcC"
+        },
+        {
+          "name": "Jean Tassy",
+          "url": "https://open.spotify.com/artist/6XQrv3AiNUS61JFK1VITTU"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143910,
+      "name": "SUV",
+      "url": "https://open.spotify.com/track/1SxlyYU0KcI0wGLBtFObjg"
+    },
+    {
+      "album": {
         "name": "Diretoria",
         "url": "https://open.spotify.com/album/062ycDqIDtT21UFyKlHDvO"
       },
@@ -29662,7 +29800,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 158400,
       "name": "T\u00e1 Eu e a Nicole",
       "url": "https://open.spotify.com/track/7yAWTGdWaBZR2lqZEvD999"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUnYXoRsooMF.md) - [plain]
 
 > Get the perfect 8 hours in with gentle Ambient and piano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,014 likes - 164 songs - 8 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,023 likes - 164 songs - 8 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

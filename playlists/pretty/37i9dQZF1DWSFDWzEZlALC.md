@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > <a href="https://www.introducing.events/">Hier</a> anmelden für das Wilde Herzen Festival mit JEREMIAS, Zartmann, Sandra Isabel, elimako, Levin Liam, Dilla, SOFFIE, error und Katha Pauer
 
-[Spotify](https://open.spotify.com/user/spotify) - 423,985 likes - 75 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 424,028 likes - 75 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

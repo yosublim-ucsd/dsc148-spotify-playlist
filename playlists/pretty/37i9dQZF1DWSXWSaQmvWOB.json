@@ -1,12 +1,12 @@
 {
   "description": "New soul-infused music every week! Cover: Jordan Rakei",
-  "num_followers": 459340,
+  "num_followers": 459400,
   "original_name": "Soul 'n' the City",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkaB4AAAAADwePtl8sUg1342Pq9EM7fI",
+  "snapshot_id": "ZlBhAQAAAAC8BrpzJ1Duhff/sp6cvcfJ",
   "tracks": [
     {
       "added_at": "2024-05-16 22:00:00",
@@ -23,6 +23,90 @@
       "duration_ms": 206571,
       "name": "Trust",
       "url": "https://open.spotify.com/track/4i6YTuChfl0hMZWRiK3OF1"
+    },
+    {
+      "added_at": "2024-05-16 22:00:00",
+      "album": {
+        "name": "In Limbo",
+        "url": "https://open.spotify.com/album/4VsRC2WqckvyyMSKu4ulYu"
+      },
+      "artists": [
+        {
+          "name": "Pale Jay",
+          "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM"
+        },
+        {
+          "name": "Ironsides",
+          "url": "https://open.spotify.com/artist/4nzySyLtM3nYbLWVB8gy0U"
+        }
+      ],
+      "duration_ms": 195600,
+      "name": "In Limbo",
+      "url": "https://open.spotify.com/track/0ehGcL48kQnjyvhe8P49pq"
+    },
+    {
+      "added_at": "2024-05-24 09:42:25",
+      "album": {
+        "name": "Bad & Bouje\u00e9",
+        "url": "https://open.spotify.com/album/6Wh4oQPqGyIowJzzD0CLnu"
+      },
+      "artists": [
+        {
+          "name": "Jerome Thomas",
+          "url": "https://open.spotify.com/artist/3w3vmT2hRskRBwDZdjUlAp"
+        },
+        {
+          "name": "Pitch 92",
+          "url": "https://open.spotify.com/artist/0LjApYPFAPUvMYMb1gFJrc"
+        }
+      ],
+      "duration_ms": 171375,
+      "name": "Bad & Bouje\u00e9",
+      "url": "https://open.spotify.com/track/5trStVVZTbctHpR0uqoIWr"
+    },
+    {
+      "added_at": "2024-05-24 09:42:25",
+      "album": {
+        "name": "Find Your Flame",
+        "url": "https://open.spotify.com/album/7dkkrLhrHCTPsmc7JucvgL"
+      },
+      "artists": [
+        {
+          "name": "Nubiyan Twist",
+          "url": "https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+        }
+      ],
+      "duration_ms": 241560,
+      "name": "Lights Out",
+      "url": "https://open.spotify.com/track/4wRaWtogW3IXgNBrL2jqZ8"
+    },
+    {
+      "added_at": "2024-05-24 09:42:25",
+      "album": {
+        "name": "Eon",
+        "url": "https://open.spotify.com/album/4LUTndEHE6DgiOAiHN5hgQ"
+      },
+      "artists": [
+        {
+          "name": "Pete Philly & Perquisite",
+          "url": "https://open.spotify.com/artist/4XOAS1Q62GWP67HMX7ASk3"
+        },
+        {
+          "name": "Pete Philly",
+          "url": "https://open.spotify.com/artist/0DD1CBUI4ypYSqvKUyjNoO"
+        },
+        {
+          "name": "Perquisite",
+          "url": "https://open.spotify.com/artist/1jYPZvaIkl6LoRFFcXeJa2"
+        }
+      ],
+      "duration_ms": 198321,
+      "name": "Eon",
+      "url": "https://open.spotify.com/track/3rIJKLPUqpXQGWmldbgbxH"
     },
     {
       "added_at": "2024-05-16 22:00:00",
@@ -57,40 +141,36 @@
       "url": "https://open.spotify.com/track/1kJK2dkXbMw8yOMFEuJUm7"
     },
     {
-      "added_at": "2024-05-16 22:00:00",
+      "added_at": "2024-05-24 09:42:25",
       "album": {
-        "name": "In Limbo",
-        "url": "https://open.spotify.com/album/4VsRC2WqckvyyMSKu4ulYu"
+        "name": "DOWN TO EARTH",
+        "url": "https://open.spotify.com/album/2ytD8Aj9m2zF42kYSHDFVx"
       },
       "artists": [
         {
-          "name": "Pale Jay",
-          "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM"
-        },
-        {
-          "name": "Ironsides",
-          "url": "https://open.spotify.com/artist/4nzySyLtM3nYbLWVB8gy0U"
+          "name": "S\u00e4m Wilder",
+          "url": "https://open.spotify.com/artist/5ggPsCXzRhoyVoeMRvg32B"
         }
       ],
-      "duration_ms": 195600,
-      "name": "In Limbo",
-      "url": "https://open.spotify.com/track/0ehGcL48kQnjyvhe8P49pq"
+      "duration_ms": 180791,
+      "name": "DOWN TO EARTH",
+      "url": "https://open.spotify.com/track/0xzMgzRwyU2QKSHhkZFmhk"
     },
     {
       "added_at": "2024-05-16 22:00:00",
       "album": {
-        "name": "Can't Run Away",
-        "url": "https://open.spotify.com/album/51G7lKy7EotQyxosGnuz8S"
+        "name": "Feeling Good (triple j Like A Version)",
+        "url": "https://open.spotify.com/album/6YQtpgkFSYr9sF8fTsHbMs"
       },
       "artists": [
         {
-          "name": "Otis McDonald",
-          "url": "https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T"
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
         }
       ],
-      "duration_ms": 154615,
-      "name": "Can't Run Away",
-      "url": "https://open.spotify.com/track/4Ki2TOHssKp12BfZusqG1Q"
+      "duration_ms": 239299,
+      "name": "Feeling Good - triple j Like A Version",
+      "url": "https://open.spotify.com/track/4kY3cAWzzKVn3ZmYfOOJul"
     },
     {
       "added_at": "2024-05-16 22:00:00",
@@ -109,6 +189,90 @@
       "url": "https://open.spotify.com/track/7r4ktpN7S9DORPXVoyXaBN"
     },
     {
+      "added_at": "2024-05-24 09:42:25",
+      "album": {
+        "name": "Defence EP",
+        "url": "https://open.spotify.com/album/3tTvRrOthZJ5w7gEwXRuo0"
+      },
+      "artists": [
+        {
+          "name": "Pete Josef",
+          "url": "https://open.spotify.com/artist/7c59lOg1veety7jD83d31w"
+        }
+      ],
+      "duration_ms": 279000,
+      "name": "Defence",
+      "url": "https://open.spotify.com/track/0uBXE0zIKcfFiFHHmMuU2R"
+    },
+    {
+      "added_at": "2024-05-24 09:42:25",
+      "album": {
+        "name": "Changes",
+        "url": "https://open.spotify.com/album/2oow0cVzVXw7FOAxKyjD1v"
+      },
+      "artists": [
+        {
+          "name": "Stefan Sands",
+          "url": "https://open.spotify.com/artist/63iNYBnrXorH2RsjM1KOfv"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Changes",
+      "url": "https://open.spotify.com/track/2BRlr1GWfNxtZllyf5YB17"
+    },
+    {
+      "added_at": "2024-05-16 22:00:00",
+      "album": {
+        "name": "Can't Run Away",
+        "url": "https://open.spotify.com/album/51G7lKy7EotQyxosGnuz8S"
+      },
+      "artists": [
+        {
+          "name": "Otis McDonald",
+          "url": "https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T"
+        }
+      ],
+      "duration_ms": 154615,
+      "name": "Can't Run Away",
+      "url": "https://open.spotify.com/track/4Ki2TOHssKp12BfZusqG1Q"
+    },
+    {
+      "added_at": "2024-05-24 09:42:25",
+      "album": {
+        "name": "Fly",
+        "url": "https://open.spotify.com/album/670iJZp3uBCVMUvsxuhRsJ"
+      },
+      "artists": [
+        {
+          "name": "Blanka",
+          "url": "https://open.spotify.com/artist/5ApOEJzMyQ05McnLtwoTRi"
+        },
+        {
+          "name": "King Krab",
+          "url": "https://open.spotify.com/artist/7bt5CUlC3R7zatM86wwLlU"
+        }
+      ],
+      "duration_ms": 199836,
+      "name": "Fly",
+      "url": "https://open.spotify.com/track/4quZsJLhIEj1CwsJ15ski5"
+    },
+    {
+      "added_at": "2024-05-16 22:00:00",
+      "album": {
+        "name": "So In Love",
+        "url": "https://open.spotify.com/album/1boCyrHryblqZSM5cbDXiQ"
+      },
+      "artists": [
+        {
+          "name": "Lalah Hathaway",
+          "url": "https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo"
+        }
+      ],
+      "duration_ms": 246582,
+      "name": "So In Love",
+      "url": "https://open.spotify.com/track/3rGJn2JwFW26XDfE4Ww1MF"
+    },
+    {
       "added_at": "2024-05-16 22:00:00",
       "album": {
         "name": "Animating The Machine (Original Motion Picture Soundtrack) Cre8ed in part by Udio",
@@ -123,22 +287,6 @@
       "duration_ms": 225912,
       "name": "My Art is Full of Life",
       "url": "https://open.spotify.com/track/2f8g0OgCnccYa87D8ecZne"
-    },
-    {
-      "added_at": "2024-05-16 22:00:00",
-      "album": {
-        "name": "Feeling Good (triple j Like A Version)",
-        "url": "https://open.spotify.com/album/6YQtpgkFSYr9sF8fTsHbMs"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 239299,
-      "name": "Feeling Good - triple j Like A Version",
-      "url": "https://open.spotify.com/track/4kY3cAWzzKVn3ZmYfOOJul"
     },
     {
       "added_at": "2024-05-16 22:00:00",
@@ -163,22 +311,6 @@
     {
       "added_at": "2024-05-16 22:00:00",
       "album": {
-        "name": "So In Love",
-        "url": "https://open.spotify.com/album/1boCyrHryblqZSM5cbDXiQ"
-      },
-      "artists": [
-        {
-          "name": "Lalah Hathaway",
-          "url": "https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo"
-        }
-      ],
-      "duration_ms": 246582,
-      "name": "So In Love",
-      "url": "https://open.spotify.com/track/3rGJn2JwFW26XDfE4Ww1MF"
-    },
-    {
-      "added_at": "2024-05-16 22:00:00",
-      "album": {
         "name": "Stay",
         "url": "https://open.spotify.com/album/6oNqp5To5PeNL5VLGGoHSB"
       },
@@ -195,22 +327,6 @@
       "duration_ms": 185142,
       "name": "Stay",
       "url": "https://open.spotify.com/track/0JnILfI1oC3i8ZLOxZeqNp"
-    },
-    {
-      "added_at": "2024-05-16 22:00:00",
-      "album": {
-        "name": "Forget To Remember",
-        "url": "https://open.spotify.com/album/6dTUqqMG9gQaU1x3RZ7gS4"
-      },
-      "artists": [
-        {
-          "name": "Shishani",
-          "url": "https://open.spotify.com/artist/255ZPAkvfPjmKwPj4mC48B"
-        }
-      ],
-      "duration_ms": 233599,
-      "name": "Forget To Remember",
-      "url": "https://open.spotify.com/track/4YbnQVAmuehPi4l81nNjEM"
     },
     {
       "added_at": "2024-05-16 22:00:00",
@@ -259,6 +375,22 @@
       "duration_ms": 286107,
       "name": "California",
       "url": "https://open.spotify.com/track/6AebzRlXA8IEwTarwJAzt9"
+    },
+    {
+      "added_at": "2024-05-16 22:00:00",
+      "album": {
+        "name": "Forget To Remember",
+        "url": "https://open.spotify.com/album/6dTUqqMG9gQaU1x3RZ7gS4"
+      },
+      "artists": [
+        {
+          "name": "Shishani",
+          "url": "https://open.spotify.com/artist/255ZPAkvfPjmKwPj4mC48B"
+        }
+      ],
+      "duration_ms": 233599,
+      "name": "Forget To Remember",
+      "url": "https://open.spotify.com/track/4YbnQVAmuehPi4l81nNjEM"
     },
     {
       "added_at": "2024-05-16 22:00:00",
@@ -583,22 +715,6 @@
     {
       "added_at": "2024-05-16 22:00:00",
       "album": {
-        "name": "Find Your Flame",
-        "url": "https://open.spotify.com/album/7dkkrLhrHCTPsmc7JucvgL"
-      },
-      "artists": [
-        {
-          "name": "Nubiyan Twist",
-          "url": "https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO"
-        }
-      ],
-      "duration_ms": 290213,
-      "name": "Woman",
-      "url": "https://open.spotify.com/track/6li1FBZmTkTdb9dbLyV8Vp"
-    },
-    {
-      "added_at": "2024-05-16 22:00:00",
-      "album": {
         "name": "Magnificent",
         "url": "https://open.spotify.com/album/70bnRdCfNQrboNva4UvNpl"
       },
@@ -851,30 +967,6 @@
     {
       "added_at": "2024-05-16 22:00:00",
       "album": {
-        "name": "My Stereo",
-        "url": "https://open.spotify.com/album/4GObaPSz5Stlp3kiD8QVcC"
-      },
-      "artists": [
-        {
-          "name": "Pete Philly & Perquisite",
-          "url": "https://open.spotify.com/artist/4XOAS1Q62GWP67HMX7ASk3"
-        },
-        {
-          "name": "Pete Philly",
-          "url": "https://open.spotify.com/artist/0DD1CBUI4ypYSqvKUyjNoO"
-        },
-        {
-          "name": "Perquisite",
-          "url": "https://open.spotify.com/artist/1jYPZvaIkl6LoRFFcXeJa2"
-        }
-      ],
-      "duration_ms": 200963,
-      "name": "My Stereo",
-      "url": "https://open.spotify.com/track/78oXpMIYlS270uFJu6KRix"
-    },
-    {
-      "added_at": "2024-05-16 22:00:00",
-      "album": {
         "name": "Unapologetically Me",
         "url": "https://open.spotify.com/album/0FnsVtGkz6TSkwJdiPnKLe"
       },
@@ -979,26 +1071,6 @@
       "duration_ms": 198035,
       "name": "Green",
       "url": "https://open.spotify.com/track/278yAd5uTMx6KqQtHb6WbK"
-    },
-    {
-      "added_at": "2024-05-16 22:00:00",
-      "album": {
-        "name": "Gravy",
-        "url": "https://open.spotify.com/album/5xZdBUJsZ3RIiePqGFgOaP"
-      },
-      "artists": [
-        {
-          "name": "BJ The Chicago Kid",
-          "url": "https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe"
-        },
-        {
-          "name": "Philip Bailey",
-          "url": "https://open.spotify.com/artist/6ZNeppgfBLPUyugks9Yn1u"
-        }
-      ],
-      "duration_ms": 256600,
-      "name": "Never Change (feat. Philip Bailey)",
-      "url": "https://open.spotify.com/track/4OFt2tXFSQtRUryZwCrUz5"
     },
     {
       "added_at": "2024-05-16 22:00:00",
@@ -1115,22 +1187,6 @@
     {
       "added_at": "2024-05-16 22:00:00",
       "album": {
-        "name": "I've Tried Everything But Therapy (Part 1)",
-        "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 212648,
-      "name": "The Door",
-      "url": "https://open.spotify.com/track/3dj4wgM3cPeuLwMNHDuBon"
-    },
-    {
-      "added_at": "2024-05-16 22:00:00",
-      "album": {
         "name": "Here To Stay",
         "url": "https://open.spotify.com/album/2uWegW1sXYuKFTu9OpU7DA"
       },
@@ -1239,26 +1295,6 @@
     {
       "added_at": "2024-05-16 22:00:00",
       "album": {
-        "name": "Dancing While Falling",
-        "url": "https://open.spotify.com/album/0OQDgPsunDOfPiRAuS87ng"
-      },
-      "artists": [
-        {
-          "name": "Quantic",
-          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
-        },
-        {
-          "name": "Andreya Triana",
-          "url": "https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2"
-        }
-      ],
-      "duration_ms": 211590,
-      "name": "Morning Light (feat. Andreya Triana)",
-      "url": "https://open.spotify.com/track/74BzzNL9WKXyUd7vzh2hz3"
-    },
-    {
-      "added_at": "2024-05-16 22:00:00",
-      "album": {
         "name": "That Is You",
         "url": "https://open.spotify.com/album/1iMbj8BIe2irAJc7iUyr4X"
       },
@@ -1323,26 +1359,6 @@
       "duration_ms": 169343,
       "name": "Jay Bird",
       "url": "https://open.spotify.com/track/7zmr0zy0oq5KWEqwbrKjxK"
-    },
-    {
-      "added_at": "2024-05-16 22:00:00",
-      "album": {
-        "name": "Sleeper",
-        "url": "https://open.spotify.com/album/49ssk5poFZAKoOJcj7PpsD"
-      },
-      "artists": [
-        {
-          "name": "BADBADNOTGOOD",
-          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
-        },
-        {
-          "name": "Charlotte Day Wilson",
-          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
-        }
-      ],
-      "duration_ms": 244271,
-      "name": "Sleeper",
-      "url": "https://open.spotify.com/track/5UWJ898JHDe9Ong9Gnkdhd"
     },
     {
       "added_at": "2024-05-16 22:00:00",
@@ -1551,6 +1567,30 @@
       "duration_ms": 206052,
       "name": "MARY",
       "url": "https://open.spotify.com/track/6WkvT8SlxAKqQsOLeqIMRB"
+    },
+    {
+      "added_at": "2024-05-16 22:00:00",
+      "album": {
+        "name": "My Stereo",
+        "url": "https://open.spotify.com/album/4GObaPSz5Stlp3kiD8QVcC"
+      },
+      "artists": [
+        {
+          "name": "Pete Philly & Perquisite",
+          "url": "https://open.spotify.com/artist/4XOAS1Q62GWP67HMX7ASk3"
+        },
+        {
+          "name": "Pete Philly",
+          "url": "https://open.spotify.com/artist/0DD1CBUI4ypYSqvKUyjNoO"
+        },
+        {
+          "name": "Perquisite",
+          "url": "https://open.spotify.com/artist/1jYPZvaIkl6LoRFFcXeJa2"
+        }
+      ],
+      "duration_ms": 200963,
+      "name": "My Stereo",
+      "url": "https://open.spotify.com/track/78oXpMIYlS270uFJu6KRix"
     },
     {
       "added_at": "2024-05-16 22:00:00",

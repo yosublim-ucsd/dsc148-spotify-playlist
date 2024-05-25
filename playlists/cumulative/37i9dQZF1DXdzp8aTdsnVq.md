@@ -4,7 +4,7 @@
 
 > Honrando a la leyenda vallenata y compositor de 1000 canciones\. Hasta siempre, Omar Geles 🪗
 
-156 songs - 11 hr 6 min
+157 songs - 11 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Ay Hombe](https://open.spotify.com/track/6hlmfSjhKSWuZDujvW7p74) | [Jorge Celedón](https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek), [Jimmy Zambrano](https://open.spotify.com/artist/3uKiTiDNyvbeVE5zlM4Zlj) | [Canto Vallenato](https://open.spotify.com/album/1nbW9IiNSMm4saZxmma99d) | 5:17 | 2022-09-02 |  |
 | [BACANO](https://open.spotify.com/track/4lHjc7jgioQhACpJADMsED) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e) | ['TA MALO](https://open.spotify.com/album/75BaMB8qvdrjZrIYwRBNOZ) | 3:10 | 2023-11-03 |  |
 | [Bailar Contigo](https://open.spotify.com/track/1KbX1VuFIgsRa9JjnQtRYA) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Corazón Profundo \(Versión Deluxe\)](https://open.spotify.com/album/5aYaYsDnVXSvVTP7KTHmSl) | 4:12 | 2022-09-02 | 2024-05-23 |
-| [Bandolera](https://open.spotify.com/track/66RZtIysZkIVCVwfVDxC2T) | [La Banda del 5](https://open.spotify.com/artist/3fwLvzwmgJkUwtn9YmpTiB), [Alberto Kammerer](https://open.spotify.com/artist/5PZgiiLyMOIQxO8oUdR6sl) | [Bandolera](https://open.spotify.com/album/2JxZO69Tr7zwmhQyoEEjYS) | 4:11 | 2023-06-16 |  |
+| [Bandolera](https://open.spotify.com/track/66RZtIysZkIVCVwfVDxC2T) | [La Banda del 5](https://open.spotify.com/artist/3fwLvzwmgJkUwtn9YmpTiB), [Alberto Kammerer](https://open.spotify.com/artist/5PZgiiLyMOIQxO8oUdR6sl) | [Bandolera](https://open.spotify.com/album/2JxZO69Tr7zwmhQyoEEjYS) | 4:11 | 2023-06-16 | 2024-05-25 |
 | [Besarte](https://open.spotify.com/track/33doG1bU7G1pl97qR1VfLv) | [La Combinación Vallenata](https://open.spotify.com/artist/2Rerw09apss0UagVOvRNya), [Jean Carlos Centeno](https://open.spotify.com/artist/2w1UJL5kYJJkvjo71fQjOB), [José Rafael Romero](https://open.spotify.com/artist/0WRbK5vX0nLzj5FG2PSacF) | [Besarte](https://open.spotify.com/album/2ioOUklTolYp7LabZEiTvC) | 3:44 | 2023-11-17 | 2024-05-11 |
 | [Busca Un Confidente](https://open.spotify.com/track/63kq9VZGTYhBELP0jX3qsq) | [Los Diablitos](https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd) | [Lenguaje Universal](https://open.spotify.com/album/1HXorJHIRNwFXQzV2GLC5k) | 4:06 | 2023-02-17 | 2024-04-19 |
 | [Busca Un Confidente](https://open.spotify.com/track/5P9Rhc64ZcSGSlBDXEVGOw) | [Los Diablitos](https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd) | [Lenguaje Universal](https://open.spotify.com/album/2HSz2kwEVkfiK932bWB7Wc) | 4:06 | 2022-09-02 |  |
@@ -121,6 +121,7 @@
 | [Olvidarte Otra Vez](https://open.spotify.com/track/2Tm8ziXRmiDizKZeevs2kF) | [La Banda del 5](https://open.spotify.com/artist/3fwLvzwmgJkUwtn9YmpTiB), [Pau Mor](https://open.spotify.com/artist/55Yvm4qFavBJgDK936X5K7) | [Olvidarte Otra Vez](https://open.spotify.com/album/2qDWwcj2THeF3foweSRZpD) | 2:43 | 2024-05-10 | 2024-05-23 |
 | [Otra Botella](https://open.spotify.com/track/7JHyn813Ij0oY6uXaKWiA3) | [Los Chiches Vallenatos](https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP) | [Otra Botella](https://open.spotify.com/album/3PZtW70YVWTpEWYN1PZ9ZJ) | 3:49 | 2022-09-02 | 2022-10-22 |
 | [Pa' los Gustos los Colores](https://open.spotify.com/track/2i1j9aCllzObqtQspBLTPg) | [Juancho De La Espriella](https://open.spotify.com/artist/2jyCUmtPh36YRwhuhxzUZ3), [Los de Juancho](https://open.spotify.com/artist/0siN6HqX23qhrmnGZZvJLi) | [Pa' los Gustos los Colores](https://open.spotify.com/album/4BcN3Bnt4jc6jWCKAPdgPO) | 3:11 | 2022-10-14 | 2023-04-06 |
+| [PODER FEMENINO](https://open.spotify.com/track/0YnARtjkCPRfMX4qEkrVBb) | [Karen Lizarazo](https://open.spotify.com/artist/6Xiry0W18NKRSiFwXi4zjV) | [MUJERES](https://open.spotify.com/album/0R0MHbY0NdwLWCBwfShrpS) | 3:42 | 2024-05-24 |  |
 | [Por Gustarte](https://open.spotify.com/track/2bOLBSNYbh7MBZYDiUh7oN) | [Jorge Celedón](https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek), [Jimmy Zambrano](https://open.spotify.com/artist/3uKiTiDNyvbeVE5zlM4Zlj) | [Canto Vallenato](https://open.spotify.com/album/1nbW9IiNSMm4saZxmma99d) | 4:30 | 2024-05-22 |  |
 | [Por Querer Olvidarte](https://open.spotify.com/track/4Wz8HurUB7QJfWarPLvpK4) | [Nelson Velasquez](https://open.spotify.com/artist/0B9fAbZMZTBXUyffDU2Mxj) | [Conquistando Corazones](https://open.spotify.com/album/2fiA23fn9kQg8YeSJ4dVPT) | 4:16 | 2024-05-22 |  |
 | [Por un Beso de Tu Boca \- Versión Vallenato](https://open.spotify.com/track/0iNN906YaH34RzPhYrdLyv) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e) | [Por un Beso de Tu Boca \(Versión Vallenato\)](https://open.spotify.com/album/0DX0n5Ee7NWxG8wxYwL57v) | 3:06 | 2022-09-02 |  |

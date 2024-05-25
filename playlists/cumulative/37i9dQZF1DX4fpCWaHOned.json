@@ -302,7 +302,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-12",
+      "date_removed": null,
       "duration_ms": 149391,
       "name": "AMERICAN HORROR SHOW",
       "url": "https://open.spotify.com/track/38RLObegC9ggpKPRVQDc1g"
@@ -936,7 +936,7 @@
       ],
       "date_added": "2019-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-21",
+      "date_removed": null,
       "duration_ms": 220573,
       "name": "Brave",
       "url": "https://open.spotify.com/track/6Uy6K3KdmUdAfelUp0SeXn"
@@ -1988,7 +1988,7 @@
       ],
       "date_added": "2022-03-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-05",
+      "date_removed": null,
       "duration_ms": 245625,
       "name": "Drunk (And I Don't Wanna Go Home)",
       "url": "https://open.spotify.com/track/0QULNNd9z5s35entfiiXoa"
@@ -2054,7 +2054,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 196218,
       "name": "End Of An Era",
       "url": "https://open.spotify.com/track/1YrY0vjHWp672gt0crtj5A"
@@ -2192,7 +2192,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 193355,
       "name": "F* OFF",
       "url": "https://open.spotify.com/track/4c46OwwVzZ2TpWCfvxCrUC"
@@ -2638,7 +2638,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 127292,
       "name": "Fria",
       "url": "https://open.spotify.com/track/4ijd1rkMYDh4D7rxi3O8Jf"
@@ -2836,7 +2836,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-18",
+      "date_removed": null,
       "duration_ms": 213640,
       "name": "girls like me don't cry",
       "url": "https://open.spotify.com/track/2DtUUBwYwEzKMTMDrc5EiO"
@@ -3224,7 +3224,7 @@
       ],
       "date_added": "2024-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 245680,
       "name": "Happy For You",
       "url": "https://open.spotify.com/track/05oC2UvKDcx0cY2wg9gzKC"
@@ -5171,6 +5171,24 @@
     },
     {
       "album": {
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179586,
+      "name": "LUNCH",
+      "url": "https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE"
+    },
+    {
+      "album": {
         "name": "Lush Life",
         "url": "https://open.spotify.com/album/6x3lObhgC3H0KpOfePojFG"
       },
@@ -5968,7 +5986,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 147046,
       "name": "No.1 (feat. Tems)",
       "url": "https://open.spotify.com/track/3qeMtqV38UWPZfps7mPTUE"
@@ -7320,7 +7338,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 210893,
       "name": "Small Town Scandal",
       "url": "https://open.spotify.com/track/56yiEEYcSMw27ujiSyVzCS"
@@ -8450,7 +8468,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-11",
+      "date_removed": null,
       "duration_ms": 203445,
       "name": "Tomboy",
       "url": "https://open.spotify.com/track/5Ti3fqGTfjUsSdylFNy0Ng"

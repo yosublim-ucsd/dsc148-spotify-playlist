@@ -2,7 +2,7 @@
 
 ### [Punjabi Pyar](https://open.spotify.com/playlist/37i9dQZF1DWSKoG4oVafMt)
 
-> The very best of Punjabi romance featuring Sargun Mehta & Jordan Sandhu
+> The very best of Punjabi romance featuring Sonam Bajwa & Ammy Virk
 
 855 songs - 1 day 22 hr 29 min
 

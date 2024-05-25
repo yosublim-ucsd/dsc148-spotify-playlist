@@ -1,6 +1,6 @@
 {
   "description": "Las canciones esenciales de la escena alternativa en espa\u00f1ol. Con Diamante El\u00e9ctrico en portada.",
-  "num_followers": 395603,
+  "num_followers": 395677,
   "original_name": "Lo Mejor del Indie Latino  ",
   "owner": {
     "name": "Spotify",
@@ -431,22 +431,6 @@
     {
       "added_at": "2024-05-02 23:44:21",
       "album": {
-        "name": "Parque Acu\u00e1tico",
-        "url": "https://open.spotify.com/album/1mOUMfzSdr2JV7xrxja636"
-      },
-      "artists": [
-        {
-          "name": "El Kuelgue",
-          "url": "https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT"
-        }
-      ],
-      "duration_ms": 172646,
-      "name": "Parque Acu\u00e1tico",
-      "url": "https://open.spotify.com/track/0xxFisCrlitQsf8TCOwI1v"
-    },
-    {
-      "added_at": "2024-05-02 23:44:21",
-      "album": {
         "name": "Copacabana",
         "url": "https://open.spotify.com/album/0ToW0tbb8o88G6Wd2A4LFH"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 277573,
       "name": "La Declaraci\u00f3n",
       "url": "https://open.spotify.com/track/0MArhYeFvgi8V2Pj3ecwBs"
+    },
+    {
+      "added_at": "2024-05-02 23:44:21",
+      "album": {
+        "name": "Parque Acu\u00e1tico",
+        "url": "https://open.spotify.com/album/1mOUMfzSdr2JV7xrxja636"
+      },
+      "artists": [
+        {
+          "name": "El Kuelgue",
+          "url": "https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT"
+        }
+      ],
+      "duration_ms": 172646,
+      "name": "Parque Acu\u00e1tico",
+      "url": "https://open.spotify.com/track/0xxFisCrlitQsf8TCOwI1v"
     },
     {
       "added_at": "2024-05-02 23:44:21",
@@ -515,6 +515,22 @@
     {
       "added_at": "2024-05-02 23:44:21",
       "album": {
+        "name": "Magia & Efectos Especiales",
+        "url": "https://open.spotify.com/album/1H0Kzu6QdUAuUDMGOIe271"
+      },
+      "artists": [
+        {
+          "name": "IZAL",
+          "url": "https://open.spotify.com/artist/2hazSY4Ef3aB9ATXW7F5w3"
+        }
+      ],
+      "duration_ms": 273893,
+      "name": "Qu\u00e9 Bien",
+      "url": "https://open.spotify.com/track/3iaj0MtII6VPVhwQa4eeX3"
+    },
+    {
+      "added_at": "2024-05-02 23:44:21",
+      "album": {
         "name": "A la Vez",
         "url": "https://open.spotify.com/album/7MUsxK6X6NkL21K3yrjuQs"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 257106,
       "name": "Viento de Cara",
       "url": "https://open.spotify.com/track/5sKdpvvNyRJifUmYLNiYys"
-    },
-    {
-      "added_at": "2024-05-02 23:44:21",
-      "album": {
-        "name": "Magia & Efectos Especiales",
-        "url": "https://open.spotify.com/album/1H0Kzu6QdUAuUDMGOIe271"
-      },
-      "artists": [
-        {
-          "name": "IZAL",
-          "url": "https://open.spotify.com/artist/2hazSY4Ef3aB9ATXW7F5w3"
-        }
-      ],
-      "duration_ms": 273893,
-      "name": "Qu\u00e9 Bien",
-      "url": "https://open.spotify.com/track/3iaj0MtII6VPVhwQa4eeX3"
     },
     {
       "added_at": "2024-05-02 23:44:21",
@@ -611,6 +611,22 @@
     {
       "added_at": "2024-05-02 23:44:21",
       "album": {
+        "name": "Cabildo y Juramento",
+        "url": "https://open.spotify.com/album/5N3ahntioMGhMCkEOuNJUn"
+      },
+      "artists": [
+        {
+          "name": "Conociendo Rusia",
+          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
+        }
+      ],
+      "duration_ms": 258106,
+      "name": "Quiero Que Me Llames",
+      "url": "https://open.spotify.com/track/7jcXQXxo0lvpwg2twqJpqc"
+    },
+    {
+      "added_at": "2024-05-02 23:44:21",
+      "album": {
         "name": "La Sintesis O'Konor",
         "url": "https://open.spotify.com/album/7oEJJ7TxrfWGJXczcuOWpK"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 185640,
       "name": "D\u00edas De Fuego",
       "url": "https://open.spotify.com/track/0llXG2KrSGVjW3fVJrrmcE"
-    },
-    {
-      "added_at": "2024-05-02 23:44:21",
-      "album": {
-        "name": "Cabildo y Juramento",
-        "url": "https://open.spotify.com/album/5N3ahntioMGhMCkEOuNJUn"
-      },
-      "artists": [
-        {
-          "name": "Conociendo Rusia",
-          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
-        }
-      ],
-      "duration_ms": 258106,
-      "name": "Quiero Que Me Llames",
-      "url": "https://open.spotify.com/track/7jcXQXxo0lvpwg2twqJpqc"
     },
     {
       "added_at": "2024-05-02 23:44:21",
@@ -711,6 +711,22 @@
     {
       "added_at": "2024-05-02 23:44:21",
       "album": {
+        "name": "Conociendo Rusia",
+        "url": "https://open.spotify.com/album/1xP7EDeNa518tfq8vxT4cT"
+      },
+      "artists": [
+        {
+          "name": "Conociendo Rusia",
+          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
+        }
+      ],
+      "duration_ms": 257176,
+      "name": "Loco en el Desierto",
+      "url": "https://open.spotify.com/track/392fECmnYZTQjL97hqEElg"
+    },
+    {
+      "added_at": "2024-05-02 23:44:21",
+      "album": {
         "name": "Pedropiedra (Reedici\u00f3n)",
         "url": "https://open.spotify.com/album/40Bnb22mry8e8MklWefAFN"
       },
@@ -743,38 +759,6 @@
     {
       "added_at": "2024-05-02 23:44:21",
       "album": {
-        "name": "La Dinast\u00eda Scorpio",
-        "url": "https://open.spotify.com/album/6CCbK9Ac4NrgMCMF32cXr3"
-      },
-      "artists": [
-        {
-          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
-          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
-        }
-      ],
-      "duration_ms": 88880,
-      "name": "El Magnetismo",
-      "url": "https://open.spotify.com/track/4u8A7x0YPkPCkC0eRM9qL7"
-    },
-    {
-      "added_at": "2024-05-02 23:44:21",
-      "album": {
-        "name": "Conociendo Rusia",
-        "url": "https://open.spotify.com/album/1xP7EDeNa518tfq8vxT4cT"
-      },
-      "artists": [
-        {
-          "name": "Conociendo Rusia",
-          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
-        }
-      ],
-      "duration_ms": 257176,
-      "name": "Loco en el Desierto",
-      "url": "https://open.spotify.com/track/392fECmnYZTQjL97hqEElg"
-    },
-    {
-      "added_at": "2024-05-02 23:44:21",
-      "album": {
         "name": "Ciencia Exacta",
         "url": "https://open.spotify.com/album/4n65tDbR2iIn5e9jgo9Zwv"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 158121,
       "name": "Las Flores",
       "url": "https://open.spotify.com/track/1xQqAdL14WHwCUoCqwBVjk"
+    },
+    {
+      "added_at": "2024-05-02 23:44:21",
+      "album": {
+        "name": "La Dinast\u00eda Scorpio",
+        "url": "https://open.spotify.com/album/6CCbK9Ac4NrgMCMF32cXr3"
+      },
+      "artists": [
+        {
+          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
+          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
+        }
+      ],
+      "duration_ms": 88880,
+      "name": "El Magnetismo",
+      "url": "https://open.spotify.com/track/4u8A7x0YPkPCkC0eRM9qL7"
     },
     {
       "added_at": "2024-05-02 23:44:21",
@@ -1091,38 +1091,6 @@
     {
       "added_at": "2024-05-02 23:44:21",
       "album": {
-        "name": "Las Ligas Menores",
-        "url": "https://open.spotify.com/album/3uo5La74eGmsUeXJdRRO3g"
-      },
-      "artists": [
-        {
-          "name": "Las Ligas Menores",
-          "url": "https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf"
-        }
-      ],
-      "duration_ms": 229842,
-      "name": "A 1200 Km",
-      "url": "https://open.spotify.com/track/4zdEcOj9IEAE1cWG7zzYxB"
-    },
-    {
-      "added_at": "2024-05-02 23:44:21",
-      "album": {
-        "name": "Ruli",
-        "url": "https://open.spotify.com/album/3V7wGsYWEcD97RsKgIFZJq"
-      },
-      "artists": [
-        {
-          "name": "El Kuelgue",
-          "url": "https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT"
-        }
-      ],
-      "duration_ms": 195306,
-      "name": "En Avenidas",
-      "url": "https://open.spotify.com/track/5GgmtaUrV9qk6aBTbcupcd"
-    },
-    {
-      "added_at": "2024-05-02 23:44:21",
-      "album": {
         "name": "El Peor Grupo del Mundo",
         "url": "https://open.spotify.com/album/2JQ398pv4WeQPslHlFzrtP"
       },
@@ -1135,6 +1103,22 @@
       "duration_ms": 266623,
       "name": "Carreteras Infinitas",
       "url": "https://open.spotify.com/track/2Q6qD1YTFn7NHuy2WmMGPG"
+    },
+    {
+      "added_at": "2024-05-02 23:44:21",
+      "album": {
+        "name": "Las Ligas Menores",
+        "url": "https://open.spotify.com/album/3uo5La74eGmsUeXJdRRO3g"
+      },
+      "artists": [
+        {
+          "name": "Las Ligas Menores",
+          "url": "https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf"
+        }
+      ],
+      "duration_ms": 229842,
+      "name": "A 1200 Km",
+      "url": "https://open.spotify.com/track/4zdEcOj9IEAE1cWG7zzYxB"
     },
     {
       "added_at": "2024-05-02 23:44:21",
@@ -1155,6 +1139,22 @@
       "duration_ms": 224507,
       "name": "Fuego y Pasi\u00f3n",
       "url": "https://open.spotify.com/track/42LDgGB2Eio9wX13fZkV7w"
+    },
+    {
+      "added_at": "2024-05-02 23:44:21",
+      "album": {
+        "name": "Ruli",
+        "url": "https://open.spotify.com/album/3V7wGsYWEcD97RsKgIFZJq"
+      },
+      "artists": [
+        {
+          "name": "El Kuelgue",
+          "url": "https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT"
+        }
+      ],
+      "duration_ms": 195306,
+      "name": "En Avenidas",
+      "url": "https://open.spotify.com/track/5GgmtaUrV9qk6aBTbcupcd"
     },
     {
       "added_at": "2024-05-02 23:44:21",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2024-05-02 23:44:21",
       "album": {
-        "name": "The Room",
-        "url": "https://open.spotify.com/album/3Ts9hy3YbTeBDqNL9ItCJj"
-      },
-      "artists": [
-        {
-          "name": "Zo\u00e9",
-          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
-        }
-      ],
-      "duration_ms": 286573,
-      "name": "Dead",
-      "url": "https://open.spotify.com/track/0qy3tNhBzyxKxcOqCczcVX"
-    },
-    {
-      "added_at": "2024-05-02 23:44:21",
-      "album": {
         "name": "Correspondencia",
         "url": "https://open.spotify.com/album/1AYrH8rgkrGL2MBZZiaCSa"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 202053,
       "name": "Acic\u00e1lame",
       "url": "https://open.spotify.com/track/5Ew6ieSRFMoGZlF3rWtDNM"
+    },
+    {
+      "added_at": "2024-05-02 23:44:21",
+      "album": {
+        "name": "The Room",
+        "url": "https://open.spotify.com/album/3Ts9hy3YbTeBDqNL9ItCJj"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00e9",
+          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
+        }
+      ],
+      "duration_ms": 286573,
+      "name": "Dead",
+      "url": "https://open.spotify.com/track/0qy3tNhBzyxKxcOqCczcVX"
     },
     {
       "added_at": "2024-05-02 23:44:21",

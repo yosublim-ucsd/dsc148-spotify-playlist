@@ -4,7 +4,7 @@
 
 > Avant\-garde, experimental and free jazz.
 
-138 songs - 18 hr 38 min
+139 songs - 18 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Air Pockets](https://open.spotify.com/track/1iC86rt5q2wHl2eS9UXX4t) | [Roy Campbell, Jr.](https://open.spotify.com/artist/60zXI7kDOma2j6HV89DESU), [Pyramid](https://open.spotify.com/artist/0H2r6lmmvfXrRJUFQP1zcM) | [Communion](https://open.spotify.com/album/3CaiuR2QoPaU2K1eP8oHOh) | 14:32 | 2020-08-25 |  |
 | [And Then There Was Peace](https://open.spotify.com/track/65pbkrOOLNGacAfdEd1f9h) | [Roscoe Mitchell](https://open.spotify.com/artist/6DR6ugRdVaVi7lyqooqJov), [Brus Trio](https://open.spotify.com/artist/0brD6EfLudasLGmL0JVIJY) | [After Fallen Leaves](https://open.spotify.com/album/7Ch1GSEeikqpUTXvOHwnW2) | 4:51 | 2020-08-25 |  |
 | [Anohin](https://open.spotify.com/track/6hcPWrFkKRSqRE3ulX8WLf) | [María Grand](https://open.spotify.com/artist/7lXTdVuJBJAI7fKJLedAiq), [Marta Sánchez](https://open.spotify.com/artist/13Q96ODlHbb2ZsvGVHn2Yr) | [Anohin](https://open.spotify.com/album/0cTf0FpEm2stPsVCpq8J81) | 9:26 | 2024-03-01 |  |
+| [ANTRACITE](https://open.spotify.com/track/6dI34ifmnK54makfHsZ74r) | [Paolo Fresu](https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi), [Uri Caine](https://open.spotify.com/artist/1l10UPSXfbHFvNnDN7kgbA) | [LEGACY](https://open.spotify.com/album/7AyeG0N0sstxc0YRWdawE4) | 3:17 | 2024-05-24 |  |
 | [Argonautica](https://open.spotify.com/track/0GJKX05V9I7tOtGeGlUkWA) | [Nate Wooley](https://open.spotify.com/artist/151kdGxCPmdZZqaYsd79F5) | [Argonautica](https://open.spotify.com/album/779K5iF5o1GS0GR0v1YUEu) | 42:53 | 2020-08-25 | 2024-04-19 |
 | [Argonautica](https://open.spotify.com/track/4psi675ZQIx471xz2T66Bn) | [Nate Wooley](https://open.spotify.com/artist/151kdGxCPmdZZqaYsd79F5) | [Argonautica](https://open.spotify.com/album/7FsJspq5NoVKFjFm8IFSej) | 42:53 | 2020-08-25 |  |
 | [Arise](https://open.spotify.com/track/6ERIEM4NyPd8ph0NXb98m7) | [Cecilie Strange](https://open.spotify.com/artist/2lrzzOXM4gAi8bxrBn4BBy) | [Arise](https://open.spotify.com/album/70ICtMZgfeCovI38wqT1Ji) | 5:20 | 2022-09-23 |  |
@@ -141,7 +142,7 @@
 | [Waitin](https://open.spotify.com/track/0GKkrixGZCTZyMSZPQcBiQ) | [Gerry Hemingway Quartet](https://open.spotify.com/artist/1oD7M1SYTOaUsRAsxtPbZr), [Ellery Eskelin](https://open.spotify.com/artist/79CKjkgIoXOZB6Hwzg5vrz), [Gerry Hemingway](https://open.spotify.com/artist/3HXQYmafC5U58QeKtwdW1D), [Herb Robertson](https://open.spotify.com/artist/6GIuatS579tQok4b5wam14), [Mark Helias](https://open.spotify.com/artist/477gMnSsaTHsAIDlidg1Ra) | [The Whimbler](https://open.spotify.com/album/04Fd6i9nbEEPsyFSepMEN9) | 7:57 | 2020-08-25 |  |
 | [Water Babies](https://open.spotify.com/track/097f4XZHrS0oMDBIm1DQpC) | [Wayne Shorter](https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO) | [The Best Of Wayne Shorter](https://open.spotify.com/album/4jo7Y2Gk6RGH8CFUXKdMqi) | 4:52 | 2020-08-25 |  |
 | [Way Beyond Cave](https://open.spotify.com/track/5uKsWL6LKETa5xKizE04TZ) | [Albert Mangelsdorff](https://open.spotify.com/artist/6smduqXQTpYLxA6MKAJ7pw) | [Albert Mangelsdorff and His Friends](https://open.spotify.com/album/4RJhjS7m0WZqlXBss7dz8k) | 5:47 | 2020-08-25 |  |
-| [WW1](https://open.spotify.com/track/4SG33WjhoWeytudIUA6vMn) | [Evan Parker](https://open.spotify.com/artist/42WVIJPKijZYsOWhNqnAke) | [Winns Win](https://open.spotify.com/album/0E9mxK9RuUzjHFkKmBnQlb) | 3:20 | 2021-10-01 |  |
+| [WW1](https://open.spotify.com/track/4SG33WjhoWeytudIUA6vMn) | [Evan Parker](https://open.spotify.com/artist/42WVIJPKijZYsOWhNqnAke) | [Winns Win](https://open.spotify.com/album/0E9mxK9RuUzjHFkKmBnQlb) | 3:20 | 2021-10-01 | 2024-05-25 |
 | [WW5](https://open.spotify.com/track/20eRgezPfayeiPh1smIufM) | [Evan Parker](https://open.spotify.com/artist/42WVIJPKijZYsOWhNqnAke) | [WW5](https://open.spotify.com/album/0qVI7QwNJP1IyuOd3UplfI) | 1:45 | 2021-09-10 |  |
 | [You've Got To Have Freedom](https://open.spotify.com/track/1rD9sOqJSlzvLHtpuEW4El) | [Pharoah Sanders](https://open.spotify.com/artist/3JLUCojZaHrX2LaUkSj7Ud) | [Africa](https://open.spotify.com/album/2IdacfEEDEjmNKEFlRYd6d) | 10:06 | 2020-08-25 |  |
 | [You've Got to Have Freedom](https://open.spotify.com/track/1sxRufRKMer2iOqxUkdhN4) | [Pharoah Sanders](https://open.spotify.com/artist/3JLUCojZaHrX2LaUkSj7Ud) | [Africa](https://open.spotify.com/album/7qifK1maQJzbDDLjjiHSIu) | 10:06 | 2020-08-25 | 2024-04-19 |

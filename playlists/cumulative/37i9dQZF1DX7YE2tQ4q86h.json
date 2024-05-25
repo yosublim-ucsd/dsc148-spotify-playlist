@@ -346,7 +346,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 146317,
       "name": "99 boys",
       "url": "https://open.spotify.com/track/0GqWXMhLivLWNWdCl1nbDo"
@@ -462,7 +462,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 192976,
       "name": "After All",
       "url": "https://open.spotify.com/track/3y5k4YAFvknch51j0UtMIA"
@@ -1502,6 +1502,24 @@
       "duration_ms": 215919,
       "name": "Beautiful - Benny Benassi Remix",
       "url": "https://open.spotify.com/track/2HVJpBSh3RSbrt0ApWTG0t"
+    },
+    {
+      "album": {
+        "name": "Beautiful Pain",
+        "url": "https://open.spotify.com/album/5HjWJHX5hP4O9WkCI1Htbb"
+      },
+      "artists": [
+        {
+          "name": "Velvet",
+          "url": "https://open.spotify.com/artist/5J5a0hqBGCelowVl8EkK7z"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173226,
+      "name": "Beautiful Pain",
+      "url": "https://open.spotify.com/track/2CyXbAFkyMncGNTglxgIXc"
     },
     {
       "album": {
@@ -2628,7 +2646,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 133064,
       "name": "Cara Mia",
       "url": "https://open.spotify.com/track/0lWksohJCovbV8wOSVOT9b"
@@ -6996,7 +7014,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 237866,
       "name": "Hold On To Now",
       "url": "https://open.spotify.com/track/4sB1OmmCi2Iwe9MaVlUubR"
@@ -7130,7 +7148,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 146979,
       "name": "Hooked",
       "url": "https://open.spotify.com/track/5pqG9n8GviAw4bKXL6iF5q"
@@ -8241,6 +8259,24 @@
     },
     {
       "album": {
+        "name": "If U Want Me",
+        "url": "https://open.spotify.com/album/4u6d52P49fIgGPBEljxhkG"
+      },
+      "artists": [
+        {
+          "name": "BLANKA",
+          "url": "https://open.spotify.com/artist/0ML3y0iBY1nq7HWAWP0EFm"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172565,
+      "name": "If U Want Me",
+      "url": "https://open.spotify.com/track/3IHmHyrPhfrzhcPmpvXmai"
+    },
+    {
+      "album": {
         "name": "COWBOY CARTER",
         "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
       },
@@ -8288,7 +8324,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 188143,
       "name": "Illusion",
       "url": "https://open.spotify.com/track/59xD5osEFsaNt5PXfIKUnX"
@@ -8470,6 +8506,24 @@
       "duration_ms": 185564,
       "name": "In The Dark",
       "url": "https://open.spotify.com/track/5LibBRN1juZ7RiUR0e2Hax"
+    },
+    {
+      "album": {
+        "name": "In Your Eyes",
+        "url": "https://open.spotify.com/album/3USx28iCRWm5wwssFpvim4"
+      },
+      "artists": [
+        {
+          "name": "Melanie Wehbe",
+          "url": "https://open.spotify.com/artist/1cLipMi0mKHQft01CiTuGn"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170559,
+      "name": "In Your Eyes",
+      "url": "https://open.spotify.com/track/3790LbDpXDMZ3o6Vw9nYd8"
     },
     {
       "album": {
@@ -9006,6 +9060,24 @@
       "duration_ms": 105142,
       "name": "KITTY",
       "url": "https://open.spotify.com/track/07V9IpmgI7kaKwoMyaldiH"
+    },
+    {
+      "album": {
+        "name": "La dadi",
+        "url": "https://open.spotify.com/album/2RpsmC0H0Ozk7wUmTsbbhD"
+      },
+      "artists": [
+        {
+          "name": "Enisa",
+          "url": "https://open.spotify.com/artist/19mMHUyLK5uYyg9D14yJP6"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137349,
+      "name": "La dadi",
+      "url": "https://open.spotify.com/track/5kbHPzyUI8hvNWGP6xBKcV"
     },
     {
       "album": {
@@ -10391,6 +10463,24 @@
     },
     {
       "album": {
+        "name": "Mermaid",
+        "url": "https://open.spotify.com/album/3GBztOt4r4XSz48UD1Z9M3"
+      },
+      "artists": [
+        {
+          "name": "Dolly Style",
+          "url": "https://open.spotify.com/artist/0D00AEI0IWmoBtdIH75zXs"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179002,
+      "name": "Mermaid",
+      "url": "https://open.spotify.com/track/4r6yqniacnQJnKxOF25n2X"
+    },
+    {
+      "album": {
         "name": "Message In A Bottle (Fat Max G Remix) (Taylor\u2019s Version)",
         "url": "https://open.spotify.com/album/6XwuAKBpEvtsJAWs3J3DJe"
       },
@@ -11736,7 +11826,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 175628,
       "name": "Outside Of Love",
       "url": "https://open.spotify.com/track/5ld9X26dRZIcFNLzeclQ40"
@@ -11830,6 +11920,24 @@
       "duration_ms": 166266,
       "name": "Padam Padam",
       "url": "https://open.spotify.com/track/3k0DJq2HdWJqnqor8NX0ac"
+    },
+    {
+      "album": {
+        "name": "PARADISE",
+        "url": "https://open.spotify.com/album/5B5bNotk4KQ4MlwZfzBtXM"
+      },
+      "artists": [
+        {
+          "name": "Madison Rose",
+          "url": "https://open.spotify.com/artist/4XgL05GiIZGJev3EwBnbsE"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164296,
+      "name": "PARADISE",
+      "url": "https://open.spotify.com/track/15vFR8puc7KZ1YvTWP23A7"
     },
     {
       "album": {
@@ -14393,6 +14501,28 @@
     },
     {
       "album": {
+        "name": "Summer Dreaming",
+        "url": "https://open.spotify.com/album/1utYmp79N55k5BY0X3tv4R"
+      },
+      "artists": [
+        {
+          "name": "Bingo Players",
+          "url": "https://open.spotify.com/artist/1pbHrVayIcVpHI9z97u4bK"
+        },
+        {
+          "name": "Pure Shores",
+          "url": "https://open.spotify.com/artist/42CdKQR7lo8cgIyufa0DQr"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182867,
+      "name": "Summer Dreaming",
+      "url": "https://open.spotify.com/track/5tJjs0KFkVzMWCXZGu10G8"
+    },
+    {
+      "album": {
         "name": "WET TENNIS",
         "url": "https://open.spotify.com/album/1u54eF07irCSSssyDG67R2"
       },
@@ -14444,6 +14574,24 @@
       "duration_ms": 273997,
       "name": "SUMMER RENAISSANCE",
       "url": "https://open.spotify.com/track/3HyR1j49TY5ACP2lseF1jx"
+    },
+    {
+      "album": {
+        "name": "Summer Smash",
+        "url": "https://open.spotify.com/album/4LqssZFyT4TFUNjDjsc7PM"
+      },
+      "artists": [
+        {
+          "name": "Juicy Romance",
+          "url": "https://open.spotify.com/artist/55RZaB7LJnx3sXeyVJXB2e"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146178,
+      "name": "Summer Smash",
+      "url": "https://open.spotify.com/track/06MD7zuY2QQFK4kc3dFyOm"
     },
     {
       "album": {
@@ -14602,7 +14750,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 228912,
       "name": "Talk About Love",
       "url": "https://open.spotify.com/track/2xc5PUIG6lJVvn3yr96n1r"
@@ -15650,7 +15798,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 195923,
       "name": "Tongues",
       "url": "https://open.spotify.com/track/2gl9u4SJLK4U8FZi8gDkZk"
@@ -15798,6 +15946,28 @@
       "duration_ms": 200655,
       "name": "True Colors (Spotify Singles)",
       "url": "https://open.spotify.com/track/2GSzaHXWxiHCo0pk0uOOpE"
+    },
+    {
+      "album": {
+        "name": "True Colours",
+        "url": "https://open.spotify.com/album/38oNM96tThFx9oFX9LDxX3"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        },
+        {
+          "name": "Self Esteem",
+          "url": "https://open.spotify.com/artist/3K9muOlJVKLgH4SIwwZiDe"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231684,
+      "name": "True Colours",
+      "url": "https://open.spotify.com/track/4S6rRqfYzIJ4nL2bV8ktS9"
     },
     {
       "album": {

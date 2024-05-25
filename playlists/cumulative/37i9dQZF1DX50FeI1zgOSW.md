@@ -4,7 +4,7 @@
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Sai Abhyankar
 
-286 songs - 16 hr 28 min
+288 songs - 16 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Azhagale](https://open.spotify.com/track/3Or8quXbuFLp5KPeI2K9vf) | [NGM](https://open.spotify.com/artist/2SAvDnhjvSzEBz0XGKed01), [Ishita Premnath](https://open.spotify.com/artist/6GdS9YEjh6oCoyARskMTt9), [Mirun Pradhap](https://open.spotify.com/artist/7eOB1fI6XehKYZ1pmzC50r) | [Azhagale](https://open.spotify.com/album/6YhqkTX8SmTCD9C6XZZ7c4) | 3:52 | 2023-03-21 | 2023-07-25 |
 | [Azhagiya Puyale \(From "VM ORIGINALS \- Season 1"\)](https://open.spotify.com/track/0Cu8B23eCUGm1NTmCHsQPX) | [Vivek \- Mervin](https://open.spotify.com/artist/4hBCDHUWTljP6BDl5AekgW), [Krithika Nelson](https://open.spotify.com/artist/6vgkpiszNB3NqHNrdHxXOm), [Harsha Vardhan](https://open.spotify.com/artist/5HBsR2S0am7usrUZ5GVos1) | [Azhagiya Puyale \(From "VM ORIGINALS \- Season 1"\)](https://open.spotify.com/album/1UtsxjH73zzbhkyet7WVpj) | 3:31 | 2024-03-17 | 2024-03-19 |
 | [Azhuvurene \(Story of a Bleeding Heart\)](https://open.spotify.com/track/2zLqnD7Cj6BCjIfsZDyXqV) | [Hari Haran B.Tech](https://open.spotify.com/artist/2egHlcbHbBTNT4SGDonzQB) | [Azhuvurene \(Story of a Bleeding Heart\)](https://open.spotify.com/album/0qN4EwXinA34YR4hygVhdK) | 3:10 | 2023-03-21 | 2023-08-08 |
+| [Baasha](https://open.spotify.com/track/6ihc2u4GmDXVeIizwL3jEw) | [sachu Madrasi](https://open.spotify.com/artist/5cTDZIXnv13h05pY6zTQjN), [Atiium](https://open.spotify.com/artist/59FtOOdwOyFCBSRh7drSjU) | [Baasha](https://open.spotify.com/album/7m9TNeVmbF54r1oDUivMcp) | 2:16 | 2024-05-24 |  |
 | [BABY](https://open.spotify.com/track/1eoGNzdH9PaRwcQzUpzg2N) | [Kishore krishnan](https://open.spotify.com/artist/7lCO7RX3b2d22J0OUMYRXj) | [BABY](https://open.spotify.com/album/3quP6KJkQmzJFgsqs90SQZ) | 4:01 | 2024-02-01 | 2024-04-19 |
 | [BABY](https://open.spotify.com/track/7L61JVdJQ5ExbmQ1WSnoPY) | [Kishore krishnan](https://open.spotify.com/artist/7lCO7RX3b2d22J0OUMYRXj) | [BABY](https://open.spotify.com/album/7mbfRQQQOPFYdHnPdPcYNM) | 4:01 | 2023-11-28 | 2024-05-21 |
 | [Bigger Dreams](https://open.spotify.com/track/4J8pie9lRMn0FNbdmzBcsq) | [Akira Da Rapwolf](https://open.spotify.com/artist/4xQxr2dCxTIZRWNTxF3Km4), [NST](https://open.spotify.com/artist/2Wx5FlNIkierRtyOi1Arc5), [Vijen](https://open.spotify.com/artist/2thb5pAKfufijFyRXQh0xR) | [Bigger Dreams](https://open.spotify.com/album/4hXSfo4J0e7Ryc4pcVISjX) | 4:45 | 2023-04-13 | 2023-08-17 |
@@ -135,6 +136,7 @@
 | [Malarum Vazhvey](https://open.spotify.com/track/1VM7VykzWXMDRbFgOl6BUH) | [Sanathan Shree Krishnan](https://open.spotify.com/artist/0FkY0miVokq6NnCKVg2Gko) | [Malarum Vazhvey](https://open.spotify.com/album/3GJjZW1ty3XpsK1FuWoBTn) | 2:54 | 2023-03-21 | 2023-07-25 |
 | [Mama](https://open.spotify.com/track/1kBRm822ev9Vz8GWPlp2Jl) | [Iykki Berry](https://open.spotify.com/artist/0I0EZKnUpimGfzPY17L1yD), [Dev Major](https://open.spotify.com/artist/4Iwi2N3FmmKmxAuGlD3AQv) | [Mama](https://open.spotify.com/album/66RmVpnMXxZoAvS60lje0i) | 3:26 | 2024-01-30 | 2024-05-21 |
 | [Manam](https://open.spotify.com/track/78aq6l0X3srW5K7kHkrUrK) | [Sandhya Chari](https://open.spotify.com/artist/3c9OLxs9AiWd0ec9k08Y6X) | [Manam](https://open.spotify.com/album/1PjbUFaXW8HFuvYGwIwtdd) | 4:00 | 2023-09-01 | 2024-05-04 |
+| [Manase](https://open.spotify.com/track/5LUZ0deU7z2IxNc6wZzKfL) | [A R Anandh](https://open.spotify.com/artist/0g4Lzawjm4gE1sjed9U02Y), [Hemanth Kumar MHD](https://open.spotify.com/artist/0FdT37rY4wTmIF4B8kPjpV) | [Manase](https://open.spotify.com/album/4OQ26nnhwmautoZOlNkyH4) | 4:45 | 2024-05-24 |  |
 | [Manidha](https://open.spotify.com/track/4JQDUgiZD9wqDiA6Aza5Rs) | [Julius Gnanagar](https://open.spotify.com/artist/6mg9ayapkEgFgnjP71yi1V), [Rahul Vishwa](https://open.spotify.com/artist/2AOfxBVOmX5Qz8hbPm7iMu), [Prawin Ganesh](https://open.spotify.com/artist/4PDzwP2wyBqHYfjWdaf3ae) | [Manidha](https://open.spotify.com/album/0NAdnBQzZNm3IGqkr6kLnm) | 4:31 | 2023-09-15 | 2024-05-04 |
 | [Manidha](https://open.spotify.com/track/1KbhAS7n23D0C9ddIuCRoV) | [Manoj Krishna](https://open.spotify.com/artist/6QtC2T2DmsEmFBQHkP1YkM), [Kalyani Nair](https://open.spotify.com/artist/38ICMLYuHXcYd3HrZiEdds), [Gana Balamurugan](https://open.spotify.com/artist/2tLTofyDbjGDLJ5yqiffic) | [Manidha](https://open.spotify.com/album/1QJmiNyPqkAEjLOn8c5WXB) | 3:48 | 2023-06-30 | 2023-11-29 |
 | [Manithakaari Sevvi](https://open.spotify.com/track/01TQhZMxTdsgDs7L76BwD5) | [Revaa](https://open.spotify.com/artist/3DhIQFmfDUjsiW0S0OqmCc), [Bshaa](https://open.spotify.com/artist/6irJTMyYRu8hCEuOOsPRMh), [Gana Vimala](https://open.spotify.com/artist/6dIbB2yuIeQ9pHCPWn522k) | [Manithakaari Sevvi](https://open.spotify.com/album/7xWL735eBbUjdHKPBXL7f0) | 5:22 | 2024-03-08 |  |

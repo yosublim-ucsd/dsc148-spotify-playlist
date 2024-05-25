@@ -1,12 +1,12 @@
 {
-  "description": "This is Sergio Vega \"El Shaka\". The essential tracks, all in one playlist.",
-  "num_followers": 95315,
+  "description": "This Is Sergio Vega \"El Shaka\". Los temas esenciales, todos en una lista.",
+  "num_followers": 95368,
   "original_name": "This Is Sergio Vega \"El Shaka\"",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zk01gAAAAABL4+JL99Tke399QpZxnuDp",
+  "snapshot_id": "Zk6HAAAAAAA3vpNHSQEPLP8dzEE9mTYH",
   "tracks": [
     {
       "added_at": null,
@@ -399,8 +399,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "M\u00e1s Exitos Con El Shaka",
-        "url": "https://open.spotify.com/album/7C7OFtcJyns1tygKSowvzO"
+        "name": "Millonario De Amor",
+        "url": "https://open.spotify.com/album/13d6INVzyUnmbJlFEjvZMQ"
       },
       "artists": [
         {
@@ -408,9 +408,9 @@
           "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
         }
       ],
-      "duration_ms": 171240,
-      "name": "Dos Botellas De Mezcal",
-      "url": "https://open.spotify.com/track/02KpEs5nhST1mtxBfDnZIW"
+      "duration_ms": 254640,
+      "name": "El Maestro",
+      "url": "https://open.spotify.com/track/6eZ4prY9gxv8AAYVasW5FR"
     },
     {
       "added_at": null,
@@ -447,8 +447,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Millonario De Amor",
-        "url": "https://open.spotify.com/album/13d6INVzyUnmbJlFEjvZMQ"
+        "name": "M\u00e1s Exitos Con El Shaka",
+        "url": "https://open.spotify.com/album/7C7OFtcJyns1tygKSowvzO"
       },
       "artists": [
         {
@@ -456,9 +456,9 @@
           "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
         }
       ],
-      "duration_ms": 254640,
-      "name": "El Maestro",
-      "url": "https://open.spotify.com/track/6eZ4prY9gxv8AAYVasW5FR"
+      "duration_ms": 171240,
+      "name": "Dos Botellas De Mezcal",
+      "url": "https://open.spotify.com/track/02KpEs5nhST1mtxBfDnZIW"
     },
     {
       "added_at": null,
@@ -479,38 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Serie Top Ten",
-        "url": "https://open.spotify.com/album/74dGCcyijMhAuNLja18GUZ"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vega \"El Shaka\"",
-          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
-        }
-      ],
-      "duration_ms": 173532,
-      "name": "El Licenciado",
-      "url": "https://open.spotify.com/track/6PEkLz630jJBn80ddIhi5o"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Recordando A El Shaka",
-        "url": "https://open.spotify.com/album/78fYl5Q2DyPivtolvFxGaa"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vega \"El Shaka\"",
-          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
-        }
-      ],
-      "duration_ms": 204346,
-      "name": "Mu\u00f1equita - Balada Version",
-      "url": "https://open.spotify.com/track/36csppf4oC76qA6vbMWDSo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Millonario De Amor",
         "url": "https://open.spotify.com/album/13d6INVzyUnmbJlFEjvZMQ"
       },
@@ -527,8 +495,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cuando El Sol Salga Al Rev\u00e9s",
-        "url": "https://open.spotify.com/album/3yZ3Du2ASwDDYMmQsvSlCa"
+        "name": "Serie Top Ten",
+        "url": "https://open.spotify.com/album/74dGCcyijMhAuNLja18GUZ"
       },
       "artists": [
         {
@@ -536,9 +504,9 @@
           "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
         }
       ],
-      "duration_ms": 118746,
-      "name": "No Vuelvo a Molestarte",
-      "url": "https://open.spotify.com/track/7AfzFp2S1yIDHjTjXnMXJs"
+      "duration_ms": 173532,
+      "name": "El Licenciado",
+      "url": "https://open.spotify.com/track/6PEkLz630jJBn80ddIhi5o"
     },
     {
       "added_at": null,
@@ -559,6 +527,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Recordando A El Shaka",
+        "url": "https://open.spotify.com/album/78fYl5Q2DyPivtolvFxGaa"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "duration_ms": 204346,
+      "name": "Mu\u00f1equita - Balada Version",
+      "url": "https://open.spotify.com/track/36csppf4oC76qA6vbMWDSo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cuando El Sol Salga Al Rev\u00e9s",
+        "url": "https://open.spotify.com/album/3yZ3Du2ASwDDYMmQsvSlCa"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "duration_ms": 118746,
+      "name": "No Vuelvo a Molestarte",
+      "url": "https://open.spotify.com/track/7AfzFp2S1yIDHjTjXnMXJs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Jefe De Las Plazas",
         "url": "https://open.spotify.com/album/6Fuiu6sxPNbpGFlEIrNilN"
       },
@@ -571,6 +571,22 @@
       "duration_ms": 182946,
       "name": "El Bitachero",
       "url": "https://open.spotify.com/track/3uGo2w4vTh6iktL20sEYb0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Me Gusta Estar Contigo",
+        "url": "https://open.spotify.com/album/75O9ELyZKaqQEpO6Y5EtNG"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "duration_ms": 165053,
+      "name": "La Mentada",
+      "url": "https://open.spotify.com/track/1pnuFhrxM4mjNvHdvwA7Mc"
     },
     {
       "added_at": null,
@@ -607,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Gusta Estar Contigo",
-        "url": "https://open.spotify.com/album/75O9ELyZKaqQEpO6Y5EtNG"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vega \"El Shaka\"",
-          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
-        }
-      ],
-      "duration_ms": 165053,
-      "name": "La Mentada",
-      "url": "https://open.spotify.com/track/1pnuFhrxM4mjNvHdvwA7Mc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Jefe De Las Plazas",
         "url": "https://open.spotify.com/album/6Fuiu6sxPNbpGFlEIrNilN"
       },
@@ -655,22 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cuando El Sol Salga Al Rev\u00e9s",
-        "url": "https://open.spotify.com/album/3yZ3Du2ASwDDYMmQsvSlCa"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vega \"El Shaka\"",
-          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
-        }
-      ],
-      "duration_ms": 244346,
-      "name": "Loco",
-      "url": "https://open.spotify.com/track/2W5YzZvhA7SOsGAvk8e9Ke"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Desde el Cielo",
         "url": "https://open.spotify.com/album/3NLkn2oW8lkfe6pLbTQiRV"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 164106,
       "name": "Las Parcelas de Mendoza",
       "url": "https://open.spotify.com/track/3HR093fTutGwn5EUWne3ZR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cuando El Sol Salga Al Rev\u00e9s",
+        "url": "https://open.spotify.com/album/3yZ3Du2ASwDDYMmQsvSlCa"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "duration_ms": 244346,
+      "name": "Loco",
+      "url": "https://open.spotify.com/track/2W5YzZvhA7SOsGAvk8e9Ke"
     },
     {
       "added_at": null,
@@ -719,22 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Con Tuba, Guitarras y Accordeon",
-        "url": "https://open.spotify.com/album/29LRqdEVuAWaoN3adSdASE"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vega \"El Shaka\"",
-          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
-        }
-      ],
-      "duration_ms": 204146,
-      "name": "Contigo o Sin Ti",
-      "url": "https://open.spotify.com/track/5Wh5CjFwU85hXV41yjhRI5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Millonario De Amor",
         "url": "https://open.spotify.com/album/13d6INVzyUnmbJlFEjvZMQ"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 242613,
       "name": "Quince Minutos De Ti",
       "url": "https://open.spotify.com/track/2fczBn1fEYW5vJASRovoln"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Con Tuba, Guitarras y Accordeon",
+        "url": "https://open.spotify.com/album/29LRqdEVuAWaoN3adSdASE"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "duration_ms": 204146,
+      "name": "Contigo o Sin Ti",
+      "url": "https://open.spotify.com/track/5Wh5CjFwU85hXV41yjhRI5"
     },
     {
       "added_at": null,

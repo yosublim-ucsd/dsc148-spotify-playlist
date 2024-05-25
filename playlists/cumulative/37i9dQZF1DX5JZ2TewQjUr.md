@@ -4,7 +4,7 @@
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: iii
 
-1,019 songs - 2 day 9 hr 39 min
+1,020 songs - 2 day 9 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Bump Chance](https://open.spotify.com/track/7s9kXjvE8tnNaAckDB7Qog) | [donny daydream](https://open.spotify.com/artist/1cN7t71QLFV6b0Fs3PlkPS) | [don't you go running off now](https://open.spotify.com/album/4sazwDC5NcUnWufKAVMlDR) | 3:03 | 2023-06-22 | 2023-11-03 |
 | [Bunker Song](https://open.spotify.com/track/6SmLKD0TYw99C9qQvBKhYt) | [Jonathan Yang](https://open.spotify.com/artist/6Ivb1T9PggzJSQZCkYQTRG) | [Bunker Song](https://open.spotify.com/album/36Tug4vZn1tvyBvcszvrbf) | 5:22 | 2022-05-26 | 2022-06-10 |
 | [burn blister](https://open.spotify.com/track/6osnNgkB3IkVFYeeDJqi88) | [cehryl](https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O) | [burn blister](https://open.spotify.com/album/2shLrT8Uep0RA7uDq2GxEY) | 3:09 | 2024-02-01 | 2024-05-10 |
+| [BUTTERFLIES](https://open.spotify.com/track/4z5gS7C4LphtrMFHiQcDUu) | [Flare](https://open.spotify.com/artist/5fOFTVTh01fR3j1D0vpxOQ) | [BUTTERFLIES](https://open.spotify.com/album/2RNF3bStKxEkhbDRxe9IYF) | 3:01 | 2024-05-23 |  |
 | [butterfly girl](https://open.spotify.com/track/2KmTq1OXdZIcEaHaNV1zUp) | [Crlsyiu](https://open.spotify.com/artist/3QCcg3sxycinU9J2khknoK) | [butterfly girl](https://open.spotify.com/album/3GL0FlvXkCofjH2HQUMzrU) | 4:04 | 2022-07-14 | 2022-11-04 |
 | [buzz cut](https://open.spotify.com/track/5uzelqnup22nD2CwxUQGIU) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx) | [buzz cut](https://open.spotify.com/album/4FHh7OcRS13Whv41NW30ux) | 2:34 | 2022-09-15 | 2023-02-03 |
 | [By the Time](https://open.spotify.com/track/4V8pj7EUdmgTZwia2jyODJ) | [Kevin Kaho Tsui](https://open.spotify.com/artist/71Q8MlYcb2SiGxqyEAjBgX) | [By the Time](https://open.spotify.com/album/34yWZHYLkQw6KWa1gHyqGe) | 3:12 | 2022-05-26 | 2022-06-10 |

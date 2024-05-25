@@ -1,12 +1,12 @@
 {
   "description": "This is Tainy. The essential tracks, all in one playlist.",
-  "num_followers": 21975,
+  "num_followers": 21997,
   "original_name": "This Is Tainy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zk01gAAAAABp3WMDN3HeaGcNQp8K1Ee9",
+  "snapshot_id": "Zk6HAAAAAACH0F/FbZdkXpZgqqfGAuUY",
   "tracks": [
     {
       "added_at": null,
@@ -783,8 +783,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jalo!",
-        "url": "https://open.spotify.com/album/4hs8CJjSwKRUmhzbh7N21h"
+        "name": "Sunbathe",
+        "url": "https://open.spotify.com/album/51iFLZOIL5XRhy2MLe7bAA"
       },
       "artists": [
         {
@@ -792,13 +792,13 @@
           "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
         },
         {
-          "name": "Tokischa",
-          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
         }
       ],
-      "duration_ms": 151186,
-      "name": "Jalo!",
-      "url": "https://open.spotify.com/track/35nBGKbeqPfVFSuaMxmQQQ"
+      "duration_ms": 170666,
+      "name": "Sunbathe",
+      "url": "https://open.spotify.com/track/6tPX67OuLWJc8XOH4dkDNE"
     },
     {
       "added_at": null,
@@ -823,8 +823,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sunbathe",
-        "url": "https://open.spotify.com/album/51iFLZOIL5XRhy2MLe7bAA"
+        "name": "Jalo!",
+        "url": "https://open.spotify.com/album/4hs8CJjSwKRUmhzbh7N21h"
       },
       "artists": [
         {
@@ -832,13 +832,13 @@
           "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
         },
         {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+          "name": "Tokischa",
+          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
         }
       ],
-      "duration_ms": 170666,
-      "name": "Sunbathe",
-      "url": "https://open.spotify.com/track/6tPX67OuLWJc8XOH4dkDNE"
+      "duration_ms": 151186,
+      "name": "Jalo!",
+      "url": "https://open.spotify.com/track/35nBGKbeqPfVFSuaMxmQQQ"
     },
     {
       "added_at": null,

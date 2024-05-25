@@ -692,7 +692,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 146424,
       "name": "Billo (feat. Natania)",
       "url": "https://open.spotify.com/track/4PDCjwOGSwQkD4QRxih4zC"
@@ -5409,6 +5409,36 @@
     },
     {
       "album": {
+        "name": "Mr. And Mrs. Mahi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3PI3er7mHLniPndwdo0mlA"
+      },
+      "artists": [
+        {
+          "name": "Dhrruv Dhalla",
+          "url": "https://open.spotify.com/artist/7GfQHvzxguqb8I3FeEoYRt"
+        },
+        {
+          "name": "Devendra Kafir",
+          "url": "https://open.spotify.com/artist/6WSOUBgfwvshacSgDxplvg"
+        },
+        {
+          "name": "Kavita Seth",
+          "url": "https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv"
+        },
+        {
+          "name": "Laqshay Kapoor",
+          "url": "https://open.spotify.com/artist/5M4WmRBIQBWlBflNZj7BTG"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231153,
+      "name": "Ranjhana (From \"Mr. And Mrs. Mahi\")",
+      "url": "https://open.spotify.com/track/0RAQ4y6mgiDgbBnGeABGWX"
+    },
+    {
+      "album": {
         "name": "Rasiya",
         "url": "https://open.spotify.com/album/7a5jf2Rhak081lCBY0dPD9"
       },
@@ -6646,6 +6676,36 @@
       "duration_ms": 209258,
       "name": "Tu Hai",
       "url": "https://open.spotify.com/track/7dZU2M1wzwOixYS6OoSMfO"
+    },
+    {
+      "album": {
+        "name": "Mr. And Mrs. Mahi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3PI3er7mHLniPndwdo0mlA"
+      },
+      "artists": [
+        {
+          "name": "Hunny",
+          "url": "https://open.spotify.com/artist/5kZoZ4jNlN8RaFR7uNwhmR"
+        },
+        {
+          "name": "Bunny",
+          "url": "https://open.spotify.com/artist/0Or6EukLg1g2fTl08fPz2o"
+        },
+        {
+          "name": "Sagar",
+          "url": "https://open.spotify.com/artist/6CWBs7ul78QwnBrcOCwhf5"
+        },
+        {
+          "name": "Neeti Mohan",
+          "url": "https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208600,
+      "name": "Tu Hain Toh - Neeti Mohan Version (From \"Mr. And Mrs. Mahi\")",
+      "url": "https://open.spotify.com/track/7o9amiuyYz7o2fnL6YdfA6"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Black Pantera
 
-465 songs - 1 day 1 hr 58 min
+466 songs - 1 day 2 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,7 @@
 | [Broken By You \(feat\. Fresno\)](https://open.spotify.com/track/1EHdm19uRPxleym1gLW9Cq) | [McFly](https://open.spotify.com/artist/47izDDvtOxxz3FzHYuUptd), [Fresno](https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f) | [Broken By You \(feat\. Fresno\)](https://open.spotify.com/album/0tLksO6H9CKan8UY4zGfE1) | 3:05 | 2023-07-21 | 2024-05-11 |
 | [Broken By You \(feat\. Fresno\)](https://open.spotify.com/track/41ATRo4jo08OFfyRPU77Y3) | [McFly](https://open.spotify.com/artist/47izDDvtOxxz3FzHYuUptd), [Fresno](https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f) | [Power to Play \(Deluxe\)](https://open.spotify.com/album/6twHmY6QETLwAp4oMBRAp8) | 3:05 | 2023-11-17 | 2024-04-19 |
 | [Bucket List](https://open.spotify.com/track/3PK0Lww2PbK9K808Pd3vJx) | [Long Past Overdue](https://open.spotify.com/artist/0epGwikvhwBH94d18WBMgb) | [Bucket List](https://open.spotify.com/album/0n1EoMUN7d1ZrNvAjQIvH0) | 3:43 | 2022-01-14 | 2023-03-03 |
-| [Cabelo Raspadinho](https://open.spotify.com/track/2f2ZBXAQX8JepNAARbL7Ih) | [PEU](https://open.spotify.com/artist/6kpPbpC43H8QLZkwN6D19f), [Tenison Del Rey](https://open.spotify.com/artist/2geDkt9PKJCfL2wEMX7m0D) | [Cabelo Raspadinho](https://open.spotify.com/album/2KujFArkaTpjXvY3JHtyUj) | 3:31 | 2024-04-19 |  |
+| [Cabelo Raspadinho](https://open.spotify.com/track/2f2ZBXAQX8JepNAARbL7Ih) | [PEU](https://open.spotify.com/artist/6kpPbpC43H8QLZkwN6D19f), [Tenison Del Rey](https://open.spotify.com/artist/2geDkt9PKJCfL2wEMX7m0D) | [Cabelo Raspadinho](https://open.spotify.com/album/2KujFArkaTpjXvY3JHtyUj) | 3:31 | 2024-04-19 | 2024-05-25 |
 | [Calma](https://open.spotify.com/track/4FrSJW2JJsojY7rHn3d122) | [Sea Smile](https://open.spotify.com/artist/3ct3zDqakyuMxobcowQhQv) | [Calma](https://open.spotify.com/album/6wNhe6Elxu9ln8639pGb20) | 3:46 | 2022-04-22 | 2022-05-28 |
 | [Calmaria \(Sessions\)](https://open.spotify.com/track/5al7dvnBhJEhNpi8XCpSi0) | [NAVALA](https://open.spotify.com/artist/5qSepOy54NGAJ5rpIksl3p) | [Sessions Navala](https://open.spotify.com/album/4kxhOEzCII1AlWcMiG6E9s) | 4:03 | 2023-02-03 | 2023-11-25 |
 | [Camadas](https://open.spotify.com/track/0nQ7KC076ErLNE6PtDim1V) | [Fresno](https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f) | [Eu Nunca Fui Embora \- PARTE 1](https://open.spotify.com/album/4LketVVipjzizVzYqTojSE) | 3:40 | 2024-04-05 | 2024-05-11 |
@@ -337,6 +337,7 @@
 | [Perfeição](https://open.spotify.com/track/6JKjPmMTx4RVcGw9oZOVqx) | [Cali](https://open.spotify.com/artist/45PtVszGYU0nqQfUS99Dyz) | [Perfeição](https://open.spotify.com/album/3c1IScAFMFyk408EFVfPqF) | 4:15 | 2022-10-14 | 2023-08-05 |
 | [Permita\-Se](https://open.spotify.com/track/0TulXMy4nmEKaSIHOyKTtL) | [Jovelina](https://open.spotify.com/artist/3rP3sEmSvjXrlZzcujVzEY), [Reolamos](https://open.spotify.com/artist/00fzvFKe5X1o9J6sIQwFxq) | [Permita\-Se](https://open.spotify.com/album/47SsyEFkXO3mBEYHPkmsl2) | 3:11 | 2022-01-14 | 2023-04-06 |
 | [Permita\-Se](https://open.spotify.com/track/2Fb72sBmDASbLhiuTEjTxW) | [Jovelina](https://open.spotify.com/artist/3rP3sEmSvjXrlZzcujVzEY), [Reolamos](https://open.spotify.com/artist/00fzvFKe5X1o9J6sIQwFxq) | [A Vida Sempre Se Vai, Ela Nunca Volta](https://open.spotify.com/album/12d5gyh018ffIjCvn0LnrS) | 3:11 | 2023-01-27 | 2023-04-15 |
+| [PERPÉTUO](https://open.spotify.com/track/2OIkwlfcRxzsAAX6CbIyYx) | [Black Pantera](https://open.spotify.com/artist/2PftOgEPewb4XsaeE4567t) | [PERPÉTUO](https://open.spotify.com/album/1jq6ILT0x3Rrx9gHpUGplW) | 4:17 | 2024-05-24 |  |
 | [Persistir](https://open.spotify.com/track/5Nq9Uxb8QL4kQAICN8nOcM) | [Decifrada](https://open.spotify.com/artist/4oMK2s1CtYA8h6DZbCHJ1Z), [Ciça Moreira](https://open.spotify.com/artist/6d4FihzI3byHpea2O2SCJt), [Mika Jaxx](https://open.spotify.com/artist/2uLuaB1AAuX3OLZ1o7Dsyc) | [Persistir](https://open.spotify.com/album/21ddzj24bAa8vpc68FZqok) | 4:06 | 2023-06-30 | 2023-11-11 |
 | [Piloto Automático \- Ao Vivo no Studio F](https://open.spotify.com/track/2jaF9qxuI3hqvfH3xKlQcu) | [Supercombo](https://open.spotify.com/artist/73HkjgziMO6I83vFOS8mo1) | [Supercombo Ao Vivo no Studio F](https://open.spotify.com/album/3DnxGjjJhlvXuUgSkQpqvp) | 3:11 | 2022-09-02 |  |
 | [PITTYNANDO](https://open.spotify.com/track/0W8wc6tclS3TGMS9pQ5dp7) | [Pitty](https://open.spotify.com/artist/2dmQ0vMD3THLMcz7DsvfaT), [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy) | [PITTYNANDO – As Suas, As Minhas e As Nossas](https://open.spotify.com/album/32twh3w8ohRnmxqlsxbxDq) | 3:43 | 2022-12-02 | 2023-02-04 |

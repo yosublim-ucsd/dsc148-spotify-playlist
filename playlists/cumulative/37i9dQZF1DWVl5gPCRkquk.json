@@ -511,6 +511,24 @@
     },
     {
       "album": {
+        "name": "Easy Company EP",
+        "url": "https://open.spotify.com/album/5g1U0nAYhO7ghJZLBF21c9"
+      },
+      "artists": [
+        {
+          "name": "Futurebirds",
+          "url": "https://open.spotify.com/artist/4Ait1vX2ZaWPrkua8Z664O"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181599,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/1nhjRDHOWGmflcQ5p66Dn8"
+    },
+    {
+      "album": {
         "name": "Bloomsday",
         "url": "https://open.spotify.com/album/2rfQho2fgiLBVquouCUbKy"
       },
@@ -566,6 +584,24 @@
       "duration_ms": 159333,
       "name": "Bones",
       "url": "https://open.spotify.com/track/31ynAStjeuhDNDeIpwVqu5"
+    },
+    {
+      "album": {
+        "name": "boys, bugs and men",
+        "url": "https://open.spotify.com/album/5lngAYTf5pP5BNXSRiRIvJ"
+      },
+      "artists": [
+        {
+          "name": "Paris Paloma",
+          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186763,
+      "name": "boys, bugs and men",
+      "url": "https://open.spotify.com/track/6DE23VfUZNpmOnRhYuUMy6"
     },
     {
       "album": {
@@ -2507,6 +2543,24 @@
     },
     {
       "album": {
+        "name": "Honey I'm Hardly",
+        "url": "https://open.spotify.com/album/3qqr9XxKeseTVFrlcPuxNF"
+      },
+      "artists": [
+        {
+          "name": "Oliver Hazard",
+          "url": "https://open.spotify.com/artist/3F4iXxXxe7iazo3Jnwucng"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167733,
+      "name": "Honey I'm Hardly",
+      "url": "https://open.spotify.com/track/0SOuHPVyGL4CtXg6Q7QOMV"
+    },
+    {
+      "album": {
         "name": "Neptune",
         "url": "https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS"
       },
@@ -2590,7 +2644,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 173077,
       "name": "How Bad I Wanna Live",
       "url": "https://open.spotify.com/track/4k3Cin3TLWvOwRwCPnStl5"
@@ -3298,7 +3352,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 205603,
       "name": "Lie to Me",
       "url": "https://open.spotify.com/track/76MCLNEw1AbrDjlprsoFkP"
@@ -3536,6 +3590,24 @@
       "duration_ms": 225744,
       "name": "Maybe Tomorrow",
       "url": "https://open.spotify.com/track/7xObdqm0oTTUyerRM4EB1N"
+    },
+    {
+      "album": {
+        "name": "Family Feud",
+        "url": "https://open.spotify.com/album/3GwGPvsD2XJN0M9zAR8dJx"
+      },
+      "artists": [
+        {
+          "name": "Julia Pratt",
+          "url": "https://open.spotify.com/artist/0F9yMp30FUREoa635VLsY8"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216918,
+      "name": "Michael",
+      "url": "https://open.spotify.com/track/0KLJ25bNfbIVGLrdOYizSJ"
     },
     {
       "album": {
@@ -3993,6 +4065,24 @@
     },
     {
       "album": {
+        "name": "Only One",
+        "url": "https://open.spotify.com/album/0fzG0DP1dF2MEGyuhZHj5w"
+      },
+      "artists": [
+        {
+          "name": "Cassandra Jenkins",
+          "url": "https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189093,
+      "name": "Only One",
+      "url": "https://open.spotify.com/track/5MXegzzvDfUSfwpf8a0FCq"
+    },
+    {
+      "album": {
         "name": "Cannot Be, Whatsoever",
         "url": "https://open.spotify.com/album/1KkBDNtkZDW8COUNKAWRPw"
       },
@@ -4040,7 +4130,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 232649,
       "name": "Parking Lot",
       "url": "https://open.spotify.com/track/632xyZbSBdyc5tJ9gOYFdE"
@@ -4814,7 +4904,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 269015,
       "name": "Slow Pace Of Time [Feat. Charlie Gabriel]",
       "url": "https://open.spotify.com/track/3BXlWG4SqubAmdcGac4cNR"
@@ -5037,6 +5127,24 @@
     },
     {
       "album": {
+        "name": "Stargazing",
+        "url": "https://open.spotify.com/album/3VNxRarx9HUI5w7DHv0TBj"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172533,
+      "name": "Stargazing",
+      "url": "https://open.spotify.com/track/3Vr3zh0r7ALn8VLqCiRR10"
+    },
+    {
+      "album": {
         "name": "Weathervanes",
         "url": "https://open.spotify.com/album/2gL0IM5SYhCxJebPaKdDkx"
       },
@@ -5210,7 +5318,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 238186,
       "name": "The Good Life",
       "url": "https://open.spotify.com/track/6fAJL7dFFaAlRgrmXKvctr"
@@ -5892,7 +6000,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 177674,
       "name": "When I Say That I Love You",
       "url": "https://open.spotify.com/track/1L5jdavZ7YMWIFafo1gyZD"

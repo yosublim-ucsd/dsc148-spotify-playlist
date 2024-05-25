@@ -4,7 +4,7 @@
 
 > unwind with these alternative favorites and new discoveries.
 
-379 songs - 23 hr 24 min
+380 songs - 23 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -334,6 +334,7 @@
 | [The Beach](https://open.spotify.com/track/2u0CelO5c81XS7z3dGpHbS) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Wiped Out!](https://open.spotify.com/album/18iFxjZugvKhuNNMbLjZJF) | 4:15 | 2022-04-11 | 2022-08-18 |
 | [The Birthday Party](https://open.spotify.com/track/3qZwJ1SiY32JW70JqgiFbY) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [The Birthday Party](https://open.spotify.com/album/6sZzx2xabT42pyknjFG6zR) | 4:37 | 2020-04-30 | 2020-07-10 |
 | [the car](https://open.spotify.com/track/1MXhawGVPUqa8PBhiLMLUh) | [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [the car](https://open.spotify.com/album/7pT4h2hVgXZfmEat1enw5j) | 2:45 | 2020-09-22 | 2021-11-13 |
+| [The Craving \(single version\)](https://open.spotify.com/track/0S7lkKStHgfgjgwSFOvRNA) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [The Craving \(single version\)](https://open.spotify.com/album/7K7eWZNR5t9UBlrN2ltzLI) | 2:53 | 2024-05-24 |  |
 | [The Feel](https://open.spotify.com/track/2w9bvFZOHo6I1ZWEkNKSpa) | [KID BRUNSWICK](https://open.spotify.com/artist/4QxIol1JzAa4ePmDytv0e4) | [The Feel](https://open.spotify.com/album/4wMtlquxyRVtSk6nNOWDOT) | 2:35 | 2021-07-09 | 2022-11-13 |
 | [The Less I Know The Better](https://open.spotify.com/track/6K4t31amVTZDgR3sKmwUJJ) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 3:36 | 2019-06-16\* |  |
 | [the perfect pair](https://open.spotify.com/track/41P6Tnd8KIHqON0QIydx6a) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 2:57 | 2022-08-17 | 2022-09-17 |
@@ -341,7 +342,7 @@
 | [The Way We Say Goodbye](https://open.spotify.com/track/7J4inwHlV4Bf0qhe9xGGpS) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [What’s It Like Over There?](https://open.spotify.com/album/75HYUZI2d0FDMlsIEfp6Kj) | 4:03 | 2019-06-16\* | 2022-07-29 |
 | [The Way We Say Goodbye](https://open.spotify.com/track/7sZG4nOCgGfXE00SCuyngO) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [What's It Like Over There?](https://open.spotify.com/album/5pQd4CjocXnv5aLizqHCMu) | 4:03 | 2022-04-11 | 2024-04-19 |
 | [The World Ender](https://open.spotify.com/track/3NNimGud58iHka1LHkda6D) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS) | 4:30 | 2019-06-16\* |  |
-| [The Youth](https://open.spotify.com/track/34VxehtpB6VaZ7s0rHOOXb) | [George Taylor](https://open.spotify.com/artist/0nuq0P5rPEpF6oFM4PTia5) | [The Youth](https://open.spotify.com/album/0wV6CrEjOUWw8XOUNyjOaM) | 3:30 | 2019-06-16\* |  |
+| [The Youth](https://open.spotify.com/track/34VxehtpB6VaZ7s0rHOOXb) | [George Taylor](https://open.spotify.com/artist/0nuq0P5rPEpF6oFM4PTia5) | [The Youth](https://open.spotify.com/album/0wV6CrEjOUWw8XOUNyjOaM) | 3:30 | 2019-06-16\* | 2024-05-25 |
 | [This is the End](https://open.spotify.com/track/3j6dcEE1CiLize5IKgtAY4) | [Baby Fisher](https://open.spotify.com/artist/0xyKLUHH6HXyMAgsDQgVsA) | [This is the End](https://open.spotify.com/album/1fJStrEMC3WHoDmcStWh0h) | 3:10 | 2022-12-16 | 2023-02-10 |
 | [Time](https://open.spotify.com/track/1kOrZmrSnP1gub1kneRNHF) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Time](https://open.spotify.com/album/7cwi5zqBBnLFVNO1HR49Zd) | 4:22 | 2022-08-17 | 2022-09-04 |
 | [Time](https://open.spotify.com/track/36d2zV9oeEiDlkZmiZaZE1) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Good Old](https://open.spotify.com/album/73cqG0sJJq82DL93j5qU34) | 4:22 | 2022-09-16 | 2024-02-14 |

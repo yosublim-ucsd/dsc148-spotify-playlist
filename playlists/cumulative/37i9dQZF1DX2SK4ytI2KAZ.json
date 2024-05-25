@@ -1490,7 +1490,7 @@
       ],
       "date_added": "2024-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 124013,
       "name": "Cartwheels",
       "url": "https://open.spotify.com/track/3tHyJBRSh4B8zwxmDNPVbf"
@@ -5134,7 +5134,7 @@
       ],
       "date_added": "2024-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-13",
+      "date_removed": null,
       "duration_ms": 233463,
       "name": "Light On",
       "url": "https://open.spotify.com/track/0QzcgQmOWVT1qqVAsqGFh1"
@@ -6116,7 +6116,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 177080,
       "name": "Mood Ring",
       "url": "https://open.spotify.com/track/4ZwV2vVR5vUEOKHQwFJe8T"
@@ -6329,6 +6329,24 @@
     },
     {
       "album": {
+        "name": "Next Semester",
+        "url": "https://open.spotify.com/album/7aeIwIg63Qyt1bzjsPufzl"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234400,
+      "name": "Next Semester",
+      "url": "https://open.spotify.com/track/4PCD9jZRM2VswisaTBhc25"
+    },
+    {
+      "album": {
         "name": "Nice and Easy (with Mark McGrath of Sugar Ray)",
         "url": "https://open.spotify.com/album/4aUgmzsjVGFtRJChYnxzbw"
       },
@@ -6514,6 +6532,24 @@
       "duration_ms": 164453,
       "name": "Nothing To Lose",
       "url": "https://open.spotify.com/track/4bEdcyI0l4zX2Ut5m5Xrhw"
+    },
+    {
+      "album": {
+        "name": "Can We Please Have Fun",
+        "url": "https://open.spotify.com/album/2FKCYNTlVVub7yPDncWamQ"
+      },
+      "artists": [
+        {
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220584,
+      "name": "Nowhere To Run",
+      "url": "https://open.spotify.com/track/44R1ZALac20AijYr5TtPgr"
     },
     {
       "album": {
@@ -7712,7 +7748,7 @@
       ],
       "date_added": "2024-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 192654,
       "name": "Run Away With Me",
       "url": "https://open.spotify.com/track/2DUt3aAwcVeeHwcQPjFqLH"

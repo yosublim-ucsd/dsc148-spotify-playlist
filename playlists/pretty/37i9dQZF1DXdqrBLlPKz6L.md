@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqrBLlPKz6L.md) - [plain]
 
 > Los temas más prendidos del trap desde Venezuela, Colombia, Perú y Ecuador\. Foto: Kei Linch
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,727 likes - 60 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,744 likes - 60 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqrBLlPKz6L.md) - [plain]
 | 2 | [Todo o Nada](https://open.spotify.com/track/2zdHRQTOBDk8mM8xBzziFh) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Corina Smith](https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8) | [Monarca](https://open.spotify.com/album/6N1iKBKY8zRGImxADk2IdN) | 2:39 |
 | 3 | [CONDENADO AL EXITO II](https://open.spotify.com/track/4RbCdwPPk5XUpTrxAvntGM) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [SI SABE](https://open.spotify.com/album/7ot6ebVthlYG3wXzLaZ5NF) | 4:17 |
 | 4 | [Bye](https://open.spotify.com/track/0hucTc8Bg42b3Ihwz3WS7o) | [suei](https://open.spotify.com/artist/6jEjSPxnwsibG6vPOjkeER) | [Bye](https://open.spotify.com/album/6MnlRXoedn0gZHwVh9mOjI) | 2:37 |
-| 5 | [Flor de Loto](https://open.spotify.com/track/4lS5OOqQzyQDDR0g1EmcdK) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Flor de Loto](https://open.spotify.com/album/1zdtga77ItleW98WqnrX0m) | 2:06 |
-| 6 | [La Salsa](https://open.spotify.com/track/696HCNMv6YK7K5Gtl3504C) | [El Clooy](https://open.spotify.com/artist/2iBSDwlk9bvp1aKT4ubGoC), [COQE](https://open.spotify.com/artist/7GAYtrIoXkEFFsSP2nhG0E) | [La Salsa](https://open.spotify.com/album/082ck1VrEmNTwo8vf0cDkQ) | 2:16 |
+| 5 | [Donde No Se Ve](https://open.spotify.com/track/2QSLg4zuaykHGBvhCgCdO0) | [El Clooy](https://open.spotify.com/artist/2iBSDwlk9bvp1aKT4ubGoC), [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [Los Money Makers](https://open.spotify.com/artist/3xqON5f18PRtZ7jqPIXOHx) | [Donde No Se Ve](https://open.spotify.com/album/5RBYr28O3Bz4qrlGhTP4mZ) | 3:16 |
+| 6 | [Flor de Loto](https://open.spotify.com/track/4lS5OOqQzyQDDR0g1EmcdK) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Flor de Loto](https://open.spotify.com/album/1zdtga77ItleW98WqnrX0m) | 2:06 |
 | 7 | [A2P](https://open.spotify.com/track/0IPD4hNAGIjVDBTHfVdv8o) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Foreign Teck](https://open.spotify.com/artist/12lHTAdc9T204lw5qPtasv) | [SI SABE](https://open.spotify.com/album/7ot6ebVthlYG3wXzLaZ5NF) | 6:47 |
 | 8 | [3:33](https://open.spotify.com/track/13I4rLxgBLcR3F9TykaW97) | [Soley](https://open.spotify.com/artist/1zo2ucFhzu58hKcniMpSQs), [Reboll333](https://open.spotify.com/artist/2IhhVEifV7ntdvp2YmMIzg) | [3:33](https://open.spotify.com/album/2A4YxJxcU3mw4GN0Z7GJ1J) | 3:31 |
 | 9 | [Makin Noi](https://open.spotify.com/track/1hIHfZuUxL9cqUAat01bQm) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow), [suei](https://open.spotify.com/artist/6jEjSPxnwsibG6vPOjkeER) | [Makin Noi](https://open.spotify.com/album/5Osdpx6HZWNnE8l5MjCwQs) | 2:42 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqrBLlPKz6L.md) - [plain]
 | 59 | [Double Cup \(feat\. Trainer & Big Soto\)](https://open.spotify.com/track/0wwOTjKyrGTp1bJCUy7mPj) | [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym), [Trainer](https://open.spotify.com/artist/6MB0O7jOsJ1OrkPAIlK3l2), [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU) | [Double Cup \(feat\. Trainer & Big Soto\)](https://open.spotify.com/album/4x4ubWTKOJQ1k0daiz0Kfd) | 3:41 |
 | 60 | [Negro](https://open.spotify.com/track/1oiQSttaF5b3ZI5masPw6i) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [Negro](https://open.spotify.com/album/43q3UPszpuNHz8gBFwKBtg) | 3:17 |
 
-Snapshot ID: `ZkbkFAAAAADbdiK0C02RN5rNOLl3xleK`
+Snapshot ID: `ZlAelAAAAAAuaysCXT0+D7iMceIDv5az`

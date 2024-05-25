@@ -1104,7 +1104,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 211696,
       "name": "Fever Dream",
       "url": "https://open.spotify.com/track/1uuwS1OxQ0tM8MbZDRFs3q"
@@ -1268,7 +1268,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 171428,
       "name": "Funk",
       "url": "https://open.spotify.com/track/0ZzYbGzGE5VjplmEOn81gn"
@@ -1483,6 +1483,24 @@
     },
     {
       "album": {
+        "name": "Good Time",
+        "url": "https://open.spotify.com/album/1nqYSvZvk3ockMHOvtG3tq"
+      },
+      "artists": [
+        {
+          "name": "Orjan Nilsen",
+          "url": "https://open.spotify.com/artist/1YuNQvsvOsMBm0ahbxB8qM"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185196,
+      "name": "Good Time",
+      "url": "https://open.spotify.com/track/6bDOVoxBDwCnWs3C5dUvgR"
+    },
+    {
+      "album": {
         "name": "Goodbye",
         "url": "https://open.spotify.com/album/4anHTuGfiQAybiDedPoJ5a"
       },
@@ -1666,6 +1684,24 @@
       "duration_ms": 149047,
       "name": "I'll Stay With You",
       "url": "https://open.spotify.com/track/5tc1WMHKFiGA7qmhTXA3Jx"
+    },
+    {
+      "album": {
+        "name": "Illusion",
+        "url": "https://open.spotify.com/album/2tLsgjfImd6E7QT2r3ub0z"
+      },
+      "artists": [
+        {
+          "name": "Noola",
+          "url": "https://open.spotify.com/artist/5K7fwqqwElpjvTGk9rBetG"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179454,
+      "name": "Illusion",
+      "url": "https://open.spotify.com/track/3GTVfnOJ0ooGdCE6Fo1RKv"
     },
     {
       "album": {
@@ -2572,6 +2608,24 @@
       "duration_ms": 129600,
       "name": "Nirvana",
       "url": "https://open.spotify.com/track/0C2PDXjRIl5y6bqxewBXoL"
+    },
+    {
+      "album": {
+        "name": "No Stoppin'",
+        "url": "https://open.spotify.com/album/15LxZGvCmPSofcmDtqyRav"
+      },
+      "artists": [
+        {
+          "name": "Grenno",
+          "url": "https://open.spotify.com/artist/5n5VyOfcSQH3ZFeFlzf62q"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196408,
+      "name": "No Stoppin'",
+      "url": "https://open.spotify.com/track/57FmT0iCeLWU4NrRlIl6ci"
     },
     {
       "album": {
@@ -3694,7 +3748,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 166237,
       "name": "The Don",
       "url": "https://open.spotify.com/track/6amFTa4qtw7wHiSKNZsBUw"
@@ -3942,6 +3996,28 @@
       "duration_ms": 257006,
       "name": "Transmission",
       "url": "https://open.spotify.com/track/2miITU7KPzAFARj7ofvD0y"
+    },
+    {
+      "album": {
+        "name": "TRUST",
+        "url": "https://open.spotify.com/album/589r4sFNm8R3cETh4lXRRS"
+      },
+      "artists": [
+        {
+          "name": "Darby",
+          "url": "https://open.spotify.com/artist/6rErJmMCoNHUX0Z99uBB8m"
+        },
+        {
+          "name": "Britt Lari",
+          "url": "https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164776,
+      "name": "TRUST",
+      "url": "https://open.spotify.com/track/5zCKUok6FtVnEN1ATfBEFJ"
     },
     {
       "album": {
@@ -4372,7 +4448,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 180000,
       "name": "Wema - Anorre Remix",
       "url": "https://open.spotify.com/track/3A0OGZ8qR9BgQgDpXnXkJT"

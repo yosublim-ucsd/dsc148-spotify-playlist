@@ -1,12 +1,12 @@
 {
-  "description": "This is Midian Lima. The essential tracks, all in one playlist.",
-  "num_followers": 19527,
+  "description": "This is Midian Lima. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 19533,
   "original_name": "This Is Midian Lima",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zk01gAAAAAD7urDeBZRzCvE+n1mUS1A6",
+  "snapshot_id": "Zk6HAAAAAACdJv2OU/HLEoTjyvNp3QQJ",
   "tracks": [
     {
       "added_at": null,
@@ -531,8 +531,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "N\u00e3o Haver\u00e1 Vergonha",
-        "url": "https://open.spotify.com/album/5JHnsAUQlOUH88A4bg2LRX"
+        "name": "O Deus dos Pequeninos",
+        "url": "https://open.spotify.com/album/0xRgeruz1NjwaL67PxOo4h"
       },
       "artists": [
         {
@@ -540,9 +540,9 @@
           "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
         }
       ],
-      "duration_ms": 316673,
-      "name": "N\u00e3o Haver\u00e1 Vergonha",
-      "url": "https://open.spotify.com/track/2svtPIsdwo3G5tVTsMVhTN"
+      "duration_ms": 281000,
+      "name": "O Deus dos Pequeninos",
+      "url": "https://open.spotify.com/track/4kwrcCpp5QjKWrh6gkMncq"
     },
     {
       "added_at": null,
@@ -563,8 +563,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Deus dos Pequeninos",
-        "url": "https://open.spotify.com/album/0xRgeruz1NjwaL67PxOo4h"
+        "name": "N\u00e3o Haver\u00e1 Vergonha",
+        "url": "https://open.spotify.com/album/5JHnsAUQlOUH88A4bg2LRX"
       },
       "artists": [
         {
@@ -572,9 +572,9 @@
           "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
         }
       ],
-      "duration_ms": 281000,
-      "name": "O Deus dos Pequeninos",
-      "url": "https://open.spotify.com/track/4kwrcCpp5QjKWrh6gkMncq"
+      "duration_ms": 316673,
+      "name": "N\u00e3o Haver\u00e1 Vergonha",
+      "url": "https://open.spotify.com/track/2svtPIsdwo3G5tVTsMVhTN"
     },
     {
       "added_at": null,
@@ -647,6 +647,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "A B\u00ean\u00e7\u00e3o do Senhor",
+        "url": "https://open.spotify.com/album/6JYB97cfmq5wOBa2u0ZvY9"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 250636,
+      "name": "A B\u00ean\u00e7\u00e3o do Senhor",
+      "url": "https://open.spotify.com/track/483Dxv8LdL4Ink5r6g8ZB9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Atos 2 (Ao Vivo)",
         "url": "https://open.spotify.com/album/2e1gED5YRJBQ3Pguz5jEAu"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 262000,
       "name": "Entre Para o Templo",
       "url": "https://open.spotify.com/track/4YnvssiwhpmJBrNtEAcAvM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A B\u00ean\u00e7\u00e3o do Senhor",
-        "url": "https://open.spotify.com/album/6JYB97cfmq5wOBa2u0ZvY9"
-      },
-      "artists": [
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 250636,
-      "name": "A B\u00ean\u00e7\u00e3o do Senhor",
-      "url": "https://open.spotify.com/track/483Dxv8LdL4Ink5r6g8ZB9"
     },
     {
       "added_at": null,
@@ -735,22 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Midian Lima Live Session",
-        "url": "https://open.spotify.com/album/7kEOcgI8WXPXrg9cqjnjsr"
-      },
-      "artists": [
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 243112,
-      "name": "O Poder do Sangue",
-      "url": "https://open.spotify.com/track/46hfcKPBhqemiyit7rH7ap"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "L\u00e9a Mendon\u00e7a (Ao Vivo)",
         "url": "https://open.spotify.com/album/5MCnlnXqI1pjozG7j5Cvvl"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 260342,
       "name": "Mem\u00f3rias (Ao Vivo)",
       "url": "https://open.spotify.com/track/0NEKWNtO1glIx80zsMzp66"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Midian Lima Live Session",
+        "url": "https://open.spotify.com/album/7kEOcgI8WXPXrg9cqjnjsr"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 243112,
+      "name": "O Poder do Sangue",
+      "url": "https://open.spotify.com/track/46hfcKPBhqemiyit7rH7ap"
     },
     {
       "added_at": null,

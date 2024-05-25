@@ -52,7 +52,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-24",
+      "date_removed": null,
       "duration_ms": 320164,
       "name": "All I Want Is Everything",
       "url": "https://open.spotify.com/track/4AxFwURtLHp0P65wO8glIV"
@@ -166,7 +166,7 @@
       ],
       "date_added": "2024-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-21",
+      "date_removed": null,
       "duration_ms": 298663,
       "name": "Another Hit And Run",
       "url": "https://open.spotify.com/track/1XMIfgwtEm6Bd2mahFPaqb"
@@ -202,7 +202,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 267084,
       "name": "Blood Runs Cold",
       "url": "https://open.spotify.com/track/4CobZvJtESkkrHcC0QUVlx"
@@ -260,6 +260,24 @@
       "duration_ms": 206680,
       "name": "Dangerous",
       "url": "https://open.spotify.com/track/5RdVA7oxXNG08TIPAJrDic"
+    },
+    {
+      "album": {
+        "name": "Pyromania",
+        "url": "https://open.spotify.com/album/5ab6RIlAGwbVAacV1JIr2d"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "date_added": "2024-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375866,
+      "name": "Die Hard The Hunter",
+      "url": "https://open.spotify.com/track/7KLg11Zw7jmxRC7CpGKEAR"
     },
     {
       "album": {
@@ -346,7 +364,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 397813,
       "name": "Gods Of War",
       "url": "https://open.spotify.com/track/04fSMvH0SLmdykyg06rXC3"
@@ -412,7 +430,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-22",
+      "date_removed": null,
       "duration_ms": 213848,
       "name": "Heaven Is",
       "url": "https://open.spotify.com/track/7d3boHf9Ko0tqqMBRHvIrJ"
@@ -448,7 +466,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-24",
+      "date_removed": null,
       "duration_ms": 354636,
       "name": "Hysteria",
       "url": "https://open.spotify.com/track/2PFIZFcGry0po3ZfRZkzKc"
@@ -562,7 +580,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 153506,
       "name": "It Could Be You",
       "url": "https://open.spotify.com/track/0AMMTP6BXOv8xadqqR3GSC"
@@ -616,7 +634,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-24",
+      "date_removed": null,
       "duration_ms": 278917,
       "name": "Lady Strange",
       "url": "https://open.spotify.com/track/7dDwYtWBlsCCUMcsU6fe3n"
@@ -634,7 +652,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 283186,
       "name": "Let It Go",
       "url": "https://open.spotify.com/track/1aR6W01r094onPc4O2avEp"
@@ -812,7 +830,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 247739,
       "name": "Mirror Mirror (Look Into My Eyes)",
       "url": "https://open.spotify.com/track/67vJBne1NXsWAyjWb96m6p"
@@ -888,7 +906,7 @@
       ],
       "date_added": "2024-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 240920,
       "name": "Now",
       "url": "https://open.spotify.com/track/71sHC5AHCow7uIka7RWztY"
@@ -906,7 +924,7 @@
       ],
       "date_added": "2024-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-22",
+      "date_removed": null,
       "duration_ms": 327250,
       "name": "Paper Sun",
       "url": "https://open.spotify.com/track/6Ap9ZlHD4EGNcpiOwX9wGc"
@@ -972,7 +990,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 247962,
       "name": "Photograph",
       "url": "https://open.spotify.com/track/18URo35acNKRTHfEdjTcGn"
@@ -1310,7 +1328,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-24",
+      "date_removed": null,
       "duration_ms": 183200,
       "name": "Switch 625",
       "url": "https://open.spotify.com/track/1lwW3ovgmnRIfqHnX1ghgU"
@@ -1506,7 +1524,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 280466,
       "name": "Undefeated",
       "url": "https://open.spotify.com/track/7w2W2XIem4XdNfgSQzbypm"

@@ -2104,7 +2104,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 209345,
       "name": "Giving You",
       "url": "https://open.spotify.com/track/5QcKkO89PDQH50Mh7W4pSr"
@@ -2530,7 +2530,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 316320,
       "name": "How Deep Is Your Love",
       "url": "https://open.spotify.com/track/6HdbvXwjglsjSnV9H4XTEX"
@@ -2927,6 +2927,24 @@
     },
     {
       "album": {
+        "name": "It\u2019s Strange",
+        "url": "https://open.spotify.com/album/4PdIH020EAwcbah7q92WsG"
+      },
+      "artists": [
+        {
+          "name": "Azzecca",
+          "url": "https://open.spotify.com/artist/2k5DY2QDU3kBi5DX7OQlWj"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212823,
+      "name": "It's Strange",
+      "url": "https://open.spotify.com/track/0V3ssu48VOqr1WwkPOD4Yt"
+    },
+    {
+      "album": {
         "name": "Inner Song",
         "url": "https://open.spotify.com/album/3DzlkHEQtb0ABoxze4Zxi7"
       },
@@ -3076,6 +3094,28 @@
       "duration_ms": 226431,
       "name": "La Perla - Edit",
       "url": "https://open.spotify.com/track/6CldyxMa4XuHWAhAlaPWmt"
+    },
+    {
+      "album": {
+        "name": "Last One For Today",
+        "url": "https://open.spotify.com/album/7JyUDLcqiIs63lqhn1SalC"
+      },
+      "artists": [
+        {
+          "name": "Chlo\u00e9 Caillet",
+          "url": "https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a"
+        },
+        {
+          "name": "Nyra",
+          "url": "https://open.spotify.com/artist/68JPALv2DlQNPeiyyO7PP8"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 383942,
+      "name": "Last One For Today",
+      "url": "https://open.spotify.com/track/2Rlwc41Lv2p1bARfNuYfrj"
     },
     {
       "album": {
@@ -3262,6 +3302,24 @@
       "duration_ms": 214315,
       "name": "Lobster Telephone - Edit",
       "url": "https://open.spotify.com/track/6vrsFaISBLBKzQGZmqDnxK"
+    },
+    {
+      "album": {
+        "name": "Look At Me",
+        "url": "https://open.spotify.com/album/1dzxMhanj9kriQCS1PDwzU"
+      },
+      "artists": [
+        {
+          "name": "Nostalgix",
+          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147692,
+      "name": "Look At Me",
+      "url": "https://open.spotify.com/track/03T8F9SOv7aeJX7QKvV1eN"
     },
     {
       "album": {
@@ -3692,7 +3750,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 161904,
       "name": "NIGHTMARES",
       "url": "https://open.spotify.com/track/6nbDT4jLr90VdiTThxXvUi"
@@ -4036,7 +4094,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 208375,
       "name": "Promises",
       "url": "https://open.spotify.com/track/6J1J0mAEKODPz10Tthdhwv"
@@ -4383,6 +4441,24 @@
     },
     {
       "album": {
+        "name": "searching",
+        "url": "https://open.spotify.com/album/4JFKDlnzhn44lISfGzwSQG"
+      },
+      "artists": [
+        {
+          "name": "wilo wilde",
+          "url": "https://open.spotify.com/artist/1u8WMRSaZzgqRia2uU5uJc"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182706,
+      "name": "searching",
+      "url": "https://open.spotify.com/track/1H0gKahkWSNnNnBEYQyAoX"
+    },
+    {
+      "album": {
         "name": "Serotonin",
         "url": "https://open.spotify.com/album/1JuMVubX1aQVHPi7yF4y5T"
       },
@@ -4672,6 +4748,24 @@
       "duration_ms": 241935,
       "name": "Statues",
       "url": "https://open.spotify.com/track/0FwofbwNN7OIlackHsjnCz"
+    },
+    {
+      "album": {
+        "name": "Stick Around",
+        "url": "https://open.spotify.com/album/6Q7TozLPNkSJFfMH1GawgN"
+      },
+      "artists": [
+        {
+          "name": "SOLAH",
+          "url": "https://open.spotify.com/artist/4jrJBSg0c2qx8SMGa7ququ"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190444,
+      "name": "Stick Around",
+      "url": "https://open.spotify.com/track/6qXb2XLxORRLTXIBa30nHZ"
     },
     {
       "album": {
@@ -5694,7 +5788,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 155515,
       "name": "Watch Me (feat. Linney)",
       "url": "https://open.spotify.com/track/3rWjjleBSSdkKJIg5pdjwU"

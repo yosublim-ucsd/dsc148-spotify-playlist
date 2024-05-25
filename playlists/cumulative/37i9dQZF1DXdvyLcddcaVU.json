@@ -1216,7 +1216,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 264324,
       "name": "CARNIVAL",
       "url": "https://open.spotify.com/track/3w0w2T288dec0mgeZZqoNN"
@@ -2116,7 +2116,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 234000,
       "name": "Dingue de toi - Nabi-Nabilla",
       "url": "https://open.spotify.com/track/2OHJYG61WwBhKCmyJ8rBtz"
@@ -2338,6 +2338,24 @@
       "duration_ms": 282726,
       "name": "El Dorado",
       "url": "https://open.spotify.com/track/0tGv6A7alg2EiRadi0b5TQ"
+    },
+    {
+      "album": {
+        "name": "Babacar (Remasteris\u00e9 en 2004)",
+        "url": "https://open.spotify.com/album/4vYag01Wn4UHjtlWbz0Nn0"
+      },
+      "artists": [
+        {
+          "name": "France Gall",
+          "url": "https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291400,
+      "name": "Ella, elle l'a - Remasteris\u00e9 en 2004",
+      "url": "https://open.spotify.com/track/67CfbIKKTCKFqmQLJwUftX"
     },
     {
       "album": {
@@ -2720,6 +2738,24 @@
       "duration_ms": 213394,
       "name": "Freed From Desire",
       "url": "https://open.spotify.com/track/3u5N55tHf7hXATSQrjBh2q"
+    },
+    {
+      "album": {
+        "name": "G8",
+        "url": "https://open.spotify.com/album/3nqyxAfeK2AfZUPfAkONU9"
+      },
+      "artists": [
+        {
+          "name": "Landy",
+          "url": "https://open.spotify.com/artist/2EFpb61Lpi0l5ldOiqbZkK"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163458,
+      "name": "G8",
+      "url": "https://open.spotify.com/track/4N51VVwDAoGTW4jJhdNwr8"
     },
     {
       "album": {
@@ -4360,7 +4396,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 243600,
       "name": "Made in Romeni\u00e1 - Sahmiir Officiall Remix",
       "url": "https://open.spotify.com/track/3Er2CGuUZlGKQ1puctyYsB"
@@ -6503,6 +6539,24 @@
     },
     {
       "album": {
+        "name": "The Age of Consent",
+        "url": "https://open.spotify.com/album/6OMYQUITdN6wBaWfEtgooI"
+      },
+      "artists": [
+        {
+          "name": "Bronski Beat",
+          "url": "https://open.spotify.com/artist/2wpWOzQE5TpA0dVnh5YD08"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302413,
+      "name": "Smalltown Boy",
+      "url": "https://open.spotify.com/track/5vmRQ3zELMLUQPo2FLQ76x"
+    },
+    {
+      "album": {
         "name": "The Best of Sade",
         "url": "https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK"
       },
@@ -7090,7 +7144,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 142550,
       "name": "Tout va changer",
       "url": "https://open.spotify.com/track/337D2hB4ecicdFDbS2sBxx"
@@ -7348,6 +7402,24 @@
       "duration_ms": 178156,
       "name": "Vois sur ton chemin - Techno Mix",
       "url": "https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5"
+    },
+    {
+      "album": {
+        "name": "Wa zebi",
+        "url": "https://open.spotify.com/album/1PUqIOcYy8b8JXh2nN0071"
+      },
+      "artists": [
+        {
+          "name": "Cappuccino",
+          "url": "https://open.spotify.com/artist/0iOZ6jaUQL07vALKUPworY"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142290,
+      "name": "Wa zebi",
+      "url": "https://open.spotify.com/track/2fisgK2Gvu3Fn2yShuZqaO"
     },
     {
       "album": {

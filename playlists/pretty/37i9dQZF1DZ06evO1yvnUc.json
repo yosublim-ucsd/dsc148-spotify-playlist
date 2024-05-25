@@ -1,12 +1,12 @@
 {
   "description": "This Is PARTYNEXTDOOR. Los temas esenciales, todos en una lista.",
-  "num_followers": 101008,
+  "num_followers": 101045,
   "original_name": "This Is PARTYNEXTDOOR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zk01gAAAAABNFzAgMHkhckKnjYLcvXSK",
+  "snapshot_id": "Zk6HAAAAAABblyo1l/bfr/MtObE3Brkj",
   "tracks": [
     {
       "added_at": null,
@@ -518,11 +518,15 @@
         {
           "name": "PARTYNEXTDOOR",
           "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 267384,
-      "name": "THE NEWS",
-      "url": "https://open.spotify.com/track/4SINLKyKC7s6RAWKGB7mMt"
+      "duration_ms": 197973,
+      "name": "LOYAL (feat. Drake)",
+      "url": "https://open.spotify.com/track/2rFqkDRJlumT7QjljlldlR"
     },
     {
       "added_at": null,
@@ -594,15 +598,11 @@
         {
           "name": "PARTYNEXTDOOR",
           "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 197973,
-      "name": "LOYAL (feat. Drake)",
-      "url": "https://open.spotify.com/track/2rFqkDRJlumT7QjljlldlR"
+      "duration_ms": 267384,
+      "name": "THE NEWS",
+      "url": "https://open.spotify.com/track/4SINLKyKC7s6RAWKGB7mMt"
     },
     {
       "added_at": null,

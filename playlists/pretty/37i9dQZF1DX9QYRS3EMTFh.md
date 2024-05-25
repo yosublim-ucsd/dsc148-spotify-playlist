@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 
 > Les hits dancehall du moment\. Photo : P.L.L
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,729 likes - 40 songs - 1 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,789 likes - 40 songs - 1 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 | 12 | [Yozo](https://open.spotify.com/track/7FKH8cRBqFjgxfArnJLqaW) | [Meryl](https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA), [Yozo](https://open.spotify.com/artist/0eENwoLRhIVvT0dfzhgmUG), [Natoxie](https://open.spotify.com/artist/1Wqloe5S1i29Ff7YiWg0x5) | [Yozo](https://open.spotify.com/album/1kwssT1xqCkbgGb6mfUpJP) | 2:17 |
 | 13 | [MI MAS LA \- Karata](https://open.spotify.com/track/31xmZLEMq7hSGqaoelv9jJ) | [Riddla](https://open.spotify.com/artist/5rU6NmQJvybdDzbmtKYvYw), [Mas Ka Klé](https://open.spotify.com/artist/6D0khW9GeCCJ1VBU4tlRbo) | [MI MAS LA \(Karata\)](https://open.spotify.com/album/18S8x5HKpnLVE2muRlMPvM) | 2:13 |
 | 14 | [Real Badman](https://open.spotify.com/track/6K9E9IhuWhSio7ZvE8Tzdt) | [Tribal Kush](https://open.spotify.com/artist/7fr6F0dEvfSoZW3fJ5fvUD), [Kalibwoy](https://open.spotify.com/artist/3xhksfxjNLUAyxUdijvk4x), [Dj Glad](https://open.spotify.com/artist/0gjAAo7BlTd5MmP7qvIQLe) | [KALIKUSH](https://open.spotify.com/album/2s6O18pOFbYyDtfTsS52RI) | 2:30 |
-| 15 | [Propaganda](https://open.spotify.com/track/6QtEvlPe9vgUX0OE8m4ix6) | [Blaiz Fayah](https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7) | [Propaganda](https://open.spotify.com/album/6wvL9dA8qjQcoYd8qx6tJj) | 2:19 |
+| 15 | [Propaganda](https://open.spotify.com/track/6QtEvlPe9vgUX0OE8m4ix6) | [Blaiz Fayah](https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7), [Bruno RIBERA](https://open.spotify.com/artist/2Oxr9i8XJGMXFIlcGmsnIh) | [Propaganda](https://open.spotify.com/album/6wvL9dA8qjQcoYd8qx6tJj) | 2:19 |
 | 16 | [PROTOCOLE \- A COLORS SHOW](https://open.spotify.com/track/2wzrkGLKgMbkRYRw8bo0HX) | [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8) | [PROTOCOLE \- A COLORS SHOW](https://open.spotify.com/album/67fxAS0referLXN4dJlKr3) | 2:57 |
 | 17 | [Gyal Go Down Low](https://open.spotify.com/track/2VQm61CP8UlqnUJcXxPVxf) | [Jahyanai](https://open.spotify.com/artist/09FXva53dWku8Gu5N73rR8), [Dj Fasta](https://open.spotify.com/artist/3J1MVADg8VwYQ6FFsqnTUV), [Team DAMP](https://open.spotify.com/artist/3SPO1zOMgh106pZzibM1sP) | [Gyal Go Down Low](https://open.spotify.com/album/1vHFd8NH0ZZlhimZIW2jVS) | 2:23 |
 | 18 | [Talibans II](https://open.spotify.com/track/5zq5fYXIE7X842DD5HBiiB) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Byron Messia](https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv) | [Talibans II](https://open.spotify.com/album/4EouhaKTJkW8xRpLsCz7va) | 2:56 |

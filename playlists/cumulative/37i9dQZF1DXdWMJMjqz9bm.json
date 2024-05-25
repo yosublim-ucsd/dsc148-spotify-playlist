@@ -2729,6 +2729,24 @@
     },
     {
       "album": {
+        "name": "the lows.",
+        "url": "https://open.spotify.com/album/6FBhrR6fIddXNhi0FrVadc"
+      },
+      "artists": [
+        {
+          "name": "mike.",
+          "url": "https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213577,
+      "name": "dive bar",
+      "url": "https://open.spotify.com/track/589Dp8bbbMcL4NlVt0oBtX"
+    },
+    {
+      "album": {
         "name": "leave me where you found me",
         "url": "https://open.spotify.com/album/1f19gczYsoUBsqpiG2UFR3"
       },
@@ -6129,6 +6147,28 @@
     },
     {
       "album": {
+        "name": "Like That (feat. Armani White)",
+        "url": "https://open.spotify.com/album/5wd1e37tPmtg1W9twc5LAk"
+      },
+      "artists": [
+        {
+          "name": "Corbyn Besson",
+          "url": "https://open.spotify.com/artist/1bWUA5b7GHPymK5dZrf7tj"
+        },
+        {
+          "name": "Armani White",
+          "url": "https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155302,
+      "name": "Like That (feat. Armani White)",
+      "url": "https://open.spotify.com/track/669ftUGKrpw9aWYqg6EaGB"
+    },
+    {
+      "album": {
         "name": "LIME",
         "url": "https://open.spotify.com/album/3I6F5HlKtBFwpzpeRyHqQB"
       },
@@ -6847,6 +6887,24 @@
     },
     {
       "album": {
+        "name": "Money",
+        "url": "https://open.spotify.com/album/70T8YlPSkUpuPuAZsGTenW"
+      },
+      "artists": [
+        {
+          "name": "Nic D",
+          "url": "https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116845,
+      "name": "Money",
+      "url": "https://open.spotify.com/track/3FF6vKYilv8IIJSoPKN56z"
+    },
+    {
+      "album": {
         "name": "Mood",
         "url": "https://open.spotify.com/album/3GWHaNyeflGNqohoxQqxFo"
       },
@@ -7000,6 +7058,24 @@
       "duration_ms": 179080,
       "name": "moving on (feat. Khary)",
       "url": "https://open.spotify.com/track/3YNUrsQihHuKSE1xQs6MdG"
+    },
+    {
+      "album": {
+        "name": "age tape 0",
+        "url": "https://open.spotify.com/album/3wNkf6SHSN19bVxWCNC3Lu"
+      },
+      "artists": [
+        {
+          "name": "Arden Jones",
+          "url": "https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177230,
+      "name": "mr. sunshine",
+      "url": "https://open.spotify.com/track/2NJefEQeqDKUdyiy38GFoV"
     },
     {
       "album": {
@@ -7850,7 +7926,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 214701,
       "name": "on the street (with J. Cole)",
       "url": "https://open.spotify.com/track/5wxYxygyHpbgv0EXZuqb9V"
@@ -7994,7 +8070,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 121782,
       "name": "Over & Done",
       "url": "https://open.spotify.com/track/2SrYguoTayQPWhMqlYiRPJ"
@@ -8530,7 +8606,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 221570,
       "name": "Pretty Ones",
       "url": "https://open.spotify.com/track/3aYYGASJYnbJm3JMNB4vyr"
@@ -8990,7 +9066,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 193526,
       "name": "Rockstar",
       "url": "https://open.spotify.com/track/538txyi52ZOwzWxIQsCT12"
@@ -10998,7 +11074,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 136383,
       "name": "Tom Brady",
       "url": "https://open.spotify.com/track/02cQm104XjRk0sQd1ZQb8y"
@@ -11828,6 +11904,24 @@
       "duration_ms": 141062,
       "name": "When I Get Lonely",
       "url": "https://open.spotify.com/track/1d4c9HSOY8hy5krzdKxEyh"
+    },
+    {
+      "album": {
+        "name": "When I\u2019m Leavin\u2019",
+        "url": "https://open.spotify.com/album/6RNT3jY4AJje3MVgMKi4JX"
+      },
+      "artists": [
+        {
+          "name": "charlieonnafriday",
+          "url": "https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152073,
+      "name": "When I\u2019m Leavin\u2019",
+      "url": "https://open.spotify.com/track/6oRHBT8w7LshsnffOf36X6"
     },
     {
       "album": {

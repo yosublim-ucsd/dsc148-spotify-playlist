@@ -4,7 +4,7 @@
 
 > Funky & groovy tunes for poolside chilling.
 
-346 songs - 20 hr 36 min
+349 songs - 20 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [Fishes](https://open.spotify.com/track/44A7sEU3BaDxjAPE5aupcS) | [Pell](https://open.spotify.com/artist/2O2dI9lY9PnWtAa4OlrgMi) | [We'll Talk Soon](https://open.spotify.com/album/62FAK7BPLY2AB0oq6mCJ0p) | 4:22 | 2024-04-18 |  |
 | [Fkn Around \(feat\. Megan Thee Stallion\) \- Cuppy Remix](https://open.spotify.com/track/15LBKnN52Sxs9RF3oU1ARA) | [Phony Ppl](https://open.spotify.com/artist/0oBsnAC3fzYkTHF3bkfNx6), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Cuppy](https://open.spotify.com/artist/12BjfR9LIzpDecdcMGvu7f) | [Fkn Around \(feat\. Megan Thee Stallion\) \[Cuppy Remix\]](https://open.spotify.com/album/0XoxlkhNlweuQ8E5GeELTr) | 3:14 | 2022-09-09 | 2022-09-16 |
 | [Flashing Lights](https://open.spotify.com/track/1sK3qSrr5cbVBbFobG2Gjh) | [Dragonfruit](https://open.spotify.com/artist/5XedNczaTKAEy9NrSXZeUy) | [Flashing Lights](https://open.spotify.com/album/25p8WJ7KjgpXVH5RvZqyxv) | 3:33 | 2023-02-16 |  |
+| [For Free](https://open.spotify.com/track/3I9DuWW4ZeTuQ6lmLAHXZo) | [Adia](https://open.spotify.com/artist/7hodbs05Q9ZhGCgflz3xdM), [Brittney Carter](https://open.spotify.com/artist/32YAZ7xdjxw5RWBevTCUUM) | [For Free](https://open.spotify.com/album/23uNR1zjGaklSeBKCKcRPs) | 4:05 | 2024-05-24 |  |
 | [Found Without Searching](https://open.spotify.com/track/6ol1UDjGWnfNs5BvAP8suV) | [Calundé](https://open.spotify.com/artist/4cNiCiyVjl5qDdJYqiuxxX) | [Found Without Searching](https://open.spotify.com/album/5fW9qR76fuA5QBeSw0qENR) | 3:45 | 2022-09-09 |  |
 | [Frail Moments, Same Page](https://open.spotify.com/track/7fbyAOxgJJUeFL9p0M2AvZ) | [vAn](https://open.spotify.com/artist/31zEC5Veeh3aoNFfiv1poC) | [Frail Moments, Same Page](https://open.spotify.com/album/2k2rgwK0WgzWFJDck4ixeS) | 3:44 | 2022-09-09 | 2024-04-11 |
 | [Free My People \(feat\. Simmy & Kid Cruise\)](https://open.spotify.com/track/4T4YHAdlrEzL5Jsb1XnbGA) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K), [SIMMY](https://open.spotify.com/artist/527kNlxgOHUAZ1YOonXDJd), [Kid Cruise](https://open.spotify.com/artist/3M6mw8TcBFhDXPdF2Csupw) | [Free My People \(feat\. Simmy & Kid Cruise\)](https://open.spotify.com/album/5fE5bSpNQpqVPJ8k5RvAUP) | 3:37 | 2022-09-09 | 2024-02-02 |
@@ -180,6 +181,7 @@
 | [Love Like This Before \- Spotify Studio Oyster Recording](https://open.spotify.com/track/2VoGLmJuYzBbAje7HrNSi6) | [Lil Halima](https://open.spotify.com/artist/1vOh8jgNLFHFxMY8i0lEKr), [NAHOM](https://open.spotify.com/artist/1gsryyNLnqqOLl8MRe4eog) | [Love Like This Before \- Spotify Studio Oyster Recording](https://open.spotify.com/album/18kvCLlsFrla2rDjzhpuEH) | 2:57 | 2022-09-09 | 2023-07-08 |
 | [Lover/Friend](https://open.spotify.com/track/0A3MUy6ifDxog1zfy4m7de) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Lover/Friend](https://open.spotify.com/album/251UuJohZb0avSzcIYDvkD) | 3:32 | 2024-04-18 |  |
 | [Lover/Friend](https://open.spotify.com/track/5ahq8vkzMznGmfN2EVOukP) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Lover/Friend](https://open.spotify.com/album/1CS8eBSCVXMwYJytG5aYfX) | 3:32 | 2023-11-30 | 2024-04-19 |
+| [Lover/Friend](https://open.spotify.com/track/3u18lRpQFZYALlVjn0fL1y) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Lover/Friend](https://open.spotify.com/album/0NvlaQeUqClEL7vMdYyUO7) | 4:19 | 2024-05-24 |  |
 | [Loving Game](https://open.spotify.com/track/4WX5mpZqlMxAJifk8TzmKB) | [JAHKOY](https://open.spotify.com/artist/1c5SlzViAqsaB0kXygfSjh) | [Loving Game](https://open.spotify.com/album/5N1U9cCnhW8tH2h3vvQojQ) | 2:29 | 2023-02-02 |  |
 | [Lucky Night](https://open.spotify.com/track/2WTiI88fYaKK7VskAKJv6f) | [GOSTO](https://open.spotify.com/artist/5CEZ2102fh2JlfPrsBdSeJ) | [Lucky Night](https://open.spotify.com/album/4pkI91H2N6j1aCrb406g81) | 4:20 | 2022-09-09 |  |
 | [Mama's House](https://open.spotify.com/track/0HRIdpyDnnLqX5Aqs1akD7) | [Liquid Spirits](https://open.spotify.com/artist/1Mpk8lMyFVI8UOe4MivsJJ) | [Mama's House](https://open.spotify.com/album/1tP4eSuCiI4ayCrXNDVbi9) | 3:23 | 2022-09-09 |  |
@@ -195,6 +197,7 @@
 | [Mind Games.](https://open.spotify.com/track/7L4C8Mur28u7dJbP1wYiow) | [chromonicci](https://open.spotify.com/artist/746nA9NSKsqBDRk343UtkE) | [Mind Games.](https://open.spotify.com/album/4RuPSYj750tA7tiWElq7Pc) | 2:32 | 2023-03-20 | 2023-04-21 |
 | [Money](https://open.spotify.com/track/34KMYJ2e5ouT1qfOEJgfIe) | [Cody Currie](https://open.spotify.com/artist/0ymdoOsfzRbCoAMfJPpsEx) | [Lucas](https://open.spotify.com/album/0JJjdrxiGhdo2JHVNCKC2N) | 3:18 | 2022-10-27 |  |
 | [Money Issues](https://open.spotify.com/track/2q1zLeupdzKqYIB2e8MNVt) | [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g) | [Money Issues](https://open.spotify.com/album/2oBMyUdLTSihgNlSkExIux) | 2:57 | 2023-02-23 |  |
+| [Morning Light \(feat\. Andreya Triana\)](https://open.spotify.com/track/74BzzNL9WKXyUd7vzh2hz3) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Andreya Triana](https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2) | [Dancing While Falling](https://open.spotify.com/album/0OQDgPsunDOfPiRAuS87ng) | 3:31 | 2024-05-24 |  |
 | [Most Days](https://open.spotify.com/track/0yUXPVWzRNvUesDT4p6LgB) | [Rezar](https://open.spotify.com/artist/0KwVGVN1bZfDNQVOySxjsk) | [Most Days](https://open.spotify.com/album/2Y385XdjJB2JhQYUNsaXY2) | 3:02 | 2022-09-09 |  |
 | [Motions](https://open.spotify.com/track/5rdBZkZw3kkkZxCUym3E9j) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [Motions](https://open.spotify.com/album/4VDVfTgQlwL828aEPK6lIe) | 3:33 | 2022-09-09 | 2024-05-10 |
 | [Music Saved My LIfe](https://open.spotify.com/track/15JkkJANNuG0EoGCWEo85q) | [Moods](https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez) | [Music Saved My Life](https://open.spotify.com/album/5QUt722cDFZ1ZGDesI5Kam) | 4:04 | 2022-09-09 |  |

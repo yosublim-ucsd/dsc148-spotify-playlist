@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Wbw1Y.md) - [plain]
 
 ### [This Is Ventino](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0Wbw1Y)
 
-> This is Ventino\. The essential tracks, all in one playlist.
+> This Is Ventino\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,571 likes - 43 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,577 likes - 42 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,10 +19,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Wbw1Y.md) - [plain]
 | 9 | [Equivocarse \- Banda Sonora Original De La Serie De Televisión](https://open.spotify.com/track/3jJshgZPbc6glVBW9HLFKf) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD), [Caracol Televisión](https://open.spotify.com/artist/6Rk6tAhO16QKZZtYFrHMbm) | [Ventino: El Precio De La Gloria \(Banda Sonora Original De La Serie De Televisión\)](https://open.spotify.com/album/1yZC3hn1Adr59UlR6g0NBx) | 3:08 |
 | 10 | [Si Decides \(Baby\)](https://open.spotify.com/track/12xjRcDTBU9RgLMZePtLop) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Ventino](https://open.spotify.com/album/4pAoxsmYFDVqf8jWBihOKz) | 3:08 |
 | 11 | [Dos Tequilas](https://open.spotify.com/track/0orovNGEQw3Uufl1aLV62j) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Inevitables](https://open.spotify.com/album/1V5qSya58ba5f421vdBJHd) | 2:59 |
-| 12 | [Cuesta Amarte](https://open.spotify.com/track/4DGZh7uAyj4s7zaGqAGNHR) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Cuesta Amarte](https://open.spotify.com/album/2iZl32x6FhDIVsCbJOvPSK) | 2:21 |
+| 12 | [La Mitad](https://open.spotify.com/track/3tlPXqJieroXrrdfmGTxiN) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [La Mitad](https://open.spotify.com/album/0NAFgi3WuJ3yOoJ17gF10r) | 2:36 |
 | 13 | [Besos En La Herida \- Banda Sonora Original De La Serie De Televisión](https://open.spotify.com/track/5QI8Y9bkk1xse08JUDueuQ) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD), [Caracol Televisión](https://open.spotify.com/artist/6Rk6tAhO16QKZZtYFrHMbm) | [Ventino: El Precio De La Gloria \(Banda Sonora Original De La Serie De Televisión\)](https://open.spotify.com/album/1yZC3hn1Adr59UlR6g0NBx) | 2:34 |
 | 14 | [Apaga Y Vámonos](https://open.spotify.com/track/0sZmIHELeJT1lp6Hli4C3P) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Ventino](https://open.spotify.com/album/4pAoxsmYFDVqf8jWBihOKz) | 3:28 |
-| 15 | [La Mitad](https://open.spotify.com/track/3tlPXqJieroXrrdfmGTxiN) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [La Mitad](https://open.spotify.com/album/0NAFgi3WuJ3yOoJ17gF10r) | 2:36 |
+| 15 | [Cuesta Amarte](https://open.spotify.com/track/4DGZh7uAyj4s7zaGqAGNHR) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Cuesta Amarte](https://open.spotify.com/album/2iZl32x6FhDIVsCbJOvPSK) | 2:21 |
 | 16 | [Ya Te Perdoné](https://open.spotify.com/track/17J2patkIezB1LxcBbDpDl) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Ya Te Perdoné](https://open.spotify.com/album/77Q8ibYOEtlkhMeS33xatG) | 3:41 |
 | 17 | [Qué Fácil \- Banda Sonora Original De La Serie De Televisión](https://open.spotify.com/track/0C53fChbzpahAVM3rg46wM) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD), [Caracol Televisión](https://open.spotify.com/artist/6Rk6tAhO16QKZZtYFrHMbm) | [Ventino: El Precio De La Gloria \(Banda Sonora Original De La Serie De Televisión\)](https://open.spotify.com/album/1yZC3hn1Adr59UlR6g0NBx) | 2:23 |
 | 18 | [Volverte a Oír](https://open.spotify.com/track/5B1FPJUxjv4e8Juik5ELCd) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Ventino](https://open.spotify.com/album/4pAoxsmYFDVqf8jWBihOKz) | 3:42 |
@@ -42,14 +42,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Wbw1Y.md) - [plain]
 | 32 | [Don Juan](https://open.spotify.com/track/3rlzrcfNvBwVKmRT2PM85c) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD), [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK) | [Don Juan](https://open.spotify.com/album/49oqDnPP3Q0zLCqq3MK281) | 3:36 |
 | 33 | [No Se Me Ve Tan Mal \(NSMVTM\)](https://open.spotify.com/track/1y8K3PNIaUOq8dZah76jl5) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [No Se Me Ve Tan Mal \(NSMVTM\)](https://open.spotify.com/album/4ID82VAEREMMsWImgAF5zZ) | 2:45 |
 | 34 | [Vámonos Antes](https://open.spotify.com/track/0w7ywHLY22Fb2uQMCd0YD5) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Vámonos Antes](https://open.spotify.com/album/42IH1jOQlgWayPXVBoTfBI) | 3:30 |
-| 35 | [Ya No Quiero Amarte](https://open.spotify.com/track/5aa5ycJnO3yDcmSjihjyBu) | [Nabález](https://open.spotify.com/artist/64J3ISAKbfg1CuP4CVCMlF), [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Ya No Quiero Amarte](https://open.spotify.com/album/1s548Q6mTkf9bOYivdgrE5) | 3:08 |
-| 36 | [Soltar Tu Mano \(feat\. Román Torres\)](https://open.spotify.com/track/0PFPvBVuzKoQTVu9jkePzj) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD), [Román Torres](https://open.spotify.com/artist/1LqUT7DfWYks6bAltUOlOg) | [Otra Noche](https://open.spotify.com/album/3c9rfTuSviV1bZBnXURf27) | 3:15 |
-| 37 | [Por Qué Te Vas](https://open.spotify.com/track/6e9x0Bw1mQEM84tR403zl3) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Por Qué Te Vas](https://open.spotify.com/album/6tu0Ff3lJRlFva2xMh7zB3) | 3:21 |
-| 38 | [Cosas Pendientes](https://open.spotify.com/track/7ulwug8z6klrIGZ2hjl47c) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Cosas Pendientes](https://open.spotify.com/album/1rdheyQu3kEBiGOT6l4jFa) | 3:01 |
-| 39 | [Popurrí de Juan Gabriel](https://open.spotify.com/track/3gDoyUvY3ok0EJfpu1lSn0) | [Alejandro González](https://open.spotify.com/artist/2SzdXGFgRUgygnqrqmsW9W), [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Popurrí de Juan Gabriel](https://open.spotify.com/album/6Q9uzSD6sQbbWMg6oUFrAQ) | 4:54 |
+| 35 | [Soltar Tu Mano \(feat\. Román Torres\)](https://open.spotify.com/track/0PFPvBVuzKoQTVu9jkePzj) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD), [Román Torres](https://open.spotify.com/artist/1LqUT7DfWYks6bAltUOlOg) | [Otra Noche](https://open.spotify.com/album/3c9rfTuSviV1bZBnXURf27) | 3:15 |
+| 36 | [Por Qué Te Vas](https://open.spotify.com/track/6e9x0Bw1mQEM84tR403zl3) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Por Qué Te Vas](https://open.spotify.com/album/6tu0Ff3lJRlFva2xMh7zB3) | 3:21 |
+| 37 | [Cosas Pendientes](https://open.spotify.com/track/7ulwug8z6klrIGZ2hjl47c) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Cosas Pendientes](https://open.spotify.com/album/1rdheyQu3kEBiGOT6l4jFa) | 3:01 |
+| 38 | [Popurrí de Juan Gabriel](https://open.spotify.com/track/3gDoyUvY3ok0EJfpu1lSn0) | [Alejandro González](https://open.spotify.com/artist/2SzdXGFgRUgygnqrqmsW9W), [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Popurrí de Juan Gabriel](https://open.spotify.com/album/6Q9uzSD6sQbbWMg6oUFrAQ) | 4:54 |
+| 39 | [De 0 a 100](https://open.spotify.com/track/758aruGJmpUvoLtBc7GH5F) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [De 0 a 100](https://open.spotify.com/album/1LGhGflurGnPJAINGAS7nW) | 2:48 |
 | 40 | [Para No Esperarte Más](https://open.spotify.com/track/3VMMm6ie9HmnZGq8Sq0H83) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Para No Esperarte Más](https://open.spotify.com/album/26Bj0Iqvf6Ns5GCC8mjia6) | 2:58 |
-| 41 | [De 0 a 100](https://open.spotify.com/track/758aruGJmpUvoLtBc7GH5F) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [De 0 a 100](https://open.spotify.com/album/1LGhGflurGnPJAINGAS7nW) | 2:48 |
-| 42 | [Otra Noche](https://open.spotify.com/track/0Ls4i5oy30p9qwkX47hBa2) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Otra Noche](https://open.spotify.com/album/3c9rfTuSviV1bZBnXURf27) | 3:18 |
-| 43 | [Mariposas](https://open.spotify.com/track/2NXjSc70bijXn2OXzkRzCb) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Mariposas](https://open.spotify.com/album/2fMiZ4guqZIS5f0CoCh2Lv) | 2:30 |
+| 41 | [Otra Noche](https://open.spotify.com/track/0Ls4i5oy30p9qwkX47hBa2) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Otra Noche](https://open.spotify.com/album/3c9rfTuSviV1bZBnXURf27) | 3:18 |
+| 42 | [Mariposas](https://open.spotify.com/track/2NXjSc70bijXn2OXzkRzCb) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Mariposas](https://open.spotify.com/album/2fMiZ4guqZIS5f0CoCh2Lv) | 2:30 |
 
-Snapshot ID: `Zk01gAAAAACoTPnhBHAbY79SUkIQ/8RC`
+Snapshot ID: `Zk6HAAAAAABJeNLrDXdKIAuqHptC3f1R`

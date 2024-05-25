@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0X5xnexrYhC.md) - [plain]
 
 > pop woke up and chose chaos\. cover: EMELINE
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,236 likes - 80 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,233 likes - 80 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,9 +33,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0X5xnexrYhC.md) - [plain]
 | 23 | [Not Another Rockstar](https://open.spotify.com/track/43pulC9QdGwabXUtVHYnjY) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Not Another Rockstar](https://open.spotify.com/album/1kiowmIzvFyO1hXi1Wyqkn) | 2:29 |
 | 24 | [Yuck](https://open.spotify.com/track/5cYEuFqzITZlZzpoR1sHvu) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [CRASH](https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B) | 2:18 |
 | 25 | [die first](https://open.spotify.com/track/21szgNA72iLwvBxHQLgwBh) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [die first](https://open.spotify.com/album/56raLTkxER12w8xejGTpSG) | 2:57 |
-| 26 | [Bois Lie \(feat\. Machine Gun Kelly\)](https://open.spotify.com/track/2lHktSigIAZqf7BkA7NRS7) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j), [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [Love Sux](https://open.spotify.com/album/7hH7rqTATIJ9DaYwWEdNLb) | 2:43 |
+| 26 | [Beggin For Thread](https://open.spotify.com/track/4PvD06Pmbm2rHG2JjSlElF) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Goddess \(Deluxe\)](https://open.spotify.com/album/1eeYYgK208xvkCEGkYqWah) | 4:09 |
 | 27 | [what it means to be a girl](https://open.spotify.com/track/6H6M3RdPVYAURu9oCimO2z) | [EMELINE](https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV) | [what it means to be a girl / this is how i learn to say no](https://open.spotify.com/album/5Ty9rTy9cD0NEJVJsDRTiA) | 2:48 |
-| 28 | [Beggin For Thread](https://open.spotify.com/track/4PvD06Pmbm2rHG2JjSlElF) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Goddess \(Deluxe\)](https://open.spotify.com/album/1eeYYgK208xvkCEGkYqWah) | 4:09 |
+| 28 | [Bois Lie \(feat\. Machine Gun Kelly\)](https://open.spotify.com/track/2lHktSigIAZqf7BkA7NRS7) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j), [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [Love Sux](https://open.spotify.com/album/7hH7rqTATIJ9DaYwWEdNLb) | 2:43 |
 | 29 | [fleabag](https://open.spotify.com/track/3TFtD8GZNw9v6vVWr3hnWy) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [fleabag](https://open.spotify.com/album/12jpOfe3jj1UdY1oMi3b79) | 2:56 |
 | 30 | [Halloweenie IV: Innards](https://open.spotify.com/track/2hwUHHqLSEue41V952MtD2) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Halloweenie IV: Innards](https://open.spotify.com/album/2AWdSvqkBNvj9eeM48KQTJ) | 2:50 |
 | 31 | [HUSHH](https://open.spotify.com/track/0K4pg20qcHoN8A1eWbwiOj) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [VOLUME I](https://open.spotify.com/album/7rFNFIghf6GymYHovyyrCO) | 3:00 |
@@ -78,15 +78,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0X5xnexrYhC.md) - [plain]
 | 68 | [u look stupid](https://open.spotify.com/track/3DVlE3PXyYSTZg99ZwaV3A) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [u look stupid](https://open.spotify.com/album/2gptxCWmLmrNseTobHQLBI) | 2:28 |
 | 69 | [DEMONS](https://open.spotify.com/track/3s61rrQ8uFytBdiuIklCUc) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [VOLUME II](https://open.spotify.com/album/2OFJ3B3DyRkIr1zWNnGtBu) | 3:26 |
 | 70 | [Cry](https://open.spotify.com/track/2au4DyNFX59VLV5elmhagj) | [Cat & Calmell](https://open.spotify.com/artist/0SaaipFXHYbYDLDB6atAoR) | [Cry](https://open.spotify.com/album/0hble8eLgWuU9xMZVwn7EU) | 3:09 |
-| 71 | [IDC](https://open.spotify.com/track/5OwLlkNv9SisPU2ERTks0t) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG) | [IDC](https://open.spotify.com/album/5rcX9JwTd8qF39LpCWpQrs) | 2:37 |
-| 72 | [The Idea Of You](https://open.spotify.com/track/4CBJcZklxDHIaXBoS58sq4) | [Evie Irie](https://open.spotify.com/artist/2ReivzVeWl6GawKNyVTLmK) | [The Idea Of You](https://open.spotify.com/album/1fkTVFIHUNw9uMtGFRCxzd) | 2:58 |
+| 71 | [The Idea Of You](https://open.spotify.com/track/4CBJcZklxDHIaXBoS58sq4) | [Evie Irie](https://open.spotify.com/artist/2ReivzVeWl6GawKNyVTLmK) | [The Idea Of You](https://open.spotify.com/album/1fkTVFIHUNw9uMtGFRCxzd) | 2:58 |
+| 72 | [IDC](https://open.spotify.com/track/5OwLlkNv9SisPU2ERTks0t) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG) | [IDC](https://open.spotify.com/album/5rcX9JwTd8qF39LpCWpQrs) | 2:37 |
 | 73 | [Heartbreak](https://open.spotify.com/track/1ERMgnNgM2oWcmG2ZVuLx5) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Heartbreak](https://open.spotify.com/album/1I6INBRN8GU7VecaGJeaLk) | 3:06 |
 | 74 | [Billion Dollar Bitch](https://open.spotify.com/track/1NXsoL5kWo6j41SP1NUpLF) | [Mia Rodriguez](https://open.spotify.com/artist/7Hsfh7YZzoyojYWQeMSHID), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Billion Dollar Bitch](https://open.spotify.com/album/5MiVQWINwHLDiOGTb20f0a) | 3:08 |
 | 75 | [now \(in space\)](https://open.spotify.com/track/5KihAQxIO270T9EQbWgPLk) | [Montaigne](https://open.spotify.com/artist/1ZcnsSFqWusWlRK01vKE6b) | [now \(in space\)](https://open.spotify.com/album/727hwSHo15Q0JVFFGh9IBk) | 3:26 |
 | 76 | [Mood Swing](https://open.spotify.com/track/0C4yubVphjxkU2s8mdgnWu) | [LEX](https://open.spotify.com/artist/73R7pkwL1kz9gqVScbbjab) | [Mood Swing](https://open.spotify.com/album/4nIkHzobq4rsN55Hpy7bHM) | 3:07 |
-| 77 | [HOME IS WHERE THE HELL IS](https://open.spotify.com/track/2rePCKPN3N4ZUZeSoF5vCt) | [Sarah Saint James](https://open.spotify.com/artist/13gxwsg6hXUb3zBGg2qpjH) | [HOME IS WHERE THE HELL IS](https://open.spotify.com/album/6LVVlDJttRg0c2e18PzVU2) | 2:54 |
-| 78 | [Screws](https://open.spotify.com/track/1iSo49GT9u0ar6xLFeNN4T) | [CLOVES](https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c) | [Nightmare on Elmfield Road](https://open.spotify.com/album/4ILNpQy73p5vqpyV9pcLUK) | 3:17 |
-| 79 | [Hardcore](https://open.spotify.com/track/2aRdlM9PMCRcUrM5DruLZv) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [Hardcore](https://open.spotify.com/album/41KhQVLtpKGsitTXYrKxeb) | 2:52 |
-| 80 | [Freak](https://open.spotify.com/track/39OzeCZoibMsoUCCCxh2Lk) | [Lily Papas](https://open.spotify.com/artist/2LDsVxtrG9fVXTNaL9oJNi) | [Freak](https://open.spotify.com/album/6kQXezS924N0Tqv0OmIxzn) | 3:45 |
+| 77 | [BLEED](https://open.spotify.com/track/4PQeiGGiaWjaujJWPjZswy) | [Evie Irie](https://open.spotify.com/artist/2ReivzVeWl6GawKNyVTLmK) | [BLEED](https://open.spotify.com/album/6OQwaX0jFbUlUDdrF2dETa) | 3:02 |
+| 78 | [HOME IS WHERE THE HELL IS](https://open.spotify.com/track/2rePCKPN3N4ZUZeSoF5vCt) | [Sarah Saint James](https://open.spotify.com/artist/13gxwsg6hXUb3zBGg2qpjH) | [HOME IS WHERE THE HELL IS](https://open.spotify.com/album/6LVVlDJttRg0c2e18PzVU2) | 2:54 |
+| 79 | [Screws](https://open.spotify.com/track/1iSo49GT9u0ar6xLFeNN4T) | [CLOVES](https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c) | [Nightmare on Elmfield Road](https://open.spotify.com/album/4ILNpQy73p5vqpyV9pcLUK) | 3:17 |
+| 80 | [Hardcore](https://open.spotify.com/track/2aRdlM9PMCRcUrM5DruLZv) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [Hardcore](https://open.spotify.com/album/41KhQVLtpKGsitTXYrKxeb) | 2:52 |
 
 Snapshot ID: `ZaXaJQAAAAD4X4OHvbl13v9AmjkTk8vc`

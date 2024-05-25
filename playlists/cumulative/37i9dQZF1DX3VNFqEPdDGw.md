@@ -4,7 +4,7 @@
 
 > Bhangra is our pride, Bhangra is our culture\. Cover: Intense & G.Sidhu
 
-108 songs - 5 hr 38 min
+109 songs - 5 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Don't Care](https://open.spotify.com/track/1hSWz5AZ36WjQMgFOir0By) | [R Nait](https://open.spotify.com/artist/4buk1Dwc5ynSnOGVeMJOON), [Korala Maan](https://open.spotify.com/artist/6WZ8WCYWROs8IyMJOPeJ4G) | [Don't Care](https://open.spotify.com/album/2BdHXu9RoP1JfwDypU5fk9) | 3:38 | 2022-01-10 |  |
 | [Excuses](https://open.spotify.com/track/29m79w9xPMH4YCD6r8JSmV) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Gurinder Gill](https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl), [Intense](https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN) | [Excuses](https://open.spotify.com/album/3GkXRRRkV3rfgwG1wJset9) | 2:56 | 2021-12-18 |  |
 | [Few Days](https://open.spotify.com/track/2ccThCjEt1t1SF72mP7as2) | [Amantej Hundal](https://open.spotify.com/artist/28kGdf2ant8i73Fab2F7xq), [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Few Days](https://open.spotify.com/album/54QdEwuZTXWQQOYda6FMxa) | 2:57 | 2021-12-18 | 2023-09-02 |
+| [FIR](https://open.spotify.com/track/5LKwyZEcftYJl9AJNV0hpr) | [Ninja](https://open.spotify.com/artist/2praKdsjYPKh2yNXBdTWGT), [Happy Raikoti](https://open.spotify.com/artist/6q71Xu33Q9DBhLFSUCLMUM), [Gag Studioz](https://open.spotify.com/artist/1rXD7gKuyN5XcsIXE60UQ3) | [The Hood](https://open.spotify.com/album/0qkvEZD47o0t4oLD5rSKEk) | 3:30 | 2024-05-24 |  |
 | [Flower](https://open.spotify.com/track/3KFheLtGom9wgSIgxTifgd) | [Pari Pandher](https://open.spotify.com/artist/5FacpiPeQOaDKcKXm1UcyA), [Bunty Bains](https://open.spotify.com/artist/4eHycMGKslAXJLcLO4F82x), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj) | [Welcome To Punjab](https://open.spotify.com/album/4eOCSM24EwRcX9US7gQjRA) | 2:39 | 2024-05-16 |  |
 | [Gal Ban Jau](https://open.spotify.com/track/2FXjXUH7kzRTIzQaVHfs3j) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX) | [Fuffad Ji \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2rUfyKVXe16mH973tWOjkB) | 2:15 | 2021-12-18 | 2022-01-11 |
 | [Gal Sun](https://open.spotify.com/track/7kUNwrzscc83PhP8mnOwz6) | [Jaz Dhami](https://open.spotify.com/artist/5IfJHO9jIE1GVuC517P3nr), [The Kidd](https://open.spotify.com/artist/69NQgCPPwq05n5zewAYd8c) | [Gal Sun](https://open.spotify.com/album/09FgdndDRPfUCq7mhwdt82) | 3:33 | 2022-05-05 |  |
@@ -45,7 +46,7 @@
 | [HOBBIES](https://open.spotify.com/track/18wzW9g7ydcXFlz3PRuQE6) | [Amrit Maan](https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj), [Mad Mix](https://open.spotify.com/artist/55fozRiVCKuoMqSkxa6nxv) | [GLOBAL WARNING](https://open.spotify.com/album/5dbxmcCgZQLdsLtZW5398p) | 2:48 | 2023-07-31 | 2023-12-19 |
 | [It Ain't Legal](https://open.spotify.com/track/0i7w67qCK2iCDtraKCshXZ) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [B.T.F.U](https://open.spotify.com/album/1qH7e7TaKxpHxu4mGxofDs) | 3:34 | 2022-07-05 | 2024-04-19 |
 | [It Ain't Legal](https://open.spotify.com/track/3Fr1WmziIKmhU9s5fNKZrQ) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Tru\-Skool](https://open.spotify.com/artist/0u7HSxKLO9fsEeD20dW4H2), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Bacthafu\*up](https://open.spotify.com/album/5EuL5Jp1caNNj9m8bQ1V6u) | 3:34 | 2021-12-18 |  |
-| [Jagga](https://open.spotify.com/track/5XJGVtJcKHgWBo3fNwJWSl) | [Himmat Sandhu](https://open.spotify.com/artist/3wsrcGXTRAukQgXrUHJMwC), [Desi Frenzy](https://open.spotify.com/artist/50FBY7deOzEIM580Ui6SzA) | [Bhangra Essential](https://open.spotify.com/album/7jdDevCoN03GtfGl9jn46p) | 4:08 | 2022-01-14 |  |
+| [Jagga](https://open.spotify.com/track/5XJGVtJcKHgWBo3fNwJWSl) | [Himmat Sandhu](https://open.spotify.com/artist/3wsrcGXTRAukQgXrUHJMwC), [Desi Frenzy](https://open.spotify.com/artist/50FBY7deOzEIM580Ui6SzA) | [Bhangra Essential](https://open.spotify.com/album/7jdDevCoN03GtfGl9jn46p) | 4:08 | 2022-01-14 | 2024-05-25 |
 | [Jahangir Di Haveli](https://open.spotify.com/track/4n6e7UDeilgfsskh2S3MgN) | [Gulab Sidhu](https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW) | [Munda Sidhua Da](https://open.spotify.com/album/4Q4oPqoWHnWuRPIqMb0ohS) | 3:10 | 2021-12-18 |  |
 | [Jailaan \(From "Moosa Jatt"\)](https://open.spotify.com/track/1lIb7Ze8PHhWwdXDtPF00j) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [Jailaan \(From "Moosa Jatt"\)](https://open.spotify.com/album/7pB3NV2NlTbRihxYuC1Ok0) | 2:58 | 2021-12-18 | 2022-07-29 |
 | [Jailaan \(From "Moosa Jatt"\)](https://open.spotify.com/track/1fOK4kKr4lCqQDV4rhLVvq) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [The Kidd](https://open.spotify.com/artist/4HhEO2x0yF6vdqvhHBrRMp) | [Jailaan \(From "Moosa Jatt"\)](https://open.spotify.com/album/3MtObjRseu7Tr6QIf6ud0d) | 2:58 | 2022-07-05 | 2023-09-02 |

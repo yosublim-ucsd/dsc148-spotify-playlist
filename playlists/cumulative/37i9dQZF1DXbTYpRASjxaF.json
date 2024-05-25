@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "Todos pro alto, cada um com o seu. Foto: Danzo",
+  "description": "Todos pro alto, cada um com o seu. Foto: MD Chefe, BK",
   "name": "Cop\u00e3o na M\u00e3o",
   "tracks": [
     {
@@ -100,7 +100,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 151492,
       "name": "20g",
       "url": "https://open.spotify.com/track/2k6OhN6OJWsYJGHCauHFNu"
@@ -2965,6 +2965,36 @@
     },
     {
       "album": {
+        "name": "Consequ\u00eancias",
+        "url": "https://open.spotify.com/album/0iRMKFD3Pwq7heMrMsg8Dk"
+      },
+      "artists": [
+        {
+          "name": "Marquinho no Beat",
+          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
+        },
+        {
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+        },
+        {
+          "name": "Azevedo",
+          "url": "https://open.spotify.com/artist/0wopeyG3WHLoKcmrFD2jrY"
+        },
+        {
+          "name": "Shenlong",
+          "url": "https://open.spotify.com/artist/6Dzh6uXgA0QKVg1eIWxdDY"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208372,
+      "name": "Dia de Baile",
+      "url": "https://open.spotify.com/track/1zq1SispRxaFIKj3v9qOzN"
+    },
+    {
+      "album": {
         "name": "Dia de Baile",
         "url": "https://open.spotify.com/album/60Dc5xMoNRnGh1AGxrcXUV"
       },
@@ -3466,6 +3496,32 @@
       "duration_ms": 215999,
       "name": "Ela \u00e9 Espetacular (Mulher Kama Sutra 2)",
       "url": "https://open.spotify.com/track/0x0V1IID2Sj902k6LzuWds"
+    },
+    {
+      "album": {
+        "name": "SEMR\u00c9H",
+        "url": "https://open.spotify.com/album/2xTJzFHszAuE5hAq0Q1Rpw"
+      },
+      "artists": [
+        {
+          "name": "Ryu, The Runner",
+          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
+        },
+        {
+          "name": "Emit\u00ea \u00danico",
+          "url": "https://open.spotify.com/artist/4z8ieq95PTFrqoxYhozY75"
+        },
+        {
+          "name": "Senndy",
+          "url": "https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212389,
+      "name": "Ele Se Morde",
+      "url": "https://open.spotify.com/track/7Bf3z59AeXnYm4Dnk5waGy"
     },
     {
       "album": {
@@ -5340,7 +5396,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 300495,
       "name": "Malote",
       "url": "https://open.spotify.com/track/6hend0qyIwXCPsDzFM7Dvd"
@@ -7054,6 +7110,28 @@
       "duration_ms": 179505,
       "name": "ONDE VOC\u00ca TAVA? pt. 2",
       "url": "https://open.spotify.com/track/5lwKmzEn7ix9ERJYneL8lS"
+    },
+    {
+      "album": {
+        "name": "Outra Hora",
+        "url": "https://open.spotify.com/album/6yHAyJrF3xvZj0Hb2kBpJw"
+      },
+      "artists": [
+        {
+          "name": "MD Chefe",
+          "url": "https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs"
+        },
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197333,
+      "name": "Outra Hora",
+      "url": "https://open.spotify.com/track/4ezcavj874X6qmOMdjIN1q"
     },
     {
       "album": {
@@ -9852,7 +9930,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 125714,
       "name": "Uma Parte",
       "url": "https://open.spotify.com/track/4E5dWXDRbWw5HVYUTZe3XD"
@@ -9959,6 +10037,36 @@
     },
     {
       "album": {
+        "name": "Vamo Marolar",
+        "url": "https://open.spotify.com/album/3oGU2np2FVq18SxoaCVQ9Z"
+      },
+      "artists": [
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Palma",
+          "url": "https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp"
+        },
+        {
+          "name": "HHR",
+          "url": "https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181512,
+      "name": "Vamo Marolar",
+      "url": "https://open.spotify.com/track/6VzrPxShPXVXRLig62vl2p"
+    },
+    {
+      "album": {
         "name": "Victoria's Secrets",
         "url": "https://open.spotify.com/album/2hGnJhss1wzMSwkMZNeSeM"
       },
@@ -10004,7 +10112,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 155471,
       "name": "vida de turista",
       "url": "https://open.spotify.com/track/7GAOX27kTAZ4M8umIpsM90"

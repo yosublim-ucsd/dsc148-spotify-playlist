@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125991,
+  "num_followers": 125995,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAASaUCAbPeZclbG6Iucueo/GxFaAhrS",
+  "snapshot_id": "AAASaguVS2lKuCsMHZk3XfMe63VF1o8m",
   "tracks": [
+    {
+      "added_at": "2024-05-24 14:30:52",
+      "album": {
+        "name": "Another World",
+        "url": "https://open.spotify.com/album/1F2S0yuHSOnWaEjQRyMSq6"
+      },
+      "artists": [
+        {
+          "name": "Modestep",
+          "url": "https://open.spotify.com/artist/5zYJziKktyqWwmoAWXrShP"
+        },
+        {
+          "name": "SOTA",
+          "url": "https://open.spotify.com/artist/78UYwUXnotbqcp2NTxjujP"
+        }
+      ],
+      "duration_ms": 223541,
+      "name": "Another World",
+      "url": "https://open.spotify.com/track/2zzdZqzq6GZ5Vlr4Z2Ghep"
+    },
     {
       "added_at": "2024-05-23 14:10:49",
       "album": {
@@ -31,7 +51,7 @@
     {
       "added_at": "2024-05-22 16:56:43",
       "album": {
-        "name": "Feel Again",
+        "name": "FEEL AGAIN",
         "url": "https://open.spotify.com/album/4kHLkD35YdrfrJLdXeb3dW"
       },
       "artists": [
@@ -45,7 +65,7 @@
         }
       ],
       "duration_ms": 167586,
-      "name": "Feel Again",
+      "name": "FEEL AGAIN",
       "url": "https://open.spotify.com/track/06R5NcXhfxHzw4b89lDB71"
     },
     {

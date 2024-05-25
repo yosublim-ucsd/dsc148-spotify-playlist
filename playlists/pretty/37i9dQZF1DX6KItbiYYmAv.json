@@ -1,6 +1,6 @@
 {
   "description": "Hol dir dein Lieblingscaf\u00e9 nach Hause.",
-  "num_followers": 731583,
+  "num_followers": 731629,
   "original_name": "Kaffeehausmusik",
   "owner": {
     "name": "Spotify",
@@ -415,22 +415,6 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "Cleopatra",
-        "url": "https://open.spotify.com/album/5y1YWb4OONEGbxZQLRNUwO"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 160097,
-      "name": "Ophelia",
-      "url": "https://open.spotify.com/track/5NORWMFC27ywGSZxi8uquP"
-    },
-    {
-      "added_at": "2024-04-24 06:24:42",
-      "album": {
         "name": "Young North",
         "url": "https://open.spotify.com/album/0aBsNP3hCWYaUsM9aSQGZA"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 250866,
       "name": "Jolene",
       "url": "https://open.spotify.com/track/2fSIF8CJhoc9CJhF9vJDXp"
+    },
+    {
+      "added_at": "2024-04-24 06:24:42",
+      "album": {
+        "name": "Cleopatra",
+        "url": "https://open.spotify.com/album/5y1YWb4OONEGbxZQLRNUwO"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 160097,
+      "name": "Ophelia",
+      "url": "https://open.spotify.com/track/5NORWMFC27ywGSZxi8uquP"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -627,22 +627,6 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "O",
-        "url": "https://open.spotify.com/album/3ADELRoZ4I8WLE7clLU7La"
-      },
-      "artists": [
-        {
-          "name": "Damien Rice",
-          "url": "https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ"
-        }
-      ],
-      "duration_ms": 310000,
-      "name": "Cannonball",
-      "url": "https://open.spotify.com/track/0knqVSsgD7C8yu5yNmQFbA"
-    },
-    {
-      "added_at": "2024-04-24 06:24:42",
-      "album": {
         "name": "3 Rounds and a Sound",
         "url": "https://open.spotify.com/album/2VPbzka8iaNvwJ4KI588w1"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 266960,
       "name": "3 Rounds and a Sound",
       "url": "https://open.spotify.com/track/6AYFKOPbmd12rUP5DalRwB"
+    },
+    {
+      "added_at": "2024-04-24 06:24:42",
+      "album": {
+        "name": "O",
+        "url": "https://open.spotify.com/album/3ADELRoZ4I8WLE7clLU7La"
+      },
+      "artists": [
+        {
+          "name": "Damien Rice",
+          "url": "https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ"
+        }
+      ],
+      "duration_ms": 310000,
+      "name": "Cannonball",
+      "url": "https://open.spotify.com/track/0knqVSsgD7C8yu5yNmQFbA"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "Songs for the Drunk and Broken Hearted (Deluxe)",
-        "url": "https://open.spotify.com/album/1cD1OsXdX1czUNujNuJGzJ"
-      },
-      "artists": [
-        {
-          "name": "Passenger",
-          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
-        }
-      ],
-      "duration_ms": 201720,
-      "name": "Sword from the Stone",
-      "url": "https://open.spotify.com/track/32PwKptR5PhpP4Gxv8Lvps"
-    },
-    {
-      "added_at": "2024-04-24 06:24:42",
-      "album": {
         "name": "Sinking Ship / Back & Forth",
         "url": "https://open.spotify.com/album/0zMY9ikg9RB64fPHXKAmYt"
       },
@@ -875,18 +859,18 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "Sleeping Operator",
-        "url": "https://open.spotify.com/album/7fjRTWt2AzOiOTOAVupzTq"
+        "name": "Songs for the Drunk and Broken Hearted (Deluxe)",
+        "url": "https://open.spotify.com/album/1cD1OsXdX1czUNujNuJGzJ"
       },
       "artists": [
         {
-          "name": "The Barr Brothers",
-          "url": "https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7"
+          "name": "Passenger",
+          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
         }
       ],
-      "duration_ms": 230518,
-      "name": "Even the Darkness Has Arms",
-      "url": "https://open.spotify.com/track/6W49z468BT75GsO2tCcBtq"
+      "duration_ms": 201720,
+      "name": "Sword from the Stone",
+      "url": "https://open.spotify.com/track/32PwKptR5PhpP4Gxv8Lvps"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -919,6 +903,22 @@
       "duration_ms": 256200,
       "name": "Love Is Back",
       "url": "https://open.spotify.com/track/4kzcJJUonbCSlNXrHXt6n8"
+    },
+    {
+      "added_at": "2024-04-24 06:24:42",
+      "album": {
+        "name": "Sleeping Operator",
+        "url": "https://open.spotify.com/album/7fjRTWt2AzOiOTOAVupzTq"
+      },
+      "artists": [
+        {
+          "name": "The Barr Brothers",
+          "url": "https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7"
+        }
+      ],
+      "duration_ms": 230518,
+      "name": "Even the Darkness Has Arms",
+      "url": "https://open.spotify.com/track/6W49z468BT75GsO2tCcBtq"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "Alone, Together",
-        "url": "https://open.spotify.com/album/0rjKAJNRVVFIzCF8mYLPCZ"
-      },
-      "artists": [
-        {
-          "name": "Daniel Pearson",
-          "url": "https://open.spotify.com/artist/0yll2u1E5eqktJyKri1PNm"
-        }
-      ],
-      "duration_ms": 180994,
-      "name": "Come Back Around",
-      "url": "https://open.spotify.com/track/7G89TqdJ9lZIv4toGuxjAr"
-    },
-    {
-      "added_at": "2024-04-24 06:24:42",
-      "album": {
         "name": "Build Me Up From Bones",
         "url": "https://open.spotify.com/album/3WgIxB4vFl8i5ZHCypubIK"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 216173,
       "name": "Build Me Up From Bones",
       "url": "https://open.spotify.com/track/1I9dSqB5XSdwOfn9M8zpRg"
+    },
+    {
+      "added_at": "2024-04-24 06:24:42",
+      "album": {
+        "name": "Alone, Together",
+        "url": "https://open.spotify.com/album/0rjKAJNRVVFIzCF8mYLPCZ"
+      },
+      "artists": [
+        {
+          "name": "Daniel Pearson",
+          "url": "https://open.spotify.com/artist/0yll2u1E5eqktJyKri1PNm"
+        }
+      ],
+      "duration_ms": 180994,
+      "name": "Come Back Around",
+      "url": "https://open.spotify.com/track/7G89TqdJ9lZIv4toGuxjAr"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "The Best Of Leonard Cohen",
-        "url": "https://open.spotify.com/album/06TH14tYg5Xy6bauQtgxnt"
-      },
-      "artists": [
-        {
-          "name": "Leonard Cohen",
-          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
-        }
-      ],
-      "duration_ms": 227200,
-      "name": "Suzanne",
-      "url": "https://open.spotify.com/track/50LqU2nhdE3fmWOuqOjpjz"
-    },
-    {
-      "added_at": "2024-04-24 06:24:42",
-      "album": {
         "name": "Cartoon People",
         "url": "https://open.spotify.com/album/4OLCEhgQysdCpVJkbz3gAT"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 213539,
       "name": "Cartoon People",
       "url": "https://open.spotify.com/track/2VV2bUDMP4sWx1500SBaq4"
+    },
+    {
+      "added_at": "2024-04-24 06:24:42",
+      "album": {
+        "name": "The Best Of Leonard Cohen",
+        "url": "https://open.spotify.com/album/06TH14tYg5Xy6bauQtgxnt"
+      },
+      "artists": [
+        {
+          "name": "Leonard Cohen",
+          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+        }
+      ],
+      "duration_ms": 227200,
+      "name": "Suzanne",
+      "url": "https://open.spotify.com/track/50LqU2nhdE3fmWOuqOjpjz"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "Silence",
-        "url": "https://open.spotify.com/album/6q4cHdQkVJe4MRuOPHrwdx"
-      },
-      "artists": [
-        {
-          "name": "Emmy Meli",
-          "url": "https://open.spotify.com/artist/71szvmFWd7TUa7b6XmXj9k"
-        }
-      ],
-      "duration_ms": 135105,
-      "name": "Silence",
-      "url": "https://open.spotify.com/track/5DfBII8BTQtF9WdFk95ja4"
-    },
-    {
-      "added_at": "2024-04-24 06:24:42",
-      "album": {
         "name": "Hope",
         "url": "https://open.spotify.com/album/2cqVLSrisNHPR6Q1Q4HsBp"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 270066,
       "name": "Hope",
       "url": "https://open.spotify.com/track/6m5g6mY0EqyPW6Snc6n749"
+    },
+    {
+      "added_at": "2024-04-24 06:24:42",
+      "album": {
+        "name": "Silence",
+        "url": "https://open.spotify.com/album/6q4cHdQkVJe4MRuOPHrwdx"
+      },
+      "artists": [
+        {
+          "name": "Emmy Meli",
+          "url": "https://open.spotify.com/artist/71szvmFWd7TUa7b6XmXj9k"
+        }
+      ],
+      "duration_ms": 135105,
+      "name": "Silence",
+      "url": "https://open.spotify.com/track/5DfBII8BTQtF9WdFk95ja4"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -1539,6 +1539,22 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
+        "name": "First Time",
+        "url": "https://open.spotify.com/album/5E11xWC5Sm1XQBwcVDmcqz"
+      },
+      "artists": [
+        {
+          "name": "Brimsley",
+          "url": "https://open.spotify.com/artist/0UhNZ8dTl8Wq4iPcwsqPmd"
+        }
+      ],
+      "duration_ms": 193756,
+      "name": "First Time",
+      "url": "https://open.spotify.com/track/39gE6tDHRL072PInfAabLi"
+    },
+    {
+      "added_at": "2024-04-24 06:24:42",
+      "album": {
         "name": "Ohio",
         "url": "https://open.spotify.com/album/0GvYqatNTFDOB4qxoW27t2"
       },
@@ -1559,22 +1575,6 @@
       "duration_ms": 292760,
       "name": "Ohio",
       "url": "https://open.spotify.com/track/2wVrDSnhFnwy9SQLgP9Yiq"
-    },
-    {
-      "added_at": "2024-04-24 06:24:42",
-      "album": {
-        "name": "First Time",
-        "url": "https://open.spotify.com/album/5E11xWC5Sm1XQBwcVDmcqz"
-      },
-      "artists": [
-        {
-          "name": "Brimsley",
-          "url": "https://open.spotify.com/artist/0UhNZ8dTl8Wq4iPcwsqPmd"
-        }
-      ],
-      "duration_ms": 193756,
-      "name": "First Time",
-      "url": "https://open.spotify.com/track/39gE6tDHRL072PInfAabLi"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -1787,22 +1787,6 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "Speak",
-        "url": "https://open.spotify.com/album/7Ld6FiuaYFO4baEM7PDazn"
-      },
-      "artists": [
-        {
-          "name": "Steiner & Madlaina",
-          "url": "https://open.spotify.com/artist/5iy4msOEj4qHNlrxUansvg"
-        }
-      ],
-      "duration_ms": 292973,
-      "name": "Hometown",
-      "url": "https://open.spotify.com/track/4vlXCMesM7l3he8i5F9Wlg"
-    },
-    {
-      "added_at": "2024-04-24 06:24:42",
-      "album": {
         "name": "Staring At The Sun",
         "url": "https://open.spotify.com/album/01fn47uEgW2WVIdiGEutnV"
       },
@@ -1815,6 +1799,22 @@
       "duration_ms": 223743,
       "name": "Staring At The Sun",
       "url": "https://open.spotify.com/track/1auVS5mEgwN52E8VCNqOMc"
+    },
+    {
+      "added_at": "2024-04-24 06:24:42",
+      "album": {
+        "name": "Speak",
+        "url": "https://open.spotify.com/album/7Ld6FiuaYFO4baEM7PDazn"
+      },
+      "artists": [
+        {
+          "name": "Steiner & Madlaina",
+          "url": "https://open.spotify.com/artist/5iy4msOEj4qHNlrxUansvg"
+        }
+      ],
+      "duration_ms": 292973,
+      "name": "Hometown",
+      "url": "https://open.spotify.com/track/4vlXCMesM7l3he8i5F9Wlg"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -1883,22 +1883,6 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "London City, Boy, It's Killing Me (The Town)",
-        "url": "https://open.spotify.com/album/5o3X7bnJxPU6OpWFz94vvV"
-      },
-      "artists": [
-        {
-          "name": "Nick & June",
-          "url": "https://open.spotify.com/artist/1mx1QlS8xWbe1KfXrvHrYl"
-        }
-      ],
-      "duration_ms": 204146,
-      "name": "London City, Boy, It's Killing Me - The Town",
-      "url": "https://open.spotify.com/track/6YIvcjcGaQY8sogLp1huH9"
-    },
-    {
-      "added_at": "2024-04-24 06:24:42",
-      "album": {
         "name": "Crosby, Stills & Nash",
         "url": "https://open.spotify.com/album/3m7nQ3mxkpE61tzgH8l1XD"
       },
@@ -1911,6 +1895,22 @@
       "duration_ms": 157893,
       "name": "Helplessly Hoping - 2005 Remaster",
       "url": "https://open.spotify.com/track/0OXmUaY4ajGoQ7JOAzotQJ"
+    },
+    {
+      "added_at": "2024-04-24 06:24:42",
+      "album": {
+        "name": "London City, Boy, It's Killing Me (The Town)",
+        "url": "https://open.spotify.com/album/5o3X7bnJxPU6OpWFz94vvV"
+      },
+      "artists": [
+        {
+          "name": "Nick & June",
+          "url": "https://open.spotify.com/artist/1mx1QlS8xWbe1KfXrvHrYl"
+        }
+      ],
+      "duration_ms": 204146,
+      "name": "London City, Boy, It's Killing Me - The Town",
+      "url": "https://open.spotify.com/track/6YIvcjcGaQY8sogLp1huH9"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -2043,22 +2043,6 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "Wounded",
-        "url": "https://open.spotify.com/album/0H56Qf5t1at58tNu6M2xtx"
-      },
-      "artists": [
-        {
-          "name": "Femke",
-          "url": "https://open.spotify.com/artist/5XEOJI2noMNu9v6f30cQ4w"
-        }
-      ],
-      "duration_ms": 182698,
-      "name": "Wounded",
-      "url": "https://open.spotify.com/track/10bsIOqye17izduOx8aQD5"
-    },
-    {
-      "added_at": "2024-04-24 06:24:42",
-      "album": {
         "name": "Where We Belong - EP",
         "url": "https://open.spotify.com/album/7bdk7rFPU8nwQ9mhhNMTfs"
       },
@@ -2071,6 +2055,22 @@
       "duration_ms": 187291,
       "name": "I'm a Man",
       "url": "https://open.spotify.com/track/5HubAbRqLMYGp5vV7dPOy5"
+    },
+    {
+      "added_at": "2024-04-24 06:24:42",
+      "album": {
+        "name": "Wounded",
+        "url": "https://open.spotify.com/album/0H56Qf5t1at58tNu6M2xtx"
+      },
+      "artists": [
+        {
+          "name": "Femke",
+          "url": "https://open.spotify.com/artist/5XEOJI2noMNu9v6f30cQ4w"
+        }
+      ],
+      "duration_ms": 182698,
+      "name": "Wounded",
+      "url": "https://open.spotify.com/track/10bsIOqye17izduOx8aQD5"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -2315,6 +2315,22 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
+        "name": "Darkest Darks, Lightest Lights",
+        "url": "https://open.spotify.com/album/5L6XZ2gcBwLv3hkhRncKcQ"
+      },
+      "artists": [
+        {
+          "name": "The White Buffalo",
+          "url": "https://open.spotify.com/artist/3ohcHMuUq1717s8AH17hfT"
+        }
+      ],
+      "duration_ms": 198226,
+      "name": "I Am the Moon",
+      "url": "https://open.spotify.com/track/1vaIL3cwp9FpjYrJDbFd9h"
+    },
+    {
+      "added_at": "2024-04-24 06:24:42",
+      "album": {
         "name": "The Reason Is You",
         "url": "https://open.spotify.com/album/7lvURucj2ZEFzXZJuLL8nt"
       },
@@ -2343,22 +2359,6 @@
       "duration_ms": 243506,
       "name": "Where's Your Soul",
       "url": "https://open.spotify.com/track/0IACKZaeCAQFs6EgLZvtZQ"
-    },
-    {
-      "added_at": "2024-04-24 06:24:42",
-      "album": {
-        "name": "Darkest Darks, Lightest Lights",
-        "url": "https://open.spotify.com/album/5L6XZ2gcBwLv3hkhRncKcQ"
-      },
-      "artists": [
-        {
-          "name": "The White Buffalo",
-          "url": "https://open.spotify.com/artist/3ohcHMuUq1717s8AH17hfT"
-        }
-      ],
-      "duration_ms": 198226,
-      "name": "I Am the Moon",
-      "url": "https://open.spotify.com/track/1vaIL3cwp9FpjYrJDbFd9h"
     },
     {
       "added_at": "2024-04-24 06:24:42",

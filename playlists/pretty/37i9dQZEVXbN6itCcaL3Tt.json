@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Poland.",
-  "num_followers": 262176,
+  "num_followers": 262197,
   "original_name": "Top 50 - Poland",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "LeKqGAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "LeP7mAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2024-05-23 09:33:51",
+      "added_at": "2024-05-24 10:37:09",
       "album": {
         "name": "Woda Ksi\u0119\u017cycowa",
         "url": "https://open.spotify.com/album/3RvFmDnX4xSUsjgvHpB0wb"
@@ -37,7 +37,7 @@
       "url": "https://open.spotify.com/track/5QOdYa6XQMdIm6fMYhjHQk"
     },
     {
-      "added_at": "2024-05-23 09:33:51",
+      "added_at": "2024-05-24 10:37:09",
       "album": {
         "name": "LEC\u0118 BO CHC\u0118",
         "url": "https://open.spotify.com/album/2ZQVhK7B598PmTwpZPoQHf"
@@ -69,7 +69,7 @@
       "url": "https://open.spotify.com/track/27Xvm20KQ8qMzVvaz32I98"
     },
     {
-      "added_at": "2024-05-23 09:33:51",
+      "added_at": "2024-05-24 10:37:09",
       "album": {
         "name": "ILE LAT?",
         "url": "https://open.spotify.com/album/5pzf4AhTd7kPFC0W1Bh5Ti"
@@ -93,7 +93,7 @@
       "url": "https://open.spotify.com/track/4sOUVcGZo8MiSoIKybdXMC"
     },
     {
-      "added_at": "2024-05-23 09:33:51",
+      "added_at": "2024-05-24 10:37:09",
       "album": {
         "name": "i like the way you kiss me",
         "url": "https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z"
@@ -109,23 +109,23 @@
       "url": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"
     },
     {
-      "added_at": "2024-05-23 09:33:51",
+      "added_at": "2024-05-24 10:37:09",
       "album": {
-        "name": "STRZELAM PETEM",
-        "url": "https://open.spotify.com/album/2sb8Zzua6dynbXOJVdTpbE"
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
       },
       "artists": [
         {
-          "name": "Guzior",
-          "url": "https://open.spotify.com/artist/7uWyXPJ04ihdQdYGGw3xVV"
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
         }
       ],
-      "duration_ms": 183703,
-      "name": "STRZELAM PETEM",
-      "url": "https://open.spotify.com/track/6aZDSWiRvTWCfams9bu8rH"
+      "duration_ms": 179586,
+      "name": "LUNCH",
+      "url": "https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE"
     },
     {
-      "added_at": "2024-05-23 09:33:51",
+      "added_at": "2024-05-24 10:37:09",
       "album": {
         "name": "PG$",
         "url": "https://open.spotify.com/album/0jQlIVeY05n6f5Es8ShhYs"
@@ -153,7 +153,23 @@
       "url": "https://open.spotify.com/track/0MTTFee7cTSd46njlPKBZe"
     },
     {
-      "added_at": "2024-05-23 09:33:51",
+      "added_at": "2024-05-24 10:37:09",
+      "album": {
+        "name": "STRZELAM PETEM",
+        "url": "https://open.spotify.com/album/2sb8Zzua6dynbXOJVdTpbE"
+      },
+      "artists": [
+        {
+          "name": "Guzior",
+          "url": "https://open.spotify.com/artist/7uWyXPJ04ihdQdYGGw3xVV"
+        }
+      ],
+      "duration_ms": 183703,
+      "name": "STRZELAM PETEM",
+      "url": "https://open.spotify.com/track/6aZDSWiRvTWCfams9bu8rH"
+    },
+    {
+      "added_at": "2024-05-24 10:37:09",
       "album": {
         "name": "HIT ME HARD AND SOFT",
         "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
@@ -164,12 +180,12 @@
           "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
         }
       ],
-      "duration_ms": 179586,
-      "name": "LUNCH",
-      "url": "https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE"
+      "duration_ms": 303440,
+      "name": "CHIHIRO",
+      "url": "https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj"
     },
     {
-      "added_at": "2024-05-23 09:33:51",
+      "added_at": "2024-05-24 10:37:09",
       "album": {
         "name": "Chyba \u017ce z Tob\u0105",
         "url": "https://open.spotify.com/album/1OeMB0KFN400gB3IrwQK7L"
@@ -189,7 +205,7 @@
       "url": "https://open.spotify.com/track/0peRfvtx1Je91FxQtii5DJ"
     },
     {
-      "added_at": "2024-05-23 09:33:51",
+      "added_at": "2024-05-24 10:37:09",
       "album": {
         "name": "PG$",
         "url": "https://open.spotify.com/album/0jQlIVeY05n6f5Es8ShhYs"
@@ -217,23 +233,7 @@
       "url": "https://open.spotify.com/track/5fqjgdj9SMB4Jjmyc9cY1J"
     },
     {
-      "added_at": "2024-05-23 09:33:51",
-      "album": {
-        "name": "HIT ME HARD AND SOFT",
-        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 303440,
-      "name": "CHIHIRO",
-      "url": "https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj"
-    },
-    {
-      "added_at": "2024-05-23 09:33:51",
+      "added_at": "2024-05-24 10:37:09",
       "album": {
         "name": "PG$",
         "url": "https://open.spotify.com/album/0jQlIVeY05n6f5Es8ShhYs"
@@ -261,7 +261,7 @@
       "url": "https://open.spotify.com/track/3CgWmnnox6kF0NvJpZWSv8"
     },
     {
-      "added_at": "2024-05-23 09:33:51",
+      "added_at": "2024-05-24 10:37:09",
       "album": {
         "name": "B012",
         "url": "https://open.spotify.com/album/6pN3zmswspYqyY1ztZHKsK"
@@ -277,7 +277,7 @@
       "url": "https://open.spotify.com/track/5G7d637BU8TQbUjcE1qjMt"
     },
     {
-      "added_at": "2024-05-23 09:33:51",
+      "added_at": "2024-05-24 10:37:09",
       "album": {
         "name": "SAFE",
         "url": "https://open.spotify.com/album/0dk2Dde2gYp7GrIzIC679c"
@@ -305,7 +305,7 @@
       "url": "https://open.spotify.com/track/4kcMDgaU8xb4otoDv5c4kD"
     },
     {
-      "added_at": "2024-05-23 09:33:51",
+      "added_at": "2024-05-24 10:37:09",
       "album": {
         "name": "Pedro",
         "url": "https://open.spotify.com/album/5y6RXjI5VPR0RyInghTbf1"
@@ -329,7 +329,7 @@
       "url": "https://open.spotify.com/track/48lxT5qJF0yYyf2z4wB4xW"
     },
     {
-      "added_at": "2024-05-23 09:33:51",
+      "added_at": "2024-05-24 10:37:09",
       "album": {
         "name": "The Sound of Silence (CYRIL Remix)",
         "url": "https://open.spotify.com/album/4AaJMesGEVwF7QpWMSG29p"
@@ -349,7 +349,7 @@
       "url": "https://open.spotify.com/track/1LY3GhF0zxIVgbYEQjCbUO"
     },
     {
-      "added_at": "2024-05-23 09:33:51",
+      "added_at": "2024-05-24 10:37:09",
       "album": {
         "name": "Espresso",
         "url": "https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4"
@@ -365,23 +365,7 @@
       "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
     },
     {
-      "added_at": "2024-05-23 09:33:51",
-      "album": {
-        "name": "Unreal Unearth: Unheard",
-        "url": "https://open.spotify.com/album/3P4SQqMMgjqfqVxgLwtYRk"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 251424,
-      "name": "Too Sweet",
-      "url": "https://open.spotify.com/track/5Z0UnEtpLDQyYlWwgi8m9C"
-    },
-    {
-      "added_at": "2024-05-23 09:33:51",
+      "added_at": "2024-05-24 10:37:09",
       "album": {
         "name": "BLINDBOX",
         "url": "https://open.spotify.com/album/7Cn5ha1ybFow1MXaqUu8F0"
@@ -397,7 +381,23 @@
       "url": "https://open.spotify.com/track/3XWr2NZqYd80MB8FIq9r55"
     },
     {
-      "added_at": "2024-05-23 09:33:51",
+      "added_at": "2024-05-24 10:37:09",
+      "album": {
+        "name": "Unreal Unearth: Unheard",
+        "url": "https://open.spotify.com/album/3P4SQqMMgjqfqVxgLwtYRk"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 251424,
+      "name": "Too Sweet",
+      "url": "https://open.spotify.com/track/5Z0UnEtpLDQyYlWwgi8m9C"
+    },
+    {
+      "added_at": "2024-05-24 10:37:09",
       "album": {
         "name": "HIT ME HARD AND SOFT",
         "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
@@ -413,7 +413,7 @@
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
     },
     {
-      "added_at": "2024-05-23 09:33:51",
+      "added_at": "2024-05-24 10:37:09",
       "album": {
         "name": "Fireworks & Rollerblades",
         "url": "https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm"
@@ -429,7 +429,7 @@
       "url": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii"
     },
     {
-      "added_at": "2024-05-23 09:33:51",
+      "added_at": "2024-05-24 10:37:09",
       "album": {
         "name": "HERO",
         "url": "https://open.spotify.com/album/1vOaLJCm2BLllrARLrFQuo"
@@ -457,7 +457,51 @@
       "url": "https://open.spotify.com/track/5lwu9g10m5ghkp9XWl65YZ"
     },
     {
-      "added_at": "2024-05-23 09:33:51",
+      "added_at": "2024-05-24 10:37:09",
+      "album": {
+        "name": "in real life",
+        "url": "https://open.spotify.com/album/00WMFLvaeDOplwURq1E2t7"
+      },
+      "artists": [
+        {
+          "name": "bambi",
+          "url": "https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk"
+        },
+        {
+          "name": "charlie moncler",
+          "url": "https://open.spotify.com/artist/37Pprth5H294i7rSnIkVVV"
+        }
+      ],
+      "duration_ms": 134025,
+      "name": "MILLIE WALKY",
+      "url": "https://open.spotify.com/track/3mzugJrKyhJNzZKS0RgWBg"
+    },
+    {
+      "added_at": "2024-05-24 10:37:09",
+      "album": {
+        "name": "RING RING",
+        "url": "https://open.spotify.com/album/4qmp6ahoR0Qhb3JN2wtSPc"
+      },
+      "artists": [
+        {
+          "name": "Waima",
+          "url": "https://open.spotify.com/artist/1gfxO9EsNea8tyDzrHexdp"
+        },
+        {
+          "name": "Deemz",
+          "url": "https://open.spotify.com/artist/3gm9b6AeMf2eGQTLashkDt"
+        },
+        {
+          "name": "YARSKI",
+          "url": "https://open.spotify.com/artist/1TY6oc7uiXgpqiiJEidPD6"
+        }
+      ],
+      "duration_ms": 156093,
+      "name": "RING RING",
+      "url": "https://open.spotify.com/track/3VjDhZl73eK9VgvRQovsmw"
+    },
+    {
+      "added_at": "2024-05-24 10:37:09",
       "album": {
         "name": "BFF",
         "url": "https://open.spotify.com/album/0eJ7DAYUyQmiE02ejiMuiO"
@@ -485,51 +529,7 @@
       "url": "https://open.spotify.com/track/1kuhnhugcuXf4CiNdqCRUU"
     },
     {
-      "added_at": "2024-05-23 09:33:51",
-      "album": {
-        "name": "RING RING",
-        "url": "https://open.spotify.com/album/4qmp6ahoR0Qhb3JN2wtSPc"
-      },
-      "artists": [
-        {
-          "name": "Waima",
-          "url": "https://open.spotify.com/artist/1gfxO9EsNea8tyDzrHexdp"
-        },
-        {
-          "name": "Deemz",
-          "url": "https://open.spotify.com/artist/3gm9b6AeMf2eGQTLashkDt"
-        },
-        {
-          "name": "YARSKI",
-          "url": "https://open.spotify.com/artist/1TY6oc7uiXgpqiiJEidPD6"
-        }
-      ],
-      "duration_ms": 156093,
-      "name": "RING RING",
-      "url": "https://open.spotify.com/track/3VjDhZl73eK9VgvRQovsmw"
-    },
-    {
-      "added_at": "2024-05-23 09:33:51",
-      "album": {
-        "name": "in real life",
-        "url": "https://open.spotify.com/album/00WMFLvaeDOplwURq1E2t7"
-      },
-      "artists": [
-        {
-          "name": "bambi",
-          "url": "https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk"
-        },
-        {
-          "name": "charlie moncler",
-          "url": "https://open.spotify.com/artist/37Pprth5H294i7rSnIkVVV"
-        }
-      ],
-      "duration_ms": 134025,
-      "name": "MILLIE WALKY",
-      "url": "https://open.spotify.com/track/3mzugJrKyhJNzZKS0RgWBg"
-    },
-    {
-      "added_at": "2024-05-23 09:33:51",
+      "added_at": "2024-05-24 10:37:09",
       "album": {
         "name": "PG$",
         "url": "https://open.spotify.com/album/0jQlIVeY05n6f5Es8ShhYs"
@@ -557,7 +557,7 @@
       "url": "https://open.spotify.com/track/2Bvmq94ifFUXQmaFPR5Vis"
     },
     {
-      "added_at": "2024-05-23 09:33:51",
+      "added_at": "2024-05-24 10:37:09",
       "album": {
         "name": "MILLION DOLLAR BABY",
         "url": "https://open.spotify.com/album/52TwRwdTUMtkpglbOE5IRz"
@@ -573,7 +573,7 @@
       "url": "https://open.spotify.com/track/7fzHQizxTqy8wTXwlrgPQQ"
     },
     {
-      "added_at": "2024-05-23 09:33:51",
+      "added_at": "2024-05-24 10:37:09",
       "album": {
         "name": "I've Tried Everything But Therapy (Part 1)",
         "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
@@ -589,99 +589,7 @@
       "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
     },
     {
-      "added_at": "2024-05-23 09:33:51",
-      "album": {
-        "name": "Europapa",
-        "url": "https://open.spotify.com/album/3v1pSXwPFLvjQWbcN1iwKS"
-      },
-      "artists": [
-        {
-          "name": "Joost",
-          "url": "https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR"
-        }
-      ],
-      "duration_ms": 160218,
-      "name": "Europapa",
-      "url": "https://open.spotify.com/track/0uHrMbMv3c78398pIANDqR"
-    },
-    {
-      "added_at": "2024-05-23 09:33:51",
-      "album": {
-        "name": "KAUCJA",
-        "url": "https://open.spotify.com/album/36hVOMcM3K8oaMKN8Nto9m"
-      },
-      "artists": [
-        {
-          "name": "Oki",
-          "url": "https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd"
-        },
-        {
-          "name": "bvdy47",
-          "url": "https://open.spotify.com/artist/5nmW2FD84UdLOIj391WVQ4"
-        }
-      ],
-      "duration_ms": 147828,
-      "name": "KAUCJA",
-      "url": "https://open.spotify.com/track/2c5z5bn4FlP1oMfVbIHuq6"
-    },
-    {
-      "added_at": "2024-05-23 09:33:51",
-      "album": {
-        "name": "Red Flag",
-        "url": "https://open.spotify.com/album/6Xn69ub1xLQzXQVe5feCaH"
-      },
-      "artists": [
-        {
-          "name": "Kaz Ba\u0142agane",
-          "url": "https://open.spotify.com/artist/2GzZAv52VCMdVli7QzkteT"
-        },
-        {
-          "name": "yungwilku",
-          "url": "https://open.spotify.com/artist/37DSRXFdho53PJrpiYNrZF"
-        },
-        {
-          "name": "2latefor",
-          "url": "https://open.spotify.com/artist/17gX3tD2iLMYlMGE3fXiq1"
-        }
-      ],
-      "duration_ms": 180740,
-      "name": "Red Flag",
-      "url": "https://open.spotify.com/track/7JcJGXbYk5K6KUngkEXuiA"
-    },
-    {
-      "added_at": "2024-05-23 09:33:51",
-      "album": {
-        "name": "NA ZAWSZE MA\u0141OLAT",
-        "url": "https://open.spotify.com/album/6VnPaOgkHDpKeLg4SCnX5r"
-      },
-      "artists": [
-        {
-          "name": "Oki",
-          "url": "https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd"
-        }
-      ],
-      "duration_ms": 174054,
-      "name": "NA ZAWSZE MA\u0141OLAT",
-      "url": "https://open.spotify.com/track/4qWa361K5izYLjYh1HQNQC"
-    },
-    {
-      "added_at": "2024-05-23 09:33:51",
-      "album": {
-        "name": "HIT ME HARD AND SOFT",
-        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 343120,
-      "name": "BLUE",
-      "url": "https://open.spotify.com/track/2prqm9sPLj10B4Wg0wE5x9"
-    },
-    {
-      "added_at": "2024-05-23 09:33:51",
+      "added_at": "2024-05-24 10:37:09",
       "album": {
         "name": "Dziewczyna Pop",
         "url": "https://open.spotify.com/album/6tHc8WdUmPmU8HnQPNubkB"
@@ -697,7 +605,59 @@
       "url": "https://open.spotify.com/track/4588ZH7944EUrbDvdkr2sA"
     },
     {
-      "added_at": "2024-05-23 09:33:51",
+      "added_at": "2024-05-24 10:37:09",
+      "album": {
+        "name": "Europapa",
+        "url": "https://open.spotify.com/album/3v1pSXwPFLvjQWbcN1iwKS"
+      },
+      "artists": [
+        {
+          "name": "Joost",
+          "url": "https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR"
+        }
+      ],
+      "duration_ms": 160218,
+      "name": "Europapa",
+      "url": "https://open.spotify.com/track/0uHrMbMv3c78398pIANDqR"
+    },
+    {
+      "added_at": "2024-05-24 10:37:09",
+      "album": {
+        "name": "GENERACJA CUZI",
+        "url": "https://open.spotify.com/album/7MpO4bytCpfT8pg8mssXxU"
+      },
+      "artists": [
+        {
+          "name": "Kronkel Dom",
+          "url": "https://open.spotify.com/artist/1dkyORGHN0TOmjzu5qCO45"
+        },
+        {
+          "name": "Deemz",
+          "url": "https://open.spotify.com/artist/3gm9b6AeMf2eGQTLashkDt"
+        }
+      ],
+      "duration_ms": 113333,
+      "name": "GENERACJA CUZI",
+      "url": "https://open.spotify.com/track/7HmxLVR4lFzDg2zzFqyHHY"
+    },
+    {
+      "added_at": "2024-05-24 10:37:09",
+      "album": {
+        "name": "NA ZAWSZE MA\u0141OLAT",
+        "url": "https://open.spotify.com/album/6VnPaOgkHDpKeLg4SCnX5r"
+      },
+      "artists": [
+        {
+          "name": "Oki",
+          "url": "https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd"
+        }
+      ],
+      "duration_ms": 174054,
+      "name": "NA ZAWSZE MA\u0141OLAT",
+      "url": "https://open.spotify.com/track/4qWa361K5izYLjYh1HQNQC"
+    },
+    {
+      "added_at": "2024-05-24 10:37:09",
       "album": {
         "name": "Co ty mi dasz ale to DRILL",
         "url": "https://open.spotify.com/album/0wfRReRNYIdKi0yP5XCrvm"
@@ -721,7 +681,23 @@
       "url": "https://open.spotify.com/track/0cN69CM2rw5hoEgeGdF87m"
     },
     {
-      "added_at": "2024-05-23 09:33:51",
+      "added_at": "2024-05-24 10:37:09",
+      "album": {
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 343120,
+      "name": "BLUE",
+      "url": "https://open.spotify.com/track/2prqm9sPLj10B4Wg0wE5x9"
+    },
+    {
+      "added_at": "2024-05-24 10:37:09",
       "album": {
         "name": "ENZO",
         "url": "https://open.spotify.com/album/3M1Q39mJ8oHqDoUhQF1fep"
@@ -741,7 +717,27 @@
       "url": "https://open.spotify.com/track/5920NPsQB4nswA0mxWCddt"
     },
     {
-      "added_at": "2024-05-23 09:33:51",
+      "added_at": "2024-05-24 10:37:09",
+      "album": {
+        "name": "KAUCJA",
+        "url": "https://open.spotify.com/album/36hVOMcM3K8oaMKN8Nto9m"
+      },
+      "artists": [
+        {
+          "name": "Oki",
+          "url": "https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd"
+        },
+        {
+          "name": "bvdy47",
+          "url": "https://open.spotify.com/artist/5nmW2FD84UdLOIj391WVQ4"
+        }
+      ],
+      "duration_ms": 147828,
+      "name": "KAUCJA",
+      "url": "https://open.spotify.com/track/2c5z5bn4FlP1oMfVbIHuq6"
+    },
+    {
+      "added_at": "2024-05-24 10:37:09",
       "album": {
         "name": "UTOPIA",
         "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
@@ -761,43 +757,7 @@
       "url": "https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA"
     },
     {
-      "added_at": "2024-05-23 09:33:51",
-      "album": {
-        "name": "GENERACJA CUZI",
-        "url": "https://open.spotify.com/album/7MpO4bytCpfT8pg8mssXxU"
-      },
-      "artists": [
-        {
-          "name": "Kronkel Dom",
-          "url": "https://open.spotify.com/artist/1dkyORGHN0TOmjzu5qCO45"
-        },
-        {
-          "name": "Deemz",
-          "url": "https://open.spotify.com/artist/3gm9b6AeMf2eGQTLashkDt"
-        }
-      ],
-      "duration_ms": 113333,
-      "name": "GENERACJA CUZI",
-      "url": "https://open.spotify.com/track/7HmxLVR4lFzDg2zzFqyHHY"
-    },
-    {
-      "added_at": "2024-05-23 09:33:51",
-      "album": {
-        "name": "HIT ME HARD AND SOFT",
-        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 261466,
-      "name": "WILDFLOWER",
-      "url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h"
-    },
-    {
-      "added_at": "2024-05-23 09:33:51",
+      "added_at": "2024-05-24 10:37:09",
       "album": {
         "name": "hip hip hura!",
         "url": "https://open.spotify.com/album/5LKVRhKcPjWbvYP9s7udQW"
@@ -813,7 +773,7 @@
       "url": "https://open.spotify.com/track/5uSsPBP88T6OIYvh9hrSfy"
     },
     {
-      "added_at": "2024-05-23 09:33:51",
+      "added_at": "2024-05-24 10:37:09",
       "album": {
         "name": "NAPALONE FANKI",
         "url": "https://open.spotify.com/album/0bqOLnjMLRVAdiZXME4L92"
@@ -837,23 +797,23 @@
       "url": "https://open.spotify.com/track/1am7ZCYTibeYENexigk6Gz"
     },
     {
-      "added_at": "2024-05-23 09:33:51",
+      "added_at": "2024-05-24 10:37:09",
       "album": {
-        "name": "Adwokat Diabla",
-        "url": "https://open.spotify.com/album/0tUUX9X5xhonVyCPXmHLDf"
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
       },
       "artists": [
         {
-          "name": "Malik Montana",
-          "url": "https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E"
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
         }
       ],
-      "duration_ms": 127250,
-      "name": "Dior",
-      "url": "https://open.spotify.com/track/7biKWZnh8o23xCGej4xHjF"
+      "duration_ms": 261466,
+      "name": "WILDFLOWER",
+      "url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h"
     },
     {
-      "added_at": "2024-05-23 09:33:51",
+      "added_at": "2024-05-24 10:37:09",
       "album": {
         "name": "Not Like Us",
         "url": "https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ"
@@ -869,23 +829,23 @@
       "url": "https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3"
     },
     {
-      "added_at": "2024-05-23 09:33:51",
+      "added_at": "2024-05-24 10:37:09",
       "album": {
-        "name": "The Code",
-        "url": "https://open.spotify.com/album/30euLVaktPWmngBsGDUYdA"
+        "name": "4 RANO",
+        "url": "https://open.spotify.com/album/57GcfcB49w7OmlOzb5EPO8"
       },
       "artists": [
         {
-          "name": "Nemo",
-          "url": "https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N"
+          "name": "Zeamsone",
+          "url": "https://open.spotify.com/artist/1FdfWn1DrRwWDtRK8faYKY"
         }
       ],
-      "duration_ms": 180141,
-      "name": "The Code",
-      "url": "https://open.spotify.com/track/1EjIXKhNHI00ZLMRpS8iz8"
+      "duration_ms": 120902,
+      "name": "4 RANO",
+      "url": "https://open.spotify.com/track/0yeSXZ4we6LzZUyUhoGOIS"
     },
     {
-      "added_at": "2024-05-23 09:33:51",
+      "added_at": "2024-05-24 10:37:09",
       "album": {
         "name": "TTHE GRIND",
         "url": "https://open.spotify.com/album/4Y8udVOO6op71DcUdwtMtP"
@@ -909,23 +869,23 @@
       "url": "https://open.spotify.com/track/77qp2lzKsMmOeyKbtnoSVI"
     },
     {
-      "added_at": "2024-05-23 09:33:51",
+      "added_at": "2024-05-24 10:37:09",
       "album": {
-        "name": "HIT ME HARD AND SOFT",
-        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+        "name": "Adwokat Diabla",
+        "url": "https://open.spotify.com/album/0tUUX9X5xhonVyCPXmHLDf"
       },
       "artists": [
         {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+          "name": "Malik Montana",
+          "url": "https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E"
         }
       ],
-      "duration_ms": 219733,
-      "name": "SKINNY",
-      "url": "https://open.spotify.com/track/1CsMKhwEmNnmvHUuO5nryA"
+      "duration_ms": 127250,
+      "name": "Dior",
+      "url": "https://open.spotify.com/track/7biKWZnh8o23xCGej4xHjF"
     },
     {
-      "added_at": "2024-05-23 09:33:51",
+      "added_at": "2024-05-24 10:37:09",
       "album": {
         "name": "Nie Szkodzi",
         "url": "https://open.spotify.com/album/71VoAa4uW9aVsgFifebH62"
@@ -945,55 +905,23 @@
       "url": "https://open.spotify.com/track/73f2sCPvdMu9eWrbA0Eu56"
     },
     {
-      "added_at": "2024-05-23 09:33:51",
+      "added_at": "2024-05-24 10:37:09",
       "album": {
-        "name": "4 RANO",
-        "url": "https://open.spotify.com/album/57GcfcB49w7OmlOzb5EPO8"
+        "name": "eternal sunshine",
+        "url": "https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK"
       },
       "artists": [
         {
-          "name": "Zeamsone",
-          "url": "https://open.spotify.com/artist/1FdfWn1DrRwWDtRK8faYKY"
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
         }
       ],
-      "duration_ms": 120902,
-      "name": "4 RANO",
-      "url": "https://open.spotify.com/track/0yeSXZ4we6LzZUyUhoGOIS"
+      "duration_ms": 228639,
+      "name": "we can't be friends (wait for your love)",
+      "url": "https://open.spotify.com/track/51ZQ1vr10ffzbwIjDCwqm4"
     },
     {
-      "added_at": "2024-05-23 09:33:51",
-      "album": {
-        "name": "HIT ME HARD AND SOFT",
-        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 293840,
-      "name": "THE GREATEST",
-      "url": "https://open.spotify.com/track/6TGd66r0nlPaYm3KIoI7ET"
-    },
-    {
-      "added_at": "2024-05-23 09:33:51",
-      "album": {
-        "name": "Stumblin' In",
-        "url": "https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc"
-      },
-      "artists": [
-        {
-          "name": "CYRIL",
-          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
-        }
-      ],
-      "duration_ms": 213363,
-      "name": "Stumblin' In",
-      "url": "https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z"
-    },
-    {
-      "added_at": "2024-05-23 09:33:51",
+      "added_at": "2024-05-24 10:37:09",
       "album": {
         "name": "Hotel Lobby",
         "url": "https://open.spotify.com/album/0xkh6IB6JEtwcJsH2tQ6Ut"
@@ -1011,6 +939,78 @@
       "duration_ms": 162533,
       "name": "Hotel Lobby",
       "url": "https://open.spotify.com/track/7dYm5bcpolwVTsmgC28r57"
+    },
+    {
+      "added_at": "2024-05-24 10:37:09",
+      "album": {
+        "name": "Stumblin' In",
+        "url": "https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc"
+      },
+      "artists": [
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        }
+      ],
+      "duration_ms": 213363,
+      "name": "Stumblin' In",
+      "url": "https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z"
+    },
+    {
+      "added_at": "2024-05-24 10:37:09",
+      "album": {
+        "name": "Overdrive (feat. Norma Jean Martine)",
+        "url": "https://open.spotify.com/album/2axYqSKAhWaN60ijTZ0XXg"
+      },
+      "artists": [
+        {
+          "name": "Ofenbach",
+          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
+        },
+        {
+          "name": "Norma Jean Martine",
+          "url": "https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB"
+        }
+      ],
+      "duration_ms": 155905,
+      "name": "Overdrive (feat. Norma Jean Martine)",
+      "url": "https://open.spotify.com/track/3bK1zVFBKIzYjmptmI4NsJ"
+    },
+    {
+      "added_at": "2024-05-24 10:37:09",
+      "album": {
+        "name": "The Code",
+        "url": "https://open.spotify.com/album/30euLVaktPWmngBsGDUYdA"
+      },
+      "artists": [
+        {
+          "name": "Nemo",
+          "url": "https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N"
+        }
+      ],
+      "duration_ms": 180141,
+      "name": "The Code",
+      "url": "https://open.spotify.com/track/1EjIXKhNHI00ZLMRpS8iz8"
+    },
+    {
+      "added_at": "2024-05-24 10:37:09",
+      "album": {
+        "name": "Dzi\u0119ki, \u017ce jeste\u015b",
+        "url": "https://open.spotify.com/album/1xZK3hGpenKMFKYuD6FA6D"
+      },
+      "artists": [
+        {
+          "name": "Lanberry",
+          "url": "https://open.spotify.com/artist/2t3aJxThQrMWaNJgqjMcU8"
+        },
+        {
+          "name": "Tribbs",
+          "url": "https://open.spotify.com/artist/6iqDK7aHVlwGGgPmcdSK5L"
+        }
+      ],
+      "duration_ms": 150937,
+      "name": "Dzi\u0119ki, \u017ce jeste\u015b",
+      "url": "https://open.spotify.com/track/5Qw74vxmtJzAEYjy1wfVCk"
     }
   ],
   "unique_name": "Top 50 - Poland",

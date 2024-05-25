@@ -1,6 +1,6 @@
 {
   "description": "The biggest rock artists in Japan right now!  Cover: TK from \u51db\u3068\u3057\u3066\u6642\u96e8",
-  "num_followers": 283669,
+  "num_followers": 283716,
   "original_name": "Big in Japan",
   "owner": {
     "name": "Spotify",
@@ -251,18 +251,18 @@
     {
       "added_at": "2024-05-14 17:24:18",
       "album": {
-        "name": "MESSAGE",
-        "url": "https://open.spotify.com/album/2an2zDcyPnHZgodDzgxZj2"
+        "name": "\u5fd8\u30ec\u30ca\u5504",
+        "url": "https://open.spotify.com/album/4kRc9bI5HWHzFOqvTRnDHW"
       },
       "artists": [
         {
-          "name": "MONGOL800",
-          "url": "https://open.spotify.com/artist/2zUQjYvy0TevSi4d3PjqQO"
+          "name": "Macaroni Empitsu",
+          "url": "https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ"
         }
       ],
-      "duration_ms": 222640,
-      "name": "\u5c0f\u3055\u306a\u604b\u306e\u3046\u305f",
-      "url": "https://open.spotify.com/track/23atyJacJVHvB9RHBNhr35"
+      "duration_ms": 176406,
+      "name": "\u5fd8\u30ec\u30ca\u5504",
+      "url": "https://open.spotify.com/track/4wjephTaBH2vOoRz4vlPnE"
     },
     {
       "added_at": "2024-05-14 17:24:18",
@@ -351,18 +351,18 @@
     {
       "added_at": "2024-05-14 17:24:18",
       "album": {
-        "name": "\u5fd8\u30ec\u30ca\u5504",
-        "url": "https://open.spotify.com/album/4kRc9bI5HWHzFOqvTRnDHW"
+        "name": "MESSAGE",
+        "url": "https://open.spotify.com/album/2an2zDcyPnHZgodDzgxZj2"
       },
       "artists": [
         {
-          "name": "Macaroni Empitsu",
-          "url": "https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ"
+          "name": "MONGOL800",
+          "url": "https://open.spotify.com/artist/2zUQjYvy0TevSi4d3PjqQO"
         }
       ],
-      "duration_ms": 176406,
-      "name": "\u5fd8\u30ec\u30ca\u5504",
-      "url": "https://open.spotify.com/track/4wjephTaBH2vOoRz4vlPnE"
+      "duration_ms": 222640,
+      "name": "\u5c0f\u3055\u306a\u604b\u306e\u3046\u305f",
+      "url": "https://open.spotify.com/track/23atyJacJVHvB9RHBNhr35"
     },
     {
       "added_at": "2024-05-14 17:24:18",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2024-05-14 17:24:18",
       "album": {
-        "name": "\u8d85\u30e1\u30e2\u30ea\u30a2\u30eb",
-        "url": "https://open.spotify.com/album/3XKe2Pdxu8DgLOweg6U2xs"
-      },
-      "artists": [
-        {
-          "name": "QUEEN BEE",
-          "url": "https://open.spotify.com/artist/6whFEcaV75AmQMiwlfaxvc"
-        }
-      ],
-      "duration_ms": 213706,
-      "name": "\u8d85\u30e1\u30e2\u30ea\u30a2\u30eb",
-      "url": "https://open.spotify.com/track/3jbFfa2rRHQKMj1rg7KowX"
-    },
-    {
-      "added_at": "2024-05-14 17:24:18",
-      "album": {
         "name": "\u5203\u6e21\u308a2\u5104\u30bb\u30f3\u30c1(TV edit)",
         "url": "https://open.spotify.com/album/04tV0O6qn5cXheBUTHmeKv"
       },
@@ -1231,18 +1215,34 @@
     {
       "added_at": "2024-05-14 17:24:18",
       "album": {
-        "name": "FOOLs",
-        "url": "https://open.spotify.com/album/7sUJFlz84jJ2vbLFDePctW"
+        "name": "\u8d85\u30e1\u30e2\u30ea\u30a2\u30eb",
+        "url": "https://open.spotify.com/album/3XKe2Pdxu8DgLOweg6U2xs"
       },
       "artists": [
         {
-          "name": "go!go!vanillas",
-          "url": "https://open.spotify.com/artist/0aqPTOZlKG6ltJHv7BNlsm"
+          "name": "QUEEN BEE",
+          "url": "https://open.spotify.com/artist/6whFEcaV75AmQMiwlfaxvc"
         }
       ],
-      "duration_ms": 236666,
-      "name": "\u5e73\u6210\u30da\u30a4\u30f3",
-      "url": "https://open.spotify.com/track/65mHu2GHtlQ8Fy3akl6hgX"
+      "duration_ms": 213706,
+      "name": "\u8d85\u30e1\u30e2\u30ea\u30a2\u30eb",
+      "url": "https://open.spotify.com/track/3jbFfa2rRHQKMj1rg7KowX"
+    },
+    {
+      "added_at": "2024-05-14 17:24:18",
+      "album": {
+        "name": "SINGLE 1",
+        "url": "https://open.spotify.com/album/4KHq9rx1FHIx7YXefUjK0F"
+      },
+      "artists": [
+        {
+          "name": "[Alexandros]",
+          "url": "https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI"
+        }
+      ],
+      "duration_ms": 204106,
+      "name": "\u30a2\u30d5\u30bf\u30fc\u30b9\u30af\u30fc\u30eb",
+      "url": "https://open.spotify.com/track/12yaUWXL3LaWZbps2MVzOy"
     },
     {
       "added_at": "2024-05-14 17:24:18",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2024-05-14 17:24:18",
       "album": {
-        "name": "SINGLE 1",
-        "url": "https://open.spotify.com/album/4KHq9rx1FHIx7YXefUjK0F"
+        "name": "FOOLs",
+        "url": "https://open.spotify.com/album/7sUJFlz84jJ2vbLFDePctW"
       },
       "artists": [
         {
-          "name": "[Alexandros]",
-          "url": "https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI"
+          "name": "go!go!vanillas",
+          "url": "https://open.spotify.com/artist/0aqPTOZlKG6ltJHv7BNlsm"
         }
       ],
-      "duration_ms": 204106,
-      "name": "\u30a2\u30d5\u30bf\u30fc\u30b9\u30af\u30fc\u30eb",
-      "url": "https://open.spotify.com/track/12yaUWXL3LaWZbps2MVzOy"
+      "duration_ms": 236666,
+      "name": "\u5e73\u6210\u30da\u30a4\u30f3",
+      "url": "https://open.spotify.com/track/65mHu2GHtlQ8Fy3akl6hgX"
     },
     {
       "added_at": "2024-05-14 17:24:18",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2024-05-14 17:24:18",
       "album": {
-        "name": "\u899a\u609f\u3092\u6c7a\u3081\u308d!",
-        "url": "https://open.spotify.com/album/2eoWg1Bc1vn6m4HxSwya2v"
-      },
-      "artists": [
-        {
-          "name": "\u30b5\u30d0\u30b7\u30b9\u30bf\u30fc",
-          "url": "https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj"
-        }
-      ],
-      "duration_ms": 154918,
-      "name": "\u30b8\u30e3\u30fc\u30b8 - 2024 ver.",
-      "url": "https://open.spotify.com/track/171bhWJsrmK35Llx2IhHgS"
-    },
-    {
-      "added_at": "2024-05-14 17:24:18",
-      "album": {
         "name": "FLOWERS",
         "url": "https://open.spotify.com/album/4CacH47pYRZPbFvTgXUibk"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 245666,
       "name": "\u9752\u3044\u306e\u3002",
       "url": "https://open.spotify.com/track/2wksGIcdJ5C0XPZLeTnSMM"
+    },
+    {
+      "added_at": "2024-05-14 17:24:18",
+      "album": {
+        "name": "\u899a\u609f\u3092\u6c7a\u3081\u308d!",
+        "url": "https://open.spotify.com/album/2eoWg1Bc1vn6m4HxSwya2v"
+      },
+      "artists": [
+        {
+          "name": "\u30b5\u30d0\u30b7\u30b9\u30bf\u30fc",
+          "url": "https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj"
+        }
+      ],
+      "duration_ms": 154918,
+      "name": "\u30b8\u30e3\u30fc\u30b8 - 2024 ver.",
+      "url": "https://open.spotify.com/track/171bhWJsrmK35Llx2IhHgS"
     },
     {
       "added_at": "2024-05-14 17:24:18",
@@ -1507,6 +1507,22 @@
     {
       "added_at": "2024-05-14 17:24:18",
       "album": {
+        "name": "\u30b1\u30e2\u30ce\u30df\u30c1",
+        "url": "https://open.spotify.com/album/0klgJfPMllexvhss9c816Z"
+      },
+      "artists": [
+        {
+          "name": "Mr.Children",
+          "url": "https://open.spotify.com/artist/1qma7XhwZotCAucL7NHVLY"
+        }
+      ],
+      "duration_ms": 238543,
+      "name": "\u30b1\u30e2\u30ce\u30df\u30c1",
+      "url": "https://open.spotify.com/track/4lpFErPc45W6HYnpoaxCdl"
+    },
+    {
+      "added_at": "2024-05-14 17:24:18",
+      "album": {
         "name": "\u8f1d\u3051\u308b\u3082\u306e",
         "url": "https://open.spotify.com/album/0DwmAkmFvzWneRDrUZS88j"
       },
@@ -1535,22 +1551,6 @@
       "duration_ms": 175600,
       "name": "\u304a\u5b50\u3055\u307e\u30d7\u30ec\u30fc\u30c8",
       "url": "https://open.spotify.com/track/7K3aZGsHNcvzNB0T9pdKym"
-    },
-    {
-      "added_at": "2024-05-14 17:24:18",
-      "album": {
-        "name": "\u30b1\u30e2\u30ce\u30df\u30c1",
-        "url": "https://open.spotify.com/album/0klgJfPMllexvhss9c816Z"
-      },
-      "artists": [
-        {
-          "name": "Mr.Children",
-          "url": "https://open.spotify.com/artist/1qma7XhwZotCAucL7NHVLY"
-        }
-      ],
-      "duration_ms": 238543,
-      "name": "\u30b1\u30e2\u30ce\u30df\u30c1",
-      "url": "https://open.spotify.com/track/4lpFErPc45W6HYnpoaxCdl"
     },
     {
       "added_at": "2024-05-14 17:24:18",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-29",
-  "description": "This is: City Girls. Alle wichtigen Tracks in einer Playlist.",
+  "description": "This is City Girls. The essential tracks, all in one playlist.",
   "name": "This Is City Girls",
   "tracks": [
     {
@@ -64,7 +64,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-24",
+      "date_removed": null,
       "duration_ms": 158332,
       "name": "Act Up",
       "url": "https://open.spotify.com/track/3A2yGHWIzmGEIolwonU69h"
@@ -648,7 +648,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 170413,
       "name": "How To Pimp A N**ga",
       "url": "https://open.spotify.com/track/36B9SXT9Pf8mL3F5RyqSAX"
@@ -888,7 +888,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 172313,
       "name": "My Type (feat. City Girls & Jhen\u00e9 Aiko) - Remix",
       "url": "https://open.spotify.com/track/5LTdRSQOg63EazLbKZbWn2"
@@ -1144,7 +1144,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-24",
+      "date_removed": null,
       "duration_ms": 177704,
       "name": "Said Sum (feat. City Girls & DaBaby) - Remix",
       "url": "https://open.spotify.com/track/13VXVxePp4NUiXwtmQ0viz"

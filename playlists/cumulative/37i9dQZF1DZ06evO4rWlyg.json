@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2023-11-11",
-  "description": "This is Bj\u00f6rk. The essential tracks, all in one playlist.",
-  "name": "This Is Bj\u00f6rk",
+  "description": "This is \u30d3\u30e7\u30fc\u30af\u3002\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u4ee3\u8868\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002",
+  "name": "This Is \u30d3\u30e7\u30fc\u30af",
   "tracks": [
     {
       "album": {
@@ -1206,7 +1206,7 @@
       ],
       "date_added": "2024-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 243800,
       "name": "I Miss You",
       "url": "https://open.spotify.com/track/2pDMVFdeAsFI73DDekyvDf"
@@ -1440,7 +1440,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-24",
+      "date_removed": null,
       "duration_ms": 220760,
       "name": "It's Oh So Quiet",
       "url": "https://open.spotify.com/track/45Ok4AREEWfPIBZ4ylCXK7"

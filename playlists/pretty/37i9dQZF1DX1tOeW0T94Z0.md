@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tOeW0T94Z0.md) - [plain]
 
 > Nothing but precious sounds from the 90s & 2000s\. Cover: Maestro Fresh Wes
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,097 likes - 66 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,114 likes - 66 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tOeW0T94Z0.md) - [plain]
 | 40 | [Seven Day Fool](https://open.spotify.com/track/68Vb8dhUtY7xXgAc9WONXc) | [Jully Black](https://open.spotify.com/artist/781516XewTgtGAnpg6dlmd) | [Revival](https://open.spotify.com/album/2PpxaPsS6U1bhDNG2sMf2q) | 3:25 |
 | 41 | [Don't You Forget It](https://open.spotify.com/track/7vKYuqKAySUizIkcAl4Oal) | [Glenn Lewis](https://open.spotify.com/artist/28821fRwpAWk44HfJ96PGV) | [World Outside My Window](https://open.spotify.com/album/42xHDcAyEnhKzLPCrdnBud) | 4:08 |
 | 42 | [More Soup \(feat\. MF Doom\)](https://open.spotify.com/track/3sITI1dXm6vOhCSF1FaZM9) | [Moka Only](https://open.spotify.com/artist/7G9ZUoEjbi5Z2bR5w60S0h), [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL) | [The Desired Effect](https://open.spotify.com/album/6KqThT2IhrDgaw07eEASyd) | 2:11 |
-| 43 | [Thinkin' About You](https://open.spotify.com/track/1a9LoNwmEosWHvTxF1SCy8) | [2rude](https://open.spotify.com/artist/4Iidg3Dx7YDYjhsScQWr50), [Latoya & Miranda](https://open.spotify.com/artist/3C7A9mDljV6eGQ9HAHdDU3), [Snow](https://open.spotify.com/artist/3uZFBSsMiooimnprFL9jD1), [Smoothe Da'hustler](https://open.spotify.com/artist/5RT4FJsehaXq57F9lYdJDH) | [2Rude \(Rudimental 2K Remastered\)](https://open.spotify.com/album/1EVrrsLa9ZezXXhJ5kXrZD) | 3:46 |
+| 43 | [Thinkin' About You](https://open.spotify.com/track/1a9LoNwmEosWHvTxF1SCy8) | [2rude](https://open.spotify.com/artist/4Iidg3Dx7YDYjhsScQWr50), [Latoya & Miranda](https://open.spotify.com/artist/3C7A9mDljV6eGQ9HAHdDU3), [Snow](https://open.spotify.com/artist/71G3C8n6gQ4L6cjbY5aH4C), [Smoothe Da'hustler](https://open.spotify.com/artist/5RT4FJsehaXq57F9lYdJDH) | [2Rude \(Rudimental 2K Remastered\)](https://open.spotify.com/album/1EVrrsLa9ZezXXhJ5kXrZD) | 3:46 |
 | 44 | [Stay with Me \(Always\)](https://open.spotify.com/track/5ZfayXikF8vAT4EgMD5T8t) | [Dru](https://open.spotify.com/artist/0HScSUVfUii78Ir9Wv263A) | [The One](https://open.spotify.com/album/6CiWebqzDVRTWCiLK4QOwR) | 3:48 |
 | 45 | [Born And Raised In The Ghetto](https://open.spotify.com/track/7J4NU5c7UoEgFdkkDHLCJv) | [Point Blank](https://open.spotify.com/artist/4HYVAD8r5cumxUTuKnjBNp) | [Point Blank](https://open.spotify.com/album/7B3PgLVdjLBkeCLT1FYRU0) | 3:28 |
 | 46 | [The Radio Edit](https://open.spotify.com/track/3LucZMivE3CYFWGFgdao1Q) | [Sugar Jones](https://open.spotify.com/artist/3PDXxxiHRyqwU2GLg6zJHT), [Justin Grey For Big Boom Entertainment](https://open.spotify.com/artist/05JfwFiagvihkfnK64VP9g) | [Days Like That](https://open.spotify.com/album/3MCI6hWXIU3ViGaITU6yz3) | 3:49 |

@@ -2,13 +2,13 @@
 
 ### [This Is Suzanne Ciani](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3VuT4I)
 
-> This Is Suzanne Ciani\. Los temas esenciales, todos en una lista.
+> This is Suzanne Ciani\. Todos os maiores hits em uma só playlist.
 
 112 songs - 9 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| ['til Time and Times Are Done](https://open.spotify.com/track/26TmZWLTQdcMhYjbSBmVG4) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Pianissimo II](https://open.spotify.com/album/2Rw6DPIFaaTHuLcpjzCT9h) | 3:54 | 2022-06-02 |  |
+| ['til Time and Times Are Done](https://open.spotify.com/track/26TmZWLTQdcMhYjbSBmVG4) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Pianissimo II](https://open.spotify.com/album/2Rw6DPIFaaTHuLcpjzCT9h) | 3:54 | 2022-06-02 | 2024-05-25 |
 | [4 O'Clock in the Morning](https://open.spotify.com/track/1z4wE7bLDQrf5B5CJKHXjv) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Pianissimo III](https://open.spotify.com/album/43dwsWH3LmpqW3BE0K8ckW) | 3:49 | 2022-07-24 | 2022-09-07 |
 | [4 O'Clock in the Morning](https://open.spotify.com/track/5YD8OCHpW8W6i30FOA3KRF) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Meditations for Dreams, Relaxation, and Sleep](https://open.spotify.com/album/6A4Xbylny9BB49hJVbXE0i) | 3:52 | 2022-06-22 | 2022-06-24 |
 | [432 \- Suzanne Ciani Rework](https://open.spotify.com/track/1ApcdqaszE4EpOp50FinUy) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr), [Joep Beving](https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y) | [Conatus](https://open.spotify.com/album/3qPX9UNS4kdWpouc7c5FCa) | 4:29 | 2022-06-11 | 2024-04-19 |
@@ -82,7 +82,7 @@
 | [Part Two](https://open.spotify.com/track/3ipLNSWCkDMjiRyplhkps8) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [LIVE Quadraphonic](https://open.spotify.com/album/1WWOmrEQHpvibV3bQBvcIN) | 5:13 | 2022-06-27 | 2022-10-02 |
 | [Pinwheel](https://open.spotify.com/track/7mfgr8aIEJ4Rc0ztwdNoZ3) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr), [Jonathan Fitoussi](https://open.spotify.com/artist/2EuDyGDH8HMwcmWo8UzR7b) | [Golden Apples of the Sun](https://open.spotify.com/album/7uyjAWuLd40b8qvYJe2t1K) | 3:56 | 2023-10-10 |  |
 | [Pretend](https://open.spotify.com/track/7rXifdGnx7Lfe40VE5TTwT) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Pianissimo III](https://open.spotify.com/album/43dwsWH3LmpqW3BE0K8ckW) | 3:45 | 2022-06-03 |  |
-| [Princess](https://open.spotify.com/track/70vOVnKnIbS5Z1weX918jL) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Pianissimo II](https://open.spotify.com/album/2Rw6DPIFaaTHuLcpjzCT9h) | 4:24 | 2022-05-29 | 2023-11-11 |
+| [Princess](https://open.spotify.com/track/70vOVnKnIbS5Z1weX918jL) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Pianissimo II](https://open.spotify.com/album/2Rw6DPIFaaTHuLcpjzCT9h) | 4:24 | 2022-05-29 |  |
 | [Rain](https://open.spotify.com/track/4mfLfODYehwVfHnXMlIArx) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Pianissimo](https://open.spotify.com/album/5hD6gGLoTIZApXRCIvREBh) | 2:34 | 2022-06-02 |  |
 | [Rainbow Sequence](https://open.spotify.com/track/3Z9RUz3yc7VhAW3OX6l16g) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr), [Jonathan Fitoussi](https://open.spotify.com/artist/2EuDyGDH8HMwcmWo8UzR7b) | [Golden Apples of the Sun](https://open.spotify.com/album/7uyjAWuLd40b8qvYJe2t1K) | 4:12 | 2023-10-10 |  |
 | [Riding Heaven's Wave: Eulogy to a Surfer](https://open.spotify.com/track/0bgUeNfG2l4STlnn2CBV59) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Dream Suite](https://open.spotify.com/album/12w6StuJjgjQgaGuiLMvUo) | 4:11 | 2022-05-31 | 2022-10-12 |

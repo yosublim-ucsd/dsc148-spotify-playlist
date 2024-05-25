@@ -2797,6 +2797,36 @@
     },
     {
       "album": {
+        "name": "Got that?",
+        "url": "https://open.spotify.com/album/08nVCZBo8sBzTkzFAFtI3A"
+      },
+      "artists": [
+        {
+          "name": "Greg Spero",
+          "url": "https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd"
+        },
+        {
+          "name": "Dominique Xavier",
+          "url": "https://open.spotify.com/artist/08pNXT13jLN3ri7eT6pRuv"
+        },
+        {
+          "name": "Stixx Taylor",
+          "url": "https://open.spotify.com/artist/2eMTWZLa7eqnNsp71eM6Tg"
+        },
+        {
+          "name": "Joe Cleveland",
+          "url": "https://open.spotify.com/artist/1OREq1cp67WA7bvs7v1Ogg"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104458,
+      "name": "Got that?",
+      "url": "https://open.spotify.com/track/3hlHFttlQkeQFNka58JINT"
+    },
+    {
+      "album": {
         "name": "Grease of the East(bay) [feat. Eric Krasno, Daniel Casares & Adam Theis]",
         "url": "https://open.spotify.com/album/2td0xMJS2A1L3d2lwrmYFD"
       },
@@ -3808,6 +3838,28 @@
       "duration_ms": 233533,
       "name": "Little Walter Rides Again",
       "url": "https://open.spotify.com/track/2fB7lE3uEUqXrV36jOSVYY"
+    },
+    {
+      "album": {
+        "name": "Live Your Best Dream",
+        "url": "https://open.spotify.com/album/3hIu9BJQTZAtWlYNdJwXDn"
+      },
+      "artists": [
+        {
+          "name": "Redtenbacher's Funkestra",
+          "url": "https://open.spotify.com/artist/1oYScdotTIXO74h10l8ISA"
+        },
+        {
+          "name": "Carter Arrington",
+          "url": "https://open.spotify.com/artist/33QeDPfeSWWQSZmbUC15Ly"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280560,
+      "name": "Live Your Best Dream",
+      "url": "https://open.spotify.com/track/57Nud2GW7rZK6IGDqwOQuA"
     },
     {
       "album": {
@@ -6308,7 +6360,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 156584,
       "name": "Smooth it out",
       "url": "https://open.spotify.com/track/1jPVXZmIJonOnwbMFPFg9V"
@@ -8018,7 +8070,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 313293,
       "name": "The What Factor? - The Masterlink Sessions",
       "url": "https://open.spotify.com/track/2O16yoxpKYfa7MAzvZ8NWE"

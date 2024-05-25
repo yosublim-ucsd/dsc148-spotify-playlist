@@ -4,7 +4,7 @@
 
 > Nomadismo sonoro para quienes aman la música de todos los rincones del planeta.
 
-565 songs - 1 day 17 hr 35 min
+566 songs - 1 day 17 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -373,6 +373,7 @@
 | [O Pato](https://open.spotify.com/track/64g3ZB9jPWOZKIyGhtzMGq) | [Bahia Bahia Bahia](https://open.spotify.com/artist/5MbdV2ChR2UTRO6yczv6gj) | [A Rã EP](https://open.spotify.com/album/304Bab3sFlZCbt76DhqXh2) | 3:57 | 2023-07-10 |  |
 | [Oba, Lá Vem Ela](https://open.spotify.com/track/4u0Xdy7BizHLrcPIf7c6h2) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Favourites: From Samba Esquema Novo 1963 To Africa Brasil 1976](https://open.spotify.com/album/1jJXtCHztoIKiSG8IbLmq0) | 4:14 | 2023-07-10 | 2024-04-19 |
 | [Ocho Kandelikas](https://open.spotify.com/track/5C4Vrj0tVBJBnP5LhWDJOd) | [Los Desterrados](https://open.spotify.com/artist/6lBVFwKjdieys8ol1M9LVs) | [Tu](https://open.spotify.com/album/2OziGg6tARdtNmJAahxCle) | 2:55 | 2024-03-08 |  |
+| [Ojos de Cielo](https://open.spotify.com/track/0u0iG06EyhoLiaFPhEzzzL) | [Criollas](https://open.spotify.com/artist/5Bcy0y4rVtSr1EAzd9f5aV), [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [Criollas](https://open.spotify.com/album/3jwD6OLJSduWXUljAw1Zr0) | 4:42 | 2024-05-24 |  |
 | [Olvídame](https://open.spotify.com/track/0S7YJBN4QRwXLLRTAhlhew) | [Baiuca](https://open.spotify.com/artist/2GSXsSy3YzWsp4BXfSGucS), [Aliboria](https://open.spotify.com/artist/7snXGTX2QLVH8buiuH8t2L) | [Misturas](https://open.spotify.com/album/0A5zpH2SoNiRGBZf3WAyZJ) | 3:48 | 2023-07-10 |  |
 | [On Verra Ça](https://open.spotify.com/track/75Gx2dMhqrWgllUR6R6HEM) | [Touré Kunda](https://open.spotify.com/artist/76ynyZUsg0vGxiQSWvQx5f) | [Emma Africa](https://open.spotify.com/album/2aNywleIIBlI85CODNdi4J) | 3:26 | 2023-07-10 | 2024-04-19 |
 | [Once in a Lifetime](https://open.spotify.com/track/5nXXJeSf9MeDmUmEoafgOH) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Remain in Light](https://open.spotify.com/album/4RWSXCDIk9HDCAjRFTPVcn) | 5:48 | 2023-07-10 |  |
@@ -475,7 +476,7 @@
 | [Sueno en Paraguay](https://open.spotify.com/track/5VOMJBi8KMutN8DUB1ZYro) | [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl) | [Amansara](https://open.spotify.com/album/7KJruqiZwhVmnfW3CfvIPu) | 3:53 | 2023-07-10 | 2024-04-19 |
 | [Sueña](https://open.spotify.com/track/36AqjVOrwb29Xc31RBDJAy) | [Sonia De Los Santos](https://open.spotify.com/artist/4aNmQzHcg0vTqPSauw4CKr), [Zeudi Castañeda](https://open.spotify.com/artist/3pwMCl20rE77YMGgCanTif) | [Esperanza](https://open.spotify.com/album/6Xsju25I5pCP0cCNgXs2iv) | 3:04 | 2023-07-10 |  |
 | [Sueños De Libertad](https://open.spotify.com/track/13wni7XVGxszlUbQ9tByJK) | [Juanita Euka](https://open.spotify.com/artist/5a7zFB39QFXzf8amit9zJh) | [Mabanzo](https://open.spotify.com/album/27YMkY29ejf68IpDywP91w) | 4:33 | 2024-03-08 |  |
-| [Supernova](https://open.spotify.com/track/4CPpoQbZftMNHd3NjirWLk) | [Meklit](https://open.spotify.com/artist/4I5bRwfigd1Fj1ciXo7jQH) | [Supernova \(Remixes\)](https://open.spotify.com/album/4jzi6QFj69WtIzn8cPqaEj) | 5:42 | 2024-03-08 |  |
+| [Supernova](https://open.spotify.com/track/4CPpoQbZftMNHd3NjirWLk) | [Meklit](https://open.spotify.com/artist/4I5bRwfigd1Fj1ciXo7jQH) | [Supernova \(Remixes\)](https://open.spotify.com/album/4jzi6QFj69WtIzn8cPqaEj) | 5:42 | 2024-03-08 | 2024-05-25 |
 | [Suumo](https://open.spotify.com/track/41jAZRB7AjJZNOzAgCkvrM) | [Bosq](https://open.spotify.com/artist/2tpbLTmBZZcGvcCHX6uw1U), [K.O.G](https://open.spotify.com/artist/6n5BdjorrfFAe3OVqHHfUi) | [Y Su Descarga Internacional](https://open.spotify.com/album/5lCofRvucN41wJestulzNM) | 5:14 | 2024-03-08 |  |
 | [Só Nós Dois](https://open.spotify.com/track/3yiXy2ydZP9ZpsYxvUI6sO) | [Tim Bernardes](https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4) | [Só Nós Dois](https://open.spotify.com/album/0riMkWHIG90iXfB2WKQTq3) | 3:48 | 2023-07-10 |  |
 | [Ta Lassa \- Hide & Smile Edit](https://open.spotify.com/track/4zO3tHghEN89LhG7zbMGtk) | [International Soleil Band](https://open.spotify.com/artist/3Btuf1RlPWMzHASwRufaNs), [Hide & Smile](https://open.spotify.com/artist/19WmN3fivUDmFsGcxXmlQ8) | [Ta Lassa](https://open.spotify.com/album/6EnZA0e6ioxGM68gWinLlv) | 6:16 | 2023-07-10 | 2023-09-24 |

@@ -1,6 +1,6 @@
 {
   "description": "Where Sitar meets Guitar. Cover - 'Sonchadi' by DigV, Neha Kakkar and Kamla Devi",
-  "num_followers": 69563,
+  "num_followers": 69577,
   "original_name": "Fusion Finds",
   "owner": {
     "name": "Spotify",
@@ -711,22 +711,6 @@
     {
       "added_at": "2024-05-22 09:13:53",
       "album": {
-        "name": "Raghupati",
-        "url": "https://open.spotify.com/album/23hqFU9fF67TgqD3GO2ViW"
-      },
-      "artists": [
-        {
-          "name": "Niladri Kumar",
-          "url": "https://open.spotify.com/artist/3Qol2r2jehhR5yKbmk1Dg4"
-        }
-      ],
-      "duration_ms": 304250,
-      "name": "Raghupati",
-      "url": "https://open.spotify.com/track/5v60ZNNtDn8wrRHQbe1FY6"
-    },
-    {
-      "added_at": "2024-05-22 09:13:53",
-      "album": {
         "name": "Nirbhay Nirgun (Live)",
         "url": "https://open.spotify.com/album/4b8GmKRuGCgnLshdreugl4"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 380000,
       "name": "Nirbhay Nirgun (Live)",
       "url": "https://open.spotify.com/track/357T838i7RIdC7QVLLWWqC"
+    },
+    {
+      "added_at": "2024-05-22 09:13:53",
+      "album": {
+        "name": "Raghupati",
+        "url": "https://open.spotify.com/album/23hqFU9fF67TgqD3GO2ViW"
+      },
+      "artists": [
+        {
+          "name": "Niladri Kumar",
+          "url": "https://open.spotify.com/artist/3Qol2r2jehhR5yKbmk1Dg4"
+        }
+      ],
+      "duration_ms": 304250,
+      "name": "Raghupati",
+      "url": "https://open.spotify.com/track/5v60ZNNtDn8wrRHQbe1FY6"
     },
     {
       "added_at": "2024-05-22 09:13:53",
@@ -1027,22 +1027,18 @@
     {
       "added_at": "2024-05-22 09:13:53",
       "album": {
-        "name": "Bandish Fusion & More",
-        "url": "https://open.spotify.com/album/2adewooNTGv4eFztnfoYAV"
+        "name": "Barsan Lagi",
+        "url": "https://open.spotify.com/album/24Ro5vvqnf9ElJX9ZgdhL4"
       },
       "artists": [
         {
-          "name": "Kaushiki Chakraborty",
-          "url": "https://open.spotify.com/artist/4qWXi8Qj92dQOEJihdVqjI"
-        },
-        {
-          "name": "Ricky Kej",
-          "url": "https://open.spotify.com/artist/2pG6h1xYYv5j7fuxackcfl"
+          "name": "Abhay Jodhpurkar",
+          "url": "https://open.spotify.com/artist/27rK4pP0VMqWiRe7pamKe5"
         }
       ],
-      "duration_ms": 400957,
-      "name": "Rangi Saari Gulabi Chunariya",
-      "url": "https://open.spotify.com/track/4JBNysi2ev6akvX0JXa9db"
+      "duration_ms": 219456,
+      "name": "Barsan Lagi",
+      "url": "https://open.spotify.com/track/2DolnMsowdoeGwD9f1P9iJ"
     }
   ],
   "unique_name": "Fusion Finds",

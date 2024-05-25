@@ -1,6 +1,6 @@
 {
   "description": "Sin ataduras, pero con amor: la medida justa de romance independiente.",
-  "num_followers": 106174,
+  "num_followers": 106182,
   "original_name": "Amor Indie",
   "owner": {
     "name": "Spotify",
@@ -955,22 +955,6 @@
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
-        "name": "Cursi",
-        "url": "https://open.spotify.com/album/0w2G1IC8jXzMtBn4Vzsi8M"
-      },
-      "artists": [
-        {
-          "name": "Yamila Ruiz",
-          "url": "https://open.spotify.com/artist/3Mh1fBv8JR5AhW6INfwiTl"
-        }
-      ],
-      "duration_ms": 193517,
-      "name": "Cursi",
-      "url": "https://open.spotify.com/track/2BJ1l2EOTZEiHnJdl2brlG"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
         "name": "sin dormir",
         "url": "https://open.spotify.com/album/2SYQZ048xVo5QFVddwryM8"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 180750,
       "name": "sin dormir",
       "url": "https://open.spotify.com/track/59UvXZfr6mHrJBRAuUE9sw"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
+        "name": "Cursi",
+        "url": "https://open.spotify.com/album/0w2G1IC8jXzMtBn4Vzsi8M"
+      },
+      "artists": [
+        {
+          "name": "Yamila Ruiz",
+          "url": "https://open.spotify.com/artist/3Mh1fBv8JR5AhW6INfwiTl"
+        }
+      ],
+      "duration_ms": 193517,
+      "name": "Cursi",
+      "url": "https://open.spotify.com/track/2BJ1l2EOTZEiHnJdl2brlG"
     },
     {
       "added_at": "2024-05-17 03:00:00",
@@ -1115,26 +1115,6 @@
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
-        "name": "Velocidad Crucero",
-        "url": "https://open.spotify.com/album/4Vk35EIEu45hRtoGEmq8e1"
-      },
-      "artists": [
-        {
-          "name": "Puebla",
-          "url": "https://open.spotify.com/artist/1PqKs6dNaJFy6qNgXEVCpm"
-        },
-        {
-          "name": "El pr\u00edncipe idiota",
-          "url": "https://open.spotify.com/artist/5xEgsOYkENDU9TRoKMWW3u"
-        }
-      ],
-      "duration_ms": 232947,
-      "name": "Velocidad Crucero",
-      "url": "https://open.spotify.com/track/3r1cIjl8iCoLYNK2XBr9zU"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
         "name": "Juntos",
         "url": "https://open.spotify.com/album/6Ncx8sbeQ6XziNq6qaVIw3"
       },
@@ -1151,6 +1131,26 @@
       "duration_ms": 181930,
       "name": "Juntos",
       "url": "https://open.spotify.com/track/574OhLjdADffJIg7wZojF6"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
+        "name": "Velocidad Crucero",
+        "url": "https://open.spotify.com/album/4Vk35EIEu45hRtoGEmq8e1"
+      },
+      "artists": [
+        {
+          "name": "Puebla",
+          "url": "https://open.spotify.com/artist/1PqKs6dNaJFy6qNgXEVCpm"
+        },
+        {
+          "name": "El pr\u00edncipe idiota",
+          "url": "https://open.spotify.com/artist/5xEgsOYkENDU9TRoKMWW3u"
+        }
+      ],
+      "duration_ms": 232947,
+      "name": "Velocidad Crucero",
+      "url": "https://open.spotify.com/track/3r1cIjl8iCoLYNK2XBr9zU"
     },
     {
       "added_at": "2024-05-17 03:00:00",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
-        "name": "Canci\u00f3n de Amor",
-        "url": "https://open.spotify.com/album/1hKLIs7yGEP0cQxbjr9Be4"
-      },
-      "artists": [
-        {
-          "name": "Pato Lange",
-          "url": "https://open.spotify.com/artist/7jAfHesb2NWA6wfJGDCdSx"
-        }
-      ],
-      "duration_ms": 199047,
-      "name": "Canci\u00f3n de Amor",
-      "url": "https://open.spotify.com/track/33xnoWnmKafzvUEi8Tjzay"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
         "name": "El Chiste",
         "url": "https://open.spotify.com/album/7fDf8SX4DoOTN17fYdTFnv"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 215000,
       "name": "El Chiste",
       "url": "https://open.spotify.com/track/0wCsEY6G4GxHQgETJg8Ys0"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
+        "name": "Canci\u00f3n de Amor",
+        "url": "https://open.spotify.com/album/1hKLIs7yGEP0cQxbjr9Be4"
+      },
+      "artists": [
+        {
+          "name": "Pato Lange",
+          "url": "https://open.spotify.com/artist/7jAfHesb2NWA6wfJGDCdSx"
+        }
+      ],
+      "duration_ms": 199047,
+      "name": "Canci\u00f3n de Amor",
+      "url": "https://open.spotify.com/track/33xnoWnmKafzvUEi8Tjzay"
     },
     {
       "added_at": "2024-05-17 03:00:00",
@@ -1507,22 +1507,22 @@
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
-        "name": "REGIO",
-        "url": "https://open.spotify.com/album/7yhpVJHiKdmCxt87S1G9Mw"
+        "name": "Por los Dos",
+        "url": "https://open.spotify.com/album/6DYzz9LO7qVPxJ27cf2pns"
       },
       "artists": [
         {
-          "name": "Filgueira",
-          "url": "https://open.spotify.com/artist/0DQLzv4MaQ0SbXa3lazZjU"
+          "name": "Panda Elliot",
+          "url": "https://open.spotify.com/artist/1NVbhUr3rgDRVbjAsbJIve"
         },
         {
-          "name": "Dulce y Agraz",
-          "url": "https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ"
+          "name": "Kevin Johansen",
+          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
         }
       ],
-      "duration_ms": 238000,
-      "name": "PISCINA OL\u00cdMPICA",
-      "url": "https://open.spotify.com/track/1fYEQiQR1aCFcfQDWw7hwt"
+      "duration_ms": 181622,
+      "name": "Por los Dos",
+      "url": "https://open.spotify.com/track/3H924Gfnwr6Lks83wpRVFe"
     },
     {
       "added_at": "2024-05-17 03:00:00",
@@ -1567,22 +1567,22 @@
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
-        "name": "Por los Dos",
-        "url": "https://open.spotify.com/album/6DYzz9LO7qVPxJ27cf2pns"
+        "name": "REGIO",
+        "url": "https://open.spotify.com/album/7yhpVJHiKdmCxt87S1G9Mw"
       },
       "artists": [
         {
-          "name": "Panda Elliot",
-          "url": "https://open.spotify.com/artist/1NVbhUr3rgDRVbjAsbJIve"
+          "name": "Filgueira",
+          "url": "https://open.spotify.com/artist/0DQLzv4MaQ0SbXa3lazZjU"
         },
         {
-          "name": "Kevin Johansen",
-          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
+          "name": "Dulce y Agraz",
+          "url": "https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ"
         }
       ],
-      "duration_ms": 181622,
-      "name": "Por los Dos",
-      "url": "https://open.spotify.com/track/3H924Gfnwr6Lks83wpRVFe"
+      "duration_ms": 238000,
+      "name": "PISCINA OL\u00cdMPICA",
+      "url": "https://open.spotify.com/track/1fYEQiQR1aCFcfQDWw7hwt"
     },
     {
       "added_at": "2024-05-17 03:00:00",
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
-        "name": "X AMOR",
-        "url": "https://open.spotify.com/album/4RhwgeqH9jfFBPptPeM7P1"
-      },
-      "artists": [
-        {
-          "name": "FLORIAN",
-          "url": "https://open.spotify.com/artist/6C3bLjpIfVoapHjMfpYAy2"
-        }
-      ],
-      "duration_ms": 242755,
-      "name": "X AMOR",
-      "url": "https://open.spotify.com/track/3dVxdzni1LpSrHY4trEbMK"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
         "name": "Domingo Escarlata",
         "url": "https://open.spotify.com/album/53tQQ7wzBRA6yJePou8jTf"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 229253,
       "name": "Domingo Escarlata",
       "url": "https://open.spotify.com/track/6AmMgsrkMwJhiDGXpuH0eo"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
+        "name": "X AMOR",
+        "url": "https://open.spotify.com/album/4RhwgeqH9jfFBPptPeM7P1"
+      },
+      "artists": [
+        {
+          "name": "FLORIAN",
+          "url": "https://open.spotify.com/artist/6C3bLjpIfVoapHjMfpYAy2"
+        }
+      ],
+      "duration_ms": 242755,
+      "name": "X AMOR",
+      "url": "https://open.spotify.com/track/3dVxdzni1LpSrHY4trEbMK"
     },
     {
       "added_at": "2024-05-17 03:00:00",

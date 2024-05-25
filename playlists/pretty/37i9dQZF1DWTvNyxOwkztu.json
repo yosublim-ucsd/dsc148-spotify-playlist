@@ -1,6 +1,6 @@
 {
   "description": "Just lean back and enjoy relaxed beats.",
-  "num_followers": 1921357,
+  "num_followers": 1921771,
   "original_name": "Chillout Lounge",
   "owner": {
     "name": "Spotify",
@@ -519,6 +519,22 @@
     {
       "added_at": "2023-11-27 18:00:00",
       "album": {
+        "name": "In Deep",
+        "url": "https://open.spotify.com/album/6db4KQXbbcBQ82ox62bVAm"
+      },
+      "artists": [
+        {
+          "name": "Beachwax",
+          "url": "https://open.spotify.com/artist/0FBeOkbRfYxk44W6AOooKr"
+        }
+      ],
+      "duration_ms": 171289,
+      "name": "In Deep",
+      "url": "https://open.spotify.com/track/28CuT91wRWdQtJU93Hm3ds"
+    },
+    {
+      "added_at": "2023-11-27 18:00:00",
+      "album": {
         "name": "The Lovers",
         "url": "https://open.spotify.com/album/2YVUSJsWAhCSQGCS7KrN11"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 204363,
       "name": "The Lovers",
       "url": "https://open.spotify.com/track/422o6ex3eHTXDc2DtOFh7R"
-    },
-    {
-      "added_at": "2023-11-27 18:00:00",
-      "album": {
-        "name": "In Deep",
-        "url": "https://open.spotify.com/album/6db4KQXbbcBQ82ox62bVAm"
-      },
-      "artists": [
-        {
-          "name": "Beachwax",
-          "url": "https://open.spotify.com/artist/0FBeOkbRfYxk44W6AOooKr"
-        }
-      ],
-      "duration_ms": 171289,
-      "name": "In Deep",
-      "url": "https://open.spotify.com/track/28CuT91wRWdQtJU93Hm3ds"
     },
     {
       "added_at": "2023-11-27 18:00:00",
@@ -959,8 +959,8 @@
     {
       "added_at": "2023-11-27 18:00:00",
       "album": {
-        "name": "Hold Me Down",
-        "url": "https://open.spotify.com/album/7MYSe2fPyBji4jffRM9L94"
+        "name": "Missing You",
+        "url": "https://open.spotify.com/album/2PWvvyNT4VeJZBf9OvlIXP"
       },
       "artists": [
         {
@@ -968,9 +968,9 @@
           "url": "https://open.spotify.com/artist/4PQtlNyUdOcwWl8VGWPcKB"
         }
       ],
-      "duration_ms": 148000,
-      "name": "Hold Me Down",
-      "url": "https://open.spotify.com/track/7ctUeZ8kwBfwS3ymOxqdWt"
+      "duration_ms": 148020,
+      "name": "Missing You",
+      "url": "https://open.spotify.com/track/1mf1rH0dbDHSYDJ97BrFwA"
     },
     {
       "added_at": "2023-11-27 18:00:00",
@@ -1087,8 +1087,8 @@
     {
       "added_at": "2023-11-27 18:00:00",
       "album": {
-        "name": "Missing You",
-        "url": "https://open.spotify.com/album/2PWvvyNT4VeJZBf9OvlIXP"
+        "name": "Hold Me Down",
+        "url": "https://open.spotify.com/album/7MYSe2fPyBji4jffRM9L94"
       },
       "artists": [
         {
@@ -1096,9 +1096,9 @@
           "url": "https://open.spotify.com/artist/4PQtlNyUdOcwWl8VGWPcKB"
         }
       ],
-      "duration_ms": 148020,
-      "name": "Missing You",
-      "url": "https://open.spotify.com/track/1mf1rH0dbDHSYDJ97BrFwA"
+      "duration_ms": 148000,
+      "name": "Hold Me Down",
+      "url": "https://open.spotify.com/track/7ctUeZ8kwBfwS3ymOxqdWt"
     },
     {
       "added_at": "2023-11-27 18:00:00",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2023-11-27 18:00:00",
       "album": {
-        "name": "Wings",
-        "url": "https://open.spotify.com/album/0vZb5GeHCfPZXGEYZVqnNj"
-      },
-      "artists": [
-        {
-          "name": "N\u00e4ver",
-          "url": "https://open.spotify.com/artist/1HRjMYr2iqidxK45p1lRM0"
-        }
-      ],
-      "duration_ms": 187075,
-      "name": "Wings",
-      "url": "https://open.spotify.com/track/6LUMBf6Tkb4ZKIihUYzzax"
-    },
-    {
-      "added_at": "2023-11-27 18:00:00",
-      "album": {
         "name": "Follow Me",
         "url": "https://open.spotify.com/album/5uf0wgEvW98JtVzU67BUZq"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 183529,
       "name": "Follow Me",
       "url": "https://open.spotify.com/track/0hdeBcZl6rdXSScMS6prYJ"
+    },
+    {
+      "added_at": "2023-11-27 18:00:00",
+      "album": {
+        "name": "Wings",
+        "url": "https://open.spotify.com/album/0vZb5GeHCfPZXGEYZVqnNj"
+      },
+      "artists": [
+        {
+          "name": "N\u00e4ver",
+          "url": "https://open.spotify.com/artist/1HRjMYr2iqidxK45p1lRM0"
+        }
+      ],
+      "duration_ms": 187075,
+      "name": "Wings",
+      "url": "https://open.spotify.com/track/6LUMBf6Tkb4ZKIihUYzzax"
     },
     {
       "added_at": "2023-11-27 18:00:00",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2023-11-27 18:00:00",
       "album": {
-        "name": "Babylon",
-        "url": "https://open.spotify.com/album/0EMCjRQIXRInbqSsVwvvUf"
-      },
-      "artists": [
-        {
-          "name": "Lak Host",
-          "url": "https://open.spotify.com/artist/6rsmOmkstPMAPmXCKJhgam"
-        }
-      ],
-      "duration_ms": 208421,
-      "name": "Babylon",
-      "url": "https://open.spotify.com/track/3phCbf2aKOilnmUdlSm0Uh"
-    },
-    {
-      "added_at": "2023-11-27 18:00:00",
-      "album": {
         "name": "Balearic Dream",
         "url": "https://open.spotify.com/album/3aOciSEOGtMXtMoLD6SL84"
       },
@@ -1299,18 +1283,18 @@
     {
       "added_at": "2023-11-27 18:00:00",
       "album": {
-        "name": "Sun Road",
-        "url": "https://open.spotify.com/album/4zt4I3llbETJPs7EOoJAJa"
+        "name": "Babylon",
+        "url": "https://open.spotify.com/album/0EMCjRQIXRInbqSsVwvvUf"
       },
       "artists": [
         {
-          "name": "Alinno",
-          "url": "https://open.spotify.com/artist/43Sajp33BHbRnUaDUrWQn7"
+          "name": "Lak Host",
+          "url": "https://open.spotify.com/artist/6rsmOmkstPMAPmXCKJhgam"
         }
       ],
-      "duration_ms": 194285,
-      "name": "Sun Road",
-      "url": "https://open.spotify.com/track/25R1QCYHhETbO5552Hxl4W"
+      "duration_ms": 208421,
+      "name": "Babylon",
+      "url": "https://open.spotify.com/track/3phCbf2aKOilnmUdlSm0Uh"
     },
     {
       "added_at": "2023-11-27 18:00:00",
@@ -1331,34 +1315,18 @@
     {
       "added_at": "2023-11-27 18:00:00",
       "album": {
-        "name": "Alike / Surface",
-        "url": "https://open.spotify.com/album/7bW443i5eXrdKMV2bXtOLk"
+        "name": "No Stress in Cres",
+        "url": "https://open.spotify.com/album/4R3hOElsUNXGykwoXwdsef"
       },
       "artists": [
         {
-          "name": "Jones Meadow",
-          "url": "https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR"
+          "name": "Sound Nomaden",
+          "url": "https://open.spotify.com/artist/1R4DbF6CAroRPIDBAkPIi0"
         }
       ],
-      "duration_ms": 195147,
-      "name": "Alike",
-      "url": "https://open.spotify.com/track/7eH248LazDFbqSZVWSUufn"
-    },
-    {
-      "added_at": "2023-11-27 18:00:00",
-      "album": {
-        "name": "You and You",
-        "url": "https://open.spotify.com/album/5AuiaAR7MlufyZJEbEv3Gp"
-      },
-      "artists": [
-        {
-          "name": "Mute Surrender",
-          "url": "https://open.spotify.com/artist/5bZqhvuRGrTo7qW6GABHbE"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "You and You",
-      "url": "https://open.spotify.com/track/5ti1L2WzlD71tWo8V9ZJjf"
+      "duration_ms": 291305,
+      "name": "No Stress in Cres",
+      "url": "https://open.spotify.com/track/0gRVYjk3IFVQBUtfdoLc5W"
     },
     {
       "added_at": "2023-11-27 18:00:00",
@@ -1379,18 +1347,18 @@
     {
       "added_at": "2023-11-27 18:00:00",
       "album": {
-        "name": "No Stress in Cres",
-        "url": "https://open.spotify.com/album/4R3hOElsUNXGykwoXwdsef"
+        "name": "Alike / Surface",
+        "url": "https://open.spotify.com/album/7bW443i5eXrdKMV2bXtOLk"
       },
       "artists": [
         {
-          "name": "Sound Nomaden",
-          "url": "https://open.spotify.com/artist/1R4DbF6CAroRPIDBAkPIi0"
+          "name": "Jones Meadow",
+          "url": "https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR"
         }
       ],
-      "duration_ms": 291305,
-      "name": "No Stress in Cres",
-      "url": "https://open.spotify.com/track/0gRVYjk3IFVQBUtfdoLc5W"
+      "duration_ms": 195147,
+      "name": "Alike",
+      "url": "https://open.spotify.com/track/7eH248LazDFbqSZVWSUufn"
     },
     {
       "added_at": "2023-11-27 18:00:00",
@@ -1411,34 +1379,34 @@
     {
       "added_at": "2023-11-27 18:00:00",
       "album": {
-        "name": "Hands Together",
-        "url": "https://open.spotify.com/album/5HYOtc2HyXAgComHOL981p"
+        "name": "You and You",
+        "url": "https://open.spotify.com/album/5AuiaAR7MlufyZJEbEv3Gp"
       },
       "artists": [
         {
-          "name": "SOL LOS",
-          "url": "https://open.spotify.com/artist/7kVyiWLcDMgRtgVbkXhnF8"
+          "name": "Mute Surrender",
+          "url": "https://open.spotify.com/artist/5bZqhvuRGrTo7qW6GABHbE"
         }
       ],
-      "duration_ms": 189289,
-      "name": "Hands Together",
-      "url": "https://open.spotify.com/track/0iF45VLtixkCC2X2EcJSwn"
+      "duration_ms": 201000,
+      "name": "You and You",
+      "url": "https://open.spotify.com/track/5ti1L2WzlD71tWo8V9ZJjf"
     },
     {
       "added_at": "2023-11-27 18:00:00",
       "album": {
-        "name": "flux de vibrations",
-        "url": "https://open.spotify.com/album/5alTmX5H7d7W8JTWQwxYM9"
+        "name": "Sun Road",
+        "url": "https://open.spotify.com/album/4zt4I3llbETJPs7EOoJAJa"
       },
       "artists": [
         {
-          "name": "Paon Bleu",
-          "url": "https://open.spotify.com/artist/4WYWCaNbo0tE3g7D3CEjzZ"
+          "name": "Alinno",
+          "url": "https://open.spotify.com/artist/43Sajp33BHbRnUaDUrWQn7"
         }
       ],
-      "duration_ms": 176052,
-      "name": "flux de vibrations",
-      "url": "https://open.spotify.com/track/44pzUk3UueCxKWuj8rbfvu"
+      "duration_ms": 194285,
+      "name": "Sun Road",
+      "url": "https://open.spotify.com/track/25R1QCYHhETbO5552Hxl4W"
     },
     {
       "added_at": "2023-11-27 18:00:00",
@@ -1459,6 +1427,22 @@
     {
       "added_at": "2023-11-27 18:00:00",
       "album": {
+        "name": "Hands Together",
+        "url": "https://open.spotify.com/album/5HYOtc2HyXAgComHOL981p"
+      },
+      "artists": [
+        {
+          "name": "SOL LOS",
+          "url": "https://open.spotify.com/artist/7kVyiWLcDMgRtgVbkXhnF8"
+        }
+      ],
+      "duration_ms": 189289,
+      "name": "Hands Together",
+      "url": "https://open.spotify.com/track/0iF45VLtixkCC2X2EcJSwn"
+    },
+    {
+      "added_at": "2023-11-27 18:00:00",
+      "album": {
         "name": "Unhappy Alien",
         "url": "https://open.spotify.com/album/4JpLIm5YrcMfhbNmrvVdjx"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 198260,
       "name": "Unhappy Alien",
       "url": "https://open.spotify.com/track/3O6FAjNGBUVPa5ahfMhucZ"
+    },
+    {
+      "added_at": "2023-11-27 18:00:00",
+      "album": {
+        "name": "flux de vibrations",
+        "url": "https://open.spotify.com/album/5alTmX5H7d7W8JTWQwxYM9"
+      },
+      "artists": [
+        {
+          "name": "Paon Bleu",
+          "url": "https://open.spotify.com/artist/4WYWCaNbo0tE3g7D3CEjzZ"
+        }
+      ],
+      "duration_ms": 176052,
+      "name": "flux de vibrations",
+      "url": "https://open.spotify.com/track/44pzUk3UueCxKWuj8rbfvu"
     },
     {
       "added_at": "2023-11-27 18:00:00",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2023-11-27 18:00:00",
       "album": {
-        "name": "Suen\u0303o Lu\u0301cido",
-        "url": "https://open.spotify.com/album/1wHV1TO3GZcKhZGVVaKVPD"
-      },
-      "artists": [
-        {
-          "name": "Ralf",
-          "url": "https://open.spotify.com/artist/4UIhkghagHG8sGJ3GO75HR"
-        }
-      ],
-      "duration_ms": 245106,
-      "name": "Suen\u0303o Lu\u0301cido",
-      "url": "https://open.spotify.com/track/1ayTVANYOoKTwwekSaRUmx"
-    },
-    {
-      "added_at": "2023-11-27 18:00:00",
-      "album": {
         "name": "Informalit\u00e9",
         "url": "https://open.spotify.com/album/0pzkss5ToOuqq0XPazOyWQ"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 171704,
       "name": "Informalit\u00e9",
       "url": "https://open.spotify.com/track/26dZCWHzlsHuuoaMdpdzfK"
+    },
+    {
+      "added_at": "2023-11-27 18:00:00",
+      "album": {
+        "name": "Suen\u0303o Lu\u0301cido",
+        "url": "https://open.spotify.com/album/1wHV1TO3GZcKhZGVVaKVPD"
+      },
+      "artists": [
+        {
+          "name": "Ralf",
+          "url": "https://open.spotify.com/artist/4UIhkghagHG8sGJ3GO75HR"
+        }
+      ],
+      "duration_ms": 245106,
+      "name": "Suen\u0303o Lu\u0301cido",
+      "url": "https://open.spotify.com/track/1ayTVANYOoKTwwekSaRUmx"
     },
     {
       "added_at": "2023-11-27 18:00:00",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2023-11-27 18:00:00",
       "album": {
-        "name": "Adore",
-        "url": "https://open.spotify.com/album/6FTW4vthpJX9HeB97mtvh4"
-      },
-      "artists": [
-        {
-          "name": "Apsa",
-          "url": "https://open.spotify.com/artist/6DDiYDtHywDhJPGHDCSKzm"
-        }
-      ],
-      "duration_ms": 122076,
-      "name": "Adore",
-      "url": "https://open.spotify.com/track/2elyvOdJyP3b0h0FxM7BqT"
-    },
-    {
-      "added_at": "2023-11-27 18:00:00",
-      "album": {
         "name": "Ray of Light",
         "url": "https://open.spotify.com/album/40cUksrjQvtzoCmKDMskYE"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 228130,
       "name": "Ray of Light",
       "url": "https://open.spotify.com/track/52qHDEnksl0jZt3OJHDi3i"
+    },
+    {
+      "added_at": "2023-11-27 18:00:00",
+      "album": {
+        "name": "Adore",
+        "url": "https://open.spotify.com/album/6FTW4vthpJX9HeB97mtvh4"
+      },
+      "artists": [
+        {
+          "name": "Apsa",
+          "url": "https://open.spotify.com/artist/6DDiYDtHywDhJPGHDCSKzm"
+        }
+      ],
+      "duration_ms": 122076,
+      "name": "Adore",
+      "url": "https://open.spotify.com/track/2elyvOdJyP3b0h0FxM7BqT"
     },
     {
       "added_at": "2023-11-27 18:00:00",

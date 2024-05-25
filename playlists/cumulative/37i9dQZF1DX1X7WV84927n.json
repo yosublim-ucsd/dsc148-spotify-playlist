@@ -342,7 +342,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 207000,
       "name": "Afterthought",
       "url": "https://open.spotify.com/track/0jlTSi7hiKoY8sAMC4inPD"
@@ -1538,7 +1538,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-23",
+      "date_removed": null,
       "duration_ms": 199412,
       "name": "Breaking Up With",
       "url": "https://open.spotify.com/track/5hJwhnnKiTgP3VySgUx5Xq"
@@ -3873,6 +3873,24 @@
     },
     {
       "album": {
+        "name": "Paper Hearts",
+        "url": "https://open.spotify.com/album/4di62gnBZPDefkKwMBLXPb"
+      },
+      "artists": [
+        {
+          "name": "Sleep Theory",
+          "url": "https://open.spotify.com/artist/26eBHxdouBH2KB7P6Oi9HN"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197400,
+      "name": "Fallout",
+      "url": "https://open.spotify.com/track/2RrDkTF6bgjgYsYN5HaaFB"
+    },
+    {
+      "album": {
         "name": "Navarro Hawkins Chaney",
         "url": "https://open.spotify.com/album/4YswVN1wR0MDc6JaqizLFp"
       },
@@ -4922,6 +4940,24 @@
       "duration_ms": 266171,
       "name": "Heartbreaker",
       "url": "https://open.spotify.com/track/63UXzJ8Rc6AebrdvyqQDEg"
+    },
+    {
+      "album": {
+        "name": "HEAT ME UP",
+        "url": "https://open.spotify.com/album/71aOtUp6xHip01jrsaYLCt"
+      },
+      "artists": [
+        {
+          "name": "Boston Manor",
+          "url": "https://open.spotify.com/artist/4WjeQi9wm84lYTIWZ95QoM"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225600,
+      "name": "HEAT ME UP",
+      "url": "https://open.spotify.com/track/0ZI1XuZlawgTXIvo9nle6l"
     },
     {
       "album": {
@@ -8052,7 +8088,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 167441,
       "name": "Nights Like This",
       "url": "https://open.spotify.com/track/3aUhjXdxNRjzRK4A5RDtYw"
@@ -8852,7 +8888,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 219775,
       "name": "PLAYING FAVORITES",
       "url": "https://open.spotify.com/track/5tX2K6XrciEGZeMPEyNA0t"
@@ -9138,6 +9174,28 @@
       "duration_ms": 264378,
       "name": "Rapture",
       "url": "https://open.spotify.com/track/3uCpte70PE6uYZlbByKv7L"
+    },
+    {
+      "album": {
+        "name": "RATATATA",
+        "url": "https://open.spotify.com/album/4DccXktGbSRsgUoBvH8EN7"
+      },
+      "artists": [
+        {
+          "name": "BABYMETAL",
+          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
+        },
+        {
+          "name": "Electric Callboy",
+          "url": "https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216428,
+      "name": "RATATATA",
+      "url": "https://open.spotify.com/track/14WYmNQWvR2TTWoRp8t9Ml"
     },
     {
       "album": {
@@ -9704,7 +9762,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 162985,
       "name": "Save Me",
       "url": "https://open.spotify.com/track/0RjcttPdd5liyxS8BJtBEc"
@@ -10162,7 +10220,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 206333,
       "name": "Sliding Doors",
       "url": "https://open.spotify.com/track/0XlDSx6DftEGmjOS2TQ8wL"
@@ -12088,7 +12146,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-19",
+      "date_removed": null,
       "duration_ms": 231204,
       "name": "Tired Of Lying",
       "url": "https://open.spotify.com/track/1ipYgQ1THFKqTBH5D5Cg25"

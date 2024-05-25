@@ -381,6 +381,24 @@
     },
     {
       "album": {
+        "name": "BRASIL",
+        "url": "https://open.spotify.com/album/4MUNeE0o3Y8uNm3umGmSf1"
+      },
+      "artists": [
+        {
+          "name": "Sila Lua",
+          "url": "https://open.spotify.com/artist/1s0SFRaivMSqrjS3C3R7xR"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149454,
+      "name": "BRASIL",
+      "url": "https://open.spotify.com/track/7uQJMBaqkHLselTqT5WoCO"
+    },
+    {
+      "album": {
         "name": "Brinca",
         "url": "https://open.spotify.com/album/4jLqHMNoB6G1idIYYwrtgH"
       },
@@ -612,7 +630,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 157983,
       "name": "Cuchi Cuchi",
       "url": "https://open.spotify.com/track/42rwnXA394j5b1pdGQUMCn"
@@ -810,7 +828,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 159364,
       "name": "Favela",
       "url": "https://open.spotify.com/track/3fwV3Xdykj9ymzTEvVco52"
@@ -978,7 +996,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 140459,
       "name": "GUSTOSA",
       "url": "https://open.spotify.com/track/7H3kGnOJWMlPqBLQ0OEYBb"
@@ -1088,7 +1106,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 170169,
       "name": "Kalma Kenga (feat. MC Zuka)",
       "url": "https://open.spotify.com/track/7nEBiG7mu5InAvVxiHmWYK"
@@ -1275,6 +1293,28 @@
     },
     {
       "album": {
+        "name": "GRASA",
+        "url": "https://open.spotify.com/album/2ab0PTJ5OG7I6YfSqpDFZv"
+      },
+      "artists": [
+        {
+          "name": "NATHY PELUSO",
+          "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
+        },
+        {
+          "name": "Lua de Santana",
+          "url": "https://open.spotify.com/artist/1SCoi5U37R1KbEQHuKKgam"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128285,
+      "name": "MENINA",
+      "url": "https://open.spotify.com/track/3onV4DvwEsb4qsYCWlLypt"
+    },
+    {
+      "album": {
         "name": "Milagrosa",
         "url": "https://open.spotify.com/album/2Ri7SdWvj5PNtbVxrMDq3t"
       },
@@ -1378,6 +1418,28 @@
       "duration_ms": 218278,
       "name": "M\u00c1S",
       "url": "https://open.spotify.com/track/5iLWDsr5fABDTIQZT3Ts5g"
+    },
+    {
+      "album": {
+        "name": "Naija Funk",
+        "url": "https://open.spotify.com/album/10MuD6qY8FZx08xgnlJc7O"
+      },
+      "artists": [
+        {
+          "name": "Azanti",
+          "url": "https://open.spotify.com/artist/72JYdP98St11Hga6yN2PGl"
+        },
+        {
+          "name": "PsychoYP",
+          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126213,
+      "name": "Naija Funk",
+      "url": "https://open.spotify.com/track/368hIemlcjDPQuYulhJrHE"
     },
     {
       "album": {
@@ -1496,6 +1558,28 @@
       "duration_ms": 208615,
       "name": "PANAMERA (feat. Djay W)",
       "url": "https://open.spotify.com/track/4oz9vFuQjXdqaDVcdZ2ZHY"
+    },
+    {
+      "album": {
+        "name": "para t\u00b4",
+        "url": "https://open.spotify.com/album/7qzSUQba7kVJKkaZTkK5n2"
+      },
+      "artists": [
+        {
+          "name": "Nicran",
+          "url": "https://open.spotify.com/artist/69xdOGu3fkbG4stnweWSH1"
+        },
+        {
+          "name": "Douzers",
+          "url": "https://open.spotify.com/artist/2qNYkU8jbtzoLRphy5GS4N"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198221,
+      "name": "para t\u00b4",
+      "url": "https://open.spotify.com/track/035doT8VhoYjM8UfJCdbNU"
     },
     {
       "album": {

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0yp56w.md) - [plain]
 
 ### [This Is Muse](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0yp56w)
 
-> This Is Muse\. Les titres incontournables, réunis dans une seule et même playlist.
+> This Is Muse\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 771,388 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 771,490 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0yp56w.md) - [plain]
 | 49 | [Showbiz](https://open.spotify.com/track/2sCFFlnYg6Lk75GCcfSXEz) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Showbiz](https://open.spotify.com/album/6AyUVv7MnxxTuijp4WmrhO) | 5:17 |
 | 50 | [Algorithm](https://open.spotify.com/track/7f0vVL3xi4i78Rv5Ptn2s1) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Simulation Theory \(Super Deluxe\)](https://open.spotify.com/album/5OZgDtx180ZZPMpm36J2zC) | 4:05 |
 
-Snapshot ID: `Zk01gAAAAADan13vO1cIuguPMTE0d7bz`
+Snapshot ID: `Zk6HAAAAAADVxMvL8kX+zopY6tf/Yxns`

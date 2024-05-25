@@ -1,6 +1,6 @@
 {
   "description": "Celebre o nascimento de Jesus com louvores natalinos!",
-  "num_followers": 8165,
+  "num_followers": 8163,
   "original_name": "Louvores de Natal",
   "owner": {
     "name": "Spotify",
@@ -363,6 +363,22 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
+        "name": "O Natal de Todos N\u00f3s",
+        "url": "https://open.spotify.com/album/75oUMpemNX3oJtjmbPLdxB"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 219920,
+      "name": "Nasce Jesus",
+      "url": "https://open.spotify.com/track/7CSgp6bjKNHoKQgVzyilaM"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
         "name": "Apaixonado",
         "url": "https://open.spotify.com/album/1MCml2KLtS3X9Ld3ACxMMp"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 337537,
       "name": "Apaixonado",
       "url": "https://open.spotify.com/track/0X7p8fytxMhvzzxaPJcDJk"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
-        "name": "O Natal de Todos N\u00f3s",
-        "url": "https://open.spotify.com/album/75oUMpemNX3oJtjmbPLdxB"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 219920,
-      "name": "Nasce Jesus",
-      "url": "https://open.spotify.com/track/7CSgp6bjKNHoKQgVzyilaM"
     },
     {
       "added_at": "2023-12-22 03:00:00",

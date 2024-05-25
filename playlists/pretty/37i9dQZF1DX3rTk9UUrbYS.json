@@ -1,13 +1,33 @@
 {
   "description": "Avant-garde, experimental and free jazz.",
-  "num_followers": 54407,
+  "num_followers": 54441,
   "original_name": "Avant-Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZeFhDAAAAAC1ogRGK9juL64ag0BT0BJw",
+  "snapshot_id": "ZlAQwAAAAACQDMugSCfB6HgAdGcBH1Hv",
   "tracks": [
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "LEGACY",
+        "url": "https://open.spotify.com/album/7AyeG0N0sstxc0YRWdawE4"
+      },
+      "artists": [
+        {
+          "name": "Paolo Fresu",
+          "url": "https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi"
+        },
+        {
+          "name": "Uri Caine",
+          "url": "https://open.spotify.com/artist/1l10UPSXfbHFvNnDN7kgbA"
+        }
+      ],
+      "duration_ms": 197517,
+      "name": "ANTRACITE",
+      "url": "https://open.spotify.com/track/6dI34ifmnK54makfHsZ74r"
+    },
     {
       "added_at": "2024-03-01 05:01:00",
       "album": {
@@ -691,22 +711,6 @@
       "duration_ms": 105358,
       "name": "WW5",
       "url": "https://open.spotify.com/track/20eRgezPfayeiPh1smIufM"
-    },
-    {
-      "added_at": "2021-11-19 05:02:00",
-      "album": {
-        "name": "Winns Win",
-        "url": "https://open.spotify.com/album/0E9mxK9RuUzjHFkKmBnQlb"
-      },
-      "artists": [
-        {
-          "name": "Evan Parker",
-          "url": "https://open.spotify.com/artist/42WVIJPKijZYsOWhNqnAke"
-        }
-      ],
-      "duration_ms": 200570,
-      "name": "WW1",
-      "url": "https://open.spotify.com/track/4SG33WjhoWeytudIUA6vMn"
     },
     {
       "added_at": "2020-08-25 21:55:35",

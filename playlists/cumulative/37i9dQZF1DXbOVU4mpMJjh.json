@@ -10091,6 +10091,24 @@
     },
     {
       "album": {
+        "name": "Late At Night",
+        "url": "https://open.spotify.com/album/3lMYHC4ZL9xYxsp5yysMKl"
+      },
+      "artists": [
+        {
+          "name": "Wildflower Trio",
+          "url": "https://open.spotify.com/artist/201JTvpknVv2BZgtwDaQH6"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188371,
+      "name": "Late At Night",
+      "url": "https://open.spotify.com/track/2hs7iNULNKcfbFpLsyazEz"
+    },
+    {
+      "album": {
         "name": "Late Bagatelle",
         "url": "https://open.spotify.com/album/1rn3qFrQqF1w4uKBU0mnhW"
       },
@@ -12432,7 +12450,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 283429,
       "name": "My Foolish Heart",
       "url": "https://open.spotify.com/track/7zLJoMkTqAZMfQOfRorCEc"
@@ -20119,6 +20137,24 @@
     },
     {
       "album": {
+        "name": "Walking You Home",
+        "url": "https://open.spotify.com/album/3SJawp8ghUJ2HrbZ8kcpKi"
+      },
+      "artists": [
+        {
+          "name": "Mino Conte & Co",
+          "url": "https://open.spotify.com/artist/1kzntvfEnEvuhMeA3IcaZi"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179416,
+      "name": "Walking You Home",
+      "url": "https://open.spotify.com/track/0FGssXb5s6d7QPLFQLE4OO"
+    },
+    {
+      "album": {
         "name": "Wallflower",
         "url": "https://open.spotify.com/album/3tzw5TaV9l6hhMczQiTSPK"
       },
@@ -21150,7 +21186,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 214455,
       "name": "Would You Mind?",
       "url": "https://open.spotify.com/track/4CC7JBuwQKHCSCxf5hc6SK"

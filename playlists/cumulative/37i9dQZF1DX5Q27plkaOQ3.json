@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "All <a href=\"spotify:genre:bass\">wobble</a>. Cover: Wooli and SampliFire",
+  "description": "All <a href=\"spotify:genre:bass\">wobble</a>. Cover: JAWNS",
   "name": "Dubstep Don",
   "tracks": [
     {
@@ -576,7 +576,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 235200,
       "name": "ARRIVAL",
       "url": "https://open.spotify.com/track/4yYtaejsDLVlgd4DOAN6xE"
@@ -1254,7 +1254,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 256000,
       "name": "Big Boss - Zomboy Remix",
       "url": "https://open.spotify.com/track/22HbOaQNUoOQ9jQ5TRpvkD"
@@ -1449,6 +1449,24 @@
     },
     {
       "album": {
+        "name": "BLUDGEON",
+        "url": "https://open.spotify.com/album/0CSke85jF5vljIhbjYBS6h"
+      },
+      "artists": [
+        {
+          "name": "MARAUDA",
+          "url": "https://open.spotify.com/artist/3YLUvWzk9eBm1WrHFlZxM4"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177230,
+      "name": "BLUDGEON",
+      "url": "https://open.spotify.com/track/0eCgjHLjV9rXpqykWiTtnp"
+    },
+    {
+      "album": {
         "name": "Bone Breaker",
         "url": "https://open.spotify.com/album/04CwA0cKXWaySTpciO8vcx"
       },
@@ -1504,6 +1522,24 @@
       "duration_ms": 167176,
       "name": "BOSS FIGHT",
       "url": "https://open.spotify.com/track/4LLfFnU48vESdgSHR7WeqR"
+    },
+    {
+      "album": {
+        "name": "Brace For Impact",
+        "url": "https://open.spotify.com/album/3hiolKfmBVOqGpiujLG6pu"
+      },
+      "artists": [
+        {
+          "name": "PhaseOne",
+          "url": "https://open.spotify.com/artist/0mO3Yf5XIPHfAbHh8yWLFk"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210857,
+      "name": "Brace For Impact",
+      "url": "https://open.spotify.com/track/0JbcUVu5mlSJBkRLuVPYW2"
     },
     {
       "album": {
@@ -2714,7 +2750,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 278601,
       "name": "Dawn of Redemption",
       "url": "https://open.spotify.com/track/4BBU8HdsVCAHkWle8IYJ1M"
@@ -4338,7 +4374,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 147310,
       "name": "Feel Nothing",
       "url": "https://open.spotify.com/track/2KUlPVz7UTeOh11er0lYRI"
@@ -5604,6 +5640,24 @@
       "duration_ms": 184759,
       "name": "Heavyweights",
       "url": "https://open.spotify.com/track/5RLo69t3nlQ5YwXsJTYH5i"
+    },
+    {
+      "album": {
+        "name": "Dogwater",
+        "url": "https://open.spotify.com/album/6SXovZDtjTYPfYTZ0yVxHx"
+      },
+      "artists": [
+        {
+          "name": "JAWNS",
+          "url": "https://open.spotify.com/artist/5dXHoJzpLuiEug5rSXeCib"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156444,
+      "name": "Hertz Donut",
+      "url": "https://open.spotify.com/track/6sAaasAUka6mKyyOTQUJPk"
     },
     {
       "album": {
@@ -7231,6 +7285,28 @@
     },
     {
       "album": {
+        "name": "MELLOFIRE",
+        "url": "https://open.spotify.com/album/0EFGzNvzeRJEwYzxDiavHd"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "SampliFire",
+          "url": "https://open.spotify.com/artist/57gGqESEggWfCpE3KOzdVa"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "MELLOFIRE",
+      "url": "https://open.spotify.com/track/050CY7MuMkVwG6SQFGEeTQ"
+    },
+    {
+      "album": {
         "name": "Mellow Man",
         "url": "https://open.spotify.com/album/7GuzEc0bwqnJVQGSavefCD"
       },
@@ -8308,7 +8384,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 139805,
       "name": "Old School",
       "url": "https://open.spotify.com/track/6ctmKiHf2CcHQLwT7g4jpc"
@@ -10556,7 +10632,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 158896,
       "name": "Shibuya",
       "url": "https://open.spotify.com/track/0COch7JwRyW0c7N8eZTC5w"
@@ -11030,7 +11106,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 199384,
       "name": "Sonic Resonator",
       "url": "https://open.spotify.com/track/6ykdS4Q9JVgnpPmHO17nnT"
@@ -11334,7 +11410,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 256730,
       "name": "Step Five",
       "url": "https://open.spotify.com/track/2cZGfZoxO1WS0BRCaZochU"
@@ -11990,10 +12066,36 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 197142,
       "name": "Tekno Music",
       "url": "https://open.spotify.com/track/28lZSKBhkzduEmBQQPy4PV"
+    },
+    {
+      "album": {
+        "name": "Tekno Music (XOTIX Remix)",
+        "url": "https://open.spotify.com/album/49jFMzasvdBd0DTdKTYeL4"
+      },
+      "artists": [
+        {
+          "name": "Riot Ten",
+          "url": "https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ"
+        },
+        {
+          "name": "Emorfik",
+          "url": "https://open.spotify.com/artist/34bGTqa9HJUnf14IOHt6pc"
+        },
+        {
+          "name": "Xotix",
+          "url": "https://open.spotify.com/artist/4U9672jXtdpL01GCOiX7TW"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171857,
+      "name": "Tekno Music - XOTIX Remix",
+      "url": "https://open.spotify.com/track/5UvedNYDAP5mxOnbFyUJvR"
     },
     {
       "album": {
@@ -12096,6 +12198,24 @@
       "duration_ms": 276800,
       "name": "The Blood (VIP)",
       "url": "https://open.spotify.com/track/4QwU0k7uWf4yG104CAEsCv"
+    },
+    {
+      "album": {
+        "name": "The Death of Peace of Mind",
+        "url": "https://open.spotify.com/album/270jnkgTvKVheWZo2tuwq9"
+      },
+      "artists": [
+        {
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241600,
+      "name": "The Death of Peace of Mind",
+      "url": "https://open.spotify.com/track/0RdjR5hi21VHLkbWCcs5Lb"
     },
     {
       "album": {
@@ -12667,6 +12787,32 @@
     },
     {
       "album": {
+        "name": "Torture",
+        "url": "https://open.spotify.com/album/4ZVt3DEEjQaFCfloBApGl0"
+      },
+      "artists": [
+        {
+          "name": "NGHTMRE",
+          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
+        },
+        {
+          "name": "Franky Nuts",
+          "url": "https://open.spotify.com/artist/3YZPramylP3cGeVkbykhVZ"
+        },
+        {
+          "name": "DeathbyRomy",
+          "url": "https://open.spotify.com/artist/7aWpPjjgItUnXljFxYYKZI"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232000,
+      "name": "Torture",
+      "url": "https://open.spotify.com/track/5eo1iLxmJK3D4SXdDxY0Xr"
+    },
+    {
+      "album": {
         "name": "TOTAL CHAOS",
         "url": "https://open.spotify.com/album/7JXFzl3crMbjFyfKomVIHO"
       },
@@ -13209,6 +13355,24 @@
     },
     {
       "album": {
+        "name": "Wanna Do",
+        "url": "https://open.spotify.com/album/1C8uvO38FqXkqE5zi1u2U6"
+      },
+      "artists": [
+        {
+          "name": "Wodd",
+          "url": "https://open.spotify.com/artist/3TFrAhV5T8qgFOhpaQlUHG"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258206,
+      "name": "Wanna Do",
+      "url": "https://open.spotify.com/track/3MiPwfSysqGrIWzY29wJtc"
+    },
+    {
+      "album": {
         "name": "SACRIFICE EP",
         "url": "https://open.spotify.com/album/5l81wifWFUn2LD5m4MlNgh"
       },
@@ -13412,6 +13576,24 @@
       "duration_ms": 171200,
       "name": "Who's In Charge",
       "url": "https://open.spotify.com/track/3MIcrZ8GZy7ckksxs3lGLd"
+    },
+    {
+      "album": {
+        "name": "Whoah, Fire!",
+        "url": "https://open.spotify.com/album/0n9MXGkIxBwC0NvHH1wzvD"
+      },
+      "artists": [
+        {
+          "name": "Mport",
+          "url": "https://open.spotify.com/artist/0TQIx7Ez77HgFFk4bhIuuF"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188689,
+      "name": "Whoah, Fire!",
+      "url": "https://open.spotify.com/track/1m3PihD00HUc3eNeabNCEg"
     },
     {
       "album": {

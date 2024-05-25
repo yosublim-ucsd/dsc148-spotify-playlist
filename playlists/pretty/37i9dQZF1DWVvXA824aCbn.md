@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVvXA824aCbn.md) - [plain]
 
 > A relaxing atmosphere of Jazz piano sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 574,589 likes - 350 songs - 21 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 574,584 likes - 350 songs - 21 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -176,9 +176,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVvXA824aCbn.md) - [plain]
 | 166 | [First Day on Set](https://open.spotify.com/track/3xhMWYa8ricKp1NN8TVQyS) | [Clover Post](https://open.spotify.com/artist/2XWP1prJQm6CLoHKAqXCEz) | [First Day on Set](https://open.spotify.com/album/5makhM7JhUfTSWwBNq90Nv) | 2:47 |
 | 167 | [Akaishi](https://open.spotify.com/track/5npOIRaqGTVT5Ur8cf4i4K) | [Moonside Trio](https://open.spotify.com/artist/2ao6PMtoUQBZfUGTP5IVAA) | [Akaishi](https://open.spotify.com/album/4wTd18kaoayJm6JDQmiS1e) | 3:50 |
 | 168 | [Jazz Noir](https://open.spotify.com/track/34X5CVjvYwM4yaPY1D8bAd) | [Sparrow & Bird](https://open.spotify.com/artist/1j7mprvrngD7wjbXtlVQ3d) | [Jazz Noir](https://open.spotify.com/album/3C4NdEsW6ibEIqZbXkxNf9) | 3:47 |
-| 169 | [Last Summer](https://open.spotify.com/track/3ERr9IOEMrkEOLtyGWh4vX) | [Benjamine Hans](https://open.spotify.com/artist/7gEDhVsbRiapQyIVdBeoCr) | [Last Summer](https://open.spotify.com/album/0AnWKmlzLJbpm6K4FyMNT2) | 2:27 |
-| 170 | [Butterfly Princess](https://open.spotify.com/track/1kLzeHGRyVzACePnPikgsy) | [Midnight Sound Band](https://open.spotify.com/artist/17OGBXahBsPFrJWsHMhRzJ) | [She Stole My Heart](https://open.spotify.com/album/3VbY9AQXZ53DjldLT4sb23) | 3:39 |
-| 171 | [Stormy Weather](https://open.spotify.com/track/1S34dvZPhsw0gIevtZrc0A) | [Rudy Winston](https://open.spotify.com/artist/0eg5Y6qtyXmuDqBqEHbJ6L) | [Stormy Weather](https://open.spotify.com/album/1kLUIm38l7rUPoXJNe2ShN) | 3:12 |
+| 169 | [Butterfly Princess](https://open.spotify.com/track/1kLzeHGRyVzACePnPikgsy) | [Midnight Sound Band](https://open.spotify.com/artist/17OGBXahBsPFrJWsHMhRzJ) | [She Stole My Heart](https://open.spotify.com/album/3VbY9AQXZ53DjldLT4sb23) | 3:39 |
+| 170 | [Stormy Weather](https://open.spotify.com/track/1S34dvZPhsw0gIevtZrc0A) | [Rudy Winston](https://open.spotify.com/artist/0eg5Y6qtyXmuDqBqEHbJ6L) | [Stormy Weather](https://open.spotify.com/album/1kLUIm38l7rUPoXJNe2ShN) | 3:12 |
+| 171 | [Last Summer](https://open.spotify.com/track/3ERr9IOEMrkEOLtyGWh4vX) | [Benjamine Hans](https://open.spotify.com/artist/7gEDhVsbRiapQyIVdBeoCr) | [Last Summer](https://open.spotify.com/album/0AnWKmlzLJbpm6K4FyMNT2) | 2:27 |
 | 172 | [In Bloom](https://open.spotify.com/track/1vHdsEJac4TZE9xycHHcdj) | [High North Trio](https://open.spotify.com/artist/4ecpTLtCqe62hwHasUcfUY) | [A Sunday Kind Of Love](https://open.spotify.com/album/6AuNg5Zym7yfX7rgdy6BAW) | 2:54 |
 | 173 | [You're A Rainbow](https://open.spotify.com/track/79Or4J2Ka8SUSVZjSrZGBz) | [Paul Moretti Trio](https://open.spotify.com/artist/13xgTeeJ91pCS0JYRCL41b) | [Love In Your Arms](https://open.spotify.com/album/16GmRGoCxQ2Iz61Sf02p5o) | 4:15 |
 | 174 | [A Lucky Break](https://open.spotify.com/track/7uINJ9uuLyurxRS7DrLRX0) | [Tore Lundblad](https://open.spotify.com/artist/4zNremLzDLV4qylYjP0nR2) | [A Lucky Break](https://open.spotify.com/album/4NDm0E97njkJoQ7KlsOn7d) | 3:09 |
@@ -265,8 +265,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVvXA824aCbn.md) - [plain]
 | 255 | [Song for Elmore](https://open.spotify.com/track/5XPbZCjTZ8XQEGUiNoKopS) | [Norris Walker Trio](https://open.spotify.com/artist/2AOwERyiRRzThecI5m7xK9) | [Song for Elmore](https://open.spotify.com/album/4ClRkE0o2Yu4e7YK2Cg602) | 3:16 |
 | 256 | [Spring Will Be a Little Late This Year](https://open.spotify.com/track/6Rv2CtJxWX6Kg7hppcZkAm) | [Neo Fourths Trio](https://open.spotify.com/artist/5lWDE7rJapJvf0NUUHc6xe) | [Spring Will Be a Little Late This Year](https://open.spotify.com/album/6E3oiM7hAqeUcw7zEM5kil) | 3:07 |
 | 257 | [Slide](https://open.spotify.com/track/3ZAS8KpfVyIbd5QU53gypW) | [Hara Noda](https://open.spotify.com/artist/6ezFSYpcIHmJfQ0ZrGQmyh) | [Catcher](https://open.spotify.com/album/2kUpjLxnQsEQ2wvzCw4Nsg) | 3:10 |
-| 258 | [Stars Fell On Alabama](https://open.spotify.com/track/6V9XxCoJ9Ujckla3A0aUYL) | [Mark Roswell Trio](https://open.spotify.com/artist/5LyofWLANV5qojc0VHqh6i) | [Stars Fell On Alabama](https://open.spotify.com/album/1jJKCnldeVDpCo5p7DFXJp) | 4:04 |
-| 259 | [For A Few Moments](https://open.spotify.com/track/2tPzgXWut2hoMjVSSb7tco) | [Ben Lively](https://open.spotify.com/artist/4v25mHy55qBXJ4WZg3O7UV) | [For A Few Moments](https://open.spotify.com/album/7nIdnKKZSTzvwnCx4qAq9A) | 3:28 |
+| 258 | [For A Few Moments](https://open.spotify.com/track/2tPzgXWut2hoMjVSSb7tco) | [Ben Lively](https://open.spotify.com/artist/4v25mHy55qBXJ4WZg3O7UV) | [For A Few Moments](https://open.spotify.com/album/7nIdnKKZSTzvwnCx4qAq9A) | 3:28 |
+| 259 | [Stars Fell On Alabama](https://open.spotify.com/track/6V9XxCoJ9Ujckla3A0aUYL) | [Mark Roswell Trio](https://open.spotify.com/artist/5LyofWLANV5qojc0VHqh6i) | [Stars Fell On Alabama](https://open.spotify.com/album/1jJKCnldeVDpCo5p7DFXJp) | 4:04 |
 | 260 | [Whispers of the Forest](https://open.spotify.com/track/5SJm0GUkKjN3GzJQdwY8RS) | [Arthur Taylor Trio](https://open.spotify.com/artist/5jwt0e3bddxJFS0qGhvv9n) | [Whispers of the Forest](https://open.spotify.com/album/6j4y9U6qH8AiJPOudBRWLR) | 3:27 |
 | 261 | [All Your Love](https://open.spotify.com/track/5yeAueY8i94ZgDhYrrtqAy) | [Joe Wilson Trio](https://open.spotify.com/artist/3K1jFkuCruS7nx1GbWvH8E) | [All Your Love](https://open.spotify.com/album/1ue4TwX3fJ4SoaD9BuXaID) | 2:44 |
 | 262 | [Going Our Separate Ways](https://open.spotify.com/track/5gk8Zfd0JaAEfSmxr57xdg) | [Dusty Diamond Trio](https://open.spotify.com/artist/1FAFvLZfHJDhpfzib7ple0) | [Moonlight Hour](https://open.spotify.com/album/6dEcOLbZYo356tByGTH8Ff) | 4:08 |
@@ -303,8 +303,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVvXA824aCbn.md) - [plain]
 | 293 | [East of the Sun \(and West of the Moon\)](https://open.spotify.com/track/4FONhpQFrEZI46uvAOi8OK) | [Al Fowler Trio](https://open.spotify.com/artist/5CerxxaCrkjDa5ShjsTwcX) | [East of the Sun \(and West of the Moon\)](https://open.spotify.com/album/3m9hWHNQW4BoqIzx6oKd7w) | 3:26 |
 | 294 | [It Never Entered My Mind](https://open.spotify.com/track/221sAu49BeeicsRkrfn8I0) | [Jonas Olofsson](https://open.spotify.com/artist/5ZVjwllTKhsYz9yuvrPp6O) | [It Never Entered My Mind](https://open.spotify.com/album/56FCHKFMba5as5DRUB8C5d) | 4:11 |
 | 295 | [Milano](https://open.spotify.com/track/3HqAqSU3Boz7wCwfiaXdfR) | [Andy Luma Trio](https://open.spotify.com/artist/3vnHJt1VixhKHJ0b8IhwIy) | [Milano](https://open.spotify.com/album/0rcCAGcrW8YSqgqiUBguYm) | 3:58 |
-| 296 | [Search For Peace](https://open.spotify.com/track/41pWty3Q37WlXCcXW4KfOA) | [CMC 3](https://open.spotify.com/artist/6GtEW3IyxraJqKi2h86JqC) | [Search For Peace](https://open.spotify.com/album/0mUxdj9cQf9wZMOr5Ordnc) | 5:06 |
-| 297 | [A double\-take](https://open.spotify.com/track/1ocFV6uNLORlfIHW5FNneZ) | [Corin Stannard Trio](https://open.spotify.com/artist/30BYi8bW3I7MwFXrqHdiun) | [A double\-take](https://open.spotify.com/album/5eeTfQ921Zzt9JW1csZgX5) | 2:54 |
+| 296 | [A double\-take](https://open.spotify.com/track/1ocFV6uNLORlfIHW5FNneZ) | [Corin Stannard Trio](https://open.spotify.com/artist/30BYi8bW3I7MwFXrqHdiun) | [A double\-take](https://open.spotify.com/album/5eeTfQ921Zzt9JW1csZgX5) | 2:54 |
+| 297 | [Search For Peace](https://open.spotify.com/track/41pWty3Q37WlXCcXW4KfOA) | [CMC 3](https://open.spotify.com/artist/6GtEW3IyxraJqKi2h86JqC) | [Search For Peace](https://open.spotify.com/album/0mUxdj9cQf9wZMOr5Ordnc) | 5:06 |
 | 298 | [Nuages ​​Creux](https://open.spotify.com/track/4Bv9PjhIhp2sQE4S7dEAxR) | [Lydia Baskow Trio](https://open.spotify.com/artist/1F8NZ8jILDmCFgCaWA2FP8) | [Nuages ​​Creux](https://open.spotify.com/album/748FmeoAqlCY5Vu3fKXq8C) | 2:37 |
 | 299 | [Quiet Now](https://open.spotify.com/track/42Z4Egilt6kqyDKDugV9v3) | [The Collective](https://open.spotify.com/artist/36tnEBoX2HE41bmQi1xWKP) | [Same As Ever](https://open.spotify.com/album/2cEEweAitLTN47YeFWz0Gc) | 4:43 |
 | 300 | [Never Gonna Be Right](https://open.spotify.com/track/022W2iG3WhA3fFIKGhR07y) | [Songbird Trio](https://open.spotify.com/artist/1Lbuv3aiWkUkCnw0okZ4Fh) | [Never Gonna Be Right](https://open.spotify.com/album/3b0Zx4aJ6ps6gvzPMKB6LX) | 3:13 |

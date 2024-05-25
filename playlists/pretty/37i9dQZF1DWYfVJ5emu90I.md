@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfVJ5emu90I.md) - [plain]
 
 > Heavy beats for midnight drifting in Tokyo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,113 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,132 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfVJ5emu90I.md) - [plain]
 | 33 | [Up It](https://open.spotify.com/track/2zEhSBJu10otiGCj3De31s) | [Jin Dogg](https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK), [LIL FOGGY](https://open.spotify.com/artist/2RixT7fx1LpjZXHxTCOTLy) | [Blood & Bones \(BONES\)](https://open.spotify.com/album/3xWPqGNbvm3tieDXkhkNx8) | 2:00 |
 | 34 | [Trigger Warning \(feat\. Wolftyla & MIYACHI\)](https://open.spotify.com/track/3NR2iPVXDninKefAV2uGpz) | [Shawn Wasabi](https://open.spotify.com/artist/1DLKitfb8fshL0DtCecRpY), [Wolftyla](https://open.spotify.com/artist/7qd6KGoABHifvXKeFNe2Yb), [MIYACHI](https://open.spotify.com/artist/04mGcrL09AEKdlGVrjpf1P) | [Trigger Warning \(feat\. Wolftyla & MIYACHI\)](https://open.spotify.com/album/3UapHPsXKIV6JEhpMwiAfH) | 2:31 |
 | 35 | [POP KILLERS](https://open.spotify.com/track/6tjAXcxgDNtkvaXFUXDUQC) | [C.O.S.A.](https://open.spotify.com/artist/7kj57NIwoqvnBTSpSgrO3p), [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0) | [POP KILLERS](https://open.spotify.com/album/06l8AppEOLd6MaxxqAcLf5) | 2:39 |
-| 36 | [Red Bull 64 Bars](https://open.spotify.com/track/18nTSkuJ1QqmGWje7Vg0kN) | [STACK THE PINK](https://open.spotify.com/artist/3NoSLTyqIc9Zonh4V7JtXt), [J1rock](https://open.spotify.com/artist/0nuCtZ6ZHTKzQAI21HNh74) | [Red Bull 64 Bars](https://open.spotify.com/album/2buaIfo9ZtnKuK0K8QuRKF) | 2:10 |
-| 37 | [Hot Rodder](https://open.spotify.com/track/31vWGyuri51ShwvgZ801WD) | [Yvng Patra](https://open.spotify.com/artist/2gkb6UKhXZeuEN5EBQkQv8), [Oddy lozy](https://open.spotify.com/artist/3SKBpwpCn3P3xCPxVhw3eb) | [Hot Rodder](https://open.spotify.com/album/4SiEuOz8dE9Padpu7Woq85) | 2:57 |
+| 36 | [Hot Rodder](https://open.spotify.com/track/31vWGyuri51ShwvgZ801WD) | [Yvng Patra](https://open.spotify.com/artist/2gkb6UKhXZeuEN5EBQkQv8), [Oddy lozy](https://open.spotify.com/artist/3SKBpwpCn3P3xCPxVhw3eb) | [Hot Rodder](https://open.spotify.com/album/4SiEuOz8dE9Padpu7Woq85) | 2:57 |
+| 37 | [Red Bull 64 Bars](https://open.spotify.com/track/18nTSkuJ1QqmGWje7Vg0kN) | [STACK THE PINK](https://open.spotify.com/artist/3NoSLTyqIc9Zonh4V7JtXt), [J1rock](https://open.spotify.com/artist/0nuCtZ6ZHTKzQAI21HNh74) | [Red Bull 64 Bars](https://open.spotify.com/album/2buaIfo9ZtnKuK0K8QuRKF) | 2:10 |
 | 38 | [Gotta go](https://open.spotify.com/track/4dvAGWWCRj44F1vk6ohEQt) | [RØØ](https://open.spotify.com/artist/1Z11WA68F90uo1fCYA16Yl), [Jinmenusagi](https://open.spotify.com/artist/5QSm6dJVv4soCzV7rv4QqE) | [Gotta go](https://open.spotify.com/album/3kyZM8PgjFDdOADYeT1aGJ) | 2:37 |
 | 39 | [Reach](https://open.spotify.com/track/3X1fSTjP1yFkSVMCDid9CF) | [eyden](https://open.spotify.com/artist/0WfL2PHijCihsWmlnwYjtj), [Candee](https://open.spotify.com/artist/1L9s7TypQNTxmJ12OuG2yR) | [FLESHNESS SZN](https://open.spotify.com/album/4n79rDs1Vg5II9XkHD3LQ7) | 2:41 |
 | 40 | [SUSUME](https://open.spotify.com/track/7j6oAHpOU0k0sszlMK8ioQ) | [MonyHorse](https://open.spotify.com/artist/0R9SPor6ESTsCVCb3NPhGD), [NENE](https://open.spotify.com/artist/1uNnKxEFiPfhNAIPCvGRhG), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9) | [SUSUME](https://open.spotify.com/album/4zUGmG0XwbpEw67ArG1oFh) | 3:18 |

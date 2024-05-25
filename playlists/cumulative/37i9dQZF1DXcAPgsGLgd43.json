@@ -1825,6 +1825,32 @@
     },
     {
       "album": {
+        "name": "El Cerro",
+        "url": "https://open.spotify.com/album/0C1sEMHyLjfNc9uLbw29hx"
+      },
+      "artists": [
+        {
+          "name": "Fabi Hernandez",
+          "url": "https://open.spotify.com/artist/62x0OBGqCIXKBSbFZVn0np"
+        },
+        {
+          "name": "Juan Kordoba",
+          "url": "https://open.spotify.com/artist/7IfeHPRMQVV1L2wykDcG6R"
+        },
+        {
+          "name": "Fabio Kuisi",
+          "url": "https://open.spotify.com/artist/5g2vgVse5Pov219MN8pNr9"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221428,
+      "name": "El Cerro",
+      "url": "https://open.spotify.com/track/1YxRNpgUVIFEXDK0QVREvM"
+    },
+    {
+      "album": {
         "name": "El Cuervo",
         "url": "https://open.spotify.com/album/4OmRlADG42BoxfGzSsNdEi"
       },
@@ -2470,7 +2496,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 170403,
       "name": "La Bulla",
       "url": "https://open.spotify.com/track/0TaXn3UgkHmba7ew4JFZEM"
@@ -3471,6 +3497,28 @@
     },
     {
       "album": {
+        "name": "Parriba",
+        "url": "https://open.spotify.com/album/54gq340tQMXIOGj6VFGVIs"
+      },
+      "artists": [
+        {
+          "name": "Sommer",
+          "url": "https://open.spotify.com/artist/43M0BiDPo1cAvFggYpmOD6"
+        },
+        {
+          "name": "HOS",
+          "url": "https://open.spotify.com/artist/79Q8DPpE46f4OgjvJAomt0"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175384,
+      "name": "Parriba",
+      "url": "https://open.spotify.com/track/5VITD8CR7WcFiB9Grgvs6s"
+    },
+    {
+      "album": {
         "name": "Party's Jumpin",
         "url": "https://open.spotify.com/album/0ipSLNiyPij1uJ8mbcRyFy"
       },
@@ -3981,6 +4029,28 @@
     },
     {
       "album": {
+        "name": "Rosa Que Linda Eres (Joe Mangione Remix)",
+        "url": "https://open.spotify.com/album/4cxa4HdxHynJUVsQzODpl4"
+      },
+      "artists": [
+        {
+          "name": "Joseph Sinatra",
+          "url": "https://open.spotify.com/artist/3dLBlepvkEvMssg0ijkZGn"
+        },
+        {
+          "name": "Joe Mangione",
+          "url": "https://open.spotify.com/artist/3S7OxW2gSjdlze74MbO2f2"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167578,
+      "name": "Rosa Que Linda Eres - Joe Mangione Edit Remix",
+      "url": "https://open.spotify.com/track/1GIa4bJA0G61N1bD7j6JxN"
+    },
+    {
+      "album": {
         "name": "Safari",
         "url": "https://open.spotify.com/album/0SdKouj4f0TqaDOOiBhSeA"
       },
@@ -4120,7 +4190,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 180014,
       "name": "Senta Relaxa",
       "url": "https://open.spotify.com/track/3ZNU9pcZeoGy0wMmThJ4XP"
@@ -4526,7 +4596,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 157102,
       "name": "Tranquilo",
       "url": "https://open.spotify.com/track/0wlRwjz9gsEE7e8yHR6Gl6"

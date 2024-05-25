@@ -2,7 +2,7 @@
 
 ### [Alabanza y Gloria](https://open.spotify.com/playlist/37i9dQZF1DWTkyVpP5GNAO)
 
-> A Dios sea toda la gloria y alabanza\. Foto: Miel San Marcos, Ingrid Rosario
+> A Dios sea toda la gloria y alabanza\. Foto: Jesús Adrián Romero
 
 133 songs - 12 hr 44 min
 

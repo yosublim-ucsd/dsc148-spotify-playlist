@@ -3721,6 +3721,28 @@
     },
     {
       "album": {
+        "name": "Aequanimitas",
+        "url": "https://open.spotify.com/album/49c4wopLmVaZHHG2Wr0WKh"
+      },
+      "artists": [
+        {
+          "name": "DJ White Socks",
+          "url": "https://open.spotify.com/artist/0j0eSYnIP4NmdBRRMRvdUf"
+        },
+        {
+          "name": "20Some",
+          "url": "https://open.spotify.com/artist/5XexJCqZgI59ntWjW3p8jQ"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244000,
+      "name": "Double vie d\u00e9cadente",
+      "url": "https://open.spotify.com/track/4dAfZzp86jPkANLeKJfbDB"
+    },
+    {
+      "album": {
         "name": "Double vision",
         "url": "https://open.spotify.com/album/0aW7wj54boNf4Sr4geF2IQ"
       },
@@ -5310,7 +5332,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 149707,
       "name": "Gucci Mane",
       "url": "https://open.spotify.com/track/0orQYTHoXULc1CSPiWWOMc"
@@ -5372,6 +5394,24 @@
       "duration_ms": 208952,
       "name": "G\u00e9nocide",
       "url": "https://open.spotify.com/track/477J3fKi6b4stq9veJJRpS"
+    },
+    {
+      "album": {
+        "name": "HAHAHA",
+        "url": "https://open.spotify.com/album/5dA0KFh2v17LVU9IALcLRU"
+      },
+      "artists": [
+        {
+          "name": "Lebza Khey",
+          "url": "https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140982,
+      "name": "HAHAHA",
+      "url": "https://open.spotify.com/track/5DH1e07zNFKlX5EQZF7sns"
     },
     {
       "album": {
@@ -7671,6 +7711,24 @@
     },
     {
       "album": {
+        "name": "Medellin",
+        "url": "https://open.spotify.com/album/7eL1wgRVBa0V9BGKc27WTa"
+      },
+      "artists": [
+        {
+          "name": "Parazar",
+          "url": "https://open.spotify.com/artist/6f0kSez71CExbBGe7WkonD"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155076,
+      "name": "Medellin",
+      "url": "https://open.spotify.com/track/5newxLHLBwAGDYsCVds8Eu"
+    },
+    {
+      "album": {
         "name": "Message",
         "url": "https://open.spotify.com/album/0CQocGYtpheZuJkgcZodbF"
       },
@@ -8094,7 +8152,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 141321,
       "name": "Monolove",
       "url": "https://open.spotify.com/track/4CuDF39WKMnhxjiHCXOBq9"
@@ -8130,7 +8188,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 98560,
       "name": "Montr\u00e9al",
       "url": "https://open.spotify.com/track/3LhkJnY2DFmOSVlit8tuKW"
@@ -10176,7 +10234,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 158280,
       "name": "Qui d'Autre",
       "url": "https://open.spotify.com/track/6JHjDxkAutkDhDqmlr9UQ8"
@@ -11908,6 +11966,28 @@
       "duration_ms": 175238,
       "name": "Toi-m\u00eame tu sais",
       "url": "https://open.spotify.com/track/0OCoD7jCBxX0tqwRHTX4tL"
+    },
+    {
+      "album": {
+        "name": "Hybride",
+        "url": "https://open.spotify.com/album/4xRBp5enf96QOYsRVUcm3K"
+      },
+      "artists": [
+        {
+          "name": "Joe Rocca",
+          "url": "https://open.spotify.com/artist/02nyUoWQbKuMviHAb3PSmi"
+        },
+        {
+          "name": "Dead Obies",
+          "url": "https://open.spotify.com/artist/6pcIfv5iZnVQgUNcKp8lGA"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198546,
+      "name": "Told Ya",
+      "url": "https://open.spotify.com/track/4dOZyyaAa0CoxerKPYFdoT"
     },
     {
       "album": {

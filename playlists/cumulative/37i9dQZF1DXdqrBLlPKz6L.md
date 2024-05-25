@@ -4,7 +4,7 @@
 
 > Los temas más prendidos del trap desde Venezuela, Colombia, Perú y Ecuador\. Foto: Kei Linch
 
-106 songs - 5 hr 47 min
+107 songs - 5 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [De Todo](https://open.spotify.com/track/5LR4MmbgcV9cPXXocaM4Fw) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [De Todo](https://open.spotify.com/album/6GkuzEN1kTF2XwtIlwLVEP) | 3:24 | 2021-10-15 |  |
 | [Deporte](https://open.spotify.com/track/2hJCUG8IBsBbLY4Apqf1uB) | [Lil Supa](https://open.spotify.com/artist/0qHbO3z6lgLE6ZYCkQBo1K), [Nasty Killah](https://open.spotify.com/artist/4hi5yAkJ9QHP8L2zeKprWl), [Ríal Guawankó](https://open.spotify.com/artist/1XLXezcztSQIdEYG9dviXN) | [Deporte](https://open.spotify.com/album/1xIbSM6XTekttfp6i3yvgH) | 3:48 | 2021-10-15 | 2022-04-09 |
 | [Dimelo](https://open.spotify.com/track/1RVWM0wmuQRUsAwbot9mos) | [Gonzalo Genek](https://open.spotify.com/artist/4h0s1nZFTuIRkkTpAI1F7I), [Daske Gaitán](https://open.spotify.com/artist/6X4iDmQtuCcuyILe3D00E6) | [Flama](https://open.spotify.com/album/0oCoqgiJLn73yyR61MF2Z5) | 1:57 | 2021-10-15 |  |
+| [Donde No Se Ve](https://open.spotify.com/track/2QSLg4zuaykHGBvhCgCdO0) | [El Clooy](https://open.spotify.com/artist/2iBSDwlk9bvp1aKT4ubGoC), [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [Los Money Makers](https://open.spotify.com/artist/3xqON5f18PRtZ7jqPIXOHx) | [Donde No Se Ve](https://open.spotify.com/album/5RBYr28O3Bz4qrlGhTP4mZ) | 3:16 | 2024-05-24 |  |
 | [Double Cup \(feat\. Trainer & Big Soto\)](https://open.spotify.com/track/0wwOTjKyrGTp1bJCUy7mPj) | [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym), [Trainer](https://open.spotify.com/artist/6MB0O7jOsJ1OrkPAIlK3l2), [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU) | [Double Cup \(feat\. Trainer & Big Soto\)](https://open.spotify.com/album/4x4ubWTKOJQ1k0daiz0Kfd) | 3:41 | 2021-10-15 |  |
 | [EL INCA](https://open.spotify.com/track/3dbSd2j3p9XWqI1VqfOyh7) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [EL INCA](https://open.spotify.com/album/0NVqJU1egg3BuAtRyxUvz0) | 3:32 | 2021-10-15 |  |
 | [Entre Billetes](https://open.spotify.com/track/28C79DaAXJPF2uN3PRIXrW) | [Malucci](https://open.spotify.com/artist/6QHHahauE7Sf3fgA7JTdYO), [Ele A El Dominio](https://open.spotify.com/artist/4SzD0wClEg9NKVJZbCRFqS) | [Entre Billetes](https://open.spotify.com/album/36VzE1tBaf4azzGSDvOaIj) | 3:49 | 2021-10-15 | 2023-12-23 |
@@ -65,7 +66,7 @@
 | [La mejor noche d mi vida <3](https://open.spotify.com/track/5vvaJgErSongYCqKuYLH3C) | [Kei Linch](https://open.spotify.com/artist/343DJXR8dV27YepfAS5uGf) | [Dulcinea](https://open.spotify.com/album/5qldzuecHg69MKkQjCEesb) | 3:15 | 2024-05-17 |  |
 | [La Movie](https://open.spotify.com/track/5vXtCT27kRaDJASx4HNlGO) | [Dani Torres](https://open.spotify.com/artist/3FCbl6b1JHLfVADjqG7iP5), [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym), [Blunted Vato](https://open.spotify.com/artist/15RLdM61VHtknTIYIuNviR) | [La Movie](https://open.spotify.com/album/3uSH8eA5bgrPCHLCBTRGss) | 4:24 | 2022-09-02 |  |
 | [La pasé cabrón](https://open.spotify.com/track/4rKM9EE3torp4wXfqEzzgZ) | [Nobeat](https://open.spotify.com/artist/3TKS1JzWOLAnicuOCOyVlW) | [La pasé cabrón](https://open.spotify.com/album/6ElfLUNrxLvu0kGEBkCjHh) | 3:05 | 2021-10-15 | 2022-04-09 |
-| [La Salsa](https://open.spotify.com/track/696HCNMv6YK7K5Gtl3504C) | [El Clooy](https://open.spotify.com/artist/2iBSDwlk9bvp1aKT4ubGoC), [COQE](https://open.spotify.com/artist/7GAYtrIoXkEFFsSP2nhG0E) | [La Salsa](https://open.spotify.com/album/082ck1VrEmNTwo8vf0cDkQ) | 2:16 | 2023-12-22 |  |
+| [La Salsa](https://open.spotify.com/track/696HCNMv6YK7K5Gtl3504C) | [El Clooy](https://open.spotify.com/artist/2iBSDwlk9bvp1aKT4ubGoC), [COQE](https://open.spotify.com/artist/7GAYtrIoXkEFFsSP2nhG0E) | [La Salsa](https://open.spotify.com/album/082ck1VrEmNTwo8vf0cDkQ) | 2:16 | 2023-12-22 | 2024-05-25 |
 | [Lastima](https://open.spotify.com/track/7LK6f8PSEBdVHxFky21fYv) | [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y), [Selected Music](https://open.spotify.com/artist/4JfavcBZEpY1vMW8Xqcc6y) | [Lastima](https://open.spotify.com/album/2M3EmYAlbA52gefdceSa05) | 3:43 | 2021-10-15 |  |
 | [Llanogrande](https://open.spotify.com/track/19j1aiX1XtvV1rjQiB0xnI) | [Kevin Roldan](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO), [HIT$ MUSIC](https://open.spotify.com/artist/44ALfmkGESKyMbbRrvw9gT) | [Llanogrande](https://open.spotify.com/album/4erHmgwHrYipv67oz7EEhz) | 3:16 | 2022-08-19 | 2023-03-25 |
 | [Los Negritos II](https://open.spotify.com/track/26NyY7vQeWoP4wtVoEB9u1) | [RK wavy](https://open.spotify.com/artist/1ZIBlhnSXQJU5Xmn1rh07r), [Yung Iverson](https://open.spotify.com/artist/32FZMa8a5INqhHHssRtkux), [Oliver Outc](https://open.spotify.com/artist/4ZK8wO3w5bwhtX0XtUjgWw) | [Los Negritos II](https://open.spotify.com/album/1B1jKCRab5fXBJlZPwgWGQ) | 2:09 | 2023-02-10 | 2023-03-25 |

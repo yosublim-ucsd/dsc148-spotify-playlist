@@ -4,7 +4,7 @@
 
 > A mix of folk and bluegrass covers of pop, rock, hip\-hop, folk, and indie songs\. Cover: Wyatt Flores
 
-272 songs - 17 hr 33 min
+275 songs - 17 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [Hand In My Pocket](https://open.spotify.com/track/6YKfKfe5Ey6yIPhZ0LS92O) | [Taylor Ashton](https://open.spotify.com/artist/53t38sKooUEyyENANtticX) | [Hand In My Pocket](https://open.spotify.com/album/4EfSZbrQXDwQD8Ud7DCRXx) | 2:41 | 2023-03-10 |  |
 | [Hand In My Pocket](https://open.spotify.com/track/7ikgdbyIecwr7OOkfW8tF5) | [Taylor Ashton](https://open.spotify.com/artist/53t38sKooUEyyENANtticX) | [Pizza Tickets](https://open.spotify.com/album/0RK0VdRrsFe3ZozfDfBl09) | 2:41 | 2023-04-28 | 2024-04-19 |
 | [Happy](https://open.spotify.com/track/0jEaPBjFAWjQTMVouRwaHi) | [The Beef Seeds](https://open.spotify.com/artist/2Lgu1zUJEcEB1A1tbhUSBR) | [Keepin' it Beefy](https://open.spotify.com/album/4IQn9XpweytNX2cUe2NBUH) | 3:38 | 2021-08-20 | 2022-01-22 |
+| [He Called Me Baby](https://open.spotify.com/track/07XgjLPy8zK8ppSZ7r38gb) | [AJ Lee & Blue Summit](https://open.spotify.com/artist/1VwMKPdHxC7tI21tynmXEr) | [He Called Me Baby](https://open.spotify.com/album/7aiK72YOfer4Rx9KzSOnak) | 4:39 | 2024-05-24 |  |
 | [Heart\-Shaped Box](https://open.spotify.com/track/5IUxHfkYd9hl4NDE8ayShP) | [Holler Choir](https://open.spotify.com/artist/2OI5njTRiCAdhWF0UDUkAw) | [Heart\-Shaped Box](https://open.spotify.com/album/1oCcDnADb3h6NEvVPa2Cps) | 4:25 | 2023-11-17 |  |
 | [Hey Ya](https://open.spotify.com/track/0ELVXVHz8aPgwLySfkDn8e) | [Obadiah Parker](https://open.spotify.com/artist/3Kji8hBU9Tqea6pAWRwagQ) | [Obadiah Parker Live](https://open.spotify.com/album/4xjHVgg9DgYhV1UVJhDlKO) | 4:27 | 2021-08-20 |  |
 | [Hey Ya \- live](https://open.spotify.com/track/4ztR83ZgTdg8H9xypnsQfS) | [Obadiah Parker](https://open.spotify.com/artist/3Kji8hBU9Tqea6pAWRwagQ) | [Hey Ya \(live\)](https://open.spotify.com/album/4BIE57kfW8ndo2CZn0QFfi) | 4:27 | 2022-05-27 | 2024-04-19 |
@@ -177,6 +178,7 @@
 | [Olympia, WA](https://open.spotify.com/track/2gtIcIvoHJYjSZw39qDHUe) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [...but i'd rather be with you](https://open.spotify.com/album/1Misn812Z5W216eNI7NuIy) | 4:19 | 2021-08-20 | 2023-07-15 |
 | [On The Road Again](https://open.spotify.com/track/3xkY21Y37cXIHrWTQBAKNZ) | [Craig Duncan](https://open.spotify.com/artist/0zYyfhX87rISSc9dyJQK5t) | [Country Mountain Tributes: The Songs of Willie Nelson](https://open.spotify.com/album/5hVPIFkN55JJWu2iM6CW5D) | 3:22 | 2022-09-30 | 2024-01-20 |
 | [On the Turning Away](https://open.spotify.com/track/3TRR5kid8vTvIxBv5IC8Of) | [The Barefoot Movement](https://open.spotify.com/artist/57gSCKhN6R0GbRztVbVrBt) | [On the Turning Away](https://open.spotify.com/album/3LoKsXW9FpjbUbZBGtQ9Vr) | 3:06 | 2023-03-10 | 2023-05-14 |
+| [Ooh La La](https://open.spotify.com/track/1CIv9WQZP4Ny4cF9tfzA6T) | [Malingo](https://open.spotify.com/artist/3GPiR3rPEC514i5QxcfwFk) | [Campfire Sessions, Vol\. 1](https://open.spotify.com/album/1uXmtxwP3IC0mxBQdJybLP) | 4:04 | 2024-05-24 |  |
 | [Outbound Plane](https://open.spotify.com/track/2Dx0LnWpxdKyKlYPMNiaUn) | [Jacob Jolliff](https://open.spotify.com/artist/65gpYGwwgux5q7nr9mcxtr) | [Outbound Plane](https://open.spotify.com/album/0ekHYaKNRyLh7AfizfVNY7) | 3:49 | 2022-07-29 | 2023-04-15 |
 | [Penny Lane](https://open.spotify.com/track/3SDhnA2jUpivgPMPAHrNYb) | [The Barefoot Movement](https://open.spotify.com/artist/57gSCKhN6R0GbRztVbVrBt) | [Penny Lane](https://open.spotify.com/album/5L3LRng1vofK7Ujpt75eNZ) | 3:00 | 2023-05-13 |  |
 | [Pinball Wizard](https://open.spotify.com/track/3wWmZKqmJkQEdsfIsncoFz) | [The HillBenders](https://open.spotify.com/artist/2Igp5ty1Smn5hqFrVQmmXE) | [Tommy: A Bluegrass Opry](https://open.spotify.com/album/30JWrDVhcL9nXRPEantke9) | 3:43 | 2021-08-20 |  |
@@ -250,6 +252,7 @@
 | [Under Pressure](https://open.spotify.com/track/2BkIizhyucfTfpnT0jcLCV) | [Pickin' On Series](https://open.spotify.com/artist/6AEIKVwB27miPI3uJxM4Dw), [Cornbread Red](https://open.spotify.com/artist/6WGUADHV7LnpbmNi5PhfYO) | [Bluegrass Tribute to Classic Rock](https://open.spotify.com/album/7mJdTwETbMT1qVf7kkq3SB) | 3:36 | 2021-08-20 | 2023-05-14 |
 | [Valerie](https://open.spotify.com/track/3wShyyPO8fob86VMwkZOCt) | [The Brothers Comatose](https://open.spotify.com/artist/7oKVYDiVZxglvgEW2zHcAD) | [City Painted Gold](https://open.spotify.com/album/23MGSQXuPuptLqoWIuQvah) | 4:54 | 2022-10-07 | 2024-04-19 |
 | [Valerie](https://open.spotify.com/track/41YOqmMxkDQZWqMZAExMx1) | [The Brothers Comatose](https://open.spotify.com/artist/7oKVYDiVZxglvgEW2zHcAD) | [City Painted Gold](https://open.spotify.com/album/4OSdY8WqGsfZvCwPIoX4ri) | 4:54 | 2022-08-09 |  |
+| [Wake Me Up \- The Bluegrass Rendition](https://open.spotify.com/track/71W7aqLRQQmrqnGA7U5mzB) | [Tebey](https://open.spotify.com/artist/2S0WpGRnEPyS5OuMp3KOEo), [Jake Vaadeland](https://open.spotify.com/artist/3xQzfgIw2TLiFUfvlrKgH3) | [Wake Me Up \(The Bluegrass Rendition\)](https://open.spotify.com/album/5nNr9tOefpudgC4QLcwh3g) | 4:23 | 2024-05-24 |  |
 | [Wake Me When It's Over](https://open.spotify.com/track/0J10lTnQV1rosvX0jYYX5J) | [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr), [Sara Watkins](https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa), [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Wake Me When It's Over](https://open.spotify.com/album/0TagfK04olSVvnfHtWbhJz) | 4:18 | 2023-04-28 |  |
 | [Walk This Way](https://open.spotify.com/track/31iIGTRrL3X0RfOM6zv0Mk) | [Hayseed Dixie](https://open.spotify.com/artist/7x1riqKyOjly8udO9DhPVi) | [Mountain Love](https://open.spotify.com/album/6V64FxexuvUbun8AnRKYKs) | 4:18 | 2021-08-20 | 2022-01-22 |
 | [Walking on Sunshine](https://open.spotify.com/track/5yGs5BtZC9uN1VW0lKfgwz) | [Sam Amidon](https://open.spotify.com/artist/6TTJ0xLPPNDyv4bXyukzU4) | [BrooklynVegan Presents Sun Salute: A Tribute to Katrina & The Waves and Walking on Sunshine](https://open.spotify.com/album/56YoLMVeXAAziNRbN3EF9B) | 3:07 | 2021-08-20 |  |

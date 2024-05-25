@@ -4,7 +4,7 @@
 
 > Unas buenas cumbias con el calor de la gente! <br/>Foto: Ke Personajes.
 
-154 songs - 10 hr 13 min
+155 songs - 10 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Duraznito](https://open.spotify.com/track/13xbFcvbDsX8ataeaXtInL) | [Los Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [En Vivo...Hasta la Muerte](https://open.spotify.com/album/5uf6glZMGuQlF2yaeBPer4) | 2:48 | 2021-12-10 |  |
 | [El Campanero \(En Vivo En El Luna Park\)](https://open.spotify.com/track/0pGoCLgrzTFc7QjhodQEv0) | [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q), [Onda Sabanera](https://open.spotify.com/artist/25CQYerNOaucOLHuEuvC9P), [Sabor Colombiano](https://open.spotify.com/artist/3STzZtLOqavgxKWD6Ea1xV) | [El Campanero \(En Vivo En El Luna Park\)](https://open.spotify.com/album/0VfGlIBiaHVSjWqlhVaGm5) | 4:30 | 2023-12-22 |  |
 | [El Delirio de Perderte / Te Vas a Arrepentir / Vete](https://open.spotify.com/track/3XgBkO4HqaUmF9QmtYSQHC) | [Los Lamas](https://open.spotify.com/artist/7wj7mzfPsDlJjUyg2TIW1n), [La Nueva Luna](https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX), [Los del bohio](https://open.spotify.com/artist/6RszvvtxwKr7SyzeeQ5htn) | [El Delirio de Perderte / Te Vas a Arrepentir / Vete](https://open.spotify.com/album/7kaJpPaXQWftu2JtlcPnKS) | 6:02 | 2024-03-29 |  |
+| [El Humo del Cigarrillo \- En Vivo](https://open.spotify.com/track/1d3bKbNVwO3YgXPAi3YrI9) | [Sin Miedo](https://open.spotify.com/artist/02lGxcSZaGuHiJryv6vkOY), [Raul Ramirez](https://open.spotify.com/artist/5LN3tGphckDuG0irNsiAs0) | [Sin Miedo: Un Tiro \- Raúl Ramirez \(Sessiones con Público\) \[En Vivo\]](https://open.spotify.com/album/6EwZ8CnSFgD8IKvwbhToc0) | 1:56 | 2024-05-24 |  |
 | [El Niño \- En Vivo en el Luna Park](https://open.spotify.com/track/3lwB6hwSgLec4z5SgoghHc) | [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q), [Orquesta Infanto\-juvenil de Constitución](https://open.spotify.com/artist/46wLN4FFktx8BW3Cupi56v) | [El Niño \(En Vivo en el Luna Park\)](https://open.spotify.com/album/2ZlaAvyAp0jI5k8zHglaSO) | 4:55 | 2023-12-08 | 2024-04-23 |
 | [El Que Siempre Te Espera](https://open.spotify.com/track/7DamHboUtPW1M1K6EkIg4c) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG), [Axel](https://open.spotify.com/artist/32x1uogH2zajP85pzZAtuE) | [El Que Siempre Te Espera](https://open.spotify.com/album/05JrWs6dpHryCNWvcbTRwG) | 2:53 | 2023-03-03 |  |
 | [El Tano Pastita](https://open.spotify.com/track/6Xk9yjvrPD4UgLqzZc3hVO) | [Los Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [En Vivo...Hasta la Muerte](https://open.spotify.com/album/5uf6glZMGuQlF2yaeBPer4) | 1:57 | 2021-12-10 |  |
@@ -46,7 +47,7 @@
 | [Entre el Cielo Vos y Yo \- En Vivo](https://open.spotify.com/track/5yruvWJs3mL00w4slpCVzN) | [La Liga](https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6) | [En Teatro del Huerto](https://open.spotify.com/album/6lbMkAdjDpQL7Sx5oRAyrL) | 4:20 | 2021-12-10 |  |
 | [Era Tranquila \- En Vivo](https://open.spotify.com/track/0kHoDrq6IFIV5AAZRFOEQd) | [Marama](https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW) | [Era Tranquila \(En Vivo\)](https://open.spotify.com/album/6T9HaCMIJRLkxmzZPEMdNF) | 3:57 | 2023-04-17 | 2023-12-10 |
 | [Estoy Buscando un Amor \- En Vivo](https://open.spotify.com/track/1B0GuAZXeOEa41BWuax8UH) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg), [Cartucho](https://open.spotify.com/artist/7d2PwZelcQLuNIiVcWTSGN) | [En el Gran Rex \(En Vivo\)](https://open.spotify.com/album/2m85X2JbnDrgMg529Uc3wu) | 3:15 | 2021-12-10 |  |
-| [Estuve Ahí](https://open.spotify.com/track/0vj7n8tknwKtbvZQ1ocATb) | [El Reja](https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW) | [Estuve Ahí](https://open.spotify.com/album/0o0TxliabAYbbhAxeFDYLM) | 3:14 | 2022-06-03 |  |
+| [Estuve Ahí](https://open.spotify.com/track/0vj7n8tknwKtbvZQ1ocATb) | [El Reja](https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW) | [Estuve Ahí](https://open.spotify.com/album/0o0TxliabAYbbhAxeFDYLM) | 3:14 | 2022-06-03 | 2024-05-25 |
 | [Falso Malo \- En Vivo](https://open.spotify.com/track/5xNDCYF5PFIsb5MIBaEd1h) | [Karen Britos](https://open.spotify.com/artist/6DTSChtNao6SMQy2EyTHyA) | [En Vivo en Pasión 2018](https://open.spotify.com/album/1jqDkm5aXq9Z9DPljvNhjE) | 3:04 | 2021-12-10 | 2022-07-28 |
 | [Fiera Inquieta / Tu Oportunidad / Alguien Que una Vez Ame \- En Vivo](https://open.spotify.com/track/7jyxq4y5HiJ6jfYsGGs5k5) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [En Vivo en el Gran Rex](https://open.spotify.com/album/7gAMypAPwm97SxVNLVBooy) | 4:57 | 2021-12-10 | 2022-07-28 |
 | [Flor del Bañado \(En Vivo\)](https://open.spotify.com/track/377AzTYtB0NSahp11mfa3K) | [Lucas Sugo](https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX) | [Flor del Bañado \(En Vivo\)](https://open.spotify.com/album/48au1oyXaWr5hmbyKMIKzF) | 3:41 | 2024-04-12 |  |

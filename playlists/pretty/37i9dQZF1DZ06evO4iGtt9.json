@@ -1,12 +1,12 @@
 {
   "description": "This is Timaya. The essential tracks, all in one playlist.",
-  "num_followers": 6569,
+  "num_followers": 6572,
   "original_name": "This Is Timaya",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zk01gAAAAABNB+zMqPJCITb9RnFToI3Z",
+  "snapshot_id": "Zk6HAAAAAACq605Uo2ybqv0YJbd6J50s",
   "tracks": [
     {
       "added_at": null,
@@ -371,22 +371,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gratitude",
-        "url": "https://open.spotify.com/album/0vwe1g87WzbjWTNBPFZiNj"
-      },
-      "artists": [
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 158320,
-      "name": "Buru",
-      "url": "https://open.spotify.com/track/5UMeJsvUGhBPKaRQehLWd5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Man on Duty",
         "url": "https://open.spotify.com/album/5AlB2TksQV1NDoUmKGdbLx"
       },
@@ -407,26 +391,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "L.I.F.E - Leaving an Impact for Eternity (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5t1QPMQ3ssvP9gLLRPIckA"
+        "name": "Gratitude",
+        "url": "https://open.spotify.com/album/0vwe1g87WzbjWTNBPFZiNj"
       },
       "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        },
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        },
         {
           "name": "Timaya",
           "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
         }
       ],
-      "duration_ms": 212498,
-      "name": "Abeg Abeg - Remix",
-      "url": "https://open.spotify.com/track/4xdmkDKb0Lb1ModZvup6QZ"
+      "duration_ms": 158320,
+      "name": "Buru",
+      "url": "https://open.spotify.com/track/5UMeJsvUGhBPKaRQehLWd5"
     },
     {
       "added_at": null,
@@ -475,26 +451,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kom Kom",
-        "url": "https://open.spotify.com/album/43OG5eoAN9ERfSMTjPvq1c"
+        "name": "L.I.F.E - Leaving an Impact for Eternity (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5t1QPMQ3ssvP9gLLRPIckA"
       },
       "artists": [
         {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        },
+        {
           "name": "Timaya",
           "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        },
-        {
-          "name": "King Perryy",
-          "url": "https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW"
-        },
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
         }
       ],
-      "duration_ms": 188571,
-      "name": "Kom Kom",
-      "url": "https://open.spotify.com/track/2KA51yRovba1V4rtRfOEqj"
+      "duration_ms": 212498,
+      "name": "Abeg Abeg - Remix",
+      "url": "https://open.spotify.com/track/4xdmkDKb0Lb1ModZvup6QZ"
     },
     {
       "added_at": null,
@@ -531,6 +507,30 @@
       "duration_ms": 187586,
       "name": "Bang Bang",
       "url": "https://open.spotify.com/track/7jHoVoaBxJEmbxTdpW4Xhp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kom Kom",
+        "url": "https://open.spotify.com/album/43OG5eoAN9ERfSMTjPvq1c"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        },
+        {
+          "name": "King Perryy",
+          "url": "https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "duration_ms": 188571,
+      "name": "Kom Kom",
+      "url": "https://open.spotify.com/track/2KA51yRovba1V4rtRfOEqj"
     },
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tomato",
-        "url": "https://open.spotify.com/album/2IYwJByBrftAl7iTZpQtB0"
-      },
-      "artists": [
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 162222,
-      "name": "Tomato",
-      "url": "https://open.spotify.com/track/7rOIsrQoYyFJErSu1k0JdV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Concur",
         "url": "https://open.spotify.com/album/1J5Y60QXsJxW7qRyoHlPUg"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 245960,
       "name": "I Concur",
       "url": "https://open.spotify.com/track/2rPRTmhTRoYBCataK79gfM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tomato",
+        "url": "https://open.spotify.com/album/2IYwJByBrftAl7iTZpQtB0"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 162222,
+      "name": "Tomato",
+      "url": "https://open.spotify.com/track/7rOIsrQoYyFJErSu1k0JdV"
     },
     {
       "added_at": null,
@@ -791,26 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tsunami",
-        "url": "https://open.spotify.com/album/2QZtpJhtNTNbCq22BoLrIx"
-      },
-      "artists": [
-        {
-          "name": "Yaba Buluku Boyz",
-          "url": "https://open.spotify.com/artist/5up0tKZtU7fxSrZl1oeyIi"
-        },
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 280841,
-      "name": "Tsunami",
-      "url": "https://open.spotify.com/track/6zMqOooNZpUf4397XCgWfF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Samankwe",
         "url": "https://open.spotify.com/album/0kFolnvDYsBzn9QlzeJprS"
       },
@@ -827,6 +807,26 @@
       "duration_ms": 212554,
       "name": "Samankwe",
       "url": "https://open.spotify.com/track/0O7hr1gLAktDObqnoUnjSE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tsunami",
+        "url": "https://open.spotify.com/album/2QZtpJhtNTNbCq22BoLrIx"
+      },
+      "artists": [
+        {
+          "name": "Yaba Buluku Boyz",
+          "url": "https://open.spotify.com/artist/5up0tKZtU7fxSrZl1oeyIi"
+        },
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 280841,
+      "name": "Tsunami",
+      "url": "https://open.spotify.com/track/6zMqOooNZpUf4397XCgWfF"
     },
     {
       "added_at": null,

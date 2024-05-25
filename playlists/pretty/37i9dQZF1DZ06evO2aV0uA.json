@@ -1,12 +1,12 @@
 {
   "description": "This is Lamb of God. The essential tracks, all in one playlist.",
-  "num_followers": 127131,
+  "num_followers": 127169,
   "original_name": "This Is Lamb of God",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zk01gAAAAAAS7viPYambuDdAJjd5F+Zm",
+  "snapshot_id": "Zk6HAAAAAABpNtOBULn3QZWl5qTftNL1",
   "tracks": [
     {
       "added_at": null,
@@ -303,22 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Evidence",
-        "url": "https://open.spotify.com/album/2xDm5HKtgKbmi5Ngi8KgCh"
-      },
-      "artists": [
-        {
-          "name": "Lamb of God",
-          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
-        }
-      ],
-      "duration_ms": 230256,
-      "name": "Evidence",
-      "url": "https://open.spotify.com/track/4QTwNqLI3XQlf7H1YQJGfJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Resolution",
         "url": "https://open.spotify.com/album/5rMKS2tqK818wfwr4zWQzX"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 234306,
       "name": "Desolation",
       "url": "https://open.spotify.com/track/7siSMBw1wFPPBNoBtXNzMb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Evidence",
+        "url": "https://open.spotify.com/album/2xDm5HKtgKbmi5Ngi8KgCh"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "duration_ms": 230256,
+      "name": "Evidence",
+      "url": "https://open.spotify.com/track/4QTwNqLI3XQlf7H1YQJGfJ"
     },
     {
       "added_at": null,
@@ -447,18 +447,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sacrament",
-        "url": "https://open.spotify.com/album/1cikCss5SRQLrIAmpyHoVw"
+        "name": "DISCO4 :: PART II",
+        "url": "https://open.spotify.com/album/4pk3IXbfaU0cK7oHuEdbEJ"
       },
       "artists": [
+        {
+          "name": "HEALTH",
+          "url": "https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth"
+        },
         {
           "name": "Lamb of God",
           "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
         }
       ],
-      "duration_ms": 271120,
-      "name": "Pathetic",
-      "url": "https://open.spotify.com/track/5PQ3KfvXm88J5h5mXJusPz"
+      "duration_ms": 326771,
+      "name": "COLD BLOOD",
+      "url": "https://open.spotify.com/track/50iNloLV9uEyEvVzuwl6kz"
     },
     {
       "added_at": null,
@@ -479,22 +483,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "DISCO4 :: PART II",
-        "url": "https://open.spotify.com/album/4pk3IXbfaU0cK7oHuEdbEJ"
+        "name": "Sacrament",
+        "url": "https://open.spotify.com/album/1cikCss5SRQLrIAmpyHoVw"
       },
       "artists": [
-        {
-          "name": "HEALTH",
-          "url": "https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth"
-        },
         {
           "name": "Lamb of God",
           "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
         }
       ],
-      "duration_ms": 326771,
-      "name": "COLD BLOOD",
-      "url": "https://open.spotify.com/track/50iNloLV9uEyEvVzuwl6kz"
+      "duration_ms": 271120,
+      "name": "Pathetic",
+      "url": "https://open.spotify.com/track/5PQ3KfvXm88J5h5mXJusPz"
     },
     {
       "added_at": null,

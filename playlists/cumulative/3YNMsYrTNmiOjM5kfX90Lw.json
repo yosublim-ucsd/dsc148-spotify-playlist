@@ -38,7 +38,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-11",
+      "date_removed": null,
       "duration_ms": 39145,
       "name": "... an Interlude",
       "url": "https://open.spotify.com/track/0ZisrQEomfaJiUnHnjjVjU"
@@ -100,6 +100,24 @@
       "duration_ms": 197120,
       "name": "23 til' infinity",
       "url": "https://open.spotify.com/track/6bESnQHkP2fcZ5b6QDJ7mi"
+    },
+    {
+      "album": {
+        "name": "Agya",
+        "url": "https://open.spotify.com/album/17bgrdTfAf1IVIBmf7UI1x"
+      },
+      "artists": [
+        {
+          "name": "Klaiman",
+          "url": "https://open.spotify.com/artist/04ss3Y5MupWyFl44M7ptwQ"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163538,
+      "name": "Agya",
+      "url": "https://open.spotify.com/track/7JrT70MBgXwXARmMggIBcB"
     },
     {
       "album": {
@@ -186,7 +204,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 181847,
       "name": "Ballerinas",
       "url": "https://open.spotify.com/track/3G0580v1FX877NH4UqdZbY"
@@ -251,6 +269,24 @@
     },
     {
       "album": {
+        "name": "bei dir",
+        "url": "https://open.spotify.com/album/7k0nyqi52dWuBtBd5KzbCp"
+      },
+      "artists": [
+        {
+          "name": "richART",
+          "url": "https://open.spotify.com/artist/2HG0SFUd3qbECcgGRt2fC0"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150923,
+      "name": "bei dir",
+      "url": "https://open.spotify.com/track/5u11vUHdnF8nfOBrX4m4qG"
+    },
+    {
+      "album": {
         "name": "Bellerin",
         "url": "https://open.spotify.com/album/038s9C8FzOObLr9TVzaHpO"
       },
@@ -298,7 +334,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 214177,
       "name": "Big Shit",
       "url": "https://open.spotify.com/track/33ABawsXB7kQr5pNr6TJkl"
@@ -334,7 +370,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 121802,
       "name": "birgit",
       "url": "https://open.spotify.com/track/6asJNaaw1PscokrNAazU97"
@@ -410,7 +446,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-11",
+      "date_removed": null,
       "duration_ms": 229537,
       "name": "Break My Heart",
       "url": "https://open.spotify.com/track/7Bbg2pR6QsOe5TRmZaJeD5"
@@ -522,7 +558,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 144874,
       "name": "Clusterfuck",
       "url": "https://open.spotify.com/track/1kIB3RKoRdHkuQwuNaORPD"
@@ -606,10 +642,28 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 110204,
       "name": "Cyberia",
       "url": "https://open.spotify.com/track/0ifvr0Ug8acTGegfVP75oP"
+    },
+    {
+      "album": {
+        "name": "D T B",
+        "url": "https://open.spotify.com/album/3miT0gnmJbiCzk0l2RPMZi"
+      },
+      "artists": [
+        {
+          "name": "ZENETY",
+          "url": "https://open.spotify.com/artist/3JSTr9yMdBV2VrXLtxueig"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116521,
+      "name": "D T B",
+      "url": "https://open.spotify.com/track/6Y37mWVuaj7MVRNSttKAbF"
     },
     {
       "album": {
@@ -642,7 +696,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 220316,
       "name": "Daily",
       "url": "https://open.spotify.com/track/1ecMwAuEwHDVaqdj1Hwc2t"
@@ -660,10 +714,28 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 193919,
       "name": "Das Gegenteil",
       "url": "https://open.spotify.com/track/1lYCYzUq7PSwq92pQaReMx"
+    },
+    {
+      "album": {
+        "name": "Dead Presidents",
+        "url": "https://open.spotify.com/album/4AwdFv2H3xFmKP7vEPJgRT"
+      },
+      "artists": [
+        {
+          "name": "ZONE7OBOI",
+          "url": "https://open.spotify.com/artist/3ylIJVlDaAF6KcGC4QsMVZ"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225140,
+      "name": "Dead Presidents",
+      "url": "https://open.spotify.com/track/44NApl6H9qhxjyHznzSx8K"
     },
     {
       "album": {
@@ -896,6 +968,46 @@
       "duration_ms": 149571,
       "name": "Ek Waqt",
       "url": "https://open.spotify.com/track/6lmrL4JgqboJo0PTgqy3sH"
+    },
+    {
+      "album": {
+        "name": "En Gang Til",
+        "url": "https://open.spotify.com/album/7iDH3x07Gnq0K7ptWHscdm"
+      },
+      "artists": [
+        {
+          "name": "Kim Kvamme",
+          "url": "https://open.spotify.com/artist/16seXon0IoanKDtQPfLjPU"
+        },
+        {
+          "name": "Linn Kathrin Taklo",
+          "url": "https://open.spotify.com/artist/0DCfzShSsirHB2BQ5mLoMo"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206725,
+      "name": "En Gang Til",
+      "url": "https://open.spotify.com/track/5ao5GxB1M2mcqZgqOB7vMq"
+    },
+    {
+      "album": {
+        "name": "Escobar Money Freestyle",
+        "url": "https://open.spotify.com/album/4tkDSKA9dEc1XF9NQHyIUT"
+      },
+      "artists": [
+        {
+          "name": "Gxtze",
+          "url": "https://open.spotify.com/artist/69U9Vqox81vbnwcgQlofSw"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170666,
+      "name": "Escobar Money Freestyle",
+      "url": "https://open.spotify.com/track/5VwMPzssDx58v1kVSSygyR"
     },
     {
       "album": {
@@ -1190,7 +1302,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 153571,
       "name": "H!GH CONTRAST",
       "url": "https://open.spotify.com/track/6eOzItN6halCnwDIlDQtE4"
@@ -1344,7 +1456,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 148000,
       "name": "Hot Metal",
       "url": "https://open.spotify.com/track/1l9rc80JMHAL93UBMyN7NK"
@@ -1833,6 +1945,54 @@
     },
     {
       "album": {
+        "name": "Lingerie da Prada",
+        "url": "https://open.spotify.com/album/6cwsUICCUgn1XuVNQFgG64"
+      },
+      "artists": [
+        {
+          "name": "Kaef",
+          "url": "https://open.spotify.com/artist/15dPC9rLJJb3608DNKKd3m"
+        },
+        {
+          "name": "2K",
+          "url": "https://open.spotify.com/artist/4DFcwQM8rnXc0PE4WH7NIg"
+        },
+        {
+          "name": "iagguprod",
+          "url": "https://open.spotify.com/artist/5cfItb47C9bpeRAiPB62qL"
+        },
+        {
+          "name": "Jotta X",
+          "url": "https://open.spotify.com/artist/3gMrLffCIkO3TWMKXvjEOl"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181573,
+      "name": "Lingerie da Prada",
+      "url": "https://open.spotify.com/track/3EVJPBWFqlvYWkTrdxaoSE"
+    },
+    {
+      "album": {
+        "name": "Livet3",
+        "url": "https://open.spotify.com/album/7q5dI4qSgPswBQh2OXts05"
+      },
+      "artists": [
+        {
+          "name": "D\u00f6dsankan",
+          "url": "https://open.spotify.com/artist/0dribWcDOaXtgmDnJymoiC"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 75767,
+      "name": "Livet3",
+      "url": "https://open.spotify.com/track/3NTe8To0EjCwUlUpjHxM4K"
+    },
+    {
+      "album": {
         "name": "Point Guard of the Streets",
         "url": "https://open.spotify.com/album/22v0gwzfSCqY7eq1a6OBWK"
       },
@@ -2138,7 +2298,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 155076,
       "name": "Molto Bene",
       "url": "https://open.spotify.com/track/0rZPUS0zt8XXi7RhRHW68F"
@@ -2156,7 +2316,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 131134,
       "name": "Money Moves",
       "url": "https://open.spotify.com/track/5wpuAetKfyi3WFkhwv0NyM"
@@ -2203,6 +2363,32 @@
     },
     {
       "album": {
+        "name": "Mr. International",
+        "url": "https://open.spotify.com/album/7eBQzingkfYn3Gik9abkB8"
+      },
+      "artists": [
+        {
+          "name": "Domi Dow Jones",
+          "url": "https://open.spotify.com/artist/4b26XK3p98FbMZMd2tyNen"
+        },
+        {
+          "name": "J.Cvnco",
+          "url": "https://open.spotify.com/artist/3DpQf8gS9hw5rLEtUr0127"
+        },
+        {
+          "name": "A'roya",
+          "url": "https://open.spotify.com/artist/3C4mwWHgIgNaHKtLUFgaTY"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189466,
+      "name": "Mr. International",
+      "url": "https://open.spotify.com/track/1fKrbMEHtiYbq47mXPh4TQ"
+    },
+    {
+      "album": {
         "name": "Mulq-E-Hind Ka Sawal",
         "url": "https://open.spotify.com/album/07EteW9prGKF9YQ6fqzmpr"
       },
@@ -2218,6 +2404,24 @@
       "duration_ms": 63706,
       "name": "Mulq-E-Hind Ka Sawal",
       "url": "https://open.spotify.com/track/4zuBPeXLx73eeRcoynJLVA"
+    },
+    {
+      "album": {
+        "name": "Motivation Musik",
+        "url": "https://open.spotify.com/album/6mN0PYRRKr7ZgOBAICKR5a"
+      },
+      "artists": [
+        {
+          "name": "P4K ANT",
+          "url": "https://open.spotify.com/artist/2JylDMwZ7LPoCxfR8NGtkF"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238106,
+      "name": "Never Settle",
+      "url": "https://open.spotify.com/track/6BybQXYDiFgYBy8oc9pAqJ"
     },
     {
       "album": {
@@ -2261,6 +2465,24 @@
     },
     {
       "album": {
+        "name": "no to jak ? niebo czy los angeles",
+        "url": "https://open.spotify.com/album/3tSxnF9mM6LfO1yUTcTcaw"
+      },
+      "artists": [
+        {
+          "name": "horoba",
+          "url": "https://open.spotify.com/artist/0xyGq2RR4XeLHdri0KETZf"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188605,
+      "name": "no to jak ? niebo czy los angeles",
+      "url": "https://open.spotify.com/track/6TuMUwwT0yOGjAzupg0JlK"
+    },
+    {
+      "album": {
         "name": "No Vest",
         "url": "https://open.spotify.com/album/5USpbyYsjHbxkdhhx4LYJc"
       },
@@ -2294,7 +2516,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 52384,
       "name": "No Way Home",
       "url": "https://open.spotify.com/track/0owIjFoM0OtcbaRSgPpxcP"
@@ -2619,6 +2841,24 @@
     },
     {
       "album": {
+        "name": "RUTYNA",
+        "url": "https://open.spotify.com/album/1p84EjUeY2QOLyUCvxdTD1"
+      },
+      "artists": [
+        {
+          "name": "bliss.",
+          "url": "https://open.spotify.com/artist/5WSZ8gcptG5oaF1dQDxSlR"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108148,
+      "name": "RUTYNA",
+      "url": "https://open.spotify.com/track/1bU1OjxOQHjIRJJlldYDuF"
+    },
+    {
+      "album": {
         "name": "she's fuckin' illegal",
         "url": "https://open.spotify.com/album/5RxKr7gO3UZz9R0WPpvkSH"
       },
@@ -2656,6 +2896,28 @@
       "duration_ms": 115310,
       "name": "show u off",
       "url": "https://open.spotify.com/track/50fGJbFebNjBQ9QOMNiASh"
+    },
+    {
+      "album": {
+        "name": "SI TE SOY SINCERO",
+        "url": "https://open.spotify.com/album/6CohgocF3kYb3Vb7TDFtt9"
+      },
+      "artists": [
+        {
+          "name": "BASTO T.O.T GANG",
+          "url": "https://open.spotify.com/artist/3k2giUWJqiFJ5ThiwbFxYi"
+        },
+        {
+          "name": "JORDANCHEUQUE",
+          "url": "https://open.spotify.com/artist/7BQCRS8fcCNLz8r162o45l"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199374,
+      "name": "SI TE SOY SINCERO",
+      "url": "https://open.spotify.com/track/0R7X83TIa2lkeDuFfuxxk2"
     },
     {
       "album": {
@@ -2706,7 +2968,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 168000,
       "name": "Southside 1",
       "url": "https://open.spotify.com/track/7KP3WCnCrqdfm7Nub2pnbO"
@@ -2754,10 +3016,28 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 127552,
       "name": "Speaking On Me",
       "url": "https://open.spotify.com/track/6yvMJhMmr6eHR9dkdOOmcK"
+    },
+    {
+      "album": {
+        "name": "Specchio",
+        "url": "https://open.spotify.com/album/2OgtgGyYndx6NYe88DoGLB"
+      },
+      "artists": [
+        {
+          "name": "CLELIA",
+          "url": "https://open.spotify.com/artist/7jNRUOQfNsDp2B2tDOH4jf"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232312,
+      "name": "Specchio",
+      "url": "https://open.spotify.com/track/1ahkHXwt7R1oUF27nb8izO"
     },
     {
       "album": {
@@ -2888,7 +3168,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 170865,
       "name": "Swarovski 1960",
       "url": "https://open.spotify.com/track/1ZyZ80OGhcVi2PxoXuAnoO"
@@ -3306,7 +3586,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 186226,
       "name": "Warning signs",
       "url": "https://open.spotify.com/track/4PhXFIX3tmwTPqrgv3dFOj"

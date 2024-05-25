@@ -3587,6 +3587,28 @@
     },
     {
       "album": {
+        "name": "Lisboa",
+        "url": "https://open.spotify.com/album/79Fan5vqzeU7ygiZwk642Z"
+      },
+      "artists": [
+        {
+          "name": "entoy",
+          "url": "https://open.spotify.com/artist/25OMfKk5AnZxUdzwDy3bOj"
+        },
+        {
+          "name": "Jaerim",
+          "url": "https://open.spotify.com/artist/5pa9RME9FlgXWKL20LfNmo"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161982,
+      "name": "Lisboa",
+      "url": "https://open.spotify.com/track/7a6VxCRfQB5GpdUIiCJYTl"
+    },
+    {
+      "album": {
         "name": "Lock me up",
         "url": "https://open.spotify.com/album/3TjzPxoh0SfQSdxAq9GMfn"
       },

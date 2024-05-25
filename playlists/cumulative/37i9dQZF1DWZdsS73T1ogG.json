@@ -31,6 +31,24 @@
     },
     {
       "album": {
+        "name": "+D2",
+        "url": "https://open.spotify.com/album/6fR6sSXgK1r8MyT3tAchJ4"
+      },
+      "artists": [
+        {
+          "name": "Jon Z",
+          "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173228,
+      "name": "+D2",
+      "url": "https://open.spotify.com/track/5ROSjbSEUoQ2QZe8gCKJGe"
+    },
+    {
+      "album": {
         "name": "0 Millas",
         "url": "https://open.spotify.com/album/3bMctF74OPNARlPLx3ETVJ"
       },
@@ -136,7 +154,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 219682,
       "name": "100xCiento",
       "url": "https://open.spotify.com/track/52qI65Ek66LV3evWVDf1ET"
@@ -3646,7 +3664,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 216346,
       "name": "BYAK",
       "url": "https://open.spotify.com/track/12Ba9adVh6yrSRv59Y1zoW"
@@ -6058,7 +6076,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 192000,
       "name": "Diab\u00f3lica",
       "url": "https://open.spotify.com/track/4IJWhehNLXru5WfS71EWSx"
@@ -6936,7 +6954,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 218536,
       "name": "EL DON",
       "url": "https://open.spotify.com/track/5o7hlGB1tciX7pk7DXEo74"
@@ -7512,10 +7530,32 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 220000,
       "name": "Endo",
       "url": "https://open.spotify.com/track/5TSZpaef0x0AztRQXBOpq3"
+    },
+    {
+      "album": {
+        "name": "Enemigo",
+        "url": "https://open.spotify.com/album/3MpY9D0qaaL3gJLlEX3oOd"
+      },
+      "artists": [
+        {
+          "name": "Soley",
+          "url": "https://open.spotify.com/artist/1zo2ucFhzu58hKcniMpSQs"
+        },
+        {
+          "name": "The Prodigiez",
+          "url": "https://open.spotify.com/artist/0ITff7REwQrTAlu9HsiWQT"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150105,
+      "name": "Enemigo",
+      "url": "https://open.spotify.com/track/5rsTUSxqHysadud5uwpqke"
     },
     {
       "album": {
@@ -7560,6 +7600,32 @@
       "duration_ms": 180000,
       "name": "Envidia",
       "url": "https://open.spotify.com/track/4NTOD6p2LLDYdeHzaxUYxk"
+    },
+    {
+      "album": {
+        "name": "EL CANTANTE DEL GHETTO",
+        "url": "https://open.spotify.com/album/0d9r31X5eeyHWLkYAZIxmE"
+      },
+      "artists": [
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        },
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "Zion",
+          "url": "https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220449,
+      "name": "ENVIGADO",
+      "url": "https://open.spotify.com/track/7rzzvtKLYsspPF8aUBghlF"
     },
     {
       "album": {
@@ -8914,7 +8980,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 222000,
       "name": "Gata Only",
       "url": "https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6"
@@ -9394,6 +9460,32 @@
       "duration_ms": 210788,
       "name": "Guay",
       "url": "https://open.spotify.com/track/1S3SAFqLBWk3HaR5UyXp43"
+    },
+    {
+      "album": {
+        "name": "Guayeteo",
+        "url": "https://open.spotify.com/album/6ZtoAhNlhokYGvR53BNx9V"
+      },
+      "artists": [
+        {
+          "name": "Caleb Calloway",
+          "url": "https://open.spotify.com/artist/11usEAQkFE6UJwsyAKkchi"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153759,
+      "name": "Guayeteo",
+      "url": "https://open.spotify.com/track/2ruBYtHnFGNqfixpI0pbVs"
     },
     {
       "album": {
@@ -9990,7 +10082,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 198081,
       "name": "HUMO",
       "url": "https://open.spotify.com/track/6j3PRPNWLutE3CutDzH4uI"
@@ -10846,7 +10938,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 366760,
       "name": "KTM",
       "url": "https://open.spotify.com/track/3EPIt4FqsVQLM48HozrcFr"
@@ -12094,6 +12186,28 @@
       "duration_ms": 159306,
       "name": "Lisa",
       "url": "https://open.spotify.com/track/44FzVABpR2cciquTqADA0D"
+    },
+    {
+      "album": {
+        "name": "YO SOY LA MODA",
+        "url": "https://open.spotify.com/album/1yNzO3pSJor6rZuhs3kgdG"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Lismar",
+          "url": "https://open.spotify.com/artist/2JAxtl8czMHyssC2W7b8jy"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171720,
+      "name": "Lismar: Bzrp Music Sessions, Vol. 60",
+      "url": "https://open.spotify.com/track/6clUGlB6OfxAPHWyaWkIDd"
     },
     {
       "album": {
@@ -15103,6 +15217,28 @@
     },
     {
       "album": {
+        "name": "No Me Digas Que No",
+        "url": "https://open.spotify.com/album/5sweqRJxPiomdO7gxOLIFb"
+      },
+      "artists": [
+        {
+          "name": "Mequi",
+          "url": "https://open.spotify.com/artist/37sm4BRjUMEVI6iUC1Zg6k"
+        },
+        {
+          "name": "DJ Nelson",
+          "url": "https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206897,
+      "name": "No Me Digas Que No",
+      "url": "https://open.spotify.com/track/3XySffKXQMp1mZfW6qbl0Z"
+    },
+    {
+      "album": {
         "name": "No Me Jalan",
         "url": "https://open.spotify.com/album/3inIqwqlpPUfBSQl1A5rvf"
       },
@@ -15422,7 +15558,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 137558,
       "name": "NO TIENES QUE APRETAR",
       "url": "https://open.spotify.com/track/7zSShkli0EoDWDYFtAIAUj"
@@ -15608,7 +15744,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 146938,
       "name": "Nota",
       "url": "https://open.spotify.com/track/18xTLZz0jnxFCz0krVzFme"
@@ -17279,6 +17415,28 @@
     },
     {
       "album": {
+        "name": "Perdi\u00f3",
+        "url": "https://open.spotify.com/album/6HDozM42i9oMMAgkndsJ5A"
+      },
+      "artists": [
+        {
+          "name": "Bad Gyal",
+          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
+        },
+        {
+          "name": "Ivy Queen",
+          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Perdi\u00f3",
+      "url": "https://open.spotify.com/track/3WXhSgPDbbFNq3sJKRyTWo"
+    },
+    {
+      "album": {
         "name": "La Joia",
         "url": "https://open.spotify.com/album/14IBdTrbCCeHRZgTATdgRd"
       },
@@ -18353,6 +18511,24 @@
     },
     {
       "album": {
+        "name": "EL \u00daLTIMO BAILE",
+        "url": "https://open.spotify.com/album/3EWJoKrG9XnCjvAPzkQZ88"
+      },
+      "artists": [
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143540,
+      "name": "PULL UP!",
+      "url": "https://open.spotify.com/track/6FFuIWkavxpcwxeyZRgXuJ"
+    },
+    {
+      "album": {
         "name": "Punta Cana",
         "url": "https://open.spotify.com/album/3YvrPSD94Th9TvHcykVsyK"
       },
@@ -18670,7 +18846,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 169575,
       "name": "Que rico ser\u00eda",
       "url": "https://open.spotify.com/track/33NLr2ZUMSnUkrpJL2IICF"
@@ -19220,10 +19396,28 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 141031,
       "name": "Rewind",
       "url": "https://open.spotify.com/track/7nFIZVAJEYbwbB5nbzkoka"
+    },
+    {
+      "album": {
+        "name": "RICH AND BLESS",
+        "url": "https://open.spotify.com/album/4ZeFeRqydImZasvkEWGgrp"
+      },
+      "artists": [
+        {
+          "name": "Maicol La M",
+          "url": "https://open.spotify.com/artist/618UAJwbx5iSzaLonHgx2R"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166500,
+      "name": "RICH AND BLESS",
+      "url": "https://open.spotify.com/track/1rOIUsAHErs93MmNUeDqDT"
     },
     {
       "album": {
@@ -20181,6 +20375,24 @@
     },
     {
       "album": {
+        "name": "SI NO ES CONTIGO",
+        "url": "https://open.spotify.com/album/4ecjQGViGCD4snnZ3QJOEL"
+      },
+      "artists": [
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156020,
+      "name": "SI NO ES CONTIGO",
+      "url": "https://open.spotify.com/track/5Uptvz6j1sjDKxidAcnH2L"
+    },
+    {
+      "album": {
         "name": "SI SABE",
         "url": "https://open.spotify.com/album/7ot6ebVthlYG3wXzLaZ5NF"
       },
@@ -20664,7 +20876,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 204803,
       "name": "Slow",
       "url": "https://open.spotify.com/track/5G2Tfp47zn4Bh5jcebNBbB"
@@ -24621,6 +24833,28 @@
     },
     {
       "album": {
+        "name": "YO KIERO",
+        "url": "https://open.spotify.com/album/2xV0w1VjhgbjUoZzUMUN0R"
+      },
+      "artists": [
+        {
+          "name": "Bellakath",
+          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
+        },
+        {
+          "name": "Alan Dazmel",
+          "url": "https://open.spotify.com/artist/3C1SUHXW7THF8hkOP7Rekm"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152021,
+      "name": "YO KIERO",
+      "url": "https://open.spotify.com/track/6r8mkvOm0kK5ACFOuvCezk"
+    },
+    {
+      "album": {
         "name": "Yo Quiero",
         "url": "https://open.spotify.com/album/5kzinI28FtIP1UjxPtQ528"
       },
@@ -24746,6 +24980,28 @@
       "duration_ms": 183400,
       "name": "\u00bfCu\u00e1l Es Su Nombre?",
       "url": "https://open.spotify.com/track/5S8zFPQ3KIlF2y9Kt8mRhg"
+    },
+    {
+      "album": {
+        "name": "\u00bfQui\u00e9n Eres T\u00fa?",
+        "url": "https://open.spotify.com/album/0NuMq7DZRdh5n1eULN0i7u"
+      },
+      "artists": [
+        {
+          "name": "Messiah",
+          "url": "https://open.spotify.com/artist/0tR60pwxQ5WKjPxQcKoCQ7"
+        },
+        {
+          "name": "JC Reyes",
+          "url": "https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185739,
+      "name": "\u00bfQui\u00e9n Eres T\u00fa?",
+      "url": "https://open.spotify.com/track/2ydaaI4ICSmCUkT9rk5dao"
     },
     {
       "album": {

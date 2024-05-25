@@ -1,6 +1,6 @@
 {
   "description": "Eletr\u00f4nico energ\u00e9tico para acompanhar a sua malha\u00e7\u00e3o di\u00e1ria. ",
-  "num_followers": 276260,
+  "num_followers": 276265,
   "original_name": "Suor EDM",
   "owner": {
     "name": "Spotify",
@@ -827,6 +827,26 @@
     {
       "added_at": "2024-05-17 03:03:00",
       "album": {
+        "name": "where is your pride?",
+        "url": "https://open.spotify.com/album/2gC9Z5MHfmUkW2e3uHw56f"
+      },
+      "artists": [
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        },
+        {
+          "name": "Benjamin Zephaniah",
+          "url": "https://open.spotify.com/artist/43Y2qDsaehzl7U9s2RtFX6"
+        }
+      ],
+      "duration_ms": 218666,
+      "name": "where is your pride?",
+      "url": "https://open.spotify.com/track/5H8f92czIxzvXko1n7toHZ"
+    },
+    {
+      "added_at": "2024-05-17 03:03:00",
+      "album": {
         "name": "Tequila",
         "url": "https://open.spotify.com/album/6gfGUXVaqfEKv8x9jaJ3LP"
       },
@@ -911,26 +931,6 @@
       "duration_ms": 178010,
       "name": "Stay Mine",
       "url": "https://open.spotify.com/track/7IhWJM8cN04zRQ2PNM91xc"
-    },
-    {
-      "added_at": "2024-05-17 03:03:00",
-      "album": {
-        "name": "where is your pride?",
-        "url": "https://open.spotify.com/album/2gC9Z5MHfmUkW2e3uHw56f"
-      },
-      "artists": [
-        {
-          "name": "Moby",
-          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
-        },
-        {
-          "name": "Benjamin Zephaniah",
-          "url": "https://open.spotify.com/artist/43Y2qDsaehzl7U9s2RtFX6"
-        }
-      ],
-      "duration_ms": 218666,
-      "name": "where is your pride?",
-      "url": "https://open.spotify.com/track/5H8f92czIxzvXko1n7toHZ"
     },
     {
       "added_at": "2024-05-17 03:03:00",

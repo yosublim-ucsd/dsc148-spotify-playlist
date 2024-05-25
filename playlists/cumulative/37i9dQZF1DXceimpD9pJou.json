@@ -1119,6 +1119,24 @@
     },
     {
       "album": {
+        "name": "Al Pie de la Cruz",
+        "url": "https://open.spotify.com/album/6vWmg1LbvYIRYVOQ9M4SA7"
+      },
+      "artists": [
+        {
+          "name": "Mariannah y Diego",
+          "url": "https://open.spotify.com/artist/2bZwH6BImOFTkOPaSdbtOG"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233376,
+      "name": "Al Pie de la Cruz",
+      "url": "https://open.spotify.com/track/0FtFEdnJLvtSi0pM2K9mKR"
+    },
+    {
+      "album": {
         "name": "Al Taller del Maestro",
         "url": "https://open.spotify.com/album/6yI9apND1qvfAoW3I3olhF"
       },
@@ -4298,7 +4316,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 309453,
       "name": "Canci\u00f3n De Victoria",
       "url": "https://open.spotify.com/track/0gIYyH5AwuBL18Pkwm4y4P"
@@ -4556,6 +4574,28 @@
       "duration_ms": 237272,
       "name": "Casi Un Mill\u00f3n",
       "url": "https://open.spotify.com/track/5gnkKWGodMbuLFKoIAYjJB"
+    },
+    {
+      "album": {
+        "name": "Casita en el Cielo",
+        "url": "https://open.spotify.com/album/2Xdlf33WLjUgb9Pgxb1uHM"
+      },
+      "artists": [
+        {
+          "name": "Niel Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/0PsPEEuOCQ8oXtas45GuhW"
+        },
+        {
+          "name": "Kike Pav\u00f3n",
+          "url": "https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183760,
+      "name": "Casita en el Cielo",
+      "url": "https://open.spotify.com/track/67nH4fENqR57oYGpE6BNgy"
     },
     {
       "album": {
@@ -6678,7 +6718,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 356133,
       "name": "Cu\u00e1n Grande",
       "url": "https://open.spotify.com/track/5SBaJwEcoQxKmjJSnjCWnZ"
@@ -8136,7 +8176,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 582000,
       "name": "Dios Es Mi Pap\u00e1 4 (En Vivo)",
       "url": "https://open.spotify.com/track/6iPLKtnIvY98TpqTRnOnMx"
@@ -10428,7 +10468,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 323344,
       "name": "En Memoria De Ti",
       "url": "https://open.spotify.com/track/62fL5RqurblUV6egM3IVjf"
@@ -11955,6 +11995,28 @@
     },
     {
       "album": {
+        "name": "Fan #1",
+        "url": "https://open.spotify.com/album/7zP7xJ4dHLgP9JzjuRJY3I"
+      },
+      "artists": [
+        {
+          "name": "Gocho",
+          "url": "https://open.spotify.com/artist/1E2ZsvpZKP4qMPNARv36W5"
+        },
+        {
+          "name": "Madiel Lara",
+          "url": "https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191320,
+      "name": "Fan #1",
+      "url": "https://open.spotify.com/track/4GE93uPcN1pjpkpxFOARK4"
+    },
+    {
+      "album": {
         "name": "Favor & Gracia",
         "url": "https://open.spotify.com/album/7DftaOdyfraRMyYJlc2c2Q"
       },
@@ -12653,6 +12715,28 @@
     },
     {
       "album": {
+        "name": "Fugitiva",
+        "url": "https://open.spotify.com/album/7u9JWTdbkLGY6vSaYwg83y"
+      },
+      "artists": [
+        {
+          "name": "Eich Nothingness",
+          "url": "https://open.spotify.com/artist/6cFqhnt1xZwIl7cR3Y7R2i"
+        },
+        {
+          "name": "Christian Ponce",
+          "url": "https://open.spotify.com/artist/4Xhe8s10yLiuTzG7k1Kq4W"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229125,
+      "name": "Fugitiva",
+      "url": "https://open.spotify.com/track/1dhgsVeT9C1Wsd1eEAemdD"
+    },
+    {
+      "album": {
         "name": "Fuiste La Cura",
         "url": "https://open.spotify.com/album/0kx8L6MKRRhRnRnuB0lcKY"
       },
@@ -12832,10 +12916,28 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 654850,
       "name": "Gangster de Dios 4",
       "url": "https://open.spotify.com/track/4CkQiDcuC9WUF2s669yZlQ"
+    },
+    {
+      "album": {
+        "name": "Generaci\u00f3n de Avivamiento",
+        "url": "https://open.spotify.com/album/72aW64GoRo39SU4ngJZIdY"
+      },
+      "artists": [
+        {
+          "name": "Laura Laverde",
+          "url": "https://open.spotify.com/artist/1pXAn3wEAdsdj2bdzSvmDY"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347210,
+      "name": "Generaci\u00f3n de Avivamiento",
+      "url": "https://open.spotify.com/track/2uGv0QCohFaYive3zqNLzB"
     },
     {
       "album": {
@@ -13524,7 +13626,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 308989,
       "name": "Gracias A La Cruz",
       "url": "https://open.spotify.com/track/1z8O7c6SeYQymSen7xbTsF"
@@ -13630,7 +13732,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 249312,
       "name": "Grande",
       "url": "https://open.spotify.com/track/1XxdWena7OW5q1Xb3VZ9dK"
@@ -14228,6 +14330,24 @@
       "duration_ms": 192959,
       "name": "Hay Fiesta",
       "url": "https://open.spotify.com/track/0O5JZMB8BntvrzyMlHY7UW"
+    },
+    {
+      "album": {
+        "name": "Hay Fiesta (En Vivo)",
+        "url": "https://open.spotify.com/album/27lAfc6t2pd7iWziYzjFvI"
+      },
+      "artists": [
+        {
+          "name": "Su Presencia",
+          "url": "https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214531,
+      "name": "Hay Fiesta - En Vivo",
+      "url": "https://open.spotify.com/track/5Y2mbhncmP1blhuYLo5db8"
     },
     {
       "album": {
@@ -15890,6 +16010,24 @@
       "duration_ms": 309976,
       "name": "Jes\u00fas mi sanador",
       "url": "https://open.spotify.com/track/6G4a3VaDQmJ2sklXK8q1yr"
+    },
+    {
+      "album": {
+        "name": "Jes\u00fas Nuestro Juez Y Rescate",
+        "url": "https://open.spotify.com/album/6OyMWR0XRlFFmRgOZnMgW7"
+      },
+      "artists": [
+        {
+          "name": "Gracia Soberana M\u00fasica",
+          "url": "https://open.spotify.com/artist/3yZLchlyOSmGC6B6bUhgVU"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234582,
+      "name": "Jes\u00fas Nuestro Juez Y Rescate",
+      "url": "https://open.spotify.com/track/7xXJ2EhBUX3HxAx79ayPug"
     },
     {
       "album": {
@@ -18348,7 +18486,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 467500,
       "name": "Lugares Celestiales",
       "url": "https://open.spotify.com/track/2YYX11zoQoOwiOeWvPnZTE"
@@ -20388,6 +20526,28 @@
       "duration_ms": 221160,
       "name": "Mi Socorro Has Sido Tu / Temprano Yo Te Buscare",
       "url": "https://open.spotify.com/track/0k7DoXPfRyS8lDcFBy7col"
+    },
+    {
+      "album": {
+        "name": "Re-Cover (20 A\u00f1os)",
+        "url": "https://open.spotify.com/album/4TiHmV4gG1dZV5IcnIFkej"
+      },
+      "artists": [
+        {
+          "name": "Pescao Vivo",
+          "url": "https://open.spotify.com/artist/5GlkVOsZJwtYsvY55B8ExI"
+        },
+        {
+          "name": "Laura Sof\u00eda",
+          "url": "https://open.spotify.com/artist/7JX6rkw6bRQ5ZPwPbtLbpf"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180174,
+      "name": "Mi Tesoro",
+      "url": "https://open.spotify.com/track/5yjA21xK7PfpT9isNQHuNB"
     },
     {
       "album": {
@@ -23606,7 +23766,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 127594,
       "name": "Padre Nuestro (feat. Le Dolce Vita)",
       "url": "https://open.spotify.com/track/6tvC1NF8jD4y9x7EGg1oRL"
@@ -24693,6 +24853,32 @@
     },
     {
       "album": {
+        "name": "Por Tu Sangre",
+        "url": "https://open.spotify.com/album/73dccjCrTtLKlg9SDlWRyq"
+      },
+      "artists": [
+        {
+          "name": "El Philippe",
+          "url": "https://open.spotify.com/artist/3COYG9FFfTZQEB5B58Ufi1"
+        },
+        {
+          "name": "Airon Music",
+          "url": "https://open.spotify.com/artist/6raxxg6zEEYzIWfHN2wAy2"
+        },
+        {
+          "name": "Luigi Cortes",
+          "url": "https://open.spotify.com/artist/7nuhnK8dSQIjg87YRWLH6d"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233141,
+      "name": "Por Tu Sangre",
+      "url": "https://open.spotify.com/track/5V4wb7a5qqKcCmklkSmwcI"
+    },
+    {
+      "album": {
         "name": "Por Un A\u00f1o M\u00e1s",
         "url": "https://open.spotify.com/album/6x9BTyxCu5g1TojB7rbGX5"
       },
@@ -24962,7 +25148,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 285765,
       "name": "Primero Nos Am\u00f3 - Ac\u00fastica",
       "url": "https://open.spotify.com/track/2Tz6jH71Qb0xMq7WeQxylc"
@@ -28622,6 +28808,10 @@
         {
           "name": "mission musica",
           "url": "https://open.spotify.com/artist/16xtOvCPk7NaeGsdrLehgw"
+        },
+        {
+          "name": "Lorena Gamba Castellanos",
+          "url": "https://open.spotify.com/artist/6ETHdwWFmf6kL9I2WENKZx"
         }
       ],
       "date_added": "2024-05-17",
@@ -30882,7 +31072,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 276094,
       "name": "Tiempo - Ac\u00fastica, En Vivo",
       "url": "https://open.spotify.com/track/63dv2CX0q6M5jAGb242gr0"
@@ -31258,6 +31448,24 @@
       "duration_ms": 253123,
       "name": "Todo Obra Para Bien",
       "url": "https://open.spotify.com/track/6v3eeyePzyKH8ctbVO4hNQ"
+    },
+    {
+      "album": {
+        "name": "Todo Obra Para Bien (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/6qdSxXkciFQ87Ebm0g2sLj"
+      },
+      "artists": [
+        {
+          "name": "Alejandra Miguez",
+          "url": "https://open.spotify.com/artist/2bbaAx3d1D2AuP89ebeAY6"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245667,
+      "name": "Todo Obra Para Bien - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/5pFpWW5bB2wjvvK4ClWEbQ"
     },
     {
       "album": {
@@ -32891,6 +33099,24 @@
     },
     {
       "album": {
+        "name": "Un ni\u00f1o como t\u00fa",
+        "url": "https://open.spotify.com/album/0sbukj352MU09Wadu3vOEn"
+      },
+      "artists": [
+        {
+          "name": "Pablo Sanz",
+          "url": "https://open.spotify.com/artist/0pA7tWRsJ4Vz1iBXjfwzC0"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "Un ni\u00f1o como t\u00fa",
+      "url": "https://open.spotify.com/track/3bxc0bluK3GCAuzwW7sRuR"
+    },
+    {
+      "album": {
         "name": "Una Canci\u00f3n para la Comuni\u00f3n",
         "url": "https://open.spotify.com/album/5PRuvarYZNzQzJDlyIfC4N"
       },
@@ -33624,7 +33850,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 730907,
       "name": "Ven Regresa",
       "url": "https://open.spotify.com/track/0MGftj6dMvNbOmYdc862fr"
@@ -34412,6 +34638,24 @@
       "duration_ms": 179310,
       "name": "VIVO X TI",
       "url": "https://open.spotify.com/track/3dEo4rRlfd4dN621weMh5j"
+    },
+    {
+      "album": {
+        "name": "Voces",
+        "url": "https://open.spotify.com/album/4qpE7lMVcvgksNsq6A2XYM"
+      },
+      "artists": [
+        {
+          "name": "Wes Kennedy",
+          "url": "https://open.spotify.com/artist/3cDhJtuPtspj12n7MFERBL"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215816,
+      "name": "Voces",
+      "url": "https://open.spotify.com/track/07gdYengb24uwVqOrir6Dd"
     },
     {
       "album": {

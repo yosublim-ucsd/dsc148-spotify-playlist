@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "11 + 11",
+        "url": "https://open.spotify.com/album/6BqC4MqGmu438gIvuCw00Y"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        },
+        {
+          "name": "La Duda",
+          "url": "https://open.spotify.com/artist/76PanOLrnvlpAjGLTOR3y6"
+        }
+      ],
+      "date_added": "2024-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196375,
+      "name": "11 + 11",
+      "url": "https://open.spotify.com/track/3p7kSQp2lX5fKjwohrSzmm"
+    },
+    {
+      "album": {
         "name": "(En Vivo) con Banda Sinaloense La Tuyia de Culiacan, Sinaloa (Vol 2)",
         "url": "https://open.spotify.com/album/13ypsbRldKgFVj9npcAl4A"
       },

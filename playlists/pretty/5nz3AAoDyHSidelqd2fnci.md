@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/5nz3AAoDyHSidelqd2fnci.md) - [plain]
 
 > 
 
-[Felipe Arriagada PIPEMANUEL](https://open.spotify.com/user/12145835791) - 0 like - 12 songs - 50 min 45 sec
+[Felipe Arriagada PIPEMANUEL](https://open.spotify.com/user/12145835791) - 0 like - 12 songs - 46 min 40 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [if you still like me in the morning](https://open.spotify.com/track/32UGfgmC8cbsK3RpqIJs4f) | [Tessa Rae](https://open.spotify.com/artist/1DdDuFwFjcX2NN5bYnqu5k) | [if you still like me in the morning](https://open.spotify.com/album/7uEB2J1sLv4Wg48XXUH93l) | 3:48 |
-| 2 | [Where The River Flows](https://open.spotify.com/track/5c3K5Lwh6vcHi98qNYSNx8) | [Collective Soul](https://open.spotify.com/artist/4e5V1Q2dKCzbLVMQ8qbTn6) | [Collective Soul](https://open.spotify.com/album/6zGQoUd5QQ65xMx5OycFgE) | 3:35 |
-| 3 | [Back For More](https://open.spotify.com/track/1QlrSCN6TkLKTvZcpUVWSS) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [American Capitalist](https://open.spotify.com/album/3QGWtX1z0GAuAVIFAFcGUM) | 3:22 |
-| 4 | [Tangerine](https://open.spotify.com/track/6xdB35eP1oltwaPgtwZ9tP) | [Caity Krone](https://open.spotify.com/artist/0qMLMrYSgSJBquDGCOMERs) | [Nose Job](https://open.spotify.com/album/2uOQTwIOf0IJecVoNYdFAi) | 4:31 |
-| 5 | [Poison](https://open.spotify.com/track/6RZOIthuCD95PLtDYpYy9d) | [Tarja](https://open.spotify.com/artist/5IRFMGI8aEtZdN07OYrBZc) | [My Winter Storm](https://open.spotify.com/album/417hziqslI7SOO5ysAakGF) | 3:59 |
-| 6 | [Lugares Comunes](https://open.spotify.com/track/3Q7ps56omB24P5ClK5Thhv) | [Virus](https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV) | [Locura](https://open.spotify.com/album/5K3EGqntkI4To4TKtmIj2r) | 3:12 |
-| 7 | [One Wild Night](https://open.spotify.com/track/03LGpDYgqaaj2TuX5Sj7CS) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Crush](https://open.spotify.com/album/0Q9SljCrM0CL0bR23MuP69) | 4:42 |
-| 8 | [Army Of Me](https://open.spotify.com/track/5zRuPOBoe38AjACFMsxkof) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Post](https://open.spotify.com/album/3p7WXDBxhC5KS9IFXnwae7) | 3:54 |
-| 9 | [Un Amor Violento](https://open.spotify.com/track/1DSWmpfOQZrEAbD0a3RF0u) | [Los Tres](https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S) | [Grandes Exitos](https://open.spotify.com/album/6Nvv5Jrk3cg5BdplDxEsHq) | 4:32 |
-| 10 | [Re\-Education \(Through Labor\)](https://open.spotify.com/track/6c1Bdvp208X0jbLmFnWbkC) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Appeal To Reason](https://open.spotify.com/album/4ebodSLpRqbuQjpGlDZglH) | 3:42 |
-| 11 | [Livin' On The Edge](https://open.spotify.com/track/4avSaixVwu8uqfSs7zgoj3) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Get A Grip](https://open.spotify.com/album/1tuM8yBePaekEruGsH2J79) | 6:20 |
-| 12 | [The Conjuring \- Remastered](https://open.spotify.com/track/0pv49erP5wxMZMnprRCqXT) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Peace Sells...But Who's Buying? \(Expanded Edition \- Remastered\)](https://open.spotify.com/album/4U8ZF5zDIRy4lBnnXBN2uO) | 5:02 |
+| 1 | [Dear God](https://open.spotify.com/track/2FML7gk7ac6quGFIjvkDb3) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Avenged Sevenfold](https://open.spotify.com/album/3Id3VUk9jSKBD1guNo1buF) | 6:33 |
+| 2 | [Jimmy Neutron \- Theme](https://open.spotify.com/track/450y5TyBlnE5EWF9OBX72O) | [Coded Channel](https://open.spotify.com/artist/5KTdvobMRET4Z8uRxvMUCW) | [Remember the Themes \- Manga Anime, and Other Cartoon Themes](https://open.spotify.com/album/33wo1N71Za7lJwkEUlLib4) | 0:35 |
+| 3 | [Sanctuary \- 1998 Remastered Version](https://open.spotify.com/track/5cJUFUWnVYkqwpCLxfOrzp) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Iron Maiden \(1998 Remastered Edition\)](https://open.spotify.com/album/5J5fnu7PEwhgzdkiBBtblw) | 3:16 |
+| 4 | [Rap Vs\. Racismo \- Con Lírico, Santo, El Langui, Kase.O, Nach, Locus, Ose, Nervizzo, Sho Hai, Zatu, Gitano Anton, Titó y Xhelazz.](https://open.spotify.com/track/3FZDo3ehmRfeKpkwhsjn7A) | [El Chojin](https://open.spotify.com/artist/3m1an5fzquhCtk4UnhmLmc) | [El Ataque De Los Que Observaban](https://open.spotify.com/album/4o6mYEnQEUVwTW6ijgdwBY) | 5:54 |
+| 5 | [Running Free \- 2015 Remaster](https://open.spotify.com/track/5JX4CIPK47CU1iVeAWJtH5) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Iron Maiden \(2015 Remaster\)](https://open.spotify.com/album/3DNeMApEMCo4IDXNMYnlFi) | 3:17 |
+| 6 | [Speechless](https://open.spotify.com/track/5S4llrdOSlVYLlFZflVQE8) | [Demae](https://open.spotify.com/artist/1HkWfjmOohAg7lS9bv1QcL) | [Speechless](https://open.spotify.com/album/4ABBtWGwPKGMpph6AAK0hQ) | 3:40 |
+| 7 | [Absolute Zero](https://open.spotify.com/track/14EORgkbXqIx5K4Haucmnb) | [Stone Sour](https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF) | [House of Gold & Bones, Part 1](https://open.spotify.com/album/2nCHgPLLyIgxFKUBYuMKPn) | 3:49 |
+| 8 | [Bridges](https://open.spotify.com/track/06hwOuz3WiHkqfy0iNs3Tt) | [Courage My Love](https://open.spotify.com/artist/3pnnJVeIXqNJdUVUoLVPtl) | [For Now](https://open.spotify.com/album/79Daasf9K9t4SnLDxSmFsx) | 4:06 |
+| 9 | [Love Over Glory](https://open.spotify.com/track/0FQroAJHjN85mvXb9Wu56D) | [Zinadelphia](https://open.spotify.com/artist/2bTnGGWvuVQsMVyg31rmum) | [Love Over Glory](https://open.spotify.com/album/10q9pHSwBj611CT8gcN3pp) | 4:39 |
+| 10 | [Abigail](https://open.spotify.com/track/5xenULMipKwyxl99DSdnIq) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl) | [Creatures](https://open.spotify.com/album/6tWsRZMq3LPk5L58Ccdnw9) | 2:52 |
+| 11 | [Lemuria](https://open.spotify.com/track/0lWYqPPmSQ0LIY4nN29QAl) | [Therion](https://open.spotify.com/artist/5c8Cw62ZYj9XO6iDLRDEsi) | [Lemuria](https://open.spotify.com/album/5FHpu3tCWXr4PSf5Xtrey3) | 4:15 |
+| 12 | [Cartoon Heroes \- Radio Edit](https://open.spotify.com/track/7vJgjjXD9spt5fgaSPox9z) | [Aqua](https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz) | [Aquarius \(Special Edition\)](https://open.spotify.com/album/0VN03Z2zA08bsq8eiDQZxu) | 3:39 |
 
-Snapshot ID: `AAAAfFJqPz3Y5BgZCxmpml5b8vw3l3S9`
+Snapshot ID: `AAAAfQRk3I0KSv0iKtouzVNgRe8nqQGZ`

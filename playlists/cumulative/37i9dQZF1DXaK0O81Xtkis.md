@@ -2,9 +2,9 @@
 
 ### [soda](https://open.spotify.com/playlist/37i9dQZF1DXaK0O81Xtkis)
 
-> make it pop! cover: vaultboy
+> make it pop! cover: RM
 
-994 songs - 2 day 1 hr 20 min
+1,001 songs - 2 day 1 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [After the Tone](https://open.spotify.com/track/3JK6Fyd3DjaThmIjDAUPBm) | [LLusion](https://open.spotify.com/artist/5XBb04uBpKPWPWC2jXgGqb), [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [After the Tone](https://open.spotify.com/album/7MfUuta1xlJMFfNZh3TAPT) | 2:22 | 2022-01-28 | 2022-03-18 |
 | [Afterglow](https://open.spotify.com/track/7Lsf0sutIM9n4D0qXnEKWN) | [Leon of Athens](https://open.spotify.com/artist/5yiBeJaPO9FPgplB6HpGg0), [Transviolet](https://open.spotify.com/artist/7ixzNQXQ64I2ayrtyhlF7i) | [Afterglow](https://open.spotify.com/album/2qbRiJO6Qi4kJ7RNIcGfCQ) | 2:40 | 2024-03-29 | 2024-04-27 |
 | [Afterlife](https://open.spotify.com/track/2Kg1iDi7uHeAKUsFUV8cbU) | [Kid Bloom](https://open.spotify.com/artist/5CXdWANGwYYRPClH6hhC0P) | [Afterlife](https://open.spotify.com/album/6QxANS2xYXeZjbezRja99U) | 2:43 | 2023-09-29 | 2023-11-25 |
+| [Aftertaste](https://open.spotify.com/track/0KPA2aCi4kfDGqynXmgPVc) | [Finn Askew](https://open.spotify.com/artist/0ZYv8jRFp5YAC29bfjaP9X) | [Aftertaste](https://open.spotify.com/album/4MOQ2Fhg9OjhbhMifdRh3d) | 2:33 | 2024-05-24 |  |
 | [Again](https://open.spotify.com/track/0Eef5uHiJVJO0nt4Zo4QCd) | [Emarosa](https://open.spotify.com/artist/68tKVjVvcqUfKFFLr2j0Ek) | [Sting](https://open.spotify.com/album/0BBW1lCE63dBs7u79aFIet) | 3:25 | 2023-01-27 | 2023-02-11 |
 | [Again](https://open.spotify.com/track/4xdPgVt4AwYzVsYZ8TuFQB) | [Emarosa](https://open.spotify.com/artist/68tKVjVvcqUfKFFLr2j0Ek) | [Again](https://open.spotify.com/album/3SuZwz2B4DjWeL3JlAFmBG) | 3:25 | 2022-11-11 | 2022-11-24 |
 | [Again](https://open.spotify.com/track/6ZZntgtMvygJgfnzkpiklv) | [Emarosa](https://open.spotify.com/artist/68tKVjVvcqUfKFFLr2j0Ek) | [Again](https://open.spotify.com/album/0UnB3RhLhRaVjSYS6wDyfp) | 3:25 | 2022-11-11 | 2023-02-01 |
@@ -98,6 +99,7 @@
 | [Birthmark](https://open.spotify.com/track/0WBkEWQ7evLCkPRLehTJeY) | [Dizzy](https://open.spotify.com/artist/0g3BS5QoR5r6pOAg1tvwXv) | [Birthmark](https://open.spotify.com/album/35GQtom38u5STlcnpDeALd) | 3:22 | 2023-01-20 | 2023-03-25 |
 | [blame](https://open.spotify.com/track/3UEjjwl3SaUPrXOltnUvmq) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0) | [blame / how to exit a room](https://open.spotify.com/album/5fSKEKXlwoX3XTQWZNJInQ) | 3:10 | 2023-06-09 | 2023-09-16 |
 | [Blame Brett](https://open.spotify.com/track/7Az7rVogNu6XpLnykVI5fA) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Blame Brett](https://open.spotify.com/album/4FJuBUAQv20qh8LAxDdzjN) | 2:56 | 2024-01-05 |  |
+| [BLAME IT ON ME](https://open.spotify.com/track/3O4EGwdDFNMs69RWWSQRFI) | [Alex Coles](https://open.spotify.com/artist/7itwELrXfDuINywbgrNm6b) | [BLAME IT ON ME](https://open.spotify.com/album/5w2zXflgG8ZZtJLqT7Gvsl) | 2:42 | 2024-05-24 |  |
 | [Blame The Brakes](https://open.spotify.com/track/4ZoPMviImcYNDNz6NEuDHm) | [Hastings](https://open.spotify.com/artist/0cMrisD7Y14WMODerxofNO) | [Blame The Brakes](https://open.spotify.com/album/0jGU8t3SZvyiNgu02pInoo) | 3:26 | 2022-09-30 | 2023-03-04 |
 | [Blank Me](https://open.spotify.com/track/4GykOaWBJPS647ewLtyrCh) | [Hastings](https://open.spotify.com/artist/0cMrisD7Y14WMODerxofNO) | [Blank Me](https://open.spotify.com/album/7na6EPTI7sIHutOQfJNXev) | 3:58 | 2021-11-19 | 2022-03-18 |
 | [Bleach](https://open.spotify.com/track/3j8mwslzqj90yjWWNwwff8) | [Isaac Dunbar](https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816) | [Bleach](https://open.spotify.com/album/7ub18yc0hNRu7ImCIFzlYk) | 3:39 | 2022-02-18 | 2022-06-04 |
@@ -263,6 +265,7 @@
 | [evergreen](https://open.spotify.com/track/4XxUka4jIa0girDclOY4iA) | [Christian French](https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM) | [evergreen](https://open.spotify.com/album/56dV2v5Rd5QVg3A2JPkVnM) | 3:08 | 2022-09-23 | 2022-12-03 |
 | [Every Little Thing I Say I Do](https://open.spotify.com/track/3ngjq0C1z1kVYAdBH5114w) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Every Little Thing I Say I Do](https://open.spotify.com/album/6aYHsDzCmD030bmUaVaKq8) | 3:00 | 2024-05-03 |  |
 | [everything hits me at once](https://open.spotify.com/track/77hDNIRbK41SsEthQ04Nwb) | [vaultboy](https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB) | [everything hits me at once](https://open.spotify.com/album/1KEfhUPBUnf56x7Rh8KoG0) | 2:32 | 2023-09-29 | 2024-02-10 |
+| [EVERYTHING IS QUIET](https://open.spotify.com/track/3lGQcPU2upIFPRSPbFP6zU) | [Braden Bales](https://open.spotify.com/artist/3Ru5n2T3JIrjnSZhf2rinv) | [EVERYTHING IS QUIET](https://open.spotify.com/album/12IcWhbAubyOHnXlowiGGc) | 2:53 | 2024-05-24 |  |
 | [Expiration Date](https://open.spotify.com/track/4gSeTIoKhkvGoebMtohlNC) | [NERIAH](https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG) | [Expiration Date](https://open.spotify.com/album/0qQxB4grsHTtUYCYlpUCFp) | 3:18 | 2022-09-16 | 2023-02-11 |
 | [Eyes On You](https://open.spotify.com/track/6qItx3M2IZbXBKRnptbnHM) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [Eyes On You](https://open.spotify.com/album/2vwW8EzZGZaAFfZ2HYL1hE) | 2:57 | 2022-11-18 | 2023-03-25 |
 | [f\*\*k it, i'm the man](https://open.spotify.com/track/3Jq0vjC96tJlUVAdKfMajk) | [SEB](https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi) | [f\*\*k it, i'm the man](https://open.spotify.com/album/3lT6pYJ3y8YcpMKGHQjdsj) | 2:30 | 2022-02-18 | 2022-04-16 |
@@ -546,6 +549,7 @@
 | [Loserz](https://open.spotify.com/track/5RQiw6eBSeARgg9tSdW3Qb) | [Jordan Stephens](https://open.spotify.com/artist/0SVz62vUjHKkbVOgoTK4Ze) | [Let Me Die Inside You](https://open.spotify.com/album/6tBjeKusAd1fYNxZsjojmb) | 4:08 | 2022-02-25 | 2022-03-12 |
 | [Lost Boy](https://open.spotify.com/track/0VzHwYlPuWHjyaq6HLB9UV) | [The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw) | [Kids](https://open.spotify.com/album/7DZuN9XYdWLa2l4huvH3jy) | 4:37 | 2022-04-01 | 2022-04-09 |
 | [Lost In The Moment](https://open.spotify.com/track/3nF5FjUP4W0QBxW4JCyUoa) | [Blanks](https://open.spotify.com/artist/7geo7fjTQyp13Wf2ALTZCF) | [Lost In The Moment](https://open.spotify.com/album/68WmmsPnVwG3ltUQaDY0JJ) | 2:33 | 2022-03-18 | 2022-08-27 |
+| [LOST!](https://open.spotify.com/track/02H58MSfVESkKyx4diDgu7) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Right Place, Wrong Person](https://open.spotify.com/album/512dQp7hBbDDurodCqSw5I) | 3:53 | 2024-05-24 |  |
 | [Loud Music](https://open.spotify.com/track/52awPPpUDk2wunBLwrHcQY) | [Seaforth](https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG) | [Loud Music](https://open.spotify.com/album/7kzBVQLVedU12XiBI2jQ56) | 2:56 | 2023-09-08 | 2024-01-05 |
 | [Love Again](https://open.spotify.com/track/4sx6NRwL6Ol3V6m9exwGlQ) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Love Again](https://open.spotify.com/album/3z53jSP5i9bCPVOu3PARM8) | 2:26 | 2023-01-27 | 2023-03-11 |
 | [Love At First Fight](https://open.spotify.com/track/4mSrpsvyDlfDOLjmDX71VE) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Love At First Fight](https://open.spotify.com/album/2dPe2myx7weXywXiYY0veL) | 3:12 | 2023-06-09 | 2023-09-16 |
@@ -787,6 +791,7 @@
 | [sophisticated](https://open.spotify.com/track/6p7Fm6TupbX3NU4fsJx5wG) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [sophisticated](https://open.spotify.com/album/1W9TZkECRCF5b1bYbdJxeS) | 2:59 | 2022-08-19 | 2022-09-03 |
 | [Sorry Sorry](https://open.spotify.com/track/17YpFF4E6oMFZWKzaXnZdp) | [Towa Bird](https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt) | [Sorry Sorry](https://open.spotify.com/album/3I2q66LfIWOWrRniUc4XGC) | 3:28 | 2024-05-10 |  |
 | [SOS](https://open.spotify.com/track/40fgimZMmbb21zLiyDa2j3) | [Kxllswxtch](https://open.spotify.com/artist/2VDZoCBGjxbHJbnzSX5nP6) | [SOS](https://open.spotify.com/album/6YhIk6y8ENfQN7qcSIwuvB) | 3:16 | 2024-01-26 | 2024-02-17 |
+| [SOS](https://open.spotify.com/track/6lg0ZagTCrEnuVSoOz8I5W) | [Robert Grace](https://open.spotify.com/artist/6W8rk6H6C3Mcj0lALuLVg1) | [Happy Sad Songs](https://open.spotify.com/album/0kyYIrS10ZxHFK8tvgAynM) | 2:10 | 2024-05-24 |  |
 | [Space for Two](https://open.spotify.com/track/6OKBCw2Le2y2CWJSDHwX43) | [NoMBe](https://open.spotify.com/artist/5Lhxlge1CR1DrgDAje8Qaw) | [Space for Two](https://open.spotify.com/album/495sK9JLE8k6ow3uJbxmDJ) | 1:45 | 2024-02-09 | 2024-04-27 |
 | [Spaced Out](https://open.spotify.com/track/7DZW8lVDFRy8feObANUuW8) | [Confetti](https://open.spotify.com/artist/1oyUjl52ohRrCv3EL1UdpM) | [Spaced Out](https://open.spotify.com/album/08L02FtPJVPDDJ6gE3Kxmw) | 2:43 | 2024-01-26 | 2024-02-17 |
 | [Spilled My Coffee \(feat\. Allday\) \- HONNE Rework](https://open.spotify.com/track/7mVAOwhLfl5htPDL738wrB) | [Snøw](https://open.spotify.com/artist/5fSVkkuijRIpxuvSqysYiP), [Jack Cullen](https://open.spotify.com/artist/6lUfZGm7WIkgsfLhafFCfB), [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac), [Allday](https://open.spotify.com/artist/2Ltr0s15RyvsjqWzSmiSRs) | [Spilled My Coffee \(feat\. Allday\) \[HONNE Rework\]](https://open.spotify.com/album/6OfR7z0MDFFx2jEoRcD2ih) | 2:51 | 2021-10-29 | 2022-01-15 |
@@ -951,6 +956,7 @@
 | [What Do You Do for a Living? I Do My Best](https://open.spotify.com/track/6s2NbDQhKWMS3BauT5Nr3d) | [iamnotshane](https://open.spotify.com/artist/3jN7f9X0EmFnsbRS6nl6as), [EMME](https://open.spotify.com/artist/04zy0QJacNRBhI0H3WmkSs) | [Chasing the Wind](https://open.spotify.com/album/37YccldXcBrMJ728lWYcQT) | 3:21 | 2024-01-26 | 2024-04-27 |
 | [What I Want](https://open.spotify.com/track/7uvxkcv7FWVh4wE91I8Bi2) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [MUNA](https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l) | 4:03 | 2022-06-24 | 2022-12-03 |
 | [What If I Love You](https://open.spotify.com/track/4i4WsUvJEgB4V6AyONAJe8) | [Gatlin](https://open.spotify.com/artist/1KGcdM5KxCVydaHe29QAj9) | [What If I Love You](https://open.spotify.com/album/71cvc2lqbA7DL44y45Cf9s) | 2:38 | 2024-01-05 | 2024-05-11 |
+| [What If You Change?](https://open.spotify.com/track/0X1zc021vthGFkGD8jBfYS) | [The Wldlfe](https://open.spotify.com/artist/2Vvj76fff5uAw10W1sW54W) | [What If You Change?](https://open.spotify.com/album/5uDT1HnHn2QqFoABrcEnJ9) | 3:25 | 2024-05-24 |  |
 | [WHAT THE HELL](https://open.spotify.com/track/7fjd7XOn6Bp8PMNdp7YZDO) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [WHAT THE HELL](https://open.spotify.com/album/3ipWal9rIQJcZHztmB8tLQ) | 2:52 | 2024-03-15 |  |
 | [What We Wanted](https://open.spotify.com/track/5GjQuycV1lNwXWOPNx62U0) | [Stephen Dawes](https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose) | [What We Wanted](https://open.spotify.com/album/4olIbtgqWVhl3yQN7xp5Qb) | 2:48 | 2024-04-26 |  |
 | [What's Been On Your Mind?](https://open.spotify.com/track/3lpshfvmjrxGm9xr3x47F2) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [What's Been On Your Mind?](https://open.spotify.com/album/7HYuwChe92i9qPG4QFJ0Rs) | 2:52 | 2022-06-10 | 2022-08-13 |
@@ -990,6 +996,7 @@
 | [Yellow \- Spotify Singles](https://open.spotify.com/track/6VDuCryADxIMCNLCfyovtO) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [Yellow \- Spotify Singles](https://open.spotify.com/album/6lzLiRiEqZHySJVfbv86i0) | 4:29 | 2024-04-12 |  |
 | [Yellow Dresser](https://open.spotify.com/track/56AZAPH8L1lPAEUZgP5kJj) | [Nell Mescal](https://open.spotify.com/artist/4jRq9On9S1F6JkTebaZHqE) | [Yellow Dresser](https://open.spotify.com/album/4lAdZcJI0a7CmFIYYiz6Za) | 3:24 | 2024-04-12 | 2024-05-18 |
 | [Yes I'm A Mess](https://open.spotify.com/track/4Yrt54xR4T8PPOZ7yf9kyT) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [Yes I'm A Mess](https://open.spotify.com/album/0mbu9tcivddH45l4FuazT4) | 2:44 | 2023-11-17 |  |
+| [You \(Show Me Where My Days Went\)](https://open.spotify.com/track/3UIeiuDKnbhZ7OoXZ9j0U5) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [You \(Show Me Where My Days Went\)](https://open.spotify.com/album/6cN6j2Fr5vVCSZnWQyqSSs) | 2:47 | 2024-05-24 |  |
 | [You Don't Even](https://open.spotify.com/track/22ugIn69GgAXsaKox9lXI3) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [You Don't Even](https://open.spotify.com/album/57DIram00k8ChKYxsWJB5l) | 2:18 | 2023-09-08 | 2023-10-24 |
 | [You Don't Even](https://open.spotify.com/track/6jTGHYU466eF0XxVOQuQMy) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [You Don't Even](https://open.spotify.com/album/1Vw2QQWVguHw3kTwCq3kaf) | 2:18 | 2023-10-20 | 2023-11-25 |
 | [YOU DON'T LIKE ME](https://open.spotify.com/track/5mQKjKTFhbujc7wdNvRzhQ) | [Dylan J](https://open.spotify.com/artist/1MbU9ik5RPjIzF90y1he0z) | [YOU DON'T LIKE ME](https://open.spotify.com/album/2T9iQj3qSR5lQPSEPjkul4) | 2:44 | 2024-03-29 | 2024-04-27 |

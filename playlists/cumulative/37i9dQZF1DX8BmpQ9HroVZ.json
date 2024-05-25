@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-22",
-  "description": "The hottest tracks trending in Pakistan featuring AUR, Anuv Jain, Shubh and more. Cover: Kaavish, Abdul Hannan",
+  "description": "The hottest tracks trending in Pakistan featuring AUR, Anuv Jain, Shubh and more. Cover: Kaifi Khalil",
   "name": "Hot Hits Pakistan",
   "tracks": [
     {
@@ -292,7 +292,7 @@
       ],
       "date_added": "2024-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 289974,
       "name": "Aayi Aayi",
       "url": "https://open.spotify.com/track/6eeinYVA4kc7ZkN7irTmzK"
@@ -370,7 +370,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 214750,
       "name": "Admirin' You (feat. Preston Pablo)",
       "url": "https://open.spotify.com/track/6ygiy70ujkNOYXM1tQuMNe"
@@ -422,7 +422,7 @@
       ],
       "date_added": "2023-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 140152,
       "name": "Afterhours",
       "url": "https://open.spotify.com/track/7o1SDLghDwMc4OW3rKakVt"
@@ -604,7 +604,7 @@
       ],
       "date_added": "2023-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 261702,
       "name": "Apna Bana Le",
       "url": "https://open.spotify.com/track/1hA697u7e1jX2XM8sWA6Uy"
@@ -828,7 +828,7 @@
       ],
       "date_added": "2024-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 202105,
       "name": "Balo Batiyan (feat. Atta Ullah Khan Esakhelvi)",
       "url": "https://open.spotify.com/track/5qxSNZz2m8wNH61JYo7bVL"
@@ -850,6 +850,28 @@
       "duration_ms": 154666,
       "name": "Bandana",
       "url": "https://open.spotify.com/track/7KQdgW7QzNd9oPoCzjCU76"
+    },
+    {
+      "album": {
+        "name": "BEMATLAB",
+        "url": "https://open.spotify.com/album/5FxaP7bs11XrDUAza4z5es"
+      },
+      "artists": [
+        {
+          "name": "Asim Azhar",
+          "url": "https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS"
+        },
+        {
+          "name": "Talha Anjum",
+          "url": "https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228205,
+      "name": "Bematlab",
+      "url": "https://open.spotify.com/track/1p6AnftoxhGTuei5RnsvIy"
     },
     {
       "album": {
@@ -1684,7 +1706,7 @@
       ],
       "date_added": "2023-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 139133,
       "name": "Dior",
       "url": "https://open.spotify.com/track/53QrRlALFJfZgdcGLKwy5s"
@@ -2014,7 +2036,7 @@
       ],
       "date_added": "2024-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 133608,
       "name": "favorite",
       "url": "https://open.spotify.com/track/3QJsSWa0Xo8MfaRn1gr4Be"
@@ -2066,7 +2088,7 @@
       ],
       "date_added": "2024-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 234125,
       "name": "FELONY (feat. Talhah Yunus, Calm & Faris Shafi)",
       "url": "https://open.spotify.com/track/6ObdA7xmpxSmDCJ7zDmMH7"
@@ -2494,7 +2516,7 @@
       ],
       "date_added": "2023-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 194857,
       "name": "Heeriye (feat. Arijit Singh)",
       "url": "https://open.spotify.com/track/5PUXKVVVQ74C3gl5vKy9Li"
@@ -2748,7 +2770,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 133305,
       "name": "Iraaday",
       "url": "https://open.spotify.com/track/6qrifdo7QINdPQr80IelGi"
@@ -3130,7 +3152,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 209032,
       "name": "Kamlee",
       "url": "https://open.spotify.com/track/3W81Nm3KNOYUPaDHrwMzWz"
@@ -4090,7 +4112,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 113264,
       "name": "Marham (Pehle Bhi Main) [From \"ANIMAL\"]",
       "url": "https://open.spotify.com/track/1fGXJZny7HUQnLKwttxmYw"
@@ -4361,6 +4383,24 @@
     },
     {
       "album": {
+        "name": "MVP",
+        "url": "https://open.spotify.com/album/5oCCfkVCpkSUhBUXe0pyJF"
+      },
+      "artists": [
+        {
+          "name": "Shubh",
+          "url": "https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196897,
+      "name": "MVP",
+      "url": "https://open.spotify.com/track/5BQePe9rcCJozHK3oPayYk"
+    },
+    {
+      "album": {
         "name": "Na Cher Malangaan Nu",
         "url": "https://open.spotify.com/album/7a4HZHmiFNNqIWt37271SG"
       },
@@ -4442,7 +4482,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 189369,
       "name": "Nasha",
       "url": "https://open.spotify.com/track/2JgTFjNOi9fsXsnmANnYWu"
@@ -4582,7 +4622,7 @@
       ],
       "date_added": "2022-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 170387,
       "name": "No Love",
       "url": "https://open.spotify.com/track/08Isz2ETWSBhvIl8UpKYsp"
@@ -5395,6 +5435,32 @@
     },
     {
       "album": {
+        "name": "Sajni (From \"Laapataa Ladies\")",
+        "url": "https://open.spotify.com/album/3I3kZyHUtEA9Y59rJkxtk6"
+      },
+      "artists": [
+        {
+          "name": "Ram Sampath",
+          "url": "https://open.spotify.com/artist/3PpjqSKBer3obW6lDflOBx"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Prashant Pandey",
+          "url": "https://open.spotify.com/artist/7vCsTTACb2iT4fvBMnwp5w"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170044,
+      "name": "Sajni (From \"Laapataa Ladies\")",
+      "url": "https://open.spotify.com/track/5zCnGtCl5Ac5zlFHXaZmhy"
+    },
+    {
+      "album": {
         "name": "Samjho Na",
         "url": "https://open.spotify.com/album/6qe761tZyhwboJVLXlXJ7B"
       },
@@ -5752,6 +5818,32 @@
       "duration_ms": 242029,
       "name": "Sohna Tu - Why Not Meri Jaan x Dance",
       "url": "https://open.spotify.com/track/4no16yExxD5tsrudceCdCL"
+    },
+    {
+      "album": {
+        "name": "Sonchadi | Coke Studio Bharat",
+        "url": "https://open.spotify.com/album/79ue9SUuZwiB3DAndWME0z"
+      },
+      "artists": [
+        {
+          "name": "Neha Kakkar",
+          "url": "https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI"
+        },
+        {
+          "name": "digV",
+          "url": "https://open.spotify.com/artist/1mSR5X1EyL3MojaBbLHKnK"
+        },
+        {
+          "name": "Kamla Devi",
+          "url": "https://open.spotify.com/artist/4ZgORT0DyKb49NF04cNGrH"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275266,
+      "name": "Sonchadi | Coke Studio Bharat",
+      "url": "https://open.spotify.com/track/730gDa5hYH6XbhFwAEQ4gv"
     },
     {
       "album": {

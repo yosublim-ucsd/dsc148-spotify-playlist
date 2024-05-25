@@ -1,12 +1,12 @@
 {
   "description": "This is Luca Brasi. The essential tracks, all in one playlist.",
-  "num_followers": 852,
+  "num_followers": 855,
   "original_name": "This Is Luca Brasi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zk01gAAAAABB4H9YVFM0HLCtMdjmn7rs",
+  "snapshot_id": "Zk6HAAAAAADYoATBezqbnQppQctBpWPW",
   "tracks": [
     {
       "added_at": null,
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
         }
       ],
-      "duration_ms": 186270,
-      "name": "Collisions",
-      "url": "https://open.spotify.com/track/5zhsZVgFMhEd7q3L3BbpOb"
+      "duration_ms": 214959,
+      "name": "Got to Give",
+      "url": "https://open.spotify.com/track/3Djrqb7qEsnp4LrocvbTaC"
     },
     {
       "added_at": null,
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
         }
       ],
-      "duration_ms": 176893,
-      "name": "Party Scene",
-      "url": "https://open.spotify.com/track/1QYnJPrOiBy6slMePfc0cA"
+      "duration_ms": 204533,
+      "name": "Rinse and Repeat",
+      "url": "https://open.spotify.com/track/13oycWNPkO5TstF1DO1x5D"
     },
     {
       "added_at": null,
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
         }
       ],
-      "duration_ms": 214959,
-      "name": "Got to Give",
-      "url": "https://open.spotify.com/track/3Djrqb7qEsnp4LrocvbTaC"
+      "duration_ms": 186270,
+      "name": "Collisions",
+      "url": "https://open.spotify.com/track/5zhsZVgFMhEd7q3L3BbpOb"
     },
     {
       "added_at": null,
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
         }
       ],
-      "duration_ms": 204533,
-      "name": "Rinse and Repeat",
-      "url": "https://open.spotify.com/track/13oycWNPkO5TstF1DO1x5D"
+      "duration_ms": 176893,
+      "name": "Party Scene",
+      "url": "https://open.spotify.com/track/1QYnJPrOiBy6slMePfc0cA"
     },
     {
       "added_at": null,

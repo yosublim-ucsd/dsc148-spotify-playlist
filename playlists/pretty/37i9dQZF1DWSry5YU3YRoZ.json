@@ -1,6 +1,6 @@
 {
   "description": "\ucc28\ubd84\ud558\uace0 \uac10\uc131\uc801\uc778 \uc74c\uc545\ub4e4\uacfc \ud568\uaed8 \ud3b8\uc548\ud55c \ubc24 \ub418\uc138\uc694 :) (Listen to K-Pop sleeping songs)",
-  "num_followers": 5134,
+  "num_followers": 5133,
   "original_name": "zZZ \uc798\uc790\uc694",
   "owner": {
     "name": "Spotify",
@@ -367,22 +367,6 @@
     {
       "added_at": "2024-03-08 06:42:30",
       "album": {
-        "name": "Lonely night",
-        "url": "https://open.spotify.com/album/1PPYjHO08pHBbIKvWrx5jA"
-      },
-      "artists": [
-        {
-          "name": "BEN",
-          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
-        }
-      ],
-      "duration_ms": 325066,
-      "name": "Snowman",
-      "url": "https://open.spotify.com/track/01niXSdE51tZcNUrpGEqjn"
-    },
-    {
-      "added_at": "2024-03-08 06:42:30",
-      "album": {
         "name": "youth",
         "url": "https://open.spotify.com/album/2qyRTNUHodWjs2FrP7tAYv"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 216360,
       "name": "Youth",
       "url": "https://open.spotify.com/track/7pdrLAo29KaqUTO3iD1O4z"
+    },
+    {
+      "added_at": "2024-03-08 06:42:30",
+      "album": {
+        "name": "Lonely night",
+        "url": "https://open.spotify.com/album/1PPYjHO08pHBbIKvWrx5jA"
+      },
+      "artists": [
+        {
+          "name": "BEN",
+          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
+        }
+      ],
+      "duration_ms": 325066,
+      "name": "Snowman",
+      "url": "https://open.spotify.com/track/01niXSdE51tZcNUrpGEqjn"
     },
     {
       "added_at": "2024-03-08 06:42:30",

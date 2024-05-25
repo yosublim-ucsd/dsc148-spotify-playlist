@@ -1,6 +1,6 @@
 {
   "description": "Classics by the pioneers of the sound, and its modern-day icons. Cover: 100 gecs",
-  "num_followers": 79096,
+  "num_followers": 79122,
   "original_name": "Hyperpop Classics",
   "owner": {
     "name": "Spotify",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2023-04-27 17:13:18",
       "album": {
+        "name": "Hey QT",
+        "url": "https://open.spotify.com/album/2j4oAo8L6xpAmJsCi5cL7W"
+      },
+      "artists": [
+        {
+          "name": "QT",
+          "url": "https://open.spotify.com/artist/5BrwToIWIxFwMToVViLr0z"
+        }
+      ],
+      "duration_ms": 235567,
+      "name": "Hey QT",
+      "url": "https://open.spotify.com/track/7nJoufbWvXXIcOLyDEci8t"
+    },
+    {
+      "added_at": "2023-04-27 17:13:18",
+      "album": {
         "name": "clueless",
         "url": "https://open.spotify.com/album/6gtMMyI4wfLnfEDvtYNQpg"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 127634,
       "name": "clueless",
       "url": "https://open.spotify.com/track/2PlrJupGTWvgVlGXSK95Me"
-    },
-    {
-      "added_at": "2023-04-27 17:13:18",
-      "album": {
-        "name": "Hey QT",
-        "url": "https://open.spotify.com/album/2j4oAo8L6xpAmJsCi5cL7W"
-      },
-      "artists": [
-        {
-          "name": "QT",
-          "url": "https://open.spotify.com/artist/5BrwToIWIxFwMToVViLr0z"
-        }
-      ],
-      "duration_ms": 235567,
-      "name": "Hey QT",
-      "url": "https://open.spotify.com/track/7nJoufbWvXXIcOLyDEci8t"
     },
     {
       "added_at": "2023-04-27 17:13:18",

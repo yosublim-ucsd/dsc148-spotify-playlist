@@ -1,6 +1,6 @@
 {
   "description": "Hit rewind on these classic Ghanaian gospel songs.",
-  "num_followers": 6496,
+  "num_followers": 6500,
   "original_name": "Ghana Gospel Classics",
   "owner": {
     "name": "Spotify",
@@ -511,6 +511,22 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
+        "name": "My Testimony 2015 - 2017",
+        "url": "https://open.spotify.com/album/3DA3wDXEWQFUZq2RUsy72Y"
+      },
+      "artists": [
+        {
+          "name": "Anita Afriyie",
+          "url": "https://open.spotify.com/artist/3icOzeeIwhGWwPHymtDOS5"
+        }
+      ],
+      "duration_ms": 325093,
+      "name": "Adehye Mogya",
+      "url": "https://open.spotify.com/track/4FSQFLp4pZiAEwQ6MLRuZV"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
         "name": "Pentecost Soree Nwom",
         "url": "https://open.spotify.com/album/4hdA0dUWWABTxLgZvwX285"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 354150,
       "name": "Hymm",
       "url": "https://open.spotify.com/track/5ccfgPC6IyCS3AEqD1cMVE"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "Hold On",
-        "url": "https://open.spotify.com/album/4UDMqjPmRx3jJlKIUbWfGn"
-      },
-      "artists": [
-        {
-          "name": "Bernice Offei",
-          "url": "https://open.spotify.com/artist/1s3k29zZeWqgAuxLms45Ex"
-        }
-      ],
-      "duration_ms": 458000,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/0HEB4FVrCze9RKUCuivkFW"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -559,18 +559,18 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "My Testimony 2015 - 2017",
-        "url": "https://open.spotify.com/album/3DA3wDXEWQFUZq2RUsy72Y"
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/4UDMqjPmRx3jJlKIUbWfGn"
       },
       "artists": [
         {
-          "name": "Anita Afriyie",
-          "url": "https://open.spotify.com/artist/3icOzeeIwhGWwPHymtDOS5"
+          "name": "Bernice Offei",
+          "url": "https://open.spotify.com/artist/1s3k29zZeWqgAuxLms45Ex"
         }
       ],
-      "duration_ms": 325093,
-      "name": "Adehye Mogya",
-      "url": "https://open.spotify.com/track/4FSQFLp4pZiAEwQ6MLRuZV"
+      "duration_ms": 458000,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/0HEB4FVrCze9RKUCuivkFW"
     },
     {
       "added_at": "2024-05-22 11:00:00",

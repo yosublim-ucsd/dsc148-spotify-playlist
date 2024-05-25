@@ -1,13 +1,65 @@
 {
-  "description": "Where R&B meets Hip-Hop, Pop and everything in between !  Cover: Childish Gambino",
-  "num_followers": 1751729,
+  "description": "Where R&B meets Hip-Hop, Pop and everything in between !  Cover: Muni Long & Mariah Carey",
+  "num_followers": 1751700,
   "original_name": "Channel-X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkcHvQAAAACrUIkxxhdXZCnAEdLPY+vM",
+  "snapshot_id": "ZlA4LwAAAACQhk7ZhGY+fZVVs7jy1Way",
   "tracks": [
+    {
+      "added_at": "2024-05-24 06:48:15",
+      "album": {
+        "name": "Made For Me (with Mariah Carey)",
+        "url": "https://open.spotify.com/album/7kLt47kt9E31gqRepjHIn7"
+      },
+      "artists": [
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        },
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "Made For Me (with Mariah Carey)",
+      "url": "https://open.spotify.com/track/7A237bWglHPhH3nKGgBsRr"
+    },
+    {
+      "added_at": "2024-05-24 06:48:15",
+      "album": {
+        "name": "After Hours (Cater 2 U Mix)",
+        "url": "https://open.spotify.com/album/46QpFhP3TcBugzNkZjxUUz"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 231918,
+      "name": "After Hours - Cater 2 U Mix",
+      "url": "https://open.spotify.com/track/6rrYNfGHPUhFoGF2aCuO4L"
+    },
+    {
+      "added_at": "2024-04-29 02:51:52",
+      "album": {
+        "name": "MILLION DOLLAR BABY",
+        "url": "https://open.spotify.com/album/52TwRwdTUMtkpglbOE5IRz"
+      },
+      "artists": [
+        {
+          "name": "Tommy Richman",
+          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
+        }
+      ],
+      "duration_ms": 155151,
+      "name": "MILLION DOLLAR BABY",
+      "url": "https://open.spotify.com/track/7fzHQizxTqy8wTXwlrgPQQ"
+    },
     {
       "added_at": "2024-05-17 07:31:09",
       "album": {
@@ -35,42 +87,6 @@
       "duration_ms": 392600,
       "name": "Psilocybae (Millennial Love) (feat. 21 Savage, Ink & Kadhja Bonet)",
       "url": "https://open.spotify.com/track/6ajiOUVtxRjYcf1EvBDoV4"
-    },
-    {
-      "added_at": "2024-04-29 02:51:52",
-      "album": {
-        "name": "MILLION DOLLAR BABY",
-        "url": "https://open.spotify.com/album/52TwRwdTUMtkpglbOE5IRz"
-      },
-      "artists": [
-        {
-          "name": "Tommy Richman",
-          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
-        }
-      ],
-      "duration_ms": 155151,
-      "name": "MILLION DOLLAR BABY",
-      "url": "https://open.spotify.com/track/7fzHQizxTqy8wTXwlrgPQQ"
-    },
-    {
-      "added_at": "2024-05-03 04:21:45",
-      "album": {
-        "name": "u made me a st4r",
-        "url": "https://open.spotify.com/album/49JXgb1wGpDCdhnHglwpqr"
-      },
-      "artists": [
-        {
-          "name": "4batz",
-          "url": "https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7"
-        },
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 189867,
-      "name": "act iii: on god? (she like) (feat. Kanye West) - remix",
-      "url": "https://open.spotify.com/track/1CayJq3tFfNMRv7HihVFlo"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -129,22 +145,6 @@
       "url": "https://open.spotify.com/track/49v5ttae4SvGE6XqfP7PY4"
     },
     {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "After Hours",
-        "url": "https://open.spotify.com/album/062urW4KS66GPlEHIueefz"
-      },
-      "artists": [
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 202414,
-      "name": "After Hours",
-      "url": "https://open.spotify.com/track/2x03XLsTZ0o86h0cfHrkKF"
-    },
-    {
       "added_at": "2024-03-22 04:00:00",
       "album": {
         "name": "TYLA",
@@ -169,6 +169,26 @@
       "url": "https://open.spotify.com/track/6XpEm7VJ7TZxZTawH8BCSW"
     },
     {
+      "added_at": "2024-05-24 06:48:15",
+      "album": {
+        "name": "Risk Taker",
+        "url": "https://open.spotify.com/album/0eX3oKIfRjTb0gjAOysT0E"
+      },
+      "artists": [
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "duration_ms": 223189,
+      "name": "Risk Taker",
+      "url": "https://open.spotify.com/track/1rdL4oJxPzqDiNclK2aP3u"
+    },
+    {
       "added_at": "2024-04-26 04:00:00",
       "album": {
         "name": "Love Me JeJe",
@@ -183,6 +203,22 @@
       "duration_ms": 178041,
       "name": "Love Me JeJe",
       "url": "https://open.spotify.com/track/47hsUYxvbTlBAN3sP9dEOd"
+    },
+    {
+      "added_at": "2024-05-24 06:48:15",
+      "album": {
+        "name": "Caught Up",
+        "url": "https://open.spotify.com/album/4rG8urpRqy180HcCWO1mML"
+      },
+      "artists": [
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        }
+      ],
+      "duration_ms": 230795,
+      "name": "Caught Up",
+      "url": "https://open.spotify.com/track/4XmQYIwiP6wveSj9bBGCyQ"
     },
     {
       "added_at": "2024-05-17 07:31:09",
@@ -305,6 +341,26 @@
       "url": "https://open.spotify.com/track/1s8gUJ98VZJKuzOMO7QERt"
     },
     {
+      "added_at": "2024-05-24 06:48:15",
+      "album": {
+        "name": "Never Gets Late Here",
+        "url": "https://open.spotify.com/album/2wkK1n9m6c7OutXRgtvVsz"
+      },
+      "artists": [
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 162912,
+      "name": "Work Me Out (with Wizkid)",
+      "url": "https://open.spotify.com/track/1SJQNDyy5OsL8kQHotWSh3"
+    },
+    {
       "added_at": "2024-05-03 04:21:45",
       "album": {
         "name": "Vision Remix (feat. Chl\u00f6e)",
@@ -323,26 +379,6 @@
       "duration_ms": 166000,
       "name": "Vision Remix (feat. Chl\u00f6e)",
       "url": "https://open.spotify.com/track/43ZEiGYEJ5vcmjlBwanwyW"
-    },
-    {
-      "added_at": "2024-05-17 07:31:09",
-      "album": {
-        "name": "wap",
-        "url": "https://open.spotify.com/album/5Jbh653OLOZOtFazI7Hk7A"
-      },
-      "artists": [
-        {
-          "name": "Minz",
-          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "wap",
-      "url": "https://open.spotify.com/track/0clDhQSahgP1U8vZUfblWS"
     },
     {
       "added_at": "2024-05-10 05:56:13",
@@ -379,6 +415,42 @@
       "duration_ms": 227368,
       "name": "HERicane",
       "url": "https://open.spotify.com/track/64fITmtln0OJqcxPf09vnY"
+    },
+    {
+      "added_at": "2024-05-24 06:48:15",
+      "album": {
+        "name": "Rental",
+        "url": "https://open.spotify.com/album/2kT3e81zlLH8LsIfw1d8da"
+      },
+      "artists": [
+        {
+          "name": "Fana Hues",
+          "url": "https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg"
+        }
+      ],
+      "duration_ms": 189266,
+      "name": "Rental",
+      "url": "https://open.spotify.com/track/2SctW8kEr0eNsnantkaxj1"
+    },
+    {
+      "added_at": "2024-05-24 06:48:15",
+      "album": {
+        "name": "Lover/Friend",
+        "url": "https://open.spotify.com/album/0NvlaQeUqClEL7vMdYyUO7"
+      },
+      "artists": [
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+        }
+      ],
+      "duration_ms": 259204,
+      "name": "Lover/Friend",
+      "url": "https://open.spotify.com/track/3u18lRpQFZYALlVjn0fL1y"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -431,6 +503,62 @@
       "duration_ms": 129382,
       "name": "No Worries",
       "url": "https://open.spotify.com/track/2clG6kX42NFmpJf5A3NEoS"
+    },
+    {
+      "added_at": "2024-05-24 06:48:15",
+      "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/6MxLomr9PVYAxbrM3ee5pA"
+      },
+      "artists": [
+        {
+          "name": "K CAMP",
+          "url": "https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H"
+        }
+      ],
+      "duration_ms": 210483,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/4wI6OPivBlMBc3jOPlT6uE"
+    },
+    {
+      "added_at": "2024-05-17 07:31:09",
+      "album": {
+        "name": "wap",
+        "url": "https://open.spotify.com/album/5Jbh653OLOZOtFazI7Hk7A"
+      },
+      "artists": [
+        {
+          "name": "Minz",
+          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "wap",
+      "url": "https://open.spotify.com/track/0clDhQSahgP1U8vZUfblWS"
+    },
+    {
+      "added_at": "2024-05-03 04:21:45",
+      "album": {
+        "name": "u made me a st4r",
+        "url": "https://open.spotify.com/album/49JXgb1wGpDCdhnHglwpqr"
+      },
+      "artists": [
+        {
+          "name": "4batz",
+          "url": "https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 189867,
+      "name": "act iii: on god? (she like) (feat. Kanye West) - remix",
+      "url": "https://open.spotify.com/track/1CayJq3tFfNMRv7HihVFlo"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -537,20 +665,20 @@
       "url": "https://open.spotify.com/track/5JrQ1Jc3udCcAJasEpH0Ov"
     },
     {
-      "added_at": "2024-01-26 05:00:00",
+      "added_at": "2024-05-24 06:48:15",
       "album": {
-        "name": "Made For Me",
-        "url": "https://open.spotify.com/album/2VIJu8iWncUpGcv64UOxnv"
+        "name": "X",
+        "url": "https://open.spotify.com/album/2IuH6EgGRGkFNmEmaLMdrt"
       },
       "artists": [
         {
-          "name": "Muni Long",
-          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+          "name": "Gabzy",
+          "url": "https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62"
         }
       ],
-      "duration_ms": 188000,
-      "name": "Made For Me",
-      "url": "https://open.spotify.com/track/0WIv5qV41y6YjjB9V1biuC"
+      "duration_ms": 93099,
+      "name": "X",
+      "url": "https://open.spotify.com/track/4evzUQNNDpgP8mnlV2OVkf"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -2001,22 +2129,6 @@
       "url": "https://open.spotify.com/track/04caQq1IeChrnBnvch1FQf"
     },
     {
-      "added_at": "2024-03-08 13:52:28",
-      "album": {
-        "name": "L.O.V.",
-        "url": "https://open.spotify.com/album/6OJYAyvc92JdKjp9Z1Yu64"
-      },
-      "artists": [
-        {
-          "name": "Tolou",
-          "url": "https://open.spotify.com/artist/6aJLBAuRRedmYQfUxXUByH"
-        }
-      ],
-      "duration_ms": 164962,
-      "name": "L.O.V.",
-      "url": "https://open.spotify.com/track/573cgmLhEU4LTIyrEatHL4"
-    },
-    {
       "added_at": "2024-01-26 05:00:00",
       "album": {
         "name": "+243",
@@ -2191,6 +2303,26 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
+        "name": "Emeka Must Shine",
+        "url": "https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        },
+        {
+          "name": "Projexx",
+          "url": "https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N"
+        }
+      ],
+      "duration_ms": 159477,
+      "name": "6 BUSINESS DAYS (feat. Projexx)",
+      "url": "https://open.spotify.com/track/2KbFskDFrgLGKBKIVDrzbh"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
         "name": "Siren",
         "url": "https://open.spotify.com/album/3vbRoP5njDmRN1nVTcW5Z7"
       },
@@ -2325,24 +2457,24 @@
       "url": "https://open.spotify.com/track/5vsCD4vU93v7Y3HDVdGl4b"
     },
     {
-      "added_at": "2023-10-27 04:00:00",
+      "added_at": "2023-10-13 04:01:00",
       "album": {
-        "name": "Emeka Must Shine",
-        "url": "https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj"
+        "name": "Rora",
+        "url": "https://open.spotify.com/album/1uZCXiwB6JKI6Z9bSejdzC"
       },
       "artists": [
         {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
         },
         {
-          "name": "Projexx",
-          "url": "https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N"
+          "name": "Ajebutter22",
+          "url": "https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW"
         }
       ],
-      "duration_ms": 159477,
-      "name": "6 BUSINESS DAYS (feat. Projexx)",
-      "url": "https://open.spotify.com/track/2KbFskDFrgLGKBKIVDrzbh"
+      "duration_ms": 143762,
+      "name": "Rora",
+      "url": "https://open.spotify.com/track/5Qj74EnGXZ0V2TGzUKlZuq"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -2417,50 +2549,6 @@
       "url": "https://open.spotify.com/track/1IBKObjs2laDkUdzE86jr4"
     },
     {
-      "added_at": "2023-10-13 04:01:00",
-      "album": {
-        "name": "Rora",
-        "url": "https://open.spotify.com/album/1uZCXiwB6JKI6Z9bSejdzC"
-      },
-      "artists": [
-        {
-          "name": "Boj",
-          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
-        },
-        {
-          "name": "Ajebutter22",
-          "url": "https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW"
-        }
-      ],
-      "duration_ms": 143762,
-      "name": "Rora",
-      "url": "https://open.spotify.com/track/5Qj74EnGXZ0V2TGzUKlZuq"
-    },
-    {
-      "added_at": "2023-07-21 04:01:00",
-      "album": {
-        "name": "Main One (feat. Tyga)",
-        "url": "https://open.spotify.com/album/3poW1IiF8t9MNcrk2CgJWF"
-      },
-      "artists": [
-        {
-          "name": "Mario",
-          "url": "https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        },
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        }
-      ],
-      "duration_ms": 199440,
-      "name": "Main One (feat. Tyga)",
-      "url": "https://open.spotify.com/track/2nB44lzuvxp40hNMkT6BZj"
-    },
-    {
       "added_at": "2023-02-24 05:00:00",
       "album": {
         "name": "22",
@@ -2477,22 +2565,6 @@
       "url": "https://open.spotify.com/track/1QxTmNDHFmgaxgAolqqgAD"
     },
     {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
-        "name": "When I Hear Your Name",
-        "url": "https://open.spotify.com/album/4iJiu3yFSwRNPe7dJBwtPM"
-      },
-      "artists": [
-        {
-          "name": "Maeta",
-          "url": "https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO"
-        }
-      ],
-      "duration_ms": 193901,
-      "name": "Questions",
-      "url": "https://open.spotify.com/track/2rGAASBrTG770g8wx5NJOV"
-    },
-    {
       "added_at": "2023-08-04 04:00:00",
       "album": {
         "name": "Don't Say Love (R&B Version)",
@@ -2507,30 +2579,6 @@
       "duration_ms": 180131,
       "name": "Don't Say Love - R&B Version",
       "url": "https://open.spotify.com/track/01FKgn2t3o8adgrrfkN0HQ"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
-        "name": "My Baby (feat. Ayra Starr) [Remix]",
-        "url": "https://open.spotify.com/album/7aWjCu9japCJ2x9Lci5ITj"
-      },
-      "artists": [
-        {
-          "name": "Bien",
-          "url": "https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X"
-        },
-        {
-          "name": "Franglish",
-          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 197382,
-      "name": "My Baby (feat. Ayra Starr) [Remix]",
-      "url": "https://open.spotify.com/track/5eZ0obGIbQMMokxCzBzdMA"
     },
     {
       "added_at": "2023-07-14 05:46:05",

@@ -1,6 +1,6 @@
 {
   "description": "essa \u00e9 s\u00f3 pra quem vive no 2.0x\n",
-  "num_followers": 80374,
+  "num_followers": 80397,
   "original_name": "speed BR",
   "owner": {
     "name": "Spotify",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2023-12-27 14:18:14",
       "album": {
+        "name": "NICOTINA",
+        "url": "https://open.spotify.com/album/7LKZ9qghbdNjUoJbgB7NqN"
+      },
+      "artists": [
+        {
+          "name": "JOTTAH",
+          "url": "https://open.spotify.com/artist/0RF6epzmUunILCJbvVdUhN"
+        }
+      ],
+      "duration_ms": 90240,
+      "name": "NICOTINA - Speed",
+      "url": "https://open.spotify.com/track/3t9hTeE5S3xPukz92FFRhU"
+    },
+    {
+      "added_at": "2023-12-27 14:18:14",
+      "album": {
         "name": "Gorilla Dream, Vol. I",
         "url": "https://open.spotify.com/album/2q9mARnuyo6TwdNmTwRkqk"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 134760,
       "name": "Contatos - Speed Plug",
       "url": "https://open.spotify.com/track/2uagJoFfpDCEnIwHftuduv"
-    },
-    {
-      "added_at": "2023-12-27 14:18:14",
-      "album": {
-        "name": "NICOTINA",
-        "url": "https://open.spotify.com/album/7LKZ9qghbdNjUoJbgB7NqN"
-      },
-      "artists": [
-        {
-          "name": "JOTTAH",
-          "url": "https://open.spotify.com/artist/0RF6epzmUunILCJbvVdUhN"
-        }
-      ],
-      "duration_ms": 90240,
-      "name": "NICOTINA - Speed",
-      "url": "https://open.spotify.com/track/3t9hTeE5S3xPukz92FFRhU"
     },
     {
       "added_at": "2023-12-27 14:18:14",

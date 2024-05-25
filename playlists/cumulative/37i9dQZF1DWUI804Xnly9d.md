@@ -4,7 +4,7 @@
 
 > Magic of acoustic poured into your Chai\. Cover \- Shreya Ghoshal
 
-332 songs - 18 hr 54 min
+333 songs - 18 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -232,7 +232,7 @@
 | [Parinda](https://open.spotify.com/track/37iaU5dRe1Iq4eWQSikR44) | [Hemang](https://open.spotify.com/artist/0Mcoqh0ZKmp41Apx7sKyfa), [IgnitedPandits](https://open.spotify.com/artist/2e3uP4XqRv0TKYL2flzFf7) | [Parinda](https://open.spotify.com/album/6lVQmXaB2jLY9xI28zJfN6) | 3:02 | 2024-02-09 | 2024-03-12 |
 | [Parinda](https://open.spotify.com/track/1Uh2GbDBOv2ahTnZV3xXBT) | [Shreyas Puranik](https://open.spotify.com/artist/5o36rLQd78Zh8CaT8rn59d) | [Parinda](https://open.spotify.com/album/6Ay5d5fr0XuggaEI1AbilJ) | 3:19 | 2023-07-07 | 2023-07-15 |
 | [Parindey](https://open.spotify.com/track/1hB2v1jDsLe9ApvDYJ0twe) | [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB) | [Parindey](https://open.spotify.com/album/2gMzRhTnjzT8VD5Qy5Ao0q) | 3:01 | 2023-05-17 | 2023-08-29 |
-| [Pariyon Ki Duniya](https://open.spotify.com/track/4PnZwswnElBV5JemrOnSuM) | [Joy Sengupta](https://open.spotify.com/artist/2w5FAQc2JWciNPGhsTBf4B), [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW), [Pinky Poonawala](https://open.spotify.com/artist/4DhyWRZAivYeuXMNmijjEY) | [Pariyon Ki Duniya](https://open.spotify.com/album/7MUReK6TwvioU10WVkZLiZ) | 3:01 | 2024-05-17 |  |
+| [Pariyon Ki Duniya](https://open.spotify.com/track/4PnZwswnElBV5JemrOnSuM) | [Joy Sengupta](https://open.spotify.com/artist/2w5FAQc2JWciNPGhsTBf4B), [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW), [Pinky Poonawala](https://open.spotify.com/artist/4DhyWRZAivYeuXMNmijjEY), [Nastya Saraswati](https://open.spotify.com/artist/0jtyiGiZtoSVHLgK4Qxz3Q) | [Pariyon Ki Duniya](https://open.spotify.com/album/7MUReK6TwvioU10WVkZLiZ) | 3:01 | 2024-05-17 |  |
 | [Parwaah](https://open.spotify.com/track/5CeWyGt9oMtsBBOLtYRTl5) | [Raghav Chaitanya](https://open.spotify.com/artist/3qpyErDI4i90q5EGgSRmNK) | [Parwaah](https://open.spotify.com/album/0bxsenYWUkYi3nEDuPefhd) | 4:22 | 2023-05-17 | 2023-06-24 |
 | [Parwaaz](https://open.spotify.com/track/4ZKNx6PVTkX5zUtPUHX2tW) | [The Western Ghats](https://open.spotify.com/artist/3vX5K7r9Icdjsrlax4FzWv) | [Parwaaz](https://open.spotify.com/album/10SbTpq2BTnqjnkbhkUDL8) | 4:11 | 2024-02-09 | 2024-03-12 |
 | [Patang](https://open.spotify.com/track/6RD9dthWpHuwQj1CDENCZD) | [Aditya N.](https://open.spotify.com/artist/4hywkPZjNnWbisCuDpTB5d), [Nayantara Bhatkal](https://open.spotify.com/artist/6tTt2QJN9fk6o0xePqBiIA), [Class](https://open.spotify.com/artist/55QQRSnrc4sTCDqJPLz2w0) | [Class: Season 1 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/3LYcCtX4jQcwUr2q9es85P) | 2:35 | 2023-05-17 | 2023-08-10 |
@@ -264,6 +264,7 @@
 | [Sach](https://open.spotify.com/track/5W7TjIh32z3p5LpkncXTpb) | [Subhranil Paul](https://open.spotify.com/artist/4EqjmfWeakKJdFZkoZd3vb) | [Sach](https://open.spotify.com/album/2K2cpw3QqOSsf7lDpbbiAz) | 3:59 | 2024-01-30 | 2024-04-09 |
 | [SACH HAI NA](https://open.spotify.com/track/2ssugF2K11ALzQ1qMQ5gnC) | [Vasuda Sharma](https://open.spotify.com/artist/2ED6kjY3EyIRkxM2HAbrCL), [Nikhil Shetty](https://open.spotify.com/artist/3C5gNf24feSHYFXXEJWiAJ) | [SACH HAI NA](https://open.spotify.com/album/0u9kVdSsfLepdbAJ0HVaP4) | 4:16 | 2023-07-06 | 2023-09-28 |
 | [Sadgi](https://open.spotify.com/track/0w891ljZDidc50QRARZxL6) | [Rahul Jain](https://open.spotify.com/artist/5tJx4B5oBr1LJkkHI8GFYX) | [Sadgi](https://open.spotify.com/album/0DfVYUSlcjLDa2eAgJd6RR) | 4:09 | 2023-06-22 | 2023-08-10 |
+| [Safar](https://open.spotify.com/track/0uAOcZmwkIg5LHDhbuBKYN) | [Nikita Ahuja](https://open.spotify.com/artist/1N9scLdWZukQAQ0p4ZeUUx), [Kunaal Vermaa](https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx) | [Safar](https://open.spotify.com/album/06yYVu3F7bVRFo6xksZeZX) | 3:19 | 2024-05-24 |  |
 | [Sang Tere](https://open.spotify.com/track/5NsEfpHGCMmBS4sANtp5qo) | [Vasuda Sharma](https://open.spotify.com/artist/2ED6kjY3EyIRkxM2HAbrCL), [Rupin Suchak](https://open.spotify.com/artist/1VKnLalQQJZajLYjTyyYnl) | [Sang Tere](https://open.spotify.com/album/1ps7a8LjOyAqQ49OKG46Me) | 2:55 | 2023-11-29 | 2024-02-21 |
 | [Sapno Mein](https://open.spotify.com/track/1kdcrxXB0QuPBmaOakxwwk) | [Yuvi](https://open.spotify.com/artist/67iUYoHE7CHnWYO2ZtV5IJ) | [Sapno Mein](https://open.spotify.com/album/3SxMEnLGUUg75HrpR31pQW) | 2:58 | 2023-10-26 | 2023-11-25 |
 | [Shaam O Seher](https://open.spotify.com/track/2oDcHokGFyUid59aiw36DT) | [Bharat Goel](https://open.spotify.com/artist/3gcypsP2mkAyBI3HrIeWnx), [Paresh Pahuja](https://open.spotify.com/artist/0DHOOKfXu4aU7LsWjTdrIN), [Rashmi Virag](https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo) | [Shaam O Seher](https://open.spotify.com/album/2xHtltGELNqIsy4agezGGA) | 3:03 | 2024-03-05 |  |

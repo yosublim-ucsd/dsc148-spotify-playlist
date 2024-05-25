@@ -117,6 +117,24 @@
     },
     {
       "album": {
+        "name": "ANSWER THE G",
+        "url": "https://open.spotify.com/album/145nJ3pWoD1PqWBhQqSZEA"
+      },
+      "artists": [
+        {
+          "name": "SUPAFLY",
+          "url": "https://open.spotify.com/artist/7k4KUVFc27j05vXrcJ58ih"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168712,
+      "name": "Answer The G",
+      "url": "https://open.spotify.com/track/4UZE33BJf8b9KYOQhdcnJi"
+    },
+    {
+      "album": {
         "name": "Anything",
         "url": "https://open.spotify.com/album/0BEehN6MWcTHQBlY12dGPC"
       },
@@ -516,7 +534,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 175384,
       "name": "Faded (Raw)",
       "url": "https://open.spotify.com/track/5AxEGHRwgBqFDZ20ilkCw6"
@@ -534,10 +552,28 @@
       ],
       "date_added": "2024-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 174236,
       "name": "Fake Faces",
       "url": "https://open.spotify.com/track/4ntKnZnztFdovszJpIoeVO"
+    },
+    {
+      "album": {
+        "name": "Feel This Way",
+        "url": "https://open.spotify.com/album/0v5fmGTPGUHJR1tq8x0r3W"
+      },
+      "artists": [
+        {
+          "name": "Zack Tabudlo",
+          "url": "https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230000,
+      "name": "Feel This Way",
+      "url": "https://open.spotify.com/track/5VqFa9E5BNTBsDd7uKE5R0"
     },
     {
       "album": {
@@ -1003,6 +1039,32 @@
     },
     {
       "album": {
+        "name": "Kunan Mong Pic",
+        "url": "https://open.spotify.com/album/2yo2p2KkXVyYNV5Lo8XxwN"
+      },
+      "artists": [
+        {
+          "name": "O SIDE MAFIA",
+          "url": "https://open.spotify.com/artist/4O19i2jHEjPyz17BeiwbDp"
+        },
+        {
+          "name": "BRGR",
+          "url": "https://open.spotify.com/artist/44vb4XsoBQRJlLGflZQfkv"
+        },
+        {
+          "name": "Al James",
+          "url": "https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195237,
+      "name": "Kunan Mong Pic",
+      "url": "https://open.spotify.com/track/6q07OiEEt6Tz2SkGuwCCGo"
+    },
+    {
+      "album": {
         "name": "Kung Uulitin",
         "url": "https://open.spotify.com/album/1eGV9y6yf9hgW0QN1xRl0P"
       },
@@ -1372,6 +1434,24 @@
       "duration_ms": 265677,
       "name": "Miss Miss",
       "url": "https://open.spotify.com/track/5mi8Oe95frx6LhvFioXE7t"
+    },
+    {
+      "album": {
+        "name": "Misteryoso",
+        "url": "https://open.spotify.com/album/6BqP9dOpxUGa7gCunYMw9a"
+      },
+      "artists": [
+        {
+          "name": "Cup of Joe",
+          "url": "https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221641,
+      "name": "Misteryoso",
+      "url": "https://open.spotify.com/track/0kE1SmlJNLg14dgdo9kJws"
     },
     {
       "album": {
@@ -2366,7 +2446,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 238000,
       "name": "We Made It",
       "url": "https://open.spotify.com/track/00h9iBIZPHjHAVoNzKHIOz"

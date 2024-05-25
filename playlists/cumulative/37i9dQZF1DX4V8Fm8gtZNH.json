@@ -2519,6 +2519,28 @@
     },
     {
       "album": {
+        "name": "JOY (Unspeakable) (feat. Pharrell Williams)",
+        "url": "https://open.spotify.com/album/6lSjMJHMD4vgXZ7pm8gwoB"
+      },
+      "artists": [
+        {
+          "name": "Voices of Fire",
+          "url": "https://open.spotify.com/artist/5hMr1UPWUlLzQmHpE45EpH"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312069,
+      "name": "JOY (Unspeakable) (feat. Pharrell Williams)",
+      "url": "https://open.spotify.com/track/7cg5YxLOssunPw1hI1DUm4"
+    },
+    {
+      "album": {
         "name": "Baphomet",
         "url": "https://open.spotify.com/album/58RyweRl7EJd0SOR0hwoRf"
       },
@@ -3161,6 +3183,32 @@
     },
     {
       "album": {
+        "name": "Legacy",
+        "url": "https://open.spotify.com/album/3nHbEmj9rc6mvJSAm1RXDm"
+      },
+      "artists": [
+        {
+          "name": "Adam Blackstone",
+          "url": "https://open.spotify.com/artist/01qe6O86TULkQwNofn1zgs"
+        },
+        {
+          "name": "Laurin Talese",
+          "url": "https://open.spotify.com/artist/2iirSBE12frjhW8JKtJQhN"
+        },
+        {
+          "name": "Robert Glasper",
+          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301340,
+      "name": "My Winter (feat. Robert Glasper)",
+      "url": "https://open.spotify.com/track/5fHxa5Hlek46LgBFN344w1"
+    },
+    {
+      "album": {
         "name": "The Pain Gets A Little Deeper",
         "url": "https://open.spotify.com/album/2Jq0dS6jaYiuMg5AvQl843"
       },
@@ -3176,6 +3224,28 @@
       "duration_ms": 150266,
       "name": "My Young Misery",
       "url": "https://open.spotify.com/track/7GQMu0NO95F6PxcUqihIys"
+    },
+    {
+      "album": {
+        "name": "Afro Island",
+        "url": "https://open.spotify.com/album/5KkDCCJjoJmOoaj6cJ68OR"
+      },
+      "artists": [
+        {
+          "name": "Will Gittens",
+          "url": "https://open.spotify.com/artist/2Guif3r6Ys8lL1H5aGyuh1"
+        },
+        {
+          "name": "Jr",
+          "url": "https://open.spotify.com/artist/3Hlf2lRqdg8AoCMgyWF9vH"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133770,
+      "name": "Need Me",
+      "url": "https://open.spotify.com/track/7LVXsbi4y6TaXEUyDsqhFN"
     },
     {
       "album": {
@@ -3264,6 +3334,24 @@
       "duration_ms": 195932,
       "name": "News",
       "url": "https://open.spotify.com/track/4krpgB8twCTBq12aP4a8ug"
+    },
+    {
+      "album": {
+        "name": "No Good",
+        "url": "https://open.spotify.com/album/0Rakb4FFhKuAQUXwe7t9pD"
+      },
+      "artists": [
+        {
+          "name": "Samira Finley",
+          "url": "https://open.spotify.com/artist/6tU2k4kzOc2rAbXjphvbUv"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250071,
+      "name": "No Good",
+      "url": "https://open.spotify.com/track/0ww4cvNmxkFd04X1qtFWhA"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > <a href="spotify:track:3CDYrDINLxRhjvvqbSaryC">Blåregn</a> i et <a href="spotify:track:1eA6vc394WJF2l4lHLqJ2B">Dark Room</a> tager dig <a href="spotify:track:62Du6R05e0d5nZ4IUVBaqf">VERDEN RUNDT</a> på <a href="spotify:track:7jxowF3F2CJoEjoX8P8Hl7">Dopa min</a> det er <a href="spotify:track:58Jj3c8s3JHbHw424dK2bv">10/10</a> denne fredag på New Music Friday 😮‍💨
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,988 likes - 107 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,044 likes - 107 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 3 | [VERDEN RUNDT](https://open.spotify.com/track/62Du6R05e0d5nZ4IUVBaqf) | [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6) | [BABA BUSINESS 3](https://open.spotify.com/album/16y1M4Dnrqiodnk8KvRhLf) | 2:23 |
 | 4 | [Dopa min](https://open.spotify.com/track/7jxowF3F2CJoEjoX8P8Hl7) | [Bette](https://open.spotify.com/artist/4gepV1NXit1T15YxX0Bv27) | [Dopa min](https://open.spotify.com/album/2bwcQANrSwHeZtJDyttd9b) | 2:41 |
 | 5 | [10/10](https://open.spotify.com/track/58Jj3c8s3JHbHw424dK2bv) | [Lord Siva](https://open.spotify.com/artist/5SwsSD9zyWaWeVyK9qIW9l) | [Blåregn / 10/10](https://open.spotify.com/album/6BPaKbKBo3mbcgsNl1o3mh) | 2:18 |
-| 6 | [MAGIC AIRLINES](https://open.spotify.com/track/2BwK0nlKXl065pfHhbEoCy) | [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6), [Blæst](https://open.spotify.com/artist/3elCsuJ1JjDeAd8mjlRRX5) | [BABA BUSINESS 3](https://open.spotify.com/album/16y1M4Dnrqiodnk8KvRhLf) | 2:43 |
+| 6 | [MAGIC AIRLINES \(feat\. Blæst\)](https://open.spotify.com/track/2BwK0nlKXl065pfHhbEoCy) | [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6), [Blæst](https://open.spotify.com/artist/3elCsuJ1JjDeAd8mjlRRX5) | [BABA BUSINESS 3](https://open.spotify.com/album/16y1M4Dnrqiodnk8KvRhLf) | 2:43 |
 | 7 | [Hero](https://open.spotify.com/track/5TTyyKNJZHONhjtAiXL1nG) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Hero](https://open.spotify.com/album/62wSbbJY50qycn9uBP4rIC) | 3:16 |
 | 8 | [Kongen Af Danmark](https://open.spotify.com/track/5uIy18j51mPvUhDcrGuj1p) | [Malte Ebert](https://open.spotify.com/artist/3UaEtP4pJGDhyEzy47AMzl), [Herrelandsholdet](https://open.spotify.com/artist/5RnvIeoBOnfUN95vVzR2UX) | [Kongen Af Danmark](https://open.spotify.com/album/6D5w04x7LcIocDSvBcSrPi) | 3:57 |
 | 9 | [Kun Nu](https://open.spotify.com/track/2GSssVVVYwGeBfLLvdchVQ) | [Panamah](https://open.spotify.com/artist/3SyJZpVRYuncgXPtjAceOJ) | [Kun Nu](https://open.spotify.com/album/53jwJPYqRGewl2haYo13gW) | 2:53 |

@@ -1482,7 +1482,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 191142,
       "name": "Mundian to Bach Ke",
       "url": "https://open.spotify.com/track/4uMHWo1URfFfPBHE67KlUa"
@@ -1548,7 +1548,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 405034,
       "name": "Nadiyan - Extended Mix",
       "url": "https://open.spotify.com/track/0eEx4uqVBsYvhywfko53Nd"
@@ -2318,6 +2318,32 @@
       "duration_ms": 210403,
       "name": "Suit Da Lahori",
       "url": "https://open.spotify.com/track/1DCtn0Ketorb33T15aibQX"
+    },
+    {
+      "album": {
+        "name": "Sutha Sutha",
+        "url": "https://open.spotify.com/album/2vtViw60G5qna2Cnsd3NiX"
+      },
+      "artists": [
+        {
+          "name": "Tech Panda",
+          "url": "https://open.spotify.com/artist/3mzZ5nf3QScPqc7y9EzJ6X"
+        },
+        {
+          "name": "Kenzani",
+          "url": "https://open.spotify.com/artist/6h4u0DWy8GXHeehzB0kaiM"
+        },
+        {
+          "name": "Rais Khan Project",
+          "url": "https://open.spotify.com/artist/0UN51NcAMkNCDJgFqoO4ou"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172870,
+      "name": "Sutha Sutha",
+      "url": "https://open.spotify.com/track/2aLMZgLWz7771F8t7zqPhG"
     },
     {
       "album": {

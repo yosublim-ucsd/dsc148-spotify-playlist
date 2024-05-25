@@ -1,6 +1,6 @@
 {
   "description": "New & best K-Electronic music is here. (Cover: uju(\uc6b0\uc8fc))",
-  "num_followers": 24905,
+  "num_followers": 24918,
   "original_name": "Electronii'K",
   "owner": {
     "name": "Spotify",
@@ -1251,6 +1251,26 @@
     {
       "added_at": "2024-05-23 09:41:27",
       "album": {
+        "name": "iScreaM Vol.21 : 2 Baddies Remixes",
+        "url": "https://open.spotify.com/album/1SfJshh5aQCw1WZLcFNADx"
+      },
+      "artists": [
+        {
+          "name": "NCT 127",
+          "url": "https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH"
+        },
+        {
+          "name": "No Identity",
+          "url": "https://open.spotify.com/artist/2ladxDWywuVgNTdsivk5vI"
+        }
+      ],
+      "duration_ms": 200723,
+      "name": "2 Baddies - No Identity Remix",
+      "url": "https://open.spotify.com/track/26sBg0oClOFbeFifAHRCD7"
+    },
+    {
+      "added_at": "2024-05-23 09:41:27",
+      "album": {
         "name": "iScreaM Vol.17 : DEEP Remixes",
         "url": "https://open.spotify.com/album/52y8oOuU1sVpx7MmvaaIOk"
       },
@@ -1267,26 +1287,6 @@
       "duration_ms": 154960,
       "name": "DEEP - 4B Remix",
       "url": "https://open.spotify.com/track/2PFR9yNzA9ExoGulaFY2IU"
-    },
-    {
-      "added_at": "2024-05-23 09:41:27",
-      "album": {
-        "name": "iScreaM Vol.1 : Kick It Remixes",
-        "url": "https://open.spotify.com/album/19kdYfU8fFSKwXd5EZwNr5"
-      },
-      "artists": [
-        {
-          "name": "NCT 127",
-          "url": "https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH"
-        },
-        {
-          "name": "Hitchhiker",
-          "url": "https://open.spotify.com/artist/5ePDPFrSdmaieYrKrPDJPx"
-        }
-      ],
-      "duration_ms": 190160,
-      "name": "Kick It - Hitchhiker Remix",
-      "url": "https://open.spotify.com/track/1byqSrJw0DWBX6QVB7zyGo"
     },
     {
       "added_at": "2024-05-23 09:41:27",
@@ -1367,6 +1367,26 @@
     {
       "added_at": "2024-05-23 09:41:27",
       "album": {
+        "name": "iScreaM Vol.1 : Kick It Remixes",
+        "url": "https://open.spotify.com/album/19kdYfU8fFSKwXd5EZwNr5"
+      },
+      "artists": [
+        {
+          "name": "NCT 127",
+          "url": "https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH"
+        },
+        {
+          "name": "Hitchhiker",
+          "url": "https://open.spotify.com/artist/5ePDPFrSdmaieYrKrPDJPx"
+        }
+      ],
+      "duration_ms": 190160,
+      "name": "Kick It - Hitchhiker Remix",
+      "url": "https://open.spotify.com/track/1byqSrJw0DWBX6QVB7zyGo"
+    },
+    {
+      "added_at": "2024-05-23 09:41:27",
+      "album": {
         "name": "Bring Me On",
         "url": "https://open.spotify.com/album/3HDGnj2sxPt7xkKpUGr4Jf"
       },
@@ -1411,6 +1431,22 @@
     {
       "added_at": "2024-05-23 09:41:27",
       "album": {
+        "name": "Power (Remixes)",
+        "url": "https://open.spotify.com/album/6kMYsqzcglsUJZodFLGD51"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "duration_ms": 198133,
+      "name": "Power - IMLAY Remix",
+      "url": "https://open.spotify.com/track/3swlav6jHllgTqg04ViBB1"
+    },
+    {
+      "added_at": "2024-05-23 09:41:27",
+      "album": {
         "name": "Summer Breeze",
         "url": "https://open.spotify.com/album/5J26Mlv1iXr4SugLzGXEtc"
       },
@@ -1443,42 +1479,6 @@
     {
       "added_at": "2024-05-23 09:41:27",
       "album": {
-        "name": "Power (Remixes)",
-        "url": "https://open.spotify.com/album/6kMYsqzcglsUJZodFLGD51"
-      },
-      "artists": [
-        {
-          "name": "EXO",
-          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
-        }
-      ],
-      "duration_ms": 198133,
-      "name": "Power - IMLAY Remix",
-      "url": "https://open.spotify.com/track/3swlav6jHllgTqg04ViBB1"
-    },
-    {
-      "added_at": "2024-05-23 09:41:27",
-      "album": {
-        "name": "iScreaM Vol.21 : 2 Baddies Remixes",
-        "url": "https://open.spotify.com/album/1SfJshh5aQCw1WZLcFNADx"
-      },
-      "artists": [
-        {
-          "name": "NCT 127",
-          "url": "https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH"
-        },
-        {
-          "name": "No Identity",
-          "url": "https://open.spotify.com/artist/2ladxDWywuVgNTdsivk5vI"
-        }
-      ],
-      "duration_ms": 200723,
-      "name": "2 Baddies - No Identity Remix",
-      "url": "https://open.spotify.com/track/26sBg0oClOFbeFifAHRCD7"
-    },
-    {
-      "added_at": "2024-05-23 09:41:27",
-      "album": {
         "name": "Sarah",
         "url": "https://open.spotify.com/album/6RX4hUA7LUBK5XxZqmwloY"
       },
@@ -1491,26 +1491,6 @@
       "duration_ms": 355852,
       "name": "Wish",
       "url": "https://open.spotify.com/track/1Rf9oOHLlFxnsFkRq8IywM"
-    },
-    {
-      "added_at": "2024-05-23 09:41:27",
-      "album": {
-        "name": "THE RMXS: VOL. 1",
-        "url": "https://open.spotify.com/album/1U9kCtpLIvR3ahateASXvW"
-      },
-      "artists": [
-        {
-          "name": "B\u00c9BE YANA",
-          "url": "https://open.spotify.com/artist/6ozuxhSx8Ci0o8tPpgrCT2"
-        },
-        {
-          "name": "ROMderful",
-          "url": "https://open.spotify.com/artist/3Aum3IcJEKuGsWVPBZnvyU"
-        }
-      ],
-      "duration_ms": 182053,
-      "name": "CHEMISTRY (ROMderful Remix)",
-      "url": "https://open.spotify.com/track/4IakLOd0LViDhdsWKQkPio"
     },
     {
       "added_at": "2024-05-23 09:41:27",
@@ -1535,6 +1515,26 @@
     {
       "added_at": "2024-05-23 09:41:27",
       "album": {
+        "name": "THE RMXS: VOL. 1",
+        "url": "https://open.spotify.com/album/1U9kCtpLIvR3ahateASXvW"
+      },
+      "artists": [
+        {
+          "name": "B\u00c9BE YANA",
+          "url": "https://open.spotify.com/artist/6ozuxhSx8Ci0o8tPpgrCT2"
+        },
+        {
+          "name": "ROMderful",
+          "url": "https://open.spotify.com/artist/3Aum3IcJEKuGsWVPBZnvyU"
+        }
+      ],
+      "duration_ms": 182053,
+      "name": "CHEMISTRY (ROMderful Remix)",
+      "url": "https://open.spotify.com/track/4IakLOd0LViDhdsWKQkPio"
+    },
+    {
+      "added_at": "2024-05-23 09:41:27",
+      "album": {
         "name": "Off Ways",
         "url": "https://open.spotify.com/album/5GrvHifcpCyzKUMHI2Mtyy"
       },
@@ -1551,22 +1551,6 @@
       "duration_ms": 180816,
       "name": "Off Ways",
       "url": "https://open.spotify.com/track/28oDhUdHX9CqwVrdJTKubW"
-    },
-    {
-      "added_at": "2024-05-23 09:41:27",
-      "album": {
-        "name": "Lift Me Up",
-        "url": "https://open.spotify.com/album/3EfxRgpDIoCtDYgYrh1Y6A"
-      },
-      "artists": [
-        {
-          "name": "DUE",
-          "url": "https://open.spotify.com/artist/4150G9GrM7VzaOzUmPCf5m"
-        }
-      ],
-      "duration_ms": 121406,
-      "name": "Lift Me Up",
-      "url": "https://open.spotify.com/track/2lahORylPr5NKed4le9ODg"
     },
     {
       "added_at": "2024-05-23 09:41:27",
@@ -1591,6 +1575,26 @@
     {
       "added_at": "2024-05-23 09:41:27",
       "album": {
+        "name": "iScreaM Vol.17 : DEEP Remixes",
+        "url": "https://open.spotify.com/album/52y8oOuU1sVpx7MmvaaIOk"
+      },
+      "artists": [
+        {
+          "name": "HYO",
+          "url": "https://open.spotify.com/artist/3U7bOaJLuFkrmDQ1C1OqKl"
+        },
+        {
+          "name": "h4rdy",
+          "url": "https://open.spotify.com/artist/7JvaJdbpBgiVUWfxTal27Z"
+        }
+      ],
+      "duration_ms": 225962,
+      "name": "DEEP - h4rdy Remix",
+      "url": "https://open.spotify.com/track/32ublq72W447prf0jOntiJ"
+    },
+    {
+      "added_at": "2024-05-23 09:41:27",
+      "album": {
         "name": "iScreaM Vol.19 : FOREVER 1 Remixes",
         "url": "https://open.spotify.com/album/4DXE5rt8VQUZHmKIG57AYu"
       },
@@ -1611,22 +1615,18 @@
     {
       "added_at": "2024-05-23 09:41:27",
       "album": {
-        "name": "iScreaM Vol.17 : DEEP Remixes",
-        "url": "https://open.spotify.com/album/52y8oOuU1sVpx7MmvaaIOk"
+        "name": "Lift Me Up",
+        "url": "https://open.spotify.com/album/3EfxRgpDIoCtDYgYrh1Y6A"
       },
       "artists": [
         {
-          "name": "HYO",
-          "url": "https://open.spotify.com/artist/3U7bOaJLuFkrmDQ1C1OqKl"
-        },
-        {
-          "name": "h4rdy",
-          "url": "https://open.spotify.com/artist/7JvaJdbpBgiVUWfxTal27Z"
+          "name": "DUE",
+          "url": "https://open.spotify.com/artist/4150G9GrM7VzaOzUmPCf5m"
         }
       ],
-      "duration_ms": 225962,
-      "name": "DEEP - h4rdy Remix",
-      "url": "https://open.spotify.com/track/32ublq72W447prf0jOntiJ"
+      "duration_ms": 121406,
+      "name": "Lift Me Up",
+      "url": "https://open.spotify.com/track/2lahORylPr5NKed4le9ODg"
     },
     {
       "added_at": "2024-05-23 09:41:27",
@@ -1667,6 +1667,22 @@
     {
       "added_at": "2024-05-23 09:41:27",
       "album": {
+        "name": "Catch Me If You Can",
+        "url": "https://open.spotify.com/album/27NAxJQBKFRNNC3mpcunGv"
+      },
+      "artists": [
+        {
+          "name": "Division One (KR)",
+          "url": "https://open.spotify.com/artist/75J7BYbQY3qfVdQh1BMPbZ"
+        }
+      ],
+      "duration_ms": 161280,
+      "name": "Catch Me If You Can",
+      "url": "https://open.spotify.com/track/3pwUWPoXCyCk3s4TiAMxk3"
+    },
+    {
+      "added_at": "2024-05-23 09:41:27",
+      "album": {
         "name": "iScreaM Vol.7 : Don't Call Me Remixes",
         "url": "https://open.spotify.com/album/2dw5OhTWlveInSayuXHYik"
       },
@@ -1683,22 +1699,6 @@
       "duration_ms": 181463,
       "name": "Don't Call Me - ESAI Remix",
       "url": "https://open.spotify.com/track/0IOwemmG89kd7zavZz6bvS"
-    },
-    {
-      "added_at": "2024-05-23 09:41:27",
-      "album": {
-        "name": "Catch Me If You Can",
-        "url": "https://open.spotify.com/album/27NAxJQBKFRNNC3mpcunGv"
-      },
-      "artists": [
-        {
-          "name": "Division One (KR)",
-          "url": "https://open.spotify.com/artist/75J7BYbQY3qfVdQh1BMPbZ"
-        }
-      ],
-      "duration_ms": 161280,
-      "name": "Catch Me If You Can",
-      "url": "https://open.spotify.com/track/3pwUWPoXCyCk3s4TiAMxk3"
     },
     {
       "added_at": "2024-05-23 09:41:27",
@@ -1827,6 +1827,22 @@
     {
       "added_at": "2024-05-23 09:41:27",
       "album": {
+        "name": "Power (Remixes)",
+        "url": "https://open.spotify.com/album/6kMYsqzcglsUJZodFLGD51"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "duration_ms": 300000,
+      "name": "Power - Dash Berlin Remix",
+      "url": "https://open.spotify.com/track/2ddwXrg3E3IZcXeUImlv7F"
+    },
+    {
+      "added_at": "2024-05-23 09:41:27",
+      "album": {
         "name": "Young Again",
         "url": "https://open.spotify.com/album/04A2MlzNmWlnAVYCm9lR7f"
       },
@@ -1851,18 +1867,18 @@
     {
       "added_at": "2024-05-23 09:41:27",
       "album": {
-        "name": "Power (Remixes)",
-        "url": "https://open.spotify.com/album/6kMYsqzcglsUJZodFLGD51"
+        "name": "Shining Like the Sun in the Sky",
+        "url": "https://open.spotify.com/album/1ivI5AZxoM5Ou9wApLUYAo"
       },
       "artists": [
         {
-          "name": "EXO",
-          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+          "name": "Cafrii",
+          "url": "https://open.spotify.com/artist/2cNg9QqJy1QJEGn8pZOUWe"
         }
       ],
-      "duration_ms": 300000,
-      "name": "Power - Dash Berlin Remix",
-      "url": "https://open.spotify.com/track/2ddwXrg3E3IZcXeUImlv7F"
+      "duration_ms": 195428,
+      "name": "Shining Like the Sun in the Sky",
+      "url": "https://open.spotify.com/track/5GxFVAV7gPzOGzQZz73i1C"
     },
     {
       "added_at": "2024-05-23 09:41:27",
@@ -1887,22 +1903,6 @@
       "duration_ms": 162000,
       "name": "Between",
       "url": "https://open.spotify.com/track/1pNxr8E0bfkzBPcefgeXXI"
-    },
-    {
-      "added_at": "2024-05-23 09:41:27",
-      "album": {
-        "name": "Shining Like the Sun in the Sky",
-        "url": "https://open.spotify.com/album/1ivI5AZxoM5Ou9wApLUYAo"
-      },
-      "artists": [
-        {
-          "name": "Cafrii",
-          "url": "https://open.spotify.com/artist/2cNg9QqJy1QJEGn8pZOUWe"
-        }
-      ],
-      "duration_ms": 195428,
-      "name": "Shining Like the Sun in the Sky",
-      "url": "https://open.spotify.com/track/5GxFVAV7gPzOGzQZz73i1C"
     },
     {
       "added_at": "2024-05-23 09:41:27",

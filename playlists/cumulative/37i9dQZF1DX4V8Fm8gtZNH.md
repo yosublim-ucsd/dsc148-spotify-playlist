@@ -4,7 +4,7 @@
 
 > Our streets, our way\. Listen to music from The Chi, now streaming on Paramount+ with Showtime.
 
-288 songs - 17 hr 13 min
+292 songs - 17 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,6 +139,7 @@
 | [In the Pines \(Oakland\)](https://open.spotify.com/track/689l1K9scv7URAAlp17J4P) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [The Last Days of Oakland](https://open.spotify.com/album/0CNXnv7UOxzVEVvAmgwMGG) | 4:19 | 2023-10-18 |  |
 | [Inspired](https://open.spotify.com/track/02gEdxXjt7TkFy7FRC59Aq) | [EMAN8](https://open.spotify.com/artist/1yga8fySsCSERk1AFvVdQ9) | [Inspired](https://open.spotify.com/album/1oG1pnIxWKK5MBYOK1K5iL) | 3:06 | 2023-10-18 |  |
 | [Jealous](https://open.spotify.com/track/4G92yYrUs0cvY7G41YRI0z) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Jealous \- EP](https://open.spotify.com/album/6bsCl6iS6dvC4xaiBlecPv) | 4:47 | 2023-10-18 |  |
+| [JOY \(Unspeakable\) \(feat\. Pharrell Williams\)](https://open.spotify.com/track/7cg5YxLOssunPw1hI1DUm4) | [Voices of Fire](https://open.spotify.com/artist/5hMr1UPWUlLzQmHpE45EpH), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [JOY \(Unspeakable\) \(feat\. Pharrell Williams\)](https://open.spotify.com/album/6lSjMJHMD4vgXZ7pm8gwoB) | 5:12 | 2024-05-24 |  |
 | [Juce](https://open.spotify.com/track/5yk5bOHUNlANe4tBjTokHf) | [Cram](https://open.spotify.com/artist/09gOEoMZWposJexLjuG48Z), [Jaylap](https://open.spotify.com/artist/4xc7OEgJIoxCbs38XjISdZ) | [Baphomet](https://open.spotify.com/album/58RyweRl7EJd0SOR0hwoRf) | 1:24 | 2023-10-18 |  |
 | [Just Watch Me Now](https://open.spotify.com/track/4thforo1bEQyELUxY9Any8) | [Lady Bri](https://open.spotify.com/artist/1p5FodMOL5gU5E1i9enTGO) | [Just Watch Me Now](https://open.spotify.com/album/2EGzj5x2nGtF53deHNti5q) | 3:01 | 2023-10-18 |  |
 | [Karma](https://open.spotify.com/track/0xB7i2AhQZT7nnor7rb15L) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Painted](https://open.spotify.com/album/0sxfu0XUwHOtnKiZgkTQwk) | 3:04 | 2023-10-18 |  |
@@ -172,11 +173,14 @@
 | [Mood](https://open.spotify.com/track/0X93LqqEeR3xd9i1MVAgWb) | [Josiah Bell](https://open.spotify.com/artist/4IemglBvZymbgCFgbUBSm4) | [Mood](https://open.spotify.com/album/1Z1OwDexqDPNAmDRulh22Q) | 2:08 | 2023-10-18 |  |
 | [MUFFIN 8](https://open.spotify.com/track/1BvxM8E6F7GDTEhEtbtUNE) | [Gavin Maestro](https://open.spotify.com/artist/5eEW06gmEMtphtMZtOcnj2) | [MUFFIN 8](https://open.spotify.com/album/1AuLqYji0rRrkgLTdrSfeZ) | 2:23 | 2023-10-18 |  |
 | [Muffins In The Freezer](https://open.spotify.com/track/433oHg3yvSo0Dtu67A1idB) | [Tiagz](https://open.spotify.com/artist/4DMkrFIqGXLycc4YLYTn1i) | [Muffins In The Freezer](https://open.spotify.com/album/2E3jRMIdxOHdBjy7yr6Pl8) | 1:46 | 2023-10-18 |  |
+| [My Winter \(feat\. Robert Glasper\)](https://open.spotify.com/track/5fHxa5Hlek46LgBFN344w1) | [Adam Blackstone](https://open.spotify.com/artist/01qe6O86TULkQwNofn1zgs), [Laurin Talese](https://open.spotify.com/artist/2iirSBE12frjhW8JKtJQhN), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn) | [Legacy](https://open.spotify.com/album/3nHbEmj9rc6mvJSAm1RXDm) | 5:01 | 2024-05-24 |  |
 | [My Young Misery](https://open.spotify.com/track/7GQMu0NO95F6PxcUqihIys) | [Darrow Fletcher](https://open.spotify.com/artist/0adetEU8Vg0fU96nkB9Zel) | [The Pain Gets A Little Deeper](https://open.spotify.com/album/2Jq0dS6jaYiuMg5AvQl843) | 2:30 | 2023-10-18 |  |
+| [Need Me](https://open.spotify.com/track/7LVXsbi4y6TaXEUyDsqhFN) | [Will Gittens](https://open.spotify.com/artist/2Guif3r6Ys8lL1H5aGyuh1), [Jr](https://open.spotify.com/artist/3Hlf2lRqdg8AoCMgyWF9vH) | [Afro Island](https://open.spotify.com/album/5KkDCCJjoJmOoaj6cJ68OR) | 2:13 | 2024-05-24 |  |
 | [Need My Meds](https://open.spotify.com/track/5sCnt924Gu53YjbMlTxmiC) | [Mickey Shiloh](https://open.spotify.com/artist/2ZI5SpSI3z4jWeaFXr0WlC) | [Summer Wasted](https://open.spotify.com/album/097zutTtxwL4Z2ApL2lGgk) | 2:25 | 2023-10-18 |  |
 | [Need That](https://open.spotify.com/track/11DiSJiIJ1c6XVlTsqHpgo) | [DeCarlo](https://open.spotify.com/artist/0HjQbsxkkqV6Et2YoFHd48) | [Need That](https://open.spotify.com/album/5hJjZc3rJJr1UarsmnfJUo) | 2:28 | 2023-10-18 |  |
 | [Neon Lights \(feat\. Supa Bwe & Lil Yachty\)](https://open.spotify.com/track/3QVu5yFeifgUwpX35PFrmx) | [Taylor Bennett](https://open.spotify.com/artist/6CqjoQyGZlnhnq5gAUz92c), [ZiG](https://open.spotify.com/artist/6HxZVLe5XQKhYFnGesRbKU), [Supa Bwe](https://open.spotify.com/artist/05kWC05qQmocVoC5Udgl6D), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Restoration of an American Idol](https://open.spotify.com/album/2XXqBkpXDNhUQw9K4fNj8t) | 5:05 | 2023-10-18 |  |
 | [News](https://open.spotify.com/track/4krpgB8twCTBq12aP4a8ug) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v), [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [Pillow Talk](https://open.spotify.com/album/5OqXOVNWcFnBsYnPV0BWc6) | 3:15 | 2024-05-10 |  |
+| [No Good](https://open.spotify.com/track/0ww4cvNmxkFd04X1qtFWhA) | [Samira Finley](https://open.spotify.com/artist/6tU2k4kzOc2rAbXjphvbUv) | [No Good](https://open.spotify.com/album/0Rakb4FFhKuAQUXwe7t9pD) | 4:10 | 2024-05-24 |  |
 | [No Interviews](https://open.spotify.com/track/1tXDziDamT0we73CTDsgsv) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [7220](https://open.spotify.com/album/0vRN2oePynCSTspdY9NDsM) | 2:59 | 2023-10-18 |  |
 | [Nobody Speak \(feat\. Run the Jewels\)](https://open.spotify.com/track/1gYn6OTpw5W6n8QaJjyY5m) | [DJ Shadow](https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI), [Run The Jewels](https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C) | [The Mountain Will Fall](https://open.spotify.com/album/2OW3iDsmS98lTqgta5Zv0O) | 3:15 | 2023-10-18 |  |
 | [Nothing Without You](https://open.spotify.com/track/1N1EWrnp5tUeXsl7a1qCr8) | [Josiah Bell](https://open.spotify.com/artist/4IemglBvZymbgCFgbUBSm4) | [P.S\. I Still Love You](https://open.spotify.com/album/4taGxZ0lhkOLX0JvdlE5LP) | 3:23 | 2023-10-18 |  |

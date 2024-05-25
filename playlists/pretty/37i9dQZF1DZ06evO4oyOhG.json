@@ -1,12 +1,12 @@
 {
   "description": "This is CHiCO with HoneyWorks. The essential tracks, all in one playlist.",
-  "num_followers": 17107,
+  "num_followers": 17110,
   "original_name": "This Is CHiCO with HoneyWorks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zk01gAAAAADm64r7H+NZjZ/Q4BV6gKXG",
+  "snapshot_id": "Zk6HAAAAAAAJlaytXhaX1CBPjUAzSo06",
   "tracks": [
     {
       "added_at": null,
@@ -307,8 +307,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u30a2\u30a4\u306e\u30b7\u30ca\u30ea\u30aa TV size",
-        "url": "https://open.spotify.com/album/7FLJSAtkxRX1jMy85Z2v9U"
+        "name": "\u4e16\u754c\u306f\uff49\u306b\u6e80\u3061\u3066\u3044\u308b",
+        "url": "https://open.spotify.com/album/5SuByixIlQq7r1bValOe0G"
       },
       "artists": [
         {
@@ -316,9 +316,9 @@
           "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
         }
       ],
-      "duration_ms": 90333,
-      "name": "\u30a2\u30a4\u306e\u30b7\u30ca\u30ea\u30aa TV size",
-      "url": "https://open.spotify.com/track/0YrVb49QPa6sGimAxP2ZDg"
+      "duration_ms": 240493,
+      "name": "color",
+      "url": "https://open.spotify.com/track/7LTRBxH7yCV7fmkb7oDFRM"
     },
     {
       "added_at": null,
@@ -339,8 +339,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u4e16\u754c\u306f\uff49\u306b\u6e80\u3061\u3066\u3044\u308b",
-        "url": "https://open.spotify.com/album/5SuByixIlQq7r1bValOe0G"
+        "name": "\u30a2\u30a4\u306e\u30b7\u30ca\u30ea\u30aa TV size",
+        "url": "https://open.spotify.com/album/7FLJSAtkxRX1jMy85Z2v9U"
       },
       "artists": [
         {
@@ -348,9 +348,9 @@
           "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
         }
       ],
-      "duration_ms": 240493,
-      "name": "color",
-      "url": "https://open.spotify.com/track/7LTRBxH7yCV7fmkb7oDFRM"
+      "duration_ms": 90333,
+      "name": "\u30a2\u30a4\u306e\u30b7\u30ca\u30ea\u30aa TV size",
+      "url": "https://open.spotify.com/track/0YrVb49QPa6sGimAxP2ZDg"
     },
     {
       "added_at": null,
@@ -599,22 +599,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u30ec\u30a4\u30f3\u30fb\u30aa\u30fc\u30eb\u30b9\u30bf\u30fcMIX \"\u30d0\u30a4\u30d6\u30eb\" mixed by DJ\u548c",
-        "url": "https://open.spotify.com/album/0OKzncJhhkoB8lDgBXochL"
+        "name": "\u30d3\u30d3\u3063\u3068\u30e9\u30d6 (Special Edition)",
+        "url": "https://open.spotify.com/album/48gJDdBvItXEF7HtZcIjvU"
       },
       "artists": [
         {
           "name": "CHiCO with HoneyWorks",
           "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
-        },
-        {
-          "name": "DJ Kazu",
-          "url": "https://open.spotify.com/artist/1IOPs2IN12TMhz9TzBy1uI"
         }
       ],
-      "duration_ms": 84240,
-      "name": "\u6c7a\u6226\u30b9\u30d4\u30ea\u30c3\u30c8\uff08BIBLE version\uff09 - Mixed",
-      "url": "https://open.spotify.com/track/3ku5B2Mo9cq66azFT2Mnua"
+      "duration_ms": 234360,
+      "name": "\u30d3\u30d3\u3063\u3068\u30e9\u30d6 -CHiCO \u307c\u3063\u3061 ver.-",
+      "url": "https://open.spotify.com/track/2m81ZTXEOshoGwJakzaq4Y"
     },
     {
       "added_at": null,
@@ -635,18 +631,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u30d3\u30d3\u3063\u3068\u30e9\u30d6 (Special Edition)",
-        "url": "https://open.spotify.com/album/48gJDdBvItXEF7HtZcIjvU"
+        "name": "\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u30ec\u30a4\u30f3\u30fb\u30aa\u30fc\u30eb\u30b9\u30bf\u30fcMIX \"\u30d0\u30a4\u30d6\u30eb\" mixed by DJ\u548c",
+        "url": "https://open.spotify.com/album/0OKzncJhhkoB8lDgBXochL"
       },
       "artists": [
         {
           "name": "CHiCO with HoneyWorks",
           "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        },
+        {
+          "name": "DJ Kazu",
+          "url": "https://open.spotify.com/artist/1IOPs2IN12TMhz9TzBy1uI"
         }
       ],
-      "duration_ms": 234360,
-      "name": "\u30d3\u30d3\u3063\u3068\u30e9\u30d6 -CHiCO \u307c\u3063\u3061 ver.-",
-      "url": "https://open.spotify.com/track/2m81ZTXEOshoGwJakzaq4Y"
+      "duration_ms": 84240,
+      "name": "\u6c7a\u6226\u30b9\u30d4\u30ea\u30c3\u30c8\uff08BIBLE version\uff09 - Mixed",
+      "url": "https://open.spotify.com/track/3ku5B2Mo9cq66azFT2Mnua"
     },
     {
       "added_at": null,

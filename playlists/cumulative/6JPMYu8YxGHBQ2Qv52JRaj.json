@@ -27,6 +27,28 @@
     },
     {
       "album": {
+        "name": "2AM",
+        "url": "https://open.spotify.com/album/22gPZACM941jJGpd6vU4ZX"
+      },
+      "artists": [
+        {
+          "name": "Window Kid",
+          "url": "https://open.spotify.com/artist/0Gt5eU7AuKfotkBLgjyg9p"
+        },
+        {
+          "name": "Local",
+          "url": "https://open.spotify.com/artist/5pNualCkz8Fih2WjCYwEZ2"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188498,
+      "name": "2AM",
+      "url": "https://open.spotify.com/track/1mTibrsVeunMhiq1ADqzhY"
+    },
+    {
+      "album": {
         "name": "303",
         "url": "https://open.spotify.com/album/29kh9dk0Uqd1gWhONMuulc"
       },
@@ -205,6 +227,24 @@
     },
     {
       "album": {
+        "name": "All The Way",
+        "url": "https://open.spotify.com/album/2yL0wl9CvwWNIpIFBSUcP1"
+      },
+      "artists": [
+        {
+          "name": "Reece Ros\u00e9",
+          "url": "https://open.spotify.com/artist/7e7AGt1EJqxXsb9xpaflJ5"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243809,
+      "name": "All The Way",
+      "url": "https://open.spotify.com/track/6kjP9hwgKBzKo0psteGFDY"
+    },
+    {
+      "album": {
         "name": "Assumptions (feat. Purple Velvet Curtains)",
         "url": "https://open.spotify.com/album/5Xn8k6hbvl1nmn4FNecqqK"
       },
@@ -242,7 +282,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 166285,
       "name": "Automatic",
       "url": "https://open.spotify.com/track/5UTcXCoN6lJwjaBjTFlt9B"
@@ -780,7 +820,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 188437,
       "name": "Bring It",
       "url": "https://open.spotify.com/track/4gUg5vmjYicLAn029z1E1G"
@@ -906,7 +946,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 195000,
       "name": "CASH",
       "url": "https://open.spotify.com/track/10Tg2LXtZG5yHyrYxM8dEk"
@@ -954,6 +994,32 @@
       "duration_ms": 186401,
       "name": "Chicago",
       "url": "https://open.spotify.com/track/4eN2zbyQgQ5k98mShbWbuO"
+    },
+    {
+      "album": {
+        "name": "Night Bass Remixed Vol. 3",
+        "url": "https://open.spotify.com/album/1Cdc4VQAG1CZ454qaV5Aco"
+      },
+      "artists": [
+        {
+          "name": "AC Slater",
+          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
+        },
+        {
+          "name": "Frisco",
+          "url": "https://open.spotify.com/artist/1AKNroq6zJX4DlJaA0dcKw"
+        },
+        {
+          "name": "Qlank",
+          "url": "https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278095,
+      "name": "Come Thru - Qlank Remix",
+      "url": "https://open.spotify.com/track/00uNDlNkpDkZP0CsJtD0qD"
     },
     {
       "album": {
@@ -1283,6 +1349,28 @@
     },
     {
       "album": {
+        "name": "Delusion",
+        "url": "https://open.spotify.com/album/024B7xm7NNf5xAQKYtTBO3"
+      },
+      "artists": [
+        {
+          "name": "Freyer",
+          "url": "https://open.spotify.com/artist/5rWDaIemV0O8diTTcitrZ4"
+        },
+        {
+          "name": "CYMN",
+          "url": "https://open.spotify.com/artist/1WJ5N2Ld3BdB4y0bEvCuRO"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159838,
+      "name": "Delusion",
+      "url": "https://open.spotify.com/track/4ZgMrN8p7ilyVQXwVb3hxz"
+    },
+    {
+      "album": {
         "name": "Desire",
         "url": "https://open.spotify.com/album/5s21XVqI0I31porPGWJ97T"
       },
@@ -1418,7 +1506,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 178190,
       "name": "DNA - Radio Edit",
       "url": "https://open.spotify.com/track/29Aui4Zhp6GQKfIJULRfHT"
@@ -1458,6 +1546,28 @@
       "duration_ms": 223799,
       "name": "Do My Ting",
       "url": "https://open.spotify.com/track/7itFDwMmp0bvAUctxRhHkr"
+    },
+    {
+      "album": {
+        "name": "Don't Sweat It",
+        "url": "https://open.spotify.com/album/3u7jL6KxRZ2OhGcyjXesFF"
+      },
+      "artists": [
+        {
+          "name": "SUBSHIFT",
+          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
+        },
+        {
+          "name": "BINGEWATCH",
+          "url": "https://open.spotify.com/artist/46GFgB66csz8utVAK4Z29Z"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176750,
+      "name": "Don't Sweat It",
+      "url": "https://open.spotify.com/track/46ejVpRBMemcDh4RMHrQzR"
     },
     {
       "album": {
@@ -1502,6 +1612,24 @@
       "duration_ms": 203333,
       "name": "Don't Wanna Be",
       "url": "https://open.spotify.com/track/2btIgqM1ddLW5hZBaZJw0W"
+    },
+    {
+      "album": {
+        "name": "UNSPOKEN DESIRES EP",
+        "url": "https://open.spotify.com/album/6AC9s4oFLhVC7M3PCmdzjD"
+      },
+      "artists": [
+        {
+          "name": "AGLF",
+          "url": "https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199074,
+      "name": "Don't Watch Her",
+      "url": "https://open.spotify.com/track/7KCIyeB50sJSlNI0qcLhtf"
     },
     {
       "album": {
@@ -1922,7 +2050,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 191718,
       "name": "Frikitona - Odd Mob Remix",
       "url": "https://open.spotify.com/track/4VmJrlaQyNESNp5kAK7zIY"
@@ -3130,7 +3258,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 153750,
       "name": "Like This",
       "url": "https://open.spotify.com/track/4A2vWdaWh7cF3SBguQm9l3"
@@ -3344,7 +3472,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 152812,
       "name": "MARAVILLOSA",
       "url": "https://open.spotify.com/track/2gqTJ6kG9qgbRuwsRb66LA"
@@ -3688,7 +3816,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 174500,
       "name": "Need My Love",
       "url": "https://open.spotify.com/track/3T4wzWbX6MirfuYdJek7AR"
@@ -4204,7 +4332,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 293760,
       "name": "OVERN!GHT",
       "url": "https://open.spotify.com/track/7FMKInxdXSjAAFRnVDXybH"
@@ -4476,7 +4604,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 243779,
       "name": "Put Em' High",
       "url": "https://open.spotify.com/track/6PbEpqfl9An6JeNKdmFADk"
@@ -5973,6 +6101,24 @@
     },
     {
       "album": {
+        "name": "Voice Machine",
+        "url": "https://open.spotify.com/album/74sGDyM908xhzHMkfnyr7S"
+      },
+      "artists": [
+        {
+          "name": "HeyDoc!",
+          "url": "https://open.spotify.com/artist/5EwW7fH1tpfaLhv54OgneB"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245625,
+      "name": "Voice Machine",
+      "url": "https://open.spotify.com/track/3qGegN5LcHC2gYV6IsDusb"
+    },
+    {
+      "album": {
         "name": "Wait",
         "url": "https://open.spotify.com/album/5kebskDQbUTOT4NH1ae4N3"
       },
@@ -6049,6 +6195,28 @@
     },
     {
       "album": {
+        "name": "Watch The Skank",
+        "url": "https://open.spotify.com/album/01CQfqMHQFq4S0ogijNGwJ"
+      },
+      "artists": [
+        {
+          "name": "Zero",
+          "url": "https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH"
+        },
+        {
+          "name": "Tempa T",
+          "url": "https://open.spotify.com/artist/5itdSz26wZC57bo3dhQTPq"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181714,
+      "name": "Watch The Skank",
+      "url": "https://open.spotify.com/track/49zk3dTYmYjtXK6UnG18Er"
+    },
+    {
+      "album": {
         "name": "We Go Hard",
         "url": "https://open.spotify.com/album/7AjWPEjeO3QjG7OVhznBqw"
       },
@@ -6090,6 +6258,24 @@
       "duration_ms": 207753,
       "name": "What They Say",
       "url": "https://open.spotify.com/track/6uIzCToTSO3iMUMpYprG6X"
+    },
+    {
+      "album": {
+        "name": "When I'm in It",
+        "url": "https://open.spotify.com/album/7a9A18elWcSzhDqAgZ6N5r"
+      },
+      "artists": [
+        {
+          "name": "Birthdayy Partyy",
+          "url": "https://open.spotify.com/artist/2oOuwFJjxe5enJAkDgPkHp"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173858,
+      "name": "When I'm in It",
+      "url": "https://open.spotify.com/track/4qEgpcBgO4bit8EQIJkjr5"
     },
     {
       "album": {
@@ -6352,6 +6538,28 @@
       "duration_ms": 225120,
       "name": "You Right",
       "url": "https://open.spotify.com/track/58GOSPgDqiSblEpGD9gFda"
+    },
+    {
+      "album": {
+        "name": "\u6697\u82b1",
+        "url": "https://open.spotify.com/album/52GNNEKQppvR22nVaZ3fTI"
+      },
+      "artists": [
+        {
+          "name": "Chace",
+          "url": "https://open.spotify.com/artist/5kPhAZL6iV8iDywUmIPC3g"
+        },
+        {
+          "name": "Hugo",
+          "url": "https://open.spotify.com/artist/3IMSkE3ztjCySBCGRTyh47"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234563,
+      "name": "\u6697\u82b1",
+      "url": "https://open.spotify.com/track/52kv9hsW6DLvoL1Ae0UrnH"
     }
   ],
   "url": "https://open.spotify.com/playlist/6JPMYu8YxGHBQ2Qv52JRaj"

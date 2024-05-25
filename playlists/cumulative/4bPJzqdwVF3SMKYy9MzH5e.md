@@ -4,7 +4,7 @@
 
 > 
 
-1,901 songs - 4 day 6 hr 34 min
+1,902 songs - 4 day 6 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1645,6 +1645,7 @@
 | [The Chattering Lack of Common Sense](https://open.spotify.com/track/1jFtCDktj1XTxDcu52iyeC) | [Ghost and Pals](https://open.spotify.com/artist/3Avni6DLpoxtanND8mG5t8) | [The Chattering Lack of Common Sense](https://open.spotify.com/album/4ZkEBNbrWleWPSlnw6Kxtb) | 3:34 | 2022-07-23 |  |
 | [the day she killed herself](https://open.spotify.com/track/0Bh6mAKCdCzJhY0KpdXWrC) | [Xxadist](https://open.spotify.com/artist/385qmwPEeBfstKhk1u9foZ) | [the day she killed herself](https://open.spotify.com/album/24ihpZysE6Ja3xKFA9jwbt) | 2:41 | 2023-11-30 |  |
 | [The Devil in I](https://open.spotify.com/track/5hheGdf1cb4rK0FNiedCfK) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [.5: The Gray Chapter \(Special Edition\)](https://open.spotify.com/album/0ApKaazNHf0gzjAYZauexq) | 5:42 | 2021-08-05 |  |
+| [THE DINER](https://open.spotify.com/track/1LLUoftvmTjVNBHZoQyveF) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:06 | 2024-05-24 |  |
 | [The Divine Zero](https://open.spotify.com/track/7trZFY6J0ZfnZYUg3NIHot) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Misadventures](https://open.spotify.com/album/4wIX07SiESzMbSLCK3qCWQ) | 4:08 | 2022-04-15 |  |
 | [The Drug In Me Is You](https://open.spotify.com/track/1mB7dCUM7sPyNab6R43nlj) | [Falling In Reverse](https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz) | [The Drug In Me Is You](https://open.spotify.com/album/1KwwS07TEbKS8r1rU4UUe4) | 3:38 | 2021-08-05 |  |
 | [The End \(feat\. BABYMETAL\)](https://open.spotify.com/track/07TSrx1BDK6twM9avkYzbe) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [Pink Tape](https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz) | 3:07 | 2023-07-05 |  |

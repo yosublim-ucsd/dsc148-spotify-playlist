@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXxc8Mc6MmJ.md) - [plain]
 
 > Relive your favourite K\-Drama moments with these classic soundtracks\. \(그 시절 그 때의 감성이 담겨 있는 OST 명곡들을 만나보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 818,575 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 819,002 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXxc8Mc6MmJ.md) - [plain]
 | 55 | [아쉬운 마음인걸](https://open.spotify.com/track/0LeSMFxSMLkbjjrwV082QG) | [에이 스타일](https://open.spotify.com/artist/6Isq5QAXFUqu6WkFcEAyF1) | [꽃보다 남자 \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/02ZevGxNYtV6KqhU942FMq) | 3:08 |
 | 56 | [If](https://open.spotify.com/track/76do9IBWqoiwV3EyoP25Le) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Hong Gil Dong OST](https://open.spotify.com/album/5Efud8Wmo7vBQjSJI1WcJ7) | 4:25 |
 | 57 | [Rain and You](https://open.spotify.com/track/4ribiWWnI451QMRdOgByIP) | [Lee Mujin](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [HOSPITAL PLAYLIST Season2, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/2pJhtrlZZvxFi818EMvKAY) | 4:22 |
-| 58 | [Is It Still Beautiful](https://open.spotify.com/track/4rrGSoMxUV0diSX4zpoCTf) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [HOSPITAL PLAYLIST Season2, Pt\. 8 \(Original Television Soundtrack\)](https://open.spotify.com/album/0wjfQ5rrQIRFuSPvAbZBX4) | 4:35 |
-| 59 | [Love U](https://open.spotify.com/track/7BhmmVVKqNJOqaagkfdBbS) | [HowL](https://open.spotify.com/artist/56bJgGFV3JTVW5hAGEU1ad) | [꽃보다 남자 \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/02ZevGxNYtV6KqhU942FMq) | 3:43 |
+| 58 | [Love U](https://open.spotify.com/track/7BhmmVVKqNJOqaagkfdBbS) | [HowL](https://open.spotify.com/artist/56bJgGFV3JTVW5hAGEU1ad) | [꽃보다 남자 \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/02ZevGxNYtV6KqhU942FMq) | 3:43 |
+| 59 | [Is It Still Beautiful](https://open.spotify.com/track/4rrGSoMxUV0diSX4zpoCTf) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [HOSPITAL PLAYLIST Season2, Pt\. 8 \(Original Television Soundtrack\)](https://open.spotify.com/album/0wjfQ5rrQIRFuSPvAbZBX4) | 4:35 |
 | 60 | [Everyday With You](https://open.spotify.com/track/4FpNWU5qCPCZR7LkuyuJr7) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [KING THE LAND \(Original Television Soundtrack\), Pt.9](https://open.spotify.com/album/1RbPDmimZAOVVbyHyjwXhq) | 2:50 |
 | 61 | [Crying out](https://open.spotify.com/track/7jVLe21bkwX1DTy1mfkxjB) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [CART OST](https://open.spotify.com/album/680xGIfuVXMyY3fxb0kII9) | 3:51 |
 | 62 | [What If Love](https://open.spotify.com/track/0cp40X5n65SX6flh0ZcDPW) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Touch your heart OST Part.3](https://open.spotify.com/album/17bvWkSMFO50zORkCWkdC5) | 3:39 |

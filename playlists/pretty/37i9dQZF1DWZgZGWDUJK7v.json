@@ -1,6 +1,6 @@
 {
   "description": "Meet the popular webtoon OSTs now! (Cover: No Office Romance!(\uc0ac\ub0b4\uc5f0\uc560 \uc0ac\uc808!)) \uc9c0\uae08 \uc778\uae30 \uc788\ub294 \uc6f9\ud230 OST\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!",
-  "num_followers": 88273,
+  "num_followers": 88295,
   "original_name": "K-Webtoon OSTs (\uc6f9\ud230 OSTs)",
   "owner": {
     "name": "Spotify",
@@ -527,22 +527,6 @@
     {
       "added_at": "2024-05-09 14:41:42",
       "album": {
-        "name": "A Shoulder to Cry On (Original Audio Drama Soundtrack)",
-        "url": "https://open.spotify.com/album/6zB6OXYBLrYfk9lQhXiarC"
-      },
-      "artists": [
-        {
-          "name": "JaeHan",
-          "url": "https://open.spotify.com/artist/0DbPKVg9CKEzdN1nlolnZv"
-        }
-      ],
-      "duration_ms": 193500,
-      "name": "Monologue",
-      "url": "https://open.spotify.com/track/28xcjPuYAgPcFRtGSWk2SP"
-    },
-    {
-      "added_at": "2024-05-09 14:41:42",
-      "album": {
         "name": "Starlight (No Office Romance! X JINI) (Original Webtoon Soundtrack)",
         "url": "https://open.spotify.com/album/3xJ4992CDlMMCIdjpRTkfy"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 165293,
       "name": "Starlight",
       "url": "https://open.spotify.com/track/10mZOfUMXYsXVTGuxp69O3"
+    },
+    {
+      "added_at": "2024-05-09 14:41:42",
+      "album": {
+        "name": "A Shoulder to Cry On (Original Audio Drama Soundtrack)",
+        "url": "https://open.spotify.com/album/6zB6OXYBLrYfk9lQhXiarC"
+      },
+      "artists": [
+        {
+          "name": "JaeHan",
+          "url": "https://open.spotify.com/artist/0DbPKVg9CKEzdN1nlolnZv"
+        }
+      ],
+      "duration_ms": 193500,
+      "name": "Monologue",
+      "url": "https://open.spotify.com/track/28xcjPuYAgPcFRtGSWk2SP"
     },
     {
       "added_at": "2024-05-09 14:41:42",
@@ -691,6 +691,22 @@
     {
       "added_at": "2024-05-09 14:41:42",
       "album": {
+        "name": "When You Believe",
+        "url": "https://open.spotify.com/album/6blijuFXCgZ8hPlcyim9JW"
+      },
+      "artists": [
+        {
+          "name": "Kwon Jin Ah",
+          "url": "https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ"
+        }
+      ],
+      "duration_ms": 223266,
+      "name": "When You Believe",
+      "url": "https://open.spotify.com/track/6NXwnqGG6wAE7UP73AAor4"
+    },
+    {
+      "added_at": "2024-05-09 14:41:42",
+      "album": {
         "name": "Let's meet again (Original Soundtrack from the Webtoon A Not So Fairy Tale)",
         "url": "https://open.spotify.com/album/5EYR7m8K1v7CsIxp8Nt8qp"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 226680,
       "name": "Let's meet again",
       "url": "https://open.spotify.com/track/0Zkk3Q2dAGrpaUt7v5d5h4"
-    },
-    {
-      "added_at": "2024-05-09 14:41:42",
-      "album": {
-        "name": "Lost Way (Good Doctor X Gaho)",
-        "url": "https://open.spotify.com/album/6dAFSut5NhJhMJcTyHzYEL"
-      },
-      "artists": [
-        {
-          "name": "Gaho",
-          "url": "https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc"
-        }
-      ],
-      "duration_ms": 184040,
-      "name": "Lost Way",
-      "url": "https://open.spotify.com/track/19h2GgTMiwp0pkcZoB0cZr"
     },
     {
       "added_at": "2024-05-09 14:41:42",
@@ -743,18 +743,18 @@
     {
       "added_at": "2024-05-09 14:41:42",
       "album": {
-        "name": "When You Believe",
-        "url": "https://open.spotify.com/album/6blijuFXCgZ8hPlcyim9JW"
+        "name": "Lost Way (Good Doctor X Gaho)",
+        "url": "https://open.spotify.com/album/6dAFSut5NhJhMJcTyHzYEL"
       },
       "artists": [
         {
-          "name": "Kwon Jin Ah",
-          "url": "https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ"
+          "name": "Gaho",
+          "url": "https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc"
         }
       ],
-      "duration_ms": 223266,
-      "name": "When You Believe",
-      "url": "https://open.spotify.com/track/6NXwnqGG6wAE7UP73AAor4"
+      "duration_ms": 184040,
+      "name": "Lost Way",
+      "url": "https://open.spotify.com/track/19h2GgTMiwp0pkcZoB0cZr"
     },
     {
       "added_at": "2024-05-09 14:41:42",
@@ -855,22 +855,6 @@
     {
       "added_at": "2024-05-09 14:41:42",
       "album": {
-        "name": "By My Side (Webtoon 'The Beloved Little Princess' Original Soundtrack)",
-        "url": "https://open.spotify.com/album/4KjhisTl80v6Uu9w1Y01mu"
-      },
-      "artists": [
-        {
-          "name": "SEOLA",
-          "url": "https://open.spotify.com/artist/0AnZEpTs62mik6O41O3SKf"
-        }
-      ],
-      "duration_ms": 209051,
-      "name": "By My Side (Webtoon 'The Beloved Little Princess' Original Soundtrack)",
-      "url": "https://open.spotify.com/track/4Xsa6atNGdwG3U85u2FZcV"
-    },
-    {
-      "added_at": "2024-05-09 14:41:42",
-      "album": {
         "name": "Zombie daughter (Original Soundtrack) : A long dream",
         "url": "https://open.spotify.com/album/7zr4nKroD3nQUDsHLSOzCd"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 213972,
       "name": "A long dream (Full Ver.)",
       "url": "https://open.spotify.com/track/6Mw5Gg8WGqsTWE5LpoWpGi"
+    },
+    {
+      "added_at": "2024-05-09 14:41:42",
+      "album": {
+        "name": "By My Side (Webtoon 'The Beloved Little Princess' Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4KjhisTl80v6Uu9w1Y01mu"
+      },
+      "artists": [
+        {
+          "name": "SEOLA",
+          "url": "https://open.spotify.com/artist/0AnZEpTs62mik6O41O3SKf"
+        }
+      ],
+      "duration_ms": 209051,
+      "name": "By My Side (Webtoon 'The Beloved Little Princess' Original Soundtrack)",
+      "url": "https://open.spotify.com/track/4Xsa6atNGdwG3U85u2FZcV"
     },
     {
       "added_at": "2024-05-09 14:41:42",
@@ -919,18 +919,18 @@
     {
       "added_at": "2024-05-09 14:41:42",
       "album": {
-        "name": "\uc0ac\ub791\ub3c4 \uc5c6\uc774 \uacb0\ud63c OST Part.9 (Soundtrack)",
-        "url": "https://open.spotify.com/album/7yoWIYagwoss6PRdFqLCSj"
+        "name": "The Holy Idol (Original Webcomic Soundtrack)",
+        "url": "https://open.spotify.com/album/4xeGSyUIJISiEF5jdD3rix"
       },
       "artists": [
         {
-          "name": "Lydia",
-          "url": "https://open.spotify.com/artist/7vF0OMb98Tc514WZDBJ6c6"
+          "name": "Na Yoon Kwon",
+          "url": "https://open.spotify.com/artist/49fyJl5wIzI5GtRuCKxKRw"
         }
       ],
-      "duration_ms": 195351,
-      "name": "You let me live as myself",
-      "url": "https://open.spotify.com/track/5FNR1Ly5BCFQddWcth5RzP"
+      "duration_ms": 182469,
+      "name": "If we\u2026",
+      "url": "https://open.spotify.com/track/3hN9w8H3x1Aufiz5gjug2a"
     },
     {
       "added_at": "2024-05-09 14:41:42",
@@ -951,18 +951,18 @@
     {
       "added_at": "2024-05-09 14:41:42",
       "album": {
-        "name": "The Holy Idol (Original Webcomic Soundtrack)",
-        "url": "https://open.spotify.com/album/4xeGSyUIJISiEF5jdD3rix"
+        "name": "\uc0ac\ub791\ub3c4 \uc5c6\uc774 \uacb0\ud63c OST Part.9 (Soundtrack)",
+        "url": "https://open.spotify.com/album/7yoWIYagwoss6PRdFqLCSj"
       },
       "artists": [
         {
-          "name": "Na Yoon Kwon",
-          "url": "https://open.spotify.com/artist/49fyJl5wIzI5GtRuCKxKRw"
+          "name": "Lydia",
+          "url": "https://open.spotify.com/artist/7vF0OMb98Tc514WZDBJ6c6"
         }
       ],
-      "duration_ms": 182469,
-      "name": "If we\u2026",
-      "url": "https://open.spotify.com/track/3hN9w8H3x1Aufiz5gjug2a"
+      "duration_ms": 195351,
+      "name": "You let me live as myself",
+      "url": "https://open.spotify.com/track/5FNR1Ly5BCFQddWcth5RzP"
     },
     {
       "added_at": "2024-05-09 14:41:42",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2024-05-09 14:41:42",
       "album": {
-        "name": "\ubc84\ub824\uc9c4 \uc655\ub140\ub294 \ubc18\uc5ed\ud55c\ub2e4(Original Webtoon Soundtrack) Pt.28",
-        "url": "https://open.spotify.com/album/0ASiUU8wKeZDaZ1N2INV1F"
-      },
-      "artists": [
-        {
-          "name": "\uc804\ud558\uc5f0",
-          "url": "https://open.spotify.com/artist/4pJfr9tmGQ8VU6AaLZ2sNp"
-        }
-      ],
-      "duration_ms": 257428,
-      "name": "\uc5f0",
-      "url": "https://open.spotify.com/track/6UQUim9WrXBBlBlZODLA0t"
-    },
-    {
-      "added_at": "2024-05-09 14:41:42",
-      "album": {
         "name": "\uc0ac\ub791\ub3c4 \uc5c6\uc774 \uacb0\ud63c (Original Soundtrack), Pt1",
         "url": "https://open.spotify.com/album/0EkaOnrGPsSU6XRE6AW0DX"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 253218,
       "name": "Is it all right",
       "url": "https://open.spotify.com/track/0KngKTAh6HAlvAWp1rmmrj"
+    },
+    {
+      "added_at": "2024-05-09 14:41:42",
+      "album": {
+        "name": "\ubc84\ub824\uc9c4 \uc655\ub140\ub294 \ubc18\uc5ed\ud55c\ub2e4(Original Webtoon Soundtrack) Pt.28",
+        "url": "https://open.spotify.com/album/0ASiUU8wKeZDaZ1N2INV1F"
+      },
+      "artists": [
+        {
+          "name": "\uc804\ud558\uc5f0",
+          "url": "https://open.spotify.com/artist/4pJfr9tmGQ8VU6AaLZ2sNp"
+        }
+      ],
+      "duration_ms": 257428,
+      "name": "\uc5f0",
+      "url": "https://open.spotify.com/track/6UQUim9WrXBBlBlZODLA0t"
     },
     {
       "added_at": "2024-05-09 14:41:42",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2024-05-09 14:41:42",
       "album": {
-        "name": "Caf\u00e9 Anchorage OST Part.3 (Soundtrack)",
-        "url": "https://open.spotify.com/album/25VwWPtgnTjfsczZ7KwMj0"
-      },
-      "artists": [
-        {
-          "name": "Han Kyung Il",
-          "url": "https://open.spotify.com/artist/1QWsO985ZVETFz5Odn4spA"
-        }
-      ],
-      "duration_ms": 210469,
-      "name": "It's always you",
-      "url": "https://open.spotify.com/track/0eK4urzQJx9OtXbkzyp6qs"
-    },
-    {
-      "added_at": "2024-05-09 14:41:42",
-      "album": {
         "name": "Oh, Boy! OST Part.5 (Soundtrack)",
         "url": "https://open.spotify.com/album/33UKFC52oo23UDKlVcJAD6"
       },
@@ -1503,18 +1487,18 @@
     {
       "added_at": "2024-05-09 14:41:42",
       "album": {
-        "name": "\uc694\uc870\uc2e0\uc0ac \ub9c8\ucd08\uc219\ub140 (Original Webtoon Soundtrack) Pt. 26",
-        "url": "https://open.spotify.com/album/44JbHSUAKi1QAtpU4bptjH"
+        "name": "Caf\u00e9 Anchorage OST Part.3 (Soundtrack)",
+        "url": "https://open.spotify.com/album/25VwWPtgnTjfsczZ7KwMj0"
       },
       "artists": [
         {
-          "name": "Gureum",
-          "url": "https://open.spotify.com/artist/2m4VsaCNtjT7HT6miUYOD1"
+          "name": "Han Kyung Il",
+          "url": "https://open.spotify.com/artist/1QWsO985ZVETFz5Odn4spA"
         }
       ],
-      "duration_ms": 208223,
-      "name": "\ub3cc\uc544\uc62c\uc9c0\ub3c4 \ubaa8\ub974\ub2c8",
-      "url": "https://open.spotify.com/track/09rB3mnutNJbSxvEYfAS5o"
+      "duration_ms": 210469,
+      "name": "It's always you",
+      "url": "https://open.spotify.com/track/0eK4urzQJx9OtXbkzyp6qs"
     },
     {
       "added_at": "2024-05-09 14:41:42",
@@ -1531,6 +1515,22 @@
       "duration_ms": 223442,
       "name": "I wait for you without knowing",
       "url": "https://open.spotify.com/track/1jqGHm9Yh5DsuY5cGL7NiU"
+    },
+    {
+      "added_at": "2024-05-09 14:41:42",
+      "album": {
+        "name": "\uc694\uc870\uc2e0\uc0ac \ub9c8\ucd08\uc219\ub140 (Original Webtoon Soundtrack) Pt. 26",
+        "url": "https://open.spotify.com/album/44JbHSUAKi1QAtpU4bptjH"
+      },
+      "artists": [
+        {
+          "name": "Gureum",
+          "url": "https://open.spotify.com/artist/2m4VsaCNtjT7HT6miUYOD1"
+        }
+      ],
+      "duration_ms": 208223,
+      "name": "\ub3cc\uc544\uc62c\uc9c0\ub3c4 \ubaa8\ub974\ub2c8",
+      "url": "https://open.spotify.com/track/09rB3mnutNJbSxvEYfAS5o"
     },
     {
       "added_at": "2024-05-09 14:41:42",
@@ -1583,18 +1583,18 @@
     {
       "added_at": "2024-05-09 14:41:42",
       "album": {
-        "name": "Coffee Fox Kim Sam Wol OST Part.21 (Soundtrack)",
-        "url": "https://open.spotify.com/album/6bCJ6pN7Pa2s5plf463iFq"
+        "name": "\uc694\uc870\uc2e0\uc0ac \ub9c8\ucd08\uc219\ub140 (Original Webtoon Soundtrack) Pt.12",
+        "url": "https://open.spotify.com/album/0YCzPT5o16rWbEXm7k3p62"
       },
       "artists": [
         {
-          "name": "Jo Moon Geun",
-          "url": "https://open.spotify.com/artist/23ITkiDXXyCmBN6VBKRivR"
+          "name": "Han Kyung Il",
+          "url": "https://open.spotify.com/artist/1QWsO985ZVETFz5Odn4spA"
         }
       ],
-      "duration_ms": 240543,
-      "name": "You know",
-      "url": "https://open.spotify.com/track/3cP2EqkvaKpcPI3EGXPLX7"
+      "duration_ms": 210224,
+      "name": "\uadf8\ub300\uc758 \uc190\uc7a1\uace0 \uac78\uc5b4\uac08\ub54c\uba74",
+      "url": "https://open.spotify.com/track/7uiYOkO9RAHKxBIWQ4tlG5"
     },
     {
       "added_at": "2024-05-09 14:41:42",
@@ -1615,18 +1615,18 @@
     {
       "added_at": "2024-05-09 14:41:42",
       "album": {
-        "name": "\uc694\uc870\uc2e0\uc0ac \ub9c8\ucd08\uc219\ub140 (Original Webtoon Soundtrack) Pt.12",
-        "url": "https://open.spotify.com/album/0YCzPT5o16rWbEXm7k3p62"
+        "name": "Coffee Fox Kim Sam Wol OST Part.21 (Soundtrack)",
+        "url": "https://open.spotify.com/album/6bCJ6pN7Pa2s5plf463iFq"
       },
       "artists": [
         {
-          "name": "Han Kyung Il",
-          "url": "https://open.spotify.com/artist/1QWsO985ZVETFz5Odn4spA"
+          "name": "Jo Moon Geun",
+          "url": "https://open.spotify.com/artist/23ITkiDXXyCmBN6VBKRivR"
         }
       ],
-      "duration_ms": 210224,
-      "name": "\uadf8\ub300\uc758 \uc190\uc7a1\uace0 \uac78\uc5b4\uac08\ub54c\uba74",
-      "url": "https://open.spotify.com/track/7uiYOkO9RAHKxBIWQ4tlG5"
+      "duration_ms": 240543,
+      "name": "You know",
+      "url": "https://open.spotify.com/track/3cP2EqkvaKpcPI3EGXPLX7"
     }
   ],
   "unique_name": "K-Webtoon OSTs (\uc6f9\ud230 OSTs)",

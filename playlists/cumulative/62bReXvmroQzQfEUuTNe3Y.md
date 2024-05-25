@@ -4,7 +4,7 @@
 
 > Summer chill tracks to vibe or dance to in 2024\. Updated weekly\. \| 🌈 <a href="https://www.instagram.com/selectedofficial">Instagram</a>
 
-429 songs - 1 day 0 hr 18 min
+430 songs - 1 day 0 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Black Light](https://open.spotify.com/track/6XsjMGPp015u8Ykod0KMUj) | [SJAY Music](https://open.spotify.com/artist/3EwtOLCqfnvcF2CY9b64gN), [Jack Wins](https://open.spotify.com/artist/5v8ZROs9c26k4yGMxUkebt), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Black Light](https://open.spotify.com/album/6RL4nOMfiTDBjhzRnpiMas) | 2:55 | 2022-05-20 |  |
 | [Bleecker](https://open.spotify.com/track/5GHXtGjgoX5EKQTiuNX6Fc) | [ALBA](https://open.spotify.com/artist/5MKM7cNYL4SIuIe6q4Qd1p) | [Bleecker](https://open.spotify.com/album/3E7WTyyZV0bx1EcLJFQQDh) | 3:30 | 2023-08-18 | 2023-12-14 |
 | [Bliss](https://open.spotify.com/track/0fc0Asyn18uW8soZ3bhFS7) | [P.A.V](https://open.spotify.com/artist/4pqyg42kTh4xrULdghsTGV) | [Bliss](https://open.spotify.com/album/72vTCgZbrVnszdSeWQ6ajA) | 2:59 | 2020-12-18 | 2021-03-06 |
+| [Bloom Again](https://open.spotify.com/track/6sZYTNw51HHsYNEvVrJWPe) | [Nu Aspect](https://open.spotify.com/artist/4NhRml5ZOfNaYJAHUE0XwT) | [Bloom Again](https://open.spotify.com/album/3Yz3PNoOnlwYwoARFkEydC) | 3:09 | 2024-05-24 |  |
 | [Body](https://open.spotify.com/track/56MET7XMqoUAsoC07pkkSB) | [Nathan C](https://open.spotify.com/artist/2mNOoqXYY177q7TtuqJL9q), [Lilly Ahlberg](https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk) | [Body](https://open.spotify.com/album/3TWWMgB3Jro6ei4vSBFwEa) | 3:24 | 2024-04-12 |  |
 | [Body 2 Body \- 6am Remix](https://open.spotify.com/track/0TdPfmZ2ZJGwNXXembBO0T) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [KC Lights](https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ) | [Body 2 Body \(Remixes\)](https://open.spotify.com/album/6aQ0edKuYRIOHUjfvwFkCt) | 3:59 | 2020-09-13\* |  |
 | [Bonfire](https://open.spotify.com/track/736VDbKKgjzvPOoKjjti4R) | [Tudor](https://open.spotify.com/artist/6YPmhC6xckfcUiw4undxAb) | [Bonfire](https://open.spotify.com/album/7uyq1nL0DNCkotUWloVM0F) | 3:58 | 2023-04-28 |  |
@@ -167,7 +168,7 @@
 | [I Can Make It](https://open.spotify.com/track/4ruM7ZgntoMNIj5pm0tARQ) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [Miracles](https://open.spotify.com/album/6zkjYpTdFBcRz5m4Ui8tsy) | 4:09 | 2023-12-08 |  |
 | [I Can Make It](https://open.spotify.com/track/5ciL7TMQsSDLIkrGXuRYbY) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [I Can Make It](https://open.spotify.com/album/3pbmaOn4zqdizRfvYKPoat) | 4:09 | 2023-07-28 | 2023-12-14 |
 | [I Can't See](https://open.spotify.com/track/59kl6e4q6sCJlxCgLZdJGo) | [ROW](https://open.spotify.com/artist/6t6YsIZkxd0VC7mXKD9Ziw), [Samuel Miller](https://open.spotify.com/artist/4S1EXenN3a8icOr9keFIG8) | [I Can't See](https://open.spotify.com/album/53yZEK6S3jkxLmOkhkFAeA) | 2:15 | 2020-10-30 |  |
-| [I Can't Sleep](https://open.spotify.com/track/5xB5b4L2jOylbYhSf15PTq) | [SOMMA](https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3), [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [I Can't Sleep](https://open.spotify.com/album/06SmE9wI7ZTaCHnil6sNWl) | 3:11 | 2020-11-07 |  |
+| [I Can't Sleep](https://open.spotify.com/track/5xB5b4L2jOylbYhSf15PTq) | [SOMMA](https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3), [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [I Can't Sleep](https://open.spotify.com/album/06SmE9wI7ZTaCHnil6sNWl) | 3:11 | 2020-11-07 | 2024-05-25 |
 | [I Do \- Vandelux Remix](https://open.spotify.com/track/5muXOWzcV0ckxYq0ATO1EW) | [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg), [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k) | [I Do \(Vandelux Remix\)](https://open.spotify.com/album/7buYOcQDCOELG8eJuS5Zif) | 3:16 | 2024-02-23 |  |
 | [I Don't Wanna Know](https://open.spotify.com/track/0YnHCIk1Ppy7FIzdvjspts) | [SOMMA](https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3), [Brenda Mullen](https://open.spotify.com/artist/2RkjEzhUyusJ4KrD5A9yiv) | [I Don't Wanna Know](https://open.spotify.com/album/2sI3TF8KNDxcsLzV5xAHHk) | 2:31 | 2020-10-16 |  |
 | [I Don't Wanna Know](https://open.spotify.com/track/18TWCTjQcNDkO2iaI1wkOd) | [SOMMA](https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3), [Brenda Mullen](https://open.spotify.com/artist/2RkjEzhUyusJ4KrD5A9yiv) | [I Don't Wanna Know](https://open.spotify.com/album/5hqkLMCkIhCQOpW9iAu4hC) | 2:31 | 2020-09-13\* | 2020-10-08 |

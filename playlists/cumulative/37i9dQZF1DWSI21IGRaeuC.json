@@ -184,7 +184,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 195000,
       "name": "Amused",
       "url": "https://open.spotify.com/track/6HwWPFDSqwHiWdjCdHHi6G"
@@ -778,7 +778,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 330000,
       "name": "Bring The Action",
       "url": "https://open.spotify.com/track/69kvxgM6Tp6YmqyuT582ja"
@@ -1761,7 +1761,7 @@
         },
         {
           "name": "Moonage",
-          "url": "https://open.spotify.com/artist/3IA8v0laMEfTiVfDPekUDX"
+          "url": "https://open.spotify.com/artist/7tRAjkMKLsYQpzjcDgj34b"
         }
       ],
       "date_added": "2024-04-05",
@@ -2102,7 +2102,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 436309,
       "name": "Hand In Hand - Jonathan Kaspar Remix",
       "url": "https://open.spotify.com/track/2X3iHKbejETh1uW08Y1qti"
@@ -2348,6 +2348,32 @@
       "duration_ms": 417145,
       "name": "I Am Somebody",
       "url": "https://open.spotify.com/track/75EaT3OH1MdJxKT1ZUsNK0"
+    },
+    {
+      "album": {
+        "name": "I'm an Alien",
+        "url": "https://open.spotify.com/album/5HYzQDtk0lKtJ06aagndZ7"
+      },
+      "artists": [
+        {
+          "name": "Meca",
+          "url": "https://open.spotify.com/artist/4BXrJLagIbiwWnfJMd1sKQ"
+        },
+        {
+          "name": "Puka",
+          "url": "https://open.spotify.com/artist/3Gmuv8ih6UWYlZQlM4zFgo"
+        },
+        {
+          "name": "Wasiu",
+          "url": "https://open.spotify.com/artist/5U1eJDpMKZiQustw16e0g2"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199218,
+      "name": "I'm an Alien",
+      "url": "https://open.spotify.com/track/5OpsMaCuFKEJBa64ogjrGW"
     },
     {
       "album": {
@@ -2703,6 +2729,24 @@
     },
     {
       "album": {
+        "name": "Lemonade",
+        "url": "https://open.spotify.com/album/31f0UtcyDi6Q0oJRzQNeKC"
+      },
+      "artists": [
+        {
+          "name": "Deeper Purpose",
+          "url": "https://open.spotify.com/artist/10Bo1ofGMWr6hFD7OM7W7r"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184186,
+      "name": "Lemonade",
+      "url": "https://open.spotify.com/track/6Jxua6Khy8ULDUl1kk6g4o"
+    },
+    {
+      "album": {
         "name": "One Hundred",
         "url": "https://open.spotify.com/album/5VTEH3n6YgqcFL5EyxxHRQ"
       },
@@ -2816,6 +2860,24 @@
       "duration_ms": 378750,
       "name": "Lipid",
       "url": "https://open.spotify.com/track/3073MbpcoDvWkBe3xZXkio"
+    },
+    {
+      "album": {
+        "name": "Body Control EP",
+        "url": "https://open.spotify.com/album/4xy0spbHUrQRm0phUaUaVt"
+      },
+      "artists": [
+        {
+          "name": "PACH.",
+          "url": "https://open.spotify.com/artist/1vhfOSmbBoEIhI89Eq3EF2"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359995,
+      "name": "Little Piggy",
+      "url": "https://open.spotify.com/track/2efO97MDIWowC8n5yxfEvJ"
     },
     {
       "album": {
@@ -3552,7 +3614,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 368034,
       "name": "Okay Alright",
       "url": "https://open.spotify.com/track/4yqFS96Lf0ktp4oauOuWAN"
@@ -3756,6 +3818,24 @@
       "duration_ms": 217968,
       "name": "Pin Pan",
       "url": "https://open.spotify.com/track/2tWPVMfQH0AvZBu5VMpXf9"
+    },
+    {
+      "album": {
+        "name": "Play The Music",
+        "url": "https://open.spotify.com/album/0yxplzAy4QkUQcz43MrWx4"
+      },
+      "artists": [
+        {
+          "name": "Latmun",
+          "url": "https://open.spotify.com/artist/2z9DWWfNONyl2nyy1GNSi0"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381395,
+      "name": "Play The Music",
+      "url": "https://open.spotify.com/track/56cQnHXl41WmUcJ8NJRSt2"
     },
     {
       "album": {
@@ -4283,6 +4363,28 @@
     },
     {
       "album": {
+        "name": "Same Thing",
+        "url": "https://open.spotify.com/album/5vOeUyapf2JVhxrs6NbLRv"
+      },
+      "artists": [
+        {
+          "name": "Sunday Noise",
+          "url": "https://open.spotify.com/artist/7GIGyQw9goHVF0MRV4bGRY"
+        },
+        {
+          "name": "Robertico",
+          "url": "https://open.spotify.com/artist/4fh6wpLOHcuWuqPPwRDGr2"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354461,
+      "name": "Same Thing",
+      "url": "https://open.spotify.com/track/0U5CW5IS0KsPKyZr5Wek5a"
+    },
+    {
+      "album": {
         "name": "San te Cr\u00fcs",
         "url": "https://open.spotify.com/album/77EmwiwjhmxfbmWhpVRSfa"
       },
@@ -4714,7 +4816,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 247619,
       "name": "Sometimes",
       "url": "https://open.spotify.com/track/6ThwZtNrwEzvhk1VBx0UpL"

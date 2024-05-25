@@ -1,6 +1,6 @@
 {
   "description": "el amor es <3",
-  "num_followers": 90315,
+  "num_followers": 90333,
   "original_name": "cursi",
   "owner": {
     "name": "Spotify",
@@ -811,22 +811,18 @@
     {
       "added_at": "2024-05-16 00:12:45",
       "album": {
-        "name": "Chula",
-        "url": "https://open.spotify.com/album/6yjNFsPUkuj83hBcsF5IhS"
+        "name": "Tengo Algo Que Decirte",
+        "url": "https://open.spotify.com/album/58XueoPsoMzd3nzH2s8B9A"
       },
       "artists": [
         {
-          "name": "Urb\u00f8i",
-          "url": "https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy"
-        },
-        {
-          "name": "Paco y Pedro",
-          "url": "https://open.spotify.com/artist/7JVf9SjsDx2evTvvfbfDEK"
+          "name": "Luz Pinos",
+          "url": "https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM"
         }
       ],
-      "duration_ms": 241045,
-      "name": "Chula",
-      "url": "https://open.spotify.com/track/0F9QrjcyBNcw258qR1DfHK"
+      "duration_ms": 206546,
+      "name": "Tengo Algo Que Decirte",
+      "url": "https://open.spotify.com/track/5Ntox2jSrDcVUKOoW0TYHG"
     },
     {
       "added_at": "2024-05-16 00:12:45",
@@ -851,18 +847,22 @@
     {
       "added_at": "2024-05-16 00:12:45",
       "album": {
-        "name": "Tengo Algo Que Decirte",
-        "url": "https://open.spotify.com/album/58XueoPsoMzd3nzH2s8B9A"
+        "name": "Chula",
+        "url": "https://open.spotify.com/album/6yjNFsPUkuj83hBcsF5IhS"
       },
       "artists": [
         {
-          "name": "Luz Pinos",
-          "url": "https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM"
+          "name": "Urb\u00f8i",
+          "url": "https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy"
+        },
+        {
+          "name": "Paco y Pedro",
+          "url": "https://open.spotify.com/artist/7JVf9SjsDx2evTvvfbfDEK"
         }
       ],
-      "duration_ms": 206546,
-      "name": "Tengo Algo Que Decirte",
-      "url": "https://open.spotify.com/track/5Ntox2jSrDcVUKOoW0TYHG"
+      "duration_ms": 241045,
+      "name": "Chula",
+      "url": "https://open.spotify.com/track/0F9QrjcyBNcw258qR1DfHK"
     },
     {
       "added_at": "2024-05-16 00:12:45",
@@ -991,6 +991,22 @@
     {
       "added_at": "2024-05-16 00:12:45",
       "album": {
+        "name": "L\u00ednea Recta",
+        "url": "https://open.spotify.com/album/19Gt3qUgfakD1rVw82iyzL"
+      },
+      "artists": [
+        {
+          "name": "Vale",
+          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
+        }
+      ],
+      "duration_ms": 182760,
+      "name": "Pasatiempo",
+      "url": "https://open.spotify.com/track/5Zc09qHPIIo4vJkYeCfixc"
+    },
+    {
+      "added_at": "2024-05-16 00:12:45",
+      "album": {
         "name": "Como Si Fuera La Primera Vez",
         "url": "https://open.spotify.com/album/2ZWunVkn3GD7klxMoCZHLQ"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 176538,
       "name": "Como Si Fuera La Primera Vez",
       "url": "https://open.spotify.com/track/0B5yal7lcwBap5UOyrSl96"
-    },
-    {
-      "added_at": "2024-05-16 00:12:45",
-      "album": {
-        "name": "L\u00ednea Recta",
-        "url": "https://open.spotify.com/album/19Gt3qUgfakD1rVw82iyzL"
-      },
-      "artists": [
-        {
-          "name": "Vale",
-          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
-        }
-      ],
-      "duration_ms": 182760,
-      "name": "Pasatiempo",
-      "url": "https://open.spotify.com/track/5Zc09qHPIIo4vJkYeCfixc"
     },
     {
       "added_at": "2024-05-16 00:12:45",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2024-05-16 00:12:45",
       "album": {
-        "name": "Ir por un Caf\u00e9",
-        "url": "https://open.spotify.com/album/56uFQSAHC1c2PwWux1GeaD"
-      },
-      "artists": [
-        {
-          "name": "Ramona",
-          "url": "https://open.spotify.com/artist/3K8X4ZoPqijzc6QSP4eAQF"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Ir por un Caf\u00e9",
-      "url": "https://open.spotify.com/track/0oYWgghilCHzscMzQOVONP"
-    },
-    {
-      "added_at": "2024-05-16 00:12:45",
-      "album": {
         "name": "Recuerdos de un amor",
         "url": "https://open.spotify.com/album/2lx1EgWOAJDBeX67kIArlP"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 210357,
       "name": "TQM",
       "url": "https://open.spotify.com/track/0fEnop5LLsiuKZXyl8ZU48"
+    },
+    {
+      "added_at": "2024-05-16 00:12:45",
+      "album": {
+        "name": "Ir por un Caf\u00e9",
+        "url": "https://open.spotify.com/album/56uFQSAHC1c2PwWux1GeaD"
+      },
+      "artists": [
+        {
+          "name": "Ramona",
+          "url": "https://open.spotify.com/artist/3K8X4ZoPqijzc6QSP4eAQF"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Ir por un Caf\u00e9",
+      "url": "https://open.spotify.com/track/0oYWgghilCHzscMzQOVONP"
     },
     {
       "added_at": "2024-05-16 00:12:45",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2024-05-16 00:12:45",
       "album": {
-        "name": "Para Verte",
-        "url": "https://open.spotify.com/album/43b9yizo1mckUfWgItr7nk"
-      },
-      "artists": [
-        {
-          "name": "Vale",
-          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
-        }
-      ],
-      "duration_ms": 182053,
-      "name": "Para Verte",
-      "url": "https://open.spotify.com/track/4aiIi5Nn7EdDhoiw5DywDk"
-    },
-    {
-      "added_at": "2024-05-16 00:12:45",
-      "album": {
         "name": "Querernos Bien",
         "url": "https://open.spotify.com/album/1A1bcSRZLXJBWbr9uzD8G2"
       },
@@ -1179,6 +1163,22 @@
     {
       "added_at": "2024-05-16 00:12:45",
       "album": {
+        "name": "Para Verte",
+        "url": "https://open.spotify.com/album/43b9yizo1mckUfWgItr7nk"
+      },
+      "artists": [
+        {
+          "name": "Vale",
+          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
+        }
+      ],
+      "duration_ms": 182053,
+      "name": "Para Verte",
+      "url": "https://open.spotify.com/track/4aiIi5Nn7EdDhoiw5DywDk"
+    },
+    {
+      "added_at": "2024-05-16 00:12:45",
+      "album": {
         "name": "capturas de pantalla",
         "url": "https://open.spotify.com/album/0Tq8ZFYOAcHmAnnKn3kBNL"
       },
@@ -1191,6 +1191,22 @@
       "duration_ms": 206053,
       "name": "capturas de pantalla",
       "url": "https://open.spotify.com/track/6HnW2csrZ7MKRoqnVJpjHR"
+    },
+    {
+      "added_at": "2024-05-16 00:12:45",
+      "album": {
+        "name": "Caguamita Banquetera",
+        "url": "https://open.spotify.com/album/4IoOjS1QllQtS7JV6ltzLG"
+      },
+      "artists": [
+        {
+          "name": "David de la Luz",
+          "url": "https://open.spotify.com/artist/3qViLpJR7GZmsde4FYn5Y3"
+        }
+      ],
+      "duration_ms": 155651,
+      "name": "Caguamita Banquetera",
+      "url": "https://open.spotify.com/track/20CVdUmIYyPy5Qcqr7uzrj"
     },
     {
       "added_at": "2024-05-16 00:12:45",
@@ -1255,22 +1271,6 @@
       "duration_ms": 188980,
       "name": "Menos T\u00fa Y Yo",
       "url": "https://open.spotify.com/track/43SNLAbMAeWEj5iV2WIrIm"
-    },
-    {
-      "added_at": "2024-05-16 00:12:45",
-      "album": {
-        "name": "Caguamita Banquetera",
-        "url": "https://open.spotify.com/album/4IoOjS1QllQtS7JV6ltzLG"
-      },
-      "artists": [
-        {
-          "name": "David de la Luz",
-          "url": "https://open.spotify.com/artist/3qViLpJR7GZmsde4FYn5Y3"
-        }
-      ],
-      "duration_ms": 155651,
-      "name": "Caguamita Banquetera",
-      "url": "https://open.spotify.com/track/20CVdUmIYyPy5Qcqr7uzrj"
     },
     {
       "added_at": "2024-05-16 00:12:45",

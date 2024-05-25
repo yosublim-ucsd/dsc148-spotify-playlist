@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-15",
-  "description": "Lo nuevo y lo m\u00e1s destacado de la electr\u00f3nica nacional. Portada: Mariano Mellino",
+  "description": "Lo nuevo y lo m\u00e1s destacado de la electr\u00f3nica nacional. Portada: Peces Raros",
   "name": "mint argentina",
   "tracks": [
     {
@@ -166,7 +166,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 306500,
       "name": "Amor - Remix",
       "url": "https://open.spotify.com/track/7aexh1SaZkQDwXoo0v1paF"
@@ -583,6 +583,24 @@
     },
     {
       "album": {
+        "name": "Dogma",
+        "url": "https://open.spotify.com/album/20r4ZJsIcT2WDaV0o9jaZa"
+      },
+      "artists": [
+        {
+          "name": "Peces Raros",
+          "url": "https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149950,
+      "name": "Cicuta",
+      "url": "https://open.spotify.com/track/49zmg7q7EMqJzOUf88Bz7C"
+    },
+    {
+      "album": {
         "name": "Ciudad de Cristal",
         "url": "https://open.spotify.com/album/4wZ6wu7JI91WBBWTw6hXDz"
       },
@@ -722,7 +740,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 196150,
       "name": "Desaparecer",
       "url": "https://open.spotify.com/track/6PDPcB56TilUyxwSzi1qIi"
@@ -1478,7 +1496,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 432000,
       "name": "Infieles - Remix",
       "url": "https://open.spotify.com/track/67wjqZ4apqGHmwHoGi3qAB"
@@ -1927,6 +1945,24 @@
     },
     {
       "album": {
+        "name": "Dogma",
+        "url": "https://open.spotify.com/album/20r4ZJsIcT2WDaV0o9jaZa"
+      },
+      "artists": [
+        {
+          "name": "Peces Raros",
+          "url": "https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237409,
+      "name": "Miscel\u00e1neas",
+      "url": "https://open.spotify.com/track/3TCaJYtAbsEXdDJ68UUVIM"
+    },
+    {
+      "album": {
         "name": "Misery",
         "url": "https://open.spotify.com/album/79soMgFe8UfLMZCMrHsmQx"
       },
@@ -2216,6 +2252,24 @@
       "duration_ms": 163124,
       "name": "Nico Valdi produciendo a Ruggero y Bernardita",
       "url": "https://open.spotify.com/track/08S5L7YbAGwNxDJJ9yU9ZK"
+    },
+    {
+      "album": {
+        "name": "Anestesia",
+        "url": "https://open.spotify.com/album/28uJVNr4dYysur0Fcay4B2"
+      },
+      "artists": [
+        {
+          "name": "Peces Raros",
+          "url": "https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286424,
+      "name": "No Van a Parar",
+      "url": "https://open.spotify.com/track/1GLYsZMbHm72Uy2QvzdgDQ"
     },
     {
       "album": {
@@ -3125,6 +3179,28 @@
     },
     {
       "album": {
+        "name": "Vivere",
+        "url": "https://open.spotify.com/album/7zEbJeVhd4FbVv296MIaj7"
+      },
+      "artists": [
+        {
+          "name": "Rocio Portillo",
+          "url": "https://open.spotify.com/artist/0IWaN7iu4zEYq5u1jl1lib"
+        },
+        {
+          "name": "Rokazer",
+          "url": "https://open.spotify.com/artist/0kBZmuhkAKIdZE5YVkdhqV"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 429000,
+      "name": "Vivere - Rokazer Remix",
+      "url": "https://open.spotify.com/track/4dvU4ZGcBBZtouh6YfMw9t"
+    },
+    {
+      "album": {
         "name": "Voltaire EP",
         "url": "https://open.spotify.com/album/1XPSLd8egeo4SE72lE2yjn"
       },
@@ -3338,7 +3414,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 174048,
       "name": "\u00d3xido",
       "url": "https://open.spotify.com/track/0EL6TLGSGVInCuTlFQesWD"

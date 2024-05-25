@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0psQULQgJwx.md) - [plain]
 
 > Lounge sounds for SPA
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,732 likes - 176 songs - 9 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,857 likes - 176 songs - 9 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,7 +113,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0psQULQgJwx.md) - [plain]
 | 103 | [Back to Sinharaja](https://open.spotify.com/track/3XIdIODAFwhW7Eo2U0boQB) | [LiKKma](https://open.spotify.com/artist/01q7ajYufxitw2xk6V6Sju) | [Back to Sinharaja](https://open.spotify.com/album/4nbkEPbJ8rqZVOGq6Qwwjq) | 2:28 |
 | 104 | [Flow](https://open.spotify.com/track/4d8AH6faaXgCbO7GVuGqqT) | [Akleia](https://open.spotify.com/artist/4TXPgXCkgmeKZONnRuTYTd) | [Flow](https://open.spotify.com/album/5kZP8fWRXfqlvIDtIMiFdN) | 3:20 |
 | 105 | [Solitary minds](https://open.spotify.com/track/7jj1D2ltdxesJOy4n3Z6dg) | [Monorie](https://open.spotify.com/artist/1JZno0x00fpuTL7Kw6uUMD) | [Solitary minds](https://open.spotify.com/album/3uQisjl6dSY4WnxXxv4GLF) | 3:59 |
-| 106 | [Mystery Sound](https://open.spotify.com/track/0fEfKoG2qS0tsNHJg6ZEf7) | [Axiom](https://open.spotify.com/artist/76n5v6R1q993SAL6mTMmv1) | [Hammam Spirit](https://open.spotify.com/album/0UI1FidROVrq8SVzYAzjXt) | 4:36 |
+| 106 | [Mystery Sound](https://open.spotify.com/track/0fEfKoG2qS0tsNHJg6ZEf7) | [Axiom](https://open.spotify.com/artist/0r9eSmoq41ldlBidvcj8rM) | [Hammam Spirit](https://open.spotify.com/album/0UI1FidROVrq8SVzYAzjXt) | 4:36 |
 | 107 | [Spirit](https://open.spotify.com/track/0GuvaHc4Yw1047fMRPmGTw) | [Healing Tribe](https://open.spotify.com/artist/7yncP87ljuQ8stIRLOy5qT) | [Spirit](https://open.spotify.com/album/6wRqHghJKaIDUAbF3BLXiD) | 3:28 |
 | 108 | [The Sun Has Risen \- Instrumental](https://open.spotify.com/track/1yUMnQ7kDd874TaPn924Lo) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw), [Firas Roby](https://open.spotify.com/artist/0hLfoeEsM4nCp6169vUXyL) | [The Sun Has Risen](https://open.spotify.com/album/0joOM7y34aAr62thU6wsXx) | 3:25 |
 | 109 | [Namaste Divine](https://open.spotify.com/track/3sxAZF5XL7usW8oZ1PtR7F) | [Namaste Flute](https://open.spotify.com/artist/2GZ3J2d45O3Z6cFOWXSXOD) | [Namaste Divine](https://open.spotify.com/album/4Loei0XfBWhjqMyFEyU4mP) | 4:04 |

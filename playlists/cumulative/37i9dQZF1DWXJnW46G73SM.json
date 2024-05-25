@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "\u0623\u062d\u062f\u062b \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0645\u0635\u0631\u064a\u0629 \u0647\u0646\u0627\ud83e\udd29 \u0627\u0644\u063a\u0644\u0627\u0641: \u0625\u0644\u064a\u0633\u0627\n",
+  "description": "\u0623\u062d\u062f\u062b \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0645\u0635\u0631\u064a\u0629 \u0647\u0646\u0627\ud83e\udd29 \u0627\u0644\u063a\u0644\u0627\u0641: \u0641\u0631\u064a\u062f\n",
   "name": "\u0645\u0635\u0631\u064a \u062c\u062f\u064a\u062f",
   "tracks": [
     {
@@ -12747,6 +12747,24 @@
     },
     {
       "album": {
+        "name": "\u0627\u062d\u0644\u064a \u0633\u062d\u0631",
+        "url": "https://open.spotify.com/album/0SdV8Gnkw1zonjBAnTcIsC"
+      },
+      "artists": [
+        {
+          "name": "Farid",
+          "url": "https://open.spotify.com/artist/5OaC42gxOxSYgfmmSxe672"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198387,
+      "name": "\u0627\u062d\u0644\u064a \u0633\u062d\u0631",
+      "url": "https://open.spotify.com/track/4dVU6RuUeo8aOnRdvMaW0N"
+    },
+    {
+      "album": {
         "name": "\u0627\u062d\u0646\u0627 \u0641\u064a \u062d\u062a\u0629 \u062a\u0627\u0646\u064a\u0629",
         "url": "https://open.spotify.com/album/3R4q4R8A2zdjMF1WavLYeS"
       },
@@ -13788,7 +13806,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 238636,
       "name": "\u0627\u064a\u0627\u0645 \u0648\u0646\u0633\u064a\u062a\u0647\u0627",
       "url": "https://open.spotify.com/track/1SJXNoG9rW3kkEDfPN9YWV"

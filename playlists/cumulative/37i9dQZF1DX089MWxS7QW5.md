@@ -4,7 +4,7 @@
 
 > 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: YEGNY\)
 
-338 songs - 18 hr 46 min
+339 songs - 18 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,6 +187,7 @@
 | [Like a Star](https://open.spotify.com/track/5BJOvIsJSIBjA7F3k1gzoX) | [Ellui](https://open.spotify.com/artist/4ZKxiNM9m75TMnTqcRnIP7), [Richboy Hardy](https://open.spotify.com/artist/213y7dSJCI5M9S4cOA6vju) | [Like a Star](https://open.spotify.com/album/3OAhXlOsjPDLvOMNwJQa9F) | 3:28 | 2024-04-17 |  |
 | [Like Heaven \(Feat\. Paul Blanco\)](https://open.spotify.com/track/5VqfYiw615GoTJpkvzWPYm) | [KWON EUNBI](https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm), [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw) | [Like Heaven](https://open.spotify.com/album/0yMqyNHhziFPZGLXo6StNi) | 3:29 | 2023-10-27 | 2024-03-09 |
 | [Like The First Time](https://open.spotify.com/track/54Ec5QcrFTJIhtmJoGWsP1) | [Rovv](https://open.spotify.com/artist/2ExJZeWFE28d7G0uq1olVy), [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [Like The First Time](https://open.spotify.com/album/2Foi3Y0FecSKN5bfHxzyji) | 2:20 | 2023-11-02 | 2024-03-16 |
+| [Lisboa](https://open.spotify.com/track/7a6VxCRfQB5GpdUIiCJYTl) | [entoy](https://open.spotify.com/artist/25OMfKk5AnZxUdzwDy3bOj), [Jaerim](https://open.spotify.com/artist/5pa9RME9FlgXWKL20LfNmo) | [Lisboa](https://open.spotify.com/album/79Fan5vqzeU7ygiZwk642Z) | 2:41 | 2024-05-24 |  |
 | [Lock me up](https://open.spotify.com/track/0PDYx9zpcOnzIW4Epfk2Bb) | [GooNight](https://open.spotify.com/artist/6HeK6beIohZ8q4L8me1iId) | [Lock me up](https://open.spotify.com/album/3TjzPxoh0SfQSdxAq9GMfn) | 3:12 | 2022-07-07 | 2022-11-15 |
 | [Lokuko \(feat\. Kid Wine\)](https://open.spotify.com/track/2kPXxMK07nUGTL2eQdVM3O) | [oceanfromtheblue](https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a), [Kid Wine](https://open.spotify.com/artist/4AUvnqezrLIzhkWD7TuICb) | [NEWRNBERA](https://open.spotify.com/album/1EWG73KSFYGrnZ3InrANPo) | 3:16 | 2023-08-29 | 2023-12-19 |
 | [Lonely](https://open.spotify.com/track/4oZfm9BPohSYNM3dMpV2KQ) | [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL) | [Sailing](https://open.spotify.com/album/7uXqFtzEZggg75Kpb1Eyya) | 3:17 | 2023-09-21 | 2024-02-07 |

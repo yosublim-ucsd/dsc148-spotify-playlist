@@ -4,7 +4,7 @@
 
 > Cuando las palabras no alcanzan, siempre habrá canciones para decirle lo que sientes\. Camila en portada.
 
-286 songs - 16 hr 14 min
+287 songs - 16 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,7 @@
 | [Drugs N Hella Melodies \(feat\. Kali Uchis\)](https://open.spotify.com/track/0IX5OFffosy8wk16m1IFCa) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Life of a DON](https://open.spotify.com/album/2WmJ5wp5wKBlIJE6FDAIBJ) | 3:18 | 2023-02-08 | 2023-03-11 |
 | [Dámelo](https://open.spotify.com/track/6OyOEjszTYpiRlnH68J3Nu) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Portales](https://open.spotify.com/album/5KKcchRuyjfuLkecyRJcWx) | 3:03 | 2023-02-08 | 2023-03-11 |
 | [El Cielo Aún Espera](https://open.spotify.com/track/70x0TeYW9v78ExG6v5M881) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX), [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [El Cielo Aún Espera](https://open.spotify.com/album/0a33IGqqFPLIkiKVS7BnhV) | 3:53 | 2023-05-19 |  |
-| [El estruendo](https://open.spotify.com/track/1Q4C6iN26GfC94W6QHZJ7T) | [Leiden](https://open.spotify.com/artist/6fvjP4AZ19ce4gwJSr5qnI) | [El estruendo](https://open.spotify.com/album/4YbJjjAjMzlg9prkNhoRQu) | 2:07 | 2024-04-19 |  |
+| [El estruendo](https://open.spotify.com/track/1Q4C6iN26GfC94W6QHZJ7T) | [Leiden](https://open.spotify.com/artist/6fvjP4AZ19ce4gwJSr5qnI) | [El estruendo](https://open.spotify.com/album/4YbJjjAjMzlg9prkNhoRQu) | 2:07 | 2024-04-19 | 2024-05-25 |
 | [El lugar correcto](https://open.spotify.com/track/3G6XpCfczuhbTSBlgfqe9v) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [De Todas las Flores](https://open.spotify.com/album/4BJoDX0fIjR4RsFF4vyd81) | 3:51 | 2023-04-21 |  |
 | [El Mejor Lugar](https://open.spotify.com/track/6icYplg6aqvnUqNnYkHbbS) | [Juan Vegas](https://open.spotify.com/artist/5JPAV8i80oNekuSSZoFQ1G) | [El Mejor Lugar](https://open.spotify.com/album/7FaJGC4pNapPjJaZlrqIme) | 2:55 | 2022-02-04 | 2022-07-02 |
 | [El Mundo](https://open.spotify.com/track/5NGkOQpMzneM26Pr0a77uB) | [MIA](https://open.spotify.com/artist/5VDLfzakHXjOYeai6w9jDq) | [El Mundo](https://open.spotify.com/album/5AsvysZbjrV75p09twLnFC) | 3:30 | 2024-05-03 |  |
@@ -114,6 +114,7 @@
 | [Entre La Maleza](https://open.spotify.com/track/5ARulwrK2qPpERvwvyvsKf) | [Delilah](https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR) | [Entre La Maleza](https://open.spotify.com/album/226HOM7ZLpyqqwC3tprFct) | 3:35 | 2024-05-03 |  |
 | [Entre Tú y Yo](https://open.spotify.com/track/124LWNIke7C7Cc5wCdQ8vJ) | [Karla Breu](https://open.spotify.com/artist/64kqaiiwxLbRBOM3JQufP1) | [Entre Tú y Yo](https://open.spotify.com/album/0vKVRqu5Cnv4LLJskpIVJz) | 4:01 | 2022-03-11 | 2024-05-04 |
 | [Entre Tú y Yo](https://open.spotify.com/track/3mE3dc4gce6Z2KvKwJqHnh) | [Karla Breu](https://open.spotify.com/artist/64kqaiiwxLbRBOM3JQufP1) | [Entre Tú y Yo](https://open.spotify.com/album/10aN8c0GaKn8cCNTa8REYh) | 4:01 | 2023-09-26 | 2024-04-19 |
+| [Espacio Infinito](https://open.spotify.com/track/5pTrvPMK10VcX8A6z8Q5Oa) | [Paola Meza](https://open.spotify.com/artist/5njFdXuFrH8HzkBpoEFHy0) | [Espacio Infinito](https://open.spotify.com/album/4UaFgjr9ZGMvtX96fvSror) | 3:30 | 2024-05-24 |  |
 | [Estar contigo \(feat\. La Oreja de Van Gogh\)](https://open.spotify.com/track/7G1ZWXlnSXRQ1arx8I60Yd) | [Alex Ubago](https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X), [La Oreja de Van Gogh](https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC) | [Estar contigo \(feat\. La Oreja de Van Gogh\)](https://open.spotify.com/album/23h7gVEPjvnosj6kQsuv2Y) | 3:57 | 2022-02-11 |  |
 | [Estrellas En El Mar](https://open.spotify.com/track/6phjeQUN6GnVT7eHPLnb4p) | [Charlie Rodd](https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762), [Angie Vazquez](https://open.spotify.com/artist/0iLUxaOduzrvmapRsqxB8s) | [Estrellas En El Mar](https://open.spotify.com/album/1jhtYcygAtP8nO57swjE4N) | 4:11 | 2023-05-19 | 2024-04-29 |
 | [Fantasmas](https://open.spotify.com/track/16PqxLDKhV4By0dhNMZAW7) | [Emilia Vega](https://open.spotify.com/artist/6nB44LUFpUSgZ7sjnoUJfV), [Escarlata](https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ) | [Fantasmas](https://open.spotify.com/album/7hQwxDJyHrHmSkw6ceGDVc) | 3:11 | 2022-02-04 | 2023-01-14 |

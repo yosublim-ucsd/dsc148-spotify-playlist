@@ -184,7 +184,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 197643,
       "name": "Amor Pa\u00b4 Toda La Vida",
       "url": "https://open.spotify.com/track/0rT8YxRplmtoCMttUF7vfF"
@@ -1518,7 +1518,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 169207,
       "name": "El Que Ama Sufre",
       "url": "https://open.spotify.com/track/0FLKPJQtOzb0Xw1qKWXuzm"
@@ -1795,6 +1795,24 @@
     },
     {
       "album": {
+        "name": "cuatro",
+        "url": "https://open.spotify.com/album/1IwCEfVYg8KlEankYmqeP7"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249884,
+      "name": "La Boda",
+      "url": "https://open.spotify.com/track/4vj6sWvmBLMhoF8AWQSeHX"
+    },
+    {
+      "album": {
         "name": "La Carta",
         "url": "https://open.spotify.com/album/3moycdz652XUwSF8jMdfVv"
       },
@@ -2032,6 +2050,28 @@
       "duration_ms": 205650,
       "name": "LA VALLENATA",
       "url": "https://open.spotify.com/track/0hQSuihyxzJp1iXa2P5prc"
+    },
+    {
+      "album": {
+        "name": "Renacer",
+        "url": "https://open.spotify.com/album/1rb41rTA9dUOW46y06c8zO"
+      },
+      "artists": [
+        {
+          "name": "Daniela Darcourt",
+          "url": "https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR"
+        },
+        {
+          "name": "Lenier",
+          "url": "https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189143,
+      "name": "La \u00daltima Canci\u00f3n",
+      "url": "https://open.spotify.com/track/6JxrD0jXVCEIIGG3X4kSrB"
     },
     {
       "album": {
@@ -2294,6 +2334,24 @@
       "duration_ms": 204413,
       "name": "Mar Chiquita",
       "url": "https://open.spotify.com/track/52AHKfP6qQ3feLjPCDTiRI"
+    },
+    {
+      "album": {
+        "name": "Cumbia y Nada M\u00e1s",
+        "url": "https://open.spotify.com/album/6P8GKRKPi93qg8q0ZnsMKw"
+      },
+      "artists": [
+        {
+          "name": "Afrosound",
+          "url": "https://open.spotify.com/artist/0i4Qda0k4nf7jnNHmSNpYv"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166909,
+      "name": "Mardito",
+      "url": "https://open.spotify.com/track/3BEyB1bd0B2ZtSySGVIkFN"
     },
     {
       "album": {
@@ -2788,7 +2846,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 189375,
       "name": "Pi\u00f1a Colada",
       "url": "https://open.spotify.com/track/07n2nBfbBGVpVLcbElqTOy"

@@ -4766,7 +4766,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 137508,
       "name": "Meet Me At Our Spot",
       "url": "https://open.spotify.com/track/2ochlNu8xd3kD6ac1Ek4iO"
@@ -5152,6 +5152,24 @@
       "duration_ms": 221400,
       "name": "Nothing Breaks Like A Heart",
       "url": "https://open.spotify.com/track/2ERicIur5ytRZhi554bMsr"
+    },
+    {
+      "album": {
+        "name": "Nothing Compares 2 U",
+        "url": "https://open.spotify.com/album/3cSIW5teNU9fIF4rAncyWb"
+      },
+      "artists": [
+        {
+          "name": "Capital Cities",
+          "url": "https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253833,
+      "name": "Nothing Compares 2 U",
+      "url": "https://open.spotify.com/track/4nNjUrfMmKz8x367DDoSKR"
     },
     {
       "album": {

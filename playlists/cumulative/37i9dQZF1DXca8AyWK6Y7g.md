@@ -4,7 +4,7 @@
 
 > manifesting another Watermelon Sugar soundtracked summer 📷 Emei
 
-2,058 songs - 4 day 7 hr 33 min
+2,060 songs - 4 day 7 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -794,6 +794,7 @@
 | [Heavy](https://open.spotify.com/track/54ZgNagtKQ2XHIVkVqC2AN) | [MacKenzie Bourg](https://open.spotify.com/artist/3pg4cfNfPC0ehk912YtXe9) | [Heavy](https://open.spotify.com/album/3sXElk428wa6iaMzv61GpV) | 2:15 | 2021-11-19 | 2022-01-22 |
 | [Hell](https://open.spotify.com/track/1Is5izEXFW6gVFvvq2XdEw) | [Two Friends](https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh) | [Hell](https://open.spotify.com/album/6P7TLfARCTJcVFQWfas2bF) | 3:27 | 2020-10-03 | 2021-11-20 |
 | [hell yeah](https://open.spotify.com/track/254mJnXam0VoBPKY4toiM3) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [hell yeah](https://open.spotify.com/album/4qXrPD4TRtgX0CKdRpBRMN) | 2:39 | 2022-09-09 | 2022-11-12 |
+| [HELLA BOY CRAZY](https://open.spotify.com/track/6MGXeJPWlv3enSLaIz2egy) | [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu) | [HELLA BOY CRAZY](https://open.spotify.com/album/1qdVwpG3yeKWXT36RhLZ26) | 2:14 | 2024-05-24 |  |
 | [Hello](https://open.spotify.com/track/3LcwihB5l6aFsAz1HyGlej) | [The Golf Club](https://open.spotify.com/artist/7glngbl6iMW8Iszr0pHpKT) | [Hello](https://open.spotify.com/album/1nPZWuk5Gv94RfPBYDxbNx) | 2:01 | 2021-09-22 | 2021-10-29 |
 | [Help \(feat\. Rence\)](https://open.spotify.com/track/0v6egqGKVDyc1fnXo1GRs8) | [Sarah Barrios](https://open.spotify.com/artist/0HJsX1aTdgG1VDIRDiseSJ), [Rence](https://open.spotify.com/artist/3VJTtTgub426X1NuzcyAOb) | [Help \(feat\. Rence\)](https://open.spotify.com/album/4SNO7NgvN3uqBhUpS9j4ht) | 3:11 | 2020-10-16 | 2021-11-09 |
 | [help herself](https://open.spotify.com/track/4YMc3A256xFBS0xcT77Qce) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Diamond Pistols](https://open.spotify.com/artist/1OzGBMZ8rp73R6DWx0IUr5) | [help herself](https://open.spotify.com/album/1LeB4us5kQb6xoSXM1kws8) | 3:08 | 2021-02-22 | 2021-05-27 |
@@ -881,7 +882,7 @@
 | [I Hate Cardio](https://open.spotify.com/track/5w6EF3wgPvME78cSrxnIuj) | [Ellee Duke](https://open.spotify.com/artist/0mVpmPb8A2f3SZzLwsfY2N) | [I Hate Cardio](https://open.spotify.com/album/0pP7mQFtuoZ9q5BU6Nj3Yc) | 3:29 | 2022-09-16 | 2023-04-22 |
 | [I Haven't Seen You Since The Summer](https://open.spotify.com/track/3LQnvTX0E4cwig42VTbX3X) | [Beeson](https://open.spotify.com/artist/2x2B1ZRBmx1TTzvPuKj0I8) | [I Haven't Seen You Since The Summer](https://open.spotify.com/album/5adGcBqBz7d9z9mCU0ntAt) | 3:20 | 2023-07-14 |  |
 | [I Hope It All Works Out](https://open.spotify.com/track/0tdO9pgHBCo2LCmWzfwZTy) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [I Hope It All Works Out](https://open.spotify.com/album/57AwLs6IEbB6eicGU0483i) | 2:47 | 2024-03-15 | 2024-04-19 |
-| [I Hope It All Works Out](https://open.spotify.com/track/2u2claSA1aCUMrVRsBD4Ik) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [I Hope It All Works Out](https://open.spotify.com/album/4Y7hxshp2MXAMXW5BwqZ6s) | 2:47 | 2023-11-17 |  |
+| [I Hope It All Works Out](https://open.spotify.com/track/2u2claSA1aCUMrVRsBD4Ik) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [I Hope It All Works Out](https://open.spotify.com/album/4Y7hxshp2MXAMXW5BwqZ6s) | 2:47 | 2023-11-17 | 2024-05-25 |
 | [I Just Came To Dance](https://open.spotify.com/track/2LQ3i7FKz0i2mrkcjWGeIg) | [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB) | [I Just Came To Dance](https://open.spotify.com/album/66GYmSfy8LWQilm80dopa3) | 2:24 | 2022-10-28 | 2023-06-17 |
 | [I Just Wanna Know](https://open.spotify.com/track/6e7Bk20FzoWgPlVN7AmQ0Q) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [I Just Wanna Know](https://open.spotify.com/album/6LcSLQzHh8lVFC20Vm4f2T) | 2:24 | 2023-05-19 | 2023-06-17 |
 | [I Just Want a Lover](https://open.spotify.com/track/1rwMM6ixKWnsRQMUeRbXeT) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [The Hardest Part](https://open.spotify.com/album/0CIYj6AV180SmLAEONb2DW) | 3:21 | 2022-09-16 | 2022-09-24 |
@@ -1157,7 +1158,7 @@
 | [magic wand](https://open.spotify.com/track/2Ba2Jkam0Fe49fdIwUdmKz) | [url](https://open.spotify.com/artist/7vv006VlvTGA0JD2ybpvN2), [Inadelle](https://open.spotify.com/artist/2oJwuBtgqtIuzTpU27zay8) | [magic wand](https://open.spotify.com/album/5iad3isgt69GOlLzHQtdOM) | 3:24 | 2021-04-24 | 2021-11-20 |
 | [Make It Thru the Day.](https://open.spotify.com/track/5i0S6dVDfTRGpjfVwBHIbU) | [Ben Zaidi](https://open.spotify.com/artist/5gpdr2m2nOvvKrEgtbD16W) | [Make It Thru the Day.](https://open.spotify.com/album/3o7pxHq7wPCb1hRCq37POT) | 2:54 | 2020-04-21 | 2020-09-30 |
 | [Make Me Your Mrs](https://open.spotify.com/track/2FVEPuJo6IQ078JPdQ5gVb) | [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E) | [Make Me Your Mrs](https://open.spotify.com/album/4s2DYFk0AkoZjknQAjjt1K) | 2:38 | 2024-03-01 | 2024-05-18 |
-| [Make More Money](https://open.spotify.com/track/1AfQb3PcCfeUQo39c0jUR7) | [Madelline](https://open.spotify.com/artist/7t6dcfG1BhMh3LTAXhxmeL) | [Make More Money](https://open.spotify.com/album/7fUJqEZknIGZwp59TsDQqK) | 3:19 | 2024-02-16 |  |
+| [Make More Money](https://open.spotify.com/track/1AfQb3PcCfeUQo39c0jUR7) | [Madelline](https://open.spotify.com/artist/7t6dcfG1BhMh3LTAXhxmeL) | [Make More Money](https://open.spotify.com/album/7fUJqEZknIGZwp59TsDQqK) | 3:19 | 2024-02-16 | 2024-05-25 |
 | [Make You Mine](https://open.spotify.com/track/48vIfHaK7by6x0T6ucpODL) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Make You Mine](https://open.spotify.com/album/62g7jm7YqkuQOhfhFpDQXC) | 3:41 | 2024-02-09 |  |
 | [make you sick](https://open.spotify.com/track/7Ec2TmAp6LQhPP21ioIEh1) | [Jake Cornell](https://open.spotify.com/artist/6zf13X0QDPkbKT2bQAcKyV) | [make you sick](https://open.spotify.com/album/59wTseGXxX8DibgCwwMzDP) | 2:01 | 2023-03-03 | 2023-03-11 |
 | [Mama's Boy](https://open.spotify.com/track/65leXqfkdViSssEVN23uYL) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Mama's Boy](https://open.spotify.com/album/6dgC3pUWlaKFLbm1sIQxGA) | 2:35 | 2023-06-23 | 2023-07-01 |
@@ -1889,6 +1890,7 @@
 | [Trust Issues](https://open.spotify.com/track/2z5uCpJamxXgs7GKa6qzPi) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Trust Issues](https://open.spotify.com/album/45yZQnazJjAbDlJyIkGEQ9) | 2:20 | 2022-08-19 | 2022-10-29 |
 | [try to try](https://open.spotify.com/track/3NkEARkGgDV2i8AWiyctQt) | [sammy rash](https://open.spotify.com/artist/0yXuo2N8r6dzzGgnLNLGZm) | [try to try](https://open.spotify.com/album/43mYpwbwMHnpDMpLQFiDqJ) | 2:16 | 2021-04-17 | 2021-11-20 |
 | [Tummy Hurts](https://open.spotify.com/track/0hFTdvxUbHl1CqrdZcbWtZ) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Snow Angel](https://open.spotify.com/album/3RqO05jxT9YYgNtMdQmo8Z) | 2:48 | 2024-04-14 |  |
+| [Turn it up](https://open.spotify.com/track/1YhNljrEyPYaYNgBNsWap5) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Turn it up](https://open.spotify.com/album/53oYO35gOzGGGINKHB8cd0) | 2:27 | 2024-05-24 |  |
 | [TV](https://open.spotify.com/track/7sZxEtxIahkGmPihwVYmLQ) | [Elohim](https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY) | [TV](https://open.spotify.com/album/2VZlv2ZzFtr2WN2YPbzCbq) | 3:06 | 2019-05-26\* | 2019-09-14 |
 | [Twenty \(feat\. Stevan\)](https://open.spotify.com/track/65su2AKgWHQhxFB9z7lRt3) | [Taka Perry](https://open.spotify.com/artist/7eYVLxvKOQ3w2BAE10ElgF), [Stevan](https://open.spotify.com/artist/24RDdXWdq95PlTMTpFTvC6) | [Twenty \(feat\. Stevan\)](https://open.spotify.com/album/2b4APeryOQWbbPdy2LNcZ9) | 2:53 | 2021-03-20 | 2021-10-14 |
 | [Twin Flame](https://open.spotify.com/track/5mcV609IhNtRv4piyKSbWs) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Twin Flame](https://open.spotify.com/album/50YpMaIj4BoYL08Nu4wdiA) | 3:03 | 2023-06-09 | 2023-07-01 |

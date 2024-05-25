@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-20",
-  "description": "gems by artists carving their own lane. cover: Casey MQ",
+  "description": "gems by artists carving their own lane. cover: Ouri",
   "name": "outliers",
   "tracks": [
     {
@@ -350,7 +350,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 202289,
       "name": "9AM IN LONDON",
       "url": "https://open.spotify.com/track/2K2NYHKFiW7oSKlbtO5Xxj"
@@ -5124,7 +5124,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 170400,
       "name": "delusion illusion",
       "url": "https://open.spotify.com/track/63VQqmfSMONIVnTBG2t3pH"
@@ -6136,7 +6136,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 145910,
       "name": "effort in",
       "url": "https://open.spotify.com/track/45EMmryo2aQRD7HMDHlVzj"
@@ -7602,7 +7602,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 204507,
       "name": "Football",
       "url": "https://open.spotify.com/track/3rnMROSxN8mkZebMW5PpBb"
@@ -8751,6 +8751,24 @@
     },
     {
       "album": {
+        "name": "He Venido al Mar",
+        "url": "https://open.spotify.com/album/1qv5Iknhk3yL2GYS8AWsI4"
+      },
+      "artists": [
+        {
+          "name": "Lido Pimienta",
+          "url": "https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340934,
+      "name": "He Venido al Mar - short mix",
+      "url": "https://open.spotify.com/track/5IYgKrYcxbCzM2PQCtA7X8"
+    },
+    {
+      "album": {
         "name": "Head Space Freestyle",
         "url": "https://open.spotify.com/album/4pNVj7o6u8ol0UmQlHzJJa"
       },
@@ -9162,7 +9180,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 204053,
       "name": "HOHO",
       "url": "https://open.spotify.com/track/1IG6MPqGzVL9YfFxJkVmr7"
@@ -9806,7 +9824,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 204837,
       "name": "I got the fear",
       "url": "https://open.spotify.com/track/2ysKTkeEnfE6QuHBKDolKk"
@@ -10122,7 +10140,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 154400,
       "name": "if you didnt want me",
       "url": "https://open.spotify.com/track/50TTdw1ApYVu93RW0gKq1e"
@@ -10285,6 +10303,24 @@
     },
     {
       "album": {
+        "name": "Since Winona",
+        "url": "https://open.spotify.com/album/7D9vZwRiwIzwEXHzsVutdK"
+      },
+      "artists": [
+        {
+          "name": "Alex Banin",
+          "url": "https://open.spotify.com/artist/2fTTmPI3XaJwqM19w5QiRz"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213231,
+      "name": "IN FEAR, ETC.",
+      "url": "https://open.spotify.com/track/1s3I6VvrD1BGGflMFS5NSO"
+    },
+    {
+      "album": {
         "name": "in my head",
         "url": "https://open.spotify.com/album/1kwmTBvSKbt6e03fVrxCGV"
       },
@@ -10420,6 +10456,24 @@
       "duration_ms": 153157,
       "name": "Indiesong",
       "url": "https://open.spotify.com/track/4EM4LPdfjwZ3WPpEjVeCx9"
+    },
+    {
+      "album": {
+        "name": "Industry",
+        "url": "https://open.spotify.com/album/2sHaB9LEN3q7qsqqHqclwF"
+      },
+      "artists": [
+        {
+          "name": "SML",
+          "url": "https://open.spotify.com/artist/5k8cbLF5EZnAhwDvHN6Toj"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267720,
+      "name": "Industry",
+      "url": "https://open.spotify.com/track/7KnEoF4jQOfNNwxFv3Jocb"
     },
     {
       "album": {
@@ -14436,7 +14490,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 220499,
       "name": "Nothing 2 See",
       "url": "https://open.spotify.com/track/39LBUI8lG3pjn83ovYdjGv"
@@ -15624,7 +15678,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 170895,
       "name": "peace of mind",
       "url": "https://open.spotify.com/track/0hh5w9zgdzGcEEt9wZQhPy"
@@ -17349,6 +17403,24 @@
     },
     {
       "album": {
+        "name": "Seasons",
+        "url": "https://open.spotify.com/album/3fhJVtBLypHzYymi46TSGQ"
+      },
+      "artists": [
+        {
+          "name": "Sam Austins",
+          "url": "https://open.spotify.com/artist/0zmnfFQX8LWVVZyRPHRx1V"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157664,
+      "name": "Seasons",
+      "url": "https://open.spotify.com/track/0Rb0nCwXNKtq2TETOq3gjk"
+    },
+    {
+      "album": {
         "name": "Seasons Change",
         "url": "https://open.spotify.com/album/7nIw5wLwAftZ93OMrADwJK"
       },
@@ -17779,6 +17851,24 @@
     },
     {
       "album": {
+        "name": "Shame On The Devil",
+        "url": "https://open.spotify.com/album/4uQDzFAaXpBDBIkwhJQo8T"
+      },
+      "artists": [
+        {
+          "name": "Vince Staples",
+          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205287,
+      "name": "Shame On The Devil",
+      "url": "https://open.spotify.com/track/6nEikEkWTXZ4SiZvUOAqND"
+    },
+    {
+      "album": {
         "name": "She Thought",
         "url": "https://open.spotify.com/album/6nSV7FSd6oJnoZte9rzSIs"
       },
@@ -18096,6 +18186,24 @@
       "duration_ms": 151676,
       "name": "Simp",
       "url": "https://open.spotify.com/track/1Blus5ZR4S5vAnLfzwAduY"
+    },
+    {
+      "album": {
+        "name": "Simple",
+        "url": "https://open.spotify.com/album/1VUKjMINincNIU5b2hUqlo"
+      },
+      "artists": [
+        {
+          "name": "HOMESHAKE",
+          "url": "https://open.spotify.com/artist/4DMSJzGjw2SMkKAT5EEE5u"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252867,
+      "name": "Simple",
+      "url": "https://open.spotify.com/track/0TmpP4ABAQ7NxgwFMGp3q6"
     },
     {
       "album": {
@@ -19136,7 +19244,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 147500,
       "name": "Staying here",
       "url": "https://open.spotify.com/track/0P2ag2qoPv05wKjJrncp2v"
@@ -19202,6 +19310,24 @@
       "duration_ms": 184903,
       "name": "STEPMOM",
       "url": "https://open.spotify.com/track/7DTuaFl2xYmGUgBKLXiOg5"
+    },
+    {
+      "album": {
+        "name": "stick of gum",
+        "url": "https://open.spotify.com/album/6PNhTNKOapN967ioSFJQkS"
+      },
+      "artists": [
+        {
+          "name": "Nemahsis",
+          "url": "https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148400,
+      "name": "stick of gum",
+      "url": "https://open.spotify.com/track/7DvOMvKBZESff6Etf0v9MY"
     },
     {
       "album": {
@@ -20374,6 +20500,24 @@
       "duration_ms": 222456,
       "name": "The Glade",
       "url": "https://open.spotify.com/track/4tEeJe0AS4TbihaokDG6hG"
+    },
+    {
+      "album": {
+        "name": "The Groke",
+        "url": "https://open.spotify.com/album/0WyFT30FkW1v1GquwmQsYN"
+      },
+      "artists": [
+        {
+          "name": "Okay Kaya",
+          "url": "https://open.spotify.com/artist/7d64ZVOXg02y73HB5UMqkb"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194106,
+      "name": "The Groke",
+      "url": "https://open.spotify.com/track/6aDXwAUnEqMFzBx2i7wgpc"
     },
     {
       "album": {
@@ -21775,6 +21919,24 @@
     },
     {
       "album": {
+        "name": "dog eat dog food world",
+        "url": "https://open.spotify.com/album/1R7Lgw9A3hbcsCVW0yOyuC"
+      },
+      "artists": [
+        {
+          "name": "Niko B",
+          "url": "https://open.spotify.com/artist/3GViqleny7XZGug7Ym2Fjk"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181720,
+      "name": "ur a bundle of joy !",
+      "url": "https://open.spotify.com/track/3XHo6fOc3QA2t6MHrpcG5w"
+    },
+    {
+      "album": {
         "name": "UR SO FULL OF IT",
         "url": "https://open.spotify.com/album/0scVQRLEFHqCysQzYu5NNS"
       },
@@ -22922,6 +23084,24 @@
       "duration_ms": 282053,
       "name": "Willing To Trust (with Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/6TQs1M73R9aPqjqWvbNu22"
+    },
+    {
+      "album": {
+        "name": "Winner",
+        "url": "https://open.spotify.com/album/1ICCSSc8Cgc2SaeqJo4dsk"
+      },
+      "artists": [
+        {
+          "name": "Izza Gara",
+          "url": "https://open.spotify.com/artist/2ZYmbV91kG11F6WGuuuZov"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144496,
+      "name": "Winner",
+      "url": "https://open.spotify.com/track/6J64hC7a0UuD4IumFsRK2C"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWk3H3alyUrW.md) - [plain]
 
 > Enjoy these songs while you eat.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,324 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,328 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWk3H3alyUrW.md) - [plain]
 | 47 | [Segâh Peşrev \- Segâh](https://open.spotify.com/track/50lyXPqNvboCr2Xi8v2grj) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Makamlarla Türk Din Mûsîkisi Eğitim Seti, Vol\. 3 / Segâh Nihavend Acemaşîran](https://open.spotify.com/album/4LjCB3MA5i8yKUkVji2ZN0) | 1:45 |
 | 48 | [Saba Taksim](https://open.spotify.com/track/5Zp63IoUOx2VyZ5xuTa2Ey) | [Volkan Kaçak](https://open.spotify.com/artist/2HkYkLLd6ks449Rbvp2Hip) | [Neyzen](https://open.spotify.com/album/2DkjUP7kajtpgvsLvyRx0L) | 2:11 |
 | 49 | [Hüzzam Saz Semai](https://open.spotify.com/track/2g0dHAFlelutOOWJKnW5am) | [Ahmet Özhan](https://open.spotify.com/artist/6Du3hAAxRtIdKp3zF66Z78) | [Ahmet Özhan](https://open.spotify.com/album/5Nf1taWXqdReHYkdzZo2MX) | 1:24 |
-| 50 | [Coşku \(Rast Saz Eseri\)](https://open.spotify.com/track/5XAaaO2urMdS43jypIA7ac) | [Pınar Köksal](https://open.spotify.com/artist/5n2N4vhX5SfjiTtLJBM7jZ) | [Duygu Pinari](https://open.spotify.com/album/7HEzAaqs5mlGQzMYGHljID) | 4:00 |
+| 50 | [Anadolu \(Hüseyni Saz Eseri\)](https://open.spotify.com/track/6iWmhXEPOXSHewuzUkBivJ) | [Pınar Köksal](https://open.spotify.com/artist/5n2N4vhX5SfjiTtLJBM7jZ) | [Duygu Pinari](https://open.spotify.com/album/7HEzAaqs5mlGQzMYGHljID) | 2:51 |
 
 Snapshot ID: `ZeXOXAAAAAAi9c+4MQk1Zcuusb3qPXKS`

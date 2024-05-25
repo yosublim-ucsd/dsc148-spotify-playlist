@@ -4,7 +4,7 @@
 
 > House music I absolutely love at the moment! Submissions: houseiumpromo@gmail.com
 
-186 songs - 9 hr 32 min
+187 songs - 9 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [No Focus \- Radio Edit](https://open.spotify.com/track/5kGJmUoQyFG5XjbPkzfd8v) | [John Dahlbäck](https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv), [Chester Young](https://open.spotify.com/artist/3u45rXhQ0o9pUL24xlnf6e), [Émilie Rachel](https://open.spotify.com/artist/5vgh47byX55s6GPztw1V3Q) | [No Focus](https://open.spotify.com/album/727Lb4kUgtbj9Ny2XftVrl) | 2:38 | 2024-02-05 |  |
 | [No Sleep \(6AM\) \(feat\. MERYLL\)](https://open.spotify.com/track/2hpoG18R8aBXB3O5QmheJt) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz), [MERYLL](https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC) | [No Sleep \(6AM\) \(feat\. MERYLL\)](https://open.spotify.com/album/4UwWfFDYZcjQRnS9Rv94Ro) | 2:26 | 2024-01-15 | 2024-01-30 |
 | [Nonstop](https://open.spotify.com/track/47tijquLiTrK9e88AqncdG) | [NUVZ](https://open.spotify.com/artist/4fpIbSptfUs03L8woqtSPE), [NETWERK](https://open.spotify.com/artist/5NcQH0KEEAwdMYKZr6o7Go) | [Nonstop](https://open.spotify.com/album/3wQhNBJyysFXnNeEnTZPC5) | 3:50 | 2024-02-02 |  |
+| [Oh Baby!](https://open.spotify.com/track/7iUYRbnAN8XmiwK0WG3F66) | [TRYPBOX](https://open.spotify.com/artist/5r4lVYYPWIvbRMH4rlAeFj), [Houseium](https://open.spotify.com/artist/7nLII53mP3tGEh5B5Hx83o) | [Oh Baby!](https://open.spotify.com/album/5dsP2jPN6LflY4wrKnmCRB) | 3:00 | 2024-05-24 |  |
 | [Oldschool \- Radio Edit](https://open.spotify.com/track/2WjT0iy609Xne1EzgcD0CZ) | [TiDo](https://open.spotify.com/artist/4liOtFxDvd7b2GcCv7jsa3) | [Oldschool \(Radio Edit\)](https://open.spotify.com/album/0SQFyNAkxb09LdYg8ElIPo) | 2:40 | 2023-12-31 | 2024-01-09 |
 | [Open Your Mind \- Extended Mix](https://open.spotify.com/track/0dfNX8ZYTvrFVdvZVULExP) | [Kid Caird](https://open.spotify.com/artist/1rRAOS5gztGhAEdcusPqc5) | [Open Your Mind](https://open.spotify.com/album/66Cta5YWnVxHJaiYiTBWxk) | 5:11 | 2024-01-21 | 2024-02-06 |
 | [Over](https://open.spotify.com/track/1Ef6SrzW4vM7uJT11jAJvO) | [Maur](https://open.spotify.com/artist/2LhJEX3HxU9pJFLa8RkvUC), [Westend](https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu), [Cami Bear](https://open.spotify.com/artist/3AupavhLGflK8iq0I9fhUG) | [Over](https://open.spotify.com/album/3Z7dA0IXA4xk4hIRtg9FuQ) | 3:10 | 2024-01-15 | 2024-01-30 |

@@ -4,7 +4,7 @@
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Caity Krone
 
-1,232 songs - 3 day 1 hr 39 min
+1,234 songs - 3 day 1 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -305,6 +305,7 @@
 | [dinner alone](https://open.spotify.com/track/0XqtPB3sTWzv9p2cDzzfyD) | [Arny Margret](https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW) | [dinner alone](https://open.spotify.com/album/1eOHu4opGK1YazfyZuR49M) | 2:55 | 2023-09-27 | 2023-12-11 |
 | [Dirty Fire](https://open.spotify.com/track/7Ktux01az60Et2QeCYu357) | [HAFFWAY](https://open.spotify.com/artist/3GL9CphwkHjP0Niz2fTWJH) | [Prequel](https://open.spotify.com/album/3EkjlTMu4IDVHz759li7FO) | 2:48 | 2023-10-18 | 2023-12-11 |
 | [Do You Feel Free Now?](https://open.spotify.com/track/1G5Q59cV1UNU0AOiWtODGS) | [Sam Tudor](https://open.spotify.com/artist/4s7wRrRsAQMuLQlkRo2Khk) | [Do You Feel Free Now?](https://open.spotify.com/album/52ih5KkcgK2DUjvb2E5Q2k) | 3:19 | 2024-01-31 | 2024-04-11 |
+| [Do Your Worst](https://open.spotify.com/track/1WQm4kw3blYLYbsA9kTsTE) | [Zackery](https://open.spotify.com/artist/5GQHNdYVBppXNGb7RHJHIc) | [Do Your Worst](https://open.spotify.com/album/2LS7qVSq37ThFZkkmhrY3w) | 3:39 | 2024-05-24 |  |
 | [dog](https://open.spotify.com/track/2jNI4mu7xhKGXpCmXzufEg) | [Truman Sinclair](https://open.spotify.com/artist/6blV8nsJMWan2a2sYFyxVG) | [dog](https://open.spotify.com/album/4GoNNtWHaiJHoaRK6kl08u) | 3:02 | 2022-11-30 | 2023-01-12 |
 | [Dog Days in LA](https://open.spotify.com/track/0MxqSOINLqZOwAFsGAMMux) | [Alicia Blue](https://open.spotify.com/artist/4suxU7SfC7vp6wMComAlQG) | [Dog Days in LA](https://open.spotify.com/album/5ouXoBtz7T2j6yiOQmct1t) | 3:36 | 2022-06-15 | 2022-10-06 |
 | [Dog or Baby](https://open.spotify.com/track/2OxIWC9FjaZueYWAfA0YAF) | [Emma Frank](https://open.spotify.com/artist/6eFOhiuxsgDaOHIGJ6Sn1O) | [Dog or Baby](https://open.spotify.com/album/6RvD4WoxEhhhEEXPOyZu7J) | 3:21 | 2023-04-05 | 2023-05-18 |
@@ -750,6 +751,7 @@
 | [Moms Song](https://open.spotify.com/track/4t0qpQnjzOJLnbZMGw0nvy) | [Tess](https://open.spotify.com/artist/5ZwQXTCHmw958nA8imMb3a) | [Moms Song](https://open.spotify.com/album/2lY8ZK2ct0Dl9PDCp80EFE) | 2:59 | 2022-05-25 | 2022-09-01 |
 | [Monogamy](https://open.spotify.com/track/06FbMlhYsa4b97N1LUgAm8) | [Taylah Carroll](https://open.spotify.com/artist/5rrjNgalPfM94jRqm5RpFk) | [Monogamy](https://open.spotify.com/album/7hyiz1gYHPxc6WtJbJXcKl) | 3:25 | 2023-07-19 | 2023-09-21 |
 | [Montana](https://open.spotify.com/track/4DOxDsuZ6W8PdyRvd4ToDJ) | [Mikey Ferrari](https://open.spotify.com/artist/6WqxuOkQXo8zDZl0InT5R7) | [Montana](https://open.spotify.com/album/6Bex7UEG8UmFreaCtb66i9) | 3:24 | 2022-11-23 | 2022-12-01 |
+| [More Easily](https://open.spotify.com/track/4TJu2i1NcYxTgO0fFSk1Xf) | [Makushin](https://open.spotify.com/artist/7aYflwlSz6eBm0teArvEgl), [Andrew Wasylyk](https://open.spotify.com/artist/6eWBxi3noFhe59k8qdPbzG), [David A Jaycock](https://open.spotify.com/artist/3SMHagl0r9hdZ6fmiXnlM6) | [Move into the Luminous](https://open.spotify.com/album/5sML4aezLsPEnVJe4ObNxm) | 4:41 | 2024-05-24 |  |
 | [Morning](https://open.spotify.com/track/0xQISVRlAtWi1xnDKzfyBt) | [Jackson Wooten](https://open.spotify.com/artist/0y7d3G52a49UExL70y2lkz) | [From a Warm Valley](https://open.spotify.com/album/5eEU9cEbcVeR3ltneidPD3) | 4:13 | 2022-11-09 | 2022-12-01 |
 | [Morningbird](https://open.spotify.com/track/54jsQ2oan9bmyaiDPVjbtv) | [Ten Minute Detour](https://open.spotify.com/artist/2xt2sGmcA036zAGPaHmk8n) | [Morningbird](https://open.spotify.com/album/6SYxAeeKJrcFb065q3q45b) | 4:10 | 2022-05-25 | 2022-06-30 |
 | [Moroccan Oranges](https://open.spotify.com/track/5RxC3UrqhQ1B3ld7jiOKbF) | [Olive Louise](https://open.spotify.com/artist/1C7e3ACfR3ifL7GysVhAwe) | [275 Kings Point Road](https://open.spotify.com/album/0ebiLM1jDVBD6rFMQTtsyX) | 3:03 | 2023-05-03 | 2023-06-15 |

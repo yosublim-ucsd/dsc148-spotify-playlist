@@ -3081,6 +3081,24 @@
     },
     {
       "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/6MxLomr9PVYAxbrM3ee5pA"
+      },
+      "artists": [
+        {
+          "name": "K CAMP",
+          "url": "https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210483,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/4wI6OPivBlMBc3jOPlT6uE"
+    },
+    {
+      "album": {
         "name": "It's Only Me",
         "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
       },
@@ -6080,7 +6098,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 141732,
       "name": "Never Last",
       "url": "https://open.spotify.com/track/54KWlvEf7t2MJktwweWU23"
@@ -6296,7 +6314,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 198293,
       "name": "No More Questions",
       "url": "https://open.spotify.com/track/3KqTdLH4cAm14Of7KDeJ2o"
@@ -7470,7 +7488,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 230984,
       "name": "RIDIN 4 U",
       "url": "https://open.spotify.com/track/4YrCMmKendEc0HTGmTQR84"
@@ -7496,6 +7514,28 @@
       "duration_ms": 236146,
       "name": "Right 4 You",
       "url": "https://open.spotify.com/track/1Aw7MLqN5oqvIva5KWDpGl"
+    },
+    {
+      "album": {
+        "name": "Risk Taker",
+        "url": "https://open.spotify.com/album/0eX3oKIfRjTb0gjAOysT0E"
+      },
+      "artists": [
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223189,
+      "name": "Risk Taker",
+      "url": "https://open.spotify.com/track/1rdL4oJxPzqDiNclK2aP3u"
     },
     {
       "album": {
@@ -7942,7 +7982,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-25",
       "duration_ms": 144533,
       "name": "She'll Be Ok - Remix",
       "url": "https://open.spotify.com/track/63Vj0fpR8mHtAAWKPwY65C"
@@ -8144,6 +8184,24 @@
       "duration_ms": 190224,
       "name": "Single & Happy (feat. Wale & Eric Bellinger)",
       "url": "https://open.spotify.com/track/6n9G36q0JwCS12oQRXCeMi"
+    },
+    {
+      "album": {
+        "name": "Situationships",
+        "url": "https://open.spotify.com/album/07JNjgsP1nMcrEIvHAMNPh"
+      },
+      "artists": [
+        {
+          "name": "SheedTs",
+          "url": "https://open.spotify.com/artist/6YOu8dp0Y0Nev97d8OjqIQ"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159083,
+      "name": "Situationships",
+      "url": "https://open.spotify.com/track/4otFh3wXkWQnHDIu0WJTG5"
     },
     {
       "album": {
@@ -9798,6 +9856,24 @@
       "duration_ms": 341307,
       "name": "We Cry Together",
       "url": "https://open.spotify.com/track/67XC51nlZncNpHmZ8rOU9a"
+    },
+    {
+      "album": {
+        "name": "Lemon Cars",
+        "url": "https://open.spotify.com/album/4fpd2D289N4Ma0jxG3zzSm"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177230,
+      "name": "We Time",
+      "url": "https://open.spotify.com/track/1LR9G0wTclqlagmp8Q3RHN"
     },
     {
       "album": {
