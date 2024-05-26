@@ -920,7 +920,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-26",
       "duration_ms": 200000,
       "name": "Ee Maaye Prema",
       "url": "https://open.spotify.com/track/76GLjMzjpF1H1eEXCCa5qf"
@@ -2594,6 +2594,10 @@
         {
           "name": "Manisha Eerabathini",
           "url": "https://open.spotify.com/artist/7uTF7CgQzu55VR10qqG2yC"
+        },
+        {
+          "name": "Ravi Raghunandan",
+          "url": "https://open.spotify.com/artist/5ArNYvz9r6cBUYOiZHMlOK"
         }
       ],
       "date_added": "2024-03-01",
@@ -4864,6 +4868,24 @@
       "duration_ms": 184179,
       "name": "Telusa Nuvvevaro",
       "url": "https://open.spotify.com/track/4AiOWsLqXlYgs70dYugZBf"
+    },
+    {
+      "album": {
+        "name": "Thaanu",
+        "url": "https://open.spotify.com/album/5l0c9ZBV6Y3NQza3E7m3jL"
+      },
+      "artists": [
+        {
+          "name": "Jammers",
+          "url": "https://open.spotify.com/artist/35rhxl9kHgmuqIODepTF6u"
+        }
+      ],
+      "date_added": "2024-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192615,
+      "name": "Thaanu",
+      "url": "https://open.spotify.com/track/2wOflzlWeTjOtzq5xWce1E"
     },
     {
       "album": {

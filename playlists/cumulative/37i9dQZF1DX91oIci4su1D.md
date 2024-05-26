@@ -4,7 +4,7 @@
 
 > Setting sights on banging <a href="spotify:genre:0JQ5DAqbMKFFfBKlpu08ru">trance and progressive</a>.
 
-902 songs - 2 day 6 hr 39 min
+903 songs - 2 day 6 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -260,6 +260,7 @@
 | [Expression](https://open.spotify.com/track/6ajouc1JNHqzNcJ8EzMxBQ) | [Billy Gillies](https://open.spotify.com/artist/0kmovylAP20DMJhS3BE2CO) | [Expression](https://open.spotify.com/album/0oZFWjvWzEQzoCvnG4mXww) | 3:53 | 2022-02-04 | 2022-04-02 |
 | [Expressions](https://open.spotify.com/track/3XQxe2NI2Gn2BZmWGOkzAK) | [Dennis Pedersen](https://open.spotify.com/artist/4yoxAZ8dg9fP5pJDA9hrGo), [Lasse Macbeth](https://open.spotify.com/artist/0Bqc6zw67oGyYGoIz0w9Te) | [Expressions](https://open.spotify.com/album/7GzL9LqOefDI2IjJY9Xpgu) | 4:00 | 2021-12-17 | 2022-02-26 |
 | [Eyepiece](https://open.spotify.com/track/1gMWFfgtpzVXP1PoGRKIob) | [Eximinds](https://open.spotify.com/artist/2rDzllD1jSxxJCcRX2l55K), [Hit The Bass](https://open.spotify.com/artist/6XltKCuX1V6Xn3rlxvWkCq) | [Eyepiece](https://open.spotify.com/album/53y80TSFLcRwDZW2pTVFTB) | 3:44 | 2022-04-08 | 2022-06-28 |
+| [Fable \- Radio](https://open.spotify.com/track/1eBkl1dDbU47Dz7VEQnWrw) | [LSR/CITY](https://open.spotify.com/artist/0YQ22xAzgefaKw8vKCAEp2), [Gareth Emery](https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi), [Robert Miles](https://open.spotify.com/artist/2YVF0Ou5zIc4mpgtLIlGN0) | [Fable](https://open.spotify.com/album/5ns2MXeOZuDn196ykWAP2n) | 2:29 | 2024-05-24 |  |
 | [Fade Away](https://open.spotify.com/track/1X8ogY5IBc1deuzzhvFMer) | [Giuseppe Ottaviani](https://open.spotify.com/artist/5B9q1NRokzWYB7nSgnlHyv), [Mila Josef](https://open.spotify.com/artist/249X7nXjC7z2dC9y6jFOli) | [Fade Away](https://open.spotify.com/album/5w54af6RiSQ8D5370IasXP) | 4:21 | 2022-01-28 | 2022-12-17 |
 | [Fall Into You](https://open.spotify.com/track/7a8bzyInoCja0iFe31uucM) | [Omnia](https://open.spotify.com/artist/0XZkeCAlpiO5qcIlAJzZaA) | [Fall Into You](https://open.spotify.com/album/6JTLfvfLyLEq2E1PB5pSwS) | 3:24 | 2021-12-17 | 2023-02-08 |
 | [Fall Through the Earth](https://open.spotify.com/track/13sR6DpLw3uun6xBf6mwo1) | [Richard Durand](https://open.spotify.com/artist/7wne8sUhTAJdIsnuO4GjnR), [Christina Novelli](https://open.spotify.com/artist/1dbzT291PCwwYJK0l3Tr1n) | [Fall Through the Earth](https://open.spotify.com/album/2wOaEAC5560QR6GXQfG8uK) | 3:40 | 2023-02-24 | 2024-02-17 |
@@ -810,7 +811,7 @@
 | [Through The Shadows](https://open.spotify.com/track/1G2G5rVFPHIbxzfQLpjgkR) | [Nihil Young](https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC), [Andrea Martini](https://open.spotify.com/artist/1ys1VqaDEFMz5iN74MuQMr), [Luke Coulson](https://open.spotify.com/artist/5ctD2yNFX7W8uWIxTvirkx) | [Through The Shadows](https://open.spotify.com/album/1eRnXdIeNy842Q5awvTSlC) | 3:37 | 2024-03-01 | 2024-03-22 |
 | [Thunderstorm](https://open.spotify.com/track/1W7IB819HPkn1wder2Yq15) | [Myde](https://open.spotify.com/artist/4GLfkXTyojK3BHJJkuUmpq) | [Thunderstorm](https://open.spotify.com/album/5yjnMWHueuTWmPj3B6GBKT) | 3:59 | 2022-04-22 | 2022-05-14 |
 | [Tiger](https://open.spotify.com/track/4uUxMuipFKX8gq4me7pGty) | [DRYM](https://open.spotify.com/artist/0kDuIuxZhlgE9XYRy6NVSq) | [Tiger](https://open.spotify.com/album/19ndH7HNa1DKyt18uyXikg) | 3:19 | 2022-01-21 | 2022-07-26 |
-| [Till The Sun Is Up High](https://open.spotify.com/track/6sS1woPe1F2CHvwr1JamkY) | [Natalie Gioia](https://open.spotify.com/artist/7Im3RJDHc4svDzWNlSvoAO) | [Till The Sun Is Up High](https://open.spotify.com/album/0NaVzChiy0uqs9bcDUDRS5) | 3:18 | 2023-07-21 |  |
+| [Till The Sun Is Up High](https://open.spotify.com/track/6sS1woPe1F2CHvwr1JamkY) | [Natalie Gioia](https://open.spotify.com/artist/7Im3RJDHc4svDzWNlSvoAO) | [Till The Sun Is Up High](https://open.spotify.com/album/0NaVzChiy0uqs9bcDUDRS5) | 3:18 | 2023-07-21 | 2024-05-26 |
 | [Till We Fade](https://open.spotify.com/track/5egP6yTdSchQ4gRrC7kKr9) | [Markus Schulz](https://open.spotify.com/artist/6OO0PboZcIWUWL7j2IyeoL), [Emma Hewitt](https://open.spotify.com/artist/1t65YxEAtU3iii6bCzSGF8) | [Till We Fade](https://open.spotify.com/album/1LTCp8uuRTym8EDraKVjSo) | 3:13 | 2023-10-27 |  |
 | [Time](https://open.spotify.com/track/1yFexL3PgnFKXtDF29Hmax) | [XiJaro & Pitch](https://open.spotify.com/artist/0CcmU1Eun8Nwb3VlOAeJUK), [Cari](https://open.spotify.com/artist/6UAL6sAn9OZc6VQGOOp3re) | [Time](https://open.spotify.com/album/6BuCGdSlBbvyxs4MEL60zK) | 4:55 | 2023-08-04 |  |
 | [Time After Time](https://open.spotify.com/track/7HnozJfCXo4H21kZNRYv5V) | [Dash Berlin](https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri), [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [Emma Hewitt](https://open.spotify.com/artist/1t65YxEAtU3iii6bCzSGF8) | [Time After Time](https://open.spotify.com/album/1Wk9LOhvSz6RQ0Cq8pcnyW) | 2:49 | 2023-01-13 | 2023-08-19 |

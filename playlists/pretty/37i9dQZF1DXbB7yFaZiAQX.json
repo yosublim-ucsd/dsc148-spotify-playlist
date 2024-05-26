@@ -1,6 +1,6 @@
 {
   "description": "'80s New Wave, New Romantic and Post-punk.",
-  "num_followers": 1037271,
+  "num_followers": 1037422,
   "original_name": "'80s All Lined Up",
   "owner": {
     "name": "Spotify",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Lifes Rich Pageant (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1G95bEVJwyXeqzLdbzkREi"
-      },
-      "artists": [
-        {
-          "name": "R.E.M.",
-          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
-        }
-      ],
-      "duration_ms": 169920,
-      "name": "Fall On Me - 2011 Remaster",
-      "url": "https://open.spotify.com/track/3xPKSMgZl4N3rfTyIgSPfa"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Essential: Eighties",
         "url": "https://open.spotify.com/album/0YPugIAB3jrt4uPAm0FKMl"
       },
@@ -1427,18 +1411,18 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "INXS Remastered",
-        "url": "https://open.spotify.com/album/7CJvhqb2PJq5fBcY6eKqjl"
+        "name": "Lifes Rich Pageant (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1G95bEVJwyXeqzLdbzkREi"
       },
       "artists": [
         {
-          "name": "INXS",
-          "url": "https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv"
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
         }
       ],
-      "duration_ms": 317240,
-      "name": "Original Sin",
-      "url": "https://open.spotify.com/track/1jM23jASF0JrhgqYhqCZfl"
+      "duration_ms": 169920,
+      "name": "Fall On Me - 2011 Remaster",
+      "url": "https://open.spotify.com/track/3xPKSMgZl4N3rfTyIgSPfa"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -1455,6 +1439,22 @@
       "duration_ms": 392360,
       "name": "Da Da Da ich lieb dich nicht du liebst mich nicht Aha Aha Aha - Lange Version",
       "url": "https://open.spotify.com/track/4HCdu48LScraIfJ7Ik7EhE"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "INXS Remastered",
+        "url": "https://open.spotify.com/album/7CJvhqb2PJq5fBcY6eKqjl"
+      },
+      "artists": [
+        {
+          "name": "INXS",
+          "url": "https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv"
+        }
+      ],
+      "duration_ms": 317240,
+      "name": "Original Sin",
+      "url": "https://open.spotify.com/track/1jM23jASF0JrhgqYhqCZfl"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Autoamerican (Remastered 2001)",
-        "url": "https://open.spotify.com/album/1VuNXmZV6eIfUwglRlM9Ya"
-      },
-      "artists": [
-        {
-          "name": "Blondie",
-          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
-        }
-      ],
-      "duration_ms": 391426,
-      "name": "Rapture - Remastered 2001",
-      "url": "https://open.spotify.com/track/0D6qZlc6vNR7PDW2RKGPsV"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "New Gold Dream (81/82/83/84)",
         "url": "https://open.spotify.com/album/6dn2O3un8SV0QZ421jDdEj"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 338808,
       "name": "New Gold Dream (81/82/83/84)",
       "url": "https://open.spotify.com/track/7MhDU9xSWM1LPQGPFkAEJC"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "Autoamerican (Remastered 2001)",
+        "url": "https://open.spotify.com/album/1VuNXmZV6eIfUwglRlM9Ya"
+      },
+      "artists": [
+        {
+          "name": "Blondie",
+          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+        }
+      ],
+      "duration_ms": 391426,
+      "name": "Rapture - Remastered 2001",
+      "url": "https://open.spotify.com/track/0D6qZlc6vNR7PDW2RKGPsV"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -1715,6 +1715,22 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
+        "name": "Sons And Fascination/Sister Feelings Call",
+        "url": "https://open.spotify.com/album/03EYECAWPAsVJmv5rfT4Dq"
+      },
+      "artists": [
+        {
+          "name": "Simple Minds",
+          "url": "https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj"
+        }
+      ],
+      "duration_ms": 351866,
+      "name": "Theme For Great Cities",
+      "url": "https://open.spotify.com/track/5HbCsT9WyEhnhw75QUr1A5"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
         "name": "Album (Super Deluxe Edition)",
         "url": "https://open.spotify.com/album/2MUwvNwZBBCUTqB1p4QTLN"
       },
@@ -1763,22 +1779,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Sons And Fascination/Sister Feelings Call",
-        "url": "https://open.spotify.com/album/03EYECAWPAsVJmv5rfT4Dq"
-      },
-      "artists": [
-        {
-          "name": "Simple Minds",
-          "url": "https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj"
-        }
-      ],
-      "duration_ms": 351866,
-      "name": "Theme For Great Cities",
-      "url": "https://open.spotify.com/track/5HbCsT9WyEhnhw75QUr1A5"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Good Vibes - The Very Best of Laid Back",
         "url": "https://open.spotify.com/album/2PTte9WD2NqJzmbqNaDpa1"
       },
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "From The Lion's Mouth",
-        "url": "https://open.spotify.com/album/2neFxutkHmjJ8jVAXcXynI"
-      },
-      "artists": [
-        {
-          "name": "The Sound",
-          "url": "https://open.spotify.com/artist/4hzCcF4Leos2sKnz79nwhz"
-        }
-      ],
-      "duration_ms": 258079,
-      "name": "Winning",
-      "url": "https://open.spotify.com/track/7EOCSmPvQ8psymuLTsKfN2"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Changing Places",
         "url": "https://open.spotify.com/album/7DiCqz4vzQgW2dhz206Seh"
       },
@@ -1823,6 +1807,22 @@
       "duration_ms": 246306,
       "name": "Sleeper In Metropolis",
       "url": "https://open.spotify.com/track/0BnMXGSKIOTqroiBpXgLTV"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "From The Lion's Mouth",
+        "url": "https://open.spotify.com/album/2neFxutkHmjJ8jVAXcXynI"
+      },
+      "artists": [
+        {
+          "name": "The Sound",
+          "url": "https://open.spotify.com/artist/4hzCcF4Leos2sKnz79nwhz"
+        }
+      ],
+      "duration_ms": 258079,
+      "name": "Winning",
+      "url": "https://open.spotify.com/track/7EOCSmPvQ8psymuLTsKfN2"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -1891,22 +1891,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Reproduction",
-        "url": "https://open.spotify.com/album/7tc1nTdBA717D74uJ07VRn"
-      },
-      "artists": [
-        {
-          "name": "The Human League",
-          "url": "https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG"
-        }
-      ],
-      "duration_ms": 234040,
-      "name": "Being Boiled - Fast Version / 2003 Digital Remaster",
-      "url": "https://open.spotify.com/track/2xN8RYKg69sdfoqtvYnwwM"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Vun Drinne Noh Drusse",
         "url": "https://open.spotify.com/album/01DA2kVDaJ8I2Z6PETlZt7"
       },
@@ -1919,6 +1903,22 @@
       "duration_ms": 299000,
       "name": "Kristallnaach",
       "url": "https://open.spotify.com/track/2aZsp1KAJLMOaW2socza14"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "Reproduction",
+        "url": "https://open.spotify.com/album/7tc1nTdBA717D74uJ07VRn"
+      },
+      "artists": [
+        {
+          "name": "The Human League",
+          "url": "https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG"
+        }
+      ],
+      "duration_ms": 234040,
+      "name": "Being Boiled - Fast Version / 2003 Digital Remaster",
+      "url": "https://open.spotify.com/track/2xN8RYKg69sdfoqtvYnwwM"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -2167,22 +2167,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Love, Peace & Harmony The Best Of Bow Wow Wow",
-        "url": "https://open.spotify.com/album/7kTKe2ALE0FDt0OuuiIAqF"
-      },
-      "artists": [
-        {
-          "name": "Bow Wow Wow",
-          "url": "https://open.spotify.com/artist/52K4ArhA4OgMO7AsyEgqCT"
-        }
-      ],
-      "duration_ms": 161933,
-      "name": "I Want Candy",
-      "url": "https://open.spotify.com/track/60UZlV9G08xkjcmwsiVteK"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Cupid & Psyche 85",
         "url": "https://open.spotify.com/album/0nBH3ITWaQDYT2wAWRdg3K"
       },
@@ -2195,6 +2179,22 @@
       "duration_ms": 288080,
       "name": "Wood Beez",
       "url": "https://open.spotify.com/track/5uhxoEaWGasTiGwLV6azhH"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "Love, Peace & Harmony The Best Of Bow Wow Wow",
+        "url": "https://open.spotify.com/album/7kTKe2ALE0FDt0OuuiIAqF"
+      },
+      "artists": [
+        {
+          "name": "Bow Wow Wow",
+          "url": "https://open.spotify.com/artist/52K4ArhA4OgMO7AsyEgqCT"
+        }
+      ],
+      "duration_ms": 161933,
+      "name": "I Want Candy",
+      "url": "https://open.spotify.com/track/60UZlV9G08xkjcmwsiVteK"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -2307,18 +2307,18 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Having Fun? (The Expanded Edition)",
-        "url": "https://open.spotify.com/album/5AfqRMKpHj7MLGUMnstaWd"
+        "name": "A Brief History Of The 20th Century",
+        "url": "https://open.spotify.com/album/50FXBXMSnzly1s5uIlNW7x"
       },
       "artists": [
         {
-          "name": "What Fun!",
-          "url": "https://open.spotify.com/artist/1ErsjAAijzAXVpO4W8YTh7"
+          "name": "Gang Of Four",
+          "url": "https://open.spotify.com/artist/3AmWjMXXtBJOmNGpUFSOAl"
         }
       ],
-      "duration_ms": 227109,
-      "name": "The Right Side Won",
-      "url": "https://open.spotify.com/track/11kQekR2aajih2wNmE6mI9"
+      "duration_ms": 299600,
+      "name": "To Hell With Poverty",
+      "url": "https://open.spotify.com/track/5meAeH2xj8CkB5ZUahQJQ6"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -2339,18 +2339,18 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "A Brief History Of The 20th Century",
-        "url": "https://open.spotify.com/album/50FXBXMSnzly1s5uIlNW7x"
+        "name": "Having Fun? (The Expanded Edition)",
+        "url": "https://open.spotify.com/album/5AfqRMKpHj7MLGUMnstaWd"
       },
       "artists": [
         {
-          "name": "Gang Of Four",
-          "url": "https://open.spotify.com/artist/3AmWjMXXtBJOmNGpUFSOAl"
+          "name": "What Fun!",
+          "url": "https://open.spotify.com/artist/1ErsjAAijzAXVpO4W8YTh7"
         }
       ],
-      "duration_ms": 299600,
-      "name": "To Hell With Poverty",
-      "url": "https://open.spotify.com/track/5meAeH2xj8CkB5ZUahQJQ6"
+      "duration_ms": 227109,
+      "name": "The Right Side Won",
+      "url": "https://open.spotify.com/track/11kQekR2aajih2wNmE6mI9"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -2407,22 +2407,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "The Correct Use Of Soap",
-        "url": "https://open.spotify.com/album/0CADblPa3Ui6lnv4251m08"
-      },
-      "artists": [
-        {
-          "name": "Magazine",
-          "url": "https://open.spotify.com/artist/4VuMnSnoTGrma3a79UhfMs"
-        }
-      ],
-      "duration_ms": 237653,
-      "name": "Because You're Frightened - Remastered 2007",
-      "url": "https://open.spotify.com/track/7I2F04fUq0DAetR5BMcQYc"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "20th Century Masters: The Millennium Collection: Best Of ABC",
         "url": "https://open.spotify.com/album/25wSOjnexSXVdtSmUyELkk"
       },
@@ -2435,6 +2419,22 @@
       "duration_ms": 210706,
       "name": "The Look Of Love, Pt.1",
       "url": "https://open.spotify.com/track/0JdH2hTeU4zrC7zwiAJ6ck"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "The Correct Use Of Soap",
+        "url": "https://open.spotify.com/album/0CADblPa3Ui6lnv4251m08"
+      },
+      "artists": [
+        {
+          "name": "Magazine",
+          "url": "https://open.spotify.com/artist/4VuMnSnoTGrma3a79UhfMs"
+        }
+      ],
+      "duration_ms": 237653,
+      "name": "Because You're Frightened - Remastered 2007",
+      "url": "https://open.spotify.com/track/7I2F04fUq0DAetR5BMcQYc"
     },
     {
       "added_at": "2023-05-03 07:47:14",

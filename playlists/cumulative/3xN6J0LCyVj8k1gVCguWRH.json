@@ -15605,6 +15605,28 @@
     },
     {
       "album": {
+        "name": "Downtown",
+        "url": "https://open.spotify.com/album/02S7VitGqrpP4xE5TnJ7eE"
+      },
+      "artists": [
+        {
+          "name": "ellee ven",
+          "url": "https://open.spotify.com/artist/68W5IWYUEsW0ahQS7LPp9x"
+        },
+        {
+          "name": "Prod\u00e9je",
+          "url": "https://open.spotify.com/artist/0WUZY9y7pD32XT7vDZKslp"
+        }
+      ],
+      "date_added": "2024-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230859,
+      "name": "Downtown",
+      "url": "https://open.spotify.com/track/2n8SGGWXOP5eZGkPHN5Ld8"
+    },
+    {
+      "album": {
         "name": "The City",
         "url": "https://open.spotify.com/album/1xKJhi35CaAsgcF6nBWx5G"
       },
@@ -41227,6 +41249,24 @@
     },
     {
       "album": {
+        "name": "One More Night",
+        "url": "https://open.spotify.com/album/3YZaDQREdy6DYgrrog6r2j"
+      },
+      "artists": [
+        {
+          "name": "Tessa Dalton",
+          "url": "https://open.spotify.com/artist/7etJFhazXNIjnJZWAfn1WA"
+        }
+      ],
+      "date_added": "2024-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179172,
+      "name": "One More Night",
+      "url": "https://open.spotify.com/track/6P1JCV5JYg75u7YLq79BZc"
+    },
+    {
+      "album": {
         "name": "One More Szn",
         "url": "https://open.spotify.com/album/4C2PHcs4ASj9IJq6YdnvY3"
       },
@@ -54028,7 +54068,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-26",
+      "date_removed": null,
       "duration_ms": 185793,
       "name": "Tangled Up In Blue",
       "url": "https://open.spotify.com/track/3C4Zea52Xn9iTc25JH0jEJ"
@@ -60142,6 +60182,24 @@
       "duration_ms": 141573,
       "name": "Warm Soul",
       "url": "https://open.spotify.com/track/66wswCojBn33ZKM7bFmg4E"
+    },
+    {
+      "album": {
+        "name": "Wasetime",
+        "url": "https://open.spotify.com/album/0kesHQpP91fQoxWOtTtszj"
+      },
+      "artists": [
+        {
+          "name": "Shawn Cook",
+          "url": "https://open.spotify.com/artist/2eKk5iKLyGpWo9IBLrPjSv"
+        }
+      ],
+      "date_added": "2024-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113280,
+      "name": "Wasetime",
+      "url": "https://open.spotify.com/track/2IS4z9k9zy6bbH9xvGUTBv"
     },
     {
       "album": {

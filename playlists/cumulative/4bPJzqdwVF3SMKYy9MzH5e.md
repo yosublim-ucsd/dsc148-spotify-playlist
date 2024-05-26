@@ -4,7 +4,7 @@
 
 > 
 
-1,902 songs - 4 day 6 hr 37 min
+1,904 songs - 4 day 6 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,7 +189,7 @@
 | [Basta Ya](https://open.spotify.com/track/4CUTUsBGjHslu2Bd3AOXGg) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Superclean, Vol\. I](https://open.spotify.com/album/5XX1xVOP61GDQCGaZMLjhO) | 2:56 | 2021-08-05 |  |
 | [Batsu Forever](https://open.spotify.com/track/40b648tmm8eB92nB3AovHt) | [Machine Girl](https://open.spotify.com/artist/17Vw9uuOYB7XYjPt0LNFN0) | [U\-Void Synthesizer](https://open.spotify.com/album/2Hao6BBoElsB9A3JFeSo9n) | 3:51 | 2023-05-02 |  |
 | [Be Quiet and Drive \(Far Away\)](https://open.spotify.com/track/4Uiw0Sl9yskBaC6P4DcdVD) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Around the Fur](https://open.spotify.com/album/7o4UsmV37Sg5It2Eb7vHzu) | 4:59 | 2022-02-04 |  |
-| [Beach Life\-In\-Death](https://open.spotify.com/track/2riZAvd3GGUp0Wm9cJZD4r) | [Car Seat Headrest](https://open.spotify.com/artist/5PbpKlxQE0Ktl5lcNABoFf) | [Twin Fantasy \(Mirror To Mirror\)](https://open.spotify.com/album/5aqXdOgdhpSfYcCde4SHgI) | 12:10 | 2021-11-14 |  |
+| [Beach Life\-In\-Death](https://open.spotify.com/track/2riZAvd3GGUp0Wm9cJZD4r) | [Car Seat Headrest](https://open.spotify.com/artist/5PbpKlxQE0Ktl5lcNABoFf) | [Twin Fantasy \(Mirror To Mirror\)](https://open.spotify.com/album/5aqXdOgdhpSfYcCde4SHgI) | 12:10 | 2021-11-14 | 2024-05-26 |
 | [Beaches](https://open.spotify.com/track/42VTmF0VpIx8r0O995aNdA) | [Black Honey](https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS) | [Written & Directed](https://open.spotify.com/album/6hODMaWCw1sz39hkaSWgMW) | 3:00 | 2021-08-05 |  |
 | [Beautiful People Beautiful Problems \(feat\. Stevie Nicks\)](https://open.spotify.com/track/3O7p9Itz8PXUoAjD2vmuM6) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Lust For Life](https://open.spotify.com/album/7xYiTrbTL57QO0bb4hXIKo) | 4:13 | 2021-08-05 |  |
 | [Beehive](https://open.spotify.com/track/5NSDy7Wts5mvEZM63mQl0r) | [Gaffa Tape Sandy](https://open.spotify.com/artist/00P2dAOymeYKFx4OSaVgw1) | [Family Mammal](https://open.spotify.com/album/1BO7FtrmddhXgemo7FDukl) | 3:32 | 2021-08-05 |  |
@@ -655,6 +655,7 @@
 | [ghost](https://open.spotify.com/track/3bHNLvNojpl06v7yQhPxxu) | [Zaphyre](https://open.spotify.com/artist/1Cqnru4BRLrT2H6v7nZaRs) | [ghost](https://open.spotify.com/album/4YCnZgIeVYeM2vD3I6SDXk) | 3:09 | 2023-02-20 |  |
 | [ghostin](https://open.spotify.com/track/2vdBo4ALPYbHRUPKgtE5iC) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [thank u, next](https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw) | 4:31 | 2021-08-05 |  |
 | [Ghosting](https://open.spotify.com/track/3vZUC1m6QVm7urnN6lcF64) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [O My Heart](https://open.spotify.com/album/0X7S0TEZ5NJsSxmyTnfYi2) | 4:45 | 2022-04-03 |  |
+| [Gimme Bass](https://open.spotify.com/track/29mAlA42YLtpgMDWBmKb17) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf) | [Gimme Bass](https://open.spotify.com/album/4tGntCkV48pCNwIlKAMays) | 2:44 | 2024-05-25 |  |
 | [Ginger Claps](https://open.spotify.com/track/42UDQ4nsp2aYpPjQm8svSR) | [Machine Girl](https://open.spotify.com/artist/17Vw9uuOYB7XYjPt0LNFN0) | [Wlfgrl](https://open.spotify.com/album/1xbcqJ0EAMxyGyffMzO8rL) | 3:04 | 2022-06-02 |  |
 | [Girl Anachronism](https://open.spotify.com/track/6Zbv79YWB0iZSXwIwEsIOP) | [The Dresden Dolls](https://open.spotify.com/artist/5JqX1glXPg6428ubI1w72i) | [The Dresden Dolls](https://open.spotify.com/album/3BMhZk7YVMQBh0Y4DuyNSt) | 2:59 | 2022-04-19 |  |
 | [Girl156BPM](https://open.spotify.com/track/3IMXe0HhEQu5AjT31HIsvL) | [Windowshopping](https://open.spotify.com/artist/0y0oVfboNhPRm14rOzNann) | [Andromeda](https://open.spotify.com/album/2cDY4wa1QeqFmp5i1ma5tZ) | 3:22 | 2023-04-20 |  |
@@ -1124,7 +1125,7 @@
 | [My Alcoholic Friends](https://open.spotify.com/track/2gvmxusSOe3vNjNDjQWaso) | [The Dresden Dolls](https://open.spotify.com/artist/5JqX1glXPg6428ubI1w72i) | [Yes, Virginia](https://open.spotify.com/album/1jcVHOTgDFDb5nLh2wTCaR) | 2:47 | 2022-02-04 |  |
 | [My Axe](https://open.spotify.com/track/21DhGvrfC9W2FBjW5EJmWE) | [Insane Clown Posse](https://open.spotify.com/artist/4xtWjIlVuZwTCeqVAsgEXy) | [Jugganauts \- The Best Of ICP](https://open.spotify.com/album/1SjluyIg7rIF87i76JxlhH) | 3:53 | 2021-08-05 |  |
 | [my boy](https://open.spotify.com/track/1RGasjWLZ4qMN7wbtkLa3u) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [dont smile at me](https://open.spotify.com/album/7fRrTyKvE4Skh93v97gtcU) | 2:50 | 2021-08-05 |  |
-| [My Boy \- Twin Fantasy](https://open.spotify.com/track/2fvXVJJCTc0Q9KkRM0eOpP) | [Car Seat Headrest](https://open.spotify.com/artist/5PbpKlxQE0Ktl5lcNABoFf) | [Twin Fantasy \(Mirror To Mirror\)](https://open.spotify.com/album/5aqXdOgdhpSfYcCde4SHgI) | 2:49 | 2021-11-14 |  |
+| [My Boy \- Twin Fantasy](https://open.spotify.com/track/2fvXVJJCTc0Q9KkRM0eOpP) | [Car Seat Headrest](https://open.spotify.com/artist/5PbpKlxQE0Ktl5lcNABoFf) | [Twin Fantasy \(Mirror To Mirror\)](https://open.spotify.com/album/5aqXdOgdhpSfYcCde4SHgI) | 2:49 | 2021-11-14 | 2024-05-26 |
 | [My Desperate House](https://open.spotify.com/track/1QlvnF442xOesxP8LZEyvj) | [Gaffa Tape Sandy](https://open.spotify.com/artist/00P2dAOymeYKFx4OSaVgw1) | [Family Mammal](https://open.spotify.com/album/1BO7FtrmddhXgemo7FDukl) | 2:59 | 2021-08-05 |  |
 | [My Girls](https://open.spotify.com/track/2gE0khQ948RYQOeTgCUL2a) | [Animal Collective](https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj) | [Merriweather Post Pavilion](https://open.spotify.com/album/5O9OXl9zAWMJTzawofxuan) | 5:40 | 2021-08-05 |  |
 | [My Head Hurts](https://open.spotify.com/track/197NViGw2gfXEKMJEQFWPE) | [strxwberrymilk](https://open.spotify.com/artist/6ZwmyApIe9gFarOGcDhnd1) | [Music for Awkward Dates](https://open.spotify.com/album/11boHgROx5LlPmMs6MymUk) | 3:06 | 2022-06-09 |  |
@@ -1311,6 +1312,7 @@
 | [Pretty Girl](https://open.spotify.com/track/0KyAGiNGUytG5JLxJu4F6l) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Pretty Girl](https://open.spotify.com/album/3nkwKrSQJ9l84VV8uuymk9) | 2:58 | 2021-08-05 |  |
 | [Pretty Girl Vamp](https://open.spotify.com/track/3CeoqupTfHWakwrxdlifjQ) | [Xtick Man](https://open.spotify.com/artist/6lPMmlVmdWSQC0ZlCexBc3), [ODECORE](https://open.spotify.com/artist/3GMH7ApqfVpvBM1MuToQR7) | [Pretty Girl Vamp](https://open.spotify.com/album/4GjgVQ101KFLFtFTbt23MD) | 2:27 | 2024-03-04 |  |
 | [Pretty Girls](https://open.spotify.com/track/3c0NlyfimtupjK3PlaQDLl) | [Michael Seyer](https://open.spotify.com/artist/7K4cef9h3NvU7Xb3BH7Ade) | [Ugly Boy](https://open.spotify.com/album/3LqeHSxJ6ENNUZAx9fwiPe) | 3:46 | 2021-11-14 |  |
+| [Pretty Rave Girl](https://open.spotify.com/track/3G1SVODcssMmS5YM5G3tun) | [S3RL](https://open.spotify.com/artist/11aa081aKYUzmeFm0yHdT2) | [Old Skool Masters \- S3RL](https://open.spotify.com/album/4DG2AOiKIXzl41ySz4KAsB) | 6:03 | 2024-05-25 |  |
 | [Pretty When You Cry](https://open.spotify.com/track/6PnluwP0fjGnpIBsqTdUTq) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Ultraviolence \(Deluxe\)](https://open.spotify.com/album/1ORxRsK3MrSLvh7VQTF01F) | 3:54 | 2022-02-04 |  |
 | [PRIDE.](https://open.spotify.com/track/6IZvVAP7VPPnsGX6bvgkqg) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [DAMN.](https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY) | 4:35 | 2021-12-30 |  |
 | [Primadonna](https://open.spotify.com/track/5tFMuAw6X2R4NLx97g7n9q) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [Electra Heart \(Deluxe\)](https://open.spotify.com/album/5N1aNUXaHDD7YsjhbCM9JZ) | 3:41 | 2021-08-05 |  |
@@ -1551,7 +1553,7 @@
 | [Stigmata Martyr](https://open.spotify.com/track/4dga7PnLJ870cfrXevpMDi) | [Bauhaus](https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi) | [In the Flat Field](https://open.spotify.com/album/4hPJRedKOmbvKnLdzV9w1w) | 3:41 | 2022-05-18 |  |
 | [still feel.](https://open.spotify.com/track/4EcYqXGZ1MOl7gBLcRO9Ya) | [half•alive](https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k) | [still feel.](https://open.spotify.com/album/4RTurpeSKtgEAvSeEehsiO) | 4:07 | 2022-02-04 |  |
 | [Still into You](https://open.spotify.com/track/1yjY7rpaAQvKwpdUliHx0d) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Paramore](https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF) | 3:36 | 2021-08-05 |  |
-| [Stop Smoking](https://open.spotify.com/track/0yYO7nefluCsK7EV5NMwVT) | [Car Seat Headrest](https://open.spotify.com/artist/5PbpKlxQE0Ktl5lcNABoFf) | [Twin Fantasy \(Mirror To Mirror\)](https://open.spotify.com/album/5aqXdOgdhpSfYcCde4SHgI) | 1:27 | 2021-11-14 |  |
+| [Stop Smoking](https://open.spotify.com/track/0yYO7nefluCsK7EV5NMwVT) | [Car Seat Headrest](https://open.spotify.com/artist/5PbpKlxQE0Ktl5lcNABoFf) | [Twin Fantasy \(Mirror To Mirror\)](https://open.spotify.com/album/5aqXdOgdhpSfYcCde4SHgI) | 1:27 | 2021-11-14 | 2024-05-26 |
 | [Straight To Video](https://open.spotify.com/track/1og9xlfpYrCNnVGRqSBHWs) | [Mindless Self Indulgence](https://open.spotify.com/artist/5R5MLOQbI4lb7GHYioPqoN) | [You'll Rebel to Anything \(Expanded and Remastered 2008\)](https://open.spotify.com/album/4fIVLcTjPnagYnDmTivhiY) | 3:43 | 2021-08-05 |  |
 | [Strawberry](https://open.spotify.com/track/3cAjbl9YhV7gINjbQxkHuT) | [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM) | [4 New Hit Songs](https://open.spotify.com/album/5dIfE5jduadGvTJRtV9q3F) | 3:29 | 2022-04-03 |  |
 | [Strawberry Shortcake](https://open.spotify.com/track/57OBlxZRcRyHFdlXlsHP7G) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [K\-12](https://open.spotify.com/album/1KerGJUScYGffP3Mjmjz8c) | 3:04 | 2021-08-05 |  |

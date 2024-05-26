@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Endelig fredag! 🎵
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,444 likes - 108 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,476 likes - 108 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,7 +111,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 101 | [kriminell](https://open.spotify.com/track/3C6hhU7ayidfuohS4P8vMr) | [VILDE](https://open.spotify.com/artist/6hvYVDtoWdLHQKRSEyl7oq), [BABYLUCIFA](https://open.spotify.com/artist/6Xa9I7nKRo9ZjU65jG55k4) | [kriminell](https://open.spotify.com/album/0gv1qamp6v9oVnCrCat2vX) | 2:21 |
 | 102 | [Growing Story](https://open.spotify.com/track/6LYuwb0avQJNhIkcp5Zfjq) | [Pom Poko](https://open.spotify.com/artist/4RkC3KmYWnr6PM1FM5Shwz) | [Growing Story](https://open.spotify.com/album/79MStnsQdeiY2YQ6YwWlC7) | 3:32 |
 | 103 | [Farlig](https://open.spotify.com/track/1XJwauCo6yfFoTpIE0ldQq) | [William](https://open.spotify.com/artist/0nh7QCv37pMZFIN6vRKidB) | [Farlig](https://open.spotify.com/album/2aGhZJhPOreDfDgdM5lLvv) | 2:10 |
-| 104 | [Vil du komme over?](https://open.spotify.com/track/7qNKViZ2nQylwhuySzlqfi) | [Bare Andy](https://open.spotify.com/artist/6IpOWXE5U9K6vYTBgaRkrU) | [Finest etter klokken to](https://open.spotify.com/album/3b7yWCg10udqgqn6MIzKME) | 2:19 |
+| 104 | [Vil du komme over?](https://open.spotify.com/track/7qNKViZ2nQylwhuySzlqfi) | [Bare Andy](https://open.spotify.com/artist/6IpOWXE5U9K6vYTBgaRkrU) | [finest etter klokka to](https://open.spotify.com/album/3b7yWCg10udqgqn6MIzKME) | 2:19 |
 | 105 | [Mi Amigo](https://open.spotify.com/track/0uTyaWN0L8NAAQHYn9oRfL) | [TuVeia](https://open.spotify.com/artist/07BGSPHXFOdX2Ln6McOd1z) | [Mi Amigo](https://open.spotify.com/album/2MjvnBSokapL4IHsdAsfF2) | 2:20 |
 | 106 | [Careful](https://open.spotify.com/track/3TX0mrJJ3NkewcIxHvthKU) | [Yndling](https://open.spotify.com/artist/2X2ErfWZbEsawLjylqXM3m) | [Careful](https://open.spotify.com/album/4GKpov6UbtDe6jJGbuh3t2) | 4:01 |
 | 107 | [You'll Never Lose Affection](https://open.spotify.com/track/74QHvED66bGkJ411iWOOTM) | [tigerstate](https://open.spotify.com/artist/5IASPTbco70KYmxQwSg8E1) | [You'll Never Lose Affection](https://open.spotify.com/album/2Q1Q828W11uLQETgWxmjnF) | 3:11 |

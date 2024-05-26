@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina\. Alex Anwandter en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 286,910 likes - 55 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,915 likes - 55 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 33 | [AGUA PÚRPURA](https://open.spotify.com/track/59xH68IkNJmTCRKT7u4NU7) | [Edu Requejo](https://open.spotify.com/artist/6ZNFH9pfiRpTSgJaKQBb8M), [Chezca Zana](https://open.spotify.com/artist/5Jm1KbeBcnijiLEb5RKDQS) | [AGUA PÚRPURA](https://open.spotify.com/album/2srnTeyN1WsFxZUdBnEW5r) | 2:58 |
 | 34 | [Quizá Podría Responderte El Último Mensaje](https://open.spotify.com/track/37qnLjIxoWvIMOmGC4kBbd) | [iloveyoubrazzy](https://open.spotify.com/artist/2bdXAwgfD3yGsf25Ba0UBs) | [Quizá Podría Responderte El Último Mensaje](https://open.spotify.com/album/3xY0bxWqKHSRnCmED3veOG) | 2:46 |
 | 35 | [Lugares](https://open.spotify.com/track/1X176MhrlBhaQbAOiPJ91g) | [Mon Dvy](https://open.spotify.com/artist/7MoX5e6PR4dvaoCXKXgZQ6) | [Lugares](https://open.spotify.com/album/1WWDsY8GjIBm9PiK06DOAz) | 2:24 |
-| 36 | [HELLO PITI](https://open.spotify.com/track/02qzGFQ2zbuMPPyDXXs6CB) | [Korashe](https://open.spotify.com/artist/0HFSv9JWkZcY2K4yLGNaHS), [Kfé](https://open.spotify.com/artist/21Oja0BVOrXu4kGqK8MfDF) | [HELLO PITI](https://open.spotify.com/album/57qRNanR544Lq3kOxDDl3p) | 2:21 |
+| 36 | [HELLO PITI](https://open.spotify.com/track/02qzGFQ2zbuMPPyDXXs6CB) | [Korashe](https://open.spotify.com/artist/0HFSv9JWkZcY2K4yLGNaHS), [Kfé](https://open.spotify.com/artist/21Oja0BVOrXu4kGqK8MfDF) | [HELLO PITI](https://open.spotify.com/album/57qRNanR544Lq3kOxDDl3p) | 2:23 |
 | 37 | [Rostro Galán](https://open.spotify.com/track/47Imff4KxvTZiXpT9BFOOH) | [Pol](https://open.spotify.com/artist/0di3IdbM04Sd886p1steuf) | [Rostro Galán](https://open.spotify.com/album/3NE161YcUHQfTpegwDgfEA) | 4:16 |
 | 38 | [Egoísta](https://open.spotify.com/track/2oiiDN3waTcLlVoA3hbkOA) | [Las Petunias](https://open.spotify.com/artist/5ahvDss0AH60cd2AWqoU1r) | [Egoísta](https://open.spotify.com/album/0EloxjDXur8gV3KPO0odPq) | 2:52 |
 | 39 | [El Momento](https://open.spotify.com/track/4OmvPN9tDdLYGrCqBg1jbI) | [Aquiles Moon](https://open.spotify.com/artist/1UejGxMb9Ad1LkvLbphlq4) | [No Te Olvidaré](https://open.spotify.com/album/2GqzXaB7Nf7djK242Rh4hJ) | 3:41 |

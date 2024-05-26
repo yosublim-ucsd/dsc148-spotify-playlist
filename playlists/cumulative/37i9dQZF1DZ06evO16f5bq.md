@@ -2,7 +2,7 @@
 
 ### [This Is MC Cabelinho](https://open.spotify.com/playlist/37i9dQZF1DZ06evO16f5bq)
 
-> This is MC Cabelinho。アーティストの代表曲をひとつのプレイリストに。
+> This is MC Cabelinho\. Todos os maiores hits em uma só playlist.
 
 62 songs - 4 hr 5 min
 

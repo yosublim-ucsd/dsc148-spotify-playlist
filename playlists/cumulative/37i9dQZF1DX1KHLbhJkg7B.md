@@ -4,7 +4,7 @@
 
 > Unique covers by your favorite country artists\. Cover: Kane Brown
 
-382 songs - 23 hr 54 min
+383 songs - 23 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Chasing Cars](https://open.spotify.com/track/5cJVYEIjmjGqKhqD5ggGLe) | [Ryan Waters Band](https://open.spotify.com/artist/3R2ZcnOHyjuj0a61bq9GTi) | [Chasing Cars](https://open.spotify.com/album/0rssTXPsHka5HdX61YbpMG) | 3:57 | 2023-03-10 |  |
 | [Circles](https://open.spotify.com/track/0xESLu1HGNj3xrvsmU0XMO) | [Abby Anderson](https://open.spotify.com/artist/0WicR9iYAPd0Bi7i3bz9MB), [The 615 House](https://open.spotify.com/artist/2CjBXcTF8Jd9WHHA2rOg0q) | [Circles](https://open.spotify.com/album/7ByBR4dghH8plBWsCl9hBy) | 3:18 | 2023-01-06 | 2023-06-03 |
 | [Circles](https://open.spotify.com/track/5woKIzrEkkeOvfaNFagz4c) | [The Cadillac Three](https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x) | [Circles](https://open.spotify.com/album/6hFwcjXV8jE2lzOn32uAlK) | 3:14 | 2021-12-10 | 2023-10-28 |
-| [Clay Pigeons](https://open.spotify.com/track/4wRaxwESUculLyFFXJIGNg) | [Luke Grimes](https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y) | [Clay Pigeons](https://open.spotify.com/album/0mfCJkowstwfyLwXA3r7Gz) | 3:50 | 2023-12-01 |  |
+| [Clay Pigeons](https://open.spotify.com/track/4wRaxwESUculLyFFXJIGNg) | [Luke Grimes](https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y) | [Clay Pigeons](https://open.spotify.com/album/0mfCJkowstwfyLwXA3r7Gz) | 3:50 | 2023-12-01 | 2024-05-26 |
 | [Come Fly with Me](https://open.spotify.com/track/7C1HA5sMYMZAZ1yvIOZ1Qw) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Let's Be Frank](https://open.spotify.com/album/62pT5GFAvi6n5RYrb7Yhkt) | 3:10 | 2022-01-07 | 2022-07-29 |
 | [Coming Home](https://open.spotify.com/track/4pWb8UZ6IPVJA3CPjCNgzq) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Graffiti U](https://open.spotify.com/album/52aaxT2Se2oUyijUbWwp3Z) | 3:33 | 2021-12-10 | 2022-09-10 |
 | [Country State Of Mind](https://open.spotify.com/track/1vVbMOgQbT7kp3Ri0gI9KR) | [Josh Turner](https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT), [Chris Janson](https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9) | [Country State Of Mind](https://open.spotify.com/album/6srulwxu8B7uv7A6olGYMH) | 4:02 | 2021-12-10 | 2022-07-22 |
@@ -263,6 +263,7 @@
 | [Prop Me Up Beside The Jukebox \(If I Die\)](https://open.spotify.com/track/6h50iRRuK4fpjtOLkWOtAl) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Rancho Fiesta Sessions](https://open.spotify.com/album/01AWRFHGz9ioWiPcFgqGrv) | 3:48 | 2021-12-10 | 2022-07-19 |
 | [rainbow](https://open.spotify.com/track/46Ga2kf5pfMcFINTIx0kXI) | [Gatton](https://open.spotify.com/artist/09wV1iFg4DBtreMGzepTaE) | [rainbow](https://open.spotify.com/album/7xi7Dl3oKoCK8lQeQnyhFd) | 3:22 | 2022-07-08 | 2023-01-06 |
 | [Redneck Girl](https://open.spotify.com/track/1f8YvsaBEJ69cpHgXlDymU) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd), [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [Redneck Girl](https://open.spotify.com/album/1XpyCjWjSvgBHWYuoge9zL) | 3:43 | 2021-12-10 | 2022-07-28 |
+| [Refugee](https://open.spotify.com/track/607QAv6xaTMW1tkjgx59JE) | [Wynonna](https://open.spotify.com/artist/4yiXkMbxDIZ3jgEG89NSC1), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Refugee](https://open.spotify.com/album/7snxpZlyi8B7T6dEi3zw1k) | 3:50 | 2024-05-24 |  |
 | [Rhinestone Cowboy](https://open.spotify.com/track/3VNyWCyvBz42RdCeO6rD44) | [William Michael Morgan](https://open.spotify.com/artist/03tfKFHhDoDqF73vCI3cxn) | [Rhinestone Cowboy](https://open.spotify.com/album/1mSLs8jfMCK49LDrMcXrn9) | 3:24 | 2022-03-25 | 2022-06-18 |
 | [Ring of Fire](https://open.spotify.com/track/5HBjOCb4Z38T6b3ywNGwWF) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [34 Number Ones](https://open.spotify.com/album/26w8J2SKCxa80Bwq6G8ctN) | 3:11 | 2022-03-25 | 2022-09-10 |
 | [River In The Rain](https://open.spotify.com/track/4p1NuLTJwxtDOpYM8e4hAh) | [Joshua Hedley](https://open.spotify.com/artist/6OJg4GNkAEtu0cfDVRbnjh) | [River In The Rain](https://open.spotify.com/album/2YQxIZ1h6URIjk35ZeqBQw) | 3:53 | 2022-03-25 | 2022-07-09 |

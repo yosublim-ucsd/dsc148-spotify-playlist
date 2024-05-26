@@ -4,7 +4,7 @@
 
 > Soft instrumental jazz for working or studying.
 
-880 songs - 2 day 7 hr 22 min
+881 songs - 2 day 7 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -458,7 +458,7 @@
 | [Love's Declaration](https://open.spotify.com/track/1Af92SAPa18SSvdcdjJ0xB) | [Gail Cameron](https://open.spotify.com/artist/3xmDjA6LY5tG4L7AmNPTXg) | [Love's Declaration](https://open.spotify.com/album/7vCrLBacRaLY8VLcL9hBml) | 3:37 | 2024-02-02 |  |
 | [Lovely Valentine](https://open.spotify.com/track/1xWEYPgtgsPUWV0me7xDaR) | [More than Jazz](https://open.spotify.com/artist/6BLANsh44CPzD19TF0X0Et) | [Lovely Valentine](https://open.spotify.com/album/4lR2iVue0j91lWbkRbQGys) | 3:58 | 2024-02-23 | 2024-04-20 |
 | [Lover Man](https://open.spotify.com/track/4bbRXKb4z1S9GOD2ePqDbo) | [Saginaw Society](https://open.spotify.com/artist/6DZHD4qSGUFPJVZZARcJDY) | [Lover Man](https://open.spotify.com/album/66rWCna2T5ZxRGiFkEYWpk) | 4:16 | 2023-08-10 | 2024-03-24 |
-| [Lover Man \- Remastered](https://open.spotify.com/track/7hjJTsKBkmmQgqQ6ZFakSg) | [Warne Marsh](https://open.spotify.com/artist/1yVmVSKnpfLDIAbghFMN3D) | [Intuition](https://open.spotify.com/album/2N1GYQNZRsS964RxWCjWVc) | 4:30 | 2021-12-16 |  |
+| [Lover Man \- Remastered](https://open.spotify.com/track/7hjJTsKBkmmQgqQ6ZFakSg) | [Warne Marsh](https://open.spotify.com/artist/1yVmVSKnpfLDIAbghFMN3D) | [Intuition](https://open.spotify.com/album/2N1GYQNZRsS964RxWCjWVc) | 4:30 | 2021-12-16 | 2024-05-26 |
 | [Lovestrung](https://open.spotify.com/track/57tNKYlNeknPlPFvMXsMaK) | [Rossdale Junction](https://open.spotify.com/artist/07lLIhOAtuwjGaZ0goh3iO) | [Lovestrung](https://open.spotify.com/album/7pGN97RlbphE3ap1UsWReS) | 3:19 | 2024-03-08 |  |
 | [Ludlow](https://open.spotify.com/track/2EhrFpsVC4rkiCf86AeVdv) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [Easy Dreamin'](https://open.spotify.com/album/4JkR0RYW5wCohQPke2Kwl2) | 3:03 | 2023-01-05 |  |
 | [Lumberjacks'](https://open.spotify.com/track/4Za1MUR7dLiKbvYHxlMjhQ) | [Jacky Bonnet Group](https://open.spotify.com/artist/6raCh9DUKDTErUk5QmRYzX) | [Lumberjacks'](https://open.spotify.com/album/5Hx0WztbDPWqBbjr2pjxyU) | 2:30 | 2023-01-05 |  |
@@ -815,6 +815,7 @@
 | [Walk Away](https://open.spotify.com/track/3GusQLpr2foU14c82En19S) | [The City of Birches](https://open.spotify.com/artist/6fGGglYJY8D22eJtcjgg8S) | [Walk Away](https://open.spotify.com/album/6X70Wc5iw2UvF2unoNb43G) | 3:56 | 2023-11-17 |  |
 | [Walk Beside Me](https://open.spotify.com/track/7eyXx9ngV1jkChWMPuR6al) | [Gabriel Gonzalez](https://open.spotify.com/artist/5bL2hXMTtmocrHU3BqsZ4U) | [Walk Beside Me](https://open.spotify.com/album/2dNuBRAlgAWOXFyw3w6GOA) | 3:20 | 2024-05-10 |  |
 | [Walking into Love](https://open.spotify.com/track/5j3WbWhQJpANH3HFWHtLq5) | [Nordic Swing](https://open.spotify.com/artist/5LL0LIw64LrSLwmZEhJNq4) | [Walking into Love](https://open.spotify.com/album/2lfst2A0Lbz8kpzxprjnM2) | 3:17 | 2023-06-01 |  |
+| [Walking You Home](https://open.spotify.com/track/0FGssXb5s6d7QPLFQLE4OO) | [Mino Conte & Co](https://open.spotify.com/artist/1kzntvfEnEvuhMeA3IcaZi) | [Walking You Home](https://open.spotify.com/album/3SJawp8ghUJ2HrbZ8kcpKi) | 2:59 | 2024-05-23 |  |
 | [Wallflower](https://open.spotify.com/track/5UmbhPeNquH5OmwJ8oGuAP) | [Isac Solo Trio](https://open.spotify.com/artist/0PQJ8CW64ZpCQTXIWvpkUN) | [Wallflower](https://open.spotify.com/album/3tzw5TaV9l6hhMczQiTSPK) | 3:40 | 2023-09-29 |  |
 | [Waltz At Midnight](https://open.spotify.com/track/6fmBZeSeM8Cp4mNivC7AGT) | [Midtown Trio](https://open.spotify.com/artist/6WVEwzrXXaJ8JTk1KLkleT) | [Waltz At Midnight](https://open.spotify.com/album/2qKhcF6JaeTuNcr1uzrcY8) | 3:34 | 2023-06-01 |  |
 | [Was It Me?](https://open.spotify.com/track/6Q0qioDylmmGPhj2s7qo4q) | [Al Fowler Trio](https://open.spotify.com/artist/5CerxxaCrkjDa5ShjsTwcX) | [Was It Me?](https://open.spotify.com/album/2NBKYZxvxE535vWtPzIlHv) | 4:21 | 2023-12-08 |  |

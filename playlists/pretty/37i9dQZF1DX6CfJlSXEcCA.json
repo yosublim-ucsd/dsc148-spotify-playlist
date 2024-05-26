@@ -1,6 +1,6 @@
 {
   "description": "Enjoy game soundtracks from Capcom! \u6700\u65b0\u4f5c\u304b\u3089\u904e\u53bb\u307e\u3067\u3001\u591a\u6570\u306e\u4eba\u6c17\u4f5c\u54c1\u3092\u751f\u307f\u51fa\u3057\u305f\u30ab\u30d7\u30b3\u30f3\u306e\u30b2\u30fc\u30e0\u30b5\u30f3\u30c8\u30e9\u3092\u304a\u5c4a\u3051\uff01\u00a9CAPCOM CO., LTD. ALL RIGHTS RESERVED.",
-  "num_followers": 34643,
+  "num_followers": 34653,
   "original_name": "This Is Capcom Sound Team",
   "owner": {
     "name": "Spotify",
@@ -327,22 +327,6 @@
     {
       "added_at": "2021-06-30 15:18:23",
       "album": {
-        "name": "\u30b9\u30c8\u30ea\u30fc\u30c8\u30d5\u30a1\u30a4\u30bf\u30fcV \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (\u30a2\u30fc\u30b1\u30fc\u30c9\u30a8\u30c7\u30a3\u30b7\u30e7\u30f3)",
-        "url": "https://open.spotify.com/album/3sQuNYzXpTcvjsSuVztGf4"
-      },
-      "artists": [
-        {
-          "name": "Masahiro Aoki",
-          "url": "https://open.spotify.com/artist/7jFdaWMEhqH0728GasEiki"
-        }
-      ],
-      "duration_ms": 252133,
-      "name": "Theme of Guile",
-      "url": "https://open.spotify.com/track/76kjxx3RJj4jXtT1YrXarY"
-    },
-    {
-      "added_at": "2021-06-30 15:18:23",
-      "album": {
         "name": "Devil May Cry 5 Special Edition Vergil`s Rebirth Sound Selection",
         "url": "https://open.spotify.com/album/3Kfd2xPzl0IMidlxLbR2vk"
       },
@@ -359,22 +343,18 @@
     {
       "added_at": "2021-06-30 15:18:23",
       "album": {
-        "name": "\u30d0\u30a4\u30aa\u30cf\u30b6\u30fc\u30c9 RE:2 \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
-        "url": "https://open.spotify.com/album/3K4zBWjL4AZxErGjulwr7I"
+        "name": "\u30b9\u30c8\u30ea\u30fc\u30c8\u30d5\u30a1\u30a4\u30bf\u30fcV \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (\u30a2\u30fc\u30b1\u30fc\u30c9\u30a8\u30c7\u30a3\u30b7\u30e7\u30f3)",
+        "url": "https://open.spotify.com/album/3sQuNYzXpTcvjsSuVztGf4"
       },
       "artists": [
         {
-          "name": "Cody Matthew Johnson",
-          "url": "https://open.spotify.com/artist/4P2moEkGVqw8nJ5caJLC41"
-        },
-        {
-          "name": "Shim",
-          "url": "https://open.spotify.com/artist/5y7EC8yURkWnpp3kI0T3jp"
+          "name": "Masahiro Aoki",
+          "url": "https://open.spotify.com/artist/7jFdaWMEhqH0728GasEiki"
         }
       ],
-      "duration_ms": 258750,
-      "name": "Saudade",
-      "url": "https://open.spotify.com/track/7rJQOQJvlsarP7tkPlr8fp"
+      "duration_ms": 252133,
+      "name": "Theme of Guile",
+      "url": "https://open.spotify.com/track/76kjxx3RJj4jXtT1YrXarY"
     },
     {
       "added_at": "2021-06-30 15:18:23",
@@ -395,6 +375,26 @@
       "duration_ms": 298874,
       "name": "\u89e3\u653e\u30ec\u30be\u30ca\u30f3\u30b9 The Soar",
       "url": "https://open.spotify.com/track/60o03jgMfwbnjqLItcPcTa"
+    },
+    {
+      "added_at": "2021-06-30 15:18:23",
+      "album": {
+        "name": "\u30d0\u30a4\u30aa\u30cf\u30b6\u30fc\u30c9 RE:2 \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/3K4zBWjL4AZxErGjulwr7I"
+      },
+      "artists": [
+        {
+          "name": "Cody Matthew Johnson",
+          "url": "https://open.spotify.com/artist/4P2moEkGVqw8nJ5caJLC41"
+        },
+        {
+          "name": "Shim",
+          "url": "https://open.spotify.com/artist/5y7EC8yURkWnpp3kI0T3jp"
+        }
+      ],
+      "duration_ms": 258750,
+      "name": "Saudade",
+      "url": "https://open.spotify.com/track/7rJQOQJvlsarP7tkPlr8fp"
     },
     {
       "added_at": "2021-06-30 15:18:23",
@@ -479,22 +479,6 @@
     {
       "added_at": "2021-06-30 15:18:23",
       "album": {
-        "name": "\u6226\u56fdBASARA \u897f\u8ecdBEST",
-        "url": "https://open.spotify.com/album/21DOCWhm8R6mRKuiEQctKD"
-      },
-      "artists": [
-        {
-          "name": "T\u2019s MUSIC",
-          "url": "https://open.spotify.com/artist/1vJ78AUEDFR40dhshXwW1V"
-        }
-      ],
-      "duration_ms": 126226,
-      "name": "\u9577\u66fe\u6211\u90e8\u5143\u89aa\u306e\u30c6\u30fc\u30de",
-      "url": "https://open.spotify.com/track/2kDR0tn8wc11wetaxGtntt"
-    },
-    {
-      "added_at": "2021-06-30 15:18:23",
-      "album": {
         "name": "\u30d0\u30a4\u30aa\u30cf\u30b6\u30fc\u30c9 6 \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/3iD3OUJv0glDai64IVxMFk"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 230600,
       "name": "Heat on Beat 2012/The Mercenaries",
       "url": "https://open.spotify.com/track/1m3f9gu1huZORuJ2uB34Tm"
+    },
+    {
+      "added_at": "2021-06-30 15:18:23",
+      "album": {
+        "name": "\u6226\u56fdBASARA \u897f\u8ecdBEST",
+        "url": "https://open.spotify.com/album/21DOCWhm8R6mRKuiEQctKD"
+      },
+      "artists": [
+        {
+          "name": "T\u2019s MUSIC",
+          "url": "https://open.spotify.com/artist/1vJ78AUEDFR40dhshXwW1V"
+        }
+      ],
+      "duration_ms": 126226,
+      "name": "\u9577\u66fe\u6211\u90e8\u5143\u89aa\u306e\u30c6\u30fc\u30de",
+      "url": "https://open.spotify.com/track/2kDR0tn8wc11wetaxGtntt"
     },
     {
       "added_at": "2021-06-30 15:18:23",
@@ -607,22 +607,6 @@
     {
       "added_at": "2021-06-30 15:18:23",
       "album": {
-        "name": "\u30d0\u30a4\u30aa\u30cf\u30b6\u30fc\u30c9 RE:3 \u30b9\u30da\u30b7\u30e3\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
-        "url": "https://open.spotify.com/album/7n9RHbGS7yppozv4MCa0qZ"
-      },
-      "artists": [
-        {
-          "name": "Saori Maeda",
-          "url": "https://open.spotify.com/artist/3Ud7woLRk2efj0q3D2lCzm"
-        }
-      ],
-      "duration_ms": 126280,
-      "name": "Free From Fear",
-      "url": "https://open.spotify.com/track/0oSzptjJ0jjmPNkNSwCgu1"
-    },
-    {
-      "added_at": "2021-06-30 15:18:23",
-      "album": {
         "name": "\u5e30\u3063\u3066\u304d\u305f \u9b54\u754c\u6751 \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/4EPXj1UsxZa0R66wcZJ0nv"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 102607,
       "name": "\u5893\u5834",
       "url": "https://open.spotify.com/track/4JaYyVgt7FuTtYanPrWeOn"
+    },
+    {
+      "added_at": "2021-06-30 15:18:23",
+      "album": {
+        "name": "\u30d0\u30a4\u30aa\u30cf\u30b6\u30fc\u30c9 RE:3 \u30b9\u30da\u30b7\u30e3\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/7n9RHbGS7yppozv4MCa0qZ"
+      },
+      "artists": [
+        {
+          "name": "Saori Maeda",
+          "url": "https://open.spotify.com/artist/3Ud7woLRk2efj0q3D2lCzm"
+        }
+      ],
+      "duration_ms": 126280,
+      "name": "Free From Fear",
+      "url": "https://open.spotify.com/track/0oSzptjJ0jjmPNkNSwCgu1"
     },
     {
       "added_at": "2021-06-30 15:18:23",
@@ -755,22 +755,6 @@
     {
       "added_at": "2021-06-30 15:18:23",
       "album": {
-        "name": "\u30d0\u30a4\u30aa\u30cf\u30b6\u30fc\u30c9 RE:3 \u30b9\u30da\u30b7\u30e3\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
-        "url": "https://open.spotify.com/album/7n9RHbGS7yppozv4MCa0qZ"
-      },
-      "artists": [
-        {
-          "name": "Masami Ueda",
-          "url": "https://open.spotify.com/artist/4Zc9ID5YsCSgTf2l00RmiU"
-        }
-      ],
-      "duration_ms": 338026,
-      "name": "Metamorphosis",
-      "url": "https://open.spotify.com/track/29QKto9Azhp4txmsaboUJo"
-    },
-    {
-      "added_at": "2021-06-30 15:18:23",
-      "album": {
         "name": "\u5e30\u3063\u3066\u304d\u305f \u9b54\u754c\u6751 \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/4EPXj1UsxZa0R66wcZJ0nv"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 102588,
       "name": "\u30d7\u30ed\u30ed\u30fc\u30b0",
       "url": "https://open.spotify.com/track/5gvSlUXAeLekdqvUv1Zw7x"
+    },
+    {
+      "added_at": "2021-06-30 15:18:23",
+      "album": {
+        "name": "\u30d0\u30a4\u30aa\u30cf\u30b6\u30fc\u30c9 RE:3 \u30b9\u30da\u30b7\u30e3\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/7n9RHbGS7yppozv4MCa0qZ"
+      },
+      "artists": [
+        {
+          "name": "Masami Ueda",
+          "url": "https://open.spotify.com/artist/4Zc9ID5YsCSgTf2l00RmiU"
+        }
+      ],
+      "duration_ms": 338026,
+      "name": "Metamorphosis",
+      "url": "https://open.spotify.com/track/29QKto9Azhp4txmsaboUJo"
     },
     {
       "added_at": "2021-06-30 15:18:23",

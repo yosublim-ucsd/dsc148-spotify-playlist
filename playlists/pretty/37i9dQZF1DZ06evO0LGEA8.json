@@ -1,12 +1,12 @@
 {
   "description": "This Is La Santa Grifa. Los temas esenciales, todos en una lista.",
-  "num_followers": 224032,
+  "num_followers": 224173,
   "original_name": "This Is La Santa Grifa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zk6HAAAAAACW2SSMVSUwiJM0L1DHzhYL",
+  "snapshot_id": "Zk/YgAAAAABVC8hmm9Vp1FD2/8kh5dmC",
   "tracks": [
     {
       "added_at": null,
@@ -855,8 +855,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hits Visuales, Vol. 1",
-        "url": "https://open.spotify.com/album/2IHqRzkYGxiiVSZ8mdKnok"
+        "name": "Hasta Donde Se Pueda, Vol. 2",
+        "url": "https://open.spotify.com/album/69Jo9dSkh9nTPpASqM49Gk"
       },
       "artists": [
         {
@@ -864,9 +864,9 @@
           "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
         }
       ],
-      "duration_ms": 264365,
-      "name": "Noche De Lokera",
-      "url": "https://open.spotify.com/track/2AE2CB3jFINTfjhlOWgDx9"
+      "duration_ms": 404375,
+      "name": "Celoso Enfermo",
+      "url": "https://open.spotify.com/track/4MSRj7FoiCamxvqdRJh2Zt"
     },
     {
       "added_at": null,
@@ -887,8 +887,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hasta Donde Se Pueda, Vol. 2",
-        "url": "https://open.spotify.com/album/69Jo9dSkh9nTPpASqM49Gk"
+        "name": "Hits Visuales, Vol. 1",
+        "url": "https://open.spotify.com/album/2IHqRzkYGxiiVSZ8mdKnok"
       },
       "artists": [
         {
@@ -896,9 +896,9 @@
           "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
         }
       ],
-      "duration_ms": 404375,
-      "name": "Celoso Enfermo",
-      "url": "https://open.spotify.com/track/4MSRj7FoiCamxvqdRJh2Zt"
+      "duration_ms": 264365,
+      "name": "Noche De Lokera",
+      "url": "https://open.spotify.com/track/2AE2CB3jFINTfjhlOWgDx9"
     }
   ],
   "unique_name": "This Is La Santa Grifa",

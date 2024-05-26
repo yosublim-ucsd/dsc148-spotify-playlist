@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4rmnjMBxfCv.md) - [plain]
 
 > The best dance and electronic songs in the MENA region\. Cover: Zerb, Sofiya Nzau
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,188 likes - 59 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,226 likes - 59 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

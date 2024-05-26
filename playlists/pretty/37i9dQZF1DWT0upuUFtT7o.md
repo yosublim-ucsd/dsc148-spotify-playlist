@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 
 > The best new indie tracks from independent artists & labels\. Cover: Mitchy
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,492 likes - 130 songs - 7 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,551 likes - 130 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

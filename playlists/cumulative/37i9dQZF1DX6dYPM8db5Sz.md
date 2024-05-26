@@ -4,7 +4,7 @@
 
 > The best Indie sounds from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq?si=NdIV3Kp\-QyO\-UAWrO8HYSg">Msaki</a> & <a href="https://open.spotify.com/artist/1eraeBfwU1RwFj6LszJT65?si=u9zvdS60RAeLgx1DWreprw">Tubatsi Mpho Moloi</a>
 
-728 songs - 1 day 17 hr 29 min
+729 songs - 1 day 17 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -442,6 +442,7 @@
 | [Oceanside](https://open.spotify.com/track/21QdmvUzHMBUYHQLbKGMvq) | [Dennis Lloyd](https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt) | [Oceanside](https://open.spotify.com/album/2t6dBaFMf05cJTSHGkkBWV) | 2:47 | 2023-06-15 | 2023-07-14 |
 | [Off the Ground](https://open.spotify.com/track/2qJcicPo16Mzhnx98Ugf6p) | [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq), [Tubatsi Mpho Moloi](https://open.spotify.com/artist/1eraeBfwU1RwFj6LszJT65) | [Synthetic Hearts Part II](https://open.spotify.com/album/11IYyNZlNK4oHdMv0mnOIC) | 2:45 | 2024-05-23 |  |
 | [oh, him](https://open.spotify.com/track/1kGfsJh77SYUEU5UuE0NvW) | [Wishpig](https://open.spotify.com/artist/68ybmAQpXyAzHXOkexjYj3) | [oh, him](https://open.spotify.com/album/37kTqKCc62bTQo2SExnljj) | 3:55 | 2023-05-18 | 2023-07-07 |
+| [Okay](https://open.spotify.com/track/2clElTsD1qOztIwI9CuJvu) | [Matthew Mole](https://open.spotify.com/artist/1LfnIuggAY5qQdS4sP1K86), [CHXRL](https://open.spotify.com/artist/53YDsmOqu4zlV0VQbNUUNZ) | [Okay](https://open.spotify.com/album/610w4Vno3IlTsWrTgSgMDu) | 3:13 | 2024-05-23 |  |
 | [Old Kid](https://open.spotify.com/track/2AoTAhf4T80mu8VsAwf6KP) | [Sean Koch](https://open.spotify.com/artist/4sOLJi96MhdlMv5Iz9YZT9) | [Old Kid](https://open.spotify.com/album/3yh2CyzlRRlhaUl8fHNxKt) | 3:29 | 2024-05-03 |  |
 | [Old Man](https://open.spotify.com/track/77krcHfId85O4se7W5HpTY) | [Thabo Krouwkam](https://open.spotify.com/artist/5HlMBH4nyRsup7lt6P5A54) | [Meet me in the middle](https://open.spotify.com/album/2lAuCRSEVMgTmdlHFJKlEq) | 3:06 | 2023-03-16 | 2023-05-19 |
 | [Oliver's Garden](https://open.spotify.com/track/6M9tSXVU3XmVXACv7D1tnk) | [Nic van Graan](https://open.spotify.com/artist/5szYkf5z4q40eLOyWDFJgt) | [Oliver's Garden](https://open.spotify.com/album/2GS2hWDDmPb6GxT8aFx2qv) | 3:39 | 2024-02-29 | 2024-04-10 |
@@ -581,7 +582,7 @@
 | [Stick Season](https://open.spotify.com/track/0mflMxspEfB0VbI1kyLiAv) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 3:02 | 2024-01-11 |  |
 | [Still A RockStar](https://open.spotify.com/track/0o0b7b1fpkdo0AcBE65Gk3) | [KVSE](https://open.spotify.com/artist/4IsB535rRnsghgHd9K4Iuz) | [Still A RockStar](https://open.spotify.com/album/2Tj3VYZ73mhSYMZwPmNZG2) | 2:26 | 2023-09-15 | 2023-12-08 |
 | [Still Here](https://open.spotify.com/track/6qNZb2B2C0G8fmz5CjwM93) | [Gothe](https://open.spotify.com/artist/6FpFEaQbeODjVhr3dBaUwN) | [Still Here](https://open.spotify.com/album/1NFkXm5FE4zCRZo2YEledF) | 2:33 | 2023-09-07 | 2023-12-01 |
-| [Stolen Seasons](https://open.spotify.com/track/4I1MhYsQQ71wkE5DiCWw5T) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Goodbye to the Valley Low](https://open.spotify.com/album/4y08yRIEOIAcGkuJWwWZ91) | 3:01 | 2024-02-01 |  |
+| [Stolen Seasons](https://open.spotify.com/track/4I1MhYsQQ71wkE5DiCWw5T) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Goodbye to the Valley Low \(Side A\)](https://open.spotify.com/album/4y08yRIEOIAcGkuJWwWZ91) | 3:01 | 2024-02-01 |  |
 | [Stranger](https://open.spotify.com/track/2NggrkJnz1hFOV3uXSI1m8) | [Yoav](https://open.spotify.com/artist/2TUFDVa7aZJ4O9U0qjrSJH), [Jabulile Majola](https://open.spotify.com/artist/7hGWdecNt4fPrcIEAVf3AF) | [Stranger](https://open.spotify.com/album/7a3hMYwWTJRxnvw3JLrBAK) | 3:45 | 2023-08-24 | 2023-09-08 |
 | [Strangers](https://open.spotify.com/track/478FDZYiDhJGGAwM0oWbPv) | [Basson Laas](https://open.spotify.com/artist/2Beab8dPjPTw62bpTfETqx) | [Good Morning Dreamer](https://open.spotify.com/album/6KMXFgGH8vb8rn6bQzYdWu) | 4:35 | 2023-08-11 | 2023-11-10 |
 | [Strangers Arms](https://open.spotify.com/track/2xWiyPS3nrRBCNuvPdJh4n) | [The Breeze](https://open.spotify.com/artist/3usNfpEWJMyOD1K2NJkGU8) | [Strangers Arms](https://open.spotify.com/album/5sDM9mCBGIEsBa8H3imZy5) | 4:32 | 2023-07-28 | 2023-09-22 |
@@ -668,7 +669,7 @@
 | [Underwater](https://open.spotify.com/track/1qmHuOON7erR8dv24pI8rA) | [Blue Scarr](https://open.spotify.com/artist/1gTOD1oLGnXEK81NvlQWSi), [Aimée Britannia](https://open.spotify.com/artist/1oxqclaWPu3nTkfNhjWSJ7) | [Underwater](https://open.spotify.com/album/6dQhlj5vGlCckBHCsH5CUO) | 3:56 | 2023-11-17 | 2024-01-12 |
 | [Unknown / Nth](https://open.spotify.com/track/0yyQOpUfKMOg1JpFQi2reh) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unknown / Nth](https://open.spotify.com/album/39EdZpzcvb0odv7kaJzBhj) | 4:40 | 2023-06-22 | 2023-07-29 |
 | [Unknown / Nth](https://open.spotify.com/track/1Qd2xhbAtS1MP5UW2BUfqj) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unknown / Nth](https://open.spotify.com/album/1VNpBzbjtkEhAwa3vGelHP) | 4:40 | 2023-06-22 | 2023-06-24 |
-| [Until The End](https://open.spotify.com/track/6aHcqLlg0lVXkjjhvr7QfA) | [Steve Umculo](https://open.spotify.com/artist/5rnqlstQORnxg0odyfLw0B), [Soweto Gospel Choir](https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl) | [Until The End](https://open.spotify.com/album/6dQ5IYyy57S1tq6G4z0iWU) | 3:36 | 2024-05-23 |  |
+| [Until The End](https://open.spotify.com/track/6aHcqLlg0lVXkjjhvr7QfA) | [Steve Umculo](https://open.spotify.com/artist/5rnqlstQORnxg0odyfLw0B), [Soweto Gospel Choir](https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl) | [Until The End](https://open.spotify.com/album/6dQ5IYyy57S1tq6G4z0iWU) | 3:36 | 2024-05-23 | 2024-05-26 |
 | [Untitled](https://open.spotify.com/track/3JIyX72qvZaQG6ZUZRYzlA) | [From East](https://open.spotify.com/artist/5WPRnxQehw3OGUBUiSegT0) | [Untitled](https://open.spotify.com/album/67EkGON97rQstf3pGJJdvG) | 6:24 | 2024-02-01 | 2024-03-30 |
 | [Vertical Desire](https://open.spotify.com/track/004EPXxI0M2iIyzYpmOsHd) | [Valeska Muller](https://open.spotify.com/artist/59GvGMxO2jrof8XlegqK7m) | [Vertical Desire](https://open.spotify.com/album/4sI3ArQA04AgCOHi7FFcOq) | 2:54 | 2023-05-25 | 2023-07-07 |
 | [vibe again](https://open.spotify.com/track/7FMAEHQZVoNetHntq0Rfbv) | [Ashwin Smith](https://open.spotify.com/artist/21O1GLm7iw8np86CJ4hNtO) | [vibe again](https://open.spotify.com/album/0UMQ4LF9e8BhSGXqOhSZ5x) | 3:24 | 2023-05-18 | 2023-07-07 |

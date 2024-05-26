@@ -6,7 +6,7 @@
     "name": "soundsdeli",
     "url": "https://open.spotify.com/user/soundsdeli"
   },
-  "snapshot_id": "AAAh1+PyPo+yZEHedv889vvmwhlsNUvM",
+  "snapshot_id": "AAAh3A9w9EMmiAYfQbpYG+1A+8MVaLno",
   "tracks": [
     {
       "added_at": "2024-03-29 14:33:31",
@@ -345,6 +345,22 @@
       "url": "https://open.spotify.com/track/46kspZSY3aKmwQe7O77fCC"
     },
     {
+      "added_at": "2024-05-25 06:00:54",
+      "album": {
+        "name": "Wasetime",
+        "url": "https://open.spotify.com/album/0kesHQpP91fQoxWOtTtszj"
+      },
+      "artists": [
+        {
+          "name": "Shawn Cook",
+          "url": "https://open.spotify.com/artist/2eKk5iKLyGpWo9IBLrPjSv"
+        }
+      ],
+      "duration_ms": 113280,
+      "name": "Wasetime",
+      "url": "https://open.spotify.com/track/2IS4z9k9zy6bbH9xvGUTBv"
+    },
+    {
       "added_at": "2024-05-25 00:00:48",
       "album": {
         "name": "oceanbay",
@@ -423,6 +439,22 @@
       "duration_ms": 267706,
       "name": "Like That",
       "url": "https://open.spotify.com/track/2tudvzsrR56uom6smgOcSf"
+    },
+    {
+      "added_at": "2024-05-25 06:00:52",
+      "album": {
+        "name": "One More Night",
+        "url": "https://open.spotify.com/album/3YZaDQREdy6DYgrrog6r2j"
+      },
+      "artists": [
+        {
+          "name": "Tessa Dalton",
+          "url": "https://open.spotify.com/artist/7etJFhazXNIjnJZWAfn1WA"
+        }
+      ],
+      "duration_ms": 179172,
+      "name": "One More Night",
+      "url": "https://open.spotify.com/track/6P1JCV5JYg75u7YLq79BZc"
     },
     {
       "added_at": "2024-05-20 06:11:13",
@@ -581,6 +613,22 @@
       "url": "https://open.spotify.com/track/78xz2rRKLmTm8m9A0vuNlY"
     },
     {
+      "added_at": "2024-05-25 13:54:58",
+      "album": {
+        "name": "Tangled Up In Blue",
+        "url": "https://open.spotify.com/album/1lcVucENJc5lkGtSzHjSEc"
+      },
+      "artists": [
+        {
+          "name": "Mathilde Widding",
+          "url": "https://open.spotify.com/artist/7yiilgx7kKijTeHJs2FoWb"
+        }
+      ],
+      "duration_ms": 185793,
+      "name": "Tangled Up In Blue",
+      "url": "https://open.spotify.com/track/3C4Zea52Xn9iTc25JH0jEJ"
+    },
+    {
       "added_at": "2024-05-20 06:11:10",
       "album": {
         "name": "Fly With Me",
@@ -715,6 +763,26 @@
       "duration_ms": 198437,
       "name": "Talk To Me",
       "url": "https://open.spotify.com/track/2tseEPCbD2xdVl86U4ZYgX"
+    },
+    {
+      "added_at": "2024-05-25 13:10:51",
+      "album": {
+        "name": "Downtown",
+        "url": "https://open.spotify.com/album/02S7VitGqrpP4xE5TnJ7eE"
+      },
+      "artists": [
+        {
+          "name": "ellee ven",
+          "url": "https://open.spotify.com/artist/68W5IWYUEsW0ahQS7LPp9x"
+        },
+        {
+          "name": "Prod\u00e9je",
+          "url": "https://open.spotify.com/artist/0WUZY9y7pD32XT7vDZKslp"
+        }
+      ],
+      "duration_ms": 230859,
+      "name": "Downtown",
+      "url": "https://open.spotify.com/track/2n8SGGWXOP5eZGkPHN5Ld8"
     },
     {
       "added_at": "2024-05-14 16:14:52",

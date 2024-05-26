@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 
 > Lo más fresco de la cosecha 2024\. Grupo TMB en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 822,524 likes - 100 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 822,699 likes - 100 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 | 25 | [Sombrero No Se Vende](https://open.spotify.com/track/249NkjruEYuJisjEbpJRyC) | [Grupo Los Chavalos](https://open.spotify.com/artist/3J8o4uEwZq2fYACRxm4rgf), [Grupo Selectivo](https://open.spotify.com/artist/1EvLQTftUdMMQbOSeMOLn1) | [Sombrero No Se Vende](https://open.spotify.com/album/5KBW6cSUgwq8bI1Xil046n) | 2:26 |
 | 26 | [EL GUERO](https://open.spotify.com/track/41NZkbj1w641TTEY2q4cZ5) | [Linea Personal](https://open.spotify.com/artist/5Bb18koIu6bYuvZWzYKkLJ) | [Vision](https://open.spotify.com/album/3CVObq7AFkpwOkwdhJYJQo) | 2:20 |
 | 27 | [El 10 de Mayo \(En Vivo\)](https://open.spotify.com/track/3WEHES0IGtpjcVnC60V24X) | [Jaime Y Fernando](https://open.spotify.com/artist/6hd4yoO98vmwUq150wB5gm) | [El Mes de Mayo \(En Vivo\)](https://open.spotify.com/album/2ljSb2GM16NRwiUGc2MKFj) | 2:33 |
-| 28 | [El Tigre \(En Vivo\)](https://open.spotify.com/track/6jrNqus0QuqXA7EOwaE3Rp) | [Victor Valverde](https://open.spotify.com/artist/20nJFshDG1OYH7Qp9K0TXf), [Las Joyas de Culiacán](https://open.spotify.com/artist/43CZW9MARqq5ojJLia6M5l), [Los Nuevos Coyonquis](https://open.spotify.com/artist/0OAiUOqab67e0oU0Ogp8sN) | [El Tigre \(En Vivo\)](https://open.spotify.com/album/2vD24QssNEpI4msnnnWVmq) | 3:16 |
+| 28 | [El Tigre \(En Vivo\)](https://open.spotify.com/track/6jrNqus0QuqXA7EOwaE3Rp) | [Victor Valverde](https://open.spotify.com/artist/20nJFshDG1OYH7Qp9K0TXf), [Las Joyas de Culiacan](https://open.spotify.com/artist/08fU5RS1CQdw5GBeztGPMn), [Los Nuevos Coyonquis](https://open.spotify.com/artist/0OAiUOqab67e0oU0Ogp8sN) | [El Tigre \(En Vivo\)](https://open.spotify.com/album/2vD24QssNEpI4msnnnWVmq) | 3:16 |
 | 29 | [Yo Ya Sabia Pa Donde Iba](https://open.spotify.com/track/68tFrY3RLTslRY3l5wFfKd) | [Los Chavalitos](https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0) | [Yo Ya Sabia Pa Donde Iba](https://open.spotify.com/album/7CIIaQHhYQDhuVaUybIw7R) | 3:01 |
 | 30 | [Que Empiece El Juego](https://open.spotify.com/track/6d4we28oTHN8qrkJXkZwrS) | [Chicho Castro y Sus Alia2](https://open.spotify.com/artist/0dc0PZKnH4whnbo7cPKABC), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh) | [Que Empiece El Juego](https://open.spotify.com/album/4b1B9h0jg1yaWQHkO9fdcf) | 2:29 |
 | 31 | [Si No Quieres No](https://open.spotify.com/track/1C84d9abZVKWHT2YYpoean) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Si No Quieres No](https://open.spotify.com/album/6WkOBnYkj6y5iSr14uhUZF) | 2:27 |

@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Jay Scøtt
 
-2,560 songs - 5 day 16 hr 43 min
+2,562 songs - 5 day 16 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -254,7 +254,7 @@
 | [Blue](https://open.spotify.com/track/0QWTSUL3mTStCXLMkPEh2u) | [Miro](https://open.spotify.com/artist/5j7ql2sFpKxWvZI6TIDfgj) | [Blue](https://open.spotify.com/album/2pJgvL6pmjgyRsApaegLNP) | 3:12 | 2023-07-21 | 2023-07-29 |
 | [blue](https://open.spotify.com/track/00GOKHaT4oeUbTL3Tj7NFC) | [YellowStraps](https://open.spotify.com/artist/772hWD0N94gYjnVhrqE7lx), [Sofiane Pamart](https://open.spotify.com/artist/4RB2EEsmLhQTOSVQQpDzNg) | [tentacle](https://open.spotify.com/album/35Yi0L3RtxmFULeg1UQCae) | 2:40 | 2023-01-27 | 2023-02-11 |
 | [blue \(yes, i love you\)](https://open.spotify.com/track/7znfQHTZ1tut2V17waMNTl) | [YellowStraps](https://open.spotify.com/artist/772hWD0N94gYjnVhrqE7lx), [Sofiane Pamart](https://open.spotify.com/artist/4RB2EEsmLhQTOSVQQpDzNg) | [blue \(yes, i love you\)](https://open.spotify.com/album/17xBNG2Bgr4VVGlVIXH8NV) | 1:42 | 2024-03-08 | 2024-05-02 |
-| [Bodyguard](https://open.spotify.com/track/0WZIEenmTdjetpUh7iWWN1) | [Low Jay](https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N), [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [GINGER BOY](https://open.spotify.com/album/1FT8GPtOWpPQzh7SyizD9i) | 2:31 | 2024-05-24 |  |
+| [Bodyguard](https://open.spotify.com/track/0WZIEenmTdjetpUh7iWWN1) | [Low Jay](https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N), [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [GINGER BOY](https://open.spotify.com/album/1FT8GPtOWpPQzh7SyizD9i) | 2:31 | 2024-05-24 | 2024-05-26 |
 | [Bogotà](https://open.spotify.com/track/2j52PuH3H76JaoNeFEwcp6) | [Mitso](https://open.spotify.com/artist/6K1YP5VKK70aE35zG7t3sV) | [Bogotà](https://open.spotify.com/album/3Tdd4b9OZQd9zw4gGSvMAK) | 3:04 | 2022-04-01 | 2022-04-16 |
 | [Boire un coup](https://open.spotify.com/track/7Jl9wKc0k5aeQp7FEMGZ4n) | [Baptiste W\. Hamon](https://open.spotify.com/artist/5H1vQFu0fy55ZNLLMDpM8p) | [Boire un coup](https://open.spotify.com/album/6b1mz1YY8VZ8y4dDRilk3c) | 2:34 | 2022-01-14 | 2022-01-22 |
 | [Bolero](https://open.spotify.com/track/6NqbGiEOws4tpCx3uUhxNb) | [Les Louanges](https://open.spotify.com/artist/57GQLJX1O8guO5PVj46e6l) | [Crash](https://open.spotify.com/album/2YifMIwGXJIIWV5rib1mb2) | 2:49 | 2022-01-21 | 2022-01-29 |
@@ -1263,6 +1263,7 @@
 | [Laisser tout](https://open.spotify.com/track/0HPQLdINNh702Kd7HTXpki) | [RSVP](https://open.spotify.com/artist/3J7DLBE8pKkr7nrT18PFCf) | [Laisser tout](https://open.spotify.com/album/3qF7fybaP7vQtMKxkztKeR) | 3:18 | 2022-01-21 | 2022-01-29 |
 | [Lajan](https://open.spotify.com/track/1xH4bzkXRMsLJ3OyYflr0w) | [Magdala](https://open.spotify.com/artist/3uadfXnnMTKpzaGo96mRFz) | [Lajan](https://open.spotify.com/album/3LThUsrUigKPQuUsgdnCcl) | 2:39 | 2022-02-04 | 2022-02-19 |
 | [Lala](https://open.spotify.com/track/1FCva9S8VQYi6DWZxeDU7A) | [Domeno](https://open.spotify.com/artist/7yMAFCnx0clryFBMwaQI3Y), [Eli Rose](https://open.spotify.com/artist/6RBs2gBQlEgSAITbC9wB6h) | [Lala](https://open.spotify.com/album/6nkfWpygPTF1j2OgSBf9Ca) | 3:10 | 2023-10-13 | 2023-10-21 |
+| [Lalla](https://open.spotify.com/track/1iM4agLs3G8ihIHEcWojcN) | [Kore](https://open.spotify.com/artist/78Die3Gb8yaElTmGCa7m7N), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Lalla](https://open.spotify.com/album/5OXNr5pjxuzvHgWTV4mRp0) | 3:07 | 2024-05-24 |  |
 | [Lamborghini](https://open.spotify.com/track/7E1OKKYyt97Tjf5SWbJgEp) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [Lamborghini](https://open.spotify.com/album/2BaNOV1st3WvTlFNbDFBxx) | 2:16 | 2024-01-19 | 2024-03-23 |
 | [Lame Eyes \- Version française](https://open.spotify.com/track/1kcYYFFWSlx20kdXM7w3Qd) | [Lampion](https://open.spotify.com/artist/59UGzTU8yLmdOgB3TCRQak) | [Lame Eyes \(Version française\)](https://open.spotify.com/album/6mJuQIZVbnjBjXweyHrh74) | 3:08 | 2022-09-30 | 2022-10-08 |
 | [Lampadaire](https://open.spotify.com/track/7Fhd4Q0nYLhu7BGQCBXnZy) | [Menura](https://open.spotify.com/artist/2JjA9sCrPDgdweBVtimwzp) | [Le gris, le beige](https://open.spotify.com/album/5O2dAEL3lOaioQYpGrIt9y) | 3:21 | 2022-07-08 | 2022-07-30 |
@@ -2132,6 +2133,7 @@
 | [Si tu savais](https://open.spotify.com/track/5WeNhRFuNDFM2Y01R8aSQT) | [KALY](https://open.spotify.com/artist/0eRtInepLNyuZsho3EonUS), [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [Devenir](https://open.spotify.com/album/5tIHRUwrxn8htsp8rfuekG) | 2:53 | 2021-12-31 | 2022-01-22 |
 | [Si tu savais \- Version live](https://open.spotify.com/track/0rpnutDckVgdIChzhDmyTX) | [Marie\-Pierre Arthur](https://open.spotify.com/artist/2IAG8mcBKZoIc5VbcPgNNc) | [Dans tes rêves \(Version live\)](https://open.spotify.com/album/7nchSsdOQkmJMseLHzZUSQ) | 3:44 | 2022-05-13 | 2022-05-28 |
 | [Si tu vois ma mère](https://open.spotify.com/track/6KnkNyo795dy3IgMoC8YMe) | [Emilie\-Claire Barlow](https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg) | [Si tu vois ma mère](https://open.spotify.com/album/3CPy3IZU5eNpduzy8AZoez) | 3:57 | 2022-08-26 | 2022-09-03 |
+| [Si ça va](https://open.spotify.com/track/3qL5wlh5GaEKam28diqZo9) | [THEODORT](https://open.spotify.com/artist/6q87j1F6EtUxjlvkJNknFp) | [Imad](https://open.spotify.com/album/2JQGzY8aNTwefM5JBoL5M7) | 3:04 | 2024-05-24 |  |
 | [Sick](https://open.spotify.com/track/3IEnHarih6cbbKudmGtq9b) | [Miels](https://open.spotify.com/artist/1T7DAgRWmzieWxeyEhBD8g) | [Sick](https://open.spotify.com/album/4hRqx45H740VEGxb3KUewe) | 3:16 | 2022-03-25 | 2022-04-09 |
 | [Siempre para ti](https://open.spotify.com/track/7bvwmPJg4lWVklY9GXSTHH) | [Dominique Hudson](https://open.spotify.com/artist/5jUUxz4x0tzHtghlDNyBLa) | [Siempre para ti](https://open.spotify.com/album/362SHggD1VVg3IA1o9lmKQ) | 2:40 | 2023-03-17 | 2023-03-25 |
 | [Signer pour 10k](https://open.spotify.com/track/05gKBf8HyyN1hSgdM3IUZv) | [Beendo Z](https://open.spotify.com/artist/7a35Zdc78bDXJv2vYf5hSO) | [Signer pour 10k](https://open.spotify.com/album/1qIzT0Q1HSGElZzjcBI6gu) | 3:05 | 2022-09-30 | 2022-10-15 |
@@ -2280,7 +2282,7 @@
 | [Tipatshimushtunan](https://open.spotify.com/track/1KZZIDJ4DyS4dnhPyXdOw0) | [Matiu](https://open.spotify.com/artist/7JVJdPJ0ScYb84upENbZCE), [Allan Nabinacaboo](https://open.spotify.com/artist/18oZ6SjjkZ57N1kZZ6u2hT) | [Tipatshimushtunan](https://open.spotify.com/album/6N3926ij2Mfo7hZF41Rlca) | 3:40 | 2022-07-01 | 2022-07-23 |
 | [Tit'souite](https://open.spotify.com/track/7ApiyLZOAueIeptD8rebbW) | [Benny Adam](https://open.spotify.com/artist/31Gbv2WFzy6QX0X6DkGiHA), [NAYRA](https://open.spotify.com/artist/1hNiaDCXQvVRhVSJHsaDmZ) | [Tit'souite](https://open.spotify.com/album/775aLAglg7wbZxaGCYP7wb) | 3:09 | 2023-07-14 | 2023-07-22 |
 | [Toi](https://open.spotify.com/track/1g2NGyu1fL7B5RipZgmFNY) | [Slimane](https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz) | [Toi](https://open.spotify.com/album/5JQodTDUxGraUtOXeYwIpV) | 3:11 | 2022-08-26 | 2022-09-10 |
-| [Toi & Moi](https://open.spotify.com/track/2oMSuuGg4HlLsWrDR1Bhtu) | [Gaëlle](https://open.spotify.com/artist/1uN3byO6WUB2dSDg6XpsEw), [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7) | [Toi & Moi](https://open.spotify.com/album/1ZOY0RIkEEp9KPasfdQTvU) | 2:42 | 2024-05-24 |  |
+| [Toi & Moi](https://open.spotify.com/track/2oMSuuGg4HlLsWrDR1Bhtu) | [Gaëlle](https://open.spotify.com/artist/1uN3byO6WUB2dSDg6XpsEw), [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7) | [Toi & Moi](https://open.spotify.com/album/1ZOY0RIkEEp9KPasfdQTvU) | 2:42 | 2024-05-24 | 2024-05-26 |
 | [Toi & moi](https://open.spotify.com/track/4C9bUSwqwVZ8eu2jsnctm6) | [Mok Saib](https://open.spotify.com/artist/6jcvupTBm6vk5SMEEVpvSW), [Zaho](https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o) | [Toi & moi](https://open.spotify.com/album/4qAOLbreEqTtzFgcGePfZL) | 3:10 | 2022-03-18 | 2022-04-02 |
 | [Told Ya](https://open.spotify.com/track/4dOZyyaAa0CoxerKPYFdoT) | [Joe Rocca](https://open.spotify.com/artist/02nyUoWQbKuMviHAb3PSmi), [Dead Obies](https://open.spotify.com/artist/6pcIfv5iZnVQgUNcKp8lGA) | [Hybride](https://open.spotify.com/album/4xRBp5enf96QOYsRVUcm3K) | 3:18 | 2024-05-24 |  |
 | [tombeau](https://open.spotify.com/track/5dSPiSs9A6jOHluVuL5i9r) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [tombeau](https://open.spotify.com/album/657xhlrFfq3PAhaB7SDXUa) | 2:47 | 2022-06-10 | 2022-06-18 |

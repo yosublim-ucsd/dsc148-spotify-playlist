@@ -1,6 +1,6 @@
 {
   "description": "Celebre o nascimento de Jesus com louvores natalinos!",
-  "num_followers": 8163,
+  "num_followers": 8162,
   "original_name": "Louvores de Natal",
   "owner": {
     "name": "Spotify",
@@ -843,26 +843,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Bossa Christmas",
-        "url": "https://open.spotify.com/album/16g8Bf8U4YJg9tUlt7ACPq"
-      },
-      "artists": [
-        {
-          "name": "Lagoinha Music",
-          "url": "https://open.spotify.com/artist/2zU9KvRIyqKppyGRam4lhG"
-        },
-        {
-          "name": "Crystal Pereira",
-          "url": "https://open.spotify.com/artist/5n232U3bmYM1Azax5Kz7zb"
-        }
-      ],
-      "duration_ms": 243349,
-      "name": "Silent Night",
-      "url": "https://open.spotify.com/track/65d8Zuzcuvghb9YNdSSAoQ"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "Noite de Paz",
         "url": "https://open.spotify.com/album/385673vVXabsOzy5GjDQzn"
       },
@@ -879,6 +859,26 @@
       "duration_ms": 241222,
       "name": "Noite de Paz",
       "url": "https://open.spotify.com/track/2wiRFWjjmgzWRjmg4qUdS1"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "Bossa Christmas",
+        "url": "https://open.spotify.com/album/16g8Bf8U4YJg9tUlt7ACPq"
+      },
+      "artists": [
+        {
+          "name": "Lagoinha Music",
+          "url": "https://open.spotify.com/artist/2zU9KvRIyqKppyGRam4lhG"
+        },
+        {
+          "name": "Crystal Pereira",
+          "url": "https://open.spotify.com/artist/5n232U3bmYM1Azax5Kz7zb"
+        }
+      ],
+      "duration_ms": 243349,
+      "name": "Silent Night",
+      "url": "https://open.spotify.com/track/65d8Zuzcuvghb9YNdSSAoQ"
     },
     {
       "added_at": "2023-12-22 03:00:00",

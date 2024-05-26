@@ -4,7 +4,7 @@
 
 > 100 Suomi 💯 Kannessa Isac Elliot ja Averagekidluke.
 
-550 songs - 1 day 2 hr 23 min
+551 songs - 1 day 2 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,7 +166,7 @@
 | [Illegal \(feat\. LEWI\)](https://open.spotify.com/track/1Wyo0H22vOgKw94oII6h9h) | [El Migu](https://open.spotify.com/artist/52e3RF8S2V0QuVf3X1MNGq), [LEWI](https://open.spotify.com/artist/3Rw9RAezi1FGQrglVYoU4J) | [Illegal \(feat\. LEWI\)](https://open.spotify.com/album/4Ayswa4fpT3dTiu7LOrxJA) | 3:30 | 2023-09-21 | 2023-10-20 |
 | [Ilman sua \(feat\. Joe L\)](https://open.spotify.com/track/3cKmc9eibwJsDrjsPKvVKo) | [Pyrythekid](https://open.spotify.com/artist/2HvnW7Cp9P0d3lX5HIKNXW), [Joe L](https://open.spotify.com/artist/1zNcOiKaCyEKnoHpc8QNra) | [Ilman sua \(feat\. Joe L\)](https://open.spotify.com/album/1lCydBGHjjazSZeN95VTWl) | 2:33 | 2024-04-18 |  |
 | [Isäongelmii](https://open.spotify.com/track/4g6a7AsyUMX98EYA3yDyn1) | [Hassan Maikal](https://open.spotify.com/artist/5ibHOdl3OIBMsBc32Qsl2u) | [Isäongelmii](https://open.spotify.com/album/2Nol0kXoFEpuMVLdf6NmKr) | 3:03 | 2023-12-08 | 2023-12-22 |
-| [Italia](https://open.spotify.com/track/5dSmtvguWDB0oXMFUbUyYK) | [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D), [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk), [MDS](https://open.spotify.com/artist/4cj7WMtwaUGQbo0uJ1Ii5p) | [Italia](https://open.spotify.com/album/7FmnNsINdI92aApGrd4vcT) | 3:13 | 2024-05-23 |  |
+| [Italia](https://open.spotify.com/track/5dSmtvguWDB0oXMFUbUyYK) | [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D), [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk), [MD$](https://open.spotify.com/artist/0bYIAEOrNahTLQkecy5944) | [Italia](https://open.spotify.com/album/7FmnNsINdI92aApGrd4vcT) | 3:13 | 2024-05-23 |  |
 | [Itke sit](https://open.spotify.com/track/5HlCvsft3oLyM6vjNYHW5h) | [Fabe](https://open.spotify.com/artist/6xr6YWVsGo5k0sqwjgRPhS) | [Itke sit](https://open.spotify.com/album/52OzJXp4vHcECK9M45rNbK) | 3:02 | 2024-01-18 | 2024-04-12 |
 | [Itsekäs](https://open.spotify.com/track/41G0umo1TZp59OU12kd7W7) | [Rono](https://open.spotify.com/artist/11IszKPzyr7Zbv3XNwfOc4) | [Itsekäs](https://open.spotify.com/album/12IOfaVovRQUQbss3vGWBp) | 1:49 | 2024-03-07 | 2024-03-22 |
 | [Itä\-Helsinki 2](https://open.spotify.com/track/7bqPWQMz4ZdpIuw93Duen8) | [Nupe](https://open.spotify.com/artist/5u0QamnXCuX8MNukIIkkee), [Sicario Jr](https://open.spotify.com/artist/1O0ExECljjW2DpLZE8EPrI) | [Itä\-Helsinki 2](https://open.spotify.com/album/6nF1jYPvRytpxVdsJRq5Pb) | 3:27 | 2024-02-29 | 2024-03-15 |
@@ -421,6 +421,7 @@
 | [Savu](https://open.spotify.com/track/14MZ5VjSRPjwToGzWDL5mw) | [Laineen Kasperi](https://open.spotify.com/artist/5tZ4tk3tuZXAafP4ColDmA) | [Savu](https://open.spotify.com/album/1j18NYiIzN3DbEbFSt9dpU) | 4:20 | 2023-12-08 | 2023-12-22 |
 | [SCARFACE](https://open.spotify.com/track/2cYvIhXWyxemWWRJuvVa1r) | [Eevil Stöö](https://open.spotify.com/artist/0hD2uZfgcwrRRMcPYQ45pf), [Paperi T](https://open.spotify.com/artist/3rOOythoKLiiyXJYh3XIMu) | [Advanced Dungeon & Dragon](https://open.spotify.com/album/0oY6Z98V9G8aOdl5RN8nBJ) | 2:58 | 2024-01-25 | 2024-02-16 |
 | [Scorpio](https://open.spotify.com/track/3rhgPOgoOvYArCHt0MeRdp) | [Lika\-Aki](https://open.spotify.com/artist/4XSTZw9BvsG1ZXkyJOLyuw) | [Les Mains Sales](https://open.spotify.com/album/01MVf6zNOzHwrVoSbEbjJa) | 3:30 | 2023-10-19 | 2023-11-17 |
+| [Se kesä](https://open.spotify.com/track/3tRSvQB3E7sxHIgJBcUqIm) | [Jore & Zpoppa](https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7) | [Se kesä](https://open.spotify.com/album/5uyEMwsyLKI2hLMs94LupF) | 2:32 | 2024-05-25 |  |
 | [Se tyttö](https://open.spotify.com/track/09j1QxtPwitHHsZ0wwK0AM) | [Karim B](https://open.spotify.com/artist/6WmsWPACSMLs5OfLjs0gSi) | [Se tyttö](https://open.spotify.com/album/7lkgSMkrmPZE84H7u7NIsl) | 2:13 | 2024-04-11 | 2024-05-03 |
 | [Seitsemän kuolemansyntiä](https://open.spotify.com/track/6LMBDEiiXFA87Sg73JRgaW) | [Yksi Totuus](https://open.spotify.com/artist/6WhRNmekAnpW3ae3Nlu1xw) | [Seitsemän kuolemansyntiä](https://open.spotify.com/album/4mdasW59tPqmXSPOZkdPgu) | 3:16 | 2023-09-21 | 2023-10-06 |
 | [SEKASI](https://open.spotify.com/track/6haO1uTVb6F3mEvxiePKR3) | [Nebi](https://open.spotify.com/artist/0GFEJvcMqGLuhOUUZJavP4) | [VALLANKUMOUS](https://open.spotify.com/album/0ahwAjfNogrOTT4lFyt0IG) | 2:58 | 2024-03-14 | 2024-04-12 |

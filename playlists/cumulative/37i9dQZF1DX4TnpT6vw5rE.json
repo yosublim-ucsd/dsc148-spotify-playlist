@@ -1427,6 +1427,24 @@
     },
     {
       "album": {
+        "name": "Dream Traveler",
+        "url": "https://open.spotify.com/album/1pF8o1asO5oWDoCG0DZZdZ"
+      },
+      "artists": [
+        {
+          "name": "Eline Moss",
+          "url": "https://open.spotify.com/artist/5oLYsGYb1G271Z6wtiYVpA"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140930,
+      "name": "Dream Traveler",
+      "url": "https://open.spotify.com/track/4qq5zkuRXq17ycXLBiFqC5"
+    },
+    {
+      "album": {
         "name": "Clear Language",
         "url": "https://open.spotify.com/album/5z1mF6xLNvsKp132hNxqZ3"
       },
@@ -2482,7 +2500,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-26",
       "duration_ms": 183529,
       "name": "Komal",
       "url": "https://open.spotify.com/track/1jMYGXV4IDZcB3M4Bi3W16"

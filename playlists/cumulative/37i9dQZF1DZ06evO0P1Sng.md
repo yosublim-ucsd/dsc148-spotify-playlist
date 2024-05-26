@@ -4,7 +4,7 @@
 
 > This is Azzy\. Todos os maiores hits em uma só playlist.
 
-60 songs - 4 hr 0 min
+61 songs - 4 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,9 +55,10 @@
 | [Robocop](https://open.spotify.com/track/121AXIy1L6fxNKIGq6BKx3) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83) | [Rímel](https://open.spotify.com/album/2cqZQOpwquo3lu1aZXRkTQ) | 1:44 | 2023-12-30 |  |
 | [Se Prepara](https://open.spotify.com/track/5d1Eidz7m4vdgHsfZRKcec) | [Malibu](https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6), [Lucas e Orelha](https://open.spotify.com/artist/1hX5P2lkCP3LrzVRlJmQX8), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83) | [Se Prepara](https://open.spotify.com/album/54gWxTm90TbQ5oRa4aNp3E) | 3:02 | 2023-12-30 |  |
 | [Segue o Baile](https://open.spotify.com/track/5vrT66H94IfI3DNaNqNUJk) | [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83) | [Hora do Show](https://open.spotify.com/album/2A5UWu3yNNrnfbAfICNnV2) | 3:40 | 2023-12-30 |  |
+| [Seu Fogo](https://open.spotify.com/track/5xBJ8FanTJP98CXe5mI6Xm) | [Marquinho no Beat](https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [Amabbi](https://open.spotify.com/artist/6mMeUqEclPBXPIoffsneGV) | [Consequências](https://open.spotify.com/album/0iRMKFD3Pwq7heMrMsg8Dk) | 2:59 | 2024-05-26 |  |
 | [Sonho da Braba](https://open.spotify.com/track/2Uo76VNtjhQOUPZX9gSmoK) | [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [Btrem](https://open.spotify.com/artist/5XJ6pt7QwPKJ5X9kFvEagw), [Pedro Apoema](https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0) | [Mixtape Rock Danger de Verão](https://open.spotify.com/album/7sjlpFbePwOakGPErXKiBy) | 2:04 | 2023-12-30 |  |
 | [São Gonçalo](https://open.spotify.com/track/1xXWehn4TUTstEXvkwh0Oq) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [BocaDosBeats](https://open.spotify.com/artist/08Jh4nbAgQK1ZcY9FpcBjw) | [Rímel](https://open.spotify.com/album/2cqZQOpwquo3lu1aZXRkTQ) | 2:52 | 2023-12-30 |  |
-| [Só Eu](https://open.spotify.com/track/6vkLqv8WDCCAqx9YHkBWZf) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [Felp 22](https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK) | [Só Eu](https://open.spotify.com/album/7LzqynrUxF5hW2InDQJ2bG) | 3:03 | 2023-12-30 |  |
+| [Só Eu](https://open.spotify.com/track/6vkLqv8WDCCAqx9YHkBWZf) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [Felp 22](https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK) | [Só Eu](https://open.spotify.com/album/7LzqynrUxF5hW2InDQJ2bG) | 3:03 | 2023-12-30 | 2024-05-26 |
 | [Te Levar \- Acústico](https://open.spotify.com/track/4462AMqVy2RZnBmrfXq4RP) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83) | [Te Levar \(Acústico\)](https://open.spotify.com/album/6iIjXgimA2PGFG6jMlrO1T) | 3:13 | 2023-12-30 | 2024-03-29 |
 | [think of me.](https://open.spotify.com/track/1sM8jvXUHPQfMDtzDDksJT) | [Bloque](https://open.spotify.com/artist/4JmDhnwJ8dEymk7vkeV8hz), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [Super Static](https://open.spotify.com/artist/0Bth6SDuK4U3aaI4xieTzg) | [think of me](https://open.spotify.com/album/4IfGry1nodm4bJowPJLLnT) | 2:54 | 2023-12-30 | 2024-02-14 |
 | [Tifanny](https://open.spotify.com/track/0N4C42417079Bc1uxCCivU) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [Tlust](https://open.spotify.com/artist/6M1ffwjNDqXAkqpppHukl6) | [LOVEZY](https://open.spotify.com/album/2H0cMONtIiEgY0Mycmvmvp) | 2:40 | 2023-12-30 | 2024-03-07 |

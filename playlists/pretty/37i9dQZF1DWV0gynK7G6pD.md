@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Isata Kanneh\-Mason
 
-[Spotify](https://open.spotify.com/user/spotify) - 706,013 likes - 65 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 706,038 likes - 65 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Notturno in G Minor, H\-U 337](https://open.spotify.com/track/12UvtFQog4MP1cFyNRHN07) | [Fanny Mendelssohn](https://open.spotify.com/artist/2Wj0NreQeOfrGxnPIaLcCi), [Isata Kanneh\-Mason](https://open.spotify.com/artist/7FEzSfCBSOo0wAmdk9pQ6M) | [Fanny Mendelssohn: Notturno in G Minor, H\-U 337](https://open.spotify.com/album/6Oj7N6Ez2p83h7qYIsuojB) | 4:20 |
 | 2 | [Once](https://open.spotify.com/track/7gTVQWqEGrqTuZkXpe43z1) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Once](https://open.spotify.com/album/5f5y9Z2AYNtA2FfCAFZR0o) | 2:05 |
 | 3 | [Staircase Sonata \- Orchestral Works Version](https://open.spotify.com/track/32Brjv8Q9forZaMZQnrRKr) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB), [Reykjavík Orkestra](https://open.spotify.com/artist/2QNVqJUUo1JmnkDVBblSaU), [Viktor Orri Árnason](https://open.spotify.com/artist/18Z4spLSvLLjg7hnCS5De1) | [Orchestral Works](https://open.spotify.com/album/6fJIhLghRJNCVWbmRWObn3) | 2:47 |
-| 4 | [Suo Gân \[Arr\. Evans for Harp\]](https://open.spotify.com/track/7sMvYO5Ewgmsd4f9pX01ig) | [Alis Huws](https://open.spotify.com/artist/2j7K232K5qH6xEr8OsmK1S) | [Suo Gân \[Arr\. Evans for Harp\]](https://open.spotify.com/album/7AI1B64FapSsG8vdBu68YD) | 3:53 |
+| 4 | [Suo Gân \(Arr\. Evans for Harp\)](https://open.spotify.com/track/7sMvYO5Ewgmsd4f9pX01ig) | [Alis Huws](https://open.spotify.com/artist/2j7K232K5qH6xEr8OsmK1S) | [Suo Gân \(Arr\. Evans for Harp\)](https://open.spotify.com/album/7AI1B64FapSsG8vdBu68YD) | 3:53 |
 | 5 | [Berceuse, Op\. 16 \(Version for Violin and Orchestra\)](https://open.spotify.com/track/1WmOGUjP8J3zlnjHwa2fsy) | [Gabriel Fauré](https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO), [Renaud Capuçon](https://open.spotify.com/artist/6ttz1LgWFVgRiNDOjtDb2L), [Orchestre de Chambre de Lausanne](https://open.spotify.com/artist/0yYltyXzxr0Jqn9jM1Firq) | [Fauré: Berceuse, Op\. 16 \(Version for Violin and Orchestra\)](https://open.spotify.com/album/40iif9fgyBZzMi9npM4j4h) | 3:30 |
 | 6 | [24 Preludes, Op\. 28: No\. 4 in E Minor\. Largo \(Arr\. Harb for Guitar\)](https://open.spotify.com/track/6pNRG5fqJqEZalSIB5rB6B) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Alexandra Whittingham](https://open.spotify.com/artist/54UqAWfr4SIdCc5xBapeMM) | [Chopin: 24 Preludes, Op\. 28: No\. 4 in E Minor\. Largo \(Arr\. Harb for Guitar\)](https://open.spotify.com/album/2GpJjdhMyxMvSiSVp4gtJI) | 1:54 |
 | 7 | [Chopin: 24 Preludes, Op\. 28: No\. 15 in D\-Flat Major "Raindrop"](https://open.spotify.com/track/1e8JmaNCtBFg4xIUOJVni1) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Fazıl Say](https://open.spotify.com/artist/15NSFL63oPhmpXLcZHny2N) | [Morning](https://open.spotify.com/album/0xKJD45BQBThh4vFFehY2w) | 4:35 |

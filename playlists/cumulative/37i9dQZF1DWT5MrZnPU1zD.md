@@ -4,7 +4,7 @@
 
 > Pass the sticks & press play.
 
-964 songs - 1 day 22 hr 30 min
+965 songs - 1 day 22 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -215,6 +215,7 @@
 | [Dead Homies \(feat\. Veeze\)](https://open.spotify.com/track/2B6sniX8LKlpUkiXLEyenF) | [Desto Dubb](https://open.spotify.com/artist/5GQH7cRNQe10gvlxzdQzAL), [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7) | [Dead Homies \(feat\. Veeze\)](https://open.spotify.com/album/3YHEVzAB8Ozwfzt12vHuga) | 2:14 | 2023-11-10 | 2023-11-12 |
 | [Dead or Alive](https://open.spotify.com/track/25iB3wmUOdPF4mj9lNjbtH) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Dead or Alive](https://open.spotify.com/album/4g8No0TDtB80QveIDeUTjF) | 2:02 | 2023-09-22 | 2024-05-15 |
 | [Dead Shot \(with Lil Uzi Vert\)](https://open.spotify.com/track/5CI4P97F6XAwK1kGnFYC0k) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Demons Protected By Angels](https://open.spotify.com/album/29NWnawJBetVB3lOM9Sbp6) | 3:01 | 2022-09-16 | 2023-04-29 |
+| [Deep End](https://open.spotify.com/track/4VX9BbRWlXlaB0J6DRpzOo) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [Deep End](https://open.spotify.com/album/26XfVMxBavGaeQXzEA6Xu9) | 2:26 | 2024-05-20 |  |
 | [Deep in the Water](https://open.spotify.com/track/2dshtwEGNpyrE0x69wUiHj) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Deep in the Water](https://open.spotify.com/album/3N00K5i1IFjap5SqfxGIPF) | 2:50 | 2024-03-15 |  |
 | [Deez Boyz](https://open.spotify.com/track/3OHasTNtHSPlXT7C1axoHm) | [Cam Wallace](https://open.spotify.com/artist/15PcygUDr0j5LvDA23i5BG) | [These Perfect Moments](https://open.spotify.com/album/5F9Mfg4ed28qy7Y9PK2US6) | 3:15 | 2021-09-03 | 2022-04-20 |
 | [Demon Party](https://open.spotify.com/track/1QhpHt9C42tIp9rdYQ4zWS) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Demon Party](https://open.spotify.com/album/13MCkdR1HqTl3GGzOhoWAU) | 2:25 | 2023-03-13 | 2023-06-01 |
@@ -767,7 +768,7 @@
 | [Sky](https://open.spotify.com/track/29TPjc8wxfz4XMn21O7VsZ) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Whole Lotta Red](https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR) | 3:13 | 2021-09-03 | 2022-03-18 |
 | [Sleazy Flow \(with Lil Baby\) \- Remix](https://open.spotify.com/track/5cx7vkF8BQ0iOsVpfvZbnz) | [SleazyWorld Go](https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Sleazy Flow \(Remix\)](https://open.spotify.com/album/4N1yQmAeHbswH8jbcRnsEG) | 2:41 | 2022-05-27 | 2023-11-11 |
 | [Sleepy Hollow](https://open.spotify.com/track/3v84EI4rMdsqJ95MxwIjQa) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Sleepy Hollow](https://open.spotify.com/album/6okrLJSnDYORkEkFRnvj9D) | 1:41 | 2021-09-03 | 2022-04-29 |
-| [Slide](https://open.spotify.com/track/00rMGQGXFeY2VQTrg7SWde) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Slide](https://open.spotify.com/album/5ebkIuetHLio3kC1E9CxmU) | 2:29 | 2023-08-11 |  |
+| [Slide](https://open.spotify.com/track/00rMGQGXFeY2VQTrg7SWde) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Slide](https://open.spotify.com/album/5ebkIuetHLio3kC1E9CxmU) | 2:29 | 2023-08-11 | 2024-05-26 |
 | [Slight Dub \(feat\. 21 Savage & Young Nudy\)](https://open.spotify.com/track/2INe19w9F8ueR1Fgm9HXbh) | [BabyDrill](https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1) | [MadMan](https://open.spotify.com/album/49J8Mmm7YFMsTRVBr0hUEt) | 3:02 | 2023-06-16 | 2024-02-01 |
 | [Slime Them \(feat\. Lil Yachty\)](https://open.spotify.com/track/15PbmOjutHh9O5IRp5yW6Z) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [B.I.B.L.E.](https://open.spotify.com/album/6np2Ix6RidhSseqw2dZovP) | 2:26 | 2022-04-08 | 2022-04-20 |
 | [Sloppy Joe](https://open.spotify.com/track/0MvwWudS7kG92eCjjd6BSK) | [StaySolidRocky](https://open.spotify.com/artist/1XLWox9w1Yvbodui0SRhUQ) | [Sloppy Joe](https://open.spotify.com/album/13LRn35iuNfIeYzmZv8iDr) | 1:50 | 2022-07-15 | 2022-07-17 |

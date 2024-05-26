@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 
 > The best new music by independent artists and labels, updated every Wednesday\. Cover: Brosie, Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,446 likes - 80 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,452 likes - 80 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 | 56 | [Sad](https://open.spotify.com/track/5Sb9aOJ1RRrwIsuvuRKkyo) | [the einsamkeit](https://open.spotify.com/artist/65Q1khjNwZzmfYGyzOi7Mv) | [Sad](https://open.spotify.com/album/5jPqdA3s6jkvQaHj1jxNhN) | 2:36 |
 | 57 | [viertel nach vier](https://open.spotify.com/track/5xQeAKWejvXRNW666BaoOh) | [fiora](https://open.spotify.com/artist/757EH7oogI3l10jrOicVzE) | [viertel nach vier](https://open.spotify.com/album/3GLllag9hnXGkx2RZeEJL7) | 2:33 |
 | 58 | [Dear Anxiety](https://open.spotify.com/track/2IYfz2PxPKufqrHjoYD1jL) | [NinetyNine](https://open.spotify.com/artist/1lU0ZxYYEbZ25F8jE1egOy) | [Dear Anxiety](https://open.spotify.com/album/3Pdi13khLgBGYlHt7Udd3f) | 2:56 |
-| 59 | [White Dress](https://open.spotify.com/track/1fep0mLqAf2cqBkaS137Ha) | [Dews Pegahorn](https://open.spotify.com/artist/6Ps1VYd6CPGYk96SYPQy08) | [White Dress](https://open.spotify.com/album/3M8sOt14s6Rf4ZpYytm7wU) | 2:45 |
+| 59 | [White Dress](https://open.spotify.com/track/1fep0mLqAf2cqBkaS137Ha) | [Dews Pegahorn](https://open.spotify.com/artist/6Ps1VYd6CPGYk96SYPQy08) | [White Dress](https://open.spotify.com/album/3M8sOt14s6Rf4ZpYytm7wU) | 2:46 |
 | 60 | [Sonnenkind](https://open.spotify.com/track/0YkiKdx7PIRjZbxaJHgw2x) | [piya](https://open.spotify.com/artist/0cEl0cfqLbO7XsDrzJXrzh) | [Sonnenkind](https://open.spotify.com/album/13gmkbNva8ZJtvxQQFXCgF) | 2:47 |
 | 61 | [Falling Again](https://open.spotify.com/track/0LqE1XSOeqEAoZSpKqX5bC) | [Nemo](https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N) | [Falling Again](https://open.spotify.com/album/3KUTpdKpT4zvjSechCnIPL) | 2:50 |
 | 62 | [five star hotel](https://open.spotify.com/track/7m6S53TkH0GpM7Jmk9unbZ) | [embr](https://open.spotify.com/artist/5w6ibIcrNvV4tsT7FO2xFb) | [five star hotel](https://open.spotify.com/album/1BS3FpiVtTjLGl2YJPM9Fb) | 3:28 |

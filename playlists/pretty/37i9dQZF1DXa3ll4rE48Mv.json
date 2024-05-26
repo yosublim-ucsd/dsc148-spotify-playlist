@@ -1,6 +1,6 @@
 {
   "description": "The sounds of LGBTQ+ punk. Cover: Bikini Kill",
-  "num_followers": 192701,
+  "num_followers": 192742,
   "original_name": "Queercore",
   "owner": {
     "name": "Spotify",
@@ -603,22 +603,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "The Reson For Hardcore Vibes Again",
-        "url": "https://open.spotify.com/album/2ulPQaaJiq1rK6YK86wPsI"
-      },
-      "artists": [
-        {
-          "name": "Joe & The Shitboys",
-          "url": "https://open.spotify.com/artist/1LQe0AlqV1e2GD3Ry1UFTg"
-        }
-      ],
-      "duration_ms": 55733,
-      "name": "Save the Planet, You Dumb Shit",
-      "url": "https://open.spotify.com/track/6Kk9Zy9dYzgvTEPNCh2s8o"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Everything Dies",
         "url": "https://open.spotify.com/album/3AyoeLix6xbioDX8eLf1JS"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 191009,
       "name": "Sick Sad World",
       "url": "https://open.spotify.com/track/4BeyMnzwMGNnjYIqMhHqYZ"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "The Reson For Hardcore Vibes Again",
+        "url": "https://open.spotify.com/album/2ulPQaaJiq1rK6YK86wPsI"
+      },
+      "artists": [
+        {
+          "name": "Joe & The Shitboys",
+          "url": "https://open.spotify.com/artist/1LQe0AlqV1e2GD3Ry1UFTg"
+        }
+      ],
+      "duration_ms": 55733,
+      "name": "Save the Planet, You Dumb Shit",
+      "url": "https://open.spotify.com/track/6Kk9Zy9dYzgvTEPNCh2s8o"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
+        "name": "Maggot",
+        "url": "https://open.spotify.com/album/4o2UhvIIalZ00nvHyk2nEz"
+      },
+      "artists": [
+        {
+          "name": "Dazey and the Scouts",
+          "url": "https://open.spotify.com/artist/3J8YGHzxEZzHRYVxGmQCvJ"
+        }
+      ],
+      "duration_ms": 170930,
+      "name": "Wet",
+      "url": "https://open.spotify.com/track/1pMEVQiiBtlhBjRxOVqVVH"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
         "name": "Imaginary Life",
         "url": "https://open.spotify.com/album/4Yb6CXNP2OjaRvPHLNVZfr"
       },
@@ -1223,6 +1239,22 @@
       "duration_ms": 138824,
       "name": "They / Them / Theirs",
       "url": "https://open.spotify.com/track/5zpUjhFZWLZ7vCVk6ZpnRs"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Friends. Lovers. Favorites",
+        "url": "https://open.spotify.com/album/3nffqxNgYlaorWIVUm56R8"
+      },
+      "artists": [
+        {
+          "name": "The Hirs Collective",
+          "url": "https://open.spotify.com/artist/1NV2n4DkUNfCCuaaxsWJnl"
+        }
+      ],
+      "duration_ms": 63466,
+      "name": "It's Ok to Be Sick",
+      "url": "https://open.spotify.com/track/02Xk3OGe1Q4mtOcrokOOAY"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1243,22 +1275,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Maggot",
-        "url": "https://open.spotify.com/album/4o2UhvIIalZ00nvHyk2nEz"
-      },
-      "artists": [
-        {
-          "name": "Dazey and the Scouts",
-          "url": "https://open.spotify.com/artist/3J8YGHzxEZzHRYVxGmQCvJ"
-        }
-      ],
-      "duration_ms": 170930,
-      "name": "Wet",
-      "url": "https://open.spotify.com/track/1pMEVQiiBtlhBjRxOVqVVH"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Lost Time",
         "url": "https://open.spotify.com/album/4vwTDSKpekqB7fEKvifutT"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 125935,
       "name": "I Hate the Weekend",
       "url": "https://open.spotify.com/track/7M1Wssdqgsl8CHFedtehTb"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "All at Once",
-        "url": "https://open.spotify.com/album/1fOxg0lovMu0CPUT2G1WCL"
-      },
-      "artists": [
-        {
-          "name": "Screaming Females",
-          "url": "https://open.spotify.com/artist/3pZ666b6CyO1KGpVYirY0t"
-        }
-      ],
-      "duration_ms": 291600,
-      "name": "Bird in Space",
-      "url": "https://open.spotify.com/track/57sXlIGCFje38cFfqU9INa"
     }
   ],
   "unique_name": "Queercore",

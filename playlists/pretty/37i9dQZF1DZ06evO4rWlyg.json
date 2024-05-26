@@ -1,12 +1,12 @@
 {
-  "description": "This is \u30d3\u30e7\u30fc\u30af\u3002\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u4ee3\u8868\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002",
-  "num_followers": 133665,
-  "original_name": "This Is \u30d3\u30e7\u30fc\u30af",
+  "description": "This Is Bj\u00f6rk. Los temas esenciales, todos en una lista.",
+  "num_followers": 133685,
+  "original_name": "This Is Bj\u00f6rk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zk6HAAAAAAC4pzezRrtYtiTS+j1BugzN",
+  "snapshot_id": "Zk/YgAAAAACWqCsB5x20fcnykDDyJces",
   "tracks": [
     {
       "added_at": null,
@@ -647,6 +647,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Med\u00falla",
+        "url": "https://open.spotify.com/album/1OBctVHKbHrQ2t5oCeHNtN"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "duration_ms": 244213,
+      "name": "Triumph Of A Heart",
+      "url": "https://open.spotify.com/track/2xMjSaJTUcwlv6lKQGTb5g"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Akoma",
         "url": "https://open.spotify.com/album/4N8CfMDL60vLQamW30qZAE"
       },
@@ -663,24 +679,8 @@
       "duration_ms": 246053,
       "name": "Borealis",
       "url": "https://open.spotify.com/track/5wOWgKdRSuqdR1UshYDw4q"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Med\u00falla",
-        "url": "https://open.spotify.com/album/1OBctVHKbHrQ2t5oCeHNtN"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f6rk",
-          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
-        }
-      ],
-      "duration_ms": 244213,
-      "name": "Triumph Of A Heart",
-      "url": "https://open.spotify.com/track/2xMjSaJTUcwlv6lKQGTb5g"
     }
   ],
-  "unique_name": "This Is \u30d3\u30e7\u30fc\u30af",
+  "unique_name": "This Is Bj\u00f6rk",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4rWlyg"
 }

@@ -1,6 +1,6 @@
 {
   "description": "for those who appreciate a curated mood \ud83e\udea9 cover: Sabrina Carpenter",
-  "num_followers": 839371,
+  "num_followers": 839385,
   "original_name": "aesthetic",
   "owner": {
     "name": "Spotify",
@@ -799,6 +799,22 @@
     {
       "added_at": "2024-04-14 20:52:51",
       "album": {
+        "name": "This Is Home",
+        "url": "https://open.spotify.com/album/0eB1tOktFK5AtA9YBYSXRu"
+      },
+      "artists": [
+        {
+          "name": "Cavetown",
+          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+        }
+      ],
+      "duration_ms": 226073,
+      "name": "This Is Home",
+      "url": "https://open.spotify.com/track/7s8VgA8OjvwBUuigKzEGBx"
+    },
+    {
+      "added_at": "2024-04-14 20:52:51",
+      "album": {
         "name": "She Likes Another Boy + Talk 2 U",
         "url": "https://open.spotify.com/album/173xQWSgG3rzoNjJ7yskiA"
       },
@@ -815,18 +831,18 @@
     {
       "added_at": "2024-04-14 20:52:51",
       "album": {
-        "name": "This Is Home",
-        "url": "https://open.spotify.com/album/0eB1tOktFK5AtA9YBYSXRu"
+        "name": "my future",
+        "url": "https://open.spotify.com/album/3oxhQpF3Twbkl18oQYfnh5"
       },
       "artists": [
         {
-          "name": "Cavetown",
-          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
         }
       ],
-      "duration_ms": 226073,
-      "name": "This Is Home",
-      "url": "https://open.spotify.com/track/7s8VgA8OjvwBUuigKzEGBx"
+      "duration_ms": 208155,
+      "name": "my future",
+      "url": "https://open.spotify.com/track/2ygvZOXrIeVL4xZmAWJT2C"
     },
     {
       "added_at": "2024-04-14 20:52:51",
@@ -847,22 +863,6 @@
       "duration_ms": 295308,
       "name": "Shootout",
       "url": "https://open.spotify.com/track/4pTkDIlpFNoeWbahu8pVXW"
-    },
-    {
-      "added_at": "2024-04-14 20:52:51",
-      "album": {
-        "name": "my future",
-        "url": "https://open.spotify.com/album/3oxhQpF3Twbkl18oQYfnh5"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 208155,
-      "name": "my future",
-      "url": "https://open.spotify.com/track/2ygvZOXrIeVL4xZmAWJT2C"
     },
     {
       "added_at": "2024-04-14 20:52:51",
@@ -1179,26 +1179,6 @@
     {
       "added_at": "2024-04-14 20:52:51",
       "album": {
-        "name": "glow worms",
-        "url": "https://open.spotify.com/album/73WH6rOigOwshc88l9Hm83"
-      },
-      "artists": [
-        {
-          "name": "ivri",
-          "url": "https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS"
-        },
-        {
-          "name": "Naveih",
-          "url": "https://open.spotify.com/artist/0xymtqlA5ioTRnQyhd0fCt"
-        }
-      ],
-      "duration_ms": 115215,
-      "name": "glow worms",
-      "url": "https://open.spotify.com/track/3JG9JpvaYjmq0i17qnu8y4"
-    },
-    {
-      "added_at": "2024-04-14 20:52:51",
-      "album": {
         "name": "Hush (Still Woozy Remix)",
         "url": "https://open.spotify.com/album/3LcrYJ7ASoQo7SuBy7qGoI"
       },
@@ -1219,6 +1199,22 @@
     {
       "added_at": "2024-04-14 20:52:51",
       "album": {
+        "name": "In Tongues",
+        "url": "https://open.spotify.com/album/3dtSst4EXjGeZVQ5Sco315"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "duration_ms": 126312,
+      "name": "worldstar money (interlude)",
+      "url": "https://open.spotify.com/track/435yU2MvEGfDdmbH0noWZ0"
+    },
+    {
+      "added_at": "2024-04-14 20:52:51",
+      "album": {
         "name": "Renee",
         "url": "https://open.spotify.com/album/4qR0co1PeeQSsqHF9xTeGn"
       },
@@ -1235,18 +1231,22 @@
     {
       "added_at": "2024-04-14 20:52:51",
       "album": {
-        "name": "In Tongues",
-        "url": "https://open.spotify.com/album/3dtSst4EXjGeZVQ5Sco315"
+        "name": "glow worms",
+        "url": "https://open.spotify.com/album/73WH6rOigOwshc88l9Hm83"
       },
       "artists": [
         {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+          "name": "ivri",
+          "url": "https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS"
+        },
+        {
+          "name": "Naveih",
+          "url": "https://open.spotify.com/artist/0xymtqlA5ioTRnQyhd0fCt"
         }
       ],
-      "duration_ms": 126312,
-      "name": "worldstar money (interlude)",
-      "url": "https://open.spotify.com/track/435yU2MvEGfDdmbH0noWZ0"
+      "duration_ms": 115215,
+      "name": "glow worms",
+      "url": "https://open.spotify.com/track/3JG9JpvaYjmq0i17qnu8y4"
     },
     {
       "added_at": "2024-04-14 20:52:51",

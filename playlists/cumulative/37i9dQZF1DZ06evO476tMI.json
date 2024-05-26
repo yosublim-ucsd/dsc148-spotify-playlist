@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-29",
-  "description": "This is Whitney Houston. The essential tracks, all in one playlist.",
+  "description": "This is Whitney Houston. Todos os maiores hits em uma s\u00f3 playlist.",
   "name": "This Is Whitney Houston",
   "tracks": [
     {
@@ -212,7 +212,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-25",
+      "date_removed": null,
       "duration_ms": 291400,
       "name": "Greatest Love of All",
       "url": "https://open.spotify.com/track/6yJxCltgtmGxIgKOS6ndnu"
@@ -260,7 +260,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-26",
       "duration_ms": 228267,
       "name": "Higher Love",
       "url": "https://open.spotify.com/track/1kKYjjfNYxE0YYgLa7vgVY"
@@ -782,7 +782,7 @@
       ],
       "date_added": "2023-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-26",
       "duration_ms": 228093,
       "name": "Nobody Loves Me Like You Do (with Jermaine Jackson)",
       "url": "https://open.spotify.com/track/72NcOvvGdarZaOyKMNHZ1m"
@@ -1152,7 +1152,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-24",
+      "date_removed": null,
       "duration_ms": 260293,
       "name": "You'll Never Stand Alone",
       "url": "https://open.spotify.com/track/3KFbjIFQxMbOKdZ4S3lv4S"

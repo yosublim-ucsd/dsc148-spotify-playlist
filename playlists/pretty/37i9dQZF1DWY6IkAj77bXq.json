@@ -1,6 +1,6 @@
 {
   "description": "Resonancias luminiscentes para llenar de paz tu alma.",
-  "num_followers": 71548,
+  "num_followers": 71576,
   "original_name": "Sanaci\u00f3n Profunda",
   "owner": {
     "name": "Spotify",
@@ -171,6 +171,22 @@
     {
       "added_at": "2024-05-10 18:15:09",
       "album": {
+        "name": "Golden Age",
+        "url": "https://open.spotify.com/album/1gWhdIMJ1bGoLTbj0hBQri"
+      },
+      "artists": [
+        {
+          "name": "Alfa Cognitive",
+          "url": "https://open.spotify.com/artist/1twdki52gevuZJwMcTNsEM"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "Golden Age",
+      "url": "https://open.spotify.com/track/6zVBj0zU6IrGp81gMiHGhA"
+    },
+    {
+      "added_at": "2024-05-10 18:15:09",
+      "album": {
         "name": "Pilgrimage",
         "url": "https://open.spotify.com/album/2XWMV5XBqmoPaPxOWLlJGq"
       },
@@ -215,22 +231,6 @@
       "duration_ms": 169382,
       "name": "Wu Wei",
       "url": "https://open.spotify.com/track/6EOpjNGn34eXLJASVcUksY"
-    },
-    {
-      "added_at": "2024-05-10 18:15:09",
-      "album": {
-        "name": "Golden Age",
-        "url": "https://open.spotify.com/album/1gWhdIMJ1bGoLTbj0hBQri"
-      },
-      "artists": [
-        {
-          "name": "Alfa Cognitive",
-          "url": "https://open.spotify.com/artist/1twdki52gevuZJwMcTNsEM"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "Golden Age",
-      "url": "https://open.spotify.com/track/6zVBj0zU6IrGp81gMiHGhA"
     },
     {
       "added_at": "2024-05-10 18:15:09",
@@ -699,22 +699,6 @@
     {
       "added_at": "2024-05-10 18:15:09",
       "album": {
-        "name": "Moonchild's First Flight",
-        "url": "https://open.spotify.com/album/7IuYVLETfUDeaLNUjy0yjc"
-      },
-      "artists": [
-        {
-          "name": "Amos Stremann",
-          "url": "https://open.spotify.com/artist/3bG8t8K1zUVkhWwUHMO6yV"
-        }
-      ],
-      "duration_ms": 172372,
-      "name": "Moonchild's First Flight",
-      "url": "https://open.spotify.com/track/1IX7UbfRE92CznRFY5a011"
-    },
-    {
-      "added_at": "2024-05-10 18:15:09",
-      "album": {
         "name": "Hills Of Clarity",
         "url": "https://open.spotify.com/album/4XjkLYSgsglG0yS1MhuzJA"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 255792,
       "name": "Hills Of Clarity",
       "url": "https://open.spotify.com/track/3HvwuHV9xd0VGi0GncXgoL"
+    },
+    {
+      "added_at": "2024-05-10 18:15:09",
+      "album": {
+        "name": "Moonchild's First Flight",
+        "url": "https://open.spotify.com/album/7IuYVLETfUDeaLNUjy0yjc"
+      },
+      "artists": [
+        {
+          "name": "Amos Stremann",
+          "url": "https://open.spotify.com/artist/3bG8t8K1zUVkhWwUHMO6yV"
+        }
+      ],
+      "duration_ms": 172372,
+      "name": "Moonchild's First Flight",
+      "url": "https://open.spotify.com/track/1IX7UbfRE92CznRFY5a011"
     },
     {
       "added_at": "2024-05-10 18:15:09",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2024-05-10 18:15:09",
       "album": {
-        "name": "Nebulae",
-        "url": "https://open.spotify.com/album/6L1zv90N3x8xOzXASWr8jj"
-      },
-      "artists": [
-        {
-          "name": "Hello Artemisia!",
-          "url": "https://open.spotify.com/artist/5A05k3XjnB2j83Vw8Iigx3"
-        }
-      ],
-      "duration_ms": 189272,
-      "name": "Niobe",
-      "url": "https://open.spotify.com/track/0OEUIVHPNUXHoIgt4qxZW3"
-    },
-    {
-      "added_at": "2024-05-10 18:15:09",
-      "album": {
         "name": "Stillness",
         "url": "https://open.spotify.com/album/45JitQMFNSa8L3wFS5JOcC"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 191718,
       "name": "Stillness",
       "url": "https://open.spotify.com/track/5dm8dyCwn5fGikFFmcSoGc"
+    },
+    {
+      "added_at": "2024-05-10 18:15:09",
+      "album": {
+        "name": "Nebulae",
+        "url": "https://open.spotify.com/album/6L1zv90N3x8xOzXASWr8jj"
+      },
+      "artists": [
+        {
+          "name": "Hello Artemisia!",
+          "url": "https://open.spotify.com/artist/5A05k3XjnB2j83Vw8Iigx3"
+        }
+      ],
+      "duration_ms": 189272,
+      "name": "Niobe",
+      "url": "https://open.spotify.com/track/0OEUIVHPNUXHoIgt4qxZW3"
     },
     {
       "added_at": "2024-05-10 18:15:09",
@@ -1643,18 +1643,18 @@
     {
       "added_at": "2024-05-10 18:15:09",
       "album": {
-        "name": "Mystic Reverberations",
-        "url": "https://open.spotify.com/album/1TmnmvyZ3tZJnRK1mMc2Wd"
+        "name": "Dreamgaze",
+        "url": "https://open.spotify.com/album/0gvuIEHNqACJU8JXn2BcTC"
       },
       "artists": [
         {
-          "name": "Spatia Sonica",
-          "url": "https://open.spotify.com/artist/52CWUxOpQe9GHy9aCN0Irk"
+          "name": "Brisbois",
+          "url": "https://open.spotify.com/artist/3kp0L0gzhW88FsfpD4H0kH"
         }
       ],
-      "duration_ms": 149250,
-      "name": "Mystic Reverberations",
-      "url": "https://open.spotify.com/track/6c7SjzTC92FI18MmItSPSq"
+      "duration_ms": 217000,
+      "name": "Dreamgaze",
+      "url": "https://open.spotify.com/track/6IRi150T6ZXt3uFGpFggEv"
     },
     {
       "added_at": "2024-05-10 18:15:09",
@@ -1675,18 +1675,18 @@
     {
       "added_at": "2024-05-10 18:15:09",
       "album": {
-        "name": "Dreamgaze",
-        "url": "https://open.spotify.com/album/0gvuIEHNqACJU8JXn2BcTC"
+        "name": "Mystic Reverberations",
+        "url": "https://open.spotify.com/album/1TmnmvyZ3tZJnRK1mMc2Wd"
       },
       "artists": [
         {
-          "name": "Brisbois",
-          "url": "https://open.spotify.com/artist/3kp0L0gzhW88FsfpD4H0kH"
+          "name": "Spatia Sonica",
+          "url": "https://open.spotify.com/artist/52CWUxOpQe9GHy9aCN0Irk"
         }
       ],
-      "duration_ms": 217000,
-      "name": "Dreamgaze",
-      "url": "https://open.spotify.com/track/6IRi150T6ZXt3uFGpFggEv"
+      "duration_ms": 149250,
+      "name": "Mystic Reverberations",
+      "url": "https://open.spotify.com/track/6c7SjzTC92FI18MmItSPSq"
     },
     {
       "added_at": "2024-05-10 18:15:09",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6P9kL0w6D5JnjAUGVQKXgD.md) - [plain]
 
 > EDM, Dance, House, Electro, Electronica and more! Vote at edmcharts.net\. With: Kriss Reeve, Jackson Wang, Galantis, MK
 
-[EDM Charts](https://open.spotify.com/user/edmcharts.net) - 47,530 likes - 100 songs - 5 hr 8 min
+[EDM Charts](https://open.spotify.com/user/edmcharts.net) - 47,529 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/6P9kL0w6D5JnjAUGVQKXgD.md) - [plain]
 | 55 | [Drive \(feat\. Wes Nelson\)](https://open.spotify.com/track/6eCmK3GQyFuTNWCJHsaF9d) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Wes Nelson](https://open.spotify.com/artist/4ktBrNjagCGftyuBLJkATq) | [Drive \(feat\. Wes Nelson\)](https://open.spotify.com/album/7wDWQrTNxHSVvklLTucK2D) | 2:59 |
 | 56 | [Invisible Dress \- Maro Music x Skytech Remix \- Short Edit](https://open.spotify.com/track/5ihUSA58Ykw7ZPR0aRyMCX) | [sanah](https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE), [Maro Music](https://open.spotify.com/artist/4iHE8t7vhPwUX0TrF4cETN), [Skytech](https://open.spotify.com/artist/4CrDEHL7ysNabeYvL3xjUX) | [Invisible Dress \(Maro Music x Skytech Remix\)](https://open.spotify.com/album/6MO2u14IJEljE1X5mYYtou) | 2:27 |
 | 57 | [Side By Side \(with MKLA\)](https://open.spotify.com/track/37107dPB28NderX4Tpbirg) | [Syn Cole](https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH), [MKLA](https://open.spotify.com/artist/57Vnemieu10x71jR2UWc4o) | [Side By Side \(with MKLA\)](https://open.spotify.com/album/41tTMz5QHSUZgrKEYzsPlH) | 2:33 |
-| 58 | [Forever](https://open.spotify.com/track/1wr89veeTymkZ5aj1iYd3u) | [Jack Fruit](https://open.spotify.com/artist/3PKBUs6yX8imvyQp0E8ePe), [Valentina Star](https://open.spotify.com/artist/2JDNtZp5FSjWeMK4C4hFFU), [Night Pulse](https://open.spotify.com/artist/3Q6lq9qdwY3y1uYf5NIqrR) | [Forever](https://open.spotify.com/album/4BujVvdktAA5TjMcs7jKyw) | 3:34 |
+| 58 | [Forever](https://open.spotify.com/track/1wr89veeTymkZ5aj1iYd3u) | [Jack Fruit](https://open.spotify.com/artist/0n0HpcvEJoZvQSPwkBKkSE), [Valentina Star](https://open.spotify.com/artist/2JDNtZp5FSjWeMK4C4hFFU), [Night Pulse](https://open.spotify.com/artist/3Q6lq9qdwY3y1uYf5NIqrR) | [Forever](https://open.spotify.com/album/4BujVvdktAA5TjMcs7jKyw) | 3:34 |
 | 59 | [Are You Sure? \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/0fH86zQcE2CmATQju6WpXv) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [Conor Maynard](https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Are You Sure? \(feat\. Ty Dolla $ign\)](https://open.spotify.com/album/45iPP1EnvBfGZ5sLayxjd2) | 3:14 |
 | 60 | [Angelina](https://open.spotify.com/track/2WjxSe0iEAF18pON4KeWcx) | [Sevenn](https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4), [KimLima](https://open.spotify.com/artist/6BcOUkfXKhuqCvTx1Vo8Us) | [Angelina](https://open.spotify.com/album/2JNfsYjNImbagCSb4CCbW1) | 3:10 |
 | 61 | [Erase You](https://open.spotify.com/track/6hpUC8LHOj0U1JHuFasl9b) | [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR), [MILLENNIAL](https://open.spotify.com/artist/5IpsdReCfjh5hLsJBpf3Lp) | [Erase You](https://open.spotify.com/album/4wt8xueNgt2Eiq2UcSswjA) | 3:29 |

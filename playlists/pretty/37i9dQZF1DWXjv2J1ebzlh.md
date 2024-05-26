@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 
 > The magical world map! Play it in shuffle ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,426 likes - 1,192 songs - 3 day 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,455 likes - 1,192 songs - 3 day 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1183,7 +1183,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 1173 | [Yo No Tengo Pena](https://open.spotify.com/track/77Ef4ZdJQtRCztVOdpcL50) | [Angel Canales](https://open.spotify.com/artist/4bJWcXUgUrQl4E4ru6VapB) | [Más Sabor](https://open.spotify.com/album/1HBA0puMnLVoLFAgg2DPX8) | 6:10 |
 | 1174 | [Sin Ti \- Remastered](https://open.spotify.com/track/5G8BNDSQwschLTFLKWwhai) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Lo Mejor de Los Panchos \(Remastered\)](https://open.spotify.com/album/30ryX5o7MBryuQXglkiFUc) | 2:48 |
 | 1175 | [Dance Maria](https://open.spotify.com/track/26s4mCZ2Plz0ucEZJboRQf) | [Agepê](https://open.spotify.com/artist/5T2UOU9fV8RcUgLH3b6TTN) | [Canto de Esperança](https://open.spotify.com/album/06USmj4AVPJAbYj2di4k8v) | 3:00 |
-| 1176 | [Mitamiyo](https://open.spotify.com/track/2q9SWGXBh3VE7ZmERLEbYS) | [Mendes & Mendes](https://open.spotify.com/artist/4Bh3bsbrB7fnChSdZZEHvf) | [Mendes & Mendes](https://open.spotify.com/album/4UqjJ3DpAQRa78hPNJhqB4) | 5:29 |
+| 1176 | [Mitamiyo](https://open.spotify.com/track/2q9SWGXBh3VE7ZmERLEbYS) | [Mendes & Mendes](https://open.spotify.com/artist/0yXGE4eVAQ5ctPX65p1KwY) | [Mendes & Mendes](https://open.spotify.com/album/4UqjJ3DpAQRa78hPNJhqB4) | 5:29 |
 | 1177 | [Fisherman](https://open.spotify.com/track/5SBq56S9xKJoH4KyBBr1Oq) | [The Congos](https://open.spotify.com/artist/0nGxKkhmIzyu6bvuXrko1e) | [Heart Of The Congos \(40th Anniversary Edition\)](https://open.spotify.com/album/5sveiJoz4KgtQ652M2LNe1) | 6:05 |
 | 1178 | [El Raton](https://open.spotify.com/track/2WFimSbDajGIXOtEK90Vko) | [Los Invasores](https://open.spotify.com/artist/3UG7GUXPGIte9gqulx8uLG) | [Latin Jazz Summer, Vol\. 5](https://open.spotify.com/album/6ISP6QhA1vp0oGRmPEpnjd) | 3:26 |
 | 1179 | [Subway Joe](https://open.spotify.com/track/30E1ZeueWNbOzMP2PJRqa8) | [Joe Bataan](https://open.spotify.com/artist/7ME0heqob2B32S9ofWhOyU) | [Subway Joe](https://open.spotify.com/album/7ImYYi0tJHTsYHH8Qxm9OS) | 2:57 |

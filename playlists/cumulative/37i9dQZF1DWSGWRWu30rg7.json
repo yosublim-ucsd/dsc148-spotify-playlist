@@ -6985,6 +6985,24 @@
     },
     {
       "album": {
+        "name": "Best Laid Plan!",
+        "url": "https://open.spotify.com/album/1iPr72kieO51YULQyVu1oB"
+      },
+      "artists": [
+        {
+          "name": "Godeliva Ella",
+          "url": "https://open.spotify.com/artist/5LS27tOe5eBERzf4UoDrMh"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195845,
+      "name": "Best Laid Plan!",
+      "url": "https://open.spotify.com/track/7vGmjFc0wlFHW6e75UU4rS"
+    },
+    {
+      "album": {
         "name": "Best Part",
         "url": "https://open.spotify.com/album/4lIjUceeUCxdTt0GQq6KOn"
       },

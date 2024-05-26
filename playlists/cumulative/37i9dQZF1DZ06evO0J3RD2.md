@@ -2,7 +2,7 @@
 
 ### [This Is Movements](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0J3RD2)
 
-> This is Movements。アーティストの代表曲をひとつのプレイリストに。
+> This is Movements\. The essential tracks, all in one playlist.
 
 44 songs - 2 hr 37 min
 

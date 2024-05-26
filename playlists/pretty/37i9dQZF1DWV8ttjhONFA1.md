@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8ttjhONFA1.md) - [plain]
 
 > El nuevo sonido argentino lo encontrás acá\. Foto: Paz Carrara.
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,798 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,799 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8ttjhONFA1.md) - [plain]
 | 32 | [Tarde o Temprano](https://open.spotify.com/track/7CJbGTWfMlNYkhk2MgBfde) | [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [Tarde o Temprano](https://open.spotify.com/album/5MVlQJ6WnmXjzje3ruMLvS) | 3:33 |
 | 33 | [AIRE](https://open.spotify.com/track/3tdbrXujlOuWK62lhxBhVV) | [Plastilina](https://open.spotify.com/artist/0NAzHtE2ceqgTPJZfrhzG9) | [AIRE](https://open.spotify.com/album/7pTcUd0Du1SMJNLv8h8x04) | 3:39 |
 | 34 | [El Riesgo](https://open.spotify.com/track/7E6ljIUVDjlka1cNGnVg1F) | [El Plan De La Mariposa](https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir) | [Devorando Intensidad](https://open.spotify.com/album/16ycW7h7bErtyFt9CI5BN8) | 4:28 |
-| 35 | [daigo parry](https://open.spotify.com/track/6TFMHx4XtnPMxsdy9CZCna) | [Guacho Bleu](https://open.spotify.com/artist/6aCzr3JU58kboMXNqu8QGo), [ODD MAMI](https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6) | [daigo parry](https://open.spotify.com/album/1GnT4PsqOahmGczmhGXOPO) | 3:10 |
+| 35 | [daigo parry \- ODD MAMI](https://open.spotify.com/track/6TFMHx4XtnPMxsdy9CZCna) | [Guacho Bleu](https://open.spotify.com/artist/6aCzr3JU58kboMXNqu8QGo), [ODD MAMI](https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6) | [daigo parry \- ODD MAMI](https://open.spotify.com/album/1GnT4PsqOahmGczmhGXOPO) | 3:10 |
 | 36 | [Policía](https://open.spotify.com/track/0pDooPTaMUaDQfnBdbPdYo) | [1915](https://open.spotify.com/artist/4jwnlVc9Lj5vMkL32978d1) | [Bandera](https://open.spotify.com/album/318AKHHgLilno4gE3AiEAA) | 3:54 |
 | 37 | [La Noche Eterna](https://open.spotify.com/track/58zB7AczXbwRfmPmiVjeqh) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [La Sintesis O'Konor](https://open.spotify.com/album/7oEJJ7TxrfWGJXczcuOWpK) | 5:27 |
 | 38 | [trance ZZZ](https://open.spotify.com/track/5rBfUmYhDghCAOlsd8YXl8) | [doppel gangs](https://open.spotify.com/artist/6NOqzjI8BErx0WICegZzTQ) | [ZZZ](https://open.spotify.com/album/2eDzshsdAj7l1P77vYq2Ia) | 2:12 |

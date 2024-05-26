@@ -1,6 +1,6 @@
 {
   "description": "Metalcore at its finest. Cover: The Plot In You",
-  "num_followers": 925947,
+  "num_followers": 926034,
   "original_name": "The Core",
   "owner": {
     "name": "Spotify",
@@ -243,22 +243,6 @@
     {
       "added_at": "2024-05-10 04:20:40",
       "album": {
-        "name": "Blinding Faith",
-        "url": "https://open.spotify.com/album/2SUpvMXqoANnpp4qLYCnMp"
-      },
-      "artists": [
-        {
-          "name": "Knocked Loose",
-          "url": "https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw"
-        }
-      ],
-      "duration_ms": 171090,
-      "name": "Blinding Faith",
-      "url": "https://open.spotify.com/track/5oSnYy4EijgEEEDO9MPDq4"
-    },
-    {
-      "added_at": "2024-05-10 04:20:40",
-      "album": {
         "name": "Conflict",
         "url": "https://open.spotify.com/album/4duvgcgX88O1QzeoGl0DuE"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 144000,
       "name": "Conflict",
       "url": "https://open.spotify.com/track/7cMIJjvNrSxkLBoo7SnAvw"
+    },
+    {
+      "added_at": "2024-05-10 04:20:40",
+      "album": {
+        "name": "Blinding Faith",
+        "url": "https://open.spotify.com/album/2SUpvMXqoANnpp4qLYCnMp"
+      },
+      "artists": [
+        {
+          "name": "Knocked Loose",
+          "url": "https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw"
+        }
+      ],
+      "duration_ms": 171090,
+      "name": "Blinding Faith",
+      "url": "https://open.spotify.com/track/5oSnYy4EijgEEEDO9MPDq4"
     },
     {
       "added_at": "2024-05-10 04:20:40",
@@ -387,22 +387,6 @@
     {
       "added_at": "2024-05-10 04:20:40",
       "album": {
-        "name": "Don't Reach For Me",
-        "url": "https://open.spotify.com/album/3FWb6SMsjXJ1VqRamg44cO"
-      },
-      "artists": [
-        {
-          "name": "Knocked Loose",
-          "url": "https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw"
-        }
-      ],
-      "duration_ms": 225240,
-      "name": "Don't Reach For Me",
-      "url": "https://open.spotify.com/track/3pFg2UmSItBn9Zj8AmVse7"
-    },
-    {
-      "added_at": "2024-05-10 04:20:40",
-      "album": {
         "name": "nights",
         "url": "https://open.spotify.com/album/1QoYG03O6S0GGvg5WBi3cY"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 192054,
       "name": "Below The Belt (feat. Set It Off)",
       "url": "https://open.spotify.com/track/1kTWMMX7LjK8a2GnpKVRlM"
+    },
+    {
+      "added_at": "2024-05-10 04:20:40",
+      "album": {
+        "name": "Don't Reach For Me",
+        "url": "https://open.spotify.com/album/3FWb6SMsjXJ1VqRamg44cO"
+      },
+      "artists": [
+        {
+          "name": "Knocked Loose",
+          "url": "https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw"
+        }
+      ],
+      "duration_ms": 225240,
+      "name": "Don't Reach For Me",
+      "url": "https://open.spotify.com/track/3pFg2UmSItBn9Zj8AmVse7"
     },
     {
       "added_at": "2024-05-10 04:20:40",
@@ -855,22 +855,6 @@
     {
       "added_at": "2024-05-10 04:20:40",
       "album": {
-        "name": "Wash It Away",
-        "url": "https://open.spotify.com/album/4WNRKcQakjSUvjbw9lVF7c"
-      },
-      "artists": [
-        {
-          "name": "The Ghost Inside",
-          "url": "https://open.spotify.com/artist/6kQB2RN7WwryMdJ1MoQh1E"
-        }
-      ],
-      "duration_ms": 214710,
-      "name": "Wash It Away",
-      "url": "https://open.spotify.com/track/6IMtQCeUaVg4K6pyk3LyBi"
-    },
-    {
-      "added_at": "2024-05-10 04:20:40",
-      "album": {
         "name": "Hope is a Cult",
         "url": "https://open.spotify.com/album/5lq3RYK2UtsoM0KWq0dDNk"
       },
@@ -919,6 +903,22 @@
     {
       "added_at": "2024-05-10 04:20:40",
       "album": {
+        "name": "Wash It Away",
+        "url": "https://open.spotify.com/album/4WNRKcQakjSUvjbw9lVF7c"
+      },
+      "artists": [
+        {
+          "name": "The Ghost Inside",
+          "url": "https://open.spotify.com/artist/6kQB2RN7WwryMdJ1MoQh1E"
+        }
+      ],
+      "duration_ms": 214710,
+      "name": "Wash It Away",
+      "url": "https://open.spotify.com/track/6IMtQCeUaVg4K6pyk3LyBi"
+    },
+    {
+      "added_at": "2024-05-10 04:20:40",
+      "album": {
         "name": "Mourning The Dawn",
         "url": "https://open.spotify.com/album/77r78HoZ07ZPx7DUjaTIXV"
       },
@@ -935,18 +935,18 @@
     {
       "added_at": "2024-05-10 04:20:40",
       "album": {
-        "name": "Crawl Backwards Out of Heaven",
-        "url": "https://open.spotify.com/album/23e3BsmlALgWjiHwAPsJIw"
+        "name": "Break The Rules",
+        "url": "https://open.spotify.com/album/2pnNHGrnVLgTHgr46uv0fB"
       },
       "artists": [
         {
-          "name": "ERRA",
-          "url": "https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0"
+          "name": "Windwaker",
+          "url": "https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS"
         }
       ],
-      "duration_ms": 202933,
-      "name": "Crawl Backwards Out of Heaven",
-      "url": "https://open.spotify.com/track/0X7rvyf0HWOfNQMHytQQqr"
+      "duration_ms": 201000,
+      "name": "Break The Rules",
+      "url": "https://open.spotify.com/track/1EvMSw0fUb3mlcIBqwQvLI"
     },
     {
       "added_at": "2024-05-10 04:20:40",
@@ -967,6 +967,22 @@
       "duration_ms": 184287,
       "name": "Underrated",
       "url": "https://open.spotify.com/track/0GOyA0rySAzlatVK569o6V"
+    },
+    {
+      "added_at": "2024-05-10 04:20:40",
+      "album": {
+        "name": "Crawl Backwards Out of Heaven",
+        "url": "https://open.spotify.com/album/23e3BsmlALgWjiHwAPsJIw"
+      },
+      "artists": [
+        {
+          "name": "ERRA",
+          "url": "https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0"
+        }
+      ],
+      "duration_ms": 202933,
+      "name": "Crawl Backwards Out of Heaven",
+      "url": "https://open.spotify.com/track/0X7rvyf0HWOfNQMHytQQqr"
     },
     {
       "added_at": "2024-05-10 04:20:40",
@@ -1023,22 +1039,6 @@
     {
       "added_at": "2024-05-10 04:20:40",
       "album": {
-        "name": "Break The Rules",
-        "url": "https://open.spotify.com/album/2pnNHGrnVLgTHgr46uv0fB"
-      },
-      "artists": [
-        {
-          "name": "Windwaker",
-          "url": "https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "Break The Rules",
-      "url": "https://open.spotify.com/track/1EvMSw0fUb3mlcIBqwQvLI"
-    },
-    {
-      "added_at": "2024-05-10 04:20:40",
-      "album": {
         "name": "Abyss Pt I",
         "url": "https://open.spotify.com/album/2Cn410HpyiPrDfUbAV8fg4"
       },
@@ -1055,18 +1055,18 @@
     {
       "added_at": "2024-05-10 04:20:40",
       "album": {
-        "name": "Worlds Apart",
-        "url": "https://open.spotify.com/album/4CaCWD32xGgl8KT4VWBsCV"
+        "name": "Enter The Wall",
+        "url": "https://open.spotify.com/album/7KLuUqhjYU088Q0Xt1WCfU"
       },
       "artists": [
         {
-          "name": "Demon Hunter",
-          "url": "https://open.spotify.com/artist/6f3a43i1MJZwdjEpV1M0oH"
+          "name": "Windwaker",
+          "url": "https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS"
         }
       ],
-      "duration_ms": 268235,
-      "name": "Worlds Apart",
-      "url": "https://open.spotify.com/track/3QqQ0uucCvfCZTkR1yriJO"
+      "duration_ms": 143946,
+      "name": "The Wall",
+      "url": "https://open.spotify.com/track/1WawIFyXJhxthsfFujjYez"
     },
     {
       "added_at": "2024-05-10 04:20:40",
@@ -1083,6 +1083,22 @@
       "duration_ms": 210880,
       "name": "The Welcome Party",
       "url": "https://open.spotify.com/track/0SlmKiPJ4GpSPq6rnMLBSq"
+    },
+    {
+      "added_at": "2024-05-10 04:20:40",
+      "album": {
+        "name": "Worlds Apart",
+        "url": "https://open.spotify.com/album/4CaCWD32xGgl8KT4VWBsCV"
+      },
+      "artists": [
+        {
+          "name": "Demon Hunter",
+          "url": "https://open.spotify.com/artist/6f3a43i1MJZwdjEpV1M0oH"
+        }
+      ],
+      "duration_ms": 268235,
+      "name": "Worlds Apart",
+      "url": "https://open.spotify.com/track/3QqQ0uucCvfCZTkR1yriJO"
     },
     {
       "added_at": "2024-05-10 04:20:40",
@@ -1147,22 +1163,6 @@
       "duration_ms": 251722,
       "name": "Nefarious",
       "url": "https://open.spotify.com/track/36sawGMYzK5ZMcW0mNtuFr"
-    },
-    {
-      "added_at": "2024-05-10 04:20:40",
-      "album": {
-        "name": "Enter The Wall",
-        "url": "https://open.spotify.com/album/7KLuUqhjYU088Q0Xt1WCfU"
-      },
-      "artists": [
-        {
-          "name": "Windwaker",
-          "url": "https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS"
-        }
-      ],
-      "duration_ms": 143946,
-      "name": "The Wall",
-      "url": "https://open.spotify.com/track/1WawIFyXJhxthsfFujjYez"
     },
     {
       "added_at": "2024-05-10 04:20:40",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2024-05-10 04:20:40",
       "album": {
+        "name": "The Pact",
+        "url": "https://open.spotify.com/album/02DTRsOLnUl6syGJ6lzmj4"
+      },
+      "artists": [
+        {
+          "name": "Revnoir",
+          "url": "https://open.spotify.com/artist/6Jnxg5O26hXfwfbRSMzVuB"
+        }
+      ],
+      "duration_ms": 217500,
+      "name": "The Pact",
+      "url": "https://open.spotify.com/track/65vY8anCVpjrERrN4vzZ13"
+    },
+    {
+      "added_at": "2024-05-10 04:20:40",
+      "album": {
         "name": "Hard To Live (feat. David Benites)",
         "url": "https://open.spotify.com/album/7fD4DbcPl9tL5m8FJEDJfo"
       },
@@ -1251,22 +1267,6 @@
       "duration_ms": 240000,
       "name": "Hard To Live - feat. David Benites",
       "url": "https://open.spotify.com/track/5kurhA888Fh98xOJtL7TXA"
-    },
-    {
-      "added_at": "2024-05-10 04:20:40",
-      "album": {
-        "name": "The Pact",
-        "url": "https://open.spotify.com/album/02DTRsOLnUl6syGJ6lzmj4"
-      },
-      "artists": [
-        {
-          "name": "Revnoir",
-          "url": "https://open.spotify.com/artist/6Jnxg5O26hXfwfbRSMzVuB"
-        }
-      ],
-      "duration_ms": 217500,
-      "name": "The Pact",
-      "url": "https://open.spotify.com/track/65vY8anCVpjrERrN4vzZ13"
     },
     {
       "added_at": "2024-05-10 04:20:40",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2024-05-10 04:20:40",
       "album": {
-        "name": "Burn",
-        "url": "https://open.spotify.com/album/2eTDWs3EX9OGigTDTNIEjJ"
-      },
-      "artists": [
-        {
-          "name": "Rising Insane",
-          "url": "https://open.spotify.com/artist/7InRNmmQuAi5KGBFtfOkrf"
-        }
-      ],
-      "duration_ms": 195356,
-      "name": "Burn",
-      "url": "https://open.spotify.com/track/3PK7lPF9uv1deSDkTuemZO"
-    },
-    {
-      "added_at": "2024-05-10 04:20:40",
-      "album": {
         "name": "Horror Domain",
         "url": "https://open.spotify.com/album/75ss4jXVpPAHJcu6AysVNK"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 180840,
       "name": "Horror Domain",
       "url": "https://open.spotify.com/track/6bbkuPhYZdVpgo5LvOTjrO"
+    },
+    {
+      "added_at": "2024-05-10 04:20:40",
+      "album": {
+        "name": "Burn",
+        "url": "https://open.spotify.com/album/2eTDWs3EX9OGigTDTNIEjJ"
+      },
+      "artists": [
+        {
+          "name": "Rising Insane",
+          "url": "https://open.spotify.com/artist/7InRNmmQuAi5KGBFtfOkrf"
+        }
+      ],
+      "duration_ms": 195356,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/3PK7lPF9uv1deSDkTuemZO"
     },
     {
       "added_at": "2024-05-10 04:20:40",
@@ -1591,38 +1591,6 @@
     {
       "added_at": "2024-05-10 04:20:40",
       "album": {
-        "name": "To The Grave",
-        "url": "https://open.spotify.com/album/5PL8XHRC49Do7mmLisGNUJ"
-      },
-      "artists": [
-        {
-          "name": "Graphic Nature",
-          "url": "https://open.spotify.com/artist/0QUcDHMfwBsMAufKXbzhkH"
-        }
-      ],
-      "duration_ms": 247015,
-      "name": "To The Grave",
-      "url": "https://open.spotify.com/track/67GONGzUfUcWyr1pu8QjSF"
-    },
-    {
-      "added_at": "2024-05-10 04:20:40",
-      "album": {
-        "name": "Glass Preacher",
-        "url": "https://open.spotify.com/album/0CjnuwMm9QLkDbRmKWFcJA"
-      },
-      "artists": [
-        {
-          "name": "Dealer",
-          "url": "https://open.spotify.com/artist/0TpKwhxtfxaPTaWsHqpVqP"
-        }
-      ],
-      "duration_ms": 193406,
-      "name": "Glass Preacher",
-      "url": "https://open.spotify.com/track/62aS6XJyJSTQ55QTPmLad2"
-    },
-    {
-      "added_at": "2024-05-10 04:20:40",
-      "album": {
         "name": "Limitless",
         "url": "https://open.spotify.com/album/4nCEePCITdLSbq32U5bEwO"
       },
@@ -1639,6 +1607,22 @@
     {
       "added_at": "2024-05-10 04:20:40",
       "album": {
+        "name": "To The Grave",
+        "url": "https://open.spotify.com/album/5PL8XHRC49Do7mmLisGNUJ"
+      },
+      "artists": [
+        {
+          "name": "Graphic Nature",
+          "url": "https://open.spotify.com/artist/0QUcDHMfwBsMAufKXbzhkH"
+        }
+      ],
+      "duration_ms": 247015,
+      "name": "To The Grave",
+      "url": "https://open.spotify.com/track/67GONGzUfUcWyr1pu8QjSF"
+    },
+    {
+      "added_at": "2024-05-10 04:20:40",
+      "album": {
         "name": "The Fear Of Letting Go",
         "url": "https://open.spotify.com/album/1pBnOofvJbc481QcJVMuGy"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 153904,
       "name": "Breaking Teeth",
       "url": "https://open.spotify.com/track/5zKVTDKvqGYxM2iQ3vod6R"
+    },
+    {
+      "added_at": "2024-05-10 04:20:40",
+      "album": {
+        "name": "Glass Preacher",
+        "url": "https://open.spotify.com/album/0CjnuwMm9QLkDbRmKWFcJA"
+      },
+      "artists": [
+        {
+          "name": "Dealer",
+          "url": "https://open.spotify.com/artist/0TpKwhxtfxaPTaWsHqpVqP"
+        }
+      ],
+      "duration_ms": 193406,
+      "name": "Glass Preacher",
+      "url": "https://open.spotify.com/track/62aS6XJyJSTQ55QTPmLad2"
     },
     {
       "added_at": "2024-05-10 04:20:40",
@@ -1707,6 +1707,22 @@
     {
       "added_at": "2024-05-10 04:20:40",
       "album": {
+        "name": "Siege Lord",
+        "url": "https://open.spotify.com/album/3O1MrlUbcvMZgXlwbZKEuP"
+      },
+      "artists": [
+        {
+          "name": "Heriot",
+          "url": "https://open.spotify.com/artist/49O77SKrEk1b9sNjhI0kM4"
+        }
+      ],
+      "duration_ms": 205109,
+      "name": "Siege Lord",
+      "url": "https://open.spotify.com/track/4vmT3Rruzg7N0SCKJTI96u"
+    },
+    {
+      "added_at": "2024-05-10 04:20:40",
+      "album": {
         "name": "DIGITAL PARANOIA 2052",
         "url": "https://open.spotify.com/album/1YiAAasbaRghpFfqSkq5OO"
       },
@@ -1727,22 +1743,6 @@
     {
       "added_at": "2024-05-10 04:20:40",
       "album": {
-        "name": "Siege Lord",
-        "url": "https://open.spotify.com/album/3O1MrlUbcvMZgXlwbZKEuP"
-      },
-      "artists": [
-        {
-          "name": "Heriot",
-          "url": "https://open.spotify.com/artist/49O77SKrEk1b9sNjhI0kM4"
-        }
-      ],
-      "duration_ms": 205109,
-      "name": "Siege Lord",
-      "url": "https://open.spotify.com/track/4vmT3Rruzg7N0SCKJTI96u"
-    },
-    {
-      "added_at": "2024-05-10 04:20:40",
-      "album": {
         "name": "feel something new",
         "url": "https://open.spotify.com/album/1pTzGnTJw2ygewCm6m48ho"
       },
@@ -1759,18 +1759,18 @@
     {
       "added_at": "2024-05-10 04:20:40",
       "album": {
-        "name": "Red Wine And Discontent",
-        "url": "https://open.spotify.com/album/3ywk7LvbM9ZZEHBb2pD5mz"
+        "name": "Hymn Of Decay",
+        "url": "https://open.spotify.com/album/4ZtrDZgiwAvE58Xpn56f0K"
       },
       "artists": [
         {
-          "name": "SeeYouSpaceCowboy...",
-          "url": "https://open.spotify.com/artist/7CFS5X96xBaJft4QdzTTC1"
+          "name": "Great American Ghost",
+          "url": "https://open.spotify.com/artist/2KEWeLDHDztMs2phLYTcRX"
         }
       ],
-      "duration_ms": 213710,
-      "name": "Red Wine And Discontent",
-      "url": "https://open.spotify.com/track/51f9t6WzsI3EJJ9bYVwzeW"
+      "duration_ms": 292789,
+      "name": "Hymn Of Decay",
+      "url": "https://open.spotify.com/track/6bX8TFct73J2no6IEs1DCR"
     },
     {
       "added_at": "2024-05-10 04:20:40",
@@ -1791,18 +1791,18 @@
     {
       "added_at": "2024-05-10 04:20:40",
       "album": {
-        "name": "Hymn Of Decay",
-        "url": "https://open.spotify.com/album/4ZtrDZgiwAvE58Xpn56f0K"
+        "name": "Red Wine And Discontent",
+        "url": "https://open.spotify.com/album/3ywk7LvbM9ZZEHBb2pD5mz"
       },
       "artists": [
         {
-          "name": "Great American Ghost",
-          "url": "https://open.spotify.com/artist/2KEWeLDHDztMs2phLYTcRX"
+          "name": "SeeYouSpaceCowboy...",
+          "url": "https://open.spotify.com/artist/7CFS5X96xBaJft4QdzTTC1"
         }
       ],
-      "duration_ms": 292789,
-      "name": "Hymn Of Decay",
-      "url": "https://open.spotify.com/track/6bX8TFct73J2no6IEs1DCR"
+      "duration_ms": 213710,
+      "name": "Red Wine And Discontent",
+      "url": "https://open.spotify.com/track/51f9t6WzsI3EJJ9bYVwzeW"
     },
     {
       "added_at": "2024-05-10 04:20:40",

@@ -1704,7 +1704,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-26",
       "duration_ms": 200029,
       "name": "Lost2TheSound",
       "url": "https://open.spotify.com/track/1xooD0EkUnwr1yRL8yK5ad"
@@ -1836,6 +1836,32 @@
       "duration_ms": 226809,
       "name": "Miss Dopamine",
       "url": "https://open.spotify.com/track/7tE9nUB6eBL0GPMfeZTqsh"
+    },
+    {
+      "album": {
+        "name": "Monolove",
+        "url": "https://open.spotify.com/album/0XSgCWc7QGNt0gbILeLV1P"
+      },
+      "artists": [
+        {
+          "name": "Me & George",
+          "url": "https://open.spotify.com/artist/4VYA3yEmxcU2ElaVRPHGFv"
+        },
+        {
+          "name": "Swoush",
+          "url": "https://open.spotify.com/artist/2eFQDzvOlswU3yO7GTcoEm"
+        },
+        {
+          "name": "Eylia",
+          "url": "https://open.spotify.com/artist/0TtUCUCvzpAJeJokwfco30"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170880,
+      "name": "Monolove",
+      "url": "https://open.spotify.com/track/7cFYuRcQbw0w2GAMWzyE7A"
     },
     {
       "album": {

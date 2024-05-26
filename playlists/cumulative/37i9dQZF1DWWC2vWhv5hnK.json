@@ -719,6 +719,32 @@
     },
     {
       "album": {
+        "name": "Warcry",
+        "url": "https://open.spotify.com/album/3NzsiDe5i8vsyePy7Zq7Ci"
+      },
+      "artists": [
+        {
+          "name": "Yuta Bandoh",
+          "url": "https://open.spotify.com/artist/0fWXujm0LZNZGgHRkt6JSb"
+        },
+        {
+          "name": "Okazaki Taiiku",
+          "url": "https://open.spotify.com/artist/5yKQkcO2MWUp3Z5jUs70pW"
+        },
+        {
+          "name": "THE KAIJU BAND",
+          "url": "https://open.spotify.com/artist/7fKZU7edSQKr0OmV9LOhED"
+        }
+      ],
+      "date_added": "2024-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131733,
+      "name": "Warcry",
+      "url": "https://open.spotify.com/track/20jERmgNHzHsgMEod5krUg"
+    },
+    {
+      "album": {
         "name": "When We Die (Can We Still Get High?) (feat. Lil Yachty)",
         "url": "https://open.spotify.com/album/3pgq59bj7H3zljjzgXvs6A"
       },

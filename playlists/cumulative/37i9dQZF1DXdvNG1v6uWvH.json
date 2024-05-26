@@ -369,6 +369,28 @@
     },
     {
       "album": {
+        "name": "All to myself",
+        "url": "https://open.spotify.com/album/6blo7C8UGPoTscSOPqT0To"
+      },
+      "artists": [
+        {
+          "name": "Henrik",
+          "url": "https://open.spotify.com/artist/7osFcSwjlRPwxZdVALIOuC"
+        },
+        {
+          "name": "Nic D",
+          "url": "https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108000,
+      "name": "All to myself",
+      "url": "https://open.spotify.com/track/1h6eOzYGXmIRaZ77z1f6O5"
+    },
+    {
+      "album": {
         "name": "All Your Life",
         "url": "https://open.spotify.com/album/0VwdyfZunjwEUq26Yd5Dez"
       },
@@ -3535,6 +3557,24 @@
     },
     {
       "album": {
+        "name": "Solace (Deluxe)",
+        "url": "https://open.spotify.com/album/56UIycwfjE5IwLOwA3VAF8"
+      },
+      "artists": [
+        {
+          "name": "Eros for you",
+          "url": "https://open.spotify.com/artist/6hFvN0YDYv2sbSn7aY9AOa"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166136,
+      "name": "Gallery",
+      "url": "https://open.spotify.com/track/6kxu0ldmBRCw6TBiFAUtYh"
+    },
+    {
+      "album": {
         "name": "Gegagedigedagedago (Cotton Eye Joe Viral Version)",
         "url": "https://open.spotify.com/album/7ppANxRYsiauednEVILNlz"
       },
@@ -3982,7 +4022,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-26",
       "duration_ms": 160000,
       "name": "Haunted",
       "url": "https://open.spotify.com/track/4I8iG4w35mo02JUINmVO5b"
@@ -5148,7 +5188,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-26",
       "duration_ms": 198662,
       "name": "In the Garden",
       "url": "https://open.spotify.com/track/3KYkn60aE3sVh0vw2kIw2T"
@@ -6548,6 +6588,24 @@
       "duration_ms": 243084,
       "name": "Miss Flower",
       "url": "https://open.spotify.com/track/1hJExI3j1IxCX3oF4vSrT0"
+    },
+    {
+      "album": {
+        "name": "Mockingbird",
+        "url": "https://open.spotify.com/album/5AxWgZkZaQmcgXlYtsGKlv"
+      },
+      "artists": [
+        {
+          "name": "Gorgeous",
+          "url": "https://open.spotify.com/artist/6C0TMfW4C2qCYxMkktQLXd"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242750,
+      "name": "Mockingbird",
+      "url": "https://open.spotify.com/track/649grJfDqBcAOox6w9mtTE"
     },
     {
       "album": {
@@ -8602,7 +8660,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-26",
       "duration_ms": 218507,
       "name": "Show Me",
       "url": "https://open.spotify.com/track/23mymG8MR8H4oQ6uyJ40cQ"
@@ -9962,7 +10020,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-25",
+      "date_removed": null,
       "duration_ms": 187517,
       "name": "Touching The Sky",
       "url": "https://open.spotify.com/track/2SaRD7OpQ2A9ZeCOntar0g"
@@ -10158,7 +10216,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-26",
       "duration_ms": 162914,
       "name": "txt me",
       "url": "https://open.spotify.com/track/5LQbs2GsOStUGnLwnN6hH8"
@@ -10278,7 +10336,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-25",
+      "date_removed": null,
       "duration_ms": 158552,
       "name": "Upset",
       "url": "https://open.spotify.com/track/1lmESvOXWfDSgVAAaIruLL"
@@ -10832,7 +10890,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-26",
       "duration_ms": 144496,
       "name": "Winner",
       "url": "https://open.spotify.com/track/6J64hC7a0UuD4IumFsRK2C"

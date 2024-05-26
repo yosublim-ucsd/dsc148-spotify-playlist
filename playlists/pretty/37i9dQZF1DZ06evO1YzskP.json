@@ -1,12 +1,12 @@
 {
-  "description": "This is La Receta. The essential tracks, all in one playlist.",
-  "num_followers": 23988,
+  "description": "This Is La Receta. Los temas esenciales, todos en una lista.",
+  "num_followers": 24018,
   "original_name": "This Is La Receta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zk6HAAAAAADE2vzX0UCy6KwYp0cFLcT5",
+  "snapshot_id": "Zk/YgAAAAACuZ++Fhw1dCVemKsCO6iAa",
   "tracks": [
     {
       "added_at": null,
@@ -720,9 +720,9 @@
           "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
         }
       ],
-      "duration_ms": 167133,
-      "name": "El Ni\u00f1o De La Tuna",
-      "url": "https://open.spotify.com/track/5PKyJ6jMIqtSPfR7vmDOC2"
+      "duration_ms": 154453,
+      "name": "Los Placeres De Archivaldo",
+      "url": "https://open.spotify.com/track/27l55K6adgEeUssURt0FnS"
     },
     {
       "added_at": null,
@@ -792,9 +792,9 @@
           "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
         }
       ],
-      "duration_ms": 154453,
-      "name": "Los Placeres De Archivaldo",
-      "url": "https://open.spotify.com/track/27l55K6adgEeUssURt0FnS"
+      "duration_ms": 167133,
+      "name": "El Ni\u00f1o De La Tuna",
+      "url": "https://open.spotify.com/track/5PKyJ6jMIqtSPfR7vmDOC2"
     },
     {
       "added_at": null,

@@ -101,6 +101,24 @@
     },
     {
       "album": {
+        "name": "Afternoon Land",
+        "url": "https://open.spotify.com/album/4yuBbUndwYRhlzk395JtSW"
+      },
+      "artists": [
+        {
+          "name": "QS Code",
+          "url": "https://open.spotify.com/artist/1lrXTB4ZvNLal6JcYhryjH"
+        }
+      ],
+      "date_added": "2024-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158571,
+      "name": "Afternoon Land",
+      "url": "https://open.spotify.com/track/0KZOjaq2rwBWemfh1DGAPR"
+    },
+    {
+      "album": {
         "name": "The Art of Relaxation",
         "url": "https://open.spotify.com/album/0ceMy6a1h5NOkV4qO02QiW"
       },

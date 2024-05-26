@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-04",
-  "description": "This is Ramin Djawadi. Todos os maiores hits em uma s\u00f3 playlist.",
+  "description": "This is Ramin Djawadi. The essential tracks, all in one playlist.",
   "name": "This Is Ramin Djawadi",
   "tracks": [
     {
@@ -106,7 +106,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-14",
+      "date_removed": null,
       "duration_ms": 93106,
       "name": "Blood of the Dragon",
       "url": "https://open.spotify.com/track/0Y7n1RE7g1kkPc6CQCdfuO"
@@ -906,7 +906,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-26",
       "duration_ms": 109986,
       "name": "Two Swords",
       "url": "https://open.spotify.com/track/4195MldSyGNuWsI6zb2qrv"

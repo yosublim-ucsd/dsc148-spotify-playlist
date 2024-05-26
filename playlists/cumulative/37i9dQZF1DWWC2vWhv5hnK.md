@@ -4,7 +4,7 @@
 
 > Enjoy music from "Kaiju No\. 8"! アニメ「怪獣8号」の世界をプレイリストで。©防衛隊第３部隊 ©松本直也／集英社
 
-49 songs - 5 hr 10 min
+50 songs - 5 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Tissues](https://open.spotify.com/track/2xlcFmrwMEOzhRFQtUG2cG) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [YUNGBLUD](https://open.spotify.com/album/3Hthv2JVzYaWq0TyElU5lF) | 3:35 | 2024-03-13 | 2024-04-29 |
 | [TRANCE \- Polyclock etude \[Bricolage ii\]](https://open.spotify.com/track/7hnmW9Suqz45duFQxxoxp8) | [Yuta Bandoh](https://open.spotify.com/artist/0fWXujm0LZNZGgHRkt6JSb) | [TRANCE](https://open.spotify.com/album/2u6e6dfDkTtTDmcFFHfY86) | 3:00 | 2024-03-13 | 2024-04-29 |
 | [TVアニメ「怪獣8号」カフカ＆レノ スペシャルメッセージ！](https://open.spotify.com/track/6wSfWLkJjXpHCUF7hB59iY) | [怪獣8号](https://open.spotify.com/artist/1QvSxr0HMAEsQP7yeClNDX) | [TVアニメ「怪獣8号」カフカ＆レノ スペシャルメッセージ！](https://open.spotify.com/album/5xTbBQ8SzY3QrpPpFVSJU1) | 1:01 | 2024-04-04 |  |
+| [Warcry](https://open.spotify.com/track/20jERmgNHzHsgMEod5krUg) | [Yuta Bandoh](https://open.spotify.com/artist/0fWXujm0LZNZGgHRkt6JSb), [Okazaki Taiiku](https://open.spotify.com/artist/5yKQkcO2MWUp3Z5jUs70pW), [THE KAIJU BAND](https://open.spotify.com/artist/7fKZU7edSQKr0OmV9LOhED) | [Warcry](https://open.spotify.com/album/3NzsiDe5i8vsyePy7Zq7Ci) | 2:11 | 2024-05-25 |  |
 | [When We Die \(Can We Still Get High?\) \(feat\. Lil Yachty\)](https://open.spotify.com/track/08uWHOhYijA1DXxhHSDBDH) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [When We Die \(Can We Still Get High?\) \(feat\. Lil Yachty\)](https://open.spotify.com/album/3pgq59bj7H3zljjzgXvs6A) | 5:00 | 2024-03-13 | 2024-04-29 |
 | [YUNGBLUDからのスペシャル・メッセージ！](https://open.spotify.com/track/7M7ziwV5ktvBdZi7ftP9KN) | [怪獣8号](https://open.spotify.com/artist/1QvSxr0HMAEsQP7yeClNDX) | [YUNGBLUDからのスペシャル・メッセージ！](https://open.spotify.com/album/0wQYA7kT0lYB5J2xIkOGco) | 0:18 | 2024-04-04 |  |
 | [カフカからのスペシャル・メッセージ！](https://open.spotify.com/track/0zckDDTsmXN1XIjWdCPM5R) | [怪獣8号](https://open.spotify.com/artist/1QvSxr0HMAEsQP7yeClNDX) | [『怪獣8号』カフカからのスペシャルメッセージ！](https://open.spotify.com/album/2UVFYbD7YqaqDrnKllUbp6) | 0:52 | 2024-03-13 |  |

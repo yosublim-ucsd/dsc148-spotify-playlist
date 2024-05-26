@@ -1,6 +1,6 @@
 {
   "description": "Tangueros - Rockeros, Rockeros - Tangueros.",
-  "num_followers": 28498,
+  "num_followers": 28507,
   "original_name": "Tango Rock",
   "owner": {
     "name": "Spotify",
@@ -387,6 +387,22 @@
     {
       "added_at": "2023-05-05 14:11:37",
       "album": {
+        "name": "El 1er \u00c1lbum M\u00e1s los Singles",
+        "url": "https://open.spotify.com/album/2Syxpgpva5hDmqCZpmmJHp"
+      },
+      "artists": [
+        {
+          "name": "Almendra",
+          "url": "https://open.spotify.com/artist/7x2a9uyqlWbE9LwcoQWDTo"
+        }
+      ],
+      "duration_ms": 172880,
+      "name": "Laura Va",
+      "url": "https://open.spotify.com/track/0IfhIK11A9J3IqQIf5WhRo"
+    },
+    {
+      "added_at": "2023-05-05 14:11:37",
+      "album": {
         "name": "Cruces Urbanos",
         "url": "https://open.spotify.com/album/1G8hdqse9sS1CP032rELMt"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 199426,
       "name": "Ya No Sos Igual (with 2 Minutos)",
       "url": "https://open.spotify.com/track/05W9ouh0IXab67HKIqBMYE"
-    },
-    {
-      "added_at": "2023-05-05 14:11:37",
-      "album": {
-        "name": "El 1er \u00c1lbum M\u00e1s los Singles",
-        "url": "https://open.spotify.com/album/2Syxpgpva5hDmqCZpmmJHp"
-      },
-      "artists": [
-        {
-          "name": "Almendra",
-          "url": "https://open.spotify.com/artist/7x2a9uyqlWbE9LwcoQWDTo"
-        }
-      ],
-      "duration_ms": 172880,
-      "name": "Laura Va",
-      "url": "https://open.spotify.com/track/0IfhIK11A9J3IqQIf5WhRo"
     },
     {
       "added_at": "2023-05-05 14:11:37",

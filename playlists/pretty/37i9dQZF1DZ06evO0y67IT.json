@@ -1,12 +1,12 @@
 {
   "description": "This is Hawthorne Heights. The essential tracks, all in one playlist.",
-  "num_followers": 7707,
+  "num_followers": 7711,
   "original_name": "This Is Hawthorne Heights",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zk6HAAAAAAD3zxpqs1VzVGgWTWvhStgk",
+  "snapshot_id": "Zk/YgAAAAABsIP0CzOSBWoyQD6WGpmgc",
   "tracks": [
     {
       "added_at": null,
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Skeletons",
-        "url": "https://open.spotify.com/album/0j0tF6vPTYbn7gBOTzRYlW"
-      },
-      "artists": [
-        {
-          "name": "Hawthorne Heights",
-          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
-        }
-      ],
-      "duration_ms": 186653,
-      "name": "Drive",
-      "url": "https://open.spotify.com/track/38xTGNjOnSsWgAykuQ4gUR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lucerne Valley",
         "url": "https://open.spotify.com/album/1fOyNLMEMixVgnwph2IdDy"
       },
@@ -571,8 +555,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lost Frequencies",
-        "url": "https://open.spotify.com/album/0gW6tFVZYm3OFNBsPMRfYa"
+        "name": "Skeletons",
+        "url": "https://open.spotify.com/album/0j0tF6vPTYbn7gBOTzRYlW"
       },
       "artists": [
         {
@@ -580,9 +564,25 @@
           "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
         }
       ],
-      "duration_ms": 180093,
-      "name": "So Hopelessly",
-      "url": "https://open.spotify.com/track/45ofVfgUutAtCqPd6EZOuh"
+      "duration_ms": 186653,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/38xTGNjOnSsWgAykuQ4gUR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fragile Future",
+        "url": "https://open.spotify.com/album/6qSnFu0JkOOV0FoWpMsbRZ"
+      },
+      "artists": [
+        {
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        }
+      ],
+      "duration_ms": 201760,
+      "name": "Somewhere In Between",
+      "url": "https://open.spotify.com/track/0UbQ3KnwzzQ8uAvRA81cEp"
     },
     {
       "added_at": null,
@@ -603,6 +603,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lost Frequencies",
+        "url": "https://open.spotify.com/album/0gW6tFVZYm3OFNBsPMRfYa"
+      },
+      "artists": [
+        {
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        }
+      ],
+      "duration_ms": 180093,
+      "name": "So Hopelessly",
+      "url": "https://open.spotify.com/track/45ofVfgUutAtCqPd6EZOuh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Skeletons",
         "url": "https://open.spotify.com/album/0j0tF6vPTYbn7gBOTzRYlW"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 171733,
       "name": "Broken Man",
       "url": "https://open.spotify.com/track/4xAfOFbarKIYjpoQCXAMRP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fragile Future",
-        "url": "https://open.spotify.com/album/6qSnFu0JkOOV0FoWpMsbRZ"
-      },
-      "artists": [
-        {
-          "name": "Hawthorne Heights",
-          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
-        }
-      ],
-      "duration_ms": 201760,
-      "name": "Somewhere In Between",
-      "url": "https://open.spotify.com/track/0UbQ3KnwzzQ8uAvRA81cEp"
     },
     {
       "added_at": null,
@@ -667,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Skeletons",
-        "url": "https://open.spotify.com/album/0j0tF6vPTYbn7gBOTzRYlW"
-      },
-      "artists": [
-        {
-          "name": "Hawthorne Heights",
-          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
-        }
-      ],
-      "duration_ms": 162160,
-      "name": "Abandoned Driveways",
-      "url": "https://open.spotify.com/track/0PBhQRL2CdOZhBgIL3dzqK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lost Frequencies",
         "url": "https://open.spotify.com/album/0gW6tFVZYm3OFNBsPMRfYa"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 217113,
       "name": "Pet Sematary",
       "url": "https://open.spotify.com/track/1QpkEgTC3ySEhwM3wULOsM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Skeletons",
+        "url": "https://open.spotify.com/album/0j0tF6vPTYbn7gBOTzRYlW"
+      },
+      "artists": [
+        {
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        }
+      ],
+      "duration_ms": 162160,
+      "name": "Abandoned Driveways",
+      "url": "https://open.spotify.com/track/0PBhQRL2CdOZhBgIL3dzqK"
     },
     {
       "added_at": null,

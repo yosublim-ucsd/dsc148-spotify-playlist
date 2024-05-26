@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0DoTCR9lh7I0Qd7vBwbVwf.md) - [plain]
 
 > full focus \- maximum productivity \- deep concentration \- meditation music \- work playlist \- focus songs \- calm vibes \- focus muziek \- focused work \- study \- no lyrics \- mindful studying \- working hard
 
-[✨](https://open.spotify.com/user/3176nsyzo32qgmsfbjnlnrn7r5pu) - 1,062 likes - 141 songs - 4 hr 41 min
+[✨](https://open.spotify.com/user/3176nsyzo32qgmsfbjnlnrn7r5pu) - 1,063 likes - 142 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -149,5 +149,6 @@ pretty - [cumulative](/playlists/cumulative/0DoTCR9lh7I0Qd7vBwbVwf.md) - [plain]
 | 139 | [Misty Solace](https://open.spotify.com/track/6bEjGMoeSx7bHZ1Qqh4c9V) | [Aqua Scholar](https://open.spotify.com/artist/2UIXBhB5h97ApAs48rTq7F), [Darkened Bliss](https://open.spotify.com/artist/1By9PeboTneR6Uh4glo7nE), [Mey Andog](https://open.spotify.com/artist/5hdRHEc4zRA99JEx4vEgzL) | [Melodies of Serenity](https://open.spotify.com/album/3Z6J66tVl7nqa1lzFqftrA) | 2:03 |
 | 140 | [Sleep in Your Dream](https://open.spotify.com/track/40bwXB8yC68sgKkxNeIyAL) | [aswellas](https://open.spotify.com/artist/6CuHbpF36W0v7cEsrzqCkn) | [Sleep in Your Dream](https://open.spotify.com/album/39iWkaM314iuC5KfxK3xfy) | 2:28 |
 | 141 | [Same Feeling](https://open.spotify.com/track/1W2QJ2XT5XVfbseSuFTMh5) | [Eccho](https://open.spotify.com/artist/2P6ilsRk53hUPgnH3YJWpU) | [Same Feeling](https://open.spotify.com/album/1BIEdvjZGr0NEfUvemWfEl) | 2:34 |
+| 142 | [Afternoon Land](https://open.spotify.com/track/0KZOjaq2rwBWemfh1DGAPR) | [QS Code](https://open.spotify.com/artist/1lrXTB4ZvNLal6JcYhryjH) | [Afternoon Land](https://open.spotify.com/album/4yuBbUndwYRhlzk395JtSW) | 2:38 |
 
-Snapshot ID: `AAAARH/nbkmTy2LrrHlNQJ+qn+k5gOlg`
+Snapshot ID: `AAAARSNKDRhB/fd4M+P/U7ja4GlyQPpC`

@@ -1,6 +1,6 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Bluay",
-  "num_followers": 45661,
+  "num_followers": 45688,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
@@ -387,6 +387,22 @@
     {
       "added_at": "2024-05-24 10:29:11",
       "album": {
+        "name": "Mais Antigo",
+        "url": "https://open.spotify.com/album/6jv4CzMCPVJqt0DTlAiJw3"
+      },
+      "artists": [
+        {
+          "name": "Bispo",
+          "url": "https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY"
+        }
+      ],
+      "duration_ms": 206466,
+      "name": "Lembrei-me",
+      "url": "https://open.spotify.com/track/5hF6VYE61LV6Jr6dy86CvI"
+    },
+    {
+      "added_at": "2024-05-24 10:29:11",
+      "album": {
         "name": "do.mar",
         "url": "https://open.spotify.com/album/4chPUBJXFpxBagtuD5l0rq"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 201962,
       "name": "S\u00f3 D\u00e1",
       "url": "https://open.spotify.com/track/3LcKyZ2ks4uoiap6wo0LPc"
-    },
-    {
-      "added_at": "2024-05-24 10:29:11",
-      "album": {
-        "name": "Mais Antigo",
-        "url": "https://open.spotify.com/album/6jv4CzMCPVJqt0DTlAiJw3"
-      },
-      "artists": [
-        {
-          "name": "Bispo",
-          "url": "https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY"
-        }
-      ],
-      "duration_ms": 206466,
-      "name": "Lembrei-me",
-      "url": "https://open.spotify.com/track/5hF6VYE61LV6Jr6dy86CvI"
     },
     {
       "added_at": "2024-05-24 10:29:11",
@@ -751,18 +751,18 @@
     {
       "added_at": "2024-05-24 10:29:11",
       "album": {
-        "name": "Salto Alto",
-        "url": "https://open.spotify.com/album/0uatAqfa3VviB7GZuUXd6l"
+        "name": "Sacrif\u00edcio: Sangue, L\u00e1grimas, Suor",
+        "url": "https://open.spotify.com/album/0idaWuicDvUkpA6I3NOJDN"
       },
       "artists": [
         {
-          "name": "Piruka",
-          "url": "https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC"
+          "name": "Plutonio",
+          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
         }
       ],
-      "duration_ms": 219968,
-      "name": "Salto Alto",
-      "url": "https://open.spotify.com/track/3sIXzuNgN9HrC7amkEQWiP"
+      "duration_ms": 314009,
+      "name": "Conversas",
+      "url": "https://open.spotify.com/track/0xtWY0uOW8JWyiCDD2RmGB"
     },
     {
       "added_at": "2024-05-24 10:29:11",
@@ -783,18 +783,18 @@
     {
       "added_at": "2024-05-24 10:29:11",
       "album": {
-        "name": "Sacrif\u00edcio: Sangue, L\u00e1grimas, Suor",
-        "url": "https://open.spotify.com/album/0idaWuicDvUkpA6I3NOJDN"
+        "name": "Salto Alto",
+        "url": "https://open.spotify.com/album/0uatAqfa3VviB7GZuUXd6l"
       },
       "artists": [
         {
-          "name": "Plutonio",
-          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
+          "name": "Piruka",
+          "url": "https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC"
         }
       ],
-      "duration_ms": 314009,
-      "name": "Conversas",
-      "url": "https://open.spotify.com/track/0xtWY0uOW8JWyiCDD2RmGB"
+      "duration_ms": 219968,
+      "name": "Salto Alto",
+      "url": "https://open.spotify.com/track/3sIXzuNgN9HrC7amkEQWiP"
     },
     {
       "added_at": "2024-05-24 10:29:11",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2024-05-24 10:29:11",
       "album": {
+        "name": "osciLAR",
+        "url": "https://open.spotify.com/album/58GajZ2rwYs38CFECnDfHr"
+      },
+      "artists": [
+        {
+          "name": "Santos, S\u00f3",
+          "url": "https://open.spotify.com/artist/1o2g31CSRtHMGcma7TneY0"
+        }
+      ],
+      "duration_ms": 245083,
+      "name": "osciLAR",
+      "url": "https://open.spotify.com/track/4LKpP7kf74byC2i25NThVS"
+    },
+    {
+      "added_at": "2024-05-24 10:29:11",
+      "album": {
         "name": "D4",
         "url": "https://open.spotify.com/album/5vRWejBOKJFiYyKJSMltOQ"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 174717,
       "name": "D4",
       "url": "https://open.spotify.com/track/3Z6Z4fJPCPxvrbZOcAuMon"
-    },
-    {
-      "added_at": "2024-05-24 10:29:11",
-      "album": {
-        "name": "osciLAR",
-        "url": "https://open.spotify.com/album/58GajZ2rwYs38CFECnDfHr"
-      },
-      "artists": [
-        {
-          "name": "Santos, S\u00f3",
-          "url": "https://open.spotify.com/artist/1o2g31CSRtHMGcma7TneY0"
-        }
-      ],
-      "duration_ms": 245083,
-      "name": "osciLAR",
-      "url": "https://open.spotify.com/track/4LKpP7kf74byC2i25NThVS"
     },
     {
       "added_at": "2024-05-24 10:29:11",
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2024-05-24 10:29:11",
       "album": {
+        "name": "\u00e2ngulo morto",
+        "url": "https://open.spotify.com/album/6rVLA2QZ4ZyOIMXt7riQiT"
+      },
+      "artists": [
+        {
+          "name": "E.Se",
+          "url": "https://open.spotify.com/artist/5nEB0TgQYisGlSy8c1C64l"
+        }
+      ],
+      "duration_ms": 148467,
+      "name": "\u00e2ngulo morto",
+      "url": "https://open.spotify.com/track/4SeMRBstr9y1QUuzHFBVp1"
+    },
+    {
+      "added_at": "2024-05-24 10:29:11",
+      "album": {
         "name": "PESSOAS MUDAM",
         "url": "https://open.spotify.com/album/3KkKIYZoRuBGa8nHaIhQj3"
       },
@@ -1323,22 +1339,6 @@
       "duration_ms": 147930,
       "name": "PESSOAS MUDAM",
       "url": "https://open.spotify.com/track/41QyQzP9N0Ue1xggj9kh5X"
-    },
-    {
-      "added_at": "2024-05-24 10:29:11",
-      "album": {
-        "name": "\u00e2ngulo morto",
-        "url": "https://open.spotify.com/album/6rVLA2QZ4ZyOIMXt7riQiT"
-      },
-      "artists": [
-        {
-          "name": "E.Se",
-          "url": "https://open.spotify.com/artist/5nEB0TgQYisGlSy8c1C64l"
-        }
-      ],
-      "duration_ms": 148467,
-      "name": "\u00e2ngulo morto",
-      "url": "https://open.spotify.com/track/4SeMRBstr9y1QUuzHFBVp1"
     },
     {
       "added_at": "2024-05-24 10:29:11",

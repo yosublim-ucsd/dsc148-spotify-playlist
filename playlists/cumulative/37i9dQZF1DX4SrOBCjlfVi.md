@@ -4,7 +4,7 @@
 
 > All the New Joints featuring Blxst & Offset, Sexyy Red, Don Toliver and more!
 
-5,186 songs - 10 day 1 hr 4 min
+5,186 songs - 10 day 1 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1982,7 +1982,7 @@
 | [Heartaches](https://open.spotify.com/track/6RHEIXw8U4SWBda3fxXAXT) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1) | [Heartaches](https://open.spotify.com/album/16PP7symx7pyBKDsLFkCDj) | 3:18 | 2022-09-23 | 2022-10-01 |
 | [Heartbleed](https://open.spotify.com/track/5ygmoEDu47iWuODWLfxIP8) | [TG Kommas](https://open.spotify.com/artist/0QtTAKI96I6w8ByQIY3QQv) | [Welcome 2 The Trenches](https://open.spotify.com/album/73tDruYotdetPttfbiz8LD) | 2:38 | 2023-01-27 | 2023-02-11 |
 | [Heartbreak Ain’t Easy](https://open.spotify.com/track/2FdGnZA37mTTlL997qHOwj) | [Fresco Trey](https://open.spotify.com/artist/6HgEIsWCHekTTfnbOGJa3g) | [Restless Mind](https://open.spotify.com/album/51sEuEo9zgqp66rTpprX9I) | 3:18 | 2024-04-26 | 2024-05-03 |
-| [Heartless](https://open.spotify.com/track/4Hr02qRS0QYWAyR2XQ6MhV) | [Dro Kenji](https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R) | [Heartless](https://open.spotify.com/album/6PwaReEFpS7hrMV3KaUZQz) | 2:35 | 2024-05-24 |  |
+| [HEARTLESS](https://open.spotify.com/track/4Hr02qRS0QYWAyR2XQ6MhV) | [Dro Kenji](https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R) | [HEARTLESS](https://open.spotify.com/album/6PwaReEFpS7hrMV3KaUZQz) | 2:35 | 2024-05-24 |  |
 | [Heartless](https://open.spotify.com/track/3BNIWfCDvoY1bjkvX5AT0j) | [Hunxho](https://open.spotify.com/artist/508weSx4HBumrGggFmc7br), [WanMor](https://open.spotify.com/artist/5XmuuM2C6t4HSPa3FSuU3h) | [XHOSEN](https://open.spotify.com/album/51Ofov6MYnFNNySAmIt8oj) | 3:03 | 2022-06-17 | 2022-06-25 |
 | [Heartless](https://open.spotify.com/track/6aEy7UtgKz6T2oqAxezvur) | [King Von](https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp), [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO) | [Heartless](https://open.spotify.com/album/5ekQl9UODgElvyAqdALxLJ) | 2:46 | 2023-07-07 | 2023-07-15 |
 | [Heartless](https://open.spotify.com/track/4OlNg12AN84v3pGmQ5LgKJ) | [Rot Ken](https://open.spotify.com/artist/64WnGi9H0Xc2RCGbjYAFd5) | [Heartless](https://open.spotify.com/album/1Nly7X1upNVUkhAh2moGON) | 1:58 | 2022-09-30 | 2022-10-08 |
@@ -4689,7 +4689,7 @@
 | [Topic Of Discussion](https://open.spotify.com/track/0Vn38k3QhXJtoFqtp4fUZQ) | [Shady Blu](https://open.spotify.com/artist/0n23tjBSiGh9chOSKpgoqa), [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA) | [Topic Of Discussion](https://open.spotify.com/album/3WmPr2syPA0zr7E9c6qUt6) | 2:43 | 2023-01-20 | 2023-02-04 |
 | [Torpedo](https://open.spotify.com/track/5R5UNKWsmMPpFq5JHK93Fw) | [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D) | [Torpedo](https://open.spotify.com/album/11udbkutLAaM7XN3amRT9t) | 4:00 | 2022-12-30 | 2023-01-14 |
 | [TORTURED](https://open.spotify.com/track/0sEiLIgL8TpkGcL9akCjVE) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [INSANO](https://open.spotify.com/album/0tpIUAzCeUkoV4u2r5NrQr) | 3:55 | 2024-01-12 | 2024-01-20 |
-| [TOSSIN](https://open.spotify.com/track/6Oa2CNBzasMBuPhZWBZG8q) | [Ron Suno](https://open.spotify.com/artist/3A63dHvKuavknOcvWVgZA9) | [TOSSIN](https://open.spotify.com/album/0ywkChAqkvh0RusDawegeE) | 1:57 | 2024-05-24 |  |
+| [TOSSIN](https://open.spotify.com/track/6Oa2CNBzasMBuPhZWBZG8q) | [Ron Suno](https://open.spotify.com/artist/3A63dHvKuavknOcvWVgZA9) | [TOSSIN](https://open.spotify.com/album/0ywkChAqkvh0RusDawegeE) | 2:13 | 2024-05-24 |  |
 | [Touch of God](https://open.spotify.com/track/2md3aiQOCacKs0T3p3TJHB) | [Zacari](https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI) | [Touch of God](https://open.spotify.com/album/2zOdrgbW4ZVPRxee3wVVjp) | 2:52 | 2023-05-26 | 2023-06-03 |
 | [Touché](https://open.spotify.com/track/3kjBpFB5bLhWWC1OTJhMMU) | [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN) | [Touché](https://open.spotify.com/album/07Ac7pyVYbY3dHCrAwxbFG) | 2:43 | 2022-08-05 | 2022-08-13 |
 | [Tough Decisions PT\. 2](https://open.spotify.com/track/59cEB77IwwqYvIZhwC01aM) | [RG Simba](https://open.spotify.com/artist/14WDnZyEpXbiJad60mnqG3), [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [Tough Decisions PT\. 2](https://open.spotify.com/album/5hezBFj8yAv3mu8hhu2kx2) | 3:01 | 2023-12-15 | 2024-01-13 |

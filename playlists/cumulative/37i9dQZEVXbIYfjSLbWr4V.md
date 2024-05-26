@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Belarus.
 
-174 songs - 7 hr 30 min
+176 songs - 7 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,12 +102,13 @@
 | [ИГРЫ](https://open.spotify.com/track/0VEa1GMVIwm61IXrdaJGhI) | [Toxi$](https://open.spotify.com/artist/2hTmpvdwhpNZryOkwTisRW), [GENSYXA](https://open.spotify.com/artist/5wZCI0c4G3w09eZ5jsbcRZ) | [ИГРЫ](https://open.spotify.com/album/58lxEiqWP3h6mWUHezeq9f) | 2:02 | 2024-02-17 | 2024-03-25 |
 | [Какая?](https://open.spotify.com/track/0lEQFpuJSpREmNlc2h3PA2) | [whyspurky](https://open.spotify.com/artist/1KIeXmQtSdJhogky2IJIFB), [whylovly](https://open.spotify.com/artist/26z9rMtxlbq8pwPJ9FfsFe) | [Какая?](https://open.spotify.com/album/4l5vDIyg4iFAIQ050QMGXc) | 2:56 | 2024-03-23 |  |
 | [Какая? \(Speed Up\)](https://open.spotify.com/track/2T41OZDWpiz5LTjyP6gZrX) | [whyspurky](https://open.spotify.com/artist/1KIeXmQtSdJhogky2IJIFB), [whylovly](https://open.spotify.com/artist/26z9rMtxlbq8pwPJ9FfsFe) | [Какая?](https://open.spotify.com/album/4l5vDIyg4iFAIQ050QMGXc) | 2:40 | 2024-03-23 |  |
+| [Кис Кис Кис](https://open.spotify.com/track/062l4eq0DRJ28ZeobzF0Lz) | [Monetochka](https://open.spotify.com/artist/0yp6xP5xe1qarfugfTixOK) | [Молитвы\. Анекдоты\. Тосты.](https://open.spotify.com/album/1eE8tgJvckpa4qYLp2L9ox) | 2:42 | 2024-05-25 |  |
 | [Кисти](https://open.spotify.com/track/3WIWqQMBUBQgmJERv3xTMV) | [uniqe](https://open.spotify.com/artist/0NhjeTa9uSqiD1wEG3gfII), [nkeeei](https://open.spotify.com/artist/0kD3TUffiD0sPxGwygzjg7), [ARTEM SHILOVETS](https://open.spotify.com/artist/3r1Md7Hk5iqtpyEoGo8032) | [Кисти](https://open.spotify.com/album/7MknjLHIoWLa3hn4F7S4EE) | 2:51 | 2024-01-29 |  |
 | [Контракт](https://open.spotify.com/track/2bqS0QtnXGjOYs3z6VtSyW) | [Poshlaya Molly](https://open.spotify.com/artist/0xByDfltDVpk6LDsUMHyI2) | [Контракт](https://open.spotify.com/album/3OzWTanaiFd8jyfF6E9PRq) | 3:24 | 2024-02-10 |  |
 | [кончил](https://open.spotify.com/track/4Q6eUXtjd9sbzP2orZY6x0) | [ENINA](https://open.spotify.com/artist/1jUPTaRiy2sOdOhvIEUosG) | [кончил](https://open.spotify.com/album/6IzJYD4LZjnlggZmYHsKX6) | 2:10 | 2024-04-25 |  |
 | [Крепче](https://open.spotify.com/track/6bCLkzoE3agC7Ws9NxVxIn) | [KRBK](https://open.spotify.com/artist/0E56Ncr2I37JQhW71UJALE) | [Крепче](https://open.spotify.com/album/1e82MHQz8mczZXotjeR0ky) | 2:00 | 2024-01-29 |  |
 | [КТО ТЕБЕ ЭТО СКАЗАЛ](https://open.spotify.com/track/0mEoX8LDlk1UR2Uem8NfFu) | [Pepel Nahudi](https://open.spotify.com/artist/4AM93R2m6QIKGPWH6QILF3) | [PSYCHEDELIC LOVE](https://open.spotify.com/album/3HOCSNvo6JGfDUuRzWssWe) | 2:13 | 2024-04-06 | 2024-04-08 |
-| [кто ты](https://open.spotify.com/track/1eAy3nePI1v2EHpye6iy0g) | [daryana](https://open.spotify.com/artist/5GVO9K6Iaebk8oQnXGTzqL) | [кто ты](https://open.spotify.com/album/48Zo7gXVhzzW5VbvUQjzxy) | 1:40 | 2024-05-24 |  |
+| [кто ты](https://open.spotify.com/track/1eAy3nePI1v2EHpye6iy0g) | [daryana](https://open.spotify.com/artist/5GVO9K6Iaebk8oQnXGTzqL) | [кто ты](https://open.spotify.com/album/48Zo7gXVhzzW5VbvUQjzxy) | 1:40 | 2024-05-24 | 2024-05-26 |
 | [ЛАБИРИНТ](https://open.spotify.com/track/7biChppM3c8q7qcVl7ceb2) | [FACE](https://open.spotify.com/artist/2z20q6EEfm6w6PiIKsgtb3) | [12](https://open.spotify.com/album/12gG6thCtApE8B1nKcowOg) | 2:49 | 2024-01-29 |  |
 | [Лиза](https://open.spotify.com/track/69E0PXED6MvClnqED4d7f5) | [FACE](https://open.spotify.com/artist/2z20q6EEfm6w6PiIKsgtb3), [Squirrel Flower](https://open.spotify.com/artist/7bI1v9NGBBhq8iGfytctni) | [Hate Love](https://open.spotify.com/album/5UKIxEdQDFQztvCEfK5QME) | 3:00 | 2024-01-29 | 2024-04-23 |
 | [МАЙ МАЙ](https://open.spotify.com/track/2t33vDAERvsbqTLQuphuwA) | [LOVV66](https://open.spotify.com/artist/5A9NWhs9ydYZPGgvcWI8Ms) | [МАЙ МАЙ](https://open.spotify.com/album/7FLL81YdbJHC7OB0ntas4C) | 1:49 | 2024-05-02 | 2024-05-07 |
@@ -146,6 +147,7 @@
 | [Разноцветные таблетки](https://open.spotify.com/track/1Za23uNH9LP4gcflnvAGCE) | [5mewmet](https://open.spotify.com/artist/6M09SBwYD0F13PjIavxbih) | [Кетаминовая яма](https://open.spotify.com/album/6z5gnL9E2kbHV0A7nJ3SIP) | 1:57 | 2024-01-29 |  |
 | [Самый лучший день](https://open.spotify.com/track/6aZw4hMz6ZZqjALf0GAbKy) | [Кишлак](https://open.spotify.com/artist/44L2bdEufrpXM5S7yn30JJ) | [Эскапист](https://open.spotify.com/album/0QbaRQInDgZOAjogD0Ku7V) | 1:33 | 2024-01-29 |  |
 | [СЕЙЧАС](https://open.spotify.com/track/6HVQNzaVnJdreqdaezdD39) | [NEWLIGHTCHILD](https://open.spotify.com/artist/6OYItdfhVXpz16ZvpFq7Uh) | [IN MY DNA](https://open.spotify.com/album/1iccPHXLRk2mRsdqf2dfke) | 1:39 | 2024-01-29 |  |
+| [Селфхарм](https://open.spotify.com/track/46tUEN0dIhVxYbOgxCvkF4) | [Monetochka](https://open.spotify.com/artist/0yp6xP5xe1qarfugfTixOK) | [Молитвы\. Анекдоты\. Тосты.](https://open.spotify.com/album/1eE8tgJvckpa4qYLp2L9ox) | 3:08 | 2024-05-25 |  |
 | [Случайно навсегда](https://open.spotify.com/track/1PYrTqbEPnESlEonarrfCf) | [DomNi](https://open.spotify.com/artist/71b58VyplYQ88uY7VsY6MZ), [ViD](https://open.spotify.com/artist/0TRWeKOK5lxzmGYcoZKrXg) | [Случайно навсегда](https://open.spotify.com/album/7y2uN4e9ITiXlQfMuxr6u7) | 3:18 | 2024-04-07 | 2024-04-09 |
 | [Снег растаял на плечах](https://open.spotify.com/track/6mC2PY4sm4M0YFL9dsBMGc) | [DEAD BLONDE](https://open.spotify.com/artist/4k0dbhJImJWSJf9PsH7H3z) | [Снег растаял на плечах](https://open.spotify.com/album/4V5ZrTCDnhpsL4Oyi3R7Hs) | 2:28 | 2024-01-29 | 2024-03-11 |
 | [Спой](https://open.spotify.com/track/4h64grHEML9fbatKjFVHXr) | [A.V.G](https://open.spotify.com/artist/3a4bEvoyyeZPOLxCkSgPO6), [MACAN](https://open.spotify.com/artist/5VKufGMVAZ6fs111xYNKnU) | [Спой](https://open.spotify.com/album/0e1o7fUyITBNMcFzTICOhN) | 2:25 | 2024-01-29 | 2024-02-17 |
@@ -167,7 +169,7 @@
 | [фенибут 2.0](https://open.spotify.com/track/4YfWMQ0M3FYOh71etUTmO7) | [mapt0v](https://open.spotify.com/artist/5GTZUVrKf86Aco9LJQquxc) | [фенибут 2.0](https://open.spotify.com/album/102uVTPFXr32GnnmD2piYL) | 1:29 | 2024-04-16 |  |
 | [фенибут 2.0 \- speed up](https://open.spotify.com/track/5ktnJaccf1XbHRws28PlyK) | [mapt0v](https://open.spotify.com/artist/5GTZUVrKf86Aco9LJQquxc) | [фенибут 2.0](https://open.spotify.com/album/102uVTPFXr32GnnmD2piYL) | 1:15 | 2024-04-06 |  |
 | [ХАЙЕГОХО](https://open.spotify.com/track/5DIprzXMd8Ot7RSVe50qfq) | [Toxi$](https://open.spotify.com/artist/2hTmpvdwhpNZryOkwTisRW) | [JAZZ DO IT](https://open.spotify.com/album/54qJYajtPSQ350ArxQmmcU) | 1:36 | 2024-04-13 | 2024-04-17 |
-| [Холод](https://open.spotify.com/track/4jiwxqE1yye4hzG5CpNcUH) | [shadowraze](https://open.spotify.com/artist/0TO6y1x0LQodwBnxGtQu9o) | [Холод](https://open.spotify.com/album/2ow8uzDPdwcUgajYFxrylH) | 2:03 | 2024-01-29 |  |
+| [Холод](https://open.spotify.com/track/4jiwxqE1yye4hzG5CpNcUH) | [shadowraze](https://open.spotify.com/artist/0TO6y1x0LQodwBnxGtQu9o) | [Холод](https://open.spotify.com/album/2ow8uzDPdwcUgajYFxrylH) | 2:03 | 2024-01-29 | 2024-05-26 |
 | [ХОЧУ 18+](https://open.spotify.com/track/5x39VMQPsF1wDgLyhUSZYP) | [uniqe](https://open.spotify.com/artist/0NhjeTa9uSqiD1wEG3gfII), [nkeeei](https://open.spotify.com/artist/0kD3TUffiD0sPxGwygzjg7), [ARTEM SHILOVETS](https://open.spotify.com/artist/3r1Md7Hk5iqtpyEoGo8032), [Voskresenskii](https://open.spotify.com/artist/4x79BOihyDga7T7R1ULYC3) | [2007, Ч.1](https://open.spotify.com/album/3X6mGWf1bB8pwtcHDdRvNo) | 2:41 | 2024-01-29 |  |
 | [Художник](https://open.spotify.com/track/67pvnFwqbZ6Bcc3UdOtsvG) | [KRBK](https://open.spotify.com/artist/0E56Ncr2I37JQhW71UJALE) | [Художник](https://open.spotify.com/album/2T7zv5tviCnIqmQsMwNHIg) | 1:47 | 2024-04-25 | 2024-05-25 |
 | [Царица](https://open.spotify.com/track/1sgGy5HcUAdYoWGj3RXmYb) | [ANNA ASTI](https://open.spotify.com/artist/40YXr3tdSqFv0kfmgjj8vP) | [Царица](https://open.spotify.com/album/2rnuTMnUTPZOZQUw99TleP) | 3:35 | 2024-01-29 | 2024-05-16 |

@@ -1,6 +1,6 @@
 {
   "description": "A hypnotic journey through Melodic Techno.",
-  "num_followers": 112295,
+  "num_followers": 112444,
   "original_name": "Melodic Techno Elements",
   "owner": {
     "name": "Spotify",
@@ -763,18 +763,18 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "Zodiac",
-        "url": "https://open.spotify.com/album/6dylMlHC16SU924l7a6UGV"
+        "name": "Talking",
+        "url": "https://open.spotify.com/album/1dqG1NTAKPqwAvBp3VFlXS"
       },
       "artists": [
         {
-          "name": "Agents Of Time",
-          "url": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht"
+          "name": "Massano",
+          "url": "https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ"
         }
       ],
-      "duration_ms": 342857,
-      "name": "Zodiac",
-      "url": "https://open.spotify.com/track/1yZBuUYcA0Ug7Y7ImNdhwt"
+      "duration_ms": 244590,
+      "name": "Talking",
+      "url": "https://open.spotify.com/track/53pGJNOTQbGhDSgETn8h1K"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -795,42 +795,18 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "Talking",
-        "url": "https://open.spotify.com/album/1dqG1NTAKPqwAvBp3VFlXS"
+        "name": "Zodiac",
+        "url": "https://open.spotify.com/album/6dylMlHC16SU924l7a6UGV"
       },
       "artists": [
-        {
-          "name": "Massano",
-          "url": "https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ"
-        }
-      ],
-      "duration_ms": 244590,
-      "name": "Talking",
-      "url": "https://open.spotify.com/track/53pGJNOTQbGhDSgETn8h1K"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
-        "name": "Love Is A Drug (Agents Of Time Remix)",
-        "url": "https://open.spotify.com/album/0SRxj3K6ZgCVd3qgEn6PU0"
-      },
-      "artists": [
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        },
-        {
-          "name": "Anne Gudrun",
-          "url": "https://open.spotify.com/artist/4CjmulKe83Ymzhud7vD0i5"
-        },
         {
           "name": "Agents Of Time",
           "url": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht"
         }
       ],
-      "duration_ms": 182432,
-      "name": "Love Is A Drug - Agents Of Time Remix",
-      "url": "https://open.spotify.com/track/3MFiwJCd3rMIzFyQkt8FOo"
+      "duration_ms": 342857,
+      "name": "Zodiac",
+      "url": "https://open.spotify.com/track/1yZBuUYcA0Ug7Y7ImNdhwt"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -851,6 +827,22 @@
       "duration_ms": 329318,
       "name": "With You",
       "url": "https://open.spotify.com/track/79uf4T9oqDNjPKd8eCKtha"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
+        "name": "Captain Nemo",
+        "url": "https://open.spotify.com/album/7cfkSlQnFIzK5T5ZT8Q1mu"
+      },
+      "artists": [
+        {
+          "name": "Boris Brejcha",
+          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
+        }
+      ],
+      "duration_ms": 243840,
+      "name": "Captain Nemo - Edit",
+      "url": "https://open.spotify.com/track/0vwwoC3JkR0Cinl4i3DqU6"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -903,22 +895,6 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "Captain Nemo",
-        "url": "https://open.spotify.com/album/7cfkSlQnFIzK5T5ZT8Q1mu"
-      },
-      "artists": [
-        {
-          "name": "Boris Brejcha",
-          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
-        }
-      ],
-      "duration_ms": 243840,
-      "name": "Captain Nemo - Edit",
-      "url": "https://open.spotify.com/track/0vwwoC3JkR0Cinl4i3DqU6"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
         "name": "Beyond Us (Hatshepsut Version)",
         "url": "https://open.spotify.com/album/72jzGPaUtzX4wwbigsKmz9"
       },
@@ -935,6 +911,30 @@
       "duration_ms": 234795,
       "name": "Beyond Us - Hatshepsut Version",
       "url": "https://open.spotify.com/track/43eF4GLcpQkzJElhw7kGUj"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
+        "name": "Love Is A Drug (Agents Of Time Remix)",
+        "url": "https://open.spotify.com/album/0SRxj3K6ZgCVd3qgEn6PU0"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Anne Gudrun",
+          "url": "https://open.spotify.com/artist/4CjmulKe83Ymzhud7vD0i5"
+        },
+        {
+          "name": "Agents Of Time",
+          "url": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht"
+        }
+      ],
+      "duration_ms": 182432,
+      "name": "Love Is A Drug - Agents Of Time Remix",
+      "url": "https://open.spotify.com/track/3MFiwJCd3rMIzFyQkt8FOo"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
+        "name": "Seraph",
+        "url": "https://open.spotify.com/album/4q7mS5e4vm1lgjkEHKhp6M"
+      },
+      "artists": [
+        {
+          "name": "widerberg",
+          "url": "https://open.spotify.com/artist/6ob0DwL4uI6eR5i9cc5tNn"
+        }
+      ],
+      "duration_ms": 249600,
+      "name": "Seraph",
+      "url": "https://open.spotify.com/track/3Z6qOqLlTF1oVlfKmcPNab"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
         "name": "Sorry (with Madonna) [Miss Monique Remix]",
         "url": "https://open.spotify.com/album/5s5wL6wtBFh0aocKeSp3xq"
       },
@@ -1163,22 +1179,6 @@
       "duration_ms": 187200,
       "name": "Sorry (with Madonna) - Miss Monique Remix",
       "url": "https://open.spotify.com/track/4nb5Y4lJWwSccQRiFsHHcL"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
-        "name": "Seraph",
-        "url": "https://open.spotify.com/album/4q7mS5e4vm1lgjkEHKhp6M"
-      },
-      "artists": [
-        {
-          "name": "widerberg",
-          "url": "https://open.spotify.com/artist/6ob0DwL4uI6eR5i9cc5tNn"
-        }
-      ],
-      "duration_ms": 249600,
-      "name": "Seraph",
-      "url": "https://open.spotify.com/track/3Z6qOqLlTF1oVlfKmcPNab"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "The Switch",
-        "url": "https://open.spotify.com/album/3x0717lwXQfyWeLFwiEe5S"
-      },
-      "artists": [
-        {
-          "name": "KREAM",
-          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
-        }
-      ],
-      "duration_ms": 206410,
-      "name": "The Switch",
-      "url": "https://open.spotify.com/track/2Uf2IFn75rflEjYN4z1YUR"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
         "name": "All That Matters (Artbat Remix)",
         "url": "https://open.spotify.com/album/5BRqAXbsa6oxnnLQIiDHai"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 529920,
       "name": "All That Matters - ARTBAT Remix",
       "url": "https://open.spotify.com/track/6MUrwiKZCEc80rbKU7cvbd"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
+        "name": "The Switch",
+        "url": "https://open.spotify.com/album/3x0717lwXQfyWeLFwiEe5S"
+      },
+      "artists": [
+        {
+          "name": "KREAM",
+          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+        }
+      ],
+      "duration_ms": 206410,
+      "name": "The Switch",
+      "url": "https://open.spotify.com/track/2Uf2IFn75rflEjYN4z1YUR"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -1495,18 +1495,26 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "Running Man",
-        "url": "https://open.spotify.com/album/5f97vFiQaKNaPWJmm7wsCf"
+        "name": "I Talk To Water (With Perry Farrell) (CamelPhat Remix)",
+        "url": "https://open.spotify.com/album/6tIe9eiRP3pUXY2f2DMMpe"
       },
       "artists": [
         {
+          "name": "K\u00f6lsch",
+          "url": "https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0"
+        },
+        {
           "name": "CamelPhat",
           "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+        },
+        {
+          "name": "Perry Farrell",
+          "url": "https://open.spotify.com/artist/2DS5RPK5A2GQTucYlgsQdE"
         }
       ],
-      "duration_ms": 191612,
-      "name": "Running Man",
-      "url": "https://open.spotify.com/track/7irrCOHmsuQve6JLGCMB0w"
+      "duration_ms": 180952,
+      "name": "I Talk To Water (With Perry Farrell) - CamelPhat Remix",
+      "url": "https://open.spotify.com/track/0VMY3ugy98OkCzk8U3q2C7"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -1555,26 +1563,18 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "I Talk To Water (With Perry Farrell) (CamelPhat Remix)",
-        "url": "https://open.spotify.com/album/6tIe9eiRP3pUXY2f2DMMpe"
+        "name": "Running Man",
+        "url": "https://open.spotify.com/album/5f97vFiQaKNaPWJmm7wsCf"
       },
       "artists": [
         {
-          "name": "K\u00f6lsch",
-          "url": "https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0"
-        },
-        {
           "name": "CamelPhat",
           "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
-        },
-        {
-          "name": "Perry Farrell",
-          "url": "https://open.spotify.com/artist/2DS5RPK5A2GQTucYlgsQdE"
         }
       ],
-      "duration_ms": 180952,
-      "name": "I Talk To Water (With Perry Farrell) - CamelPhat Remix",
-      "url": "https://open.spotify.com/track/0VMY3ugy98OkCzk8U3q2C7"
+      "duration_ms": 191612,
+      "name": "Running Man",
+      "url": "https://open.spotify.com/track/7irrCOHmsuQve6JLGCMB0w"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -1683,58 +1683,6 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "Gate / Masterplan",
-        "url": "https://open.spotify.com/album/6cQx7mXhkQnfG96b3YlglI"
-      },
-      "artists": [
-        {
-          "name": "K\u00f6lsch",
-          "url": "https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0"
-        },
-        {
-          "name": "Kevin de Vries",
-          "url": "https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx"
-        }
-      ],
-      "duration_ms": 343764,
-      "name": "Gate",
-      "url": "https://open.spotify.com/track/0lenLbjzr7nDOUt5Ll9iwf"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
-        "name": "Level One",
-        "url": "https://open.spotify.com/album/32nuiBkyfkO2lLAvLgajFz"
-      },
-      "artists": [
-        {
-          "name": "Boris Brejcha",
-          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
-        }
-      ],
-      "duration_ms": 470400,
-      "name": "Level One",
-      "url": "https://open.spotify.com/track/3oCfybScespNWsvxK6l48B"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
-        "name": "Telepathic",
-        "url": "https://open.spotify.com/album/1yLe2H0i64bqaH8dGYg70O"
-      },
-      "artists": [
-        {
-          "name": "Massano",
-          "url": "https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ"
-        }
-      ],
-      "duration_ms": 278522,
-      "name": "Telepathic",
-      "url": "https://open.spotify.com/track/0MyztaslwZeqsnYPaLmREB"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
         "name": "In And Out Of Love (Innellea Remix)",
         "url": "https://open.spotify.com/album/0usEDxtDCBWHx3cfPceoYD"
       },
@@ -1755,6 +1703,58 @@
       "duration_ms": 218004,
       "name": "In And Out Of Love - Innellea Remix",
       "url": "https://open.spotify.com/track/13z0WuyNhDPQlwXSr8EY4S"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
+        "name": "Gate / Masterplan",
+        "url": "https://open.spotify.com/album/6cQx7mXhkQnfG96b3YlglI"
+      },
+      "artists": [
+        {
+          "name": "K\u00f6lsch",
+          "url": "https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0"
+        },
+        {
+          "name": "Kevin de Vries",
+          "url": "https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx"
+        }
+      ],
+      "duration_ms": 343764,
+      "name": "Gate",
+      "url": "https://open.spotify.com/track/0lenLbjzr7nDOUt5Ll9iwf"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
+        "name": "Telepathic",
+        "url": "https://open.spotify.com/album/1yLe2H0i64bqaH8dGYg70O"
+      },
+      "artists": [
+        {
+          "name": "Massano",
+          "url": "https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ"
+        }
+      ],
+      "duration_ms": 278522,
+      "name": "Telepathic",
+      "url": "https://open.spotify.com/track/0MyztaslwZeqsnYPaLmREB"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
+        "name": "Level One",
+        "url": "https://open.spotify.com/album/32nuiBkyfkO2lLAvLgajFz"
+      },
+      "artists": [
+        {
+          "name": "Boris Brejcha",
+          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
+        }
+      ],
+      "duration_ms": 470400,
+      "name": "Level One",
+      "url": "https://open.spotify.com/track/3oCfybScespNWsvxK6l48B"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -1931,6 +1931,22 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
+        "name": "Rebirth",
+        "url": "https://open.spotify.com/album/5k27SCv9uikB2YqlMB9Ub2"
+      },
+      "artists": [
+        {
+          "name": "Miss Monique",
+          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
+        }
+      ],
+      "duration_ms": 261120,
+      "name": "Rebirth",
+      "url": "https://open.spotify.com/track/4yaXiOi0fml3ehTPOovp5K"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
         "name": "Need You",
         "url": "https://open.spotify.com/album/1CFS7xc9Y41gLfqjsJ1HJx"
       },
@@ -1951,18 +1967,18 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "Rebirth",
-        "url": "https://open.spotify.com/album/5k27SCv9uikB2YqlMB9Ub2"
+        "name": "A Cappella",
+        "url": "https://open.spotify.com/album/1iJ79Xqyq2BTpIQsfvKQiO"
       },
       "artists": [
         {
-          "name": "Miss Monique",
-          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
+          "name": "Goom Gum",
+          "url": "https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec"
         }
       ],
-      "duration_ms": 261120,
-      "name": "Rebirth",
-      "url": "https://open.spotify.com/track/4yaXiOi0fml3ehTPOovp5K"
+      "duration_ms": 190641,
+      "name": "A Cappella",
+      "url": "https://open.spotify.com/track/3INzwnPdpDf7patNCpn6dL"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -1983,22 +1999,6 @@
       "duration_ms": 481907,
       "name": "My Cosmos Is Mine - ANNA Remix",
       "url": "https://open.spotify.com/track/3K86NkImdmjzBYZamJvx4T"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
-        "name": "A Cappella",
-        "url": "https://open.spotify.com/album/1iJ79Xqyq2BTpIQsfvKQiO"
-      },
-      "artists": [
-        {
-          "name": "Goom Gum",
-          "url": "https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec"
-        }
-      ],
-      "duration_ms": 190641,
-      "name": "A Cappella",
-      "url": "https://open.spotify.com/track/3INzwnPdpDf7patNCpn6dL"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -2199,22 +2199,6 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "Fluid Meditations",
-        "url": "https://open.spotify.com/album/3Tb3OLF2gtWesqXDqFvEEM"
-      },
-      "artists": [
-        {
-          "name": "DJ Gigola",
-          "url": "https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf"
-        }
-      ],
-      "duration_ms": 364455,
-      "name": "Stream State",
-      "url": "https://open.spotify.com/track/2rL6RiorPm6fWSEFUNX8cF"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
         "name": "Trust The Hours",
         "url": "https://open.spotify.com/album/4MKzursWBCbB95qiTNQzgV"
       },
@@ -2227,6 +2211,22 @@
       "duration_ms": 371604,
       "name": "Trust The Hours",
       "url": "https://open.spotify.com/track/7s6PEaininXkVBJr2RRKub"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
+        "name": "Fluid Meditations",
+        "url": "https://open.spotify.com/album/3Tb3OLF2gtWesqXDqFvEEM"
+      },
+      "artists": [
+        {
+          "name": "DJ Gigola",
+          "url": "https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf"
+        }
+      ],
+      "duration_ms": 364455,
+      "name": "Stream State",
+      "url": "https://open.spotify.com/track/2rL6RiorPm6fWSEFUNX8cF"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -2263,6 +2263,22 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
+        "name": "Club Vibes Part 05",
+        "url": "https://open.spotify.com/album/5ad6LcmH6riZRxu4VzI7Vf"
+      },
+      "artists": [
+        {
+          "name": "Boris Brejcha",
+          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
+        }
+      ],
+      "duration_ms": 485760,
+      "name": "Black Unicorn",
+      "url": "https://open.spotify.com/track/1WSF0LJGwJkYejuMtyJVuA"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
         "name": "Tripchain / Scanalatura",
         "url": "https://open.spotify.com/album/6lpcgj0260dwSF2DEZ33el"
       },
@@ -2283,22 +2299,6 @@
       "duration_ms": 405500,
       "name": "Tripchain",
       "url": "https://open.spotify.com/track/3wLIyQsH1vm9jmg0p5Dsga"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
-        "name": "Club Vibes Part 05",
-        "url": "https://open.spotify.com/album/5ad6LcmH6riZRxu4VzI7Vf"
-      },
-      "artists": [
-        {
-          "name": "Boris Brejcha",
-          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
-        }
-      ],
-      "duration_ms": 485760,
-      "name": "Black Unicorn",
-      "url": "https://open.spotify.com/track/1WSF0LJGwJkYejuMtyJVuA"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -2335,6 +2335,22 @@
       "duration_ms": 390243,
       "name": "Ashes in Paradise",
       "url": "https://open.spotify.com/track/2aa3mL5s2oZ5Z8irf9lDoI"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
+        "name": "Ludo",
+        "url": "https://open.spotify.com/album/3ove9LdrIbTwhPlz2mi7UN"
+      },
+      "artists": [
+        {
+          "name": "Space Motion",
+          "url": "https://open.spotify.com/artist/1k7iyyK6j5IJzF0cUMcaGY"
+        }
+      ],
+      "duration_ms": 260806,
+      "name": "Ludo - Radio Edit",
+      "url": "https://open.spotify.com/track/7JILgK41pMTIvaFAeTH9Ht"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -2403,38 +2419,6 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "Ludo",
-        "url": "https://open.spotify.com/album/3ove9LdrIbTwhPlz2mi7UN"
-      },
-      "artists": [
-        {
-          "name": "Space Motion",
-          "url": "https://open.spotify.com/artist/1k7iyyK6j5IJzF0cUMcaGY"
-        }
-      ],
-      "duration_ms": 260806,
-      "name": "Ludo - Radio Edit",
-      "url": "https://open.spotify.com/track/7JILgK41pMTIvaFAeTH9Ht"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
-        "name": "Olympus",
-        "url": "https://open.spotify.com/album/3lFDbkGVwjx3Dp1Kx4Fqus"
-      },
-      "artists": [
-        {
-          "name": "AKKI (DE)",
-          "url": "https://open.spotify.com/artist/0hReHYoLJG38QBwYIZ8zKs"
-        }
-      ],
-      "duration_ms": 177777,
-      "name": "Olympus",
-      "url": "https://open.spotify.com/track/0hfyaFhHkcEdWWckyVRnH6"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
         "name": "Gravity (Adam Sellouk Remix)",
         "url": "https://open.spotify.com/album/1bC33zJHkHTeifvIWwBS5m"
       },
@@ -2455,6 +2439,22 @@
       "duration_ms": 194754,
       "name": "Gravity - Adam Sellouk Remix",
       "url": "https://open.spotify.com/track/1fAEgL0FxWfNqxVZRHsm20"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
+        "name": "Olympus",
+        "url": "https://open.spotify.com/album/3lFDbkGVwjx3Dp1Kx4Fqus"
+      },
+      "artists": [
+        {
+          "name": "AKKI (DE)",
+          "url": "https://open.spotify.com/artist/0hReHYoLJG38QBwYIZ8zKs"
+        }
+      ],
+      "duration_ms": 177777,
+      "name": "Olympus",
+      "url": "https://open.spotify.com/track/0hfyaFhHkcEdWWckyVRnH6"
     },
     {
       "added_at": "2024-05-23 22:00:00",

@@ -1,6 +1,6 @@
 {
   "description": "All <a href=\"spotify:genre:bass\">wobble</a>. Cover: JAWNS",
-  "num_followers": 968906,
+  "num_followers": 968958,
   "original_name": "Dubstep Don",
   "owner": {
     "name": "Spotify",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2024-05-24 04:03:49",
       "album": {
-        "name": "Tear Jerker",
-        "url": "https://open.spotify.com/album/5vqaFNDtNXDaXjM7MoCOeu"
-      },
-      "artists": [
-        {
-          "name": "Cyclops",
-          "url": "https://open.spotify.com/artist/1vOTVnnyLvVTeuwrZLghCN"
-        }
-      ],
-      "duration_ms": 155538,
-      "name": "Tear Jerker",
-      "url": "https://open.spotify.com/track/44tKnY1Tsoe9jPGmoA1H2c"
-    },
-    {
-      "added_at": "2024-05-24 04:03:49",
-      "album": {
         "name": "BOSS FIGHT",
         "url": "https://open.spotify.com/album/5nZXNqdF0BInnCkJwFA5a5"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 167176,
       "name": "BOSS FIGHT",
       "url": "https://open.spotify.com/track/4LLfFnU48vESdgSHR7WeqR"
+    },
+    {
+      "added_at": "2024-05-24 04:03:49",
+      "album": {
+        "name": "Tear Jerker",
+        "url": "https://open.spotify.com/album/5vqaFNDtNXDaXjM7MoCOeu"
+      },
+      "artists": [
+        {
+          "name": "Cyclops",
+          "url": "https://open.spotify.com/artist/1vOTVnnyLvVTeuwrZLghCN"
+        }
+      ],
+      "duration_ms": 155538,
+      "name": "Tear Jerker",
+      "url": "https://open.spotify.com/track/44tKnY1Tsoe9jPGmoA1H2c"
     },
     {
       "added_at": "2024-05-24 04:03:49",
@@ -1739,26 +1739,22 @@
     {
       "added_at": "2024-05-24 04:03:49",
       "album": {
-        "name": "CHIAROSCURO",
-        "url": "https://open.spotify.com/album/4WZZKZdnofkrCK6oKVGM0h"
+        "name": "Buried Beneath You",
+        "url": "https://open.spotify.com/album/6V5Mgo4liTdgLpcEzRlUHU"
       },
       "artists": [
         {
-          "name": "Borgore",
-          "url": "https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz"
+          "name": "Kai Wachi",
+          "url": "https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K"
         },
         {
-          "name": "Careless Castle",
-          "url": "https://open.spotify.com/artist/3AIJLK5M4FWwSx23YvOgvC"
-        },
-        {
-          "name": "Capleton",
-          "url": "https://open.spotify.com/artist/21J3YJTyq1biE3SvSNjzuf"
+          "name": "YMIR",
+          "url": "https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD"
         }
       ],
-      "duration_ms": 275200,
-      "name": "BURN UP",
-      "url": "https://open.spotify.com/track/7mo99X14j5mkgbYXjaH7WW"
+      "duration_ms": 211013,
+      "name": "Buried Beneath You",
+      "url": "https://open.spotify.com/track/0s21wy24ori9qnxzNBIHJd"
     },
     {
       "added_at": "2024-05-24 04:03:49",
@@ -1783,22 +1779,26 @@
     {
       "added_at": "2024-05-24 04:03:49",
       "album": {
-        "name": "Buried Beneath You",
-        "url": "https://open.spotify.com/album/6V5Mgo4liTdgLpcEzRlUHU"
+        "name": "CHIAROSCURO",
+        "url": "https://open.spotify.com/album/4WZZKZdnofkrCK6oKVGM0h"
       },
       "artists": [
         {
-          "name": "Kai Wachi",
-          "url": "https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K"
+          "name": "Borgore",
+          "url": "https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz"
         },
         {
-          "name": "YMIR",
-          "url": "https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD"
+          "name": "Careless Castle",
+          "url": "https://open.spotify.com/artist/3AIJLK5M4FWwSx23YvOgvC"
+        },
+        {
+          "name": "Capleton",
+          "url": "https://open.spotify.com/artist/21J3YJTyq1biE3SvSNjzuf"
         }
       ],
-      "duration_ms": 211013,
-      "name": "Buried Beneath You",
-      "url": "https://open.spotify.com/track/0s21wy24ori9qnxzNBIHJd"
+      "duration_ms": 275200,
+      "name": "BURN UP",
+      "url": "https://open.spotify.com/track/7mo99X14j5mkgbYXjaH7WW"
     },
     {
       "added_at": "2024-05-24 04:03:49",
@@ -1847,26 +1847,6 @@
     {
       "added_at": "2024-05-24 04:03:49",
       "album": {
-        "name": "ANGELS IN HELL",
-        "url": "https://open.spotify.com/album/6eQp2cvNbakYkWLip21vPF"
-      },
-      "artists": [
-        {
-          "name": "Ryan Nevis",
-          "url": "https://open.spotify.com/artist/3lTv6FUrCLwLJqLkkqWRij"
-        },
-        {
-          "name": "Gomey",
-          "url": "https://open.spotify.com/artist/5ibWbhA0IkPT3xCN0YicRL"
-        }
-      ],
-      "duration_ms": 234350,
-      "name": "ANGELS IN HELL",
-      "url": "https://open.spotify.com/track/6g7dSKYqZTuaGSLsf4o0s5"
-    },
-    {
-      "added_at": "2024-05-24 04:03:49",
-      "album": {
         "name": "Laserbeam (Sullivan King Remix)",
         "url": "https://open.spotify.com/album/30P2BMPn9DlUW4XtODJbYP"
       },
@@ -1883,6 +1863,26 @@
       "duration_ms": 226400,
       "name": "Laserbeam - Sullivan King Remix",
       "url": "https://open.spotify.com/track/0VnfaVKFyKNQGm9Sk7RrOX"
+    },
+    {
+      "added_at": "2024-05-24 04:03:49",
+      "album": {
+        "name": "ANGELS IN HELL",
+        "url": "https://open.spotify.com/album/6eQp2cvNbakYkWLip21vPF"
+      },
+      "artists": [
+        {
+          "name": "Ryan Nevis",
+          "url": "https://open.spotify.com/artist/3lTv6FUrCLwLJqLkkqWRij"
+        },
+        {
+          "name": "Gomey",
+          "url": "https://open.spotify.com/artist/5ibWbhA0IkPT3xCN0YicRL"
+        }
+      ],
+      "duration_ms": 234350,
+      "name": "ANGELS IN HELL",
+      "url": "https://open.spotify.com/track/6g7dSKYqZTuaGSLsf4o0s5"
     },
     {
       "added_at": "2024-05-24 04:03:49",
@@ -1971,22 +1971,6 @@
     {
       "added_at": "2024-05-24 04:03:49",
       "album": {
-        "name": "EAT SLEEP RAGE",
-        "url": "https://open.spotify.com/album/3ACwIVqUsWkj9An9umbKmF"
-      },
-      "artists": [
-        {
-          "name": "Ray Volpe",
-          "url": "https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "EAT SLEEP RAGE",
-      "url": "https://open.spotify.com/track/2s7F8qjzm1XcMKG7O4GzCY"
-    },
-    {
-      "added_at": "2024-05-24 04:03:49",
-      "album": {
         "name": "Find It In Your Mind",
         "url": "https://open.spotify.com/album/2bLajnFeXD9VhyaT62LzNR"
       },
@@ -2067,22 +2051,18 @@
     {
       "added_at": "2024-05-24 04:03:49",
       "album": {
-        "name": "Hallow Heart (with Aaron Gillespie of Underoath)",
-        "url": "https://open.spotify.com/album/7miivDg7VzTXy7WUpgkztg"
+        "name": "EAT SLEEP RAGE",
+        "url": "https://open.spotify.com/album/3ACwIVqUsWkj9An9umbKmF"
       },
       "artists": [
         {
-          "name": "LEVEL UP",
-          "url": "https://open.spotify.com/artist/1ZpDxqXS6HAvoZyCzQfKRb"
-        },
-        {
-          "name": "Aaron Gillespie",
-          "url": "https://open.spotify.com/artist/5B2GfbXgossZt9SE08Iqn6"
+          "name": "Ray Volpe",
+          "url": "https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb"
         }
       ],
-      "duration_ms": 185379,
-      "name": "Hallow Heart (with Aaron Gillespie of Underoath)",
-      "url": "https://open.spotify.com/track/5kZV6vNbRzNAgRWWP4XKPi"
+      "duration_ms": 216000,
+      "name": "EAT SLEEP RAGE",
+      "url": "https://open.spotify.com/track/2s7F8qjzm1XcMKG7O4GzCY"
     },
     {
       "added_at": "2024-05-24 04:03:49",
@@ -2107,6 +2087,26 @@
     {
       "added_at": "2024-05-24 04:03:49",
       "album": {
+        "name": "Hallow Heart (with Aaron Gillespie of Underoath)",
+        "url": "https://open.spotify.com/album/7miivDg7VzTXy7WUpgkztg"
+      },
+      "artists": [
+        {
+          "name": "LEVEL UP",
+          "url": "https://open.spotify.com/artist/1ZpDxqXS6HAvoZyCzQfKRb"
+        },
+        {
+          "name": "Aaron Gillespie",
+          "url": "https://open.spotify.com/artist/5B2GfbXgossZt9SE08Iqn6"
+        }
+      ],
+      "duration_ms": 185379,
+      "name": "Hallow Heart (with Aaron Gillespie of Underoath)",
+      "url": "https://open.spotify.com/track/5kZV6vNbRzNAgRWWP4XKPi"
+    },
+    {
+      "added_at": "2024-05-24 04:03:49",
+      "album": {
         "name": "WRATH OF THE WICKED - Remixes",
         "url": "https://open.spotify.com/album/0JGzk0KXvrLNoznenUrvbH"
       },
@@ -2127,22 +2127,6 @@
     {
       "added_at": "2024-05-24 04:03:49",
       "album": {
-        "name": "Redemption",
-        "url": "https://open.spotify.com/album/5F9fnBnigjsoo1ymn2Nnkj"
-      },
-      "artists": [
-        {
-          "name": "RIOT",
-          "url": "https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY"
-        }
-      ],
-      "duration_ms": 228800,
-      "name": "Redemption",
-      "url": "https://open.spotify.com/track/4Xo0c4AtfUUuprVEKzyNYW"
-    },
-    {
-      "added_at": "2024-05-24 04:03:49",
-      "album": {
         "name": "BASS FACE",
         "url": "https://open.spotify.com/album/4DrSVjWkh7PBe0vgmKpSzk"
       },
@@ -2159,6 +2143,22 @@
       "duration_ms": 173200,
       "name": "BASS FACE",
       "url": "https://open.spotify.com/track/1BmHjaoOzE4bkBBbNdVnCq"
+    },
+    {
+      "added_at": "2024-05-24 04:03:49",
+      "album": {
+        "name": "Redemption",
+        "url": "https://open.spotify.com/album/5F9fnBnigjsoo1ymn2Nnkj"
+      },
+      "artists": [
+        {
+          "name": "RIOT",
+          "url": "https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY"
+        }
+      ],
+      "duration_ms": 228800,
+      "name": "Redemption",
+      "url": "https://open.spotify.com/track/4Xo0c4AtfUUuprVEKzyNYW"
     },
     {
       "added_at": "2024-05-24 04:03:49",
@@ -2323,22 +2323,22 @@
     {
       "added_at": "2024-05-24 04:03:49",
       "album": {
-        "name": "Emergence",
-        "url": "https://open.spotify.com/album/1FufCHcrLgdogsuq7JVsxh"
+        "name": "FINAL BOSS",
+        "url": "https://open.spotify.com/album/7t8CJPC1Beih06RkOAwCSl"
       },
       "artists": [
         {
-          "name": "Blanke",
-          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
+          "name": "GHENGAR",
+          "url": "https://open.spotify.com/artist/6g6OqIpMMbEkhhtEODZaGf"
         },
         {
-          "name": "Au5",
-          "url": "https://open.spotify.com/artist/40WIa01eubnEVkxUHeDZyF"
+          "name": "Ghastly",
+          "url": "https://open.spotify.com/artist/2Sa4c9qKaI7ILJs8D6gUCh"
         }
       ],
-      "duration_ms": 212571,
-      "name": "Turmoil",
-      "url": "https://open.spotify.com/track/2oJxVoQI9QxXRt8EYN8mEA"
+      "duration_ms": 172800,
+      "name": "FINAL BOSS",
+      "url": "https://open.spotify.com/track/380VILV9jrUUVxKPHO0VSA"
     },
     {
       "added_at": "2024-05-24 04:03:49",
@@ -2383,26 +2383,6 @@
     {
       "added_at": "2024-05-24 04:03:49",
       "album": {
-        "name": "FINAL BOSS",
-        "url": "https://open.spotify.com/album/7t8CJPC1Beih06RkOAwCSl"
-      },
-      "artists": [
-        {
-          "name": "GHENGAR",
-          "url": "https://open.spotify.com/artist/6g6OqIpMMbEkhhtEODZaGf"
-        },
-        {
-          "name": "Ghastly",
-          "url": "https://open.spotify.com/artist/2Sa4c9qKaI7ILJs8D6gUCh"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "FINAL BOSS",
-      "url": "https://open.spotify.com/track/380VILV9jrUUVxKPHO0VSA"
-    },
-    {
-      "added_at": "2024-05-24 04:03:49",
-      "album": {
         "name": "Mellow Man",
         "url": "https://open.spotify.com/album/7GuzEc0bwqnJVQGSavefCD"
       },
@@ -2415,6 +2395,26 @@
       "duration_ms": 219720,
       "name": "Mellow Man",
       "url": "https://open.spotify.com/track/2GYMEBJeoZxHqIXc6ymsg1"
+    },
+    {
+      "added_at": "2024-05-24 04:03:49",
+      "album": {
+        "name": "Emergence",
+        "url": "https://open.spotify.com/album/1FufCHcrLgdogsuq7JVsxh"
+      },
+      "artists": [
+        {
+          "name": "Blanke",
+          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
+        },
+        {
+          "name": "Au5",
+          "url": "https://open.spotify.com/artist/40WIa01eubnEVkxUHeDZyF"
+        }
+      ],
+      "duration_ms": 212571,
+      "name": "Turmoil",
+      "url": "https://open.spotify.com/track/2oJxVoQI9QxXRt8EYN8mEA"
     },
     {
       "added_at": "2024-05-24 04:03:49",

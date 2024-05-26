@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: Pepe Aguilar
 
-[Spotify](https://open.spotify.com/user/spotify) - 655,194 likes - 51 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 655,279 likes - 51 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 47 | [Dosis de Olvido](https://open.spotify.com/track/44t0xp4JEBt04Ap52ERwkv) | [Alfredo Montaño](https://open.spotify.com/artist/23L3bzvIziNKZw42P3lwsH) | [Dosis de Olvido](https://open.spotify.com/album/0Py5gPOiKJiUsmE6hbR4II) | 2:43 |
 | 48 | [Fuga](https://open.spotify.com/track/7k7b44karQPhmPTTU7qA1S) | [CUERNO](https://open.spotify.com/artist/6WfZ64HOR7tT0nGmxKQ7Hq) | [Fuga](https://open.spotify.com/album/2Olbr4iTFt9DQkPYLfTbb6) | 3:15 |
 | 49 | [Anitta "Fresita"](https://open.spotify.com/track/2WX1remNuBAAqQCYwzxhbC) | [Designo Celestial](https://open.spotify.com/artist/7ApLnBw5BDaqVN1gYM9pAb) | [Anitta "Fresita"](https://open.spotify.com/album/3JhEthd5rwcNeLO903tPH5) | 2:48 |
-| 50 | [El Tigre \(En Vivo\)](https://open.spotify.com/track/6jrNqus0QuqXA7EOwaE3Rp) | [Victor Valverde](https://open.spotify.com/artist/20nJFshDG1OYH7Qp9K0TXf), [Las Joyas de Culiacán](https://open.spotify.com/artist/43CZW9MARqq5ojJLia6M5l), [Los Nuevos Coyonquis](https://open.spotify.com/artist/0OAiUOqab67e0oU0Ogp8sN) | [El Tigre \(En Vivo\)](https://open.spotify.com/album/2vD24QssNEpI4msnnnWVmq) | 3:16 |
+| 50 | [El Tigre \(En Vivo\)](https://open.spotify.com/track/6jrNqus0QuqXA7EOwaE3Rp) | [Victor Valverde](https://open.spotify.com/artist/20nJFshDG1OYH7Qp9K0TXf), [Las Joyas de Culiacan](https://open.spotify.com/artist/08fU5RS1CQdw5GBeztGPMn), [Los Nuevos Coyonquis](https://open.spotify.com/artist/0OAiUOqab67e0oU0Ogp8sN) | [El Tigre \(En Vivo\)](https://open.spotify.com/album/2vD24QssNEpI4msnnnWVmq) | 3:16 |
 | 51 | [MALIBU](https://open.spotify.com/track/04lV85JVGnjC2cRtDIthqx) | [Linea Personal](https://open.spotify.com/artist/5Bb18koIu6bYuvZWzYKkLJ) | [Vision](https://open.spotify.com/album/3CVObq7AFkpwOkwdhJYJQo) | 3:05 |
 
 Snapshot ID: `ZlC4ywAAAAArbtRi2r+ufWfRllAGUJ6S`

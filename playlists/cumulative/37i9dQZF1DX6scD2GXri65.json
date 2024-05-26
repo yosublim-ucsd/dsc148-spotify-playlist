@@ -115,6 +115,24 @@
     },
     {
       "album": {
+        "name": "Be With You",
+        "url": "https://open.spotify.com/album/578HhzAEh31a0UKjCfVABO"
+      },
+      "artists": [
+        {
+          "name": "Anderex",
+          "url": "https://open.spotify.com/artist/7wXBtpPB5GFddtz9OeBlPW"
+        }
+      ],
+      "date_added": "2024-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170261,
+      "name": "Be With You",
+      "url": "https://open.spotify.com/track/4VWAwBkIxi9t9xG9zwPWwJ"
+    },
+    {
+      "album": {
         "name": "Before I Wake",
         "url": "https://open.spotify.com/album/03shY44GfauTzF4uVsDZiV"
       },
@@ -1406,7 +1424,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-26",
       "duration_ms": 135505,
       "name": "Get Psycho",
       "url": "https://open.spotify.com/track/2qSbdjBKV4Ooa0yxZtA0px"
@@ -1490,7 +1508,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-26",
       "duration_ms": 165000,
       "name": "Go Mental",
       "url": "https://open.spotify.com/track/3RFdqTUaDhCb6sZiLJ2b6j"
@@ -2453,6 +2471,24 @@
     },
     {
       "album": {
+        "name": "MOVIE DREAM",
+        "url": "https://open.spotify.com/album/48e9WXqqjXSDn8PGlbjJrd"
+      },
+      "artists": [
+        {
+          "name": "Kronos",
+          "url": "https://open.spotify.com/artist/2B3mYtzGes0f92Yfn4mVQD"
+        }
+      ],
+      "date_added": "2024-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154593,
+      "name": "MOVIE DREAM",
+      "url": "https://open.spotify.com/track/7CNTnuvqYFzSMNm8GLOAbG"
+    },
+    {
+      "album": {
         "name": "My Time",
         "url": "https://open.spotify.com/album/6twbJ6MrK36i8nTNpEuzPU"
       },
@@ -2842,7 +2878,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-26",
       "duration_ms": 163730,
       "name": "Radar",
       "url": "https://open.spotify.com/track/1uDVbdOu9U824RnW5G1sON"
@@ -4242,6 +4278,24 @@
       "duration_ms": 169500,
       "name": "X (A DECADE)",
       "url": "https://open.spotify.com/track/5hQVCrL0yKJw5Jf7lWnjPY"
+    },
+    {
+      "album": {
+        "name": "XTREME XTASY",
+        "url": "https://open.spotify.com/album/1DcPUHZKSsJjPuc7pfabEK"
+      },
+      "artists": [
+        {
+          "name": "Thyron",
+          "url": "https://open.spotify.com/artist/75jOSvJYkVT21xz5yll1xM"
+        }
+      ],
+      "date_added": "2024-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "XTREME XTASY",
+      "url": "https://open.spotify.com/track/7DIAUvqEp8uCAp9rL5pBEA"
     },
     {
       "album": {

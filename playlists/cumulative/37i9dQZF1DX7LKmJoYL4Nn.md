@@ -4,7 +4,7 @@
 
 > Songs from “ENSEMBLE STARS!!”「あんスタ」シリーズの楽曲を1つのプレイリストで。© 2014\-2019 Happy Elements K.K
 
-83 songs - 5 hr 35 min
+84 songs - 5 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Honeycomb Summer](https://open.spotify.com/track/6jZaxLW2LKa9XuNHsrxJJi) | [Crazy:B/天城 燐音\(CV.阿座上 洋平\)、HiMERU\(CV.笠間 淳\)、桜河 こはく\(CV.海渡 翼\)、椎名 ニキ\(CV.山口 智広\)](https://open.spotify.com/artist/5PaMXRPWxlUL5Q0u0gQ8ej) | [あんさんぶるスターズ！！ ESアイドルソング season1 Crazy:B](https://open.spotify.com/album/0LVSiV6lhKYnufCIws2bHJ) | 4:08 | 2024-04-26 |  |
 | [Ironic Blue](https://open.spotify.com/track/3lFRXoGPlpHoaUyWiH6SwK) | [瀬名泉\(CV.伊藤マサミ\)](https://open.spotify.com/artist/1dU0QhfWX3xNS0HYugINlY) | [あんさんぶるスターズ！ アルバムシリーズ Knights](https://open.spotify.com/album/6AvMxznw9rviWn2cx9y7Oc) | 3:33 | 2024-04-26 | 2024-05-08 |
 | [Kiss of Life](https://open.spotify.com/track/7FZ8p7BXhPoG9AvC8ymbhC) | [ALKALOID/天城 一彩\(CV.梶原 岳人\)、白鳥 藍良\(CV.天﨑 滉平\)、礼瀬 マヨイ\(CV.重松 千晴\)、風早 巽\(CV.中澤 まさとも\)](https://open.spotify.com/artist/2KsAMzSMNP6i4aQKTZnAkv) | [あんさんぶるスターズ！！ ユニットソングCD ALKALOID](https://open.spotify.com/album/6nBym9midy0B0Dzkltz56L) | 4:48 | 2024-04-26 |  |
+| [KISS YOURSELF](https://open.spotify.com/track/0szrP9bl0cIs7Pz73qxJyP) | [鳴上 嵐\(CV.北村 諒\)](https://open.spotify.com/artist/6OURI3uza8OUxggJF9wish) | [あんさんぶるスターズ！！アルバムシリーズ 『TRIP』 Knights](https://open.spotify.com/album/3qcoVnc807jEOc4SJJqYHP) | 4:43 | 2024-05-24 |  |
 | [Knights the Phantom Thief](https://open.spotify.com/track/1jxVKwkXH6s0tqN7zX4dPU) | [Knights/月永レオ\(CV.浅沼晋太郎\)、瀬名泉\(CV.伊藤マサミ\)、朔間凛月\(CV.山下大輝\)、鳴上嵐\(CV.北村諒\)、朱桜司\(CV.土田玲央\)](https://open.spotify.com/artist/0MWS0g20z5StsBOML5UZ8A) | [あんさんぶるスターズ！ アルバムシリーズ Knights](https://open.spotify.com/album/6AvMxznw9rviWn2cx9y7Oc) | 3:42 | 2024-04-26 |  |
 | [Le temps des fleurs](https://open.spotify.com/track/21hTRn51VQnMvmojKl2G5r) | [Valkyrie/斎宮 宗\(CV.高橋広樹\)、影片みか\(CV.大須賀 純\)](https://open.spotify.com/artist/0ji9EuoClUyb8331TfkBCA) | [あんさんぶるスターズ！！アルバムシリーズ 『TRIP』 Valkyrie](https://open.spotify.com/album/3mb1ZiGpzS3snBjMKjFNgF) | 3:42 | 2024-04-26 |  |
 | [LIMIT BREAK DREAMERS \- ESオールスターズ ver.](https://open.spotify.com/track/7o0OkqvKakuIGupBtSJ8Qj) | [ESオールスターズ](https://open.spotify.com/artist/4MCDJV5XahmKPes1Ccc7YO) | [『あんさんぶるスターズ！！』9th Anniversary Song「LIMIT BREAK DREAMERS」](https://open.spotify.com/album/4XIhikLcRaF2zQ9hTVQskU) | 4:20 | 2024-04-26 |  |
@@ -80,7 +81,7 @@
 | [メルティ♡キッチン](https://open.spotify.com/track/4nLIf5axFgplriiOpyr4oF) | [Ra\*bits/仁兎なずな\(CV.米内佑希\)、天満光\(CV.池田純矢\)、真白友也\(CV.比留間俊哉\)、紫之創\(CV.高坂知也\)](https://open.spotify.com/artist/29OA4EkjwyPfVSGVDOnICD) | [あんさんぶるスターズ！ アルバムシリーズ Ra\*bits](https://open.spotify.com/album/63cCL8njB0HFKhHw8s5WHj) | 5:21 | 2024-04-26 |  |
 | [ユニゾンが聞こえる](https://open.spotify.com/track/6NxR8TLh8p7xilpxP2eyWG) | [月永 レオ\(CV.浅沼 晋太郎\)](https://open.spotify.com/artist/46nckR9Qrx1XdIQpMttfZD) | [あんさんぶるスターズ！！アルバムシリーズ 『TRIP』 Knights](https://open.spotify.com/album/3qcoVnc807jEOc4SJJqYHP) | 3:21 | 2024-05-24 |  |
 | [両片思いの交差点で、君にまた逢いたくて](https://open.spotify.com/track/0p7fyMUz5BmL4ius62CTyT) | [Love∞Scramble／天祥院 英智\(CV.緑川 光\)、椎名 ニキ\(CV.山口 智広\)、三毛縞 斑\(CV.鳥海 浩輔\)、逆先 夏目\(CV.野島 健児\)](https://open.spotify.com/artist/7KROXIlL822ArGbdDmD4bO) | [あんさんぶるスターズ！！ Love∞Scramble「両片思いの交差点で、君にまた逢いたくて」](https://open.spotify.com/album/0TeX1ECrSNlCtEhJCvjW7p) | 4:45 | 2024-04-26 |  |
-| [今宵月の館にて](https://open.spotify.com/track/3TSqHmKB8KREL3KUIbzbVF) | [Valkyrie/斎宮 宗\(CV.高橋広樹\)、影片みか\(CV.大須賀 純\)](https://open.spotify.com/artist/0ji9EuoClUyb8331TfkBCA) | [あんさんぶるスターズ！アルバムシリーズ Valkyrie](https://open.spotify.com/album/12klK02DpZrlngD2fG9Joa) | 4:51 | 2024-04-26 |  |
+| [今宵月の館にて](https://open.spotify.com/track/3TSqHmKB8KREL3KUIbzbVF) | [Valkyrie/斎宮 宗\(CV.高橋広樹\)、影片みか\(CV.大須賀 純\)](https://open.spotify.com/artist/0ji9EuoClUyb8331TfkBCA) | [あんさんぶるスターズ！アルバムシリーズ Valkyrie](https://open.spotify.com/album/12klK02DpZrlngD2fG9Joa) | 4:51 | 2024-04-26 | 2024-05-26 |
 | [僕らのステラ](https://open.spotify.com/track/2bnwmebEaREd1EKXvcG9CF) | [流星隊／深海 奏汰\(CV.西山 宏太朗\)、南雲 鉄虎\(CV.中島 ヨシキ\)、高峯 翠\(CV.渡辺 拓海\)、仙石 忍\(CV.新田 杏樹\)、守沢 千秋\(CV.帆世 雄一\)](https://open.spotify.com/artist/7CJMlJDmJqILvjKmXvrUxe) | [あんさんぶるスターズ！！アルバムシリーズ 『TRIP』 流星隊](https://open.spotify.com/album/6e3obtGSFhup7yHHHYksid) | 3:33 | 2024-04-26 |  |
 | [夜に駆ける](https://open.spotify.com/track/5blci0P2JzxqqzdlReqHwT) | [ALKALOID & Double Face/天城 一彩\(CV.梶原 岳人\)、白鳥 藍良\(CV.天﨑 滉平\)、礼瀬 マヨイ\(CV.重松 千晴\)、風早 巽\(CV.中澤 まさとも\)、三毛縞 斑\(CV.鳥海 浩輔\)、桜河 こはく\(CV.海渡 翼\)](https://open.spotify.com/artist/5yL2QmpTzB4eQ7Yz3OHww1) | [ALKALOID & Double Face「夜に駆ける」 あんさんぶるスターズ!! COVER SONG SERIES 07](https://open.spotify.com/album/3rYOi7jld0iaQhBKB3Y796) | 4:20 | 2024-04-26 | 2024-05-25 |
 | [天下無敵☆メテオレンジャー!](https://open.spotify.com/track/1XFWiQILHnJqrMn2i6PDDD) | [流星隊/守沢千秋\(CV.帆世雄一\)、深海奏汰\(CV.西山宏太朗\)、南雲鉄虎\(CV.中島ヨシキ\)、高峯翠\(CV.渡辺拓海\)、仙石忍\(CV.新田杏樹\)](https://open.spotify.com/artist/1McImYokA5QMesgOLKNpnl) | [あんさんぶるスターズ！ アルバムシリーズ 流星隊](https://open.spotify.com/album/51xCDrABka0BpPMG1p0qNe) | 4:27 | 2024-04-26 |  |

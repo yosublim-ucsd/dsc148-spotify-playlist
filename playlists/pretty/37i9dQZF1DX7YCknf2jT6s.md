@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Julius Rodriguez
 
-[Spotify](https://open.spotify.com/user/spotify) - 926,549 likes - 100 songs - 8 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 926,777 likes - 100 songs - 8 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 7 | [Libations: Uxolo](https://open.spotify.com/track/6V8pgoXgZWDPys7JkFRz8q) | [Nduduzo Makhathini](https://open.spotify.com/artist/6EvFcDtvFuVugEtZNslkft) | [Libations: Uxolo](https://open.spotify.com/album/0qA2Jayxr2HYMJfAQGhrmg) | 4:21 |
 | 8 | [Live Your Best Dream](https://open.spotify.com/track/57Nud2GW7rZK6IGDqwOQuA) | [Redtenbacher's Funkestra](https://open.spotify.com/artist/1oYScdotTIXO74h10l8ISA), [Carter Arrington](https://open.spotify.com/artist/33QeDPfeSWWQSZmbUC15Ly) | [Live Your Best Dream](https://open.spotify.com/album/3hIu9BJQTZAtWlYNdJwXDn) | 4:40 |
 | 9 | [Ice Cream Song](https://open.spotify.com/track/70GNB9kgyDBGjTyeWZZx1w) | [Dana and Alden](https://open.spotify.com/artist/6xKRT9Uw0XOxNsmWX2vNBr), [Cinya Khan](https://open.spotify.com/artist/7nv9u1rH0xrKytpgKfDKfz) | [Ice Cream Song](https://open.spotify.com/album/053t2hqRh9XHIVG85cuTeP) | 2:39 |
-| 10 | [Wanna Know](https://open.spotify.com/track/4KI4lyBmhxYtTYeaOxVpAA) | [takoda](https://open.spotify.com/artist/73iCRSMTOEczMdEyZwWzME), [daniel hayn](https://open.spotify.com/artist/2E54rBy4UeaSYijZiWlNpO) | [Wanna Know](https://open.spotify.com/album/1JUqliwwviS7Wxi0x0KRj8) | 2:28 |
+| 10 | [Wanna Know](https://open.spotify.com/track/4KI4lyBmhxYtTYeaOxVpAA) | [takoda](https://open.spotify.com/artist/73iCRSMTOEczMdEyZwWzME), [daniel hayn](https://open.spotify.com/artist/2E54rBy4UeaSYijZiWlNpO), [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J), [CARRTOONS](https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ), [Luke Titus](https://open.spotify.com/artist/1halAwBS8LmLaAPaztqZp2) | [Wanna Know](https://open.spotify.com/album/1JUqliwwviS7Wxi0x0KRj8) | 2:28 |
 | 11 | [うる星やつらのテーマ\(ラムのラブソング\)](https://open.spotify.com/track/7FmUK7lmhHZ4QWG5rLSplO) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [SPEED MUSIC ソクドノオンガク vol\. 8](https://open.spotify.com/album/2yObyX0grPczUT4dViwQVf) | 3:01 |
 | 12 | [Chubbby \(48\)](https://open.spotify.com/track/4SsjHCvYNo1NpgG36C7Nje) | [corto.alto](https://open.spotify.com/artist/5Kd7e5lauV4CDdTHm5uiJH) | [Chubbby \(48\)](https://open.spotify.com/album/5iKxluZeWos0lpGXpZ0tFm) | 2:38 |
 | 13 | [Pra você, Ilza \- Hermeto Pascoal & Grupo](https://open.spotify.com/track/7xtdk0DZ8FYgbw0HcHVHyi) | [Hermeto Pascoal](https://open.spotify.com/artist/5COT5dVPZHSd0ZFyCQCm7s) | [Pra você, Ilza \- Hermeto Pascoal & Grupo](https://open.spotify.com/album/2zHPl6LEnnTzFMhyD0jTFm) | 3:33 |

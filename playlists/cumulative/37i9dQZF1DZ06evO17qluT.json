@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-19",
-  "description": "This is BK. The essential tracks, all in one playlist.",
+  "description": "This is BK. Todos os maiores hits em uma s\u00f3 playlist.",
   "name": "This Is BK",
   "tracks": [
     {
@@ -982,7 +982,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-26",
       "duration_ms": 208817,
       "name": "Mun R\u00e1 - Sabotage 50",
       "url": "https://open.spotify.com/track/2dmusPFbSC9BF1tRaj0uBN"
@@ -1766,6 +1766,32 @@
       "duration_ms": 180011,
       "name": "Sem os Verme Pra Secar",
       "url": "https://open.spotify.com/track/1ONugqqe4UTv82uA2dGkMA"
+    },
+    {
+      "album": {
+        "name": "SEMR\u00c9H",
+        "url": "https://open.spotify.com/album/2xTJzFHszAuE5hAq0Q1Rpw"
+      },
+      "artists": [
+        {
+          "name": "Ryu, The Runner",
+          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
+        },
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "6ee",
+          "url": "https://open.spotify.com/artist/44sYX4gwGmUZBnNT2AZTPW"
+        }
+      ],
+      "date_added": "2024-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147967,
+      "name": "SEMR\u00c9H",
+      "url": "https://open.spotify.com/track/2XdFauLk4oDWT1dKLLxFPs"
     },
     {
       "album": {

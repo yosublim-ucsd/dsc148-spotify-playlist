@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-29",
-  "description": "This is Little Simz. The essential tracks, all in one playlist.",
+  "description": "This Is Little Simz. Los temas esenciales, todos en una lista.",
   "name": "This Is Little Simz",
   "tracks": [
     {
@@ -328,6 +328,28 @@
       "duration_ms": 187373,
       "name": "Deranged",
       "url": "https://open.spotify.com/track/5YGWNm8j6U2C3xrfj9qgS0"
+    },
+    {
+      "album": {
+        "name": "Right Place, Wrong Person",
+        "url": "https://open.spotify.com/album/512dQp7hBbDDurodCqSw5I"
+      },
+      "artists": [
+        {
+          "name": "RM",
+          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
+        },
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "date_added": "2024-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184973,
+      "name": "Domodachi (feat. Little Simz)",
+      "url": "https://open.spotify.com/track/4MQBnk52HKbl59BX497xhM"
     },
     {
       "album": {

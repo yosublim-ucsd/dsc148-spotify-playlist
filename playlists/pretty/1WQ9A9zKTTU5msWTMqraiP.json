@@ -6,7 +6,7 @@
     "name": "Hafitz",
     "url": "https://open.spotify.com/user/7wxw9ydcqjc4ta495h73jpcjf"
   },
-  "snapshot_id": "AAABY+N73s18Zkalo84lorZ7dzcW3Asf",
+  "snapshot_id": "AAABZPWdQ351pgk1n6nAN9E6Gv6uCiqR",
   "tracks": [
     {
       "added_at": "2022-02-21 00:16:41",
@@ -4331,6 +4331,26 @@
       "duration_ms": 226222,
       "name": "A Forbidden Pleasure",
       "url": "https://open.spotify.com/track/7DkGXkeoAntsrrk6R1BXvs"
+    },
+    {
+      "added_at": "2024-05-25 02:18:54",
+      "album": {
+        "name": "Left to Rot",
+        "url": "https://open.spotify.com/album/6jZQmfa8l5K6ublDx0S5my"
+      },
+      "artists": [
+        {
+          "name": "Shores Of Lunacy",
+          "url": "https://open.spotify.com/artist/6xXxjJWRStk7C6hteitGN1"
+        },
+        {
+          "name": "Alan Grnja",
+          "url": "https://open.spotify.com/artist/4t1QdDQKUZ6OHw0ChpfM8L"
+        }
+      ],
+      "duration_ms": 289846,
+      "name": "Left to Rot",
+      "url": "https://open.spotify.com/track/0QlbHPe8kBBGU89Z1TnMAc"
     }
   ],
   "unique_name": "Deathcore (2)",

@@ -672,7 +672,7 @@
       ],
       "date_added": "2023-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-26",
       "duration_ms": 168000,
       "name": "Cabeza",
       "url": "https://open.spotify.com/track/6HncaaVulbe96New1KaT6C"
@@ -748,7 +748,7 @@
       ],
       "date_added": "2023-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-26",
       "duration_ms": 168000,
       "name": "CHAINSOMNIA",
       "url": "https://open.spotify.com/track/2oHeNtYUMzxvNstwht8bri"
@@ -1348,6 +1348,24 @@
       "duration_ms": 171428,
       "name": "GEL",
       "url": "https://open.spotify.com/track/58dy49Z54lreezffBIugSd"
+    },
+    {
+      "album": {
+        "name": "GHALTAN",
+        "url": "https://open.spotify.com/album/5QnlDrWrr0MWV9N2qnpyT4"
+      },
+      "artists": [
+        {
+          "name": "Clemando",
+          "url": "https://open.spotify.com/artist/2DosD7ocz68w23IdxfmtL3"
+        }
+      ],
+      "date_added": "2024-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "GHALTAN",
+      "url": "https://open.spotify.com/track/7lBNVJiEh3YTyGNsgFR5dy"
     },
     {
       "album": {
@@ -2811,6 +2829,24 @@
     },
     {
       "album": {
+        "name": "Night Vision",
+        "url": "https://open.spotify.com/album/1WYKbQRwC9S1wvmnDwBHfQ"
+      },
+      "artists": [
+        {
+          "name": "Klass-A",
+          "url": "https://open.spotify.com/artist/5pTmYowPAPHM6C133AaOfJ"
+        }
+      ],
+      "date_added": "2024-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188567,
+      "name": "Night Vision",
+      "url": "https://open.spotify.com/track/2AXdyBnVJO0dci3WsCY6Qn"
+    },
+    {
+      "album": {
         "name": "ICEBERG",
         "url": "https://open.spotify.com/album/3zKwuAbA8kBGjwgGhebvI5"
       },
@@ -3280,7 +3316,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-26",
       "duration_ms": 205000,
       "name": "RALLY DAKAR",
       "url": "https://open.spotify.com/track/6RFjHcQlq5ielUHwYec9xS"
@@ -3382,7 +3418,7 @@
       ],
       "date_added": "2024-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-26",
       "duration_ms": 176326,
       "name": "Rwicha",
       "url": "https://open.spotify.com/track/05CEmWl3xGITe99ZZkgl2c"

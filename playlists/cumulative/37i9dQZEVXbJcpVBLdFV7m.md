@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Bulgaria.
 
-392 songs - 19 hr 58 min
+393 songs - 20 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,7 @@
 | [Fall Back](https://open.spotify.com/track/1aHy1ipWQRNauI0ee9uYfi) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6) | [Fall Back / Selfish Game](https://open.spotify.com/album/2GHbc54y99znaPCsyzvLjR) | 2:09 | 2024-04-12 |  |
 | [Famax](https://open.spotify.com/track/2xpeEb2moFy7dRinc7tUnz) | [RAFFA GUIDO](https://open.spotify.com/artist/5zvKbKHQcyZFvTYADnEkTQ) | [Famax](https://open.spotify.com/album/0rVRPH9VaGAMVDVK3cLwkQ) | 5:35 | 2024-04-26 | 2024-05-01 |
 | [Famax](https://open.spotify.com/track/4yhqQAKFiHNCXpxxFVhxRq) | [RAFFA GUIDO](https://open.spotify.com/artist/5zvKbKHQcyZFvTYADnEkTQ) | [Famax](https://open.spotify.com/album/1wwVoTyNUWFP6BAOcGWbZI) | 5:35 | 2024-03-20 | 2024-04-27 |
-| [Famax \- Edit](https://open.spotify.com/track/1P9ZF3ZxRWNTDgJkZOgkI9) | [RAFFA GUIDO](https://open.spotify.com/artist/5zvKbKHQcyZFvTYADnEkTQ) | [Famax](https://open.spotify.com/album/0rVRPH9VaGAMVDVK3cLwkQ) | 3:33 | 2024-05-16 | 2024-05-25 |
+| [Famax \- Edit](https://open.spotify.com/track/1P9ZF3ZxRWNTDgJkZOgkI9) | [RAFFA GUIDO](https://open.spotify.com/artist/5zvKbKHQcyZFvTYADnEkTQ) | [Famax](https://open.spotify.com/album/0rVRPH9VaGAMVDVK3cLwkQ) | 3:33 | 2024-05-16 |  |
 | [Faster n Harder](https://open.spotify.com/track/3qaMprRWLGggArD14diXYz) | [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN) | [Faster n Harder](https://open.spotify.com/album/60Ip03ili2ml9zed9hmQ9W) | 2:03 | 2024-03-19 | 2024-04-05 |
 | [Faster n Harder](https://open.spotify.com/track/499mGaGmtP9U1MPGVeUOIV) | [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN) | [Internet Famous](https://open.spotify.com/album/2yEBsWRowuo5FRa0Q4b5D6) | 2:03 | 2024-04-04 | 2024-05-02 |
 | [favorite](https://open.spotify.com/track/3QJsSWa0Xo8MfaRn1gr4Be) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [favorite](https://open.spotify.com/album/6pngQ1BGnsddTXtAJQUkF7) | 2:13 | 2024-04-16 |  |
@@ -168,8 +168,9 @@
 | [Love Me JeJe](https://open.spotify.com/track/47hsUYxvbTlBAN3sP9dEOd) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Love Me JeJe](https://open.spotify.com/album/0DSIfkfmDDNRbB87Xk0ipd) | 2:58 | 2024-05-20 |  |
 | [Lovely Words](https://open.spotify.com/track/65nFPX7VVbqkqXVKrZ9ecg) | [Ela Rose](https://open.spotify.com/artist/2Q546MRnGvurnNBttHWoOq) | [Lovely Words](https://open.spotify.com/album/0Qyjm4qKfSh7HiUebdPDqN) | 3:49 | 2024-02-27 | 2024-03-26 |
 | [Lovin On Me](https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Lovin On Me](https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af) | 2:18 | 2024-01-29 | 2024-02-07 |
-| [Luktelk](https://open.spotify.com/track/1nuYw5614RF5tm7Byrigw5) | [Silvester Belt](https://open.spotify.com/artist/2Tna85W7SvTboWMUSFilH6) | [Luktelk](https://open.spotify.com/album/6oHC6E85z9BSrCj2XHB3mJ) | 2:41 | 2024-05-16 |  |
+| [Luktelk](https://open.spotify.com/track/1nuYw5614RF5tm7Byrigw5) | [Silvester Belt](https://open.spotify.com/artist/2Tna85W7SvTboWMUSFilH6) | [Luktelk](https://open.spotify.com/album/6oHC6E85z9BSrCj2XHB3mJ) | 2:41 | 2024-05-16 | 2024-05-26 |
 | [Luktelk](https://open.spotify.com/track/4ZBe9Plh2adT70U4PDxve1) | [Silvester Belt](https://open.spotify.com/artist/2Tna85W7SvTboWMUSFilH6) | [Luktelk](https://open.spotify.com/album/0IzVeFuUVSQsLj8boRMCO2) | 2:41 | 2024-05-13 | 2024-05-17 |
+| [Luktelk](https://open.spotify.com/track/5cVMsMEgeJXghVqWv7wrGl) | [Silvester Belt](https://open.spotify.com/artist/2Tna85W7SvTboWMUSFilH6) | [Luktelk](https://open.spotify.com/album/6KE3Dun7Ey66uVoIlujVYz) | 2:41 | 2024-05-25 |  |
 | [Made For Me](https://open.spotify.com/track/0WIv5qV41y6YjjB9V1biuC) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Made For Me](https://open.spotify.com/album/2VIJu8iWncUpGcv64UOxnv) | 3:08 | 2024-02-20 | 2024-03-19 |
 | [Magnetic](https://open.spotify.com/track/1aKvZDoLGkNMxoRYgkckZG) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [SUPER REAL ME](https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS) | 2:40 | 2024-04-09 |  |
 | [Mahal](https://open.spotify.com/track/0iiB9CYptXO5Fz728LHHsQ) | [Glass Beams](https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF) | [Mahal](https://open.spotify.com/album/65vbRZn1cqkjyjMtlsbDGT) | 3:21 | 2024-03-24 | 2024-04-04 |
@@ -374,7 +375,7 @@
 | [Звънни ми](https://open.spotify.com/track/0dwB1Vbr7CuhOiXPAuZFkZ) | [Torino](https://open.spotify.com/artist/47WAtpqR2af9uiq2HWwWNM), [Pashata](https://open.spotify.com/artist/2YAAnLogLeNYzffelkG6lF) | [Звънни ми](https://open.spotify.com/album/4hWSpaQyXrTOZFCJGhdVTs) | 3:19 | 2024-04-02 | 2024-04-17 |
 | [Здрав Бодър Дух](https://open.spotify.com/track/3iYds4ZaAY9ueYdNC0osjc) | [FYRE](https://open.spotify.com/artist/5Qp3JNCRbT2jq54o50tq4F), [Gocata Kangal](https://open.spotify.com/artist/79LfvzdMQhTIFoeMC7UBRG), [I.N.I.](https://open.spotify.com/artist/564L14VyLz0lmnlpwX2MBw) | [Откровение III: Новорождение](https://open.spotify.com/album/1jw6k4oMqDpP4JTrry8ZrX) | 4:09 | 2024-04-19 | 2024-04-24 |
 | [Казах "НE"](https://open.spotify.com/track/5iqz9iOrbCYHXi23gltzo4) | [Fiki](https://open.spotify.com/artist/7JLPN5CklYCRotAvFGw4Q1), [Azis](https://open.spotify.com/artist/1vAwQYTE1k5MBhNsvqphp1) | [Казах "НE"](https://open.spotify.com/album/3tbPdjhCtwW8zbcLUp3gOw) | 3:17 | 2024-03-05 | 2024-04-17 |
-| [Къртиш](https://open.spotify.com/track/53ScG8sq3K6H9hN2aLCuwY) | [Djordan](https://open.spotify.com/artist/4vczAVLBVJzhMndKRCsQls) | [Къртиш](https://open.spotify.com/album/0cBJUo5WptGrAar8JYzidh) | 3:27 | 2024-04-09 |  |
+| [Къртиш](https://open.spotify.com/track/53ScG8sq3K6H9hN2aLCuwY) | [Djordan](https://open.spotify.com/artist/4vczAVLBVJzhMndKRCsQls) | [Къртиш](https://open.spotify.com/album/0cBJUo5WptGrAar8JYzidh) | 3:27 | 2024-04-09 | 2024-05-26 |
 | [Лудница](https://open.spotify.com/track/7bvH7KJOT6tYkUKiNhWRrs) | [Lidia](https://open.spotify.com/artist/4FTXvsvz433gZR67rhxFfN), [Azis](https://open.spotify.com/artist/1vAwQYTE1k5MBhNsvqphp1) | [Лудница](https://open.spotify.com/album/7htjpvGQ6GqsOpY7U0AdAj) | 3:10 | 2024-04-09 | 2024-05-01 |
 | [Майната ти Св\. Валентин \(feat\. Medi\)](https://open.spotify.com/track/2dKJ9C81tTxEb9VvztEpah) | [Konstantin](https://open.spotify.com/artist/09dmaVobfJspAF2KEumlH8), [Medi](https://open.spotify.com/artist/2uFPwrcUFTK53TiLo6ysf9) | [Майната ти Св\. Валентин \(feat\. Medi\)](https://open.spotify.com/album/5xzuXJlVL7fdCQC0ZsBqZv) | 3:45 | 2024-02-15 | 2024-02-23 |
 | [Можно я с тобой \(can i come with you\)](https://open.spotify.com/track/4CvrZAA0I1rG4tlvwYydi4) | [AP$ENT](https://open.spotify.com/artist/6oiinpr7kwRmyWKVDTZgRT) | [Можно я с тобой \(can i come with you\)](https://open.spotify.com/album/7Kc9koYXi87S1nPJ9EOZmK) | 2:12 | 2024-03-21 | 2024-04-07 |

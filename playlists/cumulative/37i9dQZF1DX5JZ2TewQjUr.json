@@ -16103,6 +16103,24 @@
     },
     {
       "album": {
+        "name": "\u6536\u76ae",
+        "url": "https://open.spotify.com/album/0L2rGP8m6U8XcRZjurXA4S"
+      },
+      "artists": [
+        {
+          "name": "MelRose",
+          "url": "https://open.spotify.com/artist/5cYQq8aJgT0gzFjfBjEn0X"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185175,
+      "name": "\u6536\u76ae",
+      "url": "https://open.spotify.com/track/06fq4rnJDwcEg7PkeiG6fX"
+    },
+    {
+      "album": {
         "name": "\u6572\u9580\u78da",
         "url": "https://open.spotify.com/album/5pongT1I4ceo9R7LfnZm5e"
       },

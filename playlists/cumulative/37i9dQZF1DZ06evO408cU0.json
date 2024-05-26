@@ -815,6 +815,28 @@
     },
     {
       "album": {
+        "name": "El General",
+        "url": "https://open.spotify.com/album/5jfEZzk2tqBlPisJv6ov78"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        },
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "date_added": "2024-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155306,
+      "name": "La Gran Pachanga",
+      "url": "https://open.spotify.com/track/4cyXq6gzdDDa8nRercj5C9"
+    },
+    {
+      "album": {
         "name": "La Historia De Mis Manos",
         "url": "https://open.spotify.com/album/5xSNjB8PaOWJ4nSW3WF50z"
       },

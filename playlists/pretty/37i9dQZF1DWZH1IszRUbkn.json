@@ -1,6 +1,6 @@
 {
   "description": "Canta juntos con tus artistas favoritos.",
-  "num_followers": 472,
+  "num_followers": 481,
   "original_name": "Cantando con tus Favoritos",
   "owner": {
     "name": "Spotify",
@@ -523,22 +523,18 @@
     {
       "added_at": "2020-04-27 15:43:16",
       "album": {
-        "name": "Junior Express - Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/32PoW1uZHdQE8Gm3MGSkBG"
+        "name": "Yo Soy Franky (M\u00fasica Original de la Serie)",
+        "url": "https://open.spotify.com/album/4b1h8Ne7RKTyIpQ9WfWm8F"
       },
       "artists": [
         {
-          "name": "Elenco Junior Express",
-          "url": "https://open.spotify.com/artist/1qpObFWDQW9EPFSzAzi71h"
-        },
-        {
-          "name": "Diego Topa",
-          "url": "https://open.spotify.com/artist/3y6NjjMEV0m5fSaz6AXTsa"
+          "name": "Maria Gabriela de Faria",
+          "url": "https://open.spotify.com/artist/7LpAjUpIbi5plngbkXLiKv"
         }
       ],
-      "duration_ms": 124853,
-      "name": "Un Nuevo Viaje",
-      "url": "https://open.spotify.com/track/0amtQOumjJeGVMVbnq6EMl"
+      "duration_ms": 193109,
+      "name": "Ritmo Rob\u00f3tico",
+      "url": "https://open.spotify.com/track/4zywwK3a4ATbKfHQX1dMdV"
     },
     {
       "added_at": "2020-04-27 15:43:16",
@@ -559,18 +555,22 @@
     {
       "added_at": "2020-04-27 15:43:16",
       "album": {
-        "name": "Yo Soy Franky (M\u00fasica Original de la Serie)",
-        "url": "https://open.spotify.com/album/4b1h8Ne7RKTyIpQ9WfWm8F"
+        "name": "Junior Express - Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/32PoW1uZHdQE8Gm3MGSkBG"
       },
       "artists": [
         {
-          "name": "Maria Gabriela de Faria",
-          "url": "https://open.spotify.com/artist/7LpAjUpIbi5plngbkXLiKv"
+          "name": "Elenco Junior Express",
+          "url": "https://open.spotify.com/artist/1qpObFWDQW9EPFSzAzi71h"
+        },
+        {
+          "name": "Diego Topa",
+          "url": "https://open.spotify.com/artist/3y6NjjMEV0m5fSaz6AXTsa"
         }
       ],
-      "duration_ms": 193109,
-      "name": "Ritmo Rob\u00f3tico",
-      "url": "https://open.spotify.com/track/4zywwK3a4ATbKfHQX1dMdV"
+      "duration_ms": 124853,
+      "name": "Un Nuevo Viaje",
+      "url": "https://open.spotify.com/track/0amtQOumjJeGVMVbnq6EMl"
     },
     {
       "added_at": "2020-04-27 15:43:16",

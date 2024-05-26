@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Nuevos temas de géneros tropicales\. Foto: Camilo
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,095 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,111 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,9 +13,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 3 | [Canto De Un Ángel](https://open.spotify.com/track/6ArNLEMZUN1mVmWr3jsoXT) | [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064) | [Canto De Un Ángel](https://open.spotify.com/album/5N9sWdRqI0IMXKHt5KfaB0) | 3:43 |
 | 4 | [A LA ORDEN](https://open.spotify.com/track/0rodUDZZo1w7pZHHoTtUb7) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Yahir Saldivar](https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ) | [A LA ORDEN](https://open.spotify.com/album/0qmW400K0VgJ28CuBx8InD) | 2:55 |
 | 5 | [No Puedo Decirte Adiós](https://open.spotify.com/track/1iwgBQPjwTVqvmg54bMfel) | [Gaitanes](https://open.spotify.com/artist/6KinpmF6ieaCpwaKICc6y2), [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [No Puedo Decirte Adiós](https://open.spotify.com/album/3yLb9atkmeGGySQgViHcrN) | 4:41 |
-| 6 | [Quimbara \- En Vivo](https://open.spotify.com/track/7uLcRFJ4Fa2yIKoR1fTXI0) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [Waldy D.](https://open.spotify.com/artist/7Ck0BuLiAyjDvx2K8gBhwZ) | [En Vivo \- 100 Años de Azúcar](https://open.spotify.com/album/1aHtTwNnaN5R1FtvKOFZmc) | 5:44 |
+| 6 | [Quimbara \- En Vivo](https://open.spotify.com/track/7uLcRFJ4Fa2yIKoR1fTXI0) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [En Vivo \- 100 Años de Azúcar](https://open.spotify.com/album/1aHtTwNnaN5R1FtvKOFZmc) | 5:44 |
 | 7 | [Asi Como Yo](https://open.spotify.com/track/0SN3SCpfQunk0q8CS6G9s5) | [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6), [Nacho](https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu) | [Asi Como Yo](https://open.spotify.com/album/27lUcmRxucPXTORpcJGNvq) | 2:56 |
-| 8 | [TU ERES AJENA \- Live](https://open.spotify.com/track/4YUNVuP5i4sIEeN4y5GpFH) | [Eddy Herrera](https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC) | [Agradecido \(Live\)](https://open.spotify.com/album/1IPxFvJeImm34of8dzMal1) | 4:47 |
+| 8 | [TU ERES AJENA \- En Vivo](https://open.spotify.com/track/4YUNVuP5i4sIEeN4y5GpFH) | [Eddy Herrera](https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC) | [Agradecido \(Live\)](https://open.spotify.com/album/1IPxFvJeImm34of8dzMal1) | 4:47 |
 | 9 | [La Última Canción](https://open.spotify.com/track/6JxrD0jXVCEIIGG3X4kSrB) | [Daniela Darcourt](https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR), [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6) | [Renacer](https://open.spotify.com/album/1rb41rTA9dUOW46y06c8zO) | 3:09 |
 | 10 | [Mi Único Amor](https://open.spotify.com/track/4FlHg1wjhmuxLE9I0ws91m) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg) | [Gran Rex In Concert](https://open.spotify.com/album/6hxC1PgDittDPDzfAwj0gW) | 2:40 |
 | 11 | [Quería Decirte](https://open.spotify.com/track/0cQFZVohSPCRoXagq2Iedf) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Internacionales](https://open.spotify.com/album/59jJ4BeTAMTp8GPNu5k0Yk) | 3:36 |

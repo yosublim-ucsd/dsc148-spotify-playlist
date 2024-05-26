@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/5nz3AAoDyHSidelqd2fnci.md) - [plain]
 
 > 
 
-[Felipe Arriagada PIPEMANUEL](https://open.spotify.com/user/12145835791) - 0 like - 12 songs - 46 min 40 sec
+[Felipe Arriagada PIPEMANUEL](https://open.spotify.com/user/12145835791) - 0 like - 12 songs - 41 min 15 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Dear God](https://open.spotify.com/track/2FML7gk7ac6quGFIjvkDb3) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Avenged Sevenfold](https://open.spotify.com/album/3Id3VUk9jSKBD1guNo1buF) | 6:33 |
-| 2 | [Jimmy Neutron \- Theme](https://open.spotify.com/track/450y5TyBlnE5EWF9OBX72O) | [Coded Channel](https://open.spotify.com/artist/5KTdvobMRET4Z8uRxvMUCW) | [Remember the Themes \- Manga Anime, and Other Cartoon Themes](https://open.spotify.com/album/33wo1N71Za7lJwkEUlLib4) | 0:35 |
-| 3 | [Sanctuary \- 1998 Remastered Version](https://open.spotify.com/track/5cJUFUWnVYkqwpCLxfOrzp) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Iron Maiden \(1998 Remastered Edition\)](https://open.spotify.com/album/5J5fnu7PEwhgzdkiBBtblw) | 3:16 |
-| 4 | [Rap Vs\. Racismo \- Con Lírico, Santo, El Langui, Kase.O, Nach, Locus, Ose, Nervizzo, Sho Hai, Zatu, Gitano Anton, Titó y Xhelazz.](https://open.spotify.com/track/3FZDo3ehmRfeKpkwhsjn7A) | [El Chojin](https://open.spotify.com/artist/3m1an5fzquhCtk4UnhmLmc) | [El Ataque De Los Que Observaban](https://open.spotify.com/album/4o6mYEnQEUVwTW6ijgdwBY) | 5:54 |
-| 5 | [Running Free \- 2015 Remaster](https://open.spotify.com/track/5JX4CIPK47CU1iVeAWJtH5) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Iron Maiden \(2015 Remaster\)](https://open.spotify.com/album/3DNeMApEMCo4IDXNMYnlFi) | 3:17 |
-| 6 | [Speechless](https://open.spotify.com/track/5S4llrdOSlVYLlFZflVQE8) | [Demae](https://open.spotify.com/artist/1HkWfjmOohAg7lS9bv1QcL) | [Speechless](https://open.spotify.com/album/4ABBtWGwPKGMpph6AAK0hQ) | 3:40 |
-| 7 | [Absolute Zero](https://open.spotify.com/track/14EORgkbXqIx5K4Haucmnb) | [Stone Sour](https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF) | [House of Gold & Bones, Part 1](https://open.spotify.com/album/2nCHgPLLyIgxFKUBYuMKPn) | 3:49 |
-| 8 | [Bridges](https://open.spotify.com/track/06hwOuz3WiHkqfy0iNs3Tt) | [Courage My Love](https://open.spotify.com/artist/3pnnJVeIXqNJdUVUoLVPtl) | [For Now](https://open.spotify.com/album/79Daasf9K9t4SnLDxSmFsx) | 4:06 |
-| 9 | [Love Over Glory](https://open.spotify.com/track/0FQroAJHjN85mvXb9Wu56D) | [Zinadelphia](https://open.spotify.com/artist/2bTnGGWvuVQsMVyg31rmum) | [Love Over Glory](https://open.spotify.com/album/10q9pHSwBj611CT8gcN3pp) | 4:39 |
-| 10 | [Abigail](https://open.spotify.com/track/5xenULMipKwyxl99DSdnIq) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl) | [Creatures](https://open.spotify.com/album/6tWsRZMq3LPk5L58Ccdnw9) | 2:52 |
-| 11 | [Lemuria](https://open.spotify.com/track/0lWYqPPmSQ0LIY4nN29QAl) | [Therion](https://open.spotify.com/artist/5c8Cw62ZYj9XO6iDLRDEsi) | [Lemuria](https://open.spotify.com/album/5FHpu3tCWXr4PSf5Xtrey3) | 4:15 |
-| 12 | [Cartoon Heroes \- Radio Edit](https://open.spotify.com/track/7vJgjjXD9spt5fgaSPox9z) | [Aqua](https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz) | [Aquarius \(Special Edition\)](https://open.spotify.com/album/0VN03Z2zA08bsq8eiDQZxu) | 3:39 |
+| 1 | [The Conjuring \- Randy Burns Mix](https://open.spotify.com/track/4xa7uy2h4QX6IIUxMCi0Bi) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Peace Sells...But Who's Buying? \(Expanded Edition \- Remastered\)](https://open.spotify.com/album/4U8ZF5zDIRy4lBnnXBN2uO) | 5:01 |
+| 2 | [Blitzkrieg Bop \- 2016 Remaster](https://open.spotify.com/track/4KcH1ZRV2W1q7Flq0QqC76) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Ramones \(40th Anniversary Deluxe Edition; 2016 Remaster\)](https://open.spotify.com/album/5uYDAwW0SZgcfOFkxrST64) | 2:14 |
+| 3 | [Maybe Memories](https://open.spotify.com/track/4I4uCtlWg6I7OyuGZE4wqn) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [The Used](https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv) | 2:55 |
+| 4 | [Awake and Alive](https://open.spotify.com/track/0nkzd3yNniB767zSDDdLZ3) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Awake](https://open.spotify.com/album/0RySAmM6oDPGSE03X3dzi1) | 3:29 |
+| 5 | [Rumors Of My Demise Have Been Greatly Exaggerated](https://open.spotify.com/track/2WhjlsUHb0o5JLRqKjeRJo) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Siren Song Of The Counter\-Culture \(Japan Version / International Version\)](https://open.spotify.com/album/1KZGuujnfwHjZ48hxCbhHk) | 4:14 |
+| 6 | [Suedehead \- 2011 Remaster](https://open.spotify.com/track/0kA5scXMiaO5Ms2GQ4pRWa) | [Morrissey](https://open.spotify.com/artist/3iTsJGG39nMg9YiolUgLMQ) | [Viva Hate \(2011 Remaster\)](https://open.spotify.com/album/6t4LdKTNWIOr2PZIB8tiZF) | 3:55 |
+| 7 | [Manners](https://open.spotify.com/track/0XEs95DOIKiHLfUG1Po2c9) | [We Are The In Crowd](https://open.spotify.com/artist/1BSXtdFlVDUOS6g1T3tmME) | [Weird Kids](https://open.spotify.com/album/4JSUu9uqvCUXN1q8V7XCsi) | 3:05 |
+| 8 | [Cuando Pasan las Madrugadas](https://open.spotify.com/track/2Hxk9BDH2mhZZ0SprtMM4J) | [Eterna Inocencia](https://open.spotify.com/artist/5O8lCdBWT1JlDufwVywp01) | [A los Que Se Han Apagado](https://open.spotify.com/album/0KNJIQt3yj5Ol8M11Ny4l2) | 2:04 |
+| 9 | [Bicycle Song \- 2006 Remaster](https://open.spotify.com/track/02lWbJ8NQ7IZGuNGfG34tE) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [By the Way \(Deluxe Edition\)](https://open.spotify.com/album/6deiaArbeoqp1xPEGdEKp1) | 3:23 |
+| 10 | [Evolution](https://open.spotify.com/track/7fVRIzUBBHmHEa6dj9BmCi) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Imaginary Enemy](https://open.spotify.com/album/4IvMdTOYrnKv0a5edr6vVu) | 4:38 |
+| 11 | [Never Enough](https://open.spotify.com/track/22r7GEr3quvsOap3Td9RrU) | [Sage X Price](https://open.spotify.com/artist/7HFWAHYOe2o2diWwiWX5Db) | [Never Enough](https://open.spotify.com/album/2XMvYdbzvxdwWoloonr6DC) | 3:13 |
+| 12 | [I HATE IT TOO](https://open.spotify.com/track/6CCWKFDhQamC5rGxM97Erj) | [Mitchy](https://open.spotify.com/artist/4oAU4UeGuRJtYwpYSLEva5) | [I HATE IT TOO](https://open.spotify.com/album/4dAeoPXvxRL7vuoveshiPP) | 3:00 |
 
-Snapshot ID: `AAAAfQRk3I0KSv0iKtouzVNgRe8nqQGZ`
+Snapshot ID: `AAAAfrvRt0wiufxZW5hUKIHfjGKn2KYC`

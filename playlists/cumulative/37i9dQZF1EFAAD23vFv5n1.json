@@ -1119,6 +1119,24 @@
     },
     {
       "album": {
+        "name": "Nessun dramma",
+        "url": "https://open.spotify.com/album/2nLthNcyxaakh1MUSR5Tze"
+      },
+      "artists": [
+        {
+          "name": "svegliaginevra",
+          "url": "https://open.spotify.com/artist/0mNU2jWtQEYmhBjWtWTBBS"
+        }
+      ],
+      "date_added": "2024-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184968,
+      "name": "Non mi piace",
+      "url": "https://open.spotify.com/track/0DLwxlZjOmt6Z92Ak7L3qc"
+    },
+    {
+      "album": {
         "name": "ROCKABILLY CARTER",
         "url": "https://open.spotify.com/album/4JhRql5w7yWaRipBuUM7ar"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Os Barões da Pisadinha, Matheus & Kauan, Ryu, The Runner e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,909,838 likes - 71 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,910,298 likes - 71 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 30 | [Reciprocidade \- Ao Vivo](https://open.spotify.com/track/1cDPoDJxcA68ORyUGljo6c) | [Renato Milagres](https://open.spotify.com/artist/09gzIUc1qNozcUnEoNauC6), [Bom Gosto](https://open.spotify.com/artist/4SaxUo7mfdHBowU0llwxFd) | [Reciprocidade \(Ao Vivo\)](https://open.spotify.com/album/6DJZBhj1wSPjnno5SIFatj) | 3:48 |
 | 31 | [10 Minutos](https://open.spotify.com/track/5ZOFzl0uUgnRJ9sfP36MRK) | [Lucas Morato](https://open.spotify.com/artist/4ab6n3r4PdQroLqLsnV2JZ), [Marvvila](https://open.spotify.com/artist/0pC5o5Jo4P8uNn2SSNmpXz) | [10 Minutos](https://open.spotify.com/album/3VNxMxHkVmFeLpyLuXtc0K) | 3:00 |
 | 32 | [Namorizade](https://open.spotify.com/track/7pmm8dYta2v74lXw5MF8uH) | [Vou Zuar](https://open.spotify.com/artist/5x2zeeLVXEDaMHRaRmH3FD) | [Namorizade](https://open.spotify.com/album/3Kkosb0senFwm7bZsgTq0J) | 2:22 |
-| 33 | [As Coroas](https://open.spotify.com/track/1RGTjKbhdWPqnyGFLTKx21) | [Vitinho Imperador](https://open.spotify.com/artist/6xrc4RXcso9uKlYWlIANPU), [Josué Bom de Faixa](https://open.spotify.com/artist/6yEKZXXjkBPBcAQAFdvSlz), [Manoel Gomes](https://open.spotify.com/artist/2TjH3yhwPkVDvc6U5GWwQ8) | [As Coroas](https://open.spotify.com/album/4Ukum9UusY22f6JtWXc59Q) | 3:15 |
+| 33 | [Amor de Coroa](https://open.spotify.com/track/1RGTjKbhdWPqnyGFLTKx21) | [Vitinho Imperador](https://open.spotify.com/artist/6xrc4RXcso9uKlYWlIANPU), [Josué Bom de Faixa](https://open.spotify.com/artist/6yEKZXXjkBPBcAQAFdvSlz), [Manoel Gomes](https://open.spotify.com/artist/2TjH3yhwPkVDvc6U5GWwQ8) | [Amor de Coroa](https://open.spotify.com/album/4Ukum9UusY22f6JtWXc59Q) | 3:15 |
 | 34 | [Danada Danadinha](https://open.spotify.com/track/755zsFfcpdM9ooVytU1fzJ) | [GREGO](https://open.spotify.com/artist/4v4g6B3AmczdtPlNE4t39X), [ÉaBest](https://open.spotify.com/artist/7skt0YXuBGQZr4LGkyTShp) | [Danada Danadinha](https://open.spotify.com/album/0nfL8Bw59xIMHscmxbQYh0) | 2:42 |
 | 35 | [Duas Ferrari](https://open.spotify.com/track/1K6viLEqnXeOeRTYx6Olj5) | [Paulo Pires](https://open.spotify.com/artist/3whgFbrRxsOmYVrq3t4hCY), [Giovana Martynns](https://open.spotify.com/artist/5nCJkstnOqwjXZnbkaQswd), [Gabi Saiury](https://open.spotify.com/artist/4AQJYFrojOyAjk0VGvsd5v) | [Duas Ferrari](https://open.spotify.com/album/1ZV0iwrvRxww7zKIjpSV31) | 2:34 |
 | 36 | [Lágrima Deu Ré \- Ao Vivo](https://open.spotify.com/track/3w8SMbY3w6zsDMUJCqdEWN) | [Kevi Jonny](https://open.spotify.com/artist/3PVg0vaMUNTOu7C2GmYfSg) | [Kevi Jonny, Esse Sou Eu, Pt.2 \(Ao Vivo\)](https://open.spotify.com/album/2zgn7fcpdMlFsvsOifrTR8) | 2:58 |

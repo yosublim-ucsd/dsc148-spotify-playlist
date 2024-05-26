@@ -1,6 +1,6 @@
 {
   "description": "A happy place \ud83e\udea9\ud83e\udea9",
-  "num_followers": 321354,
+  "num_followers": 321397,
   "original_name": "DISCOLAND",
   "owner": {
     "name": "Spotify",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "That! Feels Good!",
-        "url": "https://open.spotify.com/album/17g3sAeWfpHSJlqMHuRAr6"
-      },
-      "artists": [
-        {
-          "name": "Jessie Ware",
-          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
-        }
-      ],
-      "duration_ms": 243106,
-      "name": "Pearls",
-      "url": "https://open.spotify.com/track/5EAbUR2kkfDOCWEcWcb7YG"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Tutto va bene quando facciamo l'amore (Remixes)",
         "url": "https://open.spotify.com/album/4jnSxvi6GEjXFPGXUly9vj"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 205592,
       "name": "Tutto va bene quando facciamo l'amore",
       "url": "https://open.spotify.com/track/2XtLmRzZSkNOXGRPgae8MA"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "That! Feels Good!",
+        "url": "https://open.spotify.com/album/17g3sAeWfpHSJlqMHuRAr6"
+      },
+      "artists": [
+        {
+          "name": "Jessie Ware",
+          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+        }
+      ],
+      "duration_ms": 243106,
+      "name": "Pearls",
+      "url": "https://open.spotify.com/track/5EAbUR2kkfDOCWEcWcb7YG"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1415,30 +1415,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Electric Energy",
-        "url": "https://open.spotify.com/album/7df0NN9M8PfLEMYarZg8j9"
-      },
-      "artists": [
-        {
-          "name": "Ariana DeBose",
-          "url": "https://open.spotify.com/artist/1Np9GsrPO7dlczjvdehBxs"
-        },
-        {
-          "name": "Boy George",
-          "url": "https://open.spotify.com/artist/2BWfZGPtsjRlRp7JTDqI45"
-        },
-        {
-          "name": "Nile Rodgers",
-          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
-        }
-      ],
-      "duration_ms": 196088,
-      "name": "Electric Energy",
-      "url": "https://open.spotify.com/track/50S5bDjtiggv3qjGRhjOjF"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "YoYo Disco (Purple Disco Machine Remix)",
         "url": "https://open.spotify.com/album/0tDc609bhacST4RuXKBzxV"
       },
@@ -1459,6 +1435,30 @@
       "duration_ms": 197437,
       "name": "YoYo Disco - Purple Disco Machine Remix",
       "url": "https://open.spotify.com/track/6Vu17xDve7915qFNPk2Wgm"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Electric Energy",
+        "url": "https://open.spotify.com/album/7df0NN9M8PfLEMYarZg8j9"
+      },
+      "artists": [
+        {
+          "name": "Ariana DeBose",
+          "url": "https://open.spotify.com/artist/1Np9GsrPO7dlczjvdehBxs"
+        },
+        {
+          "name": "Boy George",
+          "url": "https://open.spotify.com/artist/2BWfZGPtsjRlRp7JTDqI45"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+        }
+      ],
+      "duration_ms": 196088,
+      "name": "Electric Energy",
+      "url": "https://open.spotify.com/track/50S5bDjtiggv3qjGRhjOjF"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1811,22 +1811,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Giodisco",
-        "url": "https://open.spotify.com/album/4rYiVESqq3TGA1uJ7nMWeD"
-      },
-      "artists": [
-        {
-          "name": "LP Giobbi",
-          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
-        }
-      ],
-      "duration_ms": 163250,
-      "name": "Giodisco",
-      "url": "https://open.spotify.com/track/04ljyATONPMyz6cNNGLdAM"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Please",
         "url": "https://open.spotify.com/album/0ugWOJ1e8Q2Qp7rukfH4YR"
       },
@@ -1839,6 +1823,22 @@
       "duration_ms": 219933,
       "name": "Please - Single Edit",
       "url": "https://open.spotify.com/track/7mJGrZIFA5MO6W2QBcWBDX"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Giodisco",
+        "url": "https://open.spotify.com/album/4rYiVESqq3TGA1uJ7nMWeD"
+      },
+      "artists": [
+        {
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        }
+      ],
+      "duration_ms": 163250,
+      "name": "Giodisco",
+      "url": "https://open.spotify.com/track/04ljyATONPMyz6cNNGLdAM"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1903,6 +1903,22 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
+        "name": "Waiting 4 You",
+        "url": "https://open.spotify.com/album/6azOujmzDmxwelXemqImSU"
+      },
+      "artists": [
+        {
+          "name": "Ekkah",
+          "url": "https://open.spotify.com/artist/31UKSWpSUyiReoTEb39vHb"
+        }
+      ],
+      "duration_ms": 220299,
+      "name": "Waiting 4 You",
+      "url": "https://open.spotify.com/track/6APQPY2tZzOV9T4iNSXdYe"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
         "name": "I'm In Love With You",
         "url": "https://open.spotify.com/album/5A0bq3cr9A306ABKJd3RGG"
       },
@@ -1923,22 +1939,6 @@
       "duration_ms": 217000,
       "name": "I'm In Love With You",
       "url": "https://open.spotify.com/track/3jtiNEzJr6NrM6dau9YPov"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Waiting 4 You",
-        "url": "https://open.spotify.com/album/6azOujmzDmxwelXemqImSU"
-      },
-      "artists": [
-        {
-          "name": "Ekkah",
-          "url": "https://open.spotify.com/artist/31UKSWpSUyiReoTEb39vHb"
-        }
-      ],
-      "duration_ms": 220299,
-      "name": "Waiting 4 You",
-      "url": "https://open.spotify.com/track/6APQPY2tZzOV9T4iNSXdYe"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1967,22 +1967,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "The Chant",
-        "url": "https://open.spotify.com/album/1GpeWllT96Qv0UHDSz8tRb"
-      },
-      "artists": [
-        {
-          "name": "Todd Edwards",
-          "url": "https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg"
-        }
-      ],
-      "duration_ms": 186774,
-      "name": "The Chant",
-      "url": "https://open.spotify.com/track/7FuOr01j61l7nBgENXfOIX"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "I Discover",
         "url": "https://open.spotify.com/album/5IxqMn18v2DltVwchiRPpO"
       },
@@ -2003,22 +1987,18 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Pleasure Love",
-        "url": "https://open.spotify.com/album/1Km9xN9NEfN3tVTnC2n63S"
+        "name": "The Chant",
+        "url": "https://open.spotify.com/album/1GpeWllT96Qv0UHDSz8tRb"
       },
       "artists": [
         {
-          "name": "Supafly",
-          "url": "https://open.spotify.com/artist/2uBSo6TqjuddKVUp5MVqfV"
-        },
-        {
-          "name": "De Funk",
-          "url": "https://open.spotify.com/artist/1e2MsinOAaS2JUYEEHSaU5"
+          "name": "Todd Edwards",
+          "url": "https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg"
         }
       ],
-      "duration_ms": 164912,
-      "name": "Pleasure Love",
-      "url": "https://open.spotify.com/track/22itU9LO5xcgMIQ2wDYg3b"
+      "duration_ms": 186774,
+      "name": "The Chant",
+      "url": "https://open.spotify.com/track/7FuOr01j61l7nBgENXfOIX"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -2035,6 +2015,26 @@
       "duration_ms": 171744,
       "name": "Love You Till Tomorrow",
       "url": "https://open.spotify.com/track/6IKujTZgwUur3VTNJOM38T"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Pleasure Love",
+        "url": "https://open.spotify.com/album/1Km9xN9NEfN3tVTnC2n63S"
+      },
+      "artists": [
+        {
+          "name": "Supafly",
+          "url": "https://open.spotify.com/artist/2uBSo6TqjuddKVUp5MVqfV"
+        },
+        {
+          "name": "De Funk",
+          "url": "https://open.spotify.com/artist/1e2MsinOAaS2JUYEEHSaU5"
+        }
+      ],
+      "duration_ms": 164912,
+      "name": "Pleasure Love",
+      "url": "https://open.spotify.com/track/22itU9LO5xcgMIQ2wDYg3b"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -2195,26 +2195,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Det l\u00e4cker (Sebastian Furrer Edit)",
-        "url": "https://open.spotify.com/album/0K58w3lG2p00OCvTDLp3KA"
-      },
-      "artists": [
-        {
-          "name": "Dina \u00d6gon",
-          "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI"
-        },
-        {
-          "name": "Sebastian Furrer",
-          "url": "https://open.spotify.com/artist/0F0otkpvDmCa1E0ePmHmi9"
-        }
-      ],
-      "duration_ms": 221397,
-      "name": "Det l\u00e4cker - Sebastian Furrer Edit",
-      "url": "https://open.spotify.com/track/1ixA4PqNk3745oLPMiqmVW"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Hello Echo",
         "url": "https://open.spotify.com/album/0WHck9IyWpYptoKg5TAOIR"
       },
@@ -2247,6 +2227,26 @@
       "duration_ms": 190928,
       "name": "Satisfy Your Soul - Radio Edit",
       "url": "https://open.spotify.com/track/30FNBuPkq0FeWjVrZPEdfD"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Det l\u00e4cker (Sebastian Furrer Edit)",
+        "url": "https://open.spotify.com/album/0K58w3lG2p00OCvTDLp3KA"
+      },
+      "artists": [
+        {
+          "name": "Dina \u00d6gon",
+          "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI"
+        },
+        {
+          "name": "Sebastian Furrer",
+          "url": "https://open.spotify.com/artist/0F0otkpvDmCa1E0ePmHmi9"
+        }
+      ],
+      "duration_ms": 221397,
+      "name": "Det l\u00e4cker - Sebastian Furrer Edit",
+      "url": "https://open.spotify.com/track/1ixA4PqNk3745oLPMiqmVW"
     },
     {
       "added_at": "2024-04-19 04:00:00",

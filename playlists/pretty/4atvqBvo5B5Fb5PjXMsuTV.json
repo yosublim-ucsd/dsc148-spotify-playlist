@@ -1,13 +1,133 @@
 {
   "description": "Updated daily, with the latest popular singles!",
   "num_followers": 76,
-  "original_name": "NEW SINGLES RELEASES | UPDATED 25 MAY",
+  "original_name": "NEW SINGLES RELEASES | UPDATED 26 MAY",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAAIga2wNc/9wjBH5vO5BmN/lbasGt6b",
+  "snapshot_id": "AAAIhtLy4W9z7GSWThK8Z5xq/mGQFIiW",
   "tracks": [
+    {
+      "added_at": "2024-05-25 22:02:18",
+      "album": {
+        "name": "Mach die Augen auf",
+        "url": "https://open.spotify.com/album/6LUAQItFCJarUpFHnzMjtH"
+      },
+      "artists": [
+        {
+          "name": "CIVO",
+          "url": "https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8"
+        }
+      ],
+      "duration_ms": 111206,
+      "name": "Mach die Augen auf",
+      "url": "https://open.spotify.com/track/74EasdbNav1osDCwRCFwrS"
+    },
+    {
+      "added_at": "2024-05-25 22:02:18",
+      "album": {
+        "name": "TED TALK",
+        "url": "https://open.spotify.com/album/5rE2Bsd0oB0nb6iYtajzIO"
+      },
+      "artists": [
+        {
+          "name": "demahjiae",
+          "url": "https://open.spotify.com/artist/0BajT9ZXitGajSuc16Rass"
+        },
+        {
+          "name": "Ovrkast.",
+          "url": "https://open.spotify.com/artist/4YISTUJnoZtAy6LjgOpRL7"
+        }
+      ],
+      "duration_ms": 103225,
+      "name": "TED TALK",
+      "url": "https://open.spotify.com/track/5vwWnJKW3aw1UrD1u7fvOG"
+    },
+    {
+      "added_at": "2024-05-25 10:02:10",
+      "album": {
+        "name": "Silver Tongue",
+        "url": "https://open.spotify.com/album/6kzadEspZVh3DAFv5BnulS"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "duration_ms": 262741,
+      "name": "Silver Tongue",
+      "url": "https://open.spotify.com/track/0Qxsuh1NoCMWDYVfC49XRE"
+    },
+    {
+      "added_at": "2024-05-25 10:02:10",
+      "album": {
+        "name": "By The Evening",
+        "url": "https://open.spotify.com/album/3rRTLxAgSPxOD5i4p1a8ab"
+      },
+      "artists": [
+        {
+          "name": "Fredo Bang",
+          "url": "https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv"
+        }
+      ],
+      "duration_ms": 174798,
+      "name": "By The Evening",
+      "url": "https://open.spotify.com/track/7x2VKKaiXYbFztJhq0p3nN"
+    },
+    {
+      "added_at": "2024-05-25 10:02:10",
+      "album": {
+        "name": "Hurt You",
+        "url": "https://open.spotify.com/album/4fdr5cs7ZfMguZOEKYbXPQ"
+      },
+      "artists": [
+        {
+          "name": "\u4e8c\u53e3\u9b54\u83dc Futakuchi Mana",
+          "url": "https://open.spotify.com/artist/6nhHInOnQSWKRxntTHBH29"
+        }
+      ],
+      "duration_ms": 230753,
+      "name": "Hurt You",
+      "url": "https://open.spotify.com/track/12pGqwL9vpWEjGHLL2KaKu"
+    },
+    {
+      "added_at": "2024-05-25 10:02:10",
+      "album": {
+        "name": "LET U LEAD (with Billy Lemos)",
+        "url": "https://open.spotify.com/album/3qm24mQwYYo7GFGZanPgwc"
+      },
+      "artists": [
+        {
+          "name": "Noah Guy",
+          "url": "https://open.spotify.com/artist/0Cj5PLNNGVOsXUig1ic4s5"
+        },
+        {
+          "name": "Billy Lemos",
+          "url": "https://open.spotify.com/artist/7ebBg3BuRFa2satTcY8whC"
+        }
+      ],
+      "duration_ms": 150857,
+      "name": "LET U LEAD (with Billy Lemos)",
+      "url": "https://open.spotify.com/track/5rp6f6CiXVjpZ09u0BHeeN"
+    },
+    {
+      "added_at": "2024-05-25 10:02:10",
+      "album": {
+        "name": "Something I'm Not",
+        "url": "https://open.spotify.com/album/6TprautIu2RUz8oYQSv8BB"
+      },
+      "artists": [
+        {
+          "name": "Graphic Nature",
+          "url": "https://open.spotify.com/artist/0QUcDHMfwBsMAufKXbzhkH"
+        }
+      ],
+      "duration_ms": 205837,
+      "name": "Something I'm Not",
+      "url": "https://open.spotify.com/track/266NgH6rHSWkgdTSHyVfnB"
+    },
     {
       "added_at": "2024-05-24 22:02:44",
       "album": {
@@ -331,120 +451,8 @@
       "duration_ms": 173067,
       "name": "Gimme A Second",
       "url": "https://open.spotify.com/track/0YrDC2Tt5VAZHw9VUkYL4X"
-    },
-    {
-      "added_at": "2024-05-24 10:03:42",
-      "album": {
-        "name": "Q-Dogz",
-        "url": "https://open.spotify.com/album/1WB3YCR6E6PdNZCduTXEJw"
-      },
-      "artists": [
-        {
-          "name": "Key Glock",
-          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
-        }
-      ],
-      "duration_ms": 124613,
-      "name": "Q-Dogz",
-      "url": "https://open.spotify.com/track/6EK17FKKOldTKXCS11Jqh4"
-    },
-    {
-      "added_at": "2024-05-24 10:03:42",
-      "album": {
-        "name": "My Friends",
-        "url": "https://open.spotify.com/album/1WZz5S3T6Lor3JK1Pwtv87"
-      },
-      "artists": [
-        {
-          "name": "Black Veil Brides",
-          "url": "https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs"
-        }
-      ],
-      "duration_ms": 218092,
-      "name": "My Friends",
-      "url": "https://open.spotify.com/track/08MOQSF73Qh9dXprm6Il0o"
-    },
-    {
-      "added_at": "2024-05-24 10:03:42",
-      "album": {
-        "name": "BlackSabbath",
-        "url": "https://open.spotify.com/album/24ITli2wJIsvRCR0JhfSaE"
-      },
-      "artists": [
-        {
-          "name": "BONES",
-          "url": "https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN"
-        }
-      ],
-      "duration_ms": 109104,
-      "name": "BlackSabbath",
-      "url": "https://open.spotify.com/track/2XZ9PsN24za6WhNbeCieG6"
-    },
-    {
-      "added_at": "2024-05-24 10:03:42",
-      "album": {
-        "name": "it boy",
-        "url": "https://open.spotify.com/album/6tl4X5mM1eOnkWr7oB5LAM"
-      },
-      "artists": [
-        {
-          "name": "bbno$",
-          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
-        }
-      ],
-      "duration_ms": 145846,
-      "name": "it boy",
-      "url": "https://open.spotify.com/track/2UerDbZznc07mmGMD3WfHH"
-    },
-    {
-      "added_at": "2024-05-24 10:03:42",
-      "album": {
-        "name": "hate the world without u (maddy's song)",
-        "url": "https://open.spotify.com/album/2GQprhFQkgoUX2GtprCcwS"
-      },
-      "artists": [
-        {
-          "name": "Victoria Justice",
-          "url": "https://open.spotify.com/artist/2OTfr6S2kuHRYStjt1IkY6"
-        }
-      ],
-      "duration_ms": 198857,
-      "name": "hate the world without u (maddy's song)",
-      "url": "https://open.spotify.com/track/7A0KAzWpuNphmvXz7uIJ38"
-    },
-    {
-      "added_at": "2024-05-24 10:03:42",
-      "album": {
-        "name": "80qm",
-        "url": "https://open.spotify.com/album/5nNXcTFibANjNbLye2jMLU"
-      },
-      "artists": [
-        {
-          "name": "Nina Chuba",
-          "url": "https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5"
-        }
-      ],
-      "duration_ms": 139981,
-      "name": "80qm",
-      "url": "https://open.spotify.com/track/13Ozua7wPk2dU3NIIgJJJo"
-    },
-    {
-      "added_at": "2024-05-24 10:03:42",
-      "album": {
-        "name": "I Was A Sailor",
-        "url": "https://open.spotify.com/album/2RPZ0G0ZFhbewbFhi6u4em"
-      },
-      "artists": [
-        {
-          "name": "Miike Snow",
-          "url": "https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J"
-        }
-      ],
-      "duration_ms": 240653,
-      "name": "I Was A Sailor",
-      "url": "https://open.spotify.com/track/2qO4PvWDojlplbvSrCBUvF"
     }
   ],
-  "unique_name": "NEW SINGLES RELEASES | UPDATED 25 MAY",
+  "unique_name": "NEW SINGLES RELEASES | UPDATED 26 MAY",
   "url": "https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV"
 }

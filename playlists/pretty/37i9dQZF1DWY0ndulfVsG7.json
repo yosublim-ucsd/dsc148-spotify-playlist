@@ -1,6 +1,6 @@
 {
   "description": "Koleksi lagu tersayang dari para artis negeri jiran. Cover: Melly Goeslaw",
-  "num_followers": 54330,
+  "num_followers": 54377,
   "original_name": "Berjiran",
   "owner": {
     "name": "Spotify",
@@ -779,22 +779,18 @@
     {
       "added_at": "2024-05-23 13:33:48",
       "album": {
-        "name": "Love, Life & Music",
-        "url": "https://open.spotify.com/album/427i70YCWKnkDAvvHjsxMp"
+        "name": "Bintang di Surga",
+        "url": "https://open.spotify.com/album/5K6G6PthNOaUsFR0XXyTAz"
       },
       "artists": [
         {
-          "name": "Rossa",
-          "url": "https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp"
-        },
-        {
-          "name": "Afgan",
-          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
+          "name": "Noah",
+          "url": "https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4"
         }
       ],
-      "duration_ms": 254013,
-      "name": "Kamu Yang Kutunggu",
-      "url": "https://open.spotify.com/track/6RxfiwKHEUCWSR7vRE4b5g"
+      "duration_ms": 269420,
+      "name": "Mungkin Nanti",
+      "url": "https://open.spotify.com/track/1D7GuxwgqFZzGnhJwvQU8X"
     },
     {
       "added_at": "2024-05-23 13:33:48",
@@ -815,18 +811,22 @@
     {
       "added_at": "2024-05-23 13:33:48",
       "album": {
-        "name": "Bintang di Surga",
-        "url": "https://open.spotify.com/album/5K6G6PthNOaUsFR0XXyTAz"
+        "name": "Love, Life & Music",
+        "url": "https://open.spotify.com/album/427i70YCWKnkDAvvHjsxMp"
       },
       "artists": [
         {
-          "name": "Noah",
-          "url": "https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4"
+          "name": "Rossa",
+          "url": "https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp"
+        },
+        {
+          "name": "Afgan",
+          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
         }
       ],
-      "duration_ms": 269420,
-      "name": "Mungkin Nanti",
-      "url": "https://open.spotify.com/track/1D7GuxwgqFZzGnhJwvQU8X"
+      "duration_ms": 254013,
+      "name": "Kamu Yang Kutunggu",
+      "url": "https://open.spotify.com/track/6RxfiwKHEUCWSR7vRE4b5g"
     }
   ],
   "unique_name": "Berjiran",

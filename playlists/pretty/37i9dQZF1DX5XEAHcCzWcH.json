@@ -1,6 +1,6 @@
 {
   "description": "The unmistakable sound of Blues piano: the best pianists to have pioneered the sound and shape the genre. Cover: Ray Charles",
-  "num_followers": 36837,
+  "num_followers": 36864,
   "original_name": "Blues Piano Legends",
   "owner": {
     "name": "Spotify",
@@ -323,18 +323,18 @@
     {
       "added_at": "2023-09-15 11:43:10",
       "album": {
-        "name": "X-Temporaneous Boogie",
-        "url": "https://open.spotify.com/album/7gKcCISq4MdFPIcslAvznp"
+        "name": "Blues On The Prowl",
+        "url": "https://open.spotify.com/album/3fQi3rgKy3U3udVg0ojE2N"
       },
       "artists": [
         {
-          "name": "Camille Howard",
-          "url": "https://open.spotify.com/artist/0QFOmSTku0zPMVoawXFCXX"
+          "name": "Booker T. Laury",
+          "url": "https://open.spotify.com/artist/6Tsq5rIvRhxQwRsvsRDsWH"
         }
       ],
-      "duration_ms": 139133,
-      "name": "Fluff Boogie",
-      "url": "https://open.spotify.com/track/53JbbJdZKRifKvPhVAOVG9"
+      "duration_ms": 217720,
+      "name": "Booker's Boogie",
+      "url": "https://open.spotify.com/track/2ckb6mS0TcnCxaQ2ywh1CV"
     },
     {
       "added_at": "2023-09-15 11:43:10",
@@ -355,18 +355,18 @@
     {
       "added_at": "2023-09-15 11:43:10",
       "album": {
-        "name": "Blues On The Prowl",
-        "url": "https://open.spotify.com/album/3fQi3rgKy3U3udVg0ojE2N"
+        "name": "Her New Orleans Music",
+        "url": "https://open.spotify.com/album/6KrB8Sf5g2WpCcWUOE9CpE"
       },
       "artists": [
         {
-          "name": "Booker T. Laury",
-          "url": "https://open.spotify.com/artist/6Tsq5rIvRhxQwRsvsRDsWH"
+          "name": "Sweet Emma Barrett",
+          "url": "https://open.spotify.com/artist/0YLo7NrjjafYk8rbapwCZk"
         }
       ],
-      "duration_ms": 217720,
-      "name": "Booker's Boogie",
-      "url": "https://open.spotify.com/track/2ckb6mS0TcnCxaQ2ywh1CV"
+      "duration_ms": 225928,
+      "name": "None of My Jelly Roll",
+      "url": "https://open.spotify.com/track/2fFhD3A1gSpm0liAvtvSdk"
     },
     {
       "added_at": "2023-09-15 11:43:10",
@@ -387,18 +387,18 @@
     {
       "added_at": "2023-09-15 11:43:10",
       "album": {
-        "name": "Her New Orleans Music",
-        "url": "https://open.spotify.com/album/6KrB8Sf5g2WpCcWUOE9CpE"
+        "name": "X-Temporaneous Boogie",
+        "url": "https://open.spotify.com/album/7gKcCISq4MdFPIcslAvznp"
       },
       "artists": [
         {
-          "name": "Sweet Emma Barrett",
-          "url": "https://open.spotify.com/artist/0YLo7NrjjafYk8rbapwCZk"
+          "name": "Camille Howard",
+          "url": "https://open.spotify.com/artist/0QFOmSTku0zPMVoawXFCXX"
         }
       ],
-      "duration_ms": 225928,
-      "name": "None of My Jelly Roll",
-      "url": "https://open.spotify.com/track/2fFhD3A1gSpm0liAvtvSdk"
+      "duration_ms": 139133,
+      "name": "Fluff Boogie",
+      "url": "https://open.spotify.com/track/53JbbJdZKRifKvPhVAOVG9"
     },
     {
       "added_at": "2023-09-15 11:43:10",
@@ -935,22 +935,6 @@
     {
       "added_at": "2023-09-15 11:43:10",
       "album": {
-        "name": "This Is the Blues! Vol. 7 (Mono Version)",
-        "url": "https://open.spotify.com/album/4U9fxJlHlKvp5GwKmenuQ3"
-      },
-      "artists": [
-        {
-          "name": "Jimmie Gordon",
-          "url": "https://open.spotify.com/artist/6XrOb8biVVH7gH09AIjB7l"
-        }
-      ],
-      "duration_ms": 192011,
-      "name": "Me and My Gin",
-      "url": "https://open.spotify.com/track/5L4sfgGbYh7CgXVBTmUcfz"
-    },
-    {
-      "added_at": "2023-09-15 11:43:10",
-      "album": {
         "name": "I Feel Like Steppin' Out",
         "url": "https://open.spotify.com/album/577wQlMr4FANgCxSxGuC24"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 151066,
       "name": "I'll Be Right Some Day",
       "url": "https://open.spotify.com/track/450ntCsziNbzNGYOU6hadR"
+    },
+    {
+      "added_at": "2023-09-15 11:43:10",
+      "album": {
+        "name": "This Is the Blues! Vol. 7 (Mono Version)",
+        "url": "https://open.spotify.com/album/4U9fxJlHlKvp5GwKmenuQ3"
+      },
+      "artists": [
+        {
+          "name": "Jimmie Gordon",
+          "url": "https://open.spotify.com/artist/6XrOb8biVVH7gH09AIjB7l"
+        }
+      ],
+      "duration_ms": 192011,
+      "name": "Me and My Gin",
+      "url": "https://open.spotify.com/track/5L4sfgGbYh7CgXVBTmUcfz"
     },
     {
       "added_at": "2023-09-15 11:43:10",

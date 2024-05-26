@@ -4,7 +4,7 @@
 
 > Brand new music from Bring Me The Horizon \(pictured\), Central Cee ft Lil Baby, PinkPantheress and more!
 
-10,493 songs - 23 day 14 hr 11 min
+10,493 songs - 23 day 14 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -8444,7 +8444,7 @@
 | [Stay A Little Longer](https://open.spotify.com/track/3XTyWCiBqc4B8enHDKOj8W) | [James Hiraeth](https://open.spotify.com/artist/13lPKi6IQrIyWyyovYUbtA), [Robbie Jay](https://open.spotify.com/artist/5bWPJEXEu87AXFu0XJ4j6K) | [Stay A Little Longer](https://open.spotify.com/album/509ZK4FZdkVDN1NfKcXDON) | 3:16 | 2024-05-23 |  |
 | [Stay a While](https://open.spotify.com/track/7uE17E38KxpqvKcpml65GM) | [SIIGHTS](https://open.spotify.com/artist/59wzcVw9vvQvKIEHddgF7n) | [Stay a While](https://open.spotify.com/album/4M0lg7jWynyMmoMpXYBusv) | 2:51 | 2023-02-10 | 2023-02-17 |
 | [Stay Alive](https://open.spotify.com/track/3V1Z8YNp4DbF9vQL3jGmG1) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Volume 3](https://open.spotify.com/album/5rQBs4ikSzjlBG0kONn6Vj) | 3:22 | 2023-08-10 | 2023-08-18 |
-| [Stay Alive](https://open.spotify.com/track/5wVYSIMLscxuGCM8pFFn77) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [Stay Alive](https://open.spotify.com/album/7m2Wc16bkpf7N0Im755hex) | 3:24 | 2024-05-23 |  |
+| [Stay Alive](https://open.spotify.com/track/5wVYSIMLscxuGCM8pFFn77) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [Stay Alive](https://open.spotify.com/album/7m2Wc16bkpf7N0Im755hex) | 3:06 | 2024-05-23 |  |
 | [Stay Another Night](https://open.spotify.com/track/5NyEmwp8Vtqt3D0a4DERdB) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev) | [Stay Another Night](https://open.spotify.com/album/5dq9Pr0UlrJbO46kIVy1iM) | 2:29 | 2024-03-29 | 2024-03-30 |
 | [Stay Another Night](https://open.spotify.com/track/5jhLOkFStVjktugFXBFjR0) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev) | [Stay Another Night](https://open.spotify.com/album/5DewFUAZ2xrL50ruh5b7ae) | 2:29 | 2024-03-29 | 2024-04-05 |
 | [Stay Awhile](https://open.spotify.com/track/1GoUZK5UgNAVdz6wcJ9Eml) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH), [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow) | [Stay Awhile](https://open.spotify.com/album/2q6RGFe2ZnsWwZP7mJKklm) | 6:11 | 2022-11-18 | 2022-11-21 |

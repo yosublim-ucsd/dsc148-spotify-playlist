@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Blxst & Offset, Sexyy Red, Don Toliver and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 272,015 likes - 48 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 272,194 likes - 48 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 28 | [By The Evening](https://open.spotify.com/track/7x2VKKaiXYbFztJhq0p3nN) | [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv) | [By The Evening](https://open.spotify.com/album/3rRTLxAgSPxOD5i4p1a8ab) | 2:54 |
 | 29 | [Really Rich \(feat\. Key Glock\)](https://open.spotify.com/track/1h3ijbZKfhhjwybVha2PiW) | [Jackboy](https://open.spotify.com/artist/2S2mt1DiA4QKdKvtqwxrbB), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Trust The Process](https://open.spotify.com/album/2gJzbIkxq3riV2xFAMtN6D) | 3:10 |
 | 30 | [Move Different](https://open.spotify.com/track/46mx2JnhOJqqFMx77NRAWr) | [Jay Hound](https://open.spotify.com/artist/57BGWi9z8Ay8NCKNSwUfF8) | [Move Different](https://open.spotify.com/album/2trMO9ZmaB6KlXQwrx785k) | 2:00 |
-| 31 | [Heartless](https://open.spotify.com/track/4Hr02qRS0QYWAyR2XQ6MhV) | [Dro Kenji](https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R) | [Heartless](https://open.spotify.com/album/6PwaReEFpS7hrMV3KaUZQz) | 2:35 |
+| 31 | [HEARTLESS](https://open.spotify.com/track/4Hr02qRS0QYWAyR2XQ6MhV) | [Dro Kenji](https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R) | [HEARTLESS](https://open.spotify.com/album/6PwaReEFpS7hrMV3KaUZQz) | 2:35 |
 | 32 | [Wise Up](https://open.spotify.com/track/4QVS7dlOCQde84utqhwOyY) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [Pete Rock](https://open.spotify.com/artist/3BeQqzKdlARoOd6y30kCO2) | [Wise Up](https://open.spotify.com/album/1IROPd6PTUoA3o9tqTvRiL) | 3:47 |
 | 33 | [Don Julio](https://open.spotify.com/track/479pcxeVzWpYm9RzwSZL1D) | [Wizz Havinn](https://open.spotify.com/artist/1Tj47hT6psqExO7fbAcXyE) | [Don Julio](https://open.spotify.com/album/1KjvoymutxBKQBn0FQboxK) | 1:49 |
 | 34 | [All My Love](https://open.spotify.com/track/2GKy0ta7z3npMR5JOJpcJr) | [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax) | [All My Love](https://open.spotify.com/album/40hrvSWYpPx2GnFjQvCGD4) | 3:05 |
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 36 | [From That Way](https://open.spotify.com/track/7EnHTtFwTtXoQ4ZRae8tY7) | [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1) | [From That Way](https://open.spotify.com/album/6UKhM2YEeUmC8z9vV5bU8A) | 3:00 |
 | 37 | [I Ain’t Done Yet](https://open.spotify.com/track/5N5SRBufLOm9aNa28nWqxT) | [YN Jay](https://open.spotify.com/artist/3gIWD9hK0VEhgsSrLu19PU) | [I Ain’t Done Yet](https://open.spotify.com/album/4z9eSqqeu1ywW7S6f5UYeI) | 2:26 |
 | 38 | [Still Ghetto](https://open.spotify.com/track/1MTGcMi6F0drGQ6qNzc0RQ) | [RJMrLA](https://open.spotify.com/artist/6kQWPGBItT0oMCHZy3M9DN) | [Still Ghetto](https://open.spotify.com/album/5Sc2rAPFoO497s2qR2n5az) | 2:27 |
-| 39 | [TOSSIN](https://open.spotify.com/track/6Oa2CNBzasMBuPhZWBZG8q) | [Ron Suno](https://open.spotify.com/artist/3A63dHvKuavknOcvWVgZA9) | [TOSSIN](https://open.spotify.com/album/0ywkChAqkvh0RusDawegeE) | 1:57 |
+| 39 | [TOSSIN](https://open.spotify.com/track/6Oa2CNBzasMBuPhZWBZG8q) | [Ron Suno](https://open.spotify.com/artist/3A63dHvKuavknOcvWVgZA9) | [TOSSIN](https://open.spotify.com/album/0ywkChAqkvh0RusDawegeE) | 2:13 |
 | 40 | [YUKATAN](https://open.spotify.com/track/3JceX3EciM8QbuJCrAowNW) | [Rah Swish](https://open.spotify.com/artist/4FeLiFUPdxVfFo8oOfA4BH), [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p), [ALLBLACK](https://open.spotify.com/artist/1cutd8e41XvxXnFPOFIxMD) | [Elevator Music](https://open.spotify.com/album/15BMWzpMaB2YP18b1TfwZ9) | 2:56 |
 | 41 | [Can't Breathe](https://open.spotify.com/track/0UYuMWUdBoGMtlLcGQKIjT) | [Spinabenz](https://open.spotify.com/artist/6JK16RgnitAl8O9yFgmWPe) | [Can't Breathe](https://open.spotify.com/album/1aLHR7gxg7GODYxNDmASgk) | 2:11 |
 | 42 | [SALAD](https://open.spotify.com/track/29fUrdzF1FqIhk0ZWxyyby) | [Oblé Reed](https://open.spotify.com/artist/4drP7GL5gdmNowIgcunWgn), [ARDN](https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo) | [SALAD](https://open.spotify.com/album/0xkWdFSnZVaHICeiGyiVIY) | 2:53 |

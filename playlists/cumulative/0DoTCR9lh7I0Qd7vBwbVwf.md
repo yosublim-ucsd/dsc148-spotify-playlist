@@ -4,7 +4,7 @@
 
 > full focus \- maximum productivity \- deep concentration \- meditation music \- work playlist \- focus songs \- calm vibes \- focus muziek \- focused work \- study \- no lyrics \- mindful studying \- working hard
 
-140 songs - 4 hr 40 min
+141 songs - 4 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [A Moment Of Calm](https://open.spotify.com/track/49qIZWOw7cF7QYqRpijKVa) | [Burstell](https://open.spotify.com/artist/5GkPupoxyFQbeCGlEkhT5C), [Moon Neux](https://open.spotify.com/artist/42DQbGLMNeNbupqDMIe2J9), [Spherity](https://open.spotify.com/artist/0DovSSyc9QQDunduaGcWPG) | [A Moment of Calm](https://open.spotify.com/album/7Dgwi1CKrFoR8O6A8ADV7b) | 1:37 | 2024-02-05 |  |
 | [A New Beginning](https://open.spotify.com/track/0jBjeDjspBl9fVU5VFU2yR) | [Burstell](https://open.spotify.com/artist/5GkPupoxyFQbeCGlEkhT5C), [Moon Neux](https://open.spotify.com/artist/42DQbGLMNeNbupqDMIe2J9), [Spherity](https://open.spotify.com/artist/0DovSSyc9QQDunduaGcWPG) | [Crystal Clear](https://open.spotify.com/album/4PMOqn6bo9U228D2XzBoV4) | 1:38 | 2024-02-05 |  |
 | [A Sea of Tranquility](https://open.spotify.com/track/5pkhxfBYsl5ZpuBqudIWJ0) | [Tokyo Pows](https://open.spotify.com/artist/01GBhCwlhOaAhgc9sgiihV), [Whiskerrain](https://open.spotify.com/artist/1gnfu5vXc1OQe1bJhsGnxN), [Spherity](https://open.spotify.com/artist/0DovSSyc9QQDunduaGcWPG) | [The Beauty of Stillness](https://open.spotify.com/album/0IFkgVAGC741t0pXQRh7Y4) | 2:00 | 2024-02-05 |  |
+| [Afternoon Land](https://open.spotify.com/track/0KZOjaq2rwBWemfh1DGAPR) | [QS Code](https://open.spotify.com/artist/1lrXTB4ZvNLal6JcYhryjH) | [Afternoon Land](https://open.spotify.com/album/4yuBbUndwYRhlzk395JtSW) | 2:38 | 2024-05-25 |  |
 | [Beyond the Horizon](https://open.spotify.com/track/2mL8njMMIUrApQlusHPIgV) | [Tokyo Pows](https://open.spotify.com/artist/01GBhCwlhOaAhgc9sgiihV), [Whiskerrain](https://open.spotify.com/artist/1gnfu5vXc1OQe1bJhsGnxN), [Spherity](https://open.spotify.com/artist/0DovSSyc9QQDunduaGcWPG) | [The Art of Relaxation](https://open.spotify.com/album/0ceMy6a1h5NOkV4qO02QiW) | 2:08 | 2024-02-05 |  |
 | [Birdsong](https://open.spotify.com/track/1WY8R8XiS5GKm9c20o7fhX) | [Trukhmanov](https://open.spotify.com/artist/3aaB46NTjZLRFbJHdUDs5j) | [Birdsong](https://open.spotify.com/album/17dRHhzMusnsAsWod2M2gA) | 1:56 | 2024-05-06 | 2024-05-09 |
 | [Blissful Notes](https://open.spotify.com/track/1IZtgwbfgseRYYOG0aMGUc) | [Artsaurus](https://open.spotify.com/artist/7guPdrzfeuTv56h7GxjZF0), [Frosty Flights](https://open.spotify.com/artist/446hvRGtk6F9y03ihPgBlw), [Laidback Lemur](https://open.spotify.com/artist/73N0Bg1onBcJOi5f2ANH3P) | [Moonlit Jazz](https://open.spotify.com/album/5fM4jvbXlBFo3pnIMZxD3s) | 2:05 | 2024-02-05 |  |

@@ -4,7 +4,7 @@
 
 > mood:  😎✈️
 
-70 songs - 3 hr 58 min
+71 songs - 4 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Bent Nass](https://open.spotify.com/track/6tT4CGnggGURBUMkDrE52k) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Caméléon](https://open.spotify.com/album/52d5PZbkISEQMhrDZRqoAy) | 4:10 | 2024-02-29 |  |
 | [BREDA](https://open.spotify.com/track/6mKrkIikIDiBRC9ZqjbeNl) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [BREDA](https://open.spotify.com/album/6tuj2U86XeDObr6qayHusm) | 1:52 | 2024-02-29 |  |
 | [Cactus](https://open.spotify.com/track/0iXa48XpxfpfJCHZg54Mwk) | [Raste](https://open.spotify.com/artist/7hblKQxMowm5BZpxUjcYQT) | [Cactus](https://open.spotify.com/album/1iGBzkAEeVfMuhoagrgEsP) | 3:41 | 2024-02-29 |  |
-| [Chahid](https://open.spotify.com/track/7HxjA4tXsukw2cAkqsTw2r) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [Arabi](https://open.spotify.com/album/5BYolD1SiHzv16i7sqxhAX) | 3:48 | 2024-02-29 |  |
+| [Chahid](https://open.spotify.com/track/7HxjA4tXsukw2cAkqsTw2r) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [Arabi](https://open.spotify.com/album/5BYolD1SiHzv16i7sqxhAX) | 3:48 | 2024-02-29 | 2024-05-26 |
 | [COUNT ON ME](https://open.spotify.com/track/1kHEexeZFetNsQ2fIJbFKL) | [VALEN](https://open.spotify.com/artist/32W9lYj8vdjc0TsHaQs1vz) | [COUNT ON ME](https://open.spotify.com/album/5hhvWbwoZc4k3S4V8K54ig) | 2:47 | 2024-02-29 |  |
 | [Datni](https://open.spotify.com/track/5yJMNxyY5lyHnO1nYKwcAf) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [Colors](https://open.spotify.com/album/3WgER7dzaBeJSUkmLuLuhX) | 4:13 | 2024-02-29 |  |
 | [Dawk Lya](https://open.spotify.com/track/5OInx13SpghEifbS5bQmwq) | [Snor](https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN) | [Dawk Lya](https://open.spotify.com/album/4vbm2Tj7L5fbzD1q5MmFrP) | 2:28 | 2024-02-29 |  |
@@ -63,6 +63,7 @@
 | [ROUTINE](https://open.spotify.com/track/3eIJC1PibL9VQHOMGpf9Ut) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [Moroccan Dream](https://open.spotify.com/album/5aUtrbOfZvn6yhgZuVhIFb) | 3:27 | 2024-02-29 |  |
 | [Sac](https://open.spotify.com/track/63DDC3J4z88hNMvcDFzQnH) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [Colors](https://open.spotify.com/album/0laELllYHrj2Zbw4It01B9) | 3:16 | 2024-02-29 |  |
 | [Sac](https://open.spotify.com/track/6x8BmqYKINbm7GFyVABsFH) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [Colors](https://open.spotify.com/album/0XXLHVehTykkYO9z1Ool7o) | 3:16 | 2024-02-29 | 2024-04-19 |
+| [SBT WLA TNINE](https://open.spotify.com/track/1q72QZtGRlwaaZ3re63ZeO) | [Anys](https://open.spotify.com/artist/1YjFEw5PirL57vHDoCMkhw) | [SBT WLA TNINE](https://open.spotify.com/album/0GIENMu0gpZUR64MbPVk0f) | 2:31 | 2024-05-25 |  |
 | [Sfina](https://open.spotify.com/track/3LpN2cysYRb35wZmGmCyjR) | [Mons](https://open.spotify.com/artist/7douYKOyzk9ZRvGFu9UOnm) | [Sfina](https://open.spotify.com/album/23dQw5Xou7F6y3GGWAgZPS) | 3:30 | 2024-02-29 |  |
 | [Si tu savais](https://open.spotify.com/track/2XoeD3lix5eVNEa40ZFtHW) | [Anys](https://open.spotify.com/artist/1YjFEw5PirL57vHDoCMkhw), [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [Si tu savais](https://open.spotify.com/album/4eJ1pf1NnVRxCUu2sgasiC) | 3:12 | 2024-02-29 |  |
 | [Slowmo](https://open.spotify.com/track/1CMO90rRzcZSUJ7U0oi1qX) | [Chaos333](https://open.spotify.com/artist/1fP5b7OUxcCkbhUX3yKVzE) | [Slowmo](https://open.spotify.com/album/3m9DSWdlZOQmu4PBJ6qCah) | 3:00 | 2024-02-29 |  |
@@ -73,7 +74,7 @@
 | [Walo](https://open.spotify.com/track/3E4ZICEXRcM8LRO1jjWQMI) | [Meta4 Planet](https://open.spotify.com/artist/5ly3gcirOViqRU8RdR045r) | [Lost ingredient before POTION](https://open.spotify.com/album/1Dc47UiresIBznuoM5O3Sl) | 3:20 | 2024-02-29 |  |
 | [Ya Lalali](https://open.spotify.com/track/2cHTt5vuym9qpiCssqy529) | [Roffo](https://open.spotify.com/artist/68z4NYiZ3obqSk6EZClHeE) | [Ya Lalali](https://open.spotify.com/album/0VgUfd4SGlx8LUgdUqrq08) | 4:12 | 2024-02-29 | 2024-04-19 |
 | [Ya Lalali](https://open.spotify.com/track/5dpZaOEAyPUlVsXR5h7eGv) | [Roffo](https://open.spotify.com/artist/68z4NYiZ3obqSk6EZClHeE) | [Ya Lalali](https://open.spotify.com/album/1eoLUTU3QAbrc9rjHNVbmX) | 4:12 | 2024-02-29 |  |
-| [YA Lili](https://open.spotify.com/track/12NyGvp4yFJys8L5XHo7FD) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [YA Lili](https://open.spotify.com/album/3lHjBXTO5HvJQ8nHLwyxaz) | 4:07 | 2024-02-29 |  |
+| [YA Lili](https://open.spotify.com/track/12NyGvp4yFJys8L5XHo7FD) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [YA Lili](https://open.spotify.com/album/3lHjBXTO5HvJQ8nHLwyxaz) | 4:07 | 2024-02-29 | 2024-05-26 |
 | [Yek Yek](https://open.spotify.com/track/617V6FOa1Qo3UIMn7y84fA) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [Galess Fdar](https://open.spotify.com/album/2pJTYN66za2S6VZ0ceOKZP) | 3:31 | 2024-02-29 |  |
 | [Zahri](https://open.spotify.com/track/7epBNl7bl4Gi5UwA5tdmyN) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [Zahri](https://open.spotify.com/album/3tsez1d6MZIe6QwkVfTc47) | 3:20 | 2024-02-29 | 2024-05-10 |
 | [Ça dépend](https://open.spotify.com/track/5IQgqdOpizKkUmiwAcyCuu) | [Flenn](https://open.spotify.com/artist/66OYzK2q18j4EVdMqRtf6L), [Syc](https://open.spotify.com/artist/6IayXElM5gfjgyWj9Ipbiu) | [Ça dépend](https://open.spotify.com/album/0nowTxq2NVPtVxJBLeDdwp) | 2:50 | 2024-02-29 |  |

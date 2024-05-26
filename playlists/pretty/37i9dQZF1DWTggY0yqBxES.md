@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 
 > New, leftfield, and for the real hip\-hop stans! Cover: AG Club
 
-[Spotify](https://open.spotify.com/user/spotify) - 944,908 likes - 100 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 944,924 likes - 100 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 | 34 | [Yeern 101](https://open.spotify.com/track/3K5yjMCFHN4TRWKj1zdKIQ) | [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [Yeern 101](https://open.spotify.com/album/1G1kvp5sKVBposBjP4xUy2) | 2:20 |
 | 35 | [007 \(OG Mix\)](https://open.spotify.com/track/2DW3A3W3ADxqtLzLgvQWrx) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [Chrome Bull DLX](https://open.spotify.com/album/5u8lkrEjY9W9yUevdcueWm) | 2:33 |
 | 36 | [Mood Swings](https://open.spotify.com/track/124nj3QzqpccVdLbiFHPeB) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Drop 7](https://open.spotify.com/album/2jK2rbbnrzsId5WWSc67HP) | 2:20 |
-| 37 | [Heartless](https://open.spotify.com/track/4Hr02qRS0QYWAyR2XQ6MhV) | [Dro Kenji](https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R) | [Heartless](https://open.spotify.com/album/6PwaReEFpS7hrMV3KaUZQz) | 2:35 |
+| 37 | [HEARTLESS](https://open.spotify.com/track/4Hr02qRS0QYWAyR2XQ6MhV) | [Dro Kenji](https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R) | [HEARTLESS](https://open.spotify.com/album/6PwaReEFpS7hrMV3KaUZQz) | 2:35 |
 | 38 | [Mikolton \(Dat's My Dawg\)](https://open.spotify.com/track/0IFd582e0VaFDvrzcAnAEU) | [Dear Silas](https://open.spotify.com/artist/4C6vnglzmsWszcdp5WaX6O) | [601 DEGREEZ](https://open.spotify.com/album/7tVFEAcU6vIaSYrLWXYLbP) | 2:58 |
 | 39 | [Can't Wake Up \- Remix](https://open.spotify.com/track/6j1TrNeuKkqa3id2H2q00I) | [Ahmad Anonimis](https://open.spotify.com/artist/3wnsNFtqQ75UEUAN3PwkPH), [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv) | [Can't Wake Up \(Remix\)](https://open.spotify.com/album/3ELhsTmzpNjhEpfIGrC8X9) | 3:36 |
 | 40 | [SAME SHIT](https://open.spotify.com/track/1HbcnCKpPrIXjNPVIVyBHx) | [Joony](https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35) | [MEMENTO \(DELUXE\)](https://open.spotify.com/album/4ENhG6dvD8niF3TgWaqpER) | 1:37 |

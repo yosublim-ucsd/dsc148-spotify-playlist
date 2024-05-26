@@ -1481,6 +1481,24 @@
     },
     {
       "album": {
+        "name": "80qm",
+        "url": "https://open.spotify.com/album/5nNXcTFibANjNbLye2jMLU"
+      },
+      "artists": [
+        {
+          "name": "Nina Chuba",
+          "url": "https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5"
+        }
+      ],
+      "date_added": "2024-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139981,
+      "name": "80qm",
+      "url": "https://open.spotify.com/track/13Ozua7wPk2dU3NIIgJJJo"
+    },
+    {
+      "album": {
         "name": "9 bis 9",
         "url": "https://open.spotify.com/album/00MoqsGjkjG0PS4GtYkSdb"
       },
@@ -3262,7 +3280,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-26",
       "duration_ms": 140797,
       "name": "ANNE KAFFEEKANNE",
       "url": "https://open.spotify.com/track/3m8GvywmS7eCJMcv5ApyXd"
@@ -5223,6 +5241,28 @@
     },
     {
       "album": {
+        "name": "BAND4BAND (feat. Lil Baby)",
+        "url": "https://open.spotify.com/album/4AzPr5SUpNF553eC1d3aRy"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2024-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140733,
+      "name": "BAND4BAND (feat. Lil Baby)",
+      "url": "https://open.spotify.com/track/7iabz12vAuVQYyekFIWJxD"
+    },
+    {
+      "album": {
         "name": "BANDIT",
         "url": "https://open.spotify.com/album/1xqiL9v6vHRyhIl6q5iWc4"
       },
@@ -5508,6 +5548,28 @@
       "duration_ms": 180304,
       "name": "Beautiful Things",
       "url": "https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9"
+    },
+    {
+      "album": {
+        "name": "Bebe",
+        "url": "https://open.spotify.com/album/2XqyLXSNdseCNG4JfB1EEy"
+      },
+      "artists": [
+        {
+          "name": "Dardan",
+          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
+        },
+        {
+          "name": "Azet",
+          "url": "https://open.spotify.com/artist/39KEQQAG9JhIt71g9NEVhh"
+        }
+      ],
+      "date_added": "2024-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144500,
+      "name": "Bebe",
+      "url": "https://open.spotify.com/track/3EZUSLfczqLsAs3Uxitand"
     },
     {
       "album": {
@@ -6176,6 +6238,24 @@
       "duration_ms": 184764,
       "name": "Big Bad Wolf (feat. BACI)",
       "url": "https://open.spotify.com/track/453XFFLA4D028MrRuXBl9i"
+    },
+    {
+      "album": {
+        "name": "BIG BOY MAYBACH",
+        "url": "https://open.spotify.com/album/5qgarwVspF0Zd43gg1BO2l"
+      },
+      "artists": [
+        {
+          "name": "reezy",
+          "url": "https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q"
+        }
+      ],
+      "date_added": "2024-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151489,
+      "name": "BIG BOY MAYBACH",
+      "url": "https://open.spotify.com/track/4UdJXVKmKAukXTYXaZU2hp"
     },
     {
       "album": {
@@ -8996,7 +9076,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-26",
       "duration_ms": 149884,
       "name": "Chaos",
       "url": "https://open.spotify.com/track/36fl6dbYQOF5OUPlKG8Tbj"
@@ -9628,6 +9708,28 @@
       "duration_ms": 170440,
       "name": "Coco Chanel",
       "url": "https://open.spotify.com/track/1okGsbOJ9Sjd837GvN6F9S"
+    },
+    {
+      "album": {
+        "name": "Coco Chanel",
+        "url": "https://open.spotify.com/album/6VvTZ4a8LfO1ymHs8FdLHs"
+      },
+      "artists": [
+        {
+          "name": "Jiyo",
+          "url": "https://open.spotify.com/artist/0i9OWm62ob5N5f6NTqhSts"
+        },
+        {
+          "name": "Rap La Rue",
+          "url": "https://open.spotify.com/artist/3oaGNYMn968LbpA1sthjos"
+        }
+      ],
+      "date_added": "2024-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143963,
+      "name": "Coco Chanel",
+      "url": "https://open.spotify.com/track/33w8uhoFjr7Y9FkzHDf94f"
     },
     {
       "album": {
@@ -14136,7 +14238,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-26",
       "duration_ms": 159245,
       "name": "End of Beginning",
       "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
@@ -16702,7 +16804,7 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-26",
       "duration_ms": 228965,
       "name": "Fortnight (feat. Post Malone)",
       "url": "https://open.spotify.com/track/2OzhQlSqBEmt7hmkYxfT6m"
@@ -21646,7 +21748,7 @@
       ],
       "date_added": "2024-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-26",
       "duration_ms": 178205,
       "name": "I Had Some Help (Feat. Morgan Wallen)",
       "url": "https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP"
@@ -22862,6 +22964,28 @@
       "duration_ms": 169500,
       "name": "Immer wieder",
       "url": "https://open.spotify.com/track/5mSGvNHrwpFbA2YUb32ZMj"
+    },
+    {
+      "album": {
+        "name": "immernoch bitter",
+        "url": "https://open.spotify.com/album/2j96rE3wJvscbQb8h2Q69v"
+      },
+      "artists": [
+        {
+          "name": "Nimo",
+          "url": "https://open.spotify.com/artist/3ZuBEj9ppJe8GSdKaMTfMN"
+        },
+        {
+          "name": "Soufian",
+          "url": "https://open.spotify.com/artist/3Vnl7pKDxagUgRJ3NMtEcE"
+        }
+      ],
+      "date_added": "2024-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160791,
+      "name": "immernoch bitter",
+      "url": "https://open.spotify.com/track/5oP7JXM4HzF5teg7x0Z22r"
     },
     {
       "album": {
@@ -26094,7 +26218,7 @@
       ],
       "date_added": "2024-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-26",
       "duration_ms": 139919,
       "name": "K\u00fcssen",
       "url": "https://open.spotify.com/track/2FbTZrdW0KGqH7TOdZRHiP"
@@ -27952,7 +28076,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-26",
       "duration_ms": 210688,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
@@ -28926,6 +29050,24 @@
       "duration_ms": 150393,
       "name": "Mach dich nicht kaputt",
       "url": "https://open.spotify.com/track/0k8c676jCNnrLIJAaT26rX"
+    },
+    {
+      "album": {
+        "name": "Mach die Augen auf",
+        "url": "https://open.spotify.com/album/6LUAQItFCJarUpFHnzMjtH"
+      },
+      "artists": [
+        {
+          "name": "CIVO",
+          "url": "https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8"
+        }
+      ],
+      "date_added": "2024-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111206,
+      "name": "Mach die Augen auf",
+      "url": "https://open.spotify.com/track/74EasdbNav1osDCwRCFwrS"
     },
     {
       "album": {
@@ -33268,7 +33410,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-26",
       "duration_ms": 141313,
       "name": "NaNa",
       "url": "https://open.spotify.com/track/6HB7JuxWRjLL3JXI9ECzhK"
@@ -33650,6 +33792,40 @@
       "duration_ms": 203653,
       "name": "Never Not Try",
       "url": "https://open.spotify.com/track/0AKxA0LR1eHNIiyg4KMZGy"
+    },
+    {
+      "album": {
+        "name": "Neymar 2",
+        "url": "https://open.spotify.com/album/7wlHyBgguOj7wFQsLIWPaT"
+      },
+      "artists": [
+        {
+          "name": "Capital Bra",
+          "url": "https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d"
+        },
+        {
+          "name": "UNDERAMOR CLIQUE",
+          "url": "https://open.spotify.com/artist/13i0VKK0FGvcAJLdnFmQs8"
+        },
+        {
+          "name": "Caso",
+          "url": "https://open.spotify.com/artist/6GeBDch0H7McZ7Nn3oykjN"
+        },
+        {
+          "name": "Miclo",
+          "url": "https://open.spotify.com/artist/2FWdtw1n0CyZtpCAA7TLos"
+        },
+        {
+          "name": "Caps",
+          "url": "https://open.spotify.com/artist/740uTFYiW6K1p1CwdyX6En"
+        }
+      ],
+      "date_added": "2024-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218514,
+      "name": "Neymar 2",
+      "url": "https://open.spotify.com/track/4yJd9aQipzDTlkeXxPA52o"
     },
     {
       "album": {
@@ -39441,6 +39617,28 @@
     },
     {
       "album": {
+        "name": "Riechst du das",
+        "url": "https://open.spotify.com/album/2gXSh2VNoFNIVxk6sV75OT"
+      },
+      "artists": [
+        {
+          "name": "Gzuz",
+          "url": "https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs"
+        },
+        {
+          "name": "Bausa",
+          "url": "https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV"
+        }
+      ],
+      "date_added": "2024-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144200,
+      "name": "Riechst du das",
+      "url": "https://open.spotify.com/track/51pcLHUrYjfY3bmKfPTtf8"
+    },
+    {
+      "album": {
         "name": "Riesenjoints",
         "url": "https://open.spotify.com/album/1wVvmr1pMK86zlsWWvvk0H"
       },
@@ -42955,6 +43153,28 @@
     },
     {
       "album": {
+        "name": "So wie du",
+        "url": "https://open.spotify.com/album/3mGUTfgRNeYKPt0fTCvGTh"
+      },
+      "artists": [
+        {
+          "name": "Milano",
+          "url": "https://open.spotify.com/artist/4Jd9XCHzRXTB7ZPPVzJoUm"
+        },
+        {
+          "name": "MERO",
+          "url": "https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ"
+        }
+      ],
+      "date_added": "2024-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152647,
+      "name": "So wie du",
+      "url": "https://open.spotify.com/track/4De7M9SBUs3UAPOigflw4U"
+    },
+    {
+      "album": {
         "name": "Soaked",
         "url": "https://open.spotify.com/album/6cd80qsoUsGCmHasCswGhW"
       },
@@ -44526,7 +44746,7 @@
       ],
       "date_added": "2024-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-26",
       "duration_ms": 147731,
       "name": "Substanzen (feat. Aymen, Jiyo & ilo 7araga)",
       "url": "https://open.spotify.com/track/1EypcNrXUoHSv6siw5FNPi"
@@ -48494,7 +48714,7 @@
       ],
       "date_added": "2024-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-26",
       "duration_ms": 259333,
       "name": "Unwritten",
       "url": "https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf"
@@ -49208,7 +49428,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-26",
       "duration_ms": 142598,
       "name": "Vielleicht Vielleicht",
       "url": "https://open.spotify.com/track/559mLg44MrcA7JzYGbpXfL"
@@ -49604,7 +49824,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-26",
       "duration_ms": 120000,
       "name": "Vorbei",
       "url": "https://open.spotify.com/track/5F9S9zIvgGz4cbD1eA0IhE"
@@ -50448,6 +50668,24 @@
       "duration_ms": 127003,
       "name": "Weekends",
       "url": "https://open.spotify.com/track/3JlHRjPt2TNB9h7VFf0im2"
+    },
+    {
+      "album": {
+        "name": "Weg nach oben",
+        "url": "https://open.spotify.com/album/33vFI2fXJbDUv40TyNlsA9"
+      },
+      "artists": [
+        {
+          "name": "Samra",
+          "url": "https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0"
+        }
+      ],
+      "date_added": "2024-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177392,
+      "name": "Weg nach oben",
+      "url": "https://open.spotify.com/track/6lh79frORLrToQlpZHwbHE"
     },
     {
       "album": {
@@ -51824,6 +52062,28 @@
       "duration_ms": 154200,
       "name": "Wie beim ersten Mal",
       "url": "https://open.spotify.com/track/4jhQOtHfWQq6GYkhvsAkOq"
+    },
+    {
+      "album": {
+        "name": "wie du manchmal fehlst",
+        "url": "https://open.spotify.com/album/7c6bG1FchpuEbkTl8iJ4As"
+      },
+      "artists": [
+        {
+          "name": "Zartmann",
+          "url": "https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0"
+        },
+        {
+          "name": "Ski Aggu",
+          "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
+        }
+      ],
+      "date_added": "2024-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131773,
+      "name": "wie du manchmal fehlst",
+      "url": "https://open.spotify.com/track/2gOVXniOMdunVdYk2NUQ4p"
     },
     {
       "album": {

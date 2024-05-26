@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "This Is Herencia de Patrones. Los temas esenciales, todos en una lista.",
+  "description": "This is Herencia de Patrones. The essential tracks, all in one playlist.",
   "name": "This Is Herencia de Patrones",
   "tracks": [
     {
@@ -930,6 +930,28 @@
       "duration_ms": 182000,
       "name": "Moreno 80",
       "url": "https://open.spotify.com/track/1MGJxKsoJ88nwrEMnueAE5"
+    },
+    {
+      "album": {
+        "name": "No Es Casualidad",
+        "url": "https://open.spotify.com/album/0Tl4y30AejX8M4gERMahsg"
+      },
+      "artists": [
+        {
+          "name": "Los Chavalos De La Perla",
+          "url": "https://open.spotify.com/artist/5w2CwSVYz9o6NUY4RgpCCO"
+        },
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "date_added": "2024-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162531,
+      "name": "No Es Casualidad",
+      "url": "https://open.spotify.com/track/2XbojtQDggjVsEGkB5pUye"
     },
     {
       "album": {

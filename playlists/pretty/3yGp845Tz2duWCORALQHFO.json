@@ -1,12 +1,12 @@
 {
   "description": "EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!",
-  "num_followers": 25686,
+  "num_followers": 25687,
   "original_name": "NEW EDM 2024 \u26a1 EDM HITS 2024 \u26a1 MUSICA ELECTRONICA 2024",
   "owner": {
     "name": "EDM Sauce",
     "url": "https://open.spotify.com/user/edmsauce"
   },
-  "snapshot_id": "AABfmCYX8t25aIss5crGO6XIGdKUWGYe",
+  "snapshot_id": "AABfm7NbhsOElXe4TVLlrxdPxwTqX4kZ",
   "tracks": [
     {
       "added_at": "2024-05-24 12:08:35",
@@ -679,6 +679,58 @@
       "duration_ms": 180462,
       "name": "Pegasus",
       "url": "https://open.spotify.com/track/3m32ApgNXyT8qmON7oSK9U"
+    },
+    {
+      "added_at": "2024-05-25 19:01:51",
+      "album": {
+        "name": "Moet",
+        "url": "https://open.spotify.com/album/2KY1vgjFku5XlzMNAuQHPA"
+      },
+      "artists": [
+        {
+          "name": "Ambrxse",
+          "url": "https://open.spotify.com/artist/47oNSHfwymN7Gg2IftahRA"
+        }
+      ],
+      "duration_ms": 173084,
+      "name": "Moet",
+      "url": "https://open.spotify.com/track/0cvm0gUEgGJjb8G9FOBb4c"
+    },
+    {
+      "added_at": "2024-05-25 19:00:52",
+      "album": {
+        "name": "Sunset Lover",
+        "url": "https://open.spotify.com/album/35rvVZvoLIWPZod0Dgd9l9"
+      },
+      "artists": [
+        {
+          "name": "DE DE MOUSE",
+          "url": "https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj"
+        },
+        {
+          "name": "CHERRYBOY FUNCTION",
+          "url": "https://open.spotify.com/artist/5XekZo5tIoBmrTb0dsEXx0"
+        }
+      ],
+      "duration_ms": 291591,
+      "name": "Sunset Lover",
+      "url": "https://open.spotify.com/track/1K1YkGGFw3okd7m2JESZ20"
+    },
+    {
+      "added_at": "2024-05-25 19:00:51",
+      "album": {
+        "name": "Feel You Falling",
+        "url": "https://open.spotify.com/album/5Eo9hneKcadGiJX6JF2qqr"
+      },
+      "artists": [
+        {
+          "name": "Bone Nest",
+          "url": "https://open.spotify.com/artist/0xWjVpyUgTeXnYWScqBEdq"
+        }
+      ],
+      "duration_ms": 195858,
+      "name": "Feel You Falling",
+      "url": "https://open.spotify.com/track/7GuK6HzTTcB1hDXVkrefvT"
     },
     {
       "added_at": "2024-05-24 12:08:35",

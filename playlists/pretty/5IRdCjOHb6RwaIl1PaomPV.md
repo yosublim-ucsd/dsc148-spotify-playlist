@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5IRdCjOHb6RwaIl1PaomPV.md) - [plain]
 
 > The latest tracks from Mad Decent and friends\. New music from Snow Strippers and Aluna, plus the latest cuts from evilgiane, Kito &amp; Chrome Sparks + more.
 
-[Mad Decent](https://open.spotify.com/user/maddecent) - 50,727 likes - 100 songs - 5 hr 11 min
+[Mad Decent](https://open.spotify.com/user/maddecent) - 50,729 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/5IRdCjOHb6RwaIl1PaomPV.md) - [plain]
 | 12 | [Starburned and Unkissed](https://open.spotify.com/track/12V0MwkaN60cghsLsglkIf) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Starburned and Unkissed](https://open.spotify.com/album/3mj7Bt7kMctCQdC9pqgdFc) | 3:40 |
 | 13 | [Heartache](https://open.spotify.com/track/39GZz9WxQpwJul7NnfBTb3) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [Britpop](https://open.spotify.com/album/5y9Fis539BaAsi7MmHKHm2) | 4:35 |
 | 14 | [U My Everything \(feat\. Drake\)](https://open.spotify.com/track/1TgStpMGTflN84asKJ8VU3) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [In Sexyy We Trust](https://open.spotify.com/album/5PmtX9B5vNa4uaiXQVn4Gx) | 3:45 |
-| 15 | [Shoot the Seagull](https://open.spotify.com/track/6bnp9RVQ744EDZAsDWWRYs) | [Delachute](https://open.spotify.com/artist/63xoDp7jjgyzogVPxmVgjX) | [Shoot the Seagull](https://open.spotify.com/album/6YpI5hpElXui5hfg7YWUkm) | 3:20 |
+| 15 | [Shoot The Seagull](https://open.spotify.com/track/6bnp9RVQ744EDZAsDWWRYs) | [Delachute](https://open.spotify.com/artist/63xoDp7jjgyzogVPxmVgjX) | [Shoot The Seagull](https://open.spotify.com/album/6YpI5hpElXui5hfg7YWUkm) | 3:20 |
 | 16 | [liverounds](https://open.spotify.com/track/2mB9h4ED7P8PCErQPF3aso) | [damon r.](https://open.spotify.com/artist/3LE39lgBs68N41XjxH5cLD) | [liverounds](https://open.spotify.com/album/4XVm6hHwM1fjUZywejQ3Wz) | 2:02 |
 | 17 | [Idea June](https://open.spotify.com/track/1NqqTOnwFzODsJECdvTE2S) | [Chanel Beads](https://open.spotify.com/artist/3x11XrMEnyP18hv73pmKRL) | [Your Day Will Come](https://open.spotify.com/album/5VJTZMk9joIX2t80S9e6ov) | 1:30 |
 | 18 | [Out Of Options](https://open.spotify.com/track/1ygHZpILmwL7EaByT1SVAO) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Silence Is Loud](https://open.spotify.com/album/7aIsJRcf04ZeFiU1Fa70Cq) | 2:08 |

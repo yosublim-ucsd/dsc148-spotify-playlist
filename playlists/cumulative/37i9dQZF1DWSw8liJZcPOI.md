@@ -4,7 +4,7 @@
 
 > The composers and musicians bending genres, redefining rules, and bringing classical music into the 21st century.
 
-492 songs - 1 day 10 hr 0 min
+493 songs - 1 day 10 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,7 +166,7 @@
 | [fable](https://open.spotify.com/track/2x4JUfTNw6Ht4lUxtAS0OP) | [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X), [reidenshi](https://open.spotify.com/artist/6SdlxyPsQ3B0yYncFmDULP), [Antent](https://open.spotify.com/artist/6ovctVkv7d2fBdilDRYfDW) | [fable](https://open.spotify.com/album/0PgDvzkzNQ54WDXqmaGgmv) | 2:29 | 2023-02-17 | 2023-05-06 |
 | [Fairytail](https://open.spotify.com/track/05gpQCSjj80MvJtRbAz8Th) | [Phoria](https://open.spotify.com/artist/0HDxlFsXwyrpufs4YgTNMm) | [Fairytail](https://open.spotify.com/album/7CqBWefDxohyKsKdP50e1I) | 2:50 | 2020-10-21 |  |
 | [Familiar](https://open.spotify.com/track/1j2FfR6RJlBJoJQDNfoukY) | [ABBOTT](https://open.spotify.com/artist/5CU8kbEERwvAfRatCVyPnt), [Canea Quartett](https://open.spotify.com/artist/2fDDFvi81fsu9osi2VhvNe) | [Familiar](https://open.spotify.com/album/4kpmg5bYaTMB3imXsf1ucT) | 3:32 | 2023-05-05 |  |
-| [Fantasia Opening](https://open.spotify.com/track/2OMUMfeWT6ilTcVcet56n3) | [Pêtr Aleksänder](https://open.spotify.com/artist/6NXrsSyjmxtUrYh3kaAexZ) | [Fantasia Opening](https://open.spotify.com/album/5RW9pH0BR7dPyPNaa2O9yX) | 3:46 | 2024-04-12 |  |
+| [Fantasia Opening](https://open.spotify.com/track/2OMUMfeWT6ilTcVcet56n3) | [Pêtr Aleksänder](https://open.spotify.com/artist/6NXrsSyjmxtUrYh3kaAexZ) | [Fantasia Opening](https://open.spotify.com/album/5RW9pH0BR7dPyPNaa2O9yX) | 3:46 | 2024-04-12 | 2024-05-26 |
 | [Fata Morgana](https://open.spotify.com/track/3XQzq3w5v0lQmBJKnUjf7C) | [Dustin O'Halloran](https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq), [Herdís Stefánsdóttir](https://open.spotify.com/artist/0xRIjKySnNpnV03oWjodrb) | [The Essex Serpent \(Apple TV+ Original Series Soundtrack\)](https://open.spotify.com/album/2pxVDTThavUBr3qfHEdklJ) | 2:03 | 2024-04-12 |  |
 | [Fight to Make It Up](https://open.spotify.com/track/7urVuBvdhiOpWGiWX81iXe) | [Takénobu](https://open.spotify.com/artist/0gnKKarIUyBnDcORsbOdeY) | [Conclusion](https://open.spotify.com/album/2vxiffHHOTPAbhRiAn44B8) | 5:42 | 2020-10-20\* | 2022-05-12 |
 | [Final Parade](https://open.spotify.com/track/0GP4AxKX6DvTOuTZI0s1p6) | [Felix Rösch](https://open.spotify.com/artist/5DN6qP3OzoKVYXF3o2KCXp) | [Mya](https://open.spotify.com/album/7oyU81vvHM7QOb5zty1fc3) | 2:23 | 2020-10-21 | 2021-01-15 |
@@ -494,6 +494,7 @@
 | [Wrestling](https://open.spotify.com/track/3GHGYVMQcpm5h7xGKpm3y6) | [Jóhann Jóhannsson](https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF) | [Personal Effects \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3R5B3xyl63tcnXuCkBu8Sm) | 2:48 | 2020-10-20\* | 2021-11-04 |
 | [yanni \(piano\)](https://open.spotify.com/track/18C6YL3LvUsjh1GEbBYWtj) | [Jean\-Michel Blais](https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr) | [sérénades](https://open.spotify.com/album/1f9rbU8V20zuspGqNZC3dq) | 4:44 | 2024-03-01 |  |
 | [Yes, Brick by Brick](https://open.spotify.com/track/1su4tA0rkmiBvfTiPpwuAU) | [Ceeys](https://open.spotify.com/artist/6K8BBZapSLE6XGXF4htbIT) | [Hausmusik](https://open.spotify.com/album/5MXVcbbK62CdyftPSuf3TB) | 5:19 | 2020-10-21 | 2022-04-20 |
+| [You Left \(Rework\)](https://open.spotify.com/track/5nZqiC7vtJxSHZcL6TdiVi) | [Kyle McEvoy](https://open.spotify.com/artist/6rRqxCKHpl9C5Imf2uinft), [Async Ross](https://open.spotify.com/artist/7yePXFsl8Y7GORfnIGlbFS), [The Field Tapes](https://open.spotify.com/artist/4LeF3SUf7hytyGQJoLJbym), [Kevin Kuh](https://open.spotify.com/artist/1H4ZTdZLiTbHn2dAT4bD28) | [You Left \(Rework\)](https://open.spotify.com/album/6rPYMh0qE5ttuerWbgy46Y) | 2:37 | 2024-05-24 |  |
 | [Youth](https://open.spotify.com/track/0kfVVKg58qkHeb9fcPWF1i) | [Neighborhood Libraries](https://open.spotify.com/artist/5eu335GvCPHQ1hTJiH0zJt) | [Postcards for the Backyard, Pt\. 1](https://open.spotify.com/album/09x53A382I5YYYSGeUQYFG) | 4:00 | 2023-03-24 | 2024-04-19 |
 | [Youth](https://open.spotify.com/track/0QNNi2mBpgopYG7F1bSLze) | [Taylor Swindells](https://open.spotify.com/artist/1fFVQt5WdQyTBtFmKwGfdM), [Neighborhood Libraries](https://open.spotify.com/artist/5eu335GvCPHQ1hTJiH0zJt) | [Youth](https://open.spotify.com/album/0M7OaxAnfhFuTWp1T4FlBS) | 4:00 | 2022-02-02 | 2022-07-01 |
 | [Ára bátur](https://open.spotify.com/track/0DvJ3c0crcaUF0VAImO9hu) | [Sigur Rós](https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy) | [Með suð í eyrum við spilum endalaust](https://open.spotify.com/album/6gAPGWoCZTnIaqB5EMAllD) | 8:56 | 2020-12-04 | 2020-12-11 |

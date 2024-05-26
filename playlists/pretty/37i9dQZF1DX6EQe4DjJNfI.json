@@ -1,6 +1,6 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Beb\u00e9",
-  "num_followers": 167896,
+  "num_followers": 167926,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
@@ -423,26 +423,6 @@
     {
       "added_at": "2024-05-24 03:01:00",
       "album": {
-        "name": "S\u00f3 por Hoje",
-        "url": "https://open.spotify.com/album/23tpnVQ3ucIfwczLoOCVE4"
-      },
-      "artists": [
-        {
-          "name": "Papu",
-          "url": "https://open.spotify.com/artist/7we8OZWeAI2qXNPt9LPL9Q"
-        },
-        {
-          "name": "Luna",
-          "url": "https://open.spotify.com/artist/5BJxqmyUEYvdqb2eMTZIDm"
-        }
-      ],
-      "duration_ms": 170666,
-      "name": "S\u00f3 por Hoje",
-      "url": "https://open.spotify.com/track/6qhQlrEKtF9ed8iTQWviR6"
-    },
-    {
-      "added_at": "2024-05-24 03:01:00",
-      "album": {
         "name": "Auge",
         "url": "https://open.spotify.com/album/3VeBQmFmne7gU4xU6jqlGu"
       },
@@ -463,6 +443,26 @@
       "duration_ms": 190286,
       "name": "Auge",
       "url": "https://open.spotify.com/track/63ft1sslYXqdYttGDQL99T"
+    },
+    {
+      "added_at": "2024-05-24 03:01:00",
+      "album": {
+        "name": "S\u00f3 por Hoje",
+        "url": "https://open.spotify.com/album/23tpnVQ3ucIfwczLoOCVE4"
+      },
+      "artists": [
+        {
+          "name": "Papu",
+          "url": "https://open.spotify.com/artist/7we8OZWeAI2qXNPt9LPL9Q"
+        },
+        {
+          "name": "Luna",
+          "url": "https://open.spotify.com/artist/5BJxqmyUEYvdqb2eMTZIDm"
+        }
+      ],
+      "duration_ms": 170666,
+      "name": "S\u00f3 por Hoje",
+      "url": "https://open.spotify.com/track/6qhQlrEKtF9ed8iTQWviR6"
     },
     {
       "added_at": "2024-05-24 03:01:00",
@@ -531,26 +531,6 @@
     {
       "added_at": "2024-05-24 03:01:00",
       "album": {
-        "name": "1001 Roteiros",
-        "url": "https://open.spotify.com/album/7BML7mAZR24Tle4tpZtCvm"
-      },
-      "artists": [
-        {
-          "name": "IZRRA",
-          "url": "https://open.spotify.com/artist/38m0QxjrBKOOEymSd33GzV"
-        },
-        {
-          "name": "Black",
-          "url": "https://open.spotify.com/artist/2UzbrOSDiSjcLFN8wZ4bz2"
-        }
-      ],
-      "duration_ms": 161024,
-      "name": "1001 Roteiros",
-      "url": "https://open.spotify.com/track/6yMVMThd3yOGcJMEc0vGgZ"
-    },
-    {
-      "added_at": "2024-05-24 03:01:00",
-      "album": {
         "name": "Liga\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/4voB6EnfiNGT4BKJ2Hg1IG"
       },
@@ -575,6 +555,46 @@
     {
       "added_at": "2024-05-24 03:01:00",
       "album": {
+        "name": "1001 Roteiros",
+        "url": "https://open.spotify.com/album/7BML7mAZR24Tle4tpZtCvm"
+      },
+      "artists": [
+        {
+          "name": "IZRRA",
+          "url": "https://open.spotify.com/artist/38m0QxjrBKOOEymSd33GzV"
+        },
+        {
+          "name": "Black",
+          "url": "https://open.spotify.com/artist/2UzbrOSDiSjcLFN8wZ4bz2"
+        }
+      ],
+      "duration_ms": 161024,
+      "name": "1001 Roteiros",
+      "url": "https://open.spotify.com/track/6yMVMThd3yOGcJMEc0vGgZ"
+    },
+    {
+      "added_at": "2024-05-24 03:01:00",
+      "album": {
+        "name": "Pra Mim N\u00e3o D\u00e1",
+        "url": "https://open.spotify.com/album/6b9pPvAJf6rJZfikk7681K"
+      },
+      "artists": [
+        {
+          "name": "Juliah",
+          "url": "https://open.spotify.com/artist/5iUxzlKaTdzdvH0Fwmz002"
+        },
+        {
+          "name": "CMK",
+          "url": "https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src"
+        }
+      ],
+      "duration_ms": 153103,
+      "name": "Pra Mim N\u00e3o D\u00e1",
+      "url": "https://open.spotify.com/track/7hmuEsmtvu4GpMlYjXD6zu"
+    },
+    {
+      "added_at": "2024-05-24 03:01:00",
+      "album": {
         "name": "Caixa Postal",
         "url": "https://open.spotify.com/album/1U5wE2R3c7dsOq8YIaOdJR"
       },
@@ -587,38 +607,6 @@
       "duration_ms": 183529,
       "name": "Caixa Postal",
       "url": "https://open.spotify.com/track/59VUO5wlGbV01g6fKBkms9"
-    },
-    {
-      "added_at": "2024-05-24 03:01:00",
-      "album": {
-        "name": "Victoria's Secrets",
-        "url": "https://open.spotify.com/album/2hGnJhss1wzMSwkMZNeSeM"
-      },
-      "artists": [
-        {
-          "name": "Boca",
-          "url": "https://open.spotify.com/artist/7DM9mUj11mLXmrtgw8YxaX"
-        },
-        {
-          "name": "Kiaz",
-          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
-        },
-        {
-          "name": "Gabriel Xan",
-          "url": "https://open.spotify.com/artist/48OAXgxXNHMfRgOPGy2oAK"
-        },
-        {
-          "name": "Doid\u00e3o Beats",
-          "url": "https://open.spotify.com/artist/1SY2NQQLliQAXoi0YtGZQm"
-        },
-        {
-          "name": "PTKA",
-          "url": "https://open.spotify.com/artist/4ChHh2DTGIbIUciPmoSxej"
-        }
-      ],
-      "duration_ms": 181224,
-      "name": "Victoria's Secrets",
-      "url": "https://open.spotify.com/track/0wip0vMqXUZptWl8s386yR"
     },
     {
       "added_at": "2024-05-24 03:01:00",
@@ -671,22 +659,34 @@
     {
       "added_at": "2024-05-24 03:01:00",
       "album": {
-        "name": "Pra Mim N\u00e3o D\u00e1",
-        "url": "https://open.spotify.com/album/6b9pPvAJf6rJZfikk7681K"
+        "name": "Victoria's Secrets",
+        "url": "https://open.spotify.com/album/2hGnJhss1wzMSwkMZNeSeM"
       },
       "artists": [
         {
-          "name": "Juliah",
-          "url": "https://open.spotify.com/artist/5iUxzlKaTdzdvH0Fwmz002"
+          "name": "Boca",
+          "url": "https://open.spotify.com/artist/7DM9mUj11mLXmrtgw8YxaX"
         },
         {
-          "name": "CMK",
-          "url": "https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src"
+          "name": "Kiaz",
+          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
+        },
+        {
+          "name": "Gabriel Xan",
+          "url": "https://open.spotify.com/artist/48OAXgxXNHMfRgOPGy2oAK"
+        },
+        {
+          "name": "Doid\u00e3o Beats",
+          "url": "https://open.spotify.com/artist/1SY2NQQLliQAXoi0YtGZQm"
+        },
+        {
+          "name": "PTKA",
+          "url": "https://open.spotify.com/artist/4ChHh2DTGIbIUciPmoSxej"
         }
       ],
-      "duration_ms": 153103,
-      "name": "Pra Mim N\u00e3o D\u00e1",
-      "url": "https://open.spotify.com/track/7hmuEsmtvu4GpMlYjXD6zu"
+      "duration_ms": 181224,
+      "name": "Victoria's Secrets",
+      "url": "https://open.spotify.com/track/0wip0vMqXUZptWl8s386yR"
     },
     {
       "added_at": "2024-05-24 03:01:00",
@@ -711,22 +711,6 @@
     {
       "added_at": "2024-05-24 03:01:00",
       "album": {
-        "name": "\u00c9ramos",
-        "url": "https://open.spotify.com/album/3zfJsn2QgHYbRJa6wZTG9i"
-      },
-      "artists": [
-        {
-          "name": "Jota SF",
-          "url": "https://open.spotify.com/artist/4ztJeuWS0uCCvhSHcO76ib"
-        }
-      ],
-      "duration_ms": 218890,
-      "name": "Bahamas",
-      "url": "https://open.spotify.com/track/1YWbYVHpotGLTpQ0wgji3Z"
-    },
-    {
-      "added_at": "2024-05-24 03:01:00",
-      "album": {
         "name": "Rec\u00edproco",
         "url": "https://open.spotify.com/album/2ci8q15b2oS4tn7uYImo3E"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 180000,
       "name": "Rec\u00edproco",
       "url": "https://open.spotify.com/track/2Na1FNsaKX5WmLjEVVPVNt"
+    },
+    {
+      "added_at": "2024-05-24 03:01:00",
+      "album": {
+        "name": "\u00c9ramos",
+        "url": "https://open.spotify.com/album/3zfJsn2QgHYbRJa6wZTG9i"
+      },
+      "artists": [
+        {
+          "name": "Jota SF",
+          "url": "https://open.spotify.com/artist/4ztJeuWS0uCCvhSHcO76ib"
+        }
+      ],
+      "duration_ms": 218890,
+      "name": "Bahamas",
+      "url": "https://open.spotify.com/track/1YWbYVHpotGLTpQ0wgji3Z"
     },
     {
       "added_at": "2024-05-24 03:01:00",
@@ -887,22 +887,6 @@
     {
       "added_at": "2024-05-24 03:01:00",
       "album": {
-        "name": "Imaturos",
-        "url": "https://open.spotify.com/album/2kK3WLKERpEahvQt5g3Twr"
-      },
-      "artists": [
-        {
-          "name": "Doug O.",
-          "url": "https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Imaturos",
-      "url": "https://open.spotify.com/track/1pLMyLeCuV7LXnM4UlBJgw"
-    },
-    {
-      "added_at": "2024-05-24 03:01:00",
-      "album": {
         "name": "DE REPENTE",
         "url": "https://open.spotify.com/album/5zBNR0bMPSZZsaQHxtgBXh"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 145714,
       "name": "DE REPENTE",
       "url": "https://open.spotify.com/track/2cupDkLxPFyG7jWgzEDQ9Y"
+    },
+    {
+      "added_at": "2024-05-24 03:01:00",
+      "album": {
+        "name": "Imaturos",
+        "url": "https://open.spotify.com/album/2kK3WLKERpEahvQt5g3Twr"
+      },
+      "artists": [
+        {
+          "name": "Doug O.",
+          "url": "https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Imaturos",
+      "url": "https://open.spotify.com/track/1pLMyLeCuV7LXnM4UlBJgw"
     },
     {
       "added_at": "2024-05-24 03:01:00",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2024-05-24 03:01:00",
       "album": {
-        "name": "Novela",
-        "url": "https://open.spotify.com/album/1ZobC6NB96Vcx6Bif4fPWh"
-      },
-      "artists": [
-        {
-          "name": "Fabriccio",
-          "url": "https://open.spotify.com/artist/7HZsRuW2Cxoyrfk6CNiGih"
-        }
-      ],
-      "duration_ms": 144578,
-      "name": "Novela",
-      "url": "https://open.spotify.com/track/0Q9TO4RB80B2H0NdysDmkD"
-    },
-    {
-      "added_at": "2024-05-24 03:01:00",
-      "album": {
         "name": "Abstin\u00eancia",
         "url": "https://open.spotify.com/album/0tGnNmRjiCEXAX6toKmFVO"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 168247,
       "name": "Abstin\u00eancia",
       "url": "https://open.spotify.com/track/04Zcj7MnHdpx5LVNa6qFQs"
+    },
+    {
+      "added_at": "2024-05-24 03:01:00",
+      "album": {
+        "name": "Novela",
+        "url": "https://open.spotify.com/album/1ZobC6NB96Vcx6Bif4fPWh"
+      },
+      "artists": [
+        {
+          "name": "Fabriccio",
+          "url": "https://open.spotify.com/artist/7HZsRuW2Cxoyrfk6CNiGih"
+        }
+      ],
+      "duration_ms": 144578,
+      "name": "Novela",
+      "url": "https://open.spotify.com/track/0Q9TO4RB80B2H0NdysDmkD"
     },
     {
       "added_at": "2024-05-24 03:01:00",
@@ -1347,6 +1347,26 @@
     {
       "added_at": "2024-05-24 03:01:00",
       "album": {
+        "name": "SALVE-SE!",
+        "url": "https://open.spotify.com/album/78EDQWddL1J80CnDO9w5T3"
+      },
+      "artists": [
+        {
+          "name": "Beb\u00e9",
+          "url": "https://open.spotify.com/artist/3u7JauDo3fDN6HBNtRTAFu"
+        },
+        {
+          "name": "Dinho Almeida",
+          "url": "https://open.spotify.com/artist/0dxVV6z6fbd8ZQ7PEhasKc"
+        }
+      ],
+      "duration_ms": 193457,
+      "name": "Recado dado",
+      "url": "https://open.spotify.com/track/3SwlhDteZ3q2VhNBmgoqtl"
+    },
+    {
+      "added_at": "2024-05-24 03:01:00",
+      "album": {
         "name": "O Brilho Que Voc\u00ea Tem",
         "url": "https://open.spotify.com/album/7gzCz9T1qSql7cTZa2IHTU"
       },
@@ -1415,26 +1435,6 @@
       "duration_ms": 185945,
       "name": "Vai Lembrar de Mim",
       "url": "https://open.spotify.com/track/6lpSz7JsOocZOfyjCpMm2P"
-    },
-    {
-      "added_at": "2024-05-24 03:01:00",
-      "album": {
-        "name": "SALVE-SE!",
-        "url": "https://open.spotify.com/album/78EDQWddL1J80CnDO9w5T3"
-      },
-      "artists": [
-        {
-          "name": "Beb\u00e9",
-          "url": "https://open.spotify.com/artist/3u7JauDo3fDN6HBNtRTAFu"
-        },
-        {
-          "name": "Dinho Almeida",
-          "url": "https://open.spotify.com/artist/0dxVV6z6fbd8ZQ7PEhasKc"
-        }
-      ],
-      "duration_ms": 193457,
-      "name": "Recado dado",
-      "url": "https://open.spotify.com/track/3SwlhDteZ3q2VhNBmgoqtl"
     },
     {
       "added_at": "2024-05-24 03:01:00",

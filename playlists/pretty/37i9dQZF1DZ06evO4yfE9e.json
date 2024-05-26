@@ -1,12 +1,12 @@
 {
   "description": "This is bludnymph. The essential tracks, all in one playlist.",
-  "num_followers": 1125,
+  "num_followers": 1132,
   "original_name": "This Is bludnymph",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zk6HAAAAAAAYPMgoDwVUeKtDQcyVpW8v",
+  "snapshot_id": "Zk/YgAAAAAA15MdLs1Cg5/JWGbM+2Yk2",
   "tracks": [
     {
       "added_at": null,
@@ -27,6 +27,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Things I Do For Love",
+        "url": "https://open.spotify.com/album/0oMgMrsKsnmJ1kODifdIZp"
+      },
+      "artists": [
+        {
+          "name": "bludnymph",
+          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
+        }
+      ],
+      "duration_ms": 160588,
+      "name": "The Things I Do For Love",
+      "url": "https://open.spotify.com/track/7BTMezneT8J3ZYGCxCsOgK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Self Destruction Mode",
         "url": "https://open.spotify.com/album/2freNDhR5KMLOUVIKZExtd"
       },
@@ -43,22 +59,6 @@
       "duration_ms": 147836,
       "name": "Self Destruction Mode",
       "url": "https://open.spotify.com/track/05e1CoIPmXLy6aPBotZlTZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Things I Do For Love",
-        "url": "https://open.spotify.com/album/0oMgMrsKsnmJ1kODifdIZp"
-      },
-      "artists": [
-        {
-          "name": "bludnymph",
-          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
-        }
-      ],
-      "duration_ms": 160588,
-      "name": "The Things I Do For Love",
-      "url": "https://open.spotify.com/track/7BTMezneT8J3ZYGCxCsOgK"
     },
     {
       "added_at": null,
@@ -287,8 +287,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "BODY PARTS (Full Frontal)",
-        "url": "https://open.spotify.com/album/0awshGdEPaIVGQeOUjPN8a"
+        "name": "DROOL",
+        "url": "https://open.spotify.com/album/73baAMMLjEnXi8ilwF7344"
       },
       "artists": [
         {
@@ -296,9 +296,9 @@
           "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
         }
       ],
-      "duration_ms": 178333,
-      "name": "BODY PARTS (Full Frontal)",
-      "url": "https://open.spotify.com/track/6yu1AooniIHEnBUncF3NE5"
+      "duration_ms": 165161,
+      "name": "DarkMagicSillySexy (origin story)",
+      "url": "https://open.spotify.com/track/14ZekLSr6NEv2ab50RzPkC"
     },
     {
       "added_at": null,
@@ -323,8 +323,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "DROOL",
-        "url": "https://open.spotify.com/album/73baAMMLjEnXi8ilwF7344"
+        "name": "BODY PARTS (Full Frontal)",
+        "url": "https://open.spotify.com/album/0awshGdEPaIVGQeOUjPN8a"
       },
       "artists": [
         {
@@ -332,9 +332,9 @@
           "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
         }
       ],
-      "duration_ms": 165161,
-      "name": "DarkMagicSillySexy (origin story)",
-      "url": "https://open.spotify.com/track/14ZekLSr6NEv2ab50RzPkC"
+      "duration_ms": 178333,
+      "name": "BODY PARTS (Full Frontal)",
+      "url": "https://open.spotify.com/track/6yu1AooniIHEnBUncF3NE5"
     },
     {
       "added_at": null,

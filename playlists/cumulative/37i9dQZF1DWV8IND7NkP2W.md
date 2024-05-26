@@ -4,7 +4,7 @@
 
 > The ultimate instrumental soundtrack for a long\-haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-728 songs - 1 day 8 hr 49 min
+729 songs - 1 day 8 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -268,6 +268,7 @@
 | [HARU](https://open.spotify.com/track/5JhwlmQCauaK3cxXXRo5wz) | [パジャマで海なんかいかない](https://open.spotify.com/artist/6FnK7XQ5Ldd4ymhgPirwac) | [HARU](https://open.spotify.com/album/5A2GCI8off7bbcyfqafcuu) | 5:11 | 2023-11-16 | 2023-12-08 |
 | [harukaze](https://open.spotify.com/track/0XflCyWk28wErpgiBPnNTK) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [harukaze](https://open.spotify.com/album/3pur6jiK9PCVKajSXvlWjJ) | 2:33 | 2023-03-02 |  |
 | [Harukaze](https://open.spotify.com/track/4M9XmxpfF1QtUpZWpFwcez) | [Sorto & Nodo](https://open.spotify.com/artist/4SihmxdDSTESQsCMfk121P) | [彩雲](https://open.spotify.com/album/2da4qmcNbV330XtKdJthX5) | 6:04 | 2023-06-13 | 2023-09-29 |
+| [Havana Beach](https://open.spotify.com/track/1Lb6meLEZuActBdnBodW2u) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1) | [Cocktail City](https://open.spotify.com/album/4BhJ5O1UzO8n7P3uPMABUj) | 2:03 | 2024-05-23 |  |
 | [Heavy Rain](https://open.spotify.com/track/0D7VlZ5PRHvjGMARkvwyne) | [Bayek](https://open.spotify.com/artist/6UydKr9YdLmI3AzEjfnKGh) | [Heavy Rain](https://open.spotify.com/album/06Q46ZGejs53a5s5AxRC3c) | 1:38 | 2023-05-11 | 2023-05-13 |
 | [Heavy Rain](https://open.spotify.com/track/2qzsEDG9WkXgb16vUib2Of) | [Bayek](https://open.spotify.com/artist/6UydKr9YdLmI3AzEjfnKGh) | [Heavy Rain](https://open.spotify.com/album/56PaK0swCLUi1vzcxBzgGp) | 1:38 | 2023-05-11 | 2024-04-19 |
 | [Heiwa](https://open.spotify.com/track/1o3ZTQiMpqfbb9CMv4Pf9a) | [MEITEI](https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii) | [Kofū III](https://open.spotify.com/album/5WSLnQVYe65yWgQ5PpPw6p) | 3:23 | 2023-11-30 | 2024-04-19 |
@@ -663,7 +664,7 @@
 | [touch](https://open.spotify.com/track/1tZt5VNrrJBjld65OiZGKc) | [Bayek](https://open.spotify.com/artist/6UydKr9YdLmI3AzEjfnKGh) | [touch](https://open.spotify.com/album/6c8K3yA92WDlMN6WguocxP) | 1:28 | 2023-09-28 |  |
 | [touch](https://open.spotify.com/track/4N9k6Nklzns7QzslAABaTq) | [Bayek](https://open.spotify.com/artist/6UydKr9YdLmI3AzEjfnKGh) | [touch](https://open.spotify.com/album/0Y8r76clygH0KolOk3ohpR) | 1:28 | 2023-09-28 | 2024-04-19 |
 | [Toy Coffee](https://open.spotify.com/track/7JpvzCoiFbTGglpNVDG5GQ) | [Wataru Fujiwara](https://open.spotify.com/artist/0wOfP27EddIPwwB7X7ZrWP) | [Toy Coffee](https://open.spotify.com/album/3r1bAeGCOzZhBzeYRhYTzY) | 2:08 | 2021-12-23 | 2022-07-01 |
-| [Train Smoke](https://open.spotify.com/track/5IoUd8XyS3Kj4gZvRm4ygI) | [Kicktracks](https://open.spotify.com/artist/2dGFrQsjmTaLK8o8aNuAeG) | [Train Smoke](https://open.spotify.com/album/6uyB55roWXPNvPQAwRwWhG) | 2:16 | 2021-12-23 |  |
+| [Train Smoke](https://open.spotify.com/track/5IoUd8XyS3Kj4gZvRm4ygI) | [Kicktracks](https://open.spotify.com/artist/2dGFrQsjmTaLK8o8aNuAeG) | [Train Smoke](https://open.spotify.com/album/6uyB55roWXPNvPQAwRwWhG) | 2:16 | 2021-12-23 | 2024-05-26 |
 | [Transient](https://open.spotify.com/track/4RXAQJaBwtNoCTEDKdRFaG) | [Nathan Kawanishi](https://open.spotify.com/artist/2Jo4Zz3YTkRH5hq65BFMqe) | [Transient](https://open.spotify.com/album/27ftctMCC0bPxHcoR6kv73) | 2:10 | 2021-12-23 | 2022-07-12 |
 | [Tree Pillows](https://open.spotify.com/track/7lAvdR45jmaNvwRwQRkvGf) | [BudaMunk](https://open.spotify.com/artist/1yWuJDLSCfY5Zrjv6JmtWC) | [Clouded](https://open.spotify.com/album/2sh8z0An42fdUtnztpdgrk) | 2:30 | 2022-01-06 | 2022-04-21 |
 | [Trees Talk Too](https://open.spotify.com/track/1ji7hIJN2M05QVG3cFkzvp) | [Minthaze](https://open.spotify.com/artist/0GDuz9Xe0BQHtO6uEOHm1v) | [Trees Talk Too](https://open.spotify.com/album/14XVbyMnmFIIDc6Bg0hQme) | 2:20 | 2022-03-24 | 2022-04-18 |

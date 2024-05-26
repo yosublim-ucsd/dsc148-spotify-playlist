@@ -4,7 +4,7 @@
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover:  Peter Holly
 
-3,462 songs - 8 day 20 hr 34 min
+3,463 songs - 8 day 20 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -380,6 +380,7 @@
 | [Beruntung](https://open.spotify.com/track/6iwNWeDUUZp666iXh6ykZD) | [JESENN](https://open.spotify.com/artist/3cNQyXzy5m2IL2qplegOSq) | [Beruntung](https://open.spotify.com/album/7vLf1Iyh6bgvFdPtuRuvcG) | 4:28 | 2023-03-16 | 2023-04-07 |
 | [Besar Hati](https://open.spotify.com/track/77itQSc0KLHbTGbBUUzv49) | [jeffman](https://open.spotify.com/artist/0dhm9gs6hGF81PIhkuG2DY) | [Besar Hati](https://open.spotify.com/album/7BSSyxBxctpNNsLmxFMOJb) | 3:30 | 2024-05-13 |  |
 | [best friend](https://open.spotify.com/track/3XUqsXm5prHluhSEunniLR) | [Wevvss](https://open.spotify.com/artist/6zcbd2HfTX8pbqYqmXQkLI) | [best friend](https://open.spotify.com/album/1G0meIJ2EljeWzhI2fcH59) | 2:10 | 2022-09-29 | 2022-10-14 |
+| [Best Laid Plan!](https://open.spotify.com/track/7vGmjFc0wlFHW6e75UU4rS) | [Godeliva Ella](https://open.spotify.com/artist/5LS27tOe5eBERzf4UoDrMh) | [Best Laid Plan!](https://open.spotify.com/album/1iPr72kieO51YULQyVu1oB) | 3:15 | 2024-05-24 |  |
 | [Best Part](https://open.spotify.com/track/3dYzg2esh9HyxPjOPBv1DC) | [Enkara](https://open.spotify.com/artist/2MDycJWAnXm4V73tvQfqWk), [Prasiman](https://open.spotify.com/artist/20mAOqo3nmbrxwEy2cDEGu), [Kay Sebastene](https://open.spotify.com/artist/5ZMoHmgsrp02niBm1sihBP) | [Best Part](https://open.spotify.com/album/4lIjUceeUCxdTt0GQq6KOn) | 2:53 | 2023-06-22 | 2023-07-07 |
 | [Beta Lalah](https://open.spotify.com/track/7HtQk0FDZyOMamRPqkrnuV) | [Tesa IDOL](https://open.spotify.com/artist/3VDeztqM8grawZfDLMyELA) | [Beta Lalah](https://open.spotify.com/album/3eM6IZsCAT6LHGgyEEUrzF) | 5:03 | 2022-06-16 | 2022-07-15 |
 | [Better](https://open.spotify.com/track/5bEROxjVDGutcTbAhKfcxI) | [Cryboi](https://open.spotify.com/artist/4GROMdTtOGdfYxXYEiBhJx) | [Better](https://open.spotify.com/album/3xwKvkY1OQ35bG1BpKQH18) | 1:34 | 2024-01-11 | 2024-02-03 |

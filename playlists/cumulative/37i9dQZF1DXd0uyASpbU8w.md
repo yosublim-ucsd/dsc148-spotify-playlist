@@ -4,7 +4,7 @@
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq?si=XJZI7o9tSNidEZ3hXI\_7lQ">Msaki</a>, <a href="https://open.spotify.com/artist/1eraeBfwU1RwFj6LszJT65?si=KcvfJztFRSeofLnZsOIb6w">Tubatsi Mpho Moloi</a>
 
-3,053 songs - 8 day 16 hr 45 min
+3,054 songs - 8 day 16 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2644,6 +2644,7 @@
 | [Tholakele](https://open.spotify.com/track/3i9PbSTJi4qatf6Qoq97Ub) | [Desire Marea](https://open.spotify.com/artist/7xfBWpNiwO2yteiY68OB6C) | [The Baddies of Isandlwana](https://open.spotify.com/album/2Qb0wKVzovx3uKAn0ktgOc) | 5:01 | 2023-11-09 | 2023-11-18 |
 | [Through The Dark](https://open.spotify.com/track/37zI7SXeHFm7CCNwmbgaJM) | [Gil Glaze](https://open.spotify.com/artist/6pNzdcgIaKQKsYNS5agP4V), [NaakMusiQ](https://open.spotify.com/artist/6xs8YWLAW2FdCpmzEE0loe), [Frigid Armadillo](https://open.spotify.com/artist/6IWmSzycuN6VEXbSE2r83i) | [Through The Dark](https://open.spotify.com/album/5ZSZ9wYbyoPssimsjH3YfX) | 4:08 | 2023-08-17 | 2023-08-25 |
 | [Throwback Tears](https://open.spotify.com/track/1WeovbMrXQynSFyqOjz8AS) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [Lost In Translation](https://open.spotify.com/album/2QNQe0cnmzYYc0QcKeEZgb) | 1:57 | 2024-03-21 | 2024-03-29 |
+| [Thrown Around](https://open.spotify.com/track/6hEiEWEgAuFvEJduuSQLiw) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Thrown Around](https://open.spotify.com/album/6dqfoHNZqWOM54L6TxMOXs) | 4:20 | 2024-05-23 |  |
 | [Thula](https://open.spotify.com/track/1s59XTyE9Xwt0HQZx8KJ1X) | [DJ Zinhle](https://open.spotify.com/artist/4z9NtIRj7d5cohzOjprqxW), [Cici](https://open.spotify.com/artist/3i9UjIGeZT2cRyltQrr8nj) | [Thula](https://open.spotify.com/album/1RMBMJecixfvRYNQlXiWpp) | 6:17 | 2023-07-07 | 2023-07-14 |
 | [Thula Mabota](https://open.spotify.com/track/1tOQzfKaKiFE7IFEefBT4y) | [Ntate Stunna](https://open.spotify.com/artist/1HKxOYJiTBtSgVTbKHK5XL), [Makhadzi Entertainment](https://open.spotify.com/artist/24Hon9044L6JUKWcqQSjma), [DeejayZaca](https://open.spotify.com/artist/382p7ufbSEYVnxZFMvY0Px), [Scutum](https://open.spotify.com/artist/7cYghO3y1W3Lx76TXRj55i) | [Thula Mabota](https://open.spotify.com/album/6mXkQRENMp1lpFie1RM6Qr) | 5:52 | 2024-02-01 | 2024-02-09 |
 | [Thula Mabota](https://open.spotify.com/track/4xXHrIiIeW7dMh5FoYI5m1) | [Zee Nxumalo](https://open.spotify.com/artist/5m5lgddffBHA2pv0m5E2Ro), [Pabi Cooper](https://open.spotify.com/artist/6EG9v86LsCoq5HS4Jj1zCQ), [031CHOPPA](https://open.spotify.com/artist/5CqbErFqBV89u0gqQfH3ks), [Shakes & Les](https://open.spotify.com/artist/4bslbAAfObKnJI0G6FNcTp) | [Thula Mabota](https://open.spotify.com/album/1uPeUTP88QNapiZQGDq9UY) | 4:29 | 2024-03-28 | 2024-04-05 |

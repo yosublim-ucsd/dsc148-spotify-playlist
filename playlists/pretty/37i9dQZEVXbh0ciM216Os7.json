@@ -6,8 +6,36 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAACvfj1KrzACMDiLfIMsFTwl",
+  "snapshot_id": "AAAAAAAAAADJkgc11/OrejPa8UFdCJRp",
   "tracks": [
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Fearless Movement",
+        "url": "https://open.spotify.com/album/0Jy18n9qpKS4RyDYmaPpdL"
+      },
+      "artists": [
+        {
+          "name": "Kamasi Washington",
+          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
+        },
+        {
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        },
+        {
+          "name": "Taj Austin",
+          "url": "https://open.spotify.com/artist/1V9w9vndioDaZwRWnBXxJG"
+        },
+        {
+          "name": "Ras Austin",
+          "url": "https://open.spotify.com/artist/0j17jmhkSXsE9GwjuYoLNC"
+        }
+      ],
+      "duration_ms": 466296,
+      "name": "Asha The First",
+      "url": "https://open.spotify.com/track/5yRerSW4IIbninr1JDXfvi"
+    },
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
@@ -43,6 +71,22 @@
       "duration_ms": 216428,
       "name": "RATATATA",
       "url": "https://open.spotify.com/track/14WYmNQWvR2TTWoRp8t9Ml"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Leo Metal, Vol. 46",
+        "url": "https://open.spotify.com/album/3ffTfWGBjtpCOcm8YFTn6S"
+      },
+      "artists": [
+        {
+          "name": "Leo",
+          "url": "https://open.spotify.com/artist/5KWOCu1saEHAhPiLKlOLIy"
+        }
+      ],
+      "duration_ms": 216631,
+      "name": "Jag trodde \u00e4nglarna fanns (Metal Version)",
+      "url": "https://open.spotify.com/track/2OO9LtdSJ1LNosegGQF8pJ"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -123,26 +167,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "wasted time re-mix",
-        "url": "https://open.spotify.com/album/67EFBkdaaq4kJ9gUUYgRXe"
-      },
-      "artists": [
-        {
-          "name": "white grouse",
-          "url": "https://open.spotify.com/artist/7pIv06qOhU2S6qfbAZn5KV"
-        },
-        {
-          "name": "Ol' Dirty Bastard",
-          "url": "https://open.spotify.com/artist/50NoVNy9GU1lCrDV8iGpyu"
-        }
-      ],
-      "duration_ms": 139468,
-      "name": "wasted time re-mix",
-      "url": "https://open.spotify.com/track/09vOW9W5lC9O7tQZ73YtR5"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "Evil Eye / Get A Grip",
         "url": "https://open.spotify.com/album/0DItQKhgUwLv6oWRcUeskz"
       },
@@ -187,26 +211,22 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Wang Tang",
-        "url": "https://open.spotify.com/album/6NY3YUltynfGoMGL8t5Mb2"
+        "name": "wasted time re-mix",
+        "url": "https://open.spotify.com/album/67EFBkdaaq4kJ9gUUYgRXe"
       },
       "artists": [
         {
-          "name": "D.O.M of Dnd",
-          "url": "https://open.spotify.com/artist/6J5VuFIm5Yvy3o5LJKMnBm"
+          "name": "white grouse",
+          "url": "https://open.spotify.com/artist/7pIv06qOhU2S6qfbAZn5KV"
         },
         {
-          "name": "Inspectah Deck",
-          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
-        },
-        {
-          "name": "Bronze Nazareth",
-          "url": "https://open.spotify.com/artist/4VhYUWpDsLraUG6Sd8g9TF"
+          "name": "Ol' Dirty Bastard",
+          "url": "https://open.spotify.com/artist/50NoVNy9GU1lCrDV8iGpyu"
         }
       ],
-      "duration_ms": 166301,
-      "name": "Erectah Deck",
-      "url": "https://open.spotify.com/track/6wrCRloYUpj7ooJy1lddk2"
+      "duration_ms": 139468,
+      "name": "wasted time re-mix",
+      "url": "https://open.spotify.com/track/09vOW9W5lC9O7tQZ73YtR5"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -227,6 +247,30 @@
       "duration_ms": 159166,
       "name": "Peace",
       "url": "https://open.spotify.com/track/60gKxdKtL9VIRhr3ENddBp"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Wang Tang",
+        "url": "https://open.spotify.com/album/6NY3YUltynfGoMGL8t5Mb2"
+      },
+      "artists": [
+        {
+          "name": "D.O.M of Dnd",
+          "url": "https://open.spotify.com/artist/6J5VuFIm5Yvy3o5LJKMnBm"
+        },
+        {
+          "name": "Inspectah Deck",
+          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
+        },
+        {
+          "name": "Bronze Nazareth",
+          "url": "https://open.spotify.com/artist/4VhYUWpDsLraUG6Sd8g9TF"
+        }
+      ],
+      "duration_ms": 166301,
+      "name": "Erectah Deck",
+      "url": "https://open.spotify.com/track/6wrCRloYUpj7ooJy1lddk2"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -315,22 +359,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Jag trodde \u00e4nglarna fanns (Metal Version)",
-        "url": "https://open.spotify.com/album/6xJCdvVI71G86Y2Ro9Jhur"
-      },
-      "artists": [
-        {
-          "name": "Leo",
-          "url": "https://open.spotify.com/artist/5KWOCu1saEHAhPiLKlOLIy"
-        }
-      ],
-      "duration_ms": 216631,
-      "name": "Jag trodde \u00e4nglarna fanns (Metal Version)",
-      "url": "https://open.spotify.com/track/5T99dg42jtn06OHb0VbUzt"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "Together",
         "url": "https://open.spotify.com/album/5HgjPTY2Sw4yEHrZIl2TWf"
       },
@@ -403,26 +431,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Pair Of Hammers",
-        "url": "https://open.spotify.com/album/3x2nnUuUhnQJaSESvRUFQm"
-      },
-      "artists": [
-        {
-          "name": "Ghostface Killah",
-          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
-        },
-        {
-          "name": "Method Man",
-          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
-        }
-      ],
-      "duration_ms": 156136,
-      "name": "Pair Of Hammers",
-      "url": "https://open.spotify.com/track/45gkHRnetn0FJWLB6rFtv1"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "Rx",
         "url": "https://open.spotify.com/album/5vegvIWwKcdSc8gYfirlgx"
       },
@@ -439,6 +447,26 @@
       "duration_ms": 186790,
       "name": "One Cry (feat. Rosa Linn)",
       "url": "https://open.spotify.com/track/2KE3Ukz2maas53WCtYIvCE"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Pair Of Hammers",
+        "url": "https://open.spotify.com/album/3x2nnUuUhnQJaSESvRUFQm"
+      },
+      "artists": [
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        },
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        }
+      ],
+      "duration_ms": 156136,
+      "name": "Pair Of Hammers",
+      "url": "https://open.spotify.com/track/45gkHRnetn0FJWLB6rFtv1"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -683,22 +711,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Insecure",
-        "url": "https://open.spotify.com/album/4Dj67Y8bsAfGzUYYCOPrbw"
-      },
-      "artists": [
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        }
-      ],
-      "duration_ms": 195106,
-      "name": "Insecure",
-      "url": "https://open.spotify.com/track/3tLVfEh8kJhMkDaxvOzK1M"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "Boomer Rang",
         "url": "https://open.spotify.com/album/1uiP6NwEsXavVWZuw2bzFH"
       },
@@ -791,234 +803,6 @@
       "duration_ms": 153658,
       "name": "You Took the Blue",
       "url": "https://open.spotify.com/track/0hGgiToy3sfGkAi95INQyF"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "The End",
-        "url": "https://open.spotify.com/album/4NELtOtWIiVCYIRZUMAErk"
-      },
-      "artists": [
-        {
-          "name": "Justice",
-          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
-        },
-        {
-          "name": "Thundercat",
-          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
-        }
-      ],
-      "duration_ms": 254346,
-      "name": "The End",
-      "url": "https://open.spotify.com/track/2ppxqVkIvuFfETylSUPPkP"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "head.rap (ft. Madison McFerrin, Ogi, Jordan Ward)",
-        "url": "https://open.spotify.com/album/0u3PlMuxnHdhKTuKnPnDWL"
-      },
-      "artists": [
-        {
-          "name": "Saba",
-          "url": "https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x"
-        },
-        {
-          "name": "No ID",
-          "url": "https://open.spotify.com/artist/4TNLCgKNImRbj2bb7g52wH"
-        },
-        {
-          "name": "Madison McFerrin",
-          "url": "https://open.spotify.com/artist/02zPEtdzUWnPToEVLRiQ7e"
-        },
-        {
-          "name": "Ogi",
-          "url": "https://open.spotify.com/artist/60nDKjd690Luygtd3Fm0Cu"
-        },
-        {
-          "name": "Jordan Ward",
-          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
-        }
-      ],
-      "duration_ms": 189746,
-      "name": "head.rap (ft. Madison McFerrin, Ogi, Jordan Ward)",
-      "url": "https://open.spotify.com/track/5RlDYfphEpQaft5JDQfQko"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "Neverender",
-        "url": "https://open.spotify.com/album/6UGnOHEJZT6AkVXrtgcP0u"
-      },
-      "artists": [
-        {
-          "name": "Justice",
-          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
-        },
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 266493,
-      "name": "Neverender",
-      "url": "https://open.spotify.com/track/0ccoGCaOFCxI6pHixrQpKj"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "EXIT 9 (with Blxst and Offset)",
-        "url": "https://open.spotify.com/album/3DAkWjDTQOieiModXxLIUl"
-      },
-      "artists": [
-        {
-          "name": "Killer Mike",
-          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
-        },
-        {
-          "name": "Blxst",
-          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
-        },
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        }
-      ],
-      "duration_ms": 210229,
-      "name": "EXIT 9 - with Blxst and Offset",
-      "url": "https://open.spotify.com/track/542Yp18797lywr3zZTG2sC"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "Stay Awhile",
-        "url": "https://open.spotify.com/album/0tfkIiHMLsE0aJTR38Yq6i"
-      },
-      "artists": [
-        {
-          "name": "Foggieraw",
-          "url": "https://open.spotify.com/artist/1dbTwUlL11ZYdC1YAR07AM"
-        },
-        {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
-        }
-      ],
-      "duration_ms": 240106,
-      "name": "Stay Awhile (feat. Ari Lennox)",
-      "url": "https://open.spotify.com/track/0AXquxdT6Twsrc0qIYXbJd"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "Love You All the Same",
-        "url": "https://open.spotify.com/album/6YaC3VqjVjUUDHPAdIIH2i"
-      },
-      "artists": [
-        {
-          "name": "Vansire",
-          "url": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
-        }
-      ],
-      "duration_ms": 190874,
-      "name": "Love You All the Same",
-      "url": "https://open.spotify.com/track/5OcMr7iSTuJipMphuLu06R"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "D'o\u00f9 je viens",
-        "url": "https://open.spotify.com/album/3wdFp7TmiiUkKllqUl1pUd"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9phaz",
-          "url": "https://open.spotify.com/artist/4b97ZILz3BoTV7ACzCdOjJ"
-        },
-        {
-          "name": "MC Solaar",
-          "url": "https://open.spotify.com/artist/3nU8TSIICYDbUqRpJISTRE"
-        }
-      ],
-      "duration_ms": 175445,
-      "name": "Caroline 2.0",
-      "url": "https://open.spotify.com/track/4Exc4h0GYt7EHGe1apM5WO"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "Love & Service",
-        "url": "https://open.spotify.com/album/4VqbU9p2GFvSROUxEG585D"
-      },
-      "artists": [
-        {
-          "name": "Brother Ali",
-          "url": "https://open.spotify.com/artist/6CsleyOZtyt16saX8WhzDx"
-        },
-        {
-          "name": "unJUST",
-          "url": "https://open.spotify.com/artist/1oBNw3AgFohk2z2BjUka6u"
-        },
-        {
-          "name": "Casual",
-          "url": "https://open.spotify.com/artist/4OpQJMrOpOEYgYoU0Ihku3"
-        },
-        {
-          "name": "Aesop Rock",
-          "url": "https://open.spotify.com/artist/2fSaE6BXtQy0x7R7v9IOmZ"
-        }
-      ],
-      "duration_ms": 244043,
-      "name": "Manik",
-      "url": "https://open.spotify.com/track/3ptOM6ofoPCbS4SowH8zd4"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "I Need It (feat. Syd & Tank)",
-        "url": "https://open.spotify.com/album/2rsp9SfNHnsTgdtBVfNXlG"
-      },
-      "artists": [
-        {
-          "name": "Camper",
-          "url": "https://open.spotify.com/artist/6LRKiJQwBb8A9iukQsyglp"
-        },
-        {
-          "name": "Syd",
-          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
-        },
-        {
-          "name": "Tank",
-          "url": "https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l"
-        }
-      ],
-      "duration_ms": 224516,
-      "name": "I Need It (feat. Syd & Tank)",
-      "url": "https://open.spotify.com/track/0cqy3SDGmrYNND6Ej2Il0q"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "Wish Me Well 2 (Sped Up)",
-        "url": "https://open.spotify.com/album/000WxMNrB3vWlfgqZkOVXB"
-      },
-      "artists": [
-        {
-          "name": "YFN Lucci",
-          "url": "https://open.spotify.com/artist/5Berubt6ysOy2LCMyqhmXP"
-        },
-        {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        },
-        {
-          "name": "Trouble",
-          "url": "https://open.spotify.com/artist/0701LAQrkY5Il5vt06uNnC"
-        }
-      ],
-      "duration_ms": 240130,
-      "name": "Key to the Streets (feat. Migos & Trouble) - Sped Up",
-      "url": "https://open.spotify.com/track/3m9jjMhcXhUVQ6S7uL5qhQ"
     }
   ],
   "unique_name": "Release Radar (@ajcooke94)",

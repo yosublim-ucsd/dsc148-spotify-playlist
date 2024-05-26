@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PKX5dyBKeq.md) - [plain]
 
 > The Best of Hip\-Hop, Rap and Drill from the UK\. Cover: K\-Trap
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,367,440 likes - 62 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,367,566 likes - 62 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

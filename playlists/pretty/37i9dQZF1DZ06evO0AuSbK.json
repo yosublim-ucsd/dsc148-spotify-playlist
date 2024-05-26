@@ -1,13 +1,29 @@
 {
-  "description": "This is Limp Bizkit. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 389091,
+  "description": "This is Limp Bizkit. The essential tracks, all in one playlist.",
+  "num_followers": 389208,
   "original_name": "This Is Limp Bizkit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zk6HAAAAAABHgZCx5+oijAxlgNfckjfv",
+  "snapshot_id": "Zk/YgAAAAADnv5KA3DrA6HUa+h6leyOn",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Significant Other",
+        "url": "https://open.spotify.com/album/3HCCUaRSjHSFOe4fqE0BiP"
+      },
+      "artists": [
+        {
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        }
+      ],
+      "duration_ms": 166706,
+      "name": "Break Stuff",
+      "url": "https://open.spotify.com/track/5cZqsjVs6MevCnAkasbEOX"
+    },
     {
       "added_at": null,
       "album": {
@@ -84,9 +100,9 @@
           "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
         }
       ],
-      "duration_ms": 221000,
-      "name": "My Generation",
-      "url": "https://open.spotify.com/track/6holGuk1jKHTdWyWBOZi8l"
+      "duration_ms": 321040,
+      "name": "Take A Look Around",
+      "url": "https://open.spotify.com/track/2avKuMN2QXkaG9vvHa2JLt"
     },
     {
       "added_at": null,
@@ -152,9 +168,9 @@
           "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
         }
       ],
-      "duration_ms": 230240,
-      "name": "Hot Dog",
-      "url": "https://open.spotify.com/track/6Zj3YsYfj8YTY9aGMDnpn8"
+      "duration_ms": 221000,
+      "name": "My Generation",
+      "url": "https://open.spotify.com/track/6holGuk1jKHTdWyWBOZi8l"
     },
     {
       "added_at": null,
@@ -216,9 +232,9 @@
           "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
         }
       ],
-      "duration_ms": 264040,
-      "name": "Livin' It Up",
-      "url": "https://open.spotify.com/track/0QepvU0N2fC2B5uIPafO1q"
+      "duration_ms": 230240,
+      "name": "Hot Dog",
+      "url": "https://open.spotify.com/track/6Zj3YsYfj8YTY9aGMDnpn8"
     },
     {
       "added_at": null,
@@ -280,9 +296,9 @@
           "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
         }
       ],
-      "duration_ms": 247360,
-      "name": "Full Nelson",
-      "url": "https://open.spotify.com/track/6YU556RBcA4js0poLlP8Cu"
+      "duration_ms": 264040,
+      "name": "Livin' It Up",
+      "url": "https://open.spotify.com/track/0QepvU0N2fC2B5uIPafO1q"
     },
     {
       "added_at": null,
@@ -344,9 +360,9 @@
           "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
         }
       ],
-      "duration_ms": 306226,
-      "name": "It'll Be OK",
-      "url": "https://open.spotify.com/track/5QYwIidpvmcqBWYx6hy8AT"
+      "duration_ms": 247360,
+      "name": "Full Nelson",
+      "url": "https://open.spotify.com/track/6YU556RBcA4js0poLlP8Cu"
     },
     {
       "added_at": null,
@@ -431,8 +447,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Significant Other",
-        "url": "https://open.spotify.com/album/3HCCUaRSjHSFOe4fqE0BiP"
+        "name": "Gold Cobra (Deluxe)",
+        "url": "https://open.spotify.com/album/5SWyjakBNg9n0JpnHaQQSI"
       },
       "artists": [
         {
@@ -440,9 +456,9 @@
           "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
         }
       ],
-      "duration_ms": 276093,
-      "name": "9 Teen 90 Nine",
-      "url": "https://open.spotify.com/track/6XZYUvrAP4JabmdmL4elpz"
+      "duration_ms": 272906,
+      "name": "Shotgun",
+      "url": "https://open.spotify.com/track/4H5tQdRchZaGpwoz56qRQa"
     },
     {
       "added_at": null,
@@ -463,8 +479,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gold Cobra (Deluxe)",
-        "url": "https://open.spotify.com/album/5SWyjakBNg9n0JpnHaQQSI"
+        "name": "STILL SUCKS",
+        "url": "https://open.spotify.com/album/2lZ9RqGnGXH8gtH3DK02tJ"
       },
       "artists": [
         {
@@ -472,9 +488,9 @@
           "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
         }
       ],
-      "duration_ms": 272906,
-      "name": "Shotgun",
-      "url": "https://open.spotify.com/track/4H5tQdRchZaGpwoz56qRQa"
+      "duration_ms": 175203,
+      "name": "Don't Change",
+      "url": "https://open.spotify.com/track/6do9iwoqKRIvEvRTsXlOoZ"
     },
     {
       "added_at": null,
@@ -495,8 +511,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "STILL SUCKS",
-        "url": "https://open.spotify.com/album/2lZ9RqGnGXH8gtH3DK02tJ"
+        "name": "Gold Cobra (Deluxe)",
+        "url": "https://open.spotify.com/album/5SWyjakBNg9n0JpnHaQQSI"
       },
       "artists": [
         {
@@ -504,9 +520,9 @@
           "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
         }
       ],
-      "duration_ms": 175203,
-      "name": "Don't Change",
-      "url": "https://open.spotify.com/track/6do9iwoqKRIvEvRTsXlOoZ"
+      "duration_ms": 206626,
+      "name": "Shark Attack",
+      "url": "https://open.spotify.com/track/1oQIVInvZ4e92v1bOzrUgD"
     },
     {
       "added_at": null,
@@ -523,22 +539,6 @@
       "duration_ms": 236733,
       "name": "Build A Bridge",
       "url": "https://open.spotify.com/track/4qWOEeCDVLZPXGzgxE8F7D"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gold Cobra (Deluxe)",
-        "url": "https://open.spotify.com/album/5SWyjakBNg9n0JpnHaQQSI"
-      },
-      "artists": [
-        {
-          "name": "Limp Bizkit",
-          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
-        }
-      ],
-      "duration_ms": 206626,
-      "name": "Shark Attack",
-      "url": "https://open.spotify.com/track/1oQIVInvZ4e92v1bOzrUgD"
     },
     {
       "added_at": null,
@@ -575,22 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "STILL SUCKS",
-        "url": "https://open.spotify.com/album/2lZ9RqGnGXH8gtH3DK02tJ"
-      },
-      "artists": [
-        {
-          "name": "Limp Bizkit",
-          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
-        }
-      ],
-      "duration_ms": 112821,
-      "name": "Empty Hole",
-      "url": "https://open.spotify.com/track/2ISetzZ91WX6szLgyfNQOV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gold Cobra (Deluxe)",
         "url": "https://open.spotify.com/album/5SWyjakBNg9n0JpnHaQQSI"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 222186,
       "name": "Douche Bag",
       "url": "https://open.spotify.com/track/02feeh3yjDZDXEOXiVh96S"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "STILL SUCKS",
+        "url": "https://open.spotify.com/album/2lZ9RqGnGXH8gtH3DK02tJ"
+      },
+      "artists": [
+        {
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        }
+      ],
+      "duration_ms": 112821,
+      "name": "Empty Hole",
+      "url": "https://open.spotify.com/track/2ISetzZ91WX6szLgyfNQOV"
     },
     {
       "added_at": null,
@@ -639,22 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Unquestionable Truth (Pt. 1)",
-        "url": "https://open.spotify.com/album/0VsNR8ay7aO8DQGNng2Fko"
-      },
-      "artists": [
-        {
-          "name": "Limp Bizkit",
-          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
-        }
-      ],
-      "duration_ms": 229573,
-      "name": "The Story",
-      "url": "https://open.spotify.com/track/3fCk6T2IJsMVEZ45079urc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gold Cobra (Deluxe)",
         "url": "https://open.spotify.com/album/5SWyjakBNg9n0JpnHaQQSI"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 285573,
       "name": "Walking Away",
       "url": "https://open.spotify.com/track/6cUABkGFq0f8hBZZCUBX4Q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Unquestionable Truth (Pt. 1)",
+        "url": "https://open.spotify.com/album/0VsNR8ay7aO8DQGNng2Fko"
+      },
+      "artists": [
+        {
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        }
+      ],
+      "duration_ms": 229573,
+      "name": "The Story",
+      "url": "https://open.spotify.com/track/3fCk6T2IJsMVEZ45079urc"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUWbdikWtt34.md) - [plain]
 
 > Dendang Dangdut teratas\. Cover: Abi Rafdi
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,152 likes - 86 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,184 likes - 86 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

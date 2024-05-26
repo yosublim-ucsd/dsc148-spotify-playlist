@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > SANTA au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 348,043 likes - 73 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 348,052 likes - 73 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 68 | [Thank You for Leaving](https://open.spotify.com/track/6PyZoxxYmlZpXprkGuErY6) | [Sports](https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K), [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Thank You for Leaving](https://open.spotify.com/album/2eMBvvLGZB3gIefvuMziYY) | 3:17 |
 | 69 | [On My Mind](https://open.spotify.com/track/1Pk2uI83Kn27uZrl8Ftkup) | [Cedric Gervais](https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724) | [On My Mind](https://open.spotify.com/album/5XTrhUxnjd147ibNZfUtcY) | 2:55 |
 | 70 | [Le plissement de l'œil](https://open.spotify.com/track/5wDzC5m0tWKc9EZEiZGIyB) | [Sylvain Duthu](https://open.spotify.com/artist/7mlvN5fTEjTUBLuUbUPpW6) | [Le plissement de l’œil](https://open.spotify.com/album/4K8z8OC3i579s9RjArLw3K) | 3:20 |
-| 71 | [maba](https://open.spotify.com/track/1WAu4FuO9E0WLO0KOgM6tn) | [Pastel](https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO) | [baia do samba](https://open.spotify.com/album/54QxK9lt7vD0OihBsB8QvG) | 3:10 |
+| 71 | [maba](https://open.spotify.com/track/1WAu4FuO9E0WLO0KOgM6tn) | [Pastel](https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO) | [baía do samba](https://open.spotify.com/album/54QxK9lt7vD0OihBsB8QvG) | 3:10 |
 | 72 | [SI NO ES CONTIGO](https://open.spotify.com/track/5Uptvz6j1sjDKxidAcnH2L) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [SI NO ES CONTIGO](https://open.spotify.com/album/4ecjQGViGCD4snnZ3QJOEL) | 2:36 |
 | 73 | [Mash Up the Place](https://open.spotify.com/track/0jQHrlDC5grHAyLH6rexfM) | [DOPAMOON](https://open.spotify.com/artist/5vNhYUKZMEv2QMJXY7IPTK), [Soom T](https://open.spotify.com/artist/0Rb6PZXrcxvzixAwZwFmMu) | [DOPALOVA](https://open.spotify.com/album/3795haBr2nWCgRPAniwZ9J) | 4:19 |
 

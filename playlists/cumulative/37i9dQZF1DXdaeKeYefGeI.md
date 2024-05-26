@@ -2,7 +2,7 @@
 
 ### [Mooi Nederlands](https://open.spotify.com/playlist/37i9dQZF1DXdaeKeYefGeI)
 
-> Wat kan het Nederlands toch mooi zijn\. Cover: Simon Keizer
+> Wat kan het Nederlands toch mooi zijn\. Cover: Herman van Veen
 
 165 songs - 10 hr 14 min
 

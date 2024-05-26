@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTuEPedcYvVB.md) - [plain]
 
 > The official playlist for Top Boy\. Watch the final season on Netflix
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,022 likes - 77 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,057 likes - 77 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTuEPedcYvVB.md) - [plain]
 | 67 | [Let My People Go](https://open.spotify.com/track/260FtPzhpH7A0473nrMZ8R) | [Darondo](https://open.spotify.com/artist/4JfFdF9Row7UXtdsKtT6tc) | [Let My People Go](https://open.spotify.com/album/3nD9Oab8M4sCLNmqmwSOdA) | 3:58 |
 | 68 | [Wana](https://open.spotify.com/track/0JggYhzdak2vD47gkP9K4U) | [Leil](https://open.spotify.com/artist/1qSYFEqGFLFOACQJqebin3) | [Wana](https://open.spotify.com/album/0bY1O5psyu1iG4NtHqQqZn) | 2:36 |
 | 69 | [Mañana](https://open.spotify.com/track/1VNqecx3k8nGWaCorq2QNZ) | [Radio Tarifa](https://open.spotify.com/artist/66fSx6FKclyaS6PUYx23ee) | [Rumba Argelina](https://open.spotify.com/album/02G4K8LFZciEEnmqFNtZcG) | 3:40 |
-| 70 | [Otis](https://open.spotify.com/track/7A2yhrdnFspRjpX8RC8UW1) | [The Durutti Column](https://open.spotify.com/artist/7fh7bwX9qV60tLxxsp9bTe) | [Vini Reilly](https://open.spotify.com/album/4nKBqIL9jq9TCTRYoZAykx) | 4:17 |
+| 70 | [Otis \- 2024 Remaster](https://open.spotify.com/track/7A2yhrdnFspRjpX8RC8UW1) | [The Durutti Column](https://open.spotify.com/artist/7fh7bwX9qV60tLxxsp9bTe) | [Vini Reilly](https://open.spotify.com/album/4nKBqIL9jq9TCTRYoZAykx) | 4:17 |
 | 71 | [Forget Me](https://open.spotify.com/track/0DbGuU3KHbTig1AWT8sTez) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [The ExPerience](https://open.spotify.com/album/3fijbBVRaz2CUyoWAV1ZlK) | 3:51 |
 | 72 | [Have Some Mercy](https://open.spotify.com/track/5fFldZH5U1NE6sQgvydV7Q) | [Delroy Wilson](https://open.spotify.com/artist/10j5vcbnSBWXZ1WYyv2a2D) | [The Reggae Artists Gallery](https://open.spotify.com/album/484PIE4qtnUpm7XUiDLumm) | 3:28 |
 | 73 | [Heart\-Shaped Smoke Rings](https://open.spotify.com/track/4akzeLDcfAo2O42aOEU1oZ) | [Antonia Carrena](https://open.spotify.com/artist/4wyIlKQECWBUoIIVT7cUUx) | [Heart\-Shaped Smoke Rings](https://open.spotify.com/album/1kr4XrDEINDyLjYoKKeXZL) | 4:07 |

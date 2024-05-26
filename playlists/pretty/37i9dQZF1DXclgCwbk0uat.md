@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXclgCwbk0uat.md) - [plain]
 
 > ¡Escucha los éxitos de hoy! <br/>Foto: FloyyMenor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,962,319 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,962,546 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXclgCwbk0uat.md) - [plain]
 | 24 | [Bendito \(Soundtrack Baby Bandito: La Serie\)](https://open.spotify.com/track/0sX1JCSfCemDJe8qK6CGeL) | [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb) | [Bendito \(Soundtrack Baby Bandito: La Serie\)](https://open.spotify.com/album/1ji1ML1G1fSvQDckKxSajC) | 2:39 |
 | 25 | [Vida Peligrosa](https://open.spotify.com/track/5b0lXK1WJTKkDGbWlImwSb) | [Standly](https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz) | [Vida Peligrosa](https://open.spotify.com/album/4rcHPUrI45fiiI02zqUZXa) | 2:46 |
 | 26 | [KE MAL](https://open.spotify.com/track/47M1C7HdqcWaU5jfN2VCLZ) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Mateo on the Beatz](https://open.spotify.com/artist/07WSqyexqFJM0ZeQVPqJJg) | [ÉNFASIS](https://open.spotify.com/album/3Yg6mB7aDyVFTZBMcJPG5B) | 2:05 |
-| 27 | [Avísame](https://open.spotify.com/track/55eG1F2xukyOGAkaNAG4MQ) | [Lucky Brown](https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM), [Ness](https://open.spotify.com/artist/6r20N9knjoQP5oIgs0wtxe) | [Avísame](https://open.spotify.com/album/0DDsewH4eZDjasZLoPgWkn) | 2:43 |
+| 27 | [Avísame](https://open.spotify.com/track/55eG1F2xukyOGAkaNAG4MQ) | [Lucky Brown](https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM), [Nes](https://open.spotify.com/artist/3dC19P4w1BbDuwCailjybv) | [Avísame](https://open.spotify.com/album/0DDsewH4eZDjasZLoPgWkn) | 2:43 |
 | 28 | [Cora Roto](https://open.spotify.com/track/35fSKiaVknkbEBJxvqKuHU) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb) | [Cora Roto](https://open.spotify.com/album/0kuwC399JZDrmSjbGa6nCl) | 3:37 |
 | 29 | [NO HAY 14F](https://open.spotify.com/track/5KCyauWkzy7fF9KU3hKE1H) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9) | [NO HAY 14F](https://open.spotify.com/album/3rolYL8OssuXAYSQ6sAyYA) | 2:02 |
 | 30 | [Daytona](https://open.spotify.com/track/2kvpHbQHp9QmcG9WhyLwco) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Partyson](https://open.spotify.com/album/5v3JncpvWjEDrGDeHJw9TL) | 2:53 |

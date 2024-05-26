@@ -234,6 +234,24 @@
     {
       "album": {
         "name": "Eno (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3aPERwmFrLzH0mE8G95UHU"
+      },
+      "artists": [
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "date_added": "2024-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232093,
+      "name": "All I Remember",
+      "url": "https://open.spotify.com/track/1AkWtJQjphlvoZ3DvLQCrZ"
+    },
+    {
+      "album": {
+        "name": "Eno (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3V8Pq41a9O51zH10UfXGUs"
       },
       "artists": [
@@ -1408,7 +1426,7 @@
       ],
       "date_added": "2024-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-26",
       "duration_ms": 84813,
       "name": "Inland Sea - Remastered 2005",
       "url": "https://open.spotify.com/track/6BifiuqnYOsOtb3QaLGJ65"
@@ -1948,7 +1966,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-26",
       "duration_ms": 230853,
       "name": "Not Yet Remembered - Remastered 2004",
       "url": "https://open.spotify.com/track/1kxf6rOZTJh2rVMIqkMpFm"
@@ -2690,7 +2708,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-25",
+      "date_removed": null,
       "duration_ms": 133706,
       "name": "The Chill Air - Remastered 2004",
       "url": "https://open.spotify.com/track/1ijeMou08IoCT7ZhjPvu42"
@@ -3152,6 +3170,32 @@
       "duration_ms": 275186,
       "name": "Weightless - Remastered 2005",
       "url": "https://open.spotify.com/track/64Rc8eAYEcIVK486usaKtb"
+    },
+    {
+      "album": {
+        "name": "Sushi. Roti. Reibekuchen",
+        "url": "https://open.spotify.com/album/1VYhNbORsuEU7WX7l065R9"
+      },
+      "artists": [
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        },
+        {
+          "name": "Holger Czukay",
+          "url": "https://open.spotify.com/artist/58nPlJ5CNYu0nGLOuE1Uuk"
+        },
+        {
+          "name": "J.Peter Schwalm",
+          "url": "https://open.spotify.com/artist/3aBB4DpB9xCQldKQtDy63P"
+        }
+      ],
+      "date_added": "2024-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 416060,
+      "name": "Wein",
+      "url": "https://open.spotify.com/track/1cPIOYrTA4oEaZgE77yUko"
     },
     {
       "album": {

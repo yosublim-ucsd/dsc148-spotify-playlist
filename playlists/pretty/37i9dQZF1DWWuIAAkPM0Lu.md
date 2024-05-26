@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > <a href="spotify:track:3CDYrDINLxRhjvvqbSaryC">Blåregn</a> i et <a href="spotify:track:1eA6vc394WJF2l4lHLqJ2B">Dark Room</a> tager dig <a href="spotify:track:62Du6R05e0d5nZ4IUVBaqf">VERDEN RUNDT</a> på <a href="spotify:track:7jxowF3F2CJoEjoX8P8Hl7">Dopa min</a> det er <a href="spotify:track:58Jj3c8s3JHbHw424dK2bv">10/10</a> denne fredag på New Music Friday 😮‍💨
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,044 likes - 107 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,053 likes - 107 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 21 | [SAMME VEJ \(feat\. Artigeardit & Barbara Moleko\)](https://open.spotify.com/track/18pY9lRsEigm9yDWpfp56z) | [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6), [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk), [Barbara Moleko](https://open.spotify.com/artist/5G6LaA5I0P51M49dzJV5k3) | [BABA BUSINESS 3](https://open.spotify.com/album/16y1M4Dnrqiodnk8KvRhLf) | 2:44 |
 | 22 | [Flava \(feat\. Coi Leray\)](https://open.spotify.com/track/3VDpWtgUilVuM2WICHgr9n) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Never Gets Late Here](https://open.spotify.com/album/2wkK1n9m6c7OutXRgtvVsz) | 2:44 |
 | 23 | [Slem](https://open.spotify.com/track/7GXQNcXXlYvyMiDHZGNjCS) | [ARO](https://open.spotify.com/artist/23VrCAKZBhCMC1P3Q8p4xL) | [Slem](https://open.spotify.com/album/4SVtqXHtcZrZ8rKWujxHps) | 2:09 |
-| 24 | [FLASKEHALSEN PEGER PÅ](https://open.spotify.com/track/3PDinFbvbbjINdvPdNWchh) | [HUGORM](https://open.spotify.com/artist/2MaqdTB8EUuYLUPDJipWG2) | [FLASKEHALSEN PEGER PÅ HVAD FLASKEHALSEN PEGER PÅ](https://open.spotify.com/album/0naEZTarxsHYQUU3dituRU) | 3:05 |
+| 24 | [FLASKEHALSEN PEGER PÅ HVAD FLASKEHALSEN PEGER PÅ](https://open.spotify.com/track/3PDinFbvbbjINdvPdNWchh) | [HUGORM](https://open.spotify.com/artist/2MaqdTB8EUuYLUPDJipWG2) | [FLASKEHALSEN PEGER PÅ HVAD FLASKEHALSEN PEGER PÅ](https://open.spotify.com/album/0naEZTarxsHYQUU3dituRU) | 3:05 |
 | 25 | [Bad Design](https://open.spotify.com/track/0XkBugpyGIXuuwJFF02na3) | [School of X](https://open.spotify.com/artist/4VL17UwE7ktJcG04WdbR9B) | [Bad Design](https://open.spotify.com/album/37T2ewiY7bObHr7M8T3o6t) | 3:18 |
 | 26 | [Føle Noget](https://open.spotify.com/track/1RoFnPjnRqEBmVKPRsW3qk) | [Bastian Bertelsen](https://open.spotify.com/artist/5mFvYDnHT7e4VcSxRFUD0F) | [Føle Noget](https://open.spotify.com/album/3xQFiArT8dsyekWhBEcltZ) | 3:01 |
 | 27 | [Siger Det Ik'](https://open.spotify.com/track/0A4EXxKqR3WSfft3rwFeHU) | [UNG\-SKAB](https://open.spotify.com/artist/7JfoyGGsFgGPfhgfPvpqk8) | [Siger Det Ik'](https://open.spotify.com/album/1hdjh1iAjtRzAwKfy8LMO8) | 2:48 |

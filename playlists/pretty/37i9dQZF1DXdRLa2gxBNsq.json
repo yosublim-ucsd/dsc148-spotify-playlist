@@ -1,6 +1,6 @@
 {
   "description": "No, el punk espa\u00f1ol NO EST\u00c1 MUERTO. Foto: Soziedad Alkoholika.",
-  "num_followers": 103798,
+  "num_followers": 103820,
   "original_name": "Punk Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -691,18 +691,22 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "C\u00f3mo Convertirse en Nada",
-        "url": "https://open.spotify.com/album/0W02GXYGmc4BrcAEH1mlJq"
+        "name": "Corona de Espinas",
+        "url": "https://open.spotify.com/album/5eFZW2T1SMudjllwNJVzkB"
       },
       "artists": [
         {
-          "name": "Gatillazo",
-          "url": "https://open.spotify.com/artist/3XrunnoiCGkRTanrnsPRam"
+          "name": "Bihotza",
+          "url": "https://open.spotify.com/artist/1aIFr0WatL4gF7dpeb168w"
+        },
+        {
+          "name": "Calero LDN",
+          "url": "https://open.spotify.com/artist/0VD8vX2wvCYYD0SMFCZeRR"
         }
       ],
-      "duration_ms": 160253,
-      "name": "C\u00f3mo Convertirse en Nada",
-      "url": "https://open.spotify.com/track/7bZfAk1tgSGyIfpQZfOj3A"
+      "duration_ms": 217466,
+      "name": "Corona de Espinas",
+      "url": "https://open.spotify.com/track/42Xb3dYl5XRoD9PQMB8JUL"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -723,22 +727,18 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "Corona de Espinas",
-        "url": "https://open.spotify.com/album/5eFZW2T1SMudjllwNJVzkB"
+        "name": "C\u00f3mo Convertirse en Nada",
+        "url": "https://open.spotify.com/album/0W02GXYGmc4BrcAEH1mlJq"
       },
       "artists": [
         {
-          "name": "Bihotza",
-          "url": "https://open.spotify.com/artist/1aIFr0WatL4gF7dpeb168w"
-        },
-        {
-          "name": "Calero LDN",
-          "url": "https://open.spotify.com/artist/0VD8vX2wvCYYD0SMFCZeRR"
+          "name": "Gatillazo",
+          "url": "https://open.spotify.com/artist/3XrunnoiCGkRTanrnsPRam"
         }
       ],
-      "duration_ms": 217466,
-      "name": "Corona de Espinas",
-      "url": "https://open.spotify.com/track/42Xb3dYl5XRoD9PQMB8JUL"
+      "duration_ms": 160253,
+      "name": "C\u00f3mo Convertirse en Nada",
+      "url": "https://open.spotify.com/track/7bZfAk1tgSGyIfpQZfOj3A"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -779,22 +779,6 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "No Hay Agua",
-        "url": "https://open.spotify.com/album/1apZlul36uZlJunetvaxoq"
-      },
-      "artists": [
-        {
-          "name": "Kaos Et\u00edliko",
-          "url": "https://open.spotify.com/artist/5y9aHzw345UfAGA1Db5BPy"
-        }
-      ],
-      "duration_ms": 124853,
-      "name": "Mi Mejor Colega - original",
-      "url": "https://open.spotify.com/track/4kzDs6iR4VsQnZhhrWHcOE"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
         "name": "El Mutante del Barrio Chino",
         "url": "https://open.spotify.com/album/0IzirXfpxJt753nbjyMV7j"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 192946,
       "name": "Empacho de Orfidal",
       "url": "https://open.spotify.com/track/6vbkhHC2YifNfPZFgRTmfs"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
+        "name": "No Hay Agua",
+        "url": "https://open.spotify.com/album/1apZlul36uZlJunetvaxoq"
+      },
+      "artists": [
+        {
+          "name": "Kaos Et\u00edliko",
+          "url": "https://open.spotify.com/artist/5y9aHzw345UfAGA1Db5BPy"
+        }
+      ],
+      "duration_ms": 124853,
+      "name": "Mi Mejor Colega - original",
+      "url": "https://open.spotify.com/track/4kzDs6iR4VsQnZhhrWHcOE"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -911,22 +911,6 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "Noche Molona",
-        "url": "https://open.spotify.com/album/0koYvQafHxEe9Eu8CcWTxU"
-      },
-      "artists": [
-        {
-          "name": "Tu Madre Es Puta",
-          "url": "https://open.spotify.com/artist/5SGCYqP9PN2R85WfA0yjPu"
-        }
-      ],
-      "duration_ms": 178393,
-      "name": "Noche Molona",
-      "url": "https://open.spotify.com/track/6rjOCHV71E19A3mq6I1ZzI"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
         "name": "La Historia se Repite",
         "url": "https://open.spotify.com/album/3lezYnTMMATl07wClgIcHg"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 130632,
       "name": "La Historia se Repite",
       "url": "https://open.spotify.com/track/4A2mcoje2LKC9ErsTl2vOj"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
+        "name": "Noche Molona",
+        "url": "https://open.spotify.com/album/0koYvQafHxEe9Eu8CcWTxU"
+      },
+      "artists": [
+        {
+          "name": "Tu Madre Es Puta",
+          "url": "https://open.spotify.com/artist/5SGCYqP9PN2R85WfA0yjPu"
+        }
+      ],
+      "duration_ms": 178393,
+      "name": "Noche Molona",
+      "url": "https://open.spotify.com/track/6rjOCHV71E19A3mq6I1ZzI"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
+        "name": "S\u00edganle compadres",
+        "url": "https://open.spotify.com/album/1AoAcFTJMxJSjxnXAecHZG"
+      },
+      "artists": [
+        {
+          "name": "Kojon Prieto y los Huajolotes",
+          "url": "https://open.spotify.com/artist/7JQaCBrVLPIjr2mZq2hx5h"
+        }
+      ],
+      "duration_ms": 155533,
+      "name": "Txus",
+      "url": "https://open.spotify.com/track/2PsfVFoxML7Cqa5E66GKO8"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
         "name": "Froil\u00e1n de Todos los Antros",
         "url": "https://open.spotify.com/album/0hhFWgkYXpVX1kFrmqksLE"
       },
@@ -1059,22 +1075,6 @@
       "duration_ms": 220488,
       "name": "Froil\u00e1n de Todos los Antros",
       "url": "https://open.spotify.com/track/2532AJjI6LDDL9Ybz8Sl7k"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
-        "name": "S\u00edganle compadres",
-        "url": "https://open.spotify.com/album/1AoAcFTJMxJSjxnXAecHZG"
-      },
-      "artists": [
-        {
-          "name": "Kojon Prieto y los Huajolotes",
-          "url": "https://open.spotify.com/artist/7JQaCBrVLPIjr2mZq2hx5h"
-        }
-      ],
-      "duration_ms": 155533,
-      "name": "Txus",
-      "url": "https://open.spotify.com/track/2PsfVFoxML7Cqa5E66GKO8"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
+        "name": "Nunca Deb\u00ed Hacerle un Fisting a Mi Abuelo (Remasterizado 2024)",
+        "url": "https://open.spotify.com/album/0MtOZdc0oNe7c8wKqQbGKc"
+      },
+      "artists": [
+        {
+          "name": "Tu Madre Es Puta",
+          "url": "https://open.spotify.com/artist/5SGCYqP9PN2R85WfA0yjPu"
+        }
+      ],
+      "duration_ms": 194577,
+      "name": "Cu\u00e9ntame (Remasterizado 2024)",
+      "url": "https://open.spotify.com/track/7tuSFD5EALm4yRxYRvtDxC"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
         "name": "El Infierno Es Demasiado Dulce",
         "url": "https://open.spotify.com/album/66xSqjqAaAlwUgaXEeQJmu"
       },
@@ -1315,22 +1331,6 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "Nunca Deb\u00ed Hacerle un Fisting a Mi Abuelo (Remasterizado 2024)",
-        "url": "https://open.spotify.com/album/0MtOZdc0oNe7c8wKqQbGKc"
-      },
-      "artists": [
-        {
-          "name": "Tu Madre Es Puta",
-          "url": "https://open.spotify.com/artist/5SGCYqP9PN2R85WfA0yjPu"
-        }
-      ],
-      "duration_ms": 194577,
-      "name": "Cu\u00e9ntame (Remasterizado 2024)",
-      "url": "https://open.spotify.com/track/7tuSFD5EALm4yRxYRvtDxC"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
         "name": "Cagaos",
         "url": "https://open.spotify.com/album/0QqTtUg9lUnYb9IXQJQ87K"
       },
@@ -1359,6 +1359,22 @@
       "duration_ms": 208341,
       "name": "He Visto",
       "url": "https://open.spotify.com/track/7caiZ8Vj8ouLzgDNfx2xZ0"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
+        "name": "Nunca Sabras Quien Soy",
+        "url": "https://open.spotify.com/album/2u1UPcsSEaNKKcCQzT6nBf"
+      },
+      "artists": [
+        {
+          "name": "El Kintano y la Venerea",
+          "url": "https://open.spotify.com/artist/2FfJRV2Xcm2F9HpWUTgpUh"
+        }
+      ],
+      "duration_ms": 149112,
+      "name": "Nunca Sabras Quien Soy",
+      "url": "https://open.spotify.com/track/3jfnIlPIMgU4dEyEkI5H2J"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -1395,34 +1411,18 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "Debilidades del Estado",
-        "url": "https://open.spotify.com/album/6bn15NVy3l8lYu42JsTAvJ"
+        "name": "Asesinos",
+        "url": "https://open.spotify.com/album/795sm61CeAsygXN9TlRnNc"
       },
       "artists": [
         {
-          "name": "Enga\u00f1o Manifiesto",
-          "url": "https://open.spotify.com/artist/0cnl8NwbODpVqEc5sUGT9c"
+          "name": "Manifa",
+          "url": "https://open.spotify.com/artist/7ynFnXnaMHYbTeT4JQ97tc"
         }
       ],
-      "duration_ms": 188062,
-      "name": "Debilidades del Estado",
-      "url": "https://open.spotify.com/track/1pgljjpKVwAebCL23kkm9J"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
-        "name": "Nunca Sabras Quien Soy",
-        "url": "https://open.spotify.com/album/2u1UPcsSEaNKKcCQzT6nBf"
-      },
-      "artists": [
-        {
-          "name": "El Kintano y la Venerea",
-          "url": "https://open.spotify.com/artist/2FfJRV2Xcm2F9HpWUTgpUh"
-        }
-      ],
-      "duration_ms": 149112,
-      "name": "Nunca Sabras Quien Soy",
-      "url": "https://open.spotify.com/track/3jfnIlPIMgU4dEyEkI5H2J"
+      "duration_ms": 176117,
+      "name": "Asesinos",
+      "url": "https://open.spotify.com/track/0CRt6D5Rvprkc7ldCixcSJ"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -1443,18 +1443,18 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "Asesinos",
-        "url": "https://open.spotify.com/album/795sm61CeAsygXN9TlRnNc"
+        "name": "Debilidades del Estado",
+        "url": "https://open.spotify.com/album/6bn15NVy3l8lYu42JsTAvJ"
       },
       "artists": [
         {
-          "name": "Manifa",
-          "url": "https://open.spotify.com/artist/7ynFnXnaMHYbTeT4JQ97tc"
+          "name": "Enga\u00f1o Manifiesto",
+          "url": "https://open.spotify.com/artist/0cnl8NwbODpVqEc5sUGT9c"
         }
       ],
-      "duration_ms": 176117,
-      "name": "Asesinos",
-      "url": "https://open.spotify.com/track/0CRt6D5Rvprkc7ldCixcSJ"
+      "duration_ms": 188062,
+      "name": "Debilidades del Estado",
+      "url": "https://open.spotify.com/track/1pgljjpKVwAebCL23kkm9J"
     },
     {
       "added_at": "2024-05-23 22:00:00",

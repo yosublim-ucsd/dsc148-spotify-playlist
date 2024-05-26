@@ -4,7 +4,7 @@
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: iii
 
-1,020 songs - 2 day 9 hr 42 min
+1,021 songs - 2 day 9 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -849,6 +849,7 @@
 | [換我](https://open.spotify.com/track/7IQiDM8vp4qPIMLtCgBO6U) | [KOWLOON K](https://open.spotify.com/artist/0hmfp5p9Xie3HMadrJbjFl) | [換我](https://open.spotify.com/album/0XLXFnADRmgz6ZiyAX6ou1) | 4:24 | 2022-05-26 | 2022-07-29 |
 | [擔遮要考牌 \(feat\. krizzzi\)](https://open.spotify.com/track/4LfVcVXLedvOIhSRJiA1nu) | [SoWhat](https://open.spotify.com/artist/2BBk96s2DUCSwIdaANtH9d), [krizzzi](https://open.spotify.com/artist/1N8S0OQkQl1A9SObdckDJG) | [擔遮要考牌 \(feat\. krizzzi\)](https://open.spotify.com/album/0Eg1rCFjXx1KRYtcM6Kenj) | 3:29 | 2022-11-10 | 2023-03-18 |
 | [支力會\(S\)](https://open.spotify.com/track/32d9V77uEwFJJkSgm2pgpU) | [薛晉寧](https://open.spotify.com/artist/51gtz3TwZi8vKNM74TVYdP) | [支力會\(S\)](https://open.spotify.com/album/5G63G72oiF8ggAEatxEcsu) | 2:30 | 2022-09-15 | 2022-11-04 |
+| [收皮](https://open.spotify.com/track/06fq4rnJDwcEg7PkeiG6fX) | [MelRose](https://open.spotify.com/artist/5cYQq8aJgT0gzFjfBjEn0X) | [收皮](https://open.spotify.com/album/0L2rGP8m6U8XcRZjurXA4S) | 3:05 | 2024-05-23 |  |
 | [敲門磚](https://open.spotify.com/track/1EbG25OYb6mf54tw30AzLV) | [Lay\-zG](https://open.spotify.com/artist/4NH6YkxBQW8mfgNLPwnzgE) | [敲門磚](https://open.spotify.com/album/5pongT1I4ceo9R7LfnZm5e) | 2:20 | 2023-12-28 | 2024-05-10 |
 | [數十晚](https://open.spotify.com/track/2PpOyjqnLSkT3iH6ukCG2x) | [Goochan](https://open.spotify.com/artist/1zn9DyqLyJO3M25GcVqnTn), [Byejack](https://open.spotify.com/artist/0yknwn0XnsbFLagS80AA0n) | [數十晚](https://open.spotify.com/album/6PFHAhK9sdtz19R2KjmxjQ) | 3:27 | 2023-12-14 | 2024-02-16 |
 | [新しい夢](https://open.spotify.com/track/6EiynkTuHZlV4pZNDa0gVs) | [乙女シンドリーム](https://open.spotify.com/artist/1Efsbqw7CE223XEihVWRFU) | [新しい夢/恋のおまじない我愛你](https://open.spotify.com/album/3YMFOov3nRBGTnyHj99NIC) | 3:47 | 2022-10-06 | 2023-03-18 |

@@ -1,12 +1,12 @@
 {
-  "description": "This is Heroes Del Silencio. The essential tracks, all in one playlist.",
-  "num_followers": 185425,
+  "description": "This Is Heroes Del Silencio. Los temas esenciales, todos en una lista.",
+  "num_followers": 185475,
   "original_name": "This Is Heroes Del Silencio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zk6HAAAAAAAuuU1DdQoBkAu3US+M23Am",
+  "snapshot_id": "Zk/YgAAAAAC45yPzsmdOQ6Kb/qFoC/m8",
   "tracks": [
     {
       "added_at": null,
@@ -91,8 +91,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Avalancha",
-        "url": "https://open.spotify.com/album/3AikSptzlt3YvobRSMqL68"
+        "name": "Avalancha- Edici\u00f3n Especial",
+        "url": "https://open.spotify.com/album/5e1v1vALoEYeOLFaFwmxi4"
       },
       "artists": [
         {
@@ -102,7 +102,7 @@
       ],
       "duration_ms": 327426,
       "name": "La chispa adecuada (Bendecida 3)",
-      "url": "https://open.spotify.com/track/4vkSJSyPddHwL7v3l1cuRf"
+      "url": "https://open.spotify.com/track/0JiwybZpLST3DzJawCbRtC"
     },
     {
       "added_at": null,
@@ -799,8 +799,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Avalancha- Edici\u00f3n Especial",
-        "url": "https://open.spotify.com/album/5e1v1vALoEYeOLFaFwmxi4"
+        "name": "Avalancha",
+        "url": "https://open.spotify.com/album/3AikSptzlt3YvobRSMqL68"
       },
       "artists": [
         {
@@ -808,9 +808,9 @@
           "url": "https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT"
         }
       ],
-      "duration_ms": 225226,
-      "name": "...Y para siempre",
-      "url": "https://open.spotify.com/track/6D7gPrYpET9NhpowaUFT2E"
+      "duration_ms": 245413,
+      "name": "Parasiempre",
+      "url": "https://open.spotify.com/track/60iCTsV9HhgNQ6p0reBXHb"
     }
   ],
   "unique_name": "This Is Heroes Del Silencio",

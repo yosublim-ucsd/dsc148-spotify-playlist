@@ -4,7 +4,7 @@
 
 > Deathcore Playlist
 
-248 songs - 17 hr 14 min
+249 songs - 17 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,6 +140,7 @@
 | [KXMA](https://open.spotify.com/track/3Nl88RPMTf4cR0Cvygk5cS) | [Esoteric Revelation](https://open.spotify.com/artist/2YY4SocEiypgscEgPu6mhc) | [KXMA](https://open.spotify.com/album/2F0qf4pBJBLci1xDAA9N2U) | 4:17 | 2021-03-29 |  |
 | [Lamb to the Slaughter](https://open.spotify.com/track/2PmKN9dJVJEwDuO9LI7AOs) | [Viscera](https://open.spotify.com/artist/4jBjMnUHg8VCv9HM7KKbFd) | [Lamb to the Slaughter](https://open.spotify.com/album/7G7lc2qjk47fMXGAYiec2n) | 3:50 | 2020-05-04 |  |
 | [Leech](https://open.spotify.com/track/42Y3xZXUDOfmekCgeXPhCY) | [Angelmaker](https://open.spotify.com/artist/1AdrYGYDz4oa9dvW2jfFrG) | [Dissentient](https://open.spotify.com/album/27uufl6AVc4WOxpFA2fB4I) | 4:45 | 2020-08-23 |  |
+| [Left to Rot](https://open.spotify.com/track/0QlbHPe8kBBGU89Z1TnMAc) | [Shores Of Lunacy](https://open.spotify.com/artist/6xXxjJWRStk7C6hteitGN1), [Alan Grnja](https://open.spotify.com/artist/4t1QdDQKUZ6OHw0ChpfM8L) | [Left to Rot](https://open.spotify.com/album/6jZQmfa8l5K6ublDx0S5my) | 4:49 | 2024-05-25 |  |
 | [Lords Of Misery](https://open.spotify.com/track/6d80TxEyLZPuNHCv4Zpfzi) | [The Archaic Epidemic](https://open.spotify.com/artist/5g1ErYWibd11yq9eJkL38l) | [Lords Of Misery](https://open.spotify.com/album/5647yGBCWG8zGrQSICe1sp) | 3:55 | 2022-07-11 |  |
 | [Lucid Reality](https://open.spotify.com/track/3KZ7kMSh6a2uVlW97WUvxT) | [Oceano](https://open.spotify.com/artist/79A0IUxQD9skV7LVjPq53s) | [Revelation](https://open.spotify.com/album/16lYcaCSr4VhnRpUvAgVbM) | 2:56 | 2018-07-22 |  |
 | [Lunacrium Thepsis](https://open.spotify.com/track/1Rnm9Ez0pGB3LUsb7EytYR) | [The Dark Alamorte](https://open.spotify.com/artist/3Sr4CCs7XORgQd5x28Zntg) | [Lunacrium Thepsis](https://open.spotify.com/album/5urPuNrw50fMxUg1fabgcZ) | 10:17 | 2022-07-11 |  |

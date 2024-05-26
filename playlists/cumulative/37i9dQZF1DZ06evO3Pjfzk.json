@@ -587,6 +587,28 @@
     },
     {
       "album": {
+        "name": "Refugee",
+        "url": "https://open.spotify.com/album/7snxpZlyi8B7T6dEi3zw1k"
+      },
+      "artists": [
+        {
+          "name": "Wynonna",
+          "url": "https://open.spotify.com/artist/4yiXkMbxDIZ3jgEG89NSC1"
+        },
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "date_added": "2024-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230630,
+      "name": "Refugee",
+      "url": "https://open.spotify.com/track/607QAv6xaTMW1tkjgx59JE"
+    },
+    {
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/5eByAKcHvykX4jCkS2004X"
       },

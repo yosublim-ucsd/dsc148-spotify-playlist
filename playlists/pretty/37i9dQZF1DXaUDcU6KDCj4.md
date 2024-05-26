@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Leif Vollebekk
 
-[Spotify](https://open.spotify.com/user/spotify) - 792,241 likes - 150 songs - 8 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 792,336 likes - 150 songs - 8 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 2 | [Moondog](https://open.spotify.com/track/1H26eTheLo3Flr7KIdtSce) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [Moondog](https://open.spotify.com/album/0C6QY4CHawH4KPL6GmeTnK) | 5:05 |
 | 3 | [Things we tell ourselves](https://open.spotify.com/track/2DDnaa3kJ3Roaetp3rp4IH) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Things we tell ourselves](https://open.spotify.com/album/5fXaL9txDchRpOIyQc8OKx) | 3:37 |
 | 4 | [There](https://open.spotify.com/track/2iEn2Hf3MRLnNzE1FV30SC) | [Wyatt C\. Louis](https://open.spotify.com/artist/0U2aokEQQSzyTcQdpC6DsB) | [Chandler](https://open.spotify.com/album/6n4MUgNl5I0ZndmMO3AaZV) | 3:11 |
-| 5 | [something i can't afford](https://open.spotify.com/track/5BZyKhuOTOp4ouVRkp15k7) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [something I can't afford \(Demo\)](https://open.spotify.com/album/4wn5IouuKlkr9rJfkkGx6n) | 3:01 |
+| 5 | [something i can't afford](https://open.spotify.com/track/5BZyKhuOTOp4ouVRkp15k7) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [something I can't afford](https://open.spotify.com/album/4wn5IouuKlkr9rJfkkGx6n) | 3:01 |
 | 6 | [I Am Awake](https://open.spotify.com/track/7bcv8aApb8NSddnutiSPYv) | [Bess Atwell](https://open.spotify.com/artist/6Pim5E5Lm03COsjHj2aEiK) | [Light Sleeper](https://open.spotify.com/album/4wmalPtenCERnePwFsCD99) | 3:04 |
 | 7 | [Rotten Mind](https://open.spotify.com/track/1RpSFK71zPBttHaOOABVAN) | [Fashion Club](https://open.spotify.com/artist/6IOqRJfqL3IKF8VkJzA3a3), [Julie Byrne](https://open.spotify.com/artist/10duXbKJkvdGK5RgktEnxV) | [Rotten Mind](https://open.spotify.com/album/1mFE1PCfN3ERsrNvMarAKq) | 3:17 |
 | 8 | [Dirt For A Dying Sun](https://open.spotify.com/track/6bNUJ3YNq5a4R3f7gfgZVp) | [The Dead Tongues](https://open.spotify.com/artist/5nM5pj6cEIkzCkwBJZibHK) | [Dirt For A Dying Sun](https://open.spotify.com/album/0SM7YHrCCgMqvXhad2zdWj) | 6:25 |

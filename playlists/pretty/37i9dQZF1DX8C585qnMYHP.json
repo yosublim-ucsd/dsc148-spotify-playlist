@@ -1,6 +1,6 @@
 {
   "description": "The best new music by Experimental independent artists and labels. Ozoyo on cover. Artwork by Thami Nabil",
-  "num_followers": 161618,
+  "num_followers": 161705,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
@@ -367,6 +367,22 @@
     {
       "added_at": "2024-05-08 03:43:46",
       "album": {
+        "name": "jacarandas",
+        "url": "https://open.spotify.com/album/71D7J3LYlSavHKexzYJrAa"
+      },
+      "artists": [
+        {
+          "name": "Joven Tom",
+          "url": "https://open.spotify.com/artist/1JSr283fyctRV2R4OER9gP"
+        }
+      ],
+      "duration_ms": 138480,
+      "name": "jacarandas",
+      "url": "https://open.spotify.com/track/75fBTxkwqSdGUUljwmPstY"
+    },
+    {
+      "added_at": "2024-05-08 03:43:46",
+      "album": {
         "name": "Derrwut",
         "url": "https://open.spotify.com/album/78l8Xlbky2z4MxW3Jml8b7"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 339125,
       "name": "Ros Elavy",
       "url": "https://open.spotify.com/track/7G7ZseAC0yA2tmojHC92no"
-    },
-    {
-      "added_at": "2024-05-08 03:43:46",
-      "album": {
-        "name": "jacarandas",
-        "url": "https://open.spotify.com/album/71D7J3LYlSavHKexzYJrAa"
-      },
-      "artists": [
-        {
-          "name": "Joven Tom",
-          "url": "https://open.spotify.com/artist/1JSr283fyctRV2R4OER9gP"
-        }
-      ],
-      "duration_ms": 138480,
-      "name": "jacarandas",
-      "url": "https://open.spotify.com/track/75fBTxkwqSdGUUljwmPstY"
     },
     {
       "added_at": "2024-04-17 04:00:00",
@@ -447,22 +447,6 @@
     {
       "added_at": "2024-05-08 03:43:46",
       "album": {
-        "name": "AMANECER",
-        "url": "https://open.spotify.com/album/1inF5EvaN9ugCIyw33Q1F5"
-      },
-      "artists": [
-        {
-          "name": "planta",
-          "url": "https://open.spotify.com/artist/5RdWxvvyhOcNMva8aeqb9E"
-        }
-      ],
-      "duration_ms": 181106,
-      "name": "AMANECER",
-      "url": "https://open.spotify.com/track/1DDqxK4J41BGZXavc4cSuh"
-    },
-    {
-      "added_at": "2024-05-08 03:43:46",
-      "album": {
         "name": "i've seen a way",
         "url": "https://open.spotify.com/album/4oMlaPrzjAHEHh26MkR6DB"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 256949,
       "name": "Injury Detail",
       "url": "https://open.spotify.com/track/5yVieAuVqsun1xDUcqipvb"
+    },
+    {
+      "added_at": "2024-05-08 03:43:46",
+      "album": {
+        "name": "AMANECER",
+        "url": "https://open.spotify.com/album/1inF5EvaN9ugCIyw33Q1F5"
+      },
+      "artists": [
+        {
+          "name": "planta",
+          "url": "https://open.spotify.com/artist/5RdWxvvyhOcNMva8aeqb9E"
+        }
+      ],
+      "duration_ms": 181106,
+      "name": "AMANECER",
+      "url": "https://open.spotify.com/track/1DDqxK4J41BGZXavc4cSuh"
     },
     {
       "added_at": "2024-03-13 03:47:45",
@@ -643,18 +643,18 @@
     {
       "added_at": "2024-03-06 06:00:00",
       "album": {
-        "name": "Tusi Ojos",
-        "url": "https://open.spotify.com/album/29XPHrDgT2OCW38k0CAdtj"
+        "name": "Extinct but Still Alive",
+        "url": "https://open.spotify.com/album/14I6Gw5HhfOCyDE3Jo9qMu"
       },
       "artists": [
         {
-          "name": "SoFTT",
-          "url": "https://open.spotify.com/artist/2gpYstJ2WNS3mNwzuyPOB2"
+          "name": "Mama Longhorn",
+          "url": "https://open.spotify.com/artist/52yqArRZhaFqgHfKw1dADh"
         }
       ],
-      "duration_ms": 272112,
-      "name": "Tusi Ojos",
-      "url": "https://open.spotify.com/track/5E32NyBpHy9VAiOAeF0qSX"
+      "duration_ms": 366000,
+      "name": "Rowing High Rowing Low",
+      "url": "https://open.spotify.com/track/0aWLipAcgGmCqDD2pQsCUp"
     },
     {
       "added_at": "2024-04-03 15:21:45",
@@ -675,18 +675,18 @@
     {
       "added_at": "2024-03-06 06:00:00",
       "album": {
-        "name": "Extinct but Still Alive",
-        "url": "https://open.spotify.com/album/14I6Gw5HhfOCyDE3Jo9qMu"
+        "name": "Tusi Ojos",
+        "url": "https://open.spotify.com/album/29XPHrDgT2OCW38k0CAdtj"
       },
       "artists": [
         {
-          "name": "Mama Longhorn",
-          "url": "https://open.spotify.com/artist/52yqArRZhaFqgHfKw1dADh"
+          "name": "SoFTT",
+          "url": "https://open.spotify.com/artist/2gpYstJ2WNS3mNwzuyPOB2"
         }
       ],
-      "duration_ms": 366000,
-      "name": "Rowing High Rowing Low",
-      "url": "https://open.spotify.com/track/0aWLipAcgGmCqDD2pQsCUp"
+      "duration_ms": 272112,
+      "name": "Tusi Ojos",
+      "url": "https://open.spotify.com/track/5E32NyBpHy9VAiOAeF0qSX"
     },
     {
       "added_at": "2024-05-08 03:43:46",
@@ -757,22 +757,6 @@
       "url": "https://open.spotify.com/track/4AX795lUNQjM1TcjdRDXh8"
     },
     {
-      "added_at": "2024-04-24 04:00:00",
-      "album": {
-        "name": "\u72c2\u60f3\u30fb\u672a\u6765\u30fb\u30ed\u30de\u30f3\u30c1\u30ab",
-        "url": "https://open.spotify.com/album/5rKypiGobuT88237XpiA26"
-      },
-      "artists": [
-        {
-          "name": "\u6b66\u7530\u7406\u6c99",
-          "url": "https://open.spotify.com/artist/6bxmnPmX3y00HkdYaJA697"
-        }
-      ],
-      "duration_ms": 447810,
-      "name": "\u72c2\u60f3\u30fb\u672a\u6765\u30fb\u30ed\u30de\u30f3\u30c1\u30ab",
-      "url": "https://open.spotify.com/track/5FqKkGaJsjzfqeMtSmSPSH"
-    },
-    {
       "added_at": "2024-03-06 06:00:00",
       "album": {
         "name": "Ignore",
@@ -805,6 +789,22 @@
       "url": "https://open.spotify.com/track/6gfuq5As90qxKATdrCeC8J"
     },
     {
+      "added_at": "2024-04-24 04:00:00",
+      "album": {
+        "name": "\u72c2\u60f3\u30fb\u672a\u6765\u30fb\u30ed\u30de\u30f3\u30c1\u30ab",
+        "url": "https://open.spotify.com/album/5rKypiGobuT88237XpiA26"
+      },
+      "artists": [
+        {
+          "name": "\u6b66\u7530\u7406\u6c99",
+          "url": "https://open.spotify.com/artist/6bxmnPmX3y00HkdYaJA697"
+        }
+      ],
+      "duration_ms": 447810,
+      "name": "\u72c2\u60f3\u30fb\u672a\u6765\u30fb\u30ed\u30de\u30f3\u30c1\u30ab",
+      "url": "https://open.spotify.com/track/5FqKkGaJsjzfqeMtSmSPSH"
+    },
+    {
       "added_at": "2024-03-06 06:00:00",
       "album": {
         "name": "Us, In Between The Blinded",
@@ -819,22 +819,6 @@
       "duration_ms": 157646,
       "name": "Virtual Forrest",
       "url": "https://open.spotify.com/track/6PpJalnvzcDyktxXalhaU4"
-    },
-    {
-      "added_at": "2024-03-06 06:00:00",
-      "album": {
-        "name": "onomatopoeia",
-        "url": "https://open.spotify.com/album/0lQlAKOAhIy3F5DXIbilmq"
-      },
-      "artists": [
-        {
-          "name": "J. Albert",
-          "url": "https://open.spotify.com/artist/0tjC8HMcPx5o2ZYsWw5BNK"
-        }
-      ],
-      "duration_ms": 269812,
-      "name": "tdU_du_tdu_tdu",
-      "url": "https://open.spotify.com/track/5CUYz3REql8VAN2FkrXq0t"
     },
     {
       "added_at": "2023-11-29 12:17:00",
@@ -853,6 +837,22 @@
       "url": "https://open.spotify.com/track/0FrvlXmxPAw4IieVlrUXWb"
     },
     {
+      "added_at": "2024-03-06 06:00:00",
+      "album": {
+        "name": "onomatopoeia",
+        "url": "https://open.spotify.com/album/0lQlAKOAhIy3F5DXIbilmq"
+      },
+      "artists": [
+        {
+          "name": "J. Albert",
+          "url": "https://open.spotify.com/artist/0tjC8HMcPx5o2ZYsWw5BNK"
+        }
+      ],
+      "duration_ms": 269812,
+      "name": "tdU_du_tdu_tdu",
+      "url": "https://open.spotify.com/track/5CUYz3REql8VAN2FkrXq0t"
+    },
+    {
       "added_at": "2024-05-08 03:43:46",
       "album": {
         "name": "Moriah Plaza",
@@ -867,6 +867,22 @@
       "duration_ms": 149626,
       "name": "Desendere\u00e7ada",
       "url": "https://open.spotify.com/track/5YB4GUHEoX2rMwseiRpdkG"
+    },
+    {
+      "added_at": "2024-01-24 03:58:32",
+      "album": {
+        "name": "Sweat",
+        "url": "https://open.spotify.com/album/6TuivlPWpQbbj5PZE2YF0J"
+      },
+      "artists": [
+        {
+          "name": "CVMILLE",
+          "url": "https://open.spotify.com/artist/5Lz2Klao37ArvAt73yMqNv"
+        }
+      ],
+      "duration_ms": 173525,
+      "name": "Sweat",
+      "url": "https://open.spotify.com/track/4qT64OAfg7BMxDPX1sEo2T"
     },
     {
       "added_at": "2024-05-01 17:01:23",
@@ -891,22 +907,6 @@
       "duration_ms": 234713,
       "name": "Algor Mortis",
       "url": "https://open.spotify.com/track/5m9aliUs9oOoUlII8rbv6U"
-    },
-    {
-      "added_at": "2024-01-24 03:58:32",
-      "album": {
-        "name": "Sweat",
-        "url": "https://open.spotify.com/album/6TuivlPWpQbbj5PZE2YF0J"
-      },
-      "artists": [
-        {
-          "name": "CVMILLE",
-          "url": "https://open.spotify.com/artist/5Lz2Klao37ArvAt73yMqNv"
-        }
-      ],
-      "duration_ms": 173525,
-      "name": "Sweat",
-      "url": "https://open.spotify.com/track/4qT64OAfg7BMxDPX1sEo2T"
     },
     {
       "added_at": "2023-11-29 12:17:00",
@@ -961,22 +961,6 @@
       "url": "https://open.spotify.com/track/6Ut4itwtkL9imP9esqJV0X"
     },
     {
-      "added_at": "2024-05-08 03:43:46",
-      "album": {
-        "name": "Miyazaki",
-        "url": "https://open.spotify.com/album/03NTSojv6yMN8w3lX9br2u"
-      },
-      "artists": [
-        {
-          "name": "Nike Polo",
-          "url": "https://open.spotify.com/artist/4RR6YWqLTPKGDgTLhgIMaZ"
-        }
-      ],
-      "duration_ms": 132005,
-      "name": "Miyazaki",
-      "url": "https://open.spotify.com/track/2v1PAU4jkaz6IKSYMP9GQ6"
-    },
-    {
       "added_at": "2024-03-06 06:00:00",
       "album": {
         "name": "Sampler 1 B1 (Regis Edit)",
@@ -999,6 +983,22 @@
       "duration_ms": 321082,
       "name": "Sampler 1 B1 - Regis Edit",
       "url": "https://open.spotify.com/track/3hJyVn1GKQthsNbg7rTwKx"
+    },
+    {
+      "added_at": "2024-05-08 03:43:46",
+      "album": {
+        "name": "Miyazaki",
+        "url": "https://open.spotify.com/album/03NTSojv6yMN8w3lX9br2u"
+      },
+      "artists": [
+        {
+          "name": "Nike Polo",
+          "url": "https://open.spotify.com/artist/4RR6YWqLTPKGDgTLhgIMaZ"
+        }
+      ],
+      "duration_ms": 132005,
+      "name": "Miyazaki",
+      "url": "https://open.spotify.com/track/2v1PAU4jkaz6IKSYMP9GQ6"
     },
     {
       "added_at": "2024-03-13 03:47:45",
@@ -1069,6 +1069,22 @@
       "url": "https://open.spotify.com/track/0DDzLY6OicdAntH1IRAlMm"
     },
     {
+      "added_at": "2024-03-06 06:00:00",
+      "album": {
+        "name": "Scorpion Deathlock",
+        "url": "https://open.spotify.com/album/1t5hEdGsyJsZaYqeeuq8fF"
+      },
+      "artists": [
+        {
+          "name": "The Golden Age of Wrestling",
+          "url": "https://open.spotify.com/artist/1oWYlDyBHWNG3jeilUrDwp"
+        }
+      ],
+      "duration_ms": 173226,
+      "name": "Ferrari Rocher",
+      "url": "https://open.spotify.com/track/7KFHq7A8fDPv3vzGDWJ7Tf"
+    },
+    {
       "added_at": "2024-01-24 03:58:32",
       "album": {
         "name": "something that lasts",
@@ -1091,22 +1107,6 @@
       "duration_ms": 238750,
       "name": "something that lasts",
       "url": "https://open.spotify.com/track/5HkMf5rorBI0pELgPbKmf9"
-    },
-    {
-      "added_at": "2024-03-06 06:00:00",
-      "album": {
-        "name": "Scorpion Deathlock",
-        "url": "https://open.spotify.com/album/1t5hEdGsyJsZaYqeeuq8fF"
-      },
-      "artists": [
-        {
-          "name": "The Golden Age of Wrestling",
-          "url": "https://open.spotify.com/artist/1oWYlDyBHWNG3jeilUrDwp"
-        }
-      ],
-      "duration_ms": 173226,
-      "name": "Ferrari Rocher",
-      "url": "https://open.spotify.com/track/7KFHq7A8fDPv3vzGDWJ7Tf"
     },
     {
       "added_at": "2024-03-06 06:00:00",
@@ -1325,22 +1325,6 @@
       "url": "https://open.spotify.com/track/6VmBlMV17gP8S8RllHickT"
     },
     {
-      "added_at": "2024-04-17 04:00:00",
-      "album": {
-        "name": "Unknown Fate",
-        "url": "https://open.spotify.com/album/2RL6cLU8jlrqJbuRlxlLao"
-      },
-      "artists": [
-        {
-          "name": "UF",
-          "url": "https://open.spotify.com/artist/4ZJC9cQW6rrinYxtHkyajd"
-        }
-      ],
-      "duration_ms": 210750,
-      "name": "Unknown Fate",
-      "url": "https://open.spotify.com/track/3RREDnjMKyXtH5dVwhlwHm"
-    },
-    {
       "added_at": "2024-04-03 15:21:45",
       "album": {
         "name": "PATTI SMITH",
@@ -1355,6 +1339,22 @@
       "duration_ms": 201759,
       "name": "PATTI SMITH",
       "url": "https://open.spotify.com/track/7FtjGAVTS5eIJWNpNQ5jaT"
+    },
+    {
+      "added_at": "2024-04-17 04:00:00",
+      "album": {
+        "name": "Unknown Fate",
+        "url": "https://open.spotify.com/album/2RL6cLU8jlrqJbuRlxlLao"
+      },
+      "artists": [
+        {
+          "name": "UF",
+          "url": "https://open.spotify.com/artist/4ZJC9cQW6rrinYxtHkyajd"
+        }
+      ],
+      "duration_ms": 210750,
+      "name": "Unknown Fate",
+      "url": "https://open.spotify.com/track/3RREDnjMKyXtH5dVwhlwHm"
     },
     {
       "added_at": "2024-03-20 13:59:17",
@@ -1581,22 +1581,6 @@
       "url": "https://open.spotify.com/track/1qIbIW1dPNEIB8enJh9QwD"
     },
     {
-      "added_at": "2024-03-06 06:00:00",
-      "album": {
-        "name": "Lose",
-        "url": "https://open.spotify.com/album/4ddL8UW6YILIWxd0g185KP"
-      },
-      "artists": [
-        {
-          "name": "Boeckner",
-          "url": "https://open.spotify.com/artist/1SdWYxZBt4RjvyXcMbtxyE"
-        }
-      ],
-      "duration_ms": 291037,
-      "name": "Lose",
-      "url": "https://open.spotify.com/track/729EJVbWkITU4vAc690cFE"
-    },
-    {
       "added_at": "2024-04-03 15:21:45",
       "album": {
         "name": "EXHALATION Vol.3 The Great Silence",
@@ -1611,6 +1595,22 @@
       "duration_ms": 315428,
       "name": "Dacey's Patent Automatic Nanny",
       "url": "https://open.spotify.com/track/2iEfmDxnxBtUShAQdNjErT"
+    },
+    {
+      "added_at": "2024-03-06 06:00:00",
+      "album": {
+        "name": "Lose",
+        "url": "https://open.spotify.com/album/4ddL8UW6YILIWxd0g185KP"
+      },
+      "artists": [
+        {
+          "name": "Boeckner",
+          "url": "https://open.spotify.com/artist/1SdWYxZBt4RjvyXcMbtxyE"
+        }
+      ],
+      "duration_ms": 291037,
+      "name": "Lose",
+      "url": "https://open.spotify.com/track/729EJVbWkITU4vAc690cFE"
     },
     {
       "added_at": "2024-01-10 20:04:58",

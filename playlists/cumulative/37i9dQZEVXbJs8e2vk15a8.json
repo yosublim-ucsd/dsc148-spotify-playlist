@@ -2674,7 +2674,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-26",
       "duration_ms": 247283,
       "name": "Am\u00e9monos a Escondidas - Remix",
       "url": "https://open.spotify.com/track/5vw1z1rlRtJ3P8FGnU2UcR"
@@ -3502,8 +3502,8 @@
           "url": "https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM"
         },
         {
-          "name": "Ness",
-          "url": "https://open.spotify.com/artist/6r20N9knjoQP5oIgs0wtxe"
+          "name": "Nes",
+          "url": "https://open.spotify.com/artist/3dC19P4w1BbDuwCailjybv"
         }
       ],
       "date_added": "2024-05-21",
@@ -9951,6 +9951,24 @@
     },
     {
       "album": {
+        "name": "Dime si t\u00fa",
+        "url": "https://open.spotify.com/album/4elgrLB2BRbKt9Nel9iVYW"
+      },
+      "artists": [
+        {
+          "name": "FERNANDA",
+          "url": "https://open.spotify.com/artist/5Pq2tlp3raiyOWjtdUxQv7"
+        }
+      ],
+      "date_added": "2024-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210266,
+      "name": "Dime si t\u00fa",
+      "url": "https://open.spotify.com/track/6JDLEc1Nr0uv0XQiOdnnOH"
+    },
+    {
+      "album": {
         "name": "Anti Social Cool Kid",
         "url": "https://open.spotify.com/album/6pisGd3CugRqlclq4yp308"
       },
@@ -11338,7 +11356,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-26",
       "duration_ms": 124374,
       "name": "Emociones",
       "url": "https://open.spotify.com/track/4M4Tc6Mx3IZhOXD8H7Iziq"
@@ -13614,7 +13632,7 @@
       ],
       "date_added": "2023-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-25",
+      "date_removed": null,
       "duration_ms": 150047,
       "name": "From the Start",
       "url": "https://open.spotify.com/track/6BJHsLiE47Sk0wQkuppqhr"
@@ -32880,7 +32898,7 @@
       ],
       "date_added": "2024-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-24",
+      "date_removed": null,
       "duration_ms": 302413,
       "name": "Smalltown Boy",
       "url": "https://open.spotify.com/track/5vmRQ3zELMLUQPo2FLQ76x"
@@ -40212,7 +40230,7 @@
       ],
       "date_added": "2024-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-26",
       "duration_ms": 207026,
       "name": "YOKO",
       "url": "https://open.spotify.com/track/5JHB8QusYhTWdRw2KJekj6"

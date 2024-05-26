@@ -4,7 +4,7 @@
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: J\. Cole
 
-646 songs - 1 day 10 hr 41 min
+647 songs - 1 day 10 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -446,7 +446,7 @@
 | [PNW](https://open.spotify.com/track/1OdakIOGXoXMISY5TFYvMa) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX) | [PNW](https://open.spotify.com/album/4YdEQj0jlsKJTLH5R99igR) | 4:27 | 2024-03-22 |  |
 | [Point God](https://open.spotify.com/track/2GdalCMhRsci19qs8yjCZc) | [Anoyd](https://open.spotify.com/artist/6zmyeByNsfskQHKnJT0F9L), [Marlon Craft](https://open.spotify.com/artist/7MigDh04CCntQbsBvugEmb) | [Point God](https://open.spotify.com/album/5Rj9y2OkoTogv1La20MgLG) | 2:37 | 2022-06-17 | 2022-07-26 |
 | [Poker Night](https://open.spotify.com/track/6JdZmGwVwxtdjY4GwUzCXr) | [Armani Caesar](https://open.spotify.com/artist/53S3boqktbqiB1JfHzsu1f) | [Poker Night](https://open.spotify.com/album/5Exn9ByIbD37Ew6fEhgzvb) | 2:53 | 2022-05-20 | 2022-07-23 |
-| [Polish Jazz](https://open.spotify.com/track/60D2JqdH4iixYCW5KQFNyR) | [Chuck Strangers](https://open.spotify.com/artist/1o1szEyRkKUmDfqHOsU9b5), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [A Forsaken Lover's Plea](https://open.spotify.com/album/02MmFj3ONHFwvZMfZXWtPy) | 3:00 | 2024-03-15 |  |
+| [Polish Jazz](https://open.spotify.com/track/60D2JqdH4iixYCW5KQFNyR) | [Chuck Strangers](https://open.spotify.com/artist/1o1szEyRkKUmDfqHOsU9b5), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [A Forsaken Lover's Plea](https://open.spotify.com/album/02MmFj3ONHFwvZMfZXWtPy) | 3:00 | 2024-03-15 | 2024-05-26 |
 | [Power](https://open.spotify.com/track/27NZPKJRrUgtVAoqg06WkY) | [Mark Battles](https://open.spotify.com/artist/24SwsBq76FnNeXW9Do4wPI), [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc) | [Power](https://open.spotify.com/album/0LR35Mz9TSsI87kuvSCSH4) | 2:18 | 2023-11-24 | 2024-01-13 |
 | [Power Steering](https://open.spotify.com/track/1uT59swjpPqahDlbdOMoGb) | [Lloyd Banks](https://open.spotify.com/artist/3vDUJHQtqT3jFRZ2ECXDTi), [Jadakiss](https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi) | [The Course of the Inevitable 2](https://open.spotify.com/album/0nVduuZY4WnGnXXyZptmnf) | 3:40 | 2022-07-15 | 2022-07-30 |
 | [Pravda](https://open.spotify.com/track/5z32oXMF5FgR8jFy7aOkAq) | [Your Old Droog](https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp), [Mach\-Hommy](https://open.spotify.com/artist/3ZMur3elMyOs248ah86NRk), [El\-P](https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl), [Tha God Fahim](https://open.spotify.com/artist/0qLTeI81hEhEK1PK3WOf77), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo) | [Pravda](https://open.spotify.com/album/42w0ZyrhB52x32OJkJXfH1) | 5:59 | 2021-09-03 | 2022-07-06 |
@@ -642,6 +642,7 @@
 | [Wimbledon](https://open.spotify.com/track/7AUXScBeRD7EXEFOsglJag) | [Free Party](https://open.spotify.com/artist/2A1dxDBORVkkbHJDVDOhed) | [Wimbledon](https://open.spotify.com/album/3AlI6rmqiVJWDopXWdCb2m) | 2:22 | 2022-05-20 | 2023-04-22 |
 | [Win](https://open.spotify.com/track/4X4EtnTuuVY0QMZroFVwHY) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [Win](https://open.spotify.com/album/5bncDKF5dQRBc1Ze0GbGUf) | 3:55 | 2023-06-16 | 2023-07-23 |
 | [Winner's Blues](https://open.spotify.com/track/5biONrLLqpAl9FQsDuymLq) | [Marlon Craft](https://open.spotify.com/artist/7MigDh04CCntQbsBvugEmb) | [Winner's Blues](https://open.spotify.com/album/6RRhPkrVw32dIyfkEr8SMX) | 3:02 | 2024-02-09 | 2024-05-04 |
+| [Wise Up](https://open.spotify.com/track/4QVS7dlOCQde84utqhwOyY) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [Pete Rock](https://open.spotify.com/artist/3BeQqzKdlARoOd6y30kCO2) | [Wise Up](https://open.spotify.com/album/1IROPd6PTUoA3o9tqTvRiL) | 3:47 | 2024-05-24 |  |
 | [Wish Me Well](https://open.spotify.com/track/4HZk0YHZ2nJMtBkikMCqtm) | [Little Brother](https://open.spotify.com/artist/0s9MrSopEoAn8JqwBipgdO) | [Wish Me Well / Glory Glory](https://open.spotify.com/album/6t2OdInznQdA2v7wtGrznb) | 2:12 | 2023-09-26 | 2023-09-30 |
 | [Woke Up and Asked Siri How I'm Gonna Die](https://open.spotify.com/track/5YAgSjM22pJzOOwN7261Uh) | [Armand Hammer](https://open.spotify.com/artist/3SCI7sXHUZIeDKMWC5NT9C), [billy woods](https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc), [E L U C I D](https://open.spotify.com/artist/6F5n3bvrBgoyicdFT6L8IB), [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [Woke Up and Asked Siri How I'm Gonna Die](https://open.spotify.com/album/5hKMFGdqaeJEbxpghERhsF) | 2:41 | 2023-09-05 | 2023-10-07 |
 | [World Champ](https://open.spotify.com/track/6Nt8M5jgmtRCxY2yGZdGKK) | [Marlon Craft](https://open.spotify.com/artist/7MigDh04CCntQbsBvugEmb) | [World Champ](https://open.spotify.com/album/6138iEeNObAgJOFw5pSVUw) | 2:26 | 2022-04-29 | 2022-07-29 |

@@ -4,7 +4,7 @@
 
 > What Will the 2024 Song of the Summer Be!? Find out with the perfect soundtrack for the sweatiest season! A predicttion playlist that also Includes Summer 2023 edition &amp; bonus tracks.
 
-3,370 songs - 7 day 23 hr 0 min
+3,373 songs - 7 day 23 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -826,6 +826,7 @@
 | [Down That Road](https://open.spotify.com/track/2zsZpL5pcDuQfmhHqMNWRw) | [Charlotte Leigh](https://open.spotify.com/artist/7yifAbF2E8xMhw1UMnuw0r) | [Down That Road](https://open.spotify.com/album/5dAAEc4ywtyH5unPs6e3vN) | 3:28 | 2024-03-14 | 2024-03-25 |
 | [Down to the Wire](https://open.spotify.com/track/1cGMOg4ZW3lVl6LObmouoP) | [Will Buck](https://open.spotify.com/artist/509OV27uMsKgVry3SaNjSR) | [Epicurus](https://open.spotify.com/album/4uIPKANn5rXLXy2cqbVsgF) | 3:54 | 2021-02-09 | 2021-02-23 |
 | [Downfall](https://open.spotify.com/track/6UzEZNAGg1KVZlBwYTtW7e) | [Malick Kane](https://open.spotify.com/artist/4PxGDgomUe9cb2eJ5Wtdt0) | [Downfall](https://open.spotify.com/album/5QUBdoQWBXzXUeuiG9PRDW) | 2:02 | 2024-03-07 | 2024-03-16 |
+| [Downtown](https://open.spotify.com/track/2n8SGGWXOP5eZGkPHN5Ld8) | [ellee ven](https://open.spotify.com/artist/68W5IWYUEsW0ahQS7LPp9x), [Prodéje](https://open.spotify.com/artist/0WUZY9y7pD32XT7vDZKslp) | [Downtown](https://open.spotify.com/album/02S7VitGqrpP4xE5TnJ7eE) | 3:50 | 2024-05-25 |  |
 | [Downtown](https://open.spotify.com/track/7FRBuPFlOpkyO2YoCypLwM) | [TANSU](https://open.spotify.com/artist/6Doxlxq547OhRaxx1o0gLQ) | [The City](https://open.spotify.com/album/1xKJhi35CaAsgcF6nBWx5G) | 3:08 | 2024-03-21 | 2024-04-06 |
 | [Dr\. Feelgood \(Love Is a Serious Business\)](https://open.spotify.com/track/0xGcAq56TXf3RnSHkCiL9k) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [I Never Loved a Man the Way I Love You](https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V) | 3:23 | 2023-07-20 |  |
 | [Dragon](https://open.spotify.com/track/7xLxdaz63ENJmmOGU6MRL3) | [Aris James](https://open.spotify.com/artist/0Q2bXEEKo1VJ7RFGfKDPhw) | [Dragon](https://open.spotify.com/album/0KAmbCdW0Dkwo2rN07OpuQ) | 3:20 | 2022-09-23 | 2022-10-09 |
@@ -2165,6 +2166,7 @@
 | [One Last Time](https://open.spotify.com/track/3jmES10ZW2gOaygKGEpiJZ) | [Kristina Lachaga](https://open.spotify.com/artist/20lFOC1hCNvIZpNCHiVLA6) | [One Last Time](https://open.spotify.com/album/40jJOiYm0OS2HTd49DyKnC) | 3:25 | 2022-03-04 | 2022-03-26 |
 | [one life, might live](https://open.spotify.com/track/5kZ3mNo3Sjstbq5nVa5CMG) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Drop 6](https://open.spotify.com/album/6QrGmXbUtjyekuW83gXBBb) | 2:34 | 2020-08-20 | 2023-02-12 |
 | [one life, might live](https://open.spotify.com/track/7183fwCYtpFWrBWamXHU1E) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Drop 6](https://open.spotify.com/album/5kleJz7Rct23Gan0hdKXiA) | 2:34 | 2023-07-21 | 2023-08-28 |
+| [One More Night](https://open.spotify.com/track/6P1JCV5JYg75u7YLq79BZc) | [Tessa Dalton](https://open.spotify.com/artist/7etJFhazXNIjnJZWAfn1WA) | [One More Night](https://open.spotify.com/album/3YZaDQREdy6DYgrrog6r2j) | 2:59 | 2024-05-25 |  |
 | [One More Szn](https://open.spotify.com/track/1VT2y4ffCimUcjzfi7vjPS) | [WhitMo](https://open.spotify.com/artist/1pacBSmBxfwndRD8ulFjy3), [Mark Anthony](https://open.spotify.com/artist/5YjFotPhzSEnq1TaukuCQM) | [One More Szn](https://open.spotify.com/album/4C2PHcs4ASj9IJq6YdnvY3) | 3:17 | 2022-07-08 | 2022-07-27 |
 | [One Reason](https://open.spotify.com/track/4jEQqIX1Q3q3QNcSiwfJ71) | [DJ G.O.D.](https://open.spotify.com/artist/2w4ByDPjBHudb6tlcwEegy), [Penny](https://open.spotify.com/artist/0Q6yewUwFmKdYrIuLVFYRO) | [One Reason](https://open.spotify.com/album/4IqPjGk6S9L4sMWVLC7c7a) | 1:46 | 2022-11-25 | 2022-12-17 |
 | [One Thing Is For Certain](https://open.spotify.com/track/6biIT1niXjpnAkPyDzNQX0) | [Fex](https://open.spotify.com/artist/5R6neU5Q3eyHGXwDT6ZlMM), [Motik](https://open.spotify.com/artist/0bbGuJjcgH3cS4EyF8PhhX) | [One Thing Is For Certain](https://open.spotify.com/album/4ZQbjRNx6q6qaqpBbmEClU) | 3:16 | 2021-03-14 | 2021-03-27 |
@@ -2840,7 +2842,7 @@
 | [Tan Rico](https://open.spotify.com/track/56G56C4vvrRFevOLI9MNB6) | [Bryan Sánchez](https://open.spotify.com/artist/50OQTQNylyhDvJtzxXnDn2) | [Tan Rico](https://open.spotify.com/album/51DRG4tthiuU7yNpcCRumK) | 3:00 | 2024-03-13 | 2024-03-24 |
 | [Tangled](https://open.spotify.com/track/0xYf6xgcccmdR98usa57Bg) | [Thomas Jay](https://open.spotify.com/artist/39Ji7aJQwGI9gZ0SGZCkRa) | [Tangled](https://open.spotify.com/album/5YQDPopNBRhZhkwNCIItco) | 3:10 | 2024-04-28 | 2024-05-14 |
 | [Tangled](https://open.spotify.com/track/5zOxbR56sP7l2lawHl45HM) | [Winnie Ama](https://open.spotify.com/artist/4DJIumnofpauv3dYkgZSv1) | [Tangled](https://open.spotify.com/album/3u908dnLWI42dDAkbXSBN8) | 3:07 | 2024-04-27 | 2024-05-22 |
-| [Tangled Up In Blue](https://open.spotify.com/track/3C4Zea52Xn9iTc25JH0jEJ) | [Mathilde Widding](https://open.spotify.com/artist/7yiilgx7kKijTeHJs2FoWb) | [Tangled Up In Blue](https://open.spotify.com/album/1lcVucENJc5lkGtSzHjSEc) | 3:05 | 2023-08-18 | 2023-09-26 |
+| [Tangled Up In Blue](https://open.spotify.com/track/3C4Zea52Xn9iTc25JH0jEJ) | [Mathilde Widding](https://open.spotify.com/artist/7yiilgx7kKijTeHJs2FoWb) | [Tangled Up In Blue](https://open.spotify.com/album/1lcVucENJc5lkGtSzHjSEc) | 3:05 | 2023-08-18 |  |
 | [Tanlines](https://open.spotify.com/track/41lC7nv0tVyRIyFn3d8mmg) | [charly haze](https://open.spotify.com/artist/38giuuDpP3ozqOkyIalx2X) | [Tanlines](https://open.spotify.com/album/35OiOGLJK5lHHdFPXdk1SN) | 3:42 | 2021-02-26 | 2021-03-14 |
 | [Tanto](https://open.spotify.com/track/4sJLcsMdnOSQ5kNm3mLEKi) | [Nicole Vega](https://open.spotify.com/artist/1glGb08YMIiScmyb1rfSxN) | [Tanto](https://open.spotify.com/album/4mNlUs8QxeCInDeKsTyPhr) | 2:44 | 2023-07-31 | 2023-09-26 |
 | [Tanya's Dolor](https://open.spotify.com/track/5jnDurMV9oN9DI4zMEFs4T) | [Carnatik](https://open.spotify.com/artist/1aRAI0lNspRYneg71WwN9N), [Tanya Ravi](https://open.spotify.com/artist/2JRm0DEVY49vT3x4v4raV9) | [Tanya's Dolor](https://open.spotify.com/album/2tDAwvkMQg8cE6hZM0trHi) | 2:21 | 2022-02-28 | 2022-03-17 |
@@ -3162,6 +3164,7 @@
 | [Wants and Needs \(feat\. Lil Baby\)](https://open.spotify.com/track/65OVbaJR5O1RmwOQx0875b) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Scary Hours 2](https://open.spotify.com/album/5LuoozUhs2pl3glZeAJl89) | 3:12 | 2021-07-11 | 2024-04-21 |
 | [WAP \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/4Oun2ylbjFKMPTiaSbbCih) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [WAP \(feat\. Megan Thee Stallion\)](https://open.spotify.com/album/2ogiazbrNEx0kQHGl5ZBTQ) | 3:07 | 2020-08-13 | 2020-08-20 |
 | [Warm Soul](https://open.spotify.com/track/66wswCojBn33ZKM7bFmg4E) | [Atamatoki](https://open.spotify.com/artist/2BzNGTZcU0rrEmwevE6FFM), [Eugene](https://open.spotify.com/artist/3x3xKaexL2yN0OoGDrLHxR), [New Peace Music](https://open.spotify.com/artist/6xzCXXU145WI6ymKsNTRLy) | [Warm Soul](https://open.spotify.com/album/6lCFLF6FodPH1djrADW6ED) | 2:21 | 2023-04-24 | 2023-05-13 |
+| [Wasetime](https://open.spotify.com/track/2IS4z9k9zy6bbH9xvGUTBv) | [Shawn Cook](https://open.spotify.com/artist/2eKk5iKLyGpWo9IBLrPjSv) | [Wasetime](https://open.spotify.com/album/0kesHQpP91fQoxWOtTtszj) | 1:53 | 2024-05-25 |  |
 | [WASSUP](https://open.spotify.com/track/4MkYiTh4Ep5W0eTy9b2aAp) | [Deadman](https://open.spotify.com/artist/6xQMrGjJnymDBieWWUMNYn) | [WASSUP](https://open.spotify.com/album/6VGXRRwqSMl7G22dI2c7NT) | 2:44 | 2023-07-08 | 2023-07-29 |
 | [Wasted Feelings](https://open.spotify.com/track/6lpfJmufkOEvsLPe4jAcfo) | [JMAYE](https://open.spotify.com/artist/1vcySelYaioPgAIBrSuncr) | [Wasted Feelings](https://open.spotify.com/album/7j6RLPV17rFRZDO8R7FKZu) | 2:14 | 2020-05-17 | 2020-05-24 |
 | [Wasting Time](https://open.spotify.com/track/2vceVID62JwLkIxMGoRqOS) | [Ruby Diamond](https://open.spotify.com/artist/57xB8Xq6QvPBEobQL72XJH) | [Twin Flames](https://open.spotify.com/album/6NPrFdmXJ6qW3SoLEtMsr4) | 4:02 | 2022-02-18 | 2022-03-07 |

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 
 > Solo il meglio dello street rap italiano\. Cover: Shiva
 
-[Spotify](https://open.spotify.com/user/spotify) - 888,935 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 889,091 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [First Day Out](https://open.spotify.com/track/3JXgSnBQCLWjnyx6XAF0R9) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [First Day Out](https://open.spotify.com/album/4wcgoc19ZVFRcX0JxnBKNG) | 2:51 |
-| 2 | [TRISTE](https://open.spotify.com/track/4ULKTtWRMJh5EnJgL2fXcL) | [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO) | [TRISTE](https://open.spotify.com/album/3w0gbh9blEDD9LDa7NOr8m) | 2:26 |
+| 2 | [TRISTE](https://open.spotify.com/track/4ULKTtWRMJh5EnJgL2fXcL) | [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [FT kings](https://open.spotify.com/artist/2jq6rrOegUcrh5evVOfqnK) | [TRISTE](https://open.spotify.com/album/3w0gbh9blEDD9LDa7NOr8m) | 2:26 |
 | 3 | [Kill Bill](https://open.spotify.com/track/4OqRBVQcEXwKCj5d7ztx6Z) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [La Divina Commedia \(Deluxe\)](https://open.spotify.com/album/21A98jXqZkeJNNv8fcFTaD) | 2:16 |
 | 4 | [CARRARA \(feat\. Simba La Rue\)](https://open.spotify.com/track/6uN0PQk9GLI4ze5Vr9hOX3) | [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF), [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO) | [ICON](https://open.spotify.com/album/0zGirhBBoAjHz8t37u1IRW) | 3:09 |
 | 5 | [Soldi Arrotolati \(feat\. ANNA\)](https://open.spotify.com/track/1zp4TEQ9zaNGXTjY6fsz1p) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [FERITE](https://open.spotify.com/album/4mLp42UXbXFTMhAM4V1Kgz) | 2:31 |

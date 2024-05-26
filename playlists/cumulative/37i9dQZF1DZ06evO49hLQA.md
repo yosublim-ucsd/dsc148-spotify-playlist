@@ -2,7 +2,7 @@
 
 ### [This Is AC/DC](https://open.spotify.com/playlist/37i9dQZF1DZ06evO49hLQA)
 
-> This is AC/DC\. Todos os maiores hits em uma só playlist.
+> This Is AC/DC\. Los temas esenciales, todos en una lista.
 
 62 songs - 4 hr 13 min
 

@@ -1,6 +1,6 @@
 {
   "description": "the best of the deep end. cover: Prinz",
-  "num_followers": 90138,
+  "num_followers": 90130,
   "original_name": "lofi rap",
   "owner": {
     "name": "Spotify",
@@ -1347,8 +1347,8 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
-        "name": "I Wanna Start My Life Again",
-        "url": "https://open.spotify.com/album/2s9x5mMnJixYOj8K3UIduO"
+        "name": "If I Die Young",
+        "url": "https://open.spotify.com/album/2Zbo1zBICWK0xRjIknXAZX"
       },
       "artists": [
         {
@@ -1356,9 +1356,9 @@
           "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
         }
       ],
-      "duration_ms": 150884,
-      "name": "I Wanna Start My Life Again",
-      "url": "https://open.spotify.com/track/7lYNiZgNS2Khdd4nXznIEj"
+      "duration_ms": 189781,
+      "name": "If I Die Young",
+      "url": "https://open.spotify.com/track/2zgdY31Vt7tvDsr2k5qLbC"
     },
     {
       "added_at": "2023-08-01 17:14:44",
@@ -1599,6 +1599,22 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
+        "name": "I Wanna Start My Life Again",
+        "url": "https://open.spotify.com/album/2s9x5mMnJixYOj8K3UIduO"
+      },
+      "artists": [
+        {
+          "name": "MiSTah Kye",
+          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
+        }
+      ],
+      "duration_ms": 150884,
+      "name": "I Wanna Start My Life Again",
+      "url": "https://open.spotify.com/track/7lYNiZgNS2Khdd4nXznIEj"
+    },
+    {
+      "added_at": "2023-08-01 17:14:44",
+      "album": {
         "name": "Drowning",
         "url": "https://open.spotify.com/album/2EpJCDKlKH7urSEKXNkgmf"
       },
@@ -1611,22 +1627,6 @@
       "duration_ms": 133090,
       "name": "Drowning",
       "url": "https://open.spotify.com/track/2F1MN6u5go5QQFR1ZpoTsU"
-    },
-    {
-      "added_at": "2023-08-01 17:14:44",
-      "album": {
-        "name": "If I Die Young",
-        "url": "https://open.spotify.com/album/2Zbo1zBICWK0xRjIknXAZX"
-      },
-      "artists": [
-        {
-          "name": "MiSTah Kye",
-          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
-        }
-      ],
-      "duration_ms": 189781,
-      "name": "If I Die Young",
-      "url": "https://open.spotify.com/track/2zgdY31Vt7tvDsr2k5qLbC"
     },
     {
       "added_at": "2023-08-01 17:14:44",

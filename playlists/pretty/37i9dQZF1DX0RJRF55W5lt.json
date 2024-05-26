@@ -1,6 +1,6 @@
 {
   "description": "Classic anthems from a classic era. Cover: Wookie",
-  "num_followers": 548538,
+  "num_followers": 548762,
   "original_name": "UK Garage Classics",
   "owner": {
     "name": "Spotify",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-05-15 16:43:21",
       "album": {
-        "name": "PAY CLOSE ATTENTION: XL Recordings",
-        "url": "https://open.spotify.com/album/3D9vUf511saEHLua6NcOLw"
-      },
-      "artists": [
-        {
-          "name": "NuBirth",
-          "url": "https://open.spotify.com/artist/74sS9PHuqYxHllQL8noO0G"
-        }
-      ],
-      "duration_ms": 320156,
-      "name": "Anytime",
-      "url": "https://open.spotify.com/track/2Juu7tim2c71wvKAMRYkNc"
-    },
-    {
-      "added_at": "2024-05-15 16:43:21",
-      "album": {
         "name": "In-Fidelity",
         "url": "https://open.spotify.com/album/6019qvnF1CbqBi32pAiV35"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 234607,
       "name": "Deeper Love",
       "url": "https://open.spotify.com/track/0KwE2yUq2e5lKSjK1MsKCt"
+    },
+    {
+      "added_at": "2024-05-15 16:43:21",
+      "album": {
+        "name": "PAY CLOSE ATTENTION: XL Recordings",
+        "url": "https://open.spotify.com/album/3D9vUf511saEHLua6NcOLw"
+      },
+      "artists": [
+        {
+          "name": "NuBirth",
+          "url": "https://open.spotify.com/artist/74sS9PHuqYxHllQL8noO0G"
+        }
+      ],
+      "duration_ms": 320156,
+      "name": "Anytime",
+      "url": "https://open.spotify.com/track/2Juu7tim2c71wvKAMRYkNc"
     },
     {
       "added_at": "2024-05-15 16:43:21",

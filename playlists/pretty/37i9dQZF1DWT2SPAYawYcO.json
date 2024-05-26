@@ -1,6 +1,6 @@
 {
   "description": "The best new songs of the week! Cover: Cosmo's Midnight",
-  "num_followers": 373902,
+  "num_followers": 373922,
   "original_name": "New Music Friday AU & NZ",
   "owner": {
     "name": "Spotify",
@@ -766,6 +766,10 @@
         {
           "name": "Duke Deuce",
           "url": "https://open.spotify.com/artist/24zj84GShUIcBQYq6VpOYW"
+        },
+        {
+          "name": "Roland Jones",
+          "url": "https://open.spotify.com/artist/19deba9lIgvZdIThv0kykj"
         }
       ],
       "duration_ms": 201720,

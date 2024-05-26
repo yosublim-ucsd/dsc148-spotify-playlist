@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO4rWlyg.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO4rWlyg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO4rWlyg)
 
-### [This Is ビョーク](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4rWlyg)
+### [This Is Björk](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4rWlyg)
 
-> This is ビョーク。アーティストの代表曲をひとつのプレイリストに。
+> This Is Björk\. Los temas esenciales, todos en una lista.
 
 137 songs - 9 hr 56 min
 

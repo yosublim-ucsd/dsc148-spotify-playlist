@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4KO8WBGf7uc.md) - [plain]
 
 > Lo que suena en la noche.
 
-[Spotify](https://open.spotify.com/user/spotify) - 327,917 likes - 75 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 327,934 likes - 75 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4KO8WBGf7uc.md) - [plain]
 | 47 | [Caramelo \- Remix](https://open.spotify.com/track/2uu2aGqA2UblCg581Q7l1g) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Caramelo \(Remix\)](https://open.spotify.com/album/7wwKVRpLdSYASP6dMDrLXQ) | 3:53 |
 | 48 | [GTA.mp3](https://open.spotify.com/track/3bRWGhpeNUkJfFydelSwBk) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [GTA.mp3](https://open.spotify.com/album/7AVLk5G6gJXtgqaUJDKyF2) | 2:31 |
 | 49 | [Ganas Sobran](https://open.spotify.com/track/17iXKeQe2iVYXJcMpQqthG) | [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [Cambio de Clima](https://open.spotify.com/album/3f8ilKUbFtOSPM2aVq0zCl) | 3:57 |
-| 50 | [FATAL FANTASSY](https://open.spotify.com/track/0TZJzQCOkVtyzjOD8wzAHh) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [FATAL FANTASSY](https://open.spotify.com/album/7k4Bir5CEDU14ZzW9FsWqn) | 2:29 |
-| 51 | [Solita](https://open.spotify.com/track/0tJCo71s7HT9Mu5Z4juuLw) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Sueños](https://open.spotify.com/album/3TgOrQ3p23Af8zSsxK8fdX) | 3:39 |
+| 50 | [Solita](https://open.spotify.com/track/0tJCo71s7HT9Mu5Z4juuLw) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Sueños](https://open.spotify.com/album/3TgOrQ3p23Af8zSsxK8fdX) | 3:39 |
+| 51 | [FATAL FANTASSY](https://open.spotify.com/track/0TZJzQCOkVtyzjOD8wzAHh) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [FATAL FANTASSY](https://open.spotify.com/album/7k4Bir5CEDU14ZzW9FsWqn) | 2:29 |
 | 52 | [PPP](https://open.spotify.com/track/1DcxnVNFAyVl2sDQ646pXS) | [KEVIN ROLDAN](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO) | [PPP](https://open.spotify.com/album/6jhJrmUkXvmvU14G0PyYTd) | 2:09 |
 | 53 | [No Quiere Amor \(feat\. Farruko\)](https://open.spotify.com/track/4NGlDkTO27uxg8del4oTAr) | [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [No Quiere Amor \(feat\. Farruko\)](https://open.spotify.com/album/1IREmSsAW11sdfG8gDUygU) | 4:28 |
 | 54 | [B11 \(feat\. Myke Towers\)](https://open.spotify.com/track/4o1DxRjMCHDwBiOKv88rOl) | [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [B11 \(feat\. Myke Towers\)](https://open.spotify.com/album/3dwf8z3LfHFTlAHiyrcGzb) | 4:11 |

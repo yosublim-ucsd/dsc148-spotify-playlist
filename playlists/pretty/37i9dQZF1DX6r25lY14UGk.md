@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6r25lY14UGk.md) - [plain]
 
 > New releases for the kids\. Cover: Laurie Berkner
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,782 likes - 206 songs - 8 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,843 likes - 206 songs - 8 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6r25lY14UGk.md) - [plain]
 | 7 | [We're All Different](https://open.spotify.com/track/1gSmDs8u0bplnwYdgQ57o5) | [Tiny Totz Kidz](https://open.spotify.com/artist/54vwxOSuLxx758lpaUjTst), [Marc & Katt](https://open.spotify.com/artist/2xngCNPOK7JnX9yqEeThoC) | [We're All Different](https://open.spotify.com/album/62DqtbALZLOUkRVMlMiZLd) | 2:13 |
 | 8 | [Training Season](https://open.spotify.com/track/3pBAUZNudmb6DbnhlTyNgm) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Training Season](https://open.spotify.com/album/6yTP07jdb8B9wflHFaVPNf) | 3:11 |
 | 9 | [Happy as a Clam](https://open.spotify.com/track/5ozUJM0vWGPBiFunzSeqX8) | [Corey Kilgannon](https://open.spotify.com/artist/0XuYkyliNor6szd1B6oBKk), [Corey Kilgannon & the Spring River Kids](https://open.spotify.com/artist/0VNgy10ubUw6aEYfvRwtSk) | [Happy as a Clam](https://open.spotify.com/album/7jQaKcRyBvS9Fev3eo1U3Q) | 2:53 |
-| 10 | [Workin' on a Beautiful Song](https://open.spotify.com/track/4qlObRfYoa3H6U9bMiOja1) | [Lucie Silvas](https://open.spotify.com/artist/57HiMjhnxdJflQodRyC5Ju), [John Osborne](https://open.spotify.com/artist/2ykJ3vU8SMONSbIyI2rmdF) | [Workin' on a Beautiful Song](https://open.spotify.com/album/3FvFhbgcNlbP3x4ISEt6b1) | 2:34 |
+| 10 | [Workin' on a Beautiful Song](https://open.spotify.com/track/4qlObRfYoa3H6U9bMiOja1) | [Lucie Silvas](https://open.spotify.com/artist/57HiMjhnxdJflQodRyC5Ju), [John Osborne](https://open.spotify.com/artist/0VW09qbufB4cciWJ3F17SG) | [Workin' on a Beautiful Song](https://open.spotify.com/album/3FvFhbgcNlbP3x4ISEt6b1) | 2:34 |
 | 11 | [Mermaid](https://open.spotify.com/track/4r6yqniacnQJnKxOF25n2X) | [Dolly Style](https://open.spotify.com/artist/0D00AEI0IWmoBtdIH75zXs) | [Mermaid](https://open.spotify.com/album/3GBztOt4r4XSz48UD1Z9M3) | 2:59 |
 | 12 | [Booger Song](https://open.spotify.com/track/5iAF7gpKK8LRJBnJ01O02r) | [Cooltime](https://open.spotify.com/artist/5Cx0MO39eG4ElGaD1juoZQ) | [Booger Song](https://open.spotify.com/album/4DmU478kFyfavFgqOdLNbt) | 1:49 |
 | 13 | [Clean Up Song](https://open.spotify.com/track/3fnc5XgoI1jlVvxfbD5uMJ) | [Tayo the Little Bus](https://open.spotify.com/artist/3gzyfNen0cMn6dybhnmwpd) | [Tayo Play Songs](https://open.spotify.com/album/4eIWoPxhQsgZ9mt1Rbe3oe) | 2:06 |

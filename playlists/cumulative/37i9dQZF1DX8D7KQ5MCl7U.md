@@ -4,7 +4,7 @@
 
 > All Coke Studio Pakistan tracks in one place\. Season 15 updated live.
 
-408 songs - 1 day 20 hr 45 min
+409 songs - 1 day 20 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Bholay Bhalay](https://open.spotify.com/track/0t3iSgsJGGTmBRjd6U4doi) | [Meesha Shafi](https://open.spotify.com/artist/6gWwKC0laX7pTPjNgrwvQR), [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Coke Studio: Season 9](https://open.spotify.com/album/1BFQiBnV2cxrw1WFsabMcL) | 6:42 | 2022-03-23 | 2022-07-29 |
 | [Bibi Sanam Janem](https://open.spotify.com/track/6zKJUZJDyf2pbiYjStBvKh) | [Zeb & Haniya](https://open.spotify.com/artist/7yRWAVvdjzgjU2wrpaKXLA), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions: Season 3](https://open.spotify.com/album/1lKwPb6MbXARLx99TnhtZY) | 6:13 | 2022-03-23 |  |
 | [Billo](https://open.spotify.com/track/3jBcqTC9xDmmd07xPbOPnt) | [Abrar Ul Haq](https://open.spotify.com/artist/0t5FYih5qVOZiPO6P6O3H6) | [Billo](https://open.spotify.com/album/1wnCbGprns25Eb3LUFicIy) | 5:50 | 2022-03-23 | 2022-07-28 |
+| [Blockbuster](https://open.spotify.com/track/2kQ4qdEtzWR1scQBlsjl8M) | [Faris Shafi](https://open.spotify.com/artist/1LAdnp9wIdKClX7Cool0GD), [Umair Butt](https://open.spotify.com/artist/4E2wX4DFQFhlLyVzRw0C1P), [Gharvi Group](https://open.spotify.com/artist/2zOjtDwrBj757zRzqgHP82) | [Blockbuster](https://open.spotify.com/album/6uqXvhk1Qq1sUUDTDZgxg8) | 4:34 | 2024-05-25 |  |
 | [Bo Giyam](https://open.spotify.com/track/55PHSwqN1Nt3Xww2VPE8DL) | [Kashif Din](https://open.spotify.com/artist/7CjchDq0Hkq3CHBePVofRr), [Nimra Rafiq](https://open.spotify.com/artist/7iVSnctHZF2JDhJRUO0GxT) | [Bo Giyam](https://open.spotify.com/album/7A3BR6BWcAnEGXfXUSjPOp) | 5:42 | 2022-03-23 | 2024-05-13 |
 | [Bol](https://open.spotify.com/track/1duKMLHT2Zgs17ssrtx902) | [Shafqat Amanat Ali](https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm) | [Coke Studio Season 10: Episode 5](https://open.spotify.com/album/4izJPNm3wIRssSy6DyxAx0) | 5:58 | 2022-03-23 | 2024-01-11 |
 | [Bolay](https://open.spotify.com/track/7MvqWEX8jOr68uebuOgpOF) | [Uzair Jaswal](https://open.spotify.com/artist/3xbeS8ZmDEW7zgEd0IdArM), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions : Season 5](https://open.spotify.com/album/2Nvdh0qGvH4nufpFi0DmeK) | 2:57 | 2022-03-23 | 2022-07-24 |
@@ -210,7 +211,7 @@
 | [Lagi Bina/Chal Mele Noon Challiye](https://open.spotify.com/track/39GINZGDFwFP2jeKp0PSXK) | [Jaffer Zaidi](https://open.spotify.com/artist/2IDzlRhIDa3xEqXTrAE8ex), [Sanam Marvi](https://open.spotify.com/artist/6ckyg7wmYQLuUqRkLtKnj5), [Saieen Zahoor](https://open.spotify.com/artist/3qicDXfpXrkSeFOJfHjG9q) | [Coke Studio Season 9 Episode 6](https://open.spotify.com/album/7K2eeaENGgn33dsHe2Hwmb) | 8:12 | 2022-10-12 | 2024-04-14 |
 | [Lai Beqadaraan Naal Yaari](https://open.spotify.com/track/0ro6SFrYsMWnLaI9vBjhra) | [Niazi Brothers](https://open.spotify.com/artist/6EZ4uVu8oBRwuqt2K38TWl) | [Coke Studio Season 7](https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv) | 6:48 | 2022-03-23 | 2024-05-20 |
 | [Laila O Laila](https://open.spotify.com/track/65GexggyAOfTLMWLKQS4eb) | [Rostam Mirlashari](https://open.spotify.com/artist/5zlHJ38vwLDvO6sf1lneZz), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Season 6](https://open.spotify.com/album/1zJtqhpXJiqVBOP91oM0Ky) | 4:29 | 2022-03-23 |  |
-| [Laili Jaan](https://open.spotify.com/track/7wNIAoRvQp0fQJeJkJbc9o) | [Zeb & Haniya](https://open.spotify.com/artist/7yRWAVvdjzgjU2wrpaKXLA), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Season 6](https://open.spotify.com/album/1zJtqhpXJiqVBOP91oM0Ky) | 4:41 | 2022-03-23 |  |
+| [Laili Jaan](https://open.spotify.com/track/7wNIAoRvQp0fQJeJkJbc9o) | [Zeb & Haniya](https://open.spotify.com/artist/7yRWAVvdjzgjU2wrpaKXLA), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Season 6](https://open.spotify.com/album/1zJtqhpXJiqVBOP91oM0Ky) | 4:41 | 2022-03-23 | 2024-05-26 |
 | [Lambi Judaai](https://open.spotify.com/track/6gXuetJiQ00vPIy6zs3SGR) | [Komal Rizvi](https://open.spotify.com/artist/4JEiuyNSHo0KbVS6sTFpL2), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions \(Season 4\)](https://open.spotify.com/album/49vBV5Xsw7Za0yPIVJZIEs) | 6:04 | 2022-03-23 |  |
 | [Lamha](https://open.spotify.com/track/0NuoB84JsUKFav95rKnSO6) | [Bilal Khan](https://open.spotify.com/artist/1I7amt4dHcNJtj7e3rURhI), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions \(Season 4\)](https://open.spotify.com/album/49vBV5Xsw7Za0yPIVJZIEs) | 5:36 | 2022-03-23 | 2022-07-27 |
 | [Larho Mujhey](https://open.spotify.com/track/56yOrOvkFxvkkX7wEPLu4n) | [Bilal Khan](https://open.spotify.com/artist/4NqqhAOHRSFhfTPOo7vhMX), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions : Season 5](https://open.spotify.com/album/2Nvdh0qGvH4nufpFi0DmeK) | 6:18 | 2022-03-23 |  |

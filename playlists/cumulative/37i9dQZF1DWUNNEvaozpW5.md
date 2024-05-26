@@ -4,7 +4,7 @@
 
 > Lo mejor del rock de aquí, como Bunbury con Arde Bogotá.
 
-402 songs - 1 day 2 hr 9 min
+403 songs - 1 day 2 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -240,6 +240,7 @@
 | [Luna](https://open.spotify.com/track/1YRuKNFkQeyECwYvsrDCH6) | [La Fuga](https://open.spotify.com/artist/5YyScSZOuBHpoFhGvHFedc) | [Luna](https://open.spotify.com/album/4Gt59MqebxfNX2RYg4Deeu) | 3:42 | 2022-10-13 | 2022-10-28 |
 | [Luz de las Velas](https://open.spotify.com/track/2tg9I46DCFUQLaihBCYUdF) | [Estopa](https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai) | [Estopía](https://open.spotify.com/album/2GdvFrLeOi9qkET2X7lZ02) | 4:03 | 2024-03-14 | 2024-04-12 |
 | [Lápiz y tinta](https://open.spotify.com/track/32tarmPzTWgTZj0NAZz2DH) | [El Último De La Fila](https://open.spotify.com/artist/2jMYTBTCSNYaCYy54mLc6I) | [Astronomía Razonable](https://open.spotify.com/album/1IxY9bcAPSu0ENtX3oLRlS) | 3:46 | 2023-10-26 | 2024-04-12 |
+| [Madrid, Madrid, Madrid](https://open.spotify.com/track/72ko9QbSW0PIR8rD0WItAH) | [Sidecars](https://open.spotify.com/artist/1OxGzd3ks0V8CVWtXT1VMj) | [Madrid, Madrid, Madrid](https://open.spotify.com/album/6aCaSgOJi2AgrnWCjk9Zo1) | 2:21 | 2024-05-23 |  |
 | [Mala Vida](https://open.spotify.com/track/0UY0JLj9kxOlgF6FHogCmX) | [Mano Negra](https://open.spotify.com/artist/6jq7GptAwkoFiunDhZYqQ2) | [Patchanka](https://open.spotify.com/album/1i6RiKDCLS9KqgwfCQ1mRQ) | 2:54 | 2022-05-19 |  |
 | [Malas Noticias \(En Directo\)](https://open.spotify.com/track/0Z8d26MEynF542z5TIZGp7) | [Los Suaves](https://open.spotify.com/artist/1Z3i5hUtelWqBwEA1RoWhL), [Kutxi Romero](https://open.spotify.com/artist/3nFnQg8Kav6UMFFjQ1dspY) | [Malas Noticias \(En Directo\)](https://open.spotify.com/album/7rfiUVDE8q7b7YGbaVmjoY) | 3:24 | 2022-05-19 | 2022-06-17 |
 | [Malicia 1 \- Demo](https://open.spotify.com/track/6v7y5EddXfbd5JNnukIghN) | [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT) | [Malicia 1 \(Demo\)](https://open.spotify.com/album/3mGBD7Frblo0ZZGNho3UMc) | 3:16 | 2022-09-08 | 2022-09-23 |
@@ -324,7 +325,7 @@
 | [Red Onions](https://open.spotify.com/track/4PnuLi3DwLUIrPbL5Oqgqm) | [Kike Jambalaya](https://open.spotify.com/artist/5TknYICOG7yd700QbBGVfq) | [Red Onions](https://open.spotify.com/album/0rXexh0GPwNCDFmy3W3J7i) | 3:11 | 2023-04-06 | 2023-04-25 |
 | [Respirar](https://open.spotify.com/track/3suezOyQvBNkgZPbgAtIJu) | [Albertucho](https://open.spotify.com/artist/1kcjyRBcnuC94JVRshXjI6) | [Respirar](https://open.spotify.com/album/2eqkan0najTgJ8MDf3n9y9) | 3:45 | 2023-03-23 | 2023-04-14 |
 | [Revolución turra \- En directo Razzmatazz](https://open.spotify.com/track/000bhyTmlJJJnWzA2xrhAa) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Revolución turra \(En directo Razzmatazz\)](https://open.spotify.com/album/2sUNWdu8cnAq19y2mgO5wO) | 3:16 | 2023-06-01 | 2023-06-09 |
-| [Rey del Glam](https://open.spotify.com/track/7tWHQ6cmZ1Li3g1OdlHWz1) | [Loquillo](https://open.spotify.com/artist/5Fv0DQ1ZBuc2DlidtOUCZr) | [Rock and Roll Actitud \(1978\-2018\)](https://open.spotify.com/album/5UWflqGh9hNMGZQV3Jmn92) | 4:59 | 2022-05-19 |  |
+| [Rey del Glam](https://open.spotify.com/track/7tWHQ6cmZ1Li3g1OdlHWz1) | [Loquillo](https://open.spotify.com/artist/5Fv0DQ1ZBuc2DlidtOUCZr) | [Rock and Roll Actitud \(1978\-2018\)](https://open.spotify.com/album/5UWflqGh9hNMGZQV3Jmn92) | 4:59 | 2022-05-19 | 2024-05-26 |
 | [Rock And Roll en la Plaza del Pueblo](https://open.spotify.com/track/5fCYRuYxc1ox7yWKcKD6tf) | [Tequila](https://open.spotify.com/artist/6stZWw6L5Sjy5m7OdUR3rO) | [Matricula De Honor/New Booklet](https://open.spotify.com/album/4ajHTO6YQLBIgfsF9MpKBv) | 3:00 | 2023-08-31 |  |
 | [Rock and Roll Star \- 2017 Remaster](https://open.spotify.com/track/6UJZUMcCgKHi4uGozQc8EE) | [Loquillo](https://open.spotify.com/artist/5Fv0DQ1ZBuc2DlidtOUCZr) | [Rock and Roll Actitud \(1978\-2018\)](https://open.spotify.com/album/5UWflqGh9hNMGZQV3Jmn92) | 4:09 | 2023-08-21 | 2023-11-30 |
 | [Rock and Roll Star \- Remaster 2017](https://open.spotify.com/track/3EV5Oh2zrKF0FIKWxnE3L0) | [Loquillo](https://open.spotify.com/artist/5Fv0DQ1ZBuc2DlidtOUCZr) | [Los tiempos están cambiando \(Remaster 2017\)](https://open.spotify.com/album/1sLl4Mj1wY4FSVzRhIT99m) | 4:09 | 2022-05-19 | 2022-07-29 |

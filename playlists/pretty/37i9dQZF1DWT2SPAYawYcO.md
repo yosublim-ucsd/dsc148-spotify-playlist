@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Cover: Cosmo's Midnight
 
-[Spotify](https://open.spotify.com/user/spotify) - 373,902 likes - 84 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 373,922 likes - 84 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 40 | [Unknown Pretenders](https://open.spotify.com/track/1qGcw1IcdXdL0Y9IEKWOKb) | [Grinspoon](https://open.spotify.com/artist/04qi4CymYf3E50Mt2na4QS) | [Unknown Pretenders](https://open.spotify.com/album/287d8ZNc3zrDVEIcxejd0i) | 2:40 |
 | 41 | [True Colours](https://open.spotify.com/track/4S6rRqfYzIJ4nL2bV8ktS9) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Self Esteem](https://open.spotify.com/artist/3K9muOlJVKLgH4SIwwZiDe) | [True Colours](https://open.spotify.com/album/38oNM96tThFx9oFX9LDxX3) | 3:51 |
 | 42 | [Alignment](https://open.spotify.com/track/5ARtFyaoya8MH1y2FZs8Sr) | [CLOE TERARE](https://open.spotify.com/artist/7FndscX6qPcyhuUgWlBHXf), [YesYou](https://open.spotify.com/artist/22qas00XuS5sVfW0YaR5Wd) | [Alignment](https://open.spotify.com/album/5t78SMrh25X6n8jLKTWsj1) | 2:45 |
-| 43 | [CRASH DUMMY MUZIK](https://open.spotify.com/track/23fWUAcz6j3UyZIIntNfec) | [Nauti](https://open.spotify.com/artist/092KdpZjWD8zs3asgQSwqQ), [Duke Deuce](https://open.spotify.com/artist/24zj84GShUIcBQYq6VpOYW) | [CRASH DUMMY MUZIK](https://open.spotify.com/album/27zyxNbwv5dadoslI7leyM) | 3:21 |
+| 43 | [CRASH DUMMY MUZIK](https://open.spotify.com/track/23fWUAcz6j3UyZIIntNfec) | [Nauti](https://open.spotify.com/artist/092KdpZjWD8zs3asgQSwqQ), [Duke Deuce](https://open.spotify.com/artist/24zj84GShUIcBQYq6VpOYW), [Roland Jones](https://open.spotify.com/artist/19deba9lIgvZdIThv0kykj) | [CRASH DUMMY MUZIK](https://open.spotify.com/album/27zyxNbwv5dadoslI7leyM) | 3:21 |
 | 44 | [Songs](https://open.spotify.com/track/3I2fjIvp3H6QSD7FaPQxaR) | [Golden Vessel](https://open.spotify.com/artist/6bJCrLZcvsBMzve04BmgwS), [Headaches](https://open.spotify.com/artist/385XMCKUEnTVlM7UVFRLHl) | [Making Friends With The Space Around Me](https://open.spotify.com/album/7xYJux2nUDleJTTBcRng5t) | 2:57 |
 | 45 | [Wildlife \(feat\. Sleepy Hallow\)](https://open.spotify.com/track/350eBNxmi87YdMxQvauyUQ) | [Scorey](https://open.spotify.com/artist/0X3nsc84A9qlFilmlWNwQb), [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV) | [Wildlife \(feat\. Sleepy Hallow\)](https://open.spotify.com/album/6NRSyW6U2CGW7eedBPyB3f) | 2:53 |
 | 46 | [Indifferent](https://open.spotify.com/track/25y9YmRS4s6nrreQMCDjuP) | [Rowena Wise](https://open.spotify.com/artist/1cofMlotC1E8kMOfz1yhZC) | [Senseless Acts of Beauty](https://open.spotify.com/album/22yoZvRNLkA6JeonK3v4Ro) | 3:53 |

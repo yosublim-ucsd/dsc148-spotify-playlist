@@ -4,7 +4,7 @@
 
 > Keep calm and enjoy this musical cafecito.
 
-366 songs - 21 hr 11 min
+367 songs - 21 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Ay de Mi!](https://open.spotify.com/track/4wI84MgkVbVyP9VQ8A8xIU) | [Natalia Doco](https://open.spotify.com/artist/6UeIDlkYcSRGg4aLX1d4TN) | [Mucho Chino](https://open.spotify.com/album/02j0e4gNaEeGdo4qK6fgfD) | 2:49 | 2022-04-07 | 2022-07-07 |
 | [Azul \(with Rodrigo Amarante\)](https://open.spotify.com/track/58iNllszkXpDOcYRgcfLfH) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Rodrigo Amarante](https://open.spotify.com/artist/0UOrkpzPED604dKzxgfJqg) | [Mujer Divina \- Homenaje a Agustín Lara](https://open.spotify.com/album/3IwQTuKlyYUjH5foI0gACh) | 4:51 | 2021-12-09 | 2022-10-28 |
 | [Bachata Rosa](https://open.spotify.com/track/4kN3Q110F6hH9fSMNHlluH) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM), [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1) | [Bachata Rosa](https://open.spotify.com/album/572kD3xhAbww3C6eqh9mQV) | 4:15 | 2021-12-09 |  |
+| [Barco del Tiempo](https://open.spotify.com/track/4qApGI6Nt1Mryef3KLJTY0) | [Debi Nova](https://open.spotify.com/artist/5zaG384VZzAb6AMfEnSy2r), [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV) | [Dar Vida](https://open.spotify.com/album/17kVGKI88jjmL2XH4MNjYd) | 3:55 | 2024-05-24 |  |
 | [Barro, Cemento y Sal \(feat\. Silvana Estrada Beverido\)](https://open.spotify.com/track/6ILQZiGqQFvDawuu45ZCOe) | [Santiago Cruz](https://open.spotify.com/artist/5ClJtuiNlr83ua45Dvpcf7), [Silvana Estrada Beverido](https://open.spotify.com/artist/15e8wAIPW8vihGAOQiTUv4) | [Elementales](https://open.spotify.com/album/1dydo5mIdwoV2cvacOzcWo) | 4:23 | 2023-06-16 | 2024-04-19 |
 | [Barro, Cemento y Sal \(feat\. Silvana Estrada\)](https://open.spotify.com/track/67507AwT1mSegl0VA5qSCE) | [Santiago Cruz](https://open.spotify.com/artist/5ClJtuiNlr83ua45Dvpcf7), [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Barro, Cemento y Sal \(feat\. Silvana Estrada\)](https://open.spotify.com/album/7g0hzIsFEDIcTBLpcnZk1Q) | 4:24 | 2022-04-07 | 2022-04-21 |
 | [Batida do Amor](https://open.spotify.com/track/5KFdGVgTD4wLrlUesiWiVc) | [Francisca La Braza](https://open.spotify.com/artist/1m6KQa90x6qi9RJAZco74B), [Francisco, el Hombre](https://open.spotify.com/artist/317yGDHMNsNQMfjsNNPYUg), [BRAZA](https://open.spotify.com/artist/5F0iFhw7bZE7a8INjualJn) | [Francisca La Braza](https://open.spotify.com/album/6Xj8zgaUSBRrrDgmz4y4lS) | 3:54 | 2022-04-07 |  |
@@ -126,7 +127,7 @@
 | [Déjame Vivir](https://open.spotify.com/track/644yCL4wlubltqF7hBPQtp) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Caja De Música \(Edición Especial\)](https://open.spotify.com/album/0c3JGBp60aExJSYIQ0Hbej) | 3:34 | 2021-12-09 | 2022-07-08 |
 | [El Solitario Amor](https://open.spotify.com/track/0V9V7YN8hgej8fvj9iaLoo) | [Adan Jodorowsky](https://open.spotify.com/artist/5qUyJ52ARWXdUNECvFHBag), [The French Kiss](https://open.spotify.com/artist/6qFbQxxc80ar3IYpWTXKzg) | [El Solitario Amor](https://open.spotify.com/album/2AieUifG2ARpFMgKgO9LUO) | 2:55 | 2021-12-09 |  |
 | [El Tiempo del Tiempo](https://open.spotify.com/track/1e7en8fZVNLTkOFDooYKVY) | [Daniel Drexler](https://open.spotify.com/artist/5G1Mvuz6SvPPLgVv9NaJDk) | [El Tiempo del Tiempo](https://open.spotify.com/album/6j84DUWEjRRCjdqfKWRdpz) | 3:46 | 2024-03-14 |  |
-| [Ella](https://open.spotify.com/track/736rqYA7lM9lUzvimbUO13) | [Tiare](https://open.spotify.com/artist/5tcN4f1kT2KXbUelXPzjKK) | [Dieciséis](https://open.spotify.com/album/1cIIcB5mtiVWrvoGDKHJtZ) | 3:50 | 2022-05-14 |  |
+| [Ella](https://open.spotify.com/track/736rqYA7lM9lUzvimbUO13) | [Tiare](https://open.spotify.com/artist/5tcN4f1kT2KXbUelXPzjKK) | [Dieciséis](https://open.spotify.com/album/1cIIcB5mtiVWrvoGDKHJtZ) | 3:50 | 2022-05-14 | 2024-05-26 |
 | [Elo](https://open.spotify.com/track/5myvcDXAJk9igYbcVIYlFq) | [LADAMA](https://open.spotify.com/artist/5CA1T9fayw9qeF1wPDO9E9) | [LADAMA](https://open.spotify.com/album/0ZS5LZAEaWFcZEpdqwwub6) | 4:25 | 2022-04-07 | 2022-05-25 |
 | [Emotion](https://open.spotify.com/track/79WBauaqEC2d8PK1z4URAs) | [Cristina Valentina](https://open.spotify.com/artist/3pC5RVO04pJTFcp5xxdXaV) | [Emotion](https://open.spotify.com/album/5PPNxvehIUdmC1Rqb2lOFx) | 3:53 | 2022-09-21 | 2024-04-19 |
 | [Emotion \(Acoustic\)](https://open.spotify.com/track/5autpDsh1H9Ltf5bNztuA2) | [Cristina Valentina](https://open.spotify.com/artist/3pC5RVO04pJTFcp5xxdXaV) | [Emotion \(Acoustic\)](https://open.spotify.com/album/6L1MryypRIVPUz3GFtXTRK) | 3:53 | 2021-12-09 | 2022-07-29 |

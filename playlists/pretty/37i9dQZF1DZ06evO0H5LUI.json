@@ -1,12 +1,12 @@
 {
-  "description": "This is Leon Leiden. The essential tracks, all in one playlist.",
-  "num_followers": 9917,
+  "description": "This Is Leon Leiden. Los temas esenciales, todos en una lista.",
+  "num_followers": 9914,
   "original_name": "This Is Leon Leiden",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zk6HAAAAAADxHzXf5HjeIGBu4VbOrKN+",
+  "snapshot_id": "Zk/YgAAAAAD89PgJBcZWUka6RI4BiAA5",
   "tracks": [
     {
       "added_at": null,
@@ -27,26 +27,6 @@
       "duration_ms": 185454,
       "name": "Todo Mal",
       "url": "https://open.spotify.com/track/1T7o9INhyRVJ3yz40AOpJ2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Modo Melanc\u00f3lico",
-        "url": "https://open.spotify.com/album/3dc57wAaDKFlbjfb2Njuz1"
-      },
-      "artists": [
-        {
-          "name": "Leon Leiden",
-          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
-        },
-        {
-          "name": "TIM\u00d8",
-          "url": "https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX"
-        }
-      ],
-      "duration_ms": 166207,
-      "name": "Modo Melanc\u00f3lico",
-      "url": "https://open.spotify.com/track/4APwd61xpDtKY2rcac8VCI"
     },
     {
       "added_at": null,
@@ -211,6 +191,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Contigo Si",
+        "url": "https://open.spotify.com/album/0Iad8zEmBpMtEpU81jMWfX"
+      },
+      "artists": [
+        {
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        },
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        }
+      ],
+      "duration_ms": 228040,
+      "name": "Contigo Si",
+      "url": "https://open.spotify.com/track/2oDR6BqgQ9iuQguQL30UEU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Aqu\u00ed Estoy",
         "url": "https://open.spotify.com/album/1akofGzJY1aWUjkQK1qs6o"
       },
@@ -251,22 +251,6 @@
       "duration_ms": 166036,
       "name": "Marea (feat. legallyrxx)",
       "url": "https://open.spotify.com/track/63ZPI191Myh2F8GpzW14q1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Una Chica Como T\u00fa",
-        "url": "https://open.spotify.com/album/7neBiMNxuv7nz6z8v1JB1M"
-      },
-      "artists": [
-        {
-          "name": "Leon Leiden",
-          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
-        }
-      ],
-      "duration_ms": 167640,
-      "name": "Una Chica Como T\u00fa",
-      "url": "https://open.spotify.com/track/39IgIaGpqk7DQx7EZpmgCJ"
     },
     {
       "added_at": null,
@@ -607,6 +591,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Qu\u00e9 M\u00e1s Da",
+        "url": "https://open.spotify.com/album/3GEkEU52GYJsCPXm4UFpUi"
+      },
+      "artists": [
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        },
+        {
+          "name": "David Rees",
+          "url": "https://open.spotify.com/artist/2CQHyfluB4mliyv193Qn2L"
+        }
+      ],
+      "duration_ms": 195726,
+      "name": "Qu\u00e9 M\u00e1s Da",
+      "url": "https://open.spotify.com/track/14WCJzq5yQhdtDrcGm2WcZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "mp3.",
         "url": "https://open.spotify.com/album/7hay7ShcevjZmyMfrEYoF6"
       },
@@ -763,26 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "TSUNAMI",
-        "url": "https://open.spotify.com/album/6783uPp1wS4A7VZAUJyXbE"
-      },
-      "artists": [
-        {
-          "name": "DAAZ",
-          "url": "https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C"
-        },
-        {
-          "name": "Leon Leiden",
-          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
-        }
-      ],
-      "duration_ms": 166800,
-      "name": "TSUNAMI",
-      "url": "https://open.spotify.com/track/5cDMw4KFAlutwrHf2Zf8jd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cheve",
         "url": "https://open.spotify.com/album/7kqF1aMgkHnR2t2QcO4RHP"
       },
@@ -799,6 +783,26 @@
       "duration_ms": 174037,
       "name": "Cheve",
       "url": "https://open.spotify.com/track/2djtTuxLQbhu4FcMYYdKOD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TSUNAMI",
+        "url": "https://open.spotify.com/album/6783uPp1wS4A7VZAUJyXbE"
+      },
+      "artists": [
+        {
+          "name": "DAAZ",
+          "url": "https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C"
+        },
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        }
+      ],
+      "duration_ms": 166800,
+      "name": "TSUNAMI",
+      "url": "https://open.spotify.com/track/5cDMw4KFAlutwrHf2Zf8jd"
     },
     {
       "added_at": null,
@@ -839,6 +843,26 @@
       "duration_ms": 173936,
       "name": "Manzana",
       "url": "https://open.spotify.com/track/1BMoI40IIeE8hUtjSy8jQz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Estamos Aqu\u00ed",
+        "url": "https://open.spotify.com/album/6IbnsjiPCSJwhALs37S2Mu"
+      },
+      "artists": [
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        },
+        {
+          "name": "Adriel Favela",
+          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
+        }
+      ],
+      "duration_ms": 182698,
+      "name": "Estamos Aqu\u00ed",
+      "url": "https://open.spotify.com/track/74Ubz79KvXRUZWoJIIZl7f"
     },
     {
       "added_at": null,
@@ -999,22 +1023,6 @@
       "duration_ms": 170666,
       "name": "COMOSINADA",
       "url": "https://open.spotify.com/track/2v4RtwYOiTbvtQUueyU9Bz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Desamor Feliz Pt. 2",
-        "url": "https://open.spotify.com/album/0NrGygP6LZsmRMi1x3FhVj"
-      },
-      "artists": [
-        {
-          "name": "Leon Leiden",
-          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
-        }
-      ],
-      "duration_ms": 156168,
-      "name": "Desamor Feliz Pt. 2",
-      "url": "https://open.spotify.com/track/6AOnqRLQNHmGkZt0mCObS7"
     }
   ],
   "unique_name": "This Is Leon Leiden",

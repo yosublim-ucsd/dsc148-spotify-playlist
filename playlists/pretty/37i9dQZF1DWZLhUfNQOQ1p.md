@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain]
 
 > Musica per un aperitivo di gran classe selezionata dal re della disco italiana, Pino D'Angiò 🕺
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,127 likes - 50 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 245,134 likes - 50 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain]
 | 36 | [Okay Okay](https://open.spotify.com/track/0No2QwwffZCcZBZjG7Q73b) | [Pino D'Angiò](https://open.spotify.com/artist/1uXGmHao7MMRBwCCncmyB6) | [...Balla!](https://open.spotify.com/album/1nFv7xx9OHyArzWuCke1yE) | 4:18 |
 | 37 | [Prisencolinensinainciusol](https://open.spotify.com/track/0HQf0bd3oSZei450iKuUFR) | [Adriano Celentano](https://open.spotify.com/artist/1yq9UuPp5DIb5w6eswGbKV) | [Celentano Hit Parade / Le Volte Che Adriano E' Stato Primo](https://open.spotify.com/album/5dP9R1pAhtCoZJXU3iqW4y) | 3:49 |
 | 38 | [Living in America](https://open.spotify.com/track/0T1OrvV6bOQVL2vSQiDn6W) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [Living In America](https://open.spotify.com/album/0kY1Tg931A8dkaLmJve8ec) | 4:08 |
-| 39 | [Calling You \- Bagdad Cafe/Soundtrack Version](https://open.spotify.com/track/0TwsjNAtErKrdFImpIg9To) | [Jevetta Steele](https://open.spotify.com/artist/60uus5jXLZ6fArMHuqpQoR) | [Bagdad Cafe](https://open.spotify.com/album/7mWCUfRFz4lmttQsDo56BK) | 5:22 |
-| 40 | [Going Back To My Roots \(Original Radio Version\)](https://open.spotify.com/track/3gZs2MpDVNJb0CnPwkU3m9) | [Odyssey](https://open.spotify.com/artist/5b4SvpTqll0LSqJWPpXya5) | [Going Back To My Roots](https://open.spotify.com/album/4dVfYllF4WHh8Nfl9BPS2C) | 4:19 |
+| 39 | [Going Back To My Roots \(Original Radio Version\)](https://open.spotify.com/track/3gZs2MpDVNJb0CnPwkU3m9) | [Odyssey](https://open.spotify.com/artist/5b4SvpTqll0LSqJWPpXya5) | [Going Back To My Roots](https://open.spotify.com/album/4dVfYllF4WHh8Nfl9BPS2C) | 4:19 |
+| 40 | [Calling You \- Bagdad Cafe/Soundtrack Version](https://open.spotify.com/track/0TwsjNAtErKrdFImpIg9To) | [Jevetta Steele](https://open.spotify.com/artist/60uus5jXLZ6fArMHuqpQoR) | [Bagdad Cafe](https://open.spotify.com/album/7mWCUfRFz4lmttQsDo56BK) | 5:22 |
 | 41 | [Cannonball](https://open.spotify.com/track/7AW4T7G3e8VsZ8D7jV1hMr) | [Supertramp](https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx) | [Brother Where You Bound \(Remastered\)](https://open.spotify.com/album/4p0XFT3wsFk8P4rK8PhKqM) | 7:38 |
 | 42 | [A Million Miles](https://open.spotify.com/track/4ThY41ctjINKJ1YLGzH7Ro) | [Jimmy Sax](https://open.spotify.com/artist/3HUXmgW0AIko5psVtQmqWE), [Steve Edwards](https://open.spotify.com/artist/2SwhNukah1MYpLR594PnuC) | [A Million Miles](https://open.spotify.com/album/59w0ctNJAz22BooUc0kK2l) | 3:30 |
 | 43 | [Long Train Running](https://open.spotify.com/track/0iDJKnBMKCT6hRI7P5pce7) | [Traks](https://open.spotify.com/artist/4wkojVzWMNyrH7cQ3GJp6K) | [Long Train Running](https://open.spotify.com/album/6KTBqS65ZPz6M9lw98RXVl) | 7:02 |

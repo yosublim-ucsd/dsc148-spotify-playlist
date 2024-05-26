@@ -998,7 +998,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-26",
       "duration_ms": 120902,
       "name": "4 RANO",
       "url": "https://open.spotify.com/track/0yeSXZ4we6LzZUyUhoGOIS"
@@ -4793,6 +4793,36 @@
     },
     {
       "album": {
+        "name": "EKSKLUZYWNY G\u0141\u00d3D",
+        "url": "https://open.spotify.com/album/7LOKcNjVJnmyRlCzYPRjXE"
+      },
+      "artists": [
+        {
+          "name": "Young Igi",
+          "url": "https://open.spotify.com/artist/1yq2JzsqbzFbJ1B7wGOXLc"
+        },
+        {
+          "name": "Oki",
+          "url": "https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd"
+        },
+        {
+          "name": "Sergiusz",
+          "url": "https://open.spotify.com/artist/3vsRnplSphnC5VPIJgvUl0"
+        },
+        {
+          "name": "2K",
+          "url": "https://open.spotify.com/artist/0awWNjR5qmSZsQVFAo2NsR"
+        }
+      ],
+      "date_added": "2024-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154054,
+      "name": "BRAK REGU\u0141",
+      "url": "https://open.spotify.com/track/1U7pE3ztxh37auLRtIaWrK"
+    },
+    {
+      "album": {
         "name": "Bratan",
         "url": "https://open.spotify.com/album/3uZf1NihutNa85Hr8oST2q"
       },
@@ -5806,6 +5836,28 @@
       "duration_ms": 175280,
       "name": "Casting",
       "url": "https://open.spotify.com/track/19AEobuUpiSHbK2iGSrXZw"
+    },
+    {
+      "album": {
+        "name": "G",
+        "url": "https://open.spotify.com/album/7CEzHDYHDSP9roSsiSM7Wr"
+      },
+      "artists": [
+        {
+          "name": "Guzior",
+          "url": "https://open.spotify.com/artist/7uWyXPJ04ihdQdYGGw3xVV"
+        },
+        {
+          "name": "Kukon",
+          "url": "https://open.spotify.com/artist/3U5Oag04Yl2WnvPULOlsMD"
+        }
+      ],
+      "date_added": "2024-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203478,
+      "name": "CASTROL",
+      "url": "https://open.spotify.com/track/4MNLB3RQ9vGxvaNKoQHpIQ"
     },
     {
       "album": {
@@ -9892,7 +9944,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-26",
       "duration_ms": 150937,
       "name": "Dzi\u0119ki, \u017ce jeste\u015b",
       "url": "https://open.spotify.com/track/5Qw74vxmtJzAEYjy1wfVCk"
@@ -12477,6 +12529,28 @@
     },
     {
       "album": {
+        "name": "in real life",
+        "url": "https://open.spotify.com/album/00WMFLvaeDOplwURq1E2t7"
+      },
+      "artists": [
+        {
+          "name": "bambi",
+          "url": "https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk"
+        },
+        {
+          "name": "charlie moncler",
+          "url": "https://open.spotify.com/artist/37Pprth5H294i7rSnIkVVV"
+        }
+      ],
+      "date_added": "2024-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185084,
+      "name": "GRAWITACJA",
+      "url": "https://open.spotify.com/track/7pQkDJXFDCJUY0sSbbc8i9"
+    },
+    {
+      "album": {
         "name": "greedy",
         "url": "https://open.spotify.com/album/5TCVikuC7Npt0WOOWGxLs9"
       },
@@ -13138,6 +13212,28 @@
       "duration_ms": 216315,
       "name": "HGH",
       "url": "https://open.spotify.com/track/7j0FLIZT4tKZrKbaAsJPfd"
+    },
+    {
+      "album": {
+        "name": "HIFI (7 bieg)",
+        "url": "https://open.spotify.com/album/5PQEWjHpXnBiKuwzGa3XMD"
+      },
+      "artists": [
+        {
+          "name": "MODELKI",
+          "url": "https://open.spotify.com/artist/3cBLJizprytrMpuFbnRnaE"
+        },
+        {
+          "name": "V\u0142odarski",
+          "url": "https://open.spotify.com/artist/75wMNgYkzacOI08FN7BaG0"
+        }
+      ],
+      "date_added": "2024-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "HIFI (7 bieg)",
+      "url": "https://open.spotify.com/track/21radxZ4Xh5Zsq9lQ9hEs1"
     },
     {
       "album": {
@@ -28808,7 +28904,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-25",
+      "date_removed": null,
       "duration_ms": 180740,
       "name": "Red Flag",
       "url": "https://open.spotify.com/track/7JcJGXbYk5K6KUngkEXuiA"
@@ -31804,10 +31900,28 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-26",
       "duration_ms": 183703,
       "name": "STRZELAM PETEM",
       "url": "https://open.spotify.com/track/6aZDSWiRvTWCfams9bu8rH"
+    },
+    {
+      "album": {
+        "name": "G",
+        "url": "https://open.spotify.com/album/7CEzHDYHDSP9roSsiSM7Wr"
+      },
+      "artists": [
+        {
+          "name": "Guzior",
+          "url": "https://open.spotify.com/artist/7uWyXPJ04ihdQdYGGw3xVV"
+        }
+      ],
+      "date_added": "2024-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183703,
+      "name": "STRZELAM PETEM",
+      "url": "https://open.spotify.com/track/7yHuqNnOtkfc2k9GF7nMMR"
     },
     {
       "album": {
@@ -33466,7 +33580,7 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-26",
       "duration_ms": 180141,
       "name": "The Code",
       "url": "https://open.spotify.com/track/1EjIXKhNHI00ZLMRpS8iz8"
@@ -35746,7 +35860,7 @@
       ],
       "date_added": "2024-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-26",
       "duration_ms": 228639,
       "name": "we can't be friends (wait for your love)",
       "url": "https://open.spotify.com/track/51ZQ1vr10ffzbwIjDCwqm4"
@@ -36206,7 +36320,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-26",
       "duration_ms": 261466,
       "name": "WILDFLOWER",
       "url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h"

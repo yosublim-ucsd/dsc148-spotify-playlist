@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2024-04-26",
   "description": "Updated daily, with the latest popular singles!",
-  "name": "NEW SINGLES RELEASES | UPDATED 25 MAY",
+  "name": "NEW SINGLES RELEASES | UPDATED 26 MAY",
   "tracks": [
     {
       "album": {
@@ -128,7 +128,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-26",
       "duration_ms": 139981,
       "name": "80qm",
       "url": "https://open.spotify.com/track/13Ozua7wPk2dU3NIIgJJJo"
@@ -842,7 +842,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-26",
       "duration_ms": 109104,
       "name": "BlackSabbath",
       "url": "https://open.spotify.com/track/2XZ9PsN24za6WhNbeCieG6"
@@ -1226,6 +1226,24 @@
       "duration_ms": 188840,
       "name": "Butterfly",
       "url": "https://open.spotify.com/track/02ErXm9zvvhi7qT7JUGhZj"
+    },
+    {
+      "album": {
+        "name": "By The Evening",
+        "url": "https://open.spotify.com/album/3rRTLxAgSPxOD5i4p1a8ab"
+      },
+      "artists": [
+        {
+          "name": "Fredo Bang",
+          "url": "https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv"
+        }
+      ],
+      "date_added": "2024-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174798,
+      "name": "By The Evening",
+      "url": "https://open.spotify.com/track/7x2VKKaiXYbFztJhq0p3nN"
     },
     {
       "album": {
@@ -3124,7 +3142,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-26",
       "duration_ms": 198857,
       "name": "hate the world without u (maddy's song)",
       "url": "https://open.spotify.com/track/7A0KAzWpuNphmvXz7uIJ38"
@@ -3381,6 +3399,24 @@
     },
     {
       "album": {
+        "name": "Hurt You",
+        "url": "https://open.spotify.com/album/4fdr5cs7ZfMguZOEKYbXPQ"
+      },
+      "artists": [
+        {
+          "name": "\u4e8c\u53e3\u9b54\u83dc Futakuchi Mana",
+          "url": "https://open.spotify.com/artist/6nhHInOnQSWKRxntTHBH29"
+        }
+      ],
+      "date_added": "2024-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230753,
+      "name": "Hurt You",
+      "url": "https://open.spotify.com/track/12pGqwL9vpWEjGHLL2KaKu"
+    },
+    {
+      "album": {
         "name": "Hymn Of Decay",
         "url": "https://open.spotify.com/album/4ZtrDZgiwAvE58Xpn56f0K"
       },
@@ -3552,7 +3588,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-26",
       "duration_ms": 240653,
       "name": "I Was A Sailor",
       "url": "https://open.spotify.com/track/2qO4PvWDojlplbvSrCBUvF"
@@ -3744,7 +3780,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-26",
       "duration_ms": 145846,
       "name": "it boy",
       "url": "https://open.spotify.com/track/2UerDbZznc07mmGMD3WfHH"
@@ -4079,6 +4115,28 @@
     },
     {
       "album": {
+        "name": "LET U LEAD (with Billy Lemos)",
+        "url": "https://open.spotify.com/album/3qm24mQwYYo7GFGZanPgwc"
+      },
+      "artists": [
+        {
+          "name": "Noah Guy",
+          "url": "https://open.spotify.com/artist/0Cj5PLNNGVOsXUig1ic4s5"
+        },
+        {
+          "name": "Billy Lemos",
+          "url": "https://open.spotify.com/artist/7ebBg3BuRFa2satTcY8whC"
+        }
+      ],
+      "date_added": "2024-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150857,
+      "name": "LET U LEAD (with Billy Lemos)",
+      "url": "https://open.spotify.com/track/5rp6f6CiXVjpZ09u0BHeeN"
+    },
+    {
+      "album": {
         "name": "like i love you",
         "url": "https://open.spotify.com/album/6nD7hdn9bNjTE0WCuLwCS2"
       },
@@ -4376,6 +4434,24 @@
       "duration_ms": 271969,
       "name": "L\u2019AMOUR DE MA VIE [OVER NOW EXTENDED EDIT]",
       "url": "https://open.spotify.com/track/2Y6U158gVXfvqNWOLdis0R"
+    },
+    {
+      "album": {
+        "name": "Mach die Augen auf",
+        "url": "https://open.spotify.com/album/6LUAQItFCJarUpFHnzMjtH"
+      },
+      "artists": [
+        {
+          "name": "CIVO",
+          "url": "https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8"
+        }
+      ],
+      "date_added": "2024-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111206,
+      "name": "Mach die Augen auf",
+      "url": "https://open.spotify.com/track/74EasdbNav1osDCwRCFwrS"
     },
     {
       "album": {
@@ -4754,7 +4830,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-26",
       "duration_ms": 218092,
       "name": "My Friends",
       "url": "https://open.spotify.com/track/08MOQSF73Qh9dXprm6Il0o"
@@ -5780,7 +5856,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-26",
       "duration_ms": 124613,
       "name": "Q-Dogz",
       "url": "https://open.spotify.com/track/6EK17FKKOldTKXCS11Jqh4"
@@ -6475,6 +6551,24 @@
     },
     {
       "album": {
+        "name": "Silver Tongue",
+        "url": "https://open.spotify.com/album/6kzadEspZVh3DAFv5BnulS"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2024-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262741,
+      "name": "Silver Tongue",
+      "url": "https://open.spotify.com/track/0Qxsuh1NoCMWDYVfC49XRE"
+    },
+    {
+      "album": {
         "name": "SIMMER",
         "url": "https://open.spotify.com/album/0jmSZLtFG74vjKqjIFGBOo"
       },
@@ -6646,6 +6740,24 @@
       "duration_ms": 204121,
       "name": "Somebody's Child",
       "url": "https://open.spotify.com/track/28lmqduaFZVV6r46kALIpP"
+    },
+    {
+      "album": {
+        "name": "Something I'm Not",
+        "url": "https://open.spotify.com/album/6TprautIu2RUz8oYQSv8BB"
+      },
+      "artists": [
+        {
+          "name": "Graphic Nature",
+          "url": "https://open.spotify.com/artist/0QUcDHMfwBsMAufKXbzhkH"
+        }
+      ],
+      "date_added": "2024-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205837,
+      "name": "Something I'm Not",
+      "url": "https://open.spotify.com/track/266NgH6rHSWkgdTSHyVfnB"
     },
     {
       "album": {
@@ -7030,6 +7142,28 @@
       "duration_ms": 131240,
       "name": "Tasty",
       "url": "https://open.spotify.com/track/7CRxtUYdaNwgUICPi2iScL"
+    },
+    {
+      "album": {
+        "name": "TED TALK",
+        "url": "https://open.spotify.com/album/5rE2Bsd0oB0nb6iYtajzIO"
+      },
+      "artists": [
+        {
+          "name": "demahjiae",
+          "url": "https://open.spotify.com/artist/0BajT9ZXitGajSuc16Rass"
+        },
+        {
+          "name": "Ovrkast.",
+          "url": "https://open.spotify.com/artist/4YISTUJnoZtAy6LjgOpRL7"
+        }
+      ],
+      "date_added": "2024-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103225,
+      "name": "TED TALK",
+      "url": "https://open.spotify.com/track/5vwWnJKW3aw1UrD1u7fvOG"
     },
     {
       "album": {

@@ -42,7 +42,7 @@
       ],
       "date_added": "2024-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-26",
       "duration_ms": 193920,
       "name": "About U",
       "url": "https://open.spotify.com/track/01ve4Yns1iSXwBwpNAhOYP"
@@ -2980,6 +2980,24 @@
       "duration_ms": 158847,
       "name": "YEAH (feat. ClockClock)",
       "url": "https://open.spotify.com/track/2OXvvdHQ9Q4KAqd152MTj2"
+    },
+    {
+      "album": {
+        "name": "YOU",
+        "url": "https://open.spotify.com/album/4qE54SmcIkvf3k1ljtffwl"
+      },
+      "artists": [
+        {
+          "name": "Phil The Beat",
+          "url": "https://open.spotify.com/artist/35pKZ36ma78w8aE467fRO9"
+        }
+      ],
+      "date_added": "2024-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132500,
+      "name": "YOU",
+      "url": "https://open.spotify.com/track/6cVNYlO75XZ3UZnglTF6WI"
     },
     {
       "album": {

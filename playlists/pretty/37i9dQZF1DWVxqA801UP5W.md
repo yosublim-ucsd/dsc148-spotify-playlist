@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxqA801UP5W.md) - [plain]
 
 > All your favourite pop songs, remixed to perfection\. Cover: Ariana Grande
 
-[Spotify](https://open.spotify.com/user/spotify) - 456,165 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 456,201 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxqA801UP5W.md) - [plain]
 | 20 | [Alone \- Major Lazer Remix](https://open.spotify.com/track/5j8DeNfHqMFE5c9pSRhhJP) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [MAKJ](https://open.spotify.com/artist/3PtCud9dIdOv4exrzdZZ1C) | [Alone \(Major Lazer Remix\)](https://open.spotify.com/album/3hZspK8JUoriWl0xf4sApo) | 2:48 |
 | 21 | [REACT \- D.O.D Remix](https://open.spotify.com/track/1nduTOCUhGhkMGRH6NBmit) | [Switch Disco](https://open.spotify.com/artist/4dEayBlrVBjaQOktGkmWki), [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB) | [REACT \(D.O.D Remix\)](https://open.spotify.com/album/3z1xjXM8LPuABJSw64mmzH) | 2:15 |
 | 22 | [Bad Habits \- MEDUZA Remix](https://open.spotify.com/track/12N23tQKmfGcEO0z8ObwtM) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu) | [Bad Habits \(MEDUZA Remix\)](https://open.spotify.com/album/6KMHosj3h5fkGwPoTK9gvB) | 3:14 |
-| 23 | [Speed Drive \- jamesjamesjames Remix; From Barbie The Album](https://open.spotify.com/track/5Ww9JTu9VNftDjSvjlNzHz) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [jamesjamesjames](https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ) | [Speed Drive](https://open.spotify.com/album/3pUyExZz3VhtXDospnbazV) | 4:24 |
+| 23 | [Speed Drive](https://open.spotify.com/track/5Ww9JTu9VNftDjSvjlNzHz) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [jamesjamesjames](https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ) | [Speed Drive](https://open.spotify.com/album/3pUyExZz3VhtXDospnbazV) | 4:24 |
 | 24 | [Training Season \- Chloé Caillet Mix](https://open.spotify.com/track/54Csi59aEo0ENBuwIWtTPJ) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Chloé Caillet](https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a) | [Training Season \(Chloé Caillet Mix\)](https://open.spotify.com/album/0XCixBnX3pucK2merSXAN2) | 4:55 |
 | 25 | [Good Love \- Tiësto Remix](https://open.spotify.com/track/64EVtIxtoYJorqaMjHGzPM) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o), [RoRo](https://open.spotify.com/artist/4AuHHsxMRVg7bXSgvlrAff), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Good Love \(Tiësto Remix\)](https://open.spotify.com/album/0JIbQeiVdvWJq3oLLfpYAJ) | 3:02 |
 | 26 | [Don't Go Yet \- Major Lazer Remix](https://open.spotify.com/track/5Ay8r4qxJ1OYLS91tWysRf) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp) | [Don't Go Yet \(Major Lazer Remix\)](https://open.spotify.com/album/3jTLjbylYAkf4nbCPuz2Qo) | 2:51 |

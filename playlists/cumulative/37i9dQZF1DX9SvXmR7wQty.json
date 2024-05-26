@@ -4948,7 +4948,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-26",
       "duration_ms": 151410,
       "name": "Bodyguard",
       "url": "https://open.spotify.com/track/0WZIEenmTdjetpUh7iWWN1"
@@ -24523,6 +24523,28 @@
     },
     {
       "album": {
+        "name": "Lalla",
+        "url": "https://open.spotify.com/album/5OXNr5pjxuzvHgWTV4mRp0"
+      },
+      "artists": [
+        {
+          "name": "Kore",
+          "url": "https://open.spotify.com/artist/78Die3Gb8yaElTmGCa7m7N"
+        },
+        {
+          "name": "Hamza",
+          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187319,
+      "name": "Lalla",
+      "url": "https://open.spotify.com/track/1iM4agLs3G8ihIHEcWojcN"
+    },
+    {
+      "album": {
         "name": "Lamborghini",
         "url": "https://open.spotify.com/album/2BaNOV1st3WvTlFNbDFBxx"
       },
@@ -41337,6 +41359,24 @@
     },
     {
       "album": {
+        "name": "Imad",
+        "url": "https://open.spotify.com/album/2JQGzY8aNTwefM5JBoL5M7"
+      },
+      "artists": [
+        {
+          "name": "THEODORT",
+          "url": "https://open.spotify.com/artist/6q87j1F6EtUxjlvkJNknFp"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184680,
+      "name": "Si \u00e7a va",
+      "url": "https://open.spotify.com/track/3qL5wlh5GaEKam28diqZo9"
+    },
+    {
+      "album": {
         "name": "Sick",
         "url": "https://open.spotify.com/album/4hRqx45H740VEGxb3KUewe"
       },
@@ -44264,7 +44304,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-26",
       "duration_ms": 162580,
       "name": "Toi & Moi",
       "url": "https://open.spotify.com/track/2oMSuuGg4HlLsWrDR1Bhtu"

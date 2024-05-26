@@ -1,6 +1,6 @@
 {
   "description": "Les plus grands tubes de vari\u00e9t\u00e9 fran\u00e7aise d'hier et d'aujourd'hui.",
-  "num_followers": 477429,
+  "num_followers": 477457,
   "original_name": "Culture Tubes",
   "owner": {
     "name": "Spotify",
@@ -443,6 +443,22 @@
     {
       "added_at": "2024-03-05 21:04:31",
       "album": {
+        "name": "Beaus\u00e9jour (Remasteris\u00e9 en 2002)",
+        "url": "https://open.spotify.com/album/0Y4vMNL3oLTxyWBBmIm0cA"
+      },
+      "artists": [
+        {
+          "name": "Michel Berger",
+          "url": "https://open.spotify.com/artist/5skauLarl8sqqUFypECtP4"
+        }
+      ],
+      "duration_ms": 282813,
+      "name": "La groupie du pianiste - Remasteris\u00e9 en 2002",
+      "url": "https://open.spotify.com/track/496eQC5FPo3dmfNRXPcmps"
+    },
+    {
+      "added_at": "2024-03-05 21:04:31",
+      "album": {
         "name": "Non homologu\u00e9",
         "url": "https://open.spotify.com/album/3svVRotnkGO3jhrPcCeeCA"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 265400,
       "name": "Je te donne",
       "url": "https://open.spotify.com/track/55mXuPsEm6aboDIM68RM74"
-    },
-    {
-      "added_at": "2024-03-05 21:04:31",
-      "album": {
-        "name": "Beaus\u00e9jour (Remasteris\u00e9 en 2002)",
-        "url": "https://open.spotify.com/album/0Y4vMNL3oLTxyWBBmIm0cA"
-      },
-      "artists": [
-        {
-          "name": "Michel Berger",
-          "url": "https://open.spotify.com/artist/5skauLarl8sqqUFypECtP4"
-        }
-      ],
-      "duration_ms": 282813,
-      "name": "La groupie du pianiste - Remasteris\u00e9 en 2002",
-      "url": "https://open.spotify.com/track/496eQC5FPo3dmfNRXPcmps"
     },
     {
       "added_at": "2024-03-05 21:04:31",
@@ -591,6 +591,22 @@
     {
       "added_at": "2024-03-05 21:04:31",
       "album": {
+        "name": "Quand la musique est bonne",
+        "url": "https://open.spotify.com/album/3yMtfupTbgavO0AxQbt3UZ"
+      },
+      "artists": [
+        {
+          "name": "Jean-Jacques Goldman",
+          "url": "https://open.spotify.com/artist/2Cx19OTMqa6gpz2l60cGG2"
+        }
+      ],
+      "duration_ms": 232440,
+      "name": "Quand la musique est bonne",
+      "url": "https://open.spotify.com/track/0Wh6e5EkmQseBGVeJqzC9X"
+    },
+    {
+      "added_at": "2024-03-05 21:04:31",
+      "album": {
         "name": "MESDAMES deluxe",
         "url": "https://open.spotify.com/album/6lZU65hX50fImkVKlSUdLh"
       },
@@ -611,34 +627,18 @@
     {
       "added_at": "2024-03-05 21:04:31",
       "album": {
-        "name": "Pour Un Flirt - Vol.1",
-        "url": "https://open.spotify.com/album/4rjlNg6YeoR9JqMaWhFi71"
+        "name": "Paris, France (Remasteris\u00e9 en 2004)",
+        "url": "https://open.spotify.com/album/5Ni3yIgxhLwuC3B08SQ4r7"
       },
       "artists": [
         {
-          "name": "Michel Delpech",
-          "url": "https://open.spotify.com/artist/4T795JhhCZMWM01DLcX98p"
+          "name": "France Gall",
+          "url": "https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I"
         }
       ],
-      "duration_ms": 206160,
-      "name": "Pour un flirt",
-      "url": "https://open.spotify.com/track/0RDUfBXGq7lhBAqlyu0UAy"
-    },
-    {
-      "added_at": "2024-03-05 21:04:31",
-      "album": {
-        "name": "Quand la musique est bonne",
-        "url": "https://open.spotify.com/album/3yMtfupTbgavO0AxQbt3UZ"
-      },
-      "artists": [
-        {
-          "name": "Jean-Jacques Goldman",
-          "url": "https://open.spotify.com/artist/2Cx19OTMqa6gpz2l60cGG2"
-        }
-      ],
-      "duration_ms": 232440,
-      "name": "Quand la musique est bonne",
-      "url": "https://open.spotify.com/track/0Wh6e5EkmQseBGVeJqzC9X"
+      "duration_ms": 273626,
+      "name": "Il jouait du piano debout - Remasteris\u00e9 en 2004",
+      "url": "https://open.spotify.com/track/3GfUHAoOSGy3hhEaTU34WV"
     },
     {
       "added_at": "2024-03-05 21:04:31",
@@ -659,18 +659,18 @@
     {
       "added_at": "2024-03-05 21:04:31",
       "album": {
-        "name": "Paris, France (Remasteris\u00e9 en 2004)",
-        "url": "https://open.spotify.com/album/5Ni3yIgxhLwuC3B08SQ4r7"
+        "name": "Pour Un Flirt - Vol.1",
+        "url": "https://open.spotify.com/album/4rjlNg6YeoR9JqMaWhFi71"
       },
       "artists": [
         {
-          "name": "France Gall",
-          "url": "https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I"
+          "name": "Michel Delpech",
+          "url": "https://open.spotify.com/artist/4T795JhhCZMWM01DLcX98p"
         }
       ],
-      "duration_ms": 273626,
-      "name": "Il jouait du piano debout - Remasteris\u00e9 en 2004",
-      "url": "https://open.spotify.com/track/3GfUHAoOSGy3hhEaTU34WV"
+      "duration_ms": 206160,
+      "name": "Pour un flirt",
+      "url": "https://open.spotify.com/track/0RDUfBXGq7lhBAqlyu0UAy"
     },
     {
       "added_at": "2024-03-05 21:04:31",
@@ -823,18 +823,18 @@
     {
       "added_at": "2024-03-05 21:04:31",
       "album": {
-        "name": "Grain de sable",
-        "url": "https://open.spotify.com/album/7GMBb8Rly9ZSCIBMlN8Jhw"
+        "name": "Un autre monde (Remasteris\u00e9 en 2015)",
+        "url": "https://open.spotify.com/album/5DiavRKmdRpqdzgBjoNEF3"
       },
       "artists": [
         {
-          "name": "Tryo",
-          "url": "https://open.spotify.com/artist/4ZP3CHz28XWVLGiaVVWuLj"
+          "name": "T\u00e9l\u00e9phone",
+          "url": "https://open.spotify.com/artist/3fQq9bb2ZKNv24V1A4vwBK"
         }
       ],
-      "duration_ms": 219960,
-      "name": "D\u00e9sol\u00e9 pour hier soir",
-      "url": "https://open.spotify.com/track/1OPUGXvJXEWZu6qqBr0VTF"
+      "duration_ms": 273920,
+      "name": "Un autre monde - Remasteris\u00e9 en 2015",
+      "url": "https://open.spotify.com/track/3I4ecHrrMuD8FFfFCVy4g5"
     }
   ],
   "unique_name": "Culture Tubes",
