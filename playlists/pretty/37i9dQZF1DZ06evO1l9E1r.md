@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1l9E1r.md) - [plain]
 
 ### [This Is Hildur Guðnadóttir](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1l9E1r)
 
-> This is Hildur Guðnadóttir\. The essential tracks, all in one playlist.
+> This Is Hildur Guðnadóttir\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,821 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,822 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1l9E1r.md) - [plain]
 | 49 | [Heyr Himnasmiður](https://open.spotify.com/track/05CkMXd8poyR5x8hyHGyrY) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y), [David Wiebe](https://open.spotify.com/artist/64S6C03quUseqyfpkQDw4Z) | [Saman](https://open.spotify.com/album/4aUIcPykNGnZ6sYRGaM2Dk) | 3:09 |
 | 50 | [He Died for All of Us](https://open.spotify.com/track/2z9fw5IFCzeijjc1cLvtga) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y), [Rutger Hoedemaekers](https://open.spotify.com/artist/7kQbJjWdRUqDTogZYgrvJ5), [Jóhann Jóhannsson](https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF) | [Trapped \(Original Television Series Soundtrack\)](https://open.spotify.com/album/3HNb8rC7ZKIWIuWbDZda4L) | 1:35 |
 
-Snapshot ID: `Zk/YgAAAAABlVpgAIhKnUZZgtQLfrYZX`
+Snapshot ID: `Zk/YgAAAAADB/s5aK8wGg9EZ7UkRUvsq`

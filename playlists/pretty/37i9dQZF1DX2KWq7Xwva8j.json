@@ -1,6 +1,6 @@
 {
   "description": "El futuro est\u00e1 aqu\u00ed. Foto: Luis Cort\u00e9s",
-  "num_followers": 26426,
+  "num_followers": 26421,
   "original_name": "RADAR Espa\u00f1a",
   "owner": {
     "name": "Spotify",
@@ -103,22 +103,6 @@
     {
       "added_at": "2024-05-23 07:53:28",
       "album": {
-        "name": "ME DUELE QUERERTE",
-        "url": "https://open.spotify.com/album/3ltONa8Qqs0FM5v2xeuhoJ"
-      },
-      "artists": [
-        {
-          "name": "Luis Cort\u00e9s",
-          "url": "https://open.spotify.com/artist/49wxwtIqjRKbj0d3eHDMRJ"
-        }
-      ],
-      "duration_ms": 146966,
-      "name": "ME DUELE QUERERTE",
-      "url": "https://open.spotify.com/track/6x8ft5OkZJon6um838FaZA"
-    },
-    {
-      "added_at": "2024-05-23 07:53:28",
-      "album": {
         "name": "oh boi",
         "url": "https://open.spotify.com/album/6PJNpyvjXzbPyYAYvSPJlM"
       },
@@ -131,6 +115,22 @@
       "duration_ms": 160333,
       "name": "oh boi",
       "url": "https://open.spotify.com/track/2BkSglj7a3gYYm25lNNUjf"
+    },
+    {
+      "added_at": "2024-05-23 07:53:28",
+      "album": {
+        "name": "ME DUELE QUERERTE",
+        "url": "https://open.spotify.com/album/3ltONa8Qqs0FM5v2xeuhoJ"
+      },
+      "artists": [
+        {
+          "name": "Luis Cort\u00e9s",
+          "url": "https://open.spotify.com/artist/49wxwtIqjRKbj0d3eHDMRJ"
+        }
+      ],
+      "duration_ms": 146966,
+      "name": "ME DUELE QUERERTE",
+      "url": "https://open.spotify.com/track/6x8ft5OkZJon6um838FaZA"
     },
     {
       "added_at": "2024-05-23 07:53:28",
@@ -171,18 +171,18 @@
     {
       "added_at": "2024-05-23 07:53:28",
       "album": {
-        "name": "Me da igual",
-        "url": "https://open.spotify.com/album/0bQhmz2Ii5ju99yHsbKdZ8"
+        "name": "Otra Vida",
+        "url": "https://open.spotify.com/album/3zPvKGXs9G0lJHMvvUIxbj"
       },
       "artists": [
         {
-          "name": "Charlie USG",
-          "url": "https://open.spotify.com/artist/6SQxxV1mB4oLifst53eQpw"
+          "name": "pablopablo",
+          "url": "https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ"
         }
       ],
-      "duration_ms": 171871,
-      "name": "Me da igual",
-      "url": "https://open.spotify.com/track/1KzO88hc8I7InCz4IM0u3J"
+      "duration_ms": 218752,
+      "name": "Otra Vida",
+      "url": "https://open.spotify.com/track/3YPC9AqtPc28og6HGczvZ3"
     },
     {
       "added_at": "2024-05-23 07:53:28",
@@ -203,18 +203,18 @@
     {
       "added_at": "2024-05-23 07:53:28",
       "album": {
-        "name": "Otra Vida",
-        "url": "https://open.spotify.com/album/3zPvKGXs9G0lJHMvvUIxbj"
+        "name": "Me da igual",
+        "url": "https://open.spotify.com/album/0bQhmz2Ii5ju99yHsbKdZ8"
       },
       "artists": [
         {
-          "name": "pablopablo",
-          "url": "https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ"
+          "name": "Charlie USG",
+          "url": "https://open.spotify.com/artist/6SQxxV1mB4oLifst53eQpw"
         }
       ],
-      "duration_ms": 218752,
-      "name": "Otra Vida",
-      "url": "https://open.spotify.com/track/3YPC9AqtPc28og6HGczvZ3"
+      "duration_ms": 171871,
+      "name": "Me da igual",
+      "url": "https://open.spotify.com/track/1KzO88hc8I7InCz4IM0u3J"
     },
     {
       "added_at": "2024-05-23 07:53:28",
@@ -243,6 +243,22 @@
     {
       "added_at": "2024-05-23 07:53:28",
       "album": {
+        "name": "Vicente Amor",
+        "url": "https://open.spotify.com/album/4kDXE9CEGdB3CcoroleDP4"
+      },
+      "artists": [
+        {
+          "name": "shego",
+          "url": "https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33"
+        }
+      ],
+      "duration_ms": 112551,
+      "name": "Vicente Amor",
+      "url": "https://open.spotify.com/track/6cT3lvZsX1QOqo5LPgQSHJ"
+    },
+    {
+      "added_at": "2024-05-23 07:53:28",
+      "album": {
         "name": "Coraz\u00f3n Quemado",
         "url": "https://open.spotify.com/album/3Z4oiCXucKORyireiaaYev"
       },
@@ -255,6 +271,22 @@
       "duration_ms": 185473,
       "name": "Coraz\u00f3n Quemado",
       "url": "https://open.spotify.com/track/6IGEcJDI3vTApF34vv5OT7"
+    },
+    {
+      "added_at": "2024-05-23 07:53:28",
+      "album": {
+        "name": "pablopablo",
+        "url": "https://open.spotify.com/album/38EtfKgkkMlr936UGUKadp"
+      },
+      "artists": [
+        {
+          "name": "pablopablo",
+          "url": "https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ"
+        }
+      ],
+      "duration_ms": 97422,
+      "name": "Azul Zafiro",
+      "url": "https://open.spotify.com/track/4BjZ8aS0Z69GQrknhlgYBO"
     },
     {
       "added_at": "2024-05-23 07:53:28",
@@ -291,38 +323,6 @@
     {
       "added_at": "2024-05-23 07:53:28",
       "album": {
-        "name": "Lo que nunca te dije",
-        "url": "https://open.spotify.com/album/4DeVzia799oFvKCOLdwKID"
-      },
-      "artists": [
-        {
-          "name": "Charlie USG",
-          "url": "https://open.spotify.com/artist/6SQxxV1mB4oLifst53eQpw"
-        }
-      ],
-      "duration_ms": 160632,
-      "name": "Lo que nunca te dije",
-      "url": "https://open.spotify.com/track/2usK8iQmaHhP8xK4MDEiGY"
-    },
-    {
-      "added_at": "2024-05-23 07:53:28",
-      "album": {
-        "name": "Vicente Amor",
-        "url": "https://open.spotify.com/album/4kDXE9CEGdB3CcoroleDP4"
-      },
-      "artists": [
-        {
-          "name": "shego",
-          "url": "https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33"
-        }
-      ],
-      "duration_ms": 112551,
-      "name": "Vicente Amor",
-      "url": "https://open.spotify.com/track/6cT3lvZsX1QOqo5LPgQSHJ"
-    },
-    {
-      "added_at": "2024-05-23 07:53:28",
-      "album": {
         "name": "De Charco En Charco",
         "url": "https://open.spotify.com/album/3FTwA6nTjoLwzGzVtuJkqN"
       },
@@ -343,6 +343,22 @@
     {
       "added_at": "2024-05-23 07:53:28",
       "album": {
+        "name": "Lo que nunca te dije",
+        "url": "https://open.spotify.com/album/4DeVzia799oFvKCOLdwKID"
+      },
+      "artists": [
+        {
+          "name": "Charlie USG",
+          "url": "https://open.spotify.com/artist/6SQxxV1mB4oLifst53eQpw"
+        }
+      ],
+      "duration_ms": 160632,
+      "name": "Lo que nunca te dije",
+      "url": "https://open.spotify.com/track/2usK8iQmaHhP8xK4MDEiGY"
+    },
+    {
+      "added_at": "2024-05-23 07:53:28",
+      "album": {
         "name": "Estamos a un beso",
         "url": "https://open.spotify.com/album/7Gf9kJXYIaRwbgnbG0vHxM"
       },
@@ -359,34 +375,18 @@
     {
       "added_at": "2024-05-23 07:53:28",
       "album": {
-        "name": "Polonia",
-        "url": "https://open.spotify.com/album/4h5qALHn8Hf6JdntCluoJJ"
+        "name": "fumas?",
+        "url": "https://open.spotify.com/album/1p6vHLfbxtblsutqSeWTDI"
       },
       "artists": [
         {
-          "name": "Charlie USG",
-          "url": "https://open.spotify.com/artist/6SQxxV1mB4oLifst53eQpw"
+          "name": "shego",
+          "url": "https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33"
         }
       ],
-      "duration_ms": 165267,
-      "name": "Polonia",
-      "url": "https://open.spotify.com/track/3UNrrmmtFQlDx075B8JEBp"
-    },
-    {
-      "added_at": "2024-05-23 07:53:28",
-      "album": {
-        "name": "pablopablo",
-        "url": "https://open.spotify.com/album/38EtfKgkkMlr936UGUKadp"
-      },
-      "artists": [
-        {
-          "name": "pablopablo",
-          "url": "https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ"
-        }
-      ],
-      "duration_ms": 97422,
-      "name": "Azul Zafiro",
-      "url": "https://open.spotify.com/track/4BjZ8aS0Z69GQrknhlgYBO"
+      "duration_ms": 178111,
+      "name": "fumas?",
+      "url": "https://open.spotify.com/track/7AltFl3cm57Qq2cW70ieXM"
     },
     {
       "added_at": "2024-05-23 07:53:28",
@@ -415,18 +415,34 @@
     {
       "added_at": "2024-05-23 07:53:28",
       "album": {
-        "name": "fumas?",
-        "url": "https://open.spotify.com/album/1p6vHLfbxtblsutqSeWTDI"
+        "name": "pablopablo",
+        "url": "https://open.spotify.com/album/38EtfKgkkMlr936UGUKadp"
       },
       "artists": [
         {
-          "name": "shego",
-          "url": "https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33"
+          "name": "pablopablo",
+          "url": "https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ"
         }
       ],
-      "duration_ms": 178111,
-      "name": "fumas?",
-      "url": "https://open.spotify.com/track/7AltFl3cm57Qq2cW70ieXM"
+      "duration_ms": 213563,
+      "name": "Mandela Place",
+      "url": "https://open.spotify.com/track/1d3LnbVCbpcAZGdOCw7PlQ"
+    },
+    {
+      "added_at": "2024-05-23 07:53:28",
+      "album": {
+        "name": "Polonia",
+        "url": "https://open.spotify.com/album/4h5qALHn8Hf6JdntCluoJJ"
+      },
+      "artists": [
+        {
+          "name": "Charlie USG",
+          "url": "https://open.spotify.com/artist/6SQxxV1mB4oLifst53eQpw"
+        }
+      ],
+      "duration_ms": 165267,
+      "name": "Polonia",
+      "url": "https://open.spotify.com/track/3UNrrmmtFQlDx075B8JEBp"
     },
     {
       "added_at": "2024-05-23 07:53:28",
@@ -480,9 +496,9 @@
           "url": "https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ"
         }
       ],
-      "duration_ms": 213563,
-      "name": "Mandela Place",
-      "url": "https://open.spotify.com/track/1d3LnbVCbpcAZGdOCw7PlQ"
+      "duration_ms": 69641,
+      "name": "Lamento",
+      "url": "https://open.spotify.com/track/6Srz6ZXOvkajc0c0o6BTMk"
     },
     {
       "added_at": "2024-05-23 07:53:28",
@@ -503,22 +519,6 @@
       "duration_ms": 160695,
       "name": "habibi",
       "url": "https://open.spotify.com/track/2jd8SrFiK2arEPZHxlE0ys"
-    },
-    {
-      "added_at": "2024-05-23 07:53:28",
-      "album": {
-        "name": "pablopablo",
-        "url": "https://open.spotify.com/album/38EtfKgkkMlr936UGUKadp"
-      },
-      "artists": [
-        {
-          "name": "pablopablo",
-          "url": "https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ"
-        }
-      ],
-      "duration_ms": 69641,
-      "name": "Lamento",
-      "url": "https://open.spotify.com/track/6Srz6ZXOvkajc0c0o6BTMk"
     },
     {
       "added_at": "2024-05-23 07:53:28",

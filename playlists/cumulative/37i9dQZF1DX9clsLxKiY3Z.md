@@ -4,7 +4,7 @@
 
 > Early Noise 2019選出アーティスト「ずとまよ」こと、ずっと真夜中でいいのに。のオールタイム・ベスト！
 
-53 songs - 3 hr 36 min
+54 songs - 3 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [勘ぐれい](https://open.spotify.com/track/1Xj4xUg0FaH9b5Vc1JjMt2) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [ぐされ](https://open.spotify.com/album/47anQ0XC69gwTModnqWQsr) | 4:09 | 2023-06-06 |  |
 | [勘冴えて悔しいわ](https://open.spotify.com/track/2pfu1oCILxjP2ijdX6PDuJ) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [勘冴えて悔しいわ](https://open.spotify.com/album/2Q43NB9rKjF0oOC2esI1Gf) | 3:56 | 2023-06-06 |  |
 | [君がいて水になる](https://open.spotify.com/track/3fqBoBlZnFGj0ah0airwQ7) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [正しい偽りからの起床](https://open.spotify.com/album/61fHzNeb76p8ATYvlhO4rI) | 4:45 | 2023-06-06 |  |
+| [嘘じゃない](https://open.spotify.com/track/5tB3jH72pfXtVlwDxpiIlq) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [嘘じゃない](https://open.spotify.com/album/0mr3594rcsk9iPlB3Py72x) | 4:18 | 2024-05-26 |  |
 | [夏枯れ](https://open.spotify.com/track/2D9YnRZA1cZMfWbrr5RBqu) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [沈香学](https://open.spotify.com/album/1mtciArMoiLPqOdflY5dWQ) | 3:55 | 2023-06-06 |  |
 | [夜中のキスミ](https://open.spotify.com/track/0MIjWSye2T6s1y3HYP8j0Y) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [伸び仕草懲りて暇乞い](https://open.spotify.com/album/4SnYZt2Wjitj8qgT58e3VJ) | 4:35 | 2023-06-06 |  |
 | [奥底に眠るルーツ](https://open.spotify.com/track/4M0rktmlJVIcIWUlOtPntQ) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [ぐされ](https://open.spotify.com/album/47anQ0XC69gwTModnqWQsr) | 4:23 | 2023-06-06 |  |

@@ -1,12 +1,12 @@
 {
-  "description": "This is Kaliii. The essential tracks, all in one playlist.",
-  "num_followers": 3401,
+  "description": "This Is Kaliii. Los temas esenciales, todos en una lista.",
+  "num_followers": 3403,
   "original_name": "This Is Kaliii",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zk/YgAAAAADV30sSxHMPnGNvjYWOmScu",
+  "snapshot_id": "ZlEqAAAAAACcmuovYzRH7ptJYhpDGit2",
   "tracks": [
     {
       "added_at": null,
@@ -223,18 +223,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "This Why They Mad Now",
-        "url": "https://open.spotify.com/album/3NkHARlSxnJOz6FpWr2uOH"
+        "name": "Mani/Pedi",
+        "url": "https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh"
       },
       "artists": [
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        },
         {
           "name": "Kaliii",
           "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
         }
       ],
-      "duration_ms": 164702,
-      "name": "Do A Bitch",
-      "url": "https://open.spotify.com/track/3t7NM4j6pmzJqck5sQdyAF"
+      "duration_ms": 233150,
+      "name": "Sl*t Him Out Again (feat. Kaliii)",
+      "url": "https://open.spotify.com/track/1rFSc82CUMlFewowdZPRT8"
     },
     {
       "added_at": null,
@@ -359,22 +363,6 @@
       "duration_ms": 138001,
       "name": "Track & Field (feat. Kaliii)",
       "url": "https://open.spotify.com/track/1IgIR2FmHpfuR3MkGnGQUI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wet",
-        "url": "https://open.spotify.com/album/31TtTfGTyqjNQvTXa6Ig9u"
-      },
-      "artists": [
-        {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        }
-      ],
-      "duration_ms": 136980,
-      "name": "Wet",
-      "url": "https://open.spotify.com/track/4RCwUGboTNqqrY2tgy37nF"
     },
     {
       "added_at": null,
@@ -851,6 +839,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "This Why They Mad Now",
+        "url": "https://open.spotify.com/album/3NkHARlSxnJOz6FpWr2uOH"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "duration_ms": 153652,
+      "name": "Rounds",
+      "url": "https://open.spotify.com/track/24fxZlFt6sx3EP2D88U8BH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bridging the Gap, Vol. 2 Compiled by Dynamic Range",
         "url": "https://open.spotify.com/album/1O9q3Fui5u2yLSiW6PaLPd"
       },
@@ -911,6 +915,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Earth Vs Aliens",
+        "url": "https://open.spotify.com/album/77wY2XzNiKp6qV11p6vh8i"
+      },
+      "artists": [
+        {
+          "name": "Dr. Ink",
+          "url": "https://open.spotify.com/artist/6pwXKrHAmcTYG3t9utQko4"
+        },
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "duration_ms": 226151,
+      "name": "Peakin'",
+      "url": "https://open.spotify.com/track/6d9SCBxeBhVaZSBs3AVsb2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "That Rabbit All Star Compilation, Vol. 1",
         "url": "https://open.spotify.com/album/36qRi5qPrdRBeGQlg1oDIQ"
       },
@@ -935,22 +959,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Earth Vs Aliens",
-        "url": "https://open.spotify.com/album/77wY2XzNiKp6qV11p6vh8i"
+        "name": "Rockers Dubstep Like Kelly",
+        "url": "https://open.spotify.com/album/1zCLe4oFbmkKBNCKVevp6E"
       },
       "artists": [
-        {
-          "name": "Dr. Ink",
-          "url": "https://open.spotify.com/artist/6pwXKrHAmcTYG3t9utQko4"
-        },
         {
           "name": "Kaliii",
           "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
         }
       ],
-      "duration_ms": 226151,
-      "name": "Peakin'",
-      "url": "https://open.spotify.com/track/6d9SCBxeBhVaZSBs3AVsb2"
+      "duration_ms": 178714,
+      "name": "Rockers Step Like Kelly",
+      "url": "https://open.spotify.com/track/2d18QIOZ9d90BzbndmW01N"
     },
     {
       "added_at": null,

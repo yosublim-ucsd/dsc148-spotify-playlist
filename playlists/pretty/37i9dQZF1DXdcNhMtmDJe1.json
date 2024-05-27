@@ -1,6 +1,6 @@
 {
   "description": "Celebrated composer of jazz standards, classical masterpieces and some very catchy love songs; this is Gershwin.",
-  "num_followers": 85623,
+  "num_followers": 85648,
   "original_name": "This is Gershwin",
   "owner": {
     "name": "Spotify",
@@ -227,26 +227,6 @@
     {
       "added_at": "2022-08-05 04:02:00",
       "album": {
-        "name": "Gershwin Plays Gershwin: The Piano Rolls",
-        "url": "https://open.spotify.com/album/4sX0syeh1dyi8s7Gx0m7H0"
-      },
-      "artists": [
-        {
-          "name": "George Gershwin",
-          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
-        },
-        {
-          "name": "Ira Gershwin",
-          "url": "https://open.spotify.com/artist/6Yd6jR0AcWlI8JjJ954IDV"
-        }
-      ],
-      "duration_ms": 258093,
-      "name": "So Am I",
-      "url": "https://open.spotify.com/track/4BG2tiyGdAY8PWbvXd3587"
-    },
-    {
-      "added_at": "2022-08-05 04:02:00",
-      "album": {
         "name": "Sarah Vaughan Sings George Gershwin",
         "url": "https://open.spotify.com/album/3WNkR1jew5kfBxl1PhgwPa"
       },
@@ -315,6 +295,26 @@
       "duration_ms": 358640,
       "name": "How Long Has This Been Going On?",
       "url": "https://open.spotify.com/track/3ugWiNqRWichzUF7Iu5JFs"
+    },
+    {
+      "added_at": "2022-08-05 04:02:00",
+      "album": {
+        "name": "Gershwin Plays Gershwin: The Piano Rolls",
+        "url": "https://open.spotify.com/album/4sX0syeh1dyi8s7Gx0m7H0"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Ira Gershwin",
+          "url": "https://open.spotify.com/artist/6Yd6jR0AcWlI8JjJ954IDV"
+        }
+      ],
+      "duration_ms": 258093,
+      "name": "So Am I",
+      "url": "https://open.spotify.com/track/4BG2tiyGdAY8PWbvXd3587"
     },
     {
       "added_at": "2022-08-05 04:02:00",
@@ -863,30 +863,6 @@
     {
       "added_at": "2022-08-05 04:02:00",
       "album": {
-        "name": "Gershwin for Trumpet",
-        "url": "https://open.spotify.com/album/0pdegcimOFi10jS49gi458"
-      },
-      "artists": [
-        {
-          "name": "George Gershwin",
-          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
-        },
-        {
-          "name": "Juraj Barto\u0161",
-          "url": "https://open.spotify.com/artist/6SvTl33pmrXRQvYktp1AqT"
-        },
-        {
-          "name": "Peter Breiner",
-          "url": "https://open.spotify.com/artist/50MREZ0LJcSvrtKuyTV8Su"
-        }
-      ],
-      "duration_ms": 510600,
-      "name": "A Damsel in Distress: A Foggy Day (Arr. P. Breiner)",
-      "url": "https://open.spotify.com/track/60Ivc8tpIsZhPgeP9CJhqt"
-    },
-    {
-      "added_at": "2022-08-05 04:02:00",
-      "album": {
         "name": "Gershwin: Piano Concerto in F Major, 2nd Rhapsody & I Got Rhythm Variations",
         "url": "https://open.spotify.com/album/2G5PbCn4yCRPGdzAVoTNxr"
       },
@@ -983,6 +959,30 @@
       "duration_ms": 78000,
       "name": "3 Preludes: No. 3 in E-Flat Minor: Allegro ben ritmato e deciso",
       "url": "https://open.spotify.com/track/3zaylAL8Xig8oSSWzc4PcI"
+    },
+    {
+      "added_at": "2022-08-05 04:02:00",
+      "album": {
+        "name": "Gershwin for Trumpet",
+        "url": "https://open.spotify.com/album/0pdegcimOFi10jS49gi458"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Juraj Barto\u0161",
+          "url": "https://open.spotify.com/artist/6SvTl33pmrXRQvYktp1AqT"
+        },
+        {
+          "name": "Peter Breiner",
+          "url": "https://open.spotify.com/artist/50MREZ0LJcSvrtKuyTV8Su"
+        }
+      ],
+      "duration_ms": 510600,
+      "name": "A Damsel in Distress: A Foggy Day (Arr. P. Breiner)",
+      "url": "https://open.spotify.com/track/60Ivc8tpIsZhPgeP9CJhqt"
     },
     {
       "added_at": "2022-08-05 04:02:00",

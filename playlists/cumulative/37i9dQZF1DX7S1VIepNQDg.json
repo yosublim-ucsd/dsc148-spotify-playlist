@@ -511,6 +511,28 @@
     },
     {
       "album": {
+        "name": "Endit (feat. Rromarin)",
+        "url": "https://open.spotify.com/album/0vslTcnIU2dvfgOsP4tlJR"
+      },
+      "artists": [
+        {
+          "name": "Golden Features",
+          "url": "https://open.spotify.com/artist/2SrWifjYv7b5tR8EzEmn1x"
+        },
+        {
+          "name": "Rromarin",
+          "url": "https://open.spotify.com/artist/4JEwT8UJ2ihmM7xWjrtPqP"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291050,
+      "name": "Endit (feat. Rromarin)",
+      "url": "https://open.spotify.com/track/3L2Lpa6cIeJEnr81n1TbUs"
+    },
+    {
+      "album": {
         "name": "Firebreak",
         "url": "https://open.spotify.com/album/3OBXMr3YKWecqcRO1Ay6Vv"
       },
@@ -1138,7 +1160,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-27",
       "duration_ms": 271493,
       "name": "On The Eve Of The Rush",
       "url": "https://open.spotify.com/track/4RZfv0PuRnLmbVJZhaGqTz"

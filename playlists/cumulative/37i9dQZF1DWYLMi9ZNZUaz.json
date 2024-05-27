@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-25",
-  "description": "D\u00f2ng ch\u1ea3y rap Vi\u1ec7t lu\u00f4n cu\u1ed3n cu\u1ed9n. \u1ea2nh b\u00eca: RPT MCK",
+  "description": "Sau n\u00e0y b\u00e9 l\u1ea5y \ud83e\udd56 c\u1ee7a m\u1eb9 \u0111i c\u01b0a gh\u1ec7",
   "name": "Hip-hop Vi\u1ec7t",
   "tracks": [
     {
@@ -892,7 +892,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-27",
       "duration_ms": 139813,
       "name": "C\u00e0ng Cua",
       "url": "https://open.spotify.com/track/6zrQLaZG0OlT63oUDwFKri"
@@ -2116,7 +2116,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-27",
       "duration_ms": 179043,
       "name": "NGTANOISE",
       "url": "https://open.spotify.com/track/57FeZINjlat9NLEhYUejmd"
@@ -2944,7 +2944,7 @@
       ],
       "date_added": "2024-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-24",
+      "date_removed": null,
       "duration_ms": 94736,
       "name": "Th\u1ea3 V\u1ea7n Freeverse",
       "url": "https://open.spotify.com/track/6kHD3r7f4Xv9m3m9eoFsZJ"
@@ -3638,6 +3638,28 @@
       "duration_ms": 173195,
       "name": "\u0110\u1ec3 cho anh c\u01b0a",
       "url": "https://open.spotify.com/track/1Y5fE11yvUPL4YCX0J8efO"
+    },
+    {
+      "album": {
+        "name": "\u0111\u1ee9a n\u00e0o l\u00e0m em bu\u1ed3n?",
+        "url": "https://open.spotify.com/album/3cfgav0hiCm3cK459L9VxM"
+      },
+      "artists": [
+        {
+          "name": "Phuc Du",
+          "url": "https://open.spotify.com/artist/0qkGQFUrj8ERPAZcdpa79j"
+        },
+        {
+          "name": "Ho\u00e0ng D\u0169ng",
+          "url": "https://open.spotify.com/artist/6OzE2OdvV2tGAxSBsBuZ74"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252539,
+      "name": "\u0111\u1ee9a n\u00e0o l\u00e0m em bu\u1ed3n?",
+      "url": "https://open.spotify.com/track/3CqtQwaoQTdgDWLHyv7Twr"
     },
     {
       "album": {

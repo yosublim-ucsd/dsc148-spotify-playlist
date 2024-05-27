@@ -4,7 +4,7 @@
 
 > Your music\. Your faith\. Your life\. This is Pop for life!  Cover artist: Blessing Offor
 
-364 songs - 20 hr 18 min
+365 songs - 20 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [After My Heart](https://open.spotify.com/track/0IV6tVX1MvMtDmO9i1FUlz) | [The Color](https://open.spotify.com/artist/5Zrsjw80yCENGwI7YJaT4d) | [After My Heart](https://open.spotify.com/album/46KGjNha6We99FCDDt0mpc) | 3:30 | 2021-10-31 | 2022-07-29 |
 | [Alive](https://open.spotify.com/track/14GwOACdb5fWsPPcbY9Ysh) | [NONAH](https://open.spotify.com/artist/76SJxLztAMHPMieGTNZPeI) | [Alive](https://open.spotify.com/album/1dINtDPDZj38vFroPmyYSV) | 2:40 | 2021-10-31 | 2022-07-28 |
 | [Alive](https://open.spotify.com/track/58u7gBfuIHpU2D3XCNrmAf) | [PEABOD](https://open.spotify.com/artist/07pdmGwYuT4ZOVDAxR6njL) | [Growing Up, Pt.2](https://open.spotify.com/album/095pCpYCaDjZF7txmFbhIr) | 3:19 | 2023-01-13 | 2024-04-19 |
-| [All Day Long](https://open.spotify.com/track/1MpkWSRcLCzvGnbhSr7b8X) | [Switch](https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN) | [Better View \(Deluxe\)](https://open.spotify.com/album/4UUJjM3UeSH53Mz1jiwS8z) | 3:10 | 2023-01-13 |  |
+| [All Day Long](https://open.spotify.com/track/1MpkWSRcLCzvGnbhSr7b8X) | [Switch](https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN) | [Better View \(Deluxe\)](https://open.spotify.com/album/4UUJjM3UeSH53Mz1jiwS8z) | 3:10 | 2023-01-13 | 2024-05-27 |
 | [All I Want](https://open.spotify.com/track/5TG7qr0Fia6dVyfdDlaUFo) | [Canyon Worship](https://open.spotify.com/artist/34byivaRKITJU1NfWWStSh), [Madison Russell](https://open.spotify.com/artist/00xu7fxzwAYDL9K9dcVVld) | [Canyon Worship 2021](https://open.spotify.com/album/3MZH0Cvtpcxg0k0IxU2WYQ) | 3:28 | 2021-10-31 | 2022-07-28 |
 | [All the Time \- Fez Remix](https://open.spotify.com/track/2C1ke5KRKpNQRPjwTnYomq) | [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [All the Time \(Fez Remix\)](https://open.spotify.com/album/2JoKWWJfOaKEhnum3IAd3k) | 2:53 | 2021-10-31 | 2022-07-28 |
 | [Alright \(Remix\)](https://open.spotify.com/track/4L5xjNPFX2243oxglUUUvH) | [Jonathan Ogden](https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7), [Chris Howland](https://open.spotify.com/artist/2wqF6dCN8bQp7TN0eNDSsc) | [Alright \(Remix\)](https://open.spotify.com/album/3ENljMEsjgZSnbJ4R0L68B) | 3:02 | 2021-10-31 | 2022-07-28 |
@@ -180,6 +180,7 @@
 | [Jireh \(feat\. Lloyd Nicks & Vanessa Campagna\)](https://open.spotify.com/track/71YmBl6TseDCGA1DXfudvE) | [BRIGHT](https://open.spotify.com/artist/1skPwnCIyV2qwyA2E2YXNj), [Lloyd Nicks](https://open.spotify.com/artist/27PNOaBc3uYEgF3rrxeQjh), [Vanessa Campagna](https://open.spotify.com/artist/4a4KcYuu2DZrL8sTGyu5sM) | [Jireh \(feat\. Lloyd Nicks & Vanessa Campagna\)](https://open.spotify.com/album/1WMZnX8mYbI7Uzu3ZXwEKy) | 3:45 | 2023-01-13 |  |
 | [Jireh \- Reyer Remix](https://open.spotify.com/track/6eaKd2wId32qsCIxEA00Hg) | [Reyer](https://open.spotify.com/artist/54UJV3OPkBfR4V92nsYs1Z), [Esther Lisette](https://open.spotify.com/artist/2kT2Pby1qLoiO3ATlZJkhH) | [Jireh \(Reyer Remix\)](https://open.spotify.com/album/1fI7lPIrEa1COWgxq3g7tK) | 3:04 | 2023-01-13 |  |
 | [Jump](https://open.spotify.com/track/69HLrdOQMAseHsTTmklKob) | [NONAH](https://open.spotify.com/artist/76SJxLztAMHPMieGTNZPeI) | [Jump](https://open.spotify.com/album/21kxczu3QQWSkJ8imKBHcH) | 3:33 | 2023-01-13 |  |
+| [JUST IN SIGHT](https://open.spotify.com/track/7xJViOW8M07pVGkIiccuBA) | [ANTHEM X](https://open.spotify.com/artist/74PAjD7OMEQuEcztuZL8ln), [BLVRS](https://open.spotify.com/artist/3SeJEA9smshVPlk8jbWlPD), [Mass Anthem](https://open.spotify.com/artist/0KVR8D2dx5Td8ONhNZRLkM) | [JUST IN SIGHT](https://open.spotify.com/album/1Ju3EI9rh0qcfoTDxesJDN) | 2:05 | 2024-05-24 |  |
 | [Just Like God](https://open.spotify.com/track/2joMffvjd64JVWZN7Gt2WJ) | [Evvie McKinney](https://open.spotify.com/artist/7G7JWOsGhDMily2HtfzcIZ) | [Just Like God](https://open.spotify.com/album/2NT1w058nGdcaawb5Hkbsp) | 3:00 | 2021-10-31 | 2022-07-15 |
 | [Just Like God](https://open.spotify.com/track/56rwjJ8kxKhVs16jjfLIbG) | [Evvie McKinney](https://open.spotify.com/artist/7G7JWOsGhDMily2HtfzcIZ) | [Just Like God](https://open.spotify.com/album/0U8ujczkuAHZ9NJ4Z1qkvj) | 3:00 | 2021-10-31 | 2022-10-03 |
 | [Just Like God](https://open.spotify.com/track/5kc449Mw1upsOITilmFB3f) | [Evvie McKinney](https://open.spotify.com/artist/7G7JWOsGhDMily2HtfzcIZ) | [Love, Evvie McKinney](https://open.spotify.com/album/19TJHZlE3D6OZ6lNSYGMQb) | 3:03 | 2021-10-31 | 2023-01-14 |

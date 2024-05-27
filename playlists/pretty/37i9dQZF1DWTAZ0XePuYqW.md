@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAZ0XePuYqW.md) - [plain]
 
 > That's that big energy\. Cover: KAYTRANADA
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,632 likes - 71 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,775 likes - 71 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

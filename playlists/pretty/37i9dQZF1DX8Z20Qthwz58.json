@@ -1,6 +1,6 @@
 {
   "description": "Enjoy mysterious and dreamy music as if walking in a dream. (\uafc8 \uc18d\uc744 \uac70\ub2d0\ub4ef \uc2e0\ube44\ub86d\uace0 \ubabd\ud658\uc801\uc778 \uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.)",
-  "num_followers": 77921,
+  "num_followers": 77942,
   "original_name": "d r e a m l i k e \u3132 \u315c \u3141",
   "owner": {
     "name": "Spotify",
@@ -143,6 +143,54 @@
     {
       "added_at": "2024-05-14 13:51:52",
       "album": {
+        "name": "Magnetic (Remixes)",
+        "url": "https://open.spotify.com/album/3N7bSRtr9USCEbSYOfSlEJ"
+      },
+      "artists": [
+        {
+          "name": "ILLIT",
+          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
+        }
+      ],
+      "duration_ms": 171818,
+      "name": "Magnetic (R&B Remix)",
+      "url": "https://open.spotify.com/track/2KYwtEX70O5wD2xEn4a42J"
+    },
+    {
+      "added_at": "2024-05-14 13:51:52",
+      "album": {
+        "name": "Moodswings In To Order",
+        "url": "https://open.spotify.com/album/7vp2iMEQzhNX4sEIUbHpiJ"
+      },
+      "artists": [
+        {
+          "name": "DPR IAN",
+          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
+        }
+      ],
+      "duration_ms": 182480,
+      "name": "Mood",
+      "url": "https://open.spotify.com/track/0nEsLR5KTySCO9CfyC2yjg"
+    },
+    {
+      "added_at": "2024-05-14 13:51:52",
+      "album": {
+        "name": "IS ANYBODY OUT THERE?",
+        "url": "https://open.spotify.com/album/6j8x8zBChjzCn0FD7KJB7p"
+      },
+      "artists": [
+        {
+          "name": "DPR LIVE",
+          "url": "https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg"
+        }
+      ],
+      "duration_ms": 278200,
+      "name": "KISS ME",
+      "url": "https://open.spotify.com/track/02K01fxmK5qQrwWSHGbb9d"
+    },
+    {
+      "added_at": "2024-05-14 13:51:52",
+      "album": {
         "name": "dosii",
         "url": "https://open.spotify.com/album/0nrhKqYSxc2gwoMFzTckU6"
       },
@@ -171,54 +219,6 @@
       "duration_ms": 237707,
       "name": "Butterfly",
       "url": "https://open.spotify.com/track/6wNKKoUQfLPmch7cqSFytV"
-    },
-    {
-      "added_at": "2024-05-14 13:51:52",
-      "album": {
-        "name": "Magnetic (Remixes)",
-        "url": "https://open.spotify.com/album/3N7bSRtr9USCEbSYOfSlEJ"
-      },
-      "artists": [
-        {
-          "name": "ILLIT",
-          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
-        }
-      ],
-      "duration_ms": 171818,
-      "name": "Magnetic (R&B Remix)",
-      "url": "https://open.spotify.com/track/2KYwtEX70O5wD2xEn4a42J"
-    },
-    {
-      "added_at": "2024-05-14 13:51:52",
-      "album": {
-        "name": "IS ANYBODY OUT THERE?",
-        "url": "https://open.spotify.com/album/6j8x8zBChjzCn0FD7KJB7p"
-      },
-      "artists": [
-        {
-          "name": "DPR LIVE",
-          "url": "https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg"
-        }
-      ],
-      "duration_ms": 278200,
-      "name": "KISS ME",
-      "url": "https://open.spotify.com/track/02K01fxmK5qQrwWSHGbb9d"
-    },
-    {
-      "added_at": "2024-05-14 13:51:52",
-      "album": {
-        "name": "Moodswings In To Order",
-        "url": "https://open.spotify.com/album/7vp2iMEQzhNX4sEIUbHpiJ"
-      },
-      "artists": [
-        {
-          "name": "DPR IAN",
-          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
-        }
-      ],
-      "duration_ms": 182480,
-      "name": "Mood",
-      "url": "https://open.spotify.com/track/0nEsLR5KTySCO9CfyC2yjg"
     },
     {
       "added_at": "2024-05-14 13:51:52",
@@ -283,6 +283,22 @@
     {
       "added_at": "2024-05-14 13:51:52",
       "album": {
+        "name": "Moodswings In To Order",
+        "url": "https://open.spotify.com/album/7vp2iMEQzhNX4sEIUbHpiJ"
+      },
+      "artists": [
+        {
+          "name": "DPR IAN",
+          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
+        }
+      ],
+      "duration_ms": 200880,
+      "name": "Miss Understood",
+      "url": "https://open.spotify.com/track/7hu1jbKiv9hHkjeeZ1L1TB"
+    },
+    {
+      "added_at": "2024-05-14 13:51:52",
+      "album": {
         "name": "want YOU",
         "url": "https://open.spotify.com/album/5RwgOfzXDZePkwPRPHXnp1"
       },
@@ -323,18 +339,18 @@
     {
       "added_at": "2024-05-14 13:51:52",
       "album": {
-        "name": "Moodswings In To Order",
-        "url": "https://open.spotify.com/album/7vp2iMEQzhNX4sEIUbHpiJ"
+        "name": "boy.",
+        "url": "https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj"
       },
       "artists": [
         {
-          "name": "DPR IAN",
-          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
+          "name": "offonoff",
+          "url": "https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT"
         }
       ],
-      "duration_ms": 200880,
-      "name": "Miss Understood",
-      "url": "https://open.spotify.com/track/7hu1jbKiv9hHkjeeZ1L1TB"
+      "duration_ms": 239002,
+      "name": "Photograph",
+      "url": "https://open.spotify.com/track/0PkpRtJqrwuXhbdtJuQm7E"
     },
     {
       "added_at": "2024-05-14 13:51:52",
@@ -355,22 +371,6 @@
       "duration_ms": 219428,
       "name": "Let off steam",
       "url": "https://open.spotify.com/track/7KUb5GsTcXfpG0phkbL2mR"
-    },
-    {
-      "added_at": "2024-05-14 13:51:52",
-      "album": {
-        "name": "boy.",
-        "url": "https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj"
-      },
-      "artists": [
-        {
-          "name": "offonoff",
-          "url": "https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT"
-        }
-      ],
-      "duration_ms": 239002,
-      "name": "Photograph",
-      "url": "https://open.spotify.com/track/0PkpRtJqrwuXhbdtJuQm7E"
     },
     {
       "added_at": "2024-05-14 13:51:52",
@@ -475,6 +475,22 @@
     {
       "added_at": "2024-05-14 13:51:52",
       "album": {
+        "name": "WHY YOU?",
+        "url": "https://open.spotify.com/album/29OG07EpYadviilDMVEgd4"
+      },
+      "artists": [
+        {
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        }
+      ],
+      "duration_ms": 175626,
+      "name": "WHY YOU?",
+      "url": "https://open.spotify.com/track/76ikZIYciIVbTPfNLTAAwX"
+    },
+    {
+      "added_at": "2024-05-14 13:51:52",
+      "album": {
         "name": "\uae34 \ubc24 (feat. GIRIBOY)",
         "url": "https://open.spotify.com/album/3AuhCLxpvg4gWl2Oi8D043"
       },
@@ -495,6 +511,22 @@
     {
       "added_at": "2024-05-14 13:51:52",
       "album": {
+        "name": "DAYDREAM",
+        "url": "https://open.spotify.com/album/1LXXwyhpjtD725nOVp1kIu"
+      },
+      "artists": [
+        {
+          "name": "HIGHLIGHT",
+          "url": "https://open.spotify.com/artist/3T0fMfxYBU3q9oAUAdPIsr"
+        }
+      ],
+      "duration_ms": 158200,
+      "name": "Night Fog",
+      "url": "https://open.spotify.com/track/7wPDqVSfyKa9bm6a9wH2Bk"
+    },
+    {
+      "added_at": "2024-05-14 13:51:52",
+      "album": {
         "name": "boy.",
         "url": "https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj"
       },
@@ -507,22 +539,6 @@
       "duration_ms": 233958,
       "name": "boy",
       "url": "https://open.spotify.com/track/77bGNpC1hZH3JSZQhR1vxn"
-    },
-    {
-      "added_at": "2024-05-14 13:51:52",
-      "album": {
-        "name": "WHY YOU?",
-        "url": "https://open.spotify.com/album/29OG07EpYadviilDMVEgd4"
-      },
-      "artists": [
-        {
-          "name": "Sik-K",
-          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
-        }
-      ],
-      "duration_ms": 175626,
-      "name": "WHY YOU?",
-      "url": "https://open.spotify.com/track/76ikZIYciIVbTPfNLTAAwX"
     },
     {
       "added_at": "2024-05-14 13:51:52",
@@ -543,22 +559,6 @@
       "duration_ms": 224293,
       "name": "Akita (Feat. hartts) (Prod. OBSN)",
       "url": "https://open.spotify.com/track/3Z8mmSGRXteAGEZFJW4VYV"
-    },
-    {
-      "added_at": "2024-05-14 13:51:52",
-      "album": {
-        "name": "DAYDREAM",
-        "url": "https://open.spotify.com/album/1LXXwyhpjtD725nOVp1kIu"
-      },
-      "artists": [
-        {
-          "name": "HIGHLIGHT",
-          "url": "https://open.spotify.com/artist/3T0fMfxYBU3q9oAUAdPIsr"
-        }
-      ],
-      "duration_ms": 158200,
-      "name": "Night Fog",
-      "url": "https://open.spotify.com/track/7wPDqVSfyKa9bm6a9wH2Bk"
     },
     {
       "added_at": "2024-05-14 13:51:52",
@@ -595,22 +595,6 @@
     {
       "added_at": "2024-05-14 13:51:52",
       "album": {
-        "name": "boy.",
-        "url": "https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj"
-      },
-      "artists": [
-        {
-          "name": "offonoff",
-          "url": "https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT"
-        }
-      ],
-      "duration_ms": 223141,
-      "name": "Moon, 12:04am",
-      "url": "https://open.spotify.com/track/57mWHxgHxZnhFhFiBrpYUV"
-    },
-    {
-      "added_at": "2024-05-14 13:51:52",
-      "album": {
         "name": "can't",
         "url": "https://open.spotify.com/album/5XKIoRiJI9U2NXBOB7nhjI"
       },
@@ -623,22 +607,6 @@
       "duration_ms": 299000,
       "name": "MUNG",
       "url": "https://open.spotify.com/track/746IIP4nhFrFcKXNkqtj2m"
-    },
-    {
-      "added_at": "2024-05-14 13:51:52",
-      "album": {
-        "name": "BOYCOLD",
-        "url": "https://open.spotify.com/album/702oAXJwcml4VxPHLQWwrS"
-      },
-      "artists": [
-        {
-          "name": "Sik-K",
-          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
-        }
-      ],
-      "duration_ms": 193882,
-      "name": "Get That Money",
-      "url": "https://open.spotify.com/track/1Hmj4hRlzSfs7RA1jCkU5m"
     },
     {
       "added_at": "2024-05-14 13:51:52",
@@ -659,18 +627,34 @@
     {
       "added_at": "2024-05-14 13:51:52",
       "album": {
-        "name": "Rose",
-        "url": "https://open.spotify.com/album/6CUqE9kcnmCQsqID8nkZt6"
+        "name": "boy.",
+        "url": "https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj"
       },
       "artists": [
         {
-          "name": "imzoo",
-          "url": "https://open.spotify.com/artist/6j2dniBiWyEM20bd5GEc0Y"
+          "name": "offonoff",
+          "url": "https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT"
         }
       ],
-      "duration_ms": 188749,
-      "name": "Rose",
-      "url": "https://open.spotify.com/track/7l0hHj7VlbVpDIpGrLCqFU"
+      "duration_ms": 223141,
+      "name": "Moon, 12:04am",
+      "url": "https://open.spotify.com/track/57mWHxgHxZnhFhFiBrpYUV"
+    },
+    {
+      "added_at": "2024-05-14 13:51:52",
+      "album": {
+        "name": "BOYCOLD",
+        "url": "https://open.spotify.com/album/702oAXJwcml4VxPHLQWwrS"
+      },
+      "artists": [
+        {
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        }
+      ],
+      "duration_ms": 193882,
+      "name": "Get That Money",
+      "url": "https://open.spotify.com/track/1Hmj4hRlzSfs7RA1jCkU5m"
     },
     {
       "added_at": "2024-05-14 13:51:52",
@@ -695,6 +679,22 @@
     {
       "added_at": "2024-05-14 13:51:52",
       "album": {
+        "name": "Rose",
+        "url": "https://open.spotify.com/album/6CUqE9kcnmCQsqID8nkZt6"
+      },
+      "artists": [
+        {
+          "name": "imzoo",
+          "url": "https://open.spotify.com/artist/6j2dniBiWyEM20bd5GEc0Y"
+        }
+      ],
+      "duration_ms": 188749,
+      "name": "Rose",
+      "url": "https://open.spotify.com/track/7l0hHj7VlbVpDIpGrLCqFU"
+    },
+    {
+      "added_at": "2024-05-14 13:51:52",
+      "album": {
         "name": "TEEN TROUBLES",
         "url": "https://open.spotify.com/album/0lO1MX7qJaA3NejSbPoxU8"
       },
@@ -707,22 +707,6 @@
       "duration_ms": 220214,
       "name": "Garden State Dreamers",
       "url": "https://open.spotify.com/track/4rhU6LPPCcCC9IGOI26Tmw"
-    },
-    {
-      "added_at": "2024-05-14 13:51:52",
-      "album": {
-        "name": "boy.",
-        "url": "https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj"
-      },
-      "artists": [
-        {
-          "name": "offonoff",
-          "url": "https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT"
-        }
-      ],
-      "duration_ms": 214922,
-      "name": "midnight",
-      "url": "https://open.spotify.com/track/6SuEgkFfiESo1pMLSyAbl3"
     },
     {
       "added_at": "2024-05-14 13:51:52",
@@ -775,6 +759,22 @@
     {
       "added_at": "2024-05-14 13:51:52",
       "album": {
+        "name": "ETERNITY",
+        "url": "https://open.spotify.com/album/4AaUEBm8sByHNPpVSQoQPI"
+      },
+      "artists": [
+        {
+          "name": "msftz",
+          "url": "https://open.spotify.com/artist/2v9xvjxXMMndxvLJ86Ice4"
+        }
+      ],
+      "duration_ms": 220733,
+      "name": "2080",
+      "url": "https://open.spotify.com/track/3F5HhdyBfvCbzuPJbGBHkc"
+    },
+    {
+      "added_at": "2024-05-14 13:51:52",
+      "album": {
         "name": "Summer Plumage",
         "url": "https://open.spotify.com/album/4hGJv9dB3hlzFXZJQmKdpq"
       },
@@ -791,18 +791,34 @@
     {
       "added_at": "2024-05-14 13:51:52",
       "album": {
-        "name": "ETERNITY",
-        "url": "https://open.spotify.com/album/4AaUEBm8sByHNPpVSQoQPI"
+        "name": "boy.",
+        "url": "https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj"
       },
       "artists": [
         {
-          "name": "msftz",
-          "url": "https://open.spotify.com/artist/2v9xvjxXMMndxvLJ86Ice4"
+          "name": "offonoff",
+          "url": "https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT"
         }
       ],
-      "duration_ms": 220733,
-      "name": "2080",
-      "url": "https://open.spotify.com/track/3F5HhdyBfvCbzuPJbGBHkc"
+      "duration_ms": 214922,
+      "name": "midnight",
+      "url": "https://open.spotify.com/track/6SuEgkFfiESo1pMLSyAbl3"
+    },
+    {
+      "added_at": "2024-05-14 13:51:52",
+      "album": {
+        "name": "Good Luck To You, Girl Scout!",
+        "url": "https://open.spotify.com/album/48qQ8g6uVnNPM5vTn2xCHI"
+      },
+      "artists": [
+        {
+          "name": "The Black Skirts",
+          "url": "https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8"
+        }
+      ],
+      "duration_ms": 115518,
+      "name": "Kleenex",
+      "url": "https://open.spotify.com/track/33aFcnhTtspzVAsf6OQv8W"
     },
     {
       "added_at": "2024-05-14 13:51:52",
@@ -835,22 +851,6 @@
       "duration_ms": 180320,
       "name": "MOONLIGHT SUNRISE",
       "url": "https://open.spotify.com/track/2foowdvesE4yiiuxH25D6q"
-    },
-    {
-      "added_at": "2024-05-14 13:51:52",
-      "album": {
-        "name": "Good Luck To You, Girl Scout!",
-        "url": "https://open.spotify.com/album/48qQ8g6uVnNPM5vTn2xCHI"
-      },
-      "artists": [
-        {
-          "name": "The Black Skirts",
-          "url": "https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8"
-        }
-      ],
-      "duration_ms": 115518,
-      "name": "Kleenex",
-      "url": "https://open.spotify.com/track/33aFcnhTtspzVAsf6OQv8W"
     },
     {
       "added_at": "2024-05-14 13:51:52",

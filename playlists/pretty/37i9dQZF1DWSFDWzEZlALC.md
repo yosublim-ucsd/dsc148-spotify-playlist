@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > <a href="https://www.introducing.events/">Hier</a> anmelden für das Wilde Herzen Festival mit JEREMIAS, Zartmann, Sandra Isabel, elimako, Levin Liam, Dilla, SOFFIE, error und Katha Pauer
 
-[Spotify](https://open.spotify.com/user/spotify) - 424,106 likes - 75 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 424,170 likes - 75 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 32 | [fahrrad](https://open.spotify.com/track/1D0ajO4cad6fTpqznvxwjE) | [fiora](https://open.spotify.com/artist/757EH7oogI3l10jrOicVzE) | [fahrrad](https://open.spotify.com/album/2DhSWGy4f6yO7t85B0aOYW) | 2:38 |
 | 33 | [Blumengarten](https://open.spotify.com/track/1lIpqnkGvNZMkpC2vrXoxC) | [Ronja](https://open.spotify.com/artist/7dl7jnssJ6pvKbrMpHw4KX) | [Blumengarten](https://open.spotify.com/album/61GNzhne3rtlDpNLWEWqz5) | 3:39 |
 | 34 | [Weißt du](https://open.spotify.com/track/6xTQUjMO5hZVrEpSNNo4eu) | [Rowli](https://open.spotify.com/artist/062qvlhIYOrATqRTHet3D3) | [Weißt du](https://open.spotify.com/album/1GNaAjx5ns0ptcKNYs0wAH) | 2:04 |
-| 35 | [Fuß baumeln](https://open.spotify.com/track/7dIi6DS9RA6PDTU90CcNoV) | [Zartmann](https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0), [Drumla](https://open.spotify.com/artist/03k7SIn9vVGUuVvR6JhAW9) | [Fuß baumeln](https://open.spotify.com/album/2BukPk8h55bGp9vildXq57) | 2:27 |
+| 35 | [fuß baumeln](https://open.spotify.com/track/7dIi6DS9RA6PDTU90CcNoV) | [Zartmann](https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0), [Drumla](https://open.spotify.com/artist/03k7SIn9vVGUuVvR6JhAW9) | [Fuß baumeln](https://open.spotify.com/album/2BukPk8h55bGp9vildXq57) | 2:27 |
 | 36 | [Atlantis](https://open.spotify.com/track/7HF2ixqp47pB4FcCSXkHP4) | [Paula Hartmann](https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic), [Trettmann](https://open.spotify.com/artist/6QzzeKV0VcnT2vJMYDPuL4) | [kleine Feuer](https://open.spotify.com/album/672lt6au46TYlrsYLLvTTa) | 2:34 |
 | 37 | [Zeit x RIN](https://open.spotify.com/track/0jGC4X9hEVr7MihAhm9ViS) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt), [RIN](https://open.spotify.com/artist/18ISxWwWjV6rPLoVCXf1dz) | [Zeit x RIN](https://open.spotify.com/album/5PsxjZFVj5c1xODJDrS1pV) | 2:15 |
 | 38 | [Ängste Haben Arme](https://open.spotify.com/track/2syhnkO2esqLFG7Mycl9jm) | [RAR](https://open.spotify.com/artist/0ms1soCPtzKiqFMK198lya) | [Ängste Haben Arme](https://open.spotify.com/album/2SZVzyfI8TV5nALfSskU32) | 3:00 |

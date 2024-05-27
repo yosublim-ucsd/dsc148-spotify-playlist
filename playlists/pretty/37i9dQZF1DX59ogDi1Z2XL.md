@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 
 > The coldest sounds in hip\-hop, coming out of Canada\. Cover: SadBoi
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,911 likes - 100 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,950 likes - 100 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 | 5 | [Come Outside](https://open.spotify.com/track/6fMYBc25dXkqOj0eO9jhQI) | [K Money](https://open.spotify.com/artist/3WC4zw6QqkpKgs9rqk6ot6) | [Come Outside](https://open.spotify.com/album/75x5wfzR5mjfrO5pHQJnw7) | 3:18 |
 | 6 | [Tequila Lemonade](https://open.spotify.com/track/4HAIzOwhlBvR0mT3LDXqtp) | [Quake Matthews](https://open.spotify.com/artist/2I2GpkVOATiTrXSXCafxvO) | [Tequila Lemonade](https://open.spotify.com/album/4AyMWs1j2OK25zLosPfMl7) | 3:05 |
 | 7 | [1 into 2](https://open.spotify.com/track/6wz0RnxaTOeQFO9QSek3T5) | [Jellytoofly](https://open.spotify.com/artist/5CiTexZSB5koj9qCPwZwrY) | [Reels 2 Deals \(Vol.1\)](https://open.spotify.com/album/1MOMQucRyYuqg1vQMFh2Rh) | 1:40 |
-| 8 | [Julie](https://open.spotify.com/track/6So6e4dD5bMm9beIswtUtx) | [Mike Shabb](https://open.spotify.com/artist/76SkgDqq9mIavOoqDfn9rJ) | [Sewaside III](https://open.spotify.com/album/7cSs7eUdygnNWTOu8OW0cS) | 2:30 |
+| 8 | [Julie](https://open.spotify.com/track/6So6e4dD5bMm9beIswtUtx) | [Mike Shabb](https://open.spotify.com/artist/6neEhK0FxJha78nD9giAjW) | [Sewaside III](https://open.spotify.com/album/7cSs7eUdygnNWTOu8OW0cS) | 2:30 |
 | 9 | [Truth \(Is In The Eyes\)](https://open.spotify.com/track/5WKWhXU2uRXhQyxEIs6wB4) | [Danny Miles](https://open.spotify.com/artist/4gKUbrpi04oVG9zEGaAuxi), [Aquakultre](https://open.spotify.com/artist/38Lr1bGvJiIU0UKntaJJus) | [Truth \(Is In The Eyes\)](https://open.spotify.com/album/1S76crj63VlavdiENElN4G) | 3:25 |
 | 10 | [NORTHSIDE](https://open.spotify.com/track/6gGfplhh2VslZlRvWcLNEQ) | [Raz Fresco](https://open.spotify.com/artist/08RVkVEdLLoTgd5YbXHOIC), [Daniel Son](https://open.spotify.com/artist/6Hrq57am01Bxyp89bUWqFF) | [Northside](https://open.spotify.com/album/0hLjVlDpKDXTevkmF8AwqW) | 2:50 |
 | 11 | [THE SAMURAI'S MONOLOGUE.](https://open.spotify.com/track/2T3eL2nVjkbdVOVbVi84Fj) | [jev.](https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF) | [THE SAMURAI'S MONOLOGUE.](https://open.spotify.com/album/4HAGH15IhcCaqgHotxfoKk) | 2:10 |
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 | 26 | [Baller](https://open.spotify.com/track/7GkZ2cx7i74zu1piQy3i6T) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Baller](https://open.spotify.com/album/1QKQ5VaVGwH8zsqTqGU8Zs) | 2:30 |
 | 27 | [SHE LUV](https://open.spotify.com/track/6qhQ8NGCH0abKGt4EDkK4D) | [ibxrhm](https://open.spotify.com/artist/0clPo9vES13IpyWxFEu9DQ) | [SHE LUV](https://open.spotify.com/album/4mYwxlxfsJVOPGQPaMvV2j) | 2:00 |
 | 28 | [Beam Me Up](https://open.spotify.com/track/5UHFb8yLe0CM0ZbSruszZZ) | [Terrell Morris](https://open.spotify.com/artist/7C3agcqFXnteDagiWhaZdU) | [Beam Me Up](https://open.spotify.com/album/5GODILGWp8FFKrRlwzZsEq) | 2:42 |
-| 29 | [Big Piranhas](https://open.spotify.com/track/10wwTjzJ9tv6f9aJFkcmuY) | [Mike Shabb](https://open.spotify.com/artist/76SkgDqq9mIavOoqDfn9rJ), [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY) | [Big Piranhas](https://open.spotify.com/album/3qdO7UKSZDOdOpWDCrnSps) | 3:31 |
+| 29 | [Big Piranhas](https://open.spotify.com/track/10wwTjzJ9tv6f9aJFkcmuY) | [Mike Shabb](https://open.spotify.com/artist/6neEhK0FxJha78nD9giAjW), [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY) | [Big Piranhas](https://open.spotify.com/album/3qdO7UKSZDOdOpWDCrnSps) | 3:31 |
 | 30 | [MVP](https://open.spotify.com/track/5BQePe9rcCJozHK3oPayYk) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [MVP](https://open.spotify.com/album/5oCCfkVCpkSUhBUXe0pyJF) | 3:16 |
 | 31 | [Billboard Face](https://open.spotify.com/track/1Zaac2d6XmkUGluCwggXhA) | [Oscar \#Worldpeace](https://open.spotify.com/artist/63h1vcgwz5lbgfiIyF6mcs), [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG) | [Mum, Pray for Your Son](https://open.spotify.com/album/7ehEgkqVomqg80YURfqPht) | 2:28 |
 | 32 | [That's All, That's It](https://open.spotify.com/track/3rbiKvmWjsDcuEobPjVOuY) | [Danny Miles](https://open.spotify.com/artist/4gKUbrpi04oVG9zEGaAuxi), [Shad](https://open.spotify.com/artist/15lOM8PWY9pXQoURZwSZlK) | [That's All, That's It](https://open.spotify.com/album/1oalRkbONNcLrFFN7jDfvG) | 2:49 |

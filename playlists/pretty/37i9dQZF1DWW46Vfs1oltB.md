@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover: YANGHONGWON\(양홍원\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 536,482 likes - 155 songs - 7 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 536,443 likes - 155 songs - 7 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0Nl3w7ubARwONg9aY6uEuw">KLP</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-116 songs - 6 hr 49 min
+117 songs - 6 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [Upside Down Frown](https://open.spotify.com/track/6hEgMKHsM9U0ForXDXKCYp) | [Diver City](https://open.spotify.com/artist/7tlC25wkoaK9cCpTF6Ex8k) | [Welcome to Diver City](https://open.spotify.com/album/60gI1kcOLfTGBUBftJXnfJ) | 3:06 | 2023-12-30 |  |
 | [Venus x Mars](https://open.spotify.com/track/2TRBrHV1YaCN1s3S11f9AK) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Venus x Mars](https://open.spotify.com/album/3Bs1qbFLE8EHmOdaV0Mj2F) | 4:29 | 2023-12-30 |  |
 | [Vision of Love](https://open.spotify.com/track/4Vq21syz7y2dTZYW2PVab9) | [Husky](https://open.spotify.com/artist/1BQ5NhlyhxAO1CdRYGHmQe) | [Break Free](https://open.spotify.com/album/0OOa1ua526wFSIdcVZz8X9) | 6:00 | 2023-12-30 |  |
+| [Vitamin](https://open.spotify.com/track/5KOMi431YMQbyTh8yuiwu0) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Vitamin](https://open.spotify.com/album/27WkqF1MudS5dyGdvcKOLU) | 3:02 | 2024-05-26 |  |
 | [Walk Around the Block](https://open.spotify.com/track/0ZdtAJGaJh1JKZcRokFSik) | [Diver City](https://open.spotify.com/artist/7tlC25wkoaK9cCpTF6Ex8k) | [Welcome to Diver City](https://open.spotify.com/album/60gI1kcOLfTGBUBftJXnfJ) | 2:56 | 2023-12-30 |  |
 | [Warning Signs](https://open.spotify.com/track/1juJBkIktFwdxtixgzTkLP) | [Boilermakers](https://open.spotify.com/artist/3K4JXzoV9ykx3J2GQ382y7), [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Warning Signs](https://open.spotify.com/album/0wSC8mngdOZrI66dkJJY0e) | 4:01 | 2023-12-30 |  |
 | [Wash Wash Wash](https://open.spotify.com/track/5v45vvdQy7AKVSRXegwNWD) | [Diver City](https://open.spotify.com/artist/7tlC25wkoaK9cCpTF6Ex8k) | [Welcome to Diver City](https://open.spotify.com/album/60gI1kcOLfTGBUBftJXnfJ) | 2:25 | 2023-12-30 |  |

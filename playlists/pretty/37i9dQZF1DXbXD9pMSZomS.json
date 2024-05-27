@@ -1,6 +1,6 @@
 {
   "description": "Distorted and rough around the edges.",
-  "num_followers": 463767,
+  "num_followers": 463843,
   "original_name": "Lo-Fi House",
   "owner": {
     "name": "Spotify",
@@ -155,22 +155,6 @@
     {
       "added_at": "2024-05-10 14:35:21",
       "album": {
-        "name": "Longing For U",
-        "url": "https://open.spotify.com/album/4eTaymA78kYbMHyuEcOKsq"
-      },
-      "artists": [
-        {
-          "name": "Tour-Maubourg",
-          "url": "https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su"
-        }
-      ],
-      "duration_ms": 349857,
-      "name": "Longing For U",
-      "url": "https://open.spotify.com/track/2L0GFhQC5KSzBeOxL5901i"
-    },
-    {
-      "added_at": "2024-05-10 14:35:21",
-      "album": {
         "name": "Sloh Remixes",
         "url": "https://open.spotify.com/album/58mLfEOaAR4vaR4rEWtJe1"
       },
@@ -191,6 +175,22 @@
     {
       "added_at": "2024-05-10 14:35:21",
       "album": {
+        "name": "Lo-Fi_house.Zip",
+        "url": "https://open.spotify.com/album/3wHEG6d2ZaQwtYvAw00A7W"
+      },
+      "artists": [
+        {
+          "name": "kemt",
+          "url": "https://open.spotify.com/artist/2LCFqtl3a3rO8KEcIPAUrX"
+        }
+      ],
+      "duration_ms": 375000,
+      "name": "100 reasons",
+      "url": "https://open.spotify.com/track/51glOQHf2CWjiT63TMt98H"
+    },
+    {
+      "added_at": "2024-05-10 14:35:21",
+      "album": {
         "name": "A Vibe Thing",
         "url": "https://open.spotify.com/album/7FHRfmURdeXSTCbvKXiNJN"
       },
@@ -207,18 +207,18 @@
     {
       "added_at": "2024-05-10 14:35:21",
       "album": {
-        "name": "Lo-Fi_house.Zip",
-        "url": "https://open.spotify.com/album/3wHEG6d2ZaQwtYvAw00A7W"
+        "name": "Longing For U",
+        "url": "https://open.spotify.com/album/4eTaymA78kYbMHyuEcOKsq"
       },
       "artists": [
         {
-          "name": "kemt",
-          "url": "https://open.spotify.com/artist/2LCFqtl3a3rO8KEcIPAUrX"
+          "name": "Tour-Maubourg",
+          "url": "https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su"
         }
       ],
-      "duration_ms": 375000,
-      "name": "100 reasons",
-      "url": "https://open.spotify.com/track/51glOQHf2CWjiT63TMt98H"
+      "duration_ms": 349857,
+      "name": "Longing For U",
+      "url": "https://open.spotify.com/track/2L0GFhQC5KSzBeOxL5901i"
     },
     {
       "added_at": "2024-05-10 14:35:21",
@@ -355,26 +355,6 @@
     {
       "added_at": "2024-05-10 14:35:21",
       "album": {
-        "name": "SETRA",
-        "url": "https://open.spotify.com/album/3Gs41oQERljW26cLyr3YG4"
-      },
-      "artists": [
-        {
-          "name": "Nokiaa",
-          "url": "https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN"
-        },
-        {
-          "name": "Glimlip",
-          "url": "https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3"
-        }
-      ],
-      "duration_ms": 128571,
-      "name": "Setra",
-      "url": "https://open.spotify.com/track/4L3YA6fhW1IBGCw1ZnPNIu"
-    },
-    {
-      "added_at": "2024-05-10 14:35:21",
-      "album": {
         "name": "Into The Sun",
         "url": "https://open.spotify.com/album/0cg0ZZjG0sxfyXnMb5xBYx"
       },
@@ -391,6 +371,26 @@
       "duration_ms": 287213,
       "name": "Into The Sun",
       "url": "https://open.spotify.com/track/7IOfpG6bLNSqz2KfDDvbt0"
+    },
+    {
+      "added_at": "2024-05-10 14:35:21",
+      "album": {
+        "name": "SETRA",
+        "url": "https://open.spotify.com/album/3Gs41oQERljW26cLyr3YG4"
+      },
+      "artists": [
+        {
+          "name": "Nokiaa",
+          "url": "https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN"
+        },
+        {
+          "name": "Glimlip",
+          "url": "https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3"
+        }
+      ],
+      "duration_ms": 128571,
+      "name": "Setra",
+      "url": "https://open.spotify.com/track/4L3YA6fhW1IBGCw1ZnPNIu"
     },
     {
       "added_at": "2024-05-10 14:35:21",
@@ -675,22 +675,6 @@
     {
       "added_at": "2024-05-10 14:35:21",
       "album": {
-        "name": "I'm In Love",
-        "url": "https://open.spotify.com/album/5zxwIAueS6WhnZYn2Ikcze"
-      },
-      "artists": [
-        {
-          "name": "Social Lovers",
-          "url": "https://open.spotify.com/artist/7HE9KVyz6P11Dn791tNXpL"
-        }
-      ],
-      "duration_ms": 272760,
-      "name": "I'm In Love",
-      "url": "https://open.spotify.com/track/4VoOIOooZPtdn0syJ9fTg1"
-    },
-    {
-      "added_at": "2024-05-10 14:35:21",
-      "album": {
         "name": "Mind's Eye",
         "url": "https://open.spotify.com/album/0V7YCgKiVWctiHpxc4Hmv1"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 271349,
       "name": "Diving into Minds",
       "url": "https://open.spotify.com/track/0JmuFZNZNs7hJIWflYE3CA"
+    },
+    {
+      "added_at": "2024-05-10 14:35:21",
+      "album": {
+        "name": "I'm In Love",
+        "url": "https://open.spotify.com/album/5zxwIAueS6WhnZYn2Ikcze"
+      },
+      "artists": [
+        {
+          "name": "Social Lovers",
+          "url": "https://open.spotify.com/artist/7HE9KVyz6P11Dn791tNXpL"
+        }
+      ],
+      "duration_ms": 272760,
+      "name": "I'm In Love",
+      "url": "https://open.spotify.com/track/4VoOIOooZPtdn0syJ9fTg1"
     },
     {
       "added_at": "2024-05-10 14:35:21",
@@ -771,26 +771,6 @@
     {
       "added_at": "2024-05-10 14:35:21",
       "album": {
-        "name": "Forgiveness",
-        "url": "https://open.spotify.com/album/1MmarqecvxwzaaQQHSdutV"
-      },
-      "artists": [
-        {
-          "name": "Tour-Maubourg",
-          "url": "https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su"
-        },
-        {
-          "name": "AOC Records",
-          "url": "https://open.spotify.com/artist/6eoHnakjWcosB8baPzr7Gy"
-        }
-      ],
-      "duration_ms": 289941,
-      "name": "Forgiveness",
-      "url": "https://open.spotify.com/track/1G9e9FPyVPDjKsRPMX7nYH"
-    },
-    {
-      "added_at": "2024-05-10 14:35:21",
-      "album": {
         "name": "Be Free",
         "url": "https://open.spotify.com/album/6feqNecN7VPp8Th36yMDeJ"
       },
@@ -807,22 +787,6 @@
       "duration_ms": 349560,
       "name": "Be Free",
       "url": "https://open.spotify.com/track/6lrKGHqI1tWcLob2F9UzWQ"
-    },
-    {
-      "added_at": "2024-05-10 14:35:21",
-      "album": {
-        "name": "Beats On Boat: Made in M",
-        "url": "https://open.spotify.com/album/5iJcyU0qYmTn6M5jnEr2yS"
-      },
-      "artists": [
-        {
-          "name": "Made in M",
-          "url": "https://open.spotify.com/artist/5schXx0Ys4N52iU7On2j4c"
-        }
-      ],
-      "duration_ms": 339130,
-      "name": "Flightmode On",
-      "url": "https://open.spotify.com/track/7guDKEbsm74iyFwdc4Wtdy"
     },
     {
       "added_at": "2024-05-10 14:35:21",
@@ -847,6 +811,22 @@
     {
       "added_at": "2024-05-10 14:35:21",
       "album": {
+        "name": "Beats On Boat: Made in M",
+        "url": "https://open.spotify.com/album/5iJcyU0qYmTn6M5jnEr2yS"
+      },
+      "artists": [
+        {
+          "name": "Made in M",
+          "url": "https://open.spotify.com/artist/5schXx0Ys4N52iU7On2j4c"
+        }
+      ],
+      "duration_ms": 339130,
+      "name": "Flightmode On",
+      "url": "https://open.spotify.com/track/7guDKEbsm74iyFwdc4Wtdy"
+    },
+    {
+      "added_at": "2024-05-10 14:35:21",
+      "album": {
         "name": "Milkyway",
         "url": "https://open.spotify.com/album/5z0dM0StzYEPketn3Ei8TQ"
       },
@@ -863,22 +843,22 @@
     {
       "added_at": "2024-05-10 14:35:21",
       "album": {
-        "name": "Brasileira (ddp Remix)",
-        "url": "https://open.spotify.com/album/6KLIuHvsFGrI4c2JUCmhUr"
+        "name": "Forgiveness",
+        "url": "https://open.spotify.com/album/1MmarqecvxwzaaQQHSdutV"
       },
       "artists": [
         {
-          "name": "9iusi",
-          "url": "https://open.spotify.com/artist/4r3taDm0QDk822Kgkb5HSF"
+          "name": "Tour-Maubourg",
+          "url": "https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su"
         },
         {
-          "name": "ddp",
-          "url": "https://open.spotify.com/artist/0HspbEdYue08iRrGtnG0YY"
+          "name": "AOC Records",
+          "url": "https://open.spotify.com/artist/6eoHnakjWcosB8baPzr7Gy"
         }
       ],
-      "duration_ms": 116190,
-      "name": "Brasileira - ddp Remix",
-      "url": "https://open.spotify.com/track/5mhTV8AJiXiqYZYV3gfMAo"
+      "duration_ms": 289941,
+      "name": "Forgiveness",
+      "url": "https://open.spotify.com/track/1G9e9FPyVPDjKsRPMX7nYH"
     },
     {
       "added_at": "2024-05-10 14:35:21",
@@ -907,22 +887,6 @@
       "duration_ms": 277567,
       "name": "Nektar Leftie MIX - Erdbeerschnitzel Remix",
       "url": "https://open.spotify.com/track/5yHjIzK4HlP9pmnpTyKiyQ"
-    },
-    {
-      "added_at": "2024-05-10 14:35:21",
-      "album": {
-        "name": "Dosages, Vol. 2",
-        "url": "https://open.spotify.com/album/2KnOK8FPRBIHYVmvsmp6BT"
-      },
-      "artists": [
-        {
-          "name": "Jorge Milliano",
-          "url": "https://open.spotify.com/artist/2h3ZcRa4CSTILfWC4RRgZJ"
-        }
-      ],
-      "duration_ms": 178983,
-      "name": "Lofi Vs. House",
-      "url": "https://open.spotify.com/track/0nSWtxmPYxrNU7d5yjKiq4"
     },
     {
       "added_at": "2024-05-10 14:35:21",
@@ -959,6 +923,22 @@
     {
       "added_at": "2024-05-10 14:35:21",
       "album": {
+        "name": "Dosages, Vol. 2",
+        "url": "https://open.spotify.com/album/2KnOK8FPRBIHYVmvsmp6BT"
+      },
+      "artists": [
+        {
+          "name": "Jorge Milliano",
+          "url": "https://open.spotify.com/artist/2h3ZcRa4CSTILfWC4RRgZJ"
+        }
+      ],
+      "duration_ms": 178983,
+      "name": "Lofi Vs. House",
+      "url": "https://open.spotify.com/track/0nSWtxmPYxrNU7d5yjKiq4"
+    },
+    {
+      "added_at": "2024-05-10 14:35:21",
+      "album": {
         "name": "Deep Love",
         "url": "https://open.spotify.com/album/3UX31DU0KJ1nrCOnmuEDzs"
       },
@@ -979,22 +959,22 @@
     {
       "added_at": "2024-05-10 14:35:21",
       "album": {
-        "name": "Flutes of Gold",
-        "url": "https://open.spotify.com/album/2z4JbfOQxmzY2SjcKA4ATD"
+        "name": "Brasileira (ddp Remix)",
+        "url": "https://open.spotify.com/album/6KLIuHvsFGrI4c2JUCmhUr"
       },
       "artists": [
         {
-          "name": "Felipe Gordon",
-          "url": "https://open.spotify.com/artist/7rQKvsWUOJgXmInx2JuaXj"
+          "name": "9iusi",
+          "url": "https://open.spotify.com/artist/4r3taDm0QDk822Kgkb5HSF"
         },
         {
-          "name": "Toro Moratto",
-          "url": "https://open.spotify.com/artist/394p0JVHuJ3UxHpJbsTp0H"
+          "name": "ddp",
+          "url": "https://open.spotify.com/artist/0HspbEdYue08iRrGtnG0YY"
         }
       ],
-      "duration_ms": 422278,
-      "name": "Flutes of Gold",
-      "url": "https://open.spotify.com/track/0JMbvSbbfNiK5NAk22i46M"
+      "duration_ms": 116190,
+      "name": "Brasileira - ddp Remix",
+      "url": "https://open.spotify.com/track/5mhTV8AJiXiqYZYV3gfMAo"
     },
     {
       "added_at": "2024-05-10 14:35:21",
@@ -1011,6 +991,26 @@
       "duration_ms": 363960,
       "name": "Anything Else Feat. Alix Edwards",
       "url": "https://open.spotify.com/track/5MaRkBsOJyrBuDMzBny61r"
+    },
+    {
+      "added_at": "2024-05-10 14:35:21",
+      "album": {
+        "name": "Flutes of Gold",
+        "url": "https://open.spotify.com/album/2z4JbfOQxmzY2SjcKA4ATD"
+      },
+      "artists": [
+        {
+          "name": "Felipe Gordon",
+          "url": "https://open.spotify.com/artist/7rQKvsWUOJgXmInx2JuaXj"
+        },
+        {
+          "name": "Toro Moratto",
+          "url": "https://open.spotify.com/artist/394p0JVHuJ3UxHpJbsTp0H"
+        }
+      ],
+      "duration_ms": 422278,
+      "name": "Flutes of Gold",
+      "url": "https://open.spotify.com/track/0JMbvSbbfNiK5NAk22i46M"
     },
     {
       "added_at": "2024-05-10 14:35:21",

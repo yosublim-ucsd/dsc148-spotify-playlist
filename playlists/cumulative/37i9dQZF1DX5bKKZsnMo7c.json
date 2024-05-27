@@ -6335,6 +6335,24 @@
     },
     {
       "album": {
+        "name": "Unsweetened Lemonade",
+        "url": "https://open.spotify.com/album/1ybx1ljq27DWJqYxm1rn5R"
+      },
+      "artists": [
+        {
+          "name": "Am\u00e9lie Farren",
+          "url": "https://open.spotify.com/artist/6xRbdqe7I2llmjw533rYnG"
+        }
+      ],
+      "date_added": "2024-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Unsweetened Lemonade",
+      "url": "https://open.spotify.com/track/0hjTOj4u1cLwPov4fqevnw"
+    },
+    {
+      "album": {
         "name": "Us and Pigs",
         "url": "https://open.spotify.com/album/0qoWzc62jWceify6jMxXDt"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4WDwW7forWdQWutkAEVZMR.md) - [plain]
 
 > Your go\-to playlist for this week's hottest music featuring Bring Me The Horizon, Miley Cyrus, and more! Cover: Bring Me The Horizon
 
-[Columbia Records](https://open.spotify.com/user/columbiarecords_us) - 8,023 likes - 39 songs - 2 hr 2 min
+[Columbia Records](https://open.spotify.com/user/columbiarecords_us) - 8,022 likes - 39 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

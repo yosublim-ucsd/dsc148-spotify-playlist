@@ -4,7 +4,7 @@
 
 > Una selección musical para los sentimientos tenues y taciturnos.
 
-546 songs - 1 day 12 hr 48 min
+547 songs - 1 day 12 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,7 +173,7 @@
 | [Full Mood](https://open.spotify.com/track/6o6S5TRNSKNV2RpKAOG5gP) | [Sarah Mary Chadwick](https://open.spotify.com/artist/1UDmSmzxcGZxP3IYpafgpn) | [Me and Ennui Are Friends, Baby](https://open.spotify.com/album/4pNa3AVRsruf6p26rIpFl0) | 4:14 | 2023-01-17 |  |
 | [Galapagos](https://open.spotify.com/track/6Z6TA5YhapGGxc5BETHwVc) | [Lower Dens](https://open.spotify.com/artist/5uTJLo3c4ZHpH8oEwGxYUN) | [Galapagos](https://open.spotify.com/album/20onzDlGi2SlmFhnn5aRkE) | 4:20 | 2023-01-17 |  |
 | [Garden Song](https://open.spotify.com/track/5bIgzvxvlefRUCQK9JPocF) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH) | 3:39 | 2023-01-17 | 2024-04-19 |
-| [Garden Song](https://open.spotify.com/track/5uQRmdIqyMmKPWJcot4UmV) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/2xECuqnvvmVktV7UO8Dd3s) | 3:39 | 2023-01-17 | 2024-05-24 |
+| [Garden Song](https://open.spotify.com/track/5uQRmdIqyMmKPWJcot4UmV) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/2xECuqnvvmVktV7UO8Dd3s) | 3:39 | 2023-01-17 |  |
 | [Gem](https://open.spotify.com/track/0dcQhubzum2ZEqQfkKXG7S) | [Daughter of Swords](https://open.spotify.com/artist/4PAN1zWvarcHxfPhJOAHMg) | [Dawnbreaker](https://open.spotify.com/album/44wumRa2cbldLimmZdHbow) | 3:57 | 2023-01-17 |  |
 | [Ghostride](https://open.spotify.com/track/0R3TWpoxAhT3HDXM7tpRzS) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [Jinx](https://open.spotify.com/album/6DxidEI7EhF8md8ev83iNY) | 2:06 | 2023-01-17 | 2024-04-19 |
 | [Gilly](https://open.spotify.com/track/0ELuLIjUihj8SlRwzEHhgY) | [Kate Teague](https://open.spotify.com/artist/5yNcIZz69fYkSRhiGoFx8T) | [Gilly](https://open.spotify.com/album/69VLDmXvicpvJqTCrZ9NhL) | 3:17 | 2023-01-17 |  |
@@ -342,6 +342,7 @@
 | [Only Love Can](https://open.spotify.com/track/3UnJeER1Ls8XYzTN9atcPc) | [Ailie Ormston](https://open.spotify.com/artist/4PaNF1hJdZop3hqlEHj67Y), [Tim Fraser](https://open.spotify.com/artist/3wVcwsDuXAz8tpAsvmHsmE) | [It Changes](https://open.spotify.com/album/6kJxv0g8zTCXqtNb0d8LMk) | 3:52 | 2023-01-17 |  |
 | [Only One](https://open.spotify.com/track/6FFs23jJhushOE2kdE0HKC) | [The Belle Game](https://open.spotify.com/artist/7jODCOa0FcBJyrcUocGq0p) | [Only One](https://open.spotify.com/album/4DSoSxygd8bbQ9afXvkCQc) | 4:36 | 2023-01-17 |  |
 | [Orange Blossoms](https://open.spotify.com/track/2G592yetfLvLCY6N5m9WF6) | [Half Waif](https://open.spotify.com/artist/28mCmWkgrWHZ4fm5c3OcIj) | [Mythopoetics](https://open.spotify.com/album/4FdIfIKSgiDBEG6Er5ANj4) | 3:44 | 2023-01-17 |  |
+| [Outside](https://open.spotify.com/track/7Cx3kiPstZOSKAqTe3LtEi) | [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr) | [Outside](https://open.spotify.com/album/7Dedy1SsrEQ2ofQUw7eGNC) | 3:58 | 2023-01-17 |  |
 | [Outside](https://open.spotify.com/track/7aehX1MYSOcZJ90BkzEzHb) | [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr) | [Outside](https://open.spotify.com/album/3xATsZ74UHQU7eTZawuHTf) | 3:58 | 2023-01-17 | 2024-04-19 |
 | [Over and Over](https://open.spotify.com/track/3GFwhQ4YTnt6WYDP4snbd9) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Once Twice Melody](https://open.spotify.com/album/79NySyjxJ8xric31mXKMAo) | 7:11 | 2023-01-17 | 2024-04-19 |
 | [Padam Padam](https://open.spotify.com/track/4qAIlXdkdXvQIOpkF9dC2f) | [Route 500](https://open.spotify.com/artist/7KdLalL74q6v7fQA60osrz) | [Padam Padam](https://open.spotify.com/album/0U0UC9FkMUy8aA3xCFY5dV) | 3:16 | 2023-07-31 |  |
@@ -385,7 +386,7 @@
 | [Runaway](https://open.spotify.com/track/23rdcrD0Eky4vYn2TZidxJ) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [All My Demons Greeting Me as a Friend \(Deluxe\)](https://open.spotify.com/album/6f20spSQ9DLynFAXEKmqHf) | 4:08 | 2023-01-17 | 2024-04-19 |
 | [Running Up That Hill](https://open.spotify.com/track/0hjIjq7plLZgCmyHRpj042) | [Alih Jey](https://open.spotify.com/artist/5mdcH0FX9YUTUv9PXlxhBa) | [Running Up That Hill](https://open.spotify.com/album/7JT4iABklvGFoSUwGaqzhf) | 4:11 | 2023-01-17 |  |
 | [Running Up That Hill \- Recorded at Spotify Studios Stockholm](https://open.spotify.com/track/7KIXAzdiG2Pae7spgsklZo) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Spotify Singles](https://open.spotify.com/album/4DyuXP04lvFmYh01L94WH2) | 3:56 | 2023-01-17 |  |
-| [Rylan](https://open.spotify.com/track/18IyalmZGqUTwvZStMf7A1) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [I Am Easy to Find](https://open.spotify.com/album/240Gfpkjr06NUT3zBYrwVN) | 3:43 | 2023-01-17 |  |
+| [Rylan](https://open.spotify.com/track/18IyalmZGqUTwvZStMf7A1) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [I Am Easy to Find](https://open.spotify.com/album/240Gfpkjr06NUT3zBYrwVN) | 3:43 | 2023-01-17 | 2024-05-27 |
 | [Rylan](https://open.spotify.com/track/6XxPXXqkE4lG7MVkpom6F8) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [I Am Easy to Find](https://open.spotify.com/album/5M5LPGsAR9mxbBa22GOp5h) | 3:43 | 2023-01-17 | 2024-04-19 |
 | [Safe With Me](https://open.spotify.com/track/6JXNQLqk8iSHgHp4ag7498) | [Soap&Skin](https://open.spotify.com/artist/2mAYpnSe3g2Y22JcZ2ddku) | [From Gas to Solid / you are my friend](https://open.spotify.com/album/0jDK15E80QD5ekIOlqdY7h) | 3:17 | 2023-01-17 | 2024-04-19 |
 | [Sandrail Silhouette](https://open.spotify.com/track/1wanXEOnOjtVk93VFv0xIQ) | [Avalon Emerson](https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz) | [Sandrail Silhouette](https://open.spotify.com/album/2vBvUI6HDD4bClYmKl16yw) | 4:29 | 2023-01-25 |  |
@@ -524,7 +525,7 @@
 | [We Wait](https://open.spotify.com/track/3QeaXGKRvt8cfHdrfdk5pL) | [Other Lives](https://open.spotify.com/artist/3bw0A7x5AgdJsK20ai5iS6) | [For Their Love](https://open.spotify.com/album/1pesl95uJqfN7kIOFozSHt) | 3:41 | 2023-01-17 |  |
 | [Weird Goodbyes \(feat\. Bon Iver\)](https://open.spotify.com/track/2NbS9E0ZZKAMJAppj8P53N) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Weird Goodbyes \(feat\. Bon Iver\)](https://open.spotify.com/album/2HQGXK9797uB6Ir8yd7Das) | 5:03 | 2023-01-17 |  |
 | [Where The Light Used To Lay](https://open.spotify.com/track/3cN6n7yeYM3QEOswqQVmV8) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [Present Tense](https://open.spotify.com/album/2MWDzkDsRqaJcWdktGXhG5) | 3:36 | 2023-01-17 | 2024-04-19 |
-| [Where The Rocks Are](https://open.spotify.com/track/0XzVFPCmBmQuNjshP49T1R) | [Maia Friedman](https://open.spotify.com/artist/3SAdHKW3ICNgtyFgaWdC6c) | [Where The Rocks Are](https://open.spotify.com/album/0JseMx4hFfMch3y8MfbDNo) | 3:53 | 2023-01-17 |  |
+| [Where The Rocks Are](https://open.spotify.com/track/0XzVFPCmBmQuNjshP49T1R) | [Maia Friedman](https://open.spotify.com/artist/3SAdHKW3ICNgtyFgaWdC6c) | [Where The Rocks Are](https://open.spotify.com/album/0JseMx4hFfMch3y8MfbDNo) | 3:53 | 2023-01-17 | 2024-05-27 |
 | [Where The Rocks Are](https://open.spotify.com/track/7HR4lbW25RVbp7JVDMKvPt) | [Maia Friedman](https://open.spotify.com/artist/3SAdHKW3ICNgtyFgaWdC6c) | [Under the New Light](https://open.spotify.com/album/1PLNAjXNiv7oUS31jU2qXk) | 3:53 | 2023-01-17 | 2024-03-12 |
 | [Where To Put The Pain](https://open.spotify.com/track/0XTurmb33W1OnYZji8eIQe) | [Alice Boman](https://open.spotify.com/artist/3WiytRnvoL0kT3oAGl9TCt) | [Where To Put The Pain](https://open.spotify.com/album/1CIYtcZozAhsnaZETJHmai) | 3:54 | 2023-01-17 |  |
 | [Where Your Mind Wants to Go \- RONE Remix](https://open.spotify.com/track/4pODZqgdj6Iwci7jruY5xf) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF), [RONE](https://open.spotify.com/artist/2UkeEJUAx1X1HBwaaGwEON) | [Where Your Mind Wants to Go \(RONE Remix\)](https://open.spotify.com/album/3pXasUa2PEZc4pkVTsqhrJ) | 5:36 | 2023-01-17 |  |

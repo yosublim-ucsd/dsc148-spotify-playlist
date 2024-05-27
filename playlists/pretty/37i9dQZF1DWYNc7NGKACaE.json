@@ -1,6 +1,6 @@
 {
   "description": "essa \u00e9 s\u00f3 pra quem vive no 2.0x\n",
-  "num_followers": 80396,
+  "num_followers": 80407,
   "original_name": "speed BR",
   "owner": {
     "name": "Spotify",
@@ -123,6 +123,26 @@
     {
       "added_at": "2023-12-27 14:18:14",
       "album": {
+        "name": "Boa Noite, DEUS (Sped Up)",
+        "url": "https://open.spotify.com/album/6vDMX7sjhMLyG4Bp2NTVyj"
+      },
+      "artists": [
+        {
+          "name": "Nick Die",
+          "url": "https://open.spotify.com/artist/1neKlb3mSCsIqqlEF4hesS"
+        },
+        {
+          "name": "WMBR",
+          "url": "https://open.spotify.com/artist/2an7bxC6SGMZ0OsS6w4C28"
+        }
+      ],
+      "duration_ms": 168857,
+      "name": "Boa Noite, DEUS (Sped Up)",
+      "url": "https://open.spotify.com/track/6JcfaecQ8RsDQXTFqs7zJl"
+    },
+    {
+      "added_at": "2023-12-27 14:18:14",
+      "album": {
         "name": "Imprevisto \u2013 Speed",
         "url": "https://open.spotify.com/album/7iU3KlCks9lXfrbTUu36ot"
       },
@@ -143,26 +163,6 @@
       "duration_ms": 118666,
       "name": "Imprevisto \u2013 Speed",
       "url": "https://open.spotify.com/track/2mgnSTCwWvi61c12eYVGdy"
-    },
-    {
-      "added_at": "2023-12-27 14:18:14",
-      "album": {
-        "name": "Boa Noite, DEUS (Sped Up)",
-        "url": "https://open.spotify.com/album/6vDMX7sjhMLyG4Bp2NTVyj"
-      },
-      "artists": [
-        {
-          "name": "Nick Die",
-          "url": "https://open.spotify.com/artist/1neKlb3mSCsIqqlEF4hesS"
-        },
-        {
-          "name": "WMBR",
-          "url": "https://open.spotify.com/artist/2an7bxC6SGMZ0OsS6w4C28"
-        }
-      ],
-      "duration_ms": 168857,
-      "name": "Boa Noite, DEUS (Sped Up)",
-      "url": "https://open.spotify.com/track/6JcfaecQ8RsDQXTFqs7zJl"
     },
     {
       "added_at": "2023-12-27 14:18:14",
@@ -263,6 +263,26 @@
     {
       "added_at": "2023-12-27 14:18:14",
       "album": {
+        "name": "Plug! (Speed Plug)",
+        "url": "https://open.spotify.com/album/16zg9fzXtFEqb0q0367yxd"
+      },
+      "artists": [
+        {
+          "name": "Muzzi",
+          "url": "https://open.spotify.com/artist/6J9B0QuNm4QTuyjsHveigy"
+        },
+        {
+          "name": "Edubeatz",
+          "url": "https://open.spotify.com/artist/1uAxRk8YHpAKbwCG2xNlf8"
+        }
+      ],
+      "duration_ms": 102250,
+      "name": "Plug! (Speed Plug)",
+      "url": "https://open.spotify.com/track/3LZIqLS8BfUZp9T1k39IZb"
+    },
+    {
+      "added_at": "2023-12-27 14:18:14",
+      "album": {
         "name": "Brotei No Baile Da Matinha (Tiktok)",
         "url": "https://open.spotify.com/album/4K63K2sdjaW6ySiaynrEGo"
       },
@@ -283,26 +303,6 @@
       "duration_ms": 106595,
       "name": "Brotei No Baile Da Matinha - Tiktok",
       "url": "https://open.spotify.com/track/5kMfOzYm4xE5zdt2cH2rFy"
-    },
-    {
-      "added_at": "2023-12-27 14:18:14",
-      "album": {
-        "name": "Plug! (Speed Plug)",
-        "url": "https://open.spotify.com/album/16zg9fzXtFEqb0q0367yxd"
-      },
-      "artists": [
-        {
-          "name": "Muzzi",
-          "url": "https://open.spotify.com/artist/6J9B0QuNm4QTuyjsHveigy"
-        },
-        {
-          "name": "Edubeatz",
-          "url": "https://open.spotify.com/artist/1uAxRk8YHpAKbwCG2xNlf8"
-        }
-      ],
-      "duration_ms": 102250,
-      "name": "Plug! (Speed Plug)",
-      "url": "https://open.spotify.com/track/3LZIqLS8BfUZp9T1k39IZb"
     },
     {
       "added_at": "2023-12-27 14:18:14",
@@ -667,6 +667,22 @@
     {
       "added_at": "2023-12-27 14:18:14",
       "album": {
+        "name": "F* F* M* - No Beat S\u00c9RIE GOLD",
+        "url": "https://open.spotify.com/album/3NMKPK8rfEoipLRik4fqwi"
+      },
+      "artists": [
+        {
+          "name": "Dj LD da Favelinha",
+          "url": "https://open.spotify.com/artist/2fwT8MEPRpyAnwFw7DSyb7"
+        }
+      ],
+      "duration_ms": 176538,
+      "name": "F* F* M* - No Beat S\u00c9RIE GOLD",
+      "url": "https://open.spotify.com/track/0s8402HaaJsq8IyzDFS7Cm"
+    },
+    {
+      "added_at": "2023-12-27 14:18:14",
+      "album": {
         "name": "ELA SABE QUE \u00c9 O LITTLE HAIR FININHA (REMIX)",
         "url": "https://open.spotify.com/album/3nASJZOJV1VWbLzp2DS7AE"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 169846,
       "name": "ELA SABE QUE \u00c9 O LITTLE HAIR FININHA - REMIX",
       "url": "https://open.spotify.com/track/4Nly3yVddPbsDc6b2eK4W7"
-    },
-    {
-      "added_at": "2023-12-27 14:18:14",
-      "album": {
-        "name": "F* F* M* - No Beat S\u00c9RIE GOLD",
-        "url": "https://open.spotify.com/album/3NMKPK8rfEoipLRik4fqwi"
-      },
-      "artists": [
-        {
-          "name": "Dj LD da Favelinha",
-          "url": "https://open.spotify.com/artist/2fwT8MEPRpyAnwFw7DSyb7"
-        }
-      ],
-      "duration_ms": 176538,
-      "name": "F* F* M* - No Beat S\u00c9RIE GOLD",
-      "url": "https://open.spotify.com/track/0s8402HaaJsq8IyzDFS7Cm"
     },
     {
       "added_at": "2023-12-27 14:18:14",
@@ -791,6 +791,30 @@
     {
       "added_at": "2023-12-27 14:18:14",
       "album": {
+        "name": "TRABALHANDO MUITO, Quem \u00e9 Voc\u00ea Seu Com\u00e9dia",
+        "url": "https://open.spotify.com/album/3xRQIsFyx99ERIDNL7T7eA"
+      },
+      "artists": [
+        {
+          "name": "ARTHUR DE AFC",
+          "url": "https://open.spotify.com/artist/187YBR2vRDJhfZ2AddqoBb"
+        },
+        {
+          "name": "Funk S\u00c9RIE GOLD",
+          "url": "https://open.spotify.com/artist/1IaKgxqkPHO3AZxeKi1n5n"
+        },
+        {
+          "name": "Dj LD da Favelinha",
+          "url": "https://open.spotify.com/artist/2fwT8MEPRpyAnwFw7DSyb7"
+        }
+      ],
+      "duration_ms": 168615,
+      "name": "TRABALHANDO MUITO, Quem \u00e9 Voc\u00ea Seu Com\u00e9dia",
+      "url": "https://open.spotify.com/track/7mSweyinAvjEFBy6sSTjkg"
+    },
+    {
+      "added_at": "2023-12-27 14:18:14",
+      "album": {
         "name": "Manda \u00c1udio (Sped Funk)",
         "url": "https://open.spotify.com/album/0zuN31JROjiQnzQm0KGtkk"
       },
@@ -851,6 +875,22 @@
     {
       "added_at": "2023-12-27 14:18:14",
       "album": {
+        "name": "MT - TETO, Deus Vai Guiar, ENT\u00c3O APONTA O FUZIL",
+        "url": "https://open.spotify.com/album/1IFTS6yS1n9VIZDcv3GmQh"
+      },
+      "artists": [
+        {
+          "name": "Dj LD da Favelinha",
+          "url": "https://open.spotify.com/artist/2fwT8MEPRpyAnwFw7DSyb7"
+        }
+      ],
+      "duration_ms": 160421,
+      "name": "MT - TETO, Deus Vai Guiar, ENT\u00c3O APONTA O FUZIL",
+      "url": "https://open.spotify.com/track/6Jw5n5JmPrUzpe33beJOM8"
+    },
+    {
+      "added_at": "2023-12-27 14:18:14",
+      "album": {
         "name": "Luxo & Crime Speed",
         "url": "https://open.spotify.com/album/5gE4qRAOr2KTTqKI3OBOGc"
       },
@@ -875,46 +915,6 @@
       "duration_ms": 140628,
       "name": "Luxo & Crime Speed",
       "url": "https://open.spotify.com/track/5ePLQDDDMDk2iJgJuciFq6"
-    },
-    {
-      "added_at": "2023-12-27 14:18:14",
-      "album": {
-        "name": "TRABALHANDO MUITO, Quem \u00e9 Voc\u00ea Seu Com\u00e9dia",
-        "url": "https://open.spotify.com/album/3xRQIsFyx99ERIDNL7T7eA"
-      },
-      "artists": [
-        {
-          "name": "ARTHUR DE AFC",
-          "url": "https://open.spotify.com/artist/187YBR2vRDJhfZ2AddqoBb"
-        },
-        {
-          "name": "Funk S\u00c9RIE GOLD",
-          "url": "https://open.spotify.com/artist/1IaKgxqkPHO3AZxeKi1n5n"
-        },
-        {
-          "name": "Dj LD da Favelinha",
-          "url": "https://open.spotify.com/artist/2fwT8MEPRpyAnwFw7DSyb7"
-        }
-      ],
-      "duration_ms": 168615,
-      "name": "TRABALHANDO MUITO, Quem \u00e9 Voc\u00ea Seu Com\u00e9dia",
-      "url": "https://open.spotify.com/track/7mSweyinAvjEFBy6sSTjkg"
-    },
-    {
-      "added_at": "2023-12-27 14:18:14",
-      "album": {
-        "name": "MT - TETO, Deus Vai Guiar, ENT\u00c3O APONTA O FUZIL",
-        "url": "https://open.spotify.com/album/1IFTS6yS1n9VIZDcv3GmQh"
-      },
-      "artists": [
-        {
-          "name": "Dj LD da Favelinha",
-          "url": "https://open.spotify.com/artist/2fwT8MEPRpyAnwFw7DSyb7"
-        }
-      ],
-      "duration_ms": 160421,
-      "name": "MT - TETO, Deus Vai Guiar, ENT\u00c3O APONTA O FUZIL",
-      "url": "https://open.spotify.com/track/6Jw5n5JmPrUzpe33beJOM8"
     },
     {
       "added_at": "2023-12-27 14:18:14",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2023-12-27 14:18:14",
       "album": {
+        "name": "Como Era Antes",
+        "url": "https://open.spotify.com/album/6ftwzFoSNWFnJLcZ2seY98"
+      },
+      "artists": [
+        {
+          "name": "rs9",
+          "url": "https://open.spotify.com/artist/3pg4wlhwWAUDvmONc1O0i9"
+        }
+      ],
+      "duration_ms": 64480,
+      "name": "Como Era Antes... (Speed Up)",
+      "url": "https://open.spotify.com/track/1ehN4TuEBlGb3ievwvTIhQ"
+    },
+    {
+      "added_at": "2023-12-27 14:18:14",
+      "album": {
         "name": "EU N\u00c3O SOU UM G\u00caNIO MAS SOU O CARA QUE REALIZA SEUS DESEJOS FANATICA",
         "url": "https://open.spotify.com/album/6Uo1EzghXdykjOM1lzbx04"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 153795,
       "name": "SIMPLESMENTE ELA, N\u00c3O CONSIGO VIVER LONGE DESSA SURTADA",
       "url": "https://open.spotify.com/track/2vaHyhqQxKnNOtznsiSRpy"
-    },
-    {
-      "added_at": "2023-12-27 14:18:14",
-      "album": {
-        "name": "Como Era Antes",
-        "url": "https://open.spotify.com/album/6ftwzFoSNWFnJLcZ2seY98"
-      },
-      "artists": [
-        {
-          "name": "rs9",
-          "url": "https://open.spotify.com/artist/3pg4wlhwWAUDvmONc1O0i9"
-        }
-      ],
-      "duration_ms": 64480,
-      "name": "Como Era Antes... (Speed Up)",
-      "url": "https://open.spotify.com/track/1ehN4TuEBlGb3ievwvTIhQ"
     },
     {
       "added_at": "2023-12-27 14:18:14",

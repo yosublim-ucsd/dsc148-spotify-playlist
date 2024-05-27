@@ -6,7 +6,7 @@
     "name": "James Williams",
     "url": "https://open.spotify.com/user/imathieu32"
   },
-  "snapshot_id": "AAAcqtn/T09kDV0iIDLsX6XOWHpalJi/",
+  "snapshot_id": "AAAcq1slLu+JJ07NZpCMx+gEdCg6a3MW",
   "tracks": [
     {
       "added_at": "2022-09-26 20:53:27",
@@ -2159,6 +2159,30 @@
       "duration_ms": 176849,
       "name": "\"Radio\"",
       "url": "https://open.spotify.com/track/5yVRwEPSCpcuOUgkz2T0Lu"
+    },
+    {
+      "added_at": "2024-05-26 13:37:12",
+      "album": {
+        "name": "Philadelphia Freeway",
+        "url": "https://open.spotify.com/album/41guLY5GEPG3GLREh0ck19"
+      },
+      "artists": [
+        {
+          "name": "Freeway",
+          "url": "https://open.spotify.com/artist/2Jwr7hGoSNK3S3QBxh3T0z"
+        },
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        {
+          "name": "Beanie Sigel",
+          "url": "https://open.spotify.com/artist/0tCtGc5vt29zFZp6KXzN50"
+        }
+      ],
+      "duration_ms": 229106,
+      "name": "What We Do",
+      "url": "https://open.spotify.com/track/5kDkWHFx0AEvJ1Pfm2i0ac"
     }
   ],
   "unique_name": "main ",

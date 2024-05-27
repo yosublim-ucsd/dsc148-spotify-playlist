@@ -2129,6 +2129,24 @@
     },
     {
       "album": {
+        "name": "Vitamin",
+        "url": "https://open.spotify.com/album/27WkqF1MudS5dyGdvcKOLU"
+      },
+      "artists": [
+        {
+          "name": "KLP",
+          "url": "https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3"
+        }
+      ],
+      "date_added": "2024-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182442,
+      "name": "Vitamin",
+      "url": "https://open.spotify.com/track/5KOMi431YMQbyTh8yuiwu0"
+    },
+    {
+      "album": {
         "name": "Welcome to Diver City",
         "url": "https://open.spotify.com/album/60gI1kcOLfTGBUBftJXnfJ"
       },

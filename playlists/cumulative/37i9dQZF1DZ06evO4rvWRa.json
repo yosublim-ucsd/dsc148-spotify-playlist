@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-06-19",
-  "description": "This is Alan Walker. Todos os maiores hits em uma s\u00f3 playlist.",
+  "description": "This is Alan Walker. The essential tracks, all in one playlist.",
   "name": "This Is Alan Walker",
   "tracks": [
     {
@@ -1532,7 +1532,7 @@
       ],
       "date_added": "2023-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-26",
+      "date_removed": null,
       "duration_ms": 195888,
       "name": "That's What I Like - Alan Walker Remix",
       "url": "https://open.spotify.com/track/1KtU0WCq472KzqCXgMOxkS"

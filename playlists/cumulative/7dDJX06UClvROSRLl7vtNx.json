@@ -3565,6 +3565,24 @@
     },
     {
       "album": {
+        "name": "Jump",
+        "url": "https://open.spotify.com/album/6RyWbtser6LYefUpnemhIO"
+      },
+      "artists": [
+        {
+          "name": "Levi",
+          "url": "https://open.spotify.com/artist/1M4OBXDWyLtubqa3SBLxwC"
+        }
+      ],
+      "date_added": "2024-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153904,
+      "name": "Jump",
+      "url": "https://open.spotify.com/track/1JKo6V7VgO6MM2uj7iVkHh"
+    },
+    {
+      "album": {
         "name": "June",
         "url": "https://open.spotify.com/album/5R8lqTv6VUfTgPyuA3vScp"
       },
@@ -6279,6 +6297,28 @@
     },
     {
       "album": {
+        "name": "Sinking Feeling",
+        "url": "https://open.spotify.com/album/5b5cneZEREWTHV0uF9K7Ao"
+      },
+      "artists": [
+        {
+          "name": "KAAJO",
+          "url": "https://open.spotify.com/artist/7gDXm8pficMcSSjyve1i6M"
+        },
+        {
+          "name": "ODBLU",
+          "url": "https://open.spotify.com/artist/6AmNTXPYTR90WlrDRFLa02"
+        }
+      ],
+      "date_added": "2024-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131515,
+      "name": "Sinking Feeling",
+      "url": "https://open.spotify.com/track/3P2xBMOaRPnziqk3tV70eM"
+    },
+    {
+      "album": {
         "name": "Sleep",
         "url": "https://open.spotify.com/album/49rPIZxBEwNFxZSdhcjiMr"
       },
@@ -6422,6 +6462,24 @@
       "duration_ms": 133333,
       "name": "So Long",
       "url": "https://open.spotify.com/track/2MgAhjcBonrPzFM7hmjvz5"
+    },
+    {
+      "album": {
+        "name": "Sober",
+        "url": "https://open.spotify.com/album/5yt7bAq2sczF299KRjnAkC"
+      },
+      "artists": [
+        {
+          "name": "Dominic Neill",
+          "url": "https://open.spotify.com/artist/4PIv3Lyk3erxjcwBZFVNgi"
+        }
+      ],
+      "date_added": "2024-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158484,
+      "name": "Sober",
+      "url": "https://open.spotify.com/track/6Ymv5LdoC3IFBcIhSurQHj"
     },
     {
       "album": {
@@ -6748,6 +6806,24 @@
       "duration_ms": 200769,
       "name": "Summer Love",
       "url": "https://open.spotify.com/track/3cuoNCWAR8qyiMpecD1oK4"
+    },
+    {
+      "album": {
+        "name": "Summertime Sadness",
+        "url": "https://open.spotify.com/album/2noEqscULZZhV2yNNmK0Me"
+      },
+      "artists": [
+        {
+          "name": "four30",
+          "url": "https://open.spotify.com/artist/2ZIBs9fjeieh0tVW1rnO0S"
+        }
+      ],
+      "date_added": "2024-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215200,
+      "name": "Summertime Sadness",
+      "url": "https://open.spotify.com/track/4dNtnXTCeYcx2CwJyyJUL7"
     },
     {
       "album": {

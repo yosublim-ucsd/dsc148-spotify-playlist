@@ -4,7 +4,7 @@
 
 > The best Indie sounds from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq?si=NdIV3Kp\-QyO\-UAWrO8HYSg">Msaki</a> & <a href="https://open.spotify.com/artist/1eraeBfwU1RwFj6LszJT65?si=u9zvdS60RAeLgx1DWreprw">Tubatsi Mpho Moloi</a>
 
-729 songs - 1 day 17 hr 32 min
+730 songs - 1 day 17 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -249,7 +249,8 @@
 | [Golden Heart](https://open.spotify.com/track/14J4NyAyHAirsN7SLunFT0) | [Evergreen Band](https://open.spotify.com/artist/6mP4sC7JWBSGQACztiNRny) | [Golden Heart](https://open.spotify.com/album/3OVlothIk9cUiqR5mJG9f1) | 3:25 | 2023-06-15 | 2023-07-29 |
 | [Good, but not together](https://open.spotify.com/track/4XfgpMiAz9XG58pvq4ly9Q) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [Good, but not together](https://open.spotify.com/album/7IJq7iIJ0JztktxLcoa0Sn) | 3:03 | 2023-03-02 | 2023-05-12 |
 | [goodbye\~](https://open.spotify.com/track/1FoQGNxWPrxuydF1qTGaSI) | [Corbon Amodio](https://open.spotify.com/artist/7tYRwBffjJ0FiLIkPTCGMQ) | [goodbye\~](https://open.spotify.com/album/5iIkWN6BGuu9wYRRH6r7va) | 1:39 | 2023-08-04 | 2023-11-10 |
-| [grew a few](https://open.spotify.com/track/0NTrQwcByWXNKgfEROWhb3) | [aboynamedblu](https://open.spotify.com/artist/4DCRHW4ITYEaA0qmW3PYJj) | [grew a few](https://open.spotify.com/album/62zTZ1rgv80XnuFnG9Twxm) | 3:11 | 2024-02-15 |  |
+| [grew a few](https://open.spotify.com/track/0NTrQwcByWXNKgfEROWhb3) | [aboynamedblu](https://open.spotify.com/artist/4DCRHW4ITYEaA0qmW3PYJj) | [grew a few](https://open.spotify.com/album/62zTZ1rgv80XnuFnG9Twxm) | 3:11 | 2024-02-15 | 2024-05-27 |
+| [Growing Up](https://open.spotify.com/track/1xnEyIV7tGENTcJ1NhaBWz) | [ZUBIN](https://open.spotify.com/artist/5kpmKrfmZQ8fRbEpQVAy1E) | [Growing Up](https://open.spotify.com/album/3Gs9W1xPFA4c83QUnppYKw) | 2:37 | 2024-05-23 |  |
 | [GUILTY](https://open.spotify.com/track/0L9fyDr3u7SN9CAK0KuUd8) | [Anke Richards](https://open.spotify.com/artist/02NDeY8bYIzxfZ4EGbemeF) | [GUILTY](https://open.spotify.com/album/4qxULZELSqlALwdnZDplfN) | 2:44 | 2023-12-08 | 2024-01-12 |
 | [Happier \- Radio Remix](https://open.spotify.com/track/2dM434jTJ5oC51IFViMvv5) | [Tuelo](https://open.spotify.com/artist/1lig68oZ73xVDte2BME8Mi) | [Happier \(Radio Remix\)](https://open.spotify.com/album/4dmgyRNF1FyHU9Jm94ss5Z) | 3:35 | 2023-02-02 | 2023-03-10 |
 | [Happy Ending](https://open.spotify.com/track/393wK9bZSGRfSP0nT4NrsP) | [Anelda](https://open.spotify.com/artist/0LaWkf1uyYMu26Nwhmys1h) | [Happy Ending](https://open.spotify.com/album/0eOmxLTHkwZTYQxdzhDzTg) | 3:46 | 2023-08-04 | 2023-11-10 |

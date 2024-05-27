@@ -4,7 +4,7 @@
 
 > New and recent favorites of Prog Metal\. Cover: TesseracT
 
-713 songs - 2 day 13 hr 13 min
+714 songs - 2 day 13 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -240,7 +240,7 @@
 | [Fugue](https://open.spotify.com/track/5MyJ0db4l6pNQCcrIxu3P9) | [Wheel](https://open.spotify.com/artist/4msm1QtpV7zMReePhbEQ6H) | [Resident Human](https://open.spotify.com/album/1FrupUpwR2Mf9rSIIoInyr) | 4:31 | 2022-09-02 | 2023-01-21 |
 | [Fugue](https://open.spotify.com/track/5Foe5fUmcOU9gsFpA03RRy) | [Wheel](https://open.spotify.com/artist/4msm1QtpV7zMReePhbEQ6H) | [Fugue](https://open.spotify.com/album/6wI0GHQv3wCLTrBk8vf4wo) | 4:31 | 2021-12-17 | 2022-07-29 |
 | [Gangandi](https://open.spotify.com/track/4AnR4EB1BIn481mcPalt44) | [Enslaved](https://open.spotify.com/artist/2HmtB6wVRRi3z0JwZHtkiD) | [Gangandi](https://open.spotify.com/album/45VQnapn0ZwF6JV2HvAiZ9) | 7:10 | 2024-01-30 | 2024-03-30 |
-| [Garden in the Bones](https://open.spotify.com/track/1KMJIB0SCNDxEKOSG26T0x) | [Periphery](https://open.spotify.com/artist/6d24kC5fxHFOSEAmjQPPhc) | [Garden in the Bones](https://open.spotify.com/album/0x9PB03XPoJaZDP7KzPsFq) | 5:56 | 2022-07-13 |  |
+| [Garden in the Bones](https://open.spotify.com/track/1KMJIB0SCNDxEKOSG26T0x) | [Periphery](https://open.spotify.com/artist/6d24kC5fxHFOSEAmjQPPhc) | [Garden in the Bones](https://open.spotify.com/album/0x9PB03XPoJaZDP7KzPsFq) | 5:56 | 2022-07-13 | 2024-05-27 |
 | [Garden In The Bones](https://open.spotify.com/track/1gigJImcWyDZZidGrqu2bX) | [Periphery](https://open.spotify.com/artist/6d24kC5fxHFOSEAmjQPPhc) | [Periphery IV: HAIL STAN](https://open.spotify.com/album/0A3ms3uYiTs9MPAfQrfoKt) | 5:56 | 2022-10-07 | 2024-04-19 |
 | [Garden in the Bones](https://open.spotify.com/track/4ezBCuMm1YfzFIrrwfIQrz) | [Periphery](https://open.spotify.com/artist/6d24kC5fxHFOSEAmjQPPhc) | [Periphery IV: HAIL STAN](https://open.spotify.com/album/4b8Wu8BFcryfjXnVI5tTU0) | 5:56 | 2022-07-13 | 2022-10-20 |
 | [Genesis](https://open.spotify.com/track/2TZmBHYZ1SADz4ZrLEAGFD) | [Devin Townsend](https://open.spotify.com/artist/6uejjWIOshliv2Ho0OJAQN) | [Genesis](https://open.spotify.com/album/4KlHOmskM3Yswo9zfmGKzC) | 6:05 | 2021-12-17 | 2022-07-01 |
@@ -577,6 +577,7 @@
 | [The Demoness](https://open.spotify.com/track/55PD5k3PXs378SZaydTsg9) | [Auras](https://open.spotify.com/artist/58EhqkLf0O4vTU5hSTxOqk) | [Binary Garden](https://open.spotify.com/album/1jaZVrhUbwpfINxfZH4UV6) | 4:18 | 2023-12-06 | 2024-03-30 |
 | [The Demoness](https://open.spotify.com/track/3XUNtWOXxvy4MSlKNEIASE) | [Auras](https://open.spotify.com/artist/58EhqkLf0O4vTU5hSTxOqk) | [Binary Garden](https://open.spotify.com/album/45v6n9cb9vbIfSomFJx1zD) | 4:18 | 2023-01-20 | 2023-12-25 |
 | [The Demoness](https://open.spotify.com/track/7epasvZxGClnOSQ4xNCtg8) | [Auras](https://open.spotify.com/artist/58EhqkLf0O4vTU5hSTxOqk) | [The Demoness](https://open.spotify.com/album/5PHoDJsuAoNTVfJRDwNedK) | 4:18 | 2022-07-13 | 2022-07-20 |
+| [THE DISTANCE BETWEEN US](https://open.spotify.com/track/1327ylveW5WzibGwMdKtUB) | [Ihsahn](https://open.spotify.com/artist/2E1jLcUfqd9w2XtybNB2Za) | [THE DISTANCE BETWEEN US](https://open.spotify.com/album/6sulTXiaSFxa0AydXQJb6e) | 4:30 | 2024-05-17 |  |
 | [The End](https://open.spotify.com/track/09STcjQLFcCE7TzjBmIXML) | [Stoned Statues](https://open.spotify.com/artist/4T3zk8OMwpondwavcnTZeQ) | [Stoned Statues](https://open.spotify.com/album/0NpgStIxQiQV5TmEmu7UJK) | 3:45 | 2022-04-22 |  |
 | [The Future Is Behind Us](https://open.spotify.com/track/2Cpyz1bkEG4enDElaoxAfX) | [Between The Buried And Me](https://open.spotify.com/artist/2JC4hZm1egeJDEolLsMwZ9) | [Colors II](https://open.spotify.com/album/6vC3CeC5FprLHnTZobbdee) | 5:22 | 2022-10-28 | 2023-01-21 |
 | [The Future Is Behind Us](https://open.spotify.com/track/6MbEg5jNahQ4pMcMM0ClQ6) | [Between The Buried And Me](https://open.spotify.com/artist/2JC4hZm1egeJDEolLsMwZ9) | [Colors II](https://open.spotify.com/album/0pR2aVMa03OjgroeQcDwQQ) | 5:22 | 2021-12-17 | 2022-11-06 |

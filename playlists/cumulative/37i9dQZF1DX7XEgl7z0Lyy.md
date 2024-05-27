@@ -4,7 +4,7 @@
 
 > music from the underworld
 
-229 songs - 7 hr 59 min
+230 songs - 8 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [All Eyez On Me](https://open.spotify.com/track/3Ml1RetK8lfUZ1kBzMhvNf) | [Luci4](https://open.spotify.com/artist/1CbA4z6JauNQnHzOErDQL6) | [All Eyez On Me](https://open.spotify.com/album/73ltZParXtux9ydXMo4qo5) | 1:24 | 2023-07-21 | 2023-08-26 |
 | [ALL NIGHT LONG](https://open.spotify.com/track/7DMJSnooQV6bXdSnq7qt95) | [Ryyd3r](https://open.spotify.com/artist/4VFUayFquvlUZEsTwMti7v), [Nosgov](https://open.spotify.com/artist/6FK0azeTwe5RwhUAkpkhnh), [rukasu](https://open.spotify.com/artist/3LdN1wHoVlOR2F78Zr1u9f) | [ALL NIGHT LONG](https://open.spotify.com/album/2nIA1z6Hak8ejNvZ9MndXf) | 2:33 | 2024-05-24 |  |
 | [amends](https://open.spotify.com/track/2zeyfLYqiAp0dkvaKY93HI) | [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [amends](https://open.spotify.com/album/4eVKslgPopgYARIH7TiSPX) | 2:38 | 2023-12-08 |  |
-| [AMERICAN DREAM](https://open.spotify.com/track/4gxEAJpFbGX9iI7SPSn88z) | [Britney Manson](https://open.spotify.com/artist/7GtPtPbDC5CLNzSNxVpqaf) | [AMERICAN DREAM](https://open.spotify.com/album/4ZrCIa7KOUvCfuB10rIDgf) | 2:40 | 2024-04-05 |  |
+| [AMERICAN DREAM](https://open.spotify.com/track/4gxEAJpFbGX9iI7SPSn88z) | [Britney Manson](https://open.spotify.com/artist/7GtPtPbDC5CLNzSNxVpqaf) | [AMERICAN DREAM](https://open.spotify.com/album/4ZrCIa7KOUvCfuB10rIDgf) | 2:40 | 2024-04-05 | 2024-05-27 |
 | [arms up](https://open.spotify.com/track/30SoxxKeJJGsH5tJ3yOk8B) | [Universe](https://open.spotify.com/artist/30RtxAnENaOe9XNqA4UxZW) | [arms up](https://open.spotify.com/album/2DLskjVNI8EXZJMGY7k261) | 2:17 | 2024-01-05 | 2024-02-24 |
 | [BABY I'M HOME \(w/ Kanii & 9lives\)](https://open.spotify.com/track/34lGv6KdMFWZtsvvVcnp8S) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc), [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW), [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q) | [BABY I'M HOME \(w/ Kanii & 9lives\)](https://open.spotify.com/album/4O7irFDDsdS9tYUaiVnO2H) | 3:28 | 2023-08-18 |  |
 | [bad girl](https://open.spotify.com/track/5jLCmNyW6jnEQ8a3RUPR5u) | [2504](https://open.spotify.com/artist/3s6Gdmnv9MuQNX2E7i5EMr), [Lil Witchy](https://open.spotify.com/artist/4RU6oKpc672Nq8J2E50X6h), [Pr0xy](https://open.spotify.com/artist/3PmktxhWPrnvZ9dW9EWMcM) | [bad girl](https://open.spotify.com/album/7gjKf8shZ7Gi9gkfZQBqpV) | 1:50 | 2024-02-23 | 2024-03-06 |
@@ -148,6 +148,7 @@
 | [NALGOTICA!](https://open.spotify.com/track/3mMRpyE2N7oHvypU3RPntr) | [Lumi Athena](https://open.spotify.com/artist/1TTHC3GlNDaE5eVoC3BVxm) | [NALGOTICA!](https://open.spotify.com/album/0l4MkKrEbUpxpKUbSd5oCc) | 1:54 | 2023-08-18 |  |
 | [Narcissistic gem](https://open.spotify.com/track/7JzCGO8fgagRlcTcdvt6nE) | [Marluxiam](https://open.spotify.com/artist/5QmW7zYwGfW9YZWBVKeqBU) | [Narcissistic gem](https://open.spotify.com/album/24FMaMwjpUIaAgFFLs7dYD) | 1:52 | 2023-07-21 |  |
 | [NARCISSISTIC PERSONALITY DISORDER](https://open.spotify.com/track/6lDJ0CkQ6LdQv5EUQ39rpg) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [NARCISSISTIC PERSONALITY DISORDER](https://open.spotify.com/album/10o52EY3moL562KKhd3Cet) | 1:50 | 2023-07-21 | 2023-11-21 |
+| [New Species](https://open.spotify.com/track/43IxujU228QDYxlnMcotzW) | [Iglooghost](https://open.spotify.com/artist/7LCDnUQYE07fnKbo46SVLB) | [Tidal Memory Exo](https://open.spotify.com/album/7CQp27clxVYy6Ou6jXht6g) | 3:21 | 2024-05-26 |  |
 | [noble 6 \(feat\. nuvfr\)](https://open.spotify.com/track/5sK8yQ6lyOe7sPrfWlIQLm) | [removeface](https://open.spotify.com/artist/4V83nubSLv0NZBo69fz8PF), [Nuvfr](https://open.spotify.com/artist/2fWukyNksCO4foi0KYnRJy) | [noble 6 \(feat\. nuvfr\)](https://open.spotify.com/album/5eH4nQ7il4xlWpD0kirvQf) | 2:03 | 2023-09-01 | 2023-12-16 |
 | [noir](https://open.spotify.com/track/1Qv9RlQrACS2sIvuVZQHiO) | [sho](https://open.spotify.com/artist/7J931Zo6xntPEBM04BANte) | [noir](https://open.spotify.com/album/68buIxo0GiCtikqj7sNoUP) | 1:37 | 2024-04-10 |  |
 | [OBSESSION](https://open.spotify.com/track/3KjtiCFg1dNCEXfkF4PKWE) | [h!tex](https://open.spotify.com/artist/03RNbfo25PLqg0EYLx1XXS) | [OBSESSION](https://open.spotify.com/album/36EOTkSV05Ousfmuwj5rzI) | 1:16 | 2023-07-21 | 2024-03-22 |

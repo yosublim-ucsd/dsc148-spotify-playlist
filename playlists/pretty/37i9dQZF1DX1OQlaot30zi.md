@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Tedua, Shiva, MadMan, Shiva, Villabanks, Shiva e tanti altri!
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,417 likes - 96 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,448 likes - 96 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

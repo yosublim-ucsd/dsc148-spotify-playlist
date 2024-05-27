@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq?si=XJZI7o9tSNidEZ3hXI\_7lQ">Msaki</a>, <a href="https://open.spotify.com/artist/1eraeBfwU1RwFj6LszJT65?si=KcvfJztFRSeofLnZsOIb6w">Tubatsi Mpho Moloi</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,430 likes - 60 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,490 likes - 60 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

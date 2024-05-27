@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 1,898 songs - 4 day 6 hr 18 min
+[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 1,901 songs - 4 day 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1906,5 +1906,8 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 1896 | [THE DINER](https://open.spotify.com/track/1LLUoftvmTjVNBHZoQyveF) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:06 |
 | 1897 | [Gimme Bass](https://open.spotify.com/track/29mAlA42YLtpgMDWBmKb17) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf) | [Gimme Bass](https://open.spotify.com/album/4tGntCkV48pCNwIlKAMays) | 2:44 |
 | 1898 | [Pretty Rave Girl](https://open.spotify.com/track/3G1SVODcssMmS5YM5G3tun) | [S3RL](https://open.spotify.com/artist/11aa081aKYUzmeFm0yHdT2) | [Old Skool Masters \- S3RL](https://open.spotify.com/album/4DG2AOiKIXzl41ySz4KAsB) | 6:03 |
+| 1899 | [Untrust Us \(the cocaine is not good for you\) \- Slowed + Reverb](https://open.spotify.com/track/24Y9pXOdiLxek5Bj2ufrS6) | [skyemane](https://open.spotify.com/artist/5xhQRvvr6V7zoQn5MPNZfJ) | [Untrust Us \(the cocaine is not good for you\) \[Slowed + Reverb\]](https://open.spotify.com/album/7oNFds0Wmt3w1gc0Kl4U7s) | 3:54 |
+| 1900 | [Red Sex](https://open.spotify.com/track/2KBOfdbo1WlLsPI87RrqPH) | [Vessel](https://open.spotify.com/artist/3CVP7vT9JUFGLj8MgiVKjY) | [Punish, Honey](https://open.spotify.com/album/0Kmn5zoggtkDhoGrNpHOeZ) | 5:37 |
+| 1901 | [✻H+3+ЯД✻7luCJIo0T6...](https://open.spotify.com/track/4hjRjhLvBIMUUhRjb7DACd) | [vyrval](https://open.spotify.com/artist/4hJrxZPQydibSnMMq7PpB9) | [✻H+3+ЯД✻7luCJIo0T6...](https://open.spotify.com/album/3joHEvqURxvBwrT5JZS3Sn) | 3:10 |
 
-Snapshot ID: `AAADAtx3l4noTCfUDknBaRGMie6ZSLPe`
+Snapshot ID: `AAADBTnoOExpSn3a2redKHVA3iOVJgHT`

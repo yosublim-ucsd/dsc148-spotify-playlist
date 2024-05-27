@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 
 > New music picks every Friday from your friends at Brownies &amp; Lemonade
 
-[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 20,471 likes - 153 songs - 8 hr 24 min
+[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 20,473 likes - 153 songs - 8 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 | 4 | [Hertz Donut](https://open.spotify.com/track/6sAaasAUka6mKyyOTQUJPk) | [JAWNS](https://open.spotify.com/artist/5dXHoJzpLuiEug5rSXeCib) | [Dogwater](https://open.spotify.com/album/6SXovZDtjTYPfYTZ0yVxHx) | 2:36 |
 | 5 | [Things I Wish I Could Forget \(feat\. Vancouver Sleep Clinic\)](https://open.spotify.com/track/3P9xRoiXM3RTwS5FFv1CTO) | [Chet Porter](https://open.spotify.com/artist/1BjaGDkxwa2fb2pSCXlFXb), [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [EVERYTHING YOU'VE EVER SEEN](https://open.spotify.com/album/7HhyKfM9dTFYD9Bh1jbDvc) | 3:28 |
 | 6 | [Love Bites \(Feat\. Tove Lo & SG Lewis\)](https://open.spotify.com/track/3bgaDjKLaicRMFD3Vmw3wv) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [Love Bites \(Feat\. Tove Lo & SG Lewis\)](https://open.spotify.com/album/3ZOz5WED7SNRykujcrvXUZ) | 2:47 |
-| 7 | [Torture](https://open.spotify.com/track/4Z3lOky8FsA5o53jM9nQg4) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [Franky Nuts](https://open.spotify.com/artist/3YZPramylP3cGeVkbykhVZ), [DeathbyRomy](https://open.spotify.com/artist/7aWpPjjgItUnXljFxYYKZI) | [Unsound 2](https://open.spotify.com/album/1Y3qKvJSEFyxxVvK8p2dWf) | 3:52 |
+| 7 | [Torture](https://open.spotify.com/track/4Z3lOky8FsA5o53jM9nQg4) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [Franky Nuts](https://open.spotify.com/artist/3YZPramylP3cGeVkbykhVZ), [DeathbyRomy](https://open.spotify.com/artist/7aWpPjjgItUnXljFxYYKZI) | [UNSOUND 2](https://open.spotify.com/album/1Y3qKvJSEFyxxVvK8p2dWf) | 3:52 |
 | 8 | [Heavyweight](https://open.spotify.com/track/3v5zBPtf296IiVc1uiv5No) | [K Motionz](https://open.spotify.com/artist/6QYdXToMo4XHnG1AnEVZYJ), [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk), [Riko Dan](https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y) | [Heavyweight](https://open.spotify.com/album/54iIrG2X8bkCYPyl9n1vCM) | 2:28 |
 | 9 | [Steps On You \(Peep My Style\)](https://open.spotify.com/track/4vk250sguUOlV3O6bPJix8) | [Nitepunk](https://open.spotify.com/artist/6iPbI11utXY9CVhX6SPXEg) | [Steps On You \(Peep My Style\)](https://open.spotify.com/album/28MHnDXOPNYdf3tcuvJJqt) | 2:56 |
 | 10 | [it boy](https://open.spotify.com/track/2UerDbZznc07mmGMD3WfHH) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [it boy](https://open.spotify.com/album/6tl4X5mM1eOnkWr7oB5LAM) | 2:25 |

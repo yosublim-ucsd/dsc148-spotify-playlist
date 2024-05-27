@@ -1,6 +1,6 @@
 {
   "description": "Enjoy this deep and meditative list  alone or with a friend and a good cup of coffee.",
-  "num_followers": 60954,
+  "num_followers": 60961,
   "original_name": "The Good Cup",
   "owner": {
     "name": "Spotify",
@@ -419,6 +419,22 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
+        "name": "Rivers & Robots Presents: Still, Vol. 1 (Instrumentals)",
+        "url": "https://open.spotify.com/album/4g34k44C3ymTpr86zk1FJM"
+      },
+      "artists": [
+        {
+          "name": "Rivers & Robots",
+          "url": "https://open.spotify.com/artist/41yDmxekjnWShKi6nRmzZ4"
+        }
+      ],
+      "duration_ms": 223346,
+      "name": "I Could Sing Of Your Love Forever - Instrumental",
+      "url": "https://open.spotify.com/track/2Lb8tCvwV9CVSEjO9uTWWI"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
         "name": "Matins : Vespers",
         "url": "https://open.spotify.com/album/3OhQyo52BxUJLD1FaquZPv"
       },
@@ -483,22 +499,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Rivers & Robots Presents: Still, Vol. 1 (Instrumentals)",
-        "url": "https://open.spotify.com/album/4g34k44C3ymTpr86zk1FJM"
-      },
-      "artists": [
-        {
-          "name": "Rivers & Robots",
-          "url": "https://open.spotify.com/artist/41yDmxekjnWShKi6nRmzZ4"
-        }
-      ],
-      "duration_ms": 223346,
-      "name": "I Could Sing Of Your Love Forever - Instrumental",
-      "url": "https://open.spotify.com/track/2Lb8tCvwV9CVSEjO9uTWWI"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Jesus Is___. Music Project",
         "url": "https://open.spotify.com/album/05hvkkM29nIor7aT515II2"
       },
@@ -535,22 +535,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "The Albatross EP",
-        "url": "https://open.spotify.com/album/7bW6ltN8Z9FWMeyBBwZ24H"
-      },
-      "artists": [
-        {
-          "name": "Port Blue",
-          "url": "https://open.spotify.com/artist/5YIHh4jZTLeCFsqCcrUQQY"
-        }
-      ],
-      "duration_ms": 142173,
-      "name": "Into The Sea",
-      "url": "https://open.spotify.com/track/5JhhawSlXCSYcu48LafOIn"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "I Will Remember",
         "url": "https://open.spotify.com/album/3neTfbJMwVQm7KfjUSR1iB"
       },
@@ -563,6 +547,38 @@
       "duration_ms": 351646,
       "name": "I Will Remember",
       "url": "https://open.spotify.com/track/6wJjEoovGpsy4wBpkEgNj8"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Rivers & Robots Presents: Still, Vol. 1 (Instrumentals)",
+        "url": "https://open.spotify.com/album/4g34k44C3ymTpr86zk1FJM"
+      },
+      "artists": [
+        {
+          "name": "Rivers & Robots",
+          "url": "https://open.spotify.com/artist/41yDmxekjnWShKi6nRmzZ4"
+        }
+      ],
+      "duration_ms": 242120,
+      "name": "The Lion And The Lamb - Instrumental",
+      "url": "https://open.spotify.com/track/4G46PbCzNXjAzYbzYGNc8Z"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "The Albatross EP",
+        "url": "https://open.spotify.com/album/7bW6ltN8Z9FWMeyBBwZ24H"
+      },
+      "artists": [
+        {
+          "name": "Port Blue",
+          "url": "https://open.spotify.com/artist/5YIHh4jZTLeCFsqCcrUQQY"
+        }
+      ],
+      "duration_ms": 142173,
+      "name": "Into The Sea",
+      "url": "https://open.spotify.com/track/5JhhawSlXCSYcu48LafOIn"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -615,22 +631,6 @@
       "duration_ms": 358373,
       "name": "You Are Good",
       "url": "https://open.spotify.com/track/0bZue6mTaRWAXVyINIcTTS"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
-        "name": "Rivers & Robots Presents: Still, Vol. 1 (Instrumentals)",
-        "url": "https://open.spotify.com/album/4g34k44C3ymTpr86zk1FJM"
-      },
-      "artists": [
-        {
-          "name": "Rivers & Robots",
-          "url": "https://open.spotify.com/artist/41yDmxekjnWShKi6nRmzZ4"
-        }
-      ],
-      "duration_ms": 242120,
-      "name": "The Lion And The Lamb - Instrumental",
-      "url": "https://open.spotify.com/track/4G46PbCzNXjAzYbzYGNc8Z"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -859,22 +859,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "How Much You Mean To Me",
-        "url": "https://open.spotify.com/album/2vQD8zZ9aKcy4H9S6TSBk0"
-      },
-      "artists": [
-        {
-          "name": "Blessing Offor",
-          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
-        }
-      ],
-      "duration_ms": 218129,
-      "name": "How Much You Mean To Me",
-      "url": "https://open.spotify.com/track/1NdTUsv9MaS9YHUbkIhVPG"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "The Worship Initiative, Vol. 28 (Live)",
         "url": "https://open.spotify.com/album/0ZZmifZBvaePH3OVWJlnI0"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 391413,
       "name": "Abba - Live",
       "url": "https://open.spotify.com/track/17swOWJbUAYfm9gNXicbHV"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "How Much You Mean To Me",
+        "url": "https://open.spotify.com/album/2vQD8zZ9aKcy4H9S6TSBk0"
+      },
+      "artists": [
+        {
+          "name": "Blessing Offor",
+          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
+        }
+      ],
+      "duration_ms": 218129,
+      "name": "How Much You Mean To Me",
+      "url": "https://open.spotify.com/track/1NdTUsv9MaS9YHUbkIhVPG"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1563,6 +1563,22 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
+        "name": "Echoes Of Wonder",
+        "url": "https://open.spotify.com/album/0DuV8V9ZQQ7LnD22evmLsd"
+      },
+      "artists": [
+        {
+          "name": "Salt Of The Sound",
+          "url": "https://open.spotify.com/artist/0S3L6vtzNN4ArFWH2709SB"
+        }
+      ],
+      "duration_ms": 150612,
+      "name": "Wonder",
+      "url": "https://open.spotify.com/track/3oBZhDhGuOfhrKjOEwgfWF"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
         "name": "Freedom Fighter (Jimmy James Remix)",
         "url": "https://open.spotify.com/album/3hXJRJ5rEtQ2qm8sbrQwfD"
       },
@@ -1591,22 +1607,6 @@
       "duration_ms": 236546,
       "name": "playing pretend",
       "url": "https://open.spotify.com/track/0xtzfaicZhawDIVrpFibKj"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
-        "name": "Echoes Of Wonder",
-        "url": "https://open.spotify.com/album/0DuV8V9ZQQ7LnD22evmLsd"
-      },
-      "artists": [
-        {
-          "name": "Salt Of The Sound",
-          "url": "https://open.spotify.com/artist/0S3L6vtzNN4ArFWH2709SB"
-        }
-      ],
-      "duration_ms": 150612,
-      "name": "Wonder",
-      "url": "https://open.spotify.com/track/3oBZhDhGuOfhrKjOEwgfWF"
     },
     {
       "added_at": "2023-07-28 04:02:00",

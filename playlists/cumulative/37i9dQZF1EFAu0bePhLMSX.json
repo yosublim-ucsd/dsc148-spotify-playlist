@@ -183,6 +183,24 @@
     },
     {
       "album": {
+        "name": "Automatic",
+        "url": "https://open.spotify.com/album/4WQ0xzkKQi7Qrvl36XQlXk"
+      },
+      "artists": [
+        {
+          "name": "Sarah Whatmore",
+          "url": "https://open.spotify.com/artist/6PJ4B6JfIQb05waZMBC8kQ"
+        }
+      ],
+      "date_added": "2024-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192146,
+      "name": "Automatic",
+      "url": "https://open.spotify.com/track/71f96Tzf5I7uUokpF9qLG9"
+    },
+    {
+      "album": {
         "name": "Christmas, With Love",
         "url": "https://open.spotify.com/album/4HRXnpdnLJGTkHSRk4roEs"
       },

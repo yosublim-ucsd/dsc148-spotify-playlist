@@ -1,12 +1,12 @@
 {
-  "description": "This is Boards of Canada. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 23058,
+  "description": "This is Boards of Canada. The essential tracks, all in one playlist.",
+  "num_followers": 23067,
   "original_name": "This Is Boards of Canada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zk/YgAAAAAD0uIMEj5eSLya01Q3TAu0o",
+  "snapshot_id": "ZlEqAAAAAACT9Hxy9MRcv3Em/3fzGPK/",
   "tracks": [
     {
       "added_at": null,
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
         }
       ],
-      "duration_ms": 193310,
-      "name": "White Cyclosa",
-      "url": "https://open.spotify.com/track/7F2r3g9H42ZawwrOJJrDMz"
+      "duration_ms": 92801,
+      "name": "Telepath",
+      "url": "https://open.spotify.com/track/6Z8bGnzoSNxuKEz70dJu6b"
     },
     {
       "added_at": null,
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
         }
       ],
-      "duration_ms": 92801,
-      "name": "Telepath",
-      "url": "https://open.spotify.com/track/6Z8bGnzoSNxuKEz70dJu6b"
+      "duration_ms": 193310,
+      "name": "White Cyclosa",
+      "url": "https://open.spotify.com/track/7F2r3g9H42ZawwrOJJrDMz"
     },
     {
       "added_at": null,

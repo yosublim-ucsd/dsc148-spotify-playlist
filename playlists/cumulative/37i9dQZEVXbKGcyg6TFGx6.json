@@ -818,7 +818,7 @@
       ],
       "date_added": "2024-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-27",
       "duration_ms": 171291,
       "name": "A Bar Song (Tipsy)",
       "url": "https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf"
@@ -4374,7 +4374,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-27",
       "duration_ms": 148317,
       "name": "Belong Together",
       "url": "https://open.spotify.com/track/5uQ7de4EWjb3rkcFxyEOpu"
@@ -4788,7 +4788,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-27",
       "duration_ms": 343120,
       "name": "BLUE",
       "url": "https://open.spotify.com/track/2prqm9sPLj10B4Wg0wE5x9"
@@ -11648,7 +11648,7 @@
       ],
       "date_added": "2024-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-26",
+      "date_removed": null,
       "duration_ms": 160218,
       "name": "Europapa",
       "url": "https://open.spotify.com/track/0uHrMbMv3c78398pIANDqR"
@@ -13150,7 +13150,7 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-27",
       "duration_ms": 228965,
       "name": "Fortnight (feat. Post Malone)",
       "url": "https://open.spotify.com/track/2OzhQlSqBEmt7hmkYxfT6m"
@@ -16294,7 +16294,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-26",
+      "date_removed": null,
       "duration_ms": 149667,
       "name": "I Don't Wanna Wait",
       "url": "https://open.spotify.com/track/331l3xABO0HMr1Kkyh2LZq"
@@ -19658,6 +19658,24 @@
       "duration_ms": 262000,
       "name": "Let Me Entertain You",
       "url": "https://open.spotify.com/track/0SLtqCrXBRrnkxSOMA3X4W"
+    },
+    {
+      "album": {
+        "name": "Let Me Tell You",
+        "url": "https://open.spotify.com/album/08GMC25j55HAhWMiQWDPI1"
+      },
+      "artists": [
+        {
+          "name": "R3load",
+          "url": "https://open.spotify.com/artist/1BrSqjT6kUGdvieY1FYlZ9"
+        }
+      ],
+      "date_added": "2024-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343863,
+      "name": "Let Me Tell You",
+      "url": "https://open.spotify.com/track/2BMVcnzHoBHdxmJLI7e46N"
     },
     {
       "album": {
@@ -25388,7 +25406,7 @@
       ],
       "date_added": "2024-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-27",
       "duration_ms": 156154,
       "name": "Onde Que Tem uma Dessa?",
       "url": "https://open.spotify.com/track/4MN8YrnIBT7WSdIIDF03cg"
@@ -27704,6 +27722,24 @@
       "duration_ms": 60023,
       "name": "Quem \u00e9 o Cantor",
       "url": "https://open.spotify.com/track/55eo9FvLm1zxn6BuEYlob1"
+    },
+    {
+      "album": {
+        "name": "Um Novo Ciclo, Vol. 2",
+        "url": "https://open.spotify.com/album/7GYAwXypZS3oJK7IvUphzV"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Moura & Rafael",
+          "url": "https://open.spotify.com/artist/2KZFvVVk9lxD85USaOv76T"
+        }
+      ],
+      "date_added": "2024-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160669,
+      "name": "Quero Ver C\u00eas Terminar",
+      "url": "https://open.spotify.com/track/4fwode2LHBWDTfmmEFR9mw"
     },
     {
       "album": {
@@ -33930,7 +33966,7 @@
       ],
       "date_added": "2024-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-26",
+      "date_removed": null,
       "duration_ms": 233456,
       "name": "TEXAS HOLD 'EM",
       "url": "https://open.spotify.com/track/7wLShogStyDeZvL0a6daN5"

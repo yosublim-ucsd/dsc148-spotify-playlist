@@ -1,6 +1,6 @@
 {
   "description": "The best classic and new sounds from South African Rock. Cover: <a href=\"https://open.spotify.com/artist/4FvIuLbPat5vSttuzmM7VE?si=JYtPHoRASdO2CzgkhyN3sQ\">VOLK</a>",
-  "num_followers": 18227,
+  "num_followers": 18232,
   "original_name": "SA Rock ",
   "owner": {
     "name": "Spotify",
@@ -231,22 +231,6 @@
     {
       "added_at": "2024-02-29 22:00:00",
       "album": {
-        "name": "Terapie Vir Nou",
-        "url": "https://open.spotify.com/album/2s7XUTruquG0eOrNIyqMQN"
-      },
-      "artists": [
-        {
-          "name": "Zaan Sonnekus",
-          "url": "https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR"
-        }
-      ],
-      "duration_ms": 218117,
-      "name": "Terapie Vir Nou",
-      "url": "https://open.spotify.com/track/7K7JxiW7VcnJexqPaAY9Bd"
-    },
-    {
-      "added_at": "2024-02-29 22:00:00",
-      "album": {
         "name": "Revolusie, Romantiek, Ruk en Rol",
         "url": "https://open.spotify.com/album/528vOlag3lv4aOPia804bY"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 202250,
       "name": "Kan Ek Met Jou Dans",
       "url": "https://open.spotify.com/track/0gpgcKD4j45TooC06HLMrx"
+    },
+    {
+      "added_at": "2024-02-29 22:00:00",
+      "album": {
+        "name": "Terapie Vir Nou",
+        "url": "https://open.spotify.com/album/2s7XUTruquG0eOrNIyqMQN"
+      },
+      "artists": [
+        {
+          "name": "Zaan Sonnekus",
+          "url": "https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR"
+        }
+      ],
+      "duration_ms": 218117,
+      "name": "Terapie Vir Nou",
+      "url": "https://open.spotify.com/track/7K7JxiW7VcnJexqPaAY9Bd"
     },
     {
       "added_at": "2024-02-29 22:00:00",
@@ -679,6 +679,22 @@
     {
       "added_at": "2024-02-29 22:00:00",
       "album": {
+        "name": "Picture Perfect",
+        "url": "https://open.spotify.com/album/60Hh4NmsMVF1BriCanVolb"
+      },
+      "artists": [
+        {
+          "name": "Perez",
+          "url": "https://open.spotify.com/artist/4G30SsYmThGzZPCCyDN1bH"
+        }
+      ],
+      "duration_ms": 245866,
+      "name": "Picture Perfect",
+      "url": "https://open.spotify.com/track/2RZlgvQasR4X3gglKV4vuP"
+    },
+    {
+      "added_at": "2024-02-29 22:00:00",
+      "album": {
         "name": "Die Lig",
         "url": "https://open.spotify.com/album/1pqLIYA4P2uh9oJWUe9tRk"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 317680,
       "name": "Die Lig",
       "url": "https://open.spotify.com/track/1uC1ABzL9eYbLhASZAiT4r"
-    },
-    {
-      "added_at": "2024-02-29 22:00:00",
-      "album": {
-        "name": "Picture Perfect",
-        "url": "https://open.spotify.com/album/60Hh4NmsMVF1BriCanVolb"
-      },
-      "artists": [
-        {
-          "name": "Perez",
-          "url": "https://open.spotify.com/artist/4G30SsYmThGzZPCCyDN1bH"
-        }
-      ],
-      "duration_ms": 245866,
-      "name": "Picture Perfect",
-      "url": "https://open.spotify.com/track/2RZlgvQasR4X3gglKV4vuP"
     },
     {
       "added_at": "2024-02-29 22:00:00",

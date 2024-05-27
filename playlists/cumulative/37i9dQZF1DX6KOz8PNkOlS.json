@@ -301,6 +301,32 @@
     },
     {
       "album": {
+        "name": "pop songs 2020",
+        "url": "https://open.spotify.com/album/3aq7whJpYQjC5m2GGENivF"
+      },
+      "artists": [
+        {
+          "name": "BUMPER",
+          "url": "https://open.spotify.com/artist/4fzRRClf1bZ6y550CzhcqV"
+        },
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        },
+        {
+          "name": "Ryan Galloway",
+          "url": "https://open.spotify.com/artist/0NK0Nuqcb2sZGqJ3tWYpyo"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207535,
+      "name": "Black Light",
+      "url": "https://open.spotify.com/track/0HIoqptSi0bei1EkpZ9FNT"
+    },
+    {
+      "album": {
         "name": "the masquerade",
         "url": "https://open.spotify.com/album/7uao4FMrfz8x7lYFrOJb6C"
       },
@@ -1312,7 +1338,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-27",
       "duration_ms": 331746,
       "name": "I'm Dancing",
       "url": "https://open.spotify.com/track/7gGObhepvI410Fys1avsdp"

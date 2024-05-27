@@ -4482,10 +4482,28 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-27",
       "duration_ms": 191458,
       "name": "grew a few",
       "url": "https://open.spotify.com/track/0NTrQwcByWXNKgfEROWhb3"
+    },
+    {
+      "album": {
+        "name": "Growing Up",
+        "url": "https://open.spotify.com/album/3Gs9W1xPFA4c83QUnppYKw"
+      },
+      "artists": [
+        {
+          "name": "ZUBIN",
+          "url": "https://open.spotify.com/artist/5kpmKrfmZQ8fRbEpQVAy1E"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157834,
+      "name": "Growing Up",
+      "url": "https://open.spotify.com/track/1xnEyIV7tGENTcJ1NhaBWz"
     },
     {
       "album": {

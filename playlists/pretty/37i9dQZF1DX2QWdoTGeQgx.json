@@ -1,6 +1,6 @@
 {
   "description": "wo hen lei (i'm very tired) ",
-  "num_followers": 54265,
+  "num_followers": 54264,
   "original_name": "tired lei",
   "owner": {
     "name": "Spotify",
@@ -159,22 +159,6 @@
     {
       "added_at": "2024-04-12 00:24:42",
       "album": {
-        "name": "Nicole",
-        "url": "https://open.spotify.com/album/5WR7ksPLp3kqFbDLTYpGfx"
-      },
-      "artists": [
-        {
-          "name": "NIKI",
-          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
-        }
-      ],
-      "duration_ms": 219040,
-      "name": "High School in Jakarta",
-      "url": "https://open.spotify.com/track/1zxfRSZcaonV1VXcY0PgY5"
-    },
-    {
-      "added_at": "2024-04-12 00:24:42",
-      "album": {
         "name": "AMAZING",
         "url": "https://open.spotify.com/album/0iv1vqUOxADWV9vhTlF4Qe"
       },
@@ -243,6 +227,22 @@
     {
       "added_at": "2024-04-12 00:24:42",
       "album": {
+        "name": "Nicole",
+        "url": "https://open.spotify.com/album/5WR7ksPLp3kqFbDLTYpGfx"
+      },
+      "artists": [
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "duration_ms": 219040,
+      "name": "High School in Jakarta",
+      "url": "https://open.spotify.com/track/1zxfRSZcaonV1VXcY0PgY5"
+    },
+    {
+      "added_at": "2024-04-12 00:24:42",
+      "album": {
         "name": "BEAUTiFUL",
         "url": "https://open.spotify.com/album/2g4oO9W4k5oKtND4ctGzZy"
       },
@@ -291,54 +291,6 @@
     {
       "added_at": "2024-04-12 00:24:42",
       "album": {
-        "name": "Oceans & Engines",
-        "url": "https://open.spotify.com/album/2va673nk2JXgCxJeTiZdM9"
-      },
-      "artists": [
-        {
-          "name": "NIKI",
-          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
-        }
-      ],
-      "duration_ms": 336000,
-      "name": "Oceans & Engines",
-      "url": "https://open.spotify.com/track/3vZk7OAUjMtVDNC852aNqi"
-    },
-    {
-      "added_at": "2024-04-12 00:24:42",
-      "album": {
-        "name": "confidence in me",
-        "url": "https://open.spotify.com/album/0UZuzKM4ofQQoQOJdZbjdv"
-      },
-      "artists": [
-        {
-          "name": "Rangga Jones",
-          "url": "https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z"
-        }
-      ],
-      "duration_ms": 162151,
-      "name": "confidence in me",
-      "url": "https://open.spotify.com/track/5c1tswRpjj7Fyv9xb5a8RJ"
-    },
-    {
-      "added_at": "2024-04-12 00:24:42",
-      "album": {
-        "name": "relationshit",
-        "url": "https://open.spotify.com/album/2VeUxfOnzVKks0UEX681m2"
-      },
-      "artists": [
-        {
-          "name": "brb.",
-          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
-        }
-      ],
-      "duration_ms": 147891,
-      "name": "whoops",
-      "url": "https://open.spotify.com/track/0RkW1ZtqR30QtxyUKHCmQv"
-    },
-    {
-      "added_at": "2024-04-12 00:24:42",
-      "album": {
         "name": "Malampagi",
         "url": "https://open.spotify.com/album/1FTrY9mP0Cs22oIK6cIcfO"
       },
@@ -367,6 +319,54 @@
       "duration_ms": 184343,
       "name": "shortcut to heaven",
       "url": "https://open.spotify.com/track/0zL5fdl4CvAAYUG3dJVMqS"
+    },
+    {
+      "added_at": "2024-04-12 00:24:42",
+      "album": {
+        "name": "confidence in me",
+        "url": "https://open.spotify.com/album/0UZuzKM4ofQQoQOJdZbjdv"
+      },
+      "artists": [
+        {
+          "name": "Rangga Jones",
+          "url": "https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z"
+        }
+      ],
+      "duration_ms": 162151,
+      "name": "confidence in me",
+      "url": "https://open.spotify.com/track/5c1tswRpjj7Fyv9xb5a8RJ"
+    },
+    {
+      "added_at": "2024-04-12 00:24:42",
+      "album": {
+        "name": "Oceans & Engines",
+        "url": "https://open.spotify.com/album/2va673nk2JXgCxJeTiZdM9"
+      },
+      "artists": [
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "duration_ms": 336000,
+      "name": "Oceans & Engines",
+      "url": "https://open.spotify.com/track/3vZk7OAUjMtVDNC852aNqi"
+    },
+    {
+      "added_at": "2024-04-12 00:24:42",
+      "album": {
+        "name": "relationshit",
+        "url": "https://open.spotify.com/album/2VeUxfOnzVKks0UEX681m2"
+      },
+      "artists": [
+        {
+          "name": "brb.",
+          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
+        }
+      ],
+      "duration_ms": 147891,
+      "name": "whoops",
+      "url": "https://open.spotify.com/track/0RkW1ZtqR30QtxyUKHCmQv"
     },
     {
       "added_at": "2024-04-12 00:24:42",
@@ -455,22 +455,6 @@
     {
       "added_at": "2024-04-12 00:24:42",
       "album": {
-        "name": "my type",
-        "url": "https://open.spotify.com/album/3qhn2VpMdGW7khh0FGXA9F"
-      },
-      "artists": [
-        {
-          "name": "brb.",
-          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "my type",
-      "url": "https://open.spotify.com/track/1tvxzDoafjqs4yvjZW4n2K"
-    },
-    {
-      "added_at": "2024-04-12 00:24:42",
-      "album": {
         "name": "dear me,",
         "url": "https://open.spotify.com/album/1wsaqmb8RGkDS3bP5uOfcl"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 165967,
       "name": "dear me,",
       "url": "https://open.spotify.com/track/7aGaP4VJ1WOAIL7QlEl1pA"
+    },
+    {
+      "added_at": "2024-04-12 00:24:42",
+      "album": {
+        "name": "life with u",
+        "url": "https://open.spotify.com/album/0pndWJdduaG9vP1PPAjYK8"
+      },
+      "artists": [
+        {
+          "name": "lullaboy",
+          "url": "https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN"
+        }
+      ],
+      "duration_ms": 205275,
+      "name": "life with u",
+      "url": "https://open.spotify.com/track/26kZ0HPufaLqvshDE3UVw6"
     },
     {
       "added_at": "2024-04-12 00:24:42",
@@ -519,18 +519,18 @@
     {
       "added_at": "2024-04-12 00:24:42",
       "album": {
-        "name": "life with u",
-        "url": "https://open.spotify.com/album/0pndWJdduaG9vP1PPAjYK8"
+        "name": "my type",
+        "url": "https://open.spotify.com/album/3qhn2VpMdGW7khh0FGXA9F"
       },
       "artists": [
         {
-          "name": "lullaboy",
-          "url": "https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN"
+          "name": "brb.",
+          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
         }
       ],
-      "duration_ms": 205275,
-      "name": "life with u",
-      "url": "https://open.spotify.com/track/26kZ0HPufaLqvshDE3UVw6"
+      "duration_ms": 132000,
+      "name": "my type",
+      "url": "https://open.spotify.com/track/1tvxzDoafjqs4yvjZW4n2K"
     },
     {
       "added_at": "2024-04-12 00:24:42",
@@ -575,22 +575,6 @@
     {
       "added_at": "2024-04-12 00:24:42",
       "album": {
-        "name": "relationshit",
-        "url": "https://open.spotify.com/album/2VeUxfOnzVKks0UEX681m2"
-      },
-      "artists": [
-        {
-          "name": "brb.",
-          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
-        }
-      ],
-      "duration_ms": 201818,
-      "name": "talking to myself",
-      "url": "https://open.spotify.com/track/0sSyDptzNXHBODOssLukZT"
-    },
-    {
-      "added_at": "2024-04-12 00:24:42",
-      "album": {
         "name": "rapunzel",
         "url": "https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 241458,
       "name": "grateful",
       "url": "https://open.spotify.com/track/7mMzlK2pYVbgkUL1zaGGyV"
+    },
+    {
+      "added_at": "2024-04-12 00:24:42",
+      "album": {
+        "name": "3 new words",
+        "url": "https://open.spotify.com/album/3dCIy3cVrxA4JjlbSUGbCm"
+      },
+      "artists": [
+        {
+          "name": "lullaboy",
+          "url": "https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN"
+        }
+      ],
+      "duration_ms": 174293,
+      "name": "3 new words",
+      "url": "https://open.spotify.com/track/5M1OsXPtMfVM6hbrwIiZnr"
     },
     {
       "added_at": "2024-04-12 00:24:42",
@@ -639,22 +639,6 @@
     {
       "added_at": "2024-04-12 00:24:42",
       "album": {
-        "name": "3 new words",
-        "url": "https://open.spotify.com/album/3dCIy3cVrxA4JjlbSUGbCm"
-      },
-      "artists": [
-        {
-          "name": "lullaboy",
-          "url": "https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN"
-        }
-      ],
-      "duration_ms": 174293,
-      "name": "3 new words",
-      "url": "https://open.spotify.com/track/5M1OsXPtMfVM6hbrwIiZnr"
-    },
-    {
-      "added_at": "2024-04-12 00:24:42",
-      "album": {
         "name": "Make Me Wanna",
         "url": "https://open.spotify.com/album/1uciD7NduLXz1LG5IMn3mG"
       },
@@ -687,6 +671,38 @@
       "duration_ms": 183360,
       "name": "solo",
       "url": "https://open.spotify.com/track/28WoBIA4EDVvxiraTv2KZ2"
+    },
+    {
+      "added_at": "2024-04-12 00:24:42",
+      "album": {
+        "name": "relationshit",
+        "url": "https://open.spotify.com/album/2VeUxfOnzVKks0UEX681m2"
+      },
+      "artists": [
+        {
+          "name": "brb.",
+          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
+        }
+      ],
+      "duration_ms": 201818,
+      "name": "talking to myself",
+      "url": "https://open.spotify.com/track/0sSyDptzNXHBODOssLukZT"
+    },
+    {
+      "added_at": "2024-04-12 00:24:42",
+      "album": {
+        "name": "van gogh",
+        "url": "https://open.spotify.com/album/0Bnp7EKyjTpMfezafM4wHi"
+      },
+      "artists": [
+        {
+          "name": "lullaboy",
+          "url": "https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN"
+        }
+      ],
+      "duration_ms": 173540,
+      "name": "van gogh",
+      "url": "https://open.spotify.com/track/4bLCfhmTsNuZo3oQXviIA7"
     },
     {
       "added_at": "2024-04-12 00:24:42",
@@ -767,22 +783,6 @@
     {
       "added_at": "2024-04-12 00:24:42",
       "album": {
-        "name": "van gogh",
-        "url": "https://open.spotify.com/album/0Bnp7EKyjTpMfezafM4wHi"
-      },
-      "artists": [
-        {
-          "name": "lullaboy",
-          "url": "https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN"
-        }
-      ],
-      "duration_ms": 173540,
-      "name": "van gogh",
-      "url": "https://open.spotify.com/track/4bLCfhmTsNuZo3oQXviIA7"
-    },
-    {
-      "added_at": "2024-04-12 00:24:42",
-      "album": {
         "name": "Good In Me",
         "url": "https://open.spotify.com/album/7kRF85QX88b5aPkxE2jbRX"
       },
@@ -807,22 +807,6 @@
       "duration_ms": 148027,
       "name": "Good In Me",
       "url": "https://open.spotify.com/track/1JuUVeHRjVl081qqccxySe"
-    },
-    {
-      "added_at": "2024-04-12 00:24:42",
-      "album": {
-        "name": "i met you",
-        "url": "https://open.spotify.com/album/0RIR3aUzIxdGtiroIUOu3G"
-      },
-      "artists": [
-        {
-          "name": "Nathanie",
-          "url": "https://open.spotify.com/artist/2n9S44nEklHQjqX0pedw8P"
-        }
-      ],
-      "duration_ms": 97000,
-      "name": "i met you",
-      "url": "https://open.spotify.com/track/3q5gZai0nhaKr945z4ue9u"
     },
     {
       "added_at": "2024-04-12 00:24:42",
@@ -859,6 +843,26 @@
       "duration_ms": 187918,
       "name": "Like All My Friends",
       "url": "https://open.spotify.com/track/70Vjb8pcNJT2HVfDLC2MJo"
+    },
+    {
+      "added_at": "2024-04-12 00:24:42",
+      "album": {
+        "name": "life with u - acoustic",
+        "url": "https://open.spotify.com/album/5AVKyiM9W1Ryir0X1IkpXu"
+      },
+      "artists": [
+        {
+          "name": "lullaboy",
+          "url": "https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN"
+        },
+        {
+          "name": "raissa anggiani",
+          "url": "https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ"
+        }
+      ],
+      "duration_ms": 211755,
+      "name": "life with u - acoustic",
+      "url": "https://open.spotify.com/track/0W4WuLZcehB48UkdCw9b4T"
     },
     {
       "added_at": "2024-04-12 00:24:42",
@@ -915,46 +919,18 @@
     {
       "added_at": "2024-04-12 00:24:42",
       "album": {
-        "name": "bad together",
-        "url": "https://open.spotify.com/album/4boCQFMHPbjwGqIf4hHpa5"
+        "name": "i met you",
+        "url": "https://open.spotify.com/album/0RIR3aUzIxdGtiroIUOu3G"
       },
       "artists": [
         {
-          "name": "CLAUDIA",
-          "url": "https://open.spotify.com/artist/2kUBwtoPkA9ZoJxcQUtL2P"
-        },
-        {
-          "name": "TY:DEL",
-          "url": "https://open.spotify.com/artist/2hPhnwoTrcoFeuP9pwdClH"
-        },
-        {
-          "name": "Irwinandfire",
-          "url": "https://open.spotify.com/artist/05OqdicfTgKQVfyEOXfKRa"
+          "name": "Nathanie",
+          "url": "https://open.spotify.com/artist/2n9S44nEklHQjqX0pedw8P"
         }
       ],
-      "duration_ms": 170909,
-      "name": "bad together",
-      "url": "https://open.spotify.com/track/6hUH9vmhbKRzTBsQhaBqjw"
-    },
-    {
-      "added_at": "2024-04-12 00:24:42",
-      "album": {
-        "name": "life with u - acoustic",
-        "url": "https://open.spotify.com/album/5AVKyiM9W1Ryir0X1IkpXu"
-      },
-      "artists": [
-        {
-          "name": "lullaboy",
-          "url": "https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN"
-        },
-        {
-          "name": "raissa anggiani",
-          "url": "https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ"
-        }
-      ],
-      "duration_ms": 211755,
-      "name": "life with u - acoustic",
-      "url": "https://open.spotify.com/track/0W4WuLZcehB48UkdCw9b4T"
+      "duration_ms": 97000,
+      "name": "i met you",
+      "url": "https://open.spotify.com/track/3q5gZai0nhaKr945z4ue9u"
     },
     {
       "added_at": "2024-04-12 00:24:42",
@@ -975,6 +951,30 @@
       "duration_ms": 269712,
       "name": "It's You (feat. Kaleb J)",
       "url": "https://open.spotify.com/track/22BcVWiiiXzcANH97LbwKi"
+    },
+    {
+      "added_at": "2024-04-12 00:24:42",
+      "album": {
+        "name": "bad together",
+        "url": "https://open.spotify.com/album/4boCQFMHPbjwGqIf4hHpa5"
+      },
+      "artists": [
+        {
+          "name": "CLAUDIA",
+          "url": "https://open.spotify.com/artist/2kUBwtoPkA9ZoJxcQUtL2P"
+        },
+        {
+          "name": "TY:DEL",
+          "url": "https://open.spotify.com/artist/2hPhnwoTrcoFeuP9pwdClH"
+        },
+        {
+          "name": "Irwinandfire",
+          "url": "https://open.spotify.com/artist/05OqdicfTgKQVfyEOXfKRa"
+        }
+      ],
+      "duration_ms": 170909,
+      "name": "bad together",
+      "url": "https://open.spotify.com/track/6hUH9vmhbKRzTBsQhaBqjw"
     },
     {
       "added_at": "2024-04-12 00:24:42",
@@ -1163,38 +1163,6 @@
     {
       "added_at": "2024-04-12 00:24:42",
       "album": {
-        "name": "Same Mistakes",
-        "url": "https://open.spotify.com/album/57hj8borrNjzo4cfCMfCUD"
-      },
-      "artists": [
-        {
-          "name": "Gen Neo",
-          "url": "https://open.spotify.com/artist/6GvQJnPSXsAGPLRfoqfTfK"
-        }
-      ],
-      "duration_ms": 158289,
-      "name": "Same Mistakes",
-      "url": "https://open.spotify.com/track/1ZUGTfYnbyc7hB4Y2uXXf0"
-    },
-    {
-      "added_at": "2024-04-12 00:24:42",
-      "album": {
-        "name": "dinner in bed",
-        "url": "https://open.spotify.com/album/00ZZcWUP6oHeKpuqPe1Pvh"
-      },
-      "artists": [
-        {
-          "name": "Gareth.T",
-          "url": "https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx"
-        }
-      ],
-      "duration_ms": 197855,
-      "name": "dinner in bed",
-      "url": "https://open.spotify.com/track/72ChE6ENMalJJnPbh0rjyM"
-    },
-    {
-      "added_at": "2024-04-12 00:24:42",
-      "album": {
         "name": "iwbwy",
         "url": "https://open.spotify.com/album/6w9LzECJXjTyLdhd9LdmH6"
       },
@@ -1223,6 +1191,38 @@
       "duration_ms": 166415,
       "name": "Smile For Me",
       "url": "https://open.spotify.com/track/49z2kxEp9AzpDY66YuD1jJ"
+    },
+    {
+      "added_at": "2024-04-12 00:24:42",
+      "album": {
+        "name": "Zee Avi",
+        "url": "https://open.spotify.com/album/3ZMkXIsa2NtN3ToY4xQp4X"
+      },
+      "artists": [
+        {
+          "name": "Zee Avi",
+          "url": "https://open.spotify.com/artist/6zGcYBjlNOMSVVrl7ZoGsH"
+        }
+      ],
+      "duration_ms": 104720,
+      "name": "Kantoi",
+      "url": "https://open.spotify.com/track/4lWTmfcJM1Y9qbq3jdC5WN"
+    },
+    {
+      "added_at": "2024-04-12 00:24:42",
+      "album": {
+        "name": "Same Mistakes",
+        "url": "https://open.spotify.com/album/57hj8borrNjzo4cfCMfCUD"
+      },
+      "artists": [
+        {
+          "name": "Gen Neo",
+          "url": "https://open.spotify.com/artist/6GvQJnPSXsAGPLRfoqfTfK"
+        }
+      ],
+      "duration_ms": 158289,
+      "name": "Same Mistakes",
+      "url": "https://open.spotify.com/track/1ZUGTfYnbyc7hB4Y2uXXf0"
     }
   ],
   "unique_name": "tired lei",

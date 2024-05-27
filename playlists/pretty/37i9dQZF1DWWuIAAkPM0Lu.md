@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > <a href="spotify:track:3CDYrDINLxRhjvvqbSaryC">Blåregn</a> i et <a href="spotify:track:1eA6vc394WJF2l4lHLqJ2B">Dark Room</a> tager dig <a href="spotify:track:62Du6R05e0d5nZ4IUVBaqf">VERDEN RUNDT</a> på <a href="spotify:track:7jxowF3F2CJoEjoX8P8Hl7">Dopa min</a> det er <a href="spotify:track:58Jj3c8s3JHbHw424dK2bv">10/10</a> denne fredag på New Music Friday 😮‍💨
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,053 likes - 107 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,051 likes - 107 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

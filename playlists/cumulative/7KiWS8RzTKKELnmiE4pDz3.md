@@ -4,7 +4,7 @@
 
 > 
 
-705 songs - 1 day 9 hr 47 min
+706 songs - 1 day 9 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -691,6 +691,7 @@
 | [WHAT A DAY](https://open.spotify.com/track/3v3gyQkwRQGwDUZ7V2q2lF) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [CALL ME IF YOU GET LOST: The Estate Sale](https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv) | 3:36 | 2023-04-04 | 2023-12-14 |
 | [What Am I To Do](https://open.spotify.com/track/4TXPbHOeQE0Az7T71uybPu) | [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [What Am I To Do](https://open.spotify.com/album/3dyRrIw0NzRFi26EwfZo6V) | 2:55 | 2024-01-29 | 2024-04-24 |
 | [WHAT KIND OF RAPPIN' IS THIS?](https://open.spotify.com/track/2dvgoGTEjoPWou8KdL9h1g) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [LP!](https://open.spotify.com/album/4inXqcdjG79gV4m2mU8dQh) | 1:52 | 2024-03-26 |  |
+| [What We Do](https://open.spotify.com/track/5kDkWHFx0AEvJ1Pfm2i0ac) | [Freeway](https://open.spotify.com/artist/2Jwr7hGoSNK3S3QBxh3T0z), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Beanie Sigel](https://open.spotify.com/artist/0tCtGc5vt29zFZp6KXzN50) | [Philadelphia Freeway](https://open.spotify.com/album/41guLY5GEPG3GLREh0ck19) | 3:49 | 2024-05-26 |  |
 | [What You Got \- Radio Edit](https://open.spotify.com/track/73s0ZgbwGPE2f6NrbnPeWR) | [Jerm](https://open.spotify.com/artist/5JSpdSi1RHQ3KgNovJBJhF), [SSGKⲟbe](https://open.spotify.com/artist/3KnFGmNMtL6zcGbpcuYxFH) | [Sapphire.](https://open.spotify.com/album/22HA1nornnauA428zn6gHB) | 1:58 | 2022-07-22 | 2023-12-14 |
 | [WHAT'S\_IN\_IT](https://open.spotify.com/track/2jaocRB7aIKvfzKazb4Wh7) | [Jerm](https://open.spotify.com/artist/5JSpdSi1RHQ3KgNovJBJhF), [Riсh Amiri](https://open.spotify.com/artist/72bqhCHwdLkYsCI6KS33Fj), [Dⲟm Corleo](https://open.spotify.com/artist/6kgQSuTUg3M66NKuu2gzQh) | [JERM\_X](https://open.spotify.com/album/0hCSTaxoPwXy91tCT5t073) | 2:40 | 2023-02-26 | 2023-12-14 |
 | [When I](https://open.spotify.com/track/4QUsmmXmINYXwh7UsiMX2j) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [The Lo\-Fis](https://open.spotify.com/album/6m5qlaMzLtNsQDj3DQY5ji) | 1:00 | 2023-06-18 | 2023-12-14 |

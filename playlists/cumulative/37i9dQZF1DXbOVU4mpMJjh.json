@@ -11635,6 +11635,24 @@
     },
     {
       "album": {
+        "name": "May This Dance Last Forever",
+        "url": "https://open.spotify.com/album/52jObqeeDAtFOT9sQ5O1Kq"
+      },
+      "artists": [
+        {
+          "name": "The Belleville Band",
+          "url": "https://open.spotify.com/artist/06ZTM5bZGUrNwBobE5eVBW"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169594,
+      "name": "May This Dance Last Forever",
+      "url": "https://open.spotify.com/track/7o5OtG2KwcXObjebVXJNG4"
+    },
+    {
+      "album": {
         "name": "As Life Turns Around",
         "url": "https://open.spotify.com/album/5HRiUoutO21xfdWMOhv7X3"
       },
@@ -13626,6 +13644,24 @@
       "duration_ms": 184470,
       "name": "Notes and Nights",
       "url": "https://open.spotify.com/track/6Jpxh4o4RypOIfqfxwC4Gp"
+    },
+    {
+      "album": {
+        "name": "Nothing But Elegant",
+        "url": "https://open.spotify.com/album/37zUfQAczCkASpy7gHJWDH"
+      },
+      "artists": [
+        {
+          "name": "Trois Amis",
+          "url": "https://open.spotify.com/artist/19hT5DHNATnRhmkR5LevK7"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207554,
+      "name": "Nothing But Elegant",
+      "url": "https://open.spotify.com/track/58Q2Hb5b9P952cBon5gwnA"
     },
     {
       "album": {
@@ -16728,7 +16764,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-27",
       "duration_ms": 191026,
       "name": "Spirited Away",
       "url": "https://open.spotify.com/track/3eaM1LE28xBoGvIEv5E9qs"
@@ -19280,7 +19316,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-27",
       "duration_ms": 229691,
       "name": "Through the Fog",
       "url": "https://open.spotify.com/track/6IpDhWlat8ugH1ApRcrgq1"

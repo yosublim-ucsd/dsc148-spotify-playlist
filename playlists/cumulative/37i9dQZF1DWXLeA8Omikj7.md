@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-948 songs - 2 day 20 hr 3 min
+949 songs - 2 day 20 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Approaching Summer](https://open.spotify.com/track/4os6s7sgqVGHZ5AsBqaCl0) | [SPEECHLESS](https://open.spotify.com/artist/0RUwm9ukhlW1oXDzXxj3C0) | [Approaching Summer](https://open.spotify.com/album/3Dv3zNkhOUQXmeUN28UIm5) | 2:27 | 2019-06-19\* | 2020-10-22 |
 | [Apricots](https://open.spotify.com/track/0WfOuXw05LJq4ik1lVvTzi) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [Isles](https://open.spotify.com/album/0EdtTRCl3J22AnWrNpH1w9) | 4:06 | 2021-04-24 | 2023-02-14 |
 | [Aquatic Ambience](https://open.spotify.com/track/3zF1RvARE71MBXeWETPoEk) | [Funk Fiction](https://open.spotify.com/artist/12Rrb0zhWhcbaXJhVtrmXz) | [Aquatic Ambience](https://open.spotify.com/album/2vVrBHREP6fcU0yd998jok) | 3:14 | 2019-06-19\* | 2023-05-06 |
+| [Arc on the Range](https://open.spotify.com/track/6itakCL7VYWmyVCJ2oHGA6) | [Amtrac](https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J) | [Arc on the Range](https://open.spotify.com/album/1e6jpG7caxvj1OhralO91G) | 4:39 | 2024-05-24 |  |
 | [Arcade Dreams](https://open.spotify.com/track/0D0kIo64u1uXLNeH0j2JzW) | [The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw) | [Arcade Dreams](https://open.spotify.com/album/3DgaITbrxI84EZ9HIf27ml) | 4:03 | 2019-06-19\* | 2020-10-22 |
 | [Arcoíris](https://open.spotify.com/track/4I9ZVOXtZVUpbLuIxDajrc) | [Visible Cloaks](https://open.spotify.com/artist/2gqmFO0Wo92qaqwwgL6fZG) | [Salutations](https://open.spotify.com/album/1SatJaSjmQCa7QVV45318U) | 3:13 | 2021-09-17 | 2022-07-27 |
 | [Arms Length](https://open.spotify.com/track/7D2amqgFKzSPPEuvZT3i9p) | [Spurz](https://open.spotify.com/artist/7w2AcpaXAApTypVl4yXAbN) | [Loud Futures](https://open.spotify.com/album/4dgMbu4oWm0yDFQbPUlPcI) | 2:31 | 2019-05-26\* | 2022-04-19 |
@@ -309,7 +310,7 @@
 | [Floating on Your Memories](https://open.spotify.com/track/19x0wfJhjCLPlUEE63ar4o) | [Rhodz](https://open.spotify.com/artist/4BrtGOYp8sytG9MV91DROT) | [Fading Horizon LP](https://open.spotify.com/album/4FDfCvhIpbwu6956J8a0jh) | 2:36 | 2019-06-19\* | 2022-04-13 |
 | [Flood Gates](https://open.spotify.com/track/20HrDfYP92YCWRvUHjFdBc) | [Sinjin Hawke](https://open.spotify.com/artist/5qKCgbxBDmDc9Ckgmt4EaN) | [First Opus](https://open.spotify.com/album/19FFct3GihJy9CKw9BeVFN) | 2:30 | 2019-06-24 | 2020-10-22 |
 | [Flow](https://open.spotify.com/track/6QQMNDWPkgs3l3KcUxIdNI) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe) | [Flow State](https://open.spotify.com/album/0kWP6DpuAwyqICsF0HMOLb) | 2:22 | 2019-07-25 | 2020-10-21 |
-| [FLOWERS OF THE FLOATING WORLD: Winter Jasmine\~冬](https://open.spotify.com/track/66UtI0AwPaly2zlFC5SZE1) | [trog'low](https://open.spotify.com/artist/10z5adFMMTwTKn9unto6QB) | [FLOWERS OF THE FLOATING WORLD: Winter Jasmine\~冬](https://open.spotify.com/album/5ppSE3g6VG7bIbLSvxmy5z) | 2:32 | 2021-12-24 |  |
+| [FLOWERS OF THE FLOATING WORLD: Winter Jasmine\~冬](https://open.spotify.com/track/66UtI0AwPaly2zlFC5SZE1) | [trog'low](https://open.spotify.com/artist/10z5adFMMTwTKn9unto6QB) | [FLOWERS OF THE FLOATING WORLD: Winter Jasmine\~冬](https://open.spotify.com/album/5ppSE3g6VG7bIbLSvxmy5z) | 2:32 | 2021-12-24 | 2024-05-27 |
 | [Flown](https://open.spotify.com/track/6gCjAOIzTnH7knVlAOvhFH) | [Kiasmos](https://open.spotify.com/artist/6X8lhZ7YaRUBlOsOYimlyD), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Janus Rasmussen](https://open.spotify.com/artist/0F2fFVawIwHt6W9az6SPaA) | [Flown](https://open.spotify.com/album/6LYDYdOtWA4kkYUlAUAaWs) | 3:55 | 2024-03-29 |  |
 | [Fluenka's Song](https://open.spotify.com/track/3Hhc9ojjGaLTzNt3LVevqZ) | [Ondo Fudd](https://open.spotify.com/artist/7IZChv6fjGqS8iNv9cRciz) | [Eyes Glide Through The Oxide](https://open.spotify.com/album/3QqI4OUWesN6C0KtlZ1CEU) | 7:57 | 2020-10-22 | 2022-04-18 |
 | [Flush with Love](https://open.spotify.com/track/5pbpePKq40EPcbfQSlFHD3) | [Hermitude](https://open.spotify.com/artist/3fmMaLC5jjf2N4EC2kTx0u) | [Mirror Mountain](https://open.spotify.com/album/3hcYCXbWFUV5eP4wZPQn8K) | 4:55 | 2022-05-06 |  |

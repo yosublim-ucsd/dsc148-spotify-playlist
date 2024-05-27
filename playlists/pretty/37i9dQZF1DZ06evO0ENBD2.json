@@ -1,12 +1,12 @@
 {
-  "description": "This is Queen. The essential tracks, all in one playlist.",
-  "num_followers": 4846365,
-  "original_name": "This Is Queen",
+  "description": "This is \u30af\u30a4\u30fc\u30f3\u3002\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u4ee3\u8868\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002",
+  "num_followers": 4846619,
+  "original_name": "This Is \u30af\u30a4\u30fc\u30f3",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zk/YgAAAAACyO+W0nu6YIxd2c4AAXXcr",
+  "snapshot_id": "ZlEqAAAAAACEn/oFMUw7RHrDdMq6QHxd",
   "tracks": [
     {
       "added_at": null,
@@ -283,22 +283,6 @@
       "duration_ms": 255600,
       "name": "Fat Bottomed Girls - Remastered 2011",
       "url": "https://open.spotify.com/track/4igIYHF3B5VBxEafHauVo3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Miracle (Collector's Edition)",
-        "url": "https://open.spotify.com/album/4wYe26p1N110qVsKVlb0rL"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 241586,
-      "name": "I Want It All - Single Version",
-      "url": "https://open.spotify.com/track/1gBNoqhVLbIMuBQmXKmyLj"
     },
     {
       "added_at": null,
@@ -831,8 +815,24 @@
       "duration_ms": 75333,
       "name": "God Save The Queen - Remastered 2011",
       "url": "https://open.spotify.com/track/2ISPUUp4pzssWuR2Ic09vR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Kind Of Magic (2011 Remaster)",
+        "url": "https://open.spotify.com/album/0pEfDPZko6TnNOgrZMe5nn"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 213826,
+      "name": "Princes Of The Universe - Remastered 2011",
+      "url": "https://open.spotify.com/track/0Uy8lcDHiPDicBQ7rnDgcK"
     }
   ],
-  "unique_name": "This Is Queen",
+  "unique_name": "This Is \u30af\u30a4\u30fc\u30f3",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0ENBD2"
 }

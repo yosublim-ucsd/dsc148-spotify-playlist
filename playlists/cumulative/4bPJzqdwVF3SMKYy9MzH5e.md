@@ -4,7 +4,7 @@
 
 > 
 
-1,904 songs - 4 day 6 hr 46 min
+1,907 songs - 4 day 6 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1356,6 +1356,7 @@
 | [REBOUND!](https://open.spotify.com/track/7J8V76XTLhJXAm8hwCQKXG) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [LP!](https://open.spotify.com/album/4inXqcdjG79gV4m2mU8dQh) | 3:44 | 2022-04-03 |  |
 | [Recess](https://open.spotify.com/track/1QtpKRXtJZSdJp3Y299zkQ) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [K\-12](https://open.spotify.com/album/1KerGJUScYGffP3Mjmjz8c) | 3:50 | 2021-08-05 |  |
 | [Red Hot Riding Hood](https://open.spotify.com/track/50fQpNxss8lKs7yJ6JAXo0) | [Lolita Storm](https://open.spotify.com/artist/6YF9sFv4SPlpLL6808Gsny) | [Girls Fucking Shit Up](https://open.spotify.com/album/69wksuPldtwiKixYBHCsO0) | 2:39 | 2022-07-08 |  |
+| [Red Sex](https://open.spotify.com/track/2KBOfdbo1WlLsPI87RrqPH) | [Vessel](https://open.spotify.com/artist/3CVP7vT9JUFGLj8MgiVKjY) | [Punish, Honey](https://open.spotify.com/album/0Kmn5zoggtkDhoGrNpHOeZ) | 5:37 | 2024-05-27 |  |
 | [Redrum](https://open.spotify.com/track/6CqAwSwYn3CLgShkBs7ow2) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [Redrum](https://open.spotify.com/album/3MU5N9IuseIt0Kp9tDcpwj) | 2:21 | 2021-08-05 |  |
 | [Reflections](https://open.spotify.com/track/5Zf25eS8E1znm9mez4cGsm) | [Toshifumi Hinata](https://open.spotify.com/artist/08tfDO4dSrwxax35a3HIMC) | [ひとつぶの海](https://open.spotify.com/album/0k4j3uetJHFATIt4VxwCPz) | 2:10 | 2022-10-31 |  |
 | [REI AMI](https://open.spotify.com/track/7BacijGqi0XJDN5thJFlt7) | [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5) | [FOIL](https://open.spotify.com/album/7D2GIBF8kzc2WDouhqoRa4) | 2:36 | 2021-09-08 |  |
@@ -1769,6 +1770,7 @@
 | [Untie You](https://open.spotify.com/track/4Wm3VjUD6olJbF4QyYVwG2) | [Sir Chloe](https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U) | [Party Favors](https://open.spotify.com/album/5N9MQLXbiA8hYWsej7y8Sz) | 3:20 | 2021-08-05 |  |
 | [Until It Doesn’t Hurt](https://open.spotify.com/track/7grksluOJE8yFzxmrh7u2U) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Inside](https://open.spotify.com/album/4v0i8VJOxYxngmADCFvi6o) | 2:55 | 2023-06-07 |  |
 | [Until It's Gone](https://open.spotify.com/track/2n1jBz26dVBtSbMvJNjGsu) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [The Hunting Party](https://open.spotify.com/album/3XB2yloP7l00tEUmaODtVi) | 3:53 | 2021-08-05 |  |
+| [Untrust Us \(the cocaine is not good for you\) \- Slowed + Reverb](https://open.spotify.com/track/24Y9pXOdiLxek5Bj2ufrS6) | [skyemane](https://open.spotify.com/artist/5xhQRvvr6V7zoQn5MPNZfJ) | [Untrust Us \(the cocaine is not good for you\) \[Slowed + Reverb\]](https://open.spotify.com/album/7oNFds0Wmt3w1gc0Kl4U7s) | 3:54 | 2024-05-27 |  |
 | [Uptown Girl](https://open.spotify.com/track/5zA8vzDGqPl2AzZkEYQGKh) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [An Innocent Man](https://open.spotify.com/album/3R3x4zIabsvpD3yxqLaUpc) | 3:17 | 2021-08-05 |  |
 | [Us Vs\. Them](https://open.spotify.com/track/3cmdqMDc0Fj4TgPeyDOYTM) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Us Vs\. Them](https://open.spotify.com/album/6G7r3vu2Snjn8Ese1uwNZp) | 3:04 | 2024-03-29 |  |
 | [Ushi\_Ga\_Suki\_Desu\_214f187f](https://open.spotify.com/track/21kHqGeNy9zZZ182SsMRuQ) | [Lil Kevo 303](https://open.spotify.com/artist/2hhB8Hr4xrLZFvTTxZjGJA) | [The Taste of Food Is My Reason for Living](https://open.spotify.com/album/1BWm6e51ExFvJMeTJ3fENH) | 2:05 | 2023-02-05 |  |
@@ -1909,6 +1911,7 @@
 | [Судно \(Борис Рижий\)](https://open.spotify.com/track/6DONTnamNDOJdO6DzCu71p) | [Molchat Doma](https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0) | [Этажи](https://open.spotify.com/album/1vPytXXwF0VXnof89Z91Pm) | 2:21 | 2021-08-05 |  |
 | [траур](https://open.spotify.com/track/4HshIGYVQfbCfS8xPKLNcL) | [вышел покурить](https://open.spotify.com/artist/1YMUxFiaKsU85N9YolW0W9) | [север](https://open.spotify.com/album/6L6rz0eEzrl8L8YDSZglvA) | 2:15 | 2021-08-05 |  |
 | [☈⛆☈ night's mist , ☈⛆☈\_\_,3716\_\_,☈⛆☈⛆](https://open.spotify.com/track/6a6BtwyHyozUFYAi1scp1E) | [Xxtarlit⚸](https://open.spotify.com/artist/0hY2DRaqiYfYIzB0M8tItc) | [☈⛆☈ night's mist , ☈⛆☈\_\_,3716\_\_,☈⛆☈⛆](https://open.spotify.com/album/7qFQ8u6U2j9bH8OPIYhjew) | 4:18 | 2022-12-25 |  |
+| [✻H+3+ЯД✻7luCJIo0T6...](https://open.spotify.com/track/4hjRjhLvBIMUUhRjb7DACd) | [vyrval](https://open.spotify.com/artist/4hJrxZPQydibSnMMq7PpB9) | [✻H+3+ЯД✻7luCJIo0T6...](https://open.spotify.com/album/3joHEvqURxvBwrT5JZS3Sn) | 3:10 | 2024-05-27 |  |
 | [うずまき](https://open.spotify.com/track/6pD8zEYJc0096VvUQAcEO0) | [Machine Girl](https://open.spotify.com/artist/17Vw9uuOYB7XYjPt0LNFN0) | […Because I’m Young Arrogant and Hate Everything You Stand For](https://open.spotify.com/album/2e5IzvDrIc8656bHTx3fE5) | 3:52 | 2022-06-11 |  |
 | [カガミ](https://open.spotify.com/track/45XVGZl9w7BoTo4bR9NRJo) | [AKIBA](https://open.spotify.com/artist/5y51w1wj1qFCNOAU1b7BEc) | [LOST DREAMS](https://open.spotify.com/album/1E5E8rT0PHW9aizrC8atjY) | 2:18 | 2022-12-14 |  |
 | [彼女が12\-14年間自分を切](https://open.spotify.com/track/2o57RiydGNsZmm7dLJLbhP) | [Rory in early 20s](https://open.spotify.com/artist/2E701AAAlg7LthbISEZv0N) | [黄色いチケット](https://open.spotify.com/album/1IOKPGvO8NCw5aD7nKbqEx) | 1:30 | 2022-09-08 |  |

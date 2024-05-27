@@ -1,12 +1,12 @@
 {
-  "description": "This is Kenny G. The essential tracks, all in one playlist.",
-  "num_followers": 133228,
-  "original_name": "This Is Kenny G",
+  "description": "This is \u30b1\u30cb\u30fc\u30fbG\u3002\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u4ee3\u8868\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002",
+  "num_followers": 133282,
+  "original_name": "This Is \u30b1\u30cb\u30fc\u30fbG",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zk/YgAAAAACioJWuvKKLZoZZlFKpAz7y",
+  "snapshot_id": "ZlEqAAAAAABQbjzMEYSzxVz5Tmt2d1yV",
   "tracks": [
     {
       "added_at": null,
@@ -159,6 +159,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Mother's Lullaby",
+        "url": "https://open.spotify.com/album/0DRBipH6RP6Pl6kghGMzBh"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "duration_ms": 197125,
+      "name": "A Mother\u2019s Lullaby",
+      "url": "https://open.spotify.com/track/2FdWsATDfwQHKzWaDD24Kb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Time, Love & Tenderness",
         "url": "https://open.spotify.com/album/3tu5RTLzk7J2Oe30hspuPm"
       },
@@ -175,22 +191,6 @@
       "duration_ms": 273306,
       "name": "Missing You Now (feat. Kenny G)",
       "url": "https://open.spotify.com/track/7ho5FKdNqmmbCpXYcyDH8c"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Mother's Lullaby",
-        "url": "https://open.spotify.com/album/0DRBipH6RP6Pl6kghGMzBh"
-      },
-      "artists": [
-        {
-          "name": "Kenny G",
-          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
-        }
-      ],
-      "duration_ms": 197125,
-      "name": "A Mother\u2019s Lullaby",
-      "url": "https://open.spotify.com/track/2FdWsATDfwQHKzWaDD24Kb"
     },
     {
       "added_at": null,
@@ -801,6 +801,6 @@
       "url": "https://open.spotify.com/track/6OYTX5S8bqRA7CeUtpzBR5"
     }
   ],
-  "unique_name": "This Is Kenny G",
+  "unique_name": "This Is \u30b1\u30cb\u30fc\u30fbG",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3XRXXy"
 }

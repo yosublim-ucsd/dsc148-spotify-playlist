@@ -1,12 +1,12 @@
 {
   "description": "This is Los Cadetes De Linares. The essential tracks, all in one playlist.",
-  "num_followers": 202395,
+  "num_followers": 202436,
   "original_name": "This Is Los Cadetes De Linares",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zk/YgAAAAAC/9w+odbTNI73UrPL5V1HQ",
+  "snapshot_id": "ZlEqAAAAAAB3OjN4okSRAGRDZefqSCYl",
   "tracks": [
     {
       "added_at": null,
@@ -383,8 +383,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dos Coronas a Mi Madre",
-        "url": "https://open.spotify.com/album/6bx0zhTzXsfqaekhnf09fl"
+        "name": "4 Decadas 20 Corridos",
+        "url": "https://open.spotify.com/album/3zmF2n8AJ7gTBpUDiGrJMD"
       },
       "artists": [
         {
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
         }
       ],
-      "duration_ms": 193773,
-      "name": "El Muchacho y el Potro",
-      "url": "https://open.spotify.com/track/37Hgr4vvw6VMeNTCQRUimH"
+      "duration_ms": 188933,
+      "name": "Nomas Las Mujeres Quedan",
+      "url": "https://open.spotify.com/track/4bSadmBSBEBuddAwqbHJvW"
     },
     {
       "added_at": null,
@@ -415,8 +415,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "4 Decadas 20 Corridos",
-        "url": "https://open.spotify.com/album/3zmF2n8AJ7gTBpUDiGrJMD"
+        "name": "Dos Coronas a Mi Madre",
+        "url": "https://open.spotify.com/album/6bx0zhTzXsfqaekhnf09fl"
       },
       "artists": [
         {
@@ -424,9 +424,9 @@
           "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
         }
       ],
-      "duration_ms": 188933,
-      "name": "Nomas Las Mujeres Quedan",
-      "url": "https://open.spotify.com/track/4bSadmBSBEBuddAwqbHJvW"
+      "duration_ms": 193773,
+      "name": "El Muchacho y el Potro",
+      "url": "https://open.spotify.com/track/37Hgr4vvw6VMeNTCQRUimH"
     },
     {
       "added_at": null,
@@ -643,22 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Chubasco",
-        "url": "https://open.spotify.com/album/1oQhHSiiwH70dTxyBWvUa1"
-      },
-      "artists": [
-        {
-          "name": "Los Cadetes De Linares",
-          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
-        }
-      ],
-      "duration_ms": 160253,
-      "name": "El Chubasco",
-      "url": "https://open.spotify.com/track/5kPj6zUqnP5PwxDxQNr99U"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mis Recuerdos Adios Amigo Del Alma",
         "url": "https://open.spotify.com/album/66lB6Ab3RKhrlQ29sxWvRx"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 140640,
       "name": "Por Ser Tan Pobre",
       "url": "https://open.spotify.com/track/73BHd7jJqU2JrPXoWLyMK8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Chubasco",
+        "url": "https://open.spotify.com/album/1oQhHSiiwH70dTxyBWvUa1"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "duration_ms": 160253,
+      "name": "El Chubasco",
+      "url": "https://open.spotify.com/track/5kPj6zUqnP5PwxDxQNr99U"
     },
     {
       "added_at": null,
@@ -707,22 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Chubasco",
-        "url": "https://open.spotify.com/album/1oQhHSiiwH70dTxyBWvUa1"
-      },
-      "artists": [
-        {
-          "name": "Los Cadetes De Linares",
-          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
-        }
-      ],
-      "duration_ms": 140813,
-      "name": "Ven a Buscarme",
-      "url": "https://open.spotify.com/track/366vc0v9AUlaaptDDst1xn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "4 Decadas 20 Corridos",
         "url": "https://open.spotify.com/album/3zmF2n8AJ7gTBpUDiGrJMD"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 167906,
       "name": "La Discusion Fue Una Yegua",
       "url": "https://open.spotify.com/track/0Z0luHjkzAAX9d4OkpcmAq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Chubasco",
+        "url": "https://open.spotify.com/album/1oQhHSiiwH70dTxyBWvUa1"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "duration_ms": 140813,
+      "name": "Ven a Buscarme",
+      "url": "https://open.spotify.com/track/366vc0v9AUlaaptDDst1xn"
     },
     {
       "added_at": null,
@@ -771,22 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dos Vicios",
-        "url": "https://open.spotify.com/album/3aQYZhV5rLiAJGzIg2WfWH"
-      },
-      "artists": [
-        {
-          "name": "Los Cadetes De Linares",
-          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
-        }
-      ],
-      "duration_ms": 159693,
-      "name": "Dos Vicios",
-      "url": "https://open.spotify.com/track/469ReDKEOzSCpzIDy98GgV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Los Dos Amigos",
         "url": "https://open.spotify.com/album/5IultRVnA9S3zCoJ6Dyfbc"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 171693,
       "name": "La Tumba de Mi Madre",
       "url": "https://open.spotify.com/track/0iEUxWcEaVZaWXh5wDo3bH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dos Vicios",
+        "url": "https://open.spotify.com/album/3aQYZhV5rLiAJGzIg2WfWH"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "duration_ms": 159693,
+      "name": "Dos Vicios",
+      "url": "https://open.spotify.com/track/469ReDKEOzSCpzIDy98GgV"
     },
     {
       "added_at": null,

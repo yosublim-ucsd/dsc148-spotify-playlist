@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Brazil.
 
-2,344 songs - 5 day 1 hr 55 min
+2,345 songs - 5 day 2 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1609,7 +1609,7 @@
 | [Peaches](https://open.spotify.com/track/4w9soAM7IrmYDhSXLp14p6) | [Jack Black](https://open.spotify.com/artist/0qpMYTgbXRi1ZcX6vend3T) | [The Super Mario Bros\. Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3QITNyRzvTqn0t9tLmS1Vd) | 1:35 | 2023-05-02 | 2023-05-17 |
 | [Pede Caju Que Dou..\. Pé de Caju Que Dá!](https://open.spotify.com/track/3DR253BBDZLDrMUOaSunIg) | [Rio Carnaval](https://open.spotify.com/artist/74e1KteYpnPnRM4SiTJt9v), [Mocidade Independente De Padre Miguel](https://open.spotify.com/artist/2Y6lSD5UWSp2CFbpKT9aSn), [Zé Paulo Sierra](https://open.spotify.com/artist/6aWPP0fxCx5QkAhrrcQAKc) | [Sambas de Enredo Rio Carnaval 2024](https://open.spotify.com/album/2T0O5QwTHRPYRlqUUqekqK) | 5:50 | 2024-01-10 | 2024-02-22 |
 | [Pede Pra Eu Ficar \(Listen To Your Heart\)](https://open.spotify.com/track/597FnKApiz3TfkE8MB1wom) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Pede Pra Eu Ficar \(Listen To Your Heart\)](https://open.spotify.com/album/4d44mgau5zT5kYTcIvbHoj) | 3:12 | 2024-02-06 | 2024-02-15 |
-| [Pedro](https://open.spotify.com/track/48lxT5qJF0yYyf2z4wB4xW) | [Jaxomy](https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq), [Agatino Romero](https://open.spotify.com/artist/124jbwgd8Hh6LW7jAqTa8r), [Raffaella Carrà](https://open.spotify.com/artist/6EVyI0S0b1Ld2nm37m5x85) | [Pedro](https://open.spotify.com/album/5y6RXjI5VPR0RyInghTbf1) | 2:24 | 2024-04-18 |  |
+| [Pedro](https://open.spotify.com/track/48lxT5qJF0yYyf2z4wB4xW) | [Jaxomy](https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq), [Agatino Romero](https://open.spotify.com/artist/124jbwgd8Hh6LW7jAqTa8r), [Raffaella Carrà](https://open.spotify.com/artist/6EVyI0S0b1Ld2nm37m5x85) | [Pedro](https://open.spotify.com/album/5y6RXjI5VPR0RyInghTbf1) | 2:24 | 2024-04-18 | 2024-05-27 |
 | [Pega o Guanabara](https://open.spotify.com/track/57rCopayc4wJL7jQZaRvtn) | [Alanzim Coreano](https://open.spotify.com/artist/3z1hkcmUuBH6lmB91l73MC) | [Pega o Guanabara](https://open.spotify.com/album/1hpgbFf4Kzomnp0hMHMzrL) | 2:46 | 2022-09-27 | 2022-10-20 |
 | [Pegou Pressão](https://open.spotify.com/track/2TPBF32aTOGErlturGmjYc) | [Juliano Maderada](https://open.spotify.com/artist/4aBp0Z26C08EMvbMsxzsdg) | [Pegou Pressão](https://open.spotify.com/album/4QMUsEV8EE9hY1zL1MkY3Q) | 1:41 | 2022-10-30 | 2022-11-09 |
 | [Pela Manhã](https://open.spotify.com/track/0jw1SQK6rOuz6j7MoBsEhR) | [Nesk Only](https://open.spotify.com/artist/4cR4F4mNehTHO2ut89kN00), [Fábio Casagrande](https://open.spotify.com/artist/6ku2014UKvUMYQwwav7AVn) | [Pela Manhã](https://open.spotify.com/album/3D7AVFzQEY1WCSxMx9zB4w) | 2:12 | 2023-05-02 | 2023-05-28 |
@@ -1687,6 +1687,7 @@
 | [Pot Pourri: Ta\-Hi / Marcha do remador](https://open.spotify.com/track/6RmCAbQU6Jt3GVcavd97U0) | [Banda Rio\-Ipanema](https://open.spotify.com/artist/61uAhdopeABgql2txw8HS9) | [O Melhor do Carnaval \(Marchinhas\)](https://open.spotify.com/album/4jkyhsRJ4oXtx384TvCrvr) | 1:56 | 2022-03-02 | 2022-03-04 |
 | [Pot\-Pourri: Sassaricando / Vai Com Jeito / Ajoelhou](https://open.spotify.com/track/5Sh6kdmeW4baAg3c8i3hlw) | [Banda do Rei Momo](https://open.spotify.com/artist/27vQSdDeOGnlkuFng1Z9g4) | [Carnaval dos Carnavais: Vol\. 1](https://open.spotify.com/album/3a6q316D1pH2zuNHYVH0qt) | 3:32 | 2023-02-23 | 2023-02-25 |
 | [Pot\-Pourri: Turma Do Funil / Cachaça / Ressaca](https://open.spotify.com/track/7x99gjAbTpJRdpx7f0KJ1y) | [Banda Carnavalesca Brasileira](https://open.spotify.com/artist/3ocHpn0KlmFSDLpSvnKuOb) | [43 Marchinhas de Carnaval](https://open.spotify.com/album/0ERYcE6WXncchQVgBz4hhv) | 4:58 | 2023-02-20 | 2024-02-19 |
+| [Pra Roncar Tem Que Desbicar](https://open.spotify.com/track/7L8SotQQBU5lmA96DVyp9f) | [Veloz Ent](https://open.spotify.com/artist/3ZIQpdgZJr7YUApP2gMe5v) | [Pra Roncar Tem Que Desbicar](https://open.spotify.com/album/776ANqNMTpnlefAetaib6Y) | 8:39 | 2024-05-26 |  |
 | [Pra Vaquejada Eu Vou](https://open.spotify.com/track/1h6z4Z81uMprKLApU8tMpZ) | [Gean Toddy](https://open.spotify.com/artist/2CbvWG64UBfY3wicgPk7Il) | [Pra Vaquejada Eu Vou](https://open.spotify.com/album/028nyOf1ol2346P4njBrep) | 2:33 | 2023-06-15 | 2023-06-17 |
 | [Pra Vaquejada Eu Vou](https://open.spotify.com/track/0PhyA8Nt06PLmNqviyqSzV) | [Gean Toddy](https://open.spotify.com/artist/2CbvWG64UBfY3wicgPk7Il) | [Pra Vaquejada Eu Vou](https://open.spotify.com/album/4rSG4IoO35jxvkZdcHBcDz) | 2:33 | 2023-06-16 | 2023-07-12 |
 | [Prada](https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i) | [cassö](https://open.spotify.com/artist/5wCmhq5J2hPwL2r0eKurxn), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [Prada](https://open.spotify.com/album/5MU0RmBSpoSxOPYBfcobDc) | 2:12 | 2023-09-06 | 2023-10-04 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-31",
-  "description": "This Is Trivium. Los temas esenciales, todos en una lista.",
+  "description": "This is Trivium. The essential tracks, all in one playlist.",
   "name": "This Is Trivium",
   "tracks": [
     {
@@ -434,6 +434,24 @@
       "duration_ms": 223200,
       "name": "Drowning in the Sound",
       "url": "https://open.spotify.com/track/4nnoWkdf9ZSQJnMQhmxyMj"
+    },
+    {
+      "album": {
+        "name": "In Waves (Special Edition)",
+        "url": "https://open.spotify.com/album/2p1voQHdNSdy596VRDtdji"
+      },
+      "artists": [
+        {
+          "name": "Trivium",
+          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
+        }
+      ],
+      "date_added": "2024-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227520,
+      "name": "Dusk Dismantled",
+      "url": "https://open.spotify.com/track/59BD3aWvuPYCXCOqJzSqP7"
     },
     {
       "album": {
@@ -1492,7 +1510,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-27",
       "duration_ms": 321161,
       "name": "Until the World Goes Cold",
       "url": "https://open.spotify.com/track/1hPKSQuvfLlPeIu8xhRyTf"

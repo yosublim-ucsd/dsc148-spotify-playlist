@@ -1,12 +1,12 @@
 {
-  "description": "This Is Chalino Sanchez. Los temas esenciales, todos en una lista.",
-  "num_followers": 299698,
+  "description": "This is Chalino Sanchez. The essential tracks, all in one playlist.",
+  "num_followers": 299778,
   "original_name": "This Is Chalino Sanchez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zk/YgAAAAABzqdCMFuQEVTChyCzh60zO",
+  "snapshot_id": "ZlEqAAAAAAB0+elxms9ax5tZbeWGGjDl",
   "tracks": [
     {
       "added_at": null,
@@ -455,8 +455,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Mexico Querido",
-        "url": "https://open.spotify.com/album/1HjUAVVEwOBdj2UOgxiVIz"
+        "name": "Chalino S\u00e1nchez con Banda Brava",
+        "url": "https://open.spotify.com/album/4GmmvkdzlwP5TDac2be0hK"
       },
       "artists": [
         {
@@ -464,13 +464,13 @@
           "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
         },
         {
-          "name": "Los Amables Del Norte",
-          "url": "https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K"
+          "name": "Banda Brava",
+          "url": "https://open.spotify.com/artist/7r6kHYuxetBFp0EEKnLHmk"
         }
       ],
-      "duration_ms": 219997,
-      "name": "Coquio Castro",
-      "url": "https://open.spotify.com/track/58kdEzKW2J51TzU1CGUIUf"
+      "duration_ms": 201340,
+      "name": "Ignacio Parra",
+      "url": "https://open.spotify.com/track/2lUOZkS5QryL7hsr1s7coV"
     },
     {
       "added_at": null,
@@ -495,8 +495,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chalino S\u00e1nchez con Banda Brava",
-        "url": "https://open.spotify.com/album/4GmmvkdzlwP5TDac2be0hK"
+        "name": "Mi Mexico Querido",
+        "url": "https://open.spotify.com/album/1HjUAVVEwOBdj2UOgxiVIz"
       },
       "artists": [
         {
@@ -504,13 +504,13 @@
           "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
         },
         {
-          "name": "Banda Brava",
-          "url": "https://open.spotify.com/artist/7r6kHYuxetBFp0EEKnLHmk"
+          "name": "Los Amables Del Norte",
+          "url": "https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K"
         }
       ],
-      "duration_ms": 201340,
-      "name": "Ignacio Parra",
-      "url": "https://open.spotify.com/track/2lUOZkS5QryL7hsr1s7coV"
+      "duration_ms": 219997,
+      "name": "Coquio Castro",
+      "url": "https://open.spotify.com/track/58kdEzKW2J51TzU1CGUIUf"
     },
     {
       "added_at": null,

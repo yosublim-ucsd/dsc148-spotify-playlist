@@ -1937,6 +1937,24 @@
     },
     {
       "album": {
+        "name": "It's Time",
+        "url": "https://open.spotify.com/album/3QfGrlI2NNRX8PrZgdB3m3"
+      },
+      "artists": [
+        {
+          "name": "$$Double-Dolla$$",
+          "url": "https://open.spotify.com/artist/5VIewen6HYA0zX8b2LRbO6"
+        }
+      ],
+      "date_added": "2024-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193724,
+      "name": "Apple Pie",
+      "url": "https://open.spotify.com/track/3NYRO7sx0DV0fhXUbZwpMw"
+    },
+    {
+      "album": {
         "name": "\u00fej\u00f3\u00f0\u00feekktur einstaklingur \u00ed valdast\u00f6\u00f0u",
         "url": "https://open.spotify.com/album/1gv02EfUkvWstrxyDpUM6P"
       },
@@ -4010,7 +4028,7 @@
       ],
       "date_added": "2024-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-27",
       "duration_ms": 103860,
       "name": "BOSSED UP",
       "url": "https://open.spotify.com/track/2phujKdfkzsl9mpT1iGuB0"
@@ -12112,6 +12130,24 @@
       "duration_ms": 244221,
       "name": "Getting Older",
       "url": "https://open.spotify.com/track/4HOryCnbme0zBnF8LWij3f"
+    },
+    {
+      "album": {
+        "name": "Ghill",
+        "url": "https://open.spotify.com/album/5vcwdAkwly7CHTUuXVcaDU"
+      },
+      "artists": [
+        {
+          "name": "xentzenith",
+          "url": "https://open.spotify.com/artist/6TlkKbDLEbJkOspYixyguf"
+        }
+      ],
+      "date_added": "2024-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168097,
+      "name": "Ghill",
+      "url": "https://open.spotify.com/track/06ebKjC25Rlmo3ZNOttrb4"
     },
     {
       "album": {
@@ -26924,7 +26960,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-24",
+      "date_removed": null,
       "duration_ms": 179062,
       "name": "Rim Tim Tagi Dim",
       "url": "https://open.spotify.com/track/5TswDbxMnxptgFTf6ZxvXQ"
@@ -27110,7 +27146,7 @@
       ],
       "date_added": "2024-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-27",
       "duration_ms": 186218,
       "name": "Rodovias Nacionais",
       "url": "https://open.spotify.com/track/5AfzImVUeQ3AP6Qpqit7cl"
@@ -32666,7 +32702,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-27",
       "duration_ms": 293840,
       "name": "THE GREATEST",
       "url": "https://open.spotify.com/track/6TGd66r0nlPaYm3KIoI7ET"
@@ -33862,6 +33898,24 @@
       "duration_ms": 169653,
       "name": "T\u00e1rin falla h\u00e6gt",
       "url": "https://open.spotify.com/track/6Vd8hxisvvbtZloYVH5kAo"
+    },
+    {
+      "album": {
+        "name": "Ao Vivo C\u00ea Treme, EP2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0mmuuqCWXdv1IQUi4Gutf3"
+      },
+      "artists": [
+        {
+          "name": "Evelyn Duarte",
+          "url": "https://open.spotify.com/artist/2veagpXoVxXYkZUzaaiCcA"
+        }
+      ],
+      "date_added": "2024-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159888,
+      "name": "T\u00f4 Bloqueando - Ao Vivo",
+      "url": "https://open.spotify.com/track/7ysbW3j16KENHeFvBo0pHB"
     },
     {
       "album": {
@@ -35506,7 +35560,7 @@
       ],
       "date_added": "2024-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-27",
       "duration_ms": 228639,
       "name": "we can't be friends (wait for your love)",
       "url": "https://open.spotify.com/track/51ZQ1vr10ffzbwIjDCwqm4"

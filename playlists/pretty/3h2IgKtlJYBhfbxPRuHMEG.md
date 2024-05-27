@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3h2IgKtlJYBhfbxPRuHMEG.md) - [plain]
 
 > The best EDM, Trap, Electronic, Drum&amp;Bass\. Cover: IMANU
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 488 likes - 102 songs - 5 hr 47 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 487 likes - 102 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

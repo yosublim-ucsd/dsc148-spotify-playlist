@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > your cheat sheet for all that's on the rise in rock/alt \| Cover: Amyl and the Sniffers
 
-[Spotify](https://open.spotify.com/user/spotify) - 444,967 likes - 123 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 445,030 likes - 123 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

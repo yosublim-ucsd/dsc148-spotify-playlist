@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The newest hip\-hop, refreshed weekly\. Cover: Cash Cobain & J\. Cole
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,520 likes - 49 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,536 likes - 49 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 28 | [Fan Club](https://open.spotify.com/track/6fLHSJWsR4dyQu6oiyGlNE) | [Paris Richards](https://open.spotify.com/artist/2QKgfzDlgGJCv1hkfOovKH), [Dub J](https://open.spotify.com/artist/0bKlQYTyLjDzgm33F15jNE) | [Fan Club](https://open.spotify.com/album/32DDuDDHJzrnQ3HjAd6ysN) | 2:00 |
 | 29 | [Family Matters](https://open.spotify.com/track/1wFFFzJ5EsKbBWZriAcubN) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Family Matters](https://open.spotify.com/album/3qwCuSISrIUpyt6sB5edmQ) | 7:36 |
 | 30 | [1 into 2](https://open.spotify.com/track/6wz0RnxaTOeQFO9QSek3T5) | [Jellytoofly](https://open.spotify.com/artist/5CiTexZSB5koj9qCPwZwrY) | [Reels 2 Deals \(Vol.1\)](https://open.spotify.com/album/1MOMQucRyYuqg1vQMFh2Rh) | 1:40 |
-| 31 | [Julie](https://open.spotify.com/track/6So6e4dD5bMm9beIswtUtx) | [Mike Shabb](https://open.spotify.com/artist/76SkgDqq9mIavOoqDfn9rJ) | [Sewaside III](https://open.spotify.com/album/7cSs7eUdygnNWTOu8OW0cS) | 2:30 |
+| 31 | [Julie](https://open.spotify.com/track/6So6e4dD5bMm9beIswtUtx) | [Mike Shabb](https://open.spotify.com/artist/6neEhK0FxJha78nD9giAjW) | [Sewaside III](https://open.spotify.com/album/7cSs7eUdygnNWTOu8OW0cS) | 2:30 |
 | 32 | [Beam Me Up](https://open.spotify.com/track/5UHFb8yLe0CM0ZbSruszZZ) | [Terrell Morris](https://open.spotify.com/artist/7C3agcqFXnteDagiWhaZdU) | [Beam Me Up](https://open.spotify.com/album/5GODILGWp8FFKrRlwzZsEq) | 2:42 |
 | 33 | [Everything Lit](https://open.spotify.com/track/3ECYmjiIOeCCXrpSkVj8ff) | [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm) | [Everything Lit](https://open.spotify.com/album/5XL0ne5zAAok8w8A4mZ9Cx) | 2:25 |
 | 34 | [Kobe](https://open.spotify.com/track/44f0jZFyieEWipJurt4uKc) | [Burna Bandz](https://open.spotify.com/artist/6wyGyjn9ixZDXBwcapqapJ) | [Kobe](https://open.spotify.com/album/1efqKIssFx13CegKQxXUjP) | 2:43 |

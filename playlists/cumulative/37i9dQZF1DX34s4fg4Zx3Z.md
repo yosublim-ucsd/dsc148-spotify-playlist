@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Vietnam](https://open.spotify.com/playlist/37i9dQZF1DX34s4fg4Zx3Z)
 
-> Như thanh long trong mì tôm, đây là những 🎶 có thể lần đầu nghe đến\. Ảnh bìa: Em Ellata
+> Như thanh long trong mì tôm, đây là những 🎶 có thể lần đầu nghe đến\. Ảnh bìa: \(đố biết bé nào\)
 
-1,636 songs - 3 day 23 hr 44 min
+1,637 songs - 3 day 23 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -368,7 +368,7 @@
 | [Có Lẽ Em](https://open.spotify.com/track/0ynhJhW8yYIYiDFidHi8q4) | [Anh Thuw](https://open.spotify.com/artist/13CQCXBPWxKRXGVEMTl4B8), [PhucXP](https://open.spotify.com/artist/6fCJf6pkYTHfW1XPc1d4vO) | [Có Lẽ Em](https://open.spotify.com/album/638LrHCBbEsdLNeAjKQQYk) | 4:51 | 2023-03-31 | 2023-06-07 |
 | [Có Lẽ Em Đã](https://open.spotify.com/track/6vBEhOxPPENdaFVRVrWiCw) | [5Zone](https://open.spotify.com/artist/7g9mj1ec2xf7PY4x2ZZKpv) | [Có Lẽ Em Đã](https://open.spotify.com/album/7n9m1VPqn12fEqotyAFGzO) | 3:00 | 2022-01-06 | 2022-01-15 |
 | [Có Mùa Hạ Như Thế](https://open.spotify.com/track/1I67osLu2XjBfNg3qo4BnG) | [Đào Duy Quý](https://open.spotify.com/artist/66tegNzEwfuKGJHCmk5hvi) | [Có Mùa Hạ Như Thế](https://open.spotify.com/album/7MyB04AEJ46BO7xWjbDfdG) | 5:21 | 2022-06-16 | 2023-01-06 |
-| [có nhau](https://open.spotify.com/track/6j4VC5GSlWoNTkyGVm3plH) | [m tú](https://open.spotify.com/artist/7a6FvNRlbkR8oBXKIHUGr6) | [chơi trò yêu](https://open.spotify.com/album/5ojdqidRsbjusXhT3oEir2) | 3:07 | 2024-03-14 |  |
+| [có nhau](https://open.spotify.com/track/6j4VC5GSlWoNTkyGVm3plH) | [m tú](https://open.spotify.com/artist/7a6FvNRlbkR8oBXKIHUGr6) | [chơi trò yêu](https://open.spotify.com/album/5ojdqidRsbjusXhT3oEir2) | 3:07 | 2024-03-14 | 2024-05-27 |
 | [Có Nhau](https://open.spotify.com/track/4dU71Di6wSPcrmCHWiuXVE) | [SimonC](https://open.spotify.com/artist/6zOVCw3nQ3Yjs6uzNVF2OQ) | [Có Nhau](https://open.spotify.com/album/50wsXBvTQ8t2IU5RKBOJcs) | 3:28 | 2022-11-15 | 2023-03-21 |
 | [Có Phải Em Sợ Yêu](https://open.spotify.com/track/136CMqcfcctMLGBzrK45kr) | [Sóc Nâu](https://open.spotify.com/artist/3bFCDFiTz8uVUhdaepE5Mo) | [Có Phải Em Sợ Yêu](https://open.spotify.com/album/6c4XR3A54l5rCMfA3LJHE6) | 4:10 | 2022-05-19 | 2022-07-15 |
 | [có thể không](https://open.spotify.com/track/2u3OhkXik6ttV4wQoNWjup) | [Duniverse](https://open.spotify.com/artist/3h1HA6owjEkAHnIkMzYXoZ) | [có thể không](https://open.spotify.com/album/2F4FZU5TxUThjV1mmdM76e) | 3:20 | 2024-01-24 | 2024-03-22 |
@@ -869,6 +869,7 @@
 | [Mây Mưa](https://open.spotify.com/track/5UY2LGUTenQKzafvDCJUbY) | [Limitlxss](https://open.spotify.com/artist/7CvaEyUJFgQOdgzfqqU5t7) | [Mây Mưa](https://open.spotify.com/album/7gOmdp3IQpPkC6g2qsFISb) | 3:32 | 2022-08-13 | 2022-09-18 |
 | [mãi mãi là bao xa?](https://open.spotify.com/track/5JxNmOKocH6ahGqWaAD3xP) | [Như Ý](https://open.spotify.com/artist/2yAonJk1bzAOOcOEi0k5ZR), [Dr3am.Bao](https://open.spotify.com/artist/4SgF4REJtlXmbiCEynbJt0), [4GOD](https://open.spotify.com/artist/505RvBFg0AAvgXSFzgq7Ev) | [mãi mãi là bao xa?](https://open.spotify.com/album/2sVSjuUb6cB9OZKCooGpxl) | 3:15 | 2024-05-14 |  |
 | [Mê Cung](https://open.spotify.com/track/4LSkLESUXvxMSZHK17JP9V) | [Kiey](https://open.spotify.com/artist/5EUXxplcFbismt2ccPQNHd) | [Mê Cung](https://open.spotify.com/album/5WhJI04qlX3j2AUVFbnVEc) | 4:12 | 2023-09-08 | 2023-09-19 |
+| [Mê Cung Tình Yêu \(prod\. RIO\)](https://open.spotify.com/track/57NB3UNDK1VPTRH0N1pqe7) | [52Hz](https://open.spotify.com/artist/1y28JlO6rDMUB5rkcA4RAh) | [Mê Cung Tình Yêu \(prod\. RIO\)](https://open.spotify.com/album/45bGCkUeHNspinhIXAm5Oh) | 3:39 | 2024-05-26 |  |
 | [Mùa hè ký ức](https://open.spotify.com/track/3iv4TApPljiIpKbri19bvM) | [Hoàng Mai](https://open.spotify.com/artist/42NyKc5Q2Qhcod9HLa880T), [Hoàng Thống](https://open.spotify.com/artist/3fM2WF0qY1Ip9ffVvOzhjo) | [Mùa hè ký ức](https://open.spotify.com/album/5xRH8vw7TLTTWVWXvoNnn6) | 3:54 | 2023-07-26 | 2023-09-15 |
 | [mùa luyến lưu \(Prod\. KayTee\)](https://open.spotify.com/track/04hcNyE02jH5rOgwRe8vaE) | [1nG](https://open.spotify.com/artist/12scI4mEdyEDBi7cdkxkVZ) | [mùa luyến lưu \(Prod\. KayTee\)](https://open.spotify.com/album/0nfVRmZ9hjGMu0FnpMH2ua) | 4:13 | 2023-07-06 | 2023-08-11 |
 | [MÙA THU ĐI QUA](https://open.spotify.com/track/1NpcHGWVmb7Yh2UqE61w4a) | [Phạm Trương Bình](https://open.spotify.com/artist/4MUgLIEVzqgGrPepPRQ2yh) | [MÙA THU ĐI QUA](https://open.spotify.com/album/66USdlCzT6NS9aWoDjgK3g) | 4:26 | 2022-01-06 | 2023-01-06 |

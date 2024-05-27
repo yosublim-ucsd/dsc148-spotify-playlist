@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > Enjoy the freshest K\-Pop new releases \(Cover: SUHO\(수호\)\) \(국내 최신곡을 플레이리스트로 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,179 likes - 261 songs - 14 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,247 likes - 261 songs - 14 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 10 | [Ghost in the Flames](https://open.spotify.com/track/6VVvYxNRIu7wjzqe35T1M1) | [VORANAH](https://open.spotify.com/artist/3tiqYfeRIozfVNnniIB7ij), [Choi Eunseo](https://open.spotify.com/artist/3fP6Iszyd6eeevpfuURTtY) | [Ghost in the Flames](https://open.spotify.com/album/7FvMZsDLQbUqNaWAUNWhrk) | 3:52 |
 | 11 | [Romantic Blue](https://open.spotify.com/track/6iL2fixYH98rKrIx016O4l) | [som hevin](https://open.spotify.com/artist/6Nfyuu9CqmaLt7E71sbLf2) | [Romantic Blue](https://open.spotify.com/album/1r06kByKvP0iwo7o7mGM43) | 4:13 |
 | 12 | [ERROR 405](https://open.spotify.com/track/5YHnyxTGXKxzIFAeVab8rt) | [JD1](https://open.spotify.com/artist/6y0LC7jdOFxVUG164nXZoI) | [ERROR 405](https://open.spotify.com/album/2SqXKDRx3Dz58qLGZLkgaQ) | 2:48 |
-| 13 | [Ashes \(feat\. Ai Tomioka\)](https://open.spotify.com/track/1kcw0WhK11rDQGejHZUmfG) | [Zior Park](https://open.spotify.com/artist/4gkSpcyfxtm5OFoZCYWTeD), [Ai Tomioka](https://open.spotify.com/artist/6AXkwEv5wgjwooZOPf0l0q) | [Ashes \(feat\. Ai Tomioka\)](https://open.spotify.com/album/6LmkkkXUI3esLEAEdJYUA3) | 4:33 |
+| 13 | [Ashes \(feat\. Ai Tomioka\)](https://open.spotify.com/track/1kcw0WhK11rDQGejHZUmfG) | [Zior Park](https://open.spotify.com/artist/4gkSpcyfxtm5OFoZCYWTeD), [冨岡愛](https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi) | [Ashes \(feat\. Ai Tomioka\)](https://open.spotify.com/album/6LmkkkXUI3esLEAEdJYUA3) | 4:33 |
 | 14 | [Be with you](https://open.spotify.com/track/5MV95IEgBknT5P3w0vPEMx) | [GyeongseoYeji](https://open.spotify.com/artist/5crpfIGj4lAUNuHYUY2TN9), [Jeon Gunho](https://open.spotify.com/artist/3WFFsW6pFOm0e2yVQLTYCX) | [Be with you \(GyeongseoYeji x Jeon Gunho\)](https://open.spotify.com/album/1dCVR90sqAASghJP2ElQhs) | 3:37 |
 | 15 | [MONA LISA](https://open.spotify.com/track/6Y4Nd3eqBtpR5t0w45OF6g) | [SOOJIN](https://open.spotify.com/artist/0kB3Vlf3xDNZQz6NjAPJV8) | [RIZZ](https://open.spotify.com/album/7GvvvIC6U744OedOjuEIc2) | 2:40 |
 | 16 | [Seoul](https://open.spotify.com/track/7CZcjS9eKqi7UxTfQVeZDA) | [Yangpa](https://open.spotify.com/artist/05Tt2bRgkP3yY2TnpRMvpS) | [Seoul](https://open.spotify.com/album/2TEh8j3t1SIKENpjp2PGsx) | 4:01 |

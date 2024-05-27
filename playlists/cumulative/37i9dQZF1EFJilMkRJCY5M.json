@@ -777,6 +777,24 @@
     },
     {
       "album": {
+        "name": "Joyride",
+        "url": "https://open.spotify.com/album/381H6bOpR27wcH5lqGv5FA"
+      },
+      "artists": [
+        {
+          "name": "Astrid S",
+          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
+        }
+      ],
+      "date_added": "2024-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207000,
+      "name": "Howdy",
+      "url": "https://open.spotify.com/track/3tacvIn8QzjQLVaINE0ARa"
+    },
+    {
+      "album": {
         "name": "I Didn't Love You",
         "url": "https://open.spotify.com/album/0pdfobBNkrXR21XW204Sws"
       },
@@ -1343,6 +1361,24 @@
     },
     {
       "album": {
+        "name": "Joyride",
+        "url": "https://open.spotify.com/album/381H6bOpR27wcH5lqGv5FA"
+      },
+      "artists": [
+        {
+          "name": "Astrid S",
+          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
+        }
+      ],
+      "date_added": "2024-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "Oh Emma",
+      "url": "https://open.spotify.com/track/1QN3b7hY39xs4Gr2Szai5f"
+    },
+    {
+      "album": {
         "name": "Oh Emma",
         "url": "https://open.spotify.com/album/05X7826UK8nDVhJ0AOWNJp"
       },
@@ -1354,7 +1390,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-27",
       "duration_ms": 214000,
       "name": "Oh Emma",
       "url": "https://open.spotify.com/track/3Hw3iY34TYPXLDochBPjqc"

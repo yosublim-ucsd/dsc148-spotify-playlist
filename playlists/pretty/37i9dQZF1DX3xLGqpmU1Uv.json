@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Las canciones que pon\u00edan a bailar a todo M\u00e9xico!",
-  "num_followers": 156280,
+  "num_followers": 156317,
   "original_name": "Los 60 M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -159,22 +159,6 @@
     {
       "added_at": "2020-03-18 04:18:26",
       "album": {
-        "name": "Rock & Roll",
-        "url": "https://open.spotify.com/album/4mvqmX5poKlKB8lSkbz27K"
-      },
-      "artists": [
-        {
-          "name": "Los Crazy Boys",
-          "url": "https://open.spotify.com/artist/70OY1mGEfKH1KcV7lRD3QN"
-        }
-      ],
-      "duration_ms": 155533,
-      "name": "Corina, Corina",
-      "url": "https://open.spotify.com/track/5CXC1tQRXrLTtRkzVbPTe6"
-    },
-    {
-      "added_at": "2020-03-18 04:18:26",
-      "album": {
         "name": "Discos Del Mill\u00f3n",
         "url": "https://open.spotify.com/album/6UdmTdJKNARrt4QGRURZ8k"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 176493,
       "name": "Lagrimas De Cristal",
       "url": "https://open.spotify.com/track/16UEXcWy0r21FNGDxiMbgv"
+    },
+    {
+      "added_at": "2020-03-18 04:18:26",
+      "album": {
+        "name": "Rock & Roll",
+        "url": "https://open.spotify.com/album/4mvqmX5poKlKB8lSkbz27K"
+      },
+      "artists": [
+        {
+          "name": "Los Crazy Boys",
+          "url": "https://open.spotify.com/artist/70OY1mGEfKH1KcV7lRD3QN"
+        }
+      ],
+      "duration_ms": 155533,
+      "name": "Corina, Corina",
+      "url": "https://open.spotify.com/track/5CXC1tQRXrLTtRkzVbPTe6"
     },
     {
       "added_at": "2020-03-18 04:18:26",
@@ -303,6 +303,22 @@
     {
       "added_at": "2020-03-18 04:18:26",
       "album": {
+        "name": "Rock Con los Locos del Ritmo",
+        "url": "https://open.spotify.com/album/3NJEqRTgTBmum7F7tqgWKH"
+      },
+      "artists": [
+        {
+          "name": "Los Locos Del Ritmo",
+          "url": "https://open.spotify.com/artist/2jPG2QeccDfdNbOdGrjBwO"
+        }
+      ],
+      "duration_ms": 80764,
+      "name": "Yo No Soy Rebelde",
+      "url": "https://open.spotify.com/track/08U1KWevchrVHDNkQV2iO7"
+    },
+    {
+      "added_at": "2020-03-18 04:18:26",
+      "album": {
         "name": "15 De Los Moonlights",
         "url": "https://open.spotify.com/album/4Vs7lVsmEwUc5ii8yQIKUj"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 143506,
       "name": "La Novia de Mi Mejor Amigo (The Girl of My Best Friend)",
       "url": "https://open.spotify.com/track/4dXvc8kyze9DQpnV5veD54"
-    },
-    {
-      "added_at": "2020-03-18 04:18:26",
-      "album": {
-        "name": "Rock Con los Locos del Ritmo",
-        "url": "https://open.spotify.com/album/3NJEqRTgTBmum7F7tqgWKH"
-      },
-      "artists": [
-        {
-          "name": "Los Locos Del Ritmo",
-          "url": "https://open.spotify.com/artist/2jPG2QeccDfdNbOdGrjBwO"
-        }
-      ],
-      "duration_ms": 80764,
-      "name": "Yo No Soy Rebelde",
-      "url": "https://open.spotify.com/track/08U1KWevchrVHDNkQV2iO7"
     },
     {
       "added_at": "2020-03-18 04:18:26",
@@ -383,22 +383,6 @@
     {
       "added_at": "2020-03-18 04:18:26",
       "album": {
-        "name": "Al Claro de Luna",
-        "url": "https://open.spotify.com/album/25JxL7hnzWG9HdTqeBZhGl"
-      },
-      "artists": [
-        {
-          "name": "Rafael V\u00e1zquez",
-          "url": "https://open.spotify.com/artist/56UYVyXvw0Nb7iFKoiajGd"
-        }
-      ],
-      "duration_ms": 111493,
-      "name": "Al Claro de Luna",
-      "url": "https://open.spotify.com/track/23xY5vuCuLJfU8YRrpRdcY"
-    },
-    {
-      "added_at": "2020-03-18 04:18:26",
-      "album": {
         "name": "Peerless 80 Aniversario - 24 \u00c9xitos",
         "url": "https://open.spotify.com/album/40i47N3kz7CqKfBdZG5K2Q"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 155480,
       "name": "Hey Paula - Dueto con Arturo",
       "url": "https://open.spotify.com/track/3pay7GhZw0W6rJKej4Lz0C"
+    },
+    {
+      "added_at": "2020-03-18 04:18:26",
+      "album": {
+        "name": "Al Claro de Luna",
+        "url": "https://open.spotify.com/album/25JxL7hnzWG9HdTqeBZhGl"
+      },
+      "artists": [
+        {
+          "name": "Rafael V\u00e1zquez",
+          "url": "https://open.spotify.com/artist/56UYVyXvw0Nb7iFKoiajGd"
+        }
+      ],
+      "duration_ms": 111493,
+      "name": "Al Claro de Luna",
+      "url": "https://open.spotify.com/track/23xY5vuCuLJfU8YRrpRdcY"
     },
     {
       "added_at": "2020-03-18 04:18:26",
@@ -653,22 +653,6 @@
       "url": "https://open.spotify.com/track/6D42Z9S0Kms0ex3EYDR17o"
     },
     {
-      "added_at": "2023-03-25 17:44:53",
-      "album": {
-        "name": "Mamacita Donde Esta Santa Claus",
-        "url": "https://open.spotify.com/album/3sPPBL00EDtV8w3L4N6UDF"
-      },
-      "artists": [
-        {
-          "name": "Chabelo",
-          "url": "https://open.spotify.com/artist/1TOnulloO1kwAhFmH1QVJM"
-        }
-      ],
-      "duration_ms": 176848,
-      "name": "Aladino",
-      "url": "https://open.spotify.com/track/4OLxeBUasU6JxtOFwN4wXH"
-    },
-    {
       "added_at": "2020-03-18 04:18:26",
       "album": {
         "name": "Quiero Estrechar Tu Mano",
@@ -683,6 +667,22 @@
       "duration_ms": 137987,
       "name": "Quiero Estrechar Tu Mano",
       "url": "https://open.spotify.com/track/0qQKZd8KIEUteglkhX2m3P"
+    },
+    {
+      "added_at": "2023-03-25 17:44:53",
+      "album": {
+        "name": "Mamacita Donde Esta Santa Claus",
+        "url": "https://open.spotify.com/album/3sPPBL00EDtV8w3L4N6UDF"
+      },
+      "artists": [
+        {
+          "name": "Chabelo",
+          "url": "https://open.spotify.com/artist/1TOnulloO1kwAhFmH1QVJM"
+        }
+      ],
+      "duration_ms": 176848,
+      "name": "Aladino",
+      "url": "https://open.spotify.com/track/4OLxeBUasU6JxtOFwN4wXH"
     },
     {
       "added_at": "2020-03-18 04:18:26",
@@ -723,6 +723,22 @@
     {
       "added_at": "2020-03-18 04:18:26",
       "album": {
+        "name": "Edi Edi",
+        "url": "https://open.spotify.com/album/57VCb2iv9bJ095rueL3Bun"
+      },
+      "artists": [
+        {
+          "name": "Angelica Maria",
+          "url": "https://open.spotify.com/artist/4mQmpDH2FfT9FjSnAJV3U1"
+        }
+      ],
+      "duration_ms": 146477,
+      "name": "EdiEdi",
+      "url": "https://open.spotify.com/track/6gDBSDDiCNlbLhVTWXoQTl"
+    },
+    {
+      "added_at": "2020-03-18 04:18:26",
+      "album": {
         "name": "La Epoca de Oro del Twist",
         "url": "https://open.spotify.com/album/2ZDrQS9es2aIhu8TE8sVzc"
       },
@@ -737,20 +753,40 @@
       "url": "https://open.spotify.com/track/59nb1oLvL6KlVbicRw2ynO"
     },
     {
-      "added_at": "2020-03-18 04:18:26",
+      "added_at": "2023-03-25 17:44:53",
       "album": {
-        "name": "Edi Edi",
-        "url": "https://open.spotify.com/album/57VCb2iv9bJ095rueL3Bun"
+        "name": "Mamacita Donde Esta Santa Claus",
+        "url": "https://open.spotify.com/album/3sPPBL00EDtV8w3L4N6UDF"
       },
       "artists": [
         {
-          "name": "Angelica Maria",
-          "url": "https://open.spotify.com/artist/4mQmpDH2FfT9FjSnAJV3U1"
+          "name": "Chabelo",
+          "url": "https://open.spotify.com/artist/1TOnulloO1kwAhFmH1QVJM"
         }
       ],
-      "duration_ms": 146477,
-      "name": "EdiEdi",
-      "url": "https://open.spotify.com/track/6gDBSDDiCNlbLhVTWXoQTl"
+      "duration_ms": 120790,
+      "name": "Cha Cha Cha Be Bop",
+      "url": "https://open.spotify.com/track/39tj1h7QcC7S5VU9deXDAc"
+    },
+    {
+      "added_at": "2020-03-18 04:18:26",
+      "album": {
+        "name": "Historia Musical de Mis Exitos",
+        "url": "https://open.spotify.com/album/5IjKB1mEzXeHrlgsOT76Yy"
+      },
+      "artists": [
+        {
+          "name": "Johnny Laboriel",
+          "url": "https://open.spotify.com/artist/3LuvtpIFyGIY9RKuFaRiCs"
+        },
+        {
+          "name": "Los Rebeldes Del Rock",
+          "url": "https://open.spotify.com/artist/5ahSHu8Ulm48wkQalpmjb5"
+        }
+      ],
+      "duration_ms": 162840,
+      "name": "La Hiedra Venenosa",
+      "url": "https://open.spotify.com/track/67tL3C4baNQ3FqnUz0vn8p"
     },
     {
       "added_at": "2020-03-18 04:18:26",
@@ -783,38 +819,6 @@
       "duration_ms": 129793,
       "name": "Nena Baila Twist",
       "url": "https://open.spotify.com/track/6HHLbHoBBOIrrPM0SSFxD8"
-    },
-    {
-      "added_at": "2023-03-25 17:44:53",
-      "album": {
-        "name": "Mamacita Donde Esta Santa Claus",
-        "url": "https://open.spotify.com/album/3sPPBL00EDtV8w3L4N6UDF"
-      },
-      "artists": [
-        {
-          "name": "Chabelo",
-          "url": "https://open.spotify.com/artist/1TOnulloO1kwAhFmH1QVJM"
-        }
-      ],
-      "duration_ms": 120790,
-      "name": "Cha Cha Cha Be Bop",
-      "url": "https://open.spotify.com/track/39tj1h7QcC7S5VU9deXDAc"
-    },
-    {
-      "added_at": "2020-03-18 04:18:26",
-      "album": {
-        "name": "\u00c1lbum de Oro de Enrique Guzm\u00e1n",
-        "url": "https://open.spotify.com/album/6Lftm9Cfdy1A02odcreILy"
-      },
-      "artists": [
-        {
-          "name": "Enrique Guzman",
-          "url": "https://open.spotify.com/artist/4FeDV8T2wgjzYKBamSp7MG"
-        }
-      ],
-      "duration_ms": 132040,
-      "name": "Te Seguir\u00e9 (I Will Follow You)",
-      "url": "https://open.spotify.com/track/1YeJSfTv6Fgat5vrnRLtQ7"
     }
   ],
   "unique_name": "Los 60 M\u00e9xico",

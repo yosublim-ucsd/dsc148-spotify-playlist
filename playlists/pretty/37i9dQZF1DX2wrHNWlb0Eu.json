@@ -1,6 +1,6 @@
 {
   "description": "\u0e1e\u0e1a\u0e04\u0e19\u0e04\u0e25\u0e31\u0e48\u0e07\u0e23\u0e31\u0e01\u0e2b\u0e25\u0e32\u0e22\u0e2d\u0e31\u0e15\u0e23\u0e32\u0e43\u0e19\u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e19\u0e35\u0e49 #\u0e04\u0e25\u0e31\u0e48\u0e07\u0e23\u0e31\u0e01",
-  "num_followers": 105655,
+  "num_followers": 105690,
   "original_name": "\u0e04\u0e25\u0e31\u0e48\u0e07\u0e23\u0e31\u0e01",
   "owner": {
     "name": "Spotify",
@@ -123,22 +123,6 @@
     {
       "added_at": "2024-03-16 05:44:12",
       "album": {
-        "name": "Luxury",
-        "url": "https://open.spotify.com/album/0T8k6o8VFOi8Ve5ey2h6Yk"
-      },
-      "artists": [
-        {
-          "name": "D Gerrard",
-          "url": "https://open.spotify.com/artist/1k7MP2tMC43vM0b0wg8HHg"
-        }
-      ],
-      "duration_ms": 246923,
-      "name": "Luxury",
-      "url": "https://open.spotify.com/track/1EOWBTE1GPKcxz3wlR08tW"
-    },
-    {
-      "added_at": "2024-03-16 05:44:12",
-      "album": {
         "name": "\u0e0b\u0e39\u0e25\u0e39\u0e1b\u0e32\u0e01\u0e49\u0e32 \u0e15\u0e32\u0e1b\u0e32\u0e40\u0e2e\u0e49",
         "url": "https://open.spotify.com/album/31CyxkIPcTXFvzzARTGr9J"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 178909,
       "name": "\u0e2d\u0e32\u0e2b\u0e21\u0e27\u0e22\u0e2b\u0e32\u0e22 (\u963f\u59b9\u8d70 / Chinese Girl)",
       "url": "https://open.spotify.com/track/4rDCI4NQEBQrfTFN5epRYU"
+    },
+    {
+      "added_at": "2024-03-16 05:44:12",
+      "album": {
+        "name": "Luxury",
+        "url": "https://open.spotify.com/album/0T8k6o8VFOi8Ve5ey2h6Yk"
+      },
+      "artists": [
+        {
+          "name": "D Gerrard",
+          "url": "https://open.spotify.com/artist/1k7MP2tMC43vM0b0wg8HHg"
+        }
+      ],
+      "duration_ms": 246923,
+      "name": "Luxury",
+      "url": "https://open.spotify.com/track/1EOWBTE1GPKcxz3wlR08tW"
     },
     {
       "added_at": "2024-03-16 05:44:12",
@@ -291,22 +291,6 @@
     {
       "added_at": "2024-03-16 05:44:12",
       "album": {
-        "name": "Legend",
-        "url": "https://open.spotify.com/album/3WoDtnsZRzPRFbNlbkfFC1"
-      },
-      "artists": [
-        {
-          "name": "Whatcharawalee",
-          "url": "https://open.spotify.com/artist/0cGfitvwmFr2sSywioWYNM"
-        }
-      ],
-      "duration_ms": 247360,
-      "name": "\u0e25\u0e39\u0e01\u0e2d\u0e21",
-      "url": "https://open.spotify.com/track/0GbWc31BXewOO7ZYRR9RVn"
-    },
-    {
-      "added_at": "2024-03-16 05:44:12",
-      "album": {
         "name": "80 Kisses",
         "url": "https://open.spotify.com/album/4z8dyovQ2XGFESeEeRam95"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 242727,
       "name": "\u0e1e\u0e34\u0e07 (\u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e25\u0e30\u0e04\u0e23 \u0e01\u0e23\u0e30\u0e40\u0e0a\u0e49\u0e32\u0e2a\u0e35\u0e14\u0e32)",
       "url": "https://open.spotify.com/track/6MjLHdROTcaU22k7B6gxR6"
+    },
+    {
+      "added_at": "2024-03-16 05:44:12",
+      "album": {
+        "name": "Legend",
+        "url": "https://open.spotify.com/album/3WoDtnsZRzPRFbNlbkfFC1"
+      },
+      "artists": [
+        {
+          "name": "Whatcharawalee",
+          "url": "https://open.spotify.com/artist/0cGfitvwmFr2sSywioWYNM"
+        }
+      ],
+      "duration_ms": 247360,
+      "name": "\u0e25\u0e39\u0e01\u0e2d\u0e21",
+      "url": "https://open.spotify.com/track/0GbWc31BXewOO7ZYRR9RVn"
     },
     {
       "added_at": "2024-03-16 05:44:12",
@@ -499,22 +499,18 @@
     {
       "added_at": "2024-03-16 05:44:12",
       "album": {
-        "name": "\u0e40\u0e40\u0e1f\u0e19\u0e1c\u0e21\u0e19\u0e48\u0e32\u0e23\u0e31\u0e01",
-        "url": "https://open.spotify.com/album/2rFDr7JyK6wHOM0ou28ncj"
+        "name": "You (Are) Mean a Lot to Me",
+        "url": "https://open.spotify.com/album/1qYFmgwv3gwRwqa2oFGgbq"
       },
       "artists": [
         {
-          "name": "Bow Maylada",
-          "url": "https://open.spotify.com/artist/6ncWdDNCY4fQHIaGdfme4d"
-        },
-        {
-          "name": "Lipta",
-          "url": "https://open.spotify.com/artist/2DaMrZndfGgM3yd9ivadRC"
+          "name": "Blackbeans",
+          "url": "https://open.spotify.com/artist/3u45DFB1kjVXKwE14FKXCo"
         }
       ],
-      "duration_ms": 200000,
-      "name": "\u0e40\u0e40\u0e1f\u0e19\u0e1c\u0e21\u0e19\u0e48\u0e32\u0e23\u0e31\u0e01",
-      "url": "https://open.spotify.com/track/0GJHuhvKkuAnocAGNJvNw5"
+      "duration_ms": 271764,
+      "name": "Wish",
+      "url": "https://open.spotify.com/track/1ecud9LC1clhcuhjLIyyMB"
     },
     {
       "added_at": "2024-03-16 05:44:12",
@@ -539,18 +535,22 @@
     {
       "added_at": "2024-03-16 05:44:12",
       "album": {
-        "name": "You (Are) Mean a Lot to Me",
-        "url": "https://open.spotify.com/album/1qYFmgwv3gwRwqa2oFGgbq"
+        "name": "\u0e40\u0e40\u0e1f\u0e19\u0e1c\u0e21\u0e19\u0e48\u0e32\u0e23\u0e31\u0e01",
+        "url": "https://open.spotify.com/album/2rFDr7JyK6wHOM0ou28ncj"
       },
       "artists": [
         {
-          "name": "Blackbeans",
-          "url": "https://open.spotify.com/artist/3u45DFB1kjVXKwE14FKXCo"
+          "name": "Bow Maylada",
+          "url": "https://open.spotify.com/artist/6ncWdDNCY4fQHIaGdfme4d"
+        },
+        {
+          "name": "Lipta",
+          "url": "https://open.spotify.com/artist/2DaMrZndfGgM3yd9ivadRC"
         }
       ],
-      "duration_ms": 271764,
-      "name": "Wish",
-      "url": "https://open.spotify.com/track/1ecud9LC1clhcuhjLIyyMB"
+      "duration_ms": 200000,
+      "name": "\u0e40\u0e40\u0e1f\u0e19\u0e1c\u0e21\u0e19\u0e48\u0e32\u0e23\u0e31\u0e01",
+      "url": "https://open.spotify.com/track/0GJHuhvKkuAnocAGNJvNw5"
     },
     {
       "added_at": "2024-03-16 05:44:12",
@@ -963,22 +963,6 @@
     {
       "added_at": "2024-03-16 05:44:12",
       "album": {
-        "name": "\u0e40\u0e01\u0e34\u0e19\u0e15\u0e49\u0e32\u0e19 (Too Cute)",
-        "url": "https://open.spotify.com/album/41DGIzxgLakiFk7HKDfE5o"
-      },
-      "artists": [
-        {
-          "name": "PiXXiE",
-          "url": "https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "\u0e40\u0e01\u0e34\u0e19\u0e15\u0e49\u0e32\u0e19 - Too Cute",
-      "url": "https://open.spotify.com/track/7J2Kyx0vT5ss4AqMWR1q3c"
-    },
-    {
-      "added_at": "2024-03-16 05:44:12",
-      "album": {
         "name": "\u0e02\u0e49\u0e2d\u0e22\u0e01\u0e40\u0e27\u0e49\u0e19 (Exceptional)",
         "url": "https://open.spotify.com/album/6B21RxfWjt5eiNo9QchBIv"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 183238,
       "name": "\u0e02\u0e49\u0e2d\u0e22\u0e01\u0e40\u0e27\u0e49\u0e19 (Exceptional)",
       "url": "https://open.spotify.com/track/0T7uw5pfozE3gvom4ALE8D"
+    },
+    {
+      "added_at": "2024-03-16 05:44:12",
+      "album": {
+        "name": "\u0e40\u0e01\u0e34\u0e19\u0e15\u0e49\u0e32\u0e19 (Too Cute)",
+        "url": "https://open.spotify.com/album/41DGIzxgLakiFk7HKDfE5o"
+      },
+      "artists": [
+        {
+          "name": "PiXXiE",
+          "url": "https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "\u0e40\u0e01\u0e34\u0e19\u0e15\u0e49\u0e32\u0e19 - Too Cute",
+      "url": "https://open.spotify.com/track/7J2Kyx0vT5ss4AqMWR1q3c"
     },
     {
       "added_at": "2024-03-16 05:44:12",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2024-03-16 05:44:12",
       "album": {
-        "name": "TWO OF A KIND",
-        "url": "https://open.spotify.com/album/0SQz6m3XQIWrMqIluvyhNv"
-      },
-      "artists": [
-        {
-          "name": "No One Else",
-          "url": "https://open.spotify.com/artist/0UAiHanBWs5vRM1tSPf2RJ"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "\u0e40\u0e2b\u0e15\u0e38\u0e1c\u0e25\u0e02\u0e2d\u0e07\u0e01\u0e32\u0e23\u0e21\u0e35\u0e0a\u0e35\u0e27\u0e34\u0e15\u0e2d\u0e22\u0e39\u0e48 \u0e04\u0e37\u0e2d\u0e01\u0e32\u0e23\u0e44\u0e14\u0e49\u0e1e\u0e1a\u0e01\u0e31\u0e1a\u0e40\u0e18\u0e2d",
-      "url": "https://open.spotify.com/track/54LxQgugCAhs7ob7tXcefp"
-    },
-    {
-      "added_at": "2024-03-16 05:44:12",
-      "album": {
         "name": "\u0e1c\u0e39\u0e49\u0e40\u0e14\u0e35\u0e22\u0e27",
         "url": "https://open.spotify.com/album/2TiiQ167oW1svJVLppgOsv"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 205875,
       "name": "\u0e41\u0e04\u0e48\u0e40\u0e18\u0e2d\u0e40\u0e02\u0e49\u0e32\u0e21\u0e32 (Worth The Wait)",
       "url": "https://open.spotify.com/track/6a5f2v5IlyeEXQRn65MFdS"
+    },
+    {
+      "added_at": "2024-03-16 05:44:12",
+      "album": {
+        "name": "TWO OF A KIND",
+        "url": "https://open.spotify.com/album/0SQz6m3XQIWrMqIluvyhNv"
+      },
+      "artists": [
+        {
+          "name": "No One Else",
+          "url": "https://open.spotify.com/artist/0UAiHanBWs5vRM1tSPf2RJ"
+        }
+      ],
+      "duration_ms": 238000,
+      "name": "\u0e40\u0e2b\u0e15\u0e38\u0e1c\u0e25\u0e02\u0e2d\u0e07\u0e01\u0e32\u0e23\u0e21\u0e35\u0e0a\u0e35\u0e27\u0e34\u0e15\u0e2d\u0e22\u0e39\u0e48 \u0e04\u0e37\u0e2d\u0e01\u0e32\u0e23\u0e44\u0e14\u0e49\u0e1e\u0e1a\u0e01\u0e31\u0e1a\u0e40\u0e18\u0e2d",
+      "url": "https://open.spotify.com/track/54LxQgugCAhs7ob7tXcefp"
     },
     {
       "added_at": "2024-03-16 05:44:12",
@@ -1091,22 +1091,6 @@
       "duration_ms": 266893,
       "name": "\u0e04\u0e39\u0e48\u0e01\u0e31\u0e19 (Soulmate)",
       "url": "https://open.spotify.com/track/2SewBThepvNfjZ6fyBhGYT"
-    },
-    {
-      "added_at": "2024-03-16 05:44:12",
-      "album": {
-        "name": "Honeymoon",
-        "url": "https://open.spotify.com/album/4n7uzGGK7Hm79baUqwEGa9"
-      },
-      "artists": [
-        {
-          "name": "Morvasu",
-          "url": "https://open.spotify.com/artist/4S7sdsjS2srUTDPXAuOYw8"
-        }
-      ],
-      "duration_ms": 168750,
-      "name": "Honeymoon",
-      "url": "https://open.spotify.com/track/57bdxWnWc3uhzHXQ8Qf5Lq"
     },
     {
       "added_at": "2024-03-16 05:44:12",
@@ -1163,6 +1147,22 @@
       "duration_ms": 326326,
       "name": "\u0e43\u0e08\u0e01\u0e25\u0e32\u0e07\u0e04\u0e27\u0e32\u0e21\u0e23\u0e39\u0e49\u0e2a\u0e36\u0e01\u0e14\u0e35\u0e14\u0e35",
       "url": "https://open.spotify.com/track/5kEW70VzIYbKL7mUMV4fvH"
+    },
+    {
+      "added_at": "2024-03-16 05:44:12",
+      "album": {
+        "name": "Honeymoon",
+        "url": "https://open.spotify.com/album/4n7uzGGK7Hm79baUqwEGa9"
+      },
+      "artists": [
+        {
+          "name": "Morvasu",
+          "url": "https://open.spotify.com/artist/4S7sdsjS2srUTDPXAuOYw8"
+        }
+      ],
+      "duration_ms": 168750,
+      "name": "Honeymoon",
+      "url": "https://open.spotify.com/track/57bdxWnWc3uhzHXQ8Qf5Lq"
     },
     {
       "added_at": "2024-03-16 05:44:12",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2024-03-16 05:44:12",
       "album": {
-        "name": "\u0e43\u0e08\u0e2b\u0e32\u0e22\u0e2d\u0e48\u0e30 \u0e2a\u0e07\u0e2a\u0e31\u0e22\u0e2d\u0e22\u0e39\u0e48\u0e17\u0e35\u0e48\u0e40\u0e18\u0e2d (AirTag)",
-        "url": "https://open.spotify.com/album/2Y7LL9rhInVW0YH5uK0hMY"
-      },
-      "artists": [
-        {
-          "name": "Praesun",
-          "url": "https://open.spotify.com/artist/2Sh3qw7RhefxTOThPiGTb7"
-        }
-      ],
-      "duration_ms": 198979,
-      "name": "\u0e43\u0e08\u0e2b\u0e32\u0e22\u0e2d\u0e48\u0e30 \u0e2a\u0e07\u0e2a\u0e31\u0e22\u0e2d\u0e22\u0e39\u0e48\u0e17\u0e35\u0e48\u0e40\u0e18\u0e2d - AirTag",
-      "url": "https://open.spotify.com/track/1pFNuRW1pWWrDvw3d6HFfR"
-    },
-    {
-      "added_at": "2024-03-16 05:44:12",
-      "album": {
         "name": "\u0e40\u0e2d\u0e34\u0e4a\u0e15 \u0e20\u0e31\u0e17\u0e23\u0e27\u0e35 (New Single 2014)",
         "url": "https://open.spotify.com/album/3iz6z2BBom6ssqUtHYj1Bx"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 220613,
       "name": "YOU YOU YOU",
       "url": "https://open.spotify.com/track/2rse2ZT8eV8MT3nuglWeEb"
+    },
+    {
+      "added_at": "2024-03-16 05:44:12",
+      "album": {
+        "name": "\u0e43\u0e08\u0e2b\u0e32\u0e22\u0e2d\u0e48\u0e30 \u0e2a\u0e07\u0e2a\u0e31\u0e22\u0e2d\u0e22\u0e39\u0e48\u0e17\u0e35\u0e48\u0e40\u0e18\u0e2d (AirTag)",
+        "url": "https://open.spotify.com/album/2Y7LL9rhInVW0YH5uK0hMY"
+      },
+      "artists": [
+        {
+          "name": "Praesun",
+          "url": "https://open.spotify.com/artist/2Sh3qw7RhefxTOThPiGTb7"
+        }
+      ],
+      "duration_ms": 198979,
+      "name": "\u0e43\u0e08\u0e2b\u0e32\u0e22\u0e2d\u0e48\u0e30 \u0e2a\u0e07\u0e2a\u0e31\u0e22\u0e2d\u0e22\u0e39\u0e48\u0e17\u0e35\u0e48\u0e40\u0e18\u0e2d - AirTag",
+      "url": "https://open.spotify.com/track/1pFNuRW1pWWrDvw3d6HFfR"
     },
     {
       "added_at": "2024-03-16 05:44:12",
@@ -1483,26 +1483,6 @@
     {
       "added_at": "2024-03-16 05:44:12",
       "album": {
-        "name": "\u0e14\u0e39\u0e14\u0e1d\u0e38\u0e48\u0e19 (home.)",
-        "url": "https://open.spotify.com/album/1qbmY8Bpi6BStFmenXfGum"
-      },
-      "artists": [
-        {
-          "name": "Morvasu",
-          "url": "https://open.spotify.com/artist/4S7sdsjS2srUTDPXAuOYw8"
-        },
-        {
-          "name": "Violette Wautier",
-          "url": "https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu"
-        }
-      ],
-      "duration_ms": 175151,
-      "name": "\u0e14\u0e39\u0e14\u0e1d\u0e38\u0e48\u0e19 (home.)",
-      "url": "https://open.spotify.com/track/74H9bBeNa5SMITV645EYJs"
-    },
-    {
-      "added_at": "2024-03-16 05:44:12",
-      "album": {
         "name": "All You Need is Love 3",
         "url": "https://open.spotify.com/album/5mv8MrHfjarF9xeT1DHSpD"
       },
@@ -1527,18 +1507,22 @@
     {
       "added_at": "2024-03-16 05:44:12",
       "album": {
-        "name": "\u0e40\u0e18\u0e2d\u0e40\u0e0a\u0e37\u0e48\u0e2d\u0e40\u0e23\u0e37\u0e48\u0e2d\u0e07\u0e1e\u0e23\u0e2b\u0e21\u0e25\u0e34\u0e02\u0e34\u0e15\u0e2b\u0e23\u0e37\u0e2d\u0e40\u0e1b\u0e25\u0e48\u0e32 [Destiny]",
-        "url": "https://open.spotify.com/album/4ezYCgWj2GJL2IWo8ahwVc"
+        "name": "\u0e14\u0e39\u0e14\u0e1d\u0e38\u0e48\u0e19 (home.)",
+        "url": "https://open.spotify.com/album/1qbmY8Bpi6BStFmenXfGum"
       },
       "artists": [
         {
-          "name": "Catchy",
-          "url": "https://open.spotify.com/artist/4Rl3VVYfy6fvCyubmwyMat"
+          "name": "Morvasu",
+          "url": "https://open.spotify.com/artist/4S7sdsjS2srUTDPXAuOYw8"
+        },
+        {
+          "name": "Violette Wautier",
+          "url": "https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu"
         }
       ],
-      "duration_ms": 229166,
-      "name": "\u0e40\u0e18\u0e2d\u0e40\u0e0a\u0e37\u0e48\u0e2d\u0e40\u0e23\u0e37\u0e48\u0e2d\u0e07\u0e1e\u0e23\u0e2b\u0e21\u0e25\u0e34\u0e02\u0e34\u0e15\u0e2b\u0e23\u0e37\u0e2d\u0e40\u0e1b\u0e25\u0e48\u0e32 [Destiny]",
-      "url": "https://open.spotify.com/track/1vZPPkCUwCejpoPt9tzAFK"
+      "duration_ms": 175151,
+      "name": "\u0e14\u0e39\u0e14\u0e1d\u0e38\u0e48\u0e19 (home.)",
+      "url": "https://open.spotify.com/track/74H9bBeNa5SMITV645EYJs"
     },
     {
       "added_at": "2024-03-16 05:44:12",
@@ -1555,6 +1539,22 @@
       "duration_ms": 183300,
       "name": "\u0e23\u0e30\u0e22\u0e30\u0e2b\u0e31\u0e27\u0e43\u0e08",
       "url": "https://open.spotify.com/track/1ZvxQC3jxMuceMdoFo0Cor"
+    },
+    {
+      "added_at": "2024-03-16 05:44:12",
+      "album": {
+        "name": "\u0e40\u0e18\u0e2d\u0e40\u0e0a\u0e37\u0e48\u0e2d\u0e40\u0e23\u0e37\u0e48\u0e2d\u0e07\u0e1e\u0e23\u0e2b\u0e21\u0e25\u0e34\u0e02\u0e34\u0e15\u0e2b\u0e23\u0e37\u0e2d\u0e40\u0e1b\u0e25\u0e48\u0e32 [Destiny]",
+        "url": "https://open.spotify.com/album/4ezYCgWj2GJL2IWo8ahwVc"
+      },
+      "artists": [
+        {
+          "name": "Catchy",
+          "url": "https://open.spotify.com/artist/4Rl3VVYfy6fvCyubmwyMat"
+        }
+      ],
+      "duration_ms": 229166,
+      "name": "\u0e40\u0e18\u0e2d\u0e40\u0e0a\u0e37\u0e48\u0e2d\u0e40\u0e23\u0e37\u0e48\u0e2d\u0e07\u0e1e\u0e23\u0e2b\u0e21\u0e25\u0e34\u0e02\u0e34\u0e15\u0e2b\u0e23\u0e37\u0e2d\u0e40\u0e1b\u0e25\u0e48\u0e32 [Destiny]",
+      "url": "https://open.spotify.com/track/1vZPPkCUwCejpoPt9tzAFK"
     },
     {
       "added_at": "2024-03-16 05:44:12",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2024-03-16 05:44:12",
       "album": {
-        "name": "Best of MR.TEAM",
-        "url": "https://open.spotify.com/album/2fCIKdtXMGGbDzZXerpLXl"
-      },
-      "artists": [
-        {
-          "name": "Mr.Team",
-          "url": "https://open.spotify.com/artist/3idQlYHIpkPc7NjGqeCerH"
-        }
-      ],
-      "duration_ms": 243946,
-      "name": "\u0e04\u0e19\u0e43\u0e19\u0e1d\u0e31\u0e19 (\u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e25\u0e30\u0e04\u0e23 \u0e1d\u0e31\u0e19\u0e40\u0e1f\u0e37\u0e48\u0e2d\u0e07)",
-      "url": "https://open.spotify.com/track/5wAiiV03L8YP5HnH0ePMON"
-    },
-    {
-      "added_at": "2024-03-16 05:44:12",
-      "album": {
         "name": "\u0e25\u0e31\u0e01\u0e29\u0e4c\u0e21\u0e34\u0e27\u0e2a\u0e34\u0e04",
         "url": "https://open.spotify.com/album/7ffq7DZvkhHbTBZ721CQ9i"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 267133,
       "name": "\u0e04\u0e33\u0e16\u0e32\u0e21",
       "url": "https://open.spotify.com/track/0IFIKMchcHNwvl4owtoKaF"
+    },
+    {
+      "added_at": "2024-03-16 05:44:12",
+      "album": {
+        "name": "Best of MR.TEAM",
+        "url": "https://open.spotify.com/album/2fCIKdtXMGGbDzZXerpLXl"
+      },
+      "artists": [
+        {
+          "name": "Mr.Team",
+          "url": "https://open.spotify.com/artist/3idQlYHIpkPc7NjGqeCerH"
+        }
+      ],
+      "duration_ms": 243946,
+      "name": "\u0e04\u0e19\u0e43\u0e19\u0e1d\u0e31\u0e19 (\u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e25\u0e30\u0e04\u0e23 \u0e1d\u0e31\u0e19\u0e40\u0e1f\u0e37\u0e48\u0e2d\u0e07)",
+      "url": "https://open.spotify.com/track/5wAiiV03L8YP5HnH0ePMON"
     },
     {
       "added_at": "2024-03-16 05:44:12",
@@ -1675,22 +1675,18 @@
     {
       "added_at": "2024-03-16 05:44:12",
       "album": {
-        "name": "\u0e40\u0e04\u0e35\u0e22\u0e07\u0e01\u0e31\u0e19 - Single",
-        "url": "https://open.spotify.com/album/06lJwr75SxBCdJkS9VAR3V"
+        "name": "\u0e20\u0e39\u0e40\u0e02\u0e32\u0e1a\u0e31\u0e07\u0e40\u0e2a\u0e49\u0e19\u0e1c\u0e21 (Hide you)",
+        "url": "https://open.spotify.com/album/29eQN5K2vGOaYyeGxENsEr"
       },
       "artists": [
         {
-          "name": "Gun Napat",
-          "url": "https://open.spotify.com/artist/051lp6s3ON69PxioINt2xE"
-        },
-        {
-          "name": "D Gerrard",
-          "url": "https://open.spotify.com/artist/1k7MP2tMC43vM0b0wg8HHg"
+          "name": "Stamp",
+          "url": "https://open.spotify.com/artist/4e3QCzBNkr0t3GGqo86Ofl"
         }
       ],
-      "duration_ms": 292949,
-      "name": "\u0e40\u0e04\u0e35\u0e22\u0e07\u0e01\u0e31\u0e19",
-      "url": "https://open.spotify.com/track/2zq7H7SWQC9ldZy1f7e8kC"
+      "duration_ms": 219500,
+      "name": "\u0e20\u0e39\u0e40\u0e02\u0e32\u0e1a\u0e31\u0e07\u0e40\u0e2a\u0e49\u0e19\u0e1c\u0e21 (Hide you) feat. TWOPEE",
+      "url": "https://open.spotify.com/track/5kHLmBd3GTMIFhWdD3berA"
     }
   ],
   "unique_name": "\u0e04\u0e25\u0e31\u0e48\u0e07\u0e23\u0e31\u0e01",

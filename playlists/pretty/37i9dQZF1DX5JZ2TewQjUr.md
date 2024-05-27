@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: iii
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,281 likes - 112 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,285 likes - 112 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Last Dance](https://open.spotify.com/track/36pgnsYrvUUHeT17OXvuhK) | [iii](https://open.spotify.com/artist/3pQeUO1dZJCsibkawRfUYT) | [Last Dance](https://open.spotify.com/album/0sIGEXqcZns2OcywMnWeTj) | 2:21 |
 | 2 | [Confetti](https://open.spotify.com/track/1gdGrigcX8XMqs0mIYsxTo) | [Joya](https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu) | [Confetti](https://open.spotify.com/album/0j8IM4yNhayiWsBL4Vuedy) | 1:57 |
 | 3 | [Artifacts](https://open.spotify.com/track/1xnQDD9z1wLhCngqbeGbOz) | [Sam Kaiser](https://open.spotify.com/artist/36U2ZqoHfSHMraW6SCEOkw) | [Artifacts](https://open.spotify.com/album/0stU8tjWmS7lASx4X3TE0Y) | 2:59 |
-| 4 | [chasing time](https://open.spotify.com/track/2BV6kBmNvphHboUgcDZhRP) | [Dodo Museum](https://open.spotify.com/artist/0hImZdHwKiM7ftmeGUNQwX) | [chasing time](https://open.spotify.com/album/6ZzBZpjCqmMm7PBMtrPvgG) | 3:14 |
+| 4 | [Chasing Time](https://open.spotify.com/track/2BV6kBmNvphHboUgcDZhRP) | [Dodo Museum](https://open.spotify.com/artist/0hImZdHwKiM7ftmeGUNQwX) | [Chasing Time](https://open.spotify.com/album/6ZzBZpjCqmMm7PBMtrPvgG) | 3:14 |
 | 5 | [漂流鯨](https://open.spotify.com/track/71MtuDzB0yuqB5Zx8ayf5X) | [INTROVERSE](https://open.spotify.com/artist/71md0yuGVfBVCun7P4AyKn) | [漂流鯨](https://open.spotify.com/album/3zo9y6MG8FWBcouA05hQSk) | 4:31 |
 | 6 | [BUTTERFLIES](https://open.spotify.com/track/4z5gS7C4LphtrMFHiQcDUu) | [Flare](https://open.spotify.com/artist/5fOFTVTh01fR3j1D0vpxOQ) | [BUTTERFLIES](https://open.spotify.com/album/2RNF3bStKxEkhbDRxe9IYF) | 3:01 |
 | 7 | [how to turn back time](https://open.spotify.com/track/2MoU4hW1nOM7yklUuZ65VG) | [Lester Lam](https://open.spotify.com/artist/2oicwXEZfc7OVHxgpszBX9) | [how to turn back time](https://open.spotify.com/album/15OQPvRdza0fyAul8CiCyY) | 3:19 |

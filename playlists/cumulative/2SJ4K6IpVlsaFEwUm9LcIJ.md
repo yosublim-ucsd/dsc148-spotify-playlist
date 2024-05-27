@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to: may\-june 2024 \(previous playlists archived on my profile\)
 
-166 songs - 8 hr 31 min
+168 songs - 8 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [Ohio](https://open.spotify.com/track/7CQvwewBvkpX67eLoYqetW) | [Lambchop](https://open.spotify.com/artist/2Lhs0asnFQiLuntn3s8p78) | [OH \(Ohio\)](https://open.spotify.com/album/6BQv93NiGNNikZ3QrHacFh) | 2:24 | 2024-04-25 | 2024-05-16 |
 | [Oil Change](https://open.spotify.com/track/1HWvG3032Yvd6pmOD0ePFy) | [LUCY \(Cooper B\. Handy\)](https://open.spotify.com/artist/16j0wVUk9UOoYEDknfb9rK), [i.v](https://open.spotify.com/artist/1j2x2XlKDXkrz52H1BrocF) | [100% PROD I.V.](https://open.spotify.com/album/4MGjgJ8yPEZmmjwE4IgW6y) | 1:32 | 2024-03-20 | 2024-05-16 |
 | [Older Girlfriend](https://open.spotify.com/track/35cOIlpsujIkwOKU3nP5kz) | [Florry](https://open.spotify.com/artist/5b1DzFl2lTpE9v5fjAZ9kn) | [Big Fall](https://open.spotify.com/album/72T9QLgSceh15vOo4PxUck) | 1:52 | 2024-05-16 |  |
+| [On Box Hill](https://open.spotify.com/track/12zeveHIA4DLzT6wzbCeZ3) | [Ben Watt](https://open.spotify.com/artist/4RIOH6XCUt1Xr8NLUj2u66) | [North Marine Drive](https://open.spotify.com/album/4h4SztkCFmYZOQpUD7kLR2) | 2:27 | 2024-05-26 |  |
 | [On Returning \- 2006 Remastered Version](https://open.spotify.com/track/4JILOKNjlAzjCFlJlR6ouI) | [Wire](https://open.spotify.com/artist/2i8ynmFv4qgRksyDlBgi6d) | [154 \(2006 Remastered Version\)](https://open.spotify.com/album/2ajuLWJSuzHFeTceC1A4bW) | 2:06 | 2024-01-15 | 2024-03-10 |
 | [On The Train](https://open.spotify.com/track/5Dw1XDLQqqCf2OCnJwvcQm) | [Janis Ian](https://open.spotify.com/artist/5c9uFWpZY2MTlk7Rft0tgp) | [Present Company](https://open.spotify.com/album/4rxGfUytpBrNvaDDbZVpAj) | 1:36 | 2024-05-16 |  |
 | [One Part Be My Lover](https://open.spotify.com/track/4pdZpMvjlYo7m31DrhCStB) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Luck Of The Draw](https://open.spotify.com/album/6blrkOZ0VmkhYPjfoD7eqf) | 5:06 | 2024-01-24 | 2024-03-10 |
@@ -162,6 +163,7 @@
 | [The Duke Of Burgundy](https://open.spotify.com/track/5FCJpFKaJrPrXy8YyK9vBG) | [Cat's Eyes](https://open.spotify.com/artist/6DdzNsmghFtH7toJKhQfF6) | [The Duke Of Burgundy \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3L2QXOFpMeZaU2xxJXZPur) | 2:18 | 2024-05-16 |  |
 | [The Farmer](https://open.spotify.com/track/540dXWvRAQjXmg4gvhjxET) | [The Good Ones](https://open.spotify.com/artist/7rIF4gQrWPRDL020SG2eKD) | [RWANDA, you should be loved](https://open.spotify.com/album/35TaKsgwSCeVEH7Zq8fsfG) | 2:43 | 2024-02-27 | 2024-03-10 |
 | [The Kindness of Strangers](https://open.spotify.com/track/3oKX2xnyyWbkXFPWkL7ncF) | [The American Analog Set](https://open.spotify.com/artist/376EkILFaF7BFBHr9Rzn7A) | [Know by Heart](https://open.spotify.com/album/2V3jlwKVWObfRDzgnL3E2S) | 3:26 | 2024-04-04 | 2024-05-16 |
+| [The Sweetest Gift](https://open.spotify.com/track/6r9jhN0mryXMDKIol3XhO8) | [Sulah Jordan](https://open.spotify.com/artist/2g57r5gsJqgHbLSJ21yy1o) | [The Sweetest Gift](https://open.spotify.com/album/3EaNsumSSiHJvXIN371vuA) | 3:33 | 2024-05-26 |  |
 | [Today Or Tomorrow](https://open.spotify.com/track/1XqvZaj7UvnR8SFGwAZmFh) | [Karate](https://open.spotify.com/artist/6U26vGPwnCQcNDr9Dpj0Y0) | [In Place Of Real Insight](https://open.spotify.com/album/3Zlq4jLSKwaPekmVFR7BcD) | 1:58 | 2024-03-09 | 2024-05-16 |
 | [Top of Morning](https://open.spotify.com/track/0UfIarGCDsKojnn6p4LvTx) | [The Hang\-Ups](https://open.spotify.com/artist/16YEyKB4T5ayo9Ss0QvI9V) | [So We Go](https://open.spotify.com/album/70t2UqAkgVrD68eEPq4q7V) | 2:41 | 2024-04-01 | 2024-05-16 |
 | [Towards the Light](https://open.spotify.com/track/5Hfek3OCEOxOVeywQjK1aK) | [The Boo Radleys](https://open.spotify.com/artist/6UYwzZChuolxsylHcZcBBP) | [Everything's Alright Forever](https://open.spotify.com/album/6HyyVAjYEHdjSjFDAU86Gx) | 1:41 | 2024-01-09 | 2024-03-10 |

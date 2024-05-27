@@ -644,7 +644,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-20",
+      "date_removed": null,
       "duration_ms": 185227,
       "name": "Fuego",
       "url": "https://open.spotify.com/track/09E7BhLRJzvbZu764omlgl"
@@ -1216,7 +1216,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-27",
       "duration_ms": 212097,
       "name": "Rey de Reyes",
       "url": "https://open.spotify.com/track/1V5YTw9TVDAqebL0COO7A2"
@@ -1390,7 +1390,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-27",
       "duration_ms": 168829,
       "name": "Tambor Azteca",
       "url": "https://open.spotify.com/track/7IQ9IZCU8ytPhcUcunwYW9"
@@ -1412,6 +1412,28 @@
       "duration_ms": 131250,
       "name": "Tas pedita bb?",
       "url": "https://open.spotify.com/track/5jvYkMOu0IpNjGzH080zDI"
+    },
+    {
+      "album": {
+        "name": "Teneloa Kuikayotl",
+        "url": "https://open.spotify.com/album/5pEcECmzDCO3lzDuZ7VI1W"
+      },
+      "artists": [
+        {
+          "name": "Syztema",
+          "url": "https://open.spotify.com/artist/7vD4lx9RkcbWuyRnkFLTY1"
+        },
+        {
+          "name": "Klpuyi",
+          "url": "https://open.spotify.com/artist/1cA6ivn5bqKKiHOYegYPzk"
+        }
+      ],
+      "date_added": "2024-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174423,
+      "name": "Teneloa Kuikayotl",
+      "url": "https://open.spotify.com/track/2mfIS4UaVhXS0wbWWyIBW7"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "\ubc9a\uaf43\uc774 \ud769\ub0a0\ub9ac\uace0 \uc0c8\uc2f9\uc774 \ud53c\uc5b4\uc624\ub974\ub294 \ubd04\uc758 \uc124\ub808\uc784\uc744 \ub9cc\ub07d\ud558\uc138\uc694.",
-  "num_followers": 7047,
+  "num_followers": 7050,
   "original_name": "*\ubd04 \uc124\ub808\uc784",
   "owner": {
     "name": "Spotify",
@@ -239,22 +239,6 @@
     {
       "added_at": "2024-05-09 15:41:17",
       "album": {
-        "name": "Full Album RED PLANET",
-        "url": "https://open.spotify.com/album/5bA5ItGeDXS2XIt9axBSwL"
-      },
-      "artists": [
-        {
-          "name": "BOL4",
-          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
-        }
-      ],
-      "duration_ms": 213853,
-      "name": "Galaxy",
-      "url": "https://open.spotify.com/track/15c7KZTrsCUxCQcOdUVELc"
-    },
-    {
-      "added_at": "2024-05-09 15:41:17",
-      "album": {
         "name": "Be Melodramatic (Original Television Soundtrack), Pt. 3",
         "url": "https://open.spotify.com/album/5ceWbG2nV9xM9z9ZYdD3Mg"
       },
@@ -291,6 +275,38 @@
     {
       "added_at": "2024-05-09 15:41:17",
       "album": {
+        "name": "Full Album RED PLANET",
+        "url": "https://open.spotify.com/album/5bA5ItGeDXS2XIt9axBSwL"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "duration_ms": 213853,
+      "name": "Galaxy",
+      "url": "https://open.spotify.com/track/15c7KZTrsCUxCQcOdUVELc"
+    },
+    {
+      "added_at": "2024-05-09 15:41:17",
+      "album": {
+        "name": "IU 5th Album 'LILAC'",
+        "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 229573,
+      "name": "Epilogue",
+      "url": "https://open.spotify.com/track/6rcwrRWKyjaFyUL8b8GlIJ"
+    },
+    {
+      "added_at": "2024-05-09 15:41:17",
+      "album": {
         "name": "LOVE & HATE",
         "url": "https://open.spotify.com/album/60zMaSh93HpKs9ii52V0wJ"
       },
@@ -323,22 +339,6 @@
     {
       "added_at": "2024-05-09 15:41:17",
       "album": {
-        "name": "flutter",
-        "url": "https://open.spotify.com/album/4DYirkpT6zwQBYx08vGvLV"
-      },
-      "artists": [
-        {
-          "name": "KyoungSeo",
-          "url": "https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA"
-        }
-      ],
-      "duration_ms": 196920,
-      "name": "flutter",
-      "url": "https://open.spotify.com/track/3kVJpd0l97dvphaiML7p61"
-    },
-    {
-      "added_at": "2024-05-09 15:41:17",
-      "album": {
         "name": "Why isn't love always easy? (Romance 101 X JOY)",
         "url": "https://open.spotify.com/album/5CGt6ALaaHUzCHtbqhpDJi"
       },
@@ -355,18 +355,18 @@
     {
       "added_at": "2024-05-09 15:41:17",
       "album": {
-        "name": "IU 5th Album 'LILAC'",
-        "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
+        "name": "flutter",
+        "url": "https://open.spotify.com/album/4DYirkpT6zwQBYx08vGvLV"
       },
       "artists": [
         {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+          "name": "KyoungSeo",
+          "url": "https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA"
         }
       ],
-      "duration_ms": 229573,
-      "name": "Epilogue",
-      "url": "https://open.spotify.com/track/6rcwrRWKyjaFyUL8b8GlIJ"
+      "duration_ms": 196920,
+      "name": "flutter",
+      "url": "https://open.spotify.com/track/3kVJpd0l97dvphaiML7p61"
     },
     {
       "added_at": "2024-05-09 15:41:17",
@@ -391,22 +391,6 @@
       "duration_ms": 168970,
       "name": "Timing",
       "url": "https://open.spotify.com/track/6faWCeNTlxIbXHXsJK9abm"
-    },
-    {
-      "added_at": "2024-05-09 15:41:17",
-      "album": {
-        "name": "Full Album RED PLANET",
-        "url": "https://open.spotify.com/album/5bA5ItGeDXS2XIt9axBSwL"
-      },
-      "artists": [
-        {
-          "name": "BOL4",
-          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
-        }
-      ],
-      "duration_ms": 157749,
-      "name": "Mean",
-      "url": "https://open.spotify.com/track/3r8mOSPtXvoXSBTbmbaQcP"
     },
     {
       "added_at": "2024-05-09 15:41:17",
@@ -459,6 +443,54 @@
     {
       "added_at": "2024-05-09 15:41:17",
       "album": {
+        "name": "IU 5th Album 'LILAC'",
+        "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 324280,
+      "name": "Hi spring Bye",
+      "url": "https://open.spotify.com/track/2M7a2Us8CEU1HZHj70byGX"
+    },
+    {
+      "added_at": "2024-05-09 15:41:17",
+      "album": {
+        "name": "Full Album RED PLANET",
+        "url": "https://open.spotify.com/album/5bA5ItGeDXS2XIt9axBSwL"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "duration_ms": 157749,
+      "name": "Mean",
+      "url": "https://open.spotify.com/track/3r8mOSPtXvoXSBTbmbaQcP"
+    },
+    {
+      "added_at": "2024-05-09 15:41:17",
+      "album": {
+        "name": "Delivery Man, Pt. 2 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6nGoz0SzaiNs00WUBuxysF"
+      },
+      "artists": [
+        {
+          "name": "KyoungSeo",
+          "url": "https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA"
+        }
+      ],
+      "duration_ms": 164861,
+      "name": "Dream about You",
+      "url": "https://open.spotify.com/track/4bctbXea9zAHvdHrA41DXD"
+    },
+    {
+      "added_at": "2024-05-09 15:41:17",
+      "album": {
         "name": "The Interest of Love (Original Television Soundtrack, Pt.1)",
         "url": "https://open.spotify.com/album/2LEJvE8JDCf8ttruz5sFLm"
       },
@@ -491,38 +523,6 @@
     {
       "added_at": "2024-05-09 15:41:17",
       "album": {
-        "name": "Delivery Man, Pt. 2 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/6nGoz0SzaiNs00WUBuxysF"
-      },
-      "artists": [
-        {
-          "name": "KyoungSeo",
-          "url": "https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA"
-        }
-      ],
-      "duration_ms": 164861,
-      "name": "Dream about You",
-      "url": "https://open.spotify.com/track/4bctbXea9zAHvdHrA41DXD"
-    },
-    {
-      "added_at": "2024-05-09 15:41:17",
-      "album": {
-        "name": "IU 5th Album 'LILAC'",
-        "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 324280,
-      "name": "Hi spring Bye",
-      "url": "https://open.spotify.com/track/2M7a2Us8CEU1HZHj70byGX"
-    },
-    {
-      "added_at": "2024-05-09 15:41:17",
-      "album": {
         "name": "GOMAK BOYS",
         "url": "https://open.spotify.com/album/2AvUSHJRehVLcanWAJFzM9"
       },
@@ -535,22 +535,6 @@
       "duration_ms": 204120,
       "name": "Sweet Thing",
       "url": "https://open.spotify.com/track/6l7uDfH7H3BDLH08rFX79a"
-    },
-    {
-      "added_at": "2024-05-09 15:41:17",
-      "album": {
-        "name": "Full Album RED PLANET",
-        "url": "https://open.spotify.com/album/5bA5ItGeDXS2XIt9axBSwL"
-      },
-      "artists": [
-        {
-          "name": "BOL4",
-          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
-        }
-      ],
-      "duration_ms": 190279,
-      "name": "Chocolate Drive",
-      "url": "https://open.spotify.com/track/0z4PaEdeIpX4yJPNBdN34x"
     },
     {
       "added_at": "2024-05-09 15:41:17",
@@ -571,6 +555,22 @@
       "duration_ms": 190746,
       "name": "Who?",
       "url": "https://open.spotify.com/track/18LJbCkas0JWVIrSWsnucr"
+    },
+    {
+      "added_at": "2024-05-09 15:41:17",
+      "album": {
+        "name": "Full Album RED PLANET",
+        "url": "https://open.spotify.com/album/5bA5ItGeDXS2XIt9axBSwL"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "duration_ms": 190279,
+      "name": "Chocolate Drive",
+      "url": "https://open.spotify.com/track/0z4PaEdeIpX4yJPNBdN34x"
     },
     {
       "added_at": "2024-05-09 15:41:17",
@@ -663,22 +663,6 @@
     {
       "added_at": "2024-05-09 15:41:17",
       "album": {
-        "name": "Racket Boys (Original Television Soundtrack) Pt. 5",
-        "url": "https://open.spotify.com/album/3LZCD80VWyUCWwJW9wuxLX"
-      },
-      "artists": [
-        {
-          "name": "\ubc15\uc9c0\uc6d0",
-          "url": "https://open.spotify.com/artist/6twRzRI2pKTWXJn19doT41"
-        }
-      ],
-      "duration_ms": 203386,
-      "name": "Cloud",
-      "url": "https://open.spotify.com/track/10WR5K1KXPTw0fkHoc7Iah"
-    },
-    {
-      "added_at": "2024-05-09 15:41:17",
-      "album": {
         "name": "Spring",
         "url": "https://open.spotify.com/album/1wGIkXzSpJd7VfoGJBkVbs"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 173880,
       "name": "Spring",
       "url": "https://open.spotify.com/track/2jqFUiYryAqZRbCNA5D1oM"
+    },
+    {
+      "added_at": "2024-05-09 15:41:17",
+      "album": {
+        "name": "Racket Boys (Original Television Soundtrack) Pt. 5",
+        "url": "https://open.spotify.com/album/3LZCD80VWyUCWwJW9wuxLX"
+      },
+      "artists": [
+        {
+          "name": "\ubc15\uc9c0\uc6d0",
+          "url": "https://open.spotify.com/artist/6twRzRI2pKTWXJn19doT41"
+        }
+      ],
+      "duration_ms": 203386,
+      "name": "Cloud",
+      "url": "https://open.spotify.com/track/10WR5K1KXPTw0fkHoc7Iah"
     },
     {
       "added_at": "2024-05-09 15:41:17",
@@ -783,6 +783,22 @@
     {
       "added_at": "2024-05-09 15:41:17",
       "album": {
+        "name": "Heart in Motion",
+        "url": "https://open.spotify.com/album/4mFnHs0Q8PXVeibICq4w15"
+      },
+      "artists": [
+        {
+          "name": "The Green Tea",
+          "url": "https://open.spotify.com/artist/2YSSfMg2K75oTvfc63kGQB"
+        }
+      ],
+      "duration_ms": 247666,
+      "name": "Green Tea",
+      "url": "https://open.spotify.com/track/2Y7cOqDqsA2MpQ4HX4B8MD"
+    },
+    {
+      "added_at": "2024-05-09 15:41:17",
+      "album": {
         "name": "D_iary page.2",
         "url": "https://open.spotify.com/album/28ir5sUSxl9dkPD1jjeBKv"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 246653,
       "name": "Look & Spring (Feat. Ko Young Bae of Soran)",
       "url": "https://open.spotify.com/track/6slTRsKXks38DEsCxRgrVp"
-    },
-    {
-      "added_at": "2024-05-09 15:41:17",
-      "album": {
-        "name": "Heart in Motion",
-        "url": "https://open.spotify.com/album/4mFnHs0Q8PXVeibICq4w15"
-      },
-      "artists": [
-        {
-          "name": "The Green Tea",
-          "url": "https://open.spotify.com/artist/2YSSfMg2K75oTvfc63kGQB"
-        }
-      ],
-      "duration_ms": 247666,
-      "name": "Green Tea",
-      "url": "https://open.spotify.com/track/2Y7cOqDqsA2MpQ4HX4B8MD"
     },
     {
       "added_at": "2024-05-09 15:41:17",
@@ -875,22 +875,6 @@
     {
       "added_at": "2024-05-09 15:41:17",
       "album": {
-        "name": "AFTER THE LIGHT",
-        "url": "https://open.spotify.com/album/0o5EHrWY8OhObL2HwHNGpv"
-      },
-      "artists": [
-        {
-          "name": "Kang Butter",
-          "url": "https://open.spotify.com/artist/44YDdiwbvzPtVvKOA6uWS7"
-        }
-      ],
-      "duration_ms": 194453,
-      "name": "AFTER THE LIGHT",
-      "url": "https://open.spotify.com/track/7CAlzZZI89CpcNgw0rTIHh"
-    },
-    {
-      "added_at": "2024-05-09 15:41:17",
-      "album": {
         "name": "Mini Stewardess",
         "url": "https://open.spotify.com/album/0uU0wcGNAp8ODhVCosMWab"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 202823,
       "name": "Mini Stewardess",
       "url": "https://open.spotify.com/track/2kG9KpdmG8hKdJI6UOQZiN"
+    },
+    {
+      "added_at": "2024-05-09 15:41:17",
+      "album": {
+        "name": "AFTER THE LIGHT",
+        "url": "https://open.spotify.com/album/0o5EHrWY8OhObL2HwHNGpv"
+      },
+      "artists": [
+        {
+          "name": "Kang Butter",
+          "url": "https://open.spotify.com/artist/44YDdiwbvzPtVvKOA6uWS7"
+        }
+      ],
+      "duration_ms": 194453,
+      "name": "AFTER THE LIGHT",
+      "url": "https://open.spotify.com/track/7CAlzZZI89CpcNgw0rTIHh"
     },
     {
       "added_at": "2024-05-09 15:41:17",
@@ -963,22 +963,6 @@
     {
       "added_at": "2024-05-09 15:41:17",
       "album": {
-        "name": "Idle Idle",
-        "url": "https://open.spotify.com/album/5oJiWLZ8JGsYPh9Pdq9D2s"
-      },
-      "artists": [
-        {
-          "name": "Sunwoojunga",
-          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
-        }
-      ],
-      "duration_ms": 196616,
-      "name": "Spring Attitude",
-      "url": "https://open.spotify.com/track/0oX3uukKkz0aBEXl3RxxyC"
-    },
-    {
-      "added_at": "2024-05-09 15:41:17",
-      "album": {
         "name": "Paints (feat. 1ho)",
         "url": "https://open.spotify.com/album/5zPPNCnontFzam8kszcCIZ"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 182315,
       "name": "Paints (feat. 1ho)",
       "url": "https://open.spotify.com/track/4OtqERJlgW34oCFGZVmkF7"
+    },
+    {
+      "added_at": "2024-05-09 15:41:17",
+      "album": {
+        "name": "Idle Idle",
+        "url": "https://open.spotify.com/album/5oJiWLZ8JGsYPh9Pdq9D2s"
+      },
+      "artists": [
+        {
+          "name": "Sunwoojunga",
+          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
+        }
+      ],
+      "duration_ms": 196616,
+      "name": "Spring Attitude",
+      "url": "https://open.spotify.com/track/0oX3uukKkz0aBEXl3RxxyC"
     },
     {
       "added_at": "2024-05-09 15:41:17",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2024-05-09 15:41:17",
       "album": {
+        "name": "Whenever",
+        "url": "https://open.spotify.com/album/4eROUE77uAdbbmGQIHxe9V"
+      },
+      "artists": [
+        {
+          "name": "Izykite",
+          "url": "https://open.spotify.com/artist/5U1sDgoWfJGV8dwlvnuxvx"
+        }
+      ],
+      "duration_ms": 200880,
+      "name": "Whenever",
+      "url": "https://open.spotify.com/track/2kWXuRojPl7wWoo7DqBEPe"
+    },
+    {
+      "added_at": "2024-05-09 15:41:17",
+      "album": {
         "name": "Spring",
         "url": "https://open.spotify.com/album/6IF62ngGe6loJjiRwgap8s"
       },
@@ -1255,18 +1271,18 @@
     {
       "added_at": "2024-05-09 15:41:17",
       "album": {
-        "name": "Whenever",
-        "url": "https://open.spotify.com/album/4eROUE77uAdbbmGQIHxe9V"
+        "name": "Weird Boy",
+        "url": "https://open.spotify.com/album/6EJ0l23dnuI89XY09Vbh9s"
       },
       "artists": [
         {
-          "name": "Izykite",
-          "url": "https://open.spotify.com/artist/5U1sDgoWfJGV8dwlvnuxvx"
+          "name": "murmoom",
+          "url": "https://open.spotify.com/artist/2vsaAlNouG0tPd8CMKj7l3"
         }
       ],
-      "duration_ms": 200880,
-      "name": "Whenever",
-      "url": "https://open.spotify.com/track/2kWXuRojPl7wWoo7DqBEPe"
+      "duration_ms": 217035,
+      "name": "Weird Boy",
+      "url": "https://open.spotify.com/track/1S6Kx6dOOWlJecLe1fM3Sm"
     },
     {
       "added_at": "2024-05-09 15:41:17",
@@ -1287,22 +1303,6 @@
       "duration_ms": 184615,
       "name": "Stay With Me (feat. Brick)",
       "url": "https://open.spotify.com/track/3hMhTQuyerdLRPATMY61CR"
-    },
-    {
-      "added_at": "2024-05-09 15:41:17",
-      "album": {
-        "name": "Weird Boy",
-        "url": "https://open.spotify.com/album/6EJ0l23dnuI89XY09Vbh9s"
-      },
-      "artists": [
-        {
-          "name": "murmoom",
-          "url": "https://open.spotify.com/artist/2vsaAlNouG0tPd8CMKj7l3"
-        }
-      ],
-      "duration_ms": 217035,
-      "name": "Weird Boy",
-      "url": "https://open.spotify.com/track/1S6Kx6dOOWlJecLe1fM3Sm"
     }
   ],
   "unique_name": "*\ubd04 \uc124\ub808\uc784",

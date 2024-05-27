@@ -4,7 +4,7 @@
 
 > The pulse of Latin House 💃🏻💃🏻
 
-249 songs - 13 hr 35 min
+250 songs - 13 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,7 +118,7 @@
 | [Gringada](https://open.spotify.com/track/5vnQUEjtukbbnWcrnigfpT) | [Costa Leon](https://open.spotify.com/artist/3vkZeJ4Gkrwmy21vHPrsDh), [DJ Cuervo](https://open.spotify.com/artist/1L1RMOhubngzDWQzrRB9UH) | [Gringada](https://open.spotify.com/album/31IgBVgxGhUfMUGlA6wZAq) | 2:48 | 2024-01-05 | 2024-04-11 |
 | [Guataqui](https://open.spotify.com/track/1j5ocYQRNSZRoj7L5ekkqn) | [Jimmi Rider](https://open.spotify.com/artist/1cd0IMgYU4aMsi2fSh8jJV) | [Guataqui](https://open.spotify.com/album/6JfaLOnI9Q6K31FoHPADyY) | 2:16 | 2024-03-22 |  |
 | [Hagüe](https://open.spotify.com/track/0lpy5ODb3Hk08nGa5izWb6) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta) | [Hagüe](https://open.spotify.com/album/0fdy6q55zq1iYKuMkuCJfH) | 2:57 | 2023-11-10 | 2023-12-09 |
-| [HAVANA](https://open.spotify.com/track/1okjg2DZKCyA0w0iCDd10s) | [Vince Morgana](https://open.spotify.com/artist/3OSIswp0zBG2rR96q1Rwp8), [GLADYS](https://open.spotify.com/artist/1Prt0hPO7hG4KRGs9DPpDf) | [HAVANA](https://open.spotify.com/album/4a01OCAe3GzRCRpx67bXFN) | 2:26 | 2024-01-05 |  |
+| [HAVANA](https://open.spotify.com/track/1okjg2DZKCyA0w0iCDd10s) | [Vince Morgana](https://open.spotify.com/artist/3OSIswp0zBG2rR96q1Rwp8), [GLADYS](https://open.spotify.com/artist/1Prt0hPO7hG4KRGs9DPpDf) | [HAVANA](https://open.spotify.com/album/4a01OCAe3GzRCRpx67bXFN) | 2:26 | 2024-01-05 | 2024-05-27 |
 | [Hijos De La Noche](https://open.spotify.com/track/1XgsBtX1glXMrclgp6JBb5) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Roots EP, Pt\. 1](https://open.spotify.com/album/2WWgsiqIgoEURvWaYZaiK2) | 3:36 | 2023-11-10 |  |
 | [Hombres y Mujeres](https://open.spotify.com/track/71L9EZo8OEaZINg75dBUSW) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Hombres y Mujeres](https://open.spotify.com/album/0xlWEENUvq7Tseg7mxMJuI) | 2:28 | 2023-11-10 |  |
 | [Jaleo](https://open.spotify.com/track/1YcBeCPxCdPCxXOrWJEiwm) | [Kenny Brian](https://open.spotify.com/artist/11Wf5ZORjHp2zPQxbRTyKc), [Gregor Salto](https://open.spotify.com/artist/0l59CBSPDfKBXlyHya0pew) | [Jaleo](https://open.spotify.com/album/1ZdmmuqN2FXZrSvR4bvu0C) | 3:07 | 2021-10-08 |  |
@@ -218,6 +218,7 @@
 | [Te Marchar](https://open.spotify.com/track/6INdWhk0oJqeVLZQiTwpIx) | [Karma Child](https://open.spotify.com/artist/4BThBqcTzRGFRvbddMykk7) | [Te Marchar](https://open.spotify.com/album/6F7DYs7EZRgEg3fUOuvVSN) | 3:00 | 2024-02-02 |  |
 | [Te Recorde](https://open.spotify.com/track/307t8QD6epX1YcP0MgNXur) | [Calussa](https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW), [Subelo NEO](https://open.spotify.com/artist/5jNjbQYkujIbjSvvKroBlv) | [Te Recorde](https://open.spotify.com/album/753nHiBiBSY5SIJbpn5B5P) | 2:47 | 2024-02-16 |  |
 | [The Sound](https://open.spotify.com/track/5OM3s2BBEPrVjZAnBtFgAv) | [Ollie BC](https://open.spotify.com/artist/7crjp3htKFvWTqzRjdnjmQ) | [The Sound](https://open.spotify.com/album/2Hy9l4nv7LKZaEIwKwjsby) | 2:46 | 2024-04-19 | 2024-05-03 |
+| [Tiki Tiki](https://open.spotify.com/track/3j6NrZ43zwIPANl4kcDUs8) | [HÄWK](https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady) | [Tiki Tiki](https://open.spotify.com/album/2iE41dsSA4TVsWkPhf1o0V) | 2:04 | 2024-05-24 |  |
 | [Tikitro](https://open.spotify.com/track/3PUNw4b3t5xgANXPhvOioW) | [Band&dos](https://open.spotify.com/artist/68OOyVnaUOq7m4cxQmZslI), [Tony Guerra](https://open.spotify.com/artist/5qURuhcV6ZjUfe1iYsC2Py) | [Tikitro](https://open.spotify.com/album/5urqD5lw9nAIFh5QQDWECs) | 5:32 | 2024-02-02 | 2024-02-24 |
 | [Tocate](https://open.spotify.com/track/0hmovhJh8gx8Ito3nbPRQy) | [Conrado](https://open.spotify.com/artist/5SRZIc21bFdo3fRxOaoF9e), [Cach House](https://open.spotify.com/artist/4Ulkh8tuR73CcyXaJ5F8oc) | [Tocate](https://open.spotify.com/album/1J69wY1wgzllb0AisNy99J) | 3:10 | 2024-04-05 | 2024-04-19 |
 | [Toma Dale](https://open.spotify.com/track/3plaSBlILmcUoVBAHDca5c) | [Classmatic](https://open.spotify.com/artist/2vOQkFQDXp4QV77pnlet6m), [Nfasis](https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM) | [Toma Dale](https://open.spotify.com/album/3OWVF4FS8KScMPHZ5avdUr) | 5:23 | 2023-12-01 |  |

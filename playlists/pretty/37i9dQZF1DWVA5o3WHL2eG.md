@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume\. Cover: Esther Graf
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,088 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,095 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 9 | [FRENCH NAILS \(feat\. badmómzjay\)](https://open.spotify.com/track/4UozTqtYZF22YTnCvloI2a) | [BOUNTY & COCOA](https://open.spotify.com/artist/6LPDid2j16uSQ3qSLmIwFR), [badmómzjay](https://open.spotify.com/artist/7oWrEQO1d3klp0Qrfh7a5h) | [FRENCH NAILS \(feat\. badmómzjay\)](https://open.spotify.com/album/5wkRilmh3Wpy4RC0WpjUJO) | 2:51 |
 | 10 | [27](https://open.spotify.com/track/5uhqML0FUdcm8BQyAKAiH5) | [Loredana](https://open.spotify.com/artist/2Im8m4STDBosjfmb5hmP80) | [27](https://open.spotify.com/album/7qD7D5oMrJJq0rQnx5Mlqm) | 2:48 |
 | 11 | [Glas](https://open.spotify.com/track/7xqTCITPEJ1l08ui4Xe8rB) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Glas](https://open.spotify.com/album/1oMWwWSqcGxpn2YhsYkNt6) | 2:42 |
-| 12 | [Vergleiche](https://open.spotify.com/track/0HsuCKvms8l9GxRABl6S13) | [Wilhelmine](https://open.spotify.com/artist/4f5pBvQZzdOGpFF0pwtUZG), [MELE](https://open.spotify.com/artist/6Lk699bosWcOqCMFLJFrPp) | [Meere](https://open.spotify.com/album/25G3mIHCrSMheIv5qkPCRF) | 2:53 |
-| 13 | [Zur Party](https://open.spotify.com/track/6HvHh0njau7LPTrBbzEpYX) | [6euroneunzig](https://open.spotify.com/artist/4pEmzp8WBdyO0HsKZyW26A) | [Zur Party](https://open.spotify.com/album/0E3q5uvaRE1i7tEAntDwk4) | 2:16 |
+| 12 | [Zur Party](https://open.spotify.com/track/6HvHh0njau7LPTrBbzEpYX) | [6euroneunzig](https://open.spotify.com/artist/4pEmzp8WBdyO0HsKZyW26A) | [Zur Party](https://open.spotify.com/album/0E3q5uvaRE1i7tEAntDwk4) | 2:16 |
+| 13 | [Vergleiche](https://open.spotify.com/track/0HsuCKvms8l9GxRABl6S13) | [Wilhelmine](https://open.spotify.com/artist/4f5pBvQZzdOGpFF0pwtUZG), [MELE](https://open.spotify.com/artist/6Lk699bosWcOqCMFLJFrPp) | [Meere](https://open.spotify.com/album/25G3mIHCrSMheIv5qkPCRF) | 2:53 |
 | 14 | [Frag für ne Freundin](https://open.spotify.com/track/4XcC60aHv6XrbcXIH6a9mz) | [NESS](https://open.spotify.com/artist/0860MVRZC3Llgf1mFvnd1R) | [Frag für ne Freundin](https://open.spotify.com/album/0aAnxAv2lfiALp1hLeXrRh) | 2:30 |
 | 15 | [Otto Normal](https://open.spotify.com/track/2XuDucWOZOUjneQXyRVyay) | [Paula Carolina](https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ) | [Otto Normal](https://open.spotify.com/album/7q9qdj3phwZm7rpuccOSC9) | 2:37 |
 | 16 | [Okay](https://open.spotify.com/track/0UPFZwrNWHwzqVHv5E7nVX) | [LUANA](https://open.spotify.com/artist/1n5afsM6tuJMrJJbkH5xob) | [Okay](https://open.spotify.com/album/2Xq0W6DDHiTLhDvbwTVgy1) | 2:49 |
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 21 | [without youuuuuu](https://open.spotify.com/track/17roRXWz1PpKHSAfa9loSM) | [FILLY](https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f) | [without youuuuuu](https://open.spotify.com/album/0azPkhbOmfVecSTCAzWC0w) | 1:55 |
 | 22 | [HIGHWAY \(feat\. ELIF\)](https://open.spotify.com/track/2UD1csihq8aPrpM69C2XrW) | [Katja Krasavice](https://open.spotify.com/artist/0lFLP59V4TY3XgnrkFIwxK), [ELIF](https://open.spotify.com/artist/65AzRSW0jKSs0WtttEXrOw) | [HIGHWAY \(feat\. ELIF\)](https://open.spotify.com/album/7KvmaGO2mmsSHnPLZLUQUw) | 2:44 |
 | 23 | [Fühl](https://open.spotify.com/track/479s4TFZOPLHaxU48yLQS3) | [Lina Maly](https://open.spotify.com/artist/0VVKg6krYM45eGuevSlcRk), [Antje Schomaker](https://open.spotify.com/artist/7Kif1sqh6J226OZFwUgt8n) | [Hush Hush / Hamburg](https://open.spotify.com/album/3K1F9IVCnkC5PvEqTldm2t) | 3:41 |
-| 24 | [blei](https://open.spotify.com/track/0lkhukcLEhY3j9Nlo4NhqL) | [Haiyti](https://open.spotify.com/artist/3NjbpG6MmFGVLXwbcPXH90) | [blei](https://open.spotify.com/album/4IVG5q7oP8gdz1dQOPaRNx) | 3:35 |
-| 25 | [Kreislauf](https://open.spotify.com/track/7lswBD5MqA6skQ8GqF5NIE) | [Sandra Isabel](https://open.spotify.com/artist/1GuE4swTdDZSwFfED65JFW) | [Kreislauf](https://open.spotify.com/album/16ep6MA5PAcoJYeA6TFq07) | 3:27 |
+| 24 | [Kreislauf](https://open.spotify.com/track/7lswBD5MqA6skQ8GqF5NIE) | [Sandra Isabel](https://open.spotify.com/artist/1GuE4swTdDZSwFfED65JFW) | [Kreislauf](https://open.spotify.com/album/16ep6MA5PAcoJYeA6TFq07) | 3:27 |
+| 25 | [blei](https://open.spotify.com/track/0lkhukcLEhY3j9Nlo4NhqL) | [Haiyti](https://open.spotify.com/artist/3NjbpG6MmFGVLXwbcPXH90) | [blei](https://open.spotify.com/album/4IVG5q7oP8gdz1dQOPaRNx) | 3:35 |
 | 26 | [GOLDEN DAYS](https://open.spotify.com/track/4ILpHcE56e3JDNpNp0MpRN) | [UCHE YARA](https://open.spotify.com/artist/2yOJnAGg41NV4aech301xj) | [GOLDEN DAYS](https://open.spotify.com/album/2ki5n6obbcJSlGr7DpZkWB) | 3:13 |
 | 27 | [schwimmen](https://open.spotify.com/track/31RHwrytSvMUs7OHsyLKof) | [LUNA](https://open.spotify.com/artist/2RrkjxcwXz281MxRs8Oqp7) | [schwimmen](https://open.spotify.com/album/6HsjhilXJoDkVLBRpmo1hy) | 2:07 |
 | 28 | [Ohne Mich](https://open.spotify.com/track/0UZsZ6BPr4bvY1menn8cTI) | [Eunique](https://open.spotify.com/artist/7MSwVATA5fRIxRA6Z0BmTe) | [Ohne Mich](https://open.spotify.com/album/4G5OX3QAgtpFZxrVX12z5B) | 2:15 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 42 | [boy with a view](https://open.spotify.com/track/0bZzFF42ekiHt6RiEtg7bN) | [PENNY X](https://open.spotify.com/artist/1mZDFbH4t9JsKKvbBXf4fi) | [boy with a view](https://open.spotify.com/album/2180izgqQiuEGUHEKTZXFN) | 3:07 |
 | 43 | [wallflower seat](https://open.spotify.com/track/0lKbAgyN01m8bSyLOF6MzX) | [Philippa Kinsky](https://open.spotify.com/artist/6Ef2HLmifsqFi0VtoeY7C0) | [wallflower seat](https://open.spotify.com/album/3fV9Xejgo5j5fLENobtaxW) | 2:53 |
 | 44 | [Parisienne](https://open.spotify.com/track/6cbcJF0GK7nDxivAE49Ghj) | [Kitana](https://open.spotify.com/artist/1FBJzPfimpHWiTrKDoOwDK) | [Parisienne](https://open.spotify.com/album/07TPulmVVkFEEAQNyL0i0G) | 2:58 |
-| 45 | [Hoffe, dir geht's mies](https://open.spotify.com/track/2OGDD8ZZBnXLkj3gtbxFf9) | [Victoryaz](https://open.spotify.com/artist/6F71TTGaz9SrRCJhCzGhNk) | [Hoffe, dir geht's mies](https://open.spotify.com/album/5Qag9d6zz6QDY16sB2ZTrq) | 3:13 |
-| 46 | [Mess](https://open.spotify.com/track/1qYhzHIUKlHZ28jWyFHgN3) | [SISKA](https://open.spotify.com/artist/19q87hpkmn9TWk4164sHsN) | [MESS](https://open.spotify.com/album/3dbDjrPXsQoCDo4HUykPQb) | 2:47 |
+| 45 | [Mess](https://open.spotify.com/track/1qYhzHIUKlHZ28jWyFHgN3) | [SISKA](https://open.spotify.com/artist/19q87hpkmn9TWk4164sHsN) | [MESS](https://open.spotify.com/album/3dbDjrPXsQoCDo4HUykPQb) | 2:47 |
+| 46 | [Hoffe, dir geht's mies](https://open.spotify.com/track/2OGDD8ZZBnXLkj3gtbxFf9) | [Victoryaz](https://open.spotify.com/artist/6F71TTGaz9SrRCJhCzGhNk) | [Hoffe, dir geht's mies](https://open.spotify.com/album/5Qag9d6zz6QDY16sB2ZTrq) | 3:13 |
 | 47 | [Frauen](https://open.spotify.com/track/5WfgoryvbxSLzNesIX4dtR) | [Phela](https://open.spotify.com/artist/4RdpPeOQsSPTOvBXleAp0O) | [Frauen](https://open.spotify.com/album/5TFOk1GBIkOpIMY3AiauKX) | 2:38 |
 | 48 | [Kein Feuerwerk](https://open.spotify.com/track/3qwaxNH0LpkKgGeaY9iWUD) | [Karen](https://open.spotify.com/artist/4sCAyOtOmFdleJ6fXsIsfb) | [Kein Feuerwerk](https://open.spotify.com/album/6ptzrTMrswVzRpbbVFrR1Q) | 2:42 |
 | 49 | [Intuition](https://open.spotify.com/track/49XXncwWflTuvpSh4fcUjt) | [TAM](https://open.spotify.com/artist/7x6QjaVDrueDmZ8k5qyhaz) | [Intuition](https://open.spotify.com/album/4edpnAXY6FjFrRP84nPhYU) | 2:45 |

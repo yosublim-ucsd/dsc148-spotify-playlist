@@ -1,13 +1,129 @@
 {
-  "description": "Nh\u01b0 thanh long trong m\u00ec t\u00f4m, \u0111\u00e2y l\u00e0 nh\u1eefng \ud83c\udfb6 c\u00f3 th\u1ec3 l\u1ea7n \u0111\u1ea7u nghe \u0111\u1ebfn. \u1ea2nh b\u00eca: Em Ellata ",
-  "num_followers": 22806,
+  "description": "Nh\u01b0 thanh long trong m\u00ec t\u00f4m, \u0111\u00e2y l\u00e0 nh\u1eefng \ud83c\udfb6 c\u00f3 th\u1ec3 l\u1ea7n \u0111\u1ea7u nghe \u0111\u1ebfn. \u1ea2nh b\u00eca: (\u0111\u1ed1 bi\u1ebft b\u00e9 n\u00e0o)",
+  "num_followers": 22810,
   "original_name": "Fresh Finds Vietnam",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlCXhAAAAABVyhsJppYuQW6zv2Op5nnc",
+  "snapshot_id": "ZlNqkAAAAADR7TEkZLPrGILb8jMGFbJT",
   "tracks": [
+    {
+      "added_at": "2024-05-26 17:00:00",
+      "album": {
+        "name": "M\u00ea Cung T\u00ecnh Y\u00eau (prod. RIO)",
+        "url": "https://open.spotify.com/album/45bGCkUeHNspinhIXAm5Oh"
+      },
+      "artists": [
+        {
+          "name": "52Hz",
+          "url": "https://open.spotify.com/artist/1y28JlO6rDMUB5rkcA4RAh"
+        }
+      ],
+      "duration_ms": 219090,
+      "name": "M\u00ea Cung T\u00ecnh Y\u00eau (prod. RIO)",
+      "url": "https://open.spotify.com/track/57NB3UNDK1VPTRH0N1pqe7"
+    },
+    {
+      "added_at": "2024-05-24 13:35:00",
+      "album": {
+        "name": "H\u1ee8A CHO VUI TH\u00d4I",
+        "url": "https://open.spotify.com/album/0xVtki7OzoWkp8YDbbdUqF"
+      },
+      "artists": [
+        {
+          "name": "Cassano",
+          "url": "https://open.spotify.com/artist/34xBbPMcvr4EInfpUB0NEo"
+        },
+        {
+          "name": "MPacific",
+          "url": "https://open.spotify.com/artist/14FD1l1CkUVp1VL4z77acy"
+        }
+      ],
+      "duration_ms": 255319,
+      "name": "H\u1ee8A CHO VUI TH\u00d4I",
+      "url": "https://open.spotify.com/track/5RiBeTz0vDYwC2xgjCmxnt"
+    },
+    {
+      "added_at": "2024-05-24 13:35:00",
+      "album": {
+        "name": "Kissing You In The Moonlight",
+        "url": "https://open.spotify.com/album/0ospNwcHIuf7MKbw8uGGZT"
+      },
+      "artists": [
+        {
+          "name": "DUCCI",
+          "url": "https://open.spotify.com/artist/6dTVAhB03h53w5MHSUXhtY"
+        },
+        {
+          "name": "Hu\u00f4ng",
+          "url": "https://open.spotify.com/artist/30JCoaqvbonz0DY1x5qTuA"
+        }
+      ],
+      "duration_ms": 212705,
+      "name": "Kissing You In The Moonlight",
+      "url": "https://open.spotify.com/track/1dWzF9U7fDioZ02wGXjC1a"
+    },
+    {
+      "added_at": "2024-05-24 13:35:00",
+      "album": {
+        "name": "Ng\u01b0\u1eddi M\u01a1",
+        "url": "https://open.spotify.com/album/7m8BhmovQDD2kfNR6SE5di"
+      },
+      "artists": [
+        {
+          "name": "Mi ch\u01a1i nh\u1ea1c",
+          "url": "https://open.spotify.com/artist/1JffEN8eY4bET6EiLNvy7f"
+        }
+      ],
+      "duration_ms": 236259,
+      "name": "T\u1ec9nh Gi\u1ea5c",
+      "url": "https://open.spotify.com/track/3oaqPPnxgRsyCmYsZcAbVb"
+    },
+    {
+      "added_at": "2024-05-24 13:35:00",
+      "album": {
+        "name": "T\u00e2m Tr\u00ed Em",
+        "url": "https://open.spotify.com/album/2O8sI6M3mYH9whdrw6OPwX"
+      },
+      "artists": [
+        {
+          "name": "Linh Ka",
+          "url": "https://open.spotify.com/artist/6gXUsziOuoRCgmtm62Nrny"
+        },
+        {
+          "name": "Mason Nguyen",
+          "url": "https://open.spotify.com/artist/2s5hnhD9L1iohSpPZKnOhv"
+        }
+      ],
+      "duration_ms": 205092,
+      "name": "T\u00e2m Tr\u00ed Em",
+      "url": "https://open.spotify.com/track/2a9VFIWrZB5J2BY8LPUKsU"
+    },
+    {
+      "added_at": "2024-05-24 13:35:00",
+      "album": {
+        "name": "Luv",
+        "url": "https://open.spotify.com/album/4zz6bSF50QAYylIlckj77v"
+      },
+      "artists": [
+        {
+          "name": "Shartnuss",
+          "url": "https://open.spotify.com/artist/2BoU3GzyaG397l5ci1twa9"
+        },
+        {
+          "name": "Tr.D",
+          "url": "https://open.spotify.com/artist/6jiITlNS4hrm3dq90ZDftJ"
+        },
+        {
+          "name": "Phankeo",
+          "url": "https://open.spotify.com/artist/2rv0GwxSEWKhz54nLluNhK"
+        }
+      ],
+      "duration_ms": 254304,
+      "name": "N\u1eafng c\u00f3 mang em v\u1ec1",
+      "url": "https://open.spotify.com/track/6kCU6i8iRrAAmJJ8Sj4JYC"
+    },
     {
       "added_at": "2024-05-24 13:35:00",
       "album": {
@@ -687,22 +803,6 @@
     {
       "added_at": "2024-05-24 13:35:00",
       "album": {
-        "name": "ch\u01a1i tr\u00f2 y\u00eau",
-        "url": "https://open.spotify.com/album/5ojdqidRsbjusXhT3oEir2"
-      },
-      "artists": [
-        {
-          "name": "m t\u00fa",
-          "url": "https://open.spotify.com/artist/7a6FvNRlbkR8oBXKIHUGr6"
-        }
-      ],
-      "duration_ms": 187777,
-      "name": "c\u00f3 nhau",
-      "url": "https://open.spotify.com/track/6j4VC5GSlWoNTkyGVm3plH"
-    },
-    {
-      "added_at": "2024-05-24 13:35:00",
-      "album": {
         "name": "L\u00e0 T\u1eeb L\u00fac",
         "url": "https://open.spotify.com/album/75y35MEEKSOd8tSS8T6am0"
       },
@@ -967,30 +1067,6 @@
     {
       "added_at": "2024-05-24 13:35:00",
       "album": {
-        "name": "Luv",
-        "url": "https://open.spotify.com/album/4zz6bSF50QAYylIlckj77v"
-      },
-      "artists": [
-        {
-          "name": "Shartnuss",
-          "url": "https://open.spotify.com/artist/2BoU3GzyaG397l5ci1twa9"
-        },
-        {
-          "name": "Tr.D",
-          "url": "https://open.spotify.com/artist/6jiITlNS4hrm3dq90ZDftJ"
-        },
-        {
-          "name": "Phankeo",
-          "url": "https://open.spotify.com/artist/2rv0GwxSEWKhz54nLluNhK"
-        }
-      ],
-      "duration_ms": 254304,
-      "name": "N\u1eafng c\u00f3 mang em v\u1ec1",
-      "url": "https://open.spotify.com/track/6kCU6i8iRrAAmJJ8Sj4JYC"
-    },
-    {
-      "added_at": "2024-05-24 13:35:00",
-      "album": {
         "name": "Gi\u00e3i B\u00e0y",
         "url": "https://open.spotify.com/album/3BzeWzn5bp7XnRiPZqVHZP"
       },
@@ -1095,26 +1171,6 @@
     {
       "added_at": "2024-05-24 13:35:00",
       "album": {
-        "name": "Kissing You In The Moonlight",
-        "url": "https://open.spotify.com/album/0ospNwcHIuf7MKbw8uGGZT"
-      },
-      "artists": [
-        {
-          "name": "DUCCI",
-          "url": "https://open.spotify.com/artist/6dTVAhB03h53w5MHSUXhtY"
-        },
-        {
-          "name": "Hu\u00f4ng",
-          "url": "https://open.spotify.com/artist/30JCoaqvbonz0DY1x5qTuA"
-        }
-      ],
-      "duration_ms": 212705,
-      "name": "Kissing You In The Moonlight",
-      "url": "https://open.spotify.com/track/1dWzF9U7fDioZ02wGXjC1a"
-    },
-    {
-      "added_at": "2024-05-24 13:35:00",
-      "album": {
         "name": "Dreamboat",
         "url": "https://open.spotify.com/album/3VrLOHmBp3PtywjTEIaa18"
       },
@@ -1215,22 +1271,6 @@
       "duration_ms": 326422,
       "name": "Treo (2:00 AM)",
       "url": "https://open.spotify.com/track/5kGsa6CIvN5RaTb3rKzUdL"
-    },
-    {
-      "added_at": "2024-05-24 13:35:00",
-      "album": {
-        "name": "Ng\u01b0\u1eddi M\u01a1",
-        "url": "https://open.spotify.com/album/7m8BhmovQDD2kfNR6SE5di"
-      },
-      "artists": [
-        {
-          "name": "Mi ch\u01a1i nh\u1ea1c",
-          "url": "https://open.spotify.com/artist/1JffEN8eY4bET6EiLNvy7f"
-        }
-      ],
-      "duration_ms": 236259,
-      "name": "T\u1ec9nh Gi\u1ea5c",
-      "url": "https://open.spotify.com/track/3oaqPPnxgRsyCmYsZcAbVb"
     },
     {
       "added_at": "2024-05-24 13:35:00",
@@ -1399,26 +1439,6 @@
     {
       "added_at": "2024-05-24 13:35:00",
       "album": {
-        "name": "T\u00e2m Tr\u00ed Em",
-        "url": "https://open.spotify.com/album/2O8sI6M3mYH9whdrw6OPwX"
-      },
-      "artists": [
-        {
-          "name": "Linh Ka",
-          "url": "https://open.spotify.com/artist/6gXUsziOuoRCgmtm62Nrny"
-        },
-        {
-          "name": "Mason Nguyen",
-          "url": "https://open.spotify.com/artist/2s5hnhD9L1iohSpPZKnOhv"
-        }
-      ],
-      "duration_ms": 205092,
-      "name": "T\u00e2m Tr\u00ed Em",
-      "url": "https://open.spotify.com/track/2a9VFIWrZB5J2BY8LPUKsU"
-    },
-    {
-      "added_at": "2024-05-24 13:35:00",
-      "album": {
         "name": "khi m\u00f4 v\u1ec1 ?",
         "url": "https://open.spotify.com/album/3JpkPAf2YbNeKKASEtmd1H"
       },
@@ -1555,26 +1575,6 @@
       "duration_ms": 210000,
       "name": "Nh\u00ecn Theo B\u00f3ng Em",
       "url": "https://open.spotify.com/track/40VSxpF8g5sToquWQPkaue"
-    },
-    {
-      "added_at": "2024-05-24 13:35:00",
-      "album": {
-        "name": "H\u1ee8A CHO VUI TH\u00d4I",
-        "url": "https://open.spotify.com/album/0xVtki7OzoWkp8YDbbdUqF"
-      },
-      "artists": [
-        {
-          "name": "Cassano",
-          "url": "https://open.spotify.com/artist/34xBbPMcvr4EInfpUB0NEo"
-        },
-        {
-          "name": "MPacific",
-          "url": "https://open.spotify.com/artist/14FD1l1CkUVp1VL4z77acy"
-        }
-      ],
-      "duration_ms": 255319,
-      "name": "H\u1ee8A CHO VUI TH\u00d4I",
-      "url": "https://open.spotify.com/track/5RiBeTz0vDYwC2xgjCmxnt"
     },
     {
       "added_at": "2024-05-24 13:35:00",

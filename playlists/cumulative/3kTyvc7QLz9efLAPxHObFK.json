@@ -11541,6 +11541,24 @@
     },
     {
       "album": {
+        "name": "ANOTHER DIMENSION (BONUS PACK)",
+        "url": "https://open.spotify.com/album/3q62hWHxzfBnMtssilKCLB"
+      },
+      "artists": [
+        {
+          "name": "The Dark Horror",
+          "url": "https://open.spotify.com/artist/3e7LfI39pUL22PeGn1mlFa"
+        }
+      ],
+      "date_added": "2024-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "HEY MISTER DJ",
+      "url": "https://open.spotify.com/track/1aoA0V0irUVTnFiruG46sJ"
+    },
+    {
+      "album": {
         "name": "ElektraWave",
         "url": "https://open.spotify.com/album/29I2xhfBPyvI5lAM6sPOZs"
       },

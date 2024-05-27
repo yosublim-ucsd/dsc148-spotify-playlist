@@ -1227,6 +1227,24 @@
     },
     {
       "album": {
+        "name": "Tr\u00edptico (Vol. 2)",
+        "url": "https://open.spotify.com/album/3I2lIA10v8E2dHhOme3Xs6"
+      },
+      "artists": [
+        {
+          "name": "Silvio Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251043,
+      "name": "Llueve Otra Vez",
+      "url": "https://open.spotify.com/track/6eMZqzdvWb7exAWU6VeJzK"
+    },
+    {
+      "album": {
         "name": "Vida De Perros",
         "url": "https://open.spotify.com/album/76HflPZm3Uo1WHlRQIPKEC"
       },
@@ -1318,7 +1336,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-27",
       "duration_ms": 280975,
       "name": "Lluviare",
       "url": "https://open.spotify.com/track/7tQICvPQ491u8JnHnR2ann"

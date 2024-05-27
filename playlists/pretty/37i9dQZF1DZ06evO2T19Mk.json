@@ -1,12 +1,12 @@
 {
   "description": "This is Fall Out Boy. The essential tracks, all in one playlist.",
-  "num_followers": 564822,
+  "num_followers": 564865,
   "original_name": "This Is Fall Out Boy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zk/YgAAAAACnyjOEA0edwXI5USqb9cQh",
+  "snapshot_id": "ZlEqAAAAAACooINkjpFvIJFCn1n0o5aK",
   "tracks": [
     {
       "added_at": null,
@@ -27,6 +27,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Infinity On High",
+        "url": "https://open.spotify.com/album/0hHopYqXhuvYSHtVyrcb1g"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "duration_ms": 203506,
+      "name": "Thnks fr th Mmrs",
+      "url": "https://open.spotify.com/track/3Zwu2K0Qa5sT6teCCHPShP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "American Beauty/American Psycho",
         "url": "https://open.spotify.com/album/022DrG7Wp2PSCwzuD0bSzT"
       },
@@ -39,22 +55,6 @@
       "duration_ms": 228360,
       "name": "Centuries",
       "url": "https://open.spotify.com/track/04aAxqtGp5pv12UXAg4pkq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "From Under The Cork Tree",
-        "url": "https://open.spotify.com/album/5nkUSlIhtoJZMOUlB0sNCp"
-      },
-      "artists": [
-        {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
-        }
-      ],
-      "duration_ms": 180266,
-      "name": "Dance, Dance",
-      "url": "https://open.spotify.com/track/0a7BloCiNzLDD9qSQHh5m7"
     },
     {
       "added_at": null,
@@ -75,22 +75,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Infinity On High",
-        "url": "https://open.spotify.com/album/0hHopYqXhuvYSHtVyrcb1g"
-      },
-      "artists": [
-        {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
-        }
-      ],
-      "duration_ms": 212040,
-      "name": "This Ain't A Scene, It's An Arms Race",
-      "url": "https://open.spotify.com/track/1oagRT7LfpVlNJN6FSZDGp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MANIA",
         "url": "https://open.spotify.com/album/02s2F3XMnv9vr2syELbSsu"
       },
@@ -107,8 +91,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "From Under The Cork Tree",
-        "url": "https://open.spotify.com/album/5nkUSlIhtoJZMOUlB0sNCp"
+        "name": "Infinity On High",
+        "url": "https://open.spotify.com/album/0hHopYqXhuvYSHtVyrcb1g"
       },
       "artists": [
         {
@@ -116,9 +100,41 @@
           "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
         }
       ],
-      "duration_ms": 229093,
-      "name": "Sugar, We're Goin Down",
-      "url": "https://open.spotify.com/track/2TfSHkHiFO4gRztVIkggkE"
+      "duration_ms": 212040,
+      "name": "This Ain't A Scene, It's An Arms Race",
+      "url": "https://open.spotify.com/track/1oagRT7LfpVlNJN6FSZDGp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "American Beauty/American Psycho",
+        "url": "https://open.spotify.com/album/022DrG7Wp2PSCwzuD0bSzT"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "duration_ms": 189386,
+      "name": "Immortals",
+      "url": "https://open.spotify.com/track/3Te8uLyit6X3ncNW8Fp3K2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Save Rock And Roll",
+        "url": "https://open.spotify.com/album/5jKMfS57mHTHzlSFGfPFxU"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "duration_ms": 244960,
+      "name": "The Phoenix",
+      "url": "https://open.spotify.com/track/7jwDuO7UZvWs77KNj9HbvF"
     },
     {
       "added_at": null,
@@ -139,6 +155,22 @@
       "duration_ms": 266466,
       "name": "Electric Touch (feat. Fall Out Boy) (Taylor\u2019s Version) (From The Vault)",
       "url": "https://open.spotify.com/track/4e3ZNTAV6PCrdYMUrUlMpQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "From Under The Cork Tree",
+        "url": "https://open.spotify.com/album/5nkUSlIhtoJZMOUlB0sNCp"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "duration_ms": 169026,
+      "name": "A Little Less Sixteen Candles, A Little More \"Touch Me\"",
+      "url": "https://open.spotify.com/track/4pmU8AtVu9qU40Xd9zjEfA"
     },
     {
       "added_at": null,
@@ -175,22 +207,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "From Under The Cork Tree",
-        "url": "https://open.spotify.com/album/5nkUSlIhtoJZMOUlB0sNCp"
-      },
-      "artists": [
-        {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
-        }
-      ],
-      "duration_ms": 169026,
-      "name": "A Little Less Sixteen Candles, A Little More \"Touch Me\"",
-      "url": "https://open.spotify.com/track/4pmU8AtVu9qU40Xd9zjEfA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Folie \u00e0 Deux",
         "url": "https://open.spotify.com/album/6KOWjVP0mh5rOqmzm4tkPD"
       },
@@ -207,8 +223,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Take This to Your Grave",
-        "url": "https://open.spotify.com/album/7l4nnHG7upOnUM4WvAjToY"
+        "name": "So Much (For) Stardust",
+        "url": "https://open.spotify.com/album/5rHd8n9uWIpq9w0PP5ZcI3"
       },
       "artists": [
         {
@@ -216,9 +232,9 @@
           "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
         }
       ],
-      "duration_ms": 191373,
-      "name": "Grand Theft Autumn / Where Is Your Boy",
-      "url": "https://open.spotify.com/track/3JOdLCIBzQYwHIvpN3isVf"
+      "duration_ms": 215601,
+      "name": "Hold Me Like a Grudge",
+      "url": "https://open.spotify.com/track/7LJETXmpThAx6IvUzczYNR"
     },
     {
       "added_at": null,
@@ -355,22 +371,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "American Beauty/American Psycho",
-        "url": "https://open.spotify.com/album/022DrG7Wp2PSCwzuD0bSzT"
-      },
-      "artists": [
-        {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
-        }
-      ],
-      "duration_ms": 226866,
-      "name": "Novocaine",
-      "url": "https://open.spotify.com/track/5F0bmCjKUufNz1bHXfgRwe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "From Under The Cork Tree",
         "url": "https://open.spotify.com/album/5nkUSlIhtoJZMOUlB0sNCp"
       },
@@ -383,6 +383,22 @@
       "duration_ms": 191160,
       "name": "Of All The Gin Joints In All The World",
       "url": "https://open.spotify.com/track/4304kbwhzhb8A3n6wl27Kg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "American Beauty/American Psycho",
+        "url": "https://open.spotify.com/album/022DrG7Wp2PSCwzuD0bSzT"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "duration_ms": 226866,
+      "name": "Novocaine",
+      "url": "https://open.spotify.com/track/5F0bmCjKUufNz1bHXfgRwe"
     },
     {
       "added_at": null,
@@ -419,22 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "American Beauty/American Psycho",
-        "url": "https://open.spotify.com/album/022DrG7Wp2PSCwzuD0bSzT"
-      },
-      "artists": [
-        {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
-        }
-      ],
-      "duration_ms": 224360,
-      "name": "Fourth Of July",
-      "url": "https://open.spotify.com/track/1vrjcPplEuenckUzGGp2UR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "From Under The Cork Tree",
         "url": "https://open.spotify.com/album/5nkUSlIhtoJZMOUlB0sNCp"
       },
@@ -447,6 +447,22 @@
       "duration_ms": 188546,
       "name": "Our Lawyer Made Us Change The Name Of This Song So We Wouldn't Get Sued",
       "url": "https://open.spotify.com/track/73A0DxzMGDhVGsvHQSaaBq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "American Beauty/American Psycho",
+        "url": "https://open.spotify.com/album/022DrG7Wp2PSCwzuD0bSzT"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "duration_ms": 224360,
+      "name": "Fourth Of July",
+      "url": "https://open.spotify.com/track/1vrjcPplEuenckUzGGp2UR"
     },
     {
       "added_at": null,
@@ -483,22 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MANIA",
-        "url": "https://open.spotify.com/album/16xtTZvPH6PXcwSqYqJHHG"
-      },
-      "artists": [
-        {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
-        }
-      ],
-      "duration_ms": 171053,
-      "name": "Stay Frosty Royal Milk Tea",
-      "url": "https://open.spotify.com/track/0hfByzDRgR10HDLqm89lA9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "From Under The Cork Tree",
         "url": "https://open.spotify.com/album/5nkUSlIhtoJZMOUlB0sNCp"
       },
@@ -511,6 +511,22 @@
       "duration_ms": 182706,
       "name": "7 Minutes In Heaven (Atavan Halen)",
       "url": "https://open.spotify.com/track/2erNwv0Yti7uirpIU8wbvv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MANIA",
+        "url": "https://open.spotify.com/album/16xtTZvPH6PXcwSqYqJHHG"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "duration_ms": 171053,
+      "name": "Stay Frosty Royal Milk Tea",
+      "url": "https://open.spotify.com/track/0hfByzDRgR10HDLqm89lA9"
     },
     {
       "added_at": null,
@@ -531,38 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Save Rock And Roll",
-        "url": "https://open.spotify.com/album/5jKMfS57mHTHzlSFGfPFxU"
-      },
-      "artists": [
-        {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
-        }
-      ],
-      "duration_ms": 204506,
-      "name": "Young Volcanoes",
-      "url": "https://open.spotify.com/track/4yXNMbZrsFJbPTH0WfhwEB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "American Beauty/American Psycho",
-        "url": "https://open.spotify.com/album/022DrG7Wp2PSCwzuD0bSzT"
-      },
-      "artists": [
-        {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
-        }
-      ],
-      "duration_ms": 260920,
-      "name": "The Kids Aren't Alright",
-      "url": "https://open.spotify.com/track/3x7NGlfDKQYN2wnwEnL7r9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Take This to Your Grave",
         "url": "https://open.spotify.com/album/7l4nnHG7upOnUM4WvAjToY"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 194493,
       "name": "Dead on Arrival",
       "url": "https://open.spotify.com/track/7naGWci9bflvfdzxphFjAw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Folie \u00e0 Deux",
+        "url": "https://open.spotify.com/album/6KOWjVP0mh5rOqmzm4tkPD"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "duration_ms": 234493,
+      "name": "Headfirst Slide Into Cooperstown On A Bad Bet",
+      "url": "https://open.spotify.com/track/5qiG5FhrnE7dl0ZxhKc3My"
     },
     {
       "added_at": null,
@@ -595,8 +595,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Folie \u00e0 Deux",
-        "url": "https://open.spotify.com/album/6KOWjVP0mh5rOqmzm4tkPD"
+        "name": "From Under The Cork Tree",
+        "url": "https://open.spotify.com/album/5nkUSlIhtoJZMOUlB0sNCp"
       },
       "artists": [
         {
@@ -604,9 +604,9 @@
           "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
         }
       ],
-      "duration_ms": 234493,
-      "name": "Headfirst Slide Into Cooperstown On A Bad Bet",
-      "url": "https://open.spotify.com/track/5qiG5FhrnE7dl0ZxhKc3My"
+      "duration_ms": 200746,
+      "name": "Nobody Puts Baby In The Corner",
+      "url": "https://open.spotify.com/track/6HJzCcSMggn7Ultxs48dAe"
     },
     {
       "added_at": null,
@@ -663,8 +663,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Infinity On High",
-        "url": "https://open.spotify.com/album/0hHopYqXhuvYSHtVyrcb1g"
+        "name": "From Under The Cork Tree",
+        "url": "https://open.spotify.com/album/5nkUSlIhtoJZMOUlB0sNCp"
       },
       "artists": [
         {
@@ -672,15 +672,15 @@
           "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
         }
       ],
-      "duration_ms": 203840,
-      "name": "The Carpal Tunnel Of Love",
-      "url": "https://open.spotify.com/track/6FAUi2Xm6RCF0wpwG8oXGZ"
+      "duration_ms": 211493,
+      "name": "I Slept With Someone In Fall Out Boy And All I Got Was This Stupid Song Written About Me",
+      "url": "https://open.spotify.com/track/79oQb66jALYYKX1hn4qs4p"
     },
     {
       "added_at": null,
       "album": {
-        "name": "So Much (For) Stardust",
-        "url": "https://open.spotify.com/album/5rHd8n9uWIpq9w0PP5ZcI3"
+        "name": "Save Rock And Roll",
+        "url": "https://open.spotify.com/album/5jKMfS57mHTHzlSFGfPFxU"
       },
       "artists": [
         {
@@ -688,9 +688,9 @@
           "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
         }
       ],
-      "duration_ms": 235271,
-      "name": "The Kintsugi Kid (Ten Years)",
-      "url": "https://open.spotify.com/track/4p80Y9aDRTdkRkXkuRDFe2"
+      "duration_ms": 243040,
+      "name": "Where Did The Party Go",
+      "url": "https://open.spotify.com/track/3Q7jFW6nxqhwbUctqqthSa"
     },
     {
       "added_at": null,
@@ -743,8 +743,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Save Rock And Roll",
-        "url": "https://open.spotify.com/album/0EVJX4RlYKuApsAN5CaDa3"
+        "name": "Pavlove (Demo)",
+        "url": "https://open.spotify.com/album/1iYntUmv88nNeE4zw5xgMY"
       },
       "artists": [
         {
@@ -752,9 +752,9 @@
           "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
         }
       ],
-      "duration_ms": 211026,
-      "name": "Miss Missing You",
-      "url": "https://open.spotify.com/track/05Z77MHLPcBA2Wd5eDSJzl"
+      "duration_ms": 213093,
+      "name": "Pavlove - Demo",
+      "url": "https://open.spotify.com/track/73kIi1OijvzVIWP4OhBm7D"
     },
     {
       "added_at": null,
@@ -775,8 +775,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pavlove (Demo)",
-        "url": "https://open.spotify.com/album/1iYntUmv88nNeE4zw5xgMY"
+        "name": "Believers Never Die (Volume Two)",
+        "url": "https://open.spotify.com/album/2MlgtDuxXXz8c8Toc9kKTd"
       },
       "artists": [
         {
@@ -784,9 +784,9 @@
           "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
         }
       ],
-      "duration_ms": 213093,
-      "name": "Pavlove - Demo",
-      "url": "https://open.spotify.com/track/73kIi1OijvzVIWP4OhBm7D"
+      "duration_ms": 193040,
+      "name": "Bob Dylan",
+      "url": "https://open.spotify.com/track/3liDoBAc3NGI8tmWUTOAed"
     },
     {
       "added_at": null,
@@ -807,18 +807,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Believers Never Die (Volume Two)",
-        "url": "https://open.spotify.com/album/2MlgtDuxXXz8c8Toc9kKTd"
+        "name": "Save Rock And Roll",
+        "url": "https://open.spotify.com/album/5jKMfS57mHTHzlSFGfPFxU"
       },
       "artists": [
         {
           "name": "Fall Out Boy",
           "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        },
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
         }
       ],
-      "duration_ms": 193040,
-      "name": "Bob Dylan",
-      "url": "https://open.spotify.com/track/3liDoBAc3NGI8tmWUTOAed"
+      "duration_ms": 281080,
+      "name": "Save Rock And Roll",
+      "url": "https://open.spotify.com/track/6SFTYQSczxhBNKR5bYjGMD"
     },
     {
       "added_at": null,

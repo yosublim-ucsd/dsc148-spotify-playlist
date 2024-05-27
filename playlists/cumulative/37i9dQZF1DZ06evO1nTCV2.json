@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-12",
-  "description": "This Is Ryan Adams. Los temas esenciales, todos en una lista.",
+  "description": "This is Ryan Adams. The essential tracks, all in one playlist.",
   "name": "This Is Ryan Adams",
   "tracks": [
     {
@@ -956,6 +956,24 @@
       "duration_ms": 181826,
       "name": "Doomsday (Live)",
       "url": "https://open.spotify.com/track/5ax3AFmg3WcSuSvcmDkym3"
+    },
+    {
+      "album": {
+        "name": "Down In A Hole (Live)",
+        "url": "https://open.spotify.com/album/1uz5hEKIxeHhZbdyu9s1s2"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "date_added": "2024-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241052,
+      "name": "Down In A Hole - Live from Eugene, OR. 2023.",
+      "url": "https://open.spotify.com/track/6WbyHzHJFu2BOFRlXhBBIl"
     },
     {
       "album": {
@@ -3436,7 +3454,7 @@
       ],
       "date_added": "2023-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-27",
       "duration_ms": 198520,
       "name": "Welcome to New York",
       "url": "https://open.spotify.com/track/3fxcUfVbzcKssPNrqsvspm"

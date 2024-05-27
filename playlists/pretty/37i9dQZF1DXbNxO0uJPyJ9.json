@@ -1,6 +1,6 @@
 {
   "description": "Classic 12\" singles to take you back to the the vinyl era.",
-  "num_followers": 683255,
+  "num_followers": 683372,
   "original_name": "12\" Classics",
   "owner": {
     "name": "Spotify",
@@ -191,22 +191,6 @@
     {
       "added_at": "2024-02-06 15:45:26",
       "album": {
-        "name": "Hot Girls, Bad Boys",
-        "url": "https://open.spotify.com/album/20Al9Br3ICD73ni3WuhA9Y"
-      },
-      "artists": [
-        {
-          "name": "Bad Boys Blue",
-          "url": "https://open.spotify.com/artist/6OXILsPD4WNJ7XiGMAkCWa"
-        }
-      ],
-      "duration_ms": 321840,
-      "name": "You're a Woman",
-      "url": "https://open.spotify.com/track/7J5B4k0AT8KIoV5KiUa4o7"
-    },
-    {
-      "added_at": "2024-02-06 15:45:26",
-      "album": {
         "name": "Fran\u00e7ois",
         "url": "https://open.spotify.com/album/17EANLCoErHdo9FpzMx25q"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 403586,
       "name": "Voyage voyage - Maxi",
       "url": "https://open.spotify.com/track/1i8isuRSQWFX9qKnaI5hrt"
+    },
+    {
+      "added_at": "2024-02-06 15:45:26",
+      "album": {
+        "name": "Hot Girls, Bad Boys",
+        "url": "https://open.spotify.com/album/20Al9Br3ICD73ni3WuhA9Y"
+      },
+      "artists": [
+        {
+          "name": "Bad Boys Blue",
+          "url": "https://open.spotify.com/artist/6OXILsPD4WNJ7XiGMAkCWa"
+        }
+      ],
+      "duration_ms": 321840,
+      "name": "You're a Woman",
+      "url": "https://open.spotify.com/track/7J5B4k0AT8KIoV5KiUa4o7"
     },
     {
       "added_at": "2024-02-06 15:45:26",
@@ -251,22 +251,6 @@
       "duration_ms": 481013,
       "name": "You Spin Me Round (Like a Record) - Murder Mix",
       "url": "https://open.spotify.com/track/6gIBeNdhyrT2nt1zEILoxc"
-    },
-    {
-      "added_at": "2024-02-06 15:45:26",
-      "album": {
-        "name": "Like a Virgin",
-        "url": "https://open.spotify.com/album/2IU9ftOgyRL2caQGWK1jjX"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 369693,
-      "name": "Material Girl - Extended Dance Remix",
-      "url": "https://open.spotify.com/track/4vle25yO4Rf7AYkWtzSfAS"
     },
     {
       "added_at": "2024-02-06 15:45:26",
@@ -319,18 +303,18 @@
     {
       "added_at": "2024-02-06 15:45:26",
       "album": {
-        "name": "Original Album Classics",
-        "url": "https://open.spotify.com/album/7rsyTubfxdtX7lWCVmmBVy"
+        "name": "Like a Virgin",
+        "url": "https://open.spotify.com/album/2IU9ftOgyRL2caQGWK1jjX"
       },
       "artists": [
         {
-          "name": "Daryl Hall & John Oates",
-          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
         }
       ],
-      "duration_ms": 358626,
-      "name": "Maneater - Extended Club Mix",
-      "url": "https://open.spotify.com/track/1kTH8Ok1XWldpvIuzrCHFg"
+      "duration_ms": 369693,
+      "name": "Material Girl - Extended Dance Remix",
+      "url": "https://open.spotify.com/track/4vle25yO4Rf7AYkWtzSfAS"
     },
     {
       "added_at": "2024-02-06 15:45:26",
@@ -347,6 +331,22 @@
       "duration_ms": 233824,
       "name": "Kiss Me (1985)",
       "url": "https://open.spotify.com/track/7s0CqOvyKGkyPLl6N2Bg9I"
+    },
+    {
+      "added_at": "2024-02-06 15:45:26",
+      "album": {
+        "name": "Original Album Classics",
+        "url": "https://open.spotify.com/album/7rsyTubfxdtX7lWCVmmBVy"
+      },
+      "artists": [
+        {
+          "name": "Daryl Hall & John Oates",
+          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
+        }
+      ],
+      "duration_ms": 358626,
+      "name": "Maneater - Extended Club Mix",
+      "url": "https://open.spotify.com/track/1kTH8Ok1XWldpvIuzrCHFg"
     },
     {
       "added_at": "2024-02-06 15:45:26",
@@ -399,22 +399,6 @@
     {
       "added_at": "2024-02-06 15:45:26",
       "album": {
-        "name": "Running In The Family (Super Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0ocLcPbY6DKLkAiVyHvipJ"
-      },
-      "artists": [
-        {
-          "name": "Level 42",
-          "url": "https://open.spotify.com/artist/0L9xkvBPcEp1nrhDrodxc5"
-        }
-      ],
-      "duration_ms": 374386,
-      "name": "Running In The Family - Extended Version",
-      "url": "https://open.spotify.com/track/5vTKn6MszumvJHpobYCcEq"
-    },
-    {
-      "added_at": "2024-02-06 15:45:26",
-      "album": {
         "name": "True Blue",
         "url": "https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 396920,
       "name": "True Blue - The Color Mix",
       "url": "https://open.spotify.com/track/1ev64zBlpSWh5HQwvEhLjZ"
+    },
+    {
+      "added_at": "2024-02-06 15:45:26",
+      "album": {
+        "name": "Running In The Family (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0ocLcPbY6DKLkAiVyHvipJ"
+      },
+      "artists": [
+        {
+          "name": "Level 42",
+          "url": "https://open.spotify.com/artist/0L9xkvBPcEp1nrhDrodxc5"
+        }
+      ],
+      "duration_ms": 374386,
+      "name": "Running In The Family - Extended Version",
+      "url": "https://open.spotify.com/track/5vTKn6MszumvJHpobYCcEq"
     },
     {
       "added_at": "2024-02-06 15:45:26",
@@ -479,22 +479,6 @@
     {
       "added_at": "2024-02-06 15:45:26",
       "album": {
-        "name": "Hot Girls, Bad Boys",
-        "url": "https://open.spotify.com/album/20Al9Br3ICD73ni3WuhA9Y"
-      },
-      "artists": [
-        {
-          "name": "Bad Boys Blue",
-          "url": "https://open.spotify.com/artist/6OXILsPD4WNJ7XiGMAkCWa"
-        }
-      ],
-      "duration_ms": 346506,
-      "name": "Pretty Young Girl",
-      "url": "https://open.spotify.com/track/34LcZE3FJWWWVl2NoC8EXT"
-    },
-    {
-      "added_at": "2024-02-06 15:45:26",
-      "album": {
         "name": "The Best Of Herbie Hancock - The Hits!",
         "url": "https://open.spotify.com/album/4zZHvc3I4GrfPIUS0UkQb3"
       },
@@ -511,18 +495,18 @@
     {
       "added_at": "2024-02-06 15:45:26",
       "album": {
-        "name": "Like a Virgin",
-        "url": "https://open.spotify.com/album/2IU9ftOgyRL2caQGWK1jjX"
+        "name": "Hot Girls, Bad Boys",
+        "url": "https://open.spotify.com/album/20Al9Br3ICD73ni3WuhA9Y"
       },
       "artists": [
         {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+          "name": "Bad Boys Blue",
+          "url": "https://open.spotify.com/artist/6OXILsPD4WNJ7XiGMAkCWa"
         }
       ],
-      "duration_ms": 369600,
-      "name": "Like a Virgin - Extended Dance Remix",
-      "url": "https://open.spotify.com/track/17WvhmXF06yquUwZjtjHsc"
+      "duration_ms": 346506,
+      "name": "Pretty Young Girl",
+      "url": "https://open.spotify.com/track/34LcZE3FJWWWVl2NoC8EXT"
     },
     {
       "added_at": "2024-02-06 15:45:26",
@@ -575,6 +559,22 @@
     {
       "added_at": "2024-02-06 15:45:26",
       "album": {
+        "name": "Like a Virgin",
+        "url": "https://open.spotify.com/album/2IU9ftOgyRL2caQGWK1jjX"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 369600,
+      "name": "Like a Virgin - Extended Dance Remix",
+      "url": "https://open.spotify.com/track/17WvhmXF06yquUwZjtjHsc"
+    },
+    {
+      "added_at": "2024-02-06 15:45:26",
+      "album": {
         "name": "Architecture And Morality",
         "url": "https://open.spotify.com/album/6bR98XzGnklTORDvZ7Oc2i"
       },
@@ -587,22 +587,6 @@
       "duration_ms": 256586,
       "name": "Extended Souvenir - 2003 Digital Remaster",
       "url": "https://open.spotify.com/track/3R14PSng7wtMo81cNG67Q6"
-    },
-    {
-      "added_at": "2024-02-06 15:45:26",
-      "album": {
-        "name": "Vogue",
-        "url": "https://open.spotify.com/album/4TOE2rwaoCsdIgtGlQmsnX"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 501333,
-      "name": "Vogue - 12\" Version",
-      "url": "https://open.spotify.com/track/1mHnxub5pXrAXQUCpyRoAp"
     },
     {
       "added_at": "2024-02-06 15:45:26",
@@ -735,18 +719,18 @@
     {
       "added_at": "2024-02-06 15:45:26",
       "album": {
-        "name": "Tell It to My Heart (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2hlHv54WpTInFIRMk3Hwjk"
+        "name": "Vogue",
+        "url": "https://open.spotify.com/album/4TOE2rwaoCsdIgtGlQmsnX"
       },
       "artists": [
         {
-          "name": "Taylor Dayne",
-          "url": "https://open.spotify.com/artist/32lVGr0fSRGT6okLKHiP68"
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
         }
       ],
-      "duration_ms": 405280,
-      "name": "Tell It to My Heart - Club Mix",
-      "url": "https://open.spotify.com/track/6aKSXaRGkwlNVRL8aA8H1F"
+      "duration_ms": 501333,
+      "name": "Vogue - 12\" Version",
+      "url": "https://open.spotify.com/track/1mHnxub5pXrAXQUCpyRoAp"
     },
     {
       "added_at": "2024-02-06 15:45:26",
@@ -763,6 +747,42 @@
       "duration_ms": 397533,
       "name": "Sunshine Reggae - 12\" Version",
       "url": "https://open.spotify.com/track/5t1IKim2yq7cZ3H4FPYly7"
+    },
+    {
+      "added_at": "2024-02-06 15:45:26",
+      "album": {
+        "name": "Brotherhood (Collector's Edition)",
+        "url": "https://open.spotify.com/album/0PSWY4XyjTWppfBb0tBtqu"
+      },
+      "artists": [
+        {
+          "name": "New Order",
+          "url": "https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3"
+        },
+        {
+          "name": "Shep Pettibone",
+          "url": "https://open.spotify.com/artist/6GOmlO6wisWSbBzBbCCaWv"
+        }
+      ],
+      "duration_ms": 543440,
+      "name": "True Faith - Shep Pettibone 12\" Remix",
+      "url": "https://open.spotify.com/track/6gIg6yHRojDG9Px3eSIZ3P"
+    },
+    {
+      "added_at": "2024-02-06 15:45:26",
+      "album": {
+        "name": "Tell It to My Heart (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2hlHv54WpTInFIRMk3Hwjk"
+      },
+      "artists": [
+        {
+          "name": "Taylor Dayne",
+          "url": "https://open.spotify.com/artist/32lVGr0fSRGT6okLKHiP68"
+        }
+      ],
+      "duration_ms": 405280,
+      "name": "Tell It to My Heart - Club Mix",
+      "url": "https://open.spotify.com/track/6aKSXaRGkwlNVRL8aA8H1F"
     },
     {
       "added_at": "2024-02-06 15:45:26",
@@ -799,22 +819,18 @@
     {
       "added_at": "2024-02-06 15:45:26",
       "album": {
-        "name": "Brotherhood (Collector's Edition)",
-        "url": "https://open.spotify.com/album/0PSWY4XyjTWppfBb0tBtqu"
+        "name": "Good Vibes - The Very Best of Laid Back",
+        "url": "https://open.spotify.com/album/2PTte9WD2NqJzmbqNaDpa1"
       },
       "artists": [
         {
-          "name": "New Order",
-          "url": "https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3"
-        },
-        {
-          "name": "Shep Pettibone",
-          "url": "https://open.spotify.com/artist/6GOmlO6wisWSbBzBbCCaWv"
+          "name": "Laid Back",
+          "url": "https://open.spotify.com/artist/2OLmN3LLWtLF7zerL4VdaX"
         }
       ],
-      "duration_ms": 543440,
-      "name": "True Faith - Shep Pettibone 12\" Remix",
-      "url": "https://open.spotify.com/track/6gIg6yHRojDG9Px3eSIZ3P"
+      "duration_ms": 370386,
+      "name": "High Society Girl - Long Dub Version; 1983 Digital Remaster",
+      "url": "https://open.spotify.com/track/5bTXVkgoUZs8SXngRproJG"
     },
     {
       "added_at": "2024-02-06 15:45:26",
@@ -887,22 +903,6 @@
       "duration_ms": 480200,
       "name": "Shout - U.S. Remix",
       "url": "https://open.spotify.com/track/6F1UlQcpFzL3RLuRSQwK2n"
-    },
-    {
-      "added_at": "2024-02-06 15:45:26",
-      "album": {
-        "name": "Good Vibes - The Very Best of Laid Back",
-        "url": "https://open.spotify.com/album/2PTte9WD2NqJzmbqNaDpa1"
-      },
-      "artists": [
-        {
-          "name": "Laid Back",
-          "url": "https://open.spotify.com/artist/2OLmN3LLWtLF7zerL4VdaX"
-        }
-      ],
-      "duration_ms": 370386,
-      "name": "High Society Girl - Long Dub Version; 1983 Digital Remaster",
-      "url": "https://open.spotify.com/track/5bTXVkgoUZs8SXngRproJG"
     },
     {
       "added_at": "2024-02-06 15:45:26",
@@ -987,6 +987,22 @@
     {
       "added_at": "2024-02-06 15:45:26",
       "album": {
+        "name": "12\"ers",
+        "url": "https://open.spotify.com/album/4vDz0u2AwgacbWvI827om5"
+      },
+      "artists": [
+        {
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+        }
+      ],
+      "duration_ms": 486840,
+      "name": "Take Me Home - Extended Remix",
+      "url": "https://open.spotify.com/track/70tGBcXCFCJqA4iPaSu3Xl"
+    },
+    {
+      "added_at": "2024-02-06 15:45:26",
+      "album": {
         "name": "Boxed",
         "url": "https://open.spotify.com/album/0H0gECNGQQ9RE3HZL2Z9AH"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 319480,
       "name": "Sweet Dreams (Are Made of This) - Hot Remix / Remastered Version",
       "url": "https://open.spotify.com/track/1AgCHF8ZUnAFgyCbK82AwI"
-    },
-    {
-      "added_at": "2024-02-06 15:45:26",
-      "album": {
-        "name": "12\"ers",
-        "url": "https://open.spotify.com/album/4vDz0u2AwgacbWvI827om5"
-      },
-      "artists": [
-        {
-          "name": "Phil Collins",
-          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
-        }
-      ],
-      "duration_ms": 486840,
-      "name": "Take Me Home - Extended Remix",
-      "url": "https://open.spotify.com/track/70tGBcXCFCJqA4iPaSu3Xl"
     },
     {
       "added_at": "2024-02-06 15:45:26",

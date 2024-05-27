@@ -2,7 +2,7 @@
 
 ### [RADAR Vietnam](https://open.spotify.com/playlist/37i9dQZF1DX0dUsjwqfaGM)
 
-> Thế hệ nghệ sĩ mới\. Ảnh bìa: SIXTYUPTOWN
+> Thế hệ nghệ sĩ mới\. Ảnh bìa: Teddie J
 
 104 songs - 6 hr 3 min
 

@@ -1,6 +1,6 @@
 {
   "description": "Bounce to the Brick City sound. From New Jersey to the world. Cover: DJ Sliink",
-  "num_followers": 82855,
+  "num_followers": 82869,
   "original_name": "Jersey Club Heat",
   "owner": {
     "name": "Spotify",
@@ -755,6 +755,26 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
+        "name": "miles",
+        "url": "https://open.spotify.com/album/6lAOUk4uVgPOj9ny3TPoDO"
+      },
+      "artists": [
+        {
+          "name": "skaiwater",
+          "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 162196,
+      "name": "miles (feat. Lil Uzi Vert)",
+      "url": "https://open.spotify.com/track/2WgoeZDxLJvjEvlOupkr8D"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
         "name": "BULLET",
         "url": "https://open.spotify.com/album/6S96N0bJT2KmDmn1zUZtpv"
       },
@@ -783,26 +803,6 @@
       "duration_ms": 138000,
       "name": "Throw Dat",
       "url": "https://open.spotify.com/track/19M4JyrblQb7Z57CvCgOsC"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "miles",
-        "url": "https://open.spotify.com/album/6lAOUk4uVgPOj9ny3TPoDO"
-      },
-      "artists": [
-        {
-          "name": "skaiwater",
-          "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
-        },
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 162196,
-      "name": "miles (feat. Lil Uzi Vert)",
-      "url": "https://open.spotify.com/track/2WgoeZDxLJvjEvlOupkr8D"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -843,6 +843,22 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
+        "name": "#miles (OMG edit)",
+        "url": "https://open.spotify.com/album/506GTEBNlR7FVIncgRRV4V"
+      },
+      "artists": [
+        {
+          "name": "skaiwater",
+          "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
+        }
+      ],
+      "duration_ms": 137727,
+      "name": "#miles (OMG edit)",
+      "url": "https://open.spotify.com/track/66SrkasmQzDg9riaKqjm0h"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
         "name": "Honestly, Nevermind",
         "url": "https://open.spotify.com/album/2hicq6IKmDsPxZV7fJablX"
       },
@@ -871,6 +887,26 @@
       "duration_ms": 94641,
       "name": "TON1GHT - Jersey Club",
       "url": "https://open.spotify.com/track/0b1JCsboe1MKYslFePSK7m"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Diamondz n Roses",
+        "url": "https://open.spotify.com/album/0cdodoL6RDAbDbkb7F4JSQ"
+      },
+      "artists": [
+        {
+          "name": "Lay Bankz",
+          "url": "https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F"
+        },
+        {
+          "name": "VaporGod",
+          "url": "https://open.spotify.com/artist/2OXa1OHxPJrgxTMzcvysxm"
+        }
+      ],
+      "duration_ms": 117931,
+      "name": "Diamondz n Roses",
+      "url": "https://open.spotify.com/track/1dFY74KU7t0spTcoZLUH1u"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -931,6 +967,22 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
+        "name": "eyes",
+        "url": "https://open.spotify.com/album/3kjWlk30j8gIzBe39MbndW"
+      },
+      "artists": [
+        {
+          "name": "skaiwater",
+          "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
+        }
+      ],
+      "duration_ms": 142639,
+      "name": "eyes",
+      "url": "https://open.spotify.com/track/2YOev1DTVgKTqBuUN3J5kg"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
         "name": "CTRL",
         "url": "https://open.spotify.com/album/3lg6V1KDuWepNyGt3YSTJ7"
       },
@@ -943,26 +995,6 @@
       "duration_ms": 139017,
       "name": "CTRL",
       "url": "https://open.spotify.com/track/0cGwZWfdBTLWZSiATC7OXm"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "Diamondz n Roses",
-        "url": "https://open.spotify.com/album/0cdodoL6RDAbDbkb7F4JSQ"
-      },
-      "artists": [
-        {
-          "name": "Lay Bankz",
-          "url": "https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F"
-        },
-        {
-          "name": "VaporGod",
-          "url": "https://open.spotify.com/artist/2OXa1OHxPJrgxTMzcvysxm"
-        }
-      ],
-      "duration_ms": 117931,
-      "name": "Diamondz n Roses",
-      "url": "https://open.spotify.com/track/1dFY74KU7t0spTcoZLUH1u"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -983,22 +1015,6 @@
       "duration_ms": 109124,
       "name": "We Are Young (Jersey Club)",
       "url": "https://open.spotify.com/track/4F8JgSAhDLib5yoUoykMMZ"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "#miles (OMG edit)",
-        "url": "https://open.spotify.com/album/506GTEBNlR7FVIncgRRV4V"
-      },
-      "artists": [
-        {
-          "name": "skaiwater",
-          "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
-        }
-      ],
-      "duration_ms": 137727,
-      "name": "#miles (OMG edit)",
-      "url": "https://open.spotify.com/track/66SrkasmQzDg9riaKqjm0h"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1127,22 +1143,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "eyes",
-        "url": "https://open.spotify.com/album/3kjWlk30j8gIzBe39MbndW"
-      },
-      "artists": [
-        {
-          "name": "skaiwater",
-          "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
-        }
-      ],
-      "duration_ms": 142639,
-      "name": "eyes",
-      "url": "https://open.spotify.com/track/2YOev1DTVgKTqBuUN3J5kg"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "All My Ladies",
         "url": "https://open.spotify.com/album/1l1zRxLqhq4woSMIwK5VwG"
       },
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
+        "name": "Chicago (Jersey Club)",
+        "url": "https://open.spotify.com/album/7261mhJQq6ZRDZT8hW6VOX"
+      },
+      "artists": [
+        {
+          "name": "DJ Smallz 732",
+          "url": "https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK"
+        }
+      ],
+      "duration_ms": 118256,
+      "name": "Chicago (Jersey Club)",
+      "url": "https://open.spotify.com/track/7pVuGWgUcABk3ToWt2hGNU"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
         "name": "Da Girls (Dance Mix)",
         "url": "https://open.spotify.com/album/6sXiCimlYj6lHEowy0khmz"
       },
@@ -1191,22 +1207,6 @@
       "duration_ms": 146400,
       "name": "Da Girls - Dance Mix",
       "url": "https://open.spotify.com/track/6tOKaJyfdulCnW70cmCUHx"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "Chicago (Jersey Club)",
-        "url": "https://open.spotify.com/album/7261mhJQq6ZRDZT8hW6VOX"
-      },
-      "artists": [
-        {
-          "name": "DJ Smallz 732",
-          "url": "https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK"
-        }
-      ],
-      "duration_ms": 118256,
-      "name": "Chicago (Jersey Club)",
-      "url": "https://open.spotify.com/track/7pVuGWgUcABk3ToWt2hGNU"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1315,6 +1315,26 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
+        "name": "Crying in the Club",
+        "url": "https://open.spotify.com/album/2YvnSFSzTj30fh7DtS12uN"
+      },
+      "artists": [
+        {
+          "name": "GROOVY",
+          "url": "https://open.spotify.com/artist/6Y6qIKwe32BxNflpxbKsJc"
+        },
+        {
+          "name": "Kanii",
+          "url": "https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW"
+        }
+      ],
+      "duration_ms": 185314,
+      "name": "Mariah",
+      "url": "https://open.spotify.com/track/2Mi6o1VgvjnJa31yrPT3UC"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
         "name": "Bongos (feat. Megan Thee Stallion) [DJ SpinKing & DJ Taj Jersey Club Mix]",
         "url": "https://open.spotify.com/album/1y0OoFahczB4hnMZDAAjcc"
       },
@@ -1383,22 +1403,6 @@
       "duration_ms": 140298,
       "name": "Birthday",
       "url": "https://open.spotify.com/track/5sRBO1ghaklkYi0oZPe4yW"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "The 90s Lied To Us",
-        "url": "https://open.spotify.com/album/0BmDsHZemgIKdH98eIOS95"
-      },
-      "artists": [
-        {
-          "name": "Dave Childz",
-          "url": "https://open.spotify.com/artist/7isyse6k2xFXsZLAE7gwdk"
-        }
-      ],
-      "duration_ms": 103781,
-      "name": "The 90s Lied To Us",
-      "url": "https://open.spotify.com/track/04b2YLqewR7aMOwGnwXuUJ"
     }
   ],
   "unique_name": "Jersey Club Heat",

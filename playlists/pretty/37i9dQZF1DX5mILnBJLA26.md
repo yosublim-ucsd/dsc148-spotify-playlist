@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 
 > The biggest Amapiano singles making waves in South Africa and the world\. Cover:  <a href="https://open.spotify.com/artist/5fds40CKwV1XZgn3IH89Gd?si=gVq2P2H\-QYewoh9F2CRyzA">ShaunMusiq & Ftears</a>, <a href="https://open.spotify.com/artist/6egY1uh8HjHy6TrD0qmQNN?si=OdzGr6WJSAGe\_7KNZdLf5Q">Myztro</a>, <a href="https://open.spotify.com/artist/3S4T8XtipStwl34odXn1YS?si=UM0D\_2jgQP\-b3iOniLwRGA">Scotts Maphuma</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 767,081 likes - 50 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 767,833 likes - 50 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
-  "description": "This Is Edicion Especial. Los temas esenciales, todos en una lista.",
-  "num_followers": 117866,
+  "description": "This is Edicion Especial. The essential tracks, all in one playlist.",
+  "num_followers": 117954,
   "original_name": "This Is Edicion Especial",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zk/YgAAAAACgTFcUoTFpT9UcWuQLfvwr",
+  "snapshot_id": "ZlEqAAAAAAA7FHHXJRWXkwJR+WtMzns9",
   "tracks": [
     {
       "added_at": null,
@@ -471,22 +471,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hoy Ya Me Voy",
-        "url": "https://open.spotify.com/album/5DRB5hx7fVDzXUGoc4YffJ"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 259976,
-      "name": "Hoy Ya Me Voy",
-      "url": "https://open.spotify.com/track/5oBed9LF8gyRsVVKZsnwSp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Pareja Ideal (Live)",
         "url": "https://open.spotify.com/album/7yBA24q5Agy3K1fo1CUyUR"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 249088,
       "name": "La Pareja Ideal - Live",
       "url": "https://open.spotify.com/track/3tf2lQgJvyMrx8Rcv2SmPZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hoy Ya Me Voy",
+        "url": "https://open.spotify.com/album/5DRB5hx7fVDzXUGoc4YffJ"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 259976,
+      "name": "Hoy Ya Me Voy",
+      "url": "https://open.spotify.com/track/5oBed9LF8gyRsVVKZsnwSp"
     },
     {
       "added_at": null,

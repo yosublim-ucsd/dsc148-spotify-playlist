@@ -1,12 +1,12 @@
 {
-  "description": "This is The XCERTS. The essential tracks, all in one playlist.",
+  "description": "This is The XCERTS\u3002\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u4ee3\u8868\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002",
   "num_followers": 571,
   "original_name": "This Is The XCERTS",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zk/YgAAAAADKr6a+/Ry6VSdgwM/hszcd",
+  "snapshot_id": "Zk/YgAAAAAAWB0HALrQdqLoK5lU3pcDv",
   "tracks": [
     {
       "added_at": null,
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 122528,
-      "name": "Jealousy",
-      "url": "https://open.spotify.com/track/6JR8HjROB76D1td19ma0fv"
+      "duration_ms": 161733,
+      "name": "Car Crash Culture",
+      "url": "https://open.spotify.com/track/6lslbQxWgIuuUSZDQOXCgy"
     },
     {
       "added_at": null,
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 161733,
-      "name": "Car Crash Culture",
-      "url": "https://open.spotify.com/track/6lslbQxWgIuuUSZDQOXCgy"
+      "duration_ms": 122528,
+      "name": "Jealousy",
+      "url": "https://open.spotify.com/track/6JR8HjROB76D1td19ma0fv"
     },
     {
       "added_at": null,
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 184443,
-      "name": "Kick It",
-      "url": "https://open.spotify.com/track/6DudfdpqtGRCyUoTcMAmJb"
+      "duration_ms": 232078,
+      "name": "I Don't Care",
+      "url": "https://open.spotify.com/track/2Jt31docTzpsvfouRxEwoX"
     },
     {
       "added_at": null,
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 232078,
-      "name": "I Don't Care",
-      "url": "https://open.spotify.com/track/2Jt31docTzpsvfouRxEwoX"
+      "duration_ms": 184443,
+      "name": "Kick It",
+      "url": "https://open.spotify.com/track/6DudfdpqtGRCyUoTcMAmJb"
     },
     {
       "added_at": null,
@@ -575,6 +575,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Live Like This",
+        "url": "https://open.spotify.com/album/6aid0JJx7b8qP7kRNejoGd"
+      },
+      "artists": [
+        {
+          "name": "The XCERTS",
+          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
+        }
+      ],
+      "duration_ms": 188936,
+      "name": "Waste Away - Demo",
+      "url": "https://open.spotify.com/track/6B8V4E3GXnLrmts6ZYIN1c"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Scatterbrain",
         "url": "https://open.spotify.com/album/7qJcUjJEAzI5t3xdD496Ap"
       },
@@ -616,9 +632,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 270706,
-      "name": "Distant Memory",
-      "url": "https://open.spotify.com/track/4l4SP3rYBjOvJCEcLQH75f"
+      "duration_ms": 167813,
+      "name": "Let's Run",
+      "url": "https://open.spotify.com/track/2Wwm67ZMDDj9gY2jPcwFLO"
     }
   ],
   "unique_name": "This Is The XCERTS",

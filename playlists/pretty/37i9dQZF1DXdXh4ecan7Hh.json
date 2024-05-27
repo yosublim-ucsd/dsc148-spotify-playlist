@@ -1,6 +1,6 @@
 {
   "description": "County's best like you've never heard before. Cover: Jackson Dean, Josh Ross, ERNEST and 49 Winchester",
-  "num_followers": 114182,
+  "num_followers": 114183,
   "original_name": "Spotify Singles: Country",
   "owner": {
     "name": "Spotify",
@@ -247,6 +247,22 @@
     {
       "added_at": "2024-01-24 18:24:48",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2H18xXYbVopKYddC2VqoPJ"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 224987,
+      "name": "One Number Away - Recorded At Sound Stage Nashville",
+      "url": "https://open.spotify.com/track/0RmtUP9oQqhO3WFqB3KrM2"
+    },
+    {
+      "added_at": "2024-01-24 18:24:48",
+      "album": {
         "name": "Carrying Your Love With Me (Spotify Singles)",
         "url": "https://open.spotify.com/album/2ppLwCKe1rQxYyRmHlfyb8"
       },
@@ -280,54 +296,6 @@
       "added_at": "2024-01-24 18:24:48",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3Teo9qaJ93m4gDLmmAH7GS"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Andress",
-          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
-        }
-      ],
-      "duration_ms": 191444,
-      "name": "Don't Start Now",
-      "url": "https://open.spotify.com/track/4RftloQV6tARnLrBuXKzMr"
-    },
-    {
-      "added_at": "2024-01-24 18:24:48",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2H18xXYbVopKYddC2VqoPJ"
-      },
-      "artists": [
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 224987,
-      "name": "One Number Away - Recorded At Sound Stage Nashville",
-      "url": "https://open.spotify.com/track/0RmtUP9oQqhO3WFqB3KrM2"
-    },
-    {
-      "added_at": "2024-01-24 18:24:48",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/74utZeTCeaXy01BjOddyv8"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 228460,
-      "name": "Delicate - Recorded at The Tracking Room Nashville",
-      "url": "https://open.spotify.com/track/1Fj0T1XKuhRu7EZzJ7NJIK"
-    },
-    {
-      "added_at": "2024-01-24 18:24:48",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1Q7HOVDbx5pHCROjFc2NDK"
       },
       "artists": [
@@ -339,6 +307,22 @@
       "duration_ms": 346397,
       "name": "Hallelujah - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/33ZIaxsct3MDc0oSPxgY76"
+    },
+    {
+      "added_at": "2024-01-24 18:24:48",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3Teo9qaJ93m4gDLmmAH7GS"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        }
+      ],
+      "duration_ms": 191444,
+      "name": "Don't Start Now",
+      "url": "https://open.spotify.com/track/4RftloQV6tARnLrBuXKzMr"
     },
     {
       "added_at": "2024-01-24 18:24:48",
@@ -355,6 +339,22 @@
       "duration_ms": 317729,
       "name": "Smalltown Boy - Spotify Singles",
       "url": "https://open.spotify.com/track/2UyJBtpLTxB5D4M0Apvu7e"
+    },
+    {
+      "added_at": "2024-01-24 18:24:48",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/74utZeTCeaXy01BjOddyv8"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 228460,
+      "name": "Delicate - Recorded at The Tracking Room Nashville",
+      "url": "https://open.spotify.com/track/1Fj0T1XKuhRu7EZzJ7NJIK"
     },
     {
       "added_at": "2024-01-24 18:24:48",
@@ -636,6 +636,38 @@
       "added_at": "2024-01-24 18:24:48",
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/72JX0b36iIgjSHlhCSLHOv"
+      },
+      "artists": [
+        {
+          "name": "Devin Dawson",
+          "url": "https://open.spotify.com/artist/2ySHS7UojGu20XfUPaBlyu"
+        }
+      ],
+      "duration_ms": 206280,
+      "name": "Whiskey - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/7KeNKDufYkAf3VKOumK12r"
+    },
+    {
+      "added_at": "2024-01-24 18:24:48",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0AwgzJZxt4sf2teqdEjxwV"
+      },
+      "artists": [
+        {
+          "name": "Old Dominion",
+          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
+        }
+      ],
+      "duration_ms": 241456,
+      "name": "Hotel Key - Recorded at Sound Stage Studios Nashville",
+      "url": "https://open.spotify.com/track/1DLguucCi86On4F9TW8CU7"
+    },
+    {
+      "added_at": "2024-01-24 18:24:48",
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/7c95oJyrVBBYkgSbJIxtR1"
       },
       "artists": [
@@ -667,38 +699,6 @@
       "duration_ms": 213800,
       "name": "Elvira (feat. The Oak Ridge Boys) - Recorded at Sound Stage Nashville",
       "url": "https://open.spotify.com/track/4XmLGH5lm3ofjbtZTI5dAm"
-    },
-    {
-      "added_at": "2024-01-24 18:24:48",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/72JX0b36iIgjSHlhCSLHOv"
-      },
-      "artists": [
-        {
-          "name": "Devin Dawson",
-          "url": "https://open.spotify.com/artist/2ySHS7UojGu20XfUPaBlyu"
-        }
-      ],
-      "duration_ms": 206280,
-      "name": "Whiskey - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/7KeNKDufYkAf3VKOumK12r"
-    },
-    {
-      "added_at": "2024-01-24 18:24:48",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0AwgzJZxt4sf2teqdEjxwV"
-      },
-      "artists": [
-        {
-          "name": "Old Dominion",
-          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
-        }
-      ],
-      "duration_ms": 241456,
-      "name": "Hotel Key - Recorded at Sound Stage Studios Nashville",
-      "url": "https://open.spotify.com/track/1DLguucCi86On4F9TW8CU7"
     },
     {
       "added_at": "2024-01-24 18:24:48",
@@ -836,6 +836,22 @@
       "added_at": "2024-01-24 18:24:48",
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/45zKHbhnFK7yWhr3PvCwlC"
+      },
+      "artists": [
+        {
+          "name": "Rascal Flatts",
+          "url": "https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn"
+        }
+      ],
+      "duration_ms": 205986,
+      "name": "Yours If You Want It - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/7IEKsQr25onXLLYaOyD27n"
+    },
+    {
+      "added_at": "2024-01-24 18:24:48",
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3G8anIKFdjaKHRGKUWESgY"
       },
       "artists": [
@@ -851,22 +867,6 @@
       "duration_ms": 178413,
       "name": "Doing It to Country Songs (feat. The Oak Ridge Boys) - Recorded at Sound Stage Nashville",
       "url": "https://open.spotify.com/track/5PoxKc3OfdHr2uQEnIRRyw"
-    },
-    {
-      "added_at": "2024-01-24 18:24:48",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/45zKHbhnFK7yWhr3PvCwlC"
-      },
-      "artists": [
-        {
-          "name": "Rascal Flatts",
-          "url": "https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn"
-        }
-      ],
-      "duration_ms": 205986,
-      "name": "Yours If You Want It - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/7IEKsQr25onXLLYaOyD27n"
     },
     {
       "added_at": "2024-01-24 18:24:48",
@@ -968,17 +968,17 @@
       "added_at": "2024-01-24 18:24:48",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/65LZeGRGhl2SLlDeZN4OPi"
+        "url": "https://open.spotify.com/album/4zudMsniWNz0q2CKRI9Fuy"
       },
       "artists": [
         {
-          "name": "Michael Ray",
-          "url": "https://open.spotify.com/artist/6ghiFYcwn2Vzl6K50U0UPz"
+          "name": "Hunter Hayes",
+          "url": "https://open.spotify.com/artist/7H6dkUChT5EoOQtUVMg4cN"
         }
       ],
-      "duration_ms": 184742,
-      "name": "Get to You - Recorded at Sound Stage Studios, Nashville",
-      "url": "https://open.spotify.com/track/5NwafdEg2onbbPGugB0ZRS"
+      "duration_ms": 182469,
+      "name": "Dear God - Recorded at Woodshed Recording Malibu",
+      "url": "https://open.spotify.com/track/78GAT649ad19quwcuiuMQs"
     },
     {
       "added_at": "2024-01-24 18:24:48",
@@ -995,6 +995,38 @@
       "duration_ms": 257787,
       "name": "Liar Liar - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/54whmtPE736Lh8t0cjrihv"
+    },
+    {
+      "added_at": "2024-01-24 18:24:48",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/43Rr16UbNM5Ui01V4tJxSM"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        }
+      ],
+      "duration_ms": 134615,
+      "name": "Shitty Golfer (Recorded at Sound Stage Studios Nashville)",
+      "url": "https://open.spotify.com/track/3moAWjoAN1vphfLnoBHdsO"
+    },
+    {
+      "added_at": "2024-01-24 18:24:48",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/65LZeGRGhl2SLlDeZN4OPi"
+      },
+      "artists": [
+        {
+          "name": "Michael Ray",
+          "url": "https://open.spotify.com/artist/6ghiFYcwn2Vzl6K50U0UPz"
+        }
+      ],
+      "duration_ms": 184742,
+      "name": "Get to You - Recorded at Sound Stage Studios, Nashville",
+      "url": "https://open.spotify.com/track/5NwafdEg2onbbPGugB0ZRS"
     },
     {
       "added_at": "2024-01-24 18:24:48",
@@ -1027,38 +1059,6 @@
       "duration_ms": 256278,
       "name": "Un-Break My Heart - Spotify Singles",
       "url": "https://open.spotify.com/track/0wGOX6Go9IHpSXgL6SfsD1"
-    },
-    {
-      "added_at": "2024-01-24 18:24:48",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4zudMsniWNz0q2CKRI9Fuy"
-      },
-      "artists": [
-        {
-          "name": "Hunter Hayes",
-          "url": "https://open.spotify.com/artist/7H6dkUChT5EoOQtUVMg4cN"
-        }
-      ],
-      "duration_ms": 182469,
-      "name": "Dear God - Recorded at Woodshed Recording Malibu",
-      "url": "https://open.spotify.com/track/78GAT649ad19quwcuiuMQs"
-    },
-    {
-      "added_at": "2024-01-24 18:24:48",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/43Rr16UbNM5Ui01V4tJxSM"
-      },
-      "artists": [
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        }
-      ],
-      "duration_ms": 134615,
-      "name": "Shitty Golfer (Recorded at Sound Stage Studios Nashville)",
-      "url": "https://open.spotify.com/track/3moAWjoAN1vphfLnoBHdsO"
     },
     {
       "added_at": "2024-01-24 18:24:48",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2024-01-24 18:24:48",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5eByAKcHvykX4jCkS2004X"
-      },
-      "artists": [
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 156160,
-      "name": "Middle Finger - Spotify Singles",
-      "url": "https://open.spotify.com/track/5CR5wpp6rjMiePZyrj81e9"
-    },
-    {
-      "added_at": "2024-01-24 18:24:48",
-      "album": {
         "name": "Spotify Singles (Recorded At Sound Stage Nashville)",
         "url": "https://open.spotify.com/album/0wx6mlaSSj1ckHaKRNTOJh"
       },
@@ -1160,17 +1144,17 @@
       "added_at": "2024-01-24 18:24:48",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4OGc172YSCEreeAyj8Eb25"
+        "url": "https://open.spotify.com/album/5eByAKcHvykX4jCkS2004X"
       },
       "artists": [
         {
-          "name": "Jimmie Allen",
-          "url": "https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c"
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
         }
       ],
-      "duration_ms": 250733,
-      "name": "Best Shot - Spotify Singles",
-      "url": "https://open.spotify.com/track/6rrLJj8UgltvAustzZhK1w"
+      "duration_ms": 156160,
+      "name": "Middle Finger - Spotify Singles",
+      "url": "https://open.spotify.com/track/5CR5wpp6rjMiePZyrj81e9"
     },
     {
       "added_at": "2024-01-24 18:24:48",
@@ -1187,6 +1171,22 @@
       "duration_ms": 259373,
       "name": "Man in the Mirror - Recorded at Sound Stage Studios Nashville",
       "url": "https://open.spotify.com/track/4olvbCz8avPRUGi5l6hz7b"
+    },
+    {
+      "added_at": "2024-01-24 18:24:48",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4OGc172YSCEreeAyj8Eb25"
+      },
+      "artists": [
+        {
+          "name": "Jimmie Allen",
+          "url": "https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c"
+        }
+      ],
+      "duration_ms": 250733,
+      "name": "Best Shot - Spotify Singles",
+      "url": "https://open.spotify.com/track/6rrLJj8UgltvAustzZhK1w"
     }
   ],
   "unique_name": "Spotify Singles: Country",

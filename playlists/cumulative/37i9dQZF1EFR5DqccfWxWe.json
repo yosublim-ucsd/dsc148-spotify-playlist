@@ -427,6 +427,24 @@
     },
     {
       "album": {
+        "name": "Amnesia De Ti / Loop",
+        "url": "https://open.spotify.com/album/6MnPvjVB1B6Ga0p4tKqGM7"
+      },
+      "artists": [
+        {
+          "name": "Paola Guanche",
+          "url": "https://open.spotify.com/artist/2Ws9JynddUXQRogOTAml4G"
+        }
+      ],
+      "date_added": "2024-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256746,
+      "name": "Amnesia De Ti",
+      "url": "https://open.spotify.com/track/1GqZoVVd9U4GrCWNn5Py2T"
+    },
+    {
+      "album": {
         "name": "Stereo",
         "url": "https://open.spotify.com/album/5G4X3SZkDl63ggFtOdQVuW"
       },

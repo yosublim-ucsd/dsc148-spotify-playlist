@@ -2865,6 +2865,24 @@
     },
     {
       "album": {
+        "name": "\u5954\u5411\u9280\u6cb3\u7684\u4f60\uff08\u5f71\u8996\u5287\u300a\u5e25\u54e5\u4e0d\u53ef\u4ee5\u300b\u7247\u982d\u66f2\uff09",
+        "url": "https://open.spotify.com/album/4OXuHRWVrUQgh7xk7asNhO"
+      },
+      "artists": [
+        {
+          "name": "\u5468\u5178\u5967",
+          "url": "https://open.spotify.com/artist/26uSxVELbbHUxtypLCCYfi"
+        }
+      ],
+      "date_added": "2024-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203349,
+      "name": "\u5954\u5411\u9280\u6cb3\u7684\u4f60\uff08\u5f71\u8996\u5287\u300a\u5e25\u54e5\u4e0d\u53ef\u4ee5\u300b\u7247\u982d\u66f2\uff09",
+      "url": "https://open.spotify.com/track/1MkX5Vhmh8fhIUrrDJircX"
+    },
+    {
+      "album": {
         "name": "\u8de8\u6642\u4ee3",
         "url": "https://open.spotify.com/album/7oz7WhrdSfsC3GkAUPOzgL"
       },
@@ -3652,7 +3670,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-27",
       "duration_ms": 196650,
       "name": "\u5fc3\u6d77\u7ad9\u53f0",
       "url": "https://open.spotify.com/track/5b0o9mIqH15DMOC7ZQW341"
@@ -4336,7 +4354,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-27",
       "duration_ms": 213333,
       "name": "\u6211\u6709\u4f60 (I Have You)",
       "url": "https://open.spotify.com/track/6uZDicq06NzupDreN3HIbc"
@@ -4470,6 +4488,24 @@
       "duration_ms": 248675,
       "name": "\u6240\u6709\u76f8\u611b\u7684\u4eba\u554a(\u71b1\u60c5\u7248)",
       "url": "https://open.spotify.com/track/0nPuFKswOvCUaGYl4FIs8m"
+    },
+    {
+      "album": {
+        "name": "\u6492\u5a07\u53ea\u5bf9\u4f60\u6709\u6548 (\u771f\u4eba\u4e92\u52a8\u5f71\u6e38\u300a\u604b\u7231\u5355\u9009\u9898\u300b\u4e3b\u9898\u66f2)",
+        "url": "https://open.spotify.com/album/69fb1BAbz9oerXRSnDOzHZ"
+      },
+      "artists": [
+        {
+          "name": "Kenji Wu",
+          "url": "https://open.spotify.com/artist/1MgybycH8k36NX0Ifzlddb"
+        }
+      ],
+      "date_added": "2024-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122168,
+      "name": "\u6492\u5a07\u53ea\u5bf9\u4f60\u6709\u6548 - \u771f\u4eba\u4e92\u52a8\u5f71\u6e38\u300a\u604b\u7231\u5355\u9009\u9898\u300b\u4e3b\u9898\u66f2",
+      "url": "https://open.spotify.com/track/5fvrJqFKGlVXQGLUlxVs6k"
     },
     {
       "album": {
@@ -6190,7 +6226,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-23",
+      "date_removed": null,
       "duration_ms": 204291,
       "name": "\u8acb\u4f60\u5ac1\u7d66\u6211 - HBO Asia\u539f\u5275\u5f71\u96c6\u300a\u6212\u6307\u6d41\u6d6a\u8a18\u300b\u7247\u982d\u66f2",
       "url": "https://open.spotify.com/track/6FmfdFUbG8q6U2KbsNFo3y"
@@ -6288,7 +6324,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-27",
       "duration_ms": 193666,
       "name": "\u8b93\u6211\u77e5\u9053\u4f60\u4e5f\u559c\u6b61\u6211",
       "url": "https://open.spotify.com/track/1voxGdZxh6hi9Gjb7aXZd7"

@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO3XRXXy.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO3XRXXy) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO3XRXXy)
 
-### [This Is Kenny G](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3XRXXy)
+### [This Is ケニー・G](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3XRXXy)
 
-> This is Kenny G\. The essential tracks, all in one playlist.
+> This is ケニー・G。アーティストの代表曲をひとつのプレイリストに。
 
 51 songs - 3 hr 38 min
 

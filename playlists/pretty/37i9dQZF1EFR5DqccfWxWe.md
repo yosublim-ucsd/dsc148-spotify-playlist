@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR5DqccfWxWe.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/01WM8T4nZ8V34x6bled3la">Julio Reyes</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 247 likes - 152 songs - 8 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 247 likes - 153 songs - 8 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR5DqccfWxWe.md) - [plain]
 | 18 | [Aquí Estoy Yo](https://open.spotify.com/track/7KOVMFhDDBPUqRwmfVOCgn) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh) | [Buena Vida](https://open.spotify.com/album/1awXzHG1Y8xFuJQ75tnnO2) | 3:55 |
 | 19 | [Ciudad De Papel](https://open.spotify.com/track/02aAsIhtfZ5PX1YurqFrOZ) | [Malú](https://open.spotify.com/artist/3TLGNOdp1UWYMnV5XG9HkR) | [Oxígeno](https://open.spotify.com/album/113rLDIkvtuYW1I7uull04) | 3:30 |
 | 20 | [My House](https://open.spotify.com/track/5GMaBMKjisLhVfjRoH5BaW) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Same Trailer Different Park](https://open.spotify.com/album/6IGpQUt0KNi5rBUXZZOFI6) | 2:40 |
-| 21 | [Llueve Alegría \(with Alejandro Sanz\)](https://open.spotify.com/track/6mSWQ0toL0FhkiR10GVTYA) | [Malú](https://open.spotify.com/artist/3TLGNOdp1UWYMnV5XG9HkR), [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Oxígeno](https://open.spotify.com/album/113rLDIkvtuYW1I7uull04) | 4:18 |
-| 22 | [Conexión](https://open.spotify.com/track/2DHtwzLB1pkil1NVwDtM4p) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP) | [+Conexión](https://open.spotify.com/album/6okmlu5xWIKQiRWukN8YYp) | 3:51 |
+| 21 | [Conexión](https://open.spotify.com/track/2DHtwzLB1pkil1NVwDtM4p) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP) | [+Conexión](https://open.spotify.com/album/6okmlu5xWIKQiRWukN8YYp) | 3:51 |
+| 22 | [Llueve Alegría \(with Alejandro Sanz\)](https://open.spotify.com/track/6mSWQ0toL0FhkiR10GVTYA) | [Malú](https://open.spotify.com/artist/3TLGNOdp1UWYMnV5XG9HkR), [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Oxígeno](https://open.spotify.com/album/113rLDIkvtuYW1I7uull04) | 4:18 |
 | 23 | [Regreso](https://open.spotify.com/track/0GALrkctHOO5KzyQNiaaCt) | [Roberto Carlos](https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65) | [Amor Sin Límite](https://open.spotify.com/album/0ZqDgVix0ojjXBc1ypqKVN) | 4:15 |
 | 24 | [Just Wanna Be Single](https://open.spotify.com/track/6MOPttiWyB8P47LK9FYFWi) | [Brika](https://open.spotify.com/artist/3FMbhaYng6VoeCltbwqmtG) | [Voice Memos \(Deluxe\)](https://open.spotify.com/album/2Q1Ztwj2QKxQ5QfKBTpjcs) | 3:00 |
 | 25 | [This Game Is Over](https://open.spotify.com/track/782ph70bAlm6sLi9Vbjyal) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF), [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy), [Jamie Foxx](https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w) | [La Música No Se Toca En Vivo](https://open.spotify.com/album/16JwD51VXLXs5wAjnoUHPs) | 3:45 |
@@ -160,5 +160,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR5DqccfWxWe.md) - [plain]
 | 150 | [Beings of Light](https://open.spotify.com/track/3iyy5c0ccXUtWcduANWthp) | [Iris Muller](https://open.spotify.com/artist/2FO8PJ69yGqjHBKPIWZk5i) | [Soulmade](https://open.spotify.com/album/1B6VdMLWf6d1r1UkcjDuD6) | 4:49 |
 | 151 | [Talk](https://open.spotify.com/track/4wYJf3FB9m6XS2DjSZRbfk) | [Kreesha Turner](https://open.spotify.com/artist/5jrXeH1yhdshRakLMBtkdO) | [Talk](https://open.spotify.com/album/1ejesDMKJZle7bQDkScpeP) | 3:51 |
 | 152 | [Remembering](https://open.spotify.com/track/2rMyOaFPZVqdHEsyUc8kB0) | [Claudia Albuquerque](https://open.spotify.com/artist/1hqcycgAMdUaZtAVpHwGVT) | [Music Freedom](https://open.spotify.com/album/6LZG3zFRBnR3tLom1WdMsU) | 3:37 |
+| 153 | [Amnesia De Ti](https://open.spotify.com/track/1GqZoVVd9U4GrCWNn5Py2T) | [Paola Guanche](https://open.spotify.com/artist/2Ws9JynddUXQRogOTAml4G) | [Amnesia De Ti / Loop](https://open.spotify.com/album/6MnPvjVB1B6Ga0p4tKqGM7) | 4:16 |
 
-Snapshot ID: `AbST4gAAAABdxsuT9WSdJriFO6ugJGng`
+Snapshot ID: `AbSZQgAAAACIIe8OV9drL8vSIHYKq2wl`

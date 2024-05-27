@@ -1,6 +1,6 @@
 {
   "description": "Beat e rime, oggi come una volta. Jack The Smoker e Big Joe in cover.",
-  "num_followers": 41178,
+  "num_followers": 41193,
   "original_name": "Radici Hip-Hop",
   "owner": {
     "name": "Spotify",
@@ -175,22 +175,22 @@
     {
       "added_at": "2024-05-23 22:01:00",
       "album": {
-        "name": "Scatola Nera",
-        "url": "https://open.spotify.com/album/7rdX1715VhDFVwTVbFLcXM"
+        "name": "Guerra E Pace",
+        "url": "https://open.spotify.com/album/3p3zyxP3IBd0KNYNopjXBE"
       },
       "artists": [
         {
-          "name": "Gemitaiz",
-          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
+          "name": "Fabri Fibra",
+          "url": "https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC"
         },
         {
-          "name": "MadMan",
-          "url": "https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX"
+          "name": "Neffa",
+          "url": "https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF"
         }
       ],
-      "duration_ms": 173960,
-      "name": "Veleno 7",
-      "url": "https://open.spotify.com/track/2jkIbZ43eH3rM1yro2Ojzh"
+      "duration_ms": 253360,
+      "name": "Panico",
+      "url": "https://open.spotify.com/track/0q8XaTJ1MzlEb9q7YdStT1"
     },
     {
       "added_at": "2024-05-23 22:01:00",
@@ -219,22 +219,22 @@
     {
       "added_at": "2024-05-23 22:01:00",
       "album": {
-        "name": "Guerra E Pace",
-        "url": "https://open.spotify.com/album/3p3zyxP3IBd0KNYNopjXBE"
+        "name": "Scatola Nera",
+        "url": "https://open.spotify.com/album/7rdX1715VhDFVwTVbFLcXM"
       },
       "artists": [
         {
-          "name": "Fabri Fibra",
-          "url": "https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC"
+          "name": "Gemitaiz",
+          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
         },
         {
-          "name": "Neffa",
-          "url": "https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF"
+          "name": "MadMan",
+          "url": "https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX"
         }
       ],
-      "duration_ms": 253360,
-      "name": "Panico",
-      "url": "https://open.spotify.com/track/0q8XaTJ1MzlEb9q7YdStT1"
+      "duration_ms": 173960,
+      "name": "Veleno 7",
+      "url": "https://open.spotify.com/track/2jkIbZ43eH3rM1yro2Ojzh"
     },
     {
       "added_at": "2024-05-23 22:01:00",
@@ -435,26 +435,6 @@
     {
       "added_at": "2024-05-23 22:01:00",
       "album": {
-        "name": "GRAN TORINO (Red Bull 64 Bars)",
-        "url": "https://open.spotify.com/album/4mvXxyQrvPrh5Ym8DBvAAY"
-      },
-      "artists": [
-        {
-          "name": "Noyz Narcos",
-          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
-        },
-        {
-          "name": "Sine",
-          "url": "https://open.spotify.com/artist/4IEJn7FhTQoNgvSlBH8H6n"
-        }
-      ],
-      "duration_ms": 237241,
-      "name": "GRAN TORINO (Red Bull 64 Bars)",
-      "url": "https://open.spotify.com/track/5XgHAgZ2grYFvHjLQdhiVk"
-    },
-    {
-      "added_at": "2024-05-23 22:01:00",
-      "album": {
         "name": "Madreperla",
         "url": "https://open.spotify.com/album/5FnVg6RBrEFUIEpHRw8EB1"
       },
@@ -487,6 +467,42 @@
     {
       "added_at": "2024-05-23 22:01:00",
       "album": {
+        "name": "GRAN TORINO (Red Bull 64 Bars)",
+        "url": "https://open.spotify.com/album/4mvXxyQrvPrh5Ym8DBvAAY"
+      },
+      "artists": [
+        {
+          "name": "Noyz Narcos",
+          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
+        },
+        {
+          "name": "Sine",
+          "url": "https://open.spotify.com/artist/4IEJn7FhTQoNgvSlBH8H6n"
+        }
+      ],
+      "duration_ms": 237241,
+      "name": "GRAN TORINO (Red Bull 64 Bars)",
+      "url": "https://open.spotify.com/track/5XgHAgZ2grYFvHjLQdhiVk"
+    },
+    {
+      "added_at": "2024-05-23 22:01:00",
+      "album": {
+        "name": "Curre curre guagli\u00f2",
+        "url": "https://open.spotify.com/album/70lSpUqs8nPGcBflIls3DC"
+      },
+      "artists": [
+        {
+          "name": "99 Posse",
+          "url": "https://open.spotify.com/artist/0C47YN6zg3vCNA2gIScdgW"
+        }
+      ],
+      "duration_ms": 323360,
+      "name": "Curre curre guagli\u00f2",
+      "url": "https://open.spotify.com/track/1sGXp5yeGTFsxJDKsvF8QB"
+    },
+    {
+      "added_at": "2024-05-23 22:01:00",
+      "album": {
         "name": "L'Unico Compromesso",
         "url": "https://open.spotify.com/album/6VEIGngAlvGI3OVPMEvZD0"
       },
@@ -503,26 +519,6 @@
       "duration_ms": 239974,
       "name": "Pistorius",
       "url": "https://open.spotify.com/track/0rd3PRhAwDKVx4K1uVoeiZ"
-    },
-    {
-      "added_at": "2024-05-23 22:01:00",
-      "album": {
-        "name": "CVLT",
-        "url": "https://open.spotify.com/album/6HXtcSvv1AXivyZrZjEdG1"
-      },
-      "artists": [
-        {
-          "name": "Salmo",
-          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
-        },
-        {
-          "name": "Noyz Narcos",
-          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
-        }
-      ],
-      "duration_ms": 166208,
-      "name": "MALEDETTI",
-      "url": "https://open.spotify.com/track/4Niczbt1B1FtLb8wibdbR5"
     },
     {
       "added_at": "2024-05-23 22:01:00",
@@ -551,22 +547,6 @@
     {
       "added_at": "2024-05-23 22:01:00",
       "album": {
-        "name": "Curre curre guagli\u00f2",
-        "url": "https://open.spotify.com/album/70lSpUqs8nPGcBflIls3DC"
-      },
-      "artists": [
-        {
-          "name": "99 Posse",
-          "url": "https://open.spotify.com/artist/0C47YN6zg3vCNA2gIScdgW"
-        }
-      ],
-      "duration_ms": 323360,
-      "name": "Curre curre guagli\u00f2",
-      "url": "https://open.spotify.com/track/1sGXp5yeGTFsxJDKsvF8QB"
-    },
-    {
-      "added_at": "2024-05-23 22:01:00",
-      "album": {
         "name": "Mi fist (Remastered version)",
         "url": "https://open.spotify.com/album/5v0hrtP9nDnlfx2rbAiAd8"
       },
@@ -579,6 +559,26 @@
       "duration_ms": 194322,
       "name": "Vida loca - Remix 2k4",
       "url": "https://open.spotify.com/track/3ZiIgbO4CTKZYMO0EE1D9X"
+    },
+    {
+      "added_at": "2024-05-23 22:01:00",
+      "album": {
+        "name": "CVLT",
+        "url": "https://open.spotify.com/album/6HXtcSvv1AXivyZrZjEdG1"
+      },
+      "artists": [
+        {
+          "name": "Salmo",
+          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+        },
+        {
+          "name": "Noyz Narcos",
+          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
+        }
+      ],
+      "duration_ms": 166208,
+      "name": "MALEDETTI",
+      "url": "https://open.spotify.com/track/4Niczbt1B1FtLb8wibdbR5"
     },
     {
       "added_at": "2024-05-23 22:01:00",
@@ -643,6 +643,22 @@
     {
       "added_at": "2024-05-23 22:01:00",
       "album": {
+        "name": "Penna Capitale",
+        "url": "https://open.spotify.com/album/0jsRfpEI674x8A0UkgMTuL"
+      },
+      "artists": [
+        {
+          "name": "Club Dogo",
+          "url": "https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv"
+        }
+      ],
+      "duration_ms": 202885,
+      "name": "Una Volta Sola",
+      "url": "https://open.spotify.com/track/4k6r87hJWwXycbTzcNkLgF"
+    },
+    {
+      "added_at": "2024-05-23 22:01:00",
+      "album": {
         "name": "Non Dormire",
         "url": "https://open.spotify.com/album/0JI15mziWe7eKoM7nt8vsX"
       },
@@ -659,26 +675,6 @@
       "duration_ms": 242906,
       "name": "Verano Zombie",
       "url": "https://open.spotify.com/track/64lAuSz0vPFFK4IAFlENnU"
-    },
-    {
-      "added_at": "2024-05-23 22:01:00",
-      "album": {
-        "name": "UNA VITA SOLA",
-        "url": "https://open.spotify.com/album/5zS0WnIbFcO2ZCakdLLSNm"
-      },
-      "artists": [
-        {
-          "name": "Jamil",
-          "url": "https://open.spotify.com/artist/1BvLhDkql2F6d4G5aaajY2"
-        },
-        {
-          "name": "Vacca",
-          "url": "https://open.spotify.com/artist/4lXqyfnO42fw7mPGF5ZXjR"
-        }
-      ],
-      "duration_ms": 220695,
-      "name": "UNA VITA SOLA",
-      "url": "https://open.spotify.com/track/4Th9fHw8yRkKhbxufVJ4ld"
     },
     {
       "added_at": "2024-05-23 22:01:00",
@@ -719,38 +715,22 @@
     {
       "added_at": "2024-05-23 22:01:00",
       "album": {
-        "name": "Penna Capitale",
-        "url": "https://open.spotify.com/album/0jsRfpEI674x8A0UkgMTuL"
+        "name": "UNA VITA SOLA",
+        "url": "https://open.spotify.com/album/5zS0WnIbFcO2ZCakdLLSNm"
       },
       "artists": [
         {
-          "name": "Club Dogo",
-          "url": "https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv"
-        }
-      ],
-      "duration_ms": 202885,
-      "name": "Una Volta Sola",
-      "url": "https://open.spotify.com/track/4k6r87hJWwXycbTzcNkLgF"
-    },
-    {
-      "added_at": "2024-05-23 22:01:00",
-      "album": {
-        "name": "La calda notte",
-        "url": "https://open.spotify.com/album/6QdeiDIk0cnXh7czJPWqFT"
-      },
-      "artists": [
-        {
-          "name": "Noyz Narcos",
-          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
+          "name": "Jamil",
+          "url": "https://open.spotify.com/artist/1BvLhDkql2F6d4G5aaajY2"
         },
         {
-          "name": "Chicoria",
-          "url": "https://open.spotify.com/artist/5OzBpKiOsMFpuwvbJpUGce"
+          "name": "Vacca",
+          "url": "https://open.spotify.com/artist/4lXqyfnO42fw7mPGF5ZXjR"
         }
       ],
-      "duration_ms": 273746,
-      "name": "Cronaca quotidiana",
-      "url": "https://open.spotify.com/track/3Iy36LKLxcYjSxr7ZOUJ7V"
+      "duration_ms": 220695,
+      "name": "UNA VITA SOLA",
+      "url": "https://open.spotify.com/track/4Th9fHw8yRkKhbxufVJ4ld"
     },
     {
       "added_at": "2024-05-23 22:01:00",
@@ -815,6 +795,42 @@
     {
       "added_at": "2024-05-23 22:01:00",
       "album": {
+        "name": "La calda notte",
+        "url": "https://open.spotify.com/album/6QdeiDIk0cnXh7czJPWqFT"
+      },
+      "artists": [
+        {
+          "name": "Noyz Narcos",
+          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
+        },
+        {
+          "name": "Chicoria",
+          "url": "https://open.spotify.com/artist/5OzBpKiOsMFpuwvbJpUGce"
+        }
+      ],
+      "duration_ms": 273746,
+      "name": "Cronaca quotidiana",
+      "url": "https://open.spotify.com/track/3Iy36LKLxcYjSxr7ZOUJ7V"
+    },
+    {
+      "added_at": "2024-05-23 22:01:00",
+      "album": {
+        "name": "Mi fist (Remastered version)",
+        "url": "https://open.spotify.com/album/5v0hrtP9nDnlfx2rbAiAd8"
+      },
+      "artists": [
+        {
+          "name": "Club Dogo",
+          "url": "https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv"
+        }
+      ],
+      "duration_ms": 221806,
+      "name": "Cronache di resistenza - Hard to do",
+      "url": "https://open.spotify.com/track/3nEmwAy1uQD8Nwr93J8vYc"
+    },
+    {
+      "added_at": "2024-05-23 22:01:00",
+      "album": {
         "name": "Sedicinoni",
         "url": "https://open.spotify.com/album/7tIWAR5flU4Qej47dd5zOV"
       },
@@ -871,46 +887,6 @@
     {
       "added_at": "2024-05-23 22:01:00",
       "album": {
-        "name": "Mi fist (Remastered version)",
-        "url": "https://open.spotify.com/album/5v0hrtP9nDnlfx2rbAiAd8"
-      },
-      "artists": [
-        {
-          "name": "Club Dogo",
-          "url": "https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv"
-        }
-      ],
-      "duration_ms": 221806,
-      "name": "Cronache di resistenza - Hard to do",
-      "url": "https://open.spotify.com/track/3nEmwAy1uQD8Nwr93J8vYc"
-    },
-    {
-      "added_at": "2024-05-23 22:01:00",
-      "album": {
-        "name": "VIRUS",
-        "url": "https://open.spotify.com/album/1PuzNok4t4FnyY92G202UU"
-      },
-      "artists": [
-        {
-          "name": "Noyz Narcos",
-          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
-        },
-        {
-          "name": "Gemello",
-          "url": "https://open.spotify.com/artist/3GNq6JwYWh8B2xujy6ub04"
-        },
-        {
-          "name": "Metal Carter",
-          "url": "https://open.spotify.com/artist/0H4qKbzvpxPEz0Vbm7ULo4"
-        }
-      ],
-      "duration_ms": 258665,
-      "name": "VERANO ZOMBIE PT.3 (feat. Gemello & Metal Carter)",
-      "url": "https://open.spotify.com/track/5FUSmeF3iIYBXsANx5Z6A6"
-    },
-    {
-      "added_at": "2024-05-23 22:01:00",
-      "album": {
         "name": "Curre curre guagli\u00f2",
         "url": "https://open.spotify.com/album/70lSpUqs8nPGcBflIls3DC"
       },
@@ -959,30 +935,6 @@
     {
       "added_at": "2024-05-23 22:01:00",
       "album": {
-        "name": "Dead Poets 3 - Maledetti",
-        "url": "https://open.spotify.com/album/3yCuWgWAGTPSAA4m52wP74"
-      },
-      "artists": [
-        {
-          "name": "DJ Fastcut",
-          "url": "https://open.spotify.com/artist/5wlZkgwhLD0Zbsj1sH99Dw"
-        },
-        {
-          "name": "Murubutu",
-          "url": "https://open.spotify.com/artist/1UAY1hWd5x69hPVXMXIeri"
-        },
-        {
-          "name": "Mattak",
-          "url": "https://open.spotify.com/artist/3hCo0MeLrjAvQxAzPknjhK"
-        }
-      ],
-      "duration_ms": 172151,
-      "name": "Sindrome di Stendhal",
-      "url": "https://open.spotify.com/track/6SaI3nXXwwn7ErkiWNiA3I"
-    },
-    {
-      "added_at": "2024-05-23 22:01:00",
-      "album": {
         "name": "60 Hz",
         "url": "https://open.spotify.com/album/7wLbLRZ53GbV4FUysp4wdO"
       },
@@ -1003,6 +955,54 @@
       "duration_ms": 233786,
       "name": "Bolo By Night",
       "url": "https://open.spotify.com/track/44HlIYtlj3BL5IH5zbNA6t"
+    },
+    {
+      "added_at": "2024-05-23 22:01:00",
+      "album": {
+        "name": "VIRUS",
+        "url": "https://open.spotify.com/album/1PuzNok4t4FnyY92G202UU"
+      },
+      "artists": [
+        {
+          "name": "Noyz Narcos",
+          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
+        },
+        {
+          "name": "Gemello",
+          "url": "https://open.spotify.com/artist/3GNq6JwYWh8B2xujy6ub04"
+        },
+        {
+          "name": "Metal Carter",
+          "url": "https://open.spotify.com/artist/0H4qKbzvpxPEz0Vbm7ULo4"
+        }
+      ],
+      "duration_ms": 258665,
+      "name": "VERANO ZOMBIE PT.3 (feat. Gemello & Metal Carter)",
+      "url": "https://open.spotify.com/track/5FUSmeF3iIYBXsANx5Z6A6"
+    },
+    {
+      "added_at": "2024-05-23 22:01:00",
+      "album": {
+        "name": "Dead Poets 3 - Maledetti",
+        "url": "https://open.spotify.com/album/3yCuWgWAGTPSAA4m52wP74"
+      },
+      "artists": [
+        {
+          "name": "DJ Fastcut",
+          "url": "https://open.spotify.com/artist/5wlZkgwhLD0Zbsj1sH99Dw"
+        },
+        {
+          "name": "Murubutu",
+          "url": "https://open.spotify.com/artist/1UAY1hWd5x69hPVXMXIeri"
+        },
+        {
+          "name": "Mattak",
+          "url": "https://open.spotify.com/artist/3hCo0MeLrjAvQxAzPknjhK"
+        }
+      ],
+      "duration_ms": 172151,
+      "name": "Sindrome di Stendhal",
+      "url": "https://open.spotify.com/track/6SaI3nXXwwn7ErkiWNiA3I"
     },
     {
       "added_at": "2024-05-23 22:01:00",
@@ -1071,30 +1071,6 @@
     {
       "added_at": "2024-05-23 22:01:00",
       "album": {
-        "name": "Fritz",
-        "url": "https://open.spotify.com/album/71OwUP6CTR5Kzsv6T9jcl0"
-      },
-      "artists": [
-        {
-          "name": "Fritz Da Cat",
-          "url": "https://open.spotify.com/artist/0LhpncWOh05kPQvBxScHLI"
-        },
-        {
-          "name": "Noyz Narcos",
-          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
-        },
-        {
-          "name": "Calibro 35",
-          "url": "https://open.spotify.com/artist/7ueDbhgpZaiUxEbiHnwezi"
-        }
-      ],
-      "duration_ms": 219104,
-      "name": "With Or Without It",
-      "url": "https://open.spotify.com/track/6RqplPMqcfjFWvlqPycNDe"
-    },
-    {
-      "added_at": "2024-05-23 22:01:00",
-      "album": {
         "name": "CRISTI E DIAVOLI",
         "url": "https://open.spotify.com/album/1HORxlpvyOlVXnBGuU7DRC"
       },
@@ -1119,6 +1095,30 @@
       "duration_ms": 168546,
       "name": "Tinta unita (feat. Danno)",
       "url": "https://open.spotify.com/track/3jmoC0sFLeBrYbC5NujQK9"
+    },
+    {
+      "added_at": "2024-05-23 22:01:00",
+      "album": {
+        "name": "Fritz",
+        "url": "https://open.spotify.com/album/71OwUP6CTR5Kzsv6T9jcl0"
+      },
+      "artists": [
+        {
+          "name": "Fritz Da Cat",
+          "url": "https://open.spotify.com/artist/0LhpncWOh05kPQvBxScHLI"
+        },
+        {
+          "name": "Noyz Narcos",
+          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
+        },
+        {
+          "name": "Calibro 35",
+          "url": "https://open.spotify.com/artist/7ueDbhgpZaiUxEbiHnwezi"
+        }
+      ],
+      "duration_ms": 219104,
+      "name": "With Or Without It",
+      "url": "https://open.spotify.com/track/6RqplPMqcfjFWvlqPycNDe"
     },
     {
       "added_at": "2024-05-23 22:01:00",
@@ -1475,26 +1475,6 @@
     {
       "added_at": "2024-05-23 22:01:00",
       "album": {
-        "name": "Pallottole Sull\u2019Amore (feat. Fabri Fibra)",
-        "url": "https://open.spotify.com/album/0Ad8s8Wb02jw9ZpkNErjuX"
-      },
-      "artists": [
-        {
-          "name": "Cor Veleno",
-          "url": "https://open.spotify.com/artist/2OFhu1uXhK8gutkt7QcF2R"
-        },
-        {
-          "name": "Fabri Fibra",
-          "url": "https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC"
-        }
-      ],
-      "duration_ms": 235329,
-      "name": "Pallottole Sull'Amore (feat. Fabri Fibra)",
-      "url": "https://open.spotify.com/track/5ZgSHdkSfuTZcO157LTxuz"
-    },
-    {
-      "added_at": "2024-05-23 22:01:00",
-      "album": {
         "name": "Fritz",
         "url": "https://open.spotify.com/album/71OwUP6CTR5Kzsv6T9jcl0"
       },
@@ -1523,6 +1503,26 @@
     {
       "added_at": "2024-05-23 22:01:00",
       "album": {
+        "name": "Pallottole Sull\u2019Amore (feat. Fabri Fibra)",
+        "url": "https://open.spotify.com/album/0Ad8s8Wb02jw9ZpkNErjuX"
+      },
+      "artists": [
+        {
+          "name": "Cor Veleno",
+          "url": "https://open.spotify.com/artist/2OFhu1uXhK8gutkt7QcF2R"
+        },
+        {
+          "name": "Fabri Fibra",
+          "url": "https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC"
+        }
+      ],
+      "duration_ms": 235329,
+      "name": "Pallottole Sull'Amore (feat. Fabri Fibra)",
+      "url": "https://open.spotify.com/track/5ZgSHdkSfuTZcO157LTxuz"
+    },
+    {
+      "added_at": "2024-05-23 22:01:00",
+      "album": {
         "name": "Chi more pe' mme",
         "url": "https://open.spotify.com/album/7sQY9G34DIq1rFaL4Du7ei"
       },
@@ -1535,22 +1535,6 @@
       "duration_ms": 283480,
       "name": "Chi more pe' mme",
       "url": "https://open.spotify.com/track/25flWdPdXnkAUnaAYiptsJ"
-    },
-    {
-      "added_at": "2024-05-23 22:01:00",
-      "album": {
-        "name": "SXM",
-        "url": "https://open.spotify.com/album/0VpYT5ALiNjrPCjVI9GG3E"
-      },
-      "artists": [
-        {
-          "name": "Sangue Misto",
-          "url": "https://open.spotify.com/artist/2aLBxDxa6Mt4i36cUY7lTL"
-        }
-      ],
-      "duration_ms": 391960,
-      "name": "La porra",
-      "url": "https://open.spotify.com/track/3LwO99eYcBuX0n6ttVtKCQ"
     },
     {
       "added_at": "2024-05-23 22:01:00",
@@ -1591,6 +1575,22 @@
       "duration_ms": 143892,
       "name": "Caramelle da uno sconosciuto",
       "url": "https://open.spotify.com/track/6OHeFnEBuMlCMC7duHmblF"
+    },
+    {
+      "added_at": "2024-05-23 22:01:00",
+      "album": {
+        "name": "SXM",
+        "url": "https://open.spotify.com/album/0VpYT5ALiNjrPCjVI9GG3E"
+      },
+      "artists": [
+        {
+          "name": "Sangue Misto",
+          "url": "https://open.spotify.com/artist/2aLBxDxa6Mt4i36cUY7lTL"
+        }
+      ],
+      "duration_ms": 391960,
+      "name": "La porra",
+      "url": "https://open.spotify.com/track/3LwO99eYcBuX0n6ttVtKCQ"
     },
     {
       "added_at": "2024-05-23 22:01:00",
@@ -2019,6 +2019,26 @@
     {
       "added_at": "2024-05-23 22:01:00",
       "album": {
+        "name": "Era Tutto Un Sogno",
+        "url": "https://open.spotify.com/album/2v3HEA2GorZa2JZKEKiHxA"
+      },
+      "artists": [
+        {
+          "name": "Ensi",
+          "url": "https://open.spotify.com/artist/6dKdNHGdsBvEeNDxXV8AMP"
+        },
+        {
+          "name": "Salmo",
+          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+        }
+      ],
+      "duration_ms": 212786,
+      "name": "Tutti Contenti (feat. Salmo)",
+      "url": "https://open.spotify.com/track/6Wdf1htEjr9K5JeS82BHfM"
+    },
+    {
+      "added_at": "2024-05-23 22:01:00",
+      "album": {
         "name": "PALIFORNIA",
         "url": "https://open.spotify.com/album/4mEKiX9VzmZJGpicUczrSA"
       },
@@ -2039,26 +2059,6 @@
       "duration_ms": 155745,
       "name": "Qgino",
       "url": "https://open.spotify.com/track/7Jn9Heg6GjVSabucO9CJLN"
-    },
-    {
-      "added_at": "2024-05-23 22:01:00",
-      "album": {
-        "name": "Era Tutto Un Sogno",
-        "url": "https://open.spotify.com/album/2v3HEA2GorZa2JZKEKiHxA"
-      },
-      "artists": [
-        {
-          "name": "Ensi",
-          "url": "https://open.spotify.com/artist/6dKdNHGdsBvEeNDxXV8AMP"
-        },
-        {
-          "name": "Salmo",
-          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
-        }
-      ],
-      "duration_ms": 212786,
-      "name": "Tutti Contenti (feat. Salmo)",
-      "url": "https://open.spotify.com/track/6Wdf1htEjr9K5JeS82BHfM"
     },
     {
       "added_at": "2024-05-23 22:01:00",
@@ -2131,6 +2131,22 @@
     {
       "added_at": "2024-05-23 22:01:00",
       "album": {
+        "name": "MISERABILE",
+        "url": "https://open.spotify.com/album/3pw6wIkDLsG3a9BB0c4Zr1"
+      },
+      "artists": [
+        {
+          "name": "Macaboro",
+          "url": "https://open.spotify.com/artist/7mtZP3UQaCaWhM2K8ubgF9"
+        }
+      ],
+      "duration_ms": 151538,
+      "name": "MISERABILE",
+      "url": "https://open.spotify.com/track/1U8UISHXkDT6lEXMpBOmSw"
+    },
+    {
+      "added_at": "2024-05-23 22:01:00",
+      "album": {
         "name": "Teoria Del Contrario",
         "url": "https://open.spotify.com/album/5WtI1eNKltxIuj64GX6sKp"
       },
@@ -2147,22 +2163,6 @@
       "duration_ms": 171942,
       "name": "Heart",
       "url": "https://open.spotify.com/track/4X5uhcK7wjQItrJq34g1LB"
-    },
-    {
-      "added_at": "2024-05-23 22:01:00",
-      "album": {
-        "name": "MISERABILE",
-        "url": "https://open.spotify.com/album/3pw6wIkDLsG3a9BB0c4Zr1"
-      },
-      "artists": [
-        {
-          "name": "Macaboro",
-          "url": "https://open.spotify.com/artist/7mtZP3UQaCaWhM2K8ubgF9"
-        }
-      ],
-      "duration_ms": 151538,
-      "name": "MISERABILE",
-      "url": "https://open.spotify.com/track/1U8UISHXkDT6lEXMpBOmSw"
     },
     {
       "added_at": "2024-05-23 22:01:00",
@@ -2375,6 +2375,30 @@
     {
       "added_at": "2024-05-23 22:01:00",
       "album": {
+        "name": "IDDU",
+        "url": "https://open.spotify.com/album/5Gb0UlQfDweq4HU5k81qtL"
+      },
+      "artists": [
+        {
+          "name": "Armani Doc",
+          "url": "https://open.spotify.com/artist/7djBWDVQvjaDbC8rSilpLC"
+        },
+        {
+          "name": "ThinkFast",
+          "url": "https://open.spotify.com/artist/0zY3rKlVW1d0tMW7gZyX3T"
+        },
+        {
+          "name": "Lenor",
+          "url": "https://open.spotify.com/artist/4pWBZqR0oa0gjBKEhaw4SK"
+        }
+      ],
+      "duration_ms": 160365,
+      "name": "Peri Peri",
+      "url": "https://open.spotify.com/track/7Hi2almjxtGgAjODubaHEC"
+    },
+    {
+      "added_at": "2024-05-23 22:01:00",
+      "album": {
         "name": "Hashishinz Sound, Vol. 1",
         "url": "https://open.spotify.com/album/686o277ou2T3uWQ2LBiJAP"
       },
@@ -2451,34 +2475,6 @@
       "duration_ms": 262613,
       "name": "4 Secondi",
       "url": "https://open.spotify.com/track/4Dnk6qGvzcXUqpokaMsfjg"
-    },
-    {
-      "added_at": "2024-05-23 22:01:00",
-      "album": {
-        "name": "GIFTED",
-        "url": "https://open.spotify.com/album/6Sxy1EntT5Zo3xFCwyXKKs"
-      },
-      "artists": [
-        {
-          "name": "Armani Doc",
-          "url": "https://open.spotify.com/artist/7djBWDVQvjaDbC8rSilpLC"
-        },
-        {
-          "name": "ThinkFast",
-          "url": "https://open.spotify.com/artist/0zY3rKlVW1d0tMW7gZyX3T"
-        },
-        {
-          "name": "Nex Cassel",
-          "url": "https://open.spotify.com/artist/3xaOS4EuhPKa2wV01mH7oe"
-        },
-        {
-          "name": "Ensi",
-          "url": "https://open.spotify.com/artist/6dKdNHGdsBvEeNDxXV8AMP"
-        }
-      ],
-      "duration_ms": 203584,
-      "name": "Moltisanti",
-      "url": "https://open.spotify.com/track/3yT47dCQpoJE4Uy1Hmf9oi"
     },
     {
       "added_at": "2024-05-23 22:01:00",
@@ -2567,18 +2563,30 @@
     {
       "added_at": "2024-05-23 22:01:00",
       "album": {
-        "name": "Qualcosa \u00e8 cambiato",
-        "url": "https://open.spotify.com/album/01ckjYfHeUMxArE52Ufwab"
+        "name": "GIFTED",
+        "url": "https://open.spotify.com/album/6Sxy1EntT5Zo3xFCwyXKKs"
       },
       "artists": [
         {
-          "name": "Ghemon",
-          "url": "https://open.spotify.com/artist/4xgOj3GP5I1do9ip0MQkLa"
+          "name": "Armani Doc",
+          "url": "https://open.spotify.com/artist/7djBWDVQvjaDbC8rSilpLC"
+        },
+        {
+          "name": "ThinkFast",
+          "url": "https://open.spotify.com/artist/0zY3rKlVW1d0tMW7gZyX3T"
+        },
+        {
+          "name": "Nex Cassel",
+          "url": "https://open.spotify.com/artist/3xaOS4EuhPKa2wV01mH7oe"
+        },
+        {
+          "name": "Ensi",
+          "url": "https://open.spotify.com/artist/6dKdNHGdsBvEeNDxXV8AMP"
         }
       ],
-      "duration_ms": 262693,
-      "name": "La Verit\u00e0 (Non Abita Pi\u00f9 Qua)",
-      "url": "https://open.spotify.com/track/3a7IMYChDLGVEqubscuao1"
+      "duration_ms": 203584,
+      "name": "Moltisanti",
+      "url": "https://open.spotify.com/track/3yT47dCQpoJE4Uy1Hmf9oi"
     },
     {
       "added_at": "2024-05-23 22:01:00",
@@ -2639,6 +2647,22 @@
     {
       "added_at": "2024-05-23 22:01:00",
       "album": {
+        "name": "Qualcosa \u00e8 cambiato",
+        "url": "https://open.spotify.com/album/01ckjYfHeUMxArE52Ufwab"
+      },
+      "artists": [
+        {
+          "name": "Ghemon",
+          "url": "https://open.spotify.com/artist/4xgOj3GP5I1do9ip0MQkLa"
+        }
+      ],
+      "duration_ms": 262693,
+      "name": "La Verit\u00e0 (Non Abita Pi\u00f9 Qua)",
+      "url": "https://open.spotify.com/track/3a7IMYChDLGVEqubscuao1"
+    },
+    {
+      "added_at": "2024-05-23 22:01:00",
+      "album": {
         "name": "Fuori di qua! (Stories) [2022 Remastered]",
         "url": "https://open.spotify.com/album/0SlhHxpp35EFUqgwJUi2Fn"
       },
@@ -2679,30 +2703,6 @@
       "duration_ms": 183998,
       "name": "Spinaci",
       "url": "https://open.spotify.com/track/4XYsnV3VKzYgwZj1mrnanq"
-    },
-    {
-      "added_at": "2024-05-23 22:01:00",
-      "album": {
-        "name": "IDDU",
-        "url": "https://open.spotify.com/album/5Gb0UlQfDweq4HU5k81qtL"
-      },
-      "artists": [
-        {
-          "name": "Armani Doc",
-          "url": "https://open.spotify.com/artist/7djBWDVQvjaDbC8rSilpLC"
-        },
-        {
-          "name": "ThinkFast",
-          "url": "https://open.spotify.com/artist/0zY3rKlVW1d0tMW7gZyX3T"
-        },
-        {
-          "name": "Lenor",
-          "url": "https://open.spotify.com/artist/4pWBZqR0oa0gjBKEhaw4SK"
-        }
-      ],
-      "duration_ms": 160365,
-      "name": "Peri Peri",
-      "url": "https://open.spotify.com/track/7Hi2almjxtGgAjODubaHEC"
     },
     {
       "added_at": "2024-05-23 22:01:00",
@@ -2943,6 +2943,30 @@
     {
       "added_at": "2024-05-23 22:01:00",
       "album": {
+        "name": "Classe 73",
+        "url": "https://open.spotify.com/album/5ojuD49ScbKa49NyxyaqMx"
+      },
+      "artists": [
+        {
+          "name": "Bassi Maestro",
+          "url": "https://open.spotify.com/artist/4sQiXz6GYok2zyqMSHG0MX"
+        },
+        {
+          "name": "Ape",
+          "url": "https://open.spotify.com/artist/5jHrsaNkl9n2qBGYXGiCFM"
+        },
+        {
+          "name": "Zampa",
+          "url": "https://open.spotify.com/artist/74hjtVEnADkw2SwqBuP2T8"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "Giorni matti",
+      "url": "https://open.spotify.com/track/0rn3RZZWJz10OQts57pnX9"
+    },
+    {
+      "added_at": "2024-05-23 22:01:00",
+      "album": {
         "name": "Fabiano Detto Inoki",
         "url": "https://open.spotify.com/album/78a5pjxDZLeFZQnGyjRiDQ"
       },
@@ -2971,30 +2995,6 @@
       "duration_ms": 288066,
       "name": "Il cielo su Roma",
       "url": "https://open.spotify.com/track/4mrWDWjC6Y9dnIMPxgIoYv"
-    },
-    {
-      "added_at": "2024-05-23 22:01:00",
-      "album": {
-        "name": "Classe 73",
-        "url": "https://open.spotify.com/album/5ojuD49ScbKa49NyxyaqMx"
-      },
-      "artists": [
-        {
-          "name": "Bassi Maestro",
-          "url": "https://open.spotify.com/artist/4sQiXz6GYok2zyqMSHG0MX"
-        },
-        {
-          "name": "Ape",
-          "url": "https://open.spotify.com/artist/5jHrsaNkl9n2qBGYXGiCFM"
-        },
-        {
-          "name": "Zampa",
-          "url": "https://open.spotify.com/artist/74hjtVEnADkw2SwqBuP2T8"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "Giorni matti",
-      "url": "https://open.spotify.com/track/0rn3RZZWJz10OQts57pnX9"
     },
     {
       "added_at": "2024-05-23 22:01:00",

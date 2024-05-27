@@ -1,12 +1,12 @@
 {
-  "description": "This Is Jamiroquai. Los temas esenciales, todos en una lista.",
-  "num_followers": 385639,
+  "description": "This is Jamiroquai. The essential tracks, all in one playlist.",
+  "num_followers": 385713,
   "original_name": "This Is Jamiroquai",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zk/YgAAAAACWgudX88bNgxPzmHChvCu7",
+  "snapshot_id": "ZlEqAAAAAADwrH0623A0EBtwT6/HlWgv",
   "tracks": [
     {
       "added_at": null,
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
         }
       ],
-      "duration_ms": 224493,
-      "name": "Love Foolosophy - Radio Edit",
-      "url": "https://open.spotify.com/track/0upgxxew2mVAEctrz08jnf"
+      "duration_ms": 295400,
+      "name": "Little L",
+      "url": "https://open.spotify.com/track/7hhclvecTpNxNNRCk7NUoc"
     },
     {
       "added_at": null,
@@ -151,22 +151,6 @@
       "duration_ms": 236946,
       "name": "Cloud 9",
       "url": "https://open.spotify.com/track/2kX4ykCwUeAVYv6fahnDfG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rock Dust Light Star (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5mTP7Oivpq88d7ZQ9DBt4F"
-      },
-      "artists": [
-        {
-          "name": "Jamiroquai",
-          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
-        }
-      ],
-      "duration_ms": 213693,
-      "name": "White Knuckle Ride",
-      "url": "https://open.spotify.com/track/7LWXh2JPLzKt1dla81mWWt"
     },
     {
       "added_at": null,
@@ -203,6 +187,22 @@
       "duration_ms": 225173,
       "name": "Falling",
       "url": "https://open.spotify.com/track/7K8GcdnDHcGKa5pYmhg5k6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Funk Odyssey",
+        "url": "https://open.spotify.com/album/6cLYs4e403jQk6PJ8PG9rs"
+      },
+      "artists": [
+        {
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+        }
+      ],
+      "duration_ms": 224493,
+      "name": "Love Foolosophy - Radio Edit",
+      "url": "https://open.spotify.com/track/0upgxxew2mVAEctrz08jnf"
     },
     {
       "added_at": null,
@@ -475,6 +475,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rock Dust Light Star (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5mTP7Oivpq88d7ZQ9DBt4F"
+      },
+      "artists": [
+        {
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+        }
+      ],
+      "duration_ms": 231666,
+      "name": "Blue Skies",
+      "url": "https://open.spotify.com/track/7AJYzLJSLtJzic79quUS0j"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Travelling Without Moving (Remastered)",
         "url": "https://open.spotify.com/album/4yrrPNjd9RcqnuDnoEhlER"
       },
@@ -491,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Emergency on Planet Earth (Remastered)",
-        "url": "https://open.spotify.com/album/0SeTonJJPjy57LqiCDmeEM"
-      },
-      "artists": [
-        {
-          "name": "Jamiroquai",
-          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
-        }
-      ],
-      "duration_ms": 245173,
-      "name": "Emergency on Planet Earth",
-      "url": "https://open.spotify.com/track/0mmI8HaXjgzxrtKDmvAN7R"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Automaton",
         "url": "https://open.spotify.com/album/1xQq0txMTpstjFUwp4c4E0"
       },
@@ -519,6 +519,22 @@
       "duration_ms": 238533,
       "name": "Something About You",
       "url": "https://open.spotify.com/track/2xT2d2PxUVKEchW64s2ff9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Emergency on Planet Earth (Remastered)",
+        "url": "https://open.spotify.com/album/0SeTonJJPjy57LqiCDmeEM"
+      },
+      "artists": [
+        {
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+        }
+      ],
+      "duration_ms": 245173,
+      "name": "Emergency on Planet Earth",
+      "url": "https://open.spotify.com/track/0mmI8HaXjgzxrtKDmvAN7R"
     },
     {
       "added_at": null,
@@ -555,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Emergency on Planet Earth (Remastered)",
-        "url": "https://open.spotify.com/album/0SeTonJJPjy57LqiCDmeEM"
-      },
-      "artists": [
-        {
-          "name": "Jamiroquai",
-          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
-        }
-      ],
-      "duration_ms": 292666,
-      "name": "If I Like It, I Do It",
-      "url": "https://open.spotify.com/track/6DpVRGSelmlUqjOaXrlS3N"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Automaton",
         "url": "https://open.spotify.com/album/1xQq0txMTpstjFUwp4c4E0"
       },
@@ -583,6 +583,22 @@
       "duration_ms": 287960,
       "name": "Automaton",
       "url": "https://open.spotify.com/track/42dJ29C11xlJTLkRVmKty1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Emergency on Planet Earth (Remastered)",
+        "url": "https://open.spotify.com/album/0SeTonJJPjy57LqiCDmeEM"
+      },
+      "artists": [
+        {
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+        }
+      ],
+      "duration_ms": 292666,
+      "name": "If I Like It, I Do It",
+      "url": "https://open.spotify.com/track/6DpVRGSelmlUqjOaXrlS3N"
     },
     {
       "added_at": null,
@@ -619,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Funk Odyssey",
-        "url": "https://open.spotify.com/album/6cLYs4e403jQk6PJ8PG9rs"
-      },
-      "artists": [
-        {
-          "name": "Jamiroquai",
-          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
-        }
-      ],
-      "duration_ms": 124546,
-      "name": "So Good to Feel Real",
-      "url": "https://open.spotify.com/track/4UALNtb6gBbaDHWazUenW3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Automaton",
         "url": "https://open.spotify.com/album/1xQq0txMTpstjFUwp4c4E0"
       },
@@ -647,6 +647,22 @@
       "duration_ms": 271986,
       "name": "Hot Property",
       "url": "https://open.spotify.com/track/4OcTu05fjO7mRBmfCL1nZd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Funk Odyssey",
+        "url": "https://open.spotify.com/album/6cLYs4e403jQk6PJ8PG9rs"
+      },
+      "artists": [
+        {
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+        }
+      ],
+      "duration_ms": 124546,
+      "name": "So Good to Feel Real",
+      "url": "https://open.spotify.com/track/4UALNtb6gBbaDHWazUenW3"
     },
     {
       "added_at": null,
@@ -775,22 +791,6 @@
       "duration_ms": 383360,
       "name": "Music of the Mind",
       "url": "https://open.spotify.com/track/29uQW0hQQLU39lTYoB9YMo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Funk Odyssey",
-        "url": "https://open.spotify.com/album/6cLYs4e403jQk6PJ8PG9rs"
-      },
-      "artists": [
-        {
-          "name": "Jamiroquai",
-          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
-        }
-      ],
-      "duration_ms": 321426,
-      "name": "Feel So Good",
-      "url": "https://open.spotify.com/track/4baXYEQbDjse4afjjToEB6"
     },
     {
       "added_at": null,

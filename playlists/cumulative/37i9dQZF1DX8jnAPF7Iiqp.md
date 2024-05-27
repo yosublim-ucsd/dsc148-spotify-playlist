@@ -4,7 +4,7 @@
 
 > Running or raving? We've got a load of drum & bass to help with that!
 
-240 songs - 15 hr 18 min
+241 songs - 15 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [All You Ever Wanted \- Sub Focus Remix](https://open.spotify.com/track/2MWu6FVfhhxDzGHbUseVTS) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf), [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO) | [All You Ever Wanted \(Sub Focus Remix\)](https://open.spotify.com/album/7tKnOI7pO0QHSbcc7RBEHT) | 4:21 | 2021-12-21 | 2022-07-29 |
 | [Anaesthetist](https://open.spotify.com/track/5Izi5lL265u2iPulLHOG8i) | [Pola & Bryson](https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr), [Strategy](https://open.spotify.com/artist/0lFrpd2SX8SmwUr07I4GE3) | [Anaesthetist](https://open.spotify.com/album/7fulQxtwnbpPRd3Q26DvmA) | 4:32 | 2021-12-21 | 2022-07-26 |
 | [Atmosphere](https://open.spotify.com/track/3TtEksZOxtg6zMqBv89NeP) | [Fred V](https://open.spotify.com/artist/0k3dnuEr9LghUE4jxS0PT4), [Lottie Jones](https://open.spotify.com/artist/5dScLouYq1Xn2eUlzlpusx) | [Apeldoorn Jamming / Atmosphere](https://open.spotify.com/album/3apOCV4CTRnxkVQi6Fmsoj) | 3:43 | 2021-12-21 | 2022-07-29 |
+| [Awake](https://open.spotify.com/track/6pEQUJelejN4xL3bhE4Khk) | [Metrik](https://open.spotify.com/artist/2NCEtX40i9lLNpTg2X5583), [ÆON:MODE](https://open.spotify.com/artist/41ouHqoKXNijIMFsQTmFQV), [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT) | [Awake](https://open.spotify.com/album/12Shipy3GiThj28Lt9x4Tt) | 4:08 | 2024-05-17 |  |
 | [Bad Gyalz](https://open.spotify.com/track/1sdfHsJC1KytSyhhGpZ2kv) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Bad Gyalz](https://open.spotify.com/album/0KgiN6gpmIFwjxSIJE3qrb) | 2:39 | 2023-09-20 |  |
 | [Bad To Me \(feat\. Grace Grundy\)](https://open.spotify.com/track/6UNESFieJ7rXvEKO1V2Fw8) | [Hybrid Minds](https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR), [Grace Grundy](https://open.spotify.com/artist/3pFPBG84k5bQVbL9apf2PD) | [Bad To Me \(feat\. Grace Grundy\)](https://open.spotify.com/album/0sYcA8hhlj5cgbDtJ1kYxs) | 4:11 | 2021-12-21 | 2024-05-17 |
 | [Baddest](https://open.spotify.com/track/2W2vodjw341bqlgTNPx8mb) | [Vibe Chemistry](https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi) | [Baddest](https://open.spotify.com/album/3FCkjCs6WETYazRGWU8F9c) | 3:43 | 2022-11-25 | 2024-05-17 |
@@ -182,7 +183,7 @@
 | [Portal](https://open.spotify.com/track/64KjiKPJkgmb44IRYVXLJ0) | [Satl](https://open.spotify.com/artist/6OwnHoDYszPivlUgbApZbR) | [Lucid Dreams](https://open.spotify.com/album/6SVAHUGTdZTCeLYTog2mfQ) | 5:01 | 2021-12-21 | 2022-06-28 |
 | [Pray For Me \(feat\. Joe Killington\)](https://open.spotify.com/track/3NvttPtSmUTY0EHZiF9fgs) | [Camo & Krooked](https://open.spotify.com/artist/2N8IPNZTiNo3nj4mreOlHU), [Mefjus](https://open.spotify.com/artist/54qqaSH6byJIb8eFWxe3Pj), [Joe Killington](https://open.spotify.com/artist/0QvtEuDIDAsKpfuOe2a237) | [Pray For Me \(feat\. Joe Killington\)](https://open.spotify.com/album/7hG2MhIyTEPSf5zZV3FaBW) | 4:05 | 2024-04-04 |  |
 | [Rage \- Lens Remix](https://open.spotify.com/track/52QNnOunIWyYqOn8aYkHQR) | [Charlotte Plank](https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO), [Lens](https://open.spotify.com/artist/6XKxTAwaVZS4dhFj8IxFFz) | [Rage \(Lens Remix\)](https://open.spotify.com/album/0ylDilC99rhAzoAC47cuEw) | 3:02 | 2024-04-04 |  |
-| [Rain Dance](https://open.spotify.com/track/2kjE1Znpvkl5g6BrHAN8KG) | [MUZZ](https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg) | [Rain Dance](https://open.spotify.com/album/2vePCjQ076mqwdDTYcNXYi) | 3:09 | 2024-05-17 |  |
+| [Rain Dance](https://open.spotify.com/track/2kjE1Znpvkl5g6BrHAN8KG) | [MUZZ](https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg) | [Rain Dance](https://open.spotify.com/album/2vePCjQ076mqwdDTYcNXYi) | 3:09 | 2024-05-17 | 2024-05-27 |
 | [Rave Out](https://open.spotify.com/track/0cIkdVvxT2lalJFH254lYA) | [Turno](https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes), [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC), [Charlotte Plank](https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO) | [Rave Out](https://open.spotify.com/album/7HOsS5h3J7ddLvcOfX9RGX) | 2:28 | 2023-09-20 |  |
 | [Ready To Fly \- Sub Focus & Dimension](https://open.spotify.com/track/0a2cA9H6KuOsoHLCnjl6YL) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [Dimension](https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S) | [Ready To Fly \(Sub Focus & Dimension\)](https://open.spotify.com/album/0Gt9NV2s7pSvP7g2F1nXGc) | 3:24 | 2022-11-25 | 2024-05-17 |
 | [Really Happy Aliens](https://open.spotify.com/track/5ypOQL3PMZJoBkS2HMPCXO) | [Fred V](https://open.spotify.com/artist/0k3dnuEr9LghUE4jxS0PT4) | [Proximity](https://open.spotify.com/album/09cXZdn2Z0adhctQyNJzV8) | 4:04 | 2021-12-21 | 2022-03-19 |

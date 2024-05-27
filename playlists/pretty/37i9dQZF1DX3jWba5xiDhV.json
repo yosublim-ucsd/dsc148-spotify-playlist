@@ -1,6 +1,6 @@
 {
   "description": "When the dance floor calls your name, that's amore.",
-  "num_followers": 216840,
+  "num_followers": 217113,
   "original_name": "Italo Disco",
   "owner": {
     "name": "Spotify",
@@ -143,18 +143,18 @@
     {
       "added_at": "2024-05-22 11:01:00",
       "album": {
-        "name": "Melanch\u00f3lia",
-        "url": "https://open.spotify.com/album/7fK9JzCaIIIWehaWd7IoUE"
+        "name": "Dreamland",
+        "url": "https://open.spotify.com/album/6r4vIr4aUsK00mGHDiQkrl"
       },
       "artists": [
         {
-          "name": "Matia Bazar",
-          "url": "https://open.spotify.com/artist/449mAbddAC2PAgNM3TLyc5"
+          "name": "Black Box",
+          "url": "https://open.spotify.com/artist/6tsRo8ErXzpHk3tQeH6GBW"
         }
       ],
-      "duration_ms": 255000,
-      "name": "Ti Sento",
-      "url": "https://open.spotify.com/track/72BnKkKnrOeCDY9vy2avFk"
+      "duration_ms": 247001,
+      "name": "Everybody Everybody",
+      "url": "https://open.spotify.com/track/6wBMTv8yTiNh50fqTkT0JC"
     },
     {
       "added_at": "2024-05-22 11:01:00",
@@ -175,18 +175,18 @@
     {
       "added_at": "2024-05-22 11:01:00",
       "album": {
-        "name": "Dreamland",
-        "url": "https://open.spotify.com/album/6r4vIr4aUsK00mGHDiQkrl"
+        "name": "Melanch\u00f3lia",
+        "url": "https://open.spotify.com/album/7fK9JzCaIIIWehaWd7IoUE"
       },
       "artists": [
         {
-          "name": "Black Box",
-          "url": "https://open.spotify.com/artist/6tsRo8ErXzpHk3tQeH6GBW"
+          "name": "Matia Bazar",
+          "url": "https://open.spotify.com/artist/449mAbddAC2PAgNM3TLyc5"
         }
       ],
-      "duration_ms": 247001,
-      "name": "Everybody Everybody",
-      "url": "https://open.spotify.com/track/6wBMTv8yTiNh50fqTkT0JC"
+      "duration_ms": 255000,
+      "name": "Ti Sento",
+      "url": "https://open.spotify.com/track/72BnKkKnrOeCDY9vy2avFk"
     },
     {
       "added_at": "2024-05-22 11:01:00",
@@ -359,6 +359,22 @@
     {
       "added_at": "2024-05-22 11:01:00",
       "album": {
+        "name": "Nuova Napoli",
+        "url": "https://open.spotify.com/album/1NuMP2jrBeyxR3MqwengWD"
+      },
+      "artists": [
+        {
+          "name": "Nu Genea",
+          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
+        }
+      ],
+      "duration_ms": 263508,
+      "name": "Disco Sole",
+      "url": "https://open.spotify.com/track/4shVjgoOMa73JgBtZIDDz4"
+    },
+    {
+      "added_at": "2024-05-22 11:01:00",
+      "album": {
         "name": "Ryan Paris",
         "url": "https://open.spotify.com/album/0xec3z3OhfBWG12UaFaz3t"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 369084,
       "name": "Hypnotic Tango - Original 12\" Version",
       "url": "https://open.spotify.com/track/3L1bBpBTa1SmGivOhR6DID"
-    },
-    {
-      "added_at": "2024-05-22 11:01:00",
-      "album": {
-        "name": "Nuova Napoli",
-        "url": "https://open.spotify.com/album/1NuMP2jrBeyxR3MqwengWD"
-      },
-      "artists": [
-        {
-          "name": "Nu Genea",
-          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
-        }
-      ],
-      "duration_ms": 263508,
-      "name": "Disco Sole",
-      "url": "https://open.spotify.com/track/4shVjgoOMa73JgBtZIDDz4"
     },
     {
       "added_at": "2024-05-22 11:01:00",
@@ -759,22 +759,6 @@
     {
       "added_at": "2024-05-22 11:01:00",
       "album": {
-        "name": "For You (LP)",
-        "url": "https://open.spotify.com/album/3HaUzrq7HVsuVTmIIcsZ8n"
-      },
-      "artists": [
-        {
-          "name": "Ago",
-          "url": "https://open.spotify.com/artist/3tr79XZgYXoRoI5G49Zqbx"
-        }
-      ],
-      "duration_ms": 353000,
-      "name": "For You - Original Album",
-      "url": "https://open.spotify.com/track/5if1vlzBKrpoE1hZ6bxw2C"
-    },
-    {
-      "added_at": "2024-05-22 11:01:00",
-      "album": {
         "name": "The Voice of Q",
         "url": "https://open.spotify.com/album/6tKNLeKZ8UJyO7A5QG2wjF"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 316118,
       "name": "The Voice of Q - 12\" Mix",
       "url": "https://open.spotify.com/track/4DoxBUKSlnZwe30Y23mGbH"
+    },
+    {
+      "added_at": "2024-05-22 11:01:00",
+      "album": {
+        "name": "For You (LP)",
+        "url": "https://open.spotify.com/album/3HaUzrq7HVsuVTmIIcsZ8n"
+      },
+      "artists": [
+        {
+          "name": "Ago",
+          "url": "https://open.spotify.com/artist/3tr79XZgYXoRoI5G49Zqbx"
+        }
+      ],
+      "duration_ms": 353000,
+      "name": "For You - Original Album",
+      "url": "https://open.spotify.com/track/5if1vlzBKrpoE1hZ6bxw2C"
     },
     {
       "added_at": "2024-05-22 11:01:00",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2024-05-22 11:01:00",
       "album": {
-        "name": "Dirty Talk",
-        "url": "https://open.spotify.com/album/5z5xqfOezhRYRFhGvcj8TP"
-      },
-      "artists": [
-        {
-          "name": "Klein & M.B.O.",
-          "url": "https://open.spotify.com/artist/5MZdKmi0C80e3eu53Vzr6f"
-        }
-      ],
-      "duration_ms": 335333,
-      "name": "Dirty Talk",
-      "url": "https://open.spotify.com/track/4CMKgb0qrIsVu202dmop15"
-    },
-    {
-      "added_at": "2024-05-22 11:01:00",
-      "album": {
         "name": "From Here to Eternity (Remastered)",
         "url": "https://open.spotify.com/album/6lE5ickVjJ90hRAFdNCpjv"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 233080,
       "name": "From Here to Eternity - Bonus Track - Single Version - Remastered",
       "url": "https://open.spotify.com/track/0lY23NrYMQOQ9qKl6TzJiB"
+    },
+    {
+      "added_at": "2024-05-22 11:01:00",
+      "album": {
+        "name": "Dirty Talk",
+        "url": "https://open.spotify.com/album/5z5xqfOezhRYRFhGvcj8TP"
+      },
+      "artists": [
+        {
+          "name": "Klein & M.B.O.",
+          "url": "https://open.spotify.com/artist/5MZdKmi0C80e3eu53Vzr6f"
+        }
+      ],
+      "duration_ms": 335333,
+      "name": "Dirty Talk",
+      "url": "https://open.spotify.com/track/4CMKgb0qrIsVu202dmop15"
     },
     {
       "added_at": "2024-05-22 11:01:00",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2024-05-22 11:01:00",
       "album": {
-        "name": "Let me love tonight (12 Inc)",
-        "url": "https://open.spotify.com/album/4VJs7sQLWpnHDAXnni4LCU"
-      },
-      "artists": [
-        {
-          "name": "Electric Mind",
-          "url": "https://open.spotify.com/artist/2CRKZgVOneZ1ytAxCsVFja"
-        }
-      ],
-      "duration_ms": 229999,
-      "name": "Let Me Love Tonight - Radio Version",
-      "url": "https://open.spotify.com/track/6zEAlbxY12vp24gMkiwM1d"
-    },
-    {
-      "added_at": "2024-05-22 11:01:00",
-      "album": {
         "name": "Desiderio",
         "url": "https://open.spotify.com/album/73G2ccMo3S3DS7DTCd6pCG"
       },
@@ -1267,6 +1251,38 @@
     {
       "added_at": "2024-05-22 11:01:00",
       "album": {
+        "name": "Let me love tonight (12 Inc)",
+        "url": "https://open.spotify.com/album/4VJs7sQLWpnHDAXnni4LCU"
+      },
+      "artists": [
+        {
+          "name": "Electric Mind",
+          "url": "https://open.spotify.com/artist/2CRKZgVOneZ1ytAxCsVFja"
+        }
+      ],
+      "duration_ms": 229999,
+      "name": "Let Me Love Tonight - Radio Version",
+      "url": "https://open.spotify.com/track/6zEAlbxY12vp24gMkiwM1d"
+    },
+    {
+      "added_at": "2024-05-22 11:01:00",
+      "album": {
+        "name": "Dancing on Townsquare",
+        "url": "https://open.spotify.com/album/6gAB9n1Aa5DzJTuoeeBl7c"
+      },
+      "artists": [
+        {
+          "name": "The Chaplin Band",
+          "url": "https://open.spotify.com/artist/0Na3lGtrQVJlRaQEnQD5P2"
+        }
+      ],
+      "duration_ms": 210186,
+      "name": "Il Veliero - Single Version",
+      "url": "https://open.spotify.com/track/26u2CgXp9Qr0MtcEBWi2gv"
+    },
+    {
+      "added_at": "2024-05-22 11:01:00",
+      "album": {
         "name": "When I Let You Down / Boogie Tonight",
         "url": "https://open.spotify.com/album/3rC5gRgxvzwScP6CbpURsb"
       },
@@ -1279,30 +1295,6 @@
       "duration_ms": 366076,
       "name": "When I Let You Down - Extended Mix",
       "url": "https://open.spotify.com/track/40DxZa2JmoJAHW45EJ15ju"
-    },
-    {
-      "added_at": "2024-05-22 11:01:00",
-      "album": {
-        "name": "My Magic Number",
-        "url": "https://open.spotify.com/album/5zEcHInCpQTxrQH7cJrJAt"
-      },
-      "artists": [
-        {
-          "name": "Daddy Squad",
-          "url": "https://open.spotify.com/artist/7ILhSMHJML8HVt4GBi6LGj"
-        },
-        {
-          "name": "Dita Von Teese",
-          "url": "https://open.spotify.com/artist/5p2DOkwlRuUgPuHNUp9ZKz"
-        },
-        {
-          "name": "Club Domani",
-          "url": "https://open.spotify.com/artist/0uZI4sqpl7jJQ19T7dcsM8"
-        }
-      ],
-      "duration_ms": 317120,
-      "name": "My Magic Number - Club Domani Remix",
-      "url": "https://open.spotify.com/track/6cR9AbJGTvXEnwjiE8VznV"
     }
   ],
   "unique_name": "Italo Disco",

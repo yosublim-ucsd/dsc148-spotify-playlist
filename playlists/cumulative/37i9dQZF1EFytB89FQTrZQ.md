@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4Wi1FLcqmkfe8LZa5QxrSA">MNEK</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-458 songs - 1 day 2 hr 8 min
+459 songs - 1 day 2 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -416,6 +416,7 @@
 | [Trash](https://open.spotify.com/track/5lzWrMDYLuAugJCHG5C2d0) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Between Us \(The Mixers Edition\)](https://open.spotify.com/album/4pkTcvV4pTt3xDkdG4rcpz) | 2:53 | 2022-09-08 |  |
 | [True](https://open.spotify.com/track/6cfjl8xNdsiezl3Pq4f7sg) | [Mr\. Sosa](https://open.spotify.com/artist/7cJsi55v9rMFw0HSOinyGP) | [True](https://open.spotify.com/album/1qcpuMHOqLXA1yitavP0xI) | 2:48 | 2023-12-13 | 2024-03-27 |
 | [True \- Chambray Remix](https://open.spotify.com/track/5wy94ZiWnF1TiVzSUpxn0s) | [Mr\. Sosa](https://open.spotify.com/artist/7cJsi55v9rMFw0HSOinyGP), [Chambray](https://open.spotify.com/artist/4FUZzDnu4gBue46G99hesO) | [True \(Chambray Remix\)](https://open.spotify.com/album/5WUNkuxuDTKTfjBu5j4IX3) | 3:54 | 2022-12-15 |  |
+| [True Colours](https://open.spotify.com/track/4S6rRqfYzIJ4nL2bV8ktS9) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Self Esteem](https://open.spotify.com/artist/3K9muOlJVKLgH4SIwwZiDe) | [True Colours](https://open.spotify.com/album/38oNM96tThFx9oFX9LDxX3) | 3:51 | 2024-05-26 |  |
 | [Two](https://open.spotify.com/track/62CprXvSWsKBvYu3Yba55A) | [Sleeping At Last](https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g) | [Atlas: Enneagram](https://open.spotify.com/album/1R3C4VebWmWXFlbTSnnLql) | 4:18 | 2023-12-13 |  |
 | [Two Left Feet](https://open.spotify.com/track/0Oif9SHADEdayP65nWF8cv) | [LHITNEY](https://open.spotify.com/artist/2HhlA4UCn0CSQPhKBavzog) | [Two Left Feet](https://open.spotify.com/album/3u34odtg7lYbibzolcUiGL) | 3:39 | 2022-12-15 | 2023-12-14 |
 | [Ultimatum](https://open.spotify.com/track/2DAwdGk9fJY9zXhOP6psz6) | [MistaJam](https://open.spotify.com/artist/3qi5fhSI6aUecvRN0XqIJ2), [Laura White](https://open.spotify.com/artist/4eWvHAcWh3Hq6DYJ9K3mD4) | [Ultimatum](https://open.spotify.com/album/76DYEfwnt7VbRTrBt5sos6) | 3:31 | 2022-09-08 |  |

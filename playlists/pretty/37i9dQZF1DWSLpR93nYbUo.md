@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLpR93nYbUo.md) - [plain]
 
 > Ouça as novidades da cena eletrônica\. Foto: Sterium
 
-[Spotify](https://open.spotify.com/user/spotify) - 331 likes - 73 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 346 likes - 73 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

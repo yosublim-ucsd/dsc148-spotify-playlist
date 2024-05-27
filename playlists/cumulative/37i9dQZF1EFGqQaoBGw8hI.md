@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1253lWxXfmfZeT2vRLhBUq">Elton John</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-623 songs - 1 day 19 hr 42 min
+624 songs - 1 day 19 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,7 +118,8 @@
 | [Country Comfort](https://open.spotify.com/track/5p9MpS0JdzVfbdJuHwhvqI) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Tumbleweed Connection](https://open.spotify.com/album/03zfU3IwWmymKoaWnwFNaY) | 5:06 | 2022-09-08 |  |
 | [Crazy Water](https://open.spotify.com/track/3QapUPFJkO7bMjn5BF1Jlz) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Blue Moves](https://open.spotify.com/album/0XsM7TdicJh19osmKPUoR2) | 5:42 | 2022-09-08 |  |
 | [Crocodile Rock](https://open.spotify.com/track/6WCeFNVAXUtNczb7lqLiZU) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Don't Shoot Me I'm Only The Piano Player](https://open.spotify.com/album/1reJ8DttK5EGwdyf7y9FBR) | 3:55 | 2022-09-08 |  |
-| [Cry](https://open.spotify.com/track/0kb42sln40xKrX5wgwU1ak) | [Mergui](https://open.spotify.com/artist/6grXi1oBW9ayoP4FTt4r2Z) | [Cry](https://open.spotify.com/album/0O35a57sTTUEI2sid9EPQa) | 3:15 | 2024-02-17 |  |
+| [Cry](https://open.spotify.com/track/0kb42sln40xKrX5wgwU1ak) | [Mergui](https://open.spotify.com/artist/6grXi1oBW9ayoP4FTt4r2Z) | [Cry](https://open.spotify.com/album/0O35a57sTTUEI2sid9EPQa) | 3:15 | 2024-02-17 | 2024-05-27 |
+| [Cry](https://open.spotify.com/track/2E4mmddIrk7WHGr0ZsUMOa) | [Mergui](https://open.spotify.com/artist/6grXi1oBW9ayoP4FTt4r2Z) | [Cry](https://open.spotify.com/album/7koYXv6j6UkP1q0kzxYa3V) | 3:15 | 2024-05-26 |  |
 | [Cry To Heaven](https://open.spotify.com/track/6XOoAqdkeebLjIy2b8zTvG) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Ice On Fire](https://open.spotify.com/album/0xuxPr53iRlhWCu7QqHH24) | 4:16 | 2022-09-08 |  |
 | [Crystal](https://open.spotify.com/track/4bpNHxM2QdnG4p7ZtUb86M) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Too Low For Zero](https://open.spotify.com/album/0OmYuz9hwn1XoqmDaU0yJ7) | 5:05 | 2022-09-08 |  |
 | [Dam wam znak](https://open.spotify.com/track/3CJ7Pv6VqKMpmHOxdRhwbN) | [Artur Zmijewski](https://open.spotify.com/artist/2xp0UH29O0hdWs2WMRQXsW) | [Król Lew \(Ścieżka Dźwiękowa z Filmu\)](https://open.spotify.com/album/2JBq570cXuZRg5eg6l7WWM) | 2:03 | 2022-09-08 |  |

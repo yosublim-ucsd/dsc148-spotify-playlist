@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-6,797 songs - 10 day 17 hr 39 min
+6,798 songs - 10 day 17 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3196,6 +3196,7 @@
 | [Late Night](https://open.spotify.com/track/0EfrGzFyyN6dgVW1MMdp0o) | [Dani Catalá](https://open.spotify.com/artist/47KS10JqzPOZND1Uxr7U1i), [flâneur](https://open.spotify.com/artist/1u1zs47JhYDIbDkFjamdzx), [dennisivnvc](https://open.spotify.com/artist/03sYI7Ckj5JOq6cYowPUmo), [Clara Juan](https://open.spotify.com/artist/51x3hudbqkAWzaildDrAKa) | [Late Night](https://open.spotify.com/album/5ZPE0dkj0QmzVNnW1t0eDt) | 2:43 | 2024-04-26 |  |
 | [Late Night](https://open.spotify.com/track/0GFfJME7086hArhVjiNHmt) | [nrg](https://open.spotify.com/artist/6EEFjsH9sgqLhHpDzTsflL) | [Late Night](https://open.spotify.com/album/2lKEAz4op4sdNalb5tMZL1) | 3:11 | 2022-10-14 | 2024-02-09 |
 | [Late Night Banger](https://open.spotify.com/track/5x2IE3MO8mk4GdNtkHsxuO) | [Illa J](https://open.spotify.com/artist/72zigmOdJbIsz0iIRhCBvp), [Atamone](https://open.spotify.com/artist/4ewpGbPN16YHnt8CTfY9oY) | [Late Night Banger](https://open.spotify.com/album/4LCDMGhxwywuTk5TgutNLc) | 2:40 | 2021-07-01 | 2022-01-14 |
+| [Late Night Call](https://open.spotify.com/track/5vWzW7Dz0gM0GzUS00kYS2) | [akoYuno](https://open.spotify.com/artist/6Qofl0SeZbGEtuigHU5L46) | [Late Night Call](https://open.spotify.com/album/4ye69lfpB60OmlZZrHeDWn) | 1:44 | 2024-05-24 |  |
 | [late night cocktails](https://open.spotify.com/track/0gUFcXRmeBpyYcUWZ7gOzv) | [yeyts.](https://open.spotify.com/artist/4fawpeTlkJtDMXDzJmBYSR), [Happy Tobi](https://open.spotify.com/artist/1GyfVIZcP7PfEgpNnars9N) | [late night cocktails](https://open.spotify.com/album/2NlgPvNoNJqyNfuzCKfUur) | 2:00 | 2022-10-21 | 2023-10-06 |
 | [Late Night Light](https://open.spotify.com/track/2bYyxuSox8D3kITVpPkgOf) | [melloe](https://open.spotify.com/artist/6hQPDJPAjllBEsN3Kcm2PI) | [Late Night Light](https://open.spotify.com/album/6FLiHaqsbAnF9vSwDgepAl) | 2:29 | 2022-06-24 | 2022-10-07 |
 | [Late Night Opening at the Aquarium](https://open.spotify.com/track/2xG9UFCVG5RSj0QWBTeBUY) | [M e a d o w](https://open.spotify.com/artist/6kG4rnzy0AVEvZb7RGZtoy), [Dotlights](https://open.spotify.com/artist/5HoxUV5njSmYDj1U9i9zHY) | [Late Night Opening at the Aquarium](https://open.spotify.com/album/4rNTv5agD73FfpmsWHaqWq) | 2:15 | 2022-11-11 | 2024-01-26 |
@@ -4267,7 +4268,7 @@
 | [omph](https://open.spotify.com/track/5eCFoX44ZDRi5P9BAbcYEY) | [st1cky](https://open.spotify.com/artist/6CdiOSSAMnbzsTJC1w99WA) | [omph](https://open.spotify.com/album/2Wzz4vxE7QL1cLay4HNYQj) | 1:46 | 2020-11-05 | 2021-10-20 |
 | [On & On](https://open.spotify.com/track/5STMWcvgi6UiswwZyeWdTG) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk), [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds) | [On & On](https://open.spotify.com/album/6g0UYlxUmtnuF5b8ClgdFS) | 3:17 | 2022-01-07 | 2022-07-08 |
 | [on and off](https://open.spotify.com/track/0im5PdKDz2raraDknVtn8F) | [fly\_by\_wire](https://open.spotify.com/artist/68bqVC3nQPvOuKAYdQNUEj) | [on and off](https://open.spotify.com/album/3JwndlcwuI3X2eZFWHOC0r) | 2:06 | 2024-01-19 |  |
-| [On And On](https://open.spotify.com/track/4Di8forwnlvkoec5Ze5Dsv) | [12Vince](https://open.spotify.com/artist/0DnLgFtmqEF4DLwRQa1cXQ), [Figub Brazlevic](https://open.spotify.com/artist/4Eo1mdoAOk2DbXMDUDnCum) | [On And On](https://open.spotify.com/album/4hqUoavlfmPcdkvtf0gder) | 2:28 | 2024-05-24 |  |
+| [On And On](https://open.spotify.com/track/4Di8forwnlvkoec5Ze5Dsv) | [12Vince](https://open.spotify.com/artist/0DnLgFtmqEF4DLwRQa1cXQ), [Figub Brazlevic](https://open.spotify.com/artist/4Eo1mdoAOk2DbXMDUDnCum) | [On And On](https://open.spotify.com/album/4hqUoavlfmPcdkvtf0gder) | 2:28 | 2024-05-24 | 2024-05-27 |
 | [On Demand](https://open.spotify.com/track/5xDZcCoD5lenLkc3IUM2YR) | [Tom Doolie](https://open.spotify.com/artist/4C7NcNb9V6lakzMGHQlm8i) | [On Demand](https://open.spotify.com/album/72LlNQkCRr0myzBUSsmNCX) | 1:56 | 2023-02-07 | 2023-04-28 |
 | [On My Mind](https://open.spotify.com/track/1R5wVjW1veE1txnIrTJ9hw) | [DESH](https://open.spotify.com/artist/6nJ2MPazBFrwU07sGCpdcO), [ØDYSSEE](https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA), [delaney.](https://open.spotify.com/artist/33mF58EgWRWcLJWIddSH7h), [Jazzinuf](https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi) | [On My Mind](https://open.spotify.com/album/3T4vhmgCzl1VztayKsaf5e) | 2:32 | 2021-10-02 | 2022-04-08 |
 | [On My Way](https://open.spotify.com/track/0xr8vqzuCvfOWQvkl2b0T4) | [RINZ.](https://open.spotify.com/artist/1qc48l4N7tBU8sMOuIAa82) | [On My Way](https://open.spotify.com/album/1mGqrsoDizJtFDhwpSs7Vi) | 2:13 | 2021-07-17 | 2022-03-12 |

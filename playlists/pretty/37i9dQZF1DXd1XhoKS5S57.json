@@ -1,6 +1,6 @@
 {
   "description": "Retour en arri\u00e8re avec les meilleurs titres de l'ann\u00e9e 2004. Photo : Usher",
-  "num_followers": 12793,
+  "num_followers": 12799,
   "original_name": "Top Hits France 2004",
   "owner": {
     "name": "Spotify",
@@ -515,22 +515,6 @@
     {
       "added_at": "2020-10-27 12:12:52",
       "album": {
-        "name": "Colour The Small One",
-        "url": "https://open.spotify.com/album/5HRQFmLEuzQP8e12o8DzB5"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 272800,
-      "name": "Breathe Me",
-      "url": "https://open.spotify.com/track/7jqzZyJJLrpkRFYGpkqSK6"
-    },
-    {
-      "added_at": "2020-10-27 12:12:52",
-      "album": {
         "name": "I Don't Want You Back",
         "url": "https://open.spotify.com/album/1wpdvR1qooZm5UbSohCuOx"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 225106,
       "name": "Fuck It (I Don't Want You Back)",
       "url": "https://open.spotify.com/track/1p5kC161fWMA2QlwV3Vi4W"
+    },
+    {
+      "added_at": "2020-10-27 12:12:52",
+      "album": {
+        "name": "Colour The Small One",
+        "url": "https://open.spotify.com/album/5HRQFmLEuzQP8e12o8DzB5"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 272800,
+      "name": "Breathe Me",
+      "url": "https://open.spotify.com/track/7jqzZyJJLrpkRFYGpkqSK6"
     },
     {
       "added_at": "2020-10-27 12:12:52",
@@ -767,22 +767,6 @@
     {
       "added_at": "2020-10-27 12:12:52",
       "album": {
-        "name": "Pieces of A Dream",
-        "url": "https://open.spotify.com/album/1wuzyMw7UrEv65yXblge8w"
-      },
-      "artists": [
-        {
-          "name": "Anastacia",
-          "url": "https://open.spotify.com/artist/2siHvYaxjaW5rKVRiIrMYH"
-        }
-      ],
-      "duration_ms": 212266,
-      "name": "Sick and Tired",
-      "url": "https://open.spotify.com/track/54s027DgaSJlvp1q2sdzTa"
-    },
-    {
-      "added_at": "2020-10-27 12:12:52",
-      "album": {
         "name": "Parce qu'on vient de loin",
         "url": "https://open.spotify.com/album/5VMa7BgPzwjGfEPiGaJSPv"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 232932,
       "name": "Parce qu'on vient de loin",
       "url": "https://open.spotify.com/track/1wthYeOSBWfUYeCqhYcGt0"
+    },
+    {
+      "added_at": "2020-10-27 12:12:52",
+      "album": {
+        "name": "Pieces of A Dream",
+        "url": "https://open.spotify.com/album/1wuzyMw7UrEv65yXblge8w"
+      },
+      "artists": [
+        {
+          "name": "Anastacia",
+          "url": "https://open.spotify.com/artist/2siHvYaxjaW5rKVRiIrMYH"
+        }
+      ],
+      "duration_ms": 212266,
+      "name": "Sick and Tired",
+      "url": "https://open.spotify.com/track/54s027DgaSJlvp1q2sdzTa"
     },
     {
       "added_at": "2020-10-27 12:12:52",

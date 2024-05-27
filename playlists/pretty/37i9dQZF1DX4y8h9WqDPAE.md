@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4y8h9WqDPAE.md) - [plain]
 
 > Where R&B meets Hip\-Hop, Pop and everything in between !  Cover: Muni Long & Mariah Carey
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,751,686 likes - 153 songs - 7 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,751,684 likes - 153 songs - 7 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

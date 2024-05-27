@@ -1,13 +1,33 @@
 {
-  "description": "Th\u1ebf h\u1ec7 ngh\u1ec7 s\u0129 m\u1edbi. \u1ea2nh b\u00eca: SIXTYUPTOWN",
-  "num_followers": 2703,
+  "description": "Th\u1ebf h\u1ec7 ngh\u1ec7 s\u0129 m\u1edbi. \u1ea2nh b\u00eca: Teddie J",
+  "num_followers": 2702,
   "original_name": "RADAR Vietnam",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjLvOAAAAADO+T38HctDV+/Zr7tskDET",
+  "snapshot_id": "ZlPMNAAAAADm9lDKYfTBOsqJ8xDdWeRm",
   "tracks": [
+    {
+      "added_at": "2024-04-02 17:00:00",
+      "album": {
+        "name": "\u1ea8n",
+        "url": "https://open.spotify.com/album/4BCmL4NwY1Kh8xX6T6oPJo"
+      },
+      "artists": [
+        {
+          "name": "Teddie J",
+          "url": "https://open.spotify.com/artist/5L6kiKUKCDWxCg3gOKDEMk"
+        },
+        {
+          "name": "Linh C\u00e1o",
+          "url": "https://open.spotify.com/artist/0vTUa2hbNHke3omoGxuKFm"
+        }
+      ],
+      "duration_ms": 196056,
+      "name": "\u1ea8n",
+      "url": "https://open.spotify.com/track/2fEAbrP5PodWRONM6LVhkl"
+    },
     {
       "added_at": "2024-05-02 01:41:12",
       "album": {
@@ -47,26 +67,6 @@
       "duration_ms": 227363,
       "name": "Swimming Pool",
       "url": "https://open.spotify.com/track/1tAXRG24pKcKqSJB42JXcL"
-    },
-    {
-      "added_at": "2024-04-02 17:00:00",
-      "album": {
-        "name": "\u1ea8n",
-        "url": "https://open.spotify.com/album/4BCmL4NwY1Kh8xX6T6oPJo"
-      },
-      "artists": [
-        {
-          "name": "Teddie J",
-          "url": "https://open.spotify.com/artist/5L6kiKUKCDWxCg3gOKDEMk"
-        },
-        {
-          "name": "Linh C\u00e1o",
-          "url": "https://open.spotify.com/artist/0vTUa2hbNHke3omoGxuKFm"
-        }
-      ],
-      "duration_ms": 196056,
-      "name": "\u1ea8n",
-      "url": "https://open.spotify.com/track/2fEAbrP5PodWRONM6LVhkl"
     },
     {
       "added_at": "2024-04-02 17:00:00",

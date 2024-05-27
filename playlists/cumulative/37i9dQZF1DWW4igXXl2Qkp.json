@@ -6210,7 +6210,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-27",
       "duration_ms": 146666,
       "name": "Door Dash",
       "url": "https://open.spotify.com/track/14NjvajwODFtcJXpkylDlK"
@@ -15974,7 +15974,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-27",
       "duration_ms": 170750,
       "name": "Pecan Pie",
       "url": "https://open.spotify.com/track/0LgOBX5h9aM9HkFBmBTEmY"
@@ -20273,6 +20273,24 @@
     },
     {
       "album": {
+        "name": "Team Tomodachi",
+        "url": "https://open.spotify.com/album/1CWasLa3b4zvDom0paNlBj"
+      },
+      "artists": [
+        {
+          "name": "Yuki Chiba",
+          "url": "https://open.spotify.com/artist/6zOzMb66GICS4gVDtd1yvR"
+        }
+      ],
+      "date_added": "2024-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152288,
+      "name": "Team Tomodachi",
+      "url": "https://open.spotify.com/track/51MTYQC6SuyRsGQsrP9BEu"
+    },
+    {
+      "album": {
         "name": "Teardrops",
         "url": "https://open.spotify.com/album/6Zj9yH2wD3rLPe4JkU9Vbj"
       },
@@ -22170,6 +22188,28 @@
       "duration_ms": 136060,
       "name": "WADDUP BITCH",
       "url": "https://open.spotify.com/track/6UKKaNvgdI8nWPWYPoKITl"
+    },
+    {
+      "album": {
+        "name": "wait a while' (tenten)",
+        "url": "https://open.spotify.com/album/5nYCpm7idneKM9CZ7Prdf6"
+      },
+      "artists": [
+        {
+          "name": "Destin Laurel",
+          "url": "https://open.spotify.com/artist/33hj9n9Y19jGhXk8m7ezKR"
+        },
+        {
+          "name": "Ziahfyah",
+          "url": "https://open.spotify.com/artist/53kUGCuekuXoSYPISirZpl"
+        }
+      ],
+      "date_added": "2024-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122790,
+      "name": "wait a while' (tenten)",
+      "url": "https://open.spotify.com/track/4lgTWetZXDVqF2vQm2RCTC"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Melodik T\u00fcrk\u00e7e \u015fark\u0131larla yaz boyu sahildesin \ud83c\udfd6\ufe0f",
-  "num_followers": 102773,
+  "num_followers": 102780,
   "original_name": "K\u0131y\u0131 Boyu",
   "owner": {
     "name": "Spotify",
@@ -123,6 +123,22 @@
     {
       "added_at": "2024-02-22 21:00:00",
       "album": {
+        "name": "Divane",
+        "url": "https://open.spotify.com/album/07yiI9ScrZV7DXiObRz6Sp"
+      },
+      "artists": [
+        {
+          "name": "Ya\u015far",
+          "url": "https://open.spotify.com/artist/50AOA3aPd6tc928KEYaljF"
+        }
+      ],
+      "duration_ms": 232106,
+      "name": "Divane",
+      "url": "https://open.spotify.com/track/3V9Cf4pENsRh02WTMJ726n"
+    },
+    {
+      "added_at": "2024-02-22 21:00:00",
+      "album": {
         "name": "Kehanet",
         "url": "https://open.spotify.com/album/54fUFXduCOTJEksa3bUU89"
       },
@@ -151,22 +167,6 @@
       "duration_ms": 249475,
       "name": "G\u00fcl D\u00f6kt\u00fcm Yollar\u0131na",
       "url": "https://open.spotify.com/track/2v57dbjigdKRh7MY6ME3WB"
-    },
-    {
-      "added_at": "2024-02-22 21:00:00",
-      "album": {
-        "name": "Divane",
-        "url": "https://open.spotify.com/album/07yiI9ScrZV7DXiObRz6Sp"
-      },
-      "artists": [
-        {
-          "name": "Ya\u015far",
-          "url": "https://open.spotify.com/artist/50AOA3aPd6tc928KEYaljF"
-        }
-      ],
-      "duration_ms": 232106,
-      "name": "Divane",
-      "url": "https://open.spotify.com/track/3V9Cf4pENsRh02WTMJ726n"
     },
     {
       "added_at": "2024-02-22 21:00:00",
@@ -271,8 +271,8 @@
     {
       "added_at": "2024-02-22 21:00:00",
       "album": {
-        "name": "Unuttum Derdimi",
-        "url": "https://open.spotify.com/album/6nOITqRFI6CBNpFzmoDD5s"
+        "name": "Uzun Uzun (feat. Jabbar)",
+        "url": "https://open.spotify.com/album/0kq1mKiHDEAnTHkA3LJ6EG"
       },
       "artists": [
         {
@@ -284,9 +284,9 @@
           "url": "https://open.spotify.com/artist/7JrZbwBSIfKcc2gn1Xa4Bd"
         }
       ],
-      "duration_ms": 229787,
-      "name": "Unuttum Derdimi",
-      "url": "https://open.spotify.com/track/62QJlc5UNrMSl8sgIr6BYM"
+      "duration_ms": 216000,
+      "name": "Uzun Uzun (feat. Jabbar)",
+      "url": "https://open.spotify.com/track/2lfIKSkxC1z8Q7JzTufWFo"
     },
     {
       "added_at": "2024-02-22 21:00:00",
@@ -355,42 +355,6 @@
     {
       "added_at": "2024-02-22 21:00:00",
       "album": {
-        "name": "Uzun Uzun (feat. Jabbar)",
-        "url": "https://open.spotify.com/album/0kq1mKiHDEAnTHkA3LJ6EG"
-      },
-      "artists": [
-        {
-          "name": "Deeperise",
-          "url": "https://open.spotify.com/artist/0ZRQKFaYGEtbLc8NbyICoe"
-        },
-        {
-          "name": "Jabbar",
-          "url": "https://open.spotify.com/artist/7JrZbwBSIfKcc2gn1Xa4Bd"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Uzun Uzun (feat. Jabbar)",
-      "url": "https://open.spotify.com/track/2lfIKSkxC1z8Q7JzTufWFo"
-    },
-    {
-      "added_at": "2024-02-22 21:00:00",
-      "album": {
-        "name": "Al Senin Olsun D\u00fcnya",
-        "url": "https://open.spotify.com/album/7qfiGdZbSh9068JTlpEAkQ"
-      },
-      "artists": [
-        {
-          "name": "Buray",
-          "url": "https://open.spotify.com/artist/1qZ684TB9E1BjH58btdtYd"
-        }
-      ],
-      "duration_ms": 195805,
-      "name": "AL SEN\u0130N OLSUN D\u00dcNYA",
-      "url": "https://open.spotify.com/track/43zDWY9YsHRa1e7xSMPTfs"
-    },
-    {
-      "added_at": "2024-02-22 21:00:00",
-      "album": {
         "name": "\u00c7apk\u0131nca",
         "url": "https://open.spotify.com/album/7gwa9w1nvCdv23BC93xFIo"
       },
@@ -423,6 +387,42 @@
       "duration_ms": 226400,
       "name": "Kumsalda",
       "url": "https://open.spotify.com/track/44P48IXl8neXU8K3YAKabd"
+    },
+    {
+      "added_at": "2024-02-22 21:00:00",
+      "album": {
+        "name": "Al Senin Olsun D\u00fcnya",
+        "url": "https://open.spotify.com/album/7qfiGdZbSh9068JTlpEAkQ"
+      },
+      "artists": [
+        {
+          "name": "Buray",
+          "url": "https://open.spotify.com/artist/1qZ684TB9E1BjH58btdtYd"
+        }
+      ],
+      "duration_ms": 195805,
+      "name": "AL SEN\u0130N OLSUN D\u00dcNYA",
+      "url": "https://open.spotify.com/track/43zDWY9YsHRa1e7xSMPTfs"
+    },
+    {
+      "added_at": "2024-02-22 21:00:00",
+      "album": {
+        "name": "Unuttum Derdimi",
+        "url": "https://open.spotify.com/album/6nOITqRFI6CBNpFzmoDD5s"
+      },
+      "artists": [
+        {
+          "name": "Deeperise",
+          "url": "https://open.spotify.com/artist/0ZRQKFaYGEtbLc8NbyICoe"
+        },
+        {
+          "name": "Jabbar",
+          "url": "https://open.spotify.com/artist/7JrZbwBSIfKcc2gn1Xa4Bd"
+        }
+      ],
+      "duration_ms": 229787,
+      "name": "Unuttum Derdimi",
+      "url": "https://open.spotify.com/track/62QJlc5UNrMSl8sgIr6BYM"
     },
     {
       "added_at": "2024-02-22 21:00:00",
@@ -479,6 +479,22 @@
     {
       "added_at": "2024-02-22 21:00:00",
       "album": {
+        "name": "Bir Yaz Daha Bitiyor",
+        "url": "https://open.spotify.com/album/54QvyT6tpi4dt7mr2lsbbl"
+      },
+      "artists": [
+        {
+          "name": "G\u00fcndo\u011farken",
+          "url": "https://open.spotify.com/artist/3vcMKbHLV3BQnsi5H9Snei"
+        }
+      ],
+      "duration_ms": 179093,
+      "name": "Sen Benim \u015eark\u0131lar\u0131ms\u0131n",
+      "url": "https://open.spotify.com/track/522soGPCUM6FJimxFQNjsQ"
+    },
+    {
+      "added_at": "2024-02-22 21:00:00",
+      "album": {
         "name": "Bildi\u011fim Gibi",
         "url": "https://open.spotify.com/album/6swdEawnwOI5RjbyjGPoro"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 174315,
       "name": "Bildi\u011fim Gibi",
       "url": "https://open.spotify.com/track/1DpVhmrVGIz6y9hh9Gs3qK"
-    },
-    {
-      "added_at": "2024-02-22 21:00:00",
-      "album": {
-        "name": "Bir Yaz Daha Bitiyor",
-        "url": "https://open.spotify.com/album/54QvyT6tpi4dt7mr2lsbbl"
-      },
-      "artists": [
-        {
-          "name": "G\u00fcndo\u011farken",
-          "url": "https://open.spotify.com/artist/3vcMKbHLV3BQnsi5H9Snei"
-        }
-      ],
-      "duration_ms": 179093,
-      "name": "Sen Benim \u015eark\u0131lar\u0131ms\u0131n",
-      "url": "https://open.spotify.com/track/522soGPCUM6FJimxFQNjsQ"
     },
     {
       "added_at": "2024-02-22 21:00:00",

@@ -4,7 +4,7 @@
 
 > A mega Anime hits mix! アニメシーンのロング&メガヒット曲をまとめて楽しもう。Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-683 songs - 1 day 21 hr 0 min
+684 songs - 1 day 21 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -533,6 +533,7 @@
 | [初恋カラーズ](https://open.spotify.com/track/12a4SsN1e1xBwhTaOHH2nq) | [大西亜玖璃](https://open.spotify.com/artist/6aUFQSt39umq1GsNbYu4u3) | [Elder flower/初恋カラーズ](https://open.spotify.com/album/5GkcLAaYTUVsbAMgwcz5Jr) | 3:43 | 2022-07-14 | 2022-07-21 |
 | [刹那の鼓動](https://open.spotify.com/track/2vcuyhuQAFHKOWkKMdqb0O) | [吉岡亜衣加](https://open.spotify.com/artist/3SK0go2QBoTNd5W7uPCWM6) | [刹那の鼓動](https://open.spotify.com/album/2JBNKRiyYMN8ap0VFPWmlZ) | 4:40 | 2022-07-26 | 2022-07-28 |
 | [前前前世 \- movie ver.](https://open.spotify.com/track/23eTkfMmq1LvqiDzeNHdVe) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [君の名は。](https://open.spotify.com/album/4KtMINeVjpDPdf7CsJSFZl) | 4:44 | 2022-07-07 |  |
+| [創聖のアクエリオン](https://open.spotify.com/track/0AiRpK3u9OeM37Wsdkk8eJ) | [AKINO](https://open.spotify.com/artist/4JPnS8d4UIBnRZf4FiOx6o) | [「創聖のアクエリオン」オープニングテーマ 創聖のアクエリオン](https://open.spotify.com/album/2fZRAf3DOShFYTBZ3dolFN) | 4:43 | 2024-04-30 |  |
 | [勇者](https://open.spotify.com/track/4LjIQmt1t6NjpM0tpttzjo) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [勇者](https://open.spotify.com/album/6L7pjBfP49dh1WYDmHngOO) | 3:14 | 2024-04-10 |  |
 | [千夜想歌](https://open.spotify.com/track/5HeD2ZWisLQJVEQLVDLzaW) | [CIVILIAN](https://open.spotify.com/artist/0b2o5veg0MfvF2e11AWfaZ) | [千夜想歌](https://open.spotify.com/album/2G47iByNrswcboIypLq1PD) | 4:51 | 2022-06-24 | 2022-06-26 |
 | [名もない花](https://open.spotify.com/track/10sCOZbhdi3YmqOlb1B6Yd) | [佐藤ミキ](https://open.spotify.com/artist/7HcKaZJPzvY40N22yz6Gel) | [名もない花](https://open.spotify.com/album/2kHbVp3UKa1vSYduTfdyaj) | 4:26 | 2022-07-07 | 2022-07-10 |
@@ -597,7 +598,7 @@
 | [残響散歌](https://open.spotify.com/track/7v8wKvNQQIxkugCFFjrkaO) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [残響散歌](https://open.spotify.com/album/1gfSftIuafqkGu28ely5z6) | 3:04 | 2022-06-03 |  |
 | [気分上々↑↑](https://open.spotify.com/track/4b55RzNokHkNtw0DhmEbdv) | [Kuroneko](https://open.spotify.com/artist/6Tz3nFnN2k3qvsjgJuCO1p), [置鮎龍太郎](https://open.spotify.com/artist/0NPwoqej9GBiSlvZd89GLa) | [テレビアニメ「パリピ孔明」エンディングテーマ「気分上々↑↑」](https://open.spotify.com/album/4ZHduve9XLSCzgzuAEpo91) | 3:51 | 2022-07-14 | 2022-07-19 |
 | [永遠に光れ \(Everlasting Shine\)](https://open.spotify.com/track/3zLCX1TGMpsA67cW2pq6ut) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [DRAMA](https://open.spotify.com/album/74nwjBBoKHQOP6DDs71Zwf) | 3:11 | 2022-06-03 |  |
-| [永遠の不在証明](https://open.spotify.com/track/7FL5iSLdKcersBgDiwijis) | [Tokyo Incidents](https://open.spotify.com/artist/6KQWWzFLPQbqomJrieHAW5) | [永遠の不在証明](https://open.spotify.com/album/5y7E3hUWGNoY98C1TubePY) | 4:21 | 2024-04-30 |  |
+| [永遠の不在証明](https://open.spotify.com/track/7FL5iSLdKcersBgDiwijis) | [Tokyo Incidents](https://open.spotify.com/artist/6KQWWzFLPQbqomJrieHAW5) | [永遠の不在証明](https://open.spotify.com/album/5y7E3hUWGNoY98C1TubePY) | 4:21 | 2024-04-30 | 2024-05-27 |
 | [波打ち際](https://open.spotify.com/track/5prN6grhf8LgCujKq8GXvF) | [JUNNA](https://open.spotify.com/artist/4l9mhLGvHBgUXIrDGUjy5d) | [20×20](https://open.spotify.com/album/1L3FYHzvGSIeaV4rRlwD70) | 5:12 | 2022-07-05 | 2022-07-27 |
 | [流転](https://open.spotify.com/track/2oyAmwxRkHfOYACMOJ7qy9) | [仲村宗悟](https://open.spotify.com/artist/3Vz8LkrUXNRdZmaVtLXOMp) | [流転](https://open.spotify.com/album/6gnzH0r9ToxxxjFX9oNloN) | 3:15 | 2022-07-05 | 2022-07-08 |
 | [海と真珠](https://open.spotify.com/track/4dDBdgmfZxoLE8SR41RH70) | [JUNNA](https://open.spotify.com/artist/4l9mhLGvHBgUXIrDGUjy5d) | [海と真珠](https://open.spotify.com/album/2b7R36JmXl2ajwIMnkjs67) | 4:40 | 2022-06-14 | 2022-07-28 |

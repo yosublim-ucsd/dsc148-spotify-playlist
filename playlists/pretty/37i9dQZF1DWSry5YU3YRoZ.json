@@ -1,6 +1,6 @@
 {
   "description": "\ucc28\ubd84\ud558\uace0 \uac10\uc131\uc801\uc778 \uc74c\uc545\ub4e4\uacfc \ud568\uaed8 \ud3b8\uc548\ud55c \ubc24 \ub418\uc138\uc694 :) (Listen to K-Pop sleeping songs)",
-  "num_followers": 5140,
+  "num_followers": 5149,
   "original_name": "zZZ \uc798\uc790\uc694",
   "owner": {
     "name": "Spotify",
@@ -95,22 +95,6 @@
     {
       "added_at": "2024-03-08 06:42:30",
       "album": {
-        "name": "A flower bookmark",
-        "url": "https://open.spotify.com/album/460uGpon2JwPfRgDohV2bP"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 240718,
-      "name": "When love passes by",
-      "url": "https://open.spotify.com/track/2e9GsDKqjTGRbv6lI3mK9E"
-    },
-    {
-      "added_at": "2024-03-08 06:42:30",
-      "album": {
         "name": "Sweet Lullaby",
         "url": "https://open.spotify.com/album/65RzyhETVL6M4MmdMRcM5X"
       },
@@ -175,6 +159,22 @@
     {
       "added_at": "2024-03-08 06:42:30",
       "album": {
+        "name": "A flower bookmark",
+        "url": "https://open.spotify.com/album/460uGpon2JwPfRgDohV2bP"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 240718,
+      "name": "When love passes by",
+      "url": "https://open.spotify.com/track/2e9GsDKqjTGRbv6lI3mK9E"
+    },
+    {
+      "added_at": "2024-03-08 06:42:30",
+      "album": {
         "name": "Flowering",
         "url": "https://open.spotify.com/album/54hii26kTxdUy7SY9OfWrW"
       },
@@ -219,22 +219,6 @@
       "duration_ms": 251560,
       "name": "If",
       "url": "https://open.spotify.com/track/3go56fUuNPhwvZifMuTnpJ"
-    },
-    {
-      "added_at": "2024-03-08 06:42:30",
-      "album": {
-        "name": "A flower bookmark",
-        "url": "https://open.spotify.com/album/460uGpon2JwPfRgDohV2bP"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 237035,
-      "name": "Dreams in summer night",
-      "url": "https://open.spotify.com/track/08IZihEWj0fhBgF19DeZBj"
     },
     {
       "added_at": "2024-03-08 06:42:30",
@@ -303,22 +287,6 @@
     {
       "added_at": "2024-03-08 06:42:30",
       "album": {
-        "name": "Demo songs",
-        "url": "https://open.spotify.com/album/6MnPLoqYKHzJuzoh2CIxxi"
-      },
-      "artists": [
-        {
-          "name": "Kim Hyunchang",
-          "url": "https://open.spotify.com/artist/2IEHO7wbuUKxOVkMKaT5KB"
-        }
-      ],
-      "duration_ms": 246874,
-      "name": "dear heart",
-      "url": "https://open.spotify.com/track/1l8m2AYyklcReKPLQcGH9d"
-    },
-    {
-      "added_at": "2024-03-08 06:42:30",
-      "album": {
         "name": "Beautiful GunbarI OST",
         "url": "https://open.spotify.com/album/6J9aBraciskBz10VIcOwo5"
       },
@@ -331,6 +299,38 @@
       "duration_ms": 171500,
       "name": "a story to tell (Original Ver.)",
       "url": "https://open.spotify.com/track/7s1qstK42U47xyFOJHiqhH"
+    },
+    {
+      "added_at": "2024-03-08 06:42:30",
+      "album": {
+        "name": "A flower bookmark",
+        "url": "https://open.spotify.com/album/460uGpon2JwPfRgDohV2bP"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 237035,
+      "name": "Dreams in summer night",
+      "url": "https://open.spotify.com/track/08IZihEWj0fhBgF19DeZBj"
+    },
+    {
+      "added_at": "2024-03-08 06:42:30",
+      "album": {
+        "name": "Demo songs",
+        "url": "https://open.spotify.com/album/6MnPLoqYKHzJuzoh2CIxxi"
+      },
+      "artists": [
+        {
+          "name": "Kim Hyunchang",
+          "url": "https://open.spotify.com/artist/2IEHO7wbuUKxOVkMKaT5KB"
+        }
+      ],
+      "duration_ms": 246874,
+      "name": "dear heart",
+      "url": "https://open.spotify.com/track/1l8m2AYyklcReKPLQcGH9d"
     },
     {
       "added_at": "2024-03-08 06:42:30",
@@ -399,18 +399,18 @@
     {
       "added_at": "2024-03-08 06:42:30",
       "album": {
-        "name": "Beautiful Now (Original Television Soundtrack) Pt. 8",
-        "url": "https://open.spotify.com/album/47BJR3AeDuXKNUewXf1OAq"
+        "name": "Simple",
+        "url": "https://open.spotify.com/album/3UM9M1xTkqU6Df6Cciui5J"
       },
       "artists": [
         {
-          "name": "Lucia",
-          "url": "https://open.spotify.com/artist/3VHFAtB6fPQwpAWQ5rn4uc"
+          "name": "JEONG EUN JI",
+          "url": "https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92"
         }
       ],
-      "duration_ms": 213327,
-      "name": "Going home",
-      "url": "https://open.spotify.com/track/6rnHkf4EUMA9HWWsHEuLYh"
+      "duration_ms": 250453,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/07DtMQtRiP5vEAFWzKq82g"
     },
     {
       "added_at": "2024-03-08 06:42:30",
@@ -431,18 +431,18 @@
     {
       "added_at": "2024-03-08 06:42:30",
       "album": {
-        "name": "Simple",
-        "url": "https://open.spotify.com/album/3UM9M1xTkqU6Df6Cciui5J"
+        "name": "Beautiful Now (Original Television Soundtrack) Pt. 8",
+        "url": "https://open.spotify.com/album/47BJR3AeDuXKNUewXf1OAq"
       },
       "artists": [
         {
-          "name": "JEONG EUN JI",
-          "url": "https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92"
+          "name": "Lucia",
+          "url": "https://open.spotify.com/artist/3VHFAtB6fPQwpAWQ5rn4uc"
         }
       ],
-      "duration_ms": 250453,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/07DtMQtRiP5vEAFWzKq82g"
+      "duration_ms": 213327,
+      "name": "Going home",
+      "url": "https://open.spotify.com/track/6rnHkf4EUMA9HWWsHEuLYh"
     },
     {
       "added_at": "2024-03-08 06:42:30",
@@ -499,6 +499,22 @@
     {
       "added_at": "2024-03-08 06:42:30",
       "album": {
+        "name": "My Beautiful Apartment (O'PENing) (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/1t9pAo9XneaecUx94i27ms"
+      },
+      "artists": [
+        {
+          "name": "Haze Moon",
+          "url": "https://open.spotify.com/artist/5qWj6gxjgEq3Ut7QKG1Wjd"
+        }
+      ],
+      "duration_ms": 228834,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/2XeZwMyRKG9vSvTLq7Y40Z"
+    },
+    {
+      "added_at": "2024-03-08 06:42:30",
+      "album": {
         "name": "Without Anyone Knowing",
         "url": "https://open.spotify.com/album/5oRAyWl80nzViSRTuCoO6A"
       },
@@ -519,22 +535,6 @@
     {
       "added_at": "2024-03-08 06:42:30",
       "album": {
-        "name": "My Beautiful Apartment (O'PENing) (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/1t9pAo9XneaecUx94i27ms"
-      },
-      "artists": [
-        {
-          "name": "Haze Moon",
-          "url": "https://open.spotify.com/artist/5qWj6gxjgEq3Ut7QKG1Wjd"
-        }
-      ],
-      "duration_ms": 228834,
-      "name": "Hello",
-      "url": "https://open.spotify.com/track/2XeZwMyRKG9vSvTLq7Y40Z"
-    },
-    {
-      "added_at": "2024-03-08 06:42:30",
-      "album": {
         "name": "Call me now",
         "url": "https://open.spotify.com/album/31a95WflUiSabbWq0RAchF"
       },
@@ -551,22 +551,6 @@
     {
       "added_at": "2024-03-08 06:42:30",
       "album": {
-        "name": "Absence",
-        "url": "https://open.spotify.com/album/4j1X1n3KTXW5Umj4tbVMu9"
-      },
-      "artists": [
-        {
-          "name": "Song Hee-ran",
-          "url": "https://open.spotify.com/artist/28gcQqqgp3H072b9NRkSOW"
-        }
-      ],
-      "duration_ms": 196500,
-      "name": "Absence",
-      "url": "https://open.spotify.com/track/7hE2rSWy9S5tTYwaDUhJZp"
-    },
-    {
-      "added_at": "2024-03-08 06:42:30",
-      "album": {
         "name": "STELLA I",
         "url": "https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 239000,
       "name": "Storing Nights",
       "url": "https://open.spotify.com/track/6oPucs07MGXSIW9pZut2W9"
+    },
+    {
+      "added_at": "2024-03-08 06:42:30",
+      "album": {
+        "name": "Absence",
+        "url": "https://open.spotify.com/album/4j1X1n3KTXW5Umj4tbVMu9"
+      },
+      "artists": [
+        {
+          "name": "Song Hee-ran",
+          "url": "https://open.spotify.com/artist/28gcQqqgp3H072b9NRkSOW"
+        }
+      ],
+      "duration_ms": 196500,
+      "name": "Absence",
+      "url": "https://open.spotify.com/track/7hE2rSWy9S5tTYwaDUhJZp"
     },
     {
       "added_at": "2024-03-08 06:42:30",
@@ -631,22 +631,6 @@
     {
       "added_at": "2024-03-08 06:42:30",
       "album": {
-        "name": "Demo songs",
-        "url": "https://open.spotify.com/album/6MnPLoqYKHzJuzoh2CIxxi"
-      },
-      "artists": [
-        {
-          "name": "Kim Hyunchang",
-          "url": "https://open.spotify.com/artist/2IEHO7wbuUKxOVkMKaT5KB"
-        }
-      ],
-      "duration_ms": 264624,
-      "name": "Lullaby",
-      "url": "https://open.spotify.com/track/0XpUIQVa2EhdLPoZE6FT4b"
-    },
-    {
-      "added_at": "2024-03-08 06:42:30",
-      "album": {
         "name": "My",
         "url": "https://open.spotify.com/album/6lxViYPgD2UjJ1nhgXz9kw"
       },
@@ -663,18 +647,18 @@
     {
       "added_at": "2024-03-08 06:42:30",
       "album": {
-        "name": "I can't tell you everything",
-        "url": "https://open.spotify.com/album/19cnTIC9Q9V5YykBCRxvOL"
+        "name": "Demo songs",
+        "url": "https://open.spotify.com/album/6MnPLoqYKHzJuzoh2CIxxi"
       },
       "artists": [
         {
-          "name": "CHEEZE",
-          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
+          "name": "Kim Hyunchang",
+          "url": "https://open.spotify.com/artist/2IEHO7wbuUKxOVkMKaT5KB"
         }
       ],
-      "duration_ms": 187999,
-      "name": "Excuse",
-      "url": "https://open.spotify.com/track/4uzZyA3YeQAZYmDPXUcU1h"
+      "duration_ms": 264624,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/0XpUIQVa2EhdLPoZE6FT4b"
     },
     {
       "added_at": "2024-03-08 06:42:30",
@@ -723,6 +707,22 @@
       "duration_ms": 211000,
       "name": "Forgive, Forget",
       "url": "https://open.spotify.com/track/63ZyS4MPjh4tHYQeq11fEE"
+    },
+    {
+      "added_at": "2024-03-08 06:42:30",
+      "album": {
+        "name": "I can't tell you everything",
+        "url": "https://open.spotify.com/album/19cnTIC9Q9V5YykBCRxvOL"
+      },
+      "artists": [
+        {
+          "name": "CHEEZE",
+          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
+        }
+      ],
+      "duration_ms": 187999,
+      "name": "Excuse",
+      "url": "https://open.spotify.com/track/4uzZyA3YeQAZYmDPXUcU1h"
     },
     {
       "added_at": "2024-03-08 06:42:30",
@@ -779,22 +779,6 @@
     {
       "added_at": "2024-03-08 06:42:30",
       "album": {
-        "name": "Mindless",
-        "url": "https://open.spotify.com/album/0SliKclPFZxNqnmGIIqVIO"
-      },
-      "artists": [
-        {
-          "name": "deulrejang",
-          "url": "https://open.spotify.com/artist/1jdSKlrCsJ5qLsT7YuOiwM"
-        }
-      ],
-      "duration_ms": 247793,
-      "name": "Mindless",
-      "url": "https://open.spotify.com/track/7wKSQwBzevrfI4nsSNGnuM"
-    },
-    {
-      "added_at": "2024-03-08 06:42:30",
-      "album": {
         "name": "Good Night",
         "url": "https://open.spotify.com/album/66jcalDfukwwC85IUvWwvZ"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 231482,
       "name": "Good Night",
       "url": "https://open.spotify.com/track/1uf2hC3k0lHokAuwdUAIEZ"
+    },
+    {
+      "added_at": "2024-03-08 06:42:30",
+      "album": {
+        "name": "Mindless",
+        "url": "https://open.spotify.com/album/0SliKclPFZxNqnmGIIqVIO"
+      },
+      "artists": [
+        {
+          "name": "deulrejang",
+          "url": "https://open.spotify.com/artist/1jdSKlrCsJ5qLsT7YuOiwM"
+        }
+      ],
+      "duration_ms": 247793,
+      "name": "Mindless",
+      "url": "https://open.spotify.com/track/7wKSQwBzevrfI4nsSNGnuM"
     },
     {
       "added_at": "2024-03-08 06:42:30",

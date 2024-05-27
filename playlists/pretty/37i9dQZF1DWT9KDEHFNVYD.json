@@ -1,6 +1,6 @@
 {
   "description": "Endless miles of Krautrock, Motorik Beats, Kosmische Musik, and all infinite deviations. CAN on cover.",
-  "num_followers": 12352,
+  "num_followers": 12368,
   "original_name": "Krautrock",
   "owner": {
     "name": "Spotify",
@@ -171,18 +171,18 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Sound of Silver",
-        "url": "https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X"
+        "name": "Lightbulbs",
+        "url": "https://open.spotify.com/album/53PUB7dV3fHgek78i7oldH"
       },
       "artists": [
         {
-          "name": "LCD Soundsystem",
-          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
+          "name": "Fujiya & Miyagi",
+          "url": "https://open.spotify.com/artist/0j2MwhbFTvquOBhs3LeIfU"
         }
       ],
-      "duration_ms": 235226,
-      "name": "Watch the Tapes",
-      "url": "https://open.spotify.com/track/4tzg6aQGUBL6YMOASdLkjN"
+      "duration_ms": 200133,
+      "name": "Knickerbocker",
+      "url": "https://open.spotify.com/track/2LaxQIT4heN80xHBuKOhHY"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -203,6 +203,22 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
+        "name": "Sound of Silver",
+        "url": "https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X"
+      },
+      "artists": [
+        {
+          "name": "LCD Soundsystem",
+          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
+        }
+      ],
+      "duration_ms": 235226,
+      "name": "Watch the Tapes",
+      "url": "https://open.spotify.com/track/4tzg6aQGUBL6YMOASdLkjN"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
         "name": "Flying Microtonal Banana",
         "url": "https://open.spotify.com/album/4G9ANFGk9579p2uirMbVT0"
       },
@@ -215,22 +231,6 @@
       "duration_ms": 468093,
       "name": "Rattlesnake",
       "url": "https://open.spotify.com/track/4HOnIpqP8txGle3UvfjStU"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
-        "name": "Lightbulbs",
-        "url": "https://open.spotify.com/album/53PUB7dV3fHgek78i7oldH"
-      },
-      "artists": [
-        {
-          "name": "Fujiya & Miyagi",
-          "url": "https://open.spotify.com/artist/0j2MwhbFTvquOBhs3LeIfU"
-        }
-      ],
-      "duration_ms": 200133,
-      "name": "Knickerbocker",
-      "url": "https://open.spotify.com/track/2LaxQIT4heN80xHBuKOhHY"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -541,20 +541,20 @@
       "url": "https://open.spotify.com/track/0GNWAR5YioLyQSZMXMjBX4"
     },
     {
-      "added_at": "2023-01-25 02:05:47",
+      "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Blackouts",
-        "url": "https://open.spotify.com/album/140BMrMHrJKORgGdutEFde"
+        "name": "Zuckerzeit",
+        "url": "https://open.spotify.com/album/0g1Qjt5r2u56wtvqXDC0pb"
       },
       "artists": [
         {
-          "name": "Ashra",
-          "url": "https://open.spotify.com/artist/4qzIpmopZ2KVodpmw7uJKe"
+          "name": "Cluster",
+          "url": "https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8"
         }
       ],
-      "duration_ms": 410666,
-      "name": "77 Slightly Delayed",
-      "url": "https://open.spotify.com/track/1TmlYsvU6XoXn0Bs6p5CNC"
+      "duration_ms": 285933,
+      "name": "Hollywood",
+      "url": "https://open.spotify.com/track/741KQX9BobWT2bV5s5nO2D"
     },
     {
       "added_at": "2024-03-12 18:16:53",
@@ -573,20 +573,20 @@
       "url": "https://open.spotify.com/track/6GFhFmcObGLbUS4EfRtLQw"
     },
     {
-      "added_at": "2021-07-30 14:56:06",
+      "added_at": "2023-01-25 02:05:47",
       "album": {
-        "name": "Zuckerzeit",
-        "url": "https://open.spotify.com/album/0g1Qjt5r2u56wtvqXDC0pb"
+        "name": "Blackouts",
+        "url": "https://open.spotify.com/album/140BMrMHrJKORgGdutEFde"
       },
       "artists": [
         {
-          "name": "Cluster",
-          "url": "https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8"
+          "name": "Ashra",
+          "url": "https://open.spotify.com/artist/4qzIpmopZ2KVodpmw7uJKe"
         }
       ],
-      "duration_ms": 285933,
-      "name": "Hollywood",
-      "url": "https://open.spotify.com/track/741KQX9BobWT2bV5s5nO2D"
+      "duration_ms": 410666,
+      "name": "77 Slightly Delayed",
+      "url": "https://open.spotify.com/track/1TmlYsvU6XoXn0Bs6p5CNC"
     },
     {
       "added_at": "2024-04-09 16:27:14",
@@ -607,18 +607,18 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "BGM",
-        "url": "https://open.spotify.com/album/5ouO0cdsV0laOO5u6jWHk4"
+        "name": "Murder of the Universe",
+        "url": "https://open.spotify.com/album/2y5bwmtV2nSBUrVoWzGXmS"
       },
       "artists": [
         {
-          "name": "YELLOW MAGIC ORCHESTRA",
-          "url": "https://open.spotify.com/artist/2JIf5JxI3ypOSfrfNIIMQE"
+          "name": "King Gizzard & The Lizard Wizard",
+          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
         }
       ],
-      "duration_ms": 272840,
-      "name": "\u30ad\u30e5\u30fc",
-      "url": "https://open.spotify.com/track/15beQw4bH4fePS8oAE2Yef"
+      "duration_ms": 141800,
+      "name": "Han-Tyumi, The Confused Cyborg",
+      "url": "https://open.spotify.com/track/0ygAoz3haF1jLcHHB7NWf4"
     },
     {
       "added_at": "2024-04-09 16:27:14",
@@ -639,18 +639,18 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Murder of the Universe",
-        "url": "https://open.spotify.com/album/2y5bwmtV2nSBUrVoWzGXmS"
+        "name": "BGM",
+        "url": "https://open.spotify.com/album/5ouO0cdsV0laOO5u6jWHk4"
       },
       "artists": [
         {
-          "name": "King Gizzard & The Lizard Wizard",
-          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+          "name": "YELLOW MAGIC ORCHESTRA",
+          "url": "https://open.spotify.com/artist/2JIf5JxI3ypOSfrfNIIMQE"
         }
       ],
-      "duration_ms": 141800,
-      "name": "Han-Tyumi, The Confused Cyborg",
-      "url": "https://open.spotify.com/track/0ygAoz3haF1jLcHHB7NWf4"
+      "duration_ms": 272840,
+      "name": "\u30ad\u30e5\u30fc",
+      "url": "https://open.spotify.com/track/15beQw4bH4fePS8oAE2Yef"
     },
     {
       "added_at": "2024-04-09 16:27:14",
@@ -771,18 +771,18 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Inform - Educate - Entertain",
-        "url": "https://open.spotify.com/album/1aSU7tVnGuKquY8yKCw1jm"
+        "name": "Floating Coffin",
+        "url": "https://open.spotify.com/album/6UpdRU3P0AAMA6MVCzsW3c"
       },
       "artists": [
         {
-          "name": "Public Service Broadcasting",
-          "url": "https://open.spotify.com/artist/6VsiDFMZJlJ053P1uO4A6h"
+          "name": "Thee Oh Sees",
+          "url": "https://open.spotify.com/artist/3qYfqdVwX0fil71onLpLkh"
         }
       ],
-      "duration_ms": 237532,
-      "name": "Spitfire",
-      "url": "https://open.spotify.com/track/2vRI17zbIpXatNS3IS1ktx"
+      "duration_ms": 266120,
+      "name": "No Spell",
+      "url": "https://open.spotify.com/track/24vNTDqvAfgKMyDAT6ZFBd"
     },
     {
       "added_at": "2024-04-09 16:27:14",
@@ -801,20 +801,20 @@
       "url": "https://open.spotify.com/track/02bagVPVBpq8SImmbRmEyI"
     },
     {
-      "added_at": "2021-07-30 14:56:06",
+      "added_at": "2023-03-23 21:21:38",
       "album": {
-        "name": "Floating Coffin",
-        "url": "https://open.spotify.com/album/6UpdRU3P0AAMA6MVCzsW3c"
+        "name": "Ghost Power",
+        "url": "https://open.spotify.com/album/0TdsBPpJLTRc9khFr4US5d"
       },
       "artists": [
         {
-          "name": "Thee Oh Sees",
-          "url": "https://open.spotify.com/artist/3qYfqdVwX0fil71onLpLkh"
+          "name": "Ghost Power",
+          "url": "https://open.spotify.com/artist/6puuOMtH1u9d3nrCdwO4Y8"
         }
       ],
-      "duration_ms": 266120,
-      "name": "No Spell",
-      "url": "https://open.spotify.com/track/24vNTDqvAfgKMyDAT6ZFBd"
+      "duration_ms": 221701,
+      "name": "Asteroid Witch",
+      "url": "https://open.spotify.com/track/2UYmc7jYu8TkUCGe5qsKsn"
     },
     {
       "added_at": "2024-04-09 16:27:14",
@@ -833,22 +833,6 @@
       "url": "https://open.spotify.com/track/6UZipqSMamNtONEnVYRN88"
     },
     {
-      "added_at": "2023-03-23 21:21:38",
-      "album": {
-        "name": "Ghost Power",
-        "url": "https://open.spotify.com/album/0TdsBPpJLTRc9khFr4US5d"
-      },
-      "artists": [
-        {
-          "name": "Ghost Power",
-          "url": "https://open.spotify.com/artist/6puuOMtH1u9d3nrCdwO4Y8"
-        }
-      ],
-      "duration_ms": 221701,
-      "name": "Asteroid Witch",
-      "url": "https://open.spotify.com/track/2UYmc7jYu8TkUCGe5qsKsn"
-    },
-    {
       "added_at": "2021-07-30 14:56:06",
       "album": {
         "name": "Chinese Restaurant",
@@ -863,6 +847,22 @@
       "duration_ms": 329786,
       "name": "C.Rock",
       "url": "https://open.spotify.com/track/3Q7tI1K0tkbR35245NYV8X"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Inform - Educate - Entertain",
+        "url": "https://open.spotify.com/album/1aSU7tVnGuKquY8yKCw1jm"
+      },
+      "artists": [
+        {
+          "name": "Public Service Broadcasting",
+          "url": "https://open.spotify.com/artist/6VsiDFMZJlJ053P1uO4A6h"
+        }
+      ],
+      "duration_ms": 237532,
+      "name": "Spitfire",
+      "url": "https://open.spotify.com/track/2vRI17zbIpXatNS3IS1ktx"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1013,22 +1013,6 @@
       "url": "https://open.spotify.com/track/1h9pmGilzK1WAIMDbhSsCG"
     },
     {
-      "added_at": "2022-03-04 01:55:34",
-      "album": {
-        "name": "Mandatory Enjoyment",
-        "url": "https://open.spotify.com/album/29qUZKyYST9LzfffZ9aUqc"
-      },
-      "artists": [
-        {
-          "name": "Dummy",
-          "url": "https://open.spotify.com/artist/51ymXnZGhf6Z4OcNXPviZC"
-        }
-      ],
-      "duration_ms": 184013,
-      "name": "Final Weapon",
-      "url": "https://open.spotify.com/track/4cV5qpNHPtZ4tEL2HGGtZm"
-    },
-    {
       "added_at": "2021-07-30 14:56:06",
       "album": {
         "name": "Transparent Things",
@@ -1043,6 +1027,22 @@
       "duration_ms": 250029,
       "name": "Conductor 71",
       "url": "https://open.spotify.com/track/1dqjTVRISUGI2eKjgcndIz"
+    },
+    {
+      "added_at": "2022-03-04 01:55:34",
+      "album": {
+        "name": "Mandatory Enjoyment",
+        "url": "https://open.spotify.com/album/29qUZKyYST9LzfffZ9aUqc"
+      },
+      "artists": [
+        {
+          "name": "Dummy",
+          "url": "https://open.spotify.com/artist/51ymXnZGhf6Z4OcNXPviZC"
+        }
+      ],
+      "duration_ms": 184013,
+      "name": "Final Weapon",
+      "url": "https://open.spotify.com/track/4cV5qpNHPtZ4tEL2HGGtZm"
     },
     {
       "added_at": "2023-01-12 03:40:17",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
+        "name": "Transparent Things",
+        "url": "https://open.spotify.com/album/3Fj7WFcMMbCgcvzBA75UvI"
+      },
+      "artists": [
+        {
+          "name": "Fujiya & Miyagi",
+          "url": "https://open.spotify.com/artist/0j2MwhbFTvquOBhs3LeIfU"
+        }
+      ],
+      "duration_ms": 391002,
+      "name": "Cassettesingle",
+      "url": "https://open.spotify.com/track/66vwhVWctdciNG21GcOC3G"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
         "name": "Find The Sun",
         "url": "https://open.spotify.com/album/6aejLD0bE9xQvpFva2zDEI"
       },
@@ -1123,22 +1139,6 @@
       "duration_ms": 426342,
       "name": "Saturnine Night",
       "url": "https://open.spotify.com/track/2wYENPm0hSDmwDd8n1TLV3"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
-        "name": "Balance",
-        "url": "https://open.spotify.com/album/0yqqIG6a0xG6qFiaOu6Vcp"
-      },
-      "artists": [
-        {
-          "name": "Lorelle Meets The Obsolete",
-          "url": "https://open.spotify.com/artist/79ckv9yY9WAKcH8KfrvmiP"
-        }
-      ],
-      "duration_ms": 381868,
-      "name": "The Sound of all Things",
-      "url": "https://open.spotify.com/track/6vdl0qUhK7vWczvw0NcPBM"
     },
     {
       "added_at": "2023-04-07 06:00:00",
@@ -1159,34 +1159,18 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Anthology (Remastered Version)",
-        "url": "https://open.spotify.com/album/6XFyzX1oEpqQl6TPf0nhpH"
+        "name": "Balance",
+        "url": "https://open.spotify.com/album/0yqqIG6a0xG6qFiaOu6Vcp"
       },
       "artists": [
         {
-          "name": "CAN",
-          "url": "https://open.spotify.com/artist/4l8xPGtl6DHR2uvunqrl8r"
+          "name": "Lorelle Meets The Obsolete",
+          "url": "https://open.spotify.com/artist/79ckv9yY9WAKcH8KfrvmiP"
         }
       ],
-      "duration_ms": 396306,
-      "name": "Mother Sky (from Deep End)",
-      "url": "https://open.spotify.com/track/40z5Dhtcf2tiz8Ml2awNA3"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
-        "name": "Transparent Things",
-        "url": "https://open.spotify.com/album/3Fj7WFcMMbCgcvzBA75UvI"
-      },
-      "artists": [
-        {
-          "name": "Fujiya & Miyagi",
-          "url": "https://open.spotify.com/artist/0j2MwhbFTvquOBhs3LeIfU"
-        }
-      ],
-      "duration_ms": 391002,
-      "name": "Cassettesingle",
-      "url": "https://open.spotify.com/track/66vwhVWctdciNG21GcOC3G"
+      "duration_ms": 381868,
+      "name": "The Sound of all Things",
+      "url": "https://open.spotify.com/track/6vdl0qUhK7vWczvw0NcPBM"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1203,6 +1187,22 @@
       "duration_ms": 437250,
       "name": "Can't Get There",
       "url": "https://open.spotify.com/track/1AtSdzyt3vsGUVSk5wb44Z"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Anthology (Remastered Version)",
+        "url": "https://open.spotify.com/album/6XFyzX1oEpqQl6TPf0nhpH"
+      },
+      "artists": [
+        {
+          "name": "CAN",
+          "url": "https://open.spotify.com/artist/4l8xPGtl6DHR2uvunqrl8r"
+        }
+      ],
+      "duration_ms": 396306,
+      "name": "Mother Sky (from Deep End)",
+      "url": "https://open.spotify.com/track/40z5Dhtcf2tiz8Ml2awNA3"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1301,22 +1301,6 @@
       "url": "https://open.spotify.com/track/7w6PcnUzc5cRadoO4DJa1e"
     },
     {
-      "added_at": "2022-01-20 20:59:43",
-      "album": {
-        "name": "Ecdysis!",
-        "url": "https://open.spotify.com/album/7ofV8dUpKkDgd068rK3Vly"
-      },
-      "artists": [
-        {
-          "name": "DARKSIDE",
-          "url": "https://open.spotify.com/artist/2933wDUojoQmvqSdTAE5NB"
-        }
-      ],
-      "duration_ms": 389869,
-      "name": "Ecdysis!",
-      "url": "https://open.spotify.com/track/4NwLdxjO1eqR5cgGInf7Go"
-    },
-    {
       "added_at": "2021-07-30 14:56:06",
       "album": {
         "name": "La D\u00fcsseldorf",
@@ -1331,6 +1315,22 @@
       "duration_ms": 269133,
       "name": "La D\u00fcsseldorf",
       "url": "https://open.spotify.com/track/3xGzJ6lwDAoBDisjCHkGtT"
+    },
+    {
+      "added_at": "2022-01-20 20:59:43",
+      "album": {
+        "name": "Ecdysis!",
+        "url": "https://open.spotify.com/album/7ofV8dUpKkDgd068rK3Vly"
+      },
+      "artists": [
+        {
+          "name": "DARKSIDE",
+          "url": "https://open.spotify.com/artist/2933wDUojoQmvqSdTAE5NB"
+        }
+      ],
+      "duration_ms": 389869,
+      "name": "Ecdysis!",
+      "url": "https://open.spotify.com/track/4NwLdxjO1eqR5cgGInf7Go"
     },
     {
       "added_at": "2023-03-23 21:21:38",
@@ -1401,22 +1401,6 @@
       "url": "https://open.spotify.com/track/01QJM4L9ysDoikSBKkDLvw"
     },
     {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
-        "name": "La D\u00fcsseldorf",
-        "url": "https://open.spotify.com/album/4GYlqAkTsHoY55fEq03EPZ"
-      },
-      "artists": [
-        {
-          "name": "La D\u00fcsseldorf",
-          "url": "https://open.spotify.com/artist/3GLAEAmt9FYRZWv8HUYha0"
-        }
-      ],
-      "duration_ms": 482773,
-      "name": "Silver Cloud",
-      "url": "https://open.spotify.com/track/5dviL3v73PIFxsAgWTfgSY"
-    },
-    {
       "added_at": "2023-01-25 02:05:47",
       "album": {
         "name": "Nieve Afuera",
@@ -1431,6 +1415,22 @@
       "duration_ms": 277845,
       "name": "Nieve Afuera",
       "url": "https://open.spotify.com/track/2uODWJ6wW0PKoJVVfcY2XQ"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "La D\u00fcsseldorf",
+        "url": "https://open.spotify.com/album/4GYlqAkTsHoY55fEq03EPZ"
+      },
+      "artists": [
+        {
+          "name": "La D\u00fcsseldorf",
+          "url": "https://open.spotify.com/artist/3GLAEAmt9FYRZWv8HUYha0"
+        }
+      ],
+      "duration_ms": 482773,
+      "name": "Silver Cloud",
+      "url": "https://open.spotify.com/track/5dviL3v73PIFxsAgWTfgSY"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1565,22 +1565,6 @@
       "url": "https://open.spotify.com/track/2JFuf7873vzHiJqpmwFTVL"
     },
     {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
-        "name": "Know by Heart",
-        "url": "https://open.spotify.com/album/2V3jlwKVWObfRDzgnL3E2S"
-      },
-      "artists": [
-        {
-          "name": "The American Analog Set",
-          "url": "https://open.spotify.com/artist/376EkILFaF7BFBHr9Rzn7A"
-        }
-      ],
-      "duration_ms": 217133,
-      "name": "Like Foxes Through Fences",
-      "url": "https://open.spotify.com/track/05e1tN9mBd1qky5SdIGGTI"
-    },
-    {
       "added_at": "2024-02-02 05:39:17",
       "album": {
         "name": "Future Sounds Of Kraut, Vol. 2 - Teaser 1",
@@ -1595,6 +1579,22 @@
       "duration_ms": 439529,
       "name": "Krautwickel",
       "url": "https://open.spotify.com/track/5lM4npHv57txmyWH9wUnkh"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Know by Heart",
+        "url": "https://open.spotify.com/album/2V3jlwKVWObfRDzgnL3E2S"
+      },
+      "artists": [
+        {
+          "name": "The American Analog Set",
+          "url": "https://open.spotify.com/artist/376EkILFaF7BFBHr9Rzn7A"
+        }
+      ],
+      "duration_ms": 217133,
+      "name": "Like Foxes Through Fences",
+      "url": "https://open.spotify.com/track/05e1tN9mBd1qky5SdIGGTI"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1615,18 +1615,18 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Radiate!",
-        "url": "https://open.spotify.com/album/3rTpM9FRmueqSahefRtbkN"
+        "name": "The Secret Cosmic Music of the East German Olympic Program 1972-83, Vol. 1",
+        "url": "https://open.spotify.com/album/2hWjO2b5jqAym0JfquVvNQ"
       },
       "artists": [
         {
-          "name": "Camera",
-          "url": "https://open.spotify.com/artist/09HZcXk3Gqd4JPm4YJKGgs"
+          "name": "Kosmischer L\u00e4ufer",
+          "url": "https://open.spotify.com/artist/4ZRufjj25YMXohtTIlg44B"
         }
       ],
-      "duration_ms": 414800,
-      "name": "E-Go",
-      "url": "https://open.spotify.com/track/0IEqm9k648GiajWFUvsgLz"
+      "duration_ms": 392320,
+      "name": "Tonband Laufspur",
+      "url": "https://open.spotify.com/track/2lHk5LW04d246aunZYEPcr"
     }
   ],
   "unique_name": "Krautrock",

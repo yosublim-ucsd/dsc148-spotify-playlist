@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtlo6ENS92N.md) - [plain]
 
 > Bollywood Central, jab baje toh seedha dil ke centre mein lage ❤️ Cover \- Animal
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,304,883 likes - 50 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,305,472 likes - 50 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

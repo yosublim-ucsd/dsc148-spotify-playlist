@@ -1,12 +1,12 @@
 {
   "description": "what i&#x27;m listening to: may-june 2024 (previous playlists archived on my profile)",
-  "num_followers": 19543,
+  "num_followers": 19549,
   "original_name": "impressive\u2026 but true!",
   "owner": {
     "name": "margeaux",
     "url": "https://open.spotify.com/user/1220511975"
   },
-  "snapshot_id": "AAAKcVa+bjYsh3l+RLZNq9eLMHB+T2AG",
+  "snapshot_id": "AAAKc/OZKijKqdHIhh8u2tU6XKDcVyW2",
   "tracks": [
     {
       "added_at": "2024-05-16 01:01:16",
@@ -415,6 +415,38 @@
       "duration_ms": 338506,
       "name": "Fourth of July",
       "url": "https://open.spotify.com/track/3AASTYWf8pLMdBj2ZIAMBx"
+    },
+    {
+      "added_at": "2024-05-26 19:42:16",
+      "album": {
+        "name": "The Sweetest Gift",
+        "url": "https://open.spotify.com/album/3EaNsumSSiHJvXIN371vuA"
+      },
+      "artists": [
+        {
+          "name": "Sulah Jordan",
+          "url": "https://open.spotify.com/artist/2g57r5gsJqgHbLSJ21yy1o"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "The Sweetest Gift",
+      "url": "https://open.spotify.com/track/6r9jhN0mryXMDKIol3XhO8"
+    },
+    {
+      "added_at": "2024-05-26 23:53:23",
+      "album": {
+        "name": "North Marine Drive",
+        "url": "https://open.spotify.com/album/4h4SztkCFmYZOQpUD7kLR2"
+      },
+      "artists": [
+        {
+          "name": "Ben Watt",
+          "url": "https://open.spotify.com/artist/4RIOH6XCUt1Xr8NLUj2u66"
+        }
+      ],
+      "duration_ms": 147973,
+      "name": "On Box Hill",
+      "url": "https://open.spotify.com/track/12zeveHIA4DLzT6wzbCeZ3"
     }
   ],
   "unique_name": "impressive\u2026 but true!",

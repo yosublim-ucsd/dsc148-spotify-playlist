@@ -4,7 +4,7 @@
 
 > A taste of the very best bluegrass instrumentals, classic and new.
 
-260 songs - 15 hr 59 min
+261 songs - 16 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [Aesop Mountain](https://open.spotify.com/track/46rDdtMN5rzMDp6UiIpg4Q) | [Andy Thorn](https://open.spotify.com/artist/5iWv1fphzUp9NGSNBDK713) | [Aesop Mountain](https://open.spotify.com/album/7DJIYczo0iFkxAuMmsBVDd) | 3:28 | 2022-07-29 | 2022-11-19 |
 | [Aesop Mountain](https://open.spotify.com/track/710oc7jGMREe9vWsYraOck) | [Andy Thorn](https://open.spotify.com/artist/5iWv1fphzUp9NGSNBDK713) | [Songs of the Sunrise Fox](https://open.spotify.com/album/2qSn76iUNZIrQQYpeeW54n) | 3:28 | 2022-09-30 |  |
 | [Airish](https://open.spotify.com/track/5EKdXtNDjqg03nXf8H5IUr) | [Alison Brown](https://open.spotify.com/artist/01ts5a7R3WkeE2oKIouXEK) | [The Song of the Banjo](https://open.spotify.com/album/0DZIOJ6PXVnNQANiA7VJaJ) | 4:17 | 2021-12-03 |  |
-| [Along Came Sonny](https://open.spotify.com/track/2eIOinqL0Rup57qmoRiwKs) | [Bill Evans](https://open.spotify.com/artist/0kM18IEgG0cwxgfJRj7xFF) | [Things Are Simple](https://open.spotify.com/album/2ob3K0w9zdg2YPET5xn49c) | 4:48 | 2023-01-27 |  |
+| [Along Came Sonny](https://open.spotify.com/track/2eIOinqL0Rup57qmoRiwKs) | [Bill Evans](https://open.spotify.com/artist/0kM18IEgG0cwxgfJRj7xFF) | [Things Are Simple](https://open.spotify.com/album/2ob3K0w9zdg2YPET5xn49c) | 4:48 | 2023-01-27 | 2024-05-27 |
 | [And Then, And Then, And Then](https://open.spotify.com/track/4EmclhN9TTg1r2dRNCpGtk) | [Ethan Sherman](https://open.spotify.com/artist/4A9CvXWfWvRnIoLhOMRxse), [Thomas Cassell](https://open.spotify.com/artist/7g2xzGFWspvuNWyd7Raepa), [Matthew Davis](https://open.spotify.com/artist/1GM51GqX3LgTP0uHq6Od26), [Avery Merritt](https://open.spotify.com/artist/4VQPvJjZ1eeFtIXSDNb4Ku), [Tim McNalley](https://open.spotify.com/artist/4Ia7vccNwNdMBDyBNAajLD) | [Indoor Vistas](https://open.spotify.com/album/5fOYNNqYU23pUMlPMfuJU6) | 3:57 | 2023-11-24 | 2023-12-14 |
 | [Annabelle June](https://open.spotify.com/track/1VkiuB68cIE1rseBH55Fq9) | [Abigail Washburn](https://open.spotify.com/artist/40CfCtMnEXvvCKk8J1DniP), [Béla Fleck](https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU) | [Appalachian Picking Society](https://open.spotify.com/album/0zFO5P5ULTkqknwYWSTkZg) | 3:33 | 2021-12-03 |  |
 | [Appalachia Waltz](https://open.spotify.com/track/6ZWoCwvDD3BvhTmgLiFiFW) | [Mark O'Connor](https://open.spotify.com/artist/5zfaMrd5q4szVTxVYWuoDV), [Yo\-Yo Ma](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk), [Edgar Meyer](https://open.spotify.com/artist/7jkhwa4XMe9XSt1r0AWNqD) | [Heartland: An Appalachian Anthology](https://open.spotify.com/album/6XoYUIPrhQn2G6DOar698L) | 5:45 | 2021-12-03 | 2023-11-11 |
@@ -140,6 +140,7 @@
 | [Julie Ann Johnson](https://open.spotify.com/track/6aY2O9hJq3ty10tBZNqCUs) | [Cathy Fink](https://open.spotify.com/artist/6C0lsIh3QzXKHdFxFy3DAw) | [Banjo Haiku](https://open.spotify.com/album/3YsYZKwQeR1BpFjNL9OFZ2) | 1:50 | 2021-12-03 |  |
 | [Just a Closer Walk With Thee](https://open.spotify.com/track/5a5FTyeln9QIRJdE8P8GzS) | [Larry Sparks](https://open.spotify.com/artist/05c6W2NfXx6jxO28OGfPRA) | [New Highway \(Remastered\)](https://open.spotify.com/album/7vL8jUadq4thgWJVnGzuZ0) | 2:20 | 2023-03-03 | 2023-06-02 |
 | [Katmandu](https://open.spotify.com/track/7DlaaNwxmS99iypST4bTS0) | [Béla Fleck](https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU) | [The Bluegrass Sessions: Tales From The Acoustic Planet, Vol\. 2](https://open.spotify.com/album/34rQGJXHlECil6fZUIHm7q) | 4:23 | 2021-12-03 | 2022-07-23 |
+| [Kimper County](https://open.spotify.com/track/4FfGd39o9TNN0KXc4oIsIH) | [Andy Leftwich](https://open.spotify.com/artist/2fcTqa79dTOAF6kJrDltQa) | [The American Fiddler](https://open.spotify.com/album/3VbD9iUP0p5WmVXsp9crms) | 4:01 | 2024-05-10 |  |
 | [Kimper County](https://open.spotify.com/track/4qkU1rmucgwF0p7QBZOuYF) | [Andy Leftwich](https://open.spotify.com/artist/2fcTqa79dTOAF6kJrDltQa) | [Kimper County](https://open.spotify.com/album/7JliMRkz67DvdEhsldiCfV) | 4:01 | 2022-03-18 | 2022-10-25 |
 | [Last One on the Line](https://open.spotify.com/track/2wbYGo4S3DYL1ddDRn6fHd) | [Hawktail](https://open.spotify.com/artist/3FsmZCUI3BAt3lqc6UIPqm) | [Formations](https://open.spotify.com/album/0lRJJhFQnT5eEm8gk9ahLk) | 4:59 | 2023-11-24 | 2024-04-19 |
 | [Last One on the Line](https://open.spotify.com/track/3EJCPHptFTb66er6xgaP6o) | [Hawktail](https://open.spotify.com/artist/3FsmZCUI3BAt3lqc6UIPqm) | [Formations](https://open.spotify.com/album/51G5vn744vAm0qJtuKElX5) | 4:59 | 2021-12-03 | 2023-12-24 |

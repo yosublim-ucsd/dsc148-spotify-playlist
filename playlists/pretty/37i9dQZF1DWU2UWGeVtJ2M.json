@@ -1,6 +1,6 @@
 {
   "description": "\u8a66\u8457\u62cb\u958b\u6240\u6709\u7169\u60f1\uff0c\u914d\u4e0a\u4e00\u9ede\u7279\u610f\u7684\u5c0f\u78ba\u5e78\uff0c\u9019\u4e00\u523b\u53ea\u5c6c\u65bc\u4f60...",
-  "num_followers": 158852,
+  "num_followers": 158880,
   "original_name": "\u6211\u7684\u5fae\u91ba\u591c",
   "owner": {
     "name": "Spotify",
@@ -611,26 +611,6 @@
     {
       "added_at": "2024-05-20 02:04:22",
       "album": {
-        "name": "Tell Me About You (feat. Mishaal)",
-        "url": "https://open.spotify.com/album/5VxArOD8Qs6kmKR04wIshn"
-      },
-      "artists": [
-        {
-          "name": "Kina",
-          "url": "https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF"
-        },
-        {
-          "name": "Mishaal Tamer",
-          "url": "https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g"
-        }
-      ],
-      "duration_ms": 194400,
-      "name": "Tell Me About You (feat. Mishaal)",
-      "url": "https://open.spotify.com/track/1haZCYSR61JHOAivPNOuQH"
-    },
-    {
-      "added_at": "2024-05-20 02:04:22",
-      "album": {
         "name": "Feels (feat. Khalid)",
         "url": "https://open.spotify.com/album/7zbaDQ3uGL5GyIyeUVkktz"
       },
@@ -647,6 +627,26 @@
       "duration_ms": 221974,
       "name": "Feels (feat. Khalid)",
       "url": "https://open.spotify.com/track/6LZ9FO9UsGIcTKbShnfNsG"
+    },
+    {
+      "added_at": "2024-05-20 02:04:22",
+      "album": {
+        "name": "Tell Me About You (feat. Mishaal)",
+        "url": "https://open.spotify.com/album/5VxArOD8Qs6kmKR04wIshn"
+      },
+      "artists": [
+        {
+          "name": "Kina",
+          "url": "https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF"
+        },
+        {
+          "name": "Mishaal Tamer",
+          "url": "https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g"
+        }
+      ],
+      "duration_ms": 194400,
+      "name": "Tell Me About You (feat. Mishaal)",
+      "url": "https://open.spotify.com/track/1haZCYSR61JHOAivPNOuQH"
     },
     {
       "added_at": "2024-05-20 02:04:22",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-05-20 02:04:22",
       "album": {
-        "name": "Scarred for Tryin.",
-        "url": "https://open.spotify.com/album/7AlzfjScA4BEiFXtya6ChF"
-      },
-      "artists": [
-        {
-          "name": "Gen Neo",
-          "url": "https://open.spotify.com/artist/6GvQJnPSXsAGPLRfoqfTfK"
-        }
-      ],
-      "duration_ms": 187027,
-      "name": "Scarred for Tryin.",
-      "url": "https://open.spotify.com/track/5kC5BdfOeJfIytZy7LEFx3"
-    },
-    {
-      "added_at": "2024-05-20 02:04:22",
-      "album": {
         "name": "Live on Ice",
         "url": "https://open.spotify.com/album/6K7SjlIebufubxXGf4uA7a"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 195013,
       "name": "Gone 2 Long",
       "url": "https://open.spotify.com/track/0V6p1at8MSW6WEhSp5EzVG"
+    },
+    {
+      "added_at": "2024-05-20 02:04:22",
+      "album": {
+        "name": "Scarred for Tryin.",
+        "url": "https://open.spotify.com/album/7AlzfjScA4BEiFXtya6ChF"
+      },
+      "artists": [
+        {
+          "name": "Gen Neo",
+          "url": "https://open.spotify.com/artist/6GvQJnPSXsAGPLRfoqfTfK"
+        }
+      ],
+      "duration_ms": 187027,
+      "name": "Scarred for Tryin.",
+      "url": "https://open.spotify.com/track/5kC5BdfOeJfIytZy7LEFx3"
     },
     {
       "added_at": "2024-05-20 02:04:22",
@@ -999,22 +999,6 @@
     {
       "added_at": "2024-05-20 02:04:22",
       "album": {
-        "name": "yellow",
-        "url": "https://open.spotify.com/album/01ilKhmXUXqmgkZd9PvLjH"
-      },
-      "artists": [
-        {
-          "name": "Nathanie",
-          "url": "https://open.spotify.com/artist/2n9S44nEklHQjqX0pedw8P"
-        }
-      ],
-      "duration_ms": 72741,
-      "name": "yellow",
-      "url": "https://open.spotify.com/track/0qstnaL14EV0e8TDgHA0kL"
-    },
-    {
-      "added_at": "2024-05-20 02:04:22",
-      "album": {
         "name": "About You",
         "url": "https://open.spotify.com/album/5KBGp5VvPhLUopd1NkRoML"
       },
@@ -1031,22 +1015,34 @@
     {
       "added_at": "2024-05-20 02:04:22",
       "album": {
-        "name": "IT'S YOU (feat. keshi)",
-        "url": "https://open.spotify.com/album/1LtaBRxkVaAnoTSQQsWjJF"
+        "name": "yellow",
+        "url": "https://open.spotify.com/album/01ilKhmXUXqmgkZd9PvLjH"
       },
       "artists": [
         {
-          "name": "MAX",
-          "url": "https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8"
-        },
-        {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+          "name": "Nathanie",
+          "url": "https://open.spotify.com/artist/2n9S44nEklHQjqX0pedw8P"
         }
       ],
-      "duration_ms": 173426,
-      "name": "IT'S YOU (feat. keshi)",
-      "url": "https://open.spotify.com/track/5SMCxRA6hB2jEhroaYfw6N"
+      "duration_ms": 72741,
+      "name": "yellow",
+      "url": "https://open.spotify.com/track/0qstnaL14EV0e8TDgHA0kL"
+    },
+    {
+      "added_at": "2024-05-20 02:04:22",
+      "album": {
+        "name": "Breath From Another",
+        "url": "https://open.spotify.com/album/5IjiTlH5NjwgFjfCxXlY0S"
+      },
+      "artists": [
+        {
+          "name": "Esthero",
+          "url": "https://open.spotify.com/artist/1VmTG1NmumTwTIOGbew6gH"
+        }
+      ],
+      "duration_ms": 238600,
+      "name": "Superheroes",
+      "url": "https://open.spotify.com/track/2akoq472I49TzrFSJjjf47"
     },
     {
       "added_at": "2024-05-20 02:04:22",
@@ -1071,22 +1067,6 @@
     {
       "added_at": "2024-05-20 02:04:22",
       "album": {
-        "name": "Breath From Another",
-        "url": "https://open.spotify.com/album/5IjiTlH5NjwgFjfCxXlY0S"
-      },
-      "artists": [
-        {
-          "name": "Esthero",
-          "url": "https://open.spotify.com/artist/1VmTG1NmumTwTIOGbew6gH"
-        }
-      ],
-      "duration_ms": 238600,
-      "name": "Superheroes",
-      "url": "https://open.spotify.com/track/2akoq472I49TzrFSJjjf47"
-    },
-    {
-      "added_at": "2024-05-20 02:04:22",
-      "album": {
         "name": "Spirit",
         "url": "https://open.spotify.com/album/4emDc6rcjqJGqCj8NqEIzG"
       },
@@ -1099,6 +1079,26 @@
       "duration_ms": 271506,
       "name": "Wicked Dreams",
       "url": "https://open.spotify.com/track/6dvHjr6kOqEnKeQyd3Tozs"
+    },
+    {
+      "added_at": "2024-05-20 02:04:22",
+      "album": {
+        "name": "IT'S YOU (feat. keshi)",
+        "url": "https://open.spotify.com/album/1LtaBRxkVaAnoTSQQsWjJF"
+      },
+      "artists": [
+        {
+          "name": "MAX",
+          "url": "https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8"
+        },
+        {
+          "name": "keshi",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+        }
+      ],
+      "duration_ms": 173426,
+      "name": "IT'S YOU (feat. keshi)",
+      "url": "https://open.spotify.com/track/5SMCxRA6hB2jEhroaYfw6N"
     },
     {
       "added_at": "2024-05-20 02:04:22",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2024-05-20 02:04:22",
       "album": {
+        "name": "Baby Cakes",
+        "url": "https://open.spotify.com/album/6UBbIBpb2LB4Vm9iacIzmu"
+      },
+      "artists": [
+        {
+          "name": "\u58de\u7279 ?te",
+          "url": "https://open.spotify.com/artist/7DZtdN4x13Amjw87cjdffb"
+        }
+      ],
+      "duration_ms": 228705,
+      "name": "Baby Cakes",
+      "url": "https://open.spotify.com/track/1rr3sGDkWeisMDPRTe081L"
+    },
+    {
+      "added_at": "2024-05-20 02:04:22",
+      "album": {
         "name": "Moonlight",
         "url": "https://open.spotify.com/album/4zhxQLpyqo7xnKpFHOgJvw"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 169687,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/0Qc117NULtyGJEovqVl5lx"
-    },
-    {
-      "added_at": "2024-05-20 02:04:22",
-      "album": {
-        "name": "Baby Cakes",
-        "url": "https://open.spotify.com/album/6UBbIBpb2LB4Vm9iacIzmu"
-      },
-      "artists": [
-        {
-          "name": "\u58de\u7279 ?te",
-          "url": "https://open.spotify.com/artist/7DZtdN4x13Amjw87cjdffb"
-        }
-      ],
-      "duration_ms": 228705,
-      "name": "Baby Cakes",
-      "url": "https://open.spotify.com/track/1rr3sGDkWeisMDPRTe081L"
     },
     {
       "added_at": "2024-05-20 02:04:22",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2024-05-20 02:04:22",
       "album": {
-        "name": "Basement Grooves",
-        "url": "https://open.spotify.com/album/17oUkIpNKzZMJiKckkUIf6"
-      },
-      "artists": [
-        {
-          "name": "Saib",
-          "url": "https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk"
-        }
-      ],
-      "duration_ms": 169142,
-      "name": "Sweet Love",
-      "url": "https://open.spotify.com/track/0lZwumiLo3yINe5vc3Y79M"
-    },
-    {
-      "added_at": "2024-05-20 02:04:22",
-      "album": {
         "name": "untitled (what's it gonna be)",
         "url": "https://open.spotify.com/album/74bDYW7BEX7rs8Rl4LNqLS"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 250666,
       "name": "untitled (what's it gonna be)",
       "url": "https://open.spotify.com/track/76YpiW77bh2bCbvysBnwF4"
+    },
+    {
+      "added_at": "2024-05-20 02:04:22",
+      "album": {
+        "name": "Basement Grooves",
+        "url": "https://open.spotify.com/album/17oUkIpNKzZMJiKckkUIf6"
+      },
+      "artists": [
+        {
+          "name": "Saib",
+          "url": "https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk"
+        }
+      ],
+      "duration_ms": 169142,
+      "name": "Sweet Love",
+      "url": "https://open.spotify.com/track/0lZwumiLo3yINe5vc3Y79M"
     },
     {
       "added_at": "2024-05-20 02:04:22",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2024-05-20 02:04:22",
       "album": {
-        "name": "My Dream",
-        "url": "https://open.spotify.com/album/2kPTfyJIe5EVluRWipHW1K"
-      },
-      "artists": [
-        {
-          "name": "hongjoin",
-          "url": "https://open.spotify.com/artist/2zDF6PeSxBlLKma4IMAlLu"
-        }
-      ],
-      "duration_ms": 199200,
-      "name": "My Dream",
-      "url": "https://open.spotify.com/track/0n6hyfHWcUktnmmIOJFp2D"
-    },
-    {
-      "added_at": "2024-05-20 02:04:22",
-      "album": {
         "name": "Hello, I said",
         "url": "https://open.spotify.com/album/4bNKNSX4l2cIRlxp0l12fH"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 156729,
       "name": "Hello, I said",
       "url": "https://open.spotify.com/track/59lb6OBjbZx9Tam2scSnbx"
+    },
+    {
+      "added_at": "2024-05-20 02:04:22",
+      "album": {
+        "name": "My Dream",
+        "url": "https://open.spotify.com/album/2kPTfyJIe5EVluRWipHW1K"
+      },
+      "artists": [
+        {
+          "name": "hongjoin",
+          "url": "https://open.spotify.com/artist/2zDF6PeSxBlLKma4IMAlLu"
+        }
+      ],
+      "duration_ms": 199200,
+      "name": "My Dream",
+      "url": "https://open.spotify.com/track/0n6hyfHWcUktnmmIOJFp2D"
     },
     {
       "added_at": "2024-05-20 02:04:22",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2024-05-20 02:04:22",
       "album": {
-        "name": "Don't Trust Myself",
-        "url": "https://open.spotify.com/album/2VOZerWeIVjsvO68fJAZ65"
-      },
-      "artists": [
-        {
-          "name": "Robinson",
-          "url": "https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8"
-        }
-      ],
-      "duration_ms": 169434,
-      "name": "Don't Trust Myself",
-      "url": "https://open.spotify.com/track/1eiDjkNOwX9LeSkSAGCA5a"
-    },
-    {
-      "added_at": "2024-05-20 02:04:22",
-      "album": {
         "name": "leave before u do",
         "url": "https://open.spotify.com/album/4uA3nI3mp0ofapmuDqfPSh"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 182115,
       "name": "leave before u do",
       "url": "https://open.spotify.com/track/7N0GPgqYKeHZAHF9xdUEOJ"
+    },
+    {
+      "added_at": "2024-05-20 02:04:22",
+      "album": {
+        "name": "Don't Trust Myself",
+        "url": "https://open.spotify.com/album/2VOZerWeIVjsvO68fJAZ65"
+      },
+      "artists": [
+        {
+          "name": "Robinson",
+          "url": "https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8"
+        }
+      ],
+      "duration_ms": 169434,
+      "name": "Don't Trust Myself",
+      "url": "https://open.spotify.com/track/1eiDjkNOwX9LeSkSAGCA5a"
     },
     {
       "added_at": "2024-05-20 02:04:22",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2024-05-20 02:04:22",
       "album": {
-        "name": "Whatever This Is",
-        "url": "https://open.spotify.com/album/7dRN2VuLb4m1CDTHDHwz7h"
-      },
-      "artists": [
-        {
-          "name": "Fern.",
-          "url": "https://open.spotify.com/artist/7KoTRIhjkIQy2L8RjWDpfF"
-        }
-      ],
-      "duration_ms": 187058,
-      "name": "Whatever This Is",
-      "url": "https://open.spotify.com/track/0fSBuNmLlfkzulls16EA6T"
-    },
-    {
-      "added_at": "2024-05-20 02:04:22",
-      "album": {
         "name": "Broken",
         "url": "https://open.spotify.com/album/7gwLwpXQ7r8EJO8SCwyqlC"
       },
@@ -1751,6 +1735,22 @@
       "duration_ms": 200597,
       "name": "Broken",
       "url": "https://open.spotify.com/track/1bfYB96c5U7eoCT5O9lVLN"
+    },
+    {
+      "added_at": "2024-05-20 02:04:22",
+      "album": {
+        "name": "Whatever This Is",
+        "url": "https://open.spotify.com/album/7dRN2VuLb4m1CDTHDHwz7h"
+      },
+      "artists": [
+        {
+          "name": "Fern.",
+          "url": "https://open.spotify.com/artist/7KoTRIhjkIQy2L8RjWDpfF"
+        }
+      ],
+      "duration_ms": 187058,
+      "name": "Whatever This Is",
+      "url": "https://open.spotify.com/track/0fSBuNmLlfkzulls16EA6T"
     }
   ],
   "unique_name": "\u6211\u7684\u5fae\u91ba\u591c",

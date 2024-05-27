@@ -4,7 +4,7 @@
 
 > The soft sound of a Jazz piano trio to help you relax and unwind.
 
-557 songs - 1 day 18 hr 52 min
+558 songs - 1 day 18 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -225,6 +225,7 @@
 | [In Your Eyes](https://open.spotify.com/track/1TOQxN2yuIHaHymJhgGYjp) | [Ola W Jansson](https://open.spotify.com/artist/4hoFdBmz4b5NykkV0SCEVz), [W JAZZ TRIO](https://open.spotify.com/artist/4nFofMNAntqM5p8Q4ha2YA) | [In Your Eyes](https://open.spotify.com/album/1uUWWGP0P8Dg6sBeoRVvKU) | 2:15 | 2023-03-23 | 2023-08-26 |
 | [Insomnia](https://open.spotify.com/track/23XpgXxMe1tkyOKeSzPmYu) | [Matthew Fries](https://open.spotify.com/artist/0aUW5XnNwhMnYzJOUyiQTV) | [Lost Time](https://open.spotify.com/album/0iB4SR1jdgeSPi4yhS4VFj) | 7:46 | 2022-09-29 |  |
 | [Intangible](https://open.spotify.com/track/5jU0M5C3puyWnDvrd27RSP) | [Coal Diamond Trio](https://open.spotify.com/artist/6jUiShUd9yRdlmPJlJgTad) | [Intangible](https://open.spotify.com/album/3YGiHeOdYUDi05wsYcEk6r) | 5:02 | 2022-11-12 |  |
+| [Intersection](https://open.spotify.com/track/1B65uxW6a0gQMFYb0vTiq9) | [Matt Lee Trio](https://open.spotify.com/artist/3Hz54RB1g07RaoLDk67G0g) | [Intersection](https://open.spotify.com/album/48YiY2CS9HV8Txja0KyOni) | 2:24 | 2024-03-22 |  |
 | [Intuitively](https://open.spotify.com/track/63rq9S2BlsNpznrOq90fP8) | [Rasmus Sørensen](https://open.spotify.com/artist/3tq6e3K4ZlYzKkF0E1wmsi), [Francesco Ciniglio](https://open.spotify.com/artist/75zzu0VU3laESlh6KrqvNj), [Jon Henriksson](https://open.spotify.com/artist/057zTnHpyusxYkVSgmOFz4) | [Traits](https://open.spotify.com/album/2ovqm4oKCDIzo3gQTaG91B) | 3:49 | 2022-06-16 | 2024-03-18 |
 | [Is There a Way](https://open.spotify.com/track/0eMrQZjyeM7Qzd4FWbT57u) | [Joel Lyssarides](https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx) | [Is There a Way](https://open.spotify.com/album/7CsmfGN1vyHEIDF0EG3ToS) | 4:05 | 2022-02-10 | 2022-07-29 |
 | [Is There a Way](https://open.spotify.com/track/4ZaXpHGVShRlMwFKe6SOnP) | [Joel Lyssarides](https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx) | [Stay Now](https://open.spotify.com/album/0sZT6GFJLAZH6NE8DEMsSO) | 4:05 | 2022-07-07 | 2023-05-12 |
@@ -456,7 +457,7 @@
 | [Tenderly](https://open.spotify.com/track/5w6hGJhvWy9Fth9eldO0rT) | [Mark Roswell Trio](https://open.spotify.com/artist/5LyofWLANV5qojc0VHqh6i) | [Tenderly](https://open.spotify.com/album/5rEcJC5idMYjO6mq3eJFeC) | 3:23 | 2022-11-12 |  |
 | [Terrassedør](https://open.spotify.com/track/57tJTC6pmYgKWmc4Jo9Mz0) | [Svaneborg Kardyb](https://open.spotify.com/artist/2aGCFk3Mvhs9Am7JHwoyRr) | [Orbit](https://open.spotify.com/album/1rEFeHf8hGrb2YiSPBMr0U) | 2:52 | 2022-05-26 | 2022-09-15 |
 | [That Was Then](https://open.spotify.com/track/4hAzpVLnohaPrgwC4lIOxh) | [Roelofs](https://open.spotify.com/artist/6FMjIGodIpXfHq3X5Mfry4) | [That Was Then](https://open.spotify.com/album/68LKBJ6tGkv0SgrF1yVb42) | 5:34 | 2024-02-23 |  |
-| [The Art of Flying](https://open.spotify.com/track/0g0f3eeqmzgd0yO24yYdng) | [Peter Nordahl Trio](https://open.spotify.com/artist/6Qar0oNt9IZSMyrBxMg7ok) | [A Brand New Silver Dollar](https://open.spotify.com/album/5PenfsMGMK0o9L7kNHqW8G) | 5:23 | 2022-08-30 |  |
+| [The Art of Flying](https://open.spotify.com/track/0g0f3eeqmzgd0yO24yYdng) | [Peter Nordahl Trio](https://open.spotify.com/artist/6Qar0oNt9IZSMyrBxMg7ok) | [A Brand New Silver Dollar](https://open.spotify.com/album/5PenfsMGMK0o9L7kNHqW8G) | 5:23 | 2022-08-30 | 2024-05-27 |
 | [The Art of Flying \- Edit](https://open.spotify.com/track/38j4V8qkda6o4ta0BCJvKJ) | [Peter Nordahl Trio](https://open.spotify.com/artist/6Qar0oNt9IZSMyrBxMg7ok) | [The Art of Flying \(Edit\)](https://open.spotify.com/album/63PWCBZVpIcVFJkH3godc5) | 4:08 | 2022-06-03 | 2023-07-22 |
 | [The Art of Letting Go](https://open.spotify.com/track/5ZlwYoMgai25EVMUPKMBr8) | [Dries Riesen](https://open.spotify.com/artist/2CBiYt7JDgmt7EYJEVmDdL) | [The Art of Letting Go](https://open.spotify.com/album/0FsvqEQCqEHrI7qhkVlULW) | 3:20 | 2023-05-11 |  |
 | [The ballad of sad young men](https://open.spotify.com/track/5gvPQHCaeoHCG7pKse1VqO) | [The Collective](https://open.spotify.com/artist/36tnEBoX2HE41bmQi1xWKP) | [Same As Ever](https://open.spotify.com/album/2cEEweAitLTN47YeFWz0Gc) | 5:10 | 2022-11-12 | 2024-01-19 |

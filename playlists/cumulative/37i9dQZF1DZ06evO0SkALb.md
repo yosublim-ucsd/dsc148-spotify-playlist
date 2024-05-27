@@ -2,7 +2,7 @@
 
 ### [This Is Lou Rawls](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0SkALb)
 
-> This is Lou Rawls\. Todos os maiores hits em uma só playlist.
+> This is Lou Rawls\. The essential tracks, all in one playlist.
 
 109 songs - 6 hr 46 min
 
@@ -57,7 +57,7 @@
 | [Let's Burn Down The Cornfield \- 2006 Remaster](https://open.spotify.com/track/75gpgVKbgapGmVfgNcA7Vu) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [The Best Of Lou Rawls \- The Capitol Jazz & Blues Sessions](https://open.spotify.com/album/6pxkv1dxkTshid2V0MBGrp) | 3:03 | 2022-05-25 |  |
 | [Let's Fall In Love All Over Again](https://open.spotify.com/track/7M9lUbA4ggamFsLG5DsiZ2) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [All Things In Time](https://open.spotify.com/album/3JWeH3xgkigYvXdNQCFx1m) | 4:00 | 2022-06-20 | 2022-09-15 |
 | [Lifetime Monologue \- Remastered](https://open.spotify.com/track/2k16FSV6JCJ1fCCOc0W1UP) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [The Edge: David Axelrod At Capitol Records 1966\-1970](https://open.spotify.com/album/5wK9u9A4mDMLy8oaZOTI9K) | 1:51 | 2022-08-17 | 2024-05-21 |
-| [Love Is A Hurtin' Thing](https://open.spotify.com/track/6vR08FrdLqK0hiC2Y75s4O) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Legendary Lou Rawls](https://open.spotify.com/album/2aA0a7jTuOaUdjG9ELNtX2) | 2:14 | 2022-05-25 | 2024-05-26 |
+| [Love Is A Hurtin' Thing](https://open.spotify.com/track/6vR08FrdLqK0hiC2Y75s4O) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Legendary Lou Rawls](https://open.spotify.com/album/2aA0a7jTuOaUdjG9ELNtX2) | 2:14 | 2022-05-25 |  |
 | [Lover's Holiday](https://open.spotify.com/track/6tasaR3rJiSdRbuA9o5xop) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Let Me Be Good to You](https://open.spotify.com/album/1mHRprlZp4JTafIiIxOKtY) | 5:20 | 2022-05-25 | 2023-09-03 |
 | [Mama Told Me Not To Come](https://open.spotify.com/track/17ArYcblk6XbugVhEgNp65) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Brotherman!: Lou Rawls Sings His Hits](https://open.spotify.com/album/2dQjiU3OspVulLuFoGXBvI) | 2:28 | 2022-05-25 | 2023-05-12 |
 | [Medley: Nearer My God to Thee / Touch the Hem of His Garment / Were You There](https://open.spotify.com/track/6JrftCZWM4SpeVJKFBDYGb) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [I'm Blessed](https://open.spotify.com/album/3QzhFMsQAECe4fEeoRmVXD) | 3:26 | 2023-05-16 | 2023-06-13 |
@@ -105,7 +105,7 @@
 | [Unforgettable](https://open.spotify.com/track/6DasyKHS773Ar1TBMEyKUn) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [When You Hear Lou, You've Heard It All](https://open.spotify.com/album/6mg5MNs8xfiFxVaDX7Rycl) | 3:23 | 2022-05-25 | 2022-09-20 |
 | [Unforgettable \- Live](https://open.spotify.com/track/2PtvNwBX1Bbuh7iNxDZJy8) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Lou Rawls \(Unplugged\) Philadelphia \- Chicago \- Detroit \[Live\]](https://open.spotify.com/album/6fe7BWXsHHmD0nX5YL5Zsi) | 2:00 | 2022-09-20 | 2024-05-25 |
 | [Vacushna](https://open.spotify.com/track/2mE3taX82LfRsRM7QOAu6s) | [Les McCann](https://open.spotify.com/artist/07tYu4BGrfeogBobCefkHI), [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Masters of Jazz Presents Les McCann \(1960 \- 1962 Essential Works\)](https://open.spotify.com/album/120sYlBGcZVSLhThyHlEZs) | 3:11 | 2022-10-24 | 2023-02-15 |
-| [We Understand Each Other](https://open.spotify.com/track/7em6KhKMrKS8svfEuKgXLJ) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [The Essential Lou Rawls](https://open.spotify.com/album/6vhHreCbPvwLXDreRFHcdG) | 4:16 | 2022-05-28 |  |
+| [We Understand Each Other](https://open.spotify.com/track/7em6KhKMrKS8svfEuKgXLJ) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [The Essential Lou Rawls](https://open.spotify.com/album/6vhHreCbPvwLXDreRFHcdG) | 4:16 | 2022-05-28 | 2024-05-27 |
 | [What's the Matter with the World](https://open.spotify.com/track/6Vr7UhEQ5K4xJyLkoWEHlr) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Let Me Be Good to You](https://open.spotify.com/album/1mHRprlZp4JTafIiIxOKtY) | 5:54 | 2022-06-09 | 2022-07-22 |
 | [Willow Weep For Me](https://open.spotify.com/track/2hS8iHYwvSCJCimtWJbjun) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od), [Les McCann](https://open.spotify.com/artist/07tYu4BGrfeogBobCefkHI) | [Stormy Monday](https://open.spotify.com/album/2E5VtJahYu8mM1fjycL5ds) | 5:57 | 2022-06-20 | 2024-05-24 |
 | [Wind Beneath My Wings \- Single Version](https://open.spotify.com/track/3U5Lm60H6RteX9C0dpi7QT) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Lou Rawls \- The Very Best Of](https://open.spotify.com/album/0fHzoR2PfTW5FhpVBcNJVN) | 3:52 | 2022-05-25 |  |

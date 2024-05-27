@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAADJkgc11/OrejPa8UFdCJRp",
+  "snapshot_id": "AAAAAAAAAABSIdF4jzdMsb5KaxOW9Wdq",
   "tracks": [
     {
       "added_at": "2024-05-24 04:00:00",
@@ -84,9 +84,9 @@
           "url": "https://open.spotify.com/artist/5KWOCu1saEHAhPiLKlOLIy"
         }
       ],
-      "duration_ms": 216631,
-      "name": "Jag trodde \u00e4nglarna fanns (Metal Version)",
-      "url": "https://open.spotify.com/track/2OO9LtdSJ1LNosegGQF8pJ"
+      "duration_ms": 244503,
+      "name": "Sweet Home Alabama (Metal Version)",
+      "url": "https://open.spotify.com/track/4Jl3HbjBXlnSpWZCbgUIsq"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -151,22 +151,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Burn for You (Extended Remix)",
-        "url": "https://open.spotify.com/album/0SMzwGfocvgE2AhwudkhFe"
-      },
-      "artists": [
-        {
-          "name": "INXS",
-          "url": "https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv"
-        }
-      ],
-      "duration_ms": 368240,
-      "name": "Burn for You - Extended Remix",
-      "url": "https://open.spotify.com/track/6ZbVB0IaTWxNndZu2VIgGJ"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "Evil Eye / Get A Grip",
         "url": "https://open.spotify.com/album/0DItQKhgUwLv6oWRcUeskz"
       },
@@ -183,6 +167,30 @@
       "duration_ms": 241773,
       "name": "Get a Grip - 2024 Tony Iommi Remix",
       "url": "https://open.spotify.com/track/3nyCzsxkBLSJ7gltRb36Sb"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Wang Tang",
+        "url": "https://open.spotify.com/album/6NY3YUltynfGoMGL8t5Mb2"
+      },
+      "artists": [
+        {
+          "name": "D.O.M of Dnd",
+          "url": "https://open.spotify.com/artist/6J5VuFIm5Yvy3o5LJKMnBm"
+        },
+        {
+          "name": "Inspectah Deck",
+          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
+        },
+        {
+          "name": "Bronze Nazareth",
+          "url": "https://open.spotify.com/artist/4VhYUWpDsLraUG6Sd8g9TF"
+        }
+      ],
+      "duration_ms": 166301,
+      "name": "Erectah Deck",
+      "url": "https://open.spotify.com/track/6wrCRloYUpj7ooJy1lddk2"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -231,6 +239,22 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
+        "name": "Burn for You (Extended Remix)",
+        "url": "https://open.spotify.com/album/0SMzwGfocvgE2AhwudkhFe"
+      },
+      "artists": [
+        {
+          "name": "INXS",
+          "url": "https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv"
+        }
+      ],
+      "duration_ms": 368240,
+      "name": "Burn for You - Extended Remix",
+      "url": "https://open.spotify.com/track/6ZbVB0IaTWxNndZu2VIgGJ"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
         "name": "North Vol. 2",
         "url": "https://open.spotify.com/album/29ViDgMA62axNx2WOABMjG"
       },
@@ -247,30 +271,6 @@
       "duration_ms": 159166,
       "name": "Peace",
       "url": "https://open.spotify.com/track/60gKxdKtL9VIRhr3ENddBp"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "Wang Tang",
-        "url": "https://open.spotify.com/album/6NY3YUltynfGoMGL8t5Mb2"
-      },
-      "artists": [
-        {
-          "name": "D.O.M of Dnd",
-          "url": "https://open.spotify.com/artist/6J5VuFIm5Yvy3o5LJKMnBm"
-        },
-        {
-          "name": "Inspectah Deck",
-          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
-        },
-        {
-          "name": "Bronze Nazareth",
-          "url": "https://open.spotify.com/artist/4VhYUWpDsLraUG6Sd8g9TF"
-        }
-      ],
-      "duration_ms": 166301,
-      "name": "Erectah Deck",
-      "url": "https://open.spotify.com/track/6wrCRloYUpj7ooJy1lddk2"
     },
     {
       "added_at": "2024-05-24 04:00:00",

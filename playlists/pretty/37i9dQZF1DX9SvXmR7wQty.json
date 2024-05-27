@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Jay Sc\u00f8tt",
-  "num_followers": 40789,
+  "num_followers": 40791,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
@@ -435,18 +435,22 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "RSQ3",
-        "url": "https://open.spotify.com/album/33f1zkt6B0tlOSpUcdAzQq"
+        "name": "SURVIE",
+        "url": "https://open.spotify.com/album/3QcMENeZLihP7vxPkieCLr"
       },
       "artists": [
         {
-          "name": "Naps",
-          "url": "https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx"
+          "name": "Maes",
+          "url": "https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j"
+        },
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
         }
       ],
-      "duration_ms": 138585,
-      "name": "RSQ3",
-      "url": "https://open.spotify.com/track/79ydE7Am2KMgQwu6D8bAnf"
+      "duration_ms": 174530,
+      "name": "SURVIE",
+      "url": "https://open.spotify.com/track/7yz9tcPQngQ19yAmRfQG7U"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -467,22 +471,18 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "SURVIE",
-        "url": "https://open.spotify.com/album/3QcMENeZLihP7vxPkieCLr"
+        "name": "RSQ3",
+        "url": "https://open.spotify.com/album/33f1zkt6B0tlOSpUcdAzQq"
       },
       "artists": [
         {
-          "name": "Maes",
-          "url": "https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j"
-        },
-        {
-          "name": "Ninho",
-          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+          "name": "Naps",
+          "url": "https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx"
         }
       ],
-      "duration_ms": 174530,
-      "name": "SURVIE",
-      "url": "https://open.spotify.com/track/7yz9tcPQngQ19yAmRfQG7U"
+      "duration_ms": 138585,
+      "name": "RSQ3",
+      "url": "https://open.spotify.com/track/79ydE7Am2KMgQwu6D8bAnf"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -527,6 +527,26 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
+        "name": "Lalla",
+        "url": "https://open.spotify.com/album/5OXNr5pjxuzvHgWTV4mRp0"
+      },
+      "artists": [
+        {
+          "name": "Kore",
+          "url": "https://open.spotify.com/artist/78Die3Gb8yaElTmGCa7m7N"
+        },
+        {
+          "name": "Hamza",
+          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
+        }
+      ],
+      "duration_ms": 187319,
+      "name": "Lalla",
+      "url": "https://open.spotify.com/track/1iM4agLs3G8ihIHEcWojcN"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
         "name": "5am in Paris",
         "url": "https://open.spotify.com/album/7y18QZL66IozHqgS6MoplG"
       },
@@ -539,22 +559,6 @@
       "duration_ms": 135179,
       "name": "5am in Paris",
       "url": "https://open.spotify.com/track/5w2urkV0oCHiBCo5W2fYmR"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "Kulule",
-        "url": "https://open.spotify.com/album/1hNahkV9RrWMBSyirYvnFa"
-      },
-      "artists": [
-        {
-          "name": "Naza",
-          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
-        }
-      ],
-      "duration_ms": 157281,
-      "name": "Kulule",
-      "url": "https://open.spotify.com/track/1d3F05VyTdt0TGpGqtyHDV"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -575,6 +579,22 @@
       "duration_ms": 224280,
       "name": "Du feu",
       "url": "https://open.spotify.com/track/5xJDXbJCQO4WRbmfBJ0V2B"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Kulule",
+        "url": "https://open.spotify.com/album/1hNahkV9RrWMBSyirYvnFa"
+      },
+      "artists": [
+        {
+          "name": "Naza",
+          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
+        }
+      ],
+      "duration_ms": 157281,
+      "name": "Kulule",
+      "url": "https://open.spotify.com/track/1d3F05VyTdt0TGpGqtyHDV"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -635,6 +655,46 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
+        "name": "Allo",
+        "url": "https://open.spotify.com/album/15LSZk7N06PAFrrqkjprrD"
+      },
+      "artists": [
+        {
+          "name": "Youka",
+          "url": "https://open.spotify.com/artist/5dDL6ReckbbD5JBnZdobv6"
+        },
+        {
+          "name": "Jungeli",
+          "url": "https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7"
+        }
+      ],
+      "duration_ms": 136788,
+      "name": "Allo",
+      "url": "https://open.spotify.com/track/1dxl7CSBstnOcLzWrQiBLj"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Pygmalion",
+        "url": "https://open.spotify.com/album/3YI7AA0iZmbUWg4qw08xXx"
+      },
+      "artists": [
+        {
+          "name": "Vacra",
+          "url": "https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu"
+        },
+        {
+          "name": "Louane",
+          "url": "https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC"
+        }
+      ],
+      "duration_ms": 201055,
+      "name": "Les Montgolfi\u00e8res",
+      "url": "https://open.spotify.com/track/0ZHisJB7IPvhXl5dubBMBv"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
         "name": "SHE LIT",
         "url": "https://open.spotify.com/album/3IYFhRvpsnXg2K7m5Jkf7B"
       },
@@ -675,26 +735,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Allo",
-        "url": "https://open.spotify.com/album/15LSZk7N06PAFrrqkjprrD"
-      },
-      "artists": [
-        {
-          "name": "Youka",
-          "url": "https://open.spotify.com/artist/5dDL6ReckbbD5JBnZdobv6"
-        },
-        {
-          "name": "Jungeli",
-          "url": "https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7"
-        }
-      ],
-      "duration_ms": 136788,
-      "name": "Allo",
-      "url": "https://open.spotify.com/track/1dxl7CSBstnOcLzWrQiBLj"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "JOE PESCI",
         "url": "https://open.spotify.com/album/0zQa5HVQkdUBcfgfjpfAqQ"
       },
@@ -711,26 +751,6 @@
       "duration_ms": 199411,
       "name": "JOE PESCI",
       "url": "https://open.spotify.com/track/5ZRX1nlpURKlGCFxWWgFeq"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "Pygmalion",
-        "url": "https://open.spotify.com/album/3YI7AA0iZmbUWg4qw08xXx"
-      },
-      "artists": [
-        {
-          "name": "Vacra",
-          "url": "https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu"
-        },
-        {
-          "name": "Louane",
-          "url": "https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC"
-        }
-      ],
-      "duration_ms": 201055,
-      "name": "Les Montgolfi\u00e8res",
-      "url": "https://open.spotify.com/track/0ZHisJB7IPvhXl5dubBMBv"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -803,22 +823,18 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Lalla",
-        "url": "https://open.spotify.com/album/5OXNr5pjxuzvHgWTV4mRp0"
+        "name": "Imad",
+        "url": "https://open.spotify.com/album/2JQGzY8aNTwefM5JBoL5M7"
       },
       "artists": [
         {
-          "name": "Kore",
-          "url": "https://open.spotify.com/artist/78Die3Gb8yaElTmGCa7m7N"
-        },
-        {
-          "name": "Hamza",
-          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
+          "name": "THEODORT",
+          "url": "https://open.spotify.com/artist/6q87j1F6EtUxjlvkJNknFp"
         }
       ],
-      "duration_ms": 187319,
-      "name": "Lalla",
-      "url": "https://open.spotify.com/track/1iM4agLs3G8ihIHEcWojcN"
+      "duration_ms": 184680,
+      "name": "Si \u00e7a va",
+      "url": "https://open.spotify.com/track/3qL5wlh5GaEKam28diqZo9"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -863,22 +879,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "24 F\u00e9vrier",
-        "url": "https://open.spotify.com/album/4mwa0FodjMlZ50O1ez8vSZ"
-      },
-      "artists": [
-        {
-          "name": "ANA\u00cfS MVA",
-          "url": "https://open.spotify.com/artist/2MBvn4Y3ugNmUlWp1W65QL"
-        }
-      ],
-      "duration_ms": 139901,
-      "name": "24 F\u00e9vrier",
-      "url": "https://open.spotify.com/track/4b79znaQ7DUDGhFrQvJiPo"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "Sommet",
         "url": "https://open.spotify.com/album/6VWhALAzgz7YTr8FUVPrVF"
       },
@@ -895,18 +895,18 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Imad",
-        "url": "https://open.spotify.com/album/2JQGzY8aNTwefM5JBoL5M7"
+        "name": "24 F\u00e9vrier",
+        "url": "https://open.spotify.com/album/4mwa0FodjMlZ50O1ez8vSZ"
       },
       "artists": [
         {
-          "name": "THEODORT",
-          "url": "https://open.spotify.com/artist/6q87j1F6EtUxjlvkJNknFp"
+          "name": "ANA\u00cfS MVA",
+          "url": "https://open.spotify.com/artist/2MBvn4Y3ugNmUlWp1W65QL"
         }
       ],
-      "duration_ms": 184680,
-      "name": "Si \u00e7a va",
-      "url": "https://open.spotify.com/track/3qL5wlh5GaEKam28diqZo9"
+      "duration_ms": 139901,
+      "name": "24 F\u00e9vrier",
+      "url": "https://open.spotify.com/track/4b79znaQ7DUDGhFrQvJiPo"
     }
   ],
   "unique_name": "Nouveaut\u00e9s francophones",

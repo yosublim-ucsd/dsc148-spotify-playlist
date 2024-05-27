@@ -78,7 +78,7 @@
       ],
       "date_added": "2024-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-27",
       "duration_ms": 246200,
       "name": "1000CANCIONES",
       "url": "https://open.spotify.com/track/4TUu0QxrNe0Mz6RMVoMda1"
@@ -916,7 +916,7 @@
       ],
       "date_added": "2024-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-27",
       "duration_ms": 148317,
       "name": "Belong Together",
       "url": "https://open.spotify.com/track/5uQ7de4EWjb3rkcFxyEOpu"
@@ -1638,6 +1638,24 @@
       "duration_ms": 186359,
       "name": "Cry",
       "url": "https://open.spotify.com/track/3h76tbaYIamSeJL81X7ZwI"
+    },
+    {
+      "album": {
+        "name": "Cuando Cuando",
+        "url": "https://open.spotify.com/album/7pvJ22oVcGRIivcmqOaYMH"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 y el Toro",
+          "url": "https://open.spotify.com/artist/5Bq8Ri1jFba5clhChG8Cex"
+        }
+      ],
+      "date_added": "2024-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188727,
+      "name": "Cuando Cuando",
+      "url": "https://open.spotify.com/track/6nmIwpHOewm7OkXiB84uND"
     },
     {
       "album": {
@@ -3337,6 +3355,24 @@
     },
     {
       "album": {
+        "name": "KRUSH BANDICOOT",
+        "url": "https://open.spotify.com/album/2ZfmmTGVbyPOFJOqrdYFwf"
+      },
+      "artists": [
+        {
+          "name": "RAIZHELL",
+          "url": "https://open.spotify.com/artist/24sVPKlhUfQ8rMyUg7qLUq"
+        }
+      ],
+      "date_added": "2024-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97090,
+      "name": "KRUSH BANDICOOT",
+      "url": "https://open.spotify.com/track/7Iw1IbjTLh4IFltKiwiNcE"
+    },
+    {
+      "album": {
         "name": "La Diabla",
         "url": "https://open.spotify.com/album/2IoSjweCu07y9mv5H1Cj3v"
       },
@@ -3388,6 +3424,28 @@
       "duration_ms": 116322,
       "name": "La Gallina turuleca PHONK brazilian Original",
       "url": "https://open.spotify.com/track/4hbpUGKJviMMnbA785Pge5"
+    },
+    {
+      "album": {
+        "name": "Sonidos de Alarma",
+        "url": "https://open.spotify.com/album/61bliKfwDEigrczIMO30em"
+      },
+      "artists": [
+        {
+          "name": "Mario y Sus Modales",
+          "url": "https://open.spotify.com/artist/4NG6Rx2jfkLDUOujbeHPkL"
+        },
+        {
+          "name": "COBO",
+          "url": "https://open.spotify.com/artist/3MiDKa2WtFlcrfyXAtsyhf"
+        }
+      ],
+      "date_added": "2024-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234261,
+      "name": "La Gata Bajo La Lluvia",
+      "url": "https://open.spotify.com/track/6Ymc1psVtMmKcUZqTDe90i"
     },
     {
       "album": {
@@ -4106,7 +4164,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-27",
       "duration_ms": 160688,
       "name": "Magnetic",
       "url": "https://open.spotify.com/track/1aKvZDoLGkNMxoRYgkckZG"
@@ -4810,7 +4868,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-23",
+      "date_removed": null,
       "duration_ms": 134543,
       "name": "Mu\u00f1ecas",
       "url": "https://open.spotify.com/track/6LH7FdWPmuPphhCQfPkiwq"
@@ -6458,7 +6516,7 @@
       ],
       "date_added": "2024-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-27",
       "duration_ms": 110683,
       "name": "Soy la M\u00e1s Mala de Espa\u00f1a",
       "url": "https://open.spotify.com/track/17xJgs1Qeg1u5VnpJbNq3M"
@@ -6480,6 +6538,24 @@
       "duration_ms": 231440,
       "name": "space girl",
       "url": "https://open.spotify.com/track/7FjIYiD53wxlQmzTT6Wdpf"
+    },
+    {
+      "album": {
+        "name": "Emociones",
+        "url": "https://open.spotify.com/album/3fsWhk5L8tdnsg3namtDxO"
+      },
+      "artists": [
+        {
+          "name": "Julio Iglesias",
+          "url": "https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5"
+        }
+      ],
+      "date_added": "2024-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209360,
+      "name": "Spanish Girl",
+      "url": "https://open.spotify.com/track/60lXQloflVWfcu7KkhlE6G"
     },
     {
       "album": {
@@ -6890,7 +6966,7 @@
       ],
       "date_added": "2024-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-27",
       "duration_ms": 111160,
       "name": "THE ROOF IS ON FIRE",
       "url": "https://open.spotify.com/track/62Ff1Mw5sbCx017EJOsn3Q"
@@ -7347,6 +7423,28 @@
     },
     {
       "album": {
+        "name": "Nace Del Alma",
+        "url": "https://open.spotify.com/album/7CL4FmomsC1pPNHNs1mXjW"
+      },
+      "artists": [
+        {
+          "name": "Omar Geles",
+          "url": "https://open.spotify.com/artist/19ufHMEaPSvoM3iIVk8sTR"
+        },
+        {
+          "name": "Esmeralda",
+          "url": "https://open.spotify.com/artist/58yU6MSNwlAbu5NRnLOzFu"
+        }
+      ],
+      "date_added": "2024-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284421,
+      "name": "Una Hoja en Blanco",
+      "url": "https://open.spotify.com/track/3G5OfJVzos5wI0L09oyTOW"
+    },
+    {
+      "album": {
         "name": "Una Vida Pasada",
         "url": "https://open.spotify.com/album/3hc06uuIEsjOu8CwOumEbd"
       },
@@ -7362,7 +7460,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-27",
       "duration_ms": 218500,
       "name": "Una Vida Pasada",
       "url": "https://open.spotify.com/track/7y91nQBMhyeHWTn9wVvhKl"

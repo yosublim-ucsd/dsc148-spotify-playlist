@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3FNkD0kDpDV.md) - [plain]
 
 > Celebrate the magic of EDC Las Vegas 2024 with some of the best tracks and artists of the festival 🎉🎉
 
-[Spotify](https://open.spotify.com/user/spotify) - 811,035 likes - 51 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 811,040 likes - 51 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/01WM8T4nZ8V34x6bled3la">Julio Reyes</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-218 songs - 12 hr 34 min
+219 songs - 12 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Alamogordo](https://open.spotify.com/track/7E814F5fWNg1FepgNKlrIC) | [BOGART](https://open.spotify.com/artist/0Z98bFGEurTNFvYDfawx8c) | [Alamogordo](https://open.spotify.com/album/3PjKtRov6W17z8hAus6yOT) | 2:59 | 2024-03-16 |  |
 | [Alamogordo](https://open.spotify.com/track/7xnkwsbpoSxh2x3omS5S04) | [BOGART](https://open.spotify.com/artist/0Z98bFGEurTNFvYDfawx8c) | [Alamogordo](https://open.spotify.com/album/22HUvUv6ak6lLk9SKG4xlf) | 2:59 | 2022-06-04 | 2024-03-17 |
 | [All Good Things \(Come To An End\)](https://open.spotify.com/track/6kEpjptnAwt11Atr4cEMe1) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Loose](https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT) | 5:11 | 2022-06-04 |  |
+| [Amnesia De Ti](https://open.spotify.com/track/1GqZoVVd9U4GrCWNn5Py2T) | [Paola Guanche](https://open.spotify.com/artist/2Ws9JynddUXQRogOTAml4G) | [Amnesia De Ti / Loop](https://open.spotify.com/album/6MnPvjVB1B6Ga0p4tKqGM7) | 4:16 | 2024-05-26 |  |
 | [Amor en Stereo](https://open.spotify.com/track/3WYqZJn6mZP0ACZl2wbpZV) | [Gemeliers](https://open.spotify.com/artist/3W50twtHMESiHoOf2wHgfw) | [Stereo](https://open.spotify.com/album/5G4X3SZkDl63ggFtOdQVuW) | 2:54 | 2022-06-04 |  |
 | [Amor Enemigo](https://open.spotify.com/track/09ShSF60AV1k3q4cuK9W4f) | [Malú](https://open.spotify.com/artist/3TLGNOdp1UWYMnV5XG9HkR) | [Oxígeno](https://open.spotify.com/album/113rLDIkvtuYW1I7uull04) | 3:23 | 2022-06-04 |  |
 | [Aquí Estoy Yo](https://open.spotify.com/track/7KOVMFhDDBPUqRwmfVOCgn) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh) | [Buena Vida](https://open.spotify.com/album/1awXzHG1Y8xFuJQ75tnnO2) | 3:55 | 2022-06-04 |  |

@@ -6,24 +6,8 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAACN3m5ilijJJbhaB9WkjFOI",
+  "snapshot_id": "AAAAAAAAAACw+suCdF68GVE7K01sesCO",
   "tracks": [
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "Schakal 1994 - 2024",
-        "url": "https://open.spotify.com/album/7dw34BpCbtsSS3kWyuvVxu"
-      },
-      "artists": [
-        {
-          "name": "Lacrimosa",
-          "url": "https://open.spotify.com/artist/57ekbx9PSS4ORs5wTZMSYp"
-        }
-      ],
-      "duration_ms": 325313,
-      "name": "Schakal - Piano Version 2020",
-      "url": "https://open.spotify.com/track/0dc82I4gfLHXWGnM51P4qb"
-    },
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
@@ -71,42 +55,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Quer\u00eda Saber",
-        "url": "https://open.spotify.com/album/6OxNP56RlMUykEo91pzx9y"
-      },
-      "artists": [
-        {
-          "name": "Silvio Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
-        }
-      ],
-      "duration_ms": 289317,
-      "name": "Quer\u00eda Saber",
-      "url": "https://open.spotify.com/track/50bvIAriO4MoPhQUiUDdsR"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "The Reckoning (feat. Amy Lee) [Live in Amsterdam]",
-        "url": "https://open.spotify.com/album/6jALyqQddf992tgYntZITS"
-      },
-      "artists": [
-        {
-          "name": "Within Temptation",
-          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
-        },
-        {
-          "name": "Evanescence",
-          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
-        }
-      ],
-      "duration_ms": 322679,
-      "name": "The Reckoning (feat. Amy Lee) - Live in Amsterdam",
-      "url": "https://open.spotify.com/track/2DD2UFduTpt2vq8WefvFtp"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "Perfume Of The Timeless",
         "url": "https://open.spotify.com/album/2lzs5KtWl3eovh9AMdWwCt"
       },
@@ -143,8 +91,44 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Criollas",
-        "url": "https://open.spotify.com/album/3jwD6OLJSduWXUljAw1Zr0"
+        "name": "The Reckoning (feat. Amy Lee) [Live in Amsterdam]",
+        "url": "https://open.spotify.com/album/6jALyqQddf992tgYntZITS"
+      },
+      "artists": [
+        {
+          "name": "Within Temptation",
+          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+        },
+        {
+          "name": "Evanescence",
+          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
+        }
+      ],
+      "duration_ms": 322679,
+      "name": "The Reckoning (feat. Amy Lee) - Live in Amsterdam",
+      "url": "https://open.spotify.com/track/2DD2UFduTpt2vq8WefvFtp"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Schakal 1994 - 2024",
+        "url": "https://open.spotify.com/album/7dw34BpCbtsSS3kWyuvVxu"
+      },
+      "artists": [
+        {
+          "name": "Lacrimosa",
+          "url": "https://open.spotify.com/artist/57ekbx9PSS4ORs5wTZMSYp"
+        }
+      ],
+      "duration_ms": 325313,
+      "name": "Schakal - Piano Version 2020",
+      "url": "https://open.spotify.com/track/0dc82I4gfLHXWGnM51P4qb"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Run Run Se Fue pa'l Norte",
+        "url": "https://open.spotify.com/album/2j4Ow6x9WPRYS3FC8xowxO"
       },
       "artists": [
         {
@@ -157,8 +141,56 @@
         }
       ],
       "duration_ms": 269688,
-      "name": "Run Run Se Fue pal Norte",
-      "url": "https://open.spotify.com/track/635eytTKxoTemLjS91q5mN"
+      "name": "Run Run Se Fue pa'l Norte",
+      "url": "https://open.spotify.com/track/5d7L6rZ5jEjPuC19aaFXjm"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Burden",
+        "url": "https://open.spotify.com/album/2fs6Z7LmQT1hd81hM8YlZx"
+      },
+      "artists": [
+        {
+          "name": "As I Lay Dying",
+          "url": "https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu"
+        }
+      ],
+      "duration_ms": 245947,
+      "name": "Burden",
+      "url": "https://open.spotify.com/track/0W2pvsskj1e50sC2KL9Gge"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Poundcake (Live at the West End Marketplace, Dallas, TX, 12/4/1991)",
+        "url": "https://open.spotify.com/album/0v87iIJDHA8K4HTXISypxX"
+      },
+      "artists": [
+        {
+          "name": "Van Halen",
+          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
+        }
+      ],
+      "duration_ms": 329147,
+      "name": "Poundcake - Live at the West End Marketplace, Dallas, TX, 12/4/1991",
+      "url": "https://open.spotify.com/track/0aaj9GsSexGVLmhG2UCEhy"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "POST HUMAN: NeX GEn",
+        "url": "https://open.spotify.com/album/1k7OXnGQPV4zF3seDwRroD"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 240590,
+      "name": "Top 10 staTues tHat CriEd bloOd",
+      "url": "https://open.spotify.com/track/7g4hIeYVk3h5qQXb9RLeXP"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -175,6 +207,42 @@
       "duration_ms": 134052,
       "name": "Hooked On A Feeling - Spotify Singles",
       "url": "https://open.spotify.com/track/7t8vTwXLc7EZqTo9t88LTH"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "POST HUMAN: NeX GEn",
+        "url": "https://open.spotify.com/album/1k7OXnGQPV4zF3seDwRroD"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        },
+        {
+          "name": "Underoath",
+          "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
+        }
+      ],
+      "duration_ms": 260625,
+      "name": "a bulleT w/ my namE On (feat. Underoath)",
+      "url": "https://open.spotify.com/track/2tWhiQJQSTa5WE3eiByOf1"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Quer\u00eda Saber",
+        "url": "https://open.spotify.com/album/6OxNP56RlMUykEo91pzx9y"
+      },
+      "artists": [
+        {
+          "name": "Silvio Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
+        }
+      ],
+      "duration_ms": 289317,
+      "name": "Quer\u00eda Saber",
+      "url": "https://open.spotify.com/track/50bvIAriO4MoPhQUiUDdsR"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -215,38 +283,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Poundcake (Live at the West End Marketplace, Dallas, TX, 12/4/1991)",
-        "url": "https://open.spotify.com/album/0v87iIJDHA8K4HTXISypxX"
-      },
-      "artists": [
-        {
-          "name": "Van Halen",
-          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
-        }
-      ],
-      "duration_ms": 329147,
-      "name": "Poundcake - Live at the West End Marketplace, Dallas, TX, 12/4/1991",
-      "url": "https://open.spotify.com/track/0aaj9GsSexGVLmhG2UCEhy"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "Burden",
-        "url": "https://open.spotify.com/album/2fs6Z7LmQT1hd81hM8YlZx"
-      },
-      "artists": [
-        {
-          "name": "As I Lay Dying",
-          "url": "https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu"
-        }
-      ],
-      "duration_ms": 245947,
-      "name": "Burden",
-      "url": "https://open.spotify.com/track/0W2pvsskj1e50sC2KL9Gge"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "Reasons",
         "url": "https://open.spotify.com/album/7pC2fK2Dpp3o2cUh9yL0j3"
       },
@@ -275,62 +311,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "POST HUMAN: NeX GEn",
-        "url": "https://open.spotify.com/album/1k7OXnGQPV4zF3seDwRroD"
-      },
-      "artists": [
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        },
-        {
-          "name": "Underoath",
-          "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
-        }
-      ],
-      "duration_ms": 260625,
-      "name": "a bulleT w/ my namE On (feat. Underoath)",
-      "url": "https://open.spotify.com/track/2tWhiQJQSTa5WE3eiByOf1"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "POST HUMAN: NeX GEn",
-        "url": "https://open.spotify.com/album/1k7OXnGQPV4zF3seDwRroD"
-      },
-      "artists": [
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        }
-      ],
-      "duration_ms": 240590,
-      "name": "Top 10 staTues tHat CriEd bloOd",
-      "url": "https://open.spotify.com/track/7g4hIeYVk3h5qQXb9RLeXP"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "Rain (Stealing Sheep Remix)",
-        "url": "https://open.spotify.com/album/4dx49Nbdulv56hy04eFVaL"
-      },
-      "artists": [
-        {
-          "name": "Erasure",
-          "url": "https://open.spotify.com/artist/0z5DFXmhT4ZNzWElsM7V89"
-        },
-        {
-          "name": "Stealing Sheep",
-          "url": "https://open.spotify.com/artist/3ghT43Gj41br25PvBCDS22"
-        }
-      ],
-      "duration_ms": 280854,
-      "name": "Rain - Stealing Sheep Remix",
-      "url": "https://open.spotify.com/track/6rFhoweBbzgopFIVwc3ZYz"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "Fortnight (feat. Post Malone) [BLOND:ISH Remix]",
         "url": "https://open.spotify.com/album/1agEHpWnELaZHWzcbGDCpu"
       },
@@ -351,46 +331,6 @@
       "duration_ms": 216979,
       "name": "Fortnight (feat. Post Malone) - BLOND:ISH Remix",
       "url": "https://open.spotify.com/track/1gejz5ROvJBUb6WJzkMAcc"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "The Shadow Club",
-        "url": "https://open.spotify.com/album/7p9SacciT3Ul89WJAtIYGj"
-      },
-      "artists": [
-        {
-          "name": "Pete Brown",
-          "url": "https://open.spotify.com/artist/67OKa82otrQqKDsfTDfSYA"
-        },
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 330093,
-      "name": "The Shadow Club",
-      "url": "https://open.spotify.com/track/1Q2Gd6poiIQL1trKulQxXZ"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "she's so great",
-        "url": "https://open.spotify.com/album/7KERaOPd9Gyi4DJjMAnxjn"
-      },
-      "artists": [
-        {
-          "name": "Giordana Angi",
-          "url": "https://open.spotify.com/artist/0ZhqSTaEEWN6USw0E30pws"
-        },
-        {
-          "name": "Sting",
-          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
-        }
-      ],
-      "duration_ms": 215538,
-      "name": "il nostro amore",
-      "url": "https://open.spotify.com/track/0IqfraORNLEiUxDyif3E7p"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -423,6 +363,46 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
+        "name": "Rain (Stealing Sheep Remix)",
+        "url": "https://open.spotify.com/album/4dx49Nbdulv56hy04eFVaL"
+      },
+      "artists": [
+        {
+          "name": "Erasure",
+          "url": "https://open.spotify.com/artist/0z5DFXmhT4ZNzWElsM7V89"
+        },
+        {
+          "name": "Stealing Sheep",
+          "url": "https://open.spotify.com/artist/3ghT43Gj41br25PvBCDS22"
+        }
+      ],
+      "duration_ms": 280854,
+      "name": "Rain - Stealing Sheep Remix",
+      "url": "https://open.spotify.com/track/6rFhoweBbzgopFIVwc3ZYz"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "The Shadow Club",
+        "url": "https://open.spotify.com/album/7p9SacciT3Ul89WJAtIYGj"
+      },
+      "artists": [
+        {
+          "name": "Pete Brown",
+          "url": "https://open.spotify.com/artist/67OKa82otrQqKDsfTDfSYA"
+        },
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 330093,
+      "name": "The Shadow Club",
+      "url": "https://open.spotify.com/track/1Q2Gd6poiIQL1trKulQxXZ"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
         "name": "Silver Tongue",
         "url": "https://open.spotify.com/album/6kzadEspZVh3DAFv5BnulS"
       },
@@ -435,6 +415,26 @@
       "duration_ms": 262741,
       "name": "Silver Tongue",
       "url": "https://open.spotify.com/track/0Qxsuh1NoCMWDYVfC49XRE"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "she's so great",
+        "url": "https://open.spotify.com/album/7KERaOPd9Gyi4DJjMAnxjn"
+      },
+      "artists": [
+        {
+          "name": "Giordana Angi",
+          "url": "https://open.spotify.com/artist/0ZhqSTaEEWN6USw0E30pws"
+        },
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        }
+      ],
+      "duration_ms": 215538,
+      "name": "il nostro amore",
+      "url": "https://open.spotify.com/track/0IqfraORNLEiUxDyif3E7p"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -567,18 +567,22 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Mind Games (Evolution Documentary)",
-        "url": "https://open.spotify.com/album/1CCOTw8c9CawgrfkkCYOhH"
+        "name": "Everybody's Alone",
+        "url": "https://open.spotify.com/album/2HVD3qQVOARv5XSqMnyldy"
       },
       "artists": [
         {
-          "name": "John Lennon",
-          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
+          "name": "Neil Young",
+          "url": "https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm"
+        },
+        {
+          "name": "Crazy Horse",
+          "url": "https://open.spotify.com/artist/0oi7g8NUnlLh5tJvg2y5e3"
         }
       ],
-      "duration_ms": 360234,
-      "name": "Mind Games - Evolution Documentary",
-      "url": "https://open.spotify.com/track/0VoBWt11cnl7IKXeejkByE"
+      "duration_ms": 151600,
+      "name": "Everybody's Alone",
+      "url": "https://open.spotify.com/track/3ji4SvVhtxGX3sy5Tobkiz"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -599,6 +603,22 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
+        "name": "Mind Games (Evolution Documentary)",
+        "url": "https://open.spotify.com/album/1CCOTw8c9CawgrfkkCYOhH"
+      },
+      "artists": [
+        {
+          "name": "John Lennon",
+          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
+        }
+      ],
+      "duration_ms": 360234,
+      "name": "Mind Games - Evolution Documentary",
+      "url": "https://open.spotify.com/track/0VoBWt11cnl7IKXeejkByE"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
         "name": "Long Distance Runaround/The Fish (Schindleria Praematurus) [Alternate Version]",
         "url": "https://open.spotify.com/album/2fDySbrVTRqesjDrlgjzzo"
       },
@@ -611,26 +631,6 @@
       "duration_ms": 362908,
       "name": "Long Distance Runaround/The Fish (Schindleria Praematurus) - Alternate Version",
       "url": "https://open.spotify.com/track/2JzqrOfcAtNz7pUZnkzJAt"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "Everybody's Alone",
-        "url": "https://open.spotify.com/album/2HVD3qQVOARv5XSqMnyldy"
-      },
-      "artists": [
-        {
-          "name": "Neil Young",
-          "url": "https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm"
-        },
-        {
-          "name": "Crazy Horse",
-          "url": "https://open.spotify.com/artist/0oi7g8NUnlLh5tJvg2y5e3"
-        }
-      ],
-      "duration_ms": 151600,
-      "name": "Everybody's Alone",
-      "url": "https://open.spotify.com/track/3ji4SvVhtxGX3sy5Tobkiz"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -695,18 +695,22 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "The Live Series: Songs From Around The World Vol. 2",
-        "url": "https://open.spotify.com/album/7Mz0fvTwK8aGTXxWmgqPDz"
+        "name": "Wasteland (orchestral)",
+        "url": "https://open.spotify.com/album/42GDExicxE2HmHmwIpmiYw"
       },
       "artists": [
         {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+          "name": "Dead by April",
+          "url": "https://open.spotify.com/artist/2otRZcOVNcmdkZ5nEoogy6"
+        },
+        {
+          "name": "THE DAY WE LEFT EARTH",
+          "url": "https://open.spotify.com/artist/7BmeO6vzKLEnURfmgd3VqL"
         }
       ],
-      "duration_ms": 282293,
-      "name": "From Small Things (Big Things One Day Come) - Live at Malieveld, The Hague, Holland - 06/14/2016",
-      "url": "https://open.spotify.com/track/5Nt0z9i8Can8wyQ28D7v6Y"
+      "duration_ms": 145324,
+      "name": "Wasteland - orchestral",
+      "url": "https://open.spotify.com/track/36wIxrvx8BXA0g2cv1TXyz"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -731,22 +735,18 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Wasteland (orchestral)",
-        "url": "https://open.spotify.com/album/42GDExicxE2HmHmwIpmiYw"
+        "name": "The Live Series: Songs From Around The World Vol. 2",
+        "url": "https://open.spotify.com/album/7Mz0fvTwK8aGTXxWmgqPDz"
       },
       "artists": [
         {
-          "name": "Dead by April",
-          "url": "https://open.spotify.com/artist/2otRZcOVNcmdkZ5nEoogy6"
-        },
-        {
-          "name": "THE DAY WE LEFT EARTH",
-          "url": "https://open.spotify.com/artist/7BmeO6vzKLEnURfmgd3VqL"
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
         }
       ],
-      "duration_ms": 145324,
-      "name": "Wasteland - orchestral",
-      "url": "https://open.spotify.com/track/36wIxrvx8BXA0g2cv1TXyz"
+      "duration_ms": 282293,
+      "name": "From Small Things (Big Things One Day Come) - Live at Malieveld, The Hague, Holland - 06/14/2016",
+      "url": "https://open.spotify.com/track/5Nt0z9i8Can8wyQ28D7v6Y"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1063,18 +1063,18 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Lie To Me",
-        "url": "https://open.spotify.com/album/2m7XMTj30tOUAr4YPFRQmV"
+        "name": "VERITAS",
+        "url": "https://open.spotify.com/album/3A12nZnNwruBUgmEMbaZO7"
       },
       "artists": [
         {
-          "name": "Garbage",
-          "url": "https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q"
+          "name": "P.O.D.",
+          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
         }
       ],
-      "duration_ms": 255774,
-      "name": "Song to the Siren",
-      "url": "https://open.spotify.com/track/5ebyPkIzYSFHmzZtdVBOZm"
+      "duration_ms": 199067,
+      "name": "I GOT THAT",
+      "url": "https://open.spotify.com/track/42QKJpaoiHX0YEMAuxtVVI"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1095,18 +1095,18 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "VERITAS",
-        "url": "https://open.spotify.com/album/3A12nZnNwruBUgmEMbaZO7"
+        "name": "Lie To Me",
+        "url": "https://open.spotify.com/album/2m7XMTj30tOUAr4YPFRQmV"
       },
       "artists": [
         {
-          "name": "P.O.D.",
-          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
+          "name": "Garbage",
+          "url": "https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q"
         }
       ],
-      "duration_ms": 199067,
-      "name": "I GOT THAT",
-      "url": "https://open.spotify.com/track/42QKJpaoiHX0YEMAuxtVVI"
+      "duration_ms": 255774,
+      "name": "Song to the Siren",
+      "url": "https://open.spotify.com/track/5ebyPkIzYSFHmzZtdVBOZm"
     },
     {
       "added_at": "2024-05-24 04:00:00",

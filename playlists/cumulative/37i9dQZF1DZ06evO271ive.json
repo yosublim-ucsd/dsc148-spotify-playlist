@@ -56,7 +56,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-26",
+      "date_removed": null,
       "duration_ms": 137033,
       "name": "Area Codes (314 Remix) [feat. Sexyy Red]",
       "url": "https://open.spotify.com/track/36pwNmujPFvx0IwdR2GYqU"
@@ -156,7 +156,7 @@
       ],
       "date_added": "2024-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-27",
       "duration_ms": 135515,
       "name": "Boss Me Up",
       "url": "https://open.spotify.com/track/5uoZwaN9Vwvf3PkQdYL2A7"
@@ -808,7 +808,7 @@
       ],
       "date_added": "2024-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-27",
       "duration_ms": 148945,
       "name": "Lick Me (feat. Lil Baby)",
       "url": "https://open.spotify.com/track/383h4yNZkZWrLVac64JZ78"
@@ -902,7 +902,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-26",
+      "date_removed": null,
       "duration_ms": 168071,
       "name": "My Twin",
       "url": "https://open.spotify.com/track/5JCAgHsPy24l0ZV78knOFl"
@@ -924,7 +924,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-26",
+      "date_removed": null,
       "duration_ms": 125926,
       "name": "No Panties (with Sexyy Red) - From Rap Sh!t S2: The Mixtape",
       "url": "https://open.spotify.com/track/0nFCMtJecNIJ7ArO8qBwba"
@@ -1050,7 +1050,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-26",
+      "date_removed": null,
       "duration_ms": 258220,
       "name": "Perc & Sex",
       "url": "https://open.spotify.com/track/7wbNu1P1ZokAM4gTJSImzu"
@@ -1440,7 +1440,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-27",
       "duration_ms": 203858,
       "name": "SLUT ME OUT (feat. Sexyy Red)",
       "url": "https://open.spotify.com/track/2KLtIWiuQOdOKyX8iINJph"
@@ -1466,6 +1466,24 @@
       "duration_ms": 149245,
       "name": "Somethin' (feat. Sexyy Red)",
       "url": "https://open.spotify.com/track/3LdP8uDwQ1NVwNCrb8I32K"
+    },
+    {
+      "album": {
+        "name": "In Sexyy We Trust",
+        "url": "https://open.spotify.com/album/5PmtX9B5vNa4uaiXQVn4Gx"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "date_added": "2024-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106985,
+      "name": "Sport",
+      "url": "https://open.spotify.com/track/10YONGm7cTni3bzHQvxTKF"
     },
     {
       "album": {
@@ -1560,6 +1578,24 @@
       "duration_ms": 160466,
       "name": "Tired (feat. Rob49)",
       "url": "https://open.spotify.com/track/2ayYyt1AKc5eFIVbzieG6y"
+    },
+    {
+      "album": {
+        "name": "In Sexyy We Trust",
+        "url": "https://open.spotify.com/album/5PmtX9B5vNa4uaiXQVn4Gx"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "date_added": "2024-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140800,
+      "name": "TTG (Go)",
+      "url": "https://open.spotify.com/track/4hKmlJ6sSCvDgQm50pTW05"
     },
     {
       "album": {
