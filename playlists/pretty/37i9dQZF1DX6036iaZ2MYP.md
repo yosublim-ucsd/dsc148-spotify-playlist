@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 
 > Tracks popping off in the Afro scene\. Cover: Harley
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,999 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,059 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,9 +14,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 4 | [Favourite Story](https://open.spotify.com/track/6J15TPJ9gqWlXoo19whxpV) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Favourite Story](https://open.spotify.com/album/1UsBck38wVdc89TUPsMluC) | 3:56 |
 | 5 | [Ne doute pas](https://open.spotify.com/track/3jjR16AsYxadkidrptGLYc) | [Ya Levis](https://open.spotify.com/artist/45oFvHE9QZYC1vn5pVCDlu) | [Ne doute pas](https://open.spotify.com/album/7L3GB3sojKXCcMZtGtPKaO) | 3:05 |
 | 6 | [Dalilah II](https://open.spotify.com/track/3pU5thrIWedorXzDa3gOjb) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0), [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh), [Axon](https://open.spotify.com/artist/3g95XKMEfhHYudfTK9m6Ol) | [Dalilah II](https://open.spotify.com/album/1axrqyHSrmprv2iwLbClVb) | 2:58 |
-| 7 | [Paris](https://open.spotify.com/track/3varTiHGif7hoPSflFz0pQ) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Paris](https://open.spotify.com/album/2AxhvJ6KOZtmegupnK94No) | 2:20 |
+| 7 | [Paparazzi](https://open.spotify.com/track/7eVAdBJEHMk25YKKFftmJt) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [Paparazzi](https://open.spotify.com/album/0rJk1wo346iln3FupbnF3b) | 2:27 |
 | 8 | [Skeu t’attends de moi](https://open.spotify.com/track/6ofVlkwHudUUorfUSwF1ob) | [Jogga](https://open.spotify.com/artist/6kByPyGr60aeCsb8TGOWav) | [Skeu t’attends de moi](https://open.spotify.com/album/6iCjqjTrJr5L3KkiDfqaFO) | 2:33 |
-| 9 | [Paparazzi](https://open.spotify.com/track/7eVAdBJEHMk25YKKFftmJt) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [Paparazzi](https://open.spotify.com/album/0rJk1wo346iln3FupbnF3b) | 2:27 |
+| 9 | [Paris](https://open.spotify.com/track/3varTiHGif7hoPSflFz0pQ) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Paris](https://open.spotify.com/album/2AxhvJ6KOZtmegupnK94No) | 2:20 |
 | 10 | [Vision Remix \(feat\. Chlöe\)](https://open.spotify.com/track/43ZEiGYEJ5vcmjlBwanwyW) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh), [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Vision Remix \(feat\. Chlöe\)](https://open.spotify.com/album/1cdHnVkU4QloSiH06bI8pA) | 2:46 |
 | 11 | [Left Right \- Remix](https://open.spotify.com/track/3qVrEW61X44OTkV4WtG722) | [Keys the Prince](https://open.spotify.com/artist/5nCeWRjxptrgFwtvLlHsj1), [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [Left Right \(Remix\)](https://open.spotify.com/album/5P6aFTTB6cvh6AlFWCMycR) | 2:46 |
 | 12 | [Appétit](https://open.spotify.com/track/4GlpPG7BAHnPIMsN1Lvs3E) | [Good Nation](https://open.spotify.com/artist/0PhzQyacoc63MStTa2Yik1), [Fresh](https://open.spotify.com/artist/3W9AQyaIGdR8htZXVGwl1X), [Innoss'B](https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV) | [Appétit](https://open.spotify.com/album/5IyRubKxgtcZFQcyR0zX52) | 2:53 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 49 | [IN MY HEAD](https://open.spotify.com/track/7AoQcUEi2ZzF6vOrutcoZU) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [IN MY HEAD](https://open.spotify.com/album/5dI959e51lkReZI50si0ef) | 2:57 |
 | 50 | [En tas](https://open.spotify.com/track/311ssPqcNd2wVwT1tj6QsE) | [Mosty](https://open.spotify.com/artist/64idDFucLXetV5ccSBycS0), [Lala &ce](https://open.spotify.com/artist/1AKP8Tnz8KfOdRM4mqvNtF) | [En tas](https://open.spotify.com/album/4kH0PIZSyDbUC4Iyj5ZcoT) | 2:34 |
 
-Snapshot ID: `Zk+8YAAAAABkHfwptU8M+anNctOZngtR`
+Snapshot ID: `ZlSaAgAAAAAcd+Ss9KW07M3MQXQbHB+d`

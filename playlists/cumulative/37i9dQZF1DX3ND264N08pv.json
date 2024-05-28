@@ -1002,7 +1002,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-28",
       "duration_ms": 188404,
       "name": "Demonic Playgrounds",
       "url": "https://open.spotify.com/track/1kiI7G35IZs0u4vtKX2Mne"
@@ -1476,6 +1476,32 @@
       "duration_ms": 231600,
       "name": "Fat Beat",
       "url": "https://open.spotify.com/track/6uWksA4RzIKGlHNg4of8pV"
+    },
+    {
+      "album": {
+        "name": "Fear Means Nothing",
+        "url": "https://open.spotify.com/album/4DZKHRN2X3icFOtTTCwJmr"
+      },
+      "artists": [
+        {
+          "name": "L\u00d8IS",
+          "url": "https://open.spotify.com/artist/26BlBsd1xi3sWL8quhNrr5"
+        },
+        {
+          "name": "NATHN",
+          "url": "https://open.spotify.com/artist/12cbTL9PVQKIZ84kcmcg6L"
+        },
+        {
+          "name": "Zentryc",
+          "url": "https://open.spotify.com/artist/1C0qYaeK3MtaDfOWbOnme7"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353374,
+      "name": "Fear Means Nothing",
+      "url": "https://open.spotify.com/track/5IMxXIfzFdaTQuFSmj3K8j"
     },
     {
       "album": {

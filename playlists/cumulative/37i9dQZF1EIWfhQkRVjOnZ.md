@@ -2,13 +2,13 @@
 
 ### [Destroy The Runner Mix](https://open.spotify.com/playlist/37i9dQZF1EIWfhQkRVjOnZ)
 
-> <a href=spotify:playlist:37i9dQZF1EIXgervdrMvYK>Oh, Sleeper</a>, <a href=spotify:playlist:37i9dQZF1EIY9lpvgbLYDO>Inhale Exhale</a> and <a href=spotify:playlist:37i9dQZF1EIVekjEtHp0aF>For All Eternity</a>
+> <a href=spotify:playlist:37i9dQZF1EIXgervdrMvYK>Oh, Sleeper</a>, <a href=spotify:playlist:37i9dQZF1EIY9lpvgbLYDO>Inhale Exhale</a> and <a href=spotify:playlist:37i9dQZF1EIVGQng2sQO2r>Corpus Christi</a>
 
-111 songs - 6 hr 34 min
+113 songs - 6 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [1984](https://open.spotify.com/track/7uxiZMCFC2F4LBcI9DF8iX) | [Adestria](https://open.spotify.com/artist/4hbawOk8hcny3O9jtoNPq8) | [Chapters](https://open.spotify.com/album/05xnIap1ybaLVqUE0oWcTA) | 4:04 | 2024-04-23 |  |
+| [1984](https://open.spotify.com/track/7uxiZMCFC2F4LBcI9DF8iX) | [Adestria](https://open.spotify.com/artist/4hbawOk8hcny3O9jtoNPq8) | [Chapters](https://open.spotify.com/album/05xnIap1ybaLVqUE0oWcTA) | 4:04 | 2024-04-23 | 2024-05-28 |
 | [94 Hours](https://open.spotify.com/track/5sS3HChB8NojQIhwt9WWGR) | [As I Lay Dying](https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu) | [Frail Words Collapse](https://open.spotify.com/album/1atsQ3zl1LR122Y1UZajsE) | 3:10 | 2024-05-02 | 2024-05-15 |
 | [A Bag Of Marbles](https://open.spotify.com/track/0Gv0VlvEqJEjrtv4W6MUsw) | [Destroy The Runner](https://open.spotify.com/artist/3W4VB8SJOmpZkWedAnvDn6) | [I, Lucifer](https://open.spotify.com/album/3AYu393Qrn5AEcEJCXO3L5) | 3:00 | 2024-04-23 |  |
 | [A Banquet For Traitors](https://open.spotify.com/track/6Ampu27DQCqG7e2pPWwFKc) | [Oh, Sleeper](https://open.spotify.com/artist/3HMsQNXUa0je3yG5REHkQ7) | [Son Of The Morning](https://open.spotify.com/album/0gcMOIqISuu9lWZAuFXAuJ) | 3:13 | 2024-05-25 |  |
@@ -43,10 +43,11 @@
 | [Crumbs For The Murder](https://open.spotify.com/track/10ibre8aP15qdSCopmoZsU) | [Destroy The Runner](https://open.spotify.com/artist/3W4VB8SJOmpZkWedAnvDn6) | [I, Lucifer](https://open.spotify.com/album/3AYu393Qrn5AEcEJCXO3L5) | 3:32 | 2024-04-23 |  |
 | [Day in Day Out](https://open.spotify.com/track/53GxYXHHRJG6Sj6U74mJ8H) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [The Here and Now](https://open.spotify.com/album/7EiIIwSiYBkaq741bL6Se3) | 3:10 | 2024-04-25 | 2024-04-28 |
 | [Daybreak](https://open.spotify.com/track/1ARkHSVKsDO1RWu2vedbpm) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Daybreaker \(Deluxe Edition\)](https://open.spotify.com/album/6rvoCczjq9prDGSoxQr1Xq) | 3:32 | 2024-04-25 | 2024-04-26 |
-| [Desperate Times, Desperate Measures](https://open.spotify.com/track/4TLK7Umh2d9UO3ZajvE6AV) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Lost In The Sound Of Separation](https://open.spotify.com/album/613KEpSUb8NIzGmpfqhXAw) | 3:27 | 2024-04-23 |  |
+| [Dealers Of Fame](https://open.spotify.com/track/0Ks7zjyz2zEXiDnnoO6INW) | [Oh, Sleeper](https://open.spotify.com/artist/3HMsQNXUa0je3yG5REHkQ7) | [Children Of Fire](https://open.spotify.com/album/0WQNPLhdUZWdBotJTdW73k) | 2:57 | 2024-05-28 |  |
+| [Desperate Times, Desperate Measures](https://open.spotify.com/track/4TLK7Umh2d9UO3ZajvE6AV) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Lost In The Sound Of Separation](https://open.spotify.com/album/613KEpSUb8NIzGmpfqhXAw) | 3:27 | 2024-04-23 | 2024-05-28 |
 | [Dialogue](https://open.spotify.com/track/6cPCoJDvn9OwyKT5s9uXXy) | [Destroy The Runner](https://open.spotify.com/artist/3W4VB8SJOmpZkWedAnvDn6) | [Saints](https://open.spotify.com/album/413EKD48QvCCtxxqHJDrTj) | 1:17 | 2024-04-23 |  |
 | [Ellie](https://open.spotify.com/track/2AhorjdW10KzoqUTGEWeck) | [Veil Of Maya](https://open.spotify.com/artist/2i7CQcVBh2K6uOR3CH09M1) | [Matriarch](https://open.spotify.com/album/7Jmux2NJCZLt2vRv3KztiT) | 3:03 | 2024-04-25 | 2024-05-16 |
-| [End Transmission](https://open.spotify.com/track/7GJmigVsxwIvDO3iy7hZa8) | [Destroy The Runner](https://open.spotify.com/artist/3W4VB8SJOmpZkWedAnvDn6) | [End Transmission](https://open.spotify.com/album/3NaXK4bwmOXbNebIoRrL97) | 3:36 | 2024-04-23 |  |
+| [End Transmission](https://open.spotify.com/track/7GJmigVsxwIvDO3iy7hZa8) | [Destroy The Runner](https://open.spotify.com/artist/3W4VB8SJOmpZkWedAnvDn6) | [End Transmission](https://open.spotify.com/album/3NaXK4bwmOXbNebIoRrL97) | 3:36 | 2024-04-23 | 2024-05-28 |
 | [Endseekers](https://open.spotify.com/track/2Zx9X4HJMDnegzTRy8xdFV) | [Oh, Sleeper](https://open.spotify.com/artist/3HMsQNXUa0je3yG5REHkQ7) | [Children Of Fire](https://open.spotify.com/album/0WQNPLhdUZWdBotJTdW73k) | 3:06 | 2024-04-23 |  |
 | [Eye of the Storm](https://open.spotify.com/track/5r37NetsrDZOMuOev51PHL) | [Killswitch Engage](https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l) | [As Daylight Dies \(Special Edition\)](https://open.spotify.com/album/6iJEtgHTEbVlSS5isIS71z) | 3:56 | 2024-05-03 | 2024-05-04 |
 | [Falling Upon Deaf Ears](https://open.spotify.com/track/3Q8rWsHfRCjgU0xbSPGtgm) | [As I Lay Dying](https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu) | [Frail Words Collapse](https://open.spotify.com/album/1atsQ3zl1LR122Y1UZajsE) | 2:30 | 2024-05-02 | 2024-05-14 |
@@ -56,6 +57,7 @@
 | [Hymn of a Broken Man](https://open.spotify.com/track/1vcHLDfAfuBq4JuIgEkw5I) | [Times Of Grace](https://open.spotify.com/artist/0CfztphU9FWmAhGocFrrYC) | [The Hymn of a Broken Man](https://open.spotify.com/album/0Fgm0GE1K43soqeminCy4R) | 3:13 | 2024-05-05 | 2024-05-06 |
 | [I Never Wanted](https://open.spotify.com/track/0RAqGFqsW6moDVpJw4ky8c) | [As I Lay Dying](https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu) | [An Ocean Between Us](https://open.spotify.com/album/2hghqPOGmfBdEfWeMsQWdN) | 4:44 | 2024-04-23 | 2024-05-26 |
 | [I, Lucifer](https://open.spotify.com/track/0E9FpLirv1SfDcwcSKgzZA) | [Destroy The Runner](https://open.spotify.com/artist/3W4VB8SJOmpZkWedAnvDn6) | [I, Lucifer](https://open.spotify.com/album/3AYu393Qrn5AEcEJCXO3L5) | 3:42 | 2024-04-23 |  |
+| [In Regards To Myself](https://open.spotify.com/track/3VC4KHC7cRhuG6nYx4f1qj) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Define The Great Line](https://open.spotify.com/album/6YQu7tXYfN1r2NLx8tfEI6) | 3:24 | 2024-05-28 |  |
 | [In The Wake Of Pigs](https://open.spotify.com/track/7xXLYzzhg4JXtAaMc8Vviz) | [Oh, Sleeper](https://open.spotify.com/artist/3HMsQNXUa0je3yG5REHkQ7) | [Children Of Fire](https://open.spotify.com/album/0WQNPLhdUZWdBotJTdW73k) | 3:09 | 2024-05-04 |  |
 | [Indictment](https://open.spotify.com/track/3KBYHSo6IPP3WNMadvouX7) | [All That Remains](https://open.spotify.com/artist/2zgG1GPDvjaBgxeQaVXI14) | [The Fall Of Ideals](https://open.spotify.com/album/5LFlBRrSKGrczYQ7avbJ5a) | 3:42 | 2024-05-02 | 2024-05-16 |
 | [Isabella's](https://open.spotify.com/track/779b8UjspJSKZXLWBtnQpR) | [Destroy The Runner](https://open.spotify.com/artist/3W4VB8SJOmpZkWedAnvDn6) | [I, Lucifer](https://open.spotify.com/album/3AYu393Qrn5AEcEJCXO3L5) | 3:44 | 2024-04-23 |  |
@@ -106,7 +108,7 @@
 | [Those in Glass Houses](https://open.spotify.com/track/2BQweirrpIiMOx0tNtjTXe) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [Of Mice & Men](https://open.spotify.com/album/5I01RpDS7Thw5zEABRTgxL) | 2:42 | 2024-04-26 | 2024-05-16 |
 | [Thoughts In Reverse](https://open.spotify.com/track/1rMrqofTog2FCn0PoUHdcN) | [Destroy The Runner](https://open.spotify.com/artist/3W4VB8SJOmpZkWedAnvDn6) | [Saints](https://open.spotify.com/album/413EKD48QvCCtxxqHJDrTj) | 2:35 | 2024-04-23 |  |
 | [Tithemi](https://open.spotify.com/track/6SM2fTajm84ZaXJk7ZQSJj) | [Sleeping Giant](https://open.spotify.com/artist/6nFjP8zBYm0XpUrGMJkRuX) | [Kingdom Days In an Evil Age](https://open.spotify.com/album/4UlZLfWT8dWgtvUDdNR6AX) | 3:56 | 2024-04-23 | 2024-05-16 |
-| [Underwater](https://open.spotify.com/track/3LfpC5MpNuLmWc0fCOlTfC) | [Destroy The Runner](https://open.spotify.com/artist/3W4VB8SJOmpZkWedAnvDn6) | [Void](https://open.spotify.com/album/66PLx4mZ2i4kVZSLY9Xwq7) | 5:14 | 2024-05-18 | 2024-05-20 |
+| [Underwater](https://open.spotify.com/track/3LfpC5MpNuLmWc0fCOlTfC) | [Destroy The Runner](https://open.spotify.com/artist/3W4VB8SJOmpZkWedAnvDn6) | [Void](https://open.spotify.com/album/66PLx4mZ2i4kVZSLY9Xwq7) | 5:14 | 2024-05-18 |  |
 | [Up All Night](https://open.spotify.com/track/4s1XgdLhMuYFh5Npxo6ZMv) | [Volumes](https://open.spotify.com/artist/1DgmdsnwOexqTH8ohPCFAU) | [No Sleep](https://open.spotify.com/album/47PNyfphw9gBMz9SvxCPzP) | 4:14 | 2024-04-25 | 2024-05-12 |
 | [Vacant Room](https://open.spotify.com/track/15JH5nL5yM7FuQMbbBaUWl) | [For All Eternity](https://open.spotify.com/artist/5dAJhja3GDIAnA3YUbI27c) | [Beyond the Gates](https://open.spotify.com/album/42zKdunwvqKiWWd6Tz5BMP) | 3:32 | 2024-04-24 |  |
 | [Vices Like Vipers](https://open.spotify.com/track/0Y5vHtaGw8vneadk6fYyPm) | [Oh, Sleeper](https://open.spotify.com/artist/3HMsQNXUa0je3yG5REHkQ7) | [When I Am God](https://open.spotify.com/album/5e88yfR4rUCg4YbNI1xR41) | 4:18 | 2024-05-16 |  |

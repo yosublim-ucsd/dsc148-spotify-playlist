@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeI0OwDbgC4.md) - [plain]
 
 > Even through heartbreak and pain, God’s love remains\. Here are songs that cover the crossroads of hope and heartbreak.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,346 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,363 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeI0OwDbgC4.md) - [plain]
 | 49 | [Te Digo Adios](https://open.spotify.com/track/55Tm9Fb2flEu3lPtgpToTm) | [Chriz Roy](https://open.spotify.com/artist/1oulM2dZKW5lqjvlPYJ7P2), [Jaydan](https://open.spotify.com/artist/7h9VV4VCZdFXVh3FsUxus5) | [Te Digo Adios](https://open.spotify.com/album/32LZEVREgNsGsdXpNH9tLZ) | 3:23 |
 | 50 | [Maybe Tables Turn \(demo\)](https://open.spotify.com/track/1xOLUgp4pb9SsH5kPiTHfS) | [Sarah Juers](https://open.spotify.com/artist/39mgk0y3gWDfKqHTAcc2LG) | [Maybe Tables Turn \(demo\)](https://open.spotify.com/album/3elMZvgMAgsJEj2oUXC56M) | 2:37 |
 | 51 | [Shoot Me Down](https://open.spotify.com/track/2NgwMt6Oay0NQ8x0hTL0kM) | [John Michael Howell](https://open.spotify.com/artist/4BqK6JLgMwQ99hx85DxNhP) | [Shoot Me Down](https://open.spotify.com/album/0IK82QYmC74RY1geq4Kgu8) | 3:06 |
-| 52 | [Coffee & Cherries](https://open.spotify.com/track/7gucyUOtnBppG9Kdx452ya) | [Kylie Odetta](https://open.spotify.com/artist/2meUQKRm9yos5hbsWl9TRq) | [Coffee & Cherries](https://open.spotify.com/album/4kPbI0DiBzMrGeFJMrlPAu) | 2:21 |
-| 53 | [Be Nice](https://open.spotify.com/track/5Dky4RsXGTWbNhaJ3Povd4) | [Porsha Love](https://open.spotify.com/artist/09TMRjnEN1r9vDFa4XmbbG), [V\. Rose](https://open.spotify.com/artist/2OHB0NOUxQ4MgM1BwEJSom) | [Be Nice](https://open.spotify.com/album/0LmA15MGeELnk6x4MTc353) | 2:55 |
+| 52 | [Be Nice](https://open.spotify.com/track/5Dky4RsXGTWbNhaJ3Povd4) | [Porsha Love](https://open.spotify.com/artist/09TMRjnEN1r9vDFa4XmbbG), [V\. Rose](https://open.spotify.com/artist/2OHB0NOUxQ4MgM1BwEJSom) | [Be Nice](https://open.spotify.com/album/0LmA15MGeELnk6x4MTc353) | 2:55 |
+| 53 | [Coffee & Cherries](https://open.spotify.com/track/7gucyUOtnBppG9Kdx452ya) | [Kylie Odetta](https://open.spotify.com/artist/2meUQKRm9yos5hbsWl9TRq) | [Coffee & Cherries](https://open.spotify.com/album/4kPbI0DiBzMrGeFJMrlPAu) | 2:21 |
 | 54 | [You'll Find Love Again](https://open.spotify.com/track/4dixlUlijVSoo1r3yG6kkX) | [Brandon Heath](https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj) | [Faith Hope Love Repeat](https://open.spotify.com/album/4lpaCFD1YtduxtT2W1jlNb) | 4:21 |
 | 55 | [Broken](https://open.spotify.com/track/2EfEa3TJlpPUX9pY95KQxI) | [Vanessa Campagna](https://open.spotify.com/artist/4a4KcYuu2DZrL8sTGyu5sM) | [Broken](https://open.spotify.com/album/3BIidQamOV0tESTXQJaHFa) | 3:35 |
 | 56 | [Mistakes Were Made](https://open.spotify.com/track/2xHHLxTDWQpiIzzYL8rzdx) | [John Michael Howell](https://open.spotify.com/artist/4BqK6JLgMwQ99hx85DxNhP) | [Mistakes Were Made](https://open.spotify.com/album/3wreBZPIdf6y5h56X46LJn) | 3:33 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeI0OwDbgC4.md) - [plain]
 | 66 | [Love You, Still](https://open.spotify.com/track/7hsWnD0nwuMp9hRACCtdm8) | [Andrew Osenga](https://open.spotify.com/artist/1lJC5MbTUW5ld4yXzNB0H4), [Taylor Leonhardt](https://open.spotify.com/artist/1OUylyH2arsswxRe6dOz3i) | [Love You, Still](https://open.spotify.com/album/5fYsh7JcLm4oIA5N5dkG1f) | 5:07 |
 | 67 | [doing well](https://open.spotify.com/track/0Q6YrLKv9PUVcj4qfKewxB) | [LLC Flame](https://open.spotify.com/artist/2K7pASLzTcuXPT8ZYbi3M4) | [doing well](https://open.spotify.com/album/6kihcoNftMnN3IP66yuTnd) | 2:19 |
 | 68 | [Heaven Is Too Far Away](https://open.spotify.com/track/6iNjeRwNNyRiJQ0RGQiz7s) | [Shelly E\. Johnson](https://open.spotify.com/artist/51ivlzD9Vuy7pi21E3FF67) | [Heaven Is Too Far Away](https://open.spotify.com/album/5ntPNlQX5ElhcWELkkrBUj) | 6:23 |
-| 69 | [With You Through It All](https://open.spotify.com/track/5qFEcVgJ8hxgSYkYDYZrnh) | [Savannah Locke](https://open.spotify.com/artist/0GGJB62JqywhEnwBPGwOGb) | [With You Through It All](https://open.spotify.com/album/1JZmkqZ73hsY63GKjeBH0g) | 3:48 |
-| 70 | [Uncharted](https://open.spotify.com/track/4Sab6e6jf4wosrhWMynBYZ) | [Hannah Jewel](https://open.spotify.com/artist/48enPb9xT0Dj6zhg2aU61o) | [1:02](https://open.spotify.com/album/3qHbN5zSMTpGvMsG62iHNY) | 5:30 |
+| 69 | [Uncharted](https://open.spotify.com/track/4Sab6e6jf4wosrhWMynBYZ) | [Hannah Jewel](https://open.spotify.com/artist/48enPb9xT0Dj6zhg2aU61o) | [1:02](https://open.spotify.com/album/3qHbN5zSMTpGvMsG62iHNY) | 5:30 |
+| 70 | [With You Through It All](https://open.spotify.com/track/5qFEcVgJ8hxgSYkYDYZrnh) | [Savannah Locke](https://open.spotify.com/artist/0GGJB62JqywhEnwBPGwOGb) | [With You Through It All](https://open.spotify.com/album/1JZmkqZ73hsY63GKjeBH0g) | 3:48 |
 | 71 | [TAKE A CHANCE](https://open.spotify.com/track/27j28hzT9pzB0rx2lJR5u8) | [Spencer Kane](https://open.spotify.com/artist/6wRBVb1TqANRmxpqP7FKtb) | [TAKE A CHANCE](https://open.spotify.com/album/3hXhvsQ8LkRvFHlFyyd6Py) | 2:29 |
 | 72 | [Mender Of Broken Hearts](https://open.spotify.com/track/7LrTq9MG2jsGK5VWhEleLa) | [Fred Hammond](https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484) | [Nothing But The Hits: Fred Hammond](https://open.spotify.com/album/0BrE1eS3LplGo2OnLPa2j4) | 5:00 |
 | 73 | [Giving You All Of Me](https://open.spotify.com/track/53ZV7HHQu29ic08xwvQB3O) | [BigGucciDame](https://open.spotify.com/artist/6mjDlBKzYcYavIYfOfQLKi) | [Giving You All Of Me](https://open.spotify.com/album/2UVi0PUYG7ggVrhoaXuF59) | 2:29 |

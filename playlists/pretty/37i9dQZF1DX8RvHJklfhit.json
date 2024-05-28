@@ -1,6 +1,6 @@
 {
   "description": "Your favorite Latin Indie classics.",
-  "num_followers": 178333,
+  "num_followers": 178391,
   "original_name": "Latin Indie Classics",
   "owner": {
     "name": "Spotify",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2024-05-23 20:48:28",
       "album": {
-        "name": "Nuestra",
-        "url": "https://open.spotify.com/album/7kSxnf1JIMeFMIKKC5xDtt"
-      },
-      "artists": [
-        {
-          "name": "La Vida Boh\u00e8me",
-          "url": "https://open.spotify.com/artist/5gs7iemsrjIJbz0ryFcy79"
-        }
-      ],
-      "duration_ms": 285533,
-      "name": "Flamingo",
-      "url": "https://open.spotify.com/track/0KuIShA8b0JR6X94q8JuoV"
-    },
-    {
-      "added_at": "2024-05-23 20:48:28",
-      "album": {
         "name": "#ponteelcasco",
         "url": "https://open.spotify.com/album/7mqkMdFTDiwvchm99McUV6"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 252889,
       "name": "Toca Madera",
       "url": "https://open.spotify.com/track/3uuFWFeuJR3srECmr6BdfK"
+    },
+    {
+      "added_at": "2024-05-23 20:48:28",
+      "album": {
+        "name": "Nuestra",
+        "url": "https://open.spotify.com/album/7kSxnf1JIMeFMIKKC5xDtt"
+      },
+      "artists": [
+        {
+          "name": "La Vida Boh\u00e8me",
+          "url": "https://open.spotify.com/artist/5gs7iemsrjIJbz0ryFcy79"
+        }
+      ],
+      "duration_ms": 285533,
+      "name": "Flamingo",
+      "url": "https://open.spotify.com/track/0KuIShA8b0JR6X94q8JuoV"
     },
     {
       "added_at": "2024-05-23 20:48:28",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2024-05-23 20:48:28",
       "album": {
-        "name": "Ser\u00e1",
-        "url": "https://open.spotify.com/album/3pmsaPjaLVhM7In7eZKEre"
-      },
-      "artists": [
-        {
-          "name": "La Vida Boh\u00e8me",
-          "url": "https://open.spotify.com/artist/5gs7iemsrjIJbz0ryFcy79"
-        }
-      ],
-      "duration_ms": 257453,
-      "name": "La Vida Mejor",
-      "url": "https://open.spotify.com/track/4dkjZa9RAkz1RKZAAxQnUD"
-    },
-    {
-      "added_at": "2024-05-23 20:48:28",
-      "album": {
         "name": "Colour",
         "url": "https://open.spotify.com/album/60Vu18cl9NX9yrRL7ywRLz"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 237866,
       "name": "Help Me",
       "url": "https://open.spotify.com/track/0P0Xmwg81SFY86Fd9PP5Pu"
+    },
+    {
+      "added_at": "2024-05-23 20:48:28",
+      "album": {
+        "name": "Verano Panor\u00e1mico",
+        "url": "https://open.spotify.com/album/1dxlZvX4EbrdzNUdnwwR2N"
+      },
+      "artists": [
+        {
+          "name": "Los W\u00e1lters",
+          "url": "https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY"
+        }
+      ],
+      "duration_ms": 127704,
+      "name": "That's Playa",
+      "url": "https://open.spotify.com/track/7dGHfcGKv5BC7ooYkqZPxe"
     },
     {
       "added_at": "2024-05-23 20:48:28",
@@ -1451,18 +1451,18 @@
     {
       "added_at": "2024-05-23 20:48:28",
       "album": {
-        "name": "Verano Panor\u00e1mico",
-        "url": "https://open.spotify.com/album/1dxlZvX4EbrdzNUdnwwR2N"
+        "name": "Ser\u00e1",
+        "url": "https://open.spotify.com/album/3pmsaPjaLVhM7In7eZKEre"
       },
       "artists": [
         {
-          "name": "Los W\u00e1lters",
-          "url": "https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY"
+          "name": "La Vida Boh\u00e8me",
+          "url": "https://open.spotify.com/artist/5gs7iemsrjIJbz0ryFcy79"
         }
       ],
-      "duration_ms": 127704,
-      "name": "That's Playa",
-      "url": "https://open.spotify.com/track/7dGHfcGKv5BC7ooYkqZPxe"
+      "duration_ms": 257453,
+      "name": "La Vida Mejor",
+      "url": "https://open.spotify.com/track/4dkjZa9RAkz1RKZAAxQnUD"
     },
     {
       "added_at": "2024-05-23 20:48:28",

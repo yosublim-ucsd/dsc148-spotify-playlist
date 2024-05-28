@@ -4,7 +4,7 @@
 
 > pearls of an oyster\. Cover: Clairo
 
-1,279 songs - 2 day 22 hr 8 min
+1,280 songs - 2 day 22 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -968,6 +968,7 @@
 | [Set The Roof](https://open.spotify.com/track/3FiPLOhNiB2Ox4ut1jJxE2) | [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb), [Nikki Nair](https://open.spotify.com/artist/27JCep1zDO3K8GY50trDo6), [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Set The Roof](https://open.spotify.com/album/5DUPSEYAsHkWIF2DZ3rXty) | 4:28 | 2023-05-25 | 2023-07-07 |
 | [Settle For Less](https://open.spotify.com/track/2JnF9w6ONUVFN1JqhgZYSn) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2), [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Settle For Less](https://open.spotify.com/album/2sp2DmqYC3CKn8XwInSqYU) | 4:04 | 2024-03-14 |  |
 | [Sexy to Someone](https://open.spotify.com/track/2Nq4SFbvYYZa8AF7lD7CWU) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Sexy to Someone](https://open.spotify.com/album/281y6GLUpFfmSyBO7JMLfU) | 3:27 | 2024-05-23 |  |
+| [Shadowboxing](https://open.spotify.com/track/0fBQTn9wZhZrJ0KkdaOhU0) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [Shadowboxing](https://open.spotify.com/album/1HUf8zUI0a5FUpPUz5iWnB) | 2:28 | 2024-05-27 |  |
 | [Shadowman](https://open.spotify.com/track/0J92uIMvex4Fzpy6YI43vf) | [Deki Alem](https://open.spotify.com/artist/2AK3F4tVjxYuqSGefozy52) | [Fluent Stutter](https://open.spotify.com/album/5Yt14bxTQxx2FbFcmTjAYA) | 2:57 | 2023-06-09 | 2023-10-27 |
 | [Shadowman](https://open.spotify.com/track/1wj7sPI2EDkvK43rEfQqTv) | [Deki Alem](https://open.spotify.com/artist/2AK3F4tVjxYuqSGefozy52) | [Shadowman](https://open.spotify.com/album/6osAiyYuHLuzojhCrSi2Ye) | 2:57 | 2023-05-18 | 2023-06-10 |
 | [Shaky Knees](https://open.spotify.com/track/7GzHqK41lOObsDbAkfVaOC) | [Kid Bloom](https://open.spotify.com/artist/5CXdWANGwYYRPClH6hhC0P) | [Shaky Knees](https://open.spotify.com/album/5cmhVX8rDvRbATUr1AqYjB) | 3:13 | 2023-08-10 | 2023-08-18 |

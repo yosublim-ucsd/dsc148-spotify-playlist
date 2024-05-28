@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-19",
-  "description": "This is Metro Boomin. The essential tracks, all in one playlist.",
+  "description": "This is Metro Boomin. Todos os maiores hits em uma s\u00f3 playlist.",
   "name": "This Is Metro Boomin",
   "tracks": [
     {
@@ -302,7 +302,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-26",
+      "date_removed": null,
       "duration_ms": 221520,
       "name": "Creepin' (with The Weeknd & 21 Savage)",
       "url": "https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO"
@@ -668,7 +668,7 @@
       ],
       "date_added": "2024-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-28",
       "duration_ms": 90720,
       "name": "I Can't Save You (Interlude) [with Future & feat. Don Toliver]",
       "url": "https://open.spotify.com/track/2N9LEu6Pf8nDcp3GjWJT1Z"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUN8lkHHQsn9.md) - [plain]
 
 > Bądź sobą ✨ Posłuchaj głosu polskich artystów LGBTQIA+\. Cover: <a href="spotify:artist:3F59TScUxGWsl0aG7Vmqx2">Agata Karczewska</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,246 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,229 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUN8lkHHQsn9.md) - [plain]
 | 24 | [No Gods](https://open.spotify.com/track/53y0uk86RQv0AQAcOu0ZZF) | [Zamilska](https://open.spotify.com/artist/5spFDEIIv5V1yEHxIBStKH), [Hostia](https://open.spotify.com/artist/1oM790LNK44Js7LOQJKSzy) | [No Gods](https://open.spotify.com/album/6gtSjoNnTTY9evB0oah1M2) | 2:16 |
 | 25 | [HOTEL](https://open.spotify.com/track/4VBvF9iBuitlLSEKDQR1PW) | [Kamil Kowalski](https://open.spotify.com/artist/0e06gUDSCntc3X6v8mL6kk) | [HOTEL](https://open.spotify.com/album/4Et5dfI8KUrOpRrwqy4Wc1) | 3:10 |
 | 26 | [Haiku](https://open.spotify.com/track/4kdJPEgNmlyzo0mrRC4kOQ) | [Iwona Skv](https://open.spotify.com/artist/5nGEwOuyd7RFe64eB0kWd8) | [Haiku](https://open.spotify.com/album/1utL1XsLZYrQEiLQX8o3qu) | 3:09 |
-| 27 | [Rozkosz](https://open.spotify.com/track/4bymysBJGx0jxLDb47dVYO) | [Zawadzki](https://open.spotify.com/artist/5n9VtqOD2WpsEHeCdTCLKt) | [Rozkosz](https://open.spotify.com/album/3qr5MOBJoaEnG0iic6jegX) | 3:04 |
-| 28 | [maybe someday](https://open.spotify.com/track/54J49JuwN6GkJAm6K18Vjz) | [color blue](https://open.spotify.com/artist/4xnkAP7SRXVpNik1sc9Amd) | [maybe someday](https://open.spotify.com/album/1k4kqCQl0RAM8gMxpRDC7S) | 4:52 |
+| 27 | [maybe someday](https://open.spotify.com/track/54J49JuwN6GkJAm6K18Vjz) | [color blue](https://open.spotify.com/artist/4xnkAP7SRXVpNik1sc9Amd) | [maybe someday](https://open.spotify.com/album/1k4kqCQl0RAM8gMxpRDC7S) | 4:52 |
+| 28 | [Rozkosz](https://open.spotify.com/track/4bymysBJGx0jxLDb47dVYO) | [Zawadzki](https://open.spotify.com/artist/5n9VtqOD2WpsEHeCdTCLKt) | [Rozkosz](https://open.spotify.com/album/3qr5MOBJoaEnG0iic6jegX) | 3:04 |
 | 29 | [everyday](https://open.spotify.com/track/4Rjtojy9gXFln2cJQMip9g) | [god.wifi](https://open.spotify.com/artist/6iz52ADwFl483ghAI7NuS1) | [everyday](https://open.spotify.com/album/06j9bXFpvPTwc3vWDKUVeO) | 1:37 |
 | 30 | [Inspiracje](https://open.spotify.com/track/5nRpR5MEp8sz6f6M83rtA2) | [Izabela Zabielska](https://open.spotify.com/artist/04HwAPYr2hTMLjDVrpewQZ) | [Inspiracje](https://open.spotify.com/album/4asBYPR1ZZyBhW01Cbv1vh) | 2:38 |
 | 31 | [Stalker](https://open.spotify.com/track/4WfWLe6Cue04oXW7okQhgw) | [Shyness!](https://open.spotify.com/artist/4qAVYs7aD1BMBRPn9dAKym) | [Shyness!](https://open.spotify.com/album/5zghhaw7NmCXcRcynyjkto) | 3:30 |
@@ -93,13 +93,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUN8lkHHQsn9.md) - [plain]
 | 83 | [Diego M.](https://open.spotify.com/track/0kEuKb2kutWzCbh4bi1h1U) | [sedguy](https://open.spotify.com/artist/0dKVhjeQK0F1tqd32emoPf) | [Diego M.](https://open.spotify.com/album/0nSbH99Z1jWuqolGkPsvqM) | 2:45 |
 | 84 | [Don't Collapse](https://open.spotify.com/track/11ZmWCdq4Jlvx7b5OVTmmP) | [Didi Lez](https://open.spotify.com/artist/6e37ehXKRAloIRP7cW8w0v), [Julia Bossque](https://open.spotify.com/artist/6mhPM4qRPEoFIz6AAZKj51) | [Don't Collapse](https://open.spotify.com/album/1FXhql6RzeIEdk790tOYBm) | 4:21 |
 | 85 | [Bum Bum](https://open.spotify.com/track/5t5BoByzGMZE0gXqXPgxK9) | [Mona Lizak](https://open.spotify.com/artist/1SBoVo80gkiAYGFMQPOKOb) | [Maski](https://open.spotify.com/album/2ySVc9A0CxOUm65gOsYFCK) | 3:59 |
-| 86 | [Girls, Gays, People](https://open.spotify.com/track/0hcEoARENUw9yAc4H7fr10) | [Yanch](https://open.spotify.com/artist/0cB5gHRy82zYYouDMeckVZ) | [Girls, Gays, People](https://open.spotify.com/album/4Chm1IYsC21b9Zevy8Vbr9) | 6:35 |
-| 87 | [Taką Polskę lubię nawet](https://open.spotify.com/track/6sQG5iHLckuLzX1unBIRD1) | [Cudowne Lata](https://open.spotify.com/artist/0e3JhHef9mrLSetLvdbJxf) | [Taką Polskę lubię nawet](https://open.spotify.com/album/72jTsjvMjNn2xH1Ye9T3ER) | 4:08 |
+| 86 | [Taką Polskę lubię nawet](https://open.spotify.com/track/6sQG5iHLckuLzX1unBIRD1) | [Cudowne Lata](https://open.spotify.com/artist/0e3JhHef9mrLSetLvdbJxf) | [Taką Polskę lubię nawet](https://open.spotify.com/album/72jTsjvMjNn2xH1Ye9T3ER) | 4:08 |
+| 87 | [Girls, Gays, People](https://open.spotify.com/track/0hcEoARENUw9yAc4H7fr10) | [Yanch](https://open.spotify.com/artist/0cB5gHRy82zYYouDMeckVZ) | [Girls, Gays, People](https://open.spotify.com/album/4Chm1IYsC21b9Zevy8Vbr9) | 6:35 |
 | 88 | [Palo Santo](https://open.spotify.com/track/4KPgzeIwciL6boNbMUfHwu) | [Lesbijski Groove](https://open.spotify.com/artist/0dN7WMen8j3aHyHRrUh8eC) | [Palo Santo](https://open.spotify.com/album/0NGJx0HX2do5UEU3XhOsnP) | 2:59 |
 | 89 | [Dziewczyna z NASA](https://open.spotify.com/track/253Y585hav2OJuy2gNp0vK) | [MICUŁA](https://open.spotify.com/artist/7GHCUyKOaUg7OE6l4pOpai), [Panilas](https://open.spotify.com/artist/50v7wSqTiWk0lHxax89jRa) | [Dziewczyna z NASA](https://open.spotify.com/album/1Ght8K533HO0VfaltfaFdX) | 3:40 |
-| 90 | [FOMO](https://open.spotify.com/track/0N1JQHZEUbVqcgMryK9NpL) | [Shyness!](https://open.spotify.com/artist/4qAVYs7aD1BMBRPn9dAKym) | [FOMO](https://open.spotify.com/album/0cP9ZrJM3O7XSUdJVRXoLJ) | 3:44 |
+| 90 | [Parlez Vous Francais](https://open.spotify.com/track/1xQkNNDv2MpPpVDNcnFx32) | [Julia Bosski](https://open.spotify.com/artist/38qVvJz4fyKJhg08RqHhL2) | [Parlez Vous Francais](https://open.spotify.com/album/2M8QV57i0i2GKoWe8ziAXA) | 3:22 |
 | 91 | [Monsters](https://open.spotify.com/track/5sFeA9E3XBROiOBTCOMfUa) | [Mona Lizak](https://open.spotify.com/artist/1SBoVo80gkiAYGFMQPOKOb) | [Maski](https://open.spotify.com/album/2ySVc9A0CxOUm65gOsYFCK) | 4:14 |
-| 92 | [Parlez Vous Francais](https://open.spotify.com/track/1xQkNNDv2MpPpVDNcnFx32) | [Julia Bosski](https://open.spotify.com/artist/38qVvJz4fyKJhg08RqHhL2) | [Parlez Vous Francais](https://open.spotify.com/album/2M8QV57i0i2GKoWe8ziAXA) | 3:22 |
+| 92 | [FOMO](https://open.spotify.com/track/0N1JQHZEUbVqcgMryK9NpL) | [Shyness!](https://open.spotify.com/artist/4qAVYs7aD1BMBRPn9dAKym) | [FOMO](https://open.spotify.com/album/0cP9ZrJM3O7XSUdJVRXoLJ) | 3:44 |
 | 93 | [Nieludzie \(Ignorance Ha\)](https://open.spotify.com/track/0jS1ZL03A6dSpdhUz0T683) | [Avtomat](https://open.spotify.com/artist/2WtjfyhUnUtXa6xB2cHAnj) | [Gusła \(Human Rites\)](https://open.spotify.com/album/7LL8vd2QrpFTKSmnOe0DVX) | 5:05 |
 | 94 | [niemówmi](https://open.spotify.com/track/7KSRgQPBOsuTi9SclLCQHc) | [Patryk Janiak](https://open.spotify.com/artist/5f0iJm2Clf3zrxcWfgTS7k) | [niemówmi](https://open.spotify.com/album/1BniDqtFGZMyVjPEf6saZz) | 2:40 |
 | 95 | [dziękuję nie piję](https://open.spotify.com/track/1cxU9NzGl8Fa5mobu7dQzg) | [ania cringe](https://open.spotify.com/artist/0oZoMVPLVPErIc7HIabZMn) | [dziękuję nie piję](https://open.spotify.com/album/30AhJNPsHBx3TXpJ1WfJWV) | 4:11 |

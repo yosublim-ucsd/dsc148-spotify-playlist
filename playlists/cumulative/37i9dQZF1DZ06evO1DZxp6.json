@@ -434,7 +434,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-28",
       "duration_ms": 257933,
       "name": "El Triste",
       "url": "https://open.spotify.com/track/6ZWGKfPSyvC2Oe68CB2brV"
@@ -766,7 +766,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-28",
       "duration_ms": 225693,
       "name": "Nada Fue Un Error - Live In Spain / 2005",
       "url": "https://open.spotify.com/track/7GO6pBFbieZ30NjGIp2LP5"
@@ -923,6 +923,28 @@
     },
     {
       "album": {
+        "name": "Cantora",
+        "url": "https://open.spotify.com/album/0GEdAkGPf0hOqaHtg6arIl"
+      },
+      "artists": [
+        {
+          "name": "Mercedes Sosa",
+          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
+        },
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "date_added": "2024-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174320,
+      "name": "Sabi\u00e9ndose de los Descalzos (with Julieta Venegas)",
+      "url": "https://open.spotify.com/track/74V2rzXyUoeVrQhjxAheTs"
+    },
+    {
+      "album": {
         "name": "Certa Manha Acordei De Sonhos Intranquilos",
         "url": "https://open.spotify.com/album/7wn5gtrPC8pOSoqBgc7EZK"
       },
@@ -1072,7 +1094,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-27",
+      "date_removed": null,
       "duration_ms": 207160,
       "name": "Te solt\u00e9 la rienda",
       "url": "https://open.spotify.com/track/28NllT6A5uDaJYJ4HdyFPX"

@@ -1,12 +1,12 @@
 {
-  "description": "This is Marcos Witt. The essential tracks, all in one playlist.",
-  "num_followers": 90967,
+  "description": "This Is Marcos Witt. Los temas esenciales, todos en una lista.",
+  "num_followers": 90976,
   "original_name": "This Is Marcos Witt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlEqAAAAAAAnYz45M3ucjxTA48QmnV9A",
+  "snapshot_id": "ZlJ7gAAAAADjplRiYNig+7qplLZmwwim",
   "tracks": [
     {
       "added_at": null,
@@ -367,8 +367,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Mejor de Instrumentales",
-        "url": "https://open.spotify.com/album/2W84MBeBF9SHaNhUmfiS1Q"
+        "name": "Santo R\u00edo de Dios",
+        "url": "https://open.spotify.com/album/197HCxd1moPA2aHnlfPTPM"
       },
       "artists": [
         {
@@ -376,9 +376,9 @@
           "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
         }
       ],
-      "duration_ms": 231601,
-      "name": "Tu Fidelidad",
-      "url": "https://open.spotify.com/track/5zh9x8OxWAySBxWhvTDBW2"
+      "duration_ms": 301958,
+      "name": "Santo R\u00edo de Dios",
+      "url": "https://open.spotify.com/track/0SzKBtMu75trcKWGXBsGb6"
     },
     {
       "added_at": null,
@@ -395,22 +395,6 @@
       "duration_ms": 222466,
       "name": "Yo te Busco",
       "url": "https://open.spotify.com/track/4m9mDIdKZuiV1RWKQTQe6P"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Santo R\u00edo de Dios",
-        "url": "https://open.spotify.com/album/197HCxd1moPA2aHnlfPTPM"
-      },
-      "artists": [
-        {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        }
-      ],
-      "duration_ms": 301958,
-      "name": "Santo R\u00edo de Dios",
-      "url": "https://open.spotify.com/track/0SzKBtMu75trcKWGXBsGb6"
     },
     {
       "added_at": null,
@@ -575,22 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tu y Yo",
-        "url": "https://open.spotify.com/album/69i6c6spdPMcm3NYCFmjnx"
-      },
-      "artists": [
-        {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        }
-      ],
-      "duration_ms": 240953,
-      "name": "Heme Aqu\u00ed",
-      "url": "https://open.spotify.com/track/6pcohutNG4zaMCw5UKM4Oh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tu Iglesia",
         "url": "https://open.spotify.com/album/3lb9AFreeW6mc0jx5NKcxP"
       },
@@ -623,6 +591,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tu y Yo",
+        "url": "https://open.spotify.com/album/69i6c6spdPMcm3NYCFmjnx"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "duration_ms": 240953,
+      "name": "Heme Aqu\u00ed",
+      "url": "https://open.spotify.com/track/6pcohutNG4zaMCw5UKM4Oh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Poderoso",
         "url": "https://open.spotify.com/album/4buWEkWMs4uNIJpIZdQNJ9"
       },
@@ -635,22 +619,6 @@
       "duration_ms": 260022,
       "name": "A Ti",
       "url": "https://open.spotify.com/track/0c6NEpsdc4nvAI93IFWTxI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tu y Yo",
-        "url": "https://open.spotify.com/album/69i6c6spdPMcm3NYCFmjnx"
-      },
-      "artists": [
-        {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        }
-      ],
-      "duration_ms": 227291,
-      "name": "Ll\u00e9name Se\u00f1or",
-      "url": "https://open.spotify.com/track/7qKZKJfitLRRA4O6ZBCTs7"
     },
     {
       "added_at": null,
@@ -683,6 +651,22 @@
       "duration_ms": 268565,
       "name": "Quiero Levantar mis Manos",
       "url": "https://open.spotify.com/track/3F3cpazSaWY0DCb6XjSBd9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tu y Yo",
+        "url": "https://open.spotify.com/album/69i6c6spdPMcm3NYCFmjnx"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "duration_ms": 227291,
+      "name": "Ll\u00e9name Se\u00f1or",
+      "url": "https://open.spotify.com/track/7qKZKJfitLRRA4O6ZBCTs7"
     },
     {
       "added_at": null,
@@ -907,6 +891,26 @@
       "duration_ms": 362320,
       "name": "A Ti & Temprano Yo Te Buscar\u00e9 (feat. Marcos Witt)",
       "url": "https://open.spotify.com/track/1o733VX6GW0U6mPlYx4deP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Homenaje a Jes\u00fas",
+        "url": "https://open.spotify.com/album/0tZHLKTmqIiWnNjOEszm7J"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        },
+        {
+          "name": "Danilo Montero",
+          "url": "https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF"
+        }
+      ],
+      "duration_ms": 481175,
+      "name": "Damos honor a Ti feat.Danilo Montero",
+      "url": "https://open.spotify.com/track/1vX9aWhoRlfvykVyKj9F26"
     }
   ],
   "unique_name": "This Is Marcos Witt",

@@ -113,6 +113,24 @@
     },
     {
       "album": {
+        "name": "\u300e\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01\u300f\u30a2\u30d7\u30ea\u4e3b\u984c\u6b4c \u300cBRAND NEW STARS\uff01\uff01\u300d",
+        "url": "https://open.spotify.com/album/0NqWI3YZRvSpMBvoL8bFJQ"
+      },
+      "artists": [
+        {
+          "name": "ES\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba",
+          "url": "https://open.spotify.com/artist/4MCDJV5XahmKPes1Ccc7YO"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300720,
+      "name": "BRAND NEW STARS!!",
+      "url": "https://open.spotify.com/track/6v8DhRbzX3080fORGkNeHX"
+    },
+    {
+      "album": {
         "name": "Switch\u300cBrilliant Smile\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 season2",
         "url": "https://open.spotify.com/album/7t4Y99FrYflBP9tlaAQlEc"
       },
@@ -218,6 +236,24 @@
       "duration_ms": 240320,
       "name": "Dawning Angels",
       "url": "https://open.spotify.com/track/2OJj5Qt5VQJJiphKdTV0Ql"
+    },
+    {
+      "album": {
+        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01\u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba \u300eTRIP\u300f Trickstar",
+        "url": "https://open.spotify.com/album/5gjdqnZbcXvA8QEV1YH2v7"
+      },
+      "artists": [
+        {
+          "name": "Trickstar/\u6c37\u9df9\u5317\u6597(CV.\u524d\u91ce\u667a\u662d)\u3001\u660e\u661f\u30b9\u30d0\u30eb(CV.\u67ff\u539f\u5fb9\u4e5f)\u3001\u904a\u6728 \u771f(CV.\u68ee\u4e45\u4fdd\u7965\u592a\u90ce)\u3001\u8863\u66f4\u771f\u7dd2(CV.\u68b6 \u88d5\u8cb4)",
+          "url": "https://open.spotify.com/artist/5WAQOmu0t73ueEVvBXsnG4"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222400,
+      "name": "Daydream\u00d7Reality",
+      "url": "https://open.spotify.com/track/4k30g9mP45iyHLlOTYWP3m"
     },
     {
       "album": {
@@ -448,7 +484,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-28",
       "duration_ms": 288373,
       "name": "Kiss of Life",
       "url": "https://open.spotify.com/track/7FZ8p7BXhPoG9AvC8ymbhC"
@@ -1384,7 +1420,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-28",
       "duration_ms": 267186,
       "name": "\u5929\u4e0b\u7121\u6575\u2606\u30e1\u30c6\u30aa\u30ec\u30f3\u30b8\u30e3\u30fc!",
       "url": "https://open.spotify.com/track/1XFWiQILHnJqrMn2i6PDDD"

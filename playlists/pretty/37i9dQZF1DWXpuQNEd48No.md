@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpuQNEd48No.md) - [plain]
 
 > Yo Hai Haryanvi Hip\-Hop! Cover: Dhanda Nyoliwala
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,438 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,479 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpuQNEd48No.md) - [plain]
 | 93 | [Rao Sahab](https://open.spotify.com/track/5b8fPlCEdsYNHpVXJFKGvo) | [Krrish Rao](https://open.spotify.com/artist/2VqJFtElDmZUSbTAgQhVVv), [Kriti Verma](https://open.spotify.com/artist/50k6SiiWTWIdifNRgXI64E), [Fateh Sandhu](https://open.spotify.com/artist/1CsrIsktvaa6Bv1yAACs4h) | [Rao Sahab](https://open.spotify.com/album/7bXQtOtyKCLppfhBdNJXIQ) | 3:12 |
 | 94 | [Brand New](https://open.spotify.com/track/5hDKa4HzGxhnLGO6vnc3pA) | [DG IMMORTALS](https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy), [Shiva Choudhary](https://open.spotify.com/artist/3KOSRNy74RLnTAFn0u1tmN), [Love Kataria](https://open.spotify.com/artist/68Zi4yF7GdesbYgTEEZPDZ), [Sshiv](https://open.spotify.com/artist/6NyXhJPrcOKVowHPoP5AQA) | [Brand New](https://open.spotify.com/album/2dj8GXKlijOBhPcY9DXY2k) | 1:50 |
 | 95 | [Jalya Na Karo](https://open.spotify.com/track/6dnmxbneZ8CGw0p9St0uo1) | [Bintu Pabra](https://open.spotify.com/artist/74L1hcSZY4R6mo3yWNflRe) | [Jalya Na Karo](https://open.spotify.com/album/6jrKmnwQHKyoQKwAzNS378) | 3:42 |
-| 96 | [Chora Bawla](https://open.spotify.com/track/1TbgzF4Mv1ZQymdH2AfqlZ) | [The LeKhak](https://open.spotify.com/artist/4mXXjQa72yzGxqboQMSqiT), [BAD Junkie](https://open.spotify.com/artist/67PszvnwyV2SVgLAaVqOER) | [Chora Bawla](https://open.spotify.com/album/3jgcNPA98XVXvjyS28uw2n) | 3:23 |
-| 97 | [HR Gaadi](https://open.spotify.com/track/0nkKmCanJhnc02QpZK7W99) | [Micky Arora](https://open.spotify.com/artist/3pNyr50xc7VeBWTyhM14Sy), [Harikey](https://open.spotify.com/artist/0QfjT5cFQ33BSD1yG0H2OP) | [HR Gaadi](https://open.spotify.com/album/0qjJQEkczdLg6jX7gvfTwB) | 2:48 |
+| 96 | [HR Gaadi](https://open.spotify.com/track/0nkKmCanJhnc02QpZK7W99) | [Micky Arora](https://open.spotify.com/artist/3pNyr50xc7VeBWTyhM14Sy), [Harikey](https://open.spotify.com/artist/0QfjT5cFQ33BSD1yG0H2OP) | [HR Gaadi](https://open.spotify.com/album/0qjJQEkczdLg6jX7gvfTwB) | 2:48 |
+| 97 | [Chora Bawla](https://open.spotify.com/track/1TbgzF4Mv1ZQymdH2AfqlZ) | [The LeKhak](https://open.spotify.com/artist/4mXXjQa72yzGxqboQMSqiT), [BAD Junkie](https://open.spotify.com/artist/67PszvnwyV2SVgLAaVqOER) | [Chora Bawla](https://open.spotify.com/album/3jgcNPA98XVXvjyS28uw2n) | 3:23 |
 | 98 | [Haryana Flow](https://open.spotify.com/track/6OaC2D3CyPcbhUN4Tunvek) | [Lanedaar](https://open.spotify.com/artist/3XGpQpOzPUuqQ9oDP6jPix) | [Haryana Flow](https://open.spotify.com/album/1H1nnmMFGedsa7ltWj0bDD) | 3:17 |
 | 99 | [Kede Kede Yaar](https://open.spotify.com/track/1aeIfm41wcpQiNSN9tjs6B) | [Daulatpuria](https://open.spotify.com/artist/0c8dHxShstYZeEkR4SIrBI), [Afsana Khan](https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo) | [Kede Kede Yaar](https://open.spotify.com/album/2wrCS3CHyPOACbcDEc3ULP) | 2:47 |
-| 100 | [24 Parche](https://open.spotify.com/track/0AZJ1kTo2H9IbvBS3wNrRF) | [Jaggi](https://open.spotify.com/artist/3xKm7gBOnRxMwTHucbePnJ) | [ON TOP](https://open.spotify.com/album/6t6C4S2tWC8icUdNYIYHaC) | 1:55 |
+| 100 | [Paggal](https://open.spotify.com/track/0dA3w3xlWHImfX39kEnmSc) | [Amit Bhadana](https://open.spotify.com/artist/7xyFz6QIHP6Sq0YbT2GZoO), [Miki Malang](https://open.spotify.com/artist/5vGjn7KpA1qJNuy2Ez9yRM), [Candy Sheoran](https://open.spotify.com/artist/5Gv7YQyjnnTxplUzBuKSUY), [Crush Wala Yaar](https://open.spotify.com/artist/4nl5k2Rt7OavkBdi1fXVjS) | [Paggal](https://open.spotify.com/album/6Pd2su33BbrkX31z0bUUEa) | 2:36 |
 
 Snapshot ID: `ZlBolQAAAABZDjhohokqTLNSQ6Okrq/q`

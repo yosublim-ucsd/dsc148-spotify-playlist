@@ -1,6 +1,6 @@
 {
   "description": "New makes old. Cover: Sierra Ferrell",
-  "num_followers": 296649,
+  "num_followers": 296701,
   "original_name": "Vintage Vibes",
   "owner": {
     "name": "Spotify",
@@ -979,6 +979,26 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "Dear John",
+        "url": "https://open.spotify.com/album/5tRGxNTSlav2KGfMrRN1L6"
+      },
+      "artists": [
+        {
+          "name": "Robert Ellis",
+          "url": "https://open.spotify.com/artist/6XtG9W2KkPiQ6n1rlIvTJE"
+        },
+        {
+          "name": "Courtney Hartman",
+          "url": "https://open.spotify.com/artist/0cncMmardvNmaTb9Jnq8w7"
+        }
+      ],
+      "duration_ms": 170960,
+      "name": "Howard Hughes Blues",
+      "url": "https://open.spotify.com/track/4b0bqJ5otqOIycisoiiKs2"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "Runnin'",
         "url": "https://open.spotify.com/album/0qcRycVTiFPrDF2DKQdRCv"
       },
@@ -1011,26 +1031,6 @@
       "duration_ms": 209880,
       "name": "Playing Old Games",
       "url": "https://open.spotify.com/track/1LBAyPeZeEy6Q3UqNZoEN1"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Dear John",
-        "url": "https://open.spotify.com/album/5tRGxNTSlav2KGfMrRN1L6"
-      },
-      "artists": [
-        {
-          "name": "Robert Ellis",
-          "url": "https://open.spotify.com/artist/6XtG9W2KkPiQ6n1rlIvTJE"
-        },
-        {
-          "name": "Courtney Hartman",
-          "url": "https://open.spotify.com/artist/0cncMmardvNmaTb9Jnq8w7"
-        }
-      ],
-      "duration_ms": 170960,
-      "name": "Howard Hughes Blues",
-      "url": "https://open.spotify.com/track/4b0bqJ5otqOIycisoiiKs2"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "Robert Ellis",
+        "url": "https://open.spotify.com/album/1cOWI3gTpBWdPp9Rhv4Ezt"
+      },
+      "artists": [
+        {
+          "name": "Robert Ellis",
+          "url": "https://open.spotify.com/artist/6XtG9W2KkPiQ6n1rlIvTJE"
+        }
+      ],
+      "duration_ms": 166533,
+      "name": "Drivin'",
+      "url": "https://open.spotify.com/track/6VSkzQqDG7trbQfiU0JxDM"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "Every Single Star",
         "url": "https://open.spotify.com/album/3nrtejgwleUGvNPWXMymV2"
       },
@@ -1183,22 +1199,6 @@
       "duration_ms": 229506,
       "name": "Lonely Game (feat. Andrew Combs & Jessie Baylin)",
       "url": "https://open.spotify.com/track/2hPPJefLGV53Mwlir5mRcG"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Robert Ellis",
-        "url": "https://open.spotify.com/album/1cOWI3gTpBWdPp9Rhv4Ezt"
-      },
-      "artists": [
-        {
-          "name": "Robert Ellis",
-          "url": "https://open.spotify.com/artist/6XtG9W2KkPiQ6n1rlIvTJE"
-        }
-      ],
-      "duration_ms": 166533,
-      "name": "Drivin'",
-      "url": "https://open.spotify.com/track/6VSkzQqDG7trbQfiU0JxDM"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Highway Queen",
-        "url": "https://open.spotify.com/album/0tYgeDm3xRF6AV19UwDXXW"
-      },
-      "artists": [
-        {
-          "name": "Nikki Lane",
-          "url": "https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR"
-        }
-      ],
-      "duration_ms": 188240,
-      "name": "Companion",
-      "url": "https://open.spotify.com/track/3XrXvjH1dMaSzNz5uOKdTS"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Love All Night (Work All Day)",
         "url": "https://open.spotify.com/album/6SXHPZkTKbbp5N7ZtMTzEt"
       },
@@ -1331,6 +1315,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "Highway Queen",
+        "url": "https://open.spotify.com/album/0tYgeDm3xRF6AV19UwDXXW"
+      },
+      "artists": [
+        {
+          "name": "Nikki Lane",
+          "url": "https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR"
+        }
+      ],
+      "duration_ms": 188240,
+      "name": "Companion",
+      "url": "https://open.spotify.com/track/3XrXvjH1dMaSzNz5uOKdTS"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "Broken Wing",
         "url": "https://open.spotify.com/album/2y3Pa8bQlZGXTW45TaCYQr"
       },
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Finger on the Button",
-        "url": "https://open.spotify.com/album/6M67smO8BLiTWRmCfny73r"
-      },
-      "artists": [
-        {
-          "name": "Blue Cactus",
-          "url": "https://open.spotify.com/artist/6rouro6xhJxK6NxCHLp26n"
-        }
-      ],
-      "duration_ms": 224132,
-      "name": "Finger on the Button",
-      "url": "https://open.spotify.com/track/50VFQDQZoTelHkraVW7jL3"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "You Don't Own Me",
         "url": "https://open.spotify.com/album/7BOSDXG0al6FLZZyUqGIBe"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 168648,
       "name": "You Don't Own Me",
       "url": "https://open.spotify.com/track/6ZVCTPK8A83OogGsI0Dxjl"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Finger on the Button",
+        "url": "https://open.spotify.com/album/6M67smO8BLiTWRmCfny73r"
+      },
+      "artists": [
+        {
+          "name": "Blue Cactus",
+          "url": "https://open.spotify.com/artist/6rouro6xhJxK6NxCHLp26n"
+        }
+      ],
+      "duration_ms": 224132,
+      "name": "Finger on the Button",
+      "url": "https://open.spotify.com/track/50VFQDQZoTelHkraVW7jL3"
     },
     {
       "added_at": "2023-10-06 04:00:00",

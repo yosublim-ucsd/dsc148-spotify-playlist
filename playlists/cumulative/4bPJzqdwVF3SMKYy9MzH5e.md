@@ -4,7 +4,7 @@
 
 > 
 
-1,907 songs - 4 day 6 hr 59 min
+1,910 songs - 4 day 7 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -536,6 +536,7 @@
 | [escalator](https://open.spotify.com/track/3prKd2o9vHaGF1tc9Y8HHJ) | [Pathetic](https://open.spotify.com/artist/1wUtnIM66rOLpg70aCDY7f) | [escalator](https://open.spotify.com/album/39wKl9yiXMFk9ZZFy5CCxI) | 3:35 | 2021-12-30 |  |
 | [Escape](https://open.spotify.com/track/5Ws8QOTBn4fJP3ZZ2tx9ma) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Open Mouth, Open Heart](https://open.spotify.com/album/5jowai2DVaDn3cgxigARdy) | 3:15 | 2021-11-14 |  |
 | [Eulogy](https://open.spotify.com/track/5yshqP8Dvk7JmHeJ5BiLyP) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Sing Me a Lullaby, My Sweet Temptation](https://open.spotify.com/album/3elJRIffdqvypuxoDND2Q3) | 3:47 | 2023-04-17 |  |
+| [Europapa](https://open.spotify.com/track/0uHrMbMv3c78398pIANDqR) | [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR) | [Europapa](https://open.spotify.com/album/3v1pSXwPFLvjQWbcN1iwKS) | 2:40 | 2024-05-27 |  |
 | [Eventually](https://open.spotify.com/track/5M4yti0QxgqJieUYaEXcpw) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 5:18 | 2022-02-18 |  |
 | [Everlong](https://open.spotify.com/track/5UWwZ5lm5PKu6eKsHAGxOk) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [The Colour And The Shape](https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv) | 4:10 | 2023-03-16 |  |
 | [Everybody Dies In Their Nightmares](https://open.spotify.com/track/3GVkPk8mqxz0itaAriG1L7) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [17](https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0) | 1:35 | 2021-08-05 |  |
@@ -1218,6 +1219,7 @@
 | [Oh Yeah!](https://open.spotify.com/track/1VsFIGQytB26cDHViCLjQi) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Father of All...](https://open.spotify.com/album/7ij8wQxCAexZiXZbMOHcxE) | 2:51 | 2021-08-05 |  |
 | [OK](https://open.spotify.com/track/0APAKxMXB7jdDs4kw1l30y) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [OK](https://open.spotify.com/album/6AMTezrkvSp7i1PqL0Mb7F) | 3:13 | 2021-08-05 |  |
 | [Old Town Road \- Remix](https://open.spotify.com/track/2YpeDb67231RjR0MgVLzsG) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Billy Ray Cyrus](https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa) | [7 EP](https://open.spotify.com/album/4IRiXE5NROxknUSAUSjMoO) | 2:37 | 2021-08-05 |  |
+| [Ome Robert](https://open.spotify.com/track/3TE49HXyoNczZk2IBhP87z) | [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR) | [Ome Robert](https://open.spotify.com/album/3qCsGHHWG6t9izvmsE47jr) | 2:32 | 2024-05-27 |  |
 | [on god](https://open.spotify.com/track/7a7wbihbtKPnMCq17iECek) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Lewis Grant](https://open.spotify.com/artist/5hn4bbaAkdXOwk8160xTpj) | [i don't care at all](https://open.spotify.com/album/7yLZeJTQUK0Dn5MHTLNjyI) | 3:14 | 2021-08-05 |  |
 | [On Me](https://open.spotify.com/track/4s4y5IKiOKG0Az0kUt9rSR) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [Dreddalicious](https://open.spotify.com/album/2HlR4wN9A87JSjBhFVvl4f) | 1:38 | 2021-08-05 |  |
 | [On My Way](https://open.spotify.com/track/3jVpCVq7fa5fv2Crzwz0Jz) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [Only The Beginning](https://open.spotify.com/album/6z1qeT7vI9YUsCHqufGWJy) | 3:31 | 2021-08-05 |  |
@@ -1770,7 +1772,8 @@
 | [Untie You](https://open.spotify.com/track/4Wm3VjUD6olJbF4QyYVwG2) | [Sir Chloe](https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U) | [Party Favors](https://open.spotify.com/album/5N9MQLXbiA8hYWsej7y8Sz) | 3:20 | 2021-08-05 |  |
 | [Until It Doesn’t Hurt](https://open.spotify.com/track/7grksluOJE8yFzxmrh7u2U) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Inside](https://open.spotify.com/album/4v0i8VJOxYxngmADCFvi6o) | 2:55 | 2023-06-07 |  |
 | [Until It's Gone](https://open.spotify.com/track/2n1jBz26dVBtSbMvJNjGsu) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [The Hunting Party](https://open.spotify.com/album/3XB2yloP7l00tEUmaODtVi) | 3:53 | 2021-08-05 |  |
-| [Untrust Us \(the cocaine is not good for you\) \- Slowed + Reverb](https://open.spotify.com/track/24Y9pXOdiLxek5Bj2ufrS6) | [skyemane](https://open.spotify.com/artist/5xhQRvvr6V7zoQn5MPNZfJ) | [Untrust Us \(the cocaine is not good for you\) \[Slowed + Reverb\]](https://open.spotify.com/album/7oNFds0Wmt3w1gc0Kl4U7s) | 3:54 | 2024-05-27 |  |
+| [Untrust Us](https://open.spotify.com/track/3d8zIv577en5PxwwAzadN2) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [Crystal Castles](https://open.spotify.com/album/6rTfUUv8Kefr6Uo3AaecXi) | 3:06 | 2024-05-27 |  |
+| [Untrust Us \(the cocaine is not good for you\) \- Slowed + Reverb](https://open.spotify.com/track/24Y9pXOdiLxek5Bj2ufrS6) | [skyemane](https://open.spotify.com/artist/5xhQRvvr6V7zoQn5MPNZfJ) | [Untrust Us \(the cocaine is not good for you\) \[Slowed + Reverb\]](https://open.spotify.com/album/7oNFds0Wmt3w1gc0Kl4U7s) | 3:54 | 2024-05-27 | 2024-05-28 |
 | [Uptown Girl](https://open.spotify.com/track/5zA8vzDGqPl2AzZkEYQGKh) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [An Innocent Man](https://open.spotify.com/album/3R3x4zIabsvpD3yxqLaUpc) | 3:17 | 2021-08-05 |  |
 | [Us Vs\. Them](https://open.spotify.com/track/3cmdqMDc0Fj4TgPeyDOYTM) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Us Vs\. Them](https://open.spotify.com/album/6G7r3vu2Snjn8Ese1uwNZp) | 3:04 | 2024-03-29 |  |
 | [Ushi\_Ga\_Suki\_Desu\_214f187f](https://open.spotify.com/track/21kHqGeNy9zZZ182SsMRuQ) | [Lil Kevo 303](https://open.spotify.com/artist/2hhB8Hr4xrLZFvTTxZjGJA) | [The Taste of Food Is My Reason for Living](https://open.spotify.com/album/1BWm6e51ExFvJMeTJ3fENH) | 2:05 | 2023-02-05 |  |

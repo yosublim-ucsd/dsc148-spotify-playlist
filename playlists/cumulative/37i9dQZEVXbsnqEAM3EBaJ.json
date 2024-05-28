@@ -14867,6 +14867,32 @@
     },
     {
       "album": {
+        "name": "Sonata de Lluvia: La Previsi\u00f3n de la Naturaleza en Busca de un Destino Cambiante",
+        "url": "https://open.spotify.com/album/3Bn8Pk01EXU60iSoZqlwYp"
+      },
+      "artists": [
+        {
+          "name": "Sol y Lluvia",
+          "url": "https://open.spotify.com/artist/6iGoMyoSIjyTxbCRyHREtI"
+        },
+        {
+          "name": "Lluvia Relajante",
+          "url": "https://open.spotify.com/artist/23wO0bYxC7ScKWqSs3B1xF"
+        },
+        {
+          "name": "Sonidos De Truenos y Lluvia",
+          "url": "https://open.spotify.com/artist/6xTTIh4uHGvswk0mUi9GJ4"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145262,
+      "name": "Literal Wisdom",
+      "url": "https://open.spotify.com/track/0UBd65RGAfaNotJi3WhgxH"
+    },
+    {
+      "album": {
         "name": "Hit and Run (Live 1977)",
         "url": "https://open.spotify.com/album/2oOS0hOiZYfYdPyifVo0NA"
       },
@@ -27624,7 +27650,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-28",
       "duration_ms": 140722,
       "name": "Twisting Sight",
       "url": "https://open.spotify.com/track/1bjs1A0Mndr8YtGsTaxWcY"

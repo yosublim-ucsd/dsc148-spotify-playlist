@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXby9Yl80gEWW.md) - [plain]
 
 > A taste of the very best bluegrass instrumentals, classic and new.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,587 likes - 100 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,618 likes - 100 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,10 +45,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXby9Yl80gEWW.md) - [plain]
 | 35 | [Carl’s Breakdown](https://open.spotify.com/track/1WSgLVVvvhF0UvJdpaErCj) | [Shadowgrass](https://open.spotify.com/artist/5LimIIqX8EYXRrMvLFIiTE) | [Shadowgrass](https://open.spotify.com/album/0JqSs11UVGIqPsoGWpLFz1) | 4:47 |
 | 36 | [Bon Aqua Blues](https://open.spotify.com/track/0SE1Y1MCWtKm88IeqjnDoL) | [Tony Trischka](https://open.spotify.com/artist/1NjpWti9GnUtjjC2XV7UJK) | [Double Banjo Bluegrass Spectacular](https://open.spotify.com/album/4tIGzvCcfoHTYI8nlzPwch) | 3:00 |
 | 37 | [Leaving Cottondale](https://open.spotify.com/track/0Yt1lEl3YR4D7lsGA4VfuW) | [Alison Brown](https://open.spotify.com/artist/01ts5a7R3WkeE2oKIouXEK) | [Best Of The Vanguard Years](https://open.spotify.com/album/0WEd2PpiPxuD8RX576wiWK) | 2:36 |
-| 38 | [Smith Chapel](https://open.spotify.com/track/1czulejL9FW5JUbHXMufpG) | [David Grier](https://open.spotify.com/artist/7hWVElplEhp3zOKg7KuLr2) | [Lone Soldier](https://open.spotify.com/album/5KWtnSlnMX7XtJcITbMo6m) | 3:18 |
+| 38 | [Blue Midnite](https://open.spotify.com/track/2eU8DzjTsnsIOE3foknMYQ) | [David Grisman](https://open.spotify.com/artist/5udgy2xk333j33hKnwDz8O) | [The David Grisman Quintet](https://open.spotify.com/album/3WFYnejh2lEBcrQq2gclVq) | 3:40 |
 | 39 | [Julie Ann Johnson](https://open.spotify.com/track/6aY2O9hJq3ty10tBZNqCUs) | [Cathy Fink](https://open.spotify.com/artist/6C0lsIh3QzXKHdFxFy3DAw) | [Banjo Haiku](https://open.spotify.com/album/3YsYZKwQeR1BpFjNL9OFZ2) | 1:50 |
-| 40 | [Blue Midnite](https://open.spotify.com/track/2eU8DzjTsnsIOE3foknMYQ) | [David Grisman](https://open.spotify.com/artist/5udgy2xk333j33hKnwDz8O) | [The David Grisman Quintet](https://open.spotify.com/album/3WFYnejh2lEBcrQq2gclVq) | 3:40 |
-| 41 | [40 West](https://open.spotify.com/track/7eRqhurJzyKgPucmAFMTwB) | [The Infamous Stringdusters](https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW) | [Fork In The Road](https://open.spotify.com/album/3u5KHo4q2j8QEsp1mePjes) | 4:00 |
+| 40 | [40 West](https://open.spotify.com/track/7eRqhurJzyKgPucmAFMTwB) | [The Infamous Stringdusters](https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW) | [Fork In The Road](https://open.spotify.com/album/3u5KHo4q2j8QEsp1mePjes) | 4:00 |
+| 41 | [Smith Chapel](https://open.spotify.com/track/1czulejL9FW5JUbHXMufpG) | [David Grier](https://open.spotify.com/artist/7hWVElplEhp3zOKg7KuLr2) | [Lone Soldier](https://open.spotify.com/album/5KWtnSlnMX7XtJcITbMo6m) | 3:18 |
 | 42 | [Jerusalem Ridge](https://open.spotify.com/track/2I38eMHKtOsIFUMWebyHj7) | [Tony Rice](https://open.spotify.com/artist/6N9hyojoLChEhlsS8vYnyr) | [Church Street Blues](https://open.spotify.com/album/2ikwlUUIe2EiOO2gDZjOJb) | 3:27 |
 | 43 | [Big Sciota](https://open.spotify.com/track/3bwRblhAbbkQ8GoL7YatI7) | [Jerry Douglas](https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9), [Russ Barenberg](https://open.spotify.com/artist/1Stj7mbbJFkKGqasheXUVF), [Edgar Meyer](https://open.spotify.com/artist/7jkhwa4XMe9XSt1r0AWNqD) | [Skip, Hop And Wobble](https://open.spotify.com/album/39zVaR7csPee43Hwr8Liwt) | 3:25 |
 | 44 | [Going Out…](https://open.spotify.com/track/0Ak9D9HV7XLSrljdrOPtUj) | [Nickel Creek](https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ) | [Celebrants](https://open.spotify.com/album/2ruZGj3O7oL91f9re3BXLq) | 3:04 |
@@ -86,10 +86,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXby9Yl80gEWW.md) - [plain]
 | 76 | [Graveyard Fields](https://open.spotify.com/track/1ONtkZXZZQSluHq68xq90p) | [Appalachian Road Show](https://open.spotify.com/artist/2QbK1N86iI11jUiRG2JgSM) | [Jubilation](https://open.spotify.com/album/2pMmU3fvjvXpS8F7OhsDqh) | 2:59 |
 | 77 | [Tsali's Run](https://open.spotify.com/track/4AzSHrAiwUDnEo0hJ9qZpm) | [Carley Arrowood](https://open.spotify.com/artist/0GvSG6mHtIo8KGegsVEvjK) | [Tsali's Run](https://open.spotify.com/album/2R0bW66PP9Ez06X4F3DPfP) | 3:58 |
 | 78 | [Birdland](https://open.spotify.com/track/535hPHiTIMoBvnlQq4Smwp) | [Jerry Douglas](https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9) | [Americana Master Series: Best Of The Sugar Hill Years](https://open.spotify.com/album/4DCwmLDAejaXf9YmzOw0pS) | 5:25 |
-| 79 | [Black's Fork](https://open.spotify.com/track/1fz9jPBvfUrtNesuU5UHaT) | [Matt Flinner](https://open.spotify.com/artist/79K2moZrEqMShMOlkq5A3J) | [The View From Here](https://open.spotify.com/album/6AAVj79p20sOf0LKBeqZyQ) | 3:33 |
+| 79 | [It's A String Thing](https://open.spotify.com/track/4c26BHbxtSuWTYdiRvyQ15) | [The Grascals](https://open.spotify.com/artist/7si9bAnJcqPoR30spNu9tm) | [Up All Night](https://open.spotify.com/album/1MKqppAnggvYNrKE2HGILZ) | 3:53 |
 | 80 | [Icebound](https://open.spotify.com/track/1aE1jtShWdjd5XZfaXnOyF) | [Tony Furtado](https://open.spotify.com/artist/5Q6pd3dxIXhCNap8bJpWvt) | [Decembering](https://open.spotify.com/album/7jZAxQsEbJim05XnecJ45E) | 3:33 |
-| 81 | [Airish](https://open.spotify.com/track/5EKdXtNDjqg03nXf8H5IUr) | [Alison Brown](https://open.spotify.com/artist/01ts5a7R3WkeE2oKIouXEK) | [The Song of the Banjo](https://open.spotify.com/album/0DZIOJ6PXVnNQANiA7VJaJ) | 4:17 |
-| 82 | [It's A String Thing](https://open.spotify.com/track/4c26BHbxtSuWTYdiRvyQ15) | [The Grascals](https://open.spotify.com/artist/7si9bAnJcqPoR30spNu9tm) | [Up All Night](https://open.spotify.com/album/1MKqppAnggvYNrKE2HGILZ) | 3:53 |
+| 81 | [Black's Fork](https://open.spotify.com/track/1fz9jPBvfUrtNesuU5UHaT) | [Matt Flinner](https://open.spotify.com/artist/79K2moZrEqMShMOlkq5A3J) | [The View From Here](https://open.spotify.com/album/6AAVj79p20sOf0LKBeqZyQ) | 3:33 |
+| 82 | [Airish](https://open.spotify.com/track/5EKdXtNDjqg03nXf8H5IUr) | [Alison Brown](https://open.spotify.com/artist/01ts5a7R3WkeE2oKIouXEK) | [The Song of the Banjo](https://open.spotify.com/album/0DZIOJ6PXVnNQANiA7VJaJ) | 4:17 |
 | 83 | [Bluegrass Boogie](https://open.spotify.com/track/6kuhS6WiS7Qd2RaUyEJnw5) | [Mike Auldridge](https://open.spotify.com/artist/2zsStamnZC4eP7rHxSN4Kh) | [Eight String Swing](https://open.spotify.com/album/3fPI8UL5aLLva5uvdK8OB6) | 3:32 |
 | 84 | [Bozeman \- Clawhammer Version](https://open.spotify.com/track/2OKPFjbjURGrx8fSzKk8uM) | [Nick Dumas](https://open.spotify.com/artist/58w8rt4sUw7FQDNEucD4ab) | [Bozeman \(Clawhammer Version\)](https://open.spotify.com/album/4qBsC1P0Wsc3nTKWDj3gf2) | 4:16 |
 | 85 | [Moonbeam](https://open.spotify.com/track/6HuOzBKgL1I9WDKjKxS7vp) | [Waterhouse](https://open.spotify.com/artist/25PniBi23b8oE5BXVRBp4S) | [Moonbeam](https://open.spotify.com/album/1VTipkjGNb0kofaMblqkT2) | 3:04 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXby9Yl80gEWW.md) - [plain]
 | 96 | [Saltbush Express](https://open.spotify.com/track/1G0Oc8cVKAnAUZFrVwOwH7) | [Michael Fix](https://open.spotify.com/artist/2NPDDS5mWRp1JgtOj9iRci) | [Saltbush Express](https://open.spotify.com/album/3B5GKENfkULk2sCtCEitvQ) | 2:51 |
 | 97 | [Whiskerhead Goes to Leningrad](https://open.spotify.com/track/0mQ3GSdcv5KvXm47RNlf9p) | [Missy Raines](https://open.spotify.com/artist/5puV4r3ntz4XyzN6QnBKep) | [My Place in the Sun](https://open.spotify.com/album/16YMR1IB6wzIxiMznLimbH) | 3:46 |
 | 98 | [Bozeman](https://open.spotify.com/track/2ieYVBhGy8PEOPEl3ZLCZO) | [Nick Dumas](https://open.spotify.com/artist/58w8rt4sUw7FQDNEucD4ab) | [Details](https://open.spotify.com/album/4SVwFCQW8ao3s1TBZxqhO3) | 4:14 |
-| 99 | [Santa Ana](https://open.spotify.com/track/3TSAh9y768l565Dm9Awod2) | [Dan Crary](https://open.spotify.com/artist/7MNoJalBLtqKoDbjvjPqt5), [Byron Berline](https://open.spotify.com/artist/6NZD4FCwmNsEIS1CL1Y3io), [John Hickman](https://open.spotify.com/artist/32wFBGZOIY1FRH7ioqKGJD) | [Now They Are Four](https://open.spotify.com/album/30YVehEEp82UN9otkEdZhj) | 2:57 |
-| 100 | [Kimper County](https://open.spotify.com/track/4FfGd39o9TNN0KXc4oIsIH) | [Andy Leftwich](https://open.spotify.com/artist/2fcTqa79dTOAF6kJrDltQa) | [The American Fiddler](https://open.spotify.com/album/3VbD9iUP0p5WmVXsp9crms) | 4:01 |
+| 99 | [Kimper County](https://open.spotify.com/track/4FfGd39o9TNN0KXc4oIsIH) | [Andy Leftwich](https://open.spotify.com/artist/2fcTqa79dTOAF6kJrDltQa) | [The American Fiddler](https://open.spotify.com/album/3VbD9iUP0p5WmVXsp9crms) | 4:01 |
+| 100 | [Santa Ana](https://open.spotify.com/track/3TSAh9y768l565Dm9Awod2) | [Dan Crary](https://open.spotify.com/artist/7MNoJalBLtqKoDbjvjPqt5), [Byron Berline](https://open.spotify.com/artist/6NZD4FCwmNsEIS1CL1Y3io), [John Hickman](https://open.spotify.com/artist/32wFBGZOIY1FRH7ioqKGJD) | [Now They Are Four](https://open.spotify.com/album/30YVehEEp82UN9otkEdZhj) | 2:57 |
 
 Snapshot ID: `Zk3QMAAAAAB9AG4LO3VRY+gFKhmM4VSQ`

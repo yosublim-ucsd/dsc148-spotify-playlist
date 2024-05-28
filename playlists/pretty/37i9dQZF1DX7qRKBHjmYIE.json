@@ -1,6 +1,6 @@
 {
   "description": "De aqu\u00ed y de all\u00e1 ~ un poquito de todo \u2728 en un vibe con Estevie.",
-  "num_followers": 755155,
+  "num_followers": 755117,
   "original_name": "Mixto",
   "owner": {
     "name": "Spotify",
@@ -611,22 +611,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "SOLA",
-        "url": "https://open.spotify.com/album/4jM7PAcZUqdVhRoke8bF1N"
-      },
-      "artists": [
-        {
-          "name": "Chita",
-          "url": "https://open.spotify.com/artist/7ejyCwT1b7MIwHVCVO8HjX"
-        }
-      ],
-      "duration_ms": 191818,
-      "name": "Sola",
-      "url": "https://open.spotify.com/track/7y5ZyLfcBa5oYhP8jZwUcz"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "Mujer",
         "url": "https://open.spotify.com/album/4DoNVtnUb1oTfrJQcxFsbs"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 263680,
       "name": "Mujer",
       "url": "https://open.spotify.com/track/2Jrr4gRBbOiOrZu2jo1gSF"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "SOLA",
+        "url": "https://open.spotify.com/album/4jM7PAcZUqdVhRoke8bF1N"
+      },
+      "artists": [
+        {
+          "name": "Chita",
+          "url": "https://open.spotify.com/artist/7ejyCwT1b7MIwHVCVO8HjX"
+        }
+      ],
+      "duration_ms": 191818,
+      "name": "Sola",
+      "url": "https://open.spotify.com/track/7y5ZyLfcBa5oYhP8jZwUcz"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -755,6 +755,22 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
+        "name": "Dime Precioso",
+        "url": "https://open.spotify.com/album/0XQlp7eRuD0IqRaxtdVqmW"
+      },
+      "artists": [
+        {
+          "name": "Alex Anwandter",
+          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
+        }
+      ],
+      "duration_ms": 273746,
+      "name": "Paris, Tal Vez?",
+      "url": "https://open.spotify.com/track/2LsFN7FUc8mMYnVJ6jxtJY"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
         "name": "G CLASS",
         "url": "https://open.spotify.com/album/5R8MCA9qPj2nulH42BeCHE"
       },
@@ -795,6 +811,22 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
+        "name": "Tambi\u00e9n de dolor se canta",
+        "url": "https://open.spotify.com/album/3Sdg3x71MeUlOVRbBz4Hdl"
+      },
+      "artists": [
+        {
+          "name": "Zuaraz",
+          "url": "https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch"
+        }
+      ],
+      "duration_ms": 208057,
+      "name": "Tambi\u00e9n de dolor se canta",
+      "url": "https://open.spotify.com/track/5vLTaMcdh1Dix7hgVgmHpj"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
         "name": "Aqui?",
         "url": "https://open.spotify.com/album/16s7UnxEudfSK1rcSgZ0VV"
       },
@@ -823,38 +855,6 @@
       "duration_ms": 141714,
       "name": "PALOMINO",
       "url": "https://open.spotify.com/track/3cqhuqp6N9D3XoAsL0kCC4"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "Dime Precioso",
-        "url": "https://open.spotify.com/album/0XQlp7eRuD0IqRaxtdVqmW"
-      },
-      "artists": [
-        {
-          "name": "Alex Anwandter",
-          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
-        }
-      ],
-      "duration_ms": 273746,
-      "name": "Paris, Tal Vez?",
-      "url": "https://open.spotify.com/track/2LsFN7FUc8mMYnVJ6jxtJY"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "Tambi\u00e9n de dolor se canta",
-        "url": "https://open.spotify.com/album/3Sdg3x71MeUlOVRbBz4Hdl"
-      },
-      "artists": [
-        {
-          "name": "Zuaraz",
-          "url": "https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch"
-        }
-      ],
-      "duration_ms": 208057,
-      "name": "Tambi\u00e9n de dolor se canta",
-      "url": "https://open.spotify.com/track/5vLTaMcdh1Dix7hgVgmHpj"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -971,6 +971,22 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
+        "name": "La Verdad",
+        "url": "https://open.spotify.com/album/7cXzfzrkgf5peHs9PIOaw7"
+      },
+      "artists": [
+        {
+          "name": "Leanys",
+          "url": "https://open.spotify.com/artist/0e1Zih19iuVEnhZPOuqL9V"
+        }
+      ],
+      "duration_ms": 161148,
+      "name": "La Verdad",
+      "url": "https://open.spotify.com/track/2GqJCcdlPR9xkDkZpPkW9z"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
         "name": "VUELTIANDO",
         "url": "https://open.spotify.com/album/0ROCZQoKTnW6IcVw1vgmIh"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 174085,
       "name": "VUELTIANDO",
       "url": "https://open.spotify.com/track/6P7pVqYGeMPmH7EjRFO7Un"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "La Verdad",
-        "url": "https://open.spotify.com/album/7cXzfzrkgf5peHs9PIOaw7"
-      },
-      "artists": [
-        {
-          "name": "Leanys",
-          "url": "https://open.spotify.com/artist/0e1Zih19iuVEnhZPOuqL9V"
-        }
-      ],
-      "duration_ms": 161148,
-      "name": "La Verdad",
-      "url": "https://open.spotify.com/track/2GqJCcdlPR9xkDkZpPkW9z"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "MANY NIGHTS",
-        "url": "https://open.spotify.com/album/3L1BuSyavRIJ1lTIwG8WXV"
-      },
-      "artists": [
-        {
-          "name": "Chicocurlyhead",
-          "url": "https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1"
-        }
-      ],
-      "duration_ms": 159292,
-      "name": "MANY NIGHTS",
-      "url": "https://open.spotify.com/track/2gvHaUPuZVfCLq9DXNwqON"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "Hielo",
         "url": "https://open.spotify.com/album/7DLt7rMj26WSDUzGDk2B9g"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 184795,
       "name": "Hielo",
       "url": "https://open.spotify.com/track/1buOWQg3BhMC5SNp1eeTPq"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "MANY NIGHTS",
+        "url": "https://open.spotify.com/album/3L1BuSyavRIJ1lTIwG8WXV"
+      },
+      "artists": [
+        {
+          "name": "Chicocurlyhead",
+          "url": "https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1"
+        }
+      ],
+      "duration_ms": 159292,
+      "name": "MANY NIGHTS",
+      "url": "https://open.spotify.com/track/2gvHaUPuZVfCLq9DXNwqON"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1167,22 +1167,18 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Se Acaba (Sinego Remix)",
-        "url": "https://open.spotify.com/album/6pmqgNHGZAqKyiUbdEynaT"
+        "name": "MUY FINITO",
+        "url": "https://open.spotify.com/album/5PDJxIcBMtjti0J23ayqlj"
       },
       "artists": [
         {
-          "name": "Adrie",
-          "url": "https://open.spotify.com/artist/4RuSib7ZtJd4SI61XGkCto"
-        },
-        {
-          "name": "Sinego",
-          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
+          "name": "Never Dull",
+          "url": "https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm"
         }
       ],
-      "duration_ms": 381885,
-      "name": "Se Acaba - Sinego Remix",
-      "url": "https://open.spotify.com/track/1weqzj4OexIpfV2pNyPmqy"
+      "duration_ms": 165875,
+      "name": "MUY FINITO",
+      "url": "https://open.spotify.com/track/4xHkNofcMKGYJ8gzQLBzAW"
     }
   ],
   "unique_name": "Mixto",

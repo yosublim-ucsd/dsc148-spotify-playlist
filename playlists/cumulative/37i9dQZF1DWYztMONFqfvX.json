@@ -2086,7 +2086,7 @@
       ],
       "date_added": "2023-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-28",
       "duration_ms": 313051,
       "name": "O Bedardeya (From \"Tu Jhoothi Main Makkaar\")",
       "url": "https://open.spotify.com/track/0czcoKJbJt08NqKrvSbbz7"
@@ -2628,6 +2628,40 @@
       "duration_ms": 271169,
       "name": "Satranga (From \"ANIMAL\")",
       "url": "https://open.spotify.com/track/3yHyiUDJdz02FZ6jfUbsmY"
+    },
+    {
+      "album": {
+        "name": "Satyanaas (From \"Chandu Champion\")",
+        "url": "https://open.spotify.com/album/5FTM4NCtG5AT3PFsNXbVTr"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Nakash Aziz",
+          "url": "https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        },
+        {
+          "name": "Dev Negi",
+          "url": "https://open.spotify.com/artist/04FsFHujpuqonrPXZrEJlK"
+        }
+      ],
+      "date_added": "2024-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205088,
+      "name": "Satyanaas (From \"Chandu Champion\")",
+      "url": "https://open.spotify.com/track/01Vpd2oh65RTICFhbdLBDQ"
     },
     {
       "album": {

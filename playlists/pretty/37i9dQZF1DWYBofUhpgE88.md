@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBofUhpgE88.md) - [plain]
 
 > Atalanta, l'Europa League è tua 🏆 Rap per non smettere mai di crederci 💪🏋️🏃‍♀ Ademola Lookman in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 344,643 likes - 70 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 344,669 likes - 70 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

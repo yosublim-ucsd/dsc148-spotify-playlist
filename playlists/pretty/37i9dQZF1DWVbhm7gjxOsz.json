@@ -1,6 +1,6 @@
 {
   "description": "Crusin' is not a crime, it's a lifestyle! ",
-  "num_followers": 75194,
+  "num_followers": 75345,
   "original_name": "Lowrider Crusin'",
   "owner": {
     "name": "Spotify",
@@ -467,22 +467,6 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
-        "name": "Baby, I'm For Real",
-        "url": "https://open.spotify.com/album/3lvFua9jUjltWAqIK01Zdn"
-      },
-      "artists": [
-        {
-          "name": "The Originals",
-          "url": "https://open.spotify.com/artist/11EZGTWr2pY0VZPlWokAbl"
-        }
-      ],
-      "duration_ms": 201866,
-      "name": "Baby, I'm For Real",
-      "url": "https://open.spotify.com/track/7vI2UMCyF56ZNDbVZmKiJ2"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
         "name": "Malo",
         "url": "https://open.spotify.com/album/0idohj8jELOTtI3sUdGWUo"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 395200,
       "name": "Suavecito",
       "url": "https://open.spotify.com/track/5QoFWpXoaUyT44VmR98wLl"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
+        "name": "Baby, I'm For Real",
+        "url": "https://open.spotify.com/album/3lvFua9jUjltWAqIK01Zdn"
+      },
+      "artists": [
+        {
+          "name": "The Originals",
+          "url": "https://open.spotify.com/artist/11EZGTWr2pY0VZPlWokAbl"
+        }
+      ],
+      "duration_ms": 201866,
+      "name": "Baby, I'm For Real",
+      "url": "https://open.spotify.com/track/7vI2UMCyF56ZNDbVZmKiJ2"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -563,22 +563,6 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
-        "name": "James & Bobby Purify",
-        "url": "https://open.spotify.com/album/7B9SrtNRzt2yyxww4URgMK"
-      },
-      "artists": [
-        {
-          "name": "James & Bobby Purify",
-          "url": "https://open.spotify.com/artist/1qO2mRQM4zbksO586oM0W7"
-        }
-      ],
-      "duration_ms": 178986,
-      "name": "I'm Your Puppet",
-      "url": "https://open.spotify.com/track/5z71EfouOWMI4HHZHEjnkr"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
         "name": "Too Hot to Handle (Expanded Edition)",
         "url": "https://open.spotify.com/album/1QeIO9ArYBB9vLiODTtWy8"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 377106,
       "name": "Always and Forever",
       "url": "https://open.spotify.com/track/3w0pyHgJJW9JN0cJxmi33Z"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
+        "name": "James & Bobby Purify",
+        "url": "https://open.spotify.com/album/7B9SrtNRzt2yyxww4URgMK"
+      },
+      "artists": [
+        {
+          "name": "James & Bobby Purify",
+          "url": "https://open.spotify.com/artist/1qO2mRQM4zbksO586oM0W7"
+        }
+      ],
+      "duration_ms": 178986,
+      "name": "I'm Your Puppet",
+      "url": "https://open.spotify.com/track/5z71EfouOWMI4HHZHEjnkr"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -711,22 +711,6 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
-        "name": "The One Who Really Loves You",
-        "url": "https://open.spotify.com/album/3LOSPDjqK3UrZ0Ab5rGMdm"
-      },
-      "artists": [
-        {
-          "name": "Mary Wells",
-          "url": "https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7"
-        }
-      ],
-      "duration_ms": 165333,
-      "name": "You Beat Me To The Punch",
-      "url": "https://open.spotify.com/track/4Sz8zFchpHQVQVqVyGz5Jb"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
         "name": "Thin Line Between Love & Hate: Golden Classics",
         "url": "https://open.spotify.com/album/7HjAR4jDMTMfq82XLngp98"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 207653,
       "name": "Thin Line Between Love and Hate",
       "url": "https://open.spotify.com/track/6uDRZi9MOTtkuNUHMfREib"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
+        "name": "The One Who Really Loves You",
+        "url": "https://open.spotify.com/album/3LOSPDjqK3UrZ0Ab5rGMdm"
+      },
+      "artists": [
+        {
+          "name": "Mary Wells",
+          "url": "https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7"
+        }
+      ],
+      "duration_ms": 165333,
+      "name": "You Beat Me To The Punch",
+      "url": "https://open.spotify.com/track/4Sz8zFchpHQVQVqVyGz5Jb"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -855,22 +855,6 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
-        "name": "The One Who Really Loves You",
-        "url": "https://open.spotify.com/album/3LOSPDjqK3UrZ0Ab5rGMdm"
-      },
-      "artists": [
-        {
-          "name": "Mary Wells",
-          "url": "https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7"
-        }
-      ],
-      "duration_ms": 147466,
-      "name": "The One Who Really Loves You - Single Version",
-      "url": "https://open.spotify.com/track/4M732X5J2BE6M8VIHHfxMx"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
         "name": "I Love You",
         "url": "https://open.spotify.com/album/7Ab7hqMWNwYcUGCrltzX8r"
       },
@@ -903,22 +887,18 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
-        "name": "Do You Love",
-        "url": "https://open.spotify.com/album/7gs58h7gcR2HL5tlFC3YT7"
+        "name": "The One Who Really Loves You",
+        "url": "https://open.spotify.com/album/3LOSPDjqK3UrZ0Ab5rGMdm"
       },
       "artists": [
         {
-          "name": "Trish Toledo",
-          "url": "https://open.spotify.com/artist/2ZZZ8cXLBRgiH6fiwaA0Ah"
-        },
-        {
-          "name": "Baby Bash",
-          "url": "https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7"
+          "name": "Mary Wells",
+          "url": "https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7"
         }
       ],
-      "duration_ms": 270856,
-      "name": "Do You Love",
-      "url": "https://open.spotify.com/track/7IUv36NL5erXotT7sTQ5MD"
+      "duration_ms": 147466,
+      "name": "The One Who Really Loves You - Single Version",
+      "url": "https://open.spotify.com/track/4M732X5J2BE6M8VIHHfxMx"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -951,6 +931,26 @@
       "duration_ms": 177946,
       "name": "I Do Love You",
       "url": "https://open.spotify.com/track/3J0VYipa6lrdBkjLM7j4iI"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
+        "name": "Do You Love",
+        "url": "https://open.spotify.com/album/7gs58h7gcR2HL5tlFC3YT7"
+      },
+      "artists": [
+        {
+          "name": "Trish Toledo",
+          "url": "https://open.spotify.com/artist/2ZZZ8cXLBRgiH6fiwaA0Ah"
+        },
+        {
+          "name": "Baby Bash",
+          "url": "https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7"
+        }
+      ],
+      "duration_ms": 270856,
+      "name": "Do You Love",
+      "url": "https://open.spotify.com/track/7IUv36NL5erXotT7sTQ5MD"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
-        "name": "Cameo Parkway Pop And Soul Gems Of 1966 Vol. 4",
-        "url": "https://open.spotify.com/album/4tC2jbwoK0pWAysK4W8Xt8"
-      },
-      "artists": [
-        {
-          "name": "Sunny Ozuna And Sunliners",
-          "url": "https://open.spotify.com/artist/2OJ8svFeHnPIaGZCW6Zc69"
-        }
-      ],
-      "duration_ms": 120800,
-      "name": "Smile Now, Cry Later",
-      "url": "https://open.spotify.com/track/0jkpPohHndqJFpcOmRr5MF"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
         "name": "Greatest Slow Jams",
         "url": "https://open.spotify.com/album/0zMWHOjYyuv41k1Aw7Logw"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 198946,
       "name": "The Town I Live In",
       "url": "https://open.spotify.com/track/4vGzFH1JVhQTkTCidx2pnE"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
+        "name": "Cameo Parkway Pop And Soul Gems Of 1966 Vol. 4",
+        "url": "https://open.spotify.com/album/4tC2jbwoK0pWAysK4W8Xt8"
+      },
+      "artists": [
+        {
+          "name": "Sunny Ozuna And Sunliners",
+          "url": "https://open.spotify.com/artist/2OJ8svFeHnPIaGZCW6Zc69"
+        }
+      ],
+      "duration_ms": 120800,
+      "name": "Smile Now, Cry Later",
+      "url": "https://open.spotify.com/track/0jkpPohHndqJFpcOmRr5MF"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -1775,26 +1775,6 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
-        "name": "Takin' All My Lovin'",
-        "url": "https://open.spotify.com/album/2uwY4YqgyxMimWaTo1KUsC"
-      },
-      "artists": [
-        {
-          "name": "Mikey Jimenez",
-          "url": "https://open.spotify.com/artist/0DgdXuxVB3yXP5U54WZvSL"
-        },
-        {
-          "name": "Baby Bash",
-          "url": "https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7"
-        }
-      ],
-      "duration_ms": 207920,
-      "name": "Takin' All My Lovin'",
-      "url": "https://open.spotify.com/track/5L4FLTgwJtV8teoPKIrzc7"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
         "name": "Dedicated to the Ones I Love, Vol. 2",
         "url": "https://open.spotify.com/album/136641IlsqgJbCADEqlwqp"
       },
@@ -1823,6 +1803,26 @@
       "duration_ms": 414333,
       "name": "Confessin a Feeling",
       "url": "https://open.spotify.com/track/07UmYkMtFFDzvAaEHrmpis"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
+        "name": "Takin' All My Lovin'",
+        "url": "https://open.spotify.com/album/2uwY4YqgyxMimWaTo1KUsC"
+      },
+      "artists": [
+        {
+          "name": "Mikey Jimenez",
+          "url": "https://open.spotify.com/artist/0DgdXuxVB3yXP5U54WZvSL"
+        },
+        {
+          "name": "Baby Bash",
+          "url": "https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7"
+        }
+      ],
+      "duration_ms": 207920,
+      "name": "Takin' All My Lovin'",
+      "url": "https://open.spotify.com/track/5L4FLTgwJtV8teoPKIrzc7"
     },
     {
       "added_at": "2024-01-05 17:02:31",

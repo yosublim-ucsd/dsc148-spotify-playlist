@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DWVCuOatqCW5M.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVCuOatqCW5M) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVCuOatqCW5M)
 
-### [New Music Friday Hindi ](https://open.spotify.com/playlist/37i9dQZF1DWVCuOatqCW5M)
+### [New Music Friday I\-Pop ](https://open.spotify.com/playlist/37i9dQZF1DWVCuOatqCW5M)
 
-> New music from popular Hindi artists\. Cover\- Arjuna Harjai
+> Latest music from your fav I\-Pop artists\. Cover\- Arjuna Harjai
 
 1,050 songs - 2 day 12 hr 20 min
 

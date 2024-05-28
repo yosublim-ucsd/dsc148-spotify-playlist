@@ -4,7 +4,7 @@
 
 > 再び脚光を浴びる日本のシティ・ポップの今をお届けします。
 
-829 songs - 2 day 6 hr 35 min
+830 songs - 2 day 6 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -376,7 +376,7 @@
 | [Rainy Talk \- Shady Monk Remix](https://open.spotify.com/track/1QEwfkBc0QByf0SGR0Qwww) | [evening cinema](https://open.spotify.com/artist/6NQ3DibpWMigY2cXJr9KYv), [Shady Monk](https://open.spotify.com/artist/5oagHUnrrs68cnBmXa3UB8) | [Rainy Talk Remixies](https://open.spotify.com/album/53INaaiMjGDFlTs9S19Xzr) | 3:40 | 2023-01-17 | 2023-01-25 |
 | [Ravel](https://open.spotify.com/track/4LGHishH8X6vGpF58Y8PCd) | [androp](https://open.spotify.com/artist/7n437ZdDaCzqjJDJ7WmbyX) | [fab](https://open.spotify.com/album/7iCqvrw9Nrvh2199sUwzzT) | 3:39 | 2022-12-13 | 2024-04-13 |
 | [READY](https://open.spotify.com/track/5oXVRN6QDQCXRnKeR1NAXm) | [MONONKVL](https://open.spotify.com/artist/74wEL751mFGO8riAZadLmM) | [READY](https://open.spotify.com/album/00uQzIjKyIV5GEzBXIb5Os) | 3:47 | 2022-10-06 | 2023-08-02 |
-| [Regrets](https://open.spotify.com/track/0Yy5CsuOOZoRdRI98JOMpS) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [Regrets](https://open.spotify.com/album/0NHlP5m9h1M40a652X1se5) | 4:25 | 2023-09-12 |  |
+| [Regrets](https://open.spotify.com/track/0Yy5CsuOOZoRdRI98JOMpS) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [Regrets](https://open.spotify.com/album/0NHlP5m9h1M40a652X1se5) | 4:25 | 2023-09-12 | 2024-05-28 |
 | [Remember me](https://open.spotify.com/track/02cpMqOFhYCBFcOf8u2V8P) | [peeto](https://open.spotify.com/artist/2o7CvH7hLj3c3XbkFmnLXA) | [Remember me](https://open.spotify.com/album/1OQlchkVRwfKlCg02KEtSA) | 4:46 | 2022-08-09 | 2022-08-17 |
 | [Remember Summer Days](https://open.spotify.com/track/1qUo7d5lAOclNVbTUY0A2R) | [Anri](https://open.spotify.com/artist/0xGtOrmB2hnrNRLG3vhpSo) | [Timely!!](https://open.spotify.com/album/3OvZYx7AAGplmJjwD29JiV) | 4:55 | 2023-07-18 |  |
 | [Rendezvous](https://open.spotify.com/track/1RCZ3cqpzj1CUSfXljYcLe) | [Yoko Kuzuya](https://open.spotify.com/artist/4npBbWR9zhm8hXabjjigvt) | [Rendezvous](https://open.spotify.com/album/6bR1ncEiqAvSk0LysPD7yQ) | 4:43 | 2022-11-22 | 2023-04-17 |
@@ -468,6 +468,7 @@
 | [SUMMER NUDE](https://open.spotify.com/track/7l9onEdVYUK5RPh5TxTSSF) | [POP ART TOWN](https://open.spotify.com/artist/6nu39YK7u99qv6JdygWuxG) | [SUMMER NUDE](https://open.spotify.com/album/0cDZaBapsWJWOsfAjxK9ah) | 5:21 | 2022-06-28 | 2022-07-28 |
 | [SUMMER SUNDAY SMILE](https://open.spotify.com/track/2kiAazf1PebCp7zLTmvXTr) | [Hideki Kaji](https://open.spotify.com/artist/3k4ycHN6hzulnvkSe5IOTf) | [SUMMER SUNDAY SMILE](https://open.spotify.com/album/4dLoKqs1Ps94cjSxlGoLNH) | 3:49 | 2022-07-27 | 2022-07-29 |
 | [SUMMER SUSPICION](https://open.spotify.com/track/45b2Zm0Q9CoCIcVeVrTmSh) | [GOOD BYE APRIL](https://open.spotify.com/artist/39dx9cIjJILxA81LkcPf38) | [SUMMER SUSPICION](https://open.spotify.com/album/1f0Pftt3eC8wMl8lk1yd7H) | 4:45 | 2023-11-10 | 2023-11-23 |
+| [Summertime](https://open.spotify.com/track/4zom3juvWLaceP0ycQ5VJe) | [Blu\-Swing](https://open.spotify.com/artist/3dKCIyXK94LWUnyvD8LepD) | [Summertime](https://open.spotify.com/album/27RgQppywnA3wRIVPdaad5) | 4:16 | 2024-05-23 |  |
 | [Sunday Cruisin'](https://open.spotify.com/track/6PqeczYy3ZEvRwYPUK3tk6) | [Funkindustry](https://open.spotify.com/artist/0QYdME0a29bLqdSqKaprOX), [JiLL\-Decoy association](https://open.spotify.com/artist/4j0lMBCAWtaFqEboLZp8Xe) | [Sunday Cruisin'](https://open.spotify.com/album/1yhQHrMfcwUcblVzmsTqAR) | 4:00 | 2023-05-04 | 2023-05-17 |
 | [Sunny](https://open.spotify.com/track/2IyEK9FhWzs3zYqHDPtuYW) | [Keishi Tanaka](https://open.spotify.com/artist/5G0ElMmupqds9jeahi6BSK) | [Sunny](https://open.spotify.com/album/31XiYM9tE4DklMPthDKrAq) | 4:17 | 2022-06-07 | 2022-07-25 |
 | [SUNNY WAVES](https://open.spotify.com/track/34W3u0FE85DKi5CmHnpEK1) | [TAIKING](https://open.spotify.com/artist/5HLC9fMLoFX5wSst6we011) | [SUNNY WAVES](https://open.spotify.com/album/75PqNBTeA11HIqY23H0hkv) | 3:25 | 2023-08-01 | 2023-11-18 |

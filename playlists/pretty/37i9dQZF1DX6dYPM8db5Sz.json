@@ -1,6 +1,6 @@
 {
   "description": "The best Indie sounds from South Africa and beyond. Cover: <a href=\"https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq?si=NdIV3Kp-QyO-UAWrO8HYSg\">Msaki</a> & <a href=\"https://open.spotify.com/artist/1eraeBfwU1RwFj6LszJT65?si=u9zvdS60RAeLgx1DWreprw\">Tubatsi Mpho Moloi</a>",
-  "num_followers": 11563,
+  "num_followers": 11565,
   "original_name": "Indie GO",
   "owner": {
     "name": "Spotify",
@@ -591,22 +591,6 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "Saviour Complex",
-        "url": "https://open.spotify.com/album/0o8UXLj1ZRLUTXVeCIh0V1"
-      },
-      "artists": [
-        {
-          "name": "Yellow House",
-          "url": "https://open.spotify.com/artist/2jAzx88tHo3KNYauXANisl"
-        }
-      ],
-      "duration_ms": 193333,
-      "name": "Saviour Complex",
-      "url": "https://open.spotify.com/track/1j2ULumv0PlrpUXvoBsb4G"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
         "name": "Miss You",
         "url": "https://open.spotify.com/album/6gqySHl4zPpgNOcxg9Usdj"
       },
@@ -623,18 +607,18 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "Hollow",
-        "url": "https://open.spotify.com/album/7gQky4elzyKHb9hLax9poM"
+        "name": "Saviour Complex",
+        "url": "https://open.spotify.com/album/0o8UXLj1ZRLUTXVeCIh0V1"
       },
       "artists": [
         {
-          "name": "We Are All Fossils",
-          "url": "https://open.spotify.com/artist/15vQbVx84dPqYBWX2XK8kw"
+          "name": "Yellow House",
+          "url": "https://open.spotify.com/artist/2jAzx88tHo3KNYauXANisl"
         }
       ],
-      "duration_ms": 187018,
-      "name": "Hollow",
-      "url": "https://open.spotify.com/track/1lUany9gir3JNqywMxvSVy"
+      "duration_ms": 193333,
+      "name": "Saviour Complex",
+      "url": "https://open.spotify.com/track/1j2ULumv0PlrpUXvoBsb4G"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -655,38 +639,18 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "Nyoni Yami",
-        "url": "https://open.spotify.com/album/1U2hqgPgcpntPLQyYnBxUy"
+        "name": "Hollow",
+        "url": "https://open.spotify.com/album/7gQky4elzyKHb9hLax9poM"
       },
       "artists": [
         {
-          "name": "Jabulile Majola",
-          "url": "https://open.spotify.com/artist/7hGWdecNt4fPrcIEAVf3AF"
-        },
-        {
-          "name": "Yoav",
-          "url": "https://open.spotify.com/artist/2TUFDVa7aZJ4O9U0qjrSJH"
+          "name": "We Are All Fossils",
+          "url": "https://open.spotify.com/artist/15vQbVx84dPqYBWX2XK8kw"
         }
       ],
-      "duration_ms": 212500,
-      "name": "Nyoni Yami",
-      "url": "https://open.spotify.com/track/1hO7XxOmMRAo3gj2UYqqEg"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
-        "name": "Holding On To You",
-        "url": "https://open.spotify.com/album/7EPsqTKceMEh9IE4DPjggo"
-      },
-      "artists": [
-        {
-          "name": "Justin Lee",
-          "url": "https://open.spotify.com/artist/5lSVCLx0jJ09fPhHS2fRTQ"
-        }
-      ],
-      "duration_ms": 154793,
-      "name": "Holding On To You",
-      "url": "https://open.spotify.com/track/7eUpf4w7JE323DhRnjIysS"
+      "duration_ms": 187018,
+      "name": "Hollow",
+      "url": "https://open.spotify.com/track/1lUany9gir3JNqywMxvSVy"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -707,6 +671,42 @@
       "duration_ms": 193825,
       "name": "Okay",
       "url": "https://open.spotify.com/track/2clElTsD1qOztIwI9CuJvu"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
+        "name": "Holding On To You",
+        "url": "https://open.spotify.com/album/7EPsqTKceMEh9IE4DPjggo"
+      },
+      "artists": [
+        {
+          "name": "Justin Lee",
+          "url": "https://open.spotify.com/artist/5lSVCLx0jJ09fPhHS2fRTQ"
+        }
+      ],
+      "duration_ms": 154793,
+      "name": "Holding On To You",
+      "url": "https://open.spotify.com/track/7eUpf4w7JE323DhRnjIysS"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
+        "name": "Nyoni Yami",
+        "url": "https://open.spotify.com/album/1U2hqgPgcpntPLQyYnBxUy"
+      },
+      "artists": [
+        {
+          "name": "Jabulile Majola",
+          "url": "https://open.spotify.com/artist/7hGWdecNt4fPrcIEAVf3AF"
+        },
+        {
+          "name": "Yoav",
+          "url": "https://open.spotify.com/artist/2TUFDVa7aZJ4O9U0qjrSJH"
+        }
+      ],
+      "duration_ms": 212500,
+      "name": "Nyoni Yami",
+      "url": "https://open.spotify.com/track/1hO7XxOmMRAo3gj2UYqqEg"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -759,22 +759,18 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "Platinumb Heart Open",
-        "url": "https://open.spotify.com/album/22FziGbftNET7IBUj4IFdP"
+        "name": "Growing Up",
+        "url": "https://open.spotify.com/album/3Gs9W1xPFA4c83QUnppYKw"
       },
       "artists": [
         {
-          "name": "Msaki",
-          "url": "https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq"
-        },
-        {
-          "name": "Beatenberg",
-          "url": "https://open.spotify.com/artist/3S9sb8w9r1iojdrAL1soiU"
+          "name": "ZUBIN",
+          "url": "https://open.spotify.com/artist/5kpmKrfmZQ8fRbEpQVAy1E"
         }
       ],
-      "duration_ms": 248500,
-      "name": "White Shadow",
-      "url": "https://open.spotify.com/track/3Xlu89nWr1l6cakQu2BEov"
+      "duration_ms": 157834,
+      "name": "Growing Up",
+      "url": "https://open.spotify.com/track/1xnEyIV7tGENTcJ1NhaBWz"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -795,6 +791,26 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
+        "name": "Platinumb Heart Open",
+        "url": "https://open.spotify.com/album/22FziGbftNET7IBUj4IFdP"
+      },
+      "artists": [
+        {
+          "name": "Msaki",
+          "url": "https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq"
+        },
+        {
+          "name": "Beatenberg",
+          "url": "https://open.spotify.com/artist/3S9sb8w9r1iojdrAL1soiU"
+        }
+      ],
+      "duration_ms": 248500,
+      "name": "White Shadow",
+      "url": "https://open.spotify.com/track/3Xlu89nWr1l6cakQu2BEov"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
         "name": "Written In The Stars",
         "url": "https://open.spotify.com/album/75tepfildppNN5jqkBcEBc"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 218076,
       "name": "Written In The Stars",
       "url": "https://open.spotify.com/track/3arW9nlgAquoBjZnVZmqlI"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
-        "name": "Growing Up",
-        "url": "https://open.spotify.com/album/3Gs9W1xPFA4c83QUnppYKw"
-      },
-      "artists": [
-        {
-          "name": "ZUBIN",
-          "url": "https://open.spotify.com/artist/5kpmKrfmZQ8fRbEpQVAy1E"
-        }
-      ],
-      "duration_ms": 157834,
-      "name": "Growing Up",
-      "url": "https://open.spotify.com/track/1xnEyIV7tGENTcJ1NhaBWz"
     },
     {
       "added_at": "2024-05-23 22:00:00",

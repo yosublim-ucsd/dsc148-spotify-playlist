@@ -4,7 +4,7 @@
 
 > Hypnotic melodic <a href="spotify:genre:house">house</a> and <a href="spotify:genre:techno">techno</a> to light up the night.
 
-672 songs - 2 day 14 hr 2 min
+673 songs - 2 day 14 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [A Time To](https://open.spotify.com/track/4UiwDnk0riQvDpoNJFAfME) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq) | [A Time To](https://open.spotify.com/album/3BQgR0hDgi4uPaQ31siV83) | 3:51 | 2022-04-22 | 2023-09-30 |
 | [A380](https://open.spotify.com/track/2f7oUjeoSNw64PRWEdGi5S) | [Hernan Cattaneo](https://open.spotify.com/artist/4mpJaw5y17CIN08qqe8EfB), [Mercurio](https://open.spotify.com/artist/4J8apBMaUX5Ofyn2dbbpxG) | [A380](https://open.spotify.com/album/24SZgEw38GafDdGtQUdy1f) | 4:46 | 2022-05-27 | 2024-03-27 |
 | [About My Dreams](https://open.spotify.com/track/0esqnRo6slUc3hjqppnVAn) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [About My Dreams](https://open.spotify.com/album/5IQWTaU7T5EQk6zzQZZfod) | 5:20 | 2022-07-01 | 2022-12-17 |
+| [Abracadabra](https://open.spotify.com/track/38iiZkYYXMHRPwUruuYD0X) | [Xinobi](https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m) | [Abracadabra](https://open.spotify.com/album/06aF9kSXXoUiuN7nSX4u8o) | 3:21 | 2024-05-24 |  |
 | [AfriKa2](https://open.spotify.com/track/5s7VoXTBBdrqaJdTQWGhRE) | [Ka2](https://open.spotify.com/artist/29f8h7eSlWQAUyfjkdOUGe) | [AfriKa2](https://open.spotify.com/album/4YgJK9AH2g2A4eHaiTX3wi) | 6:07 | 2023-04-21 | 2023-05-03 |
 | [After Glow](https://open.spotify.com/track/7EukyOmsxbTvdaCAxlaSF0) | [Clarian](https://open.spotify.com/artist/2polW59xyLfTDB4E5Ig7Xa) | [After Glow](https://open.spotify.com/album/5hVnONvAlyPC01bq90TvL8) | 8:41 | 2021-07-02 | 2022-07-27 |
 | [Aguacero](https://open.spotify.com/track/0KCXPIaGPL1du07EW1MPVU) | [Sebjak](https://open.spotify.com/artist/4WaTBVJBxGQ71Ch0swa8DA) | [Aguacero](https://open.spotify.com/album/41Vp1IJHY3bHf6YS1Lc6gF) | 6:42 | 2022-07-01 | 2023-09-30 |
@@ -353,7 +354,7 @@
 | [Lovesong](https://open.spotify.com/track/50KLPfmEn6dFFVpuM1VycK) | [Super Flu](https://open.spotify.com/artist/1iZiG82D4w7FLHvOUUj4zW) | [Lovesong](https://open.spotify.com/album/5epevNSjLdCBYEQB0YGDjd) | 3:40 | 2024-04-26 |  |
 | [Luciernagas](https://open.spotify.com/track/2SHbl5MEmDxbXsG0QdDlc0) | [Barrio Lindo](https://open.spotify.com/artist/6AHDMBhI1OTokvO5DkBB9p) | [Fulgor](https://open.spotify.com/album/3dTBQ3DeErJkq1m1M64aCz) | 5:56 | 2021-04-21 | 2022-07-27 |
 | [Luma \- Tim Engelhardt Remix](https://open.spotify.com/track/5FxwIddNBkGhTTCGpkwJMr) | [MOLØ](https://open.spotify.com/artist/29k6IUtkDp9ErAaJrh1Tlg), [Tim Engelhardt](https://open.spotify.com/artist/74HdscE6G74tt01dbVZULE) | [Luma EP \- Reimagined](https://open.spotify.com/album/2RjSKeDGxZsk8mZvQqPfqr) | 7:37 | 2022-07-08 | 2022-07-12 |
-| [Luminesce](https://open.spotify.com/track/0st9uOHm2Vw345UJKzdvRX) | [Depart](https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy) | [Luminesce](https://open.spotify.com/album/6hyuN6LrgmQhcDlgILc2EB) | 4:39 | 2024-04-19 |  |
+| [Luminesce](https://open.spotify.com/track/0st9uOHm2Vw345UJKzdvRX) | [Depart](https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy) | [Luminesce](https://open.spotify.com/album/6hyuN6LrgmQhcDlgILc2EB) | 4:39 | 2024-04-19 | 2024-05-28 |
 | [Luna Love](https://open.spotify.com/track/0NawKK9pbi1hDWl0i3Eo7A) | [Tripolism](https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp), [Rosa Lee Luna](https://open.spotify.com/artist/4MlvtEvliivbWOQV9Q2CfD) | [Luna Love](https://open.spotify.com/album/5qDyPsc30jRYLHYtVOkSVV) | 3:27 | 2024-04-19 | 2024-05-18 |
 | [Lune](https://open.spotify.com/track/0KsoAc21eXJiDaccgoo8A3) | [Tim Green](https://open.spotify.com/artist/68vO4fkFxLbWPxTSHosxsB) | [Eastbound Silhouette](https://open.spotify.com/album/7CgB2RVayWXcMSd3cv0gOa) | 9:27 | 2022-10-14 | 2023-11-06 |
 | [Lune](https://open.spotify.com/track/1oKsE0srIjDkWCtwPTB6TJ) | [Tim Green](https://open.spotify.com/artist/68vO4fkFxLbWPxTSHosxsB) | [Lune](https://open.spotify.com/album/0XFcO1WYiomvBUxvEF0eN6) | 9:27 | 2022-10-14 | 2022-10-30 |

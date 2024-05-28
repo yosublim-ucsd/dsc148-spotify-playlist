@@ -4,7 +4,7 @@
 
 > What Will the 2024 Song of the Summer Be!? Find out with the perfect soundtrack for the sweatiest season! A predicttion playlist that also Includes Summer 2023 edition &amp; bonus tracks.
 
-3,373 songs - 7 day 23 hr 9 min
+3,374 songs - 7 day 23 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -335,7 +335,7 @@
 | [Better Than This](https://open.spotify.com/track/72QD8GncVMD1DdHOtTjDM5) | [Calista Del Toro](https://open.spotify.com/artist/2AdpTsL9U2vslmS8y7XXtc) | [Better Than This](https://open.spotify.com/album/5fvNHqH5OcWu55dUAi03qP) | 2:44 | 2021-10-01 | 2021-10-20 |
 | [Between the Lines feat\. ZOF \- Late Night Edit](https://open.spotify.com/track/55h5cffa2fXzFZ495SsXwQ) | [ZOF](https://open.spotify.com/artist/31ZEegh9kQpn4W6L9efEV5), [UZEF](https://open.spotify.com/artist/2D0AjD2YwbgEM2AN9lD721) | [Between the Lines](https://open.spotify.com/album/6qxlgNmrn1SB1AN6KAS80A) | 5:58 | 2021-03-26 | 2021-04-11 |
 | [Bien Me Sabe](https://open.spotify.com/track/5gcRmpYXejRJF4wum0pOcQ) | [Guido Valdellora](https://open.spotify.com/artist/3Gdqh1Q3CJlXw0GAVi3L5r) | [Ciervos de Japón](https://open.spotify.com/album/5DIMYG6sl1glO79kcw2Kl9) | 3:35 | 2023-08-27 | 2023-09-26 |
-| [Big Enough](https://open.spotify.com/track/78xz2rRKLmTm8m9A0vuNlY) | [Estella Dawn](https://open.spotify.com/artist/00SIMc8XBD6NezPkMpkMcL) | [Big Enough](https://open.spotify.com/album/40ocB2weSwBb8pinZSiBCp) | 2:57 | 2024-05-16 |  |
+| [Big Enough](https://open.spotify.com/track/78xz2rRKLmTm8m9A0vuNlY) | [Estella Dawn](https://open.spotify.com/artist/00SIMc8XBD6NezPkMpkMcL) | [Big Enough](https://open.spotify.com/album/40ocB2weSwBb8pinZSiBCp) | 2:57 | 2024-05-16 | 2024-05-28 |
 | [Big House Small](https://open.spotify.com/track/3p4IU21EWccpUNati2sVHT) | [ellee ven](https://open.spotify.com/artist/68W5IWYUEsW0ahQS7LPp9x), [Prodéje](https://open.spotify.com/artist/0WUZY9y7pD32XT7vDZKslp) | [Big House Small](https://open.spotify.com/album/1tvnj9Ld404EG272mR5kJz) | 2:45 | 2020-05-25 | 2020-06-10 |
 | [Big Water](https://open.spotify.com/track/1ow6PUvjwc6zjxF0YSoob3) | [Noah Solt](https://open.spotify.com/artist/3ahNmULLhWIi6zVFJl2MYp) | [Big Water](https://open.spotify.com/album/3zRfydNvex5puF6Oep9hcB) | 3:28 | 2024-05-17 |  |
 | [BIGGER THAN YOU](https://open.spotify.com/track/4T6lbvUqZyp29NbiRwzIUY) | [MICALL](https://open.spotify.com/artist/2xrLmzMaMHtiTA0B5uh9yN) | [BIGGER THAN YOU](https://open.spotify.com/album/6aSgPbYBzNcYITV6KH8Atq) | 3:56 | 2023-02-27 | 2024-02-01 |
@@ -1574,6 +1574,7 @@
 | [Keep Pushin On](https://open.spotify.com/track/1TbSCZCKLm0bfXy2ztzB9y) | [Txrx](https://open.spotify.com/artist/2nDLNhzEst2Mrg3xtwYrQG) | [Keep Pushin On](https://open.spotify.com/album/0TEtHArIo2mLnLJOWD2k8S) | 3:37 | 2023-09-22 | 2023-12-14 |
 | [Keep Tell'n Myself](https://open.spotify.com/track/0c98MR80N4dhEJCIpUxwjW) | [Cannon](https://open.spotify.com/artist/2LUHnk0ur9oay79pq3tapM) | [Keep Tell'n Myself](https://open.spotify.com/album/4RJfEHSpw4A8ZNkr0B9wO6) | 4:51 | 2024-03-20 | 2024-03-28 |
 | [Keep Workin](https://open.spotify.com/track/5760tUZ1fr0WjiHbWAJ8a9) | [Pako Paul](https://open.spotify.com/artist/5Dgen7mQbFD6oKsIZvW4L9) | [Keep Workin](https://open.spotify.com/album/5pMD3Z7so3tuYsvw5Oi8ms) | 5:26 | 2024-04-27 | 2024-05-12 |
+| [KEEP YOU ALIVE](https://open.spotify.com/track/0vEJvcZZyFwluMDCB8f3t2) | [Teaz](https://open.spotify.com/artist/4hny1VPTtilxNkCfoZcd51) | [KEEP YOU ALIVE](https://open.spotify.com/album/2FQhm8Sgx9Kk59vBO7dqn7) | 2:25 | 2024-05-27 |  |
 | [Keep Your Love](https://open.spotify.com/track/6BASU8IzFwmzPkY93XAVtN) | [Heartbreak Alumni](https://open.spotify.com/artist/6QbXh7Nic9jfoK6d8dyZTg) | [Keep Your Love](https://open.spotify.com/album/52fldAr5EdJAorVRvnISvZ) | 2:58 | 2022-12-23 | 2023-01-14 |
 | [Keeps Me Guessing](https://open.spotify.com/track/1FKha6DEm745tr536ZuSey) | [ØZWALD](https://open.spotify.com/artist/7pwk3M6iETEiAFLwqkgLrk), [Lonely Benson](https://open.spotify.com/artist/5YNnmXnEEEJM0ArqHDSyET) | [Keeps Me Guessing](https://open.spotify.com/album/4ofySYakPotKDB0g1DP4WM) | 3:31 | 2021-11-07 | 2021-11-21 |
 | [Kehlani](https://open.spotify.com/track/1XNW3iesmPF1jzMwk8qPFb) | [BermudaCal](https://open.spotify.com/artist/1BHU89zsoM7o7cGwAeDihP) | [Kehlani](https://open.spotify.com/album/3efdKUREGX2ESbwvMHZvjb) | 3:36 | 2022-02-25 | 2022-03-14 |
@@ -2858,7 +2859,7 @@
 | [Tell Me, Tell Me](https://open.spotify.com/track/0RG7Q9LdBk5pGqtwmzOckd) | [Soulah the Legend](https://open.spotify.com/artist/4eSjv2NrpwpUEbtVUJc4QA) | [Tell Me, Tell Me](https://open.spotify.com/album/0Zd09ukj28is6KgjNdbw60) | 3:14 | 2024-03-02 | 2024-03-15 |
 | [Tell Ya](https://open.spotify.com/track/6Mh6YLXeJ7BvWPa0L4PZpP) | [dezabel](https://open.spotify.com/artist/02qYPfeUvEdhSqLG8ercxJ) | [Tell Ya](https://open.spotify.com/album/25zd75rdUhzNFlbaB11Wb4) | 3:23 | 2020-12-06 | 2021-01-02 |
 | [Tempo](https://open.spotify.com/track/0EpF9ueIy6tG0cnk0r3HXf) | [Lankford](https://open.spotify.com/artist/0RQHBhCCqqXhR9g8w7YIo5), [Tony Cardinal](https://open.spotify.com/artist/5pPrK8OjAUiZH4ELm9EiA7) | [Love With Passion](https://open.spotify.com/album/5Qea1xLvKysoNFUbviBGeu) | 3:08 | 2022-03-04 | 2022-03-26 |
-| [Temporary](https://open.spotify.com/track/039suc1FS4joXbQQ2lNHwm) | [Lyhz](https://open.spotify.com/artist/4HN8sFJ3bvBen9YJ60uvpG) | [Temporary](https://open.spotify.com/album/4aqJZqDK2QVjXw0v87q4my) | 2:30 | 2024-05-16 |  |
+| [Temporary](https://open.spotify.com/track/039suc1FS4joXbQQ2lNHwm) | [Lyhz](https://open.spotify.com/artist/4HN8sFJ3bvBen9YJ60uvpG) | [Temporary](https://open.spotify.com/album/4aqJZqDK2QVjXw0v87q4my) | 2:30 | 2024-05-16 | 2024-05-28 |
 | [Tempted](https://open.spotify.com/track/1qmoBuSioVcdk6PzpomMMg) | [J'calm](https://open.spotify.com/artist/2i6VWRGP6MLsPpKPRTRMkY) | [Tempted](https://open.spotify.com/album/6ZdcLaw49AqQttCIJyQNRM) | 3:13 | 2023-07-20 |  |
 | [Tempted \- Westyle Remix](https://open.spotify.com/track/6M5J2fr71vdd8x88rmWxiJ) | [HU3M3N](https://open.spotify.com/artist/7IOcEnP1ul7jQt4GSAHxTO), [The Anix](https://open.spotify.com/artist/6nFvVbL2RN5czSm7NZjE51) | [Tempted \(Westyle Remix\)](https://open.spotify.com/album/0zs6MeThgDrINDfteoWbiw) | 3:44 | 2024-01-21 | 2024-02-01 |
 | [Ten More Times \- Acoustic](https://open.spotify.com/track/1JFDG2qX6CeARf0j0KAqtn) | [Marco Gray](https://open.spotify.com/artist/7ISvf2NC4h5VVIitx7xYNw) | [Ten More Times \(Acoustic\)](https://open.spotify.com/album/0mkGxlJthPrZSiGjW3DScO) | 4:29 | 2021-03-26 | 2021-04-11 |

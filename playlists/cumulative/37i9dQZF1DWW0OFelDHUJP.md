@@ -4,7 +4,7 @@
 
 > Chai, Baarish and some Indie tunes to accompany you!
 
-87 songs - 5 hr 46 min
+88 songs - 5 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Muddat](https://open.spotify.com/track/7rgQx9d0qj0tgRGuhq4Fca) | [Bharat Chauhan](https://open.spotify.com/artist/2sSTjTnRtGa3KrEjMoMaAe) | [Muddat \- Single](https://open.spotify.com/album/7D7ZXah36bBSJ6Z0goU5uE) | 4:14 | 2023-05-09 |  |
 | [Nadiya ke Paar](https://open.spotify.com/track/6zLgriAnEQF3amTmNkQSIK) | [Swastik The Band](https://open.spotify.com/artist/740SYcL7Hl2TatDM2wYV8V) | [Avasa](https://open.spotify.com/album/07iHCQyQ69gc8c13fdmqhh) | 6:39 | 2023-05-09 |  |
 | [O Sanam](https://open.spotify.com/track/5oYRr51VatOtkFeEOursuZ) | [Lucky Ali](https://open.spotify.com/artist/2L16nDKTxhFGaDriR2AHTB) | [Sunoh](https://open.spotify.com/album/54mRGBCsNzGVGhVPenUnvt) | 3:43 | 2023-05-09 |  |
+| [O Yaara](https://open.spotify.com/track/2lp1Tsn8H6mq0bzXgOeLHY) | [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1), [Kaavish](https://open.spotify.com/artist/6znPk9JRNmg6uyB6h8nJu3) | [O Yaara](https://open.spotify.com/album/1X6DbsKiPHQycPTlxNamUS) | 4:36 | 2024-05-27 |  |
 | [Paani](https://open.spotify.com/track/3MQCWVCuzdoP9M6aeXtRT6) | [Rohan Kamath](https://open.spotify.com/artist/2Ni9NexOwtEehPqRXNSdlM) | [Paani](https://open.spotify.com/album/1bp4sHm3BL0qRy9dP8nCwG) | 3:13 | 2023-05-09 |  |
 | [Pal Behta Jaaye](https://open.spotify.com/track/0fIbPMXnTdyuW2UirA9mWQ) | [Vismay Patel](https://open.spotify.com/artist/43jHbOAD9UtOEO1la8CVHs) | [Pal Behta Jaaye](https://open.spotify.com/album/0TGb91XBYJ9BZbFpgyNMjc) | 2:54 | 2023-05-09 |  |
 | [Parey](https://open.spotify.com/track/1BObV7e3Lh1Rq4sDB40SFc) | [Samar Mehdi](https://open.spotify.com/artist/0kn5e77RPjL0jdsLYcN4rN) | [Urooj](https://open.spotify.com/album/0N0gibm8oNYXGgMlGYLDWa) | 6:45 | 2024-03-28 |  |

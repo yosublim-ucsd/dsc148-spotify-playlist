@@ -1,12 +1,12 @@
 {
-  "description": "This Is Los Rieleros Del Norte. Los temas esenciales, todos en una lista.",
-  "num_followers": 56343,
+  "description": "This is Los Rieleros Del Norte. The essential tracks, all in one playlist.",
+  "num_followers": 56361,
   "original_name": "This Is Los Rieleros Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlEqAAAAAADSFljzMCIXAR6YF1JvTkRz",
+  "snapshot_id": "ZlJ7gAAAAABcDl6b57yddvD2MAcv+BjE",
   "tracks": [
     {
       "added_at": null,
@@ -507,8 +507,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "20 Exitos Cl\u00e1sicos",
-        "url": "https://open.spotify.com/album/61Iq2EMTDlr83Q5Smgbh1Y"
+        "name": "Sobre Los Rieles",
+        "url": "https://open.spotify.com/album/2oMobAHjCHpW7yu5UuPsRS"
       },
       "artists": [
         {
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
         }
       ],
-      "duration_ms": 202840,
-      "name": "Para Qu\u00e9 Quieres Que Vuelva",
-      "url": "https://open.spotify.com/track/27WMmlAzzcQzj0IPrcXX4O"
+      "duration_ms": 162560,
+      "name": "Estabas Tan Linda",
+      "url": "https://open.spotify.com/track/389TrubBy5SMAcb3SK8nkj"
     },
     {
       "added_at": null,
@@ -539,8 +539,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sobre Los Rieles",
-        "url": "https://open.spotify.com/album/2oMobAHjCHpW7yu5UuPsRS"
+        "name": "20 Exitos Cl\u00e1sicos",
+        "url": "https://open.spotify.com/album/61Iq2EMTDlr83Q5Smgbh1Y"
       },
       "artists": [
         {
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
         }
       ],
-      "duration_ms": 162560,
-      "name": "Estabas Tan Linda",
-      "url": "https://open.spotify.com/track/389TrubBy5SMAcb3SK8nkj"
+      "duration_ms": 202840,
+      "name": "Para Qu\u00e9 Quieres Que Vuelva",
+      "url": "https://open.spotify.com/track/27WMmlAzzcQzj0IPrcXX4O"
     },
     {
       "added_at": null,

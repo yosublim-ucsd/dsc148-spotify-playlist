@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAACw+suCdF68GVE7K01sesCO",
+  "snapshot_id": "AAAAAAAAAABWztFFL/gu7Qp9mE67NJPK",
   "tracks": [
     {
       "added_at": "2024-05-24 04:00:00",
@@ -28,9 +28,25 @@
           "url": "https://open.spotify.com/artist/6xTTIh4uHGvswk0mUi9GJ4"
         }
       ],
-      "duration_ms": 140722,
-      "name": "Twisting Sight",
-      "url": "https://open.spotify.com/track/1bjs1A0Mndr8YtGsTaxWcY"
+      "duration_ms": 145262,
+      "name": "Literal Wisdom",
+      "url": "https://open.spotify.com/track/0UBd65RGAfaNotJi3WhgxH"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Perfume Of The Timeless",
+        "url": "https://open.spotify.com/album/2lzs5KtWl3eovh9AMdWwCt"
+      },
+      "artists": [
+        {
+          "name": "Nightwish",
+          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
+        }
+      ],
+      "duration_ms": 491933,
+      "name": "Perfume Of The Timeless",
+      "url": "https://open.spotify.com/track/2XXXvrIkEBtR3LlbfJExpJ"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -55,22 +71,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Perfume Of The Timeless",
-        "url": "https://open.spotify.com/album/2lzs5KtWl3eovh9AMdWwCt"
-      },
-      "artists": [
-        {
-          "name": "Nightwish",
-          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
-        }
-      ],
-      "duration_ms": 491933,
-      "name": "Perfume Of The Timeless",
-      "url": "https://open.spotify.com/track/2XXXvrIkEBtR3LlbfJExpJ"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "Evil Eye / Get a Grip",
         "url": "https://open.spotify.com/album/0lPpOFL64VeHLt2wx1E2RF"
       },
@@ -87,6 +87,54 @@
       "duration_ms": 241773,
       "name": "Get a Grip",
       "url": "https://open.spotify.com/track/2tGrdc5Hryxq2dIiSS1egV"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "POST HUMAN: NeX GEn",
+        "url": "https://open.spotify.com/album/1k7OXnGQPV4zF3seDwRroD"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 240590,
+      "name": "Top 10 staTues tHat CriEd bloOd",
+      "url": "https://open.spotify.com/track/7g4hIeYVk3h5qQXb9RLeXP"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Schakal 1994 - 2024",
+        "url": "https://open.spotify.com/album/7dw34BpCbtsSS3kWyuvVxu"
+      },
+      "artists": [
+        {
+          "name": "Lacrimosa",
+          "url": "https://open.spotify.com/artist/57ekbx9PSS4ORs5wTZMSYp"
+        }
+      ],
+      "duration_ms": 325313,
+      "name": "Schakal - Piano Version 2020",
+      "url": "https://open.spotify.com/track/0dc82I4gfLHXWGnM51P4qb"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Burden",
+        "url": "https://open.spotify.com/album/2fs6Z7LmQT1hd81hM8YlZx"
+      },
+      "artists": [
+        {
+          "name": "As I Lay Dying",
+          "url": "https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu"
+        }
+      ],
+      "duration_ms": 245947,
+      "name": "Burden",
+      "url": "https://open.spotify.com/track/0W2pvsskj1e50sC2KL9Gge"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -111,22 +159,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Schakal 1994 - 2024",
-        "url": "https://open.spotify.com/album/7dw34BpCbtsSS3kWyuvVxu"
-      },
-      "artists": [
-        {
-          "name": "Lacrimosa",
-          "url": "https://open.spotify.com/artist/57ekbx9PSS4ORs5wTZMSYp"
-        }
-      ],
-      "duration_ms": 325313,
-      "name": "Schakal - Piano Version 2020",
-      "url": "https://open.spotify.com/track/0dc82I4gfLHXWGnM51P4qb"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "Run Run Se Fue pa'l Norte",
         "url": "https://open.spotify.com/album/2j4Ow6x9WPRYS3FC8xowxO"
       },
@@ -143,22 +175,6 @@
       "duration_ms": 269688,
       "name": "Run Run Se Fue pa'l Norte",
       "url": "https://open.spotify.com/track/5d7L6rZ5jEjPuC19aaFXjm"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "Burden",
-        "url": "https://open.spotify.com/album/2fs6Z7LmQT1hd81hM8YlZx"
-      },
-      "artists": [
-        {
-          "name": "As I Lay Dying",
-          "url": "https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu"
-        }
-      ],
-      "duration_ms": 245947,
-      "name": "Burden",
-      "url": "https://open.spotify.com/track/0W2pvsskj1e50sC2KL9Gge"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -186,11 +202,15 @@
         {
           "name": "Bring Me The Horizon",
           "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        },
+        {
+          "name": "Underoath",
+          "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
         }
       ],
-      "duration_ms": 240590,
-      "name": "Top 10 staTues tHat CriEd bloOd",
-      "url": "https://open.spotify.com/track/7g4hIeYVk3h5qQXb9RLeXP"
+      "duration_ms": 260625,
+      "name": "a bulleT w/ my namE On (feat. Underoath)",
+      "url": "https://open.spotify.com/track/2tWhiQJQSTa5WE3eiByOf1"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -211,26 +231,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "POST HUMAN: NeX GEn",
-        "url": "https://open.spotify.com/album/1k7OXnGQPV4zF3seDwRroD"
-      },
-      "artists": [
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        },
-        {
-          "name": "Underoath",
-          "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
-        }
-      ],
-      "duration_ms": 260625,
-      "name": "a bulleT w/ my namE On (feat. Underoath)",
-      "url": "https://open.spotify.com/track/2tWhiQJQSTa5WE3eiByOf1"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "Quer\u00eda Saber",
         "url": "https://open.spotify.com/album/6OxNP56RlMUykEo91pzx9y"
       },
@@ -243,6 +243,34 @@
       "duration_ms": 289317,
       "name": "Quer\u00eda Saber",
       "url": "https://open.spotify.com/track/50bvIAriO4MoPhQUiUDdsR"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Rule The World (Everybody) [DEPARTAMENTO Remix]",
+        "url": "https://open.spotify.com/album/1BH7G0q2IBC7QcMYkZpSFV"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Tears For Fears",
+          "url": "https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU"
+        },
+        {
+          "name": "DEPARTAMENTO",
+          "url": "https://open.spotify.com/artist/3Cu5XeR4o1V8atLssDZUl1"
+        },
+        {
+          "name": "GUDFELLA",
+          "url": "https://open.spotify.com/artist/3KjZMSSy0BaCVdvL0VABRO"
+        }
+      ],
+      "duration_ms": 219811,
+      "name": "Rule The World (Everybody) [DEPARTAMENTO Remix]",
+      "url": "https://open.spotify.com/track/3UyIs0r6uaIbmYvpN75CbJ"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -335,34 +363,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Rule The World (Everybody) [DEPARTAMENTO Remix]",
-        "url": "https://open.spotify.com/album/1BH7G0q2IBC7QcMYkZpSFV"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Tears For Fears",
-          "url": "https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU"
-        },
-        {
-          "name": "DEPARTAMENTO",
-          "url": "https://open.spotify.com/artist/3Cu5XeR4o1V8atLssDZUl1"
-        },
-        {
-          "name": "GUDFELLA",
-          "url": "https://open.spotify.com/artist/3KjZMSSy0BaCVdvL0VABRO"
-        }
-      ],
-      "duration_ms": 219811,
-      "name": "Rule The World (Everybody) [DEPARTAMENTO Remix]",
-      "url": "https://open.spotify.com/track/3UyIs0r6uaIbmYvpN75CbJ"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "Rain (Stealing Sheep Remix)",
         "url": "https://open.spotify.com/album/4dx49Nbdulv56hy04eFVaL"
       },
@@ -383,6 +383,22 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
+        "name": "Silver Tongue",
+        "url": "https://open.spotify.com/album/6kzadEspZVh3DAFv5BnulS"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "duration_ms": 262741,
+      "name": "Silver Tongue",
+      "url": "https://open.spotify.com/track/0Qxsuh1NoCMWDYVfC49XRE"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
         "name": "The Shadow Club",
         "url": "https://open.spotify.com/album/7p9SacciT3Ul89WJAtIYGj"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 330093,
       "name": "The Shadow Club",
       "url": "https://open.spotify.com/track/1Q2Gd6poiIQL1trKulQxXZ"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "Silver Tongue",
-        "url": "https://open.spotify.com/album/6kzadEspZVh3DAFv5BnulS"
-      },
-      "artists": [
-        {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
-        }
-      ],
-      "duration_ms": 262741,
-      "name": "Silver Tongue",
-      "url": "https://open.spotify.com/track/0Qxsuh1NoCMWDYVfC49XRE"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -567,26 +567,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Everybody's Alone",
-        "url": "https://open.spotify.com/album/2HVD3qQVOARv5XSqMnyldy"
-      },
-      "artists": [
-        {
-          "name": "Neil Young",
-          "url": "https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm"
-        },
-        {
-          "name": "Crazy Horse",
-          "url": "https://open.spotify.com/artist/0oi7g8NUnlLh5tJvg2y5e3"
-        }
-      ],
-      "duration_ms": 151600,
-      "name": "Everybody's Alone",
-      "url": "https://open.spotify.com/track/3ji4SvVhtxGX3sy5Tobkiz"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "Monsters",
         "url": "https://open.spotify.com/album/3PTuQBSaljC8mpbQVbWtkI"
       },
@@ -631,6 +611,26 @@
       "duration_ms": 362908,
       "name": "Long Distance Runaround/The Fish (Schindleria Praematurus) - Alternate Version",
       "url": "https://open.spotify.com/track/2JzqrOfcAtNz7pUZnkzJAt"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Everybody's Alone",
+        "url": "https://open.spotify.com/album/2HVD3qQVOARv5XSqMnyldy"
+      },
+      "artists": [
+        {
+          "name": "Neil Young",
+          "url": "https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm"
+        },
+        {
+          "name": "Crazy Horse",
+          "url": "https://open.spotify.com/artist/0oi7g8NUnlLh5tJvg2y5e3"
+        }
+      ],
+      "duration_ms": 151600,
+      "name": "Everybody's Alone",
+      "url": "https://open.spotify.com/track/3ji4SvVhtxGX3sy5Tobkiz"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -695,26 +695,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Wasteland (orchestral)",
-        "url": "https://open.spotify.com/album/42GDExicxE2HmHmwIpmiYw"
-      },
-      "artists": [
-        {
-          "name": "Dead by April",
-          "url": "https://open.spotify.com/artist/2otRZcOVNcmdkZ5nEoogy6"
-        },
-        {
-          "name": "THE DAY WE LEFT EARTH",
-          "url": "https://open.spotify.com/artist/7BmeO6vzKLEnURfmgd3VqL"
-        }
-      ],
-      "duration_ms": 145324,
-      "name": "Wasteland - orchestral",
-      "url": "https://open.spotify.com/track/36wIxrvx8BXA0g2cv1TXyz"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "Circular (BVSMV Sunset Mix)",
         "url": "https://open.spotify.com/album/1llzlwanfn739rdbRJzyO7"
       },
@@ -731,6 +711,26 @@
       "duration_ms": 313988,
       "name": "Circular - BVSMV Sunset Mix",
       "url": "https://open.spotify.com/track/3HF3PWNCMzpS0vkRrG1ZUc"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Wasteland (orchestral)",
+        "url": "https://open.spotify.com/album/42GDExicxE2HmHmwIpmiYw"
+      },
+      "artists": [
+        {
+          "name": "Dead by April",
+          "url": "https://open.spotify.com/artist/2otRZcOVNcmdkZ5nEoogy6"
+        },
+        {
+          "name": "THE DAY WE LEFT EARTH",
+          "url": "https://open.spotify.com/artist/7BmeO6vzKLEnURfmgd3VqL"
+        }
+      ],
+      "duration_ms": 145324,
+      "name": "Wasteland - orchestral",
+      "url": "https://open.spotify.com/track/36wIxrvx8BXA0g2cv1TXyz"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -883,26 +883,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Stampede: Vol. 1",
-        "url": "https://open.spotify.com/album/5xmQFJ2yArFC5glJ3xclfE"
-      },
-      "artists": [
-        {
-          "name": "Orville Peck",
-          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
-        },
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 251998,
-      "name": "Saturday Night's Alright (For Fighting)",
-      "url": "https://open.spotify.com/track/3v8l8N78qWDgXfHrxppF5D"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "P\u00e9talo de sal",
         "url": "https://open.spotify.com/album/47rjAhbKvYLWneD4xLp6c5"
       },
@@ -935,6 +915,26 @@
       "duration_ms": 312149,
       "name": "Seven - Live",
       "url": "https://open.spotify.com/track/01Qou0Jb4jUyCRfBhDSa74"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Stampede: Vol. 1",
+        "url": "https://open.spotify.com/album/5xmQFJ2yArFC5glJ3xclfE"
+      },
+      "artists": [
+        {
+          "name": "Orville Peck",
+          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
+        },
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 251998,
+      "name": "Saturday Night's Alright (For Fighting)",
+      "url": "https://open.spotify.com/track/3v8l8N78qWDgXfHrxppF5D"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "VERITAS",
-        "url": "https://open.spotify.com/album/3A12nZnNwruBUgmEMbaZO7"
-      },
-      "artists": [
-        {
-          "name": "P.O.D.",
-          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
-        }
-      ],
-      "duration_ms": 199067,
-      "name": "I GOT THAT",
-      "url": "https://open.spotify.com/track/42QKJpaoiHX0YEMAuxtVVI"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "Divine",
         "url": "https://open.spotify.com/album/2hPKkbMX9RJTi2BCIX5czA"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 219676,
       "name": "Divine",
       "url": "https://open.spotify.com/track/1QCj1poCyvcNUkMV5hu4Ad"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "VERITAS",
+        "url": "https://open.spotify.com/album/3A12nZnNwruBUgmEMbaZO7"
+      },
+      "artists": [
+        {
+          "name": "P.O.D.",
+          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
+        }
+      ],
+      "duration_ms": 199067,
+      "name": "I GOT THAT",
+      "url": "https://open.spotify.com/track/42QKJpaoiHX0YEMAuxtVVI"
     },
     {
       "added_at": "2024-05-24 04:00:00",

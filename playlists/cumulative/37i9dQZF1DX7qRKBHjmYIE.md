@@ -4,7 +4,7 @@
 
 > De aquí y de allá \~ un poquito de todo ✨ en un vibe con Estevie.
 
-735 songs - 1 day 15 hr 47 min
+736 songs - 1 day 15 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -441,6 +441,7 @@
 | [Mujer](https://open.spotify.com/track/2Jrr4gRBbOiOrZu2jo1gSF) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb) | [Mujer](https://open.spotify.com/album/4DoNVtnUb1oTfrJQcxFsbs) | 4:23 | 2024-04-19 |  |
 | [MURDA](https://open.spotify.com/track/15LPlMO5f4ushkaUFcUe4m) | [BLK ODYSSY](https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV) | [MURDA](https://open.spotify.com/album/3EVrkc8tnxutwuTw8NPLT3) | 2:31 | 2021-12-02 | 2022-01-25 |
 | [Music For a Sushi Restaurant](https://open.spotify.com/track/5LYMamLv12UPbemOaTPyeV) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:13 | 2022-07-20 | 2022-10-28 |
+| [MUY FINITO](https://open.spotify.com/track/4xHkNofcMKGYJ8gzQLBzAW) | [Never Dull](https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm) | [MUY FINITO](https://open.spotify.com/album/5PDJxIcBMtjti0J23ayqlj) | 2:45 | 2024-05-24 |  |
 | [Muy lejos \(feat\. Ivana, Hard GZ\)](https://open.spotify.com/track/3T8nI2IJ3rbvDBunS7Br5h) | [Xavibo](https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7), [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ), [Hard GZ](https://open.spotify.com/artist/79N4S7UXdjo2fAh3OHJQuB) | [Papel de Burbujas](https://open.spotify.com/album/24Xhdsa3kUc1BRa2iA9rO5) | 3:11 | 2023-09-15 | 2024-04-13 |
 | [Mxfix G5](https://open.spotify.com/track/6RvdPXkp63MIt9oNFJBRIz) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Mxfix G5](https://open.spotify.com/album/6i7nZXIeKaSBLXl5b3UirN) | 2:34 | 2023-07-21 | 2023-08-12 |
 | [Míralo](https://open.spotify.com/track/4IKSehYf4e9tjijDSZHQF2) | [Rorro](https://open.spotify.com/artist/6fB004p3XFUoQeftZlFUKv) | [Míralo](https://open.spotify.com/album/6UIHKXjD19ZHRbkRE8BFtl) | 2:13 | 2023-10-13 | 2024-04-13 |
@@ -580,7 +581,7 @@
 | [Saturno](https://open.spotify.com/track/6WVyM0YxzmCKcsd5I0yXqV) | [Bumont](https://open.spotify.com/artist/2EYra2dvqBI9KNMQsb0RTa), [Tita](https://open.spotify.com/artist/5VUc3B1hoBWWwodjRD8JHp) | [Saturno](https://open.spotify.com/album/5r0C5WR4fPFwF7vo2sSmp6) | 3:40 | 2024-01-31 | 2024-05-03 |
 | [Say It](https://open.spotify.com/track/6PyZGb1rB7oLKCICWTmGYa) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Heard It In A Past Life](https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4) | 3:40 | 2023-02-17 | 2023-03-09 |
 | [Say It Right](https://open.spotify.com/track/2aI21FnmY7TJVKeMaoQZ0t) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Loose](https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT) | 3:43 | 2022-01-24 | 2022-09-07 |
-| [Se Acaba \- Sinego Remix](https://open.spotify.com/track/1weqzj4OexIpfV2pNyPmqy) | [Adrie](https://open.spotify.com/artist/4RuSib7ZtJd4SI61XGkCto), [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb) | [Se Acaba \(Sinego Remix\)](https://open.spotify.com/album/6pmqgNHGZAqKyiUbdEynaT) | 6:21 | 2024-02-23 |  |
+| [Se Acaba \- Sinego Remix](https://open.spotify.com/track/1weqzj4OexIpfV2pNyPmqy) | [Adrie](https://open.spotify.com/artist/4RuSib7ZtJd4SI61XGkCto), [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb) | [Se Acaba \(Sinego Remix\)](https://open.spotify.com/album/6pmqgNHGZAqKyiUbdEynaT) | 6:21 | 2024-02-23 | 2024-05-28 |
 | [Selfish](https://open.spotify.com/track/71NBNju9KEg6G8qTi1Y0kA) | [Letón Pé](https://open.spotify.com/artist/76LJ0AYW9sxNGRfKnag1vO) | [Rojo Rubí](https://open.spotify.com/album/0XteKwNr7uXZXz92CIE1Xe) | 2:25 | 2023-09-15 | 2023-12-19 |
 | [Sensei](https://open.spotify.com/track/2KZPFCkQWT7Wt6OS4bPaF6) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Sensei](https://open.spotify.com/album/4UmvMCp8mznPpqY65qKz5X) | 2:54 | 2023-02-17 | 2023-07-22 |
 | [Serotonina](https://open.spotify.com/track/0z6PsOx006lQADQl3gB5YC) | [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2) | [Serotonina](https://open.spotify.com/album/6D6hmtCKwlBSD5gqxUUMiP) | 2:54 | 2023-02-17 | 2023-04-14 |

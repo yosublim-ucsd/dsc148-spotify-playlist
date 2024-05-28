@@ -9937,6 +9937,24 @@
     },
     {
       "album": {
+        "name": "Europapa",
+        "url": "https://open.spotify.com/album/3v1pSXwPFLvjQWbcN1iwKS"
+      },
+      "artists": [
+        {
+          "name": "Joost",
+          "url": "https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR"
+        }
+      ],
+      "date_added": "2024-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160218,
+      "name": "Europapa",
+      "url": "https://open.spotify.com/track/0uHrMbMv3c78398pIANDqR"
+    },
+    {
+      "album": {
         "name": "Currents",
         "url": "https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv"
       },
@@ -22845,6 +22863,24 @@
     },
     {
       "album": {
+        "name": "Ome Robert",
+        "url": "https://open.spotify.com/album/3qCsGHHWG6t9izvmsE47jr"
+      },
+      "artists": [
+        {
+          "name": "Joost",
+          "url": "https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR"
+        }
+      ],
+      "date_added": "2024-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152500,
+      "name": "Ome Robert",
+      "url": "https://open.spotify.com/track/3TE49HXyoNczZk2IBhP87z"
+    },
+    {
+      "album": {
         "name": "i don't care at all",
         "url": "https://open.spotify.com/album/7yLZeJTQUK0Dn5MHTLNjyI"
       },
@@ -33285,6 +33321,24 @@
     },
     {
       "album": {
+        "name": "Crystal Castles",
+        "url": "https://open.spotify.com/album/6rTfUUv8Kefr6Uo3AaecXi"
+      },
+      "artists": [
+        {
+          "name": "Crystal Castles",
+          "url": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
+        }
+      ],
+      "date_added": "2024-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186373,
+      "name": "Untrust Us",
+      "url": "https://open.spotify.com/track/3d8zIv577en5PxwwAzadN2"
+    },
+    {
+      "album": {
         "name": "Untrust Us (the cocaine is not good for you) [Slowed + Reverb]",
         "url": "https://open.spotify.com/album/7oNFds0Wmt3w1gc0Kl4U7s"
       },
@@ -33296,7 +33350,7 @@
       ],
       "date_added": "2024-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-28",
       "duration_ms": 234817,
       "name": "Untrust Us (the cocaine is not good for you) - Slowed + Reverb",
       "url": "https://open.spotify.com/track/24Y9pXOdiLxek5Bj2ufrS6"

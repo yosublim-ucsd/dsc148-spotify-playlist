@@ -4,7 +4,7 @@
 
 > Sad and gloomy Jazz for a rainy day.
 
-345 songs - 22 hr 17 min
+348 songs - 22 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,13 +107,15 @@
 | [Good Night](https://open.spotify.com/track/3hWjbyHK72kyF3CXMCjoSx) | [Charlie James\-Walker](https://open.spotify.com/artist/7apm9TJQ66v5ykLahf9B3U) | [Good Night](https://open.spotify.com/album/0vYW9ULnZQnTCBCmOSMZKS) | 3:56 | 2022-08-10 | 2023-06-23 |
 | [Grey Mornings](https://open.spotify.com/track/4vR1tQ1rF01iF7Sc4ViLy3) | [Eddie Harper](https://open.spotify.com/artist/7297VsEKnQhcbuXvB3GJ68) | [Grey Mornings](https://open.spotify.com/album/4sGFc6217FNH1aubBYdXQf) | 3:52 | 2023-09-22 |  |
 | [He Said She Got It Going](https://open.spotify.com/track/5xvW6Jx9hLAR6j0fkFFdws) | [Erik Moreau](https://open.spotify.com/artist/1S08oiBCDKPErHKaJ42YAG) | [He Said She Got It Going](https://open.spotify.com/album/16dT2u1PffX5zPK7US1hwS) | 2:38 | 2022-11-17 |  |
+| [Hear Hear](https://open.spotify.com/track/6GFJjH5HjMJYPotMuHVN32) | [Geeder](https://open.spotify.com/artist/65SoHM1qvoOmpiIBxWGAk1) | [Hear Hear](https://open.spotify.com/album/6WAila18C1NidEzseKeNee) | 3:58 | 2024-05-27 |  |
 | [Hector's Plan](https://open.spotify.com/track/5eWLDX4KoC24EYgrZl8Rta) | [Norwood Macdonald Group](https://open.spotify.com/artist/6HhfFG1K5tRpfzuCzGKQfL) | [Hector's Plan](https://open.spotify.com/album/1E1vK9IaJTTMEYSgAKq7SF) | 2:24 | 2022-06-22 |  |
 | [Her](https://open.spotify.com/track/7n3xKq0wJh04yNxnmD6VEt) | [Hara Noda](https://open.spotify.com/artist/6ezFSYpcIHmJfQ0ZrGQmyh) | [Her](https://open.spotify.com/album/2k2Sp6taVfGQqVX9otguHc) | 3:58 | 2022-09-06 |  |
 | [Heyoke](https://open.spotify.com/track/00dxvvVllByEVaCnkLR1RL) | [Carlton Maison Quartet](https://open.spotify.com/artist/0Tq1tUZV3Vw3CUvNwIjxpm) | [Heyoke](https://open.spotify.com/album/1qugT0donvhBonOVJIUjdy) | 4:09 | 2022-04-26 | 2023-02-17 |
 | [Hill](https://open.spotify.com/track/6GFQLWVOpzCZIsvVk9jWQB) | [The Bourbon Trio](https://open.spotify.com/artist/6NwBJDTD73WjyAXoepnK4z) | [Head Start](https://open.spotify.com/album/1Nx0LA5GUp04wJU8tBlCQY) | 6:30 | 2021-12-14 | 2022-01-06 |
 | [Homebound](https://open.spotify.com/track/7obaAm9tRqarKIJ1JsRelQ) | [Old Town Trio](https://open.spotify.com/artist/4dSiNMDfIlI3qwNuAlk4dZ) | [Homebound](https://open.spotify.com/album/55PXw2IMn0zVQ9DrjEmYnu) | 3:29 | 2022-08-10 |  |
-| [How Deep Is The Ocean](https://open.spotify.com/track/3vJ0oV1CUjal1rIHqRI4is) | [Felix McCoy Quartet](https://open.spotify.com/artist/2UIgtE5XCEu7BYtjaY8wsh) | [How Deep Is The Ocean](https://open.spotify.com/album/4A5xzotabZ3PhlTTynmrWJ) | 3:46 | 2022-08-10 |  |
+| [How Deep Is The Ocean](https://open.spotify.com/track/3vJ0oV1CUjal1rIHqRI4is) | [Felix McCoy Quartet](https://open.spotify.com/artist/2UIgtE5XCEu7BYtjaY8wsh) | [How Deep Is The Ocean](https://open.spotify.com/album/4A5xzotabZ3PhlTTynmrWJ) | 3:46 | 2022-08-10 | 2024-05-28 |
 | [I Can't Get Started \- Instrumental](https://open.spotify.com/track/5OJw2p5rD4DwtGOCC438De) | [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA), [Sweet](https://open.spotify.com/artist/67nLnlcWUfGyc0hKgZQILs) | [Nancy Wilson/Cannonball Adderley](https://open.spotify.com/album/6yyNgCQNsJ3VJ9PP7CmvLJ) | 4:57 | 2021-12-14 | 2022-06-29 |
+| [I Didn't Know What Time It Was](https://open.spotify.com/track/3GuKMibYz7gzFTkSoxjQob) | [Bernstein Square](https://open.spotify.com/artist/0RdMRIhMDTQEpMcALRyQTK) | [I Didn't Know What Time It Was](https://open.spotify.com/album/4NpsxaHznzfn1pJpEM4bjR) | 2:51 | 2024-05-27 |  |
 | [I Fall in Love Too Easily](https://open.spotify.com/track/7kdPpPFzjLo8piKWbuQ0e4) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq) | [The Art of the Trio, Vol\. 1](https://open.spotify.com/album/3MIOYuA2uqGXFiwDbBK9Fc) | 7:18 | 2021-12-14 | 2022-11-11 |
 | [I Fall In Love Too Easily](https://open.spotify.com/track/0Bp4wVlm9sA88tMtbDG29p) | [Hollbeck](https://open.spotify.com/artist/0l6Jx03I9oWTgtg3ZtxqRS) | [I Fall In Love Too Easily](https://open.spotify.com/album/7CVL1rAW47IhbxmNv2uM29) | 4:00 | 2023-02-02 |  |
 | [I Get Along Without You Very Well \(Except Sometimes\)](https://open.spotify.com/track/6XZCXx5dOgq7pOJxjVdYAr) | [Alexis Cohen](https://open.spotify.com/artist/6oEEfYQspfp3tgt5X20ok1) | [It Might as Well Be Spring](https://open.spotify.com/album/5QhyU13nEI1rWgjXfuQEmW) | 3:33 | 2021-12-14 | 2022-11-11 |
@@ -135,7 +137,7 @@
 | [I'm Coming Home](https://open.spotify.com/track/0XWvXNhiaDIS3nRZEsIbL4) | [Fortune Morel Trio](https://open.spotify.com/artist/5IDJIXonrrl2nVcd4LZTQf) | [I'm Coming Home](https://open.spotify.com/album/7JChLRyvbnM4WIT2qlDE1o) | 3:06 | 2023-02-16 |  |
 | [I'm Getting Sentimental Over You](https://open.spotify.com/track/1FW3sdgzfR7gdqXXqprBxJ) | [Chris Memento](https://open.spotify.com/artist/6dLMos1sm6vC0KWbloaCXb) | [I'm Getting Sentimental Over You](https://open.spotify.com/album/01sPJkRHG839tmyrd1V8s6) | 3:49 | 2022-09-06 | 2023-04-14 |
 | [I'm Getting Sentimental Over You](https://open.spotify.com/track/4VtPmMgXpruDnONGVxpMk5) | [Gene Hart Trio](https://open.spotify.com/artist/5iUzoJfVuTECa0aM3nCCCh) | [I'm Getting Sentimental Over You](https://open.spotify.com/album/3SP5ljNhXHuCk3cnoTZEu3) | 3:57 | 2023-08-10 |  |
-| [I'm Through With Love](https://open.spotify.com/track/0QARP1SA6znqDMPSOcW7kp) | [George Kuntz Four](https://open.spotify.com/artist/6bPFM0SEcXOJwLr0aY024d) | [I'm Through With Love](https://open.spotify.com/album/287itlXEIh2aQ2zqLZiBbE) | 5:56 | 2021-12-14 |  |
+| [I'm Through With Love](https://open.spotify.com/track/0QARP1SA6znqDMPSOcW7kp) | [George Kuntz Four](https://open.spotify.com/artist/6bPFM0SEcXOJwLr0aY024d) | [I'm Through With Love](https://open.spotify.com/album/287itlXEIh2aQ2zqLZiBbE) | 5:56 | 2021-12-14 | 2024-05-28 |
 | [In A Sentimental Mood](https://open.spotify.com/track/0GLnrfMwiuJEqeb6IDsUMO) | [John B\. Stewart](https://open.spotify.com/artist/0hdiMvtIodxDuDN6Wq9Ibe) | [In A Sentimental Mood](https://open.spotify.com/album/16uDEITezuspL8l4igLdHZ) | 4:02 | 2022-10-27 |  |
 | [In A Sentimental Mood](https://open.spotify.com/track/3glQOWRCAQIrCnQhWBEFSL) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR), [The Modern Jazz Quartet](https://open.spotify.com/artist/7wBFjZMHsC6nfV0HOSd6uI) | [Sonny Rollins With The Modern Jazz Quartet](https://open.spotify.com/album/1Vnn90iSXyOn5jCh0l9Usl) | 3:17 | 2022-01-26 | 2022-05-25 |
 | [In A Valley By A Creek](https://open.spotify.com/track/3iKEjLnz4fnhSppjCC2eG0) | [Benjamine Leroy Quartet](https://open.spotify.com/artist/0HsfmmG8LqKOxS2LBIO9bM) | [In A Valley By A Creek](https://open.spotify.com/album/32wsZze5gSM0dMgJdyi9YQ) | 3:27 | 2023-03-23 |  |
@@ -270,6 +272,7 @@
 | [Sorrowful](https://open.spotify.com/track/3Kg8e71569ZAoUwXYugyej) | [Mandy](https://open.spotify.com/artist/2BMXntfoLrLiBk4CH5IOzi) | [Sorrowful](https://open.spotify.com/album/7HLOybEIWiqCiEZNVCP0vk) | 3:28 | 2022-10-27 |  |
 | [Soul Eyes](https://open.spotify.com/track/2WwFItAZw5RcYv3rECNFIZ) | [Juraj Stanik Trio](https://open.spotify.com/artist/6Jp6aGQeBuerxiL0Mq7wra) | [Inside Out](https://open.spotify.com/album/6TiMFHnW1Ce36USbc8FAoC) | 4:43 | 2021-12-14 |  |
 | [Soulful Serenade](https://open.spotify.com/track/45FLYbhZeKWABexWqBo5Un) | [KTZ Players](https://open.spotify.com/artist/5IFXbDEfoLijwZB1YB2bTe) | [Soulful Serenade](https://open.spotify.com/album/04M2iGk6Rwm8qLa2OMQSVZ) | 3:21 | 2023-05-11 |  |
+| [South Valley Park](https://open.spotify.com/track/11oNCdjoD73GQdsDIICXE3) | [Le Bourget](https://open.spotify.com/artist/39QGocubAYKDY8IlHzs6ZL) | [South Valley Park](https://open.spotify.com/album/75Xh4ArRbt72Jy27GCF2FD) | 3:57 | 2024-05-27 |  |
 | [Spring Evening](https://open.spotify.com/track/2xdVhhcaljRGvDEcVRHLQ1) | [Vendla](https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu) | [Liljeholmsviken](https://open.spotify.com/album/6wrG9MReEESMfnXLh3daCe) | 3:41 | 2023-01-26 | 2024-01-19 |
 | [Spring Is Here](https://open.spotify.com/track/0d4XWfUyqLQnemAJJlcaAg) | [Eddie Harper](https://open.spotify.com/artist/7297VsEKnQhcbuXvB3GJ68) | [Spring Is Here](https://open.spotify.com/album/224qBI3ZUfjrQsoZNxxaji) | 3:15 | 2022-05-31 | 2023-01-20 |
 | [Stairway to the Stars](https://open.spotify.com/track/0vVCgSoFIlPrLKzPgZ9sUN) | [Dave Peck](https://open.spotify.com/artist/2KzrnvIOUq0N3w0fEcJlES) | [Trio](https://open.spotify.com/album/09gOqXkme0kvY0n32naCqY) | 6:38 | 2022-01-27 | 2023-05-12 |

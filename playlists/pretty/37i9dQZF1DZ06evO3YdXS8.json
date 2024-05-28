@@ -1,12 +1,12 @@
 {
   "description": "This Is Selena. Los temas esenciales, todos en una lista.",
-  "num_followers": 614602,
+  "num_followers": 614660,
   "original_name": "This Is Selena",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlEqAAAAAABninGIRQJh4s4a2pzEX6dX",
+  "snapshot_id": "ZlJ7gAAAAADQDVvCFOwb7+Hvm+QCG0S0",
   "tracks": [
     {
       "added_at": null,
@@ -511,8 +511,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Entre A Mi Mundo",
-        "url": "https://open.spotify.com/album/02fBX9fLFfOG2v33oZo73z"
+        "name": "Enamorada de Ti",
+        "url": "https://open.spotify.com/album/6QT2jnwcvYH2H3fEbXeu0l"
       },
       "artists": [
         {
@@ -520,9 +520,9 @@
           "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
         }
       ],
-      "duration_ms": 190773,
-      "name": "Yo Te Sigo Queriendo",
-      "url": "https://open.spotify.com/track/3TpXM6ms8GE04qe8mRaMou"
+      "duration_ms": 194960,
+      "name": "Techno Cumbia 2012",
+      "url": "https://open.spotify.com/track/4dsxlK3ju4g1g15Z7PM6XX"
     },
     {
       "added_at": null,
@@ -543,8 +543,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Enamorada de Ti",
-        "url": "https://open.spotify.com/album/6QT2jnwcvYH2H3fEbXeu0l"
+        "name": "Entre A Mi Mundo",
+        "url": "https://open.spotify.com/album/02fBX9fLFfOG2v33oZo73z"
       },
       "artists": [
         {
@@ -552,9 +552,9 @@
           "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
         }
       ],
-      "duration_ms": 194960,
-      "name": "Techno Cumbia 2012",
-      "url": "https://open.spotify.com/track/4dsxlK3ju4g1g15Z7PM6XX"
+      "duration_ms": 190773,
+      "name": "Yo Te Sigo Queriendo",
+      "url": "https://open.spotify.com/track/3TpXM6ms8GE04qe8mRaMou"
     },
     {
       "added_at": null,

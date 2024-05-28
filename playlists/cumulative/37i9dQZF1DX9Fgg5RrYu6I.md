@@ -4,7 +4,7 @@
 
 > Listen to the soundtracks of the Missing Crown Prince\. \(세자가 사라졌다의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-39 songs - 2 hr 25 min
+41 songs - 2 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,8 @@
 | [Hurdle](https://open.spotify.com/track/3AHV42ObBOu6QZoiCzuF5t) | [SUHO](https://open.spotify.com/artist/5zkf2Na8DKKJmtWX5Xrx3m) | [Grey Suit \- The 2nd Mini Album](https://open.spotify.com/album/7tZyxlG9PNEBwrxMbIJdoB) | 3:06 | 2024-05-07 |  |
 | [Kidd](https://open.spotify.com/track/4h34AbncqepE1FkJQWvYyD) | [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [Kidd](https://open.spotify.com/album/0UBuKaXlVWeeZVOZCAH5s8) | 4:27 | 2024-05-07 |  |
 | [LAST PARADE](https://open.spotify.com/track/436seJMYT9VZOjvJUTfmcx) | [CHANMIN](https://open.spotify.com/artist/1O1BXOtl5jWeZJIkSwNMBi) | [LAST PARADE](https://open.spotify.com/album/4dARvFNQZIZtyCFw2Lbs6f) | 4:04 | 2024-05-07 |  |
+| [Love Is Like The Wind](https://open.spotify.com/track/2RZNDSRs5aXdoEwvcf74Ti) | [HAEUN](https://open.spotify.com/artist/7BYHne6KtWNlbJnjZwLLRW) | [Missing Crown Prince \(Original Television Soundtrack\) Pt\. 4 \- Love Is Like The Wind](https://open.spotify.com/album/2DGXz0USHVje4KFPUMfogv) | 4:21 | 2024-05-27 |  |
+| [Love Is Like The Wind \- Instrumental](https://open.spotify.com/track/35T5geXls1FvThY9C3G0jc) | [HAEUN](https://open.spotify.com/artist/7BYHne6KtWNlbJnjZwLLRW) | [Missing Crown Prince \(Original Television Soundtrack\) Pt\. 4 \- Love Is Like The Wind](https://open.spotify.com/album/2DGXz0USHVje4KFPUMfogv) | 4:21 | 2024-05-27 |  |
 | [Love You More Gradually](https://open.spotify.com/track/4YjN87vGnvk8NjRLHH35bf) | [SUHO](https://open.spotify.com/artist/5zkf2Na8DKKJmtWX5Xrx3m) | [Missing Crown Prince \(Original Television Soundtrack\) Pt\. 1 \- Love You More Gradually](https://open.spotify.com/album/36OubHgX5BMBWAFPA5CeBj) | 3:57 | 2024-05-07 |  |
 | [Love You More Gradually \- Instrumental](https://open.spotify.com/track/0OKxlebSqt0MYBeWUBpJJp) | [SUHO](https://open.spotify.com/artist/5zkf2Na8DKKJmtWX5Xrx3m) | [Missing Crown Prince \(Original Television Soundtrack\) Pt\. 1 \- Love You More Gradually](https://open.spotify.com/album/36OubHgX5BMBWAFPA5CeBj) | 3:57 | 2024-05-07 |  |
 | [Morning Star](https://open.spotify.com/track/0KLRvuV6eAr5uOtWWb5vCR) | [SUHO](https://open.spotify.com/artist/5zkf2Na8DKKJmtWX5Xrx3m) | [Grey Suit \- The 2nd Mini Album](https://open.spotify.com/album/7tZyxlG9PNEBwrxMbIJdoB) | 4:06 | 2024-05-07 |  |

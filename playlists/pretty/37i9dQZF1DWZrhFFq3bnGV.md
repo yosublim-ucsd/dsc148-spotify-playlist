@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrhFFq3bnGV.md) - [plain]
 
 > Terbuai dengan musik Jazz dari negeri sendiri\. Cover: dillasarah
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,741 likes - 84 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,760 likes - 84 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

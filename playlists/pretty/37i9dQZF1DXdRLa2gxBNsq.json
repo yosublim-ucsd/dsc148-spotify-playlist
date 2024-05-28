@@ -1,6 +1,6 @@
 {
   "description": "No, el punk espa\u00f1ol NO EST\u00c1 MUERTO. Foto: Soziedad Alkoholika.",
-  "num_followers": 103842,
+  "num_followers": 103863,
   "original_name": "Punk Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -603,22 +603,6 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "Mucho Asco (Casi) Todo",
-        "url": "https://open.spotify.com/album/3xnkw4YKqJzJpTnPPoP7Af"
-      },
-      "artists": [
-        {
-          "name": "Lendakaris Muertos",
-          "url": "https://open.spotify.com/artist/6x6bFaWdzVQM6e7ke2ysMc"
-        }
-      ],
-      "duration_ms": 94960,
-      "name": "Pablo Echenique",
-      "url": "https://open.spotify.com/track/2gl4Y3raioEWKhXUDALSZP"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
         "name": "Don't Worry Be Happy",
         "url": "https://open.spotify.com/album/5FexSOMJcqzhSt3NFXqbLY"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 225018,
       "name": "Don`t Worry Be Happy",
       "url": "https://open.spotify.com/track/6jo4CR3Efx6g2peyiXmzAU"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
+        "name": "Mucho Asco (Casi) Todo",
+        "url": "https://open.spotify.com/album/3xnkw4YKqJzJpTnPPoP7Af"
+      },
+      "artists": [
+        {
+          "name": "Lendakaris Muertos",
+          "url": "https://open.spotify.com/artist/6x6bFaWdzVQM6e7ke2ysMc"
+        }
+      ],
+      "duration_ms": 94960,
+      "name": "Pablo Echenique",
+      "url": "https://open.spotify.com/track/2gl4Y3raioEWKhXUDALSZP"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -675,22 +675,6 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "Ladr\u00f3n de Almas",
-        "url": "https://open.spotify.com/album/6NxQYmLaVay641q8RtK37A"
-      },
-      "artists": [
-        {
-          "name": "Arpaviejas",
-          "url": "https://open.spotify.com/artist/3p4ATdrRNiaczZdnPeZlqA"
-        }
-      ],
-      "duration_ms": 194192,
-      "name": "El Mes\u00edas",
-      "url": "https://open.spotify.com/track/22M4EmsybRYNbrlOSFffG7"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
         "name": "Corona de Espinas",
         "url": "https://open.spotify.com/album/5eFZW2T1SMudjllwNJVzkB"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 217466,
       "name": "Corona de Espinas",
       "url": "https://open.spotify.com/track/42Xb3dYl5XRoD9PQMB8JUL"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
+        "name": "Ladr\u00f3n de Almas",
+        "url": "https://open.spotify.com/album/6NxQYmLaVay641q8RtK37A"
+      },
+      "artists": [
+        {
+          "name": "Arpaviejas",
+          "url": "https://open.spotify.com/artist/3p4ATdrRNiaczZdnPeZlqA"
+        }
+      ],
+      "duration_ms": 194192,
+      "name": "El Mes\u00edas",
+      "url": "https://open.spotify.com/track/22M4EmsybRYNbrlOSFffG7"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -811,22 +811,6 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "No Hay Agua",
-        "url": "https://open.spotify.com/album/1apZlul36uZlJunetvaxoq"
-      },
-      "artists": [
-        {
-          "name": "Kaos Et\u00edliko",
-          "url": "https://open.spotify.com/artist/5y9aHzw345UfAGA1Db5BPy"
-        }
-      ],
-      "duration_ms": 124853,
-      "name": "Mi Mejor Colega - original",
-      "url": "https://open.spotify.com/track/4kzDs6iR4VsQnZhhrWHcOE"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
         "name": "Cicatriz en la Matrix",
         "url": "https://open.spotify.com/album/51o67b23wyqqkYGN738zMG"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 118986,
       "name": "Tenemos a la Pasma",
       "url": "https://open.spotify.com/track/2yGO1zOQ3psTV42DxtzF85"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
+        "name": "No Hay Agua",
+        "url": "https://open.spotify.com/album/1apZlul36uZlJunetvaxoq"
+      },
+      "artists": [
+        {
+          "name": "Kaos Et\u00edliko",
+          "url": "https://open.spotify.com/artist/5y9aHzw345UfAGA1Db5BPy"
+        }
+      ],
+      "duration_ms": 124853,
+      "name": "Mi Mejor Colega - original",
+      "url": "https://open.spotify.com/track/4kzDs6iR4VsQnZhhrWHcOE"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "No es la primera vez que pasa",
-        "url": "https://open.spotify.com/album/6V0HmOz23W95AM8BDhRpsU"
-      },
-      "artists": [
-        {
-          "name": "mis amigas fuman todas",
-          "url": "https://open.spotify.com/artist/7KdIqg2BmTqrSTJm19a8me"
-        }
-      ],
-      "duration_ms": 127500,
-      "name": "No es la primera vez que pasa",
-      "url": "https://open.spotify.com/track/4IEUNHdJ55wvFkpfRpIdbs"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
         "name": "S\u00edganle compadres",
         "url": "https://open.spotify.com/album/1AoAcFTJMxJSjxnXAecHZG"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 155533,
       "name": "Txus",
       "url": "https://open.spotify.com/track/2PsfVFoxML7Cqa5E66GKO8"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
+        "name": "No es la primera vez que pasa",
+        "url": "https://open.spotify.com/album/6V0HmOz23W95AM8BDhRpsU"
+      },
+      "artists": [
+        {
+          "name": "mis amigas fuman todas",
+          "url": "https://open.spotify.com/artist/7KdIqg2BmTqrSTJm19a8me"
+        }
+      ],
+      "duration_ms": 127500,
+      "name": "No es la primera vez que pasa",
+      "url": "https://open.spotify.com/track/4IEUNHdJ55wvFkpfRpIdbs"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
+        "name": "Nunca Sabras Quien Soy",
+        "url": "https://open.spotify.com/album/2u1UPcsSEaNKKcCQzT6nBf"
+      },
+      "artists": [
+        {
+          "name": "El Kintano y la Venerea",
+          "url": "https://open.spotify.com/artist/2FfJRV2Xcm2F9HpWUTgpUh"
+        }
+      ],
+      "duration_ms": 149112,
+      "name": "Nunca Sabras Quien Soy",
+      "url": "https://open.spotify.com/track/3jfnIlPIMgU4dEyEkI5H2J"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
         "name": "Figurante",
         "url": "https://open.spotify.com/album/09lLkyUYYdWGTfaDm6qiSt"
       },
@@ -1331,22 +1347,6 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "Nunca Sabras Quien Soy",
-        "url": "https://open.spotify.com/album/2u1UPcsSEaNKKcCQzT6nBf"
-      },
-      "artists": [
-        {
-          "name": "El Kintano y la Venerea",
-          "url": "https://open.spotify.com/artist/2FfJRV2Xcm2F9HpWUTgpUh"
-        }
-      ],
-      "duration_ms": 149112,
-      "name": "Nunca Sabras Quien Soy",
-      "url": "https://open.spotify.com/track/3jfnIlPIMgU4dEyEkI5H2J"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
         "name": "Cagaos",
         "url": "https://open.spotify.com/album/0QqTtUg9lUnYb9IXQJQ87K"
       },
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "En Mi Nube",
-        "url": "https://open.spotify.com/album/50VrsloTbWj0E0CDdPvFcH"
-      },
-      "artists": [
-        {
-          "name": "Debruces",
-          "url": "https://open.spotify.com/artist/6h3LUhp2WSoTAeOEYHa62S"
-        }
-      ],
-      "duration_ms": 213315,
-      "name": "En Mi Nube",
-      "url": "https://open.spotify.com/track/5b5SH7YGKsXjjqBuvTZ4D2"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
         "name": "Debilidades del Estado",
         "url": "https://open.spotify.com/album/6bn15NVy3l8lYu42JsTAvJ"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 188062,
       "name": "Debilidades del Estado",
       "url": "https://open.spotify.com/track/1pgljjpKVwAebCL23kkm9J"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
+        "name": "En Mi Nube",
+        "url": "https://open.spotify.com/album/50VrsloTbWj0E0CDdPvFcH"
+      },
+      "artists": [
+        {
+          "name": "Debruces",
+          "url": "https://open.spotify.com/artist/6h3LUhp2WSoTAeOEYHa62S"
+        }
+      ],
+      "duration_ms": 213315,
+      "name": "En Mi Nube",
+      "url": "https://open.spotify.com/track/5b5SH7YGKsXjjqBuvTZ4D2"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -1491,6 +1491,22 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
+        "name": "Democracias Enfermas",
+        "url": "https://open.spotify.com/album/4AJ1ZoLCxxtuw8A6vw2jje"
+      },
+      "artists": [
+        {
+          "name": "Josetxu Piperrak & The Riber Rock Band",
+          "url": "https://open.spotify.com/artist/3CMa7KMGEivE5STGjWSlxG"
+        }
+      ],
+      "duration_ms": 169198,
+      "name": "Democracias Enfermas",
+      "url": "https://open.spotify.com/track/0QT1G5YsSGLnAP6124s76p"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
         "name": "Y las que quedar\u00e1n",
         "url": "https://open.spotify.com/album/1XlgAEyavzQhZiQkD89J09"
       },
@@ -1503,22 +1519,6 @@
       "duration_ms": 252000,
       "name": "Y las que quedar\u00e1n",
       "url": "https://open.spotify.com/track/0W5XjAGzQhcAgtUJqrB9RO"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
-        "name": "O\u00eddo Cochina",
-        "url": "https://open.spotify.com/album/1ggL26VoWaPX7SgO7JkKmm"
-      },
-      "artists": [
-        {
-          "name": "Archivo Adxunto",
-          "url": "https://open.spotify.com/artist/5EKAqSElCzMDWFRPkM7f7S"
-        }
-      ],
-      "duration_ms": 92294,
-      "name": "O\u00eddo Cochina",
-      "url": "https://open.spotify.com/track/2qpcDTXNYibLBFi289kO54"
     }
   ],
   "unique_name": "Punk Espa\u00f1ol",

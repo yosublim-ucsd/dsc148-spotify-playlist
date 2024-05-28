@@ -1,12 +1,12 @@
 {
-  "description": "This is Christine D'Clario. The essential tracks, all in one playlist.",
-  "num_followers": 38687,
+  "description": "This Is Christine D'Clario. Los temas esenciales, todos en una lista.",
+  "num_followers": 38692,
   "original_name": "This Is Christine D'Clario",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlEqAAAAAABQgRDGXqXC/S+e0mHDIrwi",
+  "snapshot_id": "ZlJ7gAAAAAA5Pp7R0jnGrXMZR1C0vwcB",
   "tracks": [
     {
       "added_at": null,
@@ -619,6 +619,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Famous For (I Believe) - Collection",
+        "url": "https://open.spotify.com/album/1qIjL3BCQeXyXmy6fI8iQu"
+      },
+      "artists": [
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        },
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "duration_ms": 242427,
+      "name": "Tu Poder (Creo en Ti)",
+      "url": "https://open.spotify.com/track/3sb13o5UC6YzcvNzOm5aaA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pura Sal",
         "url": "https://open.spotify.com/album/4VTKlmH5109WzN8ZRJSzdV"
       },
@@ -643,26 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Famous For (I Believe) - Collection",
-        "url": "https://open.spotify.com/album/1qIjL3BCQeXyXmy6fI8iQu"
-      },
-      "artists": [
-        {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
-        },
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 242427,
-      "name": "Tu Poder (Creo en Ti)",
-      "url": "https://open.spotify.com/track/3sb13o5UC6YzcvNzOm5aaA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Emanuel",
         "url": "https://open.spotify.com/album/79SvnKvxBeFi7NrWIHbLef"
       },
@@ -683,6 +683,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Solo Tu... Lo Unico Que Quiero",
+        "url": "https://open.spotify.com/album/6B0oYyezYLKGtmhKhHOEwP"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "duration_ms": 219733,
+      "name": "Solo Tu",
+      "url": "https://open.spotify.com/track/2FpjyN25ntw5wRI0HHPTHs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Grande y Fiel (Live)",
         "url": "https://open.spotify.com/album/0TCN0IwS8kJ1qwgMu0tElH"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 335528,
       "name": "El Shaddai - Live",
       "url": "https://open.spotify.com/track/7nHFsC0S9EgcxneuxNxdpB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Solo Tu... Lo Unico Que Quiero",
-        "url": "https://open.spotify.com/album/6B0oYyezYLKGtmhKhHOEwP"
-      },
-      "artists": [
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 219733,
-      "name": "Solo Tu",
-      "url": "https://open.spotify.com/track/2FpjyN25ntw5wRI0HHPTHs"
     },
     {
       "added_at": null,

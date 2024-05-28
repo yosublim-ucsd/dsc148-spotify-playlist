@@ -1,6 +1,6 @@
 {
   "description": "?! ft. Tommy Richman",
-  "num_followers": 743330,
+  "num_followers": 743389,
   "original_name": "anti pop",
   "owner": {
     "name": "Spotify",
@@ -125,6 +125,22 @@
       "url": "https://open.spotify.com/track/1w327AHTCoChRIkJUprAnV"
     },
     {
+      "added_at": "2024-03-19 20:25:15",
+      "album": {
+        "name": "sins (let me in)",
+        "url": "https://open.spotify.com/album/67sbzjPbujx9SQwLyOetYg"
+      },
+      "artists": [
+        {
+          "name": "Kanii",
+          "url": "https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW"
+        }
+      ],
+      "duration_ms": 128326,
+      "name": "sins (let me in)",
+      "url": "https://open.spotify.com/track/6EQLN1Fl8oy46k4FMwhxug"
+    },
+    {
       "added_at": "2024-04-05 04:00:00",
       "album": {
         "name": "Scarlet 2 CLAUDE",
@@ -143,22 +159,6 @@
       "duration_ms": 152653,
       "name": "URRRGE!!!!!!!!!! (feat. A$AP Rocky)",
       "url": "https://open.spotify.com/track/0mxMMetknt24PVQxAHwXAZ"
-    },
-    {
-      "added_at": "2024-03-19 20:25:15",
-      "album": {
-        "name": "sins (let me in)",
-        "url": "https://open.spotify.com/album/67sbzjPbujx9SQwLyOetYg"
-      },
-      "artists": [
-        {
-          "name": "Kanii",
-          "url": "https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW"
-        }
-      ],
-      "duration_ms": 128326,
-      "name": "sins (let me in)",
-      "url": "https://open.spotify.com/track/6EQLN1Fl8oy46k4FMwhxug"
     },
     {
       "added_at": "2024-03-19 20:25:15",
@@ -565,22 +565,6 @@
       "url": "https://open.spotify.com/track/6U2sXLGhxJVmKskGUvJzI3"
     },
     {
-      "added_at": "2024-05-10 17:22:13",
-      "album": {
-        "name": "tijuana freestyle",
-        "url": "https://open.spotify.com/album/5xDOV8GhHiy4Zb264HR5Ji"
-      },
-      "artists": [
-        {
-          "name": "glaive",
-          "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
-        }
-      ],
-      "duration_ms": 107264,
-      "name": "tijuana freestyle",
-      "url": "https://open.spotify.com/track/65QPUGmU2k5XgW4KBQvrds"
-    },
-    {
       "added_at": "2024-04-26 18:37:00",
       "album": {
         "name": "Colors",
@@ -601,6 +585,22 @@
       "url": "https://open.spotify.com/track/49aBr2lBFh0LkR84IbsIQz"
     },
     {
+      "added_at": "2024-05-10 17:22:13",
+      "album": {
+        "name": "tijuana freestyle",
+        "url": "https://open.spotify.com/album/5xDOV8GhHiy4Zb264HR5Ji"
+      },
+      "artists": [
+        {
+          "name": "glaive",
+          "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
+        }
+      ],
+      "duration_ms": 107264,
+      "name": "tijuana freestyle",
+      "url": "https://open.spotify.com/track/65QPUGmU2k5XgW4KBQvrds"
+    },
+    {
       "added_at": "2024-03-19 20:25:15",
       "album": {
         "name": "SNAKE EYES",
@@ -617,22 +617,6 @@
       "url": "https://open.spotify.com/track/37ouI56S9L2R8ASWeyAMG7"
     },
     {
-      "added_at": "2024-05-16 21:36:20",
-      "album": {
-        "name": "So What If I'm A Freak",
-        "url": "https://open.spotify.com/album/01Si4JV49tWw0ZI3o9L7VQ"
-      },
-      "artists": [
-        {
-          "name": "Snow Strippers",
-          "url": "https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8"
-        }
-      ],
-      "duration_ms": 146865,
-      "name": "So What If I'm A Freak",
-      "url": "https://open.spotify.com/track/3Om0j8yTp9MMMvrf4Xe94N"
-    },
-    {
       "added_at": "2024-05-24 05:00:00",
       "album": {
         "name": "PULL UP",
@@ -647,6 +631,22 @@
       "duration_ms": 140143,
       "name": "PULL UP",
       "url": "https://open.spotify.com/track/35wqLh4Ht76d4YIUU2oNXq"
+    },
+    {
+      "added_at": "2024-05-16 21:36:20",
+      "album": {
+        "name": "So What If I'm A Freak",
+        "url": "https://open.spotify.com/album/01Si4JV49tWw0ZI3o9L7VQ"
+      },
+      "artists": [
+        {
+          "name": "Snow Strippers",
+          "url": "https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8"
+        }
+      ],
+      "duration_ms": 146865,
+      "name": "So What If I'm A Freak",
+      "url": "https://open.spotify.com/track/3Om0j8yTp9MMMvrf4Xe94N"
     },
     {
       "added_at": "2024-03-19 20:25:15",
@@ -889,20 +889,20 @@
       "url": "https://open.spotify.com/track/1ELp8T7arWLvK5q34Akt0r"
     },
     {
-      "added_at": "2024-04-19 05:00:00",
+      "added_at": "2024-03-19 20:25:15",
       "album": {
-        "name": "WELCOME HOME [deluxe]",
-        "url": "https://open.spotify.com/album/1AZ73AyVJ1aYn1uW7hx5bC"
+        "name": "Sad Night Dynamite",
+        "url": "https://open.spotify.com/album/2a7NyNVcy7eJSeUzzOOF4x"
       },
       "artists": [
         {
-          "name": "Aries",
-          "url": "https://open.spotify.com/artist/3hOdow4ZPmrby7Q1wfPLEy"
+          "name": "Sad Night Dynamite",
+          "url": "https://open.spotify.com/artist/6ydvoGN30eRfE78bjTANF7"
         }
       ],
-      "duration_ms": 152000,
-      "name": "90 DAYS",
-      "url": "https://open.spotify.com/track/0oMucgw0ILgJQzkvTBMDH8"
+      "duration_ms": 187466,
+      "name": "Krunk",
+      "url": "https://open.spotify.com/track/4JC2H3j5NOkpiOXTgMVsx7"
     },
     {
       "added_at": "2024-03-19 20:25:15",
@@ -925,20 +925,20 @@
       "url": "https://open.spotify.com/track/6zELuTXrMMOk4fFIf3OErT"
     },
     {
-      "added_at": "2024-03-19 20:25:15",
+      "added_at": "2024-04-19 05:00:00",
       "album": {
-        "name": "Sad Night Dynamite",
-        "url": "https://open.spotify.com/album/2a7NyNVcy7eJSeUzzOOF4x"
+        "name": "WELCOME HOME [deluxe]",
+        "url": "https://open.spotify.com/album/1AZ73AyVJ1aYn1uW7hx5bC"
       },
       "artists": [
         {
-          "name": "Sad Night Dynamite",
-          "url": "https://open.spotify.com/artist/6ydvoGN30eRfE78bjTANF7"
+          "name": "Aries",
+          "url": "https://open.spotify.com/artist/3hOdow4ZPmrby7Q1wfPLEy"
         }
       ],
-      "duration_ms": 187466,
-      "name": "Krunk",
-      "url": "https://open.spotify.com/track/4JC2H3j5NOkpiOXTgMVsx7"
+      "duration_ms": 152000,
+      "name": "90 DAYS",
+      "url": "https://open.spotify.com/track/0oMucgw0ILgJQzkvTBMDH8"
     },
     {
       "added_at": "2024-03-19 20:25:15",
@@ -1189,30 +1189,6 @@
       "url": "https://open.spotify.com/track/24ip7sFlOP3Ftl5EdxV6Zd"
     },
     {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "light! (with Lil Nas X & 9lives)",
-        "url": "https://open.spotify.com/album/1jGxVap6do7ySzr0XPq4QL"
-      },
-      "artists": [
-        {
-          "name": "skaiwater",
-          "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
-        },
-        {
-          "name": "9lives",
-          "url": "https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q"
-        },
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        }
-      ],
-      "duration_ms": 151839,
-      "name": "light! (with Lil Nas X & 9lives)",
-      "url": "https://open.spotify.com/track/0PICOOdvy8swK7UZevzAxj"
-    },
-    {
       "added_at": "2024-05-10 17:22:13",
       "album": {
         "name": "Night Killaz Vol. 2",
@@ -1247,6 +1223,30 @@
       "duration_ms": 180575,
       "name": "NEW DORP. NEW YORK",
       "url": "https://open.spotify.com/track/2QFHyK2SV2YWyJzu6kpGhk"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "light! (with Lil Nas X & 9lives)",
+        "url": "https://open.spotify.com/album/1jGxVap6do7ySzr0XPq4QL"
+      },
+      "artists": [
+        {
+          "name": "skaiwater",
+          "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
+        },
+        {
+          "name": "9lives",
+          "url": "https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q"
+        },
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        }
+      ],
+      "duration_ms": 151839,
+      "name": "light! (with Lil Nas X & 9lives)",
+      "url": "https://open.spotify.com/track/0PICOOdvy8swK7UZevzAxj"
     },
     {
       "added_at": "2024-04-26 18:37:00",
@@ -1285,6 +1285,26 @@
       "url": "https://open.spotify.com/track/1YTslvpUMCvbo2GMR25LTq"
     },
     {
+      "added_at": "2024-03-19 20:25:15",
+      "album": {
+        "name": "I Just Wanna",
+        "url": "https://open.spotify.com/album/1oOZfgFNqap0vvG25bOeAE"
+      },
+      "artists": [
+        {
+          "name": "Superfan",
+          "url": "https://open.spotify.com/artist/3BO07jDo7Qs7qNLdwRoISM"
+        },
+        {
+          "name": "KALI",
+          "url": "https://open.spotify.com/artist/44C4c70Ni7VpXkCAmg8TXn"
+        }
+      ],
+      "duration_ms": 254399,
+      "name": "I Just Wanna",
+      "url": "https://open.spotify.com/track/00qVenrhW7Lr9AwHgc7rOe"
+    },
+    {
       "added_at": "2024-04-19 05:00:00",
       "album": {
         "name": "Spaceman (ft. RIZ LA VIE)",
@@ -1307,26 +1327,6 @@
       "duration_ms": 179104,
       "name": "Spaceman (ft. RIZ LA VIE)",
       "url": "https://open.spotify.com/track/7JAroptXIwH4bIiB6ZcgVD"
-    },
-    {
-      "added_at": "2024-03-19 20:25:15",
-      "album": {
-        "name": "I Just Wanna",
-        "url": "https://open.spotify.com/album/1oOZfgFNqap0vvG25bOeAE"
-      },
-      "artists": [
-        {
-          "name": "Superfan",
-          "url": "https://open.spotify.com/artist/3BO07jDo7Qs7qNLdwRoISM"
-        },
-        {
-          "name": "KALI",
-          "url": "https://open.spotify.com/artist/44C4c70Ni7VpXkCAmg8TXn"
-        }
-      ],
-      "duration_ms": 254399,
-      "name": "I Just Wanna",
-      "url": "https://open.spotify.com/track/00qVenrhW7Lr9AwHgc7rOe"
     },
     {
       "added_at": "2024-03-19 20:25:15",
@@ -1377,26 +1377,6 @@
       "url": "https://open.spotify.com/track/60qaApzoNFsAXhhPc5zDxh"
     },
     {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "fIT chECK fREEsTYle",
-        "url": "https://open.spotify.com/album/34TDMPJjH7oqvyFXwxGeUB"
-      },
-      "artists": [
-        {
-          "name": "1999 WRITE THE FUTURE",
-          "url": "https://open.spotify.com/artist/33aS3DKsGRMWBwjM9ddhak"
-        },
-        {
-          "name": "Jean Dawson",
-          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
-        }
-      ],
-      "duration_ms": 183429,
-      "name": "fIT chECK fREEsTYle",
-      "url": "https://open.spotify.com/track/1nGPFgUuF5fJTKhLz5BfER"
-    },
-    {
       "added_at": "2024-03-19 20:25:15",
       "album": {
         "name": "'Decent",
@@ -1429,6 +1409,26 @@
       "url": "https://open.spotify.com/track/4Cl0ism4qfwNTtDbk8K6qm"
     },
     {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "fIT chECK fREEsTYle",
+        "url": "https://open.spotify.com/album/34TDMPJjH7oqvyFXwxGeUB"
+      },
+      "artists": [
+        {
+          "name": "1999 WRITE THE FUTURE",
+          "url": "https://open.spotify.com/artist/33aS3DKsGRMWBwjM9ddhak"
+        },
+        {
+          "name": "Jean Dawson",
+          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
+        }
+      ],
+      "duration_ms": 183429,
+      "name": "fIT chECK fREEsTYle",
+      "url": "https://open.spotify.com/track/1nGPFgUuF5fJTKhLz5BfER"
+    },
+    {
       "added_at": "2024-05-10 17:22:13",
       "album": {
         "name": "ROLE MODEL",
@@ -1447,6 +1447,26 @@
       "duration_ms": 118603,
       "name": "ROLE MODEL",
       "url": "https://open.spotify.com/track/4v9x3cl1AIAbCLYGO6EBuS"
+    },
+    {
+      "added_at": "2024-04-26 18:37:00",
+      "album": {
+        "name": "Godfather (feat. Yung Kayo)",
+        "url": "https://open.spotify.com/album/3xVVmm7RDbCWvAB31uUUwW"
+      },
+      "artists": [
+        {
+          "name": "Sad Night Dynamite",
+          "url": "https://open.spotify.com/artist/6ydvoGN30eRfE78bjTANF7"
+        },
+        {
+          "name": "Yung Kayo",
+          "url": "https://open.spotify.com/artist/7J0hrNYCO5DgAx0XaRJqkh"
+        }
+      ],
+      "duration_ms": 232075,
+      "name": "Godfather (feat. Yung Kayo)",
+      "url": "https://open.spotify.com/track/2ss94LLEyxgzvVg6Ax0c2x"
     },
     {
       "added_at": "2024-04-19 05:00:00",
@@ -1479,26 +1499,6 @@
       "duration_ms": 114698,
       "name": "me and all my niggas",
       "url": "https://open.spotify.com/track/1V5LZEDXnCctyA2G4NNjsg"
-    },
-    {
-      "added_at": "2024-04-26 18:37:00",
-      "album": {
-        "name": "Godfather (feat. Yung Kayo)",
-        "url": "https://open.spotify.com/album/3xVVmm7RDbCWvAB31uUUwW"
-      },
-      "artists": [
-        {
-          "name": "Sad Night Dynamite",
-          "url": "https://open.spotify.com/artist/6ydvoGN30eRfE78bjTANF7"
-        },
-        {
-          "name": "Yung Kayo",
-          "url": "https://open.spotify.com/artist/7J0hrNYCO5DgAx0XaRJqkh"
-        }
-      ],
-      "duration_ms": 232075,
-      "name": "Godfather (feat. Yung Kayo)",
-      "url": "https://open.spotify.com/track/2ss94LLEyxgzvVg6Ax0c2x"
     },
     {
       "added_at": "2024-03-19 20:25:15",
@@ -1585,22 +1585,6 @@
       "url": "https://open.spotify.com/track/1P2ugR200fs2J3ASKUAIMg"
     },
     {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "Younger Than I Was Before",
-        "url": "https://open.spotify.com/album/2rISSRCKbgCn4aUxeznpqN"
-      },
-      "artists": [
-        {
-          "name": "LAUNDRY DAY",
-          "url": "https://open.spotify.com/artist/0SwK6bwzmGkViNoxSbJ5Mk"
-        }
-      ],
-      "duration_ms": 155536,
-      "name": "Crazy Stupid Love",
-      "url": "https://open.spotify.com/track/5gZmKbISqeyhHl63nMFvi0"
-    },
-    {
       "added_at": "2024-03-19 20:25:15",
       "album": {
         "name": "UGLY",
@@ -1615,6 +1599,22 @@
       "duration_ms": 174648,
       "name": "Sooner",
       "url": "https://open.spotify.com/track/2VKilJaIWvpUswtBiW3GfL"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Younger Than I Was Before",
+        "url": "https://open.spotify.com/album/2rISSRCKbgCn4aUxeznpqN"
+      },
+      "artists": [
+        {
+          "name": "LAUNDRY DAY",
+          "url": "https://open.spotify.com/artist/0SwK6bwzmGkViNoxSbJ5Mk"
+        }
+      ],
+      "duration_ms": 155536,
+      "name": "Crazy Stupid Love",
+      "url": "https://open.spotify.com/track/5gZmKbISqeyhHl63nMFvi0"
     },
     {
       "added_at": "2024-03-19 20:25:15",
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2024-03-19 20:25:15",
       "album": {
-        "name": "Aphid (feat. Dijon)",
-        "url": "https://open.spotify.com/album/4vtOzM8bPSkU9ctAJMcVlc"
-      },
-      "artists": [
-        {
-          "name": "Matt Champion",
-          "url": "https://open.spotify.com/artist/29Oq9Nv8zLgu3IvX1tIpbm"
-        }
-      ],
-      "duration_ms": 165360,
-      "name": "Aphid (feat. Dijon)",
-      "url": "https://open.spotify.com/track/5BLRxUeMQFa4cK61ljrNiF"
-    },
-    {
-      "added_at": "2024-03-19 20:25:15",
-      "album": {
         "name": "Princess Forever",
         "url": "https://open.spotify.com/album/24nQZEr8mncYgewoIVbCHR"
       },
@@ -1759,18 +1743,18 @@
     {
       "added_at": "2024-03-19 20:25:15",
       "album": {
-        "name": "Sweet Boy Pt. 2",
-        "url": "https://open.spotify.com/album/4hQLHqX3ht0FNuk2z5sKfG"
+        "name": "Aphid (feat. Dijon)",
+        "url": "https://open.spotify.com/album/4vtOzM8bPSkU9ctAJMcVlc"
       },
       "artists": [
         {
-          "name": "Malcolm Todd",
-          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
+          "name": "Matt Champion",
+          "url": "https://open.spotify.com/artist/29Oq9Nv8zLgu3IvX1tIpbm"
         }
       ],
-      "duration_ms": 175200,
-      "name": "Sore Throat",
-      "url": "https://open.spotify.com/track/4rFBcz1rUH5IKmKeVRVpcO"
+      "duration_ms": 165360,
+      "name": "Aphid (feat. Dijon)",
+      "url": "https://open.spotify.com/track/5BLRxUeMQFa4cK61ljrNiF"
     },
     {
       "added_at": "2024-03-19 20:25:15",
@@ -1791,6 +1775,22 @@
       "duration_ms": 181915,
       "name": "A LA CARTE (feat. brakence)",
       "url": "https://open.spotify.com/track/5L6F6siaHwwpuR1exuZPnH"
+    },
+    {
+      "added_at": "2024-03-19 20:25:15",
+      "album": {
+        "name": "Sweet Boy Pt. 2",
+        "url": "https://open.spotify.com/album/4hQLHqX3ht0FNuk2z5sKfG"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Todd",
+          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
+        }
+      ],
+      "duration_ms": 175200,
+      "name": "Sore Throat",
+      "url": "https://open.spotify.com/track/4rFBcz1rUH5IKmKeVRVpcO"
     }
   ],
   "unique_name": "anti pop",

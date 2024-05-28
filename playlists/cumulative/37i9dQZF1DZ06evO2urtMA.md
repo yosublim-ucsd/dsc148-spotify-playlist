@@ -2,7 +2,7 @@
 
 ### [This Is Narrow Head](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2urtMA)
 
-> This is: Narrow Head\. Alle wichtigen Tracks in einer Playlist.
+> This Is Narrow Head\. Los temas esenciales, todos en una lista.
 
 39 songs - 2 hr 19 min
 

@@ -1,6 +1,6 @@
 {
   "description": "Victory over death has been won today, forever!",
-  "num_followers": 73501,
+  "num_followers": 73494,
   "original_name": "Easter Worship",
   "owner": {
     "name": "Spotify",
@@ -1603,6 +1603,22 @@
     {
       "added_at": "2024-03-20 11:39:23",
       "album": {
+        "name": "Lamb of God (Live)",
+        "url": "https://open.spotify.com/album/4obIy2fyaxwVWnskygUke1"
+      },
+      "artists": [
+        {
+          "name": "Matt Redman",
+          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
+        }
+      ],
+      "duration_ms": 455362,
+      "name": "Son of Suffering - Live",
+      "url": "https://open.spotify.com/track/4BT98XFVb11QHSndk2Kc8P"
+    },
+    {
+      "added_at": "2024-03-20 11:39:23",
+      "album": {
         "name": "Hope Is Awake",
         "url": "https://open.spotify.com/album/6vt5cLaUYuAg77XKgfnxYQ"
       },
@@ -1619,18 +1635,18 @@
     {
       "added_at": "2024-03-20 11:39:23",
       "album": {
-        "name": "Lamb of God (Live)",
-        "url": "https://open.spotify.com/album/4obIy2fyaxwVWnskygUke1"
+        "name": "Hello Maker",
+        "url": "https://open.spotify.com/album/22pKUdahZtdO78K72hNK1j"
       },
       "artists": [
         {
-          "name": "Matt Redman",
-          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
+          "name": "Bright City",
+          "url": "https://open.spotify.com/artist/5hYRBkg6k7yq787YZedMaR"
         }
       ],
-      "duration_ms": 455362,
-      "name": "Son of Suffering - Live",
-      "url": "https://open.spotify.com/track/4BT98XFVb11QHSndk2Kc8P"
+      "duration_ms": 300854,
+      "name": "Rock of Our Salvation",
+      "url": "https://open.spotify.com/track/0xIWuowu94DVPnePfM04uX"
     },
     {
       "added_at": "2024-03-20 11:39:23",
@@ -1659,22 +1675,6 @@
       "duration_ms": 314517,
       "name": "All For Love (Gethsemane) - Live",
       "url": "https://open.spotify.com/track/1d0xX8GVn0oDPgHJXeIhi1"
-    },
-    {
-      "added_at": "2024-03-20 11:39:23",
-      "album": {
-        "name": "Hello Maker",
-        "url": "https://open.spotify.com/album/22pKUdahZtdO78K72hNK1j"
-      },
-      "artists": [
-        {
-          "name": "Bright City",
-          "url": "https://open.spotify.com/artist/5hYRBkg6k7yq787YZedMaR"
-        }
-      ],
-      "duration_ms": 300854,
-      "name": "Rock of Our Salvation",
-      "url": "https://open.spotify.com/track/0xIWuowu94DVPnePfM04uX"
     },
     {
       "added_at": "2024-03-20 11:39:23",
@@ -1799,22 +1799,6 @@
     {
       "added_at": "2024-03-20 11:39:23",
       "album": {
-        "name": "With/In",
-        "url": "https://open.spotify.com/album/24VYLFYasTOQhFXVv2HUE4"
-      },
-      "artists": [
-        {
-          "name": "Austin Stone Worship",
-          "url": "https://open.spotify.com/artist/5B0gcQCmHJR2VznrIGKh4x"
-        }
-      ],
-      "duration_ms": 287933,
-      "name": "Our God Is Alive",
-      "url": "https://open.spotify.com/track/2CAztZQ7LpJdtiIBhHWgnM"
-    },
-    {
-      "added_at": "2024-03-20 11:39:23",
-      "album": {
         "name": "Upon Him",
         "url": "https://open.spotify.com/album/0LzvNRqh0zYGMyAuky8W05"
       },
@@ -1827,6 +1811,22 @@
       "duration_ms": 241901,
       "name": "Upon Him",
       "url": "https://open.spotify.com/track/6hgbfjVLnlzIHiR8OJpeZS"
+    },
+    {
+      "added_at": "2024-03-20 11:39:23",
+      "album": {
+        "name": "With/In",
+        "url": "https://open.spotify.com/album/24VYLFYasTOQhFXVv2HUE4"
+      },
+      "artists": [
+        {
+          "name": "Austin Stone Worship",
+          "url": "https://open.spotify.com/artist/5B0gcQCmHJR2VznrIGKh4x"
+        }
+      ],
+      "duration_ms": 287933,
+      "name": "Our God Is Alive",
+      "url": "https://open.spotify.com/track/2CAztZQ7LpJdtiIBhHWgnM"
     },
     {
       "added_at": "2024-03-20 11:39:23",

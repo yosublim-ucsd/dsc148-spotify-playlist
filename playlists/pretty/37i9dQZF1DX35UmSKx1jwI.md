@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35UmSKx1jwI.md) - [plain]
 
 > Feel good, high energy beats to keep you motivated for that every day workout!
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,116 likes - 60 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,163 likes - 60 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35UmSKx1jwI.md) - [plain]
 | 56 | [Therapy](https://open.spotify.com/track/0AlHwHvgbjkRKDaTI6YDHD) | [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E) | [Duality](https://open.spotify.com/album/6AlOjPdNpM41lMVSjjsrUM) | 3:40 |
 | 57 | [Power \(Remember Who You Are\) \- From The Flipper’s Skate Heist Short Film](https://open.spotify.com/track/7vQYsdVQMbB8d8DSxtHSgr) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Äyanna](https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Power \(Remember Who You Are\) \[From The Flipper’s Skate Heist Short Film\]](https://open.spotify.com/album/0U8rhl69WPOU67DqFhjPaq) | 3:25 |
 | 58 | [Good Morning](https://open.spotify.com/track/5vbFDDuHmTqHR8tGxiipf2) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Matisse & Sadko](https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88) | [Good Morning](https://open.spotify.com/album/3NAnf9IjYQYxLXEPxMdnuC) | 3:01 |
-| 59 | [One Last Dance](https://open.spotify.com/track/07B9SsrBhdpcVBGb7vOKYL) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [One Last Dance](https://open.spotify.com/album/4YYQxEE1F9q99lwD6HEzzJ) | 3:06 |
-| 60 | [You Might Be \(feat\. Lils\) \- GoldFish Remix](https://open.spotify.com/track/0JshnWfAOhnJiob29TL7XO) | [Autograf](https://open.spotify.com/artist/0FVj4JuzTyudaXAwfqDQ20), [Lils](https://open.spotify.com/artist/6u6vVHSI8WgGTJi3mYPOn0), [GoldFish](https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7) | [You Might Be \(feat\. Lils\) \[Remixes\]](https://open.spotify.com/album/3hvxQMfoWHWwUM89pCaRZ5) | 3:01 |
+| 59 | [You Might Be \(feat\. Lils\) \- GoldFish Remix](https://open.spotify.com/track/0JshnWfAOhnJiob29TL7XO) | [Autograf](https://open.spotify.com/artist/0FVj4JuzTyudaXAwfqDQ20), [Lils](https://open.spotify.com/artist/6u6vVHSI8WgGTJi3mYPOn0), [GoldFish](https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7) | [You Might Be \(feat\. Lils\) \[Remixes\]](https://open.spotify.com/album/3hvxQMfoWHWwUM89pCaRZ5) | 3:01 |
+| 60 | [One Last Dance](https://open.spotify.com/track/07B9SsrBhdpcVBGb7vOKYL) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [One Last Dance](https://open.spotify.com/album/4YYQxEE1F9q99lwD6HEzzJ) | 3:06 |
 
 Snapshot ID: `ZQzK8AAAAACfgNuhw2h7GHTWhEvVdFsl`

@@ -52,7 +52,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-28",
       "duration_ms": 325151,
       "name": "Ai Kh\u1ed5 V\u00ec Ai",
       "url": "https://open.spotify.com/track/1z3Nh5t0LAGO5hoWMV32ai"
@@ -958,7 +958,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-13",
+      "date_removed": null,
       "duration_ms": 280173,
       "name": "Em V\u1ec1 K\u1ebbo Tr\u1eddi M\u01b0a",
       "url": "https://open.spotify.com/track/0aOtpaJrPaB6tMr75MTjC5"
@@ -2237,6 +2237,24 @@
     },
     {
       "album": {
+        "name": "Kh\u00fac T\u00ecnh X\u01b0a",
+        "url": "https://open.spotify.com/album/20hpRAF1vJyA9Svfa5di1H"
+      },
+      "artists": [
+        {
+          "name": "L\u1ec7 Quy\u00ean",
+          "url": "https://open.spotify.com/artist/4F5jaYapI8RtTpqwaYs4IF"
+        }
+      ],
+      "date_added": "2024-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284333,
+      "name": "M\u01b0a N\u1eeda \u0110\u00eam",
+      "url": "https://open.spotify.com/track/587q7I2eCdzuPxHuB80CiY"
+    },
+    {
+      "album": {
         "name": "Kh\u00fac T\u00ecnh X\u01b0a 2",
         "url": "https://open.spotify.com/album/3oMbr83Q551zPjN2KvhuSX"
       },
@@ -2530,7 +2548,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-18",
+      "date_removed": null,
       "duration_ms": 324769,
       "name": "Ng\u00e0y Bu\u1ed3n",
       "url": "https://open.spotify.com/track/5Ab3ZKWVr25rmJjEeFiksR"
@@ -2860,6 +2878,24 @@
       "duration_ms": 372866,
       "name": "Nh\u1eefng \u0111\u1ed3i hoa sim",
       "url": "https://open.spotify.com/track/5RWImsPAjdpJucoMXRmpCU"
+    },
+    {
+      "album": {
+        "name": "Hoa No Ve Dem",
+        "url": "https://open.spotify.com/album/04b4J4LM9xzBG8V4F9VdDx"
+      },
+      "artists": [
+        {
+          "name": "Ph\u01b0\u01a1ng Dung",
+          "url": "https://open.spotify.com/artist/2P7WrPkRtQLLJY5KPOmDt3"
+        }
+      ],
+      "date_added": "2024-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350148,
+      "name": "Nua Dem Ngoai O",
+      "url": "https://open.spotify.com/track/6AESqUrvtPbk25I5ojf5c3"
     },
     {
       "album": {
@@ -3504,7 +3540,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-28",
       "duration_ms": 348577,
       "name": "Qua C\u01a1n M\u00ea",
       "url": "https://open.spotify.com/track/57GWgvNyt4Rps9U61kO1qx"
@@ -3760,7 +3796,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-13",
+      "date_removed": null,
       "duration_ms": 318600,
       "name": "S\u1ea7u L\u1ebb B\u00f3ng",
       "url": "https://open.spotify.com/track/4a9t1NmCc4PH7i9uNXS6pi"
@@ -4436,7 +4472,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-28",
       "duration_ms": 348138,
       "name": "T\u00ecnh L\u1ee1",
       "url": "https://open.spotify.com/track/5EaDSkp6yIfA516tmCGOPd"
@@ -4546,7 +4582,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-28",
       "duration_ms": 244859,
       "name": "T\u1ea5m \u1ea2nh Kh\u00f4ng H\u1ed3n",
       "url": "https://open.spotify.com/track/1HJ9VqgGvmrWoVaT8zid85"
@@ -4908,7 +4944,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-28",
       "duration_ms": 244890,
       "name": "Xuan Nay Con Khong Ve",
       "url": "https://open.spotify.com/track/5KexBtuRYJoPeUxMwRhAXf"

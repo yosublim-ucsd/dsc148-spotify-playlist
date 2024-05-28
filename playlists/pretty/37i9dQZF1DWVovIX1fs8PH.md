@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVovIX1fs8PH.md) - [plain]
 
 > The official playlist for Disney’s The Lion King.
 
-[Spotify](https://open.spotify.com/user/spotify) - 312,983 likes - 90 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 313,037 likes - 90 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

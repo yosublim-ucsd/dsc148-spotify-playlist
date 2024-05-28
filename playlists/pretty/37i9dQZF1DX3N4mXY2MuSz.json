@@ -1,6 +1,6 @@
 {
   "description": "Holiday classics from your favourite punks. ",
-  "num_followers": 62529,
+  "num_followers": 62523,
   "original_name": "Punk Christmas",
   "owner": {
     "name": "Spotify",
@@ -803,6 +803,22 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
+        "name": "A More Angry Than Naughty Kamakazi Christmas",
+        "url": "https://open.spotify.com/album/7DePbGU4XWeHyq2UDG03Hk"
+      },
+      "artists": [
+        {
+          "name": "Kamakazi",
+          "url": "https://open.spotify.com/artist/1W2uHVFphPSyLk7zuL5Y8J"
+        }
+      ],
+      "duration_ms": 52250,
+      "name": "It's Beginning to Look a Lot Like Shitmas",
+      "url": "https://open.spotify.com/track/19eHS0T2UnD8ArOUwMKN4d"
+    },
+    {
+      "added_at": "2023-11-18 13:41:26",
+      "album": {
         "name": "Under the Mistletoe",
         "url": "https://open.spotify.com/album/5N5QnwWp79kzpJopeezGjG"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 255400,
       "name": "Christmas Shoes",
       "url": "https://open.spotify.com/track/1jdO5CFR3dhv3OKoALywkl"
-    },
-    {
-      "added_at": "2023-11-18 13:41:26",
-      "album": {
-        "name": "A More Angry Than Naughty Kamakazi Christmas",
-        "url": "https://open.spotify.com/album/7DePbGU4XWeHyq2UDG03Hk"
-      },
-      "artists": [
-        {
-          "name": "Kamakazi",
-          "url": "https://open.spotify.com/artist/1W2uHVFphPSyLk7zuL5Y8J"
-        }
-      ],
-      "duration_ms": 52250,
-      "name": "It's Beginning to Look a Lot Like Shitmas",
-      "url": "https://open.spotify.com/track/19eHS0T2UnD8ArOUwMKN4d"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -903,22 +903,6 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
-        "name": "Holiday Records",
-        "url": "https://open.spotify.com/album/4xrqHer0s9cTXkL0VyGgYx"
-      },
-      "artists": [
-        {
-          "name": "New Found Glory",
-          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "Holiday Records",
-      "url": "https://open.spotify.com/track/0oHWViVcaumnleLFUxDf4Q"
-    },
-    {
-      "added_at": "2023-11-18 13:41:26",
-      "album": {
         "name": "Xmas Exile",
         "url": "https://open.spotify.com/album/6t9k8xQhwUGtGXxiPjbqKG"
       },
@@ -935,18 +919,18 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
-        "name": "Under the Mistletoe",
-        "url": "https://open.spotify.com/album/5N5QnwWp79kzpJopeezGjG"
+        "name": "Holiday Records",
+        "url": "https://open.spotify.com/album/4xrqHer0s9cTXkL0VyGgYx"
       },
       "artists": [
         {
-          "name": "Masked Intruder",
-          "url": "https://open.spotify.com/artist/4qUFkkArfii3qNG8TnbPfc"
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
         }
       ],
-      "duration_ms": 178228,
-      "name": "Under the Mistletoe",
-      "url": "https://open.spotify.com/track/6gFVxwYlHoyb92OrMnNmcR"
+      "duration_ms": 183000,
+      "name": "Holiday Records",
+      "url": "https://open.spotify.com/track/0oHWViVcaumnleLFUxDf4Q"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -999,6 +983,22 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
+        "name": "Under the Mistletoe",
+        "url": "https://open.spotify.com/album/5N5QnwWp79kzpJopeezGjG"
+      },
+      "artists": [
+        {
+          "name": "Masked Intruder",
+          "url": "https://open.spotify.com/artist/4qUFkkArfii3qNG8TnbPfc"
+        }
+      ],
+      "duration_ms": 178228,
+      "name": "Under the Mistletoe",
+      "url": "https://open.spotify.com/track/6gFVxwYlHoyb92OrMnNmcR"
+    },
+    {
+      "added_at": "2023-11-18 13:41:26",
+      "album": {
         "name": "Christma-ska",
         "url": "https://open.spotify.com/album/01WaNurRP5USodwR1m67tU"
       },
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
-        "name": "Merry Flippin' Christmas Vol. 1 and 2",
-        "url": "https://open.spotify.com/album/6tGUcaUMbNomtYJrYNLlmj"
-      },
-      "artists": [
-        {
-          "name": "Bowling For Soup",
-          "url": "https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb"
-        }
-      ],
-      "duration_ms": 164746,
-      "name": "Merry Flippin' Christmas (Happy Freakin' New Year)",
-      "url": "https://open.spotify.com/track/5vcL0Ml7xEiZysuAMmK4zF"
-    },
-    {
-      "added_at": "2023-11-18 13:41:26",
-      "album": {
         "name": "Christmas Rock",
         "url": "https://open.spotify.com/album/1aGn5HA8LqUMsGgbZNZGj2"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 177640,
       "name": "X'Mas Time (It Sure Doesn't Feel Like It)",
       "url": "https://open.spotify.com/track/30HWEKPozyqnJ8ARfVnoT2"
+    },
+    {
+      "added_at": "2023-11-18 13:41:26",
+      "album": {
+        "name": "Merry Flippin' Christmas Vol. 1 and 2",
+        "url": "https://open.spotify.com/album/6tGUcaUMbNomtYJrYNLlmj"
+      },
+      "artists": [
+        {
+          "name": "Bowling For Soup",
+          "url": "https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb"
+        }
+      ],
+      "duration_ms": 164746,
+      "name": "Merry Flippin' Christmas (Happy Freakin' New Year)",
+      "url": "https://open.spotify.com/track/5vcL0Ml7xEiZysuAMmK4zF"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
-        "name": "Santa Claus Is Coming to Town",
-        "url": "https://open.spotify.com/album/3KsEuysKMu3uTRac1Y1x41"
-      },
-      "artists": [
-        {
-          "name": "A Rocket To The Moon",
-          "url": "https://open.spotify.com/artist/1NU9Em6e8dDo36Js6nEo3t"
-        }
-      ],
-      "duration_ms": 114210,
-      "name": "Santa Claus Is Coming to Town - Single Version",
-      "url": "https://open.spotify.com/track/76FkKWaIxsOMzP15ACZLvt"
-    },
-    {
-      "added_at": "2023-11-18 13:41:26",
-      "album": {
         "name": "The Double EP",
         "url": "https://open.spotify.com/album/2D25DRCueYvqDhRI3vZsMH"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 145211,
       "name": "Forgot It Was Christmas",
       "url": "https://open.spotify.com/track/3q6x9cz4G5nYbAQcLa43S5"
+    },
+    {
+      "added_at": "2023-11-18 13:41:26",
+      "album": {
+        "name": "Santa Claus Is Coming to Town",
+        "url": "https://open.spotify.com/album/3KsEuysKMu3uTRac1Y1x41"
+      },
+      "artists": [
+        {
+          "name": "A Rocket To The Moon",
+          "url": "https://open.spotify.com/artist/1NU9Em6e8dDo36Js6nEo3t"
+        }
+      ],
+      "duration_ms": 114210,
+      "name": "Santa Claus Is Coming to Town - Single Version",
+      "url": "https://open.spotify.com/track/76FkKWaIxsOMzP15ACZLvt"
     },
     {
       "added_at": "2023-11-18 13:41:26",

@@ -1,6 +1,6 @@
 {
   "description": "Bounce to the Brick City sound. From New Jersey to the world. Cover: DJ Sliink",
-  "num_followers": 82869,
+  "num_followers": 82874,
   "original_name": "Jersey Club Heat",
   "owner": {
     "name": "Spotify",
@@ -1191,6 +1191,26 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
+        "name": "Crying in the Club",
+        "url": "https://open.spotify.com/album/2YvnSFSzTj30fh7DtS12uN"
+      },
+      "artists": [
+        {
+          "name": "GROOVY",
+          "url": "https://open.spotify.com/artist/6Y6qIKwe32BxNflpxbKsJc"
+        },
+        {
+          "name": "Kanii",
+          "url": "https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW"
+        }
+      ],
+      "duration_ms": 185314,
+      "name": "Mariah",
+      "url": "https://open.spotify.com/track/2Mi6o1VgvjnJa31yrPT3UC"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
         "name": "Da Girls (Dance Mix)",
         "url": "https://open.spotify.com/album/6sXiCimlYj6lHEowy0khmz"
       },
@@ -1311,26 +1331,6 @@
       "duration_ms": 127503,
       "name": "My Back (Jersey Club)",
       "url": "https://open.spotify.com/track/6U3bIehegtlGdaIDDgZnlI"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "Crying in the Club",
-        "url": "https://open.spotify.com/album/2YvnSFSzTj30fh7DtS12uN"
-      },
-      "artists": [
-        {
-          "name": "GROOVY",
-          "url": "https://open.spotify.com/artist/6Y6qIKwe32BxNflpxbKsJc"
-        },
-        {
-          "name": "Kanii",
-          "url": "https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW"
-        }
-      ],
-      "duration_ms": 185314,
-      "name": "Mariah",
-      "url": "https://open.spotify.com/track/2Mi6o1VgvjnJa31yrPT3UC"
     },
     {
       "added_at": "2024-05-24 04:00:00",

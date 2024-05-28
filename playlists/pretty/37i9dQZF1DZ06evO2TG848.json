@@ -1,12 +1,12 @@
 {
   "description": "This is Gustavo Santaolalla. The essential tracks, all in one playlist.",
-  "num_followers": 21347,
+  "num_followers": 21349,
   "original_name": "This Is Gustavo Santaolalla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlEqAAAAAAAR+gVuSpzNwZjGl/DEBHIh",
+  "snapshot_id": "ZlJ7gAAAAABSSeO0arHt0IR6Em/Ln3yq",
   "tracks": [
     {
       "added_at": null,
@@ -336,33 +336,45 @@
       },
       "artists": [
         {
-          "name": "Benjamin Lovett",
-          "url": "https://open.spotify.com/artist/2Gus4xBrtOyuunRjNDIlV8"
+          "name": "Albert Hammond",
+          "url": "https://open.spotify.com/artist/34E3csCxpXunPGEkOVVX2g"
         },
         {
-          "name": "Winston Marshall",
-          "url": "https://open.spotify.com/artist/17QwpKEew3b7k2PE4VOhFM"
+          "name": "Michael Hazlewood",
+          "url": "https://open.spotify.com/artist/66SJTRUL592V4rIDdooRLI"
         },
         {
-          "name": "Marcus Mumford",
-          "url": "https://open.spotify.com/artist/0r15OuzJ85q0gaMJivB2im"
+          "name": "Colin Greenwood",
+          "url": "https://open.spotify.com/artist/6bdotkIeFswBydfQqzHnKS"
+        },
+        {
+          "name": "Jonathan Greenwood",
+          "url": "https://open.spotify.com/artist/4MXwPoGvThdwdlgErk9ZW9"
+        },
+        {
+          "name": "Philip Selway",
+          "url": "https://open.spotify.com/artist/2A59wav3PGiJij2rK7HQYH"
+        },
+        {
+          "name": "Thomas Yorke",
+          "url": "https://open.spotify.com/artist/7HrWtyO4zAClpj774sDYDO"
+        },
+        {
+          "name": "Ed O'Brien",
+          "url": "https://open.spotify.com/artist/3E7aH1Yv84NoaP9JWcrMpE"
         },
         {
           "name": "Diego Luna",
           "url": "https://open.spotify.com/artist/5rSlhtcAytdvAnlZXcKLjE"
         },
         {
-          "name": "Joe Matthews",
-          "url": "https://open.spotify.com/artist/4K7V2xUTGryDePccU54D3u"
-        },
-        {
           "name": "Gustavo Santaolalla",
           "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
         }
       ],
-      "duration_ms": 115546,
-      "name": "I Will Wait",
-      "url": "https://open.spotify.com/track/5SLdZ5VyAGBrT4BbIeIEQO"
+      "duration_ms": 80893,
+      "name": "Creep",
+      "url": "https://open.spotify.com/track/6Hrdertyam29E9LcljtfmW"
     },
     {
       "added_at": null,
@@ -424,45 +436,33 @@
       },
       "artists": [
         {
-          "name": "Albert Hammond",
-          "url": "https://open.spotify.com/artist/34E3csCxpXunPGEkOVVX2g"
+          "name": "Benjamin Lovett",
+          "url": "https://open.spotify.com/artist/2Gus4xBrtOyuunRjNDIlV8"
         },
         {
-          "name": "Michael Hazlewood",
-          "url": "https://open.spotify.com/artist/66SJTRUL592V4rIDdooRLI"
+          "name": "Winston Marshall",
+          "url": "https://open.spotify.com/artist/17QwpKEew3b7k2PE4VOhFM"
         },
         {
-          "name": "Colin Greenwood",
-          "url": "https://open.spotify.com/artist/6bdotkIeFswBydfQqzHnKS"
-        },
-        {
-          "name": "Jonathan Greenwood",
-          "url": "https://open.spotify.com/artist/4MXwPoGvThdwdlgErk9ZW9"
-        },
-        {
-          "name": "Philip Selway",
-          "url": "https://open.spotify.com/artist/2A59wav3PGiJij2rK7HQYH"
-        },
-        {
-          "name": "Thomas Yorke",
-          "url": "https://open.spotify.com/artist/7HrWtyO4zAClpj774sDYDO"
-        },
-        {
-          "name": "Ed O'Brien",
-          "url": "https://open.spotify.com/artist/3E7aH1Yv84NoaP9JWcrMpE"
+          "name": "Marcus Mumford",
+          "url": "https://open.spotify.com/artist/0r15OuzJ85q0gaMJivB2im"
         },
         {
           "name": "Diego Luna",
           "url": "https://open.spotify.com/artist/5rSlhtcAytdvAnlZXcKLjE"
         },
         {
+          "name": "Joe Matthews",
+          "url": "https://open.spotify.com/artist/4K7V2xUTGryDePccU54D3u"
+        },
+        {
           "name": "Gustavo Santaolalla",
           "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
         }
       ],
-      "duration_ms": 80893,
-      "name": "Creep",
-      "url": "https://open.spotify.com/track/6Hrdertyam29E9LcljtfmW"
+      "duration_ms": 115546,
+      "name": "I Will Wait",
+      "url": "https://open.spotify.com/track/5SLdZ5VyAGBrT4BbIeIEQO"
     },
     {
       "added_at": null,
@@ -775,6 +775,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Before the Flood (Music from the Motion Picture)",
+        "url": "https://open.spotify.com/album/6nFtsE7rZHInooqb9QYGrn"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "duration_ms": 65776,
+      "name": "Thin Ice",
+      "url": "https://open.spotify.com/track/65ROuREUdXBKfTVoSkQRRJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Last of Us: Season 1 (Soundtrack from the HBO Original Series)",
         "url": "https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j"
       },
@@ -816,25 +832,9 @@
           "url": "https://open.spotify.com/artist/1tkoCroEpHe2UexqTAd8Wh"
         }
       ],
-      "duration_ms": 158093,
-      "name": "Sendero",
-      "url": "https://open.spotify.com/track/6iBd7Zeavv6b5bJgNk9m5h"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Before the Flood (Music from the Motion Picture)",
-        "url": "https://open.spotify.com/album/6nFtsE7rZHInooqb9QYGrn"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Santaolalla",
-          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
-        }
-      ],
-      "duration_ms": 65776,
-      "name": "Thin Ice",
-      "url": "https://open.spotify.com/track/65ROuREUdXBKfTVoSkQRRJ"
+      "duration_ms": 60560,
+      "name": "Amazonas",
+      "url": "https://open.spotify.com/track/3Lsj6qcvdmFEyqnaliTMmO"
     },
     {
       "added_at": null,
@@ -851,6 +851,22 @@
       "duration_ms": 152760,
       "name": "Brokeback Mountain 1",
       "url": "https://open.spotify.com/track/2MMboiwtvpKYz1jyB0FUnK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ronroco (2024 Remaster)",
+        "url": "https://open.spotify.com/album/7F6NXrhiawGgkkRrItLOxB"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "duration_ms": 182586,
+      "name": "Jardin - 2024 Remaster",
+      "url": "https://open.spotify.com/track/39qwb4AKtbUm6PVj88YBEX"
     },
     {
       "added_at": null,
@@ -900,25 +916,9 @@
           "url": "https://open.spotify.com/artist/1tkoCroEpHe2UexqTAd8Wh"
         }
       ],
-      "duration_ms": 60560,
-      "name": "Amazonas",
-      "url": "https://open.spotify.com/track/3Lsj6qcvdmFEyqnaliTMmO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ronroco (2024 Remaster)",
-        "url": "https://open.spotify.com/album/7F6NXrhiawGgkkRrItLOxB"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Santaolalla",
-          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
-        }
-      ],
-      "duration_ms": 199493,
-      "name": "Coyita - 2024 Remaster",
-      "url": "https://open.spotify.com/track/5OoBxmDWyEezJJlU3BEJsC"
+      "duration_ms": 158093,
+      "name": "Sendero",
+      "url": "https://open.spotify.com/track/6iBd7Zeavv6b5bJgNk9m5h"
     },
     {
       "added_at": null,
@@ -939,6 +939,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ronroco (2024 Remaster)",
+        "url": "https://open.spotify.com/album/7F6NXrhiawGgkkRrItLOxB"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "duration_ms": 199493,
+      "name": "Coyita - 2024 Remaster",
+      "url": "https://open.spotify.com/track/5OoBxmDWyEezJJlU3BEJsC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Last of Us: Season 1 (Soundtrack from the HBO Original Series)",
         "url": "https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j"
       },
@@ -951,46 +967,6 @@
       "duration_ms": 41821,
       "name": "Hope",
       "url": "https://open.spotify.com/track/1UZJCcCJJgGEi7MtWVruGu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tu Raz\u00f3n de Ser",
-        "url": "https://open.spotify.com/album/2ckiB0VrtKwKt14mgNqOWn"
-      },
-      "artists": [
-        {
-          "name": "Ricardo Mollo",
-          "url": "https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7"
-        },
-        {
-          "name": "Gustavo Santaolalla",
-          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
-        },
-        {
-          "name": "Le\u00f3n Gieco",
-          "url": "https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq"
-        }
-      ],
-      "duration_ms": 206265,
-      "name": "Tu Raz\u00f3n de Ser",
-      "url": "https://open.spotify.com/track/6sOfBWX3tE0VV7Vs00lFfF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ronroco (2024 Remaster)",
-        "url": "https://open.spotify.com/album/7F6NXrhiawGgkkRrItLOxB"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Santaolalla",
-          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
-        }
-      ],
-      "duration_ms": 182586,
-      "name": "Jardin - 2024 Remaster",
-      "url": "https://open.spotify.com/track/39qwb4AKtbUm6PVj88YBEX"
     },
     {
       "added_at": null,
@@ -1023,6 +999,30 @@
       "duration_ms": 91893,
       "name": "Leaving Miramar",
       "url": "https://open.spotify.com/track/4ApwDm3A0jY2RM19EfQoEK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tu Raz\u00f3n de Ser",
+        "url": "https://open.spotify.com/album/2ckiB0VrtKwKt14mgNqOWn"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Mollo",
+          "url": "https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7"
+        },
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        },
+        {
+          "name": "Le\u00f3n Gieco",
+          "url": "https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq"
+        }
+      ],
+      "duration_ms": 206265,
+      "name": "Tu Raz\u00f3n de Ser",
+      "url": "https://open.spotify.com/track/6sOfBWX3tE0VV7Vs00lFfF"
     },
     {
       "added_at": null,

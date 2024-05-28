@@ -1,6 +1,6 @@
 {
   "description": "Yo Hai Haryanvi Hip-Hop! Cover: Dhanda Nyoliwala",
-  "num_followers": 34438,
+  "num_followers": 34479,
   "original_name": "Hip-Hop Haryanvi",
   "owner": {
     "name": "Spotify",
@@ -1879,26 +1879,6 @@
     {
       "added_at": "2024-05-24 10:14:45",
       "album": {
-        "name": "Chora Bawla",
-        "url": "https://open.spotify.com/album/3jgcNPA98XVXvjyS28uw2n"
-      },
-      "artists": [
-        {
-          "name": "The LeKhak",
-          "url": "https://open.spotify.com/artist/4mXXjQa72yzGxqboQMSqiT"
-        },
-        {
-          "name": "BAD Junkie",
-          "url": "https://open.spotify.com/artist/67PszvnwyV2SVgLAaVqOER"
-        }
-      ],
-      "duration_ms": 203265,
-      "name": "Chora Bawla",
-      "url": "https://open.spotify.com/track/1TbgzF4Mv1ZQymdH2AfqlZ"
-    },
-    {
-      "added_at": "2024-05-24 10:14:45",
-      "album": {
         "name": "HR Gaadi",
         "url": "https://open.spotify.com/album/0qjJQEkczdLg6jX7gvfTwB"
       },
@@ -1915,6 +1895,26 @@
       "duration_ms": 168247,
       "name": "HR Gaadi",
       "url": "https://open.spotify.com/track/0nkKmCanJhnc02QpZK7W99"
+    },
+    {
+      "added_at": "2024-05-24 10:14:45",
+      "album": {
+        "name": "Chora Bawla",
+        "url": "https://open.spotify.com/album/3jgcNPA98XVXvjyS28uw2n"
+      },
+      "artists": [
+        {
+          "name": "The LeKhak",
+          "url": "https://open.spotify.com/artist/4mXXjQa72yzGxqboQMSqiT"
+        },
+        {
+          "name": "BAD Junkie",
+          "url": "https://open.spotify.com/artist/67PszvnwyV2SVgLAaVqOER"
+        }
+      ],
+      "duration_ms": 203265,
+      "name": "Chora Bawla",
+      "url": "https://open.spotify.com/track/1TbgzF4Mv1ZQymdH2AfqlZ"
     },
     {
       "added_at": "2024-05-24 10:14:45",
@@ -1955,18 +1955,30 @@
     {
       "added_at": "2024-05-24 10:14:45",
       "album": {
-        "name": "ON TOP",
-        "url": "https://open.spotify.com/album/6t6C4S2tWC8icUdNYIYHaC"
+        "name": "Paggal",
+        "url": "https://open.spotify.com/album/6Pd2su33BbrkX31z0bUUEa"
       },
       "artists": [
         {
-          "name": "Jaggi",
-          "url": "https://open.spotify.com/artist/3xKm7gBOnRxMwTHucbePnJ"
+          "name": "Amit Bhadana",
+          "url": "https://open.spotify.com/artist/7xyFz6QIHP6Sq0YbT2GZoO"
+        },
+        {
+          "name": "Miki Malang",
+          "url": "https://open.spotify.com/artist/5vGjn7KpA1qJNuy2Ez9yRM"
+        },
+        {
+          "name": "Candy Sheoran",
+          "url": "https://open.spotify.com/artist/5Gv7YQyjnnTxplUzBuKSUY"
+        },
+        {
+          "name": "Crush Wala Yaar",
+          "url": "https://open.spotify.com/artist/4nl5k2Rt7OavkBdi1fXVjS"
         }
       ],
-      "duration_ms": 115856,
-      "name": "24 Parche",
-      "url": "https://open.spotify.com/track/0AZJ1kTo2H9IbvBS3wNrRF"
+      "duration_ms": 156773,
+      "name": "Paggal",
+      "url": "https://open.spotify.com/track/0dA3w3xlWHImfX39kEnmSc"
     }
   ],
   "unique_name": "Hip-Hop Haryanvi",

@@ -6278,7 +6278,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-28",
       "duration_ms": 177773,
       "name": "Big Enough",
       "url": "https://open.spotify.com/track/78xz2rRKLmTm8m9A0vuNlY"
@@ -29894,6 +29894,24 @@
       "duration_ms": 326400,
       "name": "Keep Workin",
       "url": "https://open.spotify.com/track/5760tUZ1fr0WjiHbWAJ8a9"
+    },
+    {
+      "album": {
+        "name": "KEEP YOU ALIVE",
+        "url": "https://open.spotify.com/album/2FQhm8Sgx9Kk59vBO7dqn7"
+      },
+      "artists": [
+        {
+          "name": "Teaz",
+          "url": "https://open.spotify.com/artist/4hny1VPTtilxNkCfoZcd51"
+        }
+      ],
+      "date_added": "2024-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145920,
+      "name": "KEEP YOU ALIVE",
+      "url": "https://open.spotify.com/track/0vEJvcZZyFwluMDCB8f3t2"
     },
     {
       "album": {
@@ -54376,7 +54394,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-28",
       "duration_ms": 150400,
       "name": "Temporary",
       "url": "https://open.spotify.com/track/039suc1FS4joXbQQ2lNHwm"

@@ -88,7 +88,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-28",
       "duration_ms": 174440,
       "name": "Back to Hell",
       "url": "https://open.spotify.com/track/2GdhGYir1XgRuUQ13iCwLT"
@@ -470,6 +470,24 @@
       "duration_ms": 196360,
       "name": "Demon and Division",
       "url": "https://open.spotify.com/track/1z1KFCZnxDl5YsJPhJcqqB"
+    },
+    {
+      "album": {
+        "name": "Crimson",
+        "url": "https://open.spotify.com/album/3VKf6mjVtOgynbmAxH0H6F"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "date_added": "2024-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183533,
+      "name": "Dethbed",
+      "url": "https://open.spotify.com/track/0OH90D0hjNigKEWu46N7Vi"
     },
     {
       "album": {

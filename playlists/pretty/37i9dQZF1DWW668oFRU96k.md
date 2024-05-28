@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: Julian Jordan
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,364 likes - 94 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,377 likes - 94 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

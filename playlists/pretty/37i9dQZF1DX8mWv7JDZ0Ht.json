@@ -1,6 +1,6 @@
 {
   "description": "Novidades do pop nacional pra te deixar mais leve! Foto: PRISCILLA, P\u00e9ricles",
-  "num_followers": 433486,
+  "num_followers": 433471,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
@@ -579,26 +579,6 @@
     {
       "added_at": "2024-05-24 03:03:00",
       "album": {
-        "name": "Breve",
-        "url": "https://open.spotify.com/album/7vnC5W0UKcZsOEsBx6zU07"
-      },
-      "artists": [
-        {
-          "name": "Marco Baptista",
-          "url": "https://open.spotify.com/artist/4z72Rq6ZmZ4tIP1kY2CtmF"
-        },
-        {
-          "name": "Ana Gabriela",
-          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
-        }
-      ],
-      "duration_ms": 213103,
-      "name": "Breve",
-      "url": "https://open.spotify.com/track/5gqsx2xuOtY20Hg4U8rV8x"
-    },
-    {
-      "added_at": "2024-05-24 03:03:00",
-      "album": {
         "name": "Camomila",
         "url": "https://open.spotify.com/album/3A1gbycaZAzP4ikPl7EvCL"
       },
@@ -619,6 +599,26 @@
       "duration_ms": 138688,
       "name": "Camomila",
       "url": "https://open.spotify.com/track/0Q2wA7LA1pHHEJo9o5gA7y"
+    },
+    {
+      "added_at": "2024-05-24 03:03:00",
+      "album": {
+        "name": "Breve",
+        "url": "https://open.spotify.com/album/7vnC5W0UKcZsOEsBx6zU07"
+      },
+      "artists": [
+        {
+          "name": "Marco Baptista",
+          "url": "https://open.spotify.com/artist/4z72Rq6ZmZ4tIP1kY2CtmF"
+        },
+        {
+          "name": "Ana Gabriela",
+          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
+        }
+      ],
+      "duration_ms": 213103,
+      "name": "Breve",
+      "url": "https://open.spotify.com/track/5gqsx2xuOtY20Hg4U8rV8x"
     },
     {
       "added_at": "2024-05-24 03:03:00",
@@ -699,6 +699,26 @@
     {
       "added_at": "2024-05-24 03:03:00",
       "album": {
+        "name": "Vida Normal",
+        "url": "https://open.spotify.com/album/4xWV5JdllY9gbjcaipW84Q"
+      },
+      "artists": [
+        {
+          "name": "MAR ABERTO",
+          "url": "https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO"
+        },
+        {
+          "name": "Ti\u00ea",
+          "url": "https://open.spotify.com/artist/5rTjH3aABAmPM5B6DZebZ7"
+        }
+      ],
+      "duration_ms": 173804,
+      "name": "Vida Normal",
+      "url": "https://open.spotify.com/track/1Gj9edVFZmbHzlydlL8mM6"
+    },
+    {
+      "added_at": "2024-05-24 03:03:00",
+      "album": {
         "name": "Vida + leve",
         "url": "https://open.spotify.com/album/2yd1DMCQyulyfU8Z9Zehf1"
       },
@@ -735,26 +755,6 @@
       "duration_ms": 166153,
       "name": "Vou Fugir",
       "url": "https://open.spotify.com/track/7nAGVYygZ9bB8jlChOoQlj"
-    },
-    {
-      "added_at": "2024-05-24 03:03:00",
-      "album": {
-        "name": "Vida Normal",
-        "url": "https://open.spotify.com/album/4xWV5JdllY9gbjcaipW84Q"
-      },
-      "artists": [
-        {
-          "name": "MAR ABERTO",
-          "url": "https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO"
-        },
-        {
-          "name": "Ti\u00ea",
-          "url": "https://open.spotify.com/artist/5rTjH3aABAmPM5B6DZebZ7"
-        }
-      ],
-      "duration_ms": 173804,
-      "name": "Vida Normal",
-      "url": "https://open.spotify.com/track/1Gj9edVFZmbHzlydlL8mM6"
     },
     {
       "added_at": "2024-05-24 03:03:00",

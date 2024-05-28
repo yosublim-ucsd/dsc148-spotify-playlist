@@ -1,12 +1,12 @@
 {
-  "description": "This is Ariel Camacho y Los Plebes Del Rancho. The essential tracks, all in one playlist.",
-  "num_followers": 401186,
+  "description": "This Is Ariel Camacho y Los Plebes Del Rancho. Los temas esenciales, todos en una lista.",
+  "num_followers": 401291,
   "original_name": "This Is Ariel Camacho y Los Plebes Del Rancho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlEqAAAAAADzZBrdHAxa1n5cY1P+zbp0",
+  "snapshot_id": "ZlJ7gAAAAADAYPk/qnJ7qo9mFc/PSvum",
   "tracks": [
     {
       "added_at": null,
@@ -584,9 +584,9 @@
           "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
         }
       ],
-      "duration_ms": 252107,
-      "name": "La Muerte Del Cardenal",
-      "url": "https://open.spotify.com/track/7GUf9Tdckybkkyr52eZfK4"
+      "duration_ms": 231523,
+      "name": "El Empanada",
+      "url": "https://open.spotify.com/track/6LnzPOhhFghlgEm74aNqTG"
     },
     {
       "added_at": null,
@@ -652,9 +652,9 @@
           "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
         }
       ],
-      "duration_ms": 231523,
-      "name": "El Empanada",
-      "url": "https://open.spotify.com/track/6LnzPOhhFghlgEm74aNqTG"
+      "duration_ms": 252107,
+      "name": "La Muerte Del Cardenal",
+      "url": "https://open.spotify.com/track/7GUf9Tdckybkkyr52eZfK4"
     },
     {
       "added_at": null,

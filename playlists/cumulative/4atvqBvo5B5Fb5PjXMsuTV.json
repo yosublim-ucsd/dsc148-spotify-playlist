@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2024-04-26",
   "description": "Updated daily, with the latest popular singles!",
-  "name": "NEW SINGLES RELEASES | UPDATED 27 MAY",
+  "name": "NEW SINGLES RELEASES | UPDATED 28 MAY",
   "tracks": [
     {
       "album": {
@@ -1153,6 +1153,24 @@
     },
     {
       "album": {
+        "name": "bulletproof",
+        "url": "https://open.spotify.com/album/5AnzlgR3wzsG7Yn4REMS5m"
+      },
+      "artists": [
+        {
+          "name": "Nosgov",
+          "url": "https://open.spotify.com/artist/6FK0azeTwe5RwhUAkpkhnh"
+        }
+      ],
+      "date_added": "2024-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146181,
+      "name": "bulletproof",
+      "url": "https://open.spotify.com/track/4DRVf1eh2KhaxdfiQFk5NG"
+    },
+    {
+      "album": {
         "name": "Bulletproof (feat. Avril Lavigne)",
         "url": "https://open.spotify.com/album/1tEc7o0AbTqnl3RA873yHK"
       },
@@ -2024,7 +2042,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-28",
       "duration_ms": 161000,
       "name": "Don't Talk",
       "url": "https://open.spotify.com/track/2rLU8BykI6sfAJohG4YeoS"
@@ -2202,6 +2220,32 @@
       "duration_ms": 142285,
       "name": "drop candy",
       "url": "https://open.spotify.com/track/4u0WOFGss8cJsvO43PcNN2"
+    },
+    {
+      "album": {
+        "name": "Drug Tzar",
+        "url": "https://open.spotify.com/album/23qmMpltFrD8EN1jgeZw2v"
+      },
+      "artists": [
+        {
+          "name": "Big Hit",
+          "url": "https://open.spotify.com/artist/1zQJBLCGM0tdPW9XwgdEll"
+        },
+        {
+          "name": "Hit-Boy",
+          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        }
+      ],
+      "date_added": "2024-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180671,
+      "name": "Drug Tzar",
+      "url": "https://open.spotify.com/track/01N3UDXUKUP6e2It26WAak"
     },
     {
       "album": {
@@ -2854,7 +2898,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-28",
       "duration_ms": 167000,
       "name": "Gegengift",
       "url": "https://open.spotify.com/track/3dMU77BXGfEJ9EAzOLa0Mn"
@@ -3649,6 +3693,24 @@
     },
     {
       "album": {
+        "name": "i'm just tryna dance.",
+        "url": "https://open.spotify.com/album/0Lfq79Fmk06anNkLWlAPRR"
+      },
+      "artists": [
+        {
+          "name": "ISSBROKIE",
+          "url": "https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI"
+        }
+      ],
+      "date_added": "2024-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141363,
+      "name": "i'm just tryna dance.",
+      "url": "https://open.spotify.com/track/6UEmq3IdeRNP8ZRRyx55NB"
+    },
+    {
+      "album": {
         "name": "IF I'M GONNA GO ANYWHERE",
         "url": "https://open.spotify.com/album/0fWYCV4XA1FLYFOCGopl5L"
       },
@@ -4202,7 +4264,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-28",
       "duration_ms": 145950,
       "name": "Lilith",
       "url": "https://open.spotify.com/track/1tmVvd2kiouSHXfumPbZcC"
@@ -4671,6 +4733,24 @@
     },
     {
       "album": {
+        "name": "Millennium Falcon",
+        "url": "https://open.spotify.com/album/5C4AngoP0PlR7z3hDCX4Gx"
+      },
+      "artists": [
+        {
+          "name": "Isaac App",
+          "url": "https://open.spotify.com/artist/2OSFdgs18suoiLJWRcqiEy"
+        }
+      ],
+      "date_added": "2024-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151986,
+      "name": "Millennium Falcon",
+      "url": "https://open.spotify.com/track/6997lMDCdrkJWJSrV9TcBM"
+    },
+    {
+      "album": {
         "name": "Mint Ice Cream Hater",
         "url": "https://open.spotify.com/album/0LWmTjIqcvPaeaDlGmSx4R"
       },
@@ -5078,6 +5158,28 @@
       "duration_ms": 201028,
       "name": "New Species",
       "url": "https://open.spotify.com/track/22hxxy3fe4mFYsjvAwnnIP"
+    },
+    {
+      "album": {
+        "name": "Nic\u0103ieri",
+        "url": "https://open.spotify.com/album/1SHAeGWis78jZIZY0b2Fkr"
+      },
+      "artists": [
+        {
+          "name": "Bitza",
+          "url": "https://open.spotify.com/artist/38D4CP96Q3tn48qOGA6wbZ"
+        },
+        {
+          "name": "Freakadadisk",
+          "url": "https://open.spotify.com/artist/1rnfP6tcCKHTO9zYlcixqk"
+        }
+      ],
+      "date_added": "2024-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173125,
+      "name": "Nic\u0103ieri",
+      "url": "https://open.spotify.com/track/6HCFvryD9MxmuZ5X5HRn7A"
     },
     {
       "album": {
@@ -5762,7 +5864,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-28",
       "duration_ms": 241240,
       "name": "Portrait",
       "url": "https://open.spotify.com/track/0ZE2MRjR1eGoV9iO1Z1DpT"
@@ -5980,7 +6082,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-28",
       "duration_ms": 85333,
       "name": "Raw I Know I Got It (feat. Shaquille O'Neal)",
       "url": "https://open.spotify.com/track/0uLzDFg7Ji49wrrcWdvyht"
@@ -6020,7 +6122,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-28",
       "duration_ms": 90697,
       "name": "Real Geeker",
       "url": "https://open.spotify.com/track/4w7PRFRrXvD29DEXAiVTHI"
@@ -6352,7 +6454,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-28",
       "duration_ms": 227465,
       "name": "sad girl summer (not again)",
       "url": "https://open.spotify.com/track/1Jt7lSay7eL1XFeq1m591s"
@@ -7491,6 +7593,28 @@
     },
     {
       "album": {
+        "name": "Genshin Impact - The Road Not Taken (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/5PXwOJuiro3ilsW6Y86cZV"
+      },
+      "artists": [
+        {
+          "name": "HOYO-MiX",
+          "url": "https://open.spotify.com/artist/2YvlK6lKiKVjXxsjvNbnqg"
+        },
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "date_added": "2024-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150842,
+      "name": "The Road Not Taken - Genshin Impact Animated Short \"The Road Not Taken\" Original Soundtrack",
+      "url": "https://open.spotify.com/track/13ZiVkjad58eXSASbOFqwB"
+    },
+    {
+      "album": {
         "name": "The Thin Grey Line",
         "url": "https://open.spotify.com/album/3rXifZlYd2eKqicNt3z5HF"
       },
@@ -8494,6 +8618,24 @@
       "duration_ms": 241156,
       "name": "\u5922\u5e7b",
       "url": "https://open.spotify.com/track/2otdcgLtoowuQzlU0Cx827"
+    },
+    {
+      "album": {
+        "name": "\u6bce\u65e5 - Every Day",
+        "url": "https://open.spotify.com/album/12lsaS3L0KUVHrEjJRP978"
+      },
+      "artists": [
+        {
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+        }
+      ],
+      "date_added": "2024-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182140,
+      "name": "\u6bce\u65e5 - Every Day",
+      "url": "https://open.spotify.com/track/6BBc24r3QbIP4Qt3gdUOtZ"
     }
   ],
   "url": "https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV"

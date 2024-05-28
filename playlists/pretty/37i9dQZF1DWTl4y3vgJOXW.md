@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTl4y3vgJOXW.md) - [plain]
 
 > Fourth quarter, two minutes left .\. get locked in\. Cover: Jayson Tatum
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,277,704 likes - 93 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,279,091 likes - 93 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

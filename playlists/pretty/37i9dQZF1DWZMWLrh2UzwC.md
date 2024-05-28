@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: NewJeans
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,994 likes - 95 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,998 likes - 95 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 52 | [HEAVENFALL](https://open.spotify.com/track/7A9emHuiTyoEBhHMP4d5ml) | [HOWE.](https://open.spotify.com/artist/6NGEHIaioxYc0RVWGv6U8q) | [HEAVENFALL](https://open.spotify.com/album/2oUm9YRz6XRosrGGbPsoxg) | 3:06 |
 | 53 | [Touching The Sky](https://open.spotify.com/track/2SaRD7OpQ2A9ZeCOntar0g) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Touching The Sky](https://open.spotify.com/album/5WLJs3zhRQGPTOpMhFnJqa) | 3:07 |
 | 54 | [IWALY](https://open.spotify.com/track/4SwXtg8jDejWX18zLsZwCO) | [I\-LAND2 : N/a](https://open.spotify.com/artist/5wA7TzIKrDqmlnEFk6t1y4) | [I\-LAND2 : N/a \- 1:1 POSITION BATTLE](https://open.spotify.com/album/7zjYgWfGErSNv1Zs2IGDGl) | 3:03 |
-| 55 | [Ashes \(feat\. Ai Tomioka\)](https://open.spotify.com/track/1kcw0WhK11rDQGejHZUmfG) | [Zior Park](https://open.spotify.com/artist/4gkSpcyfxtm5OFoZCYWTeD), [Ai Tomioka](https://open.spotify.com/artist/6AXkwEv5wgjwooZOPf0l0q) | [Ashes \(feat\. Ai Tomioka\)](https://open.spotify.com/album/6LmkkkXUI3esLEAEdJYUA3) | 4:33 |
+| 55 | [Ashes \(feat\. Ai Tomioka\)](https://open.spotify.com/track/1kcw0WhK11rDQGejHZUmfG) | [Zior Park](https://open.spotify.com/artist/4gkSpcyfxtm5OFoZCYWTeD), [冨岡愛](https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi) | [Ashes \(feat\. Ai Tomioka\)](https://open.spotify.com/album/6LmkkkXUI3esLEAEdJYUA3) | 4:33 |
 | 56 | [for me \(feat\. MRCH\)](https://open.spotify.com/track/0rU7zlpx5qOcu1yHDFJaUK) | [JINJIN \(ASTRO\)](https://open.spotify.com/artist/3U8ZnKIeY7sgQkIHjQDlHA), [MRCH](https://open.spotify.com/artist/4S0q5n7ZzNzeiW0dAUnYHl) | [JIN LAB Project 2\. \[for me \(feat\. MRCH\)\]](https://open.spotify.com/album/04DSdCJellaaGcmn4u6AzN) | 3:43 |
 | 57 | [Ride the Vibe](https://open.spotify.com/track/1g3YJ4LEitgCkrvMnD9ggg) | [NEXZ](https://open.spotify.com/artist/5TaK8pOYVARAr5cdgoa8EW) | [Ride the Vibe](https://open.spotify.com/album/1cTIK6Npr4gfRh2sDpBaUQ) | 2:52 |
 | 58 | [Now \(Original by Fin.K.L\)](https://open.spotify.com/track/1ysreeJXmOJk2xUIXIsqij) | [ONEUS](https://open.spotify.com/artist/3CVYSpM7nfHFG5qCTW7Ht9) | [Now \(Original by Fin.K.L\)](https://open.spotify.com/album/509KKIyEmS97cmW7ECtGM5) | 3:29 |

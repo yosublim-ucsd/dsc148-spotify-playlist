@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GWlXStIq5M.md) - [plain]
 
 > Os hits e novos nomes do pop dividindo o mesmo palco!  / Foto: Lou Garcia, Marina Sena
 
-[Spotify](https://open.spotify.com/user/spotify) - 371,385 likes - 85 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 371,369 likes - 85 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

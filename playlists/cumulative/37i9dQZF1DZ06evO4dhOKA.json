@@ -563,6 +563,24 @@
     },
     {
       "album": {
+        "name": "Serie Diamante-15 S\u00faper \u00c9xitos",
+        "url": "https://open.spotify.com/album/3Sz9S8n4MQUoyW4t8MM6JR"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "date_added": "2024-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198280,
+      "name": "Entre La Vida Y La Muerte",
+      "url": "https://open.spotify.com/track/4HZgxD2MQ8mWcmwhsLSMln"
+    },
+    {
+      "album": {
         "name": "20 Memorias Norte\u00f1as",
         "url": "https://open.spotify.com/album/1BnTwu2JNvBuSAWnfDwBn4"
       },
@@ -1106,7 +1124,7 @@
       ],
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-28",
       "duration_ms": 184666,
       "name": "Lupe Rubalcava AKA Corrido De Lupe Rubalcava",
       "url": "https://open.spotify.com/track/6EDnuILfWDWBXsFrTmDt8L"

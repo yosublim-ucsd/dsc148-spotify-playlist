@@ -1,6 +1,6 @@
 {
   "description": "The future of metal is here.",
-  "num_followers": 287147,
+  "num_followers": 287249,
   "original_name": "Alternative Metal",
   "owner": {
     "name": "Spotify",
@@ -927,22 +927,6 @@
     {
       "added_at": "2023-12-07 20:09:02",
       "album": {
-        "name": "Lost",
-        "url": "https://open.spotify.com/album/3HcXn4sSYlHrNcMfEgP9qJ"
-      },
-      "artists": [
-        {
-          "name": "Crippled Black Phoenix",
-          "url": "https://open.spotify.com/artist/6WEyPcf9ezhNLm1xOBjbwH"
-        }
-      ],
-      "duration_ms": 491180,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/5GbEVRKvHeBEE8PARaRQOJ"
-    },
-    {
-      "added_at": "2023-12-07 20:09:02",
-      "album": {
         "name": "Alone I...",
         "url": "https://open.spotify.com/album/6b5mOy8LTM2pN8LQ5uspEj"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 280549,
       "name": "Alone I Burn - Radio Edit",
       "url": "https://open.spotify.com/track/5GvOnHHJz0BUnlExQdPnAE"
+    },
+    {
+      "added_at": "2023-12-07 20:09:02",
+      "album": {
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/3HcXn4sSYlHrNcMfEgP9qJ"
+      },
+      "artists": [
+        {
+          "name": "Crippled Black Phoenix",
+          "url": "https://open.spotify.com/artist/6WEyPcf9ezhNLm1xOBjbwH"
+        }
+      ],
+      "duration_ms": 491180,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/5GbEVRKvHeBEE8PARaRQOJ"
     },
     {
       "added_at": "2023-12-07 20:09:02",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2023-12-07 20:09:02",
       "album": {
-        "name": "Animal",
-        "url": "https://open.spotify.com/album/1uzhNEYp4kM2OGR8danu44"
-      },
-      "artists": [
-        {
-          "name": "Saint Agnes",
-          "url": "https://open.spotify.com/artist/7c7LKkvEU9xLPyFmvV4njL"
-        }
-      ],
-      "duration_ms": 239626,
-      "name": "Animal",
-      "url": "https://open.spotify.com/track/0Z3vSiCNFN7FESRWzP7CWd"
-    },
-    {
-      "added_at": "2023-12-07 20:09:02",
-      "album": {
         "name": "Synopsis",
         "url": "https://open.spotify.com/album/1csn83LGlgEFpoFjZDjHYG"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 202804,
       "name": "Synopsis",
       "url": "https://open.spotify.com/track/1TGEVFUCXVI7GzqAzGFBkX"
+    },
+    {
+      "added_at": "2023-12-07 20:09:02",
+      "album": {
+        "name": "Animal",
+        "url": "https://open.spotify.com/album/1uzhNEYp4kM2OGR8danu44"
+      },
+      "artists": [
+        {
+          "name": "Saint Agnes",
+          "url": "https://open.spotify.com/artist/7c7LKkvEU9xLPyFmvV4njL"
+        }
+      ],
+      "duration_ms": 239626,
+      "name": "Animal",
+      "url": "https://open.spotify.com/track/0Z3vSiCNFN7FESRWzP7CWd"
     },
     {
       "added_at": "2023-12-07 20:09:02",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2023-12-07 20:09:02",
       "album": {
-        "name": "BURNING RUBBER",
-        "url": "https://open.spotify.com/album/2IQbuEqIESTmjTgYctYH8e"
-      },
-      "artists": [
-        {
-          "name": "Jeris Johnson",
-          "url": "https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq"
-        }
-      ],
-      "duration_ms": 133888,
-      "name": "BURNING RUBBER",
-      "url": "https://open.spotify.com/track/4LJ6NBnEKhZSBIC3PsBTFA"
-    },
-    {
-      "added_at": "2023-12-07 20:09:02",
-      "album": {
         "name": "Spiritual Architecture",
         "url": "https://open.spotify.com/album/3ZnxyzqpDXxW3xAyCuyvRf"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 257199,
       "name": "Embers\u00f3lyom - Kal\u00e1ka",
       "url": "https://open.spotify.com/track/3PW5V36seHTLVUMzCLTAMS"
+    },
+    {
+      "added_at": "2023-12-07 20:09:02",
+      "album": {
+        "name": "BURNING RUBBER",
+        "url": "https://open.spotify.com/album/2IQbuEqIESTmjTgYctYH8e"
+      },
+      "artists": [
+        {
+          "name": "Jeris Johnson",
+          "url": "https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq"
+        }
+      ],
+      "duration_ms": 133888,
+      "name": "BURNING RUBBER",
+      "url": "https://open.spotify.com/track/4LJ6NBnEKhZSBIC3PsBTFA"
     },
     {
       "added_at": "2023-12-07 20:09:02",

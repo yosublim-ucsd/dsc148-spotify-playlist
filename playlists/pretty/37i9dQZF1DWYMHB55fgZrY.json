@@ -1,6 +1,6 @@
 {
   "description": "Los pr\u00f3ceres de la historia del rock nacional. Lino Nava por siempre.",
-  "num_followers": 535321,
+  "num_followers": 535406,
   "original_name": "Iconos del Rock Mexicano",
   "owner": {
     "name": "Spotify",
@@ -863,22 +863,6 @@
     {
       "added_at": "2024-05-17 20:23:55",
       "album": {
-        "name": "Tijuana Sound Machine (Nortec Collective Presents: Bostich+Fussible)",
-        "url": "https://open.spotify.com/album/4H3jCH55WS5z7CF6g144eV"
-      },
-      "artists": [
-        {
-          "name": "Nortec: Bostich + Fussible",
-          "url": "https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg"
-        }
-      ],
-      "duration_ms": 182786,
-      "name": "Tijuana Sound Machine",
-      "url": "https://open.spotify.com/track/7HW7q9Vcgr3GlUV7PKHKOj"
-    },
-    {
-      "added_at": "2024-05-17 20:23:55",
-      "album": {
         "name": "Tasty + B Sides",
         "url": "https://open.spotify.com/album/5IO0ppb7WMdyanUnnBCR0M"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 254160,
       "name": "Nalguita",
       "url": "https://open.spotify.com/track/3vEkB7InOc5P7Vs3CNkCB2"
+    },
+    {
+      "added_at": "2024-05-17 20:23:55",
+      "album": {
+        "name": "Tijuana Sound Machine (Nortec Collective Presents: Bostich+Fussible)",
+        "url": "https://open.spotify.com/album/4H3jCH55WS5z7CF6g144eV"
+      },
+      "artists": [
+        {
+          "name": "Nortec: Bostich + Fussible",
+          "url": "https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg"
+        }
+      ],
+      "duration_ms": 182786,
+      "name": "Tijuana Sound Machine",
+      "url": "https://open.spotify.com/track/7HW7q9Vcgr3GlUV7PKHKOj"
     },
     {
       "added_at": "2024-05-17 20:23:55",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2024-05-17 20:23:55",
       "album": {
-        "name": "Esquizofrenia",
-        "url": "https://open.spotify.com/album/2KAIEIj96L0yLif1Urh3Mr"
-      },
-      "artists": [
-        {
-          "name": "Kerigma",
-          "url": "https://open.spotify.com/artist/7t3VRQukdpeWyhKTgodDxB"
-        }
-      ],
-      "duration_ms": 250706,
-      "name": "Tres Lunares",
-      "url": "https://open.spotify.com/track/0THa3Vl0Ad1ksflpK10AJw"
-    },
-    {
-      "added_at": "2024-05-17 20:23:55",
-      "album": {
         "name": "Pop...\u00a1Por La Cara!",
         "url": "https://open.spotify.com/album/6NS5jRu0SnahlW9StQqoNO"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 190893,
       "name": "Hay Amores Que Matan",
       "url": "https://open.spotify.com/track/3b9yTPrrIquBZsco8jVPi1"
+    },
+    {
+      "added_at": "2024-05-17 20:23:55",
+      "album": {
+        "name": "Esquizofrenia",
+        "url": "https://open.spotify.com/album/2KAIEIj96L0yLif1Urh3Mr"
+      },
+      "artists": [
+        {
+          "name": "Kerigma",
+          "url": "https://open.spotify.com/artist/7t3VRQukdpeWyhKTgodDxB"
+        }
+      ],
+      "duration_ms": 250706,
+      "name": "Tres Lunares",
+      "url": "https://open.spotify.com/track/0THa3Vl0Ad1ksflpK10AJw"
     },
     {
       "added_at": "2024-05-17 20:23:55",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2024-05-17 20:23:55",
       "album": {
+        "name": "Aquamosh",
+        "url": "https://open.spotify.com/album/6QxPNkckiFeiIB5ijjyWSk"
+      },
+      "artists": [
+        {
+          "name": "Plastilina Mosh",
+          "url": "https://open.spotify.com/artist/4PtVXWSOmF4Tox1jj6ctSq"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "Afroman",
+      "url": "https://open.spotify.com/track/4Ghq7XXreyLUJmmRBGlbbw"
+    },
+    {
+      "added_at": "2024-05-17 20:23:55",
+      "album": {
         "name": "Botas Negras",
         "url": "https://open.spotify.com/album/7bcjqAbck3cO5Pv1dcrVox"
       },
@@ -1295,22 +1311,6 @@
       "duration_ms": 240360,
       "name": "Est\u00e1tico",
       "url": "https://open.spotify.com/track/0uZvNFgJxJnwFF7pQycIzH"
-    },
-    {
-      "added_at": "2024-05-17 20:23:55",
-      "album": {
-        "name": "Aquamosh",
-        "url": "https://open.spotify.com/album/6QxPNkckiFeiIB5ijjyWSk"
-      },
-      "artists": [
-        {
-          "name": "Plastilina Mosh",
-          "url": "https://open.spotify.com/artist/4PtVXWSOmF4Tox1jj6ctSq"
-        }
-      ],
-      "duration_ms": 219000,
-      "name": "Afroman",
-      "url": "https://open.spotify.com/track/4Ghq7XXreyLUJmmRBGlbbw"
     },
     {
       "added_at": "2024-05-17 20:23:55",
@@ -1623,18 +1623,18 @@
     {
       "added_at": "2024-05-17 20:23:55",
       "album": {
-        "name": "Todos Estos A\u00f1os, Vol. 2",
-        "url": "https://open.spotify.com/album/6uqtNBebkhBdxig3ewSyl5"
+        "name": "Rock En Tu Idioma Sinf\u00f3nico, Vol.2 (En Vivo)",
+        "url": "https://open.spotify.com/album/1VdXpzYXEl3GZwghlc1icV"
       },
       "artists": [
         {
-          "name": "Charlie Monttana",
-          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
+          "name": "El Gran Silencio",
+          "url": "https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD"
         }
       ],
-      "duration_ms": 242680,
-      "name": "Tu Mam\u00e1 No Me Quiere",
-      "url": "https://open.spotify.com/track/0cDbBduK0f4n0WBQjThaYV"
+      "duration_ms": 218426,
+      "name": "Dormir So\u00f1ando - Versi\u00f3n Sinf\u00f3nico [En Vivo]",
+      "url": "https://open.spotify.com/track/68BdNYZS8uj9l6fvm11jfZ"
     },
     {
       "added_at": "2024-05-17 20:23:55",

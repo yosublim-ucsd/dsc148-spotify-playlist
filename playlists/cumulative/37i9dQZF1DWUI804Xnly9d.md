@@ -4,7 +4,7 @@
 
 > Magic of acoustic poured into your Chai\. Cover \- Shreya Ghoshal
 
-333 songs - 18 hr 57 min
+334 songs - 19 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,7 +114,7 @@
 | [Husn](https://open.spotify.com/track/0TL0LFcwIBF5eX7arDIKxY) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Husn](https://open.spotify.com/album/2SarxpD48O1DOiDIccyZ0W) | 3:37 | 2023-12-01 |  |
 | [Ibadat](https://open.spotify.com/track/5dVAIwFQL6zh42WhG68ySk) | [Karan Nawani](https://open.spotify.com/artist/7rhiZksPc6NrFYY2x0iajU) | [Ibadat](https://open.spotify.com/album/3jIftDearbbeAnE7Sad8Kd) | 3:02 | 2024-02-13 | 2024-03-16 |
 | [Ik Daffa](https://open.spotify.com/track/0p81CX3O1kwWvVE2NkHDsp) | [Turaab](https://open.spotify.com/artist/64Or1q5UDgq189fmuBe42s) | [Ik Daffa](https://open.spotify.com/album/6Sw9GsswHauMNPKlXuPH5u) | 4:43 | 2023-05-17 | 2023-06-01 |
-| [Ik Tarfa](https://open.spotify.com/track/5kAo09yI0O1o2qU9nLzoeQ) | [Mohit Aanand](https://open.spotify.com/artist/34RdxcV748gvPZDZ7U3GXy), [LTG](https://open.spotify.com/artist/7hdF2YLHKChiztK3Ui0bBp) | [Ik Tarfa](https://open.spotify.com/album/4ZGELdtNOQhqA1YUAAqRDR) | 4:19 | 2024-02-21 |  |
+| [Ik Tarfa](https://open.spotify.com/track/5kAo09yI0O1o2qU9nLzoeQ) | [Mohit Aanand](https://open.spotify.com/artist/34RdxcV748gvPZDZ7U3GXy), [LTG](https://open.spotify.com/artist/7hdF2YLHKChiztK3Ui0bBp) | [Ik Tarfa](https://open.spotify.com/album/4ZGELdtNOQhqA1YUAAqRDR) | 4:19 | 2024-02-21 | 2024-05-28 |
 | [ilhaam](https://open.spotify.com/track/1OZB6eUNMHMKEej1cdcVhZ) | [SUKOON](https://open.spotify.com/artist/2B8v7LECTltbjyzug5xYOe), [Rishabh Raghuvanshi](https://open.spotify.com/artist/6kiIpLgnbr3H9PCF4Rld8i) | [ilhaam](https://open.spotify.com/album/1uJxwiRhcsb96SPV5U03IH) | 4:40 | 2023-05-17 | 2023-06-27 |
 | [Intezaar Tha \- Reprise](https://open.spotify.com/track/4u4n04LrxLlT4pVpqGlqKX) | [Sai Kabir](https://open.spotify.com/artist/34fyQ7CTbQjqp1y5EjQKKg), [Gaurav Chatterji](https://open.spotify.com/artist/2yC22iFmcNBOfauIctRvPT) | [Tiku Weds Sheru \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4MH8afxzGgsHThYybVnWaZ) | 1:18 | 2023-06-23 | 2023-07-25 |
 | [Ishq Ibaadat \- Unplugged](https://open.spotify.com/track/2Wtc2cgnyX65GMvueKZhqh) | [Prakriti Giri](https://open.spotify.com/artist/0dzcXimfMVH1JQawG72WJJ) | [Ishq Ibaadat \(Unplugged\)](https://open.spotify.com/album/4BmVJFcq3Grop5OKD9JE04) | 2:34 | 2024-02-20 | 2024-05-21 |
@@ -135,7 +135,7 @@
 | [Jhoothi Chai](https://open.spotify.com/track/5ISTUCwZ9SzLgoY0wdwYLN) | [Meiyang Chang](https://open.spotify.com/artist/4kil03O4zZQwIsvj3SGCxH) | [Jhoothi Chai](https://open.spotify.com/album/2MzAQ0GKFGqTBB2Y7lOB7o) | 2:56 | 2023-09-20 | 2023-11-25 |
 | [Kaash \(Mehfil Unplugged\)](https://open.spotify.com/track/2jeqpd4ASuRT4Ou5BxYekz) | [Nikhil Kotibhaskar](https://open.spotify.com/artist/7egL4IzmCXgj9AGCfnVBHx) | [Kaash \(Mehfil Unplugged\)](https://open.spotify.com/album/4Ey1RYnacQgSF1DKNGqREu) | 2:36 | 2024-04-15 | 2024-04-30 |
 | [Kaayar](https://open.spotify.com/track/6cbxJhOuZWDP8kEeM6QWYe) | [Khatth](https://open.spotify.com/artist/25z03NEKPCRRfHVBCsgOiY) | [Kaayar](https://open.spotify.com/album/3nuufuEPeDjesdwC7AqzNQ) | 2:14 | 2023-09-26 | 2024-02-03 |
-| [Kabhi Kabhi](https://open.spotify.com/track/1t3ypW6DYHtxdvR5lPWn8f) | [pho](https://open.spotify.com/artist/0eAgLEZjRTeUe2UqQhH9YC), [Mr\. Doss](https://open.spotify.com/artist/4oluNv7Wba9L5uGIIrXWKG) | [Kabhi Kabhi](https://open.spotify.com/album/1QWMabbCgjaO8o7fqgeD3w) | 3:18 | 2024-04-19 |  |
+| [Kabhi Kabhi](https://open.spotify.com/track/1t3ypW6DYHtxdvR5lPWn8f) | [pho](https://open.spotify.com/artist/0eAgLEZjRTeUe2UqQhH9YC), [Mr\. Doss](https://open.spotify.com/artist/4oluNv7Wba9L5uGIIrXWKG) | [Kabhi Kabhi](https://open.spotify.com/album/1QWMabbCgjaO8o7fqgeD3w) | 3:18 | 2024-04-19 | 2024-05-28 |
 | [Kabhi Kabhi](https://open.spotify.com/track/6mh140yXGpf0ABlVna1out) | [Pho](https://open.spotify.com/artist/3QXoQ4PbVx1LgzFFVOnvbu), [Mr\. Doss](https://open.spotify.com/artist/4oluNv7Wba9L5uGIIrXWKG) | [Kabhi Kabhi](https://open.spotify.com/album/2LLfecd85UR1XtvIm1o7vc) | 3:18 | 2024-01-04 | 2024-04-19 |
 | [Kabhi Kabhi Zindagi](https://open.spotify.com/track/68SwtkJRPhtlZBzXaV4jrZ) | [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39), [Shailendra Barve](https://open.spotify.com/artist/0sjbD7Avb0d3C74ymZA4hg), [Vijay Maurya](https://open.spotify.com/artist/0DPMEDEtRZYhlbWSAtbpNX) | [Mast Mein Rehne Ka](https://open.spotify.com/album/57Mp5CEnRAXsuDHeltvyKf) | 4:55 | 2023-12-15 | 2024-01-20 |
 | [Kabool](https://open.spotify.com/track/1nCYcGugNhfWztL1MTqelr) | [Jazz Thind](https://open.spotify.com/artist/7xkj57i87hLRoWTYqDiZap) | [Kabool](https://open.spotify.com/album/5oDBQrHneBQksa226QWfeS) | 3:36 | 2024-02-23 | 2024-04-03 |
@@ -250,6 +250,7 @@
 | [Raat](https://open.spotify.com/track/4RtUdmzHtkdTYQ0Td5GGYc) | [Rono](https://open.spotify.com/artist/7nAIsV0i8kg2XRCK14YUB6) | [Raat](https://open.spotify.com/album/5g2ACwI9NwMQj9vZhansXs) | 3:13 | 2023-05-17 | 2023-06-09 |
 | [Raaton](https://open.spotify.com/track/4mpRxleD4q4rxgRBgC6TpB) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D) | [Raaton](https://open.spotify.com/album/1mr9MMCJodtlid7Yy7DTh1) | 3:20 | 2023-07-15 |  |
 | [Raaz](https://open.spotify.com/track/5ogvk1sG1Qg08j2DYDiyp9) | [Yash Joshi](https://open.spotify.com/artist/6hP4cbviLwKKjoIe01qGNu), [Amogh Agarwal](https://open.spotify.com/artist/2MaX9AAWNy1TdrQQXOyqqY) | [Raaz](https://open.spotify.com/album/0yCdEgqwvcCQrhpPr7lVsT) | 3:49 | 2023-05-17 | 2023-05-24 |
+| [Raaz Ban Chalun](https://open.spotify.com/track/2W4HPVMuouumyVBWqfI2FX) | [Arun Chillara](https://open.spotify.com/artist/4wTlFm2qF2tjzPgGpkqoB7) | [Raaz Ban Chalun](https://open.spotify.com/album/2HHMlQtrXIDTrD8e3h84st) | 3:37 | 2024-05-27 |  |
 | [Rahnuma](https://open.spotify.com/track/7KbYD6BasraCSJ2fSp9MNW) | [Stefan Packianathan](https://open.spotify.com/artist/0P5zcM5KLVBTlapyoESJIa), [Saurabh Shetye](https://open.spotify.com/artist/5GXlDxOxHwWFutiCMOIQGN) | [Rahnuma](https://open.spotify.com/album/1ZxPWhL6F5VY3ZuA279ihM) | 3:46 | 2023-06-09 | 2023-07-21 |
 | [Reh Gayi Yaadein \(Feat\. Akanksha Bhandari\)](https://open.spotify.com/track/5vctTLIZIVCs4DIBdZG56l) | [Anurag Kale](https://open.spotify.com/artist/6QI0w03kPAgMBCKI4OIakr), [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL) | [Reh Gayi Yaadein \(Feat\. Akanksha Bhandari\)](https://open.spotify.com/album/1wUVSvP0Kay5ANLWpqO9PG) | 3:10 | 2023-05-17 | 2023-06-13 |
 | [Rehbara](https://open.spotify.com/track/2cE44TVmzUyCWBKM7qHmKo) | [Vilen](https://open.spotify.com/artist/5gVozagAcRKYCeAVnlC3Nk), [Gaurav Pahuja](https://open.spotify.com/artist/25WsKcwA4b5G1OCONyIrit) | [Rehbara](https://open.spotify.com/album/29zfqRveC9l8ngiYfVgszo) | 2:53 | 2023-07-12 | 2024-02-15 |

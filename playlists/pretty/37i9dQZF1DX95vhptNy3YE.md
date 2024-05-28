@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95vhptNy3YE.md) - [plain]
 
 > MC Paulin da Capital, Mc Piedro, Dj GM, DJ WN, MC Ryan SP, Mc Daniel e mais artistas da cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 361,386 likes - 50 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 361,612 likes - 50 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95vhptNy3YE.md) - [plain]
 | 45 | [Ainda Gosto De Você / Já Era](https://open.spotify.com/track/0ZDZzrdvU0G3cybktN9dj8) | [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG) | [Sorriso Maroto As Antigas \- Parte 1](https://open.spotify.com/album/6bp0caW2RBmlCqC5k52EJw) | 5:47 |
 | 46 | [Despedida De Solteiro \- Ao Vivo](https://open.spotify.com/track/0ojITFsiarLcH7qzJvseWj) | [Grupo Benzadeus](https://open.spotify.com/artist/66aYJzbeqXd9LyYc1qppzy), [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [Energia Benzadeus \(Ao Vivo\)](https://open.spotify.com/album/3EfjvhRjvdm99Gq1IGoFK2) | 2:33 |
 | 47 | [Nota Dó](https://open.spotify.com/track/1ziAahgQu5yucu1ZLwwe0b) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [Kawe](https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb), [Cúpula](https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [DJ DuBom](https://open.spotify.com/artist/7wQO16n82QaPAnxFkAGIFt) | [Nota Dó](https://open.spotify.com/album/0yU8bkVURmhaMPZyKHxtrP) | 3:22 |
-| 48 | [Problema Emocional / Volta de Vez Pra Mim / Pra Ser Minha Musa](https://open.spotify.com/track/5RQyJnbaAbwFZuTOCqK80z) | [Samba De Dom](https://open.spotify.com/artist/40wx3ETjJh4eeVACrDaJVm) | [Problema Emocional / Volta de Vez Pra Mim / Pra Ser Minha Musa](https://open.spotify.com/album/6WlReF2IaxJ7SKt4y1YlFm) | 5:20 |
-| 49 | [Ferrari Vermelha](https://open.spotify.com/track/7ChzqblIDsCNRBmztg0j2v) | [MC Caverinha](https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Jovem Dex](https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl), [Murillo e LT no Beat](https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6) | [RELATOS](https://open.spotify.com/album/3YIwqsUgXa6IuMVB0Zc4Hr) | 4:01 |
+| 48 | [Ferrari Vermelha](https://open.spotify.com/track/7ChzqblIDsCNRBmztg0j2v) | [MC Caverinha](https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Jovem Dex](https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl), [Murillo e LT no Beat](https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6) | [RELATOS](https://open.spotify.com/album/3YIwqsUgXa6IuMVB0Zc4Hr) | 4:01 |
+| 49 | [Problema Emocional / Volta de Vez Pra Mim / Pra Ser Minha Musa](https://open.spotify.com/track/5RQyJnbaAbwFZuTOCqK80z) | [Samba De Dom](https://open.spotify.com/artist/40wx3ETjJh4eeVACrDaJVm) | [Problema Emocional / Volta de Vez Pra Mim / Pra Ser Minha Musa](https://open.spotify.com/album/6WlReF2IaxJ7SKt4y1YlFm) | 5:20 |
 | 50 | [2022](https://open.spotify.com/track/4tjE5KCgw98VypSqtVCh3W) | [Milthinho](https://open.spotify.com/artist/44MnHK78EcZw23nzqY1vFp) | [2022](https://open.spotify.com/album/7ysk3Rg7XyoRGqhiUmuxy1) | 3:38 |
 
 Snapshot ID: `Zkts8wAAAAACRE7TanI09YSgRJKjh4s8`

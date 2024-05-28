@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "This is Manu Dibango. The essential tracks, all in one playlist.",
+  "description": "This is Manu Dibango. Todos os maiores hits em uma s\u00f3 playlist.",
   "name": "This Is Manu Dibango",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-25",
+      "date_removed": null,
       "duration_ms": 256293,
       "name": "Africa Boogie",
       "url": "https://open.spotify.com/track/2G7bPzKZl4pQjn1OalcIuQ"
@@ -320,7 +320,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-28",
       "duration_ms": 353866,
       "name": "Bayam Sell'Am",
       "url": "https://open.spotify.com/track/2t0c9foU1L4kNsNSK5zBWF"
@@ -356,7 +356,7 @@
       ],
       "date_added": "2024-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-28",
       "duration_ms": 206973,
       "name": "Bessoka - Version courte",
       "url": "https://open.spotify.com/track/6iJvaERQxKK0ci0zv3jqTH"
@@ -1636,7 +1636,7 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-28",
       "duration_ms": 252706,
       "name": "Nobody Cares",
       "url": "https://open.spotify.com/track/6FsJMw1nJYwGTw58c6LynS"
@@ -2698,7 +2698,7 @@
       ],
       "date_added": "2024-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-20",
+      "date_removed": null,
       "duration_ms": 420893,
       "name": "Tek Time",
       "url": "https://open.spotify.com/track/42yVShsOhzl2gfIyJGVdGE"
@@ -2890,7 +2890,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-26",
+      "date_removed": null,
       "duration_ms": 164640,
       "name": "What a wonderful world",
       "url": "https://open.spotify.com/track/26sSX8lDuic48lLOpu0g49"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 481 songs - 1 day 7 hr 45 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 490 songs - 1 day 8 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -489,5 +489,14 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 479 | [Let Go](https://open.spotify.com/track/3xKTpGCsafXzV4muM1Hpl3) | [Frou Frou](https://open.spotify.com/artist/6MUyqmIQ35inLjch0YzIEG) | [Details](https://open.spotify.com/album/7rwh9WVOm4JGKAbh1xlvPc) | 4:13 |
 | 480 | [When I'm Thinking About You](https://open.spotify.com/track/2RtOnuOdBiecnBoX8x9uoO) | [The Sundays](https://open.spotify.com/artist/4nlqDmbzFzbNITaqjJv7D7) | [Static & Silence](https://open.spotify.com/album/00Z7sMv2YhKb49u10ajvy4) | 4:17 |
 | 481 | [do u c](https://open.spotify.com/track/6nAmgIbPY6NdjWAWtOu7lz) | [Blu](https://open.spotify.com/artist/1KeJhR0ENFviw187pD4LPT) | [abc](https://open.spotify.com/album/6FtMqIlKhwju50LBpFXs20) | 0:35 |
+| 482 | [Silent Resolve](https://open.spotify.com/track/5TFjulUVozhg2upoFmbblV) | [Circa](https://open.spotify.com/artist/0NWAtptwHV1dlKCTTcNHly) | [Valley of the Windmill](https://open.spotify.com/album/3MndV3Q7I9Nxdy8rpl0jqp) | 14:41 |
+| 483 | [Beautiful Seven](https://open.spotify.com/track/3LIOzrflkzUxW5GFeBCkXx) | [Osibisa](https://open.spotify.com/artist/12X85dtebfc7JTZ8iMBT2o) | [Woyaya](https://open.spotify.com/album/72hcKrMgA7vVJLAOAKW8c2) | 6:46 |
+| 484 | [Singing Winds, Crying Beasts](https://open.spotify.com/track/0vBCQeiEKRy6eJmrf5zz4H) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [Abraxas](https://open.spotify.com/album/1CHUXwuge9A7L2KiA3vnR6) | 4:50 |
+| 485 | [Nappy Heads](https://open.spotify.com/track/5ZOsm73xqrZPJBBtv4aGpS) | [Fugees](https://open.spotify.com/artist/2WKdxPFRD7IqZvlIAvhMgY) | [Blunted On Reality](https://open.spotify.com/album/0SHdsrvo4oGJiUlYLaqCcu) | 4:29 |
+| 486 | [Close Your Eyes and Swing](https://open.spotify.com/track/3YLGWFX2FfHIVV7EJvRlrn) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [Dark Times](https://open.spotify.com/album/30BFY5VHii4PyWqkTubUWX) | 0:31 |
+| 487 | [CORLEONE](https://open.spotify.com/track/5VrKDJsD0VhIfjZxCEUXOI) | [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [GRASA](https://open.spotify.com/album/2ab0PTJ5OG7I6YfSqpDFZv) | 2:28 |
+| 488 | [Chutney](https://open.spotify.com/track/66wVaiPKHWIx2g4oMQ7ic1) | [Mandrill](https://open.spotify.com/artist/6RWnslEkqboHbDg0OUabe5) | [Mandrill](https://open.spotify.com/album/4bD8UUx1VGPsWbSAtfEWgX) | 3:05 |
+| 489 | [Right People, Wrong Place](https://open.spotify.com/track/2ftb45L7iXYwp0WoTEuslG) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Right Place, Wrong Person](https://open.spotify.com/album/512dQp7hBbDDurodCqSw5I) | 1:57 |
+| 490 | [Fingertips \(Intro\)](https://open.spotify.com/track/3ZPSyQ3TxrZ5O5lJPw0wVx) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT) | [Floorspace](https://open.spotify.com/album/0zJkFKoviOWGLmT5mvWhWC) | 1:56 |
 
-Snapshot ID: `AAAF8Dn7/2V2I5D7QbNz4Wwyi7peO+DH`
+Snapshot ID: `AAAF+aDMCPDdtTeybzFke0IYVF2oEr4m`

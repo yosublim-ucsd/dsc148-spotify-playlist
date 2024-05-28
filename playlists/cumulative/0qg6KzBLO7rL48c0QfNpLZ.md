@@ -4,7 +4,7 @@
 
 > The Best Background Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-349 songs - 15 hr 45 min
+351 songs - 15 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Brown Eyed Girl](https://open.spotify.com/track/6vqqKcmf2gV1qcR3tfvULK) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [Foínix](https://open.spotify.com/artist/7FNA36ZmHzr9QkZJcQjYcO), [Brandon Chase](https://open.spotify.com/artist/3qXWWITvZcTD1M2QmXszJK) | [Brown Eyed Girl](https://open.spotify.com/album/16zEG3fRYo75oTNtUdcJ3o) | 2:37 | 2023-12-21 |  |
 | [Burn](https://open.spotify.com/track/2gcOD9Q2iWBVxZEeZiMWig) | [Fdma](https://open.spotify.com/artist/0hPAeoseSOSk4S7CWkU6vt), [Freja](https://open.spotify.com/artist/0b39WnHUSyFv0h76cjpgzt) | [Burn](https://open.spotify.com/album/10oqy6CXg2JR8Z4NPzPATo) | 2:35 | 2024-02-23 | 2024-05-03 |
 | [Burn](https://open.spotify.com/track/1BoZF3perWaL5W1N7PTcm2) | [Hugo Ackermann](https://open.spotify.com/artist/4VUoyweGCkrCPNE6k8EccD), [INAMEIT](https://open.spotify.com/artist/6bOneog19MkwPOXivT4PeI) | [Burn](https://open.spotify.com/album/3PIRxSiDJgWt5kNSTX8zyd) | 3:01 | 2024-04-05 | 2024-05-03 |
+| [By Your Side](https://open.spotify.com/track/4LPOVVZeYoNaSOkGrIMZeJ) | [Loumé](https://open.spotify.com/artist/6o8bvjajrVq9BnXoR7bXnH), [madugo](https://open.spotify.com/artist/5NstYi6AvKAVD0kroo0QVC) | [By Your Side](https://open.spotify.com/album/7JdFmJlsQuvljXo5KksdCY) | 2:15 | 2024-05-27 |  |
 | [California Sun](https://open.spotify.com/track/2oPgfyd5RpS7I9f3t27mVo) | [Zusebi](https://open.spotify.com/artist/22tU9RAG5HZ9BatYWY66UH), [Vic Roz](https://open.spotify.com/artist/71CGmn7JPqjfNVZMOjCDDh), [Lukas Larsson](https://open.spotify.com/artist/3oiT7YsN5cdWj1DppuZ4SA) | [California Sun](https://open.spotify.com/album/7rhpN6p8fIZ5DfpJhMT6Rj) | 2:01 | 2024-04-19 |  |
 | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/album/2b2GHWESCWEuHiCZ2Skedp) | 3:59 | 2024-01-18 |  |
 | [Can't Love Myself \(feat\. Mishaal & LPW\)](https://open.spotify.com/track/6jvYUrFJeebfiHjyCvfiHE) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g), [LPW](https://open.spotify.com/artist/22fLwOqQV0IYn4GTTfg4Ha) | [Can't Love Myself \(feat\. Mishaal & LPW\)](https://open.spotify.com/album/3ZQaTE0GhMpsJKCqo8vnpb) | 2:36 | 2022-06-10 |  |
@@ -98,6 +99,7 @@
 | [Eyes Closed](https://open.spotify.com/track/5jJ67pAyLn89MqDoyyvQDd) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [Chill Covers](https://open.spotify.com/artist/4p81rIKtC7M8Ax5pRKcSNc), [Rory Hope](https://open.spotify.com/artist/147kOGOemXIO7HPzrwoYSC) | [Eyes Closed](https://open.spotify.com/album/5PZsQtGRqhDNevRzj0Owmx) | 2:26 | 2024-02-16 |  |
 | [Fading](https://open.spotify.com/track/2RP8Svo0pMwZXnVcmOffDw) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [ILIRA](https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41) | [Fading](https://open.spotify.com/album/6ZaQeprwD7KA1yLERV2OUW) | 3:27 | 2023-12-29 |  |
 | [Fading](https://open.spotify.com/track/07mZVJUp6D5EfIdeEHuUFT) | [Donner](https://open.spotify.com/artist/1jXVpcmMvyA6AtyzQtG42z) | [Fading](https://open.spotify.com/album/6CGsB67ZpcBnvErNxmrOeq) | 2:03 | 2024-02-02 | 2024-03-16 |
+| [Fairytale](https://open.spotify.com/track/3x9XuWtvk2hqSH6olPcoJZ) | [Lake Matisse](https://open.spotify.com/artist/4UNdUzuLNX9a47ElW0Xb0O), [Kairos Grove](https://open.spotify.com/artist/7Cf1QhdtHmjlckbnmUeC6l) | [Fairytale](https://open.spotify.com/album/0pmtrehbZ9elW5g6Lg3Tqy) | 2:18 | 2024-05-27 |  |
 | [Falling in Yøur Eyes](https://open.spotify.com/track/2ZJoEnWdNGIRt67sDAIPEE) | [birø](https://open.spotify.com/artist/4hKPAbYSJKUQtFMSjCOXcO) | [Falling in Yøur Eyes](https://open.spotify.com/album/5S7kz10Q5bFBEg1tuzMGlM) | 2:30 | 2024-04-05 | 2024-05-03 |
 | [Fast Car](https://open.spotify.com/track/1SN1vSPsr4V4tIUTR3s8YW) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Dakota](https://open.spotify.com/artist/2zzpznMuhKlKlqh1ma7Sms) | [Blue](https://open.spotify.com/album/2xZSrcBmvMw9Y8hac6xU7L) | 3:32 | 2023-12-04 |  |
 | [Favorites](https://open.spotify.com/track/5XpuDzQLDP7utc4f2Q1D4Y) | [SITHEA](https://open.spotify.com/artist/3GfjLgEICYvQCBdjVmZZdu) | [Favorites](https://open.spotify.com/album/2JZnI7uhBUutURbguB82un) | 2:00 | 2023-12-22 |  |

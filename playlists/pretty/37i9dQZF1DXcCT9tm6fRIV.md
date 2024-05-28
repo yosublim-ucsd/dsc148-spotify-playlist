@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCT9tm6fRIV.md) - [plain]
 
 > Disfruta esta fina selección de los mejores Tangos argentinos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 238,164 likes - 80 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 238,192 likes - 80 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCT9tm6fRIV.md) - [plain]
 | 29 | [Volver](https://open.spotify.com/track/70abt7HwRBCHQA3G5oa1JF) | [Angelito Martinez](https://open.spotify.com/artist/5g1vnuJPRdxecXJDxw1Gf2), [Chino Laborde](https://open.spotify.com/artist/5OrKrSqxhTFrtScoJhqLrP), [Manu Sacco](https://open.spotify.com/artist/2St6ak4r5JMLJ53BU977xe) | [Antología, Vol\. 1: Gardel y Le Pera](https://open.spotify.com/album/0nfXjFRLFngleV9mIkhEMQ) | 3:22 |
 | 30 | [Tinta Roja](https://open.spotify.com/track/0DoNdCNH3E85mYS6KS4PbL) | [Aníbal Troilo](https://open.spotify.com/artist/7zsTaSj1Q4jSCjbj5GtmoN), [Francisco Fiorentino](https://open.spotify.com/artist/0chC6Ta4I8hpmaZ28GUdMT) | [Toda Mi Vida](https://open.spotify.com/album/1sbMaJCTwvmgMr1LUXtcyR) | 3:03 |
 | 31 | [Silbando](https://open.spotify.com/track/5UbeVgfPSlXrJBl9MTMmhJ) | [Aníbal Arias](https://open.spotify.com/artist/2tN74NW4cYDQJBUrdA5dUm) | [Una Guitarra Para Gardel](https://open.spotify.com/album/1oKSMqX4nXZtG1AvdihLEj) | 2:12 |
-| 32 | [Pompas de Jabón](https://open.spotify.com/track/46MPDWju4JkXKAdPUz1hdx) | [Roberto Goyeneche](https://open.spotify.com/artist/3tkyefEX4NNjb0AILRLq2A), [Baffa\-Berlingieri](https://open.spotify.com/artist/51le4Io2pkDGk37ef4Itwd) | [15 Grandes Exitos \- Los Discos De Oro De Roberto Goyeneche](https://open.spotify.com/album/7fScjvjQUNV06fB5WO5CZ8) | 2:56 |
-| 33 | [Muñeca Brava](https://open.spotify.com/track/52e64XTYEcYdbe6RmTr6a7) | [Alberto Castillo](https://open.spotify.com/artist/14KUc7zg3OndrAMbCNxPBD) | [Los Cien Barrios Porteños](https://open.spotify.com/album/5mfNbUxufnu0rKy61i3Qzq) | 2:50 |
+| 32 | [Muñeca Brava](https://open.spotify.com/track/52e64XTYEcYdbe6RmTr6a7) | [Alberto Castillo](https://open.spotify.com/artist/14KUc7zg3OndrAMbCNxPBD) | [Los Cien Barrios Porteños](https://open.spotify.com/album/5mfNbUxufnu0rKy61i3Qzq) | 2:50 |
+| 33 | [Pompas de Jabón](https://open.spotify.com/track/46MPDWju4JkXKAdPUz1hdx) | [Roberto Goyeneche](https://open.spotify.com/artist/3tkyefEX4NNjb0AILRLq2A), [Baffa\-Berlingieri](https://open.spotify.com/artist/51le4Io2pkDGk37ef4Itwd) | [15 Grandes Exitos \- Los Discos De Oro De Roberto Goyeneche](https://open.spotify.com/album/7fScjvjQUNV06fB5WO5CZ8) | 2:56 |
 | 34 | [Mariposita \- En Vivo](https://open.spotify.com/track/3eDlsR5h1xyImi09ulmjYK) | [Ariel Ardit](https://open.spotify.com/artist/62WLKvGxUiIjMITbNetyR6), [Orquesta Tipica](https://open.spotify.com/artist/04eoPYzcEUkOi9dyDYYUIk) | [A los Cantores \(En Vivo\)](https://open.spotify.com/album/2AN8JN4CJlc1BqgKLQEvvx) | 3:44 |
 | 35 | [Yuyo Verde](https://open.spotify.com/track/7AYunCgwVKF1oh2k7f653e) | [Susana Rinaldi](https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE) | [En El Underground](https://open.spotify.com/album/6I123wp2nUkU8hiY0vzu7o) | 3:25 |
 | 36 | [Pasional](https://open.spotify.com/track/4UWJSmwJe8qZnXz8KDa6V0) | [Jorge Vázquez](https://open.spotify.com/artist/6wiOHmlihMHpqgiPmYFCab) | [Pasional](https://open.spotify.com/album/57cI3a1ZWB8kCN7FilRmHc) | 3:28 |

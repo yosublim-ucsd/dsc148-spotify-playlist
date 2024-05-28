@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-734 songs - 1 day 18 hr 17 min
+735 songs - 1 day 18 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -399,6 +399,7 @@
 | [Marea Turquesa](https://open.spotify.com/track/4S0GJba78XTTYMDChLvTjc) | [Flexible Fire](https://open.spotify.com/artist/76sA8VLsfgOY1qoNgHnf8K) | [Marea Turquesa](https://open.spotify.com/album/2z7jQZ0dnfYMErTg4CVnp4) | 3:08 | 2023-01-23 | 2023-04-06 |
 | [Mayday](https://open.spotify.com/track/1I4QzF6sT7yH3BZaaJ6npk) | [Slippy](https://open.spotify.com/artist/3gxGPuGK6DOpv7XVp8V6jG), [Egzod](https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6), [Diandra Faye](https://open.spotify.com/artist/5gdYdbKxGw2Mq25TfsmH6q) | [Mayday](https://open.spotify.com/album/15Pufc2qp5Wp0NVN9JOBaR) | 3:03 | 2023-05-29 | 2023-08-28 |
 | [Maze](https://open.spotify.com/track/1sFIeryYtYTqcRqZiEuIxh) | [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF), [PHIA](https://open.spotify.com/artist/6O6aPDrL58wZRzQ6Rqq9or) | [Maze](https://open.spotify.com/album/3IoThqpjyqj8cjbz5RCTrj) | 3:03 | 2022-05-13 | 2022-07-26 |
+| [MEANT 2 BE](https://open.spotify.com/track/4zMVHb3ZWygsiB3oxDiur4) | [THIRST](https://open.spotify.com/artist/48jyKugtgYM5RdzwF7zKde), [nuphory](https://open.spotify.com/artist/2K0uRwlc2VKeRoWS8Iuija) | [MEANT 2 BE](https://open.spotify.com/album/1IWx8iljeD27g0OOrzD9mE) | 2:44 | 2024-05-27 |  |
 | [Midnight](https://open.spotify.com/track/3lLGqbg4MFogvxKKgK3dQB) | [Mick Mazoo](https://open.spotify.com/artist/1Yx2K8SQD3JPnPesUxNqve) | [Midnight](https://open.spotify.com/album/6tekFxWP50ojlYn6jHL2vW) | 2:32 | 2022-09-23 | 2022-11-29 |
 | [Million Reasons](https://open.spotify.com/track/76LqoAbnaxhc9gaGnXluFy) | [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y), [Gunnva](https://open.spotify.com/artist/7MVtZkqiCMOWchZpXPEMXh) | [Million Reasons](https://open.spotify.com/album/1shWfHagehxkIqbREDm5fx) | 3:25 | 2021-12-03 | 2022-03-09 |
 | [Mindbreak](https://open.spotify.com/track/6EP8jgwI9FS3qEEfNC6idl) | [IVORY](https://open.spotify.com/artist/4820AP0lvBGJjSK0PXgZgo) | [Mindbreak](https://open.spotify.com/album/21Cj0g82RnutbkJdlrwTkD) | 3:33 | 2023-03-31 | 2023-06-24 |

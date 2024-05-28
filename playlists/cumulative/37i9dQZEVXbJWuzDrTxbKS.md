@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Latvia.
 
-2,074 songs - 4 day 16 hr 8 min
+2,075 songs - 4 day 16 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,6 +191,7 @@
 | [Bam Bam \(feat\. Ed Sheeran\)](https://open.spotify.com/track/0QBzMgT7NIeoCYy3sJCof1) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Bam Bam \(feat\. Ed Sheeran\)](https://open.spotify.com/album/6FIMt58naoGYrOe4Wn2P3n) | 3:26 | 2022-03-12 | 2022-04-10 |
 | [Bam Bam \(feat\. Ed Sheeran\)](https://open.spotify.com/track/2DB4DdfCFMw1iaR6JaR03a) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Familia](https://open.spotify.com/album/4urxMitPAkjyey14LeuWSX) | 3:26 | 2022-04-09 | 2022-07-18 |
 | [Bambaleo](https://open.spotify.com/track/33alhOQvgNOZTfBhfSSbW7) | [Singapūras Satīns](https://open.spotify.com/artist/3X4o7qy1ci4qtCVg2AtuXb) | [STONKS](https://open.spotify.com/album/6s3RiLpdAKOoFhOWskFYEo) | 3:21 | 2021-10-08 | 2021-10-11 |
+| [BAND4BAND \(feat\. Lil Baby\)](https://open.spotify.com/track/7iabz12vAuVQYyekFIWJxD) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [BAND4BAND \(feat\. Lil Baby\)](https://open.spotify.com/album/4AzPr5SUpNF553eC1d3aRy) | 2:20 | 2024-05-27 |  |
 | [BANDA MĀJĀS MAMMA RĀJĀS](https://open.spotify.com/track/5MbHxVpM5npq90QAMw0db7) | [BANDA BANDA](https://open.spotify.com/artist/4dQhW2icCxAuYzbDe85gna), [Steps](https://open.spotify.com/artist/6RqVzuPaClLObg598kQEn7), [rolands če](https://open.spotify.com/artist/35liSWoGK1NcMBLNQqamHZ), [xantikvariāts](https://open.spotify.com/artist/5TzEw4wxHOewtBd2By4RIX), [Prusax](https://open.spotify.com/artist/0w0OJxtDe1dOnbbCRYdh3D) | [GANGBANG](https://open.spotify.com/album/1JhDjiWzSkHbRVQ2sAaN8e) | 2:47 | 2023-05-18 | 2023-05-20 |
 | [Banda Taxi](https://open.spotify.com/track/4T3cOiKIRBxkkDO9s1kuiB) | [Netīrās Cilpas](https://open.spotify.com/artist/7qMwBXRD3KIEf8AGlHu1ze), [Steps](https://open.spotify.com/artist/6RqVzuPaClLObg598kQEn7), [xantikvariāts](https://open.spotify.com/artist/5TzEw4wxHOewtBd2By4RIX), [rolands če](https://open.spotify.com/artist/35liSWoGK1NcMBLNQqamHZ) | [Melnezera grāmata](https://open.spotify.com/album/4ifT0y4TGyDc6p9GIfcprf) | 2:46 | 2023-11-25 | 2023-11-27 |
 | [Bandana](https://open.spotify.com/track/16AzcbKli3UQsxj491hJLQ) | [Big Baby Tape](https://open.spotify.com/artist/5NMwoStnfHT4LdETlJSwDT), [kizaru](https://open.spotify.com/artist/5NipqMGsY4AUeb7kGT8aVz) | [BANDANA I](https://open.spotify.com/album/6kzabofELlyd7dYqY78dzu) | 2:31 | 2021-10-23 | 2022-01-08 |
@@ -631,7 +632,7 @@
 | [GOSSIP \(feat\. Tom Morello\)](https://open.spotify.com/track/4GvPlSOKfN7aXEuGW8zKUx) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr), [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed) | [GOSSIP \(feat\. Tom Morello\)](https://open.spotify.com/album/6kHJE5xnpA6zncKOD70bS8) | 2:48 | 2023-01-17 | 2023-01-24 |
 | [Grapejuice](https://open.spotify.com/track/4j6kId9QIqhoXvqHKgSKa0) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:11 | 2022-05-21 | 2022-05-31 |
 | [greedy](https://open.spotify.com/track/1reEeZH9wNt4z1ePYLyC7p) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/5TCVikuC7Npt0WOOWGxLs9) | 2:11 | 2023-10-14 | 2023-10-19 |
-| [greedy](https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN) | 2:11 | 2023-09-16 |  |
+| [greedy](https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN) | 2:11 | 2023-09-16 | 2024-05-28 |
 | [green light p2](https://open.spotify.com/track/4B4y624nP9xxNAUjTrxtCc) | [Veata](https://open.spotify.com/artist/2rAY3WPJVBjiZwMtxIdGFP) | [summer kiss](https://open.spotify.com/album/71qOkJf0prPEjbK4V3W0Cx) | 2:17 | 2024-04-03 | 2024-04-06 |
 | [Green Room](https://open.spotify.com/track/3MtB4aOzFkXJvAREmsy1Dj) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [A Great Chaos](https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW) | 3:08 | 2023-10-14 | 2023-10-16 |
 | [GTA](https://open.spotify.com/track/12BfsRTFvmYVU5zZmdpGHg) | [MORGENSHTERN](https://open.spotify.com/artist/0XNKQFs2Ewb3y0VsFUFc5l) | [MILLION DOLLAR: BUSINESS](https://open.spotify.com/album/04KjJSDImRLbElsI39hPLY) | 2:06 | 2021-05-30 | 2021-06-01 |

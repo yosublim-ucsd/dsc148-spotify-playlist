@@ -38,7 +38,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-01",
+      "date_removed": null,
       "duration_ms": 114920,
       "name": "A Life Apart",
       "url": "https://open.spotify.com/track/7DWCtu846C9kSdacjgLycc"
@@ -208,7 +208,7 @@
       ],
       "date_added": "2023-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-13",
+      "date_removed": null,
       "duration_ms": 84650,
       "name": "Arriving to Ginny's Farm",
       "url": "https://open.spotify.com/track/638Nk6e23crFjluIBPWIk1"
@@ -460,7 +460,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-28",
       "duration_ms": 79426,
       "name": "Cowboys Don't Quit",
       "url": "https://open.spotify.com/track/4jKqRwLiOCpxQqRpp7uwf0"
@@ -768,7 +768,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-28",
       "duration_ms": 167483,
       "name": "Fire and Ice",
       "url": "https://open.spotify.com/track/6ORJOggTLQzfF8I5dsR5av"
@@ -840,7 +840,7 @@
       ],
       "date_added": "2024-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-13",
+      "date_removed": null,
       "duration_ms": 112000,
       "name": "George's Realization",
       "url": "https://open.spotify.com/track/62cl94B6a9VBUYRShcF6dp"
@@ -1114,7 +1114,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-28",
       "duration_ms": 154638,
       "name": "Leaving Lone Pine Falls",
       "url": "https://open.spotify.com/track/6kMVwV8S6VV3LDgJ02dDwm"
@@ -1528,7 +1528,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-28",
       "duration_ms": 70600,
       "name": "Royal Barge Disaster",
       "url": "https://open.spotify.com/track/6fmRBaYCK3bUKUgQozL9fw"
@@ -1665,6 +1665,24 @@
     },
     {
       "album": {
+        "name": "Margarita (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5tzRfvXjV1LLsTNbI5jPWp"
+      },
+      "artists": [
+        {
+          "name": "Germaine Franco",
+          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
+        }
+      ],
+      "date_added": "2024-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118237,
+      "name": "Smells Like Mexico",
+      "url": "https://open.spotify.com/track/2taOoD8UMeQpkDNG6CPkqf"
+    },
+    {
+      "album": {
         "name": "Kung Fu Panda: Land Of Awesomeness (Music From Universal Beijing Resort's)",
         "url": "https://open.spotify.com/album/6KRNi77BaFQLngZOuBkWqo"
       },
@@ -1766,7 +1784,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-16",
+      "date_removed": null,
       "duration_ms": 98613,
       "name": "Ted Saves The Day",
       "url": "https://open.spotify.com/track/6xjjeZHIXcywmHT3pO0Zak"

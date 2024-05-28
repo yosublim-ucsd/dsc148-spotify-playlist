@@ -1,6 +1,6 @@
 {
   "description": "Classic anthems from a classic era. Cover: Wookie",
-  "num_followers": 548893,
+  "num_followers": 549013,
   "original_name": "UK Garage Classics",
   "owner": {
     "name": "Spotify",
@@ -1131,18 +1131,22 @@
     {
       "added_at": "2024-05-15 16:43:21",
       "album": {
-        "name": "PAY CLOSE ATTENTION: XL Recordings",
-        "url": "https://open.spotify.com/album/3D9vUf511saEHLua6NcOLw"
+        "name": "Cut To The Chase",
+        "url": "https://open.spotify.com/album/23qJYwn8Ws7ByE8JOOxKLk"
       },
       "artists": [
         {
-          "name": "NuBirth",
-          "url": "https://open.spotify.com/artist/74sS9PHuqYxHllQL8noO0G"
+          "name": "MJ Cole",
+          "url": "https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl"
+        },
+        {
+          "name": "Vula Malinga",
+          "url": "https://open.spotify.com/artist/62cbToG9jGPFvL0P2DslNf"
         }
       ],
-      "duration_ms": 320156,
-      "name": "Anytime",
-      "url": "https://open.spotify.com/track/2Juu7tim2c71wvKAMRYkNc"
+      "duration_ms": 216600,
+      "name": "Wondering Why",
+      "url": "https://open.spotify.com/track/1hEON5HHAv2GFuapRYuW8Y"
     },
     {
       "added_at": "2024-05-15 16:43:21",
@@ -1163,22 +1167,18 @@
     {
       "added_at": "2024-05-15 16:43:21",
       "album": {
-        "name": "Cut To The Chase",
-        "url": "https://open.spotify.com/album/23qJYwn8Ws7ByE8JOOxKLk"
+        "name": "PAY CLOSE ATTENTION: XL Recordings",
+        "url": "https://open.spotify.com/album/3D9vUf511saEHLua6NcOLw"
       },
       "artists": [
         {
-          "name": "MJ Cole",
-          "url": "https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl"
-        },
-        {
-          "name": "Vula Malinga",
-          "url": "https://open.spotify.com/artist/62cbToG9jGPFvL0P2DslNf"
+          "name": "NuBirth",
+          "url": "https://open.spotify.com/artist/74sS9PHuqYxHllQL8noO0G"
         }
       ],
-      "duration_ms": 216600,
-      "name": "Wondering Why",
-      "url": "https://open.spotify.com/track/1hEON5HHAv2GFuapRYuW8Y"
+      "duration_ms": 320156,
+      "name": "Anytime",
+      "url": "https://open.spotify.com/track/2Juu7tim2c71wvKAMRYkNc"
     },
     {
       "added_at": "2024-05-15 16:43:21",
@@ -1247,6 +1247,26 @@
     {
       "added_at": "2024-05-15 16:43:21",
       "album": {
+        "name": "Sincere (Deluxe)",
+        "url": "https://open.spotify.com/album/0V76cokjWCIMO2pnElF1mw"
+      },
+      "artists": [
+        {
+          "name": "MJ Cole",
+          "url": "https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl"
+        },
+        {
+          "name": "Elisabeth Troy",
+          "url": "https://open.spotify.com/artist/2PWJP6HKlECQurewX1uGuT"
+        }
+      ],
+      "duration_ms": 309520,
+      "name": "Attitude",
+      "url": "https://open.spotify.com/track/0mFEqYuAiWphuDLXj9h75n"
+    },
+    {
+      "added_at": "2024-05-15 16:43:21",
+      "album": {
         "name": "Pick Me Up",
         "url": "https://open.spotify.com/album/51HxoBrnXMvUuneVRRV5gl"
       },
@@ -1307,26 +1327,6 @@
       "duration_ms": 329866,
       "name": "Joy",
       "url": "https://open.spotify.com/track/36xCum3i0EQyr2mw02X3U0"
-    },
-    {
-      "added_at": "2024-05-15 16:43:21",
-      "album": {
-        "name": "Sincere (Deluxe)",
-        "url": "https://open.spotify.com/album/0V76cokjWCIMO2pnElF1mw"
-      },
-      "artists": [
-        {
-          "name": "MJ Cole",
-          "url": "https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl"
-        },
-        {
-          "name": "Elisabeth Troy",
-          "url": "https://open.spotify.com/artist/2PWJP6HKlECQurewX1uGuT"
-        }
-      ],
-      "duration_ms": 309520,
-      "name": "Attitude",
-      "url": "https://open.spotify.com/track/0mFEqYuAiWphuDLXj9h75n"
     },
     {
       "added_at": "2024-05-15 16:43:21",

@@ -5044,7 +5044,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-28",
       "duration_ms": 160000,
       "name": "Obudzi\u0142em si\u0119 w Bukareszcie - Def Jam World Tour",
       "url": "https://open.spotify.com/track/6pLzJmfqpaca8QGb19JZDp"
@@ -7502,6 +7502,32 @@
       "duration_ms": 153600,
       "name": "Zabi\u0107 Stan",
       "url": "https://open.spotify.com/track/4u9Zcji4fWCHADZB8iGzv3"
+    },
+    {
+      "album": {
+        "name": "Zap\u0142akane matki (Def Jam World Tour)",
+        "url": "https://open.spotify.com/album/4OAslVPFOg1D0LZKgUhvEB"
+      },
+      "artists": [
+        {
+          "name": "Yung Adisz",
+          "url": "https://open.spotify.com/artist/2G8IXlvZR5PxsMAAg2ZG40"
+        },
+        {
+          "name": "Rusina",
+          "url": "https://open.spotify.com/artist/5QQGdYIcd5A2PRcG42eNdQ"
+        },
+        {
+          "name": "Def Jam World Tour",
+          "url": "https://open.spotify.com/artist/1PFMCqDezh9wVkmmWZlv16"
+        }
+      ],
+      "date_added": "2024-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188456,
+      "name": "Zap\u0142akane matki - Def Jam World Tour",
+      "url": "https://open.spotify.com/track/2Bjy034oHf5jNxidUDCrxS"
     },
     {
       "album": {

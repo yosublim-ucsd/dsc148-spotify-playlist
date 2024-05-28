@@ -1,6 +1,6 @@
 {
   "description": "The unmistakable sound of Blues piano: the best pianists to have pioneered the sound and shape the genre. Cover: Ray Charles",
-  "num_followers": 36911,
+  "num_followers": 36938,
   "original_name": "Blues Piano Legends",
   "owner": {
     "name": "Spotify",
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-09-15 11:43:10",
       "album": {
-        "name": "Blues Routes: Heroes and Tricksters: Blues and Jazz Work Songs and Street Music",
-        "url": "https://open.spotify.com/album/3fJ4RbYBvlLsdSVDnK23Gb"
-      },
-      "artists": [
-        {
-          "name": "Booker T. Laury",
-          "url": "https://open.spotify.com/artist/6Tsq5rIvRhxQwRsvsRDsWH"
-        }
-      ],
-      "duration_ms": 185600,
-      "name": "Early in the Morning",
-      "url": "https://open.spotify.com/track/6LnP6nCXhVeRtDaKJU1omH"
-    },
-    {
-      "added_at": "2023-09-15 11:43:10",
-      "album": {
         "name": "The Seventh Son",
         "url": "https://open.spotify.com/album/1foLQZbtfVc6dbNA7uwFBN"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 190665,
       "name": "I Don't Know",
       "url": "https://open.spotify.com/track/1MNnR6qxBeh4AJVTwa8Q6y"
+    },
+    {
+      "added_at": "2023-09-15 11:43:10",
+      "album": {
+        "name": "Blues Routes: Heroes and Tricksters: Blues and Jazz Work Songs and Street Music",
+        "url": "https://open.spotify.com/album/3fJ4RbYBvlLsdSVDnK23Gb"
+      },
+      "artists": [
+        {
+          "name": "Booker T. Laury",
+          "url": "https://open.spotify.com/artist/6Tsq5rIvRhxQwRsvsRDsWH"
+        }
+      ],
+      "duration_ms": 185600,
+      "name": "Early in the Morning",
+      "url": "https://open.spotify.com/track/6LnP6nCXhVeRtDaKJU1omH"
     },
     {
       "added_at": "2023-09-15 11:43:10",
@@ -919,22 +919,6 @@
     {
       "added_at": "2023-09-15 11:43:10",
       "album": {
-        "name": "This Is the Blues! Vol. 7 (Mono Version)",
-        "url": "https://open.spotify.com/album/4U9fxJlHlKvp5GwKmenuQ3"
-      },
-      "artists": [
-        {
-          "name": "Jimmie Gordon",
-          "url": "https://open.spotify.com/artist/6XrOb8biVVH7gH09AIjB7l"
-        }
-      ],
-      "duration_ms": 192011,
-      "name": "Me and My Gin",
-      "url": "https://open.spotify.com/track/5L4sfgGbYh7CgXVBTmUcfz"
-    },
-    {
-      "added_at": "2023-09-15 11:43:10",
-      "album": {
         "name": "I Feel Like Steppin' Out",
         "url": "https://open.spotify.com/album/577wQlMr4FANgCxSxGuC24"
       },
@@ -951,18 +935,18 @@
     {
       "added_at": "2023-09-15 11:43:10",
       "album": {
-        "name": "Best of Blues Vol. 6: Postwar Chicago Blues III (Collection Gerard Herzhaft - Remastered)",
-        "url": "https://open.spotify.com/album/3wIt6N0fd9c6ittIk8BpcZ"
+        "name": "This Is the Blues! Vol. 7 (Mono Version)",
+        "url": "https://open.spotify.com/album/4U9fxJlHlKvp5GwKmenuQ3"
       },
       "artists": [
         {
-          "name": "Lazy Bill Lucas",
-          "url": "https://open.spotify.com/artist/4v9Nt1CRGlHHdDX1sIXuAq"
+          "name": "Jimmie Gordon",
+          "url": "https://open.spotify.com/artist/6XrOb8biVVH7gH09AIjB7l"
         }
       ],
-      "duration_ms": 166253,
-      "name": "My Baby's Gone",
-      "url": "https://open.spotify.com/track/1ORs7J8remmKEDvAMotH29"
+      "duration_ms": 192011,
+      "name": "Me and My Gin",
+      "url": "https://open.spotify.com/track/5L4sfgGbYh7CgXVBTmUcfz"
     },
     {
       "added_at": "2023-09-15 11:43:10",
@@ -979,6 +963,22 @@
       "duration_ms": 272240,
       "name": "Early In The Morning",
       "url": "https://open.spotify.com/track/0YbX9uVeQs6i4BuGL8ovUg"
+    },
+    {
+      "added_at": "2023-09-15 11:43:10",
+      "album": {
+        "name": "Best of Blues Vol. 6: Postwar Chicago Blues III (Collection Gerard Herzhaft - Remastered)",
+        "url": "https://open.spotify.com/album/3wIt6N0fd9c6ittIk8BpcZ"
+      },
+      "artists": [
+        {
+          "name": "Lazy Bill Lucas",
+          "url": "https://open.spotify.com/artist/4v9Nt1CRGlHHdDX1sIXuAq"
+        }
+      ],
+      "duration_ms": 166253,
+      "name": "My Baby's Gone",
+      "url": "https://open.spotify.com/track/1ORs7J8remmKEDvAMotH29"
     },
     {
       "added_at": "2023-09-15 11:43:10",

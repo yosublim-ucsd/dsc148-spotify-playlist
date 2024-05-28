@@ -4,7 +4,7 @@
 
 > A salute to all of the women opening up the pit\. Cover: Cassyette
 
-313 songs - 20 hr 1 min
+314 songs - 20 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,7 @@
 | [Eyes Of The World](https://open.spotify.com/track/6BQhXq7JHYEEEu9G52UIws) | [Vicky Psarakis](https://open.spotify.com/artist/6wgfKETz8TigbBqevjeAwZ), [Quentin Cornet](https://open.spotify.com/artist/783UqG9zEcrqxXk0UVKsuP) | [Eyes Of The World](https://open.spotify.com/album/7kxAYpirhF9ov4wHoe6yXn) | 3:52 | 2021-02-06 | 2022-07-29 |
 | [FAIRY METAL](https://open.spotify.com/track/0DKxrOrnZCgYZkEK4c0lPh) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [FAIRY METAL](https://open.spotify.com/album/6kfLbgw7Urv2Kyd2xSJALA) | 2:41 | 2022-03-04 | 2022-07-29 |
 | [FAIRY METAL](https://open.spotify.com/track/2l3SCP5KWRhuKWTbi5zp0j) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [FAIRY METAL](https://open.spotify.com/album/1wIQMs7BAhTlRUS9DIh9UJ) | 2:41 | 2022-03-11 | 2024-04-19 |
-| [Faking It](https://open.spotify.com/track/0lP6unRRdWs0cqa6qjsSmn) | [Svalbard](https://open.spotify.com/artist/2HLQr8aUMombMeuIEDv6wA) | [Faking It](https://open.spotify.com/album/1ojh4hiSv6uhe2lSCtb3CF) | 5:28 | 2023-08-07 |  |
+| [Faking It](https://open.spotify.com/track/0lP6unRRdWs0cqa6qjsSmn) | [Svalbard](https://open.spotify.com/artist/2HLQr8aUMombMeuIEDv6wA) | [Faking It](https://open.spotify.com/album/1ojh4hiSv6uhe2lSCtb3CF) | 5:28 | 2023-08-07 | 2024-05-28 |
 | [Fantasy's Wings](https://open.spotify.com/track/5n4Ale9oujD3ZsfAM2NFG0) | [Ancient Bards](https://open.spotify.com/artist/3ZlSRBv3StWrGuGTAwKskP) | [Fantasy's Wings](https://open.spotify.com/album/5kKPRzB4yBekhxRbWaROKp) | 4:51 | 2020-12-07\* | 2020-12-11 |
 | [Father Of Lies](https://open.spotify.com/track/2Di9hrXOq4ov2MGfSNMZiA) | [The Velveteers](https://open.spotify.com/artist/79wCmFlJs2qglR5n4UHMoq) | [Father Of Lies](https://open.spotify.com/album/4oILK4Qdj0Ba9tdEXSkhZR) | 4:17 | 2021-10-12 | 2021-10-14 |
 | [Father Of Lies](https://open.spotify.com/track/2Ow2S3k1Ggr2Ek76a7YoCe) | [The Velveteers](https://open.spotify.com/artist/79wCmFlJs2qglR5n4UHMoq) | [Nightmare Daydream](https://open.spotify.com/album/3QJ2obeLQY61RE4vVLLilH) | 4:17 | 2022-03-11 | 2022-10-04 |
@@ -168,6 +168,7 @@
 | [Like That](https://open.spotify.com/track/2SpphQibJfkN9GY5nuzlof) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [Sad Girl Mixtape](https://open.spotify.com/album/23yFRTbLS2jvXfFedgFDFM) | 2:35 | 2022-11-18 |  |
 | [Like Water](https://open.spotify.com/track/4sT2KQ2eOJhkk4efNXh3QW) | [Blind Summit](https://open.spotify.com/artist/2ilHNWINkzKLAT9IH8StKy) | [Like Water](https://open.spotify.com/album/5rCCY7VvKQoV6Bdkbvxj5Q) | 5:08 | 2021-10-10 | 2021-10-16 |
 | [Listen to Someone](https://open.spotify.com/track/1NO9EWRJgGhiMRkPXuiB4D) | [Svalbard](https://open.spotify.com/artist/2HLQr8aUMombMeuIEDv6wA) | [When I Die, Will I Get Better?](https://open.spotify.com/album/1eo3ZZmqerj4vkR5VqDkGs) | 5:10 | 2021-02-19 | 2022-07-12 |
+| [Loud Love](https://open.spotify.com/track/5C94DiM9oHIqWixKn3LrdZ) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq) | [Other Worlds](https://open.spotify.com/album/4RzdRTzBSgtK2y9BF397Qf) | 4:55 | 2024-02-16 |  |
 | [Mark Of The Grave](https://open.spotify.com/track/2nrm5IBXH4D2gBUUbgEzf7) | [Employed To Serve](https://open.spotify.com/artist/58d50jBQXhOetEGuSBgu64) | [Conquering](https://open.spotify.com/album/38pSlzhA3EKAx3jsPZvwU6) | 4:23 | 2022-03-11 | 2022-11-19 |
 | [Mark Of The Grave](https://open.spotify.com/track/53GhI8xreQ3oPRC2Ly5X35) | [Employed To Serve](https://open.spotify.com/artist/58d50jBQXhOetEGuSBgu64) | [Mark Of The Grave](https://open.spotify.com/album/2tqiux2PEvRPgiPo1R94KV) | 4:23 | 2021-08-24 | 2022-07-25 |
 | [Masters Of Destiny](https://open.spotify.com/track/7DnrGaloG6hmLPrvePhH0L) | [Delain](https://open.spotify.com/artist/6pIRdCtSE5hLFfIfcTAicI) | [Masters Of Destiny](https://open.spotify.com/album/6FsDilyRf5xsIRMbtyqEfE) | 4:54 | 2020-12-07\* | 2021-02-06 |

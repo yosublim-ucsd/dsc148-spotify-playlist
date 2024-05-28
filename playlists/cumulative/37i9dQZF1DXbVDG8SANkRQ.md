@@ -4,7 +4,7 @@
 
 > Listen to the soundtracks of The Atypical Family\. \(히어로는 아닙니다만의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-28 songs - 1 hr 37 min
+30 songs - 1 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,8 @@
 | [I See You](https://open.spotify.com/track/2tjzHzqMMoCy9xWU0MAP3Q) | [Lee So Ra](https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC) | [The Atypical Family \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/4vq5IM3eib2FIDfPdu23fP) | 4:28 | 2024-05-23 |  |
 | [I See You \- Instrumental](https://open.spotify.com/track/7mdsu3BEFTAFym6AoPYVQs) | [Lee So Ra](https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC) | [The Atypical Family \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/4vq5IM3eib2FIDfPdu23fP) | 4:28 | 2024-05-23 |  |
 | [Ice Cream \(with Selena Gomez\)](https://open.spotify.com/track/2J4P46vCFm1rPkNkp9pZWX) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Ice Cream \(with Selena Gomez\)](https://open.spotify.com/album/2VBb4LRcRSACOfJWRUgVZl) | 2:55 | 2024-05-23 |  |
+| [La Puta](https://open.spotify.com/track/3Zl3GZDFHxFXOVleILTu0n) | [Yi Sung Yol](https://open.spotify.com/artist/1uwchldM1ngqs8xCZg0DK9) | [The Atypical Family \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/1eHNGz5204SsrzVcBB5HTZ) | 3:16 | 2024-05-27 |  |
+| [La Puta \- Instrumental](https://open.spotify.com/track/6QSpGalR1z65Zdz3lv3Frt) | [Yi Sung Yol](https://open.spotify.com/artist/1uwchldM1ngqs8xCZg0DK9) | [The Atypical Family \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/1eHNGz5204SsrzVcBB5HTZ) | 3:16 | 2024-05-27 |  |
 | [LIKE THAT](https://open.spotify.com/track/7GDgpad2BQVuDUzaxHFakc) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [BABYMONS7ER](https://open.spotify.com/album/0eSbsl3j8jz96LC2NCLPc4) | 2:48 | 2024-05-23 |  |
 | [Love Thang](https://open.spotify.com/track/6UWneVTyCOrJwDoqo1huD0) | [Bebe Winans](https://open.spotify.com/artist/6D9xBdOOyGHqOam9OShAWl) | [Dream](https://open.spotify.com/album/4Ig3JbiTtP5JFdV32fCOdx) | 3:55 | 2024-05-23 |  |
 | [The 6th Summer](https://open.spotify.com/track/1lODrFR40rSNAw5cX4j2J2) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [ASTERUM : The Shape of Things to Come](https://open.spotify.com/album/0BlLhv46UtmO6UodMnwaYF) | 3:43 | 2024-05-23 |  |

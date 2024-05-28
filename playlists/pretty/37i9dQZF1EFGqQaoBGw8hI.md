@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1253lWxXfmfZeT2vRLhBUq">Elton John</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,764 likes - 575 songs - 1 day 16 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,771 likes - 575 songs - 1 day 16 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -212,8 +212,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 | 202 | [Street Kids](https://open.spotify.com/track/20FnYowQOrLxU92iyA94ed) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Rock Of The Westies](https://open.spotify.com/album/4ObsEU7mIXbo2n9A31yfds) | 6:25 |
 | 203 | [Mexican Vacation \(Kids In The Candlelight\)](https://open.spotify.com/track/4deaZiYMv945qTgQVQCoK8) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Diving Board \(Deluxe Version\)](https://open.spotify.com/album/6NhOx6UV8nYDgrzPquDFLh) | 3:33 |
 | 204 | [Blues For Baby And Me](https://open.spotify.com/track/2MaW82qnGVIVTDi4KeA4Y8) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Don't Shoot Me I'm Only The Piano Player](https://open.spotify.com/album/1reJ8DttK5EGwdyf7y9FBR) | 5:38 |
-| 205 | [Guilty Pleasure](https://open.spotify.com/track/7MMa1gv3FmDBl9hKQFs6M5) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Wonderful Crazy Night \(Deluxe\)](https://open.spotify.com/album/2n7B7svtcYIrYJFtYREauV) | 3:38 |
-| 206 | [Son Of Your Father](https://open.spotify.com/track/0LiczY4DOe2qDlTw6KgcJg) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Tumbleweed Connection](https://open.spotify.com/album/03zfU3IwWmymKoaWnwFNaY) | 3:48 |
+| 205 | [Son Of Your Father](https://open.spotify.com/track/0LiczY4DOe2qDlTw6KgcJg) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Tumbleweed Connection](https://open.spotify.com/album/03zfU3IwWmymKoaWnwFNaY) | 3:48 |
+| 206 | [Guilty Pleasure](https://open.spotify.com/track/7MMa1gv3FmDBl9hKQFs6M5) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Wonderful Crazy Night \(Deluxe\)](https://open.spotify.com/album/2n7B7svtcYIrYJFtYREauV) | 3:38 |
 | 207 | [Tinderbox](https://open.spotify.com/track/3mNIFeQhmtyZHCxjGNc2IL) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Captain and The Kid](https://open.spotify.com/album/1lqdOJ9M0EnXx9cf5moz1B) | 4:25 |
 | 208 | [Dream \# 1](https://open.spotify.com/track/4zGOAR0zFJf4IEKOlbqvJA) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Diving Board](https://open.spotify.com/album/7nXmwymeNTvJd1CnpEugH2) | 0:39 |
 | 209 | [Once We Were Kings](https://open.spotify.com/track/4oxUtmvokfpIqg1HJ9g4pf) | [Original Cast of Billy Elliot](https://open.spotify.com/artist/0llkptfupTulUWZRCDYqGT) | [Billy Elliot: The Original Cast Recording](https://open.spotify.com/album/0n7z0uxgNQT5YV6z99IIDt) | 4:14 |
@@ -572,9 +572,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 | 562 | [The Muse](https://open.spotify.com/track/5c9oymBkuArYOh6GOPjOPs) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Muse \(In Goddess We Trust\)](https://open.spotify.com/album/1Bw19v2tAnqvykiKoKUOy2) | 4:22 |
 | 563 | [The Man Who Loved to Dance \(Bonus Track\)](https://open.spotify.com/track/0iEGJ6bNU0qlDRRL9OLQ90) | [Kiki Dee](https://open.spotify.com/artist/4vjGlQWexbru6aOUCLTVir) | [Kiki Dee \(Bonus Track Version\)](https://open.spotify.com/album/3Aiw6nM2PjBsmhwackYyV2) | 2:53 |
 | 564 | [Driving Home](https://open.spotify.com/track/5m0r7BBTv6mhkcB1ZQ6702) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Muse \(In Goddess We Trust\)](https://open.spotify.com/album/1Bw19v2tAnqvykiKoKUOy2) | 1:49 |
-| 565 | [Are We Laughing?](https://open.spotify.com/track/29UqkYV40EPwbJsl41d3A7) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Muse \(In Goddess We Trust\)](https://open.spotify.com/album/1Bw19v2tAnqvykiKoKUOy2) | 1:06 |
-| 566 | [Sarah Escapes](https://open.spotify.com/track/65BiTzOh9L9VP7av8YtIJC) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Muse \(In Goddess We Trust\)](https://open.spotify.com/album/1Bw19v2tAnqvykiKoKUOy2) | 1:44 |
-| 567 | [Better Have A Gift](https://open.spotify.com/track/7j8ryi6b9DXpkCYtFRvbNp) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Muse \(In Goddess We Trust\)](https://open.spotify.com/album/1Bw19v2tAnqvykiKoKUOy2) | 2:06 |
+| 565 | [Take A Walk With Me](https://open.spotify.com/track/1XeIRu72rmMcmLXaBFL1Sk) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Muse \(In Goddess We Trust\)](https://open.spotify.com/album/1Bw19v2tAnqvykiKoKUOy2) | 1:29 |
+| 566 | [Are We Laughing?](https://open.spotify.com/track/29UqkYV40EPwbJsl41d3A7) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Muse \(In Goddess We Trust\)](https://open.spotify.com/album/1Bw19v2tAnqvykiKoKUOy2) | 1:06 |
+| 567 | [Sarah Escapes](https://open.spotify.com/track/65BiTzOh9L9VP7av8YtIJC) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Muse \(In Goddess We Trust\)](https://open.spotify.com/album/1Bw19v2tAnqvykiKoKUOy2) | 1:44 |
 | 568 | [I Loved A Man \- 2021 DigiMIX ReMaster](https://open.spotify.com/track/6fOop9EP4EY8EsFVK9w75P) | [John Yap](https://open.spotify.com/artist/0xuGKp7sPr1aUIfCFkKC8l), [Patsy Rowlands](https://open.spotify.com/artist/5sleBDZWgccRqPKiynUb7u) | [Valmouth \(Original London Cast\) \[2021 DigiMIX ReMaster\]](https://open.spotify.com/album/6C99OoEO3luYrvq3eA36Su) | 2:32 |
 | 569 | [Back To The Aquarium](https://open.spotify.com/track/0XdP5Xlov5R5tmXN7tBYyL) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Muse \(In Goddess We Trust\)](https://open.spotify.com/album/1Bw19v2tAnqvykiKoKUOy2) | 0:53 |
 | 570 | [Meet Christine](https://open.spotify.com/track/7BvitHMNGMpGqhPtPgBppa) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Muse \(In Goddess We Trust\)](https://open.spotify.com/album/1Bw19v2tAnqvykiKoKUOy2) | 1:32 |
@@ -584,4 +584,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 | 574 | [Reprise](https://open.spotify.com/track/4tXLX0unQSWg2TenJa3MEx) | [Uncle Ho](https://open.spotify.com/artist/1DD4yp3ebKBtH6Vm5auC7B) | [Everything Must Be Destroyed](https://open.spotify.com/album/61ewEVlLpT7EiB9zGhwKd6) | 1:06 |
 | 575 | [Sua Canção](https://open.spotify.com/track/5ABQkEGK30DVvB07JhYh5H) | [Plinio Oliveira](https://open.spotify.com/artist/3H0QZbeiCwLxBAqbnzbBK0), [Coro Infantil Sou da Paz](https://open.spotify.com/artist/1NVq6eZp8PQiYBSVAFNahZ), [Orquestra Jovem da Paz](https://open.spotify.com/artist/05RyEHgRQ9x8tJ25ulYEN4) | [Show da Paz 2017](https://open.spotify.com/album/4p3WhZIn7qLUX1UCEDeCUc) | 4:19 |
 
-Snapshot ID: `AbSZOAAAAAAincrOK+lnubPjqGvgE/19`
+Snapshot ID: `AbSfFAAAAADNwe9Aa6sH5xppazZWRuPE`

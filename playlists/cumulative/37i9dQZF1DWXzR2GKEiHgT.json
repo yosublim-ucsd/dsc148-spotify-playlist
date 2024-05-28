@@ -3677,6 +3677,24 @@
     },
     {
       "album": {
+        "name": "Wave Sound Meditation",
+        "url": "https://open.spotify.com/album/3Lyz2GGV8wu73cBbPPTJ3r"
+      },
+      "artists": [
+        {
+          "name": "Vattenmannen",
+          "url": "https://open.spotify.com/artist/0ZZMkuvAapZ9KEvxQ5XeYJ"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Waves And Calming Wind",
+      "url": "https://open.spotify.com/track/4goFiIb0ZdPobqpxJMjMye"
+    },
+    {
+      "album": {
         "name": "Soothing Wave Sounds",
         "url": "https://open.spotify.com/album/2hhU3081biEtqo2PvUluNN"
       },
@@ -4066,7 +4084,7 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-28",
       "duration_ms": 132000,
       "name": "Waves on the bay",
       "url": "https://open.spotify.com/track/5EcF8M8wNmRICSjryB0hBC"

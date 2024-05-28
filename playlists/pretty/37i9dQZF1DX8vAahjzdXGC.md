@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: NewJeans
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,452 likes - 106 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,483 likes - 106 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

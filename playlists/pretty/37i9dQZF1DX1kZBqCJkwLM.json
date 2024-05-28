@@ -1,6 +1,6 @@
 {
   "description": "Dope, Asian, and Femme. Cover: YOASOBI",
-  "num_followers": 85465,
+  "num_followers": 85451,
   "original_name": "Dope AF",
   "owner": {
     "name": "Spotify",
@@ -1191,26 +1191,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "The Weekend",
-        "url": "https://open.spotify.com/album/6zQD9g698P2LjEtKpoBXWq"
-      },
-      "artists": [
-        {
-          "name": "88rising",
-          "url": "https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs"
-        },
-        {
-          "name": "BIBI",
-          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
-        }
-      ],
-      "duration_ms": 167661,
-      "name": "The Weekend",
-      "url": "https://open.spotify.com/track/5q3LwAHTqo9d3rET2EA9Nq"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "PLAYTHING",
         "url": "https://open.spotify.com/album/35djQXPgBXiH8rNC8Kh1Hy"
       },
@@ -1247,6 +1227,26 @@
       "duration_ms": 213076,
       "name": "Seoul",
       "url": "https://open.spotify.com/track/3tezw2TeluZkzOEEztyjSZ"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "The Weekend",
+        "url": "https://open.spotify.com/album/6zQD9g698P2LjEtKpoBXWq"
+      },
+      "artists": [
+        {
+          "name": "88rising",
+          "url": "https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs"
+        },
+        {
+          "name": "BIBI",
+          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
+        }
+      ],
+      "duration_ms": 167661,
+      "name": "The Weekend",
+      "url": "https://open.spotify.com/track/5q3LwAHTqo9d3rET2EA9Nq"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1519,22 +1519,26 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Can't Speak English",
-        "url": "https://open.spotify.com/album/6mi1RxPYbLPUw1gMWVsRQc"
+        "name": "Ija (TOKiMONSTA Remix)",
+        "url": "https://open.spotify.com/album/19AGDITx691QWTmb0q1hhf"
       },
       "artists": [
         {
-          "name": "Ramengvrl",
-          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
         },
         {
-          "name": "Ted Park",
-          "url": "https://open.spotify.com/artist/4ph6JucAkc6pnPPad0uiJT"
+          "name": "Mavins",
+          "url": "https://open.spotify.com/artist/5JWBXFlYkBy3n2oN1To790"
+        },
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
         }
       ],
-      "duration_ms": 169796,
-      "name": "Look At Me Now",
-      "url": "https://open.spotify.com/track/5e4v3Y79FXRKrmdLVAdzwS"
+      "duration_ms": 190822,
+      "name": "Ija - TOKiMONSTA Remix",
+      "url": "https://open.spotify.com/track/27ALJpTFMItteosC4kyj9x"
     }
   ],
   "unique_name": "Dope AF",

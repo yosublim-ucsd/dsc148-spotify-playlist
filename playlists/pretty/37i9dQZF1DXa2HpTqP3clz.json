@@ -1,6 +1,6 @@
 {
   "description": "Today's Bluegrass and old time favorites. Cover: Missy Raines",
-  "num_followers": 161577,
+  "num_followers": 161587,
   "original_name": "Grass Roots",
   "owner": {
     "name": "Spotify",
@@ -551,6 +551,22 @@
     {
       "added_at": "2024-05-10 04:01:00",
       "album": {
+        "name": "Black Banjo",
+        "url": "https://open.spotify.com/album/60WtwjOc8WzjAIixV2r5X2"
+      },
+      "artists": [
+        {
+          "name": "Tray Wellington",
+          "url": "https://open.spotify.com/artist/5aqFCmHlaXKczjY9MT2QUh"
+        }
+      ],
+      "duration_ms": 198478,
+      "name": "Crooked Mind",
+      "url": "https://open.spotify.com/track/3k70wq0lztvq5kxpkAAs0g"
+    },
+    {
+      "added_at": "2024-05-10 04:01:00",
+      "album": {
         "name": "On Banjo",
         "url": "https://open.spotify.com/album/7CqjRvc9ipzOlZ1D7ksG6M"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 220533,
       "name": "Foggy Morning Breaking",
       "url": "https://open.spotify.com/track/0vrCNvbeSYHqMCPw4wX5zu"
-    },
-    {
-      "added_at": "2024-05-10 04:01:00",
-      "album": {
-        "name": "Black Banjo",
-        "url": "https://open.spotify.com/album/60WtwjOc8WzjAIixV2r5X2"
-      },
-      "artists": [
-        {
-          "name": "Tray Wellington",
-          "url": "https://open.spotify.com/artist/5aqFCmHlaXKczjY9MT2QUh"
-        }
-      ],
-      "duration_ms": 198478,
-      "name": "Crooked Mind",
-      "url": "https://open.spotify.com/track/3k70wq0lztvq5kxpkAAs0g"
     },
     {
       "added_at": "2024-05-10 04:01:00",
@@ -687,22 +687,6 @@
     {
       "added_at": "2024-05-10 04:01:00",
       "album": {
-        "name": "Black Cowboys",
-        "url": "https://open.spotify.com/album/7IGx8sUSRSMpcIUbTn6Hxw"
-      },
-      "artists": [
-        {
-          "name": "Dom Flemons",
-          "url": "https://open.spotify.com/artist/79ScU9PMzW9i0jw67b5kVb"
-        }
-      ],
-      "duration_ms": 162473,
-      "name": "Lonesome Old River Blues",
-      "url": "https://open.spotify.com/track/64pmv1IacCuTcea9rTELcc"
-    },
-    {
-      "added_at": "2024-05-10 04:01:00",
-      "album": {
         "name": "Squareneck Soul",
         "url": "https://open.spotify.com/album/7xsg8EUd4x66zZbn8Z6hLY"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 149346,
       "name": "Squareneck Soul",
       "url": "https://open.spotify.com/track/5CqfAkwqX8GmPHJB4J0i6Z"
+    },
+    {
+      "added_at": "2024-05-10 04:01:00",
+      "album": {
+        "name": "Black Cowboys",
+        "url": "https://open.spotify.com/album/7IGx8sUSRSMpcIUbTn6Hxw"
+      },
+      "artists": [
+        {
+          "name": "Dom Flemons",
+          "url": "https://open.spotify.com/artist/79ScU9PMzW9i0jw67b5kVb"
+        }
+      ],
+      "duration_ms": 162473,
+      "name": "Lonesome Old River Blues",
+      "url": "https://open.spotify.com/track/64pmv1IacCuTcea9rTELcc"
     },
     {
       "added_at": "2024-05-10 04:01:00",
@@ -915,22 +915,6 @@
     {
       "added_at": "2024-05-10 04:01:00",
       "album": {
-        "name": "This Valley",
-        "url": "https://open.spotify.com/album/6plNZDHsm8CBOcAACUBGNo"
-      },
-      "artists": [
-        {
-          "name": "Calamity Jane",
-          "url": "https://open.spotify.com/artist/27gCtJEgvaLycbLWwvWoOL"
-        }
-      ],
-      "duration_ms": 255505,
-      "name": "This Valley",
-      "url": "https://open.spotify.com/track/2KicuYyr7rQBmGKNBTckFH"
-    },
-    {
-      "added_at": "2024-05-10 04:01:00",
-      "album": {
         "name": "Fall In Tennessee",
         "url": "https://open.spotify.com/album/1QtwwF0WtSMo35OFQoyCQU"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 231120,
       "name": "Fall In Tennessee (feat. Jerry Douglas)",
       "url": "https://open.spotify.com/track/57bKuzcq04EQaYuGhl9k8J"
+    },
+    {
+      "added_at": "2024-05-10 04:01:00",
+      "album": {
+        "name": "This Valley",
+        "url": "https://open.spotify.com/album/6plNZDHsm8CBOcAACUBGNo"
+      },
+      "artists": [
+        {
+          "name": "Calamity Jane",
+          "url": "https://open.spotify.com/artist/27gCtJEgvaLycbLWwvWoOL"
+        }
+      ],
+      "duration_ms": 255505,
+      "name": "This Valley",
+      "url": "https://open.spotify.com/track/2KicuYyr7rQBmGKNBTckFH"
     },
     {
       "added_at": "2024-05-10 04:01:00",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2024-05-10 04:01:00",
       "album": {
-        "name": "Deep End",
-        "url": "https://open.spotify.com/album/3feW7kGBFTj5Yz4hd8pJ9o"
-      },
-      "artists": [
-        {
-          "name": "Steep Canyon Rangers",
-          "url": "https://open.spotify.com/artist/1a6tqLJPUs4DBAnNUZkr2O"
-        }
-      ],
-      "duration_ms": 177909,
-      "name": "Deep End",
-      "url": "https://open.spotify.com/track/5UAOBkqsoyC3FFiM6L8hiy"
-    },
-    {
-      "added_at": "2024-05-10 04:01:00",
-      "album": {
         "name": "Happy Valley",
         "url": "https://open.spotify.com/album/4llhhUoj1OoUvwXeWOY3nV"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 230032,
       "name": "Blue Smoke",
       "url": "https://open.spotify.com/track/3cyj7zwt8H1S6cFiPgHjda"
+    },
+    {
+      "added_at": "2024-05-10 04:01:00",
+      "album": {
+        "name": "Deep End",
+        "url": "https://open.spotify.com/album/3feW7kGBFTj5Yz4hd8pJ9o"
+      },
+      "artists": [
+        {
+          "name": "Steep Canyon Rangers",
+          "url": "https://open.spotify.com/artist/1a6tqLJPUs4DBAnNUZkr2O"
+        }
+      ],
+      "duration_ms": 177909,
+      "name": "Deep End",
+      "url": "https://open.spotify.com/track/5UAOBkqsoyC3FFiM6L8hiy"
     },
     {
       "added_at": "2024-05-10 04:01:00",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2024-05-10 04:01:00",
       "album": {
-        "name": "Mayhayley's House",
-        "url": "https://open.spotify.com/album/552ZVlloL4z7bNoE727oso"
-      },
-      "artists": [
-        {
-          "name": "Lonesome River Band",
-          "url": "https://open.spotify.com/artist/0wcvmmlzeqzW318K6lsynU"
-        }
-      ],
-      "duration_ms": 217222,
-      "name": "Diggin'",
-      "url": "https://open.spotify.com/track/7IRU3DyQ3ROnuMgMWjeM0h"
-    },
-    {
-      "added_at": "2024-05-10 04:01:00",
-      "album": {
         "name": "Getaway",
         "url": "https://open.spotify.com/album/2yFilubICYA8kRmuw73wBG"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 216950,
       "name": "Getaway",
       "url": "https://open.spotify.com/track/2BwYaALYTGboYsK7wfb1I6"
+    },
+    {
+      "added_at": "2024-05-10 04:01:00",
+      "album": {
+        "name": "Mayhayley's House",
+        "url": "https://open.spotify.com/album/552ZVlloL4z7bNoE727oso"
+      },
+      "artists": [
+        {
+          "name": "Lonesome River Band",
+          "url": "https://open.spotify.com/artist/0wcvmmlzeqzW318K6lsynU"
+        }
+      ],
+      "duration_ms": 217222,
+      "name": "Diggin'",
+      "url": "https://open.spotify.com/track/7IRU3DyQ3ROnuMgMWjeM0h"
     },
     {
       "added_at": "2024-05-10 04:01:00",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2024-05-10 04:01:00",
       "album": {
+        "name": "Blues of the Night",
+        "url": "https://open.spotify.com/album/7xZO2VJHf9KJkB5OkbP8qf"
+      },
+      "artists": [
+        {
+          "name": "Lonesome River Band",
+          "url": "https://open.spotify.com/artist/0wcvmmlzeqzW318K6lsynU"
+        }
+      ],
+      "duration_ms": 163000,
+      "name": "Blues of the Night",
+      "url": "https://open.spotify.com/track/6kIPJSV6Z6Pixo7RQRjwYP"
+    },
+    {
+      "added_at": "2024-05-10 04:01:00",
+      "album": {
         "name": "Love Train",
         "url": "https://open.spotify.com/album/2Xrk8uAG4XkUPuaAmp4tgK"
       },
@@ -1427,22 +1443,6 @@
     {
       "added_at": "2024-05-10 04:01:00",
       "album": {
-        "name": "Blues of the Night",
-        "url": "https://open.spotify.com/album/7xZO2VJHf9KJkB5OkbP8qf"
-      },
-      "artists": [
-        {
-          "name": "Lonesome River Band",
-          "url": "https://open.spotify.com/artist/0wcvmmlzeqzW318K6lsynU"
-        }
-      ],
-      "duration_ms": 163000,
-      "name": "Blues of the Night",
-      "url": "https://open.spotify.com/track/6kIPJSV6Z6Pixo7RQRjwYP"
-    },
-    {
-      "added_at": "2024-05-10 04:01:00",
-      "album": {
         "name": "I'd Rather Be Alone",
         "url": "https://open.spotify.com/album/2n8n1ij2BvFF9QZXUpm8ge"
       },
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2024-05-10 04:01:00",
       "album": {
-        "name": "The North Side",
-        "url": "https://open.spotify.com/album/0O8huJY762BUgfv7VbtnSE"
-      },
-      "artists": [
-        {
-          "name": "Blue Highway",
-          "url": "https://open.spotify.com/artist/4nnZcSw4lGTxiq3AvYt8Dd"
-        }
-      ],
-      "duration_ms": 194481,
-      "name": "The North Side",
-      "url": "https://open.spotify.com/track/3PaupMyPQ6dKZqED5Ic2ss"
-    },
-    {
-      "added_at": "2024-05-10 04:01:00",
-      "album": {
         "name": "Lovin' Of The Game",
         "url": "https://open.spotify.com/album/6RD7EK5EnsvDTxMbZbFrvg"
       },
@@ -1583,6 +1567,22 @@
     {
       "added_at": "2024-05-10 04:01:00",
       "album": {
+        "name": "The North Side",
+        "url": "https://open.spotify.com/album/0O8huJY762BUgfv7VbtnSE"
+      },
+      "artists": [
+        {
+          "name": "Blue Highway",
+          "url": "https://open.spotify.com/artist/4nnZcSw4lGTxiq3AvYt8Dd"
+        }
+      ],
+      "duration_ms": 194481,
+      "name": "The North Side",
+      "url": "https://open.spotify.com/track/3PaupMyPQ6dKZqED5Ic2ss"
+    },
+    {
+      "added_at": "2024-05-10 04:01:00",
+      "album": {
         "name": "Saltbush Express",
         "url": "https://open.spotify.com/album/3B5GKENfkULk2sCtCEitvQ"
       },
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2024-05-10 04:01:00",
       "album": {
-        "name": "Hold On",
-        "url": "https://open.spotify.com/album/1SNQgFK8lqxZxkaudwJSqY"
-      },
-      "artists": [
-        {
-          "name": "Frank Solivan and Dirty Kitchen",
-          "url": "https://open.spotify.com/artist/6F2mVH32Q9FjHLo6nus0C5"
-        }
-      ],
-      "duration_ms": 281640,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/1ySfSzGtiyRNgnMSe45mvk"
-    },
-    {
-      "added_at": "2024-05-10 04:01:00",
-      "album": {
         "name": "Kinetic Tone",
         "url": "https://open.spotify.com/album/0rzsm2eUbu7i7gR2rFiCKX"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 292000,
       "name": "Evergreen",
       "url": "https://open.spotify.com/track/5Pa5e2bklYYT44kgVwoHCF"
+    },
+    {
+      "added_at": "2024-05-10 04:01:00",
+      "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/1SNQgFK8lqxZxkaudwJSqY"
+      },
+      "artists": [
+        {
+          "name": "Frank Solivan and Dirty Kitchen",
+          "url": "https://open.spotify.com/artist/6F2mVH32Q9FjHLo6nus0C5"
+        }
+      ],
+      "duration_ms": 281640,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/1ySfSzGtiyRNgnMSe45mvk"
     },
     {
       "added_at": "2024-05-10 04:01:00",
@@ -1679,18 +1679,18 @@
     {
       "added_at": "2024-05-10 04:01:00",
       "album": {
-        "name": "Finnland",
-        "url": "https://open.spotify.com/album/7jDOLHnqIVhW2rvEO9tLB8"
+        "name": "Reason To Believe",
+        "url": "https://open.spotify.com/album/4e0ipEnmu8sMBeISv4RGrn"
       },
       "artists": [
         {
-          "name": "Daniel Grindstaff",
-          "url": "https://open.spotify.com/artist/7vaq3DIBu61yGPpwHbl5Ln"
+          "name": "The Seldom Scene",
+          "url": "https://open.spotify.com/artist/2oxmEjNo7UXIiZi7X7ovGq"
         }
       ],
-      "duration_ms": 165853,
-      "name": "Finnland",
-      "url": "https://open.spotify.com/track/7kHx77L2UCm27Q25nSzPxH"
+      "duration_ms": 173688,
+      "name": "Reason To Believe",
+      "url": "https://open.spotify.com/track/7eYu7mpSO3ReYrPM2Hyg72"
     },
     {
       "added_at": "2024-05-10 04:01:00",
@@ -1711,18 +1711,18 @@
     {
       "added_at": "2024-05-10 04:01:00",
       "album": {
-        "name": "Reason To Believe",
-        "url": "https://open.spotify.com/album/4e0ipEnmu8sMBeISv4RGrn"
+        "name": "Finnland",
+        "url": "https://open.spotify.com/album/7jDOLHnqIVhW2rvEO9tLB8"
       },
       "artists": [
         {
-          "name": "The Seldom Scene",
-          "url": "https://open.spotify.com/artist/2oxmEjNo7UXIiZi7X7ovGq"
+          "name": "Daniel Grindstaff",
+          "url": "https://open.spotify.com/artist/7vaq3DIBu61yGPpwHbl5Ln"
         }
       ],
-      "duration_ms": 173688,
-      "name": "Reason To Believe",
-      "url": "https://open.spotify.com/track/7eYu7mpSO3ReYrPM2Hyg72"
+      "duration_ms": 165853,
+      "name": "Finnland",
+      "url": "https://open.spotify.com/track/7kHx77L2UCm27Q25nSzPxH"
     },
     {
       "added_at": "2024-05-10 04:01:00",
@@ -1743,22 +1743,6 @@
       "duration_ms": 208640,
       "name": "Far Away Again",
       "url": "https://open.spotify.com/track/4OnWVEvkYoFbEDWPwkvqLl"
-    },
-    {
-      "added_at": "2024-05-10 04:01:00",
-      "album": {
-        "name": "The Gavel",
-        "url": "https://open.spotify.com/album/6lvllLOpu8VWHpPoQ5nD7B"
-      },
-      "artists": [
-        {
-          "name": "Wilson Banjo Co.",
-          "url": "https://open.spotify.com/artist/7oEjk4jYgih2ppmrlGPbMo"
-        }
-      ],
-      "duration_ms": 193933,
-      "name": "The Gavel",
-      "url": "https://open.spotify.com/track/7mgfZYZCKrjpJuWTkxX2aF"
     },
     {
       "added_at": "2024-05-10 04:01:00",
@@ -1815,18 +1799,34 @@
     {
       "added_at": "2024-05-10 04:01:00",
       "album": {
-        "name": "Hey Blue Eyed Girl",
-        "url": "https://open.spotify.com/album/0iejH3OR2VXe7lsYrxH8AP"
+        "name": "The Gavel",
+        "url": "https://open.spotify.com/album/6lvllLOpu8VWHpPoQ5nD7B"
       },
       "artists": [
         {
-          "name": "Cody Sherman",
-          "url": "https://open.spotify.com/artist/5BCBTcz3o3Uv5KRTHSSCsa"
+          "name": "Wilson Banjo Co.",
+          "url": "https://open.spotify.com/artist/7oEjk4jYgih2ppmrlGPbMo"
         }
       ],
-      "duration_ms": 154720,
-      "name": "Hey Blue Eyed Girl",
-      "url": "https://open.spotify.com/track/17Nj11TnEg5iOs7hOWvQ8k"
+      "duration_ms": 193933,
+      "name": "The Gavel",
+      "url": "https://open.spotify.com/track/7mgfZYZCKrjpJuWTkxX2aF"
+    },
+    {
+      "added_at": "2024-05-10 04:01:00",
+      "album": {
+        "name": "Chasin' Indigo",
+        "url": "https://open.spotify.com/album/0Ge1b3uTSaGygoWx4wupht"
+      },
+      "artists": [
+        {
+          "name": "Carley Arrowood",
+          "url": "https://open.spotify.com/artist/0GvSG6mHtIo8KGegsVEvjK"
+        }
+      ],
+      "duration_ms": 239000,
+      "name": "Chasin' Indigo",
+      "url": "https://open.spotify.com/track/5QSDNHaXMUERdanAy5ejHJ"
     }
   ],
   "unique_name": "Grass Roots",

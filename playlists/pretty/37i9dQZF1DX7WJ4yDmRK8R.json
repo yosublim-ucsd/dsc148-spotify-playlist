@@ -1,6 +1,6 @@
 {
   "description": "This is the best of ska, new and classic. Cover: La Floripondio",
-  "num_followers": 379047,
+  "num_followers": 379133,
   "original_name": "The Essential Ska",
   "owner": {
     "name": "Spotify",
@@ -379,18 +379,18 @@
     {
       "added_at": "2024-05-01 21:01:32",
       "album": {
-        "name": "Tragic Kingdom",
-        "url": "https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8"
+        "name": "Ball Of Fire",
+        "url": "https://open.spotify.com/album/09U02a0PnmQnAXSa121FVN"
       },
       "artists": [
         {
-          "name": "No Doubt",
-          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
+          "name": "The Skatalites",
+          "url": "https://open.spotify.com/artist/4og9jrin5xH5JiFPbeGUPb"
         }
       ],
-      "duration_ms": 275360,
-      "name": "Different People",
-      "url": "https://open.spotify.com/track/6PM8yaNDDfXc0kHIMSuIKR"
+      "duration_ms": 420840,
+      "name": "Rock Fort Rock",
+      "url": "https://open.spotify.com/track/5iLpRDS6TNaIxh1zppyfEY"
     },
     {
       "added_at": "2024-05-01 21:01:32",
@@ -411,18 +411,18 @@
     {
       "added_at": "2024-05-01 21:01:32",
       "album": {
-        "name": "Ball Of Fire",
-        "url": "https://open.spotify.com/album/09U02a0PnmQnAXSa121FVN"
+        "name": "Tragic Kingdom",
+        "url": "https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8"
       },
       "artists": [
         {
-          "name": "The Skatalites",
-          "url": "https://open.spotify.com/artist/4og9jrin5xH5JiFPbeGUPb"
+          "name": "No Doubt",
+          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
         }
       ],
-      "duration_ms": 420840,
-      "name": "Rock Fort Rock",
-      "url": "https://open.spotify.com/track/5iLpRDS6TNaIxh1zppyfEY"
+      "duration_ms": 275360,
+      "name": "Different People",
+      "url": "https://open.spotify.com/track/6PM8yaNDDfXc0kHIMSuIKR"
     },
     {
       "added_at": "2024-05-01 21:01:32",
@@ -507,22 +507,6 @@
     {
       "added_at": "2024-05-01 21:01:32",
       "album": {
-        "name": "I Just Can't Stop It (Remastered)",
-        "url": "https://open.spotify.com/album/08zjJfP4f6cXGxscvztbvh"
-      },
-      "artists": [
-        {
-          "name": "The English Beat",
-          "url": "https://open.spotify.com/artist/1eVEVL20zNLcGrPDOR691N"
-        }
-      ],
-      "duration_ms": 190333,
-      "name": "Mirror In the Bathroom",
-      "url": "https://open.spotify.com/track/3LUhdkixxrrqv3nfNfkINe"
-    },
-    {
-      "added_at": "2024-05-01 21:01:32",
-      "album": {
         "name": "One Step Beyond...",
         "url": "https://open.spotify.com/album/5Jst9QoWbNmjQFUyGIkMnA"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 138360,
       "name": "One Step Beyond",
       "url": "https://open.spotify.com/track/1G6eFFDRaLr9EbThnhzMBD"
+    },
+    {
+      "added_at": "2024-05-01 21:01:32",
+      "album": {
+        "name": "I Just Can't Stop It (Remastered)",
+        "url": "https://open.spotify.com/album/08zjJfP4f6cXGxscvztbvh"
+      },
+      "artists": [
+        {
+          "name": "The English Beat",
+          "url": "https://open.spotify.com/artist/1eVEVL20zNLcGrPDOR691N"
+        }
+      ],
+      "duration_ms": 190333,
+      "name": "Mirror In the Bathroom",
+      "url": "https://open.spotify.com/track/3LUhdkixxrrqv3nfNfkINe"
     },
     {
       "added_at": "2024-05-01 21:01:32",
@@ -571,22 +571,6 @@
     {
       "added_at": "2024-05-01 21:01:32",
       "album": {
-        "name": "Trouble Maker (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0IJ8KmhJausnsCjUvgM5vY"
-      },
-      "artists": [
-        {
-          "name": "Rancid",
-          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
-        }
-      ],
-      "duration_ms": 143546,
-      "name": "Where I'm Going",
-      "url": "https://open.spotify.com/track/3MXxV2BQjMEhZmTtLkIOPz"
-    },
-    {
-      "added_at": "2024-05-01 21:01:32",
-      "album": {
         "name": "Reggae Greats",
         "url": "https://open.spotify.com/album/4X1ILb0MYP4JB6KQGtULc0"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 159400,
       "name": "You Can Get It If You Really Want",
       "url": "https://open.spotify.com/track/6IwTuQuQ4suJTQ43plwZef"
+    },
+    {
+      "added_at": "2024-05-01 21:01:32",
+      "album": {
+        "name": "Trouble Maker (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0IJ8KmhJausnsCjUvgM5vY"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "duration_ms": 143546,
+      "name": "Where I'm Going",
+      "url": "https://open.spotify.com/track/3MXxV2BQjMEhZmTtLkIOPz"
     },
     {
       "added_at": "2024-05-01 21:01:32",
@@ -619,18 +619,18 @@
     {
       "added_at": "2024-05-01 21:01:32",
       "album": {
-        "name": "A Passage In Time (Explicit Version)",
-        "url": "https://open.spotify.com/album/2bEpe22aeh5r5UP0jHeggE"
+        "name": "Tutti Frutti",
+        "url": "https://open.spotify.com/album/0ozlC9XMnxo9ksxV8MsHVm"
       },
       "artists": [
         {
-          "name": "Authority Zero",
-          "url": "https://open.spotify.com/artist/5CHcX5KtuSz5uo1p5fM3sz"
+          "name": "Prince Buster",
+          "url": "https://open.spotify.com/artist/75S63f1AmZUa9gpQvlt5NB"
         }
       ],
-      "duration_ms": 388466,
-      "name": "One More Minute",
-      "url": "https://open.spotify.com/track/45Q1nT2ec3wXZV3RvS769L"
+      "duration_ms": 165168,
+      "name": "Madness",
+      "url": "https://open.spotify.com/track/71pBxayPPUWgs99vFMHaCA"
     },
     {
       "added_at": "2024-05-01 21:01:32",
@@ -651,18 +651,18 @@
     {
       "added_at": "2024-05-01 21:01:32",
       "album": {
-        "name": "Tutti Frutti",
-        "url": "https://open.spotify.com/album/0ozlC9XMnxo9ksxV8MsHVm"
+        "name": "A Passage In Time (Explicit Version)",
+        "url": "https://open.spotify.com/album/2bEpe22aeh5r5UP0jHeggE"
       },
       "artists": [
         {
-          "name": "Prince Buster",
-          "url": "https://open.spotify.com/artist/75S63f1AmZUa9gpQvlt5NB"
+          "name": "Authority Zero",
+          "url": "https://open.spotify.com/artist/5CHcX5KtuSz5uo1p5fM3sz"
         }
       ],
-      "duration_ms": 165168,
-      "name": "Madness",
-      "url": "https://open.spotify.com/track/71pBxayPPUWgs99vFMHaCA"
+      "duration_ms": 388466,
+      "name": "One More Minute",
+      "url": "https://open.spotify.com/track/45Q1nT2ec3wXZV3RvS769L"
     },
     {
       "added_at": "2024-05-01 21:01:32",
@@ -735,22 +735,6 @@
     {
       "added_at": "2024-05-01 21:01:32",
       "album": {
-        "name": "Honey I'm Homely",
-        "url": "https://open.spotify.com/album/1ykysjJVAuKPL3bpTxv6oX"
-      },
-      "artists": [
-        {
-          "name": "Dance Hall Crashers",
-          "url": "https://open.spotify.com/artist/7cIsuRDa9Q68n6Ui6GZsVj"
-        }
-      ],
-      "duration_ms": 203933,
-      "name": "Lost Again",
-      "url": "https://open.spotify.com/track/2fCV2Wko0b4ToipDJS6yun"
-    },
-    {
-      "added_at": "2024-05-01 21:01:32",
-      "album": {
         "name": "The Toasters: 30th Anniversary",
         "url": "https://open.spotify.com/album/6AFJwHYa0jt4z7qj1DghIo"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 170800,
       "name": "Don't Let the Bastards Grind You Down",
       "url": "https://open.spotify.com/track/0XlPgrltmThUXK0hoClUfM"
+    },
+    {
+      "added_at": "2024-05-01 21:01:32",
+      "album": {
+        "name": "Honey I'm Homely",
+        "url": "https://open.spotify.com/album/1ykysjJVAuKPL3bpTxv6oX"
+      },
+      "artists": [
+        {
+          "name": "Dance Hall Crashers",
+          "url": "https://open.spotify.com/artist/7cIsuRDa9Q68n6Ui6GZsVj"
+        }
+      ],
+      "duration_ms": 203933,
+      "name": "Lost Again",
+      "url": "https://open.spotify.com/track/2fCV2Wko0b4ToipDJS6yun"
     },
     {
       "added_at": "2024-05-01 21:01:32",
@@ -803,22 +803,6 @@
     {
       "added_at": "2024-05-01 21:01:32",
       "album": {
-        "name": "The Essential Fishbone",
-        "url": "https://open.spotify.com/album/5A34elKkckMgG5Y4tMAi2H"
-      },
-      "artists": [
-        {
-          "name": "Fishbone",
-          "url": "https://open.spotify.com/artist/2X3pNc13eRGofTO9Yt3sMi"
-        }
-      ],
-      "duration_ms": 199626,
-      "name": "Ma and Pa",
-      "url": "https://open.spotify.com/track/7wotdNGMm6PrQ9xUXYQtVp"
-    },
-    {
-      "added_at": "2024-05-01 21:01:32",
-      "album": {
         "name": "Tutti Frutti",
         "url": "https://open.spotify.com/album/0ozlC9XMnxo9ksxV8MsHVm"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 185088,
       "name": "Enjoy Yourself",
       "url": "https://open.spotify.com/track/2gXudOFrHDzj7D2JqbcFWm"
+    },
+    {
+      "added_at": "2024-05-01 21:01:32",
+      "album": {
+        "name": "The Essential Fishbone",
+        "url": "https://open.spotify.com/album/5A34elKkckMgG5Y4tMAi2H"
+      },
+      "artists": [
+        {
+          "name": "Fishbone",
+          "url": "https://open.spotify.com/artist/2X3pNc13eRGofTO9Yt3sMi"
+        }
+      ],
+      "duration_ms": 199626,
+      "name": "Ma and Pa",
+      "url": "https://open.spotify.com/track/7wotdNGMm6PrQ9xUXYQtVp"
     },
     {
       "added_at": "2024-05-01 21:01:32",
@@ -915,22 +915,6 @@
     {
       "added_at": "2024-05-01 21:01:32",
       "album": {
-        "name": "Ska and Rocksteady Collection, Vol. 1",
-        "url": "https://open.spotify.com/album/5q2Knpcgb67Fm9sWM01cX4"
-      },
-      "artists": [
-        {
-          "name": "Prince Buster",
-          "url": "https://open.spotify.com/artist/75S63f1AmZUa9gpQvlt5NB"
-        }
-      ],
-      "duration_ms": 159381,
-      "name": "One Step Beyond",
-      "url": "https://open.spotify.com/track/2JX6SE1ZsNGWDcb3kDZVfJ"
-    },
-    {
-      "added_at": "2024-05-01 21:01:32",
-      "album": {
         "name": "Don't Speak",
         "url": "https://open.spotify.com/album/7b7AM8NvWaj5A8iyEAvjTw"
       },
@@ -967,22 +951,6 @@
     {
       "added_at": "2024-05-01 21:01:32",
       "album": {
-        "name": "Life Sucks... Let's Dance!",
-        "url": "https://open.spotify.com/album/7oZd1PgW5rhdtVP8N8d6Wy"
-      },
-      "artists": [
-        {
-          "name": "Reel Big Fish",
-          "url": "https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW"
-        }
-      ],
-      "duration_ms": 164552,
-      "name": "You Can't Have All of Me",
-      "url": "https://open.spotify.com/track/4f0tP0do1PtMf0OASpHPTY"
-    },
-    {
-      "added_at": "2024-05-01 21:01:32",
-      "album": {
         "name": "Here in The Heights",
         "url": "https://open.spotify.com/album/2lGYvbR1ovYdsZKb2lTiq0"
       },
@@ -995,6 +963,38 @@
       "duration_ms": 223347,
       "name": "Cali",
       "url": "https://open.spotify.com/track/75pC1KbHcJ9Wmrkdb53tGl"
+    },
+    {
+      "added_at": "2024-05-01 21:01:32",
+      "album": {
+        "name": "Ska and Rocksteady Collection, Vol. 1",
+        "url": "https://open.spotify.com/album/5q2Knpcgb67Fm9sWM01cX4"
+      },
+      "artists": [
+        {
+          "name": "Prince Buster",
+          "url": "https://open.spotify.com/artist/75S63f1AmZUa9gpQvlt5NB"
+        }
+      ],
+      "duration_ms": 159381,
+      "name": "One Step Beyond",
+      "url": "https://open.spotify.com/track/2JX6SE1ZsNGWDcb3kDZVfJ"
+    },
+    {
+      "added_at": "2024-05-01 21:01:32",
+      "album": {
+        "name": "Life Sucks... Let's Dance!",
+        "url": "https://open.spotify.com/album/7oZd1PgW5rhdtVP8N8d6Wy"
+      },
+      "artists": [
+        {
+          "name": "Reel Big Fish",
+          "url": "https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW"
+        }
+      ],
+      "duration_ms": 164552,
+      "name": "You Can't Have All of Me",
+      "url": "https://open.spotify.com/track/4f0tP0do1PtMf0OASpHPTY"
     },
     {
       "added_at": "2024-05-01 21:01:32",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2024-05-01 21:01:32",
       "album": {
-        "name": "Unstoppable",
-        "url": "https://open.spotify.com/album/1kJP7cQaT8xHYSKlknNiuS"
-      },
-      "artists": [
-        {
-          "name": "The Planet Smashers",
-          "url": "https://open.spotify.com/artist/2wYNzTzigUWAeVLaxeRrg3"
-        }
-      ],
-      "duration_ms": 188573,
-      "name": "Unstoppable",
-      "url": "https://open.spotify.com/track/1ikzC1az2vXMR060qvDnvW"
-    },
-    {
-      "added_at": "2024-05-01 21:01:32",
-      "album": {
         "name": "Que me quemen tus ojos",
         "url": "https://open.spotify.com/album/0uafJymFyfHtQOJn6r3EfJ"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 159453,
       "name": "Que me quemen tus ojos",
       "url": "https://open.spotify.com/track/6NhDCP3GmbwHcv6bJeKnVn"
+    },
+    {
+      "added_at": "2024-05-01 21:01:32",
+      "album": {
+        "name": "Unstoppable",
+        "url": "https://open.spotify.com/album/1kJP7cQaT8xHYSKlknNiuS"
+      },
+      "artists": [
+        {
+          "name": "The Planet Smashers",
+          "url": "https://open.spotify.com/artist/2wYNzTzigUWAeVLaxeRrg3"
+        }
+      ],
+      "duration_ms": 188573,
+      "name": "Unstoppable",
+      "url": "https://open.spotify.com/track/1ikzC1az2vXMR060qvDnvW"
     },
     {
       "added_at": "2024-05-01 21:01:32",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2024-05-01 21:01:32",
       "album": {
-        "name": "Arcade Perfect",
-        "url": "https://open.spotify.com/album/2ICTXbgW4rWcYWlSG1JtJ9"
-      },
-      "artists": [
-        {
-          "name": "Sonic Boom Six",
-          "url": "https://open.spotify.com/artist/3ccF37QB6LC4LqUfvtn5qb"
-        }
-      ],
-      "duration_ms": 194640,
-      "name": "Sound of a Revolution",
-      "url": "https://open.spotify.com/track/5iqoangjJT6emeXzZg2czr"
-    },
-    {
-      "added_at": "2024-05-01 21:01:32",
-      "album": {
         "name": "Right On Time",
         "url": "https://open.spotify.com/album/5n7IeJHvlLtCo3HW5vgCqu"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 219706,
       "name": "No Worries",
       "url": "https://open.spotify.com/track/6jTEMEb03yyQAqnGepk5Kp"
+    },
+    {
+      "added_at": "2024-05-01 21:01:32",
+      "album": {
+        "name": "Arcade Perfect",
+        "url": "https://open.spotify.com/album/2ICTXbgW4rWcYWlSG1JtJ9"
+      },
+      "artists": [
+        {
+          "name": "Sonic Boom Six",
+          "url": "https://open.spotify.com/artist/3ccF37QB6LC4LqUfvtn5qb"
+        }
+      ],
+      "duration_ms": 194640,
+      "name": "Sound of a Revolution",
+      "url": "https://open.spotify.com/track/5iqoangjJT6emeXzZg2czr"
     },
     {
       "added_at": "2024-05-01 21:01:32",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2024-05-01 21:01:32",
       "album": {
-        "name": "Rental!! Eviction!!",
-        "url": "https://open.spotify.com/album/7jbc6VssvRQLTYCAYMAT9W"
-      },
-      "artists": [
-        {
-          "name": "Bruce Lee Band",
-          "url": "https://open.spotify.com/artist/6BhJtndfqL4E0eO0ZGKrhY"
-        }
-      ],
-      "duration_ms": 124296,
-      "name": "If I Could Only Listen to My Heart",
-      "url": "https://open.spotify.com/track/0bIcOHJmmumvvdsHmnFEy1"
-    },
-    {
-      "added_at": "2024-05-01 21:01:32",
-      "album": {
         "name": "Tears of a Clown",
         "url": "https://open.spotify.com/album/3ySSPA5ZmFTi0q9HbdpKtw"
       },
@@ -1615,18 +1599,18 @@
     {
       "added_at": "2024-05-01 21:01:32",
       "album": {
-        "name": "Firme",
-        "url": "https://open.spotify.com/album/4x1jK4f9XAu4dhFk3NCqsD"
+        "name": "Rental!! Eviction!!",
+        "url": "https://open.spotify.com/album/7jbc6VssvRQLTYCAYMAT9W"
       },
       "artists": [
         {
-          "name": "Voodoo Glow Skulls",
-          "url": "https://open.spotify.com/artist/0t1X1ygK807hH0upA9lYJw"
+          "name": "Bruce Lee Band",
+          "url": "https://open.spotify.com/artist/6BhJtndfqL4E0eO0ZGKrhY"
         }
       ],
-      "duration_ms": 183200,
-      "name": "Fat Randy",
-      "url": "https://open.spotify.com/track/1iSMI7Z9ZGjuYJDO8uKfZe"
+      "duration_ms": 124296,
+      "name": "If I Could Only Listen to My Heart",
+      "url": "https://open.spotify.com/track/0bIcOHJmmumvvdsHmnFEy1"
     },
     {
       "added_at": "2024-05-01 21:01:32",
@@ -1643,6 +1627,22 @@
       "duration_ms": 195527,
       "name": "Doomsday",
       "url": "https://open.spotify.com/track/7xfNTf6y3KYpDPEvBmornq"
+    },
+    {
+      "added_at": "2024-05-01 21:01:32",
+      "album": {
+        "name": "Firme",
+        "url": "https://open.spotify.com/album/4x1jK4f9XAu4dhFk3NCqsD"
+      },
+      "artists": [
+        {
+          "name": "Voodoo Glow Skulls",
+          "url": "https://open.spotify.com/artist/0t1X1ygK807hH0upA9lYJw"
+        }
+      ],
+      "duration_ms": 183200,
+      "name": "Fat Randy",
+      "url": "https://open.spotify.com/track/1iSMI7Z9ZGjuYJDO8uKfZe"
     }
   ],
   "unique_name": "The Essential Ska",

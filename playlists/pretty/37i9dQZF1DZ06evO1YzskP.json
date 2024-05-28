@@ -1,12 +1,12 @@
 {
-  "description": "This is La Receta. The essential tracks, all in one playlist.",
-  "num_followers": 24049,
+  "description": "This Is La Receta. Los temas esenciales, todos en una lista.",
+  "num_followers": 24085,
   "original_name": "This Is La Receta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlEqAAAAAAB98AlddG5ivWBbdvaC+Hee",
+  "snapshot_id": "ZlJ7gAAAAABp5PcnMgqoPNX5cTnw9MD0",
   "tracks": [
     {
       "added_at": null,
@@ -411,22 +411,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "CHV FLX",
-        "url": "https://open.spotify.com/album/570wwrCeTevXqtkNrQvdyM"
+        "name": "Culiac\u00e1n Deluxe (En Vivo)",
+        "url": "https://open.spotify.com/album/5mu67EL1k1lgn9uXjbxNHf"
       },
       "artists": [
         {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+          "name": "La Ventaja",
+          "url": "https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD"
         },
         {
-          "name": "Estilo Sencillo",
-          "url": "https://open.spotify.com/artist/0PG3h5k6cYdVbyKgHGMHc5"
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
         }
       ],
-      "duration_ms": 144426,
-      "name": "CHV FLX",
-      "url": "https://open.spotify.com/track/68UNONImrqa50dkBqTBSV8"
+      "duration_ms": 191600,
+      "name": "Las Facetas de Arturo (En Vivo)",
+      "url": "https://open.spotify.com/track/2VmWvDkmeun5wmK2NKsH3a"
     },
     {
       "added_at": null,
@@ -471,22 +471,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Culiac\u00e1n Deluxe (En Vivo)",
-        "url": "https://open.spotify.com/album/5mu67EL1k1lgn9uXjbxNHf"
+        "name": "CHV FLX",
+        "url": "https://open.spotify.com/album/570wwrCeTevXqtkNrQvdyM"
       },
       "artists": [
         {
-          "name": "La Ventaja",
-          "url": "https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD"
-        },
-        {
           "name": "La Receta",
           "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        },
+        {
+          "name": "Estilo Sencillo",
+          "url": "https://open.spotify.com/artist/0PG3h5k6cYdVbyKgHGMHc5"
         }
       ],
-      "duration_ms": 191600,
-      "name": "Las Facetas de Arturo (En Vivo)",
-      "url": "https://open.spotify.com/track/2VmWvDkmeun5wmK2NKsH3a"
+      "duration_ms": 144426,
+      "name": "CHV FLX",
+      "url": "https://open.spotify.com/track/68UNONImrqa50dkBqTBSV8"
     },
     {
       "added_at": null,
@@ -691,26 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Listos Pal\u00b4 Top\u00f3n",
-        "url": "https://open.spotify.com/album/4Yx50RINop4qGfr4cNG8xn"
-      },
-      "artists": [
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        },
-        {
-          "name": "Johan Bastidas",
-          "url": "https://open.spotify.com/artist/6WPJr4bXdrSAZ4Tyh1JC3u"
-        }
-      ],
-      "duration_ms": 136973,
-      "name": "Listos Pal\u00b4 Top\u00f3n",
-      "url": "https://open.spotify.com/track/339rM4AlAy4uUmfuu5Tk7s"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Pizza Est\u00e1 En El Horno",
         "url": "https://open.spotify.com/album/0Z4tBWwE3Xyz36sdtRaPgG"
       },
@@ -743,8 +723,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mauricio MG",
-        "url": "https://open.spotify.com/album/7IlEh5bGSPO3OM68Tjcxbw"
+        "name": "Listos Pal\u00b4 Top\u00f3n",
+        "url": "https://open.spotify.com/album/4Yx50RINop4qGfr4cNG8xn"
       },
       "artists": [
         {
@@ -752,13 +732,13 @@
           "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
         },
         {
-          "name": "La Ventaja",
-          "url": "https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD"
+          "name": "Johan Bastidas",
+          "url": "https://open.spotify.com/artist/6WPJr4bXdrSAZ4Tyh1JC3u"
         }
       ],
-      "duration_ms": 155746,
-      "name": "Mauricio MG",
-      "url": "https://open.spotify.com/track/7pLa01jnr3LYNq6b3jDi1Z"
+      "duration_ms": 136973,
+      "name": "Listos Pal\u00b4 Top\u00f3n",
+      "url": "https://open.spotify.com/track/339rM4AlAy4uUmfuu5Tk7s"
     },
     {
       "added_at": null,
@@ -799,6 +779,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mauricio MG",
+        "url": "https://open.spotify.com/album/7IlEh5bGSPO3OM68Tjcxbw"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        },
+        {
+          "name": "La Ventaja",
+          "url": "https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD"
+        }
+      ],
+      "duration_ms": 155746,
+      "name": "Mauricio MG",
+      "url": "https://open.spotify.com/track/7pLa01jnr3LYNq6b3jDi1Z"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El JP (En Vivo)",
         "url": "https://open.spotify.com/album/1BTAMCG3jmqI8eCZuc9wFl"
       },
@@ -815,22 +815,6 @@
       "duration_ms": 202120,
       "name": "El JP (En Vivo)",
       "url": "https://open.spotify.com/track/2cJpo5bZUYlHF6pWNfkyOV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Sombrero De Lado",
-        "url": "https://open.spotify.com/album/4zBAqfVHFCiyRxF6JfDiiw"
-      },
-      "artists": [
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 158733,
-      "name": "El Sombero De Lado",
-      "url": "https://open.spotify.com/track/77TZY5sLHOkjSjgiF4hLqa"
     },
     {
       "added_at": null,
@@ -863,6 +847,22 @@
       "duration_ms": 146960,
       "name": "Los Ninis",
       "url": "https://open.spotify.com/track/0DUUXFwVBoM5oOx8MdJDia"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Sombrero De Lado",
+        "url": "https://open.spotify.com/album/4zBAqfVHFCiyRxF6JfDiiw"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 158733,
+      "name": "El Sombero De Lado",
+      "url": "https://open.spotify.com/track/77TZY5sLHOkjSjgiF4hLqa"
     },
     {
       "added_at": null,

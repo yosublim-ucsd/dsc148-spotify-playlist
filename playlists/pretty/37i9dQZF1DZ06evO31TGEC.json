@@ -1,12 +1,12 @@
 {
   "description": "This is El Chapo De Sinaloa. The essential tracks, all in one playlist.",
-  "num_followers": 46174,
+  "num_followers": 46182,
   "original_name": "This Is El Chapo De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlEqAAAAAAC3F/1z0E3jEMV0lP+TByNT",
+  "snapshot_id": "ZlJ7gAAAAAB/h2wdtlY3PY1Epq0LpDfF",
   "tracks": [
     {
       "added_at": null,
@@ -435,22 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Serie 33",
-        "url": "https://open.spotify.com/album/1y6TyvJYOv3725PqA2LPSV"
-      },
-      "artists": [
-        {
-          "name": "El Chapo De Sinaloa",
-          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
-        }
-      ],
-      "duration_ms": 202133,
-      "name": "Ap\u00e1rtame Esta Noche",
-      "url": "https://open.spotify.com/track/2Z60UxbMfxGuFSB8A909SX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Eran De Azucar Sus Labios",
         "url": "https://open.spotify.com/album/4O78YM1McunYoan4VbIC2P"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 187848,
       "name": "Eran De Azucar Sus Labios",
       "url": "https://open.spotify.com/track/10pvk16EhVuq7VhcQxaOrg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Serie 33",
+        "url": "https://open.spotify.com/album/1y6TyvJYOv3725PqA2LPSV"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "duration_ms": 202133,
+      "name": "Ap\u00e1rtame Esta Noche",
+      "url": "https://open.spotify.com/track/2Z60UxbMfxGuFSB8A909SX"
     },
     {
       "added_at": null,
@@ -499,22 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Camina Sin Mirar Atras",
-        "url": "https://open.spotify.com/album/4IUQ0cRqUA8Te5LlNMfeD0"
-      },
-      "artists": [
-        {
-          "name": "El Chapo De Sinaloa",
-          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
-        }
-      ],
-      "duration_ms": 182582,
-      "name": "Como Te Extra\u00f1o",
-      "url": "https://open.spotify.com/track/4i7jo86BGzuTIVLl6zd4Py"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Triunfador",
         "url": "https://open.spotify.com/album/2G0Mvzab2JrxgJdNpoD9dU"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 172805,
       "name": "Te Amo",
       "url": "https://open.spotify.com/track/6lEhR4Y8eaC0TRscLMoFG3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Camina Sin Mirar Atras",
+        "url": "https://open.spotify.com/album/4IUQ0cRqUA8Te5LlNMfeD0"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "duration_ms": 182582,
+      "name": "Como Te Extra\u00f1o",
+      "url": "https://open.spotify.com/track/4i7jo86BGzuTIVLl6zd4Py"
     },
     {
       "added_at": null,

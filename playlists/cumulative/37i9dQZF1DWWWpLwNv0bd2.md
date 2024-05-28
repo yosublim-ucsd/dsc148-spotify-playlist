@@ -4,7 +4,7 @@
 
 > Check out the Latest Romance Tracks.<br/>Cover : Raayan
 
-228 songs - 15 hr 1 min
+229 songs - 15 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,6 +220,7 @@
 | [Uyir Vaasame](https://open.spotify.com/track/7lLa95VqxpMCHsTGIdZY8C) | [Sean Roldan](https://open.spotify.com/artist/3TUNkjIHkcvEy9oeK2D4hU), [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ) | [Lover \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4QxOwQbVVQUNxZP4qFoy3U) | 3:16 | 2024-02-05 |  |
 | [Vaa Maa Thendral \- From "Parole"](https://open.spotify.com/track/4YYM5FqlFhVZBwGSVIpavP) | [Rajkumar amal](https://open.spotify.com/artist/6yzVu7kXsvBwKUt3grfG0L), [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ) | [Vaa Maa Thendral \(From "Parole"\)](https://open.spotify.com/album/4LbXGDAQaOFwOEhwPkt3ne) | 4:32 | 2022-09-27 | 2022-10-19 |
 | [Vaa Vaathi](https://open.spotify.com/track/0cgwdBXXlPfXJXWf3wMs32) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Shweta Mohan](https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9) | [Vaathi](https://open.spotify.com/album/5G0ShngTfASzTfVDOSOM5p) | 3:45 | 2022-11-10 | 2024-02-13 |
+| [Vaada Poda \- Fom "Yemmaku Thozhil Romance"](https://open.spotify.com/track/63qsz8oegHWiQhqnwTNVDO) | [Nivas K Prasanna](https://open.spotify.com/artist/3RN1T82XXhayseL1rCdJnp), [Vaishali](https://open.spotify.com/artist/3mUaeqGjquYnmp3MuXEjQe), [Mohan Rajan](https://open.spotify.com/artist/5ZBar35f3oB1F9TcWAa3ma) | [Vaada Poda \(Fom "Yemmaku Thozhil Romance"\)](https://open.spotify.com/album/1S3f86IQqBwi4MB76J96kw) | 3:24 | 2024-05-27 |  |
 | [Vaadi Vaadi \- From "Think Originals"](https://open.spotify.com/track/1HlFW7pdHXBVVMpgldFUky) | [Harris Jayaraj](https://open.spotify.com/artist/29aw5YCdIw2FEXYyAJZI8l), [Ravi G](https://open.spotify.com/artist/7F0SYkO9wyNY0aJFD2C1bD), [Sunitha Sarathy](https://open.spotify.com/artist/5UqyE5tsMWcrOAjOtROW6B), [Nicholas Samuel](https://open.spotify.com/artist/3frp84DqTsoZ8tgdgzGHqr) | [Vaadi Vaadi \(From "Think Originals"\)](https://open.spotify.com/album/7hEKTiFRftKnqTeOG19Inh) | 3:44 | 2022-06-30 | 2023-08-15 |
 | [Vallavan Vaguthadhada \(From "Vallavan Vaguthadhada"\)](https://open.spotify.com/track/3P72SnkrOUO96MsfvRBwSE) | [Sagishna Xavier](https://open.spotify.com/artist/6Jdi3gLwRWKNEyCQDUQnex), [Yazin Nizar](https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX), [Krishna.K](https://open.spotify.com/artist/7lUEi4XSbnhAdm2cTf0QJU) | [Vallavan Vaguthadhada \(From "Vallavan Vaguthadhada"\)](https://open.spotify.com/album/7rlOCSP5rmKWGsfToJDhYc) | 3:42 | 2024-02-02 |  |
 | [Vallavan Vaguthadhada \(From "Vallavan Vaguthadhada"\) \- Vallavan Vaguthadhada](https://open.spotify.com/track/5VfdlxFPze6okv37LkLxlA) | [Yazin Nizar](https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX), [Krishna.K](https://open.spotify.com/artist/7lUEi4XSbnhAdm2cTf0QJU), [Sagishna Xavier](https://open.spotify.com/artist/6Jdi3gLwRWKNEyCQDUQnex), [Varuon Thushyanthan](https://open.spotify.com/artist/7I1F56tkI5kgOgsI2VA6At) | [Vallavan Vaguthadhada \(From "Vallavan Vaguthadhada"\)](https://open.spotify.com/album/238uvgWi6zJTe34yUx0yIX) | 3:42 | 2024-02-02 | 2024-04-19 |

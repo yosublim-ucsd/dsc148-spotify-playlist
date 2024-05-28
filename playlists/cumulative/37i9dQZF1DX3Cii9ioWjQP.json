@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "2 Minutes",
+        "url": "https://open.spotify.com/album/1p6vQUoFIkcMUjULC5SXXz"
+      },
+      "artists": [
+        {
+          "name": "Milena",
+          "url": "https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n"
+        }
+      ],
+      "date_added": "2024-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120453,
+      "name": "2 Minutes",
+      "url": "https://open.spotify.com/track/7BwBnCJJDbslpSPKENzYmo"
+    },
+    {
+      "album": {
         "name": "\ubcc0\uace1\uc810. \ucd5c\uaddc\ucca0 \uacc4\uc218\uc815 \ucd5c\ub178\uc544",
         "url": "https://open.spotify.com/album/2AGZJLWlkTuR7Z3SngzpU1"
       },

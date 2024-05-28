@@ -4,7 +4,7 @@
 
 > Driving songs acoustic style! Sit back and enjoy the ride!
 
-236 songs - 12 hr 17 min
+237 songs - 12 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Because You Loved Me \- Acoustic](https://open.spotify.com/track/46riIukB23FBujbdYQTfmf) | [Kevin Simm](https://open.spotify.com/artist/1CuoMwkIXKILoyW9dIXziU) | [Because You Loved Me \(Acoustic\)](https://open.spotify.com/album/4XbwbcopmQJCRuETbjr1RN) | 3:37 | 2022-06-17 | 2023-05-10 |
 | [Believe \- Acoustic](https://open.spotify.com/track/52VvzULC47oauMWtVdAejU) | [Adam Christopher](https://open.spotify.com/artist/22QkuOmdRnasuuVgUjhrVw) | [Believe \(Acoustic\)](https://open.spotify.com/album/6f8znb9G5J0MlLe895IzJt) | 3:48 | 2023-12-01 | 2024-02-24 |
 | [Believe \- Acoustic](https://open.spotify.com/track/3CTDZeM0OMz49BdQ2kI0HU) | [Beth](https://open.spotify.com/artist/0Tazr7cok0ZIzVWH27sqeY) | [Believe \(Acoustic\)](https://open.spotify.com/album/4s5feYt6hMWRjjHYCybysv) | 3:07 | 2022-04-10 | 2023-01-21 |
+| [Big Girls Don't Cry](https://open.spotify.com/track/55eqiKZdQSdbya2Oty6vDE) | [Nelly Hope](https://open.spotify.com/artist/2MYa23iZLfrK6Yj4eAIOGt) | [Big Girls Don't Cry](https://open.spotify.com/album/6t7KpPbua4qyuK4VYPs4T6) | 2:43 | 2024-05-27 |  |
 | [Billie Jean \- Acoustic](https://open.spotify.com/track/6uaTKOvSd4PZdHWs05r65k) | [Amber Leigh Irish](https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05) | [Billie Jean \(Acoustic\)](https://open.spotify.com/album/2FkpSpxM1xedprP77SJA3T) | 3:05 | 2023-07-07 | 2024-01-13 |
 | [Bitter Sweet Symphony](https://open.spotify.com/track/2gcgIegEsUm4xKKWhLxOFx) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [Bitter Sweet Symphony](https://open.spotify.com/album/2xXixzfakAmF34WzT8xxbS) | 3:22 | 2019-10-13 |  |
 | [California Dreamin' \- Acoustic](https://open.spotify.com/track/5dx6uQJsxVDQSyQ2E1cDBw) | [Beth](https://open.spotify.com/artist/0Tazr7cok0ZIzVWH27sqeY) | [California Dreamin' \(Acoustic\)](https://open.spotify.com/album/3ECsyggi4fbolrvkhydPAg) | 2:32 | 2023-04-21 | 2024-03-04 |
@@ -97,7 +98,7 @@
 | [I Still Haven't Found What I'm Looking For \- Acoustic](https://open.spotify.com/track/3KPKbWGJqITz5JFBl4JBQY) | [Hailey Gardiner](https://open.spotify.com/artist/77bmDZbZ65uoGKVTIzKcEc) | [I Still Haven't Found What I'm Looking For \(Acoustic\)](https://open.spotify.com/album/7aa9VyWjwogK3jCEe4eTuB) | 2:54 | 2021-04-23 |  |
 | [I Wanna Dance with Somebody \(Who Loves Me\) \- Acoustic](https://open.spotify.com/track/2q4qvzWZIaad6OC7H7Mp8Q) | [Beth](https://open.spotify.com/artist/0Tazr7cok0ZIzVWH27sqeY) | [I Wanna Dance with Somebody \(Who Loves Me\) \[Acoustic\]](https://open.spotify.com/album/0MctNxUvJxux2M8sJC1zFG) | 3:12 | 2023-05-29 |  |
 | [I Want You Back \- Acoustic](https://open.spotify.com/track/1k26xiw242De5t5AgWjC5o) | [Callum J Wright](https://open.spotify.com/artist/47KiS7rrEXolpFicX0aTGe) | [I Want You Back \(Acoustic\)](https://open.spotify.com/album/5c7gMpATd9TRWI9SRzslXD) | 2:25 | 2021-05-21 | 2022-07-16 |
-| [I'd Do Anything for Love \(But I Won't Do That\) \- Acoustic](https://open.spotify.com/track/7n4gOElu13vwVqhmvTXgZR) | [Mateo Oxley](https://open.spotify.com/artist/1BJ81QRILzVFcTt8fmqN9r) | [I'd Do Anything for Love \(But I Won't Do That\) \[Acoustic\]](https://open.spotify.com/album/3DQV1dLirs2pkNxp9brWjY) | 2:58 | 2024-02-09 |  |
+| [I'd Do Anything for Love \(But I Won't Do That\) \- Acoustic](https://open.spotify.com/track/7n4gOElu13vwVqhmvTXgZR) | [Mateo Oxley](https://open.spotify.com/artist/1BJ81QRILzVFcTt8fmqN9r) | [I'd Do Anything for Love \(But I Won't Do That\) \[Acoustic\]](https://open.spotify.com/album/3DQV1dLirs2pkNxp9brWjY) | 2:58 | 2024-02-09 | 2024-05-28 |
 | [I'll Be There For You \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/4xtU1fCMODIpnXBqY4wOTo) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Spotify Singles](https://open.spotify.com/album/1aFpf6l2J6YEwtBWu8nJjz) | 2:48 | 2019-10-13 |  |
 | [I'm a Believer \- Acoustic](https://open.spotify.com/track/3YZxfxxOyaneUFobNYlVlA) | [John Adams](https://open.spotify.com/artist/4LaimQU44rsz2kMWQmY6Bi) | [I'm a Believer \(Acoustic\)](https://open.spotify.com/album/21sYbjhRnRJMmSI60vUP9F) | 2:53 | 2024-02-19 |  |
 | [I'm A Believer \- Acoustic](https://open.spotify.com/track/0arOYnavWumToLwoHTKUtV) | [Mysha Didi](https://open.spotify.com/artist/69XUUcGUrO85U9pCZGcWgI) | [I'm A Believer \(Acoustic\)](https://open.spotify.com/album/5bef8Aq3CMZvfwR2kcb6ce) | 2:38 | 2024-03-22 | 2024-05-11 |
@@ -130,7 +131,7 @@
 | [Lifted \- Acoustic](https://open.spotify.com/track/5B26Q1m6tNOklrvWr6lFEr) | [Mateo Oxley](https://open.spotify.com/artist/1BJ81QRILzVFcTt8fmqN9r) | [Lifted \(Acoustic\)](https://open.spotify.com/album/1YbuDjbPhC1DILi7mcgsAY) | 2:44 | 2024-04-07 |  |
 | [Like I'm Gonna Lose You](https://open.spotify.com/track/2pV8RpdLemcyMWko8dASVt) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Like I'm Gonna Lose You](https://open.spotify.com/album/2RspE8aftXJ96d8HLWOc58) | 3:52 | 2019-10-13 |  |
 | [Linger \(Acoustic\)](https://open.spotify.com/track/4aa7SCxygkZgBZ3Y1KU1t3) | [Colin & Caroline](https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm) | [Linger \(Acoustic\)](https://open.spotify.com/album/1g1CPXonz2qCXUqZMqcqP4) | 2:46 | 2019-10-13 |  |
-| [Lose Control \- Acoustic](https://open.spotify.com/track/5UlmRrsGgc0LH1PjWEr0tf) | [Jacob Wellfair](https://open.spotify.com/artist/3ltleRPN7qd0CQ3rNVMW2V) | [Lose Control \(Acoustic\)](https://open.spotify.com/album/6cjptNzpxG7NWNOfnFC3n9) | 2:45 | 2024-03-08 |  |
+| [Lose Control \- Acoustic](https://open.spotify.com/track/5UlmRrsGgc0LH1PjWEr0tf) | [Jacob Wellfair](https://open.spotify.com/artist/3ltleRPN7qd0CQ3rNVMW2V) | [Lose Control \(Acoustic\)](https://open.spotify.com/album/6cjptNzpxG7NWNOfnFC3n9) | 2:45 | 2024-03-08 | 2024-05-28 |
 | [Love is All Around \- Acoustic](https://open.spotify.com/track/2loi3zjGZ2Cs1nDu6QHGe3) | [Mysha Didi](https://open.spotify.com/artist/69XUUcGUrO85U9pCZGcWgI) | [Love is All Around \(Acoustic\)](https://open.spotify.com/album/7l0RQhF88X2evq71kbI8fm) | 2:30 | 2023-12-09 | 2024-03-23 |
 | [Love Me Now \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2pPRgFEENF3LtuxYUPuT24) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Spotify Singles](https://open.spotify.com/album/3ln7gtD4aGjJWllmL1Uqij) | 3:48 | 2019-10-13 |  |
 | [Lovefool \- Acoustic](https://open.spotify.com/track/1tJCLF1hldhHVC7noH9l0U) | [Laurence O’Brien](https://open.spotify.com/artist/71rzE2Y74EDwYYSf1J8osl) | [Lovefool \(Acoustic\)](https://open.spotify.com/album/2bDDaOjt4Fy4DmAPqP2l0E) | 3:03 | 2023-01-13 | 2023-03-25 |

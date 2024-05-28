@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 
 > Descubre los nuevos álbumes del 2024\. Hit shuffle for a mixed listening experience\. Cover: Camilo
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,028 likes - 347 songs - 18 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,037 likes - 347 songs - 18 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
-  "description": "This Is Pancho Barraza. Los temas esenciales, todos en una lista.",
-  "num_followers": 143990,
+  "description": "This is Pancho Barraza. The essential tracks, all in one playlist.",
+  "num_followers": 144014,
   "original_name": "This Is Pancho Barraza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlEqAAAAAADOI/1QK0ANJNTw7geckXnz",
+  "snapshot_id": "ZlJ7gAAAAABgO3YM+0kPtCdT+e4ZvaiH",
   "tracks": [
     {
       "added_at": null,
@@ -471,26 +471,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Perfecta",
-        "url": "https://open.spotify.com/album/3aTunEoRKVkwVIrAk1FIZ3"
+        "name": "20 Exitos",
+        "url": "https://open.spotify.com/album/0z3EHq0Bni4Fv60XoTtk21"
       },
       "artists": [
         {
-          "name": "Linea M",
-          "url": "https://open.spotify.com/artist/0HwIz0sUkYsV0nFuKfC2V3"
-        },
-        {
           "name": "Pancho Barraza",
           "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        },
-        {
-          "name": "Jes\u00fas Uriarte",
-          "url": "https://open.spotify.com/artist/5LcrkFKWDGskQSKn4KVY4h"
         }
       ],
-      "duration_ms": 168166,
-      "name": "Perfecta",
-      "url": "https://open.spotify.com/track/07YG8ICjrjgUFtQxTqerMN"
+      "duration_ms": 216827,
+      "name": "Cuenta Conmigo",
+      "url": "https://open.spotify.com/track/3ejMMFhxszcFqPzsYfLnNL"
     },
     {
       "added_at": null,
@@ -511,18 +503,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "20 Exitos",
-        "url": "https://open.spotify.com/album/0z3EHq0Bni4Fv60XoTtk21"
+        "name": "Perfecta",
+        "url": "https://open.spotify.com/album/3aTunEoRKVkwVIrAk1FIZ3"
       },
       "artists": [
         {
+          "name": "Linea M",
+          "url": "https://open.spotify.com/artist/0HwIz0sUkYsV0nFuKfC2V3"
+        },
+        {
           "name": "Pancho Barraza",
           "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        },
+        {
+          "name": "Jes\u00fas Uriarte",
+          "url": "https://open.spotify.com/artist/5LcrkFKWDGskQSKn4KVY4h"
         }
       ],
-      "duration_ms": 216827,
-      "name": "Cuenta Conmigo",
-      "url": "https://open.spotify.com/track/3ejMMFhxszcFqPzsYfLnNL"
+      "duration_ms": 168166,
+      "name": "Perfecta",
+      "url": "https://open.spotify.com/track/07YG8ICjrjgUFtQxTqerMN"
     },
     {
       "added_at": null,

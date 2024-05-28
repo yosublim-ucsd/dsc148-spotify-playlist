@@ -4,7 +4,7 @@
 
 > Slip into slumber with soothing sea sounds.
 
-238 songs - 11 hr 31 min
+239 songs - 11 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,6 +212,7 @@
 | [Wave Sounds For Relaxing](https://open.spotify.com/track/0MP9WzkvFrUN7eja22ssTm) | [Worldwide Nature Studios](https://open.spotify.com/artist/2SIcjOzNioSRtl2lQVEQyx) | [2021 Wave Sounds](https://open.spotify.com/album/6Fy1yge1iqKMl4cnlunDg8) | 3:26 | 2021-11-11 |  |
 | [Wave Sounds From Your Favorite Beach](https://open.spotify.com/track/2R6HB9DiSAxq08vj5dj9B3) | [Wildlife Sound Recordings](https://open.spotify.com/artist/6vNQJeVv5muFsw3FdX0Dmp) | [Deluxe Wave Sounds](https://open.spotify.com/album/4ap2CpNw9Uu7uIBe9xeV8E) | 3:04 | 2021-11-11 |  |
 | [Waves & Wind](https://open.spotify.com/track/2s2oSlj6nfa9R04HeaBUb4) | [Sleep Waves Hub](https://open.spotify.com/artist/3nZPaJDw5lkYtw64qBHAHd) | [Sleep Waves Hub](https://open.spotify.com/album/55kilw5L9AF7gdItzqWvaU) | 4:55 | 2021-11-11 |  |
+| [Waves And Calming Wind](https://open.spotify.com/track/4goFiIb0ZdPobqpxJMjMye) | [Vattenmannen](https://open.spotify.com/artist/0ZZMkuvAapZ9KEvxQ5XeYJ) | [Wave Sound Meditation](https://open.spotify.com/album/3Lyz2GGV8wu73cBbPPTJ3r) | 2:24 | 2023-06-19 |  |
 | [Waves And Ocean](https://open.spotify.com/track/0704kRxzpTBD6cyw06aVxy) | [KEI NATURE](https://open.spotify.com/artist/7vf8OYI2mqT5j58B6dK8my) | [Soothing Wave Sounds](https://open.spotify.com/album/2hhU3081biEtqo2PvUluNN) | 2:09 | 2021-11-11 |  |
 | [Waves Before Dawn](https://open.spotify.com/track/6GttsqaEPKPJ0JWk75Ssdy) | [Underwater Sound](https://open.spotify.com/artist/2KJNQj4A21Hd22sjTEpTiq) | [Venice Beach Night Waves](https://open.spotify.com/album/6CF71cuLiDydgs6cSnAyPD) | 2:30 | 2021-11-11 |  |
 | [Waves Beneath The Lighthouse](https://open.spotify.com/track/4gml8LGGIDTMi5bQlkAqYG) | [Wellseed](https://open.spotify.com/artist/1zItvztjRaMupg7QMvV1Sl) | [Waves Beneath The Lighthouse](https://open.spotify.com/album/2zcL1FgHHu2hAnv6AcKFuj) | 2:49 | 2023-02-15 |  |
@@ -233,7 +234,7 @@
 | [Waves Of Green](https://open.spotify.com/track/5MtM0JZlnc9XkGFarLmh04) | [Haruna Fields](https://open.spotify.com/artist/3hrpVisxCnVzRPdXg4K6EL) | [Nature Sleep](https://open.spotify.com/album/7ngAGZgqlInLQByHU9AIEo) | 1:34 | 2023-02-15 | 2023-06-20 |
 | [Waves of Hope](https://open.spotify.com/track/4WShV9ueF0eVdev69kRxyD) | [Waves At Night](https://open.spotify.com/artist/3CuV0Rsf4ZxEHHB6I7I9tG) | [Volume 1](https://open.spotify.com/album/457JbvsnuRxeVObXwIemfG) | 3:07 | 2021-11-11 |  |
 | [Waves Of The Ocean](https://open.spotify.com/track/5yQElZLGJPuYOOAAse57dT) | [Natural Samples](https://open.spotify.com/artist/47MfVCrL7T19D2H9T7C2Rs) | [Natural Samples](https://open.spotify.com/album/7qsJsbbwvMNGz1vR5l8ILK) | 1:44 | 2021-11-11 | 2023-06-20 |
-| [Waves on the bay](https://open.spotify.com/track/5EcF8M8wNmRICSjryB0hBC) | [Hamsin](https://open.spotify.com/artist/1WrrjAnlrn79eXDX1gTfMV) | [Cottage by the sea](https://open.spotify.com/album/5E6JbwbKkCmWrHCWE5FjlW) | 2:12 | 2023-06-19 |  |
+| [Waves on the bay](https://open.spotify.com/track/5EcF8M8wNmRICSjryB0hBC) | [Hamsin](https://open.spotify.com/artist/1WrrjAnlrn79eXDX1gTfMV) | [Cottage by the sea](https://open.spotify.com/album/5E6JbwbKkCmWrHCWE5FjlW) | 2:12 | 2023-06-19 | 2024-05-28 |
 | [Waves on the Peninsula](https://open.spotify.com/track/4rZmara2XLS46Lalxe1hCi) | [Watertowers](https://open.spotify.com/artist/7DcNhZNSWzYyhuDm2SyQnt) | [Shallow Waves on Sand](https://open.spotify.com/album/4dNOZum6fUUyf1VaI9Ue2u) | 2:54 | 2021-11-11 |  |
 | [Waves Special Selection](https://open.spotify.com/track/2eBhOON7YOyFbzuYaBRRvR) | [Selective Sounds TTA](https://open.spotify.com/artist/4fvzIW1n8V7G1t95O5Q2lB) | [Good Night Waves](https://open.spotify.com/album/4tcp4jrPaRqqF9AS6wKI6X) | 1:49 | 2021-11-11 | 2023-06-20 |
 | [Wavy Days](https://open.spotify.com/track/0pKPUn3hxt2MHxSR2T2YWj) | [Daichi](https://open.spotify.com/artist/7zzSVeglgyoJFOhuqJCWCg) | [Water Land](https://open.spotify.com/album/1XfCX6NBURid7fA4FT8M6f) | 2:38 | 2021-11-11 |  |

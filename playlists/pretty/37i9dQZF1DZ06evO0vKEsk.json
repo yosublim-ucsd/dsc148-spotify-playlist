@@ -1,12 +1,12 @@
 {
-  "description": "This is Bruna Karla. The essential tracks, all in one playlist.",
-  "num_followers": 132328,
+  "description": "This is Bruna Karla. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 132334,
   "original_name": "This Is Bruna Karla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlEqAAAAAADXEU64gU5R5mxGUoFntyCK",
+  "snapshot_id": "ZlJ7gAAAAADhMNfIcYImJG/MJgdIeTUj",
   "tracks": [
     {
       "added_at": null,
@@ -831,22 +831,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00c9 Jesus (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4UWpM2Rhi9trDC9jevaMl9"
+        "name": "Pensou em Mim",
+        "url": "https://open.spotify.com/album/5HvWIjlVWNqOG0EeHcLIWu"
       },
       "artists": [
         {
-          "name": "Paulo Neto",
-          "url": "https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko"
-        },
-        {
           "name": "Bruna Karla",
           "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        },
+        {
+          "name": "Fernandinho",
+          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
         }
       ],
-      "duration_ms": 451341,
-      "name": "\u00c9 Jesus (Ao Vivo)",
-      "url": "https://open.spotify.com/track/7nHPvZM13ckEpxauxF505o"
+      "duration_ms": 429290,
+      "name": "Pensou em Mim",
+      "url": "https://open.spotify.com/track/3eyalreOcCTILlrDh0qu6I"
     },
     {
       "added_at": null,
@@ -867,22 +867,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pensou em Mim",
-        "url": "https://open.spotify.com/album/5HvWIjlVWNqOG0EeHcLIWu"
+        "name": "\u00c9 Jesus (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4UWpM2Rhi9trDC9jevaMl9"
       },
       "artists": [
         {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+          "name": "Paulo Neto",
+          "url": "https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko"
         },
         {
-          "name": "Fernandinho",
-          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
         }
       ],
-      "duration_ms": 429290,
-      "name": "Pensou em Mim",
-      "url": "https://open.spotify.com/track/3eyalreOcCTILlrDh0qu6I"
+      "duration_ms": 451341,
+      "name": "\u00c9 Jesus (Ao Vivo)",
+      "url": "https://open.spotify.com/track/7nHPvZM13ckEpxauxF505o"
     },
     {
       "added_at": null,

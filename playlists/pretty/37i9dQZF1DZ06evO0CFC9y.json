@@ -1,12 +1,12 @@
 {
   "description": "This is AFI. The essential tracks, all in one playlist.",
-  "num_followers": 33049,
+  "num_followers": 33055,
   "original_name": "This Is AFI",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlEqAAAAAACQ1Z/o67Wjhv3PlHeExbEK",
+  "snapshot_id": "ZlJ7gAAAAADa+7jC1Qa01Ixc0B5dzcuA",
   "tracks": [
     {
       "added_at": null,
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bodies",
-        "url": "https://open.spotify.com/album/4TzAos9wqaw4j3cnE0yhr3"
-      },
-      "artists": [
-        {
-          "name": "AFI",
-          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
-        }
-      ],
-      "duration_ms": 140579,
-      "name": "Begging For Trouble",
-      "url": "https://open.spotify.com/track/19elq0F6glRZAResdR1XTR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Shut Your Mouth And Open Your Eyes",
         "url": "https://open.spotify.com/album/29vCfkN4H8HTljOKC2aKgB"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 58026,
       "name": "Keeping Out Of Direct Sunlight (An Introduction)",
       "url": "https://open.spotify.com/track/3BCOkZIixxoz478EDfVr1Z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bodies",
+        "url": "https://open.spotify.com/album/4TzAos9wqaw4j3cnE0yhr3"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "duration_ms": 140579,
+      "name": "Begging For Trouble",
+      "url": "https://open.spotify.com/track/19elq0F6glRZAResdR1XTR"
     },
     {
       "added_at": null,
@@ -731,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "AFI (The Blood Album)",
-        "url": "https://open.spotify.com/album/48SrarUhE6csdPsGbTAgEl"
-      },
-      "artists": [
-        {
-          "name": "AFI",
-          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
-        }
-      ],
-      "duration_ms": 169333,
-      "name": "Still A Stranger",
-      "url": "https://open.spotify.com/track/1HaO9YHxYtAtvNcyBidxqE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Trash Bat",
         "url": "https://open.spotify.com/album/0K3uis69NoWrhvqurTc8mp"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 127625,
       "name": "Trash Bat",
       "url": "https://open.spotify.com/track/5UCqBBx9IGx47H6ajPf1Dz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "AFI (The Blood Album)",
+        "url": "https://open.spotify.com/album/48SrarUhE6csdPsGbTAgEl"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "duration_ms": 169333,
+      "name": "Still A Stranger",
+      "url": "https://open.spotify.com/track/1HaO9YHxYtAtvNcyBidxqE"
     },
     {
       "added_at": null,

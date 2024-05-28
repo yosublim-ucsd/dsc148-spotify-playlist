@@ -7120,7 +7120,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-28",
       "duration_ms": 265961,
       "name": "Regrets",
       "url": "https://open.spotify.com/track/0Yy5CsuOOZoRdRI98JOMpS"
@@ -8866,6 +8866,24 @@
       "duration_ms": 285506,
       "name": "SUMMER SUSPICION",
       "url": "https://open.spotify.com/track/45b2Zm0Q9CoCIcVeVrTmSh"
+    },
+    {
+      "album": {
+        "name": "Summertime",
+        "url": "https://open.spotify.com/album/27RgQppywnA3wRIVPdaad5"
+      },
+      "artists": [
+        {
+          "name": "Blu-Swing",
+          "url": "https://open.spotify.com/artist/3dKCIyXK94LWUnyvD8LepD"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256653,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/4zom3juvWLaceP0ycQ5VJe"
     },
     {
       "album": {

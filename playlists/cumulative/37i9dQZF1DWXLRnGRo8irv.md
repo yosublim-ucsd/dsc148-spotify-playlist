@@ -4,7 +4,7 @@
 
 > 한국의 재능있는 여성 아티스트들을 만나보세요! \(Listen Korea’s talented female artists!\) \(Cover: \(G\)I\-DLE\)
 
-1,116 songs - 2 day 16 hr 1 min
+1,118 songs - 2 day 16 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -314,6 +314,7 @@
 | [Fever](https://open.spotify.com/track/6ebvjnh2XyjJYZIO4fDAR3) | [NUITNUIT](https://open.spotify.com/artist/7magwQRiJcYtu4rix7MlqM) | [We Gonna Be](https://open.spotify.com/album/6LqbUc9zsE7M6Zj5SRuq5k) | 3:14 | 2023-08-03 | 2023-09-06 |
 | [Fiesta](https://open.spotify.com/track/5z2Zf4ORrWDSSJCgDrhz29) | [VIVIZ](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ) | [The 1st Mini Album 'Beam Of Prism'](https://open.spotify.com/album/1SO45pKRdNI74Rdx7Hynh2) | 3:31 | 2022-03-07 | 2022-04-06 |
 | [Film](https://open.spotify.com/track/7qxpSOYNnPTKsyjRUt4kX3) | [Reddy](https://open.spotify.com/artist/69H1Ooj2eBJXLTk3IEBV0v), [UNE](https://open.spotify.com/artist/1gPI21PhFmfBqPP118h5rS) | [Film with KozyPop](https://open.spotify.com/album/34exZFJvVsxJx9iraXXgYE) | 3:16 | 2022-02-01 | 2022-03-08 |
+| [FINAL LOVE SONG](https://open.spotify.com/track/7uhvf8LckR9OYmmiJ53wJW) | [I\-LAND2 : N/a](https://open.spotify.com/artist/5wA7TzIKrDqmlnEFk6t1y4) | [I\-LAND2 : N/a Signal Song \(Applicants Version\)](https://open.spotify.com/album/34esSejdtngmSozv4mZCUR) | 3:17 | 2024-05-27 |  |
 | [FIRE](https://open.spotify.com/track/7IkuRNVAjwXpZ2DheQHL4L) | [EXID](https://open.spotify.com/artist/1xs6WFotNQSXweo0GXrS0O) | [X](https://open.spotify.com/album/5DbZBWJtKZnwCKDkMvC45q) | 3:27 | 2022-10-04 | 2022-11-11 |
 | [Fire \(With BRAND NEW CHILD, K L W C\)](https://open.spotify.com/track/5dv9gqcgEs1Yj36AJQ5NID) | [JEON SOYEON](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH) | [Street Dance Girls Fighter\(SGF\) Special](https://open.spotify.com/album/4azL8fNPVZ8tmKqPyK1583) | 3:12 | 2022-01-04 | 2022-02-02 |
 | [FireFlower](https://open.spotify.com/track/5QleIdkbRcdAQB15m3G098) | [PURPLE KISS](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) | [Geekyland](https://open.spotify.com/album/7EDCoH5wfSGYdZ7wXCmTF4) | 2:50 | 2022-08-02 | 2022-09-07 |
@@ -476,6 +477,7 @@
 | [Its Crazy](https://open.spotify.com/track/4HF7TCPZOllyyhQ5Na3pPd) | [LANA](https://open.spotify.com/artist/2WRKYYCW80D3Xha2E85Ins) | [Its Crazy](https://open.spotify.com/album/28pqvY0tYJzSLhgaQs4H6C) | 3:32 | 2022-04-05 | 2022-05-05 |
 | [It’s ok not to be ok](https://open.spotify.com/track/4WQjV7V71MAmNeZLknNcxs) | [Sogaksogak](https://open.spotify.com/artist/4ErSSLqJ6lBxlgzBrkjubZ) | [It’s ok not to be ok](https://open.spotify.com/album/0J0OUn2QQBqIV2NjpH4has) | 3:35 | 2023-02-28 | 2023-04-05 |
 | [It’s on me \(Feat\. Moon Sujin\)](https://open.spotify.com/track/6Iabxj8JonMPfdeZSCsFG5) | [L\-like](https://open.spotify.com/artist/6L639z5gxUZ0uvXFewX9E7), [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du) | [It’s on me](https://open.spotify.com/album/63KlbY062pYL6vDjIT5xYJ) | 3:17 | 2023-08-03 | 2023-09-06 |
+| [IWALY](https://open.spotify.com/track/4SwXtg8jDejWX18zLsZwCO) | [I\-LAND2 : N/a](https://open.spotify.com/artist/5wA7TzIKrDqmlnEFk6t1y4) | [I\-LAND2 : N/a \- 1:1 POSITION BATTLE](https://open.spotify.com/album/7zjYgWfGErSNv1Zs2IGDGl) | 3:03 | 2024-05-27 |  |
 | [iya](https://open.spotify.com/track/52WAuJIe9tfI46L0lNZlKq) | [강혜연](https://open.spotify.com/artist/6jJykDVfUz158veY5H2587) | [혜성 : 빗자루별](https://open.spotify.com/album/0dUiTrFsH9AYWwTyMAmlrN) | 3:17 | 2023-05-02 | 2023-06-07 |
 | [I’ve Got A Thing For You](https://open.spotify.com/track/4B2xBFnyZsYwMYdpZqiwLL) | [YEN](https://open.spotify.com/artist/2IhtAFwyLFcLh6MXMK1o2x) | [I’ve Got A Thing For You](https://open.spotify.com/album/4eHs30w2JsgW6DfcMI2OoL) | 3:08 | 2023-05-02 | 2023-06-07 |
 | [I′m Done](https://open.spotify.com/track/7Mo26zQKxSFuXslIqkcMx5) | [NATURE](https://open.spotify.com/artist/5WUom9mTTEewPdUmI4qnQi) | [THE 3rd MINI ALBUM NATURE WORLD : CODE W](https://open.spotify.com/album/60LRJDOb3EM7svCFxA07mt) | 3:20 | 2022-11-10 | 2022-12-01 |

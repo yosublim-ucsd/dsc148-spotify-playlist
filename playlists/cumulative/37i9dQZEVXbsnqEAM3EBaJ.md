@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-1,484 songs - 4 day 8 hr 36 min
+1,485 songs - 4 day 8 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -743,6 +743,7 @@
 | [Lights Out \- Live In Vienna 1998](https://open.spotify.com/track/3olFCE0utXa0SwxakIFM85) | [UFO](https://open.spotify.com/artist/2Omy3P5hFZym7FKum1JA1s) | [Live In Vienna 1998](https://open.spotify.com/album/0zEmVfGL3K1lMqF3IpwCPs) | 5:19 | 2023-09-08 | 2023-09-24 |
 | [Lisa Says \- Live](https://open.spotify.com/track/0QWjzTyqJNW7eyhVQWjjgn) | [Lou Reed](https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL) | [A Night Like This \(Live San Francisco '78\)](https://open.spotify.com/album/3RHRDGZYmq2zbd0iKzDX6S) | 6:52 | 2024-05-17 | 2024-05-19 |
 | [Listen To Your Heart \(Alle Farben Remix\)](https://open.spotify.com/track/58XoPq7Ae5SL2TRMF63uD8) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY), [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo) | [Listen To Your Heart \(Alle Farben Remix\)](https://open.spotify.com/album/2Jg1Ff9HdTkLaz9vjRClo4) | 2:26 | 2023-09-15 | 2023-10-15 |
+| [Literal Wisdom](https://open.spotify.com/track/0UBd65RGAfaNotJi3WhgxH) | [Sol y Lluvia](https://open.spotify.com/artist/6iGoMyoSIjyTxbCRyHREtI), [Lluvia Relajante](https://open.spotify.com/artist/23wO0bYxC7ScKWqSs3B1xF), [Sonidos De Truenos y Lluvia](https://open.spotify.com/artist/6xTTIh4uHGvswk0mUi9GJ4) | [Sonata de Lluvia: La Previsión de la Naturaleza en Busca de un Destino Cambiante](https://open.spotify.com/album/3Bn8Pk01EXU60iSoZqlwYp) | 2:25 | 2024-05-24 |  |
 | [Little Dreamer \- Live 1977](https://open.spotify.com/track/5SciZFEK33umJnpFZsukSR) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [Hit and Run \(Live 1977\)](https://open.spotify.com/album/2oOS0hOiZYfYdPyifVo0NA) | 3:23 | 2024-03-15 | 2024-03-17 |
 | [Little Lies](https://open.spotify.com/track/01aD8yamjTucFoioAMzrFU) | [The Corrs](https://open.spotify.com/artist/1VbWUxZTRNY2gw3qZ1tg9W) | [Little Lies](https://open.spotify.com/album/7INtd4oNndspcldngUkOSN) | 3:42 | 2023-10-06 | 2023-11-05 |
 | [Live and Let Live \- Bright\-Side Mix](https://open.spotify.com/track/1vQUh3oButfNbma7dwwnjr) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [i/o](https://open.spotify.com/album/1mhuLKVEwZH4aTJXCLuhec) | 6:46 | 2023-12-01 | 2024-02-17 |
@@ -1358,7 +1359,7 @@
 | [Tutti Frutti \- Live 1966](https://open.spotify.com/track/0rqJ1kJrTOhfujiGl3IM7r) | [Little Richard](https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm) | [Beaucoup de Rock'n'Roll \(Live 1966\)](https://open.spotify.com/album/3m3vukFkpww4qaxJU1ziZY) | 2:25 | 2023-07-28 | 2023-08-20 |
 | [Twilight of the Gods](https://open.spotify.com/track/3xAEM7GlIs5qz9F5vtoYHd) | [Therion](https://open.spotify.com/artist/5c8Cw62ZYj9XO6iDLRDEsi) | [Twilight of the Gods](https://open.spotify.com/album/4DW0Odeun8nM4fIPVgr5U7) | 6:23 | 2023-09-22 | 2023-10-15 |
 | [Twist in my Sobriety](https://open.spotify.com/track/5fSEjc65NPu8bhxVzXnfWG) | [Sirenia](https://open.spotify.com/artist/5FXMcILCOMjljRTV6cLoiE) | [Twist in my Sobriety](https://open.spotify.com/album/0EhGW5E4U1T7Qj81zkq2el) | 4:09 | 2023-03-24 | 2023-04-01 |
-| [Twisting Sight](https://open.spotify.com/track/1bjs1A0Mndr8YtGsTaxWcY) | [Sol y Lluvia](https://open.spotify.com/artist/6iGoMyoSIjyTxbCRyHREtI), [Lluvia Relajante](https://open.spotify.com/artist/23wO0bYxC7ScKWqSs3B1xF), [Sonidos De Truenos y Lluvia](https://open.spotify.com/artist/6xTTIh4uHGvswk0mUi9GJ4) | [Sonata de Lluvia: La Previsión de la Naturaleza en Busca de un Destino Cambiante](https://open.spotify.com/album/3Bn8Pk01EXU60iSoZqlwYp) | 2:20 | 2024-05-24 |  |
+| [Twisting Sight](https://open.spotify.com/track/1bjs1A0Mndr8YtGsTaxWcY) | [Sol y Lluvia](https://open.spotify.com/artist/6iGoMyoSIjyTxbCRyHREtI), [Lluvia Relajante](https://open.spotify.com/artist/23wO0bYxC7ScKWqSs3B1xF), [Sonidos De Truenos y Lluvia](https://open.spotify.com/artist/6xTTIh4uHGvswk0mUi9GJ4) | [Sonata de Lluvia: La Previsión de la Naturaleza en Busca de un Destino Cambiante](https://open.spotify.com/album/3Bn8Pk01EXU60iSoZqlwYp) | 2:20 | 2024-05-24 | 2024-05-28 |
 | [Two Kinds Of Trouble](https://open.spotify.com/track/0wUYmEDRdK185IVIIrtmjJ) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [The Death Of Randy Fitzsimmons](https://open.spotify.com/album/6agQKhrctciHD4QH7KufOS) | 2:44 | 2023-08-11 | 2023-09-10 |
 | [Two Man Band \- Live 1976](https://open.spotify.com/track/5FidtN3JbJKxhywJ6hloRP) | [Carpenters](https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304) | [Holding Onto Yesterday \(Live 1976\)](https://open.spotify.com/album/6qyoUTpM2MpnuS5l2eoyZd) | 6:48 | 2023-09-01 | 2023-09-21 |
 | [U&Me](https://open.spotify.com/track/1BplQNLl74BaFZgkBqMBl8) | [GUFI](https://open.spotify.com/artist/2x6OBrjZlSnyftY3Da2mmN) | [Los Wachos](https://open.spotify.com/album/4o6lfKCsOliUELYmCPQhAq) | 1:57 | 2023-08-25 | 2023-09-01 |

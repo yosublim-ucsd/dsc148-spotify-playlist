@@ -4,7 +4,7 @@
 
 > 😈 welcome to the rave 😈 Cover: Sara Landry
 
-113 songs - 9 hr 28 min
+114 songs - 9 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,7 @@
 | [Subspace](https://open.spotify.com/track/67wppGWUHSa72Qfa12LH2r) | [Estella Boersma](https://open.spotify.com/artist/4UCy3TOuu2eA6zNY50JQSV) | [Move EP](https://open.spotify.com/album/73t7xyoQmF1bOsQYxdhUla) | 4:18 | 2024-04-09 |  |
 | [Sucia](https://open.spotify.com/track/65Vx8J63EtrVdsJrbGYxIr) | [JODA & MARROW](https://open.spotify.com/artist/6Ar8R40O8JXTQ2FsCMsWuF) | [Sucia](https://open.spotify.com/album/4R82Tc7PJJf8CNFAkGusZH) | 3:03 | 2024-04-19 |  |
 | [Surpressed](https://open.spotify.com/track/20xymtXyIesn1RnCdV4u39) | [2FEL](https://open.spotify.com/artist/2YjhWg5nfeR14eUXqonx3x) | [Surpressed](https://open.spotify.com/album/1aS4DylxClt4R6OBImXrYA) | 6:44 | 2024-04-19 |  |
-| [Swords](https://open.spotify.com/track/3kZTkTa0skVIvp1UCRVEmK) | [Veseli](https://open.spotify.com/artist/50s52gIdkQNpkt7iKWrvjY) | [Swords EP](https://open.spotify.com/album/7DuE1pxDycYqwqQz3kbE9s) | 6:33 | 2024-04-09 |  |
+| [Swords](https://open.spotify.com/track/3kZTkTa0skVIvp1UCRVEmK) | [Veseli](https://open.spotify.com/artist/50s52gIdkQNpkt7iKWrvjY) | [Swords EP](https://open.spotify.com/album/7DuE1pxDycYqwqQz3kbE9s) | 6:33 | 2024-04-09 | 2024-05-28 |
 | [Synthetic Dreams \- Anetha Remix](https://open.spotify.com/track/5dDOtrnF2JQrr4yrD5SRdV) | [X\-COAST](https://open.spotify.com/artist/5QUHrSea6F2nhn9veAq4wQ), [Anetha](https://open.spotify.com/artist/7sJ3ngSMvvXGdVLnODPqXa) | [Synthetic Dreams \(Anetha Remix\)](https://open.spotify.com/album/5KV09u5f8tmoFLauTBtyx6) | 6:23 | 2024-04-09 | 2024-04-19 |
 | [Thalassophobia](https://open.spotify.com/track/1pcDlqCeLHpxK6xVdv6ONZ) | [APHØTIC](https://open.spotify.com/artist/0bMxsn0N2APrVga72XmQJ4) | [Thalassophobia](https://open.spotify.com/album/3JHerj4helcEAuoZzsfkSE) | 5:37 | 2024-04-09 |  |
 | [The Bass](https://open.spotify.com/track/12lZnyC84ht2jq7codKpZy) | [DV60](https://open.spotify.com/artist/09XRalTMeRYc99qLOBJNx9) | [II Anniversary Chapter 3](https://open.spotify.com/album/6YhNccXIWjGeN4faLGahKi) | 5:37 | 2024-04-09 |  |
@@ -119,6 +119,7 @@
 | [Venezia](https://open.spotify.com/track/1TjZTPkdqO3OCo7DX10a0l) | [AKKI \(DE\)](https://open.spotify.com/artist/0hReHYoLJG38QBwYIZ8zKs) | [Venezia](https://open.spotify.com/album/2FUWJ7gqHGihl19vdlxjuy) | 3:52 | 2024-04-09 |  |
 | [Welcome Back Devil](https://open.spotify.com/track/51xCJIB6whswDNw6tdbF97) | [Shlømo](https://open.spotify.com/artist/0ZdNs1hU6aAiaZxvFbtDWF) | [Welcome Back Devil](https://open.spotify.com/album/41Knrnm88QyuE9h8ATY8Dz) | 5:20 | 2024-04-09 |  |
 | [Welcome To London](https://open.spotify.com/track/3rcabUHPdv5Ulw8B6Khkxc) | [Charlie Sparks \(UK\)](https://open.spotify.com/artist/1lsjQdGrRe2D1nmvCVB7JZ) | [Welcome To London](https://open.spotify.com/album/5QYvLSIqem9dAQKy1ubrR9) | 6:55 | 2024-04-09 |  |
+| [XTC](https://open.spotify.com/track/5EwP2h6i4N5durNel1b5Qw) | [Hans Glock](https://open.spotify.com/artist/2z6v7CjHOFGCsZlICgl52s), [GLØCK](https://open.spotify.com/artist/5ogsJfXsVSStkB58OGqXPG) | [Dier van de Nacht](https://open.spotify.com/album/3w0Zui4lx2r6Hez5qH0GVG) | 3:12 | 2024-05-22 |  |
 | [XTC Love](https://open.spotify.com/track/46oG3q3ZvNvEWQOPJcs8Oh) | [XRTN](https://open.spotify.com/artist/5oXWx1ZjiyWTt4fhjUQgKR), [JSTN](https://open.spotify.com/artist/6eGp2AIQ3TjdRZ7uxdbaY2) | [For your mind](https://open.spotify.com/album/3BwnFfvOQKkIVvRw0BlwsG) | 4:48 | 2024-04-09 |  |
 | [You Make Me Horny](https://open.spotify.com/track/52tyA5PDC5veclwTVmvEEx) | [Nico Moreno](https://open.spotify.com/artist/6fjhNhp9IoeiZpEXq9AT2S), [Laren](https://open.spotify.com/artist/6ScQdKv62h1YalS7o7FhsS) | [You Make Me Horny](https://open.spotify.com/album/2iqGNeAbv3AnXgaE3Ayzmv) | 4:54 | 2024-04-09 |  |
 

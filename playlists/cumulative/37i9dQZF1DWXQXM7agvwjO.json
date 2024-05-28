@@ -2191,6 +2191,28 @@
     },
     {
       "album": {
+        "name": "Ode Matahari",
+        "url": "https://open.spotify.com/album/6BtjSzF583B56ZvqFb7Oah"
+      },
+      "artists": [
+        {
+          "name": "Pendarra",
+          "url": "https://open.spotify.com/artist/0azPQZGt11gedg5Le9hjC2"
+        },
+        {
+          "name": "Dere",
+          "url": "https://open.spotify.com/artist/3IvlMYb5AvKRfNt7vR8PNP"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199000,
+      "name": "Bermekaran Dan Mewangi",
+      "url": "https://open.spotify.com/track/66sMzBAgVVLsyZvJ3pYasC"
+    },
+    {
+      "album": {
         "name": "Best I Ever Had",
         "url": "https://open.spotify.com/album/2DWUneyBWnuL7Rlxzp5fNQ"
       },
@@ -21786,7 +21808,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-28",
       "duration_ms": 166242,
       "name": "When You Almost Give Up",
       "url": "https://open.spotify.com/track/2kQBpahiunmJ3QaUBhhQhZ"
@@ -24060,7 +24082,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-10",
+      "date_removed": null,
       "duration_ms": 148000,
       "name": "\u58f0\u3092\u805e\u304b\u305b\u3066",
       "url": "https://open.spotify.com/track/0ZJmMINFDqxtS5QhZzMjWh"
@@ -24710,7 +24732,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-28",
       "duration_ms": 192462,
       "name": "\u7a7a\u3068\u3076\u6771\u4eac",
       "url": "https://open.spotify.com/track/1Z09qAdhbdRF40re5pjW0S"

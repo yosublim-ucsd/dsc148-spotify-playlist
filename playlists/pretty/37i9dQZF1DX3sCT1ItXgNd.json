@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor del pop en espa\u00f1ol. Foto: Rauw Alejandro",
-  "num_followers": 962052,
+  "num_followers": 962088,
   "original_name": "Pop con \u00d1",
   "owner": {
     "name": "Spotify",
@@ -235,22 +235,22 @@
     {
       "added_at": "2024-05-24 00:01:00",
       "album": {
-        "name": "Bahamas",
-        "url": "https://open.spotify.com/album/2t2TGRu7yTlcXjMbdBZmbS"
+        "name": "Los Lugares Donde Ir\u00e1s",
+        "url": "https://open.spotify.com/album/78Q2cME3Xqp5REjAlDHX8a"
       },
       "artists": [
         {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+          "name": "Hey Kid",
+          "url": "https://open.spotify.com/artist/1x8mAhfvCw7JXRX7Ild0lF"
         },
         {
-          "name": "SAIKO",
-          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+          "name": "Malm\u00f6 040",
+          "url": "https://open.spotify.com/artist/6i0h6wBrfNkdf3eTUoelpP"
         }
       ],
-      "duration_ms": 223728,
-      "name": "Bahamas",
-      "url": "https://open.spotify.com/track/3BWpv2yBYqreJmcPiHkuVC"
+      "duration_ms": 176000,
+      "name": "Los Lugares Donde Ir\u00e1s",
+      "url": "https://open.spotify.com/track/4p1C7lssRJgOkdpPWlb6s1"
     },
     {
       "added_at": "2024-05-24 00:01:00",
@@ -287,22 +287,22 @@
     {
       "added_at": "2024-05-24 00:01:00",
       "album": {
-        "name": "Los Lugares Donde Ir\u00e1s",
-        "url": "https://open.spotify.com/album/78Q2cME3Xqp5REjAlDHX8a"
+        "name": "Bahamas",
+        "url": "https://open.spotify.com/album/2t2TGRu7yTlcXjMbdBZmbS"
       },
       "artists": [
         {
-          "name": "Hey Kid",
-          "url": "https://open.spotify.com/artist/1x8mAhfvCw7JXRX7Ild0lF"
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
         },
         {
-          "name": "Malm\u00f6 040",
-          "url": "https://open.spotify.com/artist/6i0h6wBrfNkdf3eTUoelpP"
+          "name": "SAIKO",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
         }
       ],
-      "duration_ms": 176000,
-      "name": "Los Lugares Donde Ir\u00e1s",
-      "url": "https://open.spotify.com/track/4p1C7lssRJgOkdpPWlb6s1"
+      "duration_ms": 223728,
+      "name": "Bahamas",
+      "url": "https://open.spotify.com/track/3BWpv2yBYqreJmcPiHkuVC"
     },
     {
       "added_at": "2024-05-24 00:01:00",
@@ -383,26 +383,6 @@
     {
       "added_at": "2024-05-24 00:01:00",
       "album": {
-        "name": "escribiendo TKM",
-        "url": "https://open.spotify.com/album/6Pe75DwNVa2GbrNHentgGO"
-      },
-      "artists": [
-        {
-          "name": "c\u00e9ro",
-          "url": "https://open.spotify.com/artist/5AiFFE0KopBkOzEZeDbSaH"
-        },
-        {
-          "name": "D3llano",
-          "url": "https://open.spotify.com/artist/2op8AnWkI11yZAv1KwS9Ck"
-        }
-      ],
-      "duration_ms": 145174,
-      "name": "escribiendo TKM",
-      "url": "https://open.spotify.com/track/5m3GrJudqpsH6q66P0Ch8w"
-    },
-    {
-      "added_at": "2024-05-24 00:01:00",
-      "album": {
         "name": "La Raz\u00f3n",
         "url": "https://open.spotify.com/album/1BfH1Sen3V361yL4Yck3Rg"
       },
@@ -419,6 +399,26 @@
       "duration_ms": 162906,
       "name": "La Raz\u00f3n",
       "url": "https://open.spotify.com/track/3CmSv76KDKsvtiyrdgHZHH"
+    },
+    {
+      "added_at": "2024-05-24 00:01:00",
+      "album": {
+        "name": "escribiendo TKM",
+        "url": "https://open.spotify.com/album/6Pe75DwNVa2GbrNHentgGO"
+      },
+      "artists": [
+        {
+          "name": "c\u00e9ro",
+          "url": "https://open.spotify.com/artist/5AiFFE0KopBkOzEZeDbSaH"
+        },
+        {
+          "name": "D3llano",
+          "url": "https://open.spotify.com/artist/2op8AnWkI11yZAv1KwS9Ck"
+        }
+      ],
+      "duration_ms": 145174,
+      "name": "escribiendo TKM",
+      "url": "https://open.spotify.com/track/5m3GrJudqpsH6q66P0Ch8w"
     },
     {
       "added_at": "2024-05-24 00:01:00",
@@ -443,26 +443,6 @@
     {
       "added_at": "2024-05-24 00:01:00",
       "album": {
-        "name": "FINAL (Vol.2)",
-        "url": "https://open.spotify.com/album/5LHd4piJoHcz4CXhjsFKxx"
-      },
-      "artists": [
-        {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
-        },
-        {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
-        }
-      ],
-      "duration_ms": 186366,
-      "name": "La Botella",
-      "url": "https://open.spotify.com/track/5zkZazxkRze7ub2fT8Xv8u"
-    },
-    {
-      "added_at": "2024-05-24 00:01:00",
-      "album": {
         "name": "Santorini",
         "url": "https://open.spotify.com/album/43pq1lauxP6T2c4ySugI0Z"
       },
@@ -479,6 +459,26 @@
       "duration_ms": 160893,
       "name": "Santorini",
       "url": "https://open.spotify.com/track/2FVSQR0FXAIBkPtkkIMigS"
+    },
+    {
+      "added_at": "2024-05-24 00:01:00",
+      "album": {
+        "name": "FINAL (Vol.2)",
+        "url": "https://open.spotify.com/album/5LHd4piJoHcz4CXhjsFKxx"
+      },
+      "artists": [
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        },
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        }
+      ],
+      "duration_ms": 186366,
+      "name": "La Botella",
+      "url": "https://open.spotify.com/track/5zkZazxkRze7ub2fT8Xv8u"
     },
     {
       "added_at": "2024-05-24 00:01:00",
@@ -591,6 +591,22 @@
     {
       "added_at": "2024-05-24 00:01:00",
       "album": {
+        "name": "GRASA",
+        "url": "https://open.spotify.com/album/2ab0PTJ5OG7I6YfSqpDFZv"
+      },
+      "artists": [
+        {
+          "name": "NATHY PELUSO",
+          "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
+        }
+      ],
+      "duration_ms": 184058,
+      "name": "LEGENDARIO",
+      "url": "https://open.spotify.com/track/47Y7zbY54UmViUUDUrq7Sk"
+    },
+    {
+      "added_at": "2024-05-24 00:01:00",
+      "album": {
         "name": "Sin Filtro",
         "url": "https://open.spotify.com/album/5FFN7Ju1YOxdSBcbO7Iqs5"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 187240,
       "name": "Ella",
       "url": "https://open.spotify.com/track/1DPtfQYOFB9IAEk1o4qBmS"
-    },
-    {
-      "added_at": "2024-05-24 00:01:00",
-      "album": {
-        "name": "GRASA",
-        "url": "https://open.spotify.com/album/2ab0PTJ5OG7I6YfSqpDFZv"
-      },
-      "artists": [
-        {
-          "name": "NATHY PELUSO",
-          "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
-        }
-      ],
-      "duration_ms": 184058,
-      "name": "LEGENDARIO",
-      "url": "https://open.spotify.com/track/47Y7zbY54UmViUUDUrq7Sk"
     },
     {
       "added_at": "2024-05-24 00:01:00",
@@ -699,22 +699,6 @@
     {
       "added_at": "2024-05-24 00:01:00",
       "album": {
-        "name": "Contacto Cero",
-        "url": "https://open.spotify.com/album/6nVG9HSp1l0DdQkAl1tA10"
-      },
-      "artists": [
-        {
-          "name": "Charlie USG",
-          "url": "https://open.spotify.com/artist/6SQxxV1mB4oLifst53eQpw"
-        }
-      ],
-      "duration_ms": 180986,
-      "name": "D\u00e9jame t\u00fa",
-      "url": "https://open.spotify.com/track/6DMfrXPB2pFQr4sWLQ8NO1"
-    },
-    {
-      "added_at": "2024-05-24 00:01:00",
-      "album": {
         "name": "GOOD DAY (feat. Camidoh)",
         "url": "https://open.spotify.com/album/3skW3RfH9HhEhkmfLscAwk"
       },
@@ -735,6 +719,22 @@
     {
       "added_at": "2024-05-24 00:01:00",
       "album": {
+        "name": "Contacto Cero",
+        "url": "https://open.spotify.com/album/6nVG9HSp1l0DdQkAl1tA10"
+      },
+      "artists": [
+        {
+          "name": "Charlie USG",
+          "url": "https://open.spotify.com/artist/6SQxxV1mB4oLifst53eQpw"
+        }
+      ],
+      "duration_ms": 180986,
+      "name": "D\u00e9jame t\u00fa",
+      "url": "https://open.spotify.com/track/6DMfrXPB2pFQr4sWLQ8NO1"
+    },
+    {
+      "added_at": "2024-05-24 00:01:00",
+      "album": {
         "name": "Astronauta",
         "url": "https://open.spotify.com/album/5gHA0EkrBT7yANOSd9AFL6"
       },
@@ -747,26 +747,6 @@
       "duration_ms": 169894,
       "name": "Astronauta",
       "url": "https://open.spotify.com/track/1J59EJh3hbGZDJD7KfONLz"
-    },
-    {
-      "added_at": "2024-05-24 00:01:00",
-      "album": {
-        "name": "Copita Champagne",
-        "url": "https://open.spotify.com/album/6u333hTQgleC2pzoNvBKcU"
-      },
-      "artists": [
-        {
-          "name": "Mireya Rivas",
-          "url": "https://open.spotify.com/artist/2eYwxBc6FsGFC45eWrEgps"
-        },
-        {
-          "name": "Chema Rivas",
-          "url": "https://open.spotify.com/artist/1tMWkquIkQtVD6vaZlDbSQ"
-        }
-      ],
-      "duration_ms": 163000,
-      "name": "Copita Champagne",
-      "url": "https://open.spotify.com/track/3xvnCTCFA6Ntd5gKLfKnmW"
     },
     {
       "added_at": "2024-05-24 00:01:00",
@@ -787,6 +767,26 @@
       "duration_ms": 159163,
       "name": "Lo Dejo Todo",
       "url": "https://open.spotify.com/track/5b6VY0fZS7671s4vPZ8Ob4"
+    },
+    {
+      "added_at": "2024-05-24 00:01:00",
+      "album": {
+        "name": "Copita Champagne",
+        "url": "https://open.spotify.com/album/6u333hTQgleC2pzoNvBKcU"
+      },
+      "artists": [
+        {
+          "name": "Mireya Rivas",
+          "url": "https://open.spotify.com/artist/2eYwxBc6FsGFC45eWrEgps"
+        },
+        {
+          "name": "Chema Rivas",
+          "url": "https://open.spotify.com/artist/1tMWkquIkQtVD6vaZlDbSQ"
+        }
+      ],
+      "duration_ms": 163000,
+      "name": "Copita Champagne",
+      "url": "https://open.spotify.com/track/3xvnCTCFA6Ntd5gKLfKnmW"
     },
     {
       "added_at": "2024-05-24 00:01:00",
@@ -815,18 +815,22 @@
     {
       "added_at": "2024-05-24 00:01:00",
       "album": {
-        "name": "Pirata",
-        "url": "https://open.spotify.com/album/0qNBlTwJDx8h3gfTSBJzYf"
+        "name": "\u00daltimo Verano",
+        "url": "https://open.spotify.com/album/2p2YybvC7qkeqatcy8Zy1l"
       },
       "artists": [
         {
-          "name": "Marlon",
-          "url": "https://open.spotify.com/artist/1RTZXV2Txeij9hW1C88mfs"
+          "name": "Lemot",
+          "url": "https://open.spotify.com/artist/6RN9D7QhoLVcy7yo4AuQ9A"
+        },
+        {
+          "name": "Noan",
+          "url": "https://open.spotify.com/artist/5FTh7whdpVYqv00Gi0w5GM"
         }
       ],
-      "duration_ms": 193626,
-      "name": "Pirata",
-      "url": "https://open.spotify.com/track/4QE2lll1AHZw20DOnkGmZD"
+      "duration_ms": 169877,
+      "name": "\u00daltimo Verano",
+      "url": "https://open.spotify.com/track/0KTP8GWIao5RGBBu6DyVe9"
     },
     {
       "added_at": "2024-05-24 00:01:00",
@@ -847,22 +851,18 @@
     {
       "added_at": "2024-05-24 00:01:00",
       "album": {
-        "name": "\u00daltimo Verano",
-        "url": "https://open.spotify.com/album/2p2YybvC7qkeqatcy8Zy1l"
+        "name": "Pirata",
+        "url": "https://open.spotify.com/album/0qNBlTwJDx8h3gfTSBJzYf"
       },
       "artists": [
         {
-          "name": "Lemot",
-          "url": "https://open.spotify.com/artist/6RN9D7QhoLVcy7yo4AuQ9A"
-        },
-        {
-          "name": "Noan",
-          "url": "https://open.spotify.com/artist/5FTh7whdpVYqv00Gi0w5GM"
+          "name": "Marlon",
+          "url": "https://open.spotify.com/artist/1RTZXV2Txeij9hW1C88mfs"
         }
       ],
-      "duration_ms": 169877,
-      "name": "\u00daltimo Verano",
-      "url": "https://open.spotify.com/track/0KTP8GWIao5RGBBu6DyVe9"
+      "duration_ms": 193626,
+      "name": "Pirata",
+      "url": "https://open.spotify.com/track/4QE2lll1AHZw20DOnkGmZD"
     },
     {
       "added_at": "2024-05-24 00:01:00",

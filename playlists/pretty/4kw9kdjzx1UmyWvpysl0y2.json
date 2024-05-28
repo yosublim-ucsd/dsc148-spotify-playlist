@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125992,
+  "num_followers": 125981,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAASaguVS2lKuCsMHZk3XfMe63VF1o8m",
+  "snapshot_id": "AAASazwXbcnwN8QgcklLf7mUhHgdtB/H",
   "tracks": [
+    {
+      "added_at": "2024-05-27 15:04:42",
+      "album": {
+        "name": "MEANT 2 BE",
+        "url": "https://open.spotify.com/album/1IWx8iljeD27g0OOrzD9mE"
+      },
+      "artists": [
+        {
+          "name": "THIRST",
+          "url": "https://open.spotify.com/artist/48jyKugtgYM5RdzwF7zKde"
+        },
+        {
+          "name": "nuphory",
+          "url": "https://open.spotify.com/artist/2K0uRwlc2VKeRoWS8Iuija"
+        }
+      ],
+      "duration_ms": 164124,
+      "name": "MEANT 2 BE",
+      "url": "https://open.spotify.com/track/4zMVHb3ZWygsiB3oxDiur4"
+    },
     {
       "added_at": "2024-05-24 14:30:52",
       "album": {

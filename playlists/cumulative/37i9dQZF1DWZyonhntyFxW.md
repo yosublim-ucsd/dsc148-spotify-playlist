@@ -4,7 +4,7 @@
 
 > انا سايبك تاكل عيش يازميلي، لكون فاكرني ناسيك\. غلاف: زياذ ظاظا
 
-319 songs - 15 hr 55 min
+320 songs - 15 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [EL ASEMA](https://open.spotify.com/track/7xGbfFIhE3fNwS9Djjjq7P) | [Husayn](https://open.spotify.com/artist/388NKDhzE7FJ40ODmOr7aI), [Ahmed Santa](https://open.spotify.com/artist/2jRxGTrLGVw35yRsElgsXj), [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO), [FL EX](https://open.spotify.com/artist/4rACOXTxSYqwgynYKJJpDX), [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6) | [SWITCH](https://open.spotify.com/album/2Qoqb8UvELqy3tSb1hsGI3) | 6:18 | 2023-02-13 | 2023-07-11 |
 | [EL BABA](https://open.spotify.com/track/5hqTZ3iZFOZAeojDVC9QPJ) | [Batistuta](https://open.spotify.com/artist/5YqgTnXXqASob6AejLOCVo) | [EL BABA](https://open.spotify.com/album/5aXEcbeROqVWPx9zYCYeBJ) | 3:23 | 2022-05-10 | 2022-06-21 |
 | [El Baba](https://open.spotify.com/track/5RJ36vbZUMFzS70hX6nx0k) | [Slyver PV](https://open.spotify.com/artist/6WCzZyJR1Kt9X1oare81V8) | [El Baba](https://open.spotify.com/album/0RVaaq1N7PBzB5ZAXgo7qy) | 3:04 | 2023-01-16 | 2023-03-15 |
+| [EL BM BKM DLWATY ?](https://open.spotify.com/track/63onaNWTSRTOxBLROCEYH0) | [ZIAD ZAZA](https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM) | [525](https://open.spotify.com/album/0fcNiMb5xTCA4h1rLuXtSv) | 2:57 | 2024-05-27 |  |
 | [EL HALAL](https://open.spotify.com/track/6EImClnQDWI51GJjSKva6P) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [EL HALAL](https://open.spotify.com/album/2B9JbhNplI7Qlf0tN6l0h2) | 3:50 | 2022-08-11 | 2023-11-27 |
 | [EL LOVE](https://open.spotify.com/track/5gF2k94idQZlm5Dbe2HjoI) | [ZIAD ZAZA](https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM), [DizzyTooSkinny](https://open.spotify.com/artist/0QDlkRZ349RXtT5XcwcLRP) | [ZAZA ELWASEEM](https://open.spotify.com/album/4gYfyZHNfpZdI4ebAybyUD) | 3:07 | 2023-09-05 | 2023-09-30 |
 | [El Mabda2](https://open.spotify.com/track/6m8vcn1JPflk8xBoFsaPDP) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [آخر قطعة فنية](https://open.spotify.com/album/5YxBzNI1LIAI86UHm1kTrS) | 2:38 | 2023-11-27 |  |
@@ -93,7 +94,7 @@
 | [El Waat El Daye3](https://open.spotify.com/track/0KlV4dMk7ciYT4GfMMQhJv) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [El Waat El Daye3](https://open.spotify.com/album/79aadAOfRpMoyehE1qFrLh) | 2:54 | 2024-05-17 |  |
 | [EL\-NEGM EL\-SAHELY](https://open.spotify.com/track/6kjHh3y3KItPG6fXLhxHW7) | [Mousv](https://open.spotify.com/artist/6CGE1o9Swi1tAEa23wRTah) | [EL\-NEGM EL\-SAHELY](https://open.spotify.com/album/5fH5chAIaWvNR7rs1ExVyK) | 2:13 | 2023-03-22 | 2023-05-26 |
 | [ElNaw Wy](https://open.spotify.com/track/1vQOTZPsWE4r2Sm9nKi9iw) | [Ahmed Santa](https://open.spotify.com/artist/2jRxGTrLGVw35yRsElgsXj) | [ElNaw Wy](https://open.spotify.com/album/0c020gB5ryHFx3Vh7aK1fb) | 2:29 | 2022-12-17 | 2023-02-24 |
-| [ENT BTRSHD](https://open.spotify.com/track/1mIR4JZJqvkcWdbkpeji44) | [ZIAD ZAZA](https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM), [Omar Keif](https://open.spotify.com/artist/2sc7PVTWRHueOWkvt4cxEf) | [525](https://open.spotify.com/album/0fcNiMb5xTCA4h1rLuXtSv) | 3:16 | 2024-05-24 |  |
+| [ENT BTRSHD](https://open.spotify.com/track/1mIR4JZJqvkcWdbkpeji44) | [ZIAD ZAZA](https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM), [Omar Keif](https://open.spotify.com/artist/2sc7PVTWRHueOWkvt4cxEf) | [525](https://open.spotify.com/album/0fcNiMb5xTCA4h1rLuXtSv) | 3:16 | 2024-05-24 | 2024-05-28 |
 | [ERZO2NA YA KAREEM](https://open.spotify.com/track/0YeFCcTZxlc0aLJ8wseZtQ) | [Begad](https://open.spotify.com/artist/5jcaxl6UTzjWAUWEdldcQl) | [WELAD EL 7ARA](https://open.spotify.com/album/1mvN9UgF72pr5ToTofgLWL) | 2:38 | 2024-03-11 |  |
 | [Escobar](https://open.spotify.com/track/35SaLcWrRF8lRBiY93MSnn) | [L5VAV](https://open.spotify.com/artist/7iriVfN6kftRpKDqdm492u), [Shahyn](https://open.spotify.com/artist/3SMvE0QyULRkKy2Y2FLbUG) | [Escobar](https://open.spotify.com/album/2mAiQSJIzExk7PQOzOKvce) | 3:06 | 2023-09-29 | 2024-01-26 |
 | [FAR2 KHEBRA](https://open.spotify.com/track/53BjuhvFCmv5T0VRhKuNrb) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [FAR2 KHEBRA](https://open.spotify.com/album/08pIAC8EPHbSDQFsY0xRov) | 3:08 | 2022-05-10 | 2022-07-29 |

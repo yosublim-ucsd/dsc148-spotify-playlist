@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-26",
-  "description": "This Is Manuel Medrano. Los temas esenciales, todos en una lista.",
+  "description": "This is Manuel Medrano. The essential tracks, all in one playlist.",
   "name": "This Is Manuel Medrano",
   "tracks": [
     {
@@ -184,7 +184,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-27",
+      "date_removed": null,
       "duration_ms": 171789,
       "name": "Desde Que Te Vi",
       "url": "https://open.spotify.com/track/6JheR1ZMJyEJpFedDY1qme"
@@ -238,7 +238,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-28",
       "duration_ms": 176840,
       "name": "Esta Noche",
       "url": "https://open.spotify.com/track/17kYZzod8GRk75cjWaaOBC"
@@ -448,7 +448,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-27",
+      "date_removed": null,
       "duration_ms": 203973,
       "name": "Nenita",
       "url": "https://open.spotify.com/track/6Bwu10ojlaFg7BGfHxvTWO"
@@ -586,7 +586,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-28",
       "duration_ms": 221606,
       "name": "Sin Saber Por Qu\u00e9",
       "url": "https://open.spotify.com/track/6BnRwKaF2bRuA3bbrPjBJg"
@@ -684,7 +684,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-26",
+      "date_removed": null,
       "duration_ms": 241382,
       "name": "\u00bfC\u00f3mo Hacer Para Olvidarte?",
       "url": "https://open.spotify.com/track/7p8JhjfckxcuOF0Weixvfa"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-05-02",
-  "description": "This is Kendrick Lamar. The essential tracks, all in one playlist.",
+  "description": "This Is Kendrick Lamar. Los temas esenciales, todos en una lista.",
   "name": "This Is Kendrick Lamar",
   "tracks": [
     {
@@ -238,7 +238,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-27",
+      "date_removed": null,
       "duration_ms": 185946,
       "name": "DNA.",
       "url": "https://open.spotify.com/track/6HZILIRieu8S0iqY8kIKhj"
@@ -282,7 +282,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-15",
+      "date_removed": null,
       "duration_ms": 266080,
       "name": "Doves In The Wind (feat. Kendrick Lamar)",
       "url": "https://open.spotify.com/track/593W4qZOwwdqF6YnimJjL6"
@@ -318,7 +318,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-28",
       "duration_ms": 208733,
       "name": "ELEMENT.",
       "url": "https://open.spotify.com/track/1EaKU4dMbesXXd3BrLCtYG"
@@ -516,7 +516,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-28",
       "duration_ms": 261746,
       "name": "How Much A Dollar Cost",
       "url": "https://open.spotify.com/track/4tQcyj5488alHT1ZgFduzn"
@@ -762,7 +762,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-28",
       "duration_ms": 324189,
       "name": "Mona Lisa (feat. Kendrick Lamar)",
       "url": "https://open.spotify.com/track/0dbTQYW3Ad1FTzIA9t90E8"
@@ -940,7 +940,7 @@
       ],
       "date_added": "2024-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-22",
+      "date_removed": null,
       "duration_ms": 168591,
       "name": "Rigamortus",
       "url": "https://open.spotify.com/track/2lD6AoA8qf2t4Dkf2TcmNK"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-11",
-  "description": "This is LUDMILLA. The essential tracks, all in one playlist.",
+  "description": "This is LUDMILLA. Todos os maiores hits em uma s\u00f3 playlist.",
   "name": "This Is LUDMILLA",
   "tracks": [
     {
@@ -552,7 +552,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-14",
+      "date_removed": null,
       "duration_ms": 147089,
       "name": "Fora de Si - Ao Vivo",
       "url": "https://open.spotify.com/track/3ojDttdAfpz1UhnFVLSG3s"
@@ -728,7 +728,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-28",
       "duration_ms": 164141,
       "name": "Maldivas",
       "url": "https://open.spotify.com/track/1FGRA5pMtBqJLNAaSBia2x"
@@ -1284,7 +1284,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-28",
       "duration_ms": 201301,
       "name": "Sinais de fogo - Ao Vivo",
       "url": "https://open.spotify.com/track/5Uq1ta57YcmShqMyPmVyyO"

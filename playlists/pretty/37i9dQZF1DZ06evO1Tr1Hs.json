@@ -1,29 +1,13 @@
 {
   "description": "This is Ken Carson. The essential tracks, all in one playlist.",
-  "num_followers": 20195,
+  "num_followers": 20242,
   "original_name": "This Is Ken Carson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlEqAAAAAADM0I1J5DwuPIXOyQ4vmCG+",
+  "snapshot_id": "ZlJ7gAAAAAAGQwsqqhl4jVhUbF7raOrN",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "overseas",
-        "url": "https://open.spotify.com/album/0FRicF4BU62Z0OUMZw9l8U"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "duration_ms": 141031,
-      "name": "overseas",
-      "url": "https://open.spotify.com/track/7ovB5FvDwq1g7AG9ICYaNY"
-    },
     {
       "added_at": null,
       "album": {
@@ -47,6 +31,22 @@
       "duration_ms": 130136,
       "name": "RICK OWENS (feat. Ken Carson)",
       "url": "https://open.spotify.com/track/6VASMtJitNcGLlsWhPb9BC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "overseas",
+        "url": "https://open.spotify.com/album/0FRicF4BU62Z0OUMZw9l8U"
+      },
+      "artists": [
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "duration_ms": 141031,
+      "name": "overseas",
+      "url": "https://open.spotify.com/track/7ovB5FvDwq1g7AG9ICYaNY"
     },
     {
       "added_at": null,
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
         }
       ],
-      "duration_ms": 148760,
-      "name": "i need u",
-      "url": "https://open.spotify.com/track/3YBU7JlsPHIXhEuc7OXrIT"
+      "duration_ms": 124567,
+      "name": "Hardcore",
+      "url": "https://open.spotify.com/track/39xDX63yonTblgoHdTKLtI"
     },
     {
       "added_at": null,
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
         }
       ],
-      "duration_ms": 124567,
-      "name": "Hardcore",
-      "url": "https://open.spotify.com/track/39xDX63yonTblgoHdTKLtI"
+      "duration_ms": 148760,
+      "name": "i need u",
+      "url": "https://open.spotify.com/track/3YBU7JlsPHIXhEuc7OXrIT"
     },
     {
       "added_at": null,
@@ -611,22 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Project X",
-        "url": "https://open.spotify.com/album/4Vd0qWsKeNJzsouF5Dg1yS"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "duration_ms": 104938,
-      "name": "Who's Next",
-      "url": "https://open.spotify.com/track/0dCMTAOfCN54ik5qwQEsms"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Teen X",
         "url": "https://open.spotify.com/album/33afeafKvnHqT7p2lYgdhd"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 105508,
       "name": "Why",
       "url": "https://open.spotify.com/track/6ALDTINxlHOp96KoLWYvqK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Project X",
+        "url": "https://open.spotify.com/album/4Vd0qWsKeNJzsouF5Dg1yS"
+      },
+      "artists": [
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "duration_ms": 104938,
+      "name": "Who's Next",
+      "url": "https://open.spotify.com/track/0dCMTAOfCN54ik5qwQEsms"
     },
     {
       "added_at": null,

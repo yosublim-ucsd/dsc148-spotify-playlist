@@ -4,7 +4,7 @@
 
 > Listen to women at full volume\. Cover: Emei
 
-1,378 songs - 3 day 1 hr 28 min
+1,379 songs - 3 day 1 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -491,7 +491,7 @@
 | [Glory Days](https://open.spotify.com/track/7qaMlLPdwNiiU1Uiy1oAdO) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Glory Days](https://open.spotify.com/album/0aRxuDLQsKlZMgz61rb3t8) | 2:42 | 2023-07-05 | 2023-08-03 |
 | [Glue Song \(feat\. Clairo\)](https://open.spotify.com/track/0tMMPZEt6Gyrl9FI8zSicm) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Glue Song \(feat\. Clairo\)](https://open.spotify.com/album/6iyBE8qGDt42MyBvtPNuMk) | 2:15 | 2023-05-03 | 2024-01-27 |
 | [Go Baby](https://open.spotify.com/track/3NiL2JcFIncyshy4KOKA73) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Heaven](https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU) | 3:56 | 2023-10-04 | 2023-11-30 |
-| [GO GET YA MOTHA](https://open.spotify.com/track/6AHjMfDel9YzCTu1Lci5iq) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB) | [Dennis Daughter \(Deluxe Version\)](https://open.spotify.com/album/3ey0JVQZp7VBFWHEs7z6X1) | 3:03 | 2024-05-02 |  |
+| [GO GET YA MOTHA](https://open.spotify.com/track/6AHjMfDel9YzCTu1Lci5iq) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB) | [Dennis Daughter \(Deluxe Version\)](https://open.spotify.com/album/3ey0JVQZp7VBFWHEs7z6X1) | 3:03 | 2024-05-02 | 2024-05-28 |
 | [go!](https://open.spotify.com/track/1Zz1uVTuMfulHplPaWsB4d) | [BbyMutha](https://open.spotify.com/artist/21C9Dbg9CD3Dv8NaD7iW8e) | [go!](https://open.spotify.com/album/3V3l3e0V9Qd0GzdwPTakr4) | 3:12 | 2024-03-11 | 2024-04-02 |
 | [God Forbid](https://open.spotify.com/track/4YphKexoCrhNOfMlY4lJX2) | [SkyLar Blatt](https://open.spotify.com/artist/5B0hUg80AXXuTKryq9mFs1), [Icewear Vezzo](https://open.spotify.com/artist/6BQwKKrDkrEwvTKtTRSsSc) | [God Forbid](https://open.spotify.com/album/69BgUjwhTRuJi8Y8XaB5dM) | 3:06 | 2022-03-08 | 2022-04-07 |
 | [God Herself](https://open.spotify.com/track/10bH3xbZFCRWpOLecfKpLe) | [Madison McFerrin](https://open.spotify.com/artist/02zPEtdzUWnPToEVLRiQ7e) | [God Herself](https://open.spotify.com/album/4gD5t8iVHYQSNLPd43u58H) | 2:32 | 2023-05-03 | 2023-06-08 |
@@ -859,6 +859,7 @@
 | [Nice To See You](https://open.spotify.com/track/29h1JvmqLYta6weden9cIm) | [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98) | [Nice To See You](https://open.spotify.com/album/0kCB7D2VKmhnlAEdTo0ixc) | 5:02 | 2023-01-04 | 2023-02-02 |
 | [nicotine](https://open.spotify.com/track/0fKAYdwDXbyhHnveCLxHxR) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [nicotine](https://open.spotify.com/album/2v0JLejYwSc81UPDU1cI4v) | 3:36 | 2024-04-01 | 2024-05-02 |
 | [Nightcrawler](https://open.spotify.com/track/6BOtNckIPp753CWYFj9fin) | [Aye Nako](https://open.spotify.com/artist/73SIbPT9u0sHTR2SrwTXZE) | [Silver Haze](https://open.spotify.com/album/41V2PB3l3S3CxNgPWkW9z6) | 3:21 | 2022-06-01 | 2022-07-07 |
+| [Nite Mode](https://open.spotify.com/track/4VZM7lUyMpZOYs218ZmRii) | [CHYL](https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc), [Trip Trop](https://open.spotify.com/artist/6LmNUSHJnlW7mtrLO4ovKX), [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159) | [Nite Mode](https://open.spotify.com/album/40Vru2ZPCcWG3ajA1sXxgz) | 3:01 | 2024-05-02 |  |
 | [No Alarm](https://open.spotify.com/track/1NfpDQQerZvnm1NF1p4V4p) | [Benét](https://open.spotify.com/artist/05YfgfbZtY7XRjc7So1DGB) | [No Alarm](https://open.spotify.com/album/3RaDZbG5MjzIy51v5Fd9F1) | 3:03 | 2023-09-06 | 2023-10-05 |
 | [No California](https://open.spotify.com/track/1w21mLzlkcpKReMjbbUwpa) | [Ilsey](https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j) | [No California](https://open.spotify.com/album/3MTWOgFgOmAQbqw49MKbaq) | 3:35 | 2023-07-05 | 2023-08-03 |
 | [No Caller ID](https://open.spotify.com/track/2uHgCkaiHwZKl7tDBTVsyW) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [No Caller ID](https://open.spotify.com/album/5plO8l5Kz0QC3fOGdHDzrW) | 3:28 | 2024-01-26 | 2024-03-02 |

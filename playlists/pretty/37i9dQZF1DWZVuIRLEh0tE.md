@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVuIRLEh0tE.md) - [plain]
 
 > Porque no to' e' Dembow en RD loco\. Portada: Bizarrap, Lismar
 
-[Spotify](https://open.spotify.com/user/spotify) - 236,369 likes - 60 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 236,455 likes - 60 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVuIRLEh0tE.md) - [plain]
 | 26 | [Tu Va Dobla ?](https://open.spotify.com/track/3pjh4rGnTgLPOUb2diydH9) | [Tivi Gunz](https://open.spotify.com/artist/68KUcl8ndJO5nUcLkuwIjI) | [Tu Va Dobla ?](https://open.spotify.com/album/6Kow2FcIp5CNwLqZ2QIy2r) | 3:00 |
 | 27 | [Feliz](https://open.spotify.com/track/2mzDRrBn6M6rWX4bGzd1uQ) | [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U) | [Feliz](https://open.spotify.com/album/17AsbbuIO3w4PYPS83SmV8) | 2:57 |
 | 28 | [3730](https://open.spotify.com/track/38NWfFQynxu9Ok4Gf3xedH) | [Treintisiete](https://open.spotify.com/artist/1ZbuFVK9SeRYrZfQLkNzah) | [3730](https://open.spotify.com/album/6yu6Kvb4D7celQvI3eYj4t) | 2:17 |
-| 29 | [Compañero](https://open.spotify.com/track/0QgrCNLap25RMDTF7wef2u) | [Kiry Curu](https://open.spotify.com/artist/3nb8360gVWO9vWGE16bE9A), [Carlos Coins](https://open.spotify.com/artist/7e719rcHWonNRRnGvkkpZe), [La Sadica](https://open.spotify.com/artist/1ADU7q520JYPBdxdLHB57A), [Dowel King](https://open.spotify.com/artist/3URdxPH9cqMtltHKf4aPcg), [Chocoleyrol](https://open.spotify.com/artist/2kF83E9c7WmW5XdqwUrJd2), [Kon3viga](https://open.spotify.com/artist/3pGr6afc5fn8GvSrsE8j5k), [Baby Ronny](https://open.spotify.com/artist/7w3Fz5YxVFQcf0T62o6ZCC), [Fran King](https://open.spotify.com/artist/3bwST4aDDIaTPwZiNhnx05) | [Compañero](https://open.spotify.com/album/22OIn9gND6ZSrqAulQej8c) | 4:12 |
+| 29 | [Compañero](https://open.spotify.com/track/0QgrCNLap25RMDTF7wef2u) | [Kiry Curu](https://open.spotify.com/artist/3nb8360gVWO9vWGE16bE9A), [Carlos Coins](https://open.spotify.com/artist/7e719rcHWonNRRnGvkkpZe), [La Sadica](https://open.spotify.com/artist/1ADU7q520JYPBdxdLHB57A), [Dowel King](https://open.spotify.com/artist/3URdxPH9cqMtltHKf4aPcg), [Chocoleyrol](https://open.spotify.com/artist/2kF83E9c7WmW5XdqwUrJd2), [Kon3viga](https://open.spotify.com/artist/3pGr6afc5fn8GvSrsE8j5k), [Baby Ronny](https://open.spotify.com/artist/7w3Fz5YxVFQcf0T62o6ZCC), [Fran King](https://open.spotify.com/artist/3bwST4aDDIaTPwZiNhnx05) | [Compañero](https://open.spotify.com/album/22OIn9gND6ZSrqAulQej8c) | 4:43 |
 | 30 | [Si Tu Quieres](https://open.spotify.com/track/4h3XCMbwm3rR1PTYcT336q) | [La Perversa](https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo), [NTG](https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ) | [Si Tu Quieres](https://open.spotify.com/album/5B24tq54Yl9gCYrqHW0Idz) | 2:30 |
 | 31 | [Vite Que No Es Lo Mismo](https://open.spotify.com/track/5ncbor51u5HvTIb67V5J7L) | [Treintisiete](https://open.spotify.com/artist/1ZbuFVK9SeRYrZfQLkNzah) | [Vite Que No Es Lo Mismo](https://open.spotify.com/album/3NRMZ2A2dWtQs5RefFGk4K) | 2:10 |
 | 32 | [Te quiero \- Special Version](https://open.spotify.com/track/1wRCb3pUMVPhXavUKSPuVI) | [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP) | [Te Quiero \(Special Version\)](https://open.spotify.com/album/0nBiKTxgoOpA5Z6BFzFSyw) | 2:56 |

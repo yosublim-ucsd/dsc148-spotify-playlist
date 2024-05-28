@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > For all the new African Gospel Releases this week\. Cover:   <a href=https://open.spotify.com/artist/40n0HESbOmwGQh401vtbWM?si=mkq4OF7FQjqQZM0AHWa\-9A>Chris Morgan</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,416 likes - 90 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,421 likes - 90 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-10",
-  "description": "This is Ludmila Ferber. The essential tracks, all in one playlist.",
+  "description": "This is Ludmila Ferber. Todos os maiores hits em uma s\u00f3 playlist.",
   "name": "This Is Ludmila Ferber",
   "tracks": [
     {
@@ -146,7 +146,7 @@
       ],
       "date_added": "2023-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-28",
       "duration_ms": 243205,
       "name": "Andar com Deus",
       "url": "https://open.spotify.com/track/4EUkoxg641qUnJ1yExWWUA"
@@ -1026,6 +1026,32 @@
       "duration_ms": 332788,
       "name": "Sopra Esp\u00edrito",
       "url": "https://open.spotify.com/track/5922FUTIiDyxgRZoJ9Chlp"
+    },
+    {
+      "album": {
+        "name": "Sopra Esp\u00edrito - Na Igreja (In Memoriam de Ludmila Ferber, Ao Vivo)",
+        "url": "https://open.spotify.com/album/66pj0nSZDWBLGr6htD3P6i"
+      },
+      "artists": [
+        {
+          "name": "Marcos Freire",
+          "url": "https://open.spotify.com/artist/1WhgPbb1dZTZWicZlNbB7g"
+        },
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "date_added": "2024-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326547,
+      "name": "Sopra Esp\u00edrito - Na Igreja - In Memoriam de Ludmila Ferber, Ao Vivo",
+      "url": "https://open.spotify.com/track/6eFKpkeizLNEbipXtuL9AO"
     },
     {
       "album": {

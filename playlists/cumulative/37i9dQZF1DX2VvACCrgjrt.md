@@ -4,7 +4,7 @@
 
 > Real nasty house with Julian Jordan
 
-766 songs - 1 day 15 hr 44 min
+767 songs - 1 day 15 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Arrival](https://open.spotify.com/track/1HhfEj6K1gObPfi1nQfOyN) | [Capozzi](https://open.spotify.com/artist/1cNpMm9NSchdIe9RdGA1MC) | [Arrival](https://open.spotify.com/album/152sZrZc6xAtqSE0Y9fqv9) | 3:27 | 2022-05-06 | 2023-03-08 |
 | [Ascend](https://open.spotify.com/track/46LShzWCnFjCooJVFyKrKK) | [OVERWERK](https://open.spotify.com/artist/2f9PTWJfMMDTAFZcvHy1Z5), [CODEUNIT](https://open.spotify.com/artist/0OwyvnDOVdvrBhgHAkU9tC) | [Ascend](https://open.spotify.com/album/7FjAK5OapRFX541hRkEFlM) | 4:02 | 2024-04-12 |  |
 | [Asquerosa](https://open.spotify.com/track/5eMDSOp94CwdbgduVHApEj) | [Shahay](https://open.spotify.com/artist/1pjJMzKi91pQ2AWcEcXPZ2) | [Night Bass Freshmen Vol 6](https://open.spotify.com/album/4HaQp7QwyYbcjz5m4lAFHz) | 4:25 | 2021-10-29 | 2022-01-02 |
-| [Ass To The Back](https://open.spotify.com/track/3KlITvvpOjfOugac2vLfSM) | [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40) | [Ass To The Back](https://open.spotify.com/album/6lcQlZjJFS4tYVXv3ufIPQ) | 2:36 | 2024-01-26 |  |
+| [Ass To The Back](https://open.spotify.com/track/3KlITvvpOjfOugac2vLfSM) | [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40) | [Ass To The Back](https://open.spotify.com/album/6lcQlZjJFS4tYVXv3ufIPQ) | 2:36 | 2024-01-26 | 2024-05-28 |
 | [B.T.H.D \(Bring The House Down\)](https://open.spotify.com/track/6d39vg2NYSYH584ioqev75) | [Wenzday](https://open.spotify.com/artist/1TOclxL64oLeB45DFWFFU2) | [B.T.H.D \(Bring The House Down\)](https://open.spotify.com/album/3G3tu0CoisV0m8QlE1MXu6) | 3:40 | 2023-03-31 | 2023-06-11 |
 | [B.T.W\. \(The Whistle\)](https://open.spotify.com/track/2ERXSwA2OOOurhDraYDT39) | [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb) | [Slaughter House](https://open.spotify.com/album/63G2PgaJYMpzrsvQ9G3Uek) | 4:00 | 2023-04-21 | 2023-07-01 |
 | [Back 2 Back](https://open.spotify.com/track/1kZAtr2I4RlXDcOpZ7yA1C) | [longstoryshort](https://open.spotify.com/artist/1ExbGBgD1r1eRfFlVyAWWl), [Arya](https://open.spotify.com/artist/5O2s6fRMqbwIKGB9QrFrBQ) | [Back 2 Back](https://open.spotify.com/album/7rQoDyK6Osl9a05uyWf2cu) | 3:03 | 2022-09-30 | 2023-04-01 |
@@ -280,6 +280,7 @@
 | [Get In](https://open.spotify.com/track/4ishNa3yuhYvCLBRhCjFiy) | [Shahay](https://open.spotify.com/artist/1pjJMzKi91pQ2AWcEcXPZ2) | [Get In](https://open.spotify.com/album/69RX6uKhlhNJQ3jbdEuLnu) | 3:56 | 2021-10-29 | 2022-04-21 |
 | [Get It](https://open.spotify.com/track/34ExSjW2JsqM9V88quCH9Z) | [Galoski](https://open.spotify.com/artist/19gU7Hvep0G37JeiLf3TNB) | [Get It](https://open.spotify.com/album/1aew5ugGnswbfbubJMSfm9) | 2:19 | 2023-05-19 | 2023-08-23 |
 | [Get It](https://open.spotify.com/track/4fF0io7XLVOSx5TD8DDMpc) | [partywithray](https://open.spotify.com/artist/7AjFruVAKGzYPVuvD7T8Ex) | [Get It](https://open.spotify.com/album/3R0jtfmlb4Xd8zQOusrqNT) | 3:38 | 2022-03-25 | 2023-04-24 |
+| [Get It Now](https://open.spotify.com/track/1BKM1I18zJBgQBNJ90EFxk) | [Galoski](https://open.spotify.com/artist/19gU7Hvep0G37JeiLf3TNB), [Almero](https://open.spotify.com/artist/7q03I7IegvJ063qYJIg4kI) | [Get It Now](https://open.spotify.com/album/24TWQdus1y6gjYbWzTLja8) | 2:48 | 2024-05-24 |  |
 | [Get My Mind Right](https://open.spotify.com/track/5vDBcy4bP6ZyECZYwziFWJ) | [MASTERIA](https://open.spotify.com/artist/1cI5bP7j48xbopq0T3PRZO) | [Get My Mind Right](https://open.spotify.com/album/0axqQkX4vj2RegEqoZ13q2) | 3:51 | 2023-03-31 | 2023-04-02 |
 | [Get Twisted](https://open.spotify.com/track/1bp9JRk8v2Y6EoRvoPTnig) | [House Divided](https://open.spotify.com/artist/6Cq2iS9JhvjwEGwdVEWuti) | [Get Twisted](https://open.spotify.com/album/7Lqz9CLtfqIc4ZmubT1uMR) | 3:45 | 2022-07-22 | 2023-07-30 |
 | [Get Twisted](https://open.spotify.com/track/3fRBE44FFj6EXPtn4gXjXw) | [House Divided](https://open.spotify.com/artist/6Cq2iS9JhvjwEGwdVEWuti) | [Get Twisted](https://open.spotify.com/album/29xrShNnE0LyzZgDJQsEJF) | 3:45 | 2022-03-18 | 2022-10-13 |

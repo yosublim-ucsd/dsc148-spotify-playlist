@@ -1,6 +1,6 @@
 {
   "description": "The best of Latin Trap. Cover: Arcangel ",
-  "num_followers": 115376,
+  "num_followers": 115425,
   "original_name": "Trap Classics",
   "owner": {
     "name": "Spotify",
@@ -1523,6 +1523,26 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
+        "name": "Bodak Yellow (feat. Messiah) [Latin Trap Remix]",
+        "url": "https://open.spotify.com/album/54rsFhEOGmqDxm6dbUl0uU"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        },
+        {
+          "name": "Messiah",
+          "url": "https://open.spotify.com/artist/0tR60pwxQ5WKjPxQcKoCQ7"
+        }
+      ],
+      "duration_ms": 222720,
+      "name": "Bodak Yellow (feat. Messiah) - Latin Trap Remix",
+      "url": "https://open.spotify.com/track/1A8wl0pXbRvt3EAiOHROnt"
+    },
+    {
+      "added_at": "2023-05-25 17:50:01",
+      "album": {
         "name": "Percocet (Remix)",
         "url": "https://open.spotify.com/album/25lYUX9rZOX0zUUjuso6x1"
       },
@@ -1547,26 +1567,6 @@
       "duration_ms": 314626,
       "name": "Percocet - Remix",
       "url": "https://open.spotify.com/track/7H6OwsBoSI4BVWm5M7MTOQ"
-    },
-    {
-      "added_at": "2023-05-25 17:50:01",
-      "album": {
-        "name": "Bodak Yellow (feat. Messiah) [Latin Trap Remix]",
-        "url": "https://open.spotify.com/album/54rsFhEOGmqDxm6dbUl0uU"
-      },
-      "artists": [
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        },
-        {
-          "name": "Messiah",
-          "url": "https://open.spotify.com/artist/0tR60pwxQ5WKjPxQcKoCQ7"
-        }
-      ],
-      "duration_ms": 222720,
-      "name": "Bodak Yellow (feat. Messiah) - Latin Trap Remix",
-      "url": "https://open.spotify.com/track/1A8wl0pXbRvt3EAiOHROnt"
     },
     {
       "added_at": "2023-05-25 17:50:01",
@@ -1631,6 +1631,26 @@
       "duration_ms": 163320,
       "name": "ChuliGang",
       "url": "https://open.spotify.com/track/074SlodfrBibHYC0Y8Qata"
+    },
+    {
+      "added_at": "2023-05-25 17:50:01",
+      "album": {
+        "name": "Swaggy",
+        "url": "https://open.spotify.com/album/4z0P1TXAPhZtWn7w3TR0HY"
+      },
+      "artists": [
+        {
+          "name": "Alex Rose",
+          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
+        },
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "duration_ms": 258293,
+      "name": "Swaggy",
+      "url": "https://open.spotify.com/track/4mrM7WY6TjTSaBfnPRwRFK"
     },
     {
       "added_at": "2023-05-25 17:50:01",
@@ -1739,26 +1759,6 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
-        "name": "Swaggy",
-        "url": "https://open.spotify.com/album/4z0P1TXAPhZtWn7w3TR0HY"
-      },
-      "artists": [
-        {
-          "name": "Alex Rose",
-          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
-        },
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        }
-      ],
-      "duration_ms": 258293,
-      "name": "Swaggy",
-      "url": "https://open.spotify.com/track/4mrM7WY6TjTSaBfnPRwRFK"
-    },
-    {
-      "added_at": "2023-05-25 17:50:01",
-      "album": {
         "name": "La Calle",
         "url": "https://open.spotify.com/album/1GaaDeoQbKR1VHPxiEiPWZ"
       },
@@ -1819,6 +1819,22 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
+        "name": "Yo Siempre Ando Con Los Oidos Fresh",
+        "url": "https://open.spotify.com/album/1L05mwHVtfmhv3jEtOZlgZ"
+      },
+      "artists": [
+        {
+          "name": "Alex Rose",
+          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
+        }
+      ],
+      "duration_ms": 196400,
+      "name": "Donde Estabas Tu",
+      "url": "https://open.spotify.com/track/30QSKagzGltOrfiUTyxgge"
+    },
+    {
+      "added_at": "2023-05-25 17:50:01",
+      "album": {
         "name": "Bipolar",
         "url": "https://open.spotify.com/album/3VnPV75DGyQMdljH0OHgx3"
       },
@@ -1859,42 +1875,6 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
-        "name": "Yo Siempre Ando Con Los Oidos Fresh",
-        "url": "https://open.spotify.com/album/1L05mwHVtfmhv3jEtOZlgZ"
-      },
-      "artists": [
-        {
-          "name": "Alex Rose",
-          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
-        }
-      ],
-      "duration_ms": 196400,
-      "name": "Donde Estabas Tu",
-      "url": "https://open.spotify.com/track/30QSKagzGltOrfiUTyxgge"
-    },
-    {
-      "added_at": "2023-05-25 17:50:01",
-      "album": {
-        "name": "Flow Cabron",
-        "url": "https://open.spotify.com/album/1FtXYDP6jhW0TQv1fZ6MQK"
-      },
-      "artists": [
-        {
-          "name": "Tali",
-          "url": "https://open.spotify.com/artist/5W3QNsK8PQNTvI9Y9PDyhs"
-        },
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        }
-      ],
-      "duration_ms": 226371,
-      "name": "Flow Cabron",
-      "url": "https://open.spotify.com/track/6QB7eBG71AcW3PHfuMiEoH"
-    },
-    {
-      "added_at": "2023-05-25 17:50:01",
-      "album": {
         "name": "Me Ama Me Odia",
         "url": "https://open.spotify.com/album/6pNZHxBouGsNlFYv3nxjgI"
       },
@@ -1923,6 +1903,26 @@
       "duration_ms": 327076,
       "name": "Me Ama Me Odia",
       "url": "https://open.spotify.com/track/5TpmzdjifuwWQZKE421TTq"
+    },
+    {
+      "added_at": "2023-05-25 17:50:01",
+      "album": {
+        "name": "Flow Cabron",
+        "url": "https://open.spotify.com/album/1FtXYDP6jhW0TQv1fZ6MQK"
+      },
+      "artists": [
+        {
+          "name": "Tali",
+          "url": "https://open.spotify.com/artist/5W3QNsK8PQNTvI9Y9PDyhs"
+        },
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "duration_ms": 226371,
+      "name": "Flow Cabron",
+      "url": "https://open.spotify.com/track/6QB7eBG71AcW3PHfuMiEoH"
     },
     {
       "added_at": "2023-05-25 17:50:01",
@@ -1999,50 +1999,6 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
-        "name": "Costear (Remix)",
-        "url": "https://open.spotify.com/album/4s0aVy2iYuYsKMc4AOqQGY"
-      },
-      "artists": [
-        {
-          "name": "Jhayco",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        },
-        {
-          "name": "Mariah Angeliq",
-          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
-        },
-        {
-          "name": "Eq",
-          "url": "https://open.spotify.com/artist/2PKri8qrwMoXCsm3D9Zpzh"
-        }
-      ],
-      "duration_ms": 224506,
-      "name": "Costear - Remix",
-      "url": "https://open.spotify.com/track/512HrKUa80id5XGLw0cuXP"
-    },
-    {
-      "added_at": "2023-05-25 17:50:01",
-      "album": {
-        "name": "Gan-Ga (Remix)",
-        "url": "https://open.spotify.com/album/5P7PAnKAqVcczk8v9m23HK"
-      },
-      "artists": [
-        {
-          "name": "Bryant Myers",
-          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 193363,
-      "name": "Gan-Ga - Remix",
-      "url": "https://open.spotify.com/track/27qRmG3zOWPvMYUkpPdQ1g"
-    },
-    {
-      "added_at": "2023-05-25 17:50:01",
-      "album": {
         "name": "Ahora Dice",
         "url": "https://open.spotify.com/album/7JiRyDVQealzbiLq8b1mOb"
       },
@@ -2067,6 +2023,26 @@
       "duration_ms": 271080,
       "name": "Ahora Dice",
       "url": "https://open.spotify.com/track/5LVoGJTyG6fLJgoGkY2QAZ"
+    },
+    {
+      "added_at": "2023-05-25 17:50:01",
+      "album": {
+        "name": "Gan-Ga (Remix)",
+        "url": "https://open.spotify.com/album/5P7PAnKAqVcczk8v9m23HK"
+      },
+      "artists": [
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 193363,
+      "name": "Gan-Ga - Remix",
+      "url": "https://open.spotify.com/track/27qRmG3zOWPvMYUkpPdQ1g"
     },
     {
       "added_at": "2023-05-25 17:50:01",
@@ -2099,6 +2075,30 @@
       "duration_ms": 299194,
       "name": "Caile",
       "url": "https://open.spotify.com/track/6l4qSMR0iVGnZibf5piyJ8"
+    },
+    {
+      "added_at": "2023-05-25 17:50:01",
+      "album": {
+        "name": "Costear (Remix)",
+        "url": "https://open.spotify.com/album/4s0aVy2iYuYsKMc4AOqQGY"
+      },
+      "artists": [
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        },
+        {
+          "name": "Mariah Angeliq",
+          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
+        },
+        {
+          "name": "Eq",
+          "url": "https://open.spotify.com/artist/2PKri8qrwMoXCsm3D9Zpzh"
+        }
+      ],
+      "duration_ms": 224506,
+      "name": "Costear - Remix",
+      "url": "https://open.spotify.com/track/512HrKUa80id5XGLw0cuXP"
     },
     {
       "added_at": "2023-05-25 17:50:01",

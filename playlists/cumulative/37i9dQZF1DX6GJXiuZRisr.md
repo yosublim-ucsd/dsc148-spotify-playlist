@@ -4,7 +4,7 @@
 
 > Progressive <a href="spotify:genre:edm\_dance">house</a> music for the late night highway.
 
-493 songs - 1 day 10 hr 50 min
+494 songs - 1 day 10 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -267,7 +267,7 @@
 | [Meru](https://open.spotify.com/track/0g6ETeguyh9nVpvXunhCzb) | [Gil Zambrano](https://open.spotify.com/artist/0unsoQpK3DQyCnKzWcDfJ0) | [Meru](https://open.spotify.com/album/6nvbxjQkkmoKSFs31HhhHu) | 3:52 | 2021-05-07 | 2022-06-30 |
 | [Metro](https://open.spotify.com/track/1YWLrDcr0yl0GfeDvuGX1z) | [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx), [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Metro](https://open.spotify.com/album/0ocTSn2voe5urhlqJaLjfC) | 3:59 | 2024-01-05 | 2024-04-19 |
 | [Metro](https://open.spotify.com/track/6kkf975GwERykpvOTu7IXZ) | [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx), [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Metro](https://open.spotify.com/album/2PjqXRSqBqvHWArQRYCNbS) | 3:59 | 2023-07-14 |  |
-| [Midnight](https://open.spotify.com/track/0GhMImCJ8bJ1oKDZOhUedJ) | [Andrew Bayer](https://open.spotify.com/artist/5dFuu05x8SPBuymudrTBU8), [Alison May](https://open.spotify.com/artist/6jd3NCxzDeLS4wAO168T60) | [Midnight / Equal](https://open.spotify.com/album/0d0qkrl074gj4TT2uj35iU) | 8:00 | 2022-08-26 |  |
+| [Midnight](https://open.spotify.com/track/0GhMImCJ8bJ1oKDZOhUedJ) | [Andrew Bayer](https://open.spotify.com/artist/5dFuu05x8SPBuymudrTBU8), [Alison May](https://open.spotify.com/artist/6jd3NCxzDeLS4wAO168T60) | [Midnight / Equal](https://open.spotify.com/album/0d0qkrl074gj4TT2uj35iU) | 8:00 | 2022-08-26 | 2024-05-28 |
 | [Mind Still \(feat\. blythe\)](https://open.spotify.com/track/5698qx5K7VmYzeJ6O4WR7v) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [blythe](https://open.spotify.com/artist/3a6XMXgL5f92tw3wX42kOC) | [Mind Still \(feat\. blythe\)](https://open.spotify.com/album/5vQgixmnyYGp53WtWEfBtQ) | 2:36 | 2024-04-19 |  |
 | [Miracles](https://open.spotify.com/track/3BaywzVZGn8Z1kmVGUvmCz) | [AVIRA](https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS) | [Miracles](https://open.spotify.com/album/5TUntnLcRe7YdSjrVQFOoF) | 3:03 | 2021-05-07 | 2022-05-16 |
 | [Monkey & Disorder](https://open.spotify.com/track/7JCFsXGVsFPEhzvTkdjFsf) | [Mooglie](https://open.spotify.com/artist/3VejcuVO9JCQ9e23syZSoJ) | [Prélude](https://open.spotify.com/album/6bbYm4X9iwpNE1BIjtuAkd) | 6:07 | 2021-05-07 | 2022-04-21 |
@@ -457,6 +457,7 @@
 | [Ultraviolet \(2022\)](https://open.spotify.com/track/46iNTZ0LIKZEBOqzXHA9sE) | [Paul Thomas](https://open.spotify.com/artist/32IkwkKb3BkxUGAzSjaBI8) | [Ultraviolet \(2022\)](https://open.spotify.com/album/4346HSVfG9ZOESnoWDYWfH) | 3:42 | 2022-02-04 | 2022-07-27 |
 | [Umbra](https://open.spotify.com/track/6WJll3eZF7ok5LAKouTj61) | [Layer J](https://open.spotify.com/artist/48KALXBf9Ookq2j30lSKBf), [Sebek](https://open.spotify.com/artist/070GpDQjNHzkY6j2OrFcrA) | [Umbra](https://open.spotify.com/album/5n8XJ70T3OkIFOGOsL8YvA) | 8:19 | 2021-05-07 | 2022-04-21 |
 | [Under My Skin](https://open.spotify.com/track/0Qsm4e0tjof17GOrxoRhLO) | [Korolova](https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx), [Richard Judge](https://open.spotify.com/artist/5z275L9haKWG328mm7UFd3) | [Under My Skin](https://open.spotify.com/album/1fqzT3Bwp9puo8c7kl0j3i) | 3:42 | 2023-07-21 |  |
+| [Under Pressure](https://open.spotify.com/track/0pts9b6iz93rMS6XKhri0V) | [Jason Ross](https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150), [Kill The Noise](https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [Under Pressure](https://open.spotify.com/album/4dBYQY3XWW4txP7EyMoSEE) | 3:46 | 2024-05-24 |  |
 | [Underwater](https://open.spotify.com/track/05VS9ifTEUpV6RiajKLxxW) | [19Clouds](https://open.spotify.com/artist/0AWnGbHpn20wrP1nlFNSnF) | [Underwater](https://open.spotify.com/album/2Te7Vf1TcGQBbSlh3BRWat) | 2:47 | 2024-03-15 |  |
 | [Underwater](https://open.spotify.com/track/3SXRZuCEGbbxsPiHyqwWuG) | [Anabel Englund](https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [Underwater](https://open.spotify.com/album/66rcyq2d4MQDcWe6iVoUyc) | 2:57 | 2021-05-07 | 2022-08-26 |
 | [Underwater](https://open.spotify.com/track/5j1XuqSJqLDRceRqMjcUhT) | [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Underwater](https://open.spotify.com/album/2lHojU2mWFc5mVAkz3B9x2) | 3:01 | 2024-02-23 |  |

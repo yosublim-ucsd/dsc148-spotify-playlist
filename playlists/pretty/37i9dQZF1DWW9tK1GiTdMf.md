@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain](/playlists/plain/37i9dQZF1DWW9tK1GiTdMf) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWW9tK1GiTdMf)
 
-### [sanguegiovane 🩸](https://open.spotify.com/playlist/37i9dQZF1DWW9tK1GiTdMf)
+### [sanguegiovane: Live al MI AMI](https://open.spotify.com/playlist/37i9dQZF1DWW9tK1GiTdMf)
 
-> canzoni che ti fanno ribaltare i tavoli \(╯°□°\)╯︵ ┻━┻ Cover: EMMA
+> Musica che ti fa ribaltare i tavoli e dare baci\. In cover EMMA, live al <a href="https://www.instagram.com/miami\_fest/">MI AMI</a>! Foto di <a href="https://www.instagram.com/silviaviolanterouge/">@silviaviolanterouge</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,463 likes - 100 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,466 likes - 100 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 99 | [Crepuscolo](https://open.spotify.com/track/44F4bqGIhKirUSSf3kLX3g) | [Mandark](https://open.spotify.com/artist/0Y6B1fQJ0pFHBzYRRN8Bp6) | [Crepuscolo](https://open.spotify.com/album/0FsMV9DUvjF9aJHU91ME9B) | 2:43 |
 | 100 | [Lady Blue](https://open.spotify.com/track/3FvKihEBLCxOUJKmgDDcf8) | [Maximilian](https://open.spotify.com/artist/2ysBLiVHbTXWPcYXNE9U4m) | [Lady Blue + Mi annoia](https://open.spotify.com/album/1gtOjANtq3zsSaoLp7AwYY) | 3:12 |
 
-Snapshot ID: `Zk+8nAAAAADC6Tz4B7MdJfH0VcDWitDw`
+Snapshot ID: `ZlUCnAAAAADhTjQ6NEZkZkdXCzJo2K8Z`

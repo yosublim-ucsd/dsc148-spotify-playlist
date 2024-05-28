@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "La playlist che \u00e8 come andare ai concerti. Novit\u00e0 rock, indie e punk dall'Italia! Brucher\u00f2 nei pascoli in cover.",
+  "description": "La playlist che \u00e8 come andare ai concerti\u2014al <a href=\"https://www.instagram.com/miami_fest/\">MI AMI</a>, per esempio. GIALLORENZO in cover. Foto di <a href=\"https://www.instagram.com/agnemag/\">@agnemag</a>",
   "name": "Rock Italia",
   "tracks": [
     {
@@ -12492,6 +12492,24 @@
       "duration_ms": 156040,
       "name": "Proprio tu",
       "url": "https://open.spotify.com/track/1dzvJ0UzxAn9GanymgMJgP"
+    },
+    {
+      "album": {
+        "name": "SUPER SOFT RESET",
+        "url": "https://open.spotify.com/album/5kaQXfAFOl3NQeQkyPHTsU"
+      },
+      "artists": [
+        {
+          "name": "GIALLORENZO",
+          "url": "https://open.spotify.com/artist/2RLRns6qSiW71iNV3lT0yC"
+        }
+      ],
+      "date_added": "2024-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159253,
+      "name": "PROVARCI",
+      "url": "https://open.spotify.com/track/4iJB2h5pgLPgvYc09TOSs2"
     },
     {
       "album": {

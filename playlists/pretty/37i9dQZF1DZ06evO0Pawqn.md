@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Pawqn.md) - [plain]
 
 > This is Los Tiranos Del Norte\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,174 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,176 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Pawqn.md) - [plain]
 | 44 | [De Corazon Ranchero](https://open.spotify.com/track/4nARb8o7ElcHDrAoeVj6K8) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Mis 30 Mejores Canciones](https://open.spotify.com/album/5sZ8JHwkEV2s0Dbv0ylSmZ) | 3:03 |
 | 45 | [En Tu Dia Mi Amor](https://open.spotify.com/track/7h6ulEngQG3YQqX8DPpZFH) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Hermosa Tirana](https://open.spotify.com/album/6L69NftVVtlSbBjaegb0Jn) | 2:49 |
 | 46 | [Corazon de Vecindad](https://open.spotify.com/track/56tdpVNcEEwCTIvaZRlRk9) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Tesoros de Coleccion, Vol\. 1](https://open.spotify.com/album/43YQOZfMDgWtqa2LZ7R7eR) | 3:07 |
-| 47 | [Rosas Tristes](https://open.spotify.com/track/21gb8fPgoAR7V31dnqr0f0) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Invencibles](https://open.spotify.com/album/12ECqvcpA6cSRdDN8sif7c) | 2:37 |
-| 48 | [Homenaje A Los Grandes: Si No Hay Dinero](https://open.spotify.com/track/7EvjaFNG178iozRotq59ke) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H), [Grupo Silverado](https://open.spotify.com/artist/1vM02XMErBg8ukQrjgtprm) | [Homenaje A Los Grandes: Si No Hay Dinero](https://open.spotify.com/album/4FQQsHsftxdwECY3ixNwLk) | 2:27 |
+| 47 | [Homenaje A Los Grandes: Si No Hay Dinero](https://open.spotify.com/track/7EvjaFNG178iozRotq59ke) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H), [Grupo Silverado](https://open.spotify.com/artist/1vM02XMErBg8ukQrjgtprm) | [Homenaje A Los Grandes: Si No Hay Dinero](https://open.spotify.com/album/4FQQsHsftxdwECY3ixNwLk) | 2:27 |
+| 48 | [Rosas Tristes](https://open.spotify.com/track/21gb8fPgoAR7V31dnqr0f0) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Invencibles](https://open.spotify.com/album/12ECqvcpA6cSRdDN8sif7c) | 2:37 |
 | 49 | [Hasta La Miel Amarga \(En vivo\)](https://open.spotify.com/track/09svmcMAbgXvCsP1kMsLjj) | [Los Nuevos Rebeldes](https://open.spotify.com/artist/3OFZZxPrO2uYjDVglqTwEr), [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Hasta La Miel Amarga \(En vivo\)](https://open.spotify.com/album/4CiA8UW1cPEuZAg32uBjAp) | 3:29 |
 | 50 | [Que Se Ponga Bueno](https://open.spotify.com/track/11HWyg7HjFhrYndw5NFR73) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Que Se Ponga Bueno](https://open.spotify.com/album/59GDfzRZVdT2C24usuvrWJ) | 2:40 |
 
-Snapshot ID: `ZlEqAAAAAADveXBiC3Umsk0z/H6fdK7m`
+Snapshot ID: `ZlJ7gAAAAADrLcdoxWIouPQYINhuPjv2`

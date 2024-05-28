@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain](/playlists/plain/37i9dQZF1DWVCuOatqCW5M) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVCuOatqCW5M)
 
-### [New Music Friday Hindi ](https://open.spotify.com/playlist/37i9dQZF1DWVCuOatqCW5M)
+### [New Music Friday I\-Pop ](https://open.spotify.com/playlist/37i9dQZF1DWVCuOatqCW5M)
 
-> New music from popular Hindi artists\. Cover\- Arjuna Harjai
+> Latest music from your fav I\-Pop artists\. Cover\- Arjuna Harjai
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,889 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,911 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 49 | [Pahadon Mein](https://open.spotify.com/track/4mIFaN3SWgBJlLjnyAMeg4) | [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507) | [Pahadon Mein](https://open.spotify.com/album/42EaMqAVeCVfHf11gVC25d) | 3:51 |
 | 50 | [Dil Kya Kare](https://open.spotify.com/track/05cPakbRjt3D3Zsn8HqXDS) | [Stebin Ben](https://open.spotify.com/artist/1UAzmnFgjizIDvtHvnCdEq), [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES), [Lijo George](https://open.spotify.com/artist/4VS3XraXs2LRsowQnQ7VFh) | [Dil Kya Kare](https://open.spotify.com/album/23mkzLZ198waE7RzeA14m5) | 3:17 |
 
-Snapshot ID: `Zk9vCAAAAABGdC3kjZ+gtQbO8gciBvIN`
+Snapshot ID: `ZlQRsgAAAAAOhuqXA9wyr//5E73oSGzS`

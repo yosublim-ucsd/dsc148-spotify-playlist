@@ -4,7 +4,7 @@
 
 > Indie soul that's highkey fire
 
-714 songs - 1 day 15 hr 3 min
+715 songs - 1 day 15 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [Believe It](https://open.spotify.com/track/34Q2IJkAq6QbRHhEeDWOrl) | [Jean Deaux](https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg) | [nowhere, fast](https://open.spotify.com/album/1oEDfMIpHpl9pVZsqhFo2L) | 3:21 | 2024-04-12 |  |
 | [bend yr ear](https://open.spotify.com/track/3mslSmibP6M7u9RQEOZ2Zh) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [Like Neptune](https://open.spotify.com/album/014KjVEwCWxN2hWFYsUWNB) | 3:53 | 2023-03-10 |  |
 | [Best Feature](https://open.spotify.com/track/0ZrdBusEajQaIKl7jdJ8u4) | [CUBE](https://open.spotify.com/artist/1r3YnMSGcT7Hnm76aStA3r), [Devin Morrison](https://open.spotify.com/artist/4AgZVM5339ZoMyg38nYyYW) | [Best Feature \(feat\. Devin Morrison\)](https://open.spotify.com/album/1GcA64V8B5DPt5QxVj7aF3) | 3:23 | 2023-02-07 |  |
-| [Better Care](https://open.spotify.com/track/0ObifqYUwrZOSDSkgJMGLf) | [UNA MIA](https://open.spotify.com/artist/0wWj7u5D7ksVZp8qVuCuz0) | [Better Care](https://open.spotify.com/album/7ESHyi4MorUD8bQ9qKcs6Y) | 3:26 | 2024-02-09 |  |
+| [Better Care](https://open.spotify.com/track/0ObifqYUwrZOSDSkgJMGLf) | [UNA MIA](https://open.spotify.com/artist/0wWj7u5D7ksVZp8qVuCuz0) | [Better Care](https://open.spotify.com/album/7ESHyi4MorUD8bQ9qKcs6Y) | 3:26 | 2024-02-09 | 2024-05-28 |
 | [Better Care \- Remix](https://open.spotify.com/track/0vxQhrAQYLElaXMh2EFB4l) | [UNA MIA](https://open.spotify.com/artist/0wWj7u5D7ksVZp8qVuCuz0), [Lekan](https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv) | [Better Care \(Remix\)](https://open.spotify.com/album/45CNxXO0n5ZWhp1RtquSLR) | 3:39 | 2024-03-22 |  |
 | [better than me](https://open.spotify.com/track/4xSV6XMbiEN5ZlJeKBGSTk) | [Tia Gordon](https://open.spotify.com/artist/5rXNmuTfaGC8hw0JEQOpLc) | [with love\. x](https://open.spotify.com/album/4YHQJ6xn5SmN5N8esu03ve) | 3:01 | 2024-04-12 |  |
 | [Between The Lines](https://open.spotify.com/track/1xVXwe9tzL11euCkfupQES) | [Gwen Bunn](https://open.spotify.com/artist/6dPh96zLnVMZVHnr66WRjg), [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn) | [Between The Lines](https://open.spotify.com/album/6lCouTlJCmzbCAysQCYXls) | 3:43 | 2021-12-15 | 2022-04-16 |
@@ -630,6 +630,7 @@
 | [The One](https://open.spotify.com/track/4V4hP1FCrFDuDOx7s5KKtY) | [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq), [SHOW N PROVE](https://open.spotify.com/artist/0w2Ehjy06vmXNTs3e3NQIU) | [Not a Statistic](https://open.spotify.com/album/3S3Y5hgJzM0CIwdx2pNMQh) | 2:16 | 2023-01-27 | 2023-04-15 |
 | [These Days](https://open.spotify.com/track/3u0s2L2nv0gUuDwLlVi4qH) | [Manwolves](https://open.spotify.com/artist/6RCI4WXRwG9jnRHZgzBYFr) | [These Days](https://open.spotify.com/album/0tgZwo1Li7rgLBzSEF2eIh) | 3:59 | 2022-06-30 | 2023-03-11 |
 | [These Days](https://open.spotify.com/track/4UW4I0a056lfIaghMSvaf4) | [Manwolves](https://open.spotify.com/artist/6RCI4WXRwG9jnRHZgzBYFr) | [These Days](https://open.spotify.com/album/132ikw1dw0R8ZiRcn2Zkgs) | 3:59 | 2021-12-15 | 2022-07-20 |
+| [Think of You](https://open.spotify.com/track/2dYL469cuGqLCRxsbz1q7G) | [CLAY](https://open.spotify.com/artist/20aPu5vizjmoX2A7f7AOWL) | [Think of You](https://open.spotify.com/album/6JKWVVw9NKQIBUBhkBE5J4) | 2:35 | 2024-03-29 |  |
 | [THINK TWICE](https://open.spotify.com/track/0SjibUhSN9ozHhwAVpHMAg) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf) | [FORWARD](https://open.spotify.com/album/367frJ4GG9UMlXlMrVanYL) | 2:11 | 2023-05-05 | 2023-08-26 |
 | [Thinkin Bout You](https://open.spotify.com/track/2qP6SxFe1uNYqyAsfTZbVF) | [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu), [Jeremy Passion](https://open.spotify.com/artist/5Z8UTQtTYNu5o5FA66LFgv) | [Thinkin Bout You](https://open.spotify.com/album/3xKlRIOyVoZ7Adod9934TY) | 3:02 | 2023-07-07 | 2023-07-15 |
 | [Thinking Less](https://open.spotify.com/track/4QDAVHo7gtwrRp3aNpHdZm) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Thinking Less](https://open.spotify.com/album/3nlJCjmJXerAEitId6gwFW) | 2:42 | 2024-02-17 |  |

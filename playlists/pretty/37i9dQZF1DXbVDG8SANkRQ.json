@@ -1,15 +1,31 @@
 {
   "description": "Listen to the soundtracks of The Atypical Family. (\ud788\uc5b4\ub85c\ub294 \uc544\ub2d9\ub2c8\ub2e4\ub9cc\uc758 \uc0ac\uc6b4\ub4dc \ud2b8\ub799\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694!) You can also listen to songs selected by the cast. (\ucd9c\uc5f0\uc9c4\ub4e4\uc774 \uc9c1\uc811 \uc120\uc815\ud55c \ucd94\ucc9c\uace1\ub4e4\ub3c4 \ub4e4\uc5b4\ubcf4\uc2e4 \uc218 \uc788\uc2b5\ub2c8\ub2e4.)",
-  "num_followers": 1455,
+  "num_followers": 1770,
   "original_name": "\ud788\uc5b4\ub85c\ub294 \uc544\ub2d9\ub2c8\ub2e4\ub9cc (The Atypical Family)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zk7PBQAAAAC1AHmvPKsfUoQ3hnb7kmMG",
+  "snapshot_id": "ZlQ6/AAAAAAsarMr7R3Jxbg+mpFOYu8r",
   "tracks": [
     {
-      "added_at": "2024-05-23 05:07:17",
+      "added_at": "2024-05-27 07:49:16",
+      "album": {
+        "name": "The Atypical Family (Original Television Soundtrack), Pt. 3",
+        "url": "https://open.spotify.com/album/1eHNGz5204SsrzVcBB5HTZ"
+      },
+      "artists": [
+        {
+          "name": "Yi Sung Yol",
+          "url": "https://open.spotify.com/artist/1uwchldM1ngqs8xCZg0DK9"
+        }
+      ],
+      "duration_ms": 196880,
+      "name": "La Puta",
+      "url": "https://open.spotify.com/track/3Zl3GZDFHxFXOVleILTu0n"
+    },
+    {
+      "added_at": "2024-05-27 07:49:16",
       "album": {
         "name": "The Atypical Family (Original Television Soundtrack), Pt. 1",
         "url": "https://open.spotify.com/album/02ncFx6427PIjjkmxToigw"
@@ -25,7 +41,7 @@
       "url": "https://open.spotify.com/track/7fz4jscCC4eiXiAFPujYfY"
     },
     {
-      "added_at": "2024-05-23 05:07:17",
+      "added_at": "2024-05-27 07:49:16",
       "album": {
         "name": "The Atypical Family (Original Television Soundtrack), Pt. 2",
         "url": "https://open.spotify.com/album/4vq5IM3eib2FIDfPdu23fP"
@@ -41,7 +57,7 @@
       "url": "https://open.spotify.com/track/2tjzHzqMMoCy9xWU0MAP3Q"
     },
     {
-      "added_at": "2024-05-23 05:07:17",
+      "added_at": "2024-05-27 07:49:16",
       "album": {
         "name": "The Atypical Family audio liners",
         "url": "https://open.spotify.com/album/5ymxUo6ULwR2JIbCUKV2qE"
@@ -57,7 +73,7 @@
       "url": "https://open.spotify.com/track/45LMKYF5OrC8tqtPPHJjow"
     },
     {
-      "added_at": "2024-05-23 05:07:17",
+      "added_at": "2024-05-27 07:49:16",
       "album": {
         "name": "Walking Together",
         "url": "https://open.spotify.com/album/286U6R2fhZmWXDKCRkHbZn"
@@ -73,7 +89,7 @@
       "url": "https://open.spotify.com/track/143MWj1w7d5G5Hpn2bYyqv"
     },
     {
-      "added_at": "2024-05-23 05:07:17",
+      "added_at": "2024-05-27 07:49:16",
       "album": {
         "name": "\uc774\ubb38\uc138 4\uc9d1",
         "url": "https://open.spotify.com/album/031envKZiWUDD9cRdb0ZbX"
@@ -89,7 +105,7 @@
       "url": "https://open.spotify.com/track/3cYwojQBARfO4er7J65RJ6"
     },
     {
-      "added_at": "2024-05-23 05:07:17",
+      "added_at": "2024-05-27 07:49:16",
       "album": {
         "name": "Goodbye, grief.",
         "url": "https://open.spotify.com/album/2Db7g2nYCXggiNOJc59vkS"
@@ -105,7 +121,7 @@
       "url": "https://open.spotify.com/track/3DmDPYRQYdYE5gWf2DiKn2"
     },
     {
-      "added_at": "2024-05-23 05:07:17",
+      "added_at": "2024-05-27 07:49:16",
       "album": {
         "name": "Fatalit\u00e9",
         "url": "https://open.spotify.com/album/3ogTKzlyyTGUGMaeQcfxFd"
@@ -121,7 +137,7 @@
       "url": "https://open.spotify.com/track/5RaumpEM9lcg4yH5xHw6is"
     },
     {
-      "added_at": "2024-05-23 05:07:17",
+      "added_at": "2024-05-27 07:49:16",
       "album": {
         "name": "Dream",
         "url": "https://open.spotify.com/album/4Ig3JbiTtP5JFdV32fCOdx"
@@ -137,7 +153,7 @@
       "url": "https://open.spotify.com/track/6UWneVTyCOrJwDoqo1huD0"
     },
     {
-      "added_at": "2024-05-23 05:07:17",
+      "added_at": "2024-05-27 07:49:16",
       "album": {
         "name": "The Atypical Family audio liners",
         "url": "https://open.spotify.com/album/5ymxUo6ULwR2JIbCUKV2qE"
@@ -153,7 +169,7 @@
       "url": "https://open.spotify.com/track/6iFgumAWuMP48lKxscY3UX"
     },
     {
-      "added_at": "2024-05-23 05:07:17",
+      "added_at": "2024-05-27 07:49:16",
       "album": {
         "name": "Monologue",
         "url": "https://open.spotify.com/album/2vdtU1KZ2owCBxjBC5WebE"
@@ -169,7 +185,7 @@
       "url": "https://open.spotify.com/track/5FKdWT5A7vDTEnPiHrruFY"
     },
     {
-      "added_at": "2024-05-23 05:07:17",
+      "added_at": "2024-05-27 07:49:16",
       "album": {
         "name": "7th Album",
         "url": "https://open.spotify.com/album/25evl4uFTZnYnLcUwrl0Oa"
@@ -185,7 +201,7 @@
       "url": "https://open.spotify.com/track/1ZtNqfSaprIvXSKPUQyKyN"
     },
     {
-      "added_at": "2024-05-23 05:07:17",
+      "added_at": "2024-05-27 07:49:16",
       "album": {
         "name": "REMIND",
         "url": "https://open.spotify.com/album/2wA8OXIv1JXX9kTY2ddfR4"
@@ -201,7 +217,7 @@
       "url": "https://open.spotify.com/track/1WFj1P1TUJJXH1R41PP9Vg"
     },
     {
-      "added_at": "2024-05-23 05:07:17",
+      "added_at": "2024-05-27 07:49:16",
       "album": {
         "name": "Dandelion",
         "url": "https://open.spotify.com/album/3Jshf9ojwr5KPw0WznX3uk"
@@ -217,7 +233,7 @@
       "url": "https://open.spotify.com/track/64KOSEJ9ZlV75JPxro5Chp"
     },
     {
-      "added_at": "2024-05-23 05:07:17",
+      "added_at": "2024-05-27 07:49:16",
       "album": {
         "name": "Most Ordinary Existence",
         "url": "https://open.spotify.com/album/4QEgFm1iVCWyHiSTM72YGX"
@@ -233,7 +249,7 @@
       "url": "https://open.spotify.com/track/5gul4JnFkIcBcG5TE4RkXS"
     },
     {
-      "added_at": "2024-05-23 05:07:17",
+      "added_at": "2024-05-27 07:49:16",
       "album": {
         "name": "The Atypical Family audio liners",
         "url": "https://open.spotify.com/album/5ymxUo6ULwR2JIbCUKV2qE"
@@ -249,7 +265,7 @@
       "url": "https://open.spotify.com/track/4duOYkxCbYKH9BK6d83U2Y"
     },
     {
-      "added_at": "2024-05-23 05:07:17",
+      "added_at": "2024-05-27 07:49:16",
       "album": {
         "name": "Eat",
         "url": "https://open.spotify.com/album/4xI4eqUbq72Dk1slHQePQW"
@@ -265,7 +281,7 @@
       "url": "https://open.spotify.com/track/09Nhl3YQnChjlq8WmJz7FS"
     },
     {
-      "added_at": "2024-05-23 05:07:17",
+      "added_at": "2024-05-27 07:49:16",
       "album": {
         "name": "Cheap Coffee",
         "url": "https://open.spotify.com/album/69ElLtD9AS1Gf0G7LdIVP1"
@@ -281,7 +297,7 @@
       "url": "https://open.spotify.com/track/7xwV244UE1fyGX7BlSa4GS"
     },
     {
-      "added_at": "2024-05-23 05:07:17",
+      "added_at": "2024-05-27 07:49:16",
       "album": {
         "name": "Ice Cream (with Selena Gomez)",
         "url": "https://open.spotify.com/album/2VBb4LRcRSACOfJWRUgVZl"
@@ -301,7 +317,7 @@
       "url": "https://open.spotify.com/track/2J4P46vCFm1rPkNkp9pZWX"
     },
     {
-      "added_at": "2024-05-23 05:07:17",
+      "added_at": "2024-05-27 07:49:16",
       "album": {
         "name": "Drunk On Love",
         "url": "https://open.spotify.com/album/6Tz4F7xbVIYAgrwhUHERU8"
@@ -321,7 +337,7 @@
       "url": "https://open.spotify.com/track/6Vu5jrlveGRcQ7FqUujsut"
     },
     {
-      "added_at": "2024-05-23 05:07:17",
+      "added_at": "2024-05-27 07:49:16",
       "album": {
         "name": "Tom's Album",
         "url": "https://open.spotify.com/album/0eV4zOG2uMHbQoexXCkK4z"
@@ -341,7 +357,7 @@
       "url": "https://open.spotify.com/track/7f9sC9fvtjYSZYOLSmKJlq"
     },
     {
-      "added_at": "2024-05-23 05:07:17",
+      "added_at": "2024-05-27 07:49:16",
       "album": {
         "name": "The Atypical Family audio liners",
         "url": "https://open.spotify.com/album/5ymxUo6ULwR2JIbCUKV2qE"
@@ -357,7 +373,7 @@
       "url": "https://open.spotify.com/track/3dNUd39ER4YTRlD485jB0u"
     },
     {
-      "added_at": "2024-05-23 05:07:17",
+      "added_at": "2024-05-27 07:49:16",
       "album": {
         "name": "ME",
         "url": "https://open.spotify.com/album/4QuczuzDZNzCDli5Gz6DQ0"
@@ -373,7 +389,7 @@
       "url": "https://open.spotify.com/track/69CrOS7vEHIrhC2ILyEi0s"
     },
     {
-      "added_at": "2024-05-23 05:07:17",
+      "added_at": "2024-05-27 07:49:16",
       "album": {
         "name": "PLAY",
         "url": "https://open.spotify.com/album/1eu07xRE0vQfN5et0Y3DAy"
@@ -389,7 +405,7 @@
       "url": "https://open.spotify.com/track/2A3ShNautqXezP1lFDePwa"
     },
     {
-      "added_at": "2024-05-23 05:07:17",
+      "added_at": "2024-05-27 07:49:16",
       "album": {
         "name": "ASTERUM : The Shape of Things to Come",
         "url": "https://open.spotify.com/album/0BlLhv46UtmO6UodMnwaYF"
@@ -405,7 +421,7 @@
       "url": "https://open.spotify.com/track/1lODrFR40rSNAw5cX4j2J2"
     },
     {
-      "added_at": "2024-05-23 05:07:17",
+      "added_at": "2024-05-27 07:49:16",
       "album": {
         "name": "BABYMONS7ER",
         "url": "https://open.spotify.com/album/0eSbsl3j8jz96LC2NCLPc4"
@@ -421,7 +437,7 @@
       "url": "https://open.spotify.com/track/7GDgpad2BQVuDUzaxHFakc"
     },
     {
-      "added_at": "2024-05-23 05:07:17",
+      "added_at": "2024-05-27 07:49:16",
       "album": {
         "name": "The Name Chapter: FREEFALL",
         "url": "https://open.spotify.com/album/63fWdGyeBj8VDjvHSUROx3"
@@ -437,7 +453,7 @@
       "url": "https://open.spotify.com/track/0ZPjVmof45INEERgYfadtv"
     },
     {
-      "added_at": "2024-05-23 05:07:17",
+      "added_at": "2024-05-27 07:49:16",
       "album": {
         "name": "The Atypical Family (Original Television Soundtrack), Pt. 1",
         "url": "https://open.spotify.com/album/02ncFx6427PIjjkmxToigw"
@@ -453,7 +469,7 @@
       "url": "https://open.spotify.com/track/4qfwCgWmtGm2koVU6D7HqP"
     },
     {
-      "added_at": "2024-05-23 05:07:17",
+      "added_at": "2024-05-27 07:49:16",
       "album": {
         "name": "The Atypical Family (Original Television Soundtrack), Pt. 2",
         "url": "https://open.spotify.com/album/4vq5IM3eib2FIDfPdu23fP"
@@ -467,6 +483,22 @@
       "duration_ms": 268000,
       "name": "I See You - Instrumental",
       "url": "https://open.spotify.com/track/7mdsu3BEFTAFym6AoPYVQs"
+    },
+    {
+      "added_at": "2024-05-27 07:49:16",
+      "album": {
+        "name": "The Atypical Family (Original Television Soundtrack), Pt. 3",
+        "url": "https://open.spotify.com/album/1eHNGz5204SsrzVcBB5HTZ"
+      },
+      "artists": [
+        {
+          "name": "Yi Sung Yol",
+          "url": "https://open.spotify.com/artist/1uwchldM1ngqs8xCZg0DK9"
+        }
+      ],
+      "duration_ms": 196866,
+      "name": "La Puta - Instrumental",
+      "url": "https://open.spotify.com/track/6QSpGalR1z65Zdz3lv3Frt"
     }
   ],
   "unique_name": "\ud788\uc5b4\ub85c\ub294 \uc544\ub2d9\ub2c8\ub2e4\ub9cc (The Atypical Family)",

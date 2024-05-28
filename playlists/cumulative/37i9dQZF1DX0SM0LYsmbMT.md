@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-4,130 songs - 6 day 13 hr 45 min
+4,131 songs - 6 day 13 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -548,6 +548,7 @@
 | [Call from NY](https://open.spotify.com/track/6nzYP3YSoRAm1HCKgG7Jyy) | [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt), [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL), [Viktor Minsky](https://open.spotify.com/artist/5mS3l0prvJ5cpqzx8zz4GH) | [Call from NY](https://open.spotify.com/album/3Y2cFxI2F2XtGrDb2PCYek) | 1:59 | 2022-01-06 | 2022-02-11 |
 | [Calm Down](https://open.spotify.com/track/5KhoMiyDDs4vQazM6eE7jA) | [Elior](https://open.spotify.com/artist/0tquhVod10o2zf1ht2aVoz) | [Calm Down](https://open.spotify.com/album/7HILhfhjOpTTtyYXMl5tqf) | 2:31 | 2022-01-13 | 2022-02-11 |
 | [Calm Waves](https://open.spotify.com/track/7tKy7iG3NQHW5DMmKKAmYX) | [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS), [Hakone](https://open.spotify.com/artist/7CWzXEtz9IgGotcYUQuixF) | [Calm Waves](https://open.spotify.com/album/42uGn6niQc8kZlk0e8POU8) | 1:40 | 2019-09-27 | 2020-03-04 |
+| [Calm Winds](https://open.spotify.com/track/22x6TxJlGxZfQjJbAN4cQY) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3) | [Calm Winds](https://open.spotify.com/album/0HVatdmOV7mRKymcHEoLJo) | 1:54 | 2024-05-16 |  |
 | [Calm Your Mind](https://open.spotify.com/track/5Y5INI47aDC5838KKFO07y) | [Kimmø](https://open.spotify.com/artist/0T2cWe3Y09qz2tp19oDLUz), [Kid Tarô](https://open.spotify.com/artist/5XD1vyL8naPVq2dvjetpiT) | [Calm Your Mind](https://open.spotify.com/album/0NiPn5lJ7jmoFIRmmSqQXU) | 1:46 | 2024-02-15 |  |
 | [Calma](https://open.spotify.com/track/71JgPrqnNGa5tXCNQRSezU) | [young.vishnu](https://open.spotify.com/artist/13ktebtZo4NRbX3uThOmP2), [Pachakuti](https://open.spotify.com/artist/2pQzPOCdgQgaUpWG3WEcYr), [Leon Raum](https://open.spotify.com/artist/7GUrTOVP2PVSy6NeOLdEA8) | [Calma](https://open.spotify.com/album/0qBC58gF84pkwtuS1NFQf0) | 1:26 | 2023-02-16 | 2023-12-02 |
 | [Camberwell](https://open.spotify.com/track/3HfPHK9gTHDtaeJHEH1x2n) | [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds), [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI) | [Camberwell](https://open.spotify.com/album/7lJiCuvJzkvm2iuqQqgIXR) | 2:37 | 2019-05-29 | 2019-10-11 |
@@ -3301,7 +3302,7 @@
 | [Spooks](https://open.spotify.com/track/639Tw8ZzHKRKX8OBPLty3r) | [Twit One](https://open.spotify.com/artist/38OPqGlHHCPAsL87VM10Su), [Pascal Schäfer](https://open.spotify.com/artist/5w8GGXfYEU2Ug9EUfBQpNk) | [Spooks](https://open.spotify.com/album/6RGFYDNiDFjlS2kygLyUSw) | 2:33 | 2021-10-01 | 2021-10-29 |
 | [Spotlight](https://open.spotify.com/track/3HBXZ59W3RhleGsKNXK5l9) | [L.Dre](https://open.spotify.com/artist/6gWGD0yeQYobb2sq0LUr7k), [Rudy Raw](https://open.spotify.com/artist/4ZITuhWAaVoUTge2JwIton) | [Spotlight](https://open.spotify.com/album/26lUxx0GD0hrByiCceuZ2p) | 2:15 | 2021-03-06 | 2021-03-14 |
 | [Spring](https://open.spotify.com/track/55kIpppK4AK3Pb3iLzchLm) | [notliam.](https://open.spotify.com/artist/61LoHXsI9sGJ20BSuDzCCP) | [Spring / Bourbon](https://open.spotify.com/album/44bxg2HFpFnOGvJYzryGSs) | 1:44 | 2019-05-26\* | 2019-08-13 |
-| [Spring](https://open.spotify.com/track/2ETNAXWeEKrJeYK8Rrr5lr) | [Thelonious Coltrane](https://open.spotify.com/artist/6iXZPP5qLB2dtIQ4WuNk9M) | [Spring](https://open.spotify.com/album/0PpbgST7UfHeR1vSDdPGg2) | 2:30 | 2024-04-25 |  |
+| [Spring](https://open.spotify.com/track/2ETNAXWeEKrJeYK8Rrr5lr) | [Thelonious Coltrane](https://open.spotify.com/artist/6iXZPP5qLB2dtIQ4WuNk9M) | [Spring](https://open.spotify.com/album/0PpbgST7UfHeR1vSDdPGg2) | 2:30 | 2024-04-25 | 2024-05-28 |
 | [Spring Blender](https://open.spotify.com/track/3yPdG7Zsc5PQ9RCHRwCdzc) | [Bill adlib](https://open.spotify.com/artist/2vtcShcGkXS1SZeLwEOqKz) | [Spring Blender](https://open.spotify.com/album/3V73ymExJca89uuNCYKOG8) | 1:57 | 2019-06-14 | 2019-11-12 |
 | [spring breeze](https://open.spotify.com/track/4hEtLH4D9zXiYuefvhaFDg) | [yeyts.](https://open.spotify.com/artist/4fawpeTlkJtDMXDzJmBYSR) | [spring breeze](https://open.spotify.com/album/0P3wtmsHYu5XKitFbK1uPM) | 1:36 | 2022-03-24 | 2023-11-24 |
 | [Spring Cold](https://open.spotify.com/track/3lCZxVYjOpUmFKEjsKsnTU) | [eun](https://open.spotify.com/artist/0L8slSjSjkpmY2vCCuXZ2r) | [Spring Cold](https://open.spotify.com/album/0XL40uz5cMkTAlN25kyIm3) | 2:40 | 2024-02-15 |  |

@@ -1,6 +1,6 @@
 {
   "description": "a journey through ephemeral moments",
-  "num_followers": 12179,
+  "num_followers": 12180,
   "original_name": "transience",
   "owner": {
     "name": "Spotify",
@@ -461,22 +461,6 @@
       "url": "https://open.spotify.com/track/7BGPolTJ1ptq3zxGIf64yR"
     },
     {
-      "added_at": "2023-01-12 02:08:10",
-      "album": {
-        "name": "Antidotes 2",
-        "url": "https://open.spotify.com/album/64N8Ot3a2tr44vUlDvdeyR"
-      },
-      "artists": [
-        {
-          "name": "Lucinda Chua",
-          "url": "https://open.spotify.com/artist/3PaJIkKZtfopcZxWluQhzJ"
-        }
-      ],
-      "duration_ms": 200724,
-      "name": "An Avalanche",
-      "url": "https://open.spotify.com/track/0ZJCGdZQbnMabeAh7sR9Sl"
-    },
-    {
       "added_at": "2021-10-06 04:38:12",
       "album": {
         "name": "The Pillow Sisters",
@@ -491,6 +475,22 @@
       "duration_ms": 159158,
       "name": "The Pillow Sisters",
       "url": "https://open.spotify.com/track/05gq1Z7LjHYlgt9FRBAMWb"
+    },
+    {
+      "added_at": "2023-01-12 02:08:10",
+      "album": {
+        "name": "Antidotes 2",
+        "url": "https://open.spotify.com/album/64N8Ot3a2tr44vUlDvdeyR"
+      },
+      "artists": [
+        {
+          "name": "Lucinda Chua",
+          "url": "https://open.spotify.com/artist/3PaJIkKZtfopcZxWluQhzJ"
+        }
+      ],
+      "duration_ms": 200724,
+      "name": "An Avalanche",
+      "url": "https://open.spotify.com/track/0ZJCGdZQbnMabeAh7sR9Sl"
     },
     {
       "added_at": "2022-09-03 03:50:05",
@@ -649,22 +649,6 @@
       "url": "https://open.spotify.com/track/2maI2rqhSgHfqNnz4c7Ymn"
     },
     {
-      "added_at": "2024-04-12 00:45:23",
-      "album": {
-        "name": "Le jour et la nuit du r\u00e9el",
-        "url": "https://open.spotify.com/album/0SGlqX0au6eBPzbyu1WiA3"
-      },
-      "artists": [
-        {
-          "name": "Colleen",
-          "url": "https://open.spotify.com/artist/0mOPHkTHaD6cFTMODNBxA3"
-        }
-      ],
-      "duration_ms": 131120,
-      "name": "Night looping - Movement I",
-      "url": "https://open.spotify.com/track/4zVsCgH8X9n8GcJDkAIoda"
-    },
-    {
       "added_at": "2022-01-07 01:30:59",
       "album": {
         "name": "Mountains, Go",
@@ -695,6 +679,22 @@
       "duration_ms": 519893,
       "name": "Management Of Sorrows",
       "url": "https://open.spotify.com/track/1E2ShBrH7M8h4GLKrLWYa6"
+    },
+    {
+      "added_at": "2024-04-12 00:45:23",
+      "album": {
+        "name": "Le jour et la nuit du r\u00e9el",
+        "url": "https://open.spotify.com/album/0SGlqX0au6eBPzbyu1WiA3"
+      },
+      "artists": [
+        {
+          "name": "Colleen",
+          "url": "https://open.spotify.com/artist/0mOPHkTHaD6cFTMODNBxA3"
+        }
+      ],
+      "duration_ms": 131120,
+      "name": "Night looping - Movement I",
+      "url": "https://open.spotify.com/track/4zVsCgH8X9n8GcJDkAIoda"
     },
     {
       "added_at": "2022-02-18 05:44:49",
@@ -797,22 +797,6 @@
       "url": "https://open.spotify.com/track/29ZI7WGaFGWfpahlaEV39l"
     },
     {
-      "added_at": "2022-09-03 03:31:24",
-      "album": {
-        "name": "Reflections 02",
-        "url": "https://open.spotify.com/album/33CSkPGUlGsQ6a4pBFfRL2"
-      },
-      "artists": [
-        {
-          "name": "Douran",
-          "url": "https://open.spotify.com/artist/3Rvdn0CASBunaYXQHEKIoQ"
-        }
-      ],
-      "duration_ms": 156201,
-      "name": "Passing Lights - Cinematic Version",
-      "url": "https://open.spotify.com/track/2W0euyZlyIjmwYNzEfcVwr"
-    },
-    {
       "added_at": "2022-02-18 04:38:12",
       "album": {
         "name": "atomic bombs atomic bonds i love you",
@@ -827,6 +811,22 @@
       "duration_ms": 327600,
       "name": "atomic bombs atomic bonds i love you",
       "url": "https://open.spotify.com/track/0vSko2EnMsuAo2Kp2oItyt"
+    },
+    {
+      "added_at": "2022-09-03 03:31:24",
+      "album": {
+        "name": "Reflections 02",
+        "url": "https://open.spotify.com/album/33CSkPGUlGsQ6a4pBFfRL2"
+      },
+      "artists": [
+        {
+          "name": "Douran",
+          "url": "https://open.spotify.com/artist/3Rvdn0CASBunaYXQHEKIoQ"
+        }
+      ],
+      "duration_ms": 156201,
+      "name": "Passing Lights - Cinematic Version",
+      "url": "https://open.spotify.com/track/2W0euyZlyIjmwYNzEfcVwr"
     },
     {
       "added_at": "2021-10-06 04:38:12",
@@ -977,22 +977,6 @@
       "url": "https://open.spotify.com/track/4O2JBu39WoNet8tz3xOS2P"
     },
     {
-      "added_at": "2021-10-06 04:38:12",
-      "album": {
-        "name": "Pyramid",
-        "url": "https://open.spotify.com/album/73o0SxXoACo7B8Ygivru9B"
-      },
-      "artists": [
-        {
-          "name": "Jaga Jazzist",
-          "url": "https://open.spotify.com/artist/68HFSFMCZzyRjkkm9bv5Vt"
-        }
-      ],
-      "duration_ms": 488904,
-      "name": "Spiral Era",
-      "url": "https://open.spotify.com/track/0Izt53lFwp9luhhdvkbozM"
-    },
-    {
       "added_at": "2022-02-15 01:09:46",
       "album": {
         "name": "1981",
@@ -1007,6 +991,22 @@
       "duration_ms": 254954,
       "name": "1981",
       "url": "https://open.spotify.com/track/6r7PBDvtEQQZwsSvKLLgRJ"
+    },
+    {
+      "added_at": "2021-10-06 04:38:12",
+      "album": {
+        "name": "Pyramid",
+        "url": "https://open.spotify.com/album/73o0SxXoACo7B8Ygivru9B"
+      },
+      "artists": [
+        {
+          "name": "Jaga Jazzist",
+          "url": "https://open.spotify.com/artist/68HFSFMCZzyRjkkm9bv5Vt"
+        }
+      ],
+      "duration_ms": 488904,
+      "name": "Spiral Era",
+      "url": "https://open.spotify.com/track/0Izt53lFwp9luhhdvkbozM"
     },
     {
       "added_at": "2021-10-06 04:38:12",
@@ -1125,6 +1125,22 @@
       "url": "https://open.spotify.com/track/3cQWC4VNioX0gQVRXv8Yhi"
     },
     {
+      "added_at": "2023-01-12 02:01:04",
+      "album": {
+        "name": "I Had Too Much to Dream Last Night",
+        "url": "https://open.spotify.com/album/1MmJmjY9LKhylRSgydvGwJ"
+      },
+      "artists": [
+        {
+          "name": "Celestial",
+          "url": "https://open.spotify.com/artist/3SFCZy20vLywkF2KDiwqCk"
+        }
+      ],
+      "duration_ms": 456976,
+      "name": "THE PERFUMED GARDEN",
+      "url": "https://open.spotify.com/track/4gCkomA8CVHrVzSXqDjDfI"
+    },
+    {
       "added_at": "2021-10-06 04:38:12",
       "album": {
         "name": "Beside April",
@@ -1147,22 +1163,6 @@
       "duration_ms": 313587,
       "name": "Beside April",
       "url": "https://open.spotify.com/track/0ILCCPZp5fXzakTTPsIdR8"
-    },
-    {
-      "added_at": "2023-01-12 02:01:04",
-      "album": {
-        "name": "I Had Too Much to Dream Last Night",
-        "url": "https://open.spotify.com/album/1MmJmjY9LKhylRSgydvGwJ"
-      },
-      "artists": [
-        {
-          "name": "Celestial",
-          "url": "https://open.spotify.com/artist/3SFCZy20vLywkF2KDiwqCk"
-        }
-      ],
-      "duration_ms": 456976,
-      "name": "THE PERFUMED GARDEN",
-      "url": "https://open.spotify.com/track/4gCkomA8CVHrVzSXqDjDfI"
     },
     {
       "added_at": "2022-05-24 01:10:33",
@@ -1213,22 +1213,6 @@
       "url": "https://open.spotify.com/track/6XVZhsWHSbQcPmHN6MCdza"
     },
     {
-      "added_at": "2022-09-30 02:23:59",
-      "album": {
-        "name": "Marilene (Somewhere in Texas)",
-        "url": "https://open.spotify.com/album/77JuxMNZxYkDmhDzFywvn7"
-      },
-      "artists": [
-        {
-          "name": "Gigi Masin",
-          "url": "https://open.spotify.com/artist/0dCVhSVXD9JhJh2bTySJZx"
-        }
-      ],
-      "duration_ms": 475734,
-      "name": "Marilene - Somewhere in Texas",
-      "url": "https://open.spotify.com/track/6jVbgzKpU5TV5Vijk7TD37"
-    },
-    {
       "added_at": "2023-05-12 02:51:50",
       "album": {
         "name": "Do Make Say Think",
@@ -1243,6 +1227,22 @@
       "duration_ms": 629506,
       "name": "1978",
       "url": "https://open.spotify.com/track/6hqEwHPaSspW6qF1lL2lTQ"
+    },
+    {
+      "added_at": "2022-09-30 02:23:59",
+      "album": {
+        "name": "Marilene (Somewhere in Texas)",
+        "url": "https://open.spotify.com/album/77JuxMNZxYkDmhDzFywvn7"
+      },
+      "artists": [
+        {
+          "name": "Gigi Masin",
+          "url": "https://open.spotify.com/artist/0dCVhSVXD9JhJh2bTySJZx"
+        }
+      ],
+      "duration_ms": 475734,
+      "name": "Marilene - Somewhere in Texas",
+      "url": "https://open.spotify.com/track/6jVbgzKpU5TV5Vijk7TD37"
     },
     {
       "added_at": "2023-03-07 03:32:27",
@@ -1261,22 +1261,6 @@
       "url": "https://open.spotify.com/track/52vNlD5YZT1yUmZUnukAbT"
     },
     {
-      "added_at": "2022-01-11 01:31:39",
-      "album": {
-        "name": "BITTER.ROOT",
-        "url": "https://open.spotify.com/album/2LIZdIGqsOqJ9w31QHLAe4"
-      },
-      "artists": [
-        {
-          "name": "EN.KI.DU",
-          "url": "https://open.spotify.com/artist/1dZP0pipirizLq80zTSSBE"
-        }
-      ],
-      "duration_ms": 276172,
-      "name": "Inspiral",
-      "url": "https://open.spotify.com/track/2g5wSGjYZB8gMGMgyKuVd8"
-    },
-    {
       "added_at": "2021-10-06 04:38:12",
       "album": {
         "name": "The Empty Bridge",
@@ -1291,6 +1275,22 @@
       "duration_ms": 403980,
       "name": "City Of Red Sand",
       "url": "https://open.spotify.com/track/5pQI4osudR5207IiprBP7J"
+    },
+    {
+      "added_at": "2022-01-11 01:31:39",
+      "album": {
+        "name": "BITTER.ROOT",
+        "url": "https://open.spotify.com/album/2LIZdIGqsOqJ9w31QHLAe4"
+      },
+      "artists": [
+        {
+          "name": "EN.KI.DU",
+          "url": "https://open.spotify.com/artist/1dZP0pipirizLq80zTSSBE"
+        }
+      ],
+      "duration_ms": 276172,
+      "name": "Inspiral",
+      "url": "https://open.spotify.com/track/2g5wSGjYZB8gMGMgyKuVd8"
     },
     {
       "added_at": "2023-02-27 18:31:07",

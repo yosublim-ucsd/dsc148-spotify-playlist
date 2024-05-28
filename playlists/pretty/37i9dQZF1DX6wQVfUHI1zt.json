@@ -1,6 +1,6 @@
 {
   "description": "All the Tejano classics for you to enjoy! Cover: Selena",
-  "num_followers": 212180,
+  "num_followers": 212248,
   "original_name": "Tejano Classics",
   "owner": {
     "name": "Spotify",
@@ -787,8 +787,8 @@
     {
       "added_at": "2024-05-02 04:14:20",
       "album": {
-        "name": "Mucho Mas Que Amor",
-        "url": "https://open.spotify.com/album/3LeSzG6DuuxpKdq48olrny"
+        "name": "Simplemente Tejano",
+        "url": "https://open.spotify.com/album/49NcAGCAejf91zf9378McY"
       },
       "artists": [
         {
@@ -796,9 +796,9 @@
           "url": "https://open.spotify.com/artist/36wLXYkjSzjSqQ41WcVczE"
         }
       ],
-      "duration_ms": 205266,
-      "name": "Eres Mi Todo",
-      "url": "https://open.spotify.com/track/0bWKrBW9avAHSqsgYa19nE"
+      "duration_ms": 278493,
+      "name": "La Mancha",
+      "url": "https://open.spotify.com/track/4Sftcc8OWNsF6jyszaOwC6"
     },
     {
       "added_at": "2024-05-02 04:14:20",
@@ -907,8 +907,8 @@
     {
       "added_at": "2024-05-02 04:14:20",
       "album": {
-        "name": "Simplemente Tejano",
-        "url": "https://open.spotify.com/album/49NcAGCAejf91zf9378McY"
+        "name": "Mucho Mas Que Amor",
+        "url": "https://open.spotify.com/album/3LeSzG6DuuxpKdq48olrny"
       },
       "artists": [
         {
@@ -916,9 +916,9 @@
           "url": "https://open.spotify.com/artist/36wLXYkjSzjSqQ41WcVczE"
         }
       ],
-      "duration_ms": 278493,
-      "name": "La Mancha",
-      "url": "https://open.spotify.com/track/4Sftcc8OWNsF6jyszaOwC6"
+      "duration_ms": 205266,
+      "name": "Eres Mi Todo",
+      "url": "https://open.spotify.com/track/0bWKrBW9avAHSqsgYa19nE"
     },
     {
       "added_at": "2024-05-02 04:14:20",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2024-05-02 04:14:20",
       "album": {
-        "name": "Entre A Mi Mundo",
-        "url": "https://open.spotify.com/album/02fBX9fLFfOG2v33oZo73z"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 231560,
-      "name": "Missing My Baby",
-      "url": "https://open.spotify.com/track/7qTljW3wfx3CM8oEQeB2cR"
-    },
-    {
-      "added_at": "2024-05-02 04:14:20",
-      "album": {
         "name": "\u00cdconos 25 \u00c9xitos",
         "url": "https://open.spotify.com/album/3jh3J0EDLLDP5VfCLpW4Ve"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 255080,
       "name": "Sue\u00f1a",
       "url": "https://open.spotify.com/track/6LsysQAxBx5PVMbufJeqY9"
+    },
+    {
+      "added_at": "2024-05-02 04:14:20",
+      "album": {
+        "name": "Entre A Mi Mundo",
+        "url": "https://open.spotify.com/album/02fBX9fLFfOG2v33oZo73z"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 231560,
+      "name": "Missing My Baby",
+      "url": "https://open.spotify.com/track/7qTljW3wfx3CM8oEQeB2cR"
     },
     {
       "added_at": "2024-05-02 04:14:20",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2024-05-02 04:14:20",
       "album": {
-        "name": "La Leyenda (Version Super Deluxe)",
-        "url": "https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 169737,
-      "name": "Cobarde",
-      "url": "https://open.spotify.com/track/4vDu0mEddDoqHpn6f6lMyh"
-    },
-    {
-      "added_at": "2024-05-02 04:14:20",
-      "album": {
         "name": "Desvelado",
         "url": "https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 169000,
       "name": "No S\u00e9 Por Qu\u00e9",
       "url": "https://open.spotify.com/track/1DBsOzhJeIi46lFO3ITv5t"
+    },
+    {
+      "added_at": "2024-05-02 04:14:20",
+      "album": {
+        "name": "La Leyenda (Version Super Deluxe)",
+        "url": "https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 169737,
+      "name": "Cobarde",
+      "url": "https://open.spotify.com/track/4vDu0mEddDoqHpn6f6lMyh"
     },
     {
       "added_at": "2024-05-02 04:14:20",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2024-05-02 04:14:20",
       "album": {
-        "name": "\u00cdconos 25 \u00c9xitos",
-        "url": "https://open.spotify.com/album/3jh3J0EDLLDP5VfCLpW4Ve"
-      },
-      "artists": [
-        {
-          "name": "Intocable",
-          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
-        }
-      ],
-      "duration_ms": 195293,
-      "name": "Soy Un Novato",
-      "url": "https://open.spotify.com/track/5akdgRJMR9kwrrpOY2KUHg"
-    },
-    {
-      "added_at": "2024-05-02 04:14:20",
-      "album": {
         "name": "La Leyenda (Version Super Deluxe)",
         "url": "https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03"
       },
@@ -1587,6 +1571,22 @@
     {
       "added_at": "2024-05-02 04:14:20",
       "album": {
+        "name": "\u00cdconos 25 \u00c9xitos",
+        "url": "https://open.spotify.com/album/3jh3J0EDLLDP5VfCLpW4Ve"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "duration_ms": 195293,
+      "name": "Soy Un Novato",
+      "url": "https://open.spotify.com/track/5akdgRJMR9kwrrpOY2KUHg"
+    },
+    {
+      "added_at": "2024-05-02 04:14:20",
+      "album": {
         "name": "Desvelado",
         "url": "https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2"
       },
@@ -1599,22 +1599,6 @@
       "duration_ms": 201960,
       "name": "Se Me Olvid\u00f3 Olvidarte",
       "url": "https://open.spotify.com/track/08N4oh208BCKzkVfNV7FIQ"
-    },
-    {
-      "added_at": "2024-05-02 04:14:20",
-      "album": {
-        "name": "Amor Prohibido",
-        "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 208866,
-      "name": "El Chico Del Apartamento 512",
-      "url": "https://open.spotify.com/track/1lh3TnDpfNBNfLfOWghNnp"
     },
     {
       "added_at": "2024-05-02 04:14:20",
@@ -1679,6 +1663,22 @@
       "duration_ms": 217426,
       "name": "Yo No Tengo La Culpa",
       "url": "https://open.spotify.com/track/6IY64svdCGr1QWFTD4Gkoy"
+    },
+    {
+      "added_at": "2024-05-02 04:14:20",
+      "album": {
+        "name": "Amor Prohibido",
+        "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 208866,
+      "name": "El Chico Del Apartamento 512",
+      "url": "https://open.spotify.com/track/1lh3TnDpfNBNfLfOWghNnp"
     },
     {
       "added_at": "2024-05-02 04:14:20",

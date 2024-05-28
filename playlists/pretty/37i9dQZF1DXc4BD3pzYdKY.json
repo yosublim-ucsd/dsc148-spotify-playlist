@@ -1,6 +1,6 @@
 {
   "description": "The best of Christian Hip Hop today.  Cover:  <a href=\"spotify:artist:0GdzQJqgRL5SHp7kXOKba0\">Wande</a> & <a href=\"spotify:artist:1CFCsEqKrCyvAFKOATQHiW\">Lecrae</a>",
-  "num_followers": 156276,
+  "num_followers": 156372,
   "original_name": "The Flow",
   "owner": {
     "name": "Spotify",
@@ -547,22 +547,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Dead Or Alive Pt. 2",
-        "url": "https://open.spotify.com/album/290RwiFSj49ozfvrNtOAgh"
-      },
-      "artists": [
-        {
-          "name": "Tedashii",
-          "url": "https://open.spotify.com/artist/4c6lhwoOrmgNWvl0GxHlW1"
-        }
-      ],
-      "duration_ms": 245108,
-      "name": "POP UP",
-      "url": "https://open.spotify.com/track/3RdOLCrgJbxRkvsNVJzOW5"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "NOPE",
         "url": "https://open.spotify.com/album/5RwiHu9QOCzjyoCjBeH4fR"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 148000,
       "name": "NOPE",
       "url": "https://open.spotify.com/track/1xpUpmKZsGwQWYFV0XkH8u"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Dead Or Alive Pt. 2",
+        "url": "https://open.spotify.com/album/290RwiFSj49ozfvrNtOAgh"
+      },
+      "artists": [
+        {
+          "name": "Tedashii",
+          "url": "https://open.spotify.com/artist/4c6lhwoOrmgNWvl0GxHlW1"
+        }
+      ],
+      "duration_ms": 245108,
+      "name": "POP UP",
+      "url": "https://open.spotify.com/track/3RdOLCrgJbxRkvsNVJzOW5"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -683,6 +683,22 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
+        "name": "SO LONELY (AN EREMOS STORY)",
+        "url": "https://open.spotify.com/album/1yMjZOuzZHF2hRzluZESSD"
+      },
+      "artists": [
+        {
+          "name": "Jon Keith",
+          "url": "https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo"
+        }
+      ],
+      "duration_ms": 133408,
+      "name": "GOD DON'T LIE",
+      "url": "https://open.spotify.com/track/3bpr5wV8lswg90NcAaoblH"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
         "name": "NEVER QUIT",
         "url": "https://open.spotify.com/album/5Yal9oogb6HDQSJtaJSECN"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 165194,
       "name": "NEVER QUIT",
       "url": "https://open.spotify.com/track/0goNoN3HwZEpsElESSMwMW"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "SO LONELY (AN EREMOS STORY)",
-        "url": "https://open.spotify.com/album/1yMjZOuzZHF2hRzluZESSD"
-      },
-      "artists": [
-        {
-          "name": "Jon Keith",
-          "url": "https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo"
-        }
-      ],
-      "duration_ms": 133408,
-      "name": "GOD DON'T LIE",
-      "url": "https://open.spotify.com/track/3bpr5wV8lswg90NcAaoblH"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -971,18 +971,22 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "We Already Won",
-        "url": "https://open.spotify.com/album/5FjeaQ1gGVrgTzwwbkB4cx"
+        "name": "Squabble",
+        "url": "https://open.spotify.com/album/0AjZUQHbdaC7QtxbOZO0xQ"
       },
       "artists": [
         {
-          "name": "Zauntee",
-          "url": "https://open.spotify.com/artist/7jyr9Co4MKL1iWML1G7vch"
+          "name": "Miles Minnick",
+          "url": "https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr"
+        },
+        {
+          "name": "Key'ijah",
+          "url": "https://open.spotify.com/artist/5bLqm0pB0l0J5hRMXajA0S"
         }
       ],
-      "duration_ms": 177587,
-      "name": "The City Is Mine",
-      "url": "https://open.spotify.com/track/04jZiRSpNucRPCAab0bK53"
+      "duration_ms": 163200,
+      "name": "Squabble",
+      "url": "https://open.spotify.com/track/0jYGdeobsBl0LExCcDugp8"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1003,22 +1007,18 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Squabble",
-        "url": "https://open.spotify.com/album/0AjZUQHbdaC7QtxbOZO0xQ"
+        "name": "We Already Won",
+        "url": "https://open.spotify.com/album/5FjeaQ1gGVrgTzwwbkB4cx"
       },
       "artists": [
         {
-          "name": "Miles Minnick",
-          "url": "https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr"
-        },
-        {
-          "name": "Key'ijah",
-          "url": "https://open.spotify.com/artist/5bLqm0pB0l0J5hRMXajA0S"
+          "name": "Zauntee",
+          "url": "https://open.spotify.com/artist/7jyr9Co4MKL1iWML1G7vch"
         }
       ],
-      "duration_ms": 163200,
-      "name": "Squabble",
-      "url": "https://open.spotify.com/track/0jYGdeobsBl0LExCcDugp8"
+      "duration_ms": 177587,
+      "name": "The City Is Mine",
+      "url": "https://open.spotify.com/track/04jZiRSpNucRPCAab0bK53"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1095,26 +1095,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Real Talk",
-        "url": "https://open.spotify.com/album/2HdQI8ne0nJsuHZKfyiWh9"
-      },
-      "artists": [
-        {
-          "name": "MTM Isaiah",
-          "url": "https://open.spotify.com/artist/3cPHYFWU14POI3ky9F4mNy"
-        },
-        {
-          "name": "Shawndy",
-          "url": "https://open.spotify.com/artist/78ZSK6zK7PhCnupbcNaTht"
-        }
-      ],
-      "duration_ms": 200097,
-      "name": "Real Talk",
-      "url": "https://open.spotify.com/track/7kGpEg4HAFNDOwXBslAxzL"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "IN MY ROOM",
         "url": "https://open.spotify.com/album/5zGSq8TEeqTjYrwvD74bqr"
       },
@@ -1131,6 +1111,26 @@
       "duration_ms": 173788,
       "name": "IN MY ROOM",
       "url": "https://open.spotify.com/track/6NiEYy97bODtt7ntvUmlvp"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Real Talk",
+        "url": "https://open.spotify.com/album/2HdQI8ne0nJsuHZKfyiWh9"
+      },
+      "artists": [
+        {
+          "name": "MTM Isaiah",
+          "url": "https://open.spotify.com/artist/3cPHYFWU14POI3ky9F4mNy"
+        },
+        {
+          "name": "Shawndy",
+          "url": "https://open.spotify.com/artist/78ZSK6zK7PhCnupbcNaTht"
+        }
+      ],
+      "duration_ms": 200097,
+      "name": "Real Talk",
+      "url": "https://open.spotify.com/track/7kGpEg4HAFNDOwXBslAxzL"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "hollow",
-        "url": "https://open.spotify.com/album/5lgtnGR1XbdY03VxVrefKf"
-      },
-      "artists": [
-        {
-          "name": "Jaisua",
-          "url": "https://open.spotify.com/artist/7u5RAgXZgtZJ7yINfxdUc5"
-        }
-      ],
-      "duration_ms": 152031,
-      "name": "hollow",
-      "url": "https://open.spotify.com/track/5bOPDOpWydLeD3Cp6hikhM"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "Life and Death",
         "url": "https://open.spotify.com/album/3Ptyj0m3OHHb74ErQGvjfj"
       },
@@ -1299,18 +1283,18 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "BOATS",
-        "url": "https://open.spotify.com/album/7dJ4Rpe2fpcxEl5kGdUDpZ"
+        "name": "hollow",
+        "url": "https://open.spotify.com/album/5lgtnGR1XbdY03VxVrefKf"
       },
       "artists": [
         {
-          "name": "Steven Malcolm",
-          "url": "https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8"
+          "name": "Jaisua",
+          "url": "https://open.spotify.com/artist/7u5RAgXZgtZJ7yINfxdUc5"
         }
       ],
-      "duration_ms": 144294,
-      "name": "Nothing Into Something",
-      "url": "https://open.spotify.com/track/5eYJPYS5sUGDIjcghrSeaC"
+      "duration_ms": 152031,
+      "name": "hollow",
+      "url": "https://open.spotify.com/track/5bOPDOpWydLeD3Cp6hikhM"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1335,6 +1319,22 @@
       "duration_ms": 161909,
       "name": "We Can't Forget Him - Remix",
       "url": "https://open.spotify.com/track/2m1jI4GECPuysk3udCZpeP"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "BOATS",
+        "url": "https://open.spotify.com/album/7dJ4Rpe2fpcxEl5kGdUDpZ"
+      },
+      "artists": [
+        {
+          "name": "Steven Malcolm",
+          "url": "https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8"
+        }
+      ],
+      "duration_ms": 144294,
+      "name": "Nothing Into Something",
+      "url": "https://open.spotify.com/track/5eYJPYS5sUGDIjcghrSeaC"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "That Feel",
-        "url": "https://open.spotify.com/album/6P2NFEDWyjEDhj91jjKs8Z"
-      },
-      "artists": [
-        {
-          "name": "KMO Shamaal",
-          "url": "https://open.spotify.com/artist/3IZpU8rUESdWsLRyfyHZqF"
-        }
-      ],
-      "duration_ms": 163657,
-      "name": "That Feel",
-      "url": "https://open.spotify.com/track/5ujNb0DzpT1oP5M5oyyTmr"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "Potential",
         "url": "https://open.spotify.com/album/1WnJo2qTW2AI9V4Dps4sS2"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 196578,
       "name": "Potential",
       "url": "https://open.spotify.com/track/1sVLkx9hkLcKNeg5GDrtuw"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "That Feel",
+        "url": "https://open.spotify.com/album/6P2NFEDWyjEDhj91jjKs8Z"
+      },
+      "artists": [
+        {
+          "name": "KMO Shamaal",
+          "url": "https://open.spotify.com/artist/3IZpU8rUESdWsLRyfyHZqF"
+        }
+      ],
+      "duration_ms": 163657,
+      "name": "That Feel",
+      "url": "https://open.spotify.com/track/5ujNb0DzpT1oP5M5oyyTmr"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
+        "name": "Focus",
+        "url": "https://open.spotify.com/album/0omB6BRNkl9RtKJ7zoNd2E"
+      },
+      "artists": [
+        {
+          "name": "Evan Ford",
+          "url": "https://open.spotify.com/artist/4eoZNWAcavDmUTQIoiPpyk"
+        }
+      ],
+      "duration_ms": 209760,
+      "name": "Focus",
+      "url": "https://open.spotify.com/track/2MAnU3hCcVavku3qHz5v42"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
         "name": "Stand By Me (feat. B. Stokes)",
         "url": "https://open.spotify.com/album/4R8OHGqeTWkbpQQobTfMyL"
       },
@@ -1579,22 +1595,6 @@
       "duration_ms": 191812,
       "name": "Left The Light On",
       "url": "https://open.spotify.com/track/2rNSdZXUM8tgwfV7vYtDiw"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "Focus",
-        "url": "https://open.spotify.com/album/0omB6BRNkl9RtKJ7zoNd2E"
-      },
-      "artists": [
-        {
-          "name": "Evan Ford",
-          "url": "https://open.spotify.com/artist/4eoZNWAcavDmUTQIoiPpyk"
-        }
-      ],
-      "duration_ms": 209760,
-      "name": "Focus",
-      "url": "https://open.spotify.com/track/2MAnU3hCcVavku3qHz5v42"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1767,22 +1767,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Wavy",
-        "url": "https://open.spotify.com/album/6eqCJGPpG3ShFA5WSXQlKg"
-      },
-      "artists": [
-        {
-          "name": "Reblah",
-          "url": "https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV"
-        }
-      ],
-      "duration_ms": 164210,
-      "name": "Wavy",
-      "url": "https://open.spotify.com/track/61hTCLVKXkvxQKRiTFOwd1"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "REASON",
         "url": "https://open.spotify.com/album/2QC30uOXwPkSpt2QyN4Kt0"
       },
@@ -1795,6 +1779,22 @@
       "duration_ms": 193596,
       "name": "REASON",
       "url": "https://open.spotify.com/track/0KtITVpLZZGJyUxeJRYxzT"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Wavy",
+        "url": "https://open.spotify.com/album/6eqCJGPpG3ShFA5WSXQlKg"
+      },
+      "artists": [
+        {
+          "name": "Reblah",
+          "url": "https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV"
+        }
+      ],
+      "duration_ms": 164210,
+      "name": "Wavy",
+      "url": "https://open.spotify.com/track/61hTCLVKXkvxQKRiTFOwd1"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1831,26 +1831,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "KEEPER",
-        "url": "https://open.spotify.com/album/6zNdGUzCMIPdyrPozkUxDV"
-      },
-      "artists": [
-        {
-          "name": "Amar",
-          "url": "https://open.spotify.com/artist/6EzcG2756Gcv7qEmZmnjl2"
-        },
-        {
-          "name": "Vianca \"The Grace\"",
-          "url": "https://open.spotify.com/artist/3Xekr22iZIFUAb6eMOPNxP"
-        }
-      ],
-      "duration_ms": 238285,
-      "name": "KEEPER",
-      "url": "https://open.spotify.com/track/0Nki8E9SuPPACfXghDz3q8"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "That Ain't It",
         "url": "https://open.spotify.com/album/4hqUjrpp4zDaZU5CNdAnBV"
       },
@@ -1871,6 +1851,26 @@
       "duration_ms": 219375,
       "name": "That Ain't It",
       "url": "https://open.spotify.com/track/7rFQRFe1bOVQweyZUBKkqe"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "KEEPER",
+        "url": "https://open.spotify.com/album/6zNdGUzCMIPdyrPozkUxDV"
+      },
+      "artists": [
+        {
+          "name": "Amar",
+          "url": "https://open.spotify.com/artist/6EzcG2756Gcv7qEmZmnjl2"
+        },
+        {
+          "name": "Vianca \"The Grace\"",
+          "url": "https://open.spotify.com/artist/3Xekr22iZIFUAb6eMOPNxP"
+        }
+      ],
+      "duration_ms": 238285,
+      "name": "KEEPER",
+      "url": "https://open.spotify.com/track/0Nki8E9SuPPACfXghDz3q8"
     },
     {
       "added_at": "2024-05-24 04:00:00",

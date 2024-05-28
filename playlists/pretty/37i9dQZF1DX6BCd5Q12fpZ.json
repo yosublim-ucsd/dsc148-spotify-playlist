@@ -1,6 +1,6 @@
 {
   "description": "Floor fillers from the long, illustrious history of the show. Cover: Verka Serduchka",
-  "num_followers": 66295,
+  "num_followers": 66300,
   "original_name": "Eurovision Party",
   "owner": {
     "name": "Spotify",
@@ -367,26 +367,6 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
-        "name": "Trenule\u021bul",
-        "url": "https://open.spotify.com/album/7fM5IQBccLOksJ96AMl0xv"
-      },
-      "artists": [
-        {
-          "name": "Zdob si Zdub",
-          "url": "https://open.spotify.com/artist/21fmCv0mg9Xwnv3WE4mFKu"
-        },
-        {
-          "name": "Fratii Advahov",
-          "url": "https://open.spotify.com/artist/6oOzBkBGHImHS8cdjO8AqC"
-        }
-      ],
-      "duration_ms": 180030,
-      "name": "Trenule\u021bul (cu Fra\u021bii Advahov)",
-      "url": "https://open.spotify.com/track/63idiVcxkGB3hgH6n3qKqM"
-    },
-    {
-      "added_at": "2023-05-05 17:20:54",
-      "album": {
         "name": "Eurovision Song Contest: The Story of Fire Saga (Music from the Netflix Film)",
         "url": "https://open.spotify.com/album/0u6ppFo3gWA3vTiGeDTWXl"
       },
@@ -403,6 +383,26 @@
       "duration_ms": 97896,
       "name": "Jaja Ding Dong",
       "url": "https://open.spotify.com/track/4QWRvlXU8dRUobH9YCDrIY"
+    },
+    {
+      "added_at": "2023-05-05 17:20:54",
+      "album": {
+        "name": "Trenule\u021bul",
+        "url": "https://open.spotify.com/album/7fM5IQBccLOksJ96AMl0xv"
+      },
+      "artists": [
+        {
+          "name": "Zdob si Zdub",
+          "url": "https://open.spotify.com/artist/21fmCv0mg9Xwnv3WE4mFKu"
+        },
+        {
+          "name": "Fratii Advahov",
+          "url": "https://open.spotify.com/artist/6oOzBkBGHImHS8cdjO8AqC"
+        }
+      ],
+      "duration_ms": 180030,
+      "name": "Trenule\u021bul (cu Fra\u021bii Advahov)",
+      "url": "https://open.spotify.com/track/63idiVcxkGB3hgH6n3qKqM"
     },
     {
       "added_at": "2023-05-05 17:20:54",
@@ -971,22 +971,6 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
-        "name": "Moustache (Eurovision 2014)",
-        "url": "https://open.spotify.com/album/6AMLDrreLMmEvFYPUbBHh7"
-      },
-      "artists": [
-        {
-          "name": "Twin Twin",
-          "url": "https://open.spotify.com/artist/2hJPfJfj1VpL2AJvelxxzx"
-        }
-      ],
-      "duration_ms": 169181,
-      "name": "Moustache",
-      "url": "https://open.spotify.com/track/3XiEknHgHpwCuk3CuA2RIV"
-    },
-    {
-      "added_at": "2023-05-05 17:20:54",
-      "album": {
         "name": "We Are the Winners",
         "url": "https://open.spotify.com/album/3cnlnaHwgCq4iZaywK9tG9"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 151533,
       "name": "We Are the Winners - Original Version",
       "url": "https://open.spotify.com/track/2QNb0E7tUeL5fCQFY5Pf02"
+    },
+    {
+      "added_at": "2023-05-05 17:20:54",
+      "album": {
+        "name": "Moustache (Eurovision 2014)",
+        "url": "https://open.spotify.com/album/6AMLDrreLMmEvFYPUbBHh7"
+      },
+      "artists": [
+        {
+          "name": "Twin Twin",
+          "url": "https://open.spotify.com/artist/2hJPfJfj1VpL2AJvelxxzx"
+        }
+      ],
+      "duration_ms": 169181,
+      "name": "Moustache",
+      "url": "https://open.spotify.com/track/3XiEknHgHpwCuk3CuA2RIV"
     },
     {
       "added_at": "2023-05-05 17:20:54",

@@ -6457,6 +6457,24 @@
     },
     {
       "album": {
+        "name": "Bloquinho P5",
+        "url": "https://open.spotify.com/album/5qbDFvGiABxXGLBPcDU6sL"
+      },
+      "artists": [
+        {
+          "name": "Black Style",
+          "url": "https://open.spotify.com/artist/0MwGDCIG2tkpyivpP06FQN"
+        }
+      ],
+      "date_added": "2024-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290117,
+      "name": "Bloquinho P5",
+      "url": "https://open.spotify.com/track/4zJNs4JLa4UIhkmBUlkfgx"
+    },
+    {
+      "album": {
         "name": "Death of a Party Girl",
         "url": "https://open.spotify.com/album/5kFjYk3umY8Pu1lymIJLVy"
       },
@@ -14385,7 +14403,7 @@
         },
         {
           "name": "DOG MAL",
-          "url": "https://open.spotify.com/artist/4us8KjejIq0X5Ucnd3Dc1l"
+          "url": "https://open.spotify.com/artist/4goi0EdvLRHAigBDBwzEx2"
         },
         {
           "name": "Mc Rodrigo do CN",
@@ -24324,7 +24342,7 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-28",
       "duration_ms": 244186,
       "name": "Love You With All My Heart",
       "url": "https://open.spotify.com/track/0UaaFmF3xUwMjnuAHBq7qL"
@@ -27184,6 +27202,24 @@
       "duration_ms": 144000,
       "name": "MEGA FUNK (MARIA MARIAH) - DJ Ryder Remix",
       "url": "https://open.spotify.com/track/37Sefc4QQlymwpkn3EuAmI"
+    },
+    {
+      "album": {
+        "name": "MEGA FUNK FAZ MACETE",
+        "url": "https://open.spotify.com/album/04dUdcmIYAHaMBwmOyr7z1"
+      },
+      "artists": [
+        {
+          "name": "TAIDigital",
+          "url": "https://open.spotify.com/artist/1rpIqBtHIGInNjPbRVha5x"
+        }
+      ],
+      "date_added": "2024-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238129,
+      "name": "MEGA FUNK FAZ MACETE",
+      "url": "https://open.spotify.com/track/7ECXBUFzjEn2sw3OKiKGIe"
     },
     {
       "album": {
@@ -42718,7 +42754,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-28",
       "duration_ms": 167706,
       "name": "SPOT!",
       "url": "https://open.spotify.com/track/1SS0WlKhJewviwEDZ6dWj0"

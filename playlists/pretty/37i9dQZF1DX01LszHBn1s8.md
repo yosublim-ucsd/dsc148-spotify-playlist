@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 
 > ⚫️⚪️ PEDRO PEDRO PEDRO ⚪️⚫️
 
-[Spotify](https://open.spotify.com/user/spotify) - 261,279 likes - 944 songs - 2 day 1 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 261,325 likes - 944 songs - 2 day 1 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Hardcore and uptempo to get you pumped
 
-256 songs - 14 hr 22 min
+257 songs - 14 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Deathblow](https://open.spotify.com/track/5odPjdHDsGX3RUSzrw7eD9) | [N\-Vitral](https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3), [BOMBSQUAD](https://open.spotify.com/artist/7fyZZzdEhPZmZWrqrYS0tl), [Spitnoise](https://open.spotify.com/artist/29kB8Ku9QQNmrl3yZw6Xxl) | [Deathblow](https://open.spotify.com/album/6PmtZ0lfWZ5XFl4IryXLxa) | 3:46 | 2022-12-08 | 2023-06-02 |
 | [Deep In The Underground](https://open.spotify.com/track/4m8YFY4i24ndKnPxpbyNSh) | [N\-Vitral](https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3), [Furyan](https://open.spotify.com/artist/7KAMvC5fpPMWUgZYu3mEYJ) | [Deep In The Underground](https://open.spotify.com/album/0LynK8y3LDFTTl5yVKWJBf) | 3:21 | 2023-11-17 |  |
 | [Demolition Hardcore](https://open.spotify.com/track/3pG4KAfjRpnfezGwDiN2mY) | [Restrained](https://open.spotify.com/artist/2ym6Gwn7qNzgiAm6VA3nsV), [Paul Elstak](https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6) | [Demolition Hardcore](https://open.spotify.com/album/70Wnww8EdxAMmEwdbrZrn8) | 3:20 | 2022-12-08 |  |
-| [Demonic Playgrounds](https://open.spotify.com/track/1kiI7G35IZs0u4vtKX2Mne) | [Nosferatu](https://open.spotify.com/artist/0S6b11xqvO6XOWZSukSjiY), [Disarray](https://open.spotify.com/artist/5HzAVjYVX8EYbLnNv9Vrke) | [Demonic Playgrounds](https://open.spotify.com/album/23jLMFzSBYcGYrdu1f85NC) | 3:08 | 2023-06-29 |  |
+| [Demonic Playgrounds](https://open.spotify.com/track/1kiI7G35IZs0u4vtKX2Mne) | [Nosferatu](https://open.spotify.com/artist/0S6b11xqvO6XOWZSukSjiY), [Disarray](https://open.spotify.com/artist/5HzAVjYVX8EYbLnNv9Vrke) | [Demonic Playgrounds](https://open.spotify.com/album/23jLMFzSBYcGYrdu1f85NC) | 3:08 | 2023-06-29 | 2024-05-28 |
 | [Demonic Rage](https://open.spotify.com/track/5Dymvc81gnshh6B60HRH7B) | [Irradiate](https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I), [DRS](https://open.spotify.com/artist/3ipAwQsSahvSht3Bb8SpLs), [Sovereign King](https://open.spotify.com/artist/4Ub0mdQEa3RhAfwWgVXp46) | [Demonic Rage](https://open.spotify.com/album/1D2OnKYOf8srzp1kTGvi0w) | 3:16 | 2022-12-08 | 2023-09-02 |
 | [Den Haag Hakkûh](https://open.spotify.com/track/4i4Wy1Rp9OmeHz98xWMR4V) | [Hans Glock](https://open.spotify.com/artist/2z6v7CjHOFGCsZlICgl52s), [The Darkraver](https://open.spotify.com/artist/3Lu9zTGOtzT2MZpfxdaHJv) | [Den Haag Hakkûh](https://open.spotify.com/album/26nTumwHgIcZNrGuFZC3UR) | 3:21 | 2023-04-06 | 2023-09-15 |
 | [DEQUINOX 100](https://open.spotify.com/track/5yrWSxe5oYCAqWgTUJVOEW) | [D\-Ceptor](https://open.spotify.com/artist/5s7xFwsoYphyICMHiXSJ0L) | [DEQUINOX 100](https://open.spotify.com/album/1xpQUl2PKeH2ofXajDVKRJ) | 3:42 | 2022-12-08 | 2023-09-02 |
@@ -79,6 +79,7 @@
 | [Fade To Black](https://open.spotify.com/track/2SYurUBnKRFobADxclh1RA) | [Dj Mad Dog](https://open.spotify.com/artist/7oX7rzli18XsB2WFd88oW4), [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3) | [Fade To Black](https://open.spotify.com/album/0EUYMtj5bwFoOHwdHwv8IT) | 3:46 | 2024-05-16 |  |
 | [Fake Shit](https://open.spotify.com/track/2YV9sAhCtOC0ybKcFjHErO) | [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP) | [Fake Shit](https://open.spotify.com/album/6e0Et3Pidz5fELr3QgH7Te) | 3:03 | 2022-12-08 | 2023-12-22 |
 | [Fat Beat](https://open.spotify.com/track/6uWksA4RzIKGlHNg4of8pV) | [N\-Vitral](https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3), [Killshot](https://open.spotify.com/artist/2m5uCiZcpQ50tXsJrThFoM) | [Fat Beat](https://open.spotify.com/album/4FxTlGHqQ4Xl6S5QByZEBl) | 3:51 | 2023-02-09 |  |
+| [Fear Means Nothing](https://open.spotify.com/track/5IMxXIfzFdaTQuFSmj3K8j) | [LØIS](https://open.spotify.com/artist/26BlBsd1xi3sWL8quhNrr5), [NATHN](https://open.spotify.com/artist/12cbTL9PVQKIZ84kcmcg6L), [Zentryc](https://open.spotify.com/artist/1C0qYaeK3MtaDfOWbOnme7) | [Fear Means Nothing](https://open.spotify.com/album/4DZKHRN2X3icFOtTTCwJmr) | 5:53 | 2024-05-17 |  |
 | [Feed Your Soul](https://open.spotify.com/track/7mTyKvhmh3SiW0uOuqzRPZ) | [Bloodlust](https://open.spotify.com/artist/1vDMUXdbIJHTSC8ZAf2Zqp) | [Feed Your Soul](https://open.spotify.com/album/5VjPS4lmtkEC5VY08cIloC) | 3:13 | 2023-05-15 |  |
 | [Fight Them All](https://open.spotify.com/track/0rZBe91kLd0h85B9e7T3vR) | [Broken Minds](https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE), [Never Surrender](https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6) | [Fight Them All](https://open.spotify.com/album/7wY8Z4jVcMXECcIQ83docS) | 2:51 | 2023-02-23 |  |
 | [Force Of Salvation \- Official Masters of Hardcore Austria 2023 Anthem](https://open.spotify.com/track/56tEduBCyWPZ3gVAWONJCu) | [GridKiller](https://open.spotify.com/artist/7njBiH1Uy0qNA8VvPPtEG7) | [Force Of Salvation \(Official Masters of Hardcore Austria 2023 Anthem\)](https://open.spotify.com/album/3frDN1XwkMYXIB504jjoKY) | 5:22 | 2023-01-12 |  |

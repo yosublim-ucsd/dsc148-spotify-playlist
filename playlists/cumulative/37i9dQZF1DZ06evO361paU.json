@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-29",
-  "description": "This is Lenny Kravitz. The essential tracks, all in one playlist.",
+  "description": "This Is Lenny Kravitz. Los temas esenciales, todos en una lista.",
   "name": "This Is Lenny Kravitz",
   "tracks": [
     {
@@ -106,7 +106,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-28",
       "duration_ms": 211933,
       "name": "Are You Gonna Go My Way",
       "url": "https://open.spotify.com/track/45Ia1U4KtIjAPPU7Wv1Sea"
@@ -160,7 +160,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-27",
+      "date_removed": null,
       "duration_ms": 290826,
       "name": "Black Velveteen",
       "url": "https://open.spotify.com/track/7ptNdKLu4PHKcma1zCAQLW"
@@ -294,7 +294,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-27",
+      "date_removed": null,
       "duration_ms": 288400,
       "name": "Circus",
       "url": "https://open.spotify.com/track/773RId8EM5wexAlZMlVMeL"
@@ -532,7 +532,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-28",
       "duration_ms": 257733,
       "name": "I Belong To You",
       "url": "https://open.spotify.com/track/02UjN28wB5uyeqUhZTiuZ2"
@@ -622,7 +622,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-28",
       "duration_ms": 242640,
       "name": "It Ain't Over 'Til It's Over",
       "url": "https://open.spotify.com/track/6VnpKLtfNH4Dk09YSGPSyR"
@@ -676,7 +676,7 @@
       ],
       "date_added": "2024-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-28",
       "duration_ms": 379513,
       "name": "It\u2019s Just Another Fine Day (In This Universe of Love)",
       "url": "https://open.spotify.com/track/4UE5VK4SyBvR21OU2O3h9P"
@@ -784,7 +784,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-27",
+      "date_removed": null,
       "duration_ms": 464733,
       "name": "Little Girl's Eyes",
       "url": "https://open.spotify.com/track/3JvKhMWM71THA9WIX6x8o6"
@@ -1036,7 +1036,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-28",
       "duration_ms": 203933,
       "name": "Rock And Roll Is Dead",
       "url": "https://open.spotify.com/track/1os9lKQD0M56nlIiXbWpE5"
@@ -1080,6 +1080,24 @@
       "duration_ms": 221360,
       "name": "Something Beautiful",
       "url": "https://open.spotify.com/track/1ZESGzWrFSwXPplkscUsUR"
+    },
+    {
+      "album": {
+        "name": "Blue Electric Light",
+        "url": "https://open.spotify.com/album/33i9bBiL7PuwD5hEG9GoUi"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "date_added": "2024-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273790,
+      "name": "Spirit in My Heart",
+      "url": "https://open.spotify.com/track/4hAskjUNsXafyR3LX9Zzbr"
     },
     {
       "album": {
@@ -1224,7 +1242,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-27",
+      "date_removed": null,
       "duration_ms": 208626,
       "name": "Superlove",
       "url": "https://open.spotify.com/track/3jzm36w0SW0QD005JxbRUR"
@@ -1278,7 +1296,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-28",
       "duration_ms": 384133,
       "name": "Thinking Of You",
       "url": "https://open.spotify.com/track/4LU3LpgFCNdi8PE9PgnTZM"
@@ -1350,7 +1368,7 @@
       ],
       "date_added": "2024-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-27",
+      "date_removed": null,
       "duration_ms": 280293,
       "name": "We Can Get It All Together",
       "url": "https://open.spotify.com/track/4VCvcqaN8JZUtArycNezHm"

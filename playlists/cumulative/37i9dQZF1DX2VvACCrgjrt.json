@@ -656,7 +656,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-28",
       "duration_ms": 156751,
       "name": "Ass To The Back",
       "url": "https://open.spotify.com/track/3KlITvvpOjfOugac2vLfSM"
@@ -5594,6 +5594,28 @@
       "duration_ms": 218709,
       "name": "Get It",
       "url": "https://open.spotify.com/track/4fF0io7XLVOSx5TD8DDMpc"
+    },
+    {
+      "album": {
+        "name": "Get It Now",
+        "url": "https://open.spotify.com/album/24TWQdus1y6gjYbWzTLja8"
+      },
+      "artists": [
+        {
+          "name": "Galoski",
+          "url": "https://open.spotify.com/artist/19gU7Hvep0G37JeiLf3TNB"
+        },
+        {
+          "name": "Almero",
+          "url": "https://open.spotify.com/artist/7q03I7IegvJ063qYJIg4kI"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168937,
+      "name": "Get It Now",
+      "url": "https://open.spotify.com/track/1BKM1I18zJBgQBNJ90EFxk"
     },
     {
       "album": {

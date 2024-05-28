@@ -4,7 +4,7 @@
 
 > Happy Asian Pacific Islander Heritage Month!! Celebrate with us and check out our stories ⬅️⬆️ Cover: Tiffany Day.
 
-806 songs - 1 day 17 hr 35 min
+807 songs - 1 day 17 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,6 +172,7 @@
 | [Desire](https://open.spotify.com/track/2VT7wOadDYKMeDLsys9vzF) | [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN), [MADI](https://open.spotify.com/artist/5KtyvSnzn6NcqukCOsjfe0) | [Desire](https://open.spotify.com/album/6tUQHiBPeeWlFoSEBFYDAQ) | 4:53 | 2022-07-22 | 2022-08-30 |
 | [Destiny](https://open.spotify.com/track/6mo3ujTtVxsN7ZoIdIE5Cc) | [Hojean](https://open.spotify.com/artist/0ENnerFBtqPaVUcHadXU2w) | [Destiny](https://open.spotify.com/album/5daQgnQ5qQJ9sSYln3MaNI) | 2:06 | 2023-05-12 | 2023-10-16 |
 | [Die For You](https://open.spotify.com/track/26hOm7dTtBi0TdpDGl141t) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [SMITHEREENS](https://open.spotify.com/album/2hEnymoejldpuxSdTnkard) | 3:31 | 2022-11-04 | 2023-11-11 |
+| [DIGITAL BABE](https://open.spotify.com/track/0j7il6QUxW1bc9h3otA2Qb) | [Rhea Raj](https://open.spotify.com/artist/7inC0Ybb6OGEMB7GP8nfi1) | [DIGITAL BABE](https://open.spotify.com/album/1XNIu6K8tW9LyfvIK9kWfa) | 2:29 | 2024-05-24 |  |
 | [DIRT](https://open.spotify.com/track/4yecHdRmT62mztymihKxYK) | [Zoe Ko](https://open.spotify.com/artist/493xhO4GiL1eOhWUBt8CzZ) | [DIRT](https://open.spotify.com/album/5cRSLaVtgLt9U3leSOTcXD) | 2:15 | 2024-03-22 |  |
 | [Dirt Cheap](https://open.spotify.com/track/6fWAyMm3JXgX9mdgsVVI8r) | [Sion](https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r) | [Dirt Cheap](https://open.spotify.com/album/0n8A3aH6y13KBdMGSRMaYq) | 3:02 | 2023-02-24 | 2023-08-19 |
 | [Disappear](https://open.spotify.com/track/1vKPCcclqSIHpMIh4YieQG) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Loveworm](https://open.spotify.com/album/475CNcvlqtRpaXjTcn4hCP) | 4:08 | 2023-09-01 | 2023-09-23 |
@@ -508,7 +509,7 @@
 | [Old Her](https://open.spotify.com/track/29SZ02R7DwLxLeusrbgpCl) | [YDE](https://open.spotify.com/artist/1evuFyLdwoIOIrYxMUfnWW) | [Old Her](https://open.spotify.com/album/65Uv70W3Ci8mU3obr002Jc) | 3:01 | 2022-06-10 | 2022-08-27 |
 | [omg](https://open.spotify.com/track/0Ni3UTucdl8y2j3EG4w5PB) | [Gloria Kim](https://open.spotify.com/artist/1DUd25ybTBglvAohsXTmBx) | [omg](https://open.spotify.com/album/52tsBgV4HNKMsS00PZXbUF) | 2:22 | 2023-02-07 | 2023-08-12 |
 | [OMG](https://open.spotify.com/track/65FftemJ1DbbZ45DUfHJXE) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 'OMG'](https://open.spotify.com/album/45ozep8uHHnj5CCittuyXj) | 3:32 | 2023-01-06 | 2024-02-24 |
-| [On Everything](https://open.spotify.com/track/2E009KpQieiSpGDru6l5fU) | [mabanua](https://open.spotify.com/artist/1lBnm3edbDJ7KbWSHzSGQP), [Otomodatchi](https://open.spotify.com/artist/1YtYMJNUVAW60TKtwu6PQj) | [On Everything](https://open.spotify.com/album/79nCVge6Qf4GrdjdTMazLf) | 3:08 | 2024-02-16 |  |
+| [On Everything](https://open.spotify.com/track/2E009KpQieiSpGDru6l5fU) | [mabanua](https://open.spotify.com/artist/1lBnm3edbDJ7KbWSHzSGQP), [Otomodatchi](https://open.spotify.com/artist/1YtYMJNUVAW60TKtwu6PQj) | [On Everything](https://open.spotify.com/album/79nCVge6Qf4GrdjdTMazLf) | 3:08 | 2024-02-16 | 2024-05-28 |
 | [On The Ground](https://open.spotify.com/track/2pn8dNVSpYnAtlKFC8Q0DJ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [R](https://open.spotify.com/album/5BQcoDfcZ8aBcikYX9B7Ob) | 2:48 | 2022-05-27 | 2022-08-27 |
 | [One Day](https://open.spotify.com/track/3VwhJRJyoaGiEAAzR0WyhI) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [One Day](https://open.spotify.com/album/5yGros4T4Mwwd1dE8UWpvZ) | 2:26 | 2022-05-27 | 2023-05-06 |
 | [One Last Dance \(feat\. Milky Day\)](https://open.spotify.com/track/1ebn8pmLr7RDAzrBaIpsw8) | [Thomas Ng](https://open.spotify.com/artist/2ZeeJPDvqzQ7c8iG3rRsyc), [Milky Day](https://open.spotify.com/artist/7FIqXqYZHMomTAcTXF4UHu) | [One Last Dance \(feat\. Milky Day\)](https://open.spotify.com/album/4vXSnmAf2LYQgslL8vgeBQ) | 2:53 | 2022-05-27 | 2023-08-12 |

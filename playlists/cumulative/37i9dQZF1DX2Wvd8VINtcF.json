@@ -19065,6 +19065,24 @@
     },
     {
       "album": {
+        "name": "Shadowboxing",
+        "url": "https://open.spotify.com/album/1HUf8zUI0a5FUpPUz5iWnB"
+      },
+      "artists": [
+        {
+          "name": "Yung Lean",
+          "url": "https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3"
+        }
+      ],
+      "date_added": "2024-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148085,
+      "name": "Shadowboxing",
+      "url": "https://open.spotify.com/track/0fBQTn9wZhZrJ0KkdaOhU0"
+    },
+    {
+      "album": {
         "name": "Fluent Stutter",
         "url": "https://open.spotify.com/album/5Yt14bxTQxx2FbFcmTjAYA"
       },

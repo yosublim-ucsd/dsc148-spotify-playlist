@@ -1,29 +1,13 @@
 {
-  "description": "This is Los Enanitos Verdes. The essential tracks, all in one playlist.",
-  "num_followers": 188014,
+  "description": "This Is Los Enanitos Verdes. Los temas esenciales, todos en una lista.",
+  "num_followers": 188035,
   "original_name": "This Is Los Enanitos Verdes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlEqAAAAAADDpYUhfFAzQ0zIXns27w5h",
+  "snapshot_id": "ZlJ7gAAAAACJpXBpJjGn/jDESyRro3EZ",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Big Bang",
-        "url": "https://open.spotify.com/album/3y63u5vmuMugqI8lfuUY3a"
-      },
-      "artists": [
-        {
-          "name": "Los Enanitos Verdes",
-          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
-        }
-      ],
-      "duration_ms": 222226,
-      "name": "Lamento Boliviano",
-      "url": "https://open.spotify.com/track/6Pur3hWy6Nzc27ilmsp5HA"
-    },
     {
       "added_at": null,
       "album": {

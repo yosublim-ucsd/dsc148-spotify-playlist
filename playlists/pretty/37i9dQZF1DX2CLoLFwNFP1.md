@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2CLoLFwNFP1.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,451 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,482 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2CLoLFwNFP1.md) - [plain]
 | 31 | [Juice \(Prod\. CODE KUNST\)](https://open.spotify.com/track/3Xgttn2kqwZE4smkIlnmhE) | [Choi Seo Hyun](https://open.spotify.com/artist/45MYCJEVTetzK6k2UeuHv0), [Maddox](https://open.spotify.com/artist/7KieZTca53gfdVzwdODV2L), [Seungrae](https://open.spotify.com/artist/7g5FyggODL4LruwJvqx4yh) | [SignHere episode1](https://open.spotify.com/album/5nwsIsO5NUjZ0lDf7oMCTh) | 3:59 |
 | 32 | [Dior Socks](https://open.spotify.com/track/7qVIWLqMGF2XFNXW1kXXuy) | [Jay Loud](https://open.spotify.com/artist/2zlYZjumfIxajIKfk41H9A), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Dior Socks](https://open.spotify.com/album/7aX9l4mQYa1lOGH9UXwjOw) | 3:33 |
 | 33 | [No Gravity \(Prod\. Jay Park & DJ Wegun & WOOGIE & GroovyRoom\)](https://open.spotify.com/track/1gUFxP5qGhfDemzaJjkrDb) | [Part Time Cooks](https://open.spotify.com/artist/51e7K2KFkHECVO460ruq8L), [MBA](https://open.spotify.com/artist/0c6EF9zv5mQX7pkyrPawKS), [MELOH](https://open.spotify.com/artist/5Qb6QmI6WUeGFaJeGB5fdg) | [SignHere episode1](https://open.spotify.com/album/5nwsIsO5NUjZ0lDf7oMCTh) | 4:18 |
-| 34 | [Think \(feat\. Jay Park\)](https://open.spotify.com/track/1CXFpNn6Zry8QziDpz7wC9) | [REDDY](https://open.spotify.com/artist/69H1Ooj2eBJXLTk3IEBV0v), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Think](https://open.spotify.com/album/10YUSQwsDYah4Bi7E33jUA) | 3:51 |
+| 34 | [Butterflies](https://open.spotify.com/track/67HH5Ldb4iflU0OTYpTPbg) | [Wolftyla](https://open.spotify.com/artist/7qd6KGoABHifvXKeFNe2Yb), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Butterflies](https://open.spotify.com/album/23alt0JS07GoXtzXX0cx8H) | 3:11 |
 | 35 | [Thuggin 4 My Baby](https://open.spotify.com/track/5l4DwTPXsAREUlBiRV6qil) | [YULTRON](https://open.spotify.com/artist/3n2H1XlCyS1WQ0vyVUFEma), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Bone Thugs\-N\-Harmony](https://open.spotify.com/artist/5spEJXLwD1sKUdC2bnOHPg) | [Thuggin 4 My Baby](https://open.spotify.com/album/05yZdaFZebreNpWGOssmsl) | 3:24 |
-| 36 | [Butterflies](https://open.spotify.com/track/67HH5Ldb4iflU0OTYpTPbg) | [Wolftyla](https://open.spotify.com/artist/7qd6KGoABHifvXKeFNe2Yb), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Butterflies](https://open.spotify.com/album/23alt0JS07GoXtzXX0cx8H) | 3:11 |
+| 36 | [Think \(feat\. Jay Park\)](https://open.spotify.com/track/1CXFpNn6Zry8QziDpz7wC9) | [REDDY](https://open.spotify.com/artist/69H1Ooj2eBJXLTk3IEBV0v), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Think](https://open.spotify.com/album/10YUSQwsDYah4Bi7E33jUA) | 3:51 |
 | 37 | [Slide \- Remix](https://open.spotify.com/track/2UqsF7vP3sxJYaiLrg6s14) | [Maliibu Miitch](https://open.spotify.com/artist/5J1JcdYCPj44YKz6kVA5wx), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Slide \(Remix\)](https://open.spotify.com/album/2VCfveEkytX9YzSQKXPZsr) | 2:55 |
 | 38 | [h1ghr gang](https://open.spotify.com/track/2IOdMrxCSPITQHxxXvb4Xs) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [BOYCOLD](https://open.spotify.com/album/5ymwUauRI4kY2omHdBkGUt) | 4:52 |
 | 39 | [POST IT \(Feat\. Jay Park\)](https://open.spotify.com/track/6yYAcOlhsYR9jVZPYoHvYc) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [POST IT](https://open.spotify.com/album/5j9o6fcQjKHAyRDhdfS9aI) | 3:46 |

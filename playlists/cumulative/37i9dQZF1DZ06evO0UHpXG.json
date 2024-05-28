@@ -1414,7 +1414,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-28",
       "duration_ms": 313520,
       "name": "Overkill",
       "url": "https://open.spotify.com/track/4XvvR8F6qOcnzgChO1uTIO"
@@ -1750,6 +1750,24 @@
       "duration_ms": 160000,
       "name": "Stay Clean",
       "url": "https://open.spotify.com/track/7duLhTL7l71Vcp7IFUdhYd"
+    },
+    {
+      "album": {
+        "name": "Bomber (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/15GpLaEsWkRtrpbZ2l2eQP"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2024-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291840,
+      "name": "Stone Dead Forever",
+      "url": "https://open.spotify.com/track/1RQilPMMZilPmHvW2GEkxG"
     },
     {
       "album": {

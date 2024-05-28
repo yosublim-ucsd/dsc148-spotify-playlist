@@ -894,7 +894,7 @@
       ],
       "date_added": "2024-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-28",
       "duration_ms": 251437,
       "name": "Hard Time with the Truth",
       "url": "https://open.spotify.com/track/62lfEuwS7x5fKj4pCclalb"
@@ -1690,6 +1690,24 @@
       "duration_ms": 226626,
       "name": "Somebody's Daughter",
       "url": "https://open.spotify.com/track/212JC1fIZDB2Wp5B16eZON"
+    },
+    {
+      "album": {
+        "name": "Somebody's Daughter",
+        "url": "https://open.spotify.com/album/5JANosOg20QAjkayyPeb2I"
+      },
+      "artists": [
+        {
+          "name": "Tenille Townes",
+          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
+        }
+      ],
+      "date_added": "2024-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226666,
+      "name": "Somebody's Daughter",
+      "url": "https://open.spotify.com/track/7GW2dqJ13S3UutqzSuvzlR"
     },
     {
       "album": {

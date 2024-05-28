@@ -1,6 +1,6 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Bluay",
-  "num_followers": 45713,
+  "num_followers": 45751,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
@@ -683,18 +683,22 @@
     {
       "added_at": "2024-05-24 10:29:11",
       "album": {
-        "name": "Let You Go",
-        "url": "https://open.spotify.com/album/75YlSkZGyWUGB1BzPd9Egz"
+        "name": "Quem Tu Mereces",
+        "url": "https://open.spotify.com/album/2tQ4nC33veFyfLbI0EwSo7"
       },
       "artists": [
         {
-          "name": "Richie Campbell",
-          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
+          "name": "CADU",
+          "url": "https://open.spotify.com/artist/632Kw78b8XGotuWxpKV2A3"
+        },
+        {
+          "name": "Kuptz",
+          "url": "https://open.spotify.com/artist/5LzaJ0lNZxQBkZxzOqJYkd"
         }
       ],
-      "duration_ms": 204320,
-      "name": "Let You Go",
-      "url": "https://open.spotify.com/track/2Z8pPatBfVlRqNlsnmMdhV"
+      "duration_ms": 212331,
+      "name": "Quem Tu Mereces",
+      "url": "https://open.spotify.com/track/2qNu8tgL3PPubm8NzSQzb9"
     },
     {
       "added_at": "2024-05-24 10:29:11",
@@ -747,42 +751,18 @@
     {
       "added_at": "2024-05-24 10:29:11",
       "album": {
-        "name": "Quem Tu Mereces",
-        "url": "https://open.spotify.com/album/2tQ4nC33veFyfLbI0EwSo7"
-      },
-      "artists": [
-        {
-          "name": "CADU",
-          "url": "https://open.spotify.com/artist/632Kw78b8XGotuWxpKV2A3"
-        },
-        {
-          "name": "Kuptz",
-          "url": "https://open.spotify.com/artist/5LzaJ0lNZxQBkZxzOqJYkd"
-        }
-      ],
-      "duration_ms": 212331,
-      "name": "Quem Tu Mereces",
-      "url": "https://open.spotify.com/track/2qNu8tgL3PPubm8NzSQzb9"
-    },
-    {
-      "added_at": "2024-05-24 10:29:11",
-      "album": {
-        "name": "Tsunami",
-        "url": "https://open.spotify.com/album/27Gt5wAgEVjatU36I1ogDf"
+        "name": "Let You Go",
+        "url": "https://open.spotify.com/album/75YlSkZGyWUGB1BzPd9Egz"
       },
       "artists": [
         {
           "name": "Richie Campbell",
           "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
-        },
-        {
-          "name": "Gson",
-          "url": "https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj"
         }
       ],
-      "duration_ms": 297737,
-      "name": "Tsunami",
-      "url": "https://open.spotify.com/track/5TqGewrmzgeb21FYQC7mJZ"
+      "duration_ms": 204320,
+      "name": "Let You Go",
+      "url": "https://open.spotify.com/track/2Z8pPatBfVlRqNlsnmMdhV"
     },
     {
       "added_at": "2024-05-24 10:29:11",
@@ -855,6 +835,26 @@
     {
       "added_at": "2024-05-24 10:29:11",
       "album": {
+        "name": "Tsunami",
+        "url": "https://open.spotify.com/album/27Gt5wAgEVjatU36I1ogDf"
+      },
+      "artists": [
+        {
+          "name": "Richie Campbell",
+          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
+        },
+        {
+          "name": "Gson",
+          "url": "https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj"
+        }
+      ],
+      "duration_ms": 297737,
+      "name": "Tsunami",
+      "url": "https://open.spotify.com/track/5TqGewrmzgeb21FYQC7mJZ"
+    },
+    {
+      "added_at": "2024-05-24 10:29:11",
+      "album": {
         "name": "longe.com",
         "url": "https://open.spotify.com/album/6egKDfB8eutMUNy9pyxbbA"
       },
@@ -867,26 +867,6 @@
       "duration_ms": 197511,
       "name": "longe.com",
       "url": "https://open.spotify.com/track/5tuN13MrEiNOGFW9cvhhzv"
-    },
-    {
-      "added_at": "2024-05-24 10:29:11",
-      "album": {
-        "name": "\u00c0 Tua Porta",
-        "url": "https://open.spotify.com/album/7gYGEPMjrZIad5Lk6mous8"
-      },
-      "artists": [
-        {
-          "name": "Van Zee",
-          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
-        },
-        {
-          "name": "Carolina Deslandes",
-          "url": "https://open.spotify.com/artist/6xolQjWFT24ykWke55u9fU"
-        }
-      ],
-      "duration_ms": 211636,
-      "name": "\u00c0 Tua Porta",
-      "url": "https://open.spotify.com/track/5gWEoHkpYex8mi50RCZ3ll"
     },
     {
       "added_at": "2024-05-24 10:29:11",
@@ -911,6 +891,26 @@
       "duration_ms": 209150,
       "name": "Agrade\u00e7o",
       "url": "https://open.spotify.com/track/5GXJgx3zcR3m3ihcqbFBLv"
+    },
+    {
+      "added_at": "2024-05-24 10:29:11",
+      "album": {
+        "name": "\u00c0 Tua Porta",
+        "url": "https://open.spotify.com/album/7gYGEPMjrZIad5Lk6mous8"
+      },
+      "artists": [
+        {
+          "name": "Van Zee",
+          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
+        },
+        {
+          "name": "Carolina Deslandes",
+          "url": "https://open.spotify.com/artist/6xolQjWFT24ykWke55u9fU"
+        }
+      ],
+      "duration_ms": 211636,
+      "name": "\u00c0 Tua Porta",
+      "url": "https://open.spotify.com/track/5gWEoHkpYex8mi50RCZ3ll"
     },
     {
       "added_at": "2024-05-24 10:29:11",
@@ -1059,26 +1059,6 @@
     {
       "added_at": "2024-05-24 10:29:11",
       "album": {
-        "name": "Mo Ki Nu Ta Fazi",
-        "url": "https://open.spotify.com/album/5xaOy0KY0SKrRNccDXZua9"
-      },
-      "artists": [
-        {
-          "name": "Rapaz 100 Juiz",
-          "url": "https://open.spotify.com/artist/3lWv4xqCdJgw3CmFkwnTt5"
-        },
-        {
-          "name": "Loony Johnson",
-          "url": "https://open.spotify.com/artist/0AJ7gzFhNKeCeIpFNikyWv"
-        }
-      ],
-      "duration_ms": 220217,
-      "name": "Mo Ki Nu Ta Fazi",
-      "url": "https://open.spotify.com/track/678MOfN1hxfPoOGodwKU10"
-    },
-    {
-      "added_at": "2024-05-24 10:29:11",
-      "album": {
         "name": "Orgulho",
         "url": "https://open.spotify.com/album/2pv6xhnEH7N71mcgMkp7wX"
       },
@@ -1095,6 +1075,26 @@
       "duration_ms": 264496,
       "name": "Orgulho",
       "url": "https://open.spotify.com/track/76dnUs1YTIIGCUBiTWIbY4"
+    },
+    {
+      "added_at": "2024-05-24 10:29:11",
+      "album": {
+        "name": "Mo Ki Nu Ta Fazi",
+        "url": "https://open.spotify.com/album/5xaOy0KY0SKrRNccDXZua9"
+      },
+      "artists": [
+        {
+          "name": "Rapaz 100 Juiz",
+          "url": "https://open.spotify.com/artist/3lWv4xqCdJgw3CmFkwnTt5"
+        },
+        {
+          "name": "Loony Johnson",
+          "url": "https://open.spotify.com/artist/0AJ7gzFhNKeCeIpFNikyWv"
+        }
+      ],
+      "duration_ms": 220217,
+      "name": "Mo Ki Nu Ta Fazi",
+      "url": "https://open.spotify.com/track/678MOfN1hxfPoOGodwKU10"
     },
     {
       "added_at": "2024-05-24 10:29:11",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2024-05-24 10:29:11",
       "album": {
-        "name": "\u00e2ngulo morto",
-        "url": "https://open.spotify.com/album/6rVLA2QZ4ZyOIMXt7riQiT"
-      },
-      "artists": [
-        {
-          "name": "E.Se",
-          "url": "https://open.spotify.com/artist/5nEB0TgQYisGlSy8c1C64l"
-        }
-      ],
-      "duration_ms": 148467,
-      "name": "\u00e2ngulo morto",
-      "url": "https://open.spotify.com/track/4SeMRBstr9y1QUuzHFBVp1"
-    },
-    {
-      "added_at": "2024-05-24 10:29:11",
-      "album": {
         "name": "O Que N\u00f3s Fomos",
         "url": "https://open.spotify.com/album/5ry5DvQrHsTy6K1rblmtWJ"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 158081,
       "name": "O Que N\u00f3s Fomos",
       "url": "https://open.spotify.com/track/1t7wZZ9tR4E25OHBnQxCgf"
+    },
+    {
+      "added_at": "2024-05-24 10:29:11",
+      "album": {
+        "name": "\u00e2ngulo morto",
+        "url": "https://open.spotify.com/album/6rVLA2QZ4ZyOIMXt7riQiT"
+      },
+      "artists": [
+        {
+          "name": "E.Se",
+          "url": "https://open.spotify.com/artist/5nEB0TgQYisGlSy8c1C64l"
+        }
+      ],
+      "duration_ms": 148467,
+      "name": "\u00e2ngulo morto",
+      "url": "https://open.spotify.com/track/4SeMRBstr9y1QUuzHFBVp1"
     },
     {
       "added_at": "2024-05-24 10:29:11",

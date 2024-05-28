@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DWW9tK1GiTdMf.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWW9tK1GiTdMf) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWW9tK1GiTdMf)
 
-### [sanguegiovane 🩸](https://open.spotify.com/playlist/37i9dQZF1DWW9tK1GiTdMf)
+### [sanguegiovane: Live al MI AMI](https://open.spotify.com/playlist/37i9dQZF1DWW9tK1GiTdMf)
 
-> canzoni che ti fanno ribaltare i tavoli \(╯°□°\)╯︵ ┻━┻ Cover: EMMA
+> Musica che ti fa ribaltare i tavoli e dare baci\. In cover EMMA, live al <a href="https://www.instagram.com/miami\_fest/">MI AMI</a>! Foto di <a href="https://www.instagram.com/silviaviolanterouge/">@silviaviolanterouge</a>
 
 949 songs - 1 day 19 hr 45 min
 

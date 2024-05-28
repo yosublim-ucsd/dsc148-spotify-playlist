@@ -1440,7 +1440,7 @@
       ],
       "date_added": "2024-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-28",
       "duration_ms": 156150,
       "name": "Amor Na Praia",
       "url": "https://open.spotify.com/track/3FB06ULqN0WNUSQ3UaMZnF"
@@ -11774,7 +11774,7 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-28",
       "duration_ms": 206538,
       "name": "Lua",
       "url": "https://open.spotify.com/track/6r6wTVl7sBndpdlzBSEYnF"
@@ -11832,7 +11832,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-28",
       "duration_ms": 179586,
       "name": "LUNCH",
       "url": "https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE"
@@ -12966,7 +12966,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-28",
       "duration_ms": 341408,
       "name": "Melhor Vibe",
       "url": "https://open.spotify.com/track/5brVlCCt8gp4pP0iJOOctj"
@@ -13410,6 +13410,28 @@
       "duration_ms": 154023,
       "name": "Mil Veces",
       "url": "https://open.spotify.com/track/4ykqiczrn3FPNVMKVd0wXh"
+    },
+    {
+      "album": {
+        "name": "Deu Rolo de Novo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5cvRAkiIj3vlPZRXvRvHxk"
+      },
+      "artists": [
+        {
+          "name": "Guilherme & Benuto",
+          "url": "https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu"
+        },
+        {
+          "name": "Wesley Safad\u00e3o",
+          "url": "https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa"
+        }
+      ],
+      "date_added": "2024-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154698,
+      "name": "Milion\u00e1rio - Ao Vivo",
+      "url": "https://open.spotify.com/track/0ZPi3J8EXmUuTDMaSOcCX5"
     },
     {
       "album": {
@@ -16174,7 +16196,7 @@
       ],
       "date_added": "2023-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-22",
+      "date_removed": null,
       "duration_ms": 178765,
       "name": "Pega o Guanabara - Ao Vivo",
       "url": "https://open.spotify.com/track/7CIj5SFTB6WPJrYjLZN5bp"
@@ -17698,7 +17720,7 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-29",
+      "date_removed": null,
       "duration_ms": 162865,
       "name": "Quem t\u00e1 Pegando",
       "url": "https://open.spotify.com/track/6L2ule7uWSdh1qjcMO3vUD"
@@ -18486,7 +18508,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-28",
       "duration_ms": 300842,
       "name": "Samba de Malandro",
       "url": "https://open.spotify.com/track/5u7Xi0QhfkYy3qETJJ5lae"
@@ -20148,7 +20170,7 @@
       ],
       "date_added": "2022-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-23",
+      "date_removed": null,
       "duration_ms": 170880,
       "name": "Tchuco Nela",
       "url": "https://open.spotify.com/track/3ShKPhFkexrwl7WoyTtNND"
@@ -21341,6 +21363,24 @@
     },
     {
       "album": {
+        "name": "As Melhores",
+        "url": "https://open.spotify.com/album/2DtXt6a4mvrtcGMj56c0H4"
+      },
+      "artists": [
+        {
+          "name": "Wesley Safad\u00e3o",
+          "url": "https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa"
+        }
+      ],
+      "date_added": "2024-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156130,
+      "name": "Tu Tava Na Revoada - Ao Vivo",
+      "url": "https://open.spotify.com/track/5yHUoqb2d8670KFzwtGY5F"
+    },
+    {
+      "album": {
         "name": "Tubarao Te Amo vs Andou Na Prancha Cuidado Tubarao Vai te Pegar",
         "url": "https://open.spotify.com/album/1srwuY94jh8m6OYYCbA1Dv"
       },
@@ -21866,7 +21906,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-14",
+      "date_removed": null,
       "duration_ms": 130403,
       "name": "Vacil\u00e3o",
       "url": "https://open.spotify.com/track/7CJJ7JC3kj9XdweWTvfVhX"
@@ -22340,7 +22380,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-28",
       "duration_ms": 243870,
       "name": "Vem Desestressar",
       "url": "https://open.spotify.com/track/5jrQZnYInM6YUjr2yFSa3E"

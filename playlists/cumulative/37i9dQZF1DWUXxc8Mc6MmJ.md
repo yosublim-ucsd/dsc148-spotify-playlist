@@ -4,7 +4,7 @@
 
 > Relive your favourite K\-Drama moments with these classic soundtracks\. \(그 시절 그 때의 감성이 담겨 있는 OST 명곡들을 만나보세요.\)
 
-291 songs - 18 hr 47 min
+292 songs - 18 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,6 +212,7 @@
 | [Shine Bright](https://open.spotify.com/track/6j9Gz44NPTCewKoSxHxwqi) | [Lee Soo Young](https://open.spotify.com/artist/6GrRqCT2aRWjPMUmPY8oR5) | [Kkondae Intern OST Part 4](https://open.spotify.com/album/4r45yiczwTEjnU6BGHYte6) | 4:25 | 2022-06-24 | 2022-10-07 |
 | [Shine on you 빛이 되어줄게](https://open.spotify.com/track/1xwdQb2loC5MhbkNPV4SuQ) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [The Tale Of Nokdu 조선로코 \- 녹두전 \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/4LtDoZ3dIPgoWWoflo7mhv) | 4:10 | 2022-06-24 | 2022-07-02 |
 | [Slowly Fall](https://open.spotify.com/track/20iKxZ9WfxHgTB2GVXpQMk) | [Ha Hyunsang](https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb) | [A PIECE OF YOUR MIND \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/12I9OaovCrdtLLroBYcnco) | 4:01 | 2022-05-11 | 2022-07-29 |
+| [Someday](https://open.spotify.com/track/3uZxAOpw6ZjMT36GrxqDoK) | [Park Eunbin](https://open.spotify.com/artist/1ANiPe6RWnAKnfwORN5vxP) | [CASTAWAY DIVA OST SEO MOK HA \(PARK EUN BIN\) Vol.1](https://open.spotify.com/album/3IJEj5V5TA7Dbz0LpE7nhJ) | 3:52 | 2024-05-27 |  |
 | [Someday, The Boy](https://open.spotify.com/track/1N0vwih6TUIb9kYtynvlRc) | [Kim Feel](https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA) | [ITAEWON CLASS \(Original Television Soundtrack\) Pt\. 6](https://open.spotify.com/album/7jMfA0dYFKHcqGNtgi8WCJ) | 4:47 | 2022-05-11 | 2023-06-04 |
 | [Stand By Me](https://open.spotify.com/track/4y6TpWQJjW5nVRn3wDs1qa) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [꽃보다 남자 \(Original Television Soundtrack\)](https://open.spotify.com/album/4jMu4ZrYUtiQNHIZvS42oR) | 4:07 | 2024-04-03 |  |
 | [Stardust love song](https://open.spotify.com/track/01Evjih77HRm4aG3YeGcX7) | [JIHYO](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL) | [Twenty\-Five Twenty\-One OST Part 6](https://open.spotify.com/album/1n609tR3RQlWgEjFwkTfj3) | 4:11 | 2022-06-24 |  |
@@ -253,7 +254,7 @@
 | [Who I strolled with](https://open.spotify.com/track/0kbEUq3HukO0q1OKoM9B4W) | [Poetic Narrator](https://open.spotify.com/artist/5LkR25p8z9zlJpkwJP5M1o) | [A PIECE OF YOUR MIND \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/5vFUgTDnoCJCoYzS694bbc) | 3:10 | 2022-06-09 | 2022-07-21 |
 | [Will Be](https://open.spotify.com/track/20ewHOo7c8SMTKSshwtjdZ) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [Racket Boys \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/1ggqSA0RWm5Dg3YOjC0Tif) | 3:03 | 2022-06-09 | 2022-06-21 |
 | [Wind](https://open.spotify.com/track/6pWeveORQ9qaXy64mv5Yi4) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [Moonlovers: Scarlet Heart Ryeo \(Original Television Soundtrack\), Pt 11](https://open.spotify.com/album/3M3w0anYS8V9rEdljRMwPK) | 3:37 | 2024-04-04 |  |
-| [Wish](https://open.spotify.com/track/04qqfjPWDqrg9q3HTToCfZ) | [Urban Zakapa](https://open.spotify.com/artist/1dOMFM5wDNsENQQW0nl0K8) | [Guardian \(Original Television Soundtrack\), Pt\. 10](https://open.spotify.com/album/2taCIMO9i00u0euzw9av9h) | 3:56 | 2022-10-06 |  |
+| [Wish](https://open.spotify.com/track/04qqfjPWDqrg9q3HTToCfZ) | [Urban Zakapa](https://open.spotify.com/artist/1dOMFM5wDNsENQQW0nl0K8) | [Guardian \(Original Television Soundtrack\), Pt\. 10](https://open.spotify.com/album/2taCIMO9i00u0euzw9av9h) | 3:56 | 2022-10-06 | 2024-05-28 |
 | [Wish Ur My Love](https://open.spotify.com/track/3PtqREMenHuD7pKYg91JIs) | [T\-Max](https://open.spotify.com/artist/4zYdTQheeWFEGotJyvhYJB) | [꽃보다 남자 \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/02ZevGxNYtV6KqhU942FMq) | 4:50 | 2024-04-04 |  |
 | [Wishes](https://open.spotify.com/track/1kSBUhFBZT6z62eTTjeJLi) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Snowdrop \(Original Television Soundtrack, Pt\. 4\)](https://open.spotify.com/album/2rR3MvjhEL8Cd0IauUCZTg) | 3:59 | 2022-05-11 |  |
 | [With My Tears](https://open.spotify.com/track/2ocf3TyvsHPvXQ1vwbavQE) | [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [HOSPITAL PLAYLIST \(Original Television Soundtrack\), Pt\. 8](https://open.spotify.com/album/0pYCXVuGMKDRCrN05doHXA) | 4:13 | 2022-05-11 | 2022-07-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 
 > all the stutter, all the feels.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,974 likes - 255 songs - 13 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,082 likes - 255 songs - 13 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 | 15 | [Life Without You](https://open.spotify.com/track/7jV2j6bs3knqyUKL7JDQnr) | [Ross Quinn](https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr) | [Life Without You](https://open.spotify.com/album/52ZvwkEQm3rVYG88SE9Mz3) | 3:14 |
 | 16 | [Vhs](https://open.spotify.com/track/5DMCdNpx797b2P2CnpGgna) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [Vhs](https://open.spotify.com/album/14pWWbSsZa90kidIfHK7Nm) | 4:29 |
 | 17 | [Say My Name \- Darby Remix](https://open.spotify.com/track/11AcRxwmwJOweiDffcvVo8) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Darby](https://open.spotify.com/artist/6rErJmMCoNHUX0Z99uBB8m), [Zyra](https://open.spotify.com/artist/0DGAOR3KtqWwWSwDzhzqOa) | [Spinback Remixes](https://open.spotify.com/album/7wBTfpRnS7yaw5cdi3bWpu) | 2:52 |
-| 18 | [Addicted \- jigitz Remix](https://open.spotify.com/track/1UIb0GQfNPuosBG7eB58np) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z), [Jigitz](https://open.spotify.com/artist/4NN4O8mDIucPpzK5TonQsh) | [ADDICTED: REFRESHED](https://open.spotify.com/album/5WvdQ0rXunG7ZDLneivLio) | 2:17 |
+| 18 | [Addicted \- jigitz Remix](https://open.spotify.com/track/1UIb0GQfNPuosBG7eB58np) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z), [jigitz](https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ) | [ADDICTED: REFRESHED](https://open.spotify.com/album/5WvdQ0rXunG7ZDLneivLio) | 2:17 |
 | 19 | [Past Lives \- Ian Asher Remix](https://open.spotify.com/track/7wewclsl0Gez4hiGm9DQjs) | [sapientdream](https://open.spotify.com/artist/4wOqWyXZiVMLchDC2H9CyP), [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Ian Asher](https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km) | [Past Lives \(Ian Asher Remix\)](https://open.spotify.com/album/1V4WlHIf6mJKgntuXgy1BR) | 3:12 |
 | 20 | [Yet](https://open.spotify.com/track/4K2d0N0nL1HI4y2fz7qdIS) | [Babsy.](https://open.spotify.com/artist/1BjdCHWqVEwBktJLHOUhmk) | [Yet](https://open.spotify.com/album/6aGHDGc3r4PTdLshNImYgy) | 3:26 |
 | 21 | [Gallery](https://open.spotify.com/track/6kxu0ldmBRCw6TBiFAUtYh) | [Eros for you](https://open.spotify.com/artist/6hFvN0YDYv2sbSn7aY9AOa) | [Solace \(Deluxe\)](https://open.spotify.com/album/56UIycwfjE5IwLOwA3VAF8) | 2:46 |

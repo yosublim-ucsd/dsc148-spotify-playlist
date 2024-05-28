@@ -1,12 +1,12 @@
 {
   "description": "Check out the emerging independent tracks from these Telugu Artists!! Cover : Sravana Bhargavi",
-  "num_followers": 32862,
+  "num_followers": 32873,
   "original_name": "Telugu Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlFRWQAAAACRc7TpZaxzjv4mQd1UoJEt",
+  "snapshot_id": "ZlQTGAAAAABfQwtMCSLGqA0MS4jFnU1a",
   "tracks": [
     {
       "added_at": "2024-02-19 08:51:27",
@@ -109,6 +109,42 @@
       "url": "https://open.spotify.com/track/0DwvUGiX0UmrphRVEw0tKk"
     },
     {
+      "added_at": "2024-05-27 04:59:04",
+      "album": {
+        "name": "Yedha",
+        "url": "https://open.spotify.com/album/1OwzeOU1lltsvsqjCsS1Xm"
+      },
+      "artists": [
+        {
+          "name": "Varun Sanmitra",
+          "url": "https://open.spotify.com/artist/6U2jFIBVmY29PQszrbAKvs"
+        },
+        {
+          "name": "Hemachandra Vedala",
+          "url": "https://open.spotify.com/artist/26R3WRFIf6FbbNAQuMIjkN"
+        },
+        {
+          "name": "Damini Bhatla",
+          "url": "https://open.spotify.com/artist/5KhT12McR6Gh33dA0ntBAB"
+        },
+        {
+          "name": "Koundinya Sista",
+          "url": "https://open.spotify.com/artist/1LKlkVjzMAz2fCqvmBrrs7"
+        },
+        {
+          "name": "Avinash Kanaparthi",
+          "url": "https://open.spotify.com/artist/6TxbhvLd1bf70lImNgTXMC"
+        },
+        {
+          "name": "Priyanka Srinivas",
+          "url": "https://open.spotify.com/artist/3ktMBjAaMFVpkPtfT5M4BW"
+        }
+      ],
+      "duration_ms": 219038,
+      "name": "Yedha",
+      "url": "https://open.spotify.com/track/6cbpHn29rluysQdMAJ9tf9"
+    },
+    {
       "added_at": "2024-04-29 10:09:49",
       "album": {
         "name": "Bujji Pilla",
@@ -163,6 +199,22 @@
       "duration_ms": 209400,
       "name": "O Seliya",
       "url": "https://open.spotify.com/track/6VoM9YOXgRXNEu7ilXm08c"
+    },
+    {
+      "added_at": "2024-05-27 04:59:04",
+      "album": {
+        "name": "Chukkalalo Chandruni Laga",
+        "url": "https://open.spotify.com/album/2yk4ThTqDGHqCW9qT9s4cf"
+      },
+      "artists": [
+        {
+          "name": "Gershom Penugula",
+          "url": "https://open.spotify.com/artist/1X1xyTwRLksTzUnLzWvN3K"
+        }
+      ],
+      "duration_ms": 175985,
+      "name": "Chukkalalo Chandruni Laga",
+      "url": "https://open.spotify.com/track/2gLUUpbfzTYj2tQrXN7DID"
     },
     {
       "added_at": "2024-04-08 07:18:37",
@@ -533,38 +585,6 @@
       "url": "https://open.spotify.com/track/4kiMKHxNaw8oiH1vJSFXZT"
     },
     {
-      "added_at": "2024-01-22 09:52:56",
-      "album": {
-        "name": "Yedari",
-        "url": "https://open.spotify.com/album/6ERfevMvWoYQ55DK7LWYGl"
-      },
-      "artists": [
-        {
-          "name": "MamaBros",
-          "url": "https://open.spotify.com/artist/7LXcDZ5kKithx3qOIc59wG"
-        },
-        {
-          "name": "Raw1 The Poet",
-          "url": "https://open.spotify.com/artist/0VnsnBkBhqP0afy2in7iaD"
-        },
-        {
-          "name": "Mama Sing",
-          "url": "https://open.spotify.com/artist/4OZ9gH4OGvHXgGek4huno2"
-        },
-        {
-          "name": "Aaron Zoro",
-          "url": "https://open.spotify.com/artist/3z2zMAx64AvPE0HLXHinyC"
-        },
-        {
-          "name": "sxperblu",
-          "url": "https://open.spotify.com/artist/5Wr8BoKt3JkmujIJtFUbfT"
-        }
-      ],
-      "duration_ms": 284460,
-      "name": "Yedari",
-      "url": "https://open.spotify.com/track/7mbAouYGeYEUTCvh3gHD66"
-    },
-    {
       "added_at": "2024-03-01 12:12:22",
       "album": {
         "name": "Na Hrudayama (Female Version)",
@@ -767,26 +787,6 @@
       "duration_ms": 211578,
       "name": "Neeli Aakasam",
       "url": "https://open.spotify.com/track/5NX12uXVaHHIu0gKzojX7g"
-    },
-    {
-      "added_at": "2023-11-15 13:02:41",
-      "album": {
-        "name": "Gaayam",
-        "url": "https://open.spotify.com/album/05TeXFjEj6uc5mxLEX4Qng"
-      },
-      "artists": [
-        {
-          "name": "Manish Kumar",
-          "url": "https://open.spotify.com/artist/6o6rpeT8ec4u0MHxF3SgNW"
-        },
-        {
-          "name": "Vyshu Maya",
-          "url": "https://open.spotify.com/artist/2FEvji9wl0Qx3jUyYd0pQQ"
-        }
-      ],
-      "duration_ms": 315870,
-      "name": "Gaayam",
-      "url": "https://open.spotify.com/track/29s6xk3dSdZKncZ3vs8Vd3"
     },
     {
       "added_at": "2023-12-18 06:01:15",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\ud55c\uad6d R&B. The new & fresh K-R&B is here. (Cover: YEGNY)",
+  "description": "\ud55c\uad6d R&B. The new & fresh K-R&B is here. (Cover: Jhnovr(\uc874\uc624\ubc84))",
   "name": "K-R&B Now",
   "tracks": [
     {
@@ -78,6 +78,24 @@
       "duration_ms": 179454,
       "name": "17",
       "url": "https://open.spotify.com/track/14MlkpwxVaIgzezt6Yi7Q3"
+    },
+    {
+      "album": {
+        "name": "2 Minutes",
+        "url": "https://open.spotify.com/album/1p6vQUoFIkcMUjULC5SXXz"
+      },
+      "artists": [
+        {
+          "name": "Milena",
+          "url": "https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n"
+        }
+      ],
+      "date_added": "2024-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120453,
+      "name": "2 Minutes",
+      "url": "https://open.spotify.com/track/7BwBnCJJDbslpSPKENzYmo"
     },
     {
       "album": {
@@ -988,7 +1006,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-28",
       "duration_ms": 252500,
       "name": "BYOB",
       "url": "https://open.spotify.com/track/512i7xNnsgoCnxGZDc7yjY"
@@ -2074,7 +2092,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-28",
       "duration_ms": 180010,
       "name": "Fever",
       "url": "https://open.spotify.com/track/5nDSIB3JHYgCvZQSG1JwrV"
@@ -5115,6 +5133,24 @@
     },
     {
       "album": {
+        "name": "Something",
+        "url": "https://open.spotify.com/album/671MmXvmZ9x9omUge6U2qE"
+      },
+      "artists": [
+        {
+          "name": "Jhnovr",
+          "url": "https://open.spotify.com/artist/4GqXWudNdgIhuDnYHFnQez"
+        }
+      ],
+      "date_added": "2024-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245309,
+      "name": "Something",
+      "url": "https://open.spotify.com/track/7GYf2XFOAveTxSGeywG5sg"
+    },
+    {
+      "album": {
         "name": "something",
         "url": "https://open.spotify.com/album/1r0uVhqU6StuTuErudEs7s"
       },
@@ -5554,7 +5590,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-28",
       "duration_ms": 187226,
       "name": "Thinkin' About You",
       "url": "https://open.spotify.com/track/3GF5L6dW04zWSP9SYAtp5L"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2JTNFAkm51v.md) - [plain]
 
 > 【セットリスト公開】5/25・26に開催「<a href="https://kobe\-mellow\-cruise.com/">KOBE MELLOW CRUISE</a>」出演アーティストを特集！
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,171 likes - 252 songs - 13 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,212 likes - 252 songs - 13 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

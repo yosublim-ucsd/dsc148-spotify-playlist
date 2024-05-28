@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Ukraine.
 
-1,494 songs - 2 day 21 hr 28 min
+1,495 songs - 2 day 21 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -624,7 +624,7 @@
 | [SAD GIRLZ LUV MONEY Remix \(feat\. Kali Uchis and Moliy\)](https://open.spotify.com/track/15HMh4yxdf4wyxSZSlOgGZ) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [SAD GIRLZ LUV MONEY Remix \(feat\. Kali Uchis and Moliy\)](https://open.spotify.com/album/4lYcrnwCwPmh63E03VyAv2) | 3:24 | 2021-11-07 | 2021-11-19 |
 | [Sahara](https://open.spotify.com/track/6nqdgUTiWt4JbABDurkxMI) | [Hensonn](https://open.spotify.com/artist/0snouHYzOWSgxRBYMQsa3H) | [Sahara](https://open.spotify.com/album/3Q8XfnyXY1KUqnfjkyGwWa) | 2:51 | 2021-11-25 | 2022-06-17 |
 | [Saloon](https://open.spotify.com/track/6hoU9YjR1Roq2Zez5qTPWU) | [MiyaGi & Endspiel](https://open.spotify.com/artist/6L5bLEtpxwd0KOdOr3gtW4) | [HATTORI](https://open.spotify.com/album/5AyqSPIOfYqVDIwAOdAPSi) | 2:46 | 2022-10-29 | 2022-11-05 |
-| [Salut papa](https://open.spotify.com/track/0TskfugKgc0Dj6Afw0jdmu) | [KOLA](https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh) | [Salut papa](https://open.spotify.com/album/0FHDJmFpabnyZypQhDyPZ6) | 2:34 | 2024-05-20 |  |
+| [Salut papa](https://open.spotify.com/track/0TskfugKgc0Dj6Afw0jdmu) | [KOLA](https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh) | [Salut papa](https://open.spotify.com/album/0FHDJmFpabnyZypQhDyPZ6) | 2:34 | 2024-05-20 | 2024-05-28 |
 | [SANTA DADDY](https://open.spotify.com/track/1AHMBgE9uJ5VFObhPxsbCK) | [Nikitata](https://open.spotify.com/artist/6w5qVRuob9t7rfBj9vQfJl) | [SANTA DADDY](https://open.spotify.com/album/6FCa38abpdriSzHAxERCur) | 2:10 | 2022-12-24 | 2022-12-29 |
 | [Santa Tell Me](https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Santa Tell Me](https://open.spotify.com/album/27MNgBEnLCKoafz1g2Zu97) | 3:24 | 2022-01-01 | 2024-01-03 |
 | [Saturday](https://open.spotify.com/track/60dwJ8dnqZ4WrIdiu7LkNR) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Scaled And Icy](https://open.spotify.com/album/0Q5XBpCYFgUWiG9DUWyAmJ) | 2:52 | 2021-05-23 | 2021-05-25 |
@@ -709,7 +709,7 @@
 | [Superman](https://open.spotify.com/track/4woTEX1wYOTGDqNXuavlRC) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Dina Rae](https://open.spotify.com/artist/5jNmxPYz8QE5rYp4GDil8t) | [The Eminem Show](https://open.spotify.com/album/2cWBwpqMsDJC1ZUwz813lo) | 5:50 | 2022-10-10 | 2022-11-16 |
 | [SUPERMODEL](https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [SUPERMODEL](https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn) | 2:28 | 2022-05-14 | 2022-05-29 |
 | [supernxva](https://open.spotify.com/track/1ERXtrPsABpmkCchv9GO0O) | [zxcursed](https://open.spotify.com/artist/53fwP60M1QNPDiXALVMeOs) | [supernxva](https://open.spotify.com/album/6B31odQv5BWrPmDfBzjsjl) | 1:38 | 2023-08-12 | 2023-08-18 |
-| [Sweater Weather](https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [I Love You.](https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI) | 4:00 | 2021-04-26 | 2024-05-27 |
+| [Sweater Weather](https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [I Love You.](https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI) | 4:00 | 2021-04-26 |  |
 | [SWEET THIEVES](https://open.spotify.com/track/5fMUxzTNvh2dt46h0R1byU) | [Lorean](https://open.spotify.com/artist/0FuEO2anIrOtmD5cFBM4eB), [Mor3a](https://open.spotify.com/artist/24cwZcUJ6D1FZBjjhoHJzV) | [SWEET THIEVES](https://open.spotify.com/album/34NIi7mFSqk0Fj0ZVbfTf9) | 2:52 | 2023-12-18 | 2023-12-20 |
 | [Take My Breath](https://open.spotify.com/track/6M3PsepEj5gyJoIi7Xvr7u) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Take My Breath](https://open.spotify.com/album/4lBrDelXR6Sn0k54a7UWMz) | 3:40 | 2021-08-18 | 2021-09-12 |
 | [Take My Breath](https://open.spotify.com/track/6OGogr19zPTM4BALXuMQpF) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Take My Breath](https://open.spotify.com/album/6DmXKM13nNgIIby2FdK0f8) | 3:40 | 2021-08-08 | 2021-08-18 |
@@ -1298,6 +1298,7 @@
 | [СЕЙЧАС](https://open.spotify.com/track/6HVQNzaVnJdreqdaezdD39) | [NEWLIGHTCHILD](https://open.spotify.com/artist/6OYItdfhVXpz16ZvpFq7Uh) | [IN MY DNA](https://open.spotify.com/album/1iccPHXLRk2mRsdqf2dfke) | 1:39 | 2024-04-22 | 2024-04-27 |
 | [Секрет](https://open.spotify.com/track/3pr2J4VXb5h8WhCu4ljify) | [The Limba](https://open.spotify.com/artist/7LdZqOf4uMeA5vzlI0oza7) | [Секрет](https://open.spotify.com/album/7skyCVgsdqpKU4DIgbW6Mr) | 2:47 | 2022-05-21 | 2022-06-11 |
 | [Секс](https://open.spotify.com/track/2kPFdhHw0dj8MRIp0X28uY) | [Lida](https://open.spotify.com/artist/0ChMIwzbYxHbebgoPeETfV) | [Секс](https://open.spotify.com/album/1P9mBZR6aOIXo0qwST40vU) | 2:11 | 2023-11-20 | 2023-11-30 |
+| [Селфхарм](https://open.spotify.com/track/46tUEN0dIhVxYbOgxCvkF4) | [Monetochka](https://open.spotify.com/artist/0yp6xP5xe1qarfugfTixOK) | [Молитвы\. Анекдоты\. Тосты.](https://open.spotify.com/album/1eE8tgJvckpa4qYLp2L9ox) | 3:08 | 2024-05-27 |  |
 | [Селяви](https://open.spotify.com/track/3SOHFsSinxM6flLceYl5BT) | [MORGENSHTERN](https://open.spotify.com/artist/0XNKQFs2Ewb3y0VsFUFc5l) | [Селяви](https://open.spotify.com/album/2EChKB9PeaOo9WZAUCKuak) | 2:40 | 2022-04-09 | 2022-05-12 |
 | [Сепаратіст](https://open.spotify.com/track/2AbA0a53nHOdeLsYveGrap) | [Медовий Полин](https://open.spotify.com/artist/0kZSUKKwUWbIAKZyJEImwQ) | [В Коня Довший](https://open.spotify.com/album/2S3GWGLADjaFqUoItLH1tQ) | 2:53 | 2022-05-12 | 2022-05-29 |
 | [Сердце для шалав](https://open.spotify.com/track/5XlBwrzkl4FQQZlgjhlAXR) | [Платина](https://open.spotify.com/artist/4TzGOY9RpErzedN02w8Boh) | [Сердце для шалав](https://open.spotify.com/album/6SGjoR9ezsVvgrtIKMTieC) | 2:31 | 2021-08-13 | 2021-08-15 |
@@ -1425,7 +1426,7 @@
 | [ХОТЕЛ ТЕБЕ СКАЗАТЬ...](https://open.spotify.com/track/6oDrOjhRPuKNy80r6iOCTY) | [SLAVA MARLOW](https://open.spotify.com/artist/55jryyk7RhvMbrvoF0ndBh) | [ХОТЕЛ ТЕБЕ СКАЗАТЬ...](https://open.spotify.com/album/0dsmPGQpqvQWamUEWbJiV6) | 2:05 | 2021-10-03 | 2021-10-12 |
 | [Хочеш](https://open.spotify.com/track/2R8CylfWLqBcejsXu2mdcW) | [Після Дощу](https://open.spotify.com/artist/7vUQFioWvCavqy0WKpo1yD) | [Хочеш](https://open.spotify.com/album/2rJgsuytbx0DNv1ngQ2w6I) | 2:27 | 2023-03-30 | 2024-01-31 |
 | [Хочеш](https://open.spotify.com/track/5DJXnr5BBPx2DWgl9UoWxp) | [Після Дощу](https://open.spotify.com/artist/7vUQFioWvCavqy0WKpo1yD) | [Хочеш](https://open.spotify.com/album/0wDtl3Sdzer5tXAfauYfPK) | 2:27 | 2024-01-30 | 2024-02-03 |
-| [Хто ти](https://open.spotify.com/track/2DHoodRL3ttSQDFLx60QPl) | [Klavdia Petrivna](https://open.spotify.com/artist/5BwbVAdT6rFF2vGVE8su2y), [OSTY](https://open.spotify.com/artist/58UBmhZzNl22EI94dh9Gx0) | [Бережи мене](https://open.spotify.com/album/7re2czLU735n5zlY6uGRBb) | 2:14 | 2023-10-12 |  |
+| [Хто ти](https://open.spotify.com/track/2DHoodRL3ttSQDFLx60QPl) | [Klavdia Petrivna](https://open.spotify.com/artist/5BwbVAdT6rFF2vGVE8su2y), [OSTY](https://open.spotify.com/artist/58UBmhZzNl22EI94dh9Gx0) | [Бережи мене](https://open.spotify.com/album/7re2czLU735n5zlY6uGRBb) | 2:14 | 2023-10-12 | 2024-05-28 |
 | [Художник](https://open.spotify.com/track/67pvnFwqbZ6Bcc3UdOtsvG) | [KRBK](https://open.spotify.com/artist/0E56Ncr2I37JQhW71UJALE) | [Художник](https://open.spotify.com/album/2T7zv5tviCnIqmQsMwNHIg) | 1:47 | 2024-04-15 | 2024-05-11 |
 | [ХУДРИЧ](https://open.spotify.com/track/7Ia618v9vTRNpaZXtBsHrt) | [GONE.Fludd](https://open.spotify.com/artist/0ohUvVskERzK18bvWXFEqi) | [ХУДРИЧ](https://open.spotify.com/album/3yhmLyUNT9SHNBd4cg72D9) | 2:18 | 2023-10-14 | 2023-10-17 |
 | [Хэллоу Китти](https://open.spotify.com/track/2zHLOJoeSs3OpW8aR19AuS) | [uglystephan](https://open.spotify.com/artist/3I9Bd4StaxvFWPG9AAjlrO) | [Хэллоу Китти](https://open.spotify.com/album/473DLb6Gjj0aHISsdqD7kZ) | 2:06 | 2022-11-22 | 2022-12-14 |

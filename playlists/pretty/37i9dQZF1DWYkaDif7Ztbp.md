@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkaDif7Ztbp.md) - [plain]
 
 > The tracks heating up the continent right now!  Cover:  <a href="https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg?si=ZOBXE0kwSpCvysLJr\-AEPw">Asake</a>  and <a href="https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG?si=vfMBQqmTR1GWZ0ZNWbM84g">Victony </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,591,182 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,591,470 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

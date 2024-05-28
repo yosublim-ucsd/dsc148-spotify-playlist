@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Escute Céu e mais mulheres no volume máximo! Co\-curadoria com Céu
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,228 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,237 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,11 +26,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 16 | [não sei dançar \(acústico\)](https://open.spotify.com/track/53CWA2RbGgDD9uwUBFRjW4) | [Maria Maud](https://open.spotify.com/artist/2cEDFopNYB1CRgT5P8t1bM) | [a trilha do carro dos meus pais \(acústico\)](https://open.spotify.com/album/7jWkv494WDk7XCktW82BDM) | 2:24 |
 | 17 | [BONITA](https://open.spotify.com/track/3I5e0k2WbTDfk1mF5ATRNl) | [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK) | [AGRIDOCE \(PARTE 1\)](https://open.spotify.com/album/7iecLXlov1YIcpSOebgGZn) | 2:42 |
 | 18 | [Summertime](https://open.spotify.com/track/5zquV7va41xkZZNXWBA4Tw) | [Rosinha De Valença](https://open.spotify.com/artist/3PaJldxyhusOBLFXRkI36B) | [Um Violão em Primeiro Plano](https://open.spotify.com/album/2gRu1FqkaEtzVrJprvpwSM) | 3:01 |
-| 19 | [Sonhos & Ilusões \- acoustic](https://open.spotify.com/track/3zJ9bsVbbXvdCkh4sNxpXR) | [Julia Mestre](https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE), [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [Sonhos & Ilusões \(acoustic\)](https://open.spotify.com/album/7JMG9ZwaIjpQEiJKU5ie9f) | 3:51 |
+| 19 | [Me Deixa Em Paz](https://open.spotify.com/track/2Pj7HeGeJTkka3l1m649YG) | [Milton Nascimento](https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM), [Alaíde Costa](https://open.spotify.com/artist/2KkoeJkkFr802J5gPjlRGs) | [Clube Da Esquina](https://open.spotify.com/album/5risYG7klZCSLMNxB9dZhf) | 3:05 |
 | 20 | [Carinha De Problema](https://open.spotify.com/track/6vbMrA3aVBPRW1ywKVDEYa) | [Clara Valverde](https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn), [CANETARIA](https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS) | [Carinha De Problema](https://open.spotify.com/album/1dABET9ANzLH053hXWtfoD) | 2:43 |
-| 21 | [Me Deixa Em Paz](https://open.spotify.com/track/2Pj7HeGeJTkka3l1m649YG) | [Milton Nascimento](https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM), [Alaíde Costa](https://open.spotify.com/artist/2KkoeJkkFr802J5gPjlRGs) | [Clube Da Esquina](https://open.spotify.com/album/5risYG7klZCSLMNxB9dZhf) | 3:05 |
+| 21 | [Desfruta](https://open.spotify.com/track/2DLAjolKrLcgS0776mg9OO) | [Alice Caymmi](https://open.spotify.com/artist/3ExGkIKgqWpIr2hr0nepRp), [Rachel Reis](https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR) | [Desfruta](https://open.spotify.com/album/3DqQXeeEpBPP8MzSadczqB) | 3:14 |
 | 22 | [Crushinho](https://open.spotify.com/track/3Gs6lg8kcj2vzNXH4vbGUo) | [Céu](https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn) | [Novela](https://open.spotify.com/album/7n5kZhxjk76GU7ssMkgjOd) | 3:04 |
-| 23 | [Desfruta](https://open.spotify.com/track/2DLAjolKrLcgS0776mg9OO) | [Alice Caymmi](https://open.spotify.com/artist/3ExGkIKgqWpIr2hr0nepRp), [Rachel Reis](https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR) | [Desfruta](https://open.spotify.com/album/3DqQXeeEpBPP8MzSadczqB) | 3:14 |
+| 23 | [Sonhos & Ilusões \- acoustic](https://open.spotify.com/track/3zJ9bsVbbXvdCkh4sNxpXR) | [Julia Mestre](https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE), [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [Sonhos & Ilusões \(acoustic\)](https://open.spotify.com/album/7JMG9ZwaIjpQEiJKU5ie9f) | 3:51 |
 | 24 | [Bye Bye Tristeza](https://open.spotify.com/track/49RRbd6a1DB9Fx78TGd2N7) | [Sandra De Sá](https://open.spotify.com/artist/5Rxz1EE4Jj08mu40vlrqHv) | [Sandra de Sá](https://open.spotify.com/album/1EFJZlGXZjfQvY86kDIgBm) | 4:31 |
 | 25 | [Romã](https://open.spotify.com/track/7ncPZIj5Dd2cB9LM9NOeyP) | [Bruna Magalhães](https://open.spotify.com/artist/108y6vREhgAIvgvm1Cq54p) | [Romã](https://open.spotify.com/album/0jJAlOVerPV2A29Y8qUaPR) | 3:14 |
 | 26 | [Desde Menina](https://open.spotify.com/track/5BSHshbROO8tPchQ7QDYxT) | [Lia de Itamaracá](https://open.spotify.com/artist/7dtjhTXpBQ4cCf2GPLG6Qo) | [Ciranda Sem Fim](https://open.spotify.com/album/7HQ5LO7lg80CQsHE1eI8fs) | 2:22 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 35 | [Bala Com Bala](https://open.spotify.com/track/1iOBCjc1IekAWnemXHuc4M) | [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8) | [Elis](https://open.spotify.com/album/3NOxICud3CE6svBnR9WqC7) | 3:11 |
 | 36 | [Eu Sou a Casa](https://open.spotify.com/track/3DbUOQdjOTSSontnZNuyI1) | [Nina Oliveira](https://open.spotify.com/artist/5VCRm5ymb1B8lybUhaDIN1), [Bruna Black](https://open.spotify.com/artist/4XT8kTR1AgQzXS7ggdYPDX) | [Eu Sou a Casa](https://open.spotify.com/album/5Jvm4gKikiJ53GnRXXqDHG) | 3:10 |
 | 37 | [Quem Tem Carinho Me Leva](https://open.spotify.com/track/1ESJExenEgsyXYG78253Ye) | [Geovana](https://open.spotify.com/artist/3oWSIlB1wq6fZf3olazy7v) | [Quem Tem Carinho Me Leva](https://open.spotify.com/album/0wtZxaaJBXJf4OxPkgGwzK) | 3:07 |
-| 38 | [Caminhando em ré](https://open.spotify.com/track/4sbGVnjf5GhbLJG1TchwfE) | [THAMI](https://open.spotify.com/artist/6fupiyOvfbI12eijANkwZL) | [Caminhando em ré](https://open.spotify.com/album/5tHRftAF5hGN6JrEETqAO2) | 3:05 |
-| 39 | [Ensacado](https://open.spotify.com/track/6OZNbdubAFtK8exjxez1QN) | [Cátia de França](https://open.spotify.com/artist/0Pn49e9KBqcekfXpSAGgAM) | [Vinte Palavras ao Redor do Sol](https://open.spotify.com/album/1ZBQq9OK0WC1Ti35wLNhgi) | 4:25 |
+| 38 | [Ensacado](https://open.spotify.com/track/6OZNbdubAFtK8exjxez1QN) | [Cátia de França](https://open.spotify.com/artist/0Pn49e9KBqcekfXpSAGgAM) | [Vinte Palavras ao Redor do Sol](https://open.spotify.com/album/1ZBQq9OK0WC1Ti35wLNhgi) | 4:25 |
+| 39 | [Caminhando em ré](https://open.spotify.com/track/4sbGVnjf5GhbLJG1TchwfE) | [THAMI](https://open.spotify.com/artist/6fupiyOvfbI12eijANkwZL) | [Caminhando em ré](https://open.spotify.com/album/5tHRftAF5hGN6JrEETqAO2) | 3:05 |
 | 40 | [Homenagem](https://open.spotify.com/track/3GUmaaKKRa0lSBaT7erGiQ) | [Luiza Lian](https://open.spotify.com/artist/0mqrSBamArf14pPZE2Q9kW) | [7 Estrelas \| quem arrancou o céu?](https://open.spotify.com/album/5H0hV0QPHpbj1WQaz857Y7) | 3:26 |
 | 41 | [Biquinin de Onça](https://open.spotify.com/track/0dPfD2ku9zrfZUmpuwCLoM) | [Liza Lou](https://open.spotify.com/artist/1cJ8ZMi37OSQUMRbqWGKu2) | [SAL](https://open.spotify.com/album/7CCsE1TycTsyIKsB4Uac4l) | 2:05 |
 | 42 | [Fantasmas de Nós](https://open.spotify.com/track/4G0kxdE8SQsQbTScG02kWY) | [bia balugani](https://open.spotify.com/artist/1UPnWfEg8eRQB38APaumd1) | [Fantasmas de Nós](https://open.spotify.com/album/4RoNIzFfgHwJyvbmF5lZKm) | 3:46 |

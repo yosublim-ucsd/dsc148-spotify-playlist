@@ -4,10 +4,11 @@
 
 > All about Korean Jazz hits & new \(Cover: Yeri Kang\(강예리\)\)
 
-187 songs - 13 hr 39 min
+188 songs - 13 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [2 Minutes](https://open.spotify.com/track/7BwBnCJJDbslpSPKENzYmo) | [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n) | [2 Minutes](https://open.spotify.com/album/1p6vQUoFIkcMUjULC5SXXz) | 2:00 | 2024-05-27 |  |
 | [20](https://open.spotify.com/track/2msLuuR6McXi7HSDx8eQ53) | [OoOoot](https://open.spotify.com/artist/4fsY70sj9x9wBlLhea60If), [Soojung Kae](https://open.spotify.com/artist/0RSwmChSMmgD9CXYDuxb8s) | [변곡점\. 최규철 계수정 최노아](https://open.spotify.com/album/2AGZJLWlkTuR7Z3SngzpU1) | 16:24 | 2023-10-04 |  |
 | [20th century peoples](https://open.spotify.com/track/3oDA9tHwdZCXnmEh99eCl9) | [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby), [Kang Seungwon](https://open.spotify.com/artist/48DsjCcpYJQWi5fulzyuBm) | [20th century peoples](https://open.spotify.com/album/5g031chgii7mbeG3q1Nwn8) | 3:37 | 2022-05-03 | 2023-02-08 |
 | [3월의 밤](https://open.spotify.com/track/3V1YH9HkdVyurldYIMZX8C) | [Choi Moon Seok](https://open.spotify.com/artist/0kgjv7IJnvcz5RmnHlXrdt) | [3월의 밤](https://open.spotify.com/album/7xmtGgNnp8RTrWUxVj6Onh) | 7:16 | 2022-05-03 | 2023-12-13 |

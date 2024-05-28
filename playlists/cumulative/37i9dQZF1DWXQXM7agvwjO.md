@@ -4,7 +4,7 @@
 
 > Hottest indie sounds & the best new tracks from Asia\. cover: mindfreakkk \(Thailand\)
 
-1,321 songs - 3 day 7 hr 38 min
+1,322 songs - 3 day 7 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [Berbunga](https://open.spotify.com/track/7BrDgp5XQ0x97gcepL6ezz) | [tradeto](https://open.spotify.com/artist/6Sp5KtLrCKSA0eLp0sHptK) | [Berbunga](https://open.spotify.com/album/0woF0gDvrOVmVF7oJc7hBT) | 4:30 | 2023-03-16 | 2023-04-21 |
 | [berkelana dalam ruang dan mimpi](https://open.spotify.com/track/1uRvTVCs8SOT3x20MPzgWV) | [The Jansen](https://open.spotify.com/artist/0q3MCOdd2qGlN2TxJdr0SQ) | [berkelana dalam ruang dan mimpi](https://open.spotify.com/album/4cI5XslTmp76Nnx8iEmIV4) | 2:36 | 2023-07-20 | 2023-11-24 |
 | [Berlin](https://open.spotify.com/track/0dc11ezRZRB61Oy7yHdvq7) | [Valentina Ploy](https://open.spotify.com/artist/4RnzpVhMevUeU16FlV4e3e) | [Berlin](https://open.spotify.com/album/74bTShJjsCYUHqSLFSs9h1) | 2:45 | 2022-06-09 | 2022-07-15 |
+| [Bermekaran Dan Mewangi](https://open.spotify.com/track/66sMzBAgVVLsyZvJ3pYasC) | [Pendarra](https://open.spotify.com/artist/0azPQZGt11gedg5Le9hjC2), [Dere](https://open.spotify.com/artist/3IvlMYb5AvKRfNt7vR8PNP) | [Ode Matahari](https://open.spotify.com/album/6BtjSzF583B56ZvqFb7Oah) | 3:19 | 2024-05-23 |  |
 | [Best I Ever Had](https://open.spotify.com/track/5juzi6Bpqi7cf3lh9xLSYB) | [Kyoto Protocol](https://open.spotify.com/artist/5XDa1ZWT8oz8VmHjrDwChs) | [Best I Ever Had](https://open.spotify.com/album/2DWUneyBWnuL7Rlxzp5fNQ) | 2:49 | 2022-06-16 | 2022-07-15 |
 | [Best of Me](https://open.spotify.com/track/0UDrCg4m4RFN5ql0KLZifR) | [Youth Brush](https://open.spotify.com/artist/6U3028szvZMKXaRSRoiSbR) | [Best of Me](https://open.spotify.com/album/7dPU8IgZEI5zWYUm9c9dsy) | 3:29 | 2022-04-07 | 2022-04-22 |
 | [Better](https://open.spotify.com/track/3xVtTUF9m4H8Jn5jUajLUA) | [Merry Lamb Lamb](https://open.spotify.com/artist/6wLVho9ZDD140wQ9laOlhx), [Miso Extra](https://open.spotify.com/artist/0Vv0Cc8LAnIhUsYI4d5wBg), [aimei 媚](https://open.spotify.com/artist/2ij6gLxPV2uEuRxDwnyBfZ) | [Better](https://open.spotify.com/album/5JlAm591nnaRORqr4X5iL7) | 3:00 | 2024-02-15 | 2024-03-22 |
@@ -1151,7 +1152,7 @@
 | [Wheel Chain](https://open.spotify.com/track/5AH2ZIew9FtFDaR9nIEIlx) | [Guernica Club](https://open.spotify.com/artist/3vT1EkYKu5O7ZOL9BjWTXn), [Kara Chenoa](https://open.spotify.com/artist/04V7QZJcbAQtBdSUgT6hPO) | [Wheel Chain](https://open.spotify.com/album/1L1wtYJgBdEsRwqp4To6P1) | 4:23 | 2022-09-01 | 2022-11-25 |
 | [When I Dream of Grapes Turning Blue](https://open.spotify.com/track/1kBZCCJpZGooNNALj2LcKt) | [So It Goes H.K](https://open.spotify.com/artist/20CPqsSBGSEECOrIakaBQT) | [Three](https://open.spotify.com/album/7vuIX2SrGXFpDAccHaFW8g) | 4:20 | 2022-06-16 | 2022-07-29 |
 | [When Reasons End](https://open.spotify.com/track/4y2iVcECRxIa9eyDPP0nYD) | [Ghost Fever](https://open.spotify.com/artist/1ZmDucAM1OEaljYZ1W4SLY) | [Here Comes The Neighbor](https://open.spotify.com/album/5tAYvG42QsTDsaaaxOQbLp) | 4:18 | 2022-05-19 | 2022-07-08 |
-| [When You Almost Give Up](https://open.spotify.com/track/2kQBpahiunmJ3QaUBhhQhZ) | [Valentina Ploy](https://open.spotify.com/artist/4RnzpVhMevUeU16FlV4e3e) | [When You Almost Give Up](https://open.spotify.com/album/2KfwCzWWc0ieER20WuBkYQ) | 2:46 | 2024-04-18 |  |
+| [When You Almost Give Up](https://open.spotify.com/track/2kQBpahiunmJ3QaUBhhQhZ) | [Valentina Ploy](https://open.spotify.com/artist/4RnzpVhMevUeU16FlV4e3e) | [When You Almost Give Up](https://open.spotify.com/album/2KfwCzWWc0ieER20WuBkYQ) | 2:46 | 2024-04-18 | 2024-05-28 |
 | [When You Come Around](https://open.spotify.com/track/3hLG4hwrDkQuFCebaEUE5m) | [Sleep Shelter](https://open.spotify.com/artist/5QgDB4A06vPxUinNTsyc97) | [When You Come Around](https://open.spotify.com/album/5om3DzK3YFD8ohDnbQpILu) | 3:30 | 2022-10-06 | 2022-10-08 |
 | [where we go is home](https://open.spotify.com/track/5JedCIfnYpIgAilKiTcwaY) | [kiyu](https://open.spotify.com/artist/2QliS3HKbo1IrXUmC9hg5C) | [where we go is home](https://open.spotify.com/album/5Jah63TSuIbHS52XXQVSKj) | 4:12 | 2023-02-16 | 2023-06-02 |
 | [Wherever the Wind Blows](https://open.spotify.com/track/3rcUdlMn6YQx8Byr511yo9) | [Lester Lam](https://open.spotify.com/artist/2oicwXEZfc7OVHxgpszBX9) | [Aquilo](https://open.spotify.com/album/3w8Rdn8i5qPGKVPURtvi42) | 3:28 | 2022-07-14 | 2022-07-22 |
@@ -1272,7 +1273,7 @@
 | [君莫問](https://open.spotify.com/track/0aTRqpyXgGs3yfnlRR4IBF) | [Luna Is A Bep](https://open.spotify.com/artist/5ltDGYW0Lwwp4ZZoz4q3r8) | [君莫問](https://open.spotify.com/album/5jCsCSxXDojiRu92WdoXFG) | 3:07 | 2023-05-25 | 2023-06-20 |
 | [咻蹦蹦](https://open.spotify.com/track/5s81MfT7Vjdd59vhhfoI00) | [WONFU](https://open.spotify.com/artist/6JQ21JTWuZpfT06VAQObFy) | [咻蹦蹦](https://open.spotify.com/album/0xrisTgisMjztdBvRxIyPN) | 2:42 | 2023-06-29 | 2023-07-07 |
 | [在夏夜](https://open.spotify.com/track/4vFBXg62WWBiEQYkz5kFjS) | [鄭興](https://open.spotify.com/artist/5zawO99pOdAzrwyJSSu5qE) | [在夏夜](https://open.spotify.com/album/3pgOnUTDRaAGbrhZjKCRW7) | 4:58 | 2022-08-25 | 2022-10-21 |
-| [声を聞かせて](https://open.spotify.com/track/0ZJmMINFDqxtS5QhZzMjWh) | [CHO CO PA CO CHO CO QUIN QUIN](https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C) | [Correspondances](https://open.spotify.com/album/7bHqPAAsC9LBhk1HhMYG6z) | 2:28 | 2024-05-02 | 2024-05-10 |
+| [声を聞かせて](https://open.spotify.com/track/0ZJmMINFDqxtS5QhZzMjWh) | [CHO CO PA CO CHO CO QUIN QUIN](https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C) | [Correspondances](https://open.spotify.com/album/7bHqPAAsC9LBhk1HhMYG6z) | 2:28 | 2024-05-02 |  |
 | [夜晚的牠知道 \(feat\. Joh Ung\)](https://open.spotify.com/track/3RrKD78bVbQgmYw8WLgtn4) | [Shallow Levée](https://open.spotify.com/artist/6xDRh6bnmn1CQhRUntBka9), [Joh Ung](https://open.spotify.com/artist/65JdRQX0aV6M87dxRen9cX) | [夜晚的牠知道 \(feat\. Joh Ung\)](https://open.spotify.com/album/2w4eV3XDyvZpeMFvKOamAR) | 5:00 | 2022-05-12 | 2022-07-01 |
 | [失敗](https://open.spotify.com/track/5XwbJUBGiE0gNKvN7pOa2V) | [Summer Eye](https://open.spotify.com/artist/69rC8L85Qulb5g3aPbfYfy) | [失敗](https://open.spotify.com/album/6tszrSXPP1ARwhheTvqvU4) | 4:25 | 2023-02-02 | 2023-02-17 |
 | [山の方から来てくれればいいのに](https://open.spotify.com/track/5bBGjWdEsrFMEMDdtPsyp2) | [片想い](https://open.spotify.com/artist/7oOtm11Zlovb1drk8T1zhK) | [B my baby](https://open.spotify.com/album/5aNHndZusOzmC9UiwJ2qB8) | 3:21 | 2023-06-08 | 2023-06-16 |
@@ -1307,7 +1308,7 @@
 | [火花](https://open.spotify.com/track/05WKrnPYwjdG0Mj9kcoMe3) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [火花](https://open.spotify.com/album/34vNCbkf9QMHciPKAbTN7s) | 4:23 | 2023-05-18 | 2023-05-26 |
 | [琥珀](https://open.spotify.com/track/2cyLtPHD0SwHjYJGvD7z2V) | [えんぷてい](https://open.spotify.com/artist/7zzRFLfG1OzxyobuR74moh) | [TIME](https://open.spotify.com/album/6uEPUNxIJkdZ6AGSKhywHB) | 4:11 | 2024-03-14 | 2024-03-29 |
 | [留在原地等你追](https://open.spotify.com/track/4lX0k2U34XEVZcAhh9xSOu) | [Chancharlie](https://open.spotify.com/artist/43ibupoLM6nWMGBh14Og4T) | [留在原地等你追](https://open.spotify.com/album/4QBcJM4hB8sRAQP2s6SRDL) | 3:42 | 2022-07-21 | 2022-08-05 |
-| [空とぶ東京](https://open.spotify.com/track/1Z09qAdhbdRF40re5pjW0S) | [CHO CO PA CO CHO CO QUIN QUIN](https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C) | [tradition](https://open.spotify.com/album/5fj2vwRaYmwFoRKtuik6lm) | 3:12 | 2024-01-10 |  |
+| [空とぶ東京](https://open.spotify.com/track/1Z09qAdhbdRF40re5pjW0S) | [CHO CO PA CO CHO CO QUIN QUIN](https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C) | [tradition](https://open.spotify.com/album/5fj2vwRaYmwFoRKtuik6lm) | 3:12 | 2024-01-10 | 2024-05-28 |
 | [窓](https://open.spotify.com/track/4Z3RZPhUHiIm0l1Ik5FsTv) | [Gestalt Girl](https://open.spotify.com/artist/7gBefUcQxW9DQljFrjOFwL) | [窓](https://open.spotify.com/album/6YPj1GIWzuiDIoQnFaUyYP) | 4:16 | 2023-06-01 | 2023-07-15 |
 | [缸](https://open.spotify.com/track/2OL3D6q6Qs1PY0NV3u4dNu) | [No Party For Cao Dong](https://open.spotify.com/artist/3HXSUfI76zVZk71UMAeVfp) | [瓦合](https://open.spotify.com/album/4jG9BnjtTMttg9E3sfg1B8) | 3:06 | 2023-05-25 |  |
 | [羽球少年](https://open.spotify.com/track/7rAMxhio3gkeUzn5HoUMmo) | [イルカポリス 海豚刑警](https://open.spotify.com/artist/5F14oggNO5Nvl08UsULzaT) | [羽球大報社《Bad News Punched!》](https://open.spotify.com/album/1FoxPReflUbnRmEDByYlvj) | 5:05 | 2022-09-15 | 2022-11-11 |

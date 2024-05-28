@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-02",
-  "description": "This Is Banda Zeta. Los temas esenciales, todos en una lista.",
+  "description": "This is Banda Zeta. The essential tracks, all in one playlist.",
   "name": "This Is Banda Zeta",
   "tracks": [
     {
@@ -1046,7 +1046,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-28",
       "duration_ms": 160626,
       "name": "La Ni\u00f1a Fresa",
       "url": "https://open.spotify.com/track/3sgHiiSR5V8V97FiQtne0u"
@@ -1490,7 +1490,7 @@
       ],
       "date_added": "2022-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-21",
+      "date_removed": null,
       "duration_ms": 201489,
       "name": "Tierra Sin Nombre",
       "url": "https://open.spotify.com/track/4CBYdi1fNc9zx2rqKHPXXl"

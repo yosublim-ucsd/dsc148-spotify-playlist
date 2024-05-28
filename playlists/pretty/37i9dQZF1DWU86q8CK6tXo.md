@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 
 > Listen to women at full volume\. Cover: Emei
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,054 likes - 38 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,064 likes - 38 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,6 +45,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 35 | [MISS U AGAIN](https://open.spotify.com/track/6AFESCtuUjE4vfi2OFKKn6) | [ALLEYCVT](https://open.spotify.com/artist/4JxRK2gxmri7L7OWaxnVD1) | [MISS U AGAIN](https://open.spotify.com/album/0b5hRsDSSnWPaw8ViQ1uJ4) | 2:57 |
 | 36 | [DO YOU LIKE ME?](https://open.spotify.com/track/1HG9BNyz9ZpesqRqHYausY) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [DO YOU LIKE ME?](https://open.spotify.com/album/0YdAuUnjZSdfJeL377Q0aS) | 2:57 |
 | 37 | [World on a String](https://open.spotify.com/track/0IsVEZzB4oBYqf2Nx0u2n8) | [Jessica Pratt](https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh) | [World on a String](https://open.spotify.com/album/39juqMzTGcRlRdBsGfSyFe) | 3:09 |
-| 38 | [GO GET YA MOTHA](https://open.spotify.com/track/6AHjMfDel9YzCTu1Lci5iq) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB) | [Dennis Daughter \(Deluxe Version\)](https://open.spotify.com/album/3ey0JVQZp7VBFWHEs7z6X1) | 3:03 |
+| 38 | [Nite Mode](https://open.spotify.com/track/4VZM7lUyMpZOYs218ZmRii) | [CHYL](https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc), [Trip Trop](https://open.spotify.com/artist/6LmNUSHJnlW7mtrLO4ovKX), [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159) | [Nite Mode](https://open.spotify.com/album/40Vru2ZPCcWG3ajA1sXxgz) | 3:01 |
 
 Snapshot ID: `ZjOmngAAAAClLIzTXC1qHOJ5JkJo6Esr`

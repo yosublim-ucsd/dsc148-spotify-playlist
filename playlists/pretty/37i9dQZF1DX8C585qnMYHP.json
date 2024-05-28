@@ -1,6 +1,6 @@
 {
   "description": "The best new music by Experimental independent artists and labels. Ozoyo on cover. Artwork by Thami Nabil",
-  "num_followers": 161783,
+  "num_followers": 161855,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
@@ -317,6 +317,22 @@
       "url": "https://open.spotify.com/track/3XPupK9gKBCtyACYH6Ynxi"
     },
     {
+      "added_at": "2024-05-08 03:43:46",
+      "album": {
+        "name": "jacarandas",
+        "url": "https://open.spotify.com/album/71D7J3LYlSavHKexzYJrAa"
+      },
+      "artists": [
+        {
+          "name": "Joven Tom",
+          "url": "https://open.spotify.com/artist/1JSr283fyctRV2R4OER9gP"
+        }
+      ],
+      "duration_ms": 138480,
+      "name": "jacarandas",
+      "url": "https://open.spotify.com/track/75fBTxkwqSdGUUljwmPstY"
+    },
+    {
       "added_at": "2024-03-06 06:00:00",
       "album": {
         "name": "End Of Innocence",
@@ -347,22 +363,6 @@
       "duration_ms": 101931,
       "name": "The Visit",
       "url": "https://open.spotify.com/track/7vxcfLlxX6Z9f7q6ZC63M9"
-    },
-    {
-      "added_at": "2024-05-08 03:43:46",
-      "album": {
-        "name": "jacarandas",
-        "url": "https://open.spotify.com/album/71D7J3LYlSavHKexzYJrAa"
-      },
-      "artists": [
-        {
-          "name": "Joven Tom",
-          "url": "https://open.spotify.com/artist/1JSr283fyctRV2R4OER9gP"
-        }
-      ],
-      "duration_ms": 138480,
-      "name": "jacarandas",
-      "url": "https://open.spotify.com/track/75fBTxkwqSdGUUljwmPstY"
     },
     {
       "added_at": "2024-03-20 13:59:17",
@@ -397,22 +397,6 @@
       "url": "https://open.spotify.com/track/2YvuaFepDHElKAuZtmjYSB"
     },
     {
-      "added_at": "2024-04-03 15:21:45",
-      "album": {
-        "name": "Figura",
-        "url": "https://open.spotify.com/album/0MnDnjwq6oHY5eFnzz3OBa"
-      },
-      "artists": [
-        {
-          "name": "CLARAGUILAR",
-          "url": "https://open.spotify.com/artist/1NZsUhjp15d6Vcm2vsLs6R"
-        }
-      ],
-      "duration_ms": 339125,
-      "name": "Ros Elavy",
-      "url": "https://open.spotify.com/track/7G7ZseAC0yA2tmojHC92no"
-    },
-    {
       "added_at": "2024-03-06 06:00:00",
       "album": {
         "name": "Other Means",
@@ -427,6 +411,22 @@
       "duration_ms": 264000,
       "name": "Other Means",
       "url": "https://open.spotify.com/track/1juuIrm3fRWhav5jOP1SQm"
+    },
+    {
+      "added_at": "2024-04-03 15:21:45",
+      "album": {
+        "name": "Figura",
+        "url": "https://open.spotify.com/album/0MnDnjwq6oHY5eFnzz3OBa"
+      },
+      "artists": [
+        {
+          "name": "CLARAGUILAR",
+          "url": "https://open.spotify.com/artist/1NZsUhjp15d6Vcm2vsLs6R"
+        }
+      ],
+      "duration_ms": 339125,
+      "name": "Ros Elavy",
+      "url": "https://open.spotify.com/track/7G7ZseAC0yA2tmojHC92no"
     },
     {
       "added_at": "2024-04-17 04:00:00",
@@ -709,22 +709,6 @@
       "url": "https://open.spotify.com/track/3MAmbpBgfYnOkaw0i8IF8A"
     },
     {
-      "added_at": "2024-05-08 03:43:46",
-      "album": {
-        "name": "Psychedelic Anxiety",
-        "url": "https://open.spotify.com/album/3b1rSDft4AEvV3lVqTZWEf"
-      },
-      "artists": [
-        {
-          "name": "Frances Chang",
-          "url": "https://open.spotify.com/artist/4mGbLmr9tmgnWFM4CaFJRe"
-        }
-      ],
-      "duration_ms": 256359,
-      "name": "Spiral in Houston",
-      "url": "https://open.spotify.com/track/7tzDwhlzkamwtbHFXLzmOV"
-    },
-    {
       "added_at": "2023-11-29 12:17:00",
       "album": {
         "name": "Aura",
@@ -739,6 +723,22 @@
       "duration_ms": 517362,
       "name": "Inori",
       "url": "https://open.spotify.com/track/3MXcm06AFDryFxJR7w21OP"
+    },
+    {
+      "added_at": "2024-05-08 03:43:46",
+      "album": {
+        "name": "Psychedelic Anxiety",
+        "url": "https://open.spotify.com/album/3b1rSDft4AEvV3lVqTZWEf"
+      },
+      "artists": [
+        {
+          "name": "Frances Chang",
+          "url": "https://open.spotify.com/artist/4mGbLmr9tmgnWFM4CaFJRe"
+        }
+      ],
+      "duration_ms": 256359,
+      "name": "Spiral in Houston",
+      "url": "https://open.spotify.com/track/7tzDwhlzkamwtbHFXLzmOV"
     },
     {
       "added_at": "2024-04-17 04:00:00",
@@ -789,22 +789,6 @@
       "url": "https://open.spotify.com/track/5WlZMqOIDB4O1y4kONHMOa"
     },
     {
-      "added_at": "2024-04-24 04:00:00",
-      "album": {
-        "name": "\u72c2\u60f3\u30fb\u672a\u6765\u30fb\u30ed\u30de\u30f3\u30c1\u30ab",
-        "url": "https://open.spotify.com/album/5rKypiGobuT88237XpiA26"
-      },
-      "artists": [
-        {
-          "name": "\u6b66\u7530\u7406\u6c99",
-          "url": "https://open.spotify.com/artist/6bxmnPmX3y00HkdYaJA697"
-        }
-      ],
-      "duration_ms": 447810,
-      "name": "\u72c2\u60f3\u30fb\u672a\u6765\u30fb\u30ed\u30de\u30f3\u30c1\u30ab",
-      "url": "https://open.spotify.com/track/5FqKkGaJsjzfqeMtSmSPSH"
-    },
-    {
       "added_at": "2024-03-06 06:00:00",
       "album": {
         "name": "Us, In Between The Blinded",
@@ -835,6 +819,22 @@
       "duration_ms": 126030,
       "name": "Heart Shimmer",
       "url": "https://open.spotify.com/track/0FrvlXmxPAw4IieVlrUXWb"
+    },
+    {
+      "added_at": "2024-04-24 04:00:00",
+      "album": {
+        "name": "\u72c2\u60f3\u30fb\u672a\u6765\u30fb\u30ed\u30de\u30f3\u30c1\u30ab",
+        "url": "https://open.spotify.com/album/5rKypiGobuT88237XpiA26"
+      },
+      "artists": [
+        {
+          "name": "\u6b66\u7530\u7406\u6c99",
+          "url": "https://open.spotify.com/artist/6bxmnPmX3y00HkdYaJA697"
+        }
+      ],
+      "duration_ms": 447810,
+      "name": "\u72c2\u60f3\u30fb\u672a\u6765\u30fb\u30ed\u30de\u30f3\u30c1\u30ab",
+      "url": "https://open.spotify.com/track/5FqKkGaJsjzfqeMtSmSPSH"
     },
     {
       "added_at": "2024-03-06 06:00:00",
@@ -1037,6 +1037,22 @@
       "url": "https://open.spotify.com/track/6kuH2iKoD1vIhTy7uoOC33"
     },
     {
+      "added_at": "2024-01-10 04:07:01",
+      "album": {
+        "name": "THE QUANTA SERIES",
+        "url": "https://open.spotify.com/album/1d4ayy5klByiNOJpTShQ29"
+      },
+      "artists": [
+        {
+          "name": "K\u00c1RYYN",
+          "url": "https://open.spotify.com/artist/4DLYIUgjZAea6vgzGwJUTI"
+        }
+      ],
+      "duration_ms": 389266,
+      "name": "EVER",
+      "url": "https://open.spotify.com/track/0DDzLY6OicdAntH1IRAlMm"
+    },
+    {
       "added_at": "2024-03-20 13:59:17",
       "album": {
         "name": "L4TA",
@@ -1053,20 +1069,20 @@
       "url": "https://open.spotify.com/track/1iUlbWjRySPrE7OE8bqiFx"
     },
     {
-      "added_at": "2024-01-10 04:07:01",
+      "added_at": "2024-03-06 06:00:00",
       "album": {
-        "name": "THE QUANTA SERIES",
-        "url": "https://open.spotify.com/album/1d4ayy5klByiNOJpTShQ29"
+        "name": "Scorpion Deathlock",
+        "url": "https://open.spotify.com/album/1t5hEdGsyJsZaYqeeuq8fF"
       },
       "artists": [
         {
-          "name": "K\u00c1RYYN",
-          "url": "https://open.spotify.com/artist/4DLYIUgjZAea6vgzGwJUTI"
+          "name": "The Golden Age of Wrestling",
+          "url": "https://open.spotify.com/artist/1oWYlDyBHWNG3jeilUrDwp"
         }
       ],
-      "duration_ms": 389266,
-      "name": "EVER",
-      "url": "https://open.spotify.com/track/0DDzLY6OicdAntH1IRAlMm"
+      "duration_ms": 173226,
+      "name": "Ferrari Rocher",
+      "url": "https://open.spotify.com/track/7KFHq7A8fDPv3vzGDWJ7Tf"
     },
     {
       "added_at": "2024-01-24 03:58:32",
@@ -1091,22 +1107,6 @@
       "duration_ms": 238750,
       "name": "something that lasts",
       "url": "https://open.spotify.com/track/5HkMf5rorBI0pELgPbKmf9"
-    },
-    {
-      "added_at": "2024-03-06 06:00:00",
-      "album": {
-        "name": "Scorpion Deathlock",
-        "url": "https://open.spotify.com/album/1t5hEdGsyJsZaYqeeuq8fF"
-      },
-      "artists": [
-        {
-          "name": "The Golden Age of Wrestling",
-          "url": "https://open.spotify.com/artist/1oWYlDyBHWNG3jeilUrDwp"
-        }
-      ],
-      "duration_ms": 173226,
-      "name": "Ferrari Rocher",
-      "url": "https://open.spotify.com/track/7KFHq7A8fDPv3vzGDWJ7Tf"
     },
     {
       "added_at": "2024-03-06 06:00:00",
@@ -1285,20 +1285,20 @@
       "url": "https://open.spotify.com/track/1qTLK7XA1zRMcrmXQ2VLsr"
     },
     {
-      "added_at": "2024-04-03 15:21:45",
+      "added_at": "2024-03-20 13:59:17",
       "album": {
-        "name": "PATTI SMITH",
-        "url": "https://open.spotify.com/album/2fuQ3W0hHAJ1IhOrkDW0F2"
+        "name": "L4TA",
+        "url": "https://open.spotify.com/album/2YdqLlOOTpvfEG9zkfNZJc"
       },
       "artists": [
         {
-          "name": "DeepFaith",
-          "url": "https://open.spotify.com/artist/0b6qpgf9acyHi3PwV18Dyc"
+          "name": "Stemlines",
+          "url": "https://open.spotify.com/artist/2o0jf68Qiap2A3RIhvTcCX"
         }
       ],
-      "duration_ms": 201759,
-      "name": "PATTI SMITH",
-      "url": "https://open.spotify.com/track/7FtjGAVTS5eIJWNpNQ5jaT"
+      "duration_ms": 270557,
+      "name": "MissU",
+      "url": "https://open.spotify.com/track/4mknLyEc2cUmxYTQbpwlYl"
     },
     {
       "added_at": "2024-03-06 06:00:00",
@@ -1317,20 +1317,20 @@
       "url": "https://open.spotify.com/track/6VmBlMV17gP8S8RllHickT"
     },
     {
-      "added_at": "2024-03-20 13:59:17",
+      "added_at": "2024-04-03 15:21:45",
       "album": {
-        "name": "L4TA",
-        "url": "https://open.spotify.com/album/2YdqLlOOTpvfEG9zkfNZJc"
+        "name": "PATTI SMITH",
+        "url": "https://open.spotify.com/album/2fuQ3W0hHAJ1IhOrkDW0F2"
       },
       "artists": [
         {
-          "name": "Stemlines",
-          "url": "https://open.spotify.com/artist/2o0jf68Qiap2A3RIhvTcCX"
+          "name": "DeepFaith",
+          "url": "https://open.spotify.com/artist/0b6qpgf9acyHi3PwV18Dyc"
         }
       ],
-      "duration_ms": 270557,
-      "name": "MissU",
-      "url": "https://open.spotify.com/track/4mknLyEc2cUmxYTQbpwlYl"
+      "duration_ms": 201759,
+      "name": "PATTI SMITH",
+      "url": "https://open.spotify.com/track/7FtjGAVTS5eIJWNpNQ5jaT"
     },
     {
       "added_at": "2024-04-17 04:00:00",
@@ -1349,28 +1349,20 @@
       "url": "https://open.spotify.com/track/3RREDnjMKyXtH5dVwhlwHm"
     },
     {
-      "added_at": "2024-03-13 03:47:45",
+      "added_at": "2024-03-06 06:00:00",
       "album": {
-        "name": "Sweety Chant",
-        "url": "https://open.spotify.com/album/0ynwOThhjp8pKqI0QGUwsp"
+        "name": "Formation",
+        "url": "https://open.spotify.com/album/0mBFdbbK7gtvOEdjDPwEQJ"
       },
       "artists": [
         {
-          "name": "Tiny Griffi",
-          "url": "https://open.spotify.com/artist/3s3iwtc7ZcxbC9obdM5Tc0"
-        },
-        {
-          "name": "DE DE MOUSE",
-          "url": "https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj"
-        },
-        {
-          "name": "Shin-Ski",
-          "url": "https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7"
+          "name": "Nima Khaste",
+          "url": "https://open.spotify.com/artist/0GvP52tylCJYzBWArBXRZh"
         }
       ],
-      "duration_ms": 164083,
-      "name": "Sweety Chant",
-      "url": "https://open.spotify.com/track/7zCe5HqES3Y5z23EZLq0gA"
+      "duration_ms": 275555,
+      "name": "S1 T3",
+      "url": "https://open.spotify.com/track/1GHj5JkSdgDiKpVwsrDymz"
     },
     {
       "added_at": "2024-03-06 06:00:00",
@@ -1409,20 +1401,28 @@
       "url": "https://open.spotify.com/track/6pa6928PyZgyt5fpusQvux"
     },
     {
-      "added_at": "2024-03-06 06:00:00",
+      "added_at": "2024-03-13 03:47:45",
       "album": {
-        "name": "Formation",
-        "url": "https://open.spotify.com/album/0mBFdbbK7gtvOEdjDPwEQJ"
+        "name": "Sweety Chant",
+        "url": "https://open.spotify.com/album/0ynwOThhjp8pKqI0QGUwsp"
       },
       "artists": [
         {
-          "name": "Nima Khaste",
-          "url": "https://open.spotify.com/artist/0GvP52tylCJYzBWArBXRZh"
+          "name": "Tiny Griffi",
+          "url": "https://open.spotify.com/artist/3s3iwtc7ZcxbC9obdM5Tc0"
+        },
+        {
+          "name": "DE DE MOUSE",
+          "url": "https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj"
+        },
+        {
+          "name": "Shin-Ski",
+          "url": "https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7"
         }
       ],
-      "duration_ms": 275555,
-      "name": "S1 T3",
-      "url": "https://open.spotify.com/track/1GHj5JkSdgDiKpVwsrDymz"
+      "duration_ms": 164083,
+      "name": "Sweety Chant",
+      "url": "https://open.spotify.com/track/7zCe5HqES3Y5z23EZLq0gA"
     },
     {
       "added_at": "2024-03-06 06:00:00",

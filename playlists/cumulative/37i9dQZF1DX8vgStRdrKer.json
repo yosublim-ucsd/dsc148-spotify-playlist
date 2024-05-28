@@ -67,6 +67,28 @@
     },
     {
       "album": {
+        "name": "Agb\u00e1ra \u1eccl\u1ecd\u0301run P\u1ecd\u0300 (Live)",
+        "url": "https://open.spotify.com/album/0E0Nu2k6iUQhAQXYxDXs2B"
+      },
+      "artists": [
+        {
+          "name": "Pastor Emmanuel Iren",
+          "url": "https://open.spotify.com/artist/1Ge81wiDXhRxTHVE1pdHyw"
+        },
+        {
+          "name": "Yetunde Are",
+          "url": "https://open.spotify.com/artist/4MSflz0Vh6ezIXyfnwwnEh"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376048,
+      "name": "Agb\u00e1ra \u1eccl\u1ecd\u0301run P\u1ecd\u0300 (Live)",
+      "url": "https://open.spotify.com/track/6RatjnXFpxZJUIm4GJh124"
+    },
+    {
+      "album": {
         "name": "Agidigba God",
         "url": "https://open.spotify.com/album/2iiMwAegfluTEe7ReEdCQA"
       },
@@ -1598,7 +1620,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-28",
       "duration_ms": 247246,
       "name": "Kama Si We",
       "url": "https://open.spotify.com/track/57Vr7KK65zhmFiZqObKAnS"
@@ -1836,7 +1858,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-28",
       "duration_ms": 130000,
       "name": "Mayo",
       "url": "https://open.spotify.com/track/0FjalQZo0G4xiLh0weUZ9x"
@@ -2228,6 +2250,24 @@
       "duration_ms": 390967,
       "name": "No Turning Back",
       "url": "https://open.spotify.com/track/1HvmrH54shSA0a1bwK91R0"
+    },
+    {
+      "album": {
+        "name": "Not Alone (Live)",
+        "url": "https://open.spotify.com/album/5a5ZrRjl8v8kL6pJSbjfhF"
+      },
+      "artists": [
+        {
+          "name": "Sinach",
+          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270810,
+      "name": "Not Alone - Live",
+      "url": "https://open.spotify.com/track/0Wr8M61fEfpvhJ9aZOtJ35"
     },
     {
       "album": {

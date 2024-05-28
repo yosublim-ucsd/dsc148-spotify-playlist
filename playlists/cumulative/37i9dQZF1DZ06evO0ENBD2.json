@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-09-18",
-  "description": "This is \u30af\u30a4\u30fc\u30f3\u3002\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u4ee3\u8868\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002",
-  "name": "This Is \u30af\u30a4\u30fc\u30f3",
+  "description": "This is Queen. The essential tracks, all in one playlist.",
+  "name": "This Is Queen",
   "tracks": [
     {
       "album": {
@@ -322,7 +322,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-28",
       "duration_ms": 255600,
       "name": "Fat Bottomed Girls - Remastered 2011",
       "url": "https://open.spotify.com/track/4igIYHF3B5VBxEafHauVo3"
@@ -394,7 +394,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-28",
       "duration_ms": 173173,
       "name": "Good Old-Fashioned Lover Boy - Remastered 2011",
       "url": "https://open.spotify.com/track/1n7xFAY4xoPeqRvrkzAtsw"
@@ -466,7 +466,7 @@
       ],
       "date_added": "2023-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-27",
+      "date_removed": null,
       "duration_ms": 241586,
       "name": "I Want It All - Single Version",
       "url": "https://open.spotify.com/track/1gBNoqhVLbIMuBQmXKmyLj"
@@ -888,7 +888,7 @@
       ],
       "date_added": "2023-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-14",
+      "date_removed": null,
       "duration_ms": 134120,
       "name": "Seaside Rendezvous - Remastered 2011",
       "url": "https://open.spotify.com/track/0VU7avDE4OZ36oVmLPSEZA"
@@ -1022,7 +1022,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-22",
+      "date_removed": null,
       "duration_ms": 237680,
       "name": "The Invisible Man - Remastered 2011",
       "url": "https://open.spotify.com/track/6VoiY3rukFPoqzP4AoGPU8"
@@ -1206,7 +1206,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-28",
       "duration_ms": 295333,
       "name": "Who Wants To Live Forever - Remastered 2011",
       "url": "https://open.spotify.com/track/3SGP8It5WDnCONyApJKRTJ"
@@ -1224,7 +1224,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-25",
+      "date_removed": null,
       "duration_ms": 206146,
       "name": "You And I - Remastered 2011",
       "url": "https://open.spotify.com/track/4QxuI0R23qSGf4nipuOV6h"
@@ -1242,7 +1242,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-28",
       "duration_ms": 324853,
       "name": "You Don't Fool Me - Remastered 2011",
       "url": "https://open.spotify.com/track/1chxAv59LZcOE5FyrlUze2"

@@ -4,7 +4,7 @@
 
 > Stay relaxed with these low\-key beats and instrumentals.
 
-532 songs - 21 hr 59 min
+533 songs - 22 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,7 +156,7 @@
 | [Fanatic \- Instrumental](https://open.spotify.com/track/2616QFNwHldTARXR2PHS7k) | [Funky DL](https://open.spotify.com/artist/3V35H6xv4eium9zl8CQeG5) | [Life After Dennison \(Instrumentals\)](https://open.spotify.com/album/6Adv0cRSeQrUWUYACknTpS) | 3:30 | 2020-01-14 | 2022-10-15 |
 | [Fanatic \- Instrumental](https://open.spotify.com/track/6WMHFhxkozjDKYX9ILRiB0) | [Funky DL](https://open.spotify.com/artist/3V35H6xv4eium9zl8CQeG5) | [Life After Dennison \(Instrumentals\)](https://open.spotify.com/album/7yyrASe6ss185AT0ucT35n) | 3:30 | 2022-11-17 | 2023-01-24 |
 | [Far Away](https://open.spotify.com/track/1bW8IKNqSmC4RHihpGaYoc) | [Leavv](https://open.spotify.com/artist/7sNw4pNLLJNGrU62O80WGE), [dcxv](https://open.spotify.com/artist/0joMqsMoTtZ8blx2CHKMj1) | [Far Away](https://open.spotify.com/album/1SUebSHdAuvfEHSPu9BScz) | 3:28 | 2019-05-26\* |  |
-| [Far Out](https://open.spotify.com/track/2crQWI8jYzwflThvDAcKyj) | [Joe Nora](https://open.spotify.com/artist/2ShIqcIbteAk5jwdZzF2NZ), [G Mills](https://open.spotify.com/artist/0djvqMepj2XkHfvWTqkH1N) | [Far Out](https://open.spotify.com/album/3vbGdnRuTBfaVyqOZdx0Ux) | 2:33 | 2021-10-10 |  |
+| [Far Out](https://open.spotify.com/track/2crQWI8jYzwflThvDAcKyj) | [Joe Nora](https://open.spotify.com/artist/2ShIqcIbteAk5jwdZzF2NZ), [G Mills](https://open.spotify.com/artist/0djvqMepj2XkHfvWTqkH1N) | [Far Out](https://open.spotify.com/album/3vbGdnRuTBfaVyqOZdx0Ux) | 2:33 | 2021-10-10 | 2024-05-28 |
 | [Favorite Sause](https://open.spotify.com/track/2uUNTBmq2VBW1UMJcAqOEn) | [DJ Garlik](https://open.spotify.com/artist/0N2on1pgu8mv01ch9Cs9XF), [Bertholet](https://open.spotify.com/artist/2igm2vmbeYibaElfyvj9XQ) | [Favorite Sause](https://open.spotify.com/album/5mdVpX2SpB24YHfRXhcm8G) | 1:48 | 2020-01-14 | 2021-10-28 |
 | [Feel Good](https://open.spotify.com/track/3RzT2bhbuqG7pxnRPiGGg1) | [PrinceDo](https://open.spotify.com/artist/1vwo07wGObMfmEOutuBh05), [Haruki Kume](https://open.spotify.com/artist/5F6dFfn8OSNiBx3bJ9tNW4) | [Feel Good](https://open.spotify.com/album/4hNNbbPopqfTMEMjhM2j3o) | 3:22 | 2023-08-31 | 2023-11-05 |
 | [Feel Good](https://open.spotify.com/track/7cDWVctzKIKwTXRiunybhJ) | [PrinceDo](https://open.spotify.com/artist/1vwo07wGObMfmEOutuBh05), [Haruki Kume](https://open.spotify.com/artist/5F6dFfn8OSNiBx3bJ9tNW4) | [Feel Good](https://open.spotify.com/album/021u2XHlDKLWklYUTTJLZH) | 3:22 | 2023-08-31 | 2023-09-02 |
@@ -342,6 +342,7 @@
 | [Ol' Chip](https://open.spotify.com/track/0GGEOadYmcgeypcAe30pcE) | [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a), [Sling Dilly](https://open.spotify.com/artist/5FdaPPagFvA9neahVC3bAO) | [Ol' Chip / JayJay](https://open.spotify.com/album/79KtjGUVfHK6U2PNtHfaNH) | 1:17 | 2019-05-26\* | 2021-10-29 |
 | [On It](https://open.spotify.com/track/2GVxtwwychjHFKVut3Osls) | [jus.](https://open.spotify.com/artist/7srPSgvqbQ7wyI84WV1LXx) | [BLESS Vol\. 2](https://open.spotify.com/album/0rXue3LLSLUXoMatPLmxuU) | 2:52 | 2019-05-26\* | 2019-08-13 |
 | [On My Way Home](https://open.spotify.com/track/3UwKfXx1SdJSxnzG2gYkgc) | [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9) | [On My Way Home](https://open.spotify.com/album/6bO5QKKe9OAyMHQ2RryMou) | 3:14 | 2020-03-07 | 2020-06-22 |
+| [On My Way Home \- Blue Lab Beats Remix](https://open.spotify.com/track/7ysDqM3kH3U6YleSSIhWRc) | [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9), [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR) | [On My Way Home \(Blue Lab Beats Remix\)](https://open.spotify.com/album/5o3VQdQ5Mp8TZzKKDkZ1fI) | 3:48 | 2024-05-23 |  |
 | [on the way home](https://open.spotify.com/track/43cXj7oRb5TsLh4AqEO1OF) | [Sachiho](https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa), [Y\-2](https://open.spotify.com/artist/3Tn5cTqDZdc03G1TfqpnbE) | [on the way home](https://open.spotify.com/album/5EqWe1anZt6ZdshaRuW4Hq) | 2:48 | 2022-05-12 | 2022-07-28 |
 | [On Track](https://open.spotify.com/track/4XpqkTCAhqdW2LOIbh5WNn) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [On Track](https://open.spotify.com/album/0Ez9sSh1xGvNMOdVmft9mi) | 2:11 | 2020-07-11 | 2020-11-06 |
 | [Once Again \- Instrumental](https://open.spotify.com/track/6jevcKfEBd9XL4fzJzuaNz) | [SoulChef](https://open.spotify.com/artist/7rdiGVXL2fFyONexHzfKFS) | [Once Again \(Instrumental\)](https://open.spotify.com/album/4O8YyCcu862SnDm0u453aX) | 2:03 | 2019-08-31 | 2021-07-27 |

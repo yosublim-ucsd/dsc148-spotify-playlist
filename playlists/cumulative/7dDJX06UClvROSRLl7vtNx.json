@@ -89,6 +89,32 @@
     },
     {
       "album": {
+        "name": "All Because Of You",
+        "url": "https://open.spotify.com/album/4iw9Md8QwcwKhEDZ8ycHLk"
+      },
+      "artists": [
+        {
+          "name": "TWOPILOTS",
+          "url": "https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B"
+        },
+        {
+          "name": "One Trick Pony",
+          "url": "https://open.spotify.com/artist/4xxlgFFZpjIrQr9FiFttBG"
+        },
+        {
+          "name": "Bjerke",
+          "url": "https://open.spotify.com/artist/3I2Ac6BV9dfdOAVjFmWIGX"
+        }
+      ],
+      "date_added": "2024-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139000,
+      "name": "All Because Of You",
+      "url": "https://open.spotify.com/track/3CVQcey35nX0Yo3dpXAc7a"
+    },
+    {
+      "album": {
         "name": "All I Want Is You",
         "url": "https://open.spotify.com/album/24k3mEFlEnke4PjmDu59NJ"
       },
@@ -458,6 +484,24 @@
       "duration_ms": 160376,
       "name": "Around The Sun",
       "url": "https://open.spotify.com/track/7kRI2M30QkCXK5fIVO9qQe"
+    },
+    {
+      "album": {
+        "name": "Astronaut",
+        "url": "https://open.spotify.com/album/4bb6EgApaazm7mUw3yZJIZ"
+      },
+      "artists": [
+        {
+          "name": "Horizon Blue",
+          "url": "https://open.spotify.com/artist/2vOzV5WdvOYH3K1NJyt7wb"
+        }
+      ],
+      "date_added": "2024-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130185,
+      "name": "Astronaut",
+      "url": "https://open.spotify.com/track/3WYgESGKl0kqUApiP0tU5J"
     },
     {
       "album": {
@@ -890,6 +934,28 @@
       "duration_ms": 139000,
       "name": "By My Side",
       "url": "https://open.spotify.com/track/2ikLgPH52UtXukvFH8xQWv"
+    },
+    {
+      "album": {
+        "name": "By Your Side",
+        "url": "https://open.spotify.com/album/7JdFmJlsQuvljXo5KksdCY"
+      },
+      "artists": [
+        {
+          "name": "Loum\u00e9",
+          "url": "https://open.spotify.com/artist/6o8bvjajrVq9BnXoR7bXnH"
+        },
+        {
+          "name": "madugo",
+          "url": "https://open.spotify.com/artist/5NstYi6AvKAVD0kroo0QVC"
+        }
+      ],
+      "date_added": "2024-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135755,
+      "name": "By Your Side",
+      "url": "https://open.spotify.com/track/4LPOVVZeYoNaSOkGrIMZeJ"
     },
     {
       "album": {
@@ -1523,6 +1589,28 @@
     },
     {
       "album": {
+        "name": "Dancing In Paradise",
+        "url": "https://open.spotify.com/album/6as4f68RUfAHN24OFfHB0d"
+      },
+      "artists": [
+        {
+          "name": "Solar State",
+          "url": "https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu"
+        },
+        {
+          "name": "DT James",
+          "url": "https://open.spotify.com/artist/4a5dX5Y0Q6ib3nR6zzpHwX"
+        }
+      ],
+      "date_added": "2024-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147540,
+      "name": "Dancing In Paradise",
+      "url": "https://open.spotify.com/track/3Nv2beExBt4oAue009Nauu"
+    },
+    {
+      "album": {
         "name": "Dancing in the Moonlight",
         "url": "https://open.spotify.com/album/4Ap0p36EN5ON6hRDhSUIAj"
       },
@@ -2047,6 +2135,28 @@
     },
     {
       "album": {
+        "name": "Fairytale",
+        "url": "https://open.spotify.com/album/0pmtrehbZ9elW5g6Lg3Tqy"
+      },
+      "artists": [
+        {
+          "name": "Lake Matisse",
+          "url": "https://open.spotify.com/artist/4UNdUzuLNX9a47ElW0Xb0O"
+        },
+        {
+          "name": "Kairos Grove",
+          "url": "https://open.spotify.com/artist/7Cf1QhdtHmjlckbnmUeC6l"
+        }
+      ],
+      "date_added": "2024-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138152,
+      "name": "Fairytale",
+      "url": "https://open.spotify.com/track/3x9XuWtvk2hqSH6olPcoJZ"
+    },
+    {
+      "album": {
         "name": "Falling In Love",
         "url": "https://open.spotify.com/album/74Azuc2PrBMthPSWUtQN7c"
       },
@@ -2546,7 +2656,7 @@
       ],
       "date_added": "2024-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-28",
       "duration_ms": 136551,
       "name": "Good On Me",
       "url": "https://open.spotify.com/track/6DFiRDUwvYP7qZ4e4wIBph"
@@ -2892,7 +3002,7 @@
       ],
       "date_added": "2024-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-28",
       "duration_ms": 188000,
       "name": "Holding Back",
       "url": "https://open.spotify.com/track/0UCqGPGQsfXL0zCXyIeHuN"
@@ -5486,7 +5596,7 @@
       ],
       "date_added": "2024-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-28",
       "duration_ms": 132923,
       "name": "Out Of Love",
       "url": "https://open.spotify.com/track/6ICTY9372FzE6kGkGIhqev"
@@ -6520,6 +6630,28 @@
       "duration_ms": 154214,
       "name": "Someone Else's Love",
       "url": "https://open.spotify.com/track/7185SlFIvEKtNH8A8OcWLz"
+    },
+    {
+      "album": {
+        "name": "Someone Like You",
+        "url": "https://open.spotify.com/album/3RC2P2oNuseZMNW92aA01a"
+      },
+      "artists": [
+        {
+          "name": "MUNICH MONSTRS",
+          "url": "https://open.spotify.com/artist/65JeCEZBSZlp9lJGDZov3f"
+        },
+        {
+          "name": "lonely beach house",
+          "url": "https://open.spotify.com/artist/1jvDr2Sxp7ahE2XnykCBX3"
+        }
+      ],
+      "date_added": "2024-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131080,
+      "name": "Someone Like You",
+      "url": "https://open.spotify.com/track/4KfiH0JNbgCN65B1JLO6QW"
     },
     {
       "album": {

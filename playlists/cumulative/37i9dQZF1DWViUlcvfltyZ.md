@@ -2,9 +2,9 @@
 
 ### [Rock Italia](https://open.spotify.com/playlist/37i9dQZF1DWViUlcvfltyZ)
 
-> La playlist che è come andare ai concerti\. Novità rock, indie e punk dall'Italia! Brucherò nei pascoli in cover.
+> La playlist che è come andare ai concerti—al <a href="https://www.instagram.com/miami\_fest/">MI AMI</a>, per esempio\. GIALLORENZO in cover\. Foto di <a href="https://www.instagram.com/agnemag/">@agnemag</a>
 
-938 songs - 2 day 4 hr 9 min
+939 songs - 2 day 4 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -679,6 +679,7 @@
 | [Proci](https://open.spotify.com/track/0d6K1KUiX01DZN4yBpjW8w) | [Manuel Agnelli](https://open.spotify.com/artist/1fLNnD2YIhtUR8VrX68As4) | [Proci](https://open.spotify.com/album/79QoacS4YKcsu7aTSLIIvz) | 3:33 | 2022-06-30 | 2022-09-30 |
 | [Prodotto tipico](https://open.spotify.com/track/1OwwiFx2Y3bYnA1k2RRsHx) | [Liquami](https://open.spotify.com/artist/7wyIRmUWGF1G4b0E2ZuHAa) | [LIQUAMI](https://open.spotify.com/album/7AMCXVZbtpJHXEB9LT7dJa) | 3:03 | 2023-09-14 | 2023-10-27 |
 | [Proprio tu](https://open.spotify.com/track/1dzvJ0UzxAn9GanymgMJgP) | [Tropea](https://open.spotify.com/artist/35EdAf21qKHNvALdF6loHX) | [Proprio tu](https://open.spotify.com/album/59jxe1FypLBdSxb2tMz5Yd) | 2:36 | 2023-03-16 | 2023-04-21 |
+| [PROVARCI](https://open.spotify.com/track/4iJB2h5pgLPgvYc09TOSs2) | [GIALLORENZO](https://open.spotify.com/artist/2RLRns6qSiW71iNV3lT0yC) | [SUPER SOFT RESET](https://open.spotify.com/album/5kaQXfAFOl3NQeQkyPHTsU) | 2:39 | 2024-05-27 |  |
 | [PROVARCI](https://open.spotify.com/track/6A3cyQqgcK7etGZr3ytxWb) | [GIALLORENZO](https://open.spotify.com/artist/2RLRns6qSiW71iNV3lT0yC) | [PROVARCI](https://open.spotify.com/album/4gc0RD4I7jZv4JTvfxzlq5) | 2:39 | 2022-05-09 | 2022-09-02 |
 | [Provare ancora](https://open.spotify.com/track/0iYojKItJ3j1RrKjcso0ia) | [Morgana](https://open.spotify.com/artist/3aiVVjTuv8e3GRBl8QYBeQ) | [Contemporaneità](https://open.spotify.com/album/2LiklOzR73i1RhJGYu3YqM) | 2:48 | 2023-04-03 | 2023-06-09 |
 | [Pugno Di Sabbia](https://open.spotify.com/track/5JusmvJVYnbLnqxHvzbHQM) | [Subsonica](https://open.spotify.com/artist/7DzxfMQ3VNYR5vw2UFjzSK) | [Pugno Di Sabbia](https://open.spotify.com/album/2eMHhaYiN4FETBFdhjcfBt) | 3:34 | 2023-10-19 | 2024-03-01 |

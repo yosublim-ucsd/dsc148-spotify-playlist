@@ -4,7 +4,7 @@
 
 > No, el punk español NO ESTÁ MUERTO\. Foto: Soziedad Alkoholika.
 
-142 songs - 7 hr 34 min
+143 songs - 7 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Cómo Convertirse en Nada](https://open.spotify.com/track/7bZfAk1tgSGyIfpQZfOj3A) | [Gatillazo](https://open.spotify.com/artist/3XrunnoiCGkRTanrnsPRam) | [Cómo Convertirse en Nada](https://open.spotify.com/album/0W02GXYGmc4BrcAEH1mlJq) | 2:40 | 2023-12-08 |  |
 | [Daños Colaterales](https://open.spotify.com/track/1Jw3S8jeIbS31m9HBtqMiJ) | [Envidia Kotxina](https://open.spotify.com/artist/0ecMaXEm4sV6sndUYsyvmU) | [Cuando las Bocas Comen Silencio](https://open.spotify.com/album/501pjNhzQYeXfVJfkdRnL9) | 2:43 | 2023-12-08 | 2024-04-19 |
 | [Debilidades del Estado](https://open.spotify.com/track/1pgljjpKVwAebCL23kkm9J) | [Engaño Manifiesto](https://open.spotify.com/artist/0cnl8NwbODpVqEc5sUGT9c) | [Debilidades del Estado](https://open.spotify.com/album/6bn15NVy3l8lYu42JsTAvJ) | 3:08 | 2024-05-09 |  |
+| [Democracias Enfermas](https://open.spotify.com/track/0QT1G5YsSGLnAP6124s76p) | [Josetxu Piperrak & The Riber Rock Band](https://open.spotify.com/artist/3CMa7KMGEivE5STGjWSlxG) | [Democracias Enfermas](https://open.spotify.com/album/4AJ1ZoLCxxtuw8A6vw2jje) | 2:49 | 2024-05-23 |  |
 | [Dispárame](https://open.spotify.com/track/3ttofroygpDF5hKxwfeeM6) | [Calero LDN](https://open.spotify.com/artist/0VD8vX2wvCYYD0SMFCZeRR), [Lendakaris Muertos](https://open.spotify.com/artist/6x6bFaWdzVQM6e7ke2ysMc), [BOXINBOX](https://open.spotify.com/artist/6kn7LhH5siatL0X1kefy0r) | [Dispárame](https://open.spotify.com/album/0wdBkfYTEmMQjqND8f1MUD) | 2:32 | 2023-12-08 |  |
 | [Don Vito y la Revuelta en el Frenopático](https://open.spotify.com/track/4EBFU2ujZgudwRUsi588jo) | [Kortatu](https://open.spotify.com/artist/2bSQxEqvD23Y4W6ztHaann) | [A Frontline Compilation](https://open.spotify.com/album/2GUirHCExX549jcIgaYWKO) | 1:52 | 2023-12-08 |  |
 | [Don\`t Worry Be Happy](https://open.spotify.com/track/6jo4CR3Efx6g2peyiXmzAU) | [The Locos](https://open.spotify.com/artist/1Z4sHcpzg0xnN8X3WYzvgx) | [Don't Worry Be Happy](https://open.spotify.com/album/5FexSOMJcqzhSt3NFXqbLY) | 3:45 | 2024-05-09 |  |
@@ -117,7 +118,7 @@
 | [Nunca Pasa Nada](https://open.spotify.com/track/2OxMzKMrwoaEJvK70oFLgj) | [Porco Bravo](https://open.spotify.com/artist/7lVNBntG3I8zoUlzYCGFBc) | [Porco Bravo](https://open.spotify.com/album/18fU6efhpawi8Egj1pNB9P) | 2:57 | 2023-12-08 |  |
 | [Nunca Sabras Quien Soy](https://open.spotify.com/track/3jfnIlPIMgU4dEyEkI5H2J) | [El Kintano y la Venerea](https://open.spotify.com/artist/2FfJRV2Xcm2F9HpWUTgpUh) | [Nunca Sabras Quien Soy](https://open.spotify.com/album/2u1UPcsSEaNKKcCQzT6nBf) | 2:29 | 2024-05-09 |  |
 | [Otra Vez en Tus Manos](https://open.spotify.com/track/2cLQLHwrwwE1eljpXdDyRQ) | [Gérmenes](https://open.spotify.com/artist/50Ymm1nPtn2tvRtEUZg5Me) | [Mar Etílico](https://open.spotify.com/album/7yK5Z8ZRUm2UBWotLfDlKB) | 2:33 | 2023-12-08 | 2024-04-19 |
-| [Oído Cochina](https://open.spotify.com/track/2qpcDTXNYibLBFi289kO54) | [Archivo Adxunto](https://open.spotify.com/artist/5EKAqSElCzMDWFRPkM7f7S) | [Oído Cochina](https://open.spotify.com/album/1ggL26VoWaPX7SgO7JkKmm) | 1:32 | 2024-04-18 |  |
+| [Oído Cochina](https://open.spotify.com/track/2qpcDTXNYibLBFi289kO54) | [Archivo Adxunto](https://open.spotify.com/artist/5EKAqSElCzMDWFRPkM7f7S) | [Oído Cochina](https://open.spotify.com/album/1ggL26VoWaPX7SgO7JkKmm) | 1:32 | 2024-04-18 | 2024-05-28 |
 | [Pablo Echenique](https://open.spotify.com/track/2gl4Y3raioEWKhXUDALSZP) | [Lendakaris Muertos](https://open.spotify.com/artist/6x6bFaWdzVQM6e7ke2ysMc) | [Mucho Asco \(Casi\) Todo](https://open.spotify.com/album/3xnkw4YKqJzJpTnPPoP7Af) | 1:34 | 2024-01-18 |  |
 | [Perder la Voz](https://open.spotify.com/track/4rW49Rqr5WA3eycR1XoGfD) | [37 Hostias](https://open.spotify.com/artist/2F1uZOod2RXpELmBS649mN) | [Perder la Voz](https://open.spotify.com/album/6Gqq9IvF4LRV6AL9eW5a6j) | 2:17 | 2024-04-18 | 2024-05-10 |
 | [Perdona Amigo](https://open.spotify.com/track/62IjCg5q4jdG8ZdleTkhwL) | [The Birra's Terror](https://open.spotify.com/artist/2nFiMmCWLvbxZbJqxwtTI8) | [Perdona Amigo](https://open.spotify.com/album/7w5YvFaWTRNEUfSbMvhGIu) | 3:23 | 2023-12-08 | 2023-12-27 |

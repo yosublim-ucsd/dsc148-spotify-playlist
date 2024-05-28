@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Gorgon City
 
-[Spotify](https://open.spotify.com/user/spotify) - 643,469 likes - 90 songs - 7 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 643,551 likes - 90 songs - 7 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 89 | [Etereo](https://open.spotify.com/track/2d5O2oNiHbDX6NnZm3BSfh) | [Fireground](https://open.spotify.com/artist/0ddxBl1iyyAs79zjt7YRsJ) | [Etereo](https://open.spotify.com/album/61TQKs1dxxmCxzAMCJoCVp) | 5:39 |
 | 90 | [I Want You To Want Me](https://open.spotify.com/track/01MZ19f2cu4zzuwLy3D3pT) | [Jerome Sydenham](https://open.spotify.com/artist/4e7xQaHgOjyFZtSic0Nk9B), [Robert Owens](https://open.spotify.com/artist/407nV5hO7mZap3UJdpTr4t) | [I Want You To Want Me](https://open.spotify.com/album/0cj3vslSxMpwmC4rgsMCn0) | 6:16 |
 
-Snapshot ID: `Zk+8YAAAAAASHiZ+Z8wHOkGdWxIl5M/i`
+Snapshot ID: `ZlRMDwAAAAA6/IRSdxBJi8CXdXoyp8s1`

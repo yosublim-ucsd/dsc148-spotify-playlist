@@ -4,7 +4,7 @@
 
 > Lagu\-lagu terpopuler dari dekade 2010an\. Cover: Astrid
 
-153 songs - 10 hr 30 min
+156 songs - 10 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Dilema](https://open.spotify.com/track/3cqBNjjGjtKer3jWHCPIUC) | [Cherrybelle](https://open.spotify.com/artist/2oXCgnN1W8fMfNu2mHVgSz) | [Cherrybelle Compilation Album](https://open.spotify.com/album/1wqcpQnLri0fjAPgbmHSao) | 4:02 | 2024-01-05 |  |
 | [Duka](https://open.spotify.com/track/5MIpcd16T59wFeqAChSYwC) | [Last Child](https://open.spotify.com/artist/1v1khTmozNfxB2ET1Ep288) | [Duka](https://open.spotify.com/album/6RUEyCnpcBsm3uSv08NY8q) | 5:25 | 2024-01-05 |  |
 | [Film Favorit](https://open.spotify.com/track/2BCYKFDWnZi9PMkZiemQh1) | [Sheila On 7](https://open.spotify.com/artist/6q87vizIEdEN4NvlR6mjfT) | [Film Favorit](https://open.spotify.com/album/2nXulMdqeETddh6KThsEjI) | 3:43 | 2024-01-05 |  |
+| [Ga Romantis](https://open.spotify.com/track/7uif31ObowZzcTjk3dxJYE) | [Lyla](https://open.spotify.com/artist/3GheatPWdVzxqmRXOKxHTb) | [Ga Romantis](https://open.spotify.com/album/5RKkK41Ej5dDXnlpCpazMX) | 3:53 | 2024-05-27 |  |
 | [Galau](https://open.spotify.com/track/3lVAnVQMfVUYcfg23lBwdV) | [Yovie & Nuno](https://open.spotify.com/artist/3DHOtJqv0Bw65ENlK4FiSF) | [Galau](https://open.spotify.com/album/6y2cxVyChvujuDr3WMQOwr) | 3:22 | 2024-01-05 |  |
 | [Hal Terindah](https://open.spotify.com/track/1rq2b0GMPXfIdy2nezUAPN) | [Seventeen](https://open.spotify.com/artist/5uUb3J6HqLhBWwzuh84LUZ) | [Dunia Yang Indah](https://open.spotify.com/album/0PAFGgXB2GM6llY8ZfzoW5) | 4:16 | 2024-01-05 |  |
 | [Hampa Hatiku](https://open.spotify.com/track/1Antev3xwIzjVbUCVlZhYX) | [Ungu](https://open.spotify.com/artist/4HHdjvdn30koo54zQ6QeF5) | [Timeless](https://open.spotify.com/album/7lTK3QbZ4ZjgRVY8gyTUr6) | 3:47 | 2024-01-05 |  |
@@ -99,6 +100,7 @@
 | [Matahariku](https://open.spotify.com/track/08M6ihbCJmAmfo4uoRYkOD) | [Agnes Monica](https://open.spotify.com/artist/5auFhdM0ZgtH6cXwncgZ4m) | [Agnes Is My Name](https://open.spotify.com/album/53aMwJ5S2SVxCPS4AznERW) | 4:26 | 2024-01-05 |  |
 | [Mendua](https://open.spotify.com/track/5g7TAIGfB6vgbaX8AH19FG) | [Astrid](https://open.spotify.com/artist/6GxmlugWFw4hmhUQ5uP93l) | [Terpukau](https://open.spotify.com/album/0SZMfhZNtHxdF7pYH1sirr) | 4:10 | 2024-01-05 |  |
 | [Menunggumu](https://open.spotify.com/track/4Pob03jnmgS65WbiM1Jof9) | [Noah](https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4) | [Second Chance](https://open.spotify.com/album/2QqFeMX7L0PjVPQoYEHJs4) | 3:45 | 2024-01-05 |  |
+| [Menyimpan Rasa](https://open.spotify.com/track/1oPhiw7KmW3JK0gjuSF4YH) | [Devano](https://open.spotify.com/artist/5nWpcynsaMBFgtGmJODhdi) | [Menyimpan Rasa](https://open.spotify.com/album/0E8TQKFgUP04XaMYK1ls1m) | 3:30 | 2024-05-27 |  |
 | [Merindu Lagi \(Pada Kekasih Orang\)](https://open.spotify.com/track/3vN8A1HfOcytUpCiEm2qqI) | [Yovie & Nuno](https://open.spotify.com/artist/3DHOtJqv0Bw65ENlK4FiSF) | [Winning 11](https://open.spotify.com/album/6nFdenkFLOxjD5eYaD6pZc) | 2:59 | 2024-01-05 |  |
 | [Muara](https://open.spotify.com/track/4lCtZZktwgQqzCoJxK3ZxR) | [Adera](https://open.spotify.com/artist/5puPe9ODwSfnmqy5cx90TC) | [Muara](https://open.spotify.com/album/45nwYGZMMBIXEKl1SUzYMj) | 4:01 | 2024-01-05 |  |
 | [Oh Baby](https://open.spotify.com/track/2Sol76xmqWjMa8MKhgMYJF) | [Cinta Laura Kiehl](https://open.spotify.com/artist/2hpcsQx9HOJnoKczjvXehn) | [Cinta Laura](https://open.spotify.com/album/5mm6E2mqMUFzPMR6z8kOkA) | 4:27 | 2024-01-05 |  |
@@ -110,6 +112,7 @@
 | [Rindu](https://open.spotify.com/track/5gfV3clsxxJpYkpPEGgXg4) | [Agnes Monica](https://open.spotify.com/artist/5auFhdM0ZgtH6cXwncgZ4m) | [Rindu](https://open.spotify.com/album/6BNnA4UVpYCV2afvTuI61H) | 4:20 | 2024-04-04 |  |
 | [Saat Bahagia](https://open.spotify.com/track/11HoyxwXVwWq6lj2Rv37CH) | [Ungu](https://open.spotify.com/artist/4HHdjvdn30koo54zQ6QeF5), [Andien](https://open.spotify.com/artist/75FhU39jo2xmyiObiDGXAo) | [1000 Kisah Satu Hati](https://open.spotify.com/album/7b0PfthjmXQJ0rRX3mYQrA) | 4:09 | 2024-01-05 |  |
 | [Sakit Jiwa](https://open.spotify.com/track/4WQjm8mZBt6kREAt6GkdK2) | [NTRL](https://open.spotify.com/artist/710Oh5ushpaeLgSIcbW8hI) | [11/12](https://open.spotify.com/album/7KScqTiLDVO1l4xwHV53Yy) | 2:10 | 2024-01-05 |  |
+| [Sampai Akhir \(feat\. DuMa\)](https://open.spotify.com/track/1apPmtDyQfYTtsMdfziIdN) | [Judika](https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd), [Duma](https://open.spotify.com/artist/2cr8btrYdgBNUPhdskgSPO) | [Judika Mencari Cinta](https://open.spotify.com/album/5ePas69moZqjAW6RZU3jhX) | 3:25 | 2024-05-27 |  |
 | [Sampai Mati](https://open.spotify.com/track/5hOuU9pRHH8cDGRUgAwQMJ) | [Putih](https://open.spotify.com/artist/3Yn6aM7XCgMbWGmOrI7zTO) | [Apa Kabar Cinta](https://open.spotify.com/album/5wSRegL5ELwoQDYSamgQ5U) | 4:31 | 2024-04-19 |  |
 | [Sampai Mati](https://open.spotify.com/track/0VMb5OupyZA27f2u6Sck01) | [Putih](https://open.spotify.com/artist/3Yn6aM7XCgMbWGmOrI7zTO) | [Apa Kabar Cinta](https://open.spotify.com/album/0uAfzhtdFkD5AfShuX8610) | 4:31 | 2024-01-05 | 2024-04-19 |
 | [Sayang](https://open.spotify.com/track/1dDpZbX1MfvWNBqhJhvXgm) | [Supernova](https://open.spotify.com/artist/7kydkMNIMNhr7jDgeOQd4H) | [Bercahaya](https://open.spotify.com/album/7Bk0NnaNXmQHq4WKHy8kWK) | 3:54 | 2024-01-05 |  |

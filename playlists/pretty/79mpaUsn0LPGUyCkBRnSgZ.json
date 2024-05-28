@@ -6,7 +6,7 @@
     "name": "Zack Amiton",
     "url": "https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt"
   },
-  "snapshot_id": "AAAF8Dn7/2V2I5D7QbNz4Wwyi7peO+DH",
+  "snapshot_id": "AAAF+aDMCPDdtTeybzFke0IYVF2oEr4m",
   "tracks": [
     {
       "added_at": "2021-08-26 23:11:19",
@@ -8007,6 +8007,150 @@
       "duration_ms": 35993,
       "name": "do u c",
       "url": "https://open.spotify.com/track/6nAmgIbPY6NdjWAWtOu7lz"
+    },
+    {
+      "added_at": "2024-05-27 03:50:04",
+      "album": {
+        "name": "Valley of the Windmill",
+        "url": "https://open.spotify.com/album/3MndV3Q7I9Nxdy8rpl0jqp"
+      },
+      "artists": [
+        {
+          "name": "Circa",
+          "url": "https://open.spotify.com/artist/0NWAtptwHV1dlKCTTcNHly"
+        }
+      ],
+      "duration_ms": 881000,
+      "name": "Silent Resolve",
+      "url": "https://open.spotify.com/track/5TFjulUVozhg2upoFmbblV"
+    },
+    {
+      "added_at": "2024-05-27 03:54:49",
+      "album": {
+        "name": "Woyaya",
+        "url": "https://open.spotify.com/album/72hcKrMgA7vVJLAOAKW8c2"
+      },
+      "artists": [
+        {
+          "name": "Osibisa",
+          "url": "https://open.spotify.com/artist/12X85dtebfc7JTZ8iMBT2o"
+        }
+      ],
+      "duration_ms": 406000,
+      "name": "Beautiful Seven",
+      "url": "https://open.spotify.com/track/3LIOzrflkzUxW5GFeBCkXx"
+    },
+    {
+      "added_at": "2024-05-27 03:58:08",
+      "album": {
+        "name": "Abraxas",
+        "url": "https://open.spotify.com/album/1CHUXwuge9A7L2KiA3vnR6"
+      },
+      "artists": [
+        {
+          "name": "Santana",
+          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
+        }
+      ],
+      "duration_ms": 290666,
+      "name": "Singing Winds, Crying Beasts",
+      "url": "https://open.spotify.com/track/0vBCQeiEKRy6eJmrf5zz4H"
+    },
+    {
+      "added_at": "2024-05-27 04:05:42",
+      "album": {
+        "name": "Blunted On Reality",
+        "url": "https://open.spotify.com/album/0SHdsrvo4oGJiUlYLaqCcu"
+      },
+      "artists": [
+        {
+          "name": "Fugees",
+          "url": "https://open.spotify.com/artist/2WKdxPFRD7IqZvlIAvhMgY"
+        }
+      ],
+      "duration_ms": 269066,
+      "name": "Nappy Heads",
+      "url": "https://open.spotify.com/track/5ZOsm73xqrZPJBBtv4aGpS"
+    },
+    {
+      "added_at": "2024-05-27 04:14:03",
+      "album": {
+        "name": "Dark Times",
+        "url": "https://open.spotify.com/album/30BFY5VHii4PyWqkTubUWX"
+      },
+      "artists": [
+        {
+          "name": "Vince Staples",
+          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
+        }
+      ],
+      "duration_ms": 31145,
+      "name": "Close Your Eyes and Swing",
+      "url": "https://open.spotify.com/track/3YLGWFX2FfHIVV7EJvRlrn"
+    },
+    {
+      "added_at": "2024-05-27 04:14:49",
+      "album": {
+        "name": "GRASA",
+        "url": "https://open.spotify.com/album/2ab0PTJ5OG7I6YfSqpDFZv"
+      },
+      "artists": [
+        {
+          "name": "NATHY PELUSO",
+          "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
+        }
+      ],
+      "duration_ms": 148097,
+      "name": "CORLEONE",
+      "url": "https://open.spotify.com/track/5VrKDJsD0VhIfjZxCEUXOI"
+    },
+    {
+      "added_at": "2024-05-27 04:22:05",
+      "album": {
+        "name": "Mandrill",
+        "url": "https://open.spotify.com/album/4bD8UUx1VGPsWbSAtfEWgX"
+      },
+      "artists": [
+        {
+          "name": "Mandrill",
+          "url": "https://open.spotify.com/artist/6RWnslEkqboHbDg0OUabe5"
+        }
+      ],
+      "duration_ms": 185960,
+      "name": "Chutney",
+      "url": "https://open.spotify.com/track/66wVaiPKHWIx2g4oMQ7ic1"
+    },
+    {
+      "added_at": "2024-05-27 04:27:26",
+      "album": {
+        "name": "Right Place, Wrong Person",
+        "url": "https://open.spotify.com/album/512dQp7hBbDDurodCqSw5I"
+      },
+      "artists": [
+        {
+          "name": "RM",
+          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
+        }
+      ],
+      "duration_ms": 117000,
+      "name": "Right People, Wrong Place",
+      "url": "https://open.spotify.com/track/2ftb45L7iXYwp0WoTEuslG"
+    },
+    {
+      "added_at": "2024-05-27 17:11:43",
+      "album": {
+        "name": "Floorspace",
+        "url": "https://open.spotify.com/album/0zJkFKoviOWGLmT5mvWhWC"
+      },
+      "artists": [
+        {
+          "name": "Juelz",
+          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
+        }
+      ],
+      "duration_ms": 116755,
+      "name": "Fingertips (Intro)",
+      "url": "https://open.spotify.com/track/3ZPSyQ3TxrZ5O5lJPw0wVx"
     }
   ],
   "unique_name": "Zacklog",

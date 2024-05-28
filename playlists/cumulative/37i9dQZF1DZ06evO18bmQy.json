@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-19",
-  "description": "This is Djonga. The essential tracks, all in one playlist.",
+  "description": "This is Djonga. Todos os maiores hits em uma s\u00f3 playlist.",
   "name": "This Is Djonga",
   "tracks": [
     {
@@ -108,7 +108,7 @@
       ],
       "date_added": "2023-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-09",
+      "date_removed": null,
       "duration_ms": 199951,
       "name": "AT\u00cdPICO",
       "url": "https://open.spotify.com/track/0PnZJZwuVFs6rPlYuFkTpi"
@@ -1184,7 +1184,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-28",
       "duration_ms": 279689,
       "name": "Ogum - Ao Vivo",
       "url": "https://open.spotify.com/track/4jkyBKpk8bzUPHe2Cfiwv4"

@@ -1,6 +1,6 @@
 {
   "description": "Reinas de la cumbia, de hoy y de siempre. \nFoto: Karina.",
-  "num_followers": 97936,
+  "num_followers": 97963,
   "original_name": "Cumbieras",
   "owner": {
     "name": "Spotify",
@@ -787,18 +787,22 @@
     {
       "added_at": "2024-04-12 03:00:00",
       "album": {
-        "name": "Pirata",
-        "url": "https://open.spotify.com/album/5kj35KucMb9m2IENpIWA9c"
+        "name": "Dos Infieles",
+        "url": "https://open.spotify.com/album/1f54nsI9jCpMXNryg9RX4f"
       },
       "artists": [
         {
-          "name": "Karina",
-          "url": "https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq"
+          "name": "Lumila",
+          "url": "https://open.spotify.com/artist/3UMqtujij2O4GFEb4kudmz"
+        },
+        {
+          "name": "Coty Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE"
         }
       ],
-      "duration_ms": 170192,
-      "name": "Pirata",
-      "url": "https://open.spotify.com/track/3fSpafFrh7GM2x7X8MjfGb"
+      "duration_ms": 224573,
+      "name": "Dos Infieles",
+      "url": "https://open.spotify.com/track/3GcbihNnqXr2fVKOnawl7K"
     },
     {
       "added_at": "2024-04-12 03:00:00",
@@ -823,22 +827,18 @@
     {
       "added_at": "2024-04-12 03:00:00",
       "album": {
-        "name": "Dos Infieles",
-        "url": "https://open.spotify.com/album/1f54nsI9jCpMXNryg9RX4f"
+        "name": "Pirata",
+        "url": "https://open.spotify.com/album/5kj35KucMb9m2IENpIWA9c"
       },
       "artists": [
         {
-          "name": "Lumila",
-          "url": "https://open.spotify.com/artist/3UMqtujij2O4GFEb4kudmz"
-        },
-        {
-          "name": "Coty Hern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE"
+          "name": "Karina",
+          "url": "https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq"
         }
       ],
-      "duration_ms": 224573,
-      "name": "Dos Infieles",
-      "url": "https://open.spotify.com/track/3GcbihNnqXr2fVKOnawl7K"
+      "duration_ms": 170192,
+      "name": "Pirata",
+      "url": "https://open.spotify.com/track/3fSpafFrh7GM2x7X8MjfGb"
     },
     {
       "added_at": "2024-04-12 03:00:00",

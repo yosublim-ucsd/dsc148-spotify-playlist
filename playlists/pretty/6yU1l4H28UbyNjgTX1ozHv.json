@@ -1,12 +1,12 @@
 {
   "description": "Driving songs acoustic style! Sit back and enjoy the ride!",
-  "num_followers": 9029,
+  "num_followers": 9028,
   "original_name": "Acoustic Driving Songs",
   "owner": {
     "name": "Matt Johnson",
     "url": "https://open.spotify.com/user/117687144"
   },
-  "snapshot_id": "AAAE7B5FxFM2YX3dRcir/BaUm1oBlA0K",
+  "snapshot_id": "AAAE73XwJlOxiOQWJiTQoVU7m0ib5di5",
   "tracks": [
     {
       "added_at": "2024-05-10 18:18:10",
@@ -131,6 +131,22 @@
       "duration_ms": 150214,
       "name": "You Make My Dreams (Come True) - Acoustic",
       "url": "https://open.spotify.com/track/5eVWuD9WNdT1ucIjoSgzNi"
+    },
+    {
+      "added_at": "2024-05-27 19:29:53",
+      "album": {
+        "name": "Big Girls Don't Cry",
+        "url": "https://open.spotify.com/album/6t7KpPbua4qyuK4VYPs4T6"
+      },
+      "artists": [
+        {
+          "name": "Nelly Hope",
+          "url": "https://open.spotify.com/artist/2MYa23iZLfrK6Yj4eAIOGt"
+        }
+      ],
+      "duration_ms": 163636,
+      "name": "Big Girls Don't Cry",
+      "url": "https://open.spotify.com/track/55eqiKZdQSdbya2Oty6vDE"
     },
     {
       "added_at": "2024-01-12 12:53:02",
@@ -1059,22 +1075,6 @@
       "duration_ms": 198398,
       "name": "Africa - Acoustic",
       "url": "https://open.spotify.com/track/2oUb1OhVJ4JusGBn3qqFWU"
-    },
-    {
-      "added_at": "2024-02-09 13:25:08",
-      "album": {
-        "name": "I'd Do Anything for Love (But I Won't Do That) [Acoustic]",
-        "url": "https://open.spotify.com/album/3DQV1dLirs2pkNxp9brWjY"
-      },
-      "artists": [
-        {
-          "name": "Mateo Oxley",
-          "url": "https://open.spotify.com/artist/1BJ81QRILzVFcTt8fmqN9r"
-        }
-      ],
-      "duration_ms": 178213,
-      "name": "I'd Do Anything for Love (But I Won't Do That) - Acoustic",
-      "url": "https://open.spotify.com/track/7n4gOElu13vwVqhmvTXgZR"
     },
     {
       "added_at": "2020-10-01 14:30:17",
@@ -2067,22 +2067,6 @@
       "duration_ms": 145056,
       "name": "2002 - Acoustic",
       "url": "https://open.spotify.com/track/67hLk2IWPV2kHXlbP8I79Q"
-    },
-    {
-      "added_at": "2024-03-08 21:50:26",
-      "album": {
-        "name": "Lose Control (Acoustic)",
-        "url": "https://open.spotify.com/album/6cjptNzpxG7NWNOfnFC3n9"
-      },
-      "artists": [
-        {
-          "name": "Jacob Wellfair",
-          "url": "https://open.spotify.com/artist/3ltleRPN7qd0CQ3rNVMW2V"
-        }
-      ],
-      "duration_ms": 165513,
-      "name": "Lose Control - Acoustic",
-      "url": "https://open.spotify.com/track/5UlmRrsGgc0LH1PjWEr0tf"
     },
     {
       "added_at": "2019-10-13 06:38:53",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover:   <a href=https://open.spotify.com/artist/0iE6uT4YVh808x9A2iWJ9D?si=bdYvfL\_zQpSwSBNc702QIw>PV Idemudia</a> and  <a href=https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3?si=lbKpToUmTnSVKcdOI1s6RQ>Steve Crown</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,172 likes - 100 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,340 likes - 100 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

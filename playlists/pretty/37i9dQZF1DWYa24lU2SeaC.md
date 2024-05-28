@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYa24lU2SeaC.md) - [plain]
 
 > Chantez sur tous vos titres Disney préférés tels que La Reine des neiges, Encanto: la fantastique famille Madrigal, Wish: Asha et la bonne étoile, Vaiana: la légende du bout du monde, Tarzan, Aladdin, Élémentaire, Mulan, Le Roi lion et bien d'autres encore!
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,738 likes - 90 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,781 likes - 90 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

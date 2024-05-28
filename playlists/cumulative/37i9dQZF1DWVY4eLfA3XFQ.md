@@ -4,7 +4,7 @@
 
 > Tech house technicians, featuring Martin Ikin\. 50% techno, 50% house
 
-1,611 songs - 3 day 18 hr 38 min
+1,612 songs - 3 day 18 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,7 +171,7 @@
 | [BOOM](https://open.spotify.com/track/3oSnkO1C5gglYD1k3mLofN) | [Capozzi](https://open.spotify.com/artist/1cNpMm9NSchdIe9RdGA1MC) | [BOOM](https://open.spotify.com/album/5rSwibwAvUaIdeTdMi5gmA) | 3:06 | 2022-10-28 | 2023-02-04 |
 | [Boom Boom](https://open.spotify.com/track/47xWwrLbcQzPaIYfzT6tHw) | [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr) | [Boom Boom](https://open.spotify.com/album/396METRQZ7gA7NcQlOHuw4) | 3:01 | 2023-12-08 | 2024-05-09 |
 | [Boom Boom \(feat\. CHRSTPHR\)](https://open.spotify.com/track/41Fq0oWTtuGes9RR6UhMw1) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS), [CHRSTPHR](https://open.spotify.com/artist/6yu6ruPHJXpEtX3eQpZTCz) | [Boom Boom \(feat\. CHRSTPHR\)](https://open.spotify.com/album/7pkY5Owef8tkoR7Y88Olwt) | 2:58 | 2022-09-05 | 2022-11-29 |
-| [Boombox \(feat\. Madam Parker\)](https://open.spotify.com/track/76Ha6CD61eRztnKUbiUXbf) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz), [Madam Parker](https://open.spotify.com/artist/29rTk5W3QE63AAQVsk9o8K) | [Boombox \(feat\. Madam Parker\)](https://open.spotify.com/album/2yTX8OjdtAq2LFkqhi4284) | 2:45 | 2024-03-15 |  |
+| [Boombox \(feat\. Madam Parker\)](https://open.spotify.com/track/76Ha6CD61eRztnKUbiUXbf) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz), [Madam Parker](https://open.spotify.com/artist/29rTk5W3QE63AAQVsk9o8K) | [Boombox \(feat\. Madam Parker\)](https://open.spotify.com/album/2yTX8OjdtAq2LFkqhi4284) | 2:45 | 2024-03-15 | 2024-05-28 |
 | [Boots 'N' Cats](https://open.spotify.com/track/3fDE4ufBMRpVBIxulH7KoM) | [Bolier](https://open.spotify.com/artist/65NscqgsoMPqBtoLbkP3jD), [NBLM](https://open.spotify.com/artist/3y03cacOqPS9hc4UN2U9rc), [MVRT](https://open.spotify.com/artist/4o6dSaEQPjuz9CgVomOekK) | [Boots 'N' Cats](https://open.spotify.com/album/21ad01B7nsTGlFcWyFBAwX) | 3:06 | 2022-05-06 | 2022-07-30 |
 | [Booty Call](https://open.spotify.com/track/5ewAgjDoLSaRIkRNKSrulv) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Fast Eddie](https://open.spotify.com/artist/19slOlozrbxkEIMD8L3Qsv) | [Booty Call](https://open.spotify.com/album/5i6flFpD41g9ne7XBItO1n) | 2:40 | 2021-11-26 | 2022-01-06 |
 | [Bored](https://open.spotify.com/track/3yVHTc8ngdOPbNLJRJNrCB) | [Chapter & Verse](https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t) | [Bored](https://open.spotify.com/album/64RY3WoNtQIbPjfH69eiW5) | 3:14 | 2023-05-05 | 2023-08-15 |
@@ -434,6 +434,7 @@
 | [Evil Disco](https://open.spotify.com/track/5tceYJ8X88NSBim5zvNyF9) | [N2N](https://open.spotify.com/artist/3ZnVC33s8MBcF0KmAC4rj5), [Malcolm Zeller](https://open.spotify.com/artist/5LlefWbu524mwqs5ZmFuvm), [Aazure](https://open.spotify.com/artist/6Jb3ccunkcizgKwtD7vDLK) | [Evil Disco](https://open.spotify.com/album/2t8ujUqxAatJ0CIUsg9hvf) | 2:20 | 2023-06-16 | 2023-06-18 |
 | [Exchange](https://open.spotify.com/track/5JQ5g8laQUVjj5fDZ59Ira) | [NightFunk](https://open.spotify.com/artist/1UgUBnYpGyrYfGIfkMp08O), [LUCATI](https://open.spotify.com/artist/6l6CFc2kr864voPxTDcYZn), [Diego Bayón](https://open.spotify.com/artist/1kIno1xiIM0Vr2YeaN3sBD) | [Exchange](https://open.spotify.com/album/3uwdA43oZzTe5LqZSTCf75) | 3:34 | 2021-11-26 | 2022-01-06 |
 | [Express Yourself \- Mochakk Remix](https://open.spotify.com/track/2WNj9pcYFpYuG4jxQ5vrwT) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Mochakk](https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo), [Nicky Da B](https://open.spotify.com/artist/3wWXYbMxREh97Te2ZN92Wi) | [Express Yourself \(Mochakk Remix\)](https://open.spotify.com/album/370TQgbDVLx3vJSPvCNYaI) | 4:15 | 2023-07-07 | 2024-02-24 |
+| [EYAH \(You'll Be Alright\)](https://open.spotify.com/track/2TE1Pr3iaDJdWvGSfMm3TS) | [Westend](https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu), [Tudor](https://open.spotify.com/artist/6YPmhC6xckfcUiw4undxAb), [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF) | [EYAH \(You'll Be Alright\)](https://open.spotify.com/album/3ZFctsaDV84rcejIEOHhOv) | 2:55 | 2024-05-24 |  |
 | [Eyes On Me](https://open.spotify.com/track/6qrsyClVcLM6ENACz7MLfX) | [Double Agent](https://open.spotify.com/artist/4BwhvsUVmhKmN2VuD8sUMM), [Jannah Beth](https://open.spotify.com/artist/6eC2CFvVSX6FZRJqTqXwZh) | [Eyes On Me](https://open.spotify.com/album/428Z43dxEuAOVj0pYgaeSA) | 3:24 | 2021-11-26 | 2022-01-06 |
 | [F\*ck](https://open.spotify.com/track/3YpstqktwRasn3mhL2agCe) | [Mari Ferrari](https://open.spotify.com/artist/6WEmnL6VvRN4QKUqq9dZHs) | [F\*ck](https://open.spotify.com/album/00HQCvAcHBzoOoj1C6iMxe) | 2:54 | 2022-05-27 | 2022-07-09 |
 | [Fade](https://open.spotify.com/track/3lVct0FG5GjLm1lALTpyPc) | [J\. Worra](https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj) | [Fade](https://open.spotify.com/album/1wUc9z7N5GRsfEDJVX7D91) | 2:58 | 2023-05-12 | 2023-08-26 |

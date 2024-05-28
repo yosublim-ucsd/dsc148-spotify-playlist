@@ -124,7 +124,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-28",
       "duration_ms": 192968,
       "name": "Banana Split (with YNW Melly feat. Lil Durk)",
       "url": "https://open.spotify.com/track/57Lw4YmOvpighLOnwqiuKr"
@@ -886,6 +886,32 @@
       "duration_ms": 143960,
       "name": "Stuck in Between",
       "url": "https://open.spotify.com/track/0RjweECF6Y4zdR1cixjmiG"
+    },
+    {
+      "album": {
+        "name": "Free Dope 3",
+        "url": "https://open.spotify.com/album/0ly6DsmmyfEw30LtjIQvEg"
+      },
+      "artists": [
+        {
+          "name": "Yung Tory",
+          "url": "https://open.spotify.com/artist/392I9I5QMSyoA0FmI5pVfx"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        }
+      ],
+      "date_added": "2024-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164671,
+      "name": "Studio Trappin",
+      "url": "https://open.spotify.com/track/7o4nJGQBqwvjPds4OhIQZi"
     },
     {
       "album": {
