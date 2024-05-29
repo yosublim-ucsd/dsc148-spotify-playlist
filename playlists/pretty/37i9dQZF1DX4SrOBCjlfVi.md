@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Blxst & Offset, Sexyy Red, Don Toliver and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 272,534 likes - 48 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 272,719 likes - 48 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 14 | [Best Friend](https://open.spotify.com/track/2WJXlmZ5ZgFkUjcs3798sc) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS), [Melii](https://open.spotify.com/artist/4udfTw7V8jI4AHi7PEfJfj) | [Best Friend](https://open.spotify.com/album/3tFee3xnJ2I9vWAmAEC93x) | 2:35 |
 | 15 | [Wildlife \(feat\. Sleepy Hallow\)](https://open.spotify.com/track/350eBNxmi87YdMxQvauyUQ) | [Scorey](https://open.spotify.com/artist/0X3nsc84A9qlFilmlWNwQb), [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV) | [Wildlife \(feat\. Sleepy Hallow\)](https://open.spotify.com/album/6NRSyW6U2CGW7eedBPyB3f) | 2:53 |
 | 16 | [Pardon Us](https://open.spotify.com/track/2bUuEDGDJOsqU827gTi5pB) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [NBA 2K24 Soundtrack](https://open.spotify.com/album/3tHl9pVwXxPaDLVtUxQLGm) | 2:01 |
-| 17 | [NOTT](https://open.spotify.com/track/69zAjL2CE6gUO9DaHNjK8c) | [Hitkidd](https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5), [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC) | [NOTT](https://open.spotify.com/album/6DMRH8HHK7eKqz47CXCPbo) | 3:02 |
+| 17 | [NOTT](https://open.spotify.com/track/69zAjL2CE6gUO9DaHNjK8c) | [Hitkidd](https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5), [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC) | [NOTT](https://open.spotify.com/album/6DMRH8HHK7eKqz47CXCPbo) | 3:01 |
 | 18 | [Rock Out](https://open.spotify.com/track/53opE2ZAIvEqv3pwo7kjLF) | [Trae Tha Truth](https://open.spotify.com/artist/49vCIUW46QY3L5vo1xVFoy), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL) | [Rock Out](https://open.spotify.com/album/3mKeMqi3QFtGLhsbgyT2Fl) | 2:56 |
 | 19 | [Bury My Problems](https://open.spotify.com/track/7xfMa6XgzGDPE6CAUG2Ta6) | [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) | [Mental Trillness 2](https://open.spotify.com/album/4jKe82uh1vvZHkd2WuN1WG) | 4:29 |
 | 20 | [Mixed Feelings](https://open.spotify.com/track/0jylP8rKjs0snyyWUeadlS) | [Finesse2tymes](https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg) | [Mixed Feelings](https://open.spotify.com/album/1lxOUM2JBoxfhUE76QDyVJ) | 3:01 |

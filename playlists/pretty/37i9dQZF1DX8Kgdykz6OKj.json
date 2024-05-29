@@ -1,6 +1,6 @@
 {
   "description": "Laid back cratedigger hip-hop from around the world.",
-  "num_followers": 1282539,
+  "num_followers": 1282954,
   "original_name": "Jazz Rap",
   "owner": {
     "name": "Spotify",
@@ -959,26 +959,6 @@
     {
       "added_at": "2024-05-22 18:33:06",
       "album": {
-        "name": "Big Piranhas",
-        "url": "https://open.spotify.com/album/3qdO7UKSZDOdOpWDCrnSps"
-      },
-      "artists": [
-        {
-          "name": "Mike Shabb",
-          "url": "https://open.spotify.com/artist/6neEhK0FxJha78nD9giAjW"
-        },
-        {
-          "name": "Boldy James",
-          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
-        }
-      ],
-      "duration_ms": 211984,
-      "name": "Big Piranhas",
-      "url": "https://open.spotify.com/track/10wwTjzJ9tv6f9aJFkcmuY"
-    },
-    {
-      "added_at": "2024-05-22 18:33:06",
-      "album": {
         "name": "The Silhouettes Project",
         "url": "https://open.spotify.com/album/65wZziwWVCSSkYVlfmBodL"
       },
@@ -1023,6 +1003,26 @@
       "duration_ms": 238573,
       "name": "Memories Live",
       "url": "https://open.spotify.com/track/0kHIEdWbOvnrvTmRfPtHDN"
+    },
+    {
+      "added_at": "2024-05-22 18:33:06",
+      "album": {
+        "name": "Big Piranhas",
+        "url": "https://open.spotify.com/album/3qdO7UKSZDOdOpWDCrnSps"
+      },
+      "artists": [
+        {
+          "name": "Mike Shabb",
+          "url": "https://open.spotify.com/artist/6neEhK0FxJha78nD9giAjW"
+        },
+        {
+          "name": "Boldy James",
+          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
+        }
+      ],
+      "duration_ms": 211984,
+      "name": "Big Piranhas",
+      "url": "https://open.spotify.com/track/10wwTjzJ9tv6f9aJFkcmuY"
     },
     {
       "added_at": "2024-05-22 18:33:06",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2024-05-22 18:33:06",
       "album": {
-        "name": "Stand Tall",
-        "url": "https://open.spotify.com/album/2FUM8dpooyuVtEoWyLxwh8"
-      },
-      "artists": [
-        {
-          "name": "Rapsody",
-          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
-        }
-      ],
-      "duration_ms": 129498,
-      "name": "Stand Tall",
-      "url": "https://open.spotify.com/track/4kia4JAVdfeMtCPrVoC5UH"
-    },
-    {
-      "added_at": "2024-05-22 18:33:06",
-      "album": {
         "name": "Everything's Beautiful",
         "url": "https://open.spotify.com/album/0DI27qIRQRFkXrMvHxj9yh"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 203680,
       "name": "Violets (feat. Phonte)",
       "url": "https://open.spotify.com/track/185ciwUe4FUDPG7VHFNzcv"
+    },
+    {
+      "added_at": "2024-05-22 18:33:06",
+      "album": {
+        "name": "Stand Tall",
+        "url": "https://open.spotify.com/album/2FUM8dpooyuVtEoWyLxwh8"
+      },
+      "artists": [
+        {
+          "name": "Rapsody",
+          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
+        }
+      ],
+      "duration_ms": 129498,
+      "name": "Stand Tall",
+      "url": "https://open.spotify.com/track/4kia4JAVdfeMtCPrVoC5UH"
     },
     {
       "added_at": "2024-05-22 18:33:06",
@@ -1227,18 +1227,22 @@
     {
       "added_at": "2024-05-22 18:33:06",
       "album": {
-        "name": "Cilvia Demo - Spotify Ten - 10th Anniversary Series",
-        "url": "https://open.spotify.com/album/4vnluuwKQJwtUQ6U6wjh7T"
+        "name": "Head Highs",
+        "url": "https://open.spotify.com/album/6r1uf6dIkqkQvqFb24zZwS"
       },
       "artists": [
         {
-          "name": "Isaiah Rashad",
-          "url": "https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM"
+          "name": "Malaki",
+          "url": "https://open.spotify.com/artist/6DWp3hFGq7c3nyQ3AT7RDF"
+        },
+        {
+          "name": "jarjarjr",
+          "url": "https://open.spotify.com/artist/5ofXjDgcJSkigdj3riR40W"
         }
       ],
-      "duration_ms": 193721,
-      "name": "Menthol (Live) - Spotify Ten Version",
-      "url": "https://open.spotify.com/track/2lmx9x5RWr6GQTMmxdwynb"
+      "duration_ms": 155346,
+      "name": "Head Highs",
+      "url": "https://open.spotify.com/track/3oib1sfr5xfi3Hklnyspq8"
     },
     {
       "added_at": "2024-05-22 18:33:06",
@@ -1263,42 +1267,18 @@
     {
       "added_at": "2024-05-22 18:33:06",
       "album": {
-        "name": "Head Highs",
-        "url": "https://open.spotify.com/album/6r1uf6dIkqkQvqFb24zZwS"
+        "name": "Cilvia Demo - Spotify Ten - 10th Anniversary Series",
+        "url": "https://open.spotify.com/album/4vnluuwKQJwtUQ6U6wjh7T"
       },
       "artists": [
         {
-          "name": "Malaki",
-          "url": "https://open.spotify.com/artist/6DWp3hFGq7c3nyQ3AT7RDF"
-        },
-        {
-          "name": "jarjarjr",
-          "url": "https://open.spotify.com/artist/5ofXjDgcJSkigdj3riR40W"
+          "name": "Isaiah Rashad",
+          "url": "https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM"
         }
       ],
-      "duration_ms": 155346,
-      "name": "Head Highs",
-      "url": "https://open.spotify.com/track/3oib1sfr5xfi3Hklnyspq8"
-    },
-    {
-      "added_at": "2024-05-22 18:33:06",
-      "album": {
-        "name": "2 Piece",
-        "url": "https://open.spotify.com/album/4ETZDoRT2DmjIb3L2IUo57"
-      },
-      "artists": [
-        {
-          "name": "Dave East",
-          "url": "https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5"
-        },
-        {
-          "name": "Harry Fraud",
-          "url": "https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S"
-        }
-      ],
-      "duration_ms": 186666,
-      "name": "Bacc 2 Harlem",
-      "url": "https://open.spotify.com/track/4GMQyTh4yglx08mb1Aci6y"
+      "duration_ms": 193721,
+      "name": "Menthol (Live) - Spotify Ten Version",
+      "url": "https://open.spotify.com/track/2lmx9x5RWr6GQTMmxdwynb"
     },
     {
       "added_at": "2024-05-22 18:33:06",
@@ -1323,6 +1303,26 @@
     {
       "added_at": "2024-05-22 18:33:06",
       "album": {
+        "name": "2 Piece",
+        "url": "https://open.spotify.com/album/4ETZDoRT2DmjIb3L2IUo57"
+      },
+      "artists": [
+        {
+          "name": "Dave East",
+          "url": "https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5"
+        },
+        {
+          "name": "Harry Fraud",
+          "url": "https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S"
+        }
+      ],
+      "duration_ms": 186666,
+      "name": "Bacc 2 Harlem",
+      "url": "https://open.spotify.com/track/4GMQyTh4yglx08mb1Aci6y"
+    },
+    {
+      "added_at": "2024-05-22 18:33:06",
+      "album": {
         "name": "Scottie Pippen",
         "url": "https://open.spotify.com/album/3STIqNwTorh5aHzN84FZ34"
       },
@@ -1339,26 +1339,6 @@
       "duration_ms": 233154,
       "name": "Scottie Pippen",
       "url": "https://open.spotify.com/track/2xzcjOTPZmWY4S8iyhTcds"
-    },
-    {
-      "added_at": "2024-05-22 18:33:06",
-      "album": {
-        "name": "Articuno",
-        "url": "https://open.spotify.com/album/5PoZ4iwuanehqnO2BZlPKM"
-      },
-      "artists": [
-        {
-          "name": "Ben Beal",
-          "url": "https://open.spotify.com/artist/0CTpeTOAvzc1FOlPj4uYWV"
-        },
-        {
-          "name": "Elijah Who",
-          "url": "https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8"
-        }
-      ],
-      "duration_ms": 116000,
-      "name": "Articuno",
-      "url": "https://open.spotify.com/track/6FvptLjpTE8ymMN8yHhL6e"
     },
     {
       "added_at": "2024-05-22 18:33:06",
@@ -1383,26 +1363,22 @@
     {
       "added_at": "2024-05-22 18:33:06",
       "album": {
-        "name": "Palm Trees",
-        "url": "https://open.spotify.com/album/5cFilTRRO7XTL1ZN3AjDKM"
+        "name": "Articuno",
+        "url": "https://open.spotify.com/album/5PoZ4iwuanehqnO2BZlPKM"
       },
       "artists": [
         {
-          "name": "K. Sparks",
-          "url": "https://open.spotify.com/artist/24wsTHZ4EsAzPrgG4qIf3Z"
+          "name": "Ben Beal",
+          "url": "https://open.spotify.com/artist/0CTpeTOAvzc1FOlPj4uYWV"
         },
         {
-          "name": "Ricardo Schneider",
-          "url": "https://open.spotify.com/artist/7waAdUdVySPnnQcHbj1rwv"
-        },
-        {
-          "name": "Hoffy Beats",
-          "url": "https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq"
+          "name": "Elijah Who",
+          "url": "https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8"
         }
       ],
-      "duration_ms": 136526,
-      "name": "Midnight Schemes",
-      "url": "https://open.spotify.com/track/6xPB98epJF3wqRObu8w0Ro"
+      "duration_ms": 116000,
+      "name": "Articuno",
+      "url": "https://open.spotify.com/track/6FvptLjpTE8ymMN8yHhL6e"
     },
     {
       "added_at": "2024-05-22 18:33:06",
@@ -1431,6 +1407,30 @@
       "duration_ms": 355720,
       "name": "Black Superhero [Feat. Killer Mike, BJ The Chicago Kid & Big K.R.I.T.]",
       "url": "https://open.spotify.com/track/6i8K68TanxPlhBlRiQIdC3"
+    },
+    {
+      "added_at": "2024-05-22 18:33:06",
+      "album": {
+        "name": "Palm Trees",
+        "url": "https://open.spotify.com/album/5cFilTRRO7XTL1ZN3AjDKM"
+      },
+      "artists": [
+        {
+          "name": "K. Sparks",
+          "url": "https://open.spotify.com/artist/24wsTHZ4EsAzPrgG4qIf3Z"
+        },
+        {
+          "name": "Ricardo Schneider",
+          "url": "https://open.spotify.com/artist/7waAdUdVySPnnQcHbj1rwv"
+        },
+        {
+          "name": "Hoffy Beats",
+          "url": "https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq"
+        }
+      ],
+      "duration_ms": 136526,
+      "name": "Midnight Schemes",
+      "url": "https://open.spotify.com/track/6xPB98epJF3wqRObu8w0Ro"
     },
     {
       "added_at": "2024-05-22 18:33:06",
@@ -1491,6 +1491,26 @@
     {
       "added_at": "2024-05-22 18:33:06",
       "album": {
+        "name": "EQUINOX",
+        "url": "https://open.spotify.com/album/5WP3TQg4wJ4iUN80HbuJk7"
+      },
+      "artists": [
+        {
+          "name": "Venna",
+          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
+        },
+        {
+          "name": "Knucks",
+          "url": "https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa"
+        }
+      ],
+      "duration_ms": 218920,
+      "name": "Misty",
+      "url": "https://open.spotify.com/track/0U7sCk6TIauNE7Jey4Eclp"
+    },
+    {
+      "added_at": "2024-05-22 18:33:06",
+      "album": {
         "name": "Factor",
         "url": "https://open.spotify.com/album/05VwnXwsWgDKvhoAi62vPq"
       },
@@ -1511,26 +1531,6 @@
       "duration_ms": 177713,
       "name": "Factor",
       "url": "https://open.spotify.com/track/4P2wL0Bt5X2NyrpHywsuPM"
-    },
-    {
-      "added_at": "2024-05-22 18:33:06",
-      "album": {
-        "name": "EQUINOX",
-        "url": "https://open.spotify.com/album/5WP3TQg4wJ4iUN80HbuJk7"
-      },
-      "artists": [
-        {
-          "name": "Venna",
-          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
-        },
-        {
-          "name": "Knucks",
-          "url": "https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa"
-        }
-      ],
-      "duration_ms": 218920,
-      "name": "Misty",
-      "url": "https://open.spotify.com/track/0U7sCk6TIauNE7Jey4Eclp"
     },
     {
       "added_at": "2024-05-22 18:33:06",
@@ -1695,26 +1695,6 @@
     {
       "added_at": "2024-05-22 18:33:06",
       "album": {
-        "name": "We Do It Remixes",
-        "url": "https://open.spotify.com/album/6or5tg1DVR62aGGAZ5Gvah"
-      },
-      "artists": [
-        {
-          "name": "Slum Village",
-          "url": "https://open.spotify.com/artist/1020a42xVklY6c56imNcaa"
-        },
-        {
-          "name": "Jazz Spastiks",
-          "url": "https://open.spotify.com/artist/49vIrnZPb9Tcc9N30t7E3S"
-        }
-      ],
-      "duration_ms": 187941,
-      "name": "We Do It (Jazz Spastiks Remix)",
-      "url": "https://open.spotify.com/track/4K34pgg236OrVDAS6ArcMi"
-    },
-    {
-      "added_at": "2024-05-22 18:33:06",
-      "album": {
         "name": "Blessing in Disguise",
         "url": "https://open.spotify.com/album/77vFBBZ5yCoUsdoo5PRT2Y"
       },
@@ -1731,6 +1711,26 @@
       "duration_ms": 214700,
       "name": "No Hard Feelings",
       "url": "https://open.spotify.com/track/3euwxpQ0BRPGxy8qg1zijH"
+    },
+    {
+      "added_at": "2024-05-22 18:33:06",
+      "album": {
+        "name": "We Do It Remixes",
+        "url": "https://open.spotify.com/album/6or5tg1DVR62aGGAZ5Gvah"
+      },
+      "artists": [
+        {
+          "name": "Slum Village",
+          "url": "https://open.spotify.com/artist/1020a42xVklY6c56imNcaa"
+        },
+        {
+          "name": "Jazz Spastiks",
+          "url": "https://open.spotify.com/artist/49vIrnZPb9Tcc9N30t7E3S"
+        }
+      ],
+      "duration_ms": 187941,
+      "name": "We Do It (Jazz Spastiks Remix)",
+      "url": "https://open.spotify.com/track/4K34pgg236OrVDAS6ArcMi"
     },
     {
       "added_at": "2024-05-22 18:33:06",

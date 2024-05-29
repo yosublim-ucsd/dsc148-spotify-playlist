@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-15",
-  "description": "This is Paramore. The essential tracks, all in one playlist.",
+  "description": "This is Paramore. Todos os maiores hits em uma s\u00f3 playlist.",
   "name": "This Is Paramore",
   "tracks": [
     {
@@ -178,7 +178,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-28",
+      "date_removed": null,
       "duration_ms": 218093,
       "name": "Burning Down the House",
       "url": "https://open.spotify.com/track/3pRCHHfwYNVCOjWSrkGNw1"
@@ -596,7 +596,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-24",
+      "date_removed": null,
       "duration_ms": 198413,
       "name": "Idle Worship",
       "url": "https://open.spotify.com/track/50zSoW3GT1Ee4hXxQPO08t"
@@ -722,7 +722,7 @@
       ],
       "date_added": "2023-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-14",
+      "date_removed": null,
       "duration_ms": 261868,
       "name": "Liar",
       "url": "https://open.spotify.com/track/7EUhSxz4srS8pqh1cENbLB"
@@ -956,7 +956,7 @@
       ],
       "date_added": "2023-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-29",
       "duration_ms": 212853,
       "name": "Rose-Colored Boy",
       "url": "https://open.spotify.com/track/2RJfK2pOvGpnxC255YOy5k"
@@ -974,7 +974,7 @@
       ],
       "date_added": "2023-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-29",
       "duration_ms": 192440,
       "name": "Running Out Of Time",
       "url": "https://open.spotify.com/track/5NRtdsFFlmyE8qDMgS08PE"

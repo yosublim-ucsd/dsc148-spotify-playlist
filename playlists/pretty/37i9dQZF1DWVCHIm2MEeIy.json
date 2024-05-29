@@ -1,6 +1,6 @@
 {
   "description": "This is our playground! \ud83e\udea9\u200a",
-  "num_followers": 868809,
+  "num_followers": 868899,
   "original_name": "Electronic Circus",
   "owner": {
     "name": "Spotify",
@@ -99,6 +99,26 @@
     {
       "added_at": "2024-05-16 22:00:00",
       "album": {
+        "name": "Metro",
+        "url": "https://open.spotify.com/album/0ocTSn2voe5urhlqJaLjfC"
+      },
+      "artists": [
+        {
+          "name": "Kevin de Vries",
+          "url": "https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx"
+        },
+        {
+          "name": "Mau P",
+          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
+        }
+      ],
+      "duration_ms": 239585,
+      "name": "Metro",
+      "url": "https://open.spotify.com/track/1YWLrDcr0yl0GfeDvuGX1z"
+    },
+    {
+      "added_at": "2024-05-16 22:00:00",
+      "album": {
         "name": "Sorry (with Madonna)",
         "url": "https://open.spotify.com/album/2pZKo6RIXWaZReQKBHjaxn"
       },
@@ -123,26 +143,6 @@
       "duration_ms": 161627,
       "name": "Sorry (with Madonna)",
       "url": "https://open.spotify.com/track/5dW0cgZ9uV1W3PXtuTS5uP"
-    },
-    {
-      "added_at": "2024-05-16 22:00:00",
-      "album": {
-        "name": "Metro",
-        "url": "https://open.spotify.com/album/0ocTSn2voe5urhlqJaLjfC"
-      },
-      "artists": [
-        {
-          "name": "Kevin de Vries",
-          "url": "https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx"
-        },
-        {
-          "name": "Mau P",
-          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
-        }
-      ],
-      "duration_ms": 239585,
-      "name": "Metro",
-      "url": "https://open.spotify.com/track/1YWLrDcr0yl0GfeDvuGX1z"
     },
     {
       "added_at": "2024-05-16 22:00:00",
@@ -423,22 +423,6 @@
     {
       "added_at": "2024-05-16 22:00:00",
       "album": {
-        "name": "ULTRAKUNST",
-        "url": "https://open.spotify.com/album/1OegF0mIizsl36EVw1y1SW"
-      },
-      "artists": [
-        {
-          "name": "Brutalismus 3000",
-          "url": "https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j"
-        }
-      ],
-      "duration_ms": 280226,
-      "name": "JE N'EXISTE PAS",
-      "url": "https://open.spotify.com/track/25xqUhCDGyJejMANoigvrI"
-    },
-    {
-      "added_at": "2024-05-16 22:00:00",
-      "album": {
         "name": "Only You (&ME Remix)",
         "url": "https://open.spotify.com/album/3L34LelOyPZKhF3ydzYviM"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 434232,
       "name": "Only You - &ME Remix",
       "url": "https://open.spotify.com/track/6Pot7RIYFgzOOadIG1IMBv"
+    },
+    {
+      "added_at": "2024-05-16 22:00:00",
+      "album": {
+        "name": "ULTRAKUNST",
+        "url": "https://open.spotify.com/album/1OegF0mIizsl36EVw1y1SW"
+      },
+      "artists": [
+        {
+          "name": "Brutalismus 3000",
+          "url": "https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j"
+        }
+      ],
+      "duration_ms": 280226,
+      "name": "JE N'EXISTE PAS",
+      "url": "https://open.spotify.com/track/25xqUhCDGyJejMANoigvrI"
     },
     {
       "added_at": "2024-05-16 22:00:00",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2024-05-16 22:00:00",
       "album": {
-        "name": "You Can Dance Now",
-        "url": "https://open.spotify.com/album/3RStRb08OCSQiiPn7YRSi2"
-      },
-      "artists": [
-        {
-          "name": "Liva K",
-          "url": "https://open.spotify.com/artist/63mVEANeXk1p622Ejj9rBj"
-        }
-      ],
-      "duration_ms": 244802,
-      "name": "You Can Dance Now",
-      "url": "https://open.spotify.com/track/2pCPnTHLdQXaL0AO5faZmR"
-    },
-    {
-      "added_at": "2024-05-16 22:00:00",
-      "album": {
         "name": "So Good",
         "url": "https://open.spotify.com/album/1KzSi6di0a0c4ZotbQuyBI"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 197640,
       "name": "Do My Thing - Dixon Rework",
       "url": "https://open.spotify.com/track/4taJ42xa2t0EmWsrHcZNiz"
+    },
+    {
+      "added_at": "2024-05-16 22:00:00",
+      "album": {
+        "name": "You Can Dance Now",
+        "url": "https://open.spotify.com/album/3RStRb08OCSQiiPn7YRSi2"
+      },
+      "artists": [
+        {
+          "name": "Liva K",
+          "url": "https://open.spotify.com/artist/63mVEANeXk1p622Ejj9rBj"
+        }
+      ],
+      "duration_ms": 244802,
+      "name": "You Can Dance Now",
+      "url": "https://open.spotify.com/track/2pCPnTHLdQXaL0AO5faZmR"
     },
     {
       "added_at": "2024-05-16 22:00:00",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2024-05-16 22:00:00",
       "album": {
-        "name": "Combinations EP",
-        "url": "https://open.spotify.com/album/7qrdnd3NoxZwClPen84lC9"
-      },
-      "artists": [
-        {
-          "name": "Grigor\u00e9",
-          "url": "https://open.spotify.com/artist/2RemyvxrdxNsB7ycf3rJHX"
-        }
-      ],
-      "duration_ms": 371803,
-      "name": "El Tiempo",
-      "url": "https://open.spotify.com/track/3gqn5ShJpp0VTnPNzpdfJi"
-    },
-    {
-      "added_at": "2024-05-16 22:00:00",
-      "album": {
         "name": "How It Feels (feat. Lauren L'aimant)",
         "url": "https://open.spotify.com/album/3j1TIHTviPzFeR2rx57l1Q"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 206580,
       "name": "How It Feels (feat. Lauren L'aimant)",
       "url": "https://open.spotify.com/track/76UBVe7ZXMJj8rXwIfFUPZ"
+    },
+    {
+      "added_at": "2024-05-16 22:00:00",
+      "album": {
+        "name": "Combinations EP",
+        "url": "https://open.spotify.com/album/7qrdnd3NoxZwClPen84lC9"
+      },
+      "artists": [
+        {
+          "name": "Grigor\u00e9",
+          "url": "https://open.spotify.com/artist/2RemyvxrdxNsB7ycf3rJHX"
+        }
+      ],
+      "duration_ms": 371803,
+      "name": "El Tiempo",
+      "url": "https://open.spotify.com/track/3gqn5ShJpp0VTnPNzpdfJi"
     },
     {
       "added_at": "2024-05-16 22:00:00",
@@ -1479,26 +1479,6 @@
     {
       "added_at": "2024-05-16 22:00:00",
       "album": {
-        "name": "Sondans",
-        "url": "https://open.spotify.com/album/6A4x3S13O1Zei6f8J74RuK"
-      },
-      "artists": [
-        {
-          "name": "Basti Grub",
-          "url": "https://open.spotify.com/artist/3VAVMUyDwL7FlkivpaMeRh"
-        },
-        {
-          "name": "Sofiya Nzau",
-          "url": "https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3"
-        }
-      ],
-      "duration_ms": 176735,
-      "name": "Sondans",
-      "url": "https://open.spotify.com/track/2Che7aDm4B4ZfO2Dl3Pi0b"
-    },
-    {
-      "added_at": "2024-05-16 22:00:00",
-      "album": {
         "name": "Paradise (\u00c2me Remix)",
         "url": "https://open.spotify.com/album/5TeEwBih6CBovsO6sFYqtb"
       },
@@ -1515,6 +1495,26 @@
       "duration_ms": 244513,
       "name": "Paradise - \u00c2me Remix",
       "url": "https://open.spotify.com/track/6m1p8pNdASucv2yWqYeMOs"
+    },
+    {
+      "added_at": "2024-05-16 22:00:00",
+      "album": {
+        "name": "Sondans",
+        "url": "https://open.spotify.com/album/6A4x3S13O1Zei6f8J74RuK"
+      },
+      "artists": [
+        {
+          "name": "Basti Grub",
+          "url": "https://open.spotify.com/artist/3VAVMUyDwL7FlkivpaMeRh"
+        },
+        {
+          "name": "Sofiya Nzau",
+          "url": "https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3"
+        }
+      ],
+      "duration_ms": 176735,
+      "name": "Sondans",
+      "url": "https://open.spotify.com/track/2Che7aDm4B4ZfO2Dl3Pi0b"
     },
     {
       "added_at": "2024-05-16 22:00:00",

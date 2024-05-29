@@ -4,7 +4,7 @@
 
 > Running or raving? We've got a load of drum & bass to help with that!
 
-241 songs - 15 hr 22 min
+242 songs - 15 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [All You Ever Wanted \- Sub Focus Remix](https://open.spotify.com/track/2MWu6FVfhhxDzGHbUseVTS) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf), [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO) | [All You Ever Wanted \(Sub Focus Remix\)](https://open.spotify.com/album/7tKnOI7pO0QHSbcc7RBEHT) | 4:21 | 2021-12-21 | 2022-07-29 |
 | [Anaesthetist](https://open.spotify.com/track/5Izi5lL265u2iPulLHOG8i) | [Pola & Bryson](https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr), [Strategy](https://open.spotify.com/artist/0lFrpd2SX8SmwUr07I4GE3) | [Anaesthetist](https://open.spotify.com/album/7fulQxtwnbpPRd3Q26DvmA) | 4:32 | 2021-12-21 | 2022-07-26 |
 | [Atmosphere](https://open.spotify.com/track/3TtEksZOxtg6zMqBv89NeP) | [Fred V](https://open.spotify.com/artist/0k3dnuEr9LghUE4jxS0PT4), [Lottie Jones](https://open.spotify.com/artist/5dScLouYq1Xn2eUlzlpusx) | [Apeldoorn Jamming / Atmosphere](https://open.spotify.com/album/3apOCV4CTRnxkVQi6Fmsoj) | 3:43 | 2021-12-21 | 2022-07-29 |
-| [Awake](https://open.spotify.com/track/6pEQUJelejN4xL3bhE4Khk) | [Metrik](https://open.spotify.com/artist/2NCEtX40i9lLNpTg2X5583), [ÆON:MODE](https://open.spotify.com/artist/41ouHqoKXNijIMFsQTmFQV), [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT) | [Awake](https://open.spotify.com/album/12Shipy3GiThj28Lt9x4Tt) | 4:08 | 2024-05-17 |  |
+| [Awake](https://open.spotify.com/track/6pEQUJelejN4xL3bhE4Khk) | [Metrik](https://open.spotify.com/artist/2NCEtX40i9lLNpTg2X5583), [ÆON:MODE](https://open.spotify.com/artist/41ouHqoKXNijIMFsQTmFQV), [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT) | [Awake](https://open.spotify.com/album/12Shipy3GiThj28Lt9x4Tt) | 4:08 | 2024-05-17 | 2024-05-29 |
 | [Bad Gyalz](https://open.spotify.com/track/1sdfHsJC1KytSyhhGpZ2kv) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Bad Gyalz](https://open.spotify.com/album/0KgiN6gpmIFwjxSIJE3qrb) | 2:39 | 2023-09-20 |  |
 | [Bad To Me \(feat\. Grace Grundy\)](https://open.spotify.com/track/6UNESFieJ7rXvEKO1V2Fw8) | [Hybrid Minds](https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR), [Grace Grundy](https://open.spotify.com/artist/3pFPBG84k5bQVbL9apf2PD) | [Bad To Me \(feat\. Grace Grundy\)](https://open.spotify.com/album/0sYcA8hhlj5cgbDtJ1kYxs) | 4:11 | 2021-12-21 | 2024-05-17 |
 | [Baddest](https://open.spotify.com/track/2W2vodjw341bqlgTNPx8mb) | [Vibe Chemistry](https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi) | [Baddest](https://open.spotify.com/album/3FCkjCs6WETYazRGWU8F9c) | 3:43 | 2022-11-25 | 2024-05-17 |
@@ -207,6 +207,7 @@
 | [Solar System](https://open.spotify.com/track/5cRDn5aGMLvWsldoRmOOz0) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO) | [Solar System / Siren](https://open.spotify.com/album/3b4pq3F6MCKrIr6Pug0iYG) | 4:48 | 2021-12-21 | 2024-01-26 |
 | [Soul Sista](https://open.spotify.com/track/5gqN4RHveL1NS8ZMDt7FAB) | [Ivy Lab](https://open.spotify.com/artist/3VXCvo9Sr0hbZ4mk6VOKBs), [Frank H\. Carter III.](https://open.spotify.com/artist/0KF1BbR119cPjacAxMkeKL) | [Soul Sista](https://open.spotify.com/album/5w0xw1KxVmD8erYQJbgzIl) | 3:25 | 2021-12-21 | 2022-06-27 |
 | [Spartanz \- Bou Remix](https://open.spotify.com/track/3C7cOylp1OQNr6Bud2TKlC) | [Dominator](https://open.spotify.com/artist/4ma9HJkRMW53TV4aRQy6Mn), [Nu Elementz](https://open.spotify.com/artist/1byzCRSdDJzbi0RnRB4xgP), [TNA](https://open.spotify.com/artist/5u6RylAtRAAxfm6Ahm2545), [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13) | [Spartanz \(Bou Remix\)](https://open.spotify.com/album/4vQ8iFRMG9tg6IZyeZvaiI) | 3:42 | 2022-07-05 | 2022-09-26 |
+| [Spend The Night](https://open.spotify.com/track/4OoNi7RLLVKGlDcLgWPyKX) | [Cameron Hayes](https://open.spotify.com/artist/1YXcpHpeg9PwsUBJwe9fgX) | [Spend The Night](https://open.spotify.com/album/78JrRQCZ8HppWoAXBkHBe7) | 3:07 | 2024-05-17 |  |
 | [Stars On The Roof \(feat\. MOMO\)](https://open.spotify.com/track/354Cv7huFJnlEdVAHvhH3Q) | [Alcemist](https://open.spotify.com/artist/6WzWO3A5YAYxLVD224S9P0), [MoMo](https://open.spotify.com/artist/1UjH8hHfaPKRnTg8FO0uaJ) | [Stars On The Roof \(feat\. MOMO\)](https://open.spotify.com/album/6o2oXNriDnljYllyCIaL99) | 4:02 | 2023-04-11 |  |
 | [Step Into Your Power](https://open.spotify.com/track/214dCanCpdq643MCUShfwX) | [Makoto](https://open.spotify.com/artist/4CBavfYzjrTvV7xCIq6WQu), [Ruth Royall](https://open.spotify.com/artist/68mfV6tyHCTHZrNWNbVXmu) | [Step Into Your Power](https://open.spotify.com/album/5qZVnalqfY93hK9YTHTjTz) | 4:08 | 2022-06-20 | 2022-07-29 |
 | [Step It Up](https://open.spotify.com/track/608TATD49stSCcojEMTwmX) | [K Motionz](https://open.spotify.com/artist/6QYdXToMo4XHnG1AnEVZYJ), [Comma Dee](https://open.spotify.com/artist/2K2k6w3rhyifPmKC4U86VY) | [Step It Up / Lights](https://open.spotify.com/album/7cEDZxW0kaIjj5hUi8xkkj) | 4:30 | 2022-06-20 | 2023-04-12 |

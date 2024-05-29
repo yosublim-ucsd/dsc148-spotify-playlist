@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSp7hjZhav2.md) - [plain]
 
 > <a href="spotify:artist:1UL813H5aj3e8ekE5RqWqc">Tale Of Us</a>'s favorite tracks\. Updated regularly\. Curated by Tale Of Us\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,964 likes - 80 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,040 likes - 80 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSp7hjZhav2.md) - [plain]
 | 34 | [Hear Me Now](https://open.spotify.com/track/1IPZfbfenyYPTg45HcNxgS) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj), [Karin Park](https://open.spotify.com/artist/5uBdYy8QRabKEL1MtDPXfr) | [Genesys II](https://open.spotify.com/album/4jkiarZE3b7c3a5D3L2LZy) | 3:49 |
 | 35 | [The Light](https://open.spotify.com/track/6qwC8vjpa2mzkkpdXgwC9U) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN) | [Genesys II](https://open.spotify.com/album/4jkiarZE3b7c3a5D3L2LZy) | 3:35 |
 | 36 | [Last Night](https://open.spotify.com/track/5mF7p5mwgaPZyIykUhO3PN) | [Loofy](https://open.spotify.com/artist/6zx3vuOK841XDu7XFozhFv) | [Last Night](https://open.spotify.com/album/05cOaLn9wG0Mlx4unmfUHB) | 2:49 |
-| 37 | [Faust](https://open.spotify.com/track/4nlH5jTAEsKrWYYVfUouRX) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Son Of Son](https://open.spotify.com/artist/4xG5i2Smlt6o5QxuGp9LqM) | [New World](https://open.spotify.com/album/34eqkiNdakhMaOmklFTpOv) | 3:37 |
+| 37 | [Faust](https://open.spotify.com/track/4nlH5jTAEsKrWYYVfUouRX) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Son of Son](https://open.spotify.com/artist/4xG5i2Smlt6o5QxuGp9LqM) | [New World](https://open.spotify.com/album/34eqkiNdakhMaOmklFTpOv) | 3:37 |
 | 38 | [Kiera \- Original Mix](https://open.spotify.com/track/4s2ZcmuOIxoKGcc61lNsSN) | [Tone Depth](https://open.spotify.com/artist/356puk5By7WbXAFFZ8Uelf), [Jerome Isma\-Ae](https://open.spotify.com/artist/4GEIawzVZxWGdtl9OOdgeA), [Cari Golden](https://open.spotify.com/artist/3M2wBPMgou1UoOONLwqgVp), [Haptic](https://open.spotify.com/artist/1asA1GU6YiNGNqogpjCjr8) | [Suara Showroom 30](https://open.spotify.com/album/6zrOXNGimBEHUH6PRBm2YK) | 7:39 |
 | 39 | [Awakening](https://open.spotify.com/track/5cEPb5qkKvceVXrNqFgVBY) | [David Lindmer](https://open.spotify.com/artist/5aa2ZWUh5vpXHEWDmruKUY) | [Awakening](https://open.spotify.com/album/6iaxmLg73xLEjOvBjiLjpS) | 5:17 |
 | 40 | [A Matter of Time \- Frank Wiedemann Remix](https://open.spotify.com/track/43Y9cFRKAa3KQr5GFdfUdD) | [Alex Banks](https://open.spotify.com/artist/2eQoWrMAVomftJQMFnZ6iE), [Elizabeth Bernholz](https://open.spotify.com/artist/4uhZ0DUrKO4UMF2VcUxUaG), [Frank Wiedemann](https://open.spotify.com/artist/1gbnoyNZEf6K9HytIv1D94) | [A Matter of Time](https://open.spotify.com/album/6P2UQTCD1wWTql6mRWx1rO) | 7:50 |

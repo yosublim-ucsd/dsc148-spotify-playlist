@@ -2,7 +2,7 @@
 
 ### [This Is Björk](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4rWlyg)
 
-> This Is Björk\. Los temas esenciales, todos en una lista.
+> This is Björk\. Todos os maiores hits em uma só playlist.
 
 137 songs - 9 hr 56 min
 
@@ -34,7 +34,7 @@
 | [Blissing Me](https://open.spotify.com/track/0QEwFjt0hX1aQqrJY20HCz) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [Utopia](https://open.spotify.com/album/2i0mqPNTcaLcmKWSMsE3c8) | 5:05 | 2023-11-10 | 2024-03-15 |
 | [Body Memory](https://open.spotify.com/track/2Ql3mCjOnedeUMbbmS2zLq) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [Utopia](https://open.spotify.com/album/2i0mqPNTcaLcmKWSMsE3c8) | 9:46 | 2024-03-15 | 2024-03-18 |
 | [Borealis](https://open.spotify.com/track/4J7yVcO9wMxau3NJ1s54eO) | [Jlin](https://open.spotify.com/artist/23QKqAkKwti9zBiac6RFBA), [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Akoma](https://open.spotify.com/album/50EueHsKbgqTVQ9Zda8ebw) | 4:06 | 2024-03-24 | 2024-05-01 |
-| [Borealis](https://open.spotify.com/track/5wOWgKdRSuqdR1UshYDw4q) | [Jlin](https://open.spotify.com/artist/23QKqAkKwti9zBiac6RFBA), [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Akoma](https://open.spotify.com/album/4N8CfMDL60vLQamW30qZAE) | 4:06 | 2024-03-30 | 2024-05-28 |
+| [Borealis](https://open.spotify.com/track/5wOWgKdRSuqdR1UshYDw4q) | [Jlin](https://open.spotify.com/artist/23QKqAkKwti9zBiac6RFBA), [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Akoma](https://open.spotify.com/album/4N8CfMDL60vLQamW30qZAE) | 4:06 | 2024-03-30 |  |
 | [Cocoon](https://open.spotify.com/track/7sZHiFxzN3v7uTeC3BvxHX) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Vespertine](https://open.spotify.com/album/5vBpIxm8ws6pWyVmTWiGE1) | 4:28 | 2024-03-07 | 2024-03-29 |
 | [Cocoon](https://open.spotify.com/track/46qr02ktTNzOwJAqiQg8gv) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Vespertine](https://open.spotify.com/album/4u3MPfHM60rFFULJebZIay) | 4:28 | 2023-11-10 | 2024-03-08 |
 | [Cocoon](https://open.spotify.com/track/7CfR16ahj7mi6OwTZaPBri) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Vespertine](https://open.spotify.com/album/7sScYIMy44GyOll7TpWcak) | 4:28 | 2024-03-28 |  |
@@ -71,7 +71,7 @@
 | [Hyper\-ballad](https://open.spotify.com/track/2w0wVOiydK5a5e5UqffWwS) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Post](https://open.spotify.com/album/2lYwBB5l7GqgyHFTHz0Itd) | 5:21 | 2024-03-16 |  |
 | [Hyper\-ballad](https://open.spotify.com/track/3jIzAeh7fhe70umAJrY3Fk) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Post](https://open.spotify.com/album/3p7WXDBxhC5KS9IFXnwae7) | 5:21 | 2023-11-10 | 2024-03-15 |
 | [Hyperballad](https://open.spotify.com/track/4z1fNs2B7KndCsvyPgrhq5) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Post](https://open.spotify.com/album/2Ul7B1LEHxXzYubtkTMENs) | 5:21 | 2024-03-14 | 2024-03-17 |
-| [I Miss You](https://open.spotify.com/track/2pDMVFdeAsFI73DDekyvDf) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Post](https://open.spotify.com/album/2lYwBB5l7GqgyHFTHz0Itd) | 4:03 | 2024-05-21 | 2024-05-25 |
+| [I Miss You](https://open.spotify.com/track/2pDMVFdeAsFI73DDekyvDf) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Post](https://open.spotify.com/album/2lYwBB5l7GqgyHFTHz0Itd) | 4:03 | 2024-05-21 |  |
 | [I Remember You](https://open.spotify.com/track/13UgnCvGXgcnzRmkSD5VAU) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Venus As A Boy](https://open.spotify.com/album/4X3ddQMDiDUtc1RBeOIh1m) | 4:13 | 2024-03-13 |  |
 | [I Remember You](https://open.spotify.com/track/1F3BNDJwq2q0yWHH0a3YV9) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Venus As A Boy](https://open.spotify.com/album/5qSFDaRhhU16dPjwqONHjL) | 4:13 | 2023-11-10 | 2024-03-14 |
 | [Immature](https://open.spotify.com/track/6WH380JPFPtxMVzePuKWhl) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Homogenic](https://open.spotify.com/album/0HMsmYvoT1h2x1C4di5faf) | 3:06 | 2024-03-14 | 2024-03-19 |
@@ -84,7 +84,7 @@
 | [It's Not Up To You](https://open.spotify.com/track/52LVnKB4Vs9XMi4rm4StNT) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Vespertine](https://open.spotify.com/album/7sScYIMy44GyOll7TpWcak) | 5:08 | 2024-04-26 |  |
 | [It's Not Up To You](https://open.spotify.com/track/5BQ7QRKTkw2qhN2bq0rZW7) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Vespertine](https://open.spotify.com/album/4u3MPfHM60rFFULJebZIay) | 5:08 | 2023-11-10 | 2024-03-03 |
 | [It's Oh So Quiet](https://open.spotify.com/track/3CMVjlbvNJMHDfYPX7xCpi) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Post](https://open.spotify.com/album/3p7WXDBxhC5KS9IFXnwae7) | 3:38 | 2023-11-10 | 2024-03-16 |
-| [It's Oh So Quiet](https://open.spotify.com/track/45Ok4AREEWfPIBZ4ylCXK7) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Post](https://open.spotify.com/album/2lYwBB5l7GqgyHFTHz0Itd) | 3:40 | 2024-03-15 |  |
+| [It's Oh So Quiet](https://open.spotify.com/track/45Ok4AREEWfPIBZ4ylCXK7) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Post](https://open.spotify.com/album/2lYwBB5l7GqgyHFTHz0Itd) | 3:40 | 2024-03-15 | 2024-05-29 |
 | [I’ve Seen It All](https://open.spotify.com/track/47GoneztCss0TMaTQfl4Sv) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Selma Songs](https://open.spotify.com/album/28zkgsBzWmhEAQfuZF5M2S) | 5:29 | 2024-03-16 |  |
 | [I’ve Seen It All](https://open.spotify.com/track/4jF3THVe40jCfgMXOWS5C0) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Selma Songs](https://open.spotify.com/album/7r2Viryrm2jIyfb7XcFe20) | 5:29 | 2023-11-10 | 2024-03-17 |
 | [Jóga](https://open.spotify.com/track/18NehrWLUFK7NPH522YQMQ) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Homogenic](https://open.spotify.com/album/3knDOJUQBAATXsKYLWO4k8) | 5:05 | 2023-11-10 | 2024-03-18 |

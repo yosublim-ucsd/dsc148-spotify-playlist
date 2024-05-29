@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The freshest K-Pop of today!  //\u6700\u5148\u7aef\u306eK-Pop\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\uff01 Cover: NEXZ",
+  "description": "The freshest K-Pop of today!  //\u6700\u5148\u7aef\u306eK-Pop\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\uff01 Cover: aespa",
   "name": "K-Pop Fresh",
   "tracks": [
     {
@@ -8820,6 +8820,24 @@
       "duration_ms": 185920,
       "name": "Killin\u2032 Me Good",
       "url": "https://open.spotify.com/track/0YlS16W4HY6CJVk7Q750Yu"
+    },
+    {
+      "album": {
+        "name": "KING KONG",
+        "url": "https://open.spotify.com/album/43R91w6pa9rmQVPVjcPFTT"
+      },
+      "artists": [
+        {
+          "name": "TREASURE",
+          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
+        }
+      ],
+      "date_added": "2024-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196221,
+      "name": "KING KONG",
+      "url": "https://open.spotify.com/track/0gZenxCArrqlFm4lLXevTq"
     },
     {
       "album": {
@@ -18162,6 +18180,28 @@
       "duration_ms": 183306,
       "name": "WHO WE ARE",
       "url": "https://open.spotify.com/track/1pffMzj3YtanzjAJrlrKym"
+    },
+    {
+      "album": {
+        "name": "whodunit-GLAY\u00d7JAY(ENHYPEN) / \u30b7\u30a7\u30a2",
+        "url": "https://open.spotify.com/album/6OUrzJ4VSAniXdYYujS6gz"
+      },
+      "artists": [
+        {
+          "name": "GLAY",
+          "url": "https://open.spotify.com/artist/00AFbqxvdDK6T1D6MQZ9c1"
+        },
+        {
+          "name": "JAY (ENHYPEN)",
+          "url": "https://open.spotify.com/artist/1dxyDekkPqYVKpC7iW71zJ"
+        }
+      ],
+      "date_added": "2024-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267760,
+      "name": "whodunit",
+      "url": "https://open.spotify.com/track/49cb92ZJ2tnDfuCk2MQY8c"
     },
     {
       "album": {

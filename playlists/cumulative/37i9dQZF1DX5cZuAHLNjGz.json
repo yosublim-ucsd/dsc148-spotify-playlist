@@ -1017,6 +1017,32 @@
     },
     {
       "album": {
+        "name": "Blockbuster",
+        "url": "https://open.spotify.com/album/6uqXvhk1Qq1sUUDTDZgxg8"
+      },
+      "artists": [
+        {
+          "name": "Faris Shafi",
+          "url": "https://open.spotify.com/artist/1LAdnp9wIdKClX7Cool0GD"
+        },
+        {
+          "name": "Umair Butt",
+          "url": "https://open.spotify.com/artist/4E2wX4DFQFhlLyVzRw0C1P"
+        },
+        {
+          "name": "Gharvi Group",
+          "url": "https://open.spotify.com/artist/2zOjtDwrBj757zRzqgHP82"
+        }
+      ],
+      "date_added": "2024-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274570,
+      "name": "Blockbuster",
+      "url": "https://open.spotify.com/track/2kQ4qdEtzWR1scQBlsjl8M"
+    },
+    {
+      "album": {
         "name": "G.O.A.T.",
         "url": "https://open.spotify.com/album/0wkGNaTXbbxaD9QjvxlNGE"
       },
@@ -2016,7 +2042,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-29",
       "duration_ms": 144923,
       "name": "Facetime",
       "url": "https://open.spotify.com/track/0nyVkDUGF76hjC9vhTqyJY"

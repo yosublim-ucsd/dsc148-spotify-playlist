@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-31",
-  "description": "This is Lourena. Tutti i brani in un'unica playlist.",
+  "description": "This is Lourena. The essential tracks, all in one playlist.",
   "name": "This Is Lourena",
   "tracks": [
     {
@@ -340,6 +340,36 @@
       "duration_ms": 152470,
       "name": "Deixa Ir",
       "url": "https://open.spotify.com/track/7azEIGsP1565VMeJXzunVH"
+    },
+    {
+      "album": {
+        "name": "Desacelerar",
+        "url": "https://open.spotify.com/album/5VNG5eW6yxQQ4PDTkDDveB"
+      },
+      "artists": [
+        {
+          "name": "Cabelera",
+          "url": "https://open.spotify.com/artist/3qWbHCWsOvqbTqKXFKCbnb"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Cortuah",
+          "url": "https://open.spotify.com/artist/7kGUzXplnvy1ID4H75a6TA"
+        },
+        {
+          "name": "Pedro Malcher",
+          "url": "https://open.spotify.com/artist/4hDRyVT1vb7vdIvAQwaYo6"
+        }
+      ],
+      "date_added": "2024-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Desacelerar",
+      "url": "https://open.spotify.com/track/62XD42qxP5lALEdbKNowzm"
     },
     {
       "album": {
@@ -1136,7 +1166,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-29",
       "duration_ms": 556662,
       "name": "Poetisas no Topo 2",
       "url": "https://open.spotify.com/track/1X0ZLlZeFQ6JJ70avGNTJI"

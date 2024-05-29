@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 490 songs - 1 day 8 hr 25 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 497 songs - 1 day 8 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -498,5 +498,12 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 488 | [Chutney](https://open.spotify.com/track/66wVaiPKHWIx2g4oMQ7ic1) | [Mandrill](https://open.spotify.com/artist/6RWnslEkqboHbDg0OUabe5) | [Mandrill](https://open.spotify.com/album/4bD8UUx1VGPsWbSAtfEWgX) | 3:05 |
 | 489 | [Right People, Wrong Place](https://open.spotify.com/track/2ftb45L7iXYwp0WoTEuslG) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Right Place, Wrong Person](https://open.spotify.com/album/512dQp7hBbDDurodCqSw5I) | 1:57 |
 | 490 | [Fingertips \(Intro\)](https://open.spotify.com/track/3ZPSyQ3TxrZ5O5lJPw0wVx) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT) | [Floorspace](https://open.spotify.com/album/0zJkFKoviOWGLmT5mvWhWC) | 1:56 |
+| 491 | [Ape Sounds Opening](https://open.spotify.com/track/1XuIxhSfZs0NBJVv1z2K6t) | [Nigo](https://open.spotify.com/artist/2rAnv6brcXaglLZBB4XXEn) | [Ape Sounds](https://open.spotify.com/album/3R65oX0hqHdZMLc1fwtcV1) | 0:25 |
+| 492 | [Silence Is Loud](https://open.spotify.com/track/2FlY3tYbBDOExnLhjUZxlc) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Silence Is Loud](https://open.spotify.com/album/7aIsJRcf04ZeFiU1Fa70Cq) | 2:37 |
+| 493 | [My Golden Years](https://open.spotify.com/track/0BikNVR79txZhmczhZE68l) | [The Lemon Twigs](https://open.spotify.com/artist/7eYZSXnQVCODCVmTV8Hk2T) | [A Dream Is All We Know](https://open.spotify.com/album/3ZEIxul2SC2AslVuGZGO68) | 3:13 |
+| 494 | [Tell Me Who You Are Today](https://open.spotify.com/track/1tB6SUQaXIUU4CprvNPwsT) | [Beth Gibbons](https://open.spotify.com/artist/6Lt6KFXX3P0v6vfrynQAMo) | [Lives Outgrown](https://open.spotify.com/album/0YC5MWwUmsTpJrRumtBdZA) | 3:55 |
+| 495 | [Blue Hum](https://open.spotify.com/track/3JhF07uRMLR09xc1g20EfA) | [Iglooghost](https://open.spotify.com/artist/7LCDnUQYE07fnKbo46SVLB) | [Tidal Memory Exo](https://open.spotify.com/album/7CQp27clxVYy6Ou6jXht6g) | 1:52 |
+| 496 | [PARANOIA INTRO](https://open.spotify.com/track/5cXQjDLQbbuQqJBRKvJqjW) | [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [Cold Visions](https://open.spotify.com/album/5fjDXtY8tws1sbPFHw34pL) | 1:10 |
+| 497 | [Coda](https://open.spotify.com/track/2QlGj7JaBv2jggcK99kPKQ) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3), [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [Psykos](https://open.spotify.com/album/6aLnXrlksffrrHRb6ktBF9) | 2:35 |
 
-Snapshot ID: `AAAF+aDMCPDdtTeybzFke0IYVF2oEr4m`
+Snapshot ID: `AAAGAOeCeXjhkm02QaTZpDxjYl7kP5q8`

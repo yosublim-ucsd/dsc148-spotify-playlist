@@ -766,7 +766,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-29",
       "duration_ms": 207463,
       "name": "FEEL THE RAIN",
       "url": "https://open.spotify.com/track/6ZB93YnsCgJjfxQ6cCwVhS"
@@ -1278,7 +1278,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-29",
       "duration_ms": 84400,
       "name": "IMOTO AYAKO",
       "url": "https://open.spotify.com/track/5Y2ku4mwqkyaqMjRS50z8l"
@@ -2993,6 +2993,28 @@
     },
     {
       "album": {
+        "name": "two-seater (348)",
+        "url": "https://open.spotify.com/album/6ZsLvHFxpab7KiDXBITdXb"
+      },
+      "artists": [
+        {
+          "name": "KM",
+          "url": "https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa"
+        },
+        {
+          "name": "C.O.S.A.",
+          "url": "https://open.spotify.com/artist/7kj57NIwoqvnBTSpSgrO3p"
+        }
+      ],
+      "date_added": "2024-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208636,
+      "name": "two-seater (348)",
+      "url": "https://open.spotify.com/track/2iKOZYmYdIIv7Qj2xGy47J"
+    },
+    {
+      "album": {
         "name": "Unknown",
         "url": "https://open.spotify.com/album/7aIa7HAKMEA7uq0Y33MV7D"
       },
@@ -3242,6 +3264,24 @@
       "duration_ms": 158312,
       "name": "When i was young",
       "url": "https://open.spotify.com/track/4fIgIE4U8eeqz1l5qY3QYk"
+    },
+    {
+      "album": {
+        "name": "WOKE UP",
+        "url": "https://open.spotify.com/album/2e9eizo3Euh2aaBef2B2bw"
+      },
+      "artists": [
+        {
+          "name": "XG",
+          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
+        }
+      ],
+      "date_added": "2024-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188010,
+      "name": "WOKE UP",
+      "url": "https://open.spotify.com/track/4keuUM29CtIWgsPRzRhXoW"
     },
     {
       "album": {

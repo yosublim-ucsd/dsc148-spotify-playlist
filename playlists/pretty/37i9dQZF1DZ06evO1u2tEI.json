@@ -1,12 +1,12 @@
 {
-  "description": "This is Elliott Smith. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 75046,
-  "original_name": "This Is Elliott Smith",
+  "description": "This is: Elliott Smith. \u041d\u0430\u0439\u2011\u0437\u043d\u0430\u0447\u0438\u043c\u0438\u0442\u0435 \u0437\u0430\u043f\u0438\u0441\u0438, \u0432\u0441\u0438\u0447\u043a\u0438 \u0432 \u0435\u0434\u0438\u043d \u043f\u043b\u0435\u0439\u043b\u0438\u0441\u0442.",
+  "num_followers": 75069,
+  "original_name": "This Is: Elliott Smith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlJ7gAAAAACPKc2MiaBZrw0cVa3J3CHr",
+  "snapshot_id": "ZlPNAAAAAACwZgbxXDTFdvZuejVNyHU/",
   "tracks": [
     {
       "added_at": null,
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
         }
       ],
-      "duration_ms": 157733,
-      "name": "Everything Reminds Me Of Her",
-      "url": "https://open.spotify.com/track/3nkdVXnH4xC6f3YZS0C8pC"
+      "duration_ms": 194066,
+      "name": "L.A.",
+      "url": "https://open.spotify.com/track/7xMklu8GE39dYZBWJMxrBU"
     },
     {
       "added_at": null,
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
         }
       ],
-      "duration_ms": 194066,
-      "name": "L.A.",
-      "url": "https://open.spotify.com/track/7xMklu8GE39dYZBWJMxrBU"
+      "duration_ms": 142893,
+      "name": "Everything Means Nothing To Me",
+      "url": "https://open.spotify.com/track/6YNfrgCOy1dCXZKKRUuZVq"
     },
     {
       "added_at": null,
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
         }
       ],
-      "duration_ms": 142893,
-      "name": "Everything Means Nothing To Me",
-      "url": "https://open.spotify.com/track/6YNfrgCOy1dCXZKKRUuZVq"
+      "duration_ms": 113240,
+      "name": "Bye",
+      "url": "https://open.spotify.com/track/4JosyubgIpErAsvMKwph8n"
     },
     {
       "added_at": null,
@@ -363,22 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Figure 8",
-        "url": "https://open.spotify.com/album/7DC0pE943VR5tAKIvQXHts"
-      },
-      "artists": [
-        {
-          "name": "Elliott Smith",
-          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
-        }
-      ],
-      "duration_ms": 113240,
-      "name": "Bye",
-      "url": "https://open.spotify.com/track/4JosyubgIpErAsvMKwph8n"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Elliott Smith",
         "url": "https://open.spotify.com/album/1nGWgkinMkmX7BlAuC4umM"
       },
@@ -427,22 +411,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heaven Adores You Soundtrack",
-        "url": "https://open.spotify.com/album/7Ilu6VpX49cnTkgklQpz4M"
+        "name": "XO",
+        "url": "https://open.spotify.com/album/1zOxlHQGGV6EH7n4OIFTyh"
       },
       "artists": [
-        {
-          "name": "Heatmiser",
-          "url": "https://open.spotify.com/artist/59IPo3F7aZifhZtHnoGHbo"
-        },
         {
           "name": "Elliott Smith",
           "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
         }
       ],
-      "duration_ms": 300520,
-      "name": "Christian Brothers",
-      "url": "https://open.spotify.com/track/1QUXSToImDkW7CUzJwRrWQ"
+      "duration_ms": 153466,
+      "name": "Oh Well, OK",
+      "url": "https://open.spotify.com/track/7AG284RTvcDG9uHt1NQIbu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Figure 8",
+        "url": "https://open.spotify.com/album/7DC0pE943VR5tAKIvQXHts"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "duration_ms": 229706,
+      "name": "Junk Bond Trader",
+      "url": "https://open.spotify.com/track/5I82Gy3FcoPGP4rzYbXADt"
     },
     {
       "added_at": null,
@@ -463,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "From A Basement On The Hill",
-        "url": "https://open.spotify.com/album/4YRoxHoDrGw0LI5rxDH9Dl"
-      },
-      "artists": [
-        {
-          "name": "Elliott Smith",
-          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
-        }
-      ],
-      "duration_ms": 147240,
-      "name": "Let's Get Lost",
-      "url": "https://open.spotify.com/track/7CV3sIPtEwUhdZ5E3Qgykq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Roman Candle",
         "url": "https://open.spotify.com/album/6zbWzjBUvXvF16tg98OYck"
       },
@@ -495,8 +475,28 @@
     {
       "added_at": null,
       "album": {
-        "name": "XO",
-        "url": "https://open.spotify.com/album/1zOxlHQGGV6EH7n4OIFTyh"
+        "name": "Heaven Adores You Soundtrack",
+        "url": "https://open.spotify.com/album/7Ilu6VpX49cnTkgklQpz4M"
+      },
+      "artists": [
+        {
+          "name": "Heatmiser",
+          "url": "https://open.spotify.com/artist/59IPo3F7aZifhZtHnoGHbo"
+        },
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "duration_ms": 300520,
+      "name": "Christian Brothers",
+      "url": "https://open.spotify.com/track/1QUXSToImDkW7CUzJwRrWQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "From A Basement On The Hill",
+        "url": "https://open.spotify.com/album/4YRoxHoDrGw0LI5rxDH9Dl"
       },
       "artists": [
         {
@@ -504,9 +504,9 @@
           "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
         }
       ],
-      "duration_ms": 195893,
-      "name": "Sweet Adeline",
-      "url": "https://open.spotify.com/track/5KmMMmc1pXL5lL4HlR9Srz"
+      "duration_ms": 147240,
+      "name": "Let's Get Lost",
+      "url": "https://open.spotify.com/track/7CV3sIPtEwUhdZ5E3Qgykq"
     },
     {
       "added_at": null,
@@ -527,22 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Elliott Smith: Expanded 25th Anniversary Edition",
-        "url": "https://open.spotify.com/album/4XFvmYc0AI61WsLCdAnMuT"
-      },
-      "artists": [
-        {
-          "name": "Elliott Smith",
-          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
-        }
-      ],
-      "duration_ms": 180120,
-      "name": "St. Ides Heaven - 25th Anniversary Remaster",
-      "url": "https://open.spotify.com/track/7zOdsysP1duel1IiG0UtWL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Roman Candle",
         "url": "https://open.spotify.com/album/6zbWzjBUvXvF16tg98OYck"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 183053,
       "name": "No Name #1",
       "url": "https://open.spotify.com/track/5fKfzL3IVXqilKqFu1E8is"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Elliott Smith: Expanded 25th Anniversary Edition",
+        "url": "https://open.spotify.com/album/4XFvmYc0AI61WsLCdAnMuT"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "duration_ms": 180120,
+      "name": "St. Ides Heaven - 25th Anniversary Remaster",
+      "url": "https://open.spotify.com/track/7zOdsysP1duel1IiG0UtWL"
     },
     {
       "added_at": null,
@@ -587,22 +587,6 @@
       "duration_ms": 145786,
       "name": "Satellite",
       "url": "https://open.spotify.com/track/3CIVlmcrOjfEE9RmTUnzx2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "From A Basement On The Hill",
-        "url": "https://open.spotify.com/album/66UbcdMK6oC2XFPLeESamq"
-      },
-      "artists": [
-        {
-          "name": "Elliott Smith",
-          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
-        }
-      ],
-      "duration_ms": 33800,
-      "name": "Ostrich And Chirping",
-      "url": "https://open.spotify.com/track/25OfkVstO0W60e8OHCggox"
     },
     {
       "added_at": null,
@@ -655,8 +639,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Figure 8 (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5EUL6RGTIuVJCaCWGOedan"
+        "name": "From A Basement On The Hill",
+        "url": "https://open.spotify.com/album/66UbcdMK6oC2XFPLeESamq"
       },
       "artists": [
         {
@@ -664,9 +648,9 @@
           "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
         }
       ],
-      "duration_ms": 139973,
-      "name": "Because",
-      "url": "https://open.spotify.com/track/0W78mVK0xVPpOD7oh4medH"
+      "duration_ms": 33800,
+      "name": "Ostrich And Chirping",
+      "url": "https://open.spotify.com/track/25OfkVstO0W60e8OHCggox"
     },
     {
       "added_at": null,
@@ -687,8 +671,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "From A Basement On The Hill",
-        "url": "https://open.spotify.com/album/4YRoxHoDrGw0LI5rxDH9Dl"
+        "name": "Figure 8 (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5EUL6RGTIuVJCaCWGOedan"
       },
       "artists": [
         {
@@ -696,9 +680,9 @@
           "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
         }
       ],
-      "duration_ms": 285733,
-      "name": "Pretty (Ugly Before)",
-      "url": "https://open.spotify.com/track/4f76iWvbHC3mgm0hLmYKEv"
+      "duration_ms": 139973,
+      "name": "Because",
+      "url": "https://open.spotify.com/track/0W78mVK0xVPpOD7oh4medH"
     },
     {
       "added_at": null,
@@ -719,8 +703,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Either/Or: Expanded Edition",
-        "url": "https://open.spotify.com/album/0QKE0f5dMf8kc8TtlxkXtw"
+        "name": "From A Basement On The Hill",
+        "url": "https://open.spotify.com/album/4YRoxHoDrGw0LI5rxDH9Dl"
       },
       "artists": [
         {
@@ -728,9 +712,9 @@
           "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
         }
       ],
-      "duration_ms": 117134,
-      "name": "I Don't Think I'm Ever Gonna Figure It Out - Remixed / Remastered",
-      "url": "https://open.spotify.com/track/5aRWbpGuItECDLfjw0n1Ba"
+      "duration_ms": 285733,
+      "name": "Pretty (Ugly Before)",
+      "url": "https://open.spotify.com/track/4f76iWvbHC3mgm0hLmYKEv"
     },
     {
       "added_at": null,
@@ -751,8 +735,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "From A Basement On The Hill",
-        "url": "https://open.spotify.com/album/4YRoxHoDrGw0LI5rxDH9Dl"
+        "name": "Either/Or: Expanded Edition",
+        "url": "https://open.spotify.com/album/0QKE0f5dMf8kc8TtlxkXtw"
       },
       "artists": [
         {
@@ -760,9 +744,9 @@
           "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
         }
       ],
-      "duration_ms": 297973,
-      "name": "King's Crossing",
-      "url": "https://open.spotify.com/track/0pMazmJOCNRnIWe3I8COVd"
+      "duration_ms": 117134,
+      "name": "I Don't Think I'm Ever Gonna Figure It Out - Remixed / Remastered",
+      "url": "https://open.spotify.com/track/5aRWbpGuItECDLfjw0n1Ba"
     },
     {
       "added_at": null,
@@ -779,8 +763,24 @@
       "duration_ms": 163266,
       "name": "Thirteen",
       "url": "https://open.spotify.com/track/5iU2CYMavJ66Gg1XuzloLU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "From A Basement On The Hill",
+        "url": "https://open.spotify.com/album/4YRoxHoDrGw0LI5rxDH9Dl"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "duration_ms": 297973,
+      "name": "King's Crossing",
+      "url": "https://open.spotify.com/track/0pMazmJOCNRnIWe3I8COVd"
     }
   ],
-  "unique_name": "This Is Elliott Smith",
+  "unique_name": "This Is: Elliott Smith",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1u2tEI"
 }

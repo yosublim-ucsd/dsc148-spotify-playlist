@@ -2,9 +2,9 @@
 
 ### [Pop con Ñ](https://open.spotify.com/playlist/37i9dQZF1DX3sCT1ItXgNd)
 
-> Lo mejor del pop en español\. Foto: Rauw Alejandro
+> Lo mejor del pop en español\. Foto: Abraham Mateo
 
-461 songs - 23 hr 3 min
+462 songs - 23 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,6 +182,7 @@
 | [Hasta Por La Mañana](https://open.spotify.com/track/2XTcif4p4qS5oXWtcnBzhK) | [Manuel Carrasco](https://open.spotify.com/artist/7qAoXV4U0qDxQAUqhszjAA), [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Hasta Por La Mañana](https://open.spotify.com/album/268Ka9r2r5AQInpvhNQgcQ) | 2:51 | 2023-07-17 | 2023-08-15 |
 | [hey, goodbye](https://open.spotify.com/track/2mYuCEPvJw5FdVHhnSQJaL) | [Paula Koops](https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0) | [Novia del Año](https://open.spotify.com/album/4VYagF6MQInUh9OOx4UoZ0) | 2:56 | 2023-03-29 | 2023-04-26 |
 | [Himno \(para los que están jodidos\)](https://open.spotify.com/track/0xk30CeA3Klu0xOOdE8grl) | [La La Love You](https://open.spotify.com/artist/5Q30fhTc0Sl0Q4C5dOjhhQ), [Allison](https://open.spotify.com/artist/4AP5EFbVVcBv8cfyqO0oqr) | [Himno \(para los que están jodidos\)](https://open.spotify.com/album/0WCX8VZK7JA2mChT1sQO3c) | 3:05 | 2023-04-17 | 2023-09-26 |
+| [HOMBRE LIBRE](https://open.spotify.com/track/5KNaOXxuRfrR7fHAucOM0H) | [Manu Cort](https://open.spotify.com/artist/1s5yaJ9Dr74CfXADawVeqs) | [HOMBRE LIBRE](https://open.spotify.com/album/7aZEM8ZNEOeOXDf0zdKdwK) | 2:53 | 2024-05-28 |  |
 | [HONG KONG](https://open.spotify.com/track/6kLzCjDUYV9b6jRykKAd8e) | [Clari Cremaschi](https://open.spotify.com/artist/6Z1grWIzJvaRMAn5XFmDly), [Juacko](https://open.spotify.com/artist/0LLnP7NEsEQ1pSCfsuYURr) | [HONG KONG](https://open.spotify.com/album/6HDMJTazTiLnskQO30BXAC) | 2:34 | 2023-05-30 | 2023-06-13 |
 | [Hoy Festejo](https://open.spotify.com/track/5VzeBUPnyf9rWSPkEFeL6X) | [Álvaro De Luna](https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5), [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Hoy Festejo](https://open.spotify.com/album/2EchHhx889NsqylPaAzboM) | 2:44 | 2023-09-28 | 2023-11-22 |
 | [Ibiza](https://open.spotify.com/track/5YpDCc4c7XCcJ3Pj9kd7r8) | [DePol](https://open.spotify.com/artist/16t23tANCHuuAN0yPqBbA0) | [Ibiza](https://open.spotify.com/album/7IySKrXiQULxSpJYy9eYgX) | 2:59 | 2023-05-03 | 2023-09-26 |
@@ -224,7 +225,7 @@
 | [LALA](https://open.spotify.com/track/7ABLbnD53cQK00mhcaOUVG) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LA VIDA ES UNA](https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8) | 3:17 | 2023-07-04 | 2023-09-19 |
 | [LAS BABYS](https://open.spotify.com/track/1FhRIZtz1d4qLVe4928exT) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [LAS BABYS](https://open.spotify.com/album/13GYhvuREUNOpRznLCQGuh) | 2:33 | 2023-06-06 | 2023-08-29 |
 | [LAS BURBUJAS DEL JACUZZI](https://open.spotify.com/track/1u7m5t7YwN5neo0RtL3oRB) | [India Martinez](https://open.spotify.com/artist/6FOpWOxsjQxKEbLiJpU1xV), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Lele Pons](https://open.spotify.com/artist/6i3DxIlAqnDkwELLw4aVrx) | [LAS BURBUJAS DEL JACUZZI](https://open.spotify.com/album/5XrAHXh8BA2Ncvltge5YPk) | 2:36 | 2024-01-18 | 2024-02-02 |
-| [LEGENDARIO](https://open.spotify.com/track/47Y7zbY54UmViUUDUrq7Sk) | [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [GRASA](https://open.spotify.com/album/2ab0PTJ5OG7I6YfSqpDFZv) | 3:04 | 2024-05-24 |  |
+| [LEGENDARIO](https://open.spotify.com/track/47Y7zbY54UmViUUDUrq7Sk) | [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [GRASA](https://open.spotify.com/album/2ab0PTJ5OG7I6YfSqpDFZv) | 3:04 | 2024-05-24 | 2024-05-29 |
 | [Lentamente](https://open.spotify.com/track/7GJVqqE79WOl8ncT7Y4z0L) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [bellodrama](https://open.spotify.com/album/3Bk95OiIUpFX417h8OFnrb) | 3:04 | 2023-03-23 | 2023-04-14 |
 | [LICÁNTROPO](https://open.spotify.com/track/3HjaJVZlDcX7b1lxCuE3Ko) | [Belén Aguilera](https://open.spotify.com/artist/5fmYDIdgEkSgLdL6esxgfp) | [LICÁNTROPO](https://open.spotify.com/album/1ya3tWZT4yE8OfEuIzSKdE) | 2:46 | 2023-07-04 | 2023-07-18 |
 | [Llorando en el Lambo](https://open.spotify.com/track/7ms9TmXD1qVWhuGCQFTT16) | [Lérica](https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo), [Mar Lucas](https://open.spotify.com/artist/7K5OqI5GnphpZMfIRs2UsI), [Daviles de Novelda](https://open.spotify.com/artist/6E94QKXZv8BbO6QQJxcxLI) | [Llorando en el Lambo](https://open.spotify.com/album/55wwmFgx9rSL1OmKoP50De) | 3:09 | 2024-02-26 |  |

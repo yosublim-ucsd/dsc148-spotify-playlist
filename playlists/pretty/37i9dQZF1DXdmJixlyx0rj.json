@@ -1,6 +1,6 @@
 {
   "description": "New & best K-Electronic music is here. (Cover: uju(\uc6b0\uc8fc))",
-  "num_followers": 24948,
+  "num_followers": 24959,
   "original_name": "Electronii'K",
   "owner": {
     "name": "Spotify",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2024-05-23 09:41:27",
       "album": {
+        "name": "The Songs for the NOT-YETs",
+        "url": "https://open.spotify.com/album/0bsjvYwdHUzneE7xRDHngX"
+      },
+      "artists": [
+        {
+          "name": "Y2K92",
+          "url": "https://open.spotify.com/artist/5wXWhMZL137p0cgWaZSry9"
+        }
+      ],
+      "duration_ms": 287424,
+      "name": "Bi-elijah",
+      "url": "https://open.spotify.com/track/7ew0KJ2Z6d2wpoYFTriF8C"
+    },
+    {
+      "added_at": "2024-05-23 09:41:27",
+      "album": {
         "name": "iScreaM Vol.22 : 28 Reasons / Los Angeles Remixes",
         "url": "https://open.spotify.com/album/4M4lI5rDAV2xPZrQ0u13Pb"
       },
@@ -1351,22 +1367,6 @@
     {
       "added_at": "2024-05-23 09:41:27",
       "album": {
-        "name": "The Songs for the NOT-YETs",
-        "url": "https://open.spotify.com/album/0bsjvYwdHUzneE7xRDHngX"
-      },
-      "artists": [
-        {
-          "name": "Y2K92",
-          "url": "https://open.spotify.com/artist/5wXWhMZL137p0cgWaZSry9"
-        }
-      ],
-      "duration_ms": 287424,
-      "name": "Bi-elijah",
-      "url": "https://open.spotify.com/track/7ew0KJ2Z6d2wpoYFTriF8C"
-    },
-    {
-      "added_at": "2024-05-23 09:41:27",
-      "album": {
         "name": "Power (Remixes)",
         "url": "https://open.spotify.com/album/6kMYsqzcglsUJZodFLGD51"
       },
@@ -1379,46 +1379,6 @@
       "duration_ms": 198133,
       "name": "Power - IMLAY Remix",
       "url": "https://open.spotify.com/track/3swlav6jHllgTqg04ViBB1"
-    },
-    {
-      "added_at": "2024-05-23 09:41:27",
-      "album": {
-        "name": "iScreaM Vol.6 : Make A Wish / 90's Love Remix",
-        "url": "https://open.spotify.com/album/4ezneQvVRoSSNnQ6RbxwDd"
-      },
-      "artists": [
-        {
-          "name": "NCT U",
-          "url": "https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ"
-        },
-        {
-          "name": "SQUAR",
-          "url": "https://open.spotify.com/artist/7waoIMNJ8yFpEKiHHWG7EY"
-        }
-      ],
-      "duration_ms": 161454,
-      "name": "90's Love - SQUAR Remix",
-      "url": "https://open.spotify.com/track/21uB15SdGJR4NYprvjInYw"
-    },
-    {
-      "added_at": "2024-05-23 09:41:27",
-      "album": {
-        "name": "iScreaM Vol.21 : 2 Baddies Remixes",
-        "url": "https://open.spotify.com/album/1SfJshh5aQCw1WZLcFNADx"
-      },
-      "artists": [
-        {
-          "name": "NCT 127",
-          "url": "https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH"
-        },
-        {
-          "name": "No Identity",
-          "url": "https://open.spotify.com/artist/2ladxDWywuVgNTdsivk5vI"
-        }
-      ],
-      "duration_ms": 200723,
-      "name": "2 Baddies - No Identity Remix",
-      "url": "https://open.spotify.com/track/26sBg0oClOFbeFifAHRCD7"
     },
     {
       "added_at": "2024-05-23 09:41:27",
@@ -1443,6 +1403,46 @@
       "duration_ms": 158769,
       "name": "Bring Me On",
       "url": "https://open.spotify.com/track/5RZVt5SZKOy6xA5ZJ9Nvzc"
+    },
+    {
+      "added_at": "2024-05-23 09:41:27",
+      "album": {
+        "name": "iScreaM Vol.21 : 2 Baddies Remixes",
+        "url": "https://open.spotify.com/album/1SfJshh5aQCw1WZLcFNADx"
+      },
+      "artists": [
+        {
+          "name": "NCT 127",
+          "url": "https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH"
+        },
+        {
+          "name": "No Identity",
+          "url": "https://open.spotify.com/artist/2ladxDWywuVgNTdsivk5vI"
+        }
+      ],
+      "duration_ms": 200723,
+      "name": "2 Baddies - No Identity Remix",
+      "url": "https://open.spotify.com/track/26sBg0oClOFbeFifAHRCD7"
+    },
+    {
+      "added_at": "2024-05-23 09:41:27",
+      "album": {
+        "name": "iScreaM Vol.6 : Make A Wish / 90's Love Remix",
+        "url": "https://open.spotify.com/album/4ezneQvVRoSSNnQ6RbxwDd"
+      },
+      "artists": [
+        {
+          "name": "NCT U",
+          "url": "https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ"
+        },
+        {
+          "name": "SQUAR",
+          "url": "https://open.spotify.com/artist/7waoIMNJ8yFpEKiHHWG7EY"
+        }
+      ],
+      "duration_ms": 161454,
+      "name": "90's Love - SQUAR Remix",
+      "url": "https://open.spotify.com/track/21uB15SdGJR4NYprvjInYw"
     },
     {
       "added_at": "2024-05-23 09:41:27",
@@ -1535,26 +1535,6 @@
     {
       "added_at": "2024-05-23 09:41:27",
       "album": {
-        "name": "Off Ways",
-        "url": "https://open.spotify.com/album/5GrvHifcpCyzKUMHI2Mtyy"
-      },
-      "artists": [
-        {
-          "name": "SUNGYOO",
-          "url": "https://open.spotify.com/artist/2XHuEfa7Twhus6j7omuKb8"
-        },
-        {
-          "name": "Chill Satellite",
-          "url": "https://open.spotify.com/artist/4vZ2mRnHWxGV3JEn2SO0aA"
-        }
-      ],
-      "duration_ms": 180816,
-      "name": "Off Ways",
-      "url": "https://open.spotify.com/track/28oDhUdHX9CqwVrdJTKubW"
-    },
-    {
-      "added_at": "2024-05-23 09:41:27",
-      "album": {
         "name": "iScreaM Vol.27 : Baggy Jeans Remixes",
         "url": "https://open.spotify.com/album/6oncudboyLFXr07WQrl3pv"
       },
@@ -1591,6 +1571,26 @@
       "duration_ms": 182267,
       "name": "MOM (feat. So!YoON!)",
       "url": "https://open.spotify.com/track/7kjrjlPMRQCNF93rv2Lz81"
+    },
+    {
+      "added_at": "2024-05-23 09:41:27",
+      "album": {
+        "name": "Off Ways",
+        "url": "https://open.spotify.com/album/5GrvHifcpCyzKUMHI2Mtyy"
+      },
+      "artists": [
+        {
+          "name": "SUNGYOO",
+          "url": "https://open.spotify.com/artist/2XHuEfa7Twhus6j7omuKb8"
+        },
+        {
+          "name": "Chill Satellite",
+          "url": "https://open.spotify.com/artist/4vZ2mRnHWxGV3JEn2SO0aA"
+        }
+      ],
+      "duration_ms": 180816,
+      "name": "Off Ways",
+      "url": "https://open.spotify.com/track/28oDhUdHX9CqwVrdJTKubW"
     },
     {
       "added_at": "2024-05-23 09:41:27",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2024-05-23 09:41:27",
       "album": {
-        "name": "Lift Me Up",
-        "url": "https://open.spotify.com/album/3EfxRgpDIoCtDYgYrh1Y6A"
-      },
-      "artists": [
-        {
-          "name": "DUE",
-          "url": "https://open.spotify.com/artist/4150G9GrM7VzaOzUmPCf5m"
-        }
-      ],
-      "duration_ms": 121406,
-      "name": "Lift Me Up",
-      "url": "https://open.spotify.com/track/2lahORylPr5NKed4le9ODg"
-    },
-    {
-      "added_at": "2024-05-23 09:41:27",
-      "album": {
         "name": "iScreaM Vol.7 : Don't Call Me Remixes",
         "url": "https://open.spotify.com/album/2dw5OhTWlveInSayuXHYik"
       },
@@ -1703,6 +1687,22 @@
     {
       "added_at": "2024-05-23 09:41:27",
       "album": {
+        "name": "Lift Me Up",
+        "url": "https://open.spotify.com/album/3EfxRgpDIoCtDYgYrh1Y6A"
+      },
+      "artists": [
+        {
+          "name": "DUE",
+          "url": "https://open.spotify.com/artist/4150G9GrM7VzaOzUmPCf5m"
+        }
+      ],
+      "duration_ms": 121406,
+      "name": "Lift Me Up",
+      "url": "https://open.spotify.com/track/2lahORylPr5NKed4le9ODg"
+    },
+    {
+      "added_at": "2024-05-23 09:41:27",
+      "album": {
         "name": "Sail the Seven Seas",
         "url": "https://open.spotify.com/album/0LlllZbWCmGaxUBDiRHhUQ"
       },
@@ -1719,6 +1719,22 @@
     {
       "added_at": "2024-05-23 09:41:27",
       "album": {
+        "name": "Shining Like the Sun in the Sky",
+        "url": "https://open.spotify.com/album/1ivI5AZxoM5Ou9wApLUYAo"
+      },
+      "artists": [
+        {
+          "name": "Cafrii",
+          "url": "https://open.spotify.com/artist/2cNg9QqJy1QJEGn8pZOUWe"
+        }
+      ],
+      "duration_ms": 195428,
+      "name": "Shining Like the Sun in the Sky",
+      "url": "https://open.spotify.com/track/5GxFVAV7gPzOGzQZz73i1C"
+    },
+    {
+      "added_at": "2024-05-23 09:41:27",
+      "album": {
         "name": "PSILOCYBIN",
         "url": "https://open.spotify.com/album/1rUoceFLTQxAlMGuYpWCCI"
       },
@@ -1731,22 +1747,6 @@
       "duration_ms": 127250,
       "name": "@_@",
       "url": "https://open.spotify.com/track/5fmIHR4PfKC7h4XIF1Kaqe"
-    },
-    {
-      "added_at": "2024-05-23 09:41:27",
-      "album": {
-        "name": "Before the Dawn",
-        "url": "https://open.spotify.com/album/0yFqUsqveM9BlSSdqI2zWk"
-      },
-      "artists": [
-        {
-          "name": "GLORY",
-          "url": "https://open.spotify.com/artist/0WAdBPEn1hg0ZnHen70tEr"
-        }
-      ],
-      "duration_ms": 176250,
-      "name": "Before the Dawn",
-      "url": "https://open.spotify.com/track/1XxO5dOZ5R3y4q7belU1gx"
     },
     {
       "added_at": "2024-05-23 09:41:27",
@@ -1771,18 +1771,18 @@
     {
       "added_at": "2024-05-23 09:41:27",
       "album": {
-        "name": "Shining Like the Sun in the Sky",
-        "url": "https://open.spotify.com/album/1ivI5AZxoM5Ou9wApLUYAo"
+        "name": "Before the Dawn",
+        "url": "https://open.spotify.com/album/0yFqUsqveM9BlSSdqI2zWk"
       },
       "artists": [
         {
-          "name": "Cafrii",
-          "url": "https://open.spotify.com/artist/2cNg9QqJy1QJEGn8pZOUWe"
+          "name": "GLORY",
+          "url": "https://open.spotify.com/artist/0WAdBPEn1hg0ZnHen70tEr"
         }
       ],
-      "duration_ms": 195428,
-      "name": "Shining Like the Sun in the Sky",
-      "url": "https://open.spotify.com/track/5GxFVAV7gPzOGzQZz73i1C"
+      "duration_ms": 176250,
+      "name": "Before the Dawn",
+      "url": "https://open.spotify.com/track/1XxO5dOZ5R3y4q7belU1gx"
     },
     {
       "added_at": "2024-05-23 09:41:27",

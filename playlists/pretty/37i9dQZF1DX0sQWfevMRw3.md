@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > SOM EN NORRLÄNDSK SAMURAI MED ETTAN LÖS OCH PEPPARSPRAJ!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,468 likes - 99 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,549 likes - 99 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

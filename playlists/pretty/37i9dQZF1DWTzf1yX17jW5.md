@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTzf1yX17jW5.md) - [plain]
 
 > Our editor’s picks for best Jersey Club songs of the year\. Cover: kanii
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,013 likes - 75 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,023 likes - 75 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTzf1yX17jW5.md) - [plain]
 | 22 | [LOVELANGUAGE](https://open.spotify.com/track/5SuMst3sQt8wf94iGoXXLw) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [LOVELANGUAGE](https://open.spotify.com/album/24EzuFTRRdDYt4ZX7djyio) | 3:44 |
 | 23 | [My Humps \- JBroadway Remix](https://open.spotify.com/track/3jCMS72hCFNF1NESsL6L9m) | [JBroadway](https://open.spotify.com/artist/6WdccSPsTJcEHFoSdWpYvh), [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [My Humps \(JBroadway Remix\)](https://open.spotify.com/album/2YFV7FShMxZW4zUMF0KnXw) | 2:15 |
 | 24 | [VICTORIA'S SECRET \(feat\. Niky Savage\)](https://open.spotify.com/track/6e6l7PYajMX9SVpbEDqowH) | [Mikush](https://open.spotify.com/artist/3eBlbhY21Q1L6xwbVMCQa1), [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg), [Timongothekeys](https://open.spotify.com/artist/1pXa6QH7HpQcw3FCP7MQQk), [Blssd](https://open.spotify.com/artist/1lG5HZN4p1f0SBCRzmZXr0) | [VICTORIA'S SECRET \(feat\. Niky Savage\)](https://open.spotify.com/album/1fhQ6ZcU9gOnp6jubU91x9) | 2:27 |
-| 25 | [Booty Drop](https://open.spotify.com/track/1iOdhNBdePXR632DhYZVO2) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Booty Drop](https://open.spotify.com/album/096NZMg4ARLx7TQamIDE30) | 2:39 |
-| 26 | [SHOOT](https://open.spotify.com/track/1rDfZwXzeotPuDtBJotaK1) | [reezy](https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q) | [SHOOT](https://open.spotify.com/album/4zFoohHusRIEUKY6f3OimL) | 2:39 |
+| 25 | [SHOOT](https://open.spotify.com/track/1rDfZwXzeotPuDtBJotaK1) | [reezy](https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q) | [SHOOT](https://open.spotify.com/album/4zFoohHusRIEUKY6f3OimL) | 2:39 |
+| 26 | [Booty Drop](https://open.spotify.com/track/1iOdhNBdePXR632DhYZVO2) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Booty Drop](https://open.spotify.com/album/096NZMg4ARLx7TQamIDE30) | 2:39 |
 | 27 | [My Love](https://open.spotify.com/track/2f5jtBFBWGmthgLpte2u3q) | [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [My Love](https://open.spotify.com/album/3XgtnIOpgE18deinVIUmBn) | 3:34 |
 | 28 | [Nix zu tun](https://open.spotify.com/track/2LnUiS8PcdL1BXk410VwTy) | [Bonez MC](https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6), [Gzuz](https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs), [Olexesh](https://open.spotify.com/artist/2Z9KL8Zmqx5Sg3cd7Fldhl) | [High & Hungrig 3](https://open.spotify.com/album/5GhY9fvnvljahZOM4tWkHD) | 2:17 |
 | 29 | [Epiphany \(I'm Leaving\) \- Jersey Club Remix](https://open.spotify.com/track/1QQIi0N6NqkSKtCPN8vYwr) | [Chrisette Michele](https://open.spotify.com/artist/3YJMzGjAm245zwJooY7PEj), [Loog](https://open.spotify.com/artist/5EMKpvztIr3J7icWA5or1I), [ProdByAbnormal](https://open.spotify.com/artist/7fc1beONoGaY0613kvQKWe) | [Epiphany \(I'm Leaving\) \[Jersey Club Remix\]](https://open.spotify.com/album/1NiJM6oLaqru3BlKw1V2wo) | 2:49 |

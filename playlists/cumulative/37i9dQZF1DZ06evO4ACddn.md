@@ -2,7 +2,7 @@
 
 ### [This Is Lonely The Brave](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4ACddn)
 
-> This is Lonely The Brave\. The essential tracks, all in one playlist.
+> This is Lonely The Brave\. Todos os maiores hits em uma só playlist.
 
 67 songs - 4 hr 4 min
 

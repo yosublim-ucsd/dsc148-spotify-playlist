@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: iii
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,293 likes - 112 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,290 likes - 112 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 | 6 | [BUTTERFLIES](https://open.spotify.com/track/4z5gS7C4LphtrMFHiQcDUu) | [Flare](https://open.spotify.com/artist/5fOFTVTh01fR3j1D0vpxOQ) | [BUTTERFLIES](https://open.spotify.com/album/2RNF3bStKxEkhbDRxe9IYF) | 3:01 |
 | 7 | [how to turn back time](https://open.spotify.com/track/2MoU4hW1nOM7yklUuZ65VG) | [Lester Lam](https://open.spotify.com/artist/2oicwXEZfc7OVHxgpszBX9) | [how to turn back time](https://open.spotify.com/album/15OQPvRdza0fyAul8CiCyY) | 3:19 |
 | 8 | [炮台山黎生](https://open.spotify.com/track/3PC6spEpqUDyXJfQzoT4JZ) | [Ant Chan](https://open.spotify.com/artist/7kAosYOzDiSkn5LXfUSU0m) | [炮台山黎生](https://open.spotify.com/album/2IyPtMdBqwdIzTyyzWcQaY) | 2:26 |
-| 9 | [FLY4U 別問](https://open.spotify.com/track/4vcIZoTNQ87c2OzxooTeGA) | [Novel Friday](https://open.spotify.com/artist/2c2dutthGptIGoIlB6Nh68), [MIKEY](https://open.spotify.com/artist/1QfzN60bLdjDeYbJBy1tec) | [LIKE JADE](https://open.spotify.com/album/2UueyvCFBKX2qLSDaH2WYh) | 2:06 |
+| 9 | [FLY4U](https://open.spotify.com/track/4vcIZoTNQ87c2OzxooTeGA) | [Novel Friday](https://open.spotify.com/artist/2c2dutthGptIGoIlB6Nh68), [mikeygoincrazy](https://open.spotify.com/artist/2ekMYIs7rn2li4SP5ZmGmn) | [LIKE JADE](https://open.spotify.com/album/2UueyvCFBKX2qLSDaH2WYh) | 2:06 |
 | 10 | [收皮](https://open.spotify.com/track/06fq4rnJDwcEg7PkeiG6fX) | [MelRose](https://open.spotify.com/artist/5cYQq8aJgT0gzFjfBjEn0X) | [收皮](https://open.spotify.com/album/0L2rGP8m6U8XcRZjurXA4S) | 3:05 |
 | 11 | [Scrake](https://open.spotify.com/track/2Ccaxvzr9Ay705HumCmvJT) | [ECHOES TOO FAR](https://open.spotify.com/artist/3ZW34vQW3fFQZfoxi4j5sK), [SeeYouTmr](https://open.spotify.com/artist/2p1CsJyPqchYSy2wJO0JQX) | [Scrake](https://open.spotify.com/album/7IdJjzFapyDQWH5b1QHBR3) | 1:50 |
 | 12 | [California \(好鬼死浪漫\)](https://open.spotify.com/track/2Fsqwg6OCrNEcjpUTorvWF) | [Almond Milk](https://open.spotify.com/artist/6VlsbGW0ge24jpMuRka5eN), [cehryl](https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O) | [California \(好鬼死浪漫\)](https://open.spotify.com/album/7m89UNillV51zntHOksawo) | 4:23 |

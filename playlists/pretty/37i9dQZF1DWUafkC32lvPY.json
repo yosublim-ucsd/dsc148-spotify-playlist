@@ -1,6 +1,6 @@
 {
   "description": "lofi beats by Latinxs.",
-  "num_followers": 16552,
+  "num_followers": 16583,
   "original_name": "lofi latino",
   "owner": {
     "name": "Spotify",
@@ -259,26 +259,6 @@
     {
       "added_at": "2024-05-09 22:43:04",
       "album": {
-        "name": "Barrio",
-        "url": "https://open.spotify.com/album/0imkduEmra1IizYfmE9kwS"
-      },
-      "artists": [
-        {
-          "name": "BRXWS",
-          "url": "https://open.spotify.com/artist/2kGmQ05bKIjqBTeAcVopQT"
-        },
-        {
-          "name": "DreamBetter",
-          "url": "https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi"
-        }
-      ],
-      "duration_ms": 125861,
-      "name": "Barrio",
-      "url": "https://open.spotify.com/track/7zftgI2rGLbbhItcjdIbHc"
-    },
-    {
-      "added_at": "2024-05-09 22:43:04",
-      "album": {
         "name": "COMO ARRUINARTE LA VIDA",
         "url": "https://open.spotify.com/album/5aEq1iRskstuZoDRcCD44Z"
       },
@@ -299,6 +279,26 @@
       "duration_ms": 127749,
       "name": ":(",
       "url": "https://open.spotify.com/track/1JrsBQYxkbLbGvCyo7dgmJ"
+    },
+    {
+      "added_at": "2024-05-09 22:43:04",
+      "album": {
+        "name": "Barrio",
+        "url": "https://open.spotify.com/album/0imkduEmra1IizYfmE9kwS"
+      },
+      "artists": [
+        {
+          "name": "BRXWS",
+          "url": "https://open.spotify.com/artist/2kGmQ05bKIjqBTeAcVopQT"
+        },
+        {
+          "name": "DreamBetter",
+          "url": "https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi"
+        }
+      ],
+      "duration_ms": 125861,
+      "name": "Barrio",
+      "url": "https://open.spotify.com/track/7zftgI2rGLbbhItcjdIbHc"
     },
     {
       "added_at": "2024-05-09 22:43:04",
@@ -359,22 +359,6 @@
     {
       "added_at": "2024-05-09 22:43:04",
       "album": {
-        "name": "Nova",
-        "url": "https://open.spotify.com/album/1dmilMbcUhBOkH8nATHSin"
-      },
-      "artists": [
-        {
-          "name": "Maple Syrup",
-          "url": "https://open.spotify.com/artist/18hiqhddMloGWzY8pNZ8qr"
-        }
-      ],
-      "duration_ms": 116447,
-      "name": "Tudo Bem",
-      "url": "https://open.spotify.com/track/0SGRPlbprTyOMPNgwlir3Q"
-    },
-    {
-      "added_at": "2024-05-09 22:43:04",
-      "album": {
         "name": "Monte Nativo",
         "url": "https://open.spotify.com/album/2GAA55MT69UbanFcVRHeku"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 127586,
       "name": "Viento de Arrabal",
       "url": "https://open.spotify.com/track/1md8gp3aWVhSu39J92ADYi"
+    },
+    {
+      "added_at": "2024-05-09 22:43:04",
+      "album": {
+        "name": "Nova",
+        "url": "https://open.spotify.com/album/1dmilMbcUhBOkH8nATHSin"
+      },
+      "artists": [
+        {
+          "name": "Maple Syrup",
+          "url": "https://open.spotify.com/artist/18hiqhddMloGWzY8pNZ8qr"
+        }
+      ],
+      "duration_ms": 116447,
+      "name": "Tudo Bem",
+      "url": "https://open.spotify.com/track/0SGRPlbprTyOMPNgwlir3Q"
     },
     {
       "added_at": "2024-05-09 22:43:04",
@@ -427,30 +427,6 @@
     {
       "added_at": "2024-05-09 22:43:04",
       "album": {
-        "name": "LA FALDA (LoFi)",
-        "url": "https://open.spotify.com/album/7KMN8GpKBOir51rh12X0dJ"
-      },
-      "artists": [
-        {
-          "name": "LoFi HITS",
-          "url": "https://open.spotify.com/artist/0NKA6xBw7RSg1up2cx1Nu7"
-        },
-        {
-          "name": "High and Low HITS",
-          "url": "https://open.spotify.com/artist/5Yx5W4EetQuOwbvHrCFL9Y"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 171844,
-      "name": "LA FALDA - LoFi",
-      "url": "https://open.spotify.com/track/7tEeHjAZtNCVWmwt4R7Q3u"
-    },
-    {
-      "added_at": "2024-05-09 22:43:04",
-      "album": {
         "name": "Patadas de Ahogado",
         "url": "https://open.spotify.com/album/10Q9ERvl1qCJZPPcPIrxtY"
       },
@@ -463,6 +439,26 @@
       "duration_ms": 190000,
       "name": "Patadas de Ahogado",
       "url": "https://open.spotify.com/track/1b9ceFMdUzFLEZ6blTPEks"
+    },
+    {
+      "added_at": "2024-05-09 22:43:04",
+      "album": {
+        "name": "Remixes lofi del Regional Chill",
+        "url": "https://open.spotify.com/album/0zYXLwvBFEYXKJg9bI8YAT"
+      },
+      "artists": [
+        {
+          "name": "Los Bosques",
+          "url": "https://open.spotify.com/artist/49Pl9Au4UinKf0RVdBycOG"
+        },
+        {
+          "name": "Palmasur",
+          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
+        }
+      ],
+      "duration_ms": 123875,
+      "name": "Los d\u00edas grises (Remix)",
+      "url": "https://open.spotify.com/track/5HS4clb7EG8MeRGybBVPRY"
     },
     {
       "added_at": "2024-05-09 22:43:04",
@@ -487,6 +483,30 @@
       "duration_ms": 114000,
       "name": "Mi Pueblo",
       "url": "https://open.spotify.com/track/6dStpu70kmcpJmCtVD8vbB"
+    },
+    {
+      "added_at": "2024-05-09 22:43:04",
+      "album": {
+        "name": "LA FALDA (LoFi)",
+        "url": "https://open.spotify.com/album/7KMN8GpKBOir51rh12X0dJ"
+      },
+      "artists": [
+        {
+          "name": "LoFi HITS",
+          "url": "https://open.spotify.com/artist/0NKA6xBw7RSg1up2cx1Nu7"
+        },
+        {
+          "name": "High and Low HITS",
+          "url": "https://open.spotify.com/artist/5Yx5W4EetQuOwbvHrCFL9Y"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 171844,
+      "name": "LA FALDA - LoFi",
+      "url": "https://open.spotify.com/track/7tEeHjAZtNCVWmwt4R7Q3u"
     },
     {
       "added_at": "2024-05-09 22:43:04",
@@ -567,26 +587,6 @@
     {
       "added_at": "2024-05-09 22:43:04",
       "album": {
-        "name": "Remixes lofi del Regional Chill",
-        "url": "https://open.spotify.com/album/0zYXLwvBFEYXKJg9bI8YAT"
-      },
-      "artists": [
-        {
-          "name": "Los Bosques",
-          "url": "https://open.spotify.com/artist/49Pl9Au4UinKf0RVdBycOG"
-        },
-        {
-          "name": "Palmasur",
-          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
-        }
-      ],
-      "duration_ms": 123875,
-      "name": "Los d\u00edas grises (Remix)",
-      "url": "https://open.spotify.com/track/5HS4clb7EG8MeRGybBVPRY"
-    },
-    {
-      "added_at": "2024-05-09 22:43:04",
-      "album": {
         "name": "\u00d3leo sobre tela",
         "url": "https://open.spotify.com/album/105WPjJen4emN55961ICvo"
       },
@@ -599,22 +599,6 @@
       "duration_ms": 162479,
       "name": "Abr\u00e1zame mucho estos d\u00edas",
       "url": "https://open.spotify.com/track/4JIZw0eFWLoTJjpCbiQWgT"
-    },
-    {
-      "added_at": "2024-05-09 22:43:04",
-      "album": {
-        "name": "Brazilian Flavor",
-        "url": "https://open.spotify.com/album/7KRW5vGGs4RUzv7r36FGRR"
-      },
-      "artists": [
-        {
-          "name": "Dawmata",
-          "url": "https://open.spotify.com/artist/6RARgJaBjOg2joVzBoL0M3"
-        }
-      ],
-      "duration_ms": 118288,
-      "name": "Brazilian Flavor",
-      "url": "https://open.spotify.com/track/3whLJWc9Bu4mk0cnueIiKg"
     },
     {
       "added_at": "2024-05-09 22:43:04",
@@ -639,6 +623,22 @@
       "duration_ms": 135163,
       "name": "Bolero coqueto",
       "url": "https://open.spotify.com/track/4d5vaBa0RzD10nbAcewKiI"
+    },
+    {
+      "added_at": "2024-05-09 22:43:04",
+      "album": {
+        "name": "Brazilian Flavor",
+        "url": "https://open.spotify.com/album/7KRW5vGGs4RUzv7r36FGRR"
+      },
+      "artists": [
+        {
+          "name": "Dawmata",
+          "url": "https://open.spotify.com/artist/6RARgJaBjOg2joVzBoL0M3"
+        }
+      ],
+      "duration_ms": 118288,
+      "name": "Brazilian Flavor",
+      "url": "https://open.spotify.com/track/3whLJWc9Bu4mk0cnueIiKg"
     },
     {
       "added_at": "2024-05-09 22:43:04",
@@ -767,6 +767,22 @@
     {
       "added_at": "2024-05-09 22:43:04",
       "album": {
+        "name": "Uno Es M\u00ednimo Dos",
+        "url": "https://open.spotify.com/album/4LkiclyNpFe3akHcHzUAeK"
+      },
+      "artists": [
+        {
+          "name": "Jiony",
+          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
+        }
+      ],
+      "duration_ms": 269800,
+      "name": "Nos Usamos",
+      "url": "https://open.spotify.com/track/19MEAx5dkaKyFoCeSv6Kv9"
+    },
+    {
+      "added_at": "2024-05-09 22:43:04",
+      "album": {
         "name": "Bossa De Flauta",
         "url": "https://open.spotify.com/album/5MwIh4cqWfS4U7XlStZU6e"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 114418,
       "name": "Bossa De Flauta",
       "url": "https://open.spotify.com/track/4bURJNtMormiqKdJoq2vcu"
-    },
-    {
-      "added_at": "2024-05-09 22:43:04",
-      "album": {
-        "name": "Uno Es M\u00ednimo Dos",
-        "url": "https://open.spotify.com/album/4LkiclyNpFe3akHcHzUAeK"
-      },
-      "artists": [
-        {
-          "name": "Jiony",
-          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
-        }
-      ],
-      "duration_ms": 269800,
-      "name": "Nos Usamos",
-      "url": "https://open.spotify.com/track/19MEAx5dkaKyFoCeSv6Kv9"
     },
     {
       "added_at": "2024-05-09 22:43:04",
@@ -955,18 +955,18 @@
     {
       "added_at": "2024-05-09 22:43:04",
       "album": {
-        "name": "Lofi Chill",
-        "url": "https://open.spotify.com/album/1HstApWi4IFpuz5HJmoXpf"
+        "name": "Ciudad de Papel",
+        "url": "https://open.spotify.com/album/5RvDhQ97SHNRWiuS2SgOVh"
       },
       "artists": [
         {
-          "name": "SanelliX",
-          "url": "https://open.spotify.com/artist/0sk0gTYhiFal4UfEKbpnGu"
+          "name": "Iv\u00e1n Rosa",
+          "url": "https://open.spotify.com/artist/7i6BoVBVFvAbmIOT7GDvDF"
         }
       ],
-      "duration_ms": 115017,
-      "name": "El Malec\u00f3n",
-      "url": "https://open.spotify.com/track/1Svr9y0d5DpH5SswUuMQv5"
+      "duration_ms": 129767,
+      "name": "Ciudad de Papel",
+      "url": "https://open.spotify.com/track/0I8Pn5LBI4TIydkOxOeEmE"
     },
     {
       "added_at": "2024-05-09 22:43:04",
@@ -987,18 +987,22 @@
     {
       "added_at": "2024-05-09 22:43:04",
       "album": {
-        "name": "Ciudad de Papel",
-        "url": "https://open.spotify.com/album/5RvDhQ97SHNRWiuS2SgOVh"
+        "name": "Primer Beso",
+        "url": "https://open.spotify.com/album/2N2xwEqO7BfJgdo4SUb18g"
       },
       "artists": [
         {
-          "name": "Iv\u00e1n Rosa",
-          "url": "https://open.spotify.com/artist/7i6BoVBVFvAbmIOT7GDvDF"
+          "name": "Don Raimundo",
+          "url": "https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043"
+        },
+        {
+          "name": "SpoonBeats",
+          "url": "https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl"
         }
       ],
-      "duration_ms": 129767,
-      "name": "Ciudad de Papel",
-      "url": "https://open.spotify.com/track/0I8Pn5LBI4TIydkOxOeEmE"
+      "duration_ms": 135000,
+      "name": "Primer Beso",
+      "url": "https://open.spotify.com/track/4XodJHQma1WbMVezFDt9yn"
     },
     {
       "added_at": "2024-05-09 22:43:04",
@@ -1019,22 +1023,34 @@
     {
       "added_at": "2024-05-09 22:43:04",
       "album": {
-        "name": "Primer Beso",
-        "url": "https://open.spotify.com/album/2N2xwEqO7BfJgdo4SUb18g"
+        "name": "Metro Mexico",
+        "url": "https://open.spotify.com/album/62kPw9MMqA9ws4RKDrjUpO"
       },
       "artists": [
         {
-          "name": "Don Raimundo",
-          "url": "https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043"
-        },
-        {
-          "name": "SpoonBeats",
-          "url": "https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl"
+          "name": "Jouta",
+          "url": "https://open.spotify.com/artist/27eP37X13iXodHP9LFFkNd"
         }
       ],
-      "duration_ms": 135000,
-      "name": "Primer Beso",
-      "url": "https://open.spotify.com/track/4XodJHQma1WbMVezFDt9yn"
+      "duration_ms": 120000,
+      "name": "Metro Mexico",
+      "url": "https://open.spotify.com/track/7jhU5nDhfIhLGb46aBfyAV"
+    },
+    {
+      "added_at": "2024-05-09 22:43:04",
+      "album": {
+        "name": "Lofi Chill",
+        "url": "https://open.spotify.com/album/1HstApWi4IFpuz5HJmoXpf"
+      },
+      "artists": [
+        {
+          "name": "SanelliX",
+          "url": "https://open.spotify.com/artist/0sk0gTYhiFal4UfEKbpnGu"
+        }
+      ],
+      "duration_ms": 115017,
+      "name": "El Malec\u00f3n",
+      "url": "https://open.spotify.com/track/1Svr9y0d5DpH5SswUuMQv5"
     },
     {
       "added_at": "2024-05-09 22:43:04",
@@ -1083,42 +1099,6 @@
     {
       "added_at": "2024-05-09 22:43:04",
       "album": {
-        "name": "Playa del Amor",
-        "url": "https://open.spotify.com/album/5LANlltyeFV9e2Waab8Jd7"
-      },
-      "artists": [
-        {
-          "name": "SanelliX",
-          "url": "https://open.spotify.com/artist/0sk0gTYhiFal4UfEKbpnGu"
-        },
-        {
-          "name": "DreamBetter",
-          "url": "https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi"
-        }
-      ],
-      "duration_ms": 129565,
-      "name": "Playa del Amor",
-      "url": "https://open.spotify.com/track/3SL8twBcud5RDSqmwC1vVZ"
-    },
-    {
-      "added_at": "2024-05-09 22:43:04",
-      "album": {
-        "name": "Metro Mexico",
-        "url": "https://open.spotify.com/album/62kPw9MMqA9ws4RKDrjUpO"
-      },
-      "artists": [
-        {
-          "name": "Jouta",
-          "url": "https://open.spotify.com/artist/27eP37X13iXodHP9LFFkNd"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Metro Mexico",
-      "url": "https://open.spotify.com/track/7jhU5nDhfIhLGb46aBfyAV"
-    },
-    {
-      "added_at": "2024-05-09 22:43:04",
-      "album": {
         "name": "El D\u00eda M\u00e1s Largo",
         "url": "https://open.spotify.com/album/5OtT7lgaBIPbXjpMYqcsMj"
       },
@@ -1131,22 +1111,6 @@
       "duration_ms": 146239,
       "name": "Cholomuco",
       "url": "https://open.spotify.com/track/1VACAmytiMZVFqjFB8dtWo"
-    },
-    {
-      "added_at": "2024-05-09 22:43:04",
-      "album": {
-        "name": "Todo Tranqui",
-        "url": "https://open.spotify.com/album/6PwymJ9ctOXcJubwsSoBbP"
-      },
-      "artists": [
-        {
-          "name": "Don Raimundo",
-          "url": "https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043"
-        }
-      ],
-      "duration_ms": 100738,
-      "name": "Todo Tranqui",
-      "url": "https://open.spotify.com/track/560SjC0nXPxH9FXWvlfm7M"
     },
     {
       "added_at": "2024-05-09 22:43:04",
@@ -1187,6 +1151,42 @@
     {
       "added_at": "2024-05-09 22:43:04",
       "album": {
+        "name": "Playa del Amor",
+        "url": "https://open.spotify.com/album/5LANlltyeFV9e2Waab8Jd7"
+      },
+      "artists": [
+        {
+          "name": "SanelliX",
+          "url": "https://open.spotify.com/artist/0sk0gTYhiFal4UfEKbpnGu"
+        },
+        {
+          "name": "DreamBetter",
+          "url": "https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi"
+        }
+      ],
+      "duration_ms": 129565,
+      "name": "Playa del Amor",
+      "url": "https://open.spotify.com/track/3SL8twBcud5RDSqmwC1vVZ"
+    },
+    {
+      "added_at": "2024-05-09 22:43:04",
+      "album": {
+        "name": "Todo Tranqui",
+        "url": "https://open.spotify.com/album/6PwymJ9ctOXcJubwsSoBbP"
+      },
+      "artists": [
+        {
+          "name": "Don Raimundo",
+          "url": "https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043"
+        }
+      ],
+      "duration_ms": 100738,
+      "name": "Todo Tranqui",
+      "url": "https://open.spotify.com/track/560SjC0nXPxH9FXWvlfm7M"
+    },
+    {
+      "added_at": "2024-05-09 22:43:04",
+      "album": {
         "name": "Sample Saga: Brazil",
         "url": "https://open.spotify.com/album/4TcMCBXsN0l6EQPGzwZnNe"
       },
@@ -1203,6 +1203,26 @@
       "duration_ms": 117446,
       "name": "Devagar",
       "url": "https://open.spotify.com/track/2gexXPkOG9S65o5YpF1JRw"
+    },
+    {
+      "added_at": "2024-05-09 22:43:04",
+      "album": {
+        "name": "Ni\u00f1a",
+        "url": "https://open.spotify.com/album/2OVXzmwAfv0J5kXsxbD1m2"
+      },
+      "artists": [
+        {
+          "name": "Mariana Red",
+          "url": "https://open.spotify.com/artist/0gehovGx04GX2D2GDfpaNQ"
+        },
+        {
+          "name": "SpoonBeats",
+          "url": "https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl"
+        }
+      ],
+      "duration_ms": 122250,
+      "name": "Maya",
+      "url": "https://open.spotify.com/track/5Zq5pzQxnCmCAXN2ikRewz"
     },
     {
       "added_at": "2024-05-09 22:43:04",
@@ -1235,26 +1255,6 @@
       "duration_ms": 149333,
       "name": "Cempasuchil",
       "url": "https://open.spotify.com/track/4lkYY11jhjbGbqaKtfVYeA"
-    },
-    {
-      "added_at": "2024-05-09 22:43:04",
-      "album": {
-        "name": "Ni\u00f1a",
-        "url": "https://open.spotify.com/album/2OVXzmwAfv0J5kXsxbD1m2"
-      },
-      "artists": [
-        {
-          "name": "Mariana Red",
-          "url": "https://open.spotify.com/artist/0gehovGx04GX2D2GDfpaNQ"
-        },
-        {
-          "name": "SpoonBeats",
-          "url": "https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl"
-        }
-      ],
-      "duration_ms": 122250,
-      "name": "Maya",
-      "url": "https://open.spotify.com/track/5Zq5pzQxnCmCAXN2ikRewz"
     },
     {
       "added_at": "2024-05-09 22:43:04",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2024-05-09 22:43:04",
       "album": {
-        "name": "100% Barztep",
-        "url": "https://open.spotify.com/album/16c3Y70tMv9USOwiQ2lO91"
-      },
-      "artists": [
-        {
-          "name": "Barzo",
-          "url": "https://open.spotify.com/artist/6H7lTzp0q6WGPUJObZz7sO"
-        }
-      ],
-      "duration_ms": 210750,
-      "name": "Shemomedjamo",
-      "url": "https://open.spotify.com/track/26HbFJdrkXgWrME5kLrk8r"
-    },
-    {
-      "added_at": "2024-05-09 22:43:04",
-      "album": {
         "name": "Sunset on Vallarta",
         "url": "https://open.spotify.com/album/0zst4Hkj5ewPQQXhJRNbbh"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 145200,
       "name": "Sunset on Vallarta",
       "url": "https://open.spotify.com/track/5ZNrrgjATjnKl5z1urH5Eg"
+    },
+    {
+      "added_at": "2024-05-09 22:43:04",
+      "album": {
+        "name": "100% Barztep",
+        "url": "https://open.spotify.com/album/16c3Y70tMv9USOwiQ2lO91"
+      },
+      "artists": [
+        {
+          "name": "Barzo",
+          "url": "https://open.spotify.com/artist/6H7lTzp0q6WGPUJObZz7sO"
+        }
+      ],
+      "duration_ms": 210750,
+      "name": "Shemomedjamo",
+      "url": "https://open.spotify.com/track/26HbFJdrkXgWrME5kLrk8r"
     },
     {
       "added_at": "2024-05-09 22:43:04",

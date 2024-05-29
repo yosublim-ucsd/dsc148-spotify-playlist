@@ -1358,7 +1358,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-29",
       "duration_ms": 387160,
       "name": "Baby, We're Ascending",
       "url": "https://open.spotify.com/track/3Nn6tQg6gYqCMZR0IpiiFJ"
@@ -3718,7 +3718,7 @@
       ],
       "date_added": "2019-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-28",
+      "date_removed": null,
       "duration_ms": 227173,
       "name": "Do Androids Dream Part 3 - Original Mix",
       "url": "https://open.spotify.com/track/11zgbmLoSt0Yd48x13KCPn"
@@ -13520,7 +13520,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-29",
       "duration_ms": 323239,
       "name": "Sisters",
       "url": "https://open.spotify.com/track/1mQVp1ZlUra71QJDZIJfiD"
@@ -17874,6 +17874,24 @@
       "duration_ms": 201320,
       "name": "You Left Me",
       "url": "https://open.spotify.com/track/18IYGcquutjcLam5wN7HRq"
+    },
+    {
+      "album": {
+        "name": "Yu",
+        "url": "https://open.spotify.com/album/0iwiwHyXryr3N8zjHzJdRm"
+      },
+      "artists": [
+        {
+          "name": "Player Dave",
+          "url": "https://open.spotify.com/artist/1rQItbnVgtRiJkTxHRBUc0"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Yu",
+      "url": "https://open.spotify.com/track/00EGZT3cVfYHUKEONXdk3Q"
     },
     {
       "album": {

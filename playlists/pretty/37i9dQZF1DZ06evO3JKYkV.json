@@ -1,12 +1,12 @@
 {
   "description": "This is Aphex Twin. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 63742,
+  "num_followers": 63783,
   "original_name": "This Is Aphex Twin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlJ7gAAAAABSPTpg1y3bdy/AwIGKwNpv",
+  "snapshot_id": "ZlPNAAAAAAB0cXjrC6smVtnd8tgFupot",
   "tracks": [
     {
       "added_at": null,
@@ -379,8 +379,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Xylem Tube EP",
-        "url": "https://open.spotify.com/album/6Lvdji4Bkcr17XHwVZyRfX"
+        "name": "Syro",
+        "url": "https://open.spotify.com/album/4mwrMLVKo940qLFXEIef4w"
       },
       "artists": [
         {
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
         }
       ],
-      "duration_ms": 286506,
-      "name": "Polynomial-C",
-      "url": "https://open.spotify.com/track/1CaTIckDNXtzUypdTOAghF"
+      "duration_ms": 287586,
+      "name": "minipops 67 [120.2][source field mix]",
+      "url": "https://open.spotify.com/track/00xFfMsOn9TbRe3sZcdABm"
     },
     {
       "added_at": null,
@@ -427,8 +427,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Syro",
-        "url": "https://open.spotify.com/album/4mwrMLVKo940qLFXEIef4w"
+        "name": "Xylem Tube EP",
+        "url": "https://open.spotify.com/album/6Lvdji4Bkcr17XHwVZyRfX"
       },
       "artists": [
         {
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
         }
       ],
-      "duration_ms": 287586,
-      "name": "minipops 67 [120.2][source field mix]",
-      "url": "https://open.spotify.com/track/00xFfMsOn9TbRe3sZcdABm"
+      "duration_ms": 286506,
+      "name": "Polynomial-C",
+      "url": "https://open.spotify.com/track/1CaTIckDNXtzUypdTOAghF"
     },
     {
       "added_at": null,
@@ -539,8 +539,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Computer Controlled Acoustic Instruments pt2 EP",
-        "url": "https://open.spotify.com/album/4NmpBWikuFV6jbYMegdi01"
+        "name": "Come To Daddy",
+        "url": "https://open.spotify.com/album/6sIEBpy5gl3DqC6KPasPpx"
       },
       "artists": [
         {
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
         }
       ],
-      "duration_ms": 108011,
-      "name": "piano un10 it happened",
-      "url": "https://open.spotify.com/track/75NjAlMKrabtXiM2P89E5F"
+      "duration_ms": 262533,
+      "name": "Come To Daddy - Pappy Mix",
+      "url": "https://open.spotify.com/track/5H6cQ9QrYP23R6PALr1KCc"
     },
     {
       "added_at": null,
@@ -587,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Come To Daddy",
-        "url": "https://open.spotify.com/album/6sIEBpy5gl3DqC6KPasPpx"
+        "name": "Computer Controlled Acoustic Instruments pt2 EP",
+        "url": "https://open.spotify.com/album/4NmpBWikuFV6jbYMegdi01"
       },
       "artists": [
         {
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
         }
       ],
-      "duration_ms": 262533,
-      "name": "Come To Daddy - Pappy Mix",
-      "url": "https://open.spotify.com/track/5H6cQ9QrYP23R6PALr1KCc"
+      "duration_ms": 108011,
+      "name": "piano un10 it happened",
+      "url": "https://open.spotify.com/track/75NjAlMKrabtXiM2P89E5F"
     },
     {
       "added_at": null,

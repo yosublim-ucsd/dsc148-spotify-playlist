@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: raissa anggiani
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,205 likes - 93 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,254 likes - 93 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

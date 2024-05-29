@@ -2,9 +2,9 @@
 
 ### [Indie Korea \(인디 코리아\)](https://open.spotify.com/playlist/37i9dQZF1DXdTb8AG95jne)
 
-> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: Lee Yerin\(이예린\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
+> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: HANRORO\(한로로\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-723 songs - 1 day 20 hr 14 min
+724 songs - 1 day 20 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -235,6 +235,7 @@
 | [Green War](https://open.spotify.com/track/4fzcXQTr4IAk4VvNoJZfdW) | [We Are The Night](https://open.spotify.com/artist/5UT1mOF7JAjcc7e3wen8vw) | [Green War](https://open.spotify.com/album/3HNZpMJF2NfD4Kq21olFak) | 3:07 | 2022-07-08 | 2022-07-13 |
 | [GRIPPIN’THEGREEN](https://open.spotify.com/track/6hHjsUiAuUcTtsvDXFvPFk) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [Jannabi’s small pieces ll : GRIPPIN’THEGREEN](https://open.spotify.com/album/1JKiz2WDaNak1fPjmNG1Vt) | 3:24 | 2022-05-10 |  |
 | [Guitar Pick](https://open.spotify.com/track/3RZwNqLYaZInBhnWmRiHBD) | [MEMI](https://open.spotify.com/artist/2IJQZNh2eIR9a21uq494UA) | [M3MI](https://open.spotify.com/album/58oTIGEYaR2zXeDNxgIG8K) | 2:28 | 2023-12-12 | 2023-12-19 |
+| [H O M E](https://open.spotify.com/track/5E7MmixrLwGiOvEkAybNpr) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [HOME](https://open.spotify.com/album/4finbgKnMb3yfGdr0vErpw) | 3:51 | 2024-05-28 |  |
 | [Half Asleep \(feat\. Peakboy, hiko\)](https://open.spotify.com/track/29iOBbi03iM3MmTvnz2h57) | [Otis Lim](https://open.spotify.com/artist/5RnIypllxbDHaeYKljksJ3), [Peakboy](https://open.spotify.com/artist/08LjovlGCVPQpTm9Olc45l), [hiko](https://open.spotify.com/artist/4lt8MuZF8WWqDkoYgRULIM) | [Playground](https://open.spotify.com/album/1sMyjHp8vwijM0eVq4H0ej) | 3:25 | 2024-04-30 |  |
 | [Hanagae](https://open.spotify.com/track/4hnhipRrUg7yUCAqT9yvsR) | [HOA](https://open.spotify.com/artist/2oz9zN3Vtp4RnFZOlsGNCu) | [Hanagae](https://open.spotify.com/album/69ojcNwWWhvRkaTxxdFkGY) | 3:13 | 2021-12-12 | 2022-07-20 |
 | [Hangkio](https://open.spotify.com/track/0hUYYFoOPCuSsb6stdqR0h) | [Shin Onyu](https://open.spotify.com/artist/3dSchlsDeFd5mEw4RoAMOx) | [Happy Orange](https://open.spotify.com/album/76TnC7yj8OkyDIsTBpCak5) | 3:57 | 2021-12-21 | 2022-07-01 |
@@ -658,7 +659,7 @@
 | [WATER](https://open.spotify.com/track/6EIShxhgO0xfGx4wQ0zzPL) | [CIFIKA](https://open.spotify.com/artist/0OK6Xs5X1kHs07y68n65CQ) | [PRISM](https://open.spotify.com/album/4ob0pdaU2exF0jD5QST4oU) | 4:46 | 2022-03-31 | 2022-06-06 |
 | [We must break up now](https://open.spotify.com/track/0EBUUKjPTaZ5NmlmhssRiw) | [ACOURVE](https://open.spotify.com/artist/0i9MWBqCpPeaJu6rJkrOoA) | [We must break up now](https://open.spotify.com/album/6M0cxLeXYzDdkjCtfdoNYC) | 4:12 | 2022-03-31 | 2022-04-03 |
 | [We Shine at Night](https://open.spotify.com/track/6pkLcIsn5U6yHUHA1VROcY) | [Parannoul](https://open.spotify.com/artist/7eZbNxarrTW4VkRI8u9aDX) | [We Shine at Night](https://open.spotify.com/album/5cZ58w2i6LfpgP0HN46ca5) | 6:27 | 2023-01-25 | 2023-02-15 |
-| [We Sink](https://open.spotify.com/track/5AADyLlMNyHMpUK901UB65) | [SWAY](https://open.spotify.com/artist/0O3bqvyOzebItVBHaWdFxB) | [My Liberation Notes OST Part 6](https://open.spotify.com/album/4ITq7ZmrmIRsvfGtpZKnj8) | 3:26 | 2022-06-13 |  |
+| [We Sink](https://open.spotify.com/track/5AADyLlMNyHMpUK901UB65) | [SWAY](https://open.spotify.com/artist/0O3bqvyOzebItVBHaWdFxB) | [My Liberation Notes OST Part 6](https://open.spotify.com/album/4ITq7ZmrmIRsvfGtpZKnj8) | 3:26 | 2022-06-13 | 2024-05-29 |
 | [Wedding diary 신혼일기](https://open.spotify.com/track/0mT5mNsNgqlOovlJRE4I4F) | [Yun DDanDDan](https://open.spotify.com/artist/0fnx3yyvXH5E0UATpygzzt) | [Wedding diary 신혼일기](https://open.spotify.com/album/54g9wr8FNNiOCSgtQMqwnZ) | 3:23 | 2022-03-31 | 2022-04-18 |
 | [Weekenders \(feat\. Hans.\)](https://open.spotify.com/track/0VxIxeP9LKGnV1SLTDTk4w) | [hanbee](https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk), [Hans.](https://open.spotify.com/artist/41azuh0IUq4g2UPySoYp8A) | [Weekenders \(feat\. Hans.\)](https://open.spotify.com/album/6Ey4kcZS1m0IQvv7R8ZaXu) | 3:39 | 2022-03-18 | 2022-04-16 |
 | [What can I do](https://open.spotify.com/track/6lMwrY5yRLMEG4WyuCEsFv) | [ACOURVE](https://open.spotify.com/artist/0i9MWBqCpPeaJu6rJkrOoA) | [What can I do](https://open.spotify.com/album/4eV349LplmfXn5COoDAriG) | 3:27 | 2022-04-12 | 2024-05-01 |

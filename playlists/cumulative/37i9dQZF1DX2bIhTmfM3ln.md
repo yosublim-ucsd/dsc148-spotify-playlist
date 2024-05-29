@@ -4,7 +4,7 @@
 
 > You're the paracetamol to my headache ❤️
 
-521 songs - 1 day 1 hr 56 min
+522 songs - 1 day 1 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -356,6 +356,7 @@
 | [ODO](https://open.spotify.com/track/5rRKhpWLZzDp8a7KZ4wPYO) | [Aṣa](https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc) | [ODO](https://open.spotify.com/album/767cvHiLzCJBzufXLwZg7i) | 3:18 | 2024-02-02 | 2024-03-09 |
 | [Odo](https://open.spotify.com/track/2vK93nwA5PNJVQa3OXeg5Y) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Odo](https://open.spotify.com/album/5vr0uK0k3M2o54r95AfPwo) | 3:06 | 2024-02-13 | 2024-02-16 |
 | [Odo Dede](https://open.spotify.com/track/5JB0EcpkbUsyaU9EvzK3bw) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [L.I.T.A \(Deluxe Edition\)](https://open.spotify.com/album/3eSs5S46FxMXHK3bTaTeD1) | 3:56 | 2023-06-22 | 2023-08-04 |
+| [Ogechi](https://open.spotify.com/track/6YYnBEMEaj960IX1evcTun) | [Brown Joel](https://open.spotify.com/artist/2A9kNdL3S9DKEIjhZJZZfM), [BoyPee](https://open.spotify.com/artist/1zjv7k3fmK1MJIA2CdaCAh), [Hyce](https://open.spotify.com/artist/1KQuzZH1ix85vt0n3iiRTA) | [Ogechi](https://open.spotify.com/album/3RrnJMe8E4SmVIzo393sLg) | 2:32 | 2024-05-24 |  |
 | [OHEMA \(with Crayon & Bella Shmurda\)](https://open.spotify.com/track/7CkDjDtJjCZA7AW7RBvrvC) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [OHEMA \(with Crayon & Bella Shmurda\)](https://open.spotify.com/album/6J9hIO03GDl5zU5BkI1DV6) | 3:25 | 2023-11-24 |  |
 | [Ojoro](https://open.spotify.com/track/1GRkRXs02w5QBSvq8E43Vr) | [Lawy B](https://open.spotify.com/artist/73UvUkgjuOrxEEC841is0T), [Berri\-Tiga](https://open.spotify.com/artist/3nJNGB59VvFcIeDHkGZnPB) | [Ojoro](https://open.spotify.com/album/5mc7QpLEbOUaG12iYD0C1g) | 2:34 | 2023-08-17 | 2023-09-08 |
 | [Ole \(feat\. BNXN\)](https://open.spotify.com/track/1KR2V2DQwUWMrwYOhQ2LLx) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Ole](https://open.spotify.com/album/1XPnkubgp63M9k5KsrMC7y) | 2:50 | 2023-07-20 | 2023-07-28 |
@@ -425,7 +426,7 @@
 | [Seek & Find \(feat\. Azanti\)](https://open.spotify.com/track/77jghFtCt5TBqaK7gutlrf) | [SuperSmashBroz](https://open.spotify.com/artist/4o05vkR7aQMnPRbAqVk13x), [Azanti](https://open.spotify.com/artist/72JYdP98St11Hga6yN2PGl) | [Seek & Find \(feat\. Azanti\)](https://open.spotify.com/album/6ZIig4udjxAl6Zs27aHtpg) | 3:36 | 2023-06-30 | 2023-07-21 |
 | [Sensational \(feat\. Davido & Lojay\)](https://open.spotify.com/track/5HM5trJxTouv3eUVcbW8sh) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Sensational \(feat\. Davido & Lojay\)](https://open.spotify.com/album/68nJVTjmRbl5se1eYTglBA) | 3:51 | 2023-10-23 |  |
 | [SETE REMIX \(feat\. Young Stunna, Diamond Platnumz & Oxlade\)](https://open.spotify.com/track/5YF4Kg3ksqyNqzbXDvR8mp) | [K.O](https://open.spotify.com/artist/3ilw3NJXRWd153LIBsme1z), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Young Stunna](https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ) | [SETE REMIX \(feat\. Young Stunna, Diamond Platnumz & Oxlade\)](https://open.spotify.com/album/04fBNopmMepdbuk96REyzW) | 4:12 | 2023-03-24 | 2023-10-12 |
-| [Señorita](https://open.spotify.com/track/2cVoUBlzLq5lY6fAHj3Pwr) | [DJ 808](https://open.spotify.com/artist/3SsrfKWSui6m0RYGGjP8Eg), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [808 Rhapsody](https://open.spotify.com/album/1uK5egVvMJTYZSVc1P7axG) | 2:29 | 2024-05-24 |  |
+| [Señorita](https://open.spotify.com/track/2cVoUBlzLq5lY6fAHj3Pwr) | [DJ 808](https://open.spotify.com/artist/3SsrfKWSui6m0RYGGjP8Eg), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [808 Rhapsody](https://open.spotify.com/album/1uK5egVvMJTYZSVc1P7axG) | 2:29 | 2024-05-24 | 2024-05-29 |
 | [Shakara](https://open.spotify.com/track/6XPPB2eOwBid6EbveTmVYe) | [Ice Prince](https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Shakara](https://open.spotify.com/album/2IAaPLIeM9CHUzqrTllGJI) | 3:20 | 2022-02-11 | 2023-03-16 |
 | [Sharp Attack](https://open.spotify.com/track/2W45RFSn0zM0eH0GFHimHS) | [Ninety](https://open.spotify.com/artist/221i8CC98rJBZAaMM9sGLK) | [Sharp Attack](https://open.spotify.com/album/0SjvPXWpMpndsohnyiS5n0) | 2:43 | 2023-09-09 | 2023-09-15 |
 | [Sharpally](https://open.spotify.com/track/19IAoqAkRQ5tC1U0p7SWpZ) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Sharpally](https://open.spotify.com/album/7adhYj6nGEGJots1OpYgdg) | 2:43 | 2023-07-20 |  |

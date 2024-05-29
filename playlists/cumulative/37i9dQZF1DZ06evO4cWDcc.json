@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-11-05",
-  "description": "This is Jimi Hendrix. The essential tracks, all in one playlist.",
+  "description": "This Is Jimi Hendrix. Los temas esenciales, todos en una lista.",
   "name": "This Is Jimi Hendrix",
   "tracks": [
     {
@@ -52,7 +52,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-29",
       "duration_ms": 240800,
       "name": "All Along the Watchtower",
       "url": "https://open.spotify.com/track/2aoo2jlRnM3A0NyLQqMN2f"
@@ -182,7 +182,7 @@
       ],
       "date_added": "2022-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-28",
+      "date_removed": null,
       "duration_ms": 219613,
       "name": "Burning of the Midnight Lamp",
       "url": "https://open.spotify.com/track/36SULeBeglappJysOY6WzQ"
@@ -200,7 +200,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-28",
+      "date_removed": null,
       "duration_ms": 168920,
       "name": "Castles Made of Sand",
       "url": "https://open.spotify.com/track/3qebSLgUwaEqbwCM5sj5Kh"
@@ -290,7 +290,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-29",
       "duration_ms": 146573,
       "name": "Crosstown Traffic",
       "url": "https://open.spotify.com/track/1ntxpzIUbSsizvuAy6lTYY"
@@ -528,7 +528,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-29",
       "duration_ms": 130039,
       "name": "Have You Ever Been (To Electric Ladyland)",
       "url": "https://open.spotify.com/track/3Yh64aiu2ANBwDFztyPDkT"
@@ -834,7 +834,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-09",
+      "date_removed": null,
       "duration_ms": 172200,
       "name": "Little Miss Strange",
       "url": "https://open.spotify.com/track/1jhH7vvy8hoHuc0mGuZsLX"
@@ -870,7 +870,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-28",
+      "date_removed": null,
       "duration_ms": 207760,
       "name": "Long Hot Summer Night",
       "url": "https://open.spotify.com/track/1HFj7yC7uZfqjWuoH6DO9r"
@@ -1324,7 +1324,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-29",
       "duration_ms": 177866,
       "name": "Up From The Skies",
       "url": "https://open.spotify.com/track/4oarDDCWsSnX2WOIRKuQo1"

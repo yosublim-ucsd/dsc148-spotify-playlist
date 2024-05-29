@@ -1,13 +1,105 @@
 {
   "description": "KARENT\u30ec\u30fc\u30d9\u30eb\u3067\u914d\u4fe1\u4e2d\u306e\u697d\u66f2\u306e\u4e2d\u304b\u3089\u3001\u30af\u30e9\u30d6\u3067\u8074\u304d\u305f\u3044\u30af\u30fc\u30eb\u306a\u30dc\u30ab\u30ed\u66f2\u3092\u9078\u66f2\u3002\u6bce\u9031\u66f4\u65b0\u3002",
-  "num_followers": 122,
+  "num_followers": 123,
   "original_name": "KARENT\u30bb\u30ec\u30af\u30b7\u30e7\u30f3 Midnight Club",
   "owner": {
     "name": "KARENT official",
     "url": "https://open.spotify.com/user/9inet8qxlhk6sqmpad4tg3gjd"
   },
-  "snapshot_id": "AAADKmp6uRmG2ynqgZbmAXVvx1CY7m45",
+  "snapshot_id": "AAADM+ViRMf5PlApr+rL3xfvfF/aFTp+",
   "tracks": [
+    {
+      "added_at": "2024-05-28 03:02:06",
+      "album": {
+        "name": "Swingy Lady Satisfaction",
+        "url": "https://open.spotify.com/album/2HftTm73oPuOVW44JAsqWJ"
+      },
+      "artists": [
+        {
+          "name": "Rulmry.",
+          "url": "https://open.spotify.com/artist/5AVRmAGc8Z21NXZ1UUxySt"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "duration_ms": 152071,
+      "name": "SwingyLadySatisfaction (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/67J7B2vxNiT5XiMfxJhru9"
+    },
+    {
+      "added_at": "2024-05-28 03:06:55",
+      "album": {
+        "name": "WANOPO REMIXES\u201902 [MINUS-P PLAYED]",
+        "url": "https://open.spotify.com/album/6ppEjYUR7xtd7rUjIN1ie6"
+      },
+      "artists": [
+        {
+          "name": "Wonderful\u2605opportunity!",
+          "url": "https://open.spotify.com/artist/114kd9ePvOgHBUp18vMF4B"
+        },
+        {
+          "name": "Kagamine Len",
+          "url": "https://open.spotify.com/artist/2GXfF7OsKmE87OBfZ69cFY"
+        }
+      ],
+      "duration_ms": 182366,
+      "name": "\u304f\u308b\u3063\u3061\u307e\u3063\u305f\u3042\u305f\u307e\u306b\u308f -\u5316 Remix- (feat. \u93e1\u97f3\u30ec\u30f3)",
+      "url": "https://open.spotify.com/track/3Ao7mpypJQYHD3fpfkFElv"
+    },
+    {
+      "added_at": "2024-05-28 03:07:33",
+      "album": {
+        "name": "SPIKE U",
+        "url": "https://open.spotify.com/album/37iJSRDF8QRx3enTXgpXWe"
+      },
+      "artists": [
+        {
+          "name": "tekalu",
+          "url": "https://open.spotify.com/artist/15kivPrbU8SkQsiSkNXqFN"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "duration_ms": 218153,
+      "name": "SPIKE U (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/6vdTupCh83GuJQQb5j08Eh"
+    },
+    {
+      "added_at": "2024-05-28 03:07:49",
+      "album": {
+        "name": "SOULUKATRAIN",
+        "url": "https://open.spotify.com/album/7K5glwqAQ7JixfUJpbGcw6"
+      },
+      "artists": [
+        {
+          "name": "\u308a\u3087\u3046@\u30b7\u30e3\u30ec\u30aa\u30c4P",
+          "url": "https://open.spotify.com/artist/6lHZa0EOP91DjrOuzdhrPM"
+        }
+      ],
+      "duration_ms": 338888,
+      "name": "Energy_Vampire",
+      "url": "https://open.spotify.com/track/5qjibqsaVebgOyvbXFroOu"
+    },
+    {
+      "added_at": "2024-05-28 03:13:53",
+      "album": {
+        "name": "Story Rider feat.\u521d\u97f3\u30df\u30af",
+        "url": "https://open.spotify.com/album/3ZYWOkdGQMUxiTo0nFxZz4"
+      },
+      "artists": [
+        {
+          "name": "Lip Sync Records",
+          "url": "https://open.spotify.com/artist/7yz2ao0Sc0hgbVNrSvnmwY"
+        }
+      ],
+      "duration_ms": 269000,
+      "name": "Story Rider",
+      "url": "https://open.spotify.com/track/1hLmIbQqaBh4yjTBZkkGGI"
+    },
     {
       "added_at": "2024-05-21 08:03:17",
       "album": {
@@ -691,110 +783,6 @@
       "duration_ms": 263618,
       "name": "Summer Driver feat. \u521d\u97f3\u30df\u30af",
       "url": "https://open.spotify.com/track/2FGelEUGERGXQtarGLgEnn"
-    },
-    {
-      "added_at": "2024-03-05 06:22:40",
-      "album": {
-        "name": "\u3081\u3050\u308a\u30a2\u30a4",
-        "url": "https://open.spotify.com/album/5eNurOEbi4uUnfM7z5g8cw"
-      },
-      "artists": [
-        {
-          "name": "MURASAKI",
-          "url": "https://open.spotify.com/artist/3iC8uRRIPmnEXSTKmYQSBe"
-        },
-        {
-          "name": "Megurine Luka",
-          "url": "https://open.spotify.com/artist/7HwMt9qpoww4yfE3D8886I"
-        }
-      ],
-      "duration_ms": 259764,
-      "name": "\u3081\u3050\u308a\u30a2\u30a4 (feat. \u5de1\u97f3\u30eb\u30ab)",
-      "url": "https://open.spotify.com/track/2486peW3yDIniGQ7lO8FFv"
-    },
-    {
-      "added_at": "2024-03-05 06:22:59",
-      "album": {
-        "name": "Encounter",
-        "url": "https://open.spotify.com/album/5QQXW8R9eblyPKASiRrXoU"
-      },
-      "artists": [
-        {
-          "name": "Orangestar",
-          "url": "https://open.spotify.com/artist/420aixNZr4paRQmuRXz3DS"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
-        }
-      ],
-      "duration_ms": 171789,
-      "name": "Encounter (feat. \u521d\u97f3\u30df\u30af)",
-      "url": "https://open.spotify.com/track/4UlSZ0myiMRUlmIE3fwPC1"
-    },
-    {
-      "added_at": "2024-03-05 06:23:13",
-      "album": {
-        "name": "\u3010\u597d\u304d\u306a\u4eba\u3011\u660f\u7761\u3055\u305b\u3066\u307f\u305f",
-        "url": "https://open.spotify.com/album/2fJNzp0Vpd0mzRDN41SIq8"
-      },
-      "artists": [
-        {
-          "name": "\u307f\u3064\u3042\u304f\u307e",
-          "url": "https://open.spotify.com/artist/07CEMzeMoCr76xtB6iglc0"
-        },
-        {
-          "name": "\u6b4c\u611b\u30e6\u30ad",
-          "url": "https://open.spotify.com/artist/5NB3uGRtuXv54usQyxe60r"
-        },
-        {
-          "name": "\u30e1\u30b0\u30c3\u30dd\u30a4\u30c9",
-          "url": "https://open.spotify.com/artist/36JmKF8ae9cmpYmbL5fZXD"
-        }
-      ],
-      "duration_ms": 125624,
-      "name": "\u3010\u597d\u304d\u306a\u4eba\u3011\u660f\u7761\u3055\u305b\u3066\u307f\u305f (feat. \u6b4c\u611b\u30e6\u30ad&\u30e1\u30b0\u30c3\u30dd\u30a4\u30c9)",
-      "url": "https://open.spotify.com/track/1urpge5GV7qIheMROF6mV2"
-    },
-    {
-      "added_at": "2024-03-05 06:23:32",
-      "album": {
-        "name": "\u8af8\u884c\u7121\u5e38",
-        "url": "https://open.spotify.com/album/4hNDay1ENEmY4LMpkSS5uz"
-      },
-      "artists": [
-        {
-          "name": "UtopiaLyric",
-          "url": "https://open.spotify.com/artist/51gCPcdwzpdNCoD1k65iFr"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
-        }
-      ],
-      "duration_ms": 154067,
-      "name": "\u8af8\u884c\u7121\u5e38 (feat. \u521d\u97f3\u30df\u30af)",
-      "url": "https://open.spotify.com/track/77NUzKGJv7vhL4byvAasNq"
-    },
-    {
-      "added_at": "2024-03-05 06:23:52",
-      "album": {
-        "name": "PIECE OF POPSTAR",
-        "url": "https://open.spotify.com/album/2tjtUGSE2jkEV6rcObXvTV"
-      },
-      "artists": [
-        {
-          "name": "OZON",
-          "url": "https://open.spotify.com/artist/6OfX0R0AowSJJvGGgUnhfz"
-        },
-        {
-          "name": "MEIKO",
-          "url": "https://open.spotify.com/artist/2IkmuwBBKvBWsJjzyUsvhp"
-        }
-      ],
-      "duration_ms": 184291,
-      "name": "\u3089\u305a\u3079\u308a! (feat. MEIKO)",
-      "url": "https://open.spotify.com/track/0lsgFVTq7gwpXtF00B85s7"
     }
   ],
   "unique_name": "KARENT\u30bb\u30ec\u30af\u30b7\u30e7\u30f3 Midnight Club",

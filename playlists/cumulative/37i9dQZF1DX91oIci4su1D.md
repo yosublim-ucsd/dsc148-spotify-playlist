@@ -4,7 +4,7 @@
 
 > Setting sights on banging <a href="spotify:genre:0JQ5DAqbMKFFfBKlpu08ru">trance and progressive</a>.
 
-905 songs - 2 day 6 hr 48 min
+906 songs - 2 day 6 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,7 +170,7 @@
 | [Connect](https://open.spotify.com/track/5hsZSzw7EVCbo1LHfC6PjO) | [Ferry Corsten](https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP) | [Connect](https://open.spotify.com/album/0XslhPY02zCbmuL0KtVFVT) | 3:19 | 2023-04-29 | 2024-05-18 |
 | [Connected](https://open.spotify.com/track/5eAYZBLL3vOUrWrVRaBXtj) | [Cold Blue](https://open.spotify.com/artist/3mbjJqO86kx786znlhmTrF), [Nikolauss](https://open.spotify.com/artist/1JIkYqcBd6oK502lNnLeid) | [Connected](https://open.spotify.com/album/6ptKD3K2JuwUhWD6kt3VRu) | 3:33 | 2022-01-21 | 2023-02-25 |
 | [Connected](https://open.spotify.com/track/5fxLr471q7IQa6naTJeRT8) | [GXD](https://open.spotify.com/artist/3XWFA55Hf9Q4YS8AHsfnH8), [James Christian](https://open.spotify.com/artist/3yu4kkjn0ALOKUvhcBx4O1), [Scar](https://open.spotify.com/artist/7HZbKBp2NNdcIu0fm6Qd6P) | [Connected](https://open.spotify.com/album/7340Y23yrYbYQ2E9QDQS3a) | 3:21 | 2022-05-06 | 2022-07-25 |
-| [Conscious](https://open.spotify.com/track/1GjVHzIOOA8naSpkSbwQ11) | [Dustin Husain](https://open.spotify.com/artist/0klIzsZViJgJcCX4Wh0qKl) | [Conscious](https://open.spotify.com/album/3VSYfXlXEjMKMp1EyBWLiP) | 2:57 | 2023-07-07 |  |
+| [Conscious](https://open.spotify.com/track/1GjVHzIOOA8naSpkSbwQ11) | [Dustin Husain](https://open.spotify.com/artist/0klIzsZViJgJcCX4Wh0qKl) | [Conscious](https://open.spotify.com/album/3VSYfXlXEjMKMp1EyBWLiP) | 2:57 | 2023-07-07 | 2024-05-29 |
 | [Constancy](https://open.spotify.com/track/0AkEFT8vseHBEog0alLJbo) | [Mino Safy](https://open.spotify.com/artist/2YwWtaaaCMDirSz0qfxjE5) | [Constancy](https://open.spotify.com/album/3kEVfGFVUOtE8YshBabPYV) | 3:44 | 2022-05-06 | 2022-05-10 |
 | [Constellations](https://open.spotify.com/track/5QT3JLV90my9oISLK26xDe) | [Maor Levi](https://open.spotify.com/artist/7iVuXpgNEl87BwdwV1L6he) | [Constellations](https://open.spotify.com/album/7ftdQIAvvmrqDlvVGgp6Bm) | 3:33 | 2021-12-17 | 2022-02-26 |
 | [Contrast](https://open.spotify.com/track/6ND5LGkeitafW7tM7I4oND) | [Victor Ruiz](https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z), [Modeā](https://open.spotify.com/artist/6dsy10LVNALrvHyVEadrsJ) | [Bloom](https://open.spotify.com/album/55g3kFOFsp00P2cHNJWvwD) | 4:28 | 2023-10-13 | 2024-05-28 |
@@ -304,6 +304,7 @@
 | [Forever Young](https://open.spotify.com/track/5SNg13REo7ed6Dm0sXGgz8) | [LÜRUM](https://open.spotify.com/artist/1Vvf6trCvl5ip6tARuClxO) | [Forever Young](https://open.spotify.com/album/3nsCfqGPYeibfc4sidOnX7) | 3:15 | 2023-12-15 |  |
 | [Forgiven Not Forgotten](https://open.spotify.com/track/3WPkQDALdIsNZ1SY6bn9u2) | [Armage](https://open.spotify.com/artist/5osCJde09pUw1QmfuhX4Fb), [Tiff Lacey](https://open.spotify.com/artist/6wmyaMNIjZ26DmwgQDWKoE) | [Forgiven Not Forgotten](https://open.spotify.com/album/1AVr7oXAZMBisRjZWiM4dU) | 3:48 | 2023-02-24 | 2023-06-10 |
 | [Freak Of The Week](https://open.spotify.com/track/6ftO5bAiMPsUcRs6fgKWfW) | [Will Atkinson](https://open.spotify.com/artist/5FXLHhKgStv36wfwXMhTWt) | [Freak Of The Week](https://open.spotify.com/album/6tMyIEtJXxEwcyn6lwRh7R) | 3:24 | 2023-01-13 | 2023-10-14 |
+| [Free](https://open.spotify.com/track/42XxS1fl9LZLCQ2uWouJON) | [Ruben de Ronde](https://open.spotify.com/artist/3q7BRw9D1DupXTONJdr94m), [BetweenUs](https://open.spotify.com/artist/2kHgZ7ViQ4qpvADuz1TrlK) | [Free](https://open.spotify.com/album/4hbH1LtueadTf78xrnRq7B) | 3:26 | 2024-05-24 |  |
 | [Free Souls \- Ben van Gosh Radio Remix](https://open.spotify.com/track/5ZfnLl8eUqclVeeWEuVFKf) | [Rino da Silva](https://open.spotify.com/artist/2ibnhSzey2ccuc6zK2RnaX), [Dj JayCan](https://open.spotify.com/artist/5o0TswhbXTxETEku1LykPI), [Ben van Gosh](https://open.spotify.com/artist/5WxMepclqVugrypST9F5UE) | [Free Souls](https://open.spotify.com/album/6b1TRUDeZcu9k6BGlf7xWt) | 3:52 | 2022-02-04 | 2022-07-19 |
 | [Free Your Soul](https://open.spotify.com/track/1i07sRwLRVMLp4QCuR8U3u) | [Spada](https://open.spotify.com/artist/2hPCF7VDHhihvNdobslOHw), [Klara Sestiniova](https://open.spotify.com/artist/0HiQZHV1PTmy0KBEXaMxzI) | [Free Your Soul](https://open.spotify.com/album/20HSSHpxaaxAHUYjCKA86p) | 3:18 | 2024-05-24 |  |
 | [Freefall](https://open.spotify.com/track/14Sem72fs33QFbUXoPohIA) | [Tomas Skyldeberg](https://open.spotify.com/artist/3yeLWKlxZaq5grWz85s0Ef) | [The Archive, Pt\. 1](https://open.spotify.com/album/30qXKFOhZgZak8pwONu1Cl) | 2:56 | 2022-07-15 | 2023-06-10 |

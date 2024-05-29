@@ -1,12 +1,12 @@
 {
   "description": "This Is Heroes Del Silencio. Los temas esenciales, todos en una lista.",
-  "num_followers": 185564,
+  "num_followers": 185637,
   "original_name": "This Is Heroes Del Silencio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlJ7gAAAAADw+tyG6kOOQgT2MPE7rRpB",
+  "snapshot_id": "ZlPNAAAAAAD+dQj0vP8hCZ7GbLduooRY",
   "tracks": [
     {
       "added_at": null,
@@ -139,22 +139,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Senderos De Traici\u00f3n - Edici\u00f3n Especial",
-        "url": "https://open.spotify.com/album/7DAoA2gOvycforLAKyFD8Y"
-      },
-      "artists": [
-        {
-          "name": "Heroes Del Silencio",
-          "url": "https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT"
-        }
-      ],
-      "duration_ms": 229266,
-      "name": "Malas intenciones",
-      "url": "https://open.spotify.com/track/7Fi4oyVjarzUUZHTUwS3Wu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Avalancha",
         "url": "https://open.spotify.com/album/3AikSptzlt3YvobRSMqL68"
       },
@@ -187,22 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tour 2007",
-        "url": "https://open.spotify.com/album/7agRISos8iXzrqsCQ8Owg6"
-      },
-      "artists": [
-        {
-          "name": "Heroes Del Silencio",
-          "url": "https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT"
-        }
-      ],
-      "duration_ms": 280560,
-      "name": "El estanque - Live",
-      "url": "https://open.spotify.com/track/2vrVlidqD4TPASvwqlBztv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Senderos De Traici\u00f3n - Edici\u00f3n Especial",
         "url": "https://open.spotify.com/album/7DAoA2gOvycforLAKyFD8Y"
       },
@@ -215,6 +183,22 @@
       "duration_ms": 256546,
       "name": "Con nombre de guerra",
       "url": "https://open.spotify.com/track/2W0SOlPRDSxLLbMNR9tR7P"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tour 2007",
+        "url": "https://open.spotify.com/album/7agRISos8iXzrqsCQ8Owg6"
+      },
+      "artists": [
+        {
+          "name": "Heroes Del Silencio",
+          "url": "https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT"
+        }
+      ],
+      "duration_ms": 280560,
+      "name": "El estanque - Live",
+      "url": "https://open.spotify.com/track/2vrVlidqD4TPASvwqlBztv"
     },
     {
       "added_at": null,
@@ -244,25 +228,9 @@
           "url": "https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT"
         }
       ],
-      "duration_ms": 233240,
-      "name": "Senda",
-      "url": "https://open.spotify.com/track/1sgk7dkImoLiq4XZU8JZE2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Platinum Collection",
-        "url": "https://open.spotify.com/album/6EdwaXDANI01KsWzOyLFt3"
-      },
-      "artists": [
-        {
-          "name": "Heroes Del Silencio",
-          "url": "https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT"
-        }
-      ],
-      "duration_ms": 414920,
-      "name": "La herida",
-      "url": "https://open.spotify.com/track/2aegLCwIWlVYvCjUf641Qr"
+      "duration_ms": 229266,
+      "name": "Malas intenciones",
+      "url": "https://open.spotify.com/track/40FYFRru7SwWt61q6OEUjK"
     },
     {
       "added_at": null,
@@ -279,6 +247,22 @@
       "duration_ms": 248586,
       "name": "Oraci\u00f3n",
       "url": "https://open.spotify.com/track/2y2EIt9PIGMXcxufDBkU9v"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Platinum Collection",
+        "url": "https://open.spotify.com/album/6EdwaXDANI01KsWzOyLFt3"
+      },
+      "artists": [
+        {
+          "name": "Heroes Del Silencio",
+          "url": "https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT"
+        }
+      ],
+      "duration_ms": 414920,
+      "name": "La herida",
+      "url": "https://open.spotify.com/track/2aegLCwIWlVYvCjUf641Qr"
     },
     {
       "added_at": null,
@@ -308,9 +292,9 @@
           "url": "https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT"
         }
       ],
-      "duration_ms": 172133,
-      "name": "Despertar",
-      "url": "https://open.spotify.com/track/5nteRi2u2D46hYxA79LPqA"
+      "duration_ms": 233240,
+      "name": "Senda",
+      "url": "https://open.spotify.com/track/1sgk7dkImoLiq4XZU8JZE2"
     },
     {
       "added_at": null,
@@ -359,6 +343,22 @@
       "duration_ms": 285560,
       "name": "En brazos de la fiebre",
       "url": "https://open.spotify.com/track/7LGH6CjdyJAFxzuqcGF381"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Senderos De Traici\u00f3n",
+        "url": "https://open.spotify.com/album/6PsBAHuQ8mzQ0VNrTkXazg"
+      },
+      "artists": [
+        {
+          "name": "Heroes Del Silencio",
+          "url": "https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT"
+        }
+      ],
+      "duration_ms": 172133,
+      "name": "Despertar",
+      "url": "https://open.spotify.com/track/5nteRi2u2D46hYxA79LPqA"
     },
     {
       "added_at": null,
@@ -591,8 +591,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Senderos De Traici\u00f3n",
-        "url": "https://open.spotify.com/album/6PsBAHuQ8mzQ0VNrTkXazg"
+        "name": "Rarezas",
+        "url": "https://open.spotify.com/album/40IpNBUT1eth8c6UTOrBxh"
       },
       "artists": [
         {
@@ -600,9 +600,9 @@
           "url": "https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT"
         }
       ],
-      "duration_ms": 246733,
-      "name": "El cuadro II",
-      "url": "https://open.spotify.com/track/3NpOxII1eBUhQ12y8MA8UJ"
+      "duration_ms": 264573,
+      "name": "Babel",
+      "url": "https://open.spotify.com/track/6GvY4JaGqmUwFbgAUCSvFD"
     },
     {
       "added_at": null,
@@ -619,22 +619,6 @@
       "duration_ms": 338533,
       "name": "El camino del exceso - 2012 Remastered Version",
       "url": "https://open.spotify.com/track/3RazmaCGFiOkLQJW1uOjyU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rarezas",
-        "url": "https://open.spotify.com/album/40IpNBUT1eth8c6UTOrBxh"
-      },
-      "artists": [
-        {
-          "name": "Heroes Del Silencio",
-          "url": "https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT"
-        }
-      ],
-      "duration_ms": 264573,
-      "name": "Babel",
-      "url": "https://open.spotify.com/track/6GvY4JaGqmUwFbgAUCSvFD"
     },
     {
       "added_at": null,
@@ -671,22 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Esp\u00edritu del Vino-20th Anniversary Edition",
-        "url": "https://open.spotify.com/album/46OqhyoVeC27eY4keJehHa"
-      },
-      "artists": [
-        {
-          "name": "Heroes Del Silencio",
-          "url": "https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT"
-        }
-      ],
-      "duration_ms": 318840,
-      "name": "Sangre hirviendo - 2012 Remastered Version",
-      "url": "https://open.spotify.com/track/0Y01aV2CFzCawjqFIArGmB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rarezas",
         "url": "https://open.spotify.com/album/40IpNBUT1eth8c6UTOrBxh"
       },
@@ -699,6 +667,22 @@
       "duration_ms": 276973,
       "name": "Virus",
       "url": "https://open.spotify.com/track/6vUINIQYy3HylQfwQTrcWL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Esp\u00edritu del Vino-20th Anniversary Edition",
+        "url": "https://open.spotify.com/album/46OqhyoVeC27eY4keJehHa"
+      },
+      "artists": [
+        {
+          "name": "Heroes Del Silencio",
+          "url": "https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT"
+        }
+      ],
+      "duration_ms": 318840,
+      "name": "Sangre hirviendo - 2012 Remastered Version",
+      "url": "https://open.spotify.com/track/0Y01aV2CFzCawjqFIArGmB"
     },
     {
       "added_at": null,
@@ -735,22 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Esp\u00edritu del Vino-20th Anniversary Edition",
-        "url": "https://open.spotify.com/album/46OqhyoVeC27eY4keJehHa"
-      },
-      "artists": [
-        {
-          "name": "Heroes Del Silencio",
-          "url": "https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT"
-        }
-      ],
-      "duration_ms": 395560,
-      "name": "Culpable - 2012 Remastered Version",
-      "url": "https://open.spotify.com/track/3gs5RdZYD7bUJs8eZNUYfU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rarezas",
         "url": "https://open.spotify.com/album/40IpNBUT1eth8c6UTOrBxh"
       },
@@ -763,6 +731,22 @@
       "duration_ms": 159213,
       "name": "El cuadro",
       "url": "https://open.spotify.com/track/4NqE2hU5HW6tTkYGd4qpgu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Esp\u00edritu del Vino-20th Anniversary Edition",
+        "url": "https://open.spotify.com/album/46OqhyoVeC27eY4keJehHa"
+      },
+      "artists": [
+        {
+          "name": "Heroes Del Silencio",
+          "url": "https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT"
+        }
+      ],
+      "duration_ms": 395560,
+      "name": "Culpable - 2012 Remastered Version",
+      "url": "https://open.spotify.com/track/3gs5RdZYD7bUJs8eZNUYfU"
     },
     {
       "added_at": null,
@@ -811,6 +795,22 @@
       "duration_ms": 245413,
       "name": "Parasiempre",
       "url": "https://open.spotify.com/track/60iCTsV9HhgNQ6p0reBXHb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Avalancha- Edici\u00f3n Especial",
+        "url": "https://open.spotify.com/album/5e1v1vALoEYeOLFaFwmxi4"
+      },
+      "artists": [
+        {
+          "name": "Heroes Del Silencio",
+          "url": "https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT"
+        }
+      ],
+      "duration_ms": 225226,
+      "name": "...Y para siempre",
+      "url": "https://open.spotify.com/track/6D7gPrYpET9NhpowaUFT2E"
     }
   ],
   "unique_name": "This Is Heroes Del Silencio",

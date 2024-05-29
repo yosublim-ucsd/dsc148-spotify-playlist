@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-27",
-  "description": "This is Cage The Elephant. The essential tracks, all in one playlist.",
+  "description": "This Is Cage The Elephant. Los temas esenciales, todos en una lista.",
   "name": "This Is Cage The Elephant",
   "tracks": [
     {
@@ -196,7 +196,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-28",
+      "date_removed": null,
       "duration_ms": 208760,
       "name": "Cigarette Daydreams",
       "url": "https://open.spotify.com/track/2tznHmp70DxMyr2XhWLOW0"
@@ -340,10 +340,28 @@
       ],
       "date_added": "2024-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-29",
       "duration_ms": 186466,
       "name": "Good Time",
       "url": "https://open.spotify.com/track/5HuLnaRoHZTcgu2GMAbLGJ"
+    },
+    {
+      "album": {
+        "name": "Neon Pill",
+        "url": "https://open.spotify.com/album/2dGlEut1TyhAyApZ0ADIsd"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "date_added": "2024-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186466,
+      "name": "Good Time",
+      "url": "https://open.spotify.com/track/5WLghRISj6S0G3OziVTaa9"
     },
     {
       "album": {
@@ -412,7 +430,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-29",
       "duration_ms": 248986,
       "name": "Hypocrite",
       "url": "https://open.spotify.com/track/1PmaWG47wJRCIOM9v8Bauo"
@@ -614,7 +632,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-29",
       "duration_ms": 200466,
       "name": "Out Loud",
       "url": "https://open.spotify.com/track/0Mo9W96HOzxpgTZsn8DpPF"

@@ -82,7 +82,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-29",
       "duration_ms": 162285,
       "name": "Aaja Baija Tu (Acoustic) [From \"Brand Bollywood Downunder\"]",
       "url": "https://open.spotify.com/track/05QSnz2l3DhwciiKegHcgs"
@@ -506,7 +506,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-29",
       "duration_ms": 82152,
       "name": "Andhere Ka Sawera",
       "url": "https://open.spotify.com/track/75vCRbmPdxOKzkkLDpgLCU"
@@ -1248,7 +1248,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-29",
       "duration_ms": 181997,
       "name": "Chupke Se",
       "url": "https://open.spotify.com/track/5L0MhrWySbzU5qgo0Zjhvo"
@@ -1751,6 +1751,28 @@
     },
     {
       "album": {
+        "name": "Garuudaa On The Terrace - Season 1",
+        "url": "https://open.spotify.com/album/5IPTiG6QY5rjrki3MR4S3x"
+      },
+      "artists": [
+        {
+          "name": "Shekhar Ravjiani",
+          "url": "https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw"
+        },
+        {
+          "name": "Shivam-Anuj",
+          "url": "https://open.spotify.com/artist/42IqpkdFAQHbi23kCD6cBg"
+        }
+      ],
+      "date_added": "2024-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169500,
+      "name": "Fly Fly Away (Reprise)",
+      "url": "https://open.spotify.com/track/76MZxG3G1KFr6FGIJ9OGAp"
+    },
+    {
+      "album": {
         "name": "Ghulaam",
         "url": "https://open.spotify.com/album/0hb54jsDgeXIH0kvER8ezp"
       },
@@ -1974,6 +1996,32 @@
       "duration_ms": 235000,
       "name": "Heer Ranjha (Reprise)",
       "url": "https://open.spotify.com/track/1bqUw1KWD8e9SiZx9vXTNh"
+    },
+    {
+      "album": {
+        "name": "Garuudaa On The Terrace - Season 1",
+        "url": "https://open.spotify.com/album/5IPTiG6QY5rjrki3MR4S3x"
+      },
+      "artists": [
+        {
+          "name": "Shekhar Ravjiani",
+          "url": "https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw"
+        },
+        {
+          "name": "Shivam-Anuj",
+          "url": "https://open.spotify.com/artist/42IqpkdFAQHbi23kCD6cBg"
+        },
+        {
+          "name": "AKASA",
+          "url": "https://open.spotify.com/artist/4mRPyvdSBxARQIFeXXM13s"
+        }
+      ],
+      "date_added": "2024-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188543,
+      "name": "Hello Soneya",
+      "url": "https://open.spotify.com/track/1O2UBEsK0WMW77T04J8xW4"
     },
     {
       "album": {
@@ -6560,6 +6608,32 @@
       "duration_ms": 195000,
       "name": "Yaad",
       "url": "https://open.spotify.com/track/7r0CegHHWW1c5R1F9DfLLr"
+    },
+    {
+      "album": {
+        "name": "Garuudaa On The Terrace - Season 1",
+        "url": "https://open.spotify.com/album/5IPTiG6QY5rjrki3MR4S3x"
+      },
+      "artists": [
+        {
+          "name": "Shekhar Ravjiani",
+          "url": "https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw"
+        },
+        {
+          "name": "Shivam-Anuj",
+          "url": "https://open.spotify.com/artist/42IqpkdFAQHbi23kCD6cBg"
+        },
+        {
+          "name": "Rajat Arora",
+          "url": "https://open.spotify.com/artist/2ubmAXEE8tHwcw8xRHDSh7"
+        }
+      ],
+      "date_added": "2024-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181500,
+      "name": "Yaad (Reprise)",
+      "url": "https://open.spotify.com/track/1QqMKubCADpWOO7jBAkVXi"
     },
     {
       "album": {

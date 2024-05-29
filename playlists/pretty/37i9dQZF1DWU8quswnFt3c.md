@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to women at full volume from across the world\. Cover: Ayra Starr
 
-[Spotify](https://open.spotify.com/user/spotify) - 930,554 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 930,787 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,9 +38,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 28 | [Selamanya](https://open.spotify.com/track/4nP7xWXJh7qzszFlUDpVPx) | [Satine Zaneta](https://open.spotify.com/artist/6knRMh5dYEPnItzvpOJk2j) | [Selamanya](https://open.spotify.com/album/4HBb3TgaurAxPuxwcSd49c) | 3:55 |
 | 29 | [La Favorita](https://open.spotify.com/track/1fs0B7vCAE5dlURxGjemaz) | [Charly Gynn](https://open.spotify.com/artist/3ozO2Uj1PEP2h2SzFVTgYT), [Dj Drewther](https://open.spotify.com/artist/2k0GqjU0ypOK1ishkR8Ppx) | [La Favorita](https://open.spotify.com/album/2EiAciiIIPxFolBFBt463I) | 2:25 |
 | 30 | [Pretty girl swag](https://open.spotify.com/track/4r7sb62uw7njf1L0lLnaq7) | [María Escarmiento](https://open.spotify.com/artist/7sRtI3bMrrgSFkNs2jFHrl) | [Pretty girl swag](https://open.spotify.com/album/7pKCsf7DoHW7UaN5QcX9Zo) | 2:42 |
-| 31 | [Whiskey](https://open.spotify.com/track/0fwQ9azMBpJHQ8pzDl9I9i) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Whiskey](https://open.spotify.com/album/2YyLl4pOkP4RWJIphfcAr8) | 5:07 |
-| 32 | [Illeg\*lis party](https://open.spotify.com/track/45D2eYiMaCKXGBIaDdepqV) | [ajsa luna](https://open.spotify.com/artist/0PmmEd4m9BdqzxjMpMQwJE), [ANUBII$](https://open.spotify.com/artist/13Et80WfHLQ1cBn2YTQ7Zd), [Beton.Hofi](https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y) | [ILLEG\*LIS PARTYK](https://open.spotify.com/album/6uyJvmYnCoZ64sGKTAxD8B) | 2:38 |
-| 33 | [MOONLIGHT](https://open.spotify.com/track/6BUoPkRrqMIKBqFNbSFpFM) | [LUNAS](https://open.spotify.com/artist/3nrWlcpQsthFyjL3X9iJvz) | [MOONLIGHT](https://open.spotify.com/album/5h9yK7t12CJ3gfmdkuBvL3) | 3:12 |
+| 31 | [MOONLIGHT](https://open.spotify.com/track/6BUoPkRrqMIKBqFNbSFpFM) | [LUNAS](https://open.spotify.com/artist/3nrWlcpQsthFyjL3X9iJvz) | [MOONLIGHT](https://open.spotify.com/album/5h9yK7t12CJ3gfmdkuBvL3) | 3:12 |
+| 32 | [Whiskey](https://open.spotify.com/track/0fwQ9azMBpJHQ8pzDl9I9i) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Whiskey](https://open.spotify.com/album/2YyLl4pOkP4RWJIphfcAr8) | 5:07 |
+| 33 | [Illeg\*lis party](https://open.spotify.com/track/45D2eYiMaCKXGBIaDdepqV) | [ajsa luna](https://open.spotify.com/artist/0PmmEd4m9BdqzxjMpMQwJE), [ANUBII$](https://open.spotify.com/artist/13Et80WfHLQ1cBn2YTQ7Zd), [Beton.Hofi](https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y) | [ILLEG\*LIS PARTYK](https://open.spotify.com/album/6uyJvmYnCoZ64sGKTAxD8B) | 2:38 |
 | 34 | [Lembras\-te de mim? \(feat\. Carolina de Deus\)](https://open.spotify.com/track/0J7jhgo9b25MiltPJ4xdhy) | [Nena](https://open.spotify.com/artist/561qBVd91ZPE9yCURXt7BB), [CAROLINA DE DEUS](https://open.spotify.com/artist/0CwJCUfVGXjdMvyLzJNwFH) | [Lembras\-te de mim? \(feat\. Carolina de Deus\)](https://open.spotify.com/album/2WZOiUyx2FeSnmzdXWFhPs) | 3:14 |
 | 35 | [最美的光芒](https://open.spotify.com/track/4vE41pPfsf0KhYiHZdu6Ll) | [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ) | [最美的光芒](https://open.spotify.com/album/4k0lXnxGcxbqLKedTJFz9i) | 3:14 |
 | 36 | [I Wanna Go](https://open.spotify.com/track/4mh0uJSKznwt17Gj0A8BsJ) | [Armi Millare](https://open.spotify.com/artist/7bT6URJrhJleZUfkrysELD) | [I Wanna Go](https://open.spotify.com/album/0pefjgnSlK39AtVcDo9Xzd) | 3:10 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 45 | [Por Amor](https://open.spotify.com/track/6rwu6PTeXa9zyGzYameOWf) | [Marisa Liz](https://open.spotify.com/artist/2cM6v3lyiTwzu0lIDp1zMn) | [Mensagens de Amor](https://open.spotify.com/album/3dlWnKQ8MozKGiptJsMlII) | 3:54 |
 | 46 | [Sunflower](https://open.spotify.com/track/2MKUKzxL3U4bZ12QYhRS4i) | [Tamara Kramar](https://open.spotify.com/artist/5oUUInn3oIsijfbnrmlYhT) | [Sunflower](https://open.spotify.com/album/03g79cWftoGqwO48vn9wOn) | 3:23 |
 | 47 | [HYPNOTIC](https://open.spotify.com/track/2OtTD3gAHMkPKZK9BHZQ7p) | [REHMA](https://open.spotify.com/artist/528kmCx2HGqrT4G9sXCDuD) | [HYPNOTIC](https://open.spotify.com/album/2WkMvvfTTUXIKaBN5YqkpT) | 2:14 |
-| 48 | [Daydream](https://open.spotify.com/track/0ltdxjSWkeE4cmU2kRxzi1) | [Valeria Stoica](https://open.spotify.com/artist/1U0dn9EFyhTfKS4xvFrUSR) | [Daydream](https://open.spotify.com/album/572P9V0PZpvCp9FOM4wK6T) | 2:39 |
-| 49 | [On My Own](https://open.spotify.com/track/3qgcnHL76s9cRFfxKV3wba) | [Amaeya](https://open.spotify.com/artist/7LBhTlMPyB6xjAr8muuR56) | [On My Own](https://open.spotify.com/album/4kSJZyFKKmijrs6iGlhYEi) | 2:36 |
+| 48 | [On My Own](https://open.spotify.com/track/3qgcnHL76s9cRFfxKV3wba) | [Amaeya](https://open.spotify.com/artist/7LBhTlMPyB6xjAr8muuR56) | [On My Own](https://open.spotify.com/album/4kSJZyFKKmijrs6iGlhYEi) | 2:36 |
+| 49 | [Daydream](https://open.spotify.com/track/0ltdxjSWkeE4cmU2kRxzi1) | [Valeria Stoica](https://open.spotify.com/artist/1U0dn9EFyhTfKS4xvFrUSR) | [Daydream](https://open.spotify.com/album/572P9V0PZpvCp9FOM4wK6T) | 2:39 |
 | 50 | [Moushtaqa](https://open.spotify.com/track/4FpyysKYlKXHrG65ZmaK39) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Moushtaqa](https://open.spotify.com/album/3GZ6qeNYqCh7mLEUbDxz9f) | 4:23 |
 
 Snapshot ID: `Zk2RxgAAAAAwUqFNkRCMN4NBmWCyDgow`

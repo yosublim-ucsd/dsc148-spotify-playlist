@@ -1,6 +1,6 @@
 {
   "description": "Jesus Music but make it pon pon.  Get your fill of Afrobeats and Bible right here!  Cover: <a href=\"spotify:artist:58r1rB5t3VF5X6yXGPequV\">Maverick City Music</a> & <a href=\"spotify:artist:6008gjU9UTUCfLZoSun5SH\">Annatoria</a>",
-  "num_followers": 85905,
+  "num_followers": 85990,
   "original_name": "AfroGospel",
   "owner": {
     "name": "Spotify",
@@ -523,6 +523,22 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
+        "name": "Mon Dieu",
+        "url": "https://open.spotify.com/album/3j4XcPPW0QPOXfzt2ygnNd"
+      },
+      "artists": [
+        {
+          "name": "Emandiong",
+          "url": "https://open.spotify.com/artist/5Vvh5iDYvPE6EHhUZbgpBs"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "Mon Dieu",
+      "url": "https://open.spotify.com/track/7JPGrPIF6uDuyiWlTzfUYk"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
         "name": "Yesu (Jesus)",
         "url": "https://open.spotify.com/album/74jptpKQgDOKwRdNTMXToI"
       },
@@ -551,22 +567,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Mon Dieu",
-        "url": "https://open.spotify.com/album/3j4XcPPW0QPOXfzt2ygnNd"
-      },
-      "artists": [
-        {
-          "name": "Emandiong",
-          "url": "https://open.spotify.com/artist/5Vvh5iDYvPE6EHhUZbgpBs"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "Mon Dieu",
-      "url": "https://open.spotify.com/track/7JPGrPIF6uDuyiWlTzfUYk"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "Masterpiece",
         "url": "https://open.spotify.com/album/5IMs5K3abzKDtYofk0jmoQ"
       },
@@ -579,26 +579,6 @@
       "duration_ms": 187428,
       "name": "Masterpiece",
       "url": "https://open.spotify.com/track/53g5J8D6m8UREgQg0pUXKv"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "Dante Bowe",
-        "url": "https://open.spotify.com/album/0k2wJSus536g9a8w4AU0GG"
-      },
-      "artists": [
-        {
-          "name": "Dante Bowe",
-          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
-        },
-        {
-          "name": "Flavour",
-          "url": "https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo"
-        }
-      ],
-      "duration_ms": 207146,
-      "name": "Your Majesty",
-      "url": "https://open.spotify.com/track/1cNwtKvurBgKUzO4fqJRBR"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -627,6 +607,26 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
+        "name": "Dante Bowe",
+        "url": "https://open.spotify.com/album/0k2wJSus536g9a8w4AU0GG"
+      },
+      "artists": [
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        },
+        {
+          "name": "Flavour",
+          "url": "https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo"
+        }
+      ],
+      "duration_ms": 207146,
+      "name": "Your Majesty",
+      "url": "https://open.spotify.com/track/1cNwtKvurBgKUzO4fqJRBR"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
         "name": "Blessed Year",
         "url": "https://open.spotify.com/album/4UAyKYRIvD8Vj6BC4ZzxnW"
       },
@@ -647,26 +647,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Kumama Papa",
-        "url": "https://open.spotify.com/album/20GdacZdfLiQbve9FF8Xqu"
-      },
-      "artists": [
-        {
-          "name": "The Kiffness",
-          "url": "https://open.spotify.com/artist/6t41YgqHULlgOq9TK1kcrG"
-        },
-        {
-          "name": "Grace Lokwa",
-          "url": "https://open.spotify.com/artist/1ShPOU9aA4b68tOHBSz7sW"
-        }
-      ],
-      "duration_ms": 157161,
-      "name": "Kumama Papa",
-      "url": "https://open.spotify.com/track/2uHY9QxXldmXdbhvvEOf6J"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "Higher",
         "url": "https://open.spotify.com/album/5gCr6gapQlJfsruHPjdqPj"
       },
@@ -683,6 +663,26 @@
       "duration_ms": 162223,
       "name": "Higher",
       "url": "https://open.spotify.com/track/5hg8qrfIWqQkLBKSA4eK4j"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Kumama Papa",
+        "url": "https://open.spotify.com/album/20GdacZdfLiQbve9FF8Xqu"
+      },
+      "artists": [
+        {
+          "name": "The Kiffness",
+          "url": "https://open.spotify.com/artist/6t41YgqHULlgOq9TK1kcrG"
+        },
+        {
+          "name": "Grace Lokwa",
+          "url": "https://open.spotify.com/artist/1ShPOU9aA4b68tOHBSz7sW"
+        }
+      ],
+      "duration_ms": 157161,
+      "name": "Kumama Papa",
+      "url": "https://open.spotify.com/track/2uHY9QxXldmXdbhvvEOf6J"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -747,6 +747,22 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
+        "name": "Jesus loves me",
+        "url": "https://open.spotify.com/album/3lq6SNZrphTc6U6P1j5Xi4"
+      },
+      "artists": [
+        {
+          "name": "No\u00ebl Mio",
+          "url": "https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta"
+        }
+      ],
+      "duration_ms": 171651,
+      "name": "Jesus loves me",
+      "url": "https://open.spotify.com/track/7FSncmV4XrTj5r5eLp0pW9"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
         "name": "Holy Impact",
         "url": "https://open.spotify.com/album/04s7WRi21IjxJtt7dCjiQ5"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 139897,
       "name": "Working for My Good",
       "url": "https://open.spotify.com/track/7IwhWWrugXAMbbcyUrj2jg"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "Jesus loves me",
-        "url": "https://open.spotify.com/album/3lq6SNZrphTc6U6P1j5Xi4"
-      },
-      "artists": [
-        {
-          "name": "No\u00ebl Mio",
-          "url": "https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta"
-        }
-      ],
-      "duration_ms": 171651,
-      "name": "Jesus loves me",
-      "url": "https://open.spotify.com/track/7FSncmV4XrTj5r5eLp0pW9"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -859,26 +859,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Not Gonna Worry",
-        "url": "https://open.spotify.com/album/0HmblulqcxTTRsFVXE8oLA"
-      },
-      "artists": [
-        {
-          "name": "Common Hymnal",
-          "url": "https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN"
-        },
-        {
-          "name": "Kanjii Mbugua",
-          "url": "https://open.spotify.com/artist/2x6rpLyqNPMMOyDgSvuMWY"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "Not Gonna Worry",
-      "url": "https://open.spotify.com/track/6f8SSijW14hvnfbI66s8Id"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "My Dey",
         "url": "https://open.spotify.com/album/5qgwJVhYPaCluttxOiJ3pT"
       },
@@ -911,6 +891,26 @@
       "duration_ms": 181782,
       "name": "Baba Mi",
       "url": "https://open.spotify.com/track/5K823Dh3DwBeP60vn0PYmn"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Not Gonna Worry",
+        "url": "https://open.spotify.com/album/0HmblulqcxTTRsFVXE8oLA"
+      },
+      "artists": [
+        {
+          "name": "Common Hymnal",
+          "url": "https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN"
+        },
+        {
+          "name": "Kanjii Mbugua",
+          "url": "https://open.spotify.com/artist/2x6rpLyqNPMMOyDgSvuMWY"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "Not Gonna Worry",
+      "url": "https://open.spotify.com/track/6f8SSijW14hvnfbI66s8Id"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1175,26 +1175,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Praises",
-        "url": "https://open.spotify.com/album/4Y3G7tgPH2GymSaflJNGb0"
-      },
-      "artists": [
-        {
-          "name": "Kingdmusic",
-          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
-        },
-        {
-          "name": "Deitrick Haddon",
-          "url": "https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9"
-        }
-      ],
-      "duration_ms": 244300,
-      "name": "Praises",
-      "url": "https://open.spotify.com/track/58tYUrA7rqXufrstqh4UZj"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "I am Loved",
         "url": "https://open.spotify.com/album/4qJDN4ldOlLXyultmtivtL"
       },
@@ -1211,6 +1191,26 @@
       "duration_ms": 168932,
       "name": "I am Loved",
       "url": "https://open.spotify.com/track/590d44i18y3y04nVzXFnoJ"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Praises",
+        "url": "https://open.spotify.com/album/4Y3G7tgPH2GymSaflJNGb0"
+      },
+      "artists": [
+        {
+          "name": "Kingdmusic",
+          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
+        },
+        {
+          "name": "Deitrick Haddon",
+          "url": "https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9"
+        }
+      ],
+      "duration_ms": 244300,
+      "name": "Praises",
+      "url": "https://open.spotify.com/track/58tYUrA7rqXufrstqh4UZj"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1279,6 +1279,26 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
+        "name": "Overwhelmed",
+        "url": "https://open.spotify.com/album/1yZSwXMSUGePIKwJLt7HHh"
+      },
+      "artists": [
+        {
+          "name": "Naffymar",
+          "url": "https://open.spotify.com/artist/31XHZpkBidKYdb27RBePrr"
+        },
+        {
+          "name": "Marizu",
+          "url": "https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Overwhelmed",
+      "url": "https://open.spotify.com/track/5lI39HnRnc9quha7PwzFlz"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
         "name": "MY DAYS",
         "url": "https://open.spotify.com/album/2iZGyWGhk2Tpz4UcEQEDG7"
       },
@@ -1299,26 +1319,6 @@
       "duration_ms": 135000,
       "name": "MY DAYS",
       "url": "https://open.spotify.com/track/1KCkFjHrMKun36MUDiheU6"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "Overwhelmed",
-        "url": "https://open.spotify.com/album/1yZSwXMSUGePIKwJLt7HHh"
-      },
-      "artists": [
-        {
-          "name": "Naffymar",
-          "url": "https://open.spotify.com/artist/31XHZpkBidKYdb27RBePrr"
-        },
-        {
-          "name": "Marizu",
-          "url": "https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Overwhelmed",
-      "url": "https://open.spotify.com/track/5lI39HnRnc9quha7PwzFlz"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1559,26 +1559,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "NOMO (Never On My Own)",
-        "url": "https://open.spotify.com/album/6ce2fkYBmX7GizmHK007La"
-      },
-      "artists": [
-        {
-          "name": "Winter Amadin",
-          "url": "https://open.spotify.com/artist/0Lg4taC1hwg9FMfyPiwuBH"
-        },
-        {
-          "name": "Naffymar",
-          "url": "https://open.spotify.com/artist/31XHZpkBidKYdb27RBePrr"
-        }
-      ],
-      "duration_ms": 134838,
-      "name": "NOMO (Never On My Own)",
-      "url": "https://open.spotify.com/track/7GR1NYT1L1iZFIEpubuOxw"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "Blow My Mind",
         "url": "https://open.spotify.com/album/54Kx9glG1kj3iH8mmqgDFl"
       },
@@ -1599,22 +1579,22 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Good",
-        "url": "https://open.spotify.com/album/0hoXUusEcoPlaMlclSn51i"
+        "name": "NOMO (Never On My Own)",
+        "url": "https://open.spotify.com/album/6ce2fkYBmX7GizmHK007La"
       },
       "artists": [
         {
-          "name": "Nolly",
-          "url": "https://open.spotify.com/artist/1qDxmgIV0aTR4QGRL4zXWM"
+          "name": "Winter Amadin",
+          "url": "https://open.spotify.com/artist/0Lg4taC1hwg9FMfyPiwuBH"
         },
         {
-          "name": "Omojo",
-          "url": "https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC"
+          "name": "Naffymar",
+          "url": "https://open.spotify.com/artist/31XHZpkBidKYdb27RBePrr"
         }
       ],
-      "duration_ms": 216111,
-      "name": "Good",
-      "url": "https://open.spotify.com/track/6RM5xAAj92QSAIGTd2i267"
+      "duration_ms": 134838,
+      "name": "NOMO (Never On My Own)",
+      "url": "https://open.spotify.com/track/7GR1NYT1L1iZFIEpubuOxw"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1639,22 +1619,22 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "By Design (Special Version)",
-        "url": "https://open.spotify.com/album/1UnPCa8col9OvdoAK0X2UX"
+        "name": "Good",
+        "url": "https://open.spotify.com/album/0hoXUusEcoPlaMlclSn51i"
       },
       "artists": [
         {
-          "name": "Echow Clay",
-          "url": "https://open.spotify.com/artist/6L3FtVc42qiH1J9PUtdUDu"
+          "name": "Nolly",
+          "url": "https://open.spotify.com/artist/1qDxmgIV0aTR4QGRL4zXWM"
         },
         {
-          "name": "Rehmahz",
-          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
+          "name": "Omojo",
+          "url": "https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC"
         }
       ],
-      "duration_ms": 146000,
-      "name": "By Design - Special Version",
-      "url": "https://open.spotify.com/track/6TM4mOFIb7aWShC3teaDlr"
+      "duration_ms": 216111,
+      "name": "Good",
+      "url": "https://open.spotify.com/track/6RM5xAAj92QSAIGTd2i267"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1675,6 +1655,26 @@
       "duration_ms": 117955,
       "name": "CLOSER",
       "url": "https://open.spotify.com/track/66yWX0RNpotmPhTSCSblHA"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "By Design (Special Version)",
+        "url": "https://open.spotify.com/album/1UnPCa8col9OvdoAK0X2UX"
+      },
+      "artists": [
+        {
+          "name": "Echow Clay",
+          "url": "https://open.spotify.com/artist/6L3FtVc42qiH1J9PUtdUDu"
+        },
+        {
+          "name": "Rehmahz",
+          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "By Design - Special Version",
+      "url": "https://open.spotify.com/track/6TM4mOFIb7aWShC3teaDlr"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1883,6 +1883,22 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
+        "name": "Faithful",
+        "url": "https://open.spotify.com/album/1OozBkdbKJjxnwLTHh9KdD"
+      },
+      "artists": [
+        {
+          "name": "Bucie",
+          "url": "https://open.spotify.com/artist/7suaOI2AMM3ZqTa04oB8fG"
+        }
+      ],
+      "duration_ms": 360021,
+      "name": "Faithful",
+      "url": "https://open.spotify.com/track/103rEdXIcaKjYy2Jr9rIos"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
         "name": "Slow Down Remix",
         "url": "https://open.spotify.com/album/2sWtkHE1yS9c6Q6gPNtzxp"
       },
@@ -2031,30 +2047,6 @@
       "duration_ms": 181500,
       "name": "Your Love",
       "url": "https://open.spotify.com/track/6a8G6scqUjGIrRCArFRNYP"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "Perfect Peace",
-        "url": "https://open.spotify.com/album/2Ft65MibXY2DrNy3aTxbCX"
-      },
-      "artists": [
-        {
-          "name": "Ealle",
-          "url": "https://open.spotify.com/artist/6JtxhjUJpk5f3RShUHxWU5"
-        },
-        {
-          "name": "Omojo",
-          "url": "https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC"
-        },
-        {
-          "name": "Shirlvin Desir",
-          "url": "https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y"
-        }
-      ],
-      "duration_ms": 193148,
-      "name": "Perfect Peace",
-      "url": "https://open.spotify.com/track/07bnH9ucRiSiSQsIhqE52B"
     }
   ],
   "unique_name": "AfroGospel",

@@ -2,7 +2,7 @@
 
 ### [Yacht Rock](https://open.spotify.com/playlist/37i9dQZF1DXb3m918yXHxA)
 
-> Cruise to the smooth grooves of these yacht rock tunes
+> Cruise to the smooth grooves of these yacht rock tunes.
 
 195 songs - 13 hr 26 min
 

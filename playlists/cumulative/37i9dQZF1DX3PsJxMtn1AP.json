@@ -514,7 +514,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-29",
       "duration_ms": 222315,
       "name": "Baddy On The Floor",
       "url": "https://open.spotify.com/track/3CqaTHbiU2nBy3Ar9RnDHN"
@@ -1549,6 +1549,24 @@
     },
     {
       "album": {
+        "name": "Dimensi\u00f3n 3000",
+        "url": "https://open.spotify.com/album/6RpSAyKtW4MorocKI0aV2z"
+      },
+      "artists": [
+        {
+          "name": "Z\u00f6elle",
+          "url": "https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl"
+        }
+      ],
+      "date_added": "2024-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202061,
+      "name": "Dimensi\u00f3n 3000",
+      "url": "https://open.spotify.com/track/2fAqFthuQMx8GLYZ7STM7x"
+    },
+    {
+      "album": {
         "name": "DNA",
         "url": "https://open.spotify.com/album/0qTMc4nbPpF7mZT6DzLri1"
       },
@@ -1934,7 +1952,7 @@
       ],
       "date_added": "2024-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-29",
       "duration_ms": 156600,
       "name": "Feira De Mangaio",
       "url": "https://open.spotify.com/track/33iTVkckI2X5ip1qX4dFsh"
@@ -2414,6 +2432,24 @@
       "duration_ms": 203826,
       "name": "Honey",
       "url": "https://open.spotify.com/track/1KaAcMbFNcqxmt9lzjkm9b"
+    },
+    {
+      "album": {
+        "name": "I Go Meow",
+        "url": "https://open.spotify.com/album/0hASQvKpWjWLjpsKU7igfR"
+      },
+      "artists": [
+        {
+          "name": "The Kiffness",
+          "url": "https://open.spotify.com/artist/6t41YgqHULlgOq9TK1kcrG"
+        }
+      ],
+      "date_added": "2024-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131571,
+      "name": "I Go Meow",
+      "url": "https://open.spotify.com/track/0ewurUrBfHTTWGlBurGUNo"
     },
     {
       "album": {

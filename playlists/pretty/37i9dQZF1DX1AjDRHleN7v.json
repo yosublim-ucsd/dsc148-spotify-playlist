@@ -1,6 +1,6 @@
 {
   "description": "Um pouco de reggae pra acompanhar a brisa do mar.",
-  "num_followers": 312329,
+  "num_followers": 312428,
   "original_name": "Praiana",
   "owner": {
     "name": "Spotify",
@@ -767,6 +767,22 @@
     {
       "added_at": "2024-05-03 03:01:00",
       "album": {
+        "name": "Minha Ilha",
+        "url": "https://open.spotify.com/album/0sOnQvXTfgv9zyrf1Mi7Zj"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Oliveira",
+          "url": "https://open.spotify.com/artist/5tvMRnrx7V0hJc4XhbqEtr"
+        }
+      ],
+      "duration_ms": 223157,
+      "name": "Minha Ilha",
+      "url": "https://open.spotify.com/track/3pqg2vWR8mZ9OGxZ8Kxi8v"
+    },
+    {
+      "added_at": "2024-05-03 03:01:00",
+      "album": {
         "name": "Vou Agradecer",
         "url": "https://open.spotify.com/album/41TqnxKqqb5N0HlkVlBk0A"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 219538,
       "name": "Vou Agradecer",
       "url": "https://open.spotify.com/track/6FpK0zclfVVqFBQHxxp4cl"
-    },
-    {
-      "added_at": "2024-05-03 03:01:00",
-      "album": {
-        "name": "Minha Ilha",
-        "url": "https://open.spotify.com/album/0sOnQvXTfgv9zyrf1Mi7Zj"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Oliveira",
-          "url": "https://open.spotify.com/artist/5tvMRnrx7V0hJc4XhbqEtr"
-        }
-      ],
-      "duration_ms": 223157,
-      "name": "Minha Ilha",
-      "url": "https://open.spotify.com/track/3pqg2vWR8mZ9OGxZ8Kxi8v"
     },
     {
       "added_at": "2024-05-03 03:01:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2JTNFAkm51v.md) - [plain]
 
 > 【セットリスト公開】5/25・26に開催「<a href="https://kobe\-mellow\-cruise.com/">KOBE MELLOW CRUISE</a>」出演アーティストを特集！
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,212 likes - 252 songs - 13 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,260 likes - 252 songs - 13 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2JTNFAkm51v.md) - [plain]
 | 8 | [愛槌](https://open.spotify.com/track/1x7956rpt5aVVWBZxlP2F4) | [Kvi Baba](https://open.spotify.com/artist/5VxQzcVrakID2E4UxaDPNs) | [Jesus Loves You](https://open.spotify.com/album/0MmKSrbOnVxqUga9R0MAH3) | 3:44 |
 | 9 | [Fuck U & Love U](https://open.spotify.com/track/4kgSbWKaGDdUBIMSWrNDEh) | [Kvi Baba](https://open.spotify.com/artist/5VxQzcVrakID2E4UxaDPNs) | [Jesus Loves You](https://open.spotify.com/album/0MmKSrbOnVxqUga9R0MAH3) | 1:55 |
 | 10 | [Fight Song](https://open.spotify.com/track/0xB1rIdoRVthoQVVEw3PNv) | [Kvi Baba](https://open.spotify.com/artist/5VxQzcVrakID2E4UxaDPNs) | [Fight Song](https://open.spotify.com/album/2kNP1l6gQj5nBPlGTnU2ap) | 4:04 |
-| 11 | [二つ目の家族](https://open.spotify.com/track/2CC3bCR509Y59FQLoOkwDf) | [Kvi Baba](https://open.spotify.com/artist/5VxQzcVrakID2E4UxaDPNs) | [Jesus Loves You](https://open.spotify.com/album/0MmKSrbOnVxqUga9R0MAH3) | 3:30 |
+| 11 | [Ma Life](https://open.spotify.com/track/3tOqo9tuJOwSUAg5f81EeE) | [Kvi Baba](https://open.spotify.com/artist/5VxQzcVrakID2E4UxaDPNs) | [Ma Life](https://open.spotify.com/album/3VENb81lNRb4Jx5tMXe2Wa) | 3:35 |
 | 12 | [Ms\. U](https://open.spotify.com/track/4oDvK4kXD4Tn5GXoLqQ6kY) | [Kvi Baba](https://open.spotify.com/artist/5VxQzcVrakID2E4UxaDPNs), [idom](https://open.spotify.com/artist/2f1JDLogY8kLi804QEmMzx), [SALU](https://open.spotify.com/artist/2AwGvrbcvOSx5HDwc4OQE3) | [Ms\. U](https://open.spotify.com/album/1JYHlFmv0Jl1PwjOdKhoya) | 3:34 |
 | 13 | [Too Bad Day But...](https://open.spotify.com/track/675PPWzPXJHCjTpSwdRO4G) | [Kvi Baba](https://open.spotify.com/artist/5VxQzcVrakID2E4UxaDPNs) | [Too Bad Day But...](https://open.spotify.com/album/1yKsJUC9awldDyAnIPTDBy) | 2:53 |
 | 14 | [Kick Back](https://open.spotify.com/track/0R3cKyL7lSmV1AIMf5IvGC) | [Kohjiya](https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK) | [Kick Back](https://open.spotify.com/album/3YHQqscL7SIyD8N6NiPtTR) | 2:13 |
@@ -261,4 +261,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2JTNFAkm51v.md) - [plain]
 | 251 | [GILA GILA](https://open.spotify.com/track/7AsWduh1mkB8uKOox5NH0X) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9), [YZERR](https://open.spotify.com/artist/7z8eFxohsIg2Tu5evbNXXo) | [Queendom](https://open.spotify.com/album/4jj5K8UuV6fBOHj4nOCOON) | 4:13 |
 | 252 | [Blue \(feat\. Jin Dogg\)](https://open.spotify.com/track/6hbHNlBB2XLrMcnHZKYFKa) | [PETZ](https://open.spotify.com/artist/1LUhwMGfJbyWkkRu8UmVXT), [Jin Dogg](https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK) | [COSMOS](https://open.spotify.com/album/4O6cOGaxXEf9QPKcrxx6Fc) | 3:10 |
 
-Snapshot ID: `ZlPYUwAAAADiMs57Y8JldJTTe0I3/+hw`
+Snapshot ID: `ZlVPdwAAAACTkp2vTsRGMT/xjkF+oCjA`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbC1ZOkTuut.md) - [plain]
 
 > Descubre los nuevos álbumes de Música Mexicana\. Hit shuffle for a mixed listening experience\. Cover: Alejandro Fernández
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,477 likes - 148 songs - 7 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,487 likes - 148 songs - 7 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

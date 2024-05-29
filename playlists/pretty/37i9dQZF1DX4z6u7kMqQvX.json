@@ -1,6 +1,6 @@
 {
   "description": "Sin ataduras, pero con amor: la medida justa de romance independiente.",
-  "num_followers": 106183,
+  "num_followers": 106187,
   "original_name": "Amor Indie",
   "owner": {
     "name": "Spotify",
@@ -779,22 +779,6 @@
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
-        "name": "Por qu\u00e9 te quiero tanto?",
-        "url": "https://open.spotify.com/album/2zzOpbnXDcj9myQf76Fcih"
-      },
-      "artists": [
-        {
-          "name": "Paz Carrara",
-          "url": "https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg"
-        }
-      ],
-      "duration_ms": 230495,
-      "name": "Por qu\u00e9 te quiero tanto?",
-      "url": "https://open.spotify.com/track/5gTFFnnIds7moFhePvYToE"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
         "name": "SUPERSTICIONES: Remixes",
         "url": "https://open.spotify.com/album/1ur69lVV9gt3FuGhXD02Sf"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 204782,
       "name": "Amores Callejeros - Bolero Remix",
       "url": "https://open.spotify.com/track/4TiuSDziSZ8QClZZYWfOqJ"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
+        "name": "Por qu\u00e9 te quiero tanto?",
+        "url": "https://open.spotify.com/album/2zzOpbnXDcj9myQf76Fcih"
+      },
+      "artists": [
+        {
+          "name": "Paz Carrara",
+          "url": "https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg"
+        }
+      ],
+      "duration_ms": 230495,
+      "name": "Por qu\u00e9 te quiero tanto?",
+      "url": "https://open.spotify.com/track/5gTFFnnIds7moFhePvYToE"
     },
     {
       "added_at": "2024-05-17 03:00:00",
@@ -919,6 +919,22 @@
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
+        "name": "Ciclo Lunar",
+        "url": "https://open.spotify.com/album/3raEoOmR4aimfqCMK1hvUl"
+      },
+      "artists": [
+        {
+          "name": "Carlos Sadness",
+          "url": "https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq"
+        }
+      ],
+      "duration_ms": 213310,
+      "name": "Ciclo Lunar",
+      "url": "https://open.spotify.com/track/1r7FUVqC9DUSeBmaXAJR3O"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
         "name": "GUIAME",
         "url": "https://open.spotify.com/album/057ObaWRT9nY13cHAEggco"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 198676,
       "name": "GUIAME",
       "url": "https://open.spotify.com/track/0b37vDgD47kRYes63nKX5v"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
-        "name": "Ciclo Lunar",
-        "url": "https://open.spotify.com/album/3raEoOmR4aimfqCMK1hvUl"
-      },
-      "artists": [
-        {
-          "name": "Carlos Sadness",
-          "url": "https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq"
-        }
-      ],
-      "duration_ms": 213310,
-      "name": "Ciclo Lunar",
-      "url": "https://open.spotify.com/track/1r7FUVqC9DUSeBmaXAJR3O"
     },
     {
       "added_at": "2024-05-17 03:00:00",
@@ -987,22 +987,6 @@
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
-        "name": "Joderlo Todo",
-        "url": "https://open.spotify.com/album/3a5u1dS9MeqrQtSLqrXxrs"
-      },
-      "artists": [
-        {
-          "name": "Juan Pablo Vega",
-          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
-        }
-      ],
-      "duration_ms": 227079,
-      "name": "Joderlo Todo",
-      "url": "https://open.spotify.com/track/1G93uVHCm8fegsmYKCsJTA"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
         "name": "Brujita de la suerte",
         "url": "https://open.spotify.com/album/3A8SVmBESS98syeGo9GazY"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 183828,
       "name": "Brujita de la suerte",
       "url": "https://open.spotify.com/track/15B8rvJwUcBvcANhWzS7ye"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
+        "name": "Joderlo Todo",
+        "url": "https://open.spotify.com/album/3a5u1dS9MeqrQtSLqrXxrs"
+      },
+      "artists": [
+        {
+          "name": "Juan Pablo Vega",
+          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
+        }
+      ],
+      "duration_ms": 227079,
+      "name": "Joderlo Todo",
+      "url": "https://open.spotify.com/track/1G93uVHCm8fegsmYKCsJTA"
     },
     {
       "added_at": "2024-05-17 03:00:00",
@@ -1115,26 +1115,6 @@
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
-        "name": "Juntos",
-        "url": "https://open.spotify.com/album/6Ncx8sbeQ6XziNq6qaVIw3"
-      },
-      "artists": [
-        {
-          "name": "Doble Valentina",
-          "url": "https://open.spotify.com/artist/6vKHhATIB0in0rvrB1nbmU"
-        },
-        {
-          "name": "J\u00f3sean Log",
-          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
-        }
-      ],
-      "duration_ms": 181930,
-      "name": "Juntos",
-      "url": "https://open.spotify.com/track/574OhLjdADffJIg7wZojF6"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
         "name": "Velocidad Crucero",
         "url": "https://open.spotify.com/album/4Vk35EIEu45hRtoGEmq8e1"
       },
@@ -1151,6 +1131,26 @@
       "duration_ms": 232947,
       "name": "Velocidad Crucero",
       "url": "https://open.spotify.com/track/3r1cIjl8iCoLYNK2XBr9zU"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
+        "name": "Juntos",
+        "url": "https://open.spotify.com/album/6Ncx8sbeQ6XziNq6qaVIw3"
+      },
+      "artists": [
+        {
+          "name": "Doble Valentina",
+          "url": "https://open.spotify.com/artist/6vKHhATIB0in0rvrB1nbmU"
+        },
+        {
+          "name": "J\u00f3sean Log",
+          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
+        }
+      ],
+      "duration_ms": 181930,
+      "name": "Juntos",
+      "url": "https://open.spotify.com/track/574OhLjdADffJIg7wZojF6"
     },
     {
       "added_at": "2024-05-17 03:00:00",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
+        "name": "ReconoceR",
+        "url": "https://open.spotify.com/album/6BEwgBFuB3SN9Li2ka5sXu"
+      },
+      "artists": [
+        {
+          "name": "Pamela Rodriguez",
+          "url": "https://open.spotify.com/artist/0xSlY9GBehjuViqWE1KrMC"
+        }
+      ],
+      "duration_ms": 147933,
+      "name": "Ligera Love",
+      "url": "https://open.spotify.com/track/5LBVwUrWdyaM1qHo0v0TEQ"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
         "name": "Los Abrazos son Instantes Decisivos Vol. II",
         "url": "https://open.spotify.com/album/555R1YI4L8OshPz3dNkZdL"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 224492,
       "name": "Polvo de estrellas",
       "url": "https://open.spotify.com/track/3SAaPKojF6MTyxoLd5WCXa"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
-        "name": "ReconoceR",
-        "url": "https://open.spotify.com/album/6BEwgBFuB3SN9Li2ka5sXu"
-      },
-      "artists": [
-        {
-          "name": "Pamela Rodriguez",
-          "url": "https://open.spotify.com/artist/0xSlY9GBehjuViqWE1KrMC"
-        }
-      ],
-      "duration_ms": 147933,
-      "name": "Ligera Love",
-      "url": "https://open.spotify.com/track/5LBVwUrWdyaM1qHo0v0TEQ"
     },
     {
       "added_at": "2024-05-17 03:00:00",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
-        "name": "Tripulantes",
-        "url": "https://open.spotify.com/album/47BgPHezfsfaXbcE0Legup"
-      },
-      "artists": [
-        {
-          "name": "Bruno Pinto",
-          "url": "https://open.spotify.com/artist/1SsBb8WfdP41lIxnH77s7t"
-        }
-      ],
-      "duration_ms": 228504,
-      "name": "Tripulantes",
-      "url": "https://open.spotify.com/track/0wX8N4xGeF5fZnq2yB8CGl"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
         "name": "Locos",
         "url": "https://open.spotify.com/album/66TuRKaKJ99ryYQzPQPrnF"
       },
@@ -1403,6 +1387,22 @@
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
+        "name": "Tripulantes",
+        "url": "https://open.spotify.com/album/47BgPHezfsfaXbcE0Legup"
+      },
+      "artists": [
+        {
+          "name": "Bruno Pinto",
+          "url": "https://open.spotify.com/artist/1SsBb8WfdP41lIxnH77s7t"
+        }
+      ],
+      "duration_ms": 228504,
+      "name": "Tripulantes",
+      "url": "https://open.spotify.com/track/0wX8N4xGeF5fZnq2yB8CGl"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
         "name": "Solo",
         "url": "https://open.spotify.com/album/56i29m64vzKcbDFnZbKd55"
       },
@@ -1415,22 +1415,6 @@
       "duration_ms": 170866,
       "name": "Solo",
       "url": "https://open.spotify.com/track/3TCDwk2QYxOe9oKlM81N2u"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
-        "name": "Canci\u00f3n de Amor",
-        "url": "https://open.spotify.com/album/1hKLIs7yGEP0cQxbjr9Be4"
-      },
-      "artists": [
-        {
-          "name": "Pato Lange",
-          "url": "https://open.spotify.com/artist/7jAfHesb2NWA6wfJGDCdSx"
-        }
-      ],
-      "duration_ms": 199047,
-      "name": "Canci\u00f3n de Amor",
-      "url": "https://open.spotify.com/track/33xnoWnmKafzvUEi8Tjzay"
     },
     {
       "added_at": "2024-05-17 03:00:00",
@@ -1487,6 +1471,22 @@
       "duration_ms": 227274,
       "name": "Sin m\u00ed :(",
       "url": "https://open.spotify.com/track/2ntg6Vit9Dfc3FigiFmALf"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
+        "name": "Canci\u00f3n de Amor",
+        "url": "https://open.spotify.com/album/1hKLIs7yGEP0cQxbjr9Be4"
+      },
+      "artists": [
+        {
+          "name": "Pato Lange",
+          "url": "https://open.spotify.com/artist/7jAfHesb2NWA6wfJGDCdSx"
+        }
+      ],
+      "duration_ms": 199047,
+      "name": "Canci\u00f3n de Amor",
+      "url": "https://open.spotify.com/track/33xnoWnmKafzvUEi8Tjzay"
     },
     {
       "added_at": "2024-05-17 03:00:00",
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
+        "name": "t\u00e1ctica",
+        "url": "https://open.spotify.com/album/0GRGlZrUxwjBlu9lMqOtKR"
+      },
+      "artists": [
+        {
+          "name": "Josearmen",
+          "url": "https://open.spotify.com/artist/2RB7pU0xCVApiluKSjpwyf"
+        }
+      ],
+      "duration_ms": 143557,
+      "name": "t\u00e1ctica",
+      "url": "https://open.spotify.com/track/4ZI0Q8RaXwSYK6T3CBkMGm"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
         "name": "Una Temporada M\u00e1s",
         "url": "https://open.spotify.com/album/1AqD5EurwXoswt2n4c4Ptl"
       },
@@ -1599,42 +1615,6 @@
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
-        "name": "REGIO",
-        "url": "https://open.spotify.com/album/7yhpVJHiKdmCxt87S1G9Mw"
-      },
-      "artists": [
-        {
-          "name": "Filgueira",
-          "url": "https://open.spotify.com/artist/0DQLzv4MaQ0SbXa3lazZjU"
-        },
-        {
-          "name": "Dulce y Agraz",
-          "url": "https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "PISCINA OL\u00cdMPICA",
-      "url": "https://open.spotify.com/track/1fYEQiQR1aCFcfQDWw7hwt"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
-        "name": "t\u00e1ctica",
-        "url": "https://open.spotify.com/album/0GRGlZrUxwjBlu9lMqOtKR"
-      },
-      "artists": [
-        {
-          "name": "Josearmen",
-          "url": "https://open.spotify.com/artist/2RB7pU0xCVApiluKSjpwyf"
-        }
-      ],
-      "duration_ms": 143557,
-      "name": "t\u00e1ctica",
-      "url": "https://open.spotify.com/track/4ZI0Q8RaXwSYK6T3CBkMGm"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
         "name": "Tequila",
         "url": "https://open.spotify.com/album/4f6goszG3AzoyI4BGY1vdV"
       },
@@ -1651,6 +1631,26 @@
       "duration_ms": 202655,
       "name": "Tequila",
       "url": "https://open.spotify.com/track/0ZyWR4rAJSZdNn1UDcm6RP"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
+        "name": "REGIO",
+        "url": "https://open.spotify.com/album/7yhpVJHiKdmCxt87S1G9Mw"
+      },
+      "artists": [
+        {
+          "name": "Filgueira",
+          "url": "https://open.spotify.com/artist/0DQLzv4MaQ0SbXa3lazZjU"
+        },
+        {
+          "name": "Dulce y Agraz",
+          "url": "https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ"
+        }
+      ],
+      "duration_ms": 238000,
+      "name": "PISCINA OL\u00cdMPICA",
+      "url": "https://open.spotify.com/track/1fYEQiQR1aCFcfQDWw7hwt"
     },
     {
       "added_at": "2024-05-17 03:00:00",

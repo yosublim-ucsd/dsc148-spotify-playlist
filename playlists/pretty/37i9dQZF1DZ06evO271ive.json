@@ -1,12 +1,12 @@
 {
   "description": "This is Sexyy Red. The essential tracks, all in one playlist.",
-  "num_followers": 13776,
+  "num_followers": 13862,
   "original_name": "This Is Sexyy Red",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlJ7gAAAAAA7FuJ1f4zZcSeQRnpIbblc",
+  "snapshot_id": "ZlPNAAAAAADwDN4fnuBdD5o+CcmPTbJN",
   "tracks": [
     {
       "added_at": null,
@@ -451,6 +451,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "In Sexyy We Trust",
+        "url": "https://open.spotify.com/album/5PmtX9B5vNa4uaiXQVn4Gx"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 162324,
+      "name": "She's Back",
+      "url": "https://open.spotify.com/track/3PR8q1B3b6hsJlwphfgCZK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hood Hottest Princess",
         "url": "https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42"
       },
@@ -520,9 +536,9 @@
           "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
         }
       ],
-      "duration_ms": 162324,
-      "name": "She's Back",
-      "url": "https://open.spotify.com/track/3PR8q1B3b6hsJlwphfgCZK"
+      "duration_ms": 131965,
+      "name": "Ova Bad",
+      "url": "https://open.spotify.com/track/7eP2aGOcagXwchZIIKX0QO"
     },
     {
       "added_at": null,
@@ -596,9 +612,9 @@
           "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
         }
       ],
-      "duration_ms": 131965,
-      "name": "Ova Bad",
-      "url": "https://open.spotify.com/track/7eP2aGOcagXwchZIIKX0QO"
+      "duration_ms": 139632,
+      "name": "Fake Jammin",
+      "url": "https://open.spotify.com/track/2feXtMaA1fQd7Wy7fgImtP"
     },
     {
       "added_at": null,
@@ -676,9 +692,9 @@
           "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
         }
       ],
-      "duration_ms": 139632,
-      "name": "Fake Jammin",
-      "url": "https://open.spotify.com/track/2feXtMaA1fQd7Wy7fgImtP"
+      "duration_ms": 140800,
+      "name": "TTG (Go)",
+      "url": "https://open.spotify.com/track/4hKmlJ6sSCvDgQm50pTW05"
     },
     {
       "added_at": null,
@@ -760,9 +776,9 @@
           "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
         }
       ],
-      "duration_ms": 140800,
-      "name": "TTG (Go)",
-      "url": "https://open.spotify.com/track/4hKmlJ6sSCvDgQm50pTW05"
+      "duration_ms": 106985,
+      "name": "Sport",
+      "url": "https://open.spotify.com/track/10YONGm7cTni3bzHQvxTKF"
     },
     {
       "added_at": null,
@@ -823,22 +839,6 @@
       "duration_ms": 151272,
       "name": "Big Dawg (Moneybagg Yo, Sexyy Red)",
       "url": "https://open.spotify.com/track/6nmSkbapT1YnObUA8TyF8e"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "In Sexyy We Trust",
-        "url": "https://open.spotify.com/album/5PmtX9B5vNa4uaiXQVn4Gx"
-      },
-      "artists": [
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 106985,
-      "name": "Sport",
-      "url": "https://open.spotify.com/track/10YONGm7cTni3bzHQvxTKF"
     },
     {
       "added_at": null,
@@ -907,22 +907,6 @@
       "duration_ms": 160466,
       "name": "Tired (feat. Rob49)",
       "url": "https://open.spotify.com/track/2ayYyt1AKc5eFIVbzieG6y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Push Start",
-        "url": "https://open.spotify.com/album/7xuDlK70JLIameLE27289x"
-      },
-      "artists": [
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 168333,
-      "name": "Push Start",
-      "url": "https://open.spotify.com/track/0iwW0dxjJk0sA08HNyDscr"
     }
   ],
   "unique_name": "This Is Sexyy Red",

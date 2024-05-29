@@ -2819,6 +2819,24 @@
     },
     {
       "album": {
+        "name": "BLAME IT ON ME",
+        "url": "https://open.spotify.com/album/5w2zXflgG8ZZtJLqT7Gvsl"
+      },
+      "artists": [
+        {
+          "name": "Alex Coles",
+          "url": "https://open.spotify.com/artist/7itwELrXfDuINywbgrNm6b"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162377,
+      "name": "BLAME IT ON ME",
+      "url": "https://open.spotify.com/track/3O4EGwdDFNMs69RWWSQRFI"
+    },
+    {
+      "album": {
         "name": "blanket",
         "url": "https://open.spotify.com/album/77rv24srv70kCBADI5nB1d"
       },
@@ -8410,7 +8428,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-29",
       "duration_ms": 130651,
       "name": "God Damn",
       "url": "https://open.spotify.com/track/2DwfkAPdyN66ccer4nQDlW"
@@ -14154,7 +14172,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-27",
+      "date_removed": null,
       "duration_ms": 182367,
       "name": "Mona",
       "url": "https://open.spotify.com/track/3MG4Cq0ER6iuJoyJQALWIc"
@@ -23278,7 +23296,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-29",
       "duration_ms": 180689,
       "name": "week by week",
       "url": "https://open.spotify.com/track/51bPv2VzuFbGXkthHzx30I"

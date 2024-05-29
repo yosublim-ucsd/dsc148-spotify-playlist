@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Nuevos temas de géneros tropicales\. Foto: Camilo
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,139 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,157 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 33 | [Por Mil Noches \- En Vivo](https://open.spotify.com/track/0StSn0gYnxTv0YY6KvLaSB) | [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y), [Los Herrera](https://open.spotify.com/artist/5KsX8xNfID0ztueQjHFjsJ) | [Por Mil Noches \(En Vivo\)](https://open.spotify.com/album/08uG38s185uDxP6yYSnDJh) | 2:39 |
 | 34 | [OJOS VERDES](https://open.spotify.com/track/3Xrq7A59YJmdASGmcY2SlW) | [Magui Olave](https://open.spotify.com/artist/1kfrmHoRbXekpUf2iM6zBE) | [OJOS VERDES](https://open.spotify.com/album/5NAyNLjdgxLoP9tERZrUDD) | 2:54 |
 | 35 | [El Influencer](https://open.spotify.com/track/0n4XEk5OEn8UYD8VP0SwaQ) | [Manteca Blue & the Latin Corner](https://open.spotify.com/artist/1lMoNvClPMQzDJ0vZK8Fys) | [El Influencer](https://open.spotify.com/album/7b6MAQrkexkxCyJgS9oYgv) | 4:31 |
-| 36 | [Vida](https://open.spotify.com/track/4HSPKZs69ZM4rNdefYgK9E) | [La Gran Manzana](https://open.spotify.com/artist/7fFNqvCPf1xyrqvkFnImMF), [Victor Roque](https://open.spotify.com/artist/59ESpW6vB1k4uThoAMVCcH), [Caceres](https://open.spotify.com/artist/2hh9vTDXej21Upds5nlJTn), [Manny Cruz](https://open.spotify.com/artist/3C6PJhao839YVg9YyV16lA) | [MerenVolution](https://open.spotify.com/album/3fICO0Zo1C8TfElsFi2Nls) | 3:08 |
+| 36 | [Vida](https://open.spotify.com/track/4HSPKZs69ZM4rNdefYgK9E) | [La Gran Manzana](https://open.spotify.com/artist/7fFNqvCPf1xyrqvkFnImMF), [Victor Roque](https://open.spotify.com/artist/59ESpW6vB1k4uThoAMVCcH), [Caceres](https://open.spotify.com/artist/2hh9vTDXej21Upds5nlJTn), [Manny Cruz](https://open.spotify.com/artist/3C6PJhao839YVg9YyV16lA), [Willie Gomez](https://open.spotify.com/artist/1aS0ooDwd4Q5jmK12rF7iZ) | [MerenVolution](https://open.spotify.com/album/3fICO0Zo1C8TfElsFi2Nls) | 3:08 |
 | 37 | [LMCY](https://open.spotify.com/track/34cXDLI9aCvDQmE4qcjZ25) | [Grupo Aurora](https://open.spotify.com/artist/2m6L3ddLPkChsAeWcGQKgt), [Jerry Zyno](https://open.spotify.com/artist/3OOd3JaUCSF93C4kmQOXFN) | [LMCY](https://open.spotify.com/album/3bm3c4lvepn3SIOn2JcSiZ) | 4:03 |
 | 38 | [Ta Rica](https://open.spotify.com/track/6wjNcZqVyQG0iBqH9G2iuL) | [Javi Moran](https://open.spotify.com/artist/0Kal2JoKYqz2uSshnCRwrz) | [Volvi por Ti](https://open.spotify.com/album/2n6Rdec2ucbFPqw11eXqEU) | 2:44 |
 | 39 | [Mal De Corazón](https://open.spotify.com/track/2LarXXli6EbzH2GwaBRSec) | [George Lamond](https://open.spotify.com/artist/0L1e8CdX4rdh54b8mIxMqB) | [Mal De Corazón](https://open.spotify.com/album/46xSJTUUvK2DOf3tSelwrG) | 4:38 |

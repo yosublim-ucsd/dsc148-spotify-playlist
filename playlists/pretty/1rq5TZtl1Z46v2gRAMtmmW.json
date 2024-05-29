@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 29703,
+  "num_followers": 29715,
   "original_name": "Ninja Tune // New Releases",
   "owner": {
     "name": "Ninja Tune",
     "url": "https://open.spotify.com/user/ninja-tune"
   },
-  "snapshot_id": "AAAOqojFqRc5gooPkx9AKLenhmbWH2D0",
+  "snapshot_id": "AAAOsEYiJly+g7HabVtfbq3Y7NYrtuue",
   "tracks": [
     {
       "added_at": "2024-02-20 17:59:46",
@@ -103,6 +103,22 @@
       "duration_ms": 196560,
       "name": "A Moment Apart - camoufly Remix",
       "url": "https://open.spotify.com/track/1LGEamUOVpiXa1RPsdhoH7"
+    },
+    {
+      "added_at": "2024-05-28 14:23:39",
+      "album": {
+        "name": "Departed",
+        "url": "https://open.spotify.com/album/0ycL1vGVZTadGTkcq1vlxR"
+      },
+      "artists": [
+        {
+          "name": "Hakushi Hasegawa",
+          "url": "https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi"
+        }
+      ],
+      "duration_ms": 134367,
+      "name": "Departed",
+      "url": "https://open.spotify.com/track/7udizCkehDvHpPbG6smnVe"
     },
     {
       "added_at": "2024-05-16 13:19:35",
@@ -457,22 +473,6 @@
       "url": "https://open.spotify.com/track/0SURLSvwJxHyNRCXyZjNS3"
     },
     {
-      "added_at": "2024-04-09 15:03:24",
-      "album": {
-        "name": "Round n Round",
-        "url": "https://open.spotify.com/album/47XFxbR2CJp4fLPnhf3Tfr"
-      },
-      "artists": [
-        {
-          "name": "I. JORDAN",
-          "url": "https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4"
-        }
-      ],
-      "duration_ms": 310185,
-      "name": "Round n Round",
-      "url": "https://open.spotify.com/track/7EovTzlTgRD6MdprArq80m"
-    },
-    {
       "added_at": "2024-04-08 10:03:20",
       "album": {
         "name": "me and all my niggas",
@@ -487,6 +487,22 @@
       "duration_ms": 114698,
       "name": "me and all my niggas",
       "url": "https://open.spotify.com/track/1V5LZEDXnCctyA2G4NNjsg"
+    },
+    {
+      "added_at": "2024-04-09 15:03:24",
+      "album": {
+        "name": "Round n Round",
+        "url": "https://open.spotify.com/album/47XFxbR2CJp4fLPnhf3Tfr"
+      },
+      "artists": [
+        {
+          "name": "I. JORDAN",
+          "url": "https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4"
+        }
+      ],
+      "duration_ms": 310185,
+      "name": "Round n Round",
+      "url": "https://open.spotify.com/track/7EovTzlTgRD6MdprArq80m"
     },
     {
       "added_at": "2024-03-28 14:26:33",
@@ -581,6 +597,22 @@
       "url": "https://open.spotify.com/track/0Tc7p0cKE8078NVGRDcDOX"
     },
     {
+      "added_at": "2024-02-15 14:22:58",
+      "album": {
+        "name": "Make Me",
+        "url": "https://open.spotify.com/album/7GK7EmnHe9MdYTDSKHqMg7"
+      },
+      "artists": [
+        {
+          "name": "Elkka",
+          "url": "https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS"
+        }
+      ],
+      "duration_ms": 224204,
+      "name": "Make Me",
+      "url": "https://open.spotify.com/track/0y9rIGAQEHAwDrBWOQvstV"
+    },
+    {
       "added_at": "2024-03-04 17:49:03",
       "album": {
         "name": "ZOOM",
@@ -599,38 +631,6 @@
       "duration_ms": 225693,
       "name": "ZOOM",
       "url": "https://open.spotify.com/track/5BrX72zkxJaowRZwgM8wyB"
-    },
-    {
-      "added_at": "2024-03-05 16:29:27",
-      "album": {
-        "name": "Close To You",
-        "url": "https://open.spotify.com/album/0WWfUDxemDpOuvEERdb189"
-      },
-      "artists": [
-        {
-          "name": "I. JORDAN",
-          "url": "https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4"
-        }
-      ],
-      "duration_ms": 341124,
-      "name": "Close To You",
-      "url": "https://open.spotify.com/track/7AhBjNRySvSEna7yOTxspv"
-    },
-    {
-      "added_at": "2024-02-15 14:22:58",
-      "album": {
-        "name": "Make Me",
-        "url": "https://open.spotify.com/album/7GK7EmnHe9MdYTDSKHqMg7"
-      },
-      "artists": [
-        {
-          "name": "Elkka",
-          "url": "https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS"
-        }
-      ],
-      "duration_ms": 224204,
-      "name": "Make Me",
-      "url": "https://open.spotify.com/track/0y9rIGAQEHAwDrBWOQvstV"
     },
     {
       "added_at": "2024-02-02 19:20:30",
@@ -719,30 +719,6 @@
       "duration_ms": 330000,
       "name": "Sky River - Haider Uppal Remix",
       "url": "https://open.spotify.com/track/5nD09eXAGQUYDCTSUGOHU1"
-    },
-    {
-      "added_at": "2023-09-15 16:22:33",
-      "album": {
-        "name": "Somebody",
-        "url": "https://open.spotify.com/album/3jt8M4vaXSkrhi34KuFLuT"
-      },
-      "artists": [
-        {
-          "name": "TSHA",
-          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
-        },
-        {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
-        },
-        {
-          "name": "Gregory Porter",
-          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
-        }
-      ],
-      "duration_ms": 235265,
-      "name": "Somebody",
-      "url": "https://open.spotify.com/track/3Q2Sh0puZOeJvTjPPq4xnn"
     },
     {
       "added_at": "2024-03-01 12:30:16",

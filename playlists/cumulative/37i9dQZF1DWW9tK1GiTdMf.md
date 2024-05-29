@@ -2,7 +2,7 @@
 
 ### [sanguegiovane: Live al MI AMI](https://open.spotify.com/playlist/37i9dQZF1DWW9tK1GiTdMf)
 
-> Musica che ti fa ribaltare i tavoli e dare baci\. In cover EMMA, live al <a href="https://www.instagram.com/miami\_fest/">MI AMI</a>! Foto di <a href="https://www.instagram.com/silviaviolanterouge/">@silviaviolanterouge</a>
+> Musica che ti fa ribaltare i tavoli e dare baci\. In cover centomilacarie, live al <a href="https://www.instagram.com/miami\_fest/">MI AMI</a>! Foto di <a href="https://www.instagram.com/silviaviolanterouge/">@silviaviolanterouge</a>
 
 949 songs - 1 day 19 hr 45 min
 
@@ -273,7 +273,7 @@
 | [Dopamine](https://open.spotify.com/track/6iox0DMrowvaE2BwqJ0mnd) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Heaven :x: Hell](https://open.spotify.com/album/4a4vGdTg7UTfNluS7QdFsF) | 3:06 | 2024-03-28 |  |
 | [doremifa](https://open.spotify.com/track/4FcOzExJG7aBWcpiuc4WAO) | [oli?](https://open.spotify.com/artist/6SeRF4cyQkvX3fAxfWctf5) | [doremifa](https://open.spotify.com/album/0ysLF8nhmuINZzLHThcnmv) | 2:38 | 2022-05-06 | 2022-07-29 |
 | [DORMI](https://open.spotify.com/track/4C86xN7IPzill0pZAmyQjB) | [Jacopo Sol](https://open.spotify.com/artist/5aKF7BwuAUUSdteoSkq5ng), [Cripo](https://open.spotify.com/artist/4gStQ4qUXS6NLN8N7GThb0) | [DORMI](https://open.spotify.com/album/1zXkcyapz8q9tJlChXsRrW) | 2:36 | 2023-03-09 | 2023-04-28 |
-| [dormo](https://open.spotify.com/track/1ug4difu8GJdPiOaPDWAtC) | [Brividee](https://open.spotify.com/artist/3Aii0XCq5MDf7ZlxK0ZNHo) | [dormo](https://open.spotify.com/album/4Vow3585A0o90fkD0DX4GN) | 3:35 | 2024-04-18 |  |
+| [dormo](https://open.spotify.com/track/1ug4difu8GJdPiOaPDWAtC) | [Brividee](https://open.spotify.com/artist/3Aii0XCq5MDf7ZlxK0ZNHo), [Grey.\_.Mood](https://open.spotify.com/artist/3UNDpdqZVi67ehVuXAKHUr) | [dormo](https://open.spotify.com/album/4Vow3585A0o90fkD0DX4GN) | 3:35 | 2024-04-18 |  |
 | [Dov'é?](https://open.spotify.com/track/7H90YOKum4Ih997KavJqKZ) | [Sal](https://open.spotify.com/artist/5GHZ7WABHAKdm5OfdQIpbT) | [Dov'é?](https://open.spotify.com/album/03DKMpdkeIo6CVlfqpV10n) | 2:41 | 2023-08-03 | 2023-08-25 |
 | [Dove Ci Siamo Lasciati](https://open.spotify.com/track/2cdgPHdedeVPpNJQsy3Bw6) | [SickTeens](https://open.spotify.com/artist/43zSSTbEARYCOTzP6IsCZi) | [Dove Ci Siamo Lasciati](https://open.spotify.com/album/2xGo26gPbswyPOYdNTuw5P) | 3:02 | 2022-08-25 | 2023-01-13 |
 | [Dove e Quando RMX \(feat\. Finley\)](https://open.spotify.com/track/1wJMSdhcsbz8edy6ZyCSaW) | [Benji](https://open.spotify.com/artist/1TUO8DpCpHhmB4gYdLqLOF), [Finley](https://open.spotify.com/artist/7JOervne0BnU0raxSI5Ooc) | [Dove e Quando RMX \(feat\. Finley\)](https://open.spotify.com/album/55baJF1ZjkLewDhnBI7hqG) | 2:42 | 2023-05-25 | 2023-07-21 |

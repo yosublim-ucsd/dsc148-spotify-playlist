@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyonhntyFxW.md) - [plain]
 
 > انا سايبك تاكل عيش يازميلي، لكون فاكرني ناسيك\. غلاف: زياذ ظاظا
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,893 likes - 39 songs - 1 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 247,014 likes - 39 songs - 1 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -193,6 +193,24 @@
     },
     {
       "album": {
+        "name": "That High Lonesome Sound",
+        "url": "https://open.spotify.com/album/5ueGR0m10jBtZqSPQTc0fo"
+      },
+      "artists": [
+        {
+          "name": "Old & In The Way",
+          "url": "https://open.spotify.com/artist/45vs9Drn5QbWAQ4Kff6ofh"
+        }
+      ],
+      "date_added": "2024-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245066,
+      "name": "Catfish John",
+      "url": "https://open.spotify.com/track/2CvKqxfVUull8WVkpdI1Of"
+    },
+    {
+      "album": {
         "name": "Childish Love",
         "url": "https://open.spotify.com/album/3xDpIztajZaXLs3EKoUxc0"
       },
@@ -1159,6 +1177,24 @@
     },
     {
       "album": {
+        "name": "Classic Bluegrass",
+        "url": "https://open.spotify.com/album/27zU94n3U26qPgS6eeaKKa"
+      },
+      "artists": [
+        {
+          "name": "Ralph Stanley",
+          "url": "https://open.spotify.com/artist/4fMhmL6pvw61o0C1z8Bdib"
+        }
+      ],
+      "date_added": "2024-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159826,
+      "name": "Rank Stranger",
+      "url": "https://open.spotify.com/track/5SJOP80xuzTyjvj3RWZAwl"
+    },
+    {
+      "album": {
         "name": "The Essential Bill Monroe",
         "url": "https://open.spotify.com/album/3kAqAMODlj5rjUiqtzlrIo"
       },
@@ -1298,6 +1334,24 @@
       "duration_ms": 190493,
       "name": "Sally Gooden",
       "url": "https://open.spotify.com/track/5VdYenFr9hnB0jTBDzs9NC"
+    },
+    {
+      "album": {
+        "name": "Anthology",
+        "url": "https://open.spotify.com/album/3jOrYZPtUL54bBR71yGixE"
+      },
+      "artists": [
+        {
+          "name": "Bill Monroe & His Blue Grass Boys",
+          "url": "https://open.spotify.com/artist/64vAECmFoB6mi7n1zTRwR8"
+        }
+      ],
+      "date_added": "2024-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193733,
+      "name": "Sally Goodin - Stereo Version",
+      "url": "https://open.spotify.com/track/13XBc7hcufz2mqBJYysekS"
     },
     {
       "album": {
@@ -1494,6 +1548,32 @@
       "duration_ms": 168720,
       "name": "There Is a Time - Recorded at the Mecca, Los Angeles",
       "url": "https://open.spotify.com/track/1xRgiVZdboVguGvZfFtAxr"
+    },
+    {
+      "album": {
+        "name": "There\u2019s Another Baby Waiting for Me Down the Line",
+        "url": "https://open.spotify.com/album/2QqmE7Wiz11bmqRf3kEAfh"
+      },
+      "artists": [
+        {
+          "name": "The Reno Brothers",
+          "url": "https://open.spotify.com/artist/2vruTtpGNMuQuxxZllS2JQ"
+        },
+        {
+          "name": "The Reno Family",
+          "url": "https://open.spotify.com/artist/3Xy23rmREB48e4f2EIaqw1"
+        },
+        {
+          "name": "Don Reno",
+          "url": "https://open.spotify.com/artist/7rB502Ec9wP6wZQxhztkM7"
+        }
+      ],
+      "date_added": "2024-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182080,
+      "name": "There\u2019s Another Baby Waiting for Me Down the Line",
+      "url": "https://open.spotify.com/track/77x3EOU0DTf7Hd3yOHsOwA"
     },
     {
       "album": {
@@ -1750,6 +1830,24 @@
       "duration_ms": 99026,
       "name": "Whitehouse Blues",
       "url": "https://open.spotify.com/track/5JxJ1qkfZxbivjdusciKas"
+    },
+    {
+      "album": {
+        "name": "20 Greatest Hits",
+        "url": "https://open.spotify.com/album/74TBRFAUg45bJuAibnU5l2"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Martin",
+          "url": "https://open.spotify.com/artist/5Xwgp3LVYzHtRnio8TbzWz"
+        }
+      ],
+      "date_added": "2024-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168186,
+      "name": "Widow Maker",
+      "url": "https://open.spotify.com/track/4XpEfhVUOfUTNOJT1k5cn3"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX0RwLEp3x6W4"

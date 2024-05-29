@@ -1,12 +1,12 @@
 {
   "description": "what i&#x27;m listening to: may-june 2024 (previous playlists archived on my profile)",
-  "num_followers": 19553,
+  "num_followers": 19555,
   "original_name": "impressive\u2026 but true!",
   "owner": {
     "name": "margeaux",
     "url": "https://open.spotify.com/user/1220511975"
   },
-  "snapshot_id": "AAAKc/OZKijKqdHIhh8u2tU6XKDcVyW2",
+  "snapshot_id": "AAAKeHGYc7XXjlu7B957eiu8XFOJovGv",
   "tracks": [
     {
       "added_at": "2024-05-16 01:01:16",
@@ -365,6 +365,22 @@
       "url": "https://open.spotify.com/track/3GHI7zfOFyQigfGBiJc2Ya"
     },
     {
+      "added_at": "2024-05-28 16:01:21",
+      "album": {
+        "name": "Wonderful now",
+        "url": "https://open.spotify.com/album/5JbVN9ZS9AV6EG6m9Pc7PF"
+      },
+      "artists": [
+        {
+          "name": "Anatole Muster",
+          "url": "https://open.spotify.com/artist/3wfxadqnYdgo7M31acbDVK"
+        }
+      ],
+      "duration_ms": 106764,
+      "name": "girl in my dreams (midwest accordion emo)",
+      "url": "https://open.spotify.com/track/2nH5JLiJhlmX9eQTWQ4MsP"
+    },
+    {
       "added_at": "2024-05-24 19:59:16",
       "album": {
         "name": "Le Jardin De Heavenly",
@@ -447,6 +463,54 @@
       "duration_ms": 147973,
       "name": "On Box Hill",
       "url": "https://open.spotify.com/track/12zeveHIA4DLzT6wzbCeZ3"
+    },
+    {
+      "added_at": "2024-05-28 16:31:58",
+      "album": {
+        "name": "Foolish Narratives",
+        "url": "https://open.spotify.com/album/3U8gnCYmIbi3jioRzZjC0B"
+      },
+      "artists": [
+        {
+          "name": "Double Virgo",
+          "url": "https://open.spotify.com/artist/6z7qEMTNZigz2k3qozRYw1"
+        }
+      ],
+      "duration_ms": 118697,
+      "name": "Burning Bridges",
+      "url": "https://open.spotify.com/track/6iETKJUWLiv6zS1GgBVRTe"
+    },
+    {
+      "added_at": "2024-05-29 01:01:06",
+      "album": {
+        "name": "Shake the Pounce",
+        "url": "https://open.spotify.com/album/3eMTYeAfSefi2vy5TTbB4Q"
+      },
+      "artists": [
+        {
+          "name": "Gaze",
+          "url": "https://open.spotify.com/artist/7nRXUCPuFbA0y7dGZ06Jlq"
+        }
+      ],
+      "duration_ms": 131560,
+      "name": "Tea Or Coffee",
+      "url": "https://open.spotify.com/track/4ZISwlHvOnn5zg9kHZmM7o"
+    },
+    {
+      "added_at": "2024-05-29 01:01:10",
+      "album": {
+        "name": "Shake the Pounce",
+        "url": "https://open.spotify.com/album/3eMTYeAfSefi2vy5TTbB4Q"
+      },
+      "artists": [
+        {
+          "name": "Gaze",
+          "url": "https://open.spotify.com/artist/7nRXUCPuFbA0y7dGZ06Jlq"
+        }
+      ],
+      "duration_ms": 100680,
+      "name": "Mr. Oh So Suave & Debonaire",
+      "url": "https://open.spotify.com/track/4jnz75XaJDbHDKEkuSz8OM"
     }
   ],
   "unique_name": "impressive\u2026 but true!",

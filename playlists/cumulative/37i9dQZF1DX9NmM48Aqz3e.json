@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Robin Hood: Prince Of Thieves (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3bbdZdZQtCtnWEN5zG7Eyj"
+      },
+      "artists": [
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        }
+      ],
+      "date_added": "2024-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 398026,
+      "name": "(Everything I Do) I Do It For You",
+      "url": "https://open.spotify.com/track/5HQ6AUDMbMuwktvcNPuV1y"
+    },
+    {
+      "album": {
         "name": "12 Years Old",
         "url": "https://open.spotify.com/album/302yxD5gCv1qPpvqrYQpn3"
       },
@@ -898,7 +916,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-29",
       "duration_ms": 249426,
       "name": "If I Fall",
       "url": "https://open.spotify.com/track/5y1SrenKCtZ1AXnl9fGLb1"
@@ -2724,6 +2742,28 @@
     {
       "album": {
         "name": "On A Day Like Today",
+        "url": "https://open.spotify.com/album/1xF1nKu3UL84l7CofB4QBV"
+      },
+      "artists": [
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        },
+        {
+          "name": "Melanie C",
+          "url": "https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df"
+        }
+      ],
+      "date_added": "2024-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204893,
+      "name": "When You're Gone",
+      "url": "https://open.spotify.com/track/7p9dd71JR2ucoAuO1Sy0VZ"
+    },
+    {
+      "album": {
+        "name": "On A Day Like Today",
         "url": "https://open.spotify.com/album/5x3Ws76JQN6elCUAOfVVlT"
       },
       "artists": [
@@ -2760,7 +2800,7 @@
       ],
       "date_added": "2024-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-29",
       "duration_ms": 201093,
       "name": "When You're Gone (Classic Version)",
       "url": "https://open.spotify.com/track/3igRudEJLuWBumYOdPXQxc"

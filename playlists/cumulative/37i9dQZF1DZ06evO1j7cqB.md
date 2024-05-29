@@ -2,7 +2,7 @@
 
 ### [This Is Bear McCreary](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1j7cqB)
 
-> This is Bear McCreary\. Todos os maiores hits em uma só playlist.
+> This Is Bear McCreary\. Los temas esenciales, todos en una lista.
 
 89 songs - 5 hr 27 min
 

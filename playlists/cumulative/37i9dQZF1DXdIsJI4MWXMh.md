@@ -4,7 +4,7 @@
 
 > ¡A gastar la suela con lo mejor de la ranchera chilena!
 
-130 songs - 8 hr 53 min
+131 songs - 8 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [La Pagarás](https://open.spotify.com/track/6e3m4DljhPz53HKhaFqsky) | [Zumba Ranchera](https://open.spotify.com/artist/7yqVm4qWAFjxvtw5R9HHLu) | [La Pagarás](https://open.spotify.com/album/4A20U2NzYqyWFwsmdubrcz) | 3:52 | 2023-05-29 |  |
 | [La Paliza](https://open.spotify.com/track/4qWBPa4f21TTCtrDI95IrG) | [Josepth el Ranchero](https://open.spotify.com/artist/0Sbh70Uh5JuiHCjXXql0nT) | [Pisando Fuerte](https://open.spotify.com/album/73FNvltKoEE8HeZ9eO5j9Y) | 3:56 | 2023-03-03 | 2023-09-13 |
 | [La Pareja Ideal](https://open.spotify.com/track/5QEvWvmJ8G2Gda219wCY9x) | [Los Gatos Negros](https://open.spotify.com/artist/65F6OtLWx2jRUCjEgjj9D6) | [Rancheras Populares 16 Éxitos \(Vol\. 3\)](https://open.spotify.com/album/79FB6kLs7REYbGEYFew3Xr) | 4:40 | 2023-03-03 | 2024-04-19 |
+| [La Pololita](https://open.spotify.com/track/4Eyu9MSZ4pb29Y6oLMv01B) | [Los Prisioneros del Sur](https://open.spotify.com/artist/5zKSDRkzPs96LCwHIlLaLw) | [La Pololita](https://open.spotify.com/album/0cLkRFrl1nzwUqL2dk5TlX) | 3:20 | 2023-10-05 |  |
 | [La Puntada](https://open.spotify.com/track/494ZDmO4zk9knBfI0o3Wn8) | [Los Hermanos Bustos](https://open.spotify.com/artist/6tHL3QK7MT2Tm05x3D3MfQ) | [La Trayectoria](https://open.spotify.com/album/47HtfhXmNErmARr7h9Wx9g) | 2:54 | 2023-03-03 |  |
 | [La Rumbera](https://open.spotify.com/track/7FM9C1MThKu9AlMltdBZDL) | [Los Cumbieros](https://open.spotify.com/artist/1oxiRPCo3i3tVs9nbcIYdF) | [12 Años de Historia](https://open.spotify.com/album/26Mb8YUJfW0yhdUmu3YWjn) | 2:58 | 2023-03-03 |  |
 | [La Suegra](https://open.spotify.com/track/0KvdmyWi1v3HaRjSM64tgo) | [Koky y su banda tropical ranchera](https://open.spotify.com/artist/0NsSi0eIkQ5z2CDDQ9RGGf) | [La Fiesta de Koky](https://open.spotify.com/album/3ExrYJUNGwdwLIhdexPKvd) | 3:24 | 2023-03-03 |  |
@@ -103,7 +104,7 @@
 | [Ojitos rojos](https://open.spotify.com/track/0NuvBFFPymRqHndt0gjYo3) | [Los Tremendos Rancheros](https://open.spotify.com/artist/2bbtoUWNv9uzGrkgXAKl9g) | [Ojitos rojos](https://open.spotify.com/album/5QX2UEQ2CINNfDZbsHeguK) | 3:08 | 2023-10-05 | 2024-04-19 |
 | [Ojitos rojos](https://open.spotify.com/track/0t2jtmpU4jw9si5fXFZyKO) | [Los Tremendos Rancheros](https://open.spotify.com/artist/2bbtoUWNv9uzGrkgXAKl9g) | [Ojitos rojos](https://open.spotify.com/album/0p3k4ozpaJa2466pdd6eRj) | 3:08 | 2023-09-08 |  |
 | [Ojitos Verdes](https://open.spotify.com/track/1NMPgg0S88HdOkrdCxjucv) | [Los Diamantes de Purapel](https://open.spotify.com/artist/2qXq5Q06bTg3wUxs7mar7U) | [Nuestra Música Suena Mas Fuerte Que Tus Problemas](https://open.spotify.com/album/2oKdLYpjkDEvjM6f9vLgEf) | 3:31 | 2023-03-03 |  |
-| [Palomita de Alas Blancas](https://open.spotify.com/track/3Zh8ZpBFRe8OBSNdxTY4VG) | [Los Prisioneros del Sur](https://open.spotify.com/artist/5zKSDRkzPs96LCwHIlLaLw) | [Palomita de Alas Blancas](https://open.spotify.com/album/3ntXjITCrt7BlOgTVith78) | 1:55 | 2023-03-03 |  |
+| [Palomita de Alas Blancas](https://open.spotify.com/track/3Zh8ZpBFRe8OBSNdxTY4VG) | [Los Prisioneros del Sur](https://open.spotify.com/artist/5zKSDRkzPs96LCwHIlLaLw) | [Palomita de Alas Blancas](https://open.spotify.com/album/3ntXjITCrt7BlOgTVith78) | 1:55 | 2023-03-03 | 2024-05-29 |
 | [Para Ti Solita / Matame A Besos \(En Vivo\)](https://open.spotify.com/track/6VHJsTRTZ5LUT7G6ZX9gku) | [Los Rancheros De Rio Maule](https://open.spotify.com/artist/6r90tCIVqGvSHLouiTUhQW) | [Para Ti Solita / Matame A Besos \(En Vivo\)](https://open.spotify.com/album/2CTeAoEp6OOoWpWInsmHGu) | 7:36 | 2023-03-03 | 2024-04-19 |
 | [Pecado de Amor](https://open.spotify.com/track/1o4te8zmQt1mE2yxoXXoAz) | [Relámpagos de Chile](https://open.spotify.com/artist/0jnjgwYULpi1D4dn6k7RlD) | [Para Mi Gente Campesina](https://open.spotify.com/album/0WR66V5mPl5xkTLBo4LYAE) | 3:16 | 2023-10-05 |  |
 | [Por Andar de Patas Negras](https://open.spotify.com/track/6Bm88gtarbeSbIcILdoe7K) | [Los tremendos laureles](https://open.spotify.com/artist/6kj1gcKlqrvaKAMbBNgp2U) | [Por Andar de Patas Negras](https://open.spotify.com/album/58WLAwlsDcs6vKSNBkIzP7) | 3:54 | 2023-03-03 |  |

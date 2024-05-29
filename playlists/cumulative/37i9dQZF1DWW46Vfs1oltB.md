@@ -4,7 +4,7 @@
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover: YANGHONGWON\(양홍원\)\)
 
-1,228 songs - 2 day 18 hr 46 min
+1,230 songs - 2 day 18 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -490,6 +490,7 @@
 | [human changes](https://open.spotify.com/track/5yPLjnYG4FqwmEHISAx32K) | [shinsammy sj](https://open.spotify.com/artist/0JkyXXK3HMBCnjUOJNG2rs) | [human changes](https://open.spotify.com/album/2GTBu2dPRDjMoOdEo8sZY4) | 2:30 | 2022-01-13 | 2022-04-21 |
 | [Hungry](https://open.spotify.com/track/5PoSrD59xcst3cUtvGODHK) | [Yang Kyle](https://open.spotify.com/artist/4x5ZXHL71AGw8hI2pC4Y4l), [KAMBO](https://open.spotify.com/artist/2LE4iuwlb4vZMWKTw68g4i), [IFCHAN](https://open.spotify.com/artist/32ZgfbkvQ2StzCVv8Umkq6), [J.win](https://open.spotify.com/artist/7CWx8NQWaDLR5VoyvmOFa4) | [VERSE BATTLE RAPCUP 32R GROUP MATCH Part.4](https://open.spotify.com/album/052j5QBMUfU0ywEWV8dUES) | 3:09 | 2024-04-22 |  |
 | [HUNT \(Feat\. PSICK UNIV\)](https://open.spotify.com/track/3UJAaIdK5h9Jm6Z4svPqO2) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4), [PSICK UNIV](https://open.spotify.com/artist/3BkB72oWzyeNp8b16IIbbs) | [2 Kids On The Block \- Part.2](https://open.spotify.com/album/57xErJJ3FrLxw2o6j37F9B) | 4:16 | 2023-08-28 | 2024-03-09 |
+| [hur \(feat\. C JAMM\)](https://open.spotify.com/track/4E97uO8qzkfiCtqjPuuwfM) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq), [C JAMM](https://open.spotify.com/artist/2ZT3bnHPOdErwCLdP5aHqR) | [GRB01](https://open.spotify.com/album/1VXiBulpY2Otih9AvmhtdY) | 2:53 | 2024-05-28 |  |
 | [Hwang Jini Freestyle](https://open.spotify.com/track/655fDPI0t52KQR1dKumUW2) | [CHIO CHICANO](https://open.spotify.com/artist/6Gm4n4X3L1ywYkfd1AEzTb) | [Hwang Jini Freestyle](https://open.spotify.com/album/0Z6mF3rb7phlga9ZLRFO4p) | 2:07 | 2023-12-07 | 2024-03-09 |
 | [HYENA](https://open.spotify.com/track/4lNTkGuzgLs5Hkt00O4wVH) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [HYENA \(Original Television Soundtrack\) Pt\. 4](https://open.spotify.com/album/6SZKcWl8cFQufTpyCsUYLq) | 3:38 | 2022-03-29 | 2022-04-18 |
 | [HYPE ENERGY](https://open.spotify.com/track/6nqHjXK2kBFCVt5iHHZMqA) | [JOOHONEY](https://open.spotify.com/artist/4rpOWirhzqN7NPgRX76l1k) | [LIGHTS](https://open.spotify.com/album/6cnmwaHjTjBy3PbLdh6nla) | 2:25 | 2023-05-24 | 2023-09-08 |
@@ -1051,6 +1052,7 @@
 | [That's me be \(Feat\. TimeFeveR\)](https://open.spotify.com/track/43uFVfnm2JzlSFJ0q7InIH) | [Taeb2](https://open.spotify.com/artist/2PWVaWdOdocqnJhIdaGMRT), [TimeFeveR](https://open.spotify.com/artist/3jswVC5CJkKeDp8ugPH42m) | [That's me be \(Feat\. TimeFeveR\)](https://open.spotify.com/album/47jbFjVlXBMbAwNSDQCUXj) | 3:10 | 2022-02-03 | 2022-05-08 |
 | [That's We](https://open.spotify.com/track/0ELxYNhnn8OPywuQT00GEc) | [gamma](https://open.spotify.com/artist/0wwLWUeZfiDyXncBoBYkQ3), [unofficialboyy](https://open.spotify.com/artist/0hoIUrMFR0Cy6aTbma8b2o), [영독](https://open.spotify.com/artist/4dVGwChUNSKQBsCWuVwkop), [Young Chang](https://open.spotify.com/artist/10Q98X72E0f5yLez0jEbQt), [obiegogle](https://open.spotify.com/artist/7A90OUMBG7u61jxhAuz6to), [achillo](https://open.spotify.com/artist/0r5yZki2ePDv8EZ7ah01RA) | [That's We](https://open.spotify.com/album/1ydKFtQJ6R5zXrt9fCTOAg) | 4:31 | 2022-05-11 | 2022-06-30 |
 | [That's Why I Can't Talk About Love \(Feat\. Woo\)](https://open.spotify.com/track/1BmvCldqrJeAKZ898FPdUZ) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq), [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02) | [That's Why I Can't Talk About Love](https://open.spotify.com/album/1RrhtJWm5crbMBiIP34arG) | 3:22 | 2022-12-14 | 2023-06-14 |
+| [The Cult](https://open.spotify.com/track/4LBJJusvruhLfNgiQxSQBR) | [Uneducated Kid](https://open.spotify.com/artist/08KbKkPqaYNFYM9R5eMjuM) | [UNEDUCATED WORLD 2](https://open.spotify.com/album/4JSWvPh200me9rfjLdiyhZ) | 2:11 | 2024-05-28 |  |
 | [The Frost Style \(Feat\. Khundi Panda, dsel\)](https://open.spotify.com/track/3ibtD6oaiq6rdQ3u2UGxXv) | [Son Simba](https://open.spotify.com/artist/4q2IjH8TVz7CNSzIiPDV6B), [Khundi Panda](https://open.spotify.com/artist/32wJE7JooXm59HxYhy7caU), [DSEL](https://open.spotify.com/artist/57yCT0l4y1QPz1bzF2mQXx) | [DOUBLECROSS MUSASHI](https://open.spotify.com/album/45Ua0ahXDk14Q6FoY4UK10) | 3:20 | 2023-03-22 | 2023-06-14 |
 | [THE GOD](https://open.spotify.com/track/1e8NEFSetdaFqn2KnmhjqE) | [Dok2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE) | [Trust Me I Know Everything You Think I Don't Mixtape](https://open.spotify.com/album/4o9fJQ3QDSmWgXIhFGIkX4) | 2:18 | 2022-02-03 | 2022-06-05 |
 | [The inflection points](https://open.spotify.com/track/3n774YlC8dFMGXqcLjVWFU) | [Doplamingo](https://open.spotify.com/artist/1T7DSjrtX5ydHFT9xJOQCn) | [The Gateless Gate](https://open.spotify.com/album/7x50GGhigFVzm7NGuCOmtk) | 4:15 | 2022-01-15 | 2022-06-30 |

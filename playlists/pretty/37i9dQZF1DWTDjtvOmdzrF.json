@@ -1,6 +1,6 @@
 {
   "description": "Racikan akustik dalam secangkir kopi. ",
-  "num_followers": 554745,
+  "num_followers": 554783,
   "original_name": "Kopikustik",
   "owner": {
     "name": "Spotify",
@@ -703,22 +703,6 @@
     {
       "added_at": "2024-05-08 07:15:33",
       "album": {
-        "name": "Tuhan Sebut Sia-Sia",
-        "url": "https://open.spotify.com/album/4Fo0gJruvAGDIY9j6e4BVJ"
-      },
-      "artists": [
-        {
-          "name": "Amigdala",
-          "url": "https://open.spotify.com/artist/40wi3VPurw0e4t3Yggo2Fk"
-        }
-      ],
-      "duration_ms": 317453,
-      "name": "Tuhan Sebut Sia-Sia",
-      "url": "https://open.spotify.com/track/5qZRyl3QDa1PbNXuYfBCEP"
-    },
-    {
-      "added_at": "2024-05-08 07:15:33",
-      "album": {
         "name": "8 Tahun",
         "url": "https://open.spotify.com/album/32SLZ72En7DvxafTDhdk28"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 287453,
       "name": "Sesuatu Di Jogja",
       "url": "https://open.spotify.com/track/0MAIxtXWimwhAAQOST9jp7"
+    },
+    {
+      "added_at": "2024-05-08 07:15:33",
+      "album": {
+        "name": "Tuhan Sebut Sia-Sia",
+        "url": "https://open.spotify.com/album/4Fo0gJruvAGDIY9j6e4BVJ"
+      },
+      "artists": [
+        {
+          "name": "Amigdala",
+          "url": "https://open.spotify.com/artist/40wi3VPurw0e4t3Yggo2Fk"
+        }
+      ],
+      "duration_ms": 317453,
+      "name": "Tuhan Sebut Sia-Sia",
+      "url": "https://open.spotify.com/track/5qZRyl3QDa1PbNXuYfBCEP"
     },
     {
       "added_at": "2024-05-08 07:15:33",
@@ -1235,18 +1235,22 @@
     {
       "added_at": "2024-05-08 07:15:33",
       "album": {
-        "name": "DIA",
-        "url": "https://open.spotify.com/album/3jJo85yRqKTYdmAjzznRsq"
+        "name": "Tak Ingin Pisah Lagi",
+        "url": "https://open.spotify.com/album/55EPRJFc0JAWKeLEFJogQ4"
       },
       "artists": [
         {
-          "name": "Anji",
-          "url": "https://open.spotify.com/artist/0b4XpbAVDPngjDTbcSWH8N"
+          "name": "Marion Jola",
+          "url": "https://open.spotify.com/artist/5Bh3L78YDNSWljRR1JO5C5"
+        },
+        {
+          "name": "Rizky Febian",
+          "url": "https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku"
         }
       ],
-      "duration_ms": 207490,
-      "name": "Dia - Hits Single",
-      "url": "https://open.spotify.com/track/2ok6IGh97S4eIRse9K2sjg"
+      "duration_ms": 265518,
+      "name": "Tak Ingin Pisah Lagi",
+      "url": "https://open.spotify.com/track/67L0rPX2z7n44XBYStoHDg"
     }
   ],
   "unique_name": "Kopikustik",

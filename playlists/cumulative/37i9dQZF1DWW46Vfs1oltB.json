@@ -11137,6 +11137,28 @@
     },
     {
       "album": {
+        "name": "GRB01",
+        "url": "https://open.spotify.com/album/1VXiBulpY2Otih9AvmhtdY"
+      },
+      "artists": [
+        {
+          "name": "GIRIBOY",
+          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
+        },
+        {
+          "name": "C JAMM",
+          "url": "https://open.spotify.com/artist/2ZT3bnHPOdErwCLdP5aHqR"
+        }
+      ],
+      "date_added": "2024-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173892,
+      "name": "hur (feat. C JAMM)",
+      "url": "https://open.spotify.com/track/4E97uO8qzkfiCtqjPuuwfM"
+    },
+    {
+      "album": {
         "name": "Hwang Jini Freestyle",
         "url": "https://open.spotify.com/album/0Z6mF3rb7phlga9ZLRFO4p"
       },
@@ -23936,6 +23958,24 @@
       "duration_ms": 202840,
       "name": "That's Why I Can't Talk About Love (Feat. Woo)",
       "url": "https://open.spotify.com/track/1BmvCldqrJeAKZ898FPdUZ"
+    },
+    {
+      "album": {
+        "name": "UNEDUCATED WORLD 2",
+        "url": "https://open.spotify.com/album/4JSWvPh200me9rfjLdiyhZ"
+      },
+      "artists": [
+        {
+          "name": "Uneducated Kid",
+          "url": "https://open.spotify.com/artist/08KbKkPqaYNFYM9R5eMjuM"
+        }
+      ],
+      "date_added": "2024-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131162,
+      "name": "The Cult",
+      "url": "https://open.spotify.com/track/4LBJJusvruhLfNgiQxSQBR"
     },
     {
       "album": {

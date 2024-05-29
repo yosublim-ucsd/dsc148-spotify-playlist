@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover: My Friend Catie, Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,195,705 likes - 97 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,195,776 likes - 97 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

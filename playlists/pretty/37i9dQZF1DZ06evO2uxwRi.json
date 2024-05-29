@@ -1,12 +1,12 @@
 {
   "description": "This is New Found Glory. The essential tracks, all in one playlist.",
-  "num_followers": 39767,
+  "num_followers": 39765,
   "original_name": "This Is New Found Glory",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlJ7gAAAAADl2NqS4I8M7xmdyThgRwQI",
+  "snapshot_id": "ZlPNAAAAAAAIGpdYXdWCeVJrRSb8GnZC",
   "tracks": [
     {
       "added_at": null,
@@ -431,6 +431,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "From The Screen To Your Stereo",
+        "url": "https://open.spotify.com/album/6gLB4AXdU7VI21xsdRwhLl"
+      },
+      "artists": [
+        {
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        }
+      ],
+      "duration_ms": 199226,
+      "name": "The Glory Of Love",
+      "url": "https://open.spotify.com/track/6cVhAh4c2tduGpxeWwBAY7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "in loving memory",
         "url": "https://open.spotify.com/album/0ZvU2iSXtYxBeR9QzvHQau"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 204400,
       "name": "nothing matters (with Jordan Pundik of New Found Glory)",
       "url": "https://open.spotify.com/track/3HNIIQ6yyYZ3b8zHGeGogf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "From The Screen To Your Stereo",
-        "url": "https://open.spotify.com/album/6gLB4AXdU7VI21xsdRwhLl"
-      },
-      "artists": [
-        {
-          "name": "New Found Glory",
-          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
-        }
-      ],
-      "duration_ms": 199226,
-      "name": "The Glory Of Love",
-      "url": "https://open.spotify.com/track/6cVhAh4c2tduGpxeWwBAY7"
     },
     {
       "added_at": null,
@@ -531,6 +531,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "New Found Glory",
+        "url": "https://open.spotify.com/album/4lrBF0IWC9wZiF6btB68ua"
+      },
+      "artists": [
+        {
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        }
+      ],
+      "duration_ms": 168333,
+      "name": "Better Off Dead",
+      "url": "https://open.spotify.com/track/3D2ZhGxvaweSrZkFqoNblC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Coming Home",
         "url": "https://open.spotify.com/album/1rRe0RrLHXpYhOSQeiGgGK"
       },
@@ -547,22 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Forever And Ever x Infinity",
-        "url": "https://open.spotify.com/album/5P7G7Y2qqcPVf5Y9oknWyn"
-      },
-      "artists": [
-        {
-          "name": "New Found Glory",
-          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
-        }
-      ],
-      "duration_ms": 177037,
-      "name": "Greatest Of All Time",
-      "url": "https://open.spotify.com/track/4ZsgnD8CqWPF15nhT6HQED"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "From The Screen To Your Stereo 3",
         "url": "https://open.spotify.com/album/5kXa75AebVa3cTR07N4fxv"
       },
@@ -575,6 +575,22 @@
       "duration_ms": 178810,
       "name": "Accidentally in Love",
       "url": "https://open.spotify.com/track/6dF8V3HeiLd8X2I2BkxhUV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Forever And Ever x Infinity",
+        "url": "https://open.spotify.com/album/5P7G7Y2qqcPVf5Y9oknWyn"
+      },
+      "artists": [
+        {
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        }
+      ],
+      "duration_ms": 177037,
+      "name": "Greatest Of All Time",
+      "url": "https://open.spotify.com/track/4ZsgnD8CqWPF15nhT6HQED"
     },
     {
       "added_at": null,
@@ -675,8 +691,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Coming Home",
-        "url": "https://open.spotify.com/album/1rRe0RrLHXpYhOSQeiGgGK"
+        "name": "Makes Me Sick",
+        "url": "https://open.spotify.com/album/2z9SJZVRMlOKDBtvQXwmhk"
       },
       "artists": [
         {
@@ -684,9 +700,9 @@
           "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
         }
       ],
-      "duration_ms": 195026,
-      "name": "Oxygen",
-      "url": "https://open.spotify.com/track/1KoQHGlqulrXXSoYRJv98N"
+      "duration_ms": 203869,
+      "name": "Party On Apocalypse",
+      "url": "https://open.spotify.com/track/1lpNUHTrkICQO9vnEpH8g5"
     },
     {
       "added_at": null,
@@ -723,8 +739,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Makes Me Sick",
-        "url": "https://open.spotify.com/album/2z9SJZVRMlOKDBtvQXwmhk"
+        "name": "Coming Home",
+        "url": "https://open.spotify.com/album/1rRe0RrLHXpYhOSQeiGgGK"
       },
       "artists": [
         {
@@ -732,9 +748,9 @@
           "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
         }
       ],
-      "duration_ms": 203869,
-      "name": "Party On Apocalypse",
-      "url": "https://open.spotify.com/track/1lpNUHTrkICQO9vnEpH8g5"
+      "duration_ms": 195026,
+      "name": "Oxygen",
+      "url": "https://open.spotify.com/track/1KoQHGlqulrXXSoYRJv98N"
     },
     {
       "added_at": null,
@@ -799,22 +815,6 @@
       "duration_ms": 163860,
       "name": "Shook By Your Shaved Head",
       "url": "https://open.spotify.com/track/7dUQARW7C85mHp9SeF0mOY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "New Found Glory",
-        "url": "https://open.spotify.com/album/2c33qDDUaE3wvolW7OoPEA"
-      },
-      "artists": [
-        {
-          "name": "New Found Glory",
-          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
-        }
-      ],
-      "duration_ms": 172293,
-      "name": "Sucker",
-      "url": "https://open.spotify.com/track/43GEARdOhWe57fq6lLvTt8"
     }
   ],
   "unique_name": "This Is New Found Glory",

@@ -1,6 +1,6 @@
 {
   "description": "The best from Britain's vibrant scene. Cover: Jordan Rakei",
-  "num_followers": 312423,
+  "num_followers": 312462,
   "original_name": "Jazz UK",
   "owner": {
     "name": "Spotify",
@@ -467,8 +467,8 @@
     {
       "added_at": "2024-05-23 23:00:00",
       "album": {
-        "name": "Chasing the Drum - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/1skZcEagq9Q9DHgeuHYb9F"
+        "name": "Black Classical Music",
+        "url": "https://open.spotify.com/album/2A5yzYdLTVTLQaCp4CTKwG"
       },
       "artists": [
         {
@@ -476,9 +476,9 @@
           "url": "https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht"
         }
       ],
-      "duration_ms": 221986,
-      "name": "Chasing the Drum - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/0kJ4GK8E5eDy7WYUQ5fUT5"
+      "duration_ms": 191893,
+      "name": "Turquoise Galaxy",
+      "url": "https://open.spotify.com/track/71vcxMgWBvsUbwtRBzk2Vd"
     },
     {
       "added_at": "2024-05-23 23:00:00",
@@ -591,8 +591,8 @@
     {
       "added_at": "2024-05-23 23:00:00",
       "album": {
-        "name": "Black Classical Music",
-        "url": "https://open.spotify.com/album/2A5yzYdLTVTLQaCp4CTKwG"
+        "name": "Chasing the Drum - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/1skZcEagq9Q9DHgeuHYb9F"
       },
       "artists": [
         {
@@ -600,9 +600,9 @@
           "url": "https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht"
         }
       ],
-      "duration_ms": 191893,
-      "name": "Turquoise Galaxy",
-      "url": "https://open.spotify.com/track/71vcxMgWBvsUbwtRBzk2Vd"
+      "duration_ms": 221986,
+      "name": "Chasing the Drum - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/0kJ4GK8E5eDy7WYUQ5fUT5"
     },
     {
       "added_at": "2024-05-23 23:00:00",
@@ -799,22 +799,6 @@
     {
       "added_at": "2024-05-23 23:00:00",
       "album": {
-        "name": "Talk To Me",
-        "url": "https://open.spotify.com/album/5mCZBxFQoF2jW6NmCKAZ6y"
-      },
-      "artists": [
-        {
-          "name": "TIANNA",
-          "url": "https://open.spotify.com/artist/5dmtTFDrjcJrZAGk1RbgoM"
-        }
-      ],
-      "duration_ms": 162307,
-      "name": "Talk To Me",
-      "url": "https://open.spotify.com/track/5bHVvFGDTLsUPsgSV8Qi4c"
-    },
-    {
-      "added_at": "2024-05-23 23:00:00",
-      "album": {
         "name": "Woe Is Me",
         "url": "https://open.spotify.com/album/5CQPeYHDgr8d2ikkZwIERX"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 220001,
       "name": "Woe Is Me",
       "url": "https://open.spotify.com/track/6vtf3U3toO8stSeLInVJtL"
+    },
+    {
+      "added_at": "2024-05-23 23:00:00",
+      "album": {
+        "name": "Talk To Me",
+        "url": "https://open.spotify.com/album/5mCZBxFQoF2jW6NmCKAZ6y"
+      },
+      "artists": [
+        {
+          "name": "TIANNA",
+          "url": "https://open.spotify.com/artist/5dmtTFDrjcJrZAGk1RbgoM"
+        }
+      ],
+      "duration_ms": 162307,
+      "name": "Talk To Me",
+      "url": "https://open.spotify.com/track/5bHVvFGDTLsUPsgSV8Qi4c"
     },
     {
       "added_at": "2024-05-23 23:00:00",
@@ -871,6 +871,26 @@
     {
       "added_at": "2024-05-23 23:00:00",
       "album": {
+        "name": "Chasing Days (Sam Redmore Remix)",
+        "url": "https://open.spotify.com/album/4pSclrufz705aSbj4gASWM"
+      },
+      "artists": [
+        {
+          "name": "Izo FitzRoy",
+          "url": "https://open.spotify.com/artist/50gPQYV9WREGkWM53dNb9r"
+        },
+        {
+          "name": "Sam Redmore",
+          "url": "https://open.spotify.com/artist/3McygTbX192HcFzSHa9mA6"
+        }
+      ],
+      "duration_ms": 322812,
+      "name": "Chasing Days - Sam Redmore Remix",
+      "url": "https://open.spotify.com/track/4VO19I7PqB0YbR5r4Nbv26"
+    },
+    {
+      "added_at": "2024-05-23 23:00:00",
+      "album": {
         "name": "The Silhouettes Project, Vol. 2",
         "url": "https://open.spotify.com/album/6GjyshlYp4mykcyT7rxoAs"
       },
@@ -899,26 +919,6 @@
       "duration_ms": 222653,
       "name": "Hocus Pocus",
       "url": "https://open.spotify.com/track/6Bidjfsyq4qbpwRCl2Cd85"
-    },
-    {
-      "added_at": "2024-05-23 23:00:00",
-      "album": {
-        "name": "Chasing Days (Sam Redmore Remix)",
-        "url": "https://open.spotify.com/album/4pSclrufz705aSbj4gASWM"
-      },
-      "artists": [
-        {
-          "name": "Izo FitzRoy",
-          "url": "https://open.spotify.com/artist/50gPQYV9WREGkWM53dNb9r"
-        },
-        {
-          "name": "Sam Redmore",
-          "url": "https://open.spotify.com/artist/3McygTbX192HcFzSHa9mA6"
-        }
-      ],
-      "duration_ms": 322812,
-      "name": "Chasing Days - Sam Redmore Remix",
-      "url": "https://open.spotify.com/track/4VO19I7PqB0YbR5r4Nbv26"
     },
     {
       "added_at": "2024-05-23 23:00:00",
@@ -955,6 +955,26 @@
       "duration_ms": 271040,
       "name": "Breeze",
       "url": "https://open.spotify.com/track/1ssRJeVukT0jJEoBO8b0c7"
+    },
+    {
+      "added_at": "2024-05-23 23:00:00",
+      "album": {
+        "name": "26% MIXTAPE",
+        "url": "https://open.spotify.com/album/0MMw4QzAkhbNbtOX3hsApi"
+      },
+      "artists": [
+        {
+          "name": "B-ahwe",
+          "url": "https://open.spotify.com/artist/6kog2FnBdjoz5oc9EQvuXl"
+        },
+        {
+          "name": "NEONE the Wonderer",
+          "url": "https://open.spotify.com/artist/72RMKo8u5oIuTtyE8HAv5E"
+        }
+      ],
+      "duration_ms": 221409,
+      "name": "Patience",
+      "url": "https://open.spotify.com/track/5z9JBWHqRO5Wvz3cWwkCih"
     },
     {
       "added_at": "2024-05-23 23:00:00",
@@ -1003,26 +1023,6 @@
       "duration_ms": 250941,
       "name": "Deep",
       "url": "https://open.spotify.com/track/7m81yXV1aGr6itme09Rx5k"
-    },
-    {
-      "added_at": "2024-05-23 23:00:00",
-      "album": {
-        "name": "26% MIXTAPE",
-        "url": "https://open.spotify.com/album/0MMw4QzAkhbNbtOX3hsApi"
-      },
-      "artists": [
-        {
-          "name": "B-ahwe",
-          "url": "https://open.spotify.com/artist/6kog2FnBdjoz5oc9EQvuXl"
-        },
-        {
-          "name": "NEONE the Wonderer",
-          "url": "https://open.spotify.com/artist/72RMKo8u5oIuTtyE8HAv5E"
-        }
-      ],
-      "duration_ms": 221409,
-      "name": "Patience",
-      "url": "https://open.spotify.com/track/5z9JBWHqRO5Wvz3cWwkCih"
     },
     {
       "added_at": "2024-05-23 23:00:00",
@@ -1147,18 +1147,18 @@
     {
       "added_at": "2024-05-23 23:00:00",
       "album": {
-        "name": "Wallflower",
-        "url": "https://open.spotify.com/album/55zeJMwqGYlju0shEdhG4A"
+        "name": "Honest Mistake",
+        "url": "https://open.spotify.com/album/61cgfMVzBy0dtDFWGrZl6t"
       },
       "artists": [
         {
-          "name": "Re:um",
-          "url": "https://open.spotify.com/artist/6gLleDsNwfehG7vWuK2zQe"
+          "name": "Hohnen Ford",
+          "url": "https://open.spotify.com/artist/34c3b95E9ZQPMPapPOv8RW"
         }
       ],
-      "duration_ms": 181124,
-      "name": "Wallflower",
-      "url": "https://open.spotify.com/track/60ZR3PxtOjGXa6LVQlSdSr"
+      "duration_ms": 227177,
+      "name": "Honest Mistake",
+      "url": "https://open.spotify.com/track/7lF8vFU9L2xzHJkv3zvtnm"
     },
     {
       "added_at": "2024-05-23 23:00:00",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2024-05-23 23:00:00",
       "album": {
+        "name": "Wallflower",
+        "url": "https://open.spotify.com/album/55zeJMwqGYlju0shEdhG4A"
+      },
+      "artists": [
+        {
+          "name": "Re:um",
+          "url": "https://open.spotify.com/artist/6gLleDsNwfehG7vWuK2zQe"
+        }
+      ],
+      "duration_ms": 181124,
+      "name": "Wallflower",
+      "url": "https://open.spotify.com/track/60ZR3PxtOjGXa6LVQlSdSr"
+    },
+    {
+      "added_at": "2024-05-23 23:00:00",
+      "album": {
         "name": "Temperature High",
         "url": "https://open.spotify.com/album/6KOHE7segw0upBTSCpWELD"
       },
@@ -1211,22 +1227,6 @@
     {
       "added_at": "2024-05-23 23:00:00",
       "album": {
-        "name": "Honest Mistake",
-        "url": "https://open.spotify.com/album/61cgfMVzBy0dtDFWGrZl6t"
-      },
-      "artists": [
-        {
-          "name": "Hohnen Ford",
-          "url": "https://open.spotify.com/artist/34c3b95E9ZQPMPapPOv8RW"
-        }
-      ],
-      "duration_ms": 227177,
-      "name": "Honest Mistake",
-      "url": "https://open.spotify.com/track/7lF8vFU9L2xzHJkv3zvtnm"
-    },
-    {
-      "added_at": "2024-05-23 23:00:00",
-      "album": {
         "name": "FIELDNOTES PT III",
         "url": "https://open.spotify.com/album/1mN1K7R6kn8FqBP2OY613q"
       },
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2024-05-23 23:00:00",
       "album": {
-        "name": "In The Fire",
-        "url": "https://open.spotify.com/album/4hU4FUzK08HZ3hwM7XZZIE"
-      },
-      "artists": [
-        {
-          "name": "Yakul",
-          "url": "https://open.spotify.com/artist/0Pi3s9W42iTzuxDp7GKIfO"
-        }
-      ],
-      "duration_ms": 237046,
-      "name": "In The Fire",
-      "url": "https://open.spotify.com/track/7MUiVyNZdipLltGWBmXHXN"
-    },
-    {
-      "added_at": "2024-05-23 23:00:00",
-      "album": {
         "name": "angel numbers",
         "url": "https://open.spotify.com/album/3aZYhkmL0GXMeA3mVIGhkK"
       },
@@ -1271,6 +1255,38 @@
       "duration_ms": 149968,
       "name": "angel numbers",
       "url": "https://open.spotify.com/track/2m20gc2fNcai0gI1uU5YLV"
+    },
+    {
+      "added_at": "2024-05-23 23:00:00",
+      "album": {
+        "name": "Sweet Nirvana",
+        "url": "https://open.spotify.com/album/6mCbs9E7goC0O7Ktv1l6M0"
+      },
+      "artists": [
+        {
+          "name": "Immy",
+          "url": "https://open.spotify.com/artist/22kJefNRRuhLJDYzVbFrW7"
+        }
+      ],
+      "duration_ms": 188833,
+      "name": "Sweet Nirvana",
+      "url": "https://open.spotify.com/track/4up8iER7w4bFgY7Ta2bnXR"
+    },
+    {
+      "added_at": "2024-05-23 23:00:00",
+      "album": {
+        "name": "In The Fire",
+        "url": "https://open.spotify.com/album/4hU4FUzK08HZ3hwM7XZZIE"
+      },
+      "artists": [
+        {
+          "name": "Yakul",
+          "url": "https://open.spotify.com/artist/0Pi3s9W42iTzuxDp7GKIfO"
+        }
+      ],
+      "duration_ms": 237046,
+      "name": "In The Fire",
+      "url": "https://open.spotify.com/track/7MUiVyNZdipLltGWBmXHXN"
     },
     {
       "added_at": "2024-05-23 23:00:00",
@@ -1307,6 +1323,30 @@
     {
       "added_at": "2024-05-23 23:00:00",
       "album": {
+        "name": "Foolish",
+        "url": "https://open.spotify.com/album/35DVmHSUYniWufKx4v4Qd6"
+      },
+      "artists": [
+        {
+          "name": "Lauren-Paige",
+          "url": "https://open.spotify.com/artist/6raiV71XhBDlAjidWMKfib"
+        },
+        {
+          "name": "little george",
+          "url": "https://open.spotify.com/artist/1iecflO2Ji78jndNbwQvjY"
+        },
+        {
+          "name": "Dale May",
+          "url": "https://open.spotify.com/artist/6hz2v83UkrPVrDaZHhDbyT"
+        }
+      ],
+      "duration_ms": 195132,
+      "name": "Foolish",
+      "url": "https://open.spotify.com/track/3DYIUnrZVtOrRz4E3hwu5Q"
+    },
+    {
+      "added_at": "2024-05-23 23:00:00",
+      "album": {
         "name": "Be Myself",
         "url": "https://open.spotify.com/album/1aSn9BV6hbllpcdVzJyrIW"
       },
@@ -1331,22 +1371,6 @@
     {
       "added_at": "2024-05-23 23:00:00",
       "album": {
-        "name": "Sweet Nirvana",
-        "url": "https://open.spotify.com/album/6mCbs9E7goC0O7Ktv1l6M0"
-      },
-      "artists": [
-        {
-          "name": "Immy",
-          "url": "https://open.spotify.com/artist/22kJefNRRuhLJDYzVbFrW7"
-        }
-      ],
-      "duration_ms": 188833,
-      "name": "Sweet Nirvana",
-      "url": "https://open.spotify.com/track/4up8iER7w4bFgY7Ta2bnXR"
-    },
-    {
-      "added_at": "2024-05-23 23:00:00",
-      "album": {
         "name": "Hide To Seek",
         "url": "https://open.spotify.com/album/3PfYPUMLpfrmZSbCKz32v8"
       },
@@ -1359,6 +1383,22 @@
       "duration_ms": 286890,
       "name": "Hide To Seek",
       "url": "https://open.spotify.com/track/14v0RznQuTisy9dHVoXcbI"
+    },
+    {
+      "added_at": "2024-05-23 23:00:00",
+      "album": {
+        "name": "Freie Interpreten",
+        "url": "https://open.spotify.com/album/0GxzTRCZAElVZlWSlrVBJu"
+      },
+      "artists": [
+        {
+          "name": "Vincent J\u00e4ger",
+          "url": "https://open.spotify.com/artist/6p66kIGoRbQ6RMust2p3Ft"
+        }
+      ],
+      "duration_ms": 229262,
+      "name": "State of Blue",
+      "url": "https://open.spotify.com/track/7pQnb7FuDx3MRKPFFR5C0F"
     },
     {
       "added_at": "2024-05-23 23:00:00",
@@ -1383,46 +1423,6 @@
       "duration_ms": 424960,
       "name": "Homesick",
       "url": "https://open.spotify.com/track/1Rd9TkiuqfUXMYNgguXpKY"
-    },
-    {
-      "added_at": "2024-05-23 23:00:00",
-      "album": {
-        "name": "Freie Interpreten",
-        "url": "https://open.spotify.com/album/0GxzTRCZAElVZlWSlrVBJu"
-      },
-      "artists": [
-        {
-          "name": "Vincent J\u00e4ger",
-          "url": "https://open.spotify.com/artist/6p66kIGoRbQ6RMust2p3Ft"
-        }
-      ],
-      "duration_ms": 229262,
-      "name": "State of Blue",
-      "url": "https://open.spotify.com/track/7pQnb7FuDx3MRKPFFR5C0F"
-    },
-    {
-      "added_at": "2024-05-23 23:00:00",
-      "album": {
-        "name": "Foolish",
-        "url": "https://open.spotify.com/album/35DVmHSUYniWufKx4v4Qd6"
-      },
-      "artists": [
-        {
-          "name": "Lauren-Paige",
-          "url": "https://open.spotify.com/artist/6raiV71XhBDlAjidWMKfib"
-        },
-        {
-          "name": "little george",
-          "url": "https://open.spotify.com/artist/1iecflO2Ji78jndNbwQvjY"
-        },
-        {
-          "name": "Dale May",
-          "url": "https://open.spotify.com/artist/6hz2v83UkrPVrDaZHhDbyT"
-        }
-      ],
-      "duration_ms": 195132,
-      "name": "Foolish",
-      "url": "https://open.spotify.com/track/3DYIUnrZVtOrRz4E3hwu5Q"
     },
     {
       "added_at": "2024-05-23 23:00:00",

@@ -157,6 +157,24 @@
     },
     {
       "album": {
+        "name": "Dirty Deeds Done Dirt Cheap",
+        "url": "https://open.spotify.com/album/76mvVgXOde87B9aOzLXCOI"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "date_added": "2024-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158773,
+      "name": "Big Balls",
+      "url": "https://open.spotify.com/track/2KmSnPWWCIsEomVsKnbE1a"
+    },
+    {
+      "album": {
         "name": "Blood and Bones",
         "url": "https://open.spotify.com/album/5QCjqY1hcyAKWeWFduVtEs"
       },

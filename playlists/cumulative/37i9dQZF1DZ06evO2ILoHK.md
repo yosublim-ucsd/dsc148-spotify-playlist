@@ -2,7 +2,7 @@
 
 ### [This Is Basement](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2ILoHK)
 
-> This is Basement\. Todos os maiores hits em uma só playlist.
+> This is Basement\. Tutti i brani in un'unica playlist.
 
 38 songs - 1 hr 46 min
 

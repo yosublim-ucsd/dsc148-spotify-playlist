@@ -2,18 +2,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 
 ### [Fresh Finds Africa](https://open.spotify.com/playlist/37i9dQZF1DX5C8ObEZ48JQ)
 
-> The best new music by independent African artists and labels\. Cover:  <a href="https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc?si=4j7DDKvRSpCb58a3U3Tt3w">Llona</a>\. Artwork: Isu Kim.
+> The best new music by independent African artists and labels\. Cover:  <a href="https://open.spotify.com/artist/32m0wHk6SnWDu626fxJnO8?si=3qQ0t2RsTeqLIQZ3XufFjw">Senté</a>\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,248 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,273 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Another Day](https://open.spotify.com/track/3D9bfMv1mFaYZngz2kFmOn) | [Llona](https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc) | [Another Day](https://open.spotify.com/album/6McSBRkkD9JPgGgqYzWPlz) | 2:51 |
-| 2 | [New Lamp](https://open.spotify.com/track/50oZJpYzGdHBCFdzTGIavP) | [Maali](https://open.spotify.com/artist/0Bw2d3PrLLqnor0Y9tt9vk) | [Mellow Dramatic](https://open.spotify.com/album/61PXFedLFHdsDP2L8YWte4) | 3:54 |
-| 3 | [Free My Mind](https://open.spotify.com/track/7a3qrGeR5aJZuZFb7fRQ9H) | [BHADMAYORS](https://open.spotify.com/artist/5hq1ZnGH5765wElD2lvjkT), [AlorG](https://open.spotify.com/artist/3XVsxJ7cSnDnHtssbKiIPb) | [Free My Mind](https://open.spotify.com/album/341Uld1xLyYN8AXlI0qWtp) | 2:40 |
-| 4 | [Cheque](https://open.spotify.com/track/1ALpjc1x4V8dX43kJyps3v) | [Usimamane](https://open.spotify.com/artist/7CAuIrM6rFLrIgisYOV0Fs) | [Cheque](https://open.spotify.com/album/3SB8b7gP6rd0LBcAvW3PLr) | 2:24 |
-| 5 | [Tiktoker](https://open.spotify.com/track/0staXLc4iSe4IDVyfhoVFr) | [Soundkraft](https://open.spotify.com/artist/7q6x6F9d2R2skEPjnllspk), [Gody Tennor](https://open.spotify.com/artist/0zDvYiEj0OwqizX4YYVsbB), [Tipsy Gee](https://open.spotify.com/artist/2gZ9Qtzq8vrqLkR5EUSJy5), [Kappy](https://open.spotify.com/artist/3PIoXwvrGzymznU310leDR) | [Tiktoker](https://open.spotify.com/album/5N2l8wbYv8mybCyq3olT1Q) | 3:09 |
-| 6 | [Kampala Woman](https://open.spotify.com/track/76gm82bjTHY7ceNGH9f5cY) | [Senté](https://open.spotify.com/artist/32m0wHk6SnWDu626fxJnO8) | [Kampala Woman](https://open.spotify.com/album/1u7t8Bcjb9Ji1eZd9bxkZ7) | 2:31 |
+| 1 | [Kampala Woman](https://open.spotify.com/track/76gm82bjTHY7ceNGH9f5cY) | [Senté](https://open.spotify.com/artist/32m0wHk6SnWDu626fxJnO8) | [Kampala Woman](https://open.spotify.com/album/1u7t8Bcjb9Ji1eZd9bxkZ7) | 2:31 |
+| 2 | [Another Day](https://open.spotify.com/track/3D9bfMv1mFaYZngz2kFmOn) | [Llona](https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc) | [Another Day](https://open.spotify.com/album/6McSBRkkD9JPgGgqYzWPlz) | 2:51 |
+| 3 | [New Lamp](https://open.spotify.com/track/50oZJpYzGdHBCFdzTGIavP) | [Maali](https://open.spotify.com/artist/0Bw2d3PrLLqnor0Y9tt9vk) | [Mellow Dramatic](https://open.spotify.com/album/61PXFedLFHdsDP2L8YWte4) | 3:54 |
+| 4 | [Free My Mind](https://open.spotify.com/track/7a3qrGeR5aJZuZFb7fRQ9H) | [BHADMAYORS](https://open.spotify.com/artist/5hq1ZnGH5765wElD2lvjkT), [AlorG](https://open.spotify.com/artist/3XVsxJ7cSnDnHtssbKiIPb) | [Free My Mind](https://open.spotify.com/album/341Uld1xLyYN8AXlI0qWtp) | 2:40 |
+| 5 | [Cheque](https://open.spotify.com/track/1ALpjc1x4V8dX43kJyps3v) | [Usimamane](https://open.spotify.com/artist/7CAuIrM6rFLrIgisYOV0Fs) | [Cheque](https://open.spotify.com/album/3SB8b7gP6rd0LBcAvW3PLr) | 2:24 |
+| 6 | [Tiktoker](https://open.spotify.com/track/0staXLc4iSe4IDVyfhoVFr) | [Soundkraft](https://open.spotify.com/artist/7q6x6F9d2R2skEPjnllspk), [Gody Tennor](https://open.spotify.com/artist/0zDvYiEj0OwqizX4YYVsbB), [Tipsy Gee](https://open.spotify.com/artist/2gZ9Qtzq8vrqLkR5EUSJy5), [Kappy](https://open.spotify.com/artist/3PIoXwvrGzymznU310leDR) | [Tiktoker](https://open.spotify.com/album/5N2l8wbYv8mybCyq3olT1Q) | 3:09 |
 | 7 | [Away](https://open.spotify.com/track/2s9OC1yMrccPa9lJpwBmTL) | [Yimeeka](https://open.spotify.com/artist/0yGRgPiwbWQcQsMf7H7DmK), [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Yimeeka](https://open.spotify.com/album/4wmJQOsN4UqbcdeaVXuh6a) | 2:18 |
 | 8 | [Tonic No Lime](https://open.spotify.com/track/4PaF06tc9L8LnAW3fIHl18) | [T'neeya](https://open.spotify.com/artist/39r1XfRA5kvyYjPYKzqBGL) | [Tonic No Lime](https://open.spotify.com/album/0urB5NaXZ8nuLaYyAL5kil) | 3:03 |
 | 9 | [You will pay](https://open.spotify.com/track/2rVtdP9tWK5nQuupjRZCoy) | [Shannon](https://open.spotify.com/artist/0cpRAqLFfaS1wgflVWtd4S) | [You will pay](https://open.spotify.com/album/6B7qf6X243GICZqaVBtLZO) | 2:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 | 49 | [My Boo](https://open.spotify.com/track/3JHk64lUKHcRhsvUng4kv5) | [Hildah Watiri](https://open.spotify.com/artist/4XTUHZbb6KmJJKUrdBAKDM) | [My Boo](https://open.spotify.com/album/0jYsHjcfVRjNzsTUSdnVyf) | 3:27 |
 | 50 | [Lowkey](https://open.spotify.com/track/2f6YZpPIv1BqDbT4xlye4e) | [Ohkay](https://open.spotify.com/artist/5clF34yR9LoDZtD4oJ0XMC) | [Lowkey](https://open.spotify.com/album/4OI2ghQXN9gcPtSisdvi0p) | 1:31 |
 
-Snapshot ID: `Zk1DkAAAAAAkxeL1Efh2n4LSM5Rmq5Sr`
+Snapshot ID: `ZlZh8AAAAAAejFu+Wk60Xf7/gbvCo8lP`

@@ -1,29 +1,13 @@
 {
   "description": "This is Chief Commander Ebenezer Obey. The essential tracks, all in one playlist.",
-  "num_followers": 3048,
+  "num_followers": 3051,
   "original_name": "This Is Chief Commander Ebenezer Obey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlJ7gAAAAACuNow+CQ+0yHANlH0Iy2di",
+  "snapshot_id": "ZlPNAAAAAABS/RKHZUHIOFU8CW0DEOQe",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Obey @ 70",
-        "url": "https://open.spotify.com/album/5v8ddiIYTFRVuDHotcK9mw"
-      },
-      "artists": [
-        {
-          "name": "Chief Commander Ebenezer Obey",
-          "url": "https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv"
-        }
-      ],
-      "duration_ms": 63733,
-      "name": "Iba Lo Ye Ka Se Medley",
-      "url": "https://open.spotify.com/track/2jY15gQFGRrPE4kUXoGl0q"
-    },
     {
       "added_at": null,
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 203413,
       "name": "Ori Mi Ko Ni Buru (Jujju High-Life Yoruba)",
       "url": "https://open.spotify.com/track/4OhtSQcLWeArrHlFYhTrXZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Obey @ 70",
+        "url": "https://open.spotify.com/album/5v8ddiIYTFRVuDHotcK9mw"
+      },
+      "artists": [
+        {
+          "name": "Chief Commander Ebenezer Obey",
+          "url": "https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv"
+        }
+      ],
+      "duration_ms": 63733,
+      "name": "Iba Lo Ye Ka Se Medley",
+      "url": "https://open.spotify.com/track/2jY15gQFGRrPE4kUXoGl0q"
     },
     {
       "added_at": null,
@@ -187,22 +187,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Evergreen Songs Origina 14",
-        "url": "https://open.spotify.com/album/3QxcVFoET51Kj4kjJRJdC1"
-      },
-      "artists": [
-        {
-          "name": "Chief Commander Ebenezer Obey",
-          "url": "https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv"
-        }
-      ],
-      "duration_ms": 182493,
-      "name": "Olowo Laiye Mo",
-      "url": "https://open.spotify.com/track/6Bil8uU8Ds2kUvEQn0x1co"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Aimasiko",
         "url": "https://open.spotify.com/album/3WzWQLb4XBRhgsHMSZBmYD"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 1062573,
       "name": "Aimasiko Lo N Damu Eda Medley (Part 1)",
       "url": "https://open.spotify.com/track/7sYKjNN1DAw38RNIH2shDl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Evergreen Songs Origina 14",
+        "url": "https://open.spotify.com/album/3QxcVFoET51Kj4kjJRJdC1"
+      },
+      "artists": [
+        {
+          "name": "Chief Commander Ebenezer Obey",
+          "url": "https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv"
+        }
+      ],
+      "duration_ms": 182493,
+      "name": "Olowo Laiye Mo",
+      "url": "https://open.spotify.com/track/6Bil8uU8Ds2kUvEQn0x1co"
     },
     {
       "added_at": null,
@@ -347,8 +347,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Igba Owuro Lawa",
-        "url": "https://open.spotify.com/album/3yiN0cydUFVEIT5fdnY78U"
+        "name": "Ebenezer Obey in London",
+        "url": "https://open.spotify.com/album/02N1jGGr6BjwUFO2KlCN9t"
       },
       "artists": [
         {
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv"
         }
       ],
-      "duration_ms": 1211266,
-      "name": "Igba Owuro Lawa Medley (Part 1)",
-      "url": "https://open.spotify.com/track/5NaWBdhpH5JjXJ69jmidI3"
+      "duration_ms": 204973,
+      "name": "Egba (Juju Yoruba)",
+      "url": "https://open.spotify.com/track/5E9hldNlMRT988fAuOOS9r"
     },
     {
       "added_at": null,
@@ -411,8 +411,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ebenezer Obey in London",
-        "url": "https://open.spotify.com/album/02N1jGGr6BjwUFO2KlCN9t"
+        "name": "Igba Owuro Lawa",
+        "url": "https://open.spotify.com/album/3yiN0cydUFVEIT5fdnY78U"
       },
       "artists": [
         {
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv"
         }
       ],
-      "duration_ms": 204973,
-      "name": "Egba (Juju Yoruba)",
-      "url": "https://open.spotify.com/track/5E9hldNlMRT988fAuOOS9r"
+      "duration_ms": 1211266,
+      "name": "Igba Owuro Lawa Medley (Part 1)",
+      "url": "https://open.spotify.com/track/5NaWBdhpH5JjXJ69jmidI3"
     },
     {
       "added_at": null,
@@ -491,6 +491,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "51 Lex Presents Inter Reformers a Tunde",
+        "url": "https://open.spotify.com/album/55KjlxkYpSkpQIZKGY3JiL"
+      },
+      "artists": [
+        {
+          "name": "Chief Commander Ebenezer Obey",
+          "url": "https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv"
+        }
+      ],
+      "duration_ms": 1169320,
+      "name": "Inter Reformers a Tunde Medley, Pt. 2",
+      "url": "https://open.spotify.com/track/5k6PMMcpIdrTzR9VYQuGWO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "51 Lex Presents Edumare Dari Jiwon",
         "url": "https://open.spotify.com/album/5IAW3IhjPWA6sYIVjsDunu"
       },
@@ -507,8 +523,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "51 Lex Presents: London La Wa Yi",
-        "url": "https://open.spotify.com/album/3PDJfa0W0KlykYFdYeYJx8"
+        "name": "Aventure of Mr Wise",
+        "url": "https://open.spotify.com/album/5m3EbKLiHXZzHbZngSgihK"
       },
       "artists": [
         {
@@ -516,25 +532,9 @@
           "url": "https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv"
         }
       ],
-      "duration_ms": 1218813,
-      "name": "Aiye Wa a Toro",
-      "url": "https://open.spotify.com/track/59vUl7VOXeKlNouCXruXFw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "51 Lex Presents Inter Reformers a Tunde",
-        "url": "https://open.spotify.com/album/55KjlxkYpSkpQIZKGY3JiL"
-      },
-      "artists": [
-        {
-          "name": "Chief Commander Ebenezer Obey",
-          "url": "https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv"
-        }
-      ],
-      "duration_ms": 1169320,
-      "name": "Inter Reformers a Tunde Medley, Pt. 2",
-      "url": "https://open.spotify.com/track/5k6PMMcpIdrTzR9VYQuGWO"
+      "duration_ms": 1188440,
+      "name": "Motun Gbede Medley (Part 2)",
+      "url": "https://open.spotify.com/track/0evTQ3fBARmOEtBZ2X8yYE"
     },
     {
       "added_at": null,
@@ -555,8 +555,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aventure of Mr Wise",
-        "url": "https://open.spotify.com/album/5m3EbKLiHXZzHbZngSgihK"
+        "name": "51 Lex Presents: London La Wa Yi",
+        "url": "https://open.spotify.com/album/3PDJfa0W0KlykYFdYeYJx8"
       },
       "artists": [
         {
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv"
         }
       ],
-      "duration_ms": 1188440,
-      "name": "Motun Gbede Medley (Part 2)",
-      "url": "https://open.spotify.com/track/0evTQ3fBARmOEtBZ2X8yYE"
+      "duration_ms": 1218813,
+      "name": "Aiye Wa a Toro",
+      "url": "https://open.spotify.com/track/59vUl7VOXeKlNouCXruXFw"
     },
     {
       "added_at": null,
@@ -591,8 +591,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Obey In the 60's (Vol 1)",
-        "url": "https://open.spotify.com/album/5d7oZqNlwwvJCSExmupLH9"
+        "name": "Evergreen Songs Original 3",
+        "url": "https://open.spotify.com/album/5xH2leDDB8KDsMdzaTSKsR"
       },
       "artists": [
         {
@@ -600,9 +600,9 @@
           "url": "https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv"
         }
       ],
-      "duration_ms": 178933,
-      "name": "Edumare Lon Pese",
-      "url": "https://open.spotify.com/track/1CXTFyrMaGRK6MboiNuQIp"
+      "duration_ms": 1147480,
+      "name": "Mo Tun Gbede",
+      "url": "https://open.spotify.com/track/6O3jggcZey498goeEfHCjA"
     },
     {
       "added_at": null,
@@ -623,8 +623,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Evergreen Songs Original 3",
-        "url": "https://open.spotify.com/album/5xH2leDDB8KDsMdzaTSKsR"
+        "name": "Obey In the 60's (Vol 1)",
+        "url": "https://open.spotify.com/album/5d7oZqNlwwvJCSExmupLH9"
       },
       "artists": [
         {
@@ -632,9 +632,9 @@
           "url": "https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv"
         }
       ],
-      "duration_ms": 1147480,
-      "name": "Mo Tun Gbede",
-      "url": "https://open.spotify.com/track/6O3jggcZey498goeEfHCjA"
+      "duration_ms": 178933,
+      "name": "Edumare Lon Pese",
+      "url": "https://open.spotify.com/track/1CXTFyrMaGRK6MboiNuQIp"
     },
     {
       "added_at": null,
@@ -655,22 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Late Oke Aminu",
-        "url": "https://open.spotify.com/album/795ex3oCr24uJMjiUFUkA1"
-      },
-      "artists": [
-        {
-          "name": "Chief Commander Ebenezer Obey",
-          "url": "https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv"
-        }
-      ],
-      "duration_ms": 1195653,
-      "name": "Late Oke Aminu Medley (Part 1)",
-      "url": "https://open.spotify.com/track/0Q2qr34BuIWPCNFkFNSc8O"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Evergreen Songs Original 6",
         "url": "https://open.spotify.com/album/30jDRu2udWrunytzkcUjCO"
       },
@@ -687,8 +671,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Evergreen Songs Original 2",
-        "url": "https://open.spotify.com/album/6r0fOzKcnXh7efk26LAP95"
+        "name": "Late Oke Aminu",
+        "url": "https://open.spotify.com/album/795ex3oCr24uJMjiUFUkA1"
       },
       "artists": [
         {
@@ -696,9 +680,9 @@
           "url": "https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv"
         }
       ],
-      "duration_ms": 1180160,
-      "name": "Alowo Ma Jaiye",
-      "url": "https://open.spotify.com/track/3IyPnYN89uPeS6c1NiUYm1"
+      "duration_ms": 1195653,
+      "name": "Late Oke Aminu Medley (Part 1)",
+      "url": "https://open.spotify.com/track/0Q2qr34BuIWPCNFkFNSc8O"
     },
     {
       "added_at": null,
@@ -715,6 +699,22 @@
       "duration_ms": 1178733,
       "name": "Motun Gboro Agba De",
       "url": "https://open.spotify.com/track/1T6EbE0kopuOCppKElTrVW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Evergreen Songs Original 2",
+        "url": "https://open.spotify.com/album/6r0fOzKcnXh7efk26LAP95"
+      },
+      "artists": [
+        {
+          "name": "Chief Commander Ebenezer Obey",
+          "url": "https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv"
+        }
+      ],
+      "duration_ms": 1180160,
+      "name": "Alowo Ma Jaiye",
+      "url": "https://open.spotify.com/track/3IyPnYN89uPeS6c1NiUYm1"
     },
     {
       "added_at": null,
@@ -799,8 +799,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Obey In the 60's (Vol 2)",
-        "url": "https://open.spotify.com/album/3YAXXz0OUxJQqFlYAOOu7a"
+        "name": "Murtala Mohammed",
+        "url": "https://open.spotify.com/album/3jVE7NCw0M1YaPmxu2JKws"
       },
       "artists": [
         {
@@ -808,9 +808,9 @@
           "url": "https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv"
         }
       ],
-      "duration_ms": 181520,
-      "name": "London Lawa Yi",
-      "url": "https://open.spotify.com/track/4AlnFun5TaCZYO2GdLUfLl"
+      "duration_ms": 1202493,
+      "name": "Late Murtala Mohammed Medley (Part 2)",
+      "url": "https://open.spotify.com/track/7CSbvy4hIQje0TRMOx19wF"
     }
   ],
   "unique_name": "This Is Chief Commander Ebenezer Obey",

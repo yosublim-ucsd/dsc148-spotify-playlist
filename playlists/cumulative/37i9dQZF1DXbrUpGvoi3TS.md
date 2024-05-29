@@ -4,7 +4,7 @@
 
 > Nurse your emotional wounds with these heartbreak tracks.
 
-382 songs - 23 hr 23 min
+383 songs - 23 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,7 @@
 | [Echo](https://open.spotify.com/track/4ple7ttcPeJCUeQpw3oBNI) | [Jason Walker](https://open.spotify.com/artist/3XBxSfCwYIMBzWmJL7ZJ4U) | [Midnight Starlight](https://open.spotify.com/album/2xHFpDBzz6thKK1ONCVfi4) | 3:32 | 2022-03-24 | 2022-04-13 |
 | [Echoes Of Love](https://open.spotify.com/track/4M3ILaJ7MnY8tPoD687ivv) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Echoes Of Love](https://open.spotify.com/album/6JCU5oaV2HgPTDmh3HSp7N) | 3:36 | 2022-03-24 | 2022-04-20 |
 | [Empty](https://open.spotify.com/track/0CxPqfcZDXp1QoTnhAE1xC) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [Empty](https://open.spotify.com/album/4AfDEszSdXThpC4j6rJo3p) | 3:28 | 2022-03-24 | 2022-04-21 |
-| [Every Time You Go Away](https://open.spotify.com/track/5OtvDpNhxUde1hkAjvzSzE) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot), [Kevin Garrett](https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E) | [Spotify Singles](https://open.spotify.com/album/0dlIoNzi1FAca3VcyPFj5S) | 4:25 | 2022-03-24 |  |
+| [Every Time You Go Away](https://open.spotify.com/track/5OtvDpNhxUde1hkAjvzSzE) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot), [Kevin Garrett](https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E) | [Spotify Singles](https://open.spotify.com/album/0dlIoNzi1FAca3VcyPFj5S) | 4:25 | 2022-03-24 | 2024-05-29 |
 | [Ex](https://open.spotify.com/track/5Y0VZ9KaZMRgQ8uLCtCmbm) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Ex](https://open.spotify.com/album/3Os2YHIJKvdZYYl58Z1hJi) | 3:34 | 2022-03-24 | 2022-04-21 |
 | [Fade](https://open.spotify.com/track/2EWR4QeZ5U0eEYIQCK8YMg) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Fade](https://open.spotify.com/album/3CSKbUsAvaLmFXIhDysN0M) | 4:04 | 2022-03-24 | 2022-04-21 |
 | [Fading Through](https://open.spotify.com/track/6lt8L2iKk6qbo2RyVWeqq2) | [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U), [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [XXIX](https://open.spotify.com/album/6xMvsTzISRRQ1agpgtGKGK) | 4:20 | 2022-03-24 | 2022-04-20 |
@@ -372,6 +372,7 @@
 | [Why](https://open.spotify.com/track/7lozLnUfzcgEpMMVQI7yhA) | [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl) | [COSMIC](https://open.spotify.com/album/5EEkfRgfYHiFu0lGur6Z6M) | 2:28 | 2022-05-19 | 2024-04-10 |
 | [Why](https://open.spotify.com/track/1TioiVNFGeiMC6SiQceHPO) | [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl) | [Why](https://open.spotify.com/album/5u9XvUYqQXnVse4Utpa5jD) | 2:31 | 2021-10-21 | 2022-07-28 |
 | [Why Don't You](https://open.spotify.com/track/21pc1gXcU7qyjeWplE7FLV) | [Ida Laurberg](https://open.spotify.com/artist/03IbEiokQjTDfvdyIYV5D4) | [Why Don't You](https://open.spotify.com/album/3a57nyVANIhuNmU9UlNdkY) | 3:02 | 2022-03-24 | 2022-04-11 |
+| [WILDFLOWER](https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 4:21 | 2024-05-28 |  |
 | [Work Song](https://open.spotify.com/track/67Toy6jG5s1SsmkvXQulzp) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier \(Special Edition\)](https://open.spotify.com/album/6bcl0ZcPJWJtyuRsOyhvfv) | 3:49 | 2022-03-24 | 2022-04-19 |
 | [Work Song](https://open.spotify.com/track/5TgEJ62DOzBpGxZ7WRsrqb) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier \(Expanded Edition\)](https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ) | 3:49 | 2022-05-19 | 2024-04-19 |
 | [Worst In Me](https://open.spotify.com/track/3rK43VNP0142Kbxt8nuAhD) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Nervous System](https://open.spotify.com/album/22aqlgX39cWQMWazg9qwuv) | 3:26 | 2022-03-24 | 2022-04-20 |

@@ -4,7 +4,7 @@
 
 > 再び脚光を浴びる日本のシティ・ポップの今をお届けします。
 
-830 songs - 2 day 6 hr 39 min
+831 songs - 2 day 6 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -376,7 +376,7 @@
 | [Rainy Talk \- Shady Monk Remix](https://open.spotify.com/track/1QEwfkBc0QByf0SGR0Qwww) | [evening cinema](https://open.spotify.com/artist/6NQ3DibpWMigY2cXJr9KYv), [Shady Monk](https://open.spotify.com/artist/5oagHUnrrs68cnBmXa3UB8) | [Rainy Talk Remixies](https://open.spotify.com/album/53INaaiMjGDFlTs9S19Xzr) | 3:40 | 2023-01-17 | 2023-01-25 |
 | [Ravel](https://open.spotify.com/track/4LGHishH8X6vGpF58Y8PCd) | [androp](https://open.spotify.com/artist/7n437ZdDaCzqjJDJ7WmbyX) | [fab](https://open.spotify.com/album/7iCqvrw9Nrvh2199sUwzzT) | 3:39 | 2022-12-13 | 2024-04-13 |
 | [READY](https://open.spotify.com/track/5oXVRN6QDQCXRnKeR1NAXm) | [MONONKVL](https://open.spotify.com/artist/74wEL751mFGO8riAZadLmM) | [READY](https://open.spotify.com/album/00uQzIjKyIV5GEzBXIb5Os) | 3:47 | 2022-10-06 | 2023-08-02 |
-| [Regrets](https://open.spotify.com/track/0Yy5CsuOOZoRdRI98JOMpS) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [Regrets](https://open.spotify.com/album/0NHlP5m9h1M40a652X1se5) | 4:25 | 2023-09-12 | 2024-05-28 |
+| [Regrets](https://open.spotify.com/track/0Yy5CsuOOZoRdRI98JOMpS) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [Regrets](https://open.spotify.com/album/0NHlP5m9h1M40a652X1se5) | 4:25 | 2023-09-12 |  |
 | [Remember me](https://open.spotify.com/track/02cpMqOFhYCBFcOf8u2V8P) | [peeto](https://open.spotify.com/artist/2o7CvH7hLj3c3XbkFmnLXA) | [Remember me](https://open.spotify.com/album/1OQlchkVRwfKlCg02KEtSA) | 4:46 | 2022-08-09 | 2022-08-17 |
 | [Remember Summer Days](https://open.spotify.com/track/1qUo7d5lAOclNVbTUY0A2R) | [Anri](https://open.spotify.com/artist/0xGtOrmB2hnrNRLG3vhpSo) | [Timely!!](https://open.spotify.com/album/3OvZYx7AAGplmJjwD29JiV) | 4:55 | 2023-07-18 |  |
 | [Rendezvous](https://open.spotify.com/track/1RCZ3cqpzj1CUSfXljYcLe) | [Yoko Kuzuya](https://open.spotify.com/artist/4npBbWR9zhm8hXabjjigvt) | [Rendezvous](https://open.spotify.com/album/6bR1ncEiqAvSk0LysPD7yQ) | 4:43 | 2022-11-22 | 2023-04-17 |
@@ -510,7 +510,7 @@
 | [Thinking](https://open.spotify.com/track/5ZuVfW3iyz4AUA7aSDwNtp) | [YONA YONA WEEKENDERS](https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR) | [Thinking](https://open.spotify.com/album/3DpicBvCX079m21wMy9cMt) | 4:02 | 2022-08-02 | 2023-05-10 |
 | [Time](https://open.spotify.com/track/2eldS7v8v6ai0GZNsoAvHu) | [Koki Okamoto](https://open.spotify.com/artist/6feb6ezsQcTkzVJoZKkK7i) | [時のぬけがら](https://open.spotify.com/album/3r9hLVBAU1UWKUcFVQl6Jv) | 4:03 | 2022-06-07 | 2022-06-15 |
 | [Time is Over](https://open.spotify.com/track/0wSJH37VmqSMJdh1ns6dCI) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Time is Over](https://open.spotify.com/album/5CXHvXpRQlU0h0smVuJUpc) | 3:24 | 2023-05-16 | 2023-05-31 |
-| [Time is Over](https://open.spotify.com/track/4sY67ZLLwkuh5wn5sdwRHa) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Time is Over](https://open.spotify.com/album/71M79kQeKxgOCS7zNLOsR7) | 3:24 | 2023-05-16 |  |
+| [Time is Over](https://open.spotify.com/track/4sY67ZLLwkuh5wn5sdwRHa) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Time is Over](https://open.spotify.com/album/71M79kQeKxgOCS7zNLOsR7) | 3:24 | 2023-05-16 | 2024-05-29 |
 | [Time of adult](https://open.spotify.com/track/52BmVOetghDJzb1LtVYx3n) | [RUNG HYANG](https://open.spotify.com/artist/2g6WKZC8HgvOmNWzP6WflQ) | [Time of adult](https://open.spotify.com/album/6729vNYmT495Qsn8IQuE83) | 3:27 | 2023-02-28 | 2023-03-08 |
 | [Todome no ichigeki \(feat\. Cory Wong\)](https://open.spotify.com/track/7AObB1OaxymMYQ2pTmFV0f) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru), [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU) | [Todome no ichigeki \(feat\. Cory Wong\)](https://open.spotify.com/album/6BOkaOo3G5lmEsWYOqNdLK) | 5:10 | 2023-10-10 | 2023-11-18 |
 | [Tokyo Flash](https://open.spotify.com/track/1Sem1dIkjX7tA8Nf5hEy8R) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [strobo](https://open.spotify.com/album/4dKFBa0YCH4636ZtY4L2p7) | 4:18 | 2023-11-10 | 2024-04-19 |
@@ -555,6 +555,7 @@
 | [Windy Summer](https://open.spotify.com/track/4CxWMGkVGyuMTkl0e9UK6h) | [JUNK FUJIYAMA](https://open.spotify.com/artist/076lb5j50WT6XliToD53ZY) | [Windy Summer](https://open.spotify.com/album/0mdXuSgGpupwZ6TZ8woMcV) | 4:01 | 2023-12-12 | 2024-01-31 |
 | [WINDY SUMMER \- Cover](https://open.spotify.com/track/1ABFXj7oofCvwD9bMQscaH) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [Hikari](https://open.spotify.com/artist/0o00b10zCAl7ucaAtFJMqy) | [WINDY SUMMER \(Cover\)](https://open.spotify.com/album/0WgQB8S1PHANF3wxeC5CAF) | 3:33 | 2023-06-06 | 2023-07-08 |
 | [WINDY SUMMER \- Cover](https://open.spotify.com/track/2ZTsJLuGom7SjIoY5ynrvA) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [ひかり](https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc) | [WINDY SUMMER \(Cover\)](https://open.spotify.com/album/2LFaMKaaTbd70dHI3cRC1l) | 3:33 | 2023-06-06 | 2023-06-08 |
+| [Windy You](https://open.spotify.com/track/0e4ksqJMLNDiI5235bLwHi) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Windy You](https://open.spotify.com/album/3hEFC5XDTZfSalZz5mb2zp) | 3:50 | 2024-05-28 |  |
 | [Winter Rendezvous](https://open.spotify.com/track/0IF4URa1v7SFOVyEBy3J8d) | [FUJIN CLUB](https://open.spotify.com/artist/3ijB4Zzxv8NWbKgdGIt500) | [Winter Rendezvous](https://open.spotify.com/album/0shVnBn8FxSca5ZNWV4nLf) | 4:58 | 2022-12-27 | 2023-01-11 |
 | [Yellow \(feat\. TENDERLAMP\)](https://open.spotify.com/track/6pu9QPa4I9kF0MnSKhESTj) | [leift](https://open.spotify.com/artist/57gMLz4GGinuQk4YnwwNv3), [TENDERLAMP](https://open.spotify.com/artist/2LRzCWglNrweyqcfwcZDZi) | [Yellow \(feat\. TENDERLAMP\)](https://open.spotify.com/album/2GzJP3hyLDoL0wjo4WXOds) | 2:41 | 2023-11-14 | 2023-11-23 |
 | [YES](https://open.spotify.com/track/5rslF0Fbi7XRexvUFFn9ZW) | [GOOD BYE APRIL](https://open.spotify.com/artist/39dx9cIjJILxA81LkcPf38) | [YES](https://open.spotify.com/album/2CdjH026oJ7PGlRis0E7Uc) | 3:55 | 2022-09-06 | 2022-09-15 |
@@ -771,7 +772,7 @@
 | [期待と予感](https://open.spotify.com/track/7neEHqeY6dENBc8TNrgkwl) | [スカート](https://open.spotify.com/artist/1rOnNKoQhifOY4rIH4wMtk) | [期待と予感](https://open.spotify.com/album/4oWo513toRhQNWaiJCDsBX) | 3:36 | 2023-09-12 | 2023-09-15 |
 | [東京cruisin'](https://open.spotify.com/track/1LJEIE8IjHnQuV5mc0w399) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [東京cruisin'](https://open.spotify.com/album/07uk8juzTAwRlLaqYMscne) | 3:08 | 2022-05-24 |  |
 | [東京は夜の七時 \(feat\. Night Tempo\)](https://open.spotify.com/track/6mi2Zdi1QmZZaO5wgc8LMB) | [Maki Nomiya](https://open.spotify.com/artist/0PoKzYeBX3Lgg35BipPlAj), [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF) | [東京は夜の七時 \(feat\. Night Tempo\)](https://open.spotify.com/album/2auz7IkxAJbGaN8brJnJU6) | 4:47 | 2022-06-02 | 2022-06-04 |
-| [東京フラッシュ](https://open.spotify.com/track/1XMvk29Llcr9iwFVRG2XpF) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [東京フラッシュ](https://open.spotify.com/album/6iqtZgl1PabYr24gfjplJL) | 4:18 | 2024-04-16 |  |
+| [東京フラッシュ](https://open.spotify.com/track/1XMvk29Llcr9iwFVRG2XpF) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [東京フラッシュ](https://open.spotify.com/album/6iqtZgl1PabYr24gfjplJL) | 4:18 | 2024-04-16 | 2024-05-29 |
 | [東京駅](https://open.spotify.com/track/2hmncm177nmtEvnEmcBAFl) | [THOMAS MARQUARDT](https://open.spotify.com/artist/6AMqCm7iAJKHb6Z7gfBWhr) | [Such an era](https://open.spotify.com/album/5ZQMdNMGxZWDmFepxAJLHV) | 5:24 | 2022-05-24 | 2022-07-13 |
 | [果てることないダンス](https://open.spotify.com/track/1VOwpyWPfAoxW4mNWQcDGt) | [Lucky Kilimanjaro](https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV) | [果てることないダンス](https://open.spotify.com/album/70EOTJ54prWfxlJiAlmu49) | 4:10 | 2022-05-24 | 2022-10-27 |
 | [楽園](https://open.spotify.com/track/1uqY0QGoXd6Lj95Igp3h3W) | [Awesome City Club](https://open.spotify.com/artist/7jGn8qhLb48n7yMMNfAoHv) | [楽園](https://open.spotify.com/album/4hhJdBBhzeGtjKqCqSwEPY) | 3:59 | 2022-05-24 | 2022-11-02 |

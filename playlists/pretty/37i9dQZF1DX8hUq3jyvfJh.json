@@ -339,26 +339,6 @@
     {
       "added_at": "2024-05-06 20:03:54",
       "album": {
-        "name": "Carinha De Problema",
-        "url": "https://open.spotify.com/album/1dABET9ANzLH053hXWtfoD"
-      },
-      "artists": [
-        {
-          "name": "Clara Valverde",
-          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
-        },
-        {
-          "name": "CANETARIA",
-          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
-        }
-      ],
-      "duration_ms": 163258,
-      "name": "Carinha De Problema",
-      "url": "https://open.spotify.com/track/6vbMrA3aVBPRW1ywKVDEYa"
-    },
-    {
-      "added_at": "2024-05-06 20:03:54",
-      "album": {
         "name": "Desfruta",
         "url": "https://open.spotify.com/album/3DqQXeeEpBPP8MzSadczqB"
       },
@@ -375,6 +355,26 @@
       "duration_ms": 194250,
       "name": "Desfruta",
       "url": "https://open.spotify.com/track/2DLAjolKrLcgS0776mg9OO"
+    },
+    {
+      "added_at": "2024-05-06 20:03:54",
+      "album": {
+        "name": "Carinha De Problema",
+        "url": "https://open.spotify.com/album/1dABET9ANzLH053hXWtfoD"
+      },
+      "artists": [
+        {
+          "name": "Clara Valverde",
+          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
+        },
+        {
+          "name": "CANETARIA",
+          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
+        }
+      ],
+      "duration_ms": 163258,
+      "name": "Carinha De Problema",
+      "url": "https://open.spotify.com/track/6vbMrA3aVBPRW1ywKVDEYa"
     },
     {
       "added_at": "2024-05-06 20:03:54",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-05-06 20:03:54",
       "album": {
-        "name": "Lusco-Fusco",
-        "url": "https://open.spotify.com/album/7qnm8QNLlJPLSDVSQtftMW"
-      },
-      "artists": [
-        {
-          "name": "Assucena",
-          "url": "https://open.spotify.com/artist/4JUqukNJyqVXHjdRlFcFu8"
-        }
-      ],
-      "duration_ms": 192031,
-      "name": "Manhoso demais",
-      "url": "https://open.spotify.com/track/3M4cgMaQGClWcbb4fQMcEZ"
-    },
-    {
-      "added_at": "2024-05-06 20:03:54",
-      "album": {
         "name": "Canta Para Voc\u00ea Dan\u00e7ar...",
         "url": "https://open.spotify.com/album/62Gm5TMKOXIHZZMJeDPcrH"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 138466,
       "name": "Por Causa De Voc\u00ea",
       "url": "https://open.spotify.com/track/26x3cxjwIGVQyLtJcc8RXG"
+    },
+    {
+      "added_at": "2024-05-06 20:03:54",
+      "album": {
+        "name": "Lusco-Fusco",
+        "url": "https://open.spotify.com/album/7qnm8QNLlJPLSDVSQtftMW"
+      },
+      "artists": [
+        {
+          "name": "Assucena",
+          "url": "https://open.spotify.com/artist/4JUqukNJyqVXHjdRlFcFu8"
+        }
+      ],
+      "duration_ms": 192031,
+      "name": "Manhoso demais",
+      "url": "https://open.spotify.com/track/3M4cgMaQGClWcbb4fQMcEZ"
     },
     {
       "added_at": "2024-05-06 20:03:54",

@@ -4,7 +4,7 @@
 
 > The freshest tech house &amp; techno music \| Submit via Instagram: @subshiftmusic
 
-1,828 songs - 4 day 7 hr 41 min
+1,829 songs - 4 day 7 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,6 +120,7 @@
 | [BAMBAERA](https://open.spotify.com/track/7ziZXtKZ1zSoLnpUKOtcrv) | [MIZAK](https://open.spotify.com/artist/3jDPRJm3fQLCP9BHvt04k7) | [BAMBAERA](https://open.spotify.com/album/6kd3IvfLFn6xFAoYV23ZA9) | 3:16 | 2024-05-01 | 2024-05-21 |
 | [Bamboleo](https://open.spotify.com/track/3oV6BW7m5S4SDfWNC2okT5) | [Dave Winnel](https://open.spotify.com/artist/1K80Wcuuo13i28cVd68mxm) | [Bamboleo](https://open.spotify.com/album/2A98x1rFHHdj1fuPAaluvC) | 3:00 | 2023-02-10 | 2023-02-18 |
 | [Bamboo Spice](https://open.spotify.com/track/0ACp1nQwmJwxQSxO7QxDEu) | [Ben Miller](https://open.spotify.com/artist/5FP6tGL9Y1HspSXjgtzJZd) | [Bamboo Spice](https://open.spotify.com/album/1PjO9mqKKEP5O2yMjmOBvs) | 3:38 | 2022-10-28 | 2022-11-06 |
+| [Bandit \- Club Mix](https://open.spotify.com/track/6ovzIhWfOcUwYRlobZvJ06) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd) | [Bandit \(Club Mix\)](https://open.spotify.com/album/1edPdWHVtyAiaihO0UvDWS) | 2:59 | 2024-05-28 |  |
 | [Bandolera](https://open.spotify.com/track/5BUtAl3nJcZk80jmeML74L) | [Errow](https://open.spotify.com/artist/6mu1yidzlzSt0FIUjrdoF0) | [Bandolera](https://open.spotify.com/album/0PI845urKXOxP15ShukdzC) | 3:45 | 2024-04-05 | 2024-05-21 |
 | [BANG](https://open.spotify.com/track/66jEwAo6W5qtgKgD9FQ2BM) | [Housewife](https://open.spotify.com/artist/2R4ZG5VkLXR87FkJGX5Jrd), [Haylee Wood](https://open.spotify.com/artist/7o9KqAZV369uKQOCJkb4aR) | [BANG](https://open.spotify.com/album/4GQ89vv9BIJFblAejWFgAC) | 4:10 | 2023-08-04 | 2023-08-12 |
 | [Barbarian](https://open.spotify.com/track/0bpIW9LLpTJNxHZZVNtOJm) | [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY), [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS) | [Barbarian](https://open.spotify.com/album/5T2FBNcTJH9iiXqNNYIO0n) | 3:25 | 2023-12-29 | 2024-01-06 |

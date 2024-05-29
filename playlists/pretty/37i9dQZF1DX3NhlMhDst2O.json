@@ -1,6 +1,6 @@
 {
   "description": "Porque el romance nunca pasar\u00e1 de moda. ",
-  "num_followers": 82459,
+  "num_followers": 82548,
   "original_name": "Sonidos del Ayer",
   "owner": {
     "name": "Spotify",
@@ -219,22 +219,6 @@
     {
       "added_at": "2023-11-06 20:37:56",
       "album": {
-        "name": "Llorar\u00e1s",
-        "url": "https://open.spotify.com/album/5YNFzMy6Y8GBjKli0KZbV7"
-      },
-      "artists": [
-        {
-          "name": "Los Terricolas",
-          "url": "https://open.spotify.com/artist/2nrSPPSfNesng85eRV4W4m"
-        }
-      ],
-      "duration_ms": 241626,
-      "name": "Te Juro Que Te Amo",
-      "url": "https://open.spotify.com/track/3slDIEuZJqMRq0P0UI8Ps9"
-    },
-    {
-      "added_at": "2023-11-06 20:37:56",
-      "album": {
         "name": "Fuiste M\u00eda un Verano",
         "url": "https://open.spotify.com/album/5f06LnwgFScMv0Z4WEyIPm"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 199013,
       "name": "O Quiz\u00e1s Simplemente Le Regale una Rosa",
       "url": "https://open.spotify.com/track/3kCCDi4L4yVw2FklTpEBdv"
+    },
+    {
+      "added_at": "2023-11-06 20:37:56",
+      "album": {
+        "name": "Llorar\u00e1s",
+        "url": "https://open.spotify.com/album/5YNFzMy6Y8GBjKli0KZbV7"
+      },
+      "artists": [
+        {
+          "name": "Los Terricolas",
+          "url": "https://open.spotify.com/artist/2nrSPPSfNesng85eRV4W4m"
+        }
+      ],
+      "duration_ms": 241626,
+      "name": "Te Juro Que Te Amo",
+      "url": "https://open.spotify.com/track/3slDIEuZJqMRq0P0UI8Ps9"
     },
     {
       "added_at": "2023-11-06 20:37:56",
@@ -875,22 +875,6 @@
     {
       "added_at": "2023-11-06 20:37:56",
       "album": {
-        "name": "25 Exitos",
-        "url": "https://open.spotify.com/album/3vhcKso4jXKeXF5TfJDNwo"
-      },
-      "artists": [
-        {
-          "name": "Los Solitarios",
-          "url": "https://open.spotify.com/artist/5oXtNxxScsHb1cRjqqfcMj"
-        }
-      ],
-      "duration_ms": 171213,
-      "name": "Ya se va",
-      "url": "https://open.spotify.com/track/2YHivNAfXw6rE6hdFcdCsJ"
-    },
-    {
-      "added_at": "2023-11-06 20:37:56",
-      "album": {
         "name": "Solo Para Ti",
         "url": "https://open.spotify.com/album/3LRXbYxa6LgY8W7jUHYNnk"
       },
@@ -907,18 +891,18 @@
     {
       "added_at": "2023-11-06 20:37:56",
       "album": {
-        "name": "La Rondalla Etc.",
-        "url": "https://open.spotify.com/album/21iFLZ2JMHMhPU2zKkzFAp"
+        "name": "25 Exitos",
+        "url": "https://open.spotify.com/album/3vhcKso4jXKeXF5TfJDNwo"
       },
       "artists": [
         {
-          "name": "La Rondalla De Saltillo",
-          "url": "https://open.spotify.com/artist/65wmIidwFZCCoT1BUewp5P"
+          "name": "Los Solitarios",
+          "url": "https://open.spotify.com/artist/5oXtNxxScsHb1cRjqqfcMj"
         }
       ],
-      "duration_ms": 146800,
-      "name": "Wendolyne",
-      "url": "https://open.spotify.com/track/5UzphHLxBUS69n6J30BZea"
+      "duration_ms": 171213,
+      "name": "Ya se va",
+      "url": "https://open.spotify.com/track/2YHivNAfXw6rE6hdFcdCsJ"
     },
     {
       "added_at": "2023-11-06 20:37:56",
@@ -935,6 +919,22 @@
       "duration_ms": 159666,
       "name": "Y...",
       "url": "https://open.spotify.com/track/0wuSvq7ZYwAcW2d86hyshh"
+    },
+    {
+      "added_at": "2023-11-06 20:37:56",
+      "album": {
+        "name": "La Rondalla Etc.",
+        "url": "https://open.spotify.com/album/21iFLZ2JMHMhPU2zKkzFAp"
+      },
+      "artists": [
+        {
+          "name": "La Rondalla De Saltillo",
+          "url": "https://open.spotify.com/artist/65wmIidwFZCCoT1BUewp5P"
+        }
+      ],
+      "duration_ms": 146800,
+      "name": "Wendolyne",
+      "url": "https://open.spotify.com/track/5UzphHLxBUS69n6J30BZea"
     },
     {
       "added_at": "2023-11-06 20:37:56",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2023-11-06 20:37:56",
       "album": {
-        "name": "\u00c9xitos Eternos",
-        "url": "https://open.spotify.com/album/3P9Y7c860rgTpYjK8SBMon"
-      },
-      "artists": [
-        {
-          "name": "Los Pasteles Verdes",
-          "url": "https://open.spotify.com/artist/2lHzW2pMhRYX3ohx5lZY8y"
-        }
-      ],
-      "duration_ms": 182999,
-      "name": "Recuerdos de una Noche",
-      "url": "https://open.spotify.com/track/1HvnEWOy2ykY8sJa2K6y7s"
-    },
-    {
-      "added_at": "2023-11-06 20:37:56",
-      "album": {
         "name": "25 Exitos",
         "url": "https://open.spotify.com/album/3vhcKso4jXKeXF5TfJDNwo"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 148240,
       "name": "Lo que te queda",
       "url": "https://open.spotify.com/track/6aS1aIY9bpyYRvRRtaG5cq"
+    },
+    {
+      "added_at": "2023-11-06 20:37:56",
+      "album": {
+        "name": "\u00c9xitos Eternos",
+        "url": "https://open.spotify.com/album/3P9Y7c860rgTpYjK8SBMon"
+      },
+      "artists": [
+        {
+          "name": "Los Pasteles Verdes",
+          "url": "https://open.spotify.com/artist/2lHzW2pMhRYX3ohx5lZY8y"
+        }
+      ],
+      "duration_ms": 182999,
+      "name": "Recuerdos de una Noche",
+      "url": "https://open.spotify.com/track/1HvnEWOy2ykY8sJa2K6y7s"
     },
     {
       "added_at": "2023-11-06 20:37:56",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-11-06 20:37:56",
       "album": {
-        "name": "Serie Diamante (USA)",
-        "url": "https://open.spotify.com/album/2fgUn3x6HujXAP2AXxMoer"
-      },
-      "artists": [
-        {
-          "name": "Los Solitarios",
-          "url": "https://open.spotify.com/artist/5oXtNxxScsHb1cRjqqfcMj"
-        }
-      ],
-      "duration_ms": 168866,
-      "name": "Nunca digas",
-      "url": "https://open.spotify.com/track/4pMyhL7qpkgIquLtn8ukUa"
-    },
-    {
-      "added_at": "2023-11-06 20:37:56",
-      "album": {
         "name": "S\u00f3lo para enamorados",
         "url": "https://open.spotify.com/album/0aKX7SIu3MGX01ST8NANy8"
       },
@@ -1183,6 +1167,22 @@
     {
       "added_at": "2023-11-06 20:37:56",
       "album": {
+        "name": "Serie Diamante (USA)",
+        "url": "https://open.spotify.com/album/2fgUn3x6HujXAP2AXxMoer"
+      },
+      "artists": [
+        {
+          "name": "Los Solitarios",
+          "url": "https://open.spotify.com/artist/5oXtNxxScsHb1cRjqqfcMj"
+        }
+      ],
+      "duration_ms": 168866,
+      "name": "Nunca digas",
+      "url": "https://open.spotify.com/track/4pMyhL7qpkgIquLtn8ukUa"
+    },
+    {
+      "added_at": "2023-11-06 20:37:56",
+      "album": {
         "name": "Baladas De Amor",
         "url": "https://open.spotify.com/album/3UAIOag0j4RpnVWBJzmw0h"
       },
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2023-11-06 20:37:56",
       "album": {
-        "name": "S\u00f3lo para enamorados",
-        "url": "https://open.spotify.com/album/0aKX7SIu3MGX01ST8NANy8"
-      },
-      "artists": [
-        {
-          "name": "Los Baby's",
-          "url": "https://open.spotify.com/artist/5CChYiuVrfAXbhcGtgDjU9"
-        }
-      ],
-      "duration_ms": 183693,
-      "name": "Por qu\u00e9?",
-      "url": "https://open.spotify.com/track/5RXdPnVu0Re9XvKo9v6Wx4"
-    },
-    {
-      "added_at": "2023-11-06 20:37:56",
-      "album": {
         "name": "Solo Para Ti",
         "url": "https://open.spotify.com/album/3LRXbYxa6LgY8W7jUHYNnk"
       },
@@ -1259,54 +1243,6 @@
       "duration_ms": 206066,
       "name": "Pecado Mortal",
       "url": "https://open.spotify.com/track/3uJW3j46luxDB4CrJY90l5"
-    },
-    {
-      "added_at": "2023-11-06 20:37:56",
-      "album": {
-        "name": "Baladas De Amor",
-        "url": "https://open.spotify.com/album/3UAIOag0j4RpnVWBJzmw0h"
-      },
-      "artists": [
-        {
-          "name": "Leonardo Favio",
-          "url": "https://open.spotify.com/artist/7JWJRzjFr2Qt5yB9ondmoq"
-        }
-      ],
-      "duration_ms": 207026,
-      "name": "Anny",
-      "url": "https://open.spotify.com/track/0OBQLc9oXzswaPg4gobM5h"
-    },
-    {
-      "added_at": "2023-11-06 20:37:56",
-      "album": {
-        "name": "\"Gold\"",
-        "url": "https://open.spotify.com/album/6GtV0uQMWKRIP6l2UeHJo0"
-      },
-      "artists": [
-        {
-          "name": "Los Yonic's",
-          "url": "https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt"
-        }
-      ],
-      "duration_ms": 213613,
-      "name": "Soy Yo",
-      "url": "https://open.spotify.com/track/3tDPWlPtHeJ9j58DiBR42M"
-    },
-    {
-      "added_at": "2023-11-06 20:37:56",
-      "album": {
-        "name": "Mano A Mano Volumen 1",
-        "url": "https://open.spotify.com/album/6ACFs5lO3JnuSTDIMVzpcK"
-      },
-      "artists": [
-        {
-          "name": "Yndio",
-          "url": "https://open.spotify.com/artist/1yP1EbAX7oCvKI7j7PxzGg"
-        }
-      ],
-      "duration_ms": 190773,
-      "name": "Por Que Nos Dijimos Adios",
-      "url": "https://open.spotify.com/track/3jn1p2vkh7osxeeoibErbO"
     },
     {
       "added_at": "2023-11-06 20:37:56",
@@ -1327,18 +1263,98 @@
     {
       "added_at": "2023-11-06 20:37:56",
       "album": {
-        "name": "Como No Voy a Quererte",
-        "url": "https://open.spotify.com/album/2136DyGZn2DKRvYnhTghyb"
+        "name": "Mano A Mano Volumen 1",
+        "url": "https://open.spotify.com/album/6ACFs5lO3JnuSTDIMVzpcK"
       },
       "artists": [
         {
-          "name": "Los Prados",
-          "url": "https://open.spotify.com/artist/619Ki7Z3lW1xCr24TzvsgK"
+          "name": "Yndio",
+          "url": "https://open.spotify.com/artist/1yP1EbAX7oCvKI7j7PxzGg"
         }
       ],
-      "duration_ms": 185573,
-      "name": "Como No Voy a Quererte",
-      "url": "https://open.spotify.com/track/1fadIgrQWhRxFsIddVU40l"
+      "duration_ms": 190773,
+      "name": "Por Que Nos Dijimos Adios",
+      "url": "https://open.spotify.com/track/3jn1p2vkh7osxeeoibErbO"
+    },
+    {
+      "added_at": "2023-11-06 20:37:56",
+      "album": {
+        "name": "Baladas De Amor",
+        "url": "https://open.spotify.com/album/3UAIOag0j4RpnVWBJzmw0h"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Favio",
+          "url": "https://open.spotify.com/artist/7JWJRzjFr2Qt5yB9ondmoq"
+        }
+      ],
+      "duration_ms": 207026,
+      "name": "Anny",
+      "url": "https://open.spotify.com/track/0OBQLc9oXzswaPg4gobM5h"
+    },
+    {
+      "added_at": "2023-11-06 20:37:56",
+      "album": {
+        "name": "S\u00f3lo para enamorados",
+        "url": "https://open.spotify.com/album/0aKX7SIu3MGX01ST8NANy8"
+      },
+      "artists": [
+        {
+          "name": "Los Baby's",
+          "url": "https://open.spotify.com/artist/5CChYiuVrfAXbhcGtgDjU9"
+        }
+      ],
+      "duration_ms": 183693,
+      "name": "Por qu\u00e9?",
+      "url": "https://open.spotify.com/track/5RXdPnVu0Re9XvKo9v6Wx4"
+    },
+    {
+      "added_at": "2023-11-06 20:37:56",
+      "album": {
+        "name": "\"Gold\"",
+        "url": "https://open.spotify.com/album/6GtV0uQMWKRIP6l2UeHJo0"
+      },
+      "artists": [
+        {
+          "name": "Los Yonic's",
+          "url": "https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt"
+        }
+      ],
+      "duration_ms": 213613,
+      "name": "Soy Yo",
+      "url": "https://open.spotify.com/track/3tDPWlPtHeJ9j58DiBR42M"
+    },
+    {
+      "added_at": "2023-11-06 20:37:56",
+      "album": {
+        "name": "Peerless 80 Aniversario - 24 Inolvidables",
+        "url": "https://open.spotify.com/album/0Cnpcp3SN5a70u53QF8HHh"
+      },
+      "artists": [
+        {
+          "name": "Los Freddy's",
+          "url": "https://open.spotify.com/artist/6Pg8M1zA3uDn0h5IOFc3pe"
+        }
+      ],
+      "duration_ms": 168320,
+      "name": "Tu inolvidable sonrisa",
+      "url": "https://open.spotify.com/track/1dHSeRTyFtGbVnJEdaK2NJ"
+    },
+    {
+      "added_at": "2023-11-06 20:37:56",
+      "album": {
+        "name": "Mano A Mano Volumen 2",
+        "url": "https://open.spotify.com/album/711RytcGqUZWMK90seBzdV"
+      },
+      "artists": [
+        {
+          "name": "Yndio",
+          "url": "https://open.spotify.com/artist/1yP1EbAX7oCvKI7j7PxzGg"
+        }
+      ],
+      "duration_ms": 169440,
+      "name": "Como Te Extra\u00f1o",
+      "url": "https://open.spotify.com/track/4cr9cfUYbIwuhqzhF9dpIZ"
     },
     {
       "added_at": "2023-11-06 20:37:56",
@@ -1355,6 +1371,22 @@
       "duration_ms": 241080,
       "name": "Apr\u00f3ntate a Vivir",
       "url": "https://open.spotify.com/track/6AV4j0mfkuG8ugLGZToS4I"
+    },
+    {
+      "added_at": "2023-11-06 20:37:56",
+      "album": {
+        "name": "Como No Voy a Quererte",
+        "url": "https://open.spotify.com/album/2136DyGZn2DKRvYnhTghyb"
+      },
+      "artists": [
+        {
+          "name": "Los Prados",
+          "url": "https://open.spotify.com/artist/619Ki7Z3lW1xCr24TzvsgK"
+        }
+      ],
+      "duration_ms": 185573,
+      "name": "Como No Voy a Quererte",
+      "url": "https://open.spotify.com/track/1fadIgrQWhRxFsIddVU40l"
     },
     {
       "added_at": "2023-11-06 20:37:56",
@@ -1403,38 +1435,6 @@
       "duration_ms": 195213,
       "name": "El",
       "url": "https://open.spotify.com/track/7FbqWTsHBvwEr2mAP7zWvo"
-    },
-    {
-      "added_at": "2023-11-06 20:37:56",
-      "album": {
-        "name": "Mano A Mano Volumen 2",
-        "url": "https://open.spotify.com/album/711RytcGqUZWMK90seBzdV"
-      },
-      "artists": [
-        {
-          "name": "Yndio",
-          "url": "https://open.spotify.com/artist/1yP1EbAX7oCvKI7j7PxzGg"
-        }
-      ],
-      "duration_ms": 169440,
-      "name": "Como Te Extra\u00f1o",
-      "url": "https://open.spotify.com/track/4cr9cfUYbIwuhqzhF9dpIZ"
-    },
-    {
-      "added_at": "2023-11-06 20:37:56",
-      "album": {
-        "name": "Peerless 80 Aniversario - 24 Inolvidables",
-        "url": "https://open.spotify.com/album/0Cnpcp3SN5a70u53QF8HHh"
-      },
-      "artists": [
-        {
-          "name": "Los Freddy's",
-          "url": "https://open.spotify.com/artist/6Pg8M1zA3uDn0h5IOFc3pe"
-        }
-      ],
-      "duration_ms": 168320,
-      "name": "Tu inolvidable sonrisa",
-      "url": "https://open.spotify.com/track/1dHSeRTyFtGbVnJEdaK2NJ"
     },
     {
       "added_at": "2023-11-06 20:37:56",

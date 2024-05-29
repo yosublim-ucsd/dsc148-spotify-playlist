@@ -4,7 +4,7 @@
 
 > A hypnotic journey through Melodic Techno.
 
-516 songs - 1 day 18 hr 5 min
+517 songs - 1 day 18 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -306,6 +306,7 @@
 | [Never Say Never \- Colyn Remix](https://open.spotify.com/track/3OMkjlhiBfQcBtPVA3AkaF) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Colyn](https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh), [Jacqueline Govaert](https://open.spotify.com/artist/7LTI9KZLhnMbrDojlJK7Li) | [Never Say Never \(Colyn Remix\)](https://open.spotify.com/album/5Cg4vGbP9SXRkCmwj31YD4) | 4:09 | 2023-07-13 | 2024-04-26 |
 | [New World](https://open.spotify.com/track/3q4e7f2g9FeA6yh9PfS78H) | [Coeus](https://open.spotify.com/artist/7yibHBJHi3LZD0uvWAdyya) | [Symbiosis One](https://open.spotify.com/album/64bLKFRFtgwGKWHs8qZe68) | 6:51 | 2022-11-24 | 2022-12-04 |
 | [Nightshapes](https://open.spotify.com/track/20Mb3OEO2GYuhvQ7mDmTXe) | [Korolova](https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx), [MotherEarth](https://open.spotify.com/artist/2o2pBVmNUXW9LZvjVvKC0x), [Tyoz](https://open.spotify.com/artist/5KR5DO4Ezn0QPcM5N9Ioms) | [Nightshapes](https://open.spotify.com/album/5pRg1T6q3JHehMmVAP8afy) | 3:25 | 2024-02-01 |  |
+| [No Memory \- Kasia Remix](https://open.spotify.com/track/19PlJGLQqxf4EICxozQAEf) | [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB), [KASIA](https://open.spotify.com/artist/7eHoBIirKPLD1FtgLZnjFV) | [No Memory \(Kasia Remix\)](https://open.spotify.com/album/35gGOZ0pCfjqC5jU0wtgdt) | 3:04 | 2024-05-23 |  |
 | [No One’s Coming](https://open.spotify.com/track/5yKh1r5JXYKjUS4QHeoixs) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Weekend Heroes](https://open.spotify.com/artist/0f38k6IM0q7Je0QihLXpD8) | [New World](https://open.spotify.com/album/34eqkiNdakhMaOmklFTpOv) | 3:38 | 2024-03-15 | 2024-04-19 |
 | [No Tomorrow](https://open.spotify.com/track/1KiKIjnfm2is7U2iBEebda) | [AN21](https://open.spotify.com/artist/3wPBMtzFP84b7UN786Sxhn), [Maunt](https://open.spotify.com/artist/23VFpXmOCxnReEwvUCulSb) | [No Tomorrow](https://open.spotify.com/album/78OyyeUJyyoYRHDLtBzsqi) | 3:56 | 2022-12-28 | 2023-01-06 |
 | [Not Exactly \- Rebūke Remix](https://open.spotify.com/track/0toCiiWUNHiWsfbshXY0TC) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj) | [Not Exactly \(Rebūke Remix\)](https://open.spotify.com/album/3tuUxwV6i6hXlluIhz0ZCI) | 3:00 | 2024-04-11 |  |
@@ -377,7 +378,7 @@
 | [Rider](https://open.spotify.com/track/4r0HVrlaSAFx4usOEXEf2G) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Rider](https://open.spotify.com/album/49R5umJQYx9Gk02aamMFsv) | 3:49 | 2024-04-04 |  |
 | [RIDERS ON THE STORM](https://open.spotify.com/track/6X9FcXuVtEUMaZrgcXING2) | [RUBACK](https://open.spotify.com/artist/2fdRphXxW7ncxOnkX4J3Pg), [Sevenn](https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4) | [RIDERS ON THE STORM](https://open.spotify.com/album/1NW9uJa0pdHCzueCxOFUQS) | 5:10 | 2023-09-01 |  |
 | [Ringo \- Miss Monique Remix](https://open.spotify.com/track/0fRLU02X1H2RqWPWKKaJ5c) | [Lufthaus](https://open.spotify.com/artist/0zlMouo6dENL2tsOY9JssU), [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR) | [Ringo \(Miss Monique Remix\)](https://open.spotify.com/album/0DweN2CtrxoKqvz0w2hcPC) | 3:42 | 2023-12-15 |  |
-| [Rise](https://open.spotify.com/track/1gVDPdCghb3j9wX02yeydF) | [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj) | [Rise](https://open.spotify.com/album/2jkGU1Z7dvBWoKU3jJURm4) | 3:23 | 2023-11-24 |  |
+| [Rise](https://open.spotify.com/track/1gVDPdCghb3j9wX02yeydF) | [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj) | [Rise](https://open.spotify.com/album/2jkGU1Z7dvBWoKU3jJURm4) | 3:23 | 2023-11-24 | 2024-05-29 |
 | [Rise Of The 2nd Sun](https://open.spotify.com/track/12cknKcAEanf3PlwPOYvg5) | [Stereo Express](https://open.spotify.com/artist/3j2zB13syOvCyrkJIomEA2) | [Rise Of The 2nd Sun](https://open.spotify.com/album/2vcdcwvURyhYMkh8P0wfJT) | 7:05 | 2023-03-03 |  |
 | [Ritam](https://open.spotify.com/track/3d8JQ8JJEi97aKzWq4BtlF) | [Mark Dekoda](https://open.spotify.com/artist/3FzG2HgsgPRfwpX1qSK1g8) | [Ritam](https://open.spotify.com/album/1hWSLGSfK9PN83cRuTAXRK) | 4:52 | 2023-09-15 | 2023-11-16 |
 | [Rituals](https://open.spotify.com/track/4AgbFfaJGqz7vBCpmapJQO) | [Steand](https://open.spotify.com/artist/2lX40grYVkSFaWX6vWOquI), [Andy Kulter](https://open.spotify.com/artist/2wHIfsNcNgN0dKxYa2XOF6) | [Rituals](https://open.spotify.com/album/6aPY8GoHHfEUv1aVMMf58J) | 5:57 | 2022-12-28 | 2023-01-06 |

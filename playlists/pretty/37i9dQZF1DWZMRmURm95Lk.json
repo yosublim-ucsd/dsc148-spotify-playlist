@@ -1,6 +1,6 @@
 {
   "description": "Beat e rime, oggi come una volta. Jack The Smoker e Big Joe in cover.",
-  "num_followers": 41209,
+  "num_followers": 41224,
   "original_name": "Radici Hip-Hop",
   "owner": {
     "name": "Spotify",
@@ -795,8 +795,8 @@
     {
       "added_at": "2024-05-23 22:01:00",
       "album": {
-        "name": "La calda notte",
-        "url": "https://open.spotify.com/album/6QdeiDIk0cnXh7czJPWqFT"
+        "name": "VIRUS",
+        "url": "https://open.spotify.com/album/1PuzNok4t4FnyY92G202UU"
       },
       "artists": [
         {
@@ -804,13 +804,17 @@
           "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
         },
         {
-          "name": "Chicoria",
-          "url": "https://open.spotify.com/artist/5OzBpKiOsMFpuwvbJpUGce"
+          "name": "Gemello",
+          "url": "https://open.spotify.com/artist/3GNq6JwYWh8B2xujy6ub04"
+        },
+        {
+          "name": "Metal Carter",
+          "url": "https://open.spotify.com/artist/0H4qKbzvpxPEz0Vbm7ULo4"
         }
       ],
-      "duration_ms": 273746,
-      "name": "Cronaca quotidiana",
-      "url": "https://open.spotify.com/track/3Iy36LKLxcYjSxr7ZOUJ7V"
+      "duration_ms": 258665,
+      "name": "VERANO ZOMBIE PT.3 (feat. Gemello & Metal Carter)",
+      "url": "https://open.spotify.com/track/5FUSmeF3iIYBXsANx5Z6A6"
     },
     {
       "added_at": "2024-05-23 22:01:00",
@@ -827,6 +831,22 @@
       "duration_ms": 221806,
       "name": "Cronache di resistenza - Hard to do",
       "url": "https://open.spotify.com/track/3nEmwAy1uQD8Nwr93J8vYc"
+    },
+    {
+      "added_at": "2024-05-23 22:01:00",
+      "album": {
+        "name": "Dafalgan",
+        "url": "https://open.spotify.com/album/4omxez8JEcqaSwiDCtGm8O"
+      },
+      "artists": [
+        {
+          "name": "Ele A",
+          "url": "https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM"
+        }
+      ],
+      "duration_ms": 204186,
+      "name": "Dafalgan",
+      "url": "https://open.spotify.com/track/3XGsMvnIirV7ICCWAh7v7L"
     },
     {
       "added_at": "2024-05-23 22:01:00",
@@ -851,22 +871,6 @@
       "duration_ms": 211930,
       "name": "Funema (feat. Conway the Machine)",
       "url": "https://open.spotify.com/track/3CPhJHDKASMC4qAHcA0ZTX"
-    },
-    {
-      "added_at": "2024-05-23 22:01:00",
-      "album": {
-        "name": "Dafalgan",
-        "url": "https://open.spotify.com/album/4omxez8JEcqaSwiDCtGm8O"
-      },
-      "artists": [
-        {
-          "name": "Ele A",
-          "url": "https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM"
-        }
-      ],
-      "duration_ms": 204186,
-      "name": "Dafalgan",
-      "url": "https://open.spotify.com/track/3XGsMvnIirV7ICCWAh7v7L"
     },
     {
       "added_at": "2024-05-23 22:01:00",
@@ -959,8 +963,8 @@
     {
       "added_at": "2024-05-23 22:01:00",
       "album": {
-        "name": "VIRUS",
-        "url": "https://open.spotify.com/album/1PuzNok4t4FnyY92G202UU"
+        "name": "La calda notte",
+        "url": "https://open.spotify.com/album/6QdeiDIk0cnXh7czJPWqFT"
       },
       "artists": [
         {
@@ -968,17 +972,13 @@
           "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
         },
         {
-          "name": "Gemello",
-          "url": "https://open.spotify.com/artist/3GNq6JwYWh8B2xujy6ub04"
-        },
-        {
-          "name": "Metal Carter",
-          "url": "https://open.spotify.com/artist/0H4qKbzvpxPEz0Vbm7ULo4"
+          "name": "Chicoria",
+          "url": "https://open.spotify.com/artist/5OzBpKiOsMFpuwvbJpUGce"
         }
       ],
-      "duration_ms": 258665,
-      "name": "VERANO ZOMBIE PT.3 (feat. Gemello & Metal Carter)",
-      "url": "https://open.spotify.com/track/5FUSmeF3iIYBXsANx5Z6A6"
+      "duration_ms": 273746,
+      "name": "Cronaca quotidiana",
+      "url": "https://open.spotify.com/track/3Iy36LKLxcYjSxr7ZOUJ7V"
     },
     {
       "added_at": "2024-05-23 22:01:00",
@@ -2039,6 +2039,22 @@
     {
       "added_at": "2024-05-23 22:01:00",
       "album": {
+        "name": "Disco Inverno",
+        "url": "https://open.spotify.com/album/7ahoWKetSziBPjNTbs9xLe"
+      },
+      "artists": [
+        {
+          "name": "Mecna",
+          "url": "https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ"
+        }
+      ],
+      "duration_ms": 222880,
+      "name": "Senza paracadute",
+      "url": "https://open.spotify.com/track/2u8HqIiG8EAsgZs0AanR90"
+    },
+    {
+      "added_at": "2024-05-23 22:01:00",
+      "album": {
         "name": "PALIFORNIA",
         "url": "https://open.spotify.com/album/4mEKiX9VzmZJGpicUczrSA"
       },
@@ -2063,18 +2079,26 @@
     {
       "added_at": "2024-05-23 22:01:00",
       "album": {
-        "name": "Disco Inverno",
-        "url": "https://open.spotify.com/album/7ahoWKetSziBPjNTbs9xLe"
+        "name": "IDDU",
+        "url": "https://open.spotify.com/album/5Gb0UlQfDweq4HU5k81qtL"
       },
       "artists": [
         {
-          "name": "Mecna",
-          "url": "https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ"
+          "name": "Armani Doc",
+          "url": "https://open.spotify.com/artist/7djBWDVQvjaDbC8rSilpLC"
+        },
+        {
+          "name": "ThinkFast",
+          "url": "https://open.spotify.com/artist/0zY3rKlVW1d0tMW7gZyX3T"
+        },
+        {
+          "name": "Lenor",
+          "url": "https://open.spotify.com/artist/4pWBZqR0oa0gjBKEhaw4SK"
         }
       ],
-      "duration_ms": 222880,
-      "name": "Senza paracadute",
-      "url": "https://open.spotify.com/track/2u8HqIiG8EAsgZs0AanR90"
+      "duration_ms": 160365,
+      "name": "Peri Peri",
+      "url": "https://open.spotify.com/track/7Hi2almjxtGgAjODubaHEC"
     },
     {
       "added_at": "2024-05-23 22:01:00",
@@ -2187,30 +2211,6 @@
     {
       "added_at": "2024-05-23 22:01:00",
       "album": {
-        "name": "IDDU",
-        "url": "https://open.spotify.com/album/5Gb0UlQfDweq4HU5k81qtL"
-      },
-      "artists": [
-        {
-          "name": "Armani Doc",
-          "url": "https://open.spotify.com/artist/7djBWDVQvjaDbC8rSilpLC"
-        },
-        {
-          "name": "ThinkFast",
-          "url": "https://open.spotify.com/artist/0zY3rKlVW1d0tMW7gZyX3T"
-        },
-        {
-          "name": "Lenor",
-          "url": "https://open.spotify.com/artist/4pWBZqR0oa0gjBKEhaw4SK"
-        }
-      ],
-      "duration_ms": 160365,
-      "name": "Peri Peri",
-      "url": "https://open.spotify.com/track/7Hi2almjxtGgAjODubaHEC"
-    },
-    {
-      "added_at": "2024-05-23 22:01:00",
-      "album": {
         "name": "Questo non \u00e8 un cane",
         "url": "https://open.spotify.com/album/5EsYTsMhIoAIMHj850DUeY"
       },
@@ -2227,6 +2227,22 @@
       "duration_ms": 185893,
       "name": "Sapori e sostanza",
       "url": "https://open.spotify.com/track/21jGfTFjt6MPGltvk7yHrS"
+    },
+    {
+      "added_at": "2024-05-23 22:01:00",
+      "album": {
+        "name": "John princekin 2",
+        "url": "https://open.spotify.com/album/3zA5Vhu1GyGr4vaUFCyHHk"
+      },
+      "artists": [
+        {
+          "name": "XVI Religion",
+          "url": "https://open.spotify.com/artist/2MnHoKWg1ziqrnUe30wbaT"
+        }
+      ],
+      "duration_ms": 357262,
+      "name": "Una svastica sul sole",
+      "url": "https://open.spotify.com/track/5TQMUq5aXtKJ1irNQob9jQ"
     },
     {
       "added_at": "2024-05-23 22:01:00",
@@ -2251,18 +2267,18 @@
     {
       "added_at": "2024-05-23 22:01:00",
       "album": {
-        "name": "John princekin 2",
-        "url": "https://open.spotify.com/album/3zA5Vhu1GyGr4vaUFCyHHk"
+        "name": "Di vizi di forma virt\u00f9",
+        "url": "https://open.spotify.com/album/1nL50vpMlnJ4cjKzufjslp"
       },
       "artists": [
         {
-          "name": "XVI Religion",
-          "url": "https://open.spotify.com/artist/2MnHoKWg1ziqrnUe30wbaT"
+          "name": "Dargen D'Amico",
+          "url": "https://open.spotify.com/artist/7muPB2GhV0sEg2K1Fgj0Xm"
         }
       ],
-      "duration_ms": 357262,
-      "name": "Una svastica sul sole",
-      "url": "https://open.spotify.com/track/5TQMUq5aXtKJ1irNQob9jQ"
+      "duration_ms": 195950,
+      "name": "Arrivi stai scomodo e te ne vai",
+      "url": "https://open.spotify.com/track/4AAbYg5GteUW74s2vUR8Wd"
     },
     {
       "added_at": "2024-05-23 22:01:00",
@@ -2287,22 +2303,6 @@
       "duration_ms": 304560,
       "name": "Disegni nella mente",
       "url": "https://open.spotify.com/track/0C34kU6d7no87x9dgBsyyq"
-    },
-    {
-      "added_at": "2024-05-23 22:01:00",
-      "album": {
-        "name": "Di vizi di forma virt\u00f9",
-        "url": "https://open.spotify.com/album/1nL50vpMlnJ4cjKzufjslp"
-      },
-      "artists": [
-        {
-          "name": "Dargen D'Amico",
-          "url": "https://open.spotify.com/artist/7muPB2GhV0sEg2K1Fgj0Xm"
-        }
-      ],
-      "duration_ms": 195950,
-      "name": "Arrivi stai scomodo e te ne vai",
-      "url": "https://open.spotify.com/track/4AAbYg5GteUW74s2vUR8Wd"
     },
     {
       "added_at": "2024-05-23 22:01:00",
@@ -2355,6 +2355,22 @@
     {
       "added_at": "2024-05-23 22:01:00",
       "album": {
+        "name": "Generazione Di Sconvolti",
+        "url": "https://open.spotify.com/album/79jJoqnwIm7NuDGFpvK0dV"
+      },
+      "artists": [
+        {
+          "name": "Ape",
+          "url": "https://open.spotify.com/artist/5jHrsaNkl9n2qBGYXGiCFM"
+        }
+      ],
+      "duration_ms": 201066,
+      "name": "Ne Parlero' Con Te",
+      "url": "https://open.spotify.com/track/4eHz63b9Wus5sRtErW3HG0"
+    },
+    {
+      "added_at": "2024-05-23 22:01:00",
+      "album": {
         "name": "Young Veterans - Terzo Occhio - EP",
         "url": "https://open.spotify.com/album/1QqaaVKakZw3Wn23YCs8mo"
       },
@@ -2383,18 +2399,22 @@
     {
       "added_at": "2024-05-23 22:01:00",
       "album": {
-        "name": "Generazione Di Sconvolti",
-        "url": "https://open.spotify.com/album/79jJoqnwIm7NuDGFpvK0dV"
+        "name": "Qualcosa \u00e8 cambiato",
+        "url": "https://open.spotify.com/album/01ckjYfHeUMxArE52Ufwab"
       },
       "artists": [
         {
-          "name": "Ape",
-          "url": "https://open.spotify.com/artist/5jHrsaNkl9n2qBGYXGiCFM"
+          "name": "Ghemon",
+          "url": "https://open.spotify.com/artist/4xgOj3GP5I1do9ip0MQkLa"
+        },
+        {
+          "name": "Mecna",
+          "url": "https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ"
         }
       ],
-      "duration_ms": 201066,
-      "name": "Ne Parlero' Con Te",
-      "url": "https://open.spotify.com/track/4eHz63b9Wus5sRtErW3HG0"
+      "duration_ms": 207853,
+      "name": "Parte Di Me",
+      "url": "https://open.spotify.com/track/1K4YHU1UIslTH0h55yRa4b"
     },
     {
       "added_at": "2024-05-23 22:01:00",
@@ -2423,26 +2443,6 @@
       "duration_ms": 240744,
       "name": "Che nessuno si muova",
       "url": "https://open.spotify.com/track/58DcYPv6jTVD6BeYsiPfSn"
-    },
-    {
-      "added_at": "2024-05-23 22:01:00",
-      "album": {
-        "name": "Qualcosa \u00e8 cambiato",
-        "url": "https://open.spotify.com/album/01ckjYfHeUMxArE52Ufwab"
-      },
-      "artists": [
-        {
-          "name": "Ghemon",
-          "url": "https://open.spotify.com/artist/4xgOj3GP5I1do9ip0MQkLa"
-        },
-        {
-          "name": "Mecna",
-          "url": "https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ"
-        }
-      ],
-      "duration_ms": 207853,
-      "name": "Parte Di Me",
-      "url": "https://open.spotify.com/track/1K4YHU1UIslTH0h55yRa4b"
     },
     {
       "added_at": "2024-05-23 22:01:00",
@@ -2491,38 +2491,6 @@
     {
       "added_at": "2024-05-23 22:01:00",
       "album": {
-        "name": "Deep Challenger (Reloaded Version)",
-        "url": "https://open.spotify.com/album/577TJqF08tPT4SiHV3w7FQ"
-      },
-      "artists": [
-        {
-          "name": "DJ Fede",
-          "url": "https://open.spotify.com/artist/7Jvp6QTJqEQqdRXP389Pm8"
-        },
-        {
-          "name": "Masito",
-          "url": "https://open.spotify.com/artist/6VOekI1m0svP9Z9WJ4tsuQ"
-        },
-        {
-          "name": "Il Turco",
-          "url": "https://open.spotify.com/artist/0suOr4vmNOOc03g5LLsufn"
-        },
-        {
-          "name": "Dj Double S",
-          "url": "https://open.spotify.com/artist/6dtsFkULezFnergRkRlQv0"
-        },
-        {
-          "name": "DJ Lil Cut",
-          "url": "https://open.spotify.com/artist/239ssUhwi2I11zknlfybGJ"
-        }
-      ],
-      "duration_ms": 272195,
-      "name": "Deep Challenger - Reloaded Version",
-      "url": "https://open.spotify.com/track/6VuHwT0qI2PCAgUCzxbbT1"
-    },
-    {
-      "added_at": "2024-05-23 22:01:00",
-      "album": {
         "name": "FEGATO",
         "url": "https://open.spotify.com/album/08voNOMFTP8gbfUj1a8af0"
       },
@@ -2551,6 +2519,22 @@
     {
       "added_at": "2024-05-23 22:01:00",
       "album": {
+        "name": "Qualcosa \u00e8 cambiato",
+        "url": "https://open.spotify.com/album/01ckjYfHeUMxArE52Ufwab"
+      },
+      "artists": [
+        {
+          "name": "Ghemon",
+          "url": "https://open.spotify.com/artist/4xgOj3GP5I1do9ip0MQkLa"
+        }
+      ],
+      "duration_ms": 262693,
+      "name": "La Verit\u00e0 (Non Abita Pi\u00f9 Qua)",
+      "url": "https://open.spotify.com/track/3a7IMYChDLGVEqubscuao1"
+    },
+    {
+      "added_at": "2024-05-23 22:01:00",
+      "album": {
         "name": "Promo EP",
         "url": "https://open.spotify.com/album/7MhH7sgC5AzcbpLBwCml3n"
       },
@@ -2567,26 +2551,34 @@
     {
       "added_at": "2024-05-23 22:01:00",
       "album": {
-        "name": "TRUENO",
-        "url": "https://open.spotify.com/album/0rONrHzPeWE8cFpo5REOSa"
+        "name": "Deep Challenger (Reloaded Version)",
+        "url": "https://open.spotify.com/album/577TJqF08tPT4SiHV3w7FQ"
       },
       "artists": [
         {
-          "name": "STABBER",
-          "url": "https://open.spotify.com/artist/1eKwVaINKkLrCkOQFRVM6g"
+          "name": "DJ Fede",
+          "url": "https://open.spotify.com/artist/7Jvp6QTJqEQqdRXP389Pm8"
         },
         {
-          "name": "Danno",
-          "url": "https://open.spotify.com/artist/1p3PtfvP25EJoUawmfPvUQ"
+          "name": "Masito",
+          "url": "https://open.spotify.com/artist/6VOekI1m0svP9Z9WJ4tsuQ"
         },
         {
-          "name": "Dj Craim",
-          "url": "https://open.spotify.com/artist/0ermTOwdFG35lQiVjsWNEZ"
+          "name": "Il Turco",
+          "url": "https://open.spotify.com/artist/0suOr4vmNOOc03g5LLsufn"
+        },
+        {
+          "name": "Dj Double S",
+          "url": "https://open.spotify.com/artist/6dtsFkULezFnergRkRlQv0"
+        },
+        {
+          "name": "DJ Lil Cut",
+          "url": "https://open.spotify.com/artist/239ssUhwi2I11zknlfybGJ"
         }
       ],
-      "duration_ms": 167625,
-      "name": "il profumo delle rose (feat. Danno, Dj Craim)",
-      "url": "https://open.spotify.com/track/4ggxeEirkrqdpDsTWoQB8j"
+      "duration_ms": 272195,
+      "name": "Deep Challenger - Reloaded Version",
+      "url": "https://open.spotify.com/track/6VuHwT0qI2PCAgUCzxbbT1"
     },
     {
       "added_at": "2024-05-23 22:01:00",
@@ -2627,6 +2619,30 @@
     {
       "added_at": "2024-05-23 22:01:00",
       "album": {
+        "name": "TRUENO",
+        "url": "https://open.spotify.com/album/0rONrHzPeWE8cFpo5REOSa"
+      },
+      "artists": [
+        {
+          "name": "STABBER",
+          "url": "https://open.spotify.com/artist/1eKwVaINKkLrCkOQFRVM6g"
+        },
+        {
+          "name": "Danno",
+          "url": "https://open.spotify.com/artist/1p3PtfvP25EJoUawmfPvUQ"
+        },
+        {
+          "name": "Dj Craim",
+          "url": "https://open.spotify.com/artist/0ermTOwdFG35lQiVjsWNEZ"
+        }
+      ],
+      "duration_ms": 167625,
+      "name": "il profumo delle rose (feat. Danno, Dj Craim)",
+      "url": "https://open.spotify.com/track/4ggxeEirkrqdpDsTWoQB8j"
+    },
+    {
+      "added_at": "2024-05-23 22:01:00",
+      "album": {
         "name": "DIES IRAE",
         "url": "https://open.spotify.com/album/4VFPf74QfBxWvFWjYdqNXb"
       },
@@ -2643,50 +2659,6 @@
       "duration_ms": 190843,
       "name": "Pidditta",
       "url": "https://open.spotify.com/track/1MzX0bCa7jKQl3irVK2wsd"
-    },
-    {
-      "added_at": "2024-05-23 22:01:00",
-      "album": {
-        "name": "Qualcosa \u00e8 cambiato",
-        "url": "https://open.spotify.com/album/01ckjYfHeUMxArE52Ufwab"
-      },
-      "artists": [
-        {
-          "name": "Ghemon",
-          "url": "https://open.spotify.com/artist/4xgOj3GP5I1do9ip0MQkLa"
-        }
-      ],
-      "duration_ms": 262693,
-      "name": "La Verit\u00e0 (Non Abita Pi\u00f9 Qua)",
-      "url": "https://open.spotify.com/track/3a7IMYChDLGVEqubscuao1"
-    },
-    {
-      "added_at": "2024-05-23 22:01:00",
-      "album": {
-        "name": "TRUENO",
-        "url": "https://open.spotify.com/album/0rONrHzPeWE8cFpo5REOSa"
-      },
-      "artists": [
-        {
-          "name": "STABBER",
-          "url": "https://open.spotify.com/artist/1eKwVaINKkLrCkOQFRVM6g"
-        },
-        {
-          "name": "Johnny Marsiglia",
-          "url": "https://open.spotify.com/artist/3av6zIgtT4g0kjJtDybSdb"
-        },
-        {
-          "name": "Alborosie",
-          "url": "https://open.spotify.com/artist/78u1jLVBjPSXQVmHBV43yG"
-        },
-        {
-          "name": "J Lord",
-          "url": "https://open.spotify.com/artist/1SDzdhISMGaEQzOCaJQ45C"
-        }
-      ],
-      "duration_ms": 154623,
-      "name": "legends never die (feat. Johnny Marsiglia, Alborosie, J Lord)",
-      "url": "https://open.spotify.com/track/10waLSoAi6HzxMSP50jIRr"
     },
     {
       "added_at": "2024-05-23 22:01:00",
@@ -2751,6 +2723,34 @@
       "duration_ms": 238043,
       "name": "Un giardino",
       "url": "https://open.spotify.com/track/3S0IMV2tmNNBUjVzhXkfgj"
+    },
+    {
+      "added_at": "2024-05-23 22:01:00",
+      "album": {
+        "name": "TRUENO",
+        "url": "https://open.spotify.com/album/0rONrHzPeWE8cFpo5REOSa"
+      },
+      "artists": [
+        {
+          "name": "STABBER",
+          "url": "https://open.spotify.com/artist/1eKwVaINKkLrCkOQFRVM6g"
+        },
+        {
+          "name": "Johnny Marsiglia",
+          "url": "https://open.spotify.com/artist/3av6zIgtT4g0kjJtDybSdb"
+        },
+        {
+          "name": "Alborosie",
+          "url": "https://open.spotify.com/artist/78u1jLVBjPSXQVmHBV43yG"
+        },
+        {
+          "name": "J Lord",
+          "url": "https://open.spotify.com/artist/1SDzdhISMGaEQzOCaJQ45C"
+        }
+      ],
+      "duration_ms": 154623,
+      "name": "legends never die (feat. Johnny Marsiglia, Alborosie, J Lord)",
+      "url": "https://open.spotify.com/track/10waLSoAi6HzxMSP50jIRr"
     },
     {
       "added_at": "2024-05-23 22:01:00",

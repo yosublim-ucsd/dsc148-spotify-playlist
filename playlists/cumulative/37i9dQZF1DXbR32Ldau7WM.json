@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "The biggest rock artists in Japan right now!  Cover: TK from \u51db\u3068\u3057\u3066\u6642\u96e8",
+  "description": "The biggest rock artists in Japan right now!  Cover: Plastic Tree",
   "name": "Big in Japan",
   "tracks": [
     {
@@ -854,6 +854,24 @@
       "duration_ms": 186962,
       "name": "Be The One",
       "url": "https://open.spotify.com/track/2qsCq95jjiHvlpAT7fsMQm"
+    },
+    {
+      "album": {
+        "name": "Beast Mode / Octave",
+        "url": "https://open.spotify.com/album/05bEOygcDYO7vClLouhuuQ"
+      },
+      "artists": [
+        {
+          "name": "ASH DA HERO",
+          "url": "https://open.spotify.com/artist/2XKXvzE0lpnqHcqu5l2lyT"
+        }
+      ],
+      "date_added": "2024-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250500,
+      "name": "Beast Mode",
+      "url": "https://open.spotify.com/track/72RapxkrkCUmGvd4ojwxSZ"
     },
     {
       "album": {
@@ -5354,7 +5372,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-20",
+      "date_removed": null,
       "duration_ms": 223269,
       "name": "LOST",
       "url": "https://open.spotify.com/track/4MqmrcRFEFv2xkQLZWaCWf"
@@ -6028,7 +6046,7 @@
       ],
       "date_added": "2024-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-29",
       "duration_ms": 187500,
       "name": "Mirror Ball Disco!!!!!!!",
       "url": "https://open.spotify.com/track/4rtYwWF4uBk6Q8oXyRyc86"
@@ -6608,7 +6626,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-29",
       "duration_ms": 213850,
       "name": "New York, New York",
       "url": "https://open.spotify.com/track/3Qqo0xwfoe091yG3XDy9qt"
@@ -9456,7 +9474,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-29",
       "duration_ms": 220333,
       "name": "SUGAR PUFF",
       "url": "https://open.spotify.com/track/080GUsiGyP1nko9hZ5SNv2"
@@ -13516,7 +13534,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-29",
       "duration_ms": 303172,
       "name": "\u30b5\u30a4\u30c0\u30fc",
       "url": "https://open.spotify.com/track/1DXCe9HX5L4SjhhRQ8nmlZ"
@@ -14421,6 +14439,24 @@
     },
     {
       "album": {
+        "name": "\u30c7\u30a3\u30b9\u30b3\u306e\u5375",
+        "url": "https://open.spotify.com/album/5abpmCp73IMXcZ1ezGqQrh"
+      },
+      "artists": [
+        {
+          "name": "Gesu No Kiwami Otome",
+          "url": "https://open.spotify.com/artist/1ieluXFoq2RRxMXZIQksTz"
+        }
+      ],
+      "date_added": "2024-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256183,
+      "name": "\u30cf\u30fc\u30c9\u30e2\u30fc\u30c9",
+      "url": "https://open.spotify.com/track/71MJ9Tzph2XWjKpqZI2AsI"
+    },
+    {
+      "album": {
         "name": "\u30d0\u30a4\u30aa\u30ec\u30f3\u30b9",
         "url": "https://open.spotify.com/album/4ci2aR3GoukVAmJwIfaQ61"
       },
@@ -14738,7 +14774,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-29",
       "duration_ms": 244786,
       "name": "\u30d6\u30ec\u30a4\u30af\u30b9\u30eb\u30fc",
       "url": "https://open.spotify.com/track/5dYz0z2oEr4jnzgort0quj"
@@ -15078,6 +15114,24 @@
       "duration_ms": 185227,
       "name": "\u30e1\u30c3\u30ad",
       "url": "https://open.spotify.com/track/1pz9RH2Z3JDEbZZJIGTIaC"
+    },
+    {
+      "album": {
+        "name": "Plastic Tree",
+        "url": "https://open.spotify.com/album/5Hqo4hG1C9HQCCJ89Pfbx5"
+      },
+      "artists": [
+        {
+          "name": "Plastic Tree",
+          "url": "https://open.spotify.com/artist/5O4DsTkJ6z2eTSvIHZ6sDo"
+        }
+      ],
+      "date_added": "2024-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366400,
+      "name": "\u30e1\u30eb\u30d8\u30f3",
+      "url": "https://open.spotify.com/track/4gp25ETHsJpWG0aA1H2RxJ"
     },
     {
       "album": {
@@ -16134,6 +16188,28 @@
       "duration_ms": 447906,
       "name": "\u591c\u660e\u3051\u524d",
       "url": "https://open.spotify.com/track/62NCZ531P4t2XDhq8jUuh5"
+    },
+    {
+      "album": {
+        "name": "\u5922\u5e7b",
+        "url": "https://open.spotify.com/album/77YX7r0H57cuZKyveTjoqQ"
+      },
+      "artists": [
+        {
+          "name": "MY FIRST STORY",
+          "url": "https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd"
+        },
+        {
+          "name": "HYDE",
+          "url": "https://open.spotify.com/artist/0ZXSQd2JNOfwJcLNbX0jpN"
+        }
+      ],
+      "date_added": "2024-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241156,
+      "name": "\u5922\u5e7b",
+      "url": "https://open.spotify.com/track/2otdcgLtoowuQzlU0Cx827"
     },
     {
       "album": {
@@ -17531,6 +17607,28 @@
     },
     {
       "album": {
+        "name": "\u6c38\u4e45 -\u30c8\u30b3\u30b7\u30a8-",
+        "url": "https://open.spotify.com/album/0iavoiplUxtsNRRcSoDJ5a"
+      },
+      "artists": [
+        {
+          "name": "HYDE",
+          "url": "https://open.spotify.com/artist/0ZXSQd2JNOfwJcLNbX0jpN"
+        },
+        {
+          "name": "MY FIRST STORY",
+          "url": "https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd"
+        }
+      ],
+      "date_added": "2024-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261497,
+      "name": "\u6c38\u4e45 -\u30c8\u30b3\u30b7\u30a8-",
+      "url": "https://open.spotify.com/track/4sWlVvuOg0lzDkC56lWrbg"
+    },
+    {
+      "album": {
         "name": "\u6c38\u9060",
         "url": "https://open.spotify.com/album/42nEyaGtOPG8YuugZjyNFt"
       },
@@ -17596,7 +17694,7 @@
       ],
       "date_added": "2024-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-29",
       "duration_ms": 242973,
       "name": "\u6c38\u9060\u5c11\u5973",
       "url": "https://open.spotify.com/track/7LQFar8eNeAJ393wUhsxBs"

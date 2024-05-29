@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXNdAVrxJgz6.md) - [plain]
 
 > El cantautor del Pueblo: canciones que duelen, del rancho para el Mundo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,079 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,149 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXNdAVrxJgz6.md) - [plain]
 | 74 | [A Veces \- En Vivo](https://open.spotify.com/track/6SyNVEtspa6hQPe837hcSH) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [A Veces](https://open.spotify.com/album/7IN8NKG7hHt2n8qdMbkm22) | 4:07 |
 | 75 | [Remodelación Facial](https://open.spotify.com/track/4Lh1S4zuXAbKfTep8ijflp) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Que No Se Caiga el Ritmo \(Deluxe\)](https://open.spotify.com/album/2T0jMFLwnKREZV00ySlQcK) | 3:46 |
 | 76 | [He Bebido](https://open.spotify.com/track/2Co0Qn48C7yt5voCAlnNz3) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Hombre](https://open.spotify.com/album/73jqYnehQiV7poQ3ZftAJ1) | 3:14 |
-| 77 | [Si Me Dieras un Minuto](https://open.spotify.com/track/6TZiYu5cKjUtHEVASvvmQN) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Literalmente](https://open.spotify.com/album/25M5B707zPD0VmPYxFQAE1) | 3:11 |
-| 78 | [Hombre Normal](https://open.spotify.com/track/5Nk8bhAhhWAeF2SKeQap2G) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Hombre Normal, Vol\. 2](https://open.spotify.com/album/3glYrVhOLLAjDfPlTqcGNS) | 4:15 |
+| 77 | [Hombre Normal](https://open.spotify.com/track/5Nk8bhAhhWAeF2SKeQap2G) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Hombre Normal, Vol\. 2](https://open.spotify.com/album/3glYrVhOLLAjDfPlTqcGNS) | 4:15 |
+| 78 | [Si Me Dieras un Minuto](https://open.spotify.com/track/6TZiYu5cKjUtHEVASvvmQN) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Literalmente](https://open.spotify.com/album/25M5B707zPD0VmPYxFQAE1) | 3:11 |
 | 79 | [Belleza Pura](https://open.spotify.com/track/57KrJ7wnc8o3QUXn1JeRFh) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y), [Juan Fernando Velasco](https://open.spotify.com/artist/3vA0UcLmHZEoVavifm65mc) | [Belleza Pura](https://open.spotify.com/album/4dMETdhANKrHarO1USyrzt) | 3:32 |
 | 80 | [Contacto Cero \- Mariachi](https://open.spotify.com/track/2y4fMw95tZ6krJzE0vC8jH) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Contacto Cero](https://open.spotify.com/album/4FhwG67kRWRBflqkZ6ciw1) | 2:54 |
 | 81 | [Tomando Ando](https://open.spotify.com/track/3cx4KfxfE4BKIaz4wL72ln) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Tomando Ando](https://open.spotify.com/album/7hY5xMTxLVWpQGBJo2qOSP) | 3:18 |

@@ -6,7 +6,7 @@
     "name": "Zack Amiton",
     "url": "https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt"
   },
-  "snapshot_id": "AAAF+aDMCPDdtTeybzFke0IYVF2oEr4m",
+  "snapshot_id": "AAAGAOeCeXjhkm02QaTZpDxjYl7kP5q8",
   "tracks": [
     {
       "added_at": "2021-08-26 23:11:19",
@@ -8151,6 +8151,122 @@
       "duration_ms": 116755,
       "name": "Fingertips (Intro)",
       "url": "https://open.spotify.com/track/3ZPSyQ3TxrZ5O5lJPw0wVx"
+    },
+    {
+      "added_at": "2024-05-28 03:31:15",
+      "album": {
+        "name": "Ape Sounds",
+        "url": "https://open.spotify.com/album/3R65oX0hqHdZMLc1fwtcV1"
+      },
+      "artists": [
+        {
+          "name": "Nigo",
+          "url": "https://open.spotify.com/artist/2rAnv6brcXaglLZBB4XXEn"
+        }
+      ],
+      "duration_ms": 25600,
+      "name": "Ape Sounds Opening",
+      "url": "https://open.spotify.com/track/1XuIxhSfZs0NBJVv1z2K6t"
+    },
+    {
+      "added_at": "2024-05-28 03:31:49",
+      "album": {
+        "name": "Silence Is Loud",
+        "url": "https://open.spotify.com/album/7aIsJRcf04ZeFiU1Fa70Cq"
+      },
+      "artists": [
+        {
+          "name": "Nia Archives",
+          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
+        }
+      ],
+      "duration_ms": 157745,
+      "name": "Silence Is Loud",
+      "url": "https://open.spotify.com/track/2FlY3tYbBDOExnLhjUZxlc"
+    },
+    {
+      "added_at": "2024-05-28 03:32:33",
+      "album": {
+        "name": "A Dream Is All We Know",
+        "url": "https://open.spotify.com/album/3ZEIxul2SC2AslVuGZGO68"
+      },
+      "artists": [
+        {
+          "name": "The Lemon Twigs",
+          "url": "https://open.spotify.com/artist/7eYZSXnQVCODCVmTV8Hk2T"
+        }
+      ],
+      "duration_ms": 193906,
+      "name": "My Golden Years",
+      "url": "https://open.spotify.com/track/0BikNVR79txZhmczhZE68l"
+    },
+    {
+      "added_at": "2024-05-28 03:33:09",
+      "album": {
+        "name": "Lives Outgrown",
+        "url": "https://open.spotify.com/album/0YC5MWwUmsTpJrRumtBdZA"
+      },
+      "artists": [
+        {
+          "name": "Beth Gibbons",
+          "url": "https://open.spotify.com/artist/6Lt6KFXX3P0v6vfrynQAMo"
+        }
+      ],
+      "duration_ms": 235000,
+      "name": "Tell Me Who You Are Today",
+      "url": "https://open.spotify.com/track/1tB6SUQaXIUU4CprvNPwsT"
+    },
+    {
+      "added_at": "2024-05-28 03:33:59",
+      "album": {
+        "name": "Tidal Memory Exo",
+        "url": "https://open.spotify.com/album/7CQp27clxVYy6Ou6jXht6g"
+      },
+      "artists": [
+        {
+          "name": "Iglooghost",
+          "url": "https://open.spotify.com/artist/7LCDnUQYE07fnKbo46SVLB"
+        }
+      ],
+      "duration_ms": 112223,
+      "name": "Blue Hum",
+      "url": "https://open.spotify.com/track/3JhF07uRMLR09xc1g20EfA"
+    },
+    {
+      "added_at": "2024-05-28 03:34:17",
+      "album": {
+        "name": "Cold Visions",
+        "url": "https://open.spotify.com/album/5fjDXtY8tws1sbPFHw34pL"
+      },
+      "artists": [
+        {
+          "name": "Bladee",
+          "url": "https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1"
+        }
+      ],
+      "duration_ms": 70549,
+      "name": "PARANOIA INTRO",
+      "url": "https://open.spotify.com/track/5cXQjDLQbbuQqJBRKvJqjW"
+    },
+    {
+      "added_at": "2024-05-28 03:34:24",
+      "album": {
+        "name": "Psykos",
+        "url": "https://open.spotify.com/album/6aLnXrlksffrrHRb6ktBF9"
+      },
+      "artists": [
+        {
+          "name": "Yung Lean",
+          "url": "https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3"
+        },
+        {
+          "name": "Bladee",
+          "url": "https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1"
+        }
+      ],
+      "duration_ms": 155440,
+      "name": "Coda",
+      "url": "https://open.spotify.com/track/2QlGj7JaBv2jggcK99kPKQ"
     }
   ],
   "unique_name": "Zacklog",

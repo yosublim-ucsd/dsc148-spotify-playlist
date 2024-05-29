@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Belarus.
 
-180 songs - 7 hr 47 min
+182 songs - 7 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,16 +119,18 @@
 | [Можно я с тобой](https://open.spotify.com/track/0MRBhe9wjupFpmdKGh3Xhp) | [AP$ENT](https://open.spotify.com/artist/6oiinpr7kwRmyWKVDTZgRT) | [Можно я с тобой](https://open.spotify.com/album/1P6jao46qEoaobNco6B0yl) | 2:12 | 2024-05-22 |  |
 | [Можно я с тобой](https://open.spotify.com/track/2KlFcj8nBHh4VSg7lkQOqJ) | [AP$ENT](https://open.spotify.com/artist/6oiinpr7kwRmyWKVDTZgRT) | [Можно я с тобой](https://open.spotify.com/album/2v232fMW91TYINJUwtgwOB) | 2:12 | 2024-03-04 | 2024-03-14 |
 | [Можно я с тобой \(can i come with you\)](https://open.spotify.com/track/4CvrZAA0I1rG4tlvwYydi4) | [AP$ENT](https://open.spotify.com/artist/6oiinpr7kwRmyWKVDTZgRT) | [Можно я с тобой \(can i come with you\)](https://open.spotify.com/album/7Kc9koYXi87S1nPJ9EOZmK) | 2:12 | 2024-03-13 | 2024-05-23 |
+| [Монополия](https://open.spotify.com/track/2A2ltYcfg98g2oUkW1Xl86) | [Monetochka](https://open.spotify.com/artist/0yp6xP5xe1qarfugfTixOK) | [Молитвы\. Анекдоты\. Тосты.](https://open.spotify.com/album/1eE8tgJvckpa4qYLp2L9ox) | 3:37 | 2024-05-28 |  |
 | [Моя девочка не верит мне](https://open.spotify.com/track/24loT1nK0uDc6wQ1Fjrng1) | [Max Korzh](https://open.spotify.com/artist/5meD8C7oGK5yUEY2T7ZZ7W) | [Моя девочка не верит мне](https://open.spotify.com/album/3zA2K6nbV497Q337GDohnp) | 3:54 | 2024-04-27 | 2024-05-06 |
 | [Музыка](https://open.spotify.com/track/4vsqEFz8rPG8Y3H21ToDnZ) | [Кишлак](https://open.spotify.com/artist/44L2bdEufrpXM5S7yn30JJ) | [Музыка](https://open.spotify.com/album/019ObzKoY9F4A8NSLOLDra) | 2:24 | 2024-03-14 | 2024-05-18 |
 | [На заре](https://open.spotify.com/track/4qlMFQs9oEp5bVxERhTZBU) | [Basta](https://open.spotify.com/artist/7as5DY4Rz9jac9tgoTrj9H) | [На заре](https://open.spotify.com/album/0L83BLsfw7ftALYjVcOYmf) | 5:06 | 2024-01-29 | 2024-02-29 |
 | [Не нужна](https://open.spotify.com/track/7IBHaN90t8OfkC6XHnfLj9) | [Heronwater](https://open.spotify.com/artist/6694OnEnGJ9QPSS9q7Bu33) | [4 MONTHS NO SMOKE](https://open.spotify.com/album/1jZ1JncQIdNtRofQEhrMkf) | 2:40 | 2024-03-02 | 2024-03-04 |
 | [Не сей любовь](https://open.spotify.com/track/0ApDx6cHuU1pZlO5UIus1a) | [DK](https://open.spotify.com/artist/48Mg7JaclPFMCGf4tXdPQn), [TheBrianMaps](https://open.spotify.com/artist/4D1NOrj2s49PtbflOh9ivV) | [Не сей любовь](https://open.spotify.com/album/4F56atiepF2t5YV1iGKKgO) | 2:04 | 2024-04-13 | 2024-05-03 |
-| [Нежная](https://open.spotify.com/track/1VFbCJBWO26Gv641kr8ZMQ) | [Цинк Уродов](https://open.spotify.com/artist/07yhHgEXwatfxDILltZiLe) | [Нежная](https://open.spotify.com/album/3bXpGZeDD7fvu1hh663d6M) | 2:36 | 2024-03-18 |  |
+| [Нежная](https://open.spotify.com/track/1VFbCJBWO26Gv641kr8ZMQ) | [Цинк Уродов](https://open.spotify.com/artist/07yhHgEXwatfxDILltZiLe) | [Нежная](https://open.spotify.com/album/3bXpGZeDD7fvu1hh663d6M) | 2:36 | 2024-03-18 | 2024-05-29 |
 | [немерено](https://open.spotify.com/track/6KRiMyT78RNeatgjnI7sPM) | [лампабикт](https://open.spotify.com/artist/5guNMQUAnAosad9G9wVjoW), [Элли на маковом поле](https://open.spotify.com/artist/6mlRoShVf1DHo0SsntzTkr) | [добраться до него](https://open.spotify.com/album/5ApMHZ83bd5lLH02pPGRIN) | 3:24 | 2024-02-05 | 2024-03-15 |
 | [Нефертити](https://open.spotify.com/track/727kExjEJLlSfeQUnWealQ) | [LIL GNEEFF](https://open.spotify.com/artist/6eUqOwSR5XC5MeKPdxsY1o) | [Нефертити](https://open.spotify.com/album/3AQsIPONxcS2v4MJv82mS9) | 2:09 | 2024-02-09 | 2024-02-28 |
 | [Нон стоп](https://open.spotify.com/track/3uMUdlo47oEes3kgL4T4EC) | [Poshlaya Molly](https://open.spotify.com/artist/0xByDfltDVpk6LDsUMHyI2) | [8 способов как бросить...](https://open.spotify.com/album/49UnOVtMcezIGit8VKE3za) | 3:33 | 2024-01-29 |  |
 | [Оверсайз](https://open.spotify.com/track/4hQG4gbq8SpThcvALkeYLi) | [LSP](https://open.spotify.com/artist/4h8pGxEIOi7j4me1yhYxlD) | [Оверсайз](https://open.spotify.com/album/1M4I6SZ3wcvyFQQAtMmvBp) | 2:23 | 2024-03-02 | 2024-03-04 |
+| [Остановилось](https://open.spotify.com/track/6ZW9z8Lzm3xCBRj3UBnuCO) | [Monetochka](https://open.spotify.com/artist/0yp6xP5xe1qarfugfTixOK) | [Молитвы\. Анекдоты\. Тосты.](https://open.spotify.com/album/1eE8tgJvckpa4qYLp2L9ox) | 2:57 | 2024-05-28 |  |
 | [Остров](https://open.spotify.com/track/0uhI1APF1D4scWNrOUCMIw) | [My](https://open.spotify.com/artist/3WGL5CRtgYd8Tm5elcbsdV) | [Ближе Part2](https://open.spotify.com/album/01uAUykKCf6D42apWGMxhk) | 2:26 | 2024-01-29 | 2024-02-14 |
 | [Отпускай](https://open.spotify.com/track/1yrQI5Ycgi7xU9P4i98NXL) | [Три дня дождя](https://open.spotify.com/artist/5q1NzLZwErZ9ujzqZKL0YZ) | [Байполар](https://open.spotify.com/album/4nH2r0VNehreKjeCQoKrqY) | 3:27 | 2024-01-31 | 2024-04-07 |
 | [Первомай](https://open.spotify.com/track/2d6RNeK2Q0z5c3UxQ66FTR) | [Valentin Strykalo](https://open.spotify.com/artist/2zYmwYLeJvcr8vRQe5pQRa) | [Смирись и расслабься](https://open.spotify.com/album/6MtWkVH4nIqwo5fiM4J6xF) | 3:35 | 2024-05-02 | 2024-05-04 |
@@ -169,7 +171,7 @@
 | [У меня свег, у меня стиль](https://open.spotify.com/track/0yieEy5KmWrGZZpijadoaX) | [Платина](https://open.spotify.com/artist/4TzGOY9RpErzedN02w8Boh) | [Платина](https://open.spotify.com/album/7knOFjfoZgvKFymD31Y7jN) | 1:47 | 2024-04-06 | 2024-04-08 |
 | [Универ](https://open.spotify.com/track/2ybOJtV8rIuktM8OXCNRV3) | [Baby Cute](https://open.spotify.com/artist/6DAzBc6NiyLFSKZ8dmj4Rc) | [Универ](https://open.spotify.com/album/2odHypry9PFeYEu72ROzJ2) | 1:57 | 2024-04-16 | 2024-04-19 |
 | [Утро](https://open.spotify.com/track/0aKl63MnUIVKkXlVtp2vLr) | [Дайте танк \(!\)](https://open.spotify.com/artist/6iQqWcDg92kre5ykFLwqD8) | [Радио огонь](https://open.spotify.com/album/5Zzj1GE0qY6yyewhe5jwMc) | 2:27 | 2024-03-07 | 2024-04-26 |
-| [фенибут 2.0](https://open.spotify.com/track/4YfWMQ0M3FYOh71etUTmO7) | [mapt0v](https://open.spotify.com/artist/5GTZUVrKf86Aco9LJQquxc) | [фенибут 2.0](https://open.spotify.com/album/102uVTPFXr32GnnmD2piYL) | 1:29 | 2024-04-16 |  |
+| [фенибут 2.0](https://open.spotify.com/track/4YfWMQ0M3FYOh71etUTmO7) | [mapt0v](https://open.spotify.com/artist/5GTZUVrKf86Aco9LJQquxc) | [фенибут 2.0](https://open.spotify.com/album/102uVTPFXr32GnnmD2piYL) | 1:29 | 2024-04-16 | 2024-05-29 |
 | [фенибут 2.0 \- speed up](https://open.spotify.com/track/5ktnJaccf1XbHRws28PlyK) | [mapt0v](https://open.spotify.com/artist/5GTZUVrKf86Aco9LJQquxc) | [фенибут 2.0](https://open.spotify.com/album/102uVTPFXr32GnnmD2piYL) | 1:15 | 2024-04-06 |  |
 | [ХАЙЕГОХО](https://open.spotify.com/track/5DIprzXMd8Ot7RSVe50qfq) | [Toxi$](https://open.spotify.com/artist/2hTmpvdwhpNZryOkwTisRW) | [JAZZ DO IT](https://open.spotify.com/album/54qJYajtPSQ350ArxQmmcU) | 1:36 | 2024-04-13 | 2024-04-17 |
 | [Холод](https://open.spotify.com/track/4jiwxqE1yye4hzG5CpNcUH) | [shadowraze](https://open.spotify.com/artist/0TO6y1x0LQodwBnxGtQu9o) | [Холод](https://open.spotify.com/album/2ow8uzDPdwcUgajYFxrylH) | 2:03 | 2024-01-29 |  |

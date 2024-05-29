@@ -297,6 +297,24 @@
     },
     {
       "album": {
+        "name": "\u4e5d\u6708\u306e\u7a7a -KUGATSU NO SOLA-",
+        "url": "https://open.spotify.com/album/6roaJKXBTODhmG7GcrSRdC"
+      },
+      "artists": [
+        {
+          "name": "PE'Z",
+          "url": "https://open.spotify.com/artist/52uuAX0XAdhMmLLpaSaOig"
+        }
+      ],
+      "date_added": "2024-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268826,
+      "name": "Akatsuki",
+      "url": "https://open.spotify.com/track/5Kzvafvksy487apDu6f6Fw"
+    },
+    {
+      "album": {
         "name": "All I Want",
         "url": "https://open.spotify.com/album/5Rf11k7OdhnxUAs5EuGadY"
       },
@@ -472,7 +490,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-24",
+      "date_removed": null,
       "duration_ms": 292210,
       "name": "Beyond the Redemption",
       "url": "https://open.spotify.com/track/0NzOmzRINNMlZsIs2a7zni"
@@ -606,7 +624,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-02",
+      "date_removed": null,
       "duration_ms": 218880,
       "name": "BLUE GIANT - \u300eBLUE GIANT\u300f\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u3088\u308a",
       "url": "https://open.spotify.com/track/1EKIT1QnEWYUlN3h20zZQF"
@@ -744,7 +762,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-29",
       "duration_ms": 359706,
       "name": "Can\u2019t Hide Love",
       "url": "https://open.spotify.com/track/3say48b5YjOGpHkrHyIfap"
@@ -850,7 +868,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-02",
+      "date_removed": null,
       "duration_ms": 184670,
       "name": "City Creatures",
       "url": "https://open.spotify.com/track/0ubaJUyQahfdL3FK60FjyH"
@@ -956,7 +974,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-29",
       "duration_ms": 398583,
       "name": "cosmic circle",
       "url": "https://open.spotify.com/track/0h6iV0PqhHLcvA0vLiDoSE"
@@ -974,7 +992,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-29",
       "duration_ms": 419386,
       "name": "Crepuscular Rays",
       "url": "https://open.spotify.com/track/3qhFRdHhtMpCvePmMVOep8"
@@ -1140,7 +1158,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-29",
       "duration_ms": 658906,
       "name": "Departure",
       "url": "https://open.spotify.com/track/4g7sbGRPB5h1oZ265SVz86"
@@ -1158,7 +1176,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-29",
       "duration_ms": 350100,
       "name": "Diamond",
       "url": "https://open.spotify.com/track/0arhxnQAkg44kM210Bkcyd"
@@ -1450,6 +1468,36 @@
       "duration_ms": 205000,
       "name": "Flowing Rhyme",
       "url": "https://open.spotify.com/track/27R5CLTecHiNhM5BdghE1Z"
+    },
+    {
+      "album": {
+        "name": "Will II",
+        "url": "https://open.spotify.com/album/5ESRlLUl54WKrTjdUJJdWg"
+      },
+      "artists": [
+        {
+          "name": "\u82e5\u4e95\u512a\u4e5f\u30c8\u30ea\u30aa",
+          "url": "https://open.spotify.com/artist/0eeeQmje30ZSbmXjqPfaUQ"
+        },
+        {
+          "name": "\u82e5\u4e95\u512a\u4e5f",
+          "url": "https://open.spotify.com/artist/0nWojq8ioTZppcPeHEz6gd"
+        },
+        {
+          "name": "Satsuki Kusui",
+          "url": "https://open.spotify.com/artist/5mZuS1wsHq3AvUtaekeYTD"
+        },
+        {
+          "name": "Shun Ishiwaka",
+          "url": "https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R"
+        }
+      ],
+      "date_added": "2024-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 486283,
+      "name": "For Heaven's Sake",
+      "url": "https://open.spotify.com/track/5jhNKwaF4LKm6467Hje4ma"
     },
     {
       "album": {
@@ -1804,7 +1852,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-29",
       "duration_ms": 216000,
       "name": "Highway",
       "url": "https://open.spotify.com/track/1ZhpcwddU4zlPvPQswwBz4"
@@ -1876,7 +1924,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-24",
+      "date_removed": null,
       "duration_ms": 337471,
       "name": "How Deep Is Your Love",
       "url": "https://open.spotify.com/track/4rrKjivpzmyc40tatIxWiD"
@@ -2082,7 +2130,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-03",
+      "date_removed": null,
       "duration_ms": 253413,
       "name": "Japan Beauty",
       "url": "https://open.spotify.com/track/6mWVGALFfErKjjl5EOYS1D"
@@ -2456,7 +2504,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-29",
       "duration_ms": 286907,
       "name": "Momentary Moment",
       "url": "https://open.spotify.com/track/2yGOXnM6w60GJL6hWcxBxX"
@@ -3084,7 +3132,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-29",
       "duration_ms": 290933,
       "name": "Raindrops Keep Fallin' On My Head",
       "url": "https://open.spotify.com/track/2O4uIdTdn1JPC9DtnQpefK"
@@ -3510,7 +3558,7 @@
       ],
       "date_added": "2024-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-29",
       "duration_ms": 281952,
       "name": "Shamanite",
       "url": "https://open.spotify.com/track/16f2bdMXq1AxIjl5XRym5Z"
@@ -3732,7 +3780,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-15",
+      "date_removed": null,
       "duration_ms": 247800,
       "name": "Spartacus",
       "url": "https://open.spotify.com/track/7J51umZEfClAyNDLPiuemB"
@@ -3804,7 +3852,7 @@
       ],
       "date_added": "2023-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-29",
       "duration_ms": 222133,
       "name": "Stella's Cough",
       "url": "https://open.spotify.com/track/7c6RAOcYgwDFf0R6gusrbr"
@@ -4056,7 +4104,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-29",
       "duration_ms": 247735,
       "name": "The reasoning - Session 03",
       "url": "https://open.spotify.com/track/4fm26UJ7Bufev5ZMmFFX7c"
@@ -4198,6 +4246,28 @@
       "duration_ms": 210933,
       "name": "This city is too jazzy to be in love",
       "url": "https://open.spotify.com/track/1VM8oNBd8x3v7yN3VW386h"
+    },
+    {
+      "album": {
+        "name": "cure jazz",
+        "url": "https://open.spotify.com/album/739BFSbszCkKUscy1LaHGf"
+      },
+      "artists": [
+        {
+          "name": "UA",
+          "url": "https://open.spotify.com/artist/43XHGbWVe5qKVCuI0HMep0"
+        },
+        {
+          "name": "Naruyoshi Kikuchi",
+          "url": "https://open.spotify.com/artist/5jGe8zos8U6KRs0wiLWcmv"
+        }
+      ],
+      "date_added": "2024-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210933,
+      "name": "This city is too jazzy to be in love",
+      "url": "https://open.spotify.com/track/6ljyh0IT9VYGtBwFWRxq1U"
     },
     {
       "album": {
@@ -4440,6 +4510,36 @@
       "duration_ms": 310264,
       "name": "Tutumikomuyouni",
       "url": "https://open.spotify.com/track/3HoWRTwLaGRCnHS9hvRoOz"
+    },
+    {
+      "album": {
+        "name": "Twenty minutes, let me rest",
+        "url": "https://open.spotify.com/album/4Mz5ZEGY9zNcxqdLv13xsI"
+      },
+      "artists": [
+        {
+          "name": "Yusuke Shima",
+          "url": "https://open.spotify.com/artist/0pJNX3A4a4Q6KuMLXgOfa8"
+        },
+        {
+          "name": "\u6cb3\u91ce\u7950\u4eae",
+          "url": "https://open.spotify.com/artist/6k7HOIGhoFAB6CHeElFDHD"
+        },
+        {
+          "name": "\u6749\u6d66\u7766",
+          "url": "https://open.spotify.com/artist/7AUgYo9pZu8ijMfRbnlo5G"
+        },
+        {
+          "name": "\u5927\u6d25\u60c7",
+          "url": "https://open.spotify.com/artist/4uRyqAjxit8vJMVWvSM6AZ"
+        }
+      ],
+      "date_added": "2024-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309360,
+      "name": "Twenty minutes, let me rest",
+      "url": "https://open.spotify.com/track/3inM5fTMN7QjWFnRFffqXz"
     },
     {
       "album": {
@@ -4847,6 +4947,24 @@
     },
     {
       "album": {
+        "name": "GHIBLI meets JAZZ\u3000\uff5eBeautiful Songs\uff5e",
+        "url": "https://open.spotify.com/album/5MW0qpY2JOWdaDOr4vUdoP"
+      },
+      "artists": [
+        {
+          "name": "Kazumi Tateishi Trio",
+          "url": "https://open.spotify.com/artist/0lrEYsRTl6UNtTagWmJAqZ"
+        }
+      ],
+      "date_added": "2024-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277343,
+      "name": "\u3055\u304f\u3089\u3093\u307c\u306e\u5b9f\u308b\u9803\uff08\u7d05\u306e\u8c5a\uff09",
+      "url": "https://open.spotify.com/track/5HaBg5dAjWykVsYAYEYKt9"
+    },
+    {
+      "album": {
         "name": "\u3064\u3064\u307f\u8fbc\u3080\u3088\u3046\u306b\u30fb\u30fb\u30fb",
         "url": "https://open.spotify.com/album/246NTHn3VjUlum8XUYKdj2"
       },
@@ -5130,7 +5248,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-19",
+      "date_removed": null,
       "duration_ms": 272666,
       "name": "\u30d1\u30b9\u30ef\u30fc\u30c9",
       "url": "https://open.spotify.com/track/58Dl8RRRMlXiXJ3pZzjxGY"
@@ -5148,7 +5266,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-29",
       "duration_ms": 303275,
       "name": "\u30d1\u30c6\u30a3\u30aa",
       "url": "https://open.spotify.com/track/58qOGejXu7bhJSBI6uEkLj"
@@ -5464,7 +5582,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-29",
       "duration_ms": 399600,
       "name": "\u66c7\u308a\u7a7a",
       "url": "https://open.spotify.com/track/1CpklF118GMJNBM8HFtq0v"
@@ -5608,7 +5726,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-24",
+      "date_removed": null,
       "duration_ms": 277840,
       "name": "\u77f3\u306e\u6559\u4f1a",
       "url": "https://open.spotify.com/track/17UXJldxw6BDUxVoDjemkK"

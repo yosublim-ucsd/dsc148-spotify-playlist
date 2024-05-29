@@ -1,13 +1,33 @@
 {
   "description": "The freshest tech house &amp; techno music | Submit via Instagram: @subshiftmusic",
-  "num_followers": 10389,
+  "num_followers": 10404,
   "original_name": "Tech House Shifters",
   "owner": {
     "name": "SUBSHIFT",
     "url": "https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv"
   },
-  "snapshot_id": "AAAiM2MJknJBKVk4J3VnsEpiEbx2/H1v",
+  "snapshot_id": "AAAiNtGUJPJ0PMNYwjsgS1vmIBGrudOe",
   "tracks": [
+    {
+      "added_at": "2024-05-28 09:55:08",
+      "album": {
+        "name": "Bandit (Club Mix)",
+        "url": "https://open.spotify.com/album/1edPdWHVtyAiaihO0UvDWS"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "ACRAZE",
+          "url": "https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd"
+        }
+      ],
+      "duration_ms": 179076,
+      "name": "Bandit - Club Mix",
+      "url": "https://open.spotify.com/track/6ovzIhWfOcUwYRlobZvJ06"
+    },
     {
       "added_at": "2024-05-02 23:05:37",
       "album": {

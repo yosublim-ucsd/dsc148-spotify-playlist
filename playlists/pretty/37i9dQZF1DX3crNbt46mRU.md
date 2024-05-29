@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: ZIAN
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,064 likes - 112 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,065 likes - 112 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,7 +87,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 77 | [Rental](https://open.spotify.com/track/2SctW8kEr0eNsnantkaxj1) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [Rental](https://open.spotify.com/album/2kT3e81zlLH8LsIfw1d8da) | 3:09 |
 | 78 | [You Remind Me](https://open.spotify.com/track/2825pVpD7NsxpK9sclofwU) | [Elena Flury](https://open.spotify.com/artist/3Qje1fgX9cfwugPCAG6Uuy) | [You Remind Me](https://open.spotify.com/album/4D5UiVCPtQY0pKUqzfcFui) | 3:15 |
 | 79 | [it boy](https://open.spotify.com/track/2UerDbZznc07mmGMD3WfHH) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [it boy](https://open.spotify.com/album/6tl4X5mM1eOnkWr7oB5LAM) | 2:25 |
-| 80 | [Push](https://open.spotify.com/track/29OFLlrrfKIEVwbVMTjBYe) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg), [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN), [Contra](https://open.spotify.com/artist/73BAwJ65pT6RvwR7JEkfEv), [OFFAIAH](https://open.spotify.com/artist/2E1NFr5AeEGUJkLUUsWCAO) | [Push](https://open.spotify.com/album/3GSEVlHrbrQbKSP4ozWzx8) | 3:05 |
+| 80 | [Push](https://open.spotify.com/track/29OFLlrrfKIEVwbVMTjBYe) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg), [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN), [contra](https://open.spotify.com/artist/5VYRcaryFLFZnA5HvnRHFi), [OFFAIAH](https://open.spotify.com/artist/2E1NFr5AeEGUJkLUUsWCAO) | [Push](https://open.spotify.com/album/3GSEVlHrbrQbKSP4ozWzx8) | 3:05 |
 | 81 | [Close My Eyes](https://open.spotify.com/track/7cguCcCxfGbPvhotsijfqi) | [Jonasu](https://open.spotify.com/artist/7u4ayw4QFEsolPxZgnPAMT) | [Close My Eyes](https://open.spotify.com/album/1FAC9zq0yCguRhlSoUGCgN) | 2:18 |
 | 82 | [Too Long](https://open.spotify.com/track/3yHvEZvyWdaWkbi0FK3H0t) | [Maxim Seelig](https://open.spotify.com/artist/0GVRpiJooaBQpnCc9Vm8AI) | [Too Long](https://open.spotify.com/album/7EK1GGfLdluy90XFPXeLEg) | 2:56 |
 | 83 | [If U Want Me](https://open.spotify.com/track/3IHmHyrPhfrzhcPmpvXmai) | [BLANKA](https://open.spotify.com/artist/0ML3y0iBY1nq7HWAWP0EFm) | [If U Want Me](https://open.spotify.com/album/4u6d52P49fIgGPBEljxhkG) | 2:52 |

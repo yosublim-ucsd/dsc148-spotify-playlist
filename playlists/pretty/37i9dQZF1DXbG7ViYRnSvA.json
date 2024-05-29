@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/officialcoodieandchike/\">Coodie & Chike</a>",
-  "num_followers": 18677,
+  "num_followers": 18685,
   "original_name": "Coodie & Chike's Taste",
   "owner": {
     "name": "Spotify",
@@ -31,22 +31,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Ain't That Good News",
-        "url": "https://open.spotify.com/album/2NFd4ApYFitFtJhGTSfDdP"
-      },
-      "artists": [
-        {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
-        }
-      ],
-      "duration_ms": 191160,
-      "name": "A Change Is Gonna Come",
-      "url": "https://open.spotify.com/track/0KOE1hat4SIer491XKk4Pa"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Thriller",
         "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
       },
@@ -59,6 +43,22 @@
       "duration_ms": 246040,
       "name": "Human Nature",
       "url": "https://open.spotify.com/track/4cgjA7B4fJBHyB9Ya2bu0t"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Ain't That Good News",
+        "url": "https://open.spotify.com/album/2NFd4ApYFitFtJhGTSfDdP"
+      },
+      "artists": [
+        {
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+        }
+      ],
+      "duration_ms": 191160,
+      "name": "A Change Is Gonna Come",
+      "url": "https://open.spotify.com/track/0KOE1hat4SIer491XKk4Pa"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -171,22 +171,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Songs In The Key Of Life",
-        "url": "https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 428222,
-      "name": "As",
-      "url": "https://open.spotify.com/track/13toFl1UwJPsRxDiD9jgtn"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Bad 25th Anniversary",
         "url": "https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 232800,
       "name": "Liberian Girl - 2012 Remastered Version",
       "url": "https://open.spotify.com/track/5OoRmdDfAiDztSwrhe7wuE"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Songs In The Key Of Life",
+        "url": "https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 428222,
+      "name": "As",
+      "url": "https://open.spotify.com/track/13toFl1UwJPsRxDiD9jgtn"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -283,22 +283,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Songs In The Key Of Life",
-        "url": "https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 508226,
-      "name": "Another Star",
-      "url": "https://open.spotify.com/track/5owFj7EOftzR9x5zciL0Bm"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Faithfully",
         "url": "https://open.spotify.com/album/0pP9NBXbbRH2ZJb7fazkZy"
       },
@@ -359,6 +343,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Paper Trail",
+        "url": "https://open.spotify.com/album/5PfepkNWgRR2DI02Y8AawC"
+      },
+      "artists": [
+        {
+          "name": "T.I.",
+          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
+        }
+      ],
+      "duration_ms": 246960,
+      "name": "I'm Illy",
+      "url": "https://open.spotify.com/track/3iNYQG2B6aBRnaCEOdNGbc"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Late Registration",
         "url": "https://open.spotify.com/album/5ll74bqtkcXlKE7wwkMq4g"
       },
@@ -383,18 +383,18 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Paper Trail",
-        "url": "https://open.spotify.com/album/5PfepkNWgRR2DI02Y8AawC"
+        "name": "Songs In The Key Of Life",
+        "url": "https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0"
       },
       "artists": [
         {
-          "name": "T.I.",
-          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
         }
       ],
-      "duration_ms": 246960,
-      "name": "I'm Illy",
-      "url": "https://open.spotify.com/track/3iNYQG2B6aBRnaCEOdNGbc"
+      "duration_ms": 508226,
+      "name": "Another Star",
+      "url": "https://open.spotify.com/track/5owFj7EOftzR9x5zciL0Bm"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -731,22 +731,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Catching Dreams",
-        "url": "https://open.spotify.com/album/6k2MHYTdkGM5Mgmo0dwDtu"
-      },
-      "artists": [
-        {
-          "name": "J. Ivy",
-          "url": "https://open.spotify.com/artist/0hKpvarswO34Ks5iPNmEXn"
-        }
-      ],
-      "duration_ms": 48038,
-      "name": "Your Time",
-      "url": "https://open.spotify.com/track/0FhQccfJxOwixsoqiJo2oz"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "The Mayhem Machine",
         "url": "https://open.spotify.com/album/35EJ8kPWBRUpQH7gKSkSSK"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 257071,
       "name": "Just Chill",
       "url": "https://open.spotify.com/track/4kPslnT97Uo6YdNpFcnrk4"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Catching Dreams",
+        "url": "https://open.spotify.com/album/6k2MHYTdkGM5Mgmo0dwDtu"
+      },
+      "artists": [
+        {
+          "name": "J. Ivy",
+          "url": "https://open.spotify.com/artist/0hKpvarswO34Ks5iPNmEXn"
+        }
+      ],
+      "duration_ms": 48038,
+      "name": "Your Time",
+      "url": "https://open.spotify.com/track/0FhQccfJxOwixsoqiJo2oz"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -867,26 +867,18 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Catching Dreams",
-        "url": "https://open.spotify.com/album/6k2MHYTdkGM5Mgmo0dwDtu"
+        "name": "Middle America",
+        "url": "https://open.spotify.com/album/2OtKj14wexL3GezWDdbro6"
       },
       "artists": [
         {
-          "name": "J. Ivy",
-          "url": "https://open.spotify.com/artist/0hKpvarswO34Ks5iPNmEXn"
-        },
-        {
-          "name": "Munyakazi Deo",
-          "url": "https://open.spotify.com/artist/7wndHqMTZ3IVrMpR0WKcMD"
-        },
-        {
-          "name": "1key",
-          "url": "https://open.spotify.com/artist/2OnqtAUmwkWba2VqkfnFKt"
+          "name": "Project Mayhem",
+          "url": "https://open.spotify.com/artist/10ZHewiVCPZxwb4bewgKPl"
         }
       ],
-      "duration_ms": 374849,
-      "name": "Finding Home in Rwanda",
-      "url": "https://open.spotify.com/track/3B8VmjKKdmkT2XByRT6Kq4"
+      "duration_ms": 230948,
+      "name": "No Room in the Limo",
+      "url": "https://open.spotify.com/track/4WbK3e9uLSFXuZSUzzsDMn"
     },
     {
       "added_at": "2022-10-01 16:00:00",

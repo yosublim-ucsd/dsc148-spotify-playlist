@@ -4,7 +4,7 @@
 
 > Son jóvenes, guerreras y cool\. Foto: Kirnbauer, Joaquina Mertz, María Centeno & Noa Sainz.
 
-578 songs - 1 day 8 hr 53 min
+580 songs - 1 day 8 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Algo Bien](https://open.spotify.com/track/6k2HTT8CqCUWlEG7saWg0r) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [NMDQH](https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x) | 2:30 | 2023-02-03 | 2023-08-19 |
 | [Algo de Mi Canción](https://open.spotify.com/track/0aS0PniXL2T1lGOALsrWRh) | [Camila Sapin](https://open.spotify.com/artist/4VWYsx7VsRf0Ir5UUT6pMk), [Ana Prada](https://open.spotify.com/artist/6hmj4qPtup6hMVe7V4YZ6S) | [Algo de Mi Canción](https://open.spotify.com/album/5tuHB7wXoQGjeCokaSfyil) | 3:53 | 2022-03-18 | 2022-06-29 |
 | [Alma mía](https://open.spotify.com/track/4zwnhH4aFWiXGzUBInMrK1) | [LaTorre](https://open.spotify.com/artist/1jiEzyMQwfYcQtp19fwOTZ) | [Alma mía](https://open.spotify.com/album/74EbdS6zuGWYOSV1EVqYJZ) | 3:12 | 2022-01-21 | 2022-07-27 |
-| [Alquiler](https://open.spotify.com/track/0ZGYFU5Vx8UIWLax710E0g) | [Eve Calletti](https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP) | [Alquiler](https://open.spotify.com/album/7KRroI1HJyQs0lltlKHsCI) | 2:35 | 2023-09-22 |  |
+| [Alquiler](https://open.spotify.com/track/0ZGYFU5Vx8UIWLax710E0g) | [Eve Calletti](https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP) | [Alquiler](https://open.spotify.com/album/7KRroI1HJyQs0lltlKHsCI) | 2:35 | 2023-09-22 | 2024-05-29 |
 | [Amar al Mar](https://open.spotify.com/track/1ljAkjjUioQUcLzPrIoFw3) | [Leilén](https://open.spotify.com/artist/5ee7mOQEjMoEZyLVXrm3QG) | [Amar al Mar](https://open.spotify.com/album/3erEYkSwOCffOXdwnaCmR8) | 4:05 | 2023-08-18 | 2023-09-19 |
 | [Amarte así](https://open.spotify.com/track/5Ux4iUz2HLUWWG7rVAbp3q) | [Marineros](https://open.spotify.com/artist/6EwwcDTg6CKzsuWq7Xbd7D) | [Amarte así](https://open.spotify.com/album/1SgZr0SIPsnmptk29udjub) | 3:35 | 2023-06-22 | 2023-09-29 |
 | [Amiga](https://open.spotify.com/track/1MyeYdKKegyVW2LHenX63b) | [Miau Trío](https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL) | [Amiga](https://open.spotify.com/album/0YaIQWmzrG5b0iWDwzvf5x) | 2:37 | 2023-08-18 | 2023-08-26 |
@@ -156,6 +156,7 @@
 | [DIAS DE PAJA](https://open.spotify.com/track/78GT2hT82AWRJq2kwXJAI5) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [DIAS DE PAJA](https://open.spotify.com/album/1j1tnRVfGpSzgjiOLE1dtX) | 3:53 | 2022-01-14 | 2022-07-29 |
 | [Dicen](https://open.spotify.com/track/5Xe5N5HvbXvFYe4I87aQa3) | [Rocío Gal](https://open.spotify.com/artist/4AfambG94sVb235ZxRKGWL) | [Inventario de Ecos](https://open.spotify.com/album/6qnpV0UwXRnGcUOGeRToCw) | 3:09 | 2022-05-06 | 2022-07-26 |
 | [Diferente](https://open.spotify.com/track/3yD8ieuHLGv0MGKTYa1OJo) | [Renata Di Croce](https://open.spotify.com/artist/7AtG4USGdk9CSUcYD8lsdr) | [Diferente](https://open.spotify.com/album/3K3zNoJFeTu1Sca0U8whGF) | 3:54 | 2022-04-20 | 2022-07-02 |
+| [Dimensión 3000](https://open.spotify.com/track/2fAqFthuQMx8GLYZ7STM7x) | [Zöelle](https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl) | [Dimensión 3000](https://open.spotify.com/album/6RpSAyKtW4MorocKI0aV2z) | 3:22 | 2024-05-29 |  |
 | [Diré tu nombre](https://open.spotify.com/track/6cf6NHFQPDDhkxQX5j96J8) | [Agua Florida](https://open.spotify.com/artist/6OhBvIgI7E71kveV1vItnq) | [Diré tu nombre](https://open.spotify.com/album/04ABlbA8bASVGdjfq1aNwr) | 2:59 | 2022-06-03 | 2022-07-28 |
 | [DISFRAZ](https://open.spotify.com/track/2d1Ywb69sE0UhOIyekrN9f) | [FEMI](https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s), [Santi Muk](https://open.spotify.com/artist/0IaiZRhsEDKT58KYfU5isz) | [DISFRAZ](https://open.spotify.com/album/0aNHmrgKLB5pGoj1bZ16RQ) | 2:52 | 2022-10-28 | 2023-08-19 |
 | [DNI](https://open.spotify.com/track/6XbgaRsf6hnl4dQJOtktrU) | [LUPE](https://open.spotify.com/artist/4PRzyAvNqlYKSMhsKl2e0j) | [UN NÚMERO](https://open.spotify.com/album/2zh0d8IFJfVvUTWnGlW1up) | 1:43 | 2023-12-15 | 2024-04-19 |
@@ -180,7 +181,7 @@
 | [El Olvido](https://open.spotify.com/track/06DDZtXgYJodWnjmrFVuF8) | [Martina Flores](https://open.spotify.com/artist/48CEqfnDnepsHPiICI1hUg) | [El Olvido](https://open.spotify.com/album/2K7MOl9u19XcO0cNVaRAWS) | 3:24 | 2022-01-21 | 2022-04-19 |
 | [El Pañuelo De Estrella](https://open.spotify.com/track/1Ql5w1SmnLowl0DggSdAIy) | [Soleá Morente](https://open.spotify.com/artist/5X5UPn6eVnwfYcujIQpcfu), [Estrella Morente](https://open.spotify.com/artist/5gKJbL392PiokTPUoL7N6D) | [Aurora Y Enrique](https://open.spotify.com/album/24pgKDb53Li1K0LIN4CtIl) | 2:31 | 2022-01-21 |  |
 | [El Pensamiento Circular](https://open.spotify.com/track/0XhR4RepwInOCviorzHhKY) | [Pamela Rodriguez](https://open.spotify.com/artist/0xSlY9GBehjuViqWE1KrMC) | [El Pensamiento Circular](https://open.spotify.com/album/4dZIehTJTMmfulJc5SQhDc) | 5:07 | 2022-01-14 | 2022-07-29 |
-| [El Rio](https://open.spotify.com/track/2NqjGg4EqGXJdByHPE3ptK) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [El Rio](https://open.spotify.com/album/1VpvgK7zD5GMTB33PJ8tlb) | 2:14 | 2023-08-18 |  |
+| [El Rio](https://open.spotify.com/track/2NqjGg4EqGXJdByHPE3ptK) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [El Rio](https://open.spotify.com/album/1VpvgK7zD5GMTB33PJ8tlb) | 2:14 | 2023-08-18 | 2024-05-29 |
 | [Emotion](https://open.spotify.com/track/79WBauaqEC2d8PK1z4URAs) | [Cristina Valentina](https://open.spotify.com/artist/3pC5RVO04pJTFcp5xxdXaV) | [Emotion](https://open.spotify.com/album/5PPNxvehIUdmC1Rqb2lOFx) | 3:53 | 2022-07-15 | 2023-06-10 |
 | [Emotion \(Acoustic\)](https://open.spotify.com/track/5autpDsh1H9Ltf5bNztuA2) | [Cristina Valentina](https://open.spotify.com/artist/3pC5RVO04pJTFcp5xxdXaV) | [Emotion \(Acoustic\)](https://open.spotify.com/album/6L1MryypRIVPUz3GFtXTRK) | 3:53 | 2022-01-21 | 2022-07-29 |
 | [Enamorada](https://open.spotify.com/track/18qskSnKcANSA5hzpQf2Jv) | [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs), [BLAIR](https://open.spotify.com/artist/5sSn8vGaBxIKeCclAk67TJ) | [Enamorada](https://open.spotify.com/album/6OCzzBiS3G9gQg55C6iYUE) | 2:32 | 2024-03-22 |  |
@@ -394,6 +395,7 @@
 | [Pajarillo Negro](https://open.spotify.com/track/09dLppecX1SSw8eFv5jy78) | [Paz Court](https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm) | [Pajarillo Negro](https://open.spotify.com/album/2iyi1dEz7xtssJ6soP3ANE) | 4:02 | 2022-01-21 | 2022-07-29 |
 | [Pajarito](https://open.spotify.com/track/5fXT9T9jLZgQkLKs0qwwhT) | [Amapola](https://open.spotify.com/artist/6KbbMdTNtlT7RRM81IvLr5) | [Pajarito](https://open.spotify.com/album/24g6fF66JD00LheckA50yw) | 3:29 | 2024-03-22 |  |
 | [PAKI](https://open.spotify.com/track/1LxIPz5aak2AJfJmEA0fxT) | [Inés Mauri](https://open.spotify.com/artist/2HCy7IPI79aGrEYSWfjwaF) | [PAKI](https://open.spotify.com/album/4LxhRDDtVWdzAgsTQcDlm9) | 4:22 | 2022-02-11 | 2022-05-10 |
+| [Panamericana](https://open.spotify.com/track/58rDV9zGkwcuHd0BZLIKc6) | [Paz Carrara](https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg) | [Todo vuelve al punto de partida](https://open.spotify.com/album/4hVgE3zYsNG70rMTcQ0vyW) | 3:15 | 2024-05-29 |  |
 | [Para Sonreír](https://open.spotify.com/track/0XP7Th9tsuEi0wuX9UXznm) | [Micaela Salaverry](https://open.spotify.com/artist/2kihOo2Sxwt99sOHc7KFeo) | [Para Sonreír](https://open.spotify.com/album/6azaNQiixTpGmS2SeG6O3N) | 3:21 | 2022-01-14 | 2022-07-29 |
 | [PARA VERTE](https://open.spotify.com/track/0oJM0jSk8WjPIuOkHA1OB0) | [CATALINA](https://open.spotify.com/artist/6pfrUyP2ZvxxoUcnkglXn2) | [INFRUTESCENCIA](https://open.spotify.com/album/1odlnV35gC6mB26BJ4Q8fm) | 2:19 | 2023-02-03 | 2024-05-18 |
 | [Paracas Cavernas](https://open.spotify.com/track/4kZ06aNcvjtr8QkL4cpyLQ) | [La Lá](https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H) | [Paracas Cavernas](https://open.spotify.com/album/0MDxJgKoqoR1p1O4YvuenO) | 4:27 | 2022-01-21 | 2022-07-29 |

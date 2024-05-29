@@ -1,6 +1,6 @@
 {
   "description": "Canzoni rap per party fino al mattino! Cover: Icy Subzero",
-  "num_followers": 97902,
+  "num_followers": 97913,
   "original_name": "Club Rap ",
   "owner": {
     "name": "Spotify",
@@ -715,6 +715,22 @@
     {
       "added_at": "2024-04-12 11:02:43",
       "album": {
+        "name": "TUNNEL",
+        "url": "https://open.spotify.com/album/31OPmDCnbwH8HgYrosnzxo"
+      },
+      "artists": [
+        {
+          "name": "Simba La Rue",
+          "url": "https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO"
+        }
+      ],
+      "duration_ms": 143076,
+      "name": "LATITANTE",
+      "url": "https://open.spotify.com/track/0xepvdCdF9IKTWTNI0lZuH"
+    },
+    {
+      "added_at": "2024-04-12 11:02:43",
+      "album": {
         "name": "ICON",
         "url": "https://open.spotify.com/album/0zGirhBBoAjHz8t37u1IRW"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 128796,
       "name": "GTA (feat. Ghali)",
       "url": "https://open.spotify.com/track/2rWPeV0Wvjx8VpAyOsfgir"
-    },
-    {
-      "added_at": "2024-04-12 11:02:43",
-      "album": {
-        "name": "TUNNEL",
-        "url": "https://open.spotify.com/album/31OPmDCnbwH8HgYrosnzxo"
-      },
-      "artists": [
-        {
-          "name": "Simba La Rue",
-          "url": "https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO"
-        }
-      ],
-      "duration_ms": 143076,
-      "name": "LATITANTE",
-      "url": "https://open.spotify.com/track/0xepvdCdF9IKTWTNI0lZuH"
     },
     {
       "added_at": "2024-04-12 11:02:43",
@@ -843,22 +843,26 @@
     {
       "added_at": "2024-04-12 11:02:43",
       "album": {
-        "name": "Bambola",
-        "url": "https://open.spotify.com/album/74cIsmvEjOe32y80S8UdoB"
+        "name": "Lamborghini a Via Marina",
+        "url": "https://open.spotify.com/album/2Q3U7ILYYVYLfvWrOLQJXp"
       },
       "artists": [
         {
-          "name": "Medy",
-          "url": "https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn"
+          "name": "Vale Lambo",
+          "url": "https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn"
         },
         {
-          "name": "Andry The Hitmaker",
-          "url": "https://open.spotify.com/artist/6hb3ftxbKAFsOiNCdFbyzJ"
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        },
+        {
+          "name": "Michelangelo",
+          "url": "https://open.spotify.com/artist/1K7IC4qha4KEXySo6yZmnH"
         }
       ],
-      "duration_ms": 169368,
-      "name": "Bambola",
-      "url": "https://open.spotify.com/track/7k0jyx1nNnHPnkhp41jem6"
+      "duration_ms": 223360,
+      "name": "Baby U Want Me (feat. Geolier & Michelangelo)",
+      "url": "https://open.spotify.com/track/1VzaOchDWZJ5PliyvO24h7"
     },
     {
       "added_at": "2024-04-12 11:02:43",
@@ -911,26 +915,22 @@
     {
       "added_at": "2024-04-12 11:02:43",
       "album": {
-        "name": "Lamborghini a Via Marina",
-        "url": "https://open.spotify.com/album/2Q3U7ILYYVYLfvWrOLQJXp"
+        "name": "Bambola",
+        "url": "https://open.spotify.com/album/74cIsmvEjOe32y80S8UdoB"
       },
       "artists": [
         {
-          "name": "Vale Lambo",
-          "url": "https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn"
+          "name": "Medy",
+          "url": "https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn"
         },
         {
-          "name": "Geolier",
-          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
-        },
-        {
-          "name": "Michelangelo",
-          "url": "https://open.spotify.com/artist/1K7IC4qha4KEXySo6yZmnH"
+          "name": "Andry The Hitmaker",
+          "url": "https://open.spotify.com/artist/6hb3ftxbKAFsOiNCdFbyzJ"
         }
       ],
-      "duration_ms": 223360,
-      "name": "Baby U Want Me (feat. Geolier & Michelangelo)",
-      "url": "https://open.spotify.com/track/1VzaOchDWZJ5PliyvO24h7"
+      "duration_ms": 169368,
+      "name": "Bambola",
+      "url": "https://open.spotify.com/track/7k0jyx1nNnHPnkhp41jem6"
     },
     {
       "added_at": "2024-04-12 11:02:43",
@@ -995,22 +995,6 @@
     {
       "added_at": "2024-04-12 11:02:43",
       "album": {
-        "name": "Madreperla",
-        "url": "https://open.spotify.com/album/5FnVg6RBrEFUIEpHRw8EB1"
-      },
-      "artists": [
-        {
-          "name": "Gu\u00e8",
-          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
-        }
-      ],
-      "duration_ms": 155133,
-      "name": "Mollami Pt.2",
-      "url": "https://open.spotify.com/track/3uQLQ73joqyMYDhI2UaBOq"
-    },
-    {
-      "added_at": "2024-04-12 11:02:43",
-      "album": {
         "name": "Caramba",
         "url": "https://open.spotify.com/album/0wnFOzdO3ujU3eabTYDoF1"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 183174,
       "name": "Caramba",
       "url": "https://open.spotify.com/track/0JxlMKdfoQKuB09keMmALe"
+    },
+    {
+      "added_at": "2024-04-12 11:02:43",
+      "album": {
+        "name": "Madreperla",
+        "url": "https://open.spotify.com/album/5FnVg6RBrEFUIEpHRw8EB1"
+      },
+      "artists": [
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        }
+      ],
+      "duration_ms": 155133,
+      "name": "Mollami Pt.2",
+      "url": "https://open.spotify.com/track/3uQLQ73joqyMYDhI2UaBOq"
     },
     {
       "added_at": "2024-04-12 11:02:43",
@@ -1047,26 +1047,6 @@
     {
       "added_at": "2024-04-12 11:02:43",
       "album": {
-        "name": "Bisous",
-        "url": "https://open.spotify.com/album/18WfbdpSPZ3Gx1qlMlHGSP"
-      },
-      "artists": [
-        {
-          "name": "Medy",
-          "url": "https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn"
-        },
-        {
-          "name": "Timongothekeys",
-          "url": "https://open.spotify.com/artist/1pXa6QH7HpQcw3FCP7MQQk"
-        }
-      ],
-      "duration_ms": 154960,
-      "name": "Bisous",
-      "url": "https://open.spotify.com/track/74lz9d1soQih0k9QtN0acn"
-    },
-    {
-      "added_at": "2024-04-12 11:02:43",
-      "album": {
         "name": "Arte",
         "url": "https://open.spotify.com/album/335zYmm0dgfHw5Ki2yyKXQ"
       },
@@ -1083,6 +1063,26 @@
       "duration_ms": 152440,
       "name": "Twerk (con Boro)",
       "url": "https://open.spotify.com/track/4jiCUUfjuJoG03gnw3jj1r"
+    },
+    {
+      "added_at": "2024-04-12 11:02:43",
+      "album": {
+        "name": "Bisous",
+        "url": "https://open.spotify.com/album/18WfbdpSPZ3Gx1qlMlHGSP"
+      },
+      "artists": [
+        {
+          "name": "Medy",
+          "url": "https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn"
+        },
+        {
+          "name": "Timongothekeys",
+          "url": "https://open.spotify.com/artist/1pXa6QH7HpQcw3FCP7MQQk"
+        }
+      ],
+      "duration_ms": 154960,
+      "name": "Bisous",
+      "url": "https://open.spotify.com/track/74lz9d1soQih0k9QtN0acn"
     },
     {
       "added_at": "2024-04-12 11:02:43",
@@ -1407,6 +1407,22 @@
     {
       "added_at": "2024-04-12 11:02:43",
       "album": {
+        "name": "PLAYA",
+        "url": "https://open.spotify.com/album/4BooiX3rbdDNh6uzJUMfRE"
+      },
+      "artists": [
+        {
+          "name": "Zefe",
+          "url": "https://open.spotify.com/artist/3yNjXWi2WswJfuBZSouJRH"
+        }
+      ],
+      "duration_ms": 154926,
+      "name": "PLAYA",
+      "url": "https://open.spotify.com/track/39ngG6CdkMkBgESiXc0lOx"
+    },
+    {
+      "added_at": "2024-04-12 11:02:43",
+      "album": {
         "name": "TRAVESURAS (feat. MV Killa, Yung Snapp, Lele Blade, Vale Lambo)",
         "url": "https://open.spotify.com/album/068WIA490RGoZi1ZObrv9e"
       },
@@ -1435,22 +1451,6 @@
       "duration_ms": 265637,
       "name": "TRAVESURAS (feat. MV Killa, Yung Snapp, Lele Blade, Vale Lambo)",
       "url": "https://open.spotify.com/track/7IrtgihaMKV0DOVcB0TcBG"
-    },
-    {
-      "added_at": "2024-04-12 11:02:43",
-      "album": {
-        "name": "PLAYA",
-        "url": "https://open.spotify.com/album/4BooiX3rbdDNh6uzJUMfRE"
-      },
-      "artists": [
-        {
-          "name": "Zefe",
-          "url": "https://open.spotify.com/artist/3yNjXWi2WswJfuBZSouJRH"
-        }
-      ],
-      "duration_ms": 154926,
-      "name": "PLAYA",
-      "url": "https://open.spotify.com/track/39ngG6CdkMkBgESiXc0lOx"
     },
     {
       "added_at": "2024-04-12 11:02:43",
@@ -1639,26 +1639,26 @@
     {
       "added_at": "2024-04-12 11:02:43",
       "album": {
-        "name": "IL MINORENNE + BASTARDO",
-        "url": "https://open.spotify.com/album/3n3PO1QkNmGftt01Cz1LyE"
+        "name": "Dorado (feat. Sfera Ebbasta & Feid)",
+        "url": "https://open.spotify.com/album/1AlYgD1SjWC0r4xpgnI4WF"
       },
       "artists": [
         {
-          "name": "Touch\u00e9",
-          "url": "https://open.spotify.com/artist/3sRTjuam7GJ4lA7ewD2sfb"
+          "name": "Mahmood",
+          "url": "https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd"
         },
         {
-          "name": "BIG P",
-          "url": "https://open.spotify.com/artist/1a0E2OojvY4bOw0SfYN768"
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
         },
         {
-          "name": "Miller",
-          "url": "https://open.spotify.com/artist/5Zac830Rf5D42X4G5lIzqs"
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
         }
       ],
-      "duration_ms": 166522,
-      "name": "PULL UP (feat. Big P)",
-      "url": "https://open.spotify.com/track/5rGNMvZh5oLw20vjMaf8VW"
+      "duration_ms": 178044,
+      "name": "Dorado (feat. Sfera Ebbasta & Feid)",
+      "url": "https://open.spotify.com/track/1kI7mZAziaRfBeAOraRW1i"
     }
   ],
   "unique_name": "Club Rap ",

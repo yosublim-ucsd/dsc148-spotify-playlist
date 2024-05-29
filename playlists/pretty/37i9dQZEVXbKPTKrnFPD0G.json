@@ -1,12 +1,12 @@
 {
   "description": "Your weekly update of the most played tracks right now - Argentina.",
-  "num_followers": 76956,
+  "num_followers": 76987,
   "original_name": "Top Songs - Argentina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "LefwGAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "LelBmAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
       "added_at": "2024-05-24 10:34:08",
@@ -268,16 +268,16 @@
       },
       "artists": [
         {
-          "name": "Q' Lokura",
-          "url": "https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y"
-        },
-        {
           "name": "Valentino Merlo",
           "url": "https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6"
+        },
+        {
+          "name": "Q' Lokura",
+          "url": "https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y"
         }
       ],
       "duration_ms": 180385,
-      "name": "Tu Foto",
+      "name": "Tu Foto - En Vivo",
       "url": "https://open.spotify.com/track/3cWo162YkfLIFyB3DWbVoH"
     },
     {

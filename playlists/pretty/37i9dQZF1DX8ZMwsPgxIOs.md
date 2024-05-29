@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 
 > Techno is a state of mind\. Cover: Eli Brown
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,082 likes - 100 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,113 likes - 100 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 | 9 | [PARADISE](https://open.spotify.com/track/12p3LJyuWdEh6bWFoc60Bk) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [DANNY AVILA](https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [PARADISE](https://open.spotify.com/album/6lumo11dn8gPbLLdmpe1PZ) | 2:43 |
 | 10 | [Solpaz](https://open.spotify.com/track/37zxs3TCMq5QiecCytwCga) | [Cristoph](https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG), [Adz](https://open.spotify.com/artist/5JQz6ekVNCeKSAYKn0HkNp) | [Solpaz / Fading](https://open.spotify.com/album/5IxSaDcsIOxUQ0kaFQQQs6) | 3:15 |
 | 11 | [Last Night \- Anyma x Layton Giordani Remix](https://open.spotify.com/track/22hOKPKTAegLoLJKM33K4a) | [Loofy](https://open.spotify.com/artist/6zx3vuOK841XDu7XFozhFv), [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4) | [Last Night \(Anyma x Layton Giordani Remix\)](https://open.spotify.com/album/001JSP4fD2dw3KA95XFxOa) | 4:16 |
-| 12 | [Faust](https://open.spotify.com/track/0oExQ5XYiJ1Htipki2J7Hb) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Son Of Son](https://open.spotify.com/artist/4xG5i2Smlt6o5QxuGp9LqM) | [New World](https://open.spotify.com/album/2FYKOfOhEXB3iUfjay4ZRl) | 3:37 |
+| 12 | [Faust](https://open.spotify.com/track/0oExQ5XYiJ1Htipki2J7Hb) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Son of Son](https://open.spotify.com/artist/4xG5i2Smlt6o5QxuGp9LqM) | [New World](https://open.spotify.com/album/2FYKOfOhEXB3iUfjay4ZRl) | 3:37 |
 | 13 | [Not Exactly \- Rebūke Remix](https://open.spotify.com/track/0toCiiWUNHiWsfbshXY0TC) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj) | [Not Exactly \(Rebūke Remix\)](https://open.spotify.com/album/3tuUxwV6i6hXlluIhz0ZCI) | 3:00 |
 | 14 | [Gasoline](https://open.spotify.com/track/5ardmsHuWc0chy7GzsvrLd) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU), [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [Gasoline](https://open.spotify.com/album/7CvBP12l6XQHKCkn6hnxeY) | 3:13 |
 | 15 | [New Life](https://open.spotify.com/track/2C5RSCwLW5EknVBkRMsakA) | [Bart Skils](https://open.spotify.com/artist/6iWBjg4b4ll4jLiParnWXT), [HOF](https://open.spotify.com/artist/6g18j6U5EYDMoIAmEAstGI) | [New Life](https://open.spotify.com/album/1geFIf5KqaxEWxBcv928AG) | 5:27 |

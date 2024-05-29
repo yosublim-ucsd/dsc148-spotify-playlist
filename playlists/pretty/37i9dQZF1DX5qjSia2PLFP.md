@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 
 > New music breaking waves\. Cover: <a href="spotify:artist:7kpAW7boBJFRFCMydZpjUd">SadBoi</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,353 likes - 65 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,510 likes - 65 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "This is El Chapo De Sinaloa. The essential tracks, all in one playlist.",
-  "num_followers": 46182,
+  "num_followers": 46188,
   "original_name": "This Is El Chapo De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlJ7gAAAAAB/h2wdtlY3PY1Epq0LpDfF",
+  "snapshot_id": "ZlPNAAAAAAD3cK3iPHNF5+OltPuScYzi",
   "tracks": [
     {
       "added_at": null,
@@ -435,22 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eran De Azucar Sus Labios",
-        "url": "https://open.spotify.com/album/4O78YM1McunYoan4VbIC2P"
-      },
-      "artists": [
-        {
-          "name": "El Chapo De Sinaloa",
-          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
-        }
-      ],
-      "duration_ms": 187848,
-      "name": "Eran De Azucar Sus Labios",
-      "url": "https://open.spotify.com/track/10pvk16EhVuq7VhcQxaOrg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Serie 33",
         "url": "https://open.spotify.com/album/1y6TyvJYOv3725PqA2LPSV"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 202133,
       "name": "Ap\u00e1rtame Esta Noche",
       "url": "https://open.spotify.com/track/2Z60UxbMfxGuFSB8A909SX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eran De Azucar Sus Labios",
+        "url": "https://open.spotify.com/album/4O78YM1McunYoan4VbIC2P"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "duration_ms": 187848,
+      "name": "Eran De Azucar Sus Labios",
+      "url": "https://open.spotify.com/track/10pvk16EhVuq7VhcQxaOrg"
     },
     {
       "added_at": null,
@@ -659,8 +659,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Apasionado (Remasterizado 2021)",
-        "url": "https://open.spotify.com/album/7pXzWQE4urVbA9k8sqAggO"
+        "name": "Cristaleros Michoacanos",
+        "url": "https://open.spotify.com/album/3FdFzTuG5WoeX4w88HR0jB"
       },
       "artists": [
         {
@@ -668,9 +668,9 @@
           "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
         }
       ],
-      "duration_ms": 192120,
-      "name": "Dime Una Y Otra Vez (Versi\u00f3n Remasterizada De 2021)",
-      "url": "https://open.spotify.com/track/4aP9JFXT8QYMqy7N5lrZIf"
+      "duration_ms": 139075,
+      "name": "Andamos Borrachos",
+      "url": "https://open.spotify.com/track/6SVBB2CsB4TA91bezlFtBr"
     },
     {
       "added_at": null,
@@ -691,8 +691,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cristaleros Michoacanos",
-        "url": "https://open.spotify.com/album/3FdFzTuG5WoeX4w88HR0jB"
+        "name": "Apasionado (Remasterizado 2021)",
+        "url": "https://open.spotify.com/album/7pXzWQE4urVbA9k8sqAggO"
       },
       "artists": [
         {
@@ -700,9 +700,9 @@
           "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
         }
       ],
-      "duration_ms": 139075,
-      "name": "Andamos Borrachos",
-      "url": "https://open.spotify.com/track/6SVBB2CsB4TA91bezlFtBr"
+      "duration_ms": 192120,
+      "name": "Dime Una Y Otra Vez (Versi\u00f3n Remasterizada De 2021)",
+      "url": "https://open.spotify.com/track/4aP9JFXT8QYMqy7N5lrZIf"
     },
     {
       "added_at": null,
@@ -775,22 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Preguntaron Por Ti",
-        "url": "https://open.spotify.com/album/7aCf9lrpsaiTu5RwhqzWvm"
-      },
-      "artists": [
-        {
-          "name": "El Chapo De Sinaloa",
-          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
-        }
-      ],
-      "duration_ms": 169705,
-      "name": "Me Preguntaron Por Ti",
-      "url": "https://open.spotify.com/track/5oV3ZloIYyO7yzTenzMSJP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corridos Ke Mandan",
         "url": "https://open.spotify.com/album/2jVrHdwjagxttYkQFypph8"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 162720,
       "name": "Cristaleros Michoacanos - Banda",
       "url": "https://open.spotify.com/track/2xNgSqkOoSuTUq50Ma5W2h"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Me Preguntaron Por Ti",
+        "url": "https://open.spotify.com/album/7aCf9lrpsaiTu5RwhqzWvm"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "duration_ms": 169705,
+      "name": "Me Preguntaron Por Ti",
+      "url": "https://open.spotify.com/track/5oV3ZloIYyO7yzTenzMSJP"
     },
     {
       "added_at": null,

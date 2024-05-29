@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZaylsK87YU.md) - [plain]
 
 > Discover this set of songs that define modern hymns for and beyond the church\.  Cover artist: Phil Wickham
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,674 likes - 100 songs - 7 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,681 likes - 100 songs - 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZaylsK87YU.md) - [plain]
 | 29 | [Behold Our God](https://open.spotify.com/track/5wtsUVV88h9jhtF4mOgxNN) | [Sovereign Grace Music](https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y) | [Risen](https://open.spotify.com/album/5g3hGU7hr02kjuEUUiLQLz) | 5:23 |
 | 30 | [Just Be](https://open.spotify.com/track/65O1Ry1edYOixyVOCXXY7R) | [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Just Be](https://open.spotify.com/album/3HHaO3Bpaf6UEt225M55Us) | 4:33 |
 | 31 | [Nothing I Hold on to \(Live\)](https://open.spotify.com/track/2orHAZyBJH5rbojtwPsztm) | [Will Reagan](https://open.spotify.com/artist/3P9Tb34QQEWyjm1pYdPfOP), [United Pursuit](https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo) | [Live at the Banks House](https://open.spotify.com/album/06BotF7CerCXpcm5Km2uX7) | 6:16 |
-| 32 | [Sticks & Stones](https://open.spotify.com/track/236Joyhsvc06vmBkKjCFwf) | [Kings Kaleidoscope](https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A) | [The Beauty Between](https://open.spotify.com/album/22dJNerbGPZtrsoAjyTy9y) | 4:05 |
-| 33 | [Born Again](https://open.spotify.com/track/68nNNThyOXq060K1ZAWb2t) | [Josh Garrels](https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8) | [Home](https://open.spotify.com/album/4Oj3NQVZjlhji59z6bSKl1) | 4:31 |
+| 32 | [Born Again](https://open.spotify.com/track/68nNNThyOXq060K1ZAWb2t) | [Josh Garrels](https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8) | [Home](https://open.spotify.com/album/4Oj3NQVZjlhji59z6bSKl1) | 4:31 |
+| 33 | [Sticks & Stones](https://open.spotify.com/track/236Joyhsvc06vmBkKjCFwf) | [Kings Kaleidoscope](https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A) | [The Beauty Between](https://open.spotify.com/album/22dJNerbGPZtrsoAjyTy9y) | 4:05 |
 | 34 | [Heart of Worship](https://open.spotify.com/track/1ZeRu0bj5lCsD0Vh8hpM6I) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [The Worship Initiative, Vol\. 9](https://open.spotify.com/album/3aeBnj6TtXewcHW50wUwP1) | 5:06 |
 | 35 | [Jesus, Thank You](https://open.spotify.com/track/59pRxzutrxwmP6CNL2eHbU) | [Sovereign Grace Music](https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y), [Brook Hills Music](https://open.spotify.com/artist/4CaYbhVqFR3fTbGHd3k4Zr) | [30: Three Decades of Songs for the Church](https://open.spotify.com/album/6GmqHkUvT9NWRxD17vBFJm) | 4:52 |
 | 36 | [He Will Hold Me Fast](https://open.spotify.com/track/1Mp90z16Mneiqthtf7fOf9) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Hymns, Vol\. 1](https://open.spotify.com/album/2LE9j1hE1bGMiRK4KUdiEF) | 4:42 |
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZaylsK87YU.md) - [plain]
 | 89 | [This Is My Father's World](https://open.spotify.com/track/4FLpCfvea5IELWT889oa9k) | [People & Songs](https://open.spotify.com/artist/0DLoqaxhfWU5litFyzLqn8) | [This Is My Father's World](https://open.spotify.com/album/03ox5Kk1wNCRo3UYNhKiBV) | 6:08 |
 | 90 | [For the Beauty of the Earth](https://open.spotify.com/track/5G7QaeDEy7kFPac5Hr5INn) | [A New Liturgy](https://open.spotify.com/artist/5WeVXS5COv8kOfCkfe5YMW) | [No 4: Creation](https://open.spotify.com/album/1xBXUvPWnFj7NaKNNweqEz) | 5:26 |
 | 91 | [Want](https://open.spotify.com/track/4OYE671tr7tLa3vUG21pop) | [Birdtalker](https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt) | [Just This](https://open.spotify.com/album/3ghdDK7VnSwx6XvUeE4HJc) | 2:07 |
-| 92 | [My Hope Is in the Lord](https://open.spotify.com/track/5aWMousRRsFOROMVikDtpx) | [Sanctus Real](https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj) | [Changed](https://open.spotify.com/album/1GGV9IZO83uLgRE0VYx0dx) | 3:21 |
-| 93 | [Softly And Tenderly](https://open.spotify.com/track/3RVSPxPCT29wt3NgJgAQNn) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Softly And Tenderly](https://open.spotify.com/album/0Mi5UCbI2mPA4Ws6Ql60Wj) | 5:29 |
+| 92 | [Softly And Tenderly](https://open.spotify.com/track/3RVSPxPCT29wt3NgJgAQNn) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Softly And Tenderly](https://open.spotify.com/album/0Mi5UCbI2mPA4Ws6Ql60Wj) | 5:29 |
+| 93 | [My Hope Is in the Lord](https://open.spotify.com/track/5aWMousRRsFOROMVikDtpx) | [Sanctus Real](https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj) | [Changed](https://open.spotify.com/album/1GGV9IZO83uLgRE0VYx0dx) | 3:21 |
 | 94 | [Doxology](https://open.spotify.com/track/475fggJIgGaM2dgjZrsPnL) | [Kristene DiMarco](https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8) | [Where His Light Was](https://open.spotify.com/album/1jamkW0fDJFlcF1wyAejsW) | 0:42 |
 | 95 | [There May Be Tears](https://open.spotify.com/track/1oe3sWhApeuqleeD16rtgi) | [Scott Cunningham Band](https://open.spotify.com/artist/440q5WuNyKO9LHgZACm6bf) | [Come Away](https://open.spotify.com/album/1geY7Bt8b8q1HOn8EOpFIk) | 4:29 |
 | 96 | [What Wondrous Love Is This \(Live from Mayne Island\)](https://open.spotify.com/track/1zyEnquNOscqlJwO672XJ7) | [Josh Garrels](https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8), [Mason Jar Music](https://open.spotify.com/artist/5fDdnBEEvrNr9dnXSmBxUG) | [The Sea in Between \(Soundtrack\)](https://open.spotify.com/album/0Ao2w5SU5pRoHJKrwg2D1Z) | 2:00 |

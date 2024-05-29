@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,697 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,741 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 49 | [RAM TCHUM](https://open.spotify.com/track/6mJCx80Wc91GPi9ew9bkmD) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [RAM TCHUM](https://open.spotify.com/album/4Z5EJkqY3ZiXIux4noy34c) | 2:09 |
 | 50 | [Me Leva Pra Casa / Escrito Nas Estrelas / Saudade \- Ao Vivo](https://open.spotify.com/track/2sYFUcurlISdHlAsnYCEgD) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Raiz Goiânia \(Ao Vivo\)](https://open.spotify.com/album/6v9Ul1m0zyx9G3uwv8jRhu) | 4:25 |
 
-Snapshot ID: `LefwGAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LelBmAAAAAAAAAAAAAAAAAAAAAAAAGVu`

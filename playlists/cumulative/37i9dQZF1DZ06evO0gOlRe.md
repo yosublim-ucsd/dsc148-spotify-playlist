@@ -2,7 +2,7 @@
 
 ### [This Is Alexander Stewart](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0gOlRe)
 
-> This is Alexander Stewart\. The essential tracks, all in one playlist.
+> This Is Alexander Stewart\. Les titres incontournables, réunis dans une seule et même playlist.
 
 54 songs - 2 hr 28 min
 

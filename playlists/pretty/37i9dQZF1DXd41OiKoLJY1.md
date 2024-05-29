@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: Ron Macapagal\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,637 likes - 99 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,639 likes - 99 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 2 | [CHEETOS FREESTYLE](https://open.spotify.com/track/41BFE4wnsd9JiFGOpGcagz) | [KPC](https://open.spotify.com/artist/38bPbvvWC0Le02oOntVqeJ) | [CHEETOS FREESTYLE](https://open.spotify.com/album/3p1DpX5kHbVgDeBg6MFm54) | 1:31 |
 | 3 | [Weep Year](https://open.spotify.com/track/1I0oP269CujEUnBA4NMEOg) | [Brad Louisee](https://open.spotify.com/artist/1aWmfjamyyqLlGg0h9EX8K) | [Weep Year](https://open.spotify.com/album/57hbf1pPnC6VxmYys68vD1) | 2:40 |
 | 4 | [Once](https://open.spotify.com/track/0cNU8rmtPjdwVQ5JurnB4U) | [Chris Cantada Force](https://open.spotify.com/artist/5ubeV5kSMrVqdelpI3LlMw) | [Once](https://open.spotify.com/album/3BKCMFho1Eib4qpCTRrZmk) | 3:03 |
-| 5 | [Call Me When It's Over](https://open.spotify.com/track/2dig9TpD4UdOCtFHLEuAoV) | [Ron Macapagal](https://open.spotify.com/artist/1D2khKeG6AJSTPJjCy4tib), [Seramel](https://open.spotify.com/artist/4ZrehxVo50z89Wn3cA6VbA) | [Call Me When It's Over](https://open.spotify.com/album/3Og0a8E52wdEk7mC8yGvOK) | 3:13 |
+| 5 | [Call Me When It's Over \(feat\. Seramel\)](https://open.spotify.com/track/2dig9TpD4UdOCtFHLEuAoV) | [Ron Macapagal](https://open.spotify.com/artist/1D2khKeG6AJSTPJjCy4tib), [Seramel](https://open.spotify.com/artist/4ZrehxVo50z89Wn3cA6VbA) | [Call Me When It's Over \(feat\. Seramel\)](https://open.spotify.com/album/3Og0a8E52wdEk7mC8yGvOK) | 3:13 |
 | 6 | [Keep On Holding On Pt\. 2](https://open.spotify.com/track/1C9PNh3vxPy51yEOx5gLnm) | [Jace Roque](https://open.spotify.com/artist/6QA5BsEeCZuG2urVzZLCrk) | [Paradiso](https://open.spotify.com/album/52gOefu9YjgjJahyVqECMI) | 3:01 |
 | 7 | [TOP SHOTTA](https://open.spotify.com/track/13qqNEfNs0IlDp7dEy7hRP) | [THUGSTA](https://open.spotify.com/artist/5EmXpuTNIJc6YTD2su7L4x) | [TOP SHOTTA](https://open.spotify.com/album/2DZh4v65B9K2b5eLVJfxSC) | 2:05 |
 | 8 | [Kamas](https://open.spotify.com/track/5HBRG9jaYnz0rlvqgRL5V4) | [Chuckoy Vicuña Combo](https://open.spotify.com/artist/5Vm3GOPQZyR5oQIbDw0tp0) | [Kamas](https://open.spotify.com/album/3uVo31MmwLRy5bfCW3btoB) | 3:55 |
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 67 | [Paano Kung Tayo](https://open.spotify.com/track/4yrp8vSHmChRvafuMtYF5e) | [Claudine Co](https://open.spotify.com/artist/1l1AvE8QoyqoyVrdX6vqR0) | [Paano Kung Tayo](https://open.spotify.com/album/0x2j2cGHFNbXUBGBgqAkPp) | 3:40 |
 | 68 | [Dito Ka Lang](https://open.spotify.com/track/5NkRuVaOyhGmxtA3ZHqxad) | [Edwin Hurry Jr.](https://open.spotify.com/artist/2u6lI1BGjeacTKudw3Fwkv) | [Dito Ka Lang](https://open.spotify.com/album/4aJpWptGlFpURFSyNHQKeq) | 3:56 |
 | 69 | [Para Lamang Sa'yo](https://open.spotify.com/track/1ev8UEx1ycQe5FcJNXbaE6) | [Angelika Sam](https://open.spotify.com/artist/44Wte6i4Ds1lyVlvrTm7co) | [Para Lamang Sa'yo](https://open.spotify.com/album/1FVr4ugzRsKJebsiDCdEi5) | 3:24 |
-| 70 | [Aminin](https://open.spotify.com/track/3h7MHfTHDWBjNfG4UIaDgQ) | [naïba](https://open.spotify.com/artist/0BmvKhzL7qeIdSRC6ckuHD) | [Aminin](https://open.spotify.com/album/6MZGwqcnc57ZNV2MRAFJJG) | 3:45 |
+| 70 | [Aminin](https://open.spotify.com/track/3h7MHfTHDWBjNfG4UIaDgQ) | [naÏba](https://open.spotify.com/artist/0BmvKhzL7qeIdSRC6ckuHD) | [Aminin](https://open.spotify.com/album/6MZGwqcnc57ZNV2MRAFJJG) | 3:45 |
 | 71 | [4US2](https://open.spotify.com/track/1KSPOhn5jt8ez8PQoJ7fip) | [Bankyu](https://open.spotify.com/artist/6IvROQtaYPleoVZOlxMqwG), [25hearts](https://open.spotify.com/artist/77vD2NBRsPVcQI7lseX7fw) | [4US2](https://open.spotify.com/album/134iTKkEcKUoqnAXxue9sc) | 1:17 |
 | 72 | [Holiday](https://open.spotify.com/track/3Dq5YRqpdqcRpQx4Mfo1eU) | [Casper Blancaflor](https://open.spotify.com/artist/6sIVIzRcz0YkX8l61WJn9N), [Tetae](https://open.spotify.com/artist/1nLS6dFeKLlCBb4XaGaHg7) | [Holiday](https://open.spotify.com/album/6y2D8xK1mR9IjB1sXHvXHN) | 4:29 |
 | 73 | [Space and Time](https://open.spotify.com/track/7o8TZzkEAG0ogvHfNqejZw) | [Armeia](https://open.spotify.com/artist/5MPZeWH1rgNZG0HDLHWqhJ) | [Space and Time](https://open.spotify.com/album/4ftwpVwaFBPW4TRR9tNURE) | 2:32 |

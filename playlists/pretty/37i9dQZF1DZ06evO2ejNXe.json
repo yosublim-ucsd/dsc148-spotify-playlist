@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Zarape. The essential tracks, all in one playlist.",
-  "num_followers": 1406,
+  "num_followers": 1407,
   "original_name": "This Is Banda Zarape",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlJ7gAAAAAC5DP3rB1a+QcO7+FFITl9E",
+  "snapshot_id": "ZlPNAAAAAADXS4yx68RGLqWNskZcMUPR",
   "tracks": [
     {
       "added_at": null,
@@ -220,9 +220,9 @@
           "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
         }
       ],
-      "duration_ms": 197706,
-      "name": "El Pulpo",
-      "url": "https://open.spotify.com/track/15xfPAgrDU5YAJL6wPzpAN"
+      "duration_ms": 200240,
+      "name": "Hey Hey Tu",
+      "url": "https://open.spotify.com/track/1BgH0sooCdisYKC9om3MGD"
     },
     {
       "added_at": null,
@@ -284,9 +284,9 @@
           "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
         }
       ],
-      "duration_ms": 200240,
-      "name": "Hey Hey Tu",
-      "url": "https://open.spotify.com/track/1BgH0sooCdisYKC9om3MGD"
+      "duration_ms": 197706,
+      "name": "El Pulpo",
+      "url": "https://open.spotify.com/track/15xfPAgrDU5YAJL6wPzpAN"
     },
     {
       "added_at": null,
@@ -764,9 +764,9 @@
           "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
         }
       ],
-      "duration_ms": 248466,
-      "name": "Los Mosquitos",
-      "url": "https://open.spotify.com/track/5VP16qRl87kY6HF8poIDeH"
+      "duration_ms": 213093,
+      "name": "Mambo Loco",
+      "url": "https://open.spotify.com/track/2NltL5XwtIbMz9OL5acWcY"
     },
     {
       "added_at": null,
@@ -780,9 +780,9 @@
           "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
         }
       ],
-      "duration_ms": 213093,
-      "name": "Mambo Loco",
-      "url": "https://open.spotify.com/track/2NltL5XwtIbMz9OL5acWcY"
+      "duration_ms": 248466,
+      "name": "Los Mosquitos",
+      "url": "https://open.spotify.com/track/5VP16qRl87kY6HF8poIDeH"
     }
   ],
   "unique_name": "This Is Banda Zarape",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-14",
-  "description": "This is Murda Beatz. The essential tracks, all in one playlist.",
+  "description": "This is Murda Beatz. Todos os maiores hits em uma s\u00f3 playlist.",
   "name": "This Is Murda Beatz",
   "tracks": [
     {
@@ -253,6 +253,32 @@
     },
     {
       "album": {
+        "name": "art.",
+        "url": "https://open.spotify.com/album/7lffsgZR85zVbircFs9cQ7"
+      },
+      "artists": [
+        {
+          "name": "Matte Roxx!",
+          "url": "https://open.spotify.com/artist/1HgdRzQvBcQI8Qsi28ABlx"
+        },
+        {
+          "name": "BLOODCAT",
+          "url": "https://open.spotify.com/artist/4iswXMyuYxtx6AEzeuX3Bu"
+        },
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        }
+      ],
+      "date_added": "2024-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166097,
+      "name": "demon slayer!",
+      "url": "https://open.spotify.com/track/5EtVTFCwWAPx3kycufOFfC"
+    },
+    {
+      "album": {
         "name": "Bless Yo Trap",
         "url": "https://open.spotify.com/album/3UTI3QQcowXYG3DA0Piy5f"
       },
@@ -346,7 +372,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-26",
+      "date_removed": null,
       "duration_ms": 171888,
       "name": "DOORS UNLOCKED (feat. Ty Dolla $ign & Polo G)",
       "url": "https://open.spotify.com/track/7CmNyEQUpNSX6RMM5Fw3os"
@@ -908,7 +934,7 @@
       ],
       "date_added": "2024-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-29",
       "duration_ms": 164671,
       "name": "Studio Trappin",
       "url": "https://open.spotify.com/track/7o4nJGQBqwvjPds4OhIQZi"

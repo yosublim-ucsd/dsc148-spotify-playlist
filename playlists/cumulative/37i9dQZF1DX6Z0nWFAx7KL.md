@@ -4,7 +4,7 @@
 
 > You can dance or chill.
 
-213 songs - 10 hr 42 min
+214 songs - 10 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Blindly \[Thom Merlin Remix\]](https://open.spotify.com/track/6l6viiPh9iUZbXuprWe0Dt) | [Dukewood](https://open.spotify.com/artist/0saU1gJBLlM25GZ4h0cC7b), [De Hofnar](https://open.spotify.com/artist/1LFGVkNRmXz8jIkyPjaGNL), [Kav Verhouzer](https://open.spotify.com/artist/1yYBD4cVxCxXQXi4QGZfSo), [Thom Merlin](https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC) | [Blindly \[Thom Merlin Remix\]](https://open.spotify.com/album/1xJv5nuu2wpxNZReOAuzuJ) | 3:02 | 2023-01-19 | 2023-03-18 |
 | [Bloom \(nowifi Remix\)](https://open.spotify.com/track/4Hqznl1iOMNK4Yr2e4H0D4) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B), [nowifi](https://open.spotify.com/artist/5wxw2CQKTIOSkPFJbTYVzl) | [Bloom \(nowifi Remix\)](https://open.spotify.com/album/2TevphOQe7SmNqX7dVLYkk) | 2:01 | 2022-09-15 |  |
 | [Body on Fire](https://open.spotify.com/track/5Bl32FoKm0kTiMe6hcRNkV) | [SOMMA](https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3), [Dillistone](https://open.spotify.com/artist/7ypPN35cJ9wfF2Zs7aYS33) | [Body on Fire](https://open.spotify.com/album/3B90f5X9qYr2MFflbC8tRu) | 2:39 | 2022-09-15 | 2024-03-21 |
+| [Bora Bora](https://open.spotify.com/track/5p9SH2mEUzBMlpkowTf1YM) | [SIQUE](https://open.spotify.com/artist/5kI4yBIQJPlI00krjJ98NB) | [Bora Bora](https://open.spotify.com/album/75DrtHei7nrqfm7ThZo6oe) | 2:18 | 2024-05-23 |  |
 | [Bosana](https://open.spotify.com/track/4oK68YNIvg4J4lBvcwak6h) | [El Mukuka](https://open.spotify.com/artist/3z0l518027gIZvLtoXQCkd), [Gaz Mawete](https://open.spotify.com/artist/4WSA56zRr2ZBnbQqVNrMay), [HVMZA](https://open.spotify.com/artist/7lrf9DRS7RmffYzVN7PYfK) | [Bosana](https://open.spotify.com/album/5t6pQwDnbCwsduBrrnJMh1) | 3:31 | 2022-09-29 | 2022-10-25 |
 | [Botanica](https://open.spotify.com/track/1o3ksFswee5ivJWC6eJTa1) | [fwd/slash](https://open.spotify.com/artist/6tFIXOQGf0Hld1gCjBkLaw) | [Botanica](https://open.spotify.com/album/4hGX5ykusRBQyujcqDTJDO) | 3:07 | 2022-09-15 | 2023-02-11 |
 | [Botanica](https://open.spotify.com/track/2kxCwxxJ44zd6yd8ha4tVs) | [fwd/slash](https://open.spotify.com/artist/6tFIXOQGf0Hld1gCjBkLaw) | [Botanica](https://open.spotify.com/album/5fSSRZEOdBrTwzGhyuWz81) | 3:07 | 2023-02-16 | 2024-04-19 |
@@ -169,7 +170,7 @@
 | [Rooftop](https://open.spotify.com/track/1eMWdrMNzPuGOwsAeKlXBW) | [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq), [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg) | [Rooftop](https://open.spotify.com/album/2dxviQ3pceDaEjeVasmMFL) | 3:19 | 2023-01-13 |  |
 | [Room](https://open.spotify.com/track/0nnOUYjKs5IWiMg414VFFT) | [Braaten](https://open.spotify.com/artist/0odPXKGYqtTpiWJFBhqyVB), [Mathew V](https://open.spotify.com/artist/5XG2NyvMVgff8ZAeKWX8yS) | [Room](https://open.spotify.com/album/2Rp0zDV32VxKHoTh1hPyzV) | 2:58 | 2022-09-15 | 2022-12-17 |
 | [Running Away](https://open.spotify.com/track/3WzOeH9J5yHXDMX3urdLCJ) | [Arley](https://open.spotify.com/artist/6dDcvbij1mC4yKl7Dm5dNt), [Descend](https://open.spotify.com/artist/1MArNKGDTIWAiJkpnqwCEK) | [Running Away](https://open.spotify.com/album/4WDCOq2xgH3LLzW3tjNudJ) | 3:27 | 2023-08-31 | 2023-09-08 |
-| [Say Goodbye](https://open.spotify.com/track/7bCQA4jNsMewYrumV75Jkk) | [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B), [ECHŌWALL](https://open.spotify.com/artist/0wNQ7AjdPL8uDAiSKVLXAS) | [Say Goodbye](https://open.spotify.com/album/5pS942I4W6bfRUcCnSRkho) | 2:36 | 2023-03-23 |  |
+| [Say Goodbye](https://open.spotify.com/track/7bCQA4jNsMewYrumV75Jkk) | [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B), [ECHŌWALL](https://open.spotify.com/artist/0wNQ7AjdPL8uDAiSKVLXAS) | [Say Goodbye](https://open.spotify.com/album/5pS942I4W6bfRUcCnSRkho) | 2:36 | 2023-03-23 | 2024-05-29 |
 | [Scent of Wood \(Bound to Divide Remix\)](https://open.spotify.com/track/10ziUOuysPmpB3mNtCpNTA) | [UOAK](https://open.spotify.com/artist/4hYS3fIqfvtmZPbbggczYk), [Ceci](https://open.spotify.com/artist/0hCW0HH1liY8gpi5Mk2VK4), [Bound to Divide](https://open.spotify.com/artist/5nQ7llwdZYT6MWMeLLe8dc) | [Scent of Wood \(Bound to Divide Remix\)](https://open.spotify.com/album/3F5raVu3wkj29XJ8UKa9o3) | 3:28 | 2022-09-15 |  |
 | [Second Hand Love](https://open.spotify.com/track/2VNyk9xmiWb3J0OPEasXHX) | [Sebastian Davidson](https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp), [FC Commitments](https://open.spotify.com/artist/2ZDiyRudCpoSMiQTa5ZVOt), [Lewyn](https://open.spotify.com/artist/6h4aEgNEr9VqPnXkipmVAR) | [Second Hand Love](https://open.spotify.com/album/2tE6xUKn7UOdyHhjdh6G7V) | 3:42 | 2022-12-01 |  |
 | [See You On The Other Side](https://open.spotify.com/track/1G4bK9Z8JtkXah973WlAGS) | [Mike D' Jais](https://open.spotify.com/artist/1ekYM3tHN9Dt7HAUoHclwq) | [See You On The Other Side](https://open.spotify.com/album/1epzNdkMhr8ERPKnYyUcqG) | 4:01 | 2022-09-29 |  |

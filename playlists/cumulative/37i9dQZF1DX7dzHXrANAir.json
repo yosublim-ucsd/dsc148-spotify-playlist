@@ -892,7 +892,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-29",
       "duration_ms": 209558,
       "name": "Close To Her",
       "url": "https://open.spotify.com/track/0lPNt1OxNuABFtU8sUxDJv"
@@ -5884,6 +5884,24 @@
       "duration_ms": 353200,
       "name": "Time",
       "url": "https://open.spotify.com/track/52OzHDL7QSF8ag7N16B8wt"
+    },
+    {
+      "album": {
+        "name": "FAUNA",
+        "url": "https://open.spotify.com/album/4jvjDVMQWzOhE0A13JE0xs"
+      },
+      "artists": [
+        {
+          "name": "Wings for Louise",
+          "url": "https://open.spotify.com/artist/1dGyneCVpOnWfd9eCPGeMj"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282893,
+      "name": "Time and Space",
+      "url": "https://open.spotify.com/track/4SGWxmXNOyiFmv5jFjMNkq"
     },
     {
       "album": {

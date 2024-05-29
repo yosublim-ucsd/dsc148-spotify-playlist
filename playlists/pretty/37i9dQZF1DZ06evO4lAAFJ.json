@@ -1,12 +1,12 @@
 {
-  "description": "This is ROSAL\u00cdA. The essential tracks, all in one playlist.",
-  "num_followers": 619890,
+  "description": "This Is ROSAL\u00cdA. Los temas esenciales, todos en una lista.",
+  "num_followers": 619964,
   "original_name": "This Is ROSAL\u00cdA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlJ7gAAAAABHy4PMT9OsaZRhsy1bq4OY",
+  "snapshot_id": "ZlPNAAAAAAAp87kfS/PTq4MDbr7miOeV",
   "tracks": [
     {
       "added_at": null,
@@ -703,6 +703,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Blinding Lights (Remix)",
+        "url": "https://open.spotify.com/album/7B70Z32Ha84aMT6TOnW410"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 216123,
+      "name": "Blinding Lights (with ROSAL\u00cdA) - Remix",
+      "url": "https://open.spotify.com/track/7MXgrcOQAJ5VwSNUL0lDd3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Juro Que",
         "url": "https://open.spotify.com/album/3XV0gPorxF6TtGScGJChxG"
       },
@@ -820,9 +840,9 @@
           "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
         }
       ],
-      "duration_ms": 88545,
-      "name": "Que Se Muere Que Se Muere",
-      "url": "https://open.spotify.com/track/4qEG0SIXAnjnd8KFH4T9Eg"
+      "duration_ms": 214011,
+      "name": "Catalina",
+      "url": "https://open.spotify.com/track/0c7XKJjw6heRqQX7PzkUIj"
     },
     {
       "added_at": null,
@@ -839,6 +859,22 @@
       "duration_ms": 131087,
       "name": "LA KILI\u00c9",
       "url": "https://open.spotify.com/track/1xtfUae857RhiCclSlAOIV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Los \u00c1ngeles",
+        "url": "https://open.spotify.com/album/7mGsUwMuhsKiOKx9X9k7tj"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 88545,
+      "name": "Que Se Muere Que Se Muere",
+      "url": "https://open.spotify.com/track/4qEG0SIXAnjnd8KFH4T9Eg"
     },
     {
       "added_at": null,

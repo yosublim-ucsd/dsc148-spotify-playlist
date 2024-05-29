@@ -1774,7 +1774,7 @@
       ],
       "date_added": "2023-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-26",
+      "date_removed": null,
       "duration_ms": 248594,
       "name": "Hold Me Closer - Joel Corry Remix",
       "url": "https://open.spotify.com/track/5KbhvaeqKIB2bZcJMyfezl"
@@ -3350,8 +3350,8 @@
           "url": "https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN"
         },
         {
-          "name": "Contra",
-          "url": "https://open.spotify.com/artist/73BAwJ65pT6RvwR7JEkfEv"
+          "name": "contra",
+          "url": "https://open.spotify.com/artist/5VYRcaryFLFZnA5HvnRHFi"
         },
         {
           "name": "OFFAIAH",
@@ -4432,7 +4432,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-29",
       "duration_ms": 178921,
       "name": "The Weekend",
       "url": "https://open.spotify.com/track/1KEs5gnaNl40iM9Ytmq1DD"

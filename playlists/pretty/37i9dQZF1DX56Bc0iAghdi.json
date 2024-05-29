@@ -1,6 +1,6 @@
 {
   "description": "Songs of love, hope and positivity for the world.   Listen with Spirit!  Cover: Hannah Kerr",
-  "num_followers": 32061,
+  "num_followers": 32081,
   "original_name": "Spirit",
   "owner": {
     "name": "Spotify",
@@ -859,22 +859,6 @@
     {
       "added_at": "2023-02-18 06:22:02",
       "album": {
-        "name": "Beats and Pieces: Volume One",
-        "url": "https://open.spotify.com/album/5sCH6evfbbnQDq7zUFJD72"
-      },
-      "artists": [
-        {
-          "name": "Joshua Luke Smith",
-          "url": "https://open.spotify.com/artist/29wlT5isBRIOp8YZYVAZ0A"
-        }
-      ],
-      "duration_ms": 168994,
-      "name": "Renaissance",
-      "url": "https://open.spotify.com/track/5Aq6dhgVsvhy3g2tb0EGn2"
-    },
-    {
-      "added_at": "2023-02-18 06:22:02",
-      "album": {
         "name": "Dear Regret",
         "url": "https://open.spotify.com/album/27MKsRgdDeznExxKezUzjt"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 213826,
       "name": "Dear Regret",
       "url": "https://open.spotify.com/track/5wrjoyXqTcLh7XvgukpFDO"
+    },
+    {
+      "added_at": "2023-02-18 06:22:02",
+      "album": {
+        "name": "Beats and Pieces: Volume One",
+        "url": "https://open.spotify.com/album/5sCH6evfbbnQDq7zUFJD72"
+      },
+      "artists": [
+        {
+          "name": "Joshua Luke Smith",
+          "url": "https://open.spotify.com/artist/29wlT5isBRIOp8YZYVAZ0A"
+        }
+      ],
+      "duration_ms": 168994,
+      "name": "Renaissance",
+      "url": "https://open.spotify.com/track/5Aq6dhgVsvhy3g2tb0EGn2"
     },
     {
       "added_at": "2023-02-18 06:22:02",
@@ -995,22 +995,6 @@
     {
       "added_at": "2023-02-18 06:22:02",
       "album": {
-        "name": "She Waits",
-        "url": "https://open.spotify.com/album/1k2TfoQgjRJcpQNSDj3y4I"
-      },
-      "artists": [
-        {
-          "name": "The Gray Havens",
-          "url": "https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC"
-        }
-      ],
-      "duration_ms": 246445,
-      "name": "Storehouse",
-      "url": "https://open.spotify.com/track/6mRHIxLNUIBz1U6jATBrZa"
-    },
-    {
-      "added_at": "2023-02-18 06:22:02",
-      "album": {
         "name": "Quiet",
         "url": "https://open.spotify.com/album/0Q6wkeuZkKehLWJuXnNGzU"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 219480,
       "name": "Quiet",
       "url": "https://open.spotify.com/track/65QxL52nwKmW85mBKFTARI"
+    },
+    {
+      "added_at": "2023-02-18 06:22:02",
+      "album": {
+        "name": "She Waits",
+        "url": "https://open.spotify.com/album/1k2TfoQgjRJcpQNSDj3y4I"
+      },
+      "artists": [
+        {
+          "name": "The Gray Havens",
+          "url": "https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC"
+        }
+      ],
+      "duration_ms": 246445,
+      "name": "Storehouse",
+      "url": "https://open.spotify.com/track/6mRHIxLNUIBz1U6jATBrZa"
     },
     {
       "added_at": "2023-02-18 06:22:02",
@@ -1079,26 +1079,6 @@
     {
       "added_at": "2023-02-18 06:22:02",
       "album": {
-        "name": "Gone Are the Days (Julie Odnoralov Remix)",
-        "url": "https://open.spotify.com/album/2ZxQCfnNz3xhQ3SHKRzoa5"
-      },
-      "artists": [
-        {
-          "name": "The Gray Havens",
-          "url": "https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC"
-        },
-        {
-          "name": "Julie Odnoralov",
-          "url": "https://open.spotify.com/artist/4VXnILFOlZGah8ztpsxhYZ"
-        }
-      ],
-      "duration_ms": 235312,
-      "name": "Gone Are the Days (Julie Odnoralov Remix)",
-      "url": "https://open.spotify.com/track/6LZOgPF2JvgpKyJkRrNyHM"
-    },
-    {
-      "added_at": "2023-02-18 06:22:02",
-      "album": {
         "name": "Bridges",
         "url": "https://open.spotify.com/album/3Q1tTDAW1SKfobpECr5LGk"
       },
@@ -1127,6 +1107,22 @@
       "duration_ms": 175173,
       "name": "Dear God",
       "url": "https://open.spotify.com/track/4uKnBwasJbpaXoPGrwqlc4"
+    },
+    {
+      "added_at": "2023-02-18 06:22:02",
+      "album": {
+        "name": "Celebrate Life",
+        "url": "https://open.spotify.com/album/5VtZ3j3pxbWT8MEqalffjK"
+      },
+      "artists": [
+        {
+          "name": "Alice Pisano",
+          "url": "https://open.spotify.com/artist/1B52Dud7YBQYoGLt2QxckH"
+        }
+      ],
+      "duration_ms": 235236,
+      "name": "Celebrate Life",
+      "url": "https://open.spotify.com/track/7qoJwPYtnQUEmltftJc7Id"
     }
   ],
   "unique_name": "Spirit",

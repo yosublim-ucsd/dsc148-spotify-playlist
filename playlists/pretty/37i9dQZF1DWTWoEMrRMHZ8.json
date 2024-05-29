@@ -1,6 +1,6 @@
 {
   "description": "As belas novidades da MPB. Foto: Mericia",
-  "num_followers": 343872,
+  "num_followers": 343915,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
@@ -47,26 +47,6 @@
     {
       "added_at": "2024-05-24 03:01:00",
       "album": {
-        "name": "Silva & Liniker (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7KLR11ffMXPDqbsXVT9GtG"
-      },
-      "artists": [
-        {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
-        },
-        {
-          "name": "Liniker",
-          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
-        }
-      ],
-      "duration_ms": 230746,
-      "name": "Sorte - Ao Vivo",
-      "url": "https://open.spotify.com/track/5OwOtdiPrzZHq0WQ7QYOKl"
-    },
-    {
-      "added_at": "2024-05-24 03:01:00",
-      "album": {
         "name": "PRISCILLA",
         "url": "https://open.spotify.com/album/7CwRBVDac8q1nUsl5Fx7Ik"
       },
@@ -83,6 +63,26 @@
       "duration_ms": 205640,
       "name": "BOSSA (feat. P\u00e9ricles)",
       "url": "https://open.spotify.com/track/1ueVf1rPWSALnfLdenJZUq"
+    },
+    {
+      "added_at": "2024-05-24 03:01:00",
+      "album": {
+        "name": "Silva & Liniker (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7KLR11ffMXPDqbsXVT9GtG"
+      },
+      "artists": [
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        },
+        {
+          "name": "Liniker",
+          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
+        }
+      ],
+      "duration_ms": 230746,
+      "name": "Sorte - Ao Vivo",
+      "url": "https://open.spotify.com/track/5OwOtdiPrzZHq0WQ7QYOKl"
     },
     {
       "added_at": "2024-05-24 03:01:00",
@@ -155,6 +155,26 @@
       "duration_ms": 172329,
       "name": "Vento",
       "url": "https://open.spotify.com/track/6VQ5R3OQeQjwEwxPPlkNMi"
+    },
+    {
+      "added_at": "2024-05-24 03:01:00",
+      "album": {
+        "name": "Preciso Dizer Que Te Amo",
+        "url": "https://open.spotify.com/album/73TRVmgZ7pFUwLUYHzJinp"
+      },
+      "artists": [
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        },
+        {
+          "name": "Cazuza",
+          "url": "https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU"
+        }
+      ],
+      "duration_ms": 233990,
+      "name": "Preciso Dizer Que Te Amo",
+      "url": "https://open.spotify.com/track/347uerQudKYIl3pOrtnDwa"
     },
     {
       "added_at": "2024-05-24 03:01:00",
@@ -239,26 +259,6 @@
     {
       "added_at": "2024-05-24 03:01:00",
       "album": {
-        "name": "Preciso Dizer Que Te Amo",
-        "url": "https://open.spotify.com/album/73TRVmgZ7pFUwLUYHzJinp"
-      },
-      "artists": [
-        {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
-        },
-        {
-          "name": "Cazuza",
-          "url": "https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU"
-        }
-      ],
-      "duration_ms": 233990,
-      "name": "Preciso Dizer Que Te Amo",
-      "url": "https://open.spotify.com/track/347uerQudKYIl3pOrtnDwa"
-    },
-    {
-      "added_at": "2024-05-24 03:01:00",
-      "album": {
         "name": "Outubro",
         "url": "https://open.spotify.com/album/2irn9XaU4vnKfEmxpvpHjO"
       },
@@ -279,6 +279,22 @@
     {
       "added_at": "2024-05-24 03:01:00",
       "album": {
+        "name": "S\u00f3 Mais Um Pouquinho",
+        "url": "https://open.spotify.com/album/0wHwQ2NC4TPT8DpopVj4ll"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Alarcon",
+          "url": "https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ"
+        }
+      ],
+      "duration_ms": 193949,
+      "name": "S\u00f3 Mais Um Pouquinho",
+      "url": "https://open.spotify.com/track/2kaYMQUvt2Jd4i8zFCH1PV"
+    },
+    {
+      "added_at": "2024-05-24 03:01:00",
+      "album": {
         "name": "Eu n\u00e3o t\u00f4 bem",
         "url": "https://open.spotify.com/album/377PD3X26PookRc8iWwcu2"
       },
@@ -295,18 +311,18 @@
     {
       "added_at": "2024-05-24 03:01:00",
       "album": {
-        "name": "S\u00f3 Mais Um Pouquinho",
-        "url": "https://open.spotify.com/album/0wHwQ2NC4TPT8DpopVj4ll"
+        "name": "Neste Contexto",
+        "url": "https://open.spotify.com/album/5ajFZehsAgL2sYI3bav9EE"
       },
       "artists": [
         {
-          "name": "Rodrigo Alarcon",
-          "url": "https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ"
+          "name": "Jovem Dionisio",
+          "url": "https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ"
         }
       ],
-      "duration_ms": 193949,
-      "name": "S\u00f3 Mais Um Pouquinho",
-      "url": "https://open.spotify.com/track/2kaYMQUvt2Jd4i8zFCH1PV"
+      "duration_ms": 182757,
+      "name": "Neste Contexto",
+      "url": "https://open.spotify.com/track/4WS6S4uWBa4WLsRSvdqGrL"
     },
     {
       "added_at": "2024-05-24 03:01:00",
@@ -363,22 +379,6 @@
       "duration_ms": 166006,
       "name": "A Palo Seco",
       "url": "https://open.spotify.com/track/7f5l7oW0xQOD2Fj7Pq03ME"
-    },
-    {
-      "added_at": "2024-05-24 03:01:00",
-      "album": {
-        "name": "Neste Contexto",
-        "url": "https://open.spotify.com/album/5ajFZehsAgL2sYI3bav9EE"
-      },
-      "artists": [
-        {
-          "name": "Jovem Dionisio",
-          "url": "https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ"
-        }
-      ],
-      "duration_ms": 182757,
-      "name": "Neste Contexto",
-      "url": "https://open.spotify.com/track/4WS6S4uWBa4WLsRSvdqGrL"
     },
     {
       "added_at": "2024-05-24 03:01:00",
@@ -635,6 +635,26 @@
     {
       "added_at": "2024-05-24 03:01:00",
       "album": {
+        "name": "Sangue Latino",
+        "url": "https://open.spotify.com/album/5EMqWcRxe3KdiMJojkJtr1"
+      },
+      "artists": [
+        {
+          "name": "Roberta Spindel",
+          "url": "https://open.spotify.com/artist/4w4yHWFlpurx4MTWGy6cxR"
+        },
+        {
+          "name": "Ney Matogrosso",
+          "url": "https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn"
+        }
+      ],
+      "duration_ms": 187934,
+      "name": "Sangue Latino",
+      "url": "https://open.spotify.com/track/6us6kHPrXKQUI1hR9gVETQ"
+    },
+    {
+      "added_at": "2024-05-24 03:01:00",
+      "album": {
         "name": "ESTRELA",
         "url": "https://open.spotify.com/album/505ue7P0oSrg8Wbv40w2dN"
       },
@@ -655,26 +675,6 @@
       "duration_ms": 185777,
       "name": "ESTRELA",
       "url": "https://open.spotify.com/track/0ATewX9eHprIqyQvcIjUVD"
-    },
-    {
-      "added_at": "2024-05-24 03:01:00",
-      "album": {
-        "name": "Sangue Latino",
-        "url": "https://open.spotify.com/album/5EMqWcRxe3KdiMJojkJtr1"
-      },
-      "artists": [
-        {
-          "name": "Roberta Spindel",
-          "url": "https://open.spotify.com/artist/4w4yHWFlpurx4MTWGy6cxR"
-        },
-        {
-          "name": "Ney Matogrosso",
-          "url": "https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn"
-        }
-      ],
-      "duration_ms": 187934,
-      "name": "Sangue Latino",
-      "url": "https://open.spotify.com/track/6us6kHPrXKQUI1hR9gVETQ"
     },
     {
       "added_at": "2024-05-24 03:01:00",
@@ -755,22 +755,6 @@
     {
       "added_at": "2024-05-24 03:01:00",
       "album": {
-        "name": "Se o Meu Peito Fosse o Mundo (Lado A)",
-        "url": "https://open.spotify.com/album/1Gek78mZmJYLX2dVejnAN4"
-      },
-      "artists": [
-        {
-          "name": "Jota.p\u00ea",
-          "url": "https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN"
-        }
-      ],
-      "duration_ms": 177099,
-      "name": "Um, Dois, Tr\u00eas",
-      "url": "https://open.spotify.com/track/4TB1pJy7ReBCbJtO1b4U7i"
-    },
-    {
-      "added_at": "2024-05-24 03:01:00",
-      "album": {
         "name": "Belezas S\u00e3o Coisas Acesas por Dentro",
         "url": "https://open.spotify.com/album/4bRLaK2J6JGpL3lzF2XLDH"
       },
@@ -787,22 +771,18 @@
     {
       "added_at": "2024-05-24 03:01:00",
       "album": {
-        "name": "OUTONO",
-        "url": "https://open.spotify.com/album/37qt44UvPlfYZMc7TvqqMF"
+        "name": "Se o Meu Peito Fosse o Mundo (Lado A)",
+        "url": "https://open.spotify.com/album/1Gek78mZmJYLX2dVejnAN4"
       },
       "artists": [
         {
-          "name": "Francisco, el Hombre",
-          "url": "https://open.spotify.com/artist/317yGDHMNsNQMfjsNNPYUg"
-        },
-        {
-          "name": "Pato Fu",
-          "url": "https://open.spotify.com/artist/4NSbUIfUAkaedUIm8eJ631"
+          "name": "Jota.p\u00ea",
+          "url": "https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN"
         }
       ],
-      "duration_ms": 229549,
-      "name": "OUTONO",
-      "url": "https://open.spotify.com/track/3bqDCnOGSSv2ELoAs7tfeZ"
+      "duration_ms": 177099,
+      "name": "Um, Dois, Tr\u00eas",
+      "url": "https://open.spotify.com/track/4TB1pJy7ReBCbJtO1b4U7i"
     },
     {
       "added_at": "2024-05-24 03:01:00",
@@ -827,6 +807,26 @@
     {
       "added_at": "2024-05-24 03:01:00",
       "album": {
+        "name": "OUTONO",
+        "url": "https://open.spotify.com/album/37qt44UvPlfYZMc7TvqqMF"
+      },
+      "artists": [
+        {
+          "name": "Francisco, el Hombre",
+          "url": "https://open.spotify.com/artist/317yGDHMNsNQMfjsNNPYUg"
+        },
+        {
+          "name": "Pato Fu",
+          "url": "https://open.spotify.com/artist/4NSbUIfUAkaedUIm8eJ631"
+        }
+      ],
+      "duration_ms": 229549,
+      "name": "OUTONO",
+      "url": "https://open.spotify.com/track/3bqDCnOGSSv2ELoAs7tfeZ"
+    },
+    {
+      "added_at": "2024-05-24 03:01:00",
+      "album": {
         "name": "Abre Alas",
         "url": "https://open.spotify.com/album/6FJnOvFisHuRl54X9wedcP"
       },
@@ -847,6 +847,22 @@
       "duration_ms": 332106,
       "name": "Abre Alas",
       "url": "https://open.spotify.com/track/5uMzEzOgJv7tfhV5CxgyVJ"
+    },
+    {
+      "added_at": "2024-05-24 03:01:00",
+      "album": {
+        "name": "Sons da Lagoa",
+        "url": "https://open.spotify.com/album/02tnPTnWp0MT6UREYoJhbP"
+      },
+      "artists": [
+        {
+          "name": "Arthur Diniz",
+          "url": "https://open.spotify.com/artist/29Ow3spq0aDLMVNqhUumU7"
+        }
+      ],
+      "duration_ms": 135346,
+      "name": "Sons da Lagoa",
+      "url": "https://open.spotify.com/track/2ShP9m6Uc5JbmqTbiXKIJK"
     },
     {
       "added_at": "2024-05-24 03:01:00",
@@ -959,22 +975,6 @@
     {
       "added_at": "2024-05-24 03:01:00",
       "album": {
-        "name": "Sons da Lagoa",
-        "url": "https://open.spotify.com/album/02tnPTnWp0MT6UREYoJhbP"
-      },
-      "artists": [
-        {
-          "name": "Arthur Diniz",
-          "url": "https://open.spotify.com/artist/29Ow3spq0aDLMVNqhUumU7"
-        }
-      ],
-      "duration_ms": 135346,
-      "name": "Sons da Lagoa",
-      "url": "https://open.spotify.com/track/2ShP9m6Uc5JbmqTbiXKIJK"
-    },
-    {
-      "added_at": "2024-05-24 03:01:00",
-      "album": {
         "name": "Cheguei pra ficar",
         "url": "https://open.spotify.com/album/6X89UehB7u9UNkqWe0jv8x"
       },
@@ -1055,38 +1055,6 @@
     {
       "added_at": "2024-05-24 03:01:00",
       "album": {
-        "name": "Sou Eu Que Vou Trabalhar",
-        "url": "https://open.spotify.com/album/3dBnUmZv8KCEZknoSVl8Pd"
-      },
-      "artists": [
-        {
-          "name": "TRAGO",
-          "url": "https://open.spotify.com/artist/6dQH0tJhjUbIjsGqar870C"
-        },
-        {
-          "name": "Tulipa Ruiz",
-          "url": "https://open.spotify.com/artist/6OokCpvxnYv43WcFqejMLb"
-        },
-        {
-          "name": "Gustavo Ruiz",
-          "url": "https://open.spotify.com/artist/7DWwtWoYH8jhf28tq3118m"
-        },
-        {
-          "name": "Alexandre Orion",
-          "url": "https://open.spotify.com/artist/6P3Qu1SwfnnC9daKX95b4P"
-        },
-        {
-          "name": "Rica Amabis",
-          "url": "https://open.spotify.com/artist/7b77J8nz19BLgFq6F2M4QM"
-        }
-      ],
-      "duration_ms": 167713,
-      "name": "Sou Eu Que Vou Trabalhar",
-      "url": "https://open.spotify.com/track/5hxRffZAkL5cm8Dxltqs9j"
-    },
-    {
-      "added_at": "2024-05-24 03:01:00",
-      "album": {
         "name": "De: Terra; Para: Humanidade",
         "url": "https://open.spotify.com/album/6wj0zn5LC2fPFlkofnKaN6"
       },
@@ -1119,6 +1087,38 @@
       "duration_ms": 189206,
       "name": "Esque\u00e7a Tudo",
       "url": "https://open.spotify.com/track/5JKn2MgAqLWRXAWwxvB6tp"
+    },
+    {
+      "added_at": "2024-05-24 03:01:00",
+      "album": {
+        "name": "Sou Eu Que Vou Trabalhar",
+        "url": "https://open.spotify.com/album/3dBnUmZv8KCEZknoSVl8Pd"
+      },
+      "artists": [
+        {
+          "name": "TRAGO",
+          "url": "https://open.spotify.com/artist/6dQH0tJhjUbIjsGqar870C"
+        },
+        {
+          "name": "Tulipa Ruiz",
+          "url": "https://open.spotify.com/artist/6OokCpvxnYv43WcFqejMLb"
+        },
+        {
+          "name": "Gustavo Ruiz",
+          "url": "https://open.spotify.com/artist/7DWwtWoYH8jhf28tq3118m"
+        },
+        {
+          "name": "Alexandre Orion",
+          "url": "https://open.spotify.com/artist/6P3Qu1SwfnnC9daKX95b4P"
+        },
+        {
+          "name": "Rica Amabis",
+          "url": "https://open.spotify.com/artist/7b77J8nz19BLgFq6F2M4QM"
+        }
+      ],
+      "duration_ms": 167713,
+      "name": "Sou Eu Que Vou Trabalhar",
+      "url": "https://open.spotify.com/track/5hxRffZAkL5cm8Dxltqs9j"
     },
     {
       "added_at": "2024-05-24 03:01:00",

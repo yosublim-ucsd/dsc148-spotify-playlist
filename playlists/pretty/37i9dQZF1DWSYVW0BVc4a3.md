@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYVW0BVc4a3.md) - [plain]
 
 > one life
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,837 likes - 217 songs - 14 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,912 likes - 217 songs - 14 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

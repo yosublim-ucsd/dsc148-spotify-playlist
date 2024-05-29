@@ -4,7 +4,7 @@
 
 > The best of Christian Hip Hop today\.  Cover:  <a href="spotify:artist:0GdzQJqgRL5SHp7kXOKba0">Wande</a> & <a href="spotify:artist:1CFCsEqKrCyvAFKOATQHiW">Lecrae</a>
 
-1,007 songs - 2 day 1 hr 36 min
+1,008 songs - 2 day 1 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,7 @@
 | [Beautiful](https://open.spotify.com/track/4B15esl9pBFYa82fLVPD2H) | [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO) | [Beautiful](https://open.spotify.com/album/3iykAdVTHoLauG1SXi2cEt) | 2:49 | 2022-08-06 | 2023-08-26 |
 | [Been About It](https://open.spotify.com/track/7BmwARA7tuxdIYq59xSDFf) | [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Never Land II](https://open.spotify.com/album/3YB6qDZLtFID4wyBXvVSbL) | 2:21 | 2021-12-11 | 2022-05-29 |
 | [believe](https://open.spotify.com/track/7cwcU3UHeJs4RejjIhDoKt) | [Sajan Nauriyal](https://open.spotify.com/artist/2gJudBgAFdkmKegrBl0yT6) | [believe](https://open.spotify.com/album/0y47M4ia6gXB0QCJ7tz012) | 2:35 | 2022-08-06 | 2023-05-03 |
-| [Believer](https://open.spotify.com/track/0kXufwWYE2M1qB2xWalZRv) | [Shepherd](https://open.spotify.com/artist/0YHuTR40zc9yqfoSSArQxU), [George.Rose](https://open.spotify.com/artist/7AJE27ja4FObVGxuaC5mLr) | [Believer](https://open.spotify.com/album/05EE4iCaUFejExwC1xY7gr) | 2:55 | 2024-02-09 |  |
+| [Believer](https://open.spotify.com/track/0kXufwWYE2M1qB2xWalZRv) | [Shepherd](https://open.spotify.com/artist/0YHuTR40zc9yqfoSSArQxU), [George.Rose](https://open.spotify.com/artist/7AJE27ja4FObVGxuaC5mLr) | [Believer](https://open.spotify.com/album/05EE4iCaUFejExwC1xY7gr) | 2:55 | 2024-02-09 | 2024-05-29 |
 | [Bend The Whip](https://open.spotify.com/track/3ABLULiimnqZkQFTb6QsZh) | [Canon](https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq) | [Bend The Whip](https://open.spotify.com/album/5rwFEKB8GgdsEAbEaWvnWB) | 2:43 | 2023-08-25 |  |
 | [Best I Can](https://open.spotify.com/track/5FE26lUA2lpy8ksOzJ2V5u) | [Common Hymnal](https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN), [Seaux Chill](https://open.spotify.com/artist/1m9azqggcxRtwUD9awNYTV), [Andrew Blooms](https://open.spotify.com/artist/5o17ihVicRuwiD54GBZpt1), [Royce Lovett](https://open.spotify.com/artist/4BKyFlbGn3XvEAXQi3QR9N) | [Best I Can](https://open.spotify.com/album/57JMmTiuiVqE3z8uYKTzaD) | 4:16 | 2022-09-11 | 2022-09-17 |
 | [BEST NIGHT](https://open.spotify.com/track/5gwjlmywKglmE8y4lVBV0j) | [RAY G](https://open.spotify.com/artist/1mGgGsYIUyBrrYQNL9XD5C), [OnBeatMusic](https://open.spotify.com/artist/19DgE5CQNujdohCwPmYddj), [Joey Vantes](https://open.spotify.com/artist/7hJoApA9cwgCqWGvIhbCyc), [A\. Ruiz](https://open.spotify.com/artist/5chrjHIlDZQyVadLbWzgbO) | [BEST NIGHT](https://open.spotify.com/album/4unZ0GkcZuI9qWIdF77eiL) | 2:41 | 2022-05-28 | 2022-10-04 |
@@ -772,6 +772,7 @@
 | [Salvation](https://open.spotify.com/track/6psPHYuC6pYJY3lNrO09lS) | [Leon Anderson](https://open.spotify.com/artist/4qcDnO6xIuo3cY8oUmmBSV) | [NOAH](https://open.spotify.com/album/2wwFwZTOECs3iibPMeAvNX) | 1:42 | 2022-02-04 | 2022-04-28 |
 | [Save Me](https://open.spotify.com/track/6C38lHxz5JPknq7A1xyNIg) | [Patrick McMillan](https://open.spotify.com/artist/4NrPW4DGb9D94qqZFam4NC), [Xay Hill](https://open.spotify.com/artist/6e7kIHb5oTfOJY5IzLyzR6) | [Save Me](https://open.spotify.com/album/6y4waxxiME727LlEzkoItv) | 3:13 | 2022-02-27 | 2022-04-24 |
 | [Saved You Too](https://open.spotify.com/track/0F0DeGGgX48CIeKWRKgdCQ) | [Y Shadey](https://open.spotify.com/artist/2NSMsMCNZzqNA1jlVO9M9t) | [Saved You Too](https://open.spotify.com/album/5HRjNTg2Q3N2OyNR6ISdc9) | 1:58 | 2024-03-15 |  |
+| [Say Amen](https://open.spotify.com/track/3sosZQcjSU01AInKcpk0B9) | [Mike Teezy](https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7) | [Say Amen](https://open.spotify.com/album/3mCGSL8aX3iDk2ZpOwsf72) | 2:44 | 2024-05-24 |  |
 | [SBTN \(feat\. Kirk Franklin\)](https://open.spotify.com/track/5MsaHCrNAwmD0tmkMukqJk) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [SORRY, I CHANGED](https://open.spotify.com/album/2Sc59LMto9B7P3gGRzqTkv) | 3:14 | 2024-04-26 |  |
 | [Scam Likely](https://open.spotify.com/track/3it9fpQ311Eq6LBZITUQDM) | [Torey D'Shaun](https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD), [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4) | [Scam Likely](https://open.spotify.com/album/68iFUTHigpOwePrMZkwWaG) | 2:35 | 2021-12-11 | 2022-02-05 |
 | [SCROLLIN](https://open.spotify.com/track/7uzJb5szU9X1Lq8BpnP88X) | [Torey D'Shaun](https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD) | [SCROLLIN](https://open.spotify.com/album/4GjrHfhXBunATXKvHxfHOz) | 2:52 | 2022-03-05 | 2022-08-07 |

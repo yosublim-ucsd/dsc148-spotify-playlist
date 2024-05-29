@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOLXBOylBUZ.md) - [plain]
 
 > Latinoamérica baila al ritmo de Caleb Calloway, Yandel y Ryan Castro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 512,962 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 513,016 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,13 +12,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOLXBOylBUZ.md) - [plain]
 | 2 | [UN DESEO](https://open.spotify.com/track/2ECSDcH0Fk1yRO5KkVZwKn) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [ESTRELLA](https://open.spotify.com/album/0SoJvPHbKVhvmVJOp3kzp3) | 3:38 |
 | 3 | [Antes de Perderte](https://open.spotify.com/track/4RtPruLRZbyirtJGqYHPQm) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Antes de Perderte](https://open.spotify.com/album/1l6jE76o3QeZOXPt6G5Je7) | 2:56 |
 | 4 | [FP](https://open.spotify.com/track/0wWPgAzbZprVYu4GQEU4UJ) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Sentimiento, Elegancia y Más Maldad](https://open.spotify.com/album/21TAcmAXy0OY0U7B9LlwlY) | 2:51 |
-| 5 | [PULL UP!](https://open.spotify.com/track/6FFuIWkavxpcwxeyZRgXuJ) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [EL ÚLTIMO BAILE](https://open.spotify.com/album/3EWJoKrG9XnCjvAPzkQZ88) | 2:23 |
-| 6 | [CASUALIDAD](https://open.spotify.com/track/3yIyUQXF050PehHtbkgaDu) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [PARAÍSO](https://open.spotify.com/album/7b3PrkHcWx17AQwlI2M1Uc) | 3:03 |
-| 7 | [DEJALO](https://open.spotify.com/track/53D7pcm0U1NmVYYRvgdEdD) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE), [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD) | [BlessDeluxury](https://open.spotify.com/album/0MkMu019XCFwwuL1ftHKmQ) | 3:15 |
-| 8 | [YO KIERO](https://open.spotify.com/track/6r8mkvOm0kK5ACFOuvCezk) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr), [Alan Dazmel](https://open.spotify.com/artist/3C1SUHXW7THF8hkOP7Rekm) | [YO KIERO](https://open.spotify.com/album/2xV0w1VjhgbjUoZzUMUN0R) | 2:32 |
-| 9 | [MIONCA](https://open.spotify.com/track/3UxRvZWhEfSJmNDsbEjKOY) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11) | [MIONCA](https://open.spotify.com/album/3jjWzpGtGBUoMEDduwVvrB) | 3:06 |
-| 10 | [MAMI](https://open.spotify.com/track/1hZVLlcJK9FJ9FLIrUJsCY) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Ñejo](https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o) | [BlessDeluxury](https://open.spotify.com/album/0MkMu019XCFwwuL1ftHKmQ) | 3:28 |
-| 11 | [Demasiado Pa' Mí](https://open.spotify.com/track/3YpyGbVyMcxti6N5FR1z48) | [Esteban Rojas](https://open.spotify.com/artist/680tleL97NcpJiib89V6UU), [FineSound Music](https://open.spotify.com/artist/5AdCHSf1t2Z3WpMUvfkWXh) | [Demasiado Pa' Mí](https://open.spotify.com/album/2BDIWoBmjfRW4dFPMcnT6b) | 2:42 |
+| 5 | [Su Gato](https://open.spotify.com/track/2M0iF6YXLO4VzC1xMmU27U) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [Su Gato](https://open.spotify.com/album/1LIdkdDI8SqYPbdnCJddlF) | 1:56 |
+| 6 | [PULL UP!](https://open.spotify.com/track/6FFuIWkavxpcwxeyZRgXuJ) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [EL ÚLTIMO BAILE](https://open.spotify.com/album/3EWJoKrG9XnCjvAPzkQZ88) | 2:23 |
+| 7 | [CASUALIDAD](https://open.spotify.com/track/3yIyUQXF050PehHtbkgaDu) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [PARAÍSO](https://open.spotify.com/album/7b3PrkHcWx17AQwlI2M1Uc) | 3:03 |
+| 8 | [DEJALO](https://open.spotify.com/track/53D7pcm0U1NmVYYRvgdEdD) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE), [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD) | [BlessDeluxury](https://open.spotify.com/album/0MkMu019XCFwwuL1ftHKmQ) | 3:15 |
+| 9 | [YO KIERO](https://open.spotify.com/track/6r8mkvOm0kK5ACFOuvCezk) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr), [Alan Dazmel](https://open.spotify.com/artist/3C1SUHXW7THF8hkOP7Rekm) | [YO KIERO](https://open.spotify.com/album/2xV0w1VjhgbjUoZzUMUN0R) | 2:32 |
+| 10 | [MIONCA](https://open.spotify.com/track/3UxRvZWhEfSJmNDsbEjKOY) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11) | [MIONCA](https://open.spotify.com/album/3jjWzpGtGBUoMEDduwVvrB) | 3:06 |
+| 11 | [MAMI](https://open.spotify.com/track/1hZVLlcJK9FJ9FLIrUJsCY) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Ñejo](https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o) | [BlessDeluxury](https://open.spotify.com/album/0MkMu019XCFwwuL1ftHKmQ) | 3:28 |
 | 12 | [Ganas](https://open.spotify.com/track/4f5Bw7pvjyCW5mEeyyoKve) | [Maikel Delacalle](https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV) | [Ganas](https://open.spotify.com/album/2atbau8pIwRzcTvSUT7TGu) | 3:57 |
 | 13 | [NO PUEDO CONTROLARME](https://open.spotify.com/track/3iE3Ljkww9IrzbhEpyyj4S) | [DJ Luian](https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD), [Mambo Kingz](https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [No Puedo Controlarme](https://open.spotify.com/album/3TOZQkc7Ga3haeVzyzYRV4) | 3:09 |
 | 14 | [Coquette](https://open.spotify.com/track/6sPKOxspAQdgYVkuwEvBf9) | [Briella](https://open.spotify.com/artist/3ef240gIQOpOu1OaPNYF2b) | [Coquette](https://open.spotify.com/album/73Ez7a0xHO32zMWBYcOIRr) | 2:32 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOLXBOylBUZ.md) - [plain]
 | 99 | [Tú y yo](https://open.spotify.com/track/44f6iQsFMOSYzEbiVQrP4q) | [Pablito Pesadilla](https://open.spotify.com/artist/41vcoPejPG3vv8emJ2R5Ox), [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF), [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy) | [Tú y yo](https://open.spotify.com/album/4E9gLf1UriwtVl3sLBzrYT) | 3:49 |
 | 100 | [Buscando Money](https://open.spotify.com/track/357iDuZ0IXAAg3Aj7UszqO) | [TWENTY SIX](https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P), [Tayson Kryss](https://open.spotify.com/artist/3aIuAAH6qMvKYrtxxF7FF7) | [Buscando Money](https://open.spotify.com/album/2kPKfMNrvUMOFVrFVENqrl) | 2:30 |
 
-Snapshot ID: `ZlAelAAAAAD0CdtKdQO0I0PJ8Fmboa2Y`
+Snapshot ID: `ZlYA2wAAAAD/T73tjyw8vQbM9nx/Cv4U`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: may\-june 2024 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 19,553 likes - 27 songs - 1 hr 14 min
+[margeaux](https://open.spotify.com/user/1220511975) - 19,555 likes - 31 songs - 1 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,10 +30,14 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 20 | [Boy With the Bright Eyes](https://open.spotify.com/track/2r0XYwo9sFmmUFy3K4ZbnE) | [The Shermans](https://open.spotify.com/artist/1ijBXnXG7DX8hUI35tuuT8) | [Happiness Is Toy Shaped](https://open.spotify.com/album/6GwF4YxPAKGaxKpKELs36H) | 2:44 |
 | 21 | [Bright Lit Blue Skies](https://open.spotify.com/track/33R2KZxpZ8nnOihRTHea8s) | [The Rising Storm](https://open.spotify.com/artist/54skrHw57l27U6kIoGlCmG) | [Calm Before...](https://open.spotify.com/album/6A4VmOZWt0GZfdbfhfWXhJ) | 2:31 |
 | 22 | [You Go Where I Go](https://open.spotify.com/track/3GHI7zfOFyQigfGBiJc2Ya) | [Walter Becker](https://open.spotify.com/artist/3yf5bmiturJVzQYIK1QbWX), [Donald Fagen](https://open.spotify.com/artist/0S1SjYebdSaiMpI8xSW2Wb) | [Becker and Fagen \- The Early Years](https://open.spotify.com/album/5IKG0ke9HxlwfB5E8QpJEu) | 2:04 |
-| 23 | [C Is The Heavenly Option](https://open.spotify.com/track/08mk6DH2nTVwlrQTE0Hunr) | [Heavenly](https://open.spotify.com/artist/1sDWIdL18InXgES9TwvsL2), [Calvin Johnson](https://open.spotify.com/artist/4L0x6V9ckwc4QhR069mk9M) | [Le Jardin De Heavenly](https://open.spotify.com/album/0InB1oG08YUmJuztRRoHvK) | 3:21 |
-| 24 | [Multi\-Family Garage Sale \(Bargain\-Bin Mix\)](https://open.spotify.com/track/314KmbRrSXcQHFujzdOr9v) | [Land of the Loops](https://open.spotify.com/artist/0H4Rek6UJ2GpLm5HduQ9uv) | [Bundle of Joy](https://open.spotify.com/album/6c1VIXuJZJBDkmNM236bXt) | 4:15 |
-| 25 | [Fourth of July](https://open.spotify.com/track/3AASTYWf8pLMdBj2ZIAMBx) | [Galaxie 500](https://open.spotify.com/artist/6guTJsgPymDUVfqDJyz5UG) | [This is Our Music](https://open.spotify.com/album/79JBh8OZRmvaC4ORkKB7ou) | 5:38 |
-| 26 | [The Sweetest Gift](https://open.spotify.com/track/6r9jhN0mryXMDKIol3XhO8) | [Sulah Jordan](https://open.spotify.com/artist/2g57r5gsJqgHbLSJ21yy1o) | [The Sweetest Gift](https://open.spotify.com/album/3EaNsumSSiHJvXIN371vuA) | 3:33 |
-| 27 | [On Box Hill](https://open.spotify.com/track/12zeveHIA4DLzT6wzbCeZ3) | [Ben Watt](https://open.spotify.com/artist/4RIOH6XCUt1Xr8NLUj2u66) | [North Marine Drive](https://open.spotify.com/album/4h4SztkCFmYZOQpUD7kLR2) | 2:27 |
+| 23 | [girl in my dreams \(midwest accordion emo\)](https://open.spotify.com/track/2nH5JLiJhlmX9eQTWQ4MsP) | [Anatole Muster](https://open.spotify.com/artist/3wfxadqnYdgo7M31acbDVK) | [Wonderful now](https://open.spotify.com/album/5JbVN9ZS9AV6EG6m9Pc7PF) | 1:46 |
+| 24 | [C Is The Heavenly Option](https://open.spotify.com/track/08mk6DH2nTVwlrQTE0Hunr) | [Heavenly](https://open.spotify.com/artist/1sDWIdL18InXgES9TwvsL2), [Calvin Johnson](https://open.spotify.com/artist/4L0x6V9ckwc4QhR069mk9M) | [Le Jardin De Heavenly](https://open.spotify.com/album/0InB1oG08YUmJuztRRoHvK) | 3:21 |
+| 25 | [Multi\-Family Garage Sale \(Bargain\-Bin Mix\)](https://open.spotify.com/track/314KmbRrSXcQHFujzdOr9v) | [Land of the Loops](https://open.spotify.com/artist/0H4Rek6UJ2GpLm5HduQ9uv) | [Bundle of Joy](https://open.spotify.com/album/6c1VIXuJZJBDkmNM236bXt) | 4:15 |
+| 26 | [Fourth of July](https://open.spotify.com/track/3AASTYWf8pLMdBj2ZIAMBx) | [Galaxie 500](https://open.spotify.com/artist/6guTJsgPymDUVfqDJyz5UG) | [This is Our Music](https://open.spotify.com/album/79JBh8OZRmvaC4ORkKB7ou) | 5:38 |
+| 27 | [The Sweetest Gift](https://open.spotify.com/track/6r9jhN0mryXMDKIol3XhO8) | [Sulah Jordan](https://open.spotify.com/artist/2g57r5gsJqgHbLSJ21yy1o) | [The Sweetest Gift](https://open.spotify.com/album/3EaNsumSSiHJvXIN371vuA) | 3:33 |
+| 28 | [On Box Hill](https://open.spotify.com/track/12zeveHIA4DLzT6wzbCeZ3) | [Ben Watt](https://open.spotify.com/artist/4RIOH6XCUt1Xr8NLUj2u66) | [North Marine Drive](https://open.spotify.com/album/4h4SztkCFmYZOQpUD7kLR2) | 2:27 |
+| 29 | [Burning Bridges](https://open.spotify.com/track/6iETKJUWLiv6zS1GgBVRTe) | [Double Virgo](https://open.spotify.com/artist/6z7qEMTNZigz2k3qozRYw1) | [Foolish Narratives](https://open.spotify.com/album/3U8gnCYmIbi3jioRzZjC0B) | 1:58 |
+| 30 | [Tea Or Coffee](https://open.spotify.com/track/4ZISwlHvOnn5zg9kHZmM7o) | [Gaze](https://open.spotify.com/artist/7nRXUCPuFbA0y7dGZ06Jlq) | [Shake the Pounce](https://open.spotify.com/album/3eMTYeAfSefi2vy5TTbB4Q) | 2:11 |
+| 31 | [Mr\. Oh So Suave & Debonaire](https://open.spotify.com/track/4jnz75XaJDbHDKEkuSz8OM) | [Gaze](https://open.spotify.com/artist/7nRXUCPuFbA0y7dGZ06Jlq) | [Shake the Pounce](https://open.spotify.com/album/3eMTYeAfSefi2vy5TTbB4Q) | 1:40 |
 
-Snapshot ID: `AAAKc/OZKijKqdHIhh8u2tU6XKDcVyW2`
+Snapshot ID: `AAAKeHGYc7XXjlu7B957eiu8XFOJovGv`

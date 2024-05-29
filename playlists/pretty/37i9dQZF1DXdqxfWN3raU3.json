@@ -1,6 +1,6 @@
 {
   "description": "Disfruta del m\u00e1s fino R&B hecho en espa\u00f1ol. Rels B en portada.",
-  "num_followers": 253830,
+  "num_followers": 253868,
   "original_name": "R&B Latino",
   "owner": {
     "name": "Spotify",
@@ -267,22 +267,6 @@
     {
       "added_at": "2024-05-17 06:00:00",
       "album": {
-        "name": "posta",
-        "url": "https://open.spotify.com/album/40qHcVnx8VFQxi9uVzVa4Z"
-      },
-      "artists": [
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        }
-      ],
-      "duration_ms": 121290,
-      "name": "posta",
-      "url": "https://open.spotify.com/track/7gmATHjiYdt4s9lNdji8nj"
-    },
-    {
-      "added_at": "2024-05-17 06:00:00",
-      "album": {
         "name": "111",
         "url": "https://open.spotify.com/album/338cbfABt3duRORfvNeqLT"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 188742,
       "name": "DOM1NGO",
       "url": "https://open.spotify.com/track/7Ec2XdY7cs14ONZMgsDx4K"
+    },
+    {
+      "added_at": "2024-05-17 06:00:00",
+      "album": {
+        "name": "posta",
+        "url": "https://open.spotify.com/album/40qHcVnx8VFQxi9uVzVa4Z"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "duration_ms": 121290,
+      "name": "posta",
+      "url": "https://open.spotify.com/track/7gmATHjiYdt4s9lNdji8nj"
     },
     {
       "added_at": "2024-05-17 06:00:00",
@@ -779,6 +779,26 @@
     {
       "added_at": "2024-05-17 06:00:00",
       "album": {
+        "name": "Mamma Mia",
+        "url": "https://open.spotify.com/album/0hVbBxMS0ZDoxbVd0B8LJa"
+      },
+      "artists": [
+        {
+          "name": "The Limba",
+          "url": "https://open.spotify.com/artist/7LdZqOf4uMeA5vzlI0oza7"
+        },
+        {
+          "name": "Dyce",
+          "url": "https://open.spotify.com/artist/77s8dtx2Y0GfkwgSJDH7pc"
+        }
+      ],
+      "duration_ms": 89791,
+      "name": "Mamma Mia",
+      "url": "https://open.spotify.com/track/69pG13xv6uyE1LynmL2vnk"
+    },
+    {
+      "added_at": "2024-05-17 06:00:00",
+      "album": {
         "name": "real valor",
         "url": "https://open.spotify.com/album/4QTHtqt8GeSHSSGwMwpXU1"
       },
@@ -799,26 +819,6 @@
       "duration_ms": 220000,
       "name": "real valor",
       "url": "https://open.spotify.com/track/7gbYxnKsftWLFaZoDAxxPr"
-    },
-    {
-      "added_at": "2024-05-17 06:00:00",
-      "album": {
-        "name": "Mamma Mia",
-        "url": "https://open.spotify.com/album/0hVbBxMS0ZDoxbVd0B8LJa"
-      },
-      "artists": [
-        {
-          "name": "The Limba",
-          "url": "https://open.spotify.com/artist/7LdZqOf4uMeA5vzlI0oza7"
-        },
-        {
-          "name": "Dyce",
-          "url": "https://open.spotify.com/artist/77s8dtx2Y0GfkwgSJDH7pc"
-        }
-      ],
-      "duration_ms": 89791,
-      "name": "Mamma Mia",
-      "url": "https://open.spotify.com/track/69pG13xv6uyE1LynmL2vnk"
     },
     {
       "added_at": "2024-05-17 06:00:00",
@@ -1479,26 +1479,6 @@
     {
       "added_at": "2024-05-17 06:00:00",
       "album": {
-        "name": "Te Hice Mal (Remix)",
-        "url": "https://open.spotify.com/album/3QJN1KLfND8BJpBRHDPCDk"
-      },
-      "artists": [
-        {
-          "name": "Lui5",
-          "url": "https://open.spotify.com/artist/0gfBmg53uxgAVNEDB23X5n"
-        },
-        {
-          "name": "Micro TDH",
-          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
-        }
-      ],
-      "duration_ms": 269000,
-      "name": "Te Hice Mal (Remix)",
-      "url": "https://open.spotify.com/track/5GScJWskAOiLZz9upeOKaI"
-    },
-    {
-      "added_at": "2024-05-17 06:00:00",
-      "album": {
         "name": "Barco",
         "url": "https://open.spotify.com/album/4kBwg7WWtpNMnm4LfNYXkK"
       },
@@ -1515,6 +1495,26 @@
       "duration_ms": 238000,
       "name": "Barco",
       "url": "https://open.spotify.com/track/2x6pJL7zRMTT4GMLWcUTLL"
+    },
+    {
+      "added_at": "2024-05-17 06:00:00",
+      "album": {
+        "name": "Te Hice Mal (Remix)",
+        "url": "https://open.spotify.com/album/3QJN1KLfND8BJpBRHDPCDk"
+      },
+      "artists": [
+        {
+          "name": "Lui5",
+          "url": "https://open.spotify.com/artist/0gfBmg53uxgAVNEDB23X5n"
+        },
+        {
+          "name": "Micro TDH",
+          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
+        }
+      ],
+      "duration_ms": 269000,
+      "name": "Te Hice Mal (Remix)",
+      "url": "https://open.spotify.com/track/5GScJWskAOiLZz9upeOKaI"
     },
     {
       "added_at": "2024-05-17 06:00:00",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2024-05-17 06:00:00",
       "album": {
-        "name": "Salsa y Clase",
-        "url": "https://open.spotify.com/album/1PYbu1cHo958o2vGgZRYYA"
-      },
-      "artists": [
-        {
-          "name": "Junior Zamora",
-          "url": "https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ"
-        }
-      ],
-      "duration_ms": 222480,
-      "name": "Salsa y Clase",
-      "url": "https://open.spotify.com/track/5LZ2TYePl9ZwKSQpgJ2W7e"
-    },
-    {
-      "added_at": "2024-05-17 06:00:00",
-      "album": {
         "name": "Gotas",
         "url": "https://open.spotify.com/album/76YyNZPRiXT5cyULAqajlB"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 140000,
       "name": "Reflejos",
       "url": "https://open.spotify.com/track/5oqDCwIzUNosjxCoIvkihd"
+    },
+    {
+      "added_at": "2024-05-17 06:00:00",
+      "album": {
+        "name": "Salsa y Clase",
+        "url": "https://open.spotify.com/album/1PYbu1cHo958o2vGgZRYYA"
+      },
+      "artists": [
+        {
+          "name": "Junior Zamora",
+          "url": "https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ"
+        }
+      ],
+      "duration_ms": 222480,
+      "name": "Salsa y Clase",
+      "url": "https://open.spotify.com/track/5LZ2TYePl9ZwKSQpgJ2W7e"
     },
     {
       "added_at": "2024-05-17 06:00:00",
@@ -1707,6 +1707,38 @@
     {
       "added_at": "2024-05-17 06:00:00",
       "album": {
+        "name": "No Fui Solo Yo",
+        "url": "https://open.spotify.com/album/3S79UyK6xDUnMq5N3Nqbio"
+      },
+      "artists": [
+        {
+          "name": "Laura P\u00e9rez",
+          "url": "https://open.spotify.com/artist/6qkgKoO4G9KfVQZAUs3Q58"
+        }
+      ],
+      "duration_ms": 202942,
+      "name": "No Fui Solo Yo",
+      "url": "https://open.spotify.com/track/1dcK53g1EHNpmWlGvt8Mhf"
+    },
+    {
+      "added_at": "2024-05-17 06:00:00",
+      "album": {
+        "name": "Dopamina",
+        "url": "https://open.spotify.com/album/0dEUjKmUXbLnRZUPfpnvVA"
+      },
+      "artists": [
+        {
+          "name": "Joonti",
+          "url": "https://open.spotify.com/artist/15m7tZMQlQ8QHh4eOnzYGj"
+        }
+      ],
+      "duration_ms": 195373,
+      "name": "Dopamina",
+      "url": "https://open.spotify.com/track/4Y9SjgJOMppiqp7GwmW7LS"
+    },
+    {
+      "added_at": "2024-05-17 06:00:00",
+      "album": {
         "name": "dec\u00eddete",
         "url": "https://open.spotify.com/album/4gJIXcAlMbC5yagmVTUgMN"
       },
@@ -1739,38 +1771,6 @@
       "duration_ms": 170000,
       "name": "Malibu",
       "url": "https://open.spotify.com/track/6NO62oYyAyVOAlYbvQCTjN"
-    },
-    {
-      "added_at": "2024-05-17 06:00:00",
-      "album": {
-        "name": "No Fui Solo Yo",
-        "url": "https://open.spotify.com/album/3S79UyK6xDUnMq5N3Nqbio"
-      },
-      "artists": [
-        {
-          "name": "Laura P\u00e9rez",
-          "url": "https://open.spotify.com/artist/6qkgKoO4G9KfVQZAUs3Q58"
-        }
-      ],
-      "duration_ms": 202942,
-      "name": "No Fui Solo Yo",
-      "url": "https://open.spotify.com/track/1dcK53g1EHNpmWlGvt8Mhf"
-    },
-    {
-      "added_at": "2024-05-17 06:00:00",
-      "album": {
-        "name": "Dopamina",
-        "url": "https://open.spotify.com/album/0dEUjKmUXbLnRZUPfpnvVA"
-      },
-      "artists": [
-        {
-          "name": "Joonti",
-          "url": "https://open.spotify.com/artist/15m7tZMQlQ8QHh4eOnzYGj"
-        }
-      ],
-      "duration_ms": 195373,
-      "name": "Dopamina",
-      "url": "https://open.spotify.com/track/4Y9SjgJOMppiqp7GwmW7LS"
     },
     {
       "added_at": "2024-05-17 06:00:00",
@@ -1827,22 +1827,6 @@
     {
       "added_at": "2024-05-17 06:00:00",
       "album": {
-        "name": "Roxanne",
-        "url": "https://open.spotify.com/album/0FG7jxl8cTYpORVr4d5MVo"
-      },
-      "artists": [
-        {
-          "name": "Sofia Thompson",
-          "url": "https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK"
-        }
-      ],
-      "duration_ms": 213993,
-      "name": "A la Mitad (Suceso 1)",
-      "url": "https://open.spotify.com/track/6nrLzFpL4xUclXvJfTaVgN"
-    },
-    {
-      "added_at": "2024-05-17 06:00:00",
-      "album": {
         "name": "OTRA CANCI\u00d3N DE AMOR",
         "url": "https://open.spotify.com/album/0jQHnHYaEr5VvhWV52TeBy"
       },
@@ -1859,22 +1843,42 @@
     {
       "added_at": "2024-05-17 06:00:00",
       "album": {
-        "name": "Running Away",
-        "url": "https://open.spotify.com/album/61e4jD3cr8rPCz1TYDaUFb"
+        "name": "Tus Ojos Me Hablaron",
+        "url": "https://open.spotify.com/album/1DB93h9fw0dyrn9LOoYHeM"
       },
       "artists": [
         {
-          "name": "VAALE MURRA",
-          "url": "https://open.spotify.com/artist/1gQsRZiAMuASJe3qMjyDnd"
+          "name": "Desert Ni\u00f1os",
+          "url": "https://open.spotify.com/artist/2Ch5zHsrWSpgq7g0WI2UFD"
         },
         {
-          "name": "Nevi",
-          "url": "https://open.spotify.com/artist/3KYwV2yzftyYsJCKocAhbM"
+          "name": "Slim Ans",
+          "url": "https://open.spotify.com/artist/4JFse8c35wKHAuzJO9BTqO"
+        },
+        {
+          "name": "Ms. Ambar",
+          "url": "https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA"
         }
       ],
-      "duration_ms": 180565,
-      "name": "Running Away",
-      "url": "https://open.spotify.com/track/1QvmQqljAlV0vdc2N18fI8"
+      "duration_ms": 201290,
+      "name": "Tus Ojos Me Hablaron",
+      "url": "https://open.spotify.com/track/2lwPsHNyohO98CZY0ag3YQ"
+    },
+    {
+      "added_at": "2024-05-17 06:00:00",
+      "album": {
+        "name": "Roxanne",
+        "url": "https://open.spotify.com/album/0FG7jxl8cTYpORVr4d5MVo"
+      },
+      "artists": [
+        {
+          "name": "Sofia Thompson",
+          "url": "https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK"
+        }
+      ],
+      "duration_ms": 213993,
+      "name": "A la Mitad (Suceso 1)",
+      "url": "https://open.spotify.com/track/6nrLzFpL4xUclXvJfTaVgN"
     }
   ],
   "unique_name": "R&B Latino",

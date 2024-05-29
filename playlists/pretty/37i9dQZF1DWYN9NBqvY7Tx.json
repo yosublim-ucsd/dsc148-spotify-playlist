@@ -1,6 +1,6 @@
 {
   "description": "Dance, bass, EDM, trap, phonk: the perfect gaming mix.",
-  "num_followers": 1077703,
+  "num_followers": 1078028,
   "original_name": "Ultra Gaming",
   "owner": {
     "name": "Spotify",
@@ -932,8 +932,8 @@
           "url": "https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN"
         },
         {
-          "name": "Contra",
-          "url": "https://open.spotify.com/artist/73BAwJ65pT6RvwR7JEkfEv"
+          "name": "contra",
+          "url": "https://open.spotify.com/artist/5VYRcaryFLFZnA5HvnRHFi"
         },
         {
           "name": "OFFAIAH",
@@ -1076,7 +1076,7 @@
           "url": "https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI"
         },
         {
-          "name": "Son Of Son",
+          "name": "Son of Son",
           "url": "https://open.spotify.com/artist/4xG5i2Smlt6o5QxuGp9LqM"
         }
       ],
@@ -1755,6 +1755,22 @@
     {
       "added_at": "2024-05-24 00:01:00",
       "album": {
+        "name": "FIRST ENCOUNTER",
+        "url": "https://open.spotify.com/album/4rOqXdpoXvE1PH59Jf88be"
+      },
+      "artists": [
+        {
+          "name": "BOABOA",
+          "url": "https://open.spotify.com/artist/4mKUe5fXczBct2trum2q1o"
+        }
+      ],
+      "duration_ms": 169354,
+      "name": "Boy, Empty",
+      "url": "https://open.spotify.com/track/0SNuOUnmzWghN3oPcaduCA"
+    },
+    {
+      "added_at": "2024-05-24 00:01:00",
+      "album": {
         "name": "Restless",
         "url": "https://open.spotify.com/album/2nLElGgXaPTz8rkB0IwUQu"
       },
@@ -1775,22 +1791,6 @@
       "duration_ms": 205241,
       "name": "Restless",
       "url": "https://open.spotify.com/track/2qcatm1Vvi5io4zmIQc2cp"
-    },
-    {
-      "added_at": "2024-05-24 00:01:00",
-      "album": {
-        "name": "FIRST ENCOUNTER",
-        "url": "https://open.spotify.com/album/4rOqXdpoXvE1PH59Jf88be"
-      },
-      "artists": [
-        {
-          "name": "BOABOA",
-          "url": "https://open.spotify.com/artist/4mKUe5fXczBct2trum2q1o"
-        }
-      ],
-      "duration_ms": 169354,
-      "name": "Boy, Empty",
-      "url": "https://open.spotify.com/track/0SNuOUnmzWghN3oPcaduCA"
     },
     {
       "added_at": "2024-05-24 00:01:00",
@@ -1863,22 +1863,6 @@
     {
       "added_at": "2024-05-24 00:01:00",
       "album": {
-        "name": "Love Is Free",
-        "url": "https://open.spotify.com/album/3veEW05WfqSbHSZWvy6Ftm"
-      },
-      "artists": [
-        {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
-        }
-      ],
-      "duration_ms": 172563,
-      "name": "Love Is Free",
-      "url": "https://open.spotify.com/track/1wGXpLDlQg5ClZ2epImCEc"
-    },
-    {
-      "added_at": "2024-05-24 00:01:00",
-      "album": {
         "name": "Welcome Reality +",
         "url": "https://open.spotify.com/album/1hMXqmEdtxYenRDVm4hEgu"
       },
@@ -1891,6 +1875,22 @@
       "duration_ms": 268706,
       "name": "Promises - Skrillex & Nero Remix",
       "url": "https://open.spotify.com/track/7569Hbv0FUS7vjkdGvdgeZ"
+    },
+    {
+      "added_at": "2024-05-24 00:01:00",
+      "album": {
+        "name": "Love Is Free",
+        "url": "https://open.spotify.com/album/3veEW05WfqSbHSZWvy6Ftm"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        }
+      ],
+      "duration_ms": 172563,
+      "name": "Love Is Free",
+      "url": "https://open.spotify.com/track/1wGXpLDlQg5ClZ2epImCEc"
     },
     {
       "added_at": "2024-05-24 00:01:00",
@@ -1939,6 +1939,22 @@
     {
       "added_at": "2024-05-24 00:01:00",
       "album": {
+        "name": "Level Days",
+        "url": "https://open.spotify.com/album/40Yky457gNkU3chdZUIoTY"
+      },
+      "artists": [
+        {
+          "name": "Conro",
+          "url": "https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ"
+        }
+      ],
+      "duration_ms": 186150,
+      "name": "Therapy",
+      "url": "https://open.spotify.com/track/5q7AR3TkyCxlgxAjBMu4yL"
+    },
+    {
+      "added_at": "2024-05-24 00:01:00",
+      "album": {
         "name": "LMK",
         "url": "https://open.spotify.com/album/0z3SNQSfMGSWS0aKlcuea6"
       },
@@ -1955,22 +1971,6 @@
       "duration_ms": 233532,
       "name": "LMK",
       "url": "https://open.spotify.com/track/4aHqjlibpXrHQ1nlvGJQrA"
-    },
-    {
-      "added_at": "2024-05-24 00:01:00",
-      "album": {
-        "name": "Level Days",
-        "url": "https://open.spotify.com/album/40Yky457gNkU3chdZUIoTY"
-      },
-      "artists": [
-        {
-          "name": "Conro",
-          "url": "https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ"
-        }
-      ],
-      "duration_ms": 186150,
-      "name": "Therapy",
-      "url": "https://open.spotify.com/track/5q7AR3TkyCxlgxAjBMu4yL"
     },
     {
       "added_at": "2024-05-24 00:01:00",
@@ -2019,26 +2019,22 @@
     {
       "added_at": "2024-05-24 00:01:00",
       "album": {
-        "name": "Est-ce que tu m'aimes ?",
-        "url": "https://open.spotify.com/album/0N1QJxB4j1y846Zz7g5Wtq"
+        "name": "Hey Boy Hey Girl (ARTBAT Remix)",
+        "url": "https://open.spotify.com/album/5iPUTw7ZqnL3X53FdUVWmz"
       },
       "artists": [
         {
-          "name": "Fyex",
-          "url": "https://open.spotify.com/artist/7i7ddOIQP0uI3ktGxI0zkM"
+          "name": "The Chemical Brothers",
+          "url": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
         },
         {
-          "name": "Kevin Krissen",
-          "url": "https://open.spotify.com/artist/136IMKXG5a8xUSYuTkCBMI"
-        },
-        {
-          "name": "Hyper Hamster",
-          "url": "https://open.spotify.com/artist/2zEmE2fUy3FPemLS0WI5fM"
+          "name": "ARTBAT",
+          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
         }
       ],
-      "duration_ms": 174620,
-      "name": "Est-ce que tu m'aimes ?",
-      "url": "https://open.spotify.com/track/3alxL5Z2ld9jGeacOJBWBb"
+      "duration_ms": 192380,
+      "name": "Hey Boy Hey Girl - ARTBAT Remix",
+      "url": "https://open.spotify.com/track/6ncIQAyVDdHePrHc8HxIjv"
     }
   ],
   "unique_name": "Ultra Gaming",

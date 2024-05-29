@@ -4,7 +4,7 @@
 
 > Summer 2024 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-376 songs - 16 hr 28 min
+377 songs - 16 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [Flowers](https://open.spotify.com/track/76STLPfFzQgvGnLtIlEoLP) | [Cupido](https://open.spotify.com/artist/4dLhakqpeWIymuJnoGTUfB) | [Flowers](https://open.spotify.com/album/1eyHgzBpAmJeJkzsjaEwvT) | 3:09 | 2024-01-05 | 2024-04-02 |
 | [Fly](https://open.spotify.com/track/5Lwdx5gUegew9hbycRnjSw) | [YVMV](https://open.spotify.com/artist/23iMeGaHEpDoHAojo4JeVy) | [Fly](https://open.spotify.com/album/3pTP6gdMWrJBOPwFZEr5Sa) | 3:00 | 2023-10-27 | 2024-02-03 |
 | [For Life \(feat\. Nile Rodgers\)](https://open.spotify.com/track/4QfikoJtCEiOj7G5R9m3sP) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [For Life \(feat\. Nile Rodgers\)](https://open.spotify.com/album/2Cqf3izEp75CqTKgul5Mi1) | 2:55 | 2024-05-05 |  |
+| [For Life \(feat\. Zak Abel & Nile Rodgers\) \- Vandelux Remix](https://open.spotify.com/track/5qTKHndp6DbjeMGaxbhrCY) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz), [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k) | [For Life \(feat\. Zak Abel & Nile Rodgers\) \[Vandelux Remix\]](https://open.spotify.com/album/3fDanWobscPAjBZhL5hjRk) | 2:54 | 2024-05-28 |  |
 | [Forever Right Now](https://open.spotify.com/track/386xGEhucK6PBV2m79novH) | [Jordan Grace](https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k), [John Skyfield](https://open.spotify.com/artist/6G8Vv979uOK1e7ZBIX2rzp), [HeɅven](https://open.spotify.com/artist/12PufqR6w54uHrEiOkJnzU) | [Forever Right Now](https://open.spotify.com/album/6y6OedMcsikB2qu97QB732) | 2:33 | 2024-01-22 |  |
 | [Forgot About Me](https://open.spotify.com/track/0oDVOmiqG6Ztkslpbaf3xa) | [SITHEA](https://open.spotify.com/artist/3GfjLgEICYvQCBdjVmZZdu) | [Forgot About Me](https://open.spotify.com/album/2DdHPdwBqOH9rf2460wECH) | 1:38 | 2023-09-22 |  |
 | [Free](https://open.spotify.com/track/2Shm6zYtlexG45xAu1oxg8) | [Coffee Cub](https://open.spotify.com/artist/0Vyyyggh3HAUVLxcD4EKLC) | [Free](https://open.spotify.com/album/4mcIn2gp1KgL09URHYYrE8) | 2:03 | 2023-10-13 | 2024-05-13 |

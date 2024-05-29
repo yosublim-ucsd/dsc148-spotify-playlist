@@ -4,7 +4,7 @@
 
 > Himnos de Resistencia: Somos un pueblo fuerte que no se calla.
 
-302 songs - 19 hr 57 min
+303 songs - 20 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Clandestino](https://open.spotify.com/track/51R2M1JgyFfRS3e6v5wCt3) | [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [Clandestino](https://open.spotify.com/album/3xoAUqjKs7Ps7wR26VAMbq) | 2:29 | 2021-09-24 | 2024-04-19 |
 | [Como La Cigarra](https://open.spotify.com/track/6dtum1I7qtvCGiGfZEIwjb) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7) | [Mercedes Sosa En Argentina](https://open.spotify.com/album/5Ryd0KelkcpT5DgEb52JRU) | 2:40 | 2021-09-24 | 2022-07-29 |
 | [Como La Cigarra \- En Directo](https://open.spotify.com/track/17QskQeUQ8Pskjgv5tThIw) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7) | [Mercedes Sosa En Argentina \(En Directo\)](https://open.spotify.com/album/799FvskSrVFc7ZHv8fYfMC) | 2:41 | 2021-09-24 | 2024-04-19 |
+| [Compañera Presidenta](https://open.spotify.com/track/0p8TaudvyXLcM67ORslaSH) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2) | [Compañera Presidenta](https://open.spotify.com/album/5F0eh6cLSaGpGvOznO3m3J) | 3:24 | 2024-05-29 |  |
 | [Compañero](https://open.spotify.com/track/2aMh0NsOZVtCrWI6bwIfa7) | [Ro Casares](https://open.spotify.com/artist/1dApSmavE3SG0RpS3QmdUD), [Colectivo Mambotango](https://open.spotify.com/artist/63MoTorQBXbZKz8P5buw38), [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [De Vuelta a Casa: Ayotzinapa Somos Todxs](https://open.spotify.com/album/3qx8RpeMgbrukkOSRwoLPx) | 3:59 | 2021-09-24 | 2022-07-29 |
 | [Conflicto De Interés](https://open.spotify.com/track/4oJWDZxbMRbWrt7cHPyObu) | [Andrés Volkov](https://open.spotify.com/artist/17JlqqdDMFkn0NLCYCZ3Xw) | [Conflicto De Interés](https://open.spotify.com/album/0nzbwpMH8O4Lc9x7woiGoz) | 4:04 | 2021-09-24 | 2022-07-18 |
 | [Cordillera](https://open.spotify.com/track/3DuoQtlM73ccKP45QV2eXV) | [Alex Anwandter](https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02) | [Amiga](https://open.spotify.com/album/0wqBRC4M43u5UhM7t5PdWN) | 4:21 | 2021-09-24 | 2022-09-09 |
@@ -185,7 +186,7 @@
 | [Mira Alrededor](https://open.spotify.com/track/2zbn6q4kY72aQ75nAFWyts) | [Pancho Villa's Skull](https://open.spotify.com/artist/6X36w7PIMNkT2KsmgfB1eH) | [Gentefication](https://open.spotify.com/album/2UH4upjAkfllNm4AuPMOFQ) | 2:31 | 2021-09-24 | 2022-07-20 |
 | [Moviendo a México](https://open.spotify.com/track/71EIECqjrkQpALXTROZBwN) | [Puerquerama](https://open.spotify.com/artist/2zShkbLw0Y4YxzsOnyeUXH) | [Moviendo a México](https://open.spotify.com/album/7l9vu67Ij9H90urdRvJ60Z) | 4:08 | 2021-09-24 | 2022-07-21 |
 | [Movimiento](https://open.spotify.com/track/7pBoi7yWCPzn3UjeMsGKg6) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Salvavidas de hielo](https://open.spotify.com/album/3wYcE0a2LSxxQF2Rk3Drw0) | 3:51 | 2021-09-24 |  |
-| [Mujer detente](https://open.spotify.com/track/2F9mSzT7MIA9CHswF0b0KB) | [Leiden](https://open.spotify.com/artist/6fvjP4AZ19ce4gwJSr5qnI) | [VOLVER AL CORAZÓN \(Canciones testimoniales compuestas con mujeres en prisión\)](https://open.spotify.com/album/0SI5W9qiOsYDqyCALl8xNT) | 2:40 | 2022-11-18 |  |
+| [Mujer detente](https://open.spotify.com/track/2F9mSzT7MIA9CHswF0b0KB) | [Leiden](https://open.spotify.com/artist/6fvjP4AZ19ce4gwJSr5qnI) | [VOLVER AL CORAZÓN \(Canciones testimoniales compuestas con mujeres en prisión\)](https://open.spotify.com/album/0SI5W9qiOsYDqyCALl8xNT) | 2:40 | 2022-11-18 | 2024-05-29 |
 | [Mujer Luna](https://open.spotify.com/track/7yajyapWJC5cCaEivSORTH) | [Los Aguas Aguas](https://open.spotify.com/artist/6MlrTBeZE2S1lUxSD6x8wG) | [Mujer Luna](https://open.spotify.com/album/7zIZesonqKHbTF189hjCeF) | 3:31 | 2021-09-24 | 2022-07-24 |
 | [Mujeres](https://open.spotify.com/track/0PELaQWHo1MA89JH4lHyRj) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm), [Miau Trío](https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL) | [Mujeres](https://open.spotify.com/album/3NOtXGgprgAE7XcyimuA6P) | 3:35 | 2021-09-24 |  |
 | [Muro](https://open.spotify.com/track/4cF7gqkza1geajoGpRcDzJ) | [The Mexican Standoff](https://open.spotify.com/artist/5FFjAQNzQf5Nnyl0eG2Rts) | [Muro](https://open.spotify.com/album/0uwCGOkks8u8frR8yKisyU) | 2:51 | 2021-09-24 | 2022-07-28 |

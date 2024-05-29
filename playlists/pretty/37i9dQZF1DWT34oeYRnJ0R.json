@@ -1,6 +1,6 @@
 {
   "description": "Just vibes. Cover: Nino Augustine ",
-  "num_followers": 664805,
+  "num_followers": 664794,
   "original_name": "Vibras",
   "owner": {
     "name": "Spotify",
@@ -1567,6 +1567,26 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
+        "name": "Tucu",
+        "url": "https://open.spotify.com/album/6Dm6d8bOCvfHm0VGaU9mpj"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Amarion",
+          "url": "https://open.spotify.com/artist/7Bb4i0RT3zaudzb8KvxTUQ"
+        }
+      ],
+      "duration_ms": 186895,
+      "name": "Tucu",
+      "url": "https://open.spotify.com/track/1YIvYm5d9GnVXR0Q9SUER7"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
         "name": "ALMA</3",
         "url": "https://open.spotify.com/album/68bcjscUFhKvunT391ALub"
       },
@@ -1599,26 +1619,6 @@
       "duration_ms": 168000,
       "name": "BEACHY",
       "url": "https://open.spotify.com/track/7gjnP3VGpnDpCVn3ZzmtvW"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Tucu",
-        "url": "https://open.spotify.com/album/6Dm6d8bOCvfHm0VGaU9mpj"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Amarion",
-          "url": "https://open.spotify.com/artist/7Bb4i0RT3zaudzb8KvxTUQ"
-        }
-      ],
-      "duration_ms": 186895,
-      "name": "Tucu",
-      "url": "https://open.spotify.com/track/1YIvYm5d9GnVXR0Q9SUER7"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -1719,18 +1719,22 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "POEMA A TUS PROBLEMAS",
-        "url": "https://open.spotify.com/album/65eUZ6WDTDo4ZYI1nqXkz5"
+        "name": "Cosmo",
+        "url": "https://open.spotify.com/album/3nEa7WJXcruywRIZXu6qRE"
       },
       "artists": [
         {
-          "name": "legallyrxx",
-          "url": "https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3"
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
         }
       ],
-      "duration_ms": 209857,
-      "name": "POEMA A TUS PROBLEMAS",
-      "url": "https://open.spotify.com/track/2lgB7CCdCU77vCfGOjr96u"
+      "duration_ms": 198126,
+      "name": "Fenti",
+      "url": "https://open.spotify.com/track/2mMagzU9xMGHBHAzD2WSxL"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -1767,18 +1771,18 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Carrusel",
-        "url": "https://open.spotify.com/album/03ZGMticvoqmLHfTJPvuU6"
+        "name": "POEMA A TUS PROBLEMAS",
+        "url": "https://open.spotify.com/album/65eUZ6WDTDo4ZYI1nqXkz5"
       },
       "artists": [
         {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+          "name": "legallyrxx",
+          "url": "https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3"
         }
       ],
-      "duration_ms": 143866,
-      "name": "Carrusel",
-      "url": "https://open.spotify.com/track/2RpDqAVH05D4NIM4IuGtkr"
+      "duration_ms": 209857,
+      "name": "POEMA A TUS PROBLEMAS",
+      "url": "https://open.spotify.com/track/2lgB7CCdCU77vCfGOjr96u"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -1843,6 +1847,22 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
+        "name": "Carrusel",
+        "url": "https://open.spotify.com/album/03ZGMticvoqmLHfTJPvuU6"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 143866,
+      "name": "Carrusel",
+      "url": "https://open.spotify.com/track/2RpDqAVH05D4NIM4IuGtkr"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
         "name": "TRAPPii",
         "url": "https://open.spotify.com/album/1EcwiKaYxKwOWsnju1rwHT"
       },
@@ -1855,22 +1875,6 @@
       "duration_ms": 147391,
       "name": "THROWBACK",
       "url": "https://open.spotify.com/track/76X0sg9YMAfH6P38NMUp6O"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Give Me",
-        "url": "https://open.spotify.com/album/2HWlrn5BF5QknrGcJVBp1Z"
-      },
-      "artists": [
-        {
-          "name": "Bad Gyal",
-          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
-        }
-      ],
-      "duration_ms": 165600,
-      "name": "Give Me",
-      "url": "https://open.spotify.com/track/7apHeqaF1HGOJT7usKHKQJ"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -1891,6 +1895,22 @@
       "duration_ms": 195424,
       "name": "Amor & Paz",
       "url": "https://open.spotify.com/track/5nmEvov5z4ZcARslZ7ClTV"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "Give Me",
+        "url": "https://open.spotify.com/album/2HWlrn5BF5QknrGcJVBp1Z"
+      },
+      "artists": [
+        {
+          "name": "Bad Gyal",
+          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
+        }
+      ],
+      "duration_ms": 165600,
+      "name": "Give Me",
+      "url": "https://open.spotify.com/track/7apHeqaF1HGOJT7usKHKQJ"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -1923,26 +1943,6 @@
       "duration_ms": 147561,
       "name": "For Ya",
       "url": "https://open.spotify.com/track/02qrtIRuwbGgs2wCvdOFme"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Cosmo",
-        "url": "https://open.spotify.com/album/3nEa7WJXcruywRIZXu6qRE"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Jhayco",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        }
-      ],
-      "duration_ms": 198126,
-      "name": "Fenti",
-      "url": "https://open.spotify.com/track/2mMagzU9xMGHBHAzD2WSxL"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -2051,30 +2051,6 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "S\u00edNTOMAS DE SOLTERA",
-        "url": "https://open.spotify.com/album/52LXEHHaMdDqQFhiOhUJ7x"
-      },
-      "artists": [
-        {
-          "name": "Paloma Mami",
-          "url": "https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt"
-        },
-        {
-          "name": "Pailita",
-          "url": "https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb"
-        },
-        {
-          "name": "El Jordan 23",
-          "url": "https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V"
-        }
-      ],
-      "duration_ms": 241908,
-      "name": "S\u00edNTOMAS DE SOLTERA",
-      "url": "https://open.spotify.com/track/2HUQkg5zLJzzwCEcEA3qlv"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
         "name": "Tiempo",
         "url": "https://open.spotify.com/album/7nVcDQMiKAJvKArWWVmlft"
       },
@@ -2103,6 +2079,30 @@
       "duration_ms": 212297,
       "name": "LA CANCI\u00d3N",
       "url": "https://open.spotify.com/track/2wIgWVIyA4bzRW6RmdXMoI"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "S\u00edNTOMAS DE SOLTERA",
+        "url": "https://open.spotify.com/album/52LXEHHaMdDqQFhiOhUJ7x"
+      },
+      "artists": [
+        {
+          "name": "Paloma Mami",
+          "url": "https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt"
+        },
+        {
+          "name": "Pailita",
+          "url": "https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb"
+        },
+        {
+          "name": "El Jordan 23",
+          "url": "https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V"
+        }
+      ],
+      "duration_ms": 241908,
+      "name": "S\u00edNTOMAS DE SOLTERA",
+      "url": "https://open.spotify.com/track/2HUQkg5zLJzzwCEcEA3qlv"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -2628,7 +2628,7 @@
       },
       "artists": [
         {
-          "name": "Farina",
+          "name": "FARIANA",
           "url": "https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90"
         },
         {
@@ -2747,22 +2747,6 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "PALOMINO",
-        "url": "https://open.spotify.com/album/4UElHgLdeGzNnv9d55NYRZ"
-      },
-      "artists": [
-        {
-          "name": "MAGNA",
-          "url": "https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF"
-        }
-      ],
-      "duration_ms": 141714,
-      "name": "PALOMINO",
-      "url": "https://open.spotify.com/track/3cqhuqp6N9D3XoAsL0kCC4"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
         "name": "Mi Shorty",
         "url": "https://open.spotify.com/album/7CATraPa1pNEdL9hQVPodQ"
       },
@@ -2775,6 +2759,22 @@
       "duration_ms": 186200,
       "name": "Mi Shorty",
       "url": "https://open.spotify.com/track/44Rn60e3tDPDAYARpHFoVN"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "PALOMINO",
+        "url": "https://open.spotify.com/album/4UElHgLdeGzNnv9d55NYRZ"
+      },
+      "artists": [
+        {
+          "name": "MAGNA",
+          "url": "https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF"
+        }
+      ],
+      "duration_ms": 141714,
+      "name": "PALOMINO",
+      "url": "https://open.spotify.com/track/3cqhuqp6N9D3XoAsL0kCC4"
     },
     {
       "added_at": "2024-05-17 04:00:00",

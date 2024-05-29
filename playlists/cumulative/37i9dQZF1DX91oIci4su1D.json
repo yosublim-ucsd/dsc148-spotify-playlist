@@ -3472,7 +3472,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-29",
       "duration_ms": 177624,
       "name": "Conscious",
       "url": "https://open.spotify.com/track/1GjVHzIOOA8naSpkSbwQ11"
@@ -6286,6 +6286,28 @@
       "duration_ms": 204852,
       "name": "Freak Of The Week",
       "url": "https://open.spotify.com/track/6ftO5bAiMPsUcRs6fgKWfW"
+    },
+    {
+      "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/4hbH1LtueadTf78xrnRq7B"
+      },
+      "artists": [
+        {
+          "name": "Ruben de Ronde",
+          "url": "https://open.spotify.com/artist/3q7BRw9D1DupXTONJdr94m"
+        },
+        {
+          "name": "BetweenUs",
+          "url": "https://open.spotify.com/artist/2kHgZ7ViQ4qpvADuz1TrlK"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206143,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/42XxS1fl9LZLCQ2uWouJON"
     },
     {
       "album": {

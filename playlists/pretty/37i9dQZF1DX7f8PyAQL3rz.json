@@ -1,6 +1,6 @@
 {
   "description": "nagalli ele me manda a m\u00e1gica",
-  "num_followers": 1384755,
+  "num_followers": 1384830,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
@@ -787,30 +787,6 @@
     {
       "added_at": "2024-05-24 03:03:00",
       "album": {
-        "name": "Embalo",
-        "url": "https://open.spotify.com/album/7gcHlsouDpaTaP1t03ajdj"
-      },
-      "artists": [
-        {
-          "name": "Ryu, The Runner",
-          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
-        },
-        {
-          "name": "Yunk Vino",
-          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
-        },
-        {
-          "name": "Teto",
-          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
-        }
-      ],
-      "duration_ms": 185138,
-      "name": "Embalo",
-      "url": "https://open.spotify.com/track/5cAeyKBtzlQ0EIwPFcIYhT"
-    },
-    {
-      "added_at": "2024-05-24 03:03:00",
-      "album": {
         "name": "10 Carros",
         "url": "https://open.spotify.com/album/1ZakiImfctMIFKkLNIDlcI"
       },
@@ -831,6 +807,30 @@
       "duration_ms": 141176,
       "name": "10 Carros",
       "url": "https://open.spotify.com/track/2twZl1jsRbJRTNCE6VB6eW"
+    },
+    {
+      "added_at": "2024-05-24 03:03:00",
+      "album": {
+        "name": "Embalo",
+        "url": "https://open.spotify.com/album/7gcHlsouDpaTaP1t03ajdj"
+      },
+      "artists": [
+        {
+          "name": "Ryu, The Runner",
+          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
+        },
+        {
+          "name": "Yunk Vino",
+          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
+        },
+        {
+          "name": "Teto",
+          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
+        }
+      ],
+      "duration_ms": 185138,
+      "name": "Embalo",
+      "url": "https://open.spotify.com/track/5cAeyKBtzlQ0EIwPFcIYhT"
     },
     {
       "added_at": "2024-05-24 03:03:00",
@@ -1127,30 +1127,6 @@
     {
       "added_at": "2024-05-24 03:03:00",
       "album": {
-        "name": "01 N\u00e3o \u00c9 02",
-        "url": "https://open.spotify.com/album/2paL9EMEJaM0YAGGHSLvpl"
-      },
-      "artists": [
-        {
-          "name": "Mc Paiva ZS",
-          "url": "https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5"
-        },
-        {
-          "name": "Love Funk",
-          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
-        },
-        {
-          "name": "DJ Ak beats",
-          "url": "https://open.spotify.com/artist/685uhJgfQlrMNuarOzgyea"
-        }
-      ],
-      "duration_ms": 128503,
-      "name": "01 N\u00e3o \u00c9 02",
-      "url": "https://open.spotify.com/track/27ECP9NCzTAoTpxXNePZuS"
-    },
-    {
-      "added_at": "2024-05-24 03:03:00",
-      "album": {
         "name": "O Cara Do Momento, Vol. 2",
         "url": "https://open.spotify.com/album/35C0UUdgV8mkuBaJrxbagf"
       },
@@ -1175,6 +1151,30 @@
       "duration_ms": 168959,
       "name": "Me Chama Pelo Meu Vulgo",
       "url": "https://open.spotify.com/track/31ruhXo3xWYJUfGk1uU77y"
+    },
+    {
+      "added_at": "2024-05-24 03:03:00",
+      "album": {
+        "name": "01 N\u00e3o \u00c9 02",
+        "url": "https://open.spotify.com/album/2paL9EMEJaM0YAGGHSLvpl"
+      },
+      "artists": [
+        {
+          "name": "Mc Paiva ZS",
+          "url": "https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5"
+        },
+        {
+          "name": "Love Funk",
+          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
+        },
+        {
+          "name": "DJ Ak beats",
+          "url": "https://open.spotify.com/artist/685uhJgfQlrMNuarOzgyea"
+        }
+      ],
+      "duration_ms": 128503,
+      "name": "01 N\u00e3o \u00c9 02",
+      "url": "https://open.spotify.com/track/27ECP9NCzTAoTpxXNePZuS"
     },
     {
       "added_at": "2024-05-24 03:03:00",
@@ -1411,6 +1411,26 @@
     {
       "added_at": "2024-05-24 03:03:00",
       "album": {
+        "name": "ECL\u00c9TICO - LADO A",
+        "url": "https://open.spotify.com/album/4i0io4utlMTWVPKc7N11QY"
+      },
+      "artists": [
+        {
+          "name": "MC PH",
+          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
+        },
+        {
+          "name": "Murillo e LT no Beat",
+          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
+        }
+      ],
+      "duration_ms": 215172,
+      "name": "Giro Louco",
+      "url": "https://open.spotify.com/track/0mqExnIKHsI11Xdvy6eE8V"
+    },
+    {
+      "added_at": "2024-05-24 03:03:00",
+      "album": {
         "name": "RICKNELSO",
         "url": "https://open.spotify.com/album/2eKGskEpGoKMBahXHpM8ZR"
       },
@@ -1435,54 +1455,6 @@
       "duration_ms": 165230,
       "name": "L\u00e1 no PPG",
       "url": "https://open.spotify.com/track/6Oj0oJD4feRnzrAbcYqURl"
-    },
-    {
-      "added_at": "2024-05-24 03:03:00",
-      "album": {
-        "name": "Disposi\u00e7\u00e3o e Atividade",
-        "url": "https://open.spotify.com/album/4pEQ7i96Nba9nCoa1VmtUU"
-      },
-      "artists": [
-        {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
-        },
-        {
-          "name": "Wall Hein",
-          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
-        },
-        {
-          "name": "Caio Passos",
-          "url": "https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di"
-        },
-        {
-          "name": "Yokame",
-          "url": "https://open.spotify.com/artist/4IEFTmI2K5xj488kIn268F"
-        }
-      ],
-      "duration_ms": 164874,
-      "name": "Disposi\u00e7\u00e3o e Atividade",
-      "url": "https://open.spotify.com/track/1IZmGrAEkq98MxDQCYhtjJ"
-    },
-    {
-      "added_at": "2024-05-24 03:03:00",
-      "album": {
-        "name": "ECL\u00c9TICO - LADO A",
-        "url": "https://open.spotify.com/album/4i0io4utlMTWVPKc7N11QY"
-      },
-      "artists": [
-        {
-          "name": "MC PH",
-          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
-        },
-        {
-          "name": "Murillo e LT no Beat",
-          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
-        }
-      ],
-      "duration_ms": 215172,
-      "name": "Giro Louco",
-      "url": "https://open.spotify.com/track/0mqExnIKHsI11Xdvy6eE8V"
     },
     {
       "added_at": "2024-05-24 03:03:00",
@@ -1519,34 +1491,30 @@
     {
       "added_at": "2024-05-24 03:03:00",
       "album": {
-        "name": "Set Ajc 2",
-        "url": "https://open.spotify.com/album/2VRQVQ9NcCHudz62D5a2Lm"
+        "name": "Disposi\u00e7\u00e3o e Atividade",
+        "url": "https://open.spotify.com/album/4pEQ7i96Nba9nCoa1VmtUU"
       },
       "artists": [
         {
-          "name": "Ajuliacosta",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
         },
         {
-          "name": "iamlope$$",
-          "url": "https://open.spotify.com/artist/2wT7Qe4IArSitWcIKqa7CZ"
+          "name": "Wall Hein",
+          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
         },
         {
-          "name": "Duquesa",
-          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
+          "name": "Caio Passos",
+          "url": "https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di"
         },
         {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "LAI$ROSA",
-          "url": "https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw"
+          "name": "Yokame",
+          "url": "https://open.spotify.com/artist/4IEFTmI2K5xj488kIn268F"
         }
       ],
-      "duration_ms": 265234,
-      "name": "Set Ajc 2",
-      "url": "https://open.spotify.com/track/2QidZpzobGL0Mhmq25oKdK"
+      "duration_ms": 164874,
+      "name": "Disposi\u00e7\u00e3o e Atividade",
+      "url": "https://open.spotify.com/track/1IZmGrAEkq98MxDQCYhtjJ"
     },
     {
       "added_at": "2024-05-24 03:03:00",
@@ -1575,6 +1543,38 @@
       "duration_ms": 150616,
       "name": "Disk P@#$%&!",
       "url": "https://open.spotify.com/track/6X8aYB2eFCge9jpkgjecPR"
+    },
+    {
+      "added_at": "2024-05-24 03:03:00",
+      "album": {
+        "name": "Set Ajc 2",
+        "url": "https://open.spotify.com/album/2VRQVQ9NcCHudz62D5a2Lm"
+      },
+      "artists": [
+        {
+          "name": "Ajuliacosta",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "iamlope$$",
+          "url": "https://open.spotify.com/artist/2wT7Qe4IArSitWcIKqa7CZ"
+        },
+        {
+          "name": "Duquesa",
+          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
+        },
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "LAI$ROSA",
+          "url": "https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw"
+        }
+      ],
+      "duration_ms": 265234,
+      "name": "Set Ajc 2",
+      "url": "https://open.spotify.com/track/2QidZpzobGL0Mhmq25oKdK"
     },
     {
       "added_at": "2024-05-24 03:03:00",
@@ -1727,38 +1727,6 @@
     {
       "added_at": "2024-05-24 03:03:00",
       "album": {
-        "name": "Clickbait",
-        "url": "https://open.spotify.com/album/4ICMUPXh8IwNeBvQoUpWSZ"
-      },
-      "artists": [
-        {
-          "name": "Veigh",
-          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
-        },
-        {
-          "name": "Niink",
-          "url": "https://open.spotify.com/artist/6MQ7E3HXWR3Djm3miL79mn"
-        },
-        {
-          "name": "Bvga Beatz",
-          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
-        },
-        {
-          "name": "Supernova Ent",
-          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
-        },
-        {
-          "name": "JHXW",
-          "url": "https://open.spotify.com/artist/6DsMACWhJ5AgWLkZA2f5BV"
-        }
-      ],
-      "duration_ms": 161344,
-      "name": "Clickbait",
-      "url": "https://open.spotify.com/track/5qOZbLAjBqInXwAECb9NRS"
-    },
-    {
-      "added_at": "2024-05-24 03:03:00",
-      "album": {
         "name": "Ballena",
         "url": "https://open.spotify.com/album/6mAOToMxK4q1TfcJlqIJlz"
       },
@@ -1787,6 +1755,38 @@
       "duration_ms": 200000,
       "name": "Ballena",
       "url": "https://open.spotify.com/track/0NkOJBVzL0MaU3JgqJRtkv"
+    },
+    {
+      "added_at": "2024-05-24 03:03:00",
+      "album": {
+        "name": "Clickbait",
+        "url": "https://open.spotify.com/album/4ICMUPXh8IwNeBvQoUpWSZ"
+      },
+      "artists": [
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        },
+        {
+          "name": "Niink",
+          "url": "https://open.spotify.com/artist/6MQ7E3HXWR3Djm3miL79mn"
+        },
+        {
+          "name": "Bvga Beatz",
+          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        },
+        {
+          "name": "JHXW",
+          "url": "https://open.spotify.com/artist/6DsMACWhJ5AgWLkZA2f5BV"
+        }
+      ],
+      "duration_ms": 161344,
+      "name": "Clickbait",
+      "url": "https://open.spotify.com/track/5qOZbLAjBqInXwAECb9NRS"
     },
     {
       "added_at": "2024-05-24 03:03:00",

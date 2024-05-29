@@ -1,6 +1,6 @@
 {
   "description": "El futuro est\u00e1 ac\u00e1.",
-  "num_followers": 52463,
+  "num_followers": 52468,
   "original_name": "RADAR Al Sur",
   "owner": {
     "name": "Spotify",
@@ -76,16 +76,16 @@
       },
       "artists": [
         {
-          "name": "Q' Lokura",
-          "url": "https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y"
-        },
-        {
           "name": "Valentino Merlo",
           "url": "https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6"
+        },
+        {
+          "name": "Q' Lokura",
+          "url": "https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y"
         }
       ],
       "duration_ms": 180385,
-      "name": "Tu Foto",
+      "name": "Tu Foto - En Vivo",
       "url": "https://open.spotify.com/track/3cWo162YkfLIFyB3DWbVoH"
     },
     {

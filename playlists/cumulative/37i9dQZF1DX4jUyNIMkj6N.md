@@ -4,7 +4,7 @@
 
 > The very best in Scandifolk \- from Icelandic blues rock to Norwegicana.
 
-290 songs - 17 hr 45 min
+291 songs - 17 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Breathe](https://open.spotify.com/track/38Mg9q2em0bT8pJaguYh3i) | [Real Ones](https://open.spotify.com/artist/3GqqLI4qwyKvL4rOxM0Uym) | [Breathe](https://open.spotify.com/album/1MWU1W7jPAvasm97wTowWO) | 4:13 | 2022-12-08 | 2023-01-25 |
 | [Brick by Brick](https://open.spotify.com/track/4bhQUsObZYGGtiZPe2kGYN) | [August Green](https://open.spotify.com/artist/4ZoIkqWHz47n5xuIfVbncu) | [Brick by Brick](https://open.spotify.com/album/2MyNPpaEbiLzjwXkMrjIfz) | 3:38 | 2023-11-23 |  |
 | [Bright Lights](https://open.spotify.com/track/2HbDSISON7nWNdnUhaRPDA) | [Unnveig Aas](https://open.spotify.com/artist/1Oa2BGrI6B0GvKabXDU9Se) | [Love EP](https://open.spotify.com/album/483bq5roSleMjKuPlIxEcp) | 3:19 | 2021-12-02 | 2022-07-28 |
+| [Broken Road](https://open.spotify.com/track/3U68FhkqgAVLxCR1s7aoD4) | [Niila](https://open.spotify.com/artist/25PzS3ToWjTF5cznfaYpFq) | [Broken Road](https://open.spotify.com/album/1fB4KhlQ5k3sPXwV1PJcE3) | 3:22 | 2024-05-23 |  |
 | [Brother](https://open.spotify.com/track/210qO1uNPiBhwNThR8MYW7) | [Real Ones](https://open.spotify.com/artist/3GqqLI4qwyKvL4rOxM0Uym) | [Brother](https://open.spotify.com/album/2Fy0aW2a5YWnHVdZQDGIOC) | 3:58 | 2022-10-06 | 2023-02-01 |
 | [Bråtebrann](https://open.spotify.com/track/2dzVpK8VpDFO9icFxoOMBr) | [Moddi](https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM) | [Bråtebrann](https://open.spotify.com/album/6DMFNBhXpJOPFpa6KqT6CF) | 2:28 | 2021-12-02 | 2023-04-11 |
 | [Buffy](https://open.spotify.com/track/1o1lWEJ1xqwIb5v6Y04R8p) | [Jenny Hval](https://open.spotify.com/artist/5eerVxtb9lY9p6D7m89Bs7) | [Buffy](https://open.spotify.com/album/5T6jp4vbCQNAQ51q6ob9HU) | 3:02 | 2022-11-17 | 2023-07-14 |
@@ -80,7 +81,7 @@
 | [Down the Line](https://open.spotify.com/track/2dXdGxduPkeL00oHwN4jss) | [Selma & Gustaf](https://open.spotify.com/artist/0tUfqypVbl1m19xo9T9yUL) | [Down the Line](https://open.spotify.com/album/61WmoOg3iTGiykw3xfMpB7) | 4:21 | 2024-03-14 |  |
 | [Dreamer](https://open.spotify.com/track/4t4uVzI6aDiMw2cEzQWVFI) | [Frøkedal](https://open.spotify.com/artist/7uTDwdxKfkZtEfjpofiYwr) | [Flora Kuriosa](https://open.spotify.com/album/2nIvNjwpTUfptECJWNHArk) | 3:03 | 2021-12-02 | 2022-07-29 |
 | [Early Summer Rain](https://open.spotify.com/track/44Weew9zeqTPmGujEIFXnh) | [August Flendahl](https://open.spotify.com/artist/2YdblFMUbUSxdwFNffi7ct) | [Early Summer Rain](https://open.spotify.com/album/41rw0yKJcpUla5orniwd45) | 2:50 | 2022-08-18 |  |
-| [Echoes](https://open.spotify.com/track/5YMEMDmLVnDqvLUirzLRqu) | [Fay Wildhagen](https://open.spotify.com/artist/7lu3ibFfJWrm1X1eLLRz2P) | [Echoes](https://open.spotify.com/album/638VM8l8718I1qj9MlXILl) | 3:47 | 2024-01-11 |  |
+| [Echoes](https://open.spotify.com/track/5YMEMDmLVnDqvLUirzLRqu) | [Fay Wildhagen](https://open.spotify.com/artist/7lu3ibFfJWrm1X1eLLRz2P) | [Echoes](https://open.spotify.com/album/638VM8l8718I1qj9MlXILl) | 3:47 | 2024-01-11 | 2024-05-29 |
 | [Ei ny tid](https://open.spotify.com/track/2tK1DxbYpBl4x5sp7wJJFi) | [Moddi](https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM) | [Bråtebrann](https://open.spotify.com/album/2KZF4X0awI3SD4xY8tWVzP) | 2:26 | 2022-03-24 |  |
 | [Elver](https://open.spotify.com/track/7JFl6iRLynsTPvxWtLswVl) | [Menke](https://open.spotify.com/artist/56fiEsX7uP1maw2NajHZXJ) | [Elver](https://open.spotify.com/album/00meFMAVQIUMGv8eHp55uG) | 4:27 | 2024-01-11 | 2024-04-28 |
 | [Emmylou \- Spotify Sessions](https://open.spotify.com/track/7exdcu9SmgcrZ7hW9ZdcYo) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Spotify Sessions](https://open.spotify.com/album/0YneOS1OMqNFfnOTtccqwv) | 5:04 | 2021-12-02 |  |

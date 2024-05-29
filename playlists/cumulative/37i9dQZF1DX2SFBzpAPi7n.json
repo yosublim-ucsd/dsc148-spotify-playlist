@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: SUHO(\uc218\ud638)) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: Wussami(\uc6b0\uc8fc\uc655\ubcf5\uc120\uc2f8\uc774\ub4dc\ubbf8\ub7ec)) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "Cool K'IDs Rock",
   "tracks": [
     {
@@ -2581,6 +2581,24 @@
     },
     {
       "album": {
+        "name": "DRACULAGIRL",
+        "url": "https://open.spotify.com/album/4TS8IjpBrSsmDMIoBjOyWC"
+      },
+      "artists": [
+        {
+          "name": "Wussami",
+          "url": "https://open.spotify.com/artist/5Pvtm8orj8G3ZpQQ3My3mi"
+        }
+      ],
+      "date_added": "2024-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219608,
+      "name": "DRACULAGIRL",
+      "url": "https://open.spotify.com/track/7GbVHPxzSf6exEgkuOaHan"
+    },
+    {
+      "album": {
         "name": "Dream",
         "url": "https://open.spotify.com/album/5IpCJICE3ZYfiT3bigsFfj"
       },
@@ -2650,7 +2668,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-29",
       "duration_ms": 244986,
       "name": "Drowning",
       "url": "https://open.spotify.com/track/4xeugB5MqWh0jwvXZPxahq"

@@ -1,12 +1,12 @@
 {
   "description": "This Is Belinda. Los temas esenciales, todos en una lista.",
-  "num_followers": 66119,
+  "num_followers": 66148,
   "original_name": "This Is Belinda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlJ7gAAAAAD4KRcGpNaJFGS3KOVW3rgJ",
+  "snapshot_id": "ZlPNAAAAAACq35SxpS1rbzSu+jGvd5e3",
   "tracks": [
     {
       "added_at": null,
@@ -91,6 +91,30 @@
       "duration_ms": 165230,
       "name": "LAS 12",
       "url": "https://open.spotify.com/track/0EpdLuptraYGFZ6J7HNSLc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Ni\u00f1a",
+        "url": "https://open.spotify.com/album/1hFRQRNjiMSWgH5xyEiVme"
+      },
+      "artists": [
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        },
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        },
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 204414,
+      "name": "La Ni\u00f1a de la Escuela",
+      "url": "https://open.spotify.com/track/1g4cZvi0nLeeIycd0Rkljj"
     },
     {
       "added_at": null,
@@ -1139,26 +1163,6 @@
       "duration_ms": 174626,
       "name": "Contigo Siempre",
       "url": "https://open.spotify.com/track/4hrKrgSeEil3uXvgouZLhd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mariana - C\u00f3mplices Al Rescate",
-        "url": "https://open.spotify.com/album/38qQ0oqb7OSqY81SImVonp"
-      },
-      "artists": [
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        },
-        {
-          "name": "Fabian",
-          "url": "https://open.spotify.com/artist/58H2qYmztJOMUVn3WpxRa2"
-        }
-      ],
-      "duration_ms": 210120,
-      "name": "Sabes",
-      "url": "https://open.spotify.com/track/0VE5zICWUYK2h3rj587KDY"
     }
   ],
   "unique_name": "This Is Belinda",

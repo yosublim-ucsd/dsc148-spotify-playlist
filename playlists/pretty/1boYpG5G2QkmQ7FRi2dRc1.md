@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1boYpG5G2QkmQ7FRi2dRc1.md) - [plain]
 
 > A weekly selection of tracks that I love to listen to at home or play out at a party.
 
-[Martin Garrix](https://open.spotify.com/user/martingarrix) - 292,625 likes - 31 songs - 1 hr 36 min
+[Martin Garrix](https://open.spotify.com/user/martingarrix) - 292,612 likes - 31 songs - 1 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/1boYpG5G2QkmQ7FRi2dRc1.md) - [plain]
 | 8 | [GET UP](https://open.spotify.com/track/4ctWoGhGaw8mwgF3fwn3gr) | [Merow](https://open.spotify.com/artist/43goRyUiLUUbt0QXpfcU8p) | [GET UP](https://open.spotify.com/album/5ff7DSLlZzySv5O852661B) | 2:24 |
 | 9 | [Free Jam \(feat\. Kathy Brown\)](https://open.spotify.com/track/03BBAdsDn4j5ZjmlKyol3q) | [Groove Armada](https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ), [Kathy Brown](https://open.spotify.com/artist/1dYwUvGX41uwyOuabIEJUq) | [Free Jam EP](https://open.spotify.com/album/0Co0cFsKWJfnCvzaK7hXBd) | 3:11 |
 | 10 | [Believe](https://open.spotify.com/track/55bRlRgB1055cuJ0xnvo8R) | [Third Party](https://open.spotify.com/artist/2J80qXI4NHKpq5RT3xUF7V) | [Believe](https://open.spotify.com/album/0gdOg7Dga6Mf0LiDZxWGmk) | 3:31 |
-| 11 | [Push](https://open.spotify.com/track/29OFLlrrfKIEVwbVMTjBYe) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg), [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN), [Contra](https://open.spotify.com/artist/73BAwJ65pT6RvwR7JEkfEv), [OFFAIAH](https://open.spotify.com/artist/2E1NFr5AeEGUJkLUUsWCAO) | [Push](https://open.spotify.com/album/3GSEVlHrbrQbKSP4ozWzx8) | 3:05 |
+| 11 | [Push](https://open.spotify.com/track/29OFLlrrfKIEVwbVMTjBYe) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg), [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN), [contra](https://open.spotify.com/artist/5VYRcaryFLFZnA5HvnRHFi), [OFFAIAH](https://open.spotify.com/artist/2E1NFr5AeEGUJkLUUsWCAO) | [Push](https://open.spotify.com/album/3GSEVlHrbrQbKSP4ozWzx8) | 3:05 |
 | 12 | [Hey Boy Hey Girl \- ARTBAT Remix](https://open.spotify.com/track/6ncIQAyVDdHePrHc8HxIjv) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo), [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1) | [Hey Boy Hey Girl \(ARTBAT Remix\)](https://open.spotify.com/album/5iPUTw7ZqnL3X53FdUVWmz) | 3:12 |
 | 13 | [VAMP](https://open.spotify.com/track/3pLHiqgGuqPWfEQ8VNzfzy) | [Sikdope](https://open.spotify.com/artist/3EXfNuPuR3OFEdlyoSutcG), [Blinders](https://open.spotify.com/artist/26JVnujQQ3lEML8t9p3X1J) | [VAMP](https://open.spotify.com/album/2ACQijrKIUqQO2dI6Qcv0Q) | 3:01 |
 | 14 | [Addicted \- Zerb Acid VIP](https://open.spotify.com/track/4iezPr4cPTjAbrcDLoQx4X) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [ADDICTED: REFRESHED](https://open.spotify.com/album/5WvdQ0rXunG7ZDLneivLio) | 3:09 |

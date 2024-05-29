@@ -1,6 +1,6 @@
 {
   "description": "Metalcore at its finest. Cover: The Plot In You",
-  "num_followers": 926201,
+  "num_followers": 926308,
   "original_name": "The Core",
   "owner": {
     "name": "Spotify",
@@ -171,6 +171,22 @@
     {
       "added_at": "2024-05-10 04:20:40",
       "album": {
+        "name": "MAGNETIC",
+        "url": "https://open.spotify.com/album/1bzrE6x00bz3Q5TVizybfy"
+      },
+      "artists": [
+        {
+          "name": "Wage War",
+          "url": "https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6"
+        }
+      ],
+      "duration_ms": 192729,
+      "name": "MAGNETIC",
+      "url": "https://open.spotify.com/track/784C7AyqUuTQNvJxigMZTS"
+    },
+    {
+      "added_at": "2024-05-10 04:20:40",
+      "album": {
         "name": "HOUSE ON SAND (feat. Eric V. of I Prevail)",
         "url": "https://open.spotify.com/album/6rxuvZ6hUgbhEH1J4wrcXu"
       },
@@ -195,22 +211,6 @@
     {
       "added_at": "2024-05-10 04:20:40",
       "album": {
-        "name": "MAGNETIC",
-        "url": "https://open.spotify.com/album/1bzrE6x00bz3Q5TVizybfy"
-      },
-      "artists": [
-        {
-          "name": "Wage War",
-          "url": "https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6"
-        }
-      ],
-      "duration_ms": 192729,
-      "name": "MAGNETIC",
-      "url": "https://open.spotify.com/track/784C7AyqUuTQNvJxigMZTS"
-    },
-    {
-      "added_at": "2024-05-10 04:20:40",
-      "album": {
         "name": "Numb",
         "url": "https://open.spotify.com/album/6QHccEtF5S0WqUsraPvziw"
       },
@@ -227,22 +227,6 @@
     {
       "added_at": "2024-05-10 04:20:40",
       "album": {
-        "name": "Epitaph",
-        "url": "https://open.spotify.com/album/2xCkPvQQX7GcUiwIu495v9"
-      },
-      "artists": [
-        {
-          "name": "Make Them Suffer",
-          "url": "https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT"
-        }
-      ],
-      "duration_ms": 217025,
-      "name": "Epitaph",
-      "url": "https://open.spotify.com/track/3zABOvRWEmMhtoyRqUawVS"
-    },
-    {
-      "added_at": "2024-05-10 04:20:40",
-      "album": {
         "name": "Conflict",
         "url": "https://open.spotify.com/album/4duvgcgX88O1QzeoGl0DuE"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 144000,
       "name": "Conflict",
       "url": "https://open.spotify.com/track/7cMIJjvNrSxkLBoo7SnAvw"
+    },
+    {
+      "added_at": "2024-05-10 04:20:40",
+      "album": {
+        "name": "Epitaph",
+        "url": "https://open.spotify.com/album/2xCkPvQQX7GcUiwIu495v9"
+      },
+      "artists": [
+        {
+          "name": "Make Them Suffer",
+          "url": "https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT"
+        }
+      ],
+      "duration_ms": 217025,
+      "name": "Epitaph",
+      "url": "https://open.spotify.com/track/3zABOvRWEmMhtoyRqUawVS"
     },
     {
       "added_at": "2024-05-10 04:20:40",
@@ -487,22 +487,6 @@
     {
       "added_at": "2024-05-10 04:20:40",
       "album": {
-        "name": "CURE",
-        "url": "https://open.spotify.com/album/34Je91rVQYAoPcGqfpcdd5"
-      },
-      "artists": [
-        {
-          "name": "ERRA",
-          "url": "https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0"
-        }
-      ],
-      "duration_ms": 247573,
-      "name": "Slow Sour Bleed",
-      "url": "https://open.spotify.com/track/4OxMtvwZb8Ke1z4uIwEaKr"
-    },
-    {
-      "added_at": "2024-05-10 04:20:40",
-      "album": {
         "name": "Meat & Greet",
         "url": "https://open.spotify.com/album/0EDJSn1GinJHCk2jE8DiMp"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 210559,
       "name": "Meat & Greet",
       "url": "https://open.spotify.com/track/4GxFq0SoA0QOsocHvtHIvL"
+    },
+    {
+      "added_at": "2024-05-10 04:20:40",
+      "album": {
+        "name": "CURE",
+        "url": "https://open.spotify.com/album/34Je91rVQYAoPcGqfpcdd5"
+      },
+      "artists": [
+        {
+          "name": "ERRA",
+          "url": "https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0"
+        }
+      ],
+      "duration_ms": 247573,
+      "name": "Slow Sour Bleed",
+      "url": "https://open.spotify.com/track/4OxMtvwZb8Ke1z4uIwEaKr"
     },
     {
       "added_at": "2024-05-10 04:20:40",
@@ -955,22 +955,6 @@
     {
       "added_at": "2024-05-10 04:20:40",
       "album": {
-        "name": "Wash It Away",
-        "url": "https://open.spotify.com/album/4WNRKcQakjSUvjbw9lVF7c"
-      },
-      "artists": [
-        {
-          "name": "The Ghost Inside",
-          "url": "https://open.spotify.com/artist/6kQB2RN7WwryMdJ1MoQh1E"
-        }
-      ],
-      "duration_ms": 214710,
-      "name": "Wash It Away",
-      "url": "https://open.spotify.com/track/6IMtQCeUaVg4K6pyk3LyBi"
-    },
-    {
-      "added_at": "2024-05-10 04:20:40",
-      "album": {
         "name": "Murder8",
         "url": "https://open.spotify.com/album/3iv3lzt8M01kjeGLR4dV9G"
       },
@@ -991,22 +975,6 @@
     {
       "added_at": "2024-05-10 04:20:40",
       "album": {
-        "name": "Crawl Backwards Out of Heaven",
-        "url": "https://open.spotify.com/album/23e3BsmlALgWjiHwAPsJIw"
-      },
-      "artists": [
-        {
-          "name": "ERRA",
-          "url": "https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0"
-        }
-      ],
-      "duration_ms": 202933,
-      "name": "Crawl Backwards Out of Heaven",
-      "url": "https://open.spotify.com/track/0X7rvyf0HWOfNQMHytQQqr"
-    },
-    {
-      "added_at": "2024-05-10 04:20:40",
-      "album": {
         "name": "Vertigo",
         "url": "https://open.spotify.com/album/5gjdJGvhsqHk1kI9rTTnhV"
       },
@@ -1019,6 +987,38 @@
       "duration_ms": 219759,
       "name": "Vertigo",
       "url": "https://open.spotify.com/track/6v9xDRtGAWrGO4ceRPadoo"
+    },
+    {
+      "added_at": "2024-05-10 04:20:40",
+      "album": {
+        "name": "The Welcome Party",
+        "url": "https://open.spotify.com/album/0TFqOFS9sPHJqmL5cSTQ1X"
+      },
+      "artists": [
+        {
+          "name": "Greyhaven",
+          "url": "https://open.spotify.com/artist/1zmx3NwOp6vR4qEjmhSiLL"
+        }
+      ],
+      "duration_ms": 210880,
+      "name": "The Welcome Party",
+      "url": "https://open.spotify.com/track/0SlmKiPJ4GpSPq6rnMLBSq"
+    },
+    {
+      "added_at": "2024-05-10 04:20:40",
+      "album": {
+        "name": "Wash It Away",
+        "url": "https://open.spotify.com/album/4WNRKcQakjSUvjbw9lVF7c"
+      },
+      "artists": [
+        {
+          "name": "The Ghost Inside",
+          "url": "https://open.spotify.com/artist/6kQB2RN7WwryMdJ1MoQh1E"
+        }
+      ],
+      "duration_ms": 214710,
+      "name": "Wash It Away",
+      "url": "https://open.spotify.com/track/6IMtQCeUaVg4K6pyk3LyBi"
     },
     {
       "added_at": "2024-05-10 04:20:40",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2024-05-10 04:20:40",
       "album": {
+        "name": "Crawl Backwards Out of Heaven",
+        "url": "https://open.spotify.com/album/23e3BsmlALgWjiHwAPsJIw"
+      },
+      "artists": [
+        {
+          "name": "ERRA",
+          "url": "https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0"
+        }
+      ],
+      "duration_ms": 202933,
+      "name": "Crawl Backwards Out of Heaven",
+      "url": "https://open.spotify.com/track/0X7rvyf0HWOfNQMHytQQqr"
+    },
+    {
+      "added_at": "2024-05-10 04:20:40",
+      "album": {
         "name": "Abyss Pt I",
         "url": "https://open.spotify.com/album/2Cn410HpyiPrDfUbAV8fg4"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 234932,
       "name": "Ultraviolet",
       "url": "https://open.spotify.com/track/4WQjkKYfMU5E6UI6WYzsok"
-    },
-    {
-      "added_at": "2024-05-10 04:20:40",
-      "album": {
-        "name": "The Welcome Party",
-        "url": "https://open.spotify.com/album/0TFqOFS9sPHJqmL5cSTQ1X"
-      },
-      "artists": [
-        {
-          "name": "Greyhaven",
-          "url": "https://open.spotify.com/artist/1zmx3NwOp6vR4qEjmhSiLL"
-        }
-      ],
-      "duration_ms": 210880,
-      "name": "The Welcome Party",
-      "url": "https://open.spotify.com/track/0SlmKiPJ4GpSPq6rnMLBSq"
     },
     {
       "added_at": "2024-05-10 04:20:40",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2024-05-10 04:20:40",
       "album": {
+        "name": "The Pact",
+        "url": "https://open.spotify.com/album/02DTRsOLnUl6syGJ6lzmj4"
+      },
+      "artists": [
+        {
+          "name": "Revnoir",
+          "url": "https://open.spotify.com/artist/6Jnxg5O26hXfwfbRSMzVuB"
+        }
+      ],
+      "duration_ms": 217500,
+      "name": "The Pact",
+      "url": "https://open.spotify.com/track/65vY8anCVpjrERrN4vzZ13"
+    },
+    {
+      "added_at": "2024-05-10 04:20:40",
+      "album": {
         "name": "Dreamlike",
         "url": "https://open.spotify.com/album/5vrOVj0dYdmEuhXT6cY6jW"
       },
@@ -1215,22 +1231,6 @@
       "duration_ms": 211000,
       "name": "Castaway",
       "url": "https://open.spotify.com/track/5M6DHWW8omQHWg7Oyx0HAB"
-    },
-    {
-      "added_at": "2024-05-10 04:20:40",
-      "album": {
-        "name": "The Pact",
-        "url": "https://open.spotify.com/album/02DTRsOLnUl6syGJ6lzmj4"
-      },
-      "artists": [
-        {
-          "name": "Revnoir",
-          "url": "https://open.spotify.com/artist/6Jnxg5O26hXfwfbRSMzVuB"
-        }
-      ],
-      "duration_ms": 217500,
-      "name": "The Pact",
-      "url": "https://open.spotify.com/track/65vY8anCVpjrERrN4vzZ13"
     },
     {
       "added_at": "2024-05-10 04:20:40",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2024-05-10 04:20:40",
       "album": {
-        "name": "Limitless",
-        "url": "https://open.spotify.com/album/4nCEePCITdLSbq32U5bEwO"
-      },
-      "artists": [
-        {
-          "name": "Any Given Day",
-          "url": "https://open.spotify.com/artist/4p6RoajGbtqLSfYZpFxHyU"
-        }
-      ],
-      "duration_ms": 208235,
-      "name": "Limitless",
-      "url": "https://open.spotify.com/track/2ymlRQX0M06wDpzsCxXaxj"
-    },
-    {
-      "added_at": "2024-05-10 04:20:40",
-      "album": {
         "name": "Dark Waves",
         "url": "https://open.spotify.com/album/0BZeEi4o7PFTP1s6HHK2ud"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 222571,
       "name": "Dark Waves",
       "url": "https://open.spotify.com/track/3yRHVvzkDd8g6GkQzCycYj"
+    },
+    {
+      "added_at": "2024-05-10 04:20:40",
+      "album": {
+        "name": "Limitless",
+        "url": "https://open.spotify.com/album/4nCEePCITdLSbq32U5bEwO"
+      },
+      "artists": [
+        {
+          "name": "Any Given Day",
+          "url": "https://open.spotify.com/artist/4p6RoajGbtqLSfYZpFxHyU"
+        }
+      ],
+      "duration_ms": 208235,
+      "name": "Limitless",
+      "url": "https://open.spotify.com/track/2ymlRQX0M06wDpzsCxXaxj"
     },
     {
       "added_at": "2024-05-10 04:20:40",
@@ -1791,22 +1791,6 @@
     {
       "added_at": "2024-05-10 04:20:40",
       "album": {
-        "name": "Red Wine And Discontent",
-        "url": "https://open.spotify.com/album/3ywk7LvbM9ZZEHBb2pD5mz"
-      },
-      "artists": [
-        {
-          "name": "SeeYouSpaceCowboy...",
-          "url": "https://open.spotify.com/artist/7CFS5X96xBaJft4QdzTTC1"
-        }
-      ],
-      "duration_ms": 213710,
-      "name": "Red Wine And Discontent",
-      "url": "https://open.spotify.com/track/51f9t6WzsI3EJJ9bYVwzeW"
-    },
-    {
-      "added_at": "2024-05-10 04:20:40",
-      "album": {
         "name": "Half Living Things",
         "url": "https://open.spotify.com/album/1j7zqEn1vwEA5yfGnRdq9q"
       },
@@ -1819,6 +1803,22 @@
       "duration_ms": 253388,
       "name": "Whenever You're Ready",
       "url": "https://open.spotify.com/track/67IofcurxzjTsqgzhUatrZ"
+    },
+    {
+      "added_at": "2024-05-10 04:20:40",
+      "album": {
+        "name": "Red Wine And Discontent",
+        "url": "https://open.spotify.com/album/3ywk7LvbM9ZZEHBb2pD5mz"
+      },
+      "artists": [
+        {
+          "name": "SeeYouSpaceCowboy...",
+          "url": "https://open.spotify.com/artist/7CFS5X96xBaJft4QdzTTC1"
+        }
+      ],
+      "duration_ms": 213710,
+      "name": "Red Wine And Discontent",
+      "url": "https://open.spotify.com/track/51f9t6WzsI3EJJ9bYVwzeW"
     },
     {
       "added_at": "2024-05-10 04:20:40",

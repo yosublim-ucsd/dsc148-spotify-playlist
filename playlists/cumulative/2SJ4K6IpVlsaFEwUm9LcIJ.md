@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to: may\-june 2024 \(previous playlists archived on my profile\)
 
-168 songs - 8 hr 37 min
+172 songs - 8 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Blank Time](https://open.spotify.com/track/1aXDrYTE5igJKUygBgrPWN) | [Wishy](https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe) | [Paradise](https://open.spotify.com/album/1EBcd6IpMnfXVOpTOG4fO2) | 3:57 | 2024-03-22 | 2024-05-16 |
 | [Boy With the Bright Eyes](https://open.spotify.com/track/2r0XYwo9sFmmUFy3K4ZbnE) | [The Shermans](https://open.spotify.com/artist/1ijBXnXG7DX8hUI35tuuT8) | [Happiness Is Toy Shaped](https://open.spotify.com/album/6GwF4YxPAKGaxKpKELs36H) | 2:44 | 2024-05-20 |  |
 | [Bright Lit Blue Skies](https://open.spotify.com/track/33R2KZxpZ8nnOihRTHea8s) | [The Rising Storm](https://open.spotify.com/artist/54skrHw57l27U6kIoGlCmG) | [Calm Before...](https://open.spotify.com/album/6A4VmOZWt0GZfdbfhfWXhJ) | 2:31 | 2024-05-22 |  |
+| [Burning Bridges](https://open.spotify.com/track/6iETKJUWLiv6zS1GgBVRTe) | [Double Virgo](https://open.spotify.com/artist/6z7qEMTNZigz2k3qozRYw1) | [Foolish Narratives](https://open.spotify.com/album/3U8gnCYmIbi3jioRzZjC0B) | 1:58 | 2024-05-28 |  |
 | [burnt out star](https://open.spotify.com/track/0FyUHfRwEPegqwLpiTcjUd) | [Immortal Wound](https://open.spotify.com/artist/48f43rxWbm2XTh3wwn7bag) | [burnt out star](https://open.spotify.com/album/71ithxlGE6Sup2JT3AMOhD) | 2:37 | 2024-03-20 | 2024-05-16 |
 | [By the Mark](https://open.spotify.com/track/7vZ499OwlWTpddvdXXb0VF) | [Gillian Welch](https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz) | [Revival](https://open.spotify.com/album/2rQnb3cAjCW49K3sA7xaep) | 3:40 | 2024-04-13 | 2024-05-16 |
 | [C Is The Heavenly Option](https://open.spotify.com/track/08mk6DH2nTVwlrQTE0Hunr) | [Heavenly](https://open.spotify.com/artist/1sDWIdL18InXgES9TwvsL2), [Calvin Johnson](https://open.spotify.com/artist/4L0x6V9ckwc4QhR069mk9M) | [Le Jardin De Heavenly](https://open.spotify.com/album/0InB1oG08YUmJuztRRoHvK) | 3:21 | 2024-05-24 |  |
@@ -74,6 +75,7 @@
 | [Gates of Heaven](https://open.spotify.com/track/21S8jPbABB05vCFFwuyXGS) | [Horse Jumper of Love](https://open.spotify.com/artist/6U1lmwvy3I9dIYu9RalJi6) | [Gates of Heaven / Snake Eyes \(again\)](https://open.spotify.com/album/6Ek7TQ6Halv6mbhuzRuvcZ) | 2:22 | 2024-03-11 | 2024-05-16 |
 | [Gift](https://open.spotify.com/track/7FgePu0nqCf8rkafQOeHV7) | [Tujiko Noriko](https://open.spotify.com/artist/7n9eKttEekbKaDErD29u7l) | [Solo](https://open.spotify.com/album/72GG3m2QVQ4pQ5Ipi07oO4) | 5:01 | 2024-02-02 | 2024-03-10 |
 | [Giftbearer](https://open.spotify.com/track/0klcGedsbrNB2hx6YN8pJJ) | [Bruce Cockburn](https://open.spotify.com/artist/4sh4MHP7lhrSUakxwZzwqz) | [In The Falling Dark](https://open.spotify.com/album/60VKXUmkuvPBIbahpkgqMD) | 4:41 | 2024-01-09 | 2024-03-10 |
+| [girl in my dreams \(midwest accordion emo\)](https://open.spotify.com/track/2nH5JLiJhlmX9eQTWQ4MsP) | [Anatole Muster](https://open.spotify.com/artist/3wfxadqnYdgo7M31acbDVK) | [Wonderful now](https://open.spotify.com/album/5JbVN9ZS9AV6EG6m9Pc7PF) | 1:46 | 2024-05-28 |  |
 | [Glaze](https://open.spotify.com/track/4jkRnUuBruxsBxwGvljLTe) | [Hook\-Ups](https://open.spotify.com/artist/6FMudRfeeTt2SB4g7mIgDk) | [Glaze](https://open.spotify.com/album/6vQc9oS4OPg5QKkXZ5DvLA) | 3:09 | 2024-01-05 | 2024-03-10 |
 | [Gmaps](https://open.spotify.com/track/0lMhNqruBNotSF05zdntaC) | [cowboyy](https://open.spotify.com/artist/65TVwNWUoKyfvlaxLLJQGh) | [Epic The Movie](https://open.spotify.com/album/6u4N8jsC3u7IYr7esQPICq) | 2:16 | 2024-04-18 | 2024-05-16 |
 | [Go Ahead](https://open.spotify.com/track/076CVTJ4mGoEROAnTtAQj2) | [Gap Dream](https://open.spotify.com/artist/1yZc7JDNtiB3ztNtCupSKq) | [Gap Dream](https://open.spotify.com/album/2uLgmG9rR2rrm0lLxgUJey) | 2:22 | 2024-01-05 | 2024-03-10 |
@@ -110,6 +112,7 @@
 | [Microtronics 20](https://open.spotify.com/track/1AmWCQ6yHUOnWb0wKwhzaa) | [Broadcast](https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU) | [Microtronics \- Volumes 1 & 2](https://open.spotify.com/album/3nk4c7gVqXNGzkCiVvpLQx) | 1:35 | 2024-04-18 | 2024-05-16 |
 | [Mint](https://open.spotify.com/track/0RYwEPSvf7KSj5YI0VA72t) | [Cola](https://open.spotify.com/artist/1KCSUZBJy1bAsIz7wUYkd8) | [Deep in View](https://open.spotify.com/album/6xCiTaBETJXjbRP68e7g0P) | 3:23 | 2024-01-08 | 2024-03-10 |
 | [Moon Like a Pearl](https://open.spotify.com/track/2KkuQ32WtE9ImerVSnUWk5) | [Pia Fraus](https://open.spotify.com/artist/15cjYStG6SRmTS9d5wNVxT) | [Wonder What It's Like](https://open.spotify.com/album/4iIEtjfL8Xdyt0MglEJFTD) | 2:06 | 2024-03-09 | 2024-05-16 |
+| [Mr\. Oh So Suave & Debonaire](https://open.spotify.com/track/4jnz75XaJDbHDKEkuSz8OM) | [Gaze](https://open.spotify.com/artist/7nRXUCPuFbA0y7dGZ06Jlq) | [Shake the Pounce](https://open.spotify.com/album/3eMTYeAfSefi2vy5TTbB4Q) | 1:40 | 2024-05-29 |  |
 | [Multi\-Family Garage Sale \(Bargain\-Bin Mix\)](https://open.spotify.com/track/314KmbRrSXcQHFujzdOr9v) | [Land of the Loops](https://open.spotify.com/artist/0H4Rek6UJ2GpLm5HduQ9uv) | [Bundle of Joy](https://open.spotify.com/album/6c1VIXuJZJBDkmNM236bXt) | 4:15 | 2024-05-24 |  |
 | [My Head Falls Softly](https://open.spotify.com/track/2vWT6FckKmNnsT0IafgQ78) | [Kitty Craft](https://open.spotify.com/artist/5mmXz0LCVnPbgHcZ7KBJlj) | [Catskills](https://open.spotify.com/album/3ZBm3ZogFDZusSwJooRf1c) | 4:23 | 2024-04-18 | 2024-05-16 |
 | [MyLoveILove 12](https://open.spotify.com/track/5j109YHsQvawuVrm45qwDc) | [Bogdan Raczynski](https://open.spotify.com/artist/2bYCvT1nqpbbspU5DZG5nA) | [MyLoveILove](https://open.spotify.com/album/5ifjWl35H9cFxw1NcIzopE) | 1:36 | 2024-04-18 | 2024-05-16 |
@@ -159,6 +162,7 @@
 | [Sunny](https://open.spotify.com/track/7LQDZxNGroDz0eg0Vyb2av) | [Blue Bendy](https://open.spotify.com/artist/7Fv9bX6Oy7AhbhKXh5dgIG) | [So Medieval](https://open.spotify.com/album/5gpglBxq454hY07XTJpJ5C) | 1:46 | 2024-05-16 |  |
 | [Tape 27 Track 5](https://open.spotify.com/track/4yDWhQvxgjHElaMgdELmZx) | [Ahmed Malek](https://open.spotify.com/artist/1F5NAWDKvoYJU3mEZQUFsB), [Natureboy Flako](https://open.spotify.com/artist/41gy1E3ZlSK5KOjiDiqgmH) | [The Electronic Tapes \(Habibi Funk 005\)](https://open.spotify.com/album/7x2uLqFMqaviXJ3sf4E01J) | 1:38 | 2024-01-08 | 2024-03-10 |
 | [Target](https://open.spotify.com/track/0pC0qIpSTvptjrCSg0p9Gq) | [Rui Gabriel](https://open.spotify.com/artist/1LhAwMWCGYmplvmnZmvoDz), [Kate Teague](https://open.spotify.com/artist/5yNcIZz69fYkSRhiGoFx8T) | [Target](https://open.spotify.com/album/3ZbLs2qH6lDnDbEnNmsYYv) | 4:59 | 2024-02-23 | 2024-03-10 |
+| [Tea Or Coffee](https://open.spotify.com/track/4ZISwlHvOnn5zg9kHZmM7o) | [Gaze](https://open.spotify.com/artist/7nRXUCPuFbA0y7dGZ06Jlq) | [Shake the Pounce](https://open.spotify.com/album/3eMTYeAfSefi2vy5TTbB4Q) | 2:11 | 2024-05-29 |  |
 | [The Beat Of Black Wings](https://open.spotify.com/track/2DyQKUqKUpOFV3Fs3ijW9Q) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Chalk Mark In A Rain Storm](https://open.spotify.com/album/2qVwLFYnUbFT8kbl27uZ1J) | 5:24 | 2024-03-25 | 2024-04-25 |
 | [The Duke Of Burgundy](https://open.spotify.com/track/5FCJpFKaJrPrXy8YyK9vBG) | [Cat's Eyes](https://open.spotify.com/artist/6DdzNsmghFtH7toJKhQfF6) | [The Duke Of Burgundy \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3L2QXOFpMeZaU2xxJXZPur) | 2:18 | 2024-05-16 |  |
 | [The Farmer](https://open.spotify.com/track/540dXWvRAQjXmg4gvhjxET) | [The Good Ones](https://open.spotify.com/artist/7rIF4gQrWPRDL020SG2eKD) | [RWANDA, you should be loved](https://open.spotify.com/album/35TaKsgwSCeVEH7Zq8fsfG) | 2:43 | 2024-02-27 | 2024-03-10 |

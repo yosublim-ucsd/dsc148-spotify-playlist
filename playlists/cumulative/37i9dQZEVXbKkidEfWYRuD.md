@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Ukraine.
 
-1,495 songs - 2 day 21 hr 31 min
+1,496 songs - 2 day 21 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -838,7 +838,8 @@
 | [Балконы](https://open.spotify.com/track/6GQFqCYz9zVWCg0pDdSSP1) | [Max Korzh](https://open.spotify.com/artist/5meD8C7oGK5yUEY2T7ZZ7W) | [Психи попадают в топ](https://open.spotify.com/album/1P6SeYoLzFyj0tBhSxK3t1) | 4:39 | 2021-12-18 | 2021-12-24 |
 | [баночка с окурками](https://open.spotify.com/track/7j6eSKC2Hv3lcElPyR1bP3) | [КОСМОНАВТОВ НЕТ](https://open.spotify.com/artist/2rRyviUwWAHYmzyVzmXWpZ) | [1+1=11](https://open.spotify.com/album/2MjE1xXSjJQVbqOusXdRQI) | 2:42 | 2022-01-06 | 2022-03-25 |
 | [Бар за баром](https://open.spotify.com/track/2EJZw3QSNQS1LSIQMTd2TQ) | [Анна Трінчер](https://open.spotify.com/artist/71Lczal1i7u1Emcp0UfY9E) | [Бар за баром](https://open.spotify.com/album/1Q6PmLZZ13aQQ4jWr9sELF) | 2:17 | 2024-04-24 | 2024-05-14 |
-| [Барабан](https://open.spotify.com/track/0sv5dBy1hGWXCVR1fI9Vbd) | [Artem Pivovarov](https://open.spotify.com/artist/11sIz9STeD6yVSuBaD8nMW), [Klavdia Petrivna](https://open.spotify.com/artist/5BwbVAdT6rFF2vGVE8su2y) | [Барабан](https://open.spotify.com/album/1iemYoEiON96kgPkMXuLqF) | 3:10 | 2024-04-26 |  |
+| [Барабан](https://open.spotify.com/track/0sv5dBy1hGWXCVR1fI9Vbd) | [Artem Pivovarov](https://open.spotify.com/artist/11sIz9STeD6yVSuBaD8nMW), [Klavdia Petrivna](https://open.spotify.com/artist/5BwbVAdT6rFF2vGVE8su2y) | [Барабан](https://open.spotify.com/album/1iemYoEiON96kgPkMXuLqF) | 3:10 | 2024-04-26 | 2024-05-29 |
+| [Барабан](https://open.spotify.com/track/2WeoEwj67HCAR2QULKnql6) | [Artem Pivovarov](https://open.spotify.com/artist/11sIz9STeD6yVSuBaD8nMW), [Klavdia Petrivna](https://open.spotify.com/artist/5BwbVAdT6rFF2vGVE8su2y) | [THE BEST](https://open.spotify.com/album/0IYlHtB8Mvf8d445ocJFB9) | 3:10 | 2024-05-28 |  |
 | [Барбисайз](https://open.spotify.com/track/1AMf9lmFOmLmb0e57QB78e) | [Дора](https://open.spotify.com/artist/2eiThpX5zH6LFmqP2HY1hL), [MAYBE BABY](https://open.spotify.com/artist/2u3ZpvdeLOLg3mIvQg0jZh) | [Барбисайз](https://open.spotify.com/album/3ONBhOKlsQ6MTyaWlM7EJE) | 3:04 | 2021-12-16 | 2022-03-14 |
 | [Барбисайз](https://open.spotify.com/track/2qsXes5vZabYIFqqYCP1Hs) | [Дора](https://open.spotify.com/artist/2eiThpX5zH6LFmqP2HY1hL), [MAYBE BABY](https://open.spotify.com/artist/2u3ZpvdeLOLg3mIvQg0jZh) | [MISS](https://open.spotify.com/album/2umHPKn2Mggn9RUqT8beQy) | 3:04 | 2022-06-04 | 2022-06-06 |
 | [БАС](https://open.spotify.com/track/43vEJEFIUdbxNOJehmIMLu) | [White Queen](https://open.spotify.com/artist/5p7nalNcqxK0NfexzkjTvs) | [БАС](https://open.spotify.com/album/1VLg4eFVRi8mxaSO0i06W9) | 1:52 | 2024-03-31 | 2024-04-02 |

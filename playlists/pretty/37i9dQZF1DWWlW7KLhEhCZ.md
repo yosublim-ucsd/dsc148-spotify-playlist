@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Abbot
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,909 likes - 75 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,911 likes - 75 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [coisas que me lembram de você](https://open.spotify.com/track/7IAdd7xPjF6EUEYGoWgiOQ) | [Kweller](https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07), [Enzo Cello](https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU), [Sotam](https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l), [OGBEATZZ](https://open.spotify.com/artist/15v6FcwjMytlEEhsG6mcLU), [C4](https://open.spotify.com/artist/7t9bGpLWk0sIxMZjL0NdZU) | [TRÊS2](https://open.spotify.com/album/2J97EXryA6yvyAK9y5ZOqH) | 2:47 |
+| 1 | [coisas que me lembram de você](https://open.spotify.com/track/7IAdd7xPjF6EUEYGoWgiOQ) | [Kweller](https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07), [Enzo Cello](https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU), [Sotam](https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l), [OGBEATZZ](https://open.spotify.com/artist/15v6FcwjMytlEEhsG6mcLU), [c4](https://open.spotify.com/artist/52IfKVHb6UVghCxOoKhYxw) | [TRÊS2](https://open.spotify.com/album/2J97EXryA6yvyAK9y5ZOqH) | 2:47 |
 | 2 | [ei mô](https://open.spotify.com/track/5xYbR943WcIBxiGDZKNuxz) | [G.A](https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE), [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw), [Slaasty](https://open.spotify.com/artist/5f1o3wuKLKC2X4qz3P18f1), [Azin](https://open.spotify.com/artist/2JypXtaUBCwZgyHcrVYruu) | [sua vez de escutar](https://open.spotify.com/album/4osDSPHvkroyYR8qdfdqxq) | 3:21 |
 | 3 | [Outra Vez](https://open.spotify.com/track/3dlJbCPE0fPtXCgmSwPd8u) | [Celo1st](https://open.spotify.com/artist/6RC5tRbakJ46EExHuPmxzK), [GUZ'](https://open.spotify.com/artist/6qfyniwgtYmjHxNTtJ0hKH), [G.A](https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE) | [Outra Vez](https://open.spotify.com/album/7Mm54Cl19ex1Hg0ZJ4pSj7) | 2:31 |
 | 4 | [CÂMERA LENTA](https://open.spotify.com/track/0xDEgXt5rP6I5uwJoFk0kR) | [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw), [Ryu, The Runner](https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [MAGIC SHOW](https://open.spotify.com/album/5lxnAXkn1mXv4LQSrnVtGW) | 2:54 |

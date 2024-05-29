@@ -1,12 +1,12 @@
 {
-  "description": "This is Jimi Hendrix. The essential tracks, all in one playlist.",
-  "num_followers": 304955,
+  "description": "This Is Jimi Hendrix. Los temas esenciales, todos en una lista.",
+  "num_followers": 304975,
   "original_name": "This Is Jimi Hendrix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlJ7gAAAAAAXkY2lrzQUiRVn3tUIHe8c",
+  "snapshot_id": "ZlPNAAAAAADk6EFwHAvQ95xjIBUekv1e",
   "tracks": [
     {
       "added_at": null,
@@ -23,22 +23,6 @@
       "duration_ms": 145746,
       "name": "Little Wing",
       "url": "https://open.spotify.com/track/1Eolhana7nKHYpcYpdVcT5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Electric Ladyland",
-        "url": "https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 240800,
-      "name": "All Along the Watchtower",
-      "url": "https://open.spotify.com/track/2aoo2jlRnM3A0NyLQqMN2f"
     },
     {
       "added_at": null,
@@ -75,54 +59,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Axis: Bold As Love",
-        "url": "https://open.spotify.com/album/3uFZf8rykoHo7XMIQVYW6r"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 183320,
-      "name": "Spanish Castle Magic",
-      "url": "https://open.spotify.com/track/2KFE98Iw0X23sf4vJYcbLH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Electric Ladyland",
-        "url": "https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 146573,
-      "name": "Crosstown Traffic",
-      "url": "https://open.spotify.com/track/1ntxpzIUbSsizvuAy6lTYY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Are You Experienced",
-        "url": "https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 170813,
-      "name": "Purple Haze",
-      "url": "https://open.spotify.com/track/0wJoRiX5K5BxlqZTolB2LD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Cry of Love",
         "url": "https://open.spotify.com/album/7ykAHaoptbCYaO0HAjpgcL"
       },
@@ -148,25 +84,9 @@
           "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
         }
       ],
-      "duration_ms": 221826,
-      "name": "One Rainy Wish",
-      "url": "https://open.spotify.com/track/5Zyv0v4rPcrXjkaeImuodv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Electric Ladyland",
-        "url": "https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 130039,
-      "name": "Have You Ever Been (To Electric Ladyland)",
-      "url": "https://open.spotify.com/track/3Yh64aiu2ANBwDFztyPDkT"
+      "duration_ms": 168920,
+      "name": "Castles Made of Sand",
+      "url": "https://open.spotify.com/track/3qebSLgUwaEqbwCM5sj5Kh"
     },
     {
       "added_at": null,
@@ -180,9 +100,25 @@
           "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
         }
       ],
-      "duration_ms": 200733,
-      "name": "The Wind Cries Mary",
-      "url": "https://open.spotify.com/track/5H6Jp0syB5yEPk7SWYdlmk"
+      "duration_ms": 170813,
+      "name": "Purple Haze",
+      "url": "https://open.spotify.com/track/0wJoRiX5K5BxlqZTolB2LD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Electric Ladyland",
+        "url": "https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 223680,
+      "name": "Gypsy Eyes",
+      "url": "https://open.spotify.com/track/1DfWmv1eJU1a9tuGpqKGFP"
     },
     {
       "added_at": null,
@@ -199,6 +135,38 @@
       "duration_ms": 341800,
       "name": "Hear My Train a Comin'",
       "url": "https://open.spotify.com/track/4DmBVImaIhE3RyNvbtZTTz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Axis: Bold As Love",
+        "url": "https://open.spotify.com/album/3uFZf8rykoHo7XMIQVYW6r"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 183320,
+      "name": "Spanish Castle Magic",
+      "url": "https://open.spotify.com/track/2KFE98Iw0X23sf4vJYcbLH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Are You Experienced",
+        "url": "https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 200733,
+      "name": "The Wind Cries Mary",
+      "url": "https://open.spotify.com/track/5H6Jp0syB5yEPk7SWYdlmk"
     },
     {
       "added_at": null,
@@ -228,9 +196,25 @@
           "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
         }
       ],
-      "duration_ms": 223680,
-      "name": "Gypsy Eyes",
-      "url": "https://open.spotify.com/track/1DfWmv1eJU1a9tuGpqKGFP"
+      "duration_ms": 249373,
+      "name": "Come On (Let the Good Times Roll)",
+      "url": "https://open.spotify.com/track/0KqHJXm4Z42fELkW83ZW0r"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Axis: Bold As Love",
+        "url": "https://open.spotify.com/album/3uFZf8rykoHo7XMIQVYW6r"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 221826,
+      "name": "One Rainy Wish",
+      "url": "https://open.spotify.com/track/5Zyv0v4rPcrXjkaeImuodv"
     },
     {
       "added_at": null,
@@ -251,22 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Axis: Bold As Love",
-        "url": "https://open.spotify.com/album/3uFZf8rykoHo7XMIQVYW6r"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 108373,
-      "name": "Ain't No Telling",
-      "url": "https://open.spotify.com/track/1ToNKcpVRTxzAgRiywifMt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Both Sides of the Sky",
         "url": "https://open.spotify.com/album/0EfHWQeb3T1UJw9KrqN407"
       },
@@ -283,8 +251,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Electric Ladyland",
-        "url": "https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ"
+        "name": "People, Hell & Angels",
+        "url": "https://open.spotify.com/album/4TKeFuhHHiBhRddgUfZEvf"
       },
       "artists": [
         {
@@ -292,9 +260,25 @@
           "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
         }
       ],
-      "duration_ms": 249373,
-      "name": "Come On (Let the Good Times Roll)",
-      "url": "https://open.spotify.com/track/0KqHJXm4Z42fELkW83ZW0r"
+      "duration_ms": 245760,
+      "name": "Somewhere",
+      "url": "https://open.spotify.com/track/64ICrhXuANvFTmJutuZJ1k"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Axis: Bold As Love",
+        "url": "https://open.spotify.com/album/3uFZf8rykoHo7XMIQVYW6r"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 108373,
+      "name": "Ain't No Telling",
+      "url": "https://open.spotify.com/track/1ToNKcpVRTxzAgRiywifMt"
     },
     {
       "added_at": null,
@@ -311,22 +295,6 @@
       "duration_ms": 198773,
       "name": "Foxey Lady",
       "url": "https://open.spotify.com/track/23MrkN7g6Q5U7GLIxNHN1B"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "People, Hell & Angels",
-        "url": "https://open.spotify.com/album/4TKeFuhHHiBhRddgUfZEvf"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 245760,
-      "name": "Somewhere",
-      "url": "https://open.spotify.com/track/64ICrhXuANvFTmJutuZJ1k"
     },
     {
       "added_at": null,
@@ -363,22 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Are You Experienced",
-        "url": "https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 163800,
-      "name": "Fire",
-      "url": "https://open.spotify.com/track/5LI7PoHEolR8plrf3I16sq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Axis: Bold As Love",
         "url": "https://open.spotify.com/album/3uFZf8rykoHo7XMIQVYW6r"
       },
@@ -391,6 +343,22 @@
       "duration_ms": 334520,
       "name": "If 6 Was 9",
       "url": "https://open.spotify.com/track/0J3CHAStO3pNGTnYnxKZod"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Are You Experienced",
+        "url": "https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 163800,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/5LI7PoHEolR8plrf3I16sq"
     },
     {
       "added_at": null,
@@ -443,22 +411,6 @@
       "duration_ms": 467426,
       "name": "Catfish Blues",
       "url": "https://open.spotify.com/track/3lnavfgHUTrxdRqcPmhqUA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Axis: Bold As Love",
-        "url": "https://open.spotify.com/album/3uFZf8rykoHo7XMIQVYW6r"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 177866,
-      "name": "Up From The Skies",
-      "url": "https://open.spotify.com/track/4oarDDCWsSnX2WOIRKuQo1"
     },
     {
       "added_at": null,
@@ -547,6 +499,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Electric Ladyland",
+        "url": "https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 207760,
+      "name": "Long Hot Summer Night",
+      "url": "https://open.spotify.com/track/1HFj7yC7uZfqjWuoH6DO9r"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Blues",
         "url": "https://open.spotify.com/album/6kvCH4eS92QkpBNdTmjLEz"
       },
@@ -591,6 +559,22 @@
       "duration_ms": 58253,
       "name": "Introduction - Live at The Hollywood Bowl, Hollywood, CA - August 18, 1967",
       "url": "https://open.spotify.com/track/0bHFzlbjS7LHT1tV2fn6nJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Electric Ladyland",
+        "url": "https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 219613,
+      "name": "Burning of the Midnight Lamp",
+      "url": "https://open.spotify.com/track/36SULeBeglappJysOY6WzQ"
     },
     {
       "added_at": null,
@@ -691,6 +675,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Electric Ladyland",
+        "url": "https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 172200,
+      "name": "Little Miss Strange",
+      "url": "https://open.spotify.com/track/1jhH7vvy8hoHuc0mGuZsLX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Songs For Groovy Children: The Fillmore East Concerts",
         "url": "https://open.spotify.com/album/1kCKuBSxO5w8MPN31pP9K9"
       },
@@ -739,26 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "You Can't Use My Name (feat. Jimi Hendrix)",
-        "url": "https://open.spotify.com/album/4Zf9s5cZnvprrmMF0Dnl5l"
-      },
-      "artists": [
-        {
-          "name": "Curtis Knight & The Squires",
-          "url": "https://open.spotify.com/artist/7zakdAMC3vbUue4IxQh9Xl"
-        },
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 56600,
-      "name": "You Can't Use My Name (feat. Jimi Hendrix)",
-      "url": "https://open.spotify.com/track/70rXufdV46M4efDKvJbtHV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Both Sides of the Sky",
         "url": "https://open.spotify.com/album/0EfHWQeb3T1UJw9KrqN407"
       },
@@ -787,6 +767,26 @@
       "duration_ms": 469600,
       "name": "Once I Had a Woman",
       "url": "https://open.spotify.com/track/2AtnrJEq48pGhlpgS59akM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "You Can't Use My Name (feat. Jimi Hendrix)",
+        "url": "https://open.spotify.com/album/4Zf9s5cZnvprrmMF0Dnl5l"
+      },
+      "artists": [
+        {
+          "name": "Curtis Knight & The Squires",
+          "url": "https://open.spotify.com/artist/7zakdAMC3vbUue4IxQh9Xl"
+        },
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 56600,
+      "name": "You Can't Use My Name (feat. Jimi Hendrix)",
+      "url": "https://open.spotify.com/track/70rXufdV46M4efDKvJbtHV"
     },
     {
       "added_at": null,

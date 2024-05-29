@@ -2,7 +2,7 @@
 
 ### [This Is Ken Carson](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1Tr1Hs)
 
-> This is Ken Carson\. The essential tracks, all in one playlist.
+> This is Ken Carson\. Todos os maiores hits em uma só playlist.
 
 52 songs - 2 hr 8 min
 

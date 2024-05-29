@@ -1,12 +1,12 @@
 {
   "description": "This is Korn. The essential tracks, all in one playlist.",
-  "num_followers": 478269,
+  "num_followers": 478423,
   "original_name": "This Is Korn",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlJ7gAAAAAAsx/xbHgyhbVU0lRu7HS3d",
+  "snapshot_id": "ZlPNAAAAAACzZGTIpoHeiNcKz/olgKv0",
   "tracks": [
     {
       "added_at": null,
@@ -575,22 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Issues",
-        "url": "https://open.spotify.com/album/5U0pevIOTrPoDsN8YsBCBh"
-      },
-      "artists": [
-        {
-          "name": "Korn",
-          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
-        }
-      ],
-      "duration_ms": 234013,
-      "name": "Beg for Me",
-      "url": "https://open.spotify.com/track/6bwuLPr45wsvbTjB0PGI65"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Serenity of Suffering",
         "url": "https://open.spotify.com/album/0UGqqYIWXAD1FgrDI1zOjh"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 241146,
       "name": "Black Is the Soul",
       "url": "https://open.spotify.com/track/1wYXIhJXqlIAGS6sbzpTL6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Issues",
+        "url": "https://open.spotify.com/album/5U0pevIOTrPoDsN8YsBCBh"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "duration_ms": 234013,
+      "name": "Beg for Me",
+      "url": "https://open.spotify.com/track/6bwuLPr45wsvbTjB0PGI65"
     },
     {
       "added_at": null,

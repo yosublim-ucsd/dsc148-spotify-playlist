@@ -1,13 +1,29 @@
 {
   "description": "This is La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga. The essential tracks, all in one playlist.",
-  "num_followers": 38952,
+  "num_followers": 38963,
   "original_name": "This Is La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlJ7gAAAAAD2vsBaOlgm4jZkxpiBh2+m",
+  "snapshot_id": "ZlPNAAAAAACN8c6k1neORFsv81gF9aXX",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "De Aqu\u00ed Pal Real",
+        "url": "https://open.spotify.com/album/6XUS7DX5FZD6gGN2uaCdVk"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "duration_ms": 183933,
+      "name": "Algo Oficial",
+      "url": "https://open.spotify.com/track/4GuQY57gbi7DEgc2AJoyBh"
+    },
     {
       "added_at": null,
       "album": {
@@ -312,9 +328,9 @@
           "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
         }
       ],
-      "duration_ms": 131291,
-      "name": "El Polvorete",
-      "url": "https://open.spotify.com/track/1eKCq3MBykT0Z2vDn143Nt"
+      "duration_ms": 187324,
+      "name": "El Cantador",
+      "url": "https://open.spotify.com/track/4AMqtBTOctOO3CNCmBT27h"
     },
     {
       "added_at": null,
@@ -380,9 +396,9 @@
           "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
         }
       ],
-      "duration_ms": 187324,
-      "name": "El Cantador",
-      "url": "https://open.spotify.com/track/4AMqtBTOctOO3CNCmBT27h"
+      "duration_ms": 131291,
+      "name": "El Polvorete",
+      "url": "https://open.spotify.com/track/1eKCq3MBykT0Z2vDn143Nt"
     },
     {
       "added_at": null,

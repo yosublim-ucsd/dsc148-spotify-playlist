@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 123 songs - 6 hr 47 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 126 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -131,5 +131,8 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 121 | [G.O.D., Pt\. III](https://open.spotify.com/track/7AY6pRA83f75jEbP6YvUbJ) | [Mobb Deep](https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap) | [Hell On Earth](https://open.spotify.com/album/6BWf3fxsgSDhES4Cm4oyy5) | 5:16 |
 | 122 | ["Radio"](https://open.spotify.com/track/5yVRwEPSCpcuOUgkz2T0Lu) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [Dark Times](https://open.spotify.com/album/30BFY5VHii4PyWqkTubUWX) | 2:56 |
 | 123 | [What We Do](https://open.spotify.com/track/5kDkWHFx0AEvJ1Pfm2i0ac) | [Freeway](https://open.spotify.com/artist/2Jwr7hGoSNK3S3QBxh3T0z), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Beanie Sigel](https://open.spotify.com/artist/0tCtGc5vt29zFZp6KXzN50) | [Philadelphia Freeway](https://open.spotify.com/album/41guLY5GEPG3GLREh0ck19) | 3:49 |
+| 124 | [\#RICHAXXHAITIAN](https://open.spotify.com/track/0B0lGy8qd6kohNFUz7cneO) | [Mach\-Hommy](https://open.spotify.com/artist/3ZMur3elMyOs248ah86NRk), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [03 Greedo](https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp) | [\#RICHAXXHAITIAN](https://open.spotify.com/album/3akQbvTaRFTiQYZILxVm3E) | 2:47 |
+| 125 | [Black & Whites](https://open.spotify.com/track/4uf1XtTgsXPzpqsFZeRfFb) | [Big Hit](https://open.spotify.com/artist/1zQJBLCGM0tdPW9XwgdEll), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Black & Whites](https://open.spotify.com/album/67eSCwLxuPQZ0jKI373JSt) | 3:40 |
+| 126 | [Samurai](https://open.spotify.com/track/00LGJRRqN4AtSpHrvjIyiJ) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [Samurai](https://open.spotify.com/album/1xG63QNNCiQvy0PERgfpaH) | 3:14 |
 
-Snapshot ID: `AAAcq1slLu+JJ07NZpCMx+gEdCg6a3MW`
+Snapshot ID: `AAAcrrCbaCBD88q39UD3OqaWo8Zluo4r`

@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,622 songs - 4 day 15 hr 33 min
+1,623 songs - 4 day 15 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -536,7 +536,7 @@
 | [Gamelan Sunrise](https://open.spotify.com/track/4L4zKKS9t3IPSBC1xXdCLD) | [Frankie Shakes](https://open.spotify.com/artist/2mW6KkiUUZ5zYZEym6pYjd) | [Arkade Destinations Tulum](https://open.spotify.com/album/3wIq5okaszSGMxYv4zlzyR) | 5:07 | 2020-03-20 | 2022-04-20 |
 | [Garden Of 3Den \- Edit](https://open.spotify.com/track/1GuU6PQkEwhS6slsbuIKGz) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Rowee](https://open.spotify.com/artist/1s7HL44LNzG6PoXFft90mx) | [Garden Of 3Den](https://open.spotify.com/album/5KiQODx1crAQYvlpbB6TJj) | 3:50 | 2021-01-11 | 2022-10-28 |
 | [gatelangs](https://open.spotify.com/track/5Z0XbrTSBsaWbuMovfOndY) | [Ka2](https://open.spotify.com/artist/29f8h7eSlWQAUyfjkdOUGe) | [gatelangs](https://open.spotify.com/album/4kIBVa3tKxLywE8IirmaT9) | 3:02 | 2020-03-16 | 2022-04-21 |
-| [Gemini](https://open.spotify.com/track/045XVRhD2NCR8LtNVR1Yqh) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [Miracles](https://open.spotify.com/album/6zkjYpTdFBcRz5m4Ui8tsy) | 4:29 | 2023-09-29 |  |
+| [Gemini](https://open.spotify.com/track/045XVRhD2NCR8LtNVR1Yqh) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [Miracles](https://open.spotify.com/album/6zkjYpTdFBcRz5m4Ui8tsy) | 4:29 | 2023-09-29 | 2024-05-29 |
 | [Gengis \- Edit](https://open.spotify.com/track/1pYSFtyZaRyP4bwazfm5cy) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Gengis](https://open.spotify.com/album/7lTn1zyy0duOEeypiqzmcr) | 3:51 | 2020-02-29\* | 2020-03-16 |
 | [Get Free \- Chrome Sparks Remix](https://open.spotify.com/track/2hINIqIvhaJ11bvcnS5v3d) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Amber Coffman](https://open.spotify.com/artist/4vpGVGgxSDcCTmqYbsOnsn), [Chrome Sparks](https://open.spotify.com/artist/2pTCZ9C1fXdaVlv6d5EIXM) | [Get Free \(Chrome Sparks Remix\)](https://open.spotify.com/album/1kSZAR9Rgz73ovtAce4Wx5) | 4:20 | 2020-03-20 | 2020-10-09 |
 | [GG \- Monstergetdown Remix](https://open.spotify.com/track/5ItsigUl8EZKgECyY13DnK) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Monstergetdown](https://open.spotify.com/artist/1D3UqPAp0iBjhlFN2aBuYH) | [mau5ville: Level 2](https://open.spotify.com/album/1avRid1zaRK4UDSrwduIPX) | 6:31 | 2020-05-18 | 2020-07-18 |
@@ -1493,6 +1493,7 @@
 | [Turning Away \- Parra for Cuva Remix](https://open.spotify.com/track/02JRU5lHhypYRUKlF4mw8o) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx), [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr) | [Turning Away \(Parra for Cuva Remix\)](https://open.spotify.com/album/1lIxiDKxX65zzDz9J1UVVs) | 4:21 | 2023-04-21 | 2024-04-19 |
 | [Turtle Jazz](https://open.spotify.com/track/6Vx2Z3efuMINFSDOX1PoAu) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD), [sunflwr](https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF) | [Turtle Jazz](https://open.spotify.com/album/73C1QVOlWsW6qhhknFI6Ws) | 3:13 | 2024-03-22 |  |
 | [U Got My Heart](https://open.spotify.com/track/752noY44yVo7eYK78VikAx) | [Clément Leroux](https://open.spotify.com/artist/3MttWEEoyq7W9MjHEBaKhG), [Emma Hoet](https://open.spotify.com/artist/2XPd4InVAVACQRNm6DLIz9) | [U Got My Heart](https://open.spotify.com/album/1a8afZYgO0ToDcgn2VJldN) | 3:11 | 2020-03-16 | 2022-04-20 |
+| [U REALLY HURT ME](https://open.spotify.com/track/1g6CSA2mlxKShnuNbUsLmy) | [Mild Minds](https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW), [LUV HRTS](https://open.spotify.com/artist/4CCmq3kObiwqiUOn7dOww8) | [U REALLY HURT ME](https://open.spotify.com/album/0sEsTyGtFhgTWxwIofbeC5) | 2:42 | 2024-05-24 |  |
 | [Ultimatum \- Edit](https://open.spotify.com/track/0slkzFvyBWcwnjEEDtYE5E) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Fatoumata Diawara](https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC) | [Ultimatum](https://open.spotify.com/album/3mKvAiTrhpJUTAFsJXmjTE) | 3:33 | 2020-05-18 | 2020-07-18 |
 | [Undecided](https://open.spotify.com/track/25CSuITuHOTUSrCx4u72UT) | [Lstn](https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp) | [Undecided](https://open.spotify.com/album/1Ybr2PycNvqre2mpj35VRD) | 4:06 | 2020-11-13 | 2022-02-19 |
 | [Under The Surface](https://open.spotify.com/track/6u3h5vhjyNTkGziCxwJ3o1) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [Under The Surface](https://open.spotify.com/album/57n89DMDCnJg2pY6uszUv1) | 5:24 | 2023-11-24 |  |

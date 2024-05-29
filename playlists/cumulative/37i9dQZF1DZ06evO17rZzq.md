@@ -2,7 +2,7 @@
 
 ### [This Is Kaliii](https://open.spotify.com/playlist/37i9dQZF1DZ06evO17rZzq)
 
-> This is Kaliii\. Todos os maiores hits em uma só playlist.
+> This is Kaliii\. The essential tracks, all in one playlist.
 
 75 songs - 4 hr 38 min
 
@@ -33,7 +33,7 @@
 | [Do A Bitch \- Club Mix](https://open.spotify.com/track/3fNi5BacqfuIzQnnJGOoe5) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Do A Bitch \(Club Mix\)](https://open.spotify.com/album/5TopiZPNkhEGjGntcv5gv3) | 2:36 | 2023-06-23 |  |
 | [Dose, 1 or 2 Pills \- Original Mix](https://open.spotify.com/track/1jOibElEvP4hWxlJJygDbg) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Groovy Psychedelic Downtempo & Chill out V9](https://open.spotify.com/album/1uVvVydS1d6fZtFmXxCWAG) | 8:45 | 2024-03-25 | 2024-05-22 |
 | [Driveby](https://open.spotify.com/track/3IZwShcacPqxbkHkT9M3zT) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Rockers Dubstep Like Kelly](https://open.spotify.com/album/1zCLe4oFbmkKBNCKVevp6E) | 7:33 | 2023-12-24 | 2024-05-17 |
-| [Eat It Up \(feat\. BIA\)](https://open.spotify.com/track/3nePMGxrBMKtffHpkKqSHA) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Toxic Chocolate](https://open.spotify.com/album/5X4gn5R6OOy34QpVRReCnh) | 3:01 | 2023-06-07 |  |
+| [Eat It Up \(feat\. BIA\)](https://open.spotify.com/track/3nePMGxrBMKtffHpkKqSHA) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Toxic Chocolate](https://open.spotify.com/album/5X4gn5R6OOy34QpVRReCnh) | 3:01 | 2023-06-07 | 2024-05-29 |
 | [Espalmador \- Original Mix](https://open.spotify.com/track/7nJCvPKWpTNIun09HK0Ojp) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Casa Ibiza Renovacion](https://open.spotify.com/album/7d1LCUkXphM1paoG1t5T2M) | 7:24 | 2023-12-15 | 2024-03-08 |
 | [Espardell \- Original Mix](https://open.spotify.com/track/7k52apZFJbnF1RFjBMp8Rs) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Casa Ibiza Renovacion](https://open.spotify.com/album/7d1LCUkXphM1paoG1t5T2M) | 9:40 | 2023-12-13 | 2024-05-22 |
 | [Femme Fatale \(feat\. Coi Leray & Kaliii\)](https://open.spotify.com/track/3kFRPjcHAlQrfHytP6kR61) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Femme Fatale \(feat\. Coi Leray & Kaliii\)](https://open.spotify.com/album/2S0pVYtrczvAfcw8d8BHUc) | 3:10 | 2024-04-06 |  |
@@ -76,7 +76,7 @@
 | [Toxic Chocolate](https://open.spotify.com/track/0ubYxtmHWHRo4xsjXEztWv) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Toxic Chocolate](https://open.spotify.com/album/5X4gn5R6OOy34QpVRReCnh) | 2:28 | 2023-06-07 | 2024-05-26 |
 | [Track & Field \(feat\. Kaliii\)](https://open.spotify.com/track/1IgIR2FmHpfuR3MkGnGQUI) | [Enchanting](https://open.spotify.com/artist/26XGM4cZDcTgrXo1nis5HT), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Track & Field \(feat\. Kaliii\)](https://open.spotify.com/album/2c2pjLYQ3hd9UNoCPiNuwf) | 2:18 | 2023-06-07 |  |
 | [Undersea Adventure \- Original Mix](https://open.spotify.com/track/4Agj5MYQyQtIjnId8HUAan) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Dubstep Sessions V.1 Best Top Electronic Dance Hits, Dub, Brostep, Electro, Chillstep, Rave Anthems](https://open.spotify.com/album/6phLJMGghru89grPyVIzQp) | 5:12 | 2024-05-17 | 2024-05-22 |
-| [UonU \(feat\. Yung Bleu\)](https://open.spotify.com/track/3udY2LgfOU8GOWBnoYmFsP) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX) | [UonU \(feat\. Yung Bleu\)](https://open.spotify.com/album/1OGeBW31RYFKWz9jtey1B7) | 3:38 | 2023-06-07 | 2024-05-28 |
+| [UonU \(feat\. Yung Bleu\)](https://open.spotify.com/track/3udY2LgfOU8GOWBnoYmFsP) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX) | [UonU \(feat\. Yung Bleu\)](https://open.spotify.com/album/1OGeBW31RYFKWz9jtey1B7) | 3:38 | 2023-06-07 |  |
 | [Wet](https://open.spotify.com/track/4RCwUGboTNqqrY2tgy37nF) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Wet](https://open.spotify.com/album/31TtTfGTyqjNQvTXa6Ig9u) | 2:16 | 2023-06-07 |  |
 | [Where She At \(feat\. Kali, KenTheMan\)](https://open.spotify.com/track/0ou1POV1L5meXTc8HeELNP) | [DJ Chose](https://open.spotify.com/artist/28Jt29jw6Smc3ZkzALTouq), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [KenTheMan](https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3) | [MULTI](https://open.spotify.com/album/01Gyi3UvIcbXejlgpjAYyD) | 3:28 | 2023-06-07 |  |
 | [Where They At \(Intro\)](https://open.spotify.com/track/33TJ1Jh9qLrtijcbqno9CY) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Toxic Chocolate: Area Codes Edition](https://open.spotify.com/album/7yRZn5jOhhXNNZznGC2shD) | 0:25 | 2023-07-04 | 2024-05-22 |

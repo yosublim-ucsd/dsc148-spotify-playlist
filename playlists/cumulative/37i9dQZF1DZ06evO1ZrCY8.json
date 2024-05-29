@@ -34,7 +34,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-28",
+      "date_removed": null,
       "duration_ms": 225226,
       "name": "...Y para siempre",
       "url": "https://open.spotify.com/track/6D7gPrYpET9NhpowaUFT2E"
@@ -322,7 +322,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-29",
       "duration_ms": 246733,
       "name": "El cuadro II",
       "url": "https://open.spotify.com/track/3NpOxII1eBUhQ12y8MA8UJ"
@@ -765,6 +765,24 @@
     },
     {
       "album": {
+        "name": "Senderos De Traici\u00f3n",
+        "url": "https://open.spotify.com/album/6PsBAHuQ8mzQ0VNrTkXazg"
+      },
+      "artists": [
+        {
+          "name": "Heroes Del Silencio",
+          "url": "https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT"
+        }
+      ],
+      "date_added": "2024-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229266,
+      "name": "Malas intenciones",
+      "url": "https://open.spotify.com/track/40FYFRru7SwWt61q6OEUjK"
+    },
+    {
+      "album": {
         "name": "Senderos De Traici\u00f3n - Edici\u00f3n Especial",
         "url": "https://open.spotify.com/album/7DAoA2gOvycforLAKyFD8Y"
       },
@@ -776,7 +794,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-29",
       "duration_ms": 229266,
       "name": "Malas intenciones",
       "url": "https://open.spotify.com/track/7Fi4oyVjarzUUZHTUwS3Wu"

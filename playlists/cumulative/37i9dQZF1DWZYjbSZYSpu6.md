@@ -4,7 +4,7 @@
 
 > Ready for some sweet harmony or explosive combination of your favourite couple or troublemakers\. \(Cover: Han Jimin, Paul Kim\(한지민, 폴킴\)\)
 
-234 songs - 14 hr 0 min
+235 songs - 14 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [FLOAT](https://open.spotify.com/track/3i7OLkVcsYvJI8fLPCFP22) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [FLOAT](https://open.spotify.com/album/605rL7SKIddSSuG6klhA6V) | 3:03 | 2022-03-24 | 2022-04-21 |
 | [Flower \(With Kim Minseok of Melomance\)](https://open.spotify.com/track/0XPoeyS0UQWK24qajGTaBy) | [Park Bom](https://open.spotify.com/artist/3uHb6dRazmcaT15bMexUtt), [Kim MinSeok](https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA) | [Flower](https://open.spotify.com/album/1oWFYxp5k7nPlsdwNpmtxa) | 4:35 | 2022-04-21 | 2022-07-27 |
 | [For Some Reason 왠지 그냥](https://open.spotify.com/track/4b4pXJlphTv6xkOAhnSCgY) | [DANWU](https://open.spotify.com/artist/3hqxXifdUAzAQIKdKqda6t), [KIMEUNJI 김은지](https://open.spotify.com/artist/04gKJbZ1iABO8Azq4C9aAt) | [For Some Reason 왠지 그냥](https://open.spotify.com/album/1zlxiFx9csY1rp7of7RIiV) | 3:58 | 2022-03-24 | 2022-07-19 |
+| [For You Now](https://open.spotify.com/track/1NDpztr7wYJKDX0LSKnyzV) | [SUHO](https://open.spotify.com/artist/5zkf2Na8DKKJmtWX5Xrx3m), [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [Self\-Portrait \- The 1st Mini Album](https://open.spotify.com/album/0f4L2zNLtQtFk08M1YGoE1) | 3:43 | 2024-05-17 |  |
 | [Forever Yours](https://open.spotify.com/track/5sbw4ElXcAwiQmMP6EEQlT) | [KEY](https://open.spotify.com/artist/6XXKPxRX2WWPPtfodzpc2v), [SOYOU](https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb) | [FACE \- The 1st Album](https://open.spotify.com/album/60ySfrb8zjJooMlVbpWGHG) | 3:27 | 2022-03-24 | 2022-04-20 |
 | [Freesia](https://open.spotify.com/track/4l4VWSIalMF7SgjLsmUAlK) | [Layone](https://open.spotify.com/artist/2TTGZUWJg6LIOWsmCEgKCZ), [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq) | [Flower Language](https://open.spotify.com/album/1VPWxLR3k1Oezf9zIoi7qX) | 3:49 | 2022-03-24 |  |
 | [Friday \(feat.Jang Yi\-jeong\)](https://open.spotify.com/track/0GsRx0gPft6RmijIwMsKmG) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU), [Jang Yi\-jeong](https://open.spotify.com/artist/7nLakaHt1koh5mP4OIVM0F) | [Modern Times – Epilogue](https://open.spotify.com/album/56MqewtCUq5bplrqEYTVL0) | 3:37 | 2022-03-24 |  |
@@ -162,7 +163,7 @@
 | [showtime](https://open.spotify.com/track/11Wb2mNcp7nKa2ZNpAuwoy) | [Chamsom](https://open.spotify.com/artist/5xNWQgdUZS4YN7xAYItpKi) | [showtime](https://open.spotify.com/album/7vdRCKCLy1I5jGxyxFD0vl) | 3:12 | 2022-04-21 | 2022-05-10 |
 | [Skip again \(With Jin Jun Wang\)](https://open.spotify.com/track/7AvOQ2j6Q98ISq5YeIzRBq) | [Woo Chan Yang](https://open.spotify.com/artist/0qYNg9bwLffe5akdCzkGRj), [Jinjunwang](https://open.spotify.com/artist/2ZF8BPqVBSjgtJZvUUDa5i) | [Skip again \(With Jin Jun Wang\)](https://open.spotify.com/album/5McsicvuzAwyq5HWxfop9K) | 3:02 | 2022-03-24 | 2022-04-20 |
 | [Somebody!](https://open.spotify.com/track/2FA4veLVh3jf7O8q5VhNh5) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [HWASA](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [Somebody](https://open.spotify.com/album/40XK96MKBOb5BjAU8QAIfN) | 2:57 | 2022-07-25 |  |
-| [Somehow Different](https://open.spotify.com/track/1f74SwIBl0FgeFMhefsBbS) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U), [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [Somehow Different](https://open.spotify.com/album/2y0d9PR0HmZ3fiFpik1jQ7) | 3:42 | 2024-03-28 |  |
+| [Somehow Different](https://open.spotify.com/track/1f74SwIBl0FgeFMhefsBbS) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U), [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [Somehow Different](https://open.spotify.com/album/2y0d9PR0HmZ3fiFpik1jQ7) | 3:42 | 2024-03-28 | 2024-05-29 |
 | [Something Happens In This Afternoon \(feat\. NaktaCho2\)](https://open.spotify.com/track/1htiUQaHsfDc8JWk12wP9D) | [SBGB](https://open.spotify.com/artist/0Xemods2DGcYQi3sqxtHBO), [NaktaCho2](https://open.spotify.com/artist/38Cu9G5VYON5pk76RdKyGd) | [Midnight Radio](https://open.spotify.com/album/1sK1jcw5DA77ysjrZNR0Qn) | 3:02 | 2022-03-24 | 2022-04-20 |
 | [Song Request \(feat\. SUGA of BTS\)](https://open.spotify.com/track/6Au7CCNN2wXgCNxdavgxDM) | [Lee So Ra](https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC), [SUGA](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8) | [Song Request \(feat\. SUGA of BTS\)](https://open.spotify.com/album/256ayLAIoDGJ2mNBGYjeI0) | 4:41 | 2022-07-25 | 2024-04-19 |
 | [Song Request 신청곡 \(feat\. SUGA of BTS\)](https://open.spotify.com/track/57jBcQUCJaIUTRbqBmW7D1) | [Lee So Ra](https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC), [SUGA](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8) | [Song Request 신청곡 \(feat\. SUGA of BTS\)](https://open.spotify.com/album/2CV86ZVlL1h8DofUs7kIL3) | 4:41 | 2022-04-21 | 2022-07-27 |

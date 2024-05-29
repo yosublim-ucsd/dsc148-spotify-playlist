@@ -1,6 +1,6 @@
 {
   "description": "The pulse of Latin House \ud83d\udc83\ud83c\udffb\ud83d\udc83\ud83c\udffb",
-  "num_followers": 33807,
+  "num_followers": 35313,
   "original_name": "Latin House",
   "owner": {
     "name": "Spotify",
@@ -1525,6 +1525,22 @@
       "url": "https://open.spotify.com/track/1ktxjDVHlAqnzmbmzgKoZC"
     },
     {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Tiki Tiki",
+        "url": "https://open.spotify.com/album/2iE41dsSA4TVsWkPhf1o0V"
+      },
+      "artists": [
+        {
+          "name": "H\u00c4WK",
+          "url": "https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady"
+        }
+      ],
+      "duration_ms": 124921,
+      "name": "Tiki Tiki",
+      "url": "https://open.spotify.com/track/3j6NrZ43zwIPANl4kcDUs8"
+    },
+    {
       "added_at": "2024-04-19 04:00:00",
       "album": {
         "name": "Pa Lante",
@@ -1681,22 +1697,6 @@
       "url": "https://open.spotify.com/track/1j5ocYQRNSZRoj7L5ekkqn"
     },
     {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "Tiki Tiki",
-        "url": "https://open.spotify.com/album/2iE41dsSA4TVsWkPhf1o0V"
-      },
-      "artists": [
-        {
-          "name": "H\u00c4WK",
-          "url": "https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady"
-        }
-      ],
-      "duration_ms": 124921,
-      "name": "Tiki Tiki",
-      "url": "https://open.spotify.com/track/3j6NrZ43zwIPANl4kcDUs8"
-    },
-    {
       "added_at": "2024-05-03 04:00:00",
       "album": {
         "name": "Ya Me Voy",
@@ -1723,26 +1723,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Desconocidos",
-        "url": "https://open.spotify.com/album/0Kpg2Flv9TK2V8s7bJrade"
-      },
-      "artists": [
-        {
-          "name": "Sinego",
-          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
-        },
-        {
-          "name": "Argia",
-          "url": "https://open.spotify.com/artist/3K2j2d5WP7SfP06QTV8iz4"
-        }
-      ],
-      "duration_ms": 322501,
-      "name": "Desconocidos",
-      "url": "https://open.spotify.com/track/1Hd36cEZ37e9dNyxJy9ys6"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Adios",
         "url": "https://open.spotify.com/album/2Y5HkAKcA98j4dugmg2yms"
       },
@@ -1763,6 +1743,26 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
+        "name": "Dimini",
+        "url": "https://open.spotify.com/album/3ygKQsnMN1nBrpsxYYnlny"
+      },
+      "artists": [
+        {
+          "name": "H\u00c4WK",
+          "url": "https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady"
+        },
+        {
+          "name": "Twolate",
+          "url": "https://open.spotify.com/artist/1IRtNLR91uUQxQzh9veJhh"
+        }
+      ],
+      "duration_ms": 142447,
+      "name": "Dimini",
+      "url": "https://open.spotify.com/track/3UwlHoQ1pEHHds28BJ2bvb"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
         "name": "Corazon",
         "url": "https://open.spotify.com/album/6g3AEpunohq2j4CNSyCYqS"
       },
@@ -1779,6 +1779,26 @@
       "duration_ms": 138750,
       "name": "Corazon",
       "url": "https://open.spotify.com/track/2tSmQJiBtXPN2Ourf9Q5mv"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Desconocidos",
+        "url": "https://open.spotify.com/album/0Kpg2Flv9TK2V8s7bJrade"
+      },
+      "artists": [
+        {
+          "name": "Sinego",
+          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
+        },
+        {
+          "name": "Argia",
+          "url": "https://open.spotify.com/artist/3K2j2d5WP7SfP06QTV8iz4"
+        }
+      ],
+      "duration_ms": 322501,
+      "name": "Desconocidos",
+      "url": "https://open.spotify.com/track/1Hd36cEZ37e9dNyxJy9ys6"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1879,26 +1899,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Dimini",
-        "url": "https://open.spotify.com/album/3ygKQsnMN1nBrpsxYYnlny"
-      },
-      "artists": [
-        {
-          "name": "H\u00c4WK",
-          "url": "https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady"
-        },
-        {
-          "name": "Twolate",
-          "url": "https://open.spotify.com/artist/1IRtNLR91uUQxQzh9veJhh"
-        }
-      ],
-      "duration_ms": 142447,
-      "name": "Dimini",
-      "url": "https://open.spotify.com/track/3UwlHoQ1pEHHds28BJ2bvb"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "DALE",
         "url": "https://open.spotify.com/album/4iikrDQdEDTJtWKGMmlZZA"
       },
@@ -1917,22 +1917,6 @@
       "url": "https://open.spotify.com/track/6DbEX6iIjLuEV9j4zvDdp0"
     },
     {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "Rosa",
-        "url": "https://open.spotify.com/album/1E3ZQ6io0107ZazD7ZPYhy"
-      },
-      "artists": [
-        {
-          "name": "Mia Moretti",
-          "url": "https://open.spotify.com/artist/508HEnl2cDRksyq8hyQtRh"
-        }
-      ],
-      "duration_ms": 171998,
-      "name": "Rosa",
-      "url": "https://open.spotify.com/track/2ThQHv5qNDg1QtNb3gFJv9"
-    },
-    {
       "added_at": "2024-04-19 04:00:00",
       "album": {
         "name": "Esta Vaina",
@@ -1947,6 +1931,22 @@
       "duration_ms": 215699,
       "name": "Esta Vaina",
       "url": "https://open.spotify.com/track/63CgLY7pJtFU1Oic20tL07"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Rosa",
+        "url": "https://open.spotify.com/album/1E3ZQ6io0107ZazD7ZPYhy"
+      },
+      "artists": [
+        {
+          "name": "Mia Moretti",
+          "url": "https://open.spotify.com/artist/508HEnl2cDRksyq8hyQtRh"
+        }
+      ],
+      "duration_ms": 171998,
+      "name": "Rosa",
+      "url": "https://open.spotify.com/track/2ThQHv5qNDg1QtNb3gFJv9"
     },
     {
       "added_at": "2024-04-19 04:00:00",

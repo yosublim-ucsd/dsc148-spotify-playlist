@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1pMB5VwjH6fzf8ldHch1IG.md) - [plain]
 
 > Stream your favourite trending tracks and discover new jams along the way! Cover: Tate McRae.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 45,605 likes - 61 songs - 3 hr 17 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 45,603 likes - 61 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/1pMB5VwjH6fzf8ldHch1IG.md) - [plain]
 | 41 | [Beckham](https://open.spotify.com/track/1AURVCpSSc7w88q9Fvxu4e) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Beckham](https://open.spotify.com/album/5ZYLn7QTjqaKzpAg1fEXRT) | 3:27 |
 | 42 | [Willing To Let You Go \(feat\. Anella Herim & Abby Anderson\)](https://open.spotify.com/track/1ZZaOAx86pHrZR7Kb0RbKM) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Anella Herim](https://open.spotify.com/artist/0aRXmCsqGxwpaBqY7WQOsN), [Abby Anderson](https://open.spotify.com/artist/0WicR9iYAPd0Bi7i3bz9MB) | [Diplo Presents Thomas Wesley: The Mixtape](https://open.spotify.com/album/2YEVAviqPGlcnc2ruyXcPE) | 3:12 |
 | 43 | [Type Shit](https://open.spotify.com/track/28drn6tQo95MRvO0jQEo5C) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [WE DON'T TRUST YOU](https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn) | 3:48 |
-| 44 | [NOTT](https://open.spotify.com/track/69zAjL2CE6gUO9DaHNjK8c) | [Hitkidd](https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5), [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC) | [NOTT](https://open.spotify.com/album/6DMRH8HHK7eKqz47CXCPbo) | 3:02 |
+| 44 | [NOTT](https://open.spotify.com/track/69zAjL2CE6gUO9DaHNjK8c) | [Hitkidd](https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5), [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC) | [NOTT](https://open.spotify.com/album/6DMRH8HHK7eKqz47CXCPbo) | 3:01 |
 | 45 | [HERicane](https://open.spotify.com/track/64fITmtln0OJqcxPf09vnY) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [HERicane](https://open.spotify.com/album/4YQ8O3PQb7cZnnLeqNPaa1) | 3:47 |
 | 46 | [you know me](https://open.spotify.com/track/3895CE7ZIWMt4cCkMXJAW2) | [Lubalin](https://open.spotify.com/artist/6lt3CXKfhLXjYl2VFD6vN4) | [you know me](https://open.spotify.com/album/1gUfUE48PiNBtbERMGwdXZ) | 2:30 |
 | 47 | [Go Girlfriend](https://open.spotify.com/track/7sDsbFNNQmG2UmRjHtO7fW) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [11:11 \(Deluxe\)](https://open.spotify.com/album/5onhEG8O3aKdg9b4lIdkNz) | 2:55 |

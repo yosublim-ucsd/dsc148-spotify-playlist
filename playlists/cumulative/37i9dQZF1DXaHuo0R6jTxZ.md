@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXaHuo0R6jTxZ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXaHuo0R6jTxZ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXaHuo0R6jTxZ)
 
-### [90s Arabic Hits](https://open.spotify.com/playlist/37i9dQZF1DXaHuo0R6jTxZ)
+### [All Out Arabic 90's](https://open.spotify.com/playlist/37i9dQZF1DXaHuo0R6jTxZ)
 
 > The biggest Arabic song in the 1990's\. Cover : Amr Diab
 

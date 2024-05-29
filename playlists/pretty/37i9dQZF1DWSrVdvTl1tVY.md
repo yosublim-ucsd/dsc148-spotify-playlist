@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrVdvTl1tVY.md) - [plain]
 
 > The biggest house bangers popping off in the UK, let's go! Fatboy Slim
 
-[Spotify](https://open.spotify.com/user/spotify) - 744,309 likes - 117 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 744,321 likes - 117 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

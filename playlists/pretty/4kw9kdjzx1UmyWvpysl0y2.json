@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125981,
+  "num_followers": 125975,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAASazwXbcnwN8QgcklLf7mUhHgdtB/H",
+  "snapshot_id": "AAASbDd1Iy0/5j2j7dGK68A7VUJWx9y3",
   "tracks": [
+    {
+      "added_at": "2024-05-28 14:24:16",
+      "album": {
+        "name": "Snowflake",
+        "url": "https://open.spotify.com/album/4PczSQmF1bDcTTZw93cYjA"
+      },
+      "artists": [
+        {
+          "name": "PROFF",
+          "url": "https://open.spotify.com/artist/3jAosRBCdrybxqTnrI4Sld"
+        }
+      ],
+      "duration_ms": 222295,
+      "name": "Snowflake",
+      "url": "https://open.spotify.com/track/4VvZTuzlS4YxA47LWp589i"
+    },
     {
       "added_at": "2024-05-27 15:04:42",
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 
 > Las canciones de fe que más se escuchan en Latinoamérica\. Foto: <a href="spotify:artist:4VMYDCV2IEDYJArk749S6m">Daddy Yankee</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 599,479 likes - 110 songs - 9 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 599,595 likes - 110 songs - 9 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 | 49 | [STÜSSY](https://open.spotify.com/track/4u6hy75THfPE4j8Z16r3bd) | [Tommy Royale](https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs) | [STÜSSY](https://open.spotify.com/album/4rtoEfkgyaibuB6q2aXdJ1) | 2:55 |
 | 50 | [Detras De Mi](https://open.spotify.com/track/1h4vdbJlwTksTjcY55KpVf) | [Niko Eme](https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL) | [Buzón de Voz](https://open.spotify.com/album/5RyQDplYD8TDxYJPP6oVOl) | 3:30 |
 | 51 | [Obra de Tu Amor \- \(Alfarero\)](https://open.spotify.com/track/1yvDR7cxU98Zr2VxQ4WZE3) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Lead](https://open.spotify.com/artist/5pyTY6jmdDNfKmmlo92Vfd), [Lowsan Melgar](https://open.spotify.com/artist/4MgA2G0NoAMdcFBaK5ZAfw), [Pedro Pablo Quintero](https://open.spotify.com/artist/7k0e42G3EXTuMtNbMQkw0l), [Johan Manjarrés](https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7) | [Obra de Tu Amor](https://open.spotify.com/album/7iwgHqgKqP2D5MhtnmGBeV) | 10:05 |
-| 52 | [Jesús Mi Fiel Amigo](https://open.spotify.com/track/2fEcicVGtyAg07iScRAmzO) | [Abel Zavala](https://open.spotify.com/artist/0UH4eoqwQgADwRoaKtEKc1) | [Jesús Mi Fiel Amigo](https://open.spotify.com/album/6Q2bdTIWmtEFFHSRBKc6cc) | 4:56 |
+| 52 | [Jesús Mi Fiel Amigo \- Sesión Orgánica](https://open.spotify.com/track/2fEcicVGtyAg07iScRAmzO) | [Abel Zavala](https://open.spotify.com/artist/0UH4eoqwQgADwRoaKtEKc1) | [Jesús Mi Fiel Amigo \(Sesión Orgánica\)](https://open.spotify.com/album/6Q2bdTIWmtEFFHSRBKc6cc) | 4:56 |
 | 53 | [Tu Presencia Es Mi Todo](https://open.spotify.com/track/63i8lYUFY79ES7y3OICBD1) | [Patricio Vasquez](https://open.spotify.com/artist/7rvS0KknOkxbvgeQyHi5gW), [Franco Figueroa](https://open.spotify.com/artist/3hFMWAFgMRV3IHZHvcKQ4V) | [Tu Presencia Es Mi Todo](https://open.spotify.com/album/3rryHlPPzzzrfOlKXRHw1W) | 5:44 |
 | 54 | [Tan Solo Cree](https://open.spotify.com/track/019riTfHIfZVlgLhYsLtnl) | [Jose Luis Reyes](https://open.spotify.com/artist/77Zo41CMTIsSUP47AkNhie) | [Mis Favoritas, Éxitos de Jose Luis Reyes](https://open.spotify.com/album/6MDICk3UvUd1UHaaBoiOj4) | 4:35 |
 | 55 | [Tu Mesa Sana \(A Tua Mesa Cura\)](https://open.spotify.com/track/3PGs71XnOHZhOWlrIZLbv9) | [Thamires Garcia](https://open.spotify.com/artist/00ZfdcYfOCXeygtGhbvy4w) | [Tu Mesa Sana \(A Tua Mesa Cura\)](https://open.spotify.com/album/1zesMsitrOAZ0C2bsFqlwy) | 5:45 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-29",
-  "description": "This is Flo Milli. Todos os maiores hits em uma s\u00f3 playlist.",
+  "description": "This is Flo Milli. The essential tracks, all in one playlist.",
   "name": "This Is Flo Milli",
   "tracks": [
     {
@@ -956,7 +956,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-28",
+      "date_removed": null,
       "duration_ms": 150652,
       "name": "Money (feat. Flo Milli)",
       "url": "https://open.spotify.com/track/2xo2fUrwrdOruV2zdNtWoP"
@@ -1262,7 +1262,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-27",
+      "date_removed": null,
       "duration_ms": 231898,
       "name": "Plain (feat. Lily Allen & Flo Milli)",
       "url": "https://open.spotify.com/track/4CwcIiZQvy4d9SxAUn5OaJ"
@@ -1434,7 +1434,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-29",
       "duration_ms": 228196,
       "name": "Sexy (Remix) - feat. Flo Milli",
       "url": "https://open.spotify.com/track/2UchverhvMczB8NoXrNWwU"
@@ -1500,7 +1500,7 @@
       ],
       "date_added": "2023-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-29",
       "duration_ms": 145074,
       "name": "Take It Up - Remix",
       "url": "https://open.spotify.com/track/0HpuGk2nD5BBw7QE7NnsMx"

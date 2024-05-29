@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWViUlcvfltyZ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWViUlcvfltyZ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWViUlcvfltyZ)
 
-### [Rock Italia](https://open.spotify.com/playlist/37i9dQZF1DWViUlcvfltyZ)
+### [Rock Italia: Live al MI AMI](https://open.spotify.com/playlist/37i9dQZF1DWViUlcvfltyZ)
 
-> La playlist che è come andare ai concerti—al <a href="https://www.instagram.com/miami\_fest/">MI AMI</a>, per esempio\. GIALLORENZO in cover\. Foto di <a href="https://www.instagram.com/agnemag/">@agnemag</a>
+> La playlist che è come andare ai concerti—al <a href="https://www.instagram.com/miami\_fest/">MI AMI</a>, per esempio\. Tre Allegri Ragazzi Morti in cover\. Foto di <a href="https://www.instagram.com/silviaviolanterouge/">@silviaviolanterouge</a>
 
-939 songs - 2 day 4 hr 12 min
+941 songs - 2 day 4 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -450,6 +450,7 @@
 | [L'ultimo Saluto \(feat\. DIVI\)](https://open.spotify.com/track/2oyVIu3N49UpXTBHqZ2ddt) | [dellarabbia](https://open.spotify.com/artist/6Ny93gwcAU5e2da6CzrmRp), [DIVI](https://open.spotify.com/artist/74bcvpVRGuSFkKK67skgBL) | [L'ultimo Saluto \(feat\. DIVI\)](https://open.spotify.com/album/7dUA3A2rzNnRBZ5wswcU75) | 3:30 | 2023-05-11 | 2023-06-09 |
 | [La Band](https://open.spotify.com/track/72a2Fjwg7RJVuZ16k8ejEh) | [Bengala Fire](https://open.spotify.com/artist/5B516AbC2BhNio4qvbDdNb) | [La Band](https://open.spotify.com/album/1kuoOXI6qZkrloDJIi02U1) | 3:06 | 2024-01-11 | 2024-04-05 |
 | [La conquista dell'inutile](https://open.spotify.com/track/56xUdrfFJsPImzP356rhjj) | [Votto](https://open.spotify.com/artist/1NPd03l2532gBF9AIVly3k) | [Gli ultimi istanti delle nostre vite precedenti](https://open.spotify.com/album/1GGWvcxu7iRhyvg9sHfbeE) | 2:26 | 2024-03-21 | 2024-04-05 |
+| [La faccia della luna](https://open.spotify.com/track/3e7UtAH3oRFWnLeqPgk8UD) | [Tre Allegri Ragazzi Morti](https://open.spotify.com/artist/6jKqcDpxUSl4gbjgc97L22) | [Primitivi del futuro](https://open.spotify.com/album/3yblSQO7ofM7ltiNWe4ck4) | 3:07 | 2024-05-28 |  |
 | [LA FINE](https://open.spotify.com/track/6DPE8tGV9lzKALNnvuY9dS) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [LA FINE](https://open.spotify.com/album/5eZ98aKCgAQmEYNtueCoJK) | 3:20 | 2022-12-15 | 2023-02-17 |
 | [La fine del giorno](https://open.spotify.com/track/3YrSRsmceg76UfAJpiTFqJ) | [Novaffair](https://open.spotify.com/artist/1JCO5edqr3C6aKHKihyqz3) | [La fine del giorno](https://open.spotify.com/album/718WYe1uOLKUnhAoNKGcCn) | 3:10 | 2023-09-07 | 2023-10-13 |
 | [La fine dell'eternità](https://open.spotify.com/track/2DTSHEAcv2hUnVoRvYiOmo) | [Management](https://open.spotify.com/artist/5RRnJxnVoqmFFqZBXkAW3F) | [Ansia Capitale](https://open.spotify.com/album/2I6L45zp4O8twWUyAHirSj) | 3:04 | 2022-07-28 | 2023-01-13 |
@@ -602,6 +603,7 @@
 | [Nuvolone](https://open.spotify.com/track/7MYSEt7ON2GaBKoW98eoyB) | [Renàra](https://open.spotify.com/artist/2RJIwXtGg34ECvKxTzYuNF) | [Nuvolone](https://open.spotify.com/album/1ko2CMTLW4iba939mRTago) | 3:06 | 2023-02-09 | 2023-03-03 |
 | [Oblivion](https://open.spotify.com/track/7jePbTgyKol6gHshTbF3Xz) | [Halflives](https://open.spotify.com/artist/4er5NZNuc83Cev96LA28ID) | [Inferno](https://open.spotify.com/album/3Hnux3n5xhBOIrIxUsO2AF) | 3:19 | 2023-06-29 | 2023-09-01 |
 | [occhi](https://open.spotify.com/track/6iW9PegPcomJryqLj5nMOE) | [Foreverboymush](https://open.spotify.com/artist/7tkxzgoJwU4tMdyMSPxkxE), [Saint Abel](https://open.spotify.com/artist/6xCih2NWSmPw4o1MJ1qnIt), [Moskova Div](https://open.spotify.com/artist/0s7lgcaJpldccLW8kD7Xkk) | [occhi](https://open.spotify.com/album/5hqv0iT8Hx95Ayc2qWWgbw) | 3:19 | 2023-09-28 | 2023-10-27 |
+| [Occhi bassi](https://open.spotify.com/track/2ZzzLIhIEsBl757zCamBZK) | [Tre Allegri Ragazzi Morti](https://open.spotify.com/artist/6jKqcDpxUSl4gbjgc97L22) | [Mostri e normali](https://open.spotify.com/album/5yVKAfDGW8bCWFXNGZxkNj) | 3:04 | 2024-05-28 |  |
 | [Occhi di Corvo](https://open.spotify.com/track/5qYNPhVUdQqo2PmUL3AKCO) | [Voina](https://open.spotify.com/artist/4dju8CNgf5lL7VXgP3EAmo) | [YOGA, Pt\. 1](https://open.spotify.com/album/2yv4v0pLeWjIbeiKSDtFHe) | 3:21 | 2022-05-09 | 2022-09-16 |
 | [Occhi rossi](https://open.spotify.com/track/2nIQIZWYXDVrjbD570hbTd) | [ALIPERTI](https://open.spotify.com/artist/2wyyxE2lzVUrOD4tPGitor) | [Occhi rossi](https://open.spotify.com/album/1aM3xThqq4qdTRASt79Wye) | 2:43 | 2023-06-15 | 2023-09-28 |
 | [Ocean Cry](https://open.spotify.com/track/2lOLI3op0lv6kK3VrOCS1Z) | [pearl moth](https://open.spotify.com/artist/36PkhRLgmvQHdxm5wSdYnq) | [Ocean Cry](https://open.spotify.com/album/2uP99i8rDfjIpUPEurejZv) | 3:37 | 2023-08-28 | 2023-09-22 |

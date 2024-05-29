@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5e23vWCjL5N.md) - [plain]
 
 > Tra storytelling e barre affilate, il meglio del rap game italiano\. Cover: MadMan
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,047 likes - 69 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,087 likes - 69 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

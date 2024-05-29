@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Endelig fredag! 🎵
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,508 likes - 108 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,507 likes - 108 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 31 | [Vélo Club](https://open.spotify.com/track/2LeyqTxv551L9oNGpNomnw) | [Slam Dunk](https://open.spotify.com/artist/0dei79O9i0uYwCGYniYGzZ) | [Vélo Club](https://open.spotify.com/album/5hOvOSqnaCaVLCBA1oE364) | 1:55 |
 | 32 | [Borderline Iconic](https://open.spotify.com/track/67Po00mBd0gRq7Z4lZ30CG) | [Linn Koch\-Emmery](https://open.spotify.com/artist/1VXNcQgSnqCXw4kWGeKNFu) | [Borderline Iconic](https://open.spotify.com/album/6csDiDKWnoejngfWD7gvhK) | 3:06 |
 | 33 | [Hot Girl Summer \(feat\. Amara\)](https://open.spotify.com/track/1JnBJ0HxKhcgeFCIp1efGp) | [Elias Buch](https://open.spotify.com/artist/5r8dWcI1AJLYOkxyP5twtQ), [Amara](https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j) | [Hot Girl Summer \(feat\. Amara\)](https://open.spotify.com/album/78dKPGZQ2BCRvKJiwsXFHX) | 2:21 |
-| 34 | [Push](https://open.spotify.com/track/29OFLlrrfKIEVwbVMTjBYe) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg), [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN), [Contra](https://open.spotify.com/artist/73BAwJ65pT6RvwR7JEkfEv), [OFFAIAH](https://open.spotify.com/artist/2E1NFr5AeEGUJkLUUsWCAO) | [Push](https://open.spotify.com/album/3GSEVlHrbrQbKSP4ozWzx8) | 3:05 |
+| 34 | [Push](https://open.spotify.com/track/29OFLlrrfKIEVwbVMTjBYe) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg), [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN), [contra](https://open.spotify.com/artist/5VYRcaryFLFZnA5HvnRHFi), [OFFAIAH](https://open.spotify.com/artist/2E1NFr5AeEGUJkLUUsWCAO) | [Push](https://open.spotify.com/album/3GSEVlHrbrQbKSP4ozWzx8) | 3:05 |
 | 35 | [Hit My Line](https://open.spotify.com/track/33jUEyYnZyyCImlOXdgaZ9) | [Pasha](https://open.spotify.com/artist/0elSJZFrHnayc7AUCkbWAl) | [Hit My Line](https://open.spotify.com/album/2oYmC8LoQ9A0ajDxs0ziED) | 2:25 |
 | 36 | [BARAF/FAIRUZ](https://open.spotify.com/track/3urZrYd2tCqrXDijsIrqS6) | [Kamila Hemmat](https://open.spotify.com/artist/5i5HUCINmO39bmmZEay60P) | [BARAF/FAIRUZ](https://open.spotify.com/album/5JNyG1rXWCUXlcBGMQewHi) | 2:50 |
 | 37 | [OSS TO \(feat\. Bjørn Eidsvåg\)](https://open.spotify.com/track/1i0pvPT603hz4Bgeuo0Enl) | [Turab](https://open.spotify.com/artist/1MkGNTzngx2wG2S41E4LLQ), [Bjørn Eidsvåg](https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz) | [OSS TO \(feat\. Bjørn Eidsvåg\)](https://open.spotify.com/album/4caY4jbL4623zE0J6jnjbo) | 2:50 |
@@ -111,7 +111,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 101 | [kriminell](https://open.spotify.com/track/3C6hhU7ayidfuohS4P8vMr) | [VILDE](https://open.spotify.com/artist/6hvYVDtoWdLHQKRSEyl7oq), [BABYLUCIFA](https://open.spotify.com/artist/6Xa9I7nKRo9ZjU65jG55k4) | [kriminell](https://open.spotify.com/album/0gv1qamp6v9oVnCrCat2vX) | 2:21 |
 | 102 | [Growing Story](https://open.spotify.com/track/6LYuwb0avQJNhIkcp5Zfjq) | [Pom Poko](https://open.spotify.com/artist/4RkC3KmYWnr6PM1FM5Shwz) | [Growing Story](https://open.spotify.com/album/79MStnsQdeiY2YQ6YwWlC7) | 3:32 |
 | 103 | [Farlig](https://open.spotify.com/track/1XJwauCo6yfFoTpIE0ldQq) | [William](https://open.spotify.com/artist/0nh7QCv37pMZFIN6vRKidB) | [Farlig](https://open.spotify.com/album/2aGhZJhPOreDfDgdM5lLvv) | 2:10 |
-| 104 | [Vil du komme over?](https://open.spotify.com/track/7qNKViZ2nQylwhuySzlqfi) | [Bare Andy](https://open.spotify.com/artist/6IpOWXE5U9K6vYTBgaRkrU) | [finest etter klokka to](https://open.spotify.com/album/3b7yWCg10udqgqn6MIzKME) | 2:19 |
+| 104 | [Vil du komme over?](https://open.spotify.com/track/7qNKViZ2nQylwhuySzlqfi) | [Bare Andy](https://open.spotify.com/artist/6IpOWXE5U9K6vYTBgaRkrU) | [Finest etter klokka to](https://open.spotify.com/album/3b7yWCg10udqgqn6MIzKME) | 2:19 |
 | 105 | [Mi Amigo](https://open.spotify.com/track/0uTyaWN0L8NAAQHYn9oRfL) | [TuVeia](https://open.spotify.com/artist/07BGSPHXFOdX2Ln6McOd1z) | [Mi Amigo](https://open.spotify.com/album/2MjvnBSokapL4IHsdAsfF2) | 2:20 |
 | 106 | [Careful](https://open.spotify.com/track/3TX0mrJJ3NkewcIxHvthKU) | [Yndling](https://open.spotify.com/artist/2X2ErfWZbEsawLjylqXM3m) | [Careful](https://open.spotify.com/album/4GKpov6UbtDe6jJGbuh3t2) | 4:01 |
 | 107 | [You'll Never Lose Affection](https://open.spotify.com/track/74QHvED66bGkJ411iWOOTM) | [tigerstate](https://open.spotify.com/artist/5IASPTbco70KYmxQwSg8E1) | [You'll Never Lose Affection](https://open.spotify.com/album/2Q1Q828W11uLQETgWxmjnF) | 3:11 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCT9tm6fRIV.md) - [plain]
 
 > Disfruta esta fina selección de los mejores Tangos argentinos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 238,192 likes - 80 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 238,215 likes - 80 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCT9tm6fRIV.md) - [plain]
 | 67 | [Todo Es Amor](https://open.spotify.com/track/1cj8FcBF6bs8mWXqAfwgoH) | [Cristian Chinellato](https://open.spotify.com/artist/3jcTbMxvNkZAzH52lzHsLy) | [Todo Es Amor](https://open.spotify.com/album/2kV8huoq9yaO65m6LeCkl5) | 4:13 |
 | 68 | [Las Ciudades](https://open.spotify.com/track/6RnCUy7PCF27LAOKmq0E8D) | [Astor Piazzolla](https://open.spotify.com/artist/7dsugSamBB7enWE2IrlbFg), [Amelita Baltar](https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk) | [Piazzolla & Amelita Baltar](https://open.spotify.com/album/30z0x3quz71hXLhKbfBaAw) | 4:36 |
 | 69 | [Detrás de los Cerros](https://open.spotify.com/track/5JUyAdVFMa1JCnXabSxj48) | [Orquesta Los Crayones](https://open.spotify.com/artist/1NDpEndAKfNyVFrV6qgiuy) | [Detrás de los Cerros](https://open.spotify.com/album/2d3TaKGXNdYPsRRtxRCId9) | 3:10 |
-| 70 | [En Ese Ayer/Ventarrón](https://open.spotify.com/track/6yzikW529P1w3mwxAoMC3H) | [Susana Rinaldi](https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE) | [En El Underground](https://open.spotify.com/album/6I123wp2nUkU8hiY0vzu7o) | 4:02 |
-| 71 | [Otoño porteño](https://open.spotify.com/track/2pqBec6TekUJhK4bdkiPBM) | [Ventarrón](https://open.spotify.com/artist/019R06cxxEUXY1QyQThspX) | [Otoño Porteño](https://open.spotify.com/album/7l2DNm9VNrLevUMU2CaKKT) | 4:51 |
+| 70 | [Otoño porteño](https://open.spotify.com/track/2pqBec6TekUJhK4bdkiPBM) | [Ventarrón](https://open.spotify.com/artist/019R06cxxEUXY1QyQThspX) | [Otoño Porteño](https://open.spotify.com/album/7l2DNm9VNrLevUMU2CaKKT) | 4:51 |
+| 71 | [En Ese Ayer/Ventarrón](https://open.spotify.com/track/6yzikW529P1w3mwxAoMC3H) | [Susana Rinaldi](https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE) | [En El Underground](https://open.spotify.com/album/6I123wp2nUkU8hiY0vzu7o) | 4:02 |
 | 72 | [Mimi Pinson \(with Gran Orquesta Típica OTRA\)](https://open.spotify.com/track/0OEcBnaJWvbx804nDaufHp) | [Omar Mollo](https://open.spotify.com/artist/3gvvM06RykBuIcFpWljUhD), [Gran Orquesta Típica OTRA](https://open.spotify.com/artist/2hQVp6pVrs4q3veFAC3LT8) | [Tango Cosmopolita \(with Gran Orquesta Típica OTRA\)](https://open.spotify.com/album/5p0dfS1qHHcNeqQ3vgHwu0) | 3:50 |
 | 73 | [Fruta Amarga](https://open.spotify.com/track/7dsCiWTBKpyI8UYPxicyCu) | [Amelita Baltar](https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk), [Aldo Saralegui](https://open.spotify.com/artist/3DkOmSI4zaX4mVCZQC7Fm1) | [El Nuevo Rumbo](https://open.spotify.com/album/0PNFCx0M4ol1VFWMOUuErM) | 3:29 |
 | 74 | [El Mundo De La Fantasía](https://open.spotify.com/track/4ZdOJD4CAQU4rdh06nhzaF) | [Cacho Castaña](https://open.spotify.com/artist/3lwRbCTt1qmo0QgXUai8ao) | [El Mundo De La Fantasía](https://open.spotify.com/album/3HOIEH3oy2eEjXG2DIEbvD) | 3:27 |

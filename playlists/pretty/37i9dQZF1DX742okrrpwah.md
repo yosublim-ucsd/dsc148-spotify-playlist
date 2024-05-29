@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > SANTA au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 348,064 likes - 73 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 348,074 likes - 73 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 33 | [Raining On Your Pillow](https://open.spotify.com/track/29ghl4sckPwUAv11krSaBg) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Raining On Your Pillow](https://open.spotify.com/album/35uymqTjUrltGX52KHDns8) | 3:53 |
 | 34 | [18 CARATS](https://open.spotify.com/track/76Z6jo16Z5NnZpUbXdx0FK) | [Fresh](https://open.spotify.com/artist/3W9AQyaIGdR8htZXVGwl1X) | [P.M.R.](https://open.spotify.com/album/1uDRDTC0YznRwt1tCsqhD4) | 2:29 |
 | 35 | [Freedom](https://open.spotify.com/track/2JWbbBEnkRMrrtmU4F2piy) | [Soprano](https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1) | [Freedom](https://open.spotify.com/album/2KgdUlRAkmu8jdKpOACmRN) | 3:37 |
-| 36 | [Propaganda](https://open.spotify.com/track/6QtEvlPe9vgUX0OE8m4ix6) | [Blaiz Fayah](https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7), [Bruno RIBERA](https://open.spotify.com/artist/2Oxr9i8XJGMXFIlcGmsnIh) | [Propaganda](https://open.spotify.com/album/6wvL9dA8qjQcoYd8qx6tJj) | 2:19 |
+| 36 | [Propaganda](https://open.spotify.com/track/6QtEvlPe9vgUX0OE8m4ix6) | [Blaiz Fayah](https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7) | [Propaganda](https://open.spotify.com/album/6wvL9dA8qjQcoYd8qx6tJj) | 2:19 |
 | 37 | [I Wanna Thank Me \(feat\. Niecy Nash\)](https://open.spotify.com/track/6deUyNbUOrWDytrOtqehmr) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [Niecy Nash](https://open.spotify.com/artist/2hK8Hdnk56sxGMswzFbXaD) | [I Wanna Thank Me \(feat\. Niecy Nash\)](https://open.spotify.com/album/0XWBLjX39G0QsoItK55PmO) | 2:23 |
 | 38 | [Save The Night](https://open.spotify.com/track/5Kr5J35scjUhDCrUV5MUc7) | [Julian Perretta](https://open.spotify.com/artist/2JLl6rSFWx9YuSPLcLhkAG) | [Save The Night](https://open.spotify.com/album/3a8tw0DpL8VSdYQqoPCkSO) | 2:25 |
 | 39 | [My Girl \(with Da Tweekaz\)](https://open.spotify.com/track/2bzvrWspouWjonF0iQb7Tf) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Da Tweekaz](https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6) | [My Girl \(with Da Tweekaz\)](https://open.spotify.com/album/0Xj5todrbov5QKusXz2qmA) | 3:10 |

@@ -48738,7 +48738,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-29",
       "duration_ms": 88421,
       "name": "New Sneakers",
       "url": "https://open.spotify.com/track/5enJFKY7H1neRxwbvhtPOg"
@@ -81314,6 +81314,24 @@
       "duration_ms": 159731,
       "name": "Wildflower",
       "url": "https://open.spotify.com/track/4RtPqCiT8P4tmY0XkTbo9b"
+    },
+    {
+      "album": {
+        "name": "BLOOM",
+        "url": "https://open.spotify.com/album/1SgyC3urHkhSLxhwK7QMrT"
+      },
+      "artists": [
+        {
+          "name": "DYVN",
+          "url": "https://open.spotify.com/artist/0txJ9PYLXPk2Ojegw5Ty9X"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133536,
+      "name": "Wildflowers",
+      "url": "https://open.spotify.com/track/4YL6UaHAPGBEwU7L8HaXDU"
     },
     {
       "album": {

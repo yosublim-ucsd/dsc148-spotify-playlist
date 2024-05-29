@@ -5220,7 +5220,7 @@
       ],
       "date_added": "2022-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-29",
       "duration_ms": 173217,
       "name": "Br\u0101l' Ar Dz\u012bvi Nekaul\u0113",
       "url": "https://open.spotify.com/track/6IHo6KA0JW6FEHT0hdkx7s"
@@ -8818,7 +8818,7 @@
       ],
       "date_added": "2024-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-29",
       "duration_ms": 183741,
       "name": "Doomsday Blue",
       "url": "https://open.spotify.com/track/7qiEoVlFjb3KaytT2zgK1g"
@@ -12624,7 +12624,7 @@
       ],
       "date_added": "2023-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-28",
+      "date_removed": null,
       "duration_ms": 131872,
       "name": "greedy",
       "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
@@ -28462,7 +28462,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-29",
       "duration_ms": 210810,
       "name": "Salauzta Sirds (feat. Ozols)",
       "url": "https://open.spotify.com/track/4KV9h3YlxjISNYPKw8vpkw"
@@ -31078,7 +31078,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-27",
+      "date_removed": null,
       "duration_ms": 172533,
       "name": "Stargazing",
       "url": "https://open.spotify.com/track/3Vr3zh0r7ALn8VLqCiRR10"
@@ -40520,6 +40520,24 @@
       "duration_ms": 167608,
       "name": "\u0421\u0435\u043a\u0440\u0435\u0442",
       "url": "https://open.spotify.com/track/3pr2J4VXb5h8WhCu4ljify"
+    },
+    {
+      "album": {
+        "name": "\u041c\u043e\u043b\u0438\u0442\u0432\u044b. \u0410\u043d\u0435\u043a\u0434\u043e\u0442\u044b. \u0422\u043e\u0441\u0442\u044b.",
+        "url": "https://open.spotify.com/album/1eE8tgJvckpa4qYLp2L9ox"
+      },
+      "artists": [
+        {
+          "name": "Monetochka",
+          "url": "https://open.spotify.com/artist/0yp6xP5xe1qarfugfTixOK"
+        }
+      ],
+      "date_added": "2024-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188415,
+      "name": "\u0421\u0435\u043b\u0444\u0445\u0430\u0440\u043c",
+      "url": "https://open.spotify.com/track/46tUEN0dIhVxYbOgxCvkF4"
     },
     {
       "album": {

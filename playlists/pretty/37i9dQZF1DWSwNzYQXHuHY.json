@@ -1,6 +1,6 @@
 {
   "description": "\uc378\ud0c0\uace0 \uacc4\uc2e0\uac00\uc694? \uc124\ub808\uc784\uc774 \ub2f4\uae34 \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694. (There is something between us)",
-  "num_followers": 9801,
+  "num_followers": 9802,
   "original_name": "\uc378 (Something)",
   "owner": {
     "name": "Spotify",
@@ -263,6 +263,22 @@
     {
       "added_at": "2024-05-14 13:50:25",
       "album": {
+        "name": "HOSPITAL PLAYLIST Season2, Pt. 5 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/59BkLxDBXXGhuM3v6cvths"
+      },
+      "artists": [
+        {
+          "name": "CHO JUNG SEOK",
+          "url": "https://open.spotify.com/artist/0MU0Hxwaz1daT4FVqx3Smz"
+        }
+      ],
+      "duration_ms": 215880,
+      "name": "I Like You",
+      "url": "https://open.spotify.com/track/0yZ9MblP49OXpd9fwhgWi6"
+    },
+    {
+      "added_at": "2024-05-14 13:50:25",
+      "album": {
         "name": "Ordinary Love",
         "url": "https://open.spotify.com/album/6nI5vvp4jsLHC9M55PTqDE"
       },
@@ -279,22 +295,6 @@
       "duration_ms": 232866,
       "name": "Ordinary Love",
       "url": "https://open.spotify.com/track/1enx9LPZrXxaVVBxas5rRm"
-    },
-    {
-      "added_at": "2024-05-14 13:50:25",
-      "album": {
-        "name": "HOSPITAL PLAYLIST Season2, Pt. 5 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/59BkLxDBXXGhuM3v6cvths"
-      },
-      "artists": [
-        {
-          "name": "CHO JUNG SEOK",
-          "url": "https://open.spotify.com/artist/0MU0Hxwaz1daT4FVqx3Smz"
-        }
-      ],
-      "duration_ms": 215880,
-      "name": "I Like You",
-      "url": "https://open.spotify.com/track/0yZ9MblP49OXpd9fwhgWi6"
     },
     {
       "added_at": "2024-05-14 13:50:25",
@@ -663,22 +663,6 @@
     {
       "added_at": "2024-05-14 13:50:25",
       "album": {
-        "name": "A New Decade",
-        "url": "https://open.spotify.com/album/4mYVg4U1xnQyBA3hbH1DB4"
-      },
-      "artists": [
-        {
-          "name": "DINDIN",
-          "url": "https://open.spotify.com/artist/63cvWayCvPbWYNDi537w0z"
-        }
-      ],
-      "duration_ms": 219813,
-      "name": "Should Not Love You",
-      "url": "https://open.spotify.com/track/0Er9o2H59VVOmgMB4VG4fk"
-    },
-    {
-      "added_at": "2024-05-14 13:50:25",
-      "album": {
         "name": "What about (feat. PENOMECO)",
         "url": "https://open.spotify.com/album/1jaeVOAyGKNbE7I3xEL4ig"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 208690,
       "name": "What about (feat. PENOMECO)",
       "url": "https://open.spotify.com/track/6WdWUIfP8zAhkzdmknWjTd"
+    },
+    {
+      "added_at": "2024-05-14 13:50:25",
+      "album": {
+        "name": "A New Decade",
+        "url": "https://open.spotify.com/album/4mYVg4U1xnQyBA3hbH1DB4"
+      },
+      "artists": [
+        {
+          "name": "DINDIN",
+          "url": "https://open.spotify.com/artist/63cvWayCvPbWYNDi537w0z"
+        }
+      ],
+      "duration_ms": 219813,
+      "name": "Should Not Love You",
+      "url": "https://open.spotify.com/track/0Er9o2H59VVOmgMB4VG4fk"
     },
     {
       "added_at": "2024-05-14 13:50:25",
@@ -855,22 +855,18 @@
     {
       "added_at": "2024-05-14 13:50:25",
       "album": {
-        "name": "Unintentional Love Story Original Televion Soundtrack Pt. 3",
-        "url": "https://open.spotify.com/album/5QQ0WxXVEPNeGMgMj1anZS"
+        "name": "First Album",
+        "url": "https://open.spotify.com/album/18IkKu7CLawL4WKsTYvRwb"
       },
       "artists": [
         {
-          "name": "Dann",
-          "url": "https://open.spotify.com/artist/4ehtLyNdsw7CcJ29kmOeJT"
-        },
-        {
-          "name": "MUJIN",
-          "url": "https://open.spotify.com/artist/2nR3HIgrF5irB5FLRYaluH"
+          "name": "One More Chance",
+          "url": "https://open.spotify.com/artist/1mFRixk0TXvZkjBzvyJjEY"
         }
       ],
-      "duration_ms": 201238,
-      "name": "Traffic Accident",
-      "url": "https://open.spotify.com/track/3Nr9K1cYOCceaRArxWzoFf"
+      "duration_ms": 248293,
+      "name": "\ub110 \uc0dd\uac01\ud574",
+      "url": "https://open.spotify.com/track/21TczfwT8EREWUCE7fsvOb"
     }
   ],
   "unique_name": "\uc378 (Something)",

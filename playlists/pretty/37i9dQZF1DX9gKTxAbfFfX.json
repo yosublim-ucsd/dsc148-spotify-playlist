@@ -1,6 +1,6 @@
 {
   "description": "Tu banda sonora de este verano. Foto: Rauw Alejandro",
-  "num_followers": 716737,
+  "num_followers": 716778,
   "original_name": "Verano 2024",
   "owner": {
     "name": "Spotify",
@@ -955,22 +955,6 @@
     {
       "added_at": "2024-05-24 11:28:38",
       "album": {
-        "name": "Una Vaina Loca",
-        "url": "https://open.spotify.com/album/7biGrCxUFSXo530GF0E9RP"
-      },
-      "artists": [
-        {
-          "name": "Fuego",
-          "url": "https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul"
-        }
-      ],
-      "duration_ms": 188894,
-      "name": "Una Vaina Loca",
-      "url": "https://open.spotify.com/track/6YYmoV9YbBefsspGmqFHbs"
-    },
-    {
-      "added_at": "2024-05-24 11:28:38",
-      "album": {
         "name": "Touching The Sky",
         "url": "https://open.spotify.com/album/5WLJs3zhRQGPTOpMhFnJqa"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 187517,
       "name": "Touching The Sky",
       "url": "https://open.spotify.com/track/2SaRD7OpQ2A9ZeCOntar0g"
+    },
+    {
+      "added_at": "2024-05-24 11:28:38",
+      "album": {
+        "name": "Una Vaina Loca",
+        "url": "https://open.spotify.com/album/7biGrCxUFSXo530GF0E9RP"
+      },
+      "artists": [
+        {
+          "name": "Fuego",
+          "url": "https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul"
+        }
+      ],
+      "duration_ms": 188894,
+      "name": "Una Vaina Loca",
+      "url": "https://open.spotify.com/track/6YYmoV9YbBefsspGmqFHbs"
     },
     {
       "added_at": "2024-05-24 11:28:38",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2024-05-24 11:28:38",
       "album": {
+        "name": "Ganamos",
+        "url": "https://open.spotify.com/album/3lsdIWYVrtuWPdp1siBohA"
+      },
+      "artists": [
+        {
+          "name": "Rvfv",
+          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
+        }
+      ],
+      "duration_ms": 161111,
+      "name": "Ganamos",
+      "url": "https://open.spotify.com/track/75rRbBs3E52UMSUXbwkbzz"
+    },
+    {
+      "added_at": "2024-05-24 11:28:38",
+      "album": {
         "name": "Invicto",
         "url": "https://open.spotify.com/album/2oygVM25oyhOD01iz2xDzh"
       },
@@ -1339,22 +1355,6 @@
       "duration_ms": 215453,
       "name": "Hasta Que Se Seque el Malec\u00f3n (feat. Farruko) - Remix",
       "url": "https://open.spotify.com/track/6sMPwcpYtxm1mlgYbp1B0t"
-    },
-    {
-      "added_at": "2024-05-24 11:28:38",
-      "album": {
-        "name": "Ganamos",
-        "url": "https://open.spotify.com/album/3lsdIWYVrtuWPdp1siBohA"
-      },
-      "artists": [
-        {
-          "name": "Rvfv",
-          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
-        }
-      ],
-      "duration_ms": 161111,
-      "name": "Ganamos",
-      "url": "https://open.spotify.com/track/75rRbBs3E52UMSUXbwkbzz"
     },
     {
       "added_at": "2024-05-24 11:28:38",

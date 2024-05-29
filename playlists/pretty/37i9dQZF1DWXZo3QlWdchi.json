@@ -1,6 +1,6 @@
 {
   "description": "O melhor do rock ac\u00fastico nacional e internacional para curtir e relaxar.",
-  "num_followers": 302626,
+  "num_followers": 302645,
   "original_name": "Rock Ac\u00fastico",
   "owner": {
     "name": "Spotify",
@@ -63,18 +63,18 @@
     {
       "added_at": "2024-04-19 19:00:01",
       "album": {
-        "name": "Ac\u00fastico MTV",
-        "url": "https://open.spotify.com/album/2zu9De5vcXBYGg0X9g5LV8"
+        "name": "MTV Unplugged",
+        "url": "https://open.spotify.com/album/1ghzhhlGuTLCD790oXWJwX"
       },
       "artists": [
         {
-          "name": "Tit\u00e3s",
-          "url": "https://open.spotify.com/artist/2euX7vCVnJy3TVEGfc0RCl"
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
         }
       ],
-      "duration_ms": 296773,
-      "name": "Os Cegos do Castelo - Ao Vivo",
-      "url": "https://open.spotify.com/track/5Kayf37CYgsWqgkWMTHZPu"
+      "duration_ms": 330840,
+      "name": "Black - Live MTV Unplugged",
+      "url": "https://open.spotify.com/track/3xIaUb1WsnrqbJo6CsJMLO"
     },
     {
       "added_at": "2024-04-19 19:00:01",
@@ -95,18 +95,18 @@
     {
       "added_at": "2024-04-19 19:00:01",
       "album": {
-        "name": "MTV Unplugged",
-        "url": "https://open.spotify.com/album/1ghzhhlGuTLCD790oXWJwX"
+        "name": "Ac\u00fastico MTV",
+        "url": "https://open.spotify.com/album/2zu9De5vcXBYGg0X9g5LV8"
       },
       "artists": [
         {
-          "name": "Pearl Jam",
-          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+          "name": "Tit\u00e3s",
+          "url": "https://open.spotify.com/artist/2euX7vCVnJy3TVEGfc0RCl"
         }
       ],
-      "duration_ms": 330840,
-      "name": "Black - Live MTV Unplugged",
-      "url": "https://open.spotify.com/track/3xIaUb1WsnrqbJo6CsJMLO"
+      "duration_ms": 296773,
+      "name": "Os Cegos do Castelo - Ao Vivo",
+      "url": "https://open.spotify.com/track/5Kayf37CYgsWqgkWMTHZPu"
     },
     {
       "added_at": "2024-04-19 19:00:01",
@@ -879,22 +879,6 @@
     {
       "added_at": "2024-04-19 19:00:01",
       "album": {
-        "name": "Shadow Of The Day (Acoustic)",
-        "url": "https://open.spotify.com/album/2aYZc0kNNdUmCZh0IKz9dA"
-      },
-      "artists": [
-        {
-          "name": "Jota John",
-          "url": "https://open.spotify.com/artist/0GlO3eVL8owXjOAIvUWoMm"
-        }
-      ],
-      "duration_ms": 198715,
-      "name": "Shadow Of The Day - Acoustic",
-      "url": "https://open.spotify.com/track/0OjWAUdnGBzRFSELi5JW9m"
-    },
-    {
-      "added_at": "2024-04-19 19:00:01",
-      "album": {
         "name": "Pra Dizer Adeus (Ao Vivo)",
         "url": "https://open.spotify.com/album/0o5WvjHaxbnY8ftGZPVbbx"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 253232,
       "name": "Pra Dizer Adeus - Ao Vivo",
       "url": "https://open.spotify.com/track/0tXAm6W1xV2mDLVaO3Hn58"
+    },
+    {
+      "added_at": "2024-04-19 19:00:01",
+      "album": {
+        "name": "Shadow Of The Day (Acoustic)",
+        "url": "https://open.spotify.com/album/2aYZc0kNNdUmCZh0IKz9dA"
+      },
+      "artists": [
+        {
+          "name": "Jota John",
+          "url": "https://open.spotify.com/artist/0GlO3eVL8owXjOAIvUWoMm"
+        }
+      ],
+      "duration_ms": 198715,
+      "name": "Shadow Of The Day - Acoustic",
+      "url": "https://open.spotify.com/track/0OjWAUdnGBzRFSELi5JW9m"
     },
     {
       "added_at": "2024-04-19 19:00:01",
@@ -991,22 +991,6 @@
     {
       "added_at": "2024-04-19 19:00:01",
       "album": {
-        "name": "Todo Esse Querer (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1ZSXqXYxSowAAmmp4TnZW2"
-      },
-      "artists": [
-        {
-          "name": "Paulo Miklos",
-          "url": "https://open.spotify.com/artist/4GIB9MiZTggcpRXOPXRSJe"
-        }
-      ],
-      "duration_ms": 199201,
-      "name": "Todo Esse Querer - Ao Vivo",
-      "url": "https://open.spotify.com/track/6yF2bqWYzQZ9OrHvluR01O"
-    },
-    {
-      "added_at": "2024-04-19 19:00:01",
-      "album": {
         "name": "Capital Inicial Ac\u00fastico NYC (Ao Vivo) [Deluxe]",
         "url": "https://open.spotify.com/album/2t5g2yjLy9HIhWF0JskZTQ"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 224080,
       "name": "Pra Dizer Adeus - Trio Ac\u00fastico",
       "url": "https://open.spotify.com/track/5d3FwTgLhVIFf6UcSIfkk8"
+    },
+    {
+      "added_at": "2024-04-19 19:00:01",
+      "album": {
+        "name": "Todo Esse Querer (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1ZSXqXYxSowAAmmp4TnZW2"
+      },
+      "artists": [
+        {
+          "name": "Paulo Miklos",
+          "url": "https://open.spotify.com/artist/4GIB9MiZTggcpRXOPXRSJe"
+        }
+      ],
+      "duration_ms": 199201,
+      "name": "Todo Esse Querer - Ao Vivo",
+      "url": "https://open.spotify.com/track/6yF2bqWYzQZ9OrHvluR01O"
     },
     {
       "added_at": "2024-04-19 19:00:01",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2024-04-19 19:00:01",
       "album": {
-        "name": "A C\u00e9u Aberto (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2oX5IyR0rz8gSsEMRdv8Ju"
-      },
-      "artists": [
-        {
-          "name": "Nenhum De N\u00f3s",
-          "url": "https://open.spotify.com/artist/3bKO3mmizIpDdwNVdp96B9"
-        }
-      ],
-      "duration_ms": 244793,
-      "name": "Dan\u00e7a do Tempo - Ao Vivo",
-      "url": "https://open.spotify.com/track/4kW7M7L7LRPuPc3sO5yWi7"
-    },
-    {
-      "added_at": "2024-04-19 19:00:01",
-      "album": {
         "name": "Enquanto Houver Sol (Trio Ac\u00fastico)",
         "url": "https://open.spotify.com/album/5RLrPV95g4R45lyXxY2Bk9"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 213760,
       "name": "Enquanto Houver Sol - Trio Ac\u00fastico",
       "url": "https://open.spotify.com/track/3bahcqxOYXOFL5bSJAhZU2"
+    },
+    {
+      "added_at": "2024-04-19 19:00:01",
+      "album": {
+        "name": "A C\u00e9u Aberto (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2oX5IyR0rz8gSsEMRdv8Ju"
+      },
+      "artists": [
+        {
+          "name": "Nenhum De N\u00f3s",
+          "url": "https://open.spotify.com/artist/3bKO3mmizIpDdwNVdp96B9"
+        }
+      ],
+      "duration_ms": 244793,
+      "name": "Dan\u00e7a do Tempo - Ao Vivo",
+      "url": "https://open.spotify.com/track/4kW7M7L7LRPuPc3sO5yWi7"
     },
     {
       "added_at": "2024-04-19 19:00:01",

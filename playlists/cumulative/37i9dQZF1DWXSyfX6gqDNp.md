@@ -4,7 +4,7 @@
 
 > Slow instrumental Jazz for evening listening pleasure.
 
-293 songs - 18 hr 53 min
+295 songs - 19 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,6 +174,7 @@
 | [Monsieur Petit](https://open.spotify.com/track/355fsbshakbWMu6eB2gs20) | [The Collective](https://open.spotify.com/artist/36tnEBoX2HE41bmQi1xWKP) | [Monsieur Petit](https://open.spotify.com/album/2V7YRk0H2bv9kpDfpAYDMl) | 3:01 | 2023-04-27 |  |
 | [Mood](https://open.spotify.com/track/1LS7O7v95kU5BbZny7ooni) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [E.S.P.](https://open.spotify.com/album/16l5pMsJoz1KoHrxvXREBs) | 8:50 | 2021-12-14 | 2022-05-18 |
 | [Moonbow](https://open.spotify.com/track/1l54HHTbA5ze9DnvBL93aw) | [Willowdale](https://open.spotify.com/artist/57UeAcyqrdUXJlNLqXFtIF) | [Moonbow](https://open.spotify.com/album/3vAnUbVPNlM5HZzoYUFh4t) | 3:52 | 2022-04-26 | 2023-04-14 |
+| [Moonlit](https://open.spotify.com/track/5AGS3dJDEo3ZrsFfTw1c0D) | [Glass Trio](https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm) | [Moonlit](https://open.spotify.com/album/0bNizvznSsufj4wQ9bEE7q) | 2:55 | 2024-05-28 |  |
 | [Morning Thoughts](https://open.spotify.com/track/6RmrDk88DsK5ExQIT5EBee) | [The Groove Trio](https://open.spotify.com/artist/4vmN5DgVFk2GDBHDu1ZJeb) | [Soul Dancer](https://open.spotify.com/album/4xPexgYDxOJDqYkf4DtAKs) | 3:22 | 2023-03-16 |  |
 | [My Funny Valentine](https://open.spotify.com/track/4hCbA5XOPwCzNvUWKztpD9) | [J.J\. Johnson](https://open.spotify.com/artist/3hZ5sdhYTvgrmXIwtVwqmS) | [Proof Positive](https://open.spotify.com/album/7dTSo2PZoS6W7aKny9I1hW) | 3:02 | 2021-12-14 | 2022-05-25 |
 | [My Heart](https://open.spotify.com/track/3morX7bvyxeoiwt6G2HYnb) | [Paul Bley](https://open.spotify.com/artist/4HCwj3Nt6DTTmJCpHuQOeM) | [Paul Bley](https://open.spotify.com/album/3mZcpjzbEtUsgvOswFkpqP) | 2:37 | 2022-02-03 | 2022-11-11 |
@@ -195,6 +196,7 @@
 | [Once I Had A Secret Love](https://open.spotify.com/track/05prboiM4bmlXfvsvghvI1) | [CMC 3](https://open.spotify.com/artist/6GtEW3IyxraJqKi2h86JqC) | [Dear Old Stockholm](https://open.spotify.com/album/4GI4i7HoTbp7QQdMTGn28L) | 4:18 | 2021-12-14 | 2022-10-07 |
 | [Peace](https://open.spotify.com/track/2XbzKkjwyO7nVUThZSudGv) | [Winter Jazz Trio](https://open.spotify.com/artist/5qr5p04yN4FHmjJMuAq6Ne) | [Peace](https://open.spotify.com/album/1SR2WnYKiyvC2jTUcRhyIh) | 3:25 | 2021-12-14 |  |
 | [Perception Through A Crystal Orb](https://open.spotify.com/track/5P2fFIHidJIgfcHgs7v4fK) | [Joyce Trio](https://open.spotify.com/artist/75pnTZQozf5CtkbWxmUtCf) | [Perception Through A Crystal Orb](https://open.spotify.com/album/0vrjE37V3hoBoEBFW1FP4m) | 3:10 | 2022-06-08 |  |
+| [Place Under the Sun](https://open.spotify.com/track/4x1NJb0hSXhT042UVh6jky) | [Tate Jackson Trio](https://open.spotify.com/artist/2xOmrHsNNnSQQwav65tSwZ) | [Place Under the Sun](https://open.spotify.com/album/0yN7pXxZ5vcUTLv91aVdxa) | 3:24 | 2024-05-28 |  |
 | [Postcards](https://open.spotify.com/track/1IxO95D87hSIyA20XTLCiU) | [Greydon Park Band](https://open.spotify.com/artist/6pZIC4vzuNxdwy8hJSq29S) | [Postcards](https://open.spotify.com/album/6Oi5hnd7ZOiAlhv9AYTenT) | 3:05 | 2021-12-14 |  |
 | [Pretty Are Your Eyes](https://open.spotify.com/track/0QXIct82DEE5RmlpeVHE4Y) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [Stars in Your Eyes](https://open.spotify.com/album/0e1PjJ10JCgMQLAIUT4NJ4) | 3:13 | 2022-08-17 | 2023-02-24 |
 | [Pretty Ballad](https://open.spotify.com/track/4T82mssmK8VpyjB6QVMlcI) | [Louis Silva Band](https://open.spotify.com/artist/73EUNkbwvo1Y6ZmVjummIq) | [Pretty Ballad](https://open.spotify.com/album/03Xyg4vzclkEFYYnLDvGMB) | 3:26 | 2021-12-14 | 2023-01-13 |

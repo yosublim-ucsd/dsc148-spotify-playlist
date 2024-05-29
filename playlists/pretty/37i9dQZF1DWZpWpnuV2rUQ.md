@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZpWpnuV2rUQ.md) - [plain]
 
 > Hits virales, tendencias y challenges del futuro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,153 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,202 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Cierre Rkt](https://open.spotify.com/track/1NVBLZ63QLBjBoh5Tf0pKj) | [Eze Remix](https://open.spotify.com/artist/3rYTay1spPOr6LYSAdQ9AT), [Matt Sebastian](https://open.spotify.com/artist/47LeSViBakxCTkCjQ1NYdt) | [Cierre Rkt](https://open.spotify.com/album/5ZFFrfRXB0esjxL87DTqWd) | 2:00 |
 | 2 | [Tumba](https://open.spotify.com/track/4DDmzgsqbZ2qwKbOnV9Bzp) | [Thomy DJ](https://open.spotify.com/artist/1owf6hAeplDLF3a8lwI6kY) | [Tumba](https://open.spotify.com/album/6xRnX8OHHyd71M3zjC6Ths) | 3:00 |
-| 3 | [Tu Foto](https://open.spotify.com/track/3cWo162YkfLIFyB3DWbVoH) | [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y), [Valentino Merlo](https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6) | [Tu Foto](https://open.spotify.com/album/2zsRRXZwCOTRvF8r2m7TRv) | 3:00 |
+| 3 | [Tu Foto \- En Vivo](https://open.spotify.com/track/3cWo162YkfLIFyB3DWbVoH) | [Valentino Merlo](https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6), [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y) | [Tu Foto](https://open.spotify.com/album/2zsRRXZwCOTRvF8r2m7TRv) | 3:00 |
 | 4 | [MAS LENTITO RKT](https://open.spotify.com/track/2K1VdnrPKRQCzLT5EjLwJ9) | [djsantaa](https://open.spotify.com/artist/068E65n4GrnZLh7vEJtxqS), [Bruno Chavez Dj](https://open.spotify.com/artist/6pf1Aic1aYncmOxV1D9gh5) | [MAS LENTITO RKT](https://open.spotify.com/album/69n7QKDtjFcunerQJk4Wr2) | 3:02 |
 | 5 | [Lola](https://open.spotify.com/track/6x5wWTNpTWuWrFmqxKAmOs) | [Jedis](https://open.spotify.com/artist/3RJORoXd6fJDeyOZJ4YgTN), [Gote](https://open.spotify.com/artist/3gaGawsSUSeW2xyOJ7dDal), [Nolep](https://open.spotify.com/artist/595aNEU6YVFkUuJ3rzFDau) | [Lola](https://open.spotify.com/album/0zTDg24VVw7fQerm0Y7Vua) | 4:38 |
 | 6 | [30 GRADOS](https://open.spotify.com/track/0GVPemmAwkXhFlYimhdDr3) | [El Turko](https://open.spotify.com/artist/7aqaIr9F3tHP7BMsmfAL8Z), [Mandale Flow](https://open.spotify.com/artist/2mrlK4Ow9Fb9U50qbkRMZd) | [30 Grados](https://open.spotify.com/album/1gH4rdxJyj8q8fakRAvQHg) | 2:31 |

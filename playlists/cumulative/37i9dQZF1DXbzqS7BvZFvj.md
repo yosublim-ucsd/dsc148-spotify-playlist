@@ -4,7 +4,7 @@
 
 > 最前線のヒップホップ・シーンで活躍するアーティストのトラックをピックアップ。Cover: Cash Cobain, J.Cole
 
-658 songs - 1 day 9 hr 31 min
+659 songs - 1 day 9 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -649,10 +649,11 @@
 | [Wildlife \(feat\. Sleepy Hallow\)](https://open.spotify.com/track/350eBNxmi87YdMxQvauyUQ) | [Scorey](https://open.spotify.com/artist/0X3nsc84A9qlFilmlWNwQb), [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV) | [Wildlife \(feat\. Sleepy Hallow\)](https://open.spotify.com/album/6NRSyW6U2CGW7eedBPyB3f) | 2:53 | 2024-05-23 |  |
 | [Win](https://open.spotify.com/track/4X4EtnTuuVY0QMZroFVwHY) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [Win](https://open.spotify.com/album/5bncDKF5dQRBc1Ze0GbGUf) | 3:55 | 2023-06-15 | 2023-07-14 |
 | [WitDemDicks!](https://open.spotify.com/track/6ycYxIWYm4pdfiFPHHTzWA) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [WitDemDicks!](https://open.spotify.com/album/1RJFocwXeGvzaJgl7uMxBc) | 1:12 | 2023-03-16 | 2023-04-09 |
+| [WOKE UP](https://open.spotify.com/track/4keuUM29CtIWgsPRzRhXoW) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [WOKE UP](https://open.spotify.com/album/2e9eizo3Euh2aaBef2B2bw) | 3:08 | 2024-05-28 |  |
 | [WOO \[Feat\. PlayThatBoiZay, Chief Pound\]](https://open.spotify.com/track/4RjLOOdis03Tfu8rpcnUBu) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [PlayThatBoiZay](https://open.spotify.com/artist/04eqrYwakzHXxRABNRWbwM), [Chief Pound](https://open.spotify.com/artist/6LaTLiY08GpquuOk8433Wb) | [SKED \[Feat\. Kenny Mason\]](https://open.spotify.com/album/3ECd3BfxdM6KTjoYpITN0R) | 3:01 | 2023-10-06 | 2023-11-11 |
 | [WTF \(feat\. Nicki Minaj\)](https://open.spotify.com/track/35NkPKSmtu6lCht95nukpr) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [WTF \(feat\. Nicki Minaj\)](https://open.spotify.com/album/42wum3mrRoMbV9QoZqpIZK) | 2:40 | 2023-04-07 | 2023-06-23 |
 | [WUACV](https://open.spotify.com/track/2HC0LgjchkWSGoOyKIxklv) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [WUACV](https://open.spotify.com/album/5843qUT24X5eDb3dJyNVqr) | 2:17 | 2023-09-07 | 2023-10-19 |
-| [X\-GENE](https://open.spotify.com/track/4JDJdj7QuqHEqDuOeQzboZ) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [NEW DNA](https://open.spotify.com/album/5ltOyfF29bg84gvBJPLOgj) | 1:25 | 2023-09-28 |  |
+| [X\-GENE](https://open.spotify.com/track/4JDJdj7QuqHEqDuOeQzboZ) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [NEW DNA](https://open.spotify.com/album/5ltOyfF29bg84gvBJPLOgj) | 1:25 | 2023-09-28 | 2024-05-29 |
 | [YEAH](https://open.spotify.com/track/64lp69KnGmOUNnu9EaRTTI) | [OG BOBBY](https://open.spotify.com/artist/43dGDLrsposfk1tD7omTDe), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [YEAH](https://open.spotify.com/album/6Si3b37FOS0251tjPO3hB5) | 3:27 | 2023-04-07 | 2024-01-13 |
 | [YES!](https://open.spotify.com/track/577J3qiLUuwmdz6r2GdgJM) | [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI) | [MICHAEL \(Deluxe\)](https://open.spotify.com/album/5dhb5ZpYSm2gH8OCxAKTn1) | 2:57 | 2023-09-14 | 2023-10-23 |
 | [You \(feat\. Bryson Tiller\)](https://open.spotify.com/track/6TkH5GHcf1U8kfqTkMFsau) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [You \(feat\. Bryson Tiller\)](https://open.spotify.com/album/7DMxs55TJunN8qsvbGDBXl) | 2:41 | 2023-09-21 | 2023-11-11 |

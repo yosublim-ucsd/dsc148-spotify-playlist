@@ -5155,6 +5155,24 @@
     },
     {
       "album": {
+        "name": "Thedalae",
+        "url": "https://open.spotify.com/album/1y75Hi81uXLV51z6lqEIuI"
+      },
+      "artists": [
+        {
+          "name": "Rishi K",
+          "url": "https://open.spotify.com/artist/43IKH64gsHdNOnpTcUbIQj"
+        }
+      ],
+      "date_added": "2024-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192037,
+      "name": "Thedalae",
+      "url": "https://open.spotify.com/track/7sVRkXRallJK4uB4WTna14"
+    },
+    {
+      "album": {
         "name": "Thedathey",
         "url": "https://open.spotify.com/album/5a6JL9PuMZVB0uNh2XsFPV"
       },

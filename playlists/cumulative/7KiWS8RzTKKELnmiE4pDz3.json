@@ -45,6 +45,32 @@
     },
     {
       "album": {
+        "name": "#RICHAXXHAITIAN",
+        "url": "https://open.spotify.com/album/3akQbvTaRFTiQYZILxVm3E"
+      },
+      "artists": [
+        {
+          "name": "Mach-Hommy",
+          "url": "https://open.spotify.com/artist/3ZMur3elMyOs248ah86NRk"
+        },
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "03 Greedo",
+          "url": "https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp"
+        }
+      ],
+      "date_added": "2024-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167142,
+      "name": "#RICHAXXHAITIAN",
+      "url": "https://open.spotify.com/track/0B0lGy8qd6kohNFUz7cneO"
+    },
+    {
+      "album": {
         "name": "#RR anthem",
         "url": "https://open.spotify.com/album/4kx6gdqlC7kOav6MLyxS5a"
       },
@@ -1654,6 +1680,32 @@
       "duration_ms": 128000,
       "name": "Black",
       "url": "https://open.spotify.com/track/45k6Qexq0mavylcq1hNl4G"
+    },
+    {
+      "album": {
+        "name": "Black & Whites",
+        "url": "https://open.spotify.com/album/67eSCwLxuPQZ0jKI373JSt"
+      },
+      "artists": [
+        {
+          "name": "Big Hit",
+          "url": "https://open.spotify.com/artist/1zQJBLCGM0tdPW9XwgdEll"
+        },
+        {
+          "name": "Hit-Boy",
+          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        }
+      ],
+      "date_added": "2024-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220589,
+      "name": "Black & Whites",
+      "url": "https://open.spotify.com/track/4uf1XtTgsXPzpqsFZeRfFb"
     },
     {
       "album": {
@@ -10342,6 +10394,24 @@
       "duration_ms": 180934,
       "name": "Same Yung Nigga (feat. Playboi Carti)",
       "url": "https://open.spotify.com/track/1q9jq5X5vwmewjOa2mHtQ1"
+    },
+    {
+      "album": {
+        "name": "Samurai",
+        "url": "https://open.spotify.com/album/1xG63QNNCiQvy0PERgfpaH"
+      },
+      "artists": [
+        {
+          "name": "Lupe Fiasco",
+          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
+        }
+      ],
+      "date_added": "2024-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194786,
+      "name": "Samurai",
+      "url": "https://open.spotify.com/track/00LGJRRqN4AtSpHrvjIyiJ"
     },
     {
       "album": {

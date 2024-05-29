@@ -2417,6 +2417,36 @@
     },
     {
       "album": {
+        "name": "For Life (feat. Zak Abel & Nile Rodgers) [Vandelux Remix]",
+        "url": "https://open.spotify.com/album/3fDanWobscPAjBZhL5hjRk"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Zak Abel",
+          "url": "https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+        },
+        {
+          "name": "Vandelux",
+          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
+        }
+      ],
+      "date_added": "2024-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174555,
+      "name": "For Life (feat. Zak Abel & Nile Rodgers) - Vandelux Remix",
+      "url": "https://open.spotify.com/track/5qTKHndp6DbjeMGaxbhrCY"
+    },
+    {
+      "album": {
         "name": "Forever Right Now",
         "url": "https://open.spotify.com/album/6y6OedMcsikB2qu97QB732"
       },

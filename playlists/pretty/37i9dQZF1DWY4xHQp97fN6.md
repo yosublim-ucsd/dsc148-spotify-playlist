@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY4xHQp97fN6.md) - [plain]
 
 > Mood: Turnt
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,660,366 likes - 100 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,660,404 likes - 100 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY4xHQp97fN6.md) - [plain]
 | 27 | [She's Back](https://open.spotify.com/track/3PR8q1B3b6hsJlwphfgCZK) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [In Sexyy We Trust](https://open.spotify.com/album/5PmtX9B5vNa4uaiXQVn4Gx) | 2:42 |
 | 28 | [on one tonight](https://open.spotify.com/track/6EUcP55GlbmsmCzfL2vxtZ) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [One of Wun](https://open.spotify.com/album/7g0PJ7VbsOkYTECUFkyNPN) | 1:30 |
 | 29 | [OKAY](https://open.spotify.com/track/0e1KTuawmiFLiK0Lh3nNtM) | [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m) | [OKAY](https://open.spotify.com/album/7AmtY0qyLuqkGXYu7lOLjL) | 2:44 |
-| 30 | [NOTT](https://open.spotify.com/track/69zAjL2CE6gUO9DaHNjK8c) | [Hitkidd](https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5), [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC) | [NOTT](https://open.spotify.com/album/6DMRH8HHK7eKqz47CXCPbo) | 3:02 |
+| 30 | [NOTT](https://open.spotify.com/track/69zAjL2CE6gUO9DaHNjK8c) | [Hitkidd](https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5), [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC) | [NOTT](https://open.spotify.com/album/6DMRH8HHK7eKqz47CXCPbo) | 3:01 |
 | 31 | [treesh](https://open.spotify.com/track/50vVMueaWOYOfyQUQKdaFq) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [One of Wun](https://open.spotify.com/album/7g0PJ7VbsOkYTECUFkyNPN) | 2:12 |
 | 32 | [Over Hoes & Bitches \(OHB\)](https://open.spotify.com/track/0pwfqpMLUFZChx6HLiiBn2) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Over Hoes & Bitches \(OHB\)](https://open.spotify.com/album/6Knd5yobY4gPdELLHM92pu) | 2:22 |
 | 33 | [Tweak \(with Kyle Richh, Jenn Carter & TaTa\)](https://open.spotify.com/track/7H29Nxj2XqsUNGkO6vH2MZ) | [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU), [Jenn Carter](https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM), [TaTa](https://open.spotify.com/artist/43s6uFZrdusv7ggmDSpO41) | [Tweak](https://open.spotify.com/album/2A5sxDsXqXaqQ9whtIJpol) | 2:58 |

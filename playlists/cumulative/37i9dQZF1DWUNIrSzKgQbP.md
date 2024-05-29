@@ -4,7 +4,7 @@
 
 > Sweet songs for sunny days.
 
-669 songs - 1 day 17 hr 54 min
+672 songs - 1 day 18 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -460,6 +460,7 @@
 | [Rose Petals](https://open.spotify.com/track/2qWuegI1pmesQPRvzgnokk) | [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [Hundred Acres](https://open.spotify.com/album/4H1xbaXxVDmHnFQ5ifzyM4) | 3:33 | 2022-09-06 | 2023-12-16 |
 | [Rosyln](https://open.spotify.com/track/4k7x3QKrc3h3U0Viqk0uop) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ), [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [The Twilight Saga: New Moon \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2PDlvc7K51qC4Bkali3q0R) | 4:49 | 2022-09-06 | 2022-12-21 |
 | [Ruined](https://open.spotify.com/track/2NUIlCRqz6OxgGOipYqBCw) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Ruined](https://open.spotify.com/album/71N25vEnlT0Xc5GGCQGzuA) | 4:32 | 2023-12-15 | 2024-03-16 |
+| [Sail on the Water](https://open.spotify.com/track/7gYiZXvvD8H6f0lEvLUQHD) | [Molly Parden](https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5) | [Sail on the Water](https://open.spotify.com/album/0RiF9qA2En4shWcPAC5Pz5) | 4:21 | 2024-05-28 |  |
 | [Salt And The Sea \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/13ohpzdtJcFgRyxLLQ1ftY) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Spotify Singles](https://open.spotify.com/album/6zsyF9yFf1KzJIt4mJJNzj) | 5:14 | 2023-03-15 | 2024-05-21 |
 | [Salvation Army](https://open.spotify.com/track/2WKH12vONrIi0NWdUsPM5y) | [Harrison Whitford](https://open.spotify.com/artist/2KAaIurA00NK4IAnbC6nB8) | [Afraid of Nothing](https://open.spotify.com/album/6dx3PkUd6rUBC5CaVShL0N) | 3:48 | 2023-12-15 | 2024-03-16 |
 | [San Luis](https://open.spotify.com/track/7gDNQLV9cr8449LFrQbk5J) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [Evening Machines](https://open.spotify.com/album/5K7PZiOlAn8sxxhh0QTFuJ) | 4:32 | 2021-12-20 | 2023-12-16 |
@@ -532,8 +533,10 @@
 | [Stubborn Love](https://open.spotify.com/track/3ekNuTF3UpOvIZCfiejpnC) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [The Lumineers](https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW) | 4:39 | 2023-12-15 | 2024-03-16 |
 | [Stubborn Love](https://open.spotify.com/track/4aO4CW3CUvA5yQeiWZQFju) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [The Lumineers \(Deluxe Edition\)](https://open.spotify.com/album/31rem78oWvclOVx1KXBAuq) | 4:39 | 2022-09-06 | 2023-12-16 |
 | [Such A Simple Thing](https://open.spotify.com/track/4PuUa8e5s7P3Zv1IdCGIsa) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Part Of The Light](https://open.spotify.com/album/7dozbeo4NF2OyFayHPKI1f) | 4:56 | 2023-06-21 |  |
+| [Summer Clothes \(Acoustic\)](https://open.spotify.com/track/1TUPVZvzEg7M2kU7QfLZwm) | [Marc Scibilia](https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77) | [Seed of Joy](https://open.spotify.com/album/4ivyT3pP5juItg8Yblaqfn) | 2:18 | 2024-05-28 |  |
 | [Summer Girl](https://open.spotify.com/track/3MkcVmqLSxHTkTFgczctbQ) | [Family of the Year](https://open.spotify.com/artist/7zsin6IgVsR1rqSRCNYDwq) | [Songbook](https://open.spotify.com/album/0HaxURSQDvUzdSDGcrgkDz) | 3:16 | 2022-06-07 | 2022-09-07 |
 | [Summer Guest](https://open.spotify.com/track/2x4DW2FItY2bHdOvEm30kM) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [In the Silence](https://open.spotify.com/album/69ca0kNrnT5F8jvzNpEjD8) | 3:44 | 2022-06-07 | 2022-09-07 |
+| [Summer in Sweden](https://open.spotify.com/track/1LokUjbKTVhz8wBoqL9fRX) | [Melanie MacLaren](https://open.spotify.com/artist/2R1li8gWj9IYRHBAHzylbF) | [Summer in Sweden](https://open.spotify.com/album/3RkTNWVtI8tSe7NroYDpdh) | 3:59 | 2024-05-28 |  |
 | [Sunday Funday](https://open.spotify.com/track/2OjZhG8BnvrsVWqGnZk4PO) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [Jockeys of Love](https://open.spotify.com/album/3yAepUj1zxXIt5g7w6uvYT) | 4:16 | 2023-06-21 |  |
 | [Sunset Strip](https://open.spotify.com/track/11GJY4xMU7GcHZ2ODYhHqX) | [J.E\. Sunde](https://open.spotify.com/artist/17x8QHiHxUhMSEv26RT7lW) | [Sunset Strip](https://open.spotify.com/album/5wYMHpstmqwu9rmR9bqgym) | 3:33 | 2022-03-21 | 2022-06-08 |
 | [Swallow](https://open.spotify.com/track/3nabP5VT5CKms8pORQTOjx) | [Postcards From Mars](https://open.spotify.com/artist/7IXOXREuu6HjgHbHvNjjFO) | [Swallow](https://open.spotify.com/album/3ilsnJejDhrOuDgbTYTQOj) | 2:16 | 2022-03-21 | 2022-06-08 |

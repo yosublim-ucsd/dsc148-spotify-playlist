@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,229 likes - 129 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,231 likes - 129 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 35 | [Fräknar](https://open.spotify.com/track/3Jy9HaBTPyXsfindjkGtsW) | [Korsvägen](https://open.spotify.com/artist/7L3NPrvG2cKQrvQpeZI2XT) | [Fräknar](https://open.spotify.com/album/2O3LOCmrA39t1j8azoxKX0) | 3:43 |
 | 36 | [BeReal](https://open.spotify.com/track/2VX7K6KHk5Qx3bcgiO4ugi) | [Amanda Cy](https://open.spotify.com/artist/7ocbmQfDODtTh1CFeK66wW) | [Waterworks](https://open.spotify.com/album/4o329n3fKBiuDuE66t0s1L) | 2:08 |
 | 37 | [ENERGI](https://open.spotify.com/track/0N5khQ2R2C9r6zUWj5Rgwl) | [Haley Bridge](https://open.spotify.com/artist/26Wvz5jI7hC4OZ59mRIqos) | [ENERGI](https://open.spotify.com/album/670PVkgGQoiAqGdlT9O39j) | 3:13 |
-| 38 | [Gegagedigedagedago \(Cotton Eye Joe Viral Version\) \- Gegagedigedagedago \(with Razi\) \[Cotton Eye Joe Viral Version\]](https://open.spotify.com/track/5PZEY7GQnozAM20AECyryR) | [Rednex](https://open.spotify.com/artist/22Zqu1yyebVnbve8FxbJ2g), [Razi](https://open.spotify.com/artist/3BiOCDs5cPIRMyOX5f5nC3) | [Gegagedigedagedago \(Cotton Eye Joe Viral Version\)](https://open.spotify.com/album/7ppANxRYsiauednEVILNlz) | 2:35 |
+| 38 | [Gegagedigedagedago \[Cotton Eye Joe Viral Version\] \- Gegagedigedagedago \(with Razi\) \[Cotton Eye Joe Viral Version\]](https://open.spotify.com/track/5PZEY7GQnozAM20AECyryR) | [Rednex](https://open.spotify.com/artist/22Zqu1yyebVnbve8FxbJ2g), [Razi](https://open.spotify.com/artist/3BiOCDs5cPIRMyOX5f5nC3) | [Gegagedigedagedago \(Cotton Eye Joe Viral Version\)](https://open.spotify.com/album/7ppANxRYsiauednEVILNlz) | 2:35 |
 | 39 | [Flava \(feat\. Coi Leray\)](https://open.spotify.com/track/3VDpWtgUilVuM2WICHgr9n) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Never Gets Late Here](https://open.spotify.com/album/2wkK1n9m6c7OutXRgtvVsz) | 2:44 |
 | 40 | [oh ah](https://open.spotify.com/track/31fAQ8MjS5r3hgIQMx17Pn) | [The High](https://open.spotify.com/artist/5mKNjpx3SmjNqtxQTmuo9Z) | [oh ah](https://open.spotify.com/album/2fTBaUXMJVI8pQ39YYZkUK) | 2:03 |
 | 41 | [Pink Skies](https://open.spotify.com/track/4ZJ4vzLQekI0WntDbanNC7) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Pink Skies](https://open.spotify.com/album/7LRZfujsTLyy814AnMSdtT) | 3:14 |
@@ -87,7 +87,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 77 | [My Hands In The Water](https://open.spotify.com/track/3pGJFOWqwUrxVt4Tzl8YVC) | [Amanda Bergman](https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80) | [My Hands In The Water](https://open.spotify.com/album/1k9WtmIp5FQmQi5c1BRKYj) | 4:36 |
 | 78 | [Old Fashioned Feeling](https://open.spotify.com/track/1mlFsqgc3lgTCboLATYHBo) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [Old Fashioned Feeling](https://open.spotify.com/album/3ojGoD6lwIzSjHKqgndFD9) | 3:22 |
 | 79 | [Made Nigga](https://open.spotify.com/track/0iRJcsr0WyHqhJSWN9aMru) | [JB](https://open.spotify.com/artist/6Xln2zf2OkGDhFKUQcw1yB) | [Försöker Hitta Hem](https://open.spotify.com/album/1Dl3Mu1BQODg31Nw8c2vJW) | 2:24 |
-| 80 | [Push](https://open.spotify.com/track/29OFLlrrfKIEVwbVMTjBYe) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg), [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN), [Contra](https://open.spotify.com/artist/73BAwJ65pT6RvwR7JEkfEv), [OFFAIAH](https://open.spotify.com/artist/2E1NFr5AeEGUJkLUUsWCAO) | [Push](https://open.spotify.com/album/3GSEVlHrbrQbKSP4ozWzx8) | 3:05 |
+| 80 | [Push](https://open.spotify.com/track/29OFLlrrfKIEVwbVMTjBYe) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg), [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN), [contra](https://open.spotify.com/artist/5VYRcaryFLFZnA5HvnRHFi), [OFFAIAH](https://open.spotify.com/artist/2E1NFr5AeEGUJkLUUsWCAO) | [Push](https://open.spotify.com/album/3GSEVlHrbrQbKSP4ozWzx8) | 3:05 |
 | 81 | [Värsta du vet](https://open.spotify.com/track/1GrDyupDXoidlVeHhtHOq0) | [Dom Första](https://open.spotify.com/artist/10uLT8GVnmWiYqegEwaO70) | [Värsta du vet](https://open.spotify.com/album/1fiRqIx0ui4CdtwMx6XSTu) | 2:44 |
 | 82 | [Blommor och vin](https://open.spotify.com/track/1UzjSwv0Y4mfR0poaMXBD2) | [noll2](https://open.spotify.com/artist/6goq2OWu3ncHBnpFtCZGHR) | [Blommor och vin](https://open.spotify.com/album/466YolZMVkiRuWjUsCHGEr) | 3:01 |
 | 83 | [Hell or High Water \(From Twisters: The Album\)](https://open.spotify.com/track/0M40J5bPZACa2XXC5GF8tn) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Hell or High Water \(From Twisters: The Album\)](https://open.spotify.com/album/75bF2ZeHewzInYro8m5IYE) | 3:14 |

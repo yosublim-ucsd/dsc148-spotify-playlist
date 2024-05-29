@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO14TklP.md) - [plain]
 
 ### [This Is Ebony](https://open.spotify.com/playlist/37i9dQZF1DZ06evO14TklP)
 
-> This is Ebony\. The essential tracks, all in one playlist.
+> This is Ebony\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,189 likes - 43 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,205 likes - 43 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO14TklP.md) - [plain]
 | 32 | [Tanto Faz](https://open.spotify.com/track/7s6Raq8Yvdhjsa38Bnpp8t) | [Black Queen](https://open.spotify.com/artist/12jMN5SeE8STo77it3FXWv), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [Tanto Faz](https://open.spotify.com/album/5KpJdmvfZhyew4cg0GLqHS) | 3:16 |
 | 33 | [Shoota \(feat\. Lourena & Ebony\)](https://open.spotify.com/track/2Rm9BPm41nqS7e5Ahr66nh) | [Bianca Costa](https://open.spotify.com/artist/1DcL22xdIWcdNa4ZHaXZjT), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh) | [Shoota \(feat\. Lourena & Ebony\)](https://open.spotify.com/album/57xOlXhPYfW4Vyjf6IasoE) | 3:32 |
 | 34 | [Caneta](https://open.spotify.com/track/6pivmOyA8mAoCkhSE4H5rL) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [BENO](https://open.spotify.com/artist/6SZeSPUyGxCMBcaysxnYny), [Nave](https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J) | [Visão Periférica](https://open.spotify.com/album/5eNapidkVarWi1MlD8fMjx) | 3:08 |
-| 35 | [Lipstick](https://open.spotify.com/track/7jW8WhCSI4jro6B9f4hQyN) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [AJ Wav](https://open.spotify.com/artist/7zVUKHKN1NSVZx7LMsG3B8) | [Condessa](https://open.spotify.com/album/09p3ofskrFXhmN9dUe5Aiu) | 2:30 |
-| 36 | [Que Dia É Hoje](https://open.spotify.com/track/02byVHeKRX0Vj5Vl4rbeu0) | [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp), [Léo Casa 1](https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD), [JayA Luuck](https://open.spotify.com/artist/4oxFgud0qa3A1tE6JFpFVp), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [Vk Mac](https://open.spotify.com/artist/62T0up856eHZQ8BE6V6fJs), [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX), [Brenda Minni](https://open.spotify.com/artist/4ghtdtCtMlEmNyyTP9bSN9) | [Que Dia É Hoje](https://open.spotify.com/album/0Kk44oAU5n6vR6eEFEh41O) | 5:53 |
+| 35 | [Que Dia É Hoje](https://open.spotify.com/track/02byVHeKRX0Vj5Vl4rbeu0) | [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp), [Léo Casa 1](https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD), [JayA Luuck](https://open.spotify.com/artist/4oxFgud0qa3A1tE6JFpFVp), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [Vk Mac](https://open.spotify.com/artist/62T0up856eHZQ8BE6V6fJs), [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX), [Brenda Minni](https://open.spotify.com/artist/4ghtdtCtMlEmNyyTP9bSN9) | [Que Dia É Hoje](https://open.spotify.com/album/0Kk44oAU5n6vR6eEFEh41O) | 5:53 |
+| 36 | [Lipstick](https://open.spotify.com/track/7jW8WhCSI4jro6B9f4hQyN) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [AJ Wav](https://open.spotify.com/artist/7zVUKHKN1NSVZx7LMsG3B8) | [Condessa](https://open.spotify.com/album/09p3ofskrFXhmN9dUe5Aiu) | 2:30 |
 | 37 | [FREESTYLE DAS FAIXA ROSA](https://open.spotify.com/track/5wmnvwl9CFEr2Td4xkJ1ZK) | [WillsBife](https://open.spotify.com/artist/3QlBuIqyonbRMU1yZIh7o3), [ONNiKA](https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [FEBRE AMARELA \(Deluxe Edition\)](https://open.spotify.com/album/59JY68uudM8V2Xm26iIZBL) | 2:35 |
 | 38 | [Bourbon \- Ao Vivo no Estúdio MangoLab](https://open.spotify.com/track/4UMHhiFTQwywcStHOjKzVc) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [MangoLab](https://open.spotify.com/artist/5Dy75ZScAdoNKi4vC8oCym) | [Bourbon \(Ao Vivo no Estúdio MangoLab\)](https://open.spotify.com/album/5Z9yIfKWr5Z3gxSu1Akmw8) | 1:50 |
 | 39 | [Temporary Lover](https://open.spotify.com/track/2ZbNMj59rGrfDrKOHjOQTN) | [Adrian Jean](https://open.spotify.com/artist/3mODeiHTEGj5TukYd3AmUl), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [Temporary Lover](https://open.spotify.com/album/0OVY3vUCNOUZ1Ft45kPG9G) | 3:51 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO14TklP.md) - [plain]
 | 42 | [Real \#1](https://open.spotify.com/track/3MYXpGRSON2fnk5mBDXZYQ) | [A Banca Records](https://open.spotify.com/artist/0Do6bAo2kcVLp7ekzypskJ), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [Ryan Realcria](https://open.spotify.com/artist/24km46riM1Ch9H1eNDQcuX), [Shok](https://open.spotify.com/artist/5cQwJrjTcPI5Nv61Xv3nsA) | [Real \#1](https://open.spotify.com/album/5RqJ4CKcQh27b9ReXQtv7L) | 2:44 |
 | 43 | [STRIP](https://open.spotify.com/track/2T7Q50UA0YjrXJuRTLWXi2) | [WillsBife](https://open.spotify.com/artist/3QlBuIqyonbRMU1yZIh7o3), [Dalua](https://open.spotify.com/artist/7awGveT87ZP4UoZxuv0zym), [Geenuino, o PAI](https://open.spotify.com/artist/7En5XJruIoWKL6lgD7carJ), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [NP Vocal](https://open.spotify.com/artist/2mCaOwbPetRnHmVUwnCTMU), [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg) | [FEBRE AMARELA](https://open.spotify.com/album/6niwDsmhFpUuWWoiT9s3q4) | 4:37 |
 
-Snapshot ID: `ZlJ7gAAAAADWpTIZQ6hVamrmwaT93ao+`
+Snapshot ID: `ZlPNAAAAAACom6axkRMz/bijGJIWS6rI`

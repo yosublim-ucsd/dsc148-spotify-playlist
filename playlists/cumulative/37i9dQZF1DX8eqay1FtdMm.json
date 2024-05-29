@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Meet the best Korean vocalists who will melt your eardrums! (Cover: Kim Kyung Ho(\uae40\uacbd\ud638)) (\uc5ec\ub7ec\ubd84\uc758 \uace0\ub9c9\uc744 \ub179\uc5ec\uc904 \ud55c\uad6d \ucd5c\uace0\uc758 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "name": "v o K a l",
+  "description": "Check out new and recommended songs from Korea's legendary rock vocalist Kim Kyung-ho! (\ub300\ud55c\ubbfc\uad6d \uc804\uc124\uc801\uc778 \ub85d \ubcf4\uceec \uae40\uacbd\ud638\uc758 \uc2e0\uace1\uacfc \ucd94\ucc9c\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "name": "v o K a l: Kim Kyung Ho Takeover",
   "tracks": [
     {
       "album": {
@@ -153,6 +153,24 @@
     },
     {
       "album": {
+        "name": "Why Be?",
+        "url": "https://open.spotify.com/album/4S5PRo1gVG9BvRnCcdYzdS"
+      },
+      "artists": [
+        {
+          "name": "YB",
+          "url": "https://open.spotify.com/artist/1rpgxJZxZMLnFNc1Jmyov5"
+        }
+      ],
+      "date_added": "2024-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214906,
+      "name": "A Flying Butterfly",
+      "url": "https://open.spotify.com/track/3I71PFicYG614VGl6hqcUK"
+    },
+    {
+      "album": {
         "name": "A message to myself.",
         "url": "https://open.spotify.com/album/1OvwMJt6WKik5pD7Ip7yrP"
       },
@@ -204,6 +222,28 @@
       "duration_ms": 243400,
       "name": "A Song For You",
       "url": "https://open.spotify.com/track/28ocL3QAnZYKfC6KKHYSq3"
+    },
+    {
+      "album": {
+        "name": "Rock of Retro Classic Vol.1",
+        "url": "https://open.spotify.com/album/5x7ze2bPCJuMGKU5qR98T8"
+      },
+      "artists": [
+        {
+          "name": "Retro Classic",
+          "url": "https://open.spotify.com/artist/0rENXnkmluS5IoyYvsam6C"
+        },
+        {
+          "name": "Kim Kyung Ho",
+          "url": "https://open.spotify.com/artist/15Tra1ytu0naoNByIhZArl"
+        }
+      ],
+      "date_added": "2024-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317318,
+      "name": "A story only you and I know (Feat. \uae40\uacbd\ud638)",
+      "url": "https://open.spotify.com/track/7243DP3shrEE3QuC1INWSz"
     },
     {
       "album": {
@@ -319,6 +359,24 @@
     },
     {
       "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/0Jv3To3gOgWbfF9nvzLPRi"
+      },
+      "artists": [
+        {
+          "name": "Yoon Seong Ki",
+          "url": "https://open.spotify.com/artist/34cFLZYHomOG3vZ0SduWJd"
+        }
+      ],
+      "date_added": "2024-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240740,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/1S2yPl9cU7Dh6iU1qcFXBw"
+    },
+    {
+      "album": {
         "name": "Hotel Del Luna OST Part.3",
         "url": "https://open.spotify.com/album/5WAsRdVn8bIzklCuZUqeUR"
       },
@@ -396,6 +454,24 @@
       "duration_ms": 285426,
       "name": "Alley (with SUNG SI KYUNG)",
       "url": "https://open.spotify.com/track/2Qp3RHSP5f9csqFhhFgPrC"
+    },
+    {
+      "album": {
+        "name": "Bad Animals",
+        "url": "https://open.spotify.com/album/56dfEbntfVTMCxjrjggL1e"
+      },
+      "artists": [
+        {
+          "name": "Heart",
+          "url": "https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv"
+        }
+      ],
+      "date_added": "2024-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218733,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/54b8qPFqYqIndfdxiLApea"
     },
     {
       "album": {
@@ -526,6 +602,40 @@
       "duration_ms": 244040,
       "name": "An Unfamiliar Day",
       "url": "https://open.spotify.com/track/4Q9mTqVTAHmkeJMsKZo2EZ"
+    },
+    {
+      "album": {
+        "name": "Famous Singers, Pt. 1 (From the \"JTBC\" TV SHOW)",
+        "url": "https://open.spotify.com/album/3TOcNZMI0RP2Q9fsVYVbvd"
+      },
+      "artists": [
+        {
+          "name": "Yang Hee Eun",
+          "url": "https://open.spotify.com/artist/0BD74hBusWzcPz44wFskYb"
+        },
+        {
+          "name": "LEE SEUNG YOON",
+          "url": "https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV"
+        },
+        {
+          "name": "Jeong Hongil",
+          "url": "https://open.spotify.com/artist/1y3GBh1hqlykQBMUKY7n3b"
+        },
+        {
+          "name": "Lee Mujin",
+          "url": "https://open.spotify.com/artist/4sWXAa6FpXkuVeSajcD6i7"
+        },
+        {
+          "name": "\uc774\uc18c\uc815",
+          "url": "https://open.spotify.com/artist/3q2uDma9mBdJlTSh5lpj68"
+        }
+      ],
+      "date_added": "2024-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258308,
+      "name": "An Unfinished Song",
+      "url": "https://open.spotify.com/track/58yWhSlvdBSB0rZbUO9KyS"
     },
     {
       "album": {
@@ -714,6 +824,24 @@
       "duration_ms": 267857,
       "name": "Baby I Know",
       "url": "https://open.spotify.com/track/6Qrz1XYQHe0yTVZw5r3KCs"
+    },
+    {
+      "album": {
+        "name": "Back In Black",
+        "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "date_added": "2024-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255493,
+      "name": "Back In Black",
+      "url": "https://open.spotify.com/track/08mG3Y1vljYA6bvDt4Wqkj"
     },
     {
       "album": {
@@ -1226,7 +1354,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-29",
       "duration_ms": 188253,
       "name": "Burn Like A Star",
       "url": "https://open.spotify.com/track/0eB4NVRmmtO99SKfvBU56O"
@@ -1306,7 +1434,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-29",
       "duration_ms": 255746,
       "name": "Can Love Be Fair",
       "url": "https://open.spotify.com/track/0ZSgMcumYoRwVeFmFJWtmm"
@@ -1706,7 +1834,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-29",
       "duration_ms": 238022,
       "name": "didn't know me",
       "url": "https://open.spotify.com/track/4Ompd9kJo9Os4yB0YFzsEC"
@@ -1782,6 +1910,24 @@
       "duration_ms": 238093,
       "name": "Don't forget me",
       "url": "https://open.spotify.com/track/0wvsRYNOtR3c2aPw38LJSR"
+    },
+    {
+      "album": {
+        "name": "The Essential Journey",
+        "url": "https://open.spotify.com/album/5pfpXvoJtSIFrbPIoBEv3R"
+      },
+      "artists": [
+        {
+          "name": "Journey",
+          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
+        }
+      ],
+      "date_added": "2024-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248906,
+      "name": "Don't Stop Believin'",
+      "url": "https://open.spotify.com/track/77NNZQSqzLNqh2A9JhLRkg"
     },
     {
       "album": {
@@ -1890,7 +2036,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-29",
       "duration_ms": 246491,
       "name": "Drunken confession at night (Prod. 2soo)",
       "url": "https://open.spotify.com/track/2Jvl8m0bAt7bS76pLsMeJk"
@@ -2128,7 +2274,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-29",
       "duration_ms": 162586,
       "name": "Everytime",
       "url": "https://open.spotify.com/track/11E8tSev2NIRvBY0R8Occq"
@@ -2164,7 +2310,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-29",
       "duration_ms": 231775,
       "name": "Fall in Fall",
       "url": "https://open.spotify.com/track/5mwZ597mJSZ4MtO0EtxWBE"
@@ -2301,6 +2447,24 @@
     },
     {
       "album": {
+        "name": "First Love",
+        "url": "https://open.spotify.com/album/7Hwx3pleovSxhlVgJ0xaH6"
+      },
+      "artists": [
+        {
+          "name": "Kim Kyung Ho",
+          "url": "https://open.spotify.com/artist/15Tra1ytu0naoNByIhZArl"
+        }
+      ],
+      "date_added": "2024-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247544,
+      "name": "First Love",
+      "url": "https://open.spotify.com/track/4yUoyhDXnBOYdHYo8ybDli"
+    },
+    {
+      "album": {
         "name": "Fixed On You (new.MAKE20 #10)",
         "url": "https://open.spotify.com/album/15mV5InakorxEr5yjFHs5e"
       },
@@ -2414,6 +2578,48 @@
       "duration_ms": 224013,
       "name": "Footsteps",
       "url": "https://open.spotify.com/track/55J7BBQJdrwETSLSwxdEWJ"
+    },
+    {
+      "album": {
+        "name": "THE ROCKER",
+        "url": "https://open.spotify.com/album/20uf9mAvEP0kkL054opDqf"
+      },
+      "artists": [
+        {
+          "name": "Kim Kyung Ho",
+          "url": "https://open.spotify.com/artist/15Tra1ytu0naoNByIhZArl"
+        },
+        {
+          "name": "Kim Jong Seo",
+          "url": "https://open.spotify.com/artist/1Z6Sy2Tn7jFqqPAPIAVMB1"
+        },
+        {
+          "name": "Yoon Do Hyun",
+          "url": "https://open.spotify.com/artist/6KsmQPHXE3qhzNNBPSZ0eB"
+        },
+        {
+          "name": "Park Wan Kyu",
+          "url": "https://open.spotify.com/artist/3QUst1HlAmRuM48c5n5HSB"
+        },
+        {
+          "name": "Jeong Hongil",
+          "url": "https://open.spotify.com/artist/1y3GBh1hqlykQBMUKY7n3b"
+        },
+        {
+          "name": "Yoon Seong Ki",
+          "url": "https://open.spotify.com/artist/34cFLZYHomOG3vZ0SduWJd"
+        },
+        {
+          "name": "Kwak dong hyun",
+          "url": "https://open.spotify.com/artist/2Yvxsj3zjgGzNd6mI0TRmZ"
+        }
+      ],
+      "date_added": "2024-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 443500,
+      "name": "For 2000 Ad (feat. Kim Jong Seo, Yoon Do Hyun, Park Wan Kyu, Jeong Hongil, Yoon Seong Ki & Kwak dong hyun) - 2024 Version",
+      "url": "https://open.spotify.com/track/3cE6kIBoERgomJ8SFy8JMh"
     },
     {
       "album": {
@@ -3132,7 +3338,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-29",
       "duration_ms": 194240,
       "name": "Holding hands or walking together.",
       "url": "https://open.spotify.com/track/0DXnSV98JM6bwf4fWiUyKb"
@@ -3332,7 +3538,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-29",
       "duration_ms": 218546,
       "name": "I can't forget you",
       "url": "https://open.spotify.com/track/7K37ggTWKnAlZFVVmTIlzM"
@@ -3744,7 +3950,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-29",
       "duration_ms": 221080,
       "name": "IF I",
       "url": "https://open.spotify.com/track/3QGz3EzsWbW9LoNVk5MPHT"
@@ -3816,7 +4022,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-29",
       "duration_ms": 210000,
       "name": "Invitation",
       "url": "https://open.spotify.com/track/5SGoHeqHhU62drrUO1QoyA"
@@ -4231,6 +4437,24 @@
     },
     {
       "album": {
+        "name": "Mask Singer 62th (Live Version)",
+        "url": "https://open.spotify.com/album/4xd4Px5dMB7EljQFSMpgKJ"
+      },
+      "artists": [
+        {
+          "name": "Ha Hyun Woo",
+          "url": "https://open.spotify.com/artist/5EXYPAGnOxvyTstoykxKd3"
+        }
+      ],
+      "date_added": "2024-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207857,
+      "name": "Lazenca, Save Us (\uc6b0\ub9ac \ub3d9\ub124 \uc74c\uc545\ub300\uc7a5) (Bonus Track)",
+      "url": "https://open.spotify.com/track/0tokbEw27FxVHubsv8ZYN4"
+    },
+    {
+      "album": {
         "name": "Lean on You (Monthly Project 2018 September Yoon Jong Shin)",
         "url": "https://open.spotify.com/album/5HvxoqEQOm4t3K50HTzb1k"
       },
@@ -4465,6 +4689,24 @@
     },
     {
       "album": {
+        "name": "Color",
+        "url": "https://open.spotify.com/album/5jzebpTutPXBN69mZOwzQy"
+      },
+      "artists": [
+        {
+          "name": "BOOHWAL",
+          "url": "https://open.spotify.com/artist/2LtEDRKi75vGtsfdy205jX"
+        }
+      ],
+      "date_added": "2024-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218592,
+      "name": "Lonely Night",
+      "url": "https://open.spotify.com/track/5pHYQ1TuV7Ye5WWYcAxFjE"
+    },
+    {
+      "album": {
         "name": "If You Wish Upon Me OST Part.1",
         "url": "https://open.spotify.com/album/5XmjYOY19DZpCqaZ9QVG8A"
       },
@@ -4530,7 +4772,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-29",
       "duration_ms": 241640,
       "name": "Looking For Love (Man Ver.)",
       "url": "https://open.spotify.com/track/0sN3z4fwRL8HmO96rCOm3A"
@@ -5137,6 +5379,28 @@
     },
     {
       "album": {
+        "name": "Rock of Retro Classic Vol.2",
+        "url": "https://open.spotify.com/album/70hheUSaTGfqvTByQ8boQg"
+      },
+      "artists": [
+        {
+          "name": "Retro Classic",
+          "url": "https://open.spotify.com/artist/0rENXnkmluS5IoyYvsam6C"
+        },
+        {
+          "name": "Kim Kyung Ho",
+          "url": "https://open.spotify.com/artist/15Tra1ytu0naoNByIhZArl"
+        }
+      ],
+      "date_added": "2024-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297751,
+      "name": "Messiah of the fallen angel (Feat. Kim Kyung-ho)",
+      "url": "https://open.spotify.com/track/6lZDNTwAn9AAaLAGogIoUv"
+    },
+    {
+      "album": {
         "name": "Miracle",
         "url": "https://open.spotify.com/album/5Fbjhm4t4CGVJFGrw6KztZ"
       },
@@ -5354,7 +5618,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-29",
       "duration_ms": 174990,
       "name": "my life",
       "url": "https://open.spotify.com/track/53Iv4XnDyFKnMXVaiiCcdv"
@@ -5412,6 +5676,24 @@
       "duration_ms": 262360,
       "name": "My Only One",
       "url": "https://open.spotify.com/track/6JX4Pt45ZBFwrWkHkb3ty0"
+    },
+    {
+      "album": {
+        "name": "One Day",
+        "url": "https://open.spotify.com/album/0W4lg2JvUPUqQVTJzWo5o9"
+      },
+      "artists": [
+        {
+          "name": "Kwak dong hyun",
+          "url": "https://open.spotify.com/artist/2Yvxsj3zjgGzNd6mI0TRmZ"
+        }
+      ],
+      "date_added": "2024-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263946,
+      "name": "My own your shape",
+      "url": "https://open.spotify.com/track/6RwXNN4mtex2XRN3bKlE1D"
     },
     {
       "album": {
@@ -6004,7 +6286,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-29",
       "duration_ms": 263966,
       "name": "Only You",
       "url": "https://open.spotify.com/track/6W4G44h5B23jv5E2S0NUkw"
@@ -6174,7 +6456,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-29",
       "duration_ms": 237224,
       "name": "Perfect",
       "url": "https://open.spotify.com/track/5fI0JERjR9jDo8JFLS2KyI"
@@ -6847,6 +7129,24 @@
     },
     {
       "album": {
+        "name": "Led Zeppelin IV (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "date_added": "2024-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 482830,
+      "name": "Stairway to Heaven - Remaster",
+      "url": "https://open.spotify.com/track/5CQ30WqJwcep0pYcV4AMNc"
+    },
+    {
+      "album": {
         "name": "Star",
         "url": "https://open.spotify.com/album/61haIPm5s5cfRCgqkbGKJ2"
       },
@@ -6930,7 +7230,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-29",
       "duration_ms": 205440,
       "name": "Starting Now",
       "url": "https://open.spotify.com/track/7rtD4GjoJkg0iFj0XmPfR1"
@@ -6970,7 +7270,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-29",
       "duration_ms": 226480,
       "name": "Stay",
       "url": "https://open.spotify.com/track/2IslXjQwGJNORQmMy3DeE4"
@@ -7078,7 +7378,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-29",
       "duration_ms": 266986,
       "name": "Such a thing",
       "url": "https://open.spotify.com/track/4RJHDWdfgBwc1WXdL2aWaj"
@@ -7118,6 +7418,24 @@
       "duration_ms": 203269,
       "name": "SUNSET WITH YOU",
       "url": "https://open.spotify.com/track/7AOtWjLx5SaKVVGzberZ7i"
+    },
+    {
+      "album": {
+        "name": "Appetite For Destruction",
+        "url": "https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "date_added": "2024-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356066,
+      "name": "Sweet Child O' Mine",
+      "url": "https://open.spotify.com/track/7snQQk1zcKl8gZ92AnueZW"
     },
     {
       "album": {
@@ -7280,6 +7598,24 @@
       "duration_ms": 278533,
       "name": "Thank You",
       "url": "https://open.spotify.com/track/1xzC5lmJfG21PJBAeQaBam"
+    },
+    {
+      "album": {
+        "name": "The Return Of N.EX.T Pt. 1 The Being",
+        "url": "https://open.spotify.com/album/4hK0Hd9GwgldreY6AtH4JT"
+      },
+      "artists": [
+        {
+          "name": "N.EX.T",
+          "url": "https://open.spotify.com/artist/1BvcPcQ3raChuHJcAJrvGy"
+        }
+      ],
+      "date_added": "2024-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 593897,
+      "name": "The Destruction Of The Shell",
+      "url": "https://open.spotify.com/track/62V1fAl9jYjZiXNuxuSoFI"
     },
     {
       "album": {
@@ -8034,6 +8370,42 @@
       "duration_ms": 248253,
       "name": "Valentine (The Forbidden Marriage X KIM BUMSOO)",
       "url": "https://open.spotify.com/track/6z64XSsOD0upZtSwOlyCTk"
+    },
+    {
+      "album": {
+        "name": "v o K a l Audio Liners",
+        "url": "https://open.spotify.com/album/7pZLUC0UxIdCEbbwUmtY1f"
+      },
+      "artists": [
+        {
+          "name": "Kim Kyung Ho",
+          "url": "https://open.spotify.com/artist/15Tra1ytu0naoNByIhZArl"
+        }
+      ],
+      "date_added": "2024-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 3416,
+      "name": "voKal_Kim Kyung Ho",
+      "url": "https://open.spotify.com/track/3ZljB1BOL6kHZU0O5gNn0w"
+    },
+    {
+      "album": {
+        "name": "v o K a l Audio Liners",
+        "url": "https://open.spotify.com/album/7pZLUC0UxIdCEbbwUmtY1f"
+      },
+      "artists": [
+        {
+          "name": "Kim Kyung Ho",
+          "url": "https://open.spotify.com/artist/15Tra1ytu0naoNByIhZArl"
+        }
+      ],
+      "date_added": "2024-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 4500,
+      "name": "voKal_Kim Kyung Ho",
+      "url": "https://open.spotify.com/track/3EnUqfVZyac1sDXMN1Hshp"
     },
     {
       "album": {
@@ -8955,6 +9327,24 @@
     },
     {
       "album": {
+        "name": "KimKyungho 1997",
+        "url": "https://open.spotify.com/album/3rgaj3Bsq4NwfOliBX83aN"
+      },
+      "artists": [
+        {
+          "name": "Kim Kyung Ho",
+          "url": "https://open.spotify.com/artist/15Tra1ytu0naoNByIhZArl"
+        }
+      ],
+      "date_added": "2024-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271626,
+      "name": "\uae08\uc9c0\ub41c \uc0ac\ub791",
+      "url": "https://open.spotify.com/track/0JtYYcQ330UyNftbi1tM0H"
+    },
+    {
+      "album": {
         "name": "\uae34 \ubc24 (feat. Giriboy)",
         "url": "https://open.spotify.com/album/3CaluwPodNVRAnYCtZW3YA"
       },
@@ -9032,6 +9422,24 @@
       "duration_ms": 253533,
       "name": "\uafc8\uae38",
       "url": "https://open.spotify.com/track/6ONESVJurYMVmCfwV6yKjF"
+    },
+    {
+      "album": {
+        "name": "KimKyungho 1997",
+        "url": "https://open.spotify.com/album/3rgaj3Bsq4NwfOliBX83aN"
+      },
+      "artists": [
+        {
+          "name": "Kim Kyung Ho",
+          "url": "https://open.spotify.com/artist/15Tra1ytu0naoNByIhZArl"
+        }
+      ],
+      "date_added": "2024-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260838,
+      "name": "\ub098\ub97c \uc2ac\ud504\uac8c \ud558\ub294 \uc0ac\ub78c\ub4e4",
+      "url": "https://open.spotify.com/track/2p66I5H2IQco9xh6egJjTE"
     },
     {
       "album": {
@@ -9208,7 +9616,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-29",
       "duration_ms": 236693,
       "name": "\ubc14\ub78c\uc774 \ubd84\ub2e4",
       "url": "https://open.spotify.com/track/4TlKVrK0TnVlwvVSbUbbM4"
@@ -9316,7 +9724,7 @@
       ],
       "date_added": "2024-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-29",
       "duration_ms": 257799,
       "name": "\uc0ac\ub791\uacfc \uc6b0\uc815\uc0ac\uc774",
       "url": "https://open.spotify.com/track/5srgr7ASTh6teJWhmsPZx3"
@@ -9334,7 +9742,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-29",
       "duration_ms": 270889,
       "name": "\uc0ac\ub791\ubcf4\ub2e4 \uae4a\uc740 \uc0c1\ucc98",
       "url": "https://open.spotify.com/track/0cnx6iVwTUVLLnaTJKsZy2"
@@ -9374,6 +9782,24 @@
       "duration_ms": 239804,
       "name": "\uc0b4\uc544\uc57c\uc9c0",
       "url": "https://open.spotify.com/track/5yEz0gBNSuK6QM0N5PIBmq"
+    },
+    {
+      "album": {
+        "name": "Kim Jong Seo \u2164",
+        "url": "https://open.spotify.com/album/4eKFy8EDH3HrAU6G0AOEp3"
+      },
+      "artists": [
+        {
+          "name": "Kim Jong Seo",
+          "url": "https://open.spotify.com/artist/1Z6Sy2Tn7jFqqPAPIAVMB1"
+        }
+      ],
+      "date_added": "2024-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252186,
+      "name": "\uc544\ub984\ub2e4\uc6b4 \uad6c\uc18d",
+      "url": "https://open.spotify.com/track/5CE7Q33bONpzjgKAjRkDxv"
     },
     {
       "album": {
@@ -9518,7 +9944,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-29",
       "duration_ms": 266292,
       "name": "\uc911\ub3c5\ub41c \uc0ac\ub791",
       "url": "https://open.spotify.com/track/5NtAjS4i0wEFK0lvvuSAVb"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8a1tdzq5tbM.md) - [plain]
 
 > <a href="spotify:genre:edm\_dance">Dance</a> hits from the 90s and 00s!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,575,343 likes - 120 songs - 8 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,575,626 likes - 120 songs - 8 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8a1tdzq5tbM.md) - [plain]
 | 41 | [Gypsy Woman](https://open.spotify.com/track/2jBQYMPjY0UspZAVyYPRUG) | [Crystal Waters](https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43) | [Basement Boys Anthology](https://open.spotify.com/album/6S72JaSvpkzsTJ4hkRJpHV) | 9:41 |
 | 42 | [Carry Me Away \(feat\. Emma Hewitt\) \- Radio Edit](https://open.spotify.com/track/3vVdNuzFHL0hmT8Xq4vbhY) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Emma Hewitt](https://open.spotify.com/artist/1t65YxEAtU3iii6bCzSGF8) | [Carry Me Away , Pt\. 1](https://open.spotify.com/album/5wUsPJbsSVgz9eORxhj3uf) | 3:25 |
 | 43 | [Underlying Feeling \- Adam K & Soha Radio Edit](https://open.spotify.com/track/3RaCcyWwRIdczuefF10UCb) | [Sylvia Tosun](https://open.spotify.com/artist/0DhprLDFQGaundr4WVi9P1) | [Underlying Feeling](https://open.spotify.com/album/3UTLZYi4Mk1fAsEteWp58u) | 3:44 |
-| 44 | [I Am Free \- Radio Edit](https://open.spotify.com/track/1cSOchpDSHvJjtBHLVrxT1) | [The Mackenzie](https://open.spotify.com/artist/2ldC3ttdH00Mhsxwp6LMeP), [Jessy](https://open.spotify.com/artist/1mstPPE7LtpbNpOYihsCzj) | [I Am Free](https://open.spotify.com/album/0OIyUH1v56TJsEXh1HywyN) | 3:27 |
-| 45 | [Somewhere \(feat\. Sarah Lynn\) \- Radio Edit](https://open.spotify.com/track/35cYPqBXqob7yitjk4Cx3M) | [DJ Mog](https://open.spotify.com/artist/1hi6iazfUhvaqpt9f0kCcF), [Sarah Lynn](https://open.spotify.com/artist/2uJPnLW3muLMdYB3H61h5K) | [Somewhere \(feat\. Sarah Lynn\)](https://open.spotify.com/album/4VaFDtAeI7PxJoyPreGWjH) | 3:55 |
+| 44 | [Somewhere \(feat\. Sarah Lynn\) \- Radio Edit](https://open.spotify.com/track/35cYPqBXqob7yitjk4Cx3M) | [DJ Mog](https://open.spotify.com/artist/1hi6iazfUhvaqpt9f0kCcF), [Sarah Lynn](https://open.spotify.com/artist/2uJPnLW3muLMdYB3H61h5K) | [Somewhere \(feat\. Sarah Lynn\)](https://open.spotify.com/album/4VaFDtAeI7PxJoyPreGWjH) | 3:55 |
+| 45 | [I Am Free \- Radio Edit](https://open.spotify.com/track/1cSOchpDSHvJjtBHLVrxT1) | [The Mackenzie](https://open.spotify.com/artist/2ldC3ttdH00Mhsxwp6LMeP), [Jessy](https://open.spotify.com/artist/1mstPPE7LtpbNpOYihsCzj) | [I Am Free](https://open.spotify.com/album/0OIyUH1v56TJsEXh1HywyN) | 3:27 |
 | 46 | [Love Don't Let Me Go \(Walking Away\) \(David Guetta vs\. The Egg\)](https://open.spotify.com/track/7BuynvoA4xIt9LIwqhLwRu) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [The Egg](https://open.spotify.com/artist/73nwTQUc9kA9vqGzGPsMkA) | [One More Love](https://open.spotify.com/album/5DJc5qCdB5pPrDO97LXjeW) | 3:11 |
 | 47 | [Find Yourself](https://open.spotify.com/track/3pVwawYlhHg9cLKWpeaN3l) | [John O'Callaghan](https://open.spotify.com/artist/6H2JQ8igAAa5UBr2u496mb), [Sarah Howells](https://open.spotify.com/artist/1tZ0IeTjOOVtRI0EKBsekw) | [Vocal Trance Hits \- The Anthems](https://open.spotify.com/album/3HfYOQb0MhTtvzUKEKk61m) | 2:31 |
 | 48 | [Feel Your Love](https://open.spotify.com/track/6r47b3t4zQO9tpwMUInP4s) | [Kim Sozzi](https://open.spotify.com/artist/6cShe1zppIq5AZM53qQTE6) | [Just One Day](https://open.spotify.com/album/2pUIzqhO05Hpfftl1QjN1A) | 3:20 |

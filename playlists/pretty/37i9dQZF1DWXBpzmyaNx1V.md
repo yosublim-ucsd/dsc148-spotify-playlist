@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBpzmyaNx1V.md) - [plain]
 
 > ¡Nos vemos del 6 al 10 de Marzo! Cinco días de música en recintos icónicos de la CDMX\. Compra tus boletos <a href="https://lnk.bio/pitchforkcdmx"> aquí</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,193 likes - 65 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,187 likes - 65 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBpzmyaNx1V.md) - [plain]
 | 52 | [Los Alan Anaya Rifa](https://open.spotify.com/track/1piKVgpWdThlVRv71CCQkG) | [Simpson Ahuevo](https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw), [Alan Anaya](https://open.spotify.com/artist/1kvJJQdizRx7Q3FFgWuhwi) | [El Morroeste](https://open.spotify.com/album/1FaFnc7lRcUSy2fk8DSHNe) | 2:38 |
 | 53 | [Ascenso \- Descenso](https://open.spotify.com/track/28sv0FiGwBpFS34FPKrgfR) | [Vyctoria](https://open.spotify.com/artist/2x3wpxbrl6sfLzQYaGTDgW) | [Ahora Veo Más Claro](https://open.spotify.com/album/1ZOLew9YSk4dR2ZDi9poYD) | 4:54 |
 | 54 | [Itaca Tropical](https://open.spotify.com/track/06hXume0bdbFHdbdl7BTbG) | [NOIA](https://open.spotify.com/artist/7ME5Ue2P7g1BP11FRWr7LA) | [Habits EP](https://open.spotify.com/album/0GMbhSy7bxfov0ZbiJcoMm) | 3:01 |
-| 55 | [Sol](https://open.spotify.com/track/2ep4KuxvHiQUXUZpmMzczS) | [Noa Sainz](https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr) | [Sol](https://open.spotify.com/album/5shelU7wuKNdL7PUvNbqiF) | 3:08 |
-| 56 | [Pantitlán](https://open.spotify.com/track/0d0HTxy6Exc4mzaDjdj8mh) | [Mengers](https://open.spotify.com/artist/2VbAt1al6lMiIM04IFZ90n) | [GOLLY](https://open.spotify.com/album/06QqjEJoq3YWDdG0FJXKU3) | 5:25 |
+| 55 | [Pantitlán](https://open.spotify.com/track/0d0HTxy6Exc4mzaDjdj8mh) | [Mengers](https://open.spotify.com/artist/2VbAt1al6lMiIM04IFZ90n) | [GOLLY](https://open.spotify.com/album/06QqjEJoq3YWDdG0FJXKU3) | 5:25 |
+| 56 | [Sol](https://open.spotify.com/track/2ep4KuxvHiQUXUZpmMzczS) | [Noa Sainz](https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr) | [Sol](https://open.spotify.com/album/5shelU7wuKNdL7PUvNbqiF) | 3:08 |
 | 57 | [Goldie](https://open.spotify.com/track/0NwKqhgmPMrhELT4zlE1eR) | [Corridor](https://open.spotify.com/artist/4nn9uUq4K1vStqxe8t1CD4) | [Junior](https://open.spotify.com/album/25IaAzyPkNm8CR2ZVugP9N) | 4:43 |
 | 58 | [The Gods Must Be Crazy](https://open.spotify.com/track/4pzB7F1F79CpuACW6hO6D3) | [Armand Hammer](https://open.spotify.com/artist/3SCI7sXHUZIeDKMWC5NT9C), [billy woods](https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc), [E L U C I D](https://open.spotify.com/artist/6F5n3bvrBgoyicdFT6L8IB), [El\-P](https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl) | [We Buy Diabetic Test Strips](https://open.spotify.com/album/3xtJ7J0TyOaMqslZdKGkoh) | 3:00 |
 | 59 | [reveal yourself](https://open.spotify.com/track/0YjRE5ut3J4exRx40kLtg6) | [NOIA](https://open.spotify.com/artist/7ME5Ue2P7g1BP11FRWr7LA) | [gisela](https://open.spotify.com/album/2bAuw1nc2csrMfpTFeatCR) | 3:10 |

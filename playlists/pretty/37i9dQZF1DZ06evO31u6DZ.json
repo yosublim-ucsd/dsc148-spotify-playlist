@@ -1,12 +1,12 @@
 {
   "description": "This is Senses Fail. The essential tracks, all in one playlist.",
-  "num_followers": 8874,
+  "num_followers": 8879,
   "original_name": "This Is Senses Fail",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlJ7gAAAAAD2IEI3cOQGcyLI1nE9ShKv",
+  "snapshot_id": "ZlPNAAAAAABLUugt85ksF6ECQJ1bhIBF",
   "tracks": [
     {
       "added_at": null,
@@ -399,8 +399,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Still Searching",
-        "url": "https://open.spotify.com/album/1Irua9m0zfrn12jJ803gZ5"
+        "name": "Still Searching (Deluxe Version)",
+        "url": "https://open.spotify.com/album/4YRcdjj0Xm8KQUWmS2JXcZ"
       },
       "artists": [
         {
@@ -408,9 +408,9 @@
           "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
         }
       ],
-      "duration_ms": 184306,
-      "name": "Every Day Is a Struggle",
-      "url": "https://open.spotify.com/track/2hpsX6fPhOd7BPkWPDqFAa"
+      "duration_ms": 258479,
+      "name": "Still Searching",
+      "url": "https://open.spotify.com/track/093MmGxax3ppg6MrC3LBQZ"
     },
     {
       "added_at": null,
@@ -431,8 +431,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Still Searching (Deluxe Version)",
-        "url": "https://open.spotify.com/album/4YRcdjj0Xm8KQUWmS2JXcZ"
+        "name": "Still Searching",
+        "url": "https://open.spotify.com/album/1Irua9m0zfrn12jJ803gZ5"
       },
       "artists": [
         {
@@ -440,9 +440,9 @@
           "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
         }
       ],
-      "duration_ms": 258479,
-      "name": "Still Searching",
-      "url": "https://open.spotify.com/track/093MmGxax3ppg6MrC3LBQZ"
+      "duration_ms": 184306,
+      "name": "Every Day Is a Struggle",
+      "url": "https://open.spotify.com/track/2hpsX6fPhOd7BPkWPDqFAa"
     },
     {
       "added_at": null,

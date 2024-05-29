@@ -1,6 +1,6 @@
 {
   "description": "?! ft. Tommy Richman",
-  "num_followers": 743389,
+  "num_followers": 743454,
   "original_name": "anti pop",
   "owner": {
     "name": "Spotify",
@@ -59,18 +59,22 @@
     {
       "added_at": "2024-03-19 20:25:15",
       "album": {
-        "name": "A Cold Sunday",
-        "url": "https://open.spotify.com/album/4peDphjWdwzhrTEnQbfZ4G"
+        "name": "channel ORANGE",
+        "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
       },
       "artists": [
         {
-          "name": "Lil Yachty",
-          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        },
+        {
+          "name": "Earl Sweatshirt",
+          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
         }
       ],
-      "duration_ms": 107313,
-      "name": "A Cold Sunday",
-      "url": "https://open.spotify.com/track/1Y1jtaZOJYgXBl7lKdLc9o"
+      "duration_ms": 304760,
+      "name": "Super Rich Kids",
+      "url": "https://open.spotify.com/track/0725YWm6Z0TpZ6wrNk64Eb"
     },
     {
       "added_at": "2024-04-26 18:37:00",
@@ -91,22 +95,18 @@
     {
       "added_at": "2024-03-19 20:25:15",
       "album": {
-        "name": "channel ORANGE",
-        "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
+        "name": "A Cold Sunday",
+        "url": "https://open.spotify.com/album/4peDphjWdwzhrTEnQbfZ4G"
       },
       "artists": [
         {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        },
-        {
-          "name": "Earl Sweatshirt",
-          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
         }
       ],
-      "duration_ms": 304760,
-      "name": "Super Rich Kids",
-      "url": "https://open.spotify.com/track/0725YWm6Z0TpZ6wrNk64Eb"
+      "duration_ms": 107313,
+      "name": "A Cold Sunday",
+      "url": "https://open.spotify.com/track/1Y1jtaZOJYgXBl7lKdLc9o"
     },
     {
       "added_at": "2024-03-19 20:25:15",
@@ -253,22 +253,6 @@
       "url": "https://open.spotify.com/track/0FdW7MEbDKdz8v5TXqcFkG"
     },
     {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "put yo gun 2 use ontheradar freestyle",
-        "url": "https://open.spotify.com/album/3Q24WaPqlNQVBI0aM7g0n3"
-      },
-      "artists": [
-        {
-          "name": "4batz",
-          "url": "https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7"
-        }
-      ],
-      "duration_ms": 121602,
-      "name": "put yo gun 2 use ontheradar freestyle",
-      "url": "https://open.spotify.com/track/2zDIscsZmt8z44nf3UFMxh"
-    },
-    {
       "added_at": "2024-03-19 20:25:15",
       "album": {
         "name": "HIT EM WHERE IT HURTS",
@@ -283,6 +267,22 @@
       "duration_ms": 165499,
       "name": "HIT EM WHERE IT HURTS",
       "url": "https://open.spotify.com/track/7888F1QWPTn4cPbuknNV4T"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "put yo gun 2 use ontheradar freestyle",
+        "url": "https://open.spotify.com/album/3Q24WaPqlNQVBI0aM7g0n3"
+      },
+      "artists": [
+        {
+          "name": "4batz",
+          "url": "https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7"
+        }
+      ],
+      "duration_ms": 121602,
+      "name": "put yo gun 2 use ontheradar freestyle",
+      "url": "https://open.spotify.com/track/2zDIscsZmt8z44nf3UFMxh"
     },
     {
       "added_at": "2024-03-19 20:25:15",
@@ -527,6 +527,22 @@
     {
       "added_at": "2024-03-19 20:25:15",
       "album": {
+        "name": "fantasize",
+        "url": "https://open.spotify.com/album/0QEZpylv3YWsleH9U0ijWE"
+      },
+      "artists": [
+        {
+          "name": "ericdoa",
+          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
+        }
+      ],
+      "duration_ms": 150612,
+      "name": "fantasize",
+      "url": "https://open.spotify.com/track/6U2sXLGhxJVmKskGUvJzI3"
+    },
+    {
+      "added_at": "2024-03-19 20:25:15",
+      "album": {
         "name": "12:34 AM",
         "url": "https://open.spotify.com/album/4bJGMpZ7LqygIsCM3G9ZYQ"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 127000,
       "name": "12:34 AM",
       "url": "https://open.spotify.com/track/16iNVfWKKZPDjctIcd0KMn"
-    },
-    {
-      "added_at": "2024-03-19 20:25:15",
-      "album": {
-        "name": "fantasize",
-        "url": "https://open.spotify.com/album/0QEZpylv3YWsleH9U0ijWE"
-      },
-      "artists": [
-        {
-          "name": "ericdoa",
-          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
-        }
-      ],
-      "duration_ms": 150612,
-      "name": "fantasize",
-      "url": "https://open.spotify.com/track/6U2sXLGhxJVmKskGUvJzI3"
     },
     {
       "added_at": "2024-04-26 18:37:00",
@@ -825,20 +825,20 @@
       "url": "https://open.spotify.com/track/7dkPG811ZnHikb319Jzskd"
     },
     {
-      "added_at": "2024-03-29 04:00:00",
+      "added_at": "2024-03-19 20:25:15",
       "album": {
-        "name": "Too Slow",
-        "url": "https://open.spotify.com/album/4jG5t1TT5os5XgzEekr9J7"
+        "name": "Evil",
+        "url": "https://open.spotify.com/album/5vzUGiHb1LrOjJ5Pz55wO0"
       },
       "artists": [
         {
-          "name": "Maude Latour",
-          "url": "https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62"
+          "name": "Doov",
+          "url": "https://open.spotify.com/artist/5HRGHEtYLGW78bYOxCmhnm"
         }
       ],
-      "duration_ms": 124614,
-      "name": "Too Slow",
-      "url": "https://open.spotify.com/track/4XUejjxBZ4UQQ2LB9h8qvJ"
+      "duration_ms": 158235,
+      "name": "Evil",
+      "url": "https://open.spotify.com/track/3nlwxpdoduF0VTIphyOS2Q"
     },
     {
       "added_at": "2024-03-19 20:25:15",
@@ -857,20 +857,20 @@
       "url": "https://open.spotify.com/track/35AVujsErg1f4OoqPwDPzJ"
     },
     {
-      "added_at": "2024-03-19 20:25:15",
+      "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Evil",
-        "url": "https://open.spotify.com/album/5vzUGiHb1LrOjJ5Pz55wO0"
+        "name": "Too Slow",
+        "url": "https://open.spotify.com/album/4jG5t1TT5os5XgzEekr9J7"
       },
       "artists": [
         {
-          "name": "Doov",
-          "url": "https://open.spotify.com/artist/5HRGHEtYLGW78bYOxCmhnm"
+          "name": "Maude Latour",
+          "url": "https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62"
         }
       ],
-      "duration_ms": 158235,
-      "name": "Evil",
-      "url": "https://open.spotify.com/track/3nlwxpdoduF0VTIphyOS2Q"
+      "duration_ms": 124614,
+      "name": "Too Slow",
+      "url": "https://open.spotify.com/track/4XUejjxBZ4UQQ2LB9h8qvJ"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1033,6 +1033,22 @@
       "url": "https://open.spotify.com/track/4GYGVb83KdpBszyMhaPh9O"
     },
     {
+      "added_at": "2024-03-19 20:25:15",
+      "album": {
+        "name": "How Do You Sleep At Night?",
+        "url": "https://open.spotify.com/album/2zm0qaBZaaH4zAaCCqU2cF"
+      },
+      "artists": [
+        {
+          "name": "Teezo Touchdown",
+          "url": "https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36"
+        }
+      ],
+      "duration_ms": 166626,
+      "name": "Impossible",
+      "url": "https://open.spotify.com/track/6DrrY8ardpYRyF90mzN0jF"
+    },
+    {
       "added_at": "2024-04-05 04:00:00",
       "album": {
         "name": "So Long",
@@ -1051,22 +1067,6 @@
       "duration_ms": 211846,
       "name": "So Long",
       "url": "https://open.spotify.com/track/60hF90c4Fgdxf1b8mWyQzN"
-    },
-    {
-      "added_at": "2024-03-19 20:25:15",
-      "album": {
-        "name": "How Do You Sleep At Night?",
-        "url": "https://open.spotify.com/album/2zm0qaBZaaH4zAaCCqU2cF"
-      },
-      "artists": [
-        {
-          "name": "Teezo Touchdown",
-          "url": "https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36"
-        }
-      ],
-      "duration_ms": 166626,
-      "name": "Impossible",
-      "url": "https://open.spotify.com/track/6DrrY8ardpYRyF90mzN0jF"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1377,6 +1377,26 @@
       "url": "https://open.spotify.com/track/60qaApzoNFsAXhhPc5zDxh"
     },
     {
+      "added_at": "2024-05-10 17:22:13",
+      "album": {
+        "name": "ROLE MODEL",
+        "url": "https://open.spotify.com/album/1snCvzLusXJUdauMrTnzVG"
+      },
+      "artists": [
+        {
+          "name": "Internet Girl",
+          "url": "https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL"
+        },
+        {
+          "name": "Master Peace",
+          "url": "https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9"
+        }
+      ],
+      "duration_ms": 118603,
+      "name": "ROLE MODEL",
+      "url": "https://open.spotify.com/track/4v9x3cl1AIAbCLYGO6EBuS"
+    },
+    {
       "added_at": "2024-03-19 20:25:15",
       "album": {
         "name": "'Decent",
@@ -1429,26 +1449,6 @@
       "url": "https://open.spotify.com/track/1nGPFgUuF5fJTKhLz5BfER"
     },
     {
-      "added_at": "2024-05-10 17:22:13",
-      "album": {
-        "name": "ROLE MODEL",
-        "url": "https://open.spotify.com/album/1snCvzLusXJUdauMrTnzVG"
-      },
-      "artists": [
-        {
-          "name": "Internet Girl",
-          "url": "https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL"
-        },
-        {
-          "name": "Master Peace",
-          "url": "https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9"
-        }
-      ],
-      "duration_ms": 118603,
-      "name": "ROLE MODEL",
-      "url": "https://open.spotify.com/track/4v9x3cl1AIAbCLYGO6EBuS"
-    },
-    {
       "added_at": "2024-04-26 18:37:00",
       "album": {
         "name": "Godfather (feat. Yung Kayo)",
@@ -1467,38 +1467,6 @@
       "duration_ms": 232075,
       "name": "Godfather (feat. Yung Kayo)",
       "url": "https://open.spotify.com/track/2ss94LLEyxgzvVg6Ax0c2x"
-    },
-    {
-      "added_at": "2024-04-19 05:00:00",
-      "album": {
-        "name": "i dont even own prada shoes lol",
-        "url": "https://open.spotify.com/album/1dn2JSwF9ULVnQzDprTaiQ"
-      },
-      "artists": [
-        {
-          "name": "re6ce",
-          "url": "https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK"
-        }
-      ],
-      "duration_ms": 130440,
-      "name": "i dont even own prada shoes lol",
-      "url": "https://open.spotify.com/track/318DZCLXPsOAZTblTugO09"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "me and all my niggas",
-        "url": "https://open.spotify.com/album/41k4Tf1ig86lbYzIK710T0"
-      },
-      "artists": [
-        {
-          "name": "Yaya Bey",
-          "url": "https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT"
-        }
-      ],
-      "duration_ms": 114698,
-      "name": "me and all my niggas",
-      "url": "https://open.spotify.com/track/1V5LZEDXnCctyA2G4NNjsg"
     },
     {
       "added_at": "2024-03-19 20:25:15",
@@ -1557,32 +1525,36 @@
       "url": "https://open.spotify.com/track/1PmXc402f75cyfgLlXWSEH"
     },
     {
-      "added_at": "2024-04-05 04:00:00",
+      "added_at": "2024-04-19 05:00:00",
       "album": {
-        "name": "Pigeons & Planes presents: See You Next Year 2",
-        "url": "https://open.spotify.com/album/2HmJbK4LHezgshv0V4m9bi"
+        "name": "i dont even own prada shoes lol",
+        "url": "https://open.spotify.com/album/1dn2JSwF9ULVnQzDprTaiQ"
       },
       "artists": [
         {
-          "name": "Kenny Mason",
-          "url": "https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv"
-        },
-        {
-          "name": "monte booker",
-          "url": "https://open.spotify.com/artist/4p75GTNEXwsAAkpweMVtKo"
-        },
-        {
-          "name": "See You Next Year",
-          "url": "https://open.spotify.com/artist/6NV0b1K9BhoZYSBk9ZPnWv"
-        },
-        {
-          "name": "King Isis",
-          "url": "https://open.spotify.com/artist/7jz1wM1NdiskFWrlosZhVw"
+          "name": "re6ce",
+          "url": "https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK"
         }
       ],
-      "duration_ms": 153066,
-      "name": "Bob Dylan Bus (feat. King Isis)",
-      "url": "https://open.spotify.com/track/1P2ugR200fs2J3ASKUAIMg"
+      "duration_ms": 130440,
+      "name": "i dont even own prada shoes lol",
+      "url": "https://open.spotify.com/track/318DZCLXPsOAZTblTugO09"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "me and all my niggas",
+        "url": "https://open.spotify.com/album/41k4Tf1ig86lbYzIK710T0"
+      },
+      "artists": [
+        {
+          "name": "Yaya Bey",
+          "url": "https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT"
+        }
+      ],
+      "duration_ms": 114698,
+      "name": "me and all my niggas",
+      "url": "https://open.spotify.com/track/1V5LZEDXnCctyA2G4NNjsg"
     },
     {
       "added_at": "2024-03-19 20:25:15",
@@ -1615,6 +1587,34 @@
       "duration_ms": 155536,
       "name": "Crazy Stupid Love",
       "url": "https://open.spotify.com/track/5gZmKbISqeyhHl63nMFvi0"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "Pigeons & Planes presents: See You Next Year 2",
+        "url": "https://open.spotify.com/album/2HmJbK4LHezgshv0V4m9bi"
+      },
+      "artists": [
+        {
+          "name": "Kenny Mason",
+          "url": "https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv"
+        },
+        {
+          "name": "monte booker",
+          "url": "https://open.spotify.com/artist/4p75GTNEXwsAAkpweMVtKo"
+        },
+        {
+          "name": "See You Next Year",
+          "url": "https://open.spotify.com/artist/6NV0b1K9BhoZYSBk9ZPnWv"
+        },
+        {
+          "name": "King Isis",
+          "url": "https://open.spotify.com/artist/7jz1wM1NdiskFWrlosZhVw"
+        }
+      ],
+      "duration_ms": 153066,
+      "name": "Bob Dylan Bus (feat. King Isis)",
+      "url": "https://open.spotify.com/track/1P2ugR200fs2J3ASKUAIMg"
     },
     {
       "added_at": "2024-03-19 20:25:15",
@@ -1667,30 +1667,18 @@
     {
       "added_at": "2024-03-19 20:25:15",
       "album": {
-        "name": "Big Bank (feat. Billy Lemos)",
-        "url": "https://open.spotify.com/album/4dBkm25j36XB7a0669Shi6"
+        "name": "Erotic Probiotic 2",
+        "url": "https://open.spotify.com/album/6HPNCXxhRfj8tus7gw0dDI"
       },
       "artists": [
         {
-          "name": "Kenny Mason",
-          "url": "https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv"
-        },
-        {
-          "name": "Paris Texas",
-          "url": "https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq"
-        },
-        {
-          "name": "See You Next Year",
-          "url": "https://open.spotify.com/artist/6NV0b1K9BhoZYSBk9ZPnWv"
-        },
-        {
-          "name": "Billy Lemos",
-          "url": "https://open.spotify.com/artist/7ebBg3BuRFa2satTcY8whC"
+          "name": "Nourished by Time",
+          "url": "https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g"
         }
       ],
-      "duration_ms": 162352,
-      "name": "Big Bank",
-      "url": "https://open.spotify.com/track/7onMcwREc7risUlE4mDhG4"
+      "duration_ms": 246626,
+      "name": "Daddy",
+      "url": "https://open.spotify.com/track/3jKlmTVS7ym2axSs9OEcrT"
     },
     {
       "added_at": "2024-04-19 05:00:00",
@@ -1707,22 +1695,6 @@
       "duration_ms": 168510,
       "name": "Stacy's Chips",
       "url": "https://open.spotify.com/track/3vKvc3L1fq3mtAcJV8zdCd"
-    },
-    {
-      "added_at": "2024-03-19 20:25:15",
-      "album": {
-        "name": "Erotic Probiotic 2",
-        "url": "https://open.spotify.com/album/6HPNCXxhRfj8tus7gw0dDI"
-      },
-      "artists": [
-        {
-          "name": "Nourished by Time",
-          "url": "https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g"
-        }
-      ],
-      "duration_ms": 246626,
-      "name": "Daddy",
-      "url": "https://open.spotify.com/track/3jKlmTVS7ym2axSs9OEcrT"
     },
     {
       "added_at": "2024-03-19 20:25:15",
@@ -1759,6 +1731,34 @@
     {
       "added_at": "2024-03-19 20:25:15",
       "album": {
+        "name": "Big Bank (feat. Billy Lemos)",
+        "url": "https://open.spotify.com/album/4dBkm25j36XB7a0669Shi6"
+      },
+      "artists": [
+        {
+          "name": "Kenny Mason",
+          "url": "https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv"
+        },
+        {
+          "name": "Paris Texas",
+          "url": "https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq"
+        },
+        {
+          "name": "See You Next Year",
+          "url": "https://open.spotify.com/artist/6NV0b1K9BhoZYSBk9ZPnWv"
+        },
+        {
+          "name": "Billy Lemos",
+          "url": "https://open.spotify.com/artist/7ebBg3BuRFa2satTcY8whC"
+        }
+      ],
+      "duration_ms": 162352,
+      "name": "Big Bank",
+      "url": "https://open.spotify.com/track/7onMcwREc7risUlE4mDhG4"
+    },
+    {
+      "added_at": "2024-03-19 20:25:15",
+      "album": {
         "name": "SCRAPYARD I",
         "url": "https://open.spotify.com/album/0EVBIlbbAPSiXj2tRH5nE4"
       },
@@ -1779,18 +1779,18 @@
     {
       "added_at": "2024-03-19 20:25:15",
       "album": {
-        "name": "Sweet Boy Pt. 2",
-        "url": "https://open.spotify.com/album/4hQLHqX3ht0FNuk2z5sKfG"
+        "name": "bad joke",
+        "url": "https://open.spotify.com/album/31ceqD4m45Pk4AKR3tbYC4"
       },
       "artists": [
         {
-          "name": "Malcolm Todd",
-          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
+          "name": "adan diaz",
+          "url": "https://open.spotify.com/artist/6ktN7KRUuaLMHyKOog3tGP"
         }
       ],
-      "duration_ms": 175200,
-      "name": "Sore Throat",
-      "url": "https://open.spotify.com/track/4rFBcz1rUH5IKmKeVRVpcO"
+      "duration_ms": 105669,
+      "name": "bad joke",
+      "url": "https://open.spotify.com/track/1uAdlow4ZhOSQYNFQw7GOw"
     }
   ],
   "unique_name": "anti pop",

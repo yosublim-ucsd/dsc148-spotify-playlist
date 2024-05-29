@@ -4,7 +4,7 @@
 
 > Canciones instrumentales de guitarra.
 
-693 songs - 1 day 5 hr 29 min
+694 songs - 1 day 5 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -445,7 +445,7 @@
 | [Oklahoma](https://open.spotify.com/track/76zbGOyubID2QvyjLrY1AU) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [Oklahoma](https://open.spotify.com/album/0TkLrVd4OUeTrn1yWXBM3E) | 2:18 | 2022-07-15 | 2023-04-22 |
 | [Old Friends](https://open.spotify.com/track/7iJmWc6nPZrov6yzOPgqb9) | [Ronny Davis](https://open.spotify.com/artist/1swm5Q9C4aCv90Axn6mtBt) | [Old Friends](https://open.spotify.com/album/4BGT0LqhdGpd8fO1AEUWX0) | 3:10 | 2022-07-15 | 2023-04-22 |
 | [Olessa](https://open.spotify.com/track/3uWeyoRHCWz52lhK37mYmT) | [Las Tres Abejas](https://open.spotify.com/artist/4AAGqhXf0H3FXHXkQzgLOi) | [Olessa](https://open.spotify.com/album/1mJRv18DBOxzSBiYHC3xvC) | 3:07 | 2023-04-21 | 2023-10-27 |
-| [Olomana](https://open.spotify.com/track/4E0pCVwsSnYcxcKpp0wf8Q) | [Andreas Borkental](https://open.spotify.com/artist/39r4N8Uojn27VzGTVjYfdV) | [Kohala](https://open.spotify.com/album/7sOtaQGuDecDyWe4UTjAPC) | 2:39 | 2023-04-21 |  |
+| [Olomana](https://open.spotify.com/track/4E0pCVwsSnYcxcKpp0wf8Q) | [Andreas Borkental](https://open.spotify.com/artist/39r4N8Uojn27VzGTVjYfdV) | [Kohala](https://open.spotify.com/album/7sOtaQGuDecDyWe4UTjAPC) | 2:39 | 2023-04-21 | 2024-05-29 |
 | [Omaggio](https://open.spotify.com/track/77uZ7sLDxL0COLYkmNL6f5) | [Mina Pellé](https://open.spotify.com/artist/5ULQkv4ZSPh4HDDvwuDzVp) | [Omaggio](https://open.spotify.com/album/03dAXeqgfRskUKqP4iBiid) | 2:06 | 2023-04-21 |  |
 | [Onirique](https://open.spotify.com/track/00ktuagJxL4lP7xyJ1d82N) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Retrouvailles](https://open.spotify.com/album/3PwCrvkeUrCWFHwdjHCObf) | 2:41 | 2023-04-21 |  |
 | [Only Briefly](https://open.spotify.com/track/1ZdHCofnzXzQG262Z0sNyb) | [Sven Simons](https://open.spotify.com/artist/6OaZTQIF7xhBOSNSj3D1PU) | [Only Briefly](https://open.spotify.com/album/4v16VnIVhC9FWgRWHluvLG) | 2:07 | 2024-03-29 |  |
@@ -460,6 +460,7 @@
 | [passing memories](https://open.spotify.com/track/3AGayCmS2tutGPmmCkNY1k) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [passing memories](https://open.spotify.com/album/2Mxaff7EkFAZtFDu3QtkUs) | 1:58 | 2023-04-21 | 2023-06-03 |
 | [Passing Rain](https://open.spotify.com/track/3DsShklw3Th0y25Xm66L2d) | [Marta Jobim](https://open.spotify.com/artist/1mdSEV97zy0wyiCU8jfqwj) | [Passing Rain](https://open.spotify.com/album/3JxVyJJEMbFr7XV2SkhyUM) | 3:02 | 2022-07-15 | 2024-04-06 |
 | [Passing Through](https://open.spotify.com/track/1y4XIS1dYvAfxjVjYeO7Jt) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [Passing Through](https://open.spotify.com/album/2ByVknXLBoYoXVP8hzGQ5s) | 2:06 | 2023-03-31 | 2023-04-22 |
+| [Passione](https://open.spotify.com/track/6THFfWYSfpFG92eBiujkB4) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [Passione](https://open.spotify.com/album/2ECPpDyiLBJDPpm49Jgt5U) | 2:40 | 2024-05-24 |  |
 | [Past encounters](https://open.spotify.com/track/3ZHXP7TCdWAcHUOqafq2Cw) | [Alexa Popov](https://open.spotify.com/artist/0qVJFO1tdBqdhHfwcBoHfE) | [Past encounters](https://open.spotify.com/album/3CH7PyvDReNm3sKOZxPa3x) | 2:30 | 2024-02-02 |  |
 | [Patagonia Wind](https://open.spotify.com/track/1fl6ukQEOZMlVTjncfPXph) | [Las Almas Nuevas](https://open.spotify.com/artist/5LSP2iBRUfSpFUY7xOislt) | [Patagonia Wind](https://open.spotify.com/album/2JHhVGRoYytdxgslOztSp4) | 3:31 | 2022-07-15 | 2024-04-06 |
 | [Path To The Mind](https://open.spotify.com/track/14V2T4B8QG4kMZLc7XyYPv) | [Amma Lerato](https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL) | [Path To The Mind](https://open.spotify.com/album/1qCBCQvepLF70Ge8hQJSxF) | 3:23 | 2022-07-15 | 2023-04-22 |

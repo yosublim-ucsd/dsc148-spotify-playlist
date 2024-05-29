@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con Café Tacvba en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,825 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,835 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 46 | [El Traidor](https://open.spotify.com/track/4d8iNCqQFzGowmzw60nmYm) | [Mamita Papaya](https://open.spotify.com/artist/7crFuTH6NqDsqgQFg2D69M), [Albertucho](https://open.spotify.com/artist/1kcjyRBcnuC94JVRshXjI6) | [El Traidor](https://open.spotify.com/album/0eq4p1zXMT0moCdjKIBXLv) | 3:57 |
 | 47 | [En Solitario](https://open.spotify.com/track/1yCw4tvSnuidQYTeUmyR87) | [Maximiliano Calvo](https://open.spotify.com/artist/0KMw0OgYPWlF3hgQGY0VTT) | [En Solitario](https://open.spotify.com/album/7sYihSgDFnXZJebEVLkjni) | 2:55 |
 | 48 | [Antes Del Primer Beso](https://open.spotify.com/track/2DCcztF48CNFJGDs72ofJB) | [Tres Caladas](https://open.spotify.com/artist/5vJHQhuW7TKYzEavWb6V3l) | [Antes Del Primer Beso](https://open.spotify.com/album/27ehCTfOBNH7uwu8GU5iIO) | 3:34 |
-| 49 | [Jartos de Aguantar](https://open.spotify.com/track/3ZroRM5GlHUmgr1j08UCGR) | [Javier Sólo](https://open.spotify.com/artist/2rPLx3GznmaTtZ0W7y0GEy), [Reincidentes](https://open.spotify.com/artist/6AZ89uxvjtR2Cpe1hE3kpX), [Velázquez](https://open.spotify.com/artist/3ZcqrlFRoa1lDIlGXbzcGo), [Fernando Madina](https://open.spotify.com/artist/4usHPlBSMWlZogHG9zMozx) | [Jartos de Aguantar](https://open.spotify.com/album/6JNixf7baUY84B8beoMXpW) | 3:47 |
+| 49 | [Jartos de Aguantar](https://open.spotify.com/track/3ZroRM5GlHUmgr1j08UCGR) | [Javier Sólo](https://open.spotify.com/artist/2rPLx3GznmaTtZ0W7y0GEy), [Velázquez](https://open.spotify.com/artist/3ZcqrlFRoa1lDIlGXbzcGo), [Fernando Madina](https://open.spotify.com/artist/4usHPlBSMWlZogHG9zMozx), [Reincidentes](https://open.spotify.com/artist/6AZ89uxvjtR2Cpe1hE3kpX) | [Jartos de Aguantar](https://open.spotify.com/album/6JNixf7baUY84B8beoMXpW) | 3:47 |
 | 50 | [Ojalá fuera mi cumpleaños](https://open.spotify.com/track/3kvTu6XvqUEPspv2Ii3KAy) | [Comic Sans](https://open.spotify.com/artist/6iO5VUOZokpteF1zYVuWiJ) | [Ojalá fuera mi cumpleaños](https://open.spotify.com/album/1tOfOf0syqWmGyuBHE6F1A) | 3:38 |
 
 Snapshot ID: `ZlBJqAAAAABYP3GWuoA6VFrRg7GlURES`

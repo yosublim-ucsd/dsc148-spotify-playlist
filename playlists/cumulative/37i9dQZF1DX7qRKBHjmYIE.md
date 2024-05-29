@@ -4,7 +4,7 @@
 
 > De aquí y de allá \~ un poquito de todo ✨ en un vibe con Estevie.
 
-736 songs - 1 day 15 hr 50 min
+737 songs - 1 day 15 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -326,7 +326,7 @@
 | [Killing Me](https://open.spotify.com/track/1vghSeMBb7AIMT3JaMrlHO) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Killing Me](https://open.spotify.com/album/4HsgZMW1HHEQX6xyX0MrQm) | 2:45 | 2022-03-14 | 2022-07-29 |
 | [Killing Me](https://open.spotify.com/track/5BhK8Mho223YLPQOLfzWNP) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 2:45 | 2022-07-22 | 2023-02-17 |
 | [Kitipun](https://open.spotify.com/track/04elniHFWwwFHxi3SZlGI6) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Kitipun](https://open.spotify.com/album/7Hp43M9ZedO6dhIOa3O3fN) | 3:36 | 2023-09-29 | 2023-10-14 |
-| [KR1MIN4L](https://open.spotify.com/track/5iYPvyYVCyfzyyBkQjEwre) | [Miranda Santizo](https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT) | [KR1MIN4L](https://open.spotify.com/album/3oYNKbtMNbSSiVj7cuBXPT) | 2:17 | 2024-05-10 |  |
+| [KR1MIN4L](https://open.spotify.com/track/5iYPvyYVCyfzyyBkQjEwre) | [Miranda Santizo](https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT) | [KR1MIN4L](https://open.spotify.com/album/3oYNKbtMNbSSiVj7cuBXPT) | 2:17 | 2024-05-10 | 2024-05-29 |
 | [la calle](https://open.spotify.com/track/4N79H59o04RsI9h6bA9Pyc) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [la calle](https://open.spotify.com/album/22RusztdLcbxk5gtijfJfq) | 4:03 | 2024-01-26 | 2024-04-13 |
 | [LA CANCIÓN](https://open.spotify.com/track/2wIgWVIyA4bzRW6RmdXMoI) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [LA CANCIÓN](https://open.spotify.com/album/775HIr3RQ0ZfqLVrHr69aI) | 3:32 | 2022-01-24 | 2023-02-17 |
 | [La Canción Feliz Del Disco](https://open.spotify.com/track/3vP62cjz1b4QvUS5vSyEVY) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [Sol María](https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s) | 2:53 | 2024-01-26 | 2024-02-17 |
@@ -613,6 +613,7 @@
 | [Sola](https://open.spotify.com/track/3JqDfnSgtwbw8jiTEr4Zvf) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [Naona](https://open.spotify.com/album/2AnXB8xGLsYu3m0Wk1frHd) | 3:51 | 2023-02-17 | 2023-06-04 |
 | [Sola](https://open.spotify.com/track/1B72ipO4lbLubrgJRqpiiR) | [Nina Cobham](https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq) | [Sola](https://open.spotify.com/album/1h03vGM2kwQnf3q9yliFZx) | 3:18 | 2022-09-06 | 2023-02-17 |
 | [Sola](https://open.spotify.com/track/52LsiDJXROMrUGE5tMyXk9) | [Nina Cobham](https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq) | [Sola](https://open.spotify.com/album/0QacFILmEvKSWaGLTqV546) | 3:18 | 2022-01-28 | 2022-10-13 |
+| [SOLA CON LA LUNA](https://open.spotify.com/track/6mz49W2hyCbQ3eTkTEWyOZ) | [Alé Araya](https://open.spotify.com/artist/2kcVXlSyLmHdET22JmJ4jK) | [SOLA CON LA LUNA](https://open.spotify.com/album/7Hk2BhlBYVd4NopkQbLamP) | 3:52 | 2024-05-24 |  |
 | [Solo Tu](https://open.spotify.com/track/2DXJ3zARm8DQCYYIRA1BEM) | [Luna Luna](https://open.spotify.com/artist/5TlEHNqVreukNnk4aj7mVr) | [Solo Tu](https://open.spotify.com/album/67LhYiGtxWU8v9cWeN6bwR) | 2:46 | 2023-06-30 | 2023-08-26 |
 | [Solo Un Eco](https://open.spotify.com/track/4hWmuhICX1vxZOL1y8vYe4) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Solo Un Eco](https://open.spotify.com/album/5gZfKeS7i3RaNBrjn5Dbl0) | 4:45 | 2023-03-22 | 2023-09-30 |
 | [Someone Like You](https://open.spotify.com/track/413GLSu7A62MzPv3lYh6Kt) | [KAIRO](https://open.spotify.com/artist/74fcIBekHLf4hucCT3My0v) | [Someone Like You](https://open.spotify.com/album/4BdRh4BDrt51Igtk0bPIKs) | 2:52 | 2022-04-19 | 2022-07-28 |

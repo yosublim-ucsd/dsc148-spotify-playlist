@@ -2265,6 +2265,28 @@
     },
     {
       "album": {
+        "name": "Bandit (Club Mix)",
+        "url": "https://open.spotify.com/album/1edPdWHVtyAiaihO0UvDWS"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "ACRAZE",
+          "url": "https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd"
+        }
+      ],
+      "date_added": "2024-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179076,
+      "name": "Bandit - Club Mix",
+      "url": "https://open.spotify.com/track/6ovzIhWfOcUwYRlobZvJ06"
+    },
+    {
+      "album": {
         "name": "Bandolera",
         "url": "https://open.spotify.com/album/0PI845urKXOxP15ShukdzC"
       },

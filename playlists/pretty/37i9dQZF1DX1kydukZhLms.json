@@ -1,6 +1,6 @@
 {
   "description": "Throw your lighters in the air and wave them like you don't care. Cover: Guns N' Roses",
-  "num_followers": 1358102,
+  "num_followers": 1358479,
   "original_name": "Heavy Ballads",
   "owner": {
     "name": "Spotify",
@@ -707,22 +707,6 @@
     {
       "added_at": "2024-01-02 10:36:29",
       "album": {
-        "name": "Damnation",
-        "url": "https://open.spotify.com/album/4FmI0F5GvvR1M9RURWnJV9"
-      },
-      "artists": [
-        {
-          "name": "Opeth",
-          "url": "https://open.spotify.com/artist/0ybFZ2Ab08V8hueghSXm6E"
-        }
-      ],
-      "duration_ms": 464280,
-      "name": "Windowpane",
-      "url": "https://open.spotify.com/track/4uJSCrI7r0usNJ3aaHAuC6"
-    },
-    {
-      "added_at": "2024-01-02 10:36:29",
-      "album": {
         "name": "The Ritual",
         "url": "https://open.spotify.com/album/6YXf0vbjFhURCPUewYhVWE"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 390800,
       "name": "Return to Serenity",
       "url": "https://open.spotify.com/track/5awljpWNO5TpXCyjpvCBbs"
+    },
+    {
+      "added_at": "2024-01-02 10:36:29",
+      "album": {
+        "name": "Damnation",
+        "url": "https://open.spotify.com/album/4FmI0F5GvvR1M9RURWnJV9"
+      },
+      "artists": [
+        {
+          "name": "Opeth",
+          "url": "https://open.spotify.com/artist/0ybFZ2Ab08V8hueghSXm6E"
+        }
+      ],
+      "duration_ms": 464280,
+      "name": "Windowpane",
+      "url": "https://open.spotify.com/track/4uJSCrI7r0usNJ3aaHAuC6"
     },
     {
       "added_at": "2024-01-02 10:36:29",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2024-01-02 10:36:29",
       "album": {
-        "name": "Hey Stoopid",
-        "url": "https://open.spotify.com/album/0lhICEAy0rRGbhvWzlP0Ke"
-      },
-      "artists": [
-        {
-          "name": "Alice Cooper",
-          "url": "https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS"
-        }
-      ],
-      "duration_ms": 428426,
-      "name": "Might As Well Be On Mars",
-      "url": "https://open.spotify.com/track/32Z3DgoryCdqcg9eaLTbnc"
-    },
-    {
-      "added_at": "2024-01-02 10:36:29",
-      "album": {
         "name": "Streets - A Rock Opera (2011 Edition)",
         "url": "https://open.spotify.com/album/5bMMMSrjV78gkbhxarBbWT"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 342426,
       "name": "Believe",
       "url": "https://open.spotify.com/track/6jCA4rJ4caeRuyTxvf9UvA"
+    },
+    {
+      "added_at": "2024-01-02 10:36:29",
+      "album": {
+        "name": "Hey Stoopid",
+        "url": "https://open.spotify.com/album/0lhICEAy0rRGbhvWzlP0Ke"
+      },
+      "artists": [
+        {
+          "name": "Alice Cooper",
+          "url": "https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS"
+        }
+      ],
+      "duration_ms": 428426,
+      "name": "Might As Well Be On Mars",
+      "url": "https://open.spotify.com/track/32Z3DgoryCdqcg9eaLTbnc"
     },
     {
       "added_at": "2024-01-02 10:36:29",

@@ -6,36 +6,8 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAABSIdF4jzdMsb5KaxOW9Wdq",
+  "snapshot_id": "AAAAAAAAAACUQ7Byx/yGqJv5PMRWSgFz",
   "tracks": [
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "Fearless Movement",
-        "url": "https://open.spotify.com/album/0Jy18n9qpKS4RyDYmaPpdL"
-      },
-      "artists": [
-        {
-          "name": "Kamasi Washington",
-          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
-        },
-        {
-          "name": "Thundercat",
-          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
-        },
-        {
-          "name": "Taj Austin",
-          "url": "https://open.spotify.com/artist/1V9w9vndioDaZwRWnBXxJG"
-        },
-        {
-          "name": "Ras Austin",
-          "url": "https://open.spotify.com/artist/0j17jmhkSXsE9GwjuYoLNC"
-        }
-      ],
-      "duration_ms": 466296,
-      "name": "Asha The First",
-      "url": "https://open.spotify.com/track/5yRerSW4IIbninr1JDXfvi"
-    },
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
@@ -48,7 +20,7 @@
           "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
         }
       ],
-      "duration_ms": 491933,
+      "duration_ms": 492106,
       "name": "Perfume Of The Timeless",
       "url": "https://open.spotify.com/track/2XXXvrIkEBtR3LlbfJExpJ"
     },
@@ -111,30 +83,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Fearless Movement",
-        "url": "https://open.spotify.com/album/0Jy18n9qpKS4RyDYmaPpdL"
-      },
-      "artists": [
-        {
-          "name": "Kamasi Washington",
-          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
-        },
-        {
-          "name": "George Clinton",
-          "url": "https://open.spotify.com/artist/2GVBp7QyHckoOg7rYkLvrA"
-        },
-        {
-          "name": "D Smoke",
-          "url": "https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo"
-        }
-      ],
-      "duration_ms": 206397,
-      "name": "Get Lit",
-      "url": "https://open.spotify.com/track/71W5DxBrYZaTuN2InvogKq"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "Oblivion",
         "url": "https://open.spotify.com/album/6EEjJ6CtxuWLGW34oQkFXv"
       },
@@ -167,6 +115,34 @@
       "duration_ms": 241773,
       "name": "Get a Grip - 2024 Tony Iommi Remix",
       "url": "https://open.spotify.com/track/3nyCzsxkBLSJ7gltRb36Sb"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Fearless Movement",
+        "url": "https://open.spotify.com/album/0Jy18n9qpKS4RyDYmaPpdL"
+      },
+      "artists": [
+        {
+          "name": "Kamasi Washington",
+          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
+        },
+        {
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        },
+        {
+          "name": "Taj Austin",
+          "url": "https://open.spotify.com/artist/1V9w9vndioDaZwRWnBXxJG"
+        },
+        {
+          "name": "Ras Austin",
+          "url": "https://open.spotify.com/artist/0j17jmhkSXsE9GwjuYoLNC"
+        }
+      ],
+      "duration_ms": 466296,
+      "name": "Asha The First",
+      "url": "https://open.spotify.com/track/5yRerSW4IIbninr1JDXfvi"
     },
     {
       "added_at": "2024-05-24 04:00:00",

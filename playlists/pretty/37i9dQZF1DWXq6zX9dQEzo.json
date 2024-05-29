@@ -1,6 +1,6 @@
 {
   "description": "Faith without work[out]s is dead!  Get your beast mode on!",
-  "num_followers": 233100,
+  "num_followers": 233236,
   "original_name": "Beast Mode Christian",
   "owner": {
     "name": "Spotify",
@@ -355,6 +355,26 @@
     {
       "added_at": "2024-03-20 10:50:51",
       "album": {
+        "name": "VICIOUS CYCLE",
+        "url": "https://open.spotify.com/album/0CtRrHjzbmN7FdYC0r5iZv"
+      },
+      "artists": [
+        {
+          "name": "EmanuelDaProphet",
+          "url": "https://open.spotify.com/artist/5P0vV6Fw0YTdumAPZSkkuC"
+        },
+        {
+          "name": "Rylo Rodriguez",
+          "url": "https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq"
+        }
+      ],
+      "duration_ms": 208979,
+      "name": "VICIOUS CYCLE",
+      "url": "https://open.spotify.com/track/1VbIQFz8NZevPwK8tZXD8H"
+    },
+    {
+      "added_at": "2024-03-20 10:50:51",
+      "album": {
         "name": "NO WEAPON (feat. Lecrae & Fred Hammond) [REMIX]",
         "url": "https://open.spotify.com/album/0xpcpeJfjzs0r8CzZkRGHK"
       },
@@ -375,26 +395,6 @@
       "duration_ms": 242387,
       "name": "NO WEAPON (feat. Lecrae & Fred Hammond) - REMIX",
       "url": "https://open.spotify.com/track/1px8pB3hS1xWRsNy25olaM"
-    },
-    {
-      "added_at": "2024-03-20 10:50:51",
-      "album": {
-        "name": "VICIOUS CYCLE",
-        "url": "https://open.spotify.com/album/0CtRrHjzbmN7FdYC0r5iZv"
-      },
-      "artists": [
-        {
-          "name": "EmanuelDaProphet",
-          "url": "https://open.spotify.com/artist/5P0vV6Fw0YTdumAPZSkkuC"
-        },
-        {
-          "name": "Rylo Rodriguez",
-          "url": "https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq"
-        }
-      ],
-      "duration_ms": 208979,
-      "name": "VICIOUS CYCLE",
-      "url": "https://open.spotify.com/track/1VbIQFz8NZevPwK8tZXD8H"
     },
     {
       "added_at": "2024-03-20 10:50:51",
@@ -555,22 +555,6 @@
     {
       "added_at": "2024-03-20 10:50:51",
       "album": {
-        "name": "CHECK!",
-        "url": "https://open.spotify.com/album/2ap4EkuxDV83miHllb0IZ4"
-      },
-      "artists": [
-        {
-          "name": "nobigdyl.",
-          "url": "https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4"
-        }
-      ],
-      "duration_ms": 146985,
-      "name": "CHECK!",
-      "url": "https://open.spotify.com/track/3Oyx8qq8PlRhGnDxMA4cdR"
-    },
-    {
-      "added_at": "2024-03-20 10:50:51",
-      "album": {
         "name": "GROOVY FREESTYLE (REMIX)",
         "url": "https://open.spotify.com/album/4qWe3ltHgJkRGWxX8VReWo"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 211788,
       "name": "GROOVY FREESTYLE (REMIX)",
       "url": "https://open.spotify.com/track/75I3cFxZ68lLh9y61DhASM"
+    },
+    {
+      "added_at": "2024-03-20 10:50:51",
+      "album": {
+        "name": "CHECK!",
+        "url": "https://open.spotify.com/album/2ap4EkuxDV83miHllb0IZ4"
+      },
+      "artists": [
+        {
+          "name": "nobigdyl.",
+          "url": "https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4"
+        }
+      ],
+      "duration_ms": 146985,
+      "name": "CHECK!",
+      "url": "https://open.spotify.com/track/3Oyx8qq8PlRhGnDxMA4cdR"
     },
     {
       "added_at": "2024-03-20 10:50:51",
@@ -643,22 +643,6 @@
     {
       "added_at": "2024-03-20 10:50:51",
       "album": {
-        "name": "SO LONELY (AN EREMOS STORY)",
-        "url": "https://open.spotify.com/album/1yMjZOuzZHF2hRzluZESSD"
-      },
-      "artists": [
-        {
-          "name": "Jon Keith",
-          "url": "https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo"
-        }
-      ],
-      "duration_ms": 133408,
-      "name": "GOD DON'T LIE",
-      "url": "https://open.spotify.com/track/3bpr5wV8lswg90NcAaoblH"
-    },
-    {
-      "added_at": "2024-03-20 10:50:51",
-      "album": {
         "name": "I: The Arrow",
         "url": "https://open.spotify.com/album/4sKgdSpmHk1Tth5QnMlKLo"
       },
@@ -675,22 +659,18 @@
     {
       "added_at": "2024-03-20 10:50:51",
       "album": {
-        "name": "BIG GOD",
-        "url": "https://open.spotify.com/album/48WS9KBMnD32p4q3RFnvvS"
+        "name": "SO LONELY (AN EREMOS STORY)",
+        "url": "https://open.spotify.com/album/1yMjZOuzZHF2hRzluZESSD"
       },
       "artists": [
         {
-          "name": "EmanuelDaProphet",
-          "url": "https://open.spotify.com/artist/5P0vV6Fw0YTdumAPZSkkuC"
-        },
-        {
-          "name": "OG Parker",
-          "url": "https://open.spotify.com/artist/5hhgghBFkLDdMn93GW4x3I"
+          "name": "Jon Keith",
+          "url": "https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo"
         }
       ],
-      "duration_ms": 176579,
-      "name": "BIG GOD",
-      "url": "https://open.spotify.com/track/4wssjvR1Viyq4QzArsnzgv"
+      "duration_ms": 133408,
+      "name": "GOD DON'T LIE",
+      "url": "https://open.spotify.com/track/3bpr5wV8lswg90NcAaoblH"
     },
     {
       "added_at": "2024-03-20 10:50:51",
@@ -711,22 +691,22 @@
     {
       "added_at": "2024-03-20 10:50:51",
       "album": {
-        "name": "Pray For Atlanta",
-        "url": "https://open.spotify.com/album/3p4fL3jh9YxqEstKbz1Cfy"
+        "name": "BIG GOD",
+        "url": "https://open.spotify.com/album/48WS9KBMnD32p4q3RFnvvS"
       },
       "artists": [
         {
-          "name": "1K Phew",
-          "url": "https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl"
+          "name": "EmanuelDaProphet",
+          "url": "https://open.spotify.com/artist/5P0vV6Fw0YTdumAPZSkkuC"
         },
         {
-          "name": "Zaytoven",
-          "url": "https://open.spotify.com/artist/1mceaxtjWdEmwoDVAlkC41"
+          "name": "OG Parker",
+          "url": "https://open.spotify.com/artist/5hhgghBFkLDdMn93GW4x3I"
         }
       ],
-      "duration_ms": 136470,
-      "name": "Let Go Let God",
-      "url": "https://open.spotify.com/track/0FaZTQqTrOOVp84K1aygmC"
+      "duration_ms": 176579,
+      "name": "BIG GOD",
+      "url": "https://open.spotify.com/track/4wssjvR1Viyq4QzArsnzgv"
     },
     {
       "added_at": "2024-03-20 10:50:51",
@@ -755,6 +735,26 @@
       "duration_ms": 179916,
       "name": "God Got My Back",
       "url": "https://open.spotify.com/track/6p5X1ACrVlUNM2MMD8f97i"
+    },
+    {
+      "added_at": "2024-03-20 10:50:51",
+      "album": {
+        "name": "Pray For Atlanta",
+        "url": "https://open.spotify.com/album/3p4fL3jh9YxqEstKbz1Cfy"
+      },
+      "artists": [
+        {
+          "name": "1K Phew",
+          "url": "https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl"
+        },
+        {
+          "name": "Zaytoven",
+          "url": "https://open.spotify.com/artist/1mceaxtjWdEmwoDVAlkC41"
+        }
+      ],
+      "duration_ms": 136470,
+      "name": "Let Go Let God",
+      "url": "https://open.spotify.com/track/0FaZTQqTrOOVp84K1aygmC"
     },
     {
       "added_at": "2024-03-20 10:50:51",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2024-03-20 10:50:51",
       "album": {
+        "name": "I Love It",
+        "url": "https://open.spotify.com/album/2Xy6iLb2skc9sP2LVw8W00"
+      },
+      "artists": [
+        {
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+        }
+      ],
+      "duration_ms": 162403,
+      "name": "I Love It",
+      "url": "https://open.spotify.com/track/33gnHgG4uhgFpdig9KkwgV"
+    },
+    {
+      "added_at": "2024-03-20 10:50:51",
+      "album": {
         "name": "Squabble",
         "url": "https://open.spotify.com/album/0AjZUQHbdaC7QtxbOZO0xQ"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 163200,
       "name": "Squabble",
       "url": "https://open.spotify.com/track/0jYGdeobsBl0LExCcDugp8"
-    },
-    {
-      "added_at": "2024-03-20 10:50:51",
-      "album": {
-        "name": "I Love It",
-        "url": "https://open.spotify.com/album/2Xy6iLb2skc9sP2LVw8W00"
-      },
-      "artists": [
-        {
-          "name": "Aaron Cole",
-          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
-        }
-      ],
-      "duration_ms": 162403,
-      "name": "I Love It",
-      "url": "https://open.spotify.com/track/33gnHgG4uhgFpdig9KkwgV"
     },
     {
       "added_at": "2024-03-20 10:50:51",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2024-03-20 10:50:51",
       "album": {
-        "name": "Signing Bonus",
-        "url": "https://open.spotify.com/album/6qHMc5xzKuR1Yz4Imf4RWj"
-      },
-      "artists": [
-        {
-          "name": "Aaron Cole",
-          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
-        }
-      ],
-      "duration_ms": 159998,
-      "name": "Tables Turned",
-      "url": "https://open.spotify.com/track/29JdRQohqfWj35j4p6tzCZ"
-    },
-    {
-      "added_at": "2024-03-20 10:50:51",
-      "album": {
         "name": "NITE-N-DAY - EP",
         "url": "https://open.spotify.com/album/0elwGmWUMo8oDksWnvqyoC"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 200097,
       "name": "Real Talk",
       "url": "https://open.spotify.com/track/7kGpEg4HAFNDOwXBslAxzL"
+    },
+    {
+      "added_at": "2024-03-20 10:50:51",
+      "album": {
+        "name": "Signing Bonus",
+        "url": "https://open.spotify.com/album/6qHMc5xzKuR1Yz4Imf4RWj"
+      },
+      "artists": [
+        {
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+        }
+      ],
+      "duration_ms": 159998,
+      "name": "Tables Turned",
+      "url": "https://open.spotify.com/track/29JdRQohqfWj35j4p6tzCZ"
     },
     {
       "added_at": "2024-03-20 10:50:51",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2024-03-20 10:50:51",
       "album": {
-        "name": "Bend The Whip",
-        "url": "https://open.spotify.com/album/5rwFEKB8GgdsEAbEaWvnWB"
-      },
-      "artists": [
-        {
-          "name": "Canon",
-          "url": "https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq"
-        }
-      ],
-      "duration_ms": 163902,
-      "name": "Bend The Whip",
-      "url": "https://open.spotify.com/track/3ABLULiimnqZkQFTb6QsZh"
-    },
-    {
-      "added_at": "2024-03-20 10:50:51",
-      "album": {
         "name": "PLAN PLAN",
         "url": "https://open.spotify.com/album/2xNO3xacBP2uF3qH5OSacX"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 168000,
       "name": "PLAN PLAN",
       "url": "https://open.spotify.com/track/0EbDu1P2IOei9r3WlrECMp"
+    },
+    {
+      "added_at": "2024-03-20 10:50:51",
+      "album": {
+        "name": "Bend The Whip",
+        "url": "https://open.spotify.com/album/5rwFEKB8GgdsEAbEaWvnWB"
+      },
+      "artists": [
+        {
+          "name": "Canon",
+          "url": "https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq"
+        }
+      ],
+      "duration_ms": 163902,
+      "name": "Bend The Whip",
+      "url": "https://open.spotify.com/track/3ABLULiimnqZkQFTb6QsZh"
     },
     {
       "added_at": "2024-03-20 10:50:51",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2024-03-20 10:50:51",
       "album": {
-        "name": "HE BACK!",
-        "url": "https://open.spotify.com/album/6YONIZy4O4CSen2cbqhfn4"
-      },
-      "artists": [
-        {
-          "name": "808 BEEZY",
-          "url": "https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k"
-        }
-      ],
-      "duration_ms": 115434,
-      "name": "HE BACK!",
-      "url": "https://open.spotify.com/track/3Rbab48znK9UXKteEzmyeu"
-    },
-    {
-      "added_at": "2024-03-20 10:50:51",
-      "album": {
         "name": "Working it out",
         "url": "https://open.spotify.com/album/2rkz3xnC2V6ZR1K658V2Kp"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 176470,
       "name": "Working it out",
       "url": "https://open.spotify.com/track/7ntAFhTGZ8DLdM26HDHrHc"
+    },
+    {
+      "added_at": "2024-03-20 10:50:51",
+      "album": {
+        "name": "HE BACK!",
+        "url": "https://open.spotify.com/album/6YONIZy4O4CSen2cbqhfn4"
+      },
+      "artists": [
+        {
+          "name": "808 BEEZY",
+          "url": "https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k"
+        }
+      ],
+      "duration_ms": 115434,
+      "name": "HE BACK!",
+      "url": "https://open.spotify.com/track/3Rbab48znK9UXKteEzmyeu"
     },
     {
       "added_at": "2024-03-20 10:50:51",
@@ -1607,6 +1607,22 @@
     {
       "added_at": "2024-03-20 10:50:51",
       "album": {
+        "name": "ALOT",
+        "url": "https://open.spotify.com/album/5Rekz99tSLtBKqCFyduQ8r"
+      },
+      "artists": [
+        {
+          "name": "808 BEEZY",
+          "url": "https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k"
+        }
+      ],
+      "duration_ms": 145011,
+      "name": "ALOT",
+      "url": "https://open.spotify.com/track/6YzOFXNcafOeBFTrTklZhd"
+    },
+    {
+      "added_at": "2024-03-20 10:50:51",
+      "album": {
         "name": "Nicely",
         "url": "https://open.spotify.com/album/56KdLLhVf6YC3YyMz6ArmC"
       },
@@ -1619,6 +1635,22 @@
       "duration_ms": 170859,
       "name": "Nicely",
       "url": "https://open.spotify.com/track/4cBCYWUCQ6DKyfWINpQuOz"
+    },
+    {
+      "added_at": "2024-03-20 10:50:51",
+      "album": {
+        "name": "That Feel",
+        "url": "https://open.spotify.com/album/6P2NFEDWyjEDhj91jjKs8Z"
+      },
+      "artists": [
+        {
+          "name": "KMO Shamaal",
+          "url": "https://open.spotify.com/artist/3IZpU8rUESdWsLRyfyHZqF"
+        }
+      ],
+      "duration_ms": 163657,
+      "name": "That Feel",
+      "url": "https://open.spotify.com/track/5ujNb0DzpT1oP5M5oyyTmr"
     },
     {
       "added_at": "2024-03-20 10:50:51",
@@ -1663,38 +1695,6 @@
       "duration_ms": 196578,
       "name": "Potential",
       "url": "https://open.spotify.com/track/1sVLkx9hkLcKNeg5GDrtuw"
-    },
-    {
-      "added_at": "2024-03-20 10:50:51",
-      "album": {
-        "name": "That Feel",
-        "url": "https://open.spotify.com/album/6P2NFEDWyjEDhj91jjKs8Z"
-      },
-      "artists": [
-        {
-          "name": "KMO Shamaal",
-          "url": "https://open.spotify.com/artist/3IZpU8rUESdWsLRyfyHZqF"
-        }
-      ],
-      "duration_ms": 163657,
-      "name": "That Feel",
-      "url": "https://open.spotify.com/track/5ujNb0DzpT1oP5M5oyyTmr"
-    },
-    {
-      "added_at": "2024-03-20 10:50:51",
-      "album": {
-        "name": "ALOT",
-        "url": "https://open.spotify.com/album/5Rekz99tSLtBKqCFyduQ8r"
-      },
-      "artists": [
-        {
-          "name": "808 BEEZY",
-          "url": "https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k"
-        }
-      ],
-      "duration_ms": 145011,
-      "name": "ALOT",
-      "url": "https://open.spotify.com/track/6YzOFXNcafOeBFTrTklZhd"
     },
     {
       "added_at": "2024-03-20 10:50:51",

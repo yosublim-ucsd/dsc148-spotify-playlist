@@ -4,7 +4,7 @@
 
 > Hits, repackaged by Bollywood\. Cover \- Badrinath Ki Dulhania
 
-153 songs - 8 hr 56 min
+154 songs - 9 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,6 +160,7 @@
 | [Whistle Baja 2.0 \(From "Heropanti 2"\)](https://open.spotify.com/track/2hVTU41stB2Ahk8bTRhnex) | [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM), [Mika Singh](https://open.spotify.com/artist/5T2I75UlGBcWd5nVyfmL13), [Manj Musik](https://open.spotify.com/artist/7IVzXMMN7fFi7PXxPhXcAB), [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG) | [Whistle Baja 2.0 \(From "Heropanti 2"\) \- Single](https://open.spotify.com/album/3NzsrJxQHhN3XUb3R19TUR) | 2:48 | 2022-07-04 | 2023-05-26 |
 | [Yai Re](https://open.spotify.com/track/7EH3l7c5HMIHiLm8t0g9ut) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR), [Iulia Vantur](https://open.spotify.com/artist/2zLJk6hSb9TMtU8XZ6Ne7t) | [Yai Re](https://open.spotify.com/album/3WJyprmm76vrt01oJtBphq) | 4:05 | 2022-12-21 | 2023-04-19 |
 | [Yeh Kaali Kaali Ankhein \- Shivam's Version \- Recreated Version](https://open.spotify.com/track/5tnmFi0uckbBygluB5CYhU) | [Shivam Sengupta](https://open.spotify.com/artist/3p9iqVv8YUPK53CfSdS9uq), [Anuj Danait](https://open.spotify.com/artist/7m3KZrVTl96hFfzOFwW0aw), [Anu Malik](https://open.spotify.com/artist/71hjb5G92mGoKRSAW3Cj00) | [Yeh Kaali Kaali Ankhein \(Music From The Netflix Series\)](https://open.spotify.com/album/6Ou3S5OJfPdEskgHpAQzsj) | 1:03 | 2022-05-24 | 2023-05-26 |
+| [Zidd Na Karo \(From "Dedh Bigha Zameen"\)](https://open.spotify.com/track/72nKrH0SSbS8yZHPxtPFw2) | [Rochak Kohli](https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe), [Stebin Ben](https://open.spotify.com/artist/1UAzmnFgjizIDvtHvnCdEq), [Manoj Muntashir](https://open.spotify.com/artist/4cAERazLlAzVGA10ORWaUP) | [Zidd Na Karo \(From "Dedh Bigha Zameen"\)](https://open.spotify.com/album/5PGSQxtm27fJpwcWBghdne) | 4:31 | 2024-05-28 |  |
 | [Zindagi Ki Yehi Reet Hai \(From "Koi Jaane Na"\)](https://open.spotify.com/track/45o3NZK6ONVJHGy3g1Yraq) | [Soumitra Dev Burman](https://open.spotify.com/artist/3533hsqoZQK4EPWhFXpCC7), [Rochak Kohli](https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe), [Laxmikant–Pyarelal](https://open.spotify.com/artist/3yS84AjNFqhmuJlIXy7sax) | [Zindagi Ki Yehi Reet Hai \(From "Koi Jaane Na"\)](https://open.spotify.com/album/3hvI9RVQTPkHDVLeC804Wj) | 3:53 | 2022-05-24 | 2023-05-26 |
 
 \*This playlist was first scraped on 2022-05-30. Prior content cannot be recovered.

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 
 > Sau này bé lấy 🥖 của mẹ đi cưa ghệ
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,325 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,350 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 | 11 | [TETVOVEN](https://open.spotify.com/track/72ictTz6o0dusD2QpCn4bn) | [Wxrdie](https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw), [Andree Right Hand](https://open.spotify.com/artist/4grjJqg7iwQ8RKHs8d9Snh), [Machiot](https://open.spotify.com/artist/53JNigMoziak3PfjdVcNLh) | [TETVOVEN](https://open.spotify.com/album/3jwSlUKUdfxcIuy3b2SCxc) | 3:17 |
 | 12 | [2014](https://open.spotify.com/track/5juq95pMEYdSzCXKYR5J69) | [Ronboogz](https://open.spotify.com/artist/0dBcEvEklr1jx4uZuhFX5e) | [2014](https://open.spotify.com/album/0yQFVTaw2VtsxsudX9JmFr) | 3:34 |
 | 13 | [Lệ Lưu Ly](https://open.spotify.com/track/2JuHIbFudHwDqQssgqsH3i) | [Vũ Phụng Tiên](https://open.spotify.com/artist/70ULEgr5A3zBL12foM4bnj), [DT Tập Rap](https://open.spotify.com/artist/56YvnYcOAPPIuSwoZ6uoBP), [Drum7](https://open.spotify.com/artist/0gsqfuR0OFF5SSai7lsPrj) | [Lệ Lưu Ly](https://open.spotify.com/album/5hKHXzNB0vwgAlFXJNRV34) | 3:20 |
-| 14 | [Tiếng ca tiên cá \(feat\. Mèo & Hoàng Phi\)](https://open.spotify.com/track/6EPyZNiMQsf8sdF9V0kYYD) | [Datmaniac](https://open.spotify.com/artist/56su1iNcOlGUPEtBoOoJ5D), [Mèo](https://open.spotify.com/artist/0Fz5B6mVnTq7NrBwe617qF), [Hoàng Phi](https://open.spotify.com/artist/7Cmru0PsrPMMhu7Ce2CswT) | [Sao Đủ Để Bao Phủ](https://open.spotify.com/album/0UxBR0MgNbCHSVofOEPuB0) | 4:36 |
+| 14 | [Tiếng ca tiên cá \(feat\. Mèo & Chú 13\)](https://open.spotify.com/track/6EPyZNiMQsf8sdF9V0kYYD) | [Datmaniac](https://open.spotify.com/artist/56su1iNcOlGUPEtBoOoJ5D), [Mèo](https://open.spotify.com/artist/0Fz5B6mVnTq7NrBwe617qF), [Chú 13](https://open.spotify.com/artist/3wFTLrkeE4xAnUwalToYV9) | [Sao Đủ Để Bao Phủ](https://open.spotify.com/album/0UxBR0MgNbCHSVofOEPuB0) | 4:36 |
 | 15 | [Chìm Sâu](https://open.spotify.com/track/4ih9noxBfg7euMjCPO0qNH) | [RPT MCK](https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL), [Trung Trần](https://open.spotify.com/artist/2v14NO80QYditUms7sbEIZ) | [Chìm Sâu](https://open.spotify.com/album/2AZXUAGWs90yNEUC4biubs) | 2:36 |
 | 16 | [BUSINESS MODE](https://open.spotify.com/track/1nLkB5tZaxAIbJ7Mg5Wmfg) | [$A Milo](https://open.spotify.com/artist/55YrB6LSt3ZShzAiBXTEcA), [Obito](https://open.spotify.com/artist/0ZbgKh0FgPYeFP38nVaEGp), [B\-Wine](https://open.spotify.com/artist/68Vj5ArAHBx2K0osGDXK4K) | [OMERTÀ](https://open.spotify.com/album/0QYy9DEAkRYdcecq3cCRSb) | 3:40 |
 | 17 | [Hà Nội \(ft\. VSTRA\)](https://open.spotify.com/track/0SLhB9JLM4Ksz1XdwK3aQD) | [Obito](https://open.spotify.com/artist/0ZbgKh0FgPYeFP38nVaEGp), [VSTRA](https://open.spotify.com/artist/2aMo0CYbTieTisS0BlWc59), [Shiki](https://open.spotify.com/artist/3hRnvEdu1iPyB6EzMBbuZq) | [Đánh Đổi](https://open.spotify.com/album/5NODJ4FZWvaLLiFd554kLI) | 2:45 |

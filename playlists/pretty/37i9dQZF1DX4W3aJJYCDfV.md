@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Bring Me The Horizon \(pictured\), Central Cee ft Lil Baby, PinkPantheress and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 851,255 likes - 120 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 851,250 likes - 120 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 26 | [Manny](https://open.spotify.com/track/3Eecd74H22V1TPURmJ6Xm3) | [Meekz](https://open.spotify.com/artist/1Pm6hTRjgSkT3B4FCQpW4g) | [TRU](https://open.spotify.com/album/0qqdO3p3vA4R7K2yhBmpXx) | 3:08 |
 | 27 | [LOVEBITES](https://open.spotify.com/track/5Qmabe5M68D39yD3ie9dum) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43) | [LOVEBITES](https://open.spotify.com/album/4gHjIxAYsDLd6gAWcwNod7) | 3:32 |
 | 28 | [If It's Not With You \(feat\. Samm Henshaw\)](https://open.spotify.com/track/5jQtg0LKnoPzWpTbs3bYi2) | [BEKA](https://open.spotify.com/artist/1ClmHgLorY9RUCIvsTdT7A), [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Trying: Season 4 \(Apple TV+ Original Series Soundtrack\)](https://open.spotify.com/album/50bKyVk36mrpvuXqrkhvXW) | 2:55 |
-| 29 | [Push](https://open.spotify.com/track/29OFLlrrfKIEVwbVMTjBYe) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg), [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN), [Contra](https://open.spotify.com/artist/73BAwJ65pT6RvwR7JEkfEv), [OFFAIAH](https://open.spotify.com/artist/2E1NFr5AeEGUJkLUUsWCAO) | [Push](https://open.spotify.com/album/3GSEVlHrbrQbKSP4ozWzx8) | 3:05 |
+| 29 | [Push](https://open.spotify.com/track/29OFLlrrfKIEVwbVMTjBYe) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg), [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN), [contra](https://open.spotify.com/artist/5VYRcaryFLFZnA5HvnRHFi), [OFFAIAH](https://open.spotify.com/artist/2E1NFr5AeEGUJkLUUsWCAO) | [Push](https://open.spotify.com/album/3GSEVlHrbrQbKSP4ozWzx8) | 3:05 |
 | 30 | [Price On Fun](https://open.spotify.com/track/3RVdfN1q7TMQKywRmtfhdD) | [Chloe Slater](https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24) | [You Can't Put A Price On Fun](https://open.spotify.com/album/3ypNothOPxns9O8DIJubYb) | 3:20 |
 | 31 | [SOS](https://open.spotify.com/track/6lg0ZagTCrEnuVSoOz8I5W) | [Robert Grace](https://open.spotify.com/artist/6W8rk6H6C3Mcj0lALuLVg1) | [Happy Sad Songs](https://open.spotify.com/album/0kyYIrS10ZxHFK8tvgAynM) | 2:10 |
 | 32 | [Barbies](https://open.spotify.com/track/3yeT6lq3kzH71hlMTAa82f) | [163Margs](https://open.spotify.com/artist/3YCLjLKCZN6U1t7IBJv8k2) | [Barbies](https://open.spotify.com/album/3XX4goDNEzHlG7FEVWG0nE) | 2:34 |

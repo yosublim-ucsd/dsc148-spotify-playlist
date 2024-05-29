@@ -1,12 +1,12 @@
 {
-  "description": "This Is Ariel Camacho y Los Plebes Del Rancho. Los temas esenciales, todos en una lista.",
-  "num_followers": 401291,
+  "description": "This is Ariel Camacho y Los Plebes Del Rancho. The essential tracks, all in one playlist.",
+  "num_followers": 401400,
   "original_name": "This Is Ariel Camacho y Los Plebes Del Rancho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlJ7gAAAAADAYPk/qnJ7qo9mFc/PSvum",
+  "snapshot_id": "ZlPNAAAAAACq1TR60gwqfarVWMx0ejoY",
   "tracks": [
     {
       "added_at": null,
@@ -480,9 +480,9 @@
           "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
         }
       ],
-      "duration_ms": 182000,
-      "name": "El Toro Encartado",
-      "url": "https://open.spotify.com/track/6VQn64fkyqm6V3rXnTDfbB"
+      "duration_ms": 160631,
+      "name": "A Cada Rato",
+      "url": "https://open.spotify.com/track/46KWu3yg2dsoVRyDhcvqSg"
     },
     {
       "added_at": null,
@@ -552,9 +552,9 @@
           "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
         }
       ],
-      "duration_ms": 160631,
-      "name": "A Cada Rato",
-      "url": "https://open.spotify.com/track/46KWu3yg2dsoVRyDhcvqSg"
+      "duration_ms": 182000,
+      "name": "El Toro Encartado",
+      "url": "https://open.spotify.com/track/6VQn64fkyqm6V3rXnTDfbB"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > The best indie dance tracks of the moment\. Cover: Cosmo's Midnight
 
-1,318 songs - 3 day 10 hr 55 min
+1,319 songs - 3 day 10 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [All the Good Times Never Die](https://open.spotify.com/track/0c8lmplaH3NgXWus2sVnpM) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R), [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [All the Good Times Never Die](https://open.spotify.com/album/4rGaiJ09OCioTTfcMFvdPL) | 3:08 | 2023-07-21 | 2023-10-29 |
 | [All The Things We Say](https://open.spotify.com/track/1KH8bxeGwgw1IxtzQUx6m5) | [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [All The Things We Say / Move Me](https://open.spotify.com/album/2ciY9tUIVAM1rEsr9wjXq4) | 3:51 | 2023-06-09 | 2024-01-13 |
 | [All Ur Luv](https://open.spotify.com/track/3K1RnBxBkrMwoBE8gC63eY) | [Wavedash](https://open.spotify.com/artist/1SlTeYo2NYg93bGqlQYkwE), [Madeon](https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc), [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [All Ur Luv](https://open.spotify.com/album/1KrS7daFwtHSyT5aPsI0so) | 2:41 | 2024-02-02 |  |
+| [All You Can Do Is Try](https://open.spotify.com/track/56tw6lIIgthRkmjpKKDtmi) | [Joshua Idehen](https://open.spotify.com/artist/3PubLnxnO5N2Avr3UvG1Vc) | [All You Can Do Is Try](https://open.spotify.com/album/667fumsb19emfmnwEEfuPp) | 3:11 | 2024-05-28 |  |
 | [Alone in the Mountains](https://open.spotify.com/track/2Ug0yCvg19wxkpwALYWzHi) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Alone in the Mountains](https://open.spotify.com/album/7oGOnYxXUMTH8BGooDqsC4) | 3:16 | 2023-04-21 | 2023-08-26 |
 | [Always / Never](https://open.spotify.com/track/3n9EfOy7vlDIXbDyntRLxc) | [STRFKR](https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU) | [Always / Never](https://open.spotify.com/album/16f1fDWr5jRAcGiqFoZSFI) | 3:41 | 2023-10-20 | 2024-02-24 |
 | [Always Get Through To You](https://open.spotify.com/track/0g8nIlk2ltpZP8lYlPvRx1) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [When Will We Land?](https://open.spotify.com/album/5LASDBDtLLEt3QqVtgOoaM) | 4:06 | 2023-10-20 | 2023-11-25 |
@@ -96,7 +97,7 @@
 | [Baby You're A Star](https://open.spotify.com/track/2YDEPymI2wEv7QDDfOrHcA) | [Loukeman](https://open.spotify.com/artist/10JL2s5aUztzFyURrFrxtL) | [Sd\-2](https://open.spotify.com/album/0UCKDXpYHTZoZpwzrm1KRp) | 2:21 | 2024-01-26 | 2024-04-06 |
 | [Baby You're A Star](https://open.spotify.com/track/5zhjQ18PepzPDl9uTz2NH2) | [Loukeman](https://open.spotify.com/artist/10JL2s5aUztzFyURrFrxtL) | [Baby You're A Star](https://open.spotify.com/album/476j0mz4vinyAeVJEZ5S8a) | 2:21 | 2023-12-08 | 2024-01-13 |
 | [Babychan](https://open.spotify.com/track/5RSInLIfZArNJ9oCxAFcy0) | [Aili](https://open.spotify.com/artist/4hKrRKWY1mF3LTwGIMj99R) | [Babychan](https://open.spotify.com/album/5lHO8YkIlsuUDUhgTZcZG8) | 3:22 | 2023-11-24 | 2024-01-13 |
-| [Back 2 Life](https://open.spotify.com/track/3PynSvD5MuWQjv8y3CJtT9) | [Ruby Red](https://open.spotify.com/artist/2f0NSj1t2L6JowHINXCFb6) | [Back 2 Life](https://open.spotify.com/album/1goOossnTZUZBTi92aBxon) | 3:02 | 2024-04-05 |  |
+| [Back 2 Life](https://open.spotify.com/track/3PynSvD5MuWQjv8y3CJtT9) | [Ruby Red](https://open.spotify.com/artist/2f0NSj1t2L6JowHINXCFb6) | [Back 2 Life](https://open.spotify.com/album/1goOossnTZUZBTi92aBxon) | 3:02 | 2024-04-05 | 2024-05-29 |
 | [Back Of My Mind](https://open.spotify.com/track/0RDAOHfHfq7QUkjmXLAVJf) | [Bodysync](https://open.spotify.com/artist/34KMxwDAHIvM7Kwt1PcClb), [Ryan Hemsworth](https://open.spotify.com/artist/2CgysNw5B7rFNRtRjQbPZ9), [Giraffage](https://open.spotify.com/artist/4kubsO16bEfCADaVUyoYb6), [Dazy](https://open.spotify.com/artist/2pe1uLYghU4lj6Fe6qq8k6) | [Back Of My Mind](https://open.spotify.com/album/1rurbfn13qYyYC41BGPFEC) | 2:40 | 2024-03-29 |  |
 | [Back On 74](https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 3:29 | 2023-07-28 | 2024-04-19 |
 | [Back On 74](https://open.spotify.com/track/2xC3aQCmwgsW7ChDlJxLca) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Back On 74](https://open.spotify.com/album/3aZ2yYaBf9BDh1KO7f0S1s) | 3:29 | 2023-07-28 | 2023-08-14 |

@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Poland.",
-  "num_followers": 262284,
+  "num_followers": 262323,
   "original_name": "Top 50 - Poland",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "LefwGAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "LelBmAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2024-05-27 09:30:00",
+      "added_at": "2024-05-28 09:25:17",
       "album": {
         "name": "Woda Ksi\u0119\u017cycowa",
         "url": "https://open.spotify.com/album/3RvFmDnX4xSUsjgvHpB0wb"
@@ -37,7 +37,7 @@
       "url": "https://open.spotify.com/track/5QOdYa6XQMdIm6fMYhjHQk"
     },
     {
-      "added_at": "2024-05-27 09:30:00",
+      "added_at": "2024-05-28 09:25:17",
       "album": {
         "name": "PG$",
         "url": "https://open.spotify.com/album/0jQlIVeY05n6f5Es8ShhYs"
@@ -65,23 +65,7 @@
       "url": "https://open.spotify.com/track/0MTTFee7cTSd46njlPKBZe"
     },
     {
-      "added_at": "2024-05-27 09:30:00",
-      "album": {
-        "name": "i like the way you kiss me",
-        "url": "https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z"
-      },
-      "artists": [
-        {
-          "name": "Artemas",
-          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
-        }
-      ],
-      "duration_ms": 142514,
-      "name": "i like the way you kiss me",
-      "url": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"
-    },
-    {
-      "added_at": "2024-05-27 09:30:00",
+      "added_at": "2024-05-28 09:25:17",
       "album": {
         "name": "LEC\u0118 BO CHC\u0118",
         "url": "https://open.spotify.com/album/2ZQVhK7B598PmTwpZPoQHf"
@@ -113,7 +97,23 @@
       "url": "https://open.spotify.com/track/27Xvm20KQ8qMzVvaz32I98"
     },
     {
-      "added_at": "2024-05-27 09:30:00",
+      "added_at": "2024-05-28 09:25:17",
+      "album": {
+        "name": "i like the way you kiss me",
+        "url": "https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z"
+      },
+      "artists": [
+        {
+          "name": "Artemas",
+          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
+        }
+      ],
+      "duration_ms": 142514,
+      "name": "i like the way you kiss me",
+      "url": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"
+    },
+    {
+      "added_at": "2024-05-28 09:25:17",
       "album": {
         "name": "ILE LAT?",
         "url": "https://open.spotify.com/album/5pzf4AhTd7kPFC0W1Bh5Ti"
@@ -137,27 +137,7 @@
       "url": "https://open.spotify.com/track/4sOUVcGZo8MiSoIKybdXMC"
     },
     {
-      "added_at": "2024-05-27 09:30:00",
-      "album": {
-        "name": "Chyba \u017ce z Tob\u0105",
-        "url": "https://open.spotify.com/album/1OeMB0KFN400gB3IrwQK7L"
-      },
-      "artists": [
-        {
-          "name": "MODELKI",
-          "url": "https://open.spotify.com/artist/3cBLJizprytrMpuFbnRnaE"
-        },
-        {
-          "name": "V\u0142odarski",
-          "url": "https://open.spotify.com/artist/75wMNgYkzacOI08FN7BaG0"
-        }
-      ],
-      "duration_ms": 131250,
-      "name": "Chyba \u017ce z Tob\u0105",
-      "url": "https://open.spotify.com/track/0peRfvtx1Je91FxQtii5DJ"
-    },
-    {
-      "added_at": "2024-05-27 09:30:00",
+      "added_at": "2024-05-28 09:25:17",
       "album": {
         "name": "PG$",
         "url": "https://open.spotify.com/album/0jQlIVeY05n6f5Es8ShhYs"
@@ -185,23 +165,27 @@
       "url": "https://open.spotify.com/track/5fqjgdj9SMB4Jjmyc9cY1J"
     },
     {
-      "added_at": "2024-05-27 09:30:00",
+      "added_at": "2024-05-28 09:25:17",
       "album": {
-        "name": "HIT ME HARD AND SOFT",
-        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+        "name": "Chyba \u017ce z Tob\u0105",
+        "url": "https://open.spotify.com/album/1OeMB0KFN400gB3IrwQK7L"
       },
       "artists": [
         {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+          "name": "MODELKI",
+          "url": "https://open.spotify.com/artist/3cBLJizprytrMpuFbnRnaE"
+        },
+        {
+          "name": "V\u0142odarski",
+          "url": "https://open.spotify.com/artist/75wMNgYkzacOI08FN7BaG0"
         }
       ],
-      "duration_ms": 179586,
-      "name": "LUNCH",
-      "url": "https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE"
+      "duration_ms": 131250,
+      "name": "Chyba \u017ce z Tob\u0105",
+      "url": "https://open.spotify.com/track/0peRfvtx1Je91FxQtii5DJ"
     },
     {
-      "added_at": "2024-05-27 09:30:00",
+      "added_at": "2024-05-28 09:25:17",
       "album": {
         "name": "G",
         "url": "https://open.spotify.com/album/7CEzHDYHDSP9roSsiSM7Wr"
@@ -217,7 +201,7 @@
       "url": "https://open.spotify.com/track/7yHuqNnOtkfc2k9GF7nMMR"
     },
     {
-      "added_at": "2024-05-27 09:30:00",
+      "added_at": "2024-05-28 09:25:17",
       "album": {
         "name": "HIT ME HARD AND SOFT",
         "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
@@ -228,12 +212,12 @@
           "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
         }
       ],
-      "duration_ms": 303440,
-      "name": "CHIHIRO",
-      "url": "https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj"
+      "duration_ms": 179586,
+      "name": "LUNCH",
+      "url": "https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE"
     },
     {
-      "added_at": "2024-05-27 09:30:00",
+      "added_at": "2024-05-28 09:25:17",
       "album": {
         "name": "PG$",
         "url": "https://open.spotify.com/album/0jQlIVeY05n6f5Es8ShhYs"
@@ -261,31 +245,23 @@
       "url": "https://open.spotify.com/track/3CgWmnnox6kF0NvJpZWSv8"
     },
     {
-      "added_at": "2024-05-27 09:30:00",
+      "added_at": "2024-05-28 09:25:17",
       "album": {
-        "name": "Pedro",
-        "url": "https://open.spotify.com/album/5y6RXjI5VPR0RyInghTbf1"
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
       },
       "artists": [
         {
-          "name": "Jaxomy",
-          "url": "https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq"
-        },
-        {
-          "name": "Agatino Romero",
-          "url": "https://open.spotify.com/artist/124jbwgd8Hh6LW7jAqTa8r"
-        },
-        {
-          "name": "Raffaella Carr\u00e0",
-          "url": "https://open.spotify.com/artist/6EVyI0S0b1Ld2nm37m5x85"
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
         }
       ],
-      "duration_ms": 144846,
-      "name": "Pedro",
-      "url": "https://open.spotify.com/track/48lxT5qJF0yYyf2z4wB4xW"
+      "duration_ms": 303440,
+      "name": "CHIHIRO",
+      "url": "https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj"
     },
     {
-      "added_at": "2024-05-27 09:30:00",
+      "added_at": "2024-05-28 09:25:17",
       "album": {
         "name": "B012",
         "url": "https://open.spotify.com/album/6pN3zmswspYqyY1ztZHKsK"
@@ -301,7 +277,7 @@
       "url": "https://open.spotify.com/track/5G7d637BU8TQbUjcE1qjMt"
     },
     {
-      "added_at": "2024-05-27 09:30:00",
+      "added_at": "2024-05-28 09:25:17",
       "album": {
         "name": "SAFE",
         "url": "https://open.spotify.com/album/0dk2Dde2gYp7GrIzIC679c"
@@ -329,7 +305,47 @@
       "url": "https://open.spotify.com/track/4kcMDgaU8xb4otoDv5c4kD"
     },
     {
-      "added_at": "2024-05-27 09:30:00",
+      "added_at": "2024-05-28 09:25:17",
+      "album": {
+        "name": "Pedro",
+        "url": "https://open.spotify.com/album/5y6RXjI5VPR0RyInghTbf1"
+      },
+      "artists": [
+        {
+          "name": "Jaxomy",
+          "url": "https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq"
+        },
+        {
+          "name": "Agatino Romero",
+          "url": "https://open.spotify.com/artist/124jbwgd8Hh6LW7jAqTa8r"
+        },
+        {
+          "name": "Raffaella Carr\u00e0",
+          "url": "https://open.spotify.com/artist/6EVyI0S0b1Ld2nm37m5x85"
+        }
+      ],
+      "duration_ms": 144846,
+      "name": "Pedro",
+      "url": "https://open.spotify.com/track/48lxT5qJF0yYyf2z4wB4xW"
+    },
+    {
+      "added_at": "2024-05-28 09:25:17",
+      "album": {
+        "name": "Espresso",
+        "url": "https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 175459,
+      "name": "Espresso",
+      "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
+    },
+    {
+      "added_at": "2024-05-28 09:25:17",
       "album": {
         "name": "The Sound of Silence (CYRIL Remix)",
         "url": "https://open.spotify.com/album/4AaJMesGEVwF7QpWMSG29p"
@@ -349,23 +365,7 @@
       "url": "https://open.spotify.com/track/1LY3GhF0zxIVgbYEQjCbUO"
     },
     {
-      "added_at": "2024-05-27 09:30:00",
-      "album": {
-        "name": "Espresso",
-        "url": "https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 175459,
-      "name": "Espresso",
-      "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
-    },
-    {
-      "added_at": "2024-05-27 09:30:00",
+      "added_at": "2024-05-28 09:25:17",
       "album": {
         "name": "BLINDBOX",
         "url": "https://open.spotify.com/album/7Cn5ha1ybFow1MXaqUu8F0"
@@ -381,7 +381,43 @@
       "url": "https://open.spotify.com/track/3XWr2NZqYd80MB8FIq9r55"
     },
     {
-      "added_at": "2024-05-27 09:30:00",
+      "added_at": "2024-05-28 09:25:17",
+      "album": {
+        "name": "Unreal Unearth: Unheard",
+        "url": "https://open.spotify.com/album/3P4SQqMMgjqfqVxgLwtYRk"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 251424,
+      "name": "Too Sweet",
+      "url": "https://open.spotify.com/track/5Z0UnEtpLDQyYlWwgi8m9C"
+    },
+    {
+      "added_at": "2024-05-28 09:25:17",
+      "album": {
+        "name": "GENERACJA CUZI",
+        "url": "https://open.spotify.com/album/7MpO4bytCpfT8pg8mssXxU"
+      },
+      "artists": [
+        {
+          "name": "Kronkel Dom",
+          "url": "https://open.spotify.com/artist/1dkyORGHN0TOmjzu5qCO45"
+        },
+        {
+          "name": "Deemz",
+          "url": "https://open.spotify.com/artist/3gm9b6AeMf2eGQTLashkDt"
+        }
+      ],
+      "duration_ms": 113333,
+      "name": "GENERACJA CUZI",
+      "url": "https://open.spotify.com/track/7HmxLVR4lFzDg2zzFqyHHY"
+    },
+    {
+      "added_at": "2024-05-28 09:25:17",
       "album": {
         "name": "BFF",
         "url": "https://open.spotify.com/album/0eJ7DAYUyQmiE02ejiMuiO"
@@ -409,103 +445,7 @@
       "url": "https://open.spotify.com/track/1kuhnhugcuXf4CiNdqCRUU"
     },
     {
-      "added_at": "2024-05-27 09:30:00",
-      "album": {
-        "name": "HERO",
-        "url": "https://open.spotify.com/album/1vOaLJCm2BLllrARLrFQuo"
-      },
-      "artists": [
-        {
-          "name": "Kizo",
-          "url": "https://open.spotify.com/artist/2IHoZ3RrDJIikMRsYgHjhy"
-        },
-        {
-          "name": "Bletka",
-          "url": "https://open.spotify.com/artist/4QYitR7yrCaf5CLQ09hX1m"
-        },
-        {
-          "name": "clearmind",
-          "url": "https://open.spotify.com/artist/7KYseTkErcYMRvcIqacxUq"
-        },
-        {
-          "name": "papablessbeatz",
-          "url": "https://open.spotify.com/artist/162AzTq1o7CUVQP8Rn52pY"
-        }
-      ],
-      "duration_ms": 164895,
-      "name": "HERO",
-      "url": "https://open.spotify.com/track/5lwu9g10m5ghkp9XWl65YZ"
-    },
-    {
-      "added_at": "2024-05-27 09:30:00",
-      "album": {
-        "name": "Unreal Unearth: Unheard",
-        "url": "https://open.spotify.com/album/3P4SQqMMgjqfqVxgLwtYRk"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 251424,
-      "name": "Too Sweet",
-      "url": "https://open.spotify.com/track/5Z0UnEtpLDQyYlWwgi8m9C"
-    },
-    {
-      "added_at": "2024-05-27 09:30:00",
-      "album": {
-        "name": "in real life",
-        "url": "https://open.spotify.com/album/00WMFLvaeDOplwURq1E2t7"
-      },
-      "artists": [
-        {
-          "name": "bambi",
-          "url": "https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk"
-        },
-        {
-          "name": "charlie moncler",
-          "url": "https://open.spotify.com/artist/37Pprth5H294i7rSnIkVVV"
-        }
-      ],
-      "duration_ms": 134025,
-      "name": "MILLIE WALKY",
-      "url": "https://open.spotify.com/track/3mzugJrKyhJNzZKS0RgWBg"
-    },
-    {
-      "added_at": "2024-05-27 09:30:00",
-      "album": {
-        "name": "Fireworks & Rollerblades",
-        "url": "https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm"
-      },
-      "artists": [
-        {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
-        }
-      ],
-      "duration_ms": 180304,
-      "name": "Beautiful Things",
-      "url": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii"
-    },
-    {
-      "added_at": "2024-05-27 09:30:00",
-      "album": {
-        "name": "HIT ME HARD AND SOFT",
-        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 210373,
-      "name": "BIRDS OF A FEATHER",
-      "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
-    },
-    {
-      "added_at": "2024-05-27 09:30:00",
+      "added_at": "2024-05-28 09:25:17",
       "album": {
         "name": "PG$",
         "url": "https://open.spotify.com/album/0jQlIVeY05n6f5Es8ShhYs"
@@ -533,7 +473,87 @@
       "url": "https://open.spotify.com/track/2Bvmq94ifFUXQmaFPR5Vis"
     },
     {
-      "added_at": "2024-05-27 09:30:00",
+      "added_at": "2024-05-28 09:25:17",
+      "album": {
+        "name": "in real life",
+        "url": "https://open.spotify.com/album/00WMFLvaeDOplwURq1E2t7"
+      },
+      "artists": [
+        {
+          "name": "bambi",
+          "url": "https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk"
+        },
+        {
+          "name": "charlie moncler",
+          "url": "https://open.spotify.com/artist/37Pprth5H294i7rSnIkVVV"
+        }
+      ],
+      "duration_ms": 134025,
+      "name": "MILLIE WALKY",
+      "url": "https://open.spotify.com/track/3mzugJrKyhJNzZKS0RgWBg"
+    },
+    {
+      "added_at": "2024-05-28 09:25:17",
+      "album": {
+        "name": "Fireworks & Rollerblades",
+        "url": "https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "duration_ms": 180304,
+      "name": "Beautiful Things",
+      "url": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii"
+    },
+    {
+      "added_at": "2024-05-28 09:25:17",
+      "album": {
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 210373,
+      "name": "BIRDS OF A FEATHER",
+      "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
+    },
+    {
+      "added_at": "2024-05-28 09:25:17",
+      "album": {
+        "name": "HERO",
+        "url": "https://open.spotify.com/album/1vOaLJCm2BLllrARLrFQuo"
+      },
+      "artists": [
+        {
+          "name": "Kizo",
+          "url": "https://open.spotify.com/artist/2IHoZ3RrDJIikMRsYgHjhy"
+        },
+        {
+          "name": "Bletka",
+          "url": "https://open.spotify.com/artist/4QYitR7yrCaf5CLQ09hX1m"
+        },
+        {
+          "name": "clearmind",
+          "url": "https://open.spotify.com/artist/7KYseTkErcYMRvcIqacxUq"
+        },
+        {
+          "name": "papablessbeatz",
+          "url": "https://open.spotify.com/artist/162AzTq1o7CUVQP8Rn52pY"
+        }
+      ],
+      "duration_ms": 164895,
+      "name": "HERO",
+      "url": "https://open.spotify.com/track/5lwu9g10m5ghkp9XWl65YZ"
+    },
+    {
+      "added_at": "2024-05-28 09:25:17",
       "album": {
         "name": "RING RING",
         "url": "https://open.spotify.com/album/4qmp6ahoR0Qhb3JN2wtSPc"
@@ -557,7 +577,7 @@
       "url": "https://open.spotify.com/track/3VjDhZl73eK9VgvRQovsmw"
     },
     {
-      "added_at": "2024-05-27 09:30:00",
+      "added_at": "2024-05-28 09:25:17",
       "album": {
         "name": "Dziewczyna Pop",
         "url": "https://open.spotify.com/album/6tHc8WdUmPmU8HnQPNubkB"
@@ -573,43 +593,7 @@
       "url": "https://open.spotify.com/track/4588ZH7944EUrbDvdkr2sA"
     },
     {
-      "added_at": "2024-05-27 09:30:00",
-      "album": {
-        "name": "I've Tried Everything But Therapy (Part 1)",
-        "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 210688,
-      "name": "Lose Control",
-      "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
-    },
-    {
-      "added_at": "2024-05-27 09:30:00",
-      "album": {
-        "name": "GENERACJA CUZI",
-        "url": "https://open.spotify.com/album/7MpO4bytCpfT8pg8mssXxU"
-      },
-      "artists": [
-        {
-          "name": "Kronkel Dom",
-          "url": "https://open.spotify.com/artist/1dkyORGHN0TOmjzu5qCO45"
-        },
-        {
-          "name": "Deemz",
-          "url": "https://open.spotify.com/artist/3gm9b6AeMf2eGQTLashkDt"
-        }
-      ],
-      "duration_ms": 113333,
-      "name": "GENERACJA CUZI",
-      "url": "https://open.spotify.com/track/7HmxLVR4lFzDg2zzFqyHHY"
-    },
-    {
-      "added_at": "2024-05-27 09:30:00",
+      "added_at": "2024-05-28 09:25:17",
       "album": {
         "name": "MILLION DOLLAR BABY",
         "url": "https://open.spotify.com/album/52TwRwdTUMtkpglbOE5IRz"
@@ -625,7 +609,43 @@
       "url": "https://open.spotify.com/track/7fzHQizxTqy8wTXwlrgPQQ"
     },
     {
-      "added_at": "2024-05-27 09:30:00",
+      "added_at": "2024-05-28 09:25:17",
+      "album": {
+        "name": "I've Tried Everything But Therapy (Part 1)",
+        "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 210688,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
+    },
+    {
+      "added_at": "2024-05-28 09:25:17",
+      "album": {
+        "name": "ENZO",
+        "url": "https://open.spotify.com/album/3M1Q39mJ8oHqDoUhQF1fep"
+      },
+      "artists": [
+        {
+          "name": "Eryk Moczko",
+          "url": "https://open.spotify.com/artist/6BqCCSNavmsoUg5WLnQGhd"
+        },
+        {
+          "name": "Kize",
+          "url": "https://open.spotify.com/artist/7I25Wrq7Jtg0uaqnnJ5W9S"
+        }
+      ],
+      "duration_ms": 183925,
+      "name": "ENZO",
+      "url": "https://open.spotify.com/track/5920NPsQB4nswA0mxWCddt"
+    },
+    {
+      "added_at": "2024-05-28 09:25:17",
       "album": {
         "name": "Co ty mi dasz ale to DRILL",
         "url": "https://open.spotify.com/album/0wfRReRNYIdKi0yP5XCrvm"
@@ -649,79 +669,7 @@
       "url": "https://open.spotify.com/track/0cN69CM2rw5hoEgeGdF87m"
     },
     {
-      "added_at": "2024-05-27 09:30:00",
-      "album": {
-        "name": "ENZO",
-        "url": "https://open.spotify.com/album/3M1Q39mJ8oHqDoUhQF1fep"
-      },
-      "artists": [
-        {
-          "name": "Eryk Moczko",
-          "url": "https://open.spotify.com/artist/6BqCCSNavmsoUg5WLnQGhd"
-        },
-        {
-          "name": "Kize",
-          "url": "https://open.spotify.com/artist/7I25Wrq7Jtg0uaqnnJ5W9S"
-        }
-      ],
-      "duration_ms": 183925,
-      "name": "ENZO",
-      "url": "https://open.spotify.com/track/5920NPsQB4nswA0mxWCddt"
-    },
-    {
-      "added_at": "2024-05-27 09:30:00",
-      "album": {
-        "name": "Europapa",
-        "url": "https://open.spotify.com/album/3v1pSXwPFLvjQWbcN1iwKS"
-      },
-      "artists": [
-        {
-          "name": "Joost",
-          "url": "https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR"
-        }
-      ],
-      "duration_ms": 160218,
-      "name": "Europapa",
-      "url": "https://open.spotify.com/track/0uHrMbMv3c78398pIANDqR"
-    },
-    {
-      "added_at": "2024-05-27 09:30:00",
-      "album": {
-        "name": "UTOPIA",
-        "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        }
-      ],
-      "duration_ms": 191700,
-      "name": "FE!N (feat. Playboi Carti)",
-      "url": "https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA"
-    },
-    {
-      "added_at": "2024-05-27 09:30:00",
-      "album": {
-        "name": "hip hip hura!",
-        "url": "https://open.spotify.com/album/5LKVRhKcPjWbvYP9s7udQW"
-      },
-      "artists": [
-        {
-          "name": "sanah",
-          "url": "https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE"
-        }
-      ],
-      "duration_ms": 251455,
-      "name": "hip hip hura!",
-      "url": "https://open.spotify.com/track/5uSsPBP88T6OIYvh9hrSfy"
-    },
-    {
-      "added_at": "2024-05-27 09:30:00",
+      "added_at": "2024-05-28 09:25:17",
       "album": {
         "name": "KAUCJA",
         "url": "https://open.spotify.com/album/36hVOMcM3K8oaMKN8Nto9m"
@@ -741,7 +689,59 @@
       "url": "https://open.spotify.com/track/2c5z5bn4FlP1oMfVbIHuq6"
     },
     {
-      "added_at": "2024-05-27 09:30:00",
+      "added_at": "2024-05-28 09:25:17",
+      "album": {
+        "name": "Adwokat Diabla",
+        "url": "https://open.spotify.com/album/0tUUX9X5xhonVyCPXmHLDf"
+      },
+      "artists": [
+        {
+          "name": "Malik Montana",
+          "url": "https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E"
+        }
+      ],
+      "duration_ms": 127250,
+      "name": "Dior",
+      "url": "https://open.spotify.com/track/7biKWZnh8o23xCGej4xHjF"
+    },
+    {
+      "added_at": "2024-05-28 09:25:17",
+      "album": {
+        "name": "NA ZAWSZE MA\u0141OLAT",
+        "url": "https://open.spotify.com/album/6VnPaOgkHDpKeLg4SCnX5r"
+      },
+      "artists": [
+        {
+          "name": "Oki",
+          "url": "https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd"
+        }
+      ],
+      "duration_ms": 174054,
+      "name": "NA ZAWSZE MA\u0141OLAT",
+      "url": "https://open.spotify.com/track/4qWa361K5izYLjYh1HQNQC"
+    },
+    {
+      "added_at": "2024-05-28 09:25:17",
+      "album": {
+        "name": "UTOPIA",
+        "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "duration_ms": 191700,
+      "name": "FE!N (feat. Playboi Carti)",
+      "url": "https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA"
+    },
+    {
+      "added_at": "2024-05-28 09:25:17",
       "album": {
         "name": "NAPALONE FANKI",
         "url": "https://open.spotify.com/album/0bqOLnjMLRVAdiZXME4L92"
@@ -765,43 +765,83 @@
       "url": "https://open.spotify.com/track/1am7ZCYTibeYENexigk6Gz"
     },
     {
-      "added_at": "2024-05-27 09:30:00",
+      "added_at": "2024-05-28 09:25:17",
       "album": {
-        "name": "Adwokat Diabla",
-        "url": "https://open.spotify.com/album/0tUUX9X5xhonVyCPXmHLDf"
+        "name": "hip hip hura!",
+        "url": "https://open.spotify.com/album/5LKVRhKcPjWbvYP9s7udQW"
       },
       "artists": [
         {
-          "name": "Malik Montana",
-          "url": "https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E"
+          "name": "sanah",
+          "url": "https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE"
         }
       ],
-      "duration_ms": 127250,
-      "name": "Dior",
-      "url": "https://open.spotify.com/track/7biKWZnh8o23xCGej4xHjF"
+      "duration_ms": 251455,
+      "name": "hip hip hura!",
+      "url": "https://open.spotify.com/track/5uSsPBP88T6OIYvh9hrSfy"
     },
     {
-      "added_at": "2024-05-27 09:30:00",
+      "added_at": "2024-05-28 09:25:17",
       "album": {
-        "name": "Dzi\u0119ki, \u017ce jeste\u015b",
-        "url": "https://open.spotify.com/album/1xZK3hGpenKMFKYuD6FA6D"
+        "name": "Europapa",
+        "url": "https://open.spotify.com/album/3v1pSXwPFLvjQWbcN1iwKS"
       },
       "artists": [
         {
-          "name": "Lanberry",
-          "url": "https://open.spotify.com/artist/2t3aJxThQrMWaNJgqjMcU8"
+          "name": "Joost",
+          "url": "https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR"
+        }
+      ],
+      "duration_ms": 160218,
+      "name": "Europapa",
+      "url": "https://open.spotify.com/track/0uHrMbMv3c78398pIANDqR"
+    },
+    {
+      "added_at": "2024-05-28 09:25:17",
+      "album": {
+        "name": "TTHE GRIND",
+        "url": "https://open.spotify.com/album/4Y8udVOO6op71DcUdwtMtP"
+      },
+      "artists": [
+        {
+          "name": "Otsochodzi",
+          "url": "https://open.spotify.com/artist/4zvO09rVUIVTeALhs6xLoB"
         },
         {
-          "name": "Tribbs",
-          "url": "https://open.spotify.com/artist/6iqDK7aHVlwGGgPmcdSK5L"
+          "name": "Taco Hemingway",
+          "url": "https://open.spotify.com/artist/7CJgLPEqiIRuneZSolpawQ"
+        },
+        {
+          "name": "lohleq",
+          "url": "https://open.spotify.com/artist/7Djt5FHbKywvcpV4yplfcF"
         }
       ],
-      "duration_ms": 150937,
-      "name": "Dzi\u0119ki, \u017ce jeste\u015b",
-      "url": "https://open.spotify.com/track/5Qw74vxmtJzAEYjy1wfVCk"
+      "duration_ms": 157720,
+      "name": "\u201eTak to lecia\u0142o!\u201d",
+      "url": "https://open.spotify.com/track/77qp2lzKsMmOeyKbtnoSVI"
     },
     {
-      "added_at": "2024-05-27 09:30:00",
+      "added_at": "2024-05-28 09:25:17",
+      "album": {
+        "name": "I Don't Wanna Wait",
+        "url": "https://open.spotify.com/album/0wCLHkBRKcndhMQQpeo8Ji"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 149667,
+      "name": "I Don't Wanna Wait",
+      "url": "https://open.spotify.com/track/331l3xABO0HMr1Kkyh2LZq"
+    },
+    {
+      "added_at": "2024-05-28 09:25:17",
       "album": {
         "name": "in real life",
         "url": "https://open.spotify.com/album/00WMFLvaeDOplwURq1E2t7"
@@ -821,75 +861,7 @@
       "url": "https://open.spotify.com/track/7pQkDJXFDCJUY0sSbbc8i9"
     },
     {
-      "added_at": "2024-05-27 09:30:00",
-      "album": {
-        "name": "Overdrive (feat. Norma Jean Martine)",
-        "url": "https://open.spotify.com/album/2axYqSKAhWaN60ijTZ0XXg"
-      },
-      "artists": [
-        {
-          "name": "Ofenbach",
-          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
-        },
-        {
-          "name": "Norma Jean Martine",
-          "url": "https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB"
-        }
-      ],
-      "duration_ms": 155905,
-      "name": "Overdrive (feat. Norma Jean Martine)",
-      "url": "https://open.spotify.com/track/3bK1zVFBKIzYjmptmI4NsJ"
-    },
-    {
-      "added_at": "2024-05-27 09:30:00",
-      "album": {
-        "name": "HIT ME HARD AND SOFT",
-        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 343120,
-      "name": "BLUE",
-      "url": "https://open.spotify.com/track/2prqm9sPLj10B4Wg0wE5x9"
-    },
-    {
-      "added_at": "2024-05-27 09:30:00",
-      "album": {
-        "name": "Stumblin' In",
-        "url": "https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc"
-      },
-      "artists": [
-        {
-          "name": "CYRIL",
-          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
-        }
-      ],
-      "duration_ms": 213363,
-      "name": "Stumblin' In",
-      "url": "https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z"
-    },
-    {
-      "added_at": "2024-05-27 09:30:00",
-      "album": {
-        "name": "HIPNOZA",
-        "url": "https://open.spotify.com/album/3gOx3UcpK2HeJ9gHerhIKY"
-      },
-      "artists": [
-        {
-          "name": "NIKO\u015a",
-          "url": "https://open.spotify.com/artist/3iRmsaD6hZKTJJABRJKlCX"
-        }
-      ],
-      "duration_ms": 194471,
-      "name": "HIPNOZA",
-      "url": "https://open.spotify.com/track/3a4hbzdiwoXYVa0n9XRyDK"
-    },
-    {
-      "added_at": "2024-05-27 09:30:00",
+      "added_at": "2024-05-28 09:25:17",
       "album": {
         "name": "EKSKLUZYWNY G\u0141\u00d3D",
         "url": "https://open.spotify.com/album/7LOKcNjVJnmyRlCzYPRjXE"
@@ -917,51 +889,7 @@
       "url": "https://open.spotify.com/track/1U7pE3ztxh37auLRtIaWrK"
     },
     {
-      "added_at": "2024-05-27 09:30:00",
-      "album": {
-        "name": "I Don't Wanna Wait",
-        "url": "https://open.spotify.com/album/0wCLHkBRKcndhMQQpeo8Ji"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 149667,
-      "name": "I Don't Wanna Wait",
-      "url": "https://open.spotify.com/track/331l3xABO0HMr1Kkyh2LZq"
-    },
-    {
-      "added_at": "2024-05-27 09:30:00",
-      "album": {
-        "name": "SAFE",
-        "url": "https://open.spotify.com/album/0dk2Dde2gYp7GrIzIC679c"
-      },
-      "artists": [
-        {
-          "name": "Gibbs",
-          "url": "https://open.spotify.com/artist/1T4HxOYolAEb5PadIVKdWZ"
-        },
-        {
-          "name": "Jonatan",
-          "url": "https://open.spotify.com/artist/2dLhpezBEgAELn73fiMEak"
-        },
-        {
-          "name": "4Money",
-          "url": "https://open.spotify.com/artist/6EjCs0fSiq0HvAbCzIPeq1"
-        }
-      ],
-      "duration_ms": 181045,
-      "name": "Stan",
-      "url": "https://open.spotify.com/track/33FD8jBm5LZaQ2jJS3vXzm"
-    },
-    {
-      "added_at": "2024-05-27 09:30:00",
+      "added_at": "2024-05-28 09:25:17",
       "album": {
         "name": "Not Like Us",
         "url": "https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ"
@@ -977,31 +905,7 @@
       "url": "https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3"
     },
     {
-      "added_at": "2024-05-27 09:30:00",
-      "album": {
-        "name": "TTHE GRIND",
-        "url": "https://open.spotify.com/album/4Y8udVOO6op71DcUdwtMtP"
-      },
-      "artists": [
-        {
-          "name": "Otsochodzi",
-          "url": "https://open.spotify.com/artist/4zvO09rVUIVTeALhs6xLoB"
-        },
-        {
-          "name": "Taco Hemingway",
-          "url": "https://open.spotify.com/artist/7CJgLPEqiIRuneZSolpawQ"
-        },
-        {
-          "name": "lohleq",
-          "url": "https://open.spotify.com/artist/7Djt5FHbKywvcpV4yplfcF"
-        }
-      ],
-      "duration_ms": 157720,
-      "name": "\u201eTak to lecia\u0142o!\u201d",
-      "url": "https://open.spotify.com/track/77qp2lzKsMmOeyKbtnoSVI"
-    },
-    {
-      "added_at": "2024-05-27 09:30:00",
+      "added_at": "2024-05-28 09:25:17",
       "album": {
         "name": "HIT ME HARD AND SOFT",
         "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
@@ -1012,41 +916,113 @@
           "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
         }
       ],
-      "duration_ms": 261466,
-      "name": "WILDFLOWER",
-      "url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h"
+      "duration_ms": 343120,
+      "name": "BLUE",
+      "url": "https://open.spotify.com/track/2prqm9sPLj10B4Wg0wE5x9"
     },
     {
-      "added_at": "2024-05-27 09:30:00",
+      "added_at": "2024-05-28 09:25:17",
       "album": {
-        "name": "Patocelebryta",
-        "url": "https://open.spotify.com/album/6fodRS7nHoCv3uwESZ5Y5Q"
+        "name": "Overdrive (feat. Norma Jean Martine)",
+        "url": "https://open.spotify.com/album/2axYqSKAhWaN60ijTZ0XXg"
       },
       "artists": [
         {
-          "name": "Kizo",
-          "url": "https://open.spotify.com/artist/2IHoZ3RrDJIikMRsYgHjhy"
+          "name": "Ofenbach",
+          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
         },
         {
-          "name": "Bletka",
-          "url": "https://open.spotify.com/artist/4QYitR7yrCaf5CLQ09hX1m"
-        },
-        {
-          "name": "BeMelo",
-          "url": "https://open.spotify.com/artist/58n40EtcUlarXICnPb9ohx"
-        },
-        {
-          "name": "Eddie Block",
-          "url": "https://open.spotify.com/artist/5WEdZfOfI9kQJnwJGvLRJf"
-        },
-        {
-          "name": "Adash",
-          "url": "https://open.spotify.com/artist/61OiK85G3liQ764VKRLJPk"
+          "name": "Norma Jean Martine",
+          "url": "https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB"
         }
       ],
-      "duration_ms": 180937,
-      "name": "Taxi",
-      "url": "https://open.spotify.com/track/1g88Qpz9ZsJM1hlB3PLdgY"
+      "duration_ms": 155905,
+      "name": "Overdrive (feat. Norma Jean Martine)",
+      "url": "https://open.spotify.com/track/3bK1zVFBKIzYjmptmI4NsJ"
+    },
+    {
+      "added_at": "2024-05-28 09:25:17",
+      "album": {
+        "name": "4 RANO",
+        "url": "https://open.spotify.com/album/57GcfcB49w7OmlOzb5EPO8"
+      },
+      "artists": [
+        {
+          "name": "Zeamsone",
+          "url": "https://open.spotify.com/artist/1FdfWn1DrRwWDtRK8faYKY"
+        }
+      ],
+      "duration_ms": 120902,
+      "name": "4 RANO",
+      "url": "https://open.spotify.com/track/0yeSXZ4we6LzZUyUhoGOIS"
+    },
+    {
+      "added_at": "2024-05-28 09:25:17",
+      "album": {
+        "name": "HIPNOZA",
+        "url": "https://open.spotify.com/album/3gOx3UcpK2HeJ9gHerhIKY"
+      },
+      "artists": [
+        {
+          "name": "NIKO\u015a",
+          "url": "https://open.spotify.com/artist/3iRmsaD6hZKTJJABRJKlCX"
+        }
+      ],
+      "duration_ms": 194471,
+      "name": "HIPNOZA",
+      "url": "https://open.spotify.com/track/3a4hbzdiwoXYVa0n9XRyDK"
+    },
+    {
+      "added_at": "2024-05-28 09:25:17",
+      "album": {
+        "name": "eternal sunshine",
+        "url": "https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 228639,
+      "name": "we can't be friends (wait for your love)",
+      "url": "https://open.spotify.com/track/51ZQ1vr10ffzbwIjDCwqm4"
+    },
+    {
+      "added_at": "2024-05-28 09:25:17",
+      "album": {
+        "name": "Stumblin' In",
+        "url": "https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc"
+      },
+      "artists": [
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        }
+      ],
+      "duration_ms": 213363,
+      "name": "Stumblin' In",
+      "url": "https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z"
+    },
+    {
+      "added_at": "2024-05-28 09:25:17",
+      "album": {
+        "name": "HIFI (7 bieg)",
+        "url": "https://open.spotify.com/album/5PQEWjHpXnBiKuwzGa3XMD"
+      },
+      "artists": [
+        {
+          "name": "MODELKI",
+          "url": "https://open.spotify.com/artist/3cBLJizprytrMpuFbnRnaE"
+        },
+        {
+          "name": "V\u0142odarski",
+          "url": "https://open.spotify.com/artist/75wMNgYkzacOI08FN7BaG0"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "HIFI (7 bieg)",
+      "url": "https://open.spotify.com/track/21radxZ4Xh5Zsq9lQ9hEs1"
     }
   ],
   "unique_name": "Top 50 - Poland",

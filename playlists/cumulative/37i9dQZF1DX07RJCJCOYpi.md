@@ -4,7 +4,7 @@
 
 > The wave of Latin Electronic music\. Cover: Peso Pluma & DJ Snake
 
-314 songs - 16 hr 17 min
+315 songs - 16 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Bonita](https://open.spotify.com/track/7p5s4J9dNNYpZdAgJIOH6Z) | [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Bonita](https://open.spotify.com/album/5S7g9lFAwX5rUAM2I4idTS) | 4:10 | 2022-08-19 | 2023-05-27 |
 | [Bonito](https://open.spotify.com/track/0w8xgeyS3hxk6M24v8wkYk) | [El Duglas](https://open.spotify.com/artist/0TihXBYo70wnbfcmJ47bF9) | [Bonito](https://open.spotify.com/album/71v6y9ZimfNQoVSdHw8wir) | 3:05 | 2022-11-29 | 2023-01-21 |
 | [Brisa](https://open.spotify.com/track/1mhD6azpk9jqaSudGsNiXW) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [Dean Mickoski](https://open.spotify.com/artist/51HLurY6ZdJtatIdyeOrBI) | [Brisa](https://open.spotify.com/album/5mI4q6IaLxQiumiAQ69jmj) | 2:45 | 2023-09-29 | 2024-04-19 |
-| [Brisa](https://open.spotify.com/track/55D5YIajNyBqrpWCnmXuRr) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [Dean Mickoski](https://open.spotify.com/artist/51HLurY6ZdJtatIdyeOrBI) | [Brisa](https://open.spotify.com/album/3rVW7u5AB3qf6NGGAs2MdY) | 2:45 | 2023-06-16 |  |
+| [Brisa](https://open.spotify.com/track/55D5YIajNyBqrpWCnmXuRr) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [Dean Mickoski](https://open.spotify.com/artist/51HLurY6ZdJtatIdyeOrBI) | [Brisa](https://open.spotify.com/album/3rVW7u5AB3qf6NGGAs2MdY) | 2:45 | 2023-06-16 | 2024-05-29 |
 | [Brisa](https://open.spotify.com/track/5xhFO6kaUjGcSezSp5hIhG) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Brisa](https://open.spotify.com/album/4ZYTZPdMVeOcEaKRhRKFbE) | 4:19 | 2022-04-29 | 2023-05-27 |
 | [Café Con Leche](https://open.spotify.com/track/5vXhgXRIUWMD62onAqA5xy) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [Café Con Leche](https://open.spotify.com/album/1WwJMtiIDJLNREM5ldlXRS) | 2:48 | 2022-07-13 | 2023-05-27 |
 | [Caliente](https://open.spotify.com/track/2V5I1zNGsMGDAHDEKsexCR) | [Big Syphe](https://open.spotify.com/artist/3K221lSoaTfJLyCmXe7ww5), [Lechero](https://open.spotify.com/artist/2x5oi7GC3XkdgXSC8juDIw) | [Caliente](https://open.spotify.com/album/3NXuWjKu5DiJ5tXL7tREdH) | 1:47 | 2023-05-08 | 2023-09-02 |
@@ -100,6 +100,7 @@
 | [Firefly](https://open.spotify.com/track/30QQol7Vsq7ULmFDavJxZN) | [Jose Solano](https://open.spotify.com/artist/7g3JxWMf70JSuPA7A2AvTc) | [Firefly](https://open.spotify.com/album/4WdtklPfsAneuq0RoFn8lP) | 4:27 | 2022-03-22 | 2022-04-29 |
 | [Flex](https://open.spotify.com/track/04xd1RYPYlaWAavY7NnyTt) | [Lechero](https://open.spotify.com/artist/2x5oi7GC3XkdgXSC8juDIw), [desamor.](https://open.spotify.com/artist/3Bg5zq88wlTgSPgT1x2CFW) | [Sorry For The Weight](https://open.spotify.com/album/61UgKPXbltFZQiF3qifIyG) | 4:00 | 2022-03-22 | 2023-03-04 |
 | [Flow Hijuepu](https://open.spotify.com/track/4bhJGQXbTQdw3GLNTr3RMZ) | [Santiago Saez](https://open.spotify.com/artist/6cH6fFLynkDD94hGNqacHV) | [Flow Hijuepu](https://open.spotify.com/album/0q2ZHI3j41g1U1zN0bEfJ8) | 2:53 | 2023-01-27 | 2023-06-17 |
+| [FOCO](https://open.spotify.com/track/2sA928RMlgA2BIpI3VF4vu) | [D2OS](https://open.spotify.com/artist/4bYINsPD7PpQj4uRPQnNsz), [El Cherry Scom](https://open.spotify.com/artist/1tfhFc2Y8iplDKCteuXjCY), [La Goony Chonga](https://open.spotify.com/artist/4ZNk4pFFvI85sdgjkFPBjI) | [DEEP](https://open.spotify.com/album/4TD9rOjKVUN8CVhRlQ2Bgp) | 3:50 | 2024-05-28 |  |
 | [For Every Pound](https://open.spotify.com/track/2JpBgRnLDQnRbQnTE5eB60) | [Lechero](https://open.spotify.com/artist/2x5oi7GC3XkdgXSC8juDIw) | [Sorry For The Weight](https://open.spotify.com/album/61UgKPXbltFZQiF3qifIyG) | 3:18 | 2022-03-22 | 2022-04-29 |
 | [Formentera \- GARABATTO RMX](https://open.spotify.com/track/1HaNaeulZAeYszYCRsnD0y) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [GARABATTO](https://open.spotify.com/artist/6JaOGIlSvYswVLPmGUheOO) | [Formentera RMX](https://open.spotify.com/album/5jUuL7HYJQlVF4TlW5PCZp) | 3:12 | 2022-03-22 | 2023-03-04 |
 | [Frikitona](https://open.spotify.com/track/0q9YhUuxm8G1UatNDgBAdh) | [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI) | [Frikitona](https://open.spotify.com/album/7nsb4hMX1yb6GOILmcp7Kl) | 2:54 | 2023-08-04 | 2023-12-17 |

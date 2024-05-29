@@ -1,12 +1,12 @@
 {
-  "description": "This Is Bastille. Los temas esenciales, todos en una lista.",
-  "num_followers": 212847,
+  "description": "This is Bastille. The essential tracks, all in one playlist.",
+  "num_followers": 212864,
   "original_name": "This Is Bastille",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlJ7gAAAAACrY3drI7Zm0/SZLS5JA7QB",
+  "snapshot_id": "ZlPNAAAAAAA2V9NufHi6mtEWLps4pUPY",
   "tracks": [
     {
       "added_at": null,
@@ -27,26 +27,6 @@
       "duration_ms": 336666,
       "name": "Pompeii MMXXIII",
       "url": "https://open.spotify.com/track/2jp9d2rVViwwpfHDhWps2v"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Happier",
-        "url": "https://open.spotify.com/album/2u4Yp2ADTKYPwFSBFL4ffa"
-      },
-      "artists": [
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 214289,
-      "name": "Happier",
-      "url": "https://open.spotify.com/track/7BqHUALzNBTanL6OvsqmC1"
     },
     {
       "added_at": null,
@@ -327,6 +307,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Happier (Remixes)",
+        "url": "https://open.spotify.com/album/4Jtgil73AW8V6S7mDfchP6"
+      },
+      "artists": [
+        {
+          "name": "SPENCE",
+          "url": "https://open.spotify.com/artist/2zhOVmp1pHxMUZuA68Xdvb"
+        },
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        },
+        {
+          "name": "Breathe Carolina",
+          "url": "https://open.spotify.com/artist/53M4Iv2RkzzxFFvW2B1jhC"
+        }
+      ],
+      "duration_ms": 158095,
+      "name": "Happier - Breathe Carolina Remix",
+      "url": "https://open.spotify.com/track/0OS7LTXYSyBXF79IIlgGE7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Another Place",
         "url": "https://open.spotify.com/album/3PshhNStqCBXDzWm5O1VsE"
       },
@@ -359,22 +363,6 @@
       "duration_ms": 201799,
       "name": "Quarter Past Midnight",
       "url": "https://open.spotify.com/track/1etiUDkISHELzQGMY79ryt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Shut Off The Lights",
-        "url": "https://open.spotify.com/album/3tCwAtRvtyPDYQnKPXnJD7"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 187363,
-      "name": "Shut Off The Lights",
-      "url": "https://open.spotify.com/track/6Au9UDzjeGFen7qMEDKju7"
     },
     {
       "added_at": null,
@@ -555,6 +543,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Give Me The Future",
+        "url": "https://open.spotify.com/album/2Jxhndt77Zu0Y5TVXM37ho"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 173202,
+      "name": "Back To The Future",
+      "url": "https://open.spotify.com/track/2i6j4kdRKZV4Y62I2bD1QC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Good Grief (Don Diablo Remix)",
         "url": "https://open.spotify.com/album/3TPamu1C98GWxTNRNU5L1Q"
       },
@@ -595,26 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "WHAT YOU GONNA DO???",
-        "url": "https://open.spotify.com/album/60qrudaXQ3p7R3gX4ctAdD"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        },
-        {
-          "name": "Graham Coxon",
-          "url": "https://open.spotify.com/artist/7ueZp29tCNwjIj4yAMTEaC"
-        }
-      ],
-      "duration_ms": 131302,
-      "name": "WHAT YOU GONNA DO???",
-      "url": "https://open.spotify.com/track/31brGBYDq5N15VxIn5juop"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wild World (Complete Edition)",
         "url": "https://open.spotify.com/album/1qKjUIVG8KmtYceDBWjfqE"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 204986,
       "name": "Lethargy",
       "url": "https://open.spotify.com/track/28mBT1l5sJrfSWn8KM3JLT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Give Me The Future + Dreams Of The Past",
+        "url": "https://open.spotify.com/album/2dssFgPLHm6Y1mINk3JNJ8"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 212866,
+      "name": "Hope For The Future",
+      "url": "https://open.spotify.com/track/4fpypp2U7V67RvzEJxXYe9"
     },
     {
       "added_at": null,
@@ -663,6 +663,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Wild World (Complete Edition)",
+        "url": "https://open.spotify.com/album/1qKjUIVG8KmtYceDBWjfqE"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 209106,
+      "name": "Power",
+      "url": "https://open.spotify.com/track/7mq92gCVqxaZQuzE6h9ZBp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Remind Me",
+        "url": "https://open.spotify.com/album/7xlvDpADKIaRhPGgbMlsQ1"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 182681,
+      "name": "Remind Me",
+      "url": "https://open.spotify.com/track/5DlwOwWvIA9MOGixQnkwXD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hotel Cabana (Deluxe Version)",
         "url": "https://open.spotify.com/album/6ubgnzYckmWTNuCpc5Di5i"
       },
@@ -683,6 +715,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Doom Days",
+        "url": "https://open.spotify.com/album/2QzbL1DICo4xZnWr8Sw4fF"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 240660,
+      "name": "The Waves",
+      "url": "https://open.spotify.com/track/38eQsWZeCAyYFB6d2lO94G"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Wild World (Complete Edition)",
         "url": "https://open.spotify.com/album/1qKjUIVG8KmtYceDBWjfqE"
       },
@@ -692,9 +740,9 @@
           "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
         }
       ],
-      "duration_ms": 209106,
-      "name": "Power",
-      "url": "https://open.spotify.com/track/7mq92gCVqxaZQuzE6h9ZBp"
+      "duration_ms": 204012,
+      "name": "The Currents",
+      "url": "https://open.spotify.com/track/5hcxUMmvcL66B1OqPPres2"
     },
     {
       "added_at": null,
@@ -715,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Doom Days",
-        "url": "https://open.spotify.com/album/2QzbL1DICo4xZnWr8Sw4fF"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 240660,
-      "name": "The Waves",
-      "url": "https://open.spotify.com/track/38eQsWZeCAyYFB6d2lO94G"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Give Me The Future + Dreams Of The Past",
         "url": "https://open.spotify.com/album/2dssFgPLHm6Y1mINk3JNJ8"
       },
@@ -743,22 +775,6 @@
       "duration_ms": 166786,
       "name": "Family Ties",
       "url": "https://open.spotify.com/track/1HZfTE8QCq1adwblnuo9Uw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wild World (Complete Edition)",
-        "url": "https://open.spotify.com/album/1qKjUIVG8KmtYceDBWjfqE"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 204012,
-      "name": "The Currents",
-      "url": "https://open.spotify.com/track/5hcxUMmvcL66B1OqPPres2"
     },
     {
       "added_at": null,
@@ -815,6 +831,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Give Me The Future",
+        "url": "https://open.spotify.com/album/2A3BFOsrRHn0VQuafW2zYs"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 160294,
+      "name": "Plug In\u2026",
+      "url": "https://open.spotify.com/track/6gNsIRc9IBhBrpTmlpfYdM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "No Bad Days",
         "url": "https://open.spotify.com/album/6QwZ44ldGwp9W7DoJ8bwyw"
       },
@@ -843,26 +875,6 @@
       "duration_ms": 140892,
       "name": "Real Life",
       "url": "https://open.spotify.com/track/3ZruoDEs8KH84BjU5jbBPg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "VS. (Other People\u2019s Heartache, Pt. III)",
-        "url": "https://open.spotify.com/album/1YXsPGQingGkJZLA8uuQNL"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        },
-        {
-          "name": "HAIM",
-          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
-        }
-      ],
-      "duration_ms": 179666,
-      "name": "Bite Down (Bastille Vs. HAIM)",
-      "url": "https://open.spotify.com/track/5FE8wW6YIKHFtSlbGLhYKB"
     },
     {
       "added_at": null,
@@ -899,24 +911,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Doom Days (This Got Out Of Hand Edition)",
-        "url": "https://open.spotify.com/album/2ZTutAjJEBw4mA5t4Edg1d"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 185680,
-      "name": "Admit Defeat",
-      "url": "https://open.spotify.com/track/4qcnL8k4i8Ynw7kAPgVoD6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Give Me The Future + Dreams Of The Past",
-        "url": "https://open.spotify.com/album/2dssFgPLHm6Y1mINk3JNJ8"
+        "name": "VS. (Other People\u2019s Heartache, Pt. III)",
+        "url": "https://open.spotify.com/album/1YXsPGQingGkJZLA8uuQNL"
       },
       "artists": [
         {
@@ -924,13 +920,13 @@
           "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
         },
         {
-          "name": "Tyde",
-          "url": "https://open.spotify.com/artist/0chEYcnxOGTcwHRfmoEOYH"
+          "name": "HAIM",
+          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
         }
       ],
-      "duration_ms": 208847,
-      "name": "Eight Hours",
-      "url": "https://open.spotify.com/track/5rO5unCSIjPlKdwNxroqcx"
+      "duration_ms": 179666,
+      "name": "Bite Down (Bastille Vs. HAIM)",
+      "url": "https://open.spotify.com/track/5FE8wW6YIKHFtSlbGLhYKB"
     }
   ],
   "unique_name": "This Is Bastille",

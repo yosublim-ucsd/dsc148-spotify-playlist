@@ -1,6 +1,6 @@
 {
   "description": "Le rayon de soleil musical de votre matin\u00e9e.",
-  "num_followers": 167498,
+  "num_followers": 167522,
   "original_name": "R\u00e9veil en douceur",
   "owner": {
     "name": "Spotify",
@@ -575,6 +575,22 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
+        "name": "Oh Wonder",
+        "url": "https://open.spotify.com/album/37ABUtLPqktcopsBJ7jmXT"
+      },
+      "artists": [
+        {
+          "name": "Oh Wonder",
+          "url": "https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9"
+        }
+      ],
+      "duration_ms": 214174,
+      "name": "All We Do",
+      "url": "https://open.spotify.com/track/6Vigp41BietH0WoFZ52JI5"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
         "name": "This Unruly Mess I've Made",
         "url": "https://open.spotify.com/album/2kqn09pydzvKvB3xWbAxY4"
       },
@@ -603,22 +619,6 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "Oh Wonder",
-        "url": "https://open.spotify.com/album/37ABUtLPqktcopsBJ7jmXT"
-      },
-      "artists": [
-        {
-          "name": "Oh Wonder",
-          "url": "https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9"
-        }
-      ],
-      "duration_ms": 214174,
-      "name": "All We Do",
-      "url": "https://open.spotify.com/track/6Vigp41BietH0WoFZ52JI5"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
         "name": "Back To Black (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG"
       },
@@ -635,22 +635,6 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "Metamorphosis",
-        "url": "https://open.spotify.com/album/49S75QQHzUjB8dWf2V6C77"
-      },
-      "artists": [
-        {
-          "name": "Infinity Song",
-          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
-        }
-      ],
-      "duration_ms": 201808,
-      "name": "Slow Burn",
-      "url": "https://open.spotify.com/track/5gUiI6bJSPcKM2lwRaLAgE"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
         "name": "Going To Where The Tea Trees Are",
         "url": "https://open.spotify.com/album/3O7eRQC2IlamsrPm9oFKFU"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 217640,
       "name": "The Story of the Impossible",
       "url": "https://open.spotify.com/track/17mmpDTAuG6DLzqmUKl8w6"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
+        "name": "Metamorphosis",
+        "url": "https://open.spotify.com/album/49S75QQHzUjB8dWf2V6C77"
+      },
+      "artists": [
+        {
+          "name": "Infinity Song",
+          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
+        }
+      ],
+      "duration_ms": 201808,
+      "name": "Slow Burn",
+      "url": "https://open.spotify.com/track/5gUiI6bJSPcKM2lwRaLAgE"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -975,22 +975,6 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "Midnight In The Garden",
-        "url": "https://open.spotify.com/album/4vyY7OVLoRKoleCNVpK5qI"
-      },
-      "artists": [
-        {
-          "name": "Lily Kershaw",
-          "url": "https://open.spotify.com/artist/0p0ksmwMDQlAM24TWKu4Ua"
-        }
-      ],
-      "duration_ms": 183866,
-      "name": "As It Seems",
-      "url": "https://open.spotify.com/track/0gaKJGfV5ZOpLW202BGdVs"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
         "name": "A Part of Us (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/38lREADM7sZBLfjAROd5AN"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 331829,
       "name": "A Part of Us - Original Motion Picture Soundtrack",
       "url": "https://open.spotify.com/track/3E71Cnxd9WRnZhWC1THHTq"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
+        "name": "Midnight In The Garden",
+        "url": "https://open.spotify.com/album/4vyY7OVLoRKoleCNVpK5qI"
+      },
+      "artists": [
+        {
+          "name": "Lily Kershaw",
+          "url": "https://open.spotify.com/artist/0p0ksmwMDQlAM24TWKu4Ua"
+        }
+      ],
+      "duration_ms": 183866,
+      "name": "As It Seems",
+      "url": "https://open.spotify.com/track/0gaKJGfV5ZOpLW202BGdVs"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "Shelter",
-        "url": "https://open.spotify.com/album/50xN7YSNYBK1qwRb0pfldN"
-      },
-      "artists": [
-        {
-          "name": "Astral Bakers",
-          "url": "https://open.spotify.com/artist/6VUpGE6ErMWwqZGepBWc0D"
-        }
-      ],
-      "duration_ms": 266380,
-      "name": "Shelter - Edit",
-      "url": "https://open.spotify.com/track/7sqcEITroQ4tnrFQtmCDFd"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
         "name": "Break Apart",
         "url": "https://open.spotify.com/album/0pUSzD35M8SzKHrNGPYlpR"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 274693,
       "name": "Break Apart",
       "url": "https://open.spotify.com/track/4UmuBF2XzW3EkO0rfrnYNO"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
+        "name": "Shelter",
+        "url": "https://open.spotify.com/album/50xN7YSNYBK1qwRb0pfldN"
+      },
+      "artists": [
+        {
+          "name": "Astral Bakers",
+          "url": "https://open.spotify.com/artist/6VUpGE6ErMWwqZGepBWc0D"
+        }
+      ],
+      "duration_ms": 266380,
+      "name": "Shelter - Edit",
+      "url": "https://open.spotify.com/track/7sqcEITroQ4tnrFQtmCDFd"
     },
     {
       "added_at": "2024-05-23 22:00:00",

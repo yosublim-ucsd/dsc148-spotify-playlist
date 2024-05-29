@@ -1,6 +1,6 @@
 {
   "description": "Hits virales, tendencias y challenges del futuro.",
-  "num_followers": 78153,
+  "num_followers": 78202,
   "original_name": "el hype",
   "owner": {
     "name": "Spotify",
@@ -52,16 +52,16 @@
       },
       "artists": [
         {
-          "name": "Q' Lokura",
-          "url": "https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y"
-        },
-        {
           "name": "Valentino Merlo",
           "url": "https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6"
+        },
+        {
+          "name": "Q' Lokura",
+          "url": "https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y"
         }
       ],
       "duration_ms": 180385,
-      "name": "Tu Foto",
+      "name": "Tu Foto - En Vivo",
       "url": "https://open.spotify.com/track/3cWo162YkfLIFyB3DWbVoH"
     },
     {

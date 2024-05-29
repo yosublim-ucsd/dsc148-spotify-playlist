@@ -1,12 +1,12 @@
 {
   "description": "This is Trivium. The essential tracks, all in one playlist.",
-  "num_followers": 77510,
+  "num_followers": 77523,
   "original_name": "This Is Trivium",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlJ7gAAAAAAm3wxD5w3IJeG422W7tD/U",
+  "snapshot_id": "ZlPNAAAAAAClr2LRPV6VDslrFlpTCtfT",
   "tracks": [
     {
       "added_at": null,
@@ -59,22 +59,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ascendancy",
-        "url": "https://open.spotify.com/album/4tUJoHF6in0wA5cpioJkbV"
-      },
-      "artists": [
-        {
-          "name": "Trivium",
-          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
-        }
-      ],
-      "duration_ms": 173160,
-      "name": "Dying in Your Arms",
-      "url": "https://open.spotify.com/track/2nuA1esWzYEgnfQ4DpsSsm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "In Waves (Special Edition)",
         "url": "https://open.spotify.com/album/2p1voQHdNSdy596VRDtdji"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 302466,
       "name": "In Waves",
       "url": "https://open.spotify.com/track/1yYr4D1KjhhyDD5bZIiFQy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ascendancy",
+        "url": "https://open.spotify.com/album/4tUJoHF6in0wA5cpioJkbV"
+      },
+      "artists": [
+        {
+          "name": "Trivium",
+          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
+        }
+      ],
+      "duration_ms": 173160,
+      "name": "Dying in Your Arms",
+      "url": "https://open.spotify.com/track/2nuA1esWzYEgnfQ4DpsSsm"
     },
     {
       "added_at": null,
@@ -123,22 +123,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ascendancy",
-        "url": "https://open.spotify.com/album/4tUJoHF6in0wA5cpioJkbV"
-      },
-      "artists": [
-        {
-          "name": "Trivium",
-          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
-        }
-      ],
-      "duration_ms": 291213,
-      "name": "Pull Harder on the Strings of Your Martyr",
-      "url": "https://open.spotify.com/track/0UXaslpoA81no74N7U56U9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Don't Wanna Be Me",
         "url": "https://open.spotify.com/album/6vupYQiT3uyxz2a25HUNX9"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 228712,
       "name": "I Don't Wanna Be Me",
       "url": "https://open.spotify.com/track/2tNx0sauNCGfpniMNu9hEh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ascendancy",
+        "url": "https://open.spotify.com/album/4tUJoHF6in0wA5cpioJkbV"
+      },
+      "artists": [
+        {
+          "name": "Trivium",
+          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
+        }
+      ],
+      "duration_ms": 291213,
+      "name": "Pull Harder on the Strings of Your Martyr",
+      "url": "https://open.spotify.com/track/0UXaslpoA81no74N7U56U9"
     },
     {
       "added_at": null,
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
         }
       ],
-      "duration_ms": 435976,
-      "name": "The Phalanx",
-      "url": "https://open.spotify.com/track/14XbzZfy5y9U60gtjjfzdH"
+      "duration_ms": 431688,
+      "name": "The Shadow Of The Abattoir",
+      "url": "https://open.spotify.com/track/6PMrbTi4HbEpmf0B1o9APz"
     },
     {
       "added_at": null,
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
         }
       ],
-      "duration_ms": 431688,
-      "name": "The Shadow Of The Abattoir",
-      "url": "https://open.spotify.com/track/6PMrbTi4HbEpmf0B1o9APz"
+      "duration_ms": 435976,
+      "name": "The Phalanx",
+      "url": "https://open.spotify.com/track/14XbzZfy5y9U60gtjjfzdH"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX2Ln16qIxDF.md) - [plain]
 
 > Lo más pegado, lo más trendy, o sea Maria Becerra.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,070,174 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,070,435 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX2Ln16qIxDF.md) - [plain]
 | 8 | [Lismar: Bzrp Music Sessions, Vol\. 60](https://open.spotify.com/track/6clUGlB6OfxAPHWyaWkIDd) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Lismar](https://open.spotify.com/artist/2JAxtl8czMHyssC2W7b8jy) | [YO SOY LA MODA](https://open.spotify.com/album/1yNzO3pSJor6rZuhs3kgdG) | 2:51 |
 | 9 | [PONTE SATA](https://open.spotify.com/track/305U3q7GpuywzXIUrSGHqC) | [Alejo Isakk](https://open.spotify.com/artist/2cdoH2XFAhj0LlSo4P2fJJ), [DobleP](https://open.spotify.com/artist/2eXWodjj5K1vVq2CSjl036), [VERNAZ](https://open.spotify.com/artist/1CbPE1OSRQZheK22pe5T57) | [PONTE SATA](https://open.spotify.com/album/0i4KtfYghWTAvi9VYmqXXJ) | 2:45 |
 | 10 | [TE AMO ♡](https://open.spotify.com/track/2AYwLOhXlychZgVXonufSN) | [Fer Vazquez](https://open.spotify.com/artist/5nAsuOI0lqqbii7YFCh7cB), [Flor Alvarez](https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa) | [TE AMO ♡](https://open.spotify.com/album/6bviD87DMgRYC2qqckILTx) | 2:33 |
-| 11 | [Tu Foto](https://open.spotify.com/track/3cWo162YkfLIFyB3DWbVoH) | [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y), [Valentino Merlo](https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6) | [Tu Foto](https://open.spotify.com/album/2zsRRXZwCOTRvF8r2m7TRv) | 3:00 |
+| 11 | [Tu Foto \- En Vivo](https://open.spotify.com/track/3cWo162YkfLIFyB3DWbVoH) | [Valentino Merlo](https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6), [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y) | [Tu Foto](https://open.spotify.com/album/2zsRRXZwCOTRvF8r2m7TRv) | 3:00 |
 | 12 | [Un Besito Más](https://open.spotify.com/track/5rQSQlZXXjMcevPGoAfE1z) | [Salastkbron](https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r), [Diel Paris](https://open.spotify.com/artist/2sp0CxickfFJun08JtXgiA) | [Un Besito Más](https://open.spotify.com/album/6lrNHcXSOvN82VYYtL9wCs) | 2:40 |
 | 13 | [LA NOTA](https://open.spotify.com/track/4ZuwtrsWSgE1VtuI1moAQX) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [EL ÚLTIMO BAILE](https://open.spotify.com/album/3EWJoKrG9XnCjvAPzkQZ88) | 2:51 |
 | 14 | [Loca](https://open.spotify.com/track/2n0NCtkvHx1oPqgiAvexiB) | [Tan Bionica](https://open.spotify.com/artist/37MCoi4pcUf9EKsPXeuCqU) | [Obsesionario](https://open.spotify.com/album/1vALPYnFhuoeFte9ZHIc7j) | 3:28 |

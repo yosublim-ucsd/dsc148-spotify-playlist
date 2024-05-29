@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Timmy Trumpet, Sam Feldt
 
-[Spotify](https://open.spotify.com/user/spotify) - 313,440 likes - 77 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 313,555 likes - 77 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 5 | [Pleasure Chasers](https://open.spotify.com/track/6pf5Yqg1zSbsxHaLBf49BP) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [NoMBe](https://open.spotify.com/artist/5Lhxlge1CR1DrgDAje8Qaw) | [Promised Land](https://open.spotify.com/album/0uj28c7dMMgO59Jzx84bSE) | 2:50 |
 | 6 | [All Because Of You](https://open.spotify.com/track/5cz9aEus9fVadxKti7gUi0) | [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B), [One Trick Pony](https://open.spotify.com/artist/4xxlgFFZpjIrQr9FiFttBG), [Bjerke](https://open.spotify.com/artist/3I2Ac6BV9dfdOAVjFmWIGX) | [All Because Of You](https://open.spotify.com/album/6z96cnEVL7OoMJKuPBUs21) | 2:19 |
 | 7 | [Road Runs Out](https://open.spotify.com/track/3dyYEao6AmkGMLfEHf5Q0u) | [Sonny Wern](https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt), [Stephen Puth](https://open.spotify.com/artist/6B72wjgAkhvxTVCL6xS6mC) | [Road Runs Out](https://open.spotify.com/album/28tpF9hdLGsSlgftIYuHK1) | 2:26 |
-| 8 | [Push](https://open.spotify.com/track/29OFLlrrfKIEVwbVMTjBYe) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg), [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN), [Contra](https://open.spotify.com/artist/73BAwJ65pT6RvwR7JEkfEv), [OFFAIAH](https://open.spotify.com/artist/2E1NFr5AeEGUJkLUUsWCAO) | [Push](https://open.spotify.com/album/3GSEVlHrbrQbKSP4ozWzx8) | 3:05 |
+| 8 | [Push](https://open.spotify.com/track/29OFLlrrfKIEVwbVMTjBYe) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg), [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN), [contra](https://open.spotify.com/artist/5VYRcaryFLFZnA5HvnRHFi), [OFFAIAH](https://open.spotify.com/artist/2E1NFr5AeEGUJkLUUsWCAO) | [Push](https://open.spotify.com/album/3GSEVlHrbrQbKSP4ozWzx8) | 3:05 |
 | 9 | [Up, Up, Up \(Nobody's perfect\)](https://open.spotify.com/track/1WYDoHtHLJ3mt3SRohiYto) | [Luca\-Dante Spadafora](https://open.spotify.com/artist/6k9e4mFFVtEAAhGdvJBtqB), [LINA](https://open.spotify.com/artist/3YPpKFZGAT0O8SJca2Aaj8), [Beats by Luca](https://open.spotify.com/artist/4zWCSVXVIgIscx9kT3vfOs), [Peter Plate](https://open.spotify.com/artist/1UEipeDjRtS1qnuhmKgmXg), [Ulf Leo Sommer](https://open.spotify.com/artist/4anaTI5qQtKKp5D6I5sgDp) | [Up, Up, Up \(Nobody’s perfect\)](https://open.spotify.com/album/1kO0Z2pXZXPagFnuBcXwby) | 2:06 |
 | 10 | [My Girl \(with Da Tweekaz\)](https://open.spotify.com/track/2bzvrWspouWjonF0iQb7Tf) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Da Tweekaz](https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6) | [My Girl \(with Da Tweekaz\)](https://open.spotify.com/album/0Xj5todrbov5QKusXz2qmA) | 3:10 |
 | 11 | [Devotion](https://open.spotify.com/track/4n455lIdcBDrPGWjk7GOLf) | [KYANU](https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ) | [Devotion](https://open.spotify.com/album/382zYUxMxaXOLSJ1enWD5p) | 2:48 |

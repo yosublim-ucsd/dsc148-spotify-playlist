@@ -7918,7 +7918,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-29",
       "duration_ms": 159735,
       "name": "Olomana",
       "url": "https://open.spotify.com/track/4E0pCVwsSnYcxcKpp0wf8Q"
@@ -8174,6 +8174,24 @@
       "duration_ms": 126282,
       "name": "Passing Through",
       "url": "https://open.spotify.com/track/1y4XIS1dYvAfxjVjYeO7Jt"
+    },
+    {
+      "album": {
+        "name": "Passione",
+        "url": "https://open.spotify.com/album/2ECPpDyiLBJDPpm49Jgt5U"
+      },
+      "artists": [
+        {
+          "name": "Finlep",
+          "url": "https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160886,
+      "name": "Passione",
+      "url": "https://open.spotify.com/track/6THFfWYSfpFG92eBiujkB4"
     },
     {
       "album": {

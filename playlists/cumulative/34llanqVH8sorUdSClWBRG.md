@@ -4,7 +4,7 @@
 
 > Mental illness
 
-29 songs - 1 hr 35 min
+30 songs - 1 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Hardware Store](https://open.spotify.com/track/1m6LYAWyCdRjpIr3ttANsr) | ["Weird Al" Yankovic](https://open.spotify.com/artist/1bDWGdIC2hardyt55nlQgG) | [The Essential "Weird Al" Yankovic](https://open.spotify.com/album/2WMY5Qm6ztMQsAubpumeb4) | 3:44 | 2023-04-25 |  |
 | [I Broke My Own Rule](https://open.spotify.com/track/5gmELdcn5zBpzUO877nkAW) | [They Might Be Giants](https://open.spotify.com/artist/6zB02lwP6L6ZH32nggQiJT) | [BOOK](https://open.spotify.com/album/5QbnWsYJtws83X3yXSOKkH) | 3:22 | 2023-03-26 |  |
 | [I Lost Thursday](https://open.spotify.com/track/5KAs9OVZmGt6DNyGNwXoZv) | [They Might Be Giants](https://open.spotify.com/artist/6zB02lwP6L6ZH32nggQiJT) | [Super Cool](https://open.spotify.com/album/0QYdhxj2cOe102smrHABGF) | 3:14 | 2023-03-26 |  |
+| [I Wanna Be Sedated](https://open.spotify.com/track/5NoQvINZLBV1wMYPdNmReL) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Road to Ruin \(40th Anniversary Deluxe Edition\)](https://open.spotify.com/album/43zbrwwFHh5e7cmDQomx8Z) | 2:29 | 2024-05-28 |  |
 | [I'm Going Slightly Mad](https://open.spotify.com/track/0sA5xCFx2bF3jrz5Y5r0m1) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Innuendo](https://open.spotify.com/album/5yAM3CcaXF6DPRJW3oL6Ya) | 4:22 | 2023-08-16 |  |
 | [I'm Gonna Win](https://open.spotify.com/track/6bWP2PGRjyRjbHTdnMRDk9) | [Rob Cantor](https://open.spotify.com/artist/1NtYiv70buGwaMspHuD49I) | [Not a Trampoline](https://open.spotify.com/album/1Y5i7JllvK9heVzVfcEyIE) | 2:38 | 2023-07-04 |  |
 | [I'm Not Ok](https://open.spotify.com/track/17weS3aO2oaGYJ9Q9yM56X) | [Weathers](https://open.spotify.com/artist/4OTFxPi5CtWyj1NThDe6z5) | [Kids In The Night](https://open.spotify.com/album/2Qq8f0QWdoBSxk2pxjEQmH) | 3:01 | 2024-02-19 |  |

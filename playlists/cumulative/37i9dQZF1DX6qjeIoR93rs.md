@@ -4,7 +4,7 @@
 
 > The sweet sounds of Palestine.
 
-108 songs - 6 hr 48 min
+109 songs - 6 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Dammi Falastini](https://open.spotify.com/track/5Pn31ZVgrp95UDTEYcKR6K) | [Mohammad Assaf](https://open.spotify.com/artist/0IjIdnhlsKfAfOl5ph5TsE) | [Muntasib Alqamah Amshi](https://open.spotify.com/album/4n4atfTSCn0gmSS9qHltsU) | 4:00 | 2021-08-29 |  |
 | [Don't Care Where You From](https://open.spotify.com/track/5PT5IgcPlzwiJKETXTKKwS) | [47SOUL](https://open.spotify.com/artist/5nxFmhSekt9Acn4tWZxGge) | [Shamstep](https://open.spotify.com/album/1pttNsXr5b1D3K6qUd9mXM) | 4:23 | 2021-08-29 |  |
 | [Enough](https://open.spotify.com/track/4CZ2wKpcjgoQDxGMQNUdqb) | [Maysa Daw](https://open.spotify.com/artist/3oCd1GdkMu8peoq2r9ceI6) | [Between City Walls](https://open.spotify.com/album/0aUGJkdUCaTmBqlB2gD3I0) | 3:41 | 2021-08-29 |  |
-| [Erfaa Rasak](https://open.spotify.com/track/5tAwQ2wGF88d8zuliokaxo) | [Mohammad Assaf](https://open.spotify.com/artist/0IjIdnhlsKfAfOl5ph5TsE) | [Muntasib Alqamah Amshi](https://open.spotify.com/album/4n4atfTSCn0gmSS9qHltsU) | 6:03 | 2021-08-29 |  |
+| [Erfaa Rasak](https://open.spotify.com/track/5tAwQ2wGF88d8zuliokaxo) | [Mohammad Assaf](https://open.spotify.com/artist/0IjIdnhlsKfAfOl5ph5TsE) | [Muntasib Alqamah Amshi](https://open.spotify.com/album/4n4atfTSCn0gmSS9qHltsU) | 6:03 | 2021-08-29 | 2024-05-29 |
 | [Everyland](https://open.spotify.com/track/6kdczMJQLiW7DD6sQ66QpC) | [47SOUL](https://open.spotify.com/artist/5nxFmhSekt9Acn4tWZxGge) | [Shamstep](https://open.spotify.com/album/1pttNsXr5b1D3K6qUd9mXM) | 5:11 | 2021-08-29 |  |
 | [Fi Balad](https://open.spotify.com/track/6UfojkByhQd6xk8OKKtFA4) | [Shadi Zaqtan](https://open.spotify.com/artist/5HRVCmuBf5fJhNsuxho0Uj) | [Rough Guide To Palestine](https://open.spotify.com/album/6KqivdlFFRzj6KmAVSGL0I) | 5:15 | 2021-08-29 |  |
 | [Free Palestine](https://open.spotify.com/track/64q1CGvo0Xy2zcIY3P3Y5N) | [Abe Batshon](https://open.spotify.com/artist/7L9recBwKoPNkkdVZcri4M) | [Free Palestine](https://open.spotify.com/album/1Vtr06ZXiHa1N8URiFKjuk) | 2:45 | 2021-08-29 | 2022-01-21 |
@@ -51,6 +51,7 @@
 | [Hada el 7aki 3eh](https://open.spotify.com/track/6qBEVHOHFVE425OBeOluXN) | [Al Nather](https://open.spotify.com/artist/5qvrUMJ8oO3BswrQO3w0hl), [Shabjdeed](https://open.spotify.com/artist/0KJ7DiybcwyulZLILX3Z95), [The Synaptik](https://open.spotify.com/artist/3fyyPt5BZ20BkmqVcQV6wS) | [Jdeed, Vol\. 3](https://open.spotify.com/album/5q7PLIOBptDq7YRbOuSs4C) | 5:12 | 2021-08-29 |  |
 | [Haifa in a Tesla](https://open.spotify.com/track/7v7bIFnCNg3lS7Lp1yTHig) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [Haifa in a Tesla](https://open.spotify.com/album/2lsDApvI0m7LYcwsaNTfZ4) | 2:45 | 2022-01-09 |  |
 | [Hold Your Ground](https://open.spotify.com/track/0KmiXlCv8005j9o340PW4e) | [47 Soul](https://open.spotify.com/artist/5nxFmhSekt9Acn4tWZxGge), [Lowkey](https://open.spotify.com/artist/2ps77LMRMUCMl5N6uRWOTH) | [Hold Your Ground](https://open.spotify.com/album/6fxuBrz4h4iOuW5hVoiJmc) | 4:35 | 2021-08-29 | 2022-03-10 |
+| [Ibn Gaza](https://open.spotify.com/track/4QCpIFfyrpHuIICOGYpN2J) | [Laith Abu Joda](https://open.spotify.com/artist/409IHz2Yvi1kdUmrjein3m) | [Ibn Gaza](https://open.spotify.com/album/3Rp6oJKIE5zQrMptdWzrgh) | 1:21 | 2024-05-28 |  |
 | [Inn Ann](https://open.spotify.com/track/4FTGTibd0V8qZOTMwx7lG7) | [Daboor](https://open.spotify.com/artist/7kYd4AxupgMona77xBcxXy), [Shabjdeed](https://open.spotify.com/artist/0KJ7DiybcwyulZLILX3Z95) | [El Gad3ana](https://open.spotify.com/album/2ObAguu7dgbrezv0oK0492) | 3:13 | 2021-08-29 |  |
 | [Killing The Game](https://open.spotify.com/track/4ly0Ru87w8fphGaHiL4LIv) | [MC Abdul](https://open.spotify.com/artist/2gr50NWFuNsweefgZzVb2E) | [Killing The Game](https://open.spotify.com/album/49uleJjxcPQ1cxQU1HzsZ1) | 2:21 | 2023-09-06 |  |
 | [Kounili El Musica](https://open.spotify.com/track/4UcpiWGup7TKr1NkqaBrQ7) | [Toni Qattan](https://open.spotify.com/artist/1IJJoAyxznu3orwXhlt3XO) | [Kounili El Musica](https://open.spotify.com/album/77e5W1q40rJcSAJjt7GA1p) | 2:55 | 2021-08-29 |  |

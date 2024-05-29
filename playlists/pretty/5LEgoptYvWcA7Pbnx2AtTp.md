@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5LEgoptYvWcA7Pbnx2AtTp.md) - [plain]
 
 > Questionable in both morals and taste.
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 8 likes - 87 songs - 5 hr 13 min
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 8 likes - 88 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,5 +95,6 @@ pretty - [cumulative](/playlists/cumulative/5LEgoptYvWcA7Pbnx2AtTp.md) - [plain]
 | 85 | [Bread](https://open.spotify.com/track/4Qq66rN8HWHk7NGPYfNvun) | [Anya Nami](https://open.spotify.com/artist/1A7NzAUPSwbUmfyGEmRM7h) | [Bread](https://open.spotify.com/album/6eJJ1rjVZ3o6HoMBCMxkZV) | 1:42 |
 | 86 | [Wii Turn Up \(Wii Menu Remix\)](https://open.spotify.com/track/59OkvZEB9zPsEa6fQL2LlZ) | [Murcy](https://open.spotify.com/artist/6hsB7sy4Y71liJtAjQQTKD) | [Wii Turn Up \(Wii Menu Remix\)](https://open.spotify.com/album/5Lx2FsaePV7qsgKJa8jXOR) | 3:15 |
 | 87 | [Funk da Netflix: onde tudo começou](https://open.spotify.com/track/04pEkmPO7jLJfRhM9UGQA4) | [Hefty](https://open.spotify.com/artist/7hOM7jG6GXxugQGe9JN8Kk) | [Tudum Remix](https://open.spotify.com/album/38e5jYSDDCkTEKFYy5IGss) | 0:30 |
+| 88 | [Big Balls](https://open.spotify.com/track/2KmSnPWWCIsEomVsKnbE1a) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Dirty Deeds Done Dirt Cheap](https://open.spotify.com/album/76mvVgXOde87B9aOzLXCOI) | 2:38 |
 
-Snapshot ID: `AAAAd+NcSPk5ZINYBexi2HMQOm1V6GVR`
+Snapshot ID: `AAAAeCVlD2QlBH6vXKbtB0yfmXYyZXzI`

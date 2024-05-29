@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO2OZck1.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO2OZck1) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO2OZck1)
 
-### [This Is 新しい学校のリーダーズ](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2OZck1)
+### [This Is ATARASHII GAKKO!](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2OZck1)
 
-> This is 新しい学校のリーダーズ\. The essential tracks, all in one playlist.
+> This is ATARASHII GAKKO!\. Todos os maiores hits em uma só playlist.
 
-44 songs - 2 hr 29 min
+45 songs - 2 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [wakaranai](https://open.spotify.com/track/3eusuilhnPfka2GnCPI1w1) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [maenarawanai](https://open.spotify.com/album/3HmOMYSlIlHBPwSHl3POgb) | 3:57 | 2023-12-26 |  |
 | [WOO! GO!](https://open.spotify.com/track/4BfXAxcuOyPRWcUHCasVit) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [WOO! GO!](https://open.spotify.com/album/6TeEBQZuGMjY3cu7e6JjUX) | 3:19 | 2023-12-26 |  |
 | [zzz](https://open.spotify.com/track/6AFyBKENjWJBxwjcFTtEpo) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [maenarawanai](https://open.spotify.com/album/3HmOMYSlIlHBPwSHl3POgb) | 4:13 | 2023-12-26 |  |
+| [ドラ１独走](https://open.spotify.com/track/0UkBK5kfWWX69QzWx1DDx3) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi), [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [ドラ１独走](https://open.spotify.com/album/7pu6N5N8vmayVPxNNVihJE) | 3:03 | 2024-05-29 |  |
 | [狙いうち \- 50th anniversary special cover](https://open.spotify.com/track/11WB6KDgJNqrTRexgM7n2g) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [マ人間](https://open.spotify.com/album/2N4sRKgyRb8eKvFfIO5IQI) | 2:17 | 2024-01-10 | 2024-01-21 |
 
 \*This playlist was first scraped on 2023-12-27. Prior content cannot be recovered.

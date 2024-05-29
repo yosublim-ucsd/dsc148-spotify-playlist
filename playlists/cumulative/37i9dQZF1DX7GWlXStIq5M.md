@@ -4,7 +4,7 @@
 
 > Os hits e novos nomes do pop dividindo o mesmo palco!  / Foto: Lou Garcia, Marina Sena
 
-744 songs - 1 day 13 hr 22 min
+745 songs - 1 day 13 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,7 +132,7 @@
 | [Campo De Morango](https://open.spotify.com/track/4T88uzmAghjSBhABSz7jcB) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Campo De Morango](https://open.spotify.com/album/4HsyzmEw3gKCS1fFfHjccT) | 1:16 | 2023-08-18 |  |
 | [Cancún](https://open.spotify.com/track/2gbmbB5KHCpLYgr7AMwNEn) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [Kailê](https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu), [FreezaMC](https://open.spotify.com/artist/6aiPY2UsxHJrLq0X1ruIiU) | [Cancún](https://open.spotify.com/album/2fHM4ZxQCcFe7pbflBMpgD) | 2:22 | 2023-10-06 | 2023-12-16 |
 | [Canoa](https://open.spotify.com/track/2LneA7MOWuowIRaga0eO3t) | [kamaitachi](https://open.spotify.com/artist/1ISc8zhrqxd5WrJMkMMLSm), [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD) | [Canoa](https://open.spotify.com/album/3yVv0gmK4EdJNQBWt6au3D) | 2:57 | 2023-10-13 | 2023-11-11 |
-| [Capa Vogue](https://open.spotify.com/track/7jaQt9VbBVJa6YYm3vxAB7) | [LUCK MUZIK](https://open.spotify.com/artist/6D7tQSIfrZtGfHVYesKXvR), [Gabb MC](https://open.spotify.com/artist/5qyPbwqvOEp7FvR1EeTQQ2) | [Capa Vogue](https://open.spotify.com/album/4joYhZVy4gA2zYOpp7qUy7) | 2:11 | 2024-03-08 |  |
+| [Capa Vogue](https://open.spotify.com/track/7jaQt9VbBVJa6YYm3vxAB7) | [LUCK MUZIK](https://open.spotify.com/artist/6D7tQSIfrZtGfHVYesKXvR), [Gabb MC](https://open.spotify.com/artist/5qyPbwqvOEp7FvR1EeTQQ2) | [Capa Vogue](https://open.spotify.com/album/4joYhZVy4gA2zYOpp7qUy7) | 2:11 | 2024-03-08 | 2024-05-29 |
 | [Capitán](https://open.spotify.com/track/3Zesg4c4eKhWJbKyh2mZos) | [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Capitán](https://open.spotify.com/album/3HzG2GrYVNOFovlnK112G2) | 3:44 | 2023-05-26 | 2023-07-08 |
 | [Carambolar](https://open.spotify.com/track/4704Yxnyrf6T3G4H7JL8Kq) | [Liza Lou](https://open.spotify.com/artist/1cJ8ZMi37OSQUMRbqWGKu2), [Ariel Donato](https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ) | [Carambolar](https://open.spotify.com/album/1GkP37VZmvYhq5EGcVnUpi) | 2:22 | 2023-09-01 | 2023-10-14 |
 | [Carinha De Sol](https://open.spotify.com/track/7aWj6KIVFvecD207YszjVU) | [Lamparina](https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z) | [Original Brasil](https://open.spotify.com/album/1dp1LuHP7QsuI2LS40j7M4) | 2:44 | 2023-10-13 | 2023-11-11 |
@@ -677,6 +677,7 @@
 | [Tipo Gta](https://open.spotify.com/track/3hCzQ8c7PCcPfa9qe95ITg) | [MC Caverinha](https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee) | [Tipo Gta](https://open.spotify.com/album/1ce4TgsWTS5N3fEdErXY44) | 3:41 | 2020-10-20 | 2022-07-26 |
 | [Tipo uma Glock](https://open.spotify.com/track/0uv71i1waQbyRjZT86Fctu) | [Jovem Dex](https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl), [Hash Produções](https://open.spotify.com/artist/4BZ0ACrHCLropCpHJypPvV) | [Tipo uma Glock](https://open.spotify.com/album/1ofJDp4DEAf8PHwA15DYTK) | 2:05 | 2020-10-20 | 2022-07-29 |
 | [Tira Uma Foto](https://open.spotify.com/track/0ISIcAK9wIUs76bS8vPxK7) | [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ), [Nave](https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J) | [Tira Uma Foto](https://open.spotify.com/album/7Bvg4IJIBa2ewWmOEHe7X1) | 2:09 | 2023-03-03 | 2023-04-22 |
+| [to bem](https://open.spotify.com/track/4n7GVLsN4FBLyKhi0BySUq) | [Jovem Dionisio](https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ) | [Ontem Eu Tinha Certeza \(Hoje Eu Tenho Mais\)](https://open.spotify.com/album/20tdkGDqEJFZJs6TYEqifo) | 2:35 | 2024-05-28 |  |
 | [Toalha](https://open.spotify.com/track/0KcrHF2IZR83WWAoEVLkVl) | [GABI LINS](https://open.spotify.com/artist/6AntiZOHajTmgPhdLGKYNm) | [Toalha](https://open.spotify.com/album/09jjP8f2JMoaE9r3h4GWjD) | 3:26 | 2023-11-13 | 2023-12-16 |
 | [Toda Manhã](https://open.spotify.com/track/1FpIwrg7pwzGhakpokNbuT) | [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP) | [Ato 1: TODAMANHÃ](https://open.spotify.com/album/5caF5n4dvpJv0BsqEOJnA7) | 2:26 | 2023-04-25 | 2023-05-06 |
 | [Toda Manhã](https://open.spotify.com/track/5tPrL24NVBC6crh1xl7uGw) | [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP) | [Ato 1: TODAMANHÃ](https://open.spotify.com/album/4c2wwlgbTHER3fxe6TzDlZ) | 2:26 | 2023-04-14 | 2023-04-26 |

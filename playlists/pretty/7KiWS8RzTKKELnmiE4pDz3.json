@@ -6,7 +6,7 @@
     "name": "James Williams",
     "url": "https://open.spotify.com/user/imathieu32"
   },
-  "snapshot_id": "AAAcq1slLu+JJ07NZpCMx+gEdCg6a3MW",
+  "snapshot_id": "AAAcrrCbaCBD88q39UD3OqaWo8Zluo4r",
   "tracks": [
     {
       "added_at": "2022-09-26 20:53:27",
@@ -2183,6 +2183,70 @@
       "duration_ms": 229106,
       "name": "What We Do",
       "url": "https://open.spotify.com/track/5kDkWHFx0AEvJ1Pfm2i0ac"
+    },
+    {
+      "added_at": "2024-05-28 19:26:32",
+      "album": {
+        "name": "#RICHAXXHAITIAN",
+        "url": "https://open.spotify.com/album/3akQbvTaRFTiQYZILxVm3E"
+      },
+      "artists": [
+        {
+          "name": "Mach-Hommy",
+          "url": "https://open.spotify.com/artist/3ZMur3elMyOs248ah86NRk"
+        },
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "03 Greedo",
+          "url": "https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp"
+        }
+      ],
+      "duration_ms": 167142,
+      "name": "#RICHAXXHAITIAN",
+      "url": "https://open.spotify.com/track/0B0lGy8qd6kohNFUz7cneO"
+    },
+    {
+      "added_at": "2024-05-28 20:17:08",
+      "album": {
+        "name": "Black & Whites",
+        "url": "https://open.spotify.com/album/67eSCwLxuPQZ0jKI373JSt"
+      },
+      "artists": [
+        {
+          "name": "Big Hit",
+          "url": "https://open.spotify.com/artist/1zQJBLCGM0tdPW9XwgdEll"
+        },
+        {
+          "name": "Hit-Boy",
+          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        }
+      ],
+      "duration_ms": 220589,
+      "name": "Black & Whites",
+      "url": "https://open.spotify.com/track/4uf1XtTgsXPzpqsFZeRfFb"
+    },
+    {
+      "added_at": "2024-05-28 20:53:06",
+      "album": {
+        "name": "Samurai",
+        "url": "https://open.spotify.com/album/1xG63QNNCiQvy0PERgfpaH"
+      },
+      "artists": [
+        {
+          "name": "Lupe Fiasco",
+          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
+        }
+      ],
+      "duration_ms": 194786,
+      "name": "Samurai",
+      "url": "https://open.spotify.com/track/00LGJRRqN4AtSpHrvjIyiJ"
     }
   ],
   "unique_name": "main ",

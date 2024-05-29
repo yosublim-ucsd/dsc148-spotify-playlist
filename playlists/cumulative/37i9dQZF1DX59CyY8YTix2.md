@@ -2,9 +2,9 @@
 
 ### [She Rocks](https://open.spotify.com/playlist/37i9dQZF1DX59CyY8YTix2)
 
-> 国内ロックシーンで活躍する女性アーティストたちを特集。Japanese women rock icons\. Cover: ゲシュタルト乙女
+> 国内ロックシーンで活躍する女性アーティストたちを特集。Japanese women rock icons\. Cover: Homecomings
 
-1,621 songs - 4 day 4 hr 55 min
+1,623 songs - 4 day 5 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -222,7 +222,7 @@
 | [fog](https://open.spotify.com/track/1OE3t1yyIaJDXGpQbDSEs9) | [ayutthaya](https://open.spotify.com/artist/0rTubhDFni3uMrx2nSK9WG) | [fog](https://open.spotify.com/album/6hpfrerc9qMlxyHyUV5aIF) | 3:55 | 2022-11-08 | 2022-11-23 |
 | [FOOL](https://open.spotify.com/track/0AzcSSYPlbmeg1cBYi6nm2) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [FOOL](https://open.spotify.com/album/36feOZnIXPKzDkCkPOnG4j) | 3:04 | 2023-04-25 |  |
 | [Fool](https://open.spotify.com/track/0NWKnbVeZuKPOmGnl2gh6q) | [Lucie,Too](https://open.spotify.com/artist/5PhoNkzWUeTayL3gJv4Gvn) | [Fool](https://open.spotify.com/album/5UcrQdw6afVoQqI7tpxTw2) | 2:15 | 2022-05-31 | 2022-07-19 |
-| [Forgive me not](https://open.spotify.com/track/4Jd2fg1Ie08f5YJXHfatba) | [LOVE PSYCHEDELICO](https://open.spotify.com/artist/5V7OCRPNS7vBRLRkrMVNqp) | [Forgive me not](https://open.spotify.com/album/7uH4Egzy7FHDR6lGHV6NRH) | 2:58 | 2024-05-21 |  |
+| [Forgive me not](https://open.spotify.com/track/4Jd2fg1Ie08f5YJXHfatba) | [LOVE PSYCHEDELICO](https://open.spotify.com/artist/5V7OCRPNS7vBRLRkrMVNqp) | [Forgive me not](https://open.spotify.com/album/7uH4Egzy7FHDR6lGHV6NRH) | 2:58 | 2024-05-21 | 2024-05-29 |
 | [Free](https://open.spotify.com/track/45wqUOhtYiE76OW7Us7Tqx) | [Doul](https://open.spotify.com/artist/6iCB8Oh5qNCfMM6Bjn3bOf) | [Free](https://open.spotify.com/album/74BcG9pHH1R3OJRVBiKC8g) | 3:02 | 2022-07-21 | 2022-07-23 |
 | [FREEDOM!](https://open.spotify.com/track/5YThJeUxwNPrWMCmiZZrIQ) | [Bed In](https://open.spotify.com/artist/6rLwi93jMT5dbvht2sWAUR) | [FREEDOM!](https://open.spotify.com/album/2MOk0vG38H1M133hRGIkK3) | 3:57 | 2022-06-07 | 2022-07-06 |
 | [Futaba](https://open.spotify.com/track/1orwxUzvNOgv02NwPORbS4) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [Falling into your eyes Record](https://open.spotify.com/album/5KLZZ5X7b8eM8OXXUBYfgz) | 4:37 | 2022-12-13 | 2024-01-03 |
@@ -468,6 +468,7 @@
 | [monica](https://open.spotify.com/track/4MkTfQVavLRAOlsERdQNoz) | [The Floatings](https://open.spotify.com/artist/3pFyYLu4ZXazrpNfYKAV8M) | [monica](https://open.spotify.com/album/3t3WqVWIFCxtZRaDDjjUQu) | 5:07 | 2024-01-23 | 2024-02-07 |
 | [Monochrome](https://open.spotify.com/track/2Rw6wkd0q3LXx5xsdjLs1P) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [Monochrome](https://open.spotify.com/album/6IoOqdEHdwLgfUONXeYvoI) | 3:57 | 2022-11-17 | 2023-12-20 |
 | [Monster](https://open.spotify.com/track/3jM553xjXFg4d5WZjszanB) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [Monster](https://open.spotify.com/album/1HwjBIF2sVIWuiLuH8EsEc) | 3:08 | 2022-05-31 | 2022-07-29 |
+| [Moon Shaped](https://open.spotify.com/track/4efK771NNGsKNYbCJ1xhkD) | [Homecomings](https://open.spotify.com/artist/3iyF2P8al32bYI6e3YF56K) | [Moon Shaped](https://open.spotify.com/album/2kgkVKv864qu7CgVSCHuZw) | 5:11 | 2024-05-28 |  |
 | [moonwalk](https://open.spotify.com/track/6Hr0XwB5CMbSWcwJNxw4M8) | [Conton Candy](https://open.spotify.com/artist/6FuFgQvi3GNYr4yDuh4Fxq) | [moonwalk](https://open.spotify.com/album/6DlwqOiVIyz9gHHpIx06Aw) | 4:35 | 2022-09-15 | 2022-09-28 |
 | [more than words](https://open.spotify.com/track/2ZT6eELxeETGamaiXu6vmk) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [more than words](https://open.spotify.com/album/6fdrt4Aa8bJIHb5L0GTn7V) | 4:49 | 2023-08-31 |  |
 | [more than words \- English ver.](https://open.spotify.com/track/5zFmY6wFs4CeGJb5P5Wv5A) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [more than words \(English ver.\)](https://open.spotify.com/album/4OTaUWzn1fMSvqSaH4LBSw) | 4:46 | 2023-11-21 | 2024-01-10 |
@@ -1070,6 +1071,7 @@
 | [ドライブ](https://open.spotify.com/track/3NJctZrBhsRxi55ifJNh26) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [SHISHAMO 7](https://open.spotify.com/album/2p074ywYtKAJGyJT6ESvPe) | 4:50 | 2022-05-26 | 2023-02-05 |
 | [ドライブ](https://open.spotify.com/track/1M9HY1jU2K3p7LsIDJ0QL9) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [恋を知っているすべてのあなたへ](https://open.spotify.com/album/6KE5rQedfMgEGFShffAQDd) | 4:51 | 2023-02-03 | 2023-03-08 |
 | [ドラマチック](https://open.spotify.com/track/7ebfvkFg9UGkQDJqkSBr4H) | [the peggies](https://open.spotify.com/artist/3imCOAQnI4fF5dsncQqLBW) | [ドラマチック](https://open.spotify.com/album/56wTjr6MloiUT8jxr34gzU) | 4:04 | 2022-06-21 | 2022-07-22 |
+| [ドラ１独走](https://open.spotify.com/track/0UkBK5kfWWX69QzWx1DDx3) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi), [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [ドラ１独走](https://open.spotify.com/album/7pu6N5N8vmayVPxNNVihJE) | 3:03 | 2024-05-28 |  |
 | [ドロップ](https://open.spotify.com/track/4r1fGtMQX6Lw1wkfGMN3wi) | [Signaless](https://open.spotify.com/artist/54IaTf2SiJDnOx6dp5j3W3) | [思想](https://open.spotify.com/album/24PZpgMOMim1v0Tpk6MLvU) | 3:59 | 2023-12-19 | 2023-12-27 |
 | [ナイスなガール \- 2024 ver.](https://open.spotify.com/track/5xZZRi6CNGKs8Ze9dcEzFy) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [覚悟を決めろ!](https://open.spotify.com/album/2eoWg1Bc1vn6m4HxSwya2v) | 2:49 | 2024-03-07 |  |
 | [ナイスアイディア！](https://open.spotify.com/track/0M7rTSchHlSDzbwjA7s9eu) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [ナイスアイディア！](https://open.spotify.com/album/5iHRmLOt9Qn5hgqirPBKAU) | 3:15 | 2024-03-19 |  |
@@ -1136,7 +1138,7 @@
 | [プラズマクラシックミュージック](https://open.spotify.com/track/48cFdkt692jgYl01sKFjDY) | [\(yoru to\)SAMPO](https://open.spotify.com/artist/3LAWK80zCJtDxXGBa0BB1n) | [プラズマクラシックミュージック](https://open.spotify.com/album/1pqo0amavweAPnPr93EnDO) | 3:34 | 2024-01-09 | 2024-01-17 |
 | [プロポーズ文句](https://open.spotify.com/track/44cWeBUmdE4qZnHI0ePPm6) | [名誉伝説](https://open.spotify.com/artist/2tQe3JU05yYIs9350ppVPD) | [プロポーズ文句](https://open.spotify.com/album/4gR4C4GDqpCaV23RVg1Gj3) | 3:35 | 2023-09-26 | 2023-10-04 |
 | [プロミスザスター ’23](https://open.spotify.com/track/7KqTlO3F2ADdDbKZvbl3Yc) | [BiSH](https://open.spotify.com/artist/0ebinq3ZTOQAJNag4sBTJj) | [BiSH THE BEST](https://open.spotify.com/album/31ogU6hrmcIquFGKu9zcX3) | 4:29 | 2023-06-27 | 2024-01-15 |
-| [ヘイミー！](https://open.spotify.com/track/0Jj8qToTYk0LMzm6UDLFv1) | [Aivy](https://open.spotify.com/artist/50ZZhrepUFMiOPypDlLDyv) | [ヘイミー！](https://open.spotify.com/album/7IKQOdEkaf6z2KcLKSpCtG) | 4:20 | 2024-04-23 |  |
+| [ヘイミー！](https://open.spotify.com/track/0Jj8qToTYk0LMzm6UDLFv1) | [Aivy](https://open.spotify.com/artist/50ZZhrepUFMiOPypDlLDyv) | [ヘイミー！](https://open.spotify.com/album/7IKQOdEkaf6z2KcLKSpCtG) | 4:20 | 2024-04-23 | 2024-05-29 |
 | [ヘイメル・ウィッチ](https://open.spotify.com/track/06mEOrsIPkr79VHJ7tFzfj) | [Griev fib](https://open.spotify.com/artist/7GCZsASKANINXmie28Sqvj) | [ヘイメル・ウィッチ](https://open.spotify.com/album/6b3sBVSSbVEPeAvG8grTEN) | 3:46 | 2023-12-19 | 2023-12-27 |
 | [ヘビースモーク](https://open.spotify.com/track/6SZxiOImowwY2pcYjnrf8n) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [ヘビースモーク](https://open.spotify.com/album/3vviZ2ljJiDqTAHm7OCTCd) | 5:02 | 2022-06-16 | 2022-11-16 |
 | [ペープサートプラネット](https://open.spotify.com/track/45dzjte5s0h0ajfJBWGtSA) | [Ame no Mondays](https://open.spotify.com/artist/09yY2UTdY3L9XxAjGvryHl) | [ペープサートプラネット](https://open.spotify.com/album/4BQa1KBqgQQOFtksZL2vyo) | 3:47 | 2022-05-26 | 2022-07-10 |

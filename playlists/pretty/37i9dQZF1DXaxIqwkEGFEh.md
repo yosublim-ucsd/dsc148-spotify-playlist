@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 
 > Strictly for the streets\. Cover: Nardo Wick
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,192,564 likes - 100 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,192,677 likes - 100 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Q\-Dogz](https://open.spotify.com/track/7FHEzrax04uAKbFeNisJJO) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Q\-Dogz](https://open.spotify.com/album/7KASuF4SJeTxKsq3XbPGej) | 2:04 |
 | 2 | [Deep End](https://open.spotify.com/track/1yZpdHZpwnnT7Evpo7W2ZX) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [Deep End](https://open.spotify.com/album/6YMwAuclDCYoo0D0fpwFyC) | 2:26 |
-| 3 | [NOTT](https://open.spotify.com/track/69zAjL2CE6gUO9DaHNjK8c) | [Hitkidd](https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5), [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC) | [NOTT](https://open.spotify.com/album/6DMRH8HHK7eKqz47CXCPbo) | 3:02 |
+| 3 | [NOTT](https://open.spotify.com/track/69zAjL2CE6gUO9DaHNjK8c) | [Hitkidd](https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5), [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC) | [NOTT](https://open.spotify.com/album/6DMRH8HHK7eKqz47CXCPbo) | 3:01 |
 | 4 | [Mr Pot Scraper](https://open.spotify.com/track/6PmqCt2fO80OojY5eGS2X3) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc) | [Mr Pot Scraper](https://open.spotify.com/album/4yhIfYT0AYm9hGHZxvttaZ) | 2:25 |
 | 5 | [Swear to God \(feat\. Future\)](https://open.spotify.com/track/0N3A0tvQ3ppZerKA8Gsztp) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Swear to God \(feat\. Future\)](https://open.spotify.com/album/5j8aNVtgdhzP7azN05Z9h5) | 3:00 |
 | 6 | [Win Wit Us](https://open.spotify.com/track/1oIefhM6QIK2eXdbtiAhbg) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [Win Wit Us](https://open.spotify.com/album/6flksMqL2DLGLq6lHc80md) | 2:37 |

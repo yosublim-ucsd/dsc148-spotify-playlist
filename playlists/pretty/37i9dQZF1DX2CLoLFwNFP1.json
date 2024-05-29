@@ -1,6 +1,6 @@
 {
   "description": "",
-  "num_followers": 37482,
+  "num_followers": 37524,
   "original_name": "This Is Jay Park",
   "owner": {
     "name": "Spotify",
@@ -2067,6 +2067,30 @@
     {
       "added_at": "2024-04-26 14:42:17",
       "album": {
+        "name": "REBORN",
+        "url": "https://open.spotify.com/album/2hDjVKHLLiCgkqe6unmyHm"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "ILLSON",
+          "url": "https://open.spotify.com/artist/1o3mKG33qvuXI2s3HXTkYd"
+        },
+        {
+          "name": "Boi B",
+          "url": "https://open.spotify.com/artist/7MJnvH71CgBGCN9obN4aY5"
+        }
+      ],
+      "duration_ms": 235183,
+      "name": "REBORN",
+      "url": "https://open.spotify.com/track/1CyTCsONfJ1IdUjOHtQgeV"
+    },
+    {
+      "added_at": "2024-04-26 14:42:17",
+      "album": {
         "name": "Yacht (K) (feat. Sik-K)",
         "url": "https://open.spotify.com/album/7s6Cjus2U5giBB0mZxN2jl"
       },
@@ -2179,30 +2203,6 @@
       "duration_ms": 277509,
       "name": "Ain\u2019t No Party Like an AOMG Party",
       "url": "https://open.spotify.com/track/792Ndn2JGh6bQonjKju52Q"
-    },
-    {
-      "added_at": "2024-04-26 14:42:17",
-      "album": {
-        "name": "REBORN",
-        "url": "https://open.spotify.com/album/2hDjVKHLLiCgkqe6unmyHm"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "ILLSON",
-          "url": "https://open.spotify.com/artist/1o3mKG33qvuXI2s3HXTkYd"
-        },
-        {
-          "name": "Boi B",
-          "url": "https://open.spotify.com/artist/7MJnvH71CgBGCN9obN4aY5"
-        }
-      ],
-      "duration_ms": 235183,
-      "name": "REBORN",
-      "url": "https://open.spotify.com/track/1CyTCsONfJ1IdUjOHtQgeV"
     },
     {
       "added_at": "2024-04-26 14:42:17",

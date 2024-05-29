@@ -1,13 +1,113 @@
 {
   "description": "New takes on old classics!",
-  "num_followers": 417085,
+  "num_followers": 417113,
   "original_name": "Dance Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZTv5dAAAAABwNH3gSSAH2PUFKw/Ww9hJ",
+  "snapshot_id": "ZlWgfQAAAAD/GGqau083tf9+i55yMNqM",
   "tracks": [
+    {
+      "added_at": "2024-05-28 09:14:37",
+      "album": {
+        "name": "Couldn't Care Less (feat. Gia Koka)",
+        "url": "https://open.spotify.com/album/5uALiucSFQTU1ZG1Z8pRwQ"
+      },
+      "artists": [
+        {
+          "name": "ALT\u00c9GO",
+          "url": "https://open.spotify.com/artist/2f1gRV8q7Wua3x7dkoWrbS"
+        },
+        {
+          "name": "Gia Koka",
+          "url": "https://open.spotify.com/artist/71WExccCBN2mw0klSzfYzz"
+        }
+      ],
+      "duration_ms": 145946,
+      "name": "Couldn't Care Less (feat. Gia Koka)",
+      "url": "https://open.spotify.com/track/4I1cbxHQdui27mPGHPXXMO"
+    },
+    {
+      "added_at": "2024-05-28 09:14:37",
+      "album": {
+        "name": "Thank You (Not So Bad)",
+        "url": "https://open.spotify.com/album/1J7XItLnNLegigdh4AjGKN"
+      },
+      "artists": [
+        {
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Dido",
+          "url": "https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs"
+        },
+        {
+          "name": "W&W",
+          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
+        },
+        {
+          "name": "Dimitri Vegas",
+          "url": "https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO"
+        },
+        {
+          "name": "Like Mike",
+          "url": "https://open.spotify.com/artist/4pwXiI7Z5ZStkgKowZyoKi"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Thank You (Not So Bad)",
+      "url": "https://open.spotify.com/track/09CnYHiZ5jGT1wr1TXJ9Zt"
+    },
+    {
+      "added_at": "2024-05-28 09:14:37",
+      "album": {
+        "name": "These Words",
+        "url": "https://open.spotify.com/album/3boWgDZHAI5tHYwdLuMuwq"
+      },
+      "artists": [
+        {
+          "name": "Badger",
+          "url": "https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3"
+        },
+        {
+          "name": "Natasha Bedingfield",
+          "url": "https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a"
+        }
+      ],
+      "duration_ms": 136580,
+      "name": "These Words",
+      "url": "https://open.spotify.com/track/7leW1Dmvs9A4oDh9i5Qwpz"
+    },
+    {
+      "added_at": "2024-05-28 09:14:37",
+      "album": {
+        "name": "Knockin' On Heaven's Door",
+        "url": "https://open.spotify.com/album/4M81BJmq0qnCLXAQ1Csehd"
+      },
+      "artists": [
+        {
+          "name": "Deepend",
+          "url": "https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B"
+        },
+        {
+          "name": "LAST CALL",
+          "url": "https://open.spotify.com/artist/2LoibTtixf5tjTYORAxbtN"
+        },
+        {
+          "name": "Horxata",
+          "url": "https://open.spotify.com/artist/3QkSqgd7THUtqWlJjL4iRn"
+        }
+      ],
+      "duration_ms": 152307,
+      "name": "Knockin' On Heaven's Door",
+      "url": "https://open.spotify.com/track/5DstxmypUQKUU9YpJG3sP8"
+    },
     {
       "added_at": "2023-10-27 17:55:00",
       "album": {
@@ -35,6 +135,50 @@
       "duration_ms": 172500,
       "name": "Rule The World (Everybody)",
       "url": "https://open.spotify.com/track/2f2dRxjiUOoV5qhZFbnVO6"
+    },
+    {
+      "added_at": "2023-10-27 17:55:00",
+      "album": {
+        "name": "Seven Nation Army",
+        "url": "https://open.spotify.com/album/1BCTQcK8H8z7HcqtC93UvV"
+      },
+      "artists": [
+        {
+          "name": "Gaullin",
+          "url": "https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K"
+        },
+        {
+          "name": "Julian Perretta",
+          "url": "https://open.spotify.com/artist/2JLl6rSFWx9YuSPLcLhkAG"
+        }
+      ],
+      "duration_ms": 173658,
+      "name": "Seven Nation Army",
+      "url": "https://open.spotify.com/track/4SCbD68sf3dBfaE2X8uDSP"
+    },
+    {
+      "added_at": "2023-10-27 17:55:00",
+      "album": {
+        "name": "I Will Survive",
+        "url": "https://open.spotify.com/album/6eRElO5zEVb6yNznGvl0HE"
+      },
+      "artists": [
+        {
+          "name": "Besomage",
+          "url": "https://open.spotify.com/artist/4ivfOZMa6lNjfcfpubOg6q"
+        },
+        {
+          "name": "Meric Again",
+          "url": "https://open.spotify.com/artist/2muaKB2dAVbfGrPySPiZqF"
+        },
+        {
+          "name": "Nito-Onna",
+          "url": "https://open.spotify.com/artist/79GiwayvvpyZVErpH6BLsY"
+        }
+      ],
+      "duration_ms": 134243,
+      "name": "I Will Survive",
+      "url": "https://open.spotify.com/track/4UIWtvdVgY6nNGPgzbutR7"
     },
     {
       "added_at": "2023-10-27 17:55:00",
@@ -85,6 +229,50 @@
       "url": "https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi"
     },
     {
+      "added_at": "2024-05-28 09:14:37",
+      "album": {
+        "name": "For Life (feat. Nile Rodgers)",
+        "url": "https://open.spotify.com/album/2Cqf3izEp75CqTKgul5Mi1"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Zak Abel",
+          "url": "https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+        }
+      ],
+      "duration_ms": 175803,
+      "name": "For Life (feat. Nile Rodgers)",
+      "url": "https://open.spotify.com/track/4QfikoJtCEiOj7G5R9m3sP"
+    },
+    {
+      "added_at": "2024-05-28 09:14:37",
+      "album": {
+        "name": "Hungry Heart",
+        "url": "https://open.spotify.com/album/5X44a6Ba4EUguVp5dFyC8P"
+      },
+      "artists": [
+        {
+          "name": "UNDRESSD",
+          "url": "https://open.spotify.com/artist/6t9ucCmbp0yzfgKpSLl7XL"
+        },
+        {
+          "name": "Victoria Voss",
+          "url": "https://open.spotify.com/artist/2o1DwIg0eMGpA5m6zLLG2I"
+        }
+      ],
+      "duration_ms": 187317,
+      "name": "Hungry Heart",
+      "url": "https://open.spotify.com/track/2F9ez7AKLTbdq3fyrdQ8GL"
+    },
+    {
       "added_at": "2023-10-27 17:55:00",
       "album": {
         "name": "If You Had My Love",
@@ -111,6 +299,74 @@
     {
       "added_at": "2023-10-27 17:55:00",
       "album": {
+        "name": "Ain't No Sunshine (feat. Jasmine Pace) [Arem Ozguc & Arman Aydin Remix]",
+        "url": "https://open.spotify.com/album/6uc6PK0nyw90NEAHXhqqgy"
+      },
+      "artists": [
+        {
+          "name": "Dubdogz",
+          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
+        },
+        {
+          "name": "J\u00d8RD",
+          "url": "https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV"
+        },
+        {
+          "name": "Arem Ozguc",
+          "url": "https://open.spotify.com/artist/5JJc8is4VzgOz8ZanDj18J"
+        },
+        {
+          "name": "Jasmine Pace",
+          "url": "https://open.spotify.com/artist/2URbjDB65sEN3MPX3e5tCy"
+        },
+        {
+          "name": "Arman Aydin",
+          "url": "https://open.spotify.com/artist/4xklx5DAtVru5uf3vSXTgf"
+        }
+      ],
+      "duration_ms": 188571,
+      "name": "Ain't No Sunshine (feat. Jasmine Pace) - Arem Ozguc & Arman Aydin Remix",
+      "url": "https://open.spotify.com/track/3RdL0oQOGj1TyUx5RG5vd3"
+    },
+    {
+      "added_at": "2024-05-28 09:14:37",
+      "album": {
+        "name": "The Sound Of Silence",
+        "url": "https://open.spotify.com/album/2mG2BCrq18dPuqyXluFAD5"
+      },
+      "artists": [
+        {
+          "name": "CYREES",
+          "url": "https://open.spotify.com/artist/10bmjPGhgwYvRis3pjAAmL"
+        }
+      ],
+      "duration_ms": 133374,
+      "name": "The Sound Of Silence",
+      "url": "https://open.spotify.com/track/5Cw1C3iQUquhH2gehdqqj8"
+    },
+    {
+      "added_at": "2024-05-28 09:14:37",
+      "album": {
+        "name": "Gotta Believe",
+        "url": "https://open.spotify.com/album/1tjCBVq2IVdbNppCix2RnB"
+      },
+      "artists": [
+        {
+          "name": "Damian Force",
+          "url": "https://open.spotify.com/artist/4dmhJ3CFcc3u3GV8EgLj6I"
+        },
+        {
+          "name": "Jordan Grace",
+          "url": "https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k"
+        }
+      ],
+      "duration_ms": 174006,
+      "name": "Gotta Believe",
+      "url": "https://open.spotify.com/track/2AVFP9aEYlPQ40V0lkGhE4"
+    },
+    {
+      "added_at": "2023-10-27 17:55:00",
+      "album": {
         "name": "Rock My Body (with INNA & Sash!)",
         "url": "https://open.spotify.com/album/1ItxfUvQVlH7sAybyJ1SpB"
       },
@@ -131,50 +387,6 @@
       "duration_ms": 137419,
       "name": "Rock My Body",
       "url": "https://open.spotify.com/track/6pb5DtlAeG95dNQLHiArRU"
-    },
-    {
-      "added_at": "2023-10-27 17:55:00",
-      "album": {
-        "name": "Seven Nation Army",
-        "url": "https://open.spotify.com/album/1BCTQcK8H8z7HcqtC93UvV"
-      },
-      "artists": [
-        {
-          "name": "Gaullin",
-          "url": "https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K"
-        },
-        {
-          "name": "Julian Perretta",
-          "url": "https://open.spotify.com/artist/2JLl6rSFWx9YuSPLcLhkAG"
-        }
-      ],
-      "duration_ms": 173658,
-      "name": "Seven Nation Army",
-      "url": "https://open.spotify.com/track/4SCbD68sf3dBfaE2X8uDSP"
-    },
-    {
-      "added_at": "2023-10-27 17:55:00",
-      "album": {
-        "name": "I Will Survive",
-        "url": "https://open.spotify.com/album/6eRElO5zEVb6yNznGvl0HE"
-      },
-      "artists": [
-        {
-          "name": "Besomage",
-          "url": "https://open.spotify.com/artist/4ivfOZMa6lNjfcfpubOg6q"
-        },
-        {
-          "name": "Meric Again",
-          "url": "https://open.spotify.com/artist/2muaKB2dAVbfGrPySPiZqF"
-        },
-        {
-          "name": "Nito-Onna",
-          "url": "https://open.spotify.com/artist/79GiwayvvpyZVErpH6BLsY"
-        }
-      ],
-      "duration_ms": 134243,
-      "name": "I Will Survive",
-      "url": "https://open.spotify.com/track/4UIWtvdVgY6nNGPgzbutR7"
     },
     {
       "added_at": "2023-10-27 17:55:00",
@@ -263,38 +475,6 @@
       "duration_ms": 172454,
       "name": "Why Does My Heart",
       "url": "https://open.spotify.com/track/4PMb7HNX34bF1Y4i1pgvrR"
-    },
-    {
-      "added_at": "2023-10-27 17:55:00",
-      "album": {
-        "name": "Ain't No Sunshine (feat. Jasmine Pace) [Arem Ozguc & Arman Aydin Remix]",
-        "url": "https://open.spotify.com/album/6uc6PK0nyw90NEAHXhqqgy"
-      },
-      "artists": [
-        {
-          "name": "Dubdogz",
-          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
-        },
-        {
-          "name": "J\u00d8RD",
-          "url": "https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV"
-        },
-        {
-          "name": "Arem Ozguc",
-          "url": "https://open.spotify.com/artist/5JJc8is4VzgOz8ZanDj18J"
-        },
-        {
-          "name": "Jasmine Pace",
-          "url": "https://open.spotify.com/artist/2URbjDB65sEN3MPX3e5tCy"
-        },
-        {
-          "name": "Arman Aydin",
-          "url": "https://open.spotify.com/artist/4xklx5DAtVru5uf3vSXTgf"
-        }
-      ],
-      "duration_ms": 188571,
-      "name": "Ain't No Sunshine (feat. Jasmine Pace) - Arem Ozguc & Arman Aydin Remix",
-      "url": "https://open.spotify.com/track/3RdL0oQOGj1TyUx5RG5vd3"
     },
     {
       "added_at": "2023-10-27 17:55:00",

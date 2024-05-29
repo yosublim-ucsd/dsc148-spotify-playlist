@@ -1,6 +1,6 @@
 {
   "description": "Discover the music of Schumann.",
-  "num_followers": 48405,
+  "num_followers": 48423,
   "original_name": "This Is Schumann",
   "owner": {
     "name": "Spotify",
@@ -1031,26 +1031,6 @@
     {
       "added_at": "2022-11-04 13:17:00",
       "album": {
-        "name": "Schumann, R.: Kreisleriana / Faschingsschwank Aus Wien",
-        "url": "https://open.spotify.com/album/0TjrgdDIhB7sAXTUtYFX1Y"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Jen\u0151 Jand\u00f3",
-          "url": "https://open.spotify.com/artist/5Kb0Qf13EyYtVJvzCdI9M7"
-        }
-      ],
-      "duration_ms": 105000,
-      "name": "Faschingsschwank aus Wien, Op. 26: IV. Intermezzo",
-      "url": "https://open.spotify.com/track/5W5tY94PSsrQYe2tU4R9xA"
-    },
-    {
-      "added_at": "2022-11-04 13:17:00",
-      "album": {
         "name": "Schumann, R.: Intermezzi, Op. 4 / Impromptus, Op. 5 / 3 Romances, Op. 28",
         "url": "https://open.spotify.com/album/62L7PgeT8my5HEifsNReiv"
       },
@@ -1135,6 +1115,26 @@
       "duration_ms": 198266,
       "name": "Five Pieces in Folk-Style Op. 102: Vanitas vanitatum mit Humor",
       "url": "https://open.spotify.com/track/5wxWCCzIbN24JyyoQ95kAD"
+    },
+    {
+      "added_at": "2022-11-04 13:17:00",
+      "album": {
+        "name": "Schumann, R.: Kreisleriana / Faschingsschwank Aus Wien",
+        "url": "https://open.spotify.com/album/0TjrgdDIhB7sAXTUtYFX1Y"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Jen\u0151 Jand\u00f3",
+          "url": "https://open.spotify.com/artist/5Kb0Qf13EyYtVJvzCdI9M7"
+        }
+      ],
+      "duration_ms": 105000,
+      "name": "Faschingsschwank aus Wien, Op. 26: IV. Intermezzo",
+      "url": "https://open.spotify.com/track/5W5tY94PSsrQYe2tU4R9xA"
     },
     {
       "added_at": "2022-11-04 13:17:00",

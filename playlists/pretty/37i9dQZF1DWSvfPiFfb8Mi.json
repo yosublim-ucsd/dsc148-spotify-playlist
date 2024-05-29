@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP\">Disco</a>, house, funk and soul for the good times.",
-  "num_followers": 562128,
+  "num_followers": 562265,
   "original_name": "Poolside Disco",
   "owner": {
     "name": "Spotify",
@@ -483,6 +483,26 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
+        "name": "Better Times",
+        "url": "https://open.spotify.com/album/02ie8m0VrTiwLr8NHMuo2T"
+      },
+      "artists": [
+        {
+          "name": "KC Lights",
+          "url": "https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ"
+        },
+        {
+          "name": "L\u00e5psley",
+          "url": "https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg"
+        }
+      ],
+      "duration_ms": 199015,
+      "name": "Better Times",
+      "url": "https://open.spotify.com/track/5PXZlm9dBDA8dBXxle5Da8"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
         "name": "Lovers In A Past Life (with Rag'n'Bone Man) [LP Giobbi Remix]",
         "url": "https://open.spotify.com/album/6LnXGn4Jb2lSb819kklrgn"
       },
@@ -507,26 +527,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Better Times",
-        "url": "https://open.spotify.com/album/02ie8m0VrTiwLr8NHMuo2T"
-      },
-      "artists": [
-        {
-          "name": "KC Lights",
-          "url": "https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ"
-        },
-        {
-          "name": "L\u00e5psley",
-          "url": "https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg"
-        }
-      ],
-      "duration_ms": 199015,
-      "name": "Better Times",
-      "url": "https://open.spotify.com/track/5PXZlm9dBDA8dBXxle5Da8"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "Mess It Up (Purple Disco Machine Remix)",
         "url": "https://open.spotify.com/album/0L6IypGWr61krz90boqPDD"
       },
@@ -547,18 +547,22 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Volcano",
-        "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
+        "name": "Fresh",
+        "url": "https://open.spotify.com/album/3VYGGCtGjNHGOSFkYVNmLV"
       },
       "artists": [
         {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+          "name": "Crazibiza",
+          "url": "https://open.spotify.com/artist/7gLis8CQkAQ7fJJNTWQNU1"
+        },
+        {
+          "name": "House of Prayers",
+          "url": "https://open.spotify.com/artist/6UZpnBnk8Ubc6fflLAb6qg"
         }
       ],
-      "duration_ms": 185191,
-      "name": "Every Night",
-      "url": "https://open.spotify.com/track/1j7ll1vNFLdgU7XUagyFV0"
+      "duration_ms": 284886,
+      "name": "Fresh - House of Prayers Poolside Edit",
+      "url": "https://open.spotify.com/track/71vqZFDzzvwt7tsTYy1g01"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -579,22 +583,18 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Fresh",
-        "url": "https://open.spotify.com/album/3VYGGCtGjNHGOSFkYVNmLV"
+        "name": "Volcano",
+        "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
       },
       "artists": [
         {
-          "name": "Crazibiza",
-          "url": "https://open.spotify.com/artist/7gLis8CQkAQ7fJJNTWQNU1"
-        },
-        {
-          "name": "House of Prayers",
-          "url": "https://open.spotify.com/artist/6UZpnBnk8Ubc6fflLAb6qg"
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
         }
       ],
-      "duration_ms": 284886,
-      "name": "Fresh - House of Prayers Poolside Edit",
-      "url": "https://open.spotify.com/track/71vqZFDzzvwt7tsTYy1g01"
+      "duration_ms": 185191,
+      "name": "Every Night",
+      "url": "https://open.spotify.com/track/1j7ll1vNFLdgU7XUagyFV0"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1095,26 +1095,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Chance On You (feat. KU\u010cKA)",
-        "url": "https://open.spotify.com/album/6rSHU53ifkacE59zpNUBxv"
-      },
-      "artists": [
-        {
-          "name": "Cosmo's Midnight",
-          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
-        },
-        {
-          "name": "KU\u010cKA",
-          "url": "https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw"
-        }
-      ],
-      "duration_ms": 194042,
-      "name": "Chance On You (feat. KU\u010cKA)",
-      "url": "https://open.spotify.com/track/0Byefko3vpr0FV8BIQmOsH"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "Without You",
         "url": "https://open.spotify.com/album/1VR8EBcLwAWs7NEg6z7Mgh"
       },
@@ -1131,6 +1111,26 @@
       "duration_ms": 227899,
       "name": "Without You",
       "url": "https://open.spotify.com/track/6ozSQDlmyAVrqNyZgouqSb"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Chance On You (feat. KU\u010cKA)",
+        "url": "https://open.spotify.com/album/6rSHU53ifkacE59zpNUBxv"
+      },
+      "artists": [
+        {
+          "name": "Cosmo's Midnight",
+          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
+        },
+        {
+          "name": "KU\u010cKA",
+          "url": "https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw"
+        }
+      ],
+      "duration_ms": 194042,
+      "name": "Chance On You (feat. KU\u010cKA)",
+      "url": "https://open.spotify.com/track/0Byefko3vpr0FV8BIQmOsH"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
+        "name": "Finally Free",
+        "url": "https://open.spotify.com/album/7k5QqZcj5N8mnUExGZ71Vg"
+      },
+      "artists": [
+        {
+          "name": "Kossisko",
+          "url": "https://open.spotify.com/artist/3TmVOBZL0RYrAAF3f2QSGq"
+        }
+      ],
+      "duration_ms": 282283,
+      "name": "Finally Free",
+      "url": "https://open.spotify.com/track/5I9DZbgz1XQ97915lhNnNf"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
         "name": "Workin' On It",
         "url": "https://open.spotify.com/album/4KD7VxzKwT2hNNNyEuk9I8"
       },
@@ -1275,22 +1291,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Finally Free",
-        "url": "https://open.spotify.com/album/7k5QqZcj5N8mnUExGZ71Vg"
-      },
-      "artists": [
-        {
-          "name": "Kossisko",
-          "url": "https://open.spotify.com/artist/3TmVOBZL0RYrAAF3f2QSGq"
-        }
-      ],
-      "duration_ms": 282283,
-      "name": "Finally Free",
-      "url": "https://open.spotify.com/track/5I9DZbgz1XQ97915lhNnNf"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "Disc Me Bro",
         "url": "https://open.spotify.com/album/2sEIOSa1osSD7Ilth42W9v"
       },
@@ -1339,6 +1339,22 @@
       "duration_ms": 325706,
       "name": "Ordinary Love - Folamour Remix",
       "url": "https://open.spotify.com/track/7i0d5gmak7nHrBAZJG3eSW"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "cabo player",
+        "url": "https://open.spotify.com/album/0WbQtYINepP73xen4NIEzO"
+      },
+      "artists": [
+        {
+          "name": "Pastel",
+          "url": "https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO"
+        }
+      ],
+      "duration_ms": 139000,
+      "name": "cabo player",
+      "url": "https://open.spotify.com/track/4jUtQcmpSOjxiUWwVejqM6"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1399,34 +1415,18 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "cabo player",
-        "url": "https://open.spotify.com/album/0WbQtYINepP73xen4NIEzO"
+        "name": "Hey Baby",
+        "url": "https://open.spotify.com/album/3OqaQBrwAfOLerlgJlJj8q"
       },
       "artists": [
         {
-          "name": "Pastel",
-          "url": "https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO"
+          "name": "Laurence Guy",
+          "url": "https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR"
         }
       ],
-      "duration_ms": 139000,
-      "name": "cabo player",
-      "url": "https://open.spotify.com/track/4jUtQcmpSOjxiUWwVejqM6"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "Manifesto",
-        "url": "https://open.spotify.com/album/20Xt1wX0TmekDqvzD0JSVY"
-      },
-      "artists": [
-        {
-          "name": "Folamour",
-          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
-        }
-      ],
-      "duration_ms": 355480,
-      "name": "Poundland Anthem",
-      "url": "https://open.spotify.com/track/6WR6Rd2dCpnwDda3ehLEPX"
+      "duration_ms": 236307,
+      "name": "Hey Baby",
+      "url": "https://open.spotify.com/track/2ud3Yzg63Z6rGUytQH9LUQ"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1451,18 +1451,18 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Hey Baby",
-        "url": "https://open.spotify.com/album/3OqaQBrwAfOLerlgJlJj8q"
+        "name": "Manifesto",
+        "url": "https://open.spotify.com/album/20Xt1wX0TmekDqvzD0JSVY"
       },
       "artists": [
         {
-          "name": "Laurence Guy",
-          "url": "https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR"
+          "name": "Folamour",
+          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
         }
       ],
-      "duration_ms": 236307,
-      "name": "Hey Baby",
-      "url": "https://open.spotify.com/track/2ud3Yzg63Z6rGUytQH9LUQ"
+      "duration_ms": 355480,
+      "name": "Poundland Anthem",
+      "url": "https://open.spotify.com/track/6WR6Rd2dCpnwDda3ehLEPX"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1519,18 +1519,22 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Boys Don't Sob",
-        "url": "https://open.spotify.com/album/3ZFmah5FBGNwfXZx5y7N4J"
+        "name": "Be with You Tonight",
+        "url": "https://open.spotify.com/album/5ekFu16M8ZCHl1zsLFqd6o"
       },
       "artists": [
         {
-          "name": "The Free Label",
-          "url": "https://open.spotify.com/artist/4YOL2g6AwphwsB1dOZZSOr"
+          "name": "Val\u00e8re",
+          "url": "https://open.spotify.com/artist/0V78ret9j8rEFKVB480Rcs"
+        },
+        {
+          "name": "La Felix",
+          "url": "https://open.spotify.com/artist/3PoWaGWGbWmC3DrCOyGXOj"
         }
       ],
-      "duration_ms": 176017,
-      "name": "Boys Don't Sob",
-      "url": "https://open.spotify.com/track/2fkAbl3FCAj9BKc4Z5GIdr"
+      "duration_ms": 219858,
+      "name": "Be with You Tonight",
+      "url": "https://open.spotify.com/track/2opgPV5Slxx13Cu9bIaArt"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1551,26 +1555,6 @@
       "duration_ms": 213243,
       "name": "Dunston (Bellaire Remix)",
       "url": "https://open.spotify.com/track/1un3tgix0qXdcAAT7VYiDx"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "Be with You Tonight",
-        "url": "https://open.spotify.com/album/5ekFu16M8ZCHl1zsLFqd6o"
-      },
-      "artists": [
-        {
-          "name": "Val\u00e8re",
-          "url": "https://open.spotify.com/artist/0V78ret9j8rEFKVB480Rcs"
-        },
-        {
-          "name": "La Felix",
-          "url": "https://open.spotify.com/artist/3PoWaGWGbWmC3DrCOyGXOj"
-        }
-      ],
-      "duration_ms": 219858,
-      "name": "Be with You Tonight",
-      "url": "https://open.spotify.com/track/2opgPV5Slxx13Cu9bIaArt"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1599,22 +1583,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Stick Together",
-        "url": "https://open.spotify.com/album/3UM11wSHVaIEZ7Hm54NdqX"
-      },
-      "artists": [
-        {
-          "name": "Re:um",
-          "url": "https://open.spotify.com/artist/6gLleDsNwfehG7vWuK2zQe"
-        }
-      ],
-      "duration_ms": 110062,
-      "name": "Stick Together",
-      "url": "https://open.spotify.com/track/33LqoBi8OFpACpwLUkNtA1"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "Colors (The Knocks Remix)",
         "url": "https://open.spotify.com/album/0g92mDVGfKe09Nmf1vBoMU"
       },
@@ -1631,6 +1599,38 @@
       "duration_ms": 252413,
       "name": "Colors - The Knocks Remix",
       "url": "https://open.spotify.com/track/6fQzphRU30nVU3B1gEs9EB"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Boys Don't Sob",
+        "url": "https://open.spotify.com/album/3ZFmah5FBGNwfXZx5y7N4J"
+      },
+      "artists": [
+        {
+          "name": "The Free Label",
+          "url": "https://open.spotify.com/artist/4YOL2g6AwphwsB1dOZZSOr"
+        }
+      ],
+      "duration_ms": 176017,
+      "name": "Boys Don't Sob",
+      "url": "https://open.spotify.com/track/2fkAbl3FCAj9BKc4Z5GIdr"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Stick Together",
+        "url": "https://open.spotify.com/album/3UM11wSHVaIEZ7Hm54NdqX"
+      },
+      "artists": [
+        {
+          "name": "Re:um",
+          "url": "https://open.spotify.com/artist/6gLleDsNwfehG7vWuK2zQe"
+        }
+      ],
+      "duration_ms": 110062,
+      "name": "Stick Together",
+      "url": "https://open.spotify.com/track/33LqoBi8OFpACpwLUkNtA1"
     },
     {
       "added_at": "2024-05-24 04:00:00",

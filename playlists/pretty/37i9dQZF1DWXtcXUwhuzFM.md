@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Viikon parhaat uutuusbiisit samassa paketissa\. Kannessa Turisti ja Sexmane.
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,589 likes - 112 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,597 likes - 112 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 | 22 | [Maailma on helpompi kohdata](https://open.spotify.com/track/12Ulqy5ait1Ng4E50Kiut1) | [Huhu](https://open.spotify.com/artist/7aRIdbrmTNfVtuLW8JPHCF) | [Maailma on helpompi kohdata](https://open.spotify.com/album/6Pc7ppXPuP0BuMhqwi9x39) | 3:24 |
 | 23 | [Silmät](https://open.spotify.com/track/2sGIaOwZrNl9muJrUgpXMi) | [Samuli Edelmann](https://open.spotify.com/artist/1Z6uN0tVLoKb8RIqHQzdSu) | [Silmät](https://open.spotify.com/album/5rlBKCbcNpZgX1Ywt6U2Ny) | 3:18 |
 | 24 | [YUP](https://open.spotify.com/track/32OrTPlNYIh6josA37kA4z) | [Adi L Hasla](https://open.spotify.com/artist/2Hnqmn6bAxVSYf70M2aSkk) | [YUP](https://open.spotify.com/album/11Lrdmk5AG4sBjUYf9u2Gg) | 2:28 |
-| 25 | [Push](https://open.spotify.com/track/29OFLlrrfKIEVwbVMTjBYe) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg), [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN), [Contra](https://open.spotify.com/artist/73BAwJ65pT6RvwR7JEkfEv), [OFFAIAH](https://open.spotify.com/artist/2E1NFr5AeEGUJkLUUsWCAO) | [Push](https://open.spotify.com/album/3GSEVlHrbrQbKSP4ozWzx8) | 3:05 |
+| 25 | [Push](https://open.spotify.com/track/29OFLlrrfKIEVwbVMTjBYe) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg), [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN), [contra](https://open.spotify.com/artist/5VYRcaryFLFZnA5HvnRHFi), [OFFAIAH](https://open.spotify.com/artist/2E1NFr5AeEGUJkLUUsWCAO) | [Push](https://open.spotify.com/album/3GSEVlHrbrQbKSP4ozWzx8) | 3:05 |
 | 26 | [Koko Suomi Menos Pahaks](https://open.spotify.com/track/4LJeedlTpWBJMlf3B3Juzy) | [ROBIN](https://open.spotify.com/artist/7irUub9i4hf8MO0hwUaxUM) | [Koko Suomi Menos Pahaks](https://open.spotify.com/album/6ElfPPUV5mhvWZeOXKAqJm) | 3:06 |
 | 27 | [Nice to Meet You](https://open.spotify.com/track/7sxb5C2mE0l5xfSL9M2hxQ) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Nice to Meet You](https://open.spotify.com/album/72DMNLy4QTiAK5hxjnV7GH) | 3:10 |
 | 28 | [I Was A Sailor](https://open.spotify.com/track/2qO4PvWDojlplbvSrCBUvF) | [Miike Snow](https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J) | [I Was A Sailor](https://open.spotify.com/album/2RPZ0G0ZFhbewbFhi6u4em) | 4:00 |

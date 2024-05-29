@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFENUZ3QCewVM.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0B8HeZBBeDVFkRnWhSTgTN">Delacey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 142 likes - 95 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 143 likes - 95 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFENUZ3QCewVM.md) - [plain]
 | 60 | [Better Judgement](https://open.spotify.com/track/0CjGCpqs4qBqZi7ibYyZLi) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Wish You Hell \- The 2nd Mini Album](https://open.spotify.com/album/3f8n88uX0tNvA8HTROgSkr) | 2:49 |
 | 61 | [Man On The Moon](https://open.spotify.com/track/4QT5MJy3tXY2A3K7J4BnyF) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [The Girl Has A Dream](https://open.spotify.com/album/0gTBH7DCc5DccWDhB97kR7) | 3:18 |
 | 62 | [Actress](https://open.spotify.com/track/0kwqLejJ6WRwV59LMlhYHK) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [Black Coffee](https://open.spotify.com/album/15KSMgDhmlgITLOdKEeK5q) | 2:56 |
-| 63 | [FEEL LOVE \(feat\. Delacey\)](https://open.spotify.com/track/60n2CwqknqYSbA14vvpTv3) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [TESTIFY](https://open.spotify.com/album/72QrPCGdsW94gJZvQY8ZFV) | 4:01 |
-| 64 | [Drive Baby](https://open.spotify.com/track/47ZM3AtJNRBS0TfV3uCq82) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb), [Valley Boy](https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD) | [HONEYMOONERS](https://open.spotify.com/album/6f72tk8GQHj4QxSirrSuaY) | 2:38 |
+| 63 | [Drive Baby](https://open.spotify.com/track/47ZM3AtJNRBS0TfV3uCq82) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb), [Valley Boy](https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD) | [HONEYMOONERS](https://open.spotify.com/album/6f72tk8GQHj4QxSirrSuaY) | 2:38 |
+| 64 | [FEEL LOVE \(feat\. Delacey\)](https://open.spotify.com/track/60n2CwqknqYSbA14vvpTv3) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [TESTIFY](https://open.spotify.com/album/72QrPCGdsW94gJZvQY8ZFV) | 4:01 |
 | 65 | [Naked](https://open.spotify.com/track/4Aol7GtOaV8EVkanxp1F6r) | [Emily Weisband](https://open.spotify.com/artist/1am9EW2QubqpkCbg29vu5n) | [Identity Crisis](https://open.spotify.com/album/3lbaOO0V8HmnSDcmd85QAw) | 3:24 |
 | 66 | [My Man \- Louis Bell Remix](https://open.spotify.com/track/6Lfyde0lFubconXN7c8WI6) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb), [Louis Bell](https://open.spotify.com/artist/0KhTK3BxneP2FPtlwyp1MK) | [My Man \(Louis Bell Remix\)](https://open.spotify.com/album/2w0c6pJt31vsn5kcce7JdN) | 2:48 |
 | 67 | [Force Of Nature](https://open.spotify.com/track/1RzePFMMipUOKyUoXgM1Lg) | [Soleima](https://open.spotify.com/artist/71le7jtjw9hq389Fnvi6XM) | [Powerslide \(Deluxe\)](https://open.spotify.com/album/5hJ7ytoXl9KIjn25N0GhYr) | 2:52 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFENUZ3QCewVM.md) - [plain]
 | 94 | [Everything You Need To Know About Me Today](https://open.spotify.com/track/08orqK26mwpW6sRFn7xpu3) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [The Girl Has A Dream](https://open.spotify.com/album/0gTBH7DCc5DccWDhB97kR7) | 7:43 |
 | 95 | [Playing House](https://open.spotify.com/track/3fRUCNwZ5mwpkknsocNW5Q) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [The Girl Has A Dream](https://open.spotify.com/album/0gTBH7DCc5DccWDhB97kR7) | 2:35 |
 
-Snapshot ID: `AbSfHAAAAADkquePt1N9xpLH2kiFw1ZI`
+Snapshot ID: `AbSkvAAAAAAG+vCzNyF3+/hRrrG/k2YA`

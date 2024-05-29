@@ -1099,6 +1099,28 @@
     },
     {
       "album": {
+        "name": "Journey Begins EP",
+        "url": "https://open.spotify.com/album/0JHy4itvS8jZMkYjWt2YRH"
+      },
+      "artists": [
+        {
+          "name": "Zero T",
+          "url": "https://open.spotify.com/artist/5PKeA9LeUfSjUhy1ja1lsg"
+        },
+        {
+          "name": "Onj",
+          "url": "https://open.spotify.com/artist/6jAVS3p3Z4R0qdUR09qfMK"
+        }
+      ],
+      "date_added": "2024-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270344,
+      "name": "Jazz Type Thing",
+      "url": "https://open.spotify.com/track/1c63LcXUsmIYpBUnYSw83J"
+    },
+    {
+      "album": {
         "name": "Gravity EP",
         "url": "https://open.spotify.com/album/6lciQeurzsMn9F6xq2JoKm"
       },

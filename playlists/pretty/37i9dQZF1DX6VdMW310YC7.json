@@ -1,6 +1,6 @@
 {
   "description": "Softer kinda <a href=\"spotify:genre:edm_dance\">dance</a>.",
-  "num_followers": 3887464,
+  "num_followers": 3887561,
   "original_name": "Chill Tracks",
   "owner": {
     "name": "Spotify",
@@ -659,22 +659,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Call my name",
-        "url": "https://open.spotify.com/album/7H88S76wmy2qFTX8TqM9we"
-      },
-      "artists": [
-        {
-          "name": "AVAION",
-          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
-        }
-      ],
-      "duration_ms": 174803,
-      "name": "Call my name",
-      "url": "https://open.spotify.com/track/1mPhj6VWS4BsLQumiXcQXG"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "Not Giving You Up",
         "url": "https://open.spotify.com/album/5V3TvHdleNDEhSIC4g7IFM"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 172939,
       "name": "Not Giving You Up",
       "url": "https://open.spotify.com/track/5s7KszYX1mfvpKA7XCMvfw"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Call my name",
+        "url": "https://open.spotify.com/album/7H88S76wmy2qFTX8TqM9we"
+      },
+      "artists": [
+        {
+          "name": "AVAION",
+          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
+        }
+      ],
+      "duration_ms": 174803,
+      "name": "Call my name",
+      "url": "https://open.spotify.com/track/1mPhj6VWS4BsLQumiXcQXG"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -895,22 +895,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Prism",
-        "url": "https://open.spotify.com/album/4UnseAiIFrd8FtLkB8YYfB"
-      },
-      "artists": [
-        {
-          "name": "Shingo Nakamura",
-          "url": "https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ"
-        }
-      ],
-      "duration_ms": 195250,
-      "name": "Prism",
-      "url": "https://open.spotify.com/track/4Mab2bqF9kXQwvKcoJRPbz"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "By Your Side",
         "url": "https://open.spotify.com/album/76KSQ3akvHhp39YWJAQsTx"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 250920,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/1FTrDODUS6bWx3eSCWu1Ym"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Prism",
+        "url": "https://open.spotify.com/album/4UnseAiIFrd8FtLkB8YYfB"
+      },
+      "artists": [
+        {
+          "name": "Shingo Nakamura",
+          "url": "https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ"
+        }
+      ],
+      "duration_ms": 195250,
+      "name": "Prism",
+      "url": "https://open.spotify.com/track/4Mab2bqF9kXQwvKcoJRPbz"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Waiting For The Sun",
-        "url": "https://open.spotify.com/album/2QO13M8Nm7NxP2D1fjTIa4"
-      },
-      "artists": [
-        {
-          "name": "Fritz Kalkbrenner",
-          "url": "https://open.spotify.com/artist/08Ut1tYxtmgIInVyQqohkM"
-        }
-      ],
-      "duration_ms": 222278,
-      "name": "Waiting For The Sun",
-      "url": "https://open.spotify.com/track/7uzFmJTvgHlDjXWeuM1t0l"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "When The Light Breaks",
         "url": "https://open.spotify.com/album/3M6HrQ6zlE9wwcVmLB5r2h"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 191557,
       "name": "Right Now",
       "url": "https://open.spotify.com/track/6dB3JYkDHYOIiEG3WpIjde"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Waiting For The Sun",
+        "url": "https://open.spotify.com/album/2QO13M8Nm7NxP2D1fjTIa4"
+      },
+      "artists": [
+        {
+          "name": "Fritz Kalkbrenner",
+          "url": "https://open.spotify.com/artist/08Ut1tYxtmgIInVyQqohkM"
+        }
+      ],
+      "duration_ms": 222278,
+      "name": "Waiting For The Sun",
+      "url": "https://open.spotify.com/track/7uzFmJTvgHlDjXWeuM1t0l"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1095,6 +1095,30 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
+        "name": "Loving Blind",
+        "url": "https://open.spotify.com/album/2XvypO5sCalte148ttpNPI"
+      },
+      "artists": [
+        {
+          "name": "Sam Wiseman",
+          "url": "https://open.spotify.com/artist/5bHmaSbFRcjgoZy7GWml47"
+        },
+        {
+          "name": "Idun Nicoline",
+          "url": "https://open.spotify.com/artist/72QjpaY1mSltWRHfWXGmMr"
+        },
+        {
+          "name": "ANDREWBATES",
+          "url": "https://open.spotify.com/artist/57okaNCSgssYD2PwiE0yQv"
+        }
+      ],
+      "duration_ms": 216926,
+      "name": "Loving Blind",
+      "url": "https://open.spotify.com/track/0ExkHA0DRWUHCUNVEdpabl"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
         "name": "Anywhere (Road Trippin')",
         "url": "https://open.spotify.com/album/40xJi5GEwSANMciM0RuwDA"
       },
@@ -1131,26 +1155,18 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Loving Blind",
-        "url": "https://open.spotify.com/album/2XvypO5sCalte148ttpNPI"
+        "name": "The Chase (Edit)",
+        "url": "https://open.spotify.com/album/56iwbPSWGAZk0V4ureAoBZ"
       },
       "artists": [
         {
-          "name": "Sam Wiseman",
-          "url": "https://open.spotify.com/artist/5bHmaSbFRcjgoZy7GWml47"
-        },
-        {
-          "name": "Idun Nicoline",
-          "url": "https://open.spotify.com/artist/72QjpaY1mSltWRHfWXGmMr"
-        },
-        {
-          "name": "ANDREWBATES",
-          "url": "https://open.spotify.com/artist/57okaNCSgssYD2PwiE0yQv"
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
         }
       ],
-      "duration_ms": 216926,
-      "name": "Loving Blind",
-      "url": "https://open.spotify.com/track/0ExkHA0DRWUHCUNVEdpabl"
+      "duration_ms": 170721,
+      "name": "The Chase (Edit)",
+      "url": "https://open.spotify.com/track/1vQ4ip1vF9VKRiBQjZ79n9"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1171,22 +1187,6 @@
       "duration_ms": 229484,
       "name": "Sunlight",
       "url": "https://open.spotify.com/track/595M3e9mqepEd19NGVEABi"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "The Chase (Edit)",
-        "url": "https://open.spotify.com/album/56iwbPSWGAZk0V4ureAoBZ"
-      },
-      "artists": [
-        {
-          "name": "Emmit Fenn",
-          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
-        }
-      ],
-      "duration_ms": 170721,
-      "name": "The Chase (Edit)",
-      "url": "https://open.spotify.com/track/1vQ4ip1vF9VKRiBQjZ79n9"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1307,6 +1307,26 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
+        "name": "Beautiful Life (Madism Remix)",
+        "url": "https://open.spotify.com/album/5ccbEPV2dA4TYUvs2yeo81"
+      },
+      "artists": [
+        {
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+        },
+        {
+          "name": "Madism",
+          "url": "https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv"
+        }
+      ],
+      "duration_ms": 175609,
+      "name": "Beautiful Life - Madism Remix",
+      "url": "https://open.spotify.com/track/1XNU5jds8sbv4pP7Ex8I4L"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
         "name": "This Is Love",
         "url": "https://open.spotify.com/album/4nfEXULziiv5H8KMJksixS"
       },
@@ -1351,26 +1371,6 @@
       "duration_ms": 220625,
       "name": "Hiding",
       "url": "https://open.spotify.com/track/3hcAYNfSHm1opoJ1Jhkrch"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "Beautiful Life (Madism Remix)",
-        "url": "https://open.spotify.com/album/5ccbEPV2dA4TYUvs2yeo81"
-      },
-      "artists": [
-        {
-          "name": "Emmit Fenn",
-          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
-        },
-        {
-          "name": "Madism",
-          "url": "https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv"
-        }
-      ],
-      "duration_ms": 175609,
-      "name": "Beautiful Life - Madism Remix",
-      "url": "https://open.spotify.com/track/1XNU5jds8sbv4pP7Ex8I4L"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1455,6 +1455,22 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
+        "name": "It's Ok It's Alright",
+        "url": "https://open.spotify.com/album/2ovRBF21M5o6ixVXp1Rt0h"
+      },
+      "artists": [
+        {
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+        }
+      ],
+      "duration_ms": 243934,
+      "name": "It's Ok It's Alright",
+      "url": "https://open.spotify.com/track/2m6Q1VvahMAzTJxw6350Ow"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
         "name": "Hush Hush",
         "url": "https://open.spotify.com/album/3jkBwDVX1UXdLclMHJsAAX"
       },
@@ -1475,22 +1491,6 @@
       "duration_ms": 168000,
       "name": "Hush Hush",
       "url": "https://open.spotify.com/track/4Rz0P4dIS3gLBoPKhzNxXa"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "It's Ok It's Alright",
-        "url": "https://open.spotify.com/album/2ovRBF21M5o6ixVXp1Rt0h"
-      },
-      "artists": [
-        {
-          "name": "Emmit Fenn",
-          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
-        }
-      ],
-      "duration_ms": 243934,
-      "name": "It's Ok It's Alright",
-      "url": "https://open.spotify.com/track/2m6Q1VvahMAzTJxw6350Ow"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "iwaly",
-        "url": "https://open.spotify.com/album/5t9ZFc1WA70vNHvAGGoHVC"
-      },
-      "artists": [
-        {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
-        }
-      ],
-      "duration_ms": 201866,
-      "name": "iwaly",
-      "url": "https://open.spotify.com/track/1wuddURoG5BWfgOIFEzVRQ"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "Paradise",
         "url": "https://open.spotify.com/album/03JjqwDRiH4zqkIwyUTxKo"
       },
@@ -1759,18 +1743,18 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Resen\u00e4ren",
-        "url": "https://open.spotify.com/album/4ooplbpUcmkYThvwnMLj0Q"
+        "name": "iwaly",
+        "url": "https://open.spotify.com/album/5t9ZFc1WA70vNHvAGGoHVC"
       },
       "artists": [
         {
-          "name": "Kasbo",
-          "url": "https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq"
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
         }
       ],
-      "duration_ms": 422374,
-      "name": "Resen\u00e4ren",
-      "url": "https://open.spotify.com/track/5fwSydkuyJTqAhrPfvM5wr"
+      "duration_ms": 201866,
+      "name": "iwaly",
+      "url": "https://open.spotify.com/track/1wuddURoG5BWfgOIFEzVRQ"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1795,6 +1779,22 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/0rVLC0oJ2EfwbrGETFixBc"
+      },
+      "artists": [
+        {
+          "name": "Luttrell",
+          "url": "https://open.spotify.com/artist/4EOyJnoiiOJ4vuNhSBArB2"
+        }
+      ],
+      "duration_ms": 267860,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/2yGcuM8Nb3UeE3sphPzKml"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
         "name": "Portals",
         "url": "https://open.spotify.com/album/5adnCfF1eUOhEnx5F5DAqW"
       },
@@ -1815,18 +1815,18 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Sunshine",
-        "url": "https://open.spotify.com/album/0rVLC0oJ2EfwbrGETFixBc"
+        "name": "Resen\u00e4ren",
+        "url": "https://open.spotify.com/album/4ooplbpUcmkYThvwnMLj0Q"
       },
       "artists": [
         {
-          "name": "Luttrell",
-          "url": "https://open.spotify.com/artist/4EOyJnoiiOJ4vuNhSBArB2"
+          "name": "Kasbo",
+          "url": "https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq"
         }
       ],
-      "duration_ms": 267860,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/2yGcuM8Nb3UeE3sphPzKml"
+      "duration_ms": 422374,
+      "name": "Resen\u00e4ren",
+      "url": "https://open.spotify.com/track/5fwSydkuyJTqAhrPfvM5wr"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1895,6 +1895,26 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
+        "name": "U REALLY HURT ME",
+        "url": "https://open.spotify.com/album/0sEsTyGtFhgTWxwIofbeC5"
+      },
+      "artists": [
+        {
+          "name": "Mild Minds",
+          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
+        },
+        {
+          "name": "LUV HRTS",
+          "url": "https://open.spotify.com/artist/4CCmq3kObiwqiUOn7dOww8"
+        }
+      ],
+      "duration_ms": 162406,
+      "name": "U REALLY HURT ME",
+      "url": "https://open.spotify.com/track/1g6CSA2mlxKShnuNbUsLmy"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
         "name": "Feel You In Love",
         "url": "https://open.spotify.com/album/0FO0x3qrzxMlsZqRNFYooN"
       },
@@ -1927,22 +1947,6 @@
       "duration_ms": 341409,
       "name": "Burnin'",
       "url": "https://open.spotify.com/track/2OwotsG0NuhOapwalJtqMV"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "Miracles",
-        "url": "https://open.spotify.com/album/6zkjYpTdFBcRz5m4Ui8tsy"
-      },
-      "artists": [
-        {
-          "name": "CRi",
-          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
-        }
-      ],
-      "duration_ms": 269249,
-      "name": "Gemini",
-      "url": "https://open.spotify.com/track/045XVRhD2NCR8LtNVR1Yqh"
     }
   ],
   "unique_name": "Chill Tracks",

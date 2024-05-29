@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-17",
-  "description": "Para cantar y recordar. Conmemorando la vida de Diomedes D\u00edaz este 22 de Diciembre.",
+  "description": "Para cantar y recordar.",
   "name": "Cl\u00e1sicos del Vallenato",
   "tracks": [
     {
@@ -140,7 +140,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-29",
       "duration_ms": 259213,
       "name": "Acomp\u00e1\u00f1ame",
       "url": "https://open.spotify.com/track/0tnDIj9A0q9ovSoUPdIklZ"
@@ -1907,6 +1907,24 @@
     },
     {
       "album": {
+        "name": "30 Mejores: Binomio de Oro de Am\u00e9rica",
+        "url": "https://open.spotify.com/album/1aHXwZk5TZGIxmELnmrFyq"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        }
+      ],
+      "date_added": "2024-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261226,
+      "name": "Manantial de Amor",
+      "url": "https://open.spotify.com/track/74QAvbvgkM9yjyV0beRPMN"
+    },
+    {
+      "album": {
         "name": "Seguimos Por Lo Alto",
         "url": "https://open.spotify.com/album/5XNXhNFKS5oCCcVWKKKzR0"
       },
@@ -2096,6 +2114,24 @@
       "duration_ms": 286026,
       "name": "Mi Diosa Humana",
       "url": "https://open.spotify.com/track/1TdS58WrPL19Mtk8iOq529"
+    },
+    {
+      "album": {
+        "name": "Por Siempre",
+        "url": "https://open.spotify.com/album/5lzjNaRHLgxs4Q5IgLlH3B"
+      },
+      "artists": [
+        {
+          "name": "Los inquietos del vallenato",
+          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
+        }
+      ],
+      "date_added": "2024-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306040,
+      "name": "Mi Dulce Amor",
+      "url": "https://open.spotify.com/track/57rekXZeqI5FEQ9sfJAJvX"
     },
     {
       "album": {
@@ -2458,7 +2494,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-29",
       "duration_ms": 300346,
       "name": "Nunca Niegues Que Te Amo",
       "url": "https://open.spotify.com/track/5vNt4MQT5u3QPH47pwLwqS"
@@ -2921,6 +2957,28 @@
     },
     {
       "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/4xjVnNwDXWCPv9dsH6oITz"
+      },
+      "artists": [
+        {
+          "name": "Diomedes Diaz",
+          "url": "https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG"
+        },
+        {
+          "name": "El Cocha Molina",
+          "url": "https://open.spotify.com/artist/3mGBnso9JtXG8OeNT7fqMs"
+        }
+      ],
+      "date_added": "2024-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298706,
+      "name": "Sin Medir Distancias",
+      "url": "https://open.spotify.com/track/1p3kQIzyl2NKeJ45uDQw4G"
+    },
+    {
+      "album": {
         "name": "Brindo Con El Alma",
         "url": "https://open.spotify.com/album/5sKPvJKVhhhYBPhs6kxbjM"
       },
@@ -2936,7 +2994,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-29",
       "duration_ms": 300760,
       "name": "Sin Medir Distancias",
       "url": "https://open.spotify.com/track/6OIvXRQYGEhmvLjcYNcV4n"

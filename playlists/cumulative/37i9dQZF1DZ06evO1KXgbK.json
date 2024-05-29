@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-03-10",
-  "description": "This Is Dolly Parton. Los temas esenciales, todos en una lista.",
+  "description": "This is Dolly Parton. The essential tracks, all in one playlist.",
   "name": "This Is Dolly Parton",
   "tracks": [
     {
@@ -448,7 +448,7 @@
       ],
       "date_added": "2024-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-28",
+      "date_removed": null,
       "duration_ms": 249360,
       "name": "Islands in the Stream",
       "url": "https://open.spotify.com/track/4mnOVRRXsaqg9Nb041xR8u"
@@ -1174,7 +1174,7 @@
       ],
       "date_added": "2024-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-29",
       "duration_ms": 191928,
       "name": "Words",
       "url": "https://open.spotify.com/track/733sNPL4OMX4iN8DE6p2RH"

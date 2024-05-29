@@ -1,12 +1,12 @@
 {
   "description": "This is Carin Leon. The essential tracks, all in one playlist.",
-  "num_followers": 879290,
+  "num_followers": 879789,
   "original_name": "This Is Carin Leon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlJ7gAAAAADEpmN+vBgsyE53Yhdv/EHe",
+  "snapshot_id": "ZlPNAAAAAADjahY4rrVrxDGu3k8CYkzF",
   "tracks": [
     {
       "added_at": null,
@@ -659,26 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Como Duele Equivocarse",
-        "url": "https://open.spotify.com/album/1PnZI2OsZUT1fWvl8pGyOL"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        },
-        {
-          "name": "Espinoza Paz",
-          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
-        }
-      ],
-      "duration_ms": 227044,
-      "name": "Como Duele Equivocarse",
-      "url": "https://open.spotify.com/track/7ItDaXyhJJog7ZZJXTMOwf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The One (Pero No Como Yo)",
         "url": "https://open.spotify.com/album/5kz3yJ6kdxXHY2BIW5Ldz1"
       },
@@ -695,6 +675,26 @@
       "duration_ms": 176800,
       "name": "The One (Pero No Como Yo)",
       "url": "https://open.spotify.com/track/4IXn21cwFxilAD7SxfeYCN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Como Duele Equivocarse",
+        "url": "https://open.spotify.com/album/1PnZI2OsZUT1fWvl8pGyOL"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Espinoza Paz",
+          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
+        }
+      ],
+      "duration_ms": 227044,
+      "name": "Como Duele Equivocarse",
+      "url": "https://open.spotify.com/track/7ItDaXyhJJog7ZZJXTMOwf"
     },
     {
       "added_at": null,
@@ -731,6 +731,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "UVV Vol. 8 (En Vivo)",
+        "url": "https://open.spotify.com/album/270yHmtmUVaxF0nSm1J21K"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 281363,
+      "name": "Entregame Tu Amor (En Vivo)",
+      "url": "https://open.spotify.com/track/1lqFHuu7RlnccwOMMpL0oB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Existo",
         "url": "https://open.spotify.com/album/0aBkLzScGffWKy1Gz0qHwJ"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 175355,
       "name": "Existo",
       "url": "https://open.spotify.com/track/7ITHQze4eUbzMRJyi40dLN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "UVV Vol. 8 (En Vivo)",
-        "url": "https://open.spotify.com/album/270yHmtmUVaxF0nSm1J21K"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 281363,
-      "name": "Entregame Tu Amor (En Vivo)",
-      "url": "https://open.spotify.com/track/1lqFHuu7RlnccwOMMpL0oB"
     },
     {
       "added_at": null,

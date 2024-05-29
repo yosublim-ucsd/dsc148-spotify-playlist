@@ -38,6 +38,24 @@
       "duration_ms": 228854,
       "name": "Sometimes",
       "url": "https://open.spotify.com/track/6oLgJATx3ECZ7Pcghmz38L"
+    },
+    {
+      "album": {
+        "name": "Steal Smoked Fish / In the Shadow of the Western Hills",
+        "url": "https://open.spotify.com/album/6MufqmhgbIO7CezOM60xyc"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "date_added": "2024-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193133,
+      "name": "Steal Smoked Fish",
+      "url": "https://open.spotify.com/track/7xXd5Bo7QC0G2M9fn1QWEI"
     }
   ],
   "url": "https://open.spotify.com/playlist/7crJ5uSmBor0rdpWunSnfj"

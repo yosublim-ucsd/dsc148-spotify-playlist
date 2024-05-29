@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "Amar\u00edssima",
+        "url": "https://open.spotify.com/album/73nud0IihzSauCk6AfYbLN"
+      },
+      "artists": [
+        {
+          "name": "Melly",
+          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
+        },
+        {
+          "name": "Liniker",
+          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
+        }
+      ],
+      "date_added": "2024-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "10 Minutos",
+      "url": "https://open.spotify.com/track/7exzjXAlIdaZN72iALsc5W"
+    },
+    {
+      "album": {
         "name": "Aeroporto",
         "url": "https://open.spotify.com/album/5Iz6x9d8U6UNsM4T7wfQzq"
       },
@@ -170,6 +192,24 @@
       "duration_ms": 125217,
       "name": "Brincava de Amar",
       "url": "https://open.spotify.com/track/2l2FbvWn2uathty65JcJCD"
+    },
+    {
+      "album": {
+        "name": "Amar\u00edssima",
+        "url": "https://open.spotify.com/album/73nud0IihzSauCk6AfYbLN"
+      },
+      "artists": [
+        {
+          "name": "Melly",
+          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
+        }
+      ],
+      "date_added": "2024-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178548,
+      "name": "Bye Bye",
+      "url": "https://open.spotify.com/track/0M8S97mIFkU6azMy1TGkmJ"
     },
     {
       "album": {
@@ -1096,7 +1136,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-29",
       "duration_ms": 160024,
       "name": "n \u00e9 vc, sou eu",
       "url": "https://open.spotify.com/track/2Q4G9vjRYdgy4zxgHMGc23"
@@ -1136,7 +1176,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-29",
       "duration_ms": 231893,
       "name": "Noite Sem Fim",
       "url": "https://open.spotify.com/track/6hiFqmAtkWXIDuqDUfm8yI"

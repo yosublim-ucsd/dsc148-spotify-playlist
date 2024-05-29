@@ -1,6 +1,6 @@
 {
   "description": "Cherish the day with these low-key favorites.",
-  "num_followers": 352177,
+  "num_followers": 352234,
   "original_name": "Easy Acoustic",
   "owner": {
     "name": "Spotify",
@@ -371,22 +371,6 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "Long Blue Light",
-        "url": "https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei"
-      },
-      "artists": [
-        {
-          "name": "Leif Vollebekk",
-          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
-        }
-      ],
-      "duration_ms": 200173,
-      "name": "Long Blue Light",
-      "url": "https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
         "name": "Issues (Acoustic)",
         "url": "https://open.spotify.com/album/3VJx9QYw43oSfSBaHCUXYC"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 175280,
       "name": "Issues - Acoustic",
       "url": "https://open.spotify.com/track/4TqiKcUUvK7y6x6JG5NpJX"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Long Blue Light",
+        "url": "https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei"
+      },
+      "artists": [
+        {
+          "name": "Leif Vollebekk",
+          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
+        }
+      ],
+      "duration_ms": 200173,
+      "name": "Long Blue Light",
+      "url": "https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "Cadence",
-        "url": "https://open.spotify.com/album/6RE3b8CiVLvoTevcGDD86t"
-      },
-      "artists": [
-        {
-          "name": "Oshima Brothers",
-          "url": "https://open.spotify.com/artist/349lepk5mVwAKROMAP13Mg"
-        }
-      ],
-      "duration_ms": 187380,
-      "name": "Cadence",
-      "url": "https://open.spotify.com/track/43EsfSbvXy1560sQkTdHn3"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3VfqKMnjoIsXjBdbKRpGWu"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 178240,
       "name": "New Paint - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/31VTJ3Bj2qQC6FzLht4Faz"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Cadence",
+        "url": "https://open.spotify.com/album/6RE3b8CiVLvoTevcGDD86t"
+      },
+      "artists": [
+        {
+          "name": "Oshima Brothers",
+          "url": "https://open.spotify.com/artist/349lepk5mVwAKROMAP13Mg"
+        }
+      ],
+      "duration_ms": 187380,
+      "name": "Cadence",
+      "url": "https://open.spotify.com/track/43EsfSbvXy1560sQkTdHn3"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
+        "name": "Gathering",
+        "url": "https://open.spotify.com/album/6HHnPXXmJBzlsQE4ieQxYi"
+      },
+      "artists": [
+        {
+          "name": "Josh Ritter",
+          "url": "https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo"
+        }
+      ],
+      "duration_ms": 182520,
+      "name": "Feels Like Lightning",
+      "url": "https://open.spotify.com/track/5TGbpdNpZzI4oK95QWWdyh"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
         "name": "Worry No More (Acoustic)",
         "url": "https://open.spotify.com/album/69EIfIPCXnX3ddxn1nPDZO"
       },
@@ -1263,22 +1279,6 @@
       "duration_ms": 273150,
       "name": "Plain Letters - Reimagined",
       "url": "https://open.spotify.com/track/7LfTX8haVHsWco3kaoHqot"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
-        "name": "Gathering",
-        "url": "https://open.spotify.com/album/6HHnPXXmJBzlsQE4ieQxYi"
-      },
-      "artists": [
-        {
-          "name": "Josh Ritter",
-          "url": "https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo"
-        }
-      ],
-      "duration_ms": 182520,
-      "name": "Feels Like Lightning",
-      "url": "https://open.spotify.com/track/5TGbpdNpZzI4oK95QWWdyh"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -1347,18 +1347,18 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "Low",
-        "url": "https://open.spotify.com/album/32iKyO3jcmkBhyo5oI3sK0"
+        "name": "Down and Out in the Garden of Earthly Delights",
+        "url": "https://open.spotify.com/album/7JQc4yfzKlnznKY4glZXkY"
       },
       "artists": [
         {
-          "name": "Angel Snow",
-          "url": "https://open.spotify.com/artist/4awtkia1cywuwJ2OrxNw6j"
+          "name": "Geographer",
+          "url": "https://open.spotify.com/artist/5vvvgOwPjA4R5t07ZXLLwZ"
         }
       ],
-      "duration_ms": 206709,
-      "name": "Low (Acoustic)",
-      "url": "https://open.spotify.com/track/22wL5mqVkDtXd6OMT6ojgX"
+      "duration_ms": 141302,
+      "name": "Lost in a Love Song",
+      "url": "https://open.spotify.com/track/5o985l6Hc9GzkOx3gyF0Me"
     }
   ],
   "unique_name": "Easy Acoustic",

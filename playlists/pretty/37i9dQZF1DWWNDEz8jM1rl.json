@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Vamos a bailar con Dios!",
-  "num_followers": 123402,
+  "num_followers": 123411,
   "original_name": "Baila Con Dios",
   "owner": {
     "name": "Spotify",
@@ -739,6 +739,22 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
+        "name": "David Y Abraham \"La Historia\"",
+        "url": "https://open.spotify.com/album/4E5MZ12SqOgFZKmXJ89HGD"
+      },
+      "artists": [
+        {
+          "name": "David Y Abraham",
+          "url": "https://open.spotify.com/artist/03bSnfVbCWNrwj4UfHzoc4"
+        }
+      ],
+      "duration_ms": 359000,
+      "name": "El Esta Aqu\u00ed",
+      "url": "https://open.spotify.com/track/2sv3oEXRj7p0GeiMWC6rCY"
+    },
+    {
+      "added_at": "2020-09-18 05:02:00",
+      "album": {
         "name": "Que Tire La Piedra",
         "url": "https://open.spotify.com/album/6jdyy17GVJ05cbVGoMk7bO"
       },
@@ -803,22 +819,6 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
-        "name": "David Y Abraham \"La Historia\"",
-        "url": "https://open.spotify.com/album/4E5MZ12SqOgFZKmXJ89HGD"
-      },
-      "artists": [
-        {
-          "name": "David Y Abraham",
-          "url": "https://open.spotify.com/artist/03bSnfVbCWNrwj4UfHzoc4"
-        }
-      ],
-      "duration_ms": 359000,
-      "name": "El Esta Aqu\u00ed",
-      "url": "https://open.spotify.com/track/2sv3oEXRj7p0GeiMWC6rCY"
-    },
-    {
-      "added_at": "2020-09-18 05:02:00",
-      "album": {
         "name": "Party Love",
         "url": "https://open.spotify.com/album/29wQaEDDwOEyghp030mgtm"
       },
@@ -863,18 +863,18 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
-        "name": "Indescriptible",
-        "url": "https://open.spotify.com/album/0BAz7xyzoBO06NKRZgyHBo"
+        "name": "Que Tire La Piedra",
+        "url": "https://open.spotify.com/album/6jdyy17GVJ05cbVGoMk7bO"
       },
       "artists": [
         {
-          "name": "Lizzie Lizzie",
-          "url": "https://open.spotify.com/artist/6OdBKw16BHAQn7ejfIPb8x"
+          "name": "Tony Vega",
+          "url": "https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY"
         }
       ],
-      "duration_ms": 247353,
-      "name": "Unico Version Merengue",
-      "url": "https://open.spotify.com/track/5hjwG4B2dUJzIiiDbNvsGp"
+      "duration_ms": 264533,
+      "name": "Que Tire La Piedra",
+      "url": "https://open.spotify.com/track/4Cl8Au15K9n0jEMBeFiI22"
     }
   ],
   "unique_name": "Baila Con Dios",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The newest hip\-hop, refreshed weekly\. Cover: Cash Cobain & J\. Cole
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,548 likes - 49 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,561 likes - 49 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 34 | [Kobe](https://open.spotify.com/track/44f0jZFyieEWipJurt4uKc) | [Burna Bandz](https://open.spotify.com/artist/6wyGyjn9ixZDXBwcapqapJ) | [Kobe](https://open.spotify.com/album/1efqKIssFx13CegKQxXUjP) | 2:43 |
 | 35 | [FTCU \(feat\. Travis Scott, Chris Brown & Sexyy Red\) \- SLEEZEMIX](https://open.spotify.com/track/2oTFuT1tKLHlTJsnBSJJiN) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [FTCU \(SLEEZEMIX\)](https://open.spotify.com/album/71bR0ikZ38YGg6RDwhYiU2) | 3:59 |
 | 36 | [NANi](https://open.spotify.com/track/6utUO9goGEtilKe2tmfNJH) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [NANi](https://open.spotify.com/album/5L1hH3Wj0WenhPzJaQa4Sc) | 2:34 |
-| 37 | [NOTT](https://open.spotify.com/track/69zAjL2CE6gUO9DaHNjK8c) | [Hitkidd](https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5), [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC) | [NOTT](https://open.spotify.com/album/6DMRH8HHK7eKqz47CXCPbo) | 3:02 |
+| 37 | [NOTT](https://open.spotify.com/track/69zAjL2CE6gUO9DaHNjK8c) | [Hitkidd](https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5), [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC) | [NOTT](https://open.spotify.com/album/6DMRH8HHK7eKqz47CXCPbo) | 3:01 |
 | 38 | [Spotlight \(feat\. Lil Durk\)](https://open.spotify.com/track/682dfMiaVwVHCF8YfnxdiQ) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Better Off Alone](https://open.spotify.com/album/0tvOiqQkHp6bqYzzPfPc4B) | 2:58 |
 | 39 | [Hard To See](https://open.spotify.com/track/43MPwMnVPoGj3AIItvxdRl) | [Swavy](https://open.spotify.com/artist/6CHTgEfOTvm5flR5Cpzw0I) | [Hard To See](https://open.spotify.com/album/0RkVJHDQpePIHNuViSKQpI) | 2:57 |
 | 40 | [Crocodile Tearz](https://open.spotify.com/track/1yfKakY4rvI17lk20ekuRA) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Might Delete Later](https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3) | 3:49 |

@@ -520,7 +520,7 @@
       ],
       "date_added": "2021-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-29",
       "duration_ms": 363206,
       "name": "Erfaa Rasak",
       "url": "https://open.spotify.com/track/5tAwQ2wGF88d8zuliokaxo"
@@ -828,6 +828,24 @@
       "duration_ms": 275017,
       "name": "Hold Your Ground",
       "url": "https://open.spotify.com/track/0KmiXlCv8005j9o340PW4e"
+    },
+    {
+      "album": {
+        "name": "Ibn Gaza",
+        "url": "https://open.spotify.com/album/3Rp6oJKIE5zQrMptdWzrgh"
+      },
+      "artists": [
+        {
+          "name": "Laith Abu Joda",
+          "url": "https://open.spotify.com/artist/409IHz2Yvi1kdUmrjein3m"
+        }
+      ],
+      "date_added": "2024-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81374,
+      "name": "Ibn Gaza",
+      "url": "https://open.spotify.com/track/4QCpIFfyrpHuIICOGYpN2J"
     },
     {
       "album": {

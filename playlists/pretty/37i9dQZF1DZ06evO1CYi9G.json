@@ -1,12 +1,12 @@
 {
   "description": "This is Mudvayne. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 54581,
+  "num_followers": 54603,
   "original_name": "This Is Mudvayne",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlJ7gAAAAACIPrj83BPPKYQQ2AKlh97Y",
+  "snapshot_id": "ZlPNAAAAAAD2RA/UvF5Zyuy0CEUzmvwW",
   "tracks": [
     {
       "added_at": null,
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM"
         }
       ],
-      "duration_ms": 303600,
-      "name": "Coal",
-      "url": "https://open.spotify.com/track/5s19JphuCWGQvB746yYrW4"
+      "duration_ms": 196866,
+      "name": "Central Disposal",
+      "url": "https://open.spotify.com/track/2NUeBUhxW4dmreJbHce5Ws"
     },
     {
       "added_at": null,
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM"
         }
       ],
-      "duration_ms": 196866,
-      "name": "Central Disposal",
-      "url": "https://open.spotify.com/track/2NUeBUhxW4dmreJbHce5Ws"
+      "duration_ms": 303600,
+      "name": "Coal",
+      "url": "https://open.spotify.com/track/5s19JphuCWGQvB746yYrW4"
     },
     {
       "added_at": null,

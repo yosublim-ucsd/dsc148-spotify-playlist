@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/0M3835ZhNd7uZxTuhdEdTe.md) - [plain]
 | 24 | [Love You Anymore](https://open.spotify.com/track/3xqH118fPBLnoBye2eAYZo) | [Devin Kennedy](https://open.spotify.com/artist/6xRlQCMpg8bmkHlluqDF7Z) | [Love You Anymore](https://open.spotify.com/album/2NeuBwLqFk95BS328OPKfD) | 2:56 |
 | 25 | [quality time](https://open.spotify.com/track/59wmLKr2BtovV9SHfdFJDG) | [mj apanay](https://open.spotify.com/artist/2pZ83NwGQGiWxC3qJSTPBE) | [pov: ur love language is quality time](https://open.spotify.com/album/5FM2C35Aw7bhOpBIeOitHg) | 2:18 |
 
-Snapshot ID: `AAAAIJEO59jFIzU4SA5ya4OQb3H68BA7`
+Snapshot ID: `AAAAIYaDXF8+1lNSsIJ4DIv64dkJmRVg`

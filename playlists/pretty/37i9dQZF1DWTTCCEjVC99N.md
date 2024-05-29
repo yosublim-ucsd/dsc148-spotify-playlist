@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTCCEjVC99N.md) - [plain](/playlists/plain/37i9dQZF1DWTTCCEjVC99N) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTTCCEjVC99N)
 
-### [00s Arabic Hits](https://open.spotify.com/playlist/37i9dQZF1DWTTCCEjVC99N)
+### [All Out Arabic 00's](https://open.spotify.com/playlist/37i9dQZF1DWTTCCEjVC99N)
 
 > The biggest Arabic songs in the 2000's\. Cover: Nancy Ajram
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,192 likes - 104 songs - 7 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,347 likes - 104 songs - 7 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTCCEjVC99N.md) - [plain]
 | 103 | [ياعيبو](https://open.spotify.com/track/5dO1DVK8yI01YNzfeBfEKT) | [Diana Haddad](https://open.spotify.com/artist/6EtB4NuwPezzxaGqHHU7C2) | [ياعيبو](https://open.spotify.com/album/7CebL91fa4J3Vx86Z20h88) | 3:42 |
 | 104 | [El Hawa Sultan](https://open.spotify.com/track/6bXIVmNvDjvVA0CzNGzCf7) | [George Wassouf](https://open.spotify.com/artist/7Ddov9nbJDbpgzvBVb7cU1) | [El Hawa Sultan Rare Recordings](https://open.spotify.com/album/4nYGZNrAnVp5Wk0bRLd6Cm) | 7:02 |
 
-Snapshot ID: `ZkXKrAAAAAABYOxaKGfAUYNxChFBomdL`
+Snapshot ID: `ZlZLBQAAAADuvGaAgbpexACmrCvMxsad`

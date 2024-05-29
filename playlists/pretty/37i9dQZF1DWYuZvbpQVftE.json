@@ -1,6 +1,6 @@
 {
   "description": "The cool sound of West coast Jazz. Cover: Gerry Mulligan",
-  "num_followers": 26185,
+  "num_followers": 26202,
   "original_name": "West Coast Jazz",
   "owner": {
     "name": "Spotify",
@@ -27,6 +27,22 @@
     {
       "added_at": "2024-03-20 14:55:42",
       "album": {
+        "name": "Time Out",
+        "url": "https://open.spotify.com/album/0nTTEAhCZsbbeplyDMIFuA"
+      },
+      "artists": [
+        {
+          "name": "The Dave Brubeck Quartet",
+          "url": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
+        }
+      ],
+      "duration_ms": 323866,
+      "name": "Three to Get Ready",
+      "url": "https://open.spotify.com/track/3k5O0RKO6zEqu9JJ7JqxDX"
+    },
+    {
+      "added_at": "2024-03-20 14:55:42",
+      "album": {
         "name": "Hamp & Getz",
         "url": "https://open.spotify.com/album/7oa9WZyBnEHR8o0vjRWI7o"
       },
@@ -43,22 +59,6 @@
       "duration_ms": 407800,
       "name": "Louise",
       "url": "https://open.spotify.com/track/4z1E9GltZHciLum0ybby9h"
-    },
-    {
-      "added_at": "2024-03-20 14:55:42",
-      "album": {
-        "name": "Time Out",
-        "url": "https://open.spotify.com/album/0nTTEAhCZsbbeplyDMIFuA"
-      },
-      "artists": [
-        {
-          "name": "The Dave Brubeck Quartet",
-          "url": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
-        }
-      ],
-      "duration_ms": 323866,
-      "name": "Three to Get Ready",
-      "url": "https://open.spotify.com/track/3k5O0RKO6zEqu9JJ7JqxDX"
     },
     {
       "added_at": "2024-03-20 14:55:42",
@@ -115,22 +115,6 @@
     {
       "added_at": "2024-03-20 14:55:42",
       "album": {
-        "name": "Chet is Back",
-        "url": "https://open.spotify.com/album/7BsY0CO8mqyXnLf4KiB5AM"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 235133,
-      "name": "Chetty's Lullaby",
-      "url": "https://open.spotify.com/track/3CfVHLrRxTLDqGZA25w5Eh"
-    },
-    {
-      "added_at": "2024-03-20 14:55:42",
-      "album": {
         "name": "Time Out",
         "url": "https://open.spotify.com/album/0nTTEAhCZsbbeplyDMIFuA"
       },
@@ -163,6 +147,22 @@
       "duration_ms": 446066,
       "name": "It Could Happen To You",
       "url": "https://open.spotify.com/track/10fMVCkTiTE1sLvd5ypZTD"
+    },
+    {
+      "added_at": "2024-03-20 14:55:42",
+      "album": {
+        "name": "Chet is Back",
+        "url": "https://open.spotify.com/album/7BsY0CO8mqyXnLf4KiB5AM"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 235133,
+      "name": "Chetty's Lullaby",
+      "url": "https://open.spotify.com/track/3CfVHLrRxTLDqGZA25w5Eh"
     },
     {
       "added_at": "2024-03-20 14:55:42",
@@ -223,6 +223,22 @@
     {
       "added_at": "2024-03-20 14:55:42",
       "album": {
+        "name": "Time Further Out",
+        "url": "https://open.spotify.com/album/0eMXd1VtCXCkuGWn9JjRDT"
+      },
+      "artists": [
+        {
+          "name": "The Dave Brubeck Quartet",
+          "url": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
+        }
+      ],
+      "duration_ms": 277706,
+      "name": "Far More Blue",
+      "url": "https://open.spotify.com/track/2djpFaL4yqTH3fvDKijsMv"
+    },
+    {
+      "added_at": "2024-03-20 14:55:42",
+      "album": {
         "name": "My Fair Lady",
         "url": "https://open.spotify.com/album/0HyyWDSM4mZcnkHIXo6oza"
       },
@@ -235,22 +251,6 @@
       "duration_ms": 338773,
       "name": "On The Street Where You Live - Instrumental",
       "url": "https://open.spotify.com/track/5kvgi3kVbX8AQ8kjpgEyuv"
-    },
-    {
-      "added_at": "2024-03-20 14:55:42",
-      "album": {
-        "name": "The Latin Side Of Vince Guaraldi",
-        "url": "https://open.spotify.com/album/6pyKEXTSWmqvSGGg7Hc1t4"
-      },
-      "artists": [
-        {
-          "name": "Vince Guaraldi",
-          "url": "https://open.spotify.com/artist/7gXUrN8vgmVhKVCkw9pavV"
-        }
-      ],
-      "duration_ms": 216440,
-      "name": "Star Song",
-      "url": "https://open.spotify.com/track/2JRsstA67i53C1GQiIdUUd"
     },
     {
       "added_at": "2024-03-20 14:55:42",
@@ -271,50 +271,18 @@
     {
       "added_at": "2024-03-20 14:55:42",
       "album": {
-        "name": "Time Further Out",
-        "url": "https://open.spotify.com/album/0eMXd1VtCXCkuGWn9JjRDT"
+        "name": "The Latin Side Of Vince Guaraldi",
+        "url": "https://open.spotify.com/album/6pyKEXTSWmqvSGGg7Hc1t4"
       },
       "artists": [
         {
-          "name": "The Dave Brubeck Quartet",
-          "url": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
+          "name": "Vince Guaraldi",
+          "url": "https://open.spotify.com/artist/7gXUrN8vgmVhKVCkw9pavV"
         }
       ],
-      "duration_ms": 277706,
-      "name": "Far More Blue",
-      "url": "https://open.spotify.com/track/2djpFaL4yqTH3fvDKijsMv"
-    },
-    {
-      "added_at": "2024-03-20 14:55:42",
-      "album": {
-        "name": "In New York [Original Jazz Classics Remasters]",
-        "url": "https://open.spotify.com/album/65zkV2jjroxi3mwOEddvDJ"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 453506,
-      "name": "Blue Thoughts",
-      "url": "https://open.spotify.com/track/6A2tYCT1Wcd5RT6DhyCqhm"
-    },
-    {
-      "added_at": "2024-03-20 14:55:42",
-      "album": {
-        "name": "Jazz Impressions Of Black Orpheus [Original Jazz Classics Remasters] (OJC Remaster)",
-        "url": "https://open.spotify.com/album/0ZbVljVHaBZWOvaiSOtpgH"
-      },
-      "artists": [
-        {
-          "name": "Vince Guaraldi Trio",
-          "url": "https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS"
-        }
-      ],
-      "duration_ms": 190360,
-      "name": "Cast Your Fate to the Wind",
-      "url": "https://open.spotify.com/track/3nI7dNecArHQRc0vTUvELz"
+      "duration_ms": 216440,
+      "name": "Star Song",
+      "url": "https://open.spotify.com/track/2JRsstA67i53C1GQiIdUUd"
     },
     {
       "added_at": "2024-03-20 14:55:42",
@@ -335,6 +303,38 @@
       "duration_ms": 251933,
       "name": "Steve Allen Theme",
       "url": "https://open.spotify.com/track/6v4si83mpUqBwwAUKFbFuR"
+    },
+    {
+      "added_at": "2024-03-20 14:55:42",
+      "album": {
+        "name": "Jazz Impressions Of Black Orpheus [Original Jazz Classics Remasters] (OJC Remaster)",
+        "url": "https://open.spotify.com/album/0ZbVljVHaBZWOvaiSOtpgH"
+      },
+      "artists": [
+        {
+          "name": "Vince Guaraldi Trio",
+          "url": "https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS"
+        }
+      ],
+      "duration_ms": 190360,
+      "name": "Cast Your Fate to the Wind",
+      "url": "https://open.spotify.com/track/3nI7dNecArHQRc0vTUvELz"
+    },
+    {
+      "added_at": "2024-03-20 14:55:42",
+      "album": {
+        "name": "In New York [Original Jazz Classics Remasters]",
+        "url": "https://open.spotify.com/album/65zkV2jjroxi3mwOEddvDJ"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 453506,
+      "name": "Blue Thoughts",
+      "url": "https://open.spotify.com/track/6A2tYCT1Wcd5RT6DhyCqhm"
     },
     {
       "added_at": "2024-03-20 14:55:42",
@@ -467,22 +467,6 @@
     {
       "added_at": "2024-03-20 14:55:42",
       "album": {
-        "name": "Four!",
-        "url": "https://open.spotify.com/album/0kTwd8JPkvKEaQ1hjYkwdz"
-      },
-      "artists": [
-        {
-          "name": "Hampton Hawes",
-          "url": "https://open.spotify.com/artist/6BvSJSt6l7QJO2GHvtwFOK"
-        }
-      ],
-      "duration_ms": 294600,
-      "name": "Thou Swell",
-      "url": "https://open.spotify.com/track/5isHYKdOZoRLEltgxqjSMn"
-    },
-    {
-      "added_at": "2024-03-20 14:55:42",
-      "album": {
         "name": "Gerry Mulligan - Paul Desmond Quartet / Blues In Time",
         "url": "https://open.spotify.com/album/4IUNUxPQYA2AglEfqDYogv"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 210213,
       "name": "Stand Still",
       "url": "https://open.spotify.com/track/07jLNxcwKlAJ8c11gLJuTK"
+    },
+    {
+      "added_at": "2024-03-20 14:55:42",
+      "album": {
+        "name": "Four!",
+        "url": "https://open.spotify.com/album/0kTwd8JPkvKEaQ1hjYkwdz"
+      },
+      "artists": [
+        {
+          "name": "Hampton Hawes",
+          "url": "https://open.spotify.com/artist/6BvSJSt6l7QJO2GHvtwFOK"
+        }
+      ],
+      "duration_ms": 294600,
+      "name": "Thou Swell",
+      "url": "https://open.spotify.com/track/5isHYKdOZoRLEltgxqjSMn"
     },
     {
       "added_at": "2024-03-20 14:55:42",
@@ -643,6 +643,22 @@
     {
       "added_at": "2024-03-20 14:55:42",
       "album": {
+        "name": "What Is There To Say?",
+        "url": "https://open.spotify.com/album/0NUxMpyjIOP71y3NaThnTW"
+      },
+      "artists": [
+        {
+          "name": "Gerry Mulligan",
+          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
+        }
+      ],
+      "duration_ms": 303533,
+      "name": "News From Blueport",
+      "url": "https://open.spotify.com/track/19cN9w8acuY1mhelpksd6h"
+    },
+    {
+      "added_at": "2024-03-20 14:55:42",
+      "album": {
         "name": "Westward Bound! (Live)",
         "url": "https://open.spotify.com/album/5Bcl5tLBwZxch1KWFg1iKF"
       },
@@ -663,18 +679,18 @@
     {
       "added_at": "2024-03-20 14:55:42",
       "album": {
-        "name": "What Is There To Say?",
-        "url": "https://open.spotify.com/album/0NUxMpyjIOP71y3NaThnTW"
+        "name": "The Teddy Charles Tentet",
+        "url": "https://open.spotify.com/album/4SIPInfo9sWkrdOQJaLEhh"
       },
       "artists": [
         {
-          "name": "Gerry Mulligan",
-          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
+          "name": "Teddy Charles",
+          "url": "https://open.spotify.com/artist/2LQeYKxQ99Y844Y2fxCGQn"
         }
       ],
-      "duration_ms": 303533,
-      "name": "News From Blueport",
-      "url": "https://open.spotify.com/track/19cN9w8acuY1mhelpksd6h"
+      "duration_ms": 350720,
+      "name": "The Quiet Time",
+      "url": "https://open.spotify.com/track/6WAHaBnRvUFjw6L6Q2mMDh"
     },
     {
       "added_at": "2024-03-20 14:55:42",
@@ -691,22 +707,6 @@
       "duration_ms": 254626,
       "name": "Moon over Cuba",
       "url": "https://open.spotify.com/track/63sdXqoW9M8UoR9FqdZVcN"
-    },
-    {
-      "added_at": "2024-03-20 14:55:42",
-      "album": {
-        "name": "The Teddy Charles Tentet",
-        "url": "https://open.spotify.com/album/4SIPInfo9sWkrdOQJaLEhh"
-      },
-      "artists": [
-        {
-          "name": "Teddy Charles",
-          "url": "https://open.spotify.com/artist/2LQeYKxQ99Y844Y2fxCGQn"
-        }
-      ],
-      "duration_ms": 350720,
-      "name": "The Quiet Time",
-      "url": "https://open.spotify.com/track/6WAHaBnRvUFjw6L6Q2mMDh"
     },
     {
       "added_at": "2024-03-20 14:55:42",

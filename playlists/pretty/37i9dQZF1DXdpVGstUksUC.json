@@ -1,6 +1,6 @@
 {
   "description": "riff-heavy, fuzzed-out numbers. ",
-  "num_followers": 540518,
+  "num_followers": 540528,
   "original_name": "Stoner Rock",
   "owner": {
     "name": "Spotify",
@@ -811,22 +811,6 @@
     {
       "added_at": "2024-05-10 04:01:00",
       "album": {
-        "name": "Into Submission",
-        "url": "https://open.spotify.com/album/4B9cytDNyVkzr4PFtN1SSq"
-      },
-      "artists": [
-        {
-          "name": "Astroqueen",
-          "url": "https://open.spotify.com/artist/1Zxl7JC5lyI1JAYZyiZhAo"
-        }
-      ],
-      "duration_ms": 267493,
-      "name": "Superhuman God",
-      "url": "https://open.spotify.com/track/5LpchRWh4lgFh3uNThdKrh"
-    },
-    {
-      "added_at": "2024-05-10 04:01:00",
-      "album": {
         "name": "High Volume: The Stoner Rock Collection",
         "url": "https://open.spotify.com/album/5bcsAnJvIiept5zU4B2g8x"
       },
@@ -843,18 +827,18 @@
     {
       "added_at": "2024-05-10 04:01:00",
       "album": {
-        "name": "Sugar",
-        "url": "https://open.spotify.com/album/0vM3OBPvCoOK38m7hdweb2"
+        "name": "Into Submission",
+        "url": "https://open.spotify.com/album/4B9cytDNyVkzr4PFtN1SSq"
       },
       "artists": [
         {
-          "name": "Masters Of Reality",
-          "url": "https://open.spotify.com/artist/6I96egIonnFBY26MprKYKb"
+          "name": "Astroqueen",
+          "url": "https://open.spotify.com/artist/1Zxl7JC5lyI1JAYZyiZhAo"
         }
       ],
-      "duration_ms": 293239,
-      "name": "Sugar",
-      "url": "https://open.spotify.com/track/6DvOKzkUF8LYNFSLgGtWmn"
+      "duration_ms": 267493,
+      "name": "Superhuman God",
+      "url": "https://open.spotify.com/track/5LpchRWh4lgFh3uNThdKrh"
     },
     {
       "added_at": "2024-05-10 04:01:00",
@@ -871,6 +855,22 @@
       "duration_ms": 251973,
       "name": "So Come On",
       "url": "https://open.spotify.com/track/5QHLHBmGDW999nMelytjUA"
+    },
+    {
+      "added_at": "2024-05-10 04:01:00",
+      "album": {
+        "name": "Sugar",
+        "url": "https://open.spotify.com/album/0vM3OBPvCoOK38m7hdweb2"
+      },
+      "artists": [
+        {
+          "name": "Masters Of Reality",
+          "url": "https://open.spotify.com/artist/6I96egIonnFBY26MprKYKb"
+        }
+      ],
+      "duration_ms": 293239,
+      "name": "Sugar",
+      "url": "https://open.spotify.com/track/6DvOKzkUF8LYNFSLgGtWmn"
     },
     {
       "added_at": "2024-05-10 04:01:00",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2024-05-10 04:01:00",
       "album": {
-        "name": "Diablerie",
-        "url": "https://open.spotify.com/album/1m4kG1WRaSUeay5rEUOPB5"
-      },
-      "artists": [
-        {
-          "name": "Windhand",
-          "url": "https://open.spotify.com/artist/6wE3e84Zg41JF04Z39i5wv"
-        }
-      ],
-      "duration_ms": 320988,
-      "name": "Diablerie",
-      "url": "https://open.spotify.com/track/6tn5XqPVJnmZt1rA4kBgJh"
-    },
-    {
-      "added_at": "2024-05-10 04:01:00",
-      "album": {
         "name": "Love Fear Choices and Astronauts",
         "url": "https://open.spotify.com/album/0U4Bj6rqtCCLwwDPuXUj2d"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 651110,
       "name": "Bright Dawn of the Soul",
       "url": "https://open.spotify.com/track/2vMfQgTA6wv0Lzs1zBim2E"
+    },
+    {
+      "added_at": "2024-05-10 04:01:00",
+      "album": {
+        "name": "Diablerie",
+        "url": "https://open.spotify.com/album/1m4kG1WRaSUeay5rEUOPB5"
+      },
+      "artists": [
+        {
+          "name": "Windhand",
+          "url": "https://open.spotify.com/artist/6wE3e84Zg41JF04Z39i5wv"
+        }
+      ],
+      "duration_ms": 320988,
+      "name": "Diablerie",
+      "url": "https://open.spotify.com/track/6tn5XqPVJnmZt1rA4kBgJh"
     },
     {
       "added_at": "2024-05-10 04:01:00",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2024-05-10 04:01:00",
       "album": {
-        "name": "Nothing as the Ideal",
-        "url": "https://open.spotify.com/album/2pP6WdEW09g6PgFVfKjefd"
-      },
-      "artists": [
-        {
-          "name": "All Them Witches",
-          "url": "https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65"
-        }
-      ],
-      "duration_ms": 320350,
-      "name": "41",
-      "url": "https://open.spotify.com/track/6L3qfBftLvlKn1abLExMgp"
-    },
-    {
-      "added_at": "2024-05-10 04:01:00",
-      "album": {
         "name": "Lightning Born",
         "url": "https://open.spotify.com/album/5YhcMNf4XiXfsDWpXpyPhG"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 221033,
       "name": "Slaughter Beach",
       "url": "https://open.spotify.com/track/4hZwv69zyXmgipXqFyr7IJ"
+    },
+    {
+      "added_at": "2024-05-10 04:01:00",
+      "album": {
+        "name": "Nothing as the Ideal",
+        "url": "https://open.spotify.com/album/2pP6WdEW09g6PgFVfKjefd"
+      },
+      "artists": [
+        {
+          "name": "All Them Witches",
+          "url": "https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65"
+        }
+      ],
+      "duration_ms": 320350,
+      "name": "41",
+      "url": "https://open.spotify.com/track/6L3qfBftLvlKn1abLExMgp"
     },
     {
       "added_at": "2024-05-10 04:01:00",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2024-05-10 04:01:00",
       "album": {
-        "name": "CLDZ",
-        "url": "https://open.spotify.com/album/1TQbXepj5CEXWpxz2HZQ34"
-      },
-      "artists": [
-        {
-          "name": "Gozu",
-          "url": "https://open.spotify.com/artist/3CcEVa0kc113lQDnVTyIBg"
-        }
-      ],
-      "duration_ms": 416779,
-      "name": "CLDZ",
-      "url": "https://open.spotify.com/track/44BjQLjy1ShaviwGBobWi1"
-    },
-    {
-      "added_at": "2024-05-10 04:01:00",
-      "album": {
         "name": "Saved by Magic",
         "url": "https://open.spotify.com/album/1ZMIcvk2Mxow7HI9VUKBWD"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 334720,
       "name": "Kiss Away",
       "url": "https://open.spotify.com/track/35OoYjqJdg27FpA2zD9IYQ"
+    },
+    {
+      "added_at": "2024-05-10 04:01:00",
+      "album": {
+        "name": "CLDZ",
+        "url": "https://open.spotify.com/album/1TQbXepj5CEXWpxz2HZQ34"
+      },
+      "artists": [
+        {
+          "name": "Gozu",
+          "url": "https://open.spotify.com/artist/3CcEVa0kc113lQDnVTyIBg"
+        }
+      ],
+      "duration_ms": 416779,
+      "name": "CLDZ",
+      "url": "https://open.spotify.com/track/44BjQLjy1ShaviwGBobWi1"
     },
     {
       "added_at": "2024-05-10 04:01:00",

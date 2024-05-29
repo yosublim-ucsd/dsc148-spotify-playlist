@@ -1,6 +1,6 @@
 {
   "description": "Electronic music with Mediterranean and Eastern influences.",
-  "num_followers": 318518,
+  "num_followers": 318626,
   "original_name": "mosaic",
   "owner": {
     "name": "Spotify",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2024-05-22 06:30:46",
       "album": {
+        "name": "Nomadic",
+        "url": "https://open.spotify.com/album/0dATzDHkoktJSj80yCCIBE"
+      },
+      "artists": [
+        {
+          "name": "Hlm.Prod",
+          "url": "https://open.spotify.com/artist/5x16H0hDNgAaVeAatek2MJ"
+        }
+      ],
+      "duration_ms": 206339,
+      "name": "Nomadic",
+      "url": "https://open.spotify.com/track/1FeqFilPG7iFnAncHxew2k"
+    },
+    {
+      "added_at": "2024-05-22 06:30:46",
+      "album": {
         "name": "Salam",
         "url": "https://open.spotify.com/album/6PpgtyminvgtcWIsGsdbzA"
       },
@@ -1071,22 +1087,6 @@
     {
       "added_at": "2024-05-22 06:30:46",
       "album": {
-        "name": "Nomadic",
-        "url": "https://open.spotify.com/album/0dATzDHkoktJSj80yCCIBE"
-      },
-      "artists": [
-        {
-          "name": "Hlm.Prod",
-          "url": "https://open.spotify.com/artist/5x16H0hDNgAaVeAatek2MJ"
-        }
-      ],
-      "duration_ms": 206339,
-      "name": "Nomadic",
-      "url": "https://open.spotify.com/track/1FeqFilPG7iFnAncHxew2k"
-    },
-    {
-      "added_at": "2024-05-22 06:30:46",
-      "album": {
         "name": "Mektup",
         "url": "https://open.spotify.com/album/5UEQORYi2EzSo38FaEzQij"
       },
@@ -1099,6 +1099,42 @@
       "duration_ms": 212615,
       "name": "Askim",
       "url": "https://open.spotify.com/track/1g1TCruAEc8W77EyhRFF1z"
+    },
+    {
+      "added_at": "2024-05-22 06:30:46",
+      "album": {
+        "name": "CEWRESAMIN",
+        "url": "https://open.spotify.com/album/6VcbjdUGUj4Ch0RixouL1Q"
+      },
+      "artists": [
+        {
+          "name": "Sinan Yalcin",
+          "url": "https://open.spotify.com/artist/03ZkvOyphjIMDashA29QiW"
+        },
+        {
+          "name": "Roni Violinist",
+          "url": "https://open.spotify.com/artist/0tRALyUvYQiXuvDEtBO2cf"
+        }
+      ],
+      "duration_ms": 136000,
+      "name": "Cewresamin",
+      "url": "https://open.spotify.com/track/30YM9AjfdziE1QJFnKKdLU"
+    },
+    {
+      "added_at": "2024-05-22 06:30:46",
+      "album": {
+        "name": "Mosaic",
+        "url": "https://open.spotify.com/album/2LNv8cym3j0pdJ8IqXqPyE"
+      },
+      "artists": [
+        {
+          "name": "Mehdi Yakin",
+          "url": "https://open.spotify.com/artist/7fM7sc43IBD02ajJepUag1"
+        }
+      ],
+      "duration_ms": 196800,
+      "name": "Mosaic",
+      "url": "https://open.spotify.com/track/2pmAL5D3zml837nGeFOJly"
     },
     {
       "added_at": "2024-05-22 06:30:46",
@@ -1127,22 +1163,6 @@
     {
       "added_at": "2024-05-22 06:30:46",
       "album": {
-        "name": "Mosaic",
-        "url": "https://open.spotify.com/album/2LNv8cym3j0pdJ8IqXqPyE"
-      },
-      "artists": [
-        {
-          "name": "Mehdi Yakin",
-          "url": "https://open.spotify.com/artist/7fM7sc43IBD02ajJepUag1"
-        }
-      ],
-      "duration_ms": 196800,
-      "name": "Mosaic",
-      "url": "https://open.spotify.com/track/2pmAL5D3zml837nGeFOJly"
-    },
-    {
-      "added_at": "2024-05-22 06:30:46",
-      "album": {
         "name": "La rose \u00e9ternelle",
         "url": "https://open.spotify.com/album/0fwLAyLc6trrhaDY73QGJc"
       },
@@ -1159,26 +1179,6 @@
     {
       "added_at": "2024-05-22 06:30:46",
       "album": {
-        "name": "CEWRESAMIN",
-        "url": "https://open.spotify.com/album/6VcbjdUGUj4Ch0RixouL1Q"
-      },
-      "artists": [
-        {
-          "name": "Sinan Yalcin",
-          "url": "https://open.spotify.com/artist/03ZkvOyphjIMDashA29QiW"
-        },
-        {
-          "name": "Roni Violinist",
-          "url": "https://open.spotify.com/artist/0tRALyUvYQiXuvDEtBO2cf"
-        }
-      ],
-      "duration_ms": 136000,
-      "name": "Cewresamin",
-      "url": "https://open.spotify.com/track/30YM9AjfdziE1QJFnKKdLU"
-    },
-    {
-      "added_at": "2024-05-22 06:30:46",
-      "album": {
         "name": "Roots LP",
         "url": "https://open.spotify.com/album/4LpDKNBhUxXstCFvEieOcR"
       },
@@ -1191,22 +1191,6 @@
       "duration_ms": 178153,
       "name": "Roots",
       "url": "https://open.spotify.com/track/4jK03yPAqhrh2juS3IgE0i"
-    },
-    {
-      "added_at": "2024-05-22 06:30:46",
-      "album": {
-        "name": "El Hob",
-        "url": "https://open.spotify.com/album/1V2RgQJtSriNJc5ai9CgPw"
-      },
-      "artists": [
-        {
-          "name": "Pharonic Electronic",
-          "url": "https://open.spotify.com/artist/2gQv5UbFmjuJ6jDIeLG6TA"
-        }
-      ],
-      "duration_ms": 214634,
-      "name": "El Hob",
-      "url": "https://open.spotify.com/track/07fRbyvuAdno6U4NtnlI2c"
     },
     {
       "added_at": "2024-05-22 06:30:46",
@@ -1251,6 +1235,22 @@
     {
       "added_at": "2024-05-22 06:30:46",
       "album": {
+        "name": "El Hob",
+        "url": "https://open.spotify.com/album/1V2RgQJtSriNJc5ai9CgPw"
+      },
+      "artists": [
+        {
+          "name": "Pharonic Electronic",
+          "url": "https://open.spotify.com/artist/2gQv5UbFmjuJ6jDIeLG6TA"
+        }
+      ],
+      "duration_ms": 214634,
+      "name": "El Hob",
+      "url": "https://open.spotify.com/track/07fRbyvuAdno6U4NtnlI2c"
+    },
+    {
+      "added_at": "2024-05-22 06:30:46",
+      "album": {
         "name": "El Hawa",
         "url": "https://open.spotify.com/album/5AflaEuukgyI5tzO8ciA9T"
       },
@@ -1291,6 +1291,26 @@
     {
       "added_at": "2024-05-22 06:30:46",
       "album": {
+        "name": "Yasameen",
+        "url": "https://open.spotify.com/album/66Z8bUrODtB5OW7unF0h8h"
+      },
+      "artists": [
+        {
+          "name": "Recham",
+          "url": "https://open.spotify.com/artist/6VG3lHIxKKA5xsVmxLHRfP"
+        },
+        {
+          "name": "Douae El Rhiouane",
+          "url": "https://open.spotify.com/artist/7sgfspDSlZvFOGchSj9Wki"
+        }
+      ],
+      "duration_ms": 344000,
+      "name": "Yasameen",
+      "url": "https://open.spotify.com/track/47bVE60Uy0ocuG1przWZh4"
+    },
+    {
+      "added_at": "2024-05-22 06:30:46",
+      "album": {
         "name": "The Universe of Buddha Bar",
         "url": "https://open.spotify.com/album/4p6iAl1zIqZD3RBa7p1snm"
       },
@@ -1315,26 +1335,6 @@
       "duration_ms": 355886,
       "name": "Lbechra",
       "url": "https://open.spotify.com/track/5zTSZWYD9bIhrpeJbt42sp"
-    },
-    {
-      "added_at": "2024-05-22 06:30:46",
-      "album": {
-        "name": "Yasameen",
-        "url": "https://open.spotify.com/album/66Z8bUrODtB5OW7unF0h8h"
-      },
-      "artists": [
-        {
-          "name": "Recham",
-          "url": "https://open.spotify.com/artist/6VG3lHIxKKA5xsVmxLHRfP"
-        },
-        {
-          "name": "Douae El Rhiouane",
-          "url": "https://open.spotify.com/artist/7sgfspDSlZvFOGchSj9Wki"
-        }
-      ],
-      "duration_ms": 344000,
-      "name": "Yasameen",
-      "url": "https://open.spotify.com/track/47bVE60Uy0ocuG1przWZh4"
     },
     {
       "added_at": "2024-05-22 06:30:46",
@@ -1639,6 +1639,26 @@
     {
       "added_at": "2024-05-22 06:30:46",
       "album": {
+        "name": "Mazrub",
+        "url": "https://open.spotify.com/album/3ehMTWstecDQEghyK3JcGi"
+      },
+      "artists": [
+        {
+          "name": "Ossova",
+          "url": "https://open.spotify.com/artist/5BTNXZpP9Dhzzb4llFSMzJ"
+        },
+        {
+          "name": "Amorf",
+          "url": "https://open.spotify.com/artist/235rIOpga6eYnAP03JD444"
+        }
+      ],
+      "duration_ms": 186184,
+      "name": "Mazrub",
+      "url": "https://open.spotify.com/track/6LQ6389JtKwSYWLi0c5OAH"
+    },
+    {
+      "added_at": "2024-05-22 06:30:46",
+      "album": {
         "name": "Ilios",
         "url": "https://open.spotify.com/album/0dn8zaFhDYjDuqOKGhr0Kw"
       },
@@ -1663,26 +1683,6 @@
       "duration_ms": 374857,
       "name": "Ilios",
       "url": "https://open.spotify.com/track/2IUWM1lWpUQU6zCxlHx8Kw"
-    },
-    {
-      "added_at": "2024-05-22 06:30:46",
-      "album": {
-        "name": "Mazrub",
-        "url": "https://open.spotify.com/album/3ehMTWstecDQEghyK3JcGi"
-      },
-      "artists": [
-        {
-          "name": "Ossova",
-          "url": "https://open.spotify.com/artist/5BTNXZpP9Dhzzb4llFSMzJ"
-        },
-        {
-          "name": "Amorf",
-          "url": "https://open.spotify.com/artist/235rIOpga6eYnAP03JD444"
-        }
-      ],
-      "duration_ms": 186184,
-      "name": "Mazrub",
-      "url": "https://open.spotify.com/track/6LQ6389JtKwSYWLi0c5OAH"
     },
     {
       "added_at": "2024-05-22 06:30:46",
@@ -1795,30 +1795,6 @@
     {
       "added_at": "2024-05-22 06:30:46",
       "album": {
-        "name": "Sunam",
-        "url": "https://open.spotify.com/album/2fjix5nVHiyACZdDsgRnvt"
-      },
-      "artists": [
-        {
-          "name": "Y\u0131ld\u0131z Tilbe",
-          "url": "https://open.spotify.com/artist/4525TiJDbBD4mZJ7EZArT0"
-        },
-        {
-          "name": "Anatolian Sessions",
-          "url": "https://open.spotify.com/artist/7s2nu1ZnZ0hxP4PNW3xbBK"
-        },
-        {
-          "name": "Serdar Ayy\u0131ld\u0131z",
-          "url": "https://open.spotify.com/artist/2k4bQt7eQsigiUFsT9VLGK"
-        }
-      ],
-      "duration_ms": 279216,
-      "name": "Sunam",
-      "url": "https://open.spotify.com/track/01vX6r5LSjgH7wWru9ymLx"
-    },
-    {
-      "added_at": "2024-05-22 06:30:46",
-      "album": {
         "name": "Bladi B3ida",
         "url": "https://open.spotify.com/album/4B1cXT0JtC0f0e0sbODGow"
       },
@@ -1839,6 +1815,30 @@
       "duration_ms": 319851,
       "name": "Bladi B3ida",
       "url": "https://open.spotify.com/track/2h519R5O4HhdPjboqsOond"
+    },
+    {
+      "added_at": "2024-05-22 06:30:46",
+      "album": {
+        "name": "Sunam",
+        "url": "https://open.spotify.com/album/2fjix5nVHiyACZdDsgRnvt"
+      },
+      "artists": [
+        {
+          "name": "Y\u0131ld\u0131z Tilbe",
+          "url": "https://open.spotify.com/artist/4525TiJDbBD4mZJ7EZArT0"
+        },
+        {
+          "name": "Anatolian Sessions",
+          "url": "https://open.spotify.com/artist/7s2nu1ZnZ0hxP4PNW3xbBK"
+        },
+        {
+          "name": "Serdar Ayy\u0131ld\u0131z",
+          "url": "https://open.spotify.com/artist/2k4bQt7eQsigiUFsT9VLGK"
+        }
+      ],
+      "duration_ms": 279216,
+      "name": "Sunam",
+      "url": "https://open.spotify.com/track/01vX6r5LSjgH7wWru9ymLx"
     },
     {
       "added_at": "2024-05-22 06:30:46",

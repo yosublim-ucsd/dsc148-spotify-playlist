@@ -2,35 +2,35 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 
 ### [GLOW](https://open.spotify.com/playlist/37i9dQZF1DX3LyU0mhfqgP)
 
-> Listen to the hottest songs from LGBTQIA+ artists\. Cover: Towa Bird
+> Listen to the hottest songs from LGBTQIA+ artists\. Cover: Chappell Roan
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,080,227 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,080,209 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [The Code](https://open.spotify.com/track/1EjIXKhNHI00ZLMRpS8iz8) | [Nemo](https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N) | [The Code](https://open.spotify.com/album/30euLVaktPWmngBsGDUYdA) | 3:00 |
-| 2 | [B.I.L.L.S.](https://open.spotify.com/track/7xISBLSpkANttnZx8krkq6) | [Towa Bird](https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt) | [B.I.L.L.S.](https://open.spotify.com/album/5xAgSGlXlXM31KGUe5g4I5) | 2:14 |
-| 3 | [Before The Party's Over](https://open.spotify.com/track/1A4pbfIyAuyZkIrRr4tK2X) | [Mustii](https://open.spotify.com/artist/3sHtPJJi41P65J7EGRG2r1) | [Before The Party's Over](https://open.spotify.com/album/04IXV3BmIQDVJA6LlI0BLq) | 2:59 |
-| 4 | [Good Luck, Babe!](https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Good Luck, Babe!](https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q) | 3:38 |
-| 5 | [Un día nos vamos a morir](https://open.spotify.com/track/5X5Xsye9sVzAR41FAF0IUi) | [Luisa Almaguer](https://open.spotify.com/artist/2EIoOPYbB27xL2XuvKmNEq) | [Un día nos vamos a morir](https://open.spotify.com/album/6P91XazaPjqZRpRBldlNRy) | 4:02 |
-| 6 | [Doomsday Blue](https://open.spotify.com/track/7qiEoVlFjb3KaytT2zgK1g) | [Bambie Thug](https://open.spotify.com/artist/6g3orasGcMPn0gwcE3JMAC) | [Cathexis](https://open.spotify.com/album/70IfQDr5WnlqwK2Cb0tvco) | 3:03 |
-| 7 | [After Hours](https://open.spotify.com/track/2x03XLsTZ0o86h0cfHrkKF) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [After Hours](https://open.spotify.com/album/062urW4KS66GPlEHIueefz) | 3:22 |
-| 8 | [ABOMINATION](https://open.spotify.com/track/2h2142a0MCcrd1bBNohCaN) | [Lynks](https://open.spotify.com/artist/44tV2d4RDeMsS2sLOdcXHD) | [ABOMINATION](https://open.spotify.com/album/6am19f0GGzZgJYTSvGCuSr) | 3:18 |
-| 9 | [Nasty](https://open.spotify.com/track/6NjWCIYu1W8xa3HIvcIhd4) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Nasty](https://open.spotify.com/album/1vMVDUsMWaD5eB4oahCboP) | 2:56 |
-| 10 | [Sexed & Sexual](https://open.spotify.com/track/6sV5HbMxga42MODRJqdH85) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc) | [Sexed & Sexual](https://open.spotify.com/album/7AJq7TVlbNRZqTFFB0C6px) | 2:54 |
-| 11 | [all\-american bitch!](https://open.spotify.com/track/49YAy6A7wAOvKvSxvUhxbd) | [Mad Tsai](https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB) | [all\-american bitch!](https://open.spotify.com/album/54GALo6t6yvpqB4RjxYNaT) | 2:28 |
-| 12 | [run!](https://open.spotify.com/track/7oqUxlU0mEv4fGt1CZ727y) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [empathogen](https://open.spotify.com/album/5jsfwcWxZIPtF5aaWx0mlL) | 3:08 |
-| 13 | [Dizzy](https://open.spotify.com/track/4GEmQTg7yfnfZoNhgpCg61) | [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Dizzy](https://open.spotify.com/album/7rzYlWpOSJKwcDOzW65qdY) | 2:52 |
+| 1 | [Good Luck, Babe!](https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Good Luck, Babe!](https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q) | 3:38 |
+| 2 | [The Code](https://open.spotify.com/track/1EjIXKhNHI00ZLMRpS8iz8) | [Nemo](https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N) | [The Code](https://open.spotify.com/album/30euLVaktPWmngBsGDUYdA) | 3:00 |
+| 3 | [After Hours](https://open.spotify.com/track/2x03XLsTZ0o86h0cfHrkKF) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [After Hours](https://open.spotify.com/album/062urW4KS66GPlEHIueefz) | 3:22 |
+| 4 | [Nasty](https://open.spotify.com/track/6NjWCIYu1W8xa3HIvcIhd4) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Nasty](https://open.spotify.com/album/1vMVDUsMWaD5eB4oahCboP) | 2:56 |
+| 5 | [Before The Party's Over](https://open.spotify.com/track/1A4pbfIyAuyZkIrRr4tK2X) | [Mustii](https://open.spotify.com/artist/3sHtPJJi41P65J7EGRG2r1) | [Before The Party's Over](https://open.spotify.com/album/04IXV3BmIQDVJA6LlI0BLq) | 2:59 |
+| 6 | [Saturday Night's Alright \(For Fighting\)](https://open.spotify.com/track/3v8l8N78qWDgXfHrxppF5D) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Stampede: Vol\. 1](https://open.spotify.com/album/5xmQFJ2yArFC5glJ3xclfE) | 4:11 |
+| 7 | [Un día nos vamos a morir](https://open.spotify.com/track/5X5Xsye9sVzAR41FAF0IUi) | [Luisa Almaguer](https://open.spotify.com/artist/2EIoOPYbB27xL2XuvKmNEq) | [Un día nos vamos a morir](https://open.spotify.com/album/6P91XazaPjqZRpRBldlNRy) | 4:02 |
+| 8 | [B.I.L.L.S.](https://open.spotify.com/track/7xISBLSpkANttnZx8krkq6) | [Towa Bird](https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt) | [B.I.L.L.S.](https://open.spotify.com/album/5xAgSGlXlXM31KGUe5g4I5) | 2:14 |
+| 9 | [ABOMINATION](https://open.spotify.com/track/2h2142a0MCcrd1bBNohCaN) | [Lynks](https://open.spotify.com/artist/44tV2d4RDeMsS2sLOdcXHD) | [ABOMINATION](https://open.spotify.com/album/6am19f0GGzZgJYTSvGCuSr) | 3:18 |
+| 10 | [Dispose of Me](https://open.spotify.com/track/5tffEKZUyEbyThW6FH9VFS) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Dispose of Me](https://open.spotify.com/album/00gOh6il0z2KBhwqWSu3iX) | 3:37 |
+| 11 | [Sexed & Sexual](https://open.spotify.com/track/6sV5HbMxga42MODRJqdH85) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc) | [Sexed & Sexual](https://open.spotify.com/album/7AJq7TVlbNRZqTFFB0C6px) | 2:54 |
+| 12 | [all\-american bitch!](https://open.spotify.com/track/49YAy6A7wAOvKvSxvUhxbd) | [Mad Tsai](https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB) | [all\-american bitch!](https://open.spotify.com/album/54GALo6t6yvpqB4RjxYNaT) | 2:28 |
+| 13 | [run!](https://open.spotify.com/track/7oqUxlU0mEv4fGt1CZ727y) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [empathogen](https://open.spotify.com/album/5jsfwcWxZIPtF5aaWx0mlL) | 3:08 |
 | 14 | [I Missed You Too](https://open.spotify.com/track/4o2c5swMPdirnnahplyswy) | [Giolì & Assia](https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU) | [I Missed You Too](https://open.spotify.com/album/3S5pxAGiUKduiJGwnEzHno) | 3:35 |
 | 15 | [This Hell \(feat\. CHANMINA \- Gyarupi Remix \- Spotify Singles\)](https://open.spotify.com/track/7fjPGuy2gOewuexxESLnZI) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5), [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [This Hell \(feat\. CHANMINA \- Gyarupi Remix \- Spotify Singles\)](https://open.spotify.com/album/2xhHdH0oewG14bccr9WKq6) | 3:56 |
 | 16 | [Ave María Putísima](https://open.spotify.com/track/4RC0gJ1UzN4cphdoNB0hjD) | [Metrika](https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy), [D.Basto](https://open.spotify.com/artist/3Nn5v8JJyCp7CnNMXVXHlF) | [Madre Fundadora](https://open.spotify.com/album/0cW778aXsK6vVGu6QW6XUW) | 2:50 |
-| 17 | [Jennifer's Body](https://open.spotify.com/track/71Z9lVx6sqrTDt1u6CVjFG) | [Nxdia](https://open.spotify.com/artist/0Dkj3iE06TJGxGIrGCmwVf) | [Jennifer's Body](https://open.spotify.com/album/12GilM96PJR4LBKqJ8e1dk) | 1:57 |
-| 18 | [I'm Back](https://open.spotify.com/track/0tduSYti0mY7p8j5AIO4Pg) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [I'M DOING IT AGAIN BABY!](https://open.spotify.com/album/5QaKu3YoUJNglyaKixaegf) | 2:59 |
-| 19 | [New London boy](https://open.spotify.com/track/4cICGoff2F8uTr8JbcGFwt) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Nonetheless](https://open.spotify.com/album/4kRlRxwCZ0SeRxvjGgVVaj) | 4:52 |
-| 20 | [Io voglio te](https://open.spotify.com/track/3AeJSXkD5OUyIN13QNWXaT) | [Gianna Nannini](https://open.spotify.com/artist/0h0p7RkMjCUMdcf0nXmHjX) | [Sei nel l'anima](https://open.spotify.com/album/3qoUOO1m5BrCOagNHlCG3H) | 4:25 |
-| 21 | [TODOS LOS DÍAS](https://open.spotify.com/track/2qTIRmguqQTQaeWbDdeH31) | [Chico Blanco](https://open.spotify.com/artist/7xLtt3vnhKGANQKpsaIMVa), [GAZZI](https://open.spotify.com/artist/07V8t8EEwskMdjlXWulRsK) | [TODOS LOS DÍAS](https://open.spotify.com/album/0enhgiXd8aZwycKfwxQszf) | 3:56 |
-| 22 | [HETERO](https://open.spotify.com/track/7e39dVZt37PASe2c1c8Xdu) | [VALENTINO](https://open.spotify.com/artist/6tJxiu3ZvKtAUS4Q4SQLI0) | [HETERO](https://open.spotify.com/album/62CiORkFOOAQEa61gYD8aQ) | 2:38 |
-| 23 | [Spite](https://open.spotify.com/track/0XHFylA18yuwGVCfJfq4dw) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Spite](https://open.spotify.com/album/7GMGBHL3OQDu8aeUa0ms51) | 2:39 |
+| 17 | [Doomsday Blue](https://open.spotify.com/track/7qiEoVlFjb3KaytT2zgK1g) | [Bambie Thug](https://open.spotify.com/artist/6g3orasGcMPn0gwcE3JMAC) | [Cathexis](https://open.spotify.com/album/70IfQDr5WnlqwK2Cb0tvco) | 3:03 |
+| 18 | [Jennifer's Body](https://open.spotify.com/track/71Z9lVx6sqrTDt1u6CVjFG) | [Nxdia](https://open.spotify.com/artist/0Dkj3iE06TJGxGIrGCmwVf) | [Jennifer's Body](https://open.spotify.com/album/12GilM96PJR4LBKqJ8e1dk) | 1:57 |
+| 19 | [I'm Back](https://open.spotify.com/track/0tduSYti0mY7p8j5AIO4Pg) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [I'M DOING IT AGAIN BABY!](https://open.spotify.com/album/5QaKu3YoUJNglyaKixaegf) | 2:59 |
+| 20 | [New London boy](https://open.spotify.com/track/4cICGoff2F8uTr8JbcGFwt) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Nonetheless](https://open.spotify.com/album/4kRlRxwCZ0SeRxvjGgVVaj) | 4:52 |
+| 21 | [Io voglio te](https://open.spotify.com/track/3AeJSXkD5OUyIN13QNWXaT) | [Gianna Nannini](https://open.spotify.com/artist/0h0p7RkMjCUMdcf0nXmHjX) | [Sei nel l'anima](https://open.spotify.com/album/3qoUOO1m5BrCOagNHlCG3H) | 4:25 |
+| 22 | [TODOS LOS DÍAS](https://open.spotify.com/track/2qTIRmguqQTQaeWbDdeH31) | [Chico Blanco](https://open.spotify.com/artist/7xLtt3vnhKGANQKpsaIMVa), [GAZZI](https://open.spotify.com/artist/07V8t8EEwskMdjlXWulRsK) | [TODOS LOS DÍAS](https://open.spotify.com/album/0enhgiXd8aZwycKfwxQszf) | 3:56 |
+| 23 | [HETERO](https://open.spotify.com/track/7e39dVZt37PASe2c1c8Xdu) | [VALENTINO](https://open.spotify.com/artist/6tJxiu3ZvKtAUS4Q4SQLI0) | [HETERO](https://open.spotify.com/album/62CiORkFOOAQEa61gYD8aQ) | 2:38 |
 | 24 | [LOVE ME MORE](https://open.spotify.com/track/3Vo4iueKVM9o2BurvSJagg) | [BATHSHEBA](https://open.spotify.com/artist/76bDEeabrfohMhoWwm4av7) | [LOVE ME MORE](https://open.spotify.com/album/1rruN0RVM5GRpYwaLXZLoR) | 2:46 |
 | 25 | [Berlin Nightlife](https://open.spotify.com/track/4ZfGaeQIGPLEid3GTGI5tz) | [Harrison McClary](https://open.spotify.com/artist/2l8YMGXFLdgBJzXivf4xkT) | [A Rare Collection Of My Fantasies](https://open.spotify.com/album/4Fbe1j52WikTsZzccSKNtE) | 3:45 |
 | 26 | [How?](https://open.spotify.com/track/3CLIHcG3QkhN69YEPFc2ZM) | [Dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [How?](https://open.spotify.com/album/0ORqx48RYRW5PPhHj9GiAY) | 3:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 49 | [take what i can get](https://open.spotify.com/track/5OyjgGolsgzoqM6DRTlOuI) | [Marian Carmel](https://open.spotify.com/artist/5Iyx1kSKoYvJz0gCrsFLW6) | [take what i can get](https://open.spotify.com/album/4ogEOFIundyE1VoGLzT13V) | 2:43 |
 | 50 | [Looking Out For An Angel](https://open.spotify.com/track/6YoqDVcO4imk69vM9gHdz9) | [June Jones](https://open.spotify.com/artist/68MzdZEcqsklRZH1tttYk8) | [Looking Out For An Angel](https://open.spotify.com/album/2e6N6Htog3F59851fDIdbv) | 3:17 |
 
-Snapshot ID: `Zk3QMAAAAACmmC6pA+q/tltu8boRYqsG`
+Snapshot ID: `ZlZh8AAAAACysrxgqWmflKH6OoeQGiJK`

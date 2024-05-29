@@ -1,12 +1,12 @@
 {
   "description": "This is Ryan Adams. The essential tracks, all in one playlist.",
-  "num_followers": 43065,
+  "num_followers": 43068,
   "original_name": "This Is Ryan Adams",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlJ7gAAAAADB8XUjOMcQd7S2m2FOuzdE",
+  "snapshot_id": "ZlPNAAAAAADEeQBos92OtjIMirXm319N",
   "tracks": [
     {
       "added_at": null,
@@ -155,8 +155,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Achin' to Be (Live from Minneapolis, MN. 2022)",
-        "url": "https://open.spotify.com/album/4q9REpF57x9pS415RYPX8j"
+        "name": "Easy Tiger",
+        "url": "https://open.spotify.com/album/3ZlWIevUkfKkrjpYw5VdjE"
       },
       "artists": [
         {
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 235518,
-      "name": "Achin' to Be - Live from Minneapolis, MN. 2022.",
-      "url": "https://open.spotify.com/track/3E8dDz7zdObBTSz4RAUAu0"
+      "duration_ms": 158293,
+      "name": "Two",
+      "url": "https://open.spotify.com/track/4Yg9sKLmvYuybzU9Ruiced"
     },
     {
       "added_at": null,
@@ -187,8 +187,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Easy Tiger",
-        "url": "https://open.spotify.com/album/3ZlWIevUkfKkrjpYw5VdjE"
+        "name": "Achin' to Be (Live from Minneapolis, MN. 2022)",
+        "url": "https://open.spotify.com/album/4q9REpF57x9pS415RYPX8j"
       },
       "artists": [
         {
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 158293,
-      "name": "Two",
-      "url": "https://open.spotify.com/track/4Yg9sKLmvYuybzU9Ruiced"
+      "duration_ms": 235518,
+      "name": "Achin' to Be - Live from Minneapolis, MN. 2022.",
+      "url": "https://open.spotify.com/track/3E8dDz7zdObBTSz4RAUAu0"
     },
     {
       "added_at": null,
@@ -347,6 +347,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Down In A Hole (Live)",
+        "url": "https://open.spotify.com/album/1uz5hEKIxeHhZbdyu9s1s2"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 241052,
+      "name": "Down In A Hole - Live from Eugene, OR. 2023.",
+      "url": "https://open.spotify.com/track/6WbyHzHJFu2BOFRlXhBBIl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "1989",
         "url": "https://open.spotify.com/album/6WCWxMMBOvsAQl1SLUTMup"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 253044,
       "name": "We Built This City - Live from Oakland, CA, 2022",
       "url": "https://open.spotify.com/track/3XJx0M1mC7ppnl2JULqT37"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Down In A Hole (Live)",
-        "url": "https://open.spotify.com/album/1uz5hEKIxeHhZbdyu9s1s2"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 241052,
-      "name": "Down In A Hole - Live from Eugene, OR. 2023.",
-      "url": "https://open.spotify.com/track/6WbyHzHJFu2BOFRlXhBBIl"
     },
     {
       "added_at": null,
@@ -587,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Achin' to Be (Live from Minneapolis, MN. 2022)",
-        "url": "https://open.spotify.com/album/4q9REpF57x9pS415RYPX8j"
+        "name": "1989",
+        "url": "https://open.spotify.com/album/0MVK1j7wrUkBZ09ZuMURJA"
       },
       "artists": [
         {
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 284625,
-      "name": "Black Sheets of Rain - Live from Minneapolis, MN. 2022.",
-      "url": "https://open.spotify.com/track/3lYkwSZgN4hTk3wzx6FmNI"
+      "duration_ms": 321120,
+      "name": "Wildest Dreams",
+      "url": "https://open.spotify.com/track/6cX3XiNsgTUAqzdworhRUt"
     },
     {
       "added_at": null,
@@ -651,8 +651,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "1989",
-        "url": "https://open.spotify.com/album/0MVK1j7wrUkBZ09ZuMURJA"
+        "name": "Rock N Roll",
+        "url": "https://open.spotify.com/album/3wPNe9aWZjMVr1UULcPuSX"
       },
       "artists": [
         {
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 321120,
-      "name": "Wildest Dreams",
-      "url": "https://open.spotify.com/track/6cX3XiNsgTUAqzdworhRUt"
+      "duration_ms": 238333,
+      "name": "So Alive",
+      "url": "https://open.spotify.com/track/1VczhujvY0bkcf7jE2RbFE"
     },
     {
       "added_at": null,
@@ -683,8 +683,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rock N Roll",
-        "url": "https://open.spotify.com/album/3wPNe9aWZjMVr1UULcPuSX"
+        "name": "Achin' to Be (Live from Minneapolis, MN. 2022)",
+        "url": "https://open.spotify.com/album/4q9REpF57x9pS415RYPX8j"
       },
       "artists": [
         {
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 238333,
-      "name": "So Alive",
-      "url": "https://open.spotify.com/track/1VczhujvY0bkcf7jE2RbFE"
+      "duration_ms": 284625,
+      "name": "Black Sheets of Rain - Live from Minneapolis, MN. 2022.",
+      "url": "https://open.spotify.com/track/3lYkwSZgN4hTk3wzx6FmNI"
     },
     {
       "added_at": null,

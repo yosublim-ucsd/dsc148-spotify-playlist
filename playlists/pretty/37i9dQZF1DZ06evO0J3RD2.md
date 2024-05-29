@@ -2,33 +2,33 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0J3RD2.md) - [plain]
 
 ### [This Is Movements](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0J3RD2)
 
-> This is Movements\. The essential tracks, all in one playlist.
+> This is Movements\. Les chansons essentielles, toutes regroupées dans une seule liste de lecture.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,611 likes - 30 songs - 1 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,613 likes - 30 songs - 1 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Full Circle](https://open.spotify.com/track/4pdPJQqQNWuDQ6Swl2mW2u) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Feel Something](https://open.spotify.com/album/4baVGjGtGhgpb0oEqjSkLi) | 3:24 |
+| 1 | [Daylily](https://open.spotify.com/track/6AgtouHw1KrKy1PsoLjY3o) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Feel Something](https://open.spotify.com/album/4baVGjGtGhgpb0oEqjSkLi) | 3:28 |
 | 2 | [Kept](https://open.spotify.com/track/4mW87rC2y8oJWYCglzBuO1) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Outgrown Things](https://open.spotify.com/album/7rVzuWEA2QyRBZiaepThCO) | 2:27 |
 | 3 | [Lead Pipe](https://open.spotify.com/track/791XlnGCxlmyPS6BKdNzbp) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [RUCKUS!](https://open.spotify.com/album/3UO7dRJBreXDCBlqfCWBPo) | 2:59 |
 | 4 | [Cherry Thrill](https://open.spotify.com/track/3zrA9UNPZqSpgFD1GXIHhg) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Cherry Thrill](https://open.spotify.com/album/2M5bOmQDM8v3o9dDLBAP5p) | 3:19 |
-| 5 | [Colorblind](https://open.spotify.com/track/4jhbBCHWjQqWD4cifyuAcA) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Feel Something](https://open.spotify.com/album/4baVGjGtGhgpb0oEqjSkLi) | 3:40 |
+| 5 | [Full Circle](https://open.spotify.com/track/4pdPJQqQNWuDQ6Swl2mW2u) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Feel Something](https://open.spotify.com/album/4baVGjGtGhgpb0oEqjSkLi) | 3:24 |
 | 6 | [Panic](https://open.spotify.com/track/0qwoBdMnysN7dDT6tK3fcE) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [No Good Left To Give \(B\-Sides\)](https://open.spotify.com/album/5hHi9UqkmVQ1kDJO2ufgs8) | 3:08 |
 | 7 | [I Hope You Choke!](https://open.spotify.com/track/5q6pgHMUEIdq78NVmmytL5) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [RUCKUS!](https://open.spotify.com/album/3UO7dRJBreXDCBlqfCWBPo) | 3:19 |
 | 8 | [Skin To Skin](https://open.spotify.com/track/1leOJnHs7HFXF4B5Nsgkmk) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [No Good Left To Give](https://open.spotify.com/album/77DJwm3iezGJOtsZdNGE3Z) | 4:00 |
-| 9 | [Third Degree](https://open.spotify.com/track/31ziLyxm1ZIy8vEXM6EzkF) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Feel Something](https://open.spotify.com/album/4baVGjGtGhgpb0oEqjSkLi) | 3:46 |
+| 9 | [Colorblind](https://open.spotify.com/track/4jhbBCHWjQqWD4cifyuAcA) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Feel Something](https://open.spotify.com/album/4baVGjGtGhgpb0oEqjSkLi) | 3:40 |
 | 10 | [Nineteen](https://open.spotify.com/track/5b3p0Lc2Kc1gwZnECZ1kmg) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Outgrown Things](https://open.spotify.com/album/7rVzuWEA2QyRBZiaepThCO) | 4:01 |
 | 11 | [Heaven Sent](https://open.spotify.com/track/2VVPf2Z8FmTwfT5oUnFE48) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [RUCKUS!](https://open.spotify.com/album/3UO7dRJBreXDCBlqfCWBPo) | 3:00 |
 | 12 | [Seneca](https://open.spotify.com/track/6NODZg5BdHffvguB5Qky1v) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [No Good Left To Give](https://open.spotify.com/album/77DJwm3iezGJOtsZdNGE3Z) | 3:09 |
-| 13 | [Deadly Dull](https://open.spotify.com/track/4qod43EImMolOovemD03is) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Feel Something](https://open.spotify.com/album/4baVGjGtGhgpb0oEqjSkLi) | 3:47 |
+| 13 | [Third Degree](https://open.spotify.com/track/31ziLyxm1ZIy8vEXM6EzkF) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Feel Something](https://open.spotify.com/album/4baVGjGtGhgpb0oEqjSkLi) | 3:46 |
 | 14 | [Hatchet](https://open.spotify.com/track/6jGPtSuSPFODlN1a7TQuqT) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Outgrown Things](https://open.spotify.com/album/7rVzuWEA2QyRBZiaepThCO) | 2:44 |
 | 15 | [A.M.P.](https://open.spotify.com/track/3QqZ3IX7jXUViisvlMT4tM) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [RUCKUS!](https://open.spotify.com/album/3UO7dRJBreXDCBlqfCWBPo) | 3:22 |
 | 16 | [Garden Eyes](https://open.spotify.com/track/0llSSP7u2IRZ3ShjIu4PVZ) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [No Good Left To Give](https://open.spotify.com/album/77DJwm3iezGJOtsZdNGE3Z) | 3:23 |
-| 17 | [Suffer Through](https://open.spotify.com/track/3tNScF4XZyN4vVwuvgxOlR) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Feel Something](https://open.spotify.com/album/4baVGjGtGhgpb0oEqjSkLi) | 4:44 |
+| 17 | [Deadly Dull](https://open.spotify.com/track/4qod43EImMolOovemD03is) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Feel Something](https://open.spotify.com/album/4baVGjGtGhgpb0oEqjSkLi) | 3:47 |
 | 18 | [Worst Wishes](https://open.spotify.com/track/4iZKboBUScbIPlhBqG0P2x) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Outgrown Things](https://open.spotify.com/album/7rVzuWEA2QyRBZiaepThCO) | 3:06 |
 | 19 | [Fail You](https://open.spotify.com/track/3TvmvbInPXaI6KycRA3Qgl) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [RUCKUS!](https://open.spotify.com/album/3UO7dRJBreXDCBlqfCWBPo) | 3:06 |
 | 20 | [In My Blood](https://open.spotify.com/track/4urLThnwcBZ3hnHSIsbhCN) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [No Good Left To Give](https://open.spotify.com/album/77DJwm3iezGJOtsZdNGE3Z) | 3:33 |
-| 21 | [Fever Dream](https://open.spotify.com/track/3vQYmVKygsJbFXbbzO6bRm) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Feel Something](https://open.spotify.com/album/4baVGjGtGhgpb0oEqjSkLi) | 3:54 |
+| 21 | [Suffer Through](https://open.spotify.com/track/3tNScF4XZyN4vVwuvgxOlR) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Feel Something](https://open.spotify.com/album/4baVGjGtGhgpb0oEqjSkLi) | 4:44 |
 | 22 | [Losing Fight](https://open.spotify.com/track/5wwUo18ajQFtZnIsmZlblL) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Outgrown Things](https://open.spotify.com/album/7rVzuWEA2QyRBZiaepThCO) | 3:57 |
 | 23 | [Killing Time](https://open.spotify.com/track/3JkwT4fdlXMVpFxJisM1qE) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [RUCKUS!](https://open.spotify.com/album/3UO7dRJBreXDCBlqfCWBPo) | 3:50 |
 | 24 | [Don’t Give Up Your Ghost](https://open.spotify.com/track/0o0orlqmDZFKNbmAm1Rzgc) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [No Good Left To Give](https://open.spotify.com/album/77DJwm3iezGJOtsZdNGE3Z) | 3:56 |
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0J3RD2.md) - [plain]
 | 29 | [Protection \- Demo](https://open.spotify.com/track/0zGmEOISsMzpD0LvRVcJuO) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Protection \(Demo\)](https://open.spotify.com/album/11kPmcZX8Bwy0Rr3ZSe5hl) | 3:29 |
 | 30 | [Banquet \- Live at Studio 4](https://open.spotify.com/track/3RDTegTI8uKrYjkz8S7obS) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Live At Studio 4](https://open.spotify.com/album/1XmQ6wmZUnP6uNb4MWIYHV) | 3:05 |
 
-Snapshot ID: `ZlJ7gAAAAAAKj55azuRBSAseSAf5uWJV`
+Snapshot ID: `ZlPNAAAAAACrIKQTzqOi0fH4heQjUgd2`

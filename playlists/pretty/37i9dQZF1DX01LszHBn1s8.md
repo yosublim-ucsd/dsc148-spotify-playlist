@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 
 > ⚫️⚪️ PEDRO PEDRO PEDRO ⚪️⚫️
 
-[Spotify](https://open.spotify.com/user/spotify) - 261,325 likes - 944 songs - 2 day 1 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 261,359 likes - 944 songs - 2 day 1 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 | 7 | [Stargazing](https://open.spotify.com/track/3Vr3zh0r7ALn8VLqCiRR10) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Stargazing](https://open.spotify.com/album/3VNxRarx9HUI5w7DHv0TBj) | 2:52 |
 | 8 | [BRAND NEW BITCH](https://open.spotify.com/track/13DNuiQyuTDcAw6Y8thZFM) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [BRAND NEW BITCH](https://open.spotify.com/album/6xMnRBIpa2x3M40yVkGMBb) | 3:16 |
 | 9 | [i like the way you kiss me](https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [i like the way you kiss me](https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z) | 2:22 |
-| 10 | [Gegagedigedagedago \(Cotton Eye Joe Viral Version\) \- Gegagedigedagedago \(with Razi\) \[Cotton Eye Joe Viral Version\]](https://open.spotify.com/track/5PZEY7GQnozAM20AECyryR) | [Rednex](https://open.spotify.com/artist/22Zqu1yyebVnbve8FxbJ2g), [Razi](https://open.spotify.com/artist/3BiOCDs5cPIRMyOX5f5nC3) | [Gegagedigedagedago \(Cotton Eye Joe Viral Version\)](https://open.spotify.com/album/7ppANxRYsiauednEVILNlz) | 2:35 |
+| 10 | [Gegagedigedagedago \[Cotton Eye Joe Viral Version\] \- Gegagedigedagedago \(with Razi\) \[Cotton Eye Joe Viral Version\]](https://open.spotify.com/track/5PZEY7GQnozAM20AECyryR) | [Rednex](https://open.spotify.com/artist/22Zqu1yyebVnbve8FxbJ2g), [Razi](https://open.spotify.com/artist/3BiOCDs5cPIRMyOX5f5nC3) | [Gegagedigedagedago \(Cotton Eye Joe Viral Version\)](https://open.spotify.com/album/7ppANxRYsiauednEVILNlz) | 2:35 |
 | 11 | [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 |
 | 12 | [Hide Away](https://open.spotify.com/track/7fPyCCiXVwbzPQ1MtoUChl) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Sit Still, Look Pretty](https://open.spotify.com/album/3NoYyHEGIa8as1c0cisZAt) | 3:11 |
 | 13 | [Tell Ur Girlfriend](https://open.spotify.com/track/3lMzT16MjAKKXF7pSZn13B) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Tell Ur Girlfriend](https://open.spotify.com/album/0S8DGX9LmBkRSVi3ywcCOT) | 2:04 |

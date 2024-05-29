@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "Enjoy trendy & chill Korean R&B music. (Cover: (Cover: TOIL, Gist)",
+  "description": "Enjoy trendy & chill Korean R&B music. (Cover: Jay Park)",
   "name": "TrenChill K-R&B",
   "tracks": [
     {
@@ -1682,7 +1682,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-22",
+      "date_removed": null,
       "duration_ms": 188706,
       "name": "Beyond Love (Feat. 10CM)",
       "url": "https://open.spotify.com/track/0HsRZwZzHoZ5AM5W2ZYI5c"
@@ -3788,7 +3788,7 @@
       ],
       "date_added": "2024-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-29",
       "duration_ms": 183093,
       "name": "don't leave me",
       "url": "https://open.spotify.com/track/5Fb64pKATb2BrH4yMPHkW3"
@@ -5906,7 +5906,7 @@
       ],
       "date_added": "2024-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-29",
       "duration_ms": 166935,
       "name": "Hug Me",
       "url": "https://open.spotify.com/track/29iBmddkKfwYrUbfJmjj6K"
@@ -6228,7 +6228,7 @@
       ],
       "date_added": "2024-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-29",
       "duration_ms": 203933,
       "name": "In my dream (Prod. Inf)",
       "url": "https://open.spotify.com/track/1HXdmA14opY7kLPsi7NQLF"
@@ -7886,7 +7886,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-22",
+      "date_removed": null,
       "duration_ms": 207493,
       "name": "Make Up (Feat. Crush)",
       "url": "https://open.spotify.com/track/19zsSUEuJNzNA6eqInqyF9"
@@ -11962,6 +11962,28 @@
       "duration_ms": 205856,
       "name": "TALK2ME! (feat. pH-1)",
       "url": "https://open.spotify.com/track/6tCVRuYVGG6L5tjeOcxaqR"
+    },
+    {
+      "album": {
+        "name": "Jay Park Season 2",
+        "url": "https://open.spotify.com/album/0MazhZi5jQbkueKX52rkaR"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "NATTY",
+          "url": "https://open.spotify.com/artist/1Y3klzPXyHrinIk3tQ20Se"
+        }
+      ],
+      "date_added": "2024-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230499,
+      "name": "Taxi Blurr (Feat. NATTY of KISS OF LIFE)",
+      "url": "https://open.spotify.com/track/5IY8i6WnkqvmRnIrF4lqDx"
     },
     {
       "album": {

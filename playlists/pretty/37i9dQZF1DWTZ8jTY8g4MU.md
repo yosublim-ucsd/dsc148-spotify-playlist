@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ8jTY8g4MU.md) - [plain]
 
 ### [ شيلات](https://open.spotify.com/playlist/37i9dQZF1DWTZ8jTY8g4MU)
 
-> أفضل أغاني الشيلات التي لا يمكن التوقف عن الاستماع اليها\. الغلاف: فهد بن فصلا
+> أفضل أغاني الشيلات التي لا يمكن التوقف عن الاستماع اليها\. الغلاف: محمد بن غرمان
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,056 likes - 51 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,088 likes - 51 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ8jTY8g4MU.md) - [plain]
 | 50 | [كثير اشتقت](https://open.spotify.com/track/0sqyiIR4M1dwuyEbsyAeow) | [عثمان الشراري](https://open.spotify.com/artist/0YsNrTZe7uAUGwdPmLPNgT) | [كثير اشتقت](https://open.spotify.com/album/113gPgvcLFd3nrQNVkNyGG) | 3:34 |
 | 51 | [‎يا ابن خماش](https://open.spotify.com/track/5poJi9KfMINtm0sZ06nSoD) | [محمد آل نجم](https://open.spotify.com/artist/6XFaew6NT18YAjTawaYaTI) | [‎يا ابن خماش](https://open.spotify.com/album/74qnorGX715jcLNRMmMSds) | 4:02 |
 
-Snapshot ID: `ZkcFMgAAAADDNfaU2yf6oq+cJ6UaQURO`
+Snapshot ID: `ZlXbwAAAAAA2fsP4RrTQGgsEGd81PciX`

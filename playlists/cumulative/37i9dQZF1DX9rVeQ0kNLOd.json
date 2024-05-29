@@ -2275,6 +2275,32 @@
     },
     {
       "album": {
+        "name": "Pointless 5",
+        "url": "https://open.spotify.com/album/18AtpuxDZUVuwRk4M91IYX"
+      },
+      "artists": [
+        {
+          "name": "SCHA DARA PARR",
+          "url": "https://open.spotify.com/artist/43hK0a9mmIS2ROhc0ukG7X"
+        },
+        {
+          "name": "STUTS",
+          "url": "https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d"
+        },
+        {
+          "name": "PUNPEE",
+          "url": "https://open.spotify.com/artist/0mP8A1qIoufScrsxq18Cw6"
+        }
+      ],
+      "date_added": "2024-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258005,
+      "name": "Pointless 5",
+      "url": "https://open.spotify.com/track/2zn7qeTEsYFjVd9s9Uhrze"
+    },
+    {
+      "album": {
         "name": "Promenade",
         "url": "https://open.spotify.com/album/6MWwsRzFB63os13VAZ43V9"
       },
@@ -3595,6 +3621,24 @@
     },
     {
       "album": {
+        "name": "\u3046\u3064\u3064",
+        "url": "https://open.spotify.com/album/5u9iXFpNMg7S8mzHBlqGUi"
+      },
+      "artists": [
+        {
+          "name": "Mamiko Suzuki",
+          "url": "https://open.spotify.com/artist/21bkNzNX7do9qb8SM9wFQF"
+        }
+      ],
+      "date_added": "2024-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220313,
+      "name": "\u3046\u3064\u3064",
+      "url": "https://open.spotify.com/track/3vJCuyn9ASeiFGMR31b4Cv"
+    },
+    {
+      "album": {
         "name": "\u304a\u3081\u304b\u3057",
         "url": "https://open.spotify.com/album/5AMeHgFVp1H9iv2e7xYH48"
       },
@@ -4070,7 +4114,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-29",
       "duration_ms": 185454,
       "name": "\u308f\u304c\u307e\u307e",
       "url": "https://open.spotify.com/track/6FQYiyKoqOCbhhGnOxnoVI"
@@ -5800,7 +5844,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-29",
       "duration_ms": 281455,
       "name": "\u98a8\u306e\u4e2d\u3067",
       "url": "https://open.spotify.com/track/67NcGPtqj6ZT0dCVK4zjgV"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u30cb\u30e5\u30fc\u30ab\u30de\u30fc\u30fb\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002Cover: Bye-Bye-Hand\u306e\u65b9\u7a0b\u5f0f",
+  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u30cb\u30e5\u30fc\u30ab\u30de\u30fc\u30fb\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002Cover: swetty",
   "name": "RADAR: Early Noise ",
   "tracks": [
     {
@@ -7211,6 +7211,24 @@
     },
     {
       "album": {
+        "name": "Jamlady",
+        "url": "https://open.spotify.com/album/7EJv21wZ5OMjiGhYqwzqdT"
+      },
+      "artists": [
+        {
+          "name": "luv",
+          "url": "https://open.spotify.com/artist/2Gy7SZvabW5UQgL0oljfeB"
+        }
+      ],
+      "date_added": "2024-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181016,
+      "name": "Jamlady",
+      "url": "https://open.spotify.com/track/1Ba17xXGAwiuGSWocu3tBM"
+    },
+    {
+      "album": {
         "name": "JOHJI",
         "url": "https://open.spotify.com/album/6Mv4qwCruIA7hkMAoCwPOt"
       },
@@ -9746,7 +9764,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-29",
       "duration_ms": 166285,
       "name": "Natural Sense",
       "url": "https://open.spotify.com/track/0vMiyLLjZvXFYlCaREHPKD"
@@ -10238,6 +10256,28 @@
       "duration_ms": 203863,
       "name": "Noidleap",
       "url": "https://open.spotify.com/track/6Frb0urydHcSQB8qGkp731"
+    },
+    {
+      "album": {
+        "name": "about me",
+        "url": "https://open.spotify.com/album/5AFqjtAnnkW0yAjMvg7hW2"
+      },
+      "artists": [
+        {
+          "name": "swetty",
+          "url": "https://open.spotify.com/artist/1upcOMqQPeePrD1BmZV6vm"
+        },
+        {
+          "name": "Yvng xan",
+          "url": "https://open.spotify.com/artist/3OzE7ohZzlPOmVuvC4ZPX0"
+        }
+      ],
+      "date_added": "2024-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157951,
+      "name": "nonfiction",
+      "url": "https://open.spotify.com/track/5yr4AGgoQCpuJggiZ5vllq"
     },
     {
       "album": {
@@ -16171,6 +16211,24 @@
     },
     {
       "album": {
+        "name": "Windy You",
+        "url": "https://open.spotify.com/album/3hEFC5XDTZfSalZz5mb2zp"
+      },
+      "artists": [
+        {
+          "name": "Billyrrom",
+          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
+        }
+      ],
+      "date_added": "2024-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230172,
+      "name": "Windy You",
+      "url": "https://open.spotify.com/track/0e4ksqJMLNDiI5235bLwHi"
+    },
+    {
+      "album": {
         "name": "Wish upon the Summer",
         "url": "https://open.spotify.com/album/00Ye5zlkyQbYj23OqKv0xe"
       },
@@ -16222,6 +16280,24 @@
       "duration_ms": 169714,
       "name": "Wishing",
       "url": "https://open.spotify.com/track/4xnmwQFY3pU00bO8qeu63K"
+    },
+    {
+      "album": {
+        "name": "WOLF MOON",
+        "url": "https://open.spotify.com/album/0vt4lj5Y2LFCFxbHmhQGmY"
+      },
+      "artists": [
+        {
+          "name": "Broken Kangaroo",
+          "url": "https://open.spotify.com/artist/2x88RJdG7aCmPZQAzlGUeo"
+        }
+      ],
+      "date_added": "2024-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174565,
+      "name": "WOLF MOON",
+      "url": "https://open.spotify.com/track/2a6w01xYo0nVxRNHzd6Ac2"
     },
     {
       "album": {
@@ -17982,7 +18058,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-29",
       "duration_ms": 241642,
       "name": "\u3067\u3059\u3068\u3089\u304f\u3057\u3087\u3093!!",
       "url": "https://open.spotify.com/track/54krDxm0tOxeZy36AKT3Bj"
@@ -24520,6 +24596,24 @@
       "duration_ms": 265290,
       "name": "\u611b\u306e\u8a00\u8449",
       "url": "https://open.spotify.com/track/4ResLs28mRYFb0nxR5XyMr"
+    },
+    {
+      "album": {
+        "name": "\u611b\u306e\u8f4d",
+        "url": "https://open.spotify.com/album/55NZ1KkUPQlWBQyCfDJaSA"
+      },
+      "artists": [
+        {
+          "name": "Chevon",
+          "url": "https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr"
+        }
+      ],
+      "date_added": "2024-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192430,
+      "name": "\u611b\u306e\u8f4d",
+      "url": "https://open.spotify.com/track/6uYn3JdjsjkSL7ruuM9sIQ"
     },
     {
       "album": {

@@ -272,7 +272,7 @@
       ],
       "date_added": "2024-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-29",
       "duration_ms": 297453,
       "name": "Crimson Day",
       "url": "https://open.spotify.com/track/28JSZ4KyzDXnnC2XnJX1db"
@@ -470,7 +470,7 @@
       ],
       "date_added": "2023-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-29",
       "duration_ms": 217653,
       "name": "G",
       "url": "https://open.spotify.com/track/3hpB5SlyESKXrmc6NUNQhd"
@@ -578,7 +578,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-28",
+      "date_removed": null,
       "duration_ms": 305906,
       "name": "Hail to the King",
       "url": "https://open.spotify.com/track/5anCkDvJ17aznvK5TED5uo"
@@ -780,7 +780,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-28",
+      "date_removed": null,
       "duration_ms": 353986,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/4Rs2N7ewIjanXUNYtMKK3j"
@@ -978,10 +978,28 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-29",
       "duration_ms": 326813,
       "name": "So Far Away",
       "url": "https://open.spotify.com/track/7Hr1Ignop7cymbE3FbOtXa"
+    },
+    {
+      "album": {
+        "name": "Nightmare",
+        "url": "https://open.spotify.com/album/1kZNgA27ewArSfE17yog8U"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "date_added": "2024-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326826,
+      "name": "So Far Away",
+      "url": "https://open.spotify.com/track/1vl4jCsTEs8basRO7pKQ7f"
     },
     {
       "album": {

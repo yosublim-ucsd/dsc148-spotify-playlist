@@ -1,12 +1,12 @@
 {
   "description": "This is Tigers Jaw. The essential tracks, all in one playlist.",
-  "num_followers": 3689,
+  "num_followers": 3692,
   "original_name": "This Is Tigers Jaw",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlJ7gAAAAACzATE1nU50jou72djoltQW",
+  "snapshot_id": "ZlPNAAAAAADbOJn647Lv0dBm1n89KZnK",
   "tracks": [
     {
       "added_at": null,
@@ -531,22 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Two Worlds",
-        "url": "https://open.spotify.com/album/7ogk8xz4DoKUcVOT3KbbwP"
-      },
-      "artists": [
-        {
-          "name": "Tigers Jaw",
-          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
-        }
-      ],
-      "duration_ms": 140426,
-      "name": "Test Pattern",
-      "url": "https://open.spotify.com/track/3Jg47BnPUcqwXnjvgOnnTL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Spirit Desire",
         "url": "https://open.spotify.com/album/2BS5nxXE6hjWQRplpfxrib"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 266706,
       "name": "Crystal Vision",
       "url": "https://open.spotify.com/track/7EFukKfVHrKBqk5uMvOA6w"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Two Worlds",
+        "url": "https://open.spotify.com/album/7ogk8xz4DoKUcVOT3KbbwP"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "duration_ms": 140426,
+      "name": "Test Pattern",
+      "url": "https://open.spotify.com/track/3Jg47BnPUcqwXnjvgOnnTL"
     },
     {
       "added_at": null,
@@ -595,22 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Two Worlds",
-        "url": "https://open.spotify.com/album/6QwYOgquTNb9e3pJklcmqn"
-      },
-      "artists": [
-        {
-          "name": "Tigers Jaw",
-          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
-        }
-      ],
-      "duration_ms": 100613,
-      "name": "Let Go/Trashed Floors",
-      "url": "https://open.spotify.com/track/64C4L1qeYTwt1POgAVb7xC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Warn Me",
         "url": "https://open.spotify.com/album/2Iq1FXyQkuUSpFmv3CEnzJ"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 194346,
       "name": "Warn Me",
       "url": "https://open.spotify.com/track/3FfmYyYHN47nLxPuJ84M0y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Two Worlds",
+        "url": "https://open.spotify.com/album/6QwYOgquTNb9e3pJklcmqn"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "duration_ms": 100613,
+      "name": "Let Go/Trashed Floors",
+      "url": "https://open.spotify.com/track/64C4L1qeYTwt1POgAVb7xC"
     },
     {
       "added_at": null,
@@ -659,22 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Two Worlds",
-        "url": "https://open.spotify.com/album/6QwYOgquTNb9e3pJklcmqn"
-      },
-      "artists": [
-        {
-          "name": "Tigers Jaw",
-          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
-        }
-      ],
-      "duration_ms": 121933,
-      "name": "Coil/Recoil",
-      "url": "https://open.spotify.com/track/69L8rEPccsIYFOLsVvl5Xs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Eyes Shut",
         "url": "https://open.spotify.com/album/0gFa8rxnAO3XOBTjX0ETfR"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 165466,
       "name": "Eyes Shut",
       "url": "https://open.spotify.com/track/6JzgPzivpGAf1Nu5nKHahR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Two Worlds",
+        "url": "https://open.spotify.com/album/6QwYOgquTNb9e3pJklcmqn"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "duration_ms": 121933,
+      "name": "Coil/Recoil",
+      "url": "https://open.spotify.com/track/69L8rEPccsIYFOLsVvl5Xs"
     },
     {
       "added_at": null,

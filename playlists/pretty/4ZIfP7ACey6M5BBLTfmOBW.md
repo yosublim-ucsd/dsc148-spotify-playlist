@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4ZIfP7ACey6M5BBLTfmOBW.md) - [plain]
 
 > All the freshest hip\-hop heaters in one list! Cover: Travis Scott.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 29,580 likes - 60 songs - 3 hr 1 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 29,576 likes - 60 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/4ZIfP7ACey6M5BBLTfmOBW.md) - [plain]
 | 5 | [Shutcho \(feat\. The Joy\)](https://open.spotify.com/track/6AZLjrFI5qh6IsMHzvyrIi) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [The Joy](https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby) | [Scarlet 2 CLAUDE](https://open.spotify.com/album/5ho4S2bnJJdF0uwT8YiQsw) | 4:30 |
 | 6 | [Hard To See](https://open.spotify.com/track/43MPwMnVPoGj3AIItvxdRl) | [Swavy](https://open.spotify.com/artist/6CHTgEfOTvm5flR5Cpzw0I) | [Hard To See](https://open.spotify.com/album/0RkVJHDQpePIHNuViSKQpI) | 2:57 |
 | 7 | [Elegant](https://open.spotify.com/track/5urtbbacJkW1vfkwidsR8V) | [Southside](https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN), [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [Elegant](https://open.spotify.com/album/4BMGdKiwQdey6Y3pKQJGRD) | 2:37 |
-| 8 | [NOTT](https://open.spotify.com/track/69zAjL2CE6gUO9DaHNjK8c) | [Hitkidd](https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5), [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC) | [NOTT](https://open.spotify.com/album/6DMRH8HHK7eKqz47CXCPbo) | 3:02 |
+| 8 | [NOTT](https://open.spotify.com/track/69zAjL2CE6gUO9DaHNjK8c) | [Hitkidd](https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5), [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC) | [NOTT](https://open.spotify.com/album/6DMRH8HHK7eKqz47CXCPbo) | 3:01 |
 | 9 | [Complicated](https://open.spotify.com/track/3pQKpXKVx2VUpt62QIdTQZ) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [BARE CHAT](https://open.spotify.com/album/47uDkYlLrtQMT26ywUpaGQ) | 2:49 |
 | 10 | [Deep End](https://open.spotify.com/track/1yZpdHZpwnnT7Evpo7W2ZX) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [Deep End](https://open.spotify.com/album/6YMwAuclDCYoo0D0fpwFyC) | 2:26 |
 | 11 | [Wildlife \(feat\. Sleepy Hallow\)](https://open.spotify.com/track/350eBNxmi87YdMxQvauyUQ) | [Scorey](https://open.spotify.com/artist/0X3nsc84A9qlFilmlWNwQb), [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV) | [Wildlife \(feat\. Sleepy Hallow\)](https://open.spotify.com/album/6NRSyW6U2CGW7eedBPyB3f) | 2:53 |

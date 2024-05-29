@@ -1,6 +1,6 @@
 {
   "description": "Explore the inner worlds floating in the imagination of experimental Ambient music producers.",
-  "num_followers": 193971,
+  "num_followers": 194009,
   "original_name": "Exospheres",
   "owner": {
     "name": "Spotify",
@@ -75,18 +75,22 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Green",
-        "url": "https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl"
+        "name": "Static Discos 100",
+        "url": "https://open.spotify.com/album/5BE3SX8n0vQ2rEWzsqdS9q"
       },
       "artists": [
         {
-          "name": "Hiroshi Yoshimura",
-          "url": "https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB"
+          "name": "Murcof",
+          "url": "https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd"
+        },
+        {
+          "name": "Fax",
+          "url": "https://open.spotify.com/artist/5QjGFe0TnTyU3FF44b0vx4"
         }
       ],
-      "duration_ms": 267893,
-      "name": "FEEL",
-      "url": "https://open.spotify.com/track/2okdRYCtBKj28PXuaheRNS"
+      "duration_ms": 100019,
+      "name": "Static Discos 100",
+      "url": "https://open.spotify.com/track/1ruo1XspKEfAEJthJg9UI7"
     },
     {
       "added_at": "2023-12-12 18:06:55",
@@ -107,22 +111,18 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Static Discos 100",
-        "url": "https://open.spotify.com/album/5BE3SX8n0vQ2rEWzsqdS9q"
+        "name": "Green",
+        "url": "https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl"
       },
       "artists": [
         {
-          "name": "Murcof",
-          "url": "https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd"
-        },
-        {
-          "name": "Fax",
-          "url": "https://open.spotify.com/artist/5QjGFe0TnTyU3FF44b0vx4"
+          "name": "Hiroshi Yoshimura",
+          "url": "https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB"
         }
       ],
-      "duration_ms": 100019,
-      "name": "Static Discos 100",
-      "url": "https://open.spotify.com/track/1ruo1XspKEfAEJthJg9UI7"
+      "duration_ms": 267893,
+      "name": "FEEL",
+      "url": "https://open.spotify.com/track/2okdRYCtBKj28PXuaheRNS"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -659,22 +659,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Reflections",
-        "url": "https://open.spotify.com/album/7gv0Nr7L0yZ8s0GM0gfDbO"
-      },
-      "artists": [
-        {
-          "name": "X.Y.R.",
-          "url": "https://open.spotify.com/artist/6toHLoCsmqKPjtprSVucxz"
-        }
-      ],
-      "duration_ms": 386000,
-      "name": "Labyrinth (Exit)",
-      "url": "https://open.spotify.com/track/1uWdXliELcLPxbgLAXiTQL"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "Fading",
         "url": "https://open.spotify.com/album/5r78nlhueNsrrviTYGPdfR"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 307546,
       "name": "Tangente",
       "url": "https://open.spotify.com/track/7CUePB3Lb3EMnNZEuQDMgN"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/7gv0Nr7L0yZ8s0GM0gfDbO"
+      },
+      "artists": [
+        {
+          "name": "X.Y.R.",
+          "url": "https://open.spotify.com/artist/6toHLoCsmqKPjtprSVucxz"
+        }
+      ],
+      "duration_ms": 386000,
+      "name": "Labyrinth (Exit)",
+      "url": "https://open.spotify.com/track/1uWdXliELcLPxbgLAXiTQL"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -771,6 +771,22 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
+        "name": "Caisson",
+        "url": "https://open.spotify.com/album/6iRkzAQN5FmXmuoimn26q7"
+      },
+      "artists": [
+        {
+          "name": "Loscil",
+          "url": "https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK"
+        }
+      ],
+      "duration_ms": 469333,
+      "name": "Caisson",
+      "url": "https://open.spotify.com/track/7CvIZIUj1wwT2Kdq1Mnyxv"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
         "name": "Anoyo",
         "url": "https://open.spotify.com/album/78DUDqx2smwm8ZB8D6zG4T"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 498065,
       "name": "Tilting On Windmills",
       "url": "https://open.spotify.com/track/7mvnU6KO4nC2C37BrbF4YL"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
-        "name": "Caisson",
-        "url": "https://open.spotify.com/album/6iRkzAQN5FmXmuoimn26q7"
-      },
-      "artists": [
-        {
-          "name": "Loscil",
-          "url": "https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK"
-        }
-      ],
-      "duration_ms": 469333,
-      "name": "Caisson",
-      "url": "https://open.spotify.com/track/7CvIZIUj1wwT2Kdq1Mnyxv"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Sequences",
-        "url": "https://open.spotify.com/album/0BhgTe2K6uO37VjJAtjD7B"
-      },
-      "artists": [
-        {
-          "name": "Idee Du Femelle",
-          "url": "https://open.spotify.com/artist/7456KsYCY7hMaTuLvtZPtm"
-        }
-      ],
-      "duration_ms": 457487,
-      "name": "Come Back To Bali",
-      "url": "https://open.spotify.com/track/5bMRA7SYWh3tpeij7yH8zi"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "Nothing Is Objective",
         "url": "https://open.spotify.com/album/5zampteQ8wridsIc1jU4pu"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 386853,
       "name": "Nothing Ends 2018",
       "url": "https://open.spotify.com/track/7gKirx9P6EHXNR6mMOSgvP"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "Sequences",
+        "url": "https://open.spotify.com/album/0BhgTe2K6uO37VjJAtjD7B"
+      },
+      "artists": [
+        {
+          "name": "Idee Du Femelle",
+          "url": "https://open.spotify.com/artist/7456KsYCY7hMaTuLvtZPtm"
+        }
+      ],
+      "duration_ms": 457487,
+      "name": "Come Back To Bali",
+      "url": "https://open.spotify.com/track/5bMRA7SYWh3tpeij7yH8zi"
     },
     {
       "added_at": "2023-06-07 02:21:46",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
+        "name": "that day, on the beach",
+        "url": "https://open.spotify.com/album/5cL9c4WEeS33FzfbwYb4Ha"
+      },
+      "artists": [
+        {
+          "name": "Matt Kivel",
+          "url": "https://open.spotify.com/artist/2WkXhpsmgr8xeRpfF9Bl1w"
+        }
+      ],
+      "duration_ms": 151302,
+      "name": "memorial park",
+      "url": "https://open.spotify.com/track/4OoGwa6kp9TmsjXopMP5Yo"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
         "name": "Equivalents",
         "url": "https://open.spotify.com/album/6U30ugActrLoDvKgESHFQs"
       },
@@ -1047,18 +1063,18 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "that day, on the beach",
-        "url": "https://open.spotify.com/album/5cL9c4WEeS33FzfbwYb4Ha"
+        "name": "Lost in Elastic Time",
+        "url": "https://open.spotify.com/album/2yxorCaYTDEjcru4TEV1Rh"
       },
       "artists": [
         {
-          "name": "Matt Kivel",
-          "url": "https://open.spotify.com/artist/2WkXhpsmgr8xeRpfF9Bl1w"
+          "name": "Microhm",
+          "url": "https://open.spotify.com/artist/2R34QK2WtkeIezUVWOEjRN"
         }
       ],
-      "duration_ms": 151302,
-      "name": "memorial park",
-      "url": "https://open.spotify.com/track/4OoGwa6kp9TmsjXopMP5Yo"
+      "duration_ms": 638192,
+      "name": "Emerging from the Depths",
+      "url": "https://open.spotify.com/track/4tPSK7og1b48suaGv5I3wN"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1075,22 +1091,6 @@
       "duration_ms": 186321,
       "name": "Don't Forget",
       "url": "https://open.spotify.com/track/5mZ8Uf5FH7Xp6hkolpHK7N"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
-        "name": "Lost in Elastic Time",
-        "url": "https://open.spotify.com/album/2yxorCaYTDEjcru4TEV1Rh"
-      },
-      "artists": [
-        {
-          "name": "Microhm",
-          "url": "https://open.spotify.com/artist/2R34QK2WtkeIezUVWOEjRN"
-        }
-      ],
-      "duration_ms": 638192,
-      "name": "Emerging from the Depths",
-      "url": "https://open.spotify.com/track/4tPSK7og1b48suaGv5I3wN"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Endless Filament",
-        "url": "https://open.spotify.com/album/1pgBqtipj2AI0o07ugj5rl"
-      },
-      "artists": [
-        {
-          "name": "Fia Fiell",
-          "url": "https://open.spotify.com/artist/4C8lEDj85NWxS4MNCpyp9e"
-        }
-      ],
-      "duration_ms": 937000,
-      "name": "Endless Filament",
-      "url": "https://open.spotify.com/track/2ST4AaDsvY9D15iZSJuMXj"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "Endlessness",
         "url": "https://open.spotify.com/album/0pHwRR0CdmJTwTU96ZCrIE"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 199148,
       "name": "Golden Hour",
       "url": "https://open.spotify.com/track/5lfY5qGSiGqpaVbkW3OCn9"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "Endless Filament",
+        "url": "https://open.spotify.com/album/1pgBqtipj2AI0o07ugj5rl"
+      },
+      "artists": [
+        {
+          "name": "Fia Fiell",
+          "url": "https://open.spotify.com/artist/4C8lEDj85NWxS4MNCpyp9e"
+        }
+      ],
+      "duration_ms": 937000,
+      "name": "Endless Filament",
+      "url": "https://open.spotify.com/track/2ST4AaDsvY9D15iZSJuMXj"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Guidance in Dreams",
-        "url": "https://open.spotify.com/album/3nwRb1uqt2bX0jT6bD5ECJ"
-      },
-      "artists": [
-        {
-          "name": "HEAVY CHEST",
-          "url": "https://open.spotify.com/artist/57fgfg6PTbTqtPegX6rXV5"
-        }
-      ],
-      "duration_ms": 131879,
-      "name": "Dawn Chorus",
-      "url": "https://open.spotify.com/track/0Ldll3NS6kcb89k9PqolI7"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "Brancusi Sculpting Beyonce",
         "url": "https://open.spotify.com/album/4IUTOlF0Hb0LRm2yfJUiId"
       },
@@ -1403,6 +1387,22 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
+        "name": "Guidance in Dreams",
+        "url": "https://open.spotify.com/album/3nwRb1uqt2bX0jT6bD5ECJ"
+      },
+      "artists": [
+        {
+          "name": "HEAVY CHEST",
+          "url": "https://open.spotify.com/artist/57fgfg6PTbTqtPegX6rXV5"
+        }
+      ],
+      "duration_ms": 131879,
+      "name": "Dawn Chorus",
+      "url": "https://open.spotify.com/track/0Ldll3NS6kcb89k9PqolI7"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
         "name": "E2-XO",
         "url": "https://open.spotify.com/album/1ugwG7gGoTefOjLbrPDKMd"
       },
@@ -1415,22 +1415,6 @@
       "duration_ms": 475965,
       "name": "XO 4 - Wolf 1061c",
       "url": "https://open.spotify.com/track/1BmsXPYs9cJ7jiCywPfPjF"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
-        "name": "Renaissance",
-        "url": "https://open.spotify.com/album/3VENz2QJCmYvxXmEJw5w1p"
-      },
-      "artists": [
-        {
-          "name": "Asaph S\u00e1nchez",
-          "url": "https://open.spotify.com/artist/6WDgyfRIVQ68WwwnYZIOsI"
-        }
-      ],
-      "duration_ms": 300000,
-      "name": "Ideal",
-      "url": "https://open.spotify.com/track/6ou4vxp2Er281W1cqByTpC"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1451,6 +1435,22 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
+        "name": "Renaissance",
+        "url": "https://open.spotify.com/album/3VENz2QJCmYvxXmEJw5w1p"
+      },
+      "artists": [
+        {
+          "name": "Asaph S\u00e1nchez",
+          "url": "https://open.spotify.com/artist/6WDgyfRIVQ68WwwnYZIOsI"
+        }
+      ],
+      "duration_ms": 300000,
+      "name": "Ideal",
+      "url": "https://open.spotify.com/track/6ou4vxp2Er281W1cqByTpC"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
         "name": "Amplitudes",
         "url": "https://open.spotify.com/album/41je9hrZffgF9mq47cGiMk"
       },
@@ -1463,22 +1463,6 @@
       "duration_ms": 328083,
       "name": "Everyone is Far Away",
       "url": "https://open.spotify.com/track/4fmMywOoOP53r34yowvadz"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
-        "name": "Light Splitting",
-        "url": "https://open.spotify.com/album/1amD8zqzlpSivemeUCIylU"
-      },
-      "artists": [
-        {
-          "name": "Hainbach",
-          "url": "https://open.spotify.com/artist/3FlXXv8lfSt3ZWk9epMxe7"
-        }
-      ],
-      "duration_ms": 261311,
-      "name": "A Clear Path",
-      "url": "https://open.spotify.com/track/3nGPxRTbi8628ZshMRjuQo"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1499,6 +1483,22 @@
       "duration_ms": 236000,
       "name": "Lago Escondido",
       "url": "https://open.spotify.com/track/5iUOejpBYg3sXiwD8poRAq"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "Light Splitting",
+        "url": "https://open.spotify.com/album/1amD8zqzlpSivemeUCIylU"
+      },
+      "artists": [
+        {
+          "name": "Hainbach",
+          "url": "https://open.spotify.com/artist/3FlXXv8lfSt3ZWk9epMxe7"
+        }
+      ],
+      "duration_ms": 261311,
+      "name": "A Clear Path",
+      "url": "https://open.spotify.com/track/3nGPxRTbi8628ZshMRjuQo"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1559,26 +1559,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "DRAHTKURBEL",
-        "url": "https://open.spotify.com/album/5CTHrftpTIpWpUj6vifWW9"
-      },
-      "artists": [
-        {
-          "name": "Eckert & Hagen",
-          "url": "https://open.spotify.com/artist/7sstIzjbXHYkMO1HpLVlrq"
-        },
-        {
-          "name": "No Bloom Now",
-          "url": "https://open.spotify.com/artist/4woc6oFscmJHwXGCubSvrH"
-        }
-      ],
-      "duration_ms": 288500,
-      "name": "DRAHTKURBEL",
-      "url": "https://open.spotify.com/track/3euqW42c6yR3DP4GgIIwpE"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "Signals Bulletin",
         "url": "https://open.spotify.com/album/10FIu2uRFbl2UVZSKgaK54"
       },
@@ -1595,6 +1575,26 @@
       "duration_ms": 385998,
       "name": "How A Spiral Works",
       "url": "https://open.spotify.com/track/7eGYkcCZMNTLpJZ0sc4Jgc"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "DRAHTKURBEL",
+        "url": "https://open.spotify.com/album/5CTHrftpTIpWpUj6vifWW9"
+      },
+      "artists": [
+        {
+          "name": "Eckert & Hagen",
+          "url": "https://open.spotify.com/artist/7sstIzjbXHYkMO1HpLVlrq"
+        },
+        {
+          "name": "No Bloom Now",
+          "url": "https://open.spotify.com/artist/4woc6oFscmJHwXGCubSvrH"
+        }
+      ],
+      "duration_ms": 288500,
+      "name": "DRAHTKURBEL",
+      "url": "https://open.spotify.com/track/3euqW42c6yR3DP4GgIIwpE"
     },
     {
       "added_at": "2023-04-21 14:41:23",

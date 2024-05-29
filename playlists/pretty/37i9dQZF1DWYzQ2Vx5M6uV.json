@@ -1,6 +1,6 @@
 {
   "description": "Bringing you the hottest collaborations between Afro & Latin artists. Cover: Rvssian, Ayra Starr & Rauw Alejandro ",
-  "num_followers": 114875,
+  "num_followers": 114890,
   "original_name": "Afro Ritmo",
   "owner": {
     "name": "Spotify",
@@ -943,26 +943,6 @@
     {
       "added_at": "2024-05-06 17:24:48",
       "album": {
-        "name": "Guava Rose",
-        "url": "https://open.spotify.com/album/5s6AYaudqnGc8v3OhscQvs"
-      },
-      "artists": [
-        {
-          "name": "June Freedom",
-          "url": "https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC"
-        },
-        {
-          "name": "Eva Ruiz",
-          "url": "https://open.spotify.com/artist/0u2TFlIJZJiir8Oi7YkbwV"
-        }
-      ],
-      "duration_ms": 192108,
-      "name": "Guava Rose",
-      "url": "https://open.spotify.com/track/2sTIxJiG84ewMHTGrg1zBK"
-    },
-    {
-      "added_at": "2024-05-06 17:24:48",
-      "album": {
         "name": "Baila Kumi",
         "url": "https://open.spotify.com/album/7Bpb7mSPr0iJE7MyHqeVav"
       },
@@ -979,6 +959,26 @@
       "duration_ms": 206808,
       "name": "Baila Kumi",
       "url": "https://open.spotify.com/track/6MDegdCkEiUjE7ftt5GcPU"
+    },
+    {
+      "added_at": "2024-05-06 17:24:48",
+      "album": {
+        "name": "Guava Rose",
+        "url": "https://open.spotify.com/album/5s6AYaudqnGc8v3OhscQvs"
+      },
+      "artists": [
+        {
+          "name": "June Freedom",
+          "url": "https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC"
+        },
+        {
+          "name": "Eva Ruiz",
+          "url": "https://open.spotify.com/artist/0u2TFlIJZJiir8Oi7YkbwV"
+        }
+      ],
+      "duration_ms": 192108,
+      "name": "Guava Rose",
+      "url": "https://open.spotify.com/track/2sTIxJiG84ewMHTGrg1zBK"
     },
     {
       "added_at": "2024-05-06 17:24:48",
@@ -1067,30 +1067,6 @@
     {
       "added_at": "2024-05-06 17:24:48",
       "album": {
-        "name": "Midnight Boom (with ChocQuibTown & Afro B)",
-        "url": "https://open.spotify.com/album/522yErxxCtXTavUFmyNoDk"
-      },
-      "artists": [
-        {
-          "name": "Ir Sais",
-          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
-        },
-        {
-          "name": "ChocQuibTown",
-          "url": "https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z"
-        },
-        {
-          "name": "Afro B",
-          "url": "https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC"
-        }
-      ],
-      "duration_ms": 220552,
-      "name": "Midnight Boom - with ChocQuibTown & Afro B",
-      "url": "https://open.spotify.com/track/46mjoNCQ3EifsDnd6dwqRD"
-    },
-    {
-      "added_at": "2024-05-06 17:24:48",
-      "album": {
         "name": "Boom Bam (with Afro B & Mariah Angeliq",
         "url": "https://open.spotify.com/album/3SgiVymzgM0tF6U0Uua8hH"
       },
@@ -1167,6 +1143,30 @@
     {
       "added_at": "2024-05-06 17:24:48",
       "album": {
+        "name": "Midnight Boom (with ChocQuibTown & Afro B)",
+        "url": "https://open.spotify.com/album/522yErxxCtXTavUFmyNoDk"
+      },
+      "artists": [
+        {
+          "name": "Ir Sais",
+          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
+        },
+        {
+          "name": "ChocQuibTown",
+          "url": "https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z"
+        },
+        {
+          "name": "Afro B",
+          "url": "https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC"
+        }
+      ],
+      "duration_ms": 220552,
+      "name": "Midnight Boom - with ChocQuibTown & Afro B",
+      "url": "https://open.spotify.com/track/46mjoNCQ3EifsDnd6dwqRD"
+    },
+    {
+      "added_at": "2024-05-06 17:24:48",
+      "album": {
         "name": "Estrella",
         "url": "https://open.spotify.com/album/2J0nrljwYK59zr9Fl3cRwb"
       },
@@ -1227,22 +1227,6 @@
       "duration_ms": 231520,
       "name": "Sanga Zoo (feat. Farruko)",
       "url": "https://open.spotify.com/track/6RcQeYGYy2N8CR6N1HJN5T"
-    },
-    {
-      "added_at": "2024-05-06 17:24:48",
-      "album": {
-        "name": "Claramente",
-        "url": "https://open.spotify.com/album/4tOaBzNRKy3Dl0Kz6itXoH"
-      },
-      "artists": [
-        {
-          "name": "Ir Sais",
-          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
-        }
-      ],
-      "duration_ms": 182542,
-      "name": "Claramente",
-      "url": "https://open.spotify.com/track/3aDFCQQfwcL4aaYEjybAKh"
     },
     {
       "added_at": "2024-05-06 17:24:48",
@@ -1391,6 +1375,22 @@
     {
       "added_at": "2024-05-06 17:24:48",
       "album": {
+        "name": "Claramente",
+        "url": "https://open.spotify.com/album/4tOaBzNRKy3Dl0Kz6itXoH"
+      },
+      "artists": [
+        {
+          "name": "Ir Sais",
+          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
+        }
+      ],
+      "duration_ms": 182542,
+      "name": "Claramente",
+      "url": "https://open.spotify.com/track/3aDFCQQfwcL4aaYEjybAKh"
+    },
+    {
+      "added_at": "2024-05-06 17:24:48",
+      "album": {
         "name": "Mare Mare",
         "url": "https://open.spotify.com/album/5smSak9EETU92nlyJ4ARRS"
       },
@@ -1451,26 +1451,22 @@
     {
       "added_at": "2024-05-06 17:24:48",
       "album": {
-        "name": "Certainly",
-        "url": "https://open.spotify.com/album/2jcdTpJpZSeMF14FlLerQ1"
+        "name": "ARENA",
+        "url": "https://open.spotify.com/album/2ypwm0uqa0yT100p8kVWq4"
       },
       "artists": [
         {
-          "name": "SKN The Divine",
-          "url": "https://open.spotify.com/artist/02f7L2f2zIZ7TSP7WCQAJK"
+          "name": "Dylan Fuentes",
+          "url": "https://open.spotify.com/artist/4Wcscw7z9AAE6y7qWdIAin"
         },
         {
-          "name": "Anni3",
-          "url": "https://open.spotify.com/artist/1SVYYGAAaNV3UBoMO889b2"
-        },
-        {
-          "name": "Joe On The Beat",
-          "url": "https://open.spotify.com/artist/2stlNmSzpsNsSD3hpjDdfF"
+          "name": "Daramola",
+          "url": "https://open.spotify.com/artist/36qm7VRfBdnnJRBS1fd0mA"
         }
       ],
-      "duration_ms": 133323,
-      "name": "Certainly",
-      "url": "https://open.spotify.com/track/4nNACvnffnDaOm7YeXcyGB"
+      "duration_ms": 261702,
+      "name": "designer (with Daramola)",
+      "url": "https://open.spotify.com/track/7cyUsEK6wnG7YLkTIdjYJ9"
     }
   ],
   "unique_name": "Afro Ritmo",

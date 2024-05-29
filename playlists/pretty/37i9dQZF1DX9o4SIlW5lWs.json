@@ -1,6 +1,6 @@
 {
   "description": "Al coraz\u00f3n! Foto: Los \u00c1ngeles Azules & Emilia.",
-  "num_followers": 219796,
+  "num_followers": 219852,
   "original_name": "Cumbia y Romance",
   "owner": {
     "name": "Spotify",
@@ -879,26 +879,6 @@
     {
       "added_at": "2024-05-24 03:00:00",
       "album": {
-        "name": "Me Encanta",
-        "url": "https://open.spotify.com/album/08orK7pUWMWTpdOK1b3AOi"
-      },
-      "artists": [
-        {
-          "name": "Mat\u00edas Valdez",
-          "url": "https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID"
-        },
-        {
-          "name": "Lucas Sugo",
-          "url": "https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX"
-        }
-      ],
-      "duration_ms": 211896,
-      "name": "Me Encanta",
-      "url": "https://open.spotify.com/track/7asgcWpGtv92TiMZUYNWVt"
-    },
-    {
-      "added_at": "2024-05-24 03:00:00",
-      "album": {
         "name": "Lo Mejor del Amor",
         "url": "https://open.spotify.com/album/5vEQgXaLtCU2bozKTWOx6t"
       },
@@ -915,6 +895,26 @@
       "duration_ms": 167600,
       "name": "Lo Mejor del Amor",
       "url": "https://open.spotify.com/track/6kQXTmUGWXtzw40zxv1yUz"
+    },
+    {
+      "added_at": "2024-05-24 03:00:00",
+      "album": {
+        "name": "Me Encanta",
+        "url": "https://open.spotify.com/album/08orK7pUWMWTpdOK1b3AOi"
+      },
+      "artists": [
+        {
+          "name": "Mat\u00edas Valdez",
+          "url": "https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID"
+        },
+        {
+          "name": "Lucas Sugo",
+          "url": "https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX"
+        }
+      ],
+      "duration_ms": 211896,
+      "name": "Me Encanta",
+      "url": "https://open.spotify.com/track/7asgcWpGtv92TiMZUYNWVt"
     },
     {
       "added_at": "2024-05-24 03:00:00",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2024-05-24 03:00:00",
       "album": {
-        "name": "Boquita de Caramelo",
-        "url": "https://open.spotify.com/album/0zXEyFkwoxht6Bqd3SgnOm"
-      },
-      "artists": [
-        {
-          "name": "Grupo Sombras",
-          "url": "https://open.spotify.com/artist/2t5LZnlhZW4ctjLQE9qoae"
-        }
-      ],
-      "duration_ms": 229093,
-      "name": "Pega la Vuelta",
-      "url": "https://open.spotify.com/track/51seuwibGTQsUod6oScKtR"
-    },
-    {
-      "added_at": "2024-05-24 03:00:00",
-      "album": {
         "name": "Contigo",
         "url": "https://open.spotify.com/album/6Ji3PdJXkQN4F6utzBGDRv"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 164949,
       "name": "Contigo",
       "url": "https://open.spotify.com/track/27sRjhW6KT1NDzPpfBxPaE"
+    },
+    {
+      "added_at": "2024-05-24 03:00:00",
+      "album": {
+        "name": "Boquita de Caramelo",
+        "url": "https://open.spotify.com/album/0zXEyFkwoxht6Bqd3SgnOm"
+      },
+      "artists": [
+        {
+          "name": "Grupo Sombras",
+          "url": "https://open.spotify.com/artist/2t5LZnlhZW4ctjLQE9qoae"
+        }
+      ],
+      "duration_ms": 229093,
+      "name": "Pega la Vuelta",
+      "url": "https://open.spotify.com/track/51seuwibGTQsUod6oScKtR"
     },
     {
       "added_at": "2024-05-24 03:00:00",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2024-05-24 03:00:00",
       "album": {
-        "name": "Mi Historia Entre Tus Dedos",
-        "url": "https://open.spotify.com/album/1om4tN4zbd13XwYmFk6B7O"
-      },
-      "artists": [
-        {
-          "name": "18 Kilates",
-          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
-        }
-      ],
-      "duration_ms": 204659,
-      "name": "Mi Historia Entre Tus Dedos",
-      "url": "https://open.spotify.com/track/3mrRVpo3r93hi6qdQm2bLw"
-    },
-    {
-      "added_at": "2024-05-24 03:00:00",
-      "album": {
         "name": "Tu Eres",
         "url": "https://open.spotify.com/album/17YtuICFuZ4z4LbUBJNlz1"
       },
@@ -1255,22 +1239,18 @@
     {
       "added_at": "2024-05-24 03:00:00",
       "album": {
-        "name": "Cu\u00e9ntale",
-        "url": "https://open.spotify.com/album/2l4FrrkppHP9XPwZRAs63K"
+        "name": "Mi Historia Entre Tus Dedos",
+        "url": "https://open.spotify.com/album/1om4tN4zbd13XwYmFk6B7O"
       },
       "artists": [
         {
-          "name": "BM",
-          "url": "https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk"
-        },
-        {
-          "name": "Michelle Maciel",
-          "url": "https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6"
+          "name": "18 Kilates",
+          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
         }
       ],
-      "duration_ms": 161214,
-      "name": "Cu\u00e9ntale",
-      "url": "https://open.spotify.com/track/6K7r6PQYIfGgLZRWnJjVOL"
+      "duration_ms": 204659,
+      "name": "Mi Historia Entre Tus Dedos",
+      "url": "https://open.spotify.com/track/3mrRVpo3r93hi6qdQm2bLw"
     },
     {
       "added_at": "2024-05-24 03:00:00",
@@ -1287,6 +1267,26 @@
       "duration_ms": 197474,
       "name": "En Una de Esas",
       "url": "https://open.spotify.com/track/08Z31XojFdEwE8iVrFChfJ"
+    },
+    {
+      "added_at": "2024-05-24 03:00:00",
+      "album": {
+        "name": "Cu\u00e9ntale",
+        "url": "https://open.spotify.com/album/2l4FrrkppHP9XPwZRAs63K"
+      },
+      "artists": [
+        {
+          "name": "BM",
+          "url": "https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk"
+        },
+        {
+          "name": "Michelle Maciel",
+          "url": "https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6"
+        }
+      ],
+      "duration_ms": 161214,
+      "name": "Cu\u00e9ntale",
+      "url": "https://open.spotify.com/track/6K7r6PQYIfGgLZRWnJjVOL"
     },
     {
       "added_at": "2024-05-24 03:00:00",
@@ -1355,22 +1355,18 @@
     {
       "added_at": "2024-05-24 03:00:00",
       "album": {
-        "name": "Se Me Hizo Tarde",
-        "url": "https://open.spotify.com/album/60dJ1cBhvkW8BEoDcliPE8"
+        "name": "Mensajeros del Amor",
+        "url": "https://open.spotify.com/album/2yD6FFYH2YGoaRCOcdfsR6"
       },
       "artists": [
         {
-          "name": "Ulises Bueno",
-          "url": "https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W"
-        },
-        {
-          "name": "G Sony",
-          "url": "https://open.spotify.com/artist/326diDmb5N6dRV8FUCROuT"
+          "name": "Mensajeros del Amor",
+          "url": "https://open.spotify.com/artist/3IbAQiPGvV3aSwvYBMo3o3"
         }
       ],
-      "duration_ms": 167927,
-      "name": "Se Me Hizo Tarde",
-      "url": "https://open.spotify.com/track/6rLeVBydUihQklKCUqSiou"
+      "duration_ms": 192120,
+      "name": "El Soy Yo",
+      "url": "https://open.spotify.com/track/3GYyjWrmZF5GVKDs4iUkh0"
     },
     {
       "added_at": "2024-05-24 03:00:00",
@@ -1391,18 +1387,22 @@
     {
       "added_at": "2024-05-24 03:00:00",
       "album": {
-        "name": "Mensajeros del Amor",
-        "url": "https://open.spotify.com/album/2yD6FFYH2YGoaRCOcdfsR6"
+        "name": "Se Me Hizo Tarde",
+        "url": "https://open.spotify.com/album/60dJ1cBhvkW8BEoDcliPE8"
       },
       "artists": [
         {
-          "name": "Mensajeros del Amor",
-          "url": "https://open.spotify.com/artist/3IbAQiPGvV3aSwvYBMo3o3"
+          "name": "Ulises Bueno",
+          "url": "https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W"
+        },
+        {
+          "name": "G Sony",
+          "url": "https://open.spotify.com/artist/326diDmb5N6dRV8FUCROuT"
         }
       ],
-      "duration_ms": 192120,
-      "name": "El Soy Yo",
-      "url": "https://open.spotify.com/track/3GYyjWrmZF5GVKDs4iUkh0"
+      "duration_ms": 167927,
+      "name": "Se Me Hizo Tarde",
+      "url": "https://open.spotify.com/track/6rLeVBydUihQklKCUqSiou"
     },
     {
       "added_at": "2024-05-24 03:00:00",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2024-05-24 03:00:00",
       "album": {
+        "name": "Loco",
+        "url": "https://open.spotify.com/album/7gFB9vr46W5vtS6LUXHQHK"
+      },
+      "artists": [
+        {
+          "name": "Valentino Merlo",
+          "url": "https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6"
+        }
+      ],
+      "duration_ms": 145204,
+      "name": "Loco",
+      "url": "https://open.spotify.com/track/4OWh4q7qfZpVFFXmmbnLbd"
+    },
+    {
+      "added_at": "2024-05-24 03:00:00",
+      "album": {
         "name": "Piel y Huesos",
         "url": "https://open.spotify.com/album/2Cl7E7XTjxzsYBEiTQqsxw"
       },
@@ -1543,22 +1559,6 @@
       "duration_ms": 203846,
       "name": "Si Regresas",
       "url": "https://open.spotify.com/track/56MNKndcWxFCIlgpDtd8Fd"
-    },
-    {
-      "added_at": "2024-05-24 03:00:00",
-      "album": {
-        "name": "Loco",
-        "url": "https://open.spotify.com/album/7gFB9vr46W5vtS6LUXHQHK"
-      },
-      "artists": [
-        {
-          "name": "Valentino Merlo",
-          "url": "https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6"
-        }
-      ],
-      "duration_ms": 145204,
-      "name": "Loco",
-      "url": "https://open.spotify.com/track/4OWh4q7qfZpVFFXmmbnLbd"
     },
     {
       "added_at": "2024-05-24 03:00:00",
@@ -1599,6 +1599,22 @@
     {
       "added_at": "2024-05-24 03:00:00",
       "album": {
+        "name": "Vete",
+        "url": "https://open.spotify.com/album/2ULTMUo5UesStNSxif1lgR"
+      },
+      "artists": [
+        {
+          "name": "Los del bohio",
+          "url": "https://open.spotify.com/artist/6RszvvtxwKr7SyzeeQ5htn"
+        }
+      ],
+      "duration_ms": 215186,
+      "name": "Vete",
+      "url": "https://open.spotify.com/track/2P1NF2ouvMc3aOjeXdfynr"
+    },
+    {
+      "added_at": "2024-05-24 03:00:00",
+      "album": {
         "name": "Hoy Te Vas",
         "url": "https://open.spotify.com/album/03cCnCHcgtarhC0BnZIGZ7"
       },
@@ -1631,22 +1647,6 @@
       "duration_ms": 225293,
       "name": "Cosas Del Amor",
       "url": "https://open.spotify.com/track/7clY79CSVmH7ufvQMIAYlo"
-    },
-    {
-      "added_at": "2024-05-24 03:00:00",
-      "album": {
-        "name": "Vete",
-        "url": "https://open.spotify.com/album/2ULTMUo5UesStNSxif1lgR"
-      },
-      "artists": [
-        {
-          "name": "Los del bohio",
-          "url": "https://open.spotify.com/artist/6RszvvtxwKr7SyzeeQ5htn"
-        }
-      ],
-      "duration_ms": 215186,
-      "name": "Vete",
-      "url": "https://open.spotify.com/track/2P1NF2ouvMc3aOjeXdfynr"
     },
     {
       "added_at": "2024-05-24 03:00:00",
@@ -1783,30 +1783,18 @@
     {
       "added_at": "2024-05-24 03:00:00",
       "album": {
-        "name": "LADRONA - con Mario Luis",
-        "url": "https://open.spotify.com/album/4YosCnSnhwNbaHthn1bk93"
+        "name": "Me Va Mejor Con el Alcohol",
+        "url": "https://open.spotify.com/album/3U74XHE1qbVBXMG5k8kNaB"
       },
       "artists": [
         {
-          "name": "Emanero",
-          "url": "https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB"
-        },
-        {
-          "name": "BM",
-          "url": "https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk"
-        },
-        {
-          "name": "Onda Sabanera",
-          "url": "https://open.spotify.com/artist/25CQYerNOaucOLHuEuvC9P"
-        },
-        {
-          "name": "Mario Luis",
-          "url": "https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx"
+          "name": "Omega",
+          "url": "https://open.spotify.com/artist/1iUzrM5MrTizYrOdqVH5bK"
         }
       ],
-      "duration_ms": 177994,
-      "name": "LADRONA - con Mario Luis",
-      "url": "https://open.spotify.com/track/1D48FEMp0AvOBfiveK8M4R"
+      "duration_ms": 197775,
+      "name": "Me Va Mejor Con el Alcohol",
+      "url": "https://open.spotify.com/track/7oVzsPGAInbnmnATWtOm37"
     }
   ],
   "unique_name": "Cumbia y Romance",

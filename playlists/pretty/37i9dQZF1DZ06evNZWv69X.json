@@ -1,12 +1,12 @@
 {
-  "description": "This Is Mar de Copas. Los temas esenciales, todos en una lista.",
-  "num_followers": 7842,
+  "description": "This is Mar de Copas. The essential tracks, all in one playlist.",
+  "num_followers": 7843,
   "original_name": "This Is Mar de Copas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlJ7gAAAAABqHMhxk1kXV6109BP00lR8",
+  "snapshot_id": "ZlPNAAAAAABXxuBWjm38xe62SXuJnvYs",
   "tracks": [
     {
       "added_at": null,
@@ -587,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Soundtrack de una Vida",
-        "url": "https://open.spotify.com/album/11Hk6UODnh7sWurat5D7Jt"
+        "name": "Suna",
+        "url": "https://open.spotify.com/album/2dbtl75dnHdb0weSIvhrtI"
       },
       "artists": [
         {
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur"
         }
       ],
-      "duration_ms": 201453,
-      "name": "El Dolor del Amor",
-      "url": "https://open.spotify.com/track/0dbg6Rzu2hhXrvn6bwT39n"
+      "duration_ms": 273120,
+      "name": "El Rumbo del Mar",
+      "url": "https://open.spotify.com/track/3DJ3U63ZMcyDto3nT4yLTO"
     },
     {
       "added_at": null,
@@ -619,8 +619,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Suna",
-        "url": "https://open.spotify.com/album/2dbtl75dnHdb0weSIvhrtI"
+        "name": "El Soundtrack de una Vida",
+        "url": "https://open.spotify.com/album/11Hk6UODnh7sWurat5D7Jt"
       },
       "artists": [
         {
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur"
         }
       ],
-      "duration_ms": 273120,
-      "name": "El Rumbo del Mar",
-      "url": "https://open.spotify.com/track/3DJ3U63ZMcyDto3nT4yLTO"
+      "duration_ms": 201453,
+      "name": "El Dolor del Amor",
+      "url": "https://open.spotify.com/track/0dbg6Rzu2hhXrvn6bwT39n"
     },
     {
       "added_at": null,

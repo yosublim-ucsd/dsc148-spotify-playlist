@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1E4vLyj0srrBvo.md) - cumulative - [plain](/playlists/plain/37i9dQZF1E4vLyj0srrBvo) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1E4vLyj0srrBvo)
 
-### [Radio de Grimes](https://open.spotify.com/playlist/37i9dQZF1E4vLyj0srrBvo)
+### [Grimes Radio](https://open.spotify.com/playlist/37i9dQZF1E4vLyj0srrBvo)
 
-> Con FKA twigs, Crystal Castles, Purity Ring y más
+> With FKA twigs, Crystal Castles, Purity Ring and more
 
 1,769 songs - 4 day 12 hr 47 min
 
@@ -303,7 +303,7 @@
 | [CEASE AND DESIST](https://open.spotify.com/track/3cIttzoAjoc44h6noteqJh) | [Alice Glass](https://open.spotify.com/artist/4ukk0IyB7vL97QirpOcNr3) | [CEASE AND DESIST](https://open.spotify.com/album/0cs0jFB44U3Qz4JCnmHF0c) | 1:54 | 2022-03-12 | 2024-04-10 |
 | [Celestica](https://open.spotify.com/track/5QmolkpuE6IfPdr7j2MGn5) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [\(II\)](https://open.spotify.com/album/37TeO5usN4vsGSfpg4dPNA) | 3:48 | 2021-08-28 | 2023-02-20 |
 | [cellophane](https://open.spotify.com/track/2cYALQZNXmuFGp2ecgpKMa) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [MAGDALENE](https://open.spotify.com/album/2w8Wshbp9RCPJdPU1iOpaY) | 3:24 | 2020-10-19 | 2020-12-06 |
-| [cellophane](https://open.spotify.com/track/7x8pIrhMu9FCmqqHNyuH0P) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [MAGDALENE](https://open.spotify.com/album/3DMR3yM5crnt1dG9lLaMTZ) | 3:24 | 2020-12-07 |  |
+| [cellophane](https://open.spotify.com/track/7x8pIrhMu9FCmqqHNyuH0P) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [MAGDALENE](https://open.spotify.com/album/3DMR3yM5crnt1dG9lLaMTZ) | 3:24 | 2020-12-07 | 2024-05-29 |
 | [Chaeri](https://open.spotify.com/track/1ZkfNNoRrgt69wTjcmJZE9) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Mercurial World](https://open.spotify.com/album/1ERrUvG31thFCxdwWUoJrY) | 4:17 | 2021-11-08 | 2023-03-26 |
 | [Champagne Coast](https://open.spotify.com/track/0AIpGG5dxEgnAymhdJRSZ0) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Coastal Grooves](https://open.spotify.com/album/5LMfBxAyFy41CavxGAykHR) | 4:52 | 2024-04-19 |  |
 | [Champagne Coast](https://open.spotify.com/track/2KufM8PiQY4i52XhRL96Fd) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Coastal Grooves](https://open.spotify.com/album/5U2cyX2FRa8CjzdMpqZNJl) | 4:52 | 2020-10-20 | 2022-09-02 |
@@ -1338,7 +1338,7 @@
 | [Scroll of Sorrow](https://open.spotify.com/track/6ztOsvtb6MjOYgOOnBmVfd) | [Machine Girl](https://open.spotify.com/artist/17Vw9uuOYB7XYjPt0LNFN0), [guayaba](https://open.spotify.com/artist/5kYSoXTfErwSZC3E7uw54d) | [U\-Void Synthesizer](https://open.spotify.com/album/2Hao6BBoElsB9A3JFeSo9n) | 3:05 | 2022-03-27 | 2022-10-14 |
 | [sea castle](https://open.spotify.com/track/5CBpq7vVKGHIer9BVbBaWD) | [Purity Ring](https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4) | [another eternity](https://open.spotify.com/album/5ydKh3bO3jF6oZWkBrzwpn) | 3:27 | 2022-03-24 | 2023-06-08 |
 | [Sea Without Blue](https://open.spotify.com/track/1Qsdx0D4zH9bqvMyYhpV96) | [POLIÇA](https://open.spotify.com/artist/34vLhockmYhf3LgznwyNaQ) | [When We Stay Alive](https://open.spotify.com/album/7IBhWoqJNbJtTityLHPYaT) | 3:00 | 2022-04-04 | 2022-09-27 |
-| [Sea, Swallow Me](https://open.spotify.com/track/7vPHiwgCOAjSBRjAirbMvS) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [The Moon and the Melodies](https://open.spotify.com/album/5v2I3i4RPD8T1XV0pjvPNo) | 3:09 | 2024-01-11 | 2024-05-27 |
+| [Sea, Swallow Me](https://open.spotify.com/track/7vPHiwgCOAjSBRjAirbMvS) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [The Moon and the Melodies](https://open.spotify.com/album/5v2I3i4RPD8T1XV0pjvPNo) | 3:09 | 2024-01-11 |  |
 | [Second Life](https://open.spotify.com/track/5fvN12hwMxkeFwPXLQI74L) | [Kitty](https://open.spotify.com/artist/6YMeCrTjUKwsXh9yhQJjEV) | [Frostbite \(Deluxe\)](https://open.spotify.com/album/5PPPg0FgIdggO5tjRa2ge0) | 4:08 | 2022-03-14 | 2022-07-14 |
 | [Secrecy Is Incredibly Important To The Both of Them](https://open.spotify.com/track/6Ucrht7JfguIXoa4hF9Leo) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [The Asymptotical World EP](https://open.spotify.com/album/2julo3Z5rNzSod7DoEuTz7) | 3:52 | 2021-07-23 | 2022-10-08 |
 | [Secrets \(Your Fire\)](https://open.spotify.com/track/3tgHGoK5ItQv2q2yqggxlb) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Mercurial World](https://open.spotify.com/album/1ERrUvG31thFCxdwWUoJrY) | 4:05 | 2021-11-03 | 2022-09-29 |

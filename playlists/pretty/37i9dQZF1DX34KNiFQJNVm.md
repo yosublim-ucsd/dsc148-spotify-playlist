@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Os Barões da Pisadinha, Matheus & Kauan, Ryu, The Runner e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,910,849 likes - 71 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,911,113 likes - 71 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 47 | [Vai Amor \- Ao Vivo](https://open.spotify.com/track/6AOnImvLBgdzayctx9pHDG) | [Solange Almeida](https://open.spotify.com/artist/3Hew3AuvrbKxCbehT4Rorq), [Leo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR) | [Solange Almeida Ao Vivo em Aracaju, Vol.2](https://open.spotify.com/album/48cSPvgJXXjIE8N5Ztw2pO) | 2:22 |
 | 48 | [Make It Loud](https://open.spotify.com/track/4lXEBALFOZ9cxp3NgSWDhN) | [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L) | [Make It Loud](https://open.spotify.com/album/0Zl7Eez8Eu49Ssp30wzLBd) | 3:56 |
 | 49 | [I'm an Alien](https://open.spotify.com/track/5OpsMaCuFKEJBa64ogjrGW) | [Meca](https://open.spotify.com/artist/4BXrJLagIbiwWnfJMd1sKQ), [Puka](https://open.spotify.com/artist/3Gmuv8ih6UWYlZQlM4zFgo), [Wasiu](https://open.spotify.com/artist/5U1eJDpMKZiQustw16e0g2) | [I'm an Alien](https://open.spotify.com/album/5HYzQDtk0lKtJ06aagndZ7) | 3:19 |
-| 50 | [Push](https://open.spotify.com/track/29OFLlrrfKIEVwbVMTjBYe) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg), [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN), [Contra](https://open.spotify.com/artist/73BAwJ65pT6RvwR7JEkfEv), [OFFAIAH](https://open.spotify.com/artist/2E1NFr5AeEGUJkLUUsWCAO) | [Push](https://open.spotify.com/album/3GSEVlHrbrQbKSP4ozWzx8) | 3:05 |
+| 50 | [Push](https://open.spotify.com/track/29OFLlrrfKIEVwbVMTjBYe) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg), [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN), [contra](https://open.spotify.com/artist/5VYRcaryFLFZnA5HvnRHFi), [OFFAIAH](https://open.spotify.com/artist/2E1NFr5AeEGUJkLUUsWCAO) | [Push](https://open.spotify.com/album/3GSEVlHrbrQbKSP4ozWzx8) | 3:05 |
 | 51 | [KO](https://open.spotify.com/track/6AYmnPmVcnay8vjvyLeR6w) | [Breaking Beattz](https://open.spotify.com/artist/0eRxVzLBxZGMZcsSoMESfX) | [KO EP](https://open.spotify.com/album/4NAZqj101hs4hTkxl2YAx1) | 3:33 |
 | 52 | [Esporte Fino](https://open.spotify.com/track/6PEIWY9GXsQCAEf0671GJR) | [Mericia](https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS) | [Esporte Fino](https://open.spotify.com/album/3H6f4PgTDEa5yj25b4FkqU) | 2:28 |
 | 53 | [Esperança](https://open.spotify.com/track/56IfHJlxw8fkQ5ldt52T3G) | [Criolo](https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs), [Dino d'Santiago](https://open.spotify.com/artist/7qb2GMJaX4HeXqqPPyYdlr), [Amaro Freitas](https://open.spotify.com/artist/3Y37ixG7KDgDqxSE6PL679) | [Esperança](https://open.spotify.com/album/2iKq0sQSndxZ2MbSuO4iFt) | 4:21 |

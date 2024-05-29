@@ -2,9 +2,9 @@
 
 ### [Cool K'IDs Rock](https://open.spotify.com/playlist/37i9dQZF1DX2SFBzpAPi7n)
 
-> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: SUHO\(수호\)\) \(핫한 국내 록 음악을 만나보세요!\)
+> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: Wussami\(우주왕복선싸이드미러\)\) \(핫한 국내 록 음악을 만나보세요!\)
 
-667 songs - 1 day 16 hr 30 min
+668 songs - 1 day 16 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,10 +146,11 @@
 | [Don't be afraid to fall](https://open.spotify.com/track/2AfW3wIFo6uR2YIPoVewrd) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [Don't be afraid to fall](https://open.spotify.com/album/5lXkyPBrvROgUmXkVBBDEY) | 3:31 | 2022-09-30 | 2022-10-05 |
 | [don't leave me](https://open.spotify.com/track/5Fb64pKATb2BrH4yMPHkW3) | [TOIL](https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S), [Gist](https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk) | [don't leave me \(The Last 10 Years X TOIL, Gist\)](https://open.spotify.com/album/7C76NLb32tjJMRdZBzrALg) | 3:03 | 2024-05-21 |  |
 | [Don't Say No \(Feat\. Jay Park\)](https://open.spotify.com/track/2AmFJKuVIdW7fayLvZQ3aR) | [SURL](https://open.spotify.com/artist/7owveHzN1hmQuw6Ojg4sI3), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Don't Say No](https://open.spotify.com/album/1vm6PTRu1D8zhWh3gSStGw) | 3:40 | 2022-04-22 | 2022-07-29 |
+| [DRACULAGIRL](https://open.spotify.com/track/7GbVHPxzSf6exEgkuOaHan) | [Wussami](https://open.spotify.com/artist/5Pvtm8orj8G3ZpQQ3My3mi) | [DRACULAGIRL](https://open.spotify.com/album/4TS8IjpBrSsmDMIoBjOyWC) | 3:39 | 2024-05-28 |  |
 | [Dream \(feat\. Tommy Kim\)](https://open.spotify.com/track/534Tet7JehDlh2v0fdbAaK) | [VINCIT](https://open.spotify.com/artist/2V7zsT7AqLOFIHWb08FQd5), [Tommy Kim](https://open.spotify.com/artist/5vXlLutlXopDvhSpvwDxmp) | [Dream](https://open.spotify.com/album/5IpCJICE3ZYfiT3bigsFfj) | 3:20 | 2022-08-18 | 2022-09-02 |
 | [Dreaming](https://open.spotify.com/track/43EV8ah3RzJV0jZgOyAnJ6) | [BUZZ](https://open.spotify.com/artist/4SdXXEHKFa5NSoh10QxeN2) | [Dreaming](https://open.spotify.com/album/4ZT56atEMwZ1bagTDTZjrY) | 3:45 | 2022-04-21 | 2022-07-15 |
 | [Dreaming](https://open.spotify.com/track/6krdrtQ0fDRwQ2AGNfcoxl) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [Love Story \(4 Season Project 季\) \- The 4th Mini Album](https://open.spotify.com/album/4mn3WfpV1xpo65yxoCdSgy) | 4:05 | 2022-06-18 | 2022-06-21 |
-| [Drowning](https://open.spotify.com/track/4xeugB5MqWh0jwvXZPxahq) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [OO\-LI](https://open.spotify.com/album/06isIi4cIfsaH8ot5UoRD4) | 4:04 | 2024-05-09 |  |
+| [Drowning](https://open.spotify.com/track/4xeugB5MqWh0jwvXZPxahq) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [OO\-LI](https://open.spotify.com/album/06isIi4cIfsaH8ot5UoRD4) | 4:04 | 2024-05-09 | 2024-05-29 |
 | [Drunk All Night](https://open.spotify.com/track/4xcJHWlE3KpIz32UCVuYJs) | [YUNNUGU](https://open.spotify.com/artist/202toms3QJeNCFXO0BFNY4) | [Drunk All Night](https://open.spotify.com/album/08iHuEBeXsCKZqGUW0ksAJ) | 2:57 | 2022-07-08 | 2022-07-22 |
 | [DUNE](https://open.spotify.com/track/1ap1yvWJ6xvkHTBUpUi5wA) | [CHASEDAE](https://open.spotify.com/artist/4MGqEzKNHeMDgR6iQLYie8) | [DUNE](https://open.spotify.com/album/2nCVtbXGN7bJleieRr0i49) | 4:15 | 2023-11-03 | 2023-11-24 |
 | [eight\(Prod.&Feat\. SUGA of BTS\)](https://open.spotify.com/track/0pYacDCZuRhcrwGUA5nTBe) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU), [SUGA](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8) | [eight](https://open.spotify.com/album/5vJNAlQeTf9lsulO1YlmSt) | 2:47 | 2022-04-12 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZodX1hXiq9y.md) - [plain]
 
 > The greatest saxophonists in Jazz\. Cover: John Coltrane
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,460 likes - 150 songs - 15 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,522 likes - 150 songs - 15 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZodX1hXiq9y.md) - [plain]
 | 67 | [Confirmation](https://open.spotify.com/track/29erJjtgdbh1KbG7MuPJCj) | [Charlie Parker](https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC) | [Now’s The Time: The Genius Of Charlie Parker \#3](https://open.spotify.com/album/7KLwxAG5safFwMgxd0XlH3) | 2:58 |
 | 68 | [Hat And Beard](https://open.spotify.com/track/2VzRmb0GCPDBv6FddHGu7s) | [Eric Dolphy](https://open.spotify.com/artist/6rxxu32JCGDpKKMPHxnSJp) | [Out To Lunch \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/3PIVqZzL1PnrxFZDzuT1aX) | 8:24 |
 | 69 | [Stairway To The Stars \- Rudy Van Gelder Edition / 2003 Remaster](https://open.spotify.com/track/3sO8hBPBMIpfWu7skmEKRD) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Our Man In Paris \(Rudy Van Gelder Edition\)](https://open.spotify.com/album/43zfDOSnIaNrdFzik0s088) | 6:57 |
-| 70 | [As This Moment Slips Away](https://open.spotify.com/track/5CcAkJMkqpx7vwyYq1CQQd) | [Joshua Redman](https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S), [The Bad Plus](https://open.spotify.com/artist/5qOfTfMzTj2dvvpWKzIFk6) | [The Bad Plus Joshua Redman](https://open.spotify.com/album/2tzJagRYnAeB9j65wJx2j3) | 6:52 |
-| 71 | [Peace](https://open.spotify.com/track/4TrzjMsOnd1KWkWrsDRB3u) | [Ornette Coleman](https://open.spotify.com/artist/47odibUtrN3lnWx0p0pk2P) | [The Shape Of Jazz To Come](https://open.spotify.com/album/2iPH3iUmpa9ufIpwY76keF) | 9:04 |
+| 70 | [Peace](https://open.spotify.com/track/4TrzjMsOnd1KWkWrsDRB3u) | [Ornette Coleman](https://open.spotify.com/artist/47odibUtrN3lnWx0p0pk2P) | [The Shape Of Jazz To Come](https://open.spotify.com/album/2iPH3iUmpa9ufIpwY76keF) | 9:04 |
+| 71 | [As This Moment Slips Away](https://open.spotify.com/track/5CcAkJMkqpx7vwyYq1CQQd) | [Joshua Redman](https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S), [The Bad Plus](https://open.spotify.com/artist/5qOfTfMzTj2dvvpWKzIFk6) | [The Bad Plus Joshua Redman](https://open.spotify.com/album/2tzJagRYnAeB9j65wJx2j3) | 6:52 |
 | 72 | [Quintessence \- Remastered](https://open.spotify.com/track/2CMmZJwUiiQXVro8lDB7ZE) | [Warne Marsh](https://open.spotify.com/artist/1yVmVSKnpfLDIAbghFMN3D) | [Intuition](https://open.spotify.com/album/2N1GYQNZRsS964RxWCjWVc) | 4:16 |
 | 73 | [Lover Come Back To Me](https://open.spotify.com/track/4loyHz5lJBVKcZIMJ4jmzZ) | [The Ben Webster Quintet](https://open.spotify.com/artist/3jum9vTIyGt9e42ONsgeIU) | [Soulville](https://open.spotify.com/album/6JyAtY4rZhDFfOR3aRBVBc) | 8:28 |
 | 74 | [That's the Way It Is](https://open.spotify.com/track/0NshH0K6HstTk06zPgATkT) | [Jimmy Giuffre](https://open.spotify.com/artist/4RncsrNJ1GDGsFBIxI76L6) | [The Jimmy Giuffre 3](https://open.spotify.com/album/7L9RwXgST9R54GVTQnVSWK) | 3:51 |
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZodX1hXiq9y.md) - [plain]
 | 84 | [You've Come Home](https://open.spotify.com/track/7p5a0VKbIcsN3UtSodIZzx) | [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K) | [Jeru](https://open.spotify.com/album/2ujmzTWpBs0rKq6lelbuWP) | 5:40 |
 | 85 | [Twelve More Bars To Go \- Rudy Van Gelder 24 Bit Mastering/1999 Digital Remaster](https://open.spotify.com/track/5NEYr07MeW3Kp64GobkQAk) | [Wayne Shorter](https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO) | [JuJu](https://open.spotify.com/album/46VoobaZCtFPReElOHFEqq) | 5:31 |
 | 86 | [A Sack Full Of Soul](https://open.spotify.com/track/0J35LZeovLDsokAl3oiu35) | [Rahsaan Roland Kirk](https://open.spotify.com/artist/7De2eIqeHTw091YeAkkYXV) | [We Free Kings](https://open.spotify.com/album/4ayNl8wrfXJXABMk0L4eRW) | 4:40 |
-| 87 | [Almost Like Being In Love](https://open.spotify.com/track/5T7Yd8dDaNLeFhv4dRfrkA) | [Jutta Hipp](https://open.spotify.com/artist/1nUb2VIRkIq9Qwmg1XdI1T), [Zoot Sims](https://open.spotify.com/artist/1pwr5rTWLVfqhvHfB7Reap) | [Jutta Hipp With Zoot Sims \(Expanded Edition\)](https://open.spotify.com/album/3Caef1zBtNTPEIg5C3XZI2) | 6:16 |
-| 88 | [The Blessing](https://open.spotify.com/track/09AXI44IaJq2aeIFpfueAF) | [Ornette Coleman](https://open.spotify.com/artist/47odibUtrN3lnWx0p0pk2P) | [Something Else!!!!: The Music Of Ornette Coleman \(Original Jazz Classics Remasters\)](https://open.spotify.com/album/0uTu0OfCWW6U5hAxDPH1r7) | 4:46 |
+| 87 | [The Blessing](https://open.spotify.com/track/09AXI44IaJq2aeIFpfueAF) | [Ornette Coleman](https://open.spotify.com/artist/47odibUtrN3lnWx0p0pk2P) | [Something Else!!!!: The Music Of Ornette Coleman \(Original Jazz Classics Remasters\)](https://open.spotify.com/album/0uTu0OfCWW6U5hAxDPH1r7) | 4:46 |
+| 88 | [Almost Like Being In Love](https://open.spotify.com/track/5T7Yd8dDaNLeFhv4dRfrkA) | [Jutta Hipp](https://open.spotify.com/artist/1nUb2VIRkIq9Qwmg1XdI1T), [Zoot Sims](https://open.spotify.com/artist/1pwr5rTWLVfqhvHfB7Reap) | [Jutta Hipp With Zoot Sims \(Expanded Edition\)](https://open.spotify.com/album/3Caef1zBtNTPEIg5C3XZI2) | 6:16 |
 | 89 | [Alone Together](https://open.spotify.com/track/1iGtxVoabfF86qjcyfNsNy) | [Benny Golson](https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG) | [Turning Point](https://open.spotify.com/album/0agszqZvTEs9EpGAsAj6yT) | 7:34 |
 | 90 | [Dukes Place](https://open.spotify.com/track/5CPy7jJup06T0xfzYK7xwr) | [Paul Gonsalves](https://open.spotify.com/artist/23hRv3SqLMrj4i3b3tfUu4) | [Tell It The Way It Is](https://open.spotify.com/album/22Nw7i0lxcEYho6G5kWPLi) | 5:28 |
 | 91 | [Soul\-Lo Blues \- Remastered 1997](https://open.spotify.com/track/7JM0nsnyr0AKQYhI6hR7dn) | [Clifford Jordan](https://open.spotify.com/artist/0oJCbLnXR9ZfTkwxO9tVNn) | [Cliff Craft](https://open.spotify.com/album/4kj58OYHsFRP69N2576yDp) | 8:31 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume\. Cover: Esther Graf
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,100 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,105 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,9 +17,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 7 | [Atemlos durch die Nacht \- 10 Year Anniversary Version](https://open.spotify.com/track/7B7X3R3d2qEIsJFgqICgNy) | [Helene Fischer](https://open.spotify.com/artist/7MzHPIXAqIOCnvK0sVY72W), [Shirin David](https://open.spotify.com/artist/0JBdTCGs111JKKYfLqOEBa) | [Atemlos durch die Nacht \(10 Year Anniversary Version\)](https://open.spotify.com/album/1keZlGDtJuO2luOCRRS0mT) | 2:52 |
 | 8 | [Ja sagen](https://open.spotify.com/track/4XgxsTII2KYZZMFt4JlnYU) | [Hava](https://open.spotify.com/artist/3Mn6d673ieRza7uw6zY2Zv) | [Kein Märchen](https://open.spotify.com/album/12LNGJS8OnQl542QAyn0T2) | 2:43 |
 | 9 | [FRENCH NAILS \(feat\. badmómzjay\)](https://open.spotify.com/track/4UozTqtYZF22YTnCvloI2a) | [BOUNTY & COCOA](https://open.spotify.com/artist/6LPDid2j16uSQ3qSLmIwFR), [badmómzjay](https://open.spotify.com/artist/7oWrEQO1d3klp0Qrfh7a5h) | [FRENCH NAILS \(feat\. badmómzjay\)](https://open.spotify.com/album/5wkRilmh3Wpy4RC0WpjUJO) | 2:51 |
-| 10 | [Glas](https://open.spotify.com/track/7xqTCITPEJ1l08ui4Xe8rB) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Glas](https://open.spotify.com/album/1oMWwWSqcGxpn2YhsYkNt6) | 2:42 |
-| 11 | [27](https://open.spotify.com/track/5uhqML0FUdcm8BQyAKAiH5) | [Loredana](https://open.spotify.com/artist/2Im8m4STDBosjfmb5hmP80) | [27](https://open.spotify.com/album/7qD7D5oMrJJq0rQnx5Mlqm) | 2:48 |
-| 12 | [Zur Party](https://open.spotify.com/track/6HvHh0njau7LPTrBbzEpYX) | [6euroneunzig](https://open.spotify.com/artist/4pEmzp8WBdyO0HsKZyW26A) | [Zur Party](https://open.spotify.com/album/0E3q5uvaRE1i7tEAntDwk4) | 2:16 |
+| 10 | [Zur Party](https://open.spotify.com/track/6HvHh0njau7LPTrBbzEpYX) | [6euroneunzig](https://open.spotify.com/artist/4pEmzp8WBdyO0HsKZyW26A) | [Zur Party](https://open.spotify.com/album/0E3q5uvaRE1i7tEAntDwk4) | 2:16 |
+| 11 | [Glas](https://open.spotify.com/track/7xqTCITPEJ1l08ui4Xe8rB) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Glas](https://open.spotify.com/album/1oMWwWSqcGxpn2YhsYkNt6) | 2:42 |
+| 12 | [27](https://open.spotify.com/track/5uhqML0FUdcm8BQyAKAiH5) | [Loredana](https://open.spotify.com/artist/2Im8m4STDBosjfmb5hmP80) | [27](https://open.spotify.com/album/7qD7D5oMrJJq0rQnx5Mlqm) | 2:48 |
 | 13 | [Vergleiche](https://open.spotify.com/track/0HsuCKvms8l9GxRABl6S13) | [Wilhelmine](https://open.spotify.com/artist/4f5pBvQZzdOGpFF0pwtUZG), [MELE](https://open.spotify.com/artist/6Lk699bosWcOqCMFLJFrPp) | [Meere](https://open.spotify.com/album/25G3mIHCrSMheIv5qkPCRF) | 2:53 |
 | 14 | [Frag für ne Freundin](https://open.spotify.com/track/4XcC60aHv6XrbcXIH6a9mz) | [NESS](https://open.spotify.com/artist/0860MVRZC3Llgf1mFvnd1R) | [Frag für ne Freundin](https://open.spotify.com/album/0aAnxAv2lfiALp1hLeXrRh) | 2:30 |
 | 15 | [Otto Normal](https://open.spotify.com/track/2XuDucWOZOUjneQXyRVyay) | [Paula Carolina](https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ) | [Otto Normal](https://open.spotify.com/album/7q9qdj3phwZm7rpuccOSC9) | 2:37 |

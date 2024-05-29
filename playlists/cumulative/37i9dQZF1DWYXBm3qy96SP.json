@@ -5387,6 +5387,24 @@
     },
     {
       "album": {
+        "name": "DARK",
+        "url": "https://open.spotify.com/album/5hcEXufQsdqSx8Ik7oXXEm"
+      },
+      "artists": [
+        {
+          "name": "WesGhost",
+          "url": "https://open.spotify.com/artist/6YmJPuYzqe1HsJArGYcHBJ"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179439,
+      "name": "DARK",
+      "url": "https://open.spotify.com/track/1qlsoHIuuOsrm1qGENz4RM"
+    },
+    {
+      "album": {
         "name": "Dark Matter",
         "url": "https://open.spotify.com/album/23OiEvMGO1kNntkCon2ODF"
       },
@@ -11126,7 +11144,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-29",
       "duration_ms": 185642,
       "name": "Just My Type",
       "url": "https://open.spotify.com/track/3U2fxzzmfG6IubKrvXbWr8"

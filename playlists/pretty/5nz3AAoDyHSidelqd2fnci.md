@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/5nz3AAoDyHSidelqd2fnci.md) - [plain]
 
 > 
 
-[Felipe Arriagada PIPEMANUEL](https://open.spotify.com/user/12145835791) - 0 like - 12 songs - 50 min 5 sec
+[Felipe Arriagada PIPEMANUEL](https://open.spotify.com/user/12145835791) - 0 like - 12 songs - 56 min 29 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Jane](https://open.spotify.com/track/23sGBdr5biGqhWIWxw9OOZ) | [The Loved Ones](https://open.spotify.com/artist/5axdduRHjHv4LewDVdpWZR) | [Keep Your Heart](https://open.spotify.com/album/3OeRFf3yvVJq5jAkaq6j7j) | 2:55 |
-| 2 | [Dream On](https://open.spotify.com/track/0AJb1Y223Ao47JCDeAUO0z) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Aerosmith's Greatest Hits](https://open.spotify.com/album/3VNTh6evo3MyUsStAiatcY) | 4:24 |
-| 3 | [West End Girls \- 2018 Remaster](https://open.spotify.com/track/2Di0qFNb7ATroCGB3q0Ka7) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Please: Further Listening 1984 \- 1986 \(2018 Remaster\)](https://open.spotify.com/album/47fRf3JwriMUPPzFjdvNS6) | 4:45 |
-| 4 | [Mic Check](https://open.spotify.com/track/64BO08oRsnWxOTcOi8m557) | [Sophie Hunter](https://open.spotify.com/artist/3L2gl8O5cKVCbAnSWUFZxf) | [Mic Check](https://open.spotify.com/album/7mNaSTm7mS7kpc83TtXNVO) | 3:38 |
-| 5 | [You'll Be In My Heart](https://open.spotify.com/track/6LBfozDVA7crIeuaPAVVlE) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [Tarzan Original Soundtrack](https://open.spotify.com/album/6fBzYwBKjuO4hmhcGuklJM) | 4:18 |
-| 6 | [El Rito](https://open.spotify.com/track/6uxhO71BgJz1JlZcTMtUbX) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Obras Cumbres \(Parte 2\)](https://open.spotify.com/album/1I2nAQWVXtI9xJ0xuRBLYV) | 6:06 |
-| 7 | [El Pianista](https://open.spotify.com/track/3SRD0rSAbzkaJf4PKlnrcX) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [Momentos](https://open.spotify.com/album/0Mot1VW7pPX7lBl02XjoCN) | 5:19 |
-| 8 | [Wireless](https://open.spotify.com/track/5LUIXcXNqzGEmkevNr6GO8) | [Najeeriii](https://open.spotify.com/artist/2m6yzJ0whBggOhNgLskdLF) | [Wireless](https://open.spotify.com/album/3dw3tskEqy1PRan9EB6ZIH) | 2:44 |
-| 9 | [Chapter Four](https://open.spotify.com/track/68R49tAYEKt1MVONfRHRG3) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Waking The Fallen](https://open.spotify.com/album/4A6vIZBEKEAGoBsaWAZ0ck) | 5:42 |
-| 10 | [Ur Heart Stops](https://open.spotify.com/track/3nFh3VQoEFJYl1jz2VcWbh) | [fantasy of a broken heart](https://open.spotify.com/artist/7fgs0Ym1ukMZDgKjx8mbMe) | [Ur Heart Stops](https://open.spotify.com/album/5rRJx5COOJRUxk1t07WJf2) | 3:48 |
-| 11 | [All Hail the Fallen King \(feat\. Phil Bozeman of Whitechapel\)](https://open.spotify.com/track/6VumGHnGgZvxA9k74rgOIk) | [Chelsea Grin](https://open.spotify.com/artist/4UgQ3EFa8fEeaIEg54uV5b) | [My Damnation](https://open.spotify.com/album/2EMR0QHL2rN2MGdF37skwu) | 2:52 |
-| 12 | [Highway to Hell](https://open.spotify.com/track/2zYzyRzz6pRmhPzyfMEC8s) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Highway to Hell](https://open.spotify.com/album/10v912xgTZbjAtYfyKWJCS) | 3:28 |
+| 1 | [You Were Beautiful](https://open.spotify.com/track/71WZ7yFuwxmQz5jJUpvkGv) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [SUNRISE](https://open.spotify.com/album/4B2Ijqpz9hRDqWraaDxLSS) | 4:43 |
+| 2 | [Glass Hearts](https://open.spotify.com/track/1cJsFNsFaBjPU5Ev0fghvX) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [Restoring Force](https://open.spotify.com/album/4cntNMQjpROMQmevKb8H9f) | 3:14 |
+| 3 | [I'm Like A Bird](https://open.spotify.com/track/5xPQsTrT2LjidijK2Tzlxh) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Whoa, Nelly! \(France Only Version\)](https://open.spotify.com/album/2lcaX3zETZ5shGRQXI667r) | 4:03 |
+| 4 | [Second Heartbeat](https://open.spotify.com/track/0oE2uU6VNOiJphUI5NqdFU) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Waking The Fallen: Resurrected](https://open.spotify.com/album/23M9qOX1iPIlHKfm4l3oKU) | 7:00 |
+| 5 | [Witness The Addiction](https://open.spotify.com/track/3Y5DuasrdjrOL34E3DzuGy) | [Suicide Silence](https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc) | [The Black Crown](https://open.spotify.com/album/0jgEtOLWGKsid52kBzpCRP) | 5:32 |
+| 6 | [runnin' \(1999\)](https://open.spotify.com/track/6Nb6m3XQLG5Qy8TFd5VpkU) | [Kenji](https://open.spotify.com/artist/3sAk2ECmW1UmPMf6Q94Llu) | [runnin' \(1999\)](https://open.spotify.com/album/4xYUtjglpueJv0MumEPmg9) | 2:18 |
+| 7 | [Rebellion \(feat\. Daron Malakian\)](https://open.spotify.com/track/3zZ009FB8sc8JghwVrbLFq) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz), [Daron Malakian](https://open.spotify.com/artist/2MqLs2L4iNhAUNwJQwjmdm) | [The Hunting Party](https://open.spotify.com/album/3XB2yloP7l00tEUmaODtVi) | 3:44 |
+| 8 | [A Thousand Miles](https://open.spotify.com/track/4w1lzcaoZ1IC2K5TwjalRP) | [Vanessa Carlton](https://open.spotify.com/artist/5ILrArfIV0tMURcHJN8Q07) | [Be Not Nobody](https://open.spotify.com/album/5e7T2qUigzt0oIr50KsOld) | 3:57 |
+| 9 | [roadkill](https://open.spotify.com/track/1zXma37Pj0qq04i7dcOZbi) | [Jahnah Camille](https://open.spotify.com/artist/5GDXbZvMrkJk33BqFmeXqS) | [roadkill](https://open.spotify.com/album/0yt0yQH4XcdyihCE4qCxPm) | 2:56 |
+| 10 | [Quest For Fire \- 1998 Remastered Version](https://open.spotify.com/track/59hzWyCzhq8oO6zWQmvvso) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Piece Of Mind \(1998 Remastered Edition\)](https://open.spotify.com/album/3dFAfH33aNku65qm8IPS54) | 3:41 |
+| 11 | [Take a Pebble \- 2012 Remaster](https://open.spotify.com/track/3K6av5WCgHxaCaNcj2L5XB) | [Emerson, Lake & Palmer](https://open.spotify.com/artist/0nCiidE5GgDrc5kWN3NZgZ) | [Emerson, Lake & Palmer \(Deluxe\)](https://open.spotify.com/album/4Q8vDc5lmB9SW9cgMDeQAJ) | 12:31 |
+| 12 | [Take Me Away](https://open.spotify.com/track/2fPlA2m2B0yecH8bVhUb1U) | [Killswitch Engage](https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l) | [Killswitch Engage \(Special Edition\)](https://open.spotify.com/album/2VOrCcwylssybIvX8iC2BR) | 2:45 |
 
-Snapshot ID: `AAAAgMAhqU/YamppAA2kl4Rsjr8OE79Q`
+Snapshot ID: `AAAAgV72VB7TUgPELfa1CMPF50VDaQ3f`

@@ -4,7 +4,7 @@
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Sai Abhyankar
 
-289 songs - 16 hr 38 min
+290 songs - 16 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -245,6 +245,7 @@
 | [Thavi Thavikudhu](https://open.spotify.com/track/6OgUmT7FKBscC9b0fSpOYS) | [Adityan](https://open.spotify.com/artist/3oE6w5AkzIXRIR860NKYjc) | [Thavi Thavikudhu](https://open.spotify.com/album/6bGtp2etuNLu7xxcGvJN4g) | 3:37 | 2024-03-22 |  |
 | [The Gym](https://open.spotify.com/track/4JqF7JsvHJsYp9YpxiJnhe) | [Hustler Bhai](https://open.spotify.com/artist/6nTrUONhTLf2LgPZ8iukC2), [Hyde Karty](https://open.spotify.com/artist/5diOq1Qfzspw7pN99vd8bH), [Azim Ousman](https://open.spotify.com/artist/6Yu7WrUqltHbkBXZekd58r), [J Mic](https://open.spotify.com/artist/5uCiefzBc4ZLTVr0x1J1nj) | [The Gym](https://open.spotify.com/album/2ie6Opxa86GV3gXjONECb6) | 6:16 | 2023-09-26 | 2024-02-23 |
 | [The Olu Song \- From "Think Uncut"](https://open.spotify.com/track/7eetxPcFZh36XQq4s00Mz5) | [Sivakumar](https://open.spotify.com/artist/02ZswAWCbZKdJrVp4GlFOU), [Sultan](https://open.spotify.com/artist/6CxPhwJegxh1fe2reQVgGD), [VishnuRam](https://open.spotify.com/artist/6nn1eFpW3VbPzdolibrVrW), [G Rajeshkumar](https://open.spotify.com/artist/4xj6ketxsODe1TDGzXgz3l), [Gaanaa Kamaraj](https://open.spotify.com/artist/0XyxErk3DPnFvyUS5fSlin) | [The Olu Song \(From "Think Uncut"\)](https://open.spotify.com/album/6LMa1yPl2nNwsVOLjjOgTh) | 2:55 | 2023-04-05 | 2023-07-28 |
+| [Thedalae](https://open.spotify.com/track/7sVRkXRallJK4uB4WTna14) | [Rishi K](https://open.spotify.com/artist/43IKH64gsHdNOnpTcUbIQj) | [Thedalae](https://open.spotify.com/album/1y75Hi81uXLV51z6lqEIuI) | 3:12 | 2024-05-28 |  |
 | [Thedathey](https://open.spotify.com/track/1vjWrLi4w55MBEfATFI5Me) | [Rathya](https://open.spotify.com/artist/1Yf7Q9jSJYFNk1jiRhMBPy), [Dhroga](https://open.spotify.com/artist/5T8ZwwkSmpmR9ei4E20STF) | [Thedathey](https://open.spotify.com/album/5a6JL9PuMZVB0uNh2XsFPV) | 2:57 | 2023-03-21 | 2023-07-25 |
 | [Thedi Pogudhe](https://open.spotify.com/track/2jkQ8bB6do40qdXchgEMxh) | [Shravan Sridhar](https://open.spotify.com/artist/0TMLPi3f3qrkHV8y7Ccvec), [Amos Frank](https://open.spotify.com/artist/7meGmYm0uiBEZlK4xIHPET), [Elvis Gabriel](https://open.spotify.com/artist/7zNdX0JAF6ZqeuMpyQsyE2) | [Thedi Pogudhe](https://open.spotify.com/album/19uQGvpGp5Pk6jjLt4G8eZ) | 3:14 | 2023-11-21 |  |
 | [Theendum Dhooram \- Unplugged](https://open.spotify.com/track/0bp4VHhD7BmOaIDSAhRhSA) | [Ritchie Godson Paul](https://open.spotify.com/artist/5jhGaixWICC5S0iZfD48pd) | [Theendum Dhooram \(Unplugged\)](https://open.spotify.com/album/66k08a6WrDYlmZ5HDqYQmt) | 3:26 | 2023-04-06 | 2023-08-08 |

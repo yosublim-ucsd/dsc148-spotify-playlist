@@ -1,12 +1,12 @@
 {
   "description": "This is Celia Cruz. The essential tracks, all in one playlist.",
-  "num_followers": 101773,
+  "num_followers": 101791,
   "original_name": "This Is Celia Cruz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlJ7gAAAAAD4SoJNgxAm6h2G5NRBI1+2",
+  "snapshot_id": "ZlPNAAAAAACigT9lEu40O0f1eGIfbVwq",
   "tracks": [
     {
       "added_at": null,
@@ -23,22 +23,6 @@
       "duration_ms": 344750,
       "name": "Quimbara - En Vivo",
       "url": "https://open.spotify.com/track/7uLcRFJ4Fa2yIKoR1fTXI0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Para La Eternidad",
-        "url": "https://open.spotify.com/album/2MSP1JG7KflqYqAHtk7wlB"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 278866,
-      "name": "La Vida Es Un Carnaval",
-      "url": "https://open.spotify.com/track/1BwrMGGhPA6GarWIYaFrW8"
     },
     {
       "added_at": null,
@@ -135,6 +119,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Para La Eternidad",
+        "url": "https://open.spotify.com/album/2MSP1JG7KflqYqAHtk7wlB"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 249120,
+      "name": "Te Busco",
+      "url": "https://open.spotify.com/track/5AuS5Nk1vs2vJNPlwB04F1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Regalo Del Alma",
         "url": "https://open.spotify.com/album/7ipsYdh5KxIjrM3gH66T0Q"
       },
@@ -163,22 +163,6 @@
       "duration_ms": 253346,
       "name": "La Negra Tiene Tumbao",
       "url": "https://open.spotify.com/track/7nflSbrgBCitUnW4psdR7a"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Para La Eternidad",
-        "url": "https://open.spotify.com/album/2MSP1JG7KflqYqAHtk7wlB"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 249120,
-      "name": "Te Busco",
-      "url": "https://open.spotify.com/track/5AuS5Nk1vs2vJNPlwB04F1"
     },
     {
       "added_at": null,
@@ -283,18 +267,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Vida Es Un Carnaval (Baile Total)",
-        "url": "https://open.spotify.com/album/2wJymzOZZUBrE0cKzQsvgI"
+        "name": "Celia & Johnny",
+        "url": "https://open.spotify.com/album/416lPCtckkTOPYQslZ6QH1"
       },
       "artists": [
+        {
+          "name": "Johnny Pacheco",
+          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
+        },
         {
           "name": "Celia Cruz",
           "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
         }
       ],
-      "duration_ms": 187240,
-      "name": "Az\u00facar Negra",
-      "url": "https://open.spotify.com/track/6KVHqj1QJNzDyeomTdUhsw"
+      "duration_ms": 342173,
+      "name": "Toro Mata",
+      "url": "https://open.spotify.com/track/0lXxj5T6jeovmtd460qrFN"
     },
     {
       "added_at": null,
@@ -315,6 +303,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Vida Es Un Carnaval (Baile Total)",
+        "url": "https://open.spotify.com/album/2wJymzOZZUBrE0cKzQsvgI"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 187240,
+      "name": "Az\u00facar Negra",
+      "url": "https://open.spotify.com/track/6KVHqj1QJNzDyeomTdUhsw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Regalo Del Alma",
         "url": "https://open.spotify.com/album/7ipsYdh5KxIjrM3gH66T0Q"
       },
@@ -327,6 +331,22 @@
       "duration_ms": 271440,
       "name": "Yo Vivir\u00e9 - I Will Survive",
       "url": "https://open.spotify.com/track/2btnzgT8ARxKjcdOTdqj37"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Irrepetible",
+        "url": "https://open.spotify.com/album/6qtA79Q8hCq9XJTZiR4iQS"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 232573,
+      "name": "Que Le Den Candela",
+      "url": "https://open.spotify.com/track/52IqB6OzcLMRDuW2mAUNq6"
     },
     {
       "added_at": null,
@@ -483,26 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Celia & Johnny",
-        "url": "https://open.spotify.com/album/416lPCtckkTOPYQslZ6QH1"
-      },
-      "artists": [
-        {
-          "name": "Johnny Pacheco",
-          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
-        },
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 331466,
-      "name": "Canto A La Habana",
-      "url": "https://open.spotify.com/track/04ntstVQkinXmizGA5RWDR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Az\u00facar! Caliente",
         "url": "https://open.spotify.com/album/5VRSzmNx2jHSagmnwScyi3"
       },
@@ -523,22 +523,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Tierna, Conmovedora, Bamboleadora",
-        "url": "https://open.spotify.com/album/3505DvX9TkUjchDLCeSv5I"
+        "name": "Celia & Johnny",
+        "url": "https://open.spotify.com/album/416lPCtckkTOPYQslZ6QH1"
       },
       "artists": [
         {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+          "name": "Johnny Pacheco",
+          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
         },
         {
-          "name": "La Sonora Matancera",
-          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
         }
       ],
-      "duration_ms": 174626,
-      "name": "Desvelo De Amor",
-      "url": "https://open.spotify.com/track/5z46fEEorQBtY64lIyyBfo"
+      "duration_ms": 331466,
+      "name": "Canto A La Habana",
+      "url": "https://open.spotify.com/track/04ntstVQkinXmizGA5RWDR"
     },
     {
       "added_at": null,
@@ -559,6 +559,22 @@
       "duration_ms": 156866,
       "name": "No Encuentro Palabras",
       "url": "https://open.spotify.com/track/43T1DZEtE6edC62ojuU5Dw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Sonora Matancera Con Celia Cruz",
+        "url": "https://open.spotify.com/album/1kgApd48rjWLXA5tumtLwU"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 150066,
+      "name": "Mi Amor, Buenas Noches",
+      "url": "https://open.spotify.com/track/0yec5myG1lCB97ks3dzJW4"
     },
     {
       "added_at": null,
@@ -635,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Son con Guaguanc\u00f3",
-        "url": "https://open.spotify.com/album/2j9JHp4omrgcgXsWLoMG2J"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 211866,
-      "name": "Bemba Color\u00e1",
-      "url": "https://open.spotify.com/track/6vWPBJvH1NdMvjsXWTDtjh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Boleros",
         "url": "https://open.spotify.com/album/7DSbg77hDxJs4dnvi1qVgj"
       },
@@ -663,6 +663,22 @@
       "duration_ms": 182160,
       "name": "Esp\u00e9rame En El Cielo",
       "url": "https://open.spotify.com/track/2QpsriJKyoAruNdeHRgJUd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Son con Guaguanc\u00f3",
+        "url": "https://open.spotify.com/album/2j9JHp4omrgcgXsWLoMG2J"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 211866,
+      "name": "Bemba Color\u00e1",
+      "url": "https://open.spotify.com/track/6vWPBJvH1NdMvjsXWTDtjh"
     },
     {
       "added_at": null,
@@ -751,22 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Anthology: Antolog\u00eda de la Salsa (Remastered)",
-        "url": "https://open.spotify.com/album/4rJIYIlWtTC4VkFhVbjMP1"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 168475,
-      "name": "Ven Bernabe - Remastered",
-      "url": "https://open.spotify.com/track/5v5QvuADGTmk9D0rST4s0e"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alma Caribe\u00f1a",
         "url": "https://open.spotify.com/album/24obAzHAF54ZtdSUZtn0np"
       },
@@ -787,6 +787,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Anthology: Antolog\u00eda de la Salsa (Remastered)",
+        "url": "https://open.spotify.com/album/4rJIYIlWtTC4VkFhVbjMP1"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 168475,
+      "name": "Ven Bernabe - Remastered",
+      "url": "https://open.spotify.com/track/5v5QvuADGTmk9D0rST4s0e"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Serenata Guajira",
         "url": "https://open.spotify.com/album/4WKWwc85zSpD2Nd63yN2aM"
       },
@@ -803,22 +819,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cuba's Queen Of Rhythm",
-        "url": "https://open.spotify.com/album/4FwaFU87BXwp3EQVr4cLIX"
+        "name": "Viva la Reina de la Salsa",
+        "url": "https://open.spotify.com/album/5sj5rxV32E8izCz99fNFLU"
       },
       "artists": [
         {
-          "name": "La Sonora Matancera",
-          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
-        },
-        {
           "name": "Celia Cruz",
           "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        },
+        {
+          "name": "Tito Puente",
+          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
         }
       ],
-      "duration_ms": 159266,
-      "name": "Y Mi Negro Esta Cansao",
-      "url": "https://open.spotify.com/track/2lQL2ZIO7m4dE3bMAymTIj"
+      "duration_ms": 224293,
+      "name": "Cao Cao Man\u00ed Picao",
+      "url": "https://open.spotify.com/track/4jrV8b9VyVl0bGRDrlReSt"
     },
     {
       "added_at": null,
@@ -943,22 +959,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Para La Eternidad",
-        "url": "https://open.spotify.com/album/2MSP1JG7KflqYqAHtk7wlB"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 291240,
-      "name": "Saz\u00f3n",
-      "url": "https://open.spotify.com/track/5zUxfJLKT4bLFWR1ck6evc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mi Diario Musical",
         "url": "https://open.spotify.com/album/57eQICbekhHUc8WXBEZpkD"
       },
@@ -972,9 +972,25 @@
           "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
         }
       ],
-      "duration_ms": 161386,
-      "name": "Caramelos",
-      "url": "https://open.spotify.com/track/76kSyrC39OifBZweY6JdP8"
+      "duration_ms": 167400,
+      "name": "Me Voy A Pinar Del R\u00edo",
+      "url": "https://open.spotify.com/track/14uucuWFa78hDSkfqq0uoE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Para La Eternidad",
+        "url": "https://open.spotify.com/album/2MSP1JG7KflqYqAHtk7wlB"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 291240,
+      "name": "Saz\u00f3n",
+      "url": "https://open.spotify.com/track/5zUxfJLKT4bLFWR1ck6evc"
     },
     {
       "added_at": null,
@@ -1011,6 +1027,26 @@
       "duration_ms": 251706,
       "name": "Dos Jueyes",
       "url": "https://open.spotify.com/track/79LLoATRBfeQ6XrY5sOurY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mi Diario Musical",
+        "url": "https://open.spotify.com/album/57eQICbekhHUc8WXBEZpkD"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Matancera",
+          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
+        },
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 161386,
+      "name": "Caramelos",
+      "url": "https://open.spotify.com/track/76kSyrC39OifBZweY6JdP8"
     },
     {
       "added_at": null,
@@ -1067,38 +1103,6 @@
       "duration_ms": 184040,
       "name": "No Me Vayas A Enganar",
       "url": "https://open.spotify.com/track/6HAq1QMxwqXo1C3WqDVJn5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Sonora Matencera Con Celia Cruz",
-        "url": "https://open.spotify.com/album/07v2808Ya6HFSQDckM1CWz"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 188626,
-      "name": "Tu Voz",
-      "url": "https://open.spotify.com/track/0aKEWdfm89EjTDKdqjhQgY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Etc. Etc. Etc.",
-        "url": "https://open.spotify.com/album/4P5wdlbrcKgZ2oM9n6JGmv"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 180207,
-      "name": "Az\u00facar, Az\u00facar",
-      "url": "https://open.spotify.com/track/23aUOBa50xrh8pwjPEljNo"
     }
   ],
   "unique_name": "This Is Celia Cruz",

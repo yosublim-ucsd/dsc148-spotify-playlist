@@ -4,10 +4,11 @@
 
 > Favourites from Canadians who dominated the 1990s\. Cover: Alanis Morissette
 
-158 songs - 11 hr 2 min
+160 songs - 11 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [\(Everything I Do\) I Do It For You](https://open.spotify.com/track/5HQ6AUDMbMuwktvcNPuV1y) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Robin Hood: Prince Of Thieves \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3bbdZdZQtCtnWEN5zG7Eyj) | 6:38 | 2024-05-28 |  |
 | [12 Years Old](https://open.spotify.com/track/4U8IbxALWAot4SiZjbn6ly) | [Kim Stockwood](https://open.spotify.com/artist/7tHtvm0ciNjpPjUgolojNp) | [12 Years Old](https://open.spotify.com/album/302yxD5gCv1qPpvqrYQpn3) | 5:38 | 2020-10-29\* | 2024-04-06 |
 | [A List Of Things](https://open.spotify.com/track/6N76d0uy2c5ylz5bIvEn3W) | [Damhnait Doyle](https://open.spotify.com/artist/0AJWI2oTTVSHbaE6tpzCJB) | [Shadows Wake Me](https://open.spotify.com/album/5L5MeaOvuUccIFwRiLVrJI) | 3:16 | 2020-10-29\* | 2024-04-06 |
 | [Adam's Rib](https://open.spotify.com/track/1e1zDdolYPa6n6vPzgUmTe) | [Melanie Doane](https://open.spotify.com/artist/0xouJHuuelkexhPsQ8ufje) | [Adam's Rib](https://open.spotify.com/album/4XLb0UD4nIb8gOiUjfnFPS) | 3:36 | 2024-04-05 |  |
@@ -57,7 +58,7 @@
 | [I Don't Want to Think About It](https://open.spotify.com/track/5qYkPxkYVbzMRnHApgTxFt) | [Wild Strawberries](https://open.spotify.com/artist/7ljHszidUrPozzc2HtsL3y) | [Heroine](https://open.spotify.com/album/558Yz0cyPe3qKQOhDz3mTV) | 3:46 | 2020-10-29\* |  |
 | [I Will Give You Everything](https://open.spotify.com/track/2245fV98nk0wMzGcHuG4G5) | [Skydiggers](https://open.spotify.com/artist/7laI3diMt9Gpz0GAp85qLb) | [Skydiggers](https://open.spotify.com/album/54ZIRfz2SnjITENgxRY1S2) | 3:56 | 2024-04-05 |  |
 | [If I Fall](https://open.spotify.com/track/5PAz50Dy3KT9vUlnZEpETG) | [Tara MacLean](https://open.spotify.com/artist/1It4wk41Lhrspxd3awN9FJ) | [Passenger](https://open.spotify.com/album/5ATi55lQ2cXPiSG0yyWuZ2) | 4:09 | 2024-04-05 | 2024-04-19 |
-| [If I Fall](https://open.spotify.com/track/5y1SrenKCtZ1AXnl9fGLb1) | [Tara MacLean](https://open.spotify.com/artist/1It4wk41Lhrspxd3awN9FJ) | [Passenger](https://open.spotify.com/album/5kWqCXOvFL0hdGqOZcmJUW) | 4:09 | 2024-04-12 |  |
+| [If I Fall](https://open.spotify.com/track/5y1SrenKCtZ1AXnl9fGLb1) | [Tara MacLean](https://open.spotify.com/artist/1It4wk41Lhrspxd3awN9FJ) | [Passenger](https://open.spotify.com/album/5kWqCXOvFL0hdGqOZcmJUW) | 4:09 | 2024-04-12 | 2024-05-29 |
 | [Informer](https://open.spotify.com/track/2LjiPAQOVazT8sRyXL3XRs) | [Snow](https://open.spotify.com/artist/3uZFBSsMiooimnprFL9jD1) | [12 Inches Of Snow](https://open.spotify.com/album/6bNWz7bHK8M0xPfAPmFSRW) | 4:28 | 2020-10-29\* |  |
 | [Insensitive](https://open.spotify.com/track/0yx00RNuvZY5Vn8nlpUnMk) | [Jann Arden](https://open.spotify.com/artist/1aftUCES5zD5xXI7O9ZF9F) | [Living Under June](https://open.spotify.com/album/4459ANZzMiQV2nvpH8lc6O) | 4:15 | 2024-04-05 |  |
 | [Ironic \- 2015 Remaster](https://open.spotify.com/track/1d6KS9GH06JAd19uiBy9IE) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Jagged Little Pill \(2015 Remaster\)](https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA) | 3:50 | 2024-04-05 |  |
@@ -157,8 +158,9 @@
 | [Top Of The World \(feat\. Barrington Levy & k\-os\)](https://open.spotify.com/track/3wQ5GjgkmtHacx00hJiU8q) | [Rascalz](https://open.spotify.com/artist/74LVRFFZZEDYha9qZXsPHF), [Barrington Levy](https://open.spotify.com/artist/5mMuiFhh7faS7qxnTLRA6u), [K\-OS](https://open.spotify.com/artist/3EZWlSBWlPsC8lCI2Y36Gl) | [Global Warning](https://open.spotify.com/album/0Iy2vD1FWExzywkHNSeYO4) | 4:48 | 2024-04-05 |  |
 | [Wayne](https://open.spotify.com/track/38h3FGMLUI3V3sn5uK0cke) | [Chantal Kreviazuk](https://open.spotify.com/artist/1x1NsoNPyVy6FlgSLSovSk) | [Under These Rocks And Stones](https://open.spotify.com/album/45x3fW5IKv8k4tMEhv1Evy) | 4:45 | 2021-09-21 | 2022-11-13 |
 | [Wayne](https://open.spotify.com/track/5RCyu62J9pk1PqgFfCxgn8) | [Chantal Kreviazuk](https://open.spotify.com/artist/1x1NsoNPyVy6FlgSLSovSk) | [Under These Rocks And Stones](https://open.spotify.com/album/3PMSWzK8diDoaMdOZTHzFJ) | 4:45 | 2020-10-29\* | 2024-04-06 |
+| [When You're Gone](https://open.spotify.com/track/7p9dd71JR2ucoAuO1Sy0VZ) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc), [Melanie C](https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df) | [On A Day Like Today](https://open.spotify.com/album/1xF1nKu3UL84l7CofB4QBV) | 3:24 | 2024-05-28 |  |
 | [When You're Gone](https://open.spotify.com/track/0mto4XYo8GISKnDxlLdK2a) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc), [Melanie C](https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df) | [On A Day Like Today](https://open.spotify.com/album/5x3Ws76JQN6elCUAOfVVlT) | 3:24 | 2020-10-29\* | 2024-05-28 |
-| [When You're Gone \(Classic Version\)](https://open.spotify.com/track/3igRudEJLuWBumYOdPXQxc) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc), [Melanie C](https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df) | [Classic Pt\. II](https://open.spotify.com/album/0gM0ulzUDQmNHQgbjvu4El) | 3:21 | 2024-05-27 |  |
+| [When You're Gone \(Classic Version\)](https://open.spotify.com/track/3igRudEJLuWBumYOdPXQxc) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc), [Melanie C](https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df) | [Classic Pt\. II](https://open.spotify.com/album/0gM0ulzUDQmNHQgbjvu4El) | 3:21 | 2024-05-27 | 2024-05-29 |
 | [While My Guitar Gently Weeps](https://open.spotify.com/track/1T94tcUfe2X74nriMCAWQa) | [The Jeff Healey Band](https://open.spotify.com/artist/3d2hJTVTwo08F9b0ZFQukJ) | [Hell To Pay](https://open.spotify.com/album/31DS8fyjbe15k7L4B20kp1) | 5:15 | 2021-09-21 | 2024-04-06 |
 | [You Don't Know What It's Like](https://open.spotify.com/track/50mKGx40EqwIekEwWpC47m) | [Econoline Crush](https://open.spotify.com/artist/3M9ouLHyB0kbob1tnQN4wE) | [Brand New History](https://open.spotify.com/album/4vRTFlSocgxhJUISM8P2s3) | 4:06 | 2024-04-05 |  |
 | [You Learn \- 2015 Remaster](https://open.spotify.com/track/4l7YIni9bAiGwWMqK5wvgV) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Jagged Little Pill \(2015 Remaster\)](https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA) | 3:59 | 2020-10-29\* | 2024-04-06 |

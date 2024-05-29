@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-1,943 songs - 3 day 1 hr 59 min
+1,944 songs - 3 day 2 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1364,6 +1364,7 @@
 | [pássaro](https://open.spotify.com/track/2M7EWn8Wer8ERj8LWWr73l) | [Linearwave](https://open.spotify.com/artist/2wIeBTEs0AsPb74kYdEcNk), [evän](https://open.spotify.com/artist/2VNtLWlwWghbNHvtPcM69G) | [pássaro](https://open.spotify.com/album/6EvrdQnoT8sEAmCfN8elzk) | 1:46 | 2022-07-29 | 2022-08-19 |
 | [Radiotravel](https://open.spotify.com/track/39whRf3d7uFeO7DxEVLM0W) | [stockcosmos](https://open.spotify.com/artist/7n38ifmZ65xQpC6pTcnhDE) | [Radiotravel](https://open.spotify.com/album/50fdifiTlkBgWudCuZRdzA) | 2:25 | 2023-11-17 |  |
 | [Radish Style](https://open.spotify.com/track/07B5jrUOKWraSjvL0Dzm4H) | [URCHN](https://open.spotify.com/artist/6TsSBSisvQYCupsHmXe1iK), [bugzug](https://open.spotify.com/artist/51RjceiwmeWYUP3NSTzRNH) | [Radish Style](https://open.spotify.com/album/51QxaDPh0rDqpBIiqD5AzF) | 2:14 | 2022-12-02 | 2023-09-16 |
+| [raft](https://open.spotify.com/track/4vBLwo8KRVOnq0J3tnJZaL) | [red cap](https://open.spotify.com/artist/0pZUsjtpT2z9F0GMqOk9QO) | [raft](https://open.spotify.com/album/3RkwB73fuQQPtX2r6ccjB5) | 2:18 | 2024-05-23 |  |
 | [Rain Is Coming](https://open.spotify.com/track/1CW0PI7ZckvnXHAeAypn5O) | [Oysterz](https://open.spotify.com/artist/0VzxjGtQNEMzEZJV0NNpQq) | [Rain Is Coming](https://open.spotify.com/album/68uy9QCsmh1NGn95lgGXKe) | 1:51 | 2023-10-27 |  |
 | [rain on us](https://open.spotify.com/track/479kmYiQl2QL7SVeRAS3TO) | [SanelliX](https://open.spotify.com/artist/0sk0gTYhiFal4UfEKbpnGu) | [rain on us](https://open.spotify.com/album/3quSGC6EbfpwVqZiXaR0kQ) | 2:27 | 2022-05-13 | 2022-11-12 |
 | [Rainclouds Still Remember](https://open.spotify.com/track/2RAYJawqivodlRe2C6emmK) | [Miso Colt](https://open.spotify.com/artist/0bsWKSbs38UWgIjPBaz5x4) | [Rainclouds Still Remember](https://open.spotify.com/album/19d7nSFHyMulZzgTEwhlIH) | 2:55 | 2023-03-24 |  |
@@ -1865,7 +1866,7 @@
 | [Warwick](https://open.spotify.com/track/3HG3Go7Yy72QSFHJ88hQuG) | [Aican](https://open.spotify.com/artist/4UCgzSRu7AqsgDKDCaPeUb) | [Warwick](https://open.spotify.com/album/1yAZbjVVKbnrQeFaL5dcTo) | 1:39 | 2022-07-22 | 2022-12-03 |
 | [Water under the Bridge](https://open.spotify.com/track/2hkWgVbqRizZklKGPInc5x) | [Matt Large](https://open.spotify.com/artist/107WzwlsOTR6Nxnw2kPHd3) | [Rare Breed](https://open.spotify.com/album/7qVNP2v7tcpoOnEEnObYej) | 3:27 | 2022-04-15 | 2022-11-12 |
 | [watercolour](https://open.spotify.com/track/0x0XaXiKrUFoCTnrDFXgdt) | [Zoe Reed](https://open.spotify.com/artist/4mZWwBPYRI8NSMUBAH8WFE) | [watercolour](https://open.spotify.com/album/184U6PqwZz0xIejtcsr5Nd) | 2:00 | 2023-12-15 |  |
-| [waves](https://open.spotify.com/track/75lbe3dkMnMlOk2NiXhD7b) | [Coastlinez](https://open.spotify.com/artist/1JDqWVMetMtVAFvSH1ahzj) | [waves](https://open.spotify.com/album/1N5uO19ere7Y3cbG41LHCk) | 3:02 | 2022-12-09 |  |
+| [waves](https://open.spotify.com/track/75lbe3dkMnMlOk2NiXhD7b) | [Coastlinez](https://open.spotify.com/artist/1JDqWVMetMtVAFvSH1ahzj) | [waves](https://open.spotify.com/album/1N5uO19ere7Y3cbG41LHCk) | 3:02 | 2022-12-09 | 2024-05-29 |
 | [Waves coming](https://open.spotify.com/track/2J6oZ9gQYE9kl3RJoRuhfn) | [Pete LaCroix](https://open.spotify.com/artist/02oVnpIPcBnM3aLWynbqpo) | [Waves coming](https://open.spotify.com/album/5r2aAYQwavuOhjlfvqqAFs) | 2:51 | 2022-04-15 | 2022-10-08 |
 | [Wavez](https://open.spotify.com/track/02geXr3q6b3JlRC8lXG9Ze) | [Christopher Jackson](https://open.spotify.com/artist/6sLwRSXSUF5JTUnQaFenyj) | [Wavez](https://open.spotify.com/album/5i4VhNSsE6IaQrDbBGm0aR) | 2:41 | 2022-07-29 | 2022-08-12 |
 | [Wavy Dreams](https://open.spotify.com/track/4Vwrn6AZD1UMWjcPyZCQzv) | [AN!A](https://open.spotify.com/artist/7Lj9HhAnrKS6ZyGwPUyEJU), [himood](https://open.spotify.com/artist/5aMnmWZJalu86v3QPyITpD) | [Wavy Dreams](https://open.spotify.com/album/5q5u0G46pE0AuwJ2TPMUUN) | 2:14 | 2022-11-11 | 2023-01-20 |

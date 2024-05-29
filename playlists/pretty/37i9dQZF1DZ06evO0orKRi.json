@@ -1,12 +1,12 @@
 {
   "description": "This is Slim Dusty. The essential tracks, all in one playlist.",
-  "num_followers": 22740,
+  "num_followers": 22745,
   "original_name": "This Is Slim Dusty",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlJ7gAAAAABUVINrmxg9J6SsZQ8bYQA8",
+  "snapshot_id": "ZlPNAAAAAACEicLvMVyh0242K7gKkNPS",
   "tracks": [
     {
       "added_at": null,
@@ -56,9 +56,9 @@
           "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
         }
       ],
-      "duration_ms": 180906,
-      "name": "A Pub With No Beer - 1979 Version",
-      "url": "https://open.spotify.com/track/0TJSVhxbtUzejxxkDnIHmp"
+      "duration_ms": 155026,
+      "name": "Duncan",
+      "url": "https://open.spotify.com/track/6jHBKCN0A4nYI8Y6RZ5vBj"
     },
     {
       "added_at": null,
@@ -120,9 +120,9 @@
           "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
         }
       ],
-      "duration_ms": 176066,
-      "name": "Leave Him In The Long Yard",
-      "url": "https://open.spotify.com/track/0D6AKpyrtz8gBLIgPgcnRk"
+      "duration_ms": 180906,
+      "name": "A Pub With No Beer - 1979 Version",
+      "url": "https://open.spotify.com/track/0TJSVhxbtUzejxxkDnIHmp"
     },
     {
       "added_at": null,
@@ -192,9 +192,9 @@
           "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
         }
       ],
-      "duration_ms": 172000,
-      "name": "Walk A Country Mile",
-      "url": "https://open.spotify.com/track/48aOpQt8DsYnCgWeSDAqqU"
+      "duration_ms": 176066,
+      "name": "Leave Him In The Long Yard",
+      "url": "https://open.spotify.com/track/0D6AKpyrtz8gBLIgPgcnRk"
     },
     {
       "added_at": null,
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
         }
       ],
-      "duration_ms": 203200,
-      "name": "Three Rivers Hotel",
-      "url": "https://open.spotify.com/track/6etnW9TP1vFYrUP90dgUA9"
+      "duration_ms": 172000,
+      "name": "Walk A Country Mile",
+      "url": "https://open.spotify.com/track/48aOpQt8DsYnCgWeSDAqqU"
     },
     {
       "added_at": null,
@@ -328,9 +328,25 @@
           "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
         }
       ],
-      "duration_ms": 184866,
-      "name": "The Biggest Disappointment",
-      "url": "https://open.spotify.com/track/7BXwT7paPEOEGgG8Qj18r2"
+      "duration_ms": 203200,
+      "name": "Three Rivers Hotel",
+      "url": "https://open.spotify.com/track/6etnW9TP1vFYrUP90dgUA9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Slim Dusty Heritage Album",
+        "url": "https://open.spotify.com/album/00I7NIZRiiCpzH5BWn3PSC"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "duration_ms": 271133,
+      "name": "We've Done Us Proud",
+      "url": "https://open.spotify.com/track/3Ul3CKnqUSGcoGSQU8v3lz"
     },
     {
       "added_at": null,
@@ -351,22 +367,6 @@
       "duration_ms": 190200,
       "name": "Truckin's In My Blood - Remastered 1992",
       "url": "https://open.spotify.com/track/6Zxga3jpf99AQ6b160pLrI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Slim Dusty Heritage Album",
-        "url": "https://open.spotify.com/album/00I7NIZRiiCpzH5BWn3PSC"
-      },
-      "artists": [
-        {
-          "name": "Slim Dusty",
-          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
-        }
-      ],
-      "duration_ms": 271133,
-      "name": "We've Done Us Proud",
-      "url": "https://open.spotify.com/track/3Ul3CKnqUSGcoGSQU8v3lz"
     },
     {
       "added_at": null,
@@ -396,9 +396,9 @@
           "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
         }
       ],
-      "duration_ms": 162466,
-      "name": "When The Rain Tumbles Down In July - 1979 Version",
-      "url": "https://open.spotify.com/track/5cS4iHrmDZpJWYj2UXQcJe"
+      "duration_ms": 184866,
+      "name": "The Biggest Disappointment",
+      "url": "https://open.spotify.com/track/7BXwT7paPEOEGgG8Qj18r2"
     },
     {
       "added_at": null,
@@ -419,22 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Natural High",
-        "url": "https://open.spotify.com/album/1F4XU3rfCw5mozAU7JZAlf"
-      },
-      "artists": [
-        {
-          "name": "Slim Dusty",
-          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
-        }
-      ],
-      "duration_ms": 219493,
-      "name": "Under The Spell Of Highway One",
-      "url": "https://open.spotify.com/track/1mYEgQl8LaIaQQRVp339sL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Very Best Of Slim Dusty (Remastered)",
         "url": "https://open.spotify.com/album/6i1P55WBQ3YWUtLYOQcq02"
       },
@@ -447,54 +431,6 @@
       "duration_ms": 229360,
       "name": "Where Country Is - 1998 Remaster",
       "url": "https://open.spotify.com/track/2U8tYaXPEqwWp7c4bGidaB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Slim Dusty Heritage Album",
-        "url": "https://open.spotify.com/album/00I7NIZRiiCpzH5BWn3PSC"
-      },
-      "artists": [
-        {
-          "name": "Slim Dusty",
-          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
-        }
-      ],
-      "duration_ms": 463800,
-      "name": "The Man From Snowy River",
-      "url": "https://open.spotify.com/track/2xv0IvUYv7vkhKstp46RXg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sittin' On 80 (Remastered)",
-        "url": "https://open.spotify.com/album/444une4Wfn6IvXEOrpqi6T"
-      },
-      "artists": [
-        {
-          "name": "Slim Dusty",
-          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
-        }
-      ],
-      "duration_ms": 195586,
-      "name": "Mechanised Swaggie",
-      "url": "https://open.spotify.com/track/0TJ7R2m1d0bs0H4EZT79Fe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Looking Forward Looking Back",
-        "url": "https://open.spotify.com/album/2cBqkvAu8keKTv0RqAkwa2"
-      },
-      "artists": [
-        {
-          "name": "Slim Dusty",
-          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
-        }
-      ],
-      "duration_ms": 272093,
-      "name": "Paddy William",
-      "url": "https://open.spotify.com/track/0sQYfdkld1cuFNZyczDB2u"
     },
     {
       "added_at": null,
@@ -519,8 +455,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Very Best Of Slim Dusty (Remastered)",
-        "url": "https://open.spotify.com/album/6i1P55WBQ3YWUtLYOQcq02"
+        "name": "Looking Forward Looking Back",
+        "url": "https://open.spotify.com/album/2cBqkvAu8keKTv0RqAkwa2"
       },
       "artists": [
         {
@@ -528,9 +464,9 @@
           "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
         }
       ],
-      "duration_ms": 193533,
-      "name": "Plains Of Peppimenarti - 1998 Remaster",
-      "url": "https://open.spotify.com/track/5SQXeOpWzAmgzTUiH6nkMq"
+      "duration_ms": 272093,
+      "name": "Paddy William",
+      "url": "https://open.spotify.com/track/0sQYfdkld1cuFNZyczDB2u"
     },
     {
       "added_at": null,
@@ -544,15 +480,15 @@
           "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
         }
       ],
-      "duration_ms": 212853,
-      "name": "Boomaroo Flyer",
-      "url": "https://open.spotify.com/track/0qtXmZ3YZe8zHlGnjmbISe"
+      "duration_ms": 195586,
+      "name": "Mechanised Swaggie",
+      "url": "https://open.spotify.com/track/0TJ7R2m1d0bs0H4EZT79Fe"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Looking Forward Looking Back",
-        "url": "https://open.spotify.com/album/2cBqkvAu8keKTv0RqAkwa2"
+        "name": "The Very Best Of Slim Dusty (Remastered)",
+        "url": "https://open.spotify.com/album/6i1P55WBQ3YWUtLYOQcq02"
       },
       "artists": [
         {
@@ -560,9 +496,9 @@
           "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
         }
       ],
-      "duration_ms": 156800,
-      "name": "A Bad Day's Fishin'",
-      "url": "https://open.spotify.com/track/3PwrVREh5ak8dpX7rqYZ0N"
+      "duration_ms": 193533,
+      "name": "Plains Of Peppimenarti - 1998 Remaster",
+      "url": "https://open.spotify.com/track/5SQXeOpWzAmgzTUiH6nkMq"
     },
     {
       "added_at": null,
@@ -583,6 +519,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Looking Forward Looking Back",
+        "url": "https://open.spotify.com/album/2cBqkvAu8keKTv0RqAkwa2"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "duration_ms": 156800,
+      "name": "A Bad Day's Fishin'",
+      "url": "https://open.spotify.com/track/3PwrVREh5ak8dpX7rqYZ0N"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sittin' On 80 (Remastered)",
+        "url": "https://open.spotify.com/album/444une4Wfn6IvXEOrpqi6T"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "duration_ms": 212853,
+      "name": "Boomaroo Flyer",
+      "url": "https://open.spotify.com/track/0qtXmZ3YZe8zHlGnjmbISe"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Natural High",
         "url": "https://open.spotify.com/album/1F4XU3rfCw5mozAU7JZAlf"
       },
@@ -599,8 +567,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sittin' On 80 (Remastered)",
-        "url": "https://open.spotify.com/album/444une4Wfn6IvXEOrpqi6T"
+        "name": "Truck Songs",
+        "url": "https://open.spotify.com/album/2tnFvsouoPXa3zILj5YRNd"
       },
       "artists": [
         {
@@ -608,9 +576,9 @@
           "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
         }
       ],
-      "duration_ms": 162026,
-      "name": "Haulin' For The Double 'T'",
-      "url": "https://open.spotify.com/track/2VHfWJ34HWsSGQ7pLKlJEu"
+      "duration_ms": 191693,
+      "name": "Gotta Keep Moving",
+      "url": "https://open.spotify.com/track/3SAeAgYnbVqtNQZH9S6j6i"
     },
     {
       "added_at": null,
@@ -635,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Truck Songs",
-        "url": "https://open.spotify.com/album/2tnFvsouoPXa3zILj5YRNd"
+        "name": "Sittin' On 80 (Remastered)",
+        "url": "https://open.spotify.com/album/444une4Wfn6IvXEOrpqi6T"
       },
       "artists": [
         {
@@ -644,9 +612,9 @@
           "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
         }
       ],
-      "duration_ms": 253066,
-      "name": "Star Trucker",
-      "url": "https://open.spotify.com/track/5COZ5BrN5waKTpOw6wXQEB"
+      "duration_ms": 162026,
+      "name": "Haulin' For The Double 'T'",
+      "url": "https://open.spotify.com/track/2VHfWJ34HWsSGQ7pLKlJEu"
     },
     {
       "added_at": null,
@@ -667,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sittin' On 80 (Remastered)",
-        "url": "https://open.spotify.com/album/444une4Wfn6IvXEOrpqi6T"
+        "name": "Truck Songs",
+        "url": "https://open.spotify.com/album/2tnFvsouoPXa3zILj5YRNd"
       },
       "artists": [
         {
@@ -676,9 +644,9 @@
           "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
         }
       ],
-      "duration_ms": 198586,
-      "name": "I'm Married To My Bulldog Mack - 2009 Digital Remaster",
-      "url": "https://open.spotify.com/track/0wQNp6E0dtrERTq2Jqy3sA"
+      "duration_ms": 253066,
+      "name": "Star Trucker",
+      "url": "https://open.spotify.com/track/5COZ5BrN5waKTpOw6wXQEB"
     },
     {
       "added_at": null,
@@ -699,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Truck Songs",
-        "url": "https://open.spotify.com/album/2tnFvsouoPXa3zILj5YRNd"
+        "name": "Sittin' On 80 (Remastered)",
+        "url": "https://open.spotify.com/album/444une4Wfn6IvXEOrpqi6T"
       },
       "artists": [
         {
@@ -708,9 +676,9 @@
           "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
         }
       ],
-      "duration_ms": 191693,
-      "name": "Gotta Keep Moving",
-      "url": "https://open.spotify.com/track/3SAeAgYnbVqtNQZH9S6j6i"
+      "duration_ms": 198586,
+      "name": "I'm Married To My Bulldog Mack - 2009 Digital Remaster",
+      "url": "https://open.spotify.com/track/0wQNp6E0dtrERTq2Jqy3sA"
     },
     {
       "added_at": null,
@@ -731,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sittin' On 80 (Remastered)",
-        "url": "https://open.spotify.com/album/444une4Wfn6IvXEOrpqi6T"
+        "name": "Truck Songs",
+        "url": "https://open.spotify.com/album/2tnFvsouoPXa3zILj5YRNd"
       },
       "artists": [
         {
@@ -740,9 +708,9 @@
           "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
         }
       ],
-      "duration_ms": 168000,
-      "name": "Highway Fever - 2009 Digital Remaster",
-      "url": "https://open.spotify.com/track/4rvvKIQ47CesB4m5ke6DYW"
+      "duration_ms": 240413,
+      "name": "Something In The Pilliga",
+      "url": "https://open.spotify.com/track/42fl1eHeTq8xsSvNZKoJ9u"
     },
     {
       "added_at": null,
@@ -763,8 +731,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Truck Songs",
-        "url": "https://open.spotify.com/album/2tnFvsouoPXa3zILj5YRNd"
+        "name": "Sittin' On 80 (Remastered)",
+        "url": "https://open.spotify.com/album/444une4Wfn6IvXEOrpqi6T"
       },
       "artists": [
         {
@@ -772,9 +740,9 @@
           "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
         }
       ],
-      "duration_ms": 240413,
-      "name": "Something In The Pilliga",
-      "url": "https://open.spotify.com/track/42fl1eHeTq8xsSvNZKoJ9u"
+      "duration_ms": 168000,
+      "name": "Highway Fever - 2009 Digital Remaster",
+      "url": "https://open.spotify.com/track/4rvvKIQ47CesB4m5ke6DYW"
     },
     {
       "added_at": null,
@@ -795,6 +763,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Truck Songs",
+        "url": "https://open.spotify.com/album/2tnFvsouoPXa3zILj5YRNd"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "duration_ms": 150853,
+      "name": "No Good Truckin' Man",
+      "url": "https://open.spotify.com/track/03IVyqOYqy4EaBCb1wd56j"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pubs, Trucks & Plains",
         "url": "https://open.spotify.com/album/7CS7R9ZsE8QlrCOphaYpyi"
       },
@@ -811,22 +795,6 @@
       "duration_ms": 178306,
       "name": "Wobbly Boot",
       "url": "https://open.spotify.com/track/2WLqQbjvpMrUNnJaMVKOT5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Truck Songs",
-        "url": "https://open.spotify.com/album/2tnFvsouoPXa3zILj5YRNd"
-      },
-      "artists": [
-        {
-          "name": "Slim Dusty",
-          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
-        }
-      ],
-      "duration_ms": 150853,
-      "name": "No Good Truckin' Man",
-      "url": "https://open.spotify.com/track/03IVyqOYqy4EaBCb1wd56j"
     }
   ],
   "unique_name": "This Is Slim Dusty",

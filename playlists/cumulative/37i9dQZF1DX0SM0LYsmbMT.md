@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-4,131 songs - 6 day 13 hr 47 min
+4,132 songs - 6 day 13 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2423,7 +2423,7 @@
 | [New Moon](https://open.spotify.com/track/2ZbvON6YdaYgcO1PiIA4uw) | [Hz.](https://open.spotify.com/artist/59HCGLavl7XxBSiAdB2L8j), [eaup](https://open.spotify.com/artist/5MvvhhTGyd2iGzaksZpLEt) | [New Moon](https://open.spotify.com/album/6HPQfXJo8OFpyMxGjdIqbm) | 2:25 | 2021-05-14 | 2022-01-21 |
 | [New music](https://open.spotify.com/track/3etlIf9k54KXj8fgY1NQtD) | [Don Philippe](https://open.spotify.com/artist/0oer0EPMRrosfCF2tUt2jU) | [New music](https://open.spotify.com/album/51vLWuPjB2yt3GlJRbuGyD) | 1:27 | 2021-06-04 | 2022-07-28 |
 | [New music](https://open.spotify.com/track/3xBmX6bX1uejbi7iLFiRp5) | [Don Philippe](https://open.spotify.com/artist/0oer0EPMRrosfCF2tUt2jU) | [Pleasures](https://open.spotify.com/album/17lrOs4wLpcYKDMJynoQ9p) | 1:27 | 2022-07-28 | 2022-09-27 |
-| [New Sneakers](https://open.spotify.com/track/5enJFKY7H1neRxwbvhtPOg) | [Grmmr.126](https://open.spotify.com/artist/5I9DfXCEBU6PwpWqnySRYK) | [New Sneakers](https://open.spotify.com/album/6pgebHoouixAkRV1OBHhhX) | 1:28 | 2024-02-15 |  |
+| [New Sneakers](https://open.spotify.com/track/5enJFKY7H1neRxwbvhtPOg) | [Grmmr.126](https://open.spotify.com/artist/5I9DfXCEBU6PwpWqnySRYK) | [New Sneakers](https://open.spotify.com/album/6pgebHoouixAkRV1OBHhhX) | 1:28 | 2024-02-15 | 2024-05-29 |
 | [New Studio](https://open.spotify.com/track/0xlJzSM4LJ7xuQG5myA14s) | [Grmmr.126](https://open.spotify.com/artist/5I9DfXCEBU6PwpWqnySRYK) | [New Studio](https://open.spotify.com/album/1MQXpdGNWjyh4UFastaFo1) | 1:29 | 2024-01-15 | 2024-01-19 |
 | [New York](https://open.spotify.com/track/1SHW5GLmrJ3PbR5Cbip24V) | [Gregory Ross](https://open.spotify.com/artist/3vHAij1z57NgRTTtTDFAoe) | [New York](https://open.spotify.com/album/6v1lczl6CkTOm3tWO6MGYw) | 3:18 | 2019-11-12 | 2020-03-31 |
 | [New York \- Extended](https://open.spotify.com/track/0x3JF5cqEMI6Sl1EQj0GgS) | [StriveAU](https://open.spotify.com/artist/0gX527ngxcnfHH8kHj1gEe) | [Vans with My Ol' Sweater](https://open.spotify.com/album/5j7ZJBrNIB8SByWJxLalZC) | 1:51 | 2019-05-26\* | 2019-06-15 |
@@ -4040,6 +4040,7 @@
 | [Wild Paradise](https://open.spotify.com/track/2Mt3DZqujNwDQ7JDKRkWSI) | [TABAL](https://open.spotify.com/artist/3xGCm4ewXGKJFwrrwummsJ) | [Wild Paradise](https://open.spotify.com/album/1UVn7hbe2yhQJE94D0Bkk1) | 2:38 | 2020-02-11 | 2020-05-15 |
 | [Wilderness](https://open.spotify.com/track/3a3yFYCGA0dAqXsD5vqrkQ) | [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds), [Hubert Daviz](https://open.spotify.com/artist/5q0zWFDxHYStTxfgjGHgW7) | [Karru](https://open.spotify.com/album/4Ujw019tiip86gVC9DxrdL) | 2:44 | 2020-04-10 | 2020-06-13 |
 | [Wildflower](https://open.spotify.com/track/4RtPqCiT8P4tmY0XkTbo9b) | [Edward Sizzerhand](https://open.spotify.com/artist/3oRp9dTi5uu0MDYVnTKWeh) | [Wildflower](https://open.spotify.com/album/0drD7tiUNEdorehYA8eF3w) | 2:39 | 2019-10-25 | 2020-03-10 |
+| [Wildflowers](https://open.spotify.com/track/4YL6UaHAPGBEwU7L8HaXDU) | [DYVN](https://open.spotify.com/artist/0txJ9PYLXPk2Ojegw5Ty9X) | [BLOOM](https://open.spotify.com/album/1SgyC3urHkhSLxhwK7QMrT) | 2:13 | 2024-05-16 |  |
 | [Will They Try \- Beat Edit](https://open.spotify.com/track/0fbru0FdrCk8EQwU5WIdNo) | [Koralle](https://open.spotify.com/artist/3OW3qK7Wl9ESAGLvjVOw2h) | [Eat The Kiwi Skin \(Deluxe\)](https://open.spotify.com/album/4cosFoJnRiCtUDe8I6iojz) | 2:53 | 2022-11-24 | 2022-12-16 |
 | [Will They Try \- Beat Edit](https://open.spotify.com/track/3WMn1mgvtbpRgGLaFV7ALi) | [Koralle](https://open.spotify.com/artist/3OW3qK7Wl9ESAGLvjVOw2h) | [Eat The Kiwi Skin \(Deluxe\)](https://open.spotify.com/album/0NeJsVaFjpCIzlPUBemwlz) | 2:53 | 2022-10-25 | 2022-11-25 |
 | [Willow Tree](https://open.spotify.com/track/00ss98ZmdIo1eSU41Z02wU) | [reysi](https://open.spotify.com/artist/2ma4p5K4XNOuJAZLlIHouS), [Banks](https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU) | [Willow Tree](https://open.spotify.com/album/2ejKkP2NPWAbULd6nfRF3M) | 2:02 | 2022-08-04 | 2022-09-23 |

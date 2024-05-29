@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 
 > 
 
-[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 16 likes - 1,404 songs - 3 day 4 hr 58 min
+[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 16 likes - 1,412 songs - 3 day 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1412,5 +1412,13 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 | 1402 | [Hide & Seek](https://open.spotify.com/track/7nfmoPd39J8Xc7kve8CmT3) | [Vasto](https://open.spotify.com/artist/35l9BKzdhvLy5HOC50NECa) | [ElektraWave](https://open.spotify.com/album/29I2xhfBPyvI5lAM6sPOZs) | 2:36 |
 | 1403 | [Shot Me](https://open.spotify.com/track/0iyysJlfl1uBwoh4GxMzyv) | [Sghenny](https://open.spotify.com/artist/4ciy3r7f8nrBKoLZsJ6oVY) | [Shot Me](https://open.spotify.com/album/2J4s2W2BCnh4MsWBtUgXDI) | 2:16 |
 | 1404 | [HEY MISTER DJ](https://open.spotify.com/track/1aoA0V0irUVTnFiruG46sJ) | [The Dark Horror](https://open.spotify.com/artist/3e7LfI39pUL22PeGn1mlFa) | [ANOTHER DIMENSION \(BONUS PACK\)](https://open.spotify.com/album/3q62hWHxzfBnMtssilKCLB) | 3:42 |
+| 1405 | [Control](https://open.spotify.com/track/5mJY3L4zzRXNJojY4Rdwka) | [RAYZEN](https://open.spotify.com/artist/2x7wHChcawAYikCTKfhjId) | [Control](https://open.spotify.com/album/4Xauc0EgYDO3wyVYV6JqGL) | 2:04 |
+| 1406 | [TAKING OVER](https://open.spotify.com/track/0roNsDM3FEnG1UjoTjpWq0) | [Rebelion](https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg), [Killshot](https://open.spotify.com/artist/2m5uCiZcpQ50tXsJrThFoM), [Boray](https://open.spotify.com/artist/1tC69g1QLo1PvMg0vki9bY) | [TAKING OVER](https://open.spotify.com/album/7gN1gSTN1rZmuW0goOmmPU) | 2:28 |
+| 1407 | [Jump when the bass dumbs](https://open.spotify.com/track/0PG2zw5SBMeTSoO2Jfac69) | [DJ Noriken](https://open.spotify.com/artist/0Vpv5NQP45aoAwj2XvWowr) | [Jump when the bass dumbs](https://open.spotify.com/album/4IDPhl65cogEy8Fp5maaqj) | 3:30 |
+| 1408 | [Violated \- Thyron Remix](https://open.spotify.com/track/3KZjxY5mHcV647xBxxPuAg) | [Mutilator](https://open.spotify.com/artist/3AkGIMk9xwDj4A5ttNBPiN), [Thyron](https://open.spotify.com/artist/75jOSvJYkVT21xz5yll1xM) | [Violated \(Thyron Remix\)](https://open.spotify.com/album/6XrTDNrFRKatlP5wfDRSNW) | 3:04 |
+| 1409 | [Demolition](https://open.spotify.com/track/14yofNC5ix4ulvNR6UkRwV) | [Dither](https://open.spotify.com/artist/2CTPZndAY5BwdgHk8AX0B7), [Nosferatu](https://open.spotify.com/artist/0S6b11xqvO6XOWZSukSjiY) | [Demolition](https://open.spotify.com/album/6t6z8HeYERM8SzW9s8Wief) | 3:52 |
+| 1410 | [Accuse Me](https://open.spotify.com/track/65alkOSTvEyyJHy8cXkMNQ) | [Sparkz](https://open.spotify.com/artist/0kXJAI2hR2vdzVHsu9OLka) | [Into The Summer Vol\. 2](https://open.spotify.com/album/15Go8avFuIedSr9PSo1xYA) | 2:16 |
+| 1411 | [Greater Than The Galaxy](https://open.spotify.com/track/06H4jInd8TsixykD2Tc5Pm) | [Odium](https://open.spotify.com/artist/6J2T1atTrazMhACALYdA5Q), [annxious](https://open.spotify.com/artist/7BHuR017oGOoVOufUqT8ld) | [Greater Than The Galaxy](https://open.spotify.com/album/0xRBvCmQ2wNRKvgVBpuSJG) | 1:59 |
+| 1412 | [Really Like You](https://open.spotify.com/track/07AYvrfqNUDrKr7FfBCdUR) | [Eufeion](https://open.spotify.com/artist/7ykuX8JwiitjBbIMlGVH0B), [24/7 Hardcore](https://open.spotify.com/artist/13HaJU1EgDEuPrJO6XgiFu) | [Really Like You](https://open.spotify.com/album/5eV0Ve0PKrL7X7L8XEce9Q) | 3:19 |
 
-Snapshot ID: `AAAFqCGgINx3ZOYhitQOC55CVWg1mFHL`
+Snapshot ID: `AAAFsGOxOByPtdCWoruobLuDuUQgmvzi`

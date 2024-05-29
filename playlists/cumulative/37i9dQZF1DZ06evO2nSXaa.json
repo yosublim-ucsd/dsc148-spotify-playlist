@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-19",
-  "description": "This is Tate McRae. The essential tracks, all in one playlist.",
+  "description": "This Is Tate McRae. Los temas esenciales, todos en una lista.",
   "name": "This Is Tate McRae",
   "tracks": [
     {
@@ -912,7 +912,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-28",
+      "date_removed": null,
       "duration_ms": 173826,
       "name": "stupid",
       "url": "https://open.spotify.com/track/0gIxF0RR0miqWLs2fPQGBu"
@@ -984,7 +984,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-29",
       "duration_ms": 175026,
       "name": "that way",
       "url": "https://open.spotify.com/track/7l97ElWmIdVHWUaOeeU5ZC"

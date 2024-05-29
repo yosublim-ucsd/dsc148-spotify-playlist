@@ -1,6 +1,6 @@
 {
   "description": "",
-  "num_followers": 699514,
+  "num_followers": 699515,
   "original_name": "PARTY MODE",
   "owner": {
     "name": "Spotify",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2024-05-17 00:01:00",
       "album": {
+        "name": "Want U",
+        "url": "https://open.spotify.com/album/336xKil8LL5FWBEHFdDXG4"
+      },
+      "artists": [
+        {
+          "name": "Hayley May",
+          "url": "https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued"
+        }
+      ],
+      "duration_ms": 150786,
+      "name": "Want U",
+      "url": "https://open.spotify.com/track/4PIdTFeeNnJ87nKOf1djuG"
+    },
+    {
+      "added_at": "2024-05-17 00:01:00",
+      "album": {
         "name": "Waking Up",
         "url": "https://open.spotify.com/album/1QZ1DFVR4DNchZMURegY1H"
       },
@@ -1259,22 +1275,6 @@
       "duration_ms": 154083,
       "name": "Waking Up",
       "url": "https://open.spotify.com/track/2eYw2v771lwzFUQ9sSBGpK"
-    },
-    {
-      "added_at": "2024-05-17 00:01:00",
-      "album": {
-        "name": "Want U",
-        "url": "https://open.spotify.com/album/336xKil8LL5FWBEHFdDXG4"
-      },
-      "artists": [
-        {
-          "name": "Hayley May",
-          "url": "https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued"
-        }
-      ],
-      "duration_ms": 150786,
-      "name": "Want U",
-      "url": "https://open.spotify.com/track/4PIdTFeeNnJ87nKOf1djuG"
     },
     {
       "added_at": "2024-05-17 00:01:00",
@@ -1359,6 +1359,22 @@
     {
       "added_at": "2024-05-17 00:01:00",
       "album": {
+        "name": "Talamanca",
+        "url": "https://open.spotify.com/album/1N66eMzBBNRHa3HFE6GCsW"
+      },
+      "artists": [
+        {
+          "name": "BURNS",
+          "url": "https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7"
+        }
+      ],
+      "duration_ms": 186727,
+      "name": "Talamanca",
+      "url": "https://open.spotify.com/track/7dDLAQ1y0qOq3E4DhNh8FS"
+    },
+    {
+      "added_at": "2024-05-17 00:01:00",
+      "album": {
         "name": "Jam Inside Your Love (feat. Carla Monroe)",
         "url": "https://open.spotify.com/album/7CfLWKrEPYYsJ46kWTKtUA"
       },
@@ -1375,22 +1391,6 @@
       "duration_ms": 147401,
       "name": "Jam Inside Your Love (feat. Carla Monroe)",
       "url": "https://open.spotify.com/track/1xFrwpp4li4MFpMr9KpTEK"
-    },
-    {
-      "added_at": "2024-05-17 00:01:00",
-      "album": {
-        "name": "Talamanca",
-        "url": "https://open.spotify.com/album/1N66eMzBBNRHa3HFE6GCsW"
-      },
-      "artists": [
-        {
-          "name": "BURNS",
-          "url": "https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7"
-        }
-      ],
-      "duration_ms": 186727,
-      "name": "Talamanca",
-      "url": "https://open.spotify.com/track/7dDLAQ1y0qOq3E4DhNh8FS"
     },
     {
       "added_at": "2024-05-17 00:01:00",

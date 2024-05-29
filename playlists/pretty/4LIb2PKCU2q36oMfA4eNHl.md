@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/4LIb2PKCU2q36oMfA4eNHl.md) - [plain]
 
 > The best tracks in downtempo &amp; chill, curated by Anjuna\. Perfect for studying, meditating &amp; relaxing.
 
-[Anjunadeep](https://open.spotify.com/user/anjunadeep) - 42,156 likes - 40 songs - 2 hr 40 min
+[Anjunadeep](https://open.spotify.com/user/anjunadeep) - 42,157 likes - 40 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Holding Me Back \- The Kite String Tangle's Stripped Back Version](https://open.spotify.com/track/1uAqwBlyVpdusW9Y4drUex) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb), [The Kite String Tangle](https://open.spotify.com/artist/3D6cosC5ZOLCpRxt6T3XS7) | [Holding Me Back \(The Kite String Tangle's Stripped Back Version\)](https://open.spotify.com/album/10C4tAgChwZLtQ04Fd5nja) | 3:08 |
 | 2 | [Fugue In Twilight](https://open.spotify.com/track/1aOuKqVx4Myq3Ql4MqW1xK) | [Croquet Club](https://open.spotify.com/artist/6Fn7vKaPgzA6AAIb7EhhV6) | [Fugue In Twilight](https://open.spotify.com/album/0cv8RApqPNKm5G8w8mOugM) | 4:24 |
-| 3 | [Hold On](https://open.spotify.com/track/4cnyfBK4kHLeu0qL4mc6K5) | [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr), [Benjamin Amaru](https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp), [A Song For You](https://open.spotify.com/artist/4P3LplvLge34bs0R6bQ7kP) | [Mimose \(Deluxe\)](https://open.spotify.com/album/21e4O4CzRQgo5HnmCryTjZ) | 3:51 |
+| 3 | [Hold On](https://open.spotify.com/track/4cnyfBK4kHLeu0qL4mc6K5) | [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr), [Benjamin Amaru](https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp), [A Song For You](https://open.spotify.com/artist/4P3LplvLge34bs0R6bQ7kP) | [Mimose](https://open.spotify.com/album/21e4O4CzRQgo5HnmCryTjZ) | 3:51 |
 | 4 | [closer](https://open.spotify.com/track/1zSPYn6baJA7zuYj2EZ99y) | [Cephas Azariah](https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG), [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [closer](https://open.spotify.com/album/3Wf2gPi59LCtE5yBfSAEae) | 6:08 |
 | 5 | [Anywhere \(Road Trippin'\) \- Unplugged](https://open.spotify.com/track/3Q6Cvq1CCuReYxcjz2M5yi) | [anamē](https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi) | [Beautiful World Field Notes: Unplugged](https://open.spotify.com/album/5W85KtB6tOmqxVJEUD8z8M) | 3:52 |
 | 6 | [Slowly \- Instrumental](https://open.spotify.com/track/3GVLVaWkjpogFy7ZyjzXiI) | [Croquet Club](https://open.spotify.com/artist/6Fn7vKaPgzA6AAIb7EhhV6) | [Fugue In Twilight \(Instrumentals\)](https://open.spotify.com/album/1hVTt0waA9eZa1yFcNS0Jt) | 3:33 |

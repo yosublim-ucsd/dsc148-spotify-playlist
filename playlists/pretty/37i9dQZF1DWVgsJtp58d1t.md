@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > New music from Black artists every Friday\. Happy Asian American and Pacific Islander Heritage Month! Cover: <a href="spotify:artist:5ZS223C6JyBfXasXxrRqOk">Jhené Aiko<br/></a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,016,219 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,016,316 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

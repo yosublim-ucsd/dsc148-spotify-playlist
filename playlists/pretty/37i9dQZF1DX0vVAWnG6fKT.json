@@ -1,6 +1,6 @@
 {
   "description": "Classic Country from the Legends of the 1940's.  Where Hillbilly, Texas Swing and Bluegrass came together. Cover: Ernest Tubb",
-  "num_followers": 144658,
+  "num_followers": 144669,
   "original_name": "40s Country",
   "owner": {
     "name": "Spotify",
@@ -71,22 +71,6 @@
     {
       "added_at": "2024-03-15 21:17:26",
       "album": {
-        "name": "Cool Water (With Bonus Tracks)",
-        "url": "https://open.spotify.com/album/43W6LvGekoOd3Yk5ym8Bj7"
-      },
-      "artists": [
-        {
-          "name": "Sons of the Pioneers",
-          "url": "https://open.spotify.com/artist/1gfIkFZ4hIs2gETkRVaY68"
-        }
-      ],
-      "duration_ms": 141946,
-      "name": "Riders In The Sky",
-      "url": "https://open.spotify.com/track/5kI7vpum3qPDB8ZT6rSPNV"
-    },
-    {
-      "added_at": "2024-03-15 21:17:26",
-      "album": {
         "name": "The Merle Travis Story",
         "url": "https://open.spotify.com/album/04OriPpEtgl8y4wjO1qzX0"
       },
@@ -99,6 +83,22 @@
       "duration_ms": 177626,
       "name": "Sixteen Tons",
       "url": "https://open.spotify.com/track/6Jvw3KvzhMnp67v3wLbc6m"
+    },
+    {
+      "added_at": "2024-03-15 21:17:26",
+      "album": {
+        "name": "Cool Water (With Bonus Tracks)",
+        "url": "https://open.spotify.com/album/43W6LvGekoOd3Yk5ym8Bj7"
+      },
+      "artists": [
+        {
+          "name": "Sons of the Pioneers",
+          "url": "https://open.spotify.com/artist/1gfIkFZ4hIs2gETkRVaY68"
+        }
+      ],
+      "duration_ms": 141946,
+      "name": "Riders In The Sky",
+      "url": "https://open.spotify.com/track/5kI7vpum3qPDB8ZT6rSPNV"
     },
     {
       "added_at": "2024-03-15 21:17:26",
@@ -219,22 +219,6 @@
     {
       "added_at": "2024-03-15 21:17:26",
       "album": {
-        "name": "Folk Songs Of The Hills",
-        "url": "https://open.spotify.com/album/2eldyZjuzvTbr59RSMH2sk"
-      },
-      "artists": [
-        {
-          "name": "Merle Travis",
-          "url": "https://open.spotify.com/artist/30SpGunnNpbbUL4IfkvC5q"
-        }
-      ],
-      "duration_ms": 167600,
-      "name": "Dark As A Dungeon",
-      "url": "https://open.spotify.com/track/4U6LZij0Gv4qV4t8PphSVu"
-    },
-    {
-      "added_at": "2024-03-15 21:17:26",
-      "album": {
         "name": "The Essential Roy Acuff",
         "url": "https://open.spotify.com/album/37wOjBhzeA4FAHWk6z7FsM"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 174106,
       "name": "Tennessee Waltz",
       "url": "https://open.spotify.com/track/2fzQJzCsURVzw4luzqZPcw"
+    },
+    {
+      "added_at": "2024-03-15 21:17:26",
+      "album": {
+        "name": "Folk Songs Of The Hills",
+        "url": "https://open.spotify.com/album/2eldyZjuzvTbr59RSMH2sk"
+      },
+      "artists": [
+        {
+          "name": "Merle Travis",
+          "url": "https://open.spotify.com/artist/30SpGunnNpbbUL4IfkvC5q"
+        }
+      ],
+      "duration_ms": 167600,
+      "name": "Dark As A Dungeon",
+      "url": "https://open.spotify.com/track/4U6LZij0Gv4qV4t8PphSVu"
     },
     {
       "added_at": "2024-03-15 21:17:26",
@@ -879,18 +879,18 @@
     {
       "added_at": "2024-03-15 21:17:26",
       "album": {
-        "name": "The Legend of Merle Travis",
-        "url": "https://open.spotify.com/album/2mu2UV0Otwkqq7083vifcu"
+        "name": "Presenting Al Dexter",
+        "url": "https://open.spotify.com/album/3RDJf8ODyyRMpQRhga0W9W"
       },
       "artists": [
         {
-          "name": "Merle Travis",
-          "url": "https://open.spotify.com/artist/30SpGunnNpbbUL4IfkvC5q"
+          "name": "Al Dexter",
+          "url": "https://open.spotify.com/artist/49tS3TTwFNW1O1KsY6IbJO"
         }
       ],
-      "duration_ms": 130506,
-      "name": "Steel Guitar Rag",
-      "url": "https://open.spotify.com/track/73VcBNhgfQDKCv2FC4T4UQ"
+      "duration_ms": 145738,
+      "name": "You May Be Sorry",
+      "url": "https://open.spotify.com/track/4nHwLv2K7Ahy9AyqByOTjR"
     },
     {
       "added_at": "2024-03-15 21:17:26",
@@ -927,18 +927,18 @@
     {
       "added_at": "2024-03-15 21:17:26",
       "album": {
-        "name": "Presenting Al Dexter",
-        "url": "https://open.spotify.com/album/3RDJf8ODyyRMpQRhga0W9W"
+        "name": "The Legend of Merle Travis",
+        "url": "https://open.spotify.com/album/2mu2UV0Otwkqq7083vifcu"
       },
       "artists": [
         {
-          "name": "Al Dexter",
-          "url": "https://open.spotify.com/artist/49tS3TTwFNW1O1KsY6IbJO"
+          "name": "Merle Travis",
+          "url": "https://open.spotify.com/artist/30SpGunnNpbbUL4IfkvC5q"
         }
       ],
-      "duration_ms": 145738,
-      "name": "You May Be Sorry",
-      "url": "https://open.spotify.com/track/4nHwLv2K7Ahy9AyqByOTjR"
+      "duration_ms": 130506,
+      "name": "Steel Guitar Rag",
+      "url": "https://open.spotify.com/track/73VcBNhgfQDKCv2FC4T4UQ"
     },
     {
       "added_at": "2024-03-15 21:17:26",
@@ -991,6 +991,22 @@
     {
       "added_at": "2024-03-15 21:17:26",
       "album": {
+        "name": "Pistol Packin' Mama - The Best of Al Dexter",
+        "url": "https://open.spotify.com/album/11FHXlt7rd8bm1EfIpIzO3"
+      },
+      "artists": [
+        {
+          "name": "Al Dexter",
+          "url": "https://open.spotify.com/artist/49tS3TTwFNW1O1KsY6IbJO"
+        }
+      ],
+      "duration_ms": 169795,
+      "name": "Wine, Women and Song",
+      "url": "https://open.spotify.com/track/1tyxZVmT2ahzlmtVlFzLpo"
+    },
+    {
+      "added_at": "2024-03-15 21:17:26",
+      "album": {
         "name": "16 Great Songs of the Old West",
         "url": "https://open.spotify.com/album/5YWT3TwLPXeIq7e6NATzi6"
       },
@@ -1027,6 +1043,22 @@
     {
       "added_at": "2024-03-15 21:17:26",
       "album": {
+        "name": "Country and Western",
+        "url": "https://open.spotify.com/album/0qwuAEW6Wq8O4WndKRNhSB"
+      },
+      "artists": [
+        {
+          "name": "Johnny Bond",
+          "url": "https://open.spotify.com/artist/3oY80B5wwJ7TH3inVejOQ0"
+        }
+      ],
+      "duration_ms": 98066,
+      "name": "Headin' Down The Wrong Highway",
+      "url": "https://open.spotify.com/track/7KF5iHhrwT1kZL22nyRdKi"
+    },
+    {
+      "added_at": "2024-03-15 21:17:26",
+      "album": {
         "name": "Country Hoedown",
         "url": "https://open.spotify.com/album/1jf3GBgaKcCXbSTypbfEId"
       },
@@ -1043,18 +1075,18 @@
     {
       "added_at": "2024-03-15 21:17:26",
       "album": {
-        "name": "Country and Western",
-        "url": "https://open.spotify.com/album/0qwuAEW6Wq8O4WndKRNhSB"
+        "name": "Pistol Packin' Mama - The Best Of Al Dexter",
+        "url": "https://open.spotify.com/album/3gHhom0cyrNyr2n1bReRqS"
       },
       "artists": [
         {
-          "name": "Johnny Bond",
-          "url": "https://open.spotify.com/artist/3oY80B5wwJ7TH3inVejOQ0"
+          "name": "Al Dexter",
+          "url": "https://open.spotify.com/artist/49tS3TTwFNW1O1KsY6IbJO"
         }
       ],
-      "duration_ms": 98066,
-      "name": "Headin' Down The Wrong Highway",
-      "url": "https://open.spotify.com/track/7KF5iHhrwT1kZL22nyRdKi"
+      "duration_ms": 163056,
+      "name": "Too Late To Worry, Too Blue To Cry",
+      "url": "https://open.spotify.com/track/0a30xoC1ElyAD6w8k1ydFm"
     },
     {
       "added_at": "2024-03-15 21:17:26",
@@ -1095,22 +1127,6 @@
     {
       "added_at": "2024-03-15 21:17:26",
       "album": {
-        "name": "Pistol Packin' Mama - The Best of Al Dexter",
-        "url": "https://open.spotify.com/album/11FHXlt7rd8bm1EfIpIzO3"
-      },
-      "artists": [
-        {
-          "name": "Al Dexter",
-          "url": "https://open.spotify.com/artist/49tS3TTwFNW1O1KsY6IbJO"
-        }
-      ],
-      "duration_ms": 169795,
-      "name": "Wine, Women and Song",
-      "url": "https://open.spotify.com/track/1tyxZVmT2ahzlmtVlFzLpo"
-    },
-    {
-      "added_at": "2024-03-15 21:17:26",
-      "album": {
         "name": "Everybody Stomp - Rag Time",
         "url": "https://open.spotify.com/album/5sERGlazXrWducJ81Ro3nL"
       },
@@ -1139,22 +1155,6 @@
       "duration_ms": 165240,
       "name": "Lovesick Blues - Single Version",
       "url": "https://open.spotify.com/track/6skGVMm43HNH1Fwt2f0urS"
-    },
-    {
-      "added_at": "2024-03-15 21:17:26",
-      "album": {
-        "name": "The Late Great - 14 Greatest Hits",
-        "url": "https://open.spotify.com/album/3ADMy0SgWASJ7tRcWimwl1"
-      },
-      "artists": [
-        {
-          "name": "George Morgan",
-          "url": "https://open.spotify.com/artist/5qdAW04hszBSzncQhJyjXZ"
-        }
-      ],
-      "duration_ms": 153373,
-      "name": "Room Full of Roses",
-      "url": "https://open.spotify.com/track/2cBvzEpULwlad4RaXbcIiw"
     }
   ],
   "unique_name": "40s Country",

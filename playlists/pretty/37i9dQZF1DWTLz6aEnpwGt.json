@@ -1,6 +1,6 @@
 {
   "description": "Bach's most popular piano pieces, performed by the greatest pianists of the last century.",
-  "num_followers": 51824,
+  "num_followers": 51851,
   "original_name": "Bach Piano",
   "owner": {
     "name": "Spotify",
@@ -867,26 +867,6 @@
     {
       "added_at": "2024-05-24 12:39:41",
       "album": {
-        "name": "Bach: Partitas Nos. 5-6, Bwv 829-830",
-        "url": "https://open.spotify.com/album/0t9vwhgZqm6IR7BHNkbQIu"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Wolfgang R\u00fcbsam",
-          "url": "https://open.spotify.com/artist/5w4SswA2oIU6HUuq0xreQj"
-        }
-      ],
-      "duration_ms": 252786,
-      "name": "Keyboard Partita No. 5 in G Major, BWV 829: II. Allemande",
-      "url": "https://open.spotify.com/track/3LPEiAwJkMi3AT9hOrtfr4"
-    },
-    {
-      "added_at": "2024-05-24 12:39:41",
-      "album": {
         "name": "BACH, J.S.: Inventions and Sinfonias, BWV 772-801",
         "url": "https://open.spotify.com/album/6NKUJBfSBEwYFG33nSZff7"
       },
@@ -943,6 +923,26 @@
       "duration_ms": 67573,
       "name": "Clavier-B\u00fcchlein vor W.F. Bach: Prelude in C Major, BWV 924",
       "url": "https://open.spotify.com/track/19oVMQO42RtwyLaNGaiL5Y"
+    },
+    {
+      "added_at": "2024-05-24 12:39:41",
+      "album": {
+        "name": "Bach: Partitas Nos. 5-6, Bwv 829-830",
+        "url": "https://open.spotify.com/album/0t9vwhgZqm6IR7BHNkbQIu"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Wolfgang R\u00fcbsam",
+          "url": "https://open.spotify.com/artist/5w4SswA2oIU6HUuq0xreQj"
+        }
+      ],
+      "duration_ms": 252786,
+      "name": "Keyboard Partita No. 5 in G Major, BWV 829: II. Allemande",
+      "url": "https://open.spotify.com/track/3LPEiAwJkMi3AT9hOrtfr4"
     },
     {
       "added_at": "2024-05-24 12:39:41",

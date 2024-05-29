@@ -1,6 +1,6 @@
 {
   "description": "Have some chill house with your coffee\n",
-  "num_followers": 121603,
+  "num_followers": 121613,
   "original_name": "Coffee Club",
   "owner": {
     "name": "Spotify",
@@ -79,22 +79,6 @@
     {
       "added_at": "2024-04-25 22:00:00",
       "album": {
-        "name": "Duality",
-        "url": "https://open.spotify.com/album/5u2Swap7EZneoTUSuMPOEO"
-      },
-      "artists": [
-        {
-          "name": "TWO LANES",
-          "url": "https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k"
-        }
-      ],
-      "duration_ms": 375178,
-      "name": "Elements",
-      "url": "https://open.spotify.com/track/41pjnlX05tPEa2pOTq0fq0"
-    },
-    {
-      "added_at": "2024-04-25 22:00:00",
-      "album": {
         "name": "When the Sun Goes Down",
         "url": "https://open.spotify.com/album/2cWBcF4eIjTTJGBaAb7xXr"
       },
@@ -115,6 +99,22 @@
       "duration_ms": 124113,
       "name": "When the Sun Goes Down",
       "url": "https://open.spotify.com/track/1OEbaiPMlMDCPMM4ReCIIH"
+    },
+    {
+      "added_at": "2024-04-25 22:00:00",
+      "album": {
+        "name": "Duality",
+        "url": "https://open.spotify.com/album/5u2Swap7EZneoTUSuMPOEO"
+      },
+      "artists": [
+        {
+          "name": "TWO LANES",
+          "url": "https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k"
+        }
+      ],
+      "duration_ms": 375178,
+      "name": "Elements",
+      "url": "https://open.spotify.com/track/41pjnlX05tPEa2pOTq0fq0"
     },
     {
       "added_at": "2024-04-25 22:00:00",
@@ -715,22 +715,6 @@
     {
       "added_at": "2024-04-25 22:00:00",
       "album": {
-        "name": "Cherry Skies",
-        "url": "https://open.spotify.com/album/5yytMHzOYkzesn2dON2tCe"
-      },
-      "artists": [
-        {
-          "name": "Mike D' Jais",
-          "url": "https://open.spotify.com/artist/1ekYM3tHN9Dt7HAUoHclwq"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Cherry Skies",
-      "url": "https://open.spotify.com/track/2taL7WpjrPMzwn65gVfxqP"
-    },
-    {
-      "added_at": "2024-04-25 22:00:00",
-      "album": {
         "name": "Resilience",
         "url": "https://open.spotify.com/album/02RAJQOn6I2qtoJt13m0Kg"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 182407,
       "name": "Falling",
       "url": "https://open.spotify.com/track/0s2ca6bYZBcJYIkD69p50I"
+    },
+    {
+      "added_at": "2024-04-25 22:00:00",
+      "album": {
+        "name": "Cherry Skies",
+        "url": "https://open.spotify.com/album/5yytMHzOYkzesn2dON2tCe"
+      },
+      "artists": [
+        {
+          "name": "Mike D' Jais",
+          "url": "https://open.spotify.com/artist/1ekYM3tHN9Dt7HAUoHclwq"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Cherry Skies",
+      "url": "https://open.spotify.com/track/2taL7WpjrPMzwn65gVfxqP"
     },
     {
       "added_at": "2024-04-25 22:00:00",
@@ -891,30 +891,18 @@
     {
       "added_at": "2024-04-25 22:00:00",
       "album": {
-        "name": "Don't Stop the Dance (Kraak & Smaak Radio Edit)",
-        "url": "https://open.spotify.com/album/1Mbgn2dBhxJZUDP5nAaRgY"
+        "name": "Killer Machine",
+        "url": "https://open.spotify.com/album/0pNdH7TyR32VxC5Pk1v2lX"
       },
       "artists": [
         {
-          "name": "Martin Brodin",
-          "url": "https://open.spotify.com/artist/7etTPm2rH9ITrhUVUkeyPu"
-        },
-        {
-          "name": "Mikael Surdi",
-          "url": "https://open.spotify.com/artist/0MQyQjUuh0q7RRVnHRUc5P"
-        },
-        {
-          "name": "Alexandra Hamnede",
-          "url": "https://open.spotify.com/artist/5WbT9sTM2jMWXfcZzMLF36"
-        },
-        {
-          "name": "Kraak & Smaak",
-          "url": "https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O"
+          "name": "Adani & Wolf",
+          "url": "https://open.spotify.com/artist/3p6Xv63IFoCXDFNt1u3fCh"
         }
       ],
-      "duration_ms": 213611,
-      "name": "Don't Stop the Dance - Kraak & Smaak Radio Edit",
-      "url": "https://open.spotify.com/track/1zoI4kALck0KVXw8wYJEfY"
+      "duration_ms": 233316,
+      "name": "Killer Machine",
+      "url": "https://open.spotify.com/track/2cCfDNAd7lYPSe3euIwt2w"
     },
     {
       "added_at": "2024-04-25 22:00:00",
@@ -955,22 +943,6 @@
     {
       "added_at": "2024-04-25 22:00:00",
       "album": {
-        "name": "Killer Machine",
-        "url": "https://open.spotify.com/album/0pNdH7TyR32VxC5Pk1v2lX"
-      },
-      "artists": [
-        {
-          "name": "Adani & Wolf",
-          "url": "https://open.spotify.com/artist/3p6Xv63IFoCXDFNt1u3fCh"
-        }
-      ],
-      "duration_ms": 233316,
-      "name": "Killer Machine",
-      "url": "https://open.spotify.com/track/2cCfDNAd7lYPSe3euIwt2w"
-    },
-    {
-      "added_at": "2024-04-25 22:00:00",
-      "album": {
         "name": "Mr. Magic",
         "url": "https://open.spotify.com/album/3ThYrWOxW8L6qdwwMBZBtk"
       },
@@ -983,6 +955,34 @@
       "duration_ms": 345534,
       "name": "Mr. Magic",
       "url": "https://open.spotify.com/track/0dSoodH9dHclkP2kMec21H"
+    },
+    {
+      "added_at": "2024-04-25 22:00:00",
+      "album": {
+        "name": "Don't Stop the Dance (Kraak & Smaak Radio Edit)",
+        "url": "https://open.spotify.com/album/1Mbgn2dBhxJZUDP5nAaRgY"
+      },
+      "artists": [
+        {
+          "name": "Martin Brodin",
+          "url": "https://open.spotify.com/artist/7etTPm2rH9ITrhUVUkeyPu"
+        },
+        {
+          "name": "Mikael Surdi",
+          "url": "https://open.spotify.com/artist/0MQyQjUuh0q7RRVnHRUc5P"
+        },
+        {
+          "name": "Alexandra Hamnede",
+          "url": "https://open.spotify.com/artist/5WbT9sTM2jMWXfcZzMLF36"
+        },
+        {
+          "name": "Kraak & Smaak",
+          "url": "https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O"
+        }
+      ],
+      "duration_ms": 213611,
+      "name": "Don't Stop the Dance - Kraak & Smaak Radio Edit",
+      "url": "https://open.spotify.com/track/1zoI4kALck0KVXw8wYJEfY"
     },
     {
       "added_at": "2024-04-25 22:00:00",
@@ -1003,22 +1003,22 @@
     {
       "added_at": "2024-04-25 22:00:00",
       "album": {
-        "name": "Blue Moon",
-        "url": "https://open.spotify.com/album/0BpjFdJHvqDSvzilqt4sxv"
+        "name": "100 Miles",
+        "url": "https://open.spotify.com/album/0MHuy3031MWIjNAwuPgCJK"
       },
       "artists": [
         {
-          "name": "Alex Lustig",
-          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
+          "name": "Nico Morano",
+          "url": "https://open.spotify.com/artist/4tgKBxZIclHP0c2Tp8yyyz"
         },
         {
-          "name": "Akacia",
-          "url": "https://open.spotify.com/artist/4D9a1UPPFCoOm1kBtJfni5"
+          "name": "Mewhy",
+          "url": "https://open.spotify.com/artist/2haudpnLQ5Kjt6fplURp31"
         }
       ],
-      "duration_ms": 145454,
-      "name": "Blue Moon",
-      "url": "https://open.spotify.com/track/28uMxZ5bHuAB0FWFPV8Zee"
+      "duration_ms": 518086,
+      "name": "100 Miles",
+      "url": "https://open.spotify.com/track/3AsStByn7z7jj9EY7iymPb"
     },
     {
       "added_at": "2024-04-25 22:00:00",
@@ -1055,22 +1055,22 @@
     {
       "added_at": "2024-04-25 22:00:00",
       "album": {
-        "name": "100 Miles",
-        "url": "https://open.spotify.com/album/0MHuy3031MWIjNAwuPgCJK"
+        "name": "Blue Moon",
+        "url": "https://open.spotify.com/album/0BpjFdJHvqDSvzilqt4sxv"
       },
       "artists": [
         {
-          "name": "Nico Morano",
-          "url": "https://open.spotify.com/artist/4tgKBxZIclHP0c2Tp8yyyz"
+          "name": "Alex Lustig",
+          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
         },
         {
-          "name": "Mewhy",
-          "url": "https://open.spotify.com/artist/2haudpnLQ5Kjt6fplURp31"
+          "name": "Akacia",
+          "url": "https://open.spotify.com/artist/4D9a1UPPFCoOm1kBtJfni5"
         }
       ],
-      "duration_ms": 518086,
-      "name": "100 Miles",
-      "url": "https://open.spotify.com/track/3AsStByn7z7jj9EY7iymPb"
+      "duration_ms": 145454,
+      "name": "Blue Moon",
+      "url": "https://open.spotify.com/track/28uMxZ5bHuAB0FWFPV8Zee"
     },
     {
       "added_at": "2024-04-25 22:00:00",
@@ -1111,22 +1111,18 @@
     {
       "added_at": "2024-04-25 22:00:00",
       "album": {
-        "name": "Alive",
-        "url": "https://open.spotify.com/album/003P9cOisHb5VLP12SHkXH"
+        "name": "RDV",
+        "url": "https://open.spotify.com/album/2WjEkuvVo6z3puQTGET9H7"
       },
       "artists": [
         {
-          "name": "Alex Lustig",
-          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
-        },
-        {
-          "name": "Makk Mikkael",
-          "url": "https://open.spotify.com/artist/6L9Z6BUMctKFJPqfTdrpDs"
+          "name": "Teuteu",
+          "url": "https://open.spotify.com/artist/5PXIEgHdDSE1cLCLJ6H9C9"
         }
       ],
-      "duration_ms": 280888,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/7gTNtKHUoCCkb5kygNE1vn"
+      "duration_ms": 159705,
+      "name": "RDV",
+      "url": "https://open.spotify.com/track/3oIy7vraINdyE19cGdi1xX"
     },
     {
       "added_at": "2024-04-25 22:00:00",
@@ -1143,22 +1139,6 @@
       "duration_ms": 453559,
       "name": "Deneb Cygni - Original Mix",
       "url": "https://open.spotify.com/track/7w3TeiGbzbfvPE192wpKdX"
-    },
-    {
-      "added_at": "2024-04-25 22:00:00",
-      "album": {
-        "name": "RDV",
-        "url": "https://open.spotify.com/album/2WjEkuvVo6z3puQTGET9H7"
-      },
-      "artists": [
-        {
-          "name": "Teuteu",
-          "url": "https://open.spotify.com/artist/5PXIEgHdDSE1cLCLJ6H9C9"
-        }
-      ],
-      "duration_ms": 159705,
-      "name": "RDV",
-      "url": "https://open.spotify.com/track/3oIy7vraINdyE19cGdi1xX"
     },
     {
       "added_at": "2024-04-25 22:00:00",
@@ -1211,6 +1191,26 @@
       "duration_ms": 231593,
       "name": "Do This",
       "url": "https://open.spotify.com/track/5zrISuhxhXCp4Tnm6gjWZl"
+    },
+    {
+      "added_at": "2024-04-25 22:00:00",
+      "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/003P9cOisHb5VLP12SHkXH"
+      },
+      "artists": [
+        {
+          "name": "Alex Lustig",
+          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
+        },
+        {
+          "name": "Makk Mikkael",
+          "url": "https://open.spotify.com/artist/6L9Z6BUMctKFJPqfTdrpDs"
+        }
+      ],
+      "duration_ms": 280888,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/7gTNtKHUoCCkb5kygNE1vn"
     },
     {
       "added_at": "2024-04-25 22:00:00",
@@ -1419,26 +1419,6 @@
     {
       "added_at": "2024-04-25 22:00:00",
       "album": {
-        "name": "No More / You Like Me",
-        "url": "https://open.spotify.com/album/2J3FizlVKqLcGKYCYP3KNc"
-      },
-      "artists": [
-        {
-          "name": "Bros Bros",
-          "url": "https://open.spotify.com/artist/5QQgP1TsYXJmb0VhOjO6ZX"
-        },
-        {
-          "name": "Jon the Gold",
-          "url": "https://open.spotify.com/artist/00vagRdyf9Xku8Gi0zPv0x"
-        }
-      ],
-      "duration_ms": 158563,
-      "name": "No More",
-      "url": "https://open.spotify.com/track/1XHCxvbJuVLd6n8Tj9oiCy"
-    },
-    {
-      "added_at": "2024-04-25 22:00:00",
-      "album": {
         "name": "Twilight",
         "url": "https://open.spotify.com/album/0xA3Pyif2qZdMymcAMUXAI"
       },
@@ -1455,6 +1435,26 @@
       "duration_ms": 175711,
       "name": "Twilight",
       "url": "https://open.spotify.com/track/3KJD5sOIQGruWKiixUjZsA"
+    },
+    {
+      "added_at": "2024-04-25 22:00:00",
+      "album": {
+        "name": "No More / You Like Me",
+        "url": "https://open.spotify.com/album/2J3FizlVKqLcGKYCYP3KNc"
+      },
+      "artists": [
+        {
+          "name": "Bros Bros",
+          "url": "https://open.spotify.com/artist/5QQgP1TsYXJmb0VhOjO6ZX"
+        },
+        {
+          "name": "Jon the Gold",
+          "url": "https://open.spotify.com/artist/00vagRdyf9Xku8Gi0zPv0x"
+        }
+      ],
+      "duration_ms": 158563,
+      "name": "No More",
+      "url": "https://open.spotify.com/track/1XHCxvbJuVLd6n8Tj9oiCy"
     },
     {
       "added_at": "2024-04-25 22:00:00",

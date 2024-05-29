@@ -1,6 +1,6 @@
 {
   "description": "Un playlist que te llena de esperanza.  \u00a1Con fe!",
-  "num_followers": 264541,
+  "num_followers": 264624,
   "original_name": "Con Fe",
   "owner": {
     "name": "Spotify",
@@ -1027,6 +1027,26 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
+        "name": "Amanece (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6Cc1JTOGWY55Fz5EVuadDy"
+      },
+      "artists": [
+        {
+          "name": "Marco Barrientos",
+          "url": "https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ"
+        },
+        {
+          "name": "Marcela Gandara",
+          "url": "https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T"
+        }
+      ],
+      "duration_ms": 447491,
+      "name": "Lo Unico Que Quiero",
+      "url": "https://open.spotify.com/track/1HCKcrifeQmtEXwEqfXcjD"
+    },
+    {
+      "added_at": "2020-11-24 13:23:38",
+      "album": {
         "name": "Yo Sin Ti",
         "url": "https://open.spotify.com/album/09bmbHv2pYw2pd4OFKzjCT"
       },
@@ -1039,22 +1059,6 @@
       "duration_ms": 242808,
       "name": "Al Final",
       "url": "https://open.spotify.com/track/0ReYpAHy0po3ZBzo4dIkgx"
-    },
-    {
-      "added_at": "2020-11-24 13:23:38",
-      "album": {
-        "name": "Me Has Hecho Libre",
-        "url": "https://open.spotify.com/album/1flyahsdmJyAmkKr6q45ZI"
-      },
-      "artists": [
-        {
-          "name": "Esperanza de Vida",
-          "url": "https://open.spotify.com/artist/2JjoUSP8dUA7UhlWW59fK1"
-        }
-      ],
-      "duration_ms": 380316,
-      "name": "Precioso Jes\u00fas",
-      "url": "https://open.spotify.com/track/3YVVAZB6NvCzzrjDandHkm"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -1091,18 +1095,18 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Creo en Ti",
-        "url": "https://open.spotify.com/album/0TrCmb35euEi2wkZvBgjWy"
+        "name": "Me Has Hecho Libre",
+        "url": "https://open.spotify.com/album/1flyahsdmJyAmkKr6q45ZI"
       },
       "artists": [
         {
-          "name": "Julio Melgar",
-          "url": "https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2"
+          "name": "Esperanza de Vida",
+          "url": "https://open.spotify.com/artist/2JjoUSP8dUA7UhlWW59fK1"
         }
       ],
-      "duration_ms": 330973,
-      "name": "Soy Un Altar",
-      "url": "https://open.spotify.com/track/1lmPSE7QyIA2XKSYMUtlix"
+      "duration_ms": 380316,
+      "name": "Precioso Jes\u00fas",
+      "url": "https://open.spotify.com/track/3YVVAZB6NvCzzrjDandHkm"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -1123,18 +1127,18 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Santo Es El Se\u00f1or",
-        "url": "https://open.spotify.com/album/0e7NveKGulQA4fkVBOoDeq"
+        "name": "Creo en Ti",
+        "url": "https://open.spotify.com/album/0TrCmb35euEi2wkZvBgjWy"
       },
       "artists": [
         {
-          "name": "Palabra en Acci\u00f3n",
-          "url": "https://open.spotify.com/artist/4umfGspINdkBEwCjc1f5Xw"
+          "name": "Julio Melgar",
+          "url": "https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2"
         }
       ],
-      "duration_ms": 273066,
-      "name": "Hay Una Fuente En M\u00ed - Live",
-      "url": "https://open.spotify.com/track/5tTLHg3Q35lzFLQ9KmtD6G"
+      "duration_ms": 330973,
+      "name": "Soy Un Altar",
+      "url": "https://open.spotify.com/track/1lmPSE7QyIA2XKSYMUtlix"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -1171,38 +1175,18 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Me Has Hecho Libre",
-        "url": "https://open.spotify.com/album/1flyahsdmJyAmkKr6q45ZI"
+        "name": "Santo Es El Se\u00f1or",
+        "url": "https://open.spotify.com/album/0e7NveKGulQA4fkVBOoDeq"
       },
       "artists": [
         {
-          "name": "Esperanza de Vida",
-          "url": "https://open.spotify.com/artist/2JjoUSP8dUA7UhlWW59fK1"
+          "name": "Palabra en Acci\u00f3n",
+          "url": "https://open.spotify.com/artist/4umfGspINdkBEwCjc1f5Xw"
         }
       ],
-      "duration_ms": 295444,
-      "name": "Roca eterna",
-      "url": "https://open.spotify.com/track/09YG9ee8meFr9ba4pxynbi"
-    },
-    {
-      "added_at": "2020-11-24 13:23:38",
-      "album": {
-        "name": "Amanece (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6Cc1JTOGWY55Fz5EVuadDy"
-      },
-      "artists": [
-        {
-          "name": "Marco Barrientos",
-          "url": "https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ"
-        },
-        {
-          "name": "Marcela Gandara",
-          "url": "https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T"
-        }
-      ],
-      "duration_ms": 447491,
-      "name": "Lo Unico Que Quiero",
-      "url": "https://open.spotify.com/track/1HCKcrifeQmtEXwEqfXcjD"
+      "duration_ms": 273066,
+      "name": "Hay Una Fuente En M\u00ed - Live",
+      "url": "https://open.spotify.com/track/5tTLHg3Q35lzFLQ9KmtD6G"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -1219,6 +1203,22 @@
       "duration_ms": 305972,
       "name": "Eres Fiel",
       "url": "https://open.spotify.com/track/6vTBRcJDcPEqwmtpi3qoI6"
+    },
+    {
+      "added_at": "2020-11-24 13:23:38",
+      "album": {
+        "name": "Fuego",
+        "url": "https://open.spotify.com/album/3Aejvhfr04XlnrEAoHDytu"
+      },
+      "artists": [
+        {
+          "name": "Juan Carlos Alvarado",
+          "url": "https://open.spotify.com/artist/1NWIpqck2zZ43JamLJgf6U"
+        }
+      ],
+      "duration_ms": 136960,
+      "name": "Jehov\u00e1 Es Mi Guerrero/Le Llaman (Reprise)",
+      "url": "https://open.spotify.com/track/38rRpy2CTsHScLk9IRo0PC"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -1275,18 +1275,18 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Fuego",
-        "url": "https://open.spotify.com/album/3Aejvhfr04XlnrEAoHDytu"
+        "name": "Me Has Hecho Libre",
+        "url": "https://open.spotify.com/album/1flyahsdmJyAmkKr6q45ZI"
       },
       "artists": [
         {
-          "name": "Juan Carlos Alvarado",
-          "url": "https://open.spotify.com/artist/1NWIpqck2zZ43JamLJgf6U"
+          "name": "Esperanza de Vida",
+          "url": "https://open.spotify.com/artist/2JjoUSP8dUA7UhlWW59fK1"
         }
       ],
-      "duration_ms": 136960,
-      "name": "Jehov\u00e1 Es Mi Guerrero/Le Llaman (Reprise)",
-      "url": "https://open.spotify.com/track/38rRpy2CTsHScLk9IRo0PC"
+      "duration_ms": 295444,
+      "name": "Roca eterna",
+      "url": "https://open.spotify.com/track/09YG9ee8meFr9ba4pxynbi"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -1307,6 +1307,26 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
+        "name": "Donde T\u00fa Est\u00e1s",
+        "url": "https://open.spotify.com/album/66jgmPscSa5lrA8yBm90ar"
+      },
+      "artists": [
+        {
+          "name": "Coalo Zamorano",
+          "url": "https://open.spotify.com/artist/1EIEV6r6Jr6BQIzwZJdf5b"
+        },
+        {
+          "name": "Rebeca Zamorano",
+          "url": "https://open.spotify.com/artist/0VYpDFB2cAlvfacFCFvADL"
+        }
+      ],
+      "duration_ms": 534748,
+      "name": "Donde T\u00fa Est\u00e1s (feat. Rebeca Zamorano)",
+      "url": "https://open.spotify.com/track/0ghEDN5LzOFJW7xkCKVWoZ"
+    },
+    {
+      "added_at": "2020-11-24 13:23:38",
+      "album": {
         "name": "Operaci\u00f3n Mundial",
         "url": "https://open.spotify.com/album/13cS6xvlMND2HFSphWWINT"
       },
@@ -1323,22 +1343,6 @@
       "duration_ms": 270186,
       "name": "El Nombre De Jes\u00fas (feat. Christine D'clario)",
       "url": "https://open.spotify.com/track/1cMTzjQOTt3wVAbFgTGPYN"
-    },
-    {
-      "added_at": "2020-11-24 13:23:38",
-      "album": {
-        "name": "Fuego",
-        "url": "https://open.spotify.com/album/5nKR0GJScbq5pcb7PGdBW9"
-      },
-      "artists": [
-        {
-          "name": "Esperanza de Vida",
-          "url": "https://open.spotify.com/artist/2JjoUSP8dUA7UhlWW59fK1"
-        }
-      ],
-      "duration_ms": 360386,
-      "name": "Toda la Gloria",
-      "url": "https://open.spotify.com/track/108rn8fBtcwYFd7kQzdvRA"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -1391,26 +1395,6 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Donde T\u00fa Est\u00e1s",
-        "url": "https://open.spotify.com/album/66jgmPscSa5lrA8yBm90ar"
-      },
-      "artists": [
-        {
-          "name": "Coalo Zamorano",
-          "url": "https://open.spotify.com/artist/1EIEV6r6Jr6BQIzwZJdf5b"
-        },
-        {
-          "name": "Rebeca Zamorano",
-          "url": "https://open.spotify.com/artist/0VYpDFB2cAlvfacFCFvADL"
-        }
-      ],
-      "duration_ms": 534748,
-      "name": "Donde T\u00fa Est\u00e1s (feat. Rebeca Zamorano)",
-      "url": "https://open.spotify.com/track/0ghEDN5LzOFJW7xkCKVWoZ"
-    },
-    {
-      "added_at": "2020-11-24 13:23:38",
-      "album": {
         "name": "Hoy M\u00e1s Que Ayer",
         "url": "https://open.spotify.com/album/623gBThpduIjV7x1vxfCPo"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 230093,
       "name": "No Basta",
       "url": "https://open.spotify.com/track/2jP3Vq1WzlOTwCejhokGuN"
+    },
+    {
+      "added_at": "2020-11-24 13:23:38",
+      "album": {
+        "name": "Fuego",
+        "url": "https://open.spotify.com/album/5nKR0GJScbq5pcb7PGdBW9"
+      },
+      "artists": [
+        {
+          "name": "Esperanza de Vida",
+          "url": "https://open.spotify.com/artist/2JjoUSP8dUA7UhlWW59fK1"
+        }
+      ],
+      "duration_ms": 360386,
+      "name": "Toda la Gloria",
+      "url": "https://open.spotify.com/track/108rn8fBtcwYFd7kQzdvRA"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
+        "name": "Fuego",
+        "url": "https://open.spotify.com/album/3Aejvhfr04XlnrEAoHDytu"
+      },
+      "artists": [
+        {
+          "name": "Juan Carlos Alvarado",
+          "url": "https://open.spotify.com/artist/1NWIpqck2zZ43JamLJgf6U"
+        }
+      ],
+      "duration_ms": 79213,
+      "name": "El Poderoso de Israel",
+      "url": "https://open.spotify.com/track/63TNDMbqRlJKBr8YcyaBgU"
+    },
+    {
+      "added_at": "2020-11-24 13:23:38",
+      "album": {
         "name": "Tu Corazon",
         "url": "https://open.spotify.com/album/32ncL8vWO8l6pp69JOWY4B"
       },
@@ -1503,22 +1519,6 @@
       "duration_ms": 374491,
       "name": "Me rindo ante ti",
       "url": "https://open.spotify.com/track/1l1xlZZlbfgQdTq86MQcpy"
-    },
-    {
-      "added_at": "2020-11-24 13:23:38",
-      "album": {
-        "name": "Fuego",
-        "url": "https://open.spotify.com/album/3Aejvhfr04XlnrEAoHDytu"
-      },
-      "artists": [
-        {
-          "name": "Juan Carlos Alvarado",
-          "url": "https://open.spotify.com/artist/1NWIpqck2zZ43JamLJgf6U"
-        }
-      ],
-      "duration_ms": 79213,
-      "name": "El Poderoso de Israel",
-      "url": "https://open.spotify.com/track/63TNDMbqRlJKBr8YcyaBgU"
     },
     {
       "added_at": "2020-11-24 13:23:38",

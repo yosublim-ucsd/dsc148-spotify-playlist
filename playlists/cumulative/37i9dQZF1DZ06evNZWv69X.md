@@ -2,7 +2,7 @@
 
 ### [This Is Mar de Copas](https://open.spotify.com/playlist/37i9dQZF1DZ06evNZWv69X)
 
-> This Is Mar de Copas\. Los temas esenciales, todos en una lista.
+> This is Mar de Copas\. The essential tracks, all in one playlist.
 
 58 songs - 3 hr 55 min
 

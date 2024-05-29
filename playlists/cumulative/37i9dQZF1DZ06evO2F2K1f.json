@@ -1434,7 +1434,7 @@
       ],
       "date_added": "2023-05-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-28",
+      "date_removed": null,
       "duration_ms": 97106,
       "name": "Meet the Family",
       "url": "https://open.spotify.com/track/3GZdcQO0QSSZGPzN7Gi8uB"
@@ -1712,6 +1712,24 @@
       "duration_ms": 137466,
       "name": "Pacemaker",
       "url": "https://open.spotify.com/track/1udm3gM3s5K3kvY0yJ30Uq"
+    },
+    {
+      "album": {
+        "name": "Kpm 1000 Series: Arp Odyssey",
+        "url": "https://open.spotify.com/album/2faSpYMkmEdHm5ZsFBBXkv"
+      },
+      "artists": [
+        {
+          "name": "Alan Hawkshaw",
+          "url": "https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T"
+        }
+      ],
+      "date_added": "2024-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 48373,
+      "name": "Pageant",
+      "url": "https://open.spotify.com/track/36bevYK9VTV1uohz7Ge4Fp"
     },
     {
       "album": {
@@ -2022,7 +2040,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-29",
       "duration_ms": 242125,
       "name": "Serengeti",
       "url": "https://open.spotify.com/track/06K7wmMQ4rBkOv3LRTuqiR"
@@ -2094,7 +2112,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-29",
       "duration_ms": 179863,
       "name": "Soft Throttle",
       "url": "https://open.spotify.com/track/5US39IzkxO8nRi4wK9NHOV"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CgRlkzaOFL.md) - [plain]
 
 > Discover the classical side of anime with these orchestral soundtracks and classical masterpieces\. アニメ作品に登場するクラシック音楽と象徴的なサウンドトラックを1つのプレイリストで。Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,730 likes - 62 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,860 likes - 62 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,9 +14,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CgRlkzaOFL.md) - [plain]
 | 4 | [La Parfum de Fleurs](https://open.spotify.com/track/5aAWl9sN7rffpfQnND78QO) | [松司馬拓指揮 Ensemble FOVE](https://open.spotify.com/artist/5KafCCJozxvzGwbHdX8TDq) | [Oh! スケトラ!!! ユーリ!!! on ICE/オリジナル・スケートソングCOLLECTION](https://open.spotify.com/album/7fSGa139Q2t6IgAgf1Cx7n) | 2:05 |
 | 5 | [Ask me why\(母の思い\)](https://open.spotify.com/track/1ej3rD4t8Fb2n6tZskXFIu) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [君たちはどう生きるか　サウンドトラック](https://open.spotify.com/album/4OGf5cOhoHWaXEu0XnsF1t) | 1:48 |
 | 6 | [Faces in the Rain](https://open.spotify.com/track/47glEWHDcFq99QJIG41uyF) | [中村佳穂](https://open.spotify.com/artist/0illCOhPkFBykngmCWos6u) | [Belle \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0Dh6RJv03InPzUWLwmpezp) | 2:22 |
-| 7 | [砂の星](https://open.spotify.com/track/7gz7GnLjMSKImEJBFPj8Ie) | [Tsuneo Imahori](https://open.spotify.com/artist/5pfYZjQ34Czl0aQcWxQSmp) | [トライガン THE 2nd Donut HAPPY PACK](https://open.spotify.com/album/0ySwOzWYkqaGrXQp8vJgId) | 3:23 |
-| 8 | [The Legend of Ashitaka \- from 'Princess Mononoke'](https://open.spotify.com/track/3ytMGJUOv7KvVpOSAow62b) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [A Symphonic Celebration \- Music from the Studio Ghibli Films of Hayao Miyazaki](https://open.spotify.com/album/561qUZZO6f2sILHUMlXmlM) | 1:57 |
-| 9 | [海の見える街](https://open.spotify.com/track/15X1ksqhe8cY1NlEZMl7X8) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [魔女の宅急便 サントラ音楽集](https://open.spotify.com/album/4lbEQJMTPRqABuBCDkhetC) | 3:00 |
+| 7 | [海の見える街](https://open.spotify.com/track/15X1ksqhe8cY1NlEZMl7X8) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [魔女の宅急便 サントラ音楽集](https://open.spotify.com/album/4lbEQJMTPRqABuBCDkhetC) | 3:00 |
+| 8 | [砂の星](https://open.spotify.com/track/7gz7GnLjMSKImEJBFPj8Ie) | [Tsuneo Imahori](https://open.spotify.com/artist/5pfYZjQ34Czl0aQcWxQSmp) | [トライガン THE 2nd Donut HAPPY PACK](https://open.spotify.com/album/0ySwOzWYkqaGrXQp8vJgId) | 3:23 |
+| 9 | [The Legend of Ashitaka \- from 'Princess Mononoke'](https://open.spotify.com/track/3ytMGJUOv7KvVpOSAow62b) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [A Symphonic Celebration \- Music from the Studio Ghibli Films of Hayao Miyazaki](https://open.spotify.com/album/561qUZZO6f2sILHUMlXmlM) | 1:57 |
 | 10 | [ぼくドラえもん](https://open.spotify.com/track/16sjh1TIXOwVnPX268XjWm) | [今井亮太郎](https://open.spotify.com/artist/1Ogp4yK6RFM50S1RKqU21b) | [藤子・F・不二雄 生誕90年記念 CAFÉ de FUJIKO・F・FUJIO MUSEUM](https://open.spotify.com/album/1UYgLb8yvCv769iwYywT0X) | 3:35 |
 | 11 | [めぐり](https://open.spotify.com/track/66Tay60xv3SRYCzjwwDFf7) | [Masakatsu Takagi](https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N) | [おおかみこどもの雨と雪 オリジナル・サウンドトラック](https://open.spotify.com/album/2OM1B7QtxImqOhFhosVuTF) | 1:50 |
 | 12 | [Shingeki Pf \- Medley 20130629 Kyojin](https://open.spotify.com/track/0ge9PBLpkfEiYv9qCE4TVY) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [TV Anime "Attack on Titan Season 2" \(Original Soundtrack\)](https://open.spotify.com/album/0jNwqmKIwudqqbMJRRtzQb) | 5:06 |
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CgRlkzaOFL.md) - [plain]
 | 61 | [L'isle joyeuse, L\. 106](https://open.spotify.com/track/4VTnc3rElZ3Ihcz5VM8mXa) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Seong\-Jin Cho](https://open.spotify.com/artist/1p0J5PXJQMVqk5uVV4T1ja) | [Debussy](https://open.spotify.com/album/4tYYPSmCZM2bmfrJvXAOfr) | 6:15 |
 | 62 | [where you are](https://open.spotify.com/track/3Yr8fFmMIW72uVPX9HnuaX) | [梶浦 由記](https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem) | [.hack//SIGN ORIGINAL SOUND & SONG TRACK2](https://open.spotify.com/album/4kwNMHXCWOkqy1MmwqCV2y) | 1:26 |
 
-Snapshot ID: `ZdS+cAAAAAC3PyMq4ZSPPNTF7bIR0dT5`
+Snapshot ID: `ZlWLwgAAAAB9/DfUDCcPrrtv0jn4lrfm`

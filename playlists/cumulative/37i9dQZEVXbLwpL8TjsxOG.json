@@ -589,6 +589,24 @@
     },
     {
       "album": {
+        "name": "Armageddon - The 1st Album",
+        "url": "https://open.spotify.com/album/058hCti9Bupb5CJc6bd3VB"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2024-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196466,
+      "name": "Armageddon",
+      "url": "https://open.spotify.com/track/6i8MbzVn4nzyjUcSoVcz7B"
+    },
+    {
+      "album": {
         "name": "Justice",
         "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
       },
@@ -12444,7 +12462,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-21",
+      "date_removed": null,
       "duration_ms": 189000,
       "name": "\u5583\u5638\u5e2b\u611f\u5b98\u6f2b\u904a",
       "url": "https://open.spotify.com/track/5jbSWid6JzCiCk3dGgc1aG"
@@ -12660,7 +12678,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-29",
       "duration_ms": 170400,
       "name": "\u591c\u8996\u93e1",
       "url": "https://open.spotify.com/track/6UoBjdkU2bnuYqCXFDqME0"
@@ -15428,7 +15446,7 @@
       ],
       "date_added": "2023-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-29",
       "duration_ms": 223950,
       "name": "\u8001\u6d3e\u7d04\u6703\u4e4b\u5fc5\u8981",
       "url": "https://open.spotify.com/track/3x2hKSUf8O8IqI1shmxGnp"

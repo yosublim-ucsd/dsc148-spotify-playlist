@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVp4cWdnm5ws.md) - [plain]
 
 > Discover new artists on the horizon this 2024\. Cover: Ysanygo
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,922 likes - 33 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,087 likes - 33 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

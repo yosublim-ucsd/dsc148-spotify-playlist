@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlJ7gAAAAACjC56v3s5MBM7ZrlKo9ntj",
+  "snapshot_id": "ZlPNAAAAAADHWRnLg+dg7slORRR20sj4",
   "tracks": [
     {
       "added_at": null,
@@ -91,8 +91,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Normal Fears",
-        "url": "https://open.spotify.com/album/5sHW13VMI7aWGPgKM5KaJB"
+        "name": "Sum of All Your Parts",
+        "url": "https://open.spotify.com/album/6yjT3AybiPKnRbwgaPMsV2"
       },
       "artists": [
         {
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
         }
       ],
-      "duration_ms": 178400,
-      "name": "Normal People",
-      "url": "https://open.spotify.com/track/1AdWwPqoPgaC7Ax2rdR1ij"
+      "duration_ms": 212080,
+      "name": "Making Waves",
+      "url": "https://open.spotify.com/track/3m56AGXgBIaVGbGO1MJx5T"
     },
     {
       "added_at": null,
@@ -139,22 +139,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sum of All Your Parts",
-        "url": "https://open.spotify.com/album/6yjT3AybiPKnRbwgaPMsV2"
-      },
-      "artists": [
-        {
-          "name": "Fatherson",
-          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
-        }
-      ],
-      "duration_ms": 212080,
-      "name": "Making Waves",
-      "url": "https://open.spotify.com/track/3m56AGXgBIaVGbGO1MJx5T"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Normal Fears",
         "url": "https://open.spotify.com/album/5sHW13VMI7aWGPgKM5KaJB"
       },
@@ -164,9 +148,25 @@
           "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
         }
       ],
-      "duration_ms": 257213,
-      "name": "Better Friend",
-      "url": "https://open.spotify.com/track/0NVQtZQNg1m8uNE5NIKDaG"
+      "duration_ms": 178400,
+      "name": "Normal People",
+      "url": "https://open.spotify.com/track/1AdWwPqoPgaC7Ax2rdR1ij"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sum of All Your Parts",
+        "url": "https://open.spotify.com/album/6yjT3AybiPKnRbwgaPMsV2"
+      },
+      "artists": [
+        {
+          "name": "Fatherson",
+          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
+        }
+      ],
+      "duration_ms": 238546,
+      "name": "The Rain",
+      "url": "https://open.spotify.com/track/5TJXQHPvQpcYssuFnL8hy8"
     },
     {
       "added_at": null,
@@ -203,22 +203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sum of All Your Parts",
-        "url": "https://open.spotify.com/album/6yjT3AybiPKnRbwgaPMsV2"
-      },
-      "artists": [
-        {
-          "name": "Fatherson",
-          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
-        }
-      ],
-      "duration_ms": 238546,
-      "name": "The Rain",
-      "url": "https://open.spotify.com/track/5TJXQHPvQpcYssuFnL8hy8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Normal Fears",
         "url": "https://open.spotify.com/album/5sHW13VMI7aWGPgKM5KaJB"
       },
@@ -228,9 +212,25 @@
           "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
         }
       ],
-      "duration_ms": 185266,
-      "name": "Love For Air",
-      "url": "https://open.spotify.com/track/0g2yvHffU81zq8kENgILCZ"
+      "duration_ms": 257213,
+      "name": "Better Friend",
+      "url": "https://open.spotify.com/track/0NVQtZQNg1m8uNE5NIKDaG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sum of All Your Parts",
+        "url": "https://open.spotify.com/album/6yjT3AybiPKnRbwgaPMsV2"
+      },
+      "artists": [
+        {
+          "name": "Fatherson",
+          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
+        }
+      ],
+      "duration_ms": 314066,
+      "name": "Reflection",
+      "url": "https://open.spotify.com/track/7Jf9Lpz4MWXDMRVj2CUv0l"
     },
     {
       "added_at": null,
@@ -267,22 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sum of All Your Parts",
-        "url": "https://open.spotify.com/album/6yjT3AybiPKnRbwgaPMsV2"
-      },
-      "artists": [
-        {
-          "name": "Fatherson",
-          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
-        }
-      ],
-      "duration_ms": 314066,
-      "name": "Reflection",
-      "url": "https://open.spotify.com/track/7Jf9Lpz4MWXDMRVj2CUv0l"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Normal Fears",
         "url": "https://open.spotify.com/album/5sHW13VMI7aWGPgKM5KaJB"
       },
@@ -292,9 +276,25 @@
           "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
         }
       ],
-      "duration_ms": 215933,
-      "name": "Dive",
-      "url": "https://open.spotify.com/track/0AiEk76GizsvBs4Qqribjl"
+      "duration_ms": 185266,
+      "name": "Love For Air",
+      "url": "https://open.spotify.com/track/0g2yvHffU81zq8kENgILCZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sum of All Your Parts",
+        "url": "https://open.spotify.com/album/6yjT3AybiPKnRbwgaPMsV2"
+      },
+      "artists": [
+        {
+          "name": "Fatherson",
+          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
+        }
+      ],
+      "duration_ms": 242733,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/7jgWtz8BD3dZBLBnKtsu63"
     },
     {
       "added_at": null,
@@ -331,22 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sum of All Your Parts",
-        "url": "https://open.spotify.com/album/6yjT3AybiPKnRbwgaPMsV2"
-      },
-      "artists": [
-        {
-          "name": "Fatherson",
-          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
-        }
-      ],
-      "duration_ms": 242733,
-      "name": "Ghost",
-      "url": "https://open.spotify.com/track/7jgWtz8BD3dZBLBnKtsu63"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Normal Fears",
         "url": "https://open.spotify.com/album/5sHW13VMI7aWGPgKM5KaJB"
       },
@@ -356,9 +340,25 @@
           "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
         }
       ],
-      "duration_ms": 191506,
-      "name": "The Feeling And The Sound",
-      "url": "https://open.spotify.com/track/7L23QYPDsq0xtDQ1493KNV"
+      "duration_ms": 215933,
+      "name": "Dive",
+      "url": "https://open.spotify.com/track/0AiEk76GizsvBs4Qqribjl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Afterwords",
+        "url": "https://open.spotify.com/album/5qxhSY3SgCnFLaMQYtOF4R"
+      },
+      "artists": [
+        {
+          "name": "Fatherson",
+          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
+        }
+      ],
+      "duration_ms": 268777,
+      "name": "Afterwords",
+      "url": "https://open.spotify.com/track/7Jp5JCzWgFBHrpJGQI0gzu"
     },
     {
       "added_at": null,
@@ -395,8 +395,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Afterwords",
-        "url": "https://open.spotify.com/album/5qxhSY3SgCnFLaMQYtOF4R"
+        "name": "Normal Fears",
+        "url": "https://open.spotify.com/album/5sHW13VMI7aWGPgKM5KaJB"
       },
       "artists": [
         {
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
         }
       ],
-      "duration_ms": 268777,
-      "name": "Afterwords",
-      "url": "https://open.spotify.com/track/7Jp5JCzWgFBHrpJGQI0gzu"
+      "duration_ms": 191506,
+      "name": "The Feeling And The Sound",
+      "url": "https://open.spotify.com/track/7L23QYPDsq0xtDQ1493KNV"
     },
     {
       "added_at": null,

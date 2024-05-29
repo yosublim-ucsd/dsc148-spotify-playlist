@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1xGYzRKzf3A.md) - [plain]
 
 > 45 grados y un chingo de cerveza..\. ¡Así suena el noreste!
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,392 likes - 150 songs - 9 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,465 likes - 150 songs - 9 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,9 +134,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1xGYzRKzf3A.md) - [plain]
 | 124 | [Cumbia Mingui](https://open.spotify.com/track/10hCTEJUqC0H3knK2EpUDL) | [Javier Lopez y los Reyes Vallenatos](https://open.spotify.com/artist/14fkf08QK8y5Txuef9FvaO) | [Lo Que Tengo](https://open.spotify.com/album/5rEK2wNJ9H5fQXiL40D4kq) | 4:46 |
 | 125 | [Sobrenatural](https://open.spotify.com/track/5VtTEqT7UXNg1sN0HSdmjp) | [Duelo](https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq) | [Sobrenatural](https://open.spotify.com/album/0tKCqqv4jHow4pUvwFiUsj) | 3:26 |
 | 126 | [Toma de Mí](https://open.spotify.com/track/7x24lss6mYJTc1RFMIkK5c) | [Erick Escobar](https://open.spotify.com/artist/4WWNNgB0VUh7xYkldxV74W), [Nayo Quintero](https://open.spotify.com/artist/3VJqPtgfD62abRloZW1xWO) | [La Decisión Vallenata: la Huella de Tu Amor](https://open.spotify.com/album/1u7Xd4ZE0fRCo6pba98oWr) | 4:59 |
-| 127 | [El Mariguanito](https://open.spotify.com/track/4AezsL4zt0MT0o0KgEiOP5) | [Los Kombolokos](https://open.spotify.com/artist/186zc9g3W3zfjfQZqEu9Zd) | [Kumbia Regia](https://open.spotify.com/album/1fLoR8ZZ2mxj9qpOjo3sTf) | 4:37 |
-| 128 | [Fue un Amor de Verdad](https://open.spotify.com/track/3PlfAEUT7kBr22ZWxel7gs) | [La Decision Vallenata](https://open.spotify.com/artist/2nq9fv5SnxhXMiRrS3zPSC) | [Fue un Amor de Verdad](https://open.spotify.com/album/6ezSwQtQ43aZ90CCLgvCLI) | 4:26 |
-| 129 | [Si Yo Fuera Tu](https://open.spotify.com/track/6aF7eMrXRdSHnqpC79NK40) | [El Plan](https://open.spotify.com/artist/6hC4K4CHuu5MRsNUHAqqdy) | [La Voz Del Corazón](https://open.spotify.com/album/4Dg3GxeqCTawEsAQfceNnV) | 3:43 |
+| 127 | [Si Yo Fuera Tu](https://open.spotify.com/track/6aF7eMrXRdSHnqpC79NK40) | [El Plan](https://open.spotify.com/artist/6hC4K4CHuu5MRsNUHAqqdy) | [La Voz Del Corazón](https://open.spotify.com/album/4Dg3GxeqCTawEsAQfceNnV) | 3:43 |
+| 128 | [El Mariguanito](https://open.spotify.com/track/4AezsL4zt0MT0o0KgEiOP5) | [Los Kombolokos](https://open.spotify.com/artist/186zc9g3W3zfjfQZqEu9Zd) | [Kumbia Regia](https://open.spotify.com/album/1fLoR8ZZ2mxj9qpOjo3sTf) | 4:37 |
+| 129 | [Fue un Amor de Verdad](https://open.spotify.com/track/3PlfAEUT7kBr22ZWxel7gs) | [La Decision Vallenata](https://open.spotify.com/artist/2nq9fv5SnxhXMiRrS3zPSC) | [Fue un Amor de Verdad](https://open.spotify.com/album/6ezSwQtQ43aZ90CCLgvCLI) | 4:26 |
 | 130 | [Tanto Corazón](https://open.spotify.com/track/4LoQB01RbhL1vdJPxFmqDA) | [Cabrito Vudú](https://open.spotify.com/artist/3EZgX2cKpabRLqM0WBJJoZ) | [Tatuajes de Pólvora](https://open.spotify.com/album/6fEY0doTao8Nnqb8cP9UPx) | 3:20 |
 | 131 | [Cumbia de la Sabana](https://open.spotify.com/track/46Y0KrTfL2yMKOk7tdJoOT) | [Poder Vallenato](https://open.spotify.com/artist/0I7Eh63ngnKYSkVzp2WHJ2) | [15 exitos pa'gozar](https://open.spotify.com/album/3fBX0WDMRmV09E5jg6TbhO) | 3:32 |
 | 132 | [La Ramita De Ciriguaya](https://open.spotify.com/track/0PzepClKfRFI87D1TywZnT) | [Celso Piña](https://open.spotify.com/artist/6PmfbeAL7jAauFPNyQ5UPi) | [El Canto De Un Rebelde Para Un](https://open.spotify.com/album/7hcqIWxB110shP4PC8Wu9a) | 2:57 |

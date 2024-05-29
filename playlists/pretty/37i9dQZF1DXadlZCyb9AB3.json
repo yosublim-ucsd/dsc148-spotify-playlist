@@ -1,6 +1,6 @@
 {
   "description": "The defining songs of the riot grrrl era, and the artists keeping their spirit alive. Cover: Sleater-Kinney\n",
-  "num_followers": 166390,
+  "num_followers": 166493,
   "original_name": "Riot Grrrl",
   "owner": {
     "name": "Spotify",
@@ -699,22 +699,6 @@
     {
       "added_at": "2024-05-13 15:59:47",
       "album": {
-        "name": "The Raincoats",
-        "url": "https://open.spotify.com/album/190Tx9jPHndq0qUlq79BJJ"
-      },
-      "artists": [
-        {
-          "name": "The Raincoats",
-          "url": "https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp"
-        }
-      ],
-      "duration_ms": 180600,
-      "name": "Fairytale in the Supermarket",
-      "url": "https://open.spotify.com/track/5oXm58OdnsRPy2wyz3ES5u"
-    },
-    {
-      "added_at": "2024-05-13 15:59:47",
-      "album": {
         "name": "Ladies, Women and Girls",
         "url": "https://open.spotify.com/album/6kRFwx5Yj0sFOMeXgm8PbQ"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 146946,
       "name": "Eating Toothpaste",
       "url": "https://open.spotify.com/track/3woDV8HAFSwgS8uTWrjYFI"
+    },
+    {
+      "added_at": "2024-05-13 15:59:47",
+      "album": {
+        "name": "The Raincoats",
+        "url": "https://open.spotify.com/album/190Tx9jPHndq0qUlq79BJJ"
+      },
+      "artists": [
+        {
+          "name": "The Raincoats",
+          "url": "https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp"
+        }
+      ],
+      "duration_ms": 180600,
+      "name": "Fairytale in the Supermarket",
+      "url": "https://open.spotify.com/track/5oXm58OdnsRPy2wyz3ES5u"
     },
     {
       "added_at": "2024-05-13 15:59:47",
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-05-13 15:59:47",
       "album": {
-        "name": "Silence Yourself",
-        "url": "https://open.spotify.com/album/6LjrpgYliBD7FA670n4l31"
-      },
-      "artists": [
-        {
-          "name": "Savages",
-          "url": "https://open.spotify.com/artist/1WFsBUAgQmrGQQEUyFKS60"
-        }
-      ],
-      "duration_ms": 170133,
-      "name": "Husbands",
-      "url": "https://open.spotify.com/track/5yoJk1yR5QmwE8Zj2qatpK"
-    },
-    {
-      "added_at": "2024-05-13 15:59:47",
-      "album": {
         "name": "Soda Pop * Rip Off",
         "url": "https://open.spotify.com/album/5SQhXEf4MVjWG4Y5K78GxQ"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 123240,
       "name": "What Kind of Monster Are You?",
       "url": "https://open.spotify.com/track/7AfEKgIdg2jYvarZwNJIXd"
+    },
+    {
+      "added_at": "2024-05-13 15:59:47",
+      "album": {
+        "name": "Silence Yourself",
+        "url": "https://open.spotify.com/album/6LjrpgYliBD7FA670n4l31"
+      },
+      "artists": [
+        {
+          "name": "Savages",
+          "url": "https://open.spotify.com/artist/1WFsBUAgQmrGQQEUyFKS60"
+        }
+      ],
+      "duration_ms": 170133,
+      "name": "Husbands",
+      "url": "https://open.spotify.com/track/5yoJk1yR5QmwE8Zj2qatpK"
     },
     {
       "added_at": "2024-05-13 15:59:47",
@@ -820,25 +820,9 @@
           "url": "https://open.spotify.com/artist/3p3KAZ6zqhFkkH5ZdTuS5X"
         }
       ],
-      "duration_ms": 248893,
-      "name": "Bad Ass Bitch",
-      "url": "https://open.spotify.com/track/6RnIQtsHeCWSA9ILQgx6J1"
-    },
-    {
-      "added_at": "2024-05-13 15:59:47",
-      "album": {
-        "name": "xxx",
-        "url": "https://open.spotify.com/album/7oFHZxaSE9WzWCi592zMhC"
-      },
-      "artists": [
-        {
-          "name": "Pussy Riot",
-          "url": "https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9"
-        }
-      ],
-      "duration_ms": 195155,
-      "name": "Make America Great Again",
-      "url": "https://open.spotify.com/track/0d858Q4cbhALzhzvljHC8k"
+      "duration_ms": 173866,
+      "name": "Luxury Problem",
+      "url": "https://open.spotify.com/track/7KB9Su9uFdJDgk5iKOmDhF"
     },
     {
       "added_at": "2024-05-13 15:59:47",
@@ -855,6 +839,22 @@
       "duration_ms": 111266,
       "name": "Mr. Moneybag$",
       "url": "https://open.spotify.com/track/72mCIwzPQ7sxfuINA3HjzH"
+    },
+    {
+      "added_at": "2024-05-13 15:59:47",
+      "album": {
+        "name": "xxx",
+        "url": "https://open.spotify.com/album/7oFHZxaSE9WzWCi592zMhC"
+      },
+      "artists": [
+        {
+          "name": "Pussy Riot",
+          "url": "https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9"
+        }
+      ],
+      "duration_ms": 195155,
+      "name": "Make America Great Again",
+      "url": "https://open.spotify.com/track/0d858Q4cbhALzhzvljHC8k"
     },
     {
       "added_at": "2024-05-13 15:59:47",
@@ -891,6 +891,22 @@
     {
       "added_at": "2024-05-13 15:59:47",
       "album": {
+        "name": "Moving",
+        "url": "https://open.spotify.com/album/1ZD5kza99C1CtH5neRwnmS"
+      },
+      "artists": [
+        {
+          "name": "The Raincoats",
+          "url": "https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp"
+        }
+      ],
+      "duration_ms": 270360,
+      "name": "No One's Little Girl",
+      "url": "https://open.spotify.com/track/1jQ86hNKMD4c0w1F0RESYA"
+    },
+    {
+      "added_at": "2024-05-13 15:59:47",
+      "album": {
         "name": "That's Not What I Heard",
         "url": "https://open.spotify.com/album/1nemQafNn0dGHjXFylg8Kf"
       },
@@ -923,22 +939,6 @@
     {
       "added_at": "2024-05-13 15:59:47",
       "album": {
-        "name": "Moving",
-        "url": "https://open.spotify.com/album/1ZD5kza99C1CtH5neRwnmS"
-      },
-      "artists": [
-        {
-          "name": "The Raincoats",
-          "url": "https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp"
-        }
-      ],
-      "duration_ms": 270360,
-      "name": "No One's Little Girl",
-      "url": "https://open.spotify.com/track/1jQ86hNKMD4c0w1F0RESYA"
-    },
-    {
-      "added_at": "2024-05-13 15:59:47",
-      "album": {
         "name": "These Monsters Are Real",
         "url": "https://open.spotify.com/album/4G89Sw4wnfauYwhSAT0lke"
       },
@@ -964,9 +964,9 @@
           "url": "https://open.spotify.com/artist/3p3KAZ6zqhFkkH5ZdTuS5X"
         }
       ],
-      "duration_ms": 173866,
-      "name": "Luxury Problem",
-      "url": "https://open.spotify.com/track/7KB9Su9uFdJDgk5iKOmDhF"
+      "duration_ms": 248893,
+      "name": "Bad Ass Bitch",
+      "url": "https://open.spotify.com/track/6RnIQtsHeCWSA9ILQgx6J1"
     },
     {
       "added_at": "2024-05-13 15:59:47",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2024-05-13 15:59:47",
       "album": {
-        "name": "babyface",
-        "url": "https://open.spotify.com/album/6ewhotPSksO3fzeWIMahVS"
-      },
-      "artists": [
-        {
-          "name": "Sorry Mom",
-          "url": "https://open.spotify.com/artist/0KZzhF4tqJGaVOrXXONmCX"
-        }
-      ],
-      "duration_ms": 152297,
-      "name": "Seafood",
-      "url": "https://open.spotify.com/track/0XpHX9aIcXmf0RpU6kIbsU"
-    },
-    {
-      "added_at": "2024-05-13 15:59:47",
-      "album": {
         "name": "xxx",
         "url": "https://open.spotify.com/album/7oFHZxaSE9WzWCi592zMhC"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 279787,
       "name": "Organs",
       "url": "https://open.spotify.com/track/369ZHVk9UlOxmRcjs6XeUr"
+    },
+    {
+      "added_at": "2024-05-13 15:59:47",
+      "album": {
+        "name": "babyface",
+        "url": "https://open.spotify.com/album/6ewhotPSksO3fzeWIMahVS"
+      },
+      "artists": [
+        {
+          "name": "Sorry Mom",
+          "url": "https://open.spotify.com/artist/0KZzhF4tqJGaVOrXXONmCX"
+        }
+      ],
+      "duration_ms": 152297,
+      "name": "Seafood",
+      "url": "https://open.spotify.com/track/0XpHX9aIcXmf0RpU6kIbsU"
     },
     {
       "added_at": "2024-05-13 15:59:47",

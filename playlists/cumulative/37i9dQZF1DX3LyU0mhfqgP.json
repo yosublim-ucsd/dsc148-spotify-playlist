@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Listen to the hottest songs from LGBTQIA+ artists. Cover: Towa Bird",
+  "description": "Listen to the hottest songs from LGBTQIA+ artists. Cover: Chappell Roan",
   "name": "GLOW",
   "tracks": [
     {
@@ -5001,6 +5001,24 @@
     },
     {
       "album": {
+        "name": "Dispose of Me",
+        "url": "https://open.spotify.com/album/00gOh6il0z2KBhwqWSu3iX"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "date_added": "2024-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217880,
+      "name": "Dispose of Me",
+      "url": "https://open.spotify.com/track/5tffEKZUyEbyThW6FH9VFS"
+    },
+    {
+      "album": {
         "name": "Diss and Disappoint",
         "url": "https://open.spotify.com/album/7oaEeaY8WIXyHbV72oLHfk"
       },
@@ -5092,7 +5110,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-29",
       "duration_ms": 172879,
       "name": "Dizzy",
       "url": "https://open.spotify.com/track/4GEmQTg7yfnfZoNhgpCg61"
@@ -16751,6 +16769,28 @@
     },
     {
       "album": {
+        "name": "Stampede: Vol. 1",
+        "url": "https://open.spotify.com/album/5xmQFJ2yArFC5glJ3xclfE"
+      },
+      "artists": [
+        {
+          "name": "Orville Peck",
+          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
+        },
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2024-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251998,
+      "name": "Saturday Night's Alright (For Fighting)",
+      "url": "https://open.spotify.com/track/3v8l8N78qWDgXfHrxppF5D"
+    },
+    {
+      "album": {
         "name": "Saviour",
         "url": "https://open.spotify.com/album/5w4EHVmC2kq9dhG8xBgxZE"
       },
@@ -18150,7 +18190,7 @@
       ],
       "date_added": "2024-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-29",
       "duration_ms": 159213,
       "name": "Spite",
       "url": "https://open.spotify.com/track/0XHFylA18yuwGVCfJfq4dw"

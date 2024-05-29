@@ -179,6 +179,28 @@
     },
     {
       "album": {
+        "name": "\u3086\u3081\u306e\u3042\u3068",
+        "url": "https://open.spotify.com/album/0JsQymRWmNI6iGtGvz3zch"
+      },
+      "artists": [
+        {
+          "name": "ashcolor",
+          "url": "https://open.spotify.com/artist/530ZxZmJuJ7sAcI84QJwJA"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2024-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283043,
+      "name": "deprecated (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/0n6LJRnMiQ6sK9Rrt4OX8I"
+    },
+    {
+      "album": {
         "name": "ear ear",
         "url": "https://open.spotify.com/album/6mt5PrU9hgG04HEJgj6sxg"
       },
@@ -350,7 +372,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-29",
       "duration_ms": 264888,
       "name": "Orbital Note (feat. \u5de1\u97f3\u30eb\u30ab)",
       "url": "https://open.spotify.com/track/5M6YfejtttkE6SVg7gucZZ"
@@ -571,6 +593,28 @@
     },
     {
       "album": {
+        "name": "#B.E.R.Night",
+        "url": "https://open.spotify.com/album/3kUbNRHoDV5caV480iyKvs"
+      },
+      "artists": [
+        {
+          "name": "joinT",
+          "url": "https://open.spotify.com/artist/34AGtPMtPpEO7cFTZ74EUb"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2024-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207093,
+      "name": "Sweet Dreams (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/5XOvl4Q6zPMeRlFwkipP4e"
+    },
+    {
+      "album": {
         "name": "MERO2",
         "url": "https://open.spotify.com/album/2dfoDo5sgSjh5xTzPuZXL1"
       },
@@ -670,7 +714,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-29",
       "duration_ms": 223004,
       "name": "\u3053\u3053\u308d\u753a",
       "url": "https://open.spotify.com/track/3AeAlguZHYOXzlHZ2wr3gh"
@@ -856,6 +900,24 @@
       "duration_ms": 301868,
       "name": "\u3088\u308f\u3080\u3057\u3068\u304b\u3052\u306e\u30d5\u30ec\u30fc\u30ec (feat. \u97f3\u8857\u30a6\u30ca)",
       "url": "https://open.spotify.com/track/28dOFnXc4oLSOA6g5KsHe7"
+    },
+    {
+      "album": {
+        "name": "\u308f\u305f\u3057\u3068\u541b\u3068\u3092\u7e4b\u3050\u3082\u306e",
+        "url": "https://open.spotify.com/album/27f0Mj4lLaxNrLV45B0tNL"
+      },
+      "artists": [
+        {
+          "name": "KIKKYON",
+          "url": "https://open.spotify.com/artist/1pSXwVvXcYYlHrUSiVhXoq"
+        }
+      ],
+      "date_added": "2024-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 368024,
+      "name": "\u308f\u305f\u3057\u3068\u541b\u3068\u3092\u7e4b\u3050\u3082\u306e",
+      "url": "https://open.spotify.com/track/4fIEpX2vEIX7vLeOAV0YeZ"
     },
     {
       "album": {
@@ -1668,7 +1730,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-29",
       "duration_ms": 169756,
       "name": "\u5bdd\u9854",
       "url": "https://open.spotify.com/track/1b40zl0fa5v0Ey8a9EzwKW"
@@ -1694,6 +1756,28 @@
       "duration_ms": 238170,
       "name": "\u6211\u3001\u601d\u3046\u3086\u3048\u306b (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/5Bw2uf8VDiHVYHfIcEkY0z"
+    },
+    {
+      "album": {
+        "name": "komorebi EP",
+        "url": "https://open.spotify.com/album/0rqDCHpzwD40wUA4O9IhyR"
+      },
+      "artists": [
+        {
+          "name": "\u306e\u30fc\u306d\u30fc\u3080",
+          "url": "https://open.spotify.com/artist/3nsuxvus8bQTckiewgGwhs"
+        },
+        {
+          "name": "\u53ef\u4e0d",
+          "url": "https://open.spotify.com/artist/3VxmIoSoAMfL0xAAQ7jHqE"
+        }
+      ],
+      "date_added": "2024-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 391998,
+      "name": "\u63bb\u75d2 (feat. \u53ef\u4e0d)",
+      "url": "https://open.spotify.com/track/1krYYQjDeD2sbBv1Nj3kDJ"
     },
     {
       "album": {
@@ -1886,7 +1970,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-29",
       "duration_ms": 258000,
       "name": "\u732b\u3068\u591c\u884c\u5217\u8eca (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/7B7zo9xU45kCGhJeCDiXyW"
@@ -1962,6 +2046,24 @@
       "duration_ms": 330750,
       "name": "\u8272\u5f69\u306e\u8857 (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/1i2KRYbtrWiblUuBOUP4kR"
+    },
+    {
+      "album": {
+        "name": "\u3053\u306e\u590f\u306e\u3059\u3079\u3066L.P.",
+        "url": "https://open.spotify.com/album/7dmwPrvwulvUFBVHclnY52"
+      },
+      "artists": [
+        {
+          "name": "\u5e73\u7530\u7fa9\u4e45",
+          "url": "https://open.spotify.com/artist/2WovLuHff62YLJEGlqqP0L"
+        }
+      ],
+      "date_added": "2024-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264000,
+      "name": "\u82b1\u706b\u304c\u3042\u304c\u308b\u3001\u4eca",
+      "url": "https://open.spotify.com/track/6ucPgHb0rIUJQjtz3Zbdsh"
     },
     {
       "album": {
@@ -2126,7 +2228,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-29",
       "duration_ms": 123250,
       "name": "\u96e8\u8857\u30af\u30a4\u30f3\u30c6\u30c3\u30c8 (feat. \u5de1\u97f3\u30eb\u30ab)",
       "url": "https://open.spotify.com/track/2Cas8sGWkovgLlANOCfhsp"

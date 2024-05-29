@@ -1,6 +1,6 @@
 {
   "description": "Gospel songs to get you in the spirit. Whether you are happy or need company to feel better, this is the right one!",
-  "num_followers": 69453,
+  "num_followers": 69508,
   "original_name": "Be Lifted ",
   "owner": {
     "name": "Spotify",
@@ -473,26 +473,6 @@
       "url": "https://open.spotify.com/track/4vH0rypLr1NgyymAXehhgG"
     },
     {
-      "added_at": "2024-04-26 00:01:00",
-      "album": {
-        "name": "One Day",
-        "url": "https://open.spotify.com/album/7GH4rWGig9L57E7PIM2wR3"
-      },
-      "artists": [
-        {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
-        },
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        }
-      ],
-      "duration_ms": 170118,
-      "name": "One Day",
-      "url": "https://open.spotify.com/track/0w39hcmQv902JMN5ZL862C"
-    },
-    {
       "added_at": "2023-12-15 00:01:00",
       "album": {
         "name": "Fragrance (feat. GGTQ All Stars)",
@@ -511,6 +491,26 @@
       "duration_ms": 267337,
       "name": "Fragrance (feat. GGTQ All Stars)",
       "url": "https://open.spotify.com/track/3BbGiJH0O5U1E9hJaFJuPO"
+    },
+    {
+      "added_at": "2024-04-26 00:01:00",
+      "album": {
+        "name": "One Day",
+        "url": "https://open.spotify.com/album/7GH4rWGig9L57E7PIM2wR3"
+      },
+      "artists": [
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        },
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "duration_ms": 170118,
+      "name": "One Day",
+      "url": "https://open.spotify.com/track/0w39hcmQv902JMN5ZL862C"
     },
     {
       "added_at": "2024-01-19 00:01:00",
@@ -883,22 +883,6 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "The Glory Experience (Live In Houston)",
-        "url": "https://open.spotify.com/album/0SfURVlWdCFsuLysixiSAZ"
-      },
-      "artists": [
-        {
-          "name": "Uche Agu",
-          "url": "https://open.spotify.com/artist/2nSP3Ap7hxf4m4o5F5RXVj"
-        }
-      ],
-      "duration_ms": 298306,
-      "name": "Most High - African Worship Medley/Live",
-      "url": "https://open.spotify.com/track/4BvbY6pmXzt0S895doZv9y"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
         "name": "Lion of Judah",
         "url": "https://open.spotify.com/album/5z1FT7nquPSxdERNQ1oUvy"
       },
@@ -915,18 +899,18 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Kingdom Now",
-        "url": "https://open.spotify.com/album/2M2BBowaeYPd211IYmKNqn"
+        "name": "The Glory Experience (Live In Houston)",
+        "url": "https://open.spotify.com/album/0SfURVlWdCFsuLysixiSAZ"
       },
       "artists": [
         {
-          "name": "Dunsin Oyekan",
-          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
+          "name": "Uche Agu",
+          "url": "https://open.spotify.com/artist/2nSP3Ap7hxf4m4o5F5RXVj"
         }
       ],
-      "duration_ms": 696179,
-      "name": "Breathe",
-      "url": "https://open.spotify.com/track/2GBaCowYlscaEClL9bciuL"
+      "duration_ms": 298306,
+      "name": "Most High - African Worship Medley/Live",
+      "url": "https://open.spotify.com/track/4BvbY6pmXzt0S895doZv9y"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -943,6 +927,22 @@
       "duration_ms": 369529,
       "name": "Jesus at the Centre",
       "url": "https://open.spotify.com/track/6vxVWANYDzpoWJcF4vVbr2"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Kingdom Now",
+        "url": "https://open.spotify.com/album/2M2BBowaeYPd211IYmKNqn"
+      },
+      "artists": [
+        {
+          "name": "Dunsin Oyekan",
+          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
+        }
+      ],
+      "duration_ms": 696179,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/2GBaCowYlscaEClL9bciuL"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "The Glory Experience (Songs of Zion)",
-        "url": "https://open.spotify.com/album/5CekMpHMo17ilQctFxI6TT"
-      },
-      "artists": [
-        {
-          "name": "Dunsin Oyekan",
-          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
-        }
-      ],
-      "duration_ms": 577592,
-      "name": "Kaabo",
-      "url": "https://open.spotify.com/track/5RrEkgXlClry1Wln0LTpIa"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
         "name": "B'ola (Live)",
         "url": "https://open.spotify.com/album/6MOU4J2Bv7ABtMGrVkBd5E"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 178909,
       "name": "Only God Can Save Me",
       "url": "https://open.spotify.com/track/3QnQAJkb10GQWnmUtJLBoq"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "The Glory Experience (Songs of Zion)",
+        "url": "https://open.spotify.com/album/5CekMpHMo17ilQctFxI6TT"
+      },
+      "artists": [
+        {
+          "name": "Dunsin Oyekan",
+          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
+        }
+      ],
+      "duration_ms": 577592,
+      "name": "Kaabo",
+      "url": "https://open.spotify.com/track/5RrEkgXlClry1Wln0LTpIa"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -1459,6 +1459,30 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
+        "name": "OL\u00d9GB\u00c8J\u00c0",
+        "url": "https://open.spotify.com/album/2hpKtfaNQc6Obg1iEgse2G"
+      },
+      "artists": [
+        {
+          "name": "Veekee James",
+          "url": "https://open.spotify.com/artist/3d0vDLmDic461i6fOfImUA"
+        },
+        {
+          "name": "Shallom Matthew",
+          "url": "https://open.spotify.com/artist/5ELs59GeiNNa11OOGO4vVl"
+        },
+        {
+          "name": "OBA",
+          "url": "https://open.spotify.com/artist/6RSMZnjbnEHuVEB2l1vfIj"
+        }
+      ],
+      "duration_ms": 888000,
+      "name": "OL\u00d9GB\u00c8J\u00c0",
+      "url": "https://open.spotify.com/track/5DXFUaVUCxYvpvrzbjfhQP"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
         "name": "Yesu (Jesus)",
         "url": "https://open.spotify.com/album/74jptpKQgDOKwRdNTMXToI"
       },
@@ -1487,26 +1511,22 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "OL\u00d9GB\u00c8J\u00c0",
-        "url": "https://open.spotify.com/album/2hpKtfaNQc6Obg1iEgse2G"
+        "name": "Apostolos (Sounds of Transition)",
+        "url": "https://open.spotify.com/album/2EB9Skh5opMuYmAusHBMlv"
       },
       "artists": [
         {
-          "name": "Veekee James",
-          "url": "https://open.spotify.com/artist/3d0vDLmDic461i6fOfImUA"
+          "name": "Pastor Emmanuel Iren",
+          "url": "https://open.spotify.com/artist/1Ge81wiDXhRxTHVE1pdHyw"
         },
         {
-          "name": "Shallom Matthew",
-          "url": "https://open.spotify.com/artist/5ELs59GeiNNa11OOGO4vVl"
-        },
-        {
-          "name": "OBA",
-          "url": "https://open.spotify.com/artist/6RSMZnjbnEHuVEB2l1vfIj"
+          "name": "Nosa",
+          "url": "https://open.spotify.com/artist/2L0sgYLzuz1GstJlck2kU4"
         }
       ],
-      "duration_ms": 888000,
-      "name": "OL\u00d9GB\u00c8J\u00c0",
-      "url": "https://open.spotify.com/track/5DXFUaVUCxYvpvrzbjfhQP"
+      "duration_ms": 382499,
+      "name": "Prophetic Chant (Live)",
+      "url": "https://open.spotify.com/track/3rEvSuwWdtfvievLk5ITaD"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -1539,26 +1559,6 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Apostolos (Sounds of Transition)",
-        "url": "https://open.spotify.com/album/2EB9Skh5opMuYmAusHBMlv"
-      },
-      "artists": [
-        {
-          "name": "Pastor Emmanuel Iren",
-          "url": "https://open.spotify.com/artist/1Ge81wiDXhRxTHVE1pdHyw"
-        },
-        {
-          "name": "Nosa",
-          "url": "https://open.spotify.com/artist/2L0sgYLzuz1GstJlck2kU4"
-        }
-      ],
-      "duration_ms": 382499,
-      "name": "Prophetic Chant (Live)",
-      "url": "https://open.spotify.com/track/3rEvSuwWdtfvievLk5ITaD"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
         "name": "Watching All over Me",
         "url": "https://open.spotify.com/album/3Ggx3rwJl4LK0T8UmhCBnL"
       },
@@ -1577,28 +1577,24 @@
       "url": "https://open.spotify.com/track/6TMZINReRMSLQUP9iWi1HQ"
     },
     {
-      "added_at": "2023-12-15 00:01:00",
+      "added_at": "2024-02-23 00:01:00",
       "album": {
-        "name": "God Turned It Around",
-        "url": "https://open.spotify.com/album/3yVqDAJkQZVwitTH6zDUtz"
+        "name": "Holy",
+        "url": "https://open.spotify.com/album/4bv5H8WcvwIWZCtavE9ylr"
       },
       "artists": [
         {
-          "name": "Tim Godfrey",
-          "url": "https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2"
+          "name": "Chris Heaven",
+          "url": "https://open.spotify.com/artist/0wWIHR4oX0miVq88XpVoYZ"
         },
         {
-          "name": "Nathaniel Bassey",
-          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
-        },
-        {
-          "name": "Tim Bowman Jr.",
-          "url": "https://open.spotify.com/artist/5A8ZfGPAh4EUTmOJ0Fck3l"
+          "name": "Imani",
+          "url": "https://open.spotify.com/artist/4nxuTuvnkmY0EYLe39Ycsf"
         }
       ],
-      "duration_ms": 619333,
-      "name": "God Turned It Around",
-      "url": "https://open.spotify.com/track/5DGDEsOU9MovPuq0QRnbUG"
+      "duration_ms": 210599,
+      "name": "Holy",
+      "url": "https://open.spotify.com/track/4edGYsHaOG3PjJpyrbFdKz"
     }
   ],
   "unique_name": "Be Lifted ",

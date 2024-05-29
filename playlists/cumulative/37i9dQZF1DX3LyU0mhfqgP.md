@@ -2,9 +2,9 @@
 
 ### [GLOW](https://open.spotify.com/playlist/37i9dQZF1DX3LyU0mhfqgP)
 
-> Listen to the hottest songs from LGBTQIA+ artists\. Cover: Towa Bird
+> Listen to the hottest songs from LGBTQIA+ artists\. Cover: Chappell Roan
 
-1,183 songs - 2 day 15 hr 59 min
+1,185 songs - 2 day 16 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -270,11 +270,12 @@
 | [Dirty Laundry](https://open.spotify.com/track/3fpyiBLsUT22KK9p4EQTMp) | [Parson James](https://open.spotify.com/artist/48sLioddyaXkuhyHXSkpsB), [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [Dirty Laundry](https://open.spotify.com/album/6gSpF2OsSuwpp4z0qAmeVu) | 2:49 | 2021-12-17 | 2022-01-27 |
 | [Disco Heart](https://open.spotify.com/track/29upl5ytUcahfLE8q24SMd) | [Gia Woods](https://open.spotify.com/artist/6T56xtTEllGW17snjAZLNP) | [Heartbreak County, Vol\. 2](https://open.spotify.com/album/7x42x3GG9dviDYgX5HmHTM) | 3:15 | 2022-10-28 | 2022-12-01 |
 | [Disguise](https://open.spotify.com/track/64QP47eGMe5V61PbXR9SUG) | [Fred Roberts](https://open.spotify.com/artist/4n1vjpbmyeFvTvMJX1TL0v) | [Disguise](https://open.spotify.com/album/2Lg95avWVr3V6WcYZ07dvq) | 2:59 | 2024-03-12 | 2024-05-07 |
+| [Dispose of Me](https://open.spotify.com/track/5tffEKZUyEbyThW6FH9VFS) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Dispose of Me](https://open.spotify.com/album/00gOh6il0z2KBhwqWSu3iX) | 3:37 | 2024-05-28 |  |
 | [Diss and Disappoint](https://open.spotify.com/track/1RXFZcTmIoG3BpYobw0eyu) | [flowerkid](https://open.spotify.com/artist/4VFDBAAO80bu4bTcVJ6M8i) | [Diss and Disappoint](https://open.spotify.com/album/7oaEeaY8WIXyHbV72oLHfk) | 2:57 | 2023-05-16 | 2023-06-02 |
 | [Disturbing U](https://open.spotify.com/track/1QVJ9U10mJncHAyHVXkFNZ) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Disturbing U](https://open.spotify.com/album/052AhHjQkjepRKQeE6vdjc) | 2:31 | 2023-06-01 | 2023-07-26 |
 | [Diva \(feat\. Lolita Leopard\)](https://open.spotify.com/track/3ox0k1TwVFAhserUA9cubK) | [Catz 'n Dogz](https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh), [Lolita Leopard](https://open.spotify.com/artist/0iTYdScrEVihgUKCOYatkS) | [Diva \(feat\. Lolita Leopard\)](https://open.spotify.com/album/2K5A3vvcxsEpQ43tl7CcfG) | 2:57 | 2023-07-11 | 2023-08-09 |
 | [Dizzy](https://open.spotify.com/track/6cpUIz7rYuEkWA53y6Bxo6) | [Mavi Phoenix](https://open.spotify.com/artist/0Lt05xaSe2ACmAiSkIdcSm) | [Dizzy](https://open.spotify.com/album/3GIkPd8JUiXeQ1N2AlUxlK) | 2:00 | 2024-01-10 | 2024-03-13 |
-| [Dizzy](https://open.spotify.com/track/4GEmQTg7yfnfZoNhgpCg61) | [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Dizzy](https://open.spotify.com/album/7rzYlWpOSJKwcDOzW65qdY) | 2:52 | 2024-03-12 |  |
+| [Dizzy](https://open.spotify.com/track/4GEmQTg7yfnfZoNhgpCg61) | [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Dizzy](https://open.spotify.com/album/7rzYlWpOSJKwcDOzW65qdY) | 2:52 | 2024-03-12 | 2024-05-29 |
 | [dlaczego w tym mieście NIKT nie umarł z miłości?](https://open.spotify.com/track/7GNHldDKTddtGLNJSyGmu1) | [Kamil Hasselhoff](https://open.spotify.com/artist/1XHvLGFiaNYB5zU9QSVYm9) | [dlaczego w tym mieście NIKT nie umarł z miłości?](https://open.spotify.com/album/5UIIUdZhqvd8maBB8zSfF0) | 2:44 | 2023-08-08 | 2023-09-13 |
 | [Do I Ever Cross Your Mind?](https://open.spotify.com/track/2Ai6GyZxG5gW3YCkdeXhNU) | [Beharie](https://open.spotify.com/artist/2CzpBz4VaRU3cqM1rJZN6M) | [Do I Ever Cross Your Mind?](https://open.spotify.com/album/6qkX5pBH2OE4ebSA7B9jKn) | 3:05 | 2023-03-07 | 2023-04-01 |
 | [do u really want to watch](https://open.spotify.com/track/7Khom2QJHwWKqsO4ug1jux) | [LIONSTORM](https://open.spotify.com/artist/2R674rphXQgJ2v2TXHydvV) | [do u really want to watch](https://open.spotify.com/album/1HGjv4VEYuVGXqP3NEINLG) | 2:43 | 2024-03-12 | 2024-04-17 |
@@ -891,6 +892,7 @@
 | [Sadness As A Gift](https://open.spotify.com/track/6oBIzNjrQ7ibErxk1ZbdfA) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Sadness As A Gift](https://open.spotify.com/album/38DuzlEMGxWPcE3PXEHKhD) | 4:19 | 2024-02-13 | 2024-03-20 |
 | [Sagi](https://open.spotify.com/track/3Z7Qh3lOUg0d3Aj18otDVn) | [Paul Pablo](https://open.spotify.com/artist/5GB0qrWq0mz2OanyfhXGp0) | [Sagi](https://open.spotify.com/album/4xK0CN6e6hCWM5r0vL0fV5) | 3:21 | 2023-03-07 | 2023-04-01 |
 | [Salt](https://open.spotify.com/track/7bMm4GSR0O90ZrrqsKf74G) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF), [The Grogans](https://open.spotify.com/artist/3LiQA7CeDBEpoWI0TNBJgv) | [Salt](https://open.spotify.com/album/1i029CHfpOok9L5nC1JWO2) | 3:07 | 2023-09-12 | 2023-10-11 |
+| [Saturday Night's Alright \(For Fighting\)](https://open.spotify.com/track/3v8l8N78qWDgXfHrxppF5D) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Stampede: Vol\. 1](https://open.spotify.com/album/5xmQFJ2yArFC5glJ3xclfE) | 4:11 | 2024-05-28 |  |
 | [Saviour](https://open.spotify.com/track/4yCsKzFyKCh9UBzsBMMT8F) | [James Baley](https://open.spotify.com/artist/2C5lN4qvUtD2BgRzl5iEHG) | [Saviour](https://open.spotify.com/album/5w4EHVmC2kq9dhG8xBgxZE) | 3:17 | 2021-12-17 | 2022-03-26 |
 | [SCUMBAG](https://open.spotify.com/track/0kYWQcuHGs0tqZHRTCfhR1) | [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM) | [SCUMBAG](https://open.spotify.com/album/3T9sAXQL2HqNvpA2lE6t1C) | 3:06 | 2023-11-14 | 2023-11-30 |
 | [second](https://open.spotify.com/track/29Br7mFmSGM3W9ptFNg4Qc) | [Miki Ratsula](https://open.spotify.com/artist/3Yq0Ww7oAbgxcoOxthlS30) | [second](https://open.spotify.com/album/4aU3izZF1sUiVQ2bN5UCec) | 3:29 | 2021-12-17 | 2022-01-29 |
@@ -963,7 +965,7 @@
 | [Space](https://open.spotify.com/track/1e6PNxI4pymbrv25cmKX9T) | [Jeangu Macrooy](https://open.spotify.com/artist/3t9HafA5eFHM992s4GZ0Gr) | [Space](https://open.spotify.com/album/4JfgTYw8nZBgNycTB97Zpp) | 2:56 | 2023-04-13 | 2023-06-02 |
 | [Space](https://open.spotify.com/track/1pyICTBf3mMbtiuZxGyEWi) | [Kaiit](https://open.spotify.com/artist/1lEiFY8tYuckyd67eGiaF1) | [Space](https://open.spotify.com/album/5bOeYTfl6WokPMJj3454O4) | 3:27 | 2024-05-06 |  |
 | [Spells](https://open.spotify.com/track/7w9pvfKwCbIc2K1v97ICkb) | [Backxwash](https://open.spotify.com/artist/4du3q8TIzsZxZZKdRT23Jg), [Devi McCallion](https://open.spotify.com/artist/6i1PYODUPDYMtaK8QCGE9I) | [Spells](https://open.spotify.com/album/0d5qdh50jjlmfJl4l9kcqP) | 2:23 | 2023-03-31 | 2023-04-14 |
-| [Spite](https://open.spotify.com/track/0XHFylA18yuwGVCfJfq4dw) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Spite](https://open.spotify.com/album/7GMGBHL3OQDu8aeUa0ms51) | 2:39 | 2024-05-06 |  |
+| [Spite](https://open.spotify.com/track/0XHFylA18yuwGVCfJfq4dw) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Spite](https://open.spotify.com/album/7GMGBHL3OQDu8aeUa0ms51) | 2:39 | 2024-05-06 | 2024-05-29 |
 | [squares](https://open.spotify.com/track/0byJI4UB0ibHxUVz5Fz5Ne) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [squares / y 13](https://open.spotify.com/album/1TszPNUGDtDdfgg1SPDPH6) | 4:27 | 2022-01-14 | 2022-04-16 |
 | [star tripping](https://open.spotify.com/track/1ozWhltP7jnU01qOMWYBXH) | [Kevin Atwater](https://open.spotify.com/artist/6ZBM319vNIirp7FOvvLVD6) | [star tripping](https://open.spotify.com/album/4hohZtRQRa3Iz76pJPwJwR) | 2:34 | 2022-10-07 | 2022-12-01 |
 | [STAR WALKIN' \(League of Legends Worlds Anthem\)](https://open.spotify.com/track/38T0tPVZHcPZyhtOcCP7pF) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [STAR WALKIN' \(League of Legends Worlds Anthem\)](https://open.spotify.com/album/0aIy6J8M9yHTnjtRu81Nr9) | 3:30 | 2022-11-30 | 2023-01-25 |

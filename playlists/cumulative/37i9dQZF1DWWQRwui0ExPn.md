@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-6,798 songs - 10 day 17 hr 41 min
+6,799 songs - 10 day 17 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2584,6 +2584,7 @@
 | [High five, low\-fi](https://open.spotify.com/track/6mCHWvDL7kXZdVhc8ovk0y) | [Dusty Kadinsky](https://open.spotify.com/artist/6DhRdG6ckA1u7hxnZzF2VL) | [High five, low\-fi](https://open.spotify.com/album/0XqcEKC7xJg1bN9dp8tKVo) | 2:08 | 2024-03-08 |  |
 | [High Noon](https://open.spotify.com/track/3eufcAK6FDqyKn1zP5yvL6) | [Nokiaa](https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN), [Jade](https://open.spotify.com/artist/2J3IMRzXJBBV2OrlGeGRvl) | [High Noon](https://open.spotify.com/album/0WqW7aBZOBAA55KeJ4JFNg) | 1:39 | 2019-05-28 | 2019-06-01 |
 | [High Tide](https://open.spotify.com/track/5rhuVNdPBphWwJGpCHkCOm) | [Leo Motta](https://open.spotify.com/artist/6ugB87XnwqEwHL5s6ovPAP) | [High Tide](https://open.spotify.com/album/3bZvBaKquXgqTZ502rYKKO) | 1:40 | 2022-03-11 | 2022-06-03 |
+| [High Vibes](https://open.spotify.com/track/1xtNvQGWy2dW2EpTXCrUzL) | [Breezonic](https://open.spotify.com/artist/6dcAuzmzyzfUfwRyT2CIXb) | [High Vibes](https://open.spotify.com/album/0fMG77vypPY2c7Qn9ri7M5) | 2:03 | 2024-05-24 |  |
 | [High Weirdo](https://open.spotify.com/track/2UYmeCosafcN7co8OJM1GA) | [Fed Nance](https://open.spotify.com/artist/2aeZ4vysvCWfhqaHHLWzdm) | [Nebula](https://open.spotify.com/album/1wNsxYpp9J3o27v8h0WQ2Y) | 1:45 | 2022-05-27 | 2022-09-16 |
 | [Higher](https://open.spotify.com/track/1AWORcMuBOYbRFRPtSgyRt) | [Epifania](https://open.spotify.com/artist/47OYz3d3DvnXpfaJ7i0z6b) | [Higher](https://open.spotify.com/album/6EUfsYFr2xvSJ2TGppUS7G) | 2:05 | 2019-09-08 | 2020-07-07 |
 | [higher](https://open.spotify.com/track/1zvi8dfPE8N05au0znnRhD) | [Prod\. By Outtake](https://open.spotify.com/artist/6NMa9jf0w0gIw0vEQyCuqc) | [higher](https://open.spotify.com/album/2JIRIG79MPFLsKlZE1wOse) | 1:58 | 2021-11-20 | 2022-06-10 |
@@ -3196,7 +3197,7 @@
 | [Late Night](https://open.spotify.com/track/0EfrGzFyyN6dgVW1MMdp0o) | [Dani Catalá](https://open.spotify.com/artist/47KS10JqzPOZND1Uxr7U1i), [flâneur](https://open.spotify.com/artist/1u1zs47JhYDIbDkFjamdzx), [dennisivnvc](https://open.spotify.com/artist/03sYI7Ckj5JOq6cYowPUmo), [Clara Juan](https://open.spotify.com/artist/51x3hudbqkAWzaildDrAKa) | [Late Night](https://open.spotify.com/album/5ZPE0dkj0QmzVNnW1t0eDt) | 2:43 | 2024-04-26 |  |
 | [Late Night](https://open.spotify.com/track/0GFfJME7086hArhVjiNHmt) | [nrg](https://open.spotify.com/artist/6EEFjsH9sgqLhHpDzTsflL) | [Late Night](https://open.spotify.com/album/2lKEAz4op4sdNalb5tMZL1) | 3:11 | 2022-10-14 | 2024-02-09 |
 | [Late Night Banger](https://open.spotify.com/track/5x2IE3MO8mk4GdNtkHsxuO) | [Illa J](https://open.spotify.com/artist/72zigmOdJbIsz0iIRhCBvp), [Atamone](https://open.spotify.com/artist/4ewpGbPN16YHnt8CTfY9oY) | [Late Night Banger](https://open.spotify.com/album/4LCDMGhxwywuTk5TgutNLc) | 2:40 | 2021-07-01 | 2022-01-14 |
-| [Late Night Call](https://open.spotify.com/track/5vWzW7Dz0gM0GzUS00kYS2) | [akoYuno](https://open.spotify.com/artist/6Qofl0SeZbGEtuigHU5L46) | [Late Night Call](https://open.spotify.com/album/4ye69lfpB60OmlZZrHeDWn) | 1:44 | 2024-05-24 |  |
+| [Late Night Call](https://open.spotify.com/track/5vWzW7Dz0gM0GzUS00kYS2) | [akoYuno](https://open.spotify.com/artist/6Qofl0SeZbGEtuigHU5L46) | [Late Night Call](https://open.spotify.com/album/4ye69lfpB60OmlZZrHeDWn) | 1:44 | 2024-05-24 | 2024-05-29 |
 | [late night cocktails](https://open.spotify.com/track/0gUFcXRmeBpyYcUWZ7gOzv) | [yeyts.](https://open.spotify.com/artist/4fawpeTlkJtDMXDzJmBYSR), [Happy Tobi](https://open.spotify.com/artist/1GyfVIZcP7PfEgpNnars9N) | [late night cocktails](https://open.spotify.com/album/2NlgPvNoNJqyNfuzCKfUur) | 2:00 | 2022-10-21 | 2023-10-06 |
 | [Late Night Light](https://open.spotify.com/track/2bYyxuSox8D3kITVpPkgOf) | [melloe](https://open.spotify.com/artist/6hQPDJPAjllBEsN3Kcm2PI) | [Late Night Light](https://open.spotify.com/album/6FLiHaqsbAnF9vSwDgepAl) | 2:29 | 2022-06-24 | 2022-10-07 |
 | [Late Night Opening at the Aquarium](https://open.spotify.com/track/2xG9UFCVG5RSj0QWBTeBUY) | [M e a d o w](https://open.spotify.com/artist/6kG4rnzy0AVEvZb7RGZtoy), [Dotlights](https://open.spotify.com/artist/5HoxUV5njSmYDj1U9i9zHY) | [Late Night Opening at the Aquarium](https://open.spotify.com/album/4rNTv5agD73FfpmsWHaqWq) | 2:15 | 2022-11-11 | 2024-01-26 |

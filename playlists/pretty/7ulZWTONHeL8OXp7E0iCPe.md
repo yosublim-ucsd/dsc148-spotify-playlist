@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7ulZWTONHeL8OXp7E0iCPe.md) - [plain]
 
 > 
 
-[Smit Mehta](https://open.spotify.com/user/2ot8an8oisha0eialjk34kqjz) - 0 like - 31 songs - 1 hr 44 min
+[Smit Mehta](https://open.spotify.com/user/2ot8an8oisha0eialjk34kqjz) - 0 like - 30 songs - 1 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,6 +38,5 @@ pretty - [cumulative](/playlists/cumulative/7ulZWTONHeL8OXp7E0iCPe.md) - [plain]
 | 28 | [Soy Yo](https://open.spotify.com/track/4Egb5xP6cniUx0kgZd5zLB) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Amanecer](https://open.spotify.com/album/7GQzUp6R1CtA9CmsVZg090) | 2:39 |
 | 29 | [Baila Baila Baila \- Remix](https://open.spotify.com/track/7mWFF4gPADjTQjC97CgFVt) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Baila Baila Baila \(Remix\) \[feat\. Farruko, Anuel Aa\]](https://open.spotify.com/album/2njbaonul4fuGOFmPchUgU) | 3:55 |
 | 30 | [Pra te Machucar](https://open.spotify.com/track/70wiOPOzLE5VPWdiB0KNH3) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [ÀTTØØXXÁ](https://open.spotify.com/artist/43jyzP3h86XvtC8FQm4ow3), [Sukuward](https://open.spotify.com/artist/0HTe090uRvK2wjx8rdIOl3) | [Music Is The Weapon \(Reloaded\)](https://open.spotify.com/album/40IcRv5uAg0lpafKsxnQ9g) | 2:37 |
-| 31 | [Dollar](https://open.spotify.com/track/0z4zZNViQ01puQOlAFGGUy) | [Electric Guest](https://open.spotify.com/artist/7sgWBYtJpblXpJl2lU5WVs) | [KIN](https://open.spotify.com/album/5yccZqBhhSqWndfKVjNZQY) | 3:28 |
 
-Snapshot ID: `AAAAN8t0DjpvxZupqLH5DV4QdG4hqgYn`
+Snapshot ID: `AAAAOXUCBt/uNO58eV8CkUTIvi9tqZeS`

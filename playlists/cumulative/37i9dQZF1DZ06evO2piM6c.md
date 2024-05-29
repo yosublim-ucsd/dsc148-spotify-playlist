@@ -2,7 +2,7 @@
 
 ### [This Is Sade](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2piM6c)
 
-> This Is Sade\. Sus mejores éxitos, todos en una playlist.
+> This is Sade\. The essential tracks, all in one playlist.
 
 60 songs - 4 hr 33 min
 

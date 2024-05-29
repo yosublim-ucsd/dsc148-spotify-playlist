@@ -1,12 +1,12 @@
 {
   "description": "EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!",
-  "num_followers": 25686,
+  "num_followers": 25689,
   "original_name": "NEW EDM 2024 \u26a1 EDM HITS 2024 \u26a1 MUSICA ELECTRONICA 2024",
   "owner": {
     "name": "EDM Sauce",
     "url": "https://open.spotify.com/user/edmsauce"
   },
-  "snapshot_id": "AABfm7NbhsOElXe4TVLlrxdPxwTqX4kZ",
+  "snapshot_id": "AABfnI87Bgvprwfo5IUWVeqHBUeuO7KD",
   "tracks": [
     {
       "added_at": "2024-05-24 12:08:35",
@@ -132,8 +132,8 @@
           "url": "https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN"
         },
         {
-          "name": "Contra",
-          "url": "https://open.spotify.com/artist/73BAwJ65pT6RvwR7JEkfEv"
+          "name": "contra",
+          "url": "https://open.spotify.com/artist/5VYRcaryFLFZnA5HvnRHFi"
         },
         {
           "name": "OFFAIAH",
@@ -239,6 +239,26 @@
       "duration_ms": 215639,
       "name": "Wilderness",
       "url": "https://open.spotify.com/track/13BGROqdQYudEvPNoOwLix"
+    },
+    {
+      "added_at": "2024-05-28 14:07:50",
+      "album": {
+        "name": "You're Gonna Be Ok",
+        "url": "https://open.spotify.com/album/0buWgSBlbHzW6oHHliF6wM"
+      },
+      "artists": [
+        {
+          "name": "Rave Jesus",
+          "url": "https://open.spotify.com/artist/3mPHVEre3DiAHKuOCBFP8D"
+        },
+        {
+          "name": "SON.",
+          "url": "https://open.spotify.com/artist/4mA4iGdnkLQWW3klqWHbsJ"
+        }
+      ],
+      "duration_ms": 318750,
+      "name": "You're Gonna Be Ok",
+      "url": "https://open.spotify.com/track/5zj9j1K3gxkXsrNMUWdyTR"
     },
     {
       "added_at": "2024-05-24 12:24:37",

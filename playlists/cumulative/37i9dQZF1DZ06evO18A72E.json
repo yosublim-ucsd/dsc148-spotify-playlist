@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-14",
-  "description": "This is Panic! At The Disco. The essential tracks, all in one playlist.",
+  "description": "This Is Panic! At The Disco. Los temas esenciales, todos en una lista.",
   "name": "This Is Panic! At The Disco",
   "tracks": [
     {
@@ -182,7 +182,7 @@
       ],
       "date_added": "2024-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-17",
+      "date_removed": null,
       "duration_ms": 219466,
       "name": "Dancing's Not a Crime",
       "url": "https://open.spotify.com/track/6PFoEnjp0PAe5siGswjH9i"
@@ -200,7 +200,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-28",
+      "date_removed": null,
       "duration_ms": 203506,
       "name": "Death of a Bachelor",
       "url": "https://open.spotify.com/track/1BECwm5qkaBwlbfo4kpYx8"
@@ -218,7 +218,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-29",
       "duration_ms": 229517,
       "name": "Don't Let The Light Go Out",
       "url": "https://open.spotify.com/track/2Tg7Tc4H50u11aDpmSRQTB"
@@ -308,7 +308,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-28",
+      "date_removed": null,
       "duration_ms": 206840,
       "name": "Girls / Girls / Boys",
       "url": "https://open.spotify.com/track/2wEjPgOCEczmjlvq60LyQi"
@@ -380,7 +380,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-29",
       "duration_ms": 190946,
       "name": "High Hopes",
       "url": "https://open.spotify.com/track/1rqqCSm0Qe4I9rUvWncaom"
@@ -684,7 +684,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-29",
       "duration_ms": 186600,
       "name": "Nicotine",
       "url": "https://open.spotify.com/track/5Q4H1XkVHxQjnrHCUpS61d"
@@ -864,7 +864,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-29",
       "duration_ms": 192306,
       "name": "She's a Handsome Woman",
       "url": "https://open.spotify.com/track/3vl6Lv6TZO429Z2bBwCiZk"
@@ -900,7 +900,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-28",
+      "date_removed": null,
       "duration_ms": 195013,
       "name": "That Green Gentleman (Things Have Changed)",
       "url": "https://open.spotify.com/track/2d1D1E8M48hHE99u6BO8RN"
@@ -936,7 +936,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-29",
       "duration_ms": 171520,
       "name": "The Good, the Bad and the Dirty",
       "url": "https://open.spotify.com/track/5eoZTdiq4C4aoEfUwAN0ha"

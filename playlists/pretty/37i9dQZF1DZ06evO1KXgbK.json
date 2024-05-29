@@ -1,12 +1,12 @@
 {
-  "description": "This Is Dolly Parton. Los temas esenciales, todos en una lista.",
-  "num_followers": 245427,
+  "description": "This is Dolly Parton. The essential tracks, all in one playlist.",
+  "num_followers": 245453,
   "original_name": "This Is Dolly Parton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlJ7gAAAAADwYLl94I7IcBYVAcS6/xZr",
+  "snapshot_id": "ZlPNAAAAAADRGnGuwO2xkmtePQKyfiu/",
   "tracks": [
     {
       "added_at": null,
@@ -23,6 +23,22 @@
       "duration_ms": 162466,
       "name": "9 to 5",
       "url": "https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jolene (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2v2iR6vtrLVTyiNIEsv5Sg"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 161533,
+      "name": "Jolene",
+      "url": "https://open.spotify.com/track/5fdhThPDe6jQQDqCyWrdAn"
     },
     {
       "added_at": null,
@@ -47,18 +63,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jolene (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2v2iR6vtrLVTyiNIEsv5Sg"
+        "name": "Dolly",
+        "url": "https://open.spotify.com/album/3QmIn4Ilj5fV1eRbYzt21P"
       },
       "artists": [
         {
           "name": "Dolly Parton",
           "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        },
+        {
+          "name": "Kenny Rogers",
+          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
         }
       ],
-      "duration_ms": 161533,
-      "name": "Jolene",
-      "url": "https://open.spotify.com/track/5fdhThPDe6jQQDqCyWrdAn"
+      "duration_ms": 249360,
+      "name": "Islands in the Stream",
+      "url": "https://open.spotify.com/track/4mnOVRRXsaqg9Nb041xR8u"
     },
     {
       "added_at": null,
@@ -499,22 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Here You Come Again",
-        "url": "https://open.spotify.com/album/64yIGFoYJVg66fRXIxIYJr"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 188871,
-      "name": "Two Doors Down",
-      "url": "https://open.spotify.com/track/0EWJ1KT2q3RdbdQIUYqZsp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "My Tennessee Mountain Home",
         "url": "https://open.spotify.com/album/6q8iUpZY2133bBWl0KITcp"
       },
@@ -527,6 +531,22 @@
       "duration_ms": 187560,
       "name": "My Tennessee Mountain Home",
       "url": "https://open.spotify.com/track/6rQlfR31QLNCBrq0no1Qc2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Here You Come Again",
+        "url": "https://open.spotify.com/album/64yIGFoYJVg66fRXIxIYJr"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 188871,
+      "name": "Two Doors Down",
+      "url": "https://open.spotify.com/track/0EWJ1KT2q3RdbdQIUYqZsp"
     },
     {
       "added_at": null,
@@ -547,22 +567,6 @@
       "duration_ms": 203427,
       "name": "Seasons",
       "url": "https://open.spotify.com/track/3HCPcK7bCPAczLUfRmZEUn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Southern Accents",
-        "url": "https://open.spotify.com/album/21tc4DJs0FYI8Y0mF0x4Ob"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 267237,
-      "name": "Southern Accents",
-      "url": "https://open.spotify.com/track/2kTr8C8xtKJd4UCF9MhxM7"
     },
     {
       "added_at": null,
@@ -595,22 +599,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eagle When She Flies",
-        "url": "https://open.spotify.com/album/2YWXeKsHZVctFXi45IiS4n"
+        "name": "Southern Accents",
+        "url": "https://open.spotify.com/album/21tc4DJs0FYI8Y0mF0x4Ob"
       },
       "artists": [
         {
           "name": "Dolly Parton",
           "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        },
-        {
-          "name": "Ricky Van Shelton",
-          "url": "https://open.spotify.com/artist/4uaaRGr9KMfYPDaUnBIngc"
         }
       ],
-      "duration_ms": 206306,
-      "name": "Rockin' Years (with Ricky Van Shelton)",
-      "url": "https://open.spotify.com/track/7rRvH22GRxGvsz1d2AnRXM"
+      "duration_ms": 267237,
+      "name": "Southern Accents",
+      "url": "https://open.spotify.com/track/2kTr8C8xtKJd4UCF9MhxM7"
     },
     {
       "added_at": null,
@@ -631,6 +631,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Eagle When She Flies",
+        "url": "https://open.spotify.com/album/2YWXeKsHZVctFXi45IiS4n"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        },
+        {
+          "name": "Ricky Van Shelton",
+          "url": "https://open.spotify.com/artist/4uaaRGr9KMfYPDaUnBIngc"
+        }
+      ],
+      "duration_ms": 206306,
+      "name": "Rockin' Years (with Ricky Van Shelton)",
+      "url": "https://open.spotify.com/track/7rRvH22GRxGvsz1d2AnRXM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Hundred Highways (Extended Edition)",
         "url": "https://open.spotify.com/album/1S5rpgQP1fxgEixwIvTEpf"
       },
@@ -647,26 +667,6 @@
       "duration_ms": 226520,
       "name": "Lookin' for You (feat. Dolly Parton)",
       "url": "https://open.spotify.com/track/6tTCpZ6peX8JLSHNMn5RwB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Words",
-        "url": "https://open.spotify.com/album/6pWNv9LbVXV2ZvlK3gvmRp"
-      },
-      "artists": [
-        {
-          "name": "Barry Gibb",
-          "url": "https://open.spotify.com/artist/7Hd38PVp634oGEb9pIDs5d"
-        },
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 191928,
-      "name": "Words",
-      "url": "https://open.spotify.com/track/733sNPL4OMX4iN8DE6p2RH"
     },
     {
       "added_at": null,
@@ -695,26 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Glen Campbell Duets: Ghost On The Canvas Sessions",
-        "url": "https://open.spotify.com/album/5YFkGhaiIJVkOqfmq3IvAw"
-      },
-      "artists": [
-        {
-          "name": "Glen Campbell",
-          "url": "https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U"
-        },
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 113761,
-      "name": "A Better Place (with Dolly Parton)",
-      "url": "https://open.spotify.com/track/0YCzc9CQkXubeYtLLLAJYK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Life Is Like A Song (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7AsEZkD4zsAJYkTDZrJgZu"
       },
@@ -731,6 +711,26 @@
       "duration_ms": 193906,
       "name": "Tell Me That You Love Me",
       "url": "https://open.spotify.com/track/19Z6qdxGAmRjesTtHL3uFD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Glen Campbell Duets: Ghost On The Canvas Sessions",
+        "url": "https://open.spotify.com/album/5YFkGhaiIJVkOqfmq3IvAw"
+      },
+      "artists": [
+        {
+          "name": "Glen Campbell",
+          "url": "https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U"
+        },
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 113761,
+      "name": "A Better Place (with Dolly Parton)",
+      "url": "https://open.spotify.com/track/0YCzc9CQkXubeYtLLLAJYK"
     },
     {
       "added_at": null,

@@ -214,7 +214,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-29",
       "duration_ms": 248275,
       "name": "Awake",
       "url": "https://open.spotify.com/track/6pEQUJelejN4xL3bhE4Khk"
@@ -4296,6 +4296,24 @@
       "duration_ms": 222068,
       "name": "Spartanz - Bou Remix",
       "url": "https://open.spotify.com/track/3C7cOylp1OQNr6Bud2TKlC"
+    },
+    {
+      "album": {
+        "name": "Spend The Night",
+        "url": "https://open.spotify.com/album/78JrRQCZ8HppWoAXBkHBe7"
+      },
+      "artists": [
+        {
+          "name": "Cameron Hayes",
+          "url": "https://open.spotify.com/artist/1YXcpHpeg9PwsUBJwe9fgX"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187339,
+      "name": "Spend The Night",
+      "url": "https://open.spotify.com/track/4OoNi7RLLVKGlDcLgWPyKX"
     },
     {
       "album": {

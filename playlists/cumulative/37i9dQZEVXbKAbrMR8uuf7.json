@@ -7103,6 +7103,24 @@
     },
     {
       "album": {
+        "name": "don't talk",
+        "url": "https://open.spotify.com/album/2UP9fNIC9UicIJ82kceK1L"
+      },
+      "artists": [
+        {
+          "name": "leftovermax",
+          "url": "https://open.spotify.com/artist/6V5fHkuCfZknzDBr5Wm7Rj"
+        }
+      ],
+      "date_added": "2024-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138240,
+      "name": "don't talk",
+      "url": "https://open.spotify.com/track/3H0UjyEN9hddNiLkVBbpHW"
+    },
+    {
+      "album": {
         "name": "ESTRELLA",
         "url": "https://open.spotify.com/album/0SoJvPHbKVhvmVJOp3kzp3"
       },
@@ -7390,6 +7408,32 @@
       "duration_ms": 205090,
       "name": "D\u00c1KITI",
       "url": "https://open.spotify.com/track/4MzXwWMhyBbmu6hOcLVD49"
+    },
+    {
+      "album": {
+        "name": "D\u00eda a D\u00eda",
+        "url": "https://open.spotify.com/album/6NUVduUgfzC2CNeJLll5r1"
+      },
+      "artists": [
+        {
+          "name": "El Once",
+          "url": "https://open.spotify.com/artist/3Onxhlfy0xHUxffB0RK8E0"
+        },
+        {
+          "name": "Papy Crish",
+          "url": "https://open.spotify.com/artist/1gxE3M7ybmIpfmI6qexrO6"
+        },
+        {
+          "name": "El Componentte",
+          "url": "https://open.spotify.com/artist/4goASIkY45v9aFgDd2xnMO"
+        }
+      ],
+      "date_added": "2024-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267151,
+      "name": "D\u00eda a D\u00eda",
+      "url": "https://open.spotify.com/track/50RF4UKzuQnqns0k88iZcU"
     },
     {
       "album": {
@@ -8468,6 +8512,28 @@
       "duration_ms": 176000,
       "name": "Ens\u00e9\u00f1ame a Bailar",
       "url": "https://open.spotify.com/track/2NMjggapJcXXM7WccGEBUO"
+    },
+    {
+      "album": {
+        "name": "Envenenao",
+        "url": "https://open.spotify.com/album/3ww7KDDQ1lQQyuvNGHszNY"
+      },
+      "artists": [
+        {
+          "name": "Papera",
+          "url": "https://open.spotify.com/artist/0L7AJNWmGtSjzASON8eTDW"
+        },
+        {
+          "name": "Chucky73",
+          "url": "https://open.spotify.com/artist/5IwRo4xhRz5JM2y5IXHjcU"
+        }
+      ],
+      "date_added": "2024-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125387,
+      "name": "Envenenao",
+      "url": "https://open.spotify.com/track/57WxIK1nE2SL9t2edmCNRB"
     },
     {
       "album": {
@@ -10884,7 +10950,7 @@
       ],
       "date_added": "2024-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-26",
+      "date_removed": null,
       "duration_ms": 216338,
       "name": "Hey Lil Mama",
       "url": "https://open.spotify.com/track/5QtB74eCS2YzHvEfSlh8MG"
@@ -10906,7 +10972,7 @@
       ],
       "date_added": "2024-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-29",
       "duration_ms": 136489,
       "name": "Hey Ma - Radio Edit",
       "url": "https://open.spotify.com/track/0Z66HbL6eYmFCC4GIEqiPk"
@@ -13784,7 +13850,7 @@
       ],
       "date_added": "2024-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-29",
       "duration_ms": 343863,
       "name": "Let Me Tell You",
       "url": "https://open.spotify.com/track/2BMVcnzHoBHdxmJLI7e46N"
@@ -16684,7 +16750,7 @@
       ],
       "date_added": "2023-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-29",
       "duration_ms": 229276,
       "name": "Mi Todo",
       "url": "https://open.spotify.com/track/02Rs1gB9idwpTtgcyciiuY"
@@ -18652,7 +18718,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-27",
+      "date_removed": null,
       "duration_ms": 95783,
       "name": "One Time",
       "url": "https://open.spotify.com/track/17MhO4CkAL6qWy6jxO9B6a"
@@ -19776,7 +19842,7 @@
       ],
       "date_added": "2024-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-29",
       "duration_ms": 137333,
       "name": "Perra",
       "url": "https://open.spotify.com/track/5rmCqpZEaO7ARK2KDWhXKK"
@@ -24366,7 +24432,7 @@
       ],
       "date_added": "2024-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-29",
       "duration_ms": 204649,
       "name": "Sicaria",
       "url": "https://open.spotify.com/track/02AZnoKXGEeOrTI9xrtOsg"
@@ -24812,7 +24878,7 @@
       ],
       "date_added": "2024-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-29",
       "duration_ms": 116683,
       "name": "Sobalo",
       "url": "https://open.spotify.com/track/5Zy0g1WbeA3JM3INpYWoyN"
@@ -29232,7 +29298,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-26",
+      "date_removed": null,
       "duration_ms": 196363,
       "name": "WYA",
       "url": "https://open.spotify.com/track/5lCMDnVpGTuFC7YejgpTIF"

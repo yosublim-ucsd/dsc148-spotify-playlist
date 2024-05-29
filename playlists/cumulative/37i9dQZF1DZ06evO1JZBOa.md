@@ -2,7 +2,7 @@
 
 ### [This Is Manu Dibango](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1JZBOa)
 
-> This is Manu Dibango\. Todos os maiores hits em uma só playlist.
+> This is Manu Dibango\. The essential tracks, all in one playlist.
 
 138 songs - 10 hr 27 min
 
@@ -49,7 +49,7 @@
 | [Diarabi \(feat\. Bonga, Touré Kunda\)](https://open.spotify.com/track/2UMCl2uPMWVoylBBOAjkqG) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW), [Bonga](https://open.spotify.com/artist/0I6bdBR4Q7uoc3HI1OgI8C), [Touré Kunda](https://open.spotify.com/artist/76ynyZUsg0vGxiQSWvQx5f) | [Wakafrika](https://open.spotify.com/album/0HFQkFxNEhRA91aRyqGmCC) | 4:58 | 2021-12-28 |  |
 | [Du bush a bush](https://open.spotify.com/track/6OqaYMzgKyk1Ne3BGz3ueT) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Afro\-Soul Machine](https://open.spotify.com/album/1yRSGm5kcA6QJhiGNeTio4) | 4:56 | 2021-12-29 | 2022-09-03 |
 | [Ekedi](https://open.spotify.com/track/52TgFDmez9q5YCmV4EHGOK) | [Akalé Wubé](https://open.spotify.com/artist/2jjVw1rNPydSwqfJc5uSdn), [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Anbessa](https://open.spotify.com/album/5ff8xqsSumGyofa9LEY8r4) | 2:52 | 2022-10-12 |  |
-| [Ekedi](https://open.spotify.com/track/0XSpOxozClQO2pKs2fLNX4) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [The Very Best of Manu Dibango: Afro Soul Jazz from the Original Makossa Man](https://open.spotify.com/album/02v98oaLbJQweqTYB3tAgv) | 2:48 | 2023-02-20 |  |
+| [Ekedi](https://open.spotify.com/track/0XSpOxozClQO2pKs2fLNX4) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [The Very Best of Manu Dibango: Afro Soul Jazz from the Original Makossa Man](https://open.spotify.com/album/02v98oaLbJQweqTYB3tAgv) | 2:48 | 2023-02-20 | 2024-05-29 |
 | [El Manicero](https://open.spotify.com/track/6vG5U3Oi7RBLTD7sUf6olT) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW), [Cuarteto Patria](https://open.spotify.com/artist/4Ui5j0V10gw9x6KF7yiGSG) | [Cubafrica](https://open.spotify.com/album/1a5ZTTfoUkHhIpnaegSI6z) | 5:44 | 2021-12-28 |  |
 | [El Paralitico](https://open.spotify.com/track/3sguwzQ6yFKV4bOlaWkODj) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW), [Cuarteto Patria](https://open.spotify.com/artist/4Ui5j0V10gw9x6KF7yiGSG) | [Cubafrica](https://open.spotify.com/album/1a5ZTTfoUkHhIpnaegSI6z) | 4:51 | 2022-04-11 | 2022-09-03 |
 | [Emma \(feat\. Salif Keita\)](https://open.spotify.com/track/1ltlkrZ2qV3JlCbdXNUa3N) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW), [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Wakafrika](https://open.spotify.com/album/0HFQkFxNEhRA91aRyqGmCC) | 5:54 | 2021-12-28 |  |
@@ -110,7 +110,7 @@
 | [Qui Est Fou De Qui? \- Chouchou](https://open.spotify.com/track/24yVlN5kOcPLzAe0nuZ9p5) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Manu 76](https://open.spotify.com/album/0Dw4vJzTx70RTxa8d7NXiJ) | 4:01 | 2021-12-28 |  |
 | [Quizas Quizas](https://open.spotify.com/track/6TwjWoZvWcamsIhxsewOZd) | [Cuarteto Patria](https://open.spotify.com/artist/4Ui5j0V10gw9x6KF7yiGSG), [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Cubafrica](https://open.spotify.com/album/2LKgfPJtRIuHTh5wgi7N8Q) | 6:34 | 2022-04-29 | 2024-04-14 |
 | [Quizas, Quizas, Quizas](https://open.spotify.com/track/1pt8kpkzmQ9O3xn4qCxL4Y) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW), [Cuarteto Patria](https://open.spotify.com/artist/4Ui5j0V10gw9x6KF7yiGSG) | [Cubafrica](https://open.spotify.com/album/1a5ZTTfoUkHhIpnaegSI6z) | 6:35 | 2021-12-28 |  |
-| [Reggae Makossa](https://open.spotify.com/track/7yVaY0KgC79HynS5qJPJ72) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Gone Clear \(The Complete Kingston Sessions\)](https://open.spotify.com/album/2DTqR31j9GAyHoWK2smUAt) | 6:36 | 2024-01-09 | 2024-05-26 |
+| [Reggae Makossa](https://open.spotify.com/track/7yVaY0KgC79HynS5qJPJ72) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Gone Clear \(The Complete Kingston Sessions\)](https://open.spotify.com/album/2DTqR31j9GAyHoWK2smUAt) | 6:36 | 2024-01-09 |  |
 | [Reggae Makossa](https://open.spotify.com/track/6XR29umHoZKLmQRoJgUC2o) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Afro\-Soul Machine](https://open.spotify.com/album/1yRSGm5kcA6QJhiGNeTio4) | 6:37 | 2021-12-28 | 2024-01-05 |
 | [Rumba Makossa](https://open.spotify.com/track/3IBDRtyRDiyj6ZjbyPHWdF) | [Cuarteto Patria](https://open.spotify.com/artist/4Ui5j0V10gw9x6KF7yiGSG), [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Cubafrica](https://open.spotify.com/album/2LKgfPJtRIuHTh5wgi7N8Q) | 4:36 | 2022-05-21 | 2022-06-10 |
 | [Rumba Makossa](https://open.spotify.com/track/4djQmaWEGTHjRpoLJJQSVt) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW), [Cuarteto Patria](https://open.spotify.com/artist/4Ui5j0V10gw9x6KF7yiGSG) | [Cubafrica](https://open.spotify.com/album/1a5ZTTfoUkHhIpnaegSI6z) | 4:36 | 2021-12-28 |  |
