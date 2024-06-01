@@ -454,7 +454,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 164191,
       "name": "Atmosphere",
       "url": "https://open.spotify.com/track/4f36yOtuLrOVxfWopiDjiw"
@@ -1326,7 +1326,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 172545,
       "name": "Careful What You Wish For (feat. Alida) [Club Mix]",
       "url": "https://open.spotify.com/track/50uVUAAKVcn35SHQ1Dtjbd"
@@ -1674,6 +1674,32 @@
       "duration_ms": 185624,
       "name": "Criminal Minds",
       "url": "https://open.spotify.com/track/661SaL85Dv0NV0wGhClHeq"
+    },
+    {
+      "album": {
+        "name": "Dance To The Beat (Pitchin')",
+        "url": "https://open.spotify.com/album/53GJ4zDB6gG6jm61tCO7aJ"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
+        {
+          "name": "Just_us",
+          "url": "https://open.spotify.com/artist/0iPzFfhXb2ilEodYsMoUX4"
+        },
+        {
+          "name": "Hi-Gate",
+          "url": "https://open.spotify.com/artist/3b2xWHAlRoTooJKEnhc2cv"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161029,
+      "name": "Dance To The Beat (Pitchin')",
+      "url": "https://open.spotify.com/track/5swGONEYPfI5mEG7clVsRj"
     },
     {
       "album": {
@@ -4352,7 +4378,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 176250,
       "name": "Let Me Be Your Fantasy",
       "url": "https://open.spotify.com/track/4fGOsBz3c3d3CXAmc1kLob"
@@ -6741,6 +6767,28 @@
     },
     {
       "album": {
+        "name": "Release",
+        "url": "https://open.spotify.com/album/6TCpdEars7CKK0KU2u2SP3"
+      },
+      "artists": [
+        {
+          "name": "AVAO",
+          "url": "https://open.spotify.com/artist/6bdAgX0KYeVKzqNhnARYBw"
+        },
+        {
+          "name": "Bobby Neon",
+          "url": "https://open.spotify.com/artist/4PM7RaZOTWCWNUfFrTczio"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236417,
+      "name": "Release",
+      "url": "https://open.spotify.com/track/2SOCGFplCaHwydWb8yv7hi"
+    },
+    {
+      "album": {
         "name": "REMINISCE",
         "url": "https://open.spotify.com/album/1Y4ABtKiNxOSu8WfBunKBP"
       },
@@ -6856,6 +6904,24 @@
       "duration_ms": 176000,
       "name": "Ride With Me (feat. Kid Ink) - Blasterjaxx & Tungevaag Remix",
       "url": "https://open.spotify.com/track/5A72ceCUwcsMUqkzd5t5Nu"
+    },
+    {
+      "album": {
+        "name": "Rise Up",
+        "url": "https://open.spotify.com/album/39qKI7hCcOnnrnXPoPbW11"
+      },
+      "artists": [
+        {
+          "name": "Marc Benjamin",
+          "url": "https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229714,
+      "name": "Rise Up",
+      "url": "https://open.spotify.com/track/50QgswlQoQIx6Zr2mS7Bnp"
     },
     {
       "album": {

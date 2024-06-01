@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Les meilleures nouveaut\u00e9s de la sc\u00e8ne rock fran\u00e7aise. Photo : Last Train",
+  "description": "Les meilleures nouveaut\u00e9s de la sc\u00e8ne rock fran\u00e7aise. Photo : Rendez Vous",
   "name": "Volume France",
   "tracks": [
     {
@@ -2325,6 +2325,24 @@
     },
     {
       "album": {
+        "name": "The Great Listener",
+        "url": "https://open.spotify.com/album/6QvP6aqsSCCbdYTo6gBikb"
+      },
+      "artists": [
+        {
+          "name": "FENCES \\\\\\\\",
+          "url": "https://open.spotify.com/artist/52mzp7EISAFBNXsDnHHFwv"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222937,
+      "name": "One Face And A Hundred Souls",
+      "url": "https://open.spotify.com/track/393hKvpbS4ZFJyXX1JKdcy"
+    },
+    {
+      "album": {
         "name": "OWL IN OWL",
         "url": "https://open.spotify.com/album/1CpujWPVAXNKIrkDFyd4R7"
       },
@@ -2340,6 +2358,24 @@
       "duration_ms": 196764,
       "name": "OWL IN OWL",
       "url": "https://open.spotify.com/track/6YkjlCD3MOYl6YBdBohKdC"
+    },
+    {
+      "album": {
+        "name": "Oxyg\u00e8ne Pur",
+        "url": "https://open.spotify.com/album/4nAfQi0pIHkOZRzKOIcA21"
+      },
+      "artists": [
+        {
+          "name": "Timoth\u00e9e Joly",
+          "url": "https://open.spotify.com/artist/6BZC93YSqYoCWYItIVlQya"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210810,
+      "name": "Oxyg\u00e8ne Pur",
+      "url": "https://open.spotify.com/track/1kSz44REfDAljyMl25XnC3"
     },
     {
       "album": {
@@ -2390,7 +2426,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 204226,
       "name": "Poings en l'air",
       "url": "https://open.spotify.com/track/3rm9b1Djmm6wt9G3DZ1o5I"
@@ -2588,7 +2624,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 178595,
       "name": "Rosie",
       "url": "https://open.spotify.com/track/7oq7adFTDnz7IYMjOCCaEI"
@@ -2678,7 +2714,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 375614,
       "name": "SCARS",
       "url": "https://open.spotify.com/track/3TKuILixxJfr2Ug32K8XfQ"
@@ -3756,6 +3792,24 @@
       "duration_ms": 163186,
       "name": "Vomit Candy",
       "url": "https://open.spotify.com/track/21ir1Jx963He5dvy6WeFg5"
+    },
+    {
+      "album": {
+        "name": "Wake Up And Run",
+        "url": "https://open.spotify.com/album/6aqGXCLhXYxFsUpuXOw69T"
+      },
+      "artists": [
+        {
+          "name": "Headcharger",
+          "url": "https://open.spotify.com/artist/34M4LcAKFb4852Iigq7BNv"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208683,
+      "name": "Wake Up And Run",
+      "url": "https://open.spotify.com/track/1EIafjiwfoNU83IiSGJgF2"
     },
     {
       "album": {

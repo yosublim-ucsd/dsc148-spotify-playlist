@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-19",
-  "description": "Naye Indie gaano ka khazana! Cover- Akanksha Sethi",
+  "description": "Naye Indie gaano ka khazana! Cover- Aditya Bhardwaj",
   "name": "Naya Indiestan",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 147538,
       "name": "5 am",
       "url": "https://open.spotify.com/track/2Wn4C2J3naPghLX3pDSJra"
@@ -630,6 +630,28 @@
       "duration_ms": 184160,
       "name": "Ae Bandey",
       "url": "https://open.spotify.com/track/0eVEI23kHZob5VL93Iy6cI"
+    },
+    {
+      "album": {
+        "name": "Ain't Like Me",
+        "url": "https://open.spotify.com/album/0otiNZRoLLu0VLkBvdzpqj"
+      },
+      "artists": [
+        {
+          "name": "Clifr",
+          "url": "https://open.spotify.com/artist/1o9ja4Dha8IqKI3e5DpH14"
+        },
+        {
+          "name": "RANJ",
+          "url": "https://open.spotify.com/artist/1vR6C8xoVTgy9yVRsCsr7H"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122000,
+      "name": "Ain't Like Me",
+      "url": "https://open.spotify.com/track/11Ecuz9pbeML5CuluIw088"
     },
     {
       "album": {
@@ -1801,6 +1823,24 @@
     },
     {
       "album": {
+        "name": "Bhare Naina",
+        "url": "https://open.spotify.com/album/0tY5LWUa04hAoyBCc4VydW"
+      },
+      "artists": [
+        {
+          "name": "Khayaal",
+          "url": "https://open.spotify.com/artist/5Kfjxy64QteoXxlMjjNU48"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163083,
+      "name": "Bhare Naina",
+      "url": "https://open.spotify.com/track/64Axru3p8cCiqIC2Cwi1Tj"
+    },
+    {
+      "album": {
         "name": "Bin Tere",
         "url": "https://open.spotify.com/album/4vTudmkF2X0nlMCcXMUixp"
       },
@@ -2385,6 +2425,24 @@
     },
     {
       "album": {
+        "name": "Dheere Chal",
+        "url": "https://open.spotify.com/album/22WI7NjG4HmI9Qn72UKbNJ"
+      },
+      "artists": [
+        {
+          "name": "Trishita Recs",
+          "url": "https://open.spotify.com/artist/4lB0A51UgKHZ00Uhuta9K4"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230076,
+      "name": "Dheere Chal",
+      "url": "https://open.spotify.com/track/0GPOE5IFsmlmCYAuPiSeY4"
+    },
+    {
+      "album": {
         "name": "Dhuaan",
         "url": "https://open.spotify.com/album/3TzWaLcyDRndLFSuIEvUK4"
       },
@@ -2414,7 +2472,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 172500,
       "name": "Dhuun Mein",
       "url": "https://open.spotify.com/track/14b4w1LxwxhC25C3uXDoe5"
@@ -2594,6 +2652,28 @@
       "duration_ms": 224470,
       "name": "Dil Ki Dastan",
       "url": "https://open.spotify.com/track/3S0kZyO86KTfKae540RV3I"
+    },
+    {
+      "album": {
+        "name": "Dil Ki Sun",
+        "url": "https://open.spotify.com/album/3rTpYFI0QgbDBr7eYvgk55"
+      },
+      "artists": [
+        {
+          "name": "SidB",
+          "url": "https://open.spotify.com/artist/1y6bxUL1fVTzt3YSVBf0FG"
+        },
+        {
+          "name": "Raghav Meattle",
+          "url": "https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151944,
+      "name": "Dil Ki Sun",
+      "url": "https://open.spotify.com/track/7v00ixDSFXf7HcqzD1ZK6M"
     },
     {
       "album": {
@@ -2901,6 +2981,24 @@
     },
     {
       "album": {
+        "name": "Duh",
+        "url": "https://open.spotify.com/album/13y7aIzDp0EDnrdqv8AdBd"
+      },
+      "artists": [
+        {
+          "name": "Aditya Bhardwaj",
+          "url": "https://open.spotify.com/artist/4LZrB16vINsCHc28cE6oQo"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217021,
+      "name": "Duh",
+      "url": "https://open.spotify.com/track/4T9MEzjgBKJrpbK8l9BfbP"
+    },
+    {
+      "album": {
         "name": "Duur Hai Wo",
         "url": "https://open.spotify.com/album/21ZHoICkVEBGFnoNiSPhBz"
       },
@@ -2960,6 +3058,28 @@
       "duration_ms": 293437,
       "name": "Ek Deewane Ko",
       "url": "https://open.spotify.com/track/2z0a7Fk1pBfj9et2nd5tS3"
+    },
+    {
+      "album": {
+        "name": "Everybody Dances To Techno (Bulli Bainbridge Remix)",
+        "url": "https://open.spotify.com/album/7htat6llhvTRAQqauWv0bt"
+      },
+      "artists": [
+        {
+          "name": "Dot.",
+          "url": "https://open.spotify.com/artist/1Z0J1QCG3GekVONuHuhCu4"
+        },
+        {
+          "name": "Bulli Bainbridge",
+          "url": "https://open.spotify.com/artist/3irO1ys8YPQlLSIihAiuIJ"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168904,
+      "name": "Everybody Dances To Techno (Bulli Bainbridge Remix)",
+      "url": "https://open.spotify.com/track/30EYAtDZzwHQQtTJDYXQPu"
     },
     {
       "album": {
@@ -4348,6 +4468,10 @@
         {
           "name": "maahi",
           "url": "https://open.spotify.com/artist/59cXfBldx8F2Fpq86R4MVV"
+        },
+        {
+          "name": "Shayra Apoorva",
+          "url": "https://open.spotify.com/artist/2l6dWCvNtJVgvF2oR7kUg8"
         }
       ],
       "date_added": "2024-05-23",
@@ -4450,6 +4574,28 @@
       "duration_ms": 161586,
       "name": "Jaane Anjaane",
       "url": "https://open.spotify.com/track/6yo5kQUJXTP6Ov1JFL2rqr"
+    },
+    {
+      "album": {
+        "name": "Jaane De",
+        "url": "https://open.spotify.com/album/4wSMbb9803Lo5jNuhUjG9p"
+      },
+      "artists": [
+        {
+          "name": "Samahita Narang",
+          "url": "https://open.spotify.com/artist/4EBQpbs8lhMmXp1ZLNAQl4"
+        },
+        {
+          "name": "Susmit Sen",
+          "url": "https://open.spotify.com/artist/05dWvaSp7ABuXclHkVPi5s"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240500,
+      "name": "Jaane De",
+      "url": "https://open.spotify.com/track/435ZpMDOMhgTovMiG7HW0y"
     },
     {
       "album": {
@@ -5712,7 +5858,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 158822,
       "name": "Khoya",
       "url": "https://open.spotify.com/track/2BpqADDmSvfVuvBzav5pO0"
@@ -6732,7 +6878,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 183857,
       "name": "Lifafey",
       "url": "https://open.spotify.com/track/2jYibhnPksqxoHE4ayFS2t"
@@ -6980,7 +7126,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 201000,
       "name": "Manchala Dil",
       "url": "https://open.spotify.com/track/11PfzQFrjRwud5F2iKMUML"
@@ -7781,6 +7927,24 @@
     },
     {
       "album": {
+        "name": "nadaaniyan",
+        "url": "https://open.spotify.com/album/5iB4wggqDR2cQSduJGBfUy"
+      },
+      "artists": [
+        {
+          "name": "Akshath",
+          "url": "https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171063,
+      "name": "nadaaniyan",
+      "url": "https://open.spotify.com/track/3bmsaFp11I9pbicxzlStf3"
+    },
+    {
+      "album": {
         "name": "Nadaaniyan",
         "url": "https://open.spotify.com/album/4EAuRm1fb6dxiTpphl3Zm2"
       },
@@ -8224,7 +8388,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 153214,
       "name": "Paaro",
       "url": "https://open.spotify.com/track/5ByLpy1feHoHXoM4IC4BvW"
@@ -8996,7 +9160,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 210277,
       "name": "Raaziyan",
       "url": "https://open.spotify.com/track/5myMQAmTqCkq0oWu4NN2n9"
@@ -11262,7 +11426,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 163024,
       "name": "Tu Hai",
       "url": "https://open.spotify.com/track/3l66ys6wEI5DPmvwgl0ak1"
@@ -12015,6 +12179,24 @@
     },
     {
       "album": {
+        "name": "Nature Tapes, Vol. 1",
+        "url": "https://open.spotify.com/album/3JxsX5nmbAn0lMrOcD5gPA"
+      },
+      "artists": [
+        {
+          "name": "When Chai Met Toast",
+          "url": "https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304672,
+      "name": "When We Feel Young - Nature Tapes",
+      "url": "https://open.spotify.com/track/7D3Ye9VMbfDXU78FtR3pFt"
+    },
+    {
+      "album": {
         "name": "wine & chill",
         "url": "https://open.spotify.com/album/1zefQRMCMUfhzc1amKryYw"
       },
@@ -12358,7 +12540,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 182000,
       "name": "Zindagi Meri",
       "url": "https://open.spotify.com/track/1xlSWJqfdHp0vZm1kLEZ59"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "The most intense local drill music firing up the continent. Cover:  Beeztrap KOTM, Oseikrom Sikanii & Gyakie",
+  "description": "The most intense local drill music firing up the continent. Cover:  Jay Bahd ",
   "name": "Asakaa",
   "tracks": [
     {
@@ -312,6 +312,32 @@
       "duration_ms": 257227,
       "name": "Akatafoc",
       "url": "https://open.spotify.com/track/7jx82wdGMpdikLtSajhMb3"
+    },
+    {
+      "album": {
+        "name": "Behind The Scene",
+        "url": "https://open.spotify.com/album/07PfhFkWFIYJagOsULigKd"
+      },
+      "artists": [
+        {
+          "name": "Jay Bahd",
+          "url": "https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw"
+        },
+        {
+          "name": "Beeztrap KOTM",
+          "url": "https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn"
+        },
+        {
+          "name": "Kwaku DMC",
+          "url": "https://open.spotify.com/artist/4gP93834jVbocef9R42gQz"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245883,
+      "name": "Akatani",
+      "url": "https://open.spotify.com/track/2YBlrTA23CtP0rhoG5zqy7"
     },
     {
       "album": {
@@ -682,7 +708,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 166026,
       "name": "Balling",
       "url": "https://open.spotify.com/track/6Uy0HWtCberVnkKRKzWWmj"

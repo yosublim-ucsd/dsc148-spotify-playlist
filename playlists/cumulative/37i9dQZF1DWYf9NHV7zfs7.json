@@ -255,6 +255,24 @@
     },
     {
       "album": {
+        "name": "Amnesia",
+        "url": "https://open.spotify.com/album/7GwqD7j9ZqQ9RxgrFvjf3q"
+      },
+      "artists": [
+        {
+          "name": "Daniela Herrero",
+          "url": "https://open.spotify.com/artist/4DnisEwhpsBmBcyGvxRske"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141176,
+      "name": "Amnesia",
+      "url": "https://open.spotify.com/track/3RUIjX0W9vYO9GrttWPHfs"
+    },
+    {
+      "album": {
         "name": "Amor Libre",
         "url": "https://open.spotify.com/album/0FCNWttcDi6rF5pRuwppVx"
       },
@@ -318,6 +336,24 @@
       "duration_ms": 207187,
       "name": "Antes de Ti",
       "url": "https://open.spotify.com/track/23R68uWGdp07SwQdK8mWzI"
+    },
+    {
+      "album": {
+        "name": "El incre\u00edble cool",
+        "url": "https://open.spotify.com/album/711mtlJlzuMoyMjU10JXpf"
+      },
+      "artists": [
+        {
+          "name": "Mike Amigorena",
+          "url": "https://open.spotify.com/artist/5u3Tm9K02qnBGQ5QZjU2LA"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Antifaz",
+      "url": "https://open.spotify.com/track/58sfWnDD2m6v9jj3Bfkrfx"
     },
     {
       "album": {
@@ -790,7 +826,7 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 267960,
       "name": "Coraz\u00f3n Salvaje",
       "url": "https://open.spotify.com/track/3zwTjNO3wlSsLuXqIha8Sf"
@@ -928,7 +964,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 184213,
       "name": "Dejarlo Todo Afuera",
       "url": "https://open.spotify.com/track/7tjE7xrdAeCENpFRyj9rvP"
@@ -1150,7 +1186,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 212044,
       "name": "En tu casa o en la m\u00eda (feat. Conociendo Rusia)",
       "url": "https://open.spotify.com/track/6Y6dbhxP8gesJ5oTr7lBmi"
@@ -3467,6 +3503,24 @@
     },
     {
       "album": {
+        "name": "Poco A Poco",
+        "url": "https://open.spotify.com/album/1eMxYPZxOFhKKXmXp2JXDr"
+      },
+      "artists": [
+        {
+          "name": "Beruti",
+          "url": "https://open.spotify.com/artist/4Ozcco9RkNmJtg7qkCy8zI"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188458,
+      "name": "Poco A Poco",
+      "url": "https://open.spotify.com/track/17PNScmIfgnuToGVq5zM6U"
+    },
+    {
+      "album": {
         "name": "Por Segunda Vez",
         "url": "https://open.spotify.com/album/6k6CYagE7PFxVEaeqhUBZx"
       },
@@ -4390,7 +4444,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 178902,
       "name": "Una Cancion",
       "url": "https://open.spotify.com/track/1fwiCqRIR32fXZr3a78pBX"
@@ -4504,6 +4558,28 @@
       "duration_ms": 257379,
       "name": "VIVIR AS\u00cd ES MORIR DE AMOR",
       "url": "https://open.spotify.com/track/75HnDKDqsmEzdOKFWe5FZS"
+    },
+    {
+      "album": {
+        "name": "VIVO",
+        "url": "https://open.spotify.com/album/772S7hHdD0VpV4n5aN77E2"
+      },
+      "artists": [
+        {
+          "name": "Gepe",
+          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
+        },
+        {
+          "name": "Rub\u00e9n Albarr\u00e1n",
+          "url": "https://open.spotify.com/artist/7M75Am5m6J934JSviUOGz0"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176520,
+      "name": "VIVO",
+      "url": "https://open.spotify.com/track/5FiLiXXCn6dd7tESjc8nTt"
     },
     {
       "album": {

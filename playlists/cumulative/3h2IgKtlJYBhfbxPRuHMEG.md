@@ -2,9 +2,9 @@
 
 ### [Bass Drop](https://open.spotify.com/playlist/3h2IgKtlJYBhfbxPRuHMEG)
 
-> The best EDM, Trap, Electronic, Drum&amp;Bass\. Cover: IMANU
+> The best EDM, Trap, Electronic, Drum&amp;Bass\. Cover: Holly
 
-123 songs - 7 hr 0 min
+124 songs - 7 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [i think you're cool](https://open.spotify.com/track/6tkHWTety7Wd4Fv4oyGAcz) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Jenna Pemkowski](https://open.spotify.com/artist/29eVvwQJ6dwSiykc8RtlpG) | [Catching Z's](https://open.spotify.com/album/2Tkn1vJF1Fb5fdw2pm4Fz1) | 3:33 | 2023-12-01 | 2024-02-27 |
 | [i think you're cool \- IMANU x QUIET BISON Remix](https://open.spotify.com/track/6Ko6GXJn6zUyCShnmAw7Ym) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Jenna Pemkowski](https://open.spotify.com/artist/29eVvwQJ6dwSiykc8RtlpG), [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1), [QUIET BISON](https://open.spotify.com/artist/5PmmaiHnrygDvhj3kaPT0f) | [Catching Z's \(Remixes\)](https://open.spotify.com/album/0CygLCVwl4VC9uDvlO6snH) | 3:35 | 2023-12-01 |  |
 | [ID1](https://open.spotify.com/track/6B2iGXREq0qb0N5thBN279) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw) | [Nightmare On Rezz Street 2 Mix](https://open.spotify.com/album/5aRRt9zSKDEQdWghFvkiEi) | 2:54 | 2023-12-01 |  |
+| [IF YOU JUST A PUNK](https://open.spotify.com/track/3nNLXUWa47wFoICvbDC1jb) | [Holly](https://open.spotify.com/artist/65stAzefvkwLeulY8215Zo) | [IF YOU JUST A PUNK](https://open.spotify.com/album/6MzGJovzK9noVUf7lHfUqD) | 2:41 | 2024-05-31 |  |
 | [In My Head](https://open.spotify.com/track/0AB0UY1M9ie3OFCziEVAT1) | [Bensley](https://open.spotify.com/artist/3SfEKS85dj9v75ROsWJSiL) | [Cascade EP](https://open.spotify.com/album/3X8EqXGAwjvGj4Iarr2jvt) | 4:00 | 2023-12-01 |  |
 | [In The Stars](https://open.spotify.com/track/3qPJQhBBLPtr1R9ojGQFKk) | [Heyz](https://open.spotify.com/artist/5X1EM1jg35YB5jmw7qVIlh) | [Into The HEYZ, Part I](https://open.spotify.com/album/4Pmq8bZNhxmBYBdGzMhjg4) | 3:40 | 2023-12-01 |  |
 | [Incubator](https://open.spotify.com/track/5hDu5RuLPXJC75IUNzv4af) | [EDDIE](https://open.spotify.com/artist/0LgrViZrCyMgg5MfTc33bd) | [Incubator](https://open.spotify.com/album/7dI7AvrDZLpVVwsvw2wRui) | 2:22 | 2023-12-01 |  |

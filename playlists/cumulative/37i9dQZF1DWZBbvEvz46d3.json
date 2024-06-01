@@ -1354,7 +1354,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 195789,
       "name": "Prawda o nas",
       "url": "https://open.spotify.com/track/5KTFOn80Y1tHAmBBb39sw9"
@@ -1442,6 +1442,28 @@
       "duration_ms": 181243,
       "name": "P\u00f3\u017ane godziny",
       "url": "https://open.spotify.com/track/3LT2xvnrLzjj442HEBBy1w"
+    },
+    {
+      "album": {
+        "name": "1976: A Space Odyssey",
+        "url": "https://open.spotify.com/album/1b31QujyuXOOLxasCvfTvn"
+      },
+      "artists": [
+        {
+          "name": "Zbigniew Wodecki",
+          "url": "https://open.spotify.com/artist/4WNxiqxAHcXWK9jWdevCIn"
+        },
+        {
+          "name": "Mitch & Mitch",
+          "url": "https://open.spotify.com/artist/2PQkXVCcXu0Nwf226rzGXq"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246186,
+      "name": "Rzu\u0107 Wszystko Co Z\u0142e",
+      "url": "https://open.spotify.com/track/11iQIrOyUNjzH6jJtC3NIb"
     },
     {
       "album": {

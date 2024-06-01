@@ -4,7 +4,7 @@
 
 > 人気ボカロ曲をプレイリストで。命を持たないVOCALOIDの魅力を特集。Biggest hits & fresh tracks of VOCALOID.
 
-590 songs - 1 day 9 hr 18 min
+592 songs - 1 day 9 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -420,6 +420,7 @@
 | [ミライどんなだろう \(feat\. 初音ミク\)](https://open.spotify.com/track/5Yi76YNCI6gav37aKqZugz) | [Mitchie M](https://open.spotify.com/artist/2MRx5cgvkudCT0FHafXcPx), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [ミライどんなだろう](https://open.spotify.com/album/7vowTD5xDgYuBSEm242RAL) | 3:29 | 2023-10-17 | 2023-11-08 |
 | [ミルククラウン・オン・ソーネチカ](https://open.spotify.com/track/2jxakPQFR2IBXVmvt5y8YB) | [YUZY](https://open.spotify.com/artist/7ddYo20mqfV4Xxzn81fmiw) | [ミルククラウン・オン・ソーネチカ](https://open.spotify.com/album/2ZOYB7FlGmoxNeGAq41iaS) | 3:36 | 2022-06-09 | 2022-07-21 |
 | [ムシ](https://open.spotify.com/track/0pmFAdNnqQaEWO6hj3jQ8e) | [Chinozo](https://open.spotify.com/artist/205dGSmCjnFA0Mjptshdsx) | [ムシ](https://open.spotify.com/album/0b5DgRJYVg14f2ooIOTCmN) | 2:42 | 2022-10-12 | 2022-10-21 |
+| [メズマライザー \(feat\. 初音ミク&重音テト\)](https://open.spotify.com/track/5ic62hKqeDhZsa9l6YQxzJ) | [Satsuki](https://open.spotify.com/artist/76SIHZoc1kOba5ynrOtvOX), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl), [重音テト](https://open.spotify.com/artist/7Al85ZdCo2ZoQiBghDSj7o) | [メズマライザー](https://open.spotify.com/album/3DkZ625ZGRV80f5aFnlPCL) | 2:36 | 2024-05-30 |  |
 | [メテオラ](https://open.spotify.com/track/2aiACmhUH2qbZOhSLZLQyi) | [Chinozo](https://open.spotify.com/artist/205dGSmCjnFA0Mjptshdsx) | [メテオラ](https://open.spotify.com/album/0JhUQTo9dUoGvvQzpa2dch) | 3:12 | 2023-10-17 | 2023-11-08 |
 | [メランコリック](https://open.spotify.com/track/2damFh3XZdKCS7STVInOPo) | [Junky](https://open.spotify.com/artist/27zGTaNhRigZ38OMUWNPnm) | [Kagaminext feat\. 鏡音リン、鏡音レン ―10th ANNIVERSARY BEST―](https://open.spotify.com/album/2HbzIEq99Mqb0VgGN1g3if) | 3:37 | 2022-06-23 | 2022-07-14 |
 | [メルティランドナイトメア](https://open.spotify.com/track/5e1Q8A0CImsHhtfjvEgf9z) | [Harumakigohan](https://open.spotify.com/artist/7y7byJwxSQxTOxuoAA9tcp) | [ネオドリームトラベラー](https://open.spotify.com/album/5G5D0OSg5puTVZMg4nVocH) | 4:26 | 2022-06-14 | 2022-07-26 |
@@ -451,7 +452,7 @@
 | [ワンダールインズ](https://open.spotify.com/track/0KJK8zSp8AMoKEYY03Sr26) | [晴いちばん](https://open.spotify.com/artist/6d739FHu1QAC7MGNWuMPCW) | [ワンダールインズ](https://open.spotify.com/album/70xv2TpvqR0kaoEM7wRpxf) | 2:32 | 2022-10-12 | 2022-10-21 |
 | [ワールズエンド・ダンスホール \-MIKUNOPOLIS in LOS ANGELES Live\-](https://open.spotify.com/track/3mMurBEHetvgoEOJRa3biN) | [wowaka](https://open.spotify.com/artist/65MYE6R7PCyVAhHrQploNT) | [MIKUNOPOLIS in LOS ANGELES “はじめまして、初音ミクです”](https://open.spotify.com/album/5orTbWsJiKdiKYivCwZz2Y) | 3:43 | 2022-06-14 | 2022-07-19 |
 | [ワールドイズマイン \-MIKUNOPOLIS in LOS ANGELES Live\-](https://open.spotify.com/track/1chETycPdQmdJsWX1BoMVj) | [ryo \(supercell\)](https://open.spotify.com/artist/5Ud2lekREUXjinNlIGjJIX) | [MIKUNOPOLIS in LOS ANGELES “はじめまして、初音ミクです”](https://open.spotify.com/album/5orTbWsJiKdiKYivCwZz2Y) | 2:58 | 2022-07-26 | 2022-10-14 |
-| [ヴァンパイア](https://open.spotify.com/track/0m9QPTZzjtqCWY9Jg8poHc) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [ヴァンパイア](https://open.spotify.com/album/75jCfqufoVvMLzpBXsbbjL) | 2:58 | 2022-06-09 |  |
+| [ヴァンパイア](https://open.spotify.com/track/0m9QPTZzjtqCWY9Jg8poHc) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [ヴァンパイア](https://open.spotify.com/album/75jCfqufoVvMLzpBXsbbjL) | 2:58 | 2022-06-09 | 2024-06-01 |
 | [ヴィラン](https://open.spotify.com/track/5CSVNJBsEPH3cM7S2iQgax) | [Teniwoha](https://open.spotify.com/artist/6agSBzJ9kJnlglVc271CLD) | [ヴィラン](https://open.spotify.com/album/4TOyg0s7b94h6HcFk8HL0U) | 3:20 | 2022-07-05 | 2022-07-10 |
 | [ヸシュヌ \(feat\. 初音ミク\)](https://open.spotify.com/track/3KNa2aUL6JttpHA7Q6nkDW) | [wotaku](https://open.spotify.com/artist/0685luDRQZRkN4JnhnRSKX) | [ヸシュヌ](https://open.spotify.com/album/2EhvXAkJ79B4AVfrYjHWsj) | 3:37 | 2022-06-28 | 2022-07-01 |
 | [一心不乱](https://open.spotify.com/track/75EGAQg5gJhUz69GSYufBt) | [UMETORA](https://open.spotify.com/artist/5ZjOsH8VbUcUs5LoDjeYOE) | [一心不乱](https://open.spotify.com/album/3A00yiXvch1ZRGBlMfr3hP) | 3:17 | 2022-06-09 | 2022-07-27 |
@@ -497,7 +498,7 @@
 | [夜咄ディセイブ \-TeddyLoid Hopping Remix\-](https://open.spotify.com/track/44VSRtW1INM92JoRRAaUeg) | [IA](https://open.spotify.com/artist/1oz1HYOyJhjshPi5Nvs3MX) | [MUSICAL & LIVE SHOW "ARIA" ORIGINAL SOUNDTRACK](https://open.spotify.com/album/2wSxEZWpc6ha8bFeMrmOJK) | 3:08 | 2022-06-21 | 2022-07-29 |
 | [夜明けと蛍](https://open.spotify.com/track/7zzMTPHYh2ntj2PLQyvrng) | [n\-buna](https://open.spotify.com/artist/5DvySD4yjxyj8NvBWNfImP) | [花と水飴、最終電車](https://open.spotify.com/album/5fgdRwwC6kohkB1WMT8QMR) | 5:08 | 2022-06-09 |  |
 | [大喜](https://open.spotify.com/track/0iBSqeDY6L8CYlluPCAs4h) | [StarlingEDM](https://open.spotify.com/artist/0a93wqFVaAkoKU1GqG7hvF) | [大喜](https://open.spotify.com/album/2apBfgycWk8DB9gCZ8CwqY) | 2:43 | 2022-07-14 | 2022-07-20 |
-| [天ノ弱](https://open.spotify.com/track/0UUV97Kf5nowsUWIxVs4bO) | [164](https://open.spotify.com/artist/4q1k4Y6SroqGJopNP90hYQ) | [天ノ弱 \(feat\. Mayumi Morinaga\)](https://open.spotify.com/album/0KshnO8rWAFXOdZHXwkqCH) | 3:06 | 2024-04-18 |  |
+| [天ノ弱](https://open.spotify.com/track/0UUV97Kf5nowsUWIxVs4bO) | [164](https://open.spotify.com/artist/4q1k4Y6SroqGJopNP90hYQ) | [天ノ弱 \(feat\. Mayumi Morinaga\)](https://open.spotify.com/album/0KshnO8rWAFXOdZHXwkqCH) | 3:06 | 2024-04-18 | 2024-06-01 |
 | [天使](https://open.spotify.com/track/6jw5E0T0vpB2ydhgSymvnD) | [Pedestrian](https://open.spotify.com/artist/6fIP2qKVhs77fnk8PqyzZg) | [atelier](https://open.spotify.com/album/7xIVP85Kp3XYjsitCpGyKO) | 2:49 | 2022-07-26 | 2022-07-28 |
 | [天才ロック \(feat\. 鏡音リン\)](https://open.spotify.com/track/01xhuS2onjqAzLdYxF25fj) | [Karasuya Sabou](https://open.spotify.com/artist/1UaHeL0MQ2sgcGGx4hasHA), [鏡音リン](https://open.spotify.com/artist/2gz31oKYxWOkb2KKixMv73) | [初音ミク「マジカルミライ」10th Anniversary OFFICIAL ALBUM](https://open.spotify.com/album/2YxLUDzV68rc9cM1v7SFeE) | 3:23 | 2022-10-27 | 2022-11-25 |
 | [太陽系デスコ](https://open.spotify.com/track/5A4WZNKHEiiuOgH7CBHBO6) | [Nayutalien](https://open.spotify.com/artist/0U2Emr9cdZNcbqSoKoWb8c) | [ナユタン星からの物体Y](https://open.spotify.com/album/1ntfyuln6tVqXY8RTqb3MQ) | 3:23 | 2022-06-14 | 2022-07-11 |
@@ -534,6 +535,7 @@
 | [最死](https://open.spotify.com/track/5vsjj6UtniWFn5t7PkzM7t) | [コウ](https://open.spotify.com/artist/2Dujiu1lbQ5WGsnpfvafrE) | [最死](https://open.spotify.com/album/1DcSxO4uWrorkAsZ3jP2kb) | 3:02 | 2022-06-14 | 2022-07-13 |
 | [木通を嗤ふ](https://open.spotify.com/track/6Abytg4tW8nEbJDQ73v78y) | [IDONO KAWAZU](https://open.spotify.com/artist/1PmgI9YvMsXkPpdlDwz15j) | [蛙の借り目](https://open.spotify.com/album/7Ad9VvbqL2qdx6dgoFpUUR) | 3:10 | 2022-06-30 | 2022-07-06 |
 | [未来Lieガール](https://open.spotify.com/track/3kBjOh9iZn8Rfk9ht7T8Uw) | [真羽](https://open.spotify.com/artist/1rUwk2HjE0GijE8c5YVuxN), [可不](https://open.spotify.com/artist/3VxmIoSoAMfL0xAAQ7jHqE) | [未来Lieガール](https://open.spotify.com/album/08SKIVm5Pa46AKMy5zVIhK) | 1:10 | 2022-07-14 | 2022-07-16 |
+| [歌うbot](https://open.spotify.com/track/2Ihf0kqtWi1bgCtqFJhfQE) | [Sasuke Haraguchi](https://open.spotify.com/artist/7uugnrrGcHNunhme3bP1y3) | [歌うbot](https://open.spotify.com/album/3Hlwsnj1teoUk2NQGoCNmI) | 2:02 | 2024-05-30 |  |
 | [死にたい人\*生きたい人](https://open.spotify.com/track/7iggqkoI6Y5eb5rKmHtHfl) | [おチビさん](https://open.spotify.com/artist/6jUnDTid8t97OCDDnvKcpj) | [救済世界](https://open.spotify.com/album/1onXEvibvFkGKJmTrf4rKl) | 2:52 | 2022-06-28 | 2022-07-01 |
 | [死んでしまったのだろうか](https://open.spotify.com/track/1sHDYdpV5dSiyqEYE7yNnF) | [Guiano](https://open.spotify.com/artist/1gIxoB0mBUoPr7rPyy31xf) | [Love & Music \-DISC1\-](https://open.spotify.com/album/1UoiramCzsnj0WItu5s60n) | 3:30 | 2022-06-09 | 2022-07-24 |
 | [死んでしまったんだ](https://open.spotify.com/track/7x2fFCV5fqdvHTIAO91vJ4) | [椎乃味醂](https://open.spotify.com/artist/0It67rh1sbAlCG80VXJVrk) | [死んでしまったんだ](https://open.spotify.com/album/7wBx0uYob6TGZ2K5Q02F81) | 2:59 | 2022-06-30 | 2022-07-21 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-09",
-  "description": "The R&B and good vibe tracks for your current mood. Cover:  RM",
+  "description": "The R&B and good vibe tracks for your current mood. Cover:  Jay Park",
   "name": "mood.",
   "tracks": [
     {
@@ -430,7 +430,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 206470,
       "name": "All I Need",
       "url": "https://open.spotify.com/track/1DB9ONNU2hzpnIRy6gnO64"
@@ -2664,7 +2664,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 217880,
       "name": "Dispose of Me",
       "url": "https://open.spotify.com/track/5tffEKZUyEbyThW6FH9VFS"
@@ -2959,6 +2959,24 @@
     },
     {
       "album": {
+        "name": "don't tell me that i'm going to hell",
+        "url": "https://open.spotify.com/album/12m4XCBwjeQ3wXb2EjXCq1"
+      },
+      "artists": [
+        {
+          "name": "Jean Seizure",
+          "url": "https://open.spotify.com/artist/2XI2CpdL1MtHXIt0rxa7mS"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229166,
+      "name": "don't tell me i'm going to hell",
+      "url": "https://open.spotify.com/track/2evOGNgFQEAhArKH7R8sWv"
+    },
+    {
+      "album": {
         "name": "DON'T THEY (REMIX) [feat. Normani]",
         "url": "https://open.spotify.com/album/54Ju4fs7XOHyEfjnXxAabD"
       },
@@ -2992,7 +3010,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 274246,
       "name": "Don't Worry",
       "url": "https://open.spotify.com/track/1DPzLkB6mQDj7dr5j1LX7S"
@@ -3755,6 +3773,28 @@
     },
     {
       "album": {
+        "name": "Feeling So Bright",
+        "url": "https://open.spotify.com/album/1Wahi7WWqZK0bY2FDu0AFd"
+      },
+      "artists": [
+        {
+          "name": "Nao Yoshioka",
+          "url": "https://open.spotify.com/artist/4YPiq62lEVjRdzhSlNto08"
+        },
+        {
+          "name": "MXXWLL",
+          "url": "https://open.spotify.com/artist/2KAcGNHkwCFJb7w19oaqmU"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242651,
+      "name": "Feeling So Bright",
+      "url": "https://open.spotify.com/track/51E8kKqDnLtbzCvdj1rtp5"
+    },
+    {
+      "album": {
         "name": "Feelings For You",
         "url": "https://open.spotify.com/album/5WVPOwHNsiXEXtQFigEuaR"
       },
@@ -3930,7 +3970,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 173592,
       "name": "Floatin",
       "url": "https://open.spotify.com/track/7fPXYO0OqiU2roIYKRzuwy"
@@ -4212,7 +4252,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 241511,
       "name": "FromHere (feat. Snoop Dogg & October London)",
       "url": "https://open.spotify.com/track/1kJK2dkXbMw8yOMFEuJUm7"
@@ -4778,7 +4818,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 195893,
       "name": "Guess I Should've Known",
       "url": "https://open.spotify.com/track/0vg9rIjo2WXxCOAqQhIfvO"
@@ -4956,7 +4996,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 221700,
       "name": "He Loves Us Both (feat. H.E.R.)",
       "url": "https://open.spotify.com/track/5SvKcEK87sdbOyrthx9ZAU"
@@ -5654,7 +5694,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 172777,
       "name": "I Know",
       "url": "https://open.spotify.com/track/5UJRrmcrapgTCEhpUlDFXH"
@@ -6388,7 +6428,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 195687,
       "name": "i\u2019ve found the love",
       "url": "https://open.spotify.com/track/3cVHmP4pgj2FUMmS4E3S73"
@@ -7184,7 +7224,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 233013,
       "name": "LOST!",
       "url": "https://open.spotify.com/track/02H58MSfVESkKyx4diDgu7"
@@ -7603,6 +7643,24 @@
     },
     {
       "album": {
+        "name": "Make Me Forget",
+        "url": "https://open.spotify.com/album/59CeMWslDVrFULYoxotqRl"
+      },
+      "artists": [
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238185,
+      "name": "Make Me Forget",
+      "url": "https://open.spotify.com/track/7pY0MF6y9pNpzxv7uTCJzD"
+    },
+    {
+      "album": {
         "name": "Make Me Wanna",
         "url": "https://open.spotify.com/album/12M4YKGroXOTB1VWY8jhtj"
       },
@@ -7698,7 +7756,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 192212,
       "name": "May flowers",
       "url": "https://open.spotify.com/track/7DdpBxdbpYBMXPPTVrrD6m"
@@ -8788,7 +8846,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 340000,
       "name": "On It",
       "url": "https://open.spotify.com/track/1ETUIsy5AB0vRex8R5XnKj"
@@ -11011,6 +11069,24 @@
     },
     {
       "album": {
+        "name": "SO FLY",
+        "url": "https://open.spotify.com/album/61I0kCBZg58MNlKZnRnfw0"
+      },
+      "artists": [
+        {
+          "name": "Fern.",
+          "url": "https://open.spotify.com/artist/7KoTRIhjkIQy2L8RjWDpfF"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "SO FLY",
+      "url": "https://open.spotify.com/track/4ECM8whdBiQV1vkovstrnW"
+    },
+    {
+      "album": {
         "name": "Softest Touch",
         "url": "https://open.spotify.com/album/3DZd5Fvl7UuxgMT0FXwsUi"
       },
@@ -11823,6 +11899,28 @@
     },
     {
       "album": {
+        "name": "Sway",
+        "url": "https://open.spotify.com/album/0Em41Gp1puLBGiVXh0BmxZ"
+      },
+      "artists": [
+        {
+          "name": "tylo",
+          "url": "https://open.spotify.com/artist/0vOXId0a8VxdS7AiUoSQwI"
+        },
+        {
+          "name": "Pseudo",
+          "url": "https://open.spotify.com/artist/4HqIcgpeGKabzBYczmfFgZ"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "Sway",
+      "url": "https://open.spotify.com/track/72jcArK2XacBC3coCyqD53"
+    },
+    {
+      "album": {
         "name": "Sweet",
         "url": "https://open.spotify.com/album/4rjYcvl3RNOvcEXGWkmZGX"
       },
@@ -11892,6 +11990,28 @@
       "duration_ms": 229844,
       "name": "Talk To Me Nice",
       "url": "https://open.spotify.com/track/0k4C2siRScZQAb7eIEQDI5"
+    },
+    {
+      "album": {
+        "name": "Jay Park Season 2",
+        "url": "https://open.spotify.com/album/0MazhZi5jQbkueKX52rkaR"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "NATTY",
+          "url": "https://open.spotify.com/artist/1Y3klzPXyHrinIk3tQ20Se"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230499,
+      "name": "Taxi Blurr (Feat. NATTY of KISS OF LIFE)",
+      "url": "https://open.spotify.com/track/5IY8i6WnkqvmRnIrF4lqDx"
     },
     {
       "album": {
@@ -13814,6 +13934,28 @@
       "duration_ms": 199146,
       "name": "When the Rain Comes",
       "url": "https://open.spotify.com/track/0mw1bEX0GYt1txWBjwGmRJ"
+    },
+    {
+      "album": {
+        "name": "Where Do We Go",
+        "url": "https://open.spotify.com/album/6RRlckOrJ2nXRWw2mFsP6j"
+      },
+      "artists": [
+        {
+          "name": "Kenny Gabriel",
+          "url": "https://open.spotify.com/artist/0UrV86j2SWIzZ98MKxzxYu"
+        },
+        {
+          "name": "Farrel Hilal",
+          "url": "https://open.spotify.com/artist/1J8zqQ7mkAaYY9jDBwu0Np"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203038,
+      "name": "Where Do We Go",
+      "url": "https://open.spotify.com/track/5kiytJIDxoUhGHN3rUCJqE"
     },
     {
       "album": {

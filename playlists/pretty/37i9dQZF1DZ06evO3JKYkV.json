@@ -1,12 +1,12 @@
 {
   "description": "This is Aphex Twin. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 63783,
+  "num_followers": 63892,
   "original_name": "This Is Aphex Twin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlPNAAAAAAB0cXjrC6smVtnd8tgFupot",
+  "snapshot_id": "ZlfBgAAAAAB53+lR7UlYnLkqmohoHVn2",
   "tracks": [
     {
       "added_at": null,
@@ -155,8 +155,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Come To Daddy",
-        "url": "https://open.spotify.com/album/6sIEBpy5gl3DqC6KPasPpx"
+        "name": "Syro",
+        "url": "https://open.spotify.com/album/4mwrMLVKo940qLFXEIef4w"
       },
       "artists": [
         {
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
         }
       ],
-      "duration_ms": 177266,
-      "name": "IZ-US",
-      "url": "https://open.spotify.com/track/6INSqTqDoz6ndc0oKTi0Sq"
+      "duration_ms": 191466,
+      "name": "180db_ [130]",
+      "url": "https://open.spotify.com/track/5oKbtirX6EbMMOgD2fMJ6E"
     },
     {
       "added_at": null,
@@ -187,8 +187,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Syro",
-        "url": "https://open.spotify.com/album/4mwrMLVKo940qLFXEIef4w"
+        "name": "Come To Daddy",
+        "url": "https://open.spotify.com/album/6sIEBpy5gl3DqC6KPasPpx"
       },
       "artists": [
         {
@@ -196,25 +196,9 @@
           "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
         }
       ],
-      "duration_ms": 191466,
-      "name": "180db_ [130]",
-      "url": "https://open.spotify.com/track/5oKbtirX6EbMMOgD2fMJ6E"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Drukqs",
-        "url": "https://open.spotify.com/album/2oJo7cB45gMVuRsaWNwDq2"
-      },
-      "artists": [
-        {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
-        }
-      ],
-      "duration_ms": 143880,
-      "name": "Jynweythek",
-      "url": "https://open.spotify.com/track/3I0rWmF86CwQpajoZjkXtG"
+      "duration_ms": 177266,
+      "name": "IZ-US",
+      "url": "https://open.spotify.com/track/6INSqTqDoz6ndc0oKTi0Sq"
     },
     {
       "added_at": null,
@@ -231,6 +215,22 @@
       "duration_ms": 228866,
       "name": "Fingerbib",
       "url": "https://open.spotify.com/track/2hcywxHZcxmX27lX5qm8MT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Drukqs",
+        "url": "https://open.spotify.com/album/2oJo7cB45gMVuRsaWNwDq2"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "duration_ms": 143880,
+      "name": "Jynweythek",
+      "url": "https://open.spotify.com/track/3I0rWmF86CwQpajoZjkXtG"
     },
     {
       "added_at": null,
@@ -267,22 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Drukqs",
-        "url": "https://open.spotify.com/album/2oJo7cB45gMVuRsaWNwDq2"
-      },
-      "artists": [
-        {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
-        }
-      ],
-      "duration_ms": 205186,
-      "name": "Nanou2",
-      "url": "https://open.spotify.com/track/6pHuMjk9O1G3XTTqbnpkTl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Selected Ambient Works Volume II",
         "url": "https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 125106,
       "name": "#17",
       "url": "https://open.spotify.com/track/2ry9LQ8m7dRbRn6FN8uT5u"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Drukqs",
+        "url": "https://open.spotify.com/album/2oJo7cB45gMVuRsaWNwDq2"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "duration_ms": 205186,
+      "name": "Nanou2",
+      "url": "https://open.spotify.com/track/6pHuMjk9O1G3XTTqbnpkTl"
     },
     {
       "added_at": null,
@@ -331,22 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Drukqs",
-        "url": "https://open.spotify.com/album/2oJo7cB45gMVuRsaWNwDq2"
-      },
-      "artists": [
-        {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
-        }
-      ],
-      "duration_ms": 131346,
-      "name": "Petiatil Cx Htdui",
-      "url": "https://open.spotify.com/track/75qP1ztAEjjJwvU967su8u"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Selected Ambient Works Volume II",
         "url": "https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 440333,
       "name": "#13",
       "url": "https://open.spotify.com/track/3jRCZkYVcDniUrXjL71QwE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Drukqs",
+        "url": "https://open.spotify.com/album/2oJo7cB45gMVuRsaWNwDq2"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "duration_ms": 131346,
+      "name": "Petiatil Cx Htdui",
+      "url": "https://open.spotify.com/track/75qP1ztAEjjJwvU967su8u"
     },
     {
       "added_at": null,
@@ -395,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Drukqs",
-        "url": "https://open.spotify.com/album/2oJo7cB45gMVuRsaWNwDq2"
-      },
-      "artists": [
-        {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
-        }
-      ],
-      "duration_ms": 153320,
-      "name": "Bbydhyonchord",
-      "url": "https://open.spotify.com/track/0lLCH4mtQQYp6ASyJqhzgN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Selected Ambient Works Volume II",
         "url": "https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 447800,
       "name": "#1",
       "url": "https://open.spotify.com/track/6ryJQswzoXDmmFazg91c0c"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Drukqs",
+        "url": "https://open.spotify.com/album/2oJo7cB45gMVuRsaWNwDq2"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "duration_ms": 153320,
+      "name": "Bbydhyonchord",
+      "url": "https://open.spotify.com/track/0lLCH4mtQQYp6ASyJqhzgN"
     },
     {
       "added_at": null,
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Classics",
-        "url": "https://open.spotify.com/album/3SLSq9tzQ8Wq8RWuo0MaXG"
-      },
-      "artists": [
-        {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
-        }
-      ],
-      "duration_ms": 286293,
-      "name": "Analogue Bubblebath",
-      "url": "https://open.spotify.com/track/3EhTOTAvNAUgY6AIurVxT1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Selected Ambient Works Volume II",
         "url": "https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 303920,
       "name": "produk 29 [101]",
       "url": "https://open.spotify.com/track/2oe8134WXw7Pw0ixstdOu8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Classics",
+        "url": "https://open.spotify.com/album/3SLSq9tzQ8Wq8RWuo0MaXG"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "duration_ms": 286293,
+      "name": "Analogue Bubblebath",
+      "url": "https://open.spotify.com/track/3EhTOTAvNAUgY6AIurVxT1"
     },
     {
       "added_at": null,
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Come To Daddy",
-        "url": "https://open.spotify.com/album/6sIEBpy5gl3DqC6KPasPpx"
-      },
-      "artists": [
-        {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
-        }
-      ],
-      "duration_ms": 262533,
-      "name": "Come To Daddy - Pappy Mix",
-      "url": "https://open.spotify.com/track/5H6cQ9QrYP23R6PALr1KCc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Syro",
         "url": "https://open.spotify.com/album/4mwrMLVKo940qLFXEIef4w"
       },
@@ -571,6 +555,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Come To Daddy",
+        "url": "https://open.spotify.com/album/6sIEBpy5gl3DqC6KPasPpx"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "duration_ms": 262533,
+      "name": "Come To Daddy - Pappy Mix",
+      "url": "https://open.spotify.com/track/5H6cQ9QrYP23R6PALr1KCc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Blackbox Life Recorder 21f / in a room7 F760",
         "url": "https://open.spotify.com/album/0yp0GVa92trHmWZuEZTuL2"
       },
@@ -583,22 +583,6 @@
       "duration_ms": 159000,
       "name": "zin2 test5",
       "url": "https://open.spotify.com/track/6OGlcUOK8B9Nfy8v5LHsYQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Computer Controlled Acoustic Instruments pt2 EP",
-        "url": "https://open.spotify.com/album/4NmpBWikuFV6jbYMegdi01"
-      },
-      "artists": [
-        {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
-        }
-      ],
-      "duration_ms": 108011,
-      "name": "piano un10 it happened",
-      "url": "https://open.spotify.com/track/75NjAlMKrabtXiM2P89E5F"
     },
     {
       "added_at": null,
@@ -635,6 +619,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Computer Controlled Acoustic Instruments pt2 EP",
+        "url": "https://open.spotify.com/album/4NmpBWikuFV6jbYMegdi01"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "duration_ms": 108011,
+      "name": "piano un10 it happened",
+      "url": "https://open.spotify.com/track/75NjAlMKrabtXiM2P89E5F"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "...I Care Because You Do",
         "url": "https://open.spotify.com/album/6TmEZKJtPJ9mPsMBmyteCE"
       },
@@ -644,25 +644,9 @@
           "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
         }
       ],
-      "duration_ms": 231413,
-      "name": "Mookid",
-      "url": "https://open.spotify.com/track/75Ml44CCprAbusMbPZuHEr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "On",
-        "url": "https://open.spotify.com/album/3ST4JBcwc8LDpQCYoSx8YG"
-      },
-      "artists": [
-        {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
-        }
-      ],
-      "duration_ms": 432893,
-      "name": "On",
-      "url": "https://open.spotify.com/track/7uy3fN7TaX7YkPecOYHf5S"
+      "duration_ms": 459280,
+      "name": "Acrid Avid Jam Shred",
+      "url": "https://open.spotify.com/track/6RjEg1YpdNJlXrGOy4KeVs"
     },
     {
       "added_at": null,
@@ -679,6 +663,22 @@
       "duration_ms": 184906,
       "name": "Yellow Calx",
       "url": "https://open.spotify.com/track/4nouVnQrrO8Q1yje5Gz8Tq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "On",
+        "url": "https://open.spotify.com/album/3ST4JBcwc8LDpQCYoSx8YG"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "duration_ms": 432893,
+      "name": "On",
+      "url": "https://open.spotify.com/track/7uy3fN7TaX7YkPecOYHf5S"
     },
     {
       "added_at": null,
@@ -708,25 +708,9 @@
           "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
         }
       ],
-      "duration_ms": 459280,
-      "name": "Acrid Avid Jam Shred",
-      "url": "https://open.spotify.com/track/6RjEg1YpdNJlXrGOy4KeVs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Girl/Boy EP",
-        "url": "https://open.spotify.com/album/3TfLuGfGoYS978gsEsyTwZ"
-      },
-      "artists": [
-        {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
-        }
-      ],
-      "duration_ms": 91106,
-      "name": "Beetles",
-      "url": "https://open.spotify.com/track/2nHLDYwX62AQX4fru2EpVb"
+      "duration_ms": 231413,
+      "name": "Mookid",
+      "url": "https://open.spotify.com/track/75Ml44CCprAbusMbPZuHEr"
     },
     {
       "added_at": null,
@@ -743,6 +727,22 @@
       "duration_ms": 243826,
       "name": "To Cure A Weakling Child",
       "url": "https://open.spotify.com/track/1jNd1HqFj9yZlDgdkpddkm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Girl/Boy EP",
+        "url": "https://open.spotify.com/album/3TfLuGfGoYS978gsEsyTwZ"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "duration_ms": 91106,
+      "name": "Beetles",
+      "url": "https://open.spotify.com/track/2nHLDYwX62AQX4fru2EpVb"
     },
     {
       "added_at": null,
@@ -779,6 +779,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Come To Daddy",
+        "url": "https://open.spotify.com/album/6sIEBpy5gl3DqC6KPasPpx"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "duration_ms": 345106,
+      "name": "Bucephalus Bouncing Ball [Chosen by Warp co-founder Steve Beckett]",
+      "url": "https://open.spotify.com/track/5rpHPGXMnJhEsUUh7ttCY7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Computer Controlled Acoustic Instruments pt2 EP",
         "url": "https://open.spotify.com/album/4NmpBWikuFV6jbYMegdi01"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 38388,
       "name": "diskhat2",
       "url": "https://open.spotify.com/track/27wNZm2RGG8D7OQmVnvsWA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "...I Care Because You Do",
-        "url": "https://open.spotify.com/album/6TmEZKJtPJ9mPsMBmyteCE"
-      },
-      "artists": [
-        {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
-        }
-      ],
-      "duration_ms": 333600,
-      "name": "Cow Cud Is A Twin",
-      "url": "https://open.spotify.com/track/1rfsweNl8UOYQnugjH5b5g"
     }
   ],
   "unique_name": "This Is Aphex Twin",

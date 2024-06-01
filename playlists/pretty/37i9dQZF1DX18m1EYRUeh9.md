@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18m1EYRUeh9.md) - [plain]
 
 > Smooth indie jazz joints from around the globe\. Cover: André 3000
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,077 likes - 102 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,509 likes - 102 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18m1EYRUeh9.md) - [plain]
 | 96 | [Bhuta Kala](https://open.spotify.com/track/5kM9HjvFKnENXfkNdvFdyJ) | [Meernaa](https://open.spotify.com/artist/6x8L59xNfuXIM7UfzoSe7g) | [Bhuta Kala](https://open.spotify.com/album/1L8ulFB7FYlglGlIKMns6v) | 3:39 |
 | 97 | [Brighter Star](https://open.spotify.com/track/6LJAiP0fsqGwXicLC1kF9u) | [Energy Exchange Ensemble](https://open.spotify.com/artist/1dxgUIXKd9tX0xgRQ7hM8i), [Allysha Joy](https://open.spotify.com/artist/3CzYPWEnpaODw56A53qxh3) | [Brighter Star](https://open.spotify.com/album/2k5rASMwjSB9mEEJqXaQ1c) | 5:33 |
 | 98 | [Find My Way](https://open.spotify.com/track/3PuprZB2YcBEg8Zg511yvr) | [Tentendo](https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W), [Annalisa Fernandez](https://open.spotify.com/artist/5eGzlY642wbXxiXFTwBW0f) | [Find My Way](https://open.spotify.com/album/6NWwBZ308qTBXufqWAboMe) | 3:42 |
-| 99 | [Otherway](https://open.spotify.com/track/1HibS69wIuHNaotBNJeCk2) | [Daniel Noah Miller](https://open.spotify.com/artist/0ofVQtXisiSCBVTW9tNUTS), [Lewis Del Mar](https://open.spotify.com/artist/2oqwwcM17wrP9hBD25zKSR) | [Otherway](https://open.spotify.com/album/5oZxjxrWQOSFLahaUvAqZq) | 2:50 |
+| 99 | [Otherway](https://open.spotify.com/track/1HibS69wIuHNaotBNJeCk2) | [Daniel Noah Miller](https://open.spotify.com/artist/0ofVQtXisiSCBVTW9tNUTS) | [Otherway](https://open.spotify.com/album/5oZxjxrWQOSFLahaUvAqZq) | 2:50 |
 | 100 | [Who By Fire](https://open.spotify.com/track/2L1f1Z7lUleocWWWg4JRKR) | [Skinny Pelembe](https://open.spotify.com/artist/1ZxriNuHn6Upjf3U97nnUN), [Beth Orton](https://open.spotify.com/artist/6cLEWhEKQl6nAvgr60M7zC) | [Who By Fire](https://open.spotify.com/album/2ZwCEwQtkwBO9N3vq9JiSv) | 2:59 |
 | 101 | [Rust \(feat\. Tom Misch\)](https://open.spotify.com/track/1ubbdrZv0EoDc40awvh8Rh) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Rust \(feat\. Tom Misch\)](https://open.spotify.com/album/60EqifwSuc3sGlo0ysgg3u) | 3:58 |
 | 102 | [Modern Miracle](https://open.spotify.com/track/6FtqBfzpYGTFt7yQPIaOFg) | [Paul Cherry](https://open.spotify.com/artist/1xbu7UyVdZxwIiNfLcUKqn) | [Pure Grooves Vol\. 1](https://open.spotify.com/album/796eeTpFCvH90a7DweaaNq) | 3:08 |

@@ -4,7 +4,7 @@
 
 > Welcome to the dark side of the club.
 
-707 songs - 2 day 19 hr 46 min
+709 songs - 2 day 19 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,7 +138,8 @@
 | [Corruption](https://open.spotify.com/track/5N3ZgaLCe0t2isat7usp5Z) | [Filterheadz](https://open.spotify.com/artist/6XqUjMGrl5jFwwyQ6hheit), [Lowerzone](https://open.spotify.com/artist/08kHFbfYt54KU8xxZtqSjf) | [Mindtrip](https://open.spotify.com/album/6j2VFTMKMfzB8fw0um9xIN) | 6:54 | 2020-04-18\* | 2020-06-30 |
 | [Cosmic Transition](https://open.spotify.com/track/6sfGx2y7ssDXCg7lcC0XiL) | [Luca Gaeta](https://open.spotify.com/artist/5NIiLHMZs0Etu1Cm4UtOoE) | [Cosmic Transition](https://open.spotify.com/album/2v6VSdUws3ltddUiFCCHNH) | 6:24 | 2020-04-18\* | 2020-06-06 |
 | [Crave](https://open.spotify.com/track/1VNThqTH5v8gi02dplXrSw) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU), [Thomas Schumacher](https://open.spotify.com/artist/7KkV7dFoGEXr4M3fpb1FgD) | [Crave](https://open.spotify.com/album/3jX2LlPJdLJo9l4q6OUEe1) | 4:22 | 2023-07-04 | 2023-09-16 |
-| [Craving](https://open.spotify.com/track/77qHXGqHbJFh0dWLRHkWTq) | [Alan Fitzpatrick](https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive), [Joyhauser](https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y) | [Craving](https://open.spotify.com/album/48cvKSyiJ8Ev1xon0FXUKJ) | 4:01 | 2024-04-05 |  |
+| [Craving](https://open.spotify.com/track/77qHXGqHbJFh0dWLRHkWTq) | [Alan Fitzpatrick](https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive), [Joyhauser](https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y) | [Craving](https://open.spotify.com/album/48cvKSyiJ8Ev1xon0FXUKJ) | 4:01 | 2024-04-05 | 2024-06-01 |
+| [Crazy People \- Victor Ruiz Remix](https://open.spotify.com/track/3amcv0aAbe57YRevwUxjVw) | [Liquid Soul](https://open.spotify.com/artist/64nL3MP8zmuLqUq8DDaIKS), [Victor Ruiz](https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z) | [Crazy People \(Victor Ruiz Remix\)](https://open.spotify.com/album/6TyFYm26pb39Lms5kOnOac) | 7:14 | 2024-05-30 |  |
 | [Creatures on Acid \- Radio\-Edit](https://open.spotify.com/track/04b2DLz2SSb2VqimLvEfLs) | [Patrick Scuro](https://open.spotify.com/artist/6wfL4r7ReScDTARbtSRTvB), [Marie Vaunt](https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5) | [Creatures on Acid \(Radio\-Edit\)](https://open.spotify.com/album/6lqQURzLflCmVagXWx3Wun) | 4:30 | 2022-01-14 | 2022-06-29 |
 | [Croce](https://open.spotify.com/track/1WFlFVMRyCc0tP0tdQCaDw) | [Deborah de Luca](https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B) | [Croce](https://open.spotify.com/album/6EtroVRtXWx7AJWEwEPzgx) | 5:34 | 2023-10-10 |  |
 | [Cryptic Speech \- Original Mix](https://open.spotify.com/track/5tzcReCKuj6qYbQQVS0ehG) | [UMEK](https://open.spotify.com/artist/5Hini2nQyoglzpdKe41cZt) | [Cryptic Speech EP](https://open.spotify.com/album/3wjYTOt0x1gLUtVPtr2lMQ) | 5:54 | 2021-05-03 | 2021-10-30 |
@@ -600,10 +601,11 @@
 | [The Andor Voyage \- Ramon Tapia Remix](https://open.spotify.com/track/0AAOWhjXSeBp1aTGf79012) | [Metro Dade](https://open.spotify.com/artist/5iiBeSwBmXoIuWJb1LtE3U), [Ramon Tapia](https://open.spotify.com/artist/5BFl4h5TXYSSJsCteTX3s1) | [The Andor Voyage \(Ramon Tapia Remix\)](https://open.spotify.com/album/4AjG2Ty6P6Dtxh7V3JuoST) | 5:01 | 2020-11-21 | 2021-03-27 |
 | [The Antidote](https://open.spotify.com/track/3kq4M7XbQ6c7yGzwE72VXM) | [T78](https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z), [Ballarak](https://open.spotify.com/artist/1tlScBqJkLMyYyJzRRBv51) | [The Antidote](https://open.spotify.com/album/1xPg355x51SCTmPBsQ908z) | 7:15 | 2020-06-06 | 2020-11-03 |
 | [The Arrival](https://open.spotify.com/track/4OP9HNd8yYK6pyQjApRPoX) | [Deniz Bul](https://open.spotify.com/artist/4H267HByup3kdzVdYLhp21) | [The Arrival](https://open.spotify.com/album/1hYeOP80ItSSvOKXdiapqY) | 4:09 | 2021-11-20 | 2022-06-04 |
-| [The Awakening](https://open.spotify.com/track/4kzX9AUpMYh6pX2OkaBbug) | [Kaspar](https://open.spotify.com/artist/679xKCdF1dBRH0gGgZfcCC) | [The Awakening](https://open.spotify.com/album/6VYGuqoi7Sq5LfsipeddoU) | 5:09 | 2024-04-25 |  |
+| [The Awakening](https://open.spotify.com/track/4kzX9AUpMYh6pX2OkaBbug) | [Kaspar](https://open.spotify.com/artist/679xKCdF1dBRH0gGgZfcCC) | [The Awakening](https://open.spotify.com/album/6VYGuqoi7Sq5LfsipeddoU) | 5:09 | 2024-04-25 | 2024-06-01 |
 | [The Bigger Picture](https://open.spotify.com/track/54n7lhRoNg7WrlFU1mMTWp) | [Karim Alkhayat](https://open.spotify.com/artist/1Jawgv4EJ23ap4WO59CE25), [RooneyNasr](https://open.spotify.com/artist/5JyUxCGRmiZRB2m3gmeIkL) | [The Bigger Picture](https://open.spotify.com/album/2YTB8fa0VwjrmmwOg6jxyG) | 6:50 | 2022-06-28 | 2022-10-29 |
 | [The Butterfly Effect](https://open.spotify.com/track/26omZXcsvAMODYHdWTm95r) | [Metodi Hristov](https://open.spotify.com/artist/7MFugZiuQp41w92SA0zsG1) | [The Butterfly Effect](https://open.spotify.com/album/2S5fWH07zS01uiW4A0211d) | 7:15 | 2020-05-09 | 2020-08-08 |
 | [The Captain](https://open.spotify.com/track/4NGwhkwJzROYFJKNFmFHus) | [HIJCKD](https://open.spotify.com/artist/4oFuOElyTlMdZMXMQBSdVq) | [The Captain](https://open.spotify.com/album/0hc4lRGEKpOzSdd2KXZ47j) | 3:12 | 2022-08-05 | 2023-07-08 |
+| [The Chant](https://open.spotify.com/track/1YkdWxA7Z9IlkYRANy3MVq) | [Alex Stein](https://open.spotify.com/artist/0SCFEgshN89tlgOPM7lbSB) | [The Chant](https://open.spotify.com/album/7MLHFcsLvgaL9nYzCf0AhL) | 3:56 | 2024-05-30 |  |
 | [The Chosen](https://open.spotify.com/track/56IDx1YZczUBwoF1akoEd7) | [Marie Vaunt](https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5) | [The Chosen](https://open.spotify.com/album/65grCGKrfvYxtWMyl66Jmo) | 4:13 | 2024-04-25 |  |
 | [The Coldest Form](https://open.spotify.com/track/0EEq5t7dahypAAQDUK1WjW) | [Julien Riess](https://open.spotify.com/artist/2qmoexIy9YzYFb0xmjzh4N), [CNTRBND](https://open.spotify.com/artist/0FZp81997YIf776FPtBsGk) | [The Coldest Form](https://open.spotify.com/album/17MkLzzH2Wa6cUJcH5PcSh) | 6:00 | 2023-02-10 | 2023-04-09 |
 | [The Curse](https://open.spotify.com/track/3M5F5teshlnR7LM5TQMEzq) | [Mark Dekoda](https://open.spotify.com/artist/3FzG2HgsgPRfwpX1qSK1g8) | [The Curse](https://open.spotify.com/album/4GlEwdGPxEZheEvmU7CCHq) | 5:15 | 2020-04-18\* | 2020-11-03 |

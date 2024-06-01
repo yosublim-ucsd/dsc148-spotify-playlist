@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-15",
-  "description": "A new wave of rock music. Cover: Cardinals",
+  "description": "A new wave of rock music. Cover: Lip Filler",
   "name": "shockwave",
   "tracks": [
     {
@@ -142,7 +142,7 @@
       ],
       "date_added": "2023-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 151958,
       "name": "A Track In Orbit",
       "url": "https://open.spotify.com/track/33byUHbCWRpbgo6sd8dVro"
@@ -268,7 +268,7 @@
       ],
       "date_added": "2023-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 235016,
       "name": "Always",
       "url": "https://open.spotify.com/track/7fuzX8L06JinfbGT5Jm3gY"
@@ -506,6 +506,24 @@
       "duration_ms": 209360,
       "name": "Beautiful",
       "url": "https://open.spotify.com/track/5ffdNfKHJqtFQofaL8fLCa"
+    },
+    {
+      "album": {
+        "name": "caught up in delusion",
+        "url": "https://open.spotify.com/album/2yYssd2xtkEMIqJwdkuaq3"
+      },
+      "artists": [
+        {
+          "name": "Dylan Flynn and the Dead Poets",
+          "url": "https://open.spotify.com/artist/38RdXLqHcghUbaMAM1EPka"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239799,
+      "name": "behind those tears",
+      "url": "https://open.spotify.com/track/0w7Zmk5SlHJtDIMeWfdgUV"
     },
     {
       "album": {
@@ -923,6 +941,24 @@
     },
     {
       "album": {
+        "name": "CARLING",
+        "url": "https://open.spotify.com/album/2aoBcoP44iI3KIEvuLmaRu"
+      },
+      "artists": [
+        {
+          "name": "Lip Filler",
+          "url": "https://open.spotify.com/artist/0hPY5LO0VQyjgop1JBsKfQ"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116143,
+      "name": "CARLING",
+      "url": "https://open.spotify.com/track/4sSjMDi7SbXTFImSHEDr9x"
+    },
+    {
+      "album": {
         "name": "Caroline",
         "url": "https://open.spotify.com/album/5Fn9vv173RuHWjvONUWgoH"
       },
@@ -1262,10 +1298,28 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 165657,
       "name": "daisy chains",
       "url": "https://open.spotify.com/track/5coXwSihPzuc42bOUvYRMf"
+    },
+    {
+      "album": {
+        "name": "Dancing in the Dust",
+        "url": "https://open.spotify.com/album/5d6s9YjiNEH0eLc82Ovtq6"
+      },
+      "artists": [
+        {
+          "name": "Graywave",
+          "url": "https://open.spotify.com/artist/4jN7TcBXppAcw0mc7yn9xR"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251000,
+      "name": "Dancing in the Dust",
+      "url": "https://open.spotify.com/track/1VheHd3BepFqVcWG1V3ZxQ"
     },
     {
       "album": {
@@ -1572,6 +1626,24 @@
       "duration_ms": 202466,
       "name": "Do It So Good",
       "url": "https://open.spotify.com/track/7AdLQWyE8e2AKUBooSGCBt"
+    },
+    {
+      "album": {
+        "name": "Don't",
+        "url": "https://open.spotify.com/album/44wFARJr0tnfTKCZduwFND"
+      },
+      "artists": [
+        {
+          "name": "Honeyglaze",
+          "url": "https://open.spotify.com/artist/0IJZjR1tj2EudGR8jvxZtM"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165510,
+      "name": "Don't",
+      "url": "https://open.spotify.com/track/51492YDzG1jwyFHKpkVbsK"
     },
     {
       "album": {
@@ -2113,6 +2185,24 @@
     },
     {
       "album": {
+        "name": "Gaslight",
+        "url": "https://open.spotify.com/album/6Trkgc0inzePZjY1R6flBi"
+      },
+      "artists": [
+        {
+          "name": "Dutch Criminal Record",
+          "url": "https://open.spotify.com/artist/5h6KJPKB8cSVJTWZhKAZoT"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207538,
+      "name": "Gaslight",
+      "url": "https://open.spotify.com/track/0Ow0xBXS5g4q7vYvdcZIqi"
+    },
+    {
+      "album": {
         "name": "Commander Trainwreck",
         "url": "https://open.spotify.com/album/3pgkvZHrpEawDd8GKrG1xu"
       },
@@ -2312,6 +2402,24 @@
       "duration_ms": 105652,
       "name": "GOOD TO GO",
       "url": "https://open.spotify.com/track/2U3Qw3JAJUwu6JJLoBf1pz"
+    },
+    {
+      "album": {
+        "name": "Goodbye (So Long, Farewell)",
+        "url": "https://open.spotify.com/album/2L7vVcwJH9ym8HMR6TrtE6"
+      },
+      "artists": [
+        {
+          "name": "FEET",
+          "url": "https://open.spotify.com/artist/7HeBQpJ3UmyybgEvqfdRAE"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292093,
+      "name": "Goodbye (So Long, Farewell)",
+      "url": "https://open.spotify.com/track/2kU97AkFb1VPK7DLFamIw8"
     },
     {
       "album": {
@@ -2568,7 +2676,7 @@
       ],
       "date_added": "2023-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 157001,
       "name": "Hex",
       "url": "https://open.spotify.com/track/6yopQomQqrwmXTAUwQrp30"
@@ -3148,7 +3256,7 @@
       ],
       "date_added": "2023-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 139055,
       "name": "Jokeman",
       "url": "https://open.spotify.com/track/55yxVpDoJv8HVM8yRRFuCO"
@@ -3292,7 +3400,7 @@
       ],
       "date_added": "2023-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 264120,
       "name": "King Size Slim",
       "url": "https://open.spotify.com/track/6LiQkNtD7oh6xdUVb01D0H"
@@ -5922,7 +6030,7 @@
       ],
       "date_added": "2023-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 196761,
       "name": "This Is Not The End",
       "url": "https://open.spotify.com/track/20OZFpJWz3ojDCNKfIbrmx"
@@ -6470,6 +6578,24 @@
       "duration_ms": 240533,
       "name": "When We Talk About Love",
       "url": "https://open.spotify.com/track/4uzDkD42frX8k9VqJ6PJLW"
+    },
+    {
+      "album": {
+        "name": "When You're Gone",
+        "url": "https://open.spotify.com/album/1QmljcDlFQPRCldqduYBp7"
+      },
+      "artists": [
+        {
+          "name": "Rowdy Outsider",
+          "url": "https://open.spotify.com/artist/2N7ABBg8Ot93dau1HlgL8u"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164918,
+      "name": "When You're Gone",
+      "url": "https://open.spotify.com/track/1lhC9yec2WzL63yZyDlAtq"
     },
     {
       "album": {

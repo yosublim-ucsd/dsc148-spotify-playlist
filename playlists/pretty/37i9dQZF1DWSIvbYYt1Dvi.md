@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 
 > yago oproprio É AULAS \(chei das ref o omi slc\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,185,195 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,185,053 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [La Noche](https://open.spotify.com/track/0IEVEtKQ4kRgZehxyfUrKS) | [Yago Oproprio](https://open.spotify.com/artist/7HoPy2YmahCCaYaFSFq497), [Patricio Sid](https://open.spotify.com/artist/2A6L9Ua0JdmmELX1hz2HVu) | [Oproprio](https://open.spotify.com/album/0b2iLDXb2gs0jRk4Vj7jlR) | 3:21 |
+| 1 | [La Noche](https://open.spotify.com/track/0IEVEtKQ4kRgZehxyfUrKS) | [Yago Oproprio](https://open.spotify.com/artist/7HoPy2YmahCCaYaFSFq497), [Patricio Sid](https://open.spotify.com/artist/2A6L9Ua0JdmmELX1hz2HVu) | [OPROPRIO](https://open.spotify.com/album/0b2iLDXb2gs0jRk4Vj7jlR) | 3:21 |
 | 2 | [BOOMBAP PERFEITO](https://open.spotify.com/track/5OrfScVAsdqEgo4Og8ebrv) | [Aldeia Records](https://open.spotify.com/artist/5q9yc7RScObCN016xvstXM), [Grafiteh](https://open.spotify.com/artist/1mZKPF3NjGsiwsnGi9zE4r), [Bxrgez](https://open.spotify.com/artist/1JpJY4VOgwfE5xLtqzOJVD) | [BOOMBAP PERFEITO](https://open.spotify.com/album/5BLeGawegQZ8zquNP8hpiu) | 2:48 |
 | 3 | [Obrigado Mainstream](https://open.spotify.com/track/3LFSfqJe7t40fcJybYLJ1L) | [Febem](https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N), [CESRV](https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1) | [Obrigado Mainstream](https://open.spotify.com/album/69lrnLlq9tJvyfTbQdCaYM) | 2:22 |
 | 4 | [Prata](https://open.spotify.com/track/2sOvuDxLamSIUFYztPAadB) | [pumapjl](https://open.spotify.com/artist/1iVZ4G8loVE1bb5EWuOvMM), [SonoTWS](https://open.spotify.com/artist/4V6S8Exb51yXRs6oiJYIgE) | [Prata](https://open.spotify.com/album/4AKcYw6MdkS7Zbxhc7pnvo) | 2:05 |

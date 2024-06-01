@@ -1,6 +1,6 @@
 {
   "description": "Vintage easy listening from the fifties...",
-  "num_followers": 166985,
+  "num_followers": 167031,
   "original_name": "Easy 50s",
   "owner": {
     "name": "Spotify",
@@ -259,22 +259,6 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "Romance: Songs From The Heart",
-        "url": "https://open.spotify.com/album/6gLsNre727RSLK2j0LGmCp"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 172546,
-      "name": "All The Way - 2006 Digital Remaster/24 Bit Mastering",
-      "url": "https://open.spotify.com/track/7fanCwOck16J9MPJ3SR39P"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
         "name": "Banana Boat Song",
         "url": "https://open.spotify.com/album/10fE4grc2jJr9G292IxCZA"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 184653,
       "name": "Banana Boat Song",
       "url": "https://open.spotify.com/track/3oY0qu8PC5gf7DkXP6ANx3"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "Romance: Songs From The Heart",
+        "url": "https://open.spotify.com/album/6gLsNre727RSLK2j0LGmCp"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 172546,
+      "name": "All The Way - 2006 Digital Remaster/24 Bit Mastering",
+      "url": "https://open.spotify.com/track/7fanCwOck16J9MPJ3SR39P"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -411,6 +411,22 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
+        "name": "The Essential Harry Belafonte",
+        "url": "https://open.spotify.com/album/4OdO7cL7opGFZarQCjwQGi"
+      },
+      "artists": [
+        {
+          "name": "Harry Belafonte",
+          "url": "https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z"
+        }
+      ],
+      "duration_ms": 201453,
+      "name": "Island In The Sun",
+      "url": "https://open.spotify.com/track/0dRcFOOCdwbEMFLeibJhxV"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
         "name": "Radio Gold - Cliff Richard And The Shadows",
         "url": "https://open.spotify.com/album/57M65RmmlmYha7Q2J54IJ4"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 181906,
       "name": "Learnin' The Blues",
       "url": "https://open.spotify.com/track/6rNOKdqa2lThuBIJOZXSVa"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
-        "name": "The Essential Harry Belafonte",
-        "url": "https://open.spotify.com/album/4OdO7cL7opGFZarQCjwQGi"
-      },
-      "artists": [
-        {
-          "name": "Harry Belafonte",
-          "url": "https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z"
-        }
-      ],
-      "duration_ms": 201453,
-      "name": "Island In The Sun",
-      "url": "https://open.spotify.com/track/0dRcFOOCdwbEMFLeibJhxV"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -559,22 +559,6 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "Frank Sinatra: The Complete Capitol Singles Collection",
-        "url": "https://open.spotify.com/album/7LbB7SuX3op2Xa9FvteJeB"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 177906,
-      "name": "(Love Is) The Tender Trap",
-      "url": "https://open.spotify.com/track/0UPLR6uenfxF1sonHICT8X"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
         "name": "The Magic Of Malcolm Vaughan",
         "url": "https://open.spotify.com/album/3aW9zXU8mpe0Jhylob4URU"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 153666,
       "name": "Poor Little Fool",
       "url": "https://open.spotify.com/track/1ugZWl7RmEq95dea9hqorZ"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "Frank Sinatra: The Complete Capitol Singles Collection",
+        "url": "https://open.spotify.com/album/7LbB7SuX3op2Xa9FvteJeB"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 177906,
+      "name": "(Love Is) The Tender Trap",
+      "url": "https://open.spotify.com/track/0UPLR6uenfxF1sonHICT8X"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "The Best Of Tony Brent",
-        "url": "https://open.spotify.com/album/26pN1w1fbL5t8EDI5XvaOn"
-      },
-      "artists": [
-        {
-          "name": "Tony Brent",
-          "url": "https://open.spotify.com/artist/4JHTfWmgZf3Hz7JLBGrJnj"
-        }
-      ],
-      "duration_ms": 154720,
-      "name": "Make It Soon - 1999 Remaster",
-      "url": "https://open.spotify.com/track/20SLjXdA0H3I5IRf4E07Hi"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
         "name": "The Best of Don Cherry",
         "url": "https://open.spotify.com/album/0hmtoNydN3gGXdxhts4Zf4"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 155066,
       "name": "Band of Gold (with Ray Conniff & His Orchestra & Chorus)",
       "url": "https://open.spotify.com/track/1cn68NZRQSnergWSf1o1hd"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "The Best Of Tony Brent",
+        "url": "https://open.spotify.com/album/26pN1w1fbL5t8EDI5XvaOn"
+      },
+      "artists": [
+        {
+          "name": "Tony Brent",
+          "url": "https://open.spotify.com/artist/4JHTfWmgZf3Hz7JLBGrJnj"
+        }
+      ],
+      "duration_ms": 154720,
+      "name": "Make It Soon - 1999 Remaster",
+      "url": "https://open.spotify.com/track/20SLjXdA0H3I5IRf4E07Hi"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -987,22 +987,6 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "Summer Holiday",
-        "url": "https://open.spotify.com/album/3qwiCEbQuOZ3UO2DO4YhIw"
-      },
-      "artists": [
-        {
-          "name": "Johnnie Ray",
-          "url": "https://open.spotify.com/artist/6SQKNCUKIWjR1pQ1U3PZZq"
-        }
-      ],
-      "duration_ms": 157493,
-      "name": "Just Walkin' in the Rain",
-      "url": "https://open.spotify.com/track/5zIrB8lgWBmhHeV00mCN75"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
         "name": "The Very Best Of Slim Whitman",
         "url": "https://open.spotify.com/album/16smaj9yNDCAPVviKp5FFl"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 177493,
       "name": "I'll Take You Home Again, Kathleen",
       "url": "https://open.spotify.com/track/3rfvssyMQbY28825P2sztA"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "Skiffle - From Britain to Broadway",
+        "url": "https://open.spotify.com/album/5wxaPwp9lFcVpcjzr8YsNS"
+      },
+      "artists": [
+        {
+          "name": "Johnny Duncan & The Blue Grass Boys",
+          "url": "https://open.spotify.com/artist/5fEbMt6fvVtVp9RGkNWU5k"
+        }
+      ],
+      "duration_ms": 151186,
+      "name": "Last Train to San Fernando",
+      "url": "https://open.spotify.com/track/63fDzYusBC0MeUkmM856ug"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -1035,18 +1035,18 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "Skiffle - From Britain to Broadway",
-        "url": "https://open.spotify.com/album/5wxaPwp9lFcVpcjzr8YsNS"
+        "name": "Summer Holiday",
+        "url": "https://open.spotify.com/album/3qwiCEbQuOZ3UO2DO4YhIw"
       },
       "artists": [
         {
-          "name": "Johnny Duncan & The Blue Grass Boys",
-          "url": "https://open.spotify.com/artist/5fEbMt6fvVtVp9RGkNWU5k"
+          "name": "Johnnie Ray",
+          "url": "https://open.spotify.com/artist/6SQKNCUKIWjR1pQ1U3PZZq"
         }
       ],
-      "duration_ms": 151186,
-      "name": "Last Train to San Fernando",
-      "url": "https://open.spotify.com/track/63fDzYusBC0MeUkmM856ug"
+      "duration_ms": 157493,
+      "name": "Just Walkin' in the Rain",
+      "url": "https://open.spotify.com/track/5zIrB8lgWBmhHeV00mCN75"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -1083,6 +1083,26 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
+        "name": "Very Best Of",
+        "url": "https://open.spotify.com/album/4KB7NVgy3aKibqM1VqHd84"
+      },
+      "artists": [
+        {
+          "name": "Perry Como",
+          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
+        },
+        {
+          "name": "Henri Ren\u00e9 & His Orchestra and Chorus",
+          "url": "https://open.spotify.com/artist/6Sf3oBWXwLFaEDDprUAc4v"
+        }
+      ],
+      "duration_ms": 185466,
+      "name": "Wanted (with Henri Ren\u00e9 & His Orchestra and Chorus)",
+      "url": "https://open.spotify.com/track/554BJuPGuQB8u1PKg4LBvB"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
         "name": "The EP Collection",
         "url": "https://open.spotify.com/album/4EwFjI32q5wL1cFie4lyPu"
       },
@@ -1115,6 +1135,22 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
+        "name": "Trying",
+        "url": "https://open.spotify.com/album/6wNlsCkqpdsIU4CGHUgWij"
+      },
+      "artists": [
+        {
+          "name": "The Hilltoppers",
+          "url": "https://open.spotify.com/artist/6qcybypxBn4XlMcYJHhViw"
+        }
+      ],
+      "duration_ms": 165466,
+      "name": "Only You (and You Alone)",
+      "url": "https://open.spotify.com/track/6meUbywMo1j9kxiL58s6f1"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
         "name": "Street Of Memories",
         "url": "https://open.spotify.com/album/6PN0sBIqdjtodywtNBBzrX"
       },
@@ -1127,26 +1163,6 @@
       "duration_ms": 143506,
       "name": "Walking My Baby Back Home",
       "url": "https://open.spotify.com/track/0zLMXELSW0q0HvBvVLF139"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
-        "name": "Very Best Of",
-        "url": "https://open.spotify.com/album/4KB7NVgy3aKibqM1VqHd84"
-      },
-      "artists": [
-        {
-          "name": "Perry Como",
-          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
-        },
-        {
-          "name": "Henri Ren\u00e9 & His Orchestra and Chorus",
-          "url": "https://open.spotify.com/artist/6Sf3oBWXwLFaEDDprUAc4v"
-        }
-      ],
-      "duration_ms": 185466,
-      "name": "Wanted (with Henri Ren\u00e9 & His Orchestra and Chorus)",
-      "url": "https://open.spotify.com/track/554BJuPGuQB8u1PKg4LBvB"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -1183,18 +1199,18 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "Trying",
-        "url": "https://open.spotify.com/album/6wNlsCkqpdsIU4CGHUgWij"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/5W8G2sRRXvYTuuFu4Jinmc"
       },
       "artists": [
         {
-          "name": "The Hilltoppers",
-          "url": "https://open.spotify.com/artist/6qcybypxBn4XlMcYJHhViw"
+          "name": "Eddie Fisher",
+          "url": "https://open.spotify.com/artist/6bHSJldq5J4lYowHOm9OOX"
         }
       ],
-      "duration_ms": 165466,
-      "name": "Only You (and You Alone)",
-      "url": "https://open.spotify.com/track/6meUbywMo1j9kxiL58s6f1"
+      "duration_ms": 149093,
+      "name": "I Need You Now - 2001 Remastered",
+      "url": "https://open.spotify.com/track/0gxpt81ZzaX0x72k1NOojB"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -1231,22 +1247,6 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/5W8G2sRRXvYTuuFu4Jinmc"
-      },
-      "artists": [
-        {
-          "name": "Eddie Fisher",
-          "url": "https://open.spotify.com/artist/6bHSJldq5J4lYowHOm9OOX"
-        }
-      ],
-      "duration_ms": 149093,
-      "name": "I Need You Now - 2001 Remastered",
-      "url": "https://open.spotify.com/track/0gxpt81ZzaX0x72k1NOojB"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
         "name": "Essential - Easy Listening",
         "url": "https://open.spotify.com/album/6tLbWFq5usheMkHZwmMFaY"
       },
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "Original Hits - Country",
-        "url": "https://open.spotify.com/album/2CLBwQ3j9tbB1yUVtoIf6n"
-      },
-      "artists": [
-        {
-          "name": "Slim Whitman",
-          "url": "https://open.spotify.com/artist/5bO7gAKKIwHwhxdsCR1UN0"
-        }
-      ],
-      "duration_ms": 142426,
-      "name": "Rose Marie",
-      "url": "https://open.spotify.com/track/6jak4Fou65AgcZoLpNDN74"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
         "name": "Original Hits - 50s",
         "url": "https://open.spotify.com/album/5F5iEKIrS6EZmItYyvAQjx"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 216400,
       "name": "Don't Laugh at Me ('Cause I'm a Fool)",
       "url": "https://open.spotify.com/track/6VVqpLQDeyEwQd2NQrjQPN"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "Original Hits - Country",
+        "url": "https://open.spotify.com/album/2CLBwQ3j9tbB1yUVtoIf6n"
+      },
+      "artists": [
+        {
+          "name": "Slim Whitman",
+          "url": "https://open.spotify.com/artist/5bO7gAKKIwHwhxdsCR1UN0"
+        }
+      ],
+      "duration_ms": 142426,
+      "name": "Rose Marie",
+      "url": "https://open.spotify.com/track/6jak4Fou65AgcZoLpNDN74"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -1315,18 +1315,18 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "Greatest Hits: 50s",
-        "url": "https://open.spotify.com/album/7HYRCENbrRxmnP9P7cqz3t"
+        "name": "All the Greatest Hits Ever Made, Vol. 2 (Remastered)",
+        "url": "https://open.spotify.com/album/5zQ5WRP0Fp7gVZrWTVl4gR"
       },
       "artists": [
         {
-          "name": "Ronnie Hilton",
-          "url": "https://open.spotify.com/artist/3EdBvBQhLB43ayLxB3gf6M"
+          "name": "Kay Starr",
+          "url": "https://open.spotify.com/artist/7rpf45DdbpweG51Acze45i"
         }
       ],
-      "duration_ms": 162760,
-      "name": "Around the World",
-      "url": "https://open.spotify.com/track/4QqN9qiEznIbrZPJKFrfMx"
+      "duration_ms": 170343,
+      "name": "Changing Partners - Remastered",
+      "url": "https://open.spotify.com/track/6xtJ7cccbNbmCiwk3NzIpB"
     }
   ],
   "unique_name": "Easy 50s",

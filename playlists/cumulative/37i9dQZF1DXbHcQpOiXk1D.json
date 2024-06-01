@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "The best from Britain's vibrant scene. Cover: Jordan Rakei",
+  "description": "The best from Britain's vibrant scene. Cover: Nubiyan Twist",
   "name": "Jazz UK",
   "tracks": [
     {
@@ -2994,7 +2994,7 @@
       ],
       "date_added": "2023-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 277026,
       "name": "Eye to Eye",
       "url": "https://open.spotify.com/track/30kI3i0mbyg8dXu7aEpqK4"
@@ -3668,7 +3668,7 @@
       ],
       "date_added": "2023-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 249675,
       "name": "Friday Film Special",
       "url": "https://open.spotify.com/track/0lqR8aeTHqvcZwVDBH3kaJ"
@@ -5120,7 +5120,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-08",
+      "date_removed": null,
       "duration_ms": 161283,
       "name": "Jupiter",
       "url": "https://open.spotify.com/track/1cDgeJEQvI5PDmWU16R1n5"
@@ -6416,6 +6416,32 @@
       "duration_ms": 260592,
       "name": "Melanin",
       "url": "https://open.spotify.com/track/6yLj5FNhGIkYmGY0sO1KCw"
+    },
+    {
+      "album": {
+        "name": "Messimalism (Above Thought)",
+        "url": "https://open.spotify.com/album/0CjY2PxtolrVrSt4SLGUKn"
+      },
+      "artists": [
+        {
+          "name": "Emanative",
+          "url": "https://open.spotify.com/artist/5XNaa9EOra6P39TWGbCXuB"
+        },
+        {
+          "name": "Peter Zummo",
+          "url": "https://open.spotify.com/artist/0ewl0qCpOyHsNk9Uw6VdAe"
+        },
+        {
+          "name": "James Holden",
+          "url": "https://open.spotify.com/artist/15e0X6NuMsVuHi7AZhcfyI"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 404458,
+      "name": "Messimalism (Above Thought)",
+      "url": "https://open.spotify.com/track/7Bc6osTposJWE6bsej6fcv"
     },
     {
       "album": {
@@ -8008,7 +8034,7 @@
       ],
       "date_added": "2023-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 218244,
       "name": "Raven Flies Low [Feat. Benji B, Raven Bush, Theon Cross, Nubya Garcia, Tom Herbert, Shabaka Hutchings, Nikolaj Torp Larsen, Dave Okumu, Nick Ramm, Dan See, Tom Skinner, Martin Terefe] - Single Edit",
       "url": "https://open.spotify.com/track/4uIsRHhz5M7uT7YV0LDoQD"
@@ -9310,7 +9336,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-27",
+      "date_removed": null,
       "duration_ms": 202119,
       "name": "Spooki - Ash Walker Dub",
       "url": "https://open.spotify.com/track/4kgqO6HU9XZbVsvucuzbbz"
@@ -10693,6 +10719,32 @@
     },
     {
       "album": {
+        "name": "Tuna Salad Samba",
+        "url": "https://open.spotify.com/album/2HdHgXthMDcgX7ksS9Z8pz"
+      },
+      "artists": [
+        {
+          "name": "Leo Nankawa",
+          "url": "https://open.spotify.com/artist/1HEPFSSBiBQjUr4G1B3ZBV"
+        },
+        {
+          "name": "Saiming",
+          "url": "https://open.spotify.com/artist/7iIrU7sHGT5yo0TOKIe6D9"
+        },
+        {
+          "name": "Bpm Music Collective",
+          "url": "https://open.spotify.com/artist/2klqFMaLynLDesQ295QNV8"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158873,
+      "name": "Tuna Salad Samba",
+      "url": "https://open.spotify.com/track/0wkTHSjxa25LvFpK79FGAq"
+    },
+    {
+      "album": {
         "name": "Turn Back Time",
         "url": "https://open.spotify.com/album/0ado2qZLcbZzaYLvrwjPej"
       },
@@ -11604,7 +11656,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 220001,
       "name": "Woe Is Me",
       "url": "https://open.spotify.com/track/6vtf3U3toO8stSeLInVJtL"

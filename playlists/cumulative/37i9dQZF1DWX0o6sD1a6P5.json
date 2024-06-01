@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The hottest Afropop, Afrobeats and Afro-Caribbean hits, all in one place. Cover: Olamide x CKay",
+  "description": "The hottest Afropop, Afrobeats and Afro-Caribbean hits, all in one place. Cover: Ayra Starr",
   "name": "Afro Hits",
   "tracks": [
     {
@@ -1504,7 +1504,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 177692,
       "name": "Biso Mibale (feat. Jungeli)",
       "url": "https://open.spotify.com/track/5Ymv6tlT7HgheiAfiU12mN"
@@ -5780,7 +5780,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 146292,
       "name": "J'en ai pas",
       "url": "https://open.spotify.com/track/621ayeY7Bg1TDPJKeyZyj7"
@@ -6463,6 +6463,24 @@
     },
     {
       "album": {
+        "name": "Laisse Tomber",
+        "url": "https://open.spotify.com/album/20jWza11L5iUfZjchs8JW4"
+      },
+      "artists": [
+        {
+          "name": "Hulk Van JMF",
+          "url": "https://open.spotify.com/artist/2D2Wm1oAJrDRzXVzxkyBOE"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137533,
+      "name": "Laisse Tomber",
+      "url": "https://open.spotify.com/track/03rYPudz35ckybOHBjULcs"
+    },
+    {
+      "album": {
         "name": "Laisser tomber",
         "url": "https://open.spotify.com/album/3TtFeFYZfbJX323OZ1Ahqs"
       },
@@ -6500,6 +6518,28 @@
       "duration_ms": 152913,
       "name": "Lanke",
       "url": "https://open.spotify.com/track/3mYXLXiDW6iRIht6dfusIy"
+    },
+    {
+      "album": {
+        "name": "The Year I Turned 21",
+        "url": "https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "Giveon",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149677,
+      "name": "Last Heartbreak Song (feat. Giveon)",
+      "url": "https://open.spotify.com/track/1A1ifX8sWzelNpkL5PxcHT"
     },
     {
       "album": {
@@ -7065,6 +7105,24 @@
     },
     {
       "album": {
+        "name": "LV",
+        "url": "https://open.spotify.com/album/4qtJhVIXtYsOmRYDlcnFOi"
+      },
+      "artists": [
+        {
+          "name": "SenSey'",
+          "url": "https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140540,
+      "name": "LV",
+      "url": "https://open.spotify.com/track/2uDFdzVQ7QFEPoagFlMxRB"
+    },
+    {
+      "album": {
         "name": "Ma ch\u00e9rie",
         "url": "https://open.spotify.com/album/2Ff3vqpWfrBskuHurHzaK3"
       },
@@ -7420,7 +7478,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 192935,
       "name": "Me & U",
       "url": "https://open.spotify.com/track/4nFrcGM7MY1mpoQCC7Kefj"

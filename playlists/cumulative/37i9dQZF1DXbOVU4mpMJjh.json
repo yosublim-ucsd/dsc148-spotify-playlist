@@ -9849,6 +9849,24 @@
     },
     {
       "album": {
+        "name": "Keep It Away",
+        "url": "https://open.spotify.com/album/0dFaKf06k82X1bt6cOFvXw"
+      },
+      "artists": [
+        {
+          "name": "Steve Luke & Holloway",
+          "url": "https://open.spotify.com/artist/4rK2sefIZVrvpsz6MoXKvY"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204680,
+      "name": "Keep It Away",
+      "url": "https://open.spotify.com/track/5qo8pe8fFJ6uO0q3F1qmxP"
+    },
+    {
+      "album": {
         "name": "Keeping Records",
         "url": "https://open.spotify.com/album/3sVOt2neHbez0mTDaRrvX7"
       },
@@ -21550,7 +21568,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 387494,
       "name": "You Know I Care",
       "url": "https://open.spotify.com/track/3mdmA5e62x4CEXVIUZ2S92"

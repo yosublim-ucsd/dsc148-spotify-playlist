@@ -4,7 +4,7 @@
 
 > In the mood for live Christian and Gospel music? This is the one\. Cover: Dunsin Oyekan
 
-78 songs - 10 hr 18 min
+80 songs - 10 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Excess Love \- Remix](https://open.spotify.com/track/6Iv1BDGnzb7MnTfqYS8iNV) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp), [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Youthful Praise](https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0) | [SATISFIED](https://open.spotify.com/album/6ob1gwzBctp5HnzXhyBH3b) | 8:27 | 2024-02-23 |  |
 | [Fear Not \- Live](https://open.spotify.com/track/6JNOrgmjEmlIkJGLPak4hO) | [Thinah Zungu](https://open.spotify.com/artist/0gqiNXIGbyBCBsbQ4TWJlg), [Dumi Mkokstad](https://open.spotify.com/artist/7FfBAT4utQnGFnzAqidA6p) | [Live at Soweto Theater](https://open.spotify.com/album/7e0vBGk87YGodfK0eFnho2) | 7:53 | 2024-02-23 |  |
 | [Fragrance to Fire](https://open.spotify.com/track/7eGDM90StP3QFkcwJPaLRg) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [The Gospel of the Kingdom](https://open.spotify.com/album/25YIWvGm47WqKctz8k76r5) | 10:57 | 2024-02-23 |  |
+| [FRESH FIRE \- LIVE](https://open.spotify.com/track/7sDMSbBoYKZBu5BGwtJWAP) | [Ruke Gure](https://open.spotify.com/artist/3kJycPCLqMjSCHGEjvMUlz) | [FRESH FIRE \(LIVE\)](https://open.spotify.com/album/1DiDnNc3mQqPu4lUDDU0gw) | 6:43 | 2024-05-31 |  |
 | [Goliathi \(Live at Goshen City Church 2023\)](https://open.spotify.com/track/5cVaaESVeWB9bTMLXaC6KZ) | [SbuNoah](https://open.spotify.com/artist/6Hmj1Zk3LCAFn8xvujto6O) | [Goliathi \(Live at Goshen City Church 2023\)](https://open.spotify.com/album/3tprEY7g0ha2s23TvgIsy2) | 6:49 | 2024-05-03 |  |
 | [Haleluyah Mdumiseni \(Live\)](https://open.spotify.com/track/0cnL9GGXyZen3MtNb4pQCl) | [Lebo Sekgobela](https://open.spotify.com/artist/1s806zCT9QwrPEKEa0EEsx) | [Restored \(Live\)](https://open.spotify.com/album/4CVpV7NAYwOeWuZ9FSbFZ5) | 7:13 | 2024-02-23 |  |
 | [Hlala nami Jesu \(Live at Goshen City Church 2023\)](https://open.spotify.com/track/7IfLc4ghOUY1MgGfM0vk0m) | [SbuNoah](https://open.spotify.com/artist/6Hmj1Zk3LCAFn8xvujto6O) | [Hlala nami Jesu \(Live at Goshen City Church 2023\)](https://open.spotify.com/album/4vET4sXpDK2XZpSTzBqm2V) | 5:16 | 2024-03-29 | 2024-04-12 |
@@ -82,6 +83,7 @@
 | [Worthy of My Praise](https://open.spotify.com/track/2TfDq6YUBAiX09xTlH2bhX) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM), [Lawrence Oyor](https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI) | [The Great Commission](https://open.spotify.com/album/1ceKYPCijmkMxAaD3eIpJc) | 13:28 | 2024-04-26 |  |
 | [YESHUA \(He's Here\)](https://open.spotify.com/track/3PffWaqQ97gxU14p11gEGQ) | [Femi Matthew](https://open.spotify.com/artist/7qbbVep7mQeoDhYGAx8XsM), [AJIRI](https://open.spotify.com/artist/5QmzNWdaaqL5m9DDRIko0y) | [YESHUA \(He's Here\)](https://open.spotify.com/album/3KkO7K3l4bZXOER18E9LLz) | 8:17 | 2024-05-17 |  |
 | [Yesu Wena UnguMhlobo \- Live](https://open.spotify.com/track/3j3Jn0bcG8rzliG4vHBYCa) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration 23 \- Live at the CTICC Cape Town](https://open.spotify.com/album/4opHAaQZPtP5nMZacYfZtj) | 5:49 | 2024-02-23 |  |
+| [You Are Good \(Live\)](https://open.spotify.com/track/0QxBzysFWqcmyIZtJM2B3s) | [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf) | [You Are Good \(Live\)](https://open.spotify.com/album/0eOUqWmOTdPZ8fxnhedGhP) | 4:34 | 2024-05-31 |  |
 | [You Are Worthy](https://open.spotify.com/track/3agNg2Dsn2LpHO9i0M112R) | [Tope Alabi](https://open.spotify.com/artist/1WDoaSGtFrO4ZPMZqLiaEU) | [Yes And Amen](https://open.spotify.com/album/31Zvl6ebdEQwBfqju54Ji0) | 6:45 | 2024-02-23 | 2024-04-19 |
 | [You Are Worthy](https://open.spotify.com/track/0BTicoVlzcnlfMK2W8RJdW) | [Tope Alabi](https://open.spotify.com/artist/1WDoaSGtFrO4ZPMZqLiaEU) | [Yes And Amen](https://open.spotify.com/album/2FEhibjz3n9PCtrwNiC1fH) | 6:45 | 2024-02-23 |  |
 | [You I Live For \- Live at Bliss Experience](https://open.spotify.com/track/2lgTUPSsNM3okBb4mZ7Nx1) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [More Than Music \(Transcendent Worship\)](https://open.spotify.com/album/6WDklyokogcK9ZZqcFEJeg) | 7:22 | 2024-02-23 |  |

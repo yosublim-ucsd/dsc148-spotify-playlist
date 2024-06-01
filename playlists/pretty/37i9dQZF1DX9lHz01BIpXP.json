@@ -1,6 +1,6 @@
 {
   "description": "Die beste in Afrikaanse Hip Hop. Cover: <a href=\"https://open.spotify.com/artist/6CzVcrDqwjvTDr3uxyNgWG?si=5-3ltZAmQIajFl12I2zImA\">Early B</a> ",
-  "num_followers": 1561,
+  "num_followers": 1565,
   "original_name": "Afrikaanse Hip Hop",
   "owner": {
     "name": "Spotify",
@@ -507,22 +507,18 @@
     {
       "added_at": "2024-02-15 22:00:00",
       "album": {
-        "name": "Violence (Afrikaans Drill)",
-        "url": "https://open.spotify.com/album/0jObNX3R2nb3iYkuTDN8MN"
+        "name": "Bishop Lavis",
+        "url": "https://open.spotify.com/album/0oqmKdcmYZVjaFPM30JZnF"
       },
       "artists": [
         {
-          "name": "SwiinkBEATS.Ltd",
-          "url": "https://open.spotify.com/artist/1CgMsuCR1kJBIHfmj2obaG"
-        },
-        {
-          "name": "KG Lucas",
-          "url": "https://open.spotify.com/artist/0EapRyIBol6qpPBm7hPd9l"
+          "name": "Mr Heinz",
+          "url": "https://open.spotify.com/artist/1ONbGb6rAiwalf2VHjsdxL"
         }
       ],
-      "duration_ms": 220366,
-      "name": "Violence - Afrikaans Drill",
-      "url": "https://open.spotify.com/track/6S9YhbxX3kHqUhYAoAR4Og"
+      "duration_ms": 198620,
+      "name": "Lavis",
+      "url": "https://open.spotify.com/track/0suMtWepSXO0xP4dBfcdF7"
     },
     {
       "added_at": "2024-02-15 22:00:00",
@@ -561,6 +557,26 @@
       "url": "https://open.spotify.com/track/5Jg22KmtTCnFtdKlBO3ENv"
     },
     {
+      "added_at": "2024-02-15 22:00:00",
+      "album": {
+        "name": "Violence (Afrikaans Drill)",
+        "url": "https://open.spotify.com/album/0jObNX3R2nb3iYkuTDN8MN"
+      },
+      "artists": [
+        {
+          "name": "SwiinkBEATS.Ltd",
+          "url": "https://open.spotify.com/artist/1CgMsuCR1kJBIHfmj2obaG"
+        },
+        {
+          "name": "KG Lucas",
+          "url": "https://open.spotify.com/artist/0EapRyIBol6qpPBm7hPd9l"
+        }
+      ],
+      "duration_ms": 220366,
+      "name": "Violence - Afrikaans Drill",
+      "url": "https://open.spotify.com/track/6S9YhbxX3kHqUhYAoAR4Og"
+    },
+    {
       "added_at": "2024-02-29 22:00:00",
       "album": {
         "name": "Nou Wat Nou",
@@ -579,22 +595,6 @@
       "duration_ms": 222809,
       "name": "Nou Wat Nou",
       "url": "https://open.spotify.com/track/5j35dPtFWA3cE0GRu1JNt7"
-    },
-    {
-      "added_at": "2024-02-15 22:00:00",
-      "album": {
-        "name": "Bishop Lavis",
-        "url": "https://open.spotify.com/album/0oqmKdcmYZVjaFPM30JZnF"
-      },
-      "artists": [
-        {
-          "name": "Mr Heinz",
-          "url": "https://open.spotify.com/artist/1ONbGb6rAiwalf2VHjsdxL"
-        }
-      ],
-      "duration_ms": 198620,
-      "name": "Lavis",
-      "url": "https://open.spotify.com/track/0suMtWepSXO0xP4dBfcdF7"
     },
     {
       "added_at": "2024-02-29 22:00:00",
@@ -663,22 +663,6 @@
     {
       "added_at": "2024-02-15 22:00:00",
       "album": {
-        "name": "Hopeless",
-        "url": "https://open.spotify.com/album/1Vpan89LcSJn14BVEq2DDD"
-      },
-      "artists": [
-        {
-          "name": "Marky Futurekid",
-          "url": "https://open.spotify.com/artist/0VKwzWkYVBRwmyykRhCWFr"
-        }
-      ],
-      "duration_ms": 183550,
-      "name": "Hopeless",
-      "url": "https://open.spotify.com/track/4pmnGONjm31Llig19zwpde"
-    },
-    {
-      "added_at": "2024-02-15 22:00:00",
-      "album": {
         "name": "OGlizzy",
         "url": "https://open.spotify.com/album/58cgGZyo8nD6zMFjdMfQFH"
       },
@@ -695,6 +679,22 @@
     {
       "added_at": "2024-02-15 22:00:00",
       "album": {
+        "name": "Hopeless",
+        "url": "https://open.spotify.com/album/1Vpan89LcSJn14BVEq2DDD"
+      },
+      "artists": [
+        {
+          "name": "Marky Futurekid",
+          "url": "https://open.spotify.com/artist/0VKwzWkYVBRwmyykRhCWFr"
+        }
+      ],
+      "duration_ms": 183550,
+      "name": "Hopeless",
+      "url": "https://open.spotify.com/track/4pmnGONjm31Llig19zwpde"
+    },
+    {
+      "added_at": "2024-02-15 22:00:00",
+      "album": {
         "name": "Way Back",
         "url": "https://open.spotify.com/album/6IKLbddOqFbBZQ6VQGwcDk"
       },
@@ -707,6 +707,26 @@
       "duration_ms": 209655,
       "name": "Way Back",
       "url": "https://open.spotify.com/track/527mz0huuO9JxDvSPitqzl"
+    },
+    {
+      "added_at": "2024-02-15 22:00:00",
+      "album": {
+        "name": "Sal Alright is",
+        "url": "https://open.spotify.com/album/30XOqBXKgS6q4rHt4oeCDL"
+      },
+      "artists": [
+        {
+          "name": "Shameel Afrikaans Music",
+          "url": "https://open.spotify.com/artist/5JVEUKZM50V4pnjV8Rv6Yl"
+        },
+        {
+          "name": "BIGDMUZIC",
+          "url": "https://open.spotify.com/artist/5SILa3QBUig6bmSsaCHIur"
+        }
+      ],
+      "duration_ms": 252395,
+      "name": "Sal Alright is",
+      "url": "https://open.spotify.com/track/2tNf5CIEfQ0FNIXereIvAQ"
     },
     {
       "added_at": "2024-02-15 22:00:00",
@@ -729,22 +749,6 @@
       "url": "https://open.spotify.com/track/2hoT3UMzDU3FeeRDnL0lOD"
     },
     {
-      "added_at": "2024-02-15 22:00:00",
-      "album": {
-        "name": "Deh!",
-        "url": "https://open.spotify.com/album/38J1BiT27OyRsI60572LsP"
-      },
-      "artists": [
-        {
-          "name": "Epidemi",
-          "url": "https://open.spotify.com/artist/4mb93T3CWJd1pKp2XAsp9K"
-        }
-      ],
-      "duration_ms": 159686,
-      "name": "Deh!",
-      "url": "https://open.spotify.com/track/1PJqCEQSbxRaeWwDSlJBXJ"
-    },
-    {
       "added_at": "2024-02-22 22:00:00",
       "album": {
         "name": "Wat Ek Moet Doen",
@@ -763,6 +767,22 @@
     {
       "added_at": "2024-02-15 22:00:00",
       "album": {
+        "name": "Deh!",
+        "url": "https://open.spotify.com/album/38J1BiT27OyRsI60572LsP"
+      },
+      "artists": [
+        {
+          "name": "Epidemi",
+          "url": "https://open.spotify.com/artist/4mb93T3CWJd1pKp2XAsp9K"
+        }
+      ],
+      "duration_ms": 159686,
+      "name": "Deh!",
+      "url": "https://open.spotify.com/track/1PJqCEQSbxRaeWwDSlJBXJ"
+    },
+    {
+      "added_at": "2024-02-15 22:00:00",
+      "album": {
         "name": "Forever",
         "url": "https://open.spotify.com/album/3XFk6y7qOGBONEP0C7Vlme"
       },
@@ -775,26 +795,6 @@
       "duration_ms": 121208,
       "name": "Los Hom",
       "url": "https://open.spotify.com/track/7Iec6TaiOl3rOaqW3cTCfk"
-    },
-    {
-      "added_at": "2024-02-15 22:00:00",
-      "album": {
-        "name": "Sal Alright is",
-        "url": "https://open.spotify.com/album/30XOqBXKgS6q4rHt4oeCDL"
-      },
-      "artists": [
-        {
-          "name": "Shameel Afrikaans Music",
-          "url": "https://open.spotify.com/artist/5JVEUKZM50V4pnjV8Rv6Yl"
-        },
-        {
-          "name": "BIGDMUZIC",
-          "url": "https://open.spotify.com/artist/5SILa3QBUig6bmSsaCHIur"
-        }
-      ],
-      "duration_ms": 252395,
-      "name": "Sal Alright is",
-      "url": "https://open.spotify.com/track/2tNf5CIEfQ0FNIXereIvAQ"
     },
     {
       "added_at": "2024-02-15 22:00:00",
@@ -823,6 +823,22 @@
     {
       "added_at": "2024-02-15 22:00:00",
       "album": {
+        "name": "Big Cee",
+        "url": "https://open.spotify.com/album/59W9gdp4g28mnEy5KAXnmz"
+      },
+      "artists": [
+        {
+          "name": "Cee Jay Zondagh",
+          "url": "https://open.spotify.com/artist/4VmAlrF7izp3l9EaOzSedM"
+        }
+      ],
+      "duration_ms": 205440,
+      "name": "Trap In Die Hood",
+      "url": "https://open.spotify.com/track/1knJxiQusxbgHW0oKjwOym"
+    },
+    {
+      "added_at": "2024-02-15 22:00:00",
+      "album": {
         "name": "Da Money",
         "url": "https://open.spotify.com/album/3adAOGcOj3SiDgZcExb9bN"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 224000,
       "name": "Da Money",
       "url": "https://open.spotify.com/track/2PpXTeSSxwZ3CfqI1or0wM"
-    },
-    {
-      "added_at": "2024-02-15 22:00:00",
-      "album": {
-        "name": "Big Cee",
-        "url": "https://open.spotify.com/album/59W9gdp4g28mnEy5KAXnmz"
-      },
-      "artists": [
-        {
-          "name": "Cee Jay Zondagh",
-          "url": "https://open.spotify.com/artist/4VmAlrF7izp3l9EaOzSedM"
-        }
-      ],
-      "duration_ms": 205440,
-      "name": "Trap In Die Hood",
-      "url": "https://open.spotify.com/track/1knJxiQusxbgHW0oKjwOym"
     },
     {
       "added_at": "2024-02-15 22:00:00",
@@ -895,22 +895,6 @@
     {
       "added_at": "2024-02-15 22:00:00",
       "album": {
-        "name": "4EvR",
-        "url": "https://open.spotify.com/album/5rEvOfwPXeii3VdzsIIWlN"
-      },
-      "artists": [
-        {
-          "name": "Hxnry",
-          "url": "https://open.spotify.com/artist/5dtikmaABYcNvQG4d5zfUQ"
-        }
-      ],
-      "duration_ms": 88737,
-      "name": "4EvR",
-      "url": "https://open.spotify.com/track/7gEtSGK5PaKgh0gbT1oEXz"
-    },
-    {
-      "added_at": "2024-02-15 22:00:00",
-      "album": {
         "name": "3 Eye",
         "url": "https://open.spotify.com/album/7nib0P6SMbUAc46envB1mf"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 216036,
       "name": "3 Eye",
       "url": "https://open.spotify.com/track/4j9VeWjzXx53kdf4u5T7p6"
+    },
+    {
+      "added_at": "2024-02-15 22:00:00",
+      "album": {
+        "name": "4EvR",
+        "url": "https://open.spotify.com/album/5rEvOfwPXeii3VdzsIIWlN"
+      },
+      "artists": [
+        {
+          "name": "Hxnry",
+          "url": "https://open.spotify.com/artist/5dtikmaABYcNvQG4d5zfUQ"
+        }
+      ],
+      "duration_ms": 88737,
+      "name": "4EvR",
+      "url": "https://open.spotify.com/track/7gEtSGK5PaKgh0gbT1oEXz"
     }
   ],
   "unique_name": "Afrikaanse Hip Hop",

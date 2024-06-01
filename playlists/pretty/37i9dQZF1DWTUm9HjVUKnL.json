@@ -1,13 +1,45 @@
 {
-  "description": "The full collection of Spotify Singles recordings. Cover: Sabrina Carpenter",
-  "num_followers": 219445,
+  "description": "The full collection of Spotify Singles recordings. Cover: Ravyn Lenae",
+  "num_followers": 219483,
   "original_name": "Spotify Singles: Complete Collection",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkZ2ygAAAAA85oLp096A+40pm/633N/x",
+  "snapshot_id": "ZlobQgAAAAC6xas3Q6HY3jtC7upJF98k",
   "tracks": [
+    {
+      "added_at": "2024-05-31 18:47:14",
+      "album": {
+        "name": "Ravyn Lenae - Spotify Singles",
+        "url": "https://open.spotify.com/album/6LTLO1em5gSsWWlBCOBazT"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "duration_ms": 164747,
+      "name": "Love Is Blind - Spotify Singles",
+      "url": "https://open.spotify.com/track/4f22oWm76LYThaa1FpDuUw"
+    },
+    {
+      "added_at": "2024-05-31 18:47:14",
+      "album": {
+        "name": "Ravyn Lenae - Spotify Singles",
+        "url": "https://open.spotify.com/album/6LTLO1em5gSsWWlBCOBazT"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "duration_ms": 226355,
+      "name": "Killing Me Softly With His Song - Spotify Singles",
+      "url": "https://open.spotify.com/track/3bhNKifdyaf0TUr7bBxQGU"
+    },
     {
       "added_at": "2024-05-16 17:07:32",
       "album": {

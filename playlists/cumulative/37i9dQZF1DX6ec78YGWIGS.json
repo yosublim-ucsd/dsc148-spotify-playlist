@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-16",
-  "description": "Lo nuevo y lo m\u00e1s escuchado del pop. Foto: Rauw Alejandro\n",
+  "description": "Lo nuevo y lo m\u00e1s escuchado del pop. Foto: Paulo Londra\n",
   "name": "POP FLOW",
   "tracks": [
     {
@@ -206,7 +206,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 164750,
       "name": "Abrazaditos",
       "url": "https://open.spotify.com/track/7wJ6YSZqZCsZlmmGb9Qx6Z"
@@ -268,6 +268,28 @@
       "duration_ms": 177911,
       "name": "Agradezco Haberme Equivocado",
       "url": "https://open.spotify.com/track/0SaC0FpkUs2DDmYATSC5HW"
+    },
+    {
+      "album": {
+        "name": "AGUA",
+        "url": "https://open.spotify.com/album/2daYTVco0NxVypNAiVnlbt"
+      },
+      "artists": [
+        {
+          "name": "CA7RIEL & Paco Amoroso",
+          "url": "https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX"
+        },
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140957,
+      "name": "AGUA",
+      "url": "https://open.spotify.com/track/04eJJNfLPEC8bvTnJeyxGO"
     },
     {
       "album": {
@@ -3566,7 +3588,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 154794,
       "name": "Misi\u00f3n Imposible",
       "url": "https://open.spotify.com/track/6Lj2ZtFODa5p3fCXp2FfIl"
@@ -4513,6 +4535,24 @@
     },
     {
       "album": {
+        "name": "Posdata:",
+        "url": "https://open.spotify.com/album/0oBnKQ2chigdzlJkUuVBYk"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169162,
+      "name": "Posdata:",
+      "url": "https://open.spotify.com/track/1dqZaWGQf8CaHNIEi3e0D9"
+    },
+    {
+      "album": {
         "name": "posta",
         "url": "https://open.spotify.com/album/40qHcVnx8VFQxi9uVzVa4Z"
       },
@@ -4728,6 +4768,28 @@
       "duration_ms": 106124,
       "name": "R\u00e1pido",
       "url": "https://open.spotify.com/track/4SxSaGLmgyCCVDgbjZmKvV"
+    },
+    {
+      "album": {
+        "name": "S.O.S",
+        "url": "https://open.spotify.com/album/6EyvfUT1Fw4ibKocckl5DE"
+      },
+      "artists": [
+        {
+          "name": "TAICHU",
+          "url": "https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN"
+        },
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182432,
+      "name": "S.O.S",
+      "url": "https://open.spotify.com/track/4qVFJdnzV5xhdGpD6RBvEr"
     },
     {
       "album": {
@@ -5380,7 +5442,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 209487,
       "name": "Training Season",
       "url": "https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap"

@@ -4411,6 +4411,24 @@
     },
     {
       "album": {
+        "name": "Cloud atlas",
+        "url": "https://open.spotify.com/album/41pHVbKtLzopnpaRlRc5hM"
+      },
+      "artists": [
+        {
+          "name": "Auley Gere",
+          "url": "https://open.spotify.com/artist/2JlV3vR07HGe6joOPztyuz"
+        }
+      ],
+      "date_added": "2024-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153500,
+      "name": "Cloud atlas",
+      "url": "https://open.spotify.com/track/2tAlaCNIJHqvjpZV08uymp"
+    },
+    {
+      "album": {
         "name": "Folk Dances",
         "url": "https://open.spotify.com/album/32CyfCvWsvfa17HsxAoodi"
       },
@@ -7584,7 +7602,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 149452,
       "name": "Faraway",
       "url": "https://open.spotify.com/track/0QjruwWxe5CipAcRGb9fln"
@@ -13086,7 +13104,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 123441,
       "name": "La rue de montmartre",
       "url": "https://open.spotify.com/track/4m6OniLUajvVowVSOtyi5J"
@@ -20396,7 +20414,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 143496,
       "name": "Pulse of living light",
       "url": "https://open.spotify.com/track/1CYRKw69N0CUGig2uPDvmg"
@@ -22395,6 +22413,24 @@
     },
     {
       "album": {
+        "name": "Secret Meadow",
+        "url": "https://open.spotify.com/album/3vqbinG3yAqZhYdCuq9eKM"
+      },
+      "artists": [
+        {
+          "name": "Cole Neumann",
+          "url": "https://open.spotify.com/artist/74auvTTfi03X3mGsJxUqEi"
+        }
+      ],
+      "date_added": "2024-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147524,
+      "name": "Secret Meadow",
+      "url": "https://open.spotify.com/track/0CtYYa8anV9WcP4R7WEP6c"
+    },
+    {
+      "album": {
         "name": "Open Heart",
         "url": "https://open.spotify.com/album/6KqwdEQSVFX3SkaT6hrcJd"
       },
@@ -23371,6 +23407,24 @@
     },
     {
       "album": {
+        "name": "Slowly \u6162\u6162\u5730",
+        "url": "https://open.spotify.com/album/5gQPws4thKwNUF73TcUGIx"
+      },
+      "artists": [
+        {
+          "name": "Li Zemin",
+          "url": "https://open.spotify.com/artist/2v3FBpuuu8EdWvmS8OOctA"
+        }
+      ],
+      "date_added": "2024-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129828,
+      "name": "Slowly \u6162\u6162\u5730",
+      "url": "https://open.spotify.com/track/4qly3FfGri8B6IwAFOfO9T"
+    },
+    {
+      "album": {
         "name": "Smile in the wind",
         "url": "https://open.spotify.com/album/0uQE309NUZTFs9jfLV4KSp"
       },
@@ -23904,7 +23958,7 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 185698,
       "name": "Sort Of Sentimental",
       "url": "https://open.spotify.com/track/56Wvp4BvcVgAosMtz1dkuV"

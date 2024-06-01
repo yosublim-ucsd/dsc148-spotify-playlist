@@ -9250,10 +9250,6 @@
       },
       "artists": [
         {
-          "name": "Yannc",
-          "url": "https://open.spotify.com/artist/3rqKgkODmiyDdimpz5D3y1"
-        },
-        {
           "name": "Full Harmony",
           "url": "https://open.spotify.com/artist/05zdv8cIoFjW1CLROPsqkE"
         },
@@ -9272,6 +9268,10 @@
         {
           "name": "J Abdiel",
           "url": "https://open.spotify.com/artist/17SY5q1CMOZJBRuPcKWwPI"
+        },
+        {
+          "name": "Yannc",
+          "url": "https://open.spotify.com/artist/3rqKgkODmiyDdimpz5D3y1"
         }
       ],
       "date_added": "2024-05-24",

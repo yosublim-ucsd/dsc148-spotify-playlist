@@ -1,6 +1,6 @@
 {
   "description": "Soul Music daqui e de fora, um toque de sensibilidade. Foto: Cassiano",
-  "num_followers": 131524,
+  "num_followers": 131779,
   "original_name": "Melodia & Nostalgia",
   "owner": {
     "name": "Spotify",
@@ -299,6 +299,22 @@
     {
       "added_at": "2023-09-14 19:15:58",
       "album": {
+        "name": "Karyn White",
+        "url": "https://open.spotify.com/album/2Ck4KnfNbVPQqcRkmsDt6F"
+      },
+      "artists": [
+        {
+          "name": "Karyn White",
+          "url": "https://open.spotify.com/artist/5lJBrQQ88JjskJmJeVKX4F"
+        }
+      ],
+      "duration_ms": 347453,
+      "name": "Superwoman",
+      "url": "https://open.spotify.com/track/3bceL3NJmM8sKwr5dyrKAz"
+    },
+    {
+      "added_at": "2023-09-14 19:15:58",
+      "album": {
         "name": "Harold Melvin & The Blue Notes (feat. Teddy Pendergrass)",
         "url": "https://open.spotify.com/album/3Yqyi7rmyXYDbcc0qJzXef"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 205906,
       "name": "If You Don't Know Me by Now (feat. Teddy Pendergrass)",
       "url": "https://open.spotify.com/track/3NElqDNNnzvWYOwsbxLQKN"
-    },
-    {
-      "added_at": "2023-09-14 19:15:58",
-      "album": {
-        "name": "Karyn White",
-        "url": "https://open.spotify.com/album/2Ck4KnfNbVPQqcRkmsDt6F"
-      },
-      "artists": [
-        {
-          "name": "Karyn White",
-          "url": "https://open.spotify.com/artist/5lJBrQQ88JjskJmJeVKX4F"
-        }
-      ],
-      "duration_ms": 347453,
-      "name": "Superwoman",
-      "url": "https://open.spotify.com/track/3bceL3NJmM8sKwr5dyrKAz"
     },
     {
       "added_at": "2023-09-14 19:15:58",
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-09-14 19:15:58",
       "album": {
-        "name": "The Best Of Stephanie Mills",
-        "url": "https://open.spotify.com/album/39zaDShYbKOKXiOLArBrhO"
-      },
-      "artists": [
-        {
-          "name": "Stephanie Mills",
-          "url": "https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g"
-        }
-      ],
-      "duration_ms": 325173,
-      "name": "Never Knew Love Like This Before",
-      "url": "https://open.spotify.com/track/4EUlszQIxlPwiHJ6e6j6Gy"
-    },
-    {
-      "added_at": "2023-09-14 19:15:58",
-      "album": {
         "name": "In A Special Way",
         "url": "https://open.spotify.com/album/4TcXnypScHBMIwlVa1rGGa"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 225573,
       "name": "Stay With Me",
       "url": "https://open.spotify.com/track/5jlcCqsD7yJdwhZYAhoCFY"
+    },
+    {
+      "added_at": "2023-09-14 19:15:58",
+      "album": {
+        "name": "The Best Of Stephanie Mills",
+        "url": "https://open.spotify.com/album/39zaDShYbKOKXiOLArBrhO"
+      },
+      "artists": [
+        {
+          "name": "Stephanie Mills",
+          "url": "https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g"
+        }
+      ],
+      "duration_ms": 325173,
+      "name": "Never Knew Love Like This Before",
+      "url": "https://open.spotify.com/track/4EUlszQIxlPwiHJ6e6j6Gy"
     },
     {
       "added_at": "2023-09-14 19:15:58",
@@ -939,22 +939,6 @@
     {
       "added_at": "2023-09-14 19:15:58",
       "album": {
-        "name": "Glow",
-        "url": "https://open.spotify.com/album/6P4wMdPtRficqe9zTxm7jL"
-      },
-      "artists": [
-        {
-          "name": "Al Jarreau",
-          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
-        }
-      ],
-      "duration_ms": 338386,
-      "name": "Your Song",
-      "url": "https://open.spotify.com/track/04JxGb2a7q9da31eNNCPs6"
-    },
-    {
-      "added_at": "2023-09-14 19:15:58",
-      "album": {
         "name": "Betty Wright Live",
         "url": "https://open.spotify.com/album/1jssvEYMHpe5sR0PwRhUTu"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 498866,
       "name": "Tonight Is the Night - Live",
       "url": "https://open.spotify.com/track/4vzcQG9LnS00DR6s2fSS3j"
+    },
+    {
+      "added_at": "2023-09-14 19:15:58",
+      "album": {
+        "name": "Glow",
+        "url": "https://open.spotify.com/album/6P4wMdPtRficqe9zTxm7jL"
+      },
+      "artists": [
+        {
+          "name": "Al Jarreau",
+          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
+        }
+      ],
+      "duration_ms": 338386,
+      "name": "Your Song",
+      "url": "https://open.spotify.com/track/04JxGb2a7q9da31eNNCPs6"
     },
     {
       "added_at": "2023-09-14 19:15:58",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2023-09-14 19:15:58",
       "album": {
+        "name": "Vows Of Love",
+        "url": "https://open.spotify.com/album/5CxM6SVKWudQD9C2LEkJkD"
+      },
+      "artists": [
+        {
+          "name": "New Edition",
+          "url": "https://open.spotify.com/artist/1mFX1QlezK1lNPKQJkhwWb"
+        }
+      ],
+      "duration_ms": 254000,
+      "name": "Is This the End",
+      "url": "https://open.spotify.com/track/3aUvAn5WkN1s1nWTbdQp3S"
+    },
+    {
+      "added_at": "2023-09-14 19:15:58",
+      "album": {
         "name": "A Donny Hathaway Collection",
         "url": "https://open.spotify.com/album/2D2sMtTf1Db5bkSRGvWGKB"
       },
@@ -1251,22 +1267,6 @@
       "duration_ms": 254453,
       "name": "You Are My Heaven (feat. Donny Hathaway)",
       "url": "https://open.spotify.com/track/36Lo6DYzqyGLVFoPQSspmF"
-    },
-    {
-      "added_at": "2023-09-14 19:15:58",
-      "album": {
-        "name": "Vows Of Love",
-        "url": "https://open.spotify.com/album/5CxM6SVKWudQD9C2LEkJkD"
-      },
-      "artists": [
-        {
-          "name": "New Edition",
-          "url": "https://open.spotify.com/artist/1mFX1QlezK1lNPKQJkhwWb"
-        }
-      ],
-      "duration_ms": 254000,
-      "name": "Is This the End",
-      "url": "https://open.spotify.com/track/3aUvAn5WkN1s1nWTbdQp3S"
     },
     {
       "added_at": "2023-09-14 19:15:58",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2023-09-14 19:15:58",
       "album": {
-        "name": "Shadow Dancing",
-        "url": "https://open.spotify.com/album/1A8ZxoWwWbn9Ak2k8p3DTn"
-      },
-      "artists": [
-        {
-          "name": "Andy Gibb",
-          "url": "https://open.spotify.com/artist/4YPqbAiLzBg5DIfsgQZ8QK"
-        }
-      ],
-      "duration_ms": 250200,
-      "name": "(Our Love) Don't Throw It All Away",
-      "url": "https://open.spotify.com/track/1Rj2vKjzAVzsnmofZzYFWh"
-    },
-    {
-      "added_at": "2023-09-14 19:15:58",
-      "album": {
         "name": "As Inesquec\u00edveis De Tim Maia",
         "url": "https://open.spotify.com/album/4W5RIZq0lxqtncklhpH2hV"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 282066,
       "name": "Amiga",
       "url": "https://open.spotify.com/track/0jlDIEbvMEFycwPA5eWBar"
+    },
+    {
+      "added_at": "2023-09-14 19:15:58",
+      "album": {
+        "name": "Shadow Dancing",
+        "url": "https://open.spotify.com/album/1A8ZxoWwWbn9Ak2k8p3DTn"
+      },
+      "artists": [
+        {
+          "name": "Andy Gibb",
+          "url": "https://open.spotify.com/artist/4YPqbAiLzBg5DIfsgQZ8QK"
+        }
+      ],
+      "duration_ms": 250200,
+      "name": "(Our Love) Don't Throw It All Away",
+      "url": "https://open.spotify.com/track/1Rj2vKjzAVzsnmofZzYFWh"
     },
     {
       "added_at": "2023-09-14 19:15:58",
@@ -1447,18 +1447,18 @@
     {
       "added_at": "2023-09-14 19:15:58",
       "album": {
-        "name": "Music Box",
-        "url": "https://open.spotify.com/album/2NKxb7pk04CuZab5udkGUl"
+        "name": "iCollection",
+        "url": "https://open.spotify.com/album/3yFSvoGiwt8MvGIhPvL4Sn"
       },
       "artists": [
         {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+          "name": "Tim Maia",
+          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
         }
       ],
-      "duration_ms": 257733,
-      "name": "Hero",
-      "url": "https://open.spotify.com/track/4FCb4CUbFCMNRkI6lYc1zI"
+      "duration_ms": 300133,
+      "name": "Um dia de domingo",
+      "url": "https://open.spotify.com/track/41UtrfZQMk8598NmRIbZlt"
     },
     {
       "added_at": "2023-09-14 19:15:58",
@@ -1475,6 +1475,22 @@
       "duration_ms": 290933,
       "name": "Let's Get It On",
       "url": "https://open.spotify.com/track/39l1UORIhuHvUWfxG53tRZ"
+    },
+    {
+      "added_at": "2023-09-14 19:15:58",
+      "album": {
+        "name": "Music Box",
+        "url": "https://open.spotify.com/album/2NKxb7pk04CuZab5udkGUl"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "duration_ms": 257733,
+      "name": "Hero",
+      "url": "https://open.spotify.com/track/4FCb4CUbFCMNRkI6lYc1zI"
     },
     {
       "added_at": "2023-09-14 19:15:58",
@@ -1507,22 +1523,6 @@
       "duration_ms": 165160,
       "name": "Ben",
       "url": "https://open.spotify.com/track/3DUNaBEHqpXsrY7sXWlWpX"
-    },
-    {
-      "added_at": "2023-09-14 19:15:58",
-      "album": {
-        "name": "iCollection",
-        "url": "https://open.spotify.com/album/3yFSvoGiwt8MvGIhPvL4Sn"
-      },
-      "artists": [
-        {
-          "name": "Tim Maia",
-          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
-        }
-      ],
-      "duration_ms": 300133,
-      "name": "Um dia de domingo",
-      "url": "https://open.spotify.com/track/41UtrfZQMk8598NmRIbZlt"
     },
     {
       "added_at": "2023-09-14 19:15:58",
@@ -1607,6 +1607,22 @@
     {
       "added_at": "2023-09-14 19:15:58",
       "album": {
+        "name": "iCollection",
+        "url": "https://open.spotify.com/album/3yFSvoGiwt8MvGIhPvL4Sn"
+      },
+      "artists": [
+        {
+          "name": "Tim Maia",
+          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
+        }
+      ],
+      "duration_ms": 291106,
+      "name": "Me d\u00ea motivos",
+      "url": "https://open.spotify.com/track/30DmZoDNZaaLTWtur7cI66"
+    },
+    {
+      "added_at": "2023-09-14 19:15:58",
+      "album": {
         "name": "Barry White - Universal Masters Collection",
         "url": "https://open.spotify.com/album/5ogEmmn5ptsW34WRZLBOJs"
       },
@@ -1635,22 +1651,6 @@
       "duration_ms": 203000,
       "name": "Betcha By Golly Wow",
       "url": "https://open.spotify.com/track/76oVHMIHm1UNWLEcCnrNG8"
-    },
-    {
-      "added_at": "2023-09-14 19:15:58",
-      "album": {
-        "name": "iCollection",
-        "url": "https://open.spotify.com/album/3yFSvoGiwt8MvGIhPvL4Sn"
-      },
-      "artists": [
-        {
-          "name": "Tim Maia",
-          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
-        }
-      ],
-      "duration_ms": 291106,
-      "name": "Me d\u00ea motivos",
-      "url": "https://open.spotify.com/track/30DmZoDNZaaLTWtur7cI66"
     },
     {
       "added_at": "2023-09-14 19:15:58",

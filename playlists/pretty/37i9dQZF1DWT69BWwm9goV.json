@@ -1,13 +1,29 @@
 {
-  "description": "A collection of songs from Spotify's new video series OUTSIDE & Green Screen, plus more of our favorite tracks from featured artists. Cover: That Mexican OT",
-  "num_followers": 573,
+  "description": "A collection of songs from Spotify's new video series OUTSIDE & Green Screen, plus more of our favorite tracks from featured artists. Cover: Vampire Weekend",
+  "num_followers": 598,
   "original_name": "OUTSIDE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZhAi1wAAAABOfVKWDNx4rUAOwbUdIu3e",
+  "snapshot_id": "ZloGDAAAAABD9YZYAM6iOQ9uMDnzGVR4",
   "tracks": [
+    {
+      "added_at": "2024-05-31 17:16:59",
+      "album": {
+        "name": "Prep-School Gangsters (Spotify OUTSIDE Version) - Live from Queens, NY",
+        "url": "https://open.spotify.com/album/4BXnoSeA4uOTWm29ZXDLZu"
+      },
+      "artists": [
+        {
+          "name": "Vampire Weekend",
+          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+        }
+      ],
+      "duration_ms": 203000,
+      "name": "Prep-School Gangsters (Spotify OUTSIDE Version) - Live from Queens, NY",
+      "url": "https://open.spotify.com/track/3QlLPR0FihjO5CGGfsaxoW"
+    },
     {
       "added_at": "2024-04-04 19:42:28",
       "album": {

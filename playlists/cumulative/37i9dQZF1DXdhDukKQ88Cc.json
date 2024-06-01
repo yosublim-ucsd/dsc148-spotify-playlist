@@ -143,6 +143,24 @@
     },
     {
       "album": {
+        "name": "Aldrig Alene",
+        "url": "https://open.spotify.com/album/0ycAu4h4VWO0wo0PuBvn8X"
+      },
+      "artists": [
+        {
+          "name": "PAY",
+          "url": "https://open.spotify.com/artist/3WreFZLJqFGK3VJbxYewaU"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156496,
+      "name": "Aldrig Alene",
+      "url": "https://open.spotify.com/track/4TcrnNLEiMfSrg1uXOzk1E"
+    },
+    {
+      "album": {
         "name": "Alt vi har er nu (Artigeardit, Lamin)",
         "url": "https://open.spotify.com/album/0OO5fNXA3JRABs8vRpvSSQ"
       },
@@ -1126,6 +1144,28 @@
     {
       "album": {
         "name": "Fiesta",
+        "url": "https://open.spotify.com/album/0ibuiCtHWmTftzZpTZAxtD"
+      },
+      "artists": [
+        {
+          "name": "Gio",
+          "url": "https://open.spotify.com/artist/11WOy8bNZ7WpdX89ILYNEW"
+        },
+        {
+          "name": "Jimilian",
+          "url": "https://open.spotify.com/artist/7wy9Plp8SD5l3LDuJubTcv"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145979,
+      "name": "Fiesta",
+      "url": "https://open.spotify.com/track/0bZcMRbdHEu7mJfx3233xN"
+    },
+    {
+      "album": {
+        "name": "Fiesta",
         "url": "https://open.spotify.com/album/2orIoKQ5g0mxhWZyh8umbZ"
       },
       "artists": [
@@ -1311,6 +1351,24 @@
     },
     {
       "album": {
+        "name": "GO",
+        "url": "https://open.spotify.com/album/445LOHJRfwq4dR3f77oWBF"
+      },
+      "artists": [
+        {
+          "name": "Cizzo",
+          "url": "https://open.spotify.com/artist/4mDyp9yRHugUnXvIBrt9xP"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154838,
+      "name": "GO",
+      "url": "https://open.spotify.com/track/3ZhAJ9vOYKeaeo8m2OtKlh"
+    },
+    {
+      "album": {
         "name": "Graffiti",
         "url": "https://open.spotify.com/album/01aGurolrsjwZJbQ6V7KuH"
       },
@@ -1490,6 +1548,28 @@
       "duration_ms": 159359,
       "name": "HONEYMOON",
       "url": "https://open.spotify.com/track/6D6N8pH1B0K2FI6DC2bxeY"
+    },
+    {
+      "album": {
+        "name": "De Her Timer",
+        "url": "https://open.spotify.com/album/3Q4XiWwBXMxMlz9LZ2cZYo"
+      },
+      "artists": [
+        {
+          "name": "Lamin",
+          "url": "https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP"
+        },
+        {
+          "name": "Gilli",
+          "url": "https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158666,
+      "name": "Hva Du P\u00e5 (feat. Gilli)",
+      "url": "https://open.spotify.com/track/2j59di23XCFfbdJPE5KuNw"
     },
     {
       "album": {

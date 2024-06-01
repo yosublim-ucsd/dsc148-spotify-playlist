@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "All things <a href=\"spotify:genre:bass\">bass</a> with Tape B and Mersiv",
+  "description": "All things <a href=\"spotify:genre:bass\">bass</a> with Ray Volpe",
   "name": "Bass Arcade",
   "tracks": [
     {
@@ -1006,7 +1006,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-20",
+      "date_removed": null,
       "duration_ms": 148800,
       "name": "Back For More",
       "url": "https://open.spotify.com/track/1waYHmEXR5mFJCfEYfa2BL"
@@ -2752,7 +2752,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 150110,
       "name": "Can't Talk",
       "url": "https://open.spotify.com/track/6tz0fj2mcbqBJ3ljWWWGQN"
@@ -3790,6 +3790,24 @@
       "duration_ms": 165339,
       "name": "Dead Meat",
       "url": "https://open.spotify.com/track/3wkkZI6VWRJW3SvbzhwDEE"
+    },
+    {
+      "album": {
+        "name": "Deadweight",
+        "url": "https://open.spotify.com/album/5Yz3dm81FYXsbNWPDDeq2P"
+      },
+      "artists": [
+        {
+          "name": "GorillaT",
+          "url": "https://open.spotify.com/artist/3zcOegUrWqti1S0lu4juJz"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194742,
+      "name": "Deadweight",
+      "url": "https://open.spotify.com/track/5xl3rrZFBuxZCbd4dBIvld"
     },
     {
       "album": {
@@ -5003,6 +5021,24 @@
     },
     {
       "album": {
+        "name": "EDGE (2024 Version)",
+        "url": "https://open.spotify.com/album/2c9M8aAcUN2hqs7lfNTThk"
+      },
+      "artists": [
+        {
+          "name": "Rezz",
+          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179612,
+      "name": "EDGE - 2024 Version",
+      "url": "https://open.spotify.com/track/4sG2mY9YIrqC6zJByChKSN"
+    },
+    {
+      "album": {
         "name": "Embers",
         "url": "https://open.spotify.com/album/4hhmTA5VDMXfEyjDudkMBn"
       },
@@ -5508,7 +5544,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 206222,
       "name": "Exorcise Me",
       "url": "https://open.spotify.com/track/1tziQLnwIV0WHbyrlSAk2R"
@@ -5894,6 +5930,24 @@
       "duration_ms": 204000,
       "name": "FAR OUT",
       "url": "https://open.spotify.com/track/0DT3f2Y9UEwGdJC7f4FOzH"
+    },
+    {
+      "album": {
+        "name": "FROM DARKNESS",
+        "url": "https://open.spotify.com/album/6bT6Jab0G44yTVuKSNthvc"
+      },
+      "artists": [
+        {
+          "name": "Deathpact",
+          "url": "https://open.spotify.com/artist/09C3CKFxKEw1n1Z7kvT3jb"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288000,
+      "name": "FATE",
+      "url": "https://open.spotify.com/track/0pCU13PjrLBP9cC1AsqHQS"
     },
     {
       "album": {
@@ -7825,6 +7879,28 @@
     },
     {
       "album": {
+        "name": "HERO",
+        "url": "https://open.spotify.com/album/7I2VE1YSuYCXY4SzVzbojo"
+      },
+      "artists": [
+        {
+          "name": "Adventure Club",
+          "url": "https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa"
+        },
+        {
+          "name": "Jessica Audiffred",
+          "url": "https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225600,
+      "name": "HERO",
+      "url": "https://open.spotify.com/track/10LJKB5IyEZX4uimdwOi6t"
+    },
+    {
+      "album": {
         "name": "Dogwater",
         "url": "https://open.spotify.com/album/6SXovZDtjTYPfYTZ0yVxHx"
       },
@@ -8068,7 +8144,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 191022,
       "name": "Hot In Here",
       "url": "https://open.spotify.com/track/0jzGm5fCcbUdaiUj4hAxeM"
@@ -8488,7 +8564,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 181414,
       "name": "If Love Could Have Saved You",
       "url": "https://open.spotify.com/track/7D5vd0DZ2zR0NoIeaX0stb"
@@ -9755,6 +9831,28 @@
     },
     {
       "album": {
+        "name": "LONESUM",
+        "url": "https://open.spotify.com/album/2WH0ugu7j4bRskcIM6vpgM"
+      },
+      "artists": [
+        {
+          "name": "Shadient",
+          "url": "https://open.spotify.com/artist/6ADRET3UXTOmGBjjO67fNd"
+        },
+        {
+          "name": "nikko",
+          "url": "https://open.spotify.com/artist/5fEybpxnFCsR5r5UeyEFiq"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241681,
+      "name": "LONESUM",
+      "url": "https://open.spotify.com/track/1fBXuxv3zwdJHiFPolGZYe"
+    },
+    {
+      "album": {
         "name": "Looking For More",
         "url": "https://open.spotify.com/album/3j32wZ0pudc0BLviHDVpi3"
       },
@@ -11002,7 +11100,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 216000,
       "name": "Native Curse",
       "url": "https://open.spotify.com/track/3f93sYaZnHwVjNBt0RPO0W"
@@ -11740,7 +11838,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 123600,
       "name": "oh ah",
       "url": "https://open.spotify.com/track/31fAQ8MjS5r3hgIQMx17Pn"
@@ -12923,7 +13021,7 @@
     },
     {
       "album": {
-        "name": "Push",
+        "name": "Push (feat. OFFAIAH)",
         "url": "https://open.spotify.com/album/3GSEVlHrbrQbKSP4ozWzx8"
       },
       "artists": [
@@ -12940,19 +13038,19 @@
           "url": "https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN"
         },
         {
-          "name": "contra",
-          "url": "https://open.spotify.com/artist/5VYRcaryFLFZnA5HvnRHFi"
-        },
-        {
           "name": "OFFAIAH",
           "url": "https://open.spotify.com/artist/2E1NFr5AeEGUJkLUUsWCAO"
+        },
+        {
+          "name": "contra",
+          "url": "https://open.spotify.com/artist/5VYRcaryFLFZnA5HvnRHFi"
         }
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 185244,
-      "name": "Push",
+      "name": "Push (feat. OFFAIAH)",
       "url": "https://open.spotify.com/track/29OFLlrrfKIEVwbVMTjBYe"
     },
     {
@@ -13226,7 +13324,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 184000,
       "name": "RAVEN",
       "url": "https://open.spotify.com/track/6tk1LRABEXt2zygYj3jmPt"
@@ -13260,6 +13358,24 @@
       "duration_ms": 204444,
       "name": "RE-IGNITION",
       "url": "https://open.spotify.com/track/3R1618eXJB4mMxIZzLv3Ac"
+    },
+    {
+      "album": {
+        "name": "Ready",
+        "url": "https://open.spotify.com/album/28L9X6U77JifjqebpAblPb"
+      },
+      "artists": [
+        {
+          "name": "Chef Boyarbeatz",
+          "url": "https://open.spotify.com/artist/7nSk3iFPogRCOokrMliejt"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312685,
+      "name": "Ready",
+      "url": "https://open.spotify.com/track/5UiLXejLr3X5cghyYD6clj"
     },
     {
       "album": {
@@ -15391,6 +15507,24 @@
     },
     {
       "album": {
+        "name": "SONG REQUEST",
+        "url": "https://open.spotify.com/album/1Wq5lav9Emu0I4cVkHwIFz"
+      },
+      "artists": [
+        {
+          "name": "Ray Volpe",
+          "url": "https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204923,
+      "name": "SONG REQUEST",
+      "url": "https://open.spotify.com/track/4ZlcezbAuIfO400BvhlvtD"
+    },
+    {
+      "album": {
         "name": "SPLIT // PERSONALITY",
         "url": "https://open.spotify.com/album/6ndnEYMopLIxV3Bn3pAKDl"
       },
@@ -16264,7 +16398,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 164572,
       "name": "Tear Jerker - Ookay Remix",
       "url": "https://open.spotify.com/track/6m9Sq54GUNiqE75MbZIe8j"
@@ -16400,7 +16534,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-25",
+      "date_removed": null,
       "duration_ms": 181090,
       "name": "that's what you get",
       "url": "https://open.spotify.com/track/0RrZuYRSDMiPpYpSIs3dfS"
@@ -17806,7 +17940,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 172137,
       "name": "Voodoo - NGHTMRE Remix",
       "url": "https://open.spotify.com/track/17Qks76rdTLEZkFObBNVm6"

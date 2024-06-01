@@ -1,13 +1,29 @@
 {
   "description": "Bringing the roaring 20s into the 2020s",
-  "num_followers": 379713,
+  "num_followers": 379755,
   "original_name": "Electro Swing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlAQwAAAAAAiWkVPZ++O0MticXEELMJt",
+  "snapshot_id": "ZllLQAAAAADxh4a6sUhef2mTdQPMyQRZ",
   "tracks": [
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "Rosco's Groove",
+        "url": "https://open.spotify.com/album/2mTXktFqQA61Amotu6fQwq"
+      },
+      "artists": [
+        {
+          "name": "Odd Chap",
+          "url": "https://open.spotify.com/artist/2bUYKdepfgDuZiRQJdvooU"
+        }
+      ],
+      "duration_ms": 174375,
+      "name": "Rosco's Groove",
+      "url": "https://open.spotify.com/track/1bm1Zba5IyvaBP6Q9oyq8i"
+    },
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
@@ -2743,26 +2759,6 @@
       "duration_ms": 161831,
       "name": "Feel so Happy - Bbop Future Swing Remix",
       "url": "https://open.spotify.com/track/7adN8Av6zDGZN3CXmzuSYQ"
-    },
-    {
-      "added_at": "2023-11-06 13:47:16",
-      "album": {
-        "name": "Take a Chance",
-        "url": "https://open.spotify.com/album/7C7UxHKdKurxaXT0ad97ua"
-      },
-      "artists": [
-        {
-          "name": "Odd Chap",
-          "url": "https://open.spotify.com/artist/2bUYKdepfgDuZiRQJdvooU"
-        },
-        {
-          "name": "Sarah Myers",
-          "url": "https://open.spotify.com/artist/5lSNVCx1AOhPmWCwJWVcUO"
-        }
-      ],
-      "duration_ms": 212647,
-      "name": "Take a Chance",
-      "url": "https://open.spotify.com/track/2ERX8OsW2XCm5OoctkbHqF"
     },
     {
       "added_at": "2024-02-23 05:01:00",

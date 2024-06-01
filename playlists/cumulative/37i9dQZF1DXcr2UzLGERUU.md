@@ -4,7 +4,7 @@
 
 > Wind down in moments of stress with these chilled songs for the whole family.
 
-156 songs - 8 hr 26 min
+157 songs - 8 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,7 @@
 | [I'll Always Love You](https://open.spotify.com/track/6xY7CmImqIfHHlesaUg2oO) | [Netflix Jr.](https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH), [Winter River](https://open.spotify.com/artist/3qbipbZdbYVPJUroZzAoLA) | [Netflix Jr\. Jams: Vol\. 3](https://open.spotify.com/album/2TUshFZxuXqiX6KOKoj6CP) | 2:53 | 2022-04-01 | 2022-11-17 |
 | [I'll Always Love You](https://open.spotify.com/track/7nZf4oOrYSOnlDSPiObea9) | [Netflix Jr.](https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH), [Winter River](https://open.spotify.com/artist/3qbipbZdbYVPJUroZzAoLA) | [Netflix Jr\. Jams: Vol\. 3](https://open.spotify.com/album/2Zc0nzqLHanTAqcnlltkEz) | 2:53 | 2022-04-01 | 2024-04-19 |
 | [If There Is A Song](https://open.spotify.com/track/5Yvm5MxwVNoLdNgy2zpSEW) | [Odessa](https://open.spotify.com/artist/7xtlNrmdLZS2sqIkgWewi1) | [Lullabies for Adults & Children](https://open.spotify.com/album/39hjO63EvM6Jibz9i4z5cX) | 2:43 | 2022-04-01 | 2023-04-09 |
-| [If You Can't Sleep](https://open.spotify.com/track/7AMcaukss7ZzlLDe6bLALN) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Volume Two](https://open.spotify.com/album/221n4vc2VnAGUyOrhKDNjX) | 2:48 | 2022-04-01 |  |
+| [If You Can't Sleep](https://open.spotify.com/track/7AMcaukss7ZzlLDe6bLALN) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Volume Two](https://open.spotify.com/album/221n4vc2VnAGUyOrhKDNjX) | 2:48 | 2022-04-01 | 2024-06-01 |
 | [If You Can't Sleep](https://open.spotify.com/track/7o2T5dYOjQf7qpmavRerQE) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Volume Two](https://open.spotify.com/album/47A8zr0CzKLILnYcrXh2Rc) | 2:48 | 2022-04-01 | 2024-04-19 |
 | [In A World Of My Own](https://open.spotify.com/track/3CMlS1vLmP66520KgVUMcy) | [Diana Panton](https://open.spotify.com/artist/7iHXhGerkdpvUAIb67GCSj) | [I Believe In Little Things](https://open.spotify.com/album/1FlKW25Y5D6l8fTeuCqq8E) | 3:58 | 2022-04-01 | 2024-04-19 |
 | [In a World of My Own](https://open.spotify.com/track/7dZxdl7WCKrMACQ9ha982f) | [Diana Panton](https://open.spotify.com/artist/7iHXhGerkdpvUAIb67GCSj) | [I Believe in Little Things](https://open.spotify.com/album/1uinrEFIJaxI9mjybo0DFj) | 3:58 | 2022-04-01 |  |
@@ -119,7 +119,7 @@
 | [Rainbow](https://open.spotify.com/track/79qxwHypONUt3AFq0WPpT9) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 3:34 | 2022-04-01 |  |
 | [Rainbow](https://open.spotify.com/track/4Az0EgaVS9K60uIw1ZKWRV) | [Ms\. Niki](https://open.spotify.com/artist/126iLhrucMwXb50bDUYazJ) | [All One Tribe](https://open.spotify.com/album/1EEVSonqRIjEB0DapNIRs8) | 3:24 | 2022-04-01 |  |
 | [Rainbow Connection](https://open.spotify.com/track/4QF9pqkiRHrXbajvbr6Vdv) | [Trespassers William](https://open.spotify.com/artist/05DG9WOML9BsHwUS5HCcRa) | [Sing Me to Sleep: Indie Lullabies](https://open.spotify.com/album/47c5bpI6VYdwMAMb24rSi6) | 4:01 | 2022-04-01 |  |
-| [Rest Your Head On My Shoulder](https://open.spotify.com/track/07jFL6Z173J4zH2R2SGGRM) | [Seeker Lover Keeper](https://open.spotify.com/artist/18E9agcfYi1KIQlJivdEcX) | [Seeker Lover Keeper](https://open.spotify.com/album/1uEWX9bX1dnHFY4WUN5r9F) | 3:31 | 2022-04-01 |  |
+| [Rest Your Head On My Shoulder](https://open.spotify.com/track/07jFL6Z173J4zH2R2SGGRM) | [Seeker Lover Keeper](https://open.spotify.com/artist/18E9agcfYi1KIQlJivdEcX) | [Seeker Lover Keeper](https://open.spotify.com/album/1uEWX9bX1dnHFY4WUN5r9F) | 3:31 | 2022-04-01 | 2024-06-01 |
 | [Right Here](https://open.spotify.com/track/1qE2VaY6WxPzPFraprTIX7) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [Right Here](https://open.spotify.com/album/5aPuy7TykLKig3QG4Ca6Tu) | 3:55 | 2022-04-01 |  |
 | [Round and Round](https://open.spotify.com/track/37VX6Nxmj2cN3FlV0mK9HN) | [Lucy Kalantari & the Jazz Cats](https://open.spotify.com/artist/6WkbYGc8Fyh56mAdlLb6g8) | [What Kind of World?](https://open.spotify.com/album/585HjRgw08zmo5tlbWfZOE) | 2:48 | 2022-04-01 | 2023-04-09 |
 | [Sea of Love](https://open.spotify.com/track/1J3w85cS3FEmoSKRu2dQJ8) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [The Covers Record](https://open.spotify.com/album/5FbcUqv44TZnt8Ox6bzzZT) | 2:19 | 2022-04-01 |  |
@@ -135,6 +135,7 @@
 | [Stop](https://open.spotify.com/track/2rRzttrSfWlKdbzYmY12TE) | [Lisa Mitchell](https://open.spotify.com/artist/53f2OKMfVLTsHFkGyA5dnz) | [Stop](https://open.spotify.com/album/0ulzcCwuCKN0ryMlFQiNRe) | 3:45 | 2022-04-01 |  |
 | [Stop](https://open.spotify.com/track/5FRdj2bkR49zqZmsRr9RFn) | [Lisa Mitchell](https://open.spotify.com/artist/53f2OKMfVLTsHFkGyA5dnz) | [Stop](https://open.spotify.com/album/5OSFd1HYaSDQgHB9xVOE0v) | 3:45 | 2022-04-01 | 2024-04-19 |
 | [Stop](https://open.spotify.com/track/4vg6b1c4gRUf3bbfw6foL5) | [Lisa Mitchell](https://open.spotify.com/artist/53f2OKMfVLTsHFkGyA5dnz) | [When They Play That Song](https://open.spotify.com/album/57IFR7Ra6B0nCTQAHhM7CO) | 3:45 | 2022-04-01 | 2022-11-13 |
+| [Strawberry Wind](https://open.spotify.com/track/5wSaigfweofO6AaGdvlH7V) | [Jessie Baylin](https://open.spotify.com/artist/1hzFN1aqlgBtzx2WnSK6tT) | [Strawberry Wind \(Deluxe Edition\)](https://open.spotify.com/album/40Oz70wz3zImnmIKNEJb2l) | 3:11 | 2024-05-31 |  |
 | [Summer Days](https://open.spotify.com/track/0ETcX26w2dtcPeL4gL7o4P) | [Music with Michal](https://open.spotify.com/artist/0yWkbyIrjncjW6FdtfgRSc) | [Summer Days](https://open.spotify.com/album/5pVy5wPtKm0ZrRNEvLbn4u) | 2:20 | 2022-04-01 | 2023-04-09 |
 | [Sweet Child O' Mine](https://open.spotify.com/track/3yOMhAM9ZwBjuKQv4pPWYs) | [Renee & Jeremy](https://open.spotify.com/artist/7IBisryIBGbvj4wBDuRvy5), [Renee Stahl](https://open.spotify.com/artist/2WfQMdILaDJoPYCcWKKqpJ), [Jeremy Toback](https://open.spotify.com/artist/1aH1XTozXuGinGzdNWzyrt) | [Whole Lotta Love](https://open.spotify.com/album/1VbKUzv2wMxhQq1itmdHyR) | 3:20 | 2022-04-01 |  |
 | [Talk](https://open.spotify.com/track/39MnFb4Bxbedxkkczhhhwg) | [Acoustic Heartstrings](https://open.spotify.com/artist/3YcYQvh90LabrI6cVQBoG4) | [Acoustic Guitar Renditions of Khalid](https://open.spotify.com/album/08DaLZWaOQAo0qYpHCWRgE) | 3:59 | 2022-04-01 |  |

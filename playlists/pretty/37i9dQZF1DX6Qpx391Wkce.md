@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Qpx391Wkce.md) - [plain]
 
 > <a href="spotify:artist:2xeHjPrS4EnEUIXHV9pkeg">Monika Kruse</a>'s favorite tracks\. Updated regularly\. Curated by Monika Kruse\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,741 likes - 60 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,819 likes - 60 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Silver Spark](https://open.spotify.com/track/2oMMOQL2NiNC97TEDmyjMk) | [Monika Kruse](https://open.spotify.com/artist/2xeHjPrS4EnEUIXHV9pkeg) | [Silver Spark](https://open.spotify.com/album/0SWoFlfVjModLr3r5qeVNi) | 4:21 |
 | 2 | [Hymn \- ANNA Remix](https://open.spotify.com/track/23Os1oNXl4d8EQ2PwehrEj) | [Len Faki](https://open.spotify.com/artist/3fI3Z6NnYoeSQjcqPQDbM4), [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om) | [Hymn \(ANNA Remix\)](https://open.spotify.com/album/0L4bEIsrLPVEx3cm0RPnQF) | 6:48 |
-| 3 | [Crazy People \- Victor Ruiz Remix](https://open.spotify.com/track/3amcv0aAbe57YRevwUxjVw) | [Liquid Soul](https://open.spotify.com/artist/2OayjBrvpxhiDrV2KzKehh), [Victor Ruiz](https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z) | [Crazy People \(Victor Ruiz Remix\)](https://open.spotify.com/album/6TyFYm26pb39Lms5kOnOac) | 7:14 |
+| 3 | [Crazy People \- Victor Ruiz Remix](https://open.spotify.com/track/3amcv0aAbe57YRevwUxjVw) | [Liquid Soul](https://open.spotify.com/artist/64nL3MP8zmuLqUq8DDaIKS), [Victor Ruiz](https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z) | [Crazy People \(Victor Ruiz Remix\)](https://open.spotify.com/album/6TyFYm26pb39Lms5kOnOac) | 7:14 |
 | 4 | [Drum Control](https://open.spotify.com/track/7wkx2AEsHeNAlnMZZD3rKB) | [Kaspar](https://open.spotify.com/artist/679xKCdF1dBRH0gGgZfcCC) | [Drum Control](https://open.spotify.com/album/5c7tkcbmRZQU6GSBdgRi4z) | 4:52 |
 | 5 | [Nitro](https://open.spotify.com/track/5Y1yjmrecSxXk9dt9hwvr2) | [Wehbba](https://open.spotify.com/artist/2UzAShzs3DO53bSZqvf8Ri) | [Nitro](https://open.spotify.com/album/1Ulfcs34i5xWug4fiV0dtS) | 5:56 |
 | 6 | [Out of the Past \- Pan\-Pot Remix](https://open.spotify.com/track/3Jr7D9Yt3oAGHmJxp4SDUs) | [André Galluzzi](https://open.spotify.com/artist/1V9PJvMVxLIxhCdHCn8SC6), [Daniel Stefanik](https://open.spotify.com/artist/20w4lkhgYymklaCG4V6525), [Pan\-Pot](https://open.spotify.com/artist/6OQOvP7RAdmAKVXXQqD0Se) | [Out of the Past \(Pan\-Pot Remix\)](https://open.spotify.com/album/1DjJEvHqUNe31sZxcJSNQV) | 7:12 |

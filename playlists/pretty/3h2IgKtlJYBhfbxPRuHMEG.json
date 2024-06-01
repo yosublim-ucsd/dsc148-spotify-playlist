@@ -1,13 +1,29 @@
 {
-  "description": "The best EDM, Trap, Electronic, Drum&amp;Bass. Cover: IMANU",
+  "description": "The best EDM, Trap, Electronic, Drum&amp;Bass. Cover: Holly",
   "num_followers": 488,
   "original_name": "Bass Drop",
   "owner": {
     "name": "Digster Canada",
     "url": "https://open.spotify.com/user/digsterca"
   },
-  "snapshot_id": "AAADsiTPq3BGiHgdHf+nMTpwYoorqWJY",
+  "snapshot_id": "AAADth1iQlSHgPlshGD5LsYp76id7N3g",
   "tracks": [
+    {
+      "added_at": "2024-05-31 13:31:12",
+      "album": {
+        "name": "IF YOU JUST A PUNK",
+        "url": "https://open.spotify.com/album/6MzGJovzK9noVUf7lHfUqD"
+      },
+      "artists": [
+        {
+          "name": "Holly",
+          "url": "https://open.spotify.com/artist/65stAzefvkwLeulY8215Zo"
+        }
+      ],
+      "duration_ms": 161760,
+      "name": "IF YOU JUST A PUNK",
+      "url": "https://open.spotify.com/track/3nNLXUWa47wFoICvbDC1jb"
+    },
     {
       "added_at": "2024-05-22 18:15:19",
       "album": {

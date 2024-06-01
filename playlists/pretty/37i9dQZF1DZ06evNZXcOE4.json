@@ -1,13 +1,29 @@
 {
-  "description": "This Is Jane's Addiction. Los temas esenciales, todos en una lista.",
-  "num_followers": 40770,
+  "description": "This is Jane's Addiction. The essential tracks, all in one playlist.",
+  "num_followers": 40842,
   "original_name": "This Is Jane's Addiction",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlPNAAAAAADK8Vz2RUXlW5BLQ8lL0pXL",
+  "snapshot_id": "ZlfBgAAAAAA2iDOrwrSzRbDuRKFfFkae",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nothing's Shocking",
+        "url": "https://open.spotify.com/album/4DVBJPJyizvHfJQt5pYaCa"
+      },
+      "artists": [
+        {
+          "name": "Jane's Addiction",
+          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
+        }
+      ],
+      "duration_ms": 287000,
+      "name": "Jane Says",
+      "url": "https://open.spotify.com/track/7c1Dar0pIAW7w5TzaGjt9t"
+    },
     {
       "added_at": null,
       "album": {
@@ -43,22 +59,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nothing's Shocking",
-        "url": "https://open.spotify.com/album/4DVBJPJyizvHfJQt5pYaCa"
-      },
-      "artists": [
-        {
-          "name": "Jane's Addiction",
-          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
-        }
-      ],
-      "duration_ms": 242720,
-      "name": "Mountain Song",
-      "url": "https://open.spotify.com/track/5fKZJHzJ9d3MADArbm9muW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Great Escape Artist",
         "url": "https://open.spotify.com/album/2xcFxFLi8CGvJLXBiVkHQj"
       },
@@ -71,6 +71,22 @@
       "duration_ms": 240748,
       "name": "Irresistible Force",
       "url": "https://open.spotify.com/track/0D7r6CIGNRvs0IvsDOunZr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nothing's Shocking",
+        "url": "https://open.spotify.com/album/4DVBJPJyizvHfJQt5pYaCa"
+      },
+      "artists": [
+        {
+          "name": "Jane's Addiction",
+          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
+        }
+      ],
+      "duration_ms": 242720,
+      "name": "Mountain Song",
+      "url": "https://open.spotify.com/track/5fKZJHzJ9d3MADArbm9muW"
     },
     {
       "added_at": null,
@@ -107,22 +123,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nothing's Shocking",
-        "url": "https://open.spotify.com/album/4DVBJPJyizvHfJQt5pYaCa"
-      },
-      "artists": [
-        {
-          "name": "Jane's Addiction",
-          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
-        }
-      ],
-      "duration_ms": 259666,
-      "name": "Ocean Size",
-      "url": "https://open.spotify.com/track/5lCjgHTEE7tbmzDVaCloGC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jane's Addiction (Live)",
         "url": "https://open.spotify.com/album/28ap5k3SX3zdEztr89gPJa"
       },
@@ -135,6 +135,22 @@
       "duration_ms": 232266,
       "name": "I Would for You",
       "url": "https://open.spotify.com/track/5Uad25kem80E7o7L3p5HLw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nothing's Shocking",
+        "url": "https://open.spotify.com/album/4DVBJPJyizvHfJQt5pYaCa"
+      },
+      "artists": [
+        {
+          "name": "Jane's Addiction",
+          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
+        }
+      ],
+      "duration_ms": 259666,
+      "name": "Ocean Size",
+      "url": "https://open.spotify.com/track/5lCjgHTEE7tbmzDVaCloGC"
     },
     {
       "added_at": null,
@@ -171,22 +187,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nothing's Shocking",
-        "url": "https://open.spotify.com/album/4DVBJPJyizvHfJQt5pYaCa"
-      },
-      "artists": [
-        {
-          "name": "Jane's Addiction",
-          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
-        }
-      ],
-      "duration_ms": 376480,
-      "name": "Summertime Rolls",
-      "url": "https://open.spotify.com/track/2ziWygUNToqsrm3yNOD6SZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Great Escape Artist",
         "url": "https://open.spotify.com/album/0mqzGqI1ZDOWkr7we7Uard"
       },
@@ -199,6 +199,22 @@
       "duration_ms": 187746,
       "name": "Underground",
       "url": "https://open.spotify.com/track/5SleusK2Wc2SH46DVidSES"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nothing's Shocking",
+        "url": "https://open.spotify.com/album/4DVBJPJyizvHfJQt5pYaCa"
+      },
+      "artists": [
+        {
+          "name": "Jane's Addiction",
+          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
+        }
+      ],
+      "duration_ms": 376480,
+      "name": "Summertime Rolls",
+      "url": "https://open.spotify.com/track/2ziWygUNToqsrm3yNOD6SZ"
     },
     {
       "added_at": null,
@@ -235,22 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nothing's Shocking",
-        "url": "https://open.spotify.com/album/4DVBJPJyizvHfJQt5pYaCa"
-      },
-      "artists": [
-        {
-          "name": "Jane's Addiction",
-          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
-        }
-      ],
-      "duration_ms": 181000,
-      "name": "Up the Beach",
-      "url": "https://open.spotify.com/track/7CByzrzR4LCBxVI7lM8Ggv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jane's Addiction (Live)",
         "url": "https://open.spotify.com/album/28ap5k3SX3zdEztr89gPJa"
       },
@@ -263,6 +263,22 @@
       "duration_ms": 243664,
       "name": "Rock & Roll",
       "url": "https://open.spotify.com/track/5D3jslN9eR4jcbsVpt7x6g"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nothing's Shocking",
+        "url": "https://open.spotify.com/album/4DVBJPJyizvHfJQt5pYaCa"
+      },
+      "artists": [
+        {
+          "name": "Jane's Addiction",
+          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
+        }
+      ],
+      "duration_ms": 181000,
+      "name": "Up the Beach",
+      "url": "https://open.spotify.com/track/7CByzrzR4LCBxVI7lM8Ggv"
     },
     {
       "added_at": null,
@@ -299,22 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nothing's Shocking",
-        "url": "https://open.spotify.com/album/4DVBJPJyizvHfJQt5pYaCa"
-      },
-      "artists": [
-        {
-          "name": "Jane's Addiction",
-          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
-        }
-      ],
-      "duration_ms": 225240,
-      "name": "Had a Dad",
-      "url": "https://open.spotify.com/track/3HVS01vPf5NMGS7ACAyEXv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Great Escape Artist",
         "url": "https://open.spotify.com/album/0mqzGqI1ZDOWkr7we7Uard"
       },
@@ -327,6 +327,22 @@
       "duration_ms": 269613,
       "name": "Twisted Tales",
       "url": "https://open.spotify.com/track/1jcINBNyQwQW4fC83C3l51"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nothing's Shocking",
+        "url": "https://open.spotify.com/album/4DVBJPJyizvHfJQt5pYaCa"
+      },
+      "artists": [
+        {
+          "name": "Jane's Addiction",
+          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
+        }
+      ],
+      "duration_ms": 225240,
+      "name": "Had a Dad",
+      "url": "https://open.spotify.com/track/3HVS01vPf5NMGS7ACAyEXv"
     },
     {
       "added_at": null,
@@ -347,38 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Strays",
-        "url": "https://open.spotify.com/album/1Zyw4sk27JmiSQjD4gXszk"
-      },
-      "artists": [
-        {
-          "name": "Jane's Addiction",
-          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
-        }
-      ],
-      "duration_ms": 272360,
-      "name": "Wrong Girl",
-      "url": "https://open.spotify.com/track/4xAv0JDzl3NmWjVzbVmW3T"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nothing's Shocking",
-        "url": "https://open.spotify.com/album/4DVBJPJyizvHfJQt5pYaCa"
-      },
-      "artists": [
-        {
-          "name": "Jane's Addiction",
-          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
-        }
-      ],
-      "duration_ms": 185160,
-      "name": "Standing in the Shower...Thinking",
-      "url": "https://open.spotify.com/track/7DzT745Oi9NI016FEkjWNa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jane's Addiction (Live)",
         "url": "https://open.spotify.com/album/28ap5k3SX3zdEztr89gPJa"
       },
@@ -395,8 +379,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Songs of Anarchy: Volume 2 (Music from Sons of Anarchy)",
-        "url": "https://open.spotify.com/album/26zNMJYGEKI4lNVZoMGO6c"
+        "name": "Strays",
+        "url": "https://open.spotify.com/album/1Zyw4sk27JmiSQjD4gXszk"
       },
       "artists": [
         {
@@ -404,9 +388,9 @@
           "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
         }
       ],
-      "duration_ms": 326520,
-      "name": "Sympathy for the Devil - from Sons of Anarchy",
-      "url": "https://open.spotify.com/track/3kJUF78V1W8FQ0PdngeDtV"
+      "duration_ms": 272360,
+      "name": "Wrong Girl",
+      "url": "https://open.spotify.com/track/4xAv0JDzl3NmWjVzbVmW3T"
     },
     {
       "added_at": null,
@@ -427,8 +411,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Cabinet of Curiosities",
-        "url": "https://open.spotify.com/album/3OruSfm0NBmUPhwTafdktT"
+        "name": "Songs of Anarchy: Volume 2 (Music from Sons of Anarchy)",
+        "url": "https://open.spotify.com/album/26zNMJYGEKI4lNVZoMGO6c"
       },
       "artists": [
         {
@@ -436,9 +420,9 @@
           "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
         }
       ],
-      "duration_ms": 279226,
-      "name": "Ripple",
-      "url": "https://open.spotify.com/track/1DpCCcdyR4GIknFDQVZfLm"
+      "duration_ms": 326520,
+      "name": "Sympathy for the Devil - from Sons of Anarchy",
+      "url": "https://open.spotify.com/track/3kJUF78V1W8FQ0PdngeDtV"
     },
     {
       "added_at": null,
@@ -459,8 +443,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kettle Whistle",
-        "url": "https://open.spotify.com/album/2N0n31aYPEwQGUQxNvhfMw"
+        "name": "A Cabinet of Curiosities",
+        "url": "https://open.spotify.com/album/3OruSfm0NBmUPhwTafdktT"
       },
       "artists": [
         {
@@ -468,9 +452,9 @@
           "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
         }
       ],
-      "duration_ms": 263266,
-      "name": "My Cat's Name Is Maceo - Demo",
-      "url": "https://open.spotify.com/track/64evVMjyow5mvSOtqNGUZY"
+      "duration_ms": 279226,
+      "name": "Ripple",
+      "url": "https://open.spotify.com/track/1DpCCcdyR4GIknFDQVZfLm"
     },
     {
       "added_at": null,
@@ -491,8 +475,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Cabinet of Curiosities",
-        "url": "https://open.spotify.com/album/3OruSfm0NBmUPhwTafdktT"
+        "name": "Kettle Whistle",
+        "url": "https://open.spotify.com/album/2N0n31aYPEwQGUQxNvhfMw"
       },
       "artists": [
         {
@@ -500,9 +484,9 @@
           "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
         }
       ],
-      "duration_ms": 223920,
-      "name": "L.A. Medley: L.A. Woman / Nausea / Lexicon Devil - Live, 1989",
-      "url": "https://open.spotify.com/track/1emWNMyi5qMpp2zD7uYB6P"
+      "duration_ms": 263266,
+      "name": "My Cat's Name Is Maceo - Demo",
+      "url": "https://open.spotify.com/track/64evVMjyow5mvSOtqNGUZY"
     },
     {
       "added_at": null,
@@ -523,8 +507,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kettle Whistle",
-        "url": "https://open.spotify.com/album/2N0n31aYPEwQGUQxNvhfMw"
+        "name": "A Cabinet of Curiosities",
+        "url": "https://open.spotify.com/album/3OruSfm0NBmUPhwTafdktT"
       },
       "artists": [
         {
@@ -532,9 +516,9 @@
           "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
         }
       ],
-      "duration_ms": 275333,
-      "name": "Slow Divers - Live",
-      "url": "https://open.spotify.com/track/4KTJNobIzYHGWn0BkQA03r"
+      "duration_ms": 223920,
+      "name": "L.A. Medley: L.A. Woman / Nausea / Lexicon Devil - Live, 1989",
+      "url": "https://open.spotify.com/track/1emWNMyi5qMpp2zD7uYB6P"
     },
     {
       "added_at": null,
@@ -551,6 +535,22 @@
       "duration_ms": 313773,
       "name": "Splash A Little Water On It",
       "url": "https://open.spotify.com/track/6OrXMm2Ml4caLuU8D3czwU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kettle Whistle",
+        "url": "https://open.spotify.com/album/2N0n31aYPEwQGUQxNvhfMw"
+      },
+      "artists": [
+        {
+          "name": "Jane's Addiction",
+          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
+        }
+      ],
+      "duration_ms": 467493,
+      "name": "Kettle Whistle",
+      "url": "https://open.spotify.com/track/1dtmoGPBXf345SW4HT5QUM"
     },
     {
       "added_at": null,
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
         }
       ],
-      "duration_ms": 467493,
-      "name": "Kettle Whistle",
-      "url": "https://open.spotify.com/track/1dtmoGPBXf345SW4HT5QUM"
+      "duration_ms": 275333,
+      "name": "Slow Divers - Live",
+      "url": "https://open.spotify.com/track/4KTJNobIzYHGWn0BkQA03r"
     },
     {
       "added_at": null,

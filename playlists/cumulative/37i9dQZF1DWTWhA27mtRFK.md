@@ -2,7 +2,7 @@
 
 ### [New Age Classics](https://open.spotify.com/playlist/37i9dQZF1DWTWhA27mtRFK)
 
-> Open your mind to these classics from the golden era of New Age music\. Deuter on cover.
+> Open your mind to these classics from the golden era of New Age music.
 
 82 songs - 16 hr 24 min
 

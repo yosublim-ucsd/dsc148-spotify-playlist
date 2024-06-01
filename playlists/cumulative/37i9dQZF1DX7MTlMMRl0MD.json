@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "Tu lista favorita de Bachata \u2764\ufe0f Cover: Luis Miguel Del Amargue ",
+  "description": "Tu lista favorita de Bachata \u2764\ufe0f Cover: Henry Santos",
   "name": "Bachata Lovers",
   "tracks": [
     {
@@ -3946,7 +3946,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 201750,
       "name": "Me Duele - Remix",
       "url": "https://open.spotify.com/track/0a0JLEXyAPnGGYjXaeoKnc"
@@ -5602,6 +5602,24 @@
       "duration_ms": 241874,
       "name": "Qui\u00e9reme",
       "url": "https://open.spotify.com/track/0M9Qr6K4wfoGUDBDgSzXgf"
+    },
+    {
+      "album": {
+        "name": "2.0",
+        "url": "https://open.spotify.com/album/4tuxS7kkwSZ3IGqJpuc2Kd"
+      },
+      "artists": [
+        {
+          "name": "Henry Santos",
+          "url": "https://open.spotify.com/artist/1cUfMJtWJXfhTQvYGJQtaF"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250500,
+      "name": "Qu\u00edteme La Inocencia",
+      "url": "https://open.spotify.com/track/6w7Ku2mTaB2NKg59Gx2lxA"
     },
     {
       "album": {

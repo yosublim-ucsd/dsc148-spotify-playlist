@@ -1,12 +1,12 @@
 {
   "description": "This is BIGBANG. The essential tracks, all in one playlist.",
-  "num_followers": 612087,
+  "num_followers": 612145,
   "original_name": "This Is BIGBANG",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlPNAAAAAACz+oXa/4AnyfqNO2EXty5u",
+  "snapshot_id": "ZlfBgAAAAAAQBdXwCeju9ujfGnHlOl+l",
   "tracks": [
     {
       "added_at": null,
@@ -379,22 +379,6 @@
       "duration_ms": 231748,
       "name": "FXXK IT",
       "url": "https://open.spotify.com/track/3lYvepDz6yYj29z7e4r5z0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tell Me Goodbye",
-        "url": "https://open.spotify.com/album/5Nmqr0lMATwA9XzOoLYHJX"
-      },
-      "artists": [
-        {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
-        }
-      ],
-      "duration_ms": 245013,
-      "name": "Tell Me Goodbye",
-      "url": "https://open.spotify.com/track/3GXiHK4P3hdSuxEdWVo2rg"
     },
     {
       "added_at": null,

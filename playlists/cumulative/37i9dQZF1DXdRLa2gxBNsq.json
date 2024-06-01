@@ -511,6 +511,24 @@
     },
     {
       "album": {
+        "name": "Nunca Deb\u00ed Hacerle un Fisting a Mi Abuelo",
+        "url": "https://open.spotify.com/album/0MtOZdc0oNe7c8wKqQbGKc"
+      },
+      "artists": [
+        {
+          "name": "Tu Madre Es Puta",
+          "url": "https://open.spotify.com/artist/5SGCYqP9PN2R85WfA0yjPu"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194577,
+      "name": "Cu\u00e9ntame",
+      "url": "https://open.spotify.com/track/7tuSFD5EALm4yRxYRvtDxC"
+    },
+    {
+      "album": {
         "name": "Cu\u00e9ntame",
         "url": "https://open.spotify.com/album/2plqoqJhL73yP6XqZlCYML"
       },
@@ -526,24 +544,6 @@
       "duration_ms": 194792,
       "name": "Cu\u00e9ntame",
       "url": "https://open.spotify.com/track/6gn3MDFo9UcahvVd2BIUEF"
-    },
-    {
-      "album": {
-        "name": "Nunca Deb\u00ed Hacerle un Fisting a Mi Abuelo (Remasterizado 2024)",
-        "url": "https://open.spotify.com/album/0MtOZdc0oNe7c8wKqQbGKc"
-      },
-      "artists": [
-        {
-          "name": "Tu Madre Es Puta",
-          "url": "https://open.spotify.com/artist/5SGCYqP9PN2R85WfA0yjPu"
-        }
-      ],
-      "date_added": "2024-05-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 194577,
-      "name": "Cu\u00e9ntame (Remasterizado 2024)",
-      "url": "https://open.spotify.com/track/7tuSFD5EALm4yRxYRvtDxC"
     },
     {
       "album": {
@@ -1564,7 +1564,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-24",
+      "date_removed": null,
       "duration_ms": 232307,
       "name": "Lev\u00e1ntate",
       "url": "https://open.spotify.com/track/15q28HNmhNYk55EdSh55NV"
@@ -2632,7 +2632,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 252000,
       "name": "Y las que quedar\u00e1n",
       "url": "https://open.spotify.com/track/0W5XjAGzQhcAgtUJqrB9RO"

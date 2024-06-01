@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:2o5jDhtHVPhrJdv3cEQ99Z">Tiësto</a>'s best songs, remixes and compilations.
 
-357 songs - 1 day 0 hr 18 min
+358 songs - 1 day 0 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Chills \(LA Hills\)](https://open.spotify.com/track/2N5cFPLy0TIasTWkfT1hri) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [DRIVE](https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74) | 3:03 | 2023-04-20 |  |
 | [Clarity \(feat\. Foxes\) \- Tiësto Remix](https://open.spotify.com/track/4jIQ0wouzKHbi1fYHORIN0) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Foxes](https://open.spotify.com/artist/7qRll6DYV06u2VuRPAVqug) | [Club Life, Vol\. 3 \- Stockholm](https://open.spotify.com/album/5pbsUGC9LpIf2r9QSfJpGZ) | 5:22 | 2022-07-28 | 2023-04-20 |
 | [Clarity \- Tiësto Remix](https://open.spotify.com/track/18l9dai8PHPKp0MzR73toP) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Foxes](https://open.spotify.com/artist/7qRll6DYV06u2VuRPAVqug) | [Club Life, Vol\. 3 \- Stockholm \(Spotify Exclusive\)](https://open.spotify.com/album/4WGxTGkyuhM6sKj3QbhHnd) | 5:22 | 2020-10-20\* | 2022-07-29 |
+| [Click Click Click](https://open.spotify.com/track/5E1XI3JnHOoSEcY2hYnbhj) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Hedex](https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t), [Basslayerz](https://open.spotify.com/artist/3jBkpEV3zrHLO6r2iKZeew) | [Click Click Click](https://open.spotify.com/album/5Zvp6MgsmxCHWNB4G7WbVl) | 2:47 | 2024-05-30 |  |
 | [Close To Me](https://open.spotify.com/track/1aE32D6KsmlSm2tfeUQOxK) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Quilla](https://open.spotify.com/artist/13lEYlk34kzGboBYa9le4K) | [A Town Called Paradise \(Deluxe\)](https://open.spotify.com/album/1116PKIKlArm87HVaPtonW) | 4:24 | 2020-10-20\* | 2023-04-20 |
 | [Coffee \(Give Me Something\)](https://open.spotify.com/track/4DBLAy03Xk88LOVtrOQ1RD) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Coffee \(Give Me Something\)](https://open.spotify.com/album/0AF75TND45TZytpXlwvVIe) | 3:09 | 2020-10-20\* |  |
 | [Coming Home](https://open.spotify.com/track/00vhxF2NR4becb9eJlZAbC) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Mesto](https://open.spotify.com/artist/0RViEWnZO2VhmY4oI0PhF9) | [I Like It Loud EP](https://open.spotify.com/album/5oiupBkxlClp43OzgaXkCP) | 2:16 | 2022-11-10 | 2022-11-13 |

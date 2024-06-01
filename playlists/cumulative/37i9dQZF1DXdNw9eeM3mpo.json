@@ -41,6 +41,28 @@
     },
     {
       "album": {
+        "name": "40Tone",
+        "url": "https://open.spotify.com/album/1gnxgQefmYaU1A8j5X59BI"
+      },
+      "artists": [
+        {
+          "name": "Felices Adicciones",
+          "url": "https://open.spotify.com/artist/1pKW7UYKScg5YdR6rGsYma"
+        },
+        {
+          "name": "Alexis Korfiatis",
+          "url": "https://open.spotify.com/artist/4oRksQQyxL9dvR3QwK5pcU"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127181,
+      "name": "40Tone",
+      "url": "https://open.spotify.com/track/6YVKjXSrlV3tNAZefiSFWu"
+    },
+    {
+      "album": {
         "name": "De Vuelta Atr\u00e1s",
         "url": "https://open.spotify.com/album/7thrKGgXnGuF3a9ArQFdwq"
       },
@@ -350,6 +372,28 @@
       "duration_ms": 213405,
       "name": "Amor Enfermo",
       "url": "https://open.spotify.com/track/0ka4JDj506HNhszdG7C2QR"
+    },
+    {
+      "album": {
+        "name": "Amor por el Ska",
+        "url": "https://open.spotify.com/album/5bHFgnkMD0aoNIEMYkH9CO"
+      },
+      "artists": [
+        {
+          "name": "Skaparapid",
+          "url": "https://open.spotify.com/artist/0KS8PpA5dt2xO2nGB7wMlS"
+        },
+        {
+          "name": "Out Of Control Army",
+          "url": "https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267865,
+      "name": "Amor por el Ska",
+      "url": "https://open.spotify.com/track/1gIabnh7fMtyMRKsRTsy1p"
     },
     {
       "album": {
@@ -2140,7 +2184,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 264354,
       "name": "Fuera de Ritmo",
       "url": "https://open.spotify.com/track/2wjG05ZMz3Cgy4opzpNNd7"
@@ -5386,7 +5430,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 190147,
       "name": "Somos amigos",
       "url": "https://open.spotify.com/track/6V3zMRLRCSOQtAJG8wVybk"
@@ -5907,6 +5951,24 @@
     },
     {
       "album": {
+        "name": "FLORA",
+        "url": "https://open.spotify.com/album/7hc3laAnfwA9wkRA6tPZNx"
+      },
+      "artists": [
+        {
+          "name": "Nasa Histoires",
+          "url": "https://open.spotify.com/artist/2nAAvoxXJdXRyKH2srQ3qu"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217160,
+      "name": "Tr\u00e9bol",
+      "url": "https://open.spotify.com/track/5vQ92SVZwXpnIul2ORjTiE"
+    },
+    {
+      "album": {
         "name": "Dale Aborigen",
         "url": "https://open.spotify.com/album/5iApfIWDo1t5wRiePb2paS"
       },
@@ -6182,7 +6244,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 195234,
       "name": "Vida de locos",
       "url": "https://open.spotify.com/track/0iOA58UWDwq5jilLLOhR30"

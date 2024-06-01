@@ -4,7 +4,7 @@
 
 > Cruising through a shimmering night with the current City Pop wave from Asia.
 
-148 songs - 9 hr 58 min
+150 songs - 10 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,9 @@
 | [Monthly Project 2020 June Yoon Jong Shin \- Summer, Anyway](https://open.spotify.com/track/1YJMHH9j5xCnaC0UAza07f) | [Yoon Jong Shin](https://open.spotify.com/artist/0hW1muryuCdZLfjoLrUhnw) | [Monthly Project 2020 June Yoon Jong Shin \- Summer, Anyway](https://open.spotify.com/album/6bC0KXhZSgJFRKCLgEiCul) | 5:43 | 2022-08-30 | 2022-11-13 |
 | [MOONLIGHT](https://open.spotify.com/track/3R65jxrYZy7oRvmrBnox7J) | [POP ART TOWN](https://open.spotify.com/artist/6nu39YK7u99qv6JdygWuxG) | [MOONLIGHT](https://open.spotify.com/album/2awLWuhPKSgSJWrqSSWS1j) | 4:45 | 2022-05-26 |  |
 | [Moonset](https://open.spotify.com/track/1fQrmSaN8EOxbZQrFcihQZ) | [YUKIKA](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO), [Kim Mi Jeong](https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA) | [Moonset with KozyPop](https://open.spotify.com/album/1XULv2rBeMhr16Pq3HFP19) | 3:46 | 2022-05-26 |  |
+| [Mr\. Feelgood](https://open.spotify.com/track/7wYA8mWTOnHltpaxBU7rKH) | [WIM](https://open.spotify.com/artist/5cHJ17GlywtrrS6ax9xqQz) | [Mr\. Feelgood](https://open.spotify.com/album/0vqeG4DVJYoU0YcfcNnfQF) | 3:50 | 2024-05-30 |  |
 | [Mujyuryoku Fantasia](https://open.spotify.com/track/6ybC10sFcKQMi6TdC4Ejsv) | [ikkubaru](https://open.spotify.com/artist/3jOVGGa69UVA6d1InnQabx) | [Summer Love Story](https://open.spotify.com/album/1rw8tou2EeehTwI6oGhsJV) | 4:57 | 2022-05-26 | 2023-02-17 |
+| [Museum of My Mess](https://open.spotify.com/track/30beBjOCmvuAed4eT872rt) | [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [Museum of My Mess](https://open.spotify.com/album/51Go2HZjagXnQTOTN3ZXeJ) | 4:29 | 2024-05-30 |  |
 | [My Dear](https://open.spotify.com/track/38dyoMgDMotr4qX8qlL17j) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [WELL DONE](https://open.spotify.com/album/3ZYrXylEYlFvr3HDv1wJqJ) | 2:39 | 2024-02-29 |  |
 | [Nada Baru](https://open.spotify.com/track/1LhdXtrMe59OLXwl6hS4lx) | [FLQ](https://open.spotify.com/artist/0FtcckD9bgB13MyrCfmyTn), [Dian](https://open.spotify.com/artist/3zNHpA8FDAYtacSXZK4iB5) | [Untuk Kau](https://open.spotify.com/album/2TiWTQXhPKBEgIHcKJfLTw) | 3:39 | 2024-01-06 |  |
 | [Noisy Love](https://open.spotify.com/track/6FmPut7Qe0PIfdw4SLucPo) | [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [Mandark](https://open.spotify.com/artist/7znAteIK9wAnN6URYwFsks) | [Noisy Love](https://open.spotify.com/album/1Z7ZRVIIrML6E5wTxPXjrv) | 2:45 | 2023-10-19 |  |
@@ -114,7 +116,7 @@
 | [Sungguh Terlalu](https://open.spotify.com/track/2ooOtbd0mJ27xhwwGCnnkb) | [Dhira Bongs](https://open.spotify.com/artist/1OnA7BIptSxofkEpSipGhV) | [Sungguh Terlalu](https://open.spotify.com/album/1TDcayS0iX7Ky7O0a6qvEs) | 4:17 | 2022-05-26 | 2022-12-10 |
 | [Sungguh Terlalu](https://open.spotify.com/track/7wQDwTshgxYJyXmdVR9ncE) | [Dhira Bongs](https://open.spotify.com/artist/1OnA7BIptSxofkEpSipGhV) | [A Tiny Bit of Gold In The Dark Ocean](https://open.spotify.com/album/2ye0rT388zwLfuvv4RdRM0) | 4:17 | 2022-12-08 | 2023-09-23 |
 | [Sunkissed \(feat\. Châu Bùi\)](https://open.spotify.com/track/1HQcB17Uevy4vdHlsuqCqe) | [Chillies](https://open.spotify.com/artist/2xvW7dgL1640K8exTcRMS4), [Châu Bùi](https://open.spotify.com/artist/6mKDR6IdsyqRp38x1uigAR) | [Sunkissed \(feat\. Châu Bùi\)](https://open.spotify.com/album/2greZVau20V2fjDYKe7PcK) | 3:22 | 2022-05-26 |  |
-| [Swapping Socks](https://open.spotify.com/track/70P2SrcpkFbMOvjXrevKga) | [Andr](https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt), [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [Swapping Socks](https://open.spotify.com/album/11vYgQBDU9DJnRlBJ6RuO5) | 3:38 | 2024-01-25 |  |
+| [Swapping Socks](https://open.spotify.com/track/70P2SrcpkFbMOvjXrevKga) | [Andr](https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt), [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [Swapping Socks](https://open.spotify.com/album/11vYgQBDU9DJnRlBJ6RuO5) | 3:38 | 2024-01-25 | 2024-06-01 |
 | [Sweet Escape \(feat\. ひかり\)](https://open.spotify.com/track/6Whj4AAx1Y2xSCJhpRvTpt) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [ひかり](https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc) | [Sweet Escape \(feat\. ひかり\)](https://open.spotify.com/album/6QWulBLmOcERqXcs2tSxh6) | 3:53 | 2022-08-30 | 2024-02-10 |
 | [Taman Anak\-Anak](https://open.spotify.com/track/1uKJr3V995pBJ9oJuXCuCn) | [Alahad](https://open.spotify.com/artist/7AaHhQPFtgAiytNjj81Wmt) | [Taman Anak\-Anak](https://open.spotify.com/album/50xHVSEMYhkZ7evx6WfyDP) | 3:56 | 2023-07-06 |  |
 | [Telephone Number](https://open.spotify.com/track/6Mnxt2GM70ctyRGothd3tK) | [YUKIKA](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO) | [Time\-Lapse](https://open.spotify.com/album/6qqlPpYvObYNofsPxve7cT) | 4:00 | 2024-01-06 |  |

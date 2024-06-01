@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSk9DH2Upl3o.md) - [plain]
 
 > The jam scene is alive and well\. Cover: SunSquabi
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,140 likes - 100 songs - 9 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,218 likes - 100 songs - 9 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Oblivion](https://open.spotify.com/track/6HvnPZNXaiaOzHldLAiOfE) | [Phish](https://open.spotify.com/artist/5wbIWUzTPuTxTyG6ouQKqz) | [Oblivion](https://open.spotify.com/album/6EEjJ6CtxuWLGW34oQkFXv) | 6:03 |
-| 2 | [Knowledge or Wisdom](https://open.spotify.com/track/0oIbvgSpbzZtX3ovD14Z27) | [Papadosio](https://open.spotify.com/artist/22nCgEikczPLtGfDdpRroh), [Ram Dass](https://open.spotify.com/artist/3XX4k7fPq9gcyZRDrbXfnS) | [Improvisations with Ram Dass](https://open.spotify.com/album/09OgnSuSxMsE29yUUoHoO8) | 6:56 |
-| 3 | [Sum'n Boutchu](https://open.spotify.com/track/4THWSAfTsDC6W7rzgLeYpZ) | [Hot Like Mars](https://open.spotify.com/artist/26JLN9tc9p730kRILV3mvh) | [Sum'n Boutchu](https://open.spotify.com/album/6zaZBgMflZM7MMOEnFj0GA) | 5:05 |
-| 4 | [How Do I Come Down](https://open.spotify.com/track/4tKPAW11lGdkfPZLpvbgxI) | [Lotus ](https://open.spotify.com/artist/1a4N2lwra7WGjwCDJS1Dkk) | [How Do I Come Down](https://open.spotify.com/album/1u8CBtWZJmwOTAXhNXrWNq) | 5:34 |
-| 5 | [Make That Booty Clap \(Must Be Jelly\)](https://open.spotify.com/track/0uzRJgu1yEtDgzffzo4PyN) | [Taylor Scott Band](https://open.spotify.com/artist/5XVKB8kFnLX5NLNMEwvIBe) | [Sorry, Kids](https://open.spotify.com/album/2RkP7plWT7JDYYNnoINWJp) | 4:19 |
-| 6 | [Eleven](https://open.spotify.com/track/6RlUNmMWlEahnYd5XjBbxV) | [Lucid Evolution](https://open.spotify.com/artist/2dY5xy6PtZVgHwTKOjWQAC) | [Eleven](https://open.spotify.com/album/6yGgMNCo7J5Uiu4qTJSZ9h) | 5:18 |
-| 7 | [Give It What You Can](https://open.spotify.com/track/5rdV2FwCetBCDvu4oVYXdG) | [Toyesauce](https://open.spotify.com/artist/6s60H6j3ZBYdTJA4Kixkxw), [Ivan Neville](https://open.spotify.com/artist/0xHoBLKrp48wAlwpy54lRv), [Tony Hall](https://open.spotify.com/artist/21tPI5y2Lu6ICtF37gMFCW), [George Porter Jr.](https://open.spotify.com/artist/2tITVdAW99hgiobsmJ05ss), [Anjelika Jelly Joseph](https://open.spotify.com/artist/2nuE9rQG1CdFcI2VtoEFJt), [Stanton Moore](https://open.spotify.com/artist/7bOHiKCHJ7mPMrSIiLMOIj), [Big Sam](https://open.spotify.com/artist/5xRZIf6Wipoqt9n9UKe1BV), [Jeff Coffin](https://open.spotify.com/artist/0nQtFR0hKvnxrmBydLJt5D) | [Give It What You Can](https://open.spotify.com/album/5sqINGQpxDe0nkMCte7KLc) | 4:49 |
-| 8 | [Mister Funky Daddy](https://open.spotify.com/track/0ZShF0uFfkoQThIySmDd5l) | [Kendall Street Company](https://open.spotify.com/artist/6AKT0nNWeP4Eb7ntkeBOj9) | [Mister Funky Daddy](https://open.spotify.com/album/1n3DXIyRmvuv5RQ7G4EhdF) | 2:29 |
+| 1 | [My Mans Was a Funky Cat](https://open.spotify.com/track/7yvrKIBMBgPwbBWmb6ZO9K) | [Kendall Street Company](https://open.spotify.com/artist/6AKT0nNWeP4Eb7ntkeBOj9) | [My Mans Was a Funky Cat](https://open.spotify.com/album/5Psv09dk1wPIoiPTUz5F4s) | 4:29 |
+| 2 | [Oblivion](https://open.spotify.com/track/6HvnPZNXaiaOzHldLAiOfE) | [Phish](https://open.spotify.com/artist/5wbIWUzTPuTxTyG6ouQKqz) | [Oblivion](https://open.spotify.com/album/6EEjJ6CtxuWLGW34oQkFXv) | 6:03 |
+| 3 | [Knowledge or Wisdom](https://open.spotify.com/track/0oIbvgSpbzZtX3ovD14Z27) | [Papadosio](https://open.spotify.com/artist/22nCgEikczPLtGfDdpRroh), [Ram Dass](https://open.spotify.com/artist/3XX4k7fPq9gcyZRDrbXfnS) | [Improvisations with Ram Dass](https://open.spotify.com/album/09OgnSuSxMsE29yUUoHoO8) | 6:56 |
+| 4 | [Sum'n Boutchu](https://open.spotify.com/track/4THWSAfTsDC6W7rzgLeYpZ) | [Hot Like Mars](https://open.spotify.com/artist/26JLN9tc9p730kRILV3mvh) | [Sum'n Boutchu](https://open.spotify.com/album/6zaZBgMflZM7MMOEnFj0GA) | 5:05 |
+| 5 | [How Do I Come Down](https://open.spotify.com/track/4tKPAW11lGdkfPZLpvbgxI) | [Lotus ](https://open.spotify.com/artist/1a4N2lwra7WGjwCDJS1Dkk) | [How Do I Come Down](https://open.spotify.com/album/1u8CBtWZJmwOTAXhNXrWNq) | 5:34 |
+| 6 | [Make That Booty Clap \(Must Be Jelly\)](https://open.spotify.com/track/0uzRJgu1yEtDgzffzo4PyN) | [Taylor Scott Band](https://open.spotify.com/artist/5XVKB8kFnLX5NLNMEwvIBe) | [Sorry, Kids](https://open.spotify.com/album/2RkP7plWT7JDYYNnoINWJp) | 4:19 |
+| 7 | [Eleven](https://open.spotify.com/track/6RlUNmMWlEahnYd5XjBbxV) | [Lucid Evolution](https://open.spotify.com/artist/2dY5xy6PtZVgHwTKOjWQAC) | [Eleven](https://open.spotify.com/album/6yGgMNCo7J5Uiu4qTJSZ9h) | 5:18 |
+| 8 | [Give It What You Can](https://open.spotify.com/track/5rdV2FwCetBCDvu4oVYXdG) | [Toyesauce](https://open.spotify.com/artist/6s60H6j3ZBYdTJA4Kixkxw), [Ivan Neville](https://open.spotify.com/artist/0xHoBLKrp48wAlwpy54lRv), [Tony Hall](https://open.spotify.com/artist/21tPI5y2Lu6ICtF37gMFCW), [George Porter Jr.](https://open.spotify.com/artist/2tITVdAW99hgiobsmJ05ss), [Anjelika Jelly Joseph](https://open.spotify.com/artist/2nuE9rQG1CdFcI2VtoEFJt), [Stanton Moore](https://open.spotify.com/artist/7bOHiKCHJ7mPMrSIiLMOIj), [Big Sam](https://open.spotify.com/artist/5xRZIf6Wipoqt9n9UKe1BV), [Jeff Coffin](https://open.spotify.com/artist/0nQtFR0hKvnxrmBydLJt5D) | [Give It What You Can](https://open.spotify.com/album/5sqINGQpxDe0nkMCte7KLc) | 4:49 |
 | 9 | [Keep Dreaming](https://open.spotify.com/track/4XQWGTjlBLQvfqfjRAgXnA) | [The Moon City Masters](https://open.spotify.com/artist/5ds1ng1NKpr4Bv0VbgHyAr) | [Keep Dreaming](https://open.spotify.com/album/1RnnEOalfBnLlOXVmBP6aQ) | 4:21 |
 | 10 | [Black Sheep](https://open.spotify.com/track/7Fqj1eusCP7dCZGQ8OnUWN) | [Perpetual Groove](https://open.spotify.com/artist/5Y5Qltdor4sw3O8NnFw5pO) | [Sea of Freaks](https://open.spotify.com/album/00KWBuk3CaLjEZlYIZFGWa) | 4:29 |
 | 11 | [Cloudburst](https://open.spotify.com/track/1cs7HeOLNf8phc48xpWScr) | [SunSquabi](https://open.spotify.com/artist/1CLLPNftraxuTDyTd6hn3J) | [Cloudburst](https://open.spotify.com/album/2C9CLWDwGcYV0eQoPGxKZJ) | 3:39 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSk9DH2Upl3o.md) - [plain]
 | 99 | [The Wheel](https://open.spotify.com/track/1gQYm7VKVjc9ExTKVT409f) | [Plantasia](https://open.spotify.com/artist/7ahksytqjF7OhN0kFEZ2Du) | [The Wheel & The Witness](https://open.spotify.com/album/5ZXpDefilGS1vQOgV3P5vG) | 4:05 |
 | 100 | [Railroad City](https://open.spotify.com/track/1cY5P52MED6HxdgZCLHrnJ) | [Lost Ox](https://open.spotify.com/artist/0teB6cQnhex8MyjtX1RhfX) | [Stuck](https://open.spotify.com/album/5X3DDdA3ezjDcqiETPZLkR) | 4:46 |
 
-Snapshot ID: `ZlAQwAAAAABkr8hRPnwE+1XAhkFlqWub`
+Snapshot ID: `ZllLQAAAAADFA6zxPt2J18xew19/czD1`

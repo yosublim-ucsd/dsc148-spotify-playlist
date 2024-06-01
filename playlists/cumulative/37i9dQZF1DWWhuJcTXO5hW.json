@@ -311,6 +311,24 @@
     },
     {
       "album": {
+        "name": "Shams",
+        "url": "https://open.spotify.com/album/2xwOc0Pd99J3xJ26rQysiW"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Nazmi",
+          "url": "https://open.spotify.com/artist/14ziFX5mT9T7jRNwVUM221"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266410,
+      "name": "Endless Dance",
+      "url": "https://open.spotify.com/track/0VOT6dW1tKLxK4Oj3QqOGY"
+    },
+    {
+      "album": {
         "name": "Reve",
         "url": "https://open.spotify.com/album/3UVWsuGDZHBzN7y958NXl4"
       },
@@ -604,7 +622,7 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 152816,
       "name": "Leila",
       "url": "https://open.spotify.com/track/5qUJSNYh21XNIdr6K0knAY"

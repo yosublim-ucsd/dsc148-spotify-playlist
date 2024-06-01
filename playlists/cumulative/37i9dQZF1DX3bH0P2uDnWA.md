@@ -4,7 +4,7 @@
 
 > Bringing the roaring 20s into the 2020s
 
-375 songs - 21 hr 18 min
+376 songs - 21 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -249,6 +249,7 @@
 | [Prohibition](https://open.spotify.com/track/2l9emRx1ah5F2zTpiTqCcT) | [Odd Chap](https://open.spotify.com/artist/2bUYKdepfgDuZiRQJdvooU) | [Spooktober: Halloween Electro Swing](https://open.spotify.com/album/40m7XojB60MxvDnpsUtoj7) | 3:34 | 2022-10-12 | 2022-11-08 |
 | [Re\-Charleston \(Radio Edit\)](https://open.spotify.com/track/6vQwuQSRhj9ZCQHEb7qet2) | [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu) | [Re\-Charleston \(Electro Swing\)](https://open.spotify.com/album/0zFY28BzgmNsz7EvZp7UKo) | 2:47 | 2020-10-30 |  |
 | [Retronik](https://open.spotify.com/track/7q3sBCvNeZep3Ppz2ySBST) | [The Swing Bot](https://open.spotify.com/artist/4oQFVFnnGSF6iFstCV0b7b) | [Retronik](https://open.spotify.com/album/4mubKPIoSCoePyKvxCrESc) | 3:49 | 2023-08-11 |  |
+| [Rosco's Groove](https://open.spotify.com/track/1bm1Zba5IyvaBP6Q9oyq8i) | [Odd Chap](https://open.spotify.com/artist/2bUYKdepfgDuZiRQJdvooU) | [Rosco's Groove](https://open.spotify.com/album/2mTXktFqQA61Amotu6fQwq) | 2:54 | 2024-05-31 |  |
 | [Rose](https://open.spotify.com/track/2CYKdqyzyGOK57fU9akmhI) | [Swingrowers](https://open.spotify.com/artist/3mp5zzEz1qTq7X5a2yOS2B) | [Rose](https://open.spotify.com/album/5Gq7HZLgyQlHUnAgxiwoOl) | 3:33 | 2021-01-22 | 2024-05-25 |
 | [Rug Cutter](https://open.spotify.com/track/2cpJJubKd3E8DiRZvnNgJZ) | [The Hebbe Sisters](https://open.spotify.com/artist/1V0rRSX1qxdIoQySHhSP79), [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu) | [Rug Cutter](https://open.spotify.com/album/3HLK2bbzAYOfmccK1BIcil) | 2:58 | 2023-06-02 | 2024-03-09 |
 | [Rum & Coke](https://open.spotify.com/track/72c1SNHSVF0nC6ajCDQN3B) | [LVDS](https://open.spotify.com/artist/1bchORmrFrz4QUD9JhVm8s) | [Rum & Coke](https://open.spotify.com/album/7o1x33fQlvcSDmlxhbr78P) | 2:37 | 2022-11-11 |  |
@@ -310,7 +311,7 @@
 | [Swing in Spring \- Glenn Gatsby Remix](https://open.spotify.com/track/4EaDClRyr2Tg1r4R8vAUwn) | [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu), [Offbeat](https://open.spotify.com/artist/1Vuw7wuxpiK5W9pzGL86X8), [Glenn Gatsby](https://open.spotify.com/artist/2i1i4w0EZ19SIJzPhAEp4i), [Nina Zeitlin](https://open.spotify.com/artist/4YRO8W8k2IdbUMNOgIfCSL) | [Swing in Spring \(Glenn Gatsby Remix\)](https://open.spotify.com/album/3W0NSIgxyUyfNW6Ly1jY92) | 2:39 | 2024-03-01 |  |
 | [Swing It Like Roger](https://open.spotify.com/track/3OCotzyyYbf3vNBQ0tZqMR) | [Klischée](https://open.spotify.com/artist/6qokeohfvbaNK1m0VfIEtB) | [Bend the Rules](https://open.spotify.com/album/3LsbDHcIw87U53Ir0pvrNK) | 3:16 | 2020-10-30 | 2023-03-11 |
 | [Swing Phonk 2](https://open.spotify.com/track/74tXLSHDTdVpwKy5xhAJj5) | [MAXPVNK](https://open.spotify.com/artist/4dHkDmvdWDXoycp4Caui8D) | [Swing Phonk 2](https://open.spotify.com/album/12uAcM5YMqNfMkOCi7WRgg) | 1:41 | 2023-08-25 |  |
-| [Take a Chance](https://open.spotify.com/track/2ERX8OsW2XCm5OoctkbHqF) | [Odd Chap](https://open.spotify.com/artist/2bUYKdepfgDuZiRQJdvooU), [Sarah Myers](https://open.spotify.com/artist/5lSNVCx1AOhPmWCwJWVcUO) | [Take a Chance](https://open.spotify.com/album/7C7UxHKdKurxaXT0ad97ua) | 3:32 | 2023-11-06 |  |
+| [Take a Chance](https://open.spotify.com/track/2ERX8OsW2XCm5OoctkbHqF) | [Odd Chap](https://open.spotify.com/artist/2bUYKdepfgDuZiRQJdvooU), [Sarah Myers](https://open.spotify.com/artist/5lSNVCx1AOhPmWCwJWVcUO) | [Take a Chance](https://open.spotify.com/album/7C7UxHKdKurxaXT0ad97ua) | 3:32 | 2023-11-06 | 2024-06-01 |
 | [Take It Easy](https://open.spotify.com/track/15tFVhuNMklFTudioIzRF5) | [Carola Jasmins](https://open.spotify.com/artist/3rbi2ewJrPClkNNr0K1Pgo) | [Electro Carousel Club Night \(Selected by Dr Cat\)](https://open.spotify.com/album/1fM5x33jVkuJiA1Hf3F5Jm) | 3:20 | 2020-10-30 |  |
 | [Take It Easy \- Original](https://open.spotify.com/track/5StNWVFBLz4XBXtmf6Rxrs) | [Carola Jasmins](https://open.spotify.com/artist/3rbi2ewJrPClkNNr0K1Pgo) | [Electro Carousel Club Night\. Selected by Dr Cat](https://open.spotify.com/album/3cgtKzqc2HN4PkTXotrnCj) | 3:20 | 2022-11-07 | 2024-04-19 |
 | [Take You Right Back](https://open.spotify.com/track/56O8jHWDc5Y2oBUKByKA1M) | [Jamie Berry](https://open.spotify.com/artist/5sM4cZ9MHihs0tbmkiE9n8), [Little Violet](https://open.spotify.com/artist/6IPvyC9odisPFeT9Gc43EE) | [Take You Right Back](https://open.spotify.com/album/0EHomYzyqS2xlUCWT1hTvz) | 2:51 | 2022-06-17 |  |

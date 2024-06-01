@@ -1,6 +1,6 @@
 {
   "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: Wussami(\uc6b0\uc8fc\uc655\ubcf5\uc120\uc2f8\uc774\ub4dc\ubbf8\ub7ec)) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 238491,
+  "num_followers": 238372,
   "original_name": "Cool K'IDs Rock",
   "owner": {
     "name": "Spotify",
@@ -267,22 +267,18 @@
     {
       "added_at": "2024-05-28 09:12:25",
       "album": {
-        "name": "Cure (Original Soundtrack from vivinos \u2018alien stage\u2019, Pt.7)",
-        "url": "https://open.spotify.com/album/4dLW62kTXGOTpmFoHIDULe"
+        "name": "Lovely Runner, Pt. 2 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0QE675R5b1xhC2Lwn4vXsP"
       },
       "artists": [
         {
-          "name": "AKUGETSU",
-          "url": "https://open.spotify.com/artist/5lMia1loNJEa8ofqQkKFAp"
-        },
-        {
-          "name": "PARK BYEONG HOON",
-          "url": "https://open.spotify.com/artist/0qs2PuNODoOAKG4rIv9fB2"
+          "name": "N.Flying",
+          "url": "https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb"
         }
       ],
-      "duration_ms": 247941,
-      "name": "Cure (Original Soundtrack from vivinos \u2018alien stage\u2019, Pt.7)",
-      "url": "https://open.spotify.com/track/2ltpz0N6g4A7TwwLFk9biF"
+      "duration_ms": 218042,
+      "name": "Star",
+      "url": "https://open.spotify.com/track/7uG8ZxJPQt6BMN0OE5sxYR"
     },
     {
       "added_at": "2024-05-28 09:12:25",
@@ -303,34 +299,38 @@
     {
       "added_at": "2024-05-28 09:12:25",
       "album": {
-        "name": "Lovely Runner, Pt. 2 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/0QE675R5b1xhC2Lwn4vXsP"
+        "name": "Cure (Original Soundtrack from vivinos \u2018alien stage\u2019, Pt.7)",
+        "url": "https://open.spotify.com/album/4dLW62kTXGOTpmFoHIDULe"
       },
       "artists": [
         {
-          "name": "N.Flying",
-          "url": "https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb"
+          "name": "AKUGETSU",
+          "url": "https://open.spotify.com/artist/5lMia1loNJEa8ofqQkKFAp"
+        },
+        {
+          "name": "PARK BYEONG HOON",
+          "url": "https://open.spotify.com/artist/0qs2PuNODoOAKG4rIv9fB2"
         }
       ],
-      "duration_ms": 218042,
-      "name": "Star",
-      "url": "https://open.spotify.com/track/7uG8ZxJPQt6BMN0OE5sxYR"
+      "duration_ms": 247941,
+      "name": "Cure (Original Soundtrack from vivinos \u2018alien stage\u2019, Pt.7)",
+      "url": "https://open.spotify.com/track/2ltpz0N6g4A7TwwLFk9biF"
     },
     {
       "added_at": "2024-05-28 09:12:25",
       "album": {
-        "name": "DUAL",
-        "url": "https://open.spotify.com/album/6ICDcaM2LlaMND4DDVe4so"
+        "name": "1st Mini Album 'MANITO'",
+        "url": "https://open.spotify.com/album/58749dw7F011CU9lRmX0MO"
       },
       "artists": [
         {
-          "name": "The Rose",
-          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
+          "name": "QWER",
+          "url": "https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy"
         }
       ],
-      "duration_ms": 224968,
-      "name": "Back To Me",
-      "url": "https://open.spotify.com/track/20Ahyv93KKjMuDHAVy2yjr"
+      "duration_ms": 175880,
+      "name": "T.B.H",
+      "url": "https://open.spotify.com/track/39gaUtq2z4ejJbno7tWHbL"
     },
     {
       "added_at": "2024-05-28 09:12:25",
@@ -351,18 +351,18 @@
     {
       "added_at": "2024-05-28 09:12:25",
       "album": {
-        "name": "1st Mini Album 'MANITO'",
-        "url": "https://open.spotify.com/album/58749dw7F011CU9lRmX0MO"
+        "name": "DUAL",
+        "url": "https://open.spotify.com/album/6ICDcaM2LlaMND4DDVe4so"
       },
       "artists": [
         {
-          "name": "QWER",
-          "url": "https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy"
+          "name": "The Rose",
+          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
         }
       ],
-      "duration_ms": 175880,
-      "name": "T.B.H",
-      "url": "https://open.spotify.com/track/39gaUtq2z4ejJbno7tWHbL"
+      "duration_ms": 224968,
+      "name": "Back To Me",
+      "url": "https://open.spotify.com/track/20Ahyv93KKjMuDHAVy2yjr"
     },
     {
       "added_at": "2024-05-28 09:12:25",
@@ -431,22 +431,6 @@
     {
       "added_at": "2024-05-28 09:12:25",
       "album": {
-        "name": "Void",
-        "url": "https://open.spotify.com/album/6kdRAzt9oU3X9eUdeTB0Yk"
-      },
-      "artists": [
-        {
-          "name": "The Rose",
-          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
-        }
-      ],
-      "duration_ms": 215476,
-      "name": "sorry",
-      "url": "https://open.spotify.com/track/2mqN6WJawRJzT2X9T5bdYV"
-    },
-    {
-      "added_at": "2024-05-28 09:12:25",
-      "album": {
         "name": "Shoot Me : Youth Part 1",
         "url": "https://open.spotify.com/album/2dYvMxAaLu8LBiHjwQElcg"
       },
@@ -483,6 +467,22 @@
     {
       "added_at": "2024-05-28 09:12:25",
       "album": {
+        "name": "Void",
+        "url": "https://open.spotify.com/album/6kdRAzt9oU3X9eUdeTB0Yk"
+      },
+      "artists": [
+        {
+          "name": "The Rose",
+          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
+        }
+      ],
+      "duration_ms": 215476,
+      "name": "sorry",
+      "url": "https://open.spotify.com/track/2mqN6WJawRJzT2X9T5bdYV"
+    },
+    {
+      "added_at": "2024-05-28 09:12:25",
+      "album": {
         "name": "Moodswings in This Order",
         "url": "https://open.spotify.com/album/2hPHncbZRuWiCBauEUJxyA"
       },
@@ -499,7 +499,7 @@
     {
       "added_at": "2024-05-28 09:12:25",
       "album": {
-        "name": "VIVINOS - 'Alien Stage, Pt. 4 (Original Soundtrack)'",
+        "name": "Black Sorrow (Original Soundtrack from VIVINOS 'Alien Stage', Pt. 4)",
         "url": "https://open.spotify.com/album/4FudYqKUtMfgsd8hUaaR3c"
       },
       "artists": [
@@ -509,7 +509,7 @@
         }
       ],
       "duration_ms": 193502,
-      "name": "Black Sorrow",
+      "name": "Black Sorrow (Original Soundtrack from VIVINOS 'Alien Stage', Pt. 4)",
       "url": "https://open.spotify.com/track/5RETcV4t3ryURJaRdRU3P6"
     },
     {
@@ -527,22 +527,6 @@
       "duration_ms": 200543,
       "name": "Growing Pain",
       "url": "https://open.spotify.com/track/7r8aFgJzUbqpApUNmzV5yY"
-    },
-    {
-      "added_at": "2024-05-28 09:12:25",
-      "album": {
-        "name": "Dawn",
-        "url": "https://open.spotify.com/album/1OWmGjBN7jiZK6OCgyxGTV"
-      },
-      "artists": [
-        {
-          "name": "The Rose",
-          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
-        }
-      ],
-      "duration_ms": 237576,
-      "name": "She's In The Rain",
-      "url": "https://open.spotify.com/track/5Xp6Bx4Fy8LGoTX8xzBi00"
     },
     {
       "added_at": "2024-05-28 09:12:25",
@@ -579,22 +563,6 @@
     {
       "added_at": "2024-05-28 09:12:25",
       "album": {
-        "name": "Moodswings In To Order",
-        "url": "https://open.spotify.com/album/7vp2iMEQzhNX4sEIUbHpiJ"
-      },
-      "artists": [
-        {
-          "name": "DPR IAN",
-          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
-        }
-      ],
-      "duration_ms": 189946,
-      "name": "Ballroom Extravaganza",
-      "url": "https://open.spotify.com/track/4vJfBno2d0mTjMcYn5lEln"
-    },
-    {
-      "added_at": "2024-05-28 09:12:25",
-      "album": {
         "name": "LEGEND",
         "url": "https://open.spotify.com/album/28GiIRNu9nEugqnUci3aIC"
       },
@@ -611,18 +579,34 @@
     {
       "added_at": "2024-05-28 09:12:25",
       "album": {
-        "name": "ENTITY",
-        "url": "https://open.spotify.com/album/0aEUnGgi7O8zqqrH8ADg7E"
+        "name": "Moodswings In To Order",
+        "url": "https://open.spotify.com/album/7vp2iMEQzhNX4sEIUbHpiJ"
       },
       "artists": [
         {
-          "name": "Cha Eun-Woo",
-          "url": "https://open.spotify.com/artist/76ea6HHCvHlTqhF9I0jtHU"
+          "name": "DPR IAN",
+          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
         }
       ],
-      "duration_ms": 173986,
-      "name": "STAY",
-      "url": "https://open.spotify.com/track/1dR5StkkOjZEXEgrC7AlVY"
+      "duration_ms": 189946,
+      "name": "Ballroom Extravaganza",
+      "url": "https://open.spotify.com/track/4vJfBno2d0mTjMcYn5lEln"
+    },
+    {
+      "added_at": "2024-05-28 09:12:25",
+      "album": {
+        "name": "Dawn",
+        "url": "https://open.spotify.com/album/1OWmGjBN7jiZK6OCgyxGTV"
+      },
+      "artists": [
+        {
+          "name": "The Rose",
+          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
+        }
+      ],
+      "duration_ms": 237576,
+      "name": "She's In The Rain",
+      "url": "https://open.spotify.com/track/5Xp6Bx4Fy8LGoTX8xzBi00"
     },
     {
       "added_at": "2024-05-28 09:12:25",
@@ -639,6 +623,22 @@
       "duration_ms": 150269,
       "name": "I \u2260 DOLL",
       "url": "https://open.spotify.com/track/1d6xaY4JvvqTWfgCeJAtWa"
+    },
+    {
+      "added_at": "2024-05-28 09:12:25",
+      "album": {
+        "name": "ENTITY",
+        "url": "https://open.spotify.com/album/0aEUnGgi7O8zqqrH8ADg7E"
+      },
+      "artists": [
+        {
+          "name": "Cha Eun-Woo",
+          "url": "https://open.spotify.com/artist/76ea6HHCvHlTqhF9I0jtHU"
+        }
+      ],
+      "duration_ms": 173986,
+      "name": "STAY",
+      "url": "https://open.spotify.com/track/1dR5StkkOjZEXEgrC7AlVY"
     },
     {
       "added_at": "2024-05-28 09:12:25",
@@ -663,22 +663,6 @@
     {
       "added_at": "2024-05-28 09:12:25",
       "album": {
-        "name": "RED",
-        "url": "https://open.spotify.com/album/4QQ9UhFje37E89YX9WWBwl"
-      },
-      "artists": [
-        {
-          "name": "The Rose",
-          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
-        }
-      ],
-      "duration_ms": 176466,
-      "name": "RED",
-      "url": "https://open.spotify.com/track/1IguWzAOIxnmTZ7mqmKUwM"
-    },
-    {
-      "added_at": "2024-05-28 09:12:25",
-      "album": {
         "name": "Troubleshooting",
         "url": "https://open.spotify.com/album/26ogXm7X0kUSidtoaQVBei"
       },
@@ -691,22 +675,6 @@
       "duration_ms": 212774,
       "name": "Little Things",
       "url": "https://open.spotify.com/track/5t8TV1U5vmKL5UIQo5pNtN"
-    },
-    {
-      "added_at": "2024-05-28 09:12:25",
-      "album": {
-        "name": "Moodswings in This Order",
-        "url": "https://open.spotify.com/album/2hPHncbZRuWiCBauEUJxyA"
-      },
-      "artists": [
-        {
-          "name": "DPR IAN",
-          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
-        }
-      ],
-      "duration_ms": 170800,
-      "name": "Scaredy Cat",
-      "url": "https://open.spotify.com/track/4LkXtklCusSbi6UxYWgH8B"
     },
     {
       "added_at": "2024-05-28 09:12:25",
@@ -727,18 +695,18 @@
     {
       "added_at": "2024-05-28 09:12:25",
       "album": {
-        "name": "EASY",
-        "url": "https://open.spotify.com/album/1YCj4PZi08G20y2ekGKY0C"
+        "name": "Moodswings in This Order",
+        "url": "https://open.spotify.com/album/2hPHncbZRuWiCBauEUJxyA"
       },
       "artists": [
         {
-          "name": "LE SSERAFIM",
-          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+          "name": "DPR IAN",
+          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
         }
       ],
-      "duration_ms": 160001,
-      "name": "Good Bones",
-      "url": "https://open.spotify.com/track/4UXmlYr1AbcsWsIbrUz2DC"
+      "duration_ms": 170800,
+      "name": "Scaredy Cat",
+      "url": "https://open.spotify.com/track/4LkXtklCusSbi6UxYWgH8B"
     },
     {
       "added_at": "2024-05-28 09:12:25",
@@ -775,6 +743,38 @@
     {
       "added_at": "2024-05-28 09:12:25",
       "album": {
+        "name": "RED",
+        "url": "https://open.spotify.com/album/4QQ9UhFje37E89YX9WWBwl"
+      },
+      "artists": [
+        {
+          "name": "The Rose",
+          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
+        }
+      ],
+      "duration_ms": 176466,
+      "name": "RED",
+      "url": "https://open.spotify.com/track/1IguWzAOIxnmTZ7mqmKUwM"
+    },
+    {
+      "added_at": "2024-05-28 09:12:25",
+      "album": {
+        "name": "EASY",
+        "url": "https://open.spotify.com/album/1YCj4PZi08G20y2ekGKY0C"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "duration_ms": 160001,
+      "name": "Good Bones",
+      "url": "https://open.spotify.com/track/4UXmlYr1AbcsWsIbrUz2DC"
+    },
+    {
+      "added_at": "2024-05-28 09:12:25",
+      "album": {
         "name": "ASTERUM : 134-1",
         "url": "https://open.spotify.com/album/6uDZ4HPxwnOMpykpzpylDS"
       },
@@ -807,6 +807,22 @@
     {
       "added_at": "2024-05-28 09:12:25",
       "album": {
+        "name": "OO-LI",
+        "url": "https://open.spotify.com/album/06isIi4cIfsaH8ot5UoRD4"
+      },
+      "artists": [
+        {
+          "name": "WOODZ",
+          "url": "https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy"
+        }
+      ],
+      "duration_ms": 244986,
+      "name": "Drowning",
+      "url": "https://open.spotify.com/track/4xeugB5MqWh0jwvXZPxahq"
+    },
+    {
+      "added_at": "2024-05-28 09:12:25",
+      "album": {
         "name": "2",
         "url": "https://open.spotify.com/album/0mC9MXPddkzggVsOXh5gd3"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 153546,
       "name": "Doll",
       "url": "https://open.spotify.com/track/4C7PyWUlTLUUgVZQVboCma"
-    },
-    {
-      "added_at": "2024-05-28 09:12:25",
-      "album": {
-        "name": "DUAL",
-        "url": "https://open.spotify.com/album/6ICDcaM2LlaMND4DDVe4so"
-      },
-      "artists": [
-        {
-          "name": "The Rose",
-          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
-        }
-      ],
-      "duration_ms": 235175,
-      "name": "You're Beautiful",
-      "url": "https://open.spotify.com/track/6DHPaizkhWLCUxDgrYZI0f"
     }
   ],
   "unique_name": "Cool K'IDs Rock",

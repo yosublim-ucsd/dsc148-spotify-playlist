@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "A Boogie Wit Da Hoodie new album <a href=\"spotify:album:0tvOiqQkHp6bqYzzPfPc4B\">Better Off Alone</a>",
-  "name": "Hip-Hop and Play: A Boogie Wit Da Hoodie Takeover",
+  "description": "NEW EMINEM HOUDINI",
+  "name": "Hip-Hop and Play",
   "tracks": [
     {
       "album": {
@@ -1790,7 +1790,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 198706,
       "name": "Bend It Ova (feat. A Boogie Wit da Hoodie & Big Freedia)",
       "url": "https://open.spotify.com/track/0gBcxOCHJtY6w4LWerwt7y"
@@ -2790,7 +2790,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 219453,
       "name": "Calling (Spider-Man: Across the Spider-Verse) (Metro Boomin & Swae Lee, NAV, feat. A Boogie Wit da Hoodie)",
       "url": "https://open.spotify.com/track/5rurggqwwudn9clMdcchxT"
@@ -3748,7 +3748,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 166986,
       "name": "D.T.N.",
       "url": "https://open.spotify.com/track/5OwJhwzFtvBlKNHZyCgh3Q"
@@ -3802,7 +3802,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 199653,
       "name": "Dark King",
       "url": "https://open.spotify.com/track/5UCsKE3UPS5kcRRbRVeI0F"
@@ -4454,7 +4454,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 209269,
       "name": "Drowning (feat. Kodak Black)",
       "url": "https://open.spotify.com/track/3LnOF5n1GOs01siYZXzS3p"
@@ -7785,6 +7785,24 @@
     },
     {
       "album": {
+        "name": "Houdini",
+        "url": "https://open.spotify.com/album/6Xuu2z00jxRPZei4IJ9neK"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227239,
+      "name": "Houdini",
+      "url": "https://open.spotify.com/track/2HYFX63wP3otVIvopRS99Z"
+    },
+    {
+      "album": {
         "name": "Heart On My Sleeve",
         "url": "https://open.spotify.com/album/6p5jJLTFiYgk95HhW0unhy"
       },
@@ -10122,7 +10140,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 210652,
       "name": "Lovin' (feat. A Boogie wit da Hoodie)",
       "url": "https://open.spotify.com/track/2bwN9oZIn9XXSd8RlJ4FDM"
@@ -11536,7 +11554,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 180871,
       "name": "No Stress (feat. A Boogie wit da Hoodie)",
       "url": "https://open.spotify.com/track/1g2CMj45LJZWxGQYoBye0X"
@@ -14868,7 +14886,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 213360,
       "name": "Somebody (feat. Future)",
       "url": "https://open.spotify.com/track/27wHINa0EyMyU55WyiEV9l"

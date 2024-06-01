@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-03",
-  "description": "<a href=\"https://www.introducing.events/\">Hier</a> anmelden f\u00fcr das Wilde Herzen Festival mit JEREMIAS, Zartmann, Sandra Isabel, elimako, Levin Liam, Dilla, SOFFIE, error und Katha Pauer",
+  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: Felix Herbst, Carla Ahad",
   "name": "Wilde Herzen",
   "tracks": [
     {
@@ -20,6 +20,24 @@
       "duration_ms": 195660,
       "name": "1 hertz",
       "url": "https://open.spotify.com/track/0SQItD7OT756ZeYEOVeNKz"
+    },
+    {
+      "album": {
+        "name": "10 vor 10",
+        "url": "https://open.spotify.com/album/5fEamjUSG4mSuaCXPbCBfe"
+      },
+      "artists": [
+        {
+          "name": "fiio",
+          "url": "https://open.spotify.com/artist/5ry3g4hY2cILXJqqXIUIqZ"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "10 vor 10",
+      "url": "https://open.spotify.com/track/37TJfrw9teASpsQeoWupq5"
     },
     {
       "album": {
@@ -1565,6 +1583,28 @@
     },
     {
       "album": {
+        "name": "Blindflug",
+        "url": "https://open.spotify.com/album/3rNs9qnXcKmhHnpiXiehmP"
+      },
+      "artists": [
+        {
+          "name": "AB Syndrom",
+          "url": "https://open.spotify.com/artist/6L8qZVWC4sWuYRSDXMLpsc"
+        },
+        {
+          "name": "Trille",
+          "url": "https://open.spotify.com/artist/7z7UeKh2Y7m3DLpVs0458h"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256225,
+      "name": "Blindflug",
+      "url": "https://open.spotify.com/track/4YQwcCMjhGtYxaAva18c4w"
+    },
+    {
+      "album": {
         "name": "blue",
         "url": "https://open.spotify.com/album/56V2Kulz8kNpLvhHO3IApl"
       },
@@ -1767,6 +1807,24 @@
     },
     {
       "album": {
+        "name": "carcassonne",
+        "url": "https://open.spotify.com/album/3SAHxqemMNdTGcMRkDxFku"
+      },
+      "artists": [
+        {
+          "name": "elimako",
+          "url": "https://open.spotify.com/artist/5PbQkJwrwzRkwW7uAj7dy0"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131528,
+      "name": "carcassonne",
+      "url": "https://open.spotify.com/track/3BXOQ4VvoQ5T5CuqLYHLoh"
+    },
+    {
+      "album": {
         "name": "CEO",
         "url": "https://open.spotify.com/album/6G56bPOgaCCMw6KklzTtgV"
       },
@@ -1854,7 +1912,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 145623,
       "name": "Cool",
       "url": "https://open.spotify.com/track/6lUbb9wnaz2lo9sczbfpss"
@@ -2609,6 +2667,24 @@
     },
     {
       "album": {
+        "name": "dunkelblau",
+        "url": "https://open.spotify.com/album/6zDZIqezaQ7QB6dos1WLpm"
+      },
+      "artists": [
+        {
+          "name": "ELA",
+          "url": "https://open.spotify.com/artist/4L3QRSecSDcMsyJ6AuDcqb"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "dunkelblau",
+      "url": "https://open.spotify.com/track/6ycvSaEKJHGXZeQpJ4LM1H"
+    },
+    {
+      "album": {
         "name": "Dunkles Herz",
         "url": "https://open.spotify.com/album/6yeDqR3YGVmFUwP9lTTn9u"
       },
@@ -3312,7 +3388,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 150037,
       "name": "Fang",
       "url": "https://open.spotify.com/track/4AiBmrYrcxTB5rFM7doAiv"
@@ -5532,7 +5608,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 142498,
       "name": "Kaff",
       "url": "https://open.spotify.com/track/0T2EA9u06q8X0DuS7JLwgL"
@@ -6382,7 +6458,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 92773,
       "name": "Liebe ist Krieg",
       "url": "https://open.spotify.com/track/2NgAtQbDrlBvrgnqylUwQa"
@@ -7822,7 +7898,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 169843,
       "name": "N\u00fcchtern",
       "url": "https://open.spotify.com/track/4Ih8l5VnYovzqBhdjPSdPH"
@@ -8350,7 +8426,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 186586,
       "name": "Positive Vibes",
       "url": "https://open.spotify.com/track/2RNaKhaYCeYJSqtLpxndeg"
@@ -8900,7 +8976,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 189293,
       "name": "Scheissegal",
       "url": "https://open.spotify.com/track/4nyRfJ4OtNlLWCtp3l9SAz"
@@ -9447,6 +9523,24 @@
     },
     {
       "album": {
+        "name": "So sein wie wir sind",
+        "url": "https://open.spotify.com/album/0ojgr8zuq2lmpucYD78k9x"
+      },
+      "artists": [
+        {
+          "name": "Pablu",
+          "url": "https://open.spotify.com/artist/3a7QAPvMYydT1dhUzapIv3"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "So sein wie wir sind",
+      "url": "https://open.spotify.com/track/2q1uHOYTQBe20HWYDK8S29"
+    },
+    {
+      "album": {
         "name": "So weit weg wie es geht",
         "url": "https://open.spotify.com/album/1feJ34aoU1PdXqysjmWZxN"
       },
@@ -9954,7 +10048,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 149677,
       "name": "Stra\u00dfengraben",
       "url": "https://open.spotify.com/track/6ikfrlq9YwHIafE7ZgS085"
@@ -10985,6 +11079,24 @@
     },
     {
       "album": {
+        "name": "Was bleibt",
+        "url": "https://open.spotify.com/album/6tfUiF9NQw81aLKVnMdhI4"
+      },
+      "artists": [
+        {
+          "name": "SIND",
+          "url": "https://open.spotify.com/artist/7vTMiWoEUt3NEcGUtghAMi"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186111,
+      "name": "Was bleibt",
+      "url": "https://open.spotify.com/track/49DZRUXxxRObftT4MMRPem"
+    },
+    {
+      "album": {
         "name": "was du brauchst (st.pauli)",
         "url": "https://open.spotify.com/album/3oDTvsk2LaznvOfTDpko7g"
       },
@@ -11368,6 +11480,24 @@
       "duration_ms": 203453,
       "name": "Wenn ich du w\u00e4r",
       "url": "https://open.spotify.com/track/68GVmWjf1rNBtsdeJopEHd"
+    },
+    {
+      "album": {
+        "name": "wenn ich ehrlich bin",
+        "url": "https://open.spotify.com/album/7CriOieMAca2t2jHm96tJP"
+      },
+      "artists": [
+        {
+          "name": "Katha Pauer",
+          "url": "https://open.spotify.com/artist/2YxWusBgSh4BLJdypUbFbC"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146866,
+      "name": "wenn ich ehrlich bin",
+      "url": "https://open.spotify.com/track/3SsYcfMxfWyRem3lXvbD3R"
     },
     {
       "album": {
@@ -11818,6 +11948,28 @@
       "duration_ms": 204413,
       "name": "Zerrissen",
       "url": "https://open.spotify.com/track/3X0nFQWGJw0FQp6A3uVhgl"
+    },
+    {
+      "album": {
+        "name": "Zigarettengift",
+        "url": "https://open.spotify.com/album/1TfZLMqd4dbpXcwRVap6QM"
+      },
+      "artists": [
+        {
+          "name": "Felix Herbst",
+          "url": "https://open.spotify.com/artist/5FjvjkbSAOddYcOeOvZh2d"
+        },
+        {
+          "name": "Carla Ahad",
+          "url": "https://open.spotify.com/artist/0ic9BGUoRMQidNxGoet7Ln"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191500,
+      "name": "Zigarettengift",
+      "url": "https://open.spotify.com/track/4YIi19US8nYo5rNe7Mqen5"
     },
     {
       "album": {

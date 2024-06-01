@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "Os hits e novos nomes do pop dividindo o mesmo palco!  / Foto: Lou Garcia, Marina Sena",
+  "description": "Os hits e novos nomes do pop dividindo o mesmo palco!  / Foto: Jovem Dionisio",
   "name": "Palco POP",
   "tracks": [
     {
@@ -64,6 +64,28 @@
       "duration_ms": 157500,
       "name": "1+1 \u00c9 Pouco",
       "url": "https://open.spotify.com/track/0vB8TwivSx9NBMRXaMLIZw"
+    },
+    {
+      "album": {
+        "name": "Amar\u00edssima",
+        "url": "https://open.spotify.com/album/73nud0IihzSauCk6AfYbLN"
+      },
+      "artists": [
+        {
+          "name": "Melly",
+          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
+        },
+        {
+          "name": "Liniker",
+          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "10 Minutos",
+      "url": "https://open.spotify.com/track/7exzjXAlIdaZN72iALsc5W"
     },
     {
       "album": {
@@ -2281,6 +2303,28 @@
     },
     {
       "album": {
+        "name": "Boom",
+        "url": "https://open.spotify.com/album/3GvbxHizeLdikCDuDJ29LB"
+      },
+      "artists": [
+        {
+          "name": "Rafael Mike",
+          "url": "https://open.spotify.com/artist/6V1iaF6ZHSygJlLPk7grXr"
+        },
+        {
+          "name": "Priscila Tossan",
+          "url": "https://open.spotify.com/artist/4EZLWNKsB2l3Lm6vqJDFoA"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131076,
+      "name": "Boom",
+      "url": "https://open.spotify.com/track/42A4y8cnvDMh18i22aXQH7"
+    },
+    {
+      "album": {
         "name": "KIRK",
         "url": "https://open.spotify.com/album/1NsTSXjVNE7XmZ8PmyW0wl"
       },
@@ -3162,7 +3206,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 156330,
       "name": "CHATA",
       "url": "https://open.spotify.com/track/4VCcq6VeIwwIdTf4KWBBbr"
@@ -3844,7 +3888,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 155600,
       "name": "Deixa Acender",
       "url": "https://open.spotify.com/track/3D1d9aNhYHsgKSOHEVWsHn"
@@ -4538,6 +4582,24 @@
       "duration_ms": 190066,
       "name": "EARFQUAKE",
       "url": "https://open.spotify.com/track/5hVghJ4KaYES3BFUATCYn0"
+    },
+    {
+      "album": {
+        "name": "AFINCO",
+        "url": "https://open.spotify.com/album/4RkKWm8QBt9nxOWYptjqTm"
+      },
+      "artists": [
+        {
+          "name": "IVYSON",
+          "url": "https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161281,
+      "name": "EGO",
+      "url": "https://open.spotify.com/track/35UO2aaT0Ct8nipRfMIKPl"
     },
     {
       "album": {
@@ -7150,7 +7212,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 184405,
       "name": "Labirinto",
       "url": "https://open.spotify.com/track/0LJGq2TQMW5WwnD9AuPRuV"
@@ -7652,7 +7714,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 139093,
       "name": "MAGN\u00c9TICO",
       "url": "https://open.spotify.com/track/27kpv1fxfP4n7vLO077RFq"
@@ -8598,7 +8660,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 127500,
       "name": "Mil Vezes - Remix",
       "url": "https://open.spotify.com/track/2azJDduVngaqpaUsxKXevt"
@@ -8790,7 +8852,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 127992,
       "name": "Monstr\u00e3o",
       "url": "https://open.spotify.com/track/2LZjtOXWZMSpRbQyd89HyQ"
@@ -9724,7 +9786,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 144359,
       "name": "N\u00c3O \u00c9 CULPA DE NINGU\u00c9M",
       "url": "https://open.spotify.com/track/5IO2b23uTZkDNA8LR09hIu"
@@ -9772,6 +9834,28 @@
       "duration_ms": 209000,
       "name": "O Que Eu Ganho",
       "url": "https://open.spotify.com/track/1CNGqfIa5JyUj1cWfvGqAi"
+    },
+    {
+      "album": {
+        "name": "O Que Tem Por Vir",
+        "url": "https://open.spotify.com/album/2mun0ycL4YeFEmdkmsOWGC"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00f4",
+          "url": "https://open.spotify.com/artist/7EFHe9IRYS8gKgtrGCV14u"
+        },
+        {
+          "name": "Zudizilla",
+          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193194,
+      "name": "O Que Tem Por Vir",
+      "url": "https://open.spotify.com/track/3hexwXMaoMiBlz3W7ZIOH3"
     },
     {
       "album": {
@@ -10956,7 +11040,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 127384,
       "name": "POCPOC",
       "url": "https://open.spotify.com/track/0oQCRjrWGvkqkdf82UlXI3"
@@ -12433,6 +12517,28 @@
     },
     {
       "album": {
+        "name": "Recome\u00e7o",
+        "url": "https://open.spotify.com/album/09S98ejRLHvK2M3RaPULUw"
+      },
+      "artists": [
+        {
+          "name": "Projota",
+          "url": "https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K"
+        },
+        {
+          "name": "PRISCILLA",
+          "url": "https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161706,
+      "name": "Recome\u00e7o",
+      "url": "https://open.spotify.com/track/4n0Gle6yQqSdDZPeJZzef7"
+    },
+    {
+      "album": {
         "name": "Ainda",
         "url": "https://open.spotify.com/album/2YEX8OaLPGDd1SjhIipLjS"
       },
@@ -12846,6 +12952,28 @@
       "duration_ms": 170614,
       "name": "Sad Baile",
       "url": "https://open.spotify.com/track/2ef1I6bGG8K0AHQaqGKiVA"
+    },
+    {
+      "album": {
+        "name": "Sagrado Profano",
+        "url": "https://open.spotify.com/album/1D3iQt1lYYv9m6S2n0QFET"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        },
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196601,
+      "name": "Sagrado Profano",
+      "url": "https://open.spotify.com/track/4vBG38rYl3GMkMFWv5K6CS"
     },
     {
       "album": {
@@ -13660,6 +13788,24 @@
       "duration_ms": 174333,
       "name": "Somebody",
       "url": "https://open.spotify.com/track/735RSTb2xbtWbDtKD9XDYi"
+    },
+    {
+      "album": {
+        "name": "Somewhere Only We Know",
+        "url": "https://open.spotify.com/album/3SSjCIMccH0zOtznuS3hyU"
+      },
+      "artists": [
+        {
+          "name": "Carol Biazin",
+          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149302,
+      "name": "Somewhere Only We Know",
+      "url": "https://open.spotify.com/track/3O4HxUk3JbhY0nut3RFjaF"
     },
     {
       "album": {
@@ -15454,6 +15600,24 @@
       "duration_ms": 171433,
       "name": "Vai Tomando",
       "url": "https://open.spotify.com/track/37EuvKYWkLeFEMbE4SLs2u"
+    },
+    {
+      "album": {
+        "name": "Vai Vai Vai",
+        "url": "https://open.spotify.com/album/4EoRDi6vtNYNHSt5I6PxEk"
+      },
+      "artists": [
+        {
+          "name": "CORA",
+          "url": "https://open.spotify.com/artist/2qy3VPlMGKCe25BNET0vdp"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164640,
+      "name": "Vai Vai Vai",
+      "url": "https://open.spotify.com/track/6DrXs83U3jKRtAOwoveDbO"
     },
     {
       "album": {

@@ -3157,6 +3157,40 @@
     },
     {
       "album": {
+        "name": "Dolores Prestes a Levitar",
+        "url": "https://open.spotify.com/album/1smRYpdy6Ya0wz1tLCb4rU"
+      },
+      "artists": [
+        {
+          "name": "TRAGO",
+          "url": "https://open.spotify.com/artist/6dQH0tJhjUbIjsGqar870C"
+        },
+        {
+          "name": "Tulipa Ruiz",
+          "url": "https://open.spotify.com/artist/6OokCpvxnYv43WcFqejMLb"
+        },
+        {
+          "name": "Gustavo Ruiz",
+          "url": "https://open.spotify.com/artist/7DWwtWoYH8jhf28tq3118m"
+        },
+        {
+          "name": "Alexandre Orion",
+          "url": "https://open.spotify.com/artist/6P3Qu1SwfnnC9daKX95b4P"
+        },
+        {
+          "name": "Rica Amabis",
+          "url": "https://open.spotify.com/artist/7b77J8nz19BLgFq6F2M4QM"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "Dolores Prestes a Levitar",
+      "url": "https://open.spotify.com/track/7n24CsLROsiawSHA3pnhHf"
+    },
+    {
+      "album": {
         "name": "Domingo",
         "url": "https://open.spotify.com/album/3qyC2kRaHZZ7xPsMp7ChnW"
       },

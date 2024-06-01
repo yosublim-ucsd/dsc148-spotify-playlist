@@ -4,7 +4,7 @@
 
 > Relax to certified good chill indie and beyond.
 
-621 songs - 1 day 11 hr 57 min
+622 songs - 1 day 12 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -253,6 +253,7 @@
 | [Hozue](https://open.spotify.com/track/7p3plksuVPhzw06KskgFFr) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Hozue](https://open.spotify.com/album/0HC1HrnxGZyvss2drq6Ff0) | 3:40 | 2023-04-07 | 2023-06-24 |
 | [Human Nature](https://open.spotify.com/track/6vtgPYtS3TuQko4T4NCsc1) | [Babeheaven](https://open.spotify.com/artist/0RlWCq8bq0lJgR6ZTvcqjQ) | [Human Nature](https://open.spotify.com/album/6FwTL3AtmfzvHwSkX0QLDE) | 4:19 | 2020-06-12 | 2022-07-16 |
 | [hurt \(feat\. Somni\)](https://open.spotify.com/track/03SQMh0CFBDYSrqmbk5hWH) | [Criibaby](https://open.spotify.com/artist/6gQzBYh1naIayoJA567ATQ), [Somni](https://open.spotify.com/artist/7qFssj4KoOxd1IOPfv9iT7) | [hurt](https://open.spotify.com/album/24Krp20zsgYBvpisHMRBLI) | 2:12 | 2022-06-10 | 2023-04-22 |
+| [I Can Dream](https://open.spotify.com/track/4T0V5H3xvsPtc8L7Gt0U3b) | [Luke Temple](https://open.spotify.com/artist/6MUv39LOn5bz2QW4SBKE85) | [I Can Dream](https://open.spotify.com/album/1FXJHXlWYHfQW3Iv5pA8l0) | 4:37 | 2024-05-31 |  |
 | [I Can't Help](https://open.spotify.com/track/1sjXaEmqj5cRMns8rWYnKe) | [Shoffy](https://open.spotify.com/artist/4wO0kHiOwf8l9VMJJN9HmG), [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ) | [Flash](https://open.spotify.com/album/5WXHkvPDK5F7MRd8ia0DOo) | 2:01 | 2022-06-10 | 2022-09-30 |
 | [I Can't Help \(with Sarcastic Sounds\)](https://open.spotify.com/track/1OdYu7mDO94ydUvfZPaPvP) | [Shoffy](https://open.spotify.com/artist/4wO0kHiOwf8l9VMJJN9HmG), [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ) | [I Can't Help \(with Sarcastic Sounds\)](https://open.spotify.com/album/0HfMtVtwcLY0hrZbIMc5X5) | 2:01 | 2020-02-28 | 2022-07-29 |
 | [I Don't Wanna Be Nothin'](https://open.spotify.com/track/42y6YvuL1zbJEYTpGyJ4ut) | [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T) | [I Don't Wanna Be Nothin'](https://open.spotify.com/album/1pNlh4Xx9a0y8EWEw6i5hx) | 4:30 | 2019-09-06 | 2022-01-22 |
@@ -396,7 +397,7 @@
 | [ocean blues](https://open.spotify.com/track/2BTSL4Ewagae4AmmekRYtW) | [dayaway](https://open.spotify.com/artist/6doiARNekKDdYtgBXIE5tX) | [ocean blues](https://open.spotify.com/album/3FBQOSOwu6rri2Uh8abLhu) | 3:03 | 2023-04-17 | 2024-05-06 |
 | [ocean free](https://open.spotify.com/track/3EhiNSWu5AeWHn2eUOp5Ve) | [dayaway](https://open.spotify.com/artist/6doiARNekKDdYtgBXIE5tX) | [ocean free](https://open.spotify.com/album/6U0ek2FYV3Kww8qVTkVT98) | 3:21 | 2023-08-11 |  |
 | [Of The Age](https://open.spotify.com/track/7FoA4uLN2FnUnOcDfNlX0C) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [Violence in a Quiet Mind](https://open.spotify.com/album/12p8Tpkhv5tbW99wzGjP4D) | 4:13 | 2020-07-31 | 2022-01-22 |
-| [ON 10](https://open.spotify.com/track/5qPcrnvubBiYudhiPcpPIK) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [SATIN](https://open.spotify.com/album/14DbuWegTlHKKUW1WfUdny) | 2:53 | 2022-11-11 |  |
+| [ON 10](https://open.spotify.com/track/5qPcrnvubBiYudhiPcpPIK) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [SATIN](https://open.spotify.com/album/14DbuWegTlHKKUW1WfUdny) | 2:53 | 2022-11-11 | 2024-06-01 |
 | [One Last Dance](https://open.spotify.com/track/0MzrzzeC7IvFk1J9DFdu4d) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [One Last Dance](https://open.spotify.com/album/4jkz8mydS7s16NGGaBdQTe) | 3:28 | 2024-03-19 |  |
 | [One Year Stand](https://open.spotify.com/track/3d295CXrZtRVRVMFzr7VP8) | [Frankie Cosmos](https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW) | [One Year Stand](https://open.spotify.com/album/2hKOa5tJbt1ZTvAeg5926d) | 2:35 | 2022-08-05 | 2022-10-13 |
 | [Only One](https://open.spotify.com/track/5MXegzzvDfUSfwpf8a0FCq) | [Cassandra Jenkins](https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik) | [Only One](https://open.spotify.com/album/0fzG0DP1dF2MEGyuhZHj5w) | 3:09 | 2024-05-05 |  |

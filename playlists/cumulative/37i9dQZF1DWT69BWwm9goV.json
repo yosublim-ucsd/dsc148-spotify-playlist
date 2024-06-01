@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-03",
-  "description": "A collection of songs from Spotify's new video series OUTSIDE & Green Screen, plus more of our favorite tracks from featured artists. Cover: That Mexican OT",
+  "description": "A collection of songs from Spotify's new video series OUTSIDE & Green Screen, plus more of our favorite tracks from featured artists. Cover: Vampire Weekend",
   "name": "OUTSIDE",
   "tracks": [
     {
@@ -350,6 +350,24 @@
       "duration_ms": 181481,
       "name": "One Of Your Girls",
       "url": "https://open.spotify.com/track/5Eh1nj7IjV9lwpcKAkidyY"
+    },
+    {
+      "album": {
+        "name": "Prep-School Gangsters (Spotify OUTSIDE Version) - Live from Queens, NY",
+        "url": "https://open.spotify.com/album/4BXnoSeA4uOTWm29ZXDLZu"
+      },
+      "artists": [
+        {
+          "name": "Vampire Weekend",
+          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203000,
+      "name": "Prep-School Gangsters (Spotify OUTSIDE Version) - Live from Queens, NY",
+      "url": "https://open.spotify.com/track/3QlLPR0FihjO5CGGfsaxoW"
     },
     {
       "album": {

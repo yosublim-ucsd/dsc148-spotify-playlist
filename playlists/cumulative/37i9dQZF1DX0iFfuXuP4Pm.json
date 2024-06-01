@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "Mga nangunguna sa mundo ng OPM. \nCover: The Juans",
+  "description": "Mga nangunguna sa mundo ng OPM. \nCover: Cup of Joe",
   "name": "Tatak Pinoy",
   "tracks": [
     {
@@ -92,7 +92,7 @@
       ],
       "date_added": "2024-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 159087,
       "name": "Angas",
       "url": "https://open.spotify.com/track/3IIGy47BCYha6zZ3sto7Vl"
@@ -458,6 +458,24 @@
       "duration_ms": 199708,
       "name": "Di Ko Kasalanan (feat. gins&melodies)",
       "url": "https://open.spotify.com/track/7q5sqrG9X5ZzwSqKIpM77F"
+    },
+    {
+      "album": {
+        "name": "Dilaw",
+        "url": "https://open.spotify.com/album/1gbgbQj9mCxtp3IPybhMzp"
+      },
+      "artists": [
+        {
+          "name": "Maki",
+          "url": "https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK"
+        }
+      ],
+      "date_added": "2024-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192380,
+      "name": "Dilaw",
+      "url": "https://open.spotify.com/track/2ADSh3Mp744n2586tpUtIW"
     },
     {
       "album": {
@@ -1177,6 +1195,24 @@
     },
     {
       "album": {
+        "name": "Limang Taon",
+        "url": "https://open.spotify.com/album/2EwDlMDhz7mRqS9lMWbGdL"
+      },
+      "artists": [
+        {
+          "name": "juan karlos",
+          "url": "https://open.spotify.com/artist/0a4r2EnsevvHCukoJ1xFwJ"
+        }
+      ],
+      "date_added": "2024-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314566,
+      "name": "Limang Taon",
+      "url": "https://open.spotify.com/track/7d4sWEXBTj6qShMbMWpEd3"
+    },
+    {
+      "album": {
         "name": "Little Paradise",
         "url": "https://open.spotify.com/album/3Dnwf0bINwnc20LQ033gfI"
       },
@@ -1412,7 +1448,7 @@
       ],
       "date_added": "2024-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 251455,
       "name": "MINAHALAGAD",
       "url": "https://open.spotify.com/track/0k9bmRFeWAKCJm0OtIrbd1"
@@ -1492,7 +1528,7 @@
       ],
       "date_added": "2024-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 208696,
       "name": "Munchies",
       "url": "https://open.spotify.com/track/1vXc5zGgyzKsNjA6USRzkd"
@@ -1692,7 +1728,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 185783,
       "name": "Paanong Gagawin?",
       "url": "https://open.spotify.com/track/4j2kQpKR86BfqWOAFqZ8oj"
@@ -1776,6 +1812,24 @@
       "duration_ms": 218051,
       "name": "Palagi",
       "url": "https://open.spotify.com/track/0sqnYgWOw9DMc6jRgkcB2m"
+    },
+    {
+      "album": {
+        "name": "Panaginip Ko",
+        "url": "https://open.spotify.com/album/1yULhjvIedMHjzbgGpSGQD"
+      },
+      "artists": [
+        {
+          "name": "Mark Carpio",
+          "url": "https://open.spotify.com/artist/2JEIN1g27pZdm3hKB9EwE5"
+        }
+      ],
+      "date_added": "2024-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222857,
+      "name": "Panaginip Ko",
+      "url": "https://open.spotify.com/track/1xZwIbyfN6WXouzprW4CqR"
     },
     {
       "album": {

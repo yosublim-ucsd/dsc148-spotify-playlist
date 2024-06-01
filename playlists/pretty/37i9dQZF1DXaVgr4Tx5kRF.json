@@ -1,6 +1,6 @@
 {
   "description": "The songs that defined a golden era of British indie. ",
-  "num_followers": 643769,
+  "num_followers": 643934,
   "original_name": "Britpop, Etc.",
   "owner": {
     "name": "Spotify",
@@ -699,22 +699,6 @@
     {
       "added_at": "2024-03-18 22:10:08",
       "album": {
-        "name": "The Best Of",
-        "url": "https://open.spotify.com/album/6IKWPpfzzSqLSgbIfvCrhO"
-      },
-      "artists": [
-        {
-          "name": "Suede",
-          "url": "https://open.spotify.com/artist/6PHIK3kjWggLtVygsOtpqS"
-        }
-      ],
-      "duration_ms": 245946,
-      "name": "Trash",
-      "url": "https://open.spotify.com/track/0eyTLxTwEYvqWm6NYSvA01"
-    },
-    {
-      "added_at": "2024-03-18 22:10:08",
-      "album": {
         "name": "Brimful of Asha",
         "url": "https://open.spotify.com/album/3zImpd2BehQCHbnTiIJlZB"
       },
@@ -731,18 +715,34 @@
     {
       "added_at": "2024-03-18 22:10:08",
       "album": {
-        "name": "Some Friendly",
-        "url": "https://open.spotify.com/album/0JWdN38GXUuoG3zHmXKmnj"
+        "name": "The Best Of",
+        "url": "https://open.spotify.com/album/6IKWPpfzzSqLSgbIfvCrhO"
       },
       "artists": [
         {
-          "name": "The Charlatans",
-          "url": "https://open.spotify.com/artist/5fScAXreYFnuqwOgBsJgSd"
+          "name": "Suede",
+          "url": "https://open.spotify.com/artist/6PHIK3kjWggLtVygsOtpqS"
         }
       ],
-      "duration_ms": 238120,
-      "name": "The Only One I Know",
-      "url": "https://open.spotify.com/track/17hdos7cv1vAvcfoTU4Pym"
+      "duration_ms": 245946,
+      "name": "Trash",
+      "url": "https://open.spotify.com/track/0eyTLxTwEYvqWm6NYSvA01"
+    },
+    {
+      "added_at": "2024-03-18 22:10:08",
+      "album": {
+        "name": "Life Of Riley - The Lightning Seeds Collection",
+        "url": "https://open.spotify.com/album/0akFniXaXu6PZb8o7VUGZd"
+      },
+      "artists": [
+        {
+          "name": "The Lightning Seeds",
+          "url": "https://open.spotify.com/artist/67YNiSqhrx1P8oPvIIvbP5"
+        }
+      ],
+      "duration_ms": 244693,
+      "name": "The Life Of Riley",
+      "url": "https://open.spotify.com/track/6uAoFqSLH9UjCPn4yo4HMh"
     },
     {
       "added_at": "2024-03-18 22:10:08",
@@ -763,6 +763,22 @@
     {
       "added_at": "2024-03-18 22:10:08",
       "album": {
+        "name": "Some Friendly",
+        "url": "https://open.spotify.com/album/0JWdN38GXUuoG3zHmXKmnj"
+      },
+      "artists": [
+        {
+          "name": "The Charlatans",
+          "url": "https://open.spotify.com/artist/5fScAXreYFnuqwOgBsJgSd"
+        }
+      ],
+      "duration_ms": 238120,
+      "name": "The Only One I Know",
+      "url": "https://open.spotify.com/track/17hdos7cv1vAvcfoTU4Pym"
+    },
+    {
+      "added_at": "2024-03-18 22:10:08",
+      "album": {
         "name": "This Is How It Feels",
         "url": "https://open.spotify.com/album/3ucH3ja1FUFk9sNwp4DP54"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 194000,
       "name": "This Is How It Feels - Radio Mix",
       "url": "https://open.spotify.com/track/0LEiOVuG6xjdsjhVNTavfb"
-    },
-    {
-      "added_at": "2024-03-18 22:10:08",
-      "album": {
-        "name": "Life Of Riley - The Lightning Seeds Collection",
-        "url": "https://open.spotify.com/album/0akFniXaXu6PZb8o7VUGZd"
-      },
-      "artists": [
-        {
-          "name": "The Lightning Seeds",
-          "url": "https://open.spotify.com/artist/67YNiSqhrx1P8oPvIIvbP5"
-        }
-      ],
-      "duration_ms": 244693,
-      "name": "The Life Of Riley",
-      "url": "https://open.spotify.com/track/6uAoFqSLH9UjCPn4yo4HMh"
     },
     {
       "added_at": "2024-03-18 22:10:08",

@@ -1,15 +1,55 @@
 {
-  "description": "edgy muziek met een rand uit eigen land. cover: Sammie Sedano",
-  "num_followers": 26067,
+  "description": "edgy muziek met een rand uit eigen land. cover: Sef & Abel",
+  "num_followers": 26068,
   "original_name": "karakter.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkcJWQAAAACX0Zs6xZrUvrGNwqrpVer0",
+  "snapshot_id": "ZlnadAAAAAD9cIq76ngzOFub24bEirZU",
   "tracks": [
     {
-      "added_at": "2024-05-17 07:38:01",
+      "added_at": "2024-05-31 14:11:00",
+      "album": {
+        "name": "2 SCHORPIOENEN / MENSEN ZOALS WIJ",
+        "url": "https://open.spotify.com/album/1LOXaDwD16CU5WVcrcDD9t"
+      },
+      "artists": [
+        {
+          "name": "Abel",
+          "url": "https://open.spotify.com/artist/0JRVrJQNnlSl10wEsioxOJ"
+        },
+        {
+          "name": "Sef",
+          "url": "https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0"
+        }
+      ],
+      "duration_ms": 56616,
+      "name": "2 SCHORPIOENEN",
+      "url": "https://open.spotify.com/track/18jXrwLtijGhDIu3pykVTu"
+    },
+    {
+      "added_at": "2024-05-31 14:11:00",
+      "album": {
+        "name": "2 SCHORPIOENEN / MENSEN ZOALS WIJ",
+        "url": "https://open.spotify.com/album/1LOXaDwD16CU5WVcrcDD9t"
+      },
+      "artists": [
+        {
+          "name": "Abel",
+          "url": "https://open.spotify.com/artist/0JRVrJQNnlSl10wEsioxOJ"
+        },
+        {
+          "name": "Sef",
+          "url": "https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0"
+        }
+      ],
+      "duration_ms": 192034,
+      "name": "MENSEN (ZOALS WIJ)",
+      "url": "https://open.spotify.com/track/70kKaMHh92fiWfElpJSMLj"
+    },
+    {
+      "added_at": "2024-05-31 14:11:00",
       "album": {
         "name": "Glas",
         "url": "https://open.spotify.com/album/0loodexikCgWDHbTLqNyZM"
@@ -25,7 +65,7 @@
       "url": "https://open.spotify.com/track/70T7J9cUIvTuoB4K82zsPf"
     },
     {
-      "added_at": "2024-05-17 07:38:01",
+      "added_at": "2024-05-31 14:11:00",
       "album": {
         "name": "Uit Het Oog",
         "url": "https://open.spotify.com/album/6F4IYp6Q8NJI89W2wBoCtW"
@@ -41,7 +81,7 @@
       "url": "https://open.spotify.com/track/05ZXKrj4flHFpkXRhCNJQq"
     },
     {
-      "added_at": "2024-05-17 07:38:01",
+      "added_at": "2024-05-31 14:11:00",
       "album": {
         "name": "OPEN",
         "url": "https://open.spotify.com/album/6ofyMWnnOfhJ7KiCQxtqvx"
@@ -57,7 +97,7 @@
       "url": "https://open.spotify.com/track/0ITnIwJPzu6GDXgPnM3gFk"
     },
     {
-      "added_at": "2024-05-17 07:38:01",
+      "added_at": "2024-05-31 14:11:00",
       "album": {
         "name": "Kaleidoscope",
         "url": "https://open.spotify.com/album/6ZgcinB5KSfxxiTbMBO59U"
@@ -73,7 +113,7 @@
       "url": "https://open.spotify.com/track/2AmmNNrgRTKxLCliZaTGUH"
     },
     {
-      "added_at": "2024-05-17 07:38:01",
+      "added_at": "2024-05-31 14:11:00",
       "album": {
         "name": "Who Sees",
         "url": "https://open.spotify.com/album/6GUZ4D4qd2XmNw6JQXpC1V"
@@ -89,7 +129,23 @@
       "url": "https://open.spotify.com/track/4BTCelgKznFzvPM4Nz93Sz"
     },
     {
-      "added_at": "2024-05-17 07:38:01",
+      "added_at": "2024-05-31 14:11:00",
+      "album": {
+        "name": "Ik Geloof In Ons",
+        "url": "https://open.spotify.com/album/6wGDNiaxQTLoENHVDdOKzk"
+      },
+      "artists": [
+        {
+          "name": "Am\u00e8l",
+          "url": "https://open.spotify.com/artist/2dl0KJ2w556Fc4IdSqyECG"
+        }
+      ],
+      "duration_ms": 130285,
+      "name": "Ik Geloof In Ons",
+      "url": "https://open.spotify.com/track/2r0qqqYJW7eMhAUaDMSKmH"
+    },
+    {
+      "added_at": "2024-05-31 14:11:00",
       "album": {
         "name": "insane",
         "url": "https://open.spotify.com/album/7kPnvLJER6IwTXXZOcP4Fr"
@@ -105,7 +161,7 @@
       "url": "https://open.spotify.com/track/1muvuktoG1chI2mOSEf7W1"
     },
     {
-      "added_at": "2024-05-17 07:38:01",
+      "added_at": "2024-05-31 14:11:00",
       "album": {
         "name": "No Control",
         "url": "https://open.spotify.com/album/04LCjxpQJP69yCB5ZPMHvz"
@@ -121,7 +177,7 @@
       "url": "https://open.spotify.com/track/0iLvu7hCQfd5gt5pdd3hj2"
     },
     {
-      "added_at": "2024-05-17 07:38:01",
+      "added_at": "2024-05-31 14:11:00",
       "album": {
         "name": "Spuug van God",
         "url": "https://open.spotify.com/album/1aAim07lpl5ARWVls0wKqM"
@@ -137,7 +193,7 @@
       "url": "https://open.spotify.com/track/6Crw1yc2A4W6L5LgOPnolS"
     },
     {
-      "added_at": "2024-05-17 07:38:01",
+      "added_at": "2024-05-31 14:11:00",
       "album": {
         "name": "Maankind",
         "url": "https://open.spotify.com/album/14ScUgJJXyRXGLvgHmXxBm"
@@ -153,7 +209,7 @@
       "url": "https://open.spotify.com/track/795QtrTw8oPj6A3r37VRLk"
     },
     {
-      "added_at": "2024-05-17 07:38:01",
+      "added_at": "2024-05-31 14:11:00",
       "album": {
         "name": "Barst",
         "url": "https://open.spotify.com/album/3C3DN6AvjB685STfdKJGNT"
@@ -169,7 +225,7 @@
       "url": "https://open.spotify.com/track/0Jk7KsjS1bmE72SKAs3lPA"
     },
     {
-      "added_at": "2024-05-17 07:38:01",
+      "added_at": "2024-05-31 14:11:00",
       "album": {
         "name": "Mayhem (feat. Naaz)",
         "url": "https://open.spotify.com/album/7iEPz4WQ618rjOYC5QYy96"
@@ -197,7 +253,7 @@
       "url": "https://open.spotify.com/track/5bwPnJFIx1DdkycTgmtRTM"
     },
     {
-      "added_at": "2024-05-17 07:38:01",
+      "added_at": "2024-05-31 14:11:00",
       "album": {
         "name": "Sterrenlopen",
         "url": "https://open.spotify.com/album/5GMxtUUhppf2fnfCSivkKQ"
@@ -217,7 +273,7 @@
       "url": "https://open.spotify.com/track/1EGEgAKpYg1T9zOVZKyP8J"
     },
     {
-      "added_at": "2024-05-17 07:38:01",
+      "added_at": "2024-05-31 14:11:00",
       "album": {
         "name": "Scherpe Knuffels",
         "url": "https://open.spotify.com/album/0anx93DQrlfeKHUrghM61f"
@@ -233,7 +289,7 @@
       "url": "https://open.spotify.com/track/6617xQW6elVgqDInCMI1wu"
     },
     {
-      "added_at": "2024-05-17 07:38:01",
+      "added_at": "2024-05-31 14:11:00",
       "album": {
         "name": "Who Are You Running From",
         "url": "https://open.spotify.com/album/3sWrHw3QHMZXIfEjZ4x387"
@@ -249,7 +305,7 @@
       "url": "https://open.spotify.com/track/3jSDhLHxnERqG9XWc4ynFz"
     },
     {
-      "added_at": "2024-05-17 07:38:01",
+      "added_at": "2024-05-31 14:11:00",
       "album": {
         "name": "In Mijn Ritme",
         "url": "https://open.spotify.com/album/53zn3XqI41ya1dosLPr2Ky"
@@ -265,7 +321,7 @@
       "url": "https://open.spotify.com/track/4NypvDwmgKjZ9UYFQ7mxIW"
     },
     {
-      "added_at": "2024-05-17 07:38:01",
+      "added_at": "2024-05-31 14:11:00",
       "album": {
         "name": "round and round",
         "url": "https://open.spotify.com/album/0jkKfyJLmkKmCGYoo4GA7c"
@@ -281,7 +337,7 @@
       "url": "https://open.spotify.com/track/4trRNTD2vikuHOb0mJPWXe"
     },
     {
-      "added_at": "2024-05-17 07:38:01",
+      "added_at": "2024-05-31 14:11:00",
       "album": {
         "name": "Twintig (Deluxe)",
         "url": "https://open.spotify.com/album/3XMS2yUTeOaTGaqovGhAci"
@@ -301,7 +357,7 @@
       "url": "https://open.spotify.com/track/4fNLoZ0PmHqO0dY5xorh2L"
     },
     {
-      "added_at": "2024-05-17 07:38:01",
+      "added_at": "2024-05-31 14:11:00",
       "album": {
         "name": "De Leven",
         "url": "https://open.spotify.com/album/7BN14z7CoTNeKKGniRFVGf"
@@ -321,7 +377,7 @@
       "url": "https://open.spotify.com/track/0NxfpRR1pmtGC9J61iHIIc"
     },
     {
-      "added_at": "2024-05-17 07:38:01",
+      "added_at": "2024-05-31 14:11:00",
       "album": {
         "name": "ENERGIE",
         "url": "https://open.spotify.com/album/4DAAPsmrW61T7EuhrQHzpl"
@@ -341,7 +397,7 @@
       "url": "https://open.spotify.com/track/3GeYpZcJMoSraXaiKG4yqq"
     },
     {
-      "added_at": "2024-05-17 07:38:01",
+      "added_at": "2024-05-31 14:11:00",
       "album": {
         "name": "KROKODILLENTRANEN",
         "url": "https://open.spotify.com/album/3kotYFrp56wZNHMruY4lxh"
@@ -357,7 +413,7 @@
       "url": "https://open.spotify.com/track/1MfB3nj3mpBs0kIknCa5Jq"
     },
     {
-      "added_at": "2024-05-17 07:38:01",
+      "added_at": "2024-05-31 14:11:00",
       "album": {
         "name": "IN THE HILLS//IN DE WEIDE",
         "url": "https://open.spotify.com/album/5pGOZmnzL3j5Y5cKoDk0u3"
@@ -373,23 +429,7 @@
       "url": "https://open.spotify.com/track/3JjcRAnlWFHCXR0zrV7gE5"
     },
     {
-      "added_at": "2024-05-17 07:38:01",
-      "album": {
-        "name": "Fijn",
-        "url": "https://open.spotify.com/album/37Pd4LM2hK8qXkRyEod4ue"
-      },
-      "artists": [
-        {
-          "name": "Meis",
-          "url": "https://open.spotify.com/artist/5F2t3lvOUglnG8ZqUUWDKW"
-        }
-      ],
-      "duration_ms": 220588,
-      "name": "Fijn",
-      "url": "https://open.spotify.com/track/1mLQsmHuMO2VMSTWfek8br"
-    },
-    {
-      "added_at": "2024-05-17 07:38:01",
+      "added_at": "2024-05-31 14:11:00",
       "album": {
         "name": "met de tijd",
         "url": "https://open.spotify.com/album/59XkvhOOonvoAZkgnHYCSg"
@@ -409,7 +449,7 @@
       "url": "https://open.spotify.com/track/2AqLfjC2r4jBJZ95MqyUGa"
     },
     {
-      "added_at": "2024-05-17 07:38:01",
+      "added_at": "2024-05-31 14:11:00",
       "album": {
         "name": "Ik Kijk Soms Naar Jou",
         "url": "https://open.spotify.com/album/3GjyYmdr4NyQStCXM3iyWx"
@@ -425,7 +465,7 @@
       "url": "https://open.spotify.com/track/7jBqqJNT5aOCkuyvrd7scH"
     },
     {
-      "added_at": "2024-05-17 07:38:01",
+      "added_at": "2024-05-31 14:11:00",
       "album": {
         "name": "Peachy Free",
         "url": "https://open.spotify.com/album/5Wyl6qnCHluBRkGgU3WM94"
@@ -441,7 +481,7 @@
       "url": "https://open.spotify.com/track/4GGo1Vr6nFBEGvT6z7yKo2"
     },
     {
-      "added_at": "2024-05-17 07:38:01",
+      "added_at": "2024-05-31 14:11:00",
       "album": {
         "name": "UTTERLY MISTAKEN",
         "url": "https://open.spotify.com/album/0IkT1RbrxEQLDv59ySR6ca"
@@ -457,7 +497,7 @@
       "url": "https://open.spotify.com/track/7BMOCSHP4JqzgRa4Dukf2W"
     },
     {
-      "added_at": "2024-05-17 07:38:01",
+      "added_at": "2024-05-31 14:11:00",
       "album": {
         "name": "Sterrenlopen (met S10)",
         "url": "https://open.spotify.com/album/2r3iyljpsMTEOMmTVdVJYJ"
@@ -477,7 +517,7 @@
       "url": "https://open.spotify.com/track/7yrvzTfOAxtB4UkUnizn1X"
     },
     {
-      "added_at": "2024-05-17 07:38:01",
+      "added_at": "2024-05-31 14:11:00",
       "album": {
         "name": "mensenkind",
         "url": "https://open.spotify.com/album/2ezRCf4Loqn8azlJxAV6QM"
@@ -493,7 +533,7 @@
       "url": "https://open.spotify.com/track/26QmlgDd3OyGvXPjueLSHW"
     },
     {
-      "added_at": "2024-05-17 07:38:01",
+      "added_at": "2024-05-31 14:11:00",
       "album": {
         "name": "Kop In The Sand",
         "url": "https://open.spotify.com/album/3lRqcRvlYbaqK65LTnUZno"
@@ -509,7 +549,7 @@
       "url": "https://open.spotify.com/track/4XCw1TmwEKcU2rbUQAvSNk"
     },
     {
-      "added_at": "2024-05-17 07:38:01",
+      "added_at": "2024-05-31 14:11:00",
       "album": {
         "name": "Nog Steeds Dezelfde",
         "url": "https://open.spotify.com/album/2BJ4ZpdRnUagLr4xRfNgmQ"
@@ -529,7 +569,7 @@
       "url": "https://open.spotify.com/track/0F4hPNXDZHw79Vxxxklcl6"
     },
     {
-      "added_at": "2024-05-17 07:38:01",
+      "added_at": "2024-05-31 14:11:00",
       "album": {
         "name": "VOLGEND WATER",
         "url": "https://open.spotify.com/album/5spkxtK1yVIfaJTXKF7gil"
@@ -545,7 +585,7 @@
       "url": "https://open.spotify.com/track/1GTiOgLHzzCnrIyWQY0ehe"
     },
     {
-      "added_at": "2024-05-17 07:38:01",
+      "added_at": "2024-05-31 14:11:00",
       "album": {
         "name": "Vijver",
         "url": "https://open.spotify.com/album/10i1NxqMsxbSPqjosPb6AG"
@@ -561,7 +601,7 @@
       "url": "https://open.spotify.com/track/0nxo2TJxgC0hd8wMvlzXon"
     },
     {
-      "added_at": "2024-05-17 07:38:01",
+      "added_at": "2024-05-31 14:11:00",
       "album": {
         "name": "UPROOT",
         "url": "https://open.spotify.com/album/3PFdGibdmouG6DD5BiYn7l"
@@ -577,7 +617,7 @@
       "url": "https://open.spotify.com/track/757h2XNOmakab55xqMFDRc"
     },
     {
-      "added_at": "2024-05-17 07:38:01",
+      "added_at": "2024-05-31 14:11:00",
       "album": {
         "name": "Little Time",
         "url": "https://open.spotify.com/album/3ejpXw3IeeMoaTTgm0KIoA"
@@ -593,7 +633,7 @@
       "url": "https://open.spotify.com/track/1WaQsiZuSKdjVx0NTrnpOX"
     },
     {
-      "added_at": "2024-05-17 07:38:01",
+      "added_at": "2024-05-31 14:11:00",
       "album": {
         "name": "Unlocked",
         "url": "https://open.spotify.com/album/3saGtz3MzM4dWtHT2t11uj"
@@ -609,7 +649,7 @@
       "url": "https://open.spotify.com/track/4OnJJB3lwl1fnPGrDQlbzy"
     },
     {
-      "added_at": "2024-05-17 07:38:01",
+      "added_at": "2024-05-31 14:11:00",
       "album": {
         "name": "I Wish I Knew",
         "url": "https://open.spotify.com/album/1eKElfchc2K5pjz0JkH6b8"
@@ -629,7 +669,7 @@
       "url": "https://open.spotify.com/track/1JDWUdfpi7lEm39hTuEuh0"
     },
     {
-      "added_at": "2024-05-17 07:38:01",
+      "added_at": "2024-05-31 14:11:00",
       "album": {
         "name": "Waiting On You (Recorded Live)",
         "url": "https://open.spotify.com/album/48gFbqIM1Q8LQMAAfNC4hK"
@@ -645,7 +685,7 @@
       "url": "https://open.spotify.com/track/4YRPoV5sVEWaIwbyOBrQMx"
     },
     {
-      "added_at": "2024-05-17 07:38:01",
+      "added_at": "2024-05-31 14:11:00",
       "album": {
         "name": "24/7",
         "url": "https://open.spotify.com/album/6rD5BrQ8q6A1Uw9aIoRgMt"
@@ -661,7 +701,7 @@
       "url": "https://open.spotify.com/track/37E6beg4rfSVrJh5XHTad7"
     },
     {
-      "added_at": "2024-05-17 07:38:01",
+      "added_at": "2024-05-31 14:11:00",
       "album": {
         "name": "Onverwachte Visite",
         "url": "https://open.spotify.com/album/7sylTYO4m4ccNyQd6zWFeX"
@@ -677,7 +717,7 @@
       "url": "https://open.spotify.com/track/2M4ullZOgWZWSovqHslHG4"
     },
     {
-      "added_at": "2024-05-17 07:38:01",
+      "added_at": "2024-05-31 14:11:00",
       "album": {
         "name": "Marathon I",
         "url": "https://open.spotify.com/album/4bvQPPSsD0iGIjqf1OYEu5"
@@ -693,7 +733,7 @@
       "url": "https://open.spotify.com/track/5VBT9JcgyoBvM7Uau4X57d"
     },
     {
-      "added_at": "2024-05-17 07:38:01",
+      "added_at": "2024-05-31 14:11:00",
       "album": {
         "name": "Mirrors",
         "url": "https://open.spotify.com/album/7L161NHfeg5E3dHOvr5GZ0"
@@ -717,7 +757,7 @@
       "url": "https://open.spotify.com/track/7KEYsxeFYN0ruMY6sGNdtf"
     },
     {
-      "added_at": "2024-05-17 07:38:01",
+      "added_at": "2024-05-31 14:11:00",
       "album": {
         "name": "The Observer",
         "url": "https://open.spotify.com/album/0F4ukdM899G7C49k0SBWL2"
@@ -733,7 +773,7 @@
       "url": "https://open.spotify.com/track/6f6qL5EOxhStjbxy4mSbfQ"
     },
     {
-      "added_at": "2024-05-17 07:38:01",
+      "added_at": "2024-05-31 14:11:00",
       "album": {
         "name": "Time for Love",
         "url": "https://open.spotify.com/album/5la69AsSpd40RNEmgojJ3p"
@@ -753,7 +793,7 @@
       "url": "https://open.spotify.com/track/4wCYpfVP2qRSYB4OO5q8FC"
     },
     {
-      "added_at": "2024-05-17 07:38:01",
+      "added_at": "2024-05-31 14:11:00",
       "album": {
         "name": "Silent Treatment",
         "url": "https://open.spotify.com/album/5LO6ze68qvFSZA9G8X5HVX"
@@ -769,23 +809,7 @@
       "url": "https://open.spotify.com/track/3Kfm28drfcq4sugyWsvIyd"
     },
     {
-      "added_at": "2024-05-17 07:38:01",
-      "album": {
-        "name": "I Don't Care Tonight",
-        "url": "https://open.spotify.com/album/4WZaOHiKK6GLGimpLPHZC3"
-      },
-      "artists": [
-        {
-          "name": "Misha Wong",
-          "url": "https://open.spotify.com/artist/53awYKecnsSi0dogUvlVv0"
-        }
-      ],
-      "duration_ms": 228764,
-      "name": "I Don't Care Tonight",
-      "url": "https://open.spotify.com/track/6kZwi3zqzCwVejpjYfIaOa"
-    },
-    {
-      "added_at": "2024-05-17 07:38:01",
+      "added_at": "2024-05-31 14:11:00",
       "album": {
         "name": "excuses",
         "url": "https://open.spotify.com/album/3WS0r3RjStJi2DIYioq6QW"
@@ -801,7 +825,7 @@
       "url": "https://open.spotify.com/track/1rB3CxWVX9GlNIfLoIuLXb"
     },
     {
-      "added_at": "2024-05-17 07:38:01",
+      "added_at": "2024-05-31 14:11:00",
       "album": {
         "name": "VERFBOMMENVERF",
         "url": "https://open.spotify.com/album/7aKZV7ORfgsplHnJfchgTf"
@@ -817,7 +841,7 @@
       "url": "https://open.spotify.com/track/5a8XU0IawHs3qtkET6LiK0"
     },
     {
-      "added_at": "2024-05-17 07:38:01",
+      "added_at": "2024-05-31 14:11:00",
       "album": {
         "name": "Zonder",
         "url": "https://open.spotify.com/album/1yPgri8VVGPHaHoI8Mc18h"
@@ -833,7 +857,7 @@
       "url": "https://open.spotify.com/track/4ZMYnbAOkyOIhfuA0hHHq0"
     },
     {
-      "added_at": "2024-05-17 07:38:01",
+      "added_at": "2024-05-31 14:11:00",
       "album": {
         "name": "Into Your Head",
         "url": "https://open.spotify.com/album/1YgODoJinZO2aL2Zhqtv6r"
@@ -847,22 +871,6 @@
       "duration_ms": 179395,
       "name": "youandme",
       "url": "https://open.spotify.com/track/51mffAss4N5q3VVkLR02TE"
-    },
-    {
-      "added_at": "2024-05-17 07:38:01",
-      "album": {
-        "name": "Scheef",
-        "url": "https://open.spotify.com/album/3KwnniiGH4XmOs5FQgIoSp"
-      },
-      "artists": [
-        {
-          "name": "THYRZA",
-          "url": "https://open.spotify.com/artist/6Y0fFuFrEgAyOD2eIMwUX5"
-        }
-      ],
-      "duration_ms": 196986,
-      "name": "Scheef",
-      "url": "https://open.spotify.com/track/2vMHhWv9bIS2IpVcwALlKZ"
     }
   ],
   "unique_name": "karakter.",

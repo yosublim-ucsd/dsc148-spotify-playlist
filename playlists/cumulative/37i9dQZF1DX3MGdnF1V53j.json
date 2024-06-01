@@ -144,7 +144,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 120028,
       "name": "Amour De Ma Vie (Nmout 3liek)",
       "url": "https://open.spotify.com/track/6ot0Ttc1m1nw5z4Tipggk9"
@@ -734,6 +734,24 @@
       "duration_ms": 191229,
       "name": "Goodbye",
       "url": "https://open.spotify.com/track/1HJZok3nL68K9ML6Twa1bQ"
+    },
+    {
+      "album": {
+        "name": "Harami",
+        "url": "https://open.spotify.com/album/0EW4O5QQF1bsd7hN4Pc6SJ"
+      },
+      "artists": [
+        {
+          "name": "Norel",
+          "url": "https://open.spotify.com/artist/5GDRJ2wLCUGI1ryefQ3f3t"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Harami",
+      "url": "https://open.spotify.com/track/6y7TE1grW4UhMzpsHF5wCp"
     },
     {
       "album": {

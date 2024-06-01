@@ -304,7 +304,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 77424,
       "name": "ARO 20",
       "url": "https://open.spotify.com/track/5b0pG8v9U4QsRWnEpoAx5M"
@@ -600,7 +600,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 155791,
       "name": "Bop Dance",
       "url": "https://open.spotify.com/track/0pxCLHDBFe5yTdKIgSzGiU"
@@ -1175,6 +1175,32 @@
     },
     {
       "album": {
+        "name": "MAGIC SHOW (DELUXE)",
+        "url": "https://open.spotify.com/album/3QwGvMjTIO0xzb8BrWTRu6"
+      },
+      "artists": [
+        {
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+        },
+        {
+          "name": "Jovem Dex",
+          "url": "https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179205,
+      "name": "D\u00cdGITOS",
+      "url": "https://open.spotify.com/track/5gxIUJwuBqqfxrCKUFbzMy"
+    },
+    {
+      "album": {
         "name": "Ela Gosta",
         "url": "https://open.spotify.com/album/3MySd7wyrtWmAr4Al8EYwh"
       },
@@ -1238,7 +1264,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 134304,
       "name": "Eles Dizem Me Amar",
       "url": "https://open.spotify.com/track/3WmBu62aEEMj2yMYOhpWNn"
@@ -1548,7 +1574,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 163636,
       "name": "Fui s\u00f3 um mano",
       "url": "https://open.spotify.com/track/1pxXdpMiFgVVaa4rdGdhLZ"
@@ -2292,7 +2318,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 110817,
       "name": "MISS YOU",
       "url": "https://open.spotify.com/track/04kFjJ9hiRgNLfjF4nQAGA"
@@ -2344,7 +2370,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 162684,
       "name": "Moment\u00e2neo",
       "url": "https://open.spotify.com/track/7LnQQ9mdAz9KvbA4mGOwdm"
@@ -2510,7 +2536,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 146666,
       "name": "Neurose e Solid\u00e3o",
       "url": "https://open.spotify.com/track/14NO0yh1QvOdK7Ku45tlvp"
@@ -2536,6 +2562,36 @@
       "duration_ms": 120000,
       "name": "Nois \u00e9 Nois",
       "url": "https://open.spotify.com/track/1k1egPmIPWQ0J44PWgMDwA"
+    },
+    {
+      "album": {
+        "name": "Nossa postura",
+        "url": "https://open.spotify.com/album/4RvzsZ9T2Xp1Cao0k4qbro"
+      },
+      "artists": [
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "Russ Millions",
+          "url": "https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p"
+        },
+        {
+          "name": "Dj Alle da coro",
+          "url": "https://open.spotify.com/artist/6fGH2Qk8eKAcvEU1nHOi8x"
+        },
+        {
+          "name": "C\u00fapula",
+          "url": "https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223319,
+      "name": "Nossa postura",
+      "url": "https://open.spotify.com/track/0dBRzGfG1a2CARm1U4ssN0"
     },
     {
       "album": {
@@ -2706,6 +2762,24 @@
       "duration_ms": 124727,
       "name": "N\u00e3o Vou Dan\u00e7ar Sozinho",
       "url": "https://open.spotify.com/track/4XMnWCE1u1qYFcnmNf1xFS"
+    },
+    {
+      "album": {
+        "name": "TAKEDOWN",
+        "url": "https://open.spotify.com/album/3h1AnE9YdIZ2he4hg3nXoy"
+      },
+      "artists": [
+        {
+          "name": "rs9",
+          "url": "https://open.spotify.com/artist/3pg4wlhwWAUDvmONc1O0i9"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175757,
+      "name": "O Trap \u00c9 Simples / Se Tentar \u00c9 Lona - Jersey Club BR",
+      "url": "https://open.spotify.com/track/5D5sfZbRTvTn58YVaPSOHS"
     },
     {
       "album": {
@@ -3012,7 +3086,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 156812,
       "name": "PUFFER",
       "url": "https://open.spotify.com/track/7KhdkN22ZBdIPcjqad9jnz"
@@ -3144,7 +3218,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 128695,
       "name": "Romance de Novela",
       "url": "https://open.spotify.com/track/3Ddco5MUY23qxHZE2s3siS"
@@ -3624,7 +3698,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 150400,
       "name": "Tudo Que Pedir",
       "url": "https://open.spotify.com/track/3Vfm4zFtNB65PAnmYtRrNn"

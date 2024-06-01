@@ -1,12 +1,12 @@
 {
-  "description": "Subjectively good music xx",
+  "description": "Objectively good music",
   "num_followers": 14,
   "original_name": "The True Benny Mix",
   "owner": {
     "name": "BennyE456",
     "url": "https://open.spotify.com/user/bennyellison4"
   },
-  "snapshot_id": "AAAIQ1eFVzCG5ZhmP8i1mJ/QxRVIWfYl",
+  "snapshot_id": "AAAISnKaftnVqjoP7s6lJb0VwQ85ScEH",
   "tracks": [
     {
       "added_at": "2019-06-08 21:56:13",
@@ -14817,22 +14817,6 @@
       "url": "https://open.spotify.com/track/6rlLQPXSkhTlcDgUkCfqOr"
     },
     {
-      "added_at": "2024-05-08 00:29:38",
-      "album": {
-        "name": "Until I Found You",
-        "url": "https://open.spotify.com/album/18CtLoAMTr7F8ngtuM6D8i"
-      },
-      "artists": [
-        {
-          "name": "Stephen Sanchez",
-          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
-        }
-      ],
-      "duration_ms": 177720,
-      "name": "Until I Found You",
-      "url": "https://open.spotify.com/track/0T5iIrXA4p5GsubkhuBIKV"
-    },
-    {
       "added_at": "2024-05-10 00:11:43",
       "album": {
         "name": "Apollonia",
@@ -15065,49 +15049,9 @@
       "url": "https://open.spotify.com/track/0cgyeBU54kjmI54TflMANg"
     },
     {
-      "added_at": "2024-05-19 14:09:22",
-      "album": {
-        "name": "VULTURES 1",
-        "url": "https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        }
-      ],
-      "duration_ms": 195117,
-      "name": "PAID",
-      "url": "https://open.spotify.com/track/1tz4np70ZKhzaXjdgl0J8i"
-    },
-    {
-      "added_at": "2024-05-19 14:09:27",
-      "album": {
-        "name": "VULTURES 1",
-        "url": "https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        }
-      ],
-      "duration_ms": 115238,
-      "name": "STARS",
-      "url": "https://open.spotify.com/track/6OON4kMjTFqARMFrRbmlwy"
-    },
-    {
       "added_at": "2024-05-22 17:55:00",
       "album": {
-        "name": "The Craving (single version)",
+        "name": "The Craving",
         "url": "https://open.spotify.com/album/7K7eWZNR5t9UBlrN2ltzLI"
       },
       "artists": [
@@ -15117,7 +15061,7 @@
         }
       ],
       "duration_ms": 173866,
-      "name": "The Craving (single version)",
+      "name": "The Craving - single version",
       "url": "https://open.spotify.com/track/0S7lkKStHgfgjgwSFOvRNA"
     },
     {
@@ -15279,6 +15223,54 @@
       "duration_ms": 388586,
       "name": "Paladin Strait",
       "url": "https://open.spotify.com/track/5HvDKyJlHWg42BdsE4ycSm"
+    },
+    {
+      "added_at": "2024-05-31 01:32:23",
+      "album": {
+        "name": "Bon Iver",
+        "url": "https://open.spotify.com/album/3JKDDYSBFozqcjWwSV3Yj3"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 336613,
+      "name": "Holocene",
+      "url": "https://open.spotify.com/track/6DESft0qm6RhoYf5wzeoGH"
+    },
+    {
+      "added_at": "2024-05-31 15:32:31",
+      "album": {
+        "name": "Trench",
+        "url": "https://open.spotify.com/album/621cXqrTSSJi1WqDMSLmbL"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "duration_ms": 172560,
+      "name": "Legend",
+      "url": "https://open.spotify.com/track/1CDVadnneswMxi6gBqJTtC"
+    },
+    {
+      "added_at": "2024-06-01 00:56:09",
+      "album": {
+        "name": "Born to Be With You / Streetheart",
+        "url": "https://open.spotify.com/album/0DOf8RoY5pxvrbDCEGlj7B"
+      },
+      "artists": [
+        {
+          "name": "Dion",
+          "url": "https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W"
+        }
+      ],
+      "duration_ms": 285613,
+      "name": "Only You Know",
+      "url": "https://open.spotify.com/track/3m0iAPHzwU6cZT8vNCrZZO"
     }
   ],
   "unique_name": "The True Benny Mix",

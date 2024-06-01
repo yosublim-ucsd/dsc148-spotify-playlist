@@ -4,27 +4,27 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 
 > La scène musicale montréalaise au premier plan\. Photo: Bibi Club
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,492 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,531 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [La terre](https://open.spotify.com/track/1fZAMXWeyVafyabbEtjRBL) | [Bibi Club](https://open.spotify.com/artist/3TcKgwcrTy4oLOQoEq3tGD) | [Feu de garde](https://open.spotify.com/album/4mylCMxsXSVvUbnbK6N8Fn) | 3:21 |
-| 2 | [Baby Has A Frown](https://open.spotify.com/track/3iA5tU7zZ1YUKv7NDO7ppf) | [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv) | [Baby Has A Frown](https://open.spotify.com/album/58nMtDYsuRQqmPBGAJiiJr) | 2:40 |
+| 2 | [Overwhelmed and Unprepared](https://open.spotify.com/track/606sltm751n1JmCxI0UN9s) | [Unessential Oils](https://open.spotify.com/artist/34dPqKupUgAXZRn6beb0Zu) | [Overwhelmed and Unprepared](https://open.spotify.com/album/7HDAhvEuglhFQXLeSZJCjh) | 5:34 |
 | 3 | [Cinq minutes pile](https://open.spotify.com/track/2YkqLNTAL83ALI3GgLHJvS) | [Rau\_Ze](https://open.spotify.com/artist/2UV0xpXyJukSl1LErTk4Fo) | [Virer nos vies](https://open.spotify.com/album/4tMZrp8Xm64cRqRtWoqHQh) | 2:42 |
-| 4 | [C.A.Y.A.](https://open.spotify.com/track/7wjCwar4rj6o6lV2mkJa1C) | [Geoffroy](https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ) | [C.A.Y.A.](https://open.spotify.com/album/6qrqhBw1tIGreA43JGQ3P3) | 3:42 |
-| 5 | [Ocean](https://open.spotify.com/track/284f8fL3XQ71bGIZvNTpId) | [Ghostly Kisses](https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj) | [Darkroom](https://open.spotify.com/album/0EL6B1uF8KkXOh99PnR5ME) | 3:34 |
-| 6 | [Testify](https://open.spotify.com/track/4WQUkqnQr0UAqY6izXUEi5) | [Marilyne Léonard](https://open.spotify.com/artist/00WvHy3wvdUV4WSvvc0N5p), [Mike Clay](https://open.spotify.com/artist/0XkKzWXudWJloK6SWsH8B8) | [Testify](https://open.spotify.com/album/7ItYQn2qm80WSH0eFJyxf5) | 2:15 |
-| 7 | [Bleeding Me Dry \- A COLORS SHOW](https://open.spotify.com/track/4bBjJXHNQPiUdY0L90dO4D) | [Alicia Creti](https://open.spotify.com/artist/0V0XsSn8lNPXAEEFG292iX) | [Bleeding Me Dry \- A COLORS SHOW](https://open.spotify.com/album/0tT4aJMUh0ToD5vEFhhPnh) | 3:33 |
-| 8 | [Les nouveaux infinis](https://open.spotify.com/track/6tq1i5M92NGSSQSgt7B088) | [Nicolet](https://open.spotify.com/artist/5M1fJVSLxyQGV6RSqilBjR) | [Les nouveaux infinis](https://open.spotify.com/album/3p359s7FAMTjo50xzFlHt4) | 3:40 |
-| 9 | [G4ME0VER](https://open.spotify.com/track/34HH5L2MQJitwwac1C6iaW) | [BéLi](https://open.spotify.com/artist/76Sntu9WfhbuJS6RK1ExhW) | [G4ME0VER](https://open.spotify.com/album/32uetGzqTeObmj3fb19mkc) | 2:54 |
-| 10 | [Arène](https://open.spotify.com/track/2XM74PW22MJ6vEGruNXHjD) | [Reno McCarthy](https://open.spotify.com/artist/1JdFzT3HVVdNNvpdIyfOPS) | [Arène](https://open.spotify.com/album/3isZboZjEieVd3j5DqYNQp) | 3:05 |
-| 11 | [Oumamie](https://open.spotify.com/track/2iauwPwdi7tZPyFPfLUotw) | [Hansom Ēli](https://open.spotify.com/artist/6NwI5CAoRbYCTWCiCiQ7Dh) | [Oumamie](https://open.spotify.com/album/4JH7mG8IRdK3oGh2m0nT4L) | 2:21 |
-| 12 | [Si je rampe](https://open.spotify.com/track/0URJzuHMZC8sywrbSYXVAn) | [Ariane Roy](https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM) | [Si je rampe](https://open.spotify.com/album/6juYcRp6bkkorf1MwbI7ss) | 2:57 |
-| 13 | [Flying Away](https://open.spotify.com/track/3bszv09KHptpoVP6yDN2wv) | [Sara\-Danielle](https://open.spotify.com/artist/3asDPAs8xchUTMEEkpkkPO), [Anna Majidson](https://open.spotify.com/artist/7jfJJuEsycOiEc2n4fCM7z) | [Flying Away](https://open.spotify.com/album/3klMx33nQECUneOjwk9lc5) | 2:34 |
-| 14 | [we need to leave LA](https://open.spotify.com/track/7HoUYphBTJhZkgS9TYSsqI) | [pijama land](https://open.spotify.com/artist/4R5DOIzMI1Tv1Tqtmuh5NY) | [we need to leave LA](https://open.spotify.com/album/7d6d8J2yGAUplBFcA8ufe0) | 3:10 |
-| 15 | [Une nuit à Paris](https://open.spotify.com/track/5g5Teg7FeCD0coLI9hHDow) | [pataugeoire](https://open.spotify.com/artist/2Y5bshWQcWGxvTQPQ0qcrA), [Claire Morrison](https://open.spotify.com/artist/5gEPev2nkwI0VZMMQ5i7fg) | [Une nuit à Paris](https://open.spotify.com/album/7DCWNYVc3UlDYRQf9PJoym) | 3:04 |
-| 16 | [Ciel](https://open.spotify.com/track/3NcikFH886J3WbrdG4LNff) | [Peter Peter](https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC) | [Éther](https://open.spotify.com/album/1n2uhtZob0c4Zq6Xvixb5A) | 4:17 |
-| 17 | [Distrust the Magician](https://open.spotify.com/track/4EczFi15YP46BSa8u1p95v) | [Unessential Oils](https://open.spotify.com/artist/34dPqKupUgAXZRn6beb0Zu) | [Distrust the Magician](https://open.spotify.com/album/61I73dAC8MzN56vo2FX4SO) | 5:37 |
+| 4 | [G4ME0VER](https://open.spotify.com/track/34HH5L2MQJitwwac1C6iaW) | [BéLi](https://open.spotify.com/artist/76Sntu9WfhbuJS6RK1ExhW) | [G4ME0VER](https://open.spotify.com/album/32uetGzqTeObmj3fb19mkc) | 2:54 |
+| 5 | [Baby Has A Frown](https://open.spotify.com/track/3iA5tU7zZ1YUKv7NDO7ppf) | [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv) | [Baby Has A Frown](https://open.spotify.com/album/58nMtDYsuRQqmPBGAJiiJr) | 2:40 |
+| 6 | [C.A.Y.A.](https://open.spotify.com/track/7wjCwar4rj6o6lV2mkJa1C) | [Geoffroy](https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ) | [C.A.Y.A.](https://open.spotify.com/album/6qrqhBw1tIGreA43JGQ3P3) | 3:42 |
+| 7 | [Arène](https://open.spotify.com/track/2XM74PW22MJ6vEGruNXHjD) | [Reno McCarthy](https://open.spotify.com/artist/1JdFzT3HVVdNNvpdIyfOPS) | [Arène](https://open.spotify.com/album/3isZboZjEieVd3j5DqYNQp) | 3:05 |
+| 8 | [Ocean](https://open.spotify.com/track/284f8fL3XQ71bGIZvNTpId) | [Ghostly Kisses](https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj) | [Darkroom](https://open.spotify.com/album/0EL6B1uF8KkXOh99PnR5ME) | 3:34 |
+| 9 | [Testify](https://open.spotify.com/track/4WQUkqnQr0UAqY6izXUEi5) | [Marilyne Léonard](https://open.spotify.com/artist/00WvHy3wvdUV4WSvvc0N5p), [Mike Clay](https://open.spotify.com/artist/0XkKzWXudWJloK6SWsH8B8) | [Testify](https://open.spotify.com/album/7ItYQn2qm80WSH0eFJyxf5) | 2:15 |
+| 10 | [Bleeding Me Dry \- A COLORS SHOW](https://open.spotify.com/track/4bBjJXHNQPiUdY0L90dO4D) | [Alicia Creti](https://open.spotify.com/artist/0V0XsSn8lNPXAEEFG292iX) | [Bleeding Me Dry \- A COLORS SHOW](https://open.spotify.com/album/0tT4aJMUh0ToD5vEFhhPnh) | 3:33 |
+| 11 | [Les nouveaux infinis](https://open.spotify.com/track/6tq1i5M92NGSSQSgt7B088) | [Nicolet](https://open.spotify.com/artist/5M1fJVSLxyQGV6RSqilBjR) | [Les nouveaux infinis](https://open.spotify.com/album/3p359s7FAMTjo50xzFlHt4) | 3:40 |
+| 12 | [Oumamie](https://open.spotify.com/track/2iauwPwdi7tZPyFPfLUotw) | [Hansom Ēli](https://open.spotify.com/artist/6NwI5CAoRbYCTWCiCiQ7Dh) | [Oumamie](https://open.spotify.com/album/4JH7mG8IRdK3oGh2m0nT4L) | 2:21 |
+| 13 | [Si je rampe](https://open.spotify.com/track/0URJzuHMZC8sywrbSYXVAn) | [Ariane Roy](https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM) | [Si je rampe](https://open.spotify.com/album/6juYcRp6bkkorf1MwbI7ss) | 2:57 |
+| 14 | [Flying Away](https://open.spotify.com/track/3bszv09KHptpoVP6yDN2wv) | [Sara\-Danielle](https://open.spotify.com/artist/3asDPAs8xchUTMEEkpkkPO), [Anna Majidson](https://open.spotify.com/artist/7jfJJuEsycOiEc2n4fCM7z) | [Flying Away](https://open.spotify.com/album/3klMx33nQECUneOjwk9lc5) | 2:34 |
+| 15 | [we need to leave LA](https://open.spotify.com/track/7HoUYphBTJhZkgS9TYSsqI) | [pijama land](https://open.spotify.com/artist/4R5DOIzMI1Tv1Tqtmuh5NY) | [we need to leave LA](https://open.spotify.com/album/7d6d8J2yGAUplBFcA8ufe0) | 3:10 |
+| 16 | [Une nuit à Paris](https://open.spotify.com/track/5g5Teg7FeCD0coLI9hHDow) | [pataugeoire](https://open.spotify.com/artist/2Y5bshWQcWGxvTQPQ0qcrA), [Claire Morrison](https://open.spotify.com/artist/5gEPev2nkwI0VZMMQ5i7fg) | [Une nuit à Paris](https://open.spotify.com/album/7DCWNYVc3UlDYRQf9PJoym) | 3:04 |
+| 17 | [Ciel](https://open.spotify.com/track/3NcikFH886J3WbrdG4LNff) | [Peter Peter](https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC) | [Éther](https://open.spotify.com/album/1n2uhtZob0c4Zq6Xvixb5A) | 4:17 |
 | 18 | [Fait du sens](https://open.spotify.com/track/1KWCsJZq5YjqBPqf1yOgiP) | [Grand Eugène](https://open.spotify.com/artist/15HoDsauDCgOxvCFijHxdT), [Niall Mutter](https://open.spotify.com/artist/26nkWfI1zwh7OFESYPRn2w) | [Fait du sens](https://open.spotify.com/album/0XmcPP9hH44pkQoFaVaXco) | 3:12 |
 | 19 | [SABOTAGE](https://open.spotify.com/track/0EhNBdXyImhnYWKpgXvIVc) | [Oliver Forest](https://open.spotify.com/artist/0suucqqvdSvSNRyfvzEBe7) | [SABOTAGE](https://open.spotify.com/album/4NrrsDtH1VJSeoQsakvKkQ) | 2:50 |
 | 20 | [Trompe\-l'oeil](https://open.spotify.com/track/1dYcCuAw9dBtc2eGZ490hc) | [Bon Enfant](https://open.spotify.com/artist/0hkdPMjJkZqjDwE7j5XAYb) | [Trompe\-l'oeil](https://open.spotify.com/album/6cuvswbgSkYojNo21x3Sjy) | 2:55 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 | 99 | [Vague de Chaleur](https://open.spotify.com/track/7G4ZvyuqsdTGLiEpt9Nu0S) | [Bazzart](https://open.spotify.com/artist/2MbDF1l08wsQOWjwg54YYa), [William Papillon](https://open.spotify.com/artist/3Hrbbg19aEK3UpbzpPcfys) | [Vague de Chaleur](https://open.spotify.com/album/15XpnxhRwPCR5wglfnPmtC) | 2:44 |
 | 100 | [Pause](https://open.spotify.com/track/4zkYz1az0oGzTlfZUb1Zwf) | [Täbï Yösha](https://open.spotify.com/artist/7mFQZ0JDq4jMjWXGyaU8EO), [suiker](https://open.spotify.com/artist/3UZSNnTycoiDTXY72xLV14) | [Pause](https://open.spotify.com/album/43kkRSBUKK3JaZvQiMmAVJ) | 2:40 |
 
-Snapshot ID: `ZlDtCwAAAACdwOQRamT9dmf40Gsfs752`
+Snapshot ID: `ZllLQAAAAADWZ/rUlDadcCI3AxGwP0Gs`

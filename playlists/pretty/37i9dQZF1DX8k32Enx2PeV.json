@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Tr\u00f3pico y vanguardia! Deja que la brisa impulse tu esp\u00edritu.",
-  "num_followers": 10420,
+  "num_followers": 10449,
   "original_name": "Palmera",
   "owner": {
     "name": "Spotify",
@@ -459,26 +459,6 @@
     {
       "added_at": "2023-09-22 05:25:00",
       "album": {
-        "name": "Caribe\u00f1a",
-        "url": "https://open.spotify.com/album/6pqif5AJYmhoYERQhbHVyM"
-      },
-      "artists": [
-        {
-          "name": "Lorena Blume",
-          "url": "https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W"
-        },
-        {
-          "name": "Paz Court",
-          "url": "https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm"
-        }
-      ],
-      "duration_ms": 191141,
-      "name": "Caribe\u00f1a",
-      "url": "https://open.spotify.com/track/4N4STDrAmiZoVLVFGwDXp3"
-    },
-    {
-      "added_at": "2023-09-22 05:25:00",
-      "album": {
         "name": "Quiromancia",
         "url": "https://open.spotify.com/album/1KBZbjexyRuJi8ke07XmyY"
       },
@@ -495,6 +475,26 @@
       "duration_ms": 256847,
       "name": "Quiromancia (feat. Vic Mirallas)",
       "url": "https://open.spotify.com/track/1FjvS0Xoqcvo6DG3Dn8E8a"
+    },
+    {
+      "added_at": "2023-09-22 05:25:00",
+      "album": {
+        "name": "Caribe\u00f1a",
+        "url": "https://open.spotify.com/album/6pqif5AJYmhoYERQhbHVyM"
+      },
+      "artists": [
+        {
+          "name": "Lorena Blume",
+          "url": "https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W"
+        },
+        {
+          "name": "Paz Court",
+          "url": "https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm"
+        }
+      ],
+      "duration_ms": 191141,
+      "name": "Caribe\u00f1a",
+      "url": "https://open.spotify.com/track/4N4STDrAmiZoVLVFGwDXp3"
     },
     {
       "added_at": "2023-09-22 05:25:00",
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-09-22 05:25:00",
       "album": {
-        "name": "Carita Feliz | Carita Triste (Deluxe)",
-        "url": "https://open.spotify.com/album/5Bk9I9wmvglASEK0yJDIqJ"
-      },
-      "artists": [
-        {
-          "name": "Anakena",
-          "url": "https://open.spotify.com/artist/0kHEttD7XzMjXbZtMq6XYo"
-        }
-      ],
-      "duration_ms": 175405,
-      "name": "RELA",
-      "url": "https://open.spotify.com/track/1D0WGWoxhwaeGfxWiRt1sw"
-    },
-    {
-      "added_at": "2023-09-22 05:25:00",
-      "album": {
         "name": "Supernatural Love",
         "url": "https://open.spotify.com/album/0m1LXn0YdEzzKfXN3Hvtsl"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 221346,
       "name": "Se Acab\u00f3",
       "url": "https://open.spotify.com/track/5VCpCHyZO5LzLGgN4399D4"
+    },
+    {
+      "added_at": "2023-09-22 05:25:00",
+      "album": {
+        "name": "Carita Feliz | Carita Triste (Deluxe)",
+        "url": "https://open.spotify.com/album/5Bk9I9wmvglASEK0yJDIqJ"
+      },
+      "artists": [
+        {
+          "name": "Anakena",
+          "url": "https://open.spotify.com/artist/0kHEttD7XzMjXbZtMq6XYo"
+        }
+      ],
+      "duration_ms": 175405,
+      "name": "RELA",
+      "url": "https://open.spotify.com/track/1D0WGWoxhwaeGfxWiRt1sw"
     },
     {
       "added_at": "2023-09-22 05:25:00",
@@ -837,38 +837,6 @@
       "url": "https://open.spotify.com/track/5nWQMUhXnjl4yAyYG1ZMLs"
     },
     {
-      "added_at": "2024-04-19 05:14:00",
-      "album": {
-        "name": "XOD\u00d3",
-        "url": "https://open.spotify.com/album/3bZ0Fd7JVJDVYyjV4YJmpo"
-      },
-      "artists": [
-        {
-          "name": "JBot & Tuti",
-          "url": "https://open.spotify.com/artist/5jxVsaFreexOv9fypQsdEX"
-        }
-      ],
-      "duration_ms": 157250,
-      "name": "XOD\u00d3",
-      "url": "https://open.spotify.com/track/3lBGGakiCKy5ZHNObSlQnD"
-    },
-    {
-      "added_at": "2023-09-22 05:25:00",
-      "album": {
-        "name": "Sun a Shine",
-        "url": "https://open.spotify.com/album/1ZAfskHXkdsJUDS2qYG0X3"
-      },
-      "artists": [
-        {
-          "name": "Elkin Robinson",
-          "url": "https://open.spotify.com/artist/1MS4MMgPaQ0WyM0u0Uj3EO"
-        }
-      ],
-      "duration_ms": 172069,
-      "name": "Sun a Shine",
-      "url": "https://open.spotify.com/track/5pj9GnIvHNfoTevSH8z8Uv"
-    },
-    {
       "added_at": "2023-09-22 05:25:00",
       "album": {
         "name": "All Inclusive",
@@ -903,18 +871,34 @@
     {
       "added_at": "2023-09-22 05:25:00",
       "album": {
-        "name": "Feliz",
-        "url": "https://open.spotify.com/album/26MWxdbAKjNgZ68EBd1R3C"
+        "name": "Sun a Shine",
+        "url": "https://open.spotify.com/album/1ZAfskHXkdsJUDS2qYG0X3"
       },
       "artists": [
         {
-          "name": "Naty Botero",
-          "url": "https://open.spotify.com/artist/4OhwphUKRc02WusKr0n47c"
+          "name": "Elkin Robinson",
+          "url": "https://open.spotify.com/artist/1MS4MMgPaQ0WyM0u0Uj3EO"
         }
       ],
-      "duration_ms": 211034,
-      "name": "Feliz",
-      "url": "https://open.spotify.com/track/2r5B8HCPNO6mKrGKH86Mzd"
+      "duration_ms": 172069,
+      "name": "Sun a Shine",
+      "url": "https://open.spotify.com/track/5pj9GnIvHNfoTevSH8z8Uv"
+    },
+    {
+      "added_at": "2024-04-19 05:14:00",
+      "album": {
+        "name": "XOD\u00d3",
+        "url": "https://open.spotify.com/album/3bZ0Fd7JVJDVYyjV4YJmpo"
+      },
+      "artists": [
+        {
+          "name": "JBot & Tuti",
+          "url": "https://open.spotify.com/artist/5jxVsaFreexOv9fypQsdEX"
+        }
+      ],
+      "duration_ms": 157250,
+      "name": "XOD\u00d3",
+      "url": "https://open.spotify.com/track/3lBGGakiCKy5ZHNObSlQnD"
     },
     {
       "added_at": "2023-09-22 05:25:00",
@@ -935,18 +919,18 @@
     {
       "added_at": "2023-09-22 05:25:00",
       "album": {
-        "name": "Ese Dinero",
-        "url": "https://open.spotify.com/album/4AqhwZMcqqb0qv2eh79AFT"
+        "name": "Feliz",
+        "url": "https://open.spotify.com/album/26MWxdbAKjNgZ68EBd1R3C"
       },
       "artists": [
         {
-          "name": "Nia Vanie",
-          "url": "https://open.spotify.com/artist/2AAkCTYG2KE8Ocl7JK97wD"
+          "name": "Naty Botero",
+          "url": "https://open.spotify.com/artist/4OhwphUKRc02WusKr0n47c"
         }
       ],
-      "duration_ms": 238648,
-      "name": "Ese Dinero",
-      "url": "https://open.spotify.com/track/1OZnwe4IGv3hmNeZ9x6r5F"
+      "duration_ms": 211034,
+      "name": "Feliz",
+      "url": "https://open.spotify.com/track/2r5B8HCPNO6mKrGKH86Mzd"
     },
     {
       "added_at": "2023-09-22 05:25:00",
@@ -979,6 +963,22 @@
       "duration_ms": 176353,
       "name": "Ci\u00e9naga",
       "url": "https://open.spotify.com/track/6Mvxbj2eJphVbSFfa4RE5U"
+    },
+    {
+      "added_at": "2023-09-22 05:25:00",
+      "album": {
+        "name": "Ese Dinero",
+        "url": "https://open.spotify.com/album/4AqhwZMcqqb0qv2eh79AFT"
+      },
+      "artists": [
+        {
+          "name": "Nia Vanie",
+          "url": "https://open.spotify.com/artist/2AAkCTYG2KE8Ocl7JK97wD"
+        }
+      ],
+      "duration_ms": 238648,
+      "name": "Ese Dinero",
+      "url": "https://open.spotify.com/track/1OZnwe4IGv3hmNeZ9x6r5F"
     },
     {
       "added_at": "2023-09-22 05:25:00",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2023-09-22 05:25:00",
       "album": {
-        "name": "Ma Vie",
-        "url": "https://open.spotify.com/album/70bUXOYC5M8yRPTybauNt8"
-      },
-      "artists": [
-        {
-          "name": "Valerian\u00e4",
-          "url": "https://open.spotify.com/artist/31eD4Jy2jTXFosFfrnaVgs"
-        }
-      ],
-      "duration_ms": 152826,
-      "name": "Ma Vie",
-      "url": "https://open.spotify.com/track/5DMWjLDck4h90C61FPwKWt"
-    },
-    {
-      "added_at": "2023-09-22 05:25:00",
-      "album": {
         "name": "Respiro",
         "url": "https://open.spotify.com/album/0obtRY4p00WwIHafC8MTlF"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 195317,
       "name": "Respiro",
       "url": "https://open.spotify.com/track/42op2wd3o7SZ1MUImRkbkh"
+    },
+    {
+      "added_at": "2023-09-22 05:25:00",
+      "album": {
+        "name": "Ma Vie",
+        "url": "https://open.spotify.com/album/70bUXOYC5M8yRPTybauNt8"
+      },
+      "artists": [
+        {
+          "name": "Valerian\u00e4",
+          "url": "https://open.spotify.com/artist/31eD4Jy2jTXFosFfrnaVgs"
+        }
+      ],
+      "duration_ms": 152826,
+      "name": "Ma Vie",
+      "url": "https://open.spotify.com/track/5DMWjLDck4h90C61FPwKWt"
     },
     {
       "added_at": "2023-09-22 05:25:00",

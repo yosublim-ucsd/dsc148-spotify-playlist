@@ -128,7 +128,7 @@
       ],
       "date_added": "2024-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 65606,
       "name": "310degrees",
       "url": "https://open.spotify.com/track/1f1R24tV7tx0464MCz4U9C"
@@ -200,7 +200,7 @@
       ],
       "date_added": "2024-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 122472,
       "name": "All Love",
       "url": "https://open.spotify.com/track/7qiqChGX27g39lIhBWZKGK"
@@ -262,6 +262,32 @@
       "duration_ms": 165000,
       "name": "Amapiano",
       "url": "https://open.spotify.com/track/1YgIvHDTvi1vosins1jyAC"
+    },
+    {
+      "album": {
+        "name": "Legend",
+        "url": "https://open.spotify.com/album/1ZTCGhCvCLoDdU1ndwX7Kp"
+      },
+      "artists": [
+        {
+          "name": "MO3",
+          "url": "https://open.spotify.com/artist/44JEJiBvti7NiEhAfzWstv"
+        },
+        {
+          "name": "That Mexican OT",
+          "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
+        },
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "date_added": "2024-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196029,
+      "name": "AR (feat. BigXthaPlug)",
+      "url": "https://open.spotify.com/track/4PlgNSQcOWM2wjb11eREvB"
     },
     {
       "album": {
@@ -801,6 +827,24 @@
     },
     {
       "album": {
+        "name": "2 Faced, Pt. 2",
+        "url": "https://open.spotify.com/album/20WBtyZuLSGHtzJ02ZsY4p"
+      },
+      "artists": [
+        {
+          "name": "LUCKI",
+          "url": "https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD"
+        }
+      ],
+      "date_added": "2024-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162466,
+      "name": "Heavy On My Heart",
+      "url": "https://open.spotify.com/track/1IjxlfejE7sf6C70vYGcmw"
+    },
+    {
+      "album": {
         "name": "Hot Sauce",
         "url": "https://open.spotify.com/album/2WuTEjbwU7oIc0rFOFVVAV"
       },
@@ -914,6 +958,24 @@
       "duration_ms": 139466,
       "name": "Let's Go - Remix",
       "url": "https://open.spotify.com/track/55i5Hdv7VkcQtXCn1zyvKg"
+    },
+    {
+      "album": {
+        "name": "MADE BY RICH GOD",
+        "url": "https://open.spotify.com/album/5S9y8ypcsF1gncyr6fQ1mJ"
+      },
+      "artists": [
+        {
+          "name": "Sauce Walka",
+          "url": "https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb"
+        }
+      ],
+      "date_added": "2024-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114572,
+      "name": "MADE BY RICH GOD",
+      "url": "https://open.spotify.com/track/24Qa5EPrnrbvHoiEfbzf02"
     },
     {
       "album": {
@@ -1221,6 +1283,32 @@
     },
     {
       "album": {
+        "name": "rock your hips",
+        "url": "https://open.spotify.com/album/1AX6HDF2vw86lWVq2yObhz"
+      },
+      "artists": [
+        {
+          "name": "310babii",
+          "url": "https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p"
+        },
+        {
+          "name": "OHGEESY",
+          "url": "https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF"
+        },
+        {
+          "name": "BlueBucksClan",
+          "url": "https://open.spotify.com/artist/1l61CX1j6go8arTjPH9wy0"
+        }
+      ],
+      "date_added": "2024-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178285,
+      "name": "rock your hips",
+      "url": "https://open.spotify.com/track/7ciVVd4JFgUb5D38mMCkIA"
+    },
+    {
+      "album": {
         "name": "Ron Artest",
         "url": "https://open.spotify.com/album/0RagVxXFPT0sjyuev19HQJ"
       },
@@ -1320,7 +1408,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 146761,
       "name": "Sexiest Soul",
       "url": "https://open.spotify.com/track/1DeFiZgMZh93zAkszWaGVz"
@@ -1704,7 +1792,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 157583,
       "name": "Understand",
       "url": "https://open.spotify.com/track/3bXhP62kGbcZIhArHtmUqx"

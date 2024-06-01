@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Fresh rock from independent artists every Wednesday. Cover: Wishy",
+  "description": "Fresh rock from independent artists every Wednesday. Cover: Carpool Tunnel",
   "name": "Fresh Finds Rock ",
   "tracks": [
     {
@@ -1140,7 +1140,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 149400,
       "name": "Amnesia",
       "url": "https://open.spotify.com/track/1QLsB1p8qoqLho63QdhLYU"
@@ -3934,7 +3934,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 172893,
       "name": "Can We Just Get High?",
       "url": "https://open.spotify.com/track/2TOgSScrpcnSZeihmZRn93"
@@ -4728,7 +4728,7 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 213293,
       "name": "City Is Taken",
       "url": "https://open.spotify.com/track/70nx9MDLmHCqRCv5BtxHTd"
@@ -4768,6 +4768,24 @@
       "duration_ms": 157542,
       "name": "Clich\u00e9",
       "url": "https://open.spotify.com/track/3m1bdD8K7YvyNP8zACQ6Fw"
+    },
+    {
+      "album": {
+        "name": "Close Call",
+        "url": "https://open.spotify.com/album/2TL6nCxuLh7aW6bVUtKr50"
+      },
+      "artists": [
+        {
+          "name": "Gurriers",
+          "url": "https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5"
+        }
+      ],
+      "date_added": "2024-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163826,
+      "name": "Close Call",
+      "url": "https://open.spotify.com/track/5qwCtK5w9yoc19ZvlWw4zY"
     },
     {
       "album": {
@@ -6533,6 +6551,24 @@
     },
     {
       "album": {
+        "name": "Dimensi\u00f3n 3000",
+        "url": "https://open.spotify.com/album/6RpSAyKtW4MorocKI0aV2z"
+      },
+      "artists": [
+        {
+          "name": "Z\u00f6elle",
+          "url": "https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl"
+        }
+      ],
+      "date_added": "2024-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202061,
+      "name": "Dimensi\u00f3n 3000",
+      "url": "https://open.spotify.com/track/2fAqFthuQMx8GLYZ7STM7x"
+    },
+    {
+      "album": {
         "name": "Dinner For One",
         "url": "https://open.spotify.com/album/5nemInefPKhUqRKMjfzV6R"
       },
@@ -6728,6 +6764,24 @@
       "duration_ms": 217779,
       "name": "Domino",
       "url": "https://open.spotify.com/track/3v70cZTbmDtdada83OlRn4"
+    },
+    {
+      "album": {
+        "name": "Don't",
+        "url": "https://open.spotify.com/album/44wFARJr0tnfTKCZduwFND"
+      },
+      "artists": [
+        {
+          "name": "Honeyglaze",
+          "url": "https://open.spotify.com/artist/0IJZjR1tj2EudGR8jvxZtM"
+        }
+      ],
+      "date_added": "2024-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165510,
+      "name": "Don't",
+      "url": "https://open.spotify.com/track/51492YDzG1jwyFHKpkVbsK"
     },
     {
       "album": {
@@ -8590,6 +8644,24 @@
       "duration_ms": 219680,
       "name": "Football Weather",
       "url": "https://open.spotify.com/track/7hbWP0gScoXI18xxcmtbl0"
+    },
+    {
+      "album": {
+        "name": "For Posterity",
+        "url": "https://open.spotify.com/album/0tjo7QRFAxFVLe78KEMXKu"
+      },
+      "artists": [
+        {
+          "name": "Ogbert the Nerd",
+          "url": "https://open.spotify.com/artist/610dMJUjtyxC9ZrS30iZrX"
+        }
+      ],
+      "date_added": "2024-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107500,
+      "name": "For Posterity",
+      "url": "https://open.spotify.com/track/7owA9avTQXfMlWZozdT7Sj"
     },
     {
       "album": {
@@ -11696,6 +11768,24 @@
       "duration_ms": 198135,
       "name": "I Hope You're Right",
       "url": "https://open.spotify.com/track/6kUnI31iLbSXrWqBsdsiee"
+    },
+    {
+      "album": {
+        "name": "I Just Needed You To Know",
+        "url": "https://open.spotify.com/album/2Xhvdg9rLRGvhlcOznttch"
+      },
+      "artists": [
+        {
+          "name": "Girl Scout",
+          "url": "https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE"
+        }
+      ],
+      "date_added": "2024-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275586,
+      "name": "I Just Needed You To Know",
+      "url": "https://open.spotify.com/track/1LCovl7CSqDuKJRlFQEA5V"
     },
     {
       "album": {
@@ -17300,7 +17390,7 @@
       ],
       "date_added": "2024-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 182993,
       "name": "Parc de Beauvoir",
       "url": "https://open.spotify.com/track/23vteRN3xyF8fZkSLDns2O"
@@ -20186,7 +20276,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 189450,
       "name": "Silencer",
       "url": "https://open.spotify.com/track/6oaojdApsszEW6ZROqkxrO"
@@ -20590,6 +20680,24 @@
       "duration_ms": 186070,
       "name": "Snow on The Bluff",
       "url": "https://open.spotify.com/track/5HmxSV5SnaGwYMTngh1xV6"
+    },
+    {
+      "album": {
+        "name": "Snow White",
+        "url": "https://open.spotify.com/album/4Sw7FWTQwQQnX6MuBy1nSK"
+      },
+      "artists": [
+        {
+          "name": "Fake A Smile",
+          "url": "https://open.spotify.com/artist/3sHwzQ71N1kblQD9D2WxDm"
+        }
+      ],
+      "date_added": "2024-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215483,
+      "name": "Snow White",
+      "url": "https://open.spotify.com/track/2NtdqCfyAe6Jqq4o5cFAo4"
     },
     {
       "album": {
@@ -21296,7 +21404,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 153000,
       "name": "SPLAT!",
       "url": "https://open.spotify.com/track/3QYGJb41WJjj6xs68Pvf1z"
@@ -22034,7 +22142,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 159000,
       "name": "supernAtural",
       "url": "https://open.spotify.com/track/6pqbW62SKuIGJxiYjHTx6l"
@@ -23104,6 +23212,24 @@
       "duration_ms": 255937,
       "name": "the pull",
       "url": "https://open.spotify.com/track/1HW1lMXqKHwZmI2QBQXvvm"
+    },
+    {
+      "album": {
+        "name": "The Risk",
+        "url": "https://open.spotify.com/album/2FMG2oJ7L9JRyJiWZimOW8"
+      },
+      "artists": [
+        {
+          "name": "Carpool Tunnel",
+          "url": "https://open.spotify.com/artist/1Gzl5Z2qCVDIYnlR1q6EjM"
+        }
+      ],
+      "date_added": "2024-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145750,
+      "name": "The Risk",
+      "url": "https://open.spotify.com/track/3DMRAOkzfMHUR4JiR0NhqN"
     },
     {
       "album": {

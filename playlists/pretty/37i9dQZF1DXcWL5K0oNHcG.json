@@ -1,13 +1,29 @@
 {
   "description": "Fresh jazz by independent artists every Wednesday. Cover: Salin. Artwork: Joy Yamusangie.",
-  "num_followers": 217936,
+  "num_followers": 218181,
   "original_name": "Fresh Finds Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zk5CcwAAAABmOGwG/lGg0uA0w9K8JgE+",
+  "snapshot_id": "ZldRDAAAAADPsCFMAQ+HYmtgtgS9oP1A",
   "tracks": [
+    {
+      "added_at": "2024-05-29 16:00:12",
+      "album": {
+        "name": "Nurture",
+        "url": "https://open.spotify.com/album/3aQKq439NUhna6pDJINJKv"
+      },
+      "artists": [
+        {
+          "name": "MAE.SUN",
+          "url": "https://open.spotify.com/artist/7J8tWZMxGDumku9QgEy8XR"
+        }
+      ],
+      "duration_ms": 263812,
+      "name": "Nurture",
+      "url": "https://open.spotify.com/track/28LBPCMASiwjiK1Sp8wfMF"
+    },
     {
       "added_at": "2024-05-08 04:00:00",
       "album": {
@@ -25,6 +41,22 @@
       "url": "https://open.spotify.com/track/1v7D15jgs5DJwVwFLqAxTa"
     },
     {
+      "added_at": "2024-05-29 16:00:12",
+      "album": {
+        "name": "I'm Easy",
+        "url": "https://open.spotify.com/album/490ksNpxZmBENQXXb2obzt"
+      },
+      "artists": [
+        {
+          "name": "Connie Eliza",
+          "url": "https://open.spotify.com/artist/0vcm2TMtQKpgB2xxXAgid2"
+        }
+      ],
+      "duration_ms": 230069,
+      "name": "I'm Easy",
+      "url": "https://open.spotify.com/track/7c7qiEM6ZBrzR1fXlnC7o8"
+    },
+    {
       "added_at": "2024-05-15 04:00:00",
       "album": {
         "name": "Reflections of Purple Sun",
@@ -39,6 +71,38 @@
       "duration_ms": 415897,
       "name": "Boratka",
       "url": "https://open.spotify.com/track/59ehEi9Q9HwZG10uveIQiD"
+    },
+    {
+      "added_at": "2024-05-29 16:00:12",
+      "album": {
+        "name": "Ode Two",
+        "url": "https://open.spotify.com/album/1tlMMViXebh8UtEkYOSJQk"
+      },
+      "artists": [
+        {
+          "name": "Tanhai Collective",
+          "url": "https://open.spotify.com/artist/26b6sds0w1dppBvAeSwv73"
+        }
+      ],
+      "duration_ms": 311686,
+      "name": "Ode Two",
+      "url": "https://open.spotify.com/track/1CoNi5SlHAPZLGHsL57ril"
+    },
+    {
+      "added_at": "2024-05-29 16:00:12",
+      "album": {
+        "name": "Unchained Melodies Vol. 1",
+        "url": "https://open.spotify.com/album/2edsxQdf0FGniP6b51BiXE"
+      },
+      "artists": [
+        {
+          "name": "Romain Axisa",
+          "url": "https://open.spotify.com/artist/0fD0vte7xBaEjDkxPsSQsW"
+        }
+      ],
+      "duration_ms": 176702,
+      "name": "Vienna",
+      "url": "https://open.spotify.com/track/5qjJraZSwr6t5Np2vQbDjf"
     },
     {
       "added_at": "2024-05-15 04:00:00",
@@ -683,30 +747,6 @@
     {
       "added_at": "2024-03-13 04:00:00",
       "album": {
-        "name": "Over at Art's",
-        "url": "https://open.spotify.com/album/3OVjrVQxKEiggzhSIdTv63"
-      },
-      "artists": [
-        {
-          "name": "Tremendous Aron",
-          "url": "https://open.spotify.com/artist/4jsBT3nAKLqkjrxCnPoTi5"
-        },
-        {
-          "name": "alfrer",
-          "url": "https://open.spotify.com/artist/7ejT7524EZRzF3ZaEtBLYS"
-        },
-        {
-          "name": "Arthur Kohlhaas",
-          "url": "https://open.spotify.com/artist/43YsTKqdD7inMqlcJDFD2W"
-        }
-      ],
-      "duration_ms": 139012,
-      "name": "Over at Art's",
-      "url": "https://open.spotify.com/track/1gdRqYvRFwCFor93NpQeZt"
-    },
-    {
-      "added_at": "2024-03-13 04:00:00",
-      "album": {
         "name": "Fluttering",
         "url": "https://open.spotify.com/album/13R2OnIee8RUqh0BumMQfY"
       },
@@ -719,22 +759,6 @@
       "duration_ms": 208450,
       "name": "Fluttering",
       "url": "https://open.spotify.com/track/2K0iWOM2xNgdTymhkCbYJf"
-    },
-    {
-      "added_at": "2024-04-03 04:00:00",
-      "album": {
-        "name": "SABIO",
-        "url": "https://open.spotify.com/album/7McR20l5PMDLgg6GGJBi8W"
-      },
-      "artists": [
-        {
-          "name": "Jorj Sabio",
-          "url": "https://open.spotify.com/artist/39b2ZUCY5oOcDQFFkwbrKs"
-        }
-      ],
-      "duration_ms": 265070,
-      "name": "SABIO",
-      "url": "https://open.spotify.com/track/013LmCJbycdHLFylzgKwhQ"
     },
     {
       "added_at": "2024-04-10 04:00:00",
@@ -807,22 +831,6 @@
       "duration_ms": 179560,
       "name": "Cosmic Traveler",
       "url": "https://open.spotify.com/track/4EqND1UdBuVqDnuzXw5J11"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
-        "name": "Theodor Marmalade",
-        "url": "https://open.spotify.com/album/7Ilc7jpSMIg99Oy9uZuvbF"
-      },
-      "artists": [
-        {
-          "name": "Apifera",
-          "url": "https://open.spotify.com/artist/7zgoELe3akRCheZJ8XnDpr"
-        }
-      ],
-      "duration_ms": 223900,
-      "name": "Theodor Marmalade",
-      "url": "https://open.spotify.com/track/4ySeqHdrig51vL16wHLND6"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -923,22 +931,6 @@
       "duration_ms": 460946,
       "name": "Stay",
       "url": "https://open.spotify.com/track/20UgP0t6d6MPeex3FvgV9f"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
-        "name": "1-0",
-        "url": "https://open.spotify.com/album/48aa23wkmx3JUSwWK2dTjQ"
-      },
-      "artists": [
-        {
-          "name": "SALVALAI",
-          "url": "https://open.spotify.com/artist/5zCSsv346I2xgK1fVGJ7H3"
-        }
-      ],
-      "duration_ms": 281914,
-      "name": "1-0",
-      "url": "https://open.spotify.com/track/6K6RV21WP5Kj0oelvC56kI"
     },
     {
       "added_at": "2024-04-03 04:00:00",

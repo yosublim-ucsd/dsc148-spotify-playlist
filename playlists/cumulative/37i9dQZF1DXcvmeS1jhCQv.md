@@ -4,7 +4,7 @@
 
 > New tunes from Ireland for your discovery\. Cover: Nell Mescal
 
-159 songs - 8 hr 56 min
+162 songs - 9 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Antidote](https://open.spotify.com/track/207bcqHODbUfxAsyhi1fkR) | [Greywind](https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4) | [Antidote](https://open.spotify.com/album/5BtsIlGeClmz7o8B4aq6MK) | 2:45 | 2024-02-02 | 2024-03-29 |
 | [Attention](https://open.spotify.com/track/7a97WHddocTnhagUJEfTFb) | [Fangclub](https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN) | [Attention](https://open.spotify.com/album/7hE5oYhRUricYUex3QE5NH) | 4:11 | 2024-03-01 |  |
 | [Before Sunrise](https://open.spotify.com/track/3ZuljegwK9qaCU6YsOT4r3) | [Nagam](https://open.spotify.com/artist/6RfUxJHuVIllzy1KE8rLiu), [mac gray](https://open.spotify.com/artist/1MQuOJzZbSj6u5cevemdGd) | [Before Sunrise](https://open.spotify.com/album/2Q31TgtwPhJBtfqwugotBC) | 3:00 | 2024-02-02 | 2024-04-26 |
+| [behind those tears](https://open.spotify.com/track/0w7Zmk5SlHJtDIMeWfdgUV) | [Dylan Flynn and the Dead Poets](https://open.spotify.com/artist/38RdXLqHcghUbaMAM1EPka) | [caught up in delusion](https://open.spotify.com/album/2yYssd2xtkEMIqJwdkuaq3) | 3:59 | 2024-05-30 |  |
 | [Better Way To Live](https://open.spotify.com/track/1ifVrAQPH2DZ3FBFu48rFw) | [KNEECAP](https://open.spotify.com/artist/1ZVACPeq7ccGCoUXwtafUU), [Grian Chatten](https://open.spotify.com/artist/6XyAI3jtlsss5mJjAAJXzE) | [Better Way To Live](https://open.spotify.com/album/5gXiWUFAEycihknbHFFRUM) | 3:01 | 2024-02-02 |  |
 | [Big Pharma \(Withdrawal\)](https://open.spotify.com/track/2PrAI62XtqYSaubDYT7vNP) | [Aby Coulibaly](https://open.spotify.com/artist/1ZjJVQsxUHP7MKnZg8yE33) | [Big Pharma \(Withdrawal\)](https://open.spotify.com/album/49oxEaMua1ht601M4JTuos) | 2:53 | 2024-02-02 | 2024-04-19 |
 | [Bite The Bridle](https://open.spotify.com/track/0JXpD5lU9n90gDarg4cmfO) | [Niamh Bury](https://open.spotify.com/artist/44VP4ZxUIYVngSNENOGRme) | [Yellow Roses](https://open.spotify.com/album/1lfS72EEXZ2Pz1OIMXdRi0) | 4:16 | 2024-03-29 |  |
@@ -35,6 +36,7 @@
 | [Chess](https://open.spotify.com/track/3KMoXqNDbTFMXcZUs6MWUp) | [LYRA](https://open.spotify.com/artist/0yZG22ntdDqVCFIulOTc8x) | [Chess](https://open.spotify.com/album/3dALI1Y4N2D5D0oV09aWrO) | 3:11 | 2024-02-02 | 2024-04-26 |
 | [Chris Pratt](https://open.spotify.com/track/6JOGJuVv7MKNbubKUwhU45) | [Róisín O](https://open.spotify.com/artist/7nsv8ov54a8qlNXwhEkgkr) | [Chris Pratt](https://open.spotify.com/album/1Bkd5tNY4W4Oo78U4vDply) | 3:51 | 2024-02-02 | 2024-03-15 |
 | [Compliment Strike](https://open.spotify.com/track/37wsqKLHF0VeJpXH5V9BNV) | [Sarah Crean](https://open.spotify.com/artist/5tbb3BtKz6wc1qQmjmgfe0) | [Compliment Strike](https://open.spotify.com/album/34ME8dPFKFiCtc4nNioJVC) | 3:24 | 2024-05-09 |  |
+| [Daisy](https://open.spotify.com/track/2TxreYevEng0mYbQ3QAfXP) | [Big Sleep](https://open.spotify.com/artist/06llXpGPHg8QROCGNxw80a) | [Daisy](https://open.spotify.com/album/5he4YExXfEiSXxGpTPOjsw) | 3:01 | 2024-05-30 |  |
 | [daisy chains](https://open.spotify.com/track/5coXwSihPzuc42bOUvYRMf) | [SPIDER](https://open.spotify.com/artist/4SKFiKjEPLdlpXSOQZhlsi) | [daisy chains](https://open.spotify.com/album/1NT8wYazcYMt7ejaU3mrhh) | 2:45 | 2024-02-02 |  |
 | [Day By Day](https://open.spotify.com/track/7qnmJKc7wqNrKP8Rkxcdyw) | [Alex Konchar](https://open.spotify.com/artist/0j7yukxKXLsF3DZZhwpyW0) | [Day By Day](https://open.spotify.com/album/74MQXYjrUQbJ7W818qOUw7) | 2:08 | 2024-03-01 |  |
 | [Daylight Savings](https://open.spotify.com/track/1Op1ZYMmDFvxOEY2HGuq1a) | [Reevah](https://open.spotify.com/artist/0vreRJnfkwQlxI2KQarKGQ) | [Daylight Savings](https://open.spotify.com/album/0gEzE0fSM4PbGYfNm28ZOC) | 3:37 | 2024-02-02 | 2024-02-06 |
@@ -44,7 +46,7 @@
 | [Doctor](https://open.spotify.com/track/4y3huzGv2hwDcEinxfAAwm) | [HAWKE THE BAND](https://open.spotify.com/artist/4J60NlrfKz5XOOG2qi2jGY) | [Doctor](https://open.spotify.com/album/7p22ll5NRESGc4I7B6m2ZI) | 3:01 | 2024-05-23 |  |
 | [Don't Feel Myself](https://open.spotify.com/track/2NNFzp2ZAbTrZOi3rV8pdN) | [modernlove.](https://open.spotify.com/artist/2u17Ej1u0JHyRsstmofsrh) | [Don't Feel Myself](https://open.spotify.com/album/4ur1YH9AzohGPLzjFbViS2) | 3:32 | 2024-03-29 |  |
 | [Don't Understand Why](https://open.spotify.com/track/4McagilwKb0abKxmNG6aYZ) | [TOUCAN](https://open.spotify.com/artist/62qJvoIRvMlDGOrnLvylX0) | [Don't Understand Why](https://open.spotify.com/album/55XRl8sZvsT8glN2yEfTef) | 3:16 | 2024-02-16 | 2024-05-17 |
-| [Doomsday Blue](https://open.spotify.com/track/7qiEoVlFjb3KaytT2zgK1g) | [Bambie Thug](https://open.spotify.com/artist/6g3orasGcMPn0gwcE3JMAC) | [Cathexis](https://open.spotify.com/album/70IfQDr5WnlqwK2Cb0tvco) | 3:03 | 2024-02-05 |  |
+| [Doomsday Blue](https://open.spotify.com/track/7qiEoVlFjb3KaytT2zgK1g) | [Bambie Thug](https://open.spotify.com/artist/6g3orasGcMPn0gwcE3JMAC) | [Cathexis](https://open.spotify.com/album/70IfQDr5WnlqwK2Cb0tvco) | 3:03 | 2024-02-05 | 2024-06-01 |
 | [Dopamine](https://open.spotify.com/track/2rwfGkp8CNAJekjGhjyTQJ) | [Lemoncello](https://open.spotify.com/artist/3TzSVg2vePWnfYCTNo3Mx6) | [Lemoncello](https://open.spotify.com/album/0WcN0V416f51MY5pr7P6VK) | 3:08 | 2024-05-02 |  |
 | [Double Cherry](https://open.spotify.com/track/2pWRAZ9e1np1iN6IbfX7tI) | [Annie\-Dog](https://open.spotify.com/artist/0kWbyk1GXEB8RrVVOlKmVU) | [Double Cherry](https://open.spotify.com/album/2q6dNc37YCB2ebo0pGGlhW) | 2:57 | 2024-03-29 | 2024-05-03 |
 | [Drive](https://open.spotify.com/track/4bxEDYpkyuKysuCf7N3l1J) | [Lilla Vargen](https://open.spotify.com/artist/1bYTiIHnxEdBncCHYCfE4j) | [Drive](https://open.spotify.com/album/4WAzFBvJ141jkLdRFexkpn) | 4:38 | 2024-05-09 |  |
@@ -90,7 +92,7 @@
 | [Make Me Smile](https://open.spotify.com/track/6ozqkNSPFNjaAaqDgiJPXV) | [Lucy Gaffney](https://open.spotify.com/artist/1dWfI2kDIBAxs8OxI5GUVQ) | [Make Me Smile](https://open.spotify.com/album/0ZGLCy4MswnlYMzUYAEToR) | 3:18 | 2024-02-02 | 2024-02-16 |
 | [Make Ya Go](https://open.spotify.com/track/5mMwWxN340JYPqnpQ5UVLD) | [Celaviedmai](https://open.spotify.com/artist/4c61VuJuumv26ISGZ4VzcO), [Ben Bix](https://open.spotify.com/artist/3rGwqjv5MH8zmWIaVaENOP), [Qbanaa](https://open.spotify.com/artist/7oDpJIKtPKyH5LY7xLi7EZ), [Plantain Papi](https://open.spotify.com/artist/4n2PDqvYZGbA6jEUl9Oim4) | [ISSA NEW ERA!](https://open.spotify.com/album/2SilrGAaibjxRpebuPoDdO) | 3:08 | 2024-03-15 |  |
 | [meanie](https://open.spotify.com/track/6xivQSZmwJQu6aLT3fSk8r) | [Kayleigh Noble](https://open.spotify.com/artist/5t5cteO6lFQ506pSuFXARH) | [Just a Girl](https://open.spotify.com/album/2PFDKgHpiUWafkfpUdKYz9) | 4:01 | 2024-02-02 | 2024-03-29 |
-| [Moments](https://open.spotify.com/track/3DLlsSUvnQG2WIJSy044AN) | [MOIO](https://open.spotify.com/artist/4D35LiRbeEHboAHa0bYUJb) | [Moments](https://open.spotify.com/album/7JvAa1BUvfV8YS2P3NEhJB) | 4:07 | 2024-02-02 |  |
+| [Moments](https://open.spotify.com/track/3DLlsSUvnQG2WIJSy044AN) | [MOIO](https://open.spotify.com/artist/4D35LiRbeEHboAHa0bYUJb) | [Moments](https://open.spotify.com/album/7JvAa1BUvfV8YS2P3NEhJB) | 4:07 | 2024-02-02 | 2024-06-01 |
 | [Most Days](https://open.spotify.com/track/14HFeNYXN0FobPUp5WpvON) | [Malaki](https://open.spotify.com/artist/6DWp3hFGq7c3nyQ3AT7RDF) | [Most Days](https://open.spotify.com/album/64Y7qo4mTQ9jABbKLcrzEl) | 3:43 | 2024-02-02 | 2024-04-19 |
 | [Mother](https://open.spotify.com/track/7nMCozi8HsfejnRYCHkd3s) | [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [Mother](https://open.spotify.com/album/5z8bo60OgWVwpKlpfDVtxt) | 4:06 | 2024-02-02 | 2024-03-02 |
 | [Music](https://open.spotify.com/track/6HrcOG9ILLgEZZ28FyQLaL) | [Niamh Regan](https://open.spotify.com/artist/5vQdYaBacVe00yHMbpnRVa) | [Music](https://open.spotify.com/album/15YyAiSJSwhmGJHFjYGLdU) | 3:13 | 2024-05-16 |  |
@@ -99,7 +101,7 @@
 | [Naked and Swimming](https://open.spotify.com/track/7C1dpmbEhX8cYizMeq9stl) | [Sorcha Richardson](https://open.spotify.com/artist/04Zh21lNHZb2MCCcRcN2pc), [Morgana](https://open.spotify.com/artist/2qYwadDTn22zMJ9Q26ke0d) | [Naked and Swimming](https://open.spotify.com/album/7dieZIMr6DED0H3xzfBxJ2) | 2:59 | 2024-05-23 |  |
 | [Need to Know](https://open.spotify.com/track/5HGX1TpatpMpNH7X8Dnhjc) | [Tidah](https://open.spotify.com/artist/7Hc6MSUUX0xmLt3bn3hFDT) | [Need to Know](https://open.spotify.com/album/7arildWPenXFAMVd49yYJt) | 2:31 | 2024-04-18 |  |
 | [Never Ever Ever \(feat\. shiv\)](https://open.spotify.com/track/2dbnNetIFWLA7q7Fb9QcVk) | [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE), [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [Never Ever Ever \(feat\. shiv\)](https://open.spotify.com/album/31lcP0CvJaiFST2fvuyuOH) | 3:09 | 2024-02-02 |  |
-| [Nightmares](https://open.spotify.com/track/5sj7q2esW3Ri0SZDdk9zkW) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Nightmares](https://open.spotify.com/album/0RbyXbAchLRqDOa7a4cV8N) | 3:44 | 2024-02-02 |  |
+| [Nightmares](https://open.spotify.com/track/5sj7q2esW3Ri0SZDdk9zkW) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Nightmares](https://open.spotify.com/album/0RbyXbAchLRqDOa7a4cV8N) | 3:44 | 2024-02-02 | 2024-06-01 |
 | [Nobu](https://open.spotify.com/track/0t8lulg4WM4813ib0klR9S) | [Soulé](https://open.spotify.com/artist/1XRCocF9w2bZKho10CbDOP) | [Nobu](https://open.spotify.com/album/3tF98Bm6QCkrYH4nhxz7nu) | 2:49 | 2024-05-16 |  |
 | [NOTHING WILL EVER BE THE SAME](https://open.spotify.com/track/5e5mWtx00orL2FTbRv4kr9) | [CRIM](https://open.spotify.com/artist/095h4p1W4McMH96nJ5KWIu) | [NOTHING WILL EVER BE THE SAME](https://open.spotify.com/album/721N179Yxv1G8kqefWUc0A) | 2:50 | 2024-02-02 | 2024-04-12 |
 | [Of Land and Sea](https://open.spotify.com/track/2ms9xDLkNjDGVnDzqRYSiw) | [Amble](https://open.spotify.com/artist/5ZC7GPz5h9zkEfjZBUDNzI) | [Of Land and Sea](https://open.spotify.com/album/2aYqNP3fAvb5oGJTIa5voD) | 3:35 | 2024-02-16 |  |
@@ -155,6 +157,7 @@
 | [violence'66](https://open.spotify.com/track/4hn32lVKaO7sL631XTQbv9) | [Annie\-Dog](https://open.spotify.com/artist/0kWbyk1GXEB8RrVVOlKmVU) | [violence'66](https://open.spotify.com/album/5Wr1AmrdioU5kwjdBY64ld) | 3:01 | 2024-05-02 |  |
 | [Want You Back](https://open.spotify.com/track/1pcJTIl87SVVRPlO30dBDS) | [Cosha](https://open.spotify.com/artist/5P8FHUS4EuE2FXskLnqkAg) | [Want You Back](https://open.spotify.com/album/53v4RgVbisJc0UlLgXq2uV) | 3:34 | 2024-02-02 | 2024-04-12 |
 | [Watch Me](https://open.spotify.com/track/3Zu4WIeXp4NbQZbcqv1MOr) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Watch Me](https://open.spotify.com/album/7qfq6ubyO9WY1vLFAMAC85) | 3:40 | 2024-02-02 | 2024-04-12 |
+| [Waves](https://open.spotify.com/track/6l8jDnOuzV0se6Xqg04pk3) | [Niamh Regan](https://open.spotify.com/artist/5vQdYaBacVe00yHMbpnRVa) | [Come As You Are](https://open.spotify.com/album/3abhzkoogxncYsKSBwxhqT) | 4:25 | 2024-05-30 |  |
 | [WE GOOD ?](https://open.spotify.com/track/7vqIJVpShC23VVNy1s4lJ4) | [Tnillz](https://open.spotify.com/artist/7yTJnhcEGPii2kwJKQfr9B) | [WE GOOD ?](https://open.spotify.com/album/5gUhM35mywuZIh4Uq79c4P) | 3:00 | 2024-05-02 |  |
 | [What Can I Do](https://open.spotify.com/track/60fPbVgMVPyeupXThhwYsr) | [Seán Parnell](https://open.spotify.com/artist/4T2113mnfHPC18oWfR1n5u) | [What Can I Do](https://open.spotify.com/album/1gwzS5aSIiElQqOrjyY671) | 3:50 | 2024-02-02 | 2024-05-03 |
 | [WHAT IF?](https://open.spotify.com/track/5M6eDxEy9OdZNAGvmqmyXv) | [Kojaque](https://open.spotify.com/artist/3ZHJIsD3uMwwjXlSpDzPtY), [Charlotte Dos Santos](https://open.spotify.com/artist/0INatsTiEOX0EJimNTQjSM) | [PHANTOM OF THE AFTERS](https://open.spotify.com/album/5qTMbYlI0vyyAHtOhajcOy) | 3:27 | 2024-02-02 |  |

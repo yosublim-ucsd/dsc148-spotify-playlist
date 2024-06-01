@@ -1,6 +1,6 @@
 {
   "description": "A palavra do Senhor pra voc\u00ea dan\u00e7ar.",
-  "num_followers": 121244,
+  "num_followers": 121295,
   "original_name": "Balada Gospel",
   "owner": {
     "name": "Spotify",
@@ -879,6 +879,26 @@
     {
       "added_at": "2024-04-26 03:46:05",
       "album": {
+        "name": "Eu Voltei",
+        "url": "https://open.spotify.com/album/0ODwJ0peFEa3k3axaltglD"
+      },
+      "artists": [
+        {
+          "name": "Leandro Alencar",
+          "url": "https://open.spotify.com/artist/5bZTDTpuiv6SkLkbhDOh0x"
+        },
+        {
+          "name": "Eliezer Rezende",
+          "url": "https://open.spotify.com/artist/46R0MX2uXNqCdIPeUo3xFh"
+        }
+      ],
+      "duration_ms": 191250,
+      "name": "Eu Voltei",
+      "url": "https://open.spotify.com/track/6Pd2FCXWEomUTcUraqadp2"
+    },
+    {
+      "added_at": "2024-04-26 03:46:05",
+      "album": {
         "name": "N\u00e3o Sou Merecedor",
         "url": "https://open.spotify.com/album/0sG4KwG7HjTesGVUru3e89"
       },
@@ -899,26 +919,6 @@
       "duration_ms": 147840,
       "name": "N\u00e3o Sou Merecedor",
       "url": "https://open.spotify.com/track/5GLTe6ncigoJa27GvOzV4F"
-    },
-    {
-      "added_at": "2024-04-26 03:46:05",
-      "album": {
-        "name": "Eu Voltei",
-        "url": "https://open.spotify.com/album/0ODwJ0peFEa3k3axaltglD"
-      },
-      "artists": [
-        {
-          "name": "Leandro Alencar",
-          "url": "https://open.spotify.com/artist/5bZTDTpuiv6SkLkbhDOh0x"
-        },
-        {
-          "name": "Eliezer Rezende",
-          "url": "https://open.spotify.com/artist/46R0MX2uXNqCdIPeUo3xFh"
-        }
-      ],
-      "duration_ms": 191250,
-      "name": "Eu Voltei",
-      "url": "https://open.spotify.com/track/6Pd2FCXWEomUTcUraqadp2"
     },
     {
       "added_at": "2024-04-26 03:46:05",
@@ -979,26 +979,6 @@
     {
       "added_at": "2024-04-26 03:46:05",
       "album": {
-        "name": "Impar\u00e1vel",
-        "url": "https://open.spotify.com/album/7sYy4zBX7EUhGNbn9AfxF4"
-      },
-      "artists": [
-        {
-          "name": "Michaell D",
-          "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
-        },
-        {
-          "name": "Lufra",
-          "url": "https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH"
-        }
-      ],
-      "duration_ms": 204761,
-      "name": "Impar\u00e1vel",
-      "url": "https://open.spotify.com/track/3NxAIuH9Wz0HBEp7uJMVuN"
-    },
-    {
-      "added_at": "2024-04-26 03:46:05",
-      "album": {
         "name": "Respirar e Confiar",
         "url": "https://open.spotify.com/album/3dmStxhcGEBKhPzJ6UBXxP"
       },
@@ -1015,6 +995,26 @@
       "duration_ms": 216470,
       "name": "Respirar e Confiar",
       "url": "https://open.spotify.com/track/0Z5DQErCulcYwwstMWIMjl"
+    },
+    {
+      "added_at": "2024-04-26 03:46:05",
+      "album": {
+        "name": "Impar\u00e1vel",
+        "url": "https://open.spotify.com/album/7sYy4zBX7EUhGNbn9AfxF4"
+      },
+      "artists": [
+        {
+          "name": "Michaell D",
+          "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
+        },
+        {
+          "name": "Lufra",
+          "url": "https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH"
+        }
+      ],
+      "duration_ms": 204761,
+      "name": "Impar\u00e1vel",
+      "url": "https://open.spotify.com/track/3NxAIuH9Wz0HBEp7uJMVuN"
     },
     {
       "added_at": "2024-04-26 03:46:05",
@@ -1087,6 +1087,30 @@
     {
       "added_at": "2024-04-26 03:46:05",
       "album": {
+        "name": "Queima de Novo (Remix)",
+        "url": "https://open.spotify.com/album/2vx7A0hcCoG3rKSoz9BVP8"
+      },
+      "artists": [
+        {
+          "name": "DJ Mois\u00e9s",
+          "url": "https://open.spotify.com/artist/34GTvNHuHtAOPbp2P6oy3X"
+        },
+        {
+          "name": "Guilherme Miranda",
+          "url": "https://open.spotify.com/artist/0pLrMd2rRcow7yJWg45F2e"
+        },
+        {
+          "name": "Vitinho PAE",
+          "url": "https://open.spotify.com/artist/4bUNgC0RTc1p3wdJe76UB9"
+        }
+      ],
+      "duration_ms": 225712,
+      "name": "Queima de Novo - Remix",
+      "url": "https://open.spotify.com/track/4uZmD5i0iGXQjDJ6t1fGN5"
+    },
+    {
+      "added_at": "2024-04-26 03:46:05",
+      "album": {
         "name": "Vem Com Josu\u00e9 Lutar em Jeric\u00f3",
         "url": "https://open.spotify.com/album/5FcbFy9wrhcBcSfWdg3xWN"
       },
@@ -1131,26 +1155,22 @@
     {
       "added_at": "2024-04-26 03:46:05",
       "album": {
-        "name": "Queima de Novo (Remix)",
-        "url": "https://open.spotify.com/album/2vx7A0hcCoG3rKSoz9BVP8"
+        "name": "Marcas (Remix)",
+        "url": "https://open.spotify.com/album/44sgO3D4YBpiRHwu2305fo"
       },
       "artists": [
         {
-          "name": "DJ Mois\u00e9s",
-          "url": "https://open.spotify.com/artist/34GTvNHuHtAOPbp2P6oy3X"
+          "name": "Dj Lucas Ninja",
+          "url": "https://open.spotify.com/artist/6RRBLrk8E6TfoOvqD1OODq"
         },
         {
-          "name": "Guilherme Miranda",
-          "url": "https://open.spotify.com/artist/0pLrMd2rRcow7yJWg45F2e"
-        },
-        {
-          "name": "Vitinho PAE",
-          "url": "https://open.spotify.com/artist/4bUNgC0RTc1p3wdJe76UB9"
+          "name": "Rosa de Saron",
+          "url": "https://open.spotify.com/artist/7EBn9lIBKysikqbU2XDnoX"
         }
       ],
-      "duration_ms": 225712,
-      "name": "Queima de Novo - Remix",
-      "url": "https://open.spotify.com/track/4uZmD5i0iGXQjDJ6t1fGN5"
+      "duration_ms": 195615,
+      "name": "Marcas - Remix",
+      "url": "https://open.spotify.com/track/5WEpKESNpBwo0170C0aj0k"
     },
     {
       "added_at": "2024-04-26 03:46:05",
@@ -1179,26 +1199,6 @@
       "duration_ms": 175312,
       "name": "N\u00e3o Sou Merecedor - Remix",
       "url": "https://open.spotify.com/track/1LAUZbs9Tjou8sb5nXPz1h"
-    },
-    {
-      "added_at": "2024-04-26 03:46:05",
-      "album": {
-        "name": "Marcas (Remix)",
-        "url": "https://open.spotify.com/album/44sgO3D4YBpiRHwu2305fo"
-      },
-      "artists": [
-        {
-          "name": "Dj Lucas Ninja",
-          "url": "https://open.spotify.com/artist/6RRBLrk8E6TfoOvqD1OODq"
-        },
-        {
-          "name": "Rosa de Saron",
-          "url": "https://open.spotify.com/artist/7EBn9lIBKysikqbU2XDnoX"
-        }
-      ],
-      "duration_ms": 195615,
-      "name": "Marcas - Remix",
-      "url": "https://open.spotify.com/track/5WEpKESNpBwo0170C0aj0k"
     },
     {
       "added_at": "2024-04-26 03:46:05",
@@ -1263,34 +1263,6 @@
     {
       "added_at": "2024-04-26 03:46:05",
       "album": {
-        "name": "Gra\u00e7a",
-        "url": "https://open.spotify.com/album/55jG2m5ui9g5Szx8idFaTr"
-      },
-      "artists": [
-        {
-          "name": "Dois Irm\u00e3os",
-          "url": "https://open.spotify.com/artist/1oGmoG5sbNO6r8VW7RyZll"
-        },
-        {
-          "name": "Lufra",
-          "url": "https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH"
-        },
-        {
-          "name": "Michaell D",
-          "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
-        },
-        {
-          "name": "Jeovana Menezes",
-          "url": "https://open.spotify.com/artist/5NaPoQ3RKd5KoEAVeO5zqA"
-        }
-      ],
-      "duration_ms": 156093,
-      "name": "Gra\u00e7a",
-      "url": "https://open.spotify.com/track/0ethtHl4ngZ6NGgaZm4J8e"
-    },
-    {
-      "added_at": "2024-04-26 03:46:05",
-      "album": {
         "name": "Para o Alto (Remix)",
         "url": "https://open.spotify.com/album/3KPQGc4SBlvFEunu9rilc4"
       },
@@ -1327,6 +1299,34 @@
       "duration_ms": 205714,
       "name": "Dono da Minha Vida - Remix",
       "url": "https://open.spotify.com/track/58HYGCF00P5MGm7ZtYQlcP"
+    },
+    {
+      "added_at": "2024-04-26 03:46:05",
+      "album": {
+        "name": "Gra\u00e7a",
+        "url": "https://open.spotify.com/album/55jG2m5ui9g5Szx8idFaTr"
+      },
+      "artists": [
+        {
+          "name": "Dois Irm\u00e3os",
+          "url": "https://open.spotify.com/artist/1oGmoG5sbNO6r8VW7RyZll"
+        },
+        {
+          "name": "Lufra",
+          "url": "https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH"
+        },
+        {
+          "name": "Michaell D",
+          "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
+        },
+        {
+          "name": "Jeovana Menezes",
+          "url": "https://open.spotify.com/artist/5NaPoQ3RKd5KoEAVeO5zqA"
+        }
+      ],
+      "duration_ms": 156093,
+      "name": "Gra\u00e7a",
+      "url": "https://open.spotify.com/track/0ethtHl4ngZ6NGgaZm4J8e"
     },
     {
       "added_at": "2024-04-26 03:46:05",
@@ -1395,6 +1395,26 @@
     {
       "added_at": "2024-04-26 03:46:05",
       "album": {
+        "name": "N\u00e3o Me Deixar\u00e1s",
+        "url": "https://open.spotify.com/album/3yBJCoppOksf5E0u6x7l0O"
+      },
+      "artists": [
+        {
+          "name": "DJ Marcos Andre",
+          "url": "https://open.spotify.com/artist/65e0Jrglrzx2wsS0HQ6b61"
+        },
+        {
+          "name": "CAIO CESAR",
+          "url": "https://open.spotify.com/artist/6fkqLCN0TSVWhSJgZaA0Ax"
+        }
+      ],
+      "duration_ms": 184320,
+      "name": "N\u00e3o Me Deixar\u00e1s",
+      "url": "https://open.spotify.com/track/4BnHVJFmhBPsqvikmIJk4T"
+    },
+    {
+      "added_at": "2024-04-26 03:46:05",
+      "album": {
         "name": "Impar\u00e1vel",
         "url": "https://open.spotify.com/album/0XX6szHMJ1b5sfzIC8kCGj"
       },
@@ -1415,26 +1435,6 @@
       "duration_ms": 163125,
       "name": "Impar\u00e1vel",
       "url": "https://open.spotify.com/track/13uOw9VAS34D34jx64rGEk"
-    },
-    {
-      "added_at": "2024-04-26 03:46:05",
-      "album": {
-        "name": "N\u00e3o Me Deixar\u00e1s",
-        "url": "https://open.spotify.com/album/3yBJCoppOksf5E0u6x7l0O"
-      },
-      "artists": [
-        {
-          "name": "DJ Marcos Andre",
-          "url": "https://open.spotify.com/artist/65e0Jrglrzx2wsS0HQ6b61"
-        },
-        {
-          "name": "CAIO CESAR",
-          "url": "https://open.spotify.com/artist/6fkqLCN0TSVWhSJgZaA0Ax"
-        }
-      ],
-      "duration_ms": 184320,
-      "name": "N\u00e3o Me Deixar\u00e1s",
-      "url": "https://open.spotify.com/track/4BnHVJFmhBPsqvikmIJk4T"
     },
     {
       "added_at": "2024-04-26 03:46:05",

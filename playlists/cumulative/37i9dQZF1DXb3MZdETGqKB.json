@@ -2008,7 +2008,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 258340,
       "name": "Hole in my Pocket",
       "url": "https://open.spotify.com/track/4oh43xqoxC717eB5JNZwt1"
@@ -2208,6 +2208,24 @@
       "duration_ms": 232886,
       "name": "If I Die",
       "url": "https://open.spotify.com/track/2qvaNzPEW25IuKwrM4hNOU"
+    },
+    {
+      "album": {
+        "name": "If This Is Love",
+        "url": "https://open.spotify.com/album/5pisgCaspnGCLM6i3ERVLh"
+      },
+      "artists": [
+        {
+          "name": "Elles Bailey",
+          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181053,
+      "name": "If This Is Love",
+      "url": "https://open.spotify.com/track/3bqGwopBDXVjRFfQpByCxH"
     },
     {
       "album": {

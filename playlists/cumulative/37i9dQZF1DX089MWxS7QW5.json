@@ -5423,6 +5423,24 @@
     },
     {
       "album": {
+        "name": "Swear",
+        "url": "https://open.spotify.com/album/3vNYAR6SdAeKcQGgOPTyY2"
+      },
+      "artists": [
+        {
+          "name": "Huh",
+          "url": "https://open.spotify.com/artist/30AghIfoMJrMo1YqoUkEMM"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177226,
+      "name": "Swear",
+      "url": "https://open.spotify.com/track/3Zr7XljDMsjanXYIIjZMXp"
+    },
+    {
+      "album": {
         "name": "Remember",
         "url": "https://open.spotify.com/album/4yHWe2xBs5mk0wNHafCUVH"
       },

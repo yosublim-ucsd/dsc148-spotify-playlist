@@ -4,7 +4,7 @@
 
 > indiezices e alternatividades\. Foto: Bebé
 
-608 songs - 1 day 10 hr 35 min
+609 songs - 1 day 10 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,6 +170,7 @@
 | [Dizer Adeus](https://open.spotify.com/track/1F5IjXWC0xw2MTQmTL6Gfn) | [Bruno Berle](https://open.spotify.com/artist/6wUEejDd6aQJtchKP5c7Q0), [batata boy](https://open.spotify.com/artist/5NslOaAzwiiyBpEASSUzkA) | [Dizer Adeus](https://open.spotify.com/album/3b1ncfbfHS4N4D7LSpiC14) | 4:04 | 2024-03-01 |  |
 | [do avesso](https://open.spotify.com/track/1mPXDwkAClgl2XeI12ubB5) | [saudade](https://open.spotify.com/artist/5vjVK0Y2CBuicKqg4BgryA) | [bem vindo, amanhecer](https://open.spotify.com/album/680EwE0QR2RqxQxjyVqXWQ) | 2:49 | 2022-07-01 | 2022-10-15 |
 | [Do Brasil](https://open.spotify.com/track/4rrcZoOtIHIi5fpTz8wYvL) | [Laura Catarina](https://open.spotify.com/artist/4pw8NCGjdpJ8XiPq7PFb69), [Mariene De Castro](https://open.spotify.com/artist/2MaqyTrc7HzuYvLnvfhxIN) | [Do Brasil](https://open.spotify.com/album/6Bw0lGimgQUi4PukaKxSfg) | 4:15 | 2022-10-21 | 2022-12-10 |
+| [Dolores Prestes a Levitar](https://open.spotify.com/track/7n24CsLROsiawSHA3pnhHf) | [TRAGO](https://open.spotify.com/artist/6dQH0tJhjUbIjsGqar870C), [Tulipa Ruiz](https://open.spotify.com/artist/6OokCpvxnYv43WcFqejMLb), [Gustavo Ruiz](https://open.spotify.com/artist/7DWwtWoYH8jhf28tq3118m), [Alexandre Orion](https://open.spotify.com/artist/6P3Qu1SwfnnC9daKX95b4P), [Rica Amabis](https://open.spotify.com/artist/7b77J8nz19BLgFq6F2M4QM) | [Dolores Prestes a Levitar](https://open.spotify.com/album/1smRYpdy6Ya0wz1tLCb4rU) | 3:22 | 2024-05-31 |  |
 | [Domingo](https://open.spotify.com/track/2lRsKNaA8pmA6zPJvqZnaf) | [Gabi Shima](https://open.spotify.com/artist/63wyJbKDl6uKOvoHfcgwHj), [Plutão Já Foi Planeta](https://open.spotify.com/artist/2Q9b1jENJLIp5qlPclJpbV) | [Domingo](https://open.spotify.com/album/3qyC2kRaHZZ7xPsMp7ChnW) | 3:12 | 2022-08-05 | 2023-07-15 |
 | [Domingo de Sol](https://open.spotify.com/track/6gukKbG49ETpkHqwG3n4OD) | [Holger](https://open.spotify.com/artist/27euzsPUnsiX6SutdBXti0) | [Domingo de Sol](https://open.spotify.com/album/2WUiv785U0NmWRrdOn2ijY) | 3:19 | 2023-05-19 | 2023-09-23 |
 | [Dona da Minha Cabeça](https://open.spotify.com/track/0a5bmaUCdiDzYMlebzehDV) | [Maglore](https://open.spotify.com/artist/24me6m3bV7l2rnUwaXV0Tj), [Luê](https://open.spotify.com/artist/38i2aXHzKEjmiKRH20Wlgj) | [Dona da Minha Cabeça](https://open.spotify.com/album/1yFXVOVzl7frsvybze8Zil) | 3:55 | 2023-11-17 |  |

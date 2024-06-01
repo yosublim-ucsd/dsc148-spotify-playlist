@@ -2,9 +2,9 @@
 
 ### [Flow Venezuela](https://open.spotify.com/playlist/37i9dQZF1DWTtgIvO0zxTI)
 
-> Aquí está el sonido urbano de Venezuela\. Cover: Danny Ocean
+> Aquí está el sonido urbano de Venezuela\. Cover: Mau y Ricky, Arcángel
 
-161 songs - 8 hr 39 min
+162 songs - 8 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Besayuno](https://open.spotify.com/track/1dBhKaM4ybPl3WcCJGVhA5) | [Comida Para Llevar](https://open.spotify.com/artist/6ybUCb9uQ4fd6gtIptuaYO), [Veztalone](https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h), [Tayko](https://open.spotify.com/artist/3TqicTPfXQLiPPZWKtHk0m) | [ALL\-YOU\-CAN\-EAT VOL\. 2](https://open.spotify.com/album/3gKRdhd8p3nBPqxnmOBQ9T) | 2:24 | 2023-04-21 | 2023-07-15 |
 | [Billetes de 100](https://open.spotify.com/track/3uxOuhjpRNrduuLfelV1Cr) | [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y) | [Billetes de 100](https://open.spotify.com/album/6p5t1YD8b1sD9CK6y9HqK7) | 3:33 | 2023-07-21 |  |
 | [Brujería](https://open.spotify.com/track/335X50bC4WpFbQmMGBxi6a) | [Jambene](https://open.spotify.com/artist/4u1dsEB1FKbGcdG0EAvxP8) | [Brujería](https://open.spotify.com/album/5oaQ0wLZfmH8V7swwzZwHl) | 2:48 | 2022-03-11 |  |
-| [BUBBLE](https://open.spotify.com/track/5aLl7KbfB7l4gi4Z0ZAo8S) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw), [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975) | [BUBBLE](https://open.spotify.com/album/7025lUSjzFSCFJYVFfHxyh) | 3:13 | 2022-03-11 |  |
+| [BUBBLE](https://open.spotify.com/track/5aLl7KbfB7l4gi4Z0ZAo8S) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw), [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975) | [BUBBLE](https://open.spotify.com/album/7025lUSjzFSCFJYVFfHxyh) | 3:13 | 2022-03-11 | 2024-06-01 |
 | [BUBBLE](https://open.spotify.com/track/73wiLfpoReUuSNKWBytef4) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw), [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975) | [BUBBLE](https://open.spotify.com/album/6wFqYQCu3gGt909YCHXmqu) | 3:13 | 2023-12-08 | 2024-04-19 |
 | [Buena Gente](https://open.spotify.com/track/4NY9HfnB5ghgth31M0FwcY) | [Noreh](https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg), [Matt Hunter](https://open.spotify.com/artist/20pVLDSueWpSOPCWnCWzIU), [Kobi Cantillo](https://open.spotify.com/artist/3eAw8vSPkVqu0VfSZxv79h) | [Asocial](https://open.spotify.com/album/79S9WO9sAIk7LZ0v84xsbT) | 3:45 | 2022-03-11 | 2023-07-22 |
 | [Báilame \- Remix](https://open.spotify.com/track/4l3xGFwoTinvYxsePytOOf) | [Nacho](https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Mambo Kingz](https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK), [DJ Luian](https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD) | [La Criatura](https://open.spotify.com/album/3C2Y8YZGNyGqXZLPHPUMj3) | 3:37 | 2022-03-11 |  |
@@ -72,6 +72,7 @@
 | [Freud](https://open.spotify.com/track/7xFvOja9qVdmXU84rH9sX3) | [Tayko](https://open.spotify.com/artist/3TqicTPfXQLiPPZWKtHk0m) | [Ecolocalización](https://open.spotify.com/album/0VoXLs9SrZgi9AFdkNbW8P) | 1:56 | 2023-09-08 | 2023-10-28 |
 | [Fuego](https://open.spotify.com/track/18hAN4TYNwXERnzAzZu5Tt) | [õndas](https://open.spotify.com/artist/2C5bspfGva39DUPg5ZYJ4p) | [Fuego](https://open.spotify.com/album/1DtyUnwykOKQ6n0UE1Gj1B) | 3:34 | 2022-03-11 | 2022-04-09 |
 | [Halls de Menta](https://open.spotify.com/track/6irAgzFb8mbG8UlKITIMRA) | [ADSO](https://open.spotify.com/artist/29b16XDtyMXDrfo2hZ69wf), [Papi Sousa](https://open.spotify.com/artist/0zcP8lCmLxqRRIZJPSq8i7), [Lui5](https://open.spotify.com/artist/0gfBmg53uxgAVNEDB23X5n) | [Halls de Menta](https://open.spotify.com/album/0dUimFfYkFEWcgzsqc3Oaf) | 3:50 | 2023-04-21 |  |
+| [Hasta Olvidarte](https://open.spotify.com/track/4Si5fSGdnlntioOKmpDnu8) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Arcángel](https://open.spotify.com/artist/4gUE1bhccIGVxxwXIyuWYD) | [Hotel Caracas](https://open.spotify.com/album/5ZH7IdEga8gne83NYz8nsS) | 3:08 | 2024-05-31 |  |
 | [Hasta Que Salga el Sol](https://open.spotify.com/track/1QqZIOb0TJN5e0xvU1GmMp) | [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y) | [Hay Vida en Venus](https://open.spotify.com/album/0sWnir8GiTLpROsfBuMHRF) | 3:29 | 2022-07-08 | 2022-08-06 |
 | [Hasta Que Salga el Sol](https://open.spotify.com/track/2u02P0y6omgiLmEVCd7WdV) | [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y) | [Hasta Que Salga el Sol](https://open.spotify.com/album/1z3dJze0v30WJxORECHCE8) | 3:29 | 2022-03-11 | 2022-07-29 |
 | [Headshot](https://open.spotify.com/track/5PiobPEH4MzphZ1exSPW10) | [Tayko](https://open.spotify.com/artist/3TqicTPfXQLiPPZWKtHk0m) | [Headshot](https://open.spotify.com/album/2Pkx40wbmgdriBo3t199TV) | 2:24 | 2023-08-11 | 2023-10-28 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeKCadgRdKQ.md) - [plain]
 
 > Keep calm and focus with ambient and post\-rock music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,438,731 likes - 145 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,441,129 likes - 145 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -154,4 +154,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeKCadgRdKQ.md) - [plain]
 | 144 | [Break Through](https://open.spotify.com/track/02Nyn3a2nHssi9rNg3jkdL) | [Sounds of Ellinia](https://open.spotify.com/artist/0o4rbXNv8YoDHK2nSnlJxr) | [Let Me Play For You](https://open.spotify.com/album/3iaRPX0CtnZXks49RHIJaj) | 2:35 |
 | 145 | [Wheel of Zodiac](https://open.spotify.com/track/5Uj3rUYghH7vcKl5IiitWC) | [Spaced Out Dreams](https://open.spotify.com/artist/7iGqNpmYWmkzGG6gwIVAha) | [The Gathering](https://open.spotify.com/album/3QuRI71gWqj1HxTmQdBMhF) | 2:15 |
 
-Snapshot ID: `ZkO3mwAAAACmat20A/OO5J0NhHqWLvdU`
+Snapshot ID: `ZljDpgAAAAC2Wykjs7fzZ4oihz4HJvac`

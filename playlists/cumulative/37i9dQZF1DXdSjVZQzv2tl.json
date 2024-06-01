@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "O melhor do sertanejo em uma s\u00f3 playlist! Foto: Felipe & Rodrigo",
+  "description": "O melhor do sertanejo em uma s\u00f3 playlist! Foto: Simone Mendes ",
   "name": "Esquenta Sertanejo",
   "tracks": [
     {
@@ -1360,7 +1360,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 174727,
       "name": "ENTRA NA DEFENDER",
       "url": "https://open.spotify.com/track/6P1mkNAmgihFwFRBhpaev3"
@@ -3058,7 +3058,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 173290,
       "name": "N\u00e3o Sei Se T\u00f4 Solteiro - Ao Vivo",
       "url": "https://open.spotify.com/track/7AaXqLqmrZtRmOr5tIjn8D"
@@ -3982,6 +3982,24 @@
       "duration_ms": 167551,
       "name": "Torce o Olho - Ao Vivo",
       "url": "https://open.spotify.com/track/6PXyRQ9Q0eNlLGsI6GxiYX"
+    },
+    {
+      "album": {
+        "name": "Nunca Deixe De Sonhar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2JJPrtXxSCtd2LBdHb5lrK"
+      },
+      "artists": [
+        {
+          "name": "\u00cdcaro e Gilmar",
+          "url": "https://open.spotify.com/artist/6Wlvsn3IPHiZwAv02lB5eC"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151328,
+      "name": "Trauma - Ao Vivo",
+      "url": "https://open.spotify.com/track/0aGBJDgysbTnnE27oYkx0N"
     },
     {
       "album": {

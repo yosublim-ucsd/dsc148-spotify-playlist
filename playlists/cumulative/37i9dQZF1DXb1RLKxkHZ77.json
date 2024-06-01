@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Lagu-lagu yang terbaik di Malaysia. Cover: Fahimi",
+  "description": "Lagu-lagu yang terbaik di Malaysia. Cover: Ernie Zakri, Ade Govinda",
   "name": "Carta Malaysia 50",
   "tracks": [
     {
@@ -1267,6 +1267,24 @@
     },
     {
       "album": {
+        "name": "Boleh Juga",
+        "url": "https://open.spotify.com/album/61yVevFbBURg0USzarrdQ4"
+      },
+      "artists": [
+        {
+          "name": "Salma Salsabil",
+          "url": "https://open.spotify.com/artist/1y46m0kIaKwnodL0ElvQIs"
+        }
+      ],
+      "date_added": "2024-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227093,
+      "name": "Boleh Juga",
+      "url": "https://open.spotify.com/track/2RadWC8dJhTEkvSBTndJZ5"
+    },
+    {
+      "album": {
         "name": "Buai",
         "url": "https://open.spotify.com/album/66cDWg4Puu5MS6vTijmTpF"
       },
@@ -1580,6 +1598,28 @@
       "duration_ms": 156402,
       "name": "CHECK",
       "url": "https://open.spotify.com/track/2e7kJy1vLWXqKQmOUnALLU"
+    },
+    {
+      "album": {
+        "name": "Chentaku (feat. SonaOne)",
+        "url": "https://open.spotify.com/album/0isfC79ZoHRIO8zMCvLOiz"
+      },
+      "artists": [
+        {
+          "name": "Zizan Razak",
+          "url": "https://open.spotify.com/artist/7GkUskIBOKpJRyzpE7WQBD"
+        },
+        {
+          "name": "SonaOne",
+          "url": "https://open.spotify.com/artist/7qM9nMv6HFHFUpiN034R3z"
+        }
+      ],
+      "date_added": "2024-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235268,
+      "name": "Chentaku (feat. SonaOne)",
+      "url": "https://open.spotify.com/track/0xWcxp3BFrKSsAgpGtaseK"
     },
     {
       "album": {
@@ -2848,7 +2888,7 @@
       ],
       "date_added": "2024-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 236470,
       "name": "Hening Rindu",
       "url": "https://open.spotify.com/track/52tUsmK7v5y56558J0kPml"
@@ -3507,6 +3547,42 @@
     },
     {
       "album": {
+        "name": "Jika Nanti",
+        "url": "https://open.spotify.com/album/5UF9btLxYk31JgmJUAJERt"
+      },
+      "artists": [
+        {
+          "name": "raissa anggiani",
+          "url": "https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ"
+        }
+      ],
+      "date_added": "2024-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222260,
+      "name": "Jika Nanti",
+      "url": "https://open.spotify.com/track/1EatXWpl3HD6QwD00urZ2W"
+    },
+    {
+      "album": {
+        "name": "Jiwa",
+        "url": "https://open.spotify.com/album/3Hp27Z0y8M7rMSve5obsG9"
+      },
+      "artists": [
+        {
+          "name": "Daniesh Suffian",
+          "url": "https://open.spotify.com/artist/0lvy5lqKIOZlOe8YrDgQRw"
+        }
+      ],
+      "date_added": "2024-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239386,
+      "name": "Jiwa",
+      "url": "https://open.spotify.com/track/5MevLDo0PwOqMEHxa0Ba3z"
+    },
+    {
+      "album": {
         "name": "Jiwa Raga",
         "url": "https://open.spotify.com/album/2OyOdqcclX9N968numajYc"
       },
@@ -3722,7 +3798,7 @@
       ],
       "date_added": "2024-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 231428,
       "name": "Kasih",
       "url": "https://open.spotify.com/track/0tGHu21mZ1WWLy6h39XuPC"
@@ -4661,6 +4737,24 @@
     },
     {
       "album": {
+        "name": "Everlast",
+        "url": "https://open.spotify.com/album/4RQqQiwO3kTfzQI7YQfDMg"
+      },
+      "artists": [
+        {
+          "name": "Fabio Asher",
+          "url": "https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I"
+        }
+      ],
+      "date_added": "2024-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202784,
+      "name": "Mahir Memberi Luka",
+      "url": "https://open.spotify.com/track/5hPv6XDaQzixDaYN0yRCFi"
+    },
+    {
+      "album": {
         "name": "Mainan",
         "url": "https://open.spotify.com/album/6dPgorGiH8T02YZfFoqvwm"
       },
@@ -4778,7 +4872,7 @@
       ],
       "date_added": "2024-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 222947,
       "name": "Mantap Cuy",
       "url": "https://open.spotify.com/track/1XGuEiJdC5qvne7Jaa8onI"
@@ -4934,7 +5028,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 185484,
       "name": "Menanti",
       "url": "https://open.spotify.com/track/1wbTdarJADjlKQ5h8JpQrX"
@@ -5576,7 +5670,7 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 278800,
       "name": "Orang Yang Salah",
       "url": "https://open.spotify.com/track/6KRm2So5GG89uilaTpv4rL"
@@ -5950,7 +6044,7 @@
       ],
       "date_added": "2024-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 215040,
       "name": "PERLU",
       "url": "https://open.spotify.com/track/2XDP9dt6S74cA8eEDkVB17"
@@ -6049,6 +6143,24 @@
     },
     {
       "album": {
+        "name": "Querida Mi Amor",
+        "url": "https://open.spotify.com/album/5b9qQh5XwSqthhO0S6iSTf"
+      },
+      "artists": [
+        {
+          "name": "Afieq Shazwan",
+          "url": "https://open.spotify.com/artist/29LWzRDuZ4ABF8fA3flIz8"
+        }
+      ],
+      "date_added": "2024-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201188,
+      "name": "Querida Mi Amor (feat. Sabbala)",
+      "url": "https://open.spotify.com/track/5DbdafH3EbcMO5Z80tww9g"
+    },
+    {
+      "album": {
         "name": "R Sterling",
         "url": "https://open.spotify.com/album/5VyZboxEWFDud4AAfiei4I"
       },
@@ -6130,7 +6242,7 @@
       ],
       "date_added": "2024-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 205440,
       "name": "Rasa Cinta",
       "url": "https://open.spotify.com/track/44iGMVHHZnGHCFRvBDqi3i"
@@ -7121,6 +7233,24 @@
     },
     {
       "album": {
+        "name": "Semangat Wira",
+        "url": "https://open.spotify.com/album/3Nbl6VxFMTxa0AaGlhcFoJ"
+      },
+      "artists": [
+        {
+          "name": "Ziana Zain",
+          "url": "https://open.spotify.com/artist/3QBn8OqO0pQ1krPFHgc682"
+        }
+      ],
+      "date_added": "2024-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228004,
+      "name": "Semangat Wira",
+      "url": "https://open.spotify.com/track/18wkRaVoEO5Fg4RCyvh5Cx"
+    },
+    {
+      "album": {
         "name": "Semata Karenamu",
         "url": "https://open.spotify.com/album/00Gd00OvRY6pKawXA1iCKs"
       },
@@ -7627,6 +7757,24 @@
     },
     {
       "album": {
+        "name": "Suka",
+        "url": "https://open.spotify.com/album/62GPiZLZMmqhB3DR8ZSy44"
+      },
+      "artists": [
+        {
+          "name": "Fahimi",
+          "url": "https://open.spotify.com/artist/3v9Zh81VbCucm3FCyXwhZd"
+        }
+      ],
+      "date_added": "2024-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178053,
+      "name": "Suka",
+      "url": "https://open.spotify.com/track/3N3s1Wv6w1dAwcwtWygy3w"
+    },
+    {
+      "album": {
         "name": "SUNYI",
         "url": "https://open.spotify.com/album/4I7hYrZztzVYwj9dNBYYXX"
       },
@@ -7764,7 +7912,7 @@
       ],
       "date_added": "2023-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 179841,
       "name": "Tak Dianggap",
       "url": "https://open.spotify.com/track/2lMQOAKPam2JVEfNsZtWDe"

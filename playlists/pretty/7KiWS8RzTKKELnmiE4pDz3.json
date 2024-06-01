@@ -6,7 +6,7 @@
     "name": "James Williams",
     "url": "https://open.spotify.com/user/imathieu32"
   },
-  "snapshot_id": "AAAcrrCbaCBD88q39UD3OqaWo8Zluo4r",
+  "snapshot_id": "AAAcr9lk7NU0xagMJVjhb4b/PSV2R+aF",
   "tracks": [
     {
       "added_at": "2022-09-26 20:53:27",
@@ -2247,6 +2247,26 @@
       "duration_ms": 194786,
       "name": "Samurai",
       "url": "https://open.spotify.com/track/00LGJRRqN4AtSpHrvjIyiJ"
+    },
+    {
+      "added_at": "2024-05-30 01:22:11",
+      "album": {
+        "name": "Dum and Dummer 2",
+        "url": "https://open.spotify.com/album/1XKOXluL7TbCpPVsX4dqXv"
+      },
+      "artists": [
+        {
+          "name": "Young Dolph",
+          "url": "https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g"
+        },
+        {
+          "name": "Key Glock",
+          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+        }
+      ],
+      "duration_ms": 149760,
+      "name": "A Goat & A Dolphin",
+      "url": "https://open.spotify.com/track/3jIngQ3hgLgIv3tMSzrQa6"
     }
   ],
   "unique_name": "main ",

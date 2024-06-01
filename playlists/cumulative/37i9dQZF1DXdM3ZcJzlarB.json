@@ -133,6 +133,24 @@
     },
     {
       "album": {
+        "name": "Acid Rain",
+        "url": "https://open.spotify.com/album/5ozI69yBdbUpdxmyR8y9CT"
+      },
+      "artists": [
+        {
+          "name": "Ludmila Di Pasquale",
+          "url": "https://open.spotify.com/artist/7hDe40AlwF450fQo0LndgG"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332000,
+      "name": "Acid Rain",
+      "url": "https://open.spotify.com/track/5EM8jyVuk8uCyBvS0X4elR"
+    },
+    {
+      "album": {
         "name": "LOGO",
         "url": "https://open.spotify.com/album/4PLtXjl2T5JqMUkGGdZ17K"
       },
@@ -224,6 +242,28 @@
       "duration_ms": 452794,
       "name": "Apocalyptic Love",
       "url": "https://open.spotify.com/track/6hiLV1fEZaUw6x9XGmrKM0"
+    },
+    {
+      "album": {
+        "name": "Arcade EP",
+        "url": "https://open.spotify.com/album/6lIcpudUrFAAQSFDHSyiZ8"
+      },
+      "artists": [
+        {
+          "name": "Simon Vuarambon",
+          "url": "https://open.spotify.com/artist/2W3M7XIkEKENCT1LXJ6mdj"
+        },
+        {
+          "name": "Tantum",
+          "url": "https://open.spotify.com/artist/1zOlzO4RI2iNEcO7JkVWuK"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 414500,
+      "name": "Arcade",
+      "url": "https://open.spotify.com/track/0KSR4afsGD6d9BfeH2JMiL"
     },
     {
       "album": {
@@ -1540,6 +1580,28 @@
       "duration_ms": 490000,
       "name": "Koira - Original Mix",
       "url": "https://open.spotify.com/track/0CjDLYlwzA5fYodhiuz8ps"
+    },
+    {
+      "album": {
+        "name": "UNO Remixes",
+        "url": "https://open.spotify.com/album/0fv3mGJAZuumLQxr1yUn5J"
+      },
+      "artists": [
+        {
+          "name": "Varese",
+          "url": "https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg"
+        },
+        {
+          "name": "Folgar",
+          "url": "https://open.spotify.com/artist/2Ow3iadccaEHh4yju9SDd9"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 437419,
+      "name": "KRAUT! - Folgar Remix",
+      "url": "https://open.spotify.com/track/4NTyqjbaKwcpE7pLud1feu"
     },
     {
       "album": {
@@ -3049,6 +3111,28 @@
     },
     {
       "album": {
+        "name": "Tiempo de Perdonar al Tiempo REMIX",
+        "url": "https://open.spotify.com/album/1rrYsEJI5bSn7vtq8OjvvE"
+      },
+      "artists": [
+        {
+          "name": "D.I.E.T.R.I.C.H.",
+          "url": "https://open.spotify.com/artist/5WMhbQfLXEH6wEpsF0v2hv"
+        },
+        {
+          "name": "Evlay",
+          "url": "https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 382608,
+      "name": "Tiempo de Perdonar al Tiempo REMIX",
+      "url": "https://open.spotify.com/track/7k1BD8Ae6G9owOKyWjYHrc"
+    },
+    {
+      "album": {
         "name": "Time Is An Illusion EP",
         "url": "https://open.spotify.com/album/3Lhg5VoqZlOrFBzGqppqnj"
       },
@@ -3234,6 +3318,32 @@
       "duration_ms": 641311,
       "name": "Voltaire",
       "url": "https://open.spotify.com/track/6RhZ3wEOHmJpZGuXhfl2HJ"
+    },
+    {
+      "album": {
+        "name": "Voyage (Denis Horvat Remix)",
+        "url": "https://open.spotify.com/album/03ENmS6U3KWsZiPG6jUdJe"
+      },
+      "artists": [
+        {
+          "name": "Hernan Cattaneo",
+          "url": "https://open.spotify.com/artist/4mpJaw5y17CIN08qqe8EfB"
+        },
+        {
+          "name": "Hicky & Kalo",
+          "url": "https://open.spotify.com/artist/6yI7QGvmk87s42R0UyhWRT"
+        },
+        {
+          "name": "Denis Horvat",
+          "url": "https://open.spotify.com/artist/5eJJoSS6weFQeI9AtNFLee"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314253,
+      "name": "Voyage - Denis Horvat Remix",
+      "url": "https://open.spotify.com/track/1Oi9Rpb1fECaqQx439uBdO"
     },
     {
       "album": {

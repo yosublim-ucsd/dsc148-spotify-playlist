@@ -4,7 +4,7 @@
 
 > Summer chill tracks to vibe or dance to in 2024\. Updated weekly\. \| 🌈 <a href="https://www.instagram.com/selectedofficial">Instagram</a>
 
-430 songs - 1 day 0 hr 22 min
+431 songs - 1 day 0 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,7 @@
 | [Drive \(feat\. Wes Nelson\)](https://open.spotify.com/track/6eCmK3GQyFuTNWCJHsaF9d) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Wes Nelson](https://open.spotify.com/artist/4ktBrNjagCGftyuBLJkATq) | [Drive \(feat\. Wes Nelson\)](https://open.spotify.com/album/7wDWQrTNxHSVvklLTucK2D) | 2:59 | 2021-09-18 | 2021-11-11 |
 | [Emergency](https://open.spotify.com/track/6L0B2i6TKUP2vazSDqViUM) | [Lonely in the Rain](https://open.spotify.com/artist/42KUul1wLmOdQCEYf3MweS), [Appleby](https://open.spotify.com/artist/4Y2i9jhU3jW0PVsvTLIbWX) | [Emergency](https://open.spotify.com/album/2migdnnPxbvIHUGbKlBO6M) | 2:48 | 2023-03-31 | 2024-02-24 |
 | [Emotion \- JYRYMY Remix](https://open.spotify.com/track/6SE6vHi1PhYjQBIMVI5zwj) | [Hazey Eyes](https://open.spotify.com/artist/3r0RZ55RKisnnF0jVcYrVR), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI), [JYRYMY](https://open.spotify.com/artist/4rAYqc4yDNxG7fn8nkNFYe) | [Emotion \(Remixes\)](https://open.spotify.com/album/0gdHmGF8vBT4te9pF0nzFs) | 3:14 | 2021-03-06 | 2021-05-15 |
-| [Erase](https://open.spotify.com/track/28nIucnxLluv67DXZSbyRt) | [LAR](https://open.spotify.com/artist/2w3NdJswSn39l3TU9vIRq0), [Nu\-La](https://open.spotify.com/artist/4yzrGOiPCcssfpKBT0bnHR) | [Erase](https://open.spotify.com/album/4NZkbSAu3tAnWrL7j3uuDy) | 4:15 | 2023-07-21 |  |
+| [Erase](https://open.spotify.com/track/28nIucnxLluv67DXZSbyRt) | [LAR](https://open.spotify.com/artist/2w3NdJswSn39l3TU9vIRq0), [Nu\-La](https://open.spotify.com/artist/4yzrGOiPCcssfpKBT0bnHR) | [Erase](https://open.spotify.com/album/4NZkbSAu3tAnWrL7j3uuDy) | 4:15 | 2023-07-21 | 2024-06-01 |
 | [Escape](https://open.spotify.com/track/4vNWSeEhlyIlB9ur17x1S4) | [Zimmer](https://open.spotify.com/artist/2pts5B2shsEtIVC4onTFKb), [Emilie Adams](https://open.spotify.com/artist/5hALxswu1Hh9HNjFqsfcO0) | [Coming of Age](https://open.spotify.com/album/23jWgWP1GUqt1SK4VS4qzK) | 4:15 | 2021-03-06 | 2021-03-14 |
 | [Esther](https://open.spotify.com/track/3PWpjbSHuAe5UIKLmeEtj9) | [BAYNK](https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Esther](https://open.spotify.com/album/6kRqTiD3b2CPTMbYV6xU40) | 3:12 | 2021-07-17 | 2021-09-11 |
 | [Euphoria](https://open.spotify.com/track/00KPugdklpcrFNnjWlXjj2) | [Luca](https://open.spotify.com/artist/4hheW577K2nAMAwDuTGAA4) | [Euphoria](https://open.spotify.com/album/1Ae9MLhcJLBmnD5vICcr14) | 3:38 | 2023-03-17 | 2024-02-24 |
@@ -312,6 +312,7 @@
 | [Road](https://open.spotify.com/track/6kckNpuM5oXZrObLExRg6d) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Arctic Lake](https://open.spotify.com/artist/0IEPb9ily3E5IAYMSkwtQ6) | [Brightest Lights](https://open.spotify.com/album/6EdbqQvOCialJuOjEEUlsL) | 3:58 | 2021-10-02 | 2024-02-24 |
 | [Runaway](https://open.spotify.com/track/1tGp9fmzBiKO2gd6t9Z10u) | [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq), [Joseph Feinstein](https://open.spotify.com/artist/7ahEpNiwqIG5GJ3NkfHt1L) | [Runaway](https://open.spotify.com/album/5cQ4Evvj4ayOGlLMh6afF0) | 2:33 | 2021-01-19 | 2021-03-06 |
 | [Running Away](https://open.spotify.com/track/4w9VvLlJlJ1ZBGXOkBu0UC) | [Sonnengruss](https://open.spotify.com/artist/1ZhvuoFAmQ93bqmF4UKNTR) | [Running Away](https://open.spotify.com/album/1JTWhRbwhjA7CT7q5QfrOe) | 3:03 | 2020-12-01 | 2021-03-06 |
+| [Running Back to You](https://open.spotify.com/track/12VCcXBvOlraAB1G7DAWH6) | [Astrality](https://open.spotify.com/artist/6KGv020mJkIjQH5YPDSBcZ), [Miggy Dela Rosa](https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU) | [Running Back to You](https://open.spotify.com/album/7kIX9RgTqJEU02AL3B9g0Z) | 2:28 | 2024-05-31 |  |
 | [Running the Way I Do](https://open.spotify.com/track/4pL05Dz5YkxNAGDU2vqn9Q) | [Arpad](https://open.spotify.com/artist/5GBl1D2wTdYnNbmOVBfl87), [CLOSR](https://open.spotify.com/artist/1QIjx8SUfvxycTLJGoxww3) | [Running the Way I Do](https://open.spotify.com/album/5grTgNNGc5pKtcNSkMz5vG) | 2:14 | 2021-08-14 | 2023-05-06 |
 | [Rush](https://open.spotify.com/track/3lxUQ9Q9p2SiJU4FXSLUsr) | [SOMMA](https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Rush](https://open.spotify.com/album/21sXD23Pxw2SHuzf0ApnDI) | 3:07 | 2022-06-02 | 2023-04-29 |
 | [Sad in Scandinavia](https://open.spotify.com/track/5e3bm51VAf4zGf6Y6LaFy0) | [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq), [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw) | [Sad in Scandinavia](https://open.spotify.com/album/116cozWS2DlOUFwYDSCovA) | 3:24 | 2021-03-06 | 2021-06-26 |

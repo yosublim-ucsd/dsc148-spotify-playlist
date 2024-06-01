@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9H435blNqg.md) - [plain]
 
 > A different shade of the blues\. Cover: Dan Auerbach
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,297 likes - 75 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,399 likes - 75 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Girl On Girl](https://open.spotify.com/track/3uRtKGMu9MI3TFKatO6FEw) | [Pimps of Joytime](https://open.spotify.com/artist/6NPWjCsZUtFRognZKJm5N4), [Sophia Urista](https://open.spotify.com/artist/0ZOIPu5gy4F5VFvJrRfvVP) | [Girl On Girl](https://open.spotify.com/album/37cSKWOt90QtW9i5mwD5zN) | 2:28 |
-| 2 | [Get By \(Good Enough\)](https://open.spotify.com/track/0PwobOQQPY75G5PeuoAdQs) | [The Deadbeat Cousins](https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40) | [Get By \(Good Enough\)](https://open.spotify.com/album/1cjS4Dg6yv2uUD2YqgEYyZ) | 3:23 |
+| 1 | [Somebody to Love \(Trust\)](https://open.spotify.com/track/7otWVTT2kHVAKkToJJaOJn) | [The Deadbeat Cousins](https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40) | [Somebody to Love \(Trust\)](https://open.spotify.com/album/4V9uqHkiHQfMpt8gYDaGWg) | 3:02 |
+| 2 | [Girl On Girl](https://open.spotify.com/track/3uRtKGMu9MI3TFKatO6FEw) | [Pimps of Joytime](https://open.spotify.com/artist/6NPWjCsZUtFRognZKJm5N4), [Sophia Urista](https://open.spotify.com/artist/0ZOIPu5gy4F5VFvJrRfvVP) | [Girl On Girl](https://open.spotify.com/album/37cSKWOt90QtW9i5mwD5zN) | 2:28 |
 | 3 | [A Little More](https://open.spotify.com/track/2mC4cDkcXARtSgUCyTrhKe) | [Soldier Story](https://open.spotify.com/artist/6xUcGgLH1IwXKSoYe2EMr0) | [A Little More](https://open.spotify.com/album/1gcCINL6KPNbsfNBi7I3yI) | 2:55 |
 | 4 | [Every Chance I Get \(I Want You In The Flesh\)](https://open.spotify.com/track/6nWLyTkbR9xsmmY1jioPTV) | [Dan Auerbach](https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC) | [Every Chance I Get \(I Want You In The Flesh\)](https://open.spotify.com/album/3rmzLWCXi8PNt5kVKf9O7D) | 4:08 |
 | 5 | [Thinking 'Bout Myself \- Bluesfest Studio Sessions](https://open.spotify.com/track/08VaEnrwq3FjT6VqWCRipZ) | [Ash Grunwald](https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY) | [The Bluesfest Studio Sessions](https://open.spotify.com/album/3cEaIQqDr4q8Y3hluMRXmA) | 2:56 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9H435blNqg.md) - [plain]
 | 74 | [One Thing \(2020\)](https://open.spotify.com/track/5AU6psoPKvjkfgISTSrbCS) | [Patrick Sweany](https://open.spotify.com/artist/35mDUnsSVfkJpgjIXHsPC5) | [Get That Feeling, Vol\. I](https://open.spotify.com/album/12etpmMvVYThaqygVi0UKE) | 4:06 |
 | 75 | [Quarantine](https://open.spotify.com/track/7gde4dG4lg1LDEVAgwTeYE) | [Brianna Harness](https://open.spotify.com/artist/2gEHt3cr4osngnVx0KsNlQ) | [Quarantine](https://open.spotify.com/album/2WjzcRa6XEfaLmYqTMBrEE) | 2:52 |
 
-Snapshot ID: `Zf0CfAAAAABkUerDPDodj5fDs/bI7+9J`
+Snapshot ID: `ZllLQAAAAAC5mFuPeblBqbpKPURVqcpe`

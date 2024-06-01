@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Spotify country fan favorites. Cover: Blake Shelton",
+  "description": "Spotify country fan favorites. Cover: Kenny Chesney",
   "name": "Country Gold",
   "tracks": [
     {
@@ -1267,6 +1267,24 @@
     },
     {
       "album": {
+        "name": "Songs for the Saints",
+        "url": "https://open.spotify.com/album/77spqXa3VNN0mw13PgWWyY"
+      },
+      "artists": [
+        {
+          "name": "Kenny Chesney",
+          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+        }
+      ],
+      "date_added": "2024-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199625,
+      "name": "Get Along",
+      "url": "https://open.spotify.com/track/6n6OQfBpCgzF9oEg8zhBN7"
+    },
+    {
+      "album": {
         "name": "Getting Good",
         "url": "https://open.spotify.com/album/5dWadf8VCafr7fXtBFYcbd"
       },
@@ -1892,7 +1910,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 198688,
       "name": "I Hope You\u2019re Happy Now",
       "url": "https://open.spotify.com/track/1iiehnBysGi59zXYXIuKQD"
@@ -2612,7 +2630,7 @@
       ],
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 217733,
       "name": "My Next Thirty Years",
       "url": "https://open.spotify.com/track/7AHw9SfOITU9Q7sj3V5vxV"
@@ -2916,7 +2934,7 @@
       ],
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 195586,
       "name": "Play Something Country",
       "url": "https://open.spotify.com/track/7MevrbPAGEaw1IgkaBmv82"

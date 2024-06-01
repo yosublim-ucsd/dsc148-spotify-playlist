@@ -2281,7 +2281,7 @@
       "date_added": "2024-05-28",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 179076,
+      "duration_ms": 168000,
       "name": "Bandit - Club Mix",
       "url": "https://open.spotify.com/track/6ovzIhWfOcUwYRlobZvJ06"
     },
@@ -11022,6 +11022,32 @@
       "duration_ms": 193730,
       "name": "For The Love",
       "url": "https://open.spotify.com/track/2k39D7dz6yQyuaii2NXF6l"
+    },
+    {
+      "album": {
+        "name": "Forbidden Fantasy",
+        "url": "https://open.spotify.com/album/5f8FjvRBF4GNmaH1Cdmghk"
+      },
+      "artists": [
+        {
+          "name": "Becking",
+          "url": "https://open.spotify.com/artist/70M2AZExSkmV2udJPl3RcU"
+        },
+        {
+          "name": "ON_1",
+          "url": "https://open.spotify.com/artist/1yga9Ci8sD6gpO5Vf1AN86"
+        },
+        {
+          "name": "Silver Nova",
+          "url": "https://open.spotify.com/artist/4XwPIngUXeKAjEWx6YJqW3"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354705,
+      "name": "Forbidden Fantasy",
+      "url": "https://open.spotify.com/track/6cx9nqGCcaBVYh3hIJ5xrB"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UloYFdbD8M.md) - [plain]
 
 > Super Cool Indie Tracks from Gods Own Country<br/>Cover: Benny Dayal
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,736 likes - 75 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,790 likes - 75 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,12 +12,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UloYFdbD8M.md) - [plain]
 | 2 | [Ayyo](https://open.spotify.com/track/57vjoKtMsHcDeNfpbd0LKm) | [Arya Dhayal](https://open.spotify.com/artist/3wgZfKbyO4MfUMvfDlxdQp) | [Ayyo](https://open.spotify.com/album/3XH8aTi5asnST47Fx2DvGB) | 2:53 |
 | 3 | [Sana \- Aaro Nee \- From "Think Specials"](https://open.spotify.com/track/3sFi34K2RKSTqEFLQ7HVLl) | [Sharan Rajamohanan](https://open.spotify.com/artist/1T7PhOdpNZ3sOUM7r6Qqkt), [Anand Sankar](https://open.spotify.com/artist/5a6vjcYewFeGYRnHLVF23k) | [Sana \- Aaro Nee \(From "Think Specials"\)](https://open.spotify.com/album/77I3U74J8dFJ2T3H1eWCsH) | 3:49 |
 | 4 | [Alayazhikal](https://open.spotify.com/track/2l9ZlzdLl0MXWn2Ta8l4XS) | [Yakzan Gary Pereira](https://open.spotify.com/artist/4AmlgLX3ZgHhJ9phrzlIRu), [Neha S\. Nair](https://open.spotify.com/artist/1Ixc8hKrbw01MHtuP6SNUH) | [Alayazhikal](https://open.spotify.com/album/2SNAYYRDwzMK62yDLB0net) | 3:59 |
-| 5 | [Guru Meets Mastan](https://open.spotify.com/track/2WEp8R52IgXTf7zYVjMZJc) | [Shahabaz Aman](https://open.spotify.com/artist/0ef7C50MIK4GSqlk2WnOGk) | [Guru Meets Mastan](https://open.spotify.com/album/0CQ6xO6ATp0215Eg2OgLHl) | 4:49 |
-| 6 | [Cholo Shobe](https://open.spotify.com/track/1aAbhV2Uh5moXwQlmB0KJE) | [Benny Dayal](https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ), [Charles Nazareth](https://open.spotify.com/artist/6WwI4tkjZWIS5ZvXa3mkUU) | [Cholo Shobe](https://open.spotify.com/album/1qxtuJfULK55SUCWMDiZY0) | 4:13 |
-| 7 | [u good ?](https://open.spotify.com/track/2G3DOH3mvCzRt14HYRHq8J) | [6091](https://open.spotify.com/artist/0kkM6OpHU2UkpKIvPT05WZ), [Haniya Nafisa](https://open.spotify.com/artist/2qE6XvN9lbEFGFfQOREsr0), [Krameri](https://open.spotify.com/artist/1hxuMlq1xCyjGyhoPsiIM0) | [u good ?](https://open.spotify.com/album/3jWwsCK4dJZzMSX2oBKQmj) | 3:18 |
-| 8 | [Butterflies](https://open.spotify.com/track/0cCMLMjOTegmcGdoJrfnDc) | [Pina Colada Blues](https://open.spotify.com/artist/1pSV6wx1cZQB3l7c2wY3mE), [Mridul Anil](https://open.spotify.com/artist/3uVGKUu4pjlBUJdV879eb3) | [Butterflies](https://open.spotify.com/album/0YNBOj4DQ2NzoIeMi5rvKN) | 3:34 |
-| 9 | [Pattam](https://open.spotify.com/track/1lpFHQZpVa4HmlVuAkd5zZ) | [Ashwin Bhaskar](https://open.spotify.com/artist/5FxITpVzF7lxGwOKVp4tXF) | [Pattam](https://open.spotify.com/album/0yw12ah0RmYSYVZqObKylg) | 3:10 |
-| 10 | [Vaa Nee Vaa](https://open.spotify.com/track/4vQefItF5lcMJhRBjTmICk) | [Kishawn](https://open.spotify.com/artist/7apJKSnsatIWY5brBenbA0), [Cozzy](https://open.spotify.com/artist/5wbotL8r54GNzca15JjKa5) | [Vaa Nee Vaa](https://open.spotify.com/album/4oBGVlbfcJ2x6r4ZQBC2Ey) | 3:17 |
+| 5 | [Calling Chirutha](https://open.spotify.com/track/67KpWVDRDc4LLUq7LCFMDr) | [Sudeep Palanad](https://open.spotify.com/artist/5gEbn8GU8GPvl5V7nnbHF3) | [Calling Chirutha](https://open.spotify.com/album/0BhLpX9nGEKyOAFB7i076V) | 4:29 |
+| 6 | [Guru Meets Mastan](https://open.spotify.com/track/2WEp8R52IgXTf7zYVjMZJc) | [Shahabaz Aman](https://open.spotify.com/artist/0ef7C50MIK4GSqlk2WnOGk) | [Guru Meets Mastan](https://open.spotify.com/album/0CQ6xO6ATp0215Eg2OgLHl) | 4:49 |
+| 7 | [Cholo Shobe](https://open.spotify.com/track/1aAbhV2Uh5moXwQlmB0KJE) | [Benny Dayal](https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ), [Charles Nazareth](https://open.spotify.com/artist/6WwI4tkjZWIS5ZvXa3mkUU) | [Cholo Shobe](https://open.spotify.com/album/1qxtuJfULK55SUCWMDiZY0) | 4:13 |
+| 8 | [u good ?](https://open.spotify.com/track/2G3DOH3mvCzRt14HYRHq8J) | [6091](https://open.spotify.com/artist/0kkM6OpHU2UkpKIvPT05WZ), [Haniya Nafisa](https://open.spotify.com/artist/2qE6XvN9lbEFGFfQOREsr0), [Krameri](https://open.spotify.com/artist/1hxuMlq1xCyjGyhoPsiIM0) | [u good ?](https://open.spotify.com/album/3jWwsCK4dJZzMSX2oBKQmj) | 3:18 |
+| 9 | [Butterflies](https://open.spotify.com/track/0cCMLMjOTegmcGdoJrfnDc) | [Pina Colada Blues](https://open.spotify.com/artist/1pSV6wx1cZQB3l7c2wY3mE), [Mridul Anil](https://open.spotify.com/artist/3uVGKUu4pjlBUJdV879eb3) | [Butterflies](https://open.spotify.com/album/0YNBOj4DQ2NzoIeMi5rvKN) | 3:34 |
+| 10 | [Pattam](https://open.spotify.com/track/1lpFHQZpVa4HmlVuAkd5zZ) | [Ashwin Bhaskar](https://open.spotify.com/artist/5FxITpVzF7lxGwOKVp4tXF) | [Pattam](https://open.spotify.com/album/0yw12ah0RmYSYVZqObKylg) | 3:10 |
 | 11 | [Swapname](https://open.spotify.com/track/0diGuDISOvsXWs9v5aWv00) | [Emil Mohammed](https://open.spotify.com/artist/7F4yMSf7dsRVAPnkkoR8Wx), [Raazi](https://open.spotify.com/artist/0VKALXldkVaRzYcx7SkKHi) | [Swapname](https://open.spotify.com/album/3mvzVMfX6EmUKMe39Xm1QO) | 3:46 |
 | 12 | [Oru Mazhayude](https://open.spotify.com/track/6S5djlITiwCZK2kGU0FrJh) | [Kavya Ajit](https://open.spotify.com/artist/50ydDju7QfqeZrLfjlJMQ3), [Zail](https://open.spotify.com/artist/125lP111pgnHz4moKO1C1R) | [Oru Mazhayude](https://open.spotify.com/album/6vit2xHQjwGBYo5wIUG4R8) | 3:00 |
 | 13 | [Moula Mere](https://open.spotify.com/track/4BosVT8DgK8TYcjpWjbgYs) | [m.cnan](https://open.spotify.com/artist/012VXrXmrn0tN8aN8AAc5A), [Ramees.km](https://open.spotify.com/artist/4YU2FQMxkTQ6aEHwkSV2Z7), [Anurag Vinod](https://open.spotify.com/artist/1A6anyCbedTpsecKOWxPgy) | [Moula Mere](https://open.spotify.com/album/7vC74xe0DHiQeEk0lldKh8) | 4:12 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UloYFdbD8M.md) - [plain]
 | 74 | [Veyil](https://open.spotify.com/track/2JgpqEHj0uO7s45Fg7womt) | [Aromal Chekaver](https://open.spotify.com/artist/730w8BmSWsTCB4sBCnBkFa) | [Veyil](https://open.spotify.com/album/5WyjHb4OPKvSBJje60DtZU) | 3:05 |
 | 75 | [Thaaraattu \- Live](https://open.spotify.com/track/2fe5loAluoPJsHT1nCpgDc) | [Job Kurian](https://open.spotify.com/artist/4rJY6amSC7TWtV9oifBnrS) | [Thaaraattu \(Live\)](https://open.spotify.com/album/5kqLzeSaEAv5Shc5wAnvud) | 3:02 |
 
-Snapshot ID: `ZlAUTwAAAAAmk9PT0XylFpA0qzvU0CLi`
+Snapshot ID: `ZlmY5AAAAACl6fGWqJsNGKUT7cNMMLHU`

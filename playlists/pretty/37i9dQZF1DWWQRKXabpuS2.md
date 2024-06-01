@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRKXabpuS2.md) - [plain]
 
 > كل شي خليجي جديد\. الغلاف:اصيل هميم
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,754 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,850 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Mithl Alqamar](https://open.spotify.com/track/0p0Se8qQx7avDYVsBiKFth) | [KADEJAH MOAATH](https://open.spotify.com/artist/6dHJGgMd8sX4N2ss08CPo4) | [Mithl Alqamar](https://open.spotify.com/album/1kYf7EpjzIChlqNRnLPJ7b) | 3:57 |
-| 2 | [سبع وثمان](https://open.spotify.com/track/3UTORktaYB1E8YWp5DuTSF) | [Omar Al Abdalaat](https://open.spotify.com/artist/7wNZDaQ21Dh0ggn4Vj1bdi) | [ديار ليلى](https://open.spotify.com/album/2nMSi3FKbTdgEygD6X1N7l) | 3:16 |
+| 2 | [سبع وثمان](https://open.spotify.com/track/3UTORktaYB1E8YWp5DuTSF) | [Omar Alabdallat](https://open.spotify.com/artist/3zbimX3Z591csbDHH2Iuxc) | [ديار ليلى](https://open.spotify.com/album/2nMSi3FKbTdgEygD6X1N7l) | 3:16 |
 | 3 | [Mostafz Alnas](https://open.spotify.com/track/1x3qoGBof6SVqJYi6WvhyI) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Mostafz Alnas](https://open.spotify.com/album/6M6XVr2LDKXOkUb5C4PNrO) | 3:05 |
 | 4 | [Maalem Hanini](https://open.spotify.com/track/6hvVKdAx1d38usGQnah5bw) | [Borhan](https://open.spotify.com/artist/0Cqxw4TpB3KidRUI3IQBgi) | [Maalem Hanini](https://open.spotify.com/album/5KJOZBysIetUuFHf0fbynP) | 3:51 |
 | 5 | [Kheft Bodak](https://open.spotify.com/track/0GOLg32xobuTOktjx0oMkd) | [Abdulkader Alahmed](https://open.spotify.com/artist/7fpdcwPFWY9cOWQfEKKIbk) | [Kheft Bodak](https://open.spotify.com/album/3puLzAjBoJGZqSz0z0fiIP) | 4:40 |

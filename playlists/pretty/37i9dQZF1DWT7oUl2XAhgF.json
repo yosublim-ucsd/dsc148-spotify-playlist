@@ -1,12 +1,12 @@
 {
   "description": "A new take on a classic sound. Cover: Jalen Ngonda",
-  "num_followers": 334802,
+  "num_followers": 334973,
   "original_name": "Retro Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlAQwAAAAABYfTtb0re3cir8nPF43xhc",
+  "snapshot_id": "ZllLQAAAAABpDYVCc9bedb9/O4AdHGx1",
   "tracks": [
     {
       "added_at": "2024-04-05 04:01:00",
@@ -23,6 +23,22 @@
       "duration_ms": 202139,
       "name": "Here To Stay",
       "url": "https://open.spotify.com/track/16sNdTQnKj1FI0H53LQTYc"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "Flawed by Design",
+        "url": "https://open.spotify.com/album/0mTzaEzi97RqYK4VbwtQcT"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Valbrun",
+          "url": "https://open.spotify.com/artist/3uE4EsnezRtXJn2q3TTKg5"
+        }
+      ],
+      "duration_ms": 302736,
+      "name": "Baptist",
+      "url": "https://open.spotify.com/track/44KmVlb7C8yGHkDtqOwUDT"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -57,6 +73,50 @@
       "url": "https://open.spotify.com/track/2bWioVam86EwJCz6vdqNpt"
     },
     {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "Forever Young",
+        "url": "https://open.spotify.com/album/0n7OYKGvADJxCOHeos5MlR"
+      },
+      "artists": [
+        {
+          "name": "Brian Owens",
+          "url": "https://open.spotify.com/artist/7H5TzLxLTOrQuBuVzvll6d"
+        },
+        {
+          "name": "Michael McDonald",
+          "url": "https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy"
+        },
+        {
+          "name": "Dylan McDonald",
+          "url": "https://open.spotify.com/artist/6N45Hme7I09LsLQSf62Fzf"
+        },
+        {
+          "name": "Thomas Owens",
+          "url": "https://open.spotify.com/artist/5klnPBXrUhyAGezIS6V28F"
+        }
+      ],
+      "duration_ms": 292824,
+      "name": "Forever Young",
+      "url": "https://open.spotify.com/track/0Ya0RaQ2OOpwNR3oTxAuBt"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "Be My Own Man",
+        "url": "https://open.spotify.com/album/1Eboy7GftOfgKfFofBdW6O"
+      },
+      "artists": [
+        {
+          "name": "Phillip-Michael Scales",
+          "url": "https://open.spotify.com/artist/0GUFrEry7OHxPMcpjPH9lQ"
+        }
+      ],
+      "duration_ms": 225344,
+      "name": "Be My Own Man",
+      "url": "https://open.spotify.com/track/5wOthUe5Zx1FdIB9GSFvBd"
+    },
+    {
       "added_at": "2024-05-10 04:01:00",
       "album": {
         "name": "Mom Of Mine",
@@ -71,6 +131,22 @@
       "duration_ms": 187456,
       "name": "Mom Of Mine",
       "url": "https://open.spotify.com/track/3mc5EOf4tjQpmVG7ZFsWyv"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "All I Need (The Gemini Song)",
+        "url": "https://open.spotify.com/album/71uGvbeHGdF2LIPCIVqYLF"
+      },
+      "artists": [
+        {
+          "name": "Avery*Sunshine",
+          "url": "https://open.spotify.com/artist/4yMxdaUoKCalQPX9BMeeFf"
+        }
+      ],
+      "duration_ms": 251586,
+      "name": "All I Need (The Gemini Song)",
+      "url": "https://open.spotify.com/track/212aM3sCb6fAeqUnYiLr61"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -291,22 +367,6 @@
     {
       "added_at": "2024-03-22 04:01:00",
       "album": {
-        "name": "Where Is the Peace",
-        "url": "https://open.spotify.com/album/3Yv75Tv8dMqxt6uHWsXikC"
-      },
-      "artists": [
-        {
-          "name": "Wolfgang Valbrun",
-          "url": "https://open.spotify.com/artist/3uE4EsnezRtXJn2q3TTKg5"
-        }
-      ],
-      "duration_ms": 216135,
-      "name": "Where Is the Peace",
-      "url": "https://open.spotify.com/track/1ACBSADdmaiAcvVB5Yzd2F"
-    },
-    {
-      "added_at": "2024-03-22 04:01:00",
-      "album": {
         "name": "Sinseerly Yours",
         "url": "https://open.spotify.com/album/7lNj0BxtEBKhQNtYVqpby6"
       },
@@ -419,22 +479,6 @@
       "duration_ms": 201120,
       "name": "Save Me",
       "url": "https://open.spotify.com/track/302hBUpoWoYQyBgujHfuTy"
-    },
-    {
-      "added_at": "2024-01-26 05:01:00",
-      "album": {
-        "name": "Lifted Up",
-        "url": "https://open.spotify.com/album/4jGb0IWRLtC75RQzIWGpEV"
-      },
-      "artists": [
-        {
-          "name": "Avery*Sunshine",
-          "url": "https://open.spotify.com/artist/4yMxdaUoKCalQPX9BMeeFf"
-        }
-      ],
-      "duration_ms": 175714,
-      "name": "Lifted Up",
-      "url": "https://open.spotify.com/track/5I49eXTkm0BUI9l5zvVcfw"
     },
     {
       "added_at": "2024-02-23 05:01:00",
@@ -1499,22 +1543,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Float",
-        "url": "https://open.spotify.com/album/1dtZKbO951kCjsBPSEvw95"
-      },
-      "artists": [
-        {
-          "name": "The Altons",
-          "url": "https://open.spotify.com/artist/5AgZ9r9ZdWm7mD9t03KZZu"
-        }
-      ],
-      "duration_ms": 240870,
-      "name": "Float",
-      "url": "https://open.spotify.com/track/7MOy3ezBGiYpvc2jBwXZ3m"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "B-Side",
         "url": "https://open.spotify.com/album/0JxSewL4a7vp10TzeQVDvo"
       },
@@ -1615,22 +1643,6 @@
       "duration_ms": 257693,
       "name": "Come Back Home",
       "url": "https://open.spotify.com/track/0aoRw3x1t8YX3w1j21aLLu"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "My Oh My",
-        "url": "https://open.spotify.com/album/3rWudFlMS9OWpxneFqm8yq"
-      },
-      "artists": [
-        {
-          "name": "Phillip-Michael Scales",
-          "url": "https://open.spotify.com/artist/0GUFrEry7OHxPMcpjPH9lQ"
-        }
-      ],
-      "duration_ms": 209053,
-      "name": "My Oh My",
-      "url": "https://open.spotify.com/track/4KO9dF03JTCwvQJdGVqwcG"
     },
     {
       "added_at": "2023-09-01 04:00:00",

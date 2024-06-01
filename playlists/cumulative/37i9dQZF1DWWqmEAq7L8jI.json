@@ -673,6 +673,24 @@
     },
     {
       "album": {
+        "name": "las cartas pendientes",
+        "url": "https://open.spotify.com/album/3wALfCDPs8EfeZXDHZr9U0"
+      },
+      "artists": [
+        {
+          "name": "CLEMENTE",
+          "url": "https://open.spotify.com/artist/4TDHTrq8xN1oKR2TFnBgez"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223298,
+      "name": "besos guardados",
+      "url": "https://open.spotify.com/track/2E4L8ANqLb0t31soN5Q3Ha"
+    },
+    {
+      "album": {
         "name": "La \u00daltima Misi\u00f3n",
         "url": "https://open.spotify.com/album/08QB1puuJGgRx8N7Yn1twL"
       },
@@ -1124,7 +1142,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-18",
+      "date_removed": null,
       "duration_ms": 192757,
       "name": "Como T\u00fa y Yo",
       "url": "https://open.spotify.com/track/5epkD1MXbSjJTvQexDE3Q9"
@@ -3156,7 +3174,7 @@
       ],
       "date_added": "2023-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 156774,
       "name": "LORO",
       "url": "https://open.spotify.com/track/55UW6NYVtbjUgX4vwEV3GQ"
@@ -3857,6 +3875,28 @@
     },
     {
       "album": {
+        "name": "Hyperdrama",
+        "url": "https://open.spotify.com/album/6ooBxhsOVedpX4zPTCyL86"
+      },
+      "artists": [
+        {
+          "name": "Justice",
+          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
+        },
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266493,
+      "name": "Neverender",
+      "url": "https://open.spotify.com/track/3aQ9MHkMeL7Yu7jpyF62xn"
+    },
+    {
+      "album": {
         "name": "NEW DANCE",
         "url": "https://open.spotify.com/album/5iBG5tDegPYWxpzmgYs4KK"
       },
@@ -4432,7 +4472,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 182947,
       "name": "POR\u00c1I",
       "url": "https://open.spotify.com/track/0m6UUFT0cUqky2b3zUnf0J"
@@ -4664,7 +4704,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 147719,
       "name": "Reina de todo",
       "url": "https://open.spotify.com/track/0uGYA1Mb8NdjM1KG0KjxuX"

@@ -4,7 +4,7 @@
 
 > La casa de lxs MC's\. Foto: Liricistas.
 
-195 songs - 11 hr 9 min
+196 songs - 11 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,6 +150,7 @@
 | [Raiz](https://open.spotify.com/track/7qdZUrkgnf4nkzEhfRBlUz) | [Tiro De Gracia](https://open.spotify.com/artist/3yIbPI61iAhMptDnfnyScb), [Fermin IV](https://open.spotify.com/artist/74OPWhLPyLylAzgqcJlNMm) | [Raiz](https://open.spotify.com/album/398fC5FnbPgjyh5jJkHTVc) | 4:19 | 2022-01-06 | 2024-01-13 |
 | [Rapto](https://open.spotify.com/track/2dBqqsAFDClCcze0nlwx0w) | [Laprea](https://open.spotify.com/artist/4Jjunoh7xu236kwZ7tVMF5), [Abominable](https://open.spotify.com/artist/7mfW3JmDxbXM5LqQgWbzv7), [ĐĐA](https://open.spotify.com/artist/3YSZNXaA6ZKE8WGrw4UTV7) | [Rapto](https://open.spotify.com/album/1MJIj7pfl8NMQjsE5mTH0F) | 3:46 | 2023-05-26 |  |
 | [Rebelión de Octubre](https://open.spotify.com/track/18KlviWQU3bDCVDWCVdZXb) | [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz), [MC Millaray](https://open.spotify.com/artist/3BMneIOFMaeXTeJwv1ZtK9) | [Rebelión de Octubre](https://open.spotify.com/album/1UNMUP2Bx2bj6GxbxnPYCs) | 4:07 | 2022-01-06 | 2023-05-27 |
+| [Remakia](https://open.spotify.com/track/27uIJiTu7mxvbnpwyGHUUR) | [Mamborap](https://open.spotify.com/artist/1R4SZjsnu91VWf5BhkKdH0) | [Remakia](https://open.spotify.com/album/4MI0nOimReCzR7Zszqy5lH) | 2:54 | 2024-05-31 |  |
 | [Resistiré](https://open.spotify.com/track/1fClDpLB8yl1wzI15q7llr) | [Flor De Rap](https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7) | [Gold](https://open.spotify.com/album/5zZohvmfqD0qOuFIqSPoZl) | 3:40 | 2022-01-06 |  |
 | [Respect](https://open.spotify.com/track/32CqjOSjvS2yP2BCs0xLYb) | [Omega El CTM](https://open.spotify.com/artist/0tXcalxqLUWMRZVfj1xtkP), [Jbeat](https://open.spotify.com/artist/2uEEbhhd2BWUo2ou8eruk5), [Dj Akrylik](https://open.spotify.com/artist/4DpQwUtMbnw1jVj8Luu32p) | [Respect](https://open.spotify.com/album/2UDyYc2Z8PQjWasQzbr5Qi) | 2:29 | 2022-01-06 | 2022-02-19 |
 | [Rimas Bravas](https://open.spotify.com/track/3AY1xH0YVYggPz4AKajxvE) | [Adickta Sinfonía](https://open.spotify.com/artist/3McbjZPGQECT5OMujemGpi) | [Rimas Bravas](https://open.spotify.com/album/2aXT7tp2VhvKzY8JLFmIom) | 4:22 | 2022-02-11 |  |

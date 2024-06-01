@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Italy.
 
-1,834 songs - 3 day 21 hr 50 min
+1,835 songs - 3 day 21 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1305,7 +1305,8 @@
 | [PAROLE \(feat\. Noemi, Lazza, Tedua & Marracash\)](https://open.spotify.com/track/3niuUWFJ3uouqpbnvYU0PB) | [Drillionaire](https://open.spotify.com/artist/0qts5zYDAeK8dBmrdF2Zwq), [Noemi](https://open.spotify.com/artist/62C5P1caRIK12ndTkzNJjA), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [10](https://open.spotify.com/album/4buUBHrLMnqUFtwWCfq1pb) | 4:16 | 2023-07-01 | 2023-07-13 |
 | [parole dette male](https://open.spotify.com/track/72FMKiJcDj3jjUFJgLvZ5Q) | [Giorgia](https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr) | [parole dette male](https://open.spotify.com/album/2xfmbz3t4vbIQITzKJrmXd) | 3:06 | 2023-02-10 | 2023-02-20 |
 | [parole dette male](https://open.spotify.com/track/79p8nqfMUF9mxMAT1EGPwO) | [Giorgia](https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr) | [BLU¹](https://open.spotify.com/album/1wk9xPCFOJOccWG60XhknC) | 3:06 | 2023-02-19 | 2023-02-25 |
-| [Parole Vuote \(La Solitudine\) \(feat\. Capo Plaza\)](https://open.spotify.com/track/4QBfVk60RIBQg1uyox78Kh) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [La Divina Commedia](https://open.spotify.com/album/6V2ux3cV4NA4PWx2g1gm0u) | 4:11 | 2023-11-29 |  |
+| [Parole Vuote \(La Solitudine\) \(feat\. Capo Plaza\)](https://open.spotify.com/track/4QBfVk60RIBQg1uyox78Kh) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [La Divina Commedia](https://open.spotify.com/album/6V2ux3cV4NA4PWx2g1gm0u) | 4:11 | 2023-11-29 | 2024-06-01 |
+| [Parole Vuote \(La Solitudine\) \(feat\. Capo Plaza\)](https://open.spotify.com/track/5pfoywYsOxTlXNjwwwHCFJ) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [La Divina Commedia \(Deluxe\)](https://open.spotify.com/album/21A98jXqZkeJNNv8fcFTaD) | 4:11 | 2024-05-31 |  |
 | [PARTENOPE](https://open.spotify.com/track/60NC3OqjiISKBYbscb8vW3) | [LIBERATO](https://open.spotify.com/artist/4X89u81dkCXBSGo8i2DhMW) | [LIBERATO II](https://open.spotify.com/album/2C6181H1enBSZDL8kbhUXQ) | 3:37 | 2022-05-11 | 2022-06-19 |
 | [PARTICOLARI SPORCHI](https://open.spotify.com/track/5ALGkFTsKo8CGnFjBlAAZI) | [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF) | [ICON](https://open.spotify.com/album/0zGirhBBoAjHz8t37u1IRW) | 2:47 | 2024-03-16 | 2024-03-24 |
 | [PARTIRE DA TE](https://open.spotify.com/track/43mGIsFZwISk1WWTcAK728) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3) | [TAXI DRIVER](https://open.spotify.com/album/0u0sBgOAOo8TBlIp1HcrHp) | 3:41 | 2021-05-03 | 2022-01-05 |

@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO2rdzeb.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO2rdzeb) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO2rdzeb)
 
-### [This Is: Adrianne Lenker](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2rdzeb)
+### [This Is Adrianne Lenker](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2rdzeb)
 
-> This is: Adrianne Lenker\. Най‑значимите записи, всички в един плейлист.
+> This is Adrianne Lenker\. The essential tracks, all in one playlist.
 
 56 songs - 3 hr 34 min
 

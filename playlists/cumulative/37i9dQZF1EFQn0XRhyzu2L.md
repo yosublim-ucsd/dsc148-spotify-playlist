@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6pIqJXrWHth17iGoiK0mPz">Justin Tranter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-499 songs - 1 day 3 hr 25 min
+500 songs - 1 day 3 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [All In \- From the Paramount+ Series ‘Grease: Rise of the Pink Ladies'](https://open.spotify.com/track/4ixeKdeupQ4pafOD1e56jP) | [Ari Notartomaso](https://open.spotify.com/artist/3kpcOPO2xmHh1ClcFXnd5o), [The Cast of Grease: Rise of the Pink Ladies](https://open.spotify.com/artist/3bF30kGvclxPV6pFKdRdXQ) | [Grease: Rise of the Pink Ladies \(Music from the Paramount+ Original Series\)](https://open.spotify.com/album/3Dymqe2SV05fcXkxSZDVXz) | 2:41 | 2024-03-26 |  |
 | [All The Way \(VIP Mix\)](https://open.spotify.com/track/15RRhpvTHUYH710VAJY7e8) | [Hellberg](https://open.spotify.com/artist/1kgxTtyF91VaqLD3J6Krd5) | [All The Way \(VIP Mix\)](https://open.spotify.com/album/2d6TneB4l29f3yQXznbcQv) | 3:18 | 2024-02-27 |  |
 | [Are You](https://open.spotify.com/track/7wHOe00vTfOqi8WX3Hr82v) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Fifty Shades Freed \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4w0N1CaZwQ5RPIuawqlYyy) | 3:31 | 2024-02-27 |  |
+| [Asking](https://open.spotify.com/track/1fEo3ZZxtHh20Ow3z3wqvZ) | [Trinity Lake](https://open.spotify.com/artist/1IAcSFwvUres37HhuN2Rcs) | [Asking](https://open.spotify.com/album/345oRmDqLTHWoeY7O3yBcM) | 3:53 | 2024-05-31 |  |
 | [Asking 4 It](https://open.spotify.com/track/42MC4Kh9LtGCUnjfUyY6S2) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP), [Fetty Wap](https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL) | [This Is What The Truth Feels Like](https://open.spotify.com/album/2es3eRI3drhe6WKdCuHjGM) | 3:30 | 2024-02-27 |  |
 | [Audacity](https://open.spotify.com/track/4RHn4YaCPnQhnnP3HyygaP) | [Billy Porter](https://open.spotify.com/artist/3sjUEh7eXUEL5oZLAEZXD4) | [Black Mona Lisa](https://open.spotify.com/album/5TjZrtwHeIxK4KUGZcQe27) | 3:48 | 2024-02-27 |  |
 | [Aviation High](https://open.spotify.com/track/70tvbJfp6aVXfn0wb9E7yp) | [Semi Precious Weapons](https://open.spotify.com/artist/1AXeYOFxlCjSmmMdp4myG9) | [Aviation](https://open.spotify.com/album/3WUxIaY2CBU8H1swmdywD9) | 3:56 | 2024-02-27 |  |

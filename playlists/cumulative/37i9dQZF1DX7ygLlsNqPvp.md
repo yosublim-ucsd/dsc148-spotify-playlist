@@ -2,9 +2,9 @@
 
 ### [Asakaa](https://open.spotify.com/playlist/37i9dQZF1DX7ygLlsNqPvp)
 
-> The most intense local drill music firing up the continent\. Cover:  Beeztrap KOTM, Oseikrom Sikanii & Gyakie
+> The most intense local drill music firing up the continent\. Cover:  Jay Bahd
 
-177 songs - 8 hr 59 min
+178 songs - 9 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Akata Krakye](https://open.spotify.com/track/23S5BZg2WkhxBc08XNVb1u) | [Braabenk](https://open.spotify.com/artist/0TUUFSxsiNUDliSybMOI7I), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM) | [Akata Krakye](https://open.spotify.com/album/4klwwBCFSQC3j3bZfE7eHo) | 2:51 | 2023-12-22 | 2024-01-05 |
 | [Akata Krakye](https://open.spotify.com/track/3kIJPmKplAd6GDMvgnqRpj) | [Braabenk](https://open.spotify.com/artist/0TUUFSxsiNUDliSybMOI7I), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM) | [Akata Krakye](https://open.spotify.com/album/53ISqZj4vbmBYI8AzusLf7) | 3:48 | 2024-01-19 | 2024-05-10 |
 | [Akatafoc](https://open.spotify.com/track/7jx82wdGMpdikLtSajhMb3) | [Kawabanga](https://open.spotify.com/artist/5VcDYvRgsmMRpklUZarFEh), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [Reggie](https://open.spotify.com/artist/0VuX86IpWGJBEv1PUCRgNP) | [Akatafoc](https://open.spotify.com/album/41IfG6m1JTCyYcuMswd6Gi) | 4:17 | 2022-06-09 | 2024-02-09 |
+| [Akatani](https://open.spotify.com/track/2YBlrTA23CtP0rhoG5zqy7) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [Behind The Scene](https://open.spotify.com/album/07PfhFkWFIYJagOsULigKd) | 4:05 | 2024-05-31 |  |
 | [AKOBAM](https://open.spotify.com/track/0swMLKHRsRTnt9Nd5WwxFa) | [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ), [Kofi Mole](https://open.spotify.com/artist/0xhGPeT5o5Jt2xdywtD5by), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [AKOBAM](https://open.spotify.com/album/28jWq9AwZF1UpwWfnDjpR4) | 3:09 | 2022-06-09 |  |
 | [Akohwie](https://open.spotify.com/track/1d51OuwXfGfc6PwWezrwTS) | [Ypee](https://open.spotify.com/artist/73vIVPEHNYnSjvxwN5AX6P) | [Akohwie](https://open.spotify.com/album/5YHo8SQnebWXMA43Qoos51) | 2:54 | 2023-05-11 | 2023-06-17 |
 | [ALA BEKE 2](https://open.spotify.com/track/4K9AA4YDiI3y4NPKevpyGN) | [EverythingOShauN](https://open.spotify.com/artist/5OTdYlGM1r6HuTFAonqq03), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [ALA BEKE 2](https://open.spotify.com/album/2sDHYMxotwVrr40MSel3PG) | 2:59 | 2023-10-27 | 2024-01-05 |
@@ -37,7 +38,7 @@
 | [Asuoden](https://open.spotify.com/track/7Jhg0wUE87NsCY21UdVfu2) | [Sista Afia](https://open.spotify.com/artist/62sda22OXnPueH8d35gZKf), [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [Asuoden](https://open.spotify.com/album/4WANfxrP1zuuX4oxBSek38) | 3:35 | 2024-04-05 |  |
 | [Awoyo Sofo](https://open.spotify.com/track/0AYl4k8cN3YXxVb88azE9K) | [Kwaw Kese](https://open.spotify.com/artist/5orboL2SUTJGDKfMVgCCBt), [Kofi Mole](https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac) | [Awoyo Sofo](https://open.spotify.com/album/0GvruFtY50oHOTlsixNnah) | 3:15 | 2024-02-23 |  |
 | [Badman](https://open.spotify.com/track/5C2dzL3VyfP0dFnvKWplYn) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw) | [Badman](https://open.spotify.com/album/29RXmKEbM33hbEJTaTCLXC) | 3:37 | 2022-09-29 | 2024-01-05 |
-| [Balling](https://open.spotify.com/track/6Uy0HWtCberVnkKRKzWWmj) | [Kwaw Kese](https://open.spotify.com/artist/5orboL2SUTJGDKfMVgCCBt) | [Balling](https://open.spotify.com/album/2FqS1rete3J3Viej1Du06g) | 2:46 | 2024-05-17 |  |
+| [Balling](https://open.spotify.com/track/6Uy0HWtCberVnkKRKzWWmj) | [Kwaw Kese](https://open.spotify.com/artist/5orboL2SUTJGDKfMVgCCBt) | [Balling](https://open.spotify.com/album/2FqS1rete3J3Viej1Du06g) | 2:46 | 2024-05-17 | 2024-06-01 |
 | [BASELINE](https://open.spotify.com/track/4jWFICufHHnaCDrtCeUGyV) | [Damy](https://open.spotify.com/artist/6Rd7l8PLs9gpbqEQ9hSpmP), [YokeeGilla](https://open.spotify.com/artist/3Y54NinYYRIlsNUzu39We4) | [BASELINE](https://open.spotify.com/album/5GUeHyG26KMyh1kKEejzcZ) | 3:13 | 2022-11-04 | 2022-12-09 |
 | [Bebe](https://open.spotify.com/track/04qKXcYDIIWVLdCTZCdUQm) | [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM) | [Bebe](https://open.spotify.com/album/1rFjsoBsPodLHBYQG8S8H6) | 2:07 | 2022-06-16 |  |
 | [Benzo](https://open.spotify.com/track/3hPcNThRzQXeAKEAENbigw) | [Dj Adwoa](https://open.spotify.com/artist/3JfFJpaSpXYHQKivBzJhZ1), [Malcolm Nuna](https://open.spotify.com/artist/5MMirduKxjz3OQSLiQfBcT) | [Benzo](https://open.spotify.com/album/0Aci22BAMAs616RwXIVSk1) | 2:47 | 2022-06-09 | 2024-01-19 |

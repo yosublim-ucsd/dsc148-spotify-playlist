@@ -637,6 +637,24 @@
     },
     {
       "album": {
+        "name": "Go Fast Go Slow",
+        "url": "https://open.spotify.com/album/4guZazBU1hvkD6Cyr6rVcG"
+      },
+      "artists": [
+        {
+          "name": "Dolores Forever",
+          "url": "https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219612,
+      "name": "Go Fast Go Slow",
+      "url": "https://open.spotify.com/track/3oZrkb4jSbqgCnHpe7x6Bz"
+    },
+    {
+      "album": {
         "name": "EiGHTYF!VE",
         "url": "https://open.spotify.com/album/6oClhRDiDoUEfrmVfYCIMr"
       },

@@ -4,7 +4,7 @@
 
 > Sucessos do pagode pra cantar junto, sem descanso e sem freio! Foto: Belo
 
-125 songs - 10 hr 49 min
+126 songs - 10 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [Vento dos Areais / Apelo / Pura Solidão \- Ao Vivo](https://open.spotify.com/track/3dVsSZMN7GRAC3xsWStJuB) | [Vou pro Sereno](https://open.spotify.com/artist/6LWehyU6oi1UVgwp2PhVEZ) | [Jogando em Casa \(Ao Vivo\)](https://open.spotify.com/album/1ZsXRycbphQ4lVSDuUISuK) | 5:24 | 2023-12-29 |  |
 | [Você Me Vira A Cabeça \(Me Tira Do Sério\) / Depois Do Prazer \- Ao Vivo](https://open.spotify.com/track/053FHzzKyvldCcvE3aaQwN) | [Mumuzinho](https://open.spotify.com/artist/34dfPo3Zi55yM6oV46q4y7) | [Resenha De Verão \(Ao Vivo\)](https://open.spotify.com/album/7L2kB8r4a0eExXVRwaYsJB) | 5:00 | 2024-02-09 |  |
 | [Você Pode / Você Não Sabe Voltar \- Ao Vivo](https://open.spotify.com/track/7BHsyBZDLiAzZ9rMCfY9I4) | [Pixote](https://open.spotify.com/artist/0ciLF0bOuu2BhqzCEZgHoB) | [Pixote House Music, EP 01 \(Ao Vivo\)](https://open.spotify.com/album/5cSMxRT91NZn4o8BX1RG0h) | 4:19 | 2023-12-29 |  |
+| [Você Sempre Será / Não Dá Pra Resistir \- Ao Vivo](https://open.spotify.com/track/3nKNLeDJowBgJfPLX2TNRT) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Serenata da GG, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/2rKJHBwHEuztGQqjBkDDAK) | 3:55 | 2024-05-31 |  |
 | [Volta Pra Casa / Em Suas Mãos / Disfarça \- Ao Vivo](https://open.spotify.com/track/3x4b2xOaKzeMxTozL4LU52) | [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG), [Suel](https://open.spotify.com/artist/4hpKB93agzoncsTXEstSpK), [Doce Encontro](https://open.spotify.com/artist/1PJUNmhJf3lfQx2mxxQTg4) | [Sorriso Eu Gosto No Pagode \- Parte 1 \(Ao Vivo\)](https://open.spotify.com/album/0XclkMPoy9RZWvp1lwT29v) | 7:27 | 2024-02-23 |  |
 | [Ápice do Amor / Boomerang](https://open.spotify.com/track/5kDh9H9mCf7bjORSGR9dE5) | [Vitor Limma](https://open.spotify.com/artist/2EQphX0SGBPXvRWS7DUyu1) | [Minha Fé](https://open.spotify.com/album/4zp6nxdZDlQ8Aucz0KCSju) | 3:10 | 2024-03-22 | 2024-04-06 |
 | [É Diferente / Preciso Te Amar](https://open.spotify.com/track/3qQfwIth3DCwreZsze7zyz) | [Cantor Jon](https://open.spotify.com/artist/3mF0QHt4NBaji3FVAEGjdT) | [É Diferente / Preciso Te Amar](https://open.spotify.com/album/41r0Pr6THbzh7NTqFhR63Q) | 2:53 | 2023-12-29 |  |
@@ -132,6 +133,6 @@
 | [É Na Madrugada / Amor Bipolar / A Casa Caiu \- Ao Vivo](https://open.spotify.com/track/1r7Ik46RmpvfQAfBu40No6) | [Bom Gosto](https://open.spotify.com/artist/4SaxUo7mfdHBowU0llwxFd), [Vitinho](https://open.spotify.com/artist/09djLPsTydbIFC9duW5mQp) | [Guerêguerê, Bloco 6 \(Ao Vivo\)](https://open.spotify.com/album/5ABomsOe78kUOdG1ZJHt7V) | 4:27 | 2024-01-26 |  |
 | [É no Pagode / Já Que Tá Gostoso Deixa \- Ao Vivo](https://open.spotify.com/track/2rQUkdMGz5kvc9l9zt2bdb) | [Péricles](https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z) | [Mensageiro do Amor, Pt\. 1 \(Ao Vivo\)](https://open.spotify.com/album/7jVb3Lcaakq6q2P8OwqlZx) | 4:47 | 2023-12-29 | 2024-02-24 |
 | [É tarde Demais / Essa Tal Liberdade / Inaraí \- Ao Vivo](https://open.spotify.com/track/2v0GhuP7TiSIGSPy5szhi2) | [Di Propósito](https://open.spotify.com/artist/2uSwBbWqsXgoMYQjynmwQ7) | [Encontrin 2 \(Ao Vivo\)](https://open.spotify.com/album/4oZHsyeGM0RGSJlfGZWeo9) | 4:10 | 2024-01-12 | 2024-04-19 |
-| [É tarde Demais / Essa Tal Liberdade / Inaraí \- Ao Vivo](https://open.spotify.com/track/2yt0zPxUhA5BGsbr2L9A3G) | [Di Propósito](https://open.spotify.com/artist/2uSwBbWqsXgoMYQjynmwQ7) | [Encontrin 2 \- Parte 3 \(Ao Vivo\)](https://open.spotify.com/album/5RlOWF7u2FMWqMBmwCDnca) | 4:10 | 2023-12-29 |  |
+| [É tarde Demais / Essa Tal Liberdade / Inaraí \- Ao Vivo](https://open.spotify.com/track/2yt0zPxUhA5BGsbr2L9A3G) | [Di Propósito](https://open.spotify.com/artist/2uSwBbWqsXgoMYQjynmwQ7) | [Encontrin 2 \- Parte 3 \(Ao Vivo\)](https://open.spotify.com/album/5RlOWF7u2FMWqMBmwCDnca) | 4:10 | 2023-12-29 | 2024-06-01 |
 
 \*This playlist was first scraped on 2023-12-31. Prior content cannot be recovered.

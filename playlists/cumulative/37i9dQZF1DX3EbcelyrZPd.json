@@ -729,6 +729,28 @@
     },
     {
       "album": {
+        "name": "Binadamu",
+        "url": "https://open.spotify.com/album/04SFgj5xxBQwQ1prI2dsdo"
+      },
+      "artists": [
+        {
+          "name": "Kontawa",
+          "url": "https://open.spotify.com/artist/0eAIknlSpzsXC7ScIOXjZk"
+        },
+        {
+          "name": "Harmonize",
+          "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218984,
+      "name": "Binadamu",
+      "url": "https://open.spotify.com/track/46fCV9CpYqcmSlFVQ7QS4v"
+    },
+    {
+      "album": {
         "name": "Blessing",
         "url": "https://open.spotify.com/album/3WIKezrOdZBshDKQmzyXbh"
       },
@@ -3328,7 +3350,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 188389,
       "name": "Look At Me (feat. Darassa)",
       "url": "https://open.spotify.com/track/2xKxUYprwnd2IQOOo1Ifhj"
@@ -3464,6 +3486,28 @@
       "duration_ms": 202573,
       "name": "Maan Meri Jaan (African Version)",
       "url": "https://open.spotify.com/track/709Eo5HgTz3di5xVkTWr4b"
+    },
+    {
+      "album": {
+        "name": "Maboss",
+        "url": "https://open.spotify.com/album/0nTktZFWQMEakTPU7qHPcI"
+      },
+      "artists": [
+        {
+          "name": "Billnass",
+          "url": "https://open.spotify.com/artist/2M65k1sV0TdWJxtHBR4YI4"
+        },
+        {
+          "name": "Jux",
+          "url": "https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200400,
+      "name": "Maboss",
+      "url": "https://open.spotify.com/track/3Lz0ZcT8qSzKMinHdIH3dH"
     },
     {
       "album": {
@@ -6006,7 +6050,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 182000,
       "name": "Samaleko",
       "url": "https://open.spotify.com/track/1TfAUIxVO6eUrM3aSSsJWw"
@@ -7072,7 +7116,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 189548,
       "name": "This Love",
       "url": "https://open.spotify.com/track/2qMwrsE1QFVCHlKGgs49Y0"
@@ -8290,6 +8334,28 @@
       "duration_ms": 279971,
       "name": "Zazazela (feat. Zaba)",
       "url": "https://open.spotify.com/track/0o6JLvQdoPDPC2MKVO0ZTk"
+    },
+    {
+      "album": {
+        "name": "Zoba",
+        "url": "https://open.spotify.com/album/5uML55NyKv8bCQRHhROyqh"
+      },
+      "artists": [
+        {
+          "name": "Platform",
+          "url": "https://open.spotify.com/artist/6b4FmhYEMo14E648KMF8Md"
+        },
+        {
+          "name": "Abigail Chams",
+          "url": "https://open.spotify.com/artist/3jFSzxz2HWuQ7fDishuCE8"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216637,
+      "name": "Zoba",
+      "url": "https://open.spotify.com/track/6x3liByFkS6SWGUWHUKsjL"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX3EbcelyrZPd"

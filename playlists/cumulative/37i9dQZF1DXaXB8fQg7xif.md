@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Dance</a> to the rhythm and move your feet!
 
-1,113 songs - 2 day 11 hr 56 min
+1,114 songs - 2 day 11 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -319,7 +319,7 @@
 | [Everybody Wants To Party](https://open.spotify.com/track/3hbi5zXAgQt0Z9V5JSOnCe) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [JØRD](https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV) | [Everybody Wants To Party](https://open.spotify.com/album/5gQsKvFQiPKop7tVdbvNSj) | 3:04 | 2021-02-28 | 2022-12-15 |
 | [Everyone](https://open.spotify.com/track/1b27zUMtkjBkLpxtK77gR8) | [VOLAC](https://open.spotify.com/artist/4Nl6PVYLwbCFfr3UqQlFtE) | [Everyone](https://open.spotify.com/album/5r0RFbLJaZ1u7PLuL6Dk8C) | 3:06 | 2020-10-13 | 2021-10-11 |
 | [Everything You Have Done \- Meduza Edit](https://open.spotify.com/track/5ooCfBqZyTB5CTdu1x7S77) | [GENESI](https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7), [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu) | [Everything You Have Done \(Meduza Edit\)](https://open.spotify.com/album/6MHJBq2F6942ToNXteGQTe) | 2:36 | 2023-03-17 | 2023-07-21 |
-| [Everywhere](https://open.spotify.com/track/2hIlV0UAOhsbvRp9KV1pOG) | [Babsy.](https://open.spotify.com/artist/1BjdCHWqVEwBktJLHOUhmk) | [Everywhere](https://open.spotify.com/album/37og7S56FzrRuRI8Jvzxjq) | 2:46 | 2023-09-01 |  |
+| [Everywhere](https://open.spotify.com/track/2hIlV0UAOhsbvRp9KV1pOG) | [Babsy.](https://open.spotify.com/artist/1BjdCHWqVEwBktJLHOUhmk) | [Everywhere](https://open.spotify.com/album/37og7S56FzrRuRI8Jvzxjq) | 2:46 | 2023-09-01 | 2024-06-01 |
 | [Expressing What Matters](https://open.spotify.com/track/1cz5UfKK1ZCKYMylCHsUI6) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Etran](https://open.spotify.com/album/2X0qQbmpTzSmURWNSjxEUU) | 4:23 | 2020-07-01 | 2020-12-12 |
 | [Eyes On You](https://open.spotify.com/track/1evX3NUBE7QujnSmky2ox4) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Quarterhead](https://open.spotify.com/artist/2h6hAChW74hB9HvrNoK1RY) | [Eyes On You](https://open.spotify.com/album/6UiYJyJVz6xIwlYOL6g4WI) | 3:22 | 2021-11-21 | 2022-07-29 |
 | [F.O.M.F\. \- Petty Penguin Remix](https://open.spotify.com/track/44qpw2NGXSLCbQsDc1UZKg) | [DJ Tazz Xx](https://open.spotify.com/artist/21mCpgs4IhPMGKOhotkra7), [Koolby Loach](https://open.spotify.com/artist/2zfv2f7qJNhGCVMPosuhj4), [Petty Penguin](https://open.spotify.com/artist/06Sz7X326yoBcrGtAEIiv0) | [F.O.M.F\. \(Petty Penguin Remix\)](https://open.spotify.com/album/48KNcThC969iwTkT4jp1DM) | 2:24 | 2021-02-28 | 2021-12-20 |
@@ -530,6 +530,7 @@
 | [Kids \(feat\. MKLA\)](https://open.spotify.com/track/3rgTS3933lMWoPiN6CW4qY) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Stefy De Cicco](https://open.spotify.com/artist/5v3JgLiZtNnw6ablRjjNKK), [MKLA](https://open.spotify.com/artist/57Vnemieu10x71jR2UWc4o) | [Kids \(feat\. MKLA\)](https://open.spotify.com/album/3iYUmg1PpY33KH7QW0goe1) | 3:04 | 2020-12-12 | 2023-03-21 |
 | [Kilt](https://open.spotify.com/track/2xYGMOnVUO9P62uiYDu4aD) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4) | [Bucklyn Bridge EP](https://open.spotify.com/album/6L25aUr2Ntt2pfYfXMcpDp) | 4:47 | 2022-07-14 | 2022-07-30 |
 | [Kimbara](https://open.spotify.com/track/3iHrGCUXfZ4BoOy615Ydbk) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Kimbara](https://open.spotify.com/album/2lrh7eGF5BhF70i5VPJ3Nu) | 3:09 | 2024-05-17 |  |
+| [Kisses \(feat\. bbyclose\)](https://open.spotify.com/track/1bJRd2ey6ER7neSxZwYdAG) | [BL3SS](https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI), [CamrinWatsin](https://open.spotify.com/artist/20rKUmFZsfv9GBXiv6R9d6), [bbyclose](https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH) | [Kisses \(feat\. bbyclose\)](https://open.spotify.com/album/3eIA3WFdBvYVUP8sVD5p34) | 2:18 | 2024-05-31 |  |
 | [KNOCK](https://open.spotify.com/track/6FZeriWMXd5ciTN7GvC0od) | [Stafford Brothers](https://open.spotify.com/artist/1dnbud9cuozLQ86MtrDPFr) | [KNOCK](https://open.spotify.com/album/1n2jn8sdC7e49M2AU8PBda) | 2:34 | 2020-05-22\* | 2021-12-21 |
 | [KNOW ME \(feat\. Gallant\) \- Cassian Remix](https://open.spotify.com/track/5o7J8jj5tlxVDSo6VJtpyA) | [BRONSON](https://open.spotify.com/artist/60yfafz0P3gqaUaOUIddae), [Gallant](https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM), [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD) | [KNOW ME \(feat\. Gallant\) \[Cassian Remix\]](https://open.spotify.com/album/3UzGm4c9CDCZ2sg7fGzT8l) | 5:13 | 2020-12-12 | 2021-10-31 |
 | [Know My Name](https://open.spotify.com/track/1JeM2RHVfWP3S4mKE3akNf) | [TS7](https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki) | [Know My Name](https://open.spotify.com/album/4u3WpX3v5gyBHFqfH5JObW) | 3:03 | 2022-08-18 | 2022-11-19 |

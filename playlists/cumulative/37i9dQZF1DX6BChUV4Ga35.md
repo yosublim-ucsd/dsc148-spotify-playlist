@@ -4,7 +4,7 @@
 
 > Your family can visit all of the animals at the zoo with this fun playlist.
 
-129 songs - 4 hr 25 min
+132 songs - 4 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Counting Ducks Song](https://open.spotify.com/track/2XGBwiSqhsW9q8pW4AidEg) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Animal Songs and Nursery Rhymes for Children, Vol\. 3 \- Fun Songs for Learning with LittleBabyBum](https://open.spotify.com/album/2wHrjY2KwfaFSKpZgnvILo) | 1:31 | 2022-07-25 | 2024-04-19 |
 | [Counting Ducks Song](https://open.spotify.com/track/3VtMpvScmQ4xkMGImxWdxy) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Learning Songs, Vol\. 1 \- Counting!](https://open.spotify.com/album/1zKvQCMJ57vF2jaz8LmEUw) | 1:31 | 2022-07-25 | 2022-11-14 |
 | [Did You Ever See My Tail?](https://open.spotify.com/track/1haPzV8dBR3FvptN1lNoCr) | [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ) | [Pinkfong Animal Songs](https://open.spotify.com/album/1S7mumn7D4riEX2gVWYgPO) | 1:22 | 2022-02-01 |  |
+| [Do the Kangaroo](https://open.spotify.com/track/48gha42DBvDkjANMVAiBPw) | [Bounce Patrol](https://open.spotify.com/artist/1S9SPfRo9eyxOcyfUGC2Tm) | [Do the Kangaroo](https://open.spotify.com/album/7qxZpMcDUyv5YYLLAzws0P) | 2:21 | 2024-05-31 |  |
 | [Dogs](https://open.spotify.com/track/2RsQZgQHJw9hyd9QUGRu6Z) | [Pancake Manor](https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C) | [Two](https://open.spotify.com/album/6eFe2gk6yWva9NWjnf1OZ8) | 1:18 | 2022-02-01 |  |
 | [Dogs](https://open.spotify.com/track/473e0j6PiArwNNJQpoWYBx) | [Pancake Manor](https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C) | [Kids Greatest Hits](https://open.spotify.com/album/5kKwfM44v9L2Qwd9tT5GLp) | 1:18 | 2022-07-25 | 2022-11-13 |
 | [Dogs](https://open.spotify.com/track/52YD3sS5nlxobEQMFIqHTQ) | [Pancake Manor](https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C) | [Two](https://open.spotify.com/album/74vPkTi3lT9XeI5lmiKSkr) | 1:18 | 2022-07-25 | 2024-04-19 |
@@ -105,6 +106,7 @@
 | [Owl Singalong](https://open.spotify.com/track/7iiDUCVjMzxSePQXRtFXBc) | [Raffi](https://open.spotify.com/artist/7oWSqrgMuIEyH9qp5nu2e5) | [Owl Singalong](https://open.spotify.com/album/6doaSrp3HWeu4B6NeFZXaM) | 3:06 | 2022-02-01 |  |
 | [Panda](https://open.spotify.com/track/1jmJZ6zmmonqdjE0ts9kV6) | [Kevin Hart](https://open.spotify.com/artist/3rHl3rSgCnHhOlVB87ZxyF) | [The Secret Life of Pets 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1T0nc8HicExHdI8g8cF21a) | 0:44 | 2022-02-01 |  |
 | [Panda](https://open.spotify.com/track/5U51BJU0ncHHsLw9raErsS) | [Kevin Hart](https://open.spotify.com/artist/3rHl3rSgCnHhOlVB87ZxyF) | [The Secret Life Of Pets 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6v3cV4buefnvRAVq3WzAIE) | 0:44 | 2022-07-25 | 2024-04-19 |
+| [Platypus Song](https://open.spotify.com/track/4wy9CCI0qrZh0wffhJSHHZ) | [Cooltime](https://open.spotify.com/artist/5Cx0MO39eG4ElGaD1juoZQ) | [Platypus Song](https://open.spotify.com/album/7iceO55HH677pOcrGKPnwp) | 2:11 | 2024-05-31 |  |
 | [Say Hi to the Animals](https://open.spotify.com/track/0zjtrZUxd3h2R0uyI0xfVZ) | [Ralph's World](https://open.spotify.com/artist/4qIIexaFmYNueu5mnSQnzU) | [Happy Lemons](https://open.spotify.com/album/3BxUa5Rt3dtxwBY4tDhQz3) | 2:24 | 2022-02-01 |  |
 | [Shake Ya Tail](https://open.spotify.com/track/0ORDTWwFN2gdyMwzpyXr0v) | [Urban Tails](https://open.spotify.com/artist/06UozYz8Pa1cAYrMSWUYXI) | [Urban Tails](https://open.spotify.com/album/3CfzVCZnB0PR5HGfu7B5t5) | 1:46 | 2022-02-01 |  |
 | [Skunk Strut](https://open.spotify.com/track/2m6iI4WtUsCv3ifj8aa4cZ) | [Lucky Diaz and the Family Jam Band](https://open.spotify.com/artist/5rsiLbN9VsVXTfgpSGf6po) | [The Greatest Hits](https://open.spotify.com/album/4kw9H2V5Heb2w817M1JC5M) | 2:23 | 2022-02-01 |  |
@@ -116,6 +118,7 @@
 | [Sound Like an Elephant](https://open.spotify.com/track/390cQIHKe5Ufro9sM3TTQ3) | [Juice Box Heroes](https://open.spotify.com/artist/59jD6ZyWCyKIXj7wbUMgZs) | [Loose Tooth](https://open.spotify.com/album/7f8UTUkpTGEZmlYOZLUGk7) | 2:47 | 2022-02-01 |  |
 | [Spider Monkey](https://open.spotify.com/track/4j5i8MslfFh9gNjniurF34) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [StoryBots Animals](https://open.spotify.com/album/0GJyeC8pHZiH1dXQlf3ceh) | 1:02 | 2022-02-01 |  |
 | [Spider Monkey](https://open.spotify.com/track/4mtAzWPx9X4Jm5M2G9GjXM) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [StoryBots Animals](https://open.spotify.com/album/0OdtbuR79Jy940iJuFCKf7) | 1:02 | 2022-07-25 | 2024-04-19 |
+| [The Ant And The Elephant \- Nursery Rhymes](https://open.spotify.com/track/2HRupRvr6BY4wswlwqLnZK) | [LooLoo Kids](https://open.spotify.com/artist/2njkfzRhOJFKLWFTu8FNWx) | [The Ant And The Elephant \- Nursery Rhymes](https://open.spotify.com/album/2BkyBc4e9VebLWYq2c7BXv) | 2:06 | 2024-05-31 |  |
 | [The Busy Beaver Bop](https://open.spotify.com/track/47FgC7YjxcKOiAkDd01lU1) | [Wonderpop](https://open.spotify.com/artist/7iwQIhCOCbBS67PPd6UI9f) | [Volume 1](https://open.spotify.com/album/6bHKc2iHJjQ2KKDtxNlJcC) | 2:29 | 2022-02-01 |  |
 | [The Elephant](https://open.spotify.com/track/7aFRFQA17hIsuQ18y3cfFy) | [Hooray Kids Songs](https://open.spotify.com/artist/5tNlF8VeieGuXQzqzCU2Gd) | [The Elephant](https://open.spotify.com/album/1qBkdeuJDb3D8VVpeMN3PG) | 1:47 | 2024-03-15 |  |
 | [The Fox \(What Does the Fox Say?\)](https://open.spotify.com/track/5HOpkTTVcmZHnthgyxrIL8) | [Ylvis](https://open.spotify.com/artist/2lEOFtf3cCyzomQcMHJGfZ) | [The Fox \(What Does the Fox Say?\)](https://open.spotify.com/album/77QwsMRvonZJn7adV47V78) | 3:33 | 2022-02-01 |  |

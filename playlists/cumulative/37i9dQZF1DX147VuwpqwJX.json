@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "13 (I AM)",
+        "url": "https://open.spotify.com/album/5VwRoMUgxXvm9uMTfmgNVB"
+      },
+      "artists": [
+        {
+          "name": "B. Ames",
+          "url": "https://open.spotify.com/artist/4vTr4hPE8WSlvgo9dkSZNW"
+        },
+        {
+          "name": "TIM-E",
+          "url": "https://open.spotify.com/artist/1Z0Mw8RUk06dlI4sEmIGqZ"
+        }
+      ],
+      "date_added": "2024-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211500,
+      "name": "13 (I AM)",
+      "url": "https://open.spotify.com/track/76qbZw9u2YsACZ4OACA5z1"
+    },
+    {
+      "album": {
         "name": "Act Up",
         "url": "https://open.spotify.com/album/5zWxG6gbBylO8NkyS8wYfY"
       },
@@ -82,7 +104,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 236000,
       "name": "Bad Bitch",
       "url": "https://open.spotify.com/track/7Jst8eBHdUyvBO47a5wQIR"
@@ -152,7 +174,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 211866,
       "name": "Body",
       "url": "https://open.spotify.com/track/2iDsWFbO55Vo0I6Fm9hdP7"
@@ -199,6 +221,24 @@
     },
     {
       "album": {
+        "name": "BRING WET CUNT / HAMMERHEAD",
+        "url": "https://open.spotify.com/album/0h7kNFyQeqjU7no81ZAFnp"
+      },
+      "artists": [
+        {
+          "name": "Zheani",
+          "url": "https://open.spotify.com/artist/75xNYf2GU5wtQqBrd74SlY"
+        }
+      ],
+      "date_added": "2024-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138500,
+      "name": "BRING WET CUNT",
+      "url": "https://open.spotify.com/track/79vmq3eR63V6V4uGYuvxqa"
+    },
+    {
+      "album": {
         "name": "Bubble Drip (feat. Kassandra Ebony, WARREN B., Princess Precious)",
         "url": "https://open.spotify.com/album/6y7XQ3sLvFlr4fE6XFuhPQ"
       },
@@ -222,7 +262,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 222482,
       "name": "Bubble Drip (feat. Kassandra Ebony, WARREN B., Princess Precious)",
       "url": "https://open.spotify.com/track/3SrkobmkbqHaQzKFyZgmZA"
@@ -328,7 +368,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 126481,
       "name": "CLEARED - Remix",
       "url": "https://open.spotify.com/track/54L7uacUGRkvoLokUlNWfH"
@@ -494,7 +534,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 242293,
       "name": "Deep in Vogue - Introducing Lourdes & Willie Ninja",
       "url": "https://open.spotify.com/track/5cuAVhV0nGjImPZXBy9Tvt"
@@ -640,7 +680,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 187088,
       "name": "Face / Look at That",
       "url": "https://open.spotify.com/track/1TNXEYH0QnKribMnTSKXwu"
@@ -778,7 +818,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 388427,
       "name": "Fierce and Shady Tens (Gurl) [feat. Miss Jay]",
       "url": "https://open.spotify.com/track/2nNEOEmQoSCJ2DMGlDDtUl"
@@ -796,7 +836,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 559306,
       "name": "Fly Life Xtra",
       "url": "https://open.spotify.com/track/1JqUH3Nm8P5V3HffwMNmIb"
@@ -1003,6 +1043,28 @@
     },
     {
       "album": {
+        "name": "HERE COMES THE hURRICANE LEGENDARY KATRINA",
+        "url": "https://open.spotify.com/album/4pGODqNp9XOQbIY6uHMyFA"
+      },
+      "artists": [
+        {
+          "name": "Kevin Jz Prodigy",
+          "url": "https://open.spotify.com/artist/1ubi6HKbyDdK01A4lu05Lk"
+        },
+        {
+          "name": "LEGENDARY KATRINA EBONY",
+          "url": "https://open.spotify.com/artist/3z7rDacWd3OQ7Yh02wEBhP"
+        }
+      ],
+      "date_added": "2024-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60992,
+      "name": "HERE COMES THE hURRICANE LEGENDARY KATRINA",
+      "url": "https://open.spotify.com/track/6dhxNTHtpPyxruX9niWbvu"
+    },
+    {
+      "album": {
         "name": "Here I Come (feat. L.A.C) [Edit]",
         "url": "https://open.spotify.com/album/2b9C0p6z0wHFC2KSMAPCoZ"
       },
@@ -1044,7 +1106,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 128405,
       "name": "Hit It",
       "url": "https://open.spotify.com/track/60XKnJFLaCy2SH8bubf5pK"
@@ -1536,7 +1598,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 207607,
       "name": "Life of the Party",
       "url": "https://open.spotify.com/track/7bKPcPvIm5oYhFcGeHztdr"
@@ -1598,7 +1660,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 234503,
       "name": "Love the Girls",
       "url": "https://open.spotify.com/track/6xFco2Xpb1t1D8d3WeCGWD"
@@ -1634,7 +1696,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 254000,
       "name": "Mr. Banks",
       "url": "https://open.spotify.com/track/4cZGoah2KgIi8y1iZwq79i"
@@ -1652,7 +1714,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 182639,
       "name": "Musical Chairs",
       "url": "https://open.spotify.com/track/3fX94zWU2M0xwj4LACbyYx"
@@ -1674,7 +1736,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 389996,
       "name": "Nothing Without You",
       "url": "https://open.spotify.com/track/4HCjWPVlBQNVor12xzptGm"
@@ -1708,6 +1770,24 @@
       "duration_ms": 201529,
       "name": "Oh The Glamour",
       "url": "https://open.spotify.com/track/7CZqezgV2IyorX2tnR1hNt"
+    },
+    {
+      "album": {
+        "name": "Pills",
+        "url": "https://open.spotify.com/album/0prDxXtgB1YqIxP8heMSxc"
+      },
+      "artists": [
+        {
+          "name": "Brooke Candy",
+          "url": "https://open.spotify.com/artist/3amwMyDd1uxTBoUZlazZ9m"
+        }
+      ],
+      "date_added": "2024-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111999,
+      "name": "Pills",
+      "url": "https://open.spotify.com/track/1PqtEbs18Z61OhOZewxN6U"
     },
     {
       "album": {
@@ -1784,7 +1864,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 213453,
       "name": "Qweendom",
       "url": "https://open.spotify.com/track/58dK6i9NAMEs0HguHnwChP"
@@ -1842,7 +1922,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 228661,
       "name": "Scooby Dooby Boof",
       "url": "https://open.spotify.com/track/1ax9nndBPseVFcb0tXLDYa"
@@ -1900,7 +1980,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 180927,
       "name": "Show Me What You Got!",
       "url": "https://open.spotify.com/track/1Xzys6dX0jsREnWEc2ib9z"
@@ -2178,7 +2258,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 329539,
       "name": "Stunna",
       "url": "https://open.spotify.com/track/0B2rWVZN25CDSc59hA6R9X"
@@ -2254,7 +2334,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 205165,
       "name": "That's Just Who I Iz",
       "url": "https://open.spotify.com/track/3tpK56w6wfdAMup9pSlJ45"
@@ -2362,7 +2442,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 202773,
       "name": "The Ha Dance",
       "url": "https://open.spotify.com/track/4x1E99Fe36e06M5YbLBgMC"
@@ -2384,7 +2464,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 258461,
       "name": "This is CVNT - Original Mix",
       "url": "https://open.spotify.com/track/7szp97ML4nikrRXAeJpAvi"
@@ -2980,7 +3060,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 176129,
       "name": "Xtravaganza - Radio Edit",
       "url": "https://open.spotify.com/track/0qOlJjXhjlNfQG1OUvIEAT"
@@ -3020,7 +3100,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 161541,
       "name": "Yacuntcuntcunt",
       "url": "https://open.spotify.com/track/3KM4P4LjEABBRPyx5Ga7Vf"
@@ -3086,7 +3166,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 139653,
       "name": "Zooted",
       "url": "https://open.spotify.com/track/2ykG0vaUKJfN6E30xOmmIq"

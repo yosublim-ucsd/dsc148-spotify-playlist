@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "M\u00f6rkret i ljuset",
+        "url": "https://open.spotify.com/album/5N59H0i5NmYjwUcAF8Tb1c"
+      },
+      "artists": [
+        {
+          "name": "Hata Som Lejon",
+          "url": "https://open.spotify.com/artist/0Tdayxonpn7TNV0fNq1EMw"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115876,
+      "name": "24 psykologer",
+      "url": "https://open.spotify.com/track/1wtFAyKaWzZ5q2o4kZhba4"
+    },
+    {
+      "album": {
         "name": "Kallt St\u00e5l, Varmt Blod + I F\u00e4drens Sp\u00e5r",
         "url": "https://open.spotify.com/album/1rceLyJ9uvN9FSF9wqgz3t"
       },
@@ -950,7 +968,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-17",
+      "date_removed": null,
       "duration_ms": 96291,
       "name": "Det spelar ingen roll",
       "url": "https://open.spotify.com/track/0dUrBmCva4ajCAslQMYiyr"
@@ -1554,7 +1572,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 113570,
       "name": "End of Times",
       "url": "https://open.spotify.com/track/3eBQHA2BC6xonLLtQ1t2j7"
@@ -1626,7 +1644,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 77334,
       "name": "Europe Must Burn",
       "url": "https://open.spotify.com/track/02wjerbGfGEPRmgKlVdkww"
@@ -2120,7 +2138,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-24",
+      "date_removed": null,
       "duration_ms": 248640,
       "name": "Hon F\u00e5r...",
       "url": "https://open.spotify.com/track/3Ct9pVOfBcYnGr4NJ4QnSH"
@@ -2192,7 +2210,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 109120,
       "name": "I Din Sol",
       "url": "https://open.spotify.com/track/5gihLvviOhCQSs80u4tRiF"
@@ -2210,7 +2228,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 166000,
       "name": "I populismens klor",
       "url": "https://open.spotify.com/track/206QNNcVsaMoe0Mdz0jaFK"
@@ -2246,7 +2264,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 77760,
       "name": "Ingen \u00e4ger mig",
       "url": "https://open.spotify.com/track/5dmO8OXn6YkF5r1bCZDPIT"
@@ -2914,7 +2932,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-03",
+      "date_removed": null,
       "duration_ms": 148653,
       "name": "Lisa",
       "url": "https://open.spotify.com/track/34LbkBmXcOH2NaBJWm4I8L"
@@ -3184,7 +3202,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 74465,
       "name": "L\u00c5T MIG D\u00d6",
       "url": "https://open.spotify.com/track/3xsfRcllce9q5KSo5KYHKc"
@@ -3886,7 +3904,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 31000,
       "name": "POSITIVE HARDCORE",
       "url": "https://open.spotify.com/track/6UbdBdMpwo6oc69X8iaWhF"
@@ -4174,7 +4192,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-24",
+      "date_removed": null,
       "duration_ms": 168214,
       "name": "R\u00e4tt eller fel",
       "url": "https://open.spotify.com/track/4owIvrzKy4uNuvTpqwvlhF"
@@ -4606,7 +4624,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 278300,
       "name": "Stad i ljus",
       "url": "https://open.spotify.com/track/2YyAY35oZSKbq2M3WlUYj5"
@@ -4678,7 +4696,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-24",
+      "date_removed": null,
       "duration_ms": 204132,
       "name": "St\u00e4ll Dig Upp",
       "url": "https://open.spotify.com/track/0s5ek8dVFie1ILTVSbT22s"
@@ -4826,6 +4844,24 @@
       "duration_ms": 125226,
       "name": "S\u00f6ndring och splittring",
       "url": "https://open.spotify.com/track/2gEUrLsQg9suXHHhcXZeOU"
+    },
+    {
+      "album": {
+        "name": "Samling i s\u00e4rklass",
+        "url": "https://open.spotify.com/album/3ToAC3pLqmeHGRBTBmEK9S"
+      },
+      "artists": [
+        {
+          "name": "Krigsstigen",
+          "url": "https://open.spotify.com/artist/5ZF0a9S7KDBjgr5BUZDVHC"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163080,
+      "name": "Ta st\u00e4llning",
+      "url": "https://open.spotify.com/track/3GENhjdodAEroiioaU01Fv"
     },
     {
       "album": {
@@ -5074,7 +5110,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-06",
+      "date_removed": null,
       "duration_ms": 130360,
       "name": "Troll och h\u00e4xor",
       "url": "https://open.spotify.com/track/0VsgAzswvCa3J7SWD9liq2"
@@ -5236,7 +5272,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 118770,
       "name": "Utsugare",
       "url": "https://open.spotify.com/track/5HNtfpuToKHzDKOPwORi6j"
@@ -5488,7 +5524,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-17",
+      "date_removed": null,
       "duration_ms": 169266,
       "name": "Vill inte va med",
       "url": "https://open.spotify.com/track/2i2sGdp41DUMH3VxUS6Zu9"

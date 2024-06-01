@@ -2,9 +2,9 @@
 
 ### [SA Rock ](https://open.spotify.com/playlist/37i9dQZF1DX9mHcd54VItZ)
 
-> The best classic and new sounds from South African Rock\. Cover: <a href="https://open.spotify.com/artist/4FvIuLbPat5vSttuzmM7VE?si=JYtPHoRASdO2CzgkhyN3sQ">VOLK</a>
+> The best classic and new sounds from South African Rock\. Cover: <a href="https://open.spotify.com/artist/2AT751CV7Ass28MqGa0CCG">Vancoet</a>
 
-471 songs - 1 day 4 hr 7 min
+472 songs - 1 day 4 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,7 +174,7 @@
 | [Girl You Made Me Bad](https://open.spotify.com/track/28asKrTduKTrMExly9z8Zo) | [Sugardrive](https://open.spotify.com/artist/283E3ICiG1Fiec39Rxel0n) | [Sand.Man.Sky](https://open.spotify.com/album/5M3opHjZ5u2jQ5gF7GVzfM) | 4:52 | 2024-01-04 | 2024-03-30 |
 | [Glide Stride](https://open.spotify.com/track/5TKySOZAIyhdpzwN01SDux) | [Alibi Friday](https://open.spotify.com/artist/0sm3avs6uL4bzr7n45MLkg) | [Glide Stride](https://open.spotify.com/album/2Me4bFxziBPEr9omsL9LYV) | 5:02 | 2023-12-14 | 2024-01-05 |
 | [Gods Gift](https://open.spotify.com/track/5APaebgO8j2iv9948t0s4N) | [Beyond Rebellion](https://open.spotify.com/artist/4Xl49RTIZKi3DYvoC1AkXe) | [Gods Gift](https://open.spotify.com/album/2gQmIomnl7SgDVZyvqxMBi) | 3:16 | 2022-11-17 | 2023-03-03 |
-| [Good Life](https://open.spotify.com/track/4nZNhweRT6VJWd0XYeEzBQ) | [The Finkelstiens](https://open.spotify.com/artist/34ileyID0hIkQBkMpwwfCj) | [The Finkelstiens vs Rock n Roll](https://open.spotify.com/album/5rCcsjOvyWzENs0VB3Z24B) | 3:07 | 2024-01-04 |  |
+| [Good Life](https://open.spotify.com/track/4nZNhweRT6VJWd0XYeEzBQ) | [The Finkelstiens](https://open.spotify.com/artist/34ileyID0hIkQBkMpwwfCj) | [The Finkelstiens vs Rock n Roll](https://open.spotify.com/album/5rCcsjOvyWzENs0VB3Z24B) | 3:07 | 2024-01-04 | 2024-06-01 |
 | [Good Little Girl](https://open.spotify.com/track/4EZKWCPXpE1Oj8vI1U845y) | [Saturn Return](https://open.spotify.com/artist/6pv2CpHVYGzPjEtSggRQmt) | [Good Little Girl](https://open.spotify.com/album/2A2SF1ydODURrgfp9hOp8A) | 3:25 | 2023-05-05 | 2023-07-29 |
 | [Good Time](https://open.spotify.com/track/13bC2RZHqYhWOdUiMAH4O1) | [Filthy Hippies](https://open.spotify.com/artist/69KIxpkIadv1nMT3h6G8bC) | [Good Time](https://open.spotify.com/album/4m93HqALWDte1O3e6uIvm6) | 4:52 | 2023-08-11 | 2023-09-29 |
 | [Goodbye](https://open.spotify.com/track/3Dd9vV4lQ6TmHrlnRY1kau) | [Toughguy](https://open.spotify.com/artist/5eY8373kOFccKEfw4Nz3fK) | [Goodbye](https://open.spotify.com/album/1tFi3RKIVQU9ZQVHXF4POS) | 3:58 | 2023-12-14 | 2024-04-13 |
@@ -453,6 +453,7 @@
 | [Victim of Data](https://open.spotify.com/track/5DESqCo3i23bSBUg9r3p7a) | [Shameless Band](https://open.spotify.com/artist/1WMFWKZqX2Y5lW2SKetrMz) | [Victim of Data](https://open.spotify.com/album/3Q1NdGdXpdVh3DRXlQ3wrb) | 3:04 | 2023-08-31 | 2023-11-10 |
 | [Vir Ewig](https://open.spotify.com/track/4duchzNuzguXiPND75nVGr) | [William Wolf](https://open.spotify.com/artist/3QwFyw3JPeW3U1TJrtadaY) | [Vir Ewig](https://open.spotify.com/album/6vFklUu7QaerJHZdwOjpXZ) | 3:54 | 2023-08-31 | 2023-12-15 |
 | [Vodka and Smoke](https://open.spotify.com/track/514tQtj7uyLHMn2yGgJkmj) | [Metro Villa](https://open.spotify.com/artist/5ix8M9VgoCHupwSJu5022W) | [Vodka and Smoke](https://open.spotify.com/album/3oDXIxLl40ilYOg0yfIfZm) | 4:36 | 2023-03-09 | 2023-04-21 |
+| [Voel Jy Dit?](https://open.spotify.com/track/6PHxsiho5eloCFvuYseB7Y) | [Vancoet](https://open.spotify.com/artist/2AT751CV7Ass28MqGa0CCG) | [Voel Jy Dit?](https://open.spotify.com/album/0woO4IsAbmDoxLE2INCuE7) | 2:51 | 2024-05-31 |  |
 | [Vriend](https://open.spotify.com/track/4N0DKF5cPNjxPWRGLsXvvH) | [Armand Steenkamp](https://open.spotify.com/artist/4w6AsEneIpyV0x0Umntav5) | [Vriend](https://open.spotify.com/album/1nDlCjKf176FOs2ej8puEC) | 3:17 | 2023-09-15 | 2024-01-05 |
 | [Wabaleka](https://open.spotify.com/track/3hYjSz0QfFeaG9CTP8hNJF) | [Hawema](https://open.spotify.com/artist/6CWA38UpeY34SNOKY29peK) | [Hawema](https://open.spotify.com/album/5QZq4FHvOHdlgr1mts4T89) | 4:47 | 2023-04-20 | 2023-06-02 |
 | [WAR](https://open.spotify.com/track/45rrUms7GQkfj6XkWoNsmi) | [KVSE](https://open.spotify.com/artist/4IsB535rRnsghgHd9K4Iuz) | [WAR](https://open.spotify.com/album/2TBi0FV18WhlGi1zGbkgxE) | 1:46 | 2022-07-21 | 2022-11-25 |

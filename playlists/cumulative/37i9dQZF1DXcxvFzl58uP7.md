@@ -2,9 +2,9 @@
 
 ### [Bedroom Pop](https://open.spotify.com/playlist/37i9dQZF1DXcxvFzl58uP7)
 
-> Dreamy melodies and hushed vocals\. Cover: Still Woozy
+> Dreamy melodies and hushed vocals\. Cover: Clairo
 
-982 songs - 2 day 2 hr 59 min
+983 songs - 2 day 3 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -517,6 +517,7 @@
 | [Lil Baby Crush](https://open.spotify.com/track/6nXiaXqSZAJuOG6q66mZV1) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf) | [Lil Baby Crush](https://open.spotify.com/album/7xp9foM1WZspt8ypJD3aLf) | 2:21 | 2021-09-10 | 2022-04-18 |
 | [Lily](https://open.spotify.com/track/4vl9dAQphgp3kWPLg2gUXB) | [Francisco Martin](https://open.spotify.com/artist/1L0Ma0IvvAlshDIUBxoOGE) | [Lily](https://open.spotify.com/album/4isNJyjkK265rBCya1Zl5W) | 3:24 | 2023-06-09 | 2023-09-22 |
 | [Listen](https://open.spotify.com/track/0CIkEjigreAi3b1YCLBqzW) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Listen](https://open.spotify.com/album/48XJBOBdPzvV2zIZQsQjn7) | 2:30 | 2019-08-01 | 2021-05-25 |
+| [Little One](https://open.spotify.com/track/25CDamD1ROTPzl0sxP3rqs) | [Surely Shirley](https://open.spotify.com/artist/1X6Wtc4LhhMVsG78I869pB) | [Little One](https://open.spotify.com/album/4xD7rx6VteQLcL4F59Tr5t) | 3:37 | 2024-05-31 |  |
 | [lived to love](https://open.spotify.com/track/0WtSBij3WrxbY7BNnWJcqH) | [808vic](https://open.spotify.com/artist/0kzNGCruksB28DRbqhEfPM) | [lived to love](https://open.spotify.com/album/6vdc6p5GTtE9knNhNpXWVD) | 4:15 | 2022-09-14 | 2022-12-17 |
 | [lived to love](https://open.spotify.com/track/2m9N5pZkg7wkgLadlvWcpj) | [808vic](https://open.spotify.com/artist/0kzNGCruksB28DRbqhEfPM) | [lived to love](https://open.spotify.com/album/0zNnPMSDTJqoOrO75pCIvk) | 4:15 | 2021-10-08 | 2022-07-29 |
 | [Locura](https://open.spotify.com/track/2xukDcihOVcK9cBvpR25we) | [Juan Wauters](https://open.spotify.com/artist/7CKkZZW3XtnPmqlwaElmoV) | [Real Life Situations](https://open.spotify.com/album/3VnXrco4kkeesTPtAmVP2j) | 2:44 | 2021-05-01 | 2022-04-17 |
@@ -939,7 +940,7 @@
 | [Weather](https://open.spotify.com/track/2e2sjg5Na8ATIgwb1T7zWJ) | [Ginger Root](https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0) | [Weather](https://open.spotify.com/album/3paS9rIxYJJrpx3eO5Dw0C) | 3:42 | 2019-07-31 | 2021-05-25 |
 | [Weekend 4 the Girls \(Harmless Remix\)](https://open.spotify.com/track/59vGVqevIYgEEjtEF2UyL7) | [Dreamgirl](https://open.spotify.com/artist/7JPPLV24jlpVoHz5dHN6pR), [Harmless](https://open.spotify.com/artist/5dYGaoCO0iaUZKfl9K8Gtd) | [Weekend 4 the Girls \(Harmless Remix\)](https://open.spotify.com/album/3XO9m8Xqks6UpvTKvGaShl) | 4:33 | 2019-10-11 | 2019-10-12 |
 | [What Can I Say?](https://open.spotify.com/track/46PqBgfqrVVkuQgZJaK0SD) | [Sam Woods](https://open.spotify.com/artist/0mJP3OOM9MbqWmuEjgabcV) | [What Can I Say?](https://open.spotify.com/album/2Xnt0Apm23tipW2wXx1uXc) | 2:41 | 2020-05-17 | 2021-05-27 |
-| [What Happens In Your Head?](https://open.spotify.com/track/4wzVFbvPQB9Rz24NqkoWgQ) | [MOSSS](https://open.spotify.com/artist/5gRGeLfkGBsUOv9aJieEey) | [What Happens In Your Head?](https://open.spotify.com/album/7wjvbNdWmNkdyYy5FSfi5O) | 3:34 | 2023-07-14 |  |
+| [What Happens In Your Head?](https://open.spotify.com/track/4wzVFbvPQB9Rz24NqkoWgQ) | [MOSSS](https://open.spotify.com/artist/5gRGeLfkGBsUOv9aJieEey) | [What Happens In Your Head?](https://open.spotify.com/album/7wjvbNdWmNkdyYy5FSfi5O) | 3:34 | 2023-07-14 | 2024-06-01 |
 | [What Is Love? Tell Me, Is It Easy?](https://open.spotify.com/track/4Sr6N2pJXCb5VjdknAjblG) | [Hala](https://open.spotify.com/artist/1dTBAtLZBUB8Ir4PmJYw9t) | [Spoonfed](https://open.spotify.com/album/4eMIxtrxlRZjJtKnHBWcyg) | 3:50 | 2019-07-30\* | 2024-04-24 |
 | [What Should I Do?](https://open.spotify.com/track/0pyOM5TLmrs7fhTwgre7TG) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE) | [What Should I Do?](https://open.spotify.com/album/5qWCaXrUCojCxGFsBNFxxr) | 3:03 | 2024-01-12 |  |
 | [What U Give U Receive](https://open.spotify.com/track/5ep5oVYuJo4BJX2P8q1QbX) | [Crisaunt](https://open.spotify.com/artist/0cuIIYEWDS7V1iBl65NtL6) | [barista boy](https://open.spotify.com/album/4S6zDcqTEP5TjGudLb7eUA) | 2:05 | 2021-02-27 | 2022-04-21 |

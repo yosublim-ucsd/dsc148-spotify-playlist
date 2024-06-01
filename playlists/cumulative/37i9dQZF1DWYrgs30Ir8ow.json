@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "Altijd fris in Fresh Hits. Cover: Bizzey",
+  "description": "Altijd fris in Fresh Hits. Cover: Cristian D",
   "name": "Fresh Hits",
   "tracks": [
     {
@@ -1000,6 +1000,36 @@
       "duration_ms": 306847,
       "name": "Angel Numbers / Ten Toes",
       "url": "https://open.spotify.com/track/3XqM8hLCEYlbnFjoWwqtFv"
+    },
+    {
+      "album": {
+        "name": "Love Doesn't Exist",
+        "url": "https://open.spotify.com/album/6oGtt0Qwgq6rmLmMHydKDs"
+      },
+      "artists": [
+        {
+          "name": "Cristian D",
+          "url": "https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4"
+        },
+        {
+          "name": "ADF Samski",
+          "url": "https://open.spotify.com/artist/5qeFPM2PZUCzcpkY4e4RC8"
+        },
+        {
+          "name": "Lil Kleine",
+          "url": "https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT"
+        },
+        {
+          "name": "$hirak",
+          "url": "https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149507,
+      "name": "Anna",
+      "url": "https://open.spotify.com/track/0rYjHLCDkqtfzCiQqIqPGa"
     },
     {
       "album": {
@@ -4306,7 +4336,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 130173,
       "name": "Gezichten",
       "url": "https://open.spotify.com/track/55dawM1LFdFkQepYdEuidp"
@@ -4520,7 +4550,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 90115,
       "name": "GuGu",
       "url": "https://open.spotify.com/track/4EIup0G510mGZl4ZQKzAdl"
@@ -8061,6 +8091,24 @@
     },
     {
       "album": {
+        "name": "Parler Fran\u00e7ais",
+        "url": "https://open.spotify.com/album/0HpUDKGmUBuvEA3AyaMqRh"
+      },
+      "artists": [
+        {
+          "name": "Claude",
+          "url": "https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154400,
+      "name": "Parler Fran\u00e7ais",
+      "url": "https://open.spotify.com/track/0gfHldycqvlnoxGwTPu52Z"
+    },
+    {
+      "album": {
         "name": "Paycation",
         "url": "https://open.spotify.com/album/6GjClmEExbTt1OINtmw6zG"
       },
@@ -9888,7 +9936,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 142062,
       "name": "Stick To Your Ways",
       "url": "https://open.spotify.com/track/3YU5kaYun2AdIII0AqFJRN"
@@ -10214,6 +10262,24 @@
       "duration_ms": 161506,
       "name": "Tek Tek (feat. MHD)",
       "url": "https://open.spotify.com/track/4TBxB7MulrQ1Nb2uxHwJX1"
+    },
+    {
+      "album": {
+        "name": "Terug In De Tijd",
+        "url": "https://open.spotify.com/album/54hRAA81BH7x1af3X7ackS"
+      },
+      "artists": [
+        {
+          "name": "Yves Berendse",
+          "url": "https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187357,
+      "name": "Terug In De Tijd",
+      "url": "https://open.spotify.com/track/0vrKBjEBQAVn3sdhIXmpHE"
     },
     {
       "album": {

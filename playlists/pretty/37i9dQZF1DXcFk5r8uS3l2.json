@@ -1,13 +1,45 @@
 {
   "description": "You've come to the crossroads of soul, folk, and the blues. Cover: Amythyst Kiah",
-  "num_followers": 443727,
+  "num_followers": 443891,
   "original_name": "Blues Roots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlAQwAAAAAB3bEG4pz+2ai5M36OMNFYL",
+  "snapshot_id": "ZllLQAAAAACzAcLiYjEEANJSfystvDsZ",
   "tracks": [
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "Rainbow",
+        "url": "https://open.spotify.com/album/1mXzgR2g7EBg9o3uxtNd7H"
+      },
+      "artists": [
+        {
+          "name": "Ruthie Foster",
+          "url": "https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F"
+        }
+      ],
+      "duration_ms": 210059,
+      "name": "Rainbow",
+      "url": "https://open.spotify.com/track/5PibUn4hfGnwh0hS3mzMPs"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "Fresh Bones",
+        "url": "https://open.spotify.com/album/5YVPNyHgApTTHosueEDxEZ"
+      },
+      "artists": [
+        {
+          "name": "Lonesome Shack",
+          "url": "https://open.spotify.com/artist/72lMhHXgtmKeNQbfT5QLq3"
+        }
+      ],
+      "duration_ms": 194140,
+      "name": "Fresh Bones",
+      "url": "https://open.spotify.com/track/5TDEy1qTEFWwdWTZ9K9v3p"
+    },
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
@@ -1359,22 +1391,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Feels Like Freedom",
-        "url": "https://open.spotify.com/album/1oK1BuADbj2eCKKf24BPwL"
-      },
-      "artists": [
-        {
-          "name": "Ruthie Foster",
-          "url": "https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F"
-        }
-      ],
-      "duration_ms": 230760,
-      "name": "Feels Like Freedom",
-      "url": "https://open.spotify.com/track/14HCZEU2biaM0hEoOEq1vd"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Cherry Red Boots / Somebody Tryin\u2019 To HooDoo Me",
         "url": "https://open.spotify.com/album/12Ms9IQbpfywaJWETeoeBI"
       },
@@ -1387,22 +1403,6 @@
       "duration_ms": 278474,
       "name": "Somebody Tryin\u2019 to Hoodoo Me",
       "url": "https://open.spotify.com/track/3Od56s7dbG5gcDVYnSh1RR"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Worry",
-        "url": "https://open.spotify.com/album/4lsxhQoLG5OEUEfVlUgA9H"
-      },
-      "artists": [
-        {
-          "name": "Songhoy Blues",
-          "url": "https://open.spotify.com/artist/5fpQ5Qt2BKgoVBSMw4Z17Z"
-        }
-      ],
-      "duration_ms": 185160,
-      "name": "Worry",
-      "url": "https://open.spotify.com/track/1hAIPXpzfpBGsWGYTf69MM"
     },
     {
       "added_at": "2023-10-06 04:00:00",

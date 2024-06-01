@@ -1,13 +1,33 @@
 {
   "description": "The freshest Hip Hop and R&amp;B. ",
-  "num_followers": 23892,
+  "num_followers": 23889,
   "original_name": "Fresh Out",
   "owner": {
     "name": "EMPIRE",
     "url": "https://open.spotify.com/user/empiredistribution"
   },
-  "snapshot_id": "AAAlQzaA6eXK8q5XkgqFVUuLHh85VCke",
+  "snapshot_id": "AAAlTPCCMo3JHKwBwY/IsrU4qTxy2wV8",
   "tracks": [
+    {
+      "added_at": "2024-06-01 00:50:41",
+      "album": {
+        "name": "Songs About U",
+        "url": "https://open.spotify.com/album/4F6grP1bKnxdEDkwecx3IM"
+      },
+      "artists": [
+        {
+          "name": "Tink",
+          "url": "https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 180023,
+      "name": "Songs About U",
+      "url": "https://open.spotify.com/track/1iuNH5Ajdqt7O2NMon1EB5"
+    },
     {
       "added_at": "2024-05-20 21:39:32",
       "album": {
@@ -59,6 +79,122 @@
       "duration_ms": 155138,
       "name": "The Warm Up",
       "url": "https://open.spotify.com/track/6bLLiQAShrb742zp2sdoai"
+    },
+    {
+      "added_at": "2024-06-01 00:50:09",
+      "album": {
+        "name": "Where I've Been, Isn't Where I'm Going",
+        "url": "https://open.spotify.com/album/0DLvFVIfwt3OHdK9kGeEM3"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        },
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "duration_ms": 133124,
+      "name": "Drink Don't Need No Mix (feat. BigXthaPlug)",
+      "url": "https://open.spotify.com/track/1WhCAd5sv7rIO78kVgFxIt"
+    },
+    {
+      "added_at": "2024-06-01 00:50:28",
+      "album": {
+        "name": "Legend",
+        "url": "https://open.spotify.com/album/1ZTCGhCvCLoDdU1ndwX7Kp"
+      },
+      "artists": [
+        {
+          "name": "MO3",
+          "url": "https://open.spotify.com/artist/44JEJiBvti7NiEhAfzWstv"
+        },
+        {
+          "name": "Finesse2tymes",
+          "url": "https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Blood Money",
+      "url": "https://open.spotify.com/track/0x1PS9f3tqo9ggBE2s3BX3"
+    },
+    {
+      "added_at": "2024-06-01 00:51:22",
+      "album": {
+        "name": "Black & Whites",
+        "url": "https://open.spotify.com/album/19xH9G1FPWsOy62olFo47u"
+      },
+      "artists": [
+        {
+          "name": "Big Hit",
+          "url": "https://open.spotify.com/artist/1zQJBLCGM0tdPW9XwgdEll"
+        },
+        {
+          "name": "Hit-Boy",
+          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        },
+        {
+          "name": "Boldy James",
+          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
+        }
+      ],
+      "duration_ms": 196642,
+      "name": "Godfather, Pt. 2 (feat. Boldy James)",
+      "url": "https://open.spotify.com/track/2iXwOZE32JdvuWcUi6rd4G"
+    },
+    {
+      "added_at": "2024-06-01 00:51:45",
+      "album": {
+        "name": "Get Dough",
+        "url": "https://open.spotify.com/album/73jSMc3qCgVQxakcKvu1CD"
+      },
+      "artists": [
+        {
+          "name": "Zoe Osama",
+          "url": "https://open.spotify.com/artist/63FIRo90iuMjz2byQS6nmz"
+        }
+      ],
+      "duration_ms": 149133,
+      "name": "Get Dough",
+      "url": "https://open.spotify.com/track/5ELxgzoAV0552jMSuUuAtQ"
+    },
+    {
+      "added_at": "2024-06-01 00:51:59",
+      "album": {
+        "name": "FOR YOU",
+        "url": "https://open.spotify.com/album/78kj9yMQM2KxgcjznvccZ4"
+      },
+      "artists": [
+        {
+          "name": "Samuel Shabazz",
+          "url": "https://open.spotify.com/artist/20V5Q17099P2NNExkMStg7"
+        }
+      ],
+      "duration_ms": 181672,
+      "name": "FOR YOU",
+      "url": "https://open.spotify.com/track/4p6fJ7g1keUlBfr1kCAol7"
+    },
+    {
+      "added_at": "2024-06-01 00:52:10",
+      "album": {
+        "name": "The Hottest",
+        "url": "https://open.spotify.com/album/5npj2Lwx5HKLm8rbx0KFFy"
+      },
+      "artists": [
+        {
+          "name": "Rucci",
+          "url": "https://open.spotify.com/artist/7q836WTO8OHUS85E2RyxxA"
+        }
+      ],
+      "duration_ms": 158906,
+      "name": "The Hottest",
+      "url": "https://open.spotify.com/track/2otNrH5529jrNFIpbiBV4N"
     },
     {
       "added_at": "2024-05-20 21:40:03",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "De nieuwste Nederlandse pop! Cover: Hannah Mae & MAKSIM",
+  "description": "De nieuwste Nederlandse pop! Cover: QUIQUE",
   "name": "Je Moerstaal",
   "tracks": [
     {
@@ -1359,6 +1359,24 @@
     },
     {
       "album": {
+        "name": "Beter Met Z\u2019n Twee\u00ebn",
+        "url": "https://open.spotify.com/album/4mujtLSSs7gvBRs50JE4t0"
+      },
+      "artists": [
+        {
+          "name": "BENR",
+          "url": "https://open.spotify.com/artist/3lC07j0oFDXJflpeAjo9eZ"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190117,
+      "name": "Beter Met Z\u2019n Twee\u00ebn",
+      "url": "https://open.spotify.com/track/2716GiYd36LugxNYZB047Y"
+    },
+    {
+      "album": {
         "name": "Birkin",
         "url": "https://open.spotify.com/album/6JBwSQvRHF3HEmifjSWG3W"
       },
@@ -1637,6 +1655,24 @@
     },
     {
       "album": {
+        "name": "Brandende Zee",
+        "url": "https://open.spotify.com/album/19ijVBynplq41Q4ra9fVhf"
+      },
+      "artists": [
+        {
+          "name": "Tabitha",
+          "url": "https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229356,
+      "name": "Brandende Zee",
+      "url": "https://open.spotify.com/track/2Z9qbGSmIaIZEZeEfAjAUt"
+    },
+    {
+      "album": {
         "name": "Broekzak",
         "url": "https://open.spotify.com/album/7dO0EkaIp3HzIuwmUem66T"
       },
@@ -1706,6 +1742,24 @@
       "duration_ms": 165441,
       "name": "Bullshit",
       "url": "https://open.spotify.com/track/5TWAZg0WxDZxFkd3OqIzW1"
+    },
+    {
+      "album": {
+        "name": "Cabrio",
+        "url": "https://open.spotify.com/album/79KnDx5OhASjv5kskHRbRv"
+      },
+      "artists": [
+        {
+          "name": "Jasha Rudge",
+          "url": "https://open.spotify.com/artist/4viTemJKI4Rl9OzQJ8iGVL"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129103,
+      "name": "Cabrio",
+      "url": "https://open.spotify.com/track/248Ymld7H87hYWNFQjgj1m"
     },
     {
       "album": {
@@ -1800,7 +1854,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 141483,
       "name": "Consensual",
       "url": "https://open.spotify.com/track/3WzfdbLODInkYLnPDZ18x7"
@@ -1974,6 +2028,46 @@
       "duration_ms": 177650,
       "name": "Dansen Met Het Licht Uit",
       "url": "https://open.spotify.com/track/7E3Lo5lZo50eddRleg6y6Q"
+    },
+    {
+      "album": {
+        "name": "Dansen Met Je Dochter",
+        "url": "https://open.spotify.com/album/2Bep7dx4HCLATfDOv48gfC"
+      },
+      "artists": [
+        {
+          "name": "Matheu",
+          "url": "https://open.spotify.com/artist/5GKUHOGaoXmhdsDzuyFnAM"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155129,
+      "name": "Dansen Met Je Dochter",
+      "url": "https://open.spotify.com/track/13CT0XZzjTfHwp8BDGcMt3"
+    },
+    {
+      "album": {
+        "name": "Dansen Om Het Vuur",
+        "url": "https://open.spotify.com/album/2DL4ovMwpyC3hxQKGqCFxF"
+      },
+      "artists": [
+        {
+          "name": "Diggy Dex",
+          "url": "https://open.spotify.com/artist/4XQhU3S4TyPkiPIsSu2hmA"
+        },
+        {
+          "name": "Typhoon",
+          "url": "https://open.spotify.com/artist/6kBlEsdNeNW2qnmW56xDhx"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190702,
+      "name": "Dansen Om Het Vuur",
+      "url": "https://open.spotify.com/track/6m28vQjkw7kfEagXmJRI6Y"
     },
     {
       "album": {
@@ -3554,7 +3648,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 120000,
       "name": "Gek Doen (Annemijn)",
       "url": "https://open.spotify.com/track/2dUuayEzxpegdZx2zdrJTF"
@@ -4256,6 +4350,24 @@
       "duration_ms": 138655,
       "name": "HJB",
       "url": "https://open.spotify.com/track/4ahoARJMAvNB6ovGUh5l7B"
+    },
+    {
+      "album": {
+        "name": "HJB (Stil)",
+        "url": "https://open.spotify.com/album/0cLq1RpxhkE8tuA2hi6H7U"
+      },
+      "artists": [
+        {
+          "name": "Floris Keijzer",
+          "url": "https://open.spotify.com/artist/2zkxesVPDKamfWSZwF3MGC"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154818,
+      "name": "HJB (Stil)",
+      "url": "https://open.spotify.com/track/4iHggacNJlIn8m5qJzHqpE"
     },
     {
       "album": {
@@ -5124,7 +5236,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 162437,
       "name": "Jij voelt als de lente",
       "url": "https://open.spotify.com/track/6DrNj4dZsCEFflHIovlGyk"
@@ -5608,7 +5720,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 207365,
       "name": "Kus Me",
       "url": "https://open.spotify.com/track/3vcxViXJi2yQEliHiyKnQ3"
@@ -6027,6 +6139,24 @@
     },
     {
       "album": {
+        "name": "El Colomboland\u00e9s",
+        "url": "https://open.spotify.com/album/5kpYP9HhhizwdRuWI3cVR9"
+      },
+      "artists": [
+        {
+          "name": "QUIQUE",
+          "url": "https://open.spotify.com/artist/44IF5iKnm06JFziiLsHpyJ"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "Liefde Doet Pijn",
+      "url": "https://open.spotify.com/track/0dz6WOXIwroUc8fJs2DX3h"
+    },
+    {
+      "album": {
         "name": "Liever Dan Lief",
         "url": "https://open.spotify.com/album/2xBlCsxpTu5BjIToy8GeWI"
       },
@@ -6144,6 +6274,24 @@
       "duration_ms": 153634,
       "name": "Luchtkasteel",
       "url": "https://open.spotify.com/track/6jYvHA6LvFcTe9lCiuIc5f"
+    },
+    {
+      "album": {
+        "name": "Luigi",
+        "url": "https://open.spotify.com/album/0pafBW2d51borgq8KW3fZS"
+      },
+      "artists": [
+        {
+          "name": "Maks",
+          "url": "https://open.spotify.com/artist/0s350tLzNbk3Vj7rwZHXSI"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134103,
+      "name": "Luigi",
+      "url": "https://open.spotify.com/track/3wyB86mNbRT2dHO0A6TOan"
     },
     {
       "album": {
@@ -6499,6 +6647,28 @@
     },
     {
       "album": {
+        "name": "Mijn Huisje",
+        "url": "https://open.spotify.com/album/0fy34G5zLy2C86oi23Gph1"
+      },
+      "artists": [
+        {
+          "name": "Bolle Tito",
+          "url": "https://open.spotify.com/artist/20768ncxf9ouMj8IKAB6nc"
+        },
+        {
+          "name": "Lange Frans",
+          "url": "https://open.spotify.com/artist/5I2d294l90n7EMWVNUZczE"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "Mijn Huisje",
+      "url": "https://open.spotify.com/track/2S0b2igN6JP3gcokE7EXtE"
+    },
+    {
+      "album": {
         "name": "Mijn Liefste",
         "url": "https://open.spotify.com/album/0e8GrRuDkn3Ggvi1i1KqNg"
       },
@@ -6568,7 +6738,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 206925,
       "name": "Misschien Is Ooit Wel Nu",
       "url": "https://open.spotify.com/track/3rGpDPBdkLEmjFj9JwqvpH"
@@ -8092,6 +8262,24 @@
     {
       "album": {
         "name": "Samen",
+        "url": "https://open.spotify.com/album/55XhyytN7FTEHoNiGphKRe"
+      },
+      "artists": [
+        {
+          "name": "Ben Forte",
+          "url": "https://open.spotify.com/artist/0W1IlzwhrQJcdagiDZhrz7"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156312,
+      "name": "Samen",
+      "url": "https://open.spotify.com/track/6R8yIWBiagEoxILhcY1Hnw"
+    },
+    {
+      "album": {
+        "name": "Samen",
         "url": "https://open.spotify.com/album/7drCw1YJM30pRxnPrkSFja"
       },
       "artists": [
@@ -8720,7 +8908,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 173022,
       "name": "Stiekem Hoop Ik",
       "url": "https://open.spotify.com/track/0b4Tsr050Wl9OSv7CFFpY3"
@@ -9944,7 +10132,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 171605,
       "name": "Voelt Net Als Thuis",
       "url": "https://open.spotify.com/track/6FqgSBX2kjJWWa5j1jrKKN"
@@ -10162,7 +10350,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 174000,
       "name": "Waar Ben Je Bang Voor",
       "url": "https://open.spotify.com/track/1N2qmVOdqt66SP0CT968G7"
@@ -10528,7 +10716,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 209555,
       "name": "Wat ze wil",
       "url": "https://open.spotify.com/track/5YmsjL8WdTiObmZxfzdy6a"
@@ -10658,7 +10846,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 202869,
       "name": "Wees Niet Bang",
       "url": "https://open.spotify.com/track/7jkWQ2e92jOyjjhj2ZwVem"

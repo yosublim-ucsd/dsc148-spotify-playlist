@@ -3154,7 +3154,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 243209,
       "name": "Ballade Pour Elly",
       "url": "https://open.spotify.com/track/0p6olbVHkNaijGRG6IDEnK"
@@ -8628,6 +8628,24 @@
       "duration_ms": 117820,
       "name": "Floating",
       "url": "https://open.spotify.com/track/1fcPVf8Rqckxy4wxC4vYoz"
+    },
+    {
+      "album": {
+        "name": "floating points",
+        "url": "https://open.spotify.com/album/1lzsCo0nImfylCRb3IXvER"
+      },
+      "artists": [
+        {
+          "name": "May Laude",
+          "url": "https://open.spotify.com/artist/16RcZW1nYsx9RJ1gKSR4JG"
+        }
+      ],
+      "date_added": "2024-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125375,
+      "name": "floating points",
+      "url": "https://open.spotify.com/track/4SBeIeXLiDqCH7YHRFgGkD"
     },
     {
       "album": {
@@ -18479,6 +18497,24 @@
     },
     {
       "album": {
+        "name": "Once",
+        "url": "https://open.spotify.com/album/5f5y9Z2AYNtA2FfCAFZR0o"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "date_added": "2024-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125984,
+      "name": "Once",
+      "url": "https://open.spotify.com/track/7gTVQWqEGrqTuZkXpe43z1"
+    },
+    {
+      "album": {
         "name": "For Mom",
         "url": "https://open.spotify.com/album/6zeB2J9fBAIwzJrFrShiwb"
       },
@@ -27956,7 +27992,7 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 127250,
       "name": "Tr\u00e4umerei",
       "url": "https://open.spotify.com/track/5vz0Vls8TbtlI58CHQrIpb"
@@ -30816,7 +30852,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 463822,
       "name": "You Name It",
       "url": "https://open.spotify.com/track/4eFAsz4mMrJiFRGqgghYPj"

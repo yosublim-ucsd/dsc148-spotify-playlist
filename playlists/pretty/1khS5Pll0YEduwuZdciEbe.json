@@ -1,13 +1,29 @@
 {
-  "description": "Showcasing the world of Indie; feel the vibes and enjoy the ride. Cover: Clairo",
-  "num_followers": 8539,
+  "description": "Showcasing the world of Indie; feel the vibes and enjoy the ride. Cover: Idaho",
+  "num_followers": 8537,
   "original_name": "Chill Indie Music",
   "owner": {
     "name": "Digster Canada",
     "url": "https://open.spotify.com/user/digsterca"
   },
-  "snapshot_id": "AAAbBG8ytps57d5LpWGj1chWEu8BI8o5",
+  "snapshot_id": "AAAbB2e1coN8pch9N3HdDvP1WOSHq4Y1",
   "tracks": [
+    {
+      "added_at": "2024-05-31 13:42:00",
+      "album": {
+        "name": "Lapse",
+        "url": "https://open.spotify.com/album/0yVXpZlLkbX7SimNNFF3v3"
+      },
+      "artists": [
+        {
+          "name": "Idaho",
+          "url": "https://open.spotify.com/artist/5lQ9ygSr6WMqXYsG00nNNY"
+        }
+      ],
+      "duration_ms": 212736,
+      "name": "Kamikaze",
+      "url": "https://open.spotify.com/track/2zjA1RGvkCcR1j1raXcQgW"
+    },
     {
       "added_at": "2024-05-24 17:14:32",
       "album": {

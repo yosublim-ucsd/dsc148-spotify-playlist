@@ -129,6 +129,28 @@
     },
     {
       "album": {
+        "name": "AGES",
+        "url": "https://open.spotify.com/album/4LgtJSNngqMWbK4eMS7wOn"
+      },
+      "artists": [
+        {
+          "name": "Chris NLC",
+          "url": "https://open.spotify.com/artist/7EQFjTLK1i4ju5sUihRXrD"
+        },
+        {
+          "name": "Temple",
+          "url": "https://open.spotify.com/artist/6qicD8blmXzFzYEgGYfYfa"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179408,
+      "name": "AGES",
+      "url": "https://open.spotify.com/track/7LV1vjZTfneAA8JhzEkJGu"
+    },
+    {
+      "album": {
         "name": "Aka Ngozi (The Hand of God)",
         "url": "https://open.spotify.com/album/7bjEV1bDmzGNRgTZhwYoDE"
       },
@@ -674,6 +696,28 @@
       "duration_ms": 199578,
       "name": "BEST LIFE",
       "url": "https://open.spotify.com/track/3sWTtUmxf1OgHKCtEADqaV"
+    },
+    {
+      "album": {
+        "name": "BIG (Boast In God)",
+        "url": "https://open.spotify.com/album/40BrzTt30JwpHLaqUbV04E"
+      },
+      "artists": [
+        {
+          "name": "Nuelzo",
+          "url": "https://open.spotify.com/artist/6CPuXxiR9CqQ0d2irmAlnR"
+        },
+        {
+          "name": "LAMB CULTURE.",
+          "url": "https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173647,
+      "name": "BIG (Boast In God)",
+      "url": "https://open.spotify.com/track/68wFzksYavCAVmI2mSP9iR"
     },
     {
       "album": {
@@ -1698,6 +1742,28 @@
       "duration_ms": 158999,
       "name": "Formula 1",
       "url": "https://open.spotify.com/track/7qJtU5f9m6yulehi4GjktK"
+    },
+    {
+      "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/1ERf14KBAvrpHuoDCXCz4t"
+      },
+      "artists": [
+        {
+          "name": "Churemi",
+          "url": "https://open.spotify.com/artist/70HahwExpgNFLm3YKUkiiO"
+        },
+        {
+          "name": "K3ndrick",
+          "url": "https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158371,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/6gmZZ6tLBlJ1fU9X6QpB0k"
     },
     {
       "album": {

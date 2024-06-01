@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: June Pan",
+  "description": "Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: Layton Wu",
   "name": "The Sound of Formosa",
   "tracks": [
     {
@@ -20,7 +20,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 212561,
       "name": "1000 YEARS (feat. J.Sheon)",
       "url": "https://open.spotify.com/track/67TuQdtODeww6KloczBVtv"
@@ -298,7 +298,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 156000,
       "name": "Birds",
       "url": "https://open.spotify.com/track/56BH5nMAvWlpaPBr1n0amO"
@@ -446,7 +446,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 388960,
       "name": "Come back to me",
       "url": "https://open.spotify.com/track/2RNut2tMgGnggdKCxzLLNM"
@@ -576,7 +576,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 312387,
       "name": "Drunk Robot",
       "url": "https://open.spotify.com/track/5GhLzR4jwHgqPXk4Vouet1"
@@ -798,6 +798,28 @@
       "duration_ms": 196535,
       "name": "Galaxy official",
       "url": "https://open.spotify.com/track/5Jwxp0LAi6SueBzoFZzFL5"
+    },
+    {
+      "album": {
+        "name": "RUN, DON'T WALK",
+        "url": "https://open.spotify.com/album/75BE0SxpA5kTgyQDgJa5eV"
+      },
+      "artists": [
+        {
+          "name": "Miao Miao Flow",
+          "url": "https://open.spotify.com/artist/2r0ajtCNBtW94trsCQxyZr"
+        },
+        {
+          "name": "\u859b\u8a52\u4e39",
+          "url": "https://open.spotify.com/artist/4sbZb3GwHmK7Ou1PVA4U5z"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239210,
+      "name": "GARDEN OF MINE",
+      "url": "https://open.spotify.com/track/5isHPpvLRRDZ7sfXmLnCIL"
     },
     {
       "album": {
@@ -1319,6 +1341,24 @@
     },
     {
       "album": {
+        "name": "Moon",
+        "url": "https://open.spotify.com/album/436lTIgKHUJdevC1IwFcZa"
+      },
+      "artists": [
+        {
+          "name": "Layton Wu",
+          "url": "https://open.spotify.com/artist/0sbcEwgYwffJrmDZK22f9a"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335595,
+      "name": "Moon",
+      "url": "https://open.spotify.com/track/30g5POchpw47WCcIeeqeIO"
+    },
+    {
+      "album": {
         "name": "music",
         "url": "https://open.spotify.com/album/74f2abiQasJUuM0HlRTjM8"
       },
@@ -1606,7 +1646,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 166600,
       "name": "Outlaws",
       "url": "https://open.spotify.com/track/7DDagCsWCjgoTGF19hmZ2A"
@@ -1810,7 +1850,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 126173,
       "name": "She Had a Habit of Meeting All of the Artists Backstage (\u5979\u6709\u4e00\u500b\u7fd2\u6163\u5728\u5f8c\u53f0\u8ddf\u85dd\u4eba\u898b\u9762)",
       "url": "https://open.spotify.com/track/48cagymTknEzHyXOjVc6dv"
@@ -1996,7 +2036,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 272000,
       "name": "Sugar Cover",
       "url": "https://open.spotify.com/track/4HabjE8SrUgJUF5YIgppMK"

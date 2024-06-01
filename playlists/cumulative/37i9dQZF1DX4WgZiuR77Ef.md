@@ -4,7 +4,7 @@
 
 > New funky songs with a classic funky sound\. Cover: Lettuce
 
-227 songs - 15 hr 59 min
+228 songs - 16 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Headache \- Frostyboy Mix](https://open.spotify.com/track/1DK8xnWXO9J6stuWHNv6iZ) | [Smudge All Stars](https://open.spotify.com/artist/5MFlcmLtTY9qSoLsrUmbwU), [George Clinton](https://open.spotify.com/artist/2GVBp7QyHckoOg7rYkLvrA), [Frostyboy](https://open.spotify.com/artist/3czXEccrgo19wfppvwkhzR), [Niara Scarlett](https://open.spotify.com/artist/5C6vNbPezhechk5GRAo8G3), [Dark Globe](https://open.spotify.com/artist/2oxZ0xso90v1rS2PAb2qpF), [Kevan Frost](https://open.spotify.com/artist/72hK41OzrUSMmFoKOTfCtd), [Fletcher Fathoms](https://open.spotify.com/artist/3dHrg3OGB4pAeXwCQRVFjF), [Bill Burns](https://open.spotify.com/artist/2x7lI5JiBpBQi4N41fgdt2) | [Headache \(Frostyboy Mix\)](https://open.spotify.com/album/6Oa7qyVR0mlgVtRMzK3kbz) | 7:27 | 2024-01-26 | 2024-02-24 |
 | [Heat](https://open.spotify.com/track/1TvQqcEiMkUqWXKwLpEEMy) | [The Brand New Heavies](https://open.spotify.com/artist/3DEveX6KVzhPDqq2VRuN14), [Honey Larochelle](https://open.spotify.com/artist/5MximdP80OJjCsC3bfCkZc) | [TBNH](https://open.spotify.com/album/1D7sdhWa3jL1pgv3VS0aDD) | 3:50 | 2020-10-30 | 2022-04-09 |
 | [Hold It Down](https://open.spotify.com/track/57Gbsto4EnpOEUtklQQSSm) | [Happy Daggers](https://open.spotify.com/artist/1AjDEQ2pPDEuDAXgEyh4pH) | [Hold It Down](https://open.spotify.com/album/2weMcTG4ElQswQlqw724rQ) | 3:04 | 2020-10-30 | 2022-04-09 |
+| [House Cat](https://open.spotify.com/track/4AisgVQHNuGJSVYLd287Px) | [Deltaphonic](https://open.spotify.com/artist/0St0UP4Ko93saAbyvRGhx8) | [House Cat](https://open.spotify.com/album/1Wj7HQ2FebMR3n3L8eLoo0) | 2:34 | 2024-05-31 |  |
 | [How Far We've Come](https://open.spotify.com/track/4Bvc8SWQsj3DIhyygQZ9Un) | [Jamey Arent](https://open.spotify.com/artist/3Hez51EruyL1L9x0HBsubm), [Raquel Rodriguez](https://open.spotify.com/artist/7CPwAwFBnruFlDqUQCrM1Q) | [How Far We've Come](https://open.spotify.com/album/6i87cBvfTHbasGb4h2WlPP) | 3:59 | 2020-10-30 | 2022-04-09 |
 | [Howlin'](https://open.spotify.com/track/2ON7wWva8R2XA5l5PODZ75) | [The Vibe](https://open.spotify.com/artist/3oUd06MlbmbVv591HZ0Do4) | [Howlin'](https://open.spotify.com/album/554sZoptKeZRjTTqpybLFG) | 4:25 | 2020-10-30 | 2022-04-09 |
 | [I Did It To Myself](https://open.spotify.com/track/18zAjIgSzxpzSfWprqBp5d) | [Dakota Jones](https://open.spotify.com/artist/6DQRKapXMed5FzDufBQ83K) | [Black Light](https://open.spotify.com/album/3lyDIsUBFuRQ4aq9YBYs68) | 2:44 | 2021-06-18 | 2023-05-27 |
@@ -207,7 +208,7 @@
 | [Very Fine \- Pts\. 1 & 2](https://open.spotify.com/track/5VGqqm2kZAPlLPQggN3Zes) | [Neal Francis](https://open.spotify.com/artist/2e5y5Gs5lgnDmiY4TKLsq3) | [Sentimental Garbage](https://open.spotify.com/album/2iiRsnJVF6kpFMA30U6nif) | 5:37 | 2022-09-16 | 2024-04-19 |
 | [Very Fine, Pts\. 1 & 2](https://open.spotify.com/track/3x5bC3q6PVuFjwjOgH8CQ0) | [Neal Francis](https://open.spotify.com/artist/2e5y5Gs5lgnDmiY4TKLsq3) | [Very Fine, Pts\. 1 & 2 b/w Strawberry Letter 23](https://open.spotify.com/album/72CRpUR1Mhrs2BEo3EnEe9) | 5:37 | 2022-09-16 |  |
 | [Vodka & Tonic](https://open.spotify.com/track/0EzHA0WMp6WkyVjSbHK1ul) | [Mashup & Cozy Condition](https://open.spotify.com/artist/4Xgz0ZH1mIhD1E5wSjrj1V) | [Vodka & Tonic](https://open.spotify.com/album/4PjqWdyFYyPxBwN789OLFR) | 3:31 | 2022-02-25 |  |
-| [Wanna Do \(Funk With You\)](https://open.spotify.com/track/7Mg0Lbc0ehV83usNMmZlKi) | [The Aquaducks](https://open.spotify.com/artist/1gODfHkJMTmn5Kmyy3M6LW) | [Wanna Do \(Funk With You\)](https://open.spotify.com/album/1bLTjPXpIsnU3WqBwxM5hH) | 3:21 | 2020-10-30 |  |
+| [Wanna Do \(Funk With You\)](https://open.spotify.com/track/7Mg0Lbc0ehV83usNMmZlKi) | [The Aquaducks](https://open.spotify.com/artist/1gODfHkJMTmn5Kmyy3M6LW) | [Wanna Do \(Funk With You\)](https://open.spotify.com/album/1bLTjPXpIsnU3WqBwxM5hH) | 3:21 | 2020-10-30 | 2024-06-01 |
 | [Watcha Want From Me](https://open.spotify.com/track/1E6CbYhTHxWgRk9ZIH4Gj5) | [Brooklyn Funk Essentials](https://open.spotify.com/artist/4r4tRC1EUpfUCLjwQXP5EA), [Alison Limerick](https://open.spotify.com/artist/0ELXBCSsRl2m92MgnOsA69), [Desmond Foster](https://open.spotify.com/artist/3qqFMYoELTj4g9yzuQEALf) | [Watcha Want From Me / Miss Mess](https://open.spotify.com/album/118Ow1hO2UfQbiZjeEPAcj) | 4:28 | 2020-10-30 | 2022-04-09 |
 | [We Are The Party](https://open.spotify.com/track/4hQWcL2ABDLDSL3SCAJMNg) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [We Are The Party](https://open.spotify.com/album/3bNYdxoL97jRVZrGmWEDwZ) | 4:13 | 2023-06-23 |  |
 | [We Can Move](https://open.spotify.com/track/4UdJg615OBpJu6MepS6Hq8) | [Free Youth](https://open.spotify.com/artist/6sam1utI6B6K9ggk8UH0kv) | [We Can Move](https://open.spotify.com/album/2J7KkktKcCxf5lMRFxCZjG) | 6:29 | 2020-10-30 | 2022-04-09 |

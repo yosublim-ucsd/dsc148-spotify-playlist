@@ -1,12 +1,12 @@
 {
   "description": "Pop de los mejores artistas colombianos. \u00a1Dale play! Foto: Bacilos",
-  "num_followers": 118781,
+  "num_followers": 118826,
   "original_name": "Pop Colombia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlAelAAAAAAtZ3BpkvSiOoB4kyi5oYVx",
+  "snapshot_id": "ZllqqAAAAACMdf4276QjKhqJ0nAGn7RE",
   "tracks": [
     {
       "added_at": "2024-05-24 04:59:00",
@@ -103,6 +103,26 @@
       "duration_ms": 186186,
       "name": "Luz",
       "url": "https://open.spotify.com/track/6v5J4UE21xOjnQ4N9H5jur"
+    },
+    {
+      "added_at": "2024-05-31 06:14:00",
+      "album": {
+        "name": "El Truco",
+        "url": "https://open.spotify.com/album/3QeXGmXBACpr8eNfEPa9Mu"
+      },
+      "artists": [
+        {
+          "name": "Duplat",
+          "url": "https://open.spotify.com/artist/74Bgwc5zD9KyNHiMqy2QJO"
+        },
+        {
+          "name": "Santiago Cruz",
+          "url": "https://open.spotify.com/artist/5ClJtuiNlr83ua45Dvpcf7"
+        }
+      ],
+      "duration_ms": 275746,
+      "name": "El Truco",
+      "url": "https://open.spotify.com/track/4pbCHj8TU4TRS9mfRMsyWC"
     },
     {
       "added_at": "2024-05-24 04:59:00",
@@ -219,22 +239,6 @@
       "duration_ms": 317424,
       "name": "Nada Personal - Sesi\u00f3n en Vivo",
       "url": "https://open.spotify.com/track/2kuGLyyrHlPrrgMGOEiFmV"
-    },
-    {
-      "added_at": "2024-05-24 04:59:00",
-      "album": {
-        "name": "Antonia Jones",
-        "url": "https://open.spotify.com/album/5gcE6WCcD8zCfXvttpqwZt"
-      },
-      "artists": [
-        {
-          "name": "Antonia Jones",
-          "url": "https://open.spotify.com/artist/5k51uvP0VIISXtITjGNRLL"
-        }
-      ],
-      "duration_ms": 183013,
-      "name": "Dejarlos Entrar",
-      "url": "https://open.spotify.com/track/5CesWiJGZ2pHlNYik6FBHz"
     },
     {
       "added_at": "2024-05-24 04:59:00",

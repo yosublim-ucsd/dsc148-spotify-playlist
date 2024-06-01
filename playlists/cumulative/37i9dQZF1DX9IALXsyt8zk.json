@@ -502,7 +502,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 166053,
       "name": "BBB",
       "url": "https://open.spotify.com/track/1Xj89xyCM5Edza6AqTpRuB"
@@ -1392,7 +1392,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 232773,
       "name": "Default",
       "url": "https://open.spotify.com/track/7a9JYapvSZ6jYu2TaG7BRU"
@@ -1747,6 +1747,24 @@
     },
     {
       "album": {
+        "name": "Begins youth (Original Xclusive Soundtrack), Pt. 3",
+        "url": "https://open.spotify.com/album/2UutdTEebU46QZaBPqBRja"
+      },
+      "artists": [
+        {
+          "name": "JUNNY",
+          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227441,
+      "name": "Escape",
+      "url": "https://open.spotify.com/track/2F0sKBGLcYhE62hTGruluO"
+    },
+    {
+      "album": {
         "name": "UNFORGIVEN",
         "url": "https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT"
       },
@@ -1982,6 +2000,24 @@
       "duration_ms": 149610,
       "name": "Fix Me",
       "url": "https://open.spotify.com/track/6zRh1dXMxFn2WyeobMagJd"
+    },
+    {
+      "album": {
+        "name": "FLOWER",
+        "url": "https://open.spotify.com/album/4PkvOK0vWqNxNxJlSXBRnk"
+      },
+      "artists": [
+        {
+          "name": "LEEBADA",
+          "url": "https://open.spotify.com/artist/17vCFclNbTzsDfPgsaWaQO"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218815,
+      "name": "FLOWER",
+      "url": "https://open.spotify.com/track/34uUrBhqDqQs28Ac4fumRJ"
     },
     {
       "album": {
@@ -2447,6 +2483,24 @@
     },
     {
       "album": {
+        "name": "HOME",
+        "url": "https://open.spotify.com/album/4finbgKnMb3yfGdr0vErpw"
+      },
+      "artists": [
+        {
+          "name": "HANRORO",
+          "url": "https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231000,
+      "name": "H O M E",
+      "url": "https://open.spotify.com/track/5E7MmixrLwGiOvEkAybNpr"
+    },
+    {
+      "album": {
         "name": "Happy Death Day",
         "url": "https://open.spotify.com/album/3kA1SlUEM2Qt52prtDTuWr"
       },
@@ -2632,7 +2686,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 208346,
       "name": "HEYDAY",
       "url": "https://open.spotify.com/track/4F06nQOQWNVREhOU8iax6Y"
@@ -2782,10 +2836,32 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 177853,
       "name": "How Time Flies (feat. BIGONE & Dive)",
       "url": "https://open.spotify.com/track/033StetXuelKeMeQ7JWEgI"
+    },
+    {
+      "album": {
+        "name": "GRB01",
+        "url": "https://open.spotify.com/album/1VXiBulpY2Otih9AvmhtdY"
+      },
+      "artists": [
+        {
+          "name": "GIRIBOY",
+          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
+        },
+        {
+          "name": "C JAMM",
+          "url": "https://open.spotify.com/artist/2ZT3bnHPOdErwCLdP5aHqR"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173892,
+      "name": "hur (feat. C JAMM)",
+      "url": "https://open.spotify.com/track/4E97uO8qzkfiCtqjPuuwfM"
     },
     {
       "album": {
@@ -3356,6 +3432,28 @@
       "duration_ms": 236280,
       "name": "Look into eyes say it",
       "url": "https://open.spotify.com/track/47KIdFLacEnfEzVNCxs80H"
+    },
+    {
+      "album": {
+        "name": "LOOP",
+        "url": "https://open.spotify.com/album/1j8kzYnKuztDWliT8V8Qto"
+      },
+      "artists": [
+        {
+          "name": "Yves",
+          "url": "https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce"
+        },
+        {
+          "name": "Lil Cherry",
+          "url": "https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163480,
+      "name": "LOOP (feat. Lil Cherry)",
+      "url": "https://open.spotify.com/track/1JNsKjaCFgTxjP3EkKfYZo"
     },
     {
       "album": {
@@ -4556,7 +4654,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 176030,
       "name": "Only One",
       "url": "https://open.spotify.com/track/20zQ5Kf2lZA1awa8csGNdJ"
@@ -4640,6 +4738,28 @@
       "duration_ms": 199320,
       "name": "Our Night is more beautiful than your Day",
       "url": "https://open.spotify.com/track/0SXsRcuTaWZAg6QyDhncpY"
+    },
+    {
+      "album": {
+        "name": "Monthly AP - May, 2024",
+        "url": "https://open.spotify.com/album/6UohaSRYdEPaSvS8SIUvMX"
+      },
+      "artists": [
+        {
+          "name": "Chu Seo Jun",
+          "url": "https://open.spotify.com/artist/1rVGJZbfXkVcGv0qpOprl2"
+        },
+        {
+          "name": "GEMma",
+          "url": "https://open.spotify.com/artist/2OHfq64yFsF9ehuUjCZwJF"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205333,
+      "name": "Out of Breath (Prod. Ryo, hyeminsong)",
+      "url": "https://open.spotify.com/track/1eFgtBIxUe0t8kHQJxfezQ"
     },
     {
       "album": {
@@ -6171,6 +6291,24 @@
     },
     {
       "album": {
+        "name": "Swear",
+        "url": "https://open.spotify.com/album/3vNYAR6SdAeKcQGgOPTyY2"
+      },
+      "artists": [
+        {
+          "name": "Huh",
+          "url": "https://open.spotify.com/artist/30AghIfoMJrMo1YqoUkEMM"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177226,
+      "name": "Swear",
+      "url": "https://open.spotify.com/track/3Zr7XljDMsjanXYIIjZMXp"
+    },
+    {
+      "album": {
         "name": "SWEAT",
         "url": "https://open.spotify.com/album/0s6DjhEFFZOUSfnFmPMVIG"
       },
@@ -6384,10 +6522,28 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 155714,
       "name": "text me",
       "url": "https://open.spotify.com/track/7Cu3roszCR6enOjFpN9f2U"
+    },
+    {
+      "album": {
+        "name": "UNEDUCATED WORLD 2",
+        "url": "https://open.spotify.com/album/4JSWvPh200me9rfjLdiyhZ"
+      },
+      "artists": [
+        {
+          "name": "Uneducated Kid",
+          "url": "https://open.spotify.com/artist/08KbKkPqaYNFYM9R5eMjuM"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131162,
+      "name": "The Cult",
+      "url": "https://open.spotify.com/track/4LBJJusvruhLfNgiQxSQBR"
     },
     {
       "album": {
@@ -6482,7 +6638,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 194426,
       "name": "The Most",
       "url": "https://open.spotify.com/track/2zKE0UQw17joNPV8Miji2o"
@@ -7358,7 +7514,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 161893,
       "name": "With You Back Then",
       "url": "https://open.spotify.com/track/1yp7CNSVBSjrXrRdS7EWUX"

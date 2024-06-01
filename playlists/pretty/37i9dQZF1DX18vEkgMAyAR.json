@@ -1,6 +1,6 @@
 {
   "description": "Your everyday pick-me-up playlist.",
-  "num_followers": 68158,
+  "num_followers": 68164,
   "original_name": "Feel Good Look Good",
   "owner": {
     "name": "Spotify",
@@ -529,28 +529,12 @@
         },
         {
           "name": "Max Hurrell",
-          "url": "https://open.spotify.com/artist/0MekCsZ593nZDsPIts2wkd"
+          "url": "https://open.spotify.com/artist/7cEEUAvfBGRqE0ktbBYHw3"
         }
       ],
       "duration_ms": 161456,
       "name": "Life Without Fantasies - Radio Edit",
       "url": "https://open.spotify.com/track/2Q9QrDU4LUDot1mpYcntiC"
-    },
-    {
-      "added_at": "2024-05-10 06:34:25",
-      "album": {
-        "name": "Falling",
-        "url": "https://open.spotify.com/album/7ziJdl59dI4sSnp5M3AIPc"
-      },
-      "artists": [
-        {
-          "name": "Majozi",
-          "url": "https://open.spotify.com/artist/1JvTUHnkJ8yiTQfOKDdArt"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/4v9nRXzGgTFc2GuxWpG0Mg"
     },
     {
       "added_at": "2024-05-10 06:34:25",
@@ -567,6 +551,22 @@
       "duration_ms": 220266,
       "name": "Shake Shake",
       "url": "https://open.spotify.com/track/6fJ9sqQejWpH09whcI9YlH"
+    },
+    {
+      "added_at": "2024-05-10 06:34:25",
+      "album": {
+        "name": "Falling",
+        "url": "https://open.spotify.com/album/7ziJdl59dI4sSnp5M3AIPc"
+      },
+      "artists": [
+        {
+          "name": "Majozi",
+          "url": "https://open.spotify.com/artist/1JvTUHnkJ8yiTQfOKDdArt"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/4v9nRXzGgTFc2GuxWpG0Mg"
     },
     {
       "added_at": "2024-05-10 06:34:25",
@@ -607,6 +607,22 @@
     {
       "added_at": "2024-05-10 06:34:25",
       "album": {
+        "name": "the world i love",
+        "url": "https://open.spotify.com/album/0PGaguvVjayjOSfFjwVKRV"
+      },
+      "artists": [
+        {
+          "name": "Internet Girl",
+          "url": "https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "be my guest",
+      "url": "https://open.spotify.com/track/6EsxMkOPOgMvRcGJO02pyt"
+    },
+    {
+      "added_at": "2024-05-10 06:34:25",
+      "album": {
         "name": "The Moment (feat. Jimmy Nevis & Emtee)",
         "url": "https://open.spotify.com/album/78zdmPv8xePsLa2e6Z6agw"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 197400,
       "name": "The Moment (feat. Jimmy Nevis & Emtee)",
       "url": "https://open.spotify.com/track/4dpNbUnGgP1f0C6B9XVXK8"
-    },
-    {
-      "added_at": "2024-05-10 06:34:25",
-      "album": {
-        "name": "the world i love",
-        "url": "https://open.spotify.com/album/0PGaguvVjayjOSfFjwVKRV"
-      },
-      "artists": [
-        {
-          "name": "Internet Girl",
-          "url": "https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "be my guest",
-      "url": "https://open.spotify.com/track/6EsxMkOPOgMvRcGJO02pyt"
     },
     {
       "added_at": "2024-05-10 06:34:25",
@@ -679,6 +679,22 @@
     {
       "added_at": "2024-05-10 06:34:25",
       "album": {
+        "name": "Everything's Blurred But You",
+        "url": "https://open.spotify.com/album/3ZNxdIgd8wFuQcFj6WhF6O"
+      },
+      "artists": [
+        {
+          "name": "EASY FREAK",
+          "url": "https://open.spotify.com/artist/5X9T1si7pOUmy2IayH147S"
+        }
+      ],
+      "duration_ms": 209454,
+      "name": "Future",
+      "url": "https://open.spotify.com/track/3rZ29lqgtrpuIIuCdZaxEA"
+    },
+    {
+      "added_at": "2024-05-10 06:34:25",
+      "album": {
         "name": "So Cool",
         "url": "https://open.spotify.com/album/3qDSi20OwFqEp879zRl0Hx"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 207741,
       "name": "So Cool",
       "url": "https://open.spotify.com/track/77ilrvQSGD3BWTDcFCn0FE"
-    },
-    {
-      "added_at": "2024-05-10 06:34:25",
-      "album": {
-        "name": "Everything's Blurred But You",
-        "url": "https://open.spotify.com/album/3ZNxdIgd8wFuQcFj6WhF6O"
-      },
-      "artists": [
-        {
-          "name": "EASY FREAK",
-          "url": "https://open.spotify.com/artist/5X9T1si7pOUmy2IayH147S"
-        }
-      ],
-      "duration_ms": 209454,
-      "name": "Future",
-      "url": "https://open.spotify.com/track/3rZ29lqgtrpuIIuCdZaxEA"
     },
     {
       "added_at": "2024-05-10 06:34:25",
@@ -755,6 +755,22 @@
     {
       "added_at": "2024-05-10 06:34:25",
       "album": {
+        "name": "echo: dawn",
+        "url": "https://open.spotify.com/album/0ZhR4JnbnSgxcNPq5jaHKF"
+      },
+      "artists": [
+        {
+          "name": "Just a Band",
+          "url": "https://open.spotify.com/artist/0udvEwi0yqxRFUnv5x0VJA"
+        }
+      ],
+      "duration_ms": 187375,
+      "name": "Thank You/Rebel and a Cause - from ech0",
+      "url": "https://open.spotify.com/track/0BZ8a5cWdl7sNwNzHBLZj0"
+    },
+    {
+      "added_at": "2024-05-10 06:34:25",
+      "album": {
         "name": "Bosana",
         "url": "https://open.spotify.com/album/5t6pQwDnbCwsduBrrnJMh1"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 211073,
       "name": "Bosana",
       "url": "https://open.spotify.com/track/4oK68YNIvg4J4lBvcwak6h"
-    },
-    {
-      "added_at": "2024-05-10 06:34:25",
-      "album": {
-        "name": "echo: dawn",
-        "url": "https://open.spotify.com/album/0ZhR4JnbnSgxcNPq5jaHKF"
-      },
-      "artists": [
-        {
-          "name": "Just a Band",
-          "url": "https://open.spotify.com/artist/0udvEwi0yqxRFUnv5x0VJA"
-        }
-      ],
-      "duration_ms": 187375,
-      "name": "Thank You/Rebel and a Cause - from ech0",
-      "url": "https://open.spotify.com/track/0BZ8a5cWdl7sNwNzHBLZj0"
     },
     {
       "added_at": "2024-05-10 06:34:25",
@@ -919,26 +919,6 @@
     {
       "added_at": "2024-05-10 06:34:25",
       "album": {
-        "name": "Demons",
-        "url": "https://open.spotify.com/album/3Xm5k3rl3jUOOjqd9EqUYw"
-      },
-      "artists": [
-        {
-          "name": "Evida",
-          "url": "https://open.spotify.com/artist/7e1DmPCwu27owAEWjpb6dN"
-        },
-        {
-          "name": "Luna Florentino",
-          "url": "https://open.spotify.com/artist/3qgDJXJmuGCfHwWB8cR1oS"
-        }
-      ],
-      "duration_ms": 167680,
-      "name": "Demons",
-      "url": "https://open.spotify.com/track/2kOoRJBEfRmF8jdBbxmhFl"
-    },
-    {
-      "added_at": "2024-05-10 06:34:25",
-      "album": {
         "name": "Dark Side",
         "url": "https://open.spotify.com/album/2VPAWHuNgQuowuPQzWU45b"
       },
@@ -959,22 +939,6 @@
     {
       "added_at": "2024-05-10 06:34:25",
       "album": {
-        "name": "Can't Hurry Love",
-        "url": "https://open.spotify.com/album/5p9MT9gZX1J7X4QLj7A414"
-      },
-      "artists": [
-        {
-          "name": "Lloyd Cele",
-          "url": "https://open.spotify.com/artist/3Ep2ZktnezHzTyx4oAFddg"
-        }
-      ],
-      "duration_ms": 181212,
-      "name": "Can't Hurry Love",
-      "url": "https://open.spotify.com/track/7385EDnK2hsXZT1yBUX4EB"
-    },
-    {
-      "added_at": "2024-05-10 06:34:25",
-      "album": {
         "name": "Video Games",
         "url": "https://open.spotify.com/album/6UNRdmz5jH99djUUpdocEe"
       },
@@ -991,6 +955,42 @@
       "duration_ms": 216214,
       "name": "Video Games",
       "url": "https://open.spotify.com/track/1ImmEy1b7WFuFvQmDNnpbr"
+    },
+    {
+      "added_at": "2024-05-10 06:34:25",
+      "album": {
+        "name": "Demons",
+        "url": "https://open.spotify.com/album/3Xm5k3rl3jUOOjqd9EqUYw"
+      },
+      "artists": [
+        {
+          "name": "Evida",
+          "url": "https://open.spotify.com/artist/7e1DmPCwu27owAEWjpb6dN"
+        },
+        {
+          "name": "Luna Florentino",
+          "url": "https://open.spotify.com/artist/3qgDJXJmuGCfHwWB8cR1oS"
+        }
+      ],
+      "duration_ms": 167680,
+      "name": "Demons",
+      "url": "https://open.spotify.com/track/2kOoRJBEfRmF8jdBbxmhFl"
+    },
+    {
+      "added_at": "2024-05-10 06:34:25",
+      "album": {
+        "name": "Can't Hurry Love",
+        "url": "https://open.spotify.com/album/5p9MT9gZX1J7X4QLj7A414"
+      },
+      "artists": [
+        {
+          "name": "Lloyd Cele",
+          "url": "https://open.spotify.com/artist/3Ep2ZktnezHzTyx4oAFddg"
+        }
+      ],
+      "duration_ms": 181212,
+      "name": "Can't Hurry Love",
+      "url": "https://open.spotify.com/track/7385EDnK2hsXZT1yBUX4EB"
     },
     {
       "added_at": "2024-05-10 06:34:25",
@@ -1047,26 +1047,6 @@
     {
       "added_at": "2024-05-10 06:34:25",
       "album": {
-        "name": "Rest",
-        "url": "https://open.spotify.com/album/01XpquB06EvN30tEws20cv"
-      },
-      "artists": [
-        {
-          "name": "EASY FREAK",
-          "url": "https://open.spotify.com/artist/5X9T1si7pOUmy2IayH147S"
-        },
-        {
-          "name": "Phi11a",
-          "url": "https://open.spotify.com/artist/1QrAumNRmmekZeMDVTUfbS"
-        }
-      ],
-      "duration_ms": 282340,
-      "name": "Rest",
-      "url": "https://open.spotify.com/track/5NyWlLNaoz87Tym3lOGOte"
-    },
-    {
-      "added_at": "2024-05-10 06:34:25",
-      "album": {
         "name": "La Musica",
         "url": "https://open.spotify.com/album/6XazW7KRkCIZ4Tp7XjoYfG"
       },
@@ -1083,6 +1063,26 @@
       "duration_ms": 212950,
       "name": "You & I",
       "url": "https://open.spotify.com/track/1KyLPWLT2H7xMVk92YineV"
+    },
+    {
+      "added_at": "2024-05-10 06:34:25",
+      "album": {
+        "name": "Rest",
+        "url": "https://open.spotify.com/album/01XpquB06EvN30tEws20cv"
+      },
+      "artists": [
+        {
+          "name": "EASY FREAK",
+          "url": "https://open.spotify.com/artist/5X9T1si7pOUmy2IayH147S"
+        },
+        {
+          "name": "Phi11a",
+          "url": "https://open.spotify.com/artist/1QrAumNRmmekZeMDVTUfbS"
+        }
+      ],
+      "duration_ms": 282340,
+      "name": "Rest",
+      "url": "https://open.spotify.com/track/5NyWlLNaoz87Tym3lOGOte"
     },
     {
       "added_at": "2024-05-10 06:34:25",

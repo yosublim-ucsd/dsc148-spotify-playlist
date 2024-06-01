@@ -1993,6 +1993,32 @@
     },
     {
       "album": {
+        "name": "Mozart Symphonies",
+        "url": "https://open.spotify.com/album/5bo9g9JT23Lb6mVLUNzCph"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Deutsche Kammerphilharmonie Bremen",
+          "url": "https://open.spotify.com/artist/2g3N0oxbmn5Q95mYNNdIo4"
+        },
+        {
+          "name": "Tarmo Peltokoski",
+          "url": "https://open.spotify.com/artist/302iiQVPJhPdJc5NHdJLWL"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236040,
+      "name": "Symphony No. 35 in D Major, K. 385 \"Haffner\": IV. Finale. Presto",
+      "url": "https://open.spotify.com/track/5lM5lsBm4hJc5kssjnGDSv"
+    },
+    {
+      "album": {
         "name": "Mendelssohn: Symphonies Nos. 3 \"Scottish\" & 4 \"Italian\"",
         "url": "https://open.spotify.com/album/7Et6f6JcXfaGYLBRtYpAtW"
       },

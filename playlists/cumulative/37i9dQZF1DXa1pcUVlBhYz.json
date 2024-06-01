@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-25",
-  "description": "Electronic + Dance making waves, every month. Cover: Kah-Lo and Jamie Jones",
+  "description": "Electronic + Dance making waves, every month. Cover: Channel Tres",
   "name": "Electronic + Dance Frequency",
   "tracks": [
     {
@@ -792,7 +792,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 189746,
       "name": "Berghain (feat. Barney Bones)",
       "url": "https://open.spotify.com/track/3uqjvrA1xkjshN7HfKHkX6"
@@ -1124,6 +1124,24 @@
       "duration_ms": 228000,
       "name": "Butterfly",
       "url": "https://open.spotify.com/track/77gfyLSe0JqQHZ77WFz00V"
+    },
+    {
+      "album": {
+        "name": "Cactus Water",
+        "url": "https://open.spotify.com/album/0Hig8AAHnlRhJx6yIKdbQR"
+      },
+      "artists": [
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204240,
+      "name": "Cactus Water",
+      "url": "https://open.spotify.com/track/4mSnIJwKtvmhZHRzBItBQ6"
     },
     {
       "album": {
@@ -2486,7 +2504,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 151024,
       "name": "Fun (feat. Roses Gabor)",
       "url": "https://open.spotify.com/track/01Vrxw3jRGDimthKPRynsg"
@@ -2632,6 +2650,24 @@
       "duration_ms": 215357,
       "name": "Girls Just Wanna Have Funds",
       "url": "https://open.spotify.com/track/5hRhFIwjli51p4fAxwyqpF"
+    },
+    {
+      "album": {
+        "name": "Give You My Love",
+        "url": "https://open.spotify.com/album/3pp00p6UycBCQhVs9pFIxj"
+      },
+      "artists": [
+        {
+          "name": "Dances",
+          "url": "https://open.spotify.com/artist/1XwL3qdo0jPmliKRgxY5TL"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243779,
+      "name": "Give You My Love",
+      "url": "https://open.spotify.com/track/00Zner1J4KiAOS7ZmiMRnY"
     },
     {
       "album": {
@@ -3965,6 +4001,24 @@
     },
     {
       "album": {
+        "name": "Elixyr",
+        "url": "https://open.spotify.com/album/0KfiBJXwShaBDahdH0iHH0"
+      },
+      "artists": [
+        {
+          "name": "Tatyana Jane",
+          "url": "https://open.spotify.com/artist/5K976UJ5j3DvhhBkOd7gKx"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277697,
+      "name": "Mapanes",
+      "url": "https://open.spotify.com/track/4NNETohGtnAT4znZqfOKfi"
+    },
+    {
+      "album": {
         "name": "Supernova",
         "url": "https://open.spotify.com/album/2lgPVz1NeWBl6niNKtfvTT"
       },
@@ -4698,7 +4752,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 162413,
       "name": "Nice to meet you (feat. Central Cee)",
       "url": "https://open.spotify.com/track/1jLVSavLHTeEixX6CIxqQR"
@@ -5080,6 +5134,24 @@
       "duration_ms": 169655,
       "name": "On + On (with Justine Skye)",
       "url": "https://open.spotify.com/track/157TL0eU2bppVrCKnll6zR"
+    },
+    {
+      "album": {
+        "name": "LUSTWERK III",
+        "url": "https://open.spotify.com/album/1vJbbqXYsFpfbcphIUZetq"
+      },
+      "artists": [
+        {
+          "name": "Galcher Lustwerk",
+          "url": "https://open.spotify.com/artist/1c7bxvBwJrMuZKwx4EDPHf"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292682,
+      "name": "On The Floor",
+      "url": "https://open.spotify.com/track/46zUvDdntnlZRTAZr9nMRS"
     },
     {
       "album": {
@@ -6045,6 +6117,28 @@
     },
     {
       "album": {
+        "name": "She's In The Club (feat. Asal)",
+        "url": "https://open.spotify.com/album/7wJPiNFf6AThWb0Sh0ar2C"
+      },
+      "artists": [
+        {
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+        },
+        {
+          "name": "Asal",
+          "url": "https://open.spotify.com/artist/5gOMN9Yb70XQjnYrhyZ9Yj"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188011,
+      "name": "She's In The Club (feat. Asal)",
+      "url": "https://open.spotify.com/track/7BhjlfNllL8h50DLl5Cd4r"
+    },
+    {
+      "album": {
         "name": "Silence Is Loud",
         "url": "https://open.spotify.com/album/1QdwmjHJVOXZe9gs6NCkTe"
       },
@@ -6056,7 +6150,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 157745,
       "name": "Silence Is Loud",
       "url": "https://open.spotify.com/track/1LqFMtMW44W8XQ1OtV43gg"
@@ -6550,7 +6644,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 198603,
       "name": "Take My Chance",
       "url": "https://open.spotify.com/track/6d0ediFvVUAQXkeraZRtXR"
@@ -7128,8 +7222,8 @@
           "url": "https://open.spotify.com/artist/1Rd3VMOwsZQjTxWaYZYd1R"
         },
         {
-          "name": "Kamaal",
-          "url": "https://open.spotify.com/artist/0IGedZhFM7gICHBqlm2YOh"
+          "name": "kamaal",
+          "url": "https://open.spotify.com/artist/7p1dP0ZcGOH8IzsXV3V5o1"
         }
       ],
       "date_added": "2024-05-17",
@@ -7190,6 +7284,24 @@
       "duration_ms": 204521,
       "name": "Tukuntazo (Austin Millz Remix)",
       "url": "https://open.spotify.com/track/1qb5Uty8dhjbJUrHkTqttE"
+    },
+    {
+      "album": {
+        "name": "Turn it up",
+        "url": "https://open.spotify.com/album/53oYO35gOzGGGINKHB8cd0"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147020,
+      "name": "Turn it up",
+      "url": "https://open.spotify.com/track/1YhNljrEyPYaYNgBNsWap5"
     },
     {
       "album": {
@@ -8038,7 +8150,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 402790,
       "name": "Work That Body",
       "url": "https://open.spotify.com/track/1h3LHD3iDbP4MGYNeQG4N5"

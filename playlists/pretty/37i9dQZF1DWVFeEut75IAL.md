@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFeEut75IAL.md) - [plain]
 
 > The most calming classical music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 906,596 likes - 76 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 907,743 likes - 76 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,11 +31,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFeEut75IAL.md) - [plain]
 | 21 | [Scriabin: 24 Preludes, Op\. 11: No\. 21 in B\-Flat Major](https://open.spotify.com/track/7lFRAFQ2f2AmWOefaiV4wb) | [Alexander Scriabin](https://open.spotify.com/artist/6nZiWg5ZB511S24WmB7TCV), [Mikhail Pletnev](https://open.spotify.com/artist/2YdRnOqBXCl9g8xCLcGh8C) | [Scriabin: 24 Preludes \- Sonatas Nos\. 4 & 10](https://open.spotify.com/album/2frAyNz56dJ9dgkEme3xba) | 1:47 |
 | 22 | [The Lily \- Piano Version](https://open.spotify.com/track/2ZGFYsDWwjU0BBvVAw6js9) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [The Lily](https://open.spotify.com/album/7MB4jFZ02hbMpYaBdLOpGq) | 1:56 |
 | 23 | [3 Visions: No\. 2, Summerland](https://open.spotify.com/track/1XJMRdFSgkrmw2cXLJOD0b) | [William Grant Still](https://open.spotify.com/artist/0KkJoXozXmbRdmpy7zCmYA), [Bruce Levingston](https://open.spotify.com/artist/7wJT2nMGzUmQQLSIHbDaXU) | [Citizen](https://open.spotify.com/album/6CynnUMIeho0HuHG8EFDKE) | 4:53 |
-| 24 | [Stille Musik: 3\. Augenblicke der Serenade](https://open.spotify.com/track/3pThH9KvYgY2zBkcT8qiyj) | [Valentin Silvestrov](https://open.spotify.com/artist/1bauOA5U5M3RwH2euX3Eq6) | [Bagatellen und Serenaden](https://open.spotify.com/album/0sju7yiMo3bg4vW5Za8rKY) | 2:17 |
-| 25 | [PROLOGUE \(Quasi Niente from Piano Sonata No\. 1 in F Minor, Op\. 6: IV\. Funebre\) \- Upright Version](https://open.spotify.com/track/2S4CBHdoNjOuxItsfYaUEu) | [Alexander Scriabin](https://open.spotify.com/artist/6nZiWg5ZB511S24WmB7TCV), [Julius Asal](https://open.spotify.com/artist/5Tp2SqEkbc2n6anNqNw5dE) | [Scriabin: PROLOGUE \(Quasi Niente from Piano Sonata No\. 1 in F Minor, Op\. 6: IV\. Funebre\)](https://open.spotify.com/album/40uKc91V4ROdSwiArLeW2F) | 1:30 |
-| 26 | [A Little Book of Hours: VI\. Singing Sun](https://open.spotify.com/track/3WXj9zWNL8X03WiC1muLZ6) | [Peter Sculthorpe](https://open.spotify.com/artist/31rgljsVrzeRFFnJXOYq5J), [Elena Riu](https://open.spotify.com/artist/2Jhg4utIpCsER3JKSUnF7F) | [Piano Icons for the 21st Century](https://open.spotify.com/album/22I1sZRP58rrFPBwQxK2JL) | 1:43 |
-| 27 | [Wasserklavier](https://open.spotify.com/track/3LRYwBJECFeQGi16cPxEZY) | [David Arden](https://open.spotify.com/artist/70xr7TopAcWrip0NJWDmOc) | [Luciano Berio \- The Complete Works For Solo Piano](https://open.spotify.com/album/2bYrUpinp9EtQYTsA5h2Wb) | 2:02 |
-| 28 | [Natural Light](https://open.spotify.com/track/2zM7Ato6xDOi8ten4qn7Cm) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Natural Light](https://open.spotify.com/album/43wcKhgYUpeh2cwvBtqDYc) | 5:35 |
+| 24 | [Natural Light](https://open.spotify.com/track/2zM7Ato6xDOi8ten4qn7Cm) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Natural Light](https://open.spotify.com/album/43wcKhgYUpeh2cwvBtqDYc) | 5:35 |
+| 25 | [Stille Musik: 3\. Augenblicke der Serenade](https://open.spotify.com/track/3pThH9KvYgY2zBkcT8qiyj) | [Valentin Silvestrov](https://open.spotify.com/artist/1bauOA5U5M3RwH2euX3Eq6) | [Bagatellen und Serenaden](https://open.spotify.com/album/0sju7yiMo3bg4vW5Za8rKY) | 2:17 |
+| 26 | [PROLOGUE \(Quasi Niente from Piano Sonata No\. 1 in F Minor, Op\. 6: IV\. Funebre\) \- Upright Version](https://open.spotify.com/track/2S4CBHdoNjOuxItsfYaUEu) | [Alexander Scriabin](https://open.spotify.com/artist/6nZiWg5ZB511S24WmB7TCV), [Julius Asal](https://open.spotify.com/artist/5Tp2SqEkbc2n6anNqNw5dE) | [Scriabin: PROLOGUE \(Quasi Niente from Piano Sonata No\. 1 in F Minor, Op\. 6: IV\. Funebre\)](https://open.spotify.com/album/40uKc91V4ROdSwiArLeW2F) | 1:30 |
+| 27 | [A Little Book of Hours: VI\. Singing Sun](https://open.spotify.com/track/3WXj9zWNL8X03WiC1muLZ6) | [Peter Sculthorpe](https://open.spotify.com/artist/31rgljsVrzeRFFnJXOYq5J), [Elena Riu](https://open.spotify.com/artist/2Jhg4utIpCsER3JKSUnF7F) | [Piano Icons for the 21st Century](https://open.spotify.com/album/22I1sZRP58rrFPBwQxK2JL) | 1:43 |
+| 28 | [Wasserklavier](https://open.spotify.com/track/3LRYwBJECFeQGi16cPxEZY) | [David Arden](https://open.spotify.com/artist/70xr7TopAcWrip0NJWDmOc) | [Luciano Berio \- The Complete Works For Solo Piano](https://open.spotify.com/album/2bYrUpinp9EtQYTsA5h2Wb) | 2:02 |
 | 29 | [II\. floating leaf](https://open.spotify.com/track/1HE6aHCUtC6Mx0kiOsRUIS) | [Konstantia Gourzi](https://open.spotify.com/artist/6KYa46jd4bu7OeKBpW4rFJ), [William Youn](https://open.spotify.com/artist/7uWSy5aRJy75BSKdpYbp2R) | [II\. floating leaf](https://open.spotify.com/album/4oXRET0XU9DTUwM9yxjcoq) | 2:17 |
 | 30 | [Ave verum corpus, K.618 \(Arr\. for Piano by Franz Liszt\)](https://open.spotify.com/track/65P5vqHd18YLG8AsaVGFjw) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Mao Fujita](https://open.spotify.com/artist/1jN4Xmeo6upsAer2hRZhrl) | [Ave verum corpus, K.618 \(Arr\. for Piano by Franz Liszt\)](https://open.spotify.com/album/6hJpChw1IpyvRw8UVDzO09) | 3:15 |
 | 31 | [Kaiho](https://open.spotify.com/track/2JMWJkY1aQhNASkIuDUnI5) | [A\. Blomqvist](https://open.spotify.com/artist/5OdOZHljmANwGvN71E6KJm) | [Kaiho](https://open.spotify.com/album/6hF22qlhOYHaIQLIOP50fU) | 3:17 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFeEut75IAL.md) - [plain]
 | 75 | [Passage](https://open.spotify.com/track/4HMf8DnYWNpEbjgvQJFWl6) | [Joep Beving](https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y) | [Passage](https://open.spotify.com/album/4BdE3Lt7eLlGKR2Fd4S4bv) | 5:12 |
 | 76 | [Jesu, Joy of Man's Desiring \- Arr\. by Alexis Ffrench](https://open.spotify.com/track/2Kn5PauE1nEJxUQlD6N3JF) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Jesu, Joy of Man's Desiring](https://open.spotify.com/album/2pjG5wJxCWKHmZcNcK0mCR) | 2:08 |
 
-Snapshot ID: `Zk6/QAAAAAC+CGthS+GzWooo1Ep3oACL`
+Snapshot ID: `ZlnCYAAAAAAEq2UaxpplnkeiRh8DbBrW`

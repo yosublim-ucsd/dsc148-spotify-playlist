@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "Kickback, Relax to some smooth R&B from The City Under The Sun - Nairobi. Cover: Xenia Manasseh",
+  "description": "Kickback, Relax to some smooth R&B from The City Under The Sun - Nairobi. Cover: Bridget Blue",
   "name": "NairoBae",
   "tracks": [
     {
@@ -1275,6 +1275,28 @@
     },
     {
       "album": {
+        "name": "TAKE ONE",
+        "url": "https://open.spotify.com/album/6Khcp9V99TSaKTsS2Qnq5D"
+      },
+      "artists": [
+        {
+          "name": "Joy Njokey",
+          "url": "https://open.spotify.com/artist/3x7LsqjnxJg6m2hjarASBF"
+        },
+        {
+          "name": "Nick Agesa",
+          "url": "https://open.spotify.com/artist/3908RRjZoX9xUohR7Sqlre"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251872,
+      "name": "In Love",
+      "url": "https://open.spotify.com/track/5H8VsuRaxPKSSYxmmmuS04"
+    },
+    {
+      "album": {
         "name": "in the name of love",
         "url": "https://open.spotify.com/album/60IOLifUMf2mvPn2WSwC61"
       },
@@ -1732,7 +1754,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 163014,
       "name": "Love/Hate",
       "url": "https://open.spotify.com/track/2ehiR88HYzb7QuO2bh3rKL"
@@ -3159,6 +3181,24 @@
     },
     {
       "album": {
+        "name": "TLC (No Love Lost)",
+        "url": "https://open.spotify.com/album/1d8JoyDnHixTiyya5DO0TW"
+      },
+      "artists": [
+        {
+          "name": "Aurie",
+          "url": "https://open.spotify.com/artist/0mdtCl5QYMb1p4y24HJQi8"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225000,
+      "name": "TLC (No Love Lost)",
+      "url": "https://open.spotify.com/track/0GHPNxbsnpVtpUc2YSFoiR"
+    },
+    {
+      "album": {
         "name": "Dive In",
         "url": "https://open.spotify.com/album/3OkzNe6vIcb7ZhVtDGO9vP"
       },
@@ -3438,10 +3478,28 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 148557,
       "name": "We're Made For Each Other",
       "url": "https://open.spotify.com/track/2G5EyrYbvXoUIpwqzGLgK1"
+    },
+    {
+      "album": {
+        "name": "Weapon",
+        "url": "https://open.spotify.com/album/2DmSvDDCxoM0KqwmoPrBVo"
+      },
+      "artists": [
+        {
+          "name": "Bridget Blue",
+          "url": "https://open.spotify.com/artist/5EbxOKB0wn1EdeBvwK7kxw"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155500,
+      "name": "Weapon",
+      "url": "https://open.spotify.com/track/2Ycm5ifNu1SC0ff8sJKero"
     },
     {
       "album": {

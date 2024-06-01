@@ -786,7 +786,7 @@
 | [시선고정](https://open.spotify.com/track/3o4MhvxzXyoPl1XaXNdrkq) | [Super Five](https://open.spotify.com/artist/38SpwrdX8Ks7qgaj4F8tSk) | [Super Five \- All Eyes on Me](https://open.spotify.com/album/48DWqOQe4lg5UnZdSOiBHN) | 3:46 | 2023-07-24 | 2024-04-19 |
 | [시치미](https://open.spotify.com/track/2ua2r4tgzsFfKlSkgLWpug) | [Kum Jan Di](https://open.spotify.com/artist/4sxm6i0Tbb3Pt5sF58KIMI) | [시치미](https://open.spotify.com/album/7E0Z9ZhhUAdnQ3vGKrPcvY) | 3:32 | 2022-04-22 | 2022-07-17 |
 | [싱글 2 벙글](https://open.spotify.com/track/5yRSYLoDaJ3OnyYK9VXTJd) | [DooRi](https://open.spotify.com/artist/7ni7Z9DysFM0rbMnpvyzfs) | [싱글 2 벙글](https://open.spotify.com/album/1Rt0xebO1UFGpnXP2AtzzU) | 3:45 | 2022-10-07 | 2024-04-26 |
-| [아가야](https://open.spotify.com/track/2XuOuqNFJpchRK8fk4JX5A) | [송민경](https://open.spotify.com/artist/0PyD3iiJLnDiW5mKElKDSV) | [아가야](https://open.spotify.com/album/19tLKQbYGavXuxrl1n4XJP) | 3:43 | 2022-04-22 | 2024-05-19 |
+| [아가야](https://open.spotify.com/track/2XuOuqNFJpchRK8fk4JX5A) | [송민경](https://open.spotify.com/artist/0PyD3iiJLnDiW5mKElKDSV) | [아가야](https://open.spotify.com/album/19tLKQbYGavXuxrl1n4XJP) | 3:43 | 2022-04-22 |  |
 | [안나오면 쳐들어간다](https://open.spotify.com/track/1oRrGiwWX5bUCutJhqNMVy) | [김유선](https://open.spotify.com/artist/5GFS5n5JD2lujV2cllo8LG) | [안나오면 쳐들어간다](https://open.spotify.com/album/53UI5pWIkrvEyQAvvMEy3S) | 3:26 | 2022-04-07 | 2022-07-15 |
 | [안녕](https://open.spotify.com/track/6SaKtkSFI1TfVEjmMWWCue) | [조명섭](https://open.spotify.com/artist/1pC2zaWEUKiTmizWEgHKE4) | [강원도 아가씨](https://open.spotify.com/album/5BddqkWJXQFpXet5FYAsWN) | 3:09 | 2022-05-03 | 2022-07-06 |
 | [안동역에서](https://open.spotify.com/track/2REiV8Cx6JsVkMFiTUP4on) | [Jin Sung](https://open.spotify.com/artist/73Bihnu9ymiWuNTNtZLg9Z) | [트롯가왕](https://open.spotify.com/album/2GhSslxollNuNr8Q94sa4b) | 3:47 | 2022-04-21 |  |
@@ -836,6 +836,6 @@
 | [황홀한 고백](https://open.spotify.com/track/1VI71vA9wydLNgoyB2gPE7) | [Kim Ho Joong](https://open.spotify.com/artist/4T9AuhR3YqSqaPgXzPiAuH), [박일환](https://open.spotify.com/artist/7fqe8G54YspEcm7afcbaB9) | [아무도 모르게 김호중의 파트너 Pt\. 1](https://open.spotify.com/album/60gWqkO4zELpk6S55P4nIX) | 3:12 | 2022-04-07 | 2022-07-26 |
 | [효도합시다](https://open.spotify.com/track/41FhRD804NUxuZGFtdXWQ7) | [Jeong Dong Won](https://open.spotify.com/artist/7fB8Qn00ToFmUY3mAJJSki) | [miracle](https://open.spotify.com/album/11Moy2ErrWV2Jtzxl2fK1K) | 3:04 | 2022-04-21 | 2022-07-27 |
 | [힘내라 대한민국](https://open.spotify.com/track/3TH3VPHg59BvIgo4p1dnPs) | [나태주](https://open.spotify.com/artist/61km720PlFBWz14G7qHSCP) | [인생열차](https://open.spotify.com/album/7gnE6znPjohbNzPfQ4R0qE) | 3:36 | 2022-04-07 | 2022-07-21 |
-| [힘내라 인생](https://open.spotify.com/track/7sqrP9sf2g4d56csMcwwU2) | [박서진](https://open.spotify.com/artist/2xgEz0ywY5BONyBfzW47oQ) | [국가대표 와이프 \(Original Television Soundtrack\) Pt\. 3](https://open.spotify.com/album/1MsabixkQ4Xea4CfLst1ft) | 2:50 | 2022-04-07 |  |
+| [힘내라 인생](https://open.spotify.com/track/7sqrP9sf2g4d56csMcwwU2) | [박서진](https://open.spotify.com/artist/2xgEz0ywY5BONyBfzW47oQ) | [국가대표 와이프 \(Original Television Soundtrack\) Pt\. 3](https://open.spotify.com/album/1MsabixkQ4Xea4CfLst1ft) | 2:50 | 2022-04-07 | 2024-06-01 |
 
 \*This playlist was first scraped on 2022-04-20. Prior content cannot be recovered.

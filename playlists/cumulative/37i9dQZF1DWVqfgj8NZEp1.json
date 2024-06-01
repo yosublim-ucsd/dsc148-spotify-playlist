@@ -1761,6 +1761,28 @@
     },
     {
       "album": {
+        "name": "Evening Song",
+        "url": "https://open.spotify.com/album/3tQYOY5uJmMYx0oUKvSAxW"
+      },
+      "artists": [
+        {
+          "name": "S\u00f8ren Bebe Trio",
+          "url": "https://open.spotify.com/artist/32sqNe2WFtog9WufAVd8EI"
+        },
+        {
+          "name": "S\u00f8ren Bebe",
+          "url": "https://open.spotify.com/artist/7waR4b5Jd0R39qLTFhOJWh"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167893,
+      "name": "Evening Song",
+      "url": "https://open.spotify.com/track/6H1xcoIZKkWikg7sFlQfh9"
+    },
+    {
+      "album": {
         "name": "The Artist",
         "url": "https://open.spotify.com/album/4RlmJEPHL2p0QMaSsvJqVn"
       },
@@ -3574,6 +3596,24 @@
       "duration_ms": 413813,
       "name": "Moonlight in Vermont",
       "url": "https://open.spotify.com/track/5SjukQ9cPwYxzUkrxrh4Ri"
+    },
+    {
+      "album": {
+        "name": "Moonlight In Vermont",
+        "url": "https://open.spotify.com/album/4Wldh9Q4ECOwN0CeLrk9mg"
+      },
+      "artists": [
+        {
+          "name": "John Lee",
+          "url": "https://open.spotify.com/artist/2bLlwzmY1YcEVFuVEfaUmN"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203754,
+      "name": "Moonlight In Vermont",
+      "url": "https://open.spotify.com/track/6yWlAhcnlVq9VThnWaMvkK"
     },
     {
       "album": {
@@ -6196,6 +6236,24 @@
       "duration_ms": 661773,
       "name": "We Three",
       "url": "https://open.spotify.com/track/5jkJkA8Dpu9a60s0LYfW2I"
+    },
+    {
+      "album": {
+        "name": "We Two",
+        "url": "https://open.spotify.com/album/7lF0EtrsCPEYTvyUmozsuP"
+      },
+      "artists": [
+        {
+          "name": "Robert Edwards",
+          "url": "https://open.spotify.com/artist/5DmkuH4UiV7WesTUXh8itQ"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281933,
+      "name": "We Two",
+      "url": "https://open.spotify.com/track/4lEbSwsvJsxN1G1DC5AJEP"
     },
     {
       "album": {

@@ -1,32 +1,28 @@
 {
   "description": "music from the underworld\n",
-  "num_followers": 452992,
+  "num_followers": 456035,
   "original_name": "hexxed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlM0igAAAAALpQamj7IJXF7rmgOBcqr4",
+  "snapshot_id": "ZllZUAAAAADn6YrzAQFiMo0KAUdADzQ3",
   "tracks": [
     {
-      "added_at": "2024-05-24 05:00:00",
+      "added_at": "2024-03-13 04:00:00",
       "album": {
-        "name": "DON'T UNDERSTAND IT (w/ kets4eki)",
-        "url": "https://open.spotify.com/album/4s8qlYYwSDxybyR7DkWkAJ"
+        "name": "EYES ON ME",
+        "url": "https://open.spotify.com/album/4wnuFlOfdXNSEsHt7V65wq"
       },
       "artists": [
         {
           "name": "asteria",
           "url": "https://open.spotify.com/artist/0I7VmE5LkRmWoHltutTUh9"
-        },
-        {
-          "name": "kets4eki",
-          "url": "https://open.spotify.com/artist/4waORdvuFnffJPrj784KeG"
         }
       ],
-      "duration_ms": 109465,
-      "name": "DON'T UNDERSTAND IT (w/ kets4eki)",
-      "url": "https://open.spotify.com/track/2dEXSfIbrWCXpDqvzHC1sO"
+      "duration_ms": 116643,
+      "name": "EYES ON ME",
+      "url": "https://open.spotify.com/track/4keoRXcdwFkP8OzuJQ3ScK"
     },
     {
       "added_at": "2024-02-21 14:57:30",
@@ -43,22 +39,6 @@
       "duration_ms": 190850,
       "name": "\u273bH+3+\u042f\u0414\u273b7luCJIo0T6...",
       "url": "https://open.spotify.com/track/440DONUaYDRuHmNKMJcz0R"
-    },
-    {
-      "added_at": "2024-03-13 04:00:00",
-      "album": {
-        "name": "EYES ON ME",
-        "url": "https://open.spotify.com/album/4wnuFlOfdXNSEsHt7V65wq"
-      },
-      "artists": [
-        {
-          "name": "asteria",
-          "url": "https://open.spotify.com/artist/0I7VmE5LkRmWoHltutTUh9"
-        }
-      ],
-      "duration_ms": 116643,
-      "name": "EYES ON ME",
-      "url": "https://open.spotify.com/track/4keoRXcdwFkP8OzuJQ3ScK"
     },
     {
       "added_at": "2024-03-21 23:05:36",
@@ -117,36 +97,48 @@
       "url": "https://open.spotify.com/track/1JgknGBbrfmEHeOZH051SS"
     },
     {
-      "added_at": "2024-03-05 18:42:51",
+      "added_at": "2024-05-31 05:00:00",
       "album": {
-        "name": "Faster n Harder",
-        "url": "https://open.spotify.com/album/60Ip03ili2ml9zed9hmQ9W"
+        "name": "ATTACHED!",
+        "url": "https://open.spotify.com/album/3fDc3vB1BohTSlPUKumipp"
       },
       "artists": [
         {
-          "name": "6arelyhuman",
-          "url": "https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN"
+          "name": "d3r",
+          "url": "https://open.spotify.com/artist/41PE0deubI6MpwYruSEWHG"
+        },
+        {
+          "name": "kets4eki",
+          "url": "https://open.spotify.com/artist/4waORdvuFnffJPrj784KeG"
+        },
+        {
+          "name": "Pr\u00f6z",
+          "url": "https://open.spotify.com/artist/2Iu7bGRaGHmvTuVWp8wMzX"
         }
       ],
-      "duration_ms": 123428,
-      "name": "Faster n Harder",
-      "url": "https://open.spotify.com/track/3qaMprRWLGggArD14diXYz"
+      "duration_ms": 194201,
+      "name": "ATTACHED!",
+      "url": "https://open.spotify.com/track/32YNMxnrZWNZbIdb4bWR9U"
     },
     {
-      "added_at": "2024-01-12 05:00:00",
+      "added_at": "2024-05-24 05:00:00",
       "album": {
-        "name": "WHAT YOU WANT!",
-        "url": "https://open.spotify.com/album/7yt6zGA0dODjvY3Cmwx5cd"
+        "name": "DON'T UNDERSTAND IT (w/ kets4eki)",
+        "url": "https://open.spotify.com/album/4s8qlYYwSDxybyR7DkWkAJ"
       },
       "artists": [
         {
           "name": "asteria",
           "url": "https://open.spotify.com/artist/0I7VmE5LkRmWoHltutTUh9"
+        },
+        {
+          "name": "kets4eki",
+          "url": "https://open.spotify.com/artist/4waORdvuFnffJPrj784KeG"
         }
       ],
-      "duration_ms": 122414,
-      "name": "WHAT YOU WANT!",
-      "url": "https://open.spotify.com/track/2efqgrEC6lsx3KTy1yhllR"
+      "duration_ms": 109465,
+      "name": "DON'T UNDERSTAND IT (w/ kets4eki)",
+      "url": "https://open.spotify.com/track/2dEXSfIbrWCXpDqvzHC1sO"
     },
     {
       "added_at": "2024-03-29 14:56:57",
@@ -163,6 +155,22 @@
       "duration_ms": 120952,
       "name": "HA-HA!",
       "url": "https://open.spotify.com/track/79wHNI2r74FIjnSsFh03uR"
+    },
+    {
+      "added_at": "2024-03-05 18:42:51",
+      "album": {
+        "name": "Faster n Harder",
+        "url": "https://open.spotify.com/album/60Ip03ili2ml9zed9hmQ9W"
+      },
+      "artists": [
+        {
+          "name": "6arelyhuman",
+          "url": "https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN"
+        }
+      ],
+      "duration_ms": 123428,
+      "name": "Faster n Harder",
+      "url": "https://open.spotify.com/track/3qaMprRWLGggArD14diXYz"
     },
     {
       "added_at": "2024-04-12 04:50:36",
@@ -225,6 +233,22 @@
       "url": "https://open.spotify.com/track/0hmd7it20lGXWfNPOUcYUp"
     },
     {
+      "added_at": "2024-05-31 05:00:00",
+      "album": {
+        "name": "HA-HA! (SLOWED + REVERB)",
+        "url": "https://open.spotify.com/album/4JrjwRulkxci5RHaJyCJdb"
+      },
+      "artists": [
+        {
+          "name": "FORGOTTENAGE",
+          "url": "https://open.spotify.com/artist/75eUSWg8Tt9PZLiFWjascC"
+        }
+      ],
+      "duration_ms": 139883,
+      "name": "HA-HA! - SLOWED + REVERB",
+      "url": "https://open.spotify.com/track/5kzJ7VqdMVxPJXlIZ8z499"
+    },
+    {
       "added_at": "2024-01-12 05:00:00",
       "album": {
         "name": "I'm so crazy for youuu </3",
@@ -277,6 +301,46 @@
       "url": "https://open.spotify.com/track/4VL5XwfATZuAVTW471Wpro"
     },
     {
+      "added_at": "2024-05-31 05:00:00",
+      "album": {
+        "name": "LET YOU GO!",
+        "url": "https://open.spotify.com/album/2Vct5auPWASW2Ze51Qb6Zk"
+      },
+      "artists": [
+        {
+          "name": "Yung Zime",
+          "url": "https://open.spotify.com/artist/3iG3DOwDRNNcU4SD26P0qp"
+        },
+        {
+          "name": "Sayfalse",
+          "url": "https://open.spotify.com/artist/6s4LSwgbzTAfnN6OUfegJB"
+        },
+        {
+          "name": "SaintRxse",
+          "url": "https://open.spotify.com/artist/4ejGfZZTqm5Y93r4Bxtleh"
+        }
+      ],
+      "duration_ms": 90491,
+      "name": "LET YOU GO!",
+      "url": "https://open.spotify.com/track/0mkbtM3GMMIxFBU6PLWchU"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "WHAT YOU WANT!",
+        "url": "https://open.spotify.com/album/7yt6zGA0dODjvY3Cmwx5cd"
+      },
+      "artists": [
+        {
+          "name": "asteria",
+          "url": "https://open.spotify.com/artist/0I7VmE5LkRmWoHltutTUh9"
+        }
+      ],
+      "duration_ms": 122414,
+      "name": "WHAT YOU WANT!",
+      "url": "https://open.spotify.com/track/2efqgrEC6lsx3KTy1yhllR"
+    },
+    {
       "added_at": "2024-01-12 05:00:00",
       "album": {
         "name": "ICEWHORE!",
@@ -315,6 +379,30 @@
       "duration_ms": 130785,
       "name": "XOXO (Kisses Hugs)",
       "url": "https://open.spotify.com/track/7ezCLOpKZ2mg5FBLpWtsvg"
+    },
+    {
+      "added_at": "2024-05-31 05:00:00",
+      "album": {
+        "name": "daily basis",
+        "url": "https://open.spotify.com/album/5pgxhbqyNxHVyqfun4UWLI"
+      },
+      "artists": [
+        {
+          "name": "Nosgov",
+          "url": "https://open.spotify.com/artist/6FK0azeTwe5RwhUAkpkhnh"
+        },
+        {
+          "name": "kets4eki",
+          "url": "https://open.spotify.com/artist/4waORdvuFnffJPrj784KeG"
+        },
+        {
+          "name": "6arelyhuman",
+          "url": "https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "daily basis",
+      "url": "https://open.spotify.com/track/7wRVwtFCYwnaWUX5DeztZT"
     },
     {
       "added_at": "2024-05-24 05:00:00",

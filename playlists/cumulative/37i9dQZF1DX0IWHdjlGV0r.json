@@ -322,7 +322,7 @@
       ],
       "date_added": "2023-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 181668,
       "name": "Arai (feat. Capo Plaza)",
       "url": "https://open.spotify.com/track/1la73rdzbQGNRFJyO9E71c"
@@ -530,7 +530,7 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 191422,
       "name": "BLUE CHEESE (feat. Lazza)",
       "url": "https://open.spotify.com/track/4OAExi3KMGS19m7p0FxOoz"
@@ -1110,7 +1110,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 179818,
       "name": "Diamante",
       "url": "https://open.spotify.com/track/2ACSqztWqO9sWCFCoGUFvP"
@@ -1232,7 +1232,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 219772,
       "name": "DOPPIO TAGLIO",
       "url": "https://open.spotify.com/track/1aLsNi6bEGIA8QRTNX2IU8"
@@ -1590,7 +1590,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 167339,
       "name": "IL MALE CHE MI FAI (feat. Marracash)",
       "url": "https://open.spotify.com/track/7Da5kjy5GByLHE5OPQ4tpg"
@@ -2703,6 +2703,24 @@
     },
     {
       "album": {
+        "name": "Respiro",
+        "url": "https://open.spotify.com/album/45ZXo91lK7a6x2lylI6siL"
+      },
+      "artists": [
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155200,
+      "name": "Respiro",
+      "url": "https://open.spotify.com/track/31ePh9rOTkIERrloY8BUUc"
+    },
+    {
+      "album": {
         "name": "Piccolo principe",
         "url": "https://open.spotify.com/album/10HFJ1fuiGUMpAa7Ylh7VU"
       },
@@ -3263,6 +3281,24 @@
     },
     {
       "album": {
+        "name": "Vp Drive 1",
+        "url": "https://open.spotify.com/album/6MdlRqZQIJoggNVcKON7kp"
+      },
+      "artists": [
+        {
+          "name": "Vale Pain",
+          "url": "https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "TRAP GIRL",
+      "url": "https://open.spotify.com/track/4RmhMrApk1bFlPcwt4PwEr"
+    },
+    {
+      "album": {
         "name": "Club Dogo",
         "url": "https://open.spotify.com/album/3nPgVpEmlL2JCf2yhdEcFy"
       },
@@ -3377,6 +3413,28 @@
     },
     {
       "album": {
+        "name": "LONEWOLF",
+        "url": "https://open.spotify.com/album/6dDq4MNO1T4Gvllo2urL8A"
+      },
+      "artists": [
+        {
+          "name": "MadMan",
+          "url": "https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX"
+        },
+        {
+          "name": "Gemitaiz",
+          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190352,
+      "name": "Utopia (feat. Gemitaiz)",
+      "url": "https://open.spotify.com/track/1YOiFqx9ON69FAQu2EZ1DP"
+    },
+    {
+      "album": {
         "name": "GVESVS",
         "url": "https://open.spotify.com/album/1fONeOwepyow1t4dUw0RcL"
       },
@@ -3476,6 +3534,28 @@
       "duration_ms": 185426,
       "name": "Vogl Sul A Te",
       "url": "https://open.spotify.com/track/4JajIgqHJAV0Neboj76fqG"
+    },
+    {
+      "album": {
+        "name": "BALORDO (Deluxe)",
+        "url": "https://open.spotify.com/album/7uHUZgUJnxloRFB2prwMQB"
+      },
+      "artists": [
+        {
+          "name": "Sacky",
+          "url": "https://open.spotify.com/artist/1sybJwRGo9WiiqcZLzzAbS"
+        },
+        {
+          "name": "Neima Ezza",
+          "url": "https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175614,
+      "name": "VORREI (feat. Neima Ezza)",
+      "url": "https://open.spotify.com/track/0dtyvuccg5VBKvrz8J90PL"
     },
     {
       "album": {

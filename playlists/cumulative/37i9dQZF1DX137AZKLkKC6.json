@@ -3443,6 +3443,28 @@
     },
     {
       "album": {
+        "name": "Piedra, Papel o Tijera",
+        "url": "https://open.spotify.com/album/5wx868f0HC0z4sgkukLCHS"
+      },
+      "artists": [
+        {
+          "name": "Dayanara",
+          "url": "https://open.spotify.com/artist/6HxyqkGDMKQmzp9OsI9e0Q"
+        },
+        {
+          "name": "Pipe Bueno",
+          "url": "https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174639,
+      "name": "Piedra, Papel o Tijera",
+      "url": "https://open.spotify.com/track/2WhMfGkRaxFA7zwJD1Wigt"
+    },
+    {
+      "album": {
         "name": "Corridos B\u00e9licos, Vol. IV",
         "url": "https://open.spotify.com/album/6OOtv7bmTFpSBh1uubgyTb"
       },

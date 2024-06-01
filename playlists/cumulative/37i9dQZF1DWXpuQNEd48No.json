@@ -2076,7 +2076,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 197727,
       "name": "Haryana Flow",
       "url": "https://open.spotify.com/track/6OaC2D3CyPcbhUN4Tunvek"
@@ -3686,7 +3686,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 156773,
       "name": "Paggal",
       "url": "https://open.spotify.com/track/0dA3w3xlWHImfX39kEnmSc"
@@ -4369,6 +4369,28 @@
     },
     {
       "album": {
+        "name": "SIZE 7",
+        "url": "https://open.spotify.com/album/5qGFSr2mhi9DqliGs9CND1"
+      },
+      "artists": [
+        {
+          "name": "Muhfaad",
+          "url": "https://open.spotify.com/artist/5pqZ05b1zkz3er6iz4d4qr"
+        },
+        {
+          "name": "Yuvraj Vijay",
+          "url": "https://open.spotify.com/artist/352sCHXoSWFV41bH0rnVOZ"
+        }
+      ],
+      "date_added": "2024-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "SIZE 7",
+      "url": "https://open.spotify.com/track/5auKuXhe69d48mUm6nzG84"
+    },
+    {
+      "album": {
         "name": "Small Towns",
         "url": "https://open.spotify.com/album/3hh9T0laD4bpieYXkc3OHb"
       },
@@ -4414,6 +4436,24 @@
       "duration_ms": 256363,
       "name": "Sneeze",
       "url": "https://open.spotify.com/track/0ssV2OWkon59eAeR7gEpXZ"
+    },
+    {
+      "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/0T0TknPntxbVXqM223ZKKM"
+      },
+      "artists": [
+        {
+          "name": "BigMoney",
+          "url": "https://open.spotify.com/artist/1cRdqU4s5nAUZecL49dXPE"
+        }
+      ],
+      "date_added": "2024-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152195,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/6hH0jv0z1TGx6KhZTCBpe7"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/60VayqPuLXaftoj2Wrqpti.md) - [plain]
 
 > Explore this week's new additions to KEXP's rotation! You can tune in 24/7 to independent, listener powered KEXP through our website and mobile apps\. Learn more and join our community <a href="https://www.kexp.org/">HERE</a>.
 
-[KEXP](https://open.spotify.com/user/kexp_official) - 805 likes - 89 songs - 5 hr 30 min
+[KEXP](https://open.spotify.com/user/kexp_official) - 816 likes - 89 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/60VayqPuLXaftoj2Wrqpti.md) - [plain]
 | 88 | [A Psychic Wound](https://open.spotify.com/track/7DrorFVqKrul2KtTtqatEm) | [Los Campesinos!](https://open.spotify.com/artist/6FlOCziOXI157pvUREAh3E) | [A Psychic Wound](https://open.spotify.com/album/50Xdk6vtfqe5g6o3VCop3Z) | 4:01 |
 | 89 | [A Moment Apart \- camoufly Remix](https://open.spotify.com/track/1LGEamUOVpiXa1RPsdhoH7) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ) | [Spinback Remixes](https://open.spotify.com/album/7wBTfpRnS7yaw5cdi3bWpu) | 3:16 |
 
-Snapshot ID: `AAAAXqpMdNCjoaaUrd5GuPiLPQZ5YAy6`
+Snapshot ID: `AAAAXw8bUvYGyHFizv1ShipKymF17KGD`

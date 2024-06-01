@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e44\u0e17\u0e22\u0e2e\u0e34\u0e15\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14 \u0e1f\u0e31\u0e07\u0e44\u0e14\u0e49\u0e17\u0e35\u0e48\u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e19\u0e35\u0e49\u0e40\u0e25\u0e22! \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Goy Arachaporn",
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e44\u0e17\u0e22\u0e2e\u0e34\u0e15\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14 \u0e1f\u0e31\u0e07\u0e44\u0e14\u0e49\u0e17\u0e35\u0e48\u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e19\u0e35\u0e49\u0e40\u0e25\u0e22! \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: \u0e21\u0e19\u0e31\u0e2a\u0e27\u0e35\u0e23\u0e4c",
   "name": "\u0e09\u0e31\u0e19\u0e1f\u0e31\u0e07\u0e40\u0e1e\u0e25\u0e07\u0e44\u0e17\u0e22",
   "tracks": [
     {
@@ -92,6 +92,24 @@
       "duration_ms": 201000,
       "name": "HIT ME UP",
       "url": "https://open.spotify.com/track/5WsRYZQa2VvJjWEfxipXKi"
+    },
+    {
+      "album": {
+        "name": "hot2hot",
+        "url": "https://open.spotify.com/album/6qjuFWN9s0z4gho6PWQXQH"
+      },
+      "artists": [
+        {
+          "name": "4EVE",
+          "url": "https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253575,
+      "name": "hot2hot",
+      "url": "https://open.spotify.com/track/3eUgJRHtoCxg9T0wV49gKo"
     },
     {
       "album": {
@@ -240,7 +258,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 232750,
       "name": "\u0e01\u0e25\u0e34\u0e48\u0e19\u0e14\u0e2d\u0e01\u0e44\u0e21\u0e49",
       "url": "https://open.spotify.com/track/5OaXaynJZgklXEwzhouey5"
@@ -319,6 +337,24 @@
     },
     {
       "album": {
+        "name": "\u0e02\u0e36\u0e49\u0e19\u0e43\u0e08 (Unforgettable)",
+        "url": "https://open.spotify.com/album/3XviYeEx5FuG7m6LodIFgU"
+      },
+      "artists": [
+        {
+          "name": "NuNew",
+          "url": "https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221250,
+      "name": "\u0e02\u0e36\u0e49\u0e19\u0e43\u0e08 (Unforgettable)",
+      "url": "https://open.spotify.com/track/6VlPCdEkEMkD7OcbCg8qC6"
+    },
+    {
+      "album": {
         "name": "\u0e04\u0e27\u0e32\u0e21\u0e23\u0e39\u0e49\u0e2a\u0e36\u0e01\u0e02\u0e2d\u0e07\u0e15\u0e31\u0e27\u0e09\u0e31\u0e19",
         "url": "https://open.spotify.com/album/7fEgczgGKUhPrL0see7eiH"
       },
@@ -373,6 +409,24 @@
     },
     {
       "album": {
+        "name": "I\u2019M GOING TO KEEP RUNNING AWAY",
+        "url": "https://open.spotify.com/album/1EBJeRNnDr755VZGAtDTaM"
+      },
+      "artists": [
+        {
+          "name": "AYLA's",
+          "url": "https://open.spotify.com/artist/2XiaPu2j4nBMhF8pIlt6Bk"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288250,
+      "name": "\u0e08\u0e32\u0e01\u0e15\u0e23\u0e07\u0e19\u0e35\u0e49\u0e17\u0e35\u0e48(\u0e40\u0e04\u0e22)\u0e2a\u0e27\u0e22\u0e07\u0e32\u0e21 [La La Bye]",
+      "url": "https://open.spotify.com/track/0D9lpJts3mXxe0fvovYUFv"
+    },
+    {
+      "album": {
         "name": "\u0e08\u0e32\u0e01\u0e15\u0e23\u0e07\u0e19\u0e35\u0e49\u0e17\u0e35\u0e48(\u0e40\u0e04\u0e22)\u0e2a\u0e27\u0e22\u0e07\u0e32\u0e21 [La La Bye]",
         "url": "https://open.spotify.com/album/1XgD84QIPjOXQps6PisWMM"
       },
@@ -424,6 +478,28 @@
       "duration_ms": 249230,
       "name": "\u0e08\u0e33\u0e19\u0e19 (White Flag)",
       "url": "https://open.spotify.com/track/5jj7yXcilVsZPpyYtmD28X"
+    },
+    {
+      "album": {
+        "name": "\u0e09\u0e31\u0e19\u0e04\u0e37\u0e2d\u0e04\u0e27\u0e32\u0e21\u0e17\u0e23\u0e07\u0e08\u0e33\u0e14\u0e35\u0e46\u0e02\u0e2d\u0e07\u0e40\u0e18\u0e2d\u0e23\u0e36\u0e40\u0e1b\u0e25\u0e48\u0e32",
+        "url": "https://open.spotify.com/album/0hGuxd3dHA1RQzjmvDGNpT"
+      },
+      "artists": [
+        {
+          "name": "fellow fellow",
+          "url": "https://open.spotify.com/artist/1aEKvjRnbf1laB7DVXFqsG"
+        },
+        {
+          "name": "guncharlie",
+          "url": "https://open.spotify.com/artist/1qveov8f3HXFhDIWtFO5tG"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209999,
+      "name": "\u0e09\u0e31\u0e19\u0e04\u0e37\u0e2d\u0e04\u0e27\u0e32\u0e21\u0e17\u0e23\u0e07\u0e08\u0e33\u0e14\u0e35\u0e46\u0e02\u0e2d\u0e07\u0e40\u0e18\u0e2d\u0e23\u0e36\u0e40\u0e1b\u0e25\u0e48\u0e32",
+      "url": "https://open.spotify.com/track/3AC0O8MXujdSazZx1nOJK4"
     },
     {
       "album": {
@@ -571,6 +647,24 @@
     },
     {
       "album": {
+        "name": "\u0e17\u0e35\u0e48\u0e09\u0e31\u0e19\u0e40\u0e2a\u0e35\u0e22\u0e43\u0e08",
+        "url": "https://open.spotify.com/album/5wXOS5IhaPXjhOtOBhiszo"
+      },
+      "artists": [
+        {
+          "name": "\u0e21\u0e19\u0e31\u0e2a\u0e27\u0e35\u0e23\u0e4c",
+          "url": "https://open.spotify.com/artist/6mFYcrUtI8Hm3QrfuFIZUS"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318690,
+      "name": "\u0e17\u0e35\u0e48\u0e09\u0e31\u0e19\u0e40\u0e2a\u0e35\u0e22\u0e43\u0e08",
+      "url": "https://open.spotify.com/track/5FjWcmMlwbY6SCGdfuercf"
+    },
+    {
+      "album": {
         "name": "URDAWG",
         "url": "https://open.spotify.com/album/1ZQJQ3EAzClG99jCmLefKh"
       },
@@ -652,6 +746,32 @@
       "duration_ms": 253412,
       "name": "\u0e1b\u0e25\u0e48\u0e2d\u0e22\u0e14\u0e32\u0e27",
       "url": "https://open.spotify.com/track/1fUncVCIUnmf6qihsRkoBE"
+    },
+    {
+      "album": {
+        "name": "\u0e1c\u0e39\u0e01\u0e1e\u0e31\u0e19\u0e15\u0e49\u0e2d\u0e07\u0e25\u0e32",
+        "url": "https://open.spotify.com/album/0cwGiZR0Gm9vIlbLORcjyk"
+      },
+      "artists": [
+        {
+          "name": "GAVIN:D",
+          "url": "https://open.spotify.com/artist/6gYafDbRgLFc6zFKxKCP22"
+        },
+        {
+          "name": "URBOYTJ",
+          "url": "https://open.spotify.com/artist/1WLKjYJX9YHSlwufclauhg"
+        },
+        {
+          "name": "Poppy Chatchaya",
+          "url": "https://open.spotify.com/artist/0lPGF4KHt91J1oEnX0u0cv"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200769,
+      "name": "\u0e1c\u0e39\u0e01\u0e1e\u0e31\u0e19\u0e15\u0e49\u0e2d\u0e07\u0e25\u0e32",
+      "url": "https://open.spotify.com/track/2HC3jRQilGWyFlvICAqCaP"
     },
     {
       "album": {
@@ -754,7 +874,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 211946,
       "name": "\u0e22\u0e2d\u0e21 (White Flag)",
       "url": "https://open.spotify.com/track/1VfxBuhaRC8rnE4VAPQ4Qk"
@@ -942,7 +1062,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 195000,
       "name": "\u0e27\u0e32\u0e2a\u0e19\u0e32\u0e1c\u0e39\u0e49\u0e43\u0e14",
       "url": "https://open.spotify.com/track/3skwZnq1wGOaBvniFLZjGo"
@@ -1144,7 +1264,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 277961,
       "name": "\u0e40\u0e18\u0e2d\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49\u0e2a\u0e2d\u0e19\u0e43\u0e2b\u0e49\u0e09\u0e31\u0e19\u0e2d\u0e22\u0e39\u0e48\u0e04\u0e19\u0e40\u0e14\u0e35\u0e22\u0e27",
       "url": "https://open.spotify.com/track/5LEp7WRnb0T3L2R2mTa9IZ"
@@ -1224,7 +1344,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 163303,
       "name": "\u0e40\u0e21\u0e23\u0e48\u0e2d\u0e19",
       "url": "https://open.spotify.com/track/3KSS2LFdimgKRcs4ZamWyv"
@@ -1260,7 +1380,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 271567,
       "name": "\u0e40\u0e2a\u0e49\u0e19\u0e1a\u0e32\u0e07\u0e46",
       "url": "https://open.spotify.com/track/5n3UhHQI7SHKkhI69u69Yq"
@@ -1282,6 +1402,24 @@
       "duration_ms": 278313,
       "name": "\u0e41\u0e04\u0e48\u0e44\u0e2b\u0e19\u0e41\u0e04\u0e48\u0e19\u0e31\u0e49\u0e19 (NO MATTER WHAT)",
       "url": "https://open.spotify.com/track/7gPJ0LnpLQOhqH1Gx13cwv"
+    },
+    {
+      "album": {
+        "name": "\u0e41\u0e25\u0e01\u0e2d\u0e30\u0e44\u0e23\u0e01\u0e47\u0e44\u0e14\u0e49",
+        "url": "https://open.spotify.com/album/1czWyzVwvKtsAAOQiuUrqw"
+      },
+      "artists": [
+        {
+          "name": "ZENTYARB",
+          "url": "https://open.spotify.com/artist/4Wv4SEO2ZQAOBl4yJcjdxi"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217714,
+      "name": "\u0e41\u0e25\u0e01\u0e2d\u0e30\u0e44\u0e23\u0e01\u0e47\u0e44\u0e14\u0e49",
+      "url": "https://open.spotify.com/track/4lYo2OzvdN3WCy7FQhHIv5"
     },
     {
       "album": {
@@ -1332,7 +1470,7 @@
       ],
       "date_added": "2024-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 217941,
       "name": "\u0e43\u0e01\u0e25\u0e49\u0e40\u0e01\u0e34\u0e19 (TOO CLOSE TO HANDLE)",
       "url": "https://open.spotify.com/track/401VKk3bdyumcfJH8aUCjm"
@@ -1379,6 +1517,28 @@
     },
     {
       "album": {
+        "name": "URMAN",
+        "url": "https://open.spotify.com/album/5m5nxgIvm1W9Cp5FYoYayd"
+      },
+      "artists": [
+        {
+          "name": "URBOYTJ",
+          "url": "https://open.spotify.com/artist/1WLKjYJX9YHSlwufclauhg"
+        },
+        {
+          "name": "GAVIN:D",
+          "url": "https://open.spotify.com/artist/6gYafDbRgLFc6zFKxKCP22"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212947,
+      "name": "\u0e44\u0e21\u0e48\u0e15\u0e34\u0e14",
+      "url": "https://open.spotify.com/track/5ARFnqIJJc9OgCRB7tEygC"
+    },
+    {
+      "album": {
         "name": "\u0e44\u0e21\u0e48\u0e40\u0e1b\u0e25\u0e35\u0e48\u0e22\u0e19\u0e40\u0e25\u0e22 (Best Luck)",
         "url": "https://open.spotify.com/album/0Xzh5uhsKj61IstBtpyx0u"
       },
@@ -1408,7 +1568,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 293225,
       "name": "\u0e44\u0e21\u0e48\u0e40\u0e1b\u0e47\u0e19\u0e23\u0e2d\u0e07",
       "url": "https://open.spotify.com/track/38uarkAk3Y13onWxwj0MIq"

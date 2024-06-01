@@ -8291,6 +8291,24 @@
     },
     {
       "album": {
+        "name": "This MUSIC",
+        "url": "https://open.spotify.com/album/2ovhGLU3Nl9njlrhAWh3Ez"
+      },
+      "artists": [
+        {
+          "name": "DJ Myosuke",
+          "url": "https://open.spotify.com/artist/0GsEX8wr2fhu19PIwQh1oG"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190296,
+      "name": "This MUSIC",
+      "url": "https://open.spotify.com/track/1kHIcjvUVJHZzkDMTq1chO"
+    },
+    {
+      "album": {
         "name": "Odin",
         "url": "https://open.spotify.com/album/5WGuI5FFhhc5vdi8foTNqa"
       },

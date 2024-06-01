@@ -350,7 +350,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 137875,
       "name": "Blessed",
       "url": "https://open.spotify.com/track/4Eb505zojHO3HVFOY1tiBO"
@@ -1086,7 +1086,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 194545,
       "name": "Mafinyo",
       "url": "https://open.spotify.com/track/37dBDlByr5JgfQ6GuoBNuU"
@@ -2272,7 +2272,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 168000,
       "name": "Ready",
       "url": "https://open.spotify.com/track/7bWNIh6uMelhqya9DkE7nP"
@@ -2706,7 +2706,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 381727,
       "name": "SON-RISE - Resurrection",
       "url": "https://open.spotify.com/track/3BIjS35lXp5wajylMzYhdU"
@@ -2804,7 +2804,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 182491,
       "name": "TIGANA NA ADU",
       "url": "https://open.spotify.com/track/0qvETK86JRvJLnG6nWQJbM"
@@ -2840,7 +2840,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 202000,
       "name": "TOXIC (Racing Thoughts)",
       "url": "https://open.spotify.com/track/5U4Ovjih4AkPzm6qKgRSHs"
@@ -3314,6 +3314,24 @@
       "duration_ms": 141061,
       "name": "Who You Are",
       "url": "https://open.spotify.com/track/7wGFgjK6ExstaxgaxMkUbq"
+    },
+    {
+      "album": {
+        "name": "Yanashangaza",
+        "url": "https://open.spotify.com/album/6rcwfHaazv5sH0OJ8AA5SP"
+      },
+      "artists": [
+        {
+          "name": "Enock Jonas",
+          "url": "https://open.spotify.com/artist/2VrXyS2yRQrqOcZPGEfYa9"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259854,
+      "name": "Yanashangaza",
+      "url": "https://open.spotify.com/track/13IMFj8s9ehrpXCriCxtzR"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "The best new pop music by independent artists and labels. Cover: Caity Krone Artwork by Paola Saliby",
+  "description": "The best new pop music by independent artists and labels. Cover: Norah Hendriks Artwork by Paola Saliby",
   "name": "Fresh Finds Pop",
   "tracks": [
     {
@@ -4217,6 +4217,24 @@
     },
     {
       "album": {
+        "name": "BAD",
+        "url": "https://open.spotify.com/album/6fLH6vOljGjdAygO4qJ9PA"
+      },
+      "artists": [
+        {
+          "name": "Mint Simon",
+          "url": "https://open.spotify.com/artist/6CEtNCfXfEPpei0YBb0ZCh"
+        }
+      ],
+      "date_added": "2024-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "BAD",
+      "url": "https://open.spotify.com/track/2fv6RtYYHCg4qdlAAXePkM"
+    },
+    {
+      "album": {
         "name": "Bad As",
         "url": "https://open.spotify.com/album/2iEkfpoW55DujblM5vdrIY"
       },
@@ -4466,6 +4484,24 @@
       "duration_ms": 187600,
       "name": "Bad Habit (Don't Make Me Bad)",
       "url": "https://open.spotify.com/track/4pLK4OgSRf2LjxsKUvFM32"
+    },
+    {
+      "album": {
+        "name": "Bad Habits",
+        "url": "https://open.spotify.com/album/4MAA23qPFN2QwPEPPdCr9z"
+      },
+      "artists": [
+        {
+          "name": "Alex De Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5z1T1cdQQtn7tKVSG2TFb3"
+        }
+      ],
+      "date_added": "2024-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195514,
+      "name": "Bad Habits",
+      "url": "https://open.spotify.com/track/0QEh4IZ1nr5lXK63lLZ8na"
     },
     {
       "album": {
@@ -10408,7 +10444,7 @@
       ],
       "date_added": "2024-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 190500,
       "name": "clocks",
       "url": "https://open.spotify.com/track/4QpM0qoxJ9JxpggqXrDjIt"
@@ -12872,6 +12908,24 @@
       "duration_ms": 157648,
       "name": "Dangerous",
       "url": "https://open.spotify.com/track/3GvbNdrhPriMoouVkjKG5l"
+    },
+    {
+      "album": {
+        "name": "Dangerous",
+        "url": "https://open.spotify.com/album/1DzbWIh7tTnbyLV0NzWmJO"
+      },
+      "artists": [
+        {
+          "name": "Rubina",
+          "url": "https://open.spotify.com/artist/0LiwgXVesl4813KSchUH1M"
+        }
+      ],
+      "date_added": "2024-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165507,
+      "name": "Dangerous",
+      "url": "https://open.spotify.com/track/5sVGUMG3JxHXC70IGTjmK1"
     },
     {
       "album": {
@@ -15444,6 +15498,24 @@
       "duration_ms": 201000,
       "name": "Drive Slow",
       "url": "https://open.spotify.com/track/7dqLvLenLG1xjFoQuHXRNa"
+    },
+    {
+      "album": {
+        "name": "Drives Me Crazy",
+        "url": "https://open.spotify.com/album/0QN5ToOHmKm01Te3J4Pfpg"
+      },
+      "artists": [
+        {
+          "name": "Tobias Defoe",
+          "url": "https://open.spotify.com/artist/4UWYwl77CmLOHrz7Zehl2l"
+        }
+      ],
+      "date_added": "2024-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196595,
+      "name": "Drives Me Crazy",
+      "url": "https://open.spotify.com/track/4wRYig1iN6PwIEHGVxmDyA"
     },
     {
       "album": {
@@ -18931,6 +19003,24 @@
     },
     {
       "album": {
+        "name": "Flinch",
+        "url": "https://open.spotify.com/album/6SxQwyvLePhNTGyGSwX0Mp"
+      },
+      "artists": [
+        {
+          "name": "Ines Rae",
+          "url": "https://open.spotify.com/artist/40SsHWSC0ThXW2Gnq9KEBi"
+        }
+      ],
+      "date_added": "2024-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159138,
+      "name": "Flinch",
+      "url": "https://open.spotify.com/track/6VEYbd3zZVQLHH2u28fXbO"
+    },
+    {
+      "album": {
         "name": "Flip Phone",
         "url": "https://open.spotify.com/album/2SO5tWxif8CJ1mIa7H3o8g"
       },
@@ -20906,7 +20996,7 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 179729,
       "name": "Girl Friend",
       "url": "https://open.spotify.com/track/3FDJSVSr1znwkNjHRugwCM"
@@ -21368,7 +21458,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 137827,
       "name": "God Invented The Radio",
       "url": "https://open.spotify.com/track/3uxywHpCVUxrc7EyySg6mY"
@@ -27441,6 +27531,24 @@
     },
     {
       "album": {
+        "name": "i win",
+        "url": "https://open.spotify.com/album/55SUwxMlaNT4gsTDJtlLWd"
+      },
+      "artists": [
+        {
+          "name": "REYA",
+          "url": "https://open.spotify.com/artist/5UZpstjG63lGYQLT8qXPyE"
+        }
+      ],
+      "date_added": "2024-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 76384,
+      "name": "i win",
+      "url": "https://open.spotify.com/track/64XQVX4dMJiMrgso3vHn0o"
+    },
+    {
+      "album": {
         "name": "I Wish I Didn't Love You",
         "url": "https://open.spotify.com/album/106vwzEKRQeu6OqP7KOk2p"
       },
@@ -32421,6 +32529,24 @@
     },
     {
       "album": {
+        "name": "Like You Used To",
+        "url": "https://open.spotify.com/album/7j3SAf1ObSZg3aWi1tkssR"
+      },
+      "artists": [
+        {
+          "name": "Hunter Daily",
+          "url": "https://open.spotify.com/artist/5t5Fbw7cQgZyJnyJhmanlW"
+        }
+      ],
+      "date_added": "2024-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230899,
+      "name": "Like You Used To",
+      "url": "https://open.spotify.com/track/6l6ycuWiB5kaDRAObqzedo"
+    },
+    {
+      "album": {
         "name": "PRADO MONROE",
         "url": "https://open.spotify.com/album/1glnddunjz2TgTrx8wF3ZO"
       },
@@ -32656,6 +32782,24 @@
       "duration_ms": 237548,
       "name": "Little More",
       "url": "https://open.spotify.com/track/4r1GMh2IZewdGcIzCLdZPP"
+    },
+    {
+      "album": {
+        "name": "Little One",
+        "url": "https://open.spotify.com/album/4xD7rx6VteQLcL4F59Tr5t"
+      },
+      "artists": [
+        {
+          "name": "Surely Shirley",
+          "url": "https://open.spotify.com/artist/1X6Wtc4LhhMVsG78I869pB"
+        }
+      ],
+      "date_added": "2024-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217194,
+      "name": "Little One",
+      "url": "https://open.spotify.com/track/25CDamD1ROTPzl0sxP3rqs"
     },
     {
       "album": {
@@ -34616,6 +34760,24 @@
       "duration_ms": 145419,
       "name": "Low Key",
       "url": "https://open.spotify.com/track/2uCipn08SBpuYfHSIqj1wT"
+    },
+    {
+      "album": {
+        "name": "JESTERMAN",
+        "url": "https://open.spotify.com/album/2uhSDUavjgBCB46C5rYqUQ"
+      },
+      "artists": [
+        {
+          "name": "Keli Holiday",
+          "url": "https://open.spotify.com/artist/53IyqdnGZpmI0dRsySPdIM"
+        }
+      ],
+      "date_added": "2024-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194799,
+      "name": "lowdown",
+      "url": "https://open.spotify.com/track/4s10wX7nZoqgP8erbDwekP"
     },
     {
       "album": {
@@ -37196,7 +37358,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 206042,
       "name": "Moon Girl",
       "url": "https://open.spotify.com/track/0lejxzLZHbUC3reBoa3Zk9"
@@ -45774,7 +45936,7 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 152041,
       "name": "Ride",
       "url": "https://open.spotify.com/track/3HZgQNLNcrIYQZOO10lxZX"
@@ -46250,6 +46412,24 @@
       "duration_ms": 217795,
       "name": "Roster",
       "url": "https://open.spotify.com/track/1UfZWmGkJuNQVlhXMPs9P8"
+    },
+    {
+      "album": {
+        "name": "Rough Love",
+        "url": "https://open.spotify.com/album/315te35WGbPTh4fYj1INfL"
+      },
+      "artists": [
+        {
+          "name": "Norah Hendriks",
+          "url": "https://open.spotify.com/artist/6hxi3TzUBLGeBT1GCGA3sT"
+        }
+      ],
+      "date_added": "2024-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261937,
+      "name": "Rough Love",
+      "url": "https://open.spotify.com/track/1uFZAtVtDcBxLMRTecIsFI"
     },
     {
       "album": {
@@ -56141,6 +56321,24 @@
     },
     {
       "album": {
+        "name": "This Isn't Over",
+        "url": "https://open.spotify.com/album/6Pp7FsNjfsVdZfdo3ejSOk"
+      },
+      "artists": [
+        {
+          "name": "Abi Carter",
+          "url": "https://open.spotify.com/artist/6ryJRp2gIl77hK36D8tz2m"
+        }
+      ],
+      "date_added": "2024-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154450,
+      "name": "This Isn't Over",
+      "url": "https://open.spotify.com/track/019G5CuO3xezSEL6XaVtu7"
+    },
+    {
+      "album": {
         "name": "This Time",
         "url": "https://open.spotify.com/album/5C5hStJdN4dxsQPz4dpt4p"
       },
@@ -62696,6 +62894,24 @@
       "duration_ms": 198706,
       "name": "Y.T.D. (Year to Date)",
       "url": "https://open.spotify.com/track/1i7HGIitl7DPPfNtDzT2xr"
+    },
+    {
+      "album": {
+        "name": "Yangtze",
+        "url": "https://open.spotify.com/album/7hN7fldovxCYwcy17oLIO2"
+      },
+      "artists": [
+        {
+          "name": "Amanda Cy",
+          "url": "https://open.spotify.com/artist/7ocbmQfDODtTh1CFeK66wW"
+        }
+      ],
+      "date_added": "2024-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186333,
+      "name": "Yangtze",
+      "url": "https://open.spotify.com/track/6hUzIwvfD7BonU8vyLbKWk"
     },
     {
       "album": {

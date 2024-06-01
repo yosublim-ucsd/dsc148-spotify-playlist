@@ -6469,6 +6469,24 @@
     },
     {
       "album": {
+        "name": "Leave Behind",
+        "url": "https://open.spotify.com/album/5JEHpQDD5ytKRIwDLuSMY0"
+      },
+      "artists": [
+        {
+          "name": "Shin-Ski",
+          "url": "https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119082,
+      "name": "Leave Behind",
+      "url": "https://open.spotify.com/track/1BrETPp4kfh0cuYpTRfrk2"
+    },
+    {
+      "album": {
         "name": "Legacy code",
         "url": "https://open.spotify.com/album/3JAMfTw7BpOXr5B7kfEswI"
       },
@@ -7002,6 +7020,28 @@
       "duration_ms": 149000,
       "name": "Magnolia",
       "url": "https://open.spotify.com/track/2sJ3Y4XZOcD7lIth8zTYDE"
+    },
+    {
+      "album": {
+        "name": "deep forest",
+        "url": "https://open.spotify.com/album/3U6IW47ndf3rwqLW7ZMd5B"
+      },
+      "artists": [
+        {
+          "name": "hario island",
+          "url": "https://open.spotify.com/artist/4SSYmqlXA8awmX7PHheCJN"
+        },
+        {
+          "name": "very noise person",
+          "url": "https://open.spotify.com/artist/1YAZ1Efx4AY14uJAfsBEDv"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138155,
+      "name": "mahogany",
+      "url": "https://open.spotify.com/track/5kfT4wqQPUX94Ske9tAg6k"
     },
     {
       "album": {
@@ -11578,7 +11618,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 138880,
       "name": "Sudachi",
       "url": "https://open.spotify.com/track/4Ba5yNZnLdgZTpcMe1af9H"
@@ -12412,7 +12452,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 92696,
       "name": "Tokyo Mornings",
       "url": "https://open.spotify.com/track/0vNjMAfi6DB5HahsQjo4D7"

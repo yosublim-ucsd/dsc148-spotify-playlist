@@ -88,7 +88,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 258906,
       "name": "A.M. Hours",
       "url": "https://open.spotify.com/track/4pQaJHrYyFIWNxpNyU9BXW"
@@ -622,6 +622,24 @@
       "duration_ms": 268915,
       "name": "central park west",
       "url": "https://open.spotify.com/track/5jPy6437F28samqS2tJu7n"
+    },
+    {
+      "album": {
+        "name": "Coffee & Jazz",
+        "url": "https://open.spotify.com/album/3L7Nkvi8EWJqDNaczof0u9"
+      },
+      "artists": [
+        {
+          "name": "James Butler",
+          "url": "https://open.spotify.com/artist/5BVCx8PM4yCayPORiTmmgA"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141607,
+      "name": "Cherry Coffee",
+      "url": "https://open.spotify.com/track/0Y9UzlQjWC5a10L9Gmo4KB"
     },
     {
       "album": {
@@ -1695,6 +1713,24 @@
     },
     {
       "album": {
+        "name": "Dawn Is A Melody",
+        "url": "https://open.spotify.com/album/35WUtljHKedxMGYbRrqwWg"
+      },
+      "artists": [
+        {
+          "name": "Finn Rees",
+          "url": "https://open.spotify.com/artist/4VRtrl4vjdooevtaWYZtKb"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344643,
+      "name": "It's Behind Me Now",
+      "url": "https://open.spotify.com/track/0uha0XXBVV96C4tkZKShog"
+    },
+    {
+      "album": {
         "name": "Stay a While",
         "url": "https://open.spotify.com/album/4PTUyl0wF1Nw0Dfisf3bjE"
       },
@@ -1862,7 +1898,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 321800,
       "name": "Little Bird of Passage",
       "url": "https://open.spotify.com/track/7Ax5oHgngxCgqJNsBBzaub"
@@ -1972,7 +2008,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 415106,
       "name": "Los Bandidos Bogarolles",
       "url": "https://open.spotify.com/track/4Z0iEYAkE3fjpu7DG3n7nw"
@@ -3808,6 +3844,24 @@
       "duration_ms": 167906,
       "name": "Waltz for Hal Willner",
       "url": "https://open.spotify.com/track/5GiqJaoSZn8pMpYztkKeR1"
+    },
+    {
+      "album": {
+        "name": "Water Spirits: Izinkonjana",
+        "url": "https://open.spotify.com/album/3oGThAQ0T3tY3S6tGGsxnl"
+      },
+      "artists": [
+        {
+          "name": "Nduduzo Makhathini",
+          "url": "https://open.spotify.com/artist/6EvFcDtvFuVugEtZNslkft"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 394975,
+      "name": "Water Spirits: Izinkonjana",
+      "url": "https://open.spotify.com/track/4dCaP48I6Gy52R3fT5Xq7D"
     },
     {
       "album": {

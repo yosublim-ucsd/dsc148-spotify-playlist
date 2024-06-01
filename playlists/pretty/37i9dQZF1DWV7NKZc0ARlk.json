@@ -1,6 +1,6 @@
 {
   "description": "Los \u00e9xitos del pop suenan mejor en vivo. Foto: Thalia ",
-  "num_followers": 182793,
+  "num_followers": 183634,
   "original_name": "Vivo de Pop",
   "owner": {
     "name": "Spotify",
@@ -703,18 +703,22 @@
     {
       "added_at": "2024-03-12 17:53:16",
       "album": {
-        "name": "Primera Fila Flans",
-        "url": "https://open.spotify.com/album/3Q2ojWYIEh9ASuJevLr64C"
+        "name": "Tour Terral (Tres noches en Las Ventas)",
+        "url": "https://open.spotify.com/album/3b2X7VxxfTCFRJQkShaJhc"
       },
       "artists": [
         {
-          "name": "Ilse, Ivonne y Mimi",
-          "url": "https://open.spotify.com/artist/3d79GDviyp0nkS5hPDlBKX"
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        },
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
         }
       ],
-      "duration_ms": 254266,
-      "name": "Las Mil y una Noches - Primera Fila Flans (En Vivo)",
-      "url": "https://open.spotify.com/track/3V47MeZFqKMxBlxaF3wqRq"
+      "duration_ms": 297205,
+      "name": "Qui\u00e9n (feat. Alejandro Sanz) - En directo",
+      "url": "https://open.spotify.com/track/6a46HjzJUcpUGEsbwvEh9E"
     },
     {
       "added_at": "2024-03-12 17:53:16",
@@ -739,22 +743,18 @@
     {
       "added_at": "2024-03-12 17:53:16",
       "album": {
-        "name": "Tour Terral (Tres noches en Las Ventas)",
-        "url": "https://open.spotify.com/album/3b2X7VxxfTCFRJQkShaJhc"
+        "name": "Primera Fila Flans",
+        "url": "https://open.spotify.com/album/3Q2ojWYIEh9ASuJevLr64C"
       },
       "artists": [
         {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-        },
-        {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+          "name": "Ilse, Ivonne y Mimi",
+          "url": "https://open.spotify.com/artist/3d79GDviyp0nkS5hPDlBKX"
         }
       ],
-      "duration_ms": 297205,
-      "name": "Qui\u00e9n (feat. Alejandro Sanz) - En directo",
-      "url": "https://open.spotify.com/track/6a46HjzJUcpUGEsbwvEh9E"
+      "duration_ms": 254266,
+      "name": "Las Mil y una Noches - Primera Fila Flans (En Vivo)",
+      "url": "https://open.spotify.com/track/3V47MeZFqKMxBlxaF3wqRq"
     },
     {
       "added_at": "2024-03-12 17:53:16",

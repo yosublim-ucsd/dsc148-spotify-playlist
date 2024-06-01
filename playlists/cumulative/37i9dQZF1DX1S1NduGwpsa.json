@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The best jazz new releases. Cover: Kimberose",
+  "description": "The best jazz new releases. Cover: Emilie-Claire Barlow",
   "name": "Jazz Club",
   "tracks": [
     {
@@ -1719,6 +1719,24 @@
     },
     {
       "album": {
+        "name": "Mid Spiral: Growth",
+        "url": "https://open.spotify.com/album/5CqumIo51QeCiboYgpxpN8"
+      },
+      "artists": [
+        {
+          "name": "BADBADNOTGOOD",
+          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333881,
+      "name": "Celestial Hands",
+      "url": "https://open.spotify.com/track/4HOVerAo4A7ipCQJix9fIp"
+    },
+    {
+      "album": {
         "name": "Chacha Rom",
         "url": "https://open.spotify.com/album/6hRtnGFtIzAlYh05Ehog4h"
       },
@@ -2278,6 +2296,32 @@
       "duration_ms": 176386,
       "name": "Coucou",
       "url": "https://open.spotify.com/track/5whsPGYSk2FMFCkluUkp6I"
+    },
+    {
+      "album": {
+        "name": "Courage",
+        "url": "https://open.spotify.com/album/0NzPU1kszNvsOKQyvZt5Q0"
+      },
+      "artists": [
+        {
+          "name": "Avishai Cohen",
+          "url": "https://open.spotify.com/artist/5wu05jGsVMAFHYMYHqCB9l"
+        },
+        {
+          "name": "Roni Kaspi",
+          "url": "https://open.spotify.com/artist/12mubYgIHWEtjzaEi41bv9"
+        },
+        {
+          "name": "Guy Moskovich",
+          "url": "https://open.spotify.com/artist/3ayMZIWae6YcKu9kdj0pVK"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208155,
+      "name": "Courage",
+      "url": "https://open.spotify.com/track/2i6pMDJd8lcKpD6gOOnEsl"
     },
     {
       "album": {
@@ -3218,6 +3262,24 @@
       "duration_ms": 257480,
       "name": "Feel Like Making Love",
       "url": "https://open.spotify.com/track/6KYUWlts5z7bIZMpVvWpfc"
+    },
+    {
+      "album": {
+        "name": "Feelin' Groovy (Live at Orange Lounge)",
+        "url": "https://open.spotify.com/album/6fpOW4T0Ik4pbNqmhUvsJM"
+      },
+      "artists": [
+        {
+          "name": "Emilie-Claire Barlow",
+          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269065,
+      "name": "Feelin' Groovy - Live at Orange Lounge",
+      "url": "https://open.spotify.com/track/5sktNvNCghzLvPUvLVyV7m"
     },
     {
       "album": {
@@ -4360,7 +4422,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 185493,
       "name": "Hold Me",
       "url": "https://open.spotify.com/track/7JLnz4gduHX0gXdaCp33Kb"
@@ -4462,6 +4524,24 @@
       "duration_ms": 217376,
       "name": "How Did You Get In My Dreams?",
       "url": "https://open.spotify.com/track/3H54XoNyQQ8ZIIJUDMDSaO"
+    },
+    {
+      "album": {
+        "name": "How I Wish",
+        "url": "https://open.spotify.com/album/7mi2Td5xgke6KBnfDjP4ao"
+      },
+      "artists": [
+        {
+          "name": "Madeleine Peyroux",
+          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254093,
+      "name": "How I Wish",
+      "url": "https://open.spotify.com/track/5HK4yDAEmmUA1588782PD5"
     },
     {
       "album": {
@@ -7360,7 +7440,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 208741,
       "name": "One Last Dance",
       "url": "https://open.spotify.com/track/0MzrzzeC7IvFk1J9DFdu4d"
@@ -9828,7 +9908,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 271263,
       "name": "There Goes",
       "url": "https://open.spotify.com/track/59AiOQODuznd7cayIRelBv"
@@ -10806,7 +10886,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 273720,
       "name": "We See",
       "url": "https://open.spotify.com/track/10JL24MSk2QDnrhwM1mOAt"

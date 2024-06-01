@@ -2,7 +2,7 @@
 
 ### [Pakka Hit Hai](https://open.spotify.com/playlist/37i9dQZF1DX6TT2YOPM1n3)
 
-> Hai Hai Hoye Hoye Home to current Pakistani Hits\. 🇵🇰 Cover: Kaavish, Abdul Hannan
+> Hai Hai Hoye Hoye Home to current Pakistani Hits\. 🇵🇰 Cover: Hasan Raheem
 
 149 songs - 9 hr 42 min
 
@@ -31,7 +31,7 @@
 | [Bewafa](https://open.spotify.com/track/2sHHVNvfUlegjyhJpRzJjX) | [Imran Khan](https://open.spotify.com/artist/24BYRlsS8uIO4jA71mJ4Js) | [Unforgettable](https://open.spotify.com/album/4sOf4oPLCx7e73JOsRTZQ7) | 3:44 | 2024-03-19 | 2024-04-19 |
 | [Bewafa](https://open.spotify.com/track/4FcknXDJ8yW2QYUl0cm6uJ) | [Imran Khan](https://open.spotify.com/artist/24BYRlsS8uIO4jA71mJ4Js) | [Bewafa](https://open.spotify.com/album/31EKix5WSmQMNWLj1Je8dg) | 3:44 | 2023-11-29 | 2024-04-27 |
 | [BIG DAWG THING \(feat\. JJ47, Talha Anjum, Shamoon Ismail & Talhah Yunus\)](https://open.spotify.com/track/2ucn3bxMSugJRPSuciyoI6) | [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi), [JJ47](https://open.spotify.com/artist/1SlrUQlFRfExXSCkHsQgBc), [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci), [Shamoon Ismail](https://open.spotify.com/artist/5bxVbtf4t5k1QPmy0XDvgv), [Talhah Yunus](https://open.spotify.com/artist/3mGW1eoqwNtCxd8R3hIOM5) | [BIG DAWG THING](https://open.spotify.com/album/0Bp1c8XFPOyJFgSSI9yOzr) | 5:01 | 2024-04-25 | 2024-04-27 |
-| [BIG DAWG THING \(feat\. JJ47, Talha Anjum, Shamoon Ismail & Talhah Yunus\)](https://open.spotify.com/track/7bT78WsTtxts1c6cb2mSnP) | [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi), [JJ47](https://open.spotify.com/artist/1SlrUQlFRfExXSCkHsQgBc), [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci), [Shamoon Ismail](https://open.spotify.com/artist/5bxVbtf4t5k1QPmy0XDvgv), [Talhah Yunus](https://open.spotify.com/artist/3mGW1eoqwNtCxd8R3hIOM5) | [ROCKSTAR WITHOUT A GUITAR](https://open.spotify.com/album/1DayIaoubhlZ9kiX2mB9So) | 5:01 | 2024-04-26 |  |
+| [BIG DAWG THING \(feat\. JJ47, Talha Anjum, Shamoon Ismail & Talhah Yunus\)](https://open.spotify.com/track/7bT78WsTtxts1c6cb2mSnP) | [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi), [JJ47](https://open.spotify.com/artist/1SlrUQlFRfExXSCkHsQgBc), [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci), [Shamoon Ismail](https://open.spotify.com/artist/5bxVbtf4t5k1QPmy0XDvgv), [Talhah Yunus](https://open.spotify.com/artist/3mGW1eoqwNtCxd8R3hIOM5) | [ROCKSTAR WITHOUT A GUITAR](https://open.spotify.com/album/1DayIaoubhlZ9kiX2mB9So) | 5:01 | 2024-04-26 | 2024-06-01 |
 | [Bikhra](https://open.spotify.com/track/0OdztoASgKBBNcAgtErk0X) | [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1), [Rovalio](https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C) | [Bikhra](https://open.spotify.com/album/4yfjeaROize8h6IkgU5RBn) | 2:48 | 2023-05-04 |  |
 | [Blockbuster](https://open.spotify.com/track/2kQ4qdEtzWR1scQBlsjl8M) | [Faris Shafi](https://open.spotify.com/artist/1LAdnp9wIdKClX7Cool0GD), [Umair Butt](https://open.spotify.com/artist/4E2wX4DFQFhlLyVzRw0C1P), [Gharvi Group](https://open.spotify.com/artist/2zOjtDwrBj757zRzqgHP82) | [Blockbuster](https://open.spotify.com/album/6uqXvhk1Qq1sUUDTDZgxg8) | 4:34 | 2024-05-25 |  |
 | [Bulleya](https://open.spotify.com/track/6xIhjZX1ZtFIXg1IDa3DAi) | [Asim Azhar](https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS), [Shae Gill](https://open.spotify.com/artist/3bWIy9AUrQdiNeS62Bp3OP) | [Bulleya](https://open.spotify.com/album/3c7tSHkLyybTCmtaNlYLSJ) | 3:41 | 2023-05-30 | 2023-11-30 |

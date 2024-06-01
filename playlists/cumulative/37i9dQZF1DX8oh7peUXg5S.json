@@ -1410,7 +1410,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-27",
+      "date_removed": null,
       "duration_ms": 214881,
       "name": "Deseos de cosas imposibles",
       "url": "https://open.spotify.com/track/1bEhmOoBkeINjLcLA2z0rp"
@@ -3382,7 +3382,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 222965,
       "name": "Niebla",
       "url": "https://open.spotify.com/track/3dpi4ZGA27elKx01mbWSb7"
@@ -4143,6 +4143,24 @@
     },
     {
       "album": {
+        "name": "Quer\u00eda Saber",
+        "url": "https://open.spotify.com/album/6OxNP56RlMUykEo91pzx9y"
+      },
+      "artists": [
+        {
+          "name": "Silvio Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289317,
+      "name": "Quer\u00eda Saber",
+      "url": "https://open.spotify.com/track/50bvIAriO4MoPhQUiUDdsR"
+    },
+    {
+      "album": {
         "name": "Quien encendi\u00f3 la luz",
         "url": "https://open.spotify.com/album/5195FGFR87Ixc9EjKwpbbu"
       },
@@ -4580,7 +4598,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 262111,
       "name": "Si me voy",
       "url": "https://open.spotify.com/track/0zOsk2b1IHRyAQfV8vzjtv"
@@ -5383,6 +5401,24 @@
     },
     {
       "album": {
+        "name": "Una carta con tu nombre",
+        "url": "https://open.spotify.com/album/3IZWZ0sMl8VMLUwd9e8vBa"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Mart\u00edn",
+          "url": "https://open.spotify.com/artist/61Yep7VEr8FU4XEY2aUIMN"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235075,
+      "name": "Una carta con tu nombre",
+      "url": "https://open.spotify.com/track/5rgb2Vl3iWofqOURoCELoq"
+    },
+    {
+      "album": {
         "name": "Una cueva en el invierno",
         "url": "https://open.spotify.com/album/1ZJuPuaPhSuHYLc9dgQAaR"
       },
@@ -5448,7 +5484,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 308510,
       "name": "Unicornio",
       "url": "https://open.spotify.com/track/0lxu1Pmegx2SELobpAXzz4"

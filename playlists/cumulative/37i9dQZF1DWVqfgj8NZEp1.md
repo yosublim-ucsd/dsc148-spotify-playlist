@@ -4,7 +4,7 @@
 
 > Relax to the sound of gentle instrumental Jazz.
 
-313 songs - 1 day 4 hr 54 min
+316 songs - 1 day 5 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Embraceable You](https://open.spotify.com/track/26gDYD4OuUtkFPBxOjPTKM) | [Tim Lin](https://open.spotify.com/artist/5bBXTNFET9gZwjonZi8Srt) | [Embraceable You](https://open.spotify.com/album/6wRLmJCjbZ0Fug5l1SjK1a) | 7:12 | 2024-03-15 |  |
 | [Emperor Jones](https://open.spotify.com/track/5wRlH3diPDfn9jv91hxkUy) | [Joe Lovano](https://open.spotify.com/artist/36YE6h8aN09ZKG4EhneDSf) | [Landmarks](https://open.spotify.com/album/6knFj9fiPTyAN65Ki0ydfo) | 5:14 | 2020-10-09 | 2023-04-19 |
 | [Ev'rytime We Say Goodbye](https://open.spotify.com/track/72KHUsa4UyTXpSf7jRb1ih) | [Mark Sherman](https://open.spotify.com/artist/18AQ9nxWckf5yw7XuEvten) | [My Other Voice](https://open.spotify.com/album/4bLtP25ArMR6Athup5vBTH) | 7:07 | 2020-10-09 |  |
+| [Evening Song](https://open.spotify.com/track/6H1xcoIZKkWikg7sFlQfh9) | [Søren Bebe Trio](https://open.spotify.com/artist/32sqNe2WFtog9WufAVd8EI), [Søren Bebe](https://open.spotify.com/artist/7waR4b5Jd0R39qLTFhOJWh) | [Evening Song](https://open.spotify.com/album/3tQYOY5uJmMYx0oUKvSAxW) | 2:47 | 2024-05-31 |  |
 | [Fabienne](https://open.spotify.com/track/34ENpx8bYPgYCTSTtRMcCC) | [John Lee](https://open.spotify.com/artist/2bLlwzmY1YcEVFuVEfaUmN), [Cory Weeds](https://open.spotify.com/artist/0YB9WHBn7xTEQsvcFZRUdy) | [The Artist](https://open.spotify.com/album/4RlmJEPHL2p0QMaSsvJqVn) | 6:03 | 2022-05-12 | 2023-05-24 |
 | [Fallen \- Jazzed](https://open.spotify.com/track/2EPZnVX8kSv2L2CxEXhkDw) | [Blank & Jones](https://open.spotify.com/artist/2XTff332rrZaE1rBM47Krp), [Julian & Roman Wasserfuhr](https://open.spotify.com/artist/3Dj5ObqiSZgnebc0xgZi0O) | [Fallen \(Jazzed\)](https://open.spotify.com/album/3LYATsYqAozUUuBbwn4D0l) | 4:24 | 2022-01-07 | 2022-08-17 |
 | [Far Away](https://open.spotify.com/track/77W0DKmlfrMCTIyQZQdEEI) | [Sebastian Zawadzki](https://open.spotify.com/artist/5UYaW3kkkyj483LiCOleBH) | [Far Away](https://open.spotify.com/album/2FwUA6eYCekmmkLvPK7Im7) | 7:13 | 2020-12-04 | 2022-12-21 |
@@ -178,6 +179,7 @@
 | [Mood](https://open.spotify.com/track/79xYzymN9wuN9jrIREWIiI) | [Denis Gäbel](https://open.spotify.com/artist/1D6hUykxz5eOqzOmk1rtn0), [Sebastian Sternal](https://open.spotify.com/artist/3uYaI9pblcTHZCV5zSoNzK), [Reuben Rogers](https://open.spotify.com/artist/4suPNNUCtzkjmLIQnCGNeL), [Clarence Penn](https://open.spotify.com/artist/5rJj8HrmzwTut6lKzChcEh) | [Mood](https://open.spotify.com/album/5Ha52obqipY50QSAkWjE3R) | 7:33 | 2022-10-06 | 2023-10-04 |
 | [Moonlight in Vermont](https://open.spotify.com/track/3YXb6d0LRSc3UaYafQ6acE) | [Joe Farnsworth](https://open.spotify.com/artist/42ICgxJl0MTeVV8IeFGuP4) | [Moonlight in Vermont](https://open.spotify.com/album/2uGDhyFVW5LusWVFn5XtsU) | 6:53 | 2021-08-20 |  |
 | [Moonlight in Vermont](https://open.spotify.com/track/5SjukQ9cPwYxzUkrxrh4Ri) | [Joe Farnsworth](https://open.spotify.com/artist/42ICgxJl0MTeVV8IeFGuP4) | [City of Sounds](https://open.spotify.com/album/7eCsq51INi4VOW6VxEQATr) | 6:53 | 2023-01-10 | 2024-04-19 |
+| [Moonlight In Vermont](https://open.spotify.com/track/6yWlAhcnlVq9VThnWaMvkK) | [John Lee](https://open.spotify.com/artist/2bLlwzmY1YcEVFuVEfaUmN) | [Moonlight In Vermont](https://open.spotify.com/album/4Wldh9Q4ECOwN0CeLrk9mg) | 3:23 | 2024-05-31 |  |
 | [Moons Ago](https://open.spotify.com/track/3c8MEEkKekl7BslWa83f55) | [Dominik Schürmann trio](https://open.spotify.com/artist/3HIiSgXxugDR6W7DiJ6zEK), [Max Ionata](https://open.spotify.com/artist/0Cn4yjRG7JFC5DhZfnEYzz) | [Moons Ago](https://open.spotify.com/album/13Ua0b5HRh4DtWdQa993oD) | 6:06 | 2024-03-15 | 2024-04-19 |
 | [Moons Ago](https://open.spotify.com/track/7KVEWO1McsqsfoX7rXQdFy) | [Dominik Schürmann trio](https://open.spotify.com/artist/3HIiSgXxugDR6W7DiJ6zEK), [Max Ionata](https://open.spotify.com/artist/0Cn4yjRG7JFC5DhZfnEYzz) | [Moons Ago](https://open.spotify.com/album/5i1YDBZFg7sq2PmskQdzv3) | 6:06 | 2022-03-25 |  |
 | [My Ideal](https://open.spotify.com/track/2LfXUjO4fzzG4Zp0CkATQs) | [Jerry Bergonzi](https://open.spotify.com/artist/5CSkWcdoRvgBQDwJTZZstJ), [The Modern Jazz Trio](https://open.spotify.com/artist/0nAuSsRUTeyOp4cvsam5pt) | [Standard Gonz](https://open.spotify.com/album/4jym5FR0j3jAdcazPDLLDa) | 3:39 | 2022-06-30 | 2024-04-19 |
@@ -303,6 +305,7 @@
 | [Vid Frösö kyrka \- From Frösöblomster](https://open.spotify.com/track/6bqNdzv1KHd5C7ae0YbV7r) | [Trio X of Sweden](https://open.spotify.com/artist/51s0AOLvBvXk75SsVUqIKZ) | [Träumerei](https://open.spotify.com/album/0xvKY28Z5isacgZ1CoEn8r) | 4:57 | 2020-10-09 |  |
 | [Vila Bela](https://open.spotify.com/track/5D3PlAFLpjhT8AHouXJpsR) | [Amaro Freitas](https://open.spotify.com/artist/3Y37ixG7KDgDqxSE6PL679) | [Sankofa](https://open.spotify.com/album/5cT5wndmYkuba7x4bnvIRf) | 4:44 | 2021-06-25 | 2022-10-05 |
 | [We Three](https://open.spotify.com/track/5jkJkA8Dpu9a60s0LYfW2I) | [Cory Weeds](https://open.spotify.com/artist/0YB9WHBn7xTEQsvcFZRUdy) | [Just Coolin'](https://open.spotify.com/album/7a5hU0lslyNVtVNADYWtBx) | 11:01 | 2022-04-14 |  |
+| [We Two](https://open.spotify.com/track/4lEbSwsvJsxN1G1DC5AJEP) | [Robert Edwards](https://open.spotify.com/artist/5DmkuH4UiV7WesTUXh8itQ) | [We Two](https://open.spotify.com/album/7lF0EtrsCPEYTvyUmozsuP) | 4:41 | 2024-05-31 |  |
 | [We Will Never Meet Again](https://open.spotify.com/track/01bwGowuoCT9klYUIJwuBl) | [John Rae](https://open.spotify.com/artist/09SVpoNxeMVRHY48xjqS0c) | [Where the Wild Clematis Grow](https://open.spotify.com/album/0kJMTBOqVB9PNFHK0FeotP) | 4:17 | 2022-06-30 | 2024-04-19 |
 | [We Will Never Meet Again](https://open.spotify.com/track/6zYDzFqWrXG2rMWZA1I7tZ) | [John Rae](https://open.spotify.com/artist/09SVpoNxeMVRHY48xjqS0c) | [We Will Never Meet Again](https://open.spotify.com/album/4FrHFBCtchCE0qfhEcXdqF) | 4:17 | 2020-10-09 |  |
 | [We'll Be Together Again](https://open.spotify.com/track/7a4Pzn2ppZP1GNLyrgL4J8) | [Copenhagen Jazzexperience](https://open.spotify.com/artist/4JEWCpMIrw4HJgsAlkblBo), [Jacob Christoffersen](https://open.spotify.com/artist/3ljK3UprmcWotHs686486V), [Claus Waidtløw](https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D) | [We'll Be Together Again](https://open.spotify.com/album/1bzgX2nMfXveMPGZOYNzZ7) | 5:08 | 2024-01-19 |  |

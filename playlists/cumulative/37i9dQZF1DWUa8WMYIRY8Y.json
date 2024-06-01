@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Les meilleurs morceaux alternatifs du moment. Photo : Cage The Elephant",
+  "description": "Les meilleurs morceaux alternatifs du moment. Photo : Fontaines D.C.",
   "name": "Hot Alternative",
   "tracks": [
     {
@@ -356,7 +356,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 177597,
       "name": "BLACK COUNTRY GOTHIC",
       "url": "https://open.spotify.com/track/4bdRkbM86QXBePsF6cswUV"
@@ -937,6 +937,24 @@
     },
     {
       "album": {
+        "name": "Don't Go Making Plans",
+        "url": "https://open.spotify.com/album/0sa9LDew1lNqr9eER3vhBR"
+      },
+      "artists": [
+        {
+          "name": "Hard-Fi",
+          "url": "https://open.spotify.com/artist/14Gi3Uph96lpNB3utkoVAD"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195133,
+      "name": "Don't Go Making Plans",
+      "url": "https://open.spotify.com/track/2M1h3tFmbtjxlp5WcWiK3q"
+    },
+    {
+      "album": {
         "name": "Don't You Want To Sleep With Someone Normal?",
         "url": "https://open.spotify.com/album/3pZbBTlwXWw77Tj5Euwe3s"
       },
@@ -1172,7 +1190,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 277285,
       "name": "Fishbrain",
       "url": "https://open.spotify.com/track/0xEHXAoanem0YrAZ2HMFRY"
@@ -1954,7 +1972,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 207530,
       "name": "Love You More Than Me",
       "url": "https://open.spotify.com/track/2lvCkBDLgP78jDpkdECtVF"
@@ -2462,7 +2480,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 175091,
       "name": "Nothing To Do",
       "url": "https://open.spotify.com/track/2Eza3ko1jcN2xkm6BkeUM4"
@@ -2502,6 +2520,24 @@
       "duration_ms": 151795,
       "name": "Nudge",
       "url": "https://open.spotify.com/track/18XvbzuW5P1hMfqK1K3T5w"
+    },
+    {
+      "album": {
+        "name": "may tape",
+        "url": "https://open.spotify.com/album/381E6OsmqJ5fVajkraEKWu"
+      },
+      "artists": [
+        {
+          "name": "Emma Castellino",
+          "url": "https://open.spotify.com/artist/2layJFdtvlPW95WA9s2GST"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275492,
+      "name": "on & on",
+      "url": "https://open.spotify.com/track/0506x1pgaOUdCHl7pMVs3Z"
     },
     {
       "album": {
@@ -2624,7 +2660,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 201467,
       "name": "Pink Skies",
       "url": "https://open.spotify.com/track/4MiJlJoCLr6X2Q7D9fN4hT"
@@ -3213,6 +3249,24 @@
     },
     {
       "album": {
+        "name": "Stupid Heart",
+        "url": "https://open.spotify.com/album/2mNque84IKRiGLn6QpHrxn"
+      },
+      "artists": [
+        {
+          "name": "Rare Americans",
+          "url": "https://open.spotify.com/artist/0e5Rda7VQAY786739xp0Jt"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142133,
+      "name": "Stupid Heart",
+      "url": "https://open.spotify.com/track/64FWcpeHm6BB9oFlacsY3w"
+    },
+    {
+      "album": {
         "name": "Sunday Afternoon",
         "url": "https://open.spotify.com/album/4rDjI4hbV4w4KLsi7JoMjH"
       },
@@ -3393,6 +3447,24 @@
     },
     {
       "album": {
+        "name": "The End",
+        "url": "https://open.spotify.com/album/6diYy4ydu9Ew6yLStmpNdK"
+      },
+      "artists": [
+        {
+          "name": "October Baby",
+          "url": "https://open.spotify.com/artist/1x5rMrmsrQmBYs7P8sm9rD"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159520,
+      "name": "The End",
+      "url": "https://open.spotify.com/track/61hkYwYeknRNFuj9TmgTtI"
+    },
+    {
+      "album": {
         "name": "The End of the Contender",
         "url": "https://open.spotify.com/album/0wInWtAoFAQtzg9Pp4G91n"
       },
@@ -3476,7 +3548,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 201200,
       "name": "The Thief",
       "url": "https://open.spotify.com/track/5yTixFP31a9CFwyh8vP80n"
@@ -3534,6 +3606,24 @@
       "duration_ms": 179037,
       "name": "Theatre",
       "url": "https://open.spotify.com/track/7sb94ZGWPLYRaVYRqOgfQC"
+    },
+    {
+      "album": {
+        "name": "Thrown Around",
+        "url": "https://open.spotify.com/album/6dqfoHNZqWOM54L6TxMOXs"
+      },
+      "artists": [
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260407,
+      "name": "Thrown Around",
+      "url": "https://open.spotify.com/track/6hEiEWEgAuFvEJduuSQLiw"
     },
     {
       "album": {
@@ -3884,6 +3974,24 @@
       "duration_ms": 198707,
       "name": "Your Apartment",
       "url": "https://open.spotify.com/track/2F8GiqfSE1JSjLGHlHMmQa"
+    },
+    {
+      "album": {
+        "name": "Your Own Worst Enemy",
+        "url": "https://open.spotify.com/album/2x9ZBO8F5jPqAke9SjxqKS"
+      },
+      "artists": [
+        {
+          "name": "Maximo Park",
+          "url": "https://open.spotify.com/artist/048FBwXjFYBWxSggPDipic"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204280,
+      "name": "Your Own Worst Enemy",
+      "url": "https://open.spotify.com/track/4NdQmKsAK6AMiVPyvIira1"
     },
     {
       "album": {

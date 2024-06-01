@@ -1,13 +1,29 @@
 {
   "description": "DEADBEATS &amp; BROWNIES - Drum &amp; Bass compilation out now!  DEADBEATS ON TOUR NOW--&gt; <a href=\"http://www.deadbeatsofficial.com\">www.deadbeatsofficial.com</a>",
-  "num_followers": 62728,
+  "num_followers": 62726,
   "original_name": "Zeds Dead's Deadbeats",
   "owner": {
     "name": "Zeds Dead",
     "url": "https://open.spotify.com/user/zedsdeadofficial"
   },
-  "snapshot_id": "AAAW+Hc9wWrdhcdHHVhvzJ/y5eGwst4u",
+  "snapshot_id": "AAAW+/SLUSxiCwIOcIKYOYWhwKxwEHv5",
   "tracks": [
+    {
+      "added_at": "2024-05-31 14:23:54",
+      "album": {
+        "name": "DIMENSIONS",
+        "url": "https://open.spotify.com/album/6oWwk2twiHE14qLrxOSmyS"
+      },
+      "artists": [
+        {
+          "name": "FrostTop",
+          "url": "https://open.spotify.com/artist/6T9vLiLn2HpWHNaaEajGB4"
+        }
+      ],
+      "duration_ms": 155200,
+      "name": "DIMENSIONS",
+      "url": "https://open.spotify.com/track/4msDV8woKgp0ZeF16NcEdU"
+    },
     {
       "added_at": "2024-05-24 15:47:46",
       "album": {
@@ -187,7 +203,7 @@
     {
       "added_at": "2024-05-24 15:48:20",
       "album": {
-        "name": "Push",
+        "name": "Push (feat. OFFAIAH)",
         "url": "https://open.spotify.com/album/3GSEVlHrbrQbKSP4ozWzx8"
       },
       "artists": [
@@ -204,16 +220,16 @@
           "url": "https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN"
         },
         {
-          "name": "contra",
-          "url": "https://open.spotify.com/artist/5VYRcaryFLFZnA5HvnRHFi"
-        },
-        {
           "name": "OFFAIAH",
           "url": "https://open.spotify.com/artist/2E1NFr5AeEGUJkLUUsWCAO"
+        },
+        {
+          "name": "contra",
+          "url": "https://open.spotify.com/artist/5VYRcaryFLFZnA5HvnRHFi"
         }
       ],
       "duration_ms": 185244,
-      "name": "Push",
+      "name": "Push (feat. OFFAIAH)",
       "url": "https://open.spotify.com/track/29OFLlrrfKIEVwbVMTjBYe"
     },
     {

@@ -1,12 +1,12 @@
 {
-  "description": "This is Stevie Ray Vaughan. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 150419,
+  "description": "This is Stevie Ray Vaughan. The essential tracks, all in one playlist.",
+  "num_followers": 150540,
   "original_name": "This Is Stevie Ray Vaughan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlPNAAAAAABPcDqhKZR4SzEG0dheU5Ya",
+  "snapshot_id": "ZlfBgAAAAAA7iLz2kPbm3UNzfCZJCEMd",
   "tracks": [
     {
       "added_at": null,
@@ -20,9 +20,9 @@
           "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
         }
       ],
-      "duration_ms": 166960,
-      "name": "Mary Had a Little Lamb",
-      "url": "https://open.spotify.com/track/0nFZ2HQRnIxiwraCm2X6Uq"
+      "duration_ms": 219586,
+      "name": "Pride and Joy",
+      "url": "https://open.spotify.com/track/1a2iF9XymafjRk56q7oCxo"
     },
     {
       "added_at": null,
@@ -84,9 +84,9 @@
           "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
         }
       ],
-      "duration_ms": 141933,
-      "name": "Love Struck Baby",
-      "url": "https://open.spotify.com/track/5MVMARaMoclifNmBtPu0dD"
+      "duration_ms": 166960,
+      "name": "Mary Had a Little Lamb",
+      "url": "https://open.spotify.com/track/0nFZ2HQRnIxiwraCm2X6Uq"
     },
     {
       "added_at": null,
@@ -152,9 +152,9 @@
           "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
         }
       ],
-      "duration_ms": 320906,
-      "name": "Texas Flood",
-      "url": "https://open.spotify.com/track/5MtN38MGEWJt60LwtBmFNP"
+      "duration_ms": 141933,
+      "name": "Love Struck Baby",
+      "url": "https://open.spotify.com/track/5MVMARaMoclifNmBtPu0dD"
     },
     {
       "added_at": null,
@@ -216,9 +216,9 @@
           "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
         }
       ],
-      "duration_ms": 297373,
-      "name": "Lenny",
-      "url": "https://open.spotify.com/track/0h4jHdNzUrV9eGR2PT5R8c"
+      "duration_ms": 320906,
+      "name": "Texas Flood",
+      "url": "https://open.spotify.com/track/5MtN38MGEWJt60LwtBmFNP"
     },
     {
       "added_at": null,
@@ -271,6 +271,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Texas Flood (Legacy Edition)",
+        "url": "https://open.spotify.com/album/1AL5oXZRtTc8PyhcTwg4xQ"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "duration_ms": 297373,
+      "name": "Lenny",
+      "url": "https://open.spotify.com/track/0h4jHdNzUrV9eGR2PT5R8c"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Archives",
         "url": "https://open.spotify.com/album/5k4yS9NqQQnvPqe5IBJGSH"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 133840,
       "name": "Boot Hill - 1989 Version",
       "url": "https://open.spotify.com/track/60kPEmCU9j6wXd57jm5Xpj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Texas Flood (Legacy Edition)",
-        "url": "https://open.spotify.com/album/1AL5oXZRtTc8PyhcTwg4xQ"
-      },
-      "artists": [
-        {
-          "name": "Stevie Ray Vaughan",
-          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
-        }
-      ],
-      "duration_ms": 279400,
-      "name": "Rude Mood",
-      "url": "https://open.spotify.com/track/03NejRMxYMMCFo2Ylsia6l"
     },
     {
       "added_at": null,
@@ -335,6 +335,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Texas Flood (Legacy Edition)",
+        "url": "https://open.spotify.com/album/1AL5oXZRtTc8PyhcTwg4xQ"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "duration_ms": 279400,
+      "name": "Rude Mood",
+      "url": "https://open.spotify.com/track/03NejRMxYMMCFo2Ylsia6l"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Soul to Soul",
         "url": "https://open.spotify.com/album/2WYvNaZ68vRmun6Jy0Qp1e"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 237133,
       "name": "Change It",
       "url": "https://open.spotify.com/track/5u00iJsWV7xj5NTGAaMBQt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Texas Flood (Legacy Edition)",
-        "url": "https://open.spotify.com/album/1AL5oXZRtTc8PyhcTwg4xQ"
-      },
-      "artists": [
-        {
-          "name": "Stevie Ray Vaughan",
-          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
-        }
-      ],
-      "duration_ms": 223586,
-      "name": "I'm Cryin'",
-      "url": "https://open.spotify.com/track/1oLVPN07o3aAgKAVWjhRRn"
     },
     {
       "added_at": null,
@@ -383,22 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Essential Stevie Ray Vaughan And Double Trouble",
-        "url": "https://open.spotify.com/album/4dShhtGUjPunYS95jHOm3r"
-      },
-      "artists": [
-        {
-          "name": "Stevie Ray Vaughan",
-          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
-        }
-      ],
-      "duration_ms": 258026,
-      "name": "Life Without You",
-      "url": "https://open.spotify.com/track/6Z8prosDCmjU3hkgEnyId6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "In Step",
         "url": "https://open.spotify.com/album/1d3gakptaQZQ4zw9YbOagk"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 198666,
       "name": "Love Me Darlin'",
       "url": "https://open.spotify.com/track/1sjUHvDjIh4pCjAVwvbB4D"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Essential Stevie Ray Vaughan And Double Trouble",
+        "url": "https://open.spotify.com/album/4dShhtGUjPunYS95jHOm3r"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "duration_ms": 258026,
+      "name": "Life Without You",
+      "url": "https://open.spotify.com/track/6Z8prosDCmjU3hkgEnyId6"
     },
     {
       "added_at": null,
@@ -451,22 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Essential Stevie Ray Vaughan And Double Trouble",
-        "url": "https://open.spotify.com/album/4dShhtGUjPunYS95jHOm3r"
-      },
-      "artists": [
-        {
-          "name": "Stevie Ray Vaughan",
-          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
-        }
-      ],
-      "duration_ms": 280826,
-      "name": "Superstition - Live",
-      "url": "https://open.spotify.com/track/4OaTSHT0NYViNOgjpIAXpv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Soul to Soul",
         "url": "https://open.spotify.com/album/2WYvNaZ68vRmun6Jy0Qp1e"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 167773,
       "name": "Lookin' out the Window",
       "url": "https://open.spotify.com/track/221wgBBRPtKIBgpjGvMWUD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Essential Stevie Ray Vaughan And Double Trouble",
+        "url": "https://open.spotify.com/album/4dShhtGUjPunYS95jHOm3r"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "duration_ms": 280826,
+      "name": "Superstition - Live",
+      "url": "https://open.spotify.com/track/4OaTSHT0NYViNOgjpIAXpv"
     },
     {
       "added_at": null,
@@ -499,22 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live Alive",
-        "url": "https://open.spotify.com/album/7pAjlt1BWH880YZhpT1OyW"
-      },
-      "artists": [
-        {
-          "name": "Stevie Ray Vaughan",
-          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
-        }
-      ],
-      "duration_ms": 277306,
-      "name": "Willie The Wimp - Live",
-      "url": "https://open.spotify.com/track/0wXyJ9NFo0NQmcE43xtMy5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Archives",
         "url": "https://open.spotify.com/album/5k4yS9NqQQnvPqe5IBJGSH"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 171800,
       "name": "Shake 'N Bake",
       "url": "https://open.spotify.com/track/1dvaLzUkbmvt6GsPVkW7kg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Live Alive",
+        "url": "https://open.spotify.com/album/7pAjlt1BWH880YZhpT1OyW"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "duration_ms": 277306,
+      "name": "Willie The Wimp - Live",
+      "url": "https://open.spotify.com/track/0wXyJ9NFo0NQmcE43xtMy5"
     },
     {
       "added_at": null,
@@ -551,22 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Essential Stevie Ray Vaughan And Double Trouble",
-        "url": "https://open.spotify.com/album/4dShhtGUjPunYS95jHOm3r"
-      },
-      "artists": [
-        {
-          "name": "Stevie Ray Vaughan",
-          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
-        }
-      ],
-      "duration_ms": 228800,
-      "name": "Shake for Me - Live at Steamboat 1874, Austin, TX - April 1980",
-      "url": "https://open.spotify.com/track/0LFsHodEUTDEvoRlreOaRe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Soul to Soul",
         "url": "https://open.spotify.com/album/2WYvNaZ68vRmun6Jy0Qp1e"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 323560,
       "name": "Say What!",
       "url": "https://open.spotify.com/track/3Xow4d1ABlyB9GevG9xfeS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Essential Stevie Ray Vaughan And Double Trouble",
+        "url": "https://open.spotify.com/album/4dShhtGUjPunYS95jHOm3r"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "duration_ms": 228800,
+      "name": "Shake for Me - Live at Steamboat 1874, Austin, TX - April 1980",
+      "url": "https://open.spotify.com/track/0LFsHodEUTDEvoRlreOaRe"
     },
     {
       "added_at": null,
@@ -615,22 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Essential Stevie Ray Vaughan And Double Trouble",
-        "url": "https://open.spotify.com/album/4dShhtGUjPunYS95jHOm3r"
-      },
-      "artists": [
-        {
-          "name": "Stevie Ray Vaughan",
-          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
-        }
-      ],
-      "duration_ms": 247200,
-      "name": "Give Me Back My Wig",
-      "url": "https://open.spotify.com/track/61DnwvyCzQXWLK29HVfgJO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Live Alive",
         "url": "https://open.spotify.com/album/7pAjlt1BWH880YZhpT1OyW"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 335160,
       "name": "I'm Leaving You (Commit A Crime) - Live",
       "url": "https://open.spotify.com/track/2z9BPNJ7YgANyqBEEU07ur"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Essential Stevie Ray Vaughan And Double Trouble",
+        "url": "https://open.spotify.com/album/4dShhtGUjPunYS95jHOm3r"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "duration_ms": 247200,
+      "name": "Give Me Back My Wig",
+      "url": "https://open.spotify.com/track/61DnwvyCzQXWLK29HVfgJO"
     },
     {
       "added_at": null,

@@ -482,7 +482,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 212343,
       "name": "Alibi",
       "url": "https://open.spotify.com/track/654LHKBikT7p3xoI6ByrBh"
@@ -1240,6 +1240,24 @@
       "duration_ms": 171243,
       "name": "Bad Luck",
       "url": "https://open.spotify.com/track/2lcapVdJDedPx2GYGtKxwz"
+    },
+    {
+      "album": {
+        "name": "Ballistic",
+        "url": "https://open.spotify.com/album/1W0kBLIEmlXcqkTXcFBgBW"
+      },
+      "artists": [
+        {
+          "name": "Bossfight",
+          "url": "https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195692,
+      "name": "Ballistic",
+      "url": "https://open.spotify.com/track/4K35vDV1gIguKsU9E5Fj5x"
     },
     {
       "album": {
@@ -2740,7 +2758,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 163714,
       "name": "Dancing With Myself",
       "url": "https://open.spotify.com/track/3V0WvIVH1TgKTf2ouORpVR"
@@ -5068,7 +5086,7 @@
       ],
       "date_added": "2024-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 238400,
       "name": "GENESIS",
       "url": "https://open.spotify.com/track/4iGe6FbKTT6oToK5L5ZlOz"
@@ -5961,6 +5979,28 @@
     },
     {
       "album": {
+        "name": "I Contain Flashing Images",
+        "url": "https://open.spotify.com/album/6U2MVLJOBph3F1k5XqwnER"
+      },
+      "artists": [
+        {
+          "name": "No Mana",
+          "url": "https://open.spotify.com/artist/20yuGdfbRkW0HH3OfG1Nkg"
+        },
+        {
+          "name": "Bertie Scott",
+          "url": "https://open.spotify.com/artist/2m0xNVRx1tAHY3pfNXt7Ro"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262500,
+      "name": "Hit the Ground",
+      "url": "https://open.spotify.com/track/1jZ4irbZ1NSFdaoz2MjQtK"
+    },
+    {
+      "album": {
         "name": "Hold Up",
         "url": "https://open.spotify.com/album/0EHxZE2tTIlOXkWuUSpXXJ"
       },
@@ -6038,6 +6078,32 @@
       "duration_ms": 231062,
       "name": "Hopeful",
       "url": "https://open.spotify.com/track/6D94kYTNC5WWi218Xi6K6Q"
+    },
+    {
+      "album": {
+        "name": "Hopeless",
+        "url": "https://open.spotify.com/album/4cUL3xUF0WnEM1L2KDLTPb"
+      },
+      "artists": [
+        {
+          "name": "No Mana",
+          "url": "https://open.spotify.com/artist/20yuGdfbRkW0HH3OfG1Nkg"
+        },
+        {
+          "name": "Feed Me",
+          "url": "https://open.spotify.com/artist/5FWi1mowu6uiU2ZHwr1rby"
+        },
+        {
+          "name": "Bertie Scott",
+          "url": "https://open.spotify.com/artist/2m0xNVRx1tAHY3pfNXt7Ro"
+        }
+      ],
+      "date_added": "2024-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223928,
+      "name": "Hopeless",
+      "url": "https://open.spotify.com/track/2GROAqNCXHvn1Su3cDTAOI"
     },
     {
       "album": {
@@ -8806,7 +8872,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 155586,
       "name": "NEXT LVL",
       "url": "https://open.spotify.com/track/6uaKtnOTKImR5B6cU8FXjo"
@@ -13478,7 +13544,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 213242,
       "name": "Time Moves So Fast - PROFF & Volen Sentir's Timestop Remix",
       "url": "https://open.spotify.com/track/0otTh5jetXPUMq3RZoWEJp"
@@ -15150,7 +15216,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 285517,
       "name": "You Want Me",
       "url": "https://open.spotify.com/track/3lOsvOCeClwEFv0Ezo1if7"

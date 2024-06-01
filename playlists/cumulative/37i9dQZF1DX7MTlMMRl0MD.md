@@ -2,9 +2,9 @@
 
 ### [Bachata Lovers](https://open.spotify.com/playlist/37i9dQZF1DX7MTlMMRl0MD)
 
-> Tu lista favorita de Bachata ❤️ Cover: Luis Miguel Del Amargue
+> Tu lista favorita de Bachata ❤️ Cover: Henry Santos
 
-375 songs - 22 hr 55 min
+376 songs - 22 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -209,7 +209,7 @@
 | [Mala](https://open.spotify.com/track/4sLW4tfhCMYPfiN7u8r9DT) | [Mr\. Don](https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR), [Lirow](https://open.spotify.com/artist/7DstIz9YAYYupeK7r5tbbs) | [Deluxe](https://open.spotify.com/album/3oUyYJZkXbamjwIaHjJO3l) | 3:23 | 2022-03-04 | 2022-07-29 |
 | [Mala](https://open.spotify.com/track/35hNtYsDTSNEGwCcIGH2TV) | [Mr\. Don](https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR), [Lirow](https://open.spotify.com/artist/7DstIz9YAYYupeK7r5tbbs) | [Mala](https://open.spotify.com/album/6aKN4CGU6ZC3at6PwB2K7s) | 3:24 | 2022-07-19 | 2022-09-03 |
 | [Me Bebí Tu Recuerdo](https://open.spotify.com/track/2jqmRUKoapLfY0zZmSwrZB) | [Elvis Martinez](https://open.spotify.com/artist/66U02qGDesTqZImnLSiYeE), [Héctor Acosta "El Torito"](https://open.spotify.com/artist/4TCAAIMmeZXCTVlHUsicOn) | [Me Bebí Tu Recuerdo](https://open.spotify.com/album/6I5ClG7uNBguIeRRAkwLtW) | 3:28 | 2024-05-24 |  |
-| [Me Duele \- Remix](https://open.spotify.com/track/0a0JLEXyAPnGGYjXaeoKnc) | [Rodry\-Go!](https://open.spotify.com/artist/0It4ViJPDNNNXkK7u899xV), [Grupo Extra](https://open.spotify.com/artist/4L5SLCIDWPPNGzrLraYCOS), [DJ Paso](https://open.spotify.com/artist/2dOyCw1LXxFFT3UDNJhKIm) | [Me Duele \(Remix\)](https://open.spotify.com/album/56jdCrkHHIcwQQUZIxLJwh) | 3:21 | 2024-02-16 |  |
+| [Me Duele \- Remix](https://open.spotify.com/track/0a0JLEXyAPnGGYjXaeoKnc) | [Rodry\-Go!](https://open.spotify.com/artist/0It4ViJPDNNNXkK7u899xV), [Grupo Extra](https://open.spotify.com/artist/4L5SLCIDWPPNGzrLraYCOS), [DJ Paso](https://open.spotify.com/artist/2dOyCw1LXxFFT3UDNJhKIm) | [Me Duele \(Remix\)](https://open.spotify.com/album/56jdCrkHHIcwQQUZIxLJwh) | 3:21 | 2024-02-16 | 2024-06-01 |
 | [Me Emborrachare \- Bachata Radio Edit](https://open.spotify.com/track/3iGjLTDqokSuf6yYI83wzi) | [Grupo Extra](https://open.spotify.com/artist/4L5SLCIDWPPNGzrLraYCOS) | [Colores \(Bachata Is Taking Over!\)](https://open.spotify.com/album/0e60AWHAGO3t7mNZPImsKA) | 3:59 | 2022-03-04 | 2022-09-03 |
 | [Me EnRD](https://open.spotify.com/track/3GkctxmZmeGmW4K5Oya0Z1) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Me EnRD](https://open.spotify.com/album/3BumcT1ophGlEOHCi1fzoW) | 3:05 | 2023-04-21 |  |
 | [Me Extraño](https://open.spotify.com/track/49A0SKbXyTUyk5uw8fXzFi) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Me Extraño](https://open.spotify.com/album/0fuHe4cJQ677flvGr2QLN1) | 3:11 | 2022-09-02 | 2022-09-10 |
@@ -296,6 +296,7 @@
 | [Quizás Si, Quizás No](https://open.spotify.com/track/1AOnpCTCVLY7fAHvyC3VFX) | [Los Toros Band](https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA) | [...A Pasito Lento!](https://open.spotify.com/album/6ZUZsOI1nnt0gts7ia3sH1) | 4:32 | 2022-09-09 | 2024-01-13 |
 | [Quién Eres Tu](https://open.spotify.com/track/0D0hqpMEi4aHukh8zP5gSF) | [Frank Reyes](https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ) | [Cuando Se Quiere Se Puede](https://open.spotify.com/album/0FH5fGCctpEPdQBwxti1Xe) | 4:22 | 2022-03-04 | 2022-09-03 |
 | [Quiéreme](https://open.spotify.com/track/0M9Qr6K4wfoGUDBDgSzXgf) | [Toby Love](https://open.spotify.com/artist/72R3RMGmSmzG57R7OUaDaN) | [Quiéreme](https://open.spotify.com/album/49caV5I1ACJoWhF8najT9U) | 4:01 | 2022-03-25 | 2022-09-03 |
+| [Quíteme La Inocencia](https://open.spotify.com/track/6w7Ku2mTaB2NKg59Gx2lxA) | [Henry Santos](https://open.spotify.com/artist/1cUfMJtWJXfhTQvYGJQtaF) | [2.0](https://open.spotify.com/album/4tuxS7kkwSZ3IGqJpuc2Kd) | 4:10 | 2024-05-31 |  |
 | [R.I.P.](https://open.spotify.com/track/7hpx4wsPAgsLNokB1CLT1w) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Fórmula, Vol\. 3](https://open.spotify.com/album/3kGn13mW34Ookfj6yiY8BF) | 3:21 | 2022-09-02 | 2022-09-10 |
 | [Rechazame](https://open.spotify.com/track/07p0kLnvfQQ2bLujHyzSGK) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Prince Royce](https://open.spotify.com/album/5zEFCJy9kAyD8rMbBESdYh) | 3:43 | 2022-03-04 | 2023-10-21 |
 | [Reflejo](https://open.spotify.com/track/54zDpwf0mqx9VQRn91SLX6) | [Toby Love](https://open.spotify.com/artist/72R3RMGmSmzG57R7OUaDaN), [Bachata Heightz](https://open.spotify.com/artist/5zvRX0y0JYtGOmGJwLwyIL), [Kewin Cosmos](https://open.spotify.com/artist/1nf6gLEC45OmoJFIxU7aUT) | [Reflejo](https://open.spotify.com/album/1re6ndovzDhuHMhfYVfG2D) | 4:13 | 2022-09-09 | 2022-11-29 |

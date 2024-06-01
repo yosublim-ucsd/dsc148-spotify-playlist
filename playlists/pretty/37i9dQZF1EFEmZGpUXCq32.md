@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEmZGpUXCq32.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0JfKlntuxjdB6N1mp9PYoF">Cory Henry</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 117 likes - 90 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 119 likes - 90 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEmZGpUXCq32.md) - [plain]
 | 15 | [Hooper](https://open.spotify.com/track/2QK35TtLvYlOpV2zjw6vtt) | [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [LOUIE](https://open.spotify.com/album/3SKVtzmihlnGFylW5nC5kj) | 1:27 |
 | 16 | [NaaNaaNaa \- Live](https://open.spotify.com/track/3Q94flBRFGAqaCrebWRbno) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [The Revival \(Live\)](https://open.spotify.com/album/0BBOGZgcYEga1bPm244Od2) | 6:54 |
 | 17 | [Eternal](https://open.spotify.com/track/26d0somBZ0vPdfwUeqla2R) | [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [LOUIE](https://open.spotify.com/album/3SKVtzmihlnGFylW5nC5kj) | 2:04 |
-| 18 | [Get Around](https://open.spotify.com/track/0S2F5ZzIuWJziqlWrd0M8P) | [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [LOUIE](https://open.spotify.com/album/3SKVtzmihlnGFylW5nC5kj) | 2:39 |
-| 19 | [Planet Express](https://open.spotify.com/track/7HY0lAbWyJr6JqvKgRQDEL) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Hitchhiker](https://open.spotify.com/album/32Srim9ACKmJsJvszNNlTe) | 4:20 |
+| 18 | [Planet Express](https://open.spotify.com/track/7HY0lAbWyJr6JqvKgRQDEL) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Hitchhiker](https://open.spotify.com/album/32Srim9ACKmJsJvszNNlTe) | 4:20 |
+| 19 | [Get Around](https://open.spotify.com/track/0S2F5ZzIuWJziqlWrd0M8P) | [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [LOUIE](https://open.spotify.com/album/3SKVtzmihlnGFylW5nC5kj) | 2:39 |
 | 20 | [Don't Forget](https://open.spotify.com/track/04jkk9HM7mTlCNTYhWUZBx) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Something to Say](https://open.spotify.com/album/3Hz4JSR7mxab24T8K8jQOx) | 2:49 |
 | 21 | [The Perch](https://open.spotify.com/track/5wlbskdjfnE5PjaKhX4Yki) | [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [LOUIE](https://open.spotify.com/album/3SKVtzmihlnGFylW5nC5kj) | 1:39 |
 | 22 | [Seven](https://open.spotify.com/track/1ZZeTJA78VzNIIEmQP2RoU) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Gotcha Now Doc](https://open.spotify.com/album/7pHAuTN3sOfBQyouX96uOd) | 5:15 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEmZGpUXCq32.md) - [plain]
 | 72 | [Afro Brooklyn \(feat\. Phil Lassiter\)](https://open.spotify.com/track/00SP1LwpXjWInNKeBxjyWZ) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s), [Phil Lassiter](https://open.spotify.com/artist/264Py7hwwoMAarZeA3OcGr) | [First Steps](https://open.spotify.com/album/1yOkrAspqeWPp5IROfT5O8) | 5:53 |
 | 73 | [Benediction](https://open.spotify.com/track/6RrWOUtOeWb4GpJiSrg8NG) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Best of Me](https://open.spotify.com/album/0SFLxkiRkdKuldGjLvlW7P) | 4:40 |
 | 74 | [Christmas Boogie](https://open.spotify.com/track/3qfGYjWVbvgfxrGRtZSbuL) | [Trilogy](https://open.spotify.com/artist/3c24oOZo7a3mchm4okumqw), [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Christmas Uncovered](https://open.spotify.com/album/70AfPOE4qUXzqrzwG3o5ut) | 2:58 |
-| 75 | [Heart](https://open.spotify.com/track/7hzyYvGrZ7nA7jZjvISbEp) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [First Steps](https://open.spotify.com/album/1yOkrAspqeWPp5IROfT5O8) | 8:58 |
-| 76 | [Musicians Praise](https://open.spotify.com/track/2mMyT29wcsf3MDdEGeNMm9) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s), [Robert Randolph](https://open.spotify.com/artist/0u7gssqdwWaO1aMaSuvXtx) | [Church](https://open.spotify.com/album/5vqskMdlhybKNMes3uEAEn) | 3:08 |
+| 75 | [Musicians Praise](https://open.spotify.com/track/2mMyT29wcsf3MDdEGeNMm9) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s), [Robert Randolph](https://open.spotify.com/artist/0u7gssqdwWaO1aMaSuvXtx) | [Church](https://open.spotify.com/album/5vqskMdlhybKNMes3uEAEn) | 3:08 |
+| 76 | [Heart](https://open.spotify.com/track/7hzyYvGrZ7nA7jZjvISbEp) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [First Steps](https://open.spotify.com/album/1yOkrAspqeWPp5IROfT5O8) | 8:58 |
 | 77 | [Nana](https://open.spotify.com/track/3Vu6IeMndcUxdHwKSVbWzM) | [TaRon Lockett](https://open.spotify.com/artist/7n1oDpup4X3kpznXeZy3YL), [B.Slade](https://open.spotify.com/artist/03lJ2xTQTFzBknVjb0FJUt), [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Nana](https://open.spotify.com/album/2rOv7QlQ8c6NP51vmSu9DS) | 1:40 |
 | 78 | [Walkin](https://open.spotify.com/track/6PHsbjxjYxS9LH5IXW1Xrm) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [First Steps](https://open.spotify.com/album/1yOkrAspqeWPp5IROfT5O8) | 6:20 |
 | 79 | [Back When](https://open.spotify.com/track/3k7iWFyEWddfdOSgOgml2t) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [First Steps](https://open.spotify.com/album/1yOkrAspqeWPp5IROfT5O8) | 6:18 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEmZGpUXCq32.md) - [plain]
 | 89 | [Clouds](https://open.spotify.com/track/60TSgKaHNHHa3aeniLVP84) | [Jairus Mozee](https://open.spotify.com/artist/77leQnJv5gxe4Nm3LvDYiG) | [San Pedro](https://open.spotify.com/album/1D4pVBPfFAvG3j1TElDHAy) | 6:31 |
 | 90 | [Offering Song Address](https://open.spotify.com/track/4VotLKO4qyqCJqI75bAiFQ) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Church](https://open.spotify.com/album/5vqskMdlhybKNMes3uEAEn) | 0:18 |
 
-Snapshot ID: `AbSkvgAAAADiNNpTmJuCUS2tFRmdDJDj`
+Snapshot ID: `AbS3CwAAAAAxlFVq5sSjhMhOtQu9PRTX`

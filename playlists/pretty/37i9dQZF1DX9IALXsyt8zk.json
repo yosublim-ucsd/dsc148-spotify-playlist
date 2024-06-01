@@ -1,15 +1,15 @@
 {
   "description": "Unearthing up-and-coming Korean acts. (Cover: RIIZE)",
-  "num_followers": 111611,
+  "num_followers": 111595,
   "original_name": "RADAR Korea",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zj2UhwAAAADpasHgkX4OmsS2htm2PGR1",
+  "snapshot_id": "ZlgT/AAAAAAX27iEv6/VWgmNztJj3yOV",
   "tracks": [
     {
-      "added_at": "2024-05-10 03:29:11",
+      "added_at": "2024-05-30 05:51:56",
       "album": {
         "name": "Impossible",
         "url": "https://open.spotify.com/album/1M6NqKR4E8SISWegTJZsWR"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/5zBO8f5BKQX4VNR3ILfDXk"
     },
     {
-      "added_at": "2024-05-10 03:29:11",
+      "added_at": "2024-05-30 05:51:56",
       "album": {
         "name": "RIIZING",
         "url": "https://open.spotify.com/album/4DdDtcluroMFPVLWFKykqk"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/55q5IR87NQcWjFfosyAbOS"
     },
     {
-      "added_at": "2024-05-10 03:29:11",
+      "added_at": "2024-05-30 05:51:56",
       "album": {
         "name": "RIIZING",
         "url": "https://open.spotify.com/album/4DdDtcluroMFPVLWFKykqk"
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/03S9ATtLIBqudkXFQsajpQ"
     },
     {
-      "added_at": "2024-05-10 03:29:11",
+      "added_at": "2024-05-30 05:51:56",
       "album": {
         "name": "RIIZING",
         "url": "https://open.spotify.com/album/4DdDtcluroMFPVLWFKykqk"
@@ -73,7 +73,147 @@
       "url": "https://open.spotify.com/track/5xKO9fHKGG5qzTCKuc9OGK"
     },
     {
-      "added_at": "2024-05-10 03:29:11",
+      "added_at": "2024-05-30 05:51:56",
+      "album": {
+        "name": "Swear",
+        "url": "https://open.spotify.com/album/3vNYAR6SdAeKcQGgOPTyY2"
+      },
+      "artists": [
+        {
+          "name": "Huh",
+          "url": "https://open.spotify.com/artist/30AghIfoMJrMo1YqoUkEMM"
+        }
+      ],
+      "duration_ms": 177226,
+      "name": "Swear",
+      "url": "https://open.spotify.com/track/3Zr7XljDMsjanXYIIjZMXp"
+    },
+    {
+      "added_at": "2024-05-30 05:51:56",
+      "album": {
+        "name": "LOOP",
+        "url": "https://open.spotify.com/album/1j8kzYnKuztDWliT8V8Qto"
+      },
+      "artists": [
+        {
+          "name": "Yves",
+          "url": "https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce"
+        },
+        {
+          "name": "Lil Cherry",
+          "url": "https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4"
+        }
+      ],
+      "duration_ms": 163480,
+      "name": "LOOP (feat. Lil Cherry)",
+      "url": "https://open.spotify.com/track/1JNsKjaCFgTxjP3EkKfYZo"
+    },
+    {
+      "added_at": "2024-05-30 05:51:56",
+      "album": {
+        "name": "FLOWER",
+        "url": "https://open.spotify.com/album/4PkvOK0vWqNxNxJlSXBRnk"
+      },
+      "artists": [
+        {
+          "name": "LEEBADA",
+          "url": "https://open.spotify.com/artist/17vCFclNbTzsDfPgsaWaQO"
+        }
+      ],
+      "duration_ms": 218815,
+      "name": "FLOWER",
+      "url": "https://open.spotify.com/track/34uUrBhqDqQs28Ac4fumRJ"
+    },
+    {
+      "added_at": "2024-05-30 05:51:56",
+      "album": {
+        "name": "UNEDUCATED WORLD 2",
+        "url": "https://open.spotify.com/album/4JSWvPh200me9rfjLdiyhZ"
+      },
+      "artists": [
+        {
+          "name": "Uneducated Kid",
+          "url": "https://open.spotify.com/artist/08KbKkPqaYNFYM9R5eMjuM"
+        }
+      ],
+      "duration_ms": 131162,
+      "name": "The Cult",
+      "url": "https://open.spotify.com/track/4LBJJusvruhLfNgiQxSQBR"
+    },
+    {
+      "added_at": "2024-05-30 05:51:56",
+      "album": {
+        "name": "GRB01",
+        "url": "https://open.spotify.com/album/1VXiBulpY2Otih9AvmhtdY"
+      },
+      "artists": [
+        {
+          "name": "GIRIBOY",
+          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
+        },
+        {
+          "name": "C JAMM",
+          "url": "https://open.spotify.com/artist/2ZT3bnHPOdErwCLdP5aHqR"
+        }
+      ],
+      "duration_ms": 173892,
+      "name": "hur (feat. C JAMM)",
+      "url": "https://open.spotify.com/track/4E97uO8qzkfiCtqjPuuwfM"
+    },
+    {
+      "added_at": "2024-05-30 05:51:56",
+      "album": {
+        "name": "Monthly AP - May, 2024",
+        "url": "https://open.spotify.com/album/6UohaSRYdEPaSvS8SIUvMX"
+      },
+      "artists": [
+        {
+          "name": "Chu Seo Jun",
+          "url": "https://open.spotify.com/artist/1rVGJZbfXkVcGv0qpOprl2"
+        },
+        {
+          "name": "GEMma",
+          "url": "https://open.spotify.com/artist/2OHfq64yFsF9ehuUjCZwJF"
+        }
+      ],
+      "duration_ms": 205333,
+      "name": "Out of Breath (Prod. Ryo, hyeminsong)",
+      "url": "https://open.spotify.com/track/1eFgtBIxUe0t8kHQJxfezQ"
+    },
+    {
+      "added_at": "2024-05-30 05:51:56",
+      "album": {
+        "name": "Begins youth (Original Xclusive Soundtrack), Pt. 3",
+        "url": "https://open.spotify.com/album/2UutdTEebU46QZaBPqBRja"
+      },
+      "artists": [
+        {
+          "name": "JUNNY",
+          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
+        }
+      ],
+      "duration_ms": 227441,
+      "name": "Escape",
+      "url": "https://open.spotify.com/track/2F0sKBGLcYhE62hTGruluO"
+    },
+    {
+      "added_at": "2024-05-30 05:51:56",
+      "album": {
+        "name": "HOME",
+        "url": "https://open.spotify.com/album/4finbgKnMb3yfGdr0vErpw"
+      },
+      "artists": [
+        {
+          "name": "HANRORO",
+          "url": "https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx"
+        }
+      ],
+      "duration_ms": 231000,
+      "name": "H O M E",
+      "url": "https://open.spotify.com/track/5E7MmixrLwGiOvEkAybNpr"
+    },
+    {
+      "added_at": "2024-05-30 05:51:56",
       "album": {
         "name": "Still Yours",
         "url": "https://open.spotify.com/album/7t74Fo6KoIZcCxwfgB8pkf"
@@ -89,7 +229,7 @@
       "url": "https://open.spotify.com/track/6pRvEUhwOX3s6jcJeGumML"
     },
     {
-      "added_at": "2024-05-10 03:29:11",
+      "added_at": "2024-05-30 05:51:56",
       "album": {
         "name": "How about you? (No Office Romance! X THE BOYZ) (Original Webtoon Soundtrack)",
         "url": "https://open.spotify.com/album/1xXbRj29uRvRA7iT7aKT3N"
@@ -105,7 +245,7 @@
       "url": "https://open.spotify.com/track/6bOuFd9CLbQA8IKRWwVVBP"
     },
     {
-      "added_at": "2024-05-10 03:29:11",
+      "added_at": "2024-05-30 05:51:56",
       "album": {
         "name": "<ASSEMBLE24>",
         "url": "https://open.spotify.com/album/1FEdDqMaOL8oZYzI4n27GM"
@@ -121,7 +261,7 @@
       "url": "https://open.spotify.com/track/45OflED18VsURGw2z0Y6Cv"
     },
     {
-      "added_at": "2024-05-10 03:29:11",
+      "added_at": "2024-05-30 05:51:56",
       "album": {
         "name": "LOVE OR DIE",
         "url": "https://open.spotify.com/album/5SHAZ0OQYdiUfUEDlf8SFB"
@@ -141,7 +281,7 @@
       "url": "https://open.spotify.com/track/4EeeTgHVTrutCWiqtw8vCl"
     },
     {
-      "added_at": "2024-05-10 03:29:11",
+      "added_at": "2024-05-30 05:51:56",
       "album": {
         "name": "I Adore",
         "url": "https://open.spotify.com/album/77psuhNmtbgwLPLpSyCteg"
@@ -157,7 +297,7 @@
       "url": "https://open.spotify.com/track/3VlGIOModL226RrY3wy393"
     },
     {
-      "added_at": "2024-05-10 03:29:11",
+      "added_at": "2024-05-30 05:51:56",
       "album": {
         "name": "YW",
         "url": "https://open.spotify.com/album/3kr26yMOA0X7MoIBXMd9ms"
@@ -181,7 +321,7 @@
       "url": "https://open.spotify.com/track/2TaoYfJcOMXsiDZPI9FPwA"
     },
     {
-      "added_at": "2024-05-10 03:29:11",
+      "added_at": "2024-05-30 05:51:56",
       "album": {
         "name": "Frankly Speaking (Original Television Soundtrack), Pt. 2",
         "url": "https://open.spotify.com/album/4jbVKnctBEAvF3yuJdfU5s"
@@ -197,7 +337,7 @@
       "url": "https://open.spotify.com/track/3wk7lkm71e9MyrRsv6Y4kY"
     },
     {
-      "added_at": "2024-05-10 03:29:11",
+      "added_at": "2024-05-30 05:51:56",
       "album": {
         "name": "BM 1st EP 'Element'",
         "url": "https://open.spotify.com/album/6q2zOdLESHZyOpfSwA8Reb"
@@ -217,7 +357,7 @@
       "url": "https://open.spotify.com/track/0Tq39nkuBrIdhGhUSRFISJ"
     },
     {
-      "added_at": "2024-05-10 03:29:11",
+      "added_at": "2024-05-30 05:51:56",
       "album": {
         "name": "ANOTHER",
         "url": "https://open.spotify.com/album/55SsFWSUnjJD0Ztxu9jz2Z"
@@ -233,7 +373,7 @@
       "url": "https://open.spotify.com/track/6vP4NceJJLHM9xddBbKrH9"
     },
     {
-      "added_at": "2024-05-10 03:29:11",
+      "added_at": "2024-05-30 05:51:56",
       "album": {
         "name": "SWEAT",
         "url": "https://open.spotify.com/album/0s6DjhEFFZOUSfnFmPMVIG"
@@ -249,7 +389,7 @@
       "url": "https://open.spotify.com/track/3BzjdhbQH8VlQ81RbvRoV8"
     },
     {
-      "added_at": "2024-05-10 03:29:11",
+      "added_at": "2024-05-30 05:51:56",
       "album": {
         "name": "Affection",
         "url": "https://open.spotify.com/album/7CH227zOs9JlxNtQ8Z6EK4"
@@ -265,7 +405,7 @@
       "url": "https://open.spotify.com/track/6ounBpJVh2WXum1HEiMWan"
     },
     {
-      "added_at": "2024-05-10 03:29:11",
+      "added_at": "2024-05-30 05:51:56",
       "album": {
         "name": "Midas Touch",
         "url": "https://open.spotify.com/album/1HfTA0xDoZ0mswFO3GB3ef"
@@ -281,7 +421,7 @@
       "url": "https://open.spotify.com/track/0vaxYDAuAO1nPolC6bQp7V"
     },
     {
-      "added_at": "2024-05-10 03:29:11",
+      "added_at": "2024-05-30 05:51:56",
       "album": {
         "name": "SUPER REAL ME",
         "url": "https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS"
@@ -297,7 +437,7 @@
       "url": "https://open.spotify.com/track/1aKvZDoLGkNMxoRYgkckZG"
     },
     {
-      "added_at": "2024-05-10 03:29:11",
+      "added_at": "2024-05-30 05:51:56",
       "album": {
         "name": "RIIZING",
         "url": "https://open.spotify.com/album/4DdDtcluroMFPVLWFKykqk"
@@ -313,7 +453,7 @@
       "url": "https://open.spotify.com/track/4Jqf8rWXp2y8yJFK0fEweG"
     },
     {
-      "added_at": "2024-05-10 03:29:11",
+      "added_at": "2024-05-30 05:51:56",
       "album": {
         "name": "Kick-START",
         "url": "https://open.spotify.com/album/3mL42aTQDuu8MxM4gkdzvy"
@@ -329,7 +469,7 @@
       "url": "https://open.spotify.com/track/19Rqlm7wniVmb2XejSVlE9"
     },
     {
-      "added_at": "2024-05-10 03:29:11",
+      "added_at": "2024-05-30 05:51:56",
       "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3DSGgDuYRFGpmZjvm4sP3S"
@@ -353,7 +493,7 @@
       "url": "https://open.spotify.com/track/1hewNMWyHhb2zLZMOIPVWq"
     },
     {
-      "added_at": "2024-05-10 03:29:11",
+      "added_at": "2024-05-30 05:51:56",
       "album": {
         "name": "<Pre 2 : Flower Rhythm>",
         "url": "https://open.spotify.com/album/69i02S3KILQ083ExlYjZqg"
@@ -369,7 +509,7 @@
       "url": "https://open.spotify.com/track/11CxVWRPzkIJfL55lgPn0Q"
     },
     {
-      "added_at": "2024-05-10 03:29:11",
+      "added_at": "2024-05-30 05:51:56",
       "album": {
         "name": "1st Mini Album 'MANITO'",
         "url": "https://open.spotify.com/album/58749dw7F011CU9lRmX0MO"
@@ -385,7 +525,7 @@
       "url": "https://open.spotify.com/track/39gaUtq2z4ejJbno7tWHbL"
     },
     {
-      "added_at": "2024-05-10 03:29:11",
+      "added_at": "2024-05-30 05:51:56",
       "album": {
         "name": "Pasadena",
         "url": "https://open.spotify.com/album/2xa1TuBl9eiUkHCIh3C0JG"
@@ -401,7 +541,7 @@
       "url": "https://open.spotify.com/track/36P3PbOaXo4uiv0CIDcTg2"
     },
     {
-      "added_at": "2024-05-10 03:29:11",
+      "added_at": "2024-05-30 05:51:56",
       "album": {
         "name": "Hey Boy !",
         "url": "https://open.spotify.com/album/3et0pb0CVdufpFGSwzTDf4"
@@ -417,7 +557,7 @@
       "url": "https://open.spotify.com/track/5acMkZJUeNP9NVyvaZEoQ0"
     },
     {
-      "added_at": "2024-05-10 03:29:11",
+      "added_at": "2024-05-30 05:51:56",
       "album": {
         "name": "Break up!",
         "url": "https://open.spotify.com/album/6Am09EioIsVMrl5dUnYtKp"
@@ -437,7 +577,7 @@
       "url": "https://open.spotify.com/track/77SdyZ2AxTfa849qhQaFVT"
     },
     {
-      "added_at": "2024-05-10 03:29:11",
+      "added_at": "2024-05-30 05:51:56",
       "album": {
         "name": "OK",
         "url": "https://open.spotify.com/album/2aVzG0xQisfr60C4zSD4Um"
@@ -453,7 +593,7 @@
       "url": "https://open.spotify.com/track/36ivhvZz9YVL0AjELWlWGP"
     },
     {
-      "added_at": "2024-05-10 03:29:11",
+      "added_at": "2024-05-30 05:51:56",
       "album": {
         "name": "sun, moon, star",
         "url": "https://open.spotify.com/album/4WAaPJ68gqKIuKsk4tnkun"
@@ -469,7 +609,7 @@
       "url": "https://open.spotify.com/track/63tsEGKedYZYPjWlxdACal"
     },
     {
-      "added_at": "2024-05-10 03:29:11",
+      "added_at": "2024-05-30 05:51:56",
       "album": {
         "name": "Scent of Skin",
         "url": "https://open.spotify.com/album/6045ZGUfocYF8I3VlvyhvF"
@@ -485,7 +625,7 @@
       "url": "https://open.spotify.com/track/3rPIU5Hdc3BbGV7FXq3fD5"
     },
     {
-      "added_at": "2024-05-10 03:29:11",
+      "added_at": "2024-05-30 05:51:56",
       "album": {
         "name": "HELLO WORLD : CODE J EP.1",
         "url": "https://open.spotify.com/album/4HUTCxTn5FEpdXrQUNWAIy"
@@ -501,7 +641,7 @@
       "url": "https://open.spotify.com/track/3DMvqQG9wibjtjmrUAvNBn"
     },
     {
-      "added_at": "2024-05-10 03:29:11",
+      "added_at": "2024-05-30 05:51:56",
       "album": {
         "name": "One Of A Kind",
         "url": "https://open.spotify.com/album/2sN27KkVSnHvqi0MA2YxcZ"
@@ -517,7 +657,7 @@
       "url": "https://open.spotify.com/track/0hnxybqZeJzU85jSwf5cdG"
     },
     {
-      "added_at": "2024-05-10 03:29:11",
+      "added_at": "2024-05-30 05:51:56",
       "album": {
         "name": "<Pre 1 : Birth>",
         "url": "https://open.spotify.com/album/5wZCcgVMvK2sEEKH5oXNMJ"
@@ -533,7 +673,7 @@
       "url": "https://open.spotify.com/track/6aPXjtda2SdTi8rAcFlrOS"
     },
     {
-      "added_at": "2024-05-10 03:29:11",
+      "added_at": "2024-05-30 05:51:56",
       "album": {
         "name": "Beautiful MAZE",
         "url": "https://open.spotify.com/album/6QxAUGvcYLmeWfkOsQhDaC"
@@ -549,7 +689,7 @@
       "url": "https://open.spotify.com/track/03dsawwfwz82T2cuCgFNza"
     },
     {
-      "added_at": "2024-05-10 03:29:11",
+      "added_at": "2024-05-30 05:51:56",
       "album": {
         "name": "Locked On",
         "url": "https://open.spotify.com/album/2KOyXfulQ7w35Ok4KYtxBw"
@@ -565,7 +705,7 @@
       "url": "https://open.spotify.com/track/1jRru0uo655c4HPGkVihOe"
     },
     {
-      "added_at": "2024-05-10 03:29:11",
+      "added_at": "2024-05-30 05:51:56",
       "album": {
         "name": "Officially Cool",
         "url": "https://open.spotify.com/album/7ak1PBCmrVLvOANEenebe9"
@@ -585,7 +725,7 @@
       "url": "https://open.spotify.com/track/52rdnAZoYsEbguqMwCOeLi"
     },
     {
-      "added_at": "2024-05-10 03:29:11",
+      "added_at": "2024-05-30 05:51:56",
       "album": {
         "name": "NOWADAYS",
         "url": "https://open.spotify.com/album/4Ne62dPo4QnXDaIpaWc87L"
@@ -601,7 +741,7 @@
       "url": "https://open.spotify.com/track/57dLypRhQoRBX9wFt4Ug7c"
     },
     {
-      "added_at": "2024-05-10 03:29:11",
+      "added_at": "2024-05-30 05:51:56",
       "album": {
         "name": "Fake Happy",
         "url": "https://open.spotify.com/album/3Yrgk8MqQG9YCUls0iSLHv"
@@ -617,7 +757,7 @@
       "url": "https://open.spotify.com/track/7z45AkgscpK9Vh5WyfF3iP"
     },
     {
-      "added_at": "2024-05-10 03:29:11",
+      "added_at": "2024-05-30 05:51:56",
       "album": {
         "name": "XXL EP",
         "url": "https://open.spotify.com/album/0EbH9upNSg6zsdFZ8g11Yl"
@@ -633,7 +773,7 @@
       "url": "https://open.spotify.com/track/05QXjyZgsAq6J84J6SlbyV"
     },
     {
-      "added_at": "2024-05-10 03:29:11",
+      "added_at": "2024-05-30 05:51:56",
       "album": {
         "name": "The 1st Mini Album 'WE UNIS'",
         "url": "https://open.spotify.com/album/3pix2U5QbFUSwOeF1M9Eim"
@@ -649,7 +789,7 @@
       "url": "https://open.spotify.com/track/4NZZdFybgGq1Xwx4wq2BdB"
     },
     {
-      "added_at": "2024-05-10 03:29:11",
+      "added_at": "2024-05-30 05:51:56",
       "album": {
         "name": "Hashtag#",
         "url": "https://open.spotify.com/album/6QQIkAdIkRtvu8G2kzcyaB"
@@ -665,7 +805,7 @@
       "url": "https://open.spotify.com/track/60g4aWGlvFq9riY0jrTdtZ"
     },
     {
-      "added_at": "2024-05-10 03:29:11",
+      "added_at": "2024-05-30 05:51:56",
       "album": {
         "name": "Cinema Pt. 2",
         "url": "https://open.spotify.com/album/2CPsUAUJvUIFuqK5zlQZa9"
@@ -681,7 +821,7 @@
       "url": "https://open.spotify.com/track/2HXdn9Zi25cfTyjaSxoomQ"
     },
     {
-      "added_at": "2024-05-10 03:29:11",
+      "added_at": "2024-05-30 05:51:56",
       "album": {
         "name": "ONE HEARTED",
         "url": "https://open.spotify.com/album/2uSqR87CUmRQcEb63HaqbR"
@@ -697,7 +837,7 @@
       "url": "https://open.spotify.com/track/21j3qXlRXCDJRG1xWQt2gW"
     },
     {
-      "added_at": "2024-05-10 03:29:11",
+      "added_at": "2024-05-30 05:51:56",
       "album": {
         "name": "FUEGO",
         "url": "https://open.spotify.com/album/6KizwQiaESv5h3FIhcr8ta"
@@ -711,142 +851,6 @@
       "duration_ms": 192586,
       "name": "FUEGO",
       "url": "https://open.spotify.com/track/2iCy2qfDdWN8duitTHeHSm"
-    },
-    {
-      "added_at": "2024-05-10 03:29:11",
-      "album": {
-        "name": "The Most",
-        "url": "https://open.spotify.com/album/0MPZZIVL9G3pbDe0UBVOjI"
-      },
-      "artists": [
-        {
-          "name": "WH3N",
-          "url": "https://open.spotify.com/artist/4MSCkKz4xskCrvx49wOneF"
-        }
-      ],
-      "duration_ms": 194426,
-      "name": "The Most",
-      "url": "https://open.spotify.com/track/2zKE0UQw17joNPV8Miji2o"
-    },
-    {
-      "added_at": "2024-05-10 03:29:11",
-      "album": {
-        "name": "BXX",
-        "url": "https://open.spotify.com/album/3xX7eBfa5HTqDZXepyvjfw"
-      },
-      "artists": [
-        {
-          "name": "PURPLE KISS",
-          "url": "https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq"
-        }
-      ],
-      "duration_ms": 166053,
-      "name": "BBB",
-      "url": "https://open.spotify.com/track/1Xj89xyCM5Edza6AqTpRuB"
-    },
-    {
-      "added_at": "2024-05-10 03:29:11",
-      "album": {
-        "name": "Default",
-        "url": "https://open.spotify.com/album/4P8nciEu4ohngeo77oex4u"
-      },
-      "artists": [
-        {
-          "name": "Kim Sawol",
-          "url": "https://open.spotify.com/artist/08J6v4qHZz06ua0qAicWmE"
-        }
-      ],
-      "duration_ms": 232773,
-      "name": "Default",
-      "url": "https://open.spotify.com/track/7a9JYapvSZ6jYu2TaG7BRU"
-    },
-    {
-      "added_at": "2024-05-10 03:29:11",
-      "album": {
-        "name": "text me",
-        "url": "https://open.spotify.com/album/2o3ha2VKOY0gbP9IThu2TY"
-      },
-      "artists": [
-        {
-          "name": "YOU DAYEON",
-          "url": "https://open.spotify.com/artist/23xyNoanbbAB7M8LBiibyr"
-        }
-      ],
-      "duration_ms": 155714,
-      "name": "text me",
-      "url": "https://open.spotify.com/track/7Cu3roszCR6enOjFpN9f2U"
-    },
-    {
-      "added_at": "2024-05-10 03:29:11",
-      "album": {
-        "name": "With You Back Then",
-        "url": "https://open.spotify.com/album/7ErveJVCxFgPDk0PVqk5VR"
-      },
-      "artists": [
-        {
-          "name": "Ourealgoat",
-          "url": "https://open.spotify.com/artist/3YRGcoHMIvWleQfa0qa1D1"
-        }
-      ],
-      "duration_ms": 161893,
-      "name": "With You Back Then",
-      "url": "https://open.spotify.com/track/1yp7CNSVBSjrXrRdS7EWUX"
-    },
-    {
-      "added_at": "2024-05-10 03:29:11",
-      "album": {
-        "name": "How Time Flies (feat. BIGONE & Dive)",
-        "url": "https://open.spotify.com/album/6hVKC1sx3OZ8GIi4g2ernc"
-      },
-      "artists": [
-        {
-          "name": "DOHANSE",
-          "url": "https://open.spotify.com/artist/0vpzOOH7hVL9KdsCus9v5v"
-        },
-        {
-          "name": "BIGONE",
-          "url": "https://open.spotify.com/artist/0bQhUyXffQjkd6horP6fKX"
-        },
-        {
-          "name": "Dive",
-          "url": "https://open.spotify.com/artist/1FqFb3OhgJhXPOdg3Rzocd"
-        }
-      ],
-      "duration_ms": 177853,
-      "name": "How Time Flies (feat. BIGONE & Dive)",
-      "url": "https://open.spotify.com/track/033StetXuelKeMeQ7JWEgI"
-    },
-    {
-      "added_at": "2024-05-10 03:29:11",
-      "album": {
-        "name": "Only One",
-        "url": "https://open.spotify.com/album/3CDMv5m8ffHTAXidBmY2XQ"
-      },
-      "artists": [
-        {
-          "name": "VCHA",
-          "url": "https://open.spotify.com/artist/3k6TH9knHgthYJiEVDUC2s"
-        }
-      ],
-      "duration_ms": 176030,
-      "name": "Only One",
-      "url": "https://open.spotify.com/track/20zQ5Kf2lZA1awa8csGNdJ"
-    },
-    {
-      "added_at": "2024-05-10 03:29:11",
-      "album": {
-        "name": "XOUL DAY",
-        "url": "https://open.spotify.com/album/2YZ7DBAGSwldjnLRP6zHSd"
-      },
-      "artists": [
-        {
-          "name": "XODIAC",
-          "url": "https://open.spotify.com/artist/1Yhs3H3tkZhk4mSQgzECWb"
-        }
-      ],
-      "duration_ms": 208346,
-      "name": "HEYDAY",
-      "url": "https://open.spotify.com/track/4F06nQOQWNVREhOU8iax6Y"
     }
   ],
   "unique_name": "RADAR Korea",

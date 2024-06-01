@@ -1309,6 +1309,24 @@
     },
     {
       "album": {
+        "name": "Always Forever",
+        "url": "https://open.spotify.com/album/65otcCeyfEPtdY4DZMgPtF"
+      },
+      "artists": [
+        {
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185160,
+      "name": "Always Forever",
+      "url": "https://open.spotify.com/track/2kSeF6yZz3wLFchfnX0xfO"
+    },
+    {
+      "album": {
         "name": "Always On My Mind",
         "url": "https://open.spotify.com/album/5KpauLevd3ntWBHUvVyfN4"
       },
@@ -9721,6 +9739,28 @@
     },
     {
       "album": {
+        "name": "Here By Now (feat. Lilly Ahlberg)",
+        "url": "https://open.spotify.com/album/3qmMgA7FVycxNIkZsn4gMG"
+      },
+      "artists": [
+        {
+          "name": "Drove",
+          "url": "https://open.spotify.com/artist/6gqVaWZY9PVt1Lf42j4sZI"
+        },
+        {
+          "name": "Lilly Ahlberg",
+          "url": "https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211771,
+      "name": "Here By Now (feat. Lilly Ahlberg)",
+      "url": "https://open.spotify.com/track/6LXoxSbn5NB07w0QqvbeNJ"
+    },
+    {
+      "album": {
         "name": "For You",
         "url": "https://open.spotify.com/album/7rcgjzm6DOL7GiHws7Gmb3"
       },
@@ -13172,6 +13212,32 @@
       "duration_ms": 227384,
       "name": "Lay It All On Me",
       "url": "https://open.spotify.com/track/1MPfyPFjBE0e9GGWImKlXf"
+    },
+    {
+      "album": {
+        "name": "Lay Me Down",
+        "url": "https://open.spotify.com/album/5AIWJ1zabzxrzboNYzKlxz"
+      },
+      "artists": [
+        {
+          "name": "HIDDN",
+          "url": "https://open.spotify.com/artist/0wqZ6mvk4DfOvtQUVniOCX"
+        },
+        {
+          "name": "ADDAM",
+          "url": "https://open.spotify.com/artist/3pf0506idhclBF4UAL8z4Q"
+        },
+        {
+          "name": "Mila Falls",
+          "url": "https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147531,
+      "name": "Lay Me Down",
+      "url": "https://open.spotify.com/track/7EJVlH2MfseE8YSOhCiNhO"
     },
     {
       "album": {
@@ -18624,6 +18690,32 @@
       "duration_ms": 188418,
       "name": "Rather Be With You (feat. Crooked Colours)",
       "url": "https://open.spotify.com/track/4Kc1nMxyLCWtx3BganIsQs"
+    },
+    {
+      "album": {
+        "name": "Reach for You (Maratone Remix)",
+        "url": "https://open.spotify.com/album/1GmUGlzaZ2AzaXsyFEcD3h"
+      },
+      "artists": [
+        {
+          "name": "Ciaran McAuley",
+          "url": "https://open.spotify.com/artist/4tTgD3KLaNlHg2nxAgGaRi"
+        },
+        {
+          "name": "Linney",
+          "url": "https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb"
+        },
+        {
+          "name": "Maratone",
+          "url": "https://open.spotify.com/artist/1hVS5JWJxeuMiu7sultgO7"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241438,
+      "name": "Reach for You - Maratone Remix",
+      "url": "https://open.spotify.com/track/5ji9a1vYqp7ciW3h2iKy9W"
     },
     {
       "album": {
@@ -24954,12 +25046,12 @@
       },
       "artists": [
         {
-          "name": "Mild Minds",
-          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
-        },
-        {
           "name": "LUV HRTS",
           "url": "https://open.spotify.com/artist/4CCmq3kObiwqiUOn7dOww8"
+        },
+        {
+          "name": "Mild Minds",
+          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
         }
       ],
       "date_added": "2024-05-24",
@@ -26588,6 +26680,28 @@
       "duration_ms": 200163,
       "name": "Wherever You Go (feat. John Martin)",
       "url": "https://open.spotify.com/track/2tsArM8er9gkqiN4XiaW3r"
+    },
+    {
+      "album": {
+        "name": "Whisper",
+        "url": "https://open.spotify.com/album/6tPDyOvDtyeliclGUL6dV9"
+      },
+      "artists": [
+        {
+          "name": "yetep",
+          "url": "https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC"
+        },
+        {
+          "name": "Britt Lari",
+          "url": "https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236250,
+      "name": "Whisper",
+      "url": "https://open.spotify.com/track/1PB6iX4kAw1t13ozPVF9vo"
     },
     {
       "album": {

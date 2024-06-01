@@ -9158,7 +9158,7 @@
       ],
       "date_added": "2023-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 213344,
       "name": "Kinni Kinni",
       "url": "https://open.spotify.com/track/3F3ZuXYFXGM1V6pk3b3zmi"
@@ -15814,7 +15814,7 @@
       ],
       "date_added": "2024-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 205088,
       "name": "Satyanaas (From \"Chandu Champion\")",
       "url": "https://open.spotify.com/track/01Vpd2oh65RTICFhbdLBDQ"
@@ -17402,6 +17402,28 @@
       "duration_ms": 346290,
       "name": "Tere Hawaale (From \"Laal Singh Chaddha\")",
       "url": "https://open.spotify.com/track/4blqlsA1uf2d2I40E90EUC"
+    },
+    {
+      "album": {
+        "name": "Best of Romance: Atif Aslam & Pritam",
+        "url": "https://open.spotify.com/album/3vDIjYB1eatEoGlVoZWUFs"
+      },
+      "artists": [
+        {
+          "name": "Atif Aslam",
+          "url": "https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279826,
+      "name": "Tere Liye",
+      "url": "https://open.spotify.com/track/0xlWd9o8yjKpJ02WJy79kZ"
     },
     {
       "album": {
@@ -19302,6 +19324,32 @@
       "duration_ms": 228257,
       "name": "Vaathi Coming",
       "url": "https://open.spotify.com/track/2BcPFQ7nrtUObgAs72xaac"
+    },
+    {
+      "album": {
+        "name": "Vada Humse Karo (From \"Savi\")",
+        "url": "https://open.spotify.com/album/6boOKBmafNO9TUNsH0NWtl"
+      },
+      "artists": [
+        {
+          "name": "KK",
+          "url": "https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp"
+        },
+        {
+          "name": "Piyush Shankar",
+          "url": "https://open.spotify.com/artist/1BhuOVR89HEuGLypGbQJ7l"
+        },
+        {
+          "name": "Rashmi Virag",
+          "url": "https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210161,
+      "name": "Vada Humse Karo (From \"Savi\")",
+      "url": "https://open.spotify.com/track/4Jp1sjdd9uwkg8kweoYPhs"
     },
     {
       "album": {

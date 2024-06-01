@@ -1915,6 +1915,24 @@
     },
     {
       "album": {
+        "name": "It Must Have Been Love",
+        "url": "https://open.spotify.com/album/6yBaEmEaHtjCwhtGTfJcOJ"
+      },
+      "artists": [
+        {
+          "name": "Lucie Jean",
+          "url": "https://open.spotify.com/artist/5jEOVhrMJqGw6notBTGuKn"
+        }
+      ],
+      "date_added": "2024-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251901,
+      "name": "It Must Have Been Love",
+      "url": "https://open.spotify.com/track/1rXAaJN6UHf7eTqX5dyTai"
+    },
+    {
+      "album": {
         "name": "VSQ Performs the Cure",
         "url": "https://open.spotify.com/album/61kwUPXYy2ZUEIPBttwxvl"
       },

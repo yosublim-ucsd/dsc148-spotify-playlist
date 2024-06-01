@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Best blends of Electronic music Across East Africa",
+  "description": "Best blends of Electronic music Across East Africa. Cover: Munyasya",
   "name": "Oontz",
   "tracks": [
     {
@@ -165,6 +165,28 @@
     },
     {
       "album": {
+        "name": "Call Me",
+        "url": "https://open.spotify.com/album/2FLZAOMNzYokZZXfxUO6Kt"
+      },
+      "artists": [
+        {
+          "name": "Venessa Jackson",
+          "url": "https://open.spotify.com/artist/6JDjuDf9o67pNcq97V6fhy"
+        },
+        {
+          "name": "Saint Evo",
+          "url": "https://open.spotify.com/artist/08dNTAMCiCM61JnSslHFCE"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 456000,
+      "name": "Call Me",
+      "url": "https://open.spotify.com/track/0CznHbi50Y4QidvnD3p32o"
+    },
+    {
+      "album": {
         "name": "Changilo",
         "url": "https://open.spotify.com/album/0Pv3aIvB9sth1JSag2zWrx"
       },
@@ -224,7 +246,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 380655,
       "name": "Chongo - Extended Mix",
       "url": "https://open.spotify.com/track/1I3KkEN7bB7er3HBrVMRme"
@@ -570,7 +592,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 150000,
       "name": "Heart & Home",
       "url": "https://open.spotify.com/track/2CCeJrNHjfCPPbAgbxfZeG"
@@ -885,6 +907,28 @@
     },
     {
       "album": {
+        "name": "Kadenge",
+        "url": "https://open.spotify.com/album/3C4908n24YULIZFv7fWYTT"
+      },
+      "artists": [
+        {
+          "name": "THE ILLUSTRATED MAN",
+          "url": "https://open.spotify.com/artist/0MQyBOnA1ntDwgLv4ZORhI"
+        },
+        {
+          "name": "Idd Aziz",
+          "url": "https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252000,
+      "name": "Kadenge",
+      "url": "https://open.spotify.com/track/3tZepAwKSAwy2z284egom5"
+    },
+    {
+      "album": {
         "name": "Kamweretho",
         "url": "https://open.spotify.com/album/1yV5WlSsJQGBnFynhpNG4i"
       },
@@ -1092,6 +1136,40 @@
       "duration_ms": 434666,
       "name": "Kolowa - Dr Feel Remix",
       "url": "https://open.spotify.com/track/71IOTNy23zkndKm8V7X39Y"
+    },
+    {
+      "album": {
+        "name": "Kula (Tony Shades Remix)",
+        "url": "https://open.spotify.com/album/49unqznNrXbWcxneiZnkBd"
+      },
+      "artists": [
+        {
+          "name": "David Hopperman",
+          "url": "https://open.spotify.com/artist/0VAX7m33WhAKE1Q5b8Mq7q"
+        },
+        {
+          "name": "Idd Aziz",
+          "url": "https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk"
+        },
+        {
+          "name": "Ladour",
+          "url": "https://open.spotify.com/artist/69yxUVqdTKXUmj0l3Ovcvd"
+        },
+        {
+          "name": "Kahari",
+          "url": "https://open.spotify.com/artist/0Juu9hUssIC1zaUilZuDh6"
+        },
+        {
+          "name": "Tony Shades",
+          "url": "https://open.spotify.com/artist/05mqqOutOMYYx1n1vjYO7K"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376000,
+      "name": "Kula - Tony Shades Remix",
+      "url": "https://open.spotify.com/track/6Hu7KdszWs8YTmgjOKwnwD"
     },
     {
       "album": {
@@ -2314,7 +2392,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 159639,
       "name": "SEQUENCE",
       "url": "https://open.spotify.com/track/3352NJ15FsCKvBfKKpUEyz"
@@ -2410,6 +2488,24 @@
       "duration_ms": 242198,
       "name": "Sondans",
       "url": "https://open.spotify.com/track/5BcMZEJoHhPu1HWX9qeWLA"
+    },
+    {
+      "album": {
+        "name": "Sonder",
+        "url": "https://open.spotify.com/album/1qLQYpWgWtO7DLAaqFnCY7"
+      },
+      "artists": [
+        {
+          "name": "Munyasya",
+          "url": "https://open.spotify.com/artist/4TvHKIqggNweDs4pqn6j6Z"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 428429,
+      "name": "Sonder",
+      "url": "https://open.spotify.com/track/2gVy654eoz1UEah0YP9EdV"
     },
     {
       "album": {
@@ -2550,7 +2646,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 450491,
       "name": "Thaai - Dj Tomer & Ricardo's Voodoo Tribe Remix",
       "url": "https://open.spotify.com/track/5ILQd8soax1ekqFfv9Psrj"

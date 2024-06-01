@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 
 > ur on the list bb 🪐 featuring aimei媚
 
-[Spotify](https://open.spotify.com/user/spotify) - 250,484 likes - 150 songs - 7 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,537 likes - 150 songs - 7 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -149,7 +149,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 | 139 | [Safe](https://open.spotify.com/track/7EuW5fS26s5cHZjI56FCjr) | [Daniel Allan](https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra), [Madalen Duke](https://open.spotify.com/artist/5qElg3REYcoPscmGLy0NmU), [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64) | [Safe](https://open.spotify.com/album/3ccep7dNfKrvfoYiQ5Kogy) | 2:13 |
 | 140 | [Heavenly Body](https://open.spotify.com/track/2GAhSKbtkFK9v1waB6UTPJ) | [Dazegxd](https://open.spotify.com/artist/59e7YxjDTqYuyxi0kTt4fL), [MON](https://open.spotify.com/artist/5hQpMH8HwFZZPBVEo6e1f6) | [Gospel Overture](https://open.spotify.com/album/61d70nj1Qb3m0IWkF2TH0g) | 3:15 |
 | 141 | [Late Purity \(DJ Planet Express Remix\)](https://open.spotify.com/track/6o3GHKRVMf3XX46yUXUsnY) | [Jaunt](https://open.spotify.com/artist/0RjyW369Wyqush2rz41dkA), [DJ Planet Express](https://open.spotify.com/artist/0nx9ai3o3Ba6bE3WHkEoQg) | [Late Purity \(DJ Planet Express Remix\)](https://open.spotify.com/album/6W9iFh6bsPm2VGK74yJwfa) | 3:46 |
-| 142 | [Speed Drive](https://open.spotify.com/track/5Ww9JTu9VNftDjSvjlNzHz) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [jamesjamesjames](https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ) | [Speed Drive](https://open.spotify.com/album/3pUyExZz3VhtXDospnbazV) | 4:24 |
+| 142 | [Speed Drive \(jamesjamesjames Remix\) \[From Barbie The Album\]](https://open.spotify.com/track/5Ww9JTu9VNftDjSvjlNzHz) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [jamesjamesjames](https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ) | [Speed Drive \(jamesjamesjames Remix\) \[From Barbie The Album\]](https://open.spotify.com/album/3pUyExZz3VhtXDospnbazV) | 4:24 |
 | 143 | [Stay With Me \(with Absolutely\)](https://open.spotify.com/track/1p8R6ArQGBFpzoaLJiLvJh) | [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0), [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [Stay With Me \(with Absolutely\)](https://open.spotify.com/album/5IcJs3auFFMiIxrDqqweC6) | 3:26 |
 | 144 | [Everytime](https://open.spotify.com/track/4nwY9USQVseGi3svML7oH3) | [Martin Badder](https://open.spotify.com/artist/6YDB8EqiwJvkIzXUtYgpA8) | [Everytime](https://open.spotify.com/album/4UGVxXENF5pDhLoTjB0iXc) | 3:31 |
 | 145 | [Monster](https://open.spotify.com/track/5lrFY7L0ftHfu6BaSQY1Lb) | [Justin Jay](https://open.spotify.com/artist/5k5eiijuHxrGwXp2Pz37GZ) | [Monster](https://open.spotify.com/album/15psK1WC7rarUC9vChkzWR) | 2:42 |

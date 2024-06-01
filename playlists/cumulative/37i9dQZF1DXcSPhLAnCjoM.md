@@ -2,7 +2,7 @@
 
 ### [Grand Hit](https://open.spotify.com/playlist/37i9dQZF1DXcSPhLAnCjoM)
 
-> "Le chant est libre" de Patrick Fiori est le Grand Hit de la semaine.
+> "Nous on sait" de Pierre Garnier est le Grand Hit de la semaine.
 
 145 songs - 7 hr 31 min
 

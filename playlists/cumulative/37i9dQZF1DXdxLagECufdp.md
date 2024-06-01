@@ -4,7 +4,7 @@
 
 > Fanfarrias y ritmos clown para gozar las tragicomedias de la vida.
 
-159 songs - 10 hr 12 min
+160 songs - 10 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Duda Morena](https://open.spotify.com/track/2tUUUBIx7SqR3WVVSN7R5V) | [Churupaca](https://open.spotify.com/artist/0B6mwRbxKrvUvklMk9571H), [Chango Spasiuk](https://open.spotify.com/artist/0qGRkfnUqWeG49vbCv6rMY) | [Churupaca](https://open.spotify.com/album/4WEJMxY05ww9RP2jCK4SXX) | 4:53 | 2021-09-10 | 2023-11-11 |
 | [Duda Morena](https://open.spotify.com/track/3U0VWhffr8bNtIb9NXLsAF) | [Churupaca](https://open.spotify.com/artist/0B6mwRbxKrvUvklMk9571H), [Chango Spasiuk](https://open.spotify.com/artist/0qGRkfnUqWeG49vbCv6rMY) | [Churupaca](https://open.spotify.com/album/14izgFmt2bYnz6GT6utXKG) | 4:53 | 2021-09-10 | 2022-07-29 |
 | [Duda Morena](https://open.spotify.com/track/77DfJYwlIxQFbcNoZcVjuh) | [Churupaca](https://open.spotify.com/artist/0B6mwRbxKrvUvklMk9571H), [Chango Spasiuk](https://open.spotify.com/artist/0qGRkfnUqWeG49vbCv6rMY) | [Churupaca](https://open.spotify.com/album/1n7pvXzyXqEDCrCaR7SJbc) | 4:53 | 2023-07-07 | 2024-04-19 |
-| [El Fantasma Enamorado \(E13 Sessions\)](https://open.spotify.com/track/3FUlOJl1oJWfeEQkd4JqQ9) | [Paté de Fuá](https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa) | [El Fantasma Enamorado \(E13 Sessions\)](https://open.spotify.com/album/3Ka4qbcJGSq1ouSFDbs4K1) | 5:32 | 2023-07-07 |  |
+| [El Fantasma Enamorado \(E13 Sessions\)](https://open.spotify.com/track/3FUlOJl1oJWfeEQkd4JqQ9) | [Paté de Fuá](https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa) | [El Fantasma Enamorado \(E13 Sessions\)](https://open.spotify.com/album/3Ka4qbcJGSq1ouSFDbs4K1) | 5:32 | 2023-07-07 | 2024-06-01 |
 | [El Futuro Es Nuestro \(feat\. Goran Bregović\)](https://open.spotify.com/track/0vJWanOoPwLdy4sgyM1FGC) | [Residente](https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS), [Goran Bregović](https://open.spotify.com/artist/491v9k5NTGBGanwqPNSkuS) | [Residente](https://open.spotify.com/album/6yClcORh3xiP9Gg1aqbvZ9) | 4:26 | 2021-09-10 |  |
 | [El Joven](https://open.spotify.com/track/6rF2b4T24K7cug33CFssX5) | [Barrio Manouche](https://open.spotify.com/artist/64uzGw6SoD7DIMxnvZ9HcS) | [El Joven](https://open.spotify.com/album/7LERmFEyTVVGMDrdseq0Uz) | 4:23 | 2021-09-10 | 2022-07-28 |
 | [El Leñador](https://open.spotify.com/track/36dMgM3svUVhgQlVXPbZQu) | [Palo Pandolfo](https://open.spotify.com/artist/01wwxIe4Qgb0a4PCfzBjsf), [Goy Ogalde](https://open.spotify.com/artist/170R5MHc1kaj5wjpe9r0V4), [Alfonso Barbieri](https://open.spotify.com/artist/5d3mMmYy6A3MGlXfp42c26) | [Esto Es un Abrazo](https://open.spotify.com/album/6YQ3Qc2P4vmCuHGnQkPxfx) | 3:32 | 2021-09-10 | 2022-07-28 |
@@ -142,6 +142,7 @@
 | [Pharoah's Dreams](https://open.spotify.com/track/3bfUusiINCCzv5YDfgtQEY) | [Hepcat](https://open.spotify.com/artist/79pQC5STz5lsGdkJ0NHmGp) | [Right On Time](https://open.spotify.com/album/5n7IeJHvlLtCo3HW5vgCqu) | 3:27 | 2021-09-10 |  |
 | [Piel Canela](https://open.spotify.com/track/1YopIwn9N58vwfrEIasIne) | [Ska Cubano](https://open.spotify.com/artist/6lmoqMxughzdlxvQTsUXjF) | [Mambo Ska](https://open.spotify.com/album/7qfCYynbJSqc6OzpLQwRy6) | 2:51 | 2023-01-07 |  |
 | [Pink Elephants on Parade](https://open.spotify.com/track/2N9X030oBteOZ1O5KFvPUo) | [Lee Presson and the Nails](https://open.spotify.com/artist/07CH0q2ZtS4ifGT4135KIp) | [El Bando En Fuego!](https://open.spotify.com/album/0UA1mAdD14qI51Ogfwdyk7) | 4:28 | 2021-09-10 | 2022-07-11 |
+| [Pravda](https://open.spotify.com/track/1vfG5VaQQzr7x7gCbVyQFF) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Only God Was Above Us](https://open.spotify.com/album/1W04wu2W4OIcuiNc5AMB3y) | 4:11 | 2024-05-31 |  |
 | [Preciso Me Encontrar](https://open.spotify.com/track/3gMH4i4urrgaG0vNf7jk6C) | [Carte Blanche](https://open.spotify.com/artist/4gOHHRs5KgFVxwZBW0sZK7) | [Carte Blanche](https://open.spotify.com/album/5r10XYBTlosImiqo24TP7X) | 4:13 | 2021-09-10 | 2022-06-16 |
 | [Que No, Que No](https://open.spotify.com/track/1CfDgFfSpVIrufYPVX02et) | [Las Taradas](https://open.spotify.com/artist/0cvN008loU6mGFr4IiYjVO) | [Son y Se Hacen](https://open.spotify.com/album/7CBtEchhPV1o3BLPlgPcuC) | 3:08 | 2021-09-10 |  |
 | [Sabiduría de los Gatos](https://open.spotify.com/track/5FHJjoj9OyLoquoqJRgP3A) | [TAR](https://open.spotify.com/artist/3nJ1a3wW53aGZWFF300u52) | [Sabiduría de los Gatos](https://open.spotify.com/album/58o3jvwm9Zq3bw8PRDUXTF) | 3:10 | 2021-09-10 | 2022-07-27 |

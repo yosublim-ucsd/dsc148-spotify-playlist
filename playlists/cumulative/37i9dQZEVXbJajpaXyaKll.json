@@ -2960,7 +2960,7 @@
       ],
       "date_added": "2024-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 254365,
       "name": "Guilty as Sin?",
       "url": "https://open.spotify.com/track/0W0iAC1VGlB82PI6elxFYf"
@@ -3262,7 +3262,7 @@
       ],
       "date_added": "2024-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 218004,
       "name": "I Can Do It With a Broken Heart",
       "url": "https://open.spotify.com/track/4q5YezDOIPcoLr8R81x9qy"
@@ -4005,6 +4005,24 @@
     },
     {
       "album": {
+        "name": "Los Pibes en Miami",
+        "url": "https://open.spotify.com/album/5PQYd013tPvdRaDMD5JHEt"
+      },
+      "artists": [
+        {
+          "name": "Joaqu\u00edn Da Rosa",
+          "url": "https://open.spotify.com/artist/1aKohXKamlQBtSQz2LwGax"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146938,
+      "name": "Los Pibes en Miami",
+      "url": "https://open.spotify.com/track/1yFWKXBGFRxV9wbbrQuq9Q"
+    },
+    {
+      "album": {
         "name": "I've Tried Everything But Therapy (Part 1)",
         "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
       },
@@ -4016,7 +4034,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 210688,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
@@ -4254,6 +4272,24 @@
       "duration_ms": 221709,
       "name": "Make You Mine",
       "url": "https://open.spotify.com/track/48vIfHaK7by6x0T6ucpODL"
+    },
+    {
+      "album": {
+        "name": "Mami Yo Se Que Te Gusta Mi Corte Gangster",
+        "url": "https://open.spotify.com/album/7BYNJIFtOeZKfJXTg4qE9L"
+      },
+      "artists": [
+        {
+          "name": "Yankee DJ",
+          "url": "https://open.spotify.com/artist/5b4E3uBftHogCVESIVneEi"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88176,
+      "name": "Mami Yo Se Que Te Gusta Mi Corte Gangster",
+      "url": "https://open.spotify.com/track/6DCPX27QTxatfpabsOO2y1"
     },
     {
       "album": {
@@ -6766,7 +6802,7 @@
       ],
       "date_added": "2024-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 110683,
       "name": "Soy la M\u00e1s Mala de Espa\u00f1a",
       "url": "https://open.spotify.com/track/17xJgs1Qeg1u5VnpJbNq3M"
@@ -6906,10 +6942,28 @@
       ],
       "date_added": "2024-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 178880,
       "name": "Supernova",
       "url": "https://open.spotify.com/track/351KkakA2YtGEXqSEIIasy"
+    },
+    {
+      "album": {
+        "name": "Armageddon - The 1st Album",
+        "url": "https://open.spotify.com/album/058hCti9Bupb5CJc6bd3VB"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178880,
+      "name": "Supernova",
+      "url": "https://open.spotify.com/track/4sgMbwl9lXGyHcHmtFYGMm"
     },
     {
       "album": {
@@ -7198,6 +7252,24 @@
       "duration_ms": 249807,
       "name": "The Prophecy",
       "url": "https://open.spotify.com/track/18WFFUIsewmA8g31KAeo3e"
+    },
+    {
+      "album": {
+        "name": "EL \u00daLTIMO BAILE",
+        "url": "https://open.spotify.com/album/3EWJoKrG9XnCjvAPzkQZ88"
+      },
+      "artists": [
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111160,
+      "name": "THE ROOF IS ON FIRE",
+      "url": "https://open.spotify.com/track/62Ff1Mw5sbCx017EJOsn3Q"
     },
     {
       "album": {
@@ -7664,7 +7736,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-08",
+      "date_removed": null,
       "duration_ms": 191016,
       "name": "Viaje de Ida",
       "url": "https://open.spotify.com/track/6NxIfPSFv9ZFTaptcnGEUU"

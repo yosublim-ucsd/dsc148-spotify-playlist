@@ -10997,6 +10997,24 @@
     },
     {
       "album": {
+        "name": "To Be Alright",
+        "url": "https://open.spotify.com/album/5Ss70sGKkEU6rHOYSRsO3A"
+      },
+      "artists": [
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245640,
+      "name": "To Be Alright",
+      "url": "https://open.spotify.com/track/5E0mDkJAiKziakTFbCjaaT"
+    },
+    {
+      "album": {
         "name": "To Learn",
         "url": "https://open.spotify.com/album/5k6lsjpZK4l4J9oMQmBR1l"
       },

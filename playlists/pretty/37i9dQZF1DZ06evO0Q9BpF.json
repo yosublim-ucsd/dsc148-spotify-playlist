@@ -1,12 +1,12 @@
 {
-  "description": "This Is Generaci\u00f3n 12. Los temas esenciales, todos en una lista.",
-  "num_followers": 39929,
+  "description": "This is Generaci\u00f3n 12. The essential tracks, all in one playlist.",
+  "num_followers": 39996,
   "original_name": "This Is Generaci\u00f3n 12",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlPNAAAAAABtKJXEgPdghAKZ3NwuPvmm",
+  "snapshot_id": "ZlfBgAAAAADKMET54tV/tyzhT7BkwU27",
   "tracks": [
     {
       "added_at": null,
@@ -191,18 +191,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dios Conmigo Est\u00e1s",
-        "url": "https://open.spotify.com/album/2dq2AammbAVkPEQXONxhXm"
+        "name": "Unidos Somos M\u00e1s Fuertes",
+        "url": "https://open.spotify.com/album/5CaiOljtlmZvIOcKyyFIZ8"
       },
       "artists": [
         {
           "name": "Generaci\u00f3n 12",
           "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        },
+        {
+          "name": "Jay Kalyl",
+          "url": "https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7"
         }
       ],
-      "duration_ms": 352500,
-      "name": "Dios Conmigo Est\u00e1s",
-      "url": "https://open.spotify.com/track/6ajcKo8JZHQiPaAzwhsHUa"
+      "duration_ms": 256305,
+      "name": "Unidos Somos M\u00e1s Fuertes",
+      "url": "https://open.spotify.com/track/50OAZ16SOAKSfp8ksaDOZF"
     },
     {
       "added_at": null,
@@ -227,22 +231,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unidos Somos M\u00e1s Fuertes",
-        "url": "https://open.spotify.com/album/5CaiOljtlmZvIOcKyyFIZ8"
+        "name": "Dios Conmigo Est\u00e1s",
+        "url": "https://open.spotify.com/album/2dq2AammbAVkPEQXONxhXm"
       },
       "artists": [
         {
           "name": "Generaci\u00f3n 12",
           "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        },
-        {
-          "name": "Jay Kalyl",
-          "url": "https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7"
         }
       ],
-      "duration_ms": 256305,
-      "name": "Unidos Somos M\u00e1s Fuertes",
-      "url": "https://open.spotify.com/track/50OAZ16SOAKSfp8ksaDOZF"
+      "duration_ms": 352500,
+      "name": "Dios Conmigo Est\u00e1s",
+      "url": "https://open.spotify.com/track/6ajcKo8JZHQiPaAzwhsHUa"
     },
     {
       "added_at": null,
@@ -431,26 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Salmo 34",
-        "url": "https://open.spotify.com/album/0q5MfpJjfoGG03bPfQvIyS"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/2yp6zqk49KOKKrOSSsUb75"
-        },
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        }
-      ],
-      "duration_ms": 252977,
-      "name": "Salmo 34",
-      "url": "https://open.spotify.com/track/7nfcmZI192eavVdBy7AW6l"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Remix 1.2",
         "url": "https://open.spotify.com/album/5wWH3xxakgFaCjK3oa8dr3"
       },
@@ -467,6 +447,26 @@
       "duration_ms": 221905,
       "name": "Dios Incomparable 1.2 (feat. Marco Barrientos)",
       "url": "https://open.spotify.com/track/2obGra074oqYXQTg9eEtJE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Salmo 34",
+        "url": "https://open.spotify.com/album/0q5MfpJjfoGG03bPfQvIyS"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/2yp6zqk49KOKKrOSSsUb75"
+        },
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        }
+      ],
+      "duration_ms": 252977,
+      "name": "Salmo 34",
+      "url": "https://open.spotify.com/track/7nfcmZI192eavVdBy7AW6l"
     },
     {
       "added_at": null,
@@ -511,22 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ah\u00ed Est\u00e1s T\u00fa",
-        "url": "https://open.spotify.com/album/3WS3WMgCXg5JDaxXDn7AsW"
-      },
-      "artists": [
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        }
-      ],
-      "duration_ms": 356204,
-      "name": "Ah\u00ed Est\u00e1s T\u00fa",
-      "url": "https://open.spotify.com/track/2dlk0PXifJPRYAEpEyV8FT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Si T\u00fa Est\u00e1s Conmigo",
         "url": "https://open.spotify.com/album/3GG0BnFJLkg1GOQQzCOxK1"
       },
@@ -555,8 +539,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Esto Es un Avivamiento",
-        "url": "https://open.spotify.com/album/6ZlOnNItorE8uCHOLgCa7T"
+        "name": "Ah\u00ed Est\u00e1s T\u00fa",
+        "url": "https://open.spotify.com/album/3WS3WMgCXg5JDaxXDn7AsW"
       },
       "artists": [
         {
@@ -564,9 +548,25 @@
           "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
         }
       ],
-      "duration_ms": 454013,
-      "name": "Abres Camino",
-      "url": "https://open.spotify.com/track/4uIVZAISkG5Kg2QYBCcYHw"
+      "duration_ms": 356204,
+      "name": "Ah\u00ed Est\u00e1s T\u00fa",
+      "url": "https://open.spotify.com/track/2dlk0PXifJPRYAEpEyV8FT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Yo Te Seguir\u00e9",
+        "url": "https://open.spotify.com/album/2RS2t8yes056MiafG5dGQE"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        }
+      ],
+      "duration_ms": 272857,
+      "name": "Yo Te Seguir\u00e9",
+      "url": "https://open.spotify.com/track/6N0A7FP2GwYgTb8Db9o66n"
     },
     {
       "added_at": null,
@@ -595,8 +595,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Yo Te Seguir\u00e9",
-        "url": "https://open.spotify.com/album/2RS2t8yes056MiafG5dGQE"
+        "name": "Esto Es un Avivamiento",
+        "url": "https://open.spotify.com/album/6ZlOnNItorE8uCHOLgCa7T"
       },
       "artists": [
         {
@@ -604,9 +604,9 @@
           "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
         }
       ],
-      "duration_ms": 272857,
-      "name": "Yo Te Seguir\u00e9",
-      "url": "https://open.spotify.com/track/6N0A7FP2GwYgTb8Db9o66n"
+      "duration_ms": 454013,
+      "name": "Abres Camino",
+      "url": "https://open.spotify.com/track/4uIVZAISkG5Kg2QYBCcYHw"
     },
     {
       "added_at": null,
@@ -683,8 +683,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Seamos Luz",
-        "url": "https://open.spotify.com/album/5pvHvfyAdZyeunmyYLtfHS"
+        "name": "Mientras Viva (En Vivo Desde Sudam\u00e9rica)",
+        "url": "https://open.spotify.com/album/43bUwgrcpN0i8nfqxAYwXM"
       },
       "artists": [
         {
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
         }
       ],
-      "duration_ms": 258630,
-      "name": "Permanecer\u00e9 En T\u00ed",
-      "url": "https://open.spotify.com/track/1JSo33oU2B2DdC0eFv6TBo"
+      "duration_ms": 208770,
+      "name": "Mientras Viva",
+      "url": "https://open.spotify.com/track/503ZWabGr3NrnDk8WYIma0"
     },
     {
       "added_at": null,
@@ -719,8 +719,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mientras Viva (En Vivo Desde Sudam\u00e9rica)",
-        "url": "https://open.spotify.com/album/43bUwgrcpN0i8nfqxAYwXM"
+        "name": "Seamos Luz",
+        "url": "https://open.spotify.com/album/5pvHvfyAdZyeunmyYLtfHS"
       },
       "artists": [
         {
@@ -728,9 +728,9 @@
           "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
         }
       ],
-      "duration_ms": 208770,
-      "name": "Mientras Viva",
-      "url": "https://open.spotify.com/track/503ZWabGr3NrnDk8WYIma0"
+      "duration_ms": 258630,
+      "name": "Permanecer\u00e9 En T\u00ed",
+      "url": "https://open.spotify.com/track/1JSo33oU2B2DdC0eFv6TBo"
     },
     {
       "added_at": null,
@@ -747,6 +747,46 @@
       "duration_ms": 411440,
       "name": "Eres Santo",
       "url": "https://open.spotify.com/track/3y4FxHuewno26pHuJvFrkx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Todo Lo Haces Nuevo",
+        "url": "https://open.spotify.com/album/7050tzQ5BRBlsMowdSDBwy"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        }
+      ],
+      "duration_ms": 359837,
+      "name": "Cristo Te Amo",
+      "url": "https://open.spotify.com/track/6odYcGVZArmAQpd994oS2U"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tu Reino Est\u00e1 Aqu\u00ed",
+        "url": "https://open.spotify.com/album/2AbsDFYbb2NYeJcwmypX5m"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        },
+        {
+          "name": "Edward Rivera",
+          "url": "https://open.spotify.com/artist/3N438PUTMEgLrL1n32VTxv"
+        },
+        {
+          "name": "Johan Manjarr\u00e9s",
+          "url": "https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7"
+        }
+      ],
+      "duration_ms": 505066,
+      "name": "Venga Tu Reino",
+      "url": "https://open.spotify.com/track/5xnAIoSXn2pyECcEcxc5rz"
     },
     {
       "added_at": null,
@@ -779,46 +819,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tu Reino Est\u00e1 Aqu\u00ed",
-        "url": "https://open.spotify.com/album/2AbsDFYbb2NYeJcwmypX5m"
-      },
-      "artists": [
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        },
-        {
-          "name": "Edward Rivera",
-          "url": "https://open.spotify.com/artist/3N438PUTMEgLrL1n32VTxv"
-        },
-        {
-          "name": "Johan Manjarr\u00e9s",
-          "url": "https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7"
-        }
-      ],
-      "duration_ms": 505066,
-      "name": "Venga Tu Reino",
-      "url": "https://open.spotify.com/track/5xnAIoSXn2pyECcEcxc5rz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Todo Lo Haces Nuevo",
-        "url": "https://open.spotify.com/album/7050tzQ5BRBlsMowdSDBwy"
-      },
-      "artists": [
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        }
-      ],
-      "duration_ms": 359837,
-      "name": "Cristo Te Amo",
-      "url": "https://open.spotify.com/track/6odYcGVZArmAQpd994oS2U"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mientras Viva (En Vivo Desde Sudam\u00e9rica)",
         "url": "https://open.spotify.com/album/43bUwgrcpN0i8nfqxAYwXM"
       },
@@ -847,6 +847,22 @@
       "duration_ms": 388860,
       "name": "Milagros",
       "url": "https://open.spotify.com/track/2kiERVFwmFf2XblqWAaBPG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Esto Es un Avivamiento",
+        "url": "https://open.spotify.com/album/6ZlOnNItorE8uCHOLgCa7T"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        }
+      ],
+      "duration_ms": 287986,
+      "name": "Hasta el Final",
+      "url": "https://open.spotify.com/track/1fW7mEEXN4UrG6ZbQXsbjT"
     },
     {
       "added_at": null,
@@ -904,54 +920,6 @@
           "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
         }
       ],
-      "duration_ms": 287986,
-      "name": "Hasta el Final",
-      "url": "https://open.spotify.com/track/1fW7mEEXN4UrG6ZbQXsbjT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Obra de Tu Amor",
-        "url": "https://open.spotify.com/album/7iwgHqgKqP2D5MhtnmGBeV"
-      },
-      "artists": [
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        },
-        {
-          "name": "Lead",
-          "url": "https://open.spotify.com/artist/5pyTY6jmdDNfKmmlo92Vfd"
-        },
-        {
-          "name": "Sof\u00eda Mancipe",
-          "url": "https://open.spotify.com/artist/13JxTQpXz8TBhXjOjYDioQ"
-        },
-        {
-          "name": "Daniela Quintero",
-          "url": "https://open.spotify.com/artist/3Oiu7Wp2lqFqkoRkcZCcWi"
-        },
-        {
-          "name": "Johan Manjarr\u00e9s",
-          "url": "https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7"
-        }
-      ],
-      "duration_ms": 276493,
-      "name": "Cantar de Tu Amor",
-      "url": "https://open.spotify.com/track/2nFGPjnTmncOxR78FEb0YV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Esto Es un Avivamiento",
-        "url": "https://open.spotify.com/album/6ZlOnNItorE8uCHOLgCa7T"
-      },
-      "artists": [
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        }
-      ],
       "duration_ms": 345973,
       "name": "Nada M\u00e1s",
       "url": "https://open.spotify.com/track/0m8kH2fAxNRxFlnzURAZEf"
@@ -987,6 +955,38 @@
       "duration_ms": 351200,
       "name": "Adonai",
       "url": "https://open.spotify.com/track/1BZ37xfM1Dmg7oLJtchnV3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Obra de Tu Amor",
+        "url": "https://open.spotify.com/album/7iwgHqgKqP2D5MhtnmGBeV"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        },
+        {
+          "name": "Lead",
+          "url": "https://open.spotify.com/artist/5pyTY6jmdDNfKmmlo92Vfd"
+        },
+        {
+          "name": "Sof\u00eda Mancipe",
+          "url": "https://open.spotify.com/artist/13JxTQpXz8TBhXjOjYDioQ"
+        },
+        {
+          "name": "Daniela Quintero",
+          "url": "https://open.spotify.com/artist/3Oiu7Wp2lqFqkoRkcZCcWi"
+        },
+        {
+          "name": "Johan Manjarr\u00e9s",
+          "url": "https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7"
+        }
+      ],
+      "duration_ms": 276493,
+      "name": "Cantar de Tu Amor",
+      "url": "https://open.spotify.com/track/2nFGPjnTmncOxR78FEb0YV"
     },
     {
       "added_at": null,

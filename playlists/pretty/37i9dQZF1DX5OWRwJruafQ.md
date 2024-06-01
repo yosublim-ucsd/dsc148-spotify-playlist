@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OWRwJruafQ.md) - [plain]
 
 > Keep it Punjabi, Keep it Real\. Cover: JERRY
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,220 likes - 100 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,273 likes - 100 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Winning Speech](https://open.spotify.com/track/3FqtduiaqnFYvBgKuc6QWQ) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Winning Speech](https://open.spotify.com/album/0pLUWCJtTpJCcYpzSTK7oC) | 3:47 |
 | 2 | [Busy Doin Nothin](https://open.spotify.com/track/0xOblh9Op69YZkvbsHrsDW) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [Busy Doin Nothin](https://open.spotify.com/album/5P7BaRLeaZ0RVj9DKUtPgx) | 3:40 |
-| 3 | [Kheti](https://open.spotify.com/track/3S4WHSIvTMIAdMscTjby9u) | [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [40k](https://open.spotify.com/artist/6nAMu7pGqdwUSsGMZPUvSk) | [Kheti](https://open.spotify.com/album/3udGZCTud3gLtuJJna2GaE) | 1:49 |
-| 4 | [OG OG](https://open.spotify.com/track/5qzdF5Egtyo19WwLuxaQ3l) | [Singga](https://open.spotify.com/artist/6nmrEhAdodPuhMLMbefluW), [Crew 47](https://open.spotify.com/artist/5mrfuOKQRKcfj6lGIZAuPO) | [OG OG](https://open.spotify.com/album/1Eb1PMj67NH7XypDAm1nS9) | 3:42 |
-| 5 | [Miami Flow](https://open.spotify.com/track/2DgeseqrXJEc7MmKvXWxY0) | [JERRY](https://open.spotify.com/artist/1mUl05hT77FrwVFW51wOlr) | [RAW](https://open.spotify.com/album/72MyJJSH7ZThR7366dRC2Y) | 2:29 |
-| 6 | [Circle](https://open.spotify.com/track/0iDrcBnb9K93F8mU1gBiOF) | [Shooter Kahlon](https://open.spotify.com/artist/5oL0GAI8fKD0Wgbr4Em9AS) | [Circle](https://open.spotify.com/album/64UcVPpRTPeqaWOEGw4753) | 2:59 |
-| 7 | [House Of Lies](https://open.spotify.com/track/7avo2LpNFXrgUgRtl9OsAL) | [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR), [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Sanjoy](https://open.spotify.com/artist/6qjhYs5KNSoSU6fNJqDGIo) | [House Of Lies](https://open.spotify.com/album/58U6KMHr9ApwuTXeKXIGa9) | 2:59 |
-| 8 | [Albatta](https://open.spotify.com/track/3XAcx54wxdHMZVfb5EGHaD) | [Pari Pandher](https://open.spotify.com/artist/5FacpiPeQOaDKcKXm1UcyA), [Josh Brar](https://open.spotify.com/artist/6SWmwFBXIsxhIx5XPkYo0a), [Sikander Kahlon](https://open.spotify.com/artist/08mu3VEvLCIWDq4t0NNoTN), [Nabjot](https://open.spotify.com/artist/3yhsicJ7kTjvsV6fuA72l1) | [Welcome To Punjab](https://open.spotify.com/album/4eOCSM24EwRcX9US7gQjRA) | 2:35 |
-| 9 | [OG](https://open.spotify.com/track/7Gy5Su3ee5oLp0LV4Mddl3) | [Shahat Gill](https://open.spotify.com/artist/7JYrslpC4w9YRhzwFDZSZV), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb) | [OG](https://open.spotify.com/album/7qSB8sD9esyUYbYQww8pWZ) | 2:19 |
+| 3 | [OG OG](https://open.spotify.com/track/5qzdF5Egtyo19WwLuxaQ3l) | [Singga](https://open.spotify.com/artist/6nmrEhAdodPuhMLMbefluW), [Crew 47](https://open.spotify.com/artist/5mrfuOKQRKcfj6lGIZAuPO) | [OG OG](https://open.spotify.com/album/1Eb1PMj67NH7XypDAm1nS9) | 3:42 |
+| 4 | [Jagga Jatt \(From "Only Love Gets Reply"\)](https://open.spotify.com/track/6zh80VZXzcYm72Wgh6HjWO) | [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR), [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Sez on the Beat](https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe) | [Jagga Jatt \(From "Only Love Gets Reply"\)](https://open.spotify.com/album/4v5lDXsOuEQpT9pxY3J13m) | 3:45 |
+| 5 | [Inipu](https://open.spotify.com/track/2n37CbY4Mm5rGXAIGlzAz3) | [Gurdeep Mehndi](https://open.spotify.com/artist/3ZeKRqvjWodGs3IenNQXio), [Yeah Proof](https://open.spotify.com/artist/3GOxylxqB046EtIQynePq2), [King Ricky](https://open.spotify.com/artist/2JjzL4iHzhc64wkR12GOB5) | [Prince Of Pop](https://open.spotify.com/album/0akvkBX4i7HCbbAAXtEZy7) | 2:01 |
+| 6 | [Miami Flow](https://open.spotify.com/track/2DgeseqrXJEc7MmKvXWxY0) | [JERRY](https://open.spotify.com/artist/1mUl05hT77FrwVFW51wOlr) | [RAW](https://open.spotify.com/album/72MyJJSH7ZThR7366dRC2Y) | 2:29 |
+| 7 | [Circle](https://open.spotify.com/track/0iDrcBnb9K93F8mU1gBiOF) | [Shooter Kahlon](https://open.spotify.com/artist/5oL0GAI8fKD0Wgbr4Em9AS) | [Circle](https://open.spotify.com/album/64UcVPpRTPeqaWOEGw4753) | 2:59 |
+| 8 | [House Of Lies](https://open.spotify.com/track/7avo2LpNFXrgUgRtl9OsAL) | [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR), [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Sanjoy](https://open.spotify.com/artist/6qjhYs5KNSoSU6fNJqDGIo) | [House Of Lies](https://open.spotify.com/album/58U6KMHr9ApwuTXeKXIGa9) | 2:59 |
+| 9 | [Kheti](https://open.spotify.com/track/3S4WHSIvTMIAdMscTjby9u) | [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [40k](https://open.spotify.com/artist/6nAMu7pGqdwUSsGMZPUvSk) | [Kheti](https://open.spotify.com/album/3udGZCTud3gLtuJJna2GaE) | 1:49 |
 | 10 | [Khoobia](https://open.spotify.com/track/7vdLeF0hqThuFH8dxgUhrc) | [Nirvair Pannu](https://open.spotify.com/artist/4vIsAZx8AolYa6paJphDGY) | [L.B.E](https://open.spotify.com/album/3SdX0ZgW8NqfTir2YEo05E) | 2:29 |
 | 11 | [One of One](https://open.spotify.com/track/7HA6dcnMqMt9Th55jeo8EA) | [JERRY](https://open.spotify.com/artist/1mUl05hT77FrwVFW51wOlr) | [RAW](https://open.spotify.com/album/72MyJJSH7ZThR7366dRC2Y) | 3:12 |
 | 12 | [We Different](https://open.spotify.com/track/0NUFlsE6MRFRc0qJs2ljPB) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [We Different](https://open.spotify.com/album/2kgj5kqtOqe0xQ0sX3qt9e) | 2:25 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OWRwJruafQ.md) - [plain]
 | 99 | [Nah They Can’t](https://open.spotify.com/track/6PO6EnP2QoP4vN27KmKvrj) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [No Lookin' Back](https://open.spotify.com/album/3TvDVoxi5iIi1oqCPMt4zp) | 3:24 |
 | 100 | [If I Die](https://open.spotify.com/track/6Hz3tNl55T31nuoX5NKybR) | [Guri Lahoria](https://open.spotify.com/artist/4oMjKSuAAFB6E9a5Icudw3), [Devilo](https://open.spotify.com/artist/5qrlwNqpcRzoI9Pjux1xHQ) | [If I Die](https://open.spotify.com/album/78piK5s0g1fcELSLFzvDbI) | 3:06 |
 
-Snapshot ID: `ZlWP/wAAAACT/IAsIVYgsWfqWqc3kTui`
+Snapshot ID: `ZlmZVAAAAAAU15bqxgynN/Mpvf3O05/b`

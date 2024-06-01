@@ -287,6 +287,24 @@
     },
     {
       "album": {
+        "name": "The Dead Don't Hurt (Music from the Movie)",
+        "url": "https://open.spotify.com/album/4L3RH4KMcMIqcn5QZPu2m5"
+      },
+      "artists": [
+        {
+          "name": "Viggo Mortensen",
+          "url": "https://open.spotify.com/artist/11habIRpXVkScDFp3rJrgu"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120885,
+      "name": "After",
+      "url": "https://open.spotify.com/track/5TWeazZlpWikCUFw4a1cwh"
+    },
+    {
+      "album": {
         "name": "The Woman King (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2lABjAqQEaDrHcoap386Lr"
       },
@@ -5254,6 +5272,24 @@
       "duration_ms": 312525,
       "name": "The Duel",
       "url": "https://open.spotify.com/track/1UkMDUFCYEU3E0iAX9r7Ya"
+    },
+    {
+      "album": {
+        "name": "The Watchers (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5wjNAA35i0vdM93og80T1M"
+      },
+      "artists": [
+        {
+          "name": "Abel Korzeniowski",
+          "url": "https://open.spotify.com/artist/5RGAUCWFZyymaMSAZJeice"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122826,
+      "name": "The Dying Gods",
+      "url": "https://open.spotify.com/track/06EoNxzb7fojLoj7aXpOtv"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-12",
-  "description": "This Is Tom Petty and the Heartbreakers. Los temas esenciales, todos en una lista.",
+  "description": "This is Tom Petty and the Heartbreakers. The essential tracks, all in one playlist.",
   "name": "This Is Tom Petty and the Heartbreakers",
   "tracks": [
     {
@@ -838,7 +838,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 223333,
       "name": "Into The Great Wide Open",
       "url": "https://open.spotify.com/track/63xBnyUVKIupzjHno4wFs3"
@@ -1090,7 +1090,7 @@
       ],
       "date_added": "2023-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-26",
+      "date_removed": null,
       "duration_ms": 183426,
       "name": "Mystery Man",
       "url": "https://open.spotify.com/track/5ReNpU1vhwaC4P2EWQ2SWy"
@@ -1202,7 +1202,7 @@
       ],
       "date_added": "2022-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-28",
+      "date_removed": null,
       "duration_ms": 221000,
       "name": "Out In The Cold",
       "url": "https://open.spotify.com/track/3m8w70z3xjmSjpc30Bn2T2"
@@ -1674,7 +1674,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 251853,
       "name": "U Get Me High",
       "url": "https://open.spotify.com/track/2rlhuKi3o7oySloqWw5TUa"

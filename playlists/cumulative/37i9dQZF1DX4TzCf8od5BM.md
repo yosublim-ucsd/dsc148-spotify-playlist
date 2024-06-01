@@ -4,7 +4,7 @@
 
 > Sing\-along with your favorite songs from Disney Junior shows including new music from Ariel.
 
-204 songs - 5 hr 13 min
+205 songs - 5 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,6 +153,7 @@
 | [Sh\-Sh\-Sh\-Shapes](https://open.spotify.com/track/3x6WKRRJY5ccuXZcu4O8Rd) | [Rob Cantor](https://open.spotify.com/artist/1NtYiv70buGwaMspHuD49I) | [Disney Junior Music: Ready for Preschool Vol\. 1](https://open.spotify.com/album/7EmFGJEsdiXwYZACc5wy2o) | 1:27 | 2022-03-18 |  |
 | [Sharing](https://open.spotify.com/track/0j7rD6DG1jMAKPCR0OC16M) | [Rob Cantor](https://open.spotify.com/artist/1NtYiv70buGwaMspHuD49I), [Genevieve Goings](https://open.spotify.com/artist/33FChbguJKySyP5Spe5jiN) | [Disney Junior Music: Ready for Preschool Vol\. 2](https://open.spotify.com/album/5pGWhGWIzd5AjlLDk6ZJuZ) | 1:26 | 2022-03-18 |  |
 | [Sheriff Callie's Wild West Theme Song](https://open.spotify.com/track/5FNrrSyQ5fMybjok5cqymi) | [Sheriff Callie](https://open.spotify.com/artist/2TptzTi2NMLAnevzN9Ell2), [Peck](https://open.spotify.com/artist/5HCya1eGq21BgniKfgILCX), [Toby](https://open.spotify.com/artist/3N2jh8OlsZCHQSlshTc8qi) | [Disney Junior DJ Shuffle](https://open.spotify.com/album/5OycyaWPgJT6KRRNeQbbkg) | 0:47 | 2022-03-18 |  |
+| [Shimmer \- From "Disney Jr\. Music: Ariel"](https://open.spotify.com/track/1rng6RlsQo2JGwsqMezkRh) | [Ariel \- Cast](https://open.spotify.com/artist/55tVyQMqlv8vuCM8pveXLk), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Shimmer \(From "Disney Jr\. Music: Ariel"\)](https://open.spotify.com/album/4aHPr4DFKLBTN0CPIHVHFC) | 1:36 | 2024-05-31 |  |
 | [Sleepover Survival Kit](https://open.spotify.com/track/3tj6EmcDiII8FMPtcuAQ5x) | [Fancy Nancy \- Cast](https://open.spotify.com/artist/4l4bo3QrT0fqA2brroiv34) | [Disney Junior Music: Fancy Nancy](https://open.spotify.com/album/1mMKPPInoqT49MtSQYZK5N) | 0:56 | 2022-03-18 |  |
 | [Sofia the First Main Title Theme \- From "Sofia the First"](https://open.spotify.com/track/3dfpZwSuosIuFqksY0F6gT) | [Cast \- Sofia the First](https://open.spotify.com/artist/2ItqDyOHeQBaOPeZmKVu2p), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H), [Sofia](https://open.spotify.com/artist/5ocA7gtizL3y8huRNXlali) | [Sofia the First](https://open.spotify.com/album/1B74prl74S3dhOsS7hsT4y) | 0:52 | 2022-03-18 |  |
 | [Speak Up!](https://open.spotify.com/track/72iPJOXzGTmQEz97qyg6xc) | [Rise Up, Sing Out \- Cast](https://open.spotify.com/artist/5kOWaYDn4KXG6HntLwTGEx), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Disney Junior Music: Rise Up, Sing Out](https://open.spotify.com/album/0wqVMWhboaCzHYYm2sJG5U) | 2:05 | 2022-03-18 | 2023-08-09 |

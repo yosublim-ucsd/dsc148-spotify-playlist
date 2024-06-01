@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pzlFKAwpZ5.md) - [plain]
 
 > The calming space of Japanese Ambient and Environmental music\. Masayoshi Fujita on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,881 likes - 159 songs - 11 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,042 likes - 159 songs - 11 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [harukanade / 春奏](https://open.spotify.com/track/4l4IkWuvZfqH9kxgzo1xSj) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [harukanade / 春奏](https://open.spotify.com/album/2T4FB4EAIxoDyAw8IVfxAj) | 3:55 |
+| 1 | [harukanade / 春奏](https://open.spotify.com/track/4l4IkWuvZfqH9kxgzo1xSj) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [harukanade / 春奏](https://open.spotify.com/album/2T4FB4EAIxoDyAw8IVfxAj) | 3:56 |
 | 2 | [Gold Dust](https://open.spotify.com/track/7j1kjPYeQiGfk21JEk761r) | [kita kouhei](https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5) | [Idealism II](https://open.spotify.com/album/5lJI2Znj1TmTnlyGGHlmtk) | 3:16 |
 | 3 | [Sweltering Drive](https://open.spotify.com/track/5BuOxxrd7WIgWMIO4pYVFQ) | [Masahiro Takahashi](https://open.spotify.com/artist/3lV9hq2ucA2hYlq4OmhhFR) | [Sweltering Drive](https://open.spotify.com/album/2QahlDidj7CrgCmRF4TTuv) | 3:54 |
 | 4 | [Fluffy Clouds](https://open.spotify.com/track/2xWFZaS43yINyYgxF515fA) | [David Cordero](https://open.spotify.com/artist/5yE5AG06GxRrh6Hw9qSJOQ), [Rhucle](https://open.spotify.com/artist/0y0cl3t1UlQf0730g7Zjkl) | [Summer Chronicles](https://open.spotify.com/album/3kXTpQS86OJ2U5yt1GP2y3) | 4:00 |

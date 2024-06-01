@@ -255,6 +255,32 @@
     },
     {
       "album": {
+        "name": "25 Bricks",
+        "url": "https://open.spotify.com/album/0GwIf7bKlu0zPL30oeQS5U"
+      },
+      "artists": [
+        {
+          "name": "Tona",
+          "url": "https://open.spotify.com/artist/6q8LiFdCehhaItyNf5yHSN"
+        },
+        {
+          "name": "Asun Eastwood",
+          "url": "https://open.spotify.com/artist/49q2aDR2KWUnAQlXz1d9k2"
+        },
+        {
+          "name": "Rvlr Magz",
+          "url": "https://open.spotify.com/artist/7teV8lDpDED8JKPLfMrHLN"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238846,
+      "name": "25 Bricks",
+      "url": "https://open.spotify.com/track/7tCGcmVVa6Stx6VUo6FePs"
+    },
+    {
+      "album": {
         "name": "29 (Freestyle)",
         "url": "https://open.spotify.com/album/5ks4uQKdCxJ34x8HF4Bxrf"
       },
@@ -1116,7 +1142,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 109879,
       "name": "Babe Ruth",
       "url": "https://open.spotify.com/track/7nIXIgN0lx8YsEx6UbL0ue"
@@ -1394,7 +1420,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 253590,
       "name": "Beautiful Life (feat. 38 Spesh & Jay Worthy)",
       "url": "https://open.spotify.com/track/6lKRzRSizlPqAnHSAALuqG"
@@ -1562,7 +1588,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 220589,
       "name": "Black & Whites",
       "url": "https://open.spotify.com/track/4uf1XtTgsXPzpqsFZeRfFb"
@@ -3654,6 +3680,32 @@
       "duration_ms": 272516,
       "name": "Drug Trade Pt 2 (feat. Black Thought & Benny The Butcher)",
       "url": "https://open.spotify.com/track/0caNSAOGrPfUQAvqi7H91l"
+    },
+    {
+      "album": {
+        "name": "Drug Tzar",
+        "url": "https://open.spotify.com/album/23qmMpltFrD8EN1jgeZw2v"
+      },
+      "artists": [
+        {
+          "name": "Big Hit",
+          "url": "https://open.spotify.com/artist/1zQJBLCGM0tdPW9XwgdEll"
+        },
+        {
+          "name": "Hit-Boy",
+          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180671,
+      "name": "Drug Tzar",
+      "url": "https://open.spotify.com/track/01N3UDXUKUP6e2It26WAak"
     },
     {
       "album": {
@@ -8416,6 +8468,36 @@
       "duration_ms": 182926,
       "name": "Moonshooter",
       "url": "https://open.spotify.com/track/4Js5w5HGoSdv7O79RmmEXr"
+    },
+    {
+      "album": {
+        "name": "Perdu in Peru",
+        "url": "https://open.spotify.com/album/4FVHGcaBppCbn7AmAUSkK6"
+      },
+      "artists": [
+        {
+          "name": "CHUNG",
+          "url": "https://open.spotify.com/artist/3JaOZg9OeS0sOnwz9MtvOe"
+        },
+        {
+          "name": "perutheproducer",
+          "url": "https://open.spotify.com/artist/7HZgGgNEM5zlE19qV12YWK"
+        },
+        {
+          "name": "UZA",
+          "url": "https://open.spotify.com/artist/3yeSAlkAYcOAEctpmDnGSB"
+        },
+        {
+          "name": "Santana Fox",
+          "url": "https://open.spotify.com/artist/3Vf419jAcwcs2SQPPtf9ga"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178604,
+      "name": "More Than a Lova",
+      "url": "https://open.spotify.com/track/3t2cCAri8L6w5pH4OlhqQf"
     },
     {
       "album": {

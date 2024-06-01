@@ -1,13 +1,125 @@
 {
-  "description": "Discover the next wave of talent on the scene writing their own songs. Cover: Romy Mars",
-  "num_followers": 96099,
+  "description": "Discover the next wave of talent on the scene writing their own songs. Cover: Lorelei Marcell",
+  "num_followers": 96151,
   "original_name": "Next Gen Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlAQwAAAAADJqyX8sZiM5jVNBtsogf1J",
+  "snapshot_id": "ZllLQAAAAACM0lcrV5ijs24JTD23NVp0",
   "tracks": [
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "Dear Conformity",
+        "url": "https://open.spotify.com/album/1xlJNntrxa4SvCGhRsfPwz"
+      },
+      "artists": [
+        {
+          "name": "Lorelei Marcell",
+          "url": "https://open.spotify.com/artist/3JUdBypm7CxRBcQRdTucgK"
+        }
+      ],
+      "duration_ms": 197395,
+      "name": "Dear Conformity",
+      "url": "https://open.spotify.com/track/5ZVhUnbjXkhod15W9lYkLn"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "Unsweetened Lemonade",
+        "url": "https://open.spotify.com/album/1ybx1ljq27DWJqYxm1rn5R"
+      },
+      "artists": [
+        {
+          "name": "Am\u00e9lie Farren",
+          "url": "https://open.spotify.com/artist/6xRbdqe7I2llmjw533rYnG"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Unsweetened Lemonade",
+      "url": "https://open.spotify.com/track/0hjTOj4u1cLwPov4fqevnw"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "Don't Wake Me Up",
+        "url": "https://open.spotify.com/album/1Zed396gQ1LT5im4EwX6tC"
+      },
+      "artists": [
+        {
+          "name": "Mercer Henderson",
+          "url": "https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L"
+        }
+      ],
+      "duration_ms": 186827,
+      "name": "Don't Wake Me Up",
+      "url": "https://open.spotify.com/track/4bF0SJ1NmPxMIMxMVEtu0F"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Nose Job",
+        "url": "https://open.spotify.com/album/2uOQTwIOf0IJecVoNYdFAi"
+      },
+      "artists": [
+        {
+          "name": "Caity Krone",
+          "url": "https://open.spotify.com/artist/0qMLMrYSgSJBquDGCOMERs"
+        }
+      ],
+      "duration_ms": 271475,
+      "name": "Tangerine",
+      "url": "https://open.spotify.com/track/6xdB35eP1oltwaPgtwZ9tP"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "Bleeding Me Dry",
+        "url": "https://open.spotify.com/album/4jMPCb1lQSBO6rjgMDxoVi"
+      },
+      "artists": [
+        {
+          "name": "Alicia Creti",
+          "url": "https://open.spotify.com/artist/0V0XsSn8lNPXAEEFG292iX"
+        }
+      ],
+      "duration_ms": 207692,
+      "name": "Bleeding Me Dry",
+      "url": "https://open.spotify.com/track/6ldJ3AUfPvRX2gCB4IMpBG"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "NEED ME",
+        "url": "https://open.spotify.com/album/4LEWE31MV5QuWP9F0qxOus"
+      },
+      "artists": [
+        {
+          "name": "SIENNA SPIRO",
+          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
+        }
+      ],
+      "duration_ms": 223189,
+      "name": "NEED ME",
+      "url": "https://open.spotify.com/track/2M0Mh2R2GPAOAVYnXVjSFR"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "The Abysmal EP",
+        "url": "https://open.spotify.com/album/48hFgSWs5hl3drMtRVP7RF"
+      },
+      "artists": [
+        {
+          "name": "hannah bahng",
+          "url": "https://open.spotify.com/artist/2oTW5kYNj4eIgp68Z5W4D9"
+        }
+      ],
+      "duration_ms": 177293,
+      "name": "tonight's the night i die to a frank ocean song",
+      "url": "https://open.spotify.com/track/3MPjAnpNeBB5kmOQRc4mJw"
+    },
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
@@ -25,20 +137,20 @@
       "url": "https://open.spotify.com/track/16q24WOiHPeEhuuCDw45ZR"
     },
     {
-      "added_at": "2024-05-24 04:00:00",
+      "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "NEED ME",
-        "url": "https://open.spotify.com/album/4LEWE31MV5QuWP9F0qxOus"
+        "name": "Fear of the Unknown",
+        "url": "https://open.spotify.com/album/60olbifny6PT6tQ67u0k89"
       },
       "artists": [
         {
-          "name": "SIENNA SPIRO",
-          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
+          "name": "Peyton McMahon",
+          "url": "https://open.spotify.com/artist/7HYMKelR2o8mJ9qk8KF1CJ"
         }
       ],
-      "duration_ms": 223189,
-      "name": "NEED ME",
-      "url": "https://open.spotify.com/track/2M0Mh2R2GPAOAVYnXVjSFR"
+      "duration_ms": 223127,
+      "name": "Fear of the Unknown",
+      "url": "https://open.spotify.com/track/4qHxxlwDjEvanNtKeG6DCy"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -59,18 +171,34 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Nose Job",
-        "url": "https://open.spotify.com/album/2uOQTwIOf0IJecVoNYdFAi"
+        "name": "Like You Used To",
+        "url": "https://open.spotify.com/album/7j3SAf1ObSZg3aWi1tkssR"
       },
       "artists": [
         {
-          "name": "Caity Krone",
-          "url": "https://open.spotify.com/artist/0qMLMrYSgSJBquDGCOMERs"
+          "name": "Hunter Daily",
+          "url": "https://open.spotify.com/artist/5t5Fbw7cQgZyJnyJhmanlW"
         }
       ],
-      "duration_ms": 271475,
-      "name": "Tangerine",
-      "url": "https://open.spotify.com/track/6xdB35eP1oltwaPgtwZ9tP"
+      "duration_ms": 230899,
+      "name": "Like You Used To",
+      "url": "https://open.spotify.com/track/6l6ycuWiB5kaDRAObqzedo"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "This Isn't Over",
+        "url": "https://open.spotify.com/album/6Pp7FsNjfsVdZfdo3ejSOk"
+      },
+      "artists": [
+        {
+          "name": "Abi Carter",
+          "url": "https://open.spotify.com/artist/6ryJRp2gIl77hK36D8tz2m"
+        }
+      ],
+      "duration_ms": 154450,
+      "name": "This Isn't Over",
+      "url": "https://open.spotify.com/track/019G5CuO3xezSEL6XaVtu7"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -87,22 +215,6 @@
       "duration_ms": 219956,
       "name": "Do Your Worst",
       "url": "https://open.spotify.com/track/1WQm4kw3blYLYbsA9kTsTE"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "Like You Used To",
-        "url": "https://open.spotify.com/album/7j3SAf1ObSZg3aWi1tkssR"
-      },
-      "artists": [
-        {
-          "name": "Hunter Daily",
-          "url": "https://open.spotify.com/artist/5t5Fbw7cQgZyJnyJhmanlW"
-        }
-      ],
-      "duration_ms": 230899,
-      "name": "Like You Used To",
-      "url": "https://open.spotify.com/track/6l6ycuWiB5kaDRAObqzedo"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -271,22 +383,6 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "What You Wanted",
-        "url": "https://open.spotify.com/album/2ChOLNTVc64tdbcmkXygbe"
-      },
-      "artists": [
-        {
-          "name": "Mercer Henderson",
-          "url": "https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L"
-        }
-      ],
-      "duration_ms": 177803,
-      "name": "What You Wanted",
-      "url": "https://open.spotify.com/track/6id2Exr8Jp9bO1uFUC2i9B"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
         "name": "Sticks and Stones",
         "url": "https://open.spotify.com/album/4QGuaJoRjdOw326Ex7xzwp"
       },
@@ -299,22 +395,6 @@
       "duration_ms": 212800,
       "name": "Sticks and Stones",
       "url": "https://open.spotify.com/track/3CdMzFEOICekztAAcJw3ct"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Your Presence",
-        "url": "https://open.spotify.com/album/1H6Dv712b57GUsb9VvtdYT"
-      },
-      "artists": [
-        {
-          "name": "Am\u00e9lie Farren",
-          "url": "https://open.spotify.com/artist/6xRbdqe7I2llmjw533rYnG"
-        }
-      ],
-      "duration_ms": 199471,
-      "name": "Your Presence",
-      "url": "https://open.spotify.com/track/6urvD8IGktg5UZAsrpxEpp"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -1171,22 +1251,6 @@
       "duration_ms": 171904,
       "name": "If You'll Be Mine",
       "url": "https://open.spotify.com/track/7zU6Wxahb3l4ZOz4V0RljM"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Looking For",
-        "url": "https://open.spotify.com/album/2pofqtFCTGDbbQ2iSd1woM"
-      },
-      "artists": [
-        {
-          "name": "Brenn!",
-          "url": "https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q"
-        }
-      ],
-      "duration_ms": 246000,
-      "name": "Looking For",
-      "url": "https://open.spotify.com/track/26g47GCoXN75w2GAGKmr7F"
     },
     {
       "added_at": "2024-05-17 04:00:00",

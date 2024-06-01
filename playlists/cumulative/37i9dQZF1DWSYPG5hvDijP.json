@@ -188,7 +188,7 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 259114,
       "name": "7 May",
       "url": "https://open.spotify.com/track/6KLFIY2LIzzFQ6TQDn0Ioo"
@@ -1250,7 +1250,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 156000,
       "name": "Chakkar",
       "url": "https://open.spotify.com/track/6cVA32Qy5BJH7tfSd3SvRm"
@@ -2085,6 +2085,28 @@
     },
     {
       "album": {
+        "name": "GABBAR",
+        "url": "https://open.spotify.com/album/6kGiUi378xy9rAPZGRzBnu"
+      },
+      "artists": [
+        {
+          "name": "Yashraj",
+          "url": "https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST"
+        },
+        {
+          "name": "PUNA",
+          "url": "https://open.spotify.com/artist/6xxZ5ygLggYl3EXuzDezvo"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241535,
+      "name": "GABBAR",
+      "url": "https://open.spotify.com/track/4OBkPKd0iA6GY0oNqhjg6v"
+    },
+    {
+      "album": {
         "name": "Gang",
         "url": "https://open.spotify.com/album/5Gn8zttLWDIDP1sRjij8np"
       },
@@ -2246,6 +2268,28 @@
       "duration_ms": 210091,
       "name": "Glitch",
       "url": "https://open.spotify.com/track/6AkmSJKHHyI07I1qLOVMVu"
+    },
+    {
+      "album": {
+        "name": "GOAT SHIT",
+        "url": "https://open.spotify.com/album/6VpwWq8ScclabGnlL6JqJT"
+      },
+      "artists": [
+        {
+          "name": "King",
+          "url": "https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU"
+        },
+        {
+          "name": "Karma",
+          "url": "https://open.spotify.com/artist/2RS1R0tueoL8EJXTSBAt2F"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231044,
+      "name": "GOAT SHIT",
+      "url": "https://open.spotify.com/track/2TElxFZeWPs9DhQGZWh6Oa"
     },
     {
       "album": {
@@ -2964,6 +3008,36 @@
       "duration_ms": 201739,
       "name": "It's Aight",
       "url": "https://open.spotify.com/track/0m6q4ExjPAlpICPMN0Mnd3"
+    },
+    {
+      "album": {
+        "name": "Jagga Jatt (From \"Only Love Gets Reply\")",
+        "url": "https://open.spotify.com/album/4v5lDXsOuEQpT9pxY3J13m"
+      },
+      "artists": [
+        {
+          "name": "Ikka",
+          "url": "https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR"
+        },
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        },
+        {
+          "name": "Badshah",
+          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
+        },
+        {
+          "name": "Sez on the Beat",
+          "url": "https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225099,
+      "name": "Jagga Jatt (From \"Only Love Gets Reply\")",
+      "url": "https://open.spotify.com/track/6zh80VZXzcYm72Wgh6HjWO"
     },
     {
       "album": {
@@ -3724,7 +3798,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 139928,
       "name": "Mainland",
       "url": "https://open.spotify.com/track/6YrQ422bJREGoc6TvVlGDm"

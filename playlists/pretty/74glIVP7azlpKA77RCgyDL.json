@@ -1,13 +1,113 @@
 {
-  "description": "Every week badass heavy-music artists drop badass new cuts, and every week we&#x27;ll add those tracks to this evolving list for your headbanging pleasure. Cover artist: Bring Me the Horizon",
-  "num_followers": 8573,
+  "description": "Every week badass heavy-music artists drop badass new cuts, and every week we&#x27;ll add those tracks to this evolving list for your headbanging pleasure. Cover artist: Bad Omens",
+  "num_followers": 8574,
   "original_name": "Best New Songs Right Now",
   "owner": {
     "name": "revolvermagazine",
     "url": "https://open.spotify.com/user/revolvermagazine"
   },
-  "snapshot_id": "AAAMI/ZcG1jajr1Mpfz4TpGSmu3oCtPX",
+  "snapshot_id": "AAAMLF2DLim3AJlJdKdq6pAqrJjev47R",
   "tracks": [
+    {
+      "added_at": "2024-05-31 19:22:18",
+      "album": {
+        "name": "CONCRETE JUNGLE [THE OST]",
+        "url": "https://open.spotify.com/album/4syhGzikXsrKqlOUA9s9ld"
+      },
+      "artists": [
+        {
+          "name": "Bad Omens",
+          "url": "https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V"
+        },
+        {
+          "name": "ERRA",
+          "url": "https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0"
+        }
+      ],
+      "duration_ms": 235092,
+      "name": "ANYTHING > HUMAN",
+      "url": "https://open.spotify.com/track/7I50EtrBjzjZmHwLj7BeFl"
+    },
+    {
+      "added_at": "2024-05-31 19:22:07",
+      "album": {
+        "name": "THE FIRST TEST",
+        "url": "https://open.spotify.com/album/0AMkClFCC05JsSfKwm34GU"
+      },
+      "artists": [
+        {
+          "name": "Speed",
+          "url": "https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn"
+        }
+      ],
+      "duration_ms": 134224,
+      "name": "THE FIRST TEST",
+      "url": "https://open.spotify.com/track/2w4syBfKFwzRioQVnbddrs"
+    },
+    {
+      "added_at": "2024-05-31 19:22:37",
+      "album": {
+        "name": "Spineless",
+        "url": "https://open.spotify.com/album/1wc9aoueFnudq6b1HqvLvt"
+      },
+      "artists": [
+        {
+          "name": "Terminal Sleep",
+          "url": "https://open.spotify.com/artist/4ahzetH2uUpYI8of4wDnaN"
+        }
+      ],
+      "duration_ms": 239135,
+      "name": "Spineless",
+      "url": "https://open.spotify.com/track/3humBBFUJMmniae4NmtNE6"
+    },
+    {
+      "added_at": "2024-05-31 19:22:53",
+      "album": {
+        "name": "Blood Soaked Death Dream",
+        "url": "https://open.spotify.com/album/38LpPqOan6RdUbUwQcifXs"
+      },
+      "artists": [
+        {
+          "name": "Vomit Forth",
+          "url": "https://open.spotify.com/artist/7FauDKMDbUkCa6SuNfI0GP"
+        }
+      ],
+      "duration_ms": 167579,
+      "name": "Blood Soaked Death Dream",
+      "url": "https://open.spotify.com/track/7uqhFyyXbE0j6OZzbgzajW"
+    },
+    {
+      "added_at": "2024-05-31 19:23:11",
+      "album": {
+        "name": "FLY AWAY",
+        "url": "https://open.spotify.com/album/7v3QQTTbPLDoUZ9lUhVbLd"
+      },
+      "artists": [
+        {
+          "name": "Ocean Grove",
+          "url": "https://open.spotify.com/artist/0AlnGjlLLXglk9hnwErYDU"
+        }
+      ],
+      "duration_ms": 161407,
+      "name": "FLY AWAY",
+      "url": "https://open.spotify.com/track/38yKm4HLvDFhg5NK20bFV1"
+    },
+    {
+      "added_at": "2024-05-31 19:23:24",
+      "album": {
+        "name": "Frailty",
+        "url": "https://open.spotify.com/album/45LMsxGWBKYQ1H3vIZtWPA"
+      },
+      "artists": [
+        {
+          "name": "Gruesome",
+          "url": "https://open.spotify.com/artist/3IkWr3wRsPZ4lqcGVKKlqG"
+        }
+      ],
+      "duration_ms": 272539,
+      "name": "Frailty",
+      "url": "https://open.spotify.com/track/3QCTPXsK1PmuGT3vyo7Y45"
+    },
     {
       "added_at": "2024-05-24 19:53:24",
       "album": {

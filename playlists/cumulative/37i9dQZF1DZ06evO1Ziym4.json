@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-18",
-  "description": "This Is Guns N' Roses. Los temas esenciales, todos en una lista.",
+  "description": "This is Guns N' Roses. The essential tracks, all in one playlist.",
   "name": "This Is Guns N' Roses",
   "tracks": [
     {
@@ -628,7 +628,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 368600,
       "name": "One In A Million",
       "url": "https://open.spotify.com/track/693Vu2TytCbonbTu9qQ8M3"

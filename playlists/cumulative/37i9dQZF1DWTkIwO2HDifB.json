@@ -27,6 +27,28 @@
     },
     {
       "album": {
+        "name": "A Culpa N\u00e3o \u00c9 Minha",
+        "url": "https://open.spotify.com/album/5ILsdU09Tv2lw6X7LFLxg2"
+      },
+      "artists": [
+        {
+          "name": "Mc Jacare\u0301",
+          "url": "https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW"
+        },
+        {
+          "name": "MC Kevin o Chris",
+          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137966,
+      "name": "A Culpa N\u00e3o \u00c9 Minha",
+      "url": "https://open.spotify.com/track/6RqEGo7zvc8g31ZyG1Mm6Q"
+    },
+    {
+      "album": {
         "name": "A Internet \u00c9 Toxica",
         "url": "https://open.spotify.com/album/3PZQ1JYIh7M5QuyoK6rLYM"
       },
@@ -3272,6 +3294,10 @@
         {
           "name": "Mc KF",
           "url": "https://open.spotify.com/artist/2zaQ4hz4xLgGGtABoUS8kf"
+        },
+        {
+          "name": "VORTEX",
+          "url": "https://open.spotify.com/artist/3Chj7A59w4vWBa4fdSN27E"
         }
       ],
       "date_added": "2024-05-10",
@@ -4268,7 +4294,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 120014,
       "name": "Novidade na \u00c1rea",
       "url": "https://open.spotify.com/track/2uhw2oYbugGJbn10wipNX5"
@@ -6482,10 +6508,36 @@
       ],
       "date_added": "2023-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 106153,
       "name": "Sorrisin De Puto",
       "url": "https://open.spotify.com/track/2X5o4nRiocnoaaQ2wMwaeC"
+    },
+    {
+      "album": {
+        "name": "Sorriso no Rosto",
+        "url": "https://open.spotify.com/album/7uA5fxR9xIiO5rXx4pkchd"
+      },
+      "artists": [
+        {
+          "name": "Mc IG",
+          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
+        },
+        {
+          "name": "Murillo e LT no Beat",
+          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
+        },
+        {
+          "name": "DJ Glenner",
+          "url": "https://open.spotify.com/artist/6XX6KGpomRDPmGGm7bofCK"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "Sorriso no Rosto",
+      "url": "https://open.spotify.com/track/3kBYuWrGtx1tSHjzr0vlZh"
     },
     {
       "album": {
@@ -7026,7 +7078,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 148615,
       "name": "Vem Quebrando",
       "url": "https://open.spotify.com/track/7Iq55toOSSBCEoGuXxQSa1"

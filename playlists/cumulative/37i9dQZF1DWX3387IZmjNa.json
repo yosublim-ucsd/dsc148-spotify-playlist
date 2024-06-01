@@ -815,6 +815,28 @@
     },
     {
       "album": {
+        "name": "Drillmance",
+        "url": "https://open.spotify.com/album/29doMwEICoVSnxy9iagLDl"
+      },
+      "artists": [
+        {
+          "name": "Rot Ken",
+          "url": "https://open.spotify.com/artist/64WnGi9H0Xc2RCGbjYAFd5"
+        },
+        {
+          "name": "Mellow Rackz",
+          "url": "https://open.spotify.com/artist/3celDTSIsfH8ks4YQ68B5w"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133040,
+      "name": "Anything",
+      "url": "https://open.spotify.com/track/7EmN1WvbO1hbFC2UftFsvX"
+    },
+    {
+      "album": {
         "name": "Ask (feat. A Boogie Wit da Hoodie)",
         "url": "https://open.spotify.com/album/2gMtZrMgZ3SIDETUbApfwj"
       },
@@ -4829,6 +4851,28 @@
     },
     {
       "album": {
+        "name": "Crying in the Club",
+        "url": "https://open.spotify.com/album/2YvnSFSzTj30fh7DtS12uN"
+      },
+      "artists": [
+        {
+          "name": "GROOVY",
+          "url": "https://open.spotify.com/artist/6Y6qIKwe32BxNflpxbKsJc"
+        },
+        {
+          "name": "R2R MOE",
+          "url": "https://open.spotify.com/artist/6wNPY2m52IiyyVZXR339D9"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218379,
+      "name": "laced luv",
+      "url": "https://open.spotify.com/track/7II1TZIHS0HeJgJ2BpHfBp"
+    },
+    {
+      "album": {
         "name": "Lady",
         "url": "https://open.spotify.com/album/1OzgxL1X0aEY20yZNtWVUj"
       },
@@ -8154,7 +8198,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 163200,
       "name": "SILHOUETTE (feat. Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/0Ny8RWD2XIKJbGLRjtUr4v"
@@ -8198,7 +8242,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 159083,
       "name": "Situationships",
       "url": "https://open.spotify.com/track/4otFh3wXkWQnHDIu0WJTG5"
@@ -8692,6 +8736,32 @@
       "duration_ms": 162303,
       "name": "Suffice",
       "url": "https://open.spotify.com/track/2gy2UTbkgMVai4uB2oqeqh"
+    },
+    {
+      "album": {
+        "name": "Sugar",
+        "url": "https://open.spotify.com/album/0h7bTMDZohzz8kfNVBu7oq"
+      },
+      "artists": [
+        {
+          "name": "Nippa",
+          "url": "https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq"
+        },
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        },
+        {
+          "name": "SHOW N PROVE",
+          "url": "https://open.spotify.com/artist/0w2Ehjy06vmXNTs3e3NQIU"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179310,
+      "name": "Sugar",
+      "url": "https://open.spotify.com/track/0X6AAWEtz8SDZxClmxNhe3"
     },
     {
       "album": {
@@ -9870,7 +9940,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 177230,
       "name": "We Time",
       "url": "https://open.spotify.com/track/1LR9G0wTclqlagmp8Q3RHN"

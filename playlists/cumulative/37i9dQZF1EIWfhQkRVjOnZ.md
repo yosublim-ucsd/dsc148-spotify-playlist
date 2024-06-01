@@ -2,7 +2,7 @@
 
 ### [Destroy The Runner Mix](https://open.spotify.com/playlist/37i9dQZF1EIWfhQkRVjOnZ)
 
-> <a href=spotify:playlist:37i9dQZF1EIXgervdrMvYK>Oh, Sleeper</a>, <a href=spotify:playlist:37i9dQZF1EIY9lpvgbLYDO>Inhale Exhale</a> and <a href=spotify:playlist:37i9dQZF1EIVekjEtHp0aF>For All Eternity</a>
+> <a href=spotify:playlist:37i9dQZF1EIY9lpvgbLYDO>Inhale Exhale</a>, <a href=spotify:playlist:37i9dQZF1EIXgervdrMvYK>Oh, Sleeper</a> and <a href=spotify:playlist:37i9dQZF1EIVGQng2sQO2r>Corpus Christi</a>
 
 113 songs - 6 hr 41 min
 
@@ -28,12 +28,12 @@
 | [Baptized In Fire](https://open.spotify.com/track/279oUTTQzoqmNBPbPuNm3d) | [Corpus Christi](https://open.spotify.com/artist/66jyCx26AB2Yqeu8GY8skR) | [The Darker Shades Of White](https://open.spotify.com/album/78F8FoDXoxFVhyfpior32O) | 4:50 | 2024-05-24 |  |
 | [Basic Hate](https://open.spotify.com/track/2KLLO8a5n7wNlVVPkvGYeo) | [Wage War](https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6) | [Blueprints](https://open.spotify.com/album/49N4elSQN0QVKzwOs0g1M2) | 3:40 | 2024-05-12 | 2024-05-14 |
 | [Ben Threw](https://open.spotify.com/track/60bWAM79p2Qnh0leAhNyhD) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [The Flood](https://open.spotify.com/album/7bCll1Hp8b2AyctqT3JY2C) | 3:11 | 2024-05-05 | 2024-05-06 |
-| [Bloom](https://open.spotify.com/track/4JfOEvan7Ra1z8vejxgegE) | [Destroy The Runner](https://open.spotify.com/artist/3W4VB8SJOmpZkWedAnvDn6) | [Void](https://open.spotify.com/album/66PLx4mZ2i4kVZSLY9Xwq7) | 3:43 | 2024-05-16 | 2024-05-26 |
+| [Bloom](https://open.spotify.com/track/4JfOEvan7Ra1z8vejxgegE) | [Destroy The Runner](https://open.spotify.com/artist/3W4VB8SJOmpZkWedAnvDn6) | [Void](https://open.spotify.com/album/66PLx4mZ2i4kVZSLY9Xwq7) | 3:43 | 2024-05-16 |  |
 | [Break of Dawn](https://open.spotify.com/track/3HRHYe46bYZ75TdlQErLKC) | [For All Eternity](https://open.spotify.com/artist/5dAJhja3GDIAnA3YUbI27c) | [Metanoia](https://open.spotify.com/album/17NarYciOFunGoSF3b7GXB) | 3:22 | 2024-05-21 |  |
 | [Breathing In A New Mentality](https://open.spotify.com/track/3hMTsuLSxgOTMyEEkvfad1) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Lost In The Sound Of Separation](https://open.spotify.com/album/613KEpSUb8NIzGmpfqhXAw) | 2:37 | 2024-04-23 | 2024-05-07 |
 | [Broken Hands](https://open.spotify.com/track/45WrPEJtSAaC3UIecmg4ES) | [For All Eternity](https://open.spotify.com/artist/5dAJhja3GDIAnA3YUbI27c) | [Beyond the Gates](https://open.spotify.com/album/42zKdunwvqKiWWd6Tz5BMP) | 3:48 | 2024-05-16 | 2024-05-26 |
 | [Bury Us All](https://open.spotify.com/track/2TzP8ZtKzq45xvCS6e2kgm) | [As I Lay Dying](https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu) | [An Ocean Between Us](https://open.spotify.com/album/2hghqPOGmfBdEfWeMsQWdN) | 2:23 | 2024-04-28 | 2024-05-14 |
-| [Chewing The Stitch](https://open.spotify.com/track/4H5kTrbHiFVxltIRGSxfUC) | [Oh, Sleeper](https://open.spotify.com/artist/3HMsQNXUa0je3yG5REHkQ7) | [Children Of Fire](https://open.spotify.com/album/0WQNPLhdUZWdBotJTdW73k) | 3:07 | 2024-05-20 |  |
+| [Chewing The Stitch](https://open.spotify.com/track/4H5kTrbHiFVxltIRGSxfUC) | [Oh, Sleeper](https://open.spotify.com/artist/3HMsQNXUa0je3yG5REHkQ7) | [Children Of Fire](https://open.spotify.com/album/0WQNPLhdUZWdBotJTdW73k) | 3:07 | 2024-05-20 | 2024-06-01 |
 | [Children Of Fire](https://open.spotify.com/track/0rYM1u1oZxuWGxbnf4AZ3d) | [Oh, Sleeper](https://open.spotify.com/artist/3HMsQNXUa0je3yG5REHkQ7) | [Children Of Fire](https://open.spotify.com/album/0WQNPLhdUZWdBotJTdW73k) | 3:29 | 2024-04-25 |  |
 | [Collision](https://open.spotify.com/track/0tnNBASLBWbtQmF5gymU8R) | [As I Lay Dying](https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu) | [Frail Words Collapse](https://open.spotify.com/album/1atsQ3zl1LR122Y1UZajsE) | 3:11 | 2024-05-02 | 2024-05-14 |
 | [Columbia](https://open.spotify.com/track/4GWGWr9Uh895hvHJKaoiXd) | [Destroy The Runner](https://open.spotify.com/artist/3W4VB8SJOmpZkWedAnvDn6) | [Saints](https://open.spotify.com/album/413EKD48QvCCtxxqHJDrTj) | 4:29 | 2024-04-23 |  |
@@ -47,7 +47,7 @@
 | [Desperate Times, Desperate Measures](https://open.spotify.com/track/4TLK7Umh2d9UO3ZajvE6AV) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Lost In The Sound Of Separation](https://open.spotify.com/album/613KEpSUb8NIzGmpfqhXAw) | 3:27 | 2024-04-23 | 2024-05-28 |
 | [Dialogue](https://open.spotify.com/track/6cPCoJDvn9OwyKT5s9uXXy) | [Destroy The Runner](https://open.spotify.com/artist/3W4VB8SJOmpZkWedAnvDn6) | [Saints](https://open.spotify.com/album/413EKD48QvCCtxxqHJDrTj) | 1:17 | 2024-04-23 |  |
 | [Ellie](https://open.spotify.com/track/2AhorjdW10KzoqUTGEWeck) | [Veil Of Maya](https://open.spotify.com/artist/2i7CQcVBh2K6uOR3CH09M1) | [Matriarch](https://open.spotify.com/album/7Jmux2NJCZLt2vRv3KztiT) | 3:03 | 2024-04-25 | 2024-05-16 |
-| [End Transmission](https://open.spotify.com/track/7GJmigVsxwIvDO3iy7hZa8) | [Destroy The Runner](https://open.spotify.com/artist/3W4VB8SJOmpZkWedAnvDn6) | [End Transmission](https://open.spotify.com/album/3NaXK4bwmOXbNebIoRrL97) | 3:36 | 2024-04-23 |  |
+| [End Transmission](https://open.spotify.com/track/7GJmigVsxwIvDO3iy7hZa8) | [Destroy The Runner](https://open.spotify.com/artist/3W4VB8SJOmpZkWedAnvDn6) | [End Transmission](https://open.spotify.com/album/3NaXK4bwmOXbNebIoRrL97) | 3:36 | 2024-04-23 | 2024-06-01 |
 | [Endseekers](https://open.spotify.com/track/2Zx9X4HJMDnegzTRy8xdFV) | [Oh, Sleeper](https://open.spotify.com/artist/3HMsQNXUa0je3yG5REHkQ7) | [Children Of Fire](https://open.spotify.com/album/0WQNPLhdUZWdBotJTdW73k) | 3:06 | 2024-04-23 |  |
 | [Eye of the Storm](https://open.spotify.com/track/5r37NetsrDZOMuOev51PHL) | [Killswitch Engage](https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l) | [As Daylight Dies \(Special Edition\)](https://open.spotify.com/album/6iJEtgHTEbVlSS5isIS71z) | 3:56 | 2024-05-03 | 2024-05-04 |
 | [Falling Upon Deaf Ears](https://open.spotify.com/track/3Q8rWsHfRCjgU0xbSPGtgm) | [As I Lay Dying](https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu) | [Frail Words Collapse](https://open.spotify.com/album/1atsQ3zl1LR122Y1UZajsE) | 2:30 | 2024-05-02 | 2024-05-14 |
@@ -85,7 +85,7 @@
 | [Say Goodbye](https://open.spotify.com/track/1HinPKX8MxzZjN9hHNupzc) | [I Killed The Prom Queen](https://open.spotify.com/artist/3DY26PgCL4tKVUPQBtBWei) | [Music for the Recently Deceased](https://open.spotify.com/album/6GohKHN5kgvJWB4O83pLXY) | 4:12 | 2024-04-23 | 2024-05-26 |
 | [Separate](https://open.spotify.com/track/48OcLHYfQUCCbSSvFjg7nx) | [Destroy The Runner](https://open.spotify.com/artist/3W4VB8SJOmpZkWedAnvDn6) | [Saints](https://open.spotify.com/album/413EKD48QvCCtxxqHJDrTj) | 3:11 | 2024-04-23 |  |
 | [Seven Thousand Miles for What](https://open.spotify.com/track/6TdCP5Q69EP3zO9bDzlAMO) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [Of Mice & Men](https://open.spotify.com/album/5I01RpDS7Thw5zEABRTgxL) | 2:53 | 2024-04-24 | 2024-05-15 |
-| [Severed Ties Yield Severed Heads](https://open.spotify.com/track/3eQkdO24L0yxKQj9Y0pd1m) | [It Dies Today](https://open.spotify.com/artist/3uFWRtKjp2E2Y1QmJPaKNC) | [The Caitiff Choir](https://open.spotify.com/album/0EZB1xIDFvMnTLKI4YdlAb) | 3:02 | 2024-05-16 | 2024-05-29 |
+| [Severed Ties Yield Severed Heads](https://open.spotify.com/track/3eQkdO24L0yxKQj9Y0pd1m) | [It Dies Today](https://open.spotify.com/artist/3uFWRtKjp2E2Y1QmJPaKNC) | [The Caitiff Choir](https://open.spotify.com/album/0EZB1xIDFvMnTLKI4YdlAb) | 3:02 | 2024-05-16 |  |
 | [Shekinah](https://open.spotify.com/track/2Zui9klgDIXEcEUGK9Fftr) | [Saving Grace](https://open.spotify.com/artist/0oqUjyJPQrTXrgijOX7plI) | [The King Is Coming](https://open.spotify.com/album/4fYladVeMXXkBIELsXUIgq) | 3:49 | 2024-05-16 | 2024-05-26 |
 | [Solid Ground](https://open.spotify.com/track/1icI4F8fzvF0APPJHfyu2w) | [For All Eternity](https://open.spotify.com/artist/5dAJhja3GDIAnA3YUbI27c) | [Beyond the Gates](https://open.spotify.com/album/42zKdunwvqKiWWd6Tz5BMP) | 3:43 | 2024-05-16 | 2024-05-29 |
 | [Son Of The Morning](https://open.spotify.com/track/5ZsMbyYP6xOX3tmG10GlT7) | [Oh, Sleeper](https://open.spotify.com/artist/3HMsQNXUa0je3yG5REHkQ7) | [Son Of The Morning](https://open.spotify.com/album/0gcMOIqISuu9lWZAuFXAuJ) | 3:25 | 2024-05-05 |  |

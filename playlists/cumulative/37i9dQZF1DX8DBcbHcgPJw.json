@@ -3865,6 +3865,36 @@
     },
     {
       "album": {
+        "name": "Imaginate que soy yo",
+        "url": "https://open.spotify.com/album/5OEkqz83Rowmth3b8s4HOl"
+      },
+      "artists": [
+        {
+          "name": "Migrantes",
+          "url": "https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx"
+        },
+        {
+          "name": "Lauta",
+          "url": "https://open.spotify.com/artist/5ELYwDwhy00ecTXhfsKWci"
+        },
+        {
+          "name": "Niko Falero",
+          "url": "https://open.spotify.com/artist/2XEkeHFfw9gjyrL2Qoi0vj"
+        },
+        {
+          "name": "Nico Valdi",
+          "url": "https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178695,
+      "name": "Imaginate que soy yo",
+      "url": "https://open.spotify.com/track/0piCjuFlGx5KLaALEVU3NI"
+    },
+    {
+      "album": {
         "name": "Impostora",
         "url": "https://open.spotify.com/album/3gxqnRHVO8y68WoIYjK54K"
       },
@@ -5060,7 +5090,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 151623,
       "name": "LOKITA",
       "url": "https://open.spotify.com/track/4bDKRo2qGLPQlbcEWCluKT"

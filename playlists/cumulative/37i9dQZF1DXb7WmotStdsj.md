@@ -4,7 +4,7 @@
 
 > Les meilleurs tubes Raï du moment que vous entendez partout.
 
-201 songs - 16 hr 22 min
+202 songs - 16 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,6 +124,7 @@
 | [Machafouhach](https://open.spotify.com/track/24jg1DbZgIwIBwascANUo0) | [Mouh Milano](https://open.spotify.com/artist/1a4431ATLSQ5Rgq8Rr6sFj) | [Machafouhach](https://open.spotify.com/album/2hyi1YaEv0A9LEA1HUEJ6S) | 4:54 | 2021-10-19 |  |
 | [Maghadnich Frakek](https://open.spotify.com/track/7a5Kz28C2Np1QF9EuN3Z4A) | [Cheb Kader Wahrani](https://open.spotify.com/artist/5PBWDpbEkgoyiDkh1biGLw), [Amine La Colombe](https://open.spotify.com/artist/5QNVKh6yERfewhdBys6d9E) | [Maghadnich Frakek](https://open.spotify.com/album/68MaO9IJHg6oC1w2tgl8IA) | 4:45 | 2022-10-30 | 2023-01-26 |
 | [Maghboun Wahdi](https://open.spotify.com/track/53jIJkxsMot3n7Reolf6QO) | [Cheb Djalil](https://open.spotify.com/artist/4ZzMtjQsjtaAOm3GPqmjeQ), [Hichem Smati](https://open.spotify.com/artist/4NqyeNqz4XfIeEWrXPknYJ) | [Maghboun Wahdi](https://open.spotify.com/album/1I8PsxRrpOrwub7GJjYzT6) | 3:27 | 2021-10-19 | 2023-08-03 |
+| [MAHBOULA](https://open.spotify.com/track/4AS0ncb4OzzAjwvsgWu9XV) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [MAHBOULA](https://open.spotify.com/album/6xxm174FrG6Mni52k9UFWL) | 2:49 | 2024-05-30 |  |
 | [Makach Kifach](https://open.spotify.com/track/3RxlroBoqy7N3wgCUxNHhn) | [Amoune Talens](https://open.spotify.com/artist/7Clbt167lhGJ2yLwPkvJhJ), [Dj Fouzi](https://open.spotify.com/artist/7mYT5gH0ZziVicvSVJAA8O), [DJ Abed](https://open.spotify.com/artist/36f15Tayj3prRQsVNgCvXk) | [Makach Kifach](https://open.spotify.com/album/2lab8N8zcfb2J8XKqvlsn5) | 2:57 | 2022-09-20 | 2022-10-04 |
 | [Makanch Li Yafhamni](https://open.spotify.com/track/0gtRVUfCvjTg7D0yFuiWTo) | [DJ Moulay](https://open.spotify.com/artist/3RHFZVCcl94jZRgIT51Yig), [Cheb Hamidou](https://open.spotify.com/artist/0WJTTlIjjKvee1iq0PdpWb) | [Makanch Li Yafhamni](https://open.spotify.com/album/0gNWk1obpn1exlDtmAtxst) | 4:44 | 2022-09-20 | 2023-05-09 |
 | [Manich 3ayach Ki Nass](https://open.spotify.com/track/6NxbI1vd0HTY4wNqRcbH7t) | [Cheb Momo](https://open.spotify.com/artist/2WGoTbMj2VO7bv45UG1WfM) | [Manich 3ayach Ki Nass](https://open.spotify.com/album/1fAiOJLbsRuEPnSTM1HwJp) | 5:34 | 2022-09-20 | 2022-12-01 |
@@ -191,7 +192,7 @@
 | [خسرت العلاقة](https://open.spotify.com/track/1PbIQ0JtakidqCGcMFI4dn) | [Mohamed Benchenet](https://open.spotify.com/artist/1SXvU32qAqhAniQTUhJJdS) | [خسرت العلاقة](https://open.spotify.com/album/6ydZDwBkPrTt7yqtfquocl) | 4:18 | 2022-09-20 | 2022-12-27 |
 | [ديرولو الحنة](https://open.spotify.com/track/7ylB5uC2u03oOIdt7ssFhy) | [Cheb Mehdi](https://open.spotify.com/artist/2uonXDQdHacpjve01wdIGE), [DJ Ismail Bba](https://open.spotify.com/artist/6CSGZBcKW5hL7rkJzMuFge) | [ديرولو الحنة](https://open.spotify.com/album/0ubTeMJ7J02UwlDY51oT4C) | 6:26 | 2022-11-14 | 2022-11-21 |
 | [راني عليكم نمعني](https://open.spotify.com/track/7tfDyZ9ko2WpGJYW0DL8Qr) | [Cheb Bello](https://open.spotify.com/artist/11E9GHIAzJRKuECEUSEuqh) | [راني عليكم نمعني](https://open.spotify.com/album/4XjMsZ30WhHiUOwALl6dkQ) | 11:54 | 2022-09-20 | 2023-07-28 |
-| [روحو ليها فيت شاب عباس](https://open.spotify.com/track/0qtTV779VjZD2GpRrz2iCi) | [Mohamed Adly](https://open.spotify.com/artist/0YNxTS81q1b2z9qdtJkmCO) | [روحو ليها فيت شاب عباس](https://open.spotify.com/album/2MHopoMeZ4jOVhubBcSmXk) | 4:01 | 2021-10-19 |  |
+| [روحو ليها فيت شاب عباس](https://open.spotify.com/track/0qtTV779VjZD2GpRrz2iCi) | [Mohamed Adly](https://open.spotify.com/artist/0YNxTS81q1b2z9qdtJkmCO) | [روحو ليها فيت شاب عباس](https://open.spotify.com/album/2MHopoMeZ4jOVhubBcSmXk) | 4:01 | 2021-10-19 | 2024-06-01 |
 | [زهري وميموني](https://open.spotify.com/track/58waEmZ6y9DR4Un90peUBg) | [Cheb Mustapha](https://open.spotify.com/artist/6mWYICO5NsvtzQ7VEwvOf1), [Tipo Belabbes](https://open.spotify.com/artist/5ETWCOExb9cwdyPYtMKJPv) | [زهري وميموني](https://open.spotify.com/album/3hkW0KlNQCAQUnqyZVlxSh) | 4:18 | 2023-06-19 |  |
 | [شعرك رطب بصح وجهك حطب](https://open.spotify.com/track/1oGCTuC3NvImizNOtJT5aC) | [Cheb Nadir 22](https://open.spotify.com/artist/3eXk15TVlyGMQiajw6ra1l) | [شعرك رطب بصح وجهك حطب](https://open.spotify.com/album/1TvQ3FKMchGMi67E2uYYrP) | 8:40 | 2023-12-28 |  |
 | [شكون لي دارلي](https://open.spotify.com/track/6lCJ2Q2aA4AlQP3mnKpC0J) | [Cheb Hichem TGV](https://open.spotify.com/artist/3EJQjKomRx3gpoYmP1bEIl) | [شكون لي دارلي](https://open.spotify.com/album/0ZhIe4r9dkwRJsXHb47P3g) | 1:40 | 2024-03-16 | 2024-05-14 |

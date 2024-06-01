@@ -220,7 +220,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 128307,
       "name": "4 The Trouble",
       "url": "https://open.spotify.com/track/5CoZzDgqAZUhuIGC82Zplz"
@@ -2794,6 +2794,28 @@
       "duration_ms": 186562,
       "name": "Better World",
       "url": "https://open.spotify.com/track/6OcuhfJvy3rZZIaLeDxlcW"
+    },
+    {
+      "album": {
+        "name": "Big Busta",
+        "url": "https://open.spotify.com/album/0V6jv8QUh5TBTR7VSCoyFJ"
+      },
+      "artists": [
+        {
+          "name": "Low Steppa",
+          "url": "https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob"
+        },
+        {
+          "name": "Jewel Kid",
+          "url": "https://open.spotify.com/artist/7eoJbho2ohpRTHDjZjkMTB"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174861,
+      "name": "Big Busta",
+      "url": "https://open.spotify.com/track/6D42dge6dBJYacYkIq9ll1"
     },
     {
       "album": {
@@ -6590,7 +6612,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 203809,
       "name": "Desire",
       "url": "https://open.spotify.com/track/24Gv8fomuWc1usQayn2yOu"
@@ -8688,7 +8710,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 179076,
       "name": "Every Day, All Day",
       "url": "https://open.spotify.com/track/2wsVy2erS1Ty2VLmmmf00E"
@@ -11688,7 +11710,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 170011,
       "name": "Hand Clap",
       "url": "https://open.spotify.com/track/6KoMLqYDN1jA4pchYgJNMa"
@@ -13707,6 +13729,32 @@
     },
     {
       "album": {
+        "name": "IBIZA",
+        "url": "https://open.spotify.com/album/31czGIdxfoex2L6hGzZGy8"
+      },
+      "artists": [
+        {
+          "name": "Tom & Collins",
+          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
+        },
+        {
+          "name": "JADED",
+          "url": "https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf"
+        },
+        {
+          "name": "CRCLE",
+          "url": "https://open.spotify.com/artist/0XDbOisy0qfOYDjqLLftvS"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "IBIZA",
+      "url": "https://open.spotify.com/track/2UWGoFGAYstslkTzLnHLXq"
+    },
+    {
+      "album": {
         "name": "If Only You Knew (feat. Joy Farrukh)",
         "url": "https://open.spotify.com/album/4oLboNW38je1RoDqCKhR3n"
       },
@@ -14892,7 +14940,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 188318,
       "name": "Kid You Not",
       "url": "https://open.spotify.com/track/1i5IG4bNyPhq20WfeCT8HM"
@@ -14932,6 +14980,32 @@
       "duration_ms": 184687,
       "name": "Kiki",
       "url": "https://open.spotify.com/track/2ZFvn8qxF5Fx68mBZh4EbG"
+    },
+    {
+      "album": {
+        "name": "Kill The Vibe",
+        "url": "https://open.spotify.com/album/3RajPAonNivFPajGSnsh42"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "MORTEN",
+          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
+        },
+        {
+          "name": "Prophecy",
+          "url": "https://open.spotify.com/artist/03O6WINYmDJRCE2EUFaykv"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166917,
+      "name": "Kill The Vibe",
+      "url": "https://open.spotify.com/track/4Mw1vqYfDWL2d8dJLWFYQp"
     },
     {
       "album": {
@@ -21939,6 +22013,24 @@
     },
     {
       "album": {
+        "name": "Paris",
+        "url": "https://open.spotify.com/album/3mgsIkjobWlfq3sxanDdrH"
+      },
+      "artists": [
+        {
+          "name": "Tom Enzy",
+          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146250,
+      "name": "Paris",
+      "url": "https://open.spotify.com/track/17mnuzuIFPEmrDciyrmdfR"
+    },
+    {
+      "album": {
         "name": "Paris to Milan",
         "url": "https://open.spotify.com/album/4t0TNMetsmutn7aErFG88U"
       },
@@ -22260,6 +22352,28 @@
       "duration_ms": 194153,
       "name": "Piano",
       "url": "https://open.spotify.com/track/3oRPMjrptefomD6Q2hy2JA"
+    },
+    {
+      "album": {
+        "name": "PICK UP THE PHONE (feat. Nate Dogg)",
+        "url": "https://open.spotify.com/album/7gRGY7lnuazLB3axrV5yWE"
+      },
+      "artists": [
+        {
+          "name": "PAWSA",
+          "url": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
+        },
+        {
+          "name": "Nate Dogg",
+          "url": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224124,
+      "name": "PICK UP THE PHONE (feat. Nate Dogg)",
+      "url": "https://open.spotify.com/track/6o0gJtOgimGamRBTS80H5g"
     },
     {
       "album": {
@@ -25403,6 +25517,28 @@
     },
     {
       "album": {
+        "name": "She's In The Club (feat. Asal)",
+        "url": "https://open.spotify.com/album/7wJPiNFf6AThWb0Sh0ar2C"
+      },
+      "artists": [
+        {
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+        },
+        {
+          "name": "Asal",
+          "url": "https://open.spotify.com/artist/5gOMN9Yb70XQjnYrhyZ9Yj"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188011,
+      "name": "She's In The Club (feat. Asal)",
+      "url": "https://open.spotify.com/track/7BhjlfNllL8h50DLl5Cd4r"
+    },
+    {
+      "album": {
         "name": "Shimmy Shake",
         "url": "https://open.spotify.com/album/5jveu2wYXFqubWHzsb5bG0"
       },
@@ -25834,7 +25970,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 318750,
       "name": "Sit Down: Right Now",
       "url": "https://open.spotify.com/track/4x7bnxNnxeGGPLdYDVzXu9"
@@ -31937,6 +32073,32 @@
     },
     {
       "album": {
+        "name": "We No Speak Americano (Sterium & Duarte Remix)",
+        "url": "https://open.spotify.com/album/6T4E5GmHLItsAjCsEFs7pM"
+      },
+      "artists": [
+        {
+          "name": "Yolanda Be Cool",
+          "url": "https://open.spotify.com/artist/4KkHjCe8ouh8C2P9LPoD4F"
+        },
+        {
+          "name": "Sterium",
+          "url": "https://open.spotify.com/artist/6mZFMQ4sBi39W9dXCLH77s"
+        },
+        {
+          "name": "Duarte",
+          "url": "https://open.spotify.com/artist/11ofEe58zrex8X5NBbWhsk"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167812,
+      "name": "We No Speak Americano - Sterium & Duarte Remix",
+      "url": "https://open.spotify.com/track/2jvhOYfO6pGAlKkGRDkbY9"
+    },
+    {
+      "album": {
         "name": "We So Future",
         "url": "https://open.spotify.com/album/4SJ6ky44MUmNhIkVIBTRqM"
       },
@@ -33060,7 +33222,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 210000,
       "name": "Yo Yo Get Funky - Andre Zimmer Remix",
       "url": "https://open.spotify.com/track/5j1y2im0leY3lJlcxLFx1B"

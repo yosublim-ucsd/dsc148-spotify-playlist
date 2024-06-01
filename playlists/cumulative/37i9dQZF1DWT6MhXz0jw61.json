@@ -1389,6 +1389,32 @@
     },
     {
       "album": {
+        "name": "mynameisnt",
+        "url": "https://open.spotify.com/album/39lJVLDmWXvpB0cscmj5g8"
+      },
+      "artists": [
+        {
+          "name": "mynameisntjmack",
+          "url": "https://open.spotify.com/artist/7HY1ISUuRotG01FVu0PKWh"
+        },
+        {
+          "name": "Wakai",
+          "url": "https://open.spotify.com/artist/5id04zWscpprjAk5py8fkx"
+        },
+        {
+          "name": "Tommy Richman",
+          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178554,
+      "name": "aslongas (feat. Wakai & Tommy Richman)",
+      "url": "https://open.spotify.com/track/11JrrH9QkN2WbUMpuNEWO9"
+    },
+    {
+      "album": {
         "name": "Asteroids",
         "url": "https://open.spotify.com/album/5jPlekW4E787N4lgsC9G3w"
       },
@@ -3334,7 +3360,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 198416,
       "name": "Choppas",
       "url": "https://open.spotify.com/track/4DBcoIWmPHN1Hi37iG1TMm"
@@ -4415,6 +4441,28 @@
     },
     {
       "album": {
+        "name": "Deja Vu (feat. DJ Drama)",
+        "url": "https://open.spotify.com/album/2UoHIfIrdKTAsbS9dcB72k"
+      },
+      "artists": [
+        {
+          "name": "Logic",
+          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
+        },
+        {
+          "name": "DJ Drama",
+          "url": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201796,
+      "name": "Deja Vu (feat. DJ Drama)",
+      "url": "https://open.spotify.com/track/1hDtQHr9OveHVpE4RlvM9G"
+    },
+    {
+      "album": {
         "name": "DENiM (feat. Joey Bada$$)",
         "url": "https://open.spotify.com/album/65UJYDMtKqRBmhNFei6lxB"
       },
@@ -4662,7 +4710,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 155600,
       "name": "DND (It\u2019s Not Personal) (feat. Bee-B)",
       "url": "https://open.spotify.com/track/0U8skMWnmMCTgEkVWGncVC"
@@ -5415,6 +5463,24 @@
     },
     {
       "album": {
+        "name": "empty without you",
+        "url": "https://open.spotify.com/album/3igDtDHBC1p2zQHRrDQwtf"
+      },
+      "artists": [
+        {
+          "name": "nobigdyl.",
+          "url": "https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154288,
+      "name": "empty without you",
+      "url": "https://open.spotify.com/track/5NlsX6KtB2gVn7UDiv2tx6"
+    },
+    {
+      "album": {
         "name": "SANTIAGO",
         "url": "https://open.spotify.com/album/3mX0HbDt7oIzBBJHgQYnDY"
       },
@@ -5572,7 +5638,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 227692,
       "name": "Evil Ways (feat. J. Cole)",
       "url": "https://open.spotify.com/track/2ut4BOQSqxLpcX5MtPjzYa"
@@ -6382,6 +6448,24 @@
       "duration_ms": 190684,
       "name": "FOOTBALL HEADS (feat. Benny The Butcher)",
       "url": "https://open.spotify.com/track/5sSiwYy1FPH8pJVzbD1B5K"
+    },
+    {
+      "album": {
+        "name": "Footprints + Jungle",
+        "url": "https://open.spotify.com/album/176jw5UiicZw8mkCk1tyEv"
+      },
+      "artists": [
+        {
+          "name": "Mazen",
+          "url": "https://open.spotify.com/artist/4ri7eLpPVlGqwclssOyJDM"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159821,
+      "name": "Footprints",
+      "url": "https://open.spotify.com/track/6VwiIlkMlY83oITeZbOOCF"
     },
     {
       "album": {
@@ -7427,6 +7511,36 @@
     },
     {
       "album": {
+        "name": "GURBS & YOUNGS (feat. Larry June)",
+        "url": "https://open.spotify.com/album/6LgepmFqbY8ZRQxIyocLol"
+      },
+      "artists": [
+        {
+          "name": "JasonMartin",
+          "url": "https://open.spotify.com/artist/0399oiMcmbOzzsYQDNYqxn"
+        },
+        {
+          "name": "DJ Quik",
+          "url": "https://open.spotify.com/artist/0b2XeWDPeBiLeskT6RFqMb"
+        },
+        {
+          "name": "Jay Worthy",
+          "url": "https://open.spotify.com/artist/7jDblfQQLFAZCKXFfoGZ9Q"
+        },
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208057,
+      "name": "GURBS & YOUNGS (feat. Larry June)",
+      "url": "https://open.spotify.com/track/5BDDt3tVIa9W5kiJmJZ2Ww"
+    },
+    {
+      "album": {
         "name": "Might Delete Later",
         "url": "https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3"
       },
@@ -7804,7 +7918,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 126613,
       "name": "Hey Mama",
       "url": "https://open.spotify.com/track/0pELnPB9ZibxCrNLcaMqfj"
@@ -7852,6 +7966,32 @@
       "duration_ms": 209454,
       "name": "high kick",
       "url": "https://open.spotify.com/track/4CfRF1iIZXnXe0gi0RSgnU"
+    },
+    {
+      "album": {
+        "name": "A Story For Later",
+        "url": "https://open.spotify.com/album/0Eg1eL3fc4dGaNeeVjp4pw"
+      },
+      "artists": [
+        {
+          "name": "Jalen Santoy",
+          "url": "https://open.spotify.com/artist/41DGOfz7IFMVvf9wKAzeZS"
+        },
+        {
+          "name": "Sebastian Kamae",
+          "url": "https://open.spotify.com/artist/7GsvnIE0bUBu6WZXO3ryJe"
+        },
+        {
+          "name": "KAMAE",
+          "url": "https://open.spotify.com/artist/3OZ93p3KH47vZorLi7mVvk"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188542,
+      "name": "High Tide",
+      "url": "https://open.spotify.com/track/0a12kAlygiQLsr9gSJwoL2"
     },
     {
       "album": {
@@ -9041,6 +9181,42 @@
     },
     {
       "album": {
+        "name": "mynameisnt",
+        "url": "https://open.spotify.com/album/39lJVLDmWXvpB0cscmj5g8"
+      },
+      "artists": [
+        {
+          "name": "mynameisntjmack",
+          "url": "https://open.spotify.com/artist/7HY1ISUuRotG01FVu0PKWh"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130119,
+      "name": "jonathan",
+      "url": "https://open.spotify.com/track/0ytDe8nb4kkJQtW32Nl3D9"
+    },
+    {
+      "album": {
+        "name": "Footprints + Jungle",
+        "url": "https://open.spotify.com/album/176jw5UiicZw8mkCk1tyEv"
+      },
+      "artists": [
+        {
+          "name": "Mazen",
+          "url": "https://open.spotify.com/artist/4ri7eLpPVlGqwclssOyJDM"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167803,
+      "name": "Jungle",
+      "url": "https://open.spotify.com/track/5MD2kpw0UdeFx2Xopm7sxJ"
+    },
+    {
+      "album": {
         "name": "Jupiter & Mars",
         "url": "https://open.spotify.com/album/6IgkZ5qys4BMo6X1iFYIBU"
       },
@@ -9844,7 +10020,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 206851,
       "name": "Life Goals",
       "url": "https://open.spotify.com/track/1a6umRqovO240DFN3xCEVf"
@@ -10560,7 +10736,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 170800,
       "name": "Max Julien",
       "url": "https://open.spotify.com/track/6qYCswyML9pHuvYDBdZJYd"
@@ -13996,7 +14172,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 264372,
       "name": "SANGRE / AGUA (feat. Mick Jenkins & AMARAH)",
       "url": "https://open.spotify.com/track/0eQxD7LMq3Q3c6GFx7tmwm"
@@ -15298,7 +15474,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 240106,
       "name": "Stay Awhile (feat. Ari Lennox)",
       "url": "https://open.spotify.com/track/0AXquxdT6Twsrc0qIYXbJd"

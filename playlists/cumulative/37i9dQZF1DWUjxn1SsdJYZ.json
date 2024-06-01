@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "The best drill, trap and genre bending rap from Australia and NZ. Cover: ONEFOUR",
+  "description": "The best drill, trap and genre bending rap from Australia and NZ. Cover: lilbubblegum",
   "name": "Local Hype",
   "tracks": [
     {
@@ -748,6 +748,28 @@
       "duration_ms": 156029,
       "name": "Avalanche",
       "url": "https://open.spotify.com/track/6NTZCq7P6aZRbP6KpJTIvw"
+    },
+    {
+      "album": {
+        "name": "Away",
+        "url": "https://open.spotify.com/album/4e9eRZkYzbWHENp9xwzaWK"
+      },
+      "artists": [
+        {
+          "name": "Jacqia",
+          "url": "https://open.spotify.com/artist/49RGZ16C5XjWyO846KdxOH"
+        },
+        {
+          "name": "Shaedy",
+          "url": "https://open.spotify.com/artist/7qlWg1i9vba1jZSU8s7CeS"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181934,
+      "name": "Away",
+      "url": "https://open.spotify.com/track/2sTTl6TAswhoIM1Anwxdl3"
     },
     {
       "album": {
@@ -2872,7 +2894,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 132608,
       "name": "COOCHIE",
       "url": "https://open.spotify.com/track/4i0kprJ8Rn4nPNcWxGsUSq"
@@ -2956,7 +2978,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 163373,
       "name": "CREW",
       "url": "https://open.spotify.com/track/50rG7ggLMQYl2JmcAR599P"
@@ -5259,6 +5281,32 @@
     },
     {
       "album": {
+        "name": "Gettin' Bands",
+        "url": "https://open.spotify.com/album/0YYZdHtAftmW37L7SMvR0O"
+      },
+      "artists": [
+        {
+          "name": "DJ Nino Brown",
+          "url": "https://open.spotify.com/artist/5d3XNpscHFKUuw1YouL2ns"
+        },
+        {
+          "name": "Queen P",
+          "url": "https://open.spotify.com/artist/1JKAFpIowahk3avPsMkGp2"
+        },
+        {
+          "name": "Khi'leb",
+          "url": "https://open.spotify.com/artist/1KO82XcaphTWqMWAf6qXgy"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177272,
+      "name": "Gettin' Bands",
+      "url": "https://open.spotify.com/track/5wrPxSTVv81FU5k1BIoZNS"
+    },
+    {
+      "album": {
         "name": "Gettin' Loud (Test Me)",
         "url": "https://open.spotify.com/album/0ofCKY0GesHrid04WJYohB"
       },
@@ -5494,7 +5542,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 172800,
       "name": "Grace",
       "url": "https://open.spotify.com/track/5XIZQNfI23mXmKkHldm1pD"
@@ -5702,7 +5750,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 189886,
       "name": "Ha Ha Ha",
       "url": "https://open.spotify.com/track/57JUrL5ZfFN35tLCJuyGmU"
@@ -6137,6 +6185,28 @@
     },
     {
       "album": {
+        "name": "HOCUS POCUS",
+        "url": "https://open.spotify.com/album/08uEQTTtuKTcORqpuupxbD"
+      },
+      "artists": [
+        {
+          "name": "Dog Witch",
+          "url": "https://open.spotify.com/artist/718jbPRwQKtFPmJQWMOvm4"
+        },
+        {
+          "name": "Honey-B-Sweet",
+          "url": "https://open.spotify.com/artist/5AkKowgn3CXueWEWimq5mm"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137456,
+      "name": "HOCUS POCUS",
+      "url": "https://open.spotify.com/track/0NthteuC2fFQuNVm4EXqcX"
+    },
+    {
+      "album": {
         "name": "Hold On",
         "url": "https://open.spotify.com/album/3bdW9XmrGMNape2BOwd9id"
       },
@@ -6244,6 +6314,24 @@
       "duration_ms": 249691,
       "name": "Homeland",
       "url": "https://open.spotify.com/track/6CqY5hQYAFhnSjZh2RkNG7"
+    },
+    {
+      "album": {
+        "name": "vacation",
+        "url": "https://open.spotify.com/album/48o7A9qde5Sv2Z36nxDIpU"
+      },
+      "artists": [
+        {
+          "name": "boler mani",
+          "url": "https://open.spotify.com/artist/7uAzXw50IscCTZwLGTP2nc"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202426,
+      "name": "honest",
+      "url": "https://open.spotify.com/track/6K1uB20vzp1RvTXAOnfcgN"
     },
     {
       "album": {
@@ -7857,6 +7945,24 @@
     },
     {
       "album": {
+        "name": "Like We Wrote",
+        "url": "https://open.spotify.com/album/2iLcNlQLxFzkWB8VxiJZpo"
+      },
+      "artists": [
+        {
+          "name": "Lithe",
+          "url": "https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118709,
+      "name": "Like We Wrote",
+      "url": "https://open.spotify.com/track/5kH4MnZQN9Ce4gaBquKInu"
+    },
+    {
+      "album": {
         "name": "Live From The Six",
         "url": "https://open.spotify.com/album/4lwRP5elOd2uBrE01cHasQ"
       },
@@ -8036,7 +8142,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 154468,
       "name": "Long Live",
       "url": "https://open.spotify.com/track/5fpPyPGQoQ7yVjaBkXfBEQ"
@@ -8421,6 +8527,24 @@
     },
     {
       "album": {
+        "name": "Man Up",
+        "url": "https://open.spotify.com/album/2lkjv58wvlCgKbB8BWXaUH"
+      },
+      "artists": [
+        {
+          "name": "MissGenius",
+          "url": "https://open.spotify.com/artist/6lFbSDbMspodPjidocKA8B"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197646,
+      "name": "Man Up",
+      "url": "https://open.spotify.com/track/3eQDD5wCTOoSHdtGqL6QRI"
+    },
+    {
+      "album": {
         "name": "Mashallah",
         "url": "https://open.spotify.com/album/3C3eOgWokMuwiakUnlIhDu"
       },
@@ -8774,6 +8898,28 @@
       "duration_ms": 151181,
       "name": "Molly Meldrum",
       "url": "https://open.spotify.com/track/3jZaqu5nKGdJAbFPuNFG51"
+    },
+    {
+      "album": {
+        "name": "TAKING CARE OF BUSINESS",
+        "url": "https://open.spotify.com/album/7jYoYc2zLnJChwM5l6f4ra"
+      },
+      "artists": [
+        {
+          "name": "SWIDT",
+          "url": "https://open.spotify.com/artist/23qIXweNPJuk0LyepJSDbJ"
+        },
+        {
+          "name": "Jevon",
+          "url": "https://open.spotify.com/artist/1cwNKCIuq12wLqAAsC1Zyi"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135986,
+      "name": "MONEY BAGS",
+      "url": "https://open.spotify.com/track/5amnSdjfyVcGGNYoPPZlUC"
     },
     {
       "album": {
@@ -9257,6 +9403,24 @@
     },
     {
       "album": {
+        "name": "Neglected",
+        "url": "https://open.spotify.com/album/05fTPOxEbGTaAFfpTEO11Q"
+      },
+      "artists": [
+        {
+          "name": "VV-Ace",
+          "url": "https://open.spotify.com/artist/58oXnUjX5TvylYa3gGNxca"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160186,
+      "name": "Neglected",
+      "url": "https://open.spotify.com/track/5YU1qcBVspS4TisxvqtrTh"
+    },
+    {
+      "album": {
         "name": "New Age Dreaming",
         "url": "https://open.spotify.com/album/046CzF0aCtKCebNqLD6zHI"
       },
@@ -9338,7 +9502,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 133846,
       "name": "Next Up Australia - S1-E10",
       "url": "https://open.spotify.com/track/0CZxhotpjtfnTvjM6PI0vt"
@@ -9456,6 +9620,24 @@
       "duration_ms": 109655,
       "name": "Next Up Australia - S1-E9 - Pt.2",
       "url": "https://open.spotify.com/track/05xUGSY5lEmI3Dj4SlzKwz"
+    },
+    {
+      "album": {
+        "name": "Ngarwu",
+        "url": "https://open.spotify.com/album/7Lbe5uGko0c1JVMhYxsQ8N"
+      },
+      "artists": [
+        {
+          "name": "Drmngnow",
+          "url": "https://open.spotify.com/artist/18IB1ryPcOlseJCtYmthDg"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170666,
+      "name": "Ngarwu",
+      "url": "https://open.spotify.com/track/2NXBQfFgqhq7I7FZWtEets"
     },
     {
       "album": {
@@ -9774,6 +9956,28 @@
       "duration_ms": 181764,
       "name": "NO TELLIN (REMIX)",
       "url": "https://open.spotify.com/track/3shSoJJfpQfRIdsxw3PmGs"
+    },
+    {
+      "album": {
+        "name": "No Warning",
+        "url": "https://open.spotify.com/album/5RMt9yOYoaSLxQ254i9WCk"
+      },
+      "artists": [
+        {
+          "name": "Inkabee",
+          "url": "https://open.spotify.com/artist/09cUVzX7itryGp6zaJjmiX"
+        },
+        {
+          "name": "JJ Vacant",
+          "url": "https://open.spotify.com/artist/0s8cbzbJdb1UBxqzX9gOzl"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147225,
+      "name": "No Warning",
+      "url": "https://open.spotify.com/track/0oATlBhZMhWKp7AOIbCvUU"
     },
     {
       "album": {
@@ -10610,7 +10814,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 189312,
       "name": "Peak",
       "url": "https://open.spotify.com/track/1uuDXngzZQnhjPYk7YJz7r"
@@ -11032,6 +11236,24 @@
       "duration_ms": 189796,
       "name": "Proper60 (feat. Ay Huncho)",
       "url": "https://open.spotify.com/track/3GRKDBSiMwmcJd7welX7nb"
+    },
+    {
+      "album": {
+        "name": "PROTAGONIST",
+        "url": "https://open.spotify.com/album/5dWbDOgW9By7XptXhMWg9b"
+      },
+      "artists": [
+        {
+          "name": "lilbubblegum",
+          "url": "https://open.spotify.com/artist/5FF8xJSW4qUVU8bk79KYLT"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173911,
+      "name": "PROTAGONIST",
+      "url": "https://open.spotify.com/track/7xZ4s1sCBzptTgB3yHXCuE"
     },
     {
       "album": {
@@ -11470,7 +11692,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 193246,
       "name": "Rescue Me",
       "url": "https://open.spotify.com/track/7A0qqJw9rI5bbAttRXMFF4"
@@ -11992,7 +12214,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 201000,
       "name": "SAINTS.",
       "url": "https://open.spotify.com/track/5KINxCiI2Uqy4gWAyjGOyb"
@@ -12160,6 +12382,28 @@
       "duration_ms": 150093,
       "name": "Seen It All",
       "url": "https://open.spotify.com/track/26RrUQL98FDB1MnNFYxLx7"
+    },
+    {
+      "album": {
+        "name": "Selling My Soul",
+        "url": "https://open.spotify.com/album/0J5Y1bJ0Xwzm26e7bwTijq"
+      },
+      "artists": [
+        {
+          "name": "SaxONLY",
+          "url": "https://open.spotify.com/artist/3wQ96sPHigjP4p78aCoG4y"
+        },
+        {
+          "name": "Phi11a",
+          "url": "https://open.spotify.com/artist/1QrAumNRmmekZeMDVTUfbS"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164610,
+      "name": "Selling My Soul",
+      "url": "https://open.spotify.com/track/2TKAVeoTe3SxkuULpm0i1I"
     },
     {
       "album": {
@@ -12644,6 +12888,24 @@
       "duration_ms": 232727,
       "name": "Solid Rock (feat. William Barton)",
       "url": "https://open.spotify.com/track/1j1gXN6uHuzNkdqLQ9fPl6"
+    },
+    {
+      "album": {
+        "name": "Son Of A Queen",
+        "url": "https://open.spotify.com/album/2PF1UQSlGCeezlHZISe5v4"
+      },
+      "artists": [
+        {
+          "name": "Tuka",
+          "url": "https://open.spotify.com/artist/2D9eG3B30VlpA1uME35LeB"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209651,
+      "name": "Son Of A Queen",
+      "url": "https://open.spotify.com/track/46vSfP1p4lVYicfmcmSbm8"
     },
     {
       "album": {
@@ -13400,7 +13662,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 168000,
       "name": "THAT'S US",
       "url": "https://open.spotify.com/track/2hIvSE82Wv91yHkXwWBK3v"
@@ -13448,6 +13710,28 @@
     {
       "album": {
         "name": "The One",
+        "url": "https://open.spotify.com/album/5MMxsxfktFYqhm2qumR03Z"
+      },
+      "artists": [
+        {
+          "name": "Brandon Stone",
+          "url": "https://open.spotify.com/artist/2xLnJZODyKLRuxUrv63Qez"
+        },
+        {
+          "name": "lxrdmc",
+          "url": "https://open.spotify.com/artist/5jwVGdn7Uw3im5PtL6owZZ"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196893,
+      "name": "The One",
+      "url": "https://open.spotify.com/track/0Z03vJaevXkkHLIrqDRC6O"
+    },
+    {
+      "album": {
+        "name": "The One",
         "url": "https://open.spotify.com/album/4bcVjzViLzay2rnWjVLoJV"
       },
       "artists": [
@@ -13476,7 +13760,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 149159,
       "name": "The Power of God",
       "url": "https://open.spotify.com/track/1c6znYF5fCsOBZk0FMbQYK"
@@ -13790,7 +14074,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 237000,
       "name": "Tons of Drums",
       "url": "https://open.spotify.com/track/4pOm7POX1leGmw5YIjhPVb"
@@ -14286,7 +14570,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 136739,
       "name": "TTS",
       "url": "https://open.spotify.com/track/3YkyeN7q0Q98ZfLaDPzylv"
@@ -14524,7 +14808,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 123076,
       "name": "Up",
       "url": "https://open.spotify.com/track/3BFhDy5T7xB6F68pRlO971"
@@ -14601,6 +14885,24 @@
     },
     {
       "album": {
+        "name": "VETTE",
+        "url": "https://open.spotify.com/album/7MZ0BBJ890IUHj8plcuCzO"
+      },
+      "artists": [
+        {
+          "name": "Letoa",
+          "url": "https://open.spotify.com/artist/6x3qkVWtPGzHKCED9ATXrV"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113142,
+      "name": "VETTE",
+      "url": "https://open.spotify.com/track/50QXEoYbeJqWCH7oypB1h3"
+    },
+    {
+      "album": {
         "name": "No Man's Land",
         "url": "https://open.spotify.com/album/6cmmB4MFzKjO7L7qms5VTt"
       },
@@ -14634,7 +14936,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 152775,
       "name": "Victory Lap",
       "url": "https://open.spotify.com/track/3fdVYPuolN7ReRZPwXhfi1"
@@ -14656,6 +14958,24 @@
       "duration_ms": 198287,
       "name": "Visions",
       "url": "https://open.spotify.com/track/1SwqVZLAsK0iIQUy00Vz4z"
+    },
+    {
+      "album": {
+        "name": "VIVID // Can\u2019t Stop Me",
+        "url": "https://open.spotify.com/album/0iCCHKb6OaACdtIjQADOae"
+      },
+      "artists": [
+        {
+          "name": "VIRTUE",
+          "url": "https://open.spotify.com/artist/1BEw35Pu0EvivYqRpGvnvb"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207840,
+      "name": "VIVID // Can\u2019t Stop Me",
+      "url": "https://open.spotify.com/track/5pT0W2SE58ue3rW4wlC8S7"
     },
     {
       "album": {

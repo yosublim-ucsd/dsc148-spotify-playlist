@@ -1,13 +1,45 @@
 {
   "description": "This fun, upbeat playlist will help get you up and ready to start your day! ",
-  "num_followers": 238365,
+  "num_followers": 238337,
   "original_name": "Ready for the Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlAQwAAAAABueACInwY9glzSjddWaCRi",
+  "snapshot_id": "ZllLQAAAAABAotec3Joglz+dymGXlwoB",
   "tracks": [
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "Ask & You Shall Receive",
+        "url": "https://open.spotify.com/album/5htBDYVAOjfBHgquMxExL8"
+      },
+      "artists": [
+        {
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+        }
+      ],
+      "duration_ms": 199626,
+      "name": "Ask & You Shall Receive",
+      "url": "https://open.spotify.com/track/4zB5pU3cwGiC6Fcz5qtfUe"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "En Route",
+        "url": "https://open.spotify.com/album/6oMGF1OHuuRjQWKn1HXrU5"
+      },
+      "artists": [
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        }
+      ],
+      "duration_ms": 236904,
+      "name": "GPS",
+      "url": "https://open.spotify.com/track/0lYSxo9HT7zcTVqNjKDNVW"
+    },
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
@@ -52,7 +84,7 @@
           "url": "https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE"
         }
       ],
-      "duration_ms": 228113,
+      "duration_ms": 227200,
       "name": "Guy I Used To Be",
       "url": "https://open.spotify.com/track/4dmNWxKKw0Me0uzgE7WIGT"
     },
@@ -1505,22 +1537,6 @@
       "url": "https://open.spotify.com/track/2JdhkE7xcEhfk7B646bdG8"
     },
     {
-      "added_at": "2022-08-12 04:02:00",
-      "album": {
-        "name": "MY BEST!",
-        "url": "https://open.spotify.com/album/1bhFAysJcmTSSTItooIW0M"
-      },
-      "artists": [
-        {
-          "name": "Caleb Hawley",
-          "url": "https://open.spotify.com/artist/5GF3JcY2h0SUPkDlo7ByCB"
-        }
-      ],
-      "duration_ms": 199158,
-      "name": "MY BEST!",
-      "url": "https://open.spotify.com/track/7LTAVYf8CmgGqaI1ynOSbg"
-    },
-    {
       "added_at": "2022-04-08 04:01:00",
       "album": {
         "name": "Every Night",
@@ -1575,22 +1591,6 @@
       "duration_ms": 156013,
       "name": "Be Alright",
       "url": "https://open.spotify.com/track/2CgSu8P3ZAw7qdzfOl0Cyb"
-    },
-    {
-      "added_at": "2022-11-11 05:01:00",
-      "album": {
-        "name": "Never Gonna Not Dance Again",
-        "url": "https://open.spotify.com/album/6MCHSjoEVriUjWE6LERAaR"
-      },
-      "artists": [
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        }
-      ],
-      "duration_ms": 225789,
-      "name": "Never Gonna Not Dance Again",
-      "url": "https://open.spotify.com/track/6sZo5nJIsFWXefRCCexpx0"
     },
     {
       "added_at": "2023-03-03 05:01:00",

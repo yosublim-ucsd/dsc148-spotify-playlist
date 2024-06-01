@@ -1731,6 +1731,24 @@
     },
     {
       "album": {
+        "name": "Dream, Forever",
+        "url": "https://open.spotify.com/album/4fVrPpUvcsP2Yf3YX5aZsh"
+      },
+      "artists": [
+        {
+          "name": "Joseph Lawrence",
+          "url": "https://open.spotify.com/artist/69XFaEPeBh41fbWxQMD8X4"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171354,
+      "name": "Cotton Wool",
+      "url": "https://open.spotify.com/track/6qLpvNC53zSzKRBC3H2ayz"
+    },
+    {
+      "album": {
         "name": "Crazy (DuDuDu)",
         "url": "https://open.spotify.com/album/4lUDOpOQpworctVvTKS0Vn"
       },
@@ -1943,7 +1961,7 @@
       "artists": [
         {
           "name": "Noah Slee",
-          "url": "https://open.spotify.com/artist/2inX1svE5swPuIBIJdrFyo"
+          "url": "https://open.spotify.com/artist/2cIJS8OfarjYImYw0GVPVL"
         },
         {
           "name": "Sorvina",
@@ -3012,7 +3030,7 @@
       ],
       "date_added": "2023-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 230649,
       "name": "HANGING WITH YOU",
       "url": "https://open.spotify.com/track/2Fj4zjw9tV9NY1wWq0bAKN"

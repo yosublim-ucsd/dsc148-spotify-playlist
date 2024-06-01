@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "R&B of the moment by the artists of the future. Cover: kwn",
+  "description": "R&B of the moment by the artists of the future. Cover: Taner\u00e9lle",
   "name": "R&B Rising",
   "tracks": [
     {
@@ -768,7 +768,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 116389,
       "name": "Around The World",
       "url": "https://open.spotify.com/track/6UuztYLGwhpTsH0ploTJgm"
@@ -1090,7 +1090,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 185949,
       "name": "BAD HABITS",
       "url": "https://open.spotify.com/track/5w4IhAYuDVdUVpkNDL6yg0"
@@ -1538,7 +1538,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 144489,
       "name": "BIRTHDAY DANCE",
       "url": "https://open.spotify.com/track/0WkfQ4SJqsKrixNQNYSMsq"
@@ -1636,6 +1636,24 @@
       "duration_ms": 232113,
       "name": "Black Heart Emoji",
       "url": "https://open.spotify.com/track/3hjNGfXk2O3LQI0954F320"
+    },
+    {
+      "album": {
+        "name": "Bleeding Me Dry",
+        "url": "https://open.spotify.com/album/4jMPCb1lQSBO6rjgMDxoVi"
+      },
+      "artists": [
+        {
+          "name": "Alicia Creti",
+          "url": "https://open.spotify.com/artist/0V0XsSn8lNPXAEEFG292iX"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207692,
+      "name": "Bleeding Me Dry",
+      "url": "https://open.spotify.com/track/6ldJ3AUfPvRX2gCB4IMpBG"
     },
     {
       "album": {
@@ -3559,6 +3577,24 @@
     },
     {
       "album": {
+        "name": "DJ Got Me",
+        "url": "https://open.spotify.com/album/0M8nZTO9KJ0x06YJPshuMZ"
+      },
+      "artists": [
+        {
+          "name": "Maeta",
+          "url": "https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135228,
+      "name": "DJ Got Me",
+      "url": "https://open.spotify.com/track/5lFcDZXn5dXeAimwkpNP6s"
+    },
+    {
+      "album": {
         "name": "Mani/Pedi",
         "url": "https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh"
       },
@@ -5040,7 +5076,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 213000,
       "name": "Fist Bump - Radio Edit",
       "url": "https://open.spotify.com/track/5El5mxXJzfYYr0PM61xrvn"
@@ -5500,6 +5536,24 @@
       "duration_ms": 183050,
       "name": "Get Away",
       "url": "https://open.spotify.com/track/1RaO7Jv7R2CmhKR9Ne7YBo"
+    },
+    {
+      "album": {
+        "name": "Get Away",
+        "url": "https://open.spotify.com/album/670TUBzn6VAg0juITSAFUZ"
+      },
+      "artists": [
+        {
+          "name": "Dee Gatti",
+          "url": "https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177175,
+      "name": "Get Away",
+      "url": "https://open.spotify.com/track/25WijqKV8rFsFM53gZN2G1"
     },
     {
       "album": {
@@ -6133,6 +6187,24 @@
     },
     {
       "album": {
+        "name": "En Route",
+        "url": "https://open.spotify.com/album/6oMGF1OHuuRjQWKn1HXrU5"
+      },
+      "artists": [
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236904,
+      "name": "GPS",
+      "url": "https://open.spotify.com/track/0lYSxo9HT7zcTVqNjKDNVW"
+    },
+    {
+      "album": {
         "name": "Greenroom",
         "url": "https://open.spotify.com/album/75lCAYIEKESlpnv2lHMNb7"
       },
@@ -6544,7 +6616,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 142080,
       "name": "Here Now",
       "url": "https://open.spotify.com/track/7pL8Abg7AAMFu66W3etmAy"
@@ -8494,7 +8566,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 178266,
       "name": "Let Me In",
       "url": "https://open.spotify.com/track/4ZIzS7Zz1WMHjfwkSgpCT1"
@@ -9176,6 +9248,24 @@
       "duration_ms": 195401,
       "name": "Love Quotes",
       "url": "https://open.spotify.com/track/6FnXRfvhQsTbiMaiXb2gff"
+    },
+    {
+      "album": {
+        "name": "Love Somebody",
+        "url": "https://open.spotify.com/album/7BK8Km6JQ3D5YhT0PdRwus"
+      },
+      "artists": [
+        {
+          "name": "TheARTI$t",
+          "url": "https://open.spotify.com/artist/0lzz7vFjUA0jCmEy1PR53a"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176166,
+      "name": "Love Somebody",
+      "url": "https://open.spotify.com/track/0TCQnVD1YqN2gNIFrvNICE"
     },
     {
       "album": {
@@ -12238,7 +12328,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 140288,
       "name": "Real",
       "url": "https://open.spotify.com/track/7cIjKWHZvMaDFmSUaUdN7W"
@@ -13693,6 +13783,24 @@
     },
     {
       "album": {
+        "name": "SOMETHING MORE",
+        "url": "https://open.spotify.com/album/5QRERCg5VMNxhV2V2OISah"
+      },
+      "artists": [
+        {
+          "name": "Josh Levi",
+          "url": "https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163838,
+      "name": "SOMETHING MORE",
+      "url": "https://open.spotify.com/track/1QD5FRoUo6gcxAzq7bg2ae"
+    },
+    {
+      "album": {
         "name": "Oh The Places You\u2019ll Go",
         "url": "https://open.spotify.com/album/0VV963BfZvQmjzZ14ai7Gu"
       },
@@ -14138,6 +14246,32 @@
       "duration_ms": 128917,
       "name": "Such Is Love",
       "url": "https://open.spotify.com/track/5Vj0gHzm9njFI4Us8jwvbZ"
+    },
+    {
+      "album": {
+        "name": "Sugar",
+        "url": "https://open.spotify.com/album/0h7bTMDZohzz8kfNVBu7oq"
+      },
+      "artists": [
+        {
+          "name": "Nippa",
+          "url": "https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq"
+        },
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        },
+        {
+          "name": "SHOW N PROVE",
+          "url": "https://open.spotify.com/artist/0w2Ehjy06vmXNTs3e3NQIU"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179310,
+      "name": "Sugar",
+      "url": "https://open.spotify.com/track/0X6AAWEtz8SDZxClmxNhe3"
     },
     {
       "album": {
@@ -15769,6 +15903,28 @@
     },
     {
       "album": {
+        "name": "unruly",
+        "url": "https://open.spotify.com/album/30qNUbkHpnFRNd8x8sYWNT"
+      },
+      "artists": [
+        {
+          "name": "Dua Saleh",
+          "url": "https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB"
+        },
+        {
+          "name": "serpentwithfeet",
+          "url": "https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144446,
+      "name": "unruly",
+      "url": "https://open.spotify.com/track/2bTrWTnaLwQ5WVnUzS2X46"
+    },
+    {
+      "album": {
         "name": "Miss Me Yet?",
         "url": "https://open.spotify.com/album/6mchRY5eb4bHz5GKikFPIP"
       },
@@ -15784,6 +15940,24 @@
       "duration_ms": 125500,
       "name": "Up",
       "url": "https://open.spotify.com/track/209RWdZjINSPWkwuSSClS4"
+    },
+    {
+      "album": {
+        "name": "Electric Honey",
+        "url": "https://open.spotify.com/album/4Tw5mOARJzR867OGuF5o67"
+      },
+      "artists": [
+        {
+          "name": "Taner\u00e9lle",
+          "url": "https://open.spotify.com/artist/1r1n66Rkx4fzNCIUQhS6OH"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182346,
+      "name": "Us",
+      "url": "https://open.spotify.com/track/34nLVuz4g575sZjxi9gm3H"
     },
     {
       "album": {

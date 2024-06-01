@@ -1775,6 +1775,28 @@
     },
     {
       "album": {
+        "name": "Daily Bread",
+        "url": "https://open.spotify.com/album/62eGFqSWE09BYp6lyI2XxG"
+      },
+      "artists": [
+        {
+          "name": "Pat Barrett",
+          "url": "https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3"
+        },
+        {
+          "name": "Kari Jobe",
+          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 385842,
+      "name": "Daily Bread",
+      "url": "https://open.spotify.com/track/01XPEwK0kYQOHQEENQ94wZ"
+    },
+    {
+      "album": {
         "name": "Holy Water",
         "url": "https://open.spotify.com/album/0lGxlaY1aWzp6RWFDwNHAf"
       },
@@ -8721,6 +8743,24 @@
     },
     {
       "album": {
+        "name": "Glory (Live)",
+        "url": "https://open.spotify.com/album/7jcJbWlIlEWm1zRj564RDI"
+      },
+      "artists": [
+        {
+          "name": "Jesus Co.",
+          "url": "https://open.spotify.com/artist/6Ll7sTNN0NeJHoB0bmCKZ1"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321485,
+      "name": "Way Maker - Spontaneous / Live",
+      "url": "https://open.spotify.com/track/2tgyvXJA7aYThK1C9HcZXf"
+    },
+    {
+      "album": {
         "name": "Songs From The Loft",
         "url": "https://open.spotify.com/album/3KS2ekoGoEmLlDfPVDBdhv"
       },
@@ -9005,6 +9045,32 @@
     },
     {
       "album": {
+        "name": "Who Else",
+        "url": "https://open.spotify.com/album/6AX5qyyK9YVldRkZzGCKLo"
+      },
+      "artists": [
+        {
+          "name": "Gateway Worship",
+          "url": "https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB"
+        },
+        {
+          "name": "Worship Together",
+          "url": "https://open.spotify.com/artist/3DMbpVPUYdZnft4OoqHqPc"
+        },
+        {
+          "name": "Zac Rowe",
+          "url": "https://open.spotify.com/artist/4r1A4AicKyrUyhn6duxrHD"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315687,
+      "name": "Who Else",
+      "url": "https://open.spotify.com/track/0dsfLqH0drcuOXjTBqsHJU"
+    },
+    {
+      "album": {
         "name": "Crowns Down (Live)",
         "url": "https://open.spotify.com/album/3yIWDWEr4BWDt38ovHWnre"
       },
@@ -9200,6 +9266,28 @@
       "duration_ms": 437224,
       "name": "With You (Only Resurrection) - Live",
       "url": "https://open.spotify.com/track/0Ra9ehxtwcRaKkFt9ikT7c"
+    },
+    {
+      "album": {
+        "name": "Worship Through It",
+        "url": "https://open.spotify.com/album/20n1fFSb2Wrqs6pjwqKZEg"
+      },
+      "artists": [
+        {
+          "name": "Tasha Layton",
+          "url": "https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220133,
+      "name": "Worship Through It",
+      "url": "https://open.spotify.com/track/0WE0lN2uFCg4ojyO2ryq9I"
     },
     {
       "album": {

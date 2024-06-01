@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-03",
-  "description": "Una selecci\u00f3n de temas de amor y desamor, con mucho feeling. Tini en portada.",
+  "description": "Una selecci\u00f3n de temas de amor y desamor, con mucho feeling. legallyrxx en portada.",
   "name": "sentimiento.",
   "tracks": [
     {
@@ -406,7 +406,7 @@
       ],
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 227266,
       "name": "Caf\u00e9",
       "url": "https://open.spotify.com/track/55jK8S4pNyrHAfkMq7oGxM"
@@ -678,7 +678,7 @@
       ],
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 188616,
       "name": "C\u00f3mo Te Olvido?",
       "url": "https://open.spotify.com/track/1QcbxA9ILapCLgnFNxs3RE"
@@ -1022,7 +1022,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 184585,
       "name": "EST\u00c1 CABR\u00d3N",
       "url": "https://open.spotify.com/track/16IWSpLVWetjwwkYdNPkVB"
@@ -1663,6 +1663,24 @@
     },
     {
       "album": {
+        "name": "escrita",
+        "url": "https://open.spotify.com/album/41DOXn1SuBBmm57gPTyb5E"
+      },
+      "artists": [
+        {
+          "name": "Nicole Zignago",
+          "url": "https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202282,
+      "name": "m\u00e1s y menos",
+      "url": "https://open.spotify.com/track/5RxXLXdfznLfRGMfEPyt0a"
+    },
+    {
+      "album": {
         "name": "Nadie M\u00e1s",
         "url": "https://open.spotify.com/album/5POc5gwtXkHsFwTfp5e0L7"
       },
@@ -2263,6 +2281,50 @@
     },
     {
       "album": {
+        "name": "Odio Perder",
+        "url": "https://open.spotify.com/album/2JEz7KNgPVvnIWtOp1Ed69"
+      },
+      "artists": [
+        {
+          "name": "Aitor Martin",
+          "url": "https://open.spotify.com/artist/3jQtTrXWRRSWHlDsUvWGNE"
+        },
+        {
+          "name": "Chus Santana",
+          "url": "https://open.spotify.com/artist/7HIHZP9kQCofu07j5Xj590"
+        },
+        {
+          "name": "B CHUCKS",
+          "url": "https://open.spotify.com/artist/4zr9ExTmej3a66L4cICv1A"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155730,
+      "name": "Odio Perder",
+      "url": "https://open.spotify.com/track/4Pj2PU2O4txl0MOx7CNB0z"
+    },
+    {
+      "album": {
+        "name": "Opciones",
+        "url": "https://open.spotify.com/album/0ENevyJtzaagQi1Ndx3mSB"
+      },
+      "artists": [
+        {
+          "name": "AQUIHAYAQUIHAY",
+          "url": "https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213444,
+      "name": "Opciones",
+      "url": "https://open.spotify.com/track/06UvaJvHtZTPytXvuCgF3Z"
+    },
+    {
+      "album": {
         "name": "Otra Cosa",
         "url": "https://open.spotify.com/album/45JW9rCOagIUUebFOW12rL"
       },
@@ -2340,7 +2402,7 @@
       ],
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 148443,
       "name": "Para Qu\u00e9 Regresas",
       "url": "https://open.spotify.com/track/29R2zvgyIWqAerVBq1JWsl"
@@ -2366,6 +2428,24 @@
       "duration_ms": 208587,
       "name": "PARA SIEMPRE",
       "url": "https://open.spotify.com/track/0xvaM53zDst3zcIpcNc37M"
+    },
+    {
+      "album": {
+        "name": "EL NI\u00d1O DE LOS CORAZONES",
+        "url": "https://open.spotify.com/album/18LQTOkENbFCtBfcmYUV3i"
+      },
+      "artists": [
+        {
+          "name": "legallyrxx",
+          "url": "https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121000,
+      "name": "PERDER LO QUE AMAMOS",
+      "url": "https://open.spotify.com/track/4mW7nXnff5qwu6Hdg35oyV"
     },
     {
       "album": {
@@ -3015,6 +3095,42 @@
     },
     {
       "album": {
+        "name": "TU MIRADA",
+        "url": "https://open.spotify.com/album/1rPX6lU9odQwnPT8TNT43C"
+      },
+      "artists": [
+        {
+          "name": "E-Lhoy",
+          "url": "https://open.spotify.com/artist/5YTKQFU1MDt9KdsDhWdC5B"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161253,
+      "name": "TU MIRADA",
+      "url": "https://open.spotify.com/track/467xudpj41ZyC8d143y0qp"
+    },
+    {
+      "album": {
+        "name": "Tu risa es mi casa",
+        "url": "https://open.spotify.com/album/3dsqd656loLX6sc3VYFmY4"
+      },
+      "artists": [
+        {
+          "name": "Alejandro y Maria Laura",
+          "url": "https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267913,
+      "name": "Tu risa es mi casa",
+      "url": "https://open.spotify.com/track/12VNVDqo1R3DFArsPDh5nI"
+    },
+    {
+      "album": {
         "name": "T\u00e9nis Nuevos",
         "url": "https://open.spotify.com/album/3JGQ7wVltDcYjVyQqTqIFV"
       },
@@ -3044,7 +3160,7 @@
       ],
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 224084,
       "name": "T\u00fanel",
       "url": "https://open.spotify.com/track/3zPyX7VeRX2t7K9oTPlS4K"
@@ -3088,7 +3204,7 @@
       ],
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 208000,
       "name": "UNDOSTRES",
       "url": "https://open.spotify.com/track/3U0DLCsgve2tFyrVNJJ21U"

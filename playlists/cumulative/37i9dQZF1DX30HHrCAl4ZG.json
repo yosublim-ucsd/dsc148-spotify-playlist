@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Explore all things indie rock right now. Featuring music from Dehd",
+  "description": "Explore all things indie rock right now. Featuring music from SASAMI",
   "name": "Today's Indie Rock",
   "tracks": [
     {
@@ -408,6 +408,24 @@
       "duration_ms": 136000,
       "name": "85 Down PCH",
       "url": "https://open.spotify.com/track/3Jnrl4vtLB92b6DtopKwjY"
+    },
+    {
+      "album": {
+        "name": "What's The Point",
+        "url": "https://open.spotify.com/album/1vNeZt4KL1fVTU92ZLkJkD"
+      },
+      "artists": [
+        {
+          "name": "Ruby Waters",
+          "url": "https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169266,
+      "name": "90 to 99",
+      "url": "https://open.spotify.com/track/6J2qRzwQ0TFXKtCoBlC2MR"
     },
     {
       "album": {
@@ -2854,7 +2872,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 203000,
       "name": "Blanks",
       "url": "https://open.spotify.com/track/6dyTzaU8sh9dXCkb0PlzqM"
@@ -4268,7 +4286,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 187692,
       "name": "Calling After Me",
       "url": "https://open.spotify.com/track/2WGcpz55A2vrvh6foEGCNL"
@@ -6156,7 +6174,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 193573,
       "name": "Dark",
       "url": "https://open.spotify.com/track/7ISN0i74VnNtGFd6nIfhfT"
@@ -10819,6 +10837,24 @@
     },
     {
       "album": {
+        "name": "Headliner",
+        "url": "https://open.spotify.com/album/6JcCv9NZt9eqxPHtO9hnjl"
+      },
+      "artists": [
+        {
+          "name": "Pretty Sick",
+          "url": "https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Headliner",
+      "url": "https://open.spotify.com/track/4KDJfug28h0LbZpdJmC73S"
+    },
+    {
+      "album": {
         "name": "Headset Go",
         "url": "https://open.spotify.com/album/0Dyt1CtkImtFkWOwKZLRhQ"
       },
@@ -11354,6 +11390,24 @@
       "duration_ms": 224121,
       "name": "Honey",
       "url": "https://open.spotify.com/track/2InbY91stGdhxZRL4h4IIQ"
+    },
+    {
+      "album": {
+        "name": "Honeycrash",
+        "url": "https://open.spotify.com/album/65c74y1vN6hMca1Zs4hkVo"
+      },
+      "artists": [
+        {
+          "name": "SASAMI",
+          "url": "https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188979,
+      "name": "Honeycrash",
+      "url": "https://open.spotify.com/track/49MS1LeGxzcG9LOvpzhAQr"
     },
     {
       "album": {
@@ -13105,6 +13159,24 @@
     },
     {
       "album": {
+        "name": "grey europe",
+        "url": "https://open.spotify.com/album/1ZiOUqonBvUlocuaXMgYS5"
+      },
+      "artists": [
+        {
+          "name": "re6ce",
+          "url": "https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189613,
+      "name": "is suicide too much?",
+      "url": "https://open.spotify.com/track/6hLwWVV4b7cXlqxU76PcTs"
+    },
+    {
+      "album": {
         "name": "Isolette (Edit)",
         "url": "https://open.spotify.com/album/3uFBPwfmLFoDPIVZxA35b1"
       },
@@ -14440,6 +14512,24 @@
       "duration_ms": 230169,
       "name": "Like You",
       "url": "https://open.spotify.com/track/5qpv56mk9Sbs5gx9wAD9uD"
+    },
+    {
+      "album": {
+        "name": "SiriusXM Session",
+        "url": "https://open.spotify.com/album/2THNAoibV6yyuZcvaU9U5x"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Linger - SiriusXM Session",
+      "url": "https://open.spotify.com/track/2dono2Koz7DEvGwxUsmMLq"
     },
     {
       "album": {
@@ -17081,6 +17171,24 @@
     },
     {
       "album": {
+        "name": "Big Swimmer",
+        "url": "https://open.spotify.com/album/2yOMO7smZB5XqIuqFZ38ri"
+      },
+      "artists": [
+        {
+          "name": "King Hannah",
+          "url": "https://open.spotify.com/artist/7t00AYOoiQrcgNlpTkNer6"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202048,
+      "name": "New York, Let's Do Nothing",
+      "url": "https://open.spotify.com/track/2A4aclW67hD53GFWXSg1mh"
+    },
+    {
+      "album": {
         "name": "newrules",
         "url": "https://open.spotify.com/album/2blDLfji74IFcz24chuzCU"
       },
@@ -19040,10 +19148,28 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 228546,
       "name": "Prep-School Gangsters",
       "url": "https://open.spotify.com/track/0NiaHPlgDp7081zSqXuULS"
+    },
+    {
+      "album": {
+        "name": "Prep-School Gangsters (Spotify OUTSIDE Version) - Live from Queens, NY",
+        "url": "https://open.spotify.com/album/4BXnoSeA4uOTWm29ZXDLZu"
+      },
+      "artists": [
+        {
+          "name": "Vampire Weekend",
+          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203000,
+      "name": "Prep-School Gangsters (Spotify OUTSIDE Version) - Live from Queens, NY",
+      "url": "https://open.spotify.com/track/3QlLPR0FihjO5CGGfsaxoW"
     },
     {
       "album": {
@@ -20733,6 +20859,28 @@
     },
     {
       "album": {
+        "name": "Shame",
+        "url": "https://open.spotify.com/album/6N8a80dwH6JDDZ7Ze1WCDz"
+      },
+      "artists": [
+        {
+          "name": "Philine Sonny",
+          "url": "https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t"
+        },
+        {
+          "name": "Miya Folick",
+          "url": "https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197960,
+      "name": "Shame",
+      "url": "https://open.spotify.com/track/72pHUjZmkTmscezhPflMzN"
+    },
+    {
+      "album": {
         "name": "SHAPESHIFTER",
         "url": "https://open.spotify.com/album/1ubKaRZMSZTtkckIO0e72j"
       },
@@ -21566,7 +21714,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 234080,
       "name": "So Medieval",
       "url": "https://open.spotify.com/track/1XXyubI3J3GRqpmVQPcBCT"
@@ -22536,7 +22684,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 126620,
       "name": "Streetwise",
       "url": "https://open.spotify.com/track/5SDW0aLSetWzFS1676VgXQ"
@@ -23016,7 +23164,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 226386,
       "name": "Sweet",
       "url": "https://open.spotify.com/track/4IMuGCqtZr4SqOL4eOHhkF"
@@ -27294,7 +27442,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 206699,
       "name": "Worst Case Scenario",
       "url": "https://open.spotify.com/track/6FYzRAZxBYuKTGWMmLVi6I"

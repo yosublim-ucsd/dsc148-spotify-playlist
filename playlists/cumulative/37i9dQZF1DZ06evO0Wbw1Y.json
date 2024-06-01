@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-26",
-  "description": "This Is Ventino. Los temas esenciales, todos en una lista.",
+  "description": "This is Ventino. The essential tracks, all in one playlist.",
   "name": "This Is Ventino",
   "tracks": [
     {
@@ -188,7 +188,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 166805,
       "name": "Combustible",
       "url": "https://open.spotify.com/track/1wb2CvisZL74qpzVbY31M0"
@@ -253,6 +253,24 @@
     },
     {
       "album": {
+        "name": "Inevitables",
+        "url": "https://open.spotify.com/album/1V5qSya58ba5f421vdBJHd"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        }
+      ],
+      "date_added": "2024-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141558,
+      "name": "Cuesta Amarte",
+      "url": "https://open.spotify.com/track/1v65TkytkaJKvvFR9mIOJp"
+    },
+    {
+      "album": {
         "name": "Cuesta Amarte",
         "url": "https://open.spotify.com/album/2iZl32x6FhDIVsCbJOvPSK"
       },
@@ -264,7 +282,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 141558,
       "name": "Cuesta Amarte",
       "url": "https://open.spotify.com/track/4DGZh7uAyj4s7zaGqAGNHR"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "Your go-to playlist for this week's hottest music featuring Bring Me The Horizon, Miley Cyrus, and more! Cover: Bring Me The Horizon",
+  "description": "Your go-to playlist for this week's hottest music featuring TREASURE, Miley Cyrus, and more! Cover: TREASURE",
   "name": "Columbia Records: Weekly Mix",
   "tracks": [
     {
@@ -742,6 +742,24 @@
       "duration_ms": 219133,
       "name": "Angel",
       "url": "https://open.spotify.com/track/2soZTM1x1GBiQGMAsXKXpd"
+    },
+    {
+      "album": {
+        "name": "Angels In The Sky",
+        "url": "https://open.spotify.com/album/41VlriZ3G48XNHYmoWqYSW"
+      },
+      "artists": [
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162210,
+      "name": "Angels In The Sky",
+      "url": "https://open.spotify.com/track/5quU0IUtPut7sZZlQ2kK54"
     },
     {
       "album": {
@@ -3687,6 +3705,24 @@
     },
     {
       "album": {
+        "name": "Dirt On Us",
+        "url": "https://open.spotify.com/album/6tvUq3lJ1nVe3taTIREnDS"
+      },
+      "artists": [
+        {
+          "name": "Alli Walker",
+          "url": "https://open.spotify.com/artist/7nspbN0Rr5jTKLOqJoUnPj"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "Dirt On Us",
+      "url": "https://open.spotify.com/track/1gv7dH35aQjmfvdrSzphws"
+    },
+    {
+      "album": {
         "name": "Disgusting",
         "url": "https://open.spotify.com/album/5GmWgrg7L6T4XuhT0KQODS"
       },
@@ -5768,7 +5804,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 177230,
       "name": "Hard To See",
       "url": "https://open.spotify.com/track/43MPwMnVPoGj3AIItvxdRl"
@@ -7401,6 +7437,24 @@
     },
     {
       "album": {
+        "name": "KING KONG",
+        "url": "https://open.spotify.com/album/6CtujV9zK1giRw4KuCG1UD"
+      },
+      "artists": [
+        {
+          "name": "TREASURE",
+          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196221,
+      "name": "KING KONG",
+      "url": "https://open.spotify.com/track/4ZcAPS5AXNBI6aH8OMjCDF"
+    },
+    {
+      "album": {
         "name": "Kitsch",
         "url": "https://open.spotify.com/album/7KgFOJg5QAU9Ex9L2oTy67"
       },
@@ -7618,6 +7672,24 @@
       "duration_ms": 180666,
       "name": "Late To Da Party (F*CK BET) (feat. YoungBoy Never Broke Again)",
       "url": "https://open.spotify.com/track/3GbQcjKWT7eVpUfzqwUjxv"
+    },
+    {
+      "album": {
+        "name": "LAY UP",
+        "url": "https://open.spotify.com/album/3R0pXQrTfkcoMlyVINpoAV"
+      },
+      "artists": [
+        {
+          "name": "Cochise",
+          "url": "https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162315,
+      "name": "LAY UP",
+      "url": "https://open.spotify.com/track/76My5QFcDYRPsg6uL7vPIf"
     },
     {
       "album": {
@@ -8211,6 +8283,46 @@
     },
     {
       "album": {
+        "name": "Mad At Me (feat. Lil Tony Official)",
+        "url": "https://open.spotify.com/album/6MivTxCU5y2RWgGxz18Cr0"
+      },
+      "artists": [
+        {
+          "name": "Glokk40Spaz",
+          "url": "https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W"
+        },
+        {
+          "name": "Lil Tony Official",
+          "url": "https://open.spotify.com/artist/4ix2z6eBWQ6MeihaX04mB6"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136700,
+      "name": "Mad At Me (feat. Lil Tony Official)",
+      "url": "https://open.spotify.com/track/5r4Yov7itu9I0Ybx7ScoG0"
+    },
+    {
+      "album": {
+        "name": "Valedictorian [Deluxe]",
+        "url": "https://open.spotify.com/album/0HklW0u2UIH4rurxX6ML8q"
+      },
+      "artists": [
+        {
+          "name": "ian",
+          "url": "https://open.spotify.com/artist/23hzc59PkIUau13dqXx5Ef"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137158,
+      "name": "Magic Johnson",
+      "url": "https://open.spotify.com/track/2qttu4WQD8xQZ9DBXdp4L5"
+    },
+    {
+      "album": {
         "name": "Sunburn",
         "url": "https://open.spotify.com/album/2T7LuxZRr6SQMgABLtoYTH"
       },
@@ -8710,7 +8822,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 136281,
       "name": "Movie",
       "url": "https://open.spotify.com/track/56nMxD5Hz0gI2E1lDmC0kk"
@@ -9282,6 +9394,24 @@
       "duration_ms": 228080,
       "name": "No Caller ID (Emo Cowgirl Live Sessions)",
       "url": "https://open.spotify.com/track/04lZeAyWs7Seg9HtM43XTH"
+    },
+    {
+      "album": {
+        "name": "NO DEAL",
+        "url": "https://open.spotify.com/album/0qMv0sIYMoeDc2KY5K2WXl"
+      },
+      "artists": [
+        {
+          "name": "Dylan Cotrone",
+          "url": "https://open.spotify.com/artist/7cOcm6mkMpyylbKqBpk8hU"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150927,
+      "name": "NO DEAL",
+      "url": "https://open.spotify.com/track/0QYlXTPd1h0HzQtrzQKufd"
     },
     {
       "album": {
@@ -11468,7 +11598,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 155675,
       "name": "Soon",
       "url": "https://open.spotify.com/track/3J0LxopRLLyLxOVOLouZMr"
@@ -12654,6 +12784,24 @@
       "duration_ms": 155846,
       "name": "Throw It Back",
       "url": "https://open.spotify.com/track/6gv3rXWwTSdUhYaZqg7ueD"
+    },
+    {
+      "album": {
+        "name": "TIED UP",
+        "url": "https://open.spotify.com/album/5ynQ4yVCht4g8b3dBn2CwG"
+      },
+      "artists": [
+        {
+          "name": "Clinton Kane",
+          "url": "https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143102,
+      "name": "TIED UP",
+      "url": "https://open.spotify.com/track/0D0sp36etAe94NBYV9N2Il"
     },
     {
       "album": {
@@ -14248,7 +14396,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 173233,
       "name": "Wildlife (feat. Sleepy Hallow)",
       "url": "https://open.spotify.com/track/350eBNxmi87YdMxQvauyUQ"

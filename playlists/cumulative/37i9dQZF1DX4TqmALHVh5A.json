@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : MaMaMa",
+  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : Zaho de Sagazan",
   "name": "Courant Alternatif",
   "tracks": [
     {
@@ -171,6 +171,24 @@
     },
     {
       "album": {
+        "name": "Posthume",
+        "url": "https://open.spotify.com/album/58UDOo7F1hbra3WoCuGznu"
+      },
+      "artists": [
+        {
+          "name": "MDNS",
+          "url": "https://open.spotify.com/artist/0IQF3RvCO0IkvmGj0RvOcA"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177088,
+      "name": "Apprends-moi",
+      "url": "https://open.spotify.com/track/5zH8U9YG6BrWzUh8NHAJZf"
+    },
+    {
+      "album": {
         "name": "La symphonie des \u00e9clairs",
         "url": "https://open.spotify.com/album/5GoDO8a03bxSSxMCeYKfaW"
       },
@@ -218,7 +236,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 149226,
       "name": "Attitude",
       "url": "https://open.spotify.com/track/7x5V1JR3yO7QwpwuXOYQLC"
@@ -344,7 +362,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 313120,
       "name": "Bliss",
       "url": "https://open.spotify.com/track/0EmKhO8Mnd4o4ErUfFDPdC"
@@ -1331,6 +1349,24 @@
     },
     {
       "album": {
+        "name": "just a noise",
+        "url": "https://open.spotify.com/album/1dfM8mdmfobemurtB4f6qi"
+      },
+      "artists": [
+        {
+          "name": "Kevin Heartbeats",
+          "url": "https://open.spotify.com/artist/3hnYXtcKvZcua5mprGrsTG"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172167,
+      "name": "just a noise",
+      "url": "https://open.spotify.com/track/2mgDRx52b1GhnikAJqRFvP"
+    },
+    {
+      "album": {
         "name": "PANAME \u0152STROS POUBELLE",
         "url": "https://open.spotify.com/album/53JDJmBpfYZuJb2nz0v5SE"
       },
@@ -1785,6 +1821,24 @@
     },
     {
       "album": {
+        "name": "Modern Love",
+        "url": "https://open.spotify.com/album/436QZpEOWnh4wVphHHYbrA"
+      },
+      "artists": [
+        {
+          "name": "Zaho de Sagazan",
+          "url": "https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234162,
+      "name": "Modern Love",
+      "url": "https://open.spotify.com/track/61rputyFcUsC1ldct1OKRr"
+    },
+    {
+      "album": {
         "name": "Moins seul sans eux",
         "url": "https://open.spotify.com/album/02dlfpLJyHZ5uONzXyQcDp"
       },
@@ -2034,7 +2088,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 142200,
       "name": "Pas si grave",
       "url": "https://open.spotify.com/track/5aJD07sT5Fya39NBNoMkEQ"
@@ -2142,7 +2196,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 178190,
       "name": "Probl\u00e8mes",
       "url": "https://open.spotify.com/track/1se9m5r5XhNKHYOA4XS0Yd"
@@ -2290,6 +2344,24 @@
       "duration_ms": 168680,
       "name": "Revoir le monde",
       "url": "https://open.spotify.com/track/2EOIAHCr3irNh5NEhv0qzN"
+    },
+    {
+      "album": {
+        "name": "Rien ne m'attend",
+        "url": "https://open.spotify.com/album/2Jgo7OfMRo64c0LQPmfiBn"
+      },
+      "artists": [
+        {
+          "name": "Thx4Crying",
+          "url": "https://open.spotify.com/artist/0J0Cjv3dejTUnksQtxpZP9"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200709,
+      "name": "Rien ne m'attend",
+      "url": "https://open.spotify.com/track/7e2FWChR7ThlwRYvSgC0fw"
     },
     {
       "album": {

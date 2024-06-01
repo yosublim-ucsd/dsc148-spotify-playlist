@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-16",
-  "description": "aqui tem feijoada hot dog com pur\u00ea sushi farofa a\u00e7a\u00ed cm peixe frito enfim desfrute / Foto: Mc Jacar\u00e9, Luan Pereira",
+  "description": "aqui tem feijoada hot dog com pur\u00ea sushi farofa a\u00e7a\u00ed cm peixe frito enfim desfrute / Foto: Leo Santana, Anitta",
   "name": "PURO SUCO DO BRASIL",
   "tracks": [
     {
@@ -1094,7 +1094,7 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 124511,
       "name": "Canudinho - Ao Vivo",
       "url": "https://open.spotify.com/track/6AENBD8I0mDGglFqrRZGu7"
@@ -1650,7 +1650,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 153045,
       "name": "Despedida De Solteiro - Ao Vivo",
       "url": "https://open.spotify.com/track/0ojITFsiarLcH7qzJvseWj"
@@ -1748,7 +1748,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 163038,
       "name": "Diferent\u00e3o - Ao Vivo",
       "url": "https://open.spotify.com/track/6KqDX602MYtNGTbSpSzNxd"
@@ -2138,7 +2138,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 226115,
       "name": "Eu Juro - Ao Vivo",
       "url": "https://open.spotify.com/track/2AsWHNjFffTmBqdAS3lwyl"
@@ -2362,7 +2362,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 154180,
       "name": "Ficadinha - Ao Vivo",
       "url": "https://open.spotify.com/track/4r57eagiWWQKzW1oKhgkU9"
@@ -3631,6 +3631,24 @@
     },
     {
       "album": {
+        "name": "Morena Tropicana (MTG)",
+        "url": "https://open.spotify.com/album/0882bZ1EHZa1EXJT4VBrkY"
+      },
+      "artists": [
+        {
+          "name": "Malla",
+          "url": "https://open.spotify.com/artist/4w1fJ5YYsYyxQg2DceFrnB"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136615,
+      "name": "Morena Tropicana - MTG",
+      "url": "https://open.spotify.com/track/6xCAXCTuUeY2nT0p9cAdvB"
+    },
+    {
+      "album": {
         "name": "Samba Pro Meu Povo: Bloco Rua Mariana (Ao Vivo)",
         "url": "https://open.spotify.com/album/0Jw7pcAoIG4Yy7RX1dGe0m"
       },
@@ -3724,6 +3742,50 @@
       "duration_ms": 149538,
       "name": "Mtg Forr\u00f3 e Desmantelo",
       "url": "https://open.spotify.com/track/106SKHXoytRADjpxHBkJpV"
+    },
+    {
+      "album": {
+        "name": "MTG J\u00e1 Que C\u00ea Gosta Tanto de Rua",
+        "url": "https://open.spotify.com/album/4epLXw8yQ5PPRTDyLGErR6"
+      },
+      "artists": [
+        {
+          "name": "Djay L Beats",
+          "url": "https://open.spotify.com/artist/22XiT8DHddIU2VcuGDEU0o"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133125,
+      "name": "MTG J\u00e1 Que C\u00ea Gosta Tanto de Rua",
+      "url": "https://open.spotify.com/track/5BpNdbgj7stB4AwaV1Tu2R"
+    },
+    {
+      "album": {
+        "name": "MTG QUEM N\u00c3O QUER SOU EU",
+        "url": "https://open.spotify.com/album/4sLNpzARYcLX5BIGLOvgNC"
+      },
+      "artists": [
+        {
+          "name": "DJ TOPO",
+          "url": "https://open.spotify.com/artist/0xj9MJx9r0wO2o4aqdergP"
+        },
+        {
+          "name": "Seu Jorge",
+          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
+        },
+        {
+          "name": "Mc Leozin",
+          "url": "https://open.spotify.com/artist/6mKwmTMzDrye9elc8JWiw3"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123692,
+      "name": "MTG QUEM N\u00c3O QUER SOU EU",
+      "url": "https://open.spotify.com/track/6RjSXi9cPGroetXeNsWFGL"
     },
     {
       "album": {
@@ -5638,7 +5700,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 170880,
       "name": "Tchuco Nela",
       "url": "https://open.spotify.com/track/3ShKPhFkexrwl7WoyTtNND"

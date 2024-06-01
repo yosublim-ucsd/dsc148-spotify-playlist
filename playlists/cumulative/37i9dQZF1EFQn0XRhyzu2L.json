@@ -229,6 +229,24 @@
     },
     {
       "album": {
+        "name": "Asking",
+        "url": "https://open.spotify.com/album/345oRmDqLTHWoeY7O3yBcM"
+      },
+      "artists": [
+        {
+          "name": "Trinity Lake",
+          "url": "https://open.spotify.com/artist/1IAcSFwvUres37HhuN2Rcs"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233048,
+      "name": "Asking",
+      "url": "https://open.spotify.com/track/1fEo3ZZxtHh20Ow3z3wqvZ"
+    },
+    {
+      "album": {
         "name": "This Is What The Truth Feels Like",
         "url": "https://open.spotify.com/album/2es3eRI3drhe6WKdCuHjGM"
       },

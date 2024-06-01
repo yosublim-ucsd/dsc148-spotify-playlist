@@ -501,6 +501,28 @@
     },
     {
       "album": {
+        "name": "Fell Into You",
+        "url": "https://open.spotify.com/album/3VBQxDg1c5ND7HoVCzIfHw"
+      },
+      "artists": [
+        {
+          "name": "Revaeon",
+          "url": "https://open.spotify.com/artist/1NubCpQK9Tz3JEIm4UhrUC"
+        },
+        {
+          "name": "Emily Falvey",
+          "url": "https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172968,
+      "name": "Fell Into You",
+      "url": "https://open.spotify.com/track/0ENrVuNnqpmnmdjgUxg61j"
+    },
+    {
+      "album": {
         "name": "Firehazard",
         "url": "https://open.spotify.com/album/7m72310c756Nzu7duj09Ib"
       },

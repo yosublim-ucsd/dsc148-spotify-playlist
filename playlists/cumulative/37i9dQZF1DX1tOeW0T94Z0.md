@@ -2,7 +2,7 @@
 
 ### [Millennium Hip\-Hop/R&B: Canada](https://open.spotify.com/playlist/37i9dQZF1DX1tOeW0T94Z0)
 
-> Nothing but precious sounds from the 90s & 2000s\. Cover: Maestro Fresh Wes
+> Nothing but precious sounds from the 90s & 2000s\. Cover: Tamia
 
 143 songs - 9 hr 22 min
 
@@ -69,7 +69,7 @@
 | [It's Fo Twenty](https://open.spotify.com/track/6IHYCWWWyKOV54i5eXbSKq) | [Bishop Brigante](https://open.spotify.com/artist/4yGFddIt30417yFQiq2QaS), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h) | [It's Fo Twenty \(Explicit Version\)](https://open.spotify.com/album/2L2Ia4j1mNUec5fi5PS35O) | 3:46 | 2024-01-12 |  |
 | [Just a Second](https://open.spotify.com/track/63khjxx6Jcz8YGhWFWrL2P) | [Choclair](https://open.spotify.com/artist/6Ku2nSbcjRann6nTPimcFS) | [Just a Second](https://open.spotify.com/album/5O7awejDSOSd92idYH870A) | 4:26 | 2022-08-11 | 2024-01-13 |
 | [Just Wanna Party \(feat\. Voyce\)](https://open.spotify.com/track/7zyaGu9SsApEuzFdiii833) | [jDiggz](https://open.spotify.com/artist/69h6qCRk2eD3QUWWFbVUzk), [Voyce](https://open.spotify.com/artist/6Jf2xsWhvbhPKmbhuinqcp) | [Memoirs of a Playbwoy \(Remastered\)](https://open.spotify.com/album/4jFt17ofd4gqcOBGu9KKvf) | 4:38 | 2022-07-01 | 2022-09-01 |
-| [Karma](https://open.spotify.com/track/7FyuOzN1V1Whhyh46tPiWZ) | [Mood](https://open.spotify.com/artist/2u2XHKuu3IWZvTvzXiciqu) | [Doom](https://open.spotify.com/album/7hOjTIuKBT7tP9XR0nGYCy) | 3:18 | 2022-07-01 |  |
+| [Karma](https://open.spotify.com/track/7FyuOzN1V1Whhyh46tPiWZ) | [Mood](https://open.spotify.com/artist/2u2XHKuu3IWZvTvzXiciqu) | [Doom](https://open.spotify.com/album/7hOjTIuKBT7tP9XR0nGYCy) | 3:18 | 2022-07-01 | 2024-06-01 |
 | [La force de comprendre](https://open.spotify.com/track/6qwAZau93JWbbiiuLn38dn) | [Dubmatique](https://open.spotify.com/artist/4uIMmnG9v9BVqSJbwhieny) | [La force de comprendre](https://open.spotify.com/album/1UxOD6dIiK68AlaBJgEuve) | 3:46 | 2022-07-01 |  |
 | [Learn to Earn](https://open.spotify.com/track/1GNw15qPGChP3OkeVpagNG) | [Down Ta Erf](https://open.spotify.com/artist/5hznMGOJndBNISavtIs0Cs) | [Down Ta Erf](https://open.spotify.com/album/3HqA9RciaaTNAuGgrLYtLY) | 3:48 | 2022-11-15 | 2024-04-19 |
 | [Learn to Earn](https://open.spotify.com/track/5pnb7gH2FdlgQYJr7z55a4) | [Down Ta Erf](https://open.spotify.com/artist/5hznMGOJndBNISavtIs0Cs) | [Down Ta Erf](https://open.spotify.com/album/4ABY3JMFDytAhnefa5Lczg) | 3:48 | 2022-07-01 |  |

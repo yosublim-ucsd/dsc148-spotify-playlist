@@ -2253,6 +2253,24 @@
     },
     {
       "album": {
+        "name": "MAHBOULA",
+        "url": "https://open.spotify.com/album/6xxm174FrG6Mni52k9UFWL"
+      },
+      "artists": [
+        {
+          "name": "Manal",
+          "url": "https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169565,
+      "name": "MAHBOULA",
+      "url": "https://open.spotify.com/track/4AS0ncb4OzzAjwvsgWu9XV"
+    },
+    {
+      "album": {
         "name": "Makach Kifach",
         "url": "https://open.spotify.com/album/2lab8N8zcfb2J8XKqvlsn5"
       },
@@ -3542,7 +3560,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 241110,
       "name": "\u0631\u0648\u062d\u0648 \u0644\u064a\u0647\u0627 \u0641\u064a\u062a \u0634\u0627\u0628 \u0639\u0628\u0627\u0633",
       "url": "https://open.spotify.com/track/0qtTV779VjZD2GpRrz2iCi"

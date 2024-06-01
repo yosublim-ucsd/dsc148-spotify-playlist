@@ -2,9 +2,9 @@
 
 ### [RADAR Thailand 2024](https://open.spotify.com/playlist/37i9dQZF1DX4Q8j1DJOWem)
 
-> สุดในรุ่น! กับศิลปิน RADAR 2024 มารู้จักพวกเขาให้มากขึ้นที่นี่เลย! ปก: MONICA
+> สุดในรุ่น! กับศิลปิน RADAR 2024 มารู้จักพวกเขาให้มากขึ้นที่นี่เลย! ปก: 2Ectasy
 
-185 songs - 11 hr 37 min
+186 songs - 11 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [จดจำ](https://open.spotify.com/track/2CjNvED1BSLPG1jYENA0QS) | [Only Monday](https://open.spotify.com/artist/2zByTMDKM5g76Kbz4huf0A) | [จดจำ \- Single](https://open.spotify.com/album/60XMexQBFQjM99UfV0QdoR) | 5:34 | 2024-02-18 | 2024-03-29 |
 | [จะผ่านกี่วาเลนไทน์แต่สุดท้ายก็ต้องเหงาอยู่เหมือนเดิม](https://open.spotify.com/track/2Oo2kXEHcLN6ICFJvWXB6m) | [wish.](https://open.spotify.com/artist/6GZyaaDSiWwDYjBySZh3rR) | [จะผ่านกี่วาเลนไทน์แต่สุดท้ายก็ต้องเหงาอยู่เหมือนเดิม](https://open.spotify.com/album/3iwaSTaT06oZz4NvW4iasm) | 3:17 | 2023-04-13 | 2023-05-09 |
 | [จากตรงนี้ที่\(เคย\)สวยงาม \[La La Bye\]](https://open.spotify.com/track/4fwPmzupzsPEzwquuuVaiw) | [AYLA's](https://open.spotify.com/artist/2XiaPu2j4nBMhF8pIlt6Bk) | [จากตรงนี้ที่\(เคย\)สวยงาม \[La La Bye\]](https://open.spotify.com/album/1XgD84QIPjOXQps6PisWMM) | 4:48 | 2023-04-13 | 2024-03-29 |
+| [จำต้องลา](https://open.spotify.com/track/7tkz8JRnB7IPyXm4403Czz) | [MONICA](https://open.spotify.com/artist/47KiQg20CB8KsTCAtF5aIc) | [จำต้องลา \- Single](https://open.spotify.com/album/3KEYfYPE4lWgzjrYkG2uOC) | 4:14 | 2024-05-31 |  |
 | [จิ๊กโก๋ลาบวช](https://open.spotify.com/track/6pQjWG8NCPuZUKPZJssaTJ) | [SPRITE](https://open.spotify.com/artist/0sfCNfNJnqVgcPHcO9htcy) | [จิ๊กโก๋ลาบวช](https://open.spotify.com/album/3QlEM3qaBzU9YESHaQqFxf) | 2:09 | 2023-08-25 | 2023-09-02 |
 | [ฉันคือดวงจันทร์](https://open.spotify.com/track/31zp8z4bBxJrNCv3IfQrMs) | [MONICA](https://open.spotify.com/artist/47KiQg20CB8KsTCAtF5aIc) | [ฉันคือดวงจันทร์ \- Single](https://open.spotify.com/album/1TZk7mL2G41vPNuVJri3ib) | 3:33 | 2024-03-28 |  |
 | [ฉันสัญญาจะไม่ร้องไห้ \(ดวงดาวที่โหดร้าย\)](https://open.spotify.com/track/5Rrn7VUOFMyYK5Gy7cA4AK) | [เรนิษรา](https://open.spotify.com/artist/2UmVsCJpQoAGPcaKbCyheW) | [ฉันสัญญาจะไม่ร้องไห้ \(ดวงดาวที่โหดร้าย\)](https://open.spotify.com/album/0Dl48BAHraILiXW5rO9uIC) | 4:38 | 2023-04-13 | 2023-08-26 |

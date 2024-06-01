@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover: Masdddho",
+  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover: Ndarboy Genk",
   "name": "Boso Jowo",
   "tracks": [
     {
@@ -2661,6 +2661,24 @@
     },
     {
       "album": {
+        "name": "LDR",
+        "url": "https://open.spotify.com/album/5zAb03GyKz471c7cGmijfc"
+      },
+      "artists": [
+        {
+          "name": "Woro Widowati",
+          "url": "https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306956,
+      "name": "LDR",
+      "url": "https://open.spotify.com/track/0e3bJ0Tn5uOwT6vf618sTs"
+    },
+    {
+      "album": {
         "name": "LDR \"Langgeng Dayaning Rasa\" (Live)",
         "url": "https://open.spotify.com/album/43ADbfX3YZNScepulXm8dO"
       },
@@ -3771,6 +3789,24 @@
     },
     {
       "album": {
+        "name": "Nona Jelita",
+        "url": "https://open.spotify.com/album/0O5lGQLkUOq4G6QMiSYlPr"
+      },
+      "artists": [
+        {
+          "name": "Ndarboy Genk",
+          "url": "https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358939,
+      "name": "Nona Jelita",
+      "url": "https://open.spotify.com/track/0uF0r2nmmM90FefkgsbZ63"
+    },
+    {
+      "album": {
         "name": "Nostalgia",
         "url": "https://open.spotify.com/album/5I3UANRadKoF3ZuXXwjFD0"
       },
@@ -4613,6 +4649,24 @@
     },
     {
       "album": {
+        "name": "Ra Nalar",
+        "url": "https://open.spotify.com/album/0QzMOzJfQpr0aK2Jsf5dew"
+      },
+      "artists": [
+        {
+          "name": "OMWAWES",
+          "url": "https://open.spotify.com/artist/4SsvQOTuKik8GmK6GtB21A"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291897,
+      "name": "Ra Nalar",
+      "url": "https://open.spotify.com/track/1w0tTUCXWSyaFSWGZKavzg"
+    },
+    {
+      "album": {
         "name": "Raiso Dadi Siji",
         "url": "https://open.spotify.com/album/3cfccXUASX1GMldjNhn3tV"
       },
@@ -5076,6 +5130,28 @@
       "duration_ms": 270666,
       "name": "Sak Dheg Sak Nyet",
       "url": "https://open.spotify.com/track/4nfyju9QoSwzwEZsyn7Tgs"
+    },
+    {
+      "album": {
+        "name": "Saktenane 2",
+        "url": "https://open.spotify.com/album/0Jaba6NDAsXAVgoBNZmNSh"
+      },
+      "artists": [
+        {
+          "name": "Vadesta",
+          "url": "https://open.spotify.com/artist/7vAiI188SHEmVcvPgqnzYO"
+        },
+        {
+          "name": "Destya Eka",
+          "url": "https://open.spotify.com/artist/3hAh6rSElYkDlnIAE9E1M2"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363000,
+      "name": "Saktenane 2",
+      "url": "https://open.spotify.com/track/4eotObB3STP9JwjGW6QbWW"
     },
     {
       "album": {

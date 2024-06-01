@@ -763,6 +763,24 @@
     },
     {
       "album": {
+        "name": "Dream a Little Dream of Me (Acoustic)",
+        "url": "https://open.spotify.com/album/2G2lk9Ge11GkDwlBR9BbUJ"
+      },
+      "artists": [
+        {
+          "name": "Sands of Summer",
+          "url": "https://open.spotify.com/artist/43vjXOqFOUcodqUtWIRptz"
+        }
+      ],
+      "date_added": "2024-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158918,
+      "name": "Dream a Little Dream of Me - Acoustic",
+      "url": "https://open.spotify.com/track/2FzyBzNl3GdsUEu6UYvgaa"
+    },
+    {
+      "album": {
         "name": "Dreams (Acoustic)",
         "url": "https://open.spotify.com/album/23JGW0yrp2NyWwlhiOrjzY"
       },
@@ -2685,6 +2703,24 @@
     },
     {
       "album": {
+        "name": "Never Gonna Give You Up (Acoustic)",
+        "url": "https://open.spotify.com/album/1S8QuVTrjyVNPrsDIdcjpk"
+      },
+      "artists": [
+        {
+          "name": "Paul Canning",
+          "url": "https://open.spotify.com/artist/6KJzTOkw6FCQx81JK09TJN"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176187,
+      "name": "Never Gonna Give You Up - Acoustic",
+      "url": "https://open.spotify.com/track/6tpYrSlAy3AI2RQilzawrm"
+    },
+    {
+      "album": {
         "name": "Never Gonna Give You Up (Acoustic Live Session)",
         "url": "https://open.spotify.com/album/6Ol46XddMOINuLH5liivU0"
       },
@@ -3570,7 +3606,7 @@
       ],
       "date_added": "2024-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 162362,
       "name": "This Kiss - Acoustic",
       "url": "https://open.spotify.com/track/3AqkRNDw7B5vukDtnXy8zJ"

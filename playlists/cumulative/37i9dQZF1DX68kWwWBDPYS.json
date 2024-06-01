@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-08-09",
-  "description": "puros morrxs haciendo m\u00fasica chida. Wuicho kun en portada.",
+  "description": "puros morrxs haciendo m\u00fasica chida. M\u00eda Salinas en portada.",
   "name": "indie fresco",
   "tracks": [
     {
@@ -20,6 +20,24 @@
       "duration_ms": 133821,
       "name": "100 Km",
       "url": "https://open.spotify.com/track/3cLSJJSmuwUEid0zXm21Uv"
+    },
+    {
+      "album": {
+        "name": "309",
+        "url": "https://open.spotify.com/album/3ajXi0OL6QOjX3wyCMCHFI"
+      },
+      "artists": [
+        {
+          "name": "Andru",
+          "url": "https://open.spotify.com/artist/3oOQ670Uw0UyVnmj9XM58W"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273066,
+      "name": "309",
+      "url": "https://open.spotify.com/track/1oIraT61b04Xd9K92KvwV3"
     },
     {
       "album": {
@@ -375,6 +393,24 @@
     },
     {
       "album": {
+        "name": "Sentimiento Adolescente",
+        "url": "https://open.spotify.com/album/2Ch6jQyfaHvygL1HAUpLI0"
+      },
+      "artists": [
+        {
+          "name": "Mia Salinas",
+          "url": "https://open.spotify.com/artist/7joyMZS5bboTR4PghWa3Um"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139773,
+      "name": "Anti Rom\u00e1ntico",
+      "url": "https://open.spotify.com/track/6tygf4vQt081mDrHAUOaUZ"
+    },
+    {
+      "album": {
         "name": "Antisocial",
         "url": "https://open.spotify.com/album/0ojvLswWgJky4lzYB15dIk"
       },
@@ -521,6 +557,28 @@
     },
     {
       "album": {
+        "name": "CARDIO",
+        "url": "https://open.spotify.com/album/07yFwMDQW8uDu48chfn9mq"
+      },
+      "artists": [
+        {
+          "name": "Alexia Mariel",
+          "url": "https://open.spotify.com/artist/6SDSKrIIGibHeQGx8s9Yyn"
+        },
+        {
+          "name": "Barovier",
+          "url": "https://open.spotify.com/artist/4R1nd0QT6rtLh6KKWKXeQh"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146843,
+      "name": "CARDIO",
+      "url": "https://open.spotify.com/track/5iqIWY7nfKVQQMfydhuBT0"
+    },
+    {
+      "album": {
         "name": "Cari\u00f1o",
         "url": "https://open.spotify.com/album/4yBbkmhuo54wbN5b0WFW3g"
       },
@@ -604,7 +662,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 220513,
       "name": "Coraz\u00f3n, t\u00fa te mereces todo",
       "url": "https://open.spotify.com/track/5peXQ4HJeGZ7xP8ymPlgku"
@@ -962,7 +1020,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 195720,
       "name": "Extra\u00f1os de Nuevo",
       "url": "https://open.spotify.com/track/4vV6excnr7nrFInnJgh7Ta"
@@ -1067,6 +1125,24 @@
     },
     {
       "album": {
+        "name": "Idiota",
+        "url": "https://open.spotify.com/album/2Ijg105iAPEqjlgt7H7cC7"
+      },
+      "artists": [
+        {
+          "name": "Jacinto",
+          "url": "https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131253,
+      "name": "Idiota",
+      "url": "https://open.spotify.com/track/0obiVvoMb80sR2oWDtJLOD"
+    },
+    {
+      "album": {
         "name": "Injusto",
         "url": "https://open.spotify.com/album/4bZe1QnqD5bYWSo7Aj6YYd"
       },
@@ -1118,7 +1194,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 164838,
       "name": "Kimika",
       "url": "https://open.spotify.com/track/5dErCBe0TONgFsQze2nlhx"
@@ -1292,7 +1368,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 224761,
       "name": "LOVELANGUAGE",
       "url": "https://open.spotify.com/track/5SuMst3sQt8wf94iGoXXLw"
@@ -1350,6 +1426,28 @@
       "duration_ms": 193514,
       "name": "Maggia",
       "url": "https://open.spotify.com/track/4WOz1kTSzTeGtmJOqDLf8I"
+    },
+    {
+      "album": {
+        "name": "Me Dej\u00f3 en Buz\u00f3n",
+        "url": "https://open.spotify.com/album/5Z3EwgGmj9VSL2YKVfZ3f9"
+      },
+      "artists": [
+        {
+          "name": "Azul de Viena",
+          "url": "https://open.spotify.com/artist/2Ie8P8WAdI3FMvEuWS52pQ"
+        },
+        {
+          "name": "Valdo Rodriguez",
+          "url": "https://open.spotify.com/artist/4h949lAuNvDdg5UKXPA6x4"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231093,
+      "name": "Me Dej\u00f3 en Buz\u00f3n",
+      "url": "https://open.spotify.com/track/1reJ1AtC7LuXg9uK0YmQsc"
     },
     {
       "album": {
@@ -1588,7 +1686,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 141760,
       "name": "Olivia Rodrigo",
       "url": "https://open.spotify.com/track/2jSijYfc6NxLkh1NvmSLCM"
@@ -1610,7 +1708,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 217615,
       "name": "Para Ti",
       "url": "https://open.spotify.com/track/2B9fz9WW4XRg1ExCZnfuAI"
@@ -2050,6 +2148,28 @@
       "duration_ms": 196071,
       "name": "Solo Los Amantes Sobreviven",
       "url": "https://open.spotify.com/track/7irJUUYtWxt3fRFfjGIDXF"
+    },
+    {
+      "album": {
+        "name": "Soy",
+        "url": "https://open.spotify.com/album/2LjhxpZW8vFdZgKZ0v9IKY"
+      },
+      "artists": [
+        {
+          "name": "Sous-Sol",
+          "url": "https://open.spotify.com/artist/6npvMAuRzmnkSxIlxwdG0T"
+        },
+        {
+          "name": "Majo Puente",
+          "url": "https://open.spotify.com/artist/1pyvvzBs5rAleQc3hKyMte"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159789,
+      "name": "Soy",
+      "url": "https://open.spotify.com/track/3ILJACdliRYuUYu6kvnqtq"
     },
     {
       "album": {

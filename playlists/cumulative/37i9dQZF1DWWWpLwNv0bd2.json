@@ -3093,6 +3093,32 @@
     },
     {
       "album": {
+        "name": "Neelorpam (From \"Indian 2\")",
+        "url": "https://open.spotify.com/album/2xAwXEWiFujhLby1lYopoe"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Abby V",
+          "url": "https://open.spotify.com/artist/73VDhvYEhL7FbnDPaNTUmX"
+        },
+        {
+          "name": "Shruthika Samudhrala",
+          "url": "https://open.spotify.com/artist/6tV6eU1gwsruSzN4PyDJWe"
+        }
+      ],
+      "date_added": "2024-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305357,
+      "name": "Neelorpam (From \"Indian 2\")",
+      "url": "https://open.spotify.com/track/6B7VV8M68NhKxHsd2nkFsZ"
+    },
+    {
+      "album": {
         "name": "Neethanadi (From \"Enna Solla Pogirai\")",
         "url": "https://open.spotify.com/album/0WtJQoUW14v8LbJNb4yIJg"
       },
@@ -4230,6 +4256,32 @@
       "duration_ms": 134204,
       "name": "Sol (From \"Ponniyin Selvan Part-1\")",
       "url": "https://open.spotify.com/track/0XosgadxA79fBBV6meKDAs"
+    },
+    {
+      "album": {
+        "name": "Soodaana (From \"Pushpa 2 The Rule\") [TAMIL]",
+        "url": "https://open.spotify.com/album/0VIsoxBf7IGKAYoQvKV5pq"
+      },
+      "artists": [
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Devi Sri Prasad",
+          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
+        },
+        {
+          "name": "Viveka",
+          "url": "https://open.spotify.com/artist/5r80gH9ibGjUVSQrXD8W7Z"
+        }
+      ],
+      "date_added": "2024-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260134,
+      "name": "Soodaana (From \"Pushpa 2 The Rule\") [TAMIL]",
+      "url": "https://open.spotify.com/track/3mIyypFRBKUgcaFp70EfTW"
     },
     {
       "album": {

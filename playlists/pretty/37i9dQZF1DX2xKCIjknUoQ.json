@@ -1,6 +1,6 @@
 {
   "description": "Le meilleur du rock fran\u00e7ais moderne. Photo : Skip The Use",
-  "num_followers": 43540,
+  "num_followers": 43626,
   "original_name": "G\u00e9n\u00e9ration Rock Fran\u00e7ais",
   "owner": {
     "name": "Spotify",
@@ -783,6 +783,22 @@
     {
       "added_at": "2022-10-14 12:55:19",
       "album": {
+        "name": "Street Trash",
+        "url": "https://open.spotify.com/album/5H5wogwt7titOvQyo6r1rS"
+      },
+      "artists": [
+        {
+          "name": "Enhancer",
+          "url": "https://open.spotify.com/artist/1ZMwAUWdG4agL20Lxsv5Ah"
+        }
+      ],
+      "duration_ms": 200866,
+      "name": "Cingl\u00e9s",
+      "url": "https://open.spotify.com/track/47D4jhH08KvIh0cDCT66Jv"
+    },
+    {
+      "added_at": "2022-10-14 12:55:19",
+      "album": {
         "name": "Les conqu\u00eates (Deluxe edition)",
         "url": "https://open.spotify.com/album/4EGzP5VOcMpD3wolbI8Fcj"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 210906,
       "name": "La travers\u00e9e",
       "url": "https://open.spotify.com/track/2pgOiAr03DlaNLFwljFwF6"
-    },
-    {
-      "added_at": "2022-10-14 12:55:19",
-      "album": {
-        "name": "Weathering",
-        "url": "https://open.spotify.com/album/4fRujS6zU3icVHKbTZMbGn"
-      },
-      "artists": [
-        {
-          "name": "Last Train",
-          "url": "https://open.spotify.com/artist/4S47feOS2ATuhc7Ao5ilfG"
-        }
-      ],
-      "duration_ms": 237853,
-      "name": "Way Out",
-      "url": "https://open.spotify.com/track/5NWLroOOcY9s6sBMT4BbAI"
     }
   ],
   "unique_name": "G\u00e9n\u00e9ration Rock Fran\u00e7ais",

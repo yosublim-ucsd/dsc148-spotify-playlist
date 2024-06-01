@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 
 > Hot & new K\-Drama OSTs are here! \(Cover: Lovely Runner\(선재 업고 튀어\)\) \(인기 있는 화제의 OST곡들을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,519,871 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,521,514 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 | 8 | [Like A Dream](https://open.spotify.com/track/4Kw1ykVLHoFQxOPSVd8R2E) | [MINNIE](https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX) | [Lovely Runner, Pt\. 3 \(Original Soundtrack\)](https://open.spotify.com/album/5fqhw5RIuAu14Na1ld2FFC) | 4:09 |
 | 9 | [Just two like friends \(Come travel with me, Mom? X Kwak Jin Eon\) \(Original Soundtrack\)](https://open.spotify.com/track/0Rw01MTWw2086rLqNLwxG2) | [Kwak Jin Eon](https://open.spotify.com/artist/4xQ4GjBomHvTRL1GO624zd) | [Just two like friends \(Come travel with me, Mom? X Kwak Jin Eon\) \(Original Soundtrack\)](https://open.spotify.com/album/3UKYmcy742I9QAZ8aC9XY4) | 4:52 |
 | 10 | [Love Is Like The Wind](https://open.spotify.com/track/2RZNDSRs5aXdoEwvcf74Ti) | [HAEUN](https://open.spotify.com/artist/7BYHne6KtWNlbJnjZwLLRW) | [Missing Crown Prince \(Original Television Soundtrack\) Pt\. 4 \- Love Is Like The Wind](https://open.spotify.com/album/2DGXz0USHVje4KFPUMfogv) | 4:21 |
-| 11 | [La Puta](https://open.spotify.com/track/3Zl3GZDFHxFXOVleILTu0n) | [Yi Sung Yol](https://open.spotify.com/artist/1uwchldM1ngqs8xCZg0DK9) | [The Atypical Family \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/1eHNGz5204SsrzVcBB5HTZ) | 3:16 |
+| 11 | [Laputa](https://open.spotify.com/track/3Zl3GZDFHxFXOVleILTu0n) | [Yi Sung Yol](https://open.spotify.com/artist/1uwchldM1ngqs8xCZg0DK9) | [The Atypical Family \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/1eHNGz5204SsrzVcBB5HTZ) | 3:16 |
 | 12 | [Cliffhanger](https://open.spotify.com/track/3wk7lkm71e9MyrRsv6Y4kY) | [Zior Park](https://open.spotify.com/artist/4gkSpcyfxtm5OFoZCYWTeD) | [Frankly Speaking \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/4jbVKnctBEAvF3yuJdfU5s) | 3:02 |
 | 13 | [How do you live](https://open.spotify.com/track/1nBmZE0EPaYUc8EwSuMXw3) | [Damu](https://open.spotify.com/artist/2djPGnMPnVWhKcVvjcpAF6) | [Without Blood or Tears OST Part.18 \(Soundtrack\)](https://open.spotify.com/album/6kjIExJY9e72TqDnuatf34) | 3:32 |
 | 14 | [Asteroid](https://open.spotify.com/track/5LNhOvs9MCjOm6KX7SUCNZ) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [Frankly Speaking \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/1UZv8TljWIMOMh1pgO3Bf5) | 3:14 |

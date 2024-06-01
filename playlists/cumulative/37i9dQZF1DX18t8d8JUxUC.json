@@ -1356,7 +1356,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 202610,
       "name": "Luces",
       "url": "https://open.spotify.com/track/25j1JelJbw6qcWSrwm6GAh"
@@ -2588,6 +2588,28 @@
       "duration_ms": 208029,
       "name": "Veintitr\u00e9s",
       "url": "https://open.spotify.com/track/2co4KEm7qwRBLkBhhy6Z8h"
+    },
+    {
+      "album": {
+        "name": "Veo Veo",
+        "url": "https://open.spotify.com/album/2cigOfCH3CpVOO5JvfvPwf"
+      },
+      "artists": [
+        {
+          "name": "Gisun",
+          "url": "https://open.spotify.com/artist/0m7deAVzyDICJb3x1Lu8kj"
+        },
+        {
+          "name": "Anthony Escand\u00f3n",
+          "url": "https://open.spotify.com/artist/2eaNtiW6LwYMhyGIxmJ90J"
+        }
+      ],
+      "date_added": "2024-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207999,
+      "name": "Veo Veo",
+      "url": "https://open.spotify.com/track/4j9pS5hEbPGQYhCscA7chz"
     },
     {
       "album": {

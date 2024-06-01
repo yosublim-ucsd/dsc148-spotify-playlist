@@ -1,13 +1,173 @@
 {
-  "description": "The best new pop music by independent artists and labels. Cover: Caity Krone Artwork by Paola Saliby",
-  "num_followers": 210634,
+  "description": "The best new pop music by independent artists and labels. Cover: Norah Hendriks Artwork by Paola Saliby",
+  "num_followers": 210771,
   "original_name": "Fresh Finds Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zk4LMQAAAABTU6xQF+OUmXWBxprtw3NG",
+  "snapshot_id": "Zlc1LAAAAAA3XvTWPXyveBmMTeIzLAEt",
   "tracks": [
+    {
+      "added_at": "2024-05-29 13:26:51",
+      "album": {
+        "name": "Rough Love",
+        "url": "https://open.spotify.com/album/315te35WGbPTh4fYj1INfL"
+      },
+      "artists": [
+        {
+          "name": "Norah Hendriks",
+          "url": "https://open.spotify.com/artist/6hxi3TzUBLGeBT1GCGA3sT"
+        }
+      ],
+      "duration_ms": 261937,
+      "name": "Rough Love",
+      "url": "https://open.spotify.com/track/1uFZAtVtDcBxLMRTecIsFI"
+    },
+    {
+      "added_at": "2024-05-29 13:26:51",
+      "album": {
+        "name": "JESTERMAN",
+        "url": "https://open.spotify.com/album/2uhSDUavjgBCB46C5rYqUQ"
+      },
+      "artists": [
+        {
+          "name": "Keli Holiday",
+          "url": "https://open.spotify.com/artist/53IyqdnGZpmI0dRsySPdIM"
+        }
+      ],
+      "duration_ms": 194799,
+      "name": "lowdown",
+      "url": "https://open.spotify.com/track/4s10wX7nZoqgP8erbDwekP"
+    },
+    {
+      "added_at": "2024-05-29 13:26:51",
+      "album": {
+        "name": "Yangtze",
+        "url": "https://open.spotify.com/album/7hN7fldovxCYwcy17oLIO2"
+      },
+      "artists": [
+        {
+          "name": "Amanda Cy",
+          "url": "https://open.spotify.com/artist/7ocbmQfDODtTh1CFeK66wW"
+        }
+      ],
+      "duration_ms": 186333,
+      "name": "Yangtze",
+      "url": "https://open.spotify.com/track/6hUzIwvfD7BonU8vyLbKWk"
+    },
+    {
+      "added_at": "2024-05-29 13:26:51",
+      "album": {
+        "name": "Like You Used To",
+        "url": "https://open.spotify.com/album/7j3SAf1ObSZg3aWi1tkssR"
+      },
+      "artists": [
+        {
+          "name": "Hunter Daily",
+          "url": "https://open.spotify.com/artist/5t5Fbw7cQgZyJnyJhmanlW"
+        }
+      ],
+      "duration_ms": 230899,
+      "name": "Like You Used To",
+      "url": "https://open.spotify.com/track/6l6ycuWiB5kaDRAObqzedo"
+    },
+    {
+      "added_at": "2024-05-29 13:26:51",
+      "album": {
+        "name": "This Isn't Over",
+        "url": "https://open.spotify.com/album/6Pp7FsNjfsVdZfdo3ejSOk"
+      },
+      "artists": [
+        {
+          "name": "Abi Carter",
+          "url": "https://open.spotify.com/artist/6ryJRp2gIl77hK36D8tz2m"
+        }
+      ],
+      "duration_ms": 154450,
+      "name": "This Isn't Over",
+      "url": "https://open.spotify.com/track/019G5CuO3xezSEL6XaVtu7"
+    },
+    {
+      "added_at": "2024-05-29 13:26:51",
+      "album": {
+        "name": "Little One",
+        "url": "https://open.spotify.com/album/4xD7rx6VteQLcL4F59Tr5t"
+      },
+      "artists": [
+        {
+          "name": "Surely Shirley",
+          "url": "https://open.spotify.com/artist/1X6Wtc4LhhMVsG78I869pB"
+        }
+      ],
+      "duration_ms": 217194,
+      "name": "Little One",
+      "url": "https://open.spotify.com/track/25CDamD1ROTPzl0sxP3rqs"
+    },
+    {
+      "added_at": "2024-05-29 13:26:51",
+      "album": {
+        "name": "Dangerous",
+        "url": "https://open.spotify.com/album/1DzbWIh7tTnbyLV0NzWmJO"
+      },
+      "artists": [
+        {
+          "name": "Rubina",
+          "url": "https://open.spotify.com/artist/0LiwgXVesl4813KSchUH1M"
+        }
+      ],
+      "duration_ms": 165507,
+      "name": "Dangerous",
+      "url": "https://open.spotify.com/track/5sVGUMG3JxHXC70IGTjmK1"
+    },
+    {
+      "added_at": "2024-05-29 13:26:51",
+      "album": {
+        "name": "Drives Me Crazy",
+        "url": "https://open.spotify.com/album/0QN5ToOHmKm01Te3J4Pfpg"
+      },
+      "artists": [
+        {
+          "name": "Tobias Defoe",
+          "url": "https://open.spotify.com/artist/4UWYwl77CmLOHrz7Zehl2l"
+        }
+      ],
+      "duration_ms": 196595,
+      "name": "Drives Me Crazy",
+      "url": "https://open.spotify.com/track/4wRYig1iN6PwIEHGVxmDyA"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Most Wanted",
+        "url": "https://open.spotify.com/album/2DZrZqI45PpoQ4bzQoj2Vf"
+      },
+      "artists": [
+        {
+          "name": "Kinck",
+          "url": "https://open.spotify.com/artist/3WIqCpjYUrR2Bt9rFYNaej"
+        }
+      ],
+      "duration_ms": 150699,
+      "name": "Honeypot",
+      "url": "https://open.spotify.com/track/5toaAXAOsjHs3aK2d6nJqW"
+    },
+    {
+      "added_at": "2024-05-29 13:26:51",
+      "album": {
+        "name": "Flinch",
+        "url": "https://open.spotify.com/album/6SxQwyvLePhNTGyGSwX0Mp"
+      },
+      "artists": [
+        {
+          "name": "Ines Rae",
+          "url": "https://open.spotify.com/artist/40SsHWSC0ThXW2Gnq9KEBi"
+        }
+      ],
+      "duration_ms": 159138,
+      "name": "Flinch",
+      "url": "https://open.spotify.com/track/6VEYbd3zZVQLHH2u28fXbO"
+    },
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
@@ -39,6 +199,54 @@
       "duration_ms": 199535,
       "name": "Someone",
       "url": "https://open.spotify.com/track/0D0bi3xh6KJVmZGf27bKR3"
+    },
+    {
+      "added_at": "2024-05-29 13:26:51",
+      "album": {
+        "name": "i win",
+        "url": "https://open.spotify.com/album/55SUwxMlaNT4gsTDJtlLWd"
+      },
+      "artists": [
+        {
+          "name": "REYA",
+          "url": "https://open.spotify.com/artist/5UZpstjG63lGYQLT8qXPyE"
+        }
+      ],
+      "duration_ms": 76384,
+      "name": "i win",
+      "url": "https://open.spotify.com/track/64XQVX4dMJiMrgso3vHn0o"
+    },
+    {
+      "added_at": "2024-05-29 13:26:51",
+      "album": {
+        "name": "BAD",
+        "url": "https://open.spotify.com/album/6fLH6vOljGjdAygO4qJ9PA"
+      },
+      "artists": [
+        {
+          "name": "Mint Simon",
+          "url": "https://open.spotify.com/artist/6CEtNCfXfEPpei0YBb0ZCh"
+        }
+      ],
+      "duration_ms": 158000,
+      "name": "BAD",
+      "url": "https://open.spotify.com/track/2fv6RtYYHCg4qdlAAXePkM"
+    },
+    {
+      "added_at": "2024-05-29 13:26:51",
+      "album": {
+        "name": "Bad Habits",
+        "url": "https://open.spotify.com/album/4MAA23qPFN2QwPEPPdCr9z"
+      },
+      "artists": [
+        {
+          "name": "Alex De Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5z1T1cdQQtn7tKVSG2TFb3"
+        }
+      ],
+      "duration_ms": 195514,
+      "name": "Bad Habits",
+      "url": "https://open.spotify.com/track/0QEh4IZ1nr5lXK63lLZ8na"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -87,22 +295,6 @@
       "duration_ms": 240260,
       "name": "Sound of Heartache",
       "url": "https://open.spotify.com/track/6ls0Col3YKJSjEBVtjyVLD"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "Most Wanted",
-        "url": "https://open.spotify.com/album/2DZrZqI45PpoQ4bzQoj2Vf"
-      },
-      "artists": [
-        {
-          "name": "Kinck",
-          "url": "https://open.spotify.com/artist/3WIqCpjYUrR2Bt9rFYNaej"
-        }
-      ],
-      "duration_ms": 150699,
-      "name": "Honeypot",
-      "url": "https://open.spotify.com/track/5toaAXAOsjHs3aK2d6nJqW"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1367,22 +1559,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Girl Friend",
-        "url": "https://open.spotify.com/album/1j9FQh3VXAUBQDRdUmztIX"
-      },
-      "artists": [
-        {
-          "name": "Hunter Daily",
-          "url": "https://open.spotify.com/artist/5t5Fbw7cQgZyJnyJhmanlW"
-        }
-      ],
-      "duration_ms": 179729,
-      "name": "Girl Friend",
-      "url": "https://open.spotify.com/track/3FDJSVSr1znwkNjHRugwCM"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "White Lies",
         "url": "https://open.spotify.com/album/2E1WfryrNzCwCgn9QOXeZA"
       },
@@ -1463,22 +1639,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Ride",
-        "url": "https://open.spotify.com/album/2OxorM1EAEHLLOFbsZFREo"
-      },
-      "artists": [
-        {
-          "name": "Obeeyay",
-          "url": "https://open.spotify.com/artist/16CbxK4vGxHUHFD47SJh16"
-        }
-      ],
-      "duration_ms": 152041,
-      "name": "Ride",
-      "url": "https://open.spotify.com/track/3HZgQNLNcrIYQZOO10lxZX"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Middle Name (with Mckenna Grace)",
         "url": "https://open.spotify.com/album/0uSJ41W8lppeei1i7b7EAv"
       },
@@ -1531,22 +1691,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "clocks",
-        "url": "https://open.spotify.com/album/2uUEmLQbqZMtgTdN6AkQ60"
-      },
-      "artists": [
-        {
-          "name": "Alayna Grace",
-          "url": "https://open.spotify.com/artist/3Y6fsLnLUTNGc2BpscCdL1"
-        }
-      ],
-      "duration_ms": 190500,
-      "name": "clocks",
-      "url": "https://open.spotify.com/track/4QpM0qoxJ9JxpggqXrDjIt"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Where It Starts",
         "url": "https://open.spotify.com/album/3ujwx9NYELfwhF7AFUp43A"
       },
@@ -1595,38 +1739,6 @@
       "duration_ms": 151829,
       "name": "Call Me Yours",
       "url": "https://open.spotify.com/track/3BZrc6J8hFLzl2qX6l7NZN"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "Moon Girl",
-        "url": "https://open.spotify.com/album/0grzxSQDgSKxqxazfsqECQ"
-      },
-      "artists": [
-        {
-          "name": "Ha Vay",
-          "url": "https://open.spotify.com/artist/4tm5BsY2371mgdIrZ7vZMt"
-        }
-      ],
-      "duration_ms": 206042,
-      "name": "Moon Girl",
-      "url": "https://open.spotify.com/track/0lejxzLZHbUC3reBoa3Zk9"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "God Invented The Radio",
-        "url": "https://open.spotify.com/album/3LkiwCrtp8bTaArEta60Au"
-      },
-      "artists": [
-        {
-          "name": "FILLY",
-          "url": "https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f"
-        }
-      ],
-      "duration_ms": 137827,
-      "name": "God Invented The Radio",
-      "url": "https://open.spotify.com/track/3uxywHpCVUxrc7EyySg6mY"
     }
   ],
   "unique_name": "Fresh Finds Pop",

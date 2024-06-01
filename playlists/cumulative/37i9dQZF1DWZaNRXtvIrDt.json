@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-10",
-  "description": "A new world of alternative electronic music. Cover: Ninajirachi",
+  "description": "A new world of alternative electronic music. \nCover: Human Movement & Ruby May Moon. ",
   "name": "Portal",
   "tracks": [
     {
@@ -664,6 +664,24 @@
       "duration_ms": 268900,
       "name": "Alone",
       "url": "https://open.spotify.com/track/7M1UJSaliSR5dVDIpsbCFz"
+    },
+    {
+      "album": {
+        "name": "Always Forever",
+        "url": "https://open.spotify.com/album/65otcCeyfEPtdY4DZMgPtF"
+      },
+      "artists": [
+        {
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185160,
+      "name": "Always Forever",
+      "url": "https://open.spotify.com/track/2kSeF6yZz3wLFchfnX0xfO"
     },
     {
       "album": {
@@ -1340,7 +1358,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 286274,
       "name": "Birth4000",
       "url": "https://open.spotify.com/track/0ULiCJAR2lmaHrXvs3exRm"
@@ -2310,6 +2328,24 @@
       "duration_ms": 418840,
       "name": "Clapa",
       "url": "https://open.spotify.com/track/4qoOy1JM2jsd6l1vs8DRuq"
+    },
+    {
+      "album": {
+        "name": "Shug",
+        "url": "https://open.spotify.com/album/4siaOH20Zol8irPjB3TNF7"
+      },
+      "artists": [
+        {
+          "name": "2touch",
+          "url": "https://open.spotify.com/artist/2RikPlsCIooWbVXeFikhcq"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189213,
+      "name": "Clears",
+      "url": "https://open.spotify.com/track/2XNAiUiyDFWG5xzNBMuYxN"
     },
     {
       "album": {
@@ -3860,7 +3896,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 300000,
       "name": "Fidget Spinner",
       "url": "https://open.spotify.com/track/7d8YQfetskWmFzQe57TJ1A"
@@ -4002,7 +4038,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 496001,
       "name": "Flores - Meera (NO) Remix",
       "url": "https://open.spotify.com/track/7hJdfNjNHfzXMEmO5PIObo"
@@ -4608,7 +4644,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 147586,
       "name": "Grow From Here",
       "url": "https://open.spotify.com/track/0zd6yHNZihyxehzmlUF6FC"
@@ -4800,7 +4836,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 301297,
       "name": "Haraka \"\u062d\u0631\u0643\u0629\"",
       "url": "https://open.spotify.com/track/5y0PD7uX1pQwT7vgeeGiZ2"
@@ -5600,6 +5636,28 @@
       "duration_ms": 296000,
       "name": "Introspection",
       "url": "https://open.spotify.com/track/3qsjpcqkEnyDItDzV7rkbp"
+    },
+    {
+      "album": {
+        "name": "IOU (with BRUX)",
+        "url": "https://open.spotify.com/album/2GWCMY4iqlcvI44hIvIimD"
+      },
+      "artists": [
+        {
+          "name": "Tentendo",
+          "url": "https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W"
+        },
+        {
+          "name": "BRUX",
+          "url": "https://open.spotify.com/artist/05jtmvy7zPhTp4GQexPkXY"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229853,
+      "name": "IOU (with BRUX)",
+      "url": "https://open.spotify.com/track/5yFBIENkIOeJY1mkjxKG3o"
     },
     {
       "album": {
@@ -6463,6 +6521,24 @@
     },
     {
       "album": {
+        "name": "Lost Grove",
+        "url": "https://open.spotify.com/album/7dUCv8Lt8dVPFniWpAfAA3"
+      },
+      "artists": [
+        {
+          "name": "2XM",
+          "url": "https://open.spotify.com/artist/3mvWwdMf9ypJJKRXg6eL32"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326769,
+      "name": "Lost Grove",
+      "url": "https://open.spotify.com/track/3Snx1ggBSnrfS0d3EWTuy4"
+    },
+    {
+      "album": {
         "name": "Lost Our Way",
         "url": "https://open.spotify.com/album/2z45Z4i72PHfapuGcJxWd0"
       },
@@ -6478,6 +6554,28 @@
       "duration_ms": 213949,
       "name": "Lost Our Way",
       "url": "https://open.spotify.com/track/3en9b3UwYe2fAMinN5vSeq"
+    },
+    {
+      "album": {
+        "name": "Lost Wiv U",
+        "url": "https://open.spotify.com/album/3qsMZEktSawwd4jtBD3bZ5"
+      },
+      "artists": [
+        {
+          "name": "Human Movement",
+          "url": "https://open.spotify.com/artist/37dubgexq6dhyB4eCM3PHZ"
+        },
+        {
+          "name": "Ruby May Moon",
+          "url": "https://open.spotify.com/artist/0EXsIxcmyOEr9VxKwhaatp"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314505,
+      "name": "Lost Wiv U",
+      "url": "https://open.spotify.com/track/1an9nRcgsMCgcZf7mI8Wyz"
     },
     {
       "album": {
@@ -6994,6 +7092,28 @@
       "duration_ms": 171750,
       "name": "Mirror",
       "url": "https://open.spotify.com/track/6E4zjP5FCqZ3D2kVZUGjru"
+    },
+    {
+      "album": {
+        "name": "Miss Me Too (Memphis LK Remix)",
+        "url": "https://open.spotify.com/album/62oj2JeIXdwK4HZOFjJJAR"
+      },
+      "artists": [
+        {
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+        },
+        {
+          "name": "Memphis LK",
+          "url": "https://open.spotify.com/artist/7z3XgqpRYdNJ7RvEUlYaUe"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224590,
+      "name": "Miss Me Too - Memphis LK Remix",
+      "url": "https://open.spotify.com/track/7reDE5m9ASQtg3N66FLCIR"
     },
     {
       "album": {
@@ -7537,6 +7657,24 @@
     },
     {
       "album": {
+        "name": "okay o.k. ok",
+        "url": "https://open.spotify.com/album/54NMCjOftWns4fxTS2tcU3"
+      },
+      "artists": [
+        {
+          "name": "davey",
+          "url": "https://open.spotify.com/artist/7D84vm1nZXH6drPV8L9e6D"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318827,
+      "name": "okay o.k. ok",
+      "url": "https://open.spotify.com/track/0Jt2ewAbUBWbpWqD2TfRN2"
+    },
+    {
+      "album": {
         "name": "On & On (Again) [Edit]",
         "url": "https://open.spotify.com/album/6icyrehEsAbRwrnVPvGn5u"
       },
@@ -7852,7 +7990,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 492500,
       "name": "Outdoor Limit",
       "url": "https://open.spotify.com/track/2Td6XIXTwJXWuLg3amKiZi"
@@ -7980,7 +8118,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 537103,
       "name": "People Are Good - Indira Paganotto Twilight Remix",
       "url": "https://open.spotify.com/track/0YZw12okgfcN1fVcg0n1iH"
@@ -8038,6 +8176,32 @@
       "duration_ms": 304107,
       "name": "Pioneer Digital Plastic Sound",
       "url": "https://open.spotify.com/track/34BbWVBmEuhRP0BS1A2bAS"
+    },
+    {
+      "album": {
+        "name": "places to be",
+        "url": "https://open.spotify.com/album/0M0iJGLagLtI4LlooOiiNZ"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "CHIKA",
+          "url": "https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226677,
+      "name": "places to be",
+      "url": "https://open.spotify.com/track/561pBFcFL2Pwb9HPO9tU8J"
     },
     {
       "album": {
@@ -11528,7 +11692,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 171360,
       "name": "Wasted - Yuto. Remix",
       "url": "https://open.spotify.com/track/5h9FYgx3M1Gn23PeDcMRSb"
@@ -11898,7 +12062,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 305000,
       "name": "Work",
       "url": "https://open.spotify.com/track/5ozsaYgpKHXCYO74579PUk"
@@ -11920,6 +12084,32 @@
       "duration_ms": 200000,
       "name": "Work Don't Stop",
       "url": "https://open.spotify.com/track/2oykIE78Z7BSDrq4VEsMy7"
+    },
+    {
+      "album": {
+        "name": "World Collapsing (jamesjamesjames Remix)",
+        "url": "https://open.spotify.com/album/0oVXgwWwhonzuekSFGR2ql"
+      },
+      "artists": [
+        {
+          "name": "Willaris. K",
+          "url": "https://open.spotify.com/artist/6ZHeg2Op5ZkNppXbNLSglj"
+        },
+        {
+          "name": "The Presets",
+          "url": "https://open.spotify.com/artist/1zTAQ6zkGz2L2i6lfR30EX"
+        },
+        {
+          "name": "jamesjamesjames",
+          "url": "https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350831,
+      "name": "World Collapsing - jamesjamesjames Remix",
+      "url": "https://open.spotify.com/track/3CUAmU1RaZwlD7HlOmrAMc"
     },
     {
       "album": {

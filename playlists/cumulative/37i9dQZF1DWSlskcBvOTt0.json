@@ -7380,7 +7380,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-28",
+      "date_removed": null,
       "duration_ms": 279272,
       "name": "Luminesce",
       "url": "https://open.spotify.com/track/0st9uOHm2Vw345UJKzdvRX"
@@ -7514,7 +7514,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 216290,
       "name": "Madison",
       "url": "https://open.spotify.com/track/7I3lNfFc4kqfTFqugMkoH2"
@@ -9384,7 +9384,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 352986,
       "name": "One Touch",
       "url": "https://open.spotify.com/track/0UrxrZzg8x8xa5GFRRngMS"
@@ -11008,6 +11008,32 @@
       "duration_ms": 210683,
       "name": "Save Us",
       "url": "https://open.spotify.com/track/2gGs5GIOPRiQawcGVAEye3"
+    },
+    {
+      "album": {
+        "name": "Scilla E Cariddi (TR3NACRIA Remix)",
+        "url": "https://open.spotify.com/album/68e9h9IdfSpbhMQsdKITvR"
+      },
+      "artists": [
+        {
+          "name": "Klement Bonelli",
+          "url": "https://open.spotify.com/artist/1LK1ywbyRrajPZgW6IbcR8"
+        },
+        {
+          "name": "Idd Aziz",
+          "url": "https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk"
+        },
+        {
+          "name": "TR3NACRIA",
+          "url": "https://open.spotify.com/artist/1gFiEIH4TiLrNeoq7rktTH"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185365,
+      "name": "Scilla E Cariddi - TR3NACRIA Remix",
+      "url": "https://open.spotify.com/track/0zbtBY7uHGYSMJJazj4K2L"
     },
     {
       "album": {

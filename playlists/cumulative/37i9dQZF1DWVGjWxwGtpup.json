@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Tous les hits latino du moment sont ici. Photo : Rauw Alejandro",
+  "description": "Tous les hits latino du moment sont ici. Photo : FloyyMenor x Cris MJ",
   "name": "Caliente",
   "tracks": [
     {
@@ -1177,6 +1177,24 @@
     },
     {
       "album": {
+        "name": "FUGIR",
+        "url": "https://open.spotify.com/album/4oPvPI24MSemoKysyrajvX"
+      },
+      "artists": [
+        {
+          "name": "Lucenzo",
+          "url": "https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205000,
+      "name": "FUGIR",
+      "url": "https://open.spotify.com/track/5yQkLDiiilYLdSYpf0eXyP"
+    },
+    {
+      "album": {
         "name": "Gafas Negras",
         "url": "https://open.spotify.com/album/3nfeL4QZ0GZfkJbr8FHyHn"
       },
@@ -1756,7 +1774,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 216424,
       "name": "Mamasota",
       "url": "https://open.spotify.com/track/2X8PYX9YX49hA0YeFnWTGZ"

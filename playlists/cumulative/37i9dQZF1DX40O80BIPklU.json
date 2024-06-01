@@ -103,6 +103,28 @@
     },
     {
       "album": {
+        "name": "100k Pies",
+        "url": "https://open.spotify.com/album/4qjuaPMl32PP0ykVfEGhLu"
+      },
+      "artists": [
+        {
+          "name": "Cr\u00e1neo",
+          "url": "https://open.spotify.com/artist/05aVtfDzBvg9eVu9MAZPGD"
+        },
+        {
+          "name": "Robot95",
+          "url": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163973,
+      "name": "100k Pies",
+      "url": "https://open.spotify.com/track/1RxebDqBajjS8vBWWN2ZZK"
+    },
+    {
+      "album": {
         "name": "SMILE BIX :)",
         "url": "https://open.spotify.com/album/3svLfGfwUxt84cOTkyijl8"
       },
@@ -610,6 +632,10 @@
         {
           "name": "Yung Sarria",
           "url": "https://open.spotify.com/artist/3vxYNXtM9uOMdRAXTXgtmf"
+        },
+        {
+          "name": "El High",
+          "url": "https://open.spotify.com/artist/1LViN9Xsu9YIMN6IZJk8Bp"
         }
       ],
       "date_added": "2024-05-10",
@@ -1502,7 +1528,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 208810,
       "name": "Cuando Ya Est\u00e9 Muerto",
       "url": "https://open.spotify.com/track/0uMRnml5GQX5NtYDh1YlDd"
@@ -2662,7 +2688,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 142916,
       "name": "FUCK EL POLICE - REMIX",
       "url": "https://open.spotify.com/track/3oIsx1ixRKtt4bZu9qT8Ut"
@@ -2972,7 +2998,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 234428,
       "name": "Intraterreno",
       "url": "https://open.spotify.com/track/5bcrz9x6c3NfiZlvQNlzzW"
@@ -3484,7 +3510,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 160000,
       "name": "LA VIDA ES TAN DURA",
       "url": "https://open.spotify.com/track/4B8pr92VVnxeN4rkPUQETn"
@@ -4094,7 +4120,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 321951,
       "name": "Malvada",
       "url": "https://open.spotify.com/track/3yE70C2cmJ9FcuIEL7u23e"
@@ -4230,6 +4256,42 @@
       "duration_ms": 185870,
       "name": "Mar y Tierra",
       "url": "https://open.spotify.com/track/3lz3pZ0Jd5XtB4PfgvcHg1"
+    },
+    {
+      "album": {
+        "name": "Martes 13",
+        "url": "https://open.spotify.com/album/6SfMocOzm1gU9EkfQYYTV8"
+      },
+      "artists": [
+        {
+          "name": "Homer El Mero Mero",
+          "url": "https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156322,
+      "name": "Martes 13",
+      "url": "https://open.spotify.com/track/1cNk3FjSc4aQEcR94laLhg"
+    },
+    {
+      "album": {
+        "name": "Matense Por La Corona",
+        "url": "https://open.spotify.com/album/2MHoSraRWUexi2RdZsZiEV"
+      },
+      "artists": [
+        {
+          "name": "J Noa",
+          "url": "https://open.spotify.com/artist/4gknAwZk7sfjge8Bho6xre"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182983,
+      "name": "Matense Por La Corona",
+      "url": "https://open.spotify.com/track/0Aiz2Y6YlCLMiEAavlbzFe"
     },
     {
       "album": {
@@ -4830,10 +4892,32 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 184186,
       "name": "M\u00e1s de Ti",
       "url": "https://open.spotify.com/track/7fRwxP1bj8ktaWxxK3p4pb"
+    },
+    {
+      "album": {
+        "name": "M\u00e1s que un Deporte",
+        "url": "https://open.spotify.com/album/3MoZy2p9kuciXzYvDufIKD"
+      },
+      "artists": [
+        {
+          "name": "Ximbo",
+          "url": "https://open.spotify.com/artist/0RjHsbbdfnI3okpxdZ2JOV"
+        },
+        {
+          "name": "Mike Diaz",
+          "url": "https://open.spotify.com/artist/5pR3pEU0bCMZhhAzag3DUz"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216800,
+      "name": "M\u00e1s que un Deporte",
+      "url": "https://open.spotify.com/track/5NpArbjHBrgFxh2Ul2XURz"
     },
     {
       "album": {
@@ -4908,6 +4992,24 @@
       "duration_ms": 246666,
       "name": "Ni Con Money",
       "url": "https://open.spotify.com/track/4YOtMbDO0RlkGdqGKTM76E"
+    },
+    {
+      "album": {
+        "name": "Ni Te Pienso",
+        "url": "https://open.spotify.com/album/08wZzamnRwL31CwIGA1ssq"
+      },
+      "artists": [
+        {
+          "name": "Geassassin",
+          "url": "https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186350,
+      "name": "Ni Te Pienso",
+      "url": "https://open.spotify.com/track/1DZB8ftk4ZtXykrIhH3lkr"
     },
     {
       "album": {
@@ -6176,7 +6278,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 164000,
       "name": "Sadman (feat. El ultimo del tren)",
       "url": "https://open.spotify.com/track/0h8ePz8yylHQ6xHZIqoD5y"
@@ -6984,7 +7086,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 187865,
       "name": "The Wave",
       "url": "https://open.spotify.com/track/3qdtPhFUPKEwOzgcoQg5z4"
@@ -7353,6 +7455,28 @@
     },
     {
       "album": {
+        "name": "C.D.M",
+        "url": "https://open.spotify.com/album/4LG0QSGf6Tr04tQao5JLC6"
+      },
+      "artists": [
+        {
+          "name": "Rei",
+          "url": "https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "UN MONT\u00d3N",
+      "url": "https://open.spotify.com/track/3IVgBGz3WXKTZ8XqCPuAnw"
+    },
+    {
+      "album": {
         "name": "Una Calada",
         "url": "https://open.spotify.com/album/0zkF6rU4NaLQ9msTqcBGwn"
       },
@@ -7496,6 +7620,24 @@
       "duration_ms": 208968,
       "name": "VICE CITY",
       "url": "https://open.spotify.com/track/1yGmlc8rsoRrKd9CrbgBRF"
+    },
+    {
+      "album": {
+        "name": "Vida Desordenada",
+        "url": "https://open.spotify.com/album/1euZjrA21qK3y9h5AuG8Yg"
+      },
+      "artists": [
+        {
+          "name": "union fatal",
+          "url": "https://open.spotify.com/artist/3oIk1qSjFp5QrM6R44cqbL"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164583,
+      "name": "Vida Desordenada",
+      "url": "https://open.spotify.com/track/5LnjZovOsKPiJaxwf7VKrH"
     },
     {
       "album": {
@@ -7660,6 +7802,28 @@
       "duration_ms": 175456,
       "name": "YO LO SO\u00d1\u00c9",
       "url": "https://open.spotify.com/track/1NTluDanyn4ET8RTYi0H1I"
+    },
+    {
+      "album": {
+        "name": "You Know",
+        "url": "https://open.spotify.com/album/5aign2FhwyRkicO7SO0Xrq"
+      },
+      "artists": [
+        {
+          "name": "Pielroja",
+          "url": "https://open.spotify.com/artist/1g58TQnLHp7eOEnYXfa63k"
+        },
+        {
+          "name": "Alka Produce",
+          "url": "https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180906,
+      "name": "You Know",
+      "url": "https://open.spotify.com/track/5XH4xq8TTe9yRoldMjyDlh"
     },
     {
       "album": {

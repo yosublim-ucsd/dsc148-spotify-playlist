@@ -4,7 +4,7 @@
 
 > We hear you.
 
-674 songs - 1 day 9 hr 23 min
+675 songs - 1 day 9 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -374,7 +374,7 @@
 | [Losing Sleep](https://open.spotify.com/track/6NBP6H1F1L5THU7DFoCNgU) | [Dylan Fraser](https://open.spotify.com/artist/6Awp6fgyzqQ2XuEvOMjq8D) | [Losing Sleep](https://open.spotify.com/album/7o8ly8OTyBXGmh050Iu3A4) | 3:42 | 2021-04-02 | 2022-07-29 |
 | [Losing You](https://open.spotify.com/track/0YXxshSez93ufAdxbfQfRd) | [Tomo](https://open.spotify.com/artist/7eMEpq0mpOCPTnLZaMZqAM) | [Before The Dawn](https://open.spotify.com/album/1EcxPip4KAIlQBjkBLtNdX) | 2:58 | 2022-03-29 | 2022-04-21 |
 | [Lost](https://open.spotify.com/track/3WPYHZy8f7KIS5fVTUmliT) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4) | [Lost](https://open.spotify.com/album/0zjop7Z7ewP36d0dBidpnJ) | 3:57 | 2021-04-02 |  |
-| [lost a friend](https://open.spotify.com/track/0UHYeb8y30S4iImlXQEqbR) | [Saint Harison](https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH) | [lost a friend](https://open.spotify.com/album/267EVw3SYgz2MmFxhBivur) | 2:45 | 2023-06-02 |  |
+| [lost a friend](https://open.spotify.com/track/0UHYeb8y30S4iImlXQEqbR) | [Saint Harison](https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH) | [lost a friend](https://open.spotify.com/album/267EVw3SYgz2MmFxhBivur) | 2:45 | 2023-06-02 | 2024-06-01 |
 | [Lost and Found](https://open.spotify.com/track/1yc79H1wfOV63IKhF7e5OF) | [Towerz](https://open.spotify.com/artist/1bbah9s09626gweOzzLbKG) | [Lost and Found](https://open.spotify.com/album/32jPsEofo7cB4RJ5ggzcJU) | 2:36 | 2021-04-02 | 2022-04-12 |
 | [Lost In Between](https://open.spotify.com/track/0rQV8yyM0fjQmZjlJnIR7Y) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [Lost In Between](https://open.spotify.com/album/3jvcWLmClkYbMO3dqmHg00) | 2:04 | 2021-04-02 | 2022-07-19 |
 | [lost someone](https://open.spotify.com/track/6W6CoZ8ljg8uRC2DZOYWBU) | [anatu](https://open.spotify.com/artist/2ZI8Omfu8U4dVTmmTQ3gCw) | [lost someone](https://open.spotify.com/album/6cdqjl1RgRQGp8J2K4U0Vw) | 2:25 | 2021-04-02 | 2022-07-28 |
@@ -457,6 +457,7 @@
 | [Paradise](https://open.spotify.com/track/2v6ea8WZ0VzWXEbA3f4vrU) | [Hashir](https://open.spotify.com/artist/3daREed4KlrtvohgJjSkJr) | [Paradise](https://open.spotify.com/album/7Jahki7bPBwHTwlzReXHcU) | 2:46 | 2021-04-02 | 2022-05-20 |
 | [party favor](https://open.spotify.com/track/3WxmlTZ85sCYFnuIXmUAEe) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [dont smile at me](https://open.spotify.com/album/7fRrTyKvE4Skh93v97gtcU) | 3:24 | 2022-05-25 | 2023-03-11 |
 | [Past Life](https://open.spotify.com/track/3JjY4IgdeK1w8qMBm0yWyw) | [Trevor Daniel](https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT) | [Past Life](https://open.spotify.com/album/1UYUdHAO3d6iA71X4sj4ak) | 3:01 | 2021-04-02 | 2022-04-20 |
+| [Pececitos](https://open.spotify.com/track/35qTk5ezT7HEtA8xC7O0p0) | [Andrea Bejar](https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8), [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC) | [Pececitos](https://open.spotify.com/album/19VJ9ZcoruQHlefHhHmPlT) | 3:25 | 2024-03-07 |  |
 | [Pendant](https://open.spotify.com/track/45iJnPjul5yDYefM6GEYZB) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Pendant](https://open.spotify.com/album/5Byl3llMQRhBj88mYrEbGS) | 3:55 | 2022-12-09 |  |
 | [perfume](https://open.spotify.com/track/0t52rXOiyAKx1ZoacxuB4B) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [perfume](https://open.spotify.com/album/5aYV9gD4D5E28B1YzuA6Al) | 2:33 | 2021-04-02 | 2022-07-22 |
 | [phone call](https://open.spotify.com/track/3pROjkqzFjsbiyMYOA1hFb) | [itssvd](https://open.spotify.com/artist/5yaF4LUw7ON1RmE4O8Q03C), [dhan](https://open.spotify.com/artist/5ZFGR5cnp0klB7NVzj6oCS) | [phone call](https://open.spotify.com/album/7hIML2J9zYAo3E1lNpIfrA) | 2:01 | 2021-04-02 | 2022-04-21 |

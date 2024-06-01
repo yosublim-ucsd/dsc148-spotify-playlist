@@ -4865,6 +4865,28 @@
     },
     {
       "album": {
+        "name": "Tales of Arabia",
+        "url": "https://open.spotify.com/album/1SvTOqGZICo546QqWGPfYb"
+      },
+      "artists": [
+        {
+          "name": "Nais Flavia",
+          "url": "https://open.spotify.com/artist/3ZyM29YG01TFD0LmcARO13"
+        },
+        {
+          "name": "Cafe De Anatolia",
+          "url": "https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 476280,
+      "name": "Tales of Arabia",
+      "url": "https://open.spotify.com/track/6qv1KggwbT4RSpiyLoiVWC"
+    },
+    {
+      "album": {
         "name": "Tawada",
         "url": "https://open.spotify.com/album/20J0aexp1w6k1KJKQPzR2M"
       },
@@ -5164,7 +5186,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 492000,
       "name": "Tomorrowland",
       "url": "https://open.spotify.com/track/3ykGXRHUjFxcSU0zJ7dOR7"

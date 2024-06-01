@@ -1,15 +1,31 @@
 {
-  "description": "L'Benj en t\u00eate des hits populaires au Maroc.",
-  "num_followers": 258655,
+  "description": "Manal en t\u00eate des hits populaires au Maroc.",
+  "num_followers": 259085,
   "original_name": "Maroc Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlVxQAAAAADoeaxmmmGo60hJOhJTo4pg",
+  "snapshot_id": "ZlmBDQAAAADEAd067FImynGcS/HrY/Nh",
   "tracks": [
     {
-      "added_at": "2024-05-28 05:53:04",
+      "added_at": "2024-05-31 07:49:33",
+      "album": {
+        "name": "MAHBOULA",
+        "url": "https://open.spotify.com/album/6xxm174FrG6Mni52k9UFWL"
+      },
+      "artists": [
+        {
+          "name": "Manal",
+          "url": "https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F"
+        }
+      ],
+      "duration_ms": 169565,
+      "name": "MAHBOULA",
+      "url": "https://open.spotify.com/track/4AS0ncb4OzzAjwvsgWu9XV"
+    },
+    {
+      "added_at": "2024-05-31 07:49:33",
       "album": {
         "name": "HWASI",
         "url": "https://open.spotify.com/album/4pkzeEKYWLG9ffDJKb7QOd"
@@ -25,7 +41,7 @@
       "url": "https://open.spotify.com/track/2HfjQWIHWBmEp2LocJsp11"
     },
     {
-      "added_at": "2024-05-28 05:53:04",
+      "added_at": "2024-05-31 07:49:33",
       "album": {
         "name": "Bomba Internationale",
         "url": "https://open.spotify.com/album/6thmHz667FJDAlkmStkXFW"
@@ -41,7 +57,7 @@
       "url": "https://open.spotify.com/track/61R8xjGtLJSDLqdXchuv7Z"
     },
     {
-      "added_at": "2024-05-28 05:53:04",
+      "added_at": "2024-05-31 07:49:33",
       "album": {
         "name": "Magdar",
         "url": "https://open.spotify.com/album/2BgCJlo2EDx4w5uxTP3hJC"
@@ -57,7 +73,7 @@
       "url": "https://open.spotify.com/track/4vT286Zu3aHYW96N76joB7"
     },
     {
-      "added_at": "2024-05-28 05:53:04",
+      "added_at": "2024-05-31 07:49:33",
       "album": {
         "name": "SPIDER",
         "url": "https://open.spotify.com/album/5stpXgOAVPkVA7WDPB4IZf"
@@ -77,7 +93,7 @@
       "url": "https://open.spotify.com/track/2fFTn0f94EopgZyfSGQuyK"
     },
     {
-      "added_at": "2024-05-28 05:53:04",
+      "added_at": "2024-05-31 07:49:33",
       "album": {
         "name": "Abala Ya Bali (Remix)",
         "url": "https://open.spotify.com/album/504SHDQ5T3JW9eJTfXREK2"
@@ -97,7 +113,7 @@
       "url": "https://open.spotify.com/track/0YQn9vYwK184bhCyEAtbyu"
     },
     {
-      "added_at": "2024-05-28 05:53:04",
+      "added_at": "2024-05-31 07:49:33",
       "album": {
         "name": "Casa (Arabic version)",
         "url": "https://open.spotify.com/album/3EBcgCMoKf3HzudclcHx8I"
@@ -113,7 +129,7 @@
       "url": "https://open.spotify.com/track/076HUj0TPUnBidZdy9PEyx"
     },
     {
-      "added_at": "2024-05-28 05:53:04",
+      "added_at": "2024-05-31 07:49:33",
       "album": {
         "name": "Ghanili",
         "url": "https://open.spotify.com/album/5l7tQsPjmtqu7IkyDREAjI"
@@ -129,23 +145,7 @@
       "url": "https://open.spotify.com/track/0sobdrww1wYUfqhrCAzwz0"
     },
     {
-      "added_at": "2024-05-28 05:53:04",
-      "album": {
-        "name": "MAHBOULA",
-        "url": "https://open.spotify.com/album/6xxm174FrG6Mni52k9UFWL"
-      },
-      "artists": [
-        {
-          "name": "Manal",
-          "url": "https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F"
-        }
-      ],
-      "duration_ms": 169565,
-      "name": "MAHBOULA",
-      "url": "https://open.spotify.com/track/4AS0ncb4OzzAjwvsgWu9XV"
-    },
-    {
-      "added_at": "2024-05-28 05:53:04",
+      "added_at": "2024-05-31 07:49:33",
       "album": {
         "name": "Jelaba",
         "url": "https://open.spotify.com/album/7iQGFJd51Xe1UA1dseLtmM"
@@ -165,7 +165,7 @@
       "url": "https://open.spotify.com/track/2R3LdO45fHZvI0emsSyu8j"
     },
     {
-      "added_at": "2024-05-28 05:53:04",
+      "added_at": "2024-05-31 07:49:33",
       "album": {
         "name": "C'est pas joli",
         "url": "https://open.spotify.com/album/5YOpqhojYXnSkrPgea4WRD"
@@ -181,7 +181,7 @@
       "url": "https://open.spotify.com/track/4SpnH3YDyQeBa2nfMdRlSB"
     },
     {
-      "added_at": "2024-05-28 05:53:04",
+      "added_at": "2024-05-31 07:49:33",
       "album": {
         "name": "Goodbye",
         "url": "https://open.spotify.com/album/4JCbVtET4IE4bMe8cixaHf"
@@ -197,7 +197,23 @@
       "url": "https://open.spotify.com/track/1HJZok3nL68K9ML6Twa1bQ"
     },
     {
-      "added_at": "2024-05-28 05:53:04",
+      "added_at": "2024-05-31 07:49:33",
+      "album": {
+        "name": "Imagine",
+        "url": "https://open.spotify.com/album/3jI55EoABEJ0qbxHJ7OvQ6"
+      },
+      "artists": [
+        {
+          "name": "Carbonne",
+          "url": "https://open.spotify.com/artist/2t0frJEIdex2PTwuLlGxDD"
+        }
+      ],
+      "duration_ms": 165775,
+      "name": "Imagine",
+      "url": "https://open.spotify.com/track/6IcsbETuviVu6UTiBTcxY4"
+    },
+    {
+      "added_at": "2024-05-31 07:49:33",
       "album": {
         "name": "Seya",
         "url": "https://open.spotify.com/album/2VJcmi0iisyLekBIgoKKvw"
@@ -221,7 +237,7 @@
       "url": "https://open.spotify.com/track/5EVY9jwZDhgyLDyNGCGWYh"
     },
     {
-      "added_at": "2024-05-28 05:53:04",
+      "added_at": "2024-05-31 07:49:33",
       "album": {
         "name": "ICEBERG",
         "url": "https://open.spotify.com/album/3zKwuAbA8kBGjwgGhebvI5"
@@ -237,7 +253,7 @@
       "url": "https://open.spotify.com/track/1GxUG5xWcY2R9hQ3NcE5ya"
     },
     {
-      "added_at": "2024-05-28 05:53:04",
+      "added_at": "2024-05-31 07:49:33",
       "album": {
         "name": "Salam",
         "url": "https://open.spotify.com/album/0T0nzA4p3Ma3CK8WUBCPWM"
@@ -253,27 +269,7 @@
       "url": "https://open.spotify.com/track/0gR65ex17IbBdAvVMg74LS"
     },
     {
-      "added_at": "2024-05-28 05:53:04",
-      "album": {
-        "name": "Corazon",
-        "url": "https://open.spotify.com/album/4fdpS6Q0wfscKoVy42UcND"
-      },
-      "artists": [
-        {
-          "name": "ElGrandeToto",
-          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
-        },
-        {
-          "name": "Jo\u00e9 Dw\u00e8t Fil\u00e9",
-          "url": "https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8"
-        }
-      ],
-      "duration_ms": 188370,
-      "name": "Corazon",
-      "url": "https://open.spotify.com/track/4p7xoPQH7WpffmIEm5artb"
-    },
-    {
-      "added_at": "2024-05-28 05:53:04",
+      "added_at": "2024-05-31 07:49:33",
       "album": {
         "name": "Di Mochkila",
         "url": "https://open.spotify.com/album/0O3gGUuUaEOMLyhFH91KHK"
@@ -297,7 +293,27 @@
       "url": "https://open.spotify.com/track/3iEya2BDyWT88tM8fOJJx3"
     },
     {
-      "added_at": "2024-05-28 05:53:04",
+      "added_at": "2024-05-31 07:49:33",
+      "album": {
+        "name": "Corazon",
+        "url": "https://open.spotify.com/album/4fdpS6Q0wfscKoVy42UcND"
+      },
+      "artists": [
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        },
+        {
+          "name": "Jo\u00e9 Dw\u00e8t Fil\u00e9",
+          "url": "https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8"
+        }
+      ],
+      "duration_ms": 188370,
+      "name": "Corazon",
+      "url": "https://open.spotify.com/track/4p7xoPQH7WpffmIEm5artb"
+    },
+    {
+      "added_at": "2024-05-31 07:49:33",
       "album": {
         "name": "Rouhi",
         "url": "https://open.spotify.com/album/7yfYEHSOufXZcpYcBfD0VS"
@@ -313,7 +329,7 @@
       "url": "https://open.spotify.com/track/2qxPBeL2Q8jRnDv6EPK18A"
     },
     {
-      "added_at": "2024-05-28 05:53:04",
+      "added_at": "2024-05-31 07:49:33",
       "album": {
         "name": "POPO",
         "url": "https://open.spotify.com/album/18Cf3fPeZ5mRYI8ihYBhqo"
@@ -329,7 +345,7 @@
       "url": "https://open.spotify.com/track/0sMCcICKRGJ8Td75nZloeU"
     },
     {
-      "added_at": "2024-05-28 05:53:04",
+      "added_at": "2024-05-31 07:49:33",
       "album": {
         "name": "23",
         "url": "https://open.spotify.com/album/2PY9lJ3mff8gKIyGkhPhKo"
@@ -345,7 +361,7 @@
       "url": "https://open.spotify.com/track/3sZW7BbFHIG556Pha2oi8C"
     },
     {
-      "added_at": "2024-05-28 05:53:04",
+      "added_at": "2024-05-31 07:49:33",
       "album": {
         "name": "MA DOUCE",
         "url": "https://open.spotify.com/album/2ySxKt2YEOhxUcF0Iw5X1R"
@@ -365,7 +381,7 @@
       "url": "https://open.spotify.com/track/3G9yB5mhAfdq3toymB5Pug"
     },
     {
-      "added_at": "2024-05-28 05:53:04",
+      "added_at": "2024-05-31 07:49:33",
       "album": {
         "name": "Wala (5, 7, 10)",
         "url": "https://open.spotify.com/album/52ukqQBqbkKO3Qc5CXsgmW"
@@ -381,27 +397,7 @@
       "url": "https://open.spotify.com/track/6ZKk09hIZN9qo879cT1fTD"
     },
     {
-      "added_at": "2024-05-28 05:53:04",
-      "album": {
-        "name": "DELLALI (feat. Hamza)",
-        "url": "https://open.spotify.com/album/33ibPX6kKMGWXcxNtWYlv7"
-      },
-      "artists": [
-        {
-          "name": "ElGrandeToto",
-          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
-        },
-        {
-          "name": "Hamza",
-          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
-        }
-      ],
-      "duration_ms": 182037,
-      "name": "DELLALI (feat. Hamza)",
-      "url": "https://open.spotify.com/track/05DrM4jF73TZFu1h7sl26w"
-    },
-    {
-      "added_at": "2024-05-28 05:53:04",
+      "added_at": "2024-05-31 07:49:33",
       "album": {
         "name": "Mimti",
         "url": "https://open.spotify.com/album/0YVkrsk7cyE1xhrKDhpqWv"
@@ -417,7 +413,7 @@
       "url": "https://open.spotify.com/track/6MZ3lIqUARBkZEDERr6tlF"
     },
     {
-      "added_at": "2024-05-28 05:53:04",
+      "added_at": "2024-05-31 07:49:33",
       "album": {
         "name": "TRAP ROUMI V5",
         "url": "https://open.spotify.com/album/0pMUVXedchr9B1aGmXruEj"
@@ -433,91 +429,7 @@
       "url": "https://open.spotify.com/track/5lLOq77WKo2UMY4Y7w22oL"
     },
     {
-      "added_at": "2024-05-28 05:53:04",
-      "album": {
-        "name": "Sokkar",
-        "url": "https://open.spotify.com/album/6LufOTjtT03JshmT4eT7np"
-      },
-      "artists": [
-        {
-          "name": "Tawsen",
-          "url": "https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h"
-        }
-      ],
-      "duration_ms": 188968,
-      "name": "Sokkar",
-      "url": "https://open.spotify.com/track/22MZ14wFJ0DQUAaRy50uEW"
-    },
-    {
-      "added_at": "2024-05-28 05:53:04",
-      "album": {
-        "name": "Allo",
-        "url": "https://open.spotify.com/album/1JcEpcqvv3IMdtcupUh0yD"
-      },
-      "artists": [
-        {
-          "name": "Moha K",
-          "url": "https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E"
-        },
-        {
-          "name": "Lyna Mahyem",
-          "url": "https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP"
-        }
-      ],
-      "duration_ms": 195375,
-      "name": "Allo",
-      "url": "https://open.spotify.com/track/3aeCyLTeN6ypImKPtdjYjZ"
-    },
-    {
-      "added_at": "2024-05-28 05:53:04",
-      "album": {
-        "name": "27",
-        "url": "https://open.spotify.com/album/7reIwvnsIotYtgBcyud7SC"
-      },
-      "artists": [
-        {
-          "name": "ElGrandeToto",
-          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
-        }
-      ],
-      "duration_ms": 187826,
-      "name": "BLUE LOVE",
-      "url": "https://open.spotify.com/track/0YZ2ANy2Hhf21koqFpph5F"
-    },
-    {
-      "added_at": "2024-05-28 05:53:04",
-      "album": {
-        "name": "Zarzour",
-        "url": "https://open.spotify.com/album/49KXJUuZOIXZSi79qEP1Pe"
-      },
-      "artists": [
-        {
-          "name": "Lartiste",
-          "url": "https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz"
-        }
-      ],
-      "duration_ms": 199586,
-      "name": "Zarzour",
-      "url": "https://open.spotify.com/track/7t4XOS9MpF1pC0OBLnMiDy"
-    },
-    {
-      "added_at": "2024-05-28 05:53:04",
-      "album": {
-        "name": "Madama",
-        "url": "https://open.spotify.com/album/4uhbVUiV2gfJxb35hfw66m"
-      },
-      "artists": [
-        {
-          "name": "Liamsi",
-          "url": "https://open.spotify.com/artist/3W0nbFHGRWfrVNVAsZN6rw"
-        }
-      ],
-      "duration_ms": 143551,
-      "name": "Madama",
-      "url": "https://open.spotify.com/track/6jzV27cHgFjY5Cbl6HP8XK"
-    },
-    {
-      "added_at": "2024-05-28 05:53:04",
+      "added_at": "2024-05-31 07:49:33",
       "album": {
         "name": "Gata Only",
         "url": "https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM"
@@ -537,7 +449,95 @@
       "url": "https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6"
     },
     {
-      "added_at": "2024-05-28 05:53:04",
+      "added_at": "2024-05-31 07:49:33",
+      "album": {
+        "name": "Sokkar",
+        "url": "https://open.spotify.com/album/6LufOTjtT03JshmT4eT7np"
+      },
+      "artists": [
+        {
+          "name": "Tawsen",
+          "url": "https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h"
+        }
+      ],
+      "duration_ms": 188968,
+      "name": "Sokkar",
+      "url": "https://open.spotify.com/track/22MZ14wFJ0DQUAaRy50uEW"
+    },
+    {
+      "added_at": "2024-05-31 07:49:33",
+      "album": {
+        "name": "DELLALI (feat. Hamza)",
+        "url": "https://open.spotify.com/album/33ibPX6kKMGWXcxNtWYlv7"
+      },
+      "artists": [
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        },
+        {
+          "name": "Hamza",
+          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
+        }
+      ],
+      "duration_ms": 182037,
+      "name": "DELLALI (feat. Hamza)",
+      "url": "https://open.spotify.com/track/05DrM4jF73TZFu1h7sl26w"
+    },
+    {
+      "added_at": "2024-05-31 07:49:33",
+      "album": {
+        "name": "Allo",
+        "url": "https://open.spotify.com/album/1JcEpcqvv3IMdtcupUh0yD"
+      },
+      "artists": [
+        {
+          "name": "Moha K",
+          "url": "https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E"
+        },
+        {
+          "name": "Lyna Mahyem",
+          "url": "https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP"
+        }
+      ],
+      "duration_ms": 195375,
+      "name": "Allo",
+      "url": "https://open.spotify.com/track/3aeCyLTeN6ypImKPtdjYjZ"
+    },
+    {
+      "added_at": "2024-05-31 07:49:33",
+      "album": {
+        "name": "Zarzour",
+        "url": "https://open.spotify.com/album/49KXJUuZOIXZSi79qEP1Pe"
+      },
+      "artists": [
+        {
+          "name": "Lartiste",
+          "url": "https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz"
+        }
+      ],
+      "duration_ms": 199586,
+      "name": "Zarzour",
+      "url": "https://open.spotify.com/track/7t4XOS9MpF1pC0OBLnMiDy"
+    },
+    {
+      "added_at": "2024-05-31 07:49:33",
+      "album": {
+        "name": "Madama",
+        "url": "https://open.spotify.com/album/4uhbVUiV2gfJxb35hfw66m"
+      },
+      "artists": [
+        {
+          "name": "Liamsi",
+          "url": "https://open.spotify.com/artist/3W0nbFHGRWfrVNVAsZN6rw"
+        }
+      ],
+      "duration_ms": 143551,
+      "name": "Madama",
+      "url": "https://open.spotify.com/track/6jzV27cHgFjY5Cbl6HP8XK"
+    },
+    {
+      "added_at": "2024-05-31 07:49:33",
       "album": {
         "name": "3DABI",
         "url": "https://open.spotify.com/album/08ZFlBocogt3UFTyEN7Ob4"
@@ -553,7 +553,7 @@
       "url": "https://open.spotify.com/track/0e6eVGeec6asBnmE4gTYqA"
     },
     {
-      "added_at": "2024-05-28 05:53:04",
+      "added_at": "2024-05-31 07:49:33",
       "album": {
         "name": "Reinsertado",
         "url": "https://open.spotify.com/album/6h5tdNdOnnFL6zbeMeeqdk"
@@ -573,7 +573,7 @@
       "url": "https://open.spotify.com/track/55Q180Og5mkW2XeGPjB7yn"
     },
     {
-      "added_at": "2024-05-28 05:53:04",
+      "added_at": "2024-05-31 07:49:33",
       "album": {
         "name": "Hyati",
         "url": "https://open.spotify.com/album/4YwFCbGREEY27uNJ7nxTEN"
@@ -589,7 +589,7 @@
       "url": "https://open.spotify.com/track/1bsoYydWFNmocIOD2eeWI5"
     },
     {
-      "added_at": "2024-05-28 05:53:04",
+      "added_at": "2024-05-31 07:49:33",
       "album": {
         "name": "Zahri",
         "url": "https://open.spotify.com/album/6Y1e0RlGzHc4GGIu8bOePo"
@@ -609,7 +609,7 @@
       "url": "https://open.spotify.com/track/2zNX2jsAoYjWoSWNvdVzRr"
     },
     {
-      "added_at": "2024-05-28 05:53:04",
+      "added_at": "2024-05-31 07:49:33",
       "album": {
         "name": "Nothing Personal - A COLORS SHOW",
         "url": "https://open.spotify.com/album/4DbG96qdPpW4hCvOUU5Vny"
@@ -625,7 +625,23 @@
       "url": "https://open.spotify.com/track/45Vsjd89poscQkXodaMc0v"
     },
     {
-      "added_at": "2024-05-28 05:53:04",
+      "added_at": "2024-05-31 07:49:33",
+      "album": {
+        "name": "27",
+        "url": "https://open.spotify.com/album/7reIwvnsIotYtgBcyud7SC"
+      },
+      "artists": [
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        }
+      ],
+      "duration_ms": 187826,
+      "name": "BLUE LOVE",
+      "url": "https://open.spotify.com/track/0YZ2ANy2Hhf21koqFpph5F"
+    },
+    {
+      "added_at": "2024-05-31 07:49:33",
       "album": {
         "name": "Rmadi",
         "url": "https://open.spotify.com/album/0nRgtWj4KcY9ZMSWepds3P"
@@ -641,7 +657,7 @@
       "url": "https://open.spotify.com/track/0muYqG3zcO7STxOBSErQ7s"
     },
     {
-      "added_at": "2024-05-28 05:53:04",
+      "added_at": "2024-05-31 07:49:33",
       "album": {
         "name": "Abala Ya Bali",
         "url": "https://open.spotify.com/album/50QN0SwbM2iAa5DylaLYN1"
@@ -657,7 +673,7 @@
       "url": "https://open.spotify.com/track/2a1dUbvOaZw7vrHNanpi3r"
     },
     {
-      "added_at": "2024-05-28 05:53:04",
+      "added_at": "2024-05-31 07:49:33",
       "album": {
         "name": "Still Alive",
         "url": "https://open.spotify.com/album/2cIgCkVC96J85POryxlhZc"
@@ -673,7 +689,7 @@
       "url": "https://open.spotify.com/track/0RNLOJuaBDGzg7oS4qS8OT"
     },
     {
-      "added_at": "2024-05-28 05:53:04",
+      "added_at": "2024-05-31 07:49:33",
       "album": {
         "name": "Chouwafat",
         "url": "https://open.spotify.com/album/3h7c3KmNTk1OTdLEhKLBlp"
@@ -697,7 +713,7 @@
       "url": "https://open.spotify.com/track/6Ncxu0CAuY2C1WEZJFdMMk"
     },
     {
-      "added_at": "2024-05-28 05:53:04",
+      "added_at": "2024-05-31 07:49:33",
       "album": {
         "name": "Fat L'Fout",
         "url": "https://open.spotify.com/album/4DLLxADxhGyLs26CIjPaXk"
@@ -717,7 +733,7 @@
       "url": "https://open.spotify.com/track/5mOm6cmu8BAqFFmmOclX8r"
     },
     {
-      "added_at": "2024-05-28 05:53:04",
+      "added_at": "2024-05-31 07:49:33",
       "album": {
         "name": "KIF KIF",
         "url": "https://open.spotify.com/album/7DeGLtJG2R45QJrHW1NLLF"
@@ -733,7 +749,7 @@
       "url": "https://open.spotify.com/track/23iRPid7TsITfNxKGL0toM"
     },
     {
-      "added_at": "2024-05-28 05:53:04",
+      "added_at": "2024-05-31 07:49:33",
       "album": {
         "name": "Annani",
         "url": "https://open.spotify.com/album/3p49TlN2ALFc9CRiTvU6T0"
@@ -753,7 +769,7 @@
       "url": "https://open.spotify.com/track/0twBNB57gTFcFai9fbclTl"
     },
     {
-      "added_at": "2024-05-28 05:53:04",
+      "added_at": "2024-05-31 07:49:33",
       "album": {
         "name": "MARJANA",
         "url": "https://open.spotify.com/album/4rOy8yQlICtPvNwZubYkh6"
@@ -769,7 +785,7 @@
       "url": "https://open.spotify.com/track/5lWQ5qYAy2pe11J3Ze7u9o"
     },
     {
-      "added_at": "2024-05-28 05:53:04",
+      "added_at": "2024-05-31 07:49:33",
       "album": {
         "name": "Nari",
         "url": "https://open.spotify.com/album/6UgGtOl72xC85rwXa8tZy5"
@@ -785,7 +801,7 @@
       "url": "https://open.spotify.com/track/1uApa4g1Fr87F4IAC2Xgc2"
     },
     {
-      "added_at": "2024-05-28 05:53:04",
+      "added_at": "2024-05-31 07:49:33",
       "album": {
         "name": "Mriyech",
         "url": "https://open.spotify.com/album/4eLxm3sq1QQ8y22wZi7n2H"
@@ -801,7 +817,7 @@
       "url": "https://open.spotify.com/track/7735rwGeak348luaiQVRNE"
     },
     {
-      "added_at": "2024-05-28 05:53:04",
+      "added_at": "2024-05-31 07:49:33",
       "album": {
         "name": "Ya Nari",
         "url": "https://open.spotify.com/album/1arozXUfxz58RACd4ss2NB"
@@ -821,27 +837,7 @@
       "url": "https://open.spotify.com/track/5oqiOSeSuSIX5aiXI2s8ug"
     },
     {
-      "added_at": "2024-05-28 05:53:04",
-      "album": {
-        "name": "I Don't Wanna Wait",
-        "url": "https://open.spotify.com/album/0wCLHkBRKcndhMQQpeo8Ji"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 149667,
-      "name": "I Don't Wanna Wait",
-      "url": "https://open.spotify.com/track/331l3xABO0HMr1Kkyh2LZq"
-    },
-    {
-      "added_at": "2024-05-28 05:53:04",
+      "added_at": "2024-05-31 07:49:33",
       "album": {
         "name": "Alam",
         "url": "https://open.spotify.com/album/0pioP7AB4b3Eb2SKZu90lX"
@@ -857,7 +853,7 @@
       "url": "https://open.spotify.com/track/5XXOa4ih4ELmoeY5G48Axk"
     },
     {
-      "added_at": "2024-05-28 05:53:04",
+      "added_at": "2024-05-31 07:49:33",
       "album": {
         "name": "Khssara",
         "url": "https://open.spotify.com/album/46ePq8td3sKropIMIV3ahj"
@@ -873,7 +869,7 @@
       "url": "https://open.spotify.com/track/1GDHRaUxihjkGMFESApltm"
     },
     {
-      "added_at": "2024-05-28 05:53:04",
+      "added_at": "2024-05-31 07:49:33",
       "album": {
         "name": "WAJAHNI",
         "url": "https://open.spotify.com/album/0sx8JWJDbiT3oUuusuU5ZV"

@@ -1,13 +1,125 @@
 {
   "description": "Our streets, our way. Listen to music from The Chi, now streaming on Paramount+ with Showtime. ",
-  "num_followers": 16226,
+  "num_followers": 16309,
   "original_name": "The Chi Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlA68AAAAABS73vfLu8QjvAGoFh2Errt",
+  "snapshot_id": "Zll1cAAAAABSCA51UNExJlLe+equGPs0",
   "tracks": [
+    {
+      "added_at": "2024-05-31 07:00:00",
+      "album": {
+        "name": "Close",
+        "url": "https://open.spotify.com/album/34nB1K0HheP6hWOCw6Y6Ko"
+      },
+      "artists": [
+        {
+          "name": "Shaun Sutton",
+          "url": "https://open.spotify.com/artist/7a6fMmSAoTM9HCrNw2MEzc"
+        }
+      ],
+      "duration_ms": 185600,
+      "name": "Close",
+      "url": "https://open.spotify.com/track/1j3zTkbQLhBTJp9cEQmdTL"
+    },
+    {
+      "added_at": "2024-05-31 07:00:00",
+      "album": {
+        "name": "The Deal",
+        "url": "https://open.spotify.com/album/4x7MLIfIZukhhDxioNPRRF"
+      },
+      "artists": [
+        {
+          "name": "Armed Rhymery",
+          "url": "https://open.spotify.com/artist/1Fi0pi2srRwimN0RQMFudM"
+        }
+      ],
+      "duration_ms": 237723,
+      "name": "The Deal",
+      "url": "https://open.spotify.com/track/4irSKdq4j3aNHsZqTCdM4Q"
+    },
+    {
+      "added_at": "2024-05-31 07:00:00",
+      "album": {
+        "name": "No More Sin",
+        "url": "https://open.spotify.com/album/1f89jv1X322QhDiSutM5qe"
+      },
+      "artists": [
+        {
+          "name": "Durand the Rapper",
+          "url": "https://open.spotify.com/artist/7C87roQyV9v0lowFTVVBM8"
+        },
+        {
+          "name": "Jazzfeezy",
+          "url": "https://open.spotify.com/artist/7rxVJrgnsnQhgxg3QnHsmi"
+        },
+        {
+          "name": "Rahul Bipin",
+          "url": "https://open.spotify.com/artist/3zE3UDGLgtYoaTOnpmJPYC"
+        }
+      ],
+      "duration_ms": 133154,
+      "name": "No More Sin",
+      "url": "https://open.spotify.com/track/4DN0ulhZDEnfOyfUMZ2Gx8"
+    },
+    {
+      "added_at": "2024-05-31 07:00:00",
+      "album": {
+        "name": "Steady",
+        "url": "https://open.spotify.com/album/4FJ0WjAMEznKQW2TFO2a8M"
+      },
+      "artists": [
+        {
+          "name": "Tamae",
+          "url": "https://open.spotify.com/artist/6W32hq7OVgrNXNCEU4RgfD"
+        },
+        {
+          "name": "Lyric Le'son",
+          "url": "https://open.spotify.com/artist/3RfyPYLcpVW3LovpJ3pxse"
+        }
+      ],
+      "duration_ms": 125647,
+      "name": "Steady",
+      "url": "https://open.spotify.com/track/3BeFRdkwGF5KjB0SI5qKSU"
+    },
+    {
+      "added_at": "2024-05-31 07:00:00",
+      "album": {
+        "name": "The Sharecropper's Daughter",
+        "url": "https://open.spotify.com/album/5WiaZ5aWUU73N473iFiuZ9"
+      },
+      "artists": [
+        {
+          "name": "Sa-Roc",
+          "url": "https://open.spotify.com/artist/2tjZzUU3KKhsxlmNjV3VZg"
+        }
+      ],
+      "duration_ms": 286786,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/1RED6K6F0J0Kyi52mpxO2T"
+    },
+    {
+      "added_at": "2024-05-31 07:00:00",
+      "album": {
+        "name": "V TAPE",
+        "url": "https://open.spotify.com/album/73nAZ5xJR0DDzUXKUZNusz"
+      },
+      "artists": [
+        {
+          "name": "VIC MENSA",
+          "url": "https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG"
+        },
+        {
+          "name": "SAINt JHN",
+          "url": "https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ"
+        }
+      ],
+      "duration_ms": 237840,
+      "name": "2HONEST feat. SAINt JHN",
+      "url": "https://open.spotify.com/track/0iHGKZiXJ5Mqq14MJ9mjxg"
+    },
     {
       "added_at": "2024-05-24 07:00:00",
       "album": {

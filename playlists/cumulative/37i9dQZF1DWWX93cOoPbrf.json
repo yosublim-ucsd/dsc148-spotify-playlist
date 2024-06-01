@@ -1229,6 +1229,24 @@
     },
     {
       "album": {
+        "name": "Aqu\u00ed Mando Yo",
+        "url": "https://open.spotify.com/album/0UT6sSqUR1QMQ7a1vt9ROP"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217333,
+      "name": "Aqu\u00ed Mando Yo",
+      "url": "https://open.spotify.com/track/3Kv0GCIjO52qkUj1K9PqZW"
+    },
+    {
+      "album": {
         "name": "Aqu\u00ed Sigue El 19",
         "url": "https://open.spotify.com/album/3oApMT28jZcuVunsTu6Dgv"
       },
@@ -2014,7 +2032,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 166127,
       "name": "Bien Tony Montana",
       "url": "https://open.spotify.com/track/5FK2Ee6xXBspGF8nllIRKM"
@@ -3996,7 +4014,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 189538,
       "name": "De Aqu\u00ed A China",
       "url": "https://open.spotify.com/track/6FDKoVIg7uChhkOLDO3v2n"
@@ -5296,6 +5314,28 @@
       "duration_ms": 187386,
       "name": "El Arriesgado (En Vivo)",
       "url": "https://open.spotify.com/track/1y8MI0cxkbqTXgaxFVP8Qe"
+    },
+    {
+      "album": {
+        "name": "El Artista",
+        "url": "https://open.spotify.com/album/04DgkXvM1IoozkAl4Yyo1l"
+      },
+      "artists": [
+        {
+          "name": "Jaziel Avilez",
+          "url": "https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ"
+        },
+        {
+          "name": "El Rabbanito",
+          "url": "https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181213,
+      "name": "El Artista",
+      "url": "https://open.spotify.com/track/7lV31xTiwZskjsds1CM7BR"
     },
     {
       "album": {
@@ -6788,7 +6828,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 239923,
       "name": "El Dise\u00f1ador",
       "url": "https://open.spotify.com/track/57nyF1n8SKff9C0lYjZVZ9"
@@ -10056,7 +10096,7 @@
           "url": "https://open.spotify.com/artist/20nJFshDG1OYH7Qp9K0TXf"
         },
         {
-          "name": "Las Joyas de Culiacan",
+          "name": "Las Joyas de Culic\u00e1n",
           "url": "https://open.spotify.com/artist/08fU5RS1CQdw5GBeztGPMn"
         },
         {
@@ -12126,7 +12166,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 156223,
       "name": "Haganse A Un Lado",
       "url": "https://open.spotify.com/track/5qbQNw7iaPJPnhN4gyGjoX"
@@ -12928,6 +12968,28 @@
       "duration_ms": 258500,
       "name": "Juan Ayon",
       "url": "https://open.spotify.com/track/27qF3lsFDE0Rat4i305MWs"
+    },
+    {
+      "album": {
+        "name": "Juicy",
+        "url": "https://open.spotify.com/album/7HaxWb5dLjuMc2Wezdn9J5"
+      },
+      "artists": [
+        {
+          "name": "Esau Ortiz",
+          "url": "https://open.spotify.com/artist/6VcsqZOR5AtEOGeAtmutCZ"
+        },
+        {
+          "name": "Alto Linaje",
+          "url": "https://open.spotify.com/artist/5fUua1kfdZhAopUPazcdC5"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144812,
+      "name": "Juicy",
+      "url": "https://open.spotify.com/track/3URJIK2bDYdDz3w38QMSMf"
     },
     {
       "album": {
@@ -14409,6 +14471,28 @@
     },
     {
       "album": {
+        "name": "THE GOAT",
+        "url": "https://open.spotify.com/album/3hmlgJRuR8ax8QLHvKs8Eb"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "Angel Cervantes",
+          "url": "https://open.spotify.com/artist/3cbOif2nNznwEiNw9Ty8NJ"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195608,
+      "name": "La Sand\u00eda",
+      "url": "https://open.spotify.com/track/4qIa4rPS4QCFJPcyumlSv1"
+    },
+    {
+      "album": {
         "name": "Broche De Oro",
         "url": "https://open.spotify.com/album/5Qj50rqzTCvfmoXoUhi7HN"
       },
@@ -14560,6 +14644,28 @@
       "duration_ms": 243562,
       "name": "La Tostada CH",
       "url": "https://open.spotify.com/track/2ouaHnPg00LU0RShMlibs7"
+    },
+    {
+      "album": {
+        "name": "La Toyota",
+        "url": "https://open.spotify.com/album/2MbUwtxx2WOnVxIgwb09wT"
+      },
+      "artists": [
+        {
+          "name": "3 Caleb",
+          "url": "https://open.spotify.com/artist/28bkOQcxioYFEsE06mmnkd"
+        },
+        {
+          "name": "Adriel Favela",
+          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144400,
+      "name": "La Toyota",
+      "url": "https://open.spotify.com/track/2Hrm2Mh11muqDfwaNawZAV"
     },
     {
       "album": {
@@ -15528,7 +15634,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 213442,
       "name": "Los Brothers",
       "url": "https://open.spotify.com/track/1iB1sVaGDfCbhB3syfoZ7J"
@@ -16812,6 +16918,28 @@
       "duration_ms": 230858,
       "name": "Mi Amigo El Diablo",
       "url": "https://open.spotify.com/track/6W94ZIAucH5Z0SowqnJTZk"
+    },
+    {
+      "album": {
+        "name": "Mi Ap\u00e1 Es El De La M",
+        "url": "https://open.spotify.com/album/30dvj5FWvcvoieIdMvafc1"
+      },
+      "artists": [
+        {
+          "name": "Rey Quinto",
+          "url": "https://open.spotify.com/artist/7EpdzasUopr1eDw9i66Of0"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202640,
+      "name": "Mi Ap\u00e1 Es El De La M",
+      "url": "https://open.spotify.com/track/7hzdMGOFclxcwewHmykdTm"
     },
     {
       "album": {
@@ -22996,7 +23124,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 181611,
       "name": "Yo Ya Sabia Pa Donde Iba",
       "url": "https://open.spotify.com/track/68tFrY3RLTslRY3l5wFfKd"

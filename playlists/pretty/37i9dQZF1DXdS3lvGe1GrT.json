@@ -1,13 +1,141 @@
 {
-  "description": "Fresh folk and roots music from independent artists every Wednesday. Cover: Caity Krone",
-  "num_followers": 69769,
+  "description": "Fresh folk and roots music from independent artists every Wednesday. Cover: Angela Autumn",
+  "num_followers": 70169,
   "original_name": "Fresh Finds Folk ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlDJBQAAAAAWjLQ8fvNMUyM3X/zttiJ4",
+  "snapshot_id": "ZllLQAAAAACJRj/n4KAcQ1hHpiTX59uF",
   "tracks": [
+    {
+      "added_at": "2024-05-29 12:56:53",
+      "album": {
+        "name": "The Rock / Magical Thinking",
+        "url": "https://open.spotify.com/album/4NjzFN2XZl4YZxf1zhEx6O"
+      },
+      "artists": [
+        {
+          "name": "Gabe Goodman",
+          "url": "https://open.spotify.com/artist/3ak5fTKu5X8h4yhvf5ThmF"
+        }
+      ],
+      "duration_ms": 142718,
+      "name": "The Rock",
+      "url": "https://open.spotify.com/track/6IgenNSTsv9vVYVP9ZlNAq"
+    },
+    {
+      "added_at": "2024-05-29 12:56:53",
+      "album": {
+        "name": "Rocky Doom",
+        "url": "https://open.spotify.com/album/18dZNZb5ijjIfVAmZSR0sT"
+      },
+      "artists": [
+        {
+          "name": "Angela Autumn",
+          "url": "https://open.spotify.com/artist/2gyodrfLfK8xF0sSaxBZXQ"
+        }
+      ],
+      "duration_ms": 206464,
+      "name": "Electric Lizard",
+      "url": "https://open.spotify.com/track/2vctZ5ZX7cRMFGjcZzwWcK"
+    },
+    {
+      "added_at": "2024-05-29 12:56:53",
+      "album": {
+        "name": "Dinner Party",
+        "url": "https://open.spotify.com/album/1po6GsGZmdDJEZxtoBGuVs"
+      },
+      "artists": [
+        {
+          "name": "Lydia Kaseta",
+          "url": "https://open.spotify.com/artist/0raB78RFxZwDhT8LQFtahl"
+        }
+      ],
+      "duration_ms": 200960,
+      "name": "Dinner Party",
+      "url": "https://open.spotify.com/track/69te7FqNKGo7wP8vpC90T8"
+    },
+    {
+      "added_at": "2024-05-29 12:56:53",
+      "album": {
+        "name": "only light",
+        "url": "https://open.spotify.com/album/4xKlmVoncsgzEE2iCN7MEl"
+      },
+      "artists": [
+        {
+          "name": "Liv Romano",
+          "url": "https://open.spotify.com/artist/0880SwmMnloU70bjrwbdOa"
+        }
+      ],
+      "duration_ms": 231826,
+      "name": "only light",
+      "url": "https://open.spotify.com/track/79epNQ5pFV7ZEbRXyBZ7hT"
+    },
+    {
+      "added_at": "2024-05-29 12:56:53",
+      "album": {
+        "name": "I\u2019ll Be There 'Til The End",
+        "url": "https://open.spotify.com/album/6jF0XbQR4BxrY3ect0QCFL"
+      },
+      "artists": [
+        {
+          "name": "Hello Darling",
+          "url": "https://open.spotify.com/artist/6zdoRap0V4pVBUIa5NKl6t"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Daylight",
+      "url": "https://open.spotify.com/track/6kFAjrHO2yyJ3xb5xcqu6i"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "Fear of the Unknown",
+        "url": "https://open.spotify.com/album/60olbifny6PT6tQ67u0k89"
+      },
+      "artists": [
+        {
+          "name": "Peyton McMahon",
+          "url": "https://open.spotify.com/artist/7HYMKelR2o8mJ9qk8KF1CJ"
+        }
+      ],
+      "duration_ms": 223127,
+      "name": "Fear of the Unknown",
+      "url": "https://open.spotify.com/track/4qHxxlwDjEvanNtKeG6DCy"
+    },
+    {
+      "added_at": "2024-05-29 12:56:53",
+      "album": {
+        "name": "Good News",
+        "url": "https://open.spotify.com/album/2AAJltD84AGGPenPggjUwx"
+      },
+      "artists": [
+        {
+          "name": "Hayley Reardon",
+          "url": "https://open.spotify.com/artist/4US8FhryQWWUOPmLmreZDW"
+        }
+      ],
+      "duration_ms": 244145,
+      "name": "Good News",
+      "url": "https://open.spotify.com/track/7hf7I4mJSBTjCUhNMV5cwU"
+    },
+    {
+      "added_at": "2024-05-29 12:56:53",
+      "album": {
+        "name": "sunflood",
+        "url": "https://open.spotify.com/album/3xeaPMSPlAEUjG6jqauZ3A"
+      },
+      "artists": [
+        {
+          "name": "Lexie Carroll",
+          "url": "https://open.spotify.com/artist/0j3JsMUkjmRIqTi1xQ5dp0"
+        }
+      ],
+      "duration_ms": 166549,
+      "name": "sunflood",
+      "url": "https://open.spotify.com/track/2v9FhgR6POwiVPoOGxSCkG"
+    },
     {
       "added_at": "2024-05-22 16:34:37",
       "album": {
@@ -23,6 +151,70 @@
       "duration_ms": 271475,
       "name": "Tangerine",
       "url": "https://open.spotify.com/track/6xdB35eP1oltwaPgtwZ9tP"
+    },
+    {
+      "added_at": "2024-05-29 12:56:53",
+      "album": {
+        "name": "Indigo",
+        "url": "https://open.spotify.com/album/3BTsko3eP7ONxcyTT1ott4"
+      },
+      "artists": [
+        {
+          "name": "Alexander Grandjean",
+          "url": "https://open.spotify.com/artist/4ltZplYXzDwJi1uFva2PEp"
+        }
+      ],
+      "duration_ms": 198374,
+      "name": "Indigo",
+      "url": "https://open.spotify.com/track/24kGDYThFy7mvzB5pjtYqE"
+    },
+    {
+      "added_at": "2024-05-29 12:56:53",
+      "album": {
+        "name": "sell my soul",
+        "url": "https://open.spotify.com/album/1QiPcZABvq1QuKjtgKe9Yp"
+      },
+      "artists": [
+        {
+          "name": "b0dies",
+          "url": "https://open.spotify.com/artist/4ZlzXxVz7C8xssfnLlLF1A"
+        }
+      ],
+      "duration_ms": 159659,
+      "name": "sell my soul",
+      "url": "https://open.spotify.com/track/0R7BfRNbVcUoJsSAYfaF4J"
+    },
+    {
+      "added_at": "2024-05-29 12:56:53",
+      "album": {
+        "name": "Egret",
+        "url": "https://open.spotify.com/album/2CyIR0NfwY00x42QeDHvo9"
+      },
+      "artists": [
+        {
+          "name": "Dead Nettle",
+          "url": "https://open.spotify.com/artist/2vrX1fBDBPH5AEBsG4pFA1"
+        }
+      ],
+      "duration_ms": 239910,
+      "name": "Egret",
+      "url": "https://open.spotify.com/track/4tHHwu3DJa6TyuLlhH8bWF"
+    },
+    {
+      "added_at": "2024-05-29 12:56:53",
+      "album": {
+        "name": "Hot Water Tap",
+        "url": "https://open.spotify.com/album/4TpmNwbq1saup5fxCDQjGn"
+      },
+      "artists": [
+        {
+          "name": "Fairhazel",
+          "url": "https://open.spotify.com/artist/0U5fdV8QHxk7Qc82vXWoHn"
+        }
+      ],
+      "duration_ms": 189738,
+      "name": "Hot Water Tap",
+      "url": "https://open.spotify.com/track/1ay23RNA6mjw7WkUN11DEl"
     },
     {
       "added_at": "2024-05-15 15:14:27",

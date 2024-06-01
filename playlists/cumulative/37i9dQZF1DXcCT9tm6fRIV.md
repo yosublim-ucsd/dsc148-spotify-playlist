@@ -4,7 +4,7 @@
 
 > Disfruta esta fina selección de los mejores Tangos argentinos.
 
-152 songs - 8 hr 35 min
+153 songs - 8 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Confidencias](https://open.spotify.com/track/53573za1S0cPRlR9TudWro) | [Mirta Uguet](https://open.spotify.com/artist/7LM8yuLYabmwwol7zh7T0O) | [Un sueño de barrio](https://open.spotify.com/album/4HhtYjOKgTXErKj0GpW2Sz) | 3:28 | 2023-08-11 | 2024-03-02 |
 | [Confidencias](https://open.spotify.com/track/5clL06dw4iPrD3w6MIDYtf) | [Mirta Uguet](https://open.spotify.com/artist/7LM8yuLYabmwwol7zh7T0O) | [Un sueño de barrio](https://open.spotify.com/album/5GbLnADafneDEQM3qK9rfa) | 3:28 | 2023-12-01 | 2024-04-19 |
 | [Cualquiera de Estas Noches](https://open.spotify.com/track/73AB5izFOtarOahEB7oHpJ) | [Romina Balestrino](https://open.spotify.com/artist/4mCEifV4uLTqfnI6gvZf9L), [Guillermo Fernández](https://open.spotify.com/artist/2zzYRIDKcVq20xeBefKO2J) | [Mi Version de los Hechos](https://open.spotify.com/album/63wvYeS5fZLT9VahjapmHv) | 3:53 | 2022-03-18 |  |
+| [Cómo Dos Extraños](https://open.spotify.com/track/0esvNuTTbNMc67va2VCQvd) | [Chabuco](https://open.spotify.com/artist/7iVnPo1i10De0UGQz5eDsl), [Ariel Ardit](https://open.spotify.com/artist/62WLKvGxUiIjMITbNetyR6) | [Chabuco Tango](https://open.spotify.com/album/0BMBTesXi4eduzURLsPxHl) | 3:07 | 2024-05-31 |  |
 | [Danzarin](https://open.spotify.com/track/1ps4vwMDiCGYS5EazbtgJl) | [Leopoldo Federico](https://open.spotify.com/artist/3RibY876FBPC7kuqm4YqzJ), [Roberto Grela](https://open.spotify.com/artist/4NkIT9ejpKX3c6zfz3VzrT) | [Hombres de Tango](https://open.spotify.com/album/0z5WiVVrflrv0kOEK8Rp1D) | 3:54 | 2022-03-18 | 2022-07-29 |
 | [Danzarín](https://open.spotify.com/track/3MTkrZvv106Xe3psYCm2wT) | [Cuarteto Federico Grela](https://open.spotify.com/artist/2fLpZQgdBH8MpNlPSirNNV) | [Cuarteto Federico Grela, Vol\. 1](https://open.spotify.com/album/7FVhw0omeFrQSIUaIQmggq) | 3:56 | 2022-03-18 | 2024-04-19 |
 | [Danzarín](https://open.spotify.com/track/4zdKgCwKjX0E75qQyGpTYo) | [Leopoldo Federico \- Roberto Grela](https://open.spotify.com/artist/2utsUOhTQw9eMJWpP2vYkX) | [Hombres de tango](https://open.spotify.com/album/1ceobp5yVCMfzfTunQmH2G) | 3:51 | 2022-03-18 | 2023-04-13 |
@@ -92,7 +93,7 @@
 | [Malena](https://open.spotify.com/track/6ZyGdMuvQp8BHuMv70bPyj) | [Rubén Juárez](https://open.spotify.com/artist/4idyrAA6wZyU9umXHFoM9p) | [El Album Blanco](https://open.spotify.com/album/5yQ4bqbHYzGZfYqg9ZiaAa) | 2:55 | 2023-06-09 | 2024-04-19 |
 | [Malevaje](https://open.spotify.com/track/4LVQ2CuYGgKgQA3vsI0NyG) | [Susana Rinaldi](https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE) | [La Tana Con Todo](https://open.spotify.com/album/3oGlLY8Hy4jFS8jAzos8X1) | 3:57 | 2022-03-18 |  |
 | [Mano a Mano \(with Leopoldo Federico y Su Orquesta\)](https://open.spotify.com/track/6Wo9pGMG6SeqTyhjAbcQbw) | [Julio Sosa](https://open.spotify.com/artist/7Cg2eqV6oHNE0P54WfajIX), [Leopoldo Federico y su Orquesta](https://open.spotify.com/artist/2QtuDqkuMbNQlmGgMbPBOA) | [El Tango Lo Siento Así](https://open.spotify.com/album/7amr3RlvimM5xJ3ipKCiv9) | 3:12 | 2022-03-18 |  |
-| [Maria](https://open.spotify.com/track/6WJkFnnV2nMIUqA6gbsQHN) | [Chino Laborde](https://open.spotify.com/artist/5OrKrSqxhTFrtScoJhqLrP), [Daniel Ruggiero](https://open.spotify.com/artist/2UD4URrkIUokDksTRHVGHR) | [El Tango](https://open.spotify.com/album/7akIfhOcL4nMi4vwILqXsX) | 3:34 | 2022-03-18 |  |
+| [Maria](https://open.spotify.com/track/6WJkFnnV2nMIUqA6gbsQHN) | [Chino Laborde](https://open.spotify.com/artist/5OrKrSqxhTFrtScoJhqLrP), [Daniel Ruggiero](https://open.spotify.com/artist/2UD4URrkIUokDksTRHVGHR) | [El Tango](https://open.spotify.com/album/7akIfhOcL4nMi4vwILqXsX) | 3:34 | 2022-03-18 | 2024-06-01 |
 | [Mariposita \- En Vivo](https://open.spotify.com/track/3eDlsR5h1xyImi09ulmjYK) | [Ariel Ardit](https://open.spotify.com/artist/62WLKvGxUiIjMITbNetyR6), [Orquesta Tipica](https://open.spotify.com/artist/04eoPYzcEUkOi9dyDYYUIk) | [A los Cantores \(En Vivo\)](https://open.spotify.com/album/2AN8JN4CJlc1BqgKLQEvvx) | 3:44 | 2022-03-18 |  |
 | [Melodía de Arrabal](https://open.spotify.com/track/15z8cfqjMyayrtz0eU6GBa) | [Omar Mollo](https://open.spotify.com/artist/3gvvM06RykBuIcFpWljUhD) | [Tangazos](https://open.spotify.com/album/1lNKXd3O7tBxvLn8egvjDg) | 1:49 | 2022-03-18 | 2024-04-19 |
 | [Melodía de Arrabal](https://open.spotify.com/track/5tAtT9VWE81LtxdOtX5tft) | [Omar Mollo](https://open.spotify.com/artist/3gvvM06RykBuIcFpWljUhD) | [Tangazos](https://open.spotify.com/album/7m1QwhnnoDSADhNR4B7MMo) | 1:49 | 2022-03-18 | 2022-07-29 |

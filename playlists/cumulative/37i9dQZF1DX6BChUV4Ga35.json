@@ -1009,6 +1009,24 @@
     },
     {
       "album": {
+        "name": "Do the Kangaroo",
+        "url": "https://open.spotify.com/album/7qxZpMcDUyv5YYLLAzws0P"
+      },
+      "artists": [
+        {
+          "name": "Bounce Patrol",
+          "url": "https://open.spotify.com/artist/1S9SPfRo9eyxOcyfUGC2Tm"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141123,
+      "name": "Do the Kangaroo",
+      "url": "https://open.spotify.com/track/48gha42DBvDkjANMVAiBPw"
+    },
+    {
+      "album": {
         "name": "Two",
         "url": "https://open.spotify.com/album/6eFe2gk6yWva9NWjnf1OZ8"
       },
@@ -1819,6 +1837,24 @@
     },
     {
       "album": {
+        "name": "Platypus Song",
+        "url": "https://open.spotify.com/album/7iceO55HH677pOcrGKPnwp"
+      },
+      "artists": [
+        {
+          "name": "Cooltime",
+          "url": "https://open.spotify.com/artist/5Cx0MO39eG4ElGaD1juoZQ"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131111,
+      "name": "Platypus Song",
+      "url": "https://open.spotify.com/track/4wy9CCI0qrZh0wffhJSHHZ"
+    },
+    {
+      "album": {
         "name": "Happy Lemons",
         "url": "https://open.spotify.com/album/3BxUa5Rt3dtxwBY4tDhQz3"
       },
@@ -2018,6 +2054,24 @@
       "duration_ms": 62358,
       "name": "Spider Monkey",
       "url": "https://open.spotify.com/track/4mtAzWPx9X4Jm5M2G9GjXM"
+    },
+    {
+      "album": {
+        "name": "The Ant And The Elephant - Nursery Rhymes",
+        "url": "https://open.spotify.com/album/2BkyBc4e9VebLWYq2c7BXv"
+      },
+      "artists": [
+        {
+          "name": "LooLoo Kids",
+          "url": "https://open.spotify.com/artist/2njkfzRhOJFKLWFTu8FNWx"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126154,
+      "name": "The Ant And The Elephant - Nursery Rhymes",
+      "url": "https://open.spotify.com/track/2HRupRvr6BY4wswlwqLnZK"
     },
     {
       "album": {

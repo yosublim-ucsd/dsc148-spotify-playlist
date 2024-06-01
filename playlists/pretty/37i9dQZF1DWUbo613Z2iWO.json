@@ -1,28 +1,44 @@
 {
-  "description": "R&B of the moment by the artists of the future. Cover: kwn",
-  "num_followers": 50867,
+  "description": "R&B of the moment by the artists of the future. Cover: Taner\u00e9lle",
+  "num_followers": 50917,
   "original_name": "R&B Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlA/LgAAAADdbn/lQfbJMfj0Ti3Ypq4h",
+  "snapshot_id": "Zll8xgAAAAAK7nj/JjKL3HcDxP9mITyd",
   "tracks": [
     {
-      "added_at": "2024-05-24 07:18:06",
+      "added_at": "2024-05-31 07:31:18",
       "album": {
-        "name": "Rental",
-        "url": "https://open.spotify.com/album/2kT3e81zlLH8LsIfw1d8da"
+        "name": "Electric Honey",
+        "url": "https://open.spotify.com/album/4Tw5mOARJzR867OGuF5o67"
       },
       "artists": [
         {
-          "name": "Fana Hues",
-          "url": "https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg"
+          "name": "Taner\u00e9lle",
+          "url": "https://open.spotify.com/artist/1r1n66Rkx4fzNCIUQhS6OH"
         }
       ],
-      "duration_ms": 189266,
-      "name": "Rental",
-      "url": "https://open.spotify.com/track/2SctW8kEr0eNsnantkaxj1"
+      "duration_ms": 182346,
+      "name": "Us",
+      "url": "https://open.spotify.com/track/34nLVuz4g575sZjxi9gm3H"
+    },
+    {
+      "added_at": "2024-05-31 07:31:18",
+      "album": {
+        "name": "SOMETHING MORE",
+        "url": "https://open.spotify.com/album/5QRERCg5VMNxhV2V2OISah"
+      },
+      "artists": [
+        {
+          "name": "Josh Levi",
+          "url": "https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz"
+        }
+      ],
+      "duration_ms": 163838,
+      "name": "SOMETHING MORE",
+      "url": "https://open.spotify.com/track/1QD5FRoUo6gcxAzq7bg2ae"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -39,6 +55,62 @@
       "duration_ms": 153648,
       "name": "eyes wide open",
       "url": "https://open.spotify.com/track/47yqCBu6gwfquchEQiBahu"
+    },
+    {
+      "added_at": "2024-05-31 07:31:18",
+      "album": {
+        "name": "Sugar",
+        "url": "https://open.spotify.com/album/0h7bTMDZohzz8kfNVBu7oq"
+      },
+      "artists": [
+        {
+          "name": "Nippa",
+          "url": "https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq"
+        },
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        },
+        {
+          "name": "SHOW N PROVE",
+          "url": "https://open.spotify.com/artist/0w2Ehjy06vmXNTs3e3NQIU"
+        }
+      ],
+      "duration_ms": 179310,
+      "name": "Sugar",
+      "url": "https://open.spotify.com/track/0X6AAWEtz8SDZxClmxNhe3"
+    },
+    {
+      "added_at": "2024-05-31 07:31:18",
+      "album": {
+        "name": "DJ Got Me",
+        "url": "https://open.spotify.com/album/0M8nZTO9KJ0x06YJPshuMZ"
+      },
+      "artists": [
+        {
+          "name": "Maeta",
+          "url": "https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO"
+        }
+      ],
+      "duration_ms": 135228,
+      "name": "DJ Got Me",
+      "url": "https://open.spotify.com/track/5lFcDZXn5dXeAimwkpNP6s"
+    },
+    {
+      "added_at": "2024-05-24 07:18:06",
+      "album": {
+        "name": "Rental",
+        "url": "https://open.spotify.com/album/2kT3e81zlLH8LsIfw1d8da"
+      },
+      "artists": [
+        {
+          "name": "Fana Hues",
+          "url": "https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg"
+        }
+      ],
+      "duration_ms": 189266,
+      "name": "Rental",
+      "url": "https://open.spotify.com/track/2SctW8kEr0eNsnantkaxj1"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -99,22 +171,6 @@
     {
       "added_at": "2024-05-03 14:53:38",
       "album": {
-        "name": "Paper Tigers",
-        "url": "https://open.spotify.com/album/6IUhzw8ZEYb9zhlSrJszVS"
-      },
-      "artists": [
-        {
-          "name": "Fana Hues",
-          "url": "https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg"
-        }
-      ],
-      "duration_ms": 212394,
-      "name": "Paper Tigers",
-      "url": "https://open.spotify.com/track/5eE5yG2wQW9xGuyPLqXygs"
-    },
-    {
-      "added_at": "2024-05-03 14:53:38",
-      "album": {
         "name": "Cyan Blue",
         "url": "https://open.spotify.com/album/2ugywYl3kXs39enikXdsTV"
       },
@@ -145,6 +201,58 @@
       "url": "https://open.spotify.com/track/2Zs7Q7lJB1aUDL06rE2xN2"
     },
     {
+      "added_at": "2024-05-31 07:31:18",
+      "album": {
+        "name": "Get Away",
+        "url": "https://open.spotify.com/album/670TUBzn6VAg0juITSAFUZ"
+      },
+      "artists": [
+        {
+          "name": "Dee Gatti",
+          "url": "https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT"
+        }
+      ],
+      "duration_ms": 177175,
+      "name": "Get Away",
+      "url": "https://open.spotify.com/track/25WijqKV8rFsFM53gZN2G1"
+    },
+    {
+      "added_at": "2024-05-31 07:31:18",
+      "album": {
+        "name": "Love Somebody",
+        "url": "https://open.spotify.com/album/7BK8Km6JQ3D5YhT0PdRwus"
+      },
+      "artists": [
+        {
+          "name": "TheARTI$t",
+          "url": "https://open.spotify.com/artist/0lzz7vFjUA0jCmEy1PR53a"
+        }
+      ],
+      "duration_ms": 176166,
+      "name": "Love Somebody",
+      "url": "https://open.spotify.com/track/0TCQnVD1YqN2gNIFrvNICE"
+    },
+    {
+      "added_at": "2024-05-31 07:31:18",
+      "album": {
+        "name": "unruly",
+        "url": "https://open.spotify.com/album/30qNUbkHpnFRNd8x8sYWNT"
+      },
+      "artists": [
+        {
+          "name": "Dua Saleh",
+          "url": "https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB"
+        },
+        {
+          "name": "serpentwithfeet",
+          "url": "https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl"
+        }
+      ],
+      "duration_ms": 144446,
+      "name": "unruly",
+      "url": "https://open.spotify.com/track/2bTrWTnaLwQ5WVnUzS2X46"
+    },
+    {
       "added_at": "2024-05-03 14:53:38",
       "album": {
         "name": "Still",
@@ -161,20 +269,20 @@
       "url": "https://open.spotify.com/track/4E3CP6Dczv5mYkBaZ65Etg"
     },
     {
-      "added_at": "2024-05-17 04:00:00",
+      "added_at": "2024-05-31 07:31:18",
       "album": {
-        "name": "Control",
-        "url": "https://open.spotify.com/album/73tWbljEskyASZXWpmJten"
+        "name": "En Route",
+        "url": "https://open.spotify.com/album/6oMGF1OHuuRjQWKn1HXrU5"
       },
       "artists": [
         {
-          "name": "Gemaine",
-          "url": "https://open.spotify.com/artist/6WnCnGe06iOO6fTPYAPF03"
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
         }
       ],
-      "duration_ms": 168012,
-      "name": "Control",
-      "url": "https://open.spotify.com/track/4d68kQcEkzo54yzicu9N9K"
+      "duration_ms": 236904,
+      "name": "GPS",
+      "url": "https://open.spotify.com/track/0lYSxo9HT7zcTVqNjKDNVW"
     },
     {
       "added_at": "2024-05-24 07:18:06",
@@ -195,6 +303,38 @@
       "duration_ms": 169795,
       "name": "5 Minutes",
       "url": "https://open.spotify.com/track/3NybtZLoGsWTT1SHwExhkE"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "Control",
+        "url": "https://open.spotify.com/album/73tWbljEskyASZXWpmJten"
+      },
+      "artists": [
+        {
+          "name": "Gemaine",
+          "url": "https://open.spotify.com/artist/6WnCnGe06iOO6fTPYAPF03"
+        }
+      ],
+      "duration_ms": 168012,
+      "name": "Control",
+      "url": "https://open.spotify.com/track/4d68kQcEkzo54yzicu9N9K"
+    },
+    {
+      "added_at": "2024-05-03 14:53:38",
+      "album": {
+        "name": "Paper Tigers",
+        "url": "https://open.spotify.com/album/6IUhzw8ZEYb9zhlSrJszVS"
+      },
+      "artists": [
+        {
+          "name": "Fana Hues",
+          "url": "https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg"
+        }
+      ],
+      "duration_ms": 212394,
+      "name": "Paper Tigers",
+      "url": "https://open.spotify.com/track/5eE5yG2wQW9xGuyPLqXygs"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -249,20 +389,20 @@
       "url": "https://open.spotify.com/track/4kZFUJrhhy6JwHUnd3M1jD"
     },
     {
-      "added_at": "2024-05-03 14:53:38",
+      "added_at": "2024-05-31 07:31:18",
       "album": {
-        "name": "Let Me In",
-        "url": "https://open.spotify.com/album/2rqRoO0cePhSqHhSz4CnUD"
+        "name": "Bleeding Me Dry",
+        "url": "https://open.spotify.com/album/4jMPCb1lQSBO6rjgMDxoVi"
       },
       "artists": [
         {
-          "name": "Taner\u00e9lle",
-          "url": "https://open.spotify.com/artist/1r1n66Rkx4fzNCIUQhS6OH"
+          "name": "Alicia Creti",
+          "url": "https://open.spotify.com/artist/0V0XsSn8lNPXAEEFG292iX"
         }
       ],
-      "duration_ms": 178266,
-      "name": "Let Me In",
-      "url": "https://open.spotify.com/track/4ZIzS7Zz1WMHjfwkSgpCT1"
+      "duration_ms": 207692,
+      "name": "Bleeding Me Dry",
+      "url": "https://open.spotify.com/track/6ldJ3AUfPvRX2gCB4IMpBG"
     },
     {
       "added_at": "2024-05-03 14:53:38",
@@ -313,22 +453,6 @@
       "url": "https://open.spotify.com/track/3WTrRUIfO71a5eBoGEvSAO"
     },
     {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Fist Bump (Radio Edit)",
-        "url": "https://open.spotify.com/album/2KKfaCj1zRMDHuCa2fmlZa"
-      },
-      "artists": [
-        {
-          "name": "Durand Bernarr",
-          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "Fist Bump - Radio Edit",
-      "url": "https://open.spotify.com/track/5El5mxXJzfYYr0PM61xrvn"
-    },
-    {
       "added_at": "2024-04-26 04:00:00",
       "album": {
         "name": "Karma",
@@ -359,22 +483,6 @@
       "duration_ms": 161053,
       "name": "what do you need",
       "url": "https://open.spotify.com/track/6w1e7VnGbH5TKIjX8gsTnR"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
-        "name": "Here Now",
-        "url": "https://open.spotify.com/album/2dn3rbVDA051YrJkDci1xl"
-      },
-      "artists": [
-        {
-          "name": "Dee Gatti",
-          "url": "https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT"
-        }
-      ],
-      "duration_ms": 142080,
-      "name": "Here Now",
-      "url": "https://open.spotify.com/track/7pL8Abg7AAMFu66W3etmAy"
     },
     {
       "added_at": "2024-05-24 07:18:06",
@@ -1233,26 +1341,6 @@
       "url": "https://open.spotify.com/track/0BC9rz15tjiiFUYa1xum79"
     },
     {
-      "added_at": "2024-03-01 07:19:09",
-      "album": {
-        "name": "Around The World",
-        "url": "https://open.spotify.com/album/0abkIwIKwvsY5jmbS46zpY"
-      },
-      "artists": [
-        {
-          "name": "Nippa",
-          "url": "https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq"
-        },
-        {
-          "name": "SHOW N PROVE",
-          "url": "https://open.spotify.com/artist/0w2Ehjy06vmXNTs3e3NQIU"
-        }
-      ],
-      "duration_ms": 116389,
-      "name": "Around The World",
-      "url": "https://open.spotify.com/track/6UuztYLGwhpTsH0ploTJgm"
-    },
-    {
       "added_at": "2024-03-08 13:25:41",
       "album": {
         "name": "ARTchives: The Gallery",
@@ -1795,22 +1883,6 @@
     {
       "added_at": "2024-01-10 17:00:00",
       "album": {
-        "name": "DISC TWO (SCRATCHED UP)",
-        "url": "https://open.spotify.com/album/2Dl2fPxFNqw7d3oFhHqHc3"
-      },
-      "artists": [
-        {
-          "name": "Josh Levi",
-          "url": "https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz"
-        }
-      ],
-      "duration_ms": 144489,
-      "name": "BIRTHDAY DANCE",
-      "url": "https://open.spotify.com/track/0WkfQ4SJqsKrixNQNYSMsq"
-    },
-    {
-      "added_at": "2024-01-10 17:00:00",
-      "album": {
         "name": "act ii: date @ 8",
         "url": "https://open.spotify.com/album/77SuFKKJ3OY3ZgvuQNBiFA"
       },
@@ -1959,22 +2031,6 @@
     {
       "added_at": "2024-01-10 17:00:00",
       "album": {
-        "name": "who's loving you?",
-        "url": "https://open.spotify.com/album/6d1d2yNuU2RePNERr1o90S"
-      },
-      "artists": [
-        {
-          "name": "Ambr\u00e9",
-          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
-        }
-      ],
-      "duration_ms": 185949,
-      "name": "BAD HABITS",
-      "url": "https://open.spotify.com/track/5w4IhAYuDVdUVpkNDL6yg0"
-    },
-    {
-      "added_at": "2024-01-10 17:00:00",
-      "album": {
         "name": "Right My Wrongs",
         "url": "https://open.spotify.com/album/61ecHf31ENhC6xSwKqcw3P"
       },
@@ -1987,22 +2043,6 @@
       "duration_ms": 151730,
       "name": "Right My Wrongs",
       "url": "https://open.spotify.com/track/7ewblRqDhpyWHdZd0taBB1"
-    },
-    {
-      "added_at": "2024-01-10 17:00:00",
-      "album": {
-        "name": "6.9.4.2",
-        "url": "https://open.spotify.com/album/5o1xMeUQ9cLNq9rX5ftrrx"
-      },
-      "artists": [
-        {
-          "name": "AMARIA BB",
-          "url": "https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5"
-        }
-      ],
-      "duration_ms": 140288,
-      "name": "Real",
-      "url": "https://open.spotify.com/track/7cIjKWHZvMaDFmSUaUdN7W"
     },
     {
       "added_at": "2024-01-10 17:00:00",

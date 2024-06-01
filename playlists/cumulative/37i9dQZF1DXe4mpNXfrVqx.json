@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "Aqui quem manda s\u00e3o elas! Ou\u00e7a grandes Mc's do hip hop nacional. Foto: Azzy",
+  "description": "Aqui quem manda s\u00e3o elas! Ou\u00e7a grandes Mc's do hip hop nacional. Foto: Btrem, Slipmami",
   "name": "S\u00f3 as Minas",
   "tracks": [
     {
@@ -142,7 +142,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 145000,
       "name": "Ambi\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/11GBZzXwJ12PcXmK2L6d7d"
@@ -763,6 +763,24 @@
     },
     {
       "album": {
+        "name": "Jogo de Cintura",
+        "url": "https://open.spotify.com/album/2JtXykA4JWLnJmMWenZpag"
+      },
+      "artists": [
+        {
+          "name": "Bell Pu\u00e3",
+          "url": "https://open.spotify.com/artist/6epqSiuqjXpK1cFKGDrm2n"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200125,
+      "name": "Cigana Drill",
+      "url": "https://open.spotify.com/track/7xekeh1GgxyMxmM0K7Q11n"
+    },
+    {
+      "album": {
         "name": "Cofre",
         "url": "https://open.spotify.com/album/1zeiWi4ap2VXX9ldNQXxCK"
       },
@@ -848,6 +866,36 @@
       "duration_ms": 150635,
       "name": "Cor de Sangue",
       "url": "https://open.spotify.com/track/0o2UAD9Osda1SEsL8rUr7L"
+    },
+    {
+      "album": {
+        "name": "Cosmo e Wanda",
+        "url": "https://open.spotify.com/album/4e7KAQn2VK5U9452GKBay5"
+      },
+      "artists": [
+        {
+          "name": "Btrem",
+          "url": "https://open.spotify.com/artist/5XJ6pt7QwPKJ5X9kFvEagw"
+        },
+        {
+          "name": "Rock Danger",
+          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
+        },
+        {
+          "name": "Slipmami",
+          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+        },
+        {
+          "name": "$amuka",
+          "url": "https://open.spotify.com/artist/2rgAT15zhmX8wrjbYcXTFj"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132710,
+      "name": "Cosmo e Wanda",
+      "url": "https://open.spotify.com/track/2AZFs8hGLEC00btCoKQGFb"
     },
     {
       "album": {
@@ -1866,7 +1914,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 184607,
       "name": "IRREVERS\u00cdVEL",
       "url": "https://open.spotify.com/track/2VNpMBY9uV6JlqEjMSUu0T"
@@ -2540,7 +2588,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 138666,
       "name": "Mente Criminosa",
       "url": "https://open.spotify.com/track/1GfeZ36WjbNckRDibgDEBg"
@@ -3285,6 +3333,28 @@
     },
     {
       "album": {
+        "name": "Querem nos calar",
+        "url": "https://open.spotify.com/album/51dmrBA60wqRIb0wBPS5uT"
+      },
+      "artists": [
+        {
+          "name": "Mel Duarte",
+          "url": "https://open.spotify.com/artist/5wOU7lOA5Iyeamfae4bgSZ"
+        },
+        {
+          "name": "Felipe Parra",
+          "url": "https://open.spotify.com/artist/1OREQar1cKwQAYjW7HQhW5"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200333,
+      "name": "Querem nos calar",
+      "url": "https://open.spotify.com/track/47VkD7Z1MgtrlzfUCUWkHA"
+    },
+    {
+      "album": {
         "name": "Quero Ver Pegar",
         "url": "https://open.spotify.com/album/2KCX9iuSV51vkp3vMnPQYY"
       },
@@ -3568,6 +3638,36 @@
       "duration_ms": 307500,
       "name": "Sesh Delas",
       "url": "https://open.spotify.com/track/3RPBeD4ruUIc0Vy7DiOQFz"
+    },
+    {
+      "album": {
+        "name": "Set da Menorzinha 1.0",
+        "url": "https://open.spotify.com/album/6eYWnseUbpgOGdYDFyzHBz"
+      },
+      "artists": [
+        {
+          "name": "Mc Menorzinha",
+          "url": "https://open.spotify.com/artist/3RJgdABmH81bLY7UPixlnZ"
+        },
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/3M229lwV0rdUT9zwotdSv2"
+        },
+        {
+          "name": "Tasha & Tracie",
+          "url": "https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT"
+        },
+        {
+          "name": "MC Marcelly",
+          "url": "https://open.spotify.com/artist/3XtuCcYVAgDABkXDLUk8BE"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324986,
+      "name": "Set da Menorzinha 1.0",
+      "url": "https://open.spotify.com/track/4PIZkFECempgwhCiCGiTjO"
     },
     {
       "album": {
@@ -4006,7 +4106,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 107200,
       "name": "Tudo Que \u00c9 Meu",
       "url": "https://open.spotify.com/track/14qdjmY74WXcClSWAVZeqE"

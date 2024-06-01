@@ -1075,6 +1075,24 @@
     },
     {
       "album": {
+        "name": "Jenny's Got a Boyfriend",
+        "url": "https://open.spotify.com/album/0A2n5x2LuzK2wX8YvO0JaA"
+      },
+      "artists": [
+        {
+          "name": "Bonnie McKee",
+          "url": "https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193333,
+      "name": "Jenny's Got a Boyfriend",
+      "url": "https://open.spotify.com/track/7Eo5lYaWdWryD6uhZT7aZb"
+    },
+    {
+      "album": {
         "name": "Kick Us Out",
         "url": "https://open.spotify.com/album/18n4EfWfNiwhJeQInmEN38"
       },

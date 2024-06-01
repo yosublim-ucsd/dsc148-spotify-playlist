@@ -858,7 +858,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 213217,
       "name": "Crazy Life",
       "url": "https://open.spotify.com/track/6HetWMoIuWJpTRuhk82x5U"
@@ -1934,7 +1934,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 124296,
       "name": "If I Could Only Listen to My Heart",
       "url": "https://open.spotify.com/track/0bIcOHJmmumvvdsHmnFEy1"
@@ -2733,6 +2733,24 @@
     },
     {
       "album": {
+        "name": "No Rewind!",
+        "url": "https://open.spotify.com/album/0co4MlE0CYcVYQK9tdDrdO"
+      },
+      "artists": [
+        {
+          "name": "The Aquabats!",
+          "url": "https://open.spotify.com/artist/0WgiEOrXlaXJGHKhkd9s4s"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157880,
+      "name": "No Rewind!",
+      "url": "https://open.spotify.com/track/0eU5iSnJ4IeqMq7WcORLjK"
+    },
+    {
+      "album": {
         "name": "Right On Time",
         "url": "https://open.spotify.com/album/5n7IeJHvlLtCo3HW5vgCqu"
       },
@@ -3021,6 +3039,24 @@
     },
     {
       "album": {
+        "name": "Pama Hitmakers: Slim Smith",
+        "url": "https://open.spotify.com/album/2OW5dxauLNdDygna8R8G6W"
+      },
+      "artists": [
+        {
+          "name": "Slim Smith",
+          "url": "https://open.spotify.com/artist/2PuBpv31beJyhHfvXoku41"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148611,
+      "name": "Please Stay",
+      "url": "https://open.spotify.com/track/3sQJV9eS1EmU83t0rTAGqy"
+    },
+    {
+      "album": {
         "name": "Pre-Expatriate",
         "url": "https://open.spotify.com/album/0ZD7dhUqNF7wR0kVmH8VLw"
       },
@@ -3148,7 +3184,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 167457,
       "name": "Ranking Full Stop",
       "url": "https://open.spotify.com/track/64LfShvHappqFPT3Ftwbjq"
@@ -3214,6 +3250,24 @@
       "duration_ms": 196773,
       "name": "Revolution Riot",
       "url": "https://open.spotify.com/track/7FK3roNAFpxl3vfhtRiPH9"
+    },
+    {
+      "album": {
+        "name": "RIVERS OF BABYLON (TRIBUTE)",
+        "url": "https://open.spotify.com/album/0uUevLY1WOAljUjVPLHkFn"
+      },
+      "artists": [
+        {
+          "name": "Hopeton Lewis",
+          "url": "https://open.spotify.com/artist/0mO8aKj6nYryzzlEdPYAPb"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283586,
+      "name": "RIVERS OF BABYLONE",
+      "url": "https://open.spotify.com/track/5ur1wFW0P9yMP6T0mgt4ne"
     },
     {
       "album": {

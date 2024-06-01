@@ -2,9 +2,9 @@
 
 ### [Bambai Bantai](https://open.spotify.com/playlist/37i9dQZF1DXbSaMQIHweTw)
 
-> Rapping into your hearts from the alleys of Mumbai\. Cover\- The Siege
+> Rapping into your hearts from the alleys of Mumbai\. Cover\- Yashraj
 
-139 songs - 7 hr 30 min
+140 songs - 7 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Drill Karte](https://open.spotify.com/track/66qAXPAHwLKPLi8Gx58x5z) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [dutchavelli](https://open.spotify.com/artist/2tPR06hLUvH5aIY3JXNIxY) | [Punya Paap](https://open.spotify.com/album/5kiZkGMkfKm3tIlh2Tgfi5) | 3:29 | 2023-03-17 | 2023-12-09 |
 | [Ek Din Pyaar](https://open.spotify.com/track/0uk9sQ7MjK0CdAUinD4xBV) | [MC STAN](https://open.spotify.com/artist/5uemEEtB1ZC3s1KM7gReeH) | [Tadipaar](https://open.spotify.com/album/7e8kTENVFU4Klbpxos631b) | 3:06 | 2023-03-17 |  |
 | [Emiway\-Samajh Mein Aaya Kya?](https://open.spotify.com/track/7n8xH63Whw5spavIWScPIh) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [Emiway\-Samajh Mein Aaya Kya?](https://open.spotify.com/album/3cXkzvtDOyah8H8CYtvYcN) | 4:34 | 2024-04-12 |  |
+| [GABBAR](https://open.spotify.com/track/4OBkPKd0iA6GY0oNqhjg6v) | [Yashraj](https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST), [PUNA](https://open.spotify.com/artist/6xxZ5ygLggYl3EXuzDezvo) | [GABBAR](https://open.spotify.com/album/6kGiUi378xy9rAPZGRzBnu) | 4:01 | 2024-05-31 |  |
 | [Gangster Shit 1st](https://open.spotify.com/track/78WyKftS4YtbhbnQGwAMMi) | [SAMBATA](https://open.spotify.com/artist/3Il6TyOnML9fMSCyDMbUCO) | [Gangster Shit 1st](https://open.spotify.com/album/2EASVa2mSXZs7KERC2D8zp) | 5:21 | 2024-05-22 |  |
 | [Ghost Rider](https://open.spotify.com/track/1uu8WLy7yw6kG6SwwpluuJ) | [MC Altaf](https://open.spotify.com/artist/1oMKeiHXRkg7tNqwhaS3fu), [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR) | [Ghost Rider](https://open.spotify.com/album/7LZBdskdqo3OHvjlRYplgp) | 2:46 | 2023-03-17 | 2023-04-25 |
 | [Good Boy](https://open.spotify.com/track/1CN0mBmNtNqV70GqWzVruC) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I), [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR) | [Good Boy](https://open.spotify.com/album/7CVCPyl3tb2xShy7YGzmrK) | 2:41 | 2023-11-15 | 2024-05-23 |
@@ -104,7 +105,7 @@
 | [Moosedrilla \(feat\. DIVINE\)](https://open.spotify.com/track/67KTXqxMEyBMq3LApqCgNV) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [Moosetape](https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T) | 3:52 | 2023-03-17 | 2023-04-25 |
 | [Naina](https://open.spotify.com/track/0kdErH3y2RpZJXxsLmBWgf) | [Shez](https://open.spotify.com/artist/4VY44gs03ET26RjfICYmBe) | [Naina](https://open.spotify.com/album/4psLiGQKUug3krI0RcKlZI) | 2:45 | 2023-03-17 | 2023-04-25 |
 | [No Competition](https://open.spotify.com/track/1TRgZ55GFCKSbrTb62rmra) | [Jass Manak](https://open.spotify.com/artist/2P9JaCtpbQSuZOgvtPrUJ8), [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [No Competition](https://open.spotify.com/album/68t62rh4vZdIErvhqQG4kq) | 3:25 | 2023-03-17 | 2023-04-25 |
-| [Numb](https://open.spotify.com/track/0Yfz0JBHTThQFDK4h5gFhQ) | [MC STAN](https://open.spotify.com/artist/5uemEEtB1ZC3s1KM7gReeH) | [Numb](https://open.spotify.com/album/73vNAwnBlHuL5FnBYBou5Y) | 2:45 | 2024-04-12 |  |
+| [Numb](https://open.spotify.com/track/0Yfz0JBHTThQFDK4h5gFhQ) | [MC STAN](https://open.spotify.com/artist/5uemEEtB1ZC3s1KM7gReeH) | [Numb](https://open.spotify.com/album/73vNAwnBlHuL5FnBYBou5Y) | 2:45 | 2024-04-12 | 2024-06-01 |
 | [Nusta Paisa](https://open.spotify.com/track/4PzwnV2M9498W9sqH7qin3) | [MC STAN](https://open.spotify.com/artist/5uemEEtB1ZC3s1KM7gReeH) | [Nusta Paisa](https://open.spotify.com/album/22vgvuGWlqNx7Tu29FSvSO) | 3:40 | 2023-09-01 |  |
 | [One Hai Re Bhai](https://open.spotify.com/track/1o2kWv5NnrWGSjTRs1IImp) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [One Hai Re Bhai](https://open.spotify.com/album/6UqzC1ush92ewbmebs94KA) | 2:15 | 2024-04-12 |  |
 | [Ou!](https://open.spotify.com/track/1Aw7EMr47zy7VcGFLK0Lhi) | [Loka](https://open.spotify.com/artist/0AK5uxL2fY52xEoj1bBySu), [AAKASH](https://open.spotify.com/artist/5pJz56mXmC3bb0cIG5Ghen) | [Autobiography](https://open.spotify.com/album/6ZGUav7u1qrms2VNsl0fXD) | 2:45 | 2023-03-17 |  |

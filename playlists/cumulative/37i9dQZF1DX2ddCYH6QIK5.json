@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: Brosie, Artwork: Isu Kim.\n",
+  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: LoSin, Artwork: Isu Kim.\n",
   "name": "Fresh Finds GSA",
   "tracks": [
     {
@@ -3242,7 +3242,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 189448,
       "name": "Chamomile Tea",
       "url": "https://open.spotify.com/track/5fXuh8rmnw1xYajexsmvhV"
@@ -3520,7 +3520,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 183021,
       "name": "Computer",
       "url": "https://open.spotify.com/track/2gsdUuwXGj7afUxELxmOxH"
@@ -3560,6 +3560,24 @@
       "duration_ms": 202250,
       "name": "Consume Me",
       "url": "https://open.spotify.com/track/5yj5kiqsuwI30iDh8i4Qm7"
+    },
+    {
+      "album": {
+        "name": "control.",
+        "url": "https://open.spotify.com/album/0QZV1HiWtdLqD9YO7pm0uA"
+      },
+      "artists": [
+        {
+          "name": "KANTEREIT",
+          "url": "https://open.spotify.com/artist/1esFaOBWejURSnt8DV8jms"
+        }
+      ],
+      "date_added": "2024-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257314,
+      "name": "control.",
+      "url": "https://open.spotify.com/track/31Y6kxdxjGuYeYwLmLILMw"
     },
     {
       "album": {
@@ -4043,6 +4061,24 @@
     },
     {
       "album": {
+        "name": "Das Buch",
+        "url": "https://open.spotify.com/album/1HpRwIN5VDI50zMemM9E8A"
+      },
+      "artists": [
+        {
+          "name": "BELLI",
+          "url": "https://open.spotify.com/artist/5mP8f62pbhO2GlQI1I4yin"
+        }
+      ],
+      "date_added": "2024-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152367,
+      "name": "Das Buch",
+      "url": "https://open.spotify.com/track/05ma849lXscvph2yKeaNwE"
+    },
+    {
+      "album": {
         "name": "Das Kapital / Limoncello",
         "url": "https://open.spotify.com/album/2d6y86Kyc9YMeTCWKvHDKW"
       },
@@ -4130,7 +4166,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 176108,
       "name": "Dear Anxiety",
       "url": "https://open.spotify.com/track/2IYfz2PxPKufqrHjoYD1jL"
@@ -4456,6 +4492,24 @@
       "duration_ms": 175253,
       "name": "Detox",
       "url": "https://open.spotify.com/track/2sm65RQx1yhBofJOv5xNSN"
+    },
+    {
+      "album": {
+        "name": "Deutschland (Edit)",
+        "url": "https://open.spotify.com/album/6kNvdRcpb2Y1DFuTt73yIY"
+      },
+      "artists": [
+        {
+          "name": "NACKT",
+          "url": "https://open.spotify.com/artist/1oqcIyj0tetznO8NcWJDjt"
+        }
+      ],
+      "date_added": "2024-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210742,
+      "name": "Deutschland - Edit",
+      "url": "https://open.spotify.com/track/1n2gqDlSGj1in0kxdo5My2"
     },
     {
       "album": {
@@ -6524,7 +6578,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 177959,
       "name": "Flugmodus",
       "url": "https://open.spotify.com/track/6vHy6AC1haEhnAP1N8Gn3k"
@@ -8795,6 +8849,24 @@
     },
     {
       "album": {
+        "name": "I Don't Wanna Know",
+        "url": "https://open.spotify.com/album/6tewXoKr6MnTAvCeFQ4k3q"
+      },
+      "artists": [
+        {
+          "name": "Hanna Rautzenberg",
+          "url": "https://open.spotify.com/artist/4KsVHZ3XBKV7bIXF8x8q3y"
+        }
+      ],
+      "date_added": "2024-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165152,
+      "name": "I Don't Wanna Know",
+      "url": "https://open.spotify.com/track/2xb7U9Ne2JVYg8aszNXbZV"
+    },
+    {
+      "album": {
         "name": "I Don't Wanna Lose Myself",
         "url": "https://open.spotify.com/album/5UqNEcubHPHBYSRC3ZvbL4"
       },
@@ -9855,6 +9927,24 @@
     },
     {
       "album": {
+        "name": "Kalt",
+        "url": "https://open.spotify.com/album/2p7hXqCCDBYROrpPTpcOEP"
+      },
+      "artists": [
+        {
+          "name": "LARA",
+          "url": "https://open.spotify.com/artist/5sJwUJdjiGahgdLEVf81MF"
+        }
+      ],
+      "date_added": "2024-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127916,
+      "name": "Kalt",
+      "url": "https://open.spotify.com/track/2IVUshvWUJ3pWrlZ5peC2O"
+    },
+    {
+      "album": {
         "name": "Kalter Rauch",
         "url": "https://open.spotify.com/album/5tY9nXBuvKrvO8ViaHqcqS"
       },
@@ -10180,6 +10270,24 @@
       "duration_ms": 172500,
       "name": "kkiosk",
       "url": "https://open.spotify.com/track/7DbIPcKMWbqdc7X7OtCvBx"
+    },
+    {
+      "album": {
+        "name": "Know For Sure",
+        "url": "https://open.spotify.com/album/54ZfbbaiYJHukPVtMlCLFr"
+      },
+      "artists": [
+        {
+          "name": "Lorena Handschin",
+          "url": "https://open.spotify.com/artist/2fpEUSUvWoU53RPcSCuaLo"
+        }
+      ],
+      "date_added": "2024-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222592,
+      "name": "Know For Sure",
+      "url": "https://open.spotify.com/track/5MwCStvgi7bAaIAJejufaA"
     },
     {
       "album": {
@@ -11218,7 +11326,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 211099,
       "name": "Lover",
       "url": "https://open.spotify.com/track/2OD1NHkIO0MseMj2GBCa0r"
@@ -12136,7 +12244,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 197885,
       "name": "Murderer in the Moonlight",
       "url": "https://open.spotify.com/track/48p0uLjnXC25DW1ulg4eQ0"
@@ -12508,6 +12616,24 @@
       "duration_ms": 244674,
       "name": "News Feed",
       "url": "https://open.spotify.com/track/0PJ1n6xjYYcAC6hOjPqb69"
+    },
+    {
+      "album": {
+        "name": "nichtschwimmer",
+        "url": "https://open.spotify.com/album/5C3lrpMwWbXbMnH0YmLtV5"
+      },
+      "artists": [
+        {
+          "name": "Luis Schwamm",
+          "url": "https://open.spotify.com/artist/5xJrBzIh8wDr1sCL4Lq2HK"
+        }
+      ],
+      "date_added": "2024-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120228,
+      "name": "nichtschwimmer",
+      "url": "https://open.spotify.com/track/5xWL39XHuLPamlpBnKj0XA"
     },
     {
       "album": {
@@ -15475,6 +15601,24 @@
     },
     {
       "album": {
+        "name": "SCHOCK OMG",
+        "url": "https://open.spotify.com/album/1KhZiEyCdLwslNj8puOwJ1"
+      },
+      "artists": [
+        {
+          "name": "DWAN",
+          "url": "https://open.spotify.com/artist/6slA8vKQfDxpmS2DRYhUcI"
+        }
+      ],
+      "date_added": "2024-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140739,
+      "name": "SCHOCK OMG",
+      "url": "https://open.spotify.com/track/1licUeSEkOe6FWDAGBZZmr"
+    },
+    {
+      "album": {
         "name": "schwarze tinte",
         "url": "https://open.spotify.com/album/1Rl1vH2nbUx0fZ5JGRsuvj"
       },
@@ -16012,7 +16156,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 120250,
       "name": "sleep a week",
       "url": "https://open.spotify.com/track/5hmBLmRYl3R6fNIidAe8hz"
@@ -16384,6 +16528,42 @@
       "duration_ms": 144181,
       "name": "Sommerherz",
       "url": "https://open.spotify.com/track/3MvYgQdC075ShrV9NMY5l3"
+    },
+    {
+      "album": {
+        "name": "Sommernachtstraum",
+        "url": "https://open.spotify.com/album/3AKgbWEiNM2fq4IEyND14u"
+      },
+      "artists": [
+        {
+          "name": "CL\u00c5RA",
+          "url": "https://open.spotify.com/artist/47r6hN3XzIyOTzlXEE6vBs"
+        }
+      ],
+      "date_added": "2024-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209000,
+      "name": "Sommernachtstraum",
+      "url": "https://open.spotify.com/track/7E5tLqlKWuadSHjkVbdaBI"
+    },
+    {
+      "album": {
+        "name": "Sommerregen",
+        "url": "https://open.spotify.com/album/6mZGBF22u5vvze5sEXvrXn"
+      },
+      "artists": [
+        {
+          "name": "LoSin",
+          "url": "https://open.spotify.com/artist/2V2TjlO4cIpjrPqCHoKurj"
+        }
+      ],
+      "date_added": "2024-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154400,
+      "name": "Sommerregen",
+      "url": "https://open.spotify.com/track/3hmHc8LawSwTMSsBM1qzNx"
     },
     {
       "album": {
@@ -18402,7 +18582,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 287589,
       "name": "Traveller",
       "url": "https://open.spotify.com/track/4EW7dVVnUTiC4Xkebko4ko"
@@ -18676,7 +18856,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 203644,
       "name": "T\u00fcren",
       "url": "https://open.spotify.com/track/3vRx2T46BRUU6ZqiSUZ2BZ"
@@ -19842,7 +20022,7 @@
       ],
       "date_added": "2024-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 166184,
       "name": "White Dress",
       "url": "https://open.spotify.com/track/1fep0mLqAf2cqBkaS137Ha"

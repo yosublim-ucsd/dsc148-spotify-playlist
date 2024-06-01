@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-19",
-  "description": "Tracks popping off in the Afro scene. Cover: Harley",
+  "description": "Tracks popping off in the Afro scene. Cover: Kizz Daniel",
   "name": "Afro Station",
   "tracks": [
     {
@@ -46,6 +46,24 @@
       "duration_ms": 187906,
       "name": "2 Sugar (feat. Ayra Starr)",
       "url": "https://open.spotify.com/track/1DA2ADZs6O28y2rmdmpekw"
+    },
+    {
+      "album": {
+        "name": "3X Bisous",
+        "url": "https://open.spotify.com/album/13JmSMm71ZJA6lRq0ni619"
+      },
+      "artists": [
+        {
+          "name": "DIMA DIMA",
+          "url": "https://open.spotify.com/artist/5eb7nRgBZmN9EIBVLLZjbu"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116000,
+      "name": "3X Bisous",
+      "url": "https://open.spotify.com/track/3Dv0ZGCbh9eiPZCqvPmIBU"
     },
     {
       "album": {
@@ -1850,7 +1868,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 155999,
       "name": "December",
       "url": "https://open.spotify.com/track/3kkuduvNylAGQklZkrqZJT"
@@ -2193,6 +2211,24 @@
     },
     {
       "album": {
+        "name": "Double",
+        "url": "https://open.spotify.com/album/3yVzzFCkrfzcmT8koofo0e"
+      },
+      "artists": [
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168779,
+      "name": "Double",
+      "url": "https://open.spotify.com/track/5aYcdAo0OCkV9lxQFFWaVg"
+    },
+    {
+      "album": {
         "name": "Doucement",
         "url": "https://open.spotify.com/album/6JlJJMgyYHS3ShaNZHM0bc"
       },
@@ -2448,7 +2484,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 154051,
       "name": "En tas",
       "url": "https://open.spotify.com/track/311ssPqcNd2wVwT1tj6QsE"
@@ -3161,6 +3197,24 @@
     },
     {
       "album": {
+        "name": "Habiba",
+        "url": "https://open.spotify.com/album/4nYHSZK7SeoqbdfecXQoNA"
+      },
+      "artists": [
+        {
+          "name": "Julio",
+          "url": "https://open.spotify.com/artist/06iLPkWb39cB70oMW02chM"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154009,
+      "name": "Habiba",
+      "url": "https://open.spotify.com/track/2eKIj6uZddMcpI6ADoKsjf"
+    },
+    {
+      "album": {
         "name": "Handle Me (feat. Adekunle Gold)",
         "url": "https://open.spotify.com/album/3Cd3jHPeIl4euaDfPIccK4"
       },
@@ -3528,7 +3582,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 177692,
       "name": "IN MY HEAD",
       "url": "https://open.spotify.com/track/7AoQcUEi2ZzF6vOrutcoZU"
@@ -3880,7 +3934,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 162419,
       "name": "Kama",
       "url": "https://open.spotify.com/track/7JL4ESrT0oI9H1fTw60pvQ"
@@ -5292,7 +5346,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 205439,
       "name": "Ne promets pas",
       "url": "https://open.spotify.com/track/7pRwAS3DPhwaIa7ryR6zBz"
@@ -5566,6 +5620,24 @@
       "duration_ms": 139473,
       "name": "Nouveau Dossier",
       "url": "https://open.spotify.com/track/0FnkamDeASFZ49DlYzQXFF"
+    },
+    {
+      "album": {
+        "name": "O Bosso",
+        "url": "https://open.spotify.com/album/0l4xod31xFjZpLTT99CBlS"
+      },
+      "artists": [
+        {
+          "name": "Locko",
+          "url": "https://open.spotify.com/artist/7cUFvbLZrLySXBoxk39kCZ"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158931,
+      "name": "O Bosso",
+      "url": "https://open.spotify.com/track/6SIg8TNpd9odyF40MgBIH9"
     },
     {
       "album": {
@@ -7310,6 +7382,24 @@
       "duration_ms": 210000,
       "name": "Sungba (feat. Burna Boy) - Remix",
       "url": "https://open.spotify.com/track/5FtWjKVBTMklN2yCP9UhF6"
+    },
+    {
+      "album": {
+        "name": "SUNSET",
+        "url": "https://open.spotify.com/album/0orllRXHe8yEV02G7DExak"
+      },
+      "artists": [
+        {
+          "name": "WAYNE FLENORY",
+          "url": "https://open.spotify.com/artist/6SZwuzkYiQwQIFMJ6VHCIV"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161632,
+      "name": "SUNSET",
+      "url": "https://open.spotify.com/track/3fAx20NiCyfe9qBX35n0aV"
     },
     {
       "album": {

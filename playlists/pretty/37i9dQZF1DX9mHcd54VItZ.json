@@ -1,28 +1,28 @@
 {
-  "description": "The best classic and new sounds from South African Rock. Cover: <a href=\"https://open.spotify.com/artist/4FvIuLbPat5vSttuzmM7VE?si=JYtPHoRASdO2CzgkhyN3sQ\">VOLK</a>",
-  "num_followers": 18256,
+  "description": "The best classic and new sounds from South African Rock. Cover: <a href=\"https://open.spotify.com/artist/2AT751CV7Ass28MqGa0CCG\">Vancoet</a>",
+  "num_followers": 18304,
   "original_name": "SA Rock ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkaB4AAAAACUVUcdcxikduuvsQSXDjrb",
+  "snapshot_id": "ZllHAQAAAADDOHVM/W0/GUA8Ngzajptb",
   "tracks": [
     {
-      "added_at": "2024-05-16 22:00:00",
+      "added_at": "2024-05-31 03:41:53",
       "album": {
-        "name": "Nou's Ek Blind",
-        "url": "https://open.spotify.com/album/5egz5Szxe4rFmYUUvsGzLI"
+        "name": "Voel Jy Dit?",
+        "url": "https://open.spotify.com/album/0woO4IsAbmDoxLE2INCuE7"
       },
       "artists": [
         {
-          "name": "VOLK",
-          "url": "https://open.spotify.com/artist/4FvIuLbPat5vSttuzmM7VE"
+          "name": "Vancoet",
+          "url": "https://open.spotify.com/artist/2AT751CV7Ass28MqGa0CCG"
         }
       ],
-      "duration_ms": 238711,
-      "name": "Nou's Ek Blind",
-      "url": "https://open.spotify.com/track/5IsUGhCV7rl11tnQf3jsuA"
+      "duration_ms": 171823,
+      "name": "Voel Jy Dit?",
+      "url": "https://open.spotify.com/track/6PHxsiho5eloCFvuYseB7Y"
     },
     {
       "added_at": "2024-02-29 22:00:00",
@@ -453,20 +453,20 @@
       "url": "https://open.spotify.com/track/7D9KPaGWVYgKVICbKaBsoi"
     },
     {
-      "added_at": "2024-05-03 06:46:20",
+      "added_at": "2024-05-16 22:00:00",
       "album": {
-        "name": "Wees Net Beter",
-        "url": "https://open.spotify.com/album/0eGLX2V8HCU77UB8sQRmuk"
+        "name": "Nou's Ek Blind",
+        "url": "https://open.spotify.com/album/5egz5Szxe4rFmYUUvsGzLI"
       },
       "artists": [
         {
-          "name": "Janis Kelber",
-          "url": "https://open.spotify.com/artist/5r6vYX5N7yykrz95gWj3WS"
+          "name": "VOLK",
+          "url": "https://open.spotify.com/artist/4FvIuLbPat5vSttuzmM7VE"
         }
       ],
-      "duration_ms": 204816,
-      "name": "Wees Net Beter",
-      "url": "https://open.spotify.com/track/3SMun4H8Fy86MLw2jgUZBu"
+      "duration_ms": 238711,
+      "name": "Nou's Ek Blind",
+      "url": "https://open.spotify.com/track/5IsUGhCV7rl11tnQf3jsuA"
     },
     {
       "added_at": "2024-02-29 22:00:00",
@@ -483,6 +483,22 @@
       "duration_ms": 193986,
       "name": "Hey Mister",
       "url": "https://open.spotify.com/track/6WYfKDuPFNiKS36G4FqRv8"
+    },
+    {
+      "added_at": "2024-05-03 06:46:20",
+      "album": {
+        "name": "Wees Net Beter",
+        "url": "https://open.spotify.com/album/0eGLX2V8HCU77UB8sQRmuk"
+      },
+      "artists": [
+        {
+          "name": "Janis Kelber",
+          "url": "https://open.spotify.com/artist/5r6vYX5N7yykrz95gWj3WS"
+        }
+      ],
+      "duration_ms": 204816,
+      "name": "Wees Net Beter",
+      "url": "https://open.spotify.com/track/3SMun4H8Fy86MLw2jgUZBu"
     },
     {
       "added_at": "2024-02-29 22:00:00",
@@ -615,22 +631,6 @@
     {
       "added_at": "2024-02-29 22:00:00",
       "album": {
-        "name": "Heelal",
-        "url": "https://open.spotify.com/album/0MRr2149VZFyYQ5Yn0tgCw"
-      },
-      "artists": [
-        {
-          "name": "Ryno Velvet",
-          "url": "https://open.spotify.com/artist/1qn5hZjDJPBVBFsqLujvyt"
-        }
-      ],
-      "duration_ms": 247146,
-      "name": "Katedraal",
-      "url": "https://open.spotify.com/track/0mJcJqP8GWSLCV2TMbnlIY"
-    },
-    {
-      "added_at": "2024-02-29 22:00:00",
-      "album": {
         "name": "Klanke Van Die Antieke",
         "url": "https://open.spotify.com/album/7KDyQTLYSUY4cb4ynkbhPZ"
       },
@@ -675,6 +675,22 @@
       "duration_ms": 141186,
       "name": "Sindikaat",
       "url": "https://open.spotify.com/track/0qkIdbHq4RHlUuVkj6eRcs"
+    },
+    {
+      "added_at": "2024-02-29 22:00:00",
+      "album": {
+        "name": "Heelal",
+        "url": "https://open.spotify.com/album/0MRr2149VZFyYQ5Yn0tgCw"
+      },
+      "artists": [
+        {
+          "name": "Ryno Velvet",
+          "url": "https://open.spotify.com/artist/1qn5hZjDJPBVBFsqLujvyt"
+        }
+      ],
+      "duration_ms": 247146,
+      "name": "Katedraal",
+      "url": "https://open.spotify.com/track/0mJcJqP8GWSLCV2TMbnlIY"
     },
     {
       "added_at": "2024-02-29 22:00:00",
@@ -811,22 +827,6 @@
       "duration_ms": 277500,
       "name": "Wicked Wonder - Remastered",
       "url": "https://open.spotify.com/track/5t6IjFvqIUAMRzpIzvwi2W"
-    },
-    {
-      "added_at": "2024-02-29 22:00:00",
-      "album": {
-        "name": "The Finkelstiens vs Rock n Roll",
-        "url": "https://open.spotify.com/album/5rCcsjOvyWzENs0VB3Z24B"
-      },
-      "artists": [
-        {
-          "name": "The Finkelstiens",
-          "url": "https://open.spotify.com/artist/34ileyID0hIkQBkMpwwfCj"
-        }
-      ],
-      "duration_ms": 187626,
-      "name": "Good Life",
-      "url": "https://open.spotify.com/track/4nZNhweRT6VJWd0XYeEzBQ"
     }
   ],
   "unique_name": "SA Rock ",

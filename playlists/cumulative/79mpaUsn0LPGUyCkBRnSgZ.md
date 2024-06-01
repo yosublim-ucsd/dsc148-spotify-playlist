@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-672 songs - 1 day 19 hr 55 min
+674 songs - 1 day 20 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Anna Calls From The Arctic](https://open.spotify.com/track/6oq1L27bdnLF3rb8O4V41t) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Stumpwork](https://open.spotify.com/album/64OXKq9VK1geZd3Q9OpoBO) | 4:57 | 2022-11-29 |  |
 | [Ape Sounds Opening](https://open.spotify.com/track/1XuIxhSfZs0NBJVv1z2K6t) | [Nigo](https://open.spotify.com/artist/2rAnv6brcXaglLZBB4XXEn) | [Ape Sounds](https://open.spotify.com/album/3R65oX0hqHdZMLc1fwtcV1) | 0:25 | 2024-05-28 |  |
 | [Arcadia](https://open.spotify.com/track/0EfJlpGqnmEPkGHgU0I2ax) | [Ramona Lisa](https://open.spotify.com/artist/4rznUCgRWVTHQX9tUyQ4BV) | [Arcadia](https://open.spotify.com/album/4OeA68LyLKcKR4g4DYkc5t) | 4:11 | 2023-10-17 |  |
+| [Arithmophobia](https://open.spotify.com/track/2gOfUuZ0FMpFVvCsjy0omI) | [Animals As Leaders](https://open.spotify.com/artist/65C6Unk7nhg2aCnVuAPMo8) | [The Madness Of Many](https://open.spotify.com/album/4Xm2aSISFdqLoJJACkZFUl) | 6:01 | 2024-05-31 |  |
 | [Army of Me](https://open.spotify.com/track/3vEmpJQC2p8h0U3OiBufQm) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Post](https://open.spotify.com/album/2Ul7B1LEHxXzYubtkTMENs) | 3:54 | 2022-10-01 |  |
 | [As Good As New](https://open.spotify.com/track/71or1G6CbfIttRDnBnTTAL) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Voulez\-Vous](https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh) | 3:24 | 2023-01-18 |  |
 | [Assata's Code](https://open.spotify.com/track/2aSkCiAqywd3LMmanvsYXi) | [Talib Kweli](https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y), [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf), [Diani](https://open.spotify.com/artist/4g4T0gCzryRmUOfYDgrvyD) | [Liberation 2](https://open.spotify.com/album/0zsoWKnMDhi7TgMMST7sYn) | 2:02 | 2024-04-14 |  |
@@ -516,7 +517,7 @@
 | [Silent Resolve](https://open.spotify.com/track/5TFjulUVozhg2upoFmbblV) | [Circa](https://open.spotify.com/artist/0NWAtptwHV1dlKCTTcNHly) | [Valley of the Windmill](https://open.spotify.com/album/3MndV3Q7I9Nxdy8rpl0jqp) | 14:41 | 2024-05-27 |  |
 | [Silhouette](https://open.spotify.com/track/4GIHwigKlA5TweoUppHRxk) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [Waiting to Spill](https://open.spotify.com/album/2Gb2plO2TkNRIgoCuJGm7C) | 6:13 | 2023-01-11 |  |
 | [Sillycone Valley](https://open.spotify.com/track/23R59LUKKvATvII3orFxCS) | [Lene Alexandra](https://open.spotify.com/artist/1g3WGig4QyMUUl6Iq9Euex) | [Welcome to Sillycone Valley](https://open.spotify.com/album/0Z1hMwSO1ejYo4MnJCbPVv) | 3:01 | 2024-02-06 | 2024-02-17 |
-| [Singing Winds, Crying Beasts](https://open.spotify.com/track/0vBCQeiEKRy6eJmrf5zz4H) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [Abraxas](https://open.spotify.com/album/1CHUXwuge9A7L2KiA3vnR6) | 4:50 | 2024-05-27 |  |
+| [Singing Winds, Crying Beasts](https://open.spotify.com/track/0vBCQeiEKRy6eJmrf5zz4H) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [Abraxas](https://open.spotify.com/album/1CHUXwuge9A7L2KiA3vnR6) | 4:50 | 2024-05-27 | 2024-06-01 |
 | [Sir Benni Miles](https://open.spotify.com/track/0JA4GtolOVxzFttdnMCwuJ) | [Armand Hammer](https://open.spotify.com/artist/3SCI7sXHUZIeDKMWC5NT9C), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Haram](https://open.spotify.com/album/0RPanQrJXRyTJoiq2trm7k) | 2:59 | 2022-01-02 |  |
 | [Sister Ray](https://open.spotify.com/track/4pfjtMqXAsVrjCzEtthqo0) | [Foxes](https://open.spotify.com/artist/7qRll6DYV06u2VuRPAVqug) | [The Kick](https://open.spotify.com/album/2IXCvUDkW26YzxCizZ9b6n) | 3:39 | 2024-02-15 |  |
 | [Sketches Of Brunswick East I](https://open.spotify.com/track/2nuzFl7CdwhdTQEnmiqWW2) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn), [Mild High Club](https://open.spotify.com/artist/5J81VungUjSVHxlPpTI9KG) | [Sketches of Brunswick East](https://open.spotify.com/album/6eD0NNGuIdYPUbEPbUzLnE) | 1:20 | 2023-06-23 |  |
@@ -574,6 +575,7 @@
 | [The Bad In Each Other](https://open.spotify.com/track/61etm6bMP3BnD3SiwreMZu) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Metals](https://open.spotify.com/album/16EdRx2P4PVgZFK53UF3JD) | 4:44 | 2023-12-16 |  |
 | [The Baddest](https://open.spotify.com/track/1VPrpfphPvCkTM09DDt7OY) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH), [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA) | [2000](https://open.spotify.com/album/5lICxaH7i12zXxQGjd2Mjn) | 2:43 | 2022-09-07 |  |
 | [THE BEACH](https://open.spotify.com/track/0lqAn1YfFVQ3SdoF7tRZO2) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [RAMONA PARK BROKE MY HEART](https://open.spotify.com/album/2G549zeda2XNICgLmU0pNW) | 1:07 | 2022-04-08 |  |
+| [The Best Ever Death Metal Band in Denton](https://open.spotify.com/track/4AtUqjDgRO2S3jBzAjRvh7) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [All Hail West Texas \(Remastered\)](https://open.spotify.com/album/3yreM49ULtR2xW4fSENo3K) | 2:36 | 2024-05-30 |  |
 | [The Day Begins](https://open.spotify.com/track/03fUImUW8G4zDuQOkwWR7v) | [The Moody Blues](https://open.spotify.com/artist/5BcZ22XONcRoLhTbZRuME1) | [Days Of Future Passed \(Remastered 2017\)](https://open.spotify.com/album/7IIy4elDOHGHr6qemgpa9i) | 5:48 | 2024-01-25 |  |
 | [The Dinosaur Where We Fell In Love](https://open.spotify.com/track/12GpylddMkhfIdrzGbCeNN) | [RM Hubbert](https://open.spotify.com/artist/6CTfJQCh41MSUkUDjBhol8) | [Telling The Trees](https://open.spotify.com/album/4NSsIjh6S7nvcpo5s2QQRe) | 3:38 | 2024-01-18 |  |
 | [The District Sleeps Alone Tonight](https://open.spotify.com/track/2Qyd6O0zzGrA8Ml2IClSW9) | [The Postal Service](https://open.spotify.com/artist/5yV1qdnmxyIYiSFB02wpDj) | [Give Up](https://open.spotify.com/album/1BSwkKATGVCMgNuN8ve7mz) | 4:44 | 2022-12-09 | 2023-08-11 |

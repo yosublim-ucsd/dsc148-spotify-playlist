@@ -4,7 +4,7 @@
 
 > Homegrown Ugandan hits in one playlist\. Cover: Winnie Nwagi
 
-297 songs - 15 hr 24 min
+299 songs - 15 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Brand New](https://open.spotify.com/track/1xxFgXy5QVzP6cIHJ3mrTE) | [Azawi](https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR) | [SANKOFA](https://open.spotify.com/album/1zSyQiZdfsczxs84VVghKC) | 2:26 | 2024-03-15 | 2024-04-06 |
 | [Bulamu](https://open.spotify.com/track/2Kg2NJPPa6gkrwP6Kn4YHR) | [Zulitums](https://open.spotify.com/artist/7KJHPQ0SRCI3AlxKX7heea) | [Bulamu](https://open.spotify.com/album/0jOsRZm1XnBX4xuksaARJa) | 3:13 | 2023-03-24 | 2023-07-14 |
 | [Buntu Butono](https://open.spotify.com/track/67YI9vKutXxFndWzBfvw8q) | [Shakira Shakiraa](https://open.spotify.com/artist/6wrDBpAgLxuKNKR8ohgdty) | [Buntu Butono](https://open.spotify.com/album/6IM786ebwxU17zlAZLcwal) | 3:00 | 2024-05-09 |  |
-| [Butterflies](https://open.spotify.com/track/7kq5akv1G7pBvCrxxROyd1) | [Ratigan Era](https://open.spotify.com/artist/6XmSsmTptfw1G2FtpQfXe0), [Pretty Banks](https://open.spotify.com/artist/5NrH5piljK9ylmYO1EMrDr) | [Butterflies](https://open.spotify.com/album/0Ffs3G6AtmVdMarb5jZbwF) | 3:25 | 2024-04-12 |  |
+| [Butterflies](https://open.spotify.com/track/7kq5akv1G7pBvCrxxROyd1) | [Ratigan Era](https://open.spotify.com/artist/6XmSsmTptfw1G2FtpQfXe0), [Pretty Banks](https://open.spotify.com/artist/5NrH5piljK9ylmYO1EMrDr) | [Butterflies](https://open.spotify.com/album/0Ffs3G6AtmVdMarb5jZbwF) | 3:25 | 2024-04-12 | 2024-06-01 |
 | [Bwepaba](https://open.spotify.com/track/5zxBCElTKxOF2FptuZBjDt) | [Fik Fameica](https://open.spotify.com/artist/4pTCPk9pqZ06ggZvk7F4Z5), [Sheebah](https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu) | [Bwepaba](https://open.spotify.com/album/3KTcQeURSAxN6ubdoh9QKa) | 2:52 | 2023-09-22 |  |
 | [Bwereere](https://open.spotify.com/track/0F0I1DfugB7Ht1ZSYyS6Pm) | [Spice Diana](https://open.spotify.com/artist/0l4viSdndwVHufMRZposyM) | [Bwereere](https://open.spotify.com/album/4iNoXsaeBjdhkX8DOHrZaX) | 3:05 | 2023-06-02 | 2024-05-04 |
 | [Byowaba](https://open.spotify.com/track/0gyH24GQiQDOGHn40goN8X) | [Bebe Cool](https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81) | [Byowaba](https://open.spotify.com/album/20BSAYhSq4zpyNlSJD210x) | 3:44 | 2023-04-01 | 2023-05-24 |
@@ -85,6 +85,7 @@
 | [Ekyama](https://open.spotify.com/track/0309BYyPGtJuZu5BRqcsYf) | [Jozzi Uganda](https://open.spotify.com/artist/3H4d85m6pJn0VfXvCl3vC3), [Will84](https://open.spotify.com/artist/1BeeJoeMWmKFM93rL0fF09) | [Ekyama](https://open.spotify.com/album/7pP6QgWbnNyzsArFSCklj0) | 3:37 | 2023-07-13 | 2024-05-04 |
 | [Elevated](https://open.spotify.com/track/3PiqeknpS4EB0kDAfWvai4) | [Azawi](https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR), [Elijah Kitaka](https://open.spotify.com/artist/2MrWl3XhEH4Rgs4L8wOex6), [Mike Kayihura](https://open.spotify.com/artist/7H6D1dNdzJt8NHOsTTTTNL), [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE) | [SANKOFA](https://open.spotify.com/album/1zSyQiZdfsczxs84VVghKC) | 3:05 | 2024-03-15 | 2024-04-06 |
 | [Embaga Ya Isma Na Amina](https://open.spotify.com/track/27WeTg92aDBNGMTwAzlFDC) | [Gravity Omutujju](https://open.spotify.com/artist/6nxjPyAUGxuhWX68nT7oko) | [Embaga Ya Isma Na Amina](https://open.spotify.com/album/2lPAD0u8rrpi95AVxZ2JAl) | 3:27 | 2024-05-24 |  |
+| [Embaga Ya Isma Na’mina](https://open.spotify.com/track/2boSNe9SlveKjsVTSvueHA) | [Gravity Omutujju](https://open.spotify.com/artist/6nxjPyAUGxuhWX68nT7oko) | [Embaga Ya Isma Na’mina](https://open.spotify.com/album/6PKoBd0ZatvAmaYhrP2AHd) | 2:25 | 2024-05-31 |  |
 | [Emergency](https://open.spotify.com/track/5F80kygqI0nMAOqNz84qMY) | [Spice Diana](https://open.spotify.com/artist/0l4viSdndwVHufMRZposyM), [Jose Chameleone](https://open.spotify.com/artist/6nTXL0DkmSqjvcKjn6hCUz) | [Star Gal](https://open.spotify.com/album/09xaNHKwYwZGVu3NLopjiJ) | 3:26 | 2022-05-27 | 2023-03-03 |
 | [Enjoy Life](https://open.spotify.com/track/1mFsMghybfR05jYyfLn6Bo) | [Liam Peaty](https://open.spotify.com/artist/69TPgkTotm19AwHFyqiK7L) | [Enjoy Life](https://open.spotify.com/album/45h7kl0iBa3zMI2kyr6Rk0) | 3:36 | 2022-11-17 | 2023-01-13 |
 | [Enjoyment](https://open.spotify.com/track/5pf5ek4NcXQAsuoRhvO7A3) | [Eddy Kenzo](https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j), [Rickman Manrick](https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM) | [Enjoyment](https://open.spotify.com/album/2PhVNYUYi6uiCsZerHfds4) | 3:13 | 2022-05-12 | 2024-02-03 |
@@ -238,6 +239,7 @@
 | [RainFall](https://open.spotify.com/track/7JMR4ksKkxC0UhxfkKFFUP) | [HerbertSkillz](https://open.spotify.com/artist/30hteLyFTmiRraerHJBoba), [Eddy Kenzo](https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j) | [RainFall](https://open.spotify.com/album/0cOqoc0T8yzsN4WbtDbCDK) | 3:29 | 2022-11-25 | 2023-02-28 |
 | [Remember](https://open.spotify.com/track/1Z5NPO5apm03OD1UzM30Vq) | [SHENA SKIES](https://open.spotify.com/artist/59a5FtFMSsCD2iYYfuQTvO) | [Remember](https://open.spotify.com/album/4Or0X5Z3c0lxpfcDe9I7M4) | 3:02 | 2023-12-08 | 2024-05-17 |
 | [Repeat It](https://open.spotify.com/track/1RNuBijIYqiTiVntdLxmSI) | [Azawi](https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR) | [Lo Fit](https://open.spotify.com/album/2beijZRmK4W8jfLqjYzt1N) | 3:11 | 2024-03-15 | 2024-04-06 |
+| [Riding](https://open.spotify.com/track/5h2nyrTocI7DEyYlNqFfvm) | [Jon Muq](https://open.spotify.com/artist/5zAZlJoWriAEhhOlm96vPe) | [Flying Away](https://open.spotify.com/album/4j1AyvNomAzsaT9mi0VkNB) | 3:05 | 2024-05-31 |  |
 | [Riri](https://open.spotify.com/track/3OgiA8uA9uRS5hSfUfctAo) | [$hyli](https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ) | [Riri](https://open.spotify.com/album/2txk6mLoIFVO2Bj3IJJqYn) | 3:35 | 2022-09-30 | 2023-02-27 |
 | [Riri](https://open.spotify.com/track/3kYMCCE3sV70yPOaFM4eCr) | [$hyli](https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ) | [Music for the Soul](https://open.spotify.com/album/1Py43eA0a9cU9cRuhvF46K) | 3:35 | 2022-09-30 | 2023-10-10 |
 | [Riri](https://open.spotify.com/track/6uuhUQUMzrnEZdTaTwpgYZ) | [$hyli](https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ) | [Riri](https://open.spotify.com/album/0YbmSdTyRouipTci3DtkQv) | 3:35 | 2022-05-12 | 2022-10-21 |

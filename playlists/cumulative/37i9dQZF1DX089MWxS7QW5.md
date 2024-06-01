@@ -4,7 +4,7 @@
 
 > 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: Jhnovr\(존오버\)\)
 
-341 songs - 18 hr 55 min
+342 songs - 18 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -281,6 +281,7 @@
 | [SummerSweet](https://open.spotify.com/track/7I9Pu7IABwbwM9fEyOjAvi) | [NavyQuokka](https://open.spotify.com/artist/0NboRG7IHfknCcdBSdIrxW) | [SummerSweet](https://open.spotify.com/album/68weYmNQmhCr9BAgb9Oqgp) | 2:30 | 2022-07-27 | 2022-12-14 |
 | [Sunrise Surf](https://open.spotify.com/track/00BhvVsOJkBMJVyojR7Cd9) | [LEAFY](https://open.spotify.com/artist/1w2W3b2Z93RMJlygXigbNL) | [SUNNY SIDE UP](https://open.spotify.com/album/70AcRM1xkrvxLjCwyNw1Vl) | 2:41 | 2023-08-04 | 2023-11-29 |
 | [Sunset to Sunrise](https://open.spotify.com/track/5rkfygpzBJLd8LziK9nD61) | [YNR](https://open.spotify.com/artist/6KNsuFP4y43HfGwlgXGStK) | [Sunset to Sunrise](https://open.spotify.com/album/0W9lundQIEipTgxlmReGQo) | 2:34 | 2022-07-04 | 2022-11-07 |
+| [Swear](https://open.spotify.com/track/3Zr7XljDMsjanXYIIjZMXp) | [Huh](https://open.spotify.com/artist/30AghIfoMJrMo1YqoUkEMM) | [Swear](https://open.spotify.com/album/3vNYAR6SdAeKcQGgOPTyY2) | 2:57 | 2024-05-30 |  |
 | [Swear](https://open.spotify.com/track/50X1UUiTcDjq0tTybkBSot) | [XAXA](https://open.spotify.com/artist/2Rtn7OFpkjyS5OXGaKzwW1) | [Remember](https://open.spotify.com/album/4yHWe2xBs5mk0wNHafCUVH) | 3:20 | 2022-05-28 | 2022-07-05 |
 | [Swoosh \(feat\. DUT2\)](https://open.spotify.com/track/6AVagUXzjPGjXGaqHilS9Q) | [oceanfromtheblue](https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a), [DUT2](https://open.spotify.com/artist/4YCMBr9I1zesFyMMyoc4pX) | [NEWRNBERA](https://open.spotify.com/album/7CcYqPAWRlyOA5oXBOi8Zi) | 3:05 | 2023-08-17 | 2023-11-29 |
 | [T.T.T \(Tell The Truth\) \(Feat\. Moon Sujin, NONE\)](https://open.spotify.com/track/63SD3RfeR1qMmYTmEBd1F4) | [BUMKEY](https://open.spotify.com/artist/3vhZuZdMksbnJwoE3AwpXq), [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du), [NONE](https://open.spotify.com/artist/03EV1JpYOKlc2jSXj0TQrM) | [T.T.T \(Tell The Truth\)](https://open.spotify.com/album/0yp3elCpF7Goy4DEw7dTfL) | 3:15 | 2023-03-27 | 2023-09-19 |

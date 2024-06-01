@@ -741,6 +741,28 @@
     },
     {
       "album": {
+        "name": "Maranza",
+        "url": "https://open.spotify.com/album/3Uxxs4524HPBmxiApER8A5"
+      },
+      "artists": [
+        {
+          "name": "Il Pagante",
+          "url": "https://open.spotify.com/artist/1vKXVGgIDP1XXZX4Tehjtn"
+        },
+        {
+          "name": "Fabio Rovazzi",
+          "url": "https://open.spotify.com/artist/35orQw8LgQn7KOFjzCyY7E"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180762,
+      "name": "Maranza",
+      "url": "https://open.spotify.com/track/189QAlCQGRHlHctMkIW0ot"
+    },
+    {
+      "album": {
         "name": "mariposas",
         "url": "https://open.spotify.com/album/5oSxZwLHXX8NOpayMUC9VH"
       },

@@ -4,7 +4,7 @@
 
 > I'm just a girl
 
-156 songs - 8 hr 1 min
+158 songs - 8 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [ART](https://open.spotify.com/track/40ds3xedbMkWhszkGnZwxi) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA](https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE) | 2:28 | 2024-03-22 |  |
 | [ATM \(feat\. Missy Elliott\)](https://open.spotify.com/track/3cqm5i4yDaNuzu9oQmQzBC) | [Bree Runway](https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [2000AND4EVA](https://open.spotify.com/album/4lmOcEBG9fJjc6UeMbttVt) | 3:07 | 2022-07-27 | 2022-08-27 |
 | [Away](https://open.spotify.com/track/2s9OC1yMrccPa9lJpwBmTL) | [Yimeeka](https://open.spotify.com/artist/0yGRgPiwbWQcQsMf7H7DmK), [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Yimeeka](https://open.spotify.com/album/4wmJQOsN4UqbcdeaVXuh6a) | 2:18 | 2024-04-26 | 2024-05-03 |
+| [Bad Intentions](https://open.spotify.com/track/27q7h5x84WFrJY3nuSazaB) | [Deola](https://open.spotify.com/artist/6l1wMjMtPsD4Y7khSsbjyR), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [Bad Intentions](https://open.spotify.com/album/5COQlZAbe4e3uklPQlOTuS) | 3:14 | 2024-05-31 |  |
 | [Bad Vibes \(feat\. Seyi Vibez\)](https://open.spotify.com/track/6HTjqv0AsiZ34fOMcGCbSX) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Bad Vibes](https://open.spotify.com/album/00Z9OpzSflzHQuKMrR315g) | 2:48 | 2024-05-10 |  |
 | [Be On It](https://open.spotify.com/track/6O93QLd2nPvNhnaov2eYpT) | [TSCRPT](https://open.spotify.com/artist/4Z02hpbBY4eH7yN7ceInzV), [Rebecca Winter](https://open.spotify.com/artist/1SbOUD9N7WuyXFV8ISYxK5) | [Be On It](https://open.spotify.com/album/0hEih748IMyx6TO21NEdGw) | 3:36 | 2022-12-02 |  |
 | [Big Energy](https://open.spotify.com/track/6Zu3aw7FfjAF9WA0fA81Oq) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Big Energy](https://open.spotify.com/album/58MbYehGOl5NAOdfWY5aHa) | 2:53 | 2022-07-27 | 2023-07-14 |
@@ -70,6 +71,7 @@
 | [get lifted](https://open.spotify.com/track/5m5DkPYIRY7nPMTrM0sDIK) | [Zoë Modiga](https://open.spotify.com/artist/6vfxDPW9Lc9tAMVy0oeqiB) | [nomthandazo](https://open.spotify.com/album/0yaSKg83zo7r7TfTRBORs1) | 3:01 | 2024-04-26 |  |
 | [Girls Deserve More Money](https://open.spotify.com/track/7itEqiDQTTgU8r7JGy7vie) | [Majeeed](https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk) | [Cheers To Life.](https://open.spotify.com/album/2fZCPTAas21v7AF9pVytgj) | 2:43 | 2023-09-09 |  |
 | [Gold and Fire](https://open.spotify.com/track/43jS8cTGqRXojqw2AVoHZp) | [Mide Fash](https://open.spotify.com/artist/2EEcXQmsCmbsjvLineYFKj) | [Gold and Fire](https://open.spotify.com/album/4T36K2nPMTdiZM9BoqkhCO) | 2:20 | 2024-04-19 | 2024-04-26 |
+| [Goodbye \(Warm Up\)\(feat\. Asake\)](https://open.spotify.com/track/7vAXxDFUHDPxWzSujxb8jB) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [The Year I Turned 21](https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms) | 2:43 | 2024-05-31 |  |
 | [Happiness](https://open.spotify.com/track/0tBc6gZ2TRjdjTyieXWijO) | [Twiss Tosin](https://open.spotify.com/artist/4b4R1pbJaDmxr8cbW3pfJK), [Lordknowz](https://open.spotify.com/artist/6EKRa2De9UHWEThLyXWzFY) | [Happiness](https://open.spotify.com/album/26C97sFh9oljFMEipDT4RQ) | 1:52 | 2024-05-03 |  |
 | [Happy](https://open.spotify.com/track/18YxsuoZE1aPf5xs5WIwtY) | [Mellissa](https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW) | [Happy](https://open.spotify.com/album/6h0gTnUQ4Af24CpoCQrYrN) | 3:02 | 2024-04-05 | 2024-05-24 |
 | [Have Fun](https://open.spotify.com/track/0lfDJO9YpO6LdPAmeZSy50) | [Bad Boy Timz](https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS) | [Have Fun](https://open.spotify.com/album/3oGGPxoSSnThtJaFp210lv) | 2:16 | 2022-07-27 | 2024-04-19 |
@@ -111,7 +113,7 @@
 | [No Wahala](https://open.spotify.com/track/1z3Lac4bdl57XLcu35ma1M) | [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb) | [No Wahala](https://open.spotify.com/album/0iBUE2UCUr4RLMhOzOLaUY) | 2:42 | 2022-07-27 |  |
 | [NOBODY \(feat\. Blxckie\)](https://open.spotify.com/track/2gr6VEG2BdPka9Tz1mAfbi) | [Filah Lah Lah](https://open.spotify.com/artist/0xACKjkY8pqrot7s6da1Sw), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [ON AIR](https://open.spotify.com/album/0ARXZhTXu81dsgWcTrlGUn) | 4:14 | 2024-04-19 | 2024-05-10 |
 | [Okay](https://open.spotify.com/track/2Iv3GHM3xFKIPbYSnhJAXO) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Afro Pop, Vol\. 1](https://open.spotify.com/album/6GHHoK6LC0Y36nYsouK8qR) | 3:06 | 2022-07-27 |  |
-| [Patience](https://open.spotify.com/track/4dNzOobux32dS9pHkJMZgV) | [Ahki](https://open.spotify.com/artist/5875m9R9PmEl5MLJv8Bm56) | [Patience](https://open.spotify.com/album/4UMBCdetMsuG56lwioYP2R) | 1:42 | 2024-03-29 |  |
+| [Patience](https://open.spotify.com/track/4dNzOobux32dS9pHkJMZgV) | [Ahki](https://open.spotify.com/artist/5875m9R9PmEl5MLJv8Bm56) | [Patience](https://open.spotify.com/album/4UMBCdetMsuG56lwioYP2R) | 1:42 | 2024-03-29 | 2024-06-01 |
 | [Peace Be Unto You \(PBUY\)](https://open.spotify.com/track/1mJFFeluclL38IwV264lm9) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Peace Be Unto You \(PBUY\)](https://open.spotify.com/album/2gAZf4ZEJH7fs0szGoCui1) | 2:33 | 2022-07-27 | 2024-05-03 |
 | [Petite](https://open.spotify.com/track/24ULbF2UnOeMbkmkGriTBc) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA) | [Petite](https://open.spotify.com/album/3VviaPzhAXAIco8H3syNNq) | 3:02 | 2022-07-27 |  |
 | [Phases](https://open.spotify.com/track/1AspvEDeHVWJY0X7pkdldi) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Phases](https://open.spotify.com/album/14ITjU7AhfyWsBCeUqqElH) | 3:24 | 2024-05-24 |  |
@@ -136,7 +138,7 @@
 | [Señorita](https://open.spotify.com/track/2cVoUBlzLq5lY6fAHj3Pwr) | [DJ 808](https://open.spotify.com/artist/3SsrfKWSui6m0RYGGjP8Eg), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [808 Rhapsody](https://open.spotify.com/album/1uK5egVvMJTYZSVc1P7axG) | 2:29 | 2024-05-24 |  |
 | [Shelter](https://open.spotify.com/track/4dLW9YgtBGCquFb0gs6HdR) | [Maali](https://open.spotify.com/artist/0Bw2d3PrLLqnor0Y9tt9vk) | [Shelter](https://open.spotify.com/album/0VMCN0GaByNplAXw9lOLFW) | 3:06 | 2024-02-23 | 2024-05-03 |
 | [Silly Nigga 2](https://open.spotify.com/track/5UnZUMR2DZ5h2bgYlP9zEw) | [Kofee Bean](https://open.spotify.com/artist/59mXEixRJuNUOOmCichSyV), [Steph](https://open.spotify.com/artist/7noY4JrCn1YjpKEobbIo6C) | [Silly Nigga](https://open.spotify.com/album/705KvjIMj0OvDjb0skxNKa) | 2:55 | 2024-03-22 |  |
-| [Sin](https://open.spotify.com/track/7eIuWMQQPeb2lTr5abymA9) | [Takara](https://open.spotify.com/artist/0s4pACwkFS6Zo2zKs0YpYx) | [Sin](https://open.spotify.com/album/1eRTfeJrkM2VkaNb2gMvx7) | 3:20 | 2024-03-01 |  |
+| [Sin](https://open.spotify.com/track/7eIuWMQQPeb2lTr5abymA9) | [Takara](https://open.spotify.com/artist/0s4pACwkFS6Zo2zKs0YpYx) | [Sin](https://open.spotify.com/album/1eRTfeJrkM2VkaNb2gMvx7) | 3:20 | 2024-03-01 | 2024-06-01 |
 | [Soft Life](https://open.spotify.com/track/1D4hpAqcDvnWI7AizCRpcL) | [Dami Oniru](https://open.spotify.com/artist/0WwZMQoxKjgOOicFhd08yx) | [Soft Life](https://open.spotify.com/album/4SMEuZNsSLvJoebKfQYycJ) | 2:48 | 2022-10-14 | 2024-05-03 |
 | [Soft Life](https://open.spotify.com/track/1ZWqZeMoGfEI71pIEfVzeb) | [Kxng Nero](https://open.spotify.com/artist/1enbm02RCv00Bk8aGuGPHh) | [Soft Life](https://open.spotify.com/album/7ha3K6wjYaORViBdxwdjsm) | 2:49 | 2023-07-13 |  |
 | [Soft Life](https://open.spotify.com/track/6hmNM4b5zHtuJAx6u6DCwe) | [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG) | [Soft Life](https://open.spotify.com/album/6nCucOPAL5ANvo0fGAJ6KG) | 2:34 | 2022-08-26 |  |

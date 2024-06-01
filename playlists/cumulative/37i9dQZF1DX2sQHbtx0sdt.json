@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-08-05",
-  "description": "New and trending hip-hop from around the world. Cover: Nemzzz \ud83c\uddec\ud83c\udde7",
+  "description": "New and trending hip-hop from around the world. Cover: SCH \ud83c\uddeb\ud83c\uddf7",
   "name": "Global Hip-Hop",
   "tracks": [
     {
@@ -42,6 +42,28 @@
       "duration_ms": 124179,
       "name": "+32",
       "url": "https://open.spotify.com/track/1OvZF3SQ4iv8ZDWxCOq25C"
+    },
+    {
+      "album": {
+        "name": "EL TIBUR\u00d3N",
+        "url": "https://open.spotify.com/album/44MDlLPFwSdNNACGyOlfW3"
+      },
+      "artists": [
+        {
+          "name": "Rvfv",
+          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
+        },
+        {
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217500,
+      "name": "0 CONFIANZA",
+      "url": "https://open.spotify.com/track/3DoQI6dr5XDc7hChrkA1lD"
     },
     {
       "album": {
@@ -1582,7 +1604,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 198146,
       "name": "Cannelloni",
       "url": "https://open.spotify.com/track/4AaG82i74FxJqk7J9oKS8P"
@@ -1766,6 +1788,28 @@
       "duration_ms": 153346,
       "name": "City Boys",
       "url": "https://open.spotify.com/track/4RoKNqyZ9622tcAeNPNv5k"
+    },
+    {
+      "album": {
+        "name": "CLIMA (with Foreign Teck)",
+        "url": "https://open.spotify.com/album/5DllpnHoUTYe6Wjd5trxJP"
+      },
+      "artists": [
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        },
+        {
+          "name": "Foreign Teck",
+          "url": "https://open.spotify.com/artist/12lHTAdc9T204lw5qPtasv"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164042,
+      "name": "CLIMA (with Foreign Teck)",
+      "url": "https://open.spotify.com/track/6HWm8rj8kX5AXUZAyciF14"
     },
     {
       "album": {
@@ -2214,7 +2258,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 90874,
       "name": "DLR Freestyle",
       "url": "https://open.spotify.com/track/0cdz0hz5tzD8opaKG2NDWX"
@@ -2236,7 +2280,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 138069,
       "name": "Do I - Remix",
       "url": "https://open.spotify.com/track/7yKjDDd9w01nFEOD5adoHq"
@@ -3548,7 +3592,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 210133,
       "name": "Hate",
       "url": "https://open.spotify.com/track/1aOG93pV9v9fYvTTUC9UsZ"
@@ -3566,7 +3610,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 164776,
       "name": "Heavyweight",
       "url": "https://open.spotify.com/track/75GbllGszQynPdm2qj78Lu"
@@ -3774,7 +3818,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 155384,
       "name": "Hummer",
       "url": "https://open.spotify.com/track/0efPHHuOf5AiEB8GDttcmh"
@@ -3836,7 +3880,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 187881,
       "name": "I P\u2019 ME, TU P\u2019 TE",
       "url": "https://open.spotify.com/track/3j1453KrdHjw7y4gnBj7nF"
@@ -4132,6 +4176,28 @@
       "duration_ms": 185220,
       "name": "K-POP",
       "url": "https://open.spotify.com/track/5L3ecxQnQ9qTBmnLQiwf0C"
+    },
+    {
+      "album": {
+        "name": "KALEIDOSCOPE (feat. Travis Thompson)",
+        "url": "https://open.spotify.com/album/01tOQrm12lW4OXCHuPsGEO"
+      },
+      "artists": [
+        {
+          "name": "Snotty Nose Rez Kids",
+          "url": "https://open.spotify.com/artist/16T3el1CEjX49qFA7UT2n5"
+        },
+        {
+          "name": "Travis Thompson",
+          "url": "https://open.spotify.com/artist/6WZfEqqsYujHTUDuNd5Lbc"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233267,
+      "name": "KALEIDOSCOPE (feat. Travis Thompson)",
+      "url": "https://open.spotify.com/track/3eSElYs735MuCi85mRzItQ"
     },
     {
       "album": {
@@ -4513,6 +4579,24 @@
     },
     {
       "album": {
+        "name": "Lost Cause",
+        "url": "https://open.spotify.com/album/6TWLH4tJwj1pOEYk2enT4n"
+      },
+      "artists": [
+        {
+          "name": "Watsebha",
+          "url": "https://open.spotify.com/artist/4NKiKE60GYOcPCe02G9Ke4"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147721,
+      "name": "Lost Cause",
+      "url": "https://open.spotify.com/track/6NfDMEzKj5omozlckcvjcA"
+    },
+    {
+      "album": {
         "name": "Love Me",
         "url": "https://open.spotify.com/album/7AN3OleKAs47kDFD9Clr2D"
       },
@@ -4608,6 +4692,32 @@
       "duration_ms": 110571,
       "name": "luvu222",
       "url": "https://open.spotify.com/track/24MVu7qCrmMsqoOhMadYqW"
+    },
+    {
+      "album": {
+        "name": "M.I.A",
+        "url": "https://open.spotify.com/album/2pPkjMsmsw144Il11DvPAs"
+      },
+      "artists": [
+        {
+          "name": "AR Paisley",
+          "url": "https://open.spotify.com/artist/4CqzwlyoNSvoGeMk7NiMhd"
+        },
+        {
+          "name": "Ali Gatie",
+          "url": "https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T"
+        },
+        {
+          "name": "Jay Trak",
+          "url": "https://open.spotify.com/artist/47SaOSOqcrxSJNZUuqpLuu"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128337,
+      "name": "M.I.A",
+      "url": "https://open.spotify.com/track/4r7pq14ALrNSXTdIDNj0D0"
     },
     {
       "album": {
@@ -4739,6 +4849,32 @@
     },
     {
       "album": {
+        "name": "96 Miles From Bethlehem",
+        "url": "https://open.spotify.com/album/5n7u0Fwf8gE54F9rwPrz2O"
+      },
+      "artists": [
+        {
+          "name": "Belly",
+          "url": "https://open.spotify.com/artist/0FOWNUFHPnMy0vOw1siGqi"
+        },
+        {
+          "name": "Elyanna",
+          "url": "https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g"
+        },
+        {
+          "name": "MC Abdul",
+          "url": "https://open.spotify.com/artist/2gr50NWFuNsweefgZzVb2E"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208608,
+      "name": "Maktub",
+      "url": "https://open.spotify.com/track/7kdHCa0m0ZycuAELmeyMB4"
+    },
+    {
+      "album": {
         "name": "Malibu Barbie",
         "url": "https://open.spotify.com/album/61CxqMQJVXSEQ2OUahKLK7"
       },
@@ -4818,7 +4954,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 233240,
       "name": "MAMI WATA",
       "url": "https://open.spotify.com/track/6yqwxY8qifBBhyryjZutxk"
@@ -5576,7 +5712,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 170195,
       "name": "NORTHSIDE",
       "url": "https://open.spotify.com/track/6gGfplhh2VslZlRvWcLNEQ"
@@ -5833,6 +5969,24 @@
     },
     {
       "album": {
+        "name": "On Me",
+        "url": "https://open.spotify.com/album/2MIAeEGXHAC0LW4UKVxOmR"
+      },
+      "artists": [
+        {
+          "name": "DABOYWAY",
+          "url": "https://open.spotify.com/artist/6p0woWDfWgd5EAX7HFzZ7d"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174222,
+      "name": "On Me",
+      "url": "https://open.spotify.com/track/6regNSY9Fz4S1nGs8xMMfF"
+    },
+    {
+      "album": {
         "name": "On The Radar Freestyle",
         "url": "https://open.spotify.com/album/0xjql3TEYd34hlAky4Ck2z"
       },
@@ -5906,7 +6060,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 142667,
       "name": "Only You",
       "url": "https://open.spotify.com/track/4PSvazj8Yc6zgtmc4RUoIx"
@@ -6315,6 +6469,24 @@
     },
     {
       "album": {
+        "name": "JVLIVS Prequel : Giulio",
+        "url": "https://open.spotify.com/album/4xR5GFngZglie60Cc3DvoS"
+      },
+      "artists": [
+        {
+          "name": "SCH",
+          "url": "https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210533,
+      "name": "Prequel",
+      "url": "https://open.spotify.com/track/0y2JXGqNraYN2gbnSLguWk"
+    },
+    {
+      "album": {
         "name": "Pressure",
         "url": "https://open.spotify.com/album/2WNtJ2E9Y7BRSYmXtiZ5F1"
       },
@@ -6374,6 +6546,24 @@
       "duration_ms": 202000,
       "name": "Proper",
       "url": "https://open.spotify.com/track/3Dz7D9Ve3VLFBpmsQXiUJv"
+    },
+    {
+      "album": {
+        "name": "PROTAGONIST",
+        "url": "https://open.spotify.com/album/5dWbDOgW9By7XptXhMWg9b"
+      },
+      "artists": [
+        {
+          "name": "lilbubblegum",
+          "url": "https://open.spotify.com/artist/5FF8xJSW4qUVU8bk79KYLT"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173911,
+      "name": "PROTAGONIST",
+      "url": "https://open.spotify.com/track/7xZ4s1sCBzptTgB3yHXCuE"
     },
     {
       "album": {
@@ -6602,6 +6792,24 @@
       "duration_ms": 113557,
       "name": "Red Dot (feat. Shindy & AJ Tracey)",
       "url": "https://open.spotify.com/track/09i3DCifm50ivVqqi3zl9b"
+    },
+    {
+      "album": {
+        "name": "Respiro",
+        "url": "https://open.spotify.com/album/45ZXo91lK7a6x2lylI6siL"
+      },
+      "artists": [
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155200,
+      "name": "Respiro",
+      "url": "https://open.spotify.com/track/31ePh9rOTkIERrloY8BUUc"
     },
     {
       "album": {
@@ -7589,6 +7797,28 @@
     },
     {
       "album": {
+        "name": "There's A Way (feat. KayCyy)",
+        "url": "https://open.spotify.com/album/0IuLwJb4zqyyIUlU3c4X3N"
+      },
+      "artists": [
+        {
+          "name": "Dina Ayada",
+          "url": "https://open.spotify.com/artist/5L88UL7xuw4CzYyzxqwgBz"
+        },
+        {
+          "name": "KayCyy",
+          "url": "https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210667,
+      "name": "There's A Way (feat. KayCyy)",
+      "url": "https://open.spotify.com/track/1tl5LqfANoDhFZEuJkKKP1"
+    },
+    {
+      "album": {
         "name": "Through The Storm",
         "url": "https://open.spotify.com/album/5pACLCow7gGS6YJPyfbbGW"
       },
@@ -7886,7 +8116,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 173105,
       "name": "UNDEFEATED",
       "url": "https://open.spotify.com/track/0NrObqc8nK1XcDNPJNBKRV"
@@ -7992,7 +8222,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 196417,
       "name": "Vartry Road",
       "url": "https://open.spotify.com/track/6fCB3MxVEWjaQwASpBliNb"
@@ -8073,6 +8303,28 @@
     },
     {
       "album": {
+        "name": "BALORDO (Deluxe)",
+        "url": "https://open.spotify.com/album/7uHUZgUJnxloRFB2prwMQB"
+      },
+      "artists": [
+        {
+          "name": "Sacky",
+          "url": "https://open.spotify.com/artist/1sybJwRGo9WiiqcZLzzAbS"
+        },
+        {
+          "name": "Neima Ezza",
+          "url": "https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175614,
+      "name": "VORREI (feat. Neima Ezza)",
+      "url": "https://open.spotify.com/track/0dtyvuccg5VBKvrz8J90PL"
+    },
+    {
+      "album": {
         "name": "VVS Switch (feat. Hades66, Luar La L & CDobleta) [Remix]",
         "url": "https://open.spotify.com/album/3g16kvv1kgZIfqvo6u4Evb"
       },
@@ -8104,7 +8356,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 555071,
       "name": "VVS Switch (feat. Hades66, Luar La L & CDobleta) - Remix",
       "url": "https://open.spotify.com/track/7kSL8RqBe9ySL8tjvSoII0"
@@ -8298,6 +8550,24 @@
       "duration_ms": 231704,
       "name": "WHERE SHE GOES",
       "url": "https://open.spotify.com/track/2sTDlCxmuZCTDKKk9f1qus"
+    },
+    {
+      "album": {
+        "name": "SMILE?",
+        "url": "https://open.spotify.com/album/7vXoT4TosRxP0IZZyPlIl6"
+      },
+      "artists": [
+        {
+          "name": "K-Trap",
+          "url": "https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122556,
+      "name": "Whistle",
+      "url": "https://open.spotify.com/track/7zJzkC25kjMj3TjuUWItXj"
     },
     {
       "album": {

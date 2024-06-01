@@ -4,7 +4,7 @@
 
 > Deephouse that travels from Afro to Eastern sounds.
 
-261 songs - 1 day 1 hr 49 min
+262 songs - 1 day 1 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -228,6 +228,7 @@
 | [Sunsets in Marrakech](https://open.spotify.com/track/3X9tSrJQbdWH2lwGyyv1cn) | [BluePaper](https://open.spotify.com/artist/6nlIMudcLyn65DpF3jsUOB) | [Sunsets in Marrakech](https://open.spotify.com/album/7swsGEp5WBVi8B4whrKwnd) | 6:18 | 2022-10-07 | 2024-04-20 |
 | [Swahili](https://open.spotify.com/track/5PX4qYdnCAsUHPcXUGo2ko) | [Walid Martinez](https://open.spotify.com/artist/1JRdXMJIEbwd3vVl0cnxY6), [Soufiane Az](https://open.spotify.com/artist/28Q2uRWOQJHFGUy1VBCY04) | [10 Years of NuLu, Vol\. 03](https://open.spotify.com/album/7MiBzqoyUPI8080qlER3wH) | 8:00 | 2022-11-07 |  |
 | [Take Care \- Maz Remix](https://open.spotify.com/track/1oaDZf8tcQMGOeIBxelrs0) | [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS), [Maz](https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn) | [Take Care \(Maz Remix\)](https://open.spotify.com/album/1A6cETJramuODrakRUSlWH) | 5:08 | 2023-04-13 |  |
+| [Tales of Arabia](https://open.spotify.com/track/6qv1KggwbT4RSpiyLoiVWC) | [Nais Flavia](https://open.spotify.com/artist/3ZyM29YG01TFD0LmcARO13), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Tales of Arabia](https://open.spotify.com/album/1SvTOqGZICo546QqWGPfYb) | 7:56 | 2024-05-31 |  |
 | [Tawada \- Saint Evo Remix](https://open.spotify.com/track/0cGExArMSYGaEE41Gu9WAO) | [Mr\. ID](https://open.spotify.com/artist/4Bv3GYUzNM11yYGQslJOkp), [OSENS](https://open.spotify.com/artist/4FyZwiPpDuUYiMYZXsTQ4D), [Anas Chlih](https://open.spotify.com/artist/0ezd2sTG5nyJdtHFzbdbZV), [Saint Evo](https://open.spotify.com/artist/08dNTAMCiCM61JnSslHFCE) | [Tawada](https://open.spotify.com/album/20J0aexp1w6k1KJKQPzR2M) | 7:15 | 2023-07-05 |  |
 | [Teak \- Omerar Nanda Remix](https://open.spotify.com/track/0uNqMpO7ClAfIl1Van5RpT) | [Stefan Obermaier](https://open.spotify.com/artist/7HV2r5sspVCo9LVNv5TiHf), [Omerar Nanda](https://open.spotify.com/artist/6W9ysFAkpUJ3gJaJBAfkQl) | [Teak](https://open.spotify.com/album/3pdVTHeoE6XsBd1rWFEOUr) | 6:38 | 2022-04-13 | 2023-04-21 |
 | [Terravita](https://open.spotify.com/track/5zkW6ZBqED2TWNRjcZLS5n) | [Minörs](https://open.spotify.com/artist/26ZaXcjW7CImOrTU2jxZL3) | [Terravita](https://open.spotify.com/album/3KCQr6cXvICTcTNnXdhEQe) | 6:57 | 2022-04-13 | 2023-04-21 |
@@ -240,7 +241,7 @@
 | [Thousand And Two Nights \- Paso Doble Remix](https://open.spotify.com/track/2WSTSLildq9gO9mK6sNTgp) | [Safar \(FR\)](https://open.spotify.com/artist/249QVZLSwrDyleKNapaapm), [Dikla Hackmon](https://open.spotify.com/artist/1WMzRg50fwSyMmnKQ0xEvj), [Paso Doble](https://open.spotify.com/artist/3UcGeZb5ji86oAC34FtYtp) | [Thousand And Two Nights](https://open.spotify.com/album/67EAgGAHyrOdf3QKhkpJHv) | 3:44 | 2023-01-01 | 2024-02-23 |
 | [Timeo](https://open.spotify.com/track/0VSxh2hM9Yqs8T57H4R7Ws) | [Saint Evo](https://open.spotify.com/artist/08dNTAMCiCM61JnSslHFCE) | [Timeo](https://open.spotify.com/album/5CKlCsJGEQYSMtXjrmed6L) | 6:53 | 2023-04-07 |  |
 | [Tolo \- FNX Omar Remix](https://open.spotify.com/track/7jlACTUszk1RZEmLOYVvVc) | [Jalal Ramdani](https://open.spotify.com/artist/1Q0KlPMSuhBFnCZX01iFyu), [Miishu](https://open.spotify.com/artist/4v2RSTDKxzZ928MWSYCOVf), [Ahmed Sosso](https://open.spotify.com/artist/09jtkgopdNOFuQKcOPPdeP), [FNX OMAR](https://open.spotify.com/artist/3dcqf190oFqc5FQNI05mVW) | [Tolo](https://open.spotify.com/album/732vlGVmJhgDRwLjWce1qv) | 6:37 | 2022-09-29 | 2023-06-20 |
-| [Tomorrowland](https://open.spotify.com/track/3ykGXRHUjFxcSU0zJ7dOR7) | [Da Capo](https://open.spotify.com/artist/4YuviELTmYBvDR66ThrMy9), [Da Africa Deep](https://open.spotify.com/artist/0DDzEXacqh3F5GGIwji59b) | [Bakone](https://open.spotify.com/album/7KKssScoi6eEnGUYbgiG9l) | 8:12 | 2023-11-07 |  |
+| [Tomorrowland](https://open.spotify.com/track/3ykGXRHUjFxcSU0zJ7dOR7) | [Da Capo](https://open.spotify.com/artist/4YuviELTmYBvDR66ThrMy9), [Da Africa Deep](https://open.spotify.com/artist/0DDzEXacqh3F5GGIwji59b) | [Bakone](https://open.spotify.com/album/7KKssScoi6eEnGUYbgiG9l) | 8:12 | 2023-11-07 | 2024-06-01 |
 | [Trailblazer](https://open.spotify.com/track/7qAQDREJCagJ3f8WD2tWkZ) | [Omeria](https://open.spotify.com/artist/0Gn7ZHvOfbvZBxPoknZeYl) | [Trailblazer](https://open.spotify.com/album/3EPea5hZjuLV9wG33XH3SS) | 6:16 | 2022-04-13 | 2023-03-14 |
 | [Tuhan](https://open.spotify.com/track/0CEfUQZtt5I45nkXZIzExz) | [Saint Evo](https://open.spotify.com/artist/08dNTAMCiCM61JnSslHFCE) | [Tuhan](https://open.spotify.com/album/3kbl5YDfVIUDXlbIY5XTYm) | 7:44 | 2022-10-13 | 2023-07-29 |
 | [Tuhan](https://open.spotify.com/track/3iAveahTfg2T3whfN8h2gb) | [Saint Evo](https://open.spotify.com/artist/08dNTAMCiCM61JnSslHFCE) | [Tuhan](https://open.spotify.com/album/7sp35saegKeFRy2MXQJpQY) | 7:44 | 2022-04-13 | 2022-10-17 |

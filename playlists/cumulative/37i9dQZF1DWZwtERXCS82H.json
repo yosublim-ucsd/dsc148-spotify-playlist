@@ -1665,6 +1665,24 @@
     },
     {
       "album": {
+        "name": "Celadon Hill",
+        "url": "https://open.spotify.com/album/2HagBRf04kanZj0pf2cLIt"
+      },
+      "artists": [
+        {
+          "name": "Jozef De Schutter",
+          "url": "https://open.spotify.com/artist/3h4qdlsSNxMXLzlaITwT7o"
+        }
+      ],
+      "date_added": "2024-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147138,
+      "name": "Celadon Hill",
+      "url": "https://open.spotify.com/track/5uLoyV8cLAngL0i2ETQEM7"
+    },
+    {
+      "album": {
         "name": "Chalet High",
         "url": "https://open.spotify.com/album/0s5pe0oFhpK60gLPI1RDZZ"
       },
@@ -2746,7 +2764,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 147874,
       "name": "Eden",
       "url": "https://open.spotify.com/track/4jG0jO5ggIh1KLT1GKJeYo"
@@ -3585,6 +3603,24 @@
     },
     {
       "album": {
+        "name": "floating points",
+        "url": "https://open.spotify.com/album/1lzsCo0nImfylCRb3IXvER"
+      },
+      "artists": [
+        {
+          "name": "May Laude",
+          "url": "https://open.spotify.com/artist/16RcZW1nYsx9RJ1gKSR4JG"
+        }
+      ],
+      "date_added": "2024-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125375,
+      "name": "floating points",
+      "url": "https://open.spotify.com/track/4SBeIeXLiDqCH7YHRFgGkD"
+    },
+    {
+      "album": {
         "name": "Flock of birds",
         "url": "https://open.spotify.com/album/05KODFYK497NNmTs0ZW9xx"
       },
@@ -3848,7 +3884,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 204000,
       "name": "From A Distance",
       "url": "https://open.spotify.com/track/27nwybgVjSFLcbc6tcV7iq"
@@ -4122,7 +4158,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 209299,
       "name": "Gran Paradiso",
       "url": "https://open.spotify.com/track/4Yzal0YrY55V7aQeXIeCvL"
@@ -8277,6 +8313,24 @@
     },
     {
       "album": {
+        "name": "Ponceau",
+        "url": "https://open.spotify.com/album/3j3xtTJJmUqWW4g4ZocnsD"
+      },
+      "artists": [
+        {
+          "name": "Ray Love",
+          "url": "https://open.spotify.com/artist/3obhUFv6yw5E2dFE8d8LXy"
+        }
+      ],
+      "date_added": "2024-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129640,
+      "name": "Ponceau",
+      "url": "https://open.spotify.com/track/1qCrvHUu3jt5oSpvYaVrwH"
+    },
+    {
+      "album": {
         "name": "Travelers",
         "url": "https://open.spotify.com/album/4xmZvsAbPgukLZBqVJX7th"
       },
@@ -9278,7 +9332,7 @@
       ],
       "date_added": "2023-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 184203,
       "name": "Sacrifice",
       "url": "https://open.spotify.com/track/1w5hmKj5aKzeYwJDmXWvos"
@@ -9606,6 +9660,24 @@
       "duration_ms": 140532,
       "name": "Sequoia",
       "url": "https://open.spotify.com/track/1URmg7gmykNvFQqDIwt42Y"
+    },
+    {
+      "album": {
+        "name": "Seraphic Solace",
+        "url": "https://open.spotify.com/album/3Rw7NhofrNdF3GFARJ4BkE"
+      },
+      "artists": [
+        {
+          "name": "Panner Garlix",
+          "url": "https://open.spotify.com/artist/64ixo2TVhbwcDgM7n4koOR"
+        }
+      ],
+      "date_added": "2024-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153725,
+      "name": "Seraphic Solace",
+      "url": "https://open.spotify.com/track/0byE9qeBvok8PDkX4ZqVwi"
     },
     {
       "album": {
@@ -10726,7 +10798,7 @@
       ],
       "date_added": "2023-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 205269,
       "name": "Stilles Sehnen - Upright Reframings",
       "url": "https://open.spotify.com/track/0KJa9LQdtvIkg7m7lGiSQu"
@@ -11936,7 +12008,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 136640,
       "name": "Tormenta De Oto\u00f1o",
       "url": "https://open.spotify.com/track/5WVCbYEPtvdQvf3orHgExh"

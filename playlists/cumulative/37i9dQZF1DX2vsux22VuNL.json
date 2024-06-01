@@ -1031,6 +1031,28 @@
     },
     {
       "album": {
+        "name": "Boom",
+        "url": "https://open.spotify.com/album/3GvbxHizeLdikCDuDJ29LB"
+      },
+      "artists": [
+        {
+          "name": "Rafael Mike",
+          "url": "https://open.spotify.com/artist/6V1iaF6ZHSygJlLPk7grXr"
+        },
+        {
+          "name": "Priscila Tossan",
+          "url": "https://open.spotify.com/artist/4EZLWNKsB2l3Lm6vqJDFoA"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131076,
+      "name": "Boom",
+      "url": "https://open.spotify.com/track/42A4y8cnvDMh18i22aXQH7"
+    },
+    {
+      "album": {
         "name": "Brigas",
         "url": "https://open.spotify.com/album/4lXWSwBPFdisfRDLlwcOXH"
       },
@@ -2630,7 +2652,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 154368,
       "name": "Espero Ainda",
       "url": "https://open.spotify.com/track/1XpbnapjxFmEZEN5kjMEcU"
@@ -4668,7 +4690,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 232433,
       "name": "Mete o louco",
       "url": "https://open.spotify.com/track/7Ep1kMp6Wxw7xwYMm0xKZ5"
@@ -4694,6 +4716,24 @@
       "duration_ms": 137931,
       "name": "Meu Desejo",
       "url": "https://open.spotify.com/track/4UqKWGj0prhKqRrLd4NsL2"
+    },
+    {
+      "album": {
+        "name": "Meu Destino \u00e9 o Litoral",
+        "url": "https://open.spotify.com/album/6dmHQknnJsKsaoZ9Ow44Mh"
+      },
+      "artists": [
+        {
+          "name": "MENSANA",
+          "url": "https://open.spotify.com/artist/3xgO1ucAJJWnEHjh0zyHdL"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190250,
+      "name": "Meu Destino \u00e9 o Litoral",
+      "url": "https://open.spotify.com/track/6nvvhe2emrtQsoCmO1dxNg"
     },
     {
       "album": {
@@ -6790,7 +6830,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 179820,
       "name": "Quatro Da Manh\u00e3",
       "url": "https://open.spotify.com/track/0mt2G29tWGpqD3LEKZGoD0"
@@ -6890,6 +6930,28 @@
       "duration_ms": 158139,
       "name": "Quero Te Levar",
       "url": "https://open.spotify.com/track/5lY1N9XJ90Yhm54urHitVB"
+    },
+    {
+      "album": {
+        "name": "Recome\u00e7o",
+        "url": "https://open.spotify.com/album/09S98ejRLHvK2M3RaPULUw"
+      },
+      "artists": [
+        {
+          "name": "Projota",
+          "url": "https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K"
+        },
+        {
+          "name": "PRISCILLA",
+          "url": "https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161706,
+      "name": "Recome\u00e7o",
+      "url": "https://open.spotify.com/track/4n0Gle6yQqSdDZPeJZzef7"
     },
     {
       "album": {
@@ -7707,6 +7769,24 @@
     },
     {
       "album": {
+        "name": "Sonho Brasil 2004",
+        "url": "https://open.spotify.com/album/14az9aDCQ6UXStkLVsoNg4"
+      },
+      "artists": [
+        {
+          "name": "Fi Barreto",
+          "url": "https://open.spotify.com/artist/5hJ0ykBQGDxLmp3Lw7DpBe"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179825,
+      "name": "Sonho Brasil 2004",
+      "url": "https://open.spotify.com/track/6SidWa3wQNI5SpaWdRM8vA"
+    },
+    {
+      "album": {
         "name": "Soul Sol",
         "url": "https://open.spotify.com/album/2USO1i2JsV0a4nTgWh6qNo"
       },
@@ -8490,7 +8570,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 142208,
       "name": "tudo por voc\u00ea",
       "url": "https://open.spotify.com/track/1KgpFol2UWbneMpc0dKzK8"

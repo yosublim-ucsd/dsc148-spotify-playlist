@@ -4,7 +4,7 @@
 
 > The magical world map! Play it in shuffle ☀️
 
-2,330 songs - 6 day 13 hr 8 min
+2,330 songs - 6 day 13 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2314,7 +2314,7 @@
 | [¿Dónde Estabas Tú?](https://open.spotify.com/track/3EUxtYagZRbXB7is7UjSg7) | [Omara Portuondo](https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy) | [Omara Portuondo \(Buena Vista Social Club Presents\)](https://open.spotify.com/album/1nEoXu83WPlqrfKAznidDw) | 3:47 | 2023-10-06 |  |
 | [Ça fait du bien \- Voilaaa Remix](https://open.spotify.com/track/35iCo2B0jaGwYpaFP2fFZ8) | [Antonin](https://open.spotify.com/artist/5Z1r1R8kuSh4FRdQh7kzmC), [Voilaaa](https://open.spotify.com/artist/6MQoRoLtsUg7Fzi5nJGmC1) | [Ça fait 2x plus de bien](https://open.spotify.com/album/5v03jp3rrC4R0AVFlMsMAE) | 3:28 | 2022-06-09 |  |
 | [Çayelinden Öteye/Yali Yali](https://open.spotify.com/track/6fcqnQf44Ppvc36jKd4uch) | [Neşe Karaböcek](https://open.spotify.com/artist/2LyOwgMY8RSQU5iK9rHj0B) | [Dost Bahçesi](https://open.spotify.com/album/3SAlmME2G8dReliNrcJQ45) | 2:41 | 2022-06-09 |  |
-| [Çilli](https://open.spotify.com/track/0tIUkzQP9STnupIpzcQBt3) | [Lale Belkıs](https://open.spotify.com/artist/6WkIJVBk1eCUTKR0YG0sdK) | [En İyileriyle Lale Belkıs](https://open.spotify.com/album/6ErTNGc6pFgh2P6YfxJsNC) | 3:46 | 2022-07-27 |  |
+| [Çilli](https://open.spotify.com/track/0tIUkzQP9STnupIpzcQBt3) | [Lale Belkıs](https://open.spotify.com/artist/6WkIJVBk1eCUTKR0YG0sdK) | [En İyileriyle Lale Belkıs](https://open.spotify.com/album/6ErTNGc6pFgh2P6YfxJsNC) | 3:29 | 2022-07-27 |  |
 | [Çilli](https://open.spotify.com/track/2eVb8xLtovTzz7YWv19plN) | [Lale Belkıs](https://open.spotify.com/artist/6WkIJVBk1eCUTKR0YG0sdK) | [En İyileriyle Lale Belkıs](https://open.spotify.com/album/17SzWutXFMzwnd5hsxWaOo) | 3:46 | 2022-06-09 | 2022-07-29 |
 | [É Preciso Dar Um Jeito, Meu Amigo](https://open.spotify.com/track/1V1taPaEp2dntrUKCAnnw5) | [Erasmo Carlos](https://open.spotify.com/artist/6cHQUDAPGKRE2NbVjBlOcz) | [Carlos, Erasmo \[Versão Com Bônus \(1971\)\]](https://open.spotify.com/album/2qimhNvbQmkAxG9GS8wj5M) | 3:47 | 2022-06-09 |  |
 | [Óyeme Mamá](https://open.spotify.com/track/6wwF4WKvYiIHSBBfnZADJY) | [Bob Azzam](https://open.spotify.com/artist/6aHHLKbMeqAmTkdwcogHjE), [Miny Gerard](https://open.spotify.com/artist/5URopjR9yCNq7HoH16iimi) | [Bob Azzam](https://open.spotify.com/album/4VfUaMFEzSNSVKSWdZ8VsU) | 2:24 | 2022-10-31 | 2024-04-19 |

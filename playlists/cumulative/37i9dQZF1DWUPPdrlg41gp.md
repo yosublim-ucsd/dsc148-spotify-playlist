@@ -4,7 +4,7 @@
 
 > Chase\. Ride\. Survive\. Listen to the music from Twister and Twisters, coming soon to theaters.
 
-16 songs - 1 hr 6 min
+17 songs - 1 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Melancholy Mechanics](https://open.spotify.com/track/3S1us2rmUpZXJn1EPlP9Sw) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Music From The Motion Picture Twister\-The Dark Side Of Nature](https://open.spotify.com/album/6nhPA9JUFlmBiFASeD3Esb) | 4:31 | 2024-05-16 |  |
 | [Miss This](https://open.spotify.com/track/56jfkN1qErnqBioQTbCoDz) | [Soul Asylum](https://open.spotify.com/artist/02da1vDJ2hWqfK7aJL6SJm) | [Music From The Motion Picture Twister\-The Dark Side Of Nature](https://open.spotify.com/album/6nhPA9JUFlmBiFASeD3Esb) | 3:56 | 2024-05-16 |  |
 | [Moments Like This](https://open.spotify.com/track/3UIHopl5XarNRgF0iLFcdG) | [Alison Krauss & Union Station](https://open.spotify.com/artist/0OTnx2X2FDXeewcm72lavT) | [Music From The Motion Picture Twister\-The Dark Side Of Nature](https://open.spotify.com/album/6nhPA9JUFlmBiFASeD3Esb) | 4:58 | 2024-05-16 |  |
+| [Never Left Me \(From Twisters: The Album\)](https://open.spotify.com/track/3IuBfjh6U8r2K0a5sP8Lvf) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Never Left Me \(From Twisters: The Album\)](https://open.spotify.com/album/7g8sRyHTnJBUuDb5VkzBP9) | 3:11 | 2024-05-31 |  |
 | [No One Needs To Know](https://open.spotify.com/track/6UjODa5z7iMoP4xpzpe0tw) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Music From The Motion Picture Twister\-The Dark Side Of Nature](https://open.spotify.com/album/6nhPA9JUFlmBiFASeD3Esb) | 3:04 | 2024-05-16 |  |
 | [Respect the Wind](https://open.spotify.com/track/1Uk3N1ayracgnAgw8jk7Zf) | [Eddie Van Halen](https://open.spotify.com/artist/1DlE1l0q1w0cE9cQVIsC7I), [Alex Van Halen](https://open.spotify.com/artist/3CmDSgt3JbEGKxvssuARPB) | [Music From The Motion Picture Twister\-The Dark Side Of Nature](https://open.spotify.com/album/6nhPA9JUFlmBiFASeD3Esb) | 5:46 | 2024-05-16 |  |
 | [Talula \- BT's Tornado Mix](https://open.spotify.com/track/2QcQUTwIq5KYlqcg4UI1a9) | [Tori Amos](https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32), [Tim Weidner](https://open.spotify.com/artist/5tUCwGnLlLLYSMpYvxrVOE) | [Music From The Motion Picture Twister\-The Dark Side Of Nature](https://open.spotify.com/album/6nhPA9JUFlmBiFASeD3Esb) | 3:43 | 2024-05-16 |  |

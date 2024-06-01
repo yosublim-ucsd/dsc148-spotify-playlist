@@ -4,7 +4,7 @@
 
 > Plug your brain into a modular synthesizer analog loop.
 
-194 songs - 12 hr 13 min
+195 songs - 12 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,6 +143,7 @@
 | [Romance](https://open.spotify.com/track/0kCQyuaJp2Rx6EKiENpB1q) | [Peter Baumann](https://open.spotify.com/artist/4u9mLb6exlbHuNehyJ11jq) | [Romance 76](https://open.spotify.com/album/5YE2KLhp2lfKULIqMw3gWX) | 6:08 | 2021-08-17 |  |
 | [Saturn Ski Jump](https://open.spotify.com/track/4Arau0rDs3eVb8hwAhWliz) | [The Happy Moog](https://open.spotify.com/artist/5gExTiO26dn8bOZ7IwjM87) | [The Happy Moog](https://open.spotify.com/album/5MOmkon8ma4se9NtmXLoE7) | 2:04 | 2021-08-17 |  |
 | [Short Circuit](https://open.spotify.com/track/1unfiTb6jOGxHBuiiWsMuD) | [The Happy Moog](https://open.spotify.com/artist/5gExTiO26dn8bOZ7IwjM87) | [The Happy Moog](https://open.spotify.com/album/5MOmkon8ma4se9NtmXLoE7) | 2:13 | 2021-08-17 |  |
+| [Soft Space](https://open.spotify.com/track/7N0GNjGDywjaR0Ns91PiAv) | [Soft Machine](https://open.spotify.com/artist/5A0MH7JfEBEMySevsmauds) | [Alive and Well \- Recorded in Paris](https://open.spotify.com/album/5sShluwFAJshVIjwhMvmmW) | 8:17 | 2024-05-30 |  |
 | [Song of the Second Moon](https://open.spotify.com/track/07Y2a4zGLw0w7prWbZl0uJ) | [Kid Baltan](https://open.spotify.com/artist/2CdUOzuwbij3ZDupKjgzSs) | [Song of the Second Moon](https://open.spotify.com/album/5dBwLiLUoJf84L8awVQVrv) | 3:08 | 2021-08-17 | 2024-04-19 |
 | [Song of the Second Moon](https://open.spotify.com/track/1Gb9oCSGST0crUDjBowD20) | [Kid Baltan](https://open.spotify.com/artist/2CdUOzuwbij3ZDupKjgzSs) | [Sounds in Space\. a Very Unusual Collection of Space Influenced Music.](https://open.spotify.com/album/4A64TR1UmFtiLv2FXJr6lm) | 3:08 | 2021-08-17 |  |
 | [Song of the Second Moon](https://open.spotify.com/track/569fTEN94rQETqvMgOuQwU) | [Tom Dissevelt](https://open.spotify.com/artist/4ItPco4yWLkMWjnYRaqDgw), [Kid Baltan](https://open.spotify.com/artist/2CdUOzuwbij3ZDupKjgzSs) | [Electronic Music](https://open.spotify.com/album/74KIAMbeiTQcR9P49Mw0NU) | 2:46 | 2021-08-17 |  |

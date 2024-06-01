@@ -1,6 +1,6 @@
 {
   "description": "O melhor do rock ac\u00fastico nacional e internacional para curtir e relaxar.",
-  "num_followers": 302645,
+  "num_followers": 302755,
   "original_name": "Rock Ac\u00fastico",
   "owner": {
     "name": "Spotify",
@@ -419,22 +419,6 @@
     {
       "added_at": "2024-04-19 19:00:01",
       "album": {
-        "name": "Gigaton",
-        "url": "https://open.spotify.com/album/5bTixyz2GHx1YUqNUdzfut"
-      },
-      "artists": [
-        {
-          "name": "Pearl Jam",
-          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
-        }
-      ],
-      "duration_ms": 322306,
-      "name": "Retrograde",
-      "url": "https://open.spotify.com/track/2D68wN3hwEZFdeui0c5Ar6"
-    },
-    {
-      "added_at": "2024-04-19 19:00:01",
-      "album": {
         "name": "Come What(ever) May [Special Edition]",
         "url": "https://open.spotify.com/album/5eHk89PNorMd7e4wyxYiUV"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 267253,
       "name": "Wicked Game - Acoustic; Live",
       "url": "https://open.spotify.com/track/6UFhNbE4sLRUoM52kC4Xl4"
+    },
+    {
+      "added_at": "2024-04-19 19:00:01",
+      "album": {
+        "name": "Gigaton",
+        "url": "https://open.spotify.com/album/5bTixyz2GHx1YUqNUdzfut"
+      },
+      "artists": [
+        {
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+        }
+      ],
+      "duration_ms": 322306,
+      "name": "Retrograde",
+      "url": "https://open.spotify.com/track/2D68wN3hwEZFdeui0c5Ar6"
     },
     {
       "added_at": "2024-04-19 19:00:01",
@@ -847,18 +847,18 @@
     {
       "added_at": "2024-04-19 19:00:01",
       "album": {
-        "name": "Enquanto Ela N\u00e3o Chegar (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/3t2IxR2XIFLTtrRv03pSEk"
+        "name": "Pra Dizer Adeus (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0o5WvjHaxbnY8ftGZPVbbx"
       },
       "artists": [
         {
-          "name": "Bar\u00e3o Vermelho",
-          "url": "https://open.spotify.com/artist/5zq0SGWxrmzpTSXkBEQzMj"
+          "name": "Paulo Miklos",
+          "url": "https://open.spotify.com/artist/4GIB9MiZTggcpRXOPXRSJe"
         }
       ],
-      "duration_ms": 208316,
-      "name": "Enquanto Ela N\u00e3o Chegar - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/6hLStuKVbiJdTj79re7JMx"
+      "duration_ms": 253232,
+      "name": "Pra Dizer Adeus - Ao Vivo",
+      "url": "https://open.spotify.com/track/0tXAm6W1xV2mDLVaO3Hn58"
     },
     {
       "added_at": "2024-04-19 19:00:01",
@@ -879,18 +879,18 @@
     {
       "added_at": "2024-04-19 19:00:01",
       "album": {
-        "name": "Pra Dizer Adeus (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0o5WvjHaxbnY8ftGZPVbbx"
+        "name": "Enquanto Ela N\u00e3o Chegar (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/3t2IxR2XIFLTtrRv03pSEk"
       },
       "artists": [
         {
-          "name": "Paulo Miklos",
-          "url": "https://open.spotify.com/artist/4GIB9MiZTggcpRXOPXRSJe"
+          "name": "Bar\u00e3o Vermelho",
+          "url": "https://open.spotify.com/artist/5zq0SGWxrmzpTSXkBEQzMj"
         }
       ],
-      "duration_ms": 253232,
-      "name": "Pra Dizer Adeus - Ao Vivo",
-      "url": "https://open.spotify.com/track/0tXAm6W1xV2mDLVaO3Hn58"
+      "duration_ms": 208316,
+      "name": "Enquanto Ela N\u00e3o Chegar - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/6hLStuKVbiJdTj79re7JMx"
     },
     {
       "added_at": "2024-04-19 19:00:01",
@@ -975,6 +975,22 @@
     {
       "added_at": "2024-04-19 19:00:01",
       "album": {
+        "name": "Todo Esse Querer (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1ZSXqXYxSowAAmmp4TnZW2"
+      },
+      "artists": [
+        {
+          "name": "Paulo Miklos",
+          "url": "https://open.spotify.com/artist/4GIB9MiZTggcpRXOPXRSJe"
+        }
+      ],
+      "duration_ms": 199201,
+      "name": "Todo Esse Querer - Ao Vivo",
+      "url": "https://open.spotify.com/track/6yF2bqWYzQZ9OrHvluR01O"
+    },
+    {
+      "added_at": "2024-04-19 19:00:01",
+      "album": {
         "name": "Keep the Village Alive (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5S7SW1LDkaCz3zCJI3Cbhn"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 224080,
       "name": "Pra Dizer Adeus - Trio Ac\u00fastico",
       "url": "https://open.spotify.com/track/5d3FwTgLhVIFf6UcSIfkk8"
-    },
-    {
-      "added_at": "2024-04-19 19:00:01",
-      "album": {
-        "name": "Todo Esse Querer (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1ZSXqXYxSowAAmmp4TnZW2"
-      },
-      "artists": [
-        {
-          "name": "Paulo Miklos",
-          "url": "https://open.spotify.com/artist/4GIB9MiZTggcpRXOPXRSJe"
-        }
-      ],
-      "duration_ms": 199201,
-      "name": "Todo Esse Querer - Ao Vivo",
-      "url": "https://open.spotify.com/track/6yF2bqWYzQZ9OrHvluR01O"
     },
     {
       "added_at": "2024-04-19 19:00:01",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2024-04-19 19:00:01",
       "album": {
-        "name": "Enquanto Houver Sol (Trio Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/5RLrPV95g4R45lyXxY2Bk9"
-      },
-      "artists": [
-        {
-          "name": "Tit\u00e3s",
-          "url": "https://open.spotify.com/artist/2euX7vCVnJy3TVEGfc0RCl"
-        }
-      ],
-      "duration_ms": 213760,
-      "name": "Enquanto Houver Sol - Trio Ac\u00fastico",
-      "url": "https://open.spotify.com/track/3bahcqxOYXOFL5bSJAhZU2"
-    },
-    {
-      "added_at": "2024-04-19 19:00:01",
-      "album": {
         "name": "A C\u00e9u Aberto (Ao Vivo)",
         "url": "https://open.spotify.com/album/2oX5IyR0rz8gSsEMRdv8Ju"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 244793,
       "name": "Dan\u00e7a do Tempo - Ao Vivo",
       "url": "https://open.spotify.com/track/4kW7M7L7LRPuPc3sO5yWi7"
+    },
+    {
+      "added_at": "2024-04-19 19:00:01",
+      "album": {
+        "name": "Enquanto Houver Sol (Trio Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/5RLrPV95g4R45lyXxY2Bk9"
+      },
+      "artists": [
+        {
+          "name": "Tit\u00e3s",
+          "url": "https://open.spotify.com/artist/2euX7vCVnJy3TVEGfc0RCl"
+        }
+      ],
+      "duration_ms": 213760,
+      "name": "Enquanto Houver Sol - Trio Ac\u00fastico",
+      "url": "https://open.spotify.com/track/3bahcqxOYXOFL5bSJAhZU2"
     },
     {
       "added_at": "2024-04-19 19:00:01",

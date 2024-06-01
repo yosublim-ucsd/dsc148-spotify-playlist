@@ -2,7 +2,7 @@
 
 ### [New Traditions Country Heroes](https://open.spotify.com/playlist/37i9dQZF1DX24Kh15JFQJ0)
 
-> The latest music from our Country Heroes\. Cover: Trisha Yearwood
+> The latest music from our Country Heroes\. Cover: George Strait
 
 283 songs - 16 hr 37 min
 
@@ -44,7 +44,7 @@
 | [Better Than Me](https://open.spotify.com/track/78GzKUvv47KVd9VT0UZv77) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb), [Randy Owen](https://open.spotify.com/artist/7ApjMfT8P3bcePl99oKYFP) | [If It Wasn't For Trucks](https://open.spotify.com/album/6KwbEegYFIlCEhjaIIE3IH) | 3:51 | 2021-10-15 | 2022-09-21 |
 | [Beyond the Stars \(feat\. Willie Nelson\)](https://open.spotify.com/track/4JPxoyLaRy4YAmqxkedSlB) | [Tami Neilson](https://open.spotify.com/artist/4PmC63uE7ZLY5TI3p0PGd3), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Kingmaker](https://open.spotify.com/album/5fuIzeNg4rYracgepUeZWa) | 3:20 | 2023-04-28 | 2024-04-19 |
 | [Beyond the Stars \(feat\. Willie Nelson\)](https://open.spotify.com/track/6u7ZlZMY0WtHHfTKv9Khdv) | [Tami Neilson](https://open.spotify.com/artist/4PmC63uE7ZLY5TI3p0PGd3), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Beyond the Stars \(feat\. Willie Nelson\)](https://open.spotify.com/album/3ha32uxw82uW6rFHzErQVE) | 3:20 | 2022-04-15 |  |
-| [Big Bertha \(feat\. Vince Gill\)](https://open.spotify.com/track/63zeH35ojREKtEyTZjisUW) | [Ronnie Milsap](https://open.spotify.com/artist/6Sb8EHpZvyjSTT5KD9DjUZ), [Vince Gill](https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo) | [A Better Word for Love](https://open.spotify.com/album/0t6BIT9pK7zzLtc4C0XdPM) | 3:04 | 2021-10-15 |  |
+| [Big Bertha \(feat\. Vince Gill\)](https://open.spotify.com/track/63zeH35ojREKtEyTZjisUW) | [Ronnie Milsap](https://open.spotify.com/artist/6Sb8EHpZvyjSTT5KD9DjUZ), [Vince Gill](https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo) | [A Better Word for Love](https://open.spotify.com/album/0t6BIT9pK7zzLtc4C0XdPM) | 3:04 | 2021-10-15 | 2024-06-01 |
 | [Big Dreams and Faded Jeans](https://open.spotify.com/track/74oyvAPVoZvnEHDwZQgYnL) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Run, Rose, Run](https://open.spotify.com/album/50A9Yv2SPJByoZIDO5WVzG) | 4:07 | 2022-07-22 | 2024-04-19 |
 | [Big Dreams and Faded Jeans](https://open.spotify.com/track/7GU9wHH2KHXfvHsRxMBH5T) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Big Dreams and Faded Jeans](https://open.spotify.com/album/3dTp47JrsjNtAZa6XReLlk) | 4:07 | 2022-02-11 |  |
 | [Blanket on the Ground](https://open.spotify.com/track/0fNVf87epF7g8qTtAozihN) | [Lorrie Morgan](https://open.spotify.com/artist/0khzcQ6PQU5a6dl1Qss3pt), [Pam Tillis](https://open.spotify.com/artist/1SX44N5qjWuFcCK8WTO0c6) | [Come See Me and Come Lonely](https://open.spotify.com/album/606eNhfSHz9jVyyoVZ9p85) | 3:50 | 2021-10-15 |  |
@@ -80,7 +80,7 @@
 | [Dusty Bottles](https://open.spotify.com/track/7kpdCMUv7Tc8XNAlfJffmW) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [A Beautiful Time](https://open.spotify.com/album/7oPKRoThZFX1xQ7X05cfFG) | 3:30 | 2022-07-22 | 2024-04-19 |
 | [Dusty Old Dust](https://open.spotify.com/track/2WNcZzyx0W4ufueyWSF3qd) | [Lee Ann Womack](https://open.spotify.com/artist/738OS3zrCO782uDiUN9pet) | [Dusty Old Dust](https://open.spotify.com/album/5vrzgbC6QkrdYSXIc6UM68) | 5:40 | 2021-10-15 |  |
 | [Eagle When She Flies](https://open.spotify.com/track/6a253LpGaq8byPMmTuyBPw) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Eagle When She Flies](https://open.spotify.com/album/505DGCQ7YCwILZLmizg0yK) | 3:39 | 2021-10-15 | 2022-03-02 |
-| [Easy Goin](https://open.spotify.com/track/6AoFAz2zZRdC43mzVU01Sf) | [Clay Walker](https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par) | [Easy Goin](https://open.spotify.com/album/52qFba0o5xWWhpP6CUVxXe) | 3:08 | 2021-10-15 |  |
+| [Easy Goin](https://open.spotify.com/track/6AoFAz2zZRdC43mzVU01Sf) | [Clay Walker](https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par) | [Easy Goin](https://open.spotify.com/album/52qFba0o5xWWhpP6CUVxXe) | 3:08 | 2021-10-15 | 2024-06-01 |
 | [Energy Follows Thought](https://open.spotify.com/track/0r2tqdxv7cs8lXvhZ4RvpL) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Energy Follows Thought](https://open.spotify.com/album/1obdE66inb3o0leVFpWrGS) | 3:17 | 2022-03-11 | 2022-04-29 |
 | [Every Little Honky Tonk Bar](https://open.spotify.com/track/64Zm9wNGj6coqg4zsb0Soj) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [Every Little Honky Tonk Bar](https://open.spotify.com/album/3YPIY3nVjvhEGX9yRwwYx6) | 3:14 | 2021-10-15 |  |
 | [Everybody's Talkin'](https://open.spotify.com/track/3zqmP9CKPHOhzVntc2ropS) | [Clint Black](https://open.spotify.com/artist/3Ay15wt0QChT4Kapsuw5Jt) | [Out of Sane](https://open.spotify.com/album/1UUgUFNRDCZlumiG2c2qXJ) | 3:31 | 2021-10-15 |  |

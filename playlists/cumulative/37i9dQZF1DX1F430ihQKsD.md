@@ -4,7 +4,7 @@
 
 > La scène musicale montréalaise au premier plan\. Photo: Bibi Club
 
-471 songs - 1 day 3 hr 14 min
+472 songs - 1 day 3 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,7 +122,7 @@
 | [Digital Damage](https://open.spotify.com/track/6ysriWddMJP3xo4qElbQu7) | [Emma Beko](https://open.spotify.com/artist/4j7NgnYyG3MjsU7OfJnrzG), [Da\-P](https://open.spotify.com/artist/4PKHlnz8cQ79kQ6kd3GufJ) | [Digital Damage](https://open.spotify.com/album/3q3BT8V9uaWYxgwNcsSOfb) | 2:29 | 2022-04-15 | 2022-04-23 |
 | [Dis\-moi si la ville](https://open.spotify.com/track/1yhMs6ZXA0eTO7kra1pX7R) | [Maud Evelyne](https://open.spotify.com/artist/5Dr7MbOh4wwzWswQxIKmFK) | [Dis\-moi si la ville](https://open.spotify.com/album/2G57Hhyh1W3gqlZBWMOnsy) | 2:56 | 2022-03-25 | 2022-11-12 |
 | [Disco Cosmos](https://open.spotify.com/track/3xN6elAScxDFsN2EQu76K2) | [JORDANN](https://open.spotify.com/artist/1qlafOeHOtRUZR4AOxlOkF), [Tim Atlas](https://open.spotify.com/artist/3CiuXDKttPUT0tWGHicFUH) | [Disco Cosmos](https://open.spotify.com/album/4y1G6f8XC2yK8dQX8TRkGN) | 3:42 | 2022-08-05 | 2022-10-01 |
-| [Distrust the Magician](https://open.spotify.com/track/4EczFi15YP46BSa8u1p95v) | [Unessential Oils](https://open.spotify.com/artist/34dPqKupUgAXZRn6beb0Zu) | [Distrust the Magician](https://open.spotify.com/album/61I73dAC8MzN56vo2FX4SO) | 5:37 | 2024-03-08 |  |
+| [Distrust the Magician](https://open.spotify.com/track/4EczFi15YP46BSa8u1p95v) | [Unessential Oils](https://open.spotify.com/artist/34dPqKupUgAXZRn6beb0Zu) | [Distrust the Magician](https://open.spotify.com/album/61I73dAC8MzN56vo2FX4SO) | 5:37 | 2024-03-08 | 2024-06-01 |
 | [Dog Years \- weird inside Remix](https://open.spotify.com/track/15zSGbZomfOYEJJdZ55OAs) | [afternoon bike ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9), [weird inside](https://open.spotify.com/artist/4iylWAhvTVtSVhIeAoM7Bl) | [Dog Years \(weird inside Remix\)](https://open.spotify.com/album/4w49KsCkFCr70tlMIm436k) | 2:23 | 2022-03-25 | 2022-08-23 |
 | [DOLLA BILL](https://open.spotify.com/track/60KAfeoYKcZxescGw4ZjkD) | [Fernie](https://open.spotify.com/artist/5PemoTSZMQp59WnXZZ4EhI), [Magi Merlin](https://open.spotify.com/artist/6uOvQgcFOmdzhunx7n83J2) | [DOLLA BILL](https://open.spotify.com/album/15dVyqRAoOdrS1ADqD7zB6) | 3:43 | 2022-11-11 | 2023-04-22 |
 | [Douce répétition](https://open.spotify.com/track/0HMF4ha6tszLkLCDy6IZZ8) | [Frais Dispo](https://open.spotify.com/artist/6TDKketvd7bXUsKVcMKMb9) | [Teinte](https://open.spotify.com/album/5OhCrmOqckXZRLicXsmMWS) | 3:00 | 2023-04-14 | 2024-03-09 |
@@ -316,6 +316,7 @@
 | [Oumamie](https://open.spotify.com/track/2iauwPwdi7tZPyFPfLUotw) | [Hansom Ēli](https://open.spotify.com/artist/6NwI5CAoRbYCTWCiCiQ7Dh) | [Oumamie](https://open.spotify.com/album/4JH7mG8IRdK3oGh2m0nT4L) | 2:21 | 2024-05-03 |  |
 | [Out Of Control](https://open.spotify.com/track/0YDQCkIxi2mOBB5ksDd9u1) | [Moon King](https://open.spotify.com/artist/6hTzDsb4gaKGZMNtfC70c5), [Visors](https://open.spotify.com/artist/5fLeURoq7hUfA1YRLDKnp5) | ["Turning \(Inside Out\)" b/w "Out Of Control"](https://open.spotify.com/album/561UO06aHshx0pz1miVIPV) | 4:02 | 2023-02-17 | 2024-03-16 |
 | [Out of Time \- KAYTRANADA Remix](https://open.spotify.com/track/4Rrj1QxDqsj28gv9SiHQRA) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Out Of Time \(Remix Bundle\)](https://open.spotify.com/album/6LuY3APmuxui8BM2oibkrZ) | 4:35 | 2022-04-22 | 2023-05-20 |
+| [Overwhelmed and Unprepared](https://open.spotify.com/track/606sltm751n1JmCxI0UN9s) | [Unessential Oils](https://open.spotify.com/artist/34dPqKupUgAXZRn6beb0Zu) | [Overwhelmed and Unprepared](https://open.spotify.com/album/7HDAhvEuglhFQXLeSZJCjh) | 5:34 | 2024-05-31 |  |
 | [Pajaros](https://open.spotify.com/track/7yZ5kBFO6VTjrFHIKXWA4S) | [Laurence\-Anne](https://open.spotify.com/artist/0OuxZ5aNvFlurweMR8qq3B) | [Musivision](https://open.spotify.com/album/0h2YOL6mf83Ih5I4tvVXUd) | 4:09 | 2022-03-25 | 2023-03-18 |
 | [Panneaux](https://open.spotify.com/track/5Yfk4gARR6ExKOlsknlFFN) | [Benjamin Proulx](https://open.spotify.com/artist/6wxpEggyJPIcvE7XvoxINR) | [Illusoire](https://open.spotify.com/album/2jEyWbI2bvhSBob6feiZjq) | 3:38 | 2023-07-28 |  |
 | [Papa Wemba](https://open.spotify.com/track/66uRvVAtgUan70hYcORwbc) | [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP) | [Papa Wemba](https://open.spotify.com/album/1W3ISOlEvRbSp5Wer7yn9V) | 3:50 | 2022-03-25 | 2022-04-29 |

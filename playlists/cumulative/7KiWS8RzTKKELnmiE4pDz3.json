@@ -705,6 +705,28 @@
     },
     {
       "album": {
+        "name": "Dum and Dummer 2",
+        "url": "https://open.spotify.com/album/1XKOXluL7TbCpPVsX4dqXv"
+      },
+      "artists": [
+        {
+          "name": "Young Dolph",
+          "url": "https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g"
+        },
+        {
+          "name": "Key Glock",
+          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149760,
+      "name": "A Goat & A Dolphin",
+      "url": "https://open.spotify.com/track/3jIngQ3hgLgIv3tMSzrQa6"
+    },
+    {
+      "album": {
         "name": "City On My Back",
         "url": "https://open.spotify.com/album/4dmycXSxh1F9LGAVgB1plB"
       },

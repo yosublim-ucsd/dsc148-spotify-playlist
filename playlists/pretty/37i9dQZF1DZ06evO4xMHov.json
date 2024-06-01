@@ -1,12 +1,12 @@
 {
-  "description": "This is N\u00edvea Soares. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 60508,
+  "description": "This is N\u00edvea Soares. The essential tracks, all in one playlist.",
+  "num_followers": 60526,
   "original_name": "This Is N\u00edvea Soares",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlPNAAAAAABOy7YBzMu9CMSXbHoNUww1",
+  "snapshot_id": "ZlfBgAAAAAASSb3zrz+/jbGPrs5pbElc",
   "tracks": [
     {
       "added_at": null,
@@ -155,22 +155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gl\u00f3ria E Honra (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4TLWr1MWdEj98RHapVcnLm"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 365093,
-      "name": "Teu Amor N\u00e3o Falha - Ao Vivo",
-      "url": "https://open.spotify.com/track/2BslVGgN43vtWfAFI7vJnr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Quem \u00e9 Como Nosso Deus?",
         "url": "https://open.spotify.com/album/6FEiGQwI028PHCKsxtaMni"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 489116,
       "name": "Quem \u00e9 Como Nosso Deus?",
       "url": "https://open.spotify.com/track/12lShKyr5n3B8qobwzxepl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gl\u00f3ria E Honra (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4TLWr1MWdEj98RHapVcnLm"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 365093,
+      "name": "Teu Amor N\u00e3o Falha - Ao Vivo",
+      "url": "https://open.spotify.com/track/2BslVGgN43vtWfAFI7vJnr"
     },
     {
       "added_at": null,
@@ -575,26 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Preto No Branco 3 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/17f5CLg1zIf55tqhEjCV41"
-      },
-      "artists": [
-        {
-          "name": "Preto no Branco",
-          "url": "https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom"
-        },
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 267170,
-      "name": "O Le\u00e3o E A Igreja - Ao Vivo",
-      "url": "https://open.spotify.com/track/1DZWhBkO9rIEX5IpyRDLgB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Medley Cora\u00e7\u00e3o Igual ao Teu (Ao Vivo)",
         "url": "https://open.spotify.com/album/5s1zqwFYmzOAVgMtG1n2PK"
       },
@@ -651,22 +631,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00c1guas Vivas",
-        "url": "https://open.spotify.com/album/1Sez3oXBENOdi0Ainef5AJ"
+        "name": "Preto No Branco 3 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/17f5CLg1zIf55tqhEjCV41"
       },
       "artists": [
         {
-          "name": "Higor Rosa",
-          "url": "https://open.spotify.com/artist/2fqNvfLoAikmiTGR5WgOeA"
+          "name": "Preto no Branco",
+          "url": "https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom"
         },
         {
           "name": "N\u00edvea Soares",
           "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
         }
       ],
-      "duration_ms": 457058,
-      "name": "\u00c1guas Vivas",
-      "url": "https://open.spotify.com/track/1IDHsyS7G9AA3pQzV1Nzqo"
+      "duration_ms": 267170,
+      "name": "O Le\u00e3o E A Igreja - Ao Vivo",
+      "url": "https://open.spotify.com/track/1DZWhBkO9rIEX5IpyRDLgB"
     },
     {
       "added_at": null,
@@ -707,22 +687,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "S\u00f3 Existe Um Lugar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/468Y9pHDkKf8u6oLHWrimN"
+        "name": "\u00c1guas Vivas",
+        "url": "https://open.spotify.com/album/1Sez3oXBENOdi0Ainef5AJ"
+      },
+      "artists": [
+        {
+          "name": "Higor Rosa",
+          "url": "https://open.spotify.com/artist/2fqNvfLoAikmiTGR5WgOeA"
+        },
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 457058,
+      "name": "\u00c1guas Vivas",
+      "url": "https://open.spotify.com/track/1IDHsyS7G9AA3pQzV1Nzqo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jesus (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6mf39m0DBS39bfATCHwNM5"
       },
       "artists": [
         {
           "name": "N\u00edvea Soares",
           "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        },
-        {
-          "name": "Isaias Saad",
-          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
         }
       ],
-      "duration_ms": 427917,
-      "name": "S\u00f3 Existe Um Lugar - Ao Vivo",
-      "url": "https://open.spotify.com/track/3oVtUUirowVa9DEtjazJVq"
+      "duration_ms": 437418,
+      "name": "Jesus - Ao Vivo",
+      "url": "https://open.spotify.com/track/1tLprGViXjMjX1mwvncJc7"
     },
     {
       "added_at": null,
@@ -747,38 +743,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jesus (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6mf39m0DBS39bfATCHwNM5"
+        "name": "S\u00f3 Existe Um Lugar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/468Y9pHDkKf8u6oLHWrimN"
       },
       "artists": [
         {
           "name": "N\u00edvea Soares",
           "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 437418,
-      "name": "Jesus - Ao Vivo",
-      "url": "https://open.spotify.com/track/1tLprGViXjMjX1mwvncJc7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "O Que Tua Gl\u00f3ria Fez Comigo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5J0V7iimGhQGcBWIXV6t7w"
-      },
-      "artists": [
-        {
-          "name": "Leo Fonseca",
-          "url": "https://open.spotify.com/artist/34iSGCakITd5m0nZgIjkio"
         },
         {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+          "name": "Isaias Saad",
+          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
         }
       ],
-      "duration_ms": 538285,
-      "name": "O Que Tua Gl\u00f3ria Fez Comigo - Ao Vivo",
-      "url": "https://open.spotify.com/track/1eZ6MiWjHmwbbcGpAetCiO"
+      "duration_ms": 427917,
+      "name": "S\u00f3 Existe Um Lugar - Ao Vivo",
+      "url": "https://open.spotify.com/track/3oVtUUirowVa9DEtjazJVq"
     },
     {
       "added_at": null,
@@ -815,6 +795,26 @@
       "duration_ms": 826880,
       "name": "Ousado Amor",
       "url": "https://open.spotify.com/track/7sXiDUR1TCstXHlqfyAHOB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "O Que Tua Gl\u00f3ria Fez Comigo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5J0V7iimGhQGcBWIXV6t7w"
+      },
+      "artists": [
+        {
+          "name": "Leo Fonseca",
+          "url": "https://open.spotify.com/artist/34iSGCakITd5m0nZgIjkio"
+        },
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 538285,
+      "name": "O Que Tua Gl\u00f3ria Fez Comigo - Ao Vivo",
+      "url": "https://open.spotify.com/track/1eZ6MiWjHmwbbcGpAetCiO"
     },
     {
       "added_at": null,
@@ -871,46 +871,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cordeiro e Le\u00e3o (Ao Vivo)",
-        "url": "https://open.spotify.com/album/674qX1cl9y824gBlQdUplj"
-      },
-      "artists": [
-        {
-          "name": "Isaque Valad\u00e3o Bessa",
-          "url": "https://open.spotify.com/artist/054LTzkZ6sYAjYVmvYgyn9"
-        },
-        {
-          "name": "Ana Paula Valad\u00e3o",
-          "url": "https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW"
-        },
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 334360,
-      "name": "Cordeiro e Le\u00e3o - Ao Vivo",
-      "url": "https://open.spotify.com/track/4EGj6g4QFno2quxPOLtMcp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gl\u00f3ria E Honra (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4TLWr1MWdEj98RHapVcnLm"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 291266,
-      "name": "Meu Maior Amor - Ao Vivo",
-      "url": "https://open.spotify.com/track/6veb6mzP3bVBM2qe6O3MSS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gl\u00f3ria E Aleluia",
         "url": "https://open.spotify.com/album/0GkqpHA93sH8c6uposgX0K"
       },
@@ -931,6 +891,46 @@
       "duration_ms": 411029,
       "name": "Gl\u00f3ria E Aleluia",
       "url": "https://open.spotify.com/track/16srjrwXoQuKE1SQ95zSoN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gl\u00f3ria E Honra (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4TLWr1MWdEj98RHapVcnLm"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 291266,
+      "name": "Meu Maior Amor - Ao Vivo",
+      "url": "https://open.spotify.com/track/6veb6mzP3bVBM2qe6O3MSS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cordeiro e Le\u00e3o (Ao Vivo)",
+        "url": "https://open.spotify.com/album/674qX1cl9y824gBlQdUplj"
+      },
+      "artists": [
+        {
+          "name": "Isaque Valad\u00e3o Bessa",
+          "url": "https://open.spotify.com/artist/054LTzkZ6sYAjYVmvYgyn9"
+        },
+        {
+          "name": "Ana Paula Valad\u00e3o",
+          "url": "https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW"
+        },
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 334360,
+      "name": "Cordeiro e Le\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/4EGj6g4QFno2quxPOLtMcp"
     },
     {
       "added_at": null,

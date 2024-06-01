@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbVDG8SANkRQ.md) - [plain]
 
 > Listen to the soundtracks of The Atypical Family\. \(히어로는 아닙니다만의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,155 likes - 30 songs - 1 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,409 likes - 30 songs - 1 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [La Puta](https://open.spotify.com/track/3Zl3GZDFHxFXOVleILTu0n) | [Yi Sung Yol](https://open.spotify.com/artist/1uwchldM1ngqs8xCZg0DK9) | [The Atypical Family \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/1eHNGz5204SsrzVcBB5HTZ) | 3:16 |
+| 1 | [Laputa](https://open.spotify.com/track/3Zl3GZDFHxFXOVleILTu0n) | [Yi Sung Yol](https://open.spotify.com/artist/1uwchldM1ngqs8xCZg0DK9) | [The Atypical Family \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/1eHNGz5204SsrzVcBB5HTZ) | 3:16 |
 | 2 | [Walking with you](https://open.spotify.com/track/7fz4jscCC4eiXiAFPujYfY) | [So Soo Bin](https://open.spotify.com/artist/5ghNwcHNesKq0Q3zfK39ic) | [The Atypical Family \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/02ncFx6427PIjjkmxToigw) | 3:53 |
 | 3 | [I See You](https://open.spotify.com/track/2tjzHzqMMoCy9xWU0MAP3Q) | [Lee So Ra](https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC) | [The Atypical Family \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/4vq5IM3eib2FIDfPdu23fP) | 4:28 |
 | 4 | [Curated by Jang Ki Yong](https://open.spotify.com/track/45LMKYF5OrC8tqtPPHJjow) | [The Atypical Family](https://open.spotify.com/artist/4fHIH7jEuCI5LJlrO1kOb1) | [The Atypical Family audio liners](https://open.spotify.com/album/5ymxUo6ULwR2JIbCUKV2qE) | 0:28 |
@@ -37,6 +37,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbVDG8SANkRQ.md) - [plain]
 | 27 | [Chasing That Feeling](https://open.spotify.com/track/0ZPjVmof45INEERgYfadtv) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Name Chapter: FREEFALL](https://open.spotify.com/album/63fWdGyeBj8VDjvHSUROx3) | 3:02 |
 | 28 | [Walking with you \- Instrumental](https://open.spotify.com/track/4qfwCgWmtGm2koVU6D7HqP) | [So Soo Bin](https://open.spotify.com/artist/5ghNwcHNesKq0Q3zfK39ic) | [The Atypical Family \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/02ncFx6427PIjjkmxToigw) | 3:53 |
 | 29 | [I See You \- Instrumental](https://open.spotify.com/track/7mdsu3BEFTAFym6AoPYVQs) | [Lee So Ra](https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC) | [The Atypical Family \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/4vq5IM3eib2FIDfPdu23fP) | 4:28 |
-| 30 | [La Puta \- Instrumental](https://open.spotify.com/track/6QSpGalR1z65Zdz3lv3Frt) | [Yi Sung Yol](https://open.spotify.com/artist/1uwchldM1ngqs8xCZg0DK9) | [The Atypical Family \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/1eHNGz5204SsrzVcBB5HTZ) | 3:16 |
+| 30 | [Laputa \- Instrumental](https://open.spotify.com/track/6QSpGalR1z65Zdz3lv3Frt) | [Yi Sung Yol](https://open.spotify.com/artist/1uwchldM1ngqs8xCZg0DK9) | [The Atypical Family \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/1eHNGz5204SsrzVcBB5HTZ) | 3:16 |
 
 Snapshot ID: `ZlQ6/AAAAAAsarMr7R3Jxbg+mpFOYu8r`

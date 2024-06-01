@@ -4305,6 +4305,24 @@
     },
     {
       "album": {
+        "name": "Lever du Soleil",
+        "url": "https://open.spotify.com/album/4vuAjANHzQMGIJu9fN4c3q"
+      },
+      "artists": [
+        {
+          "name": "M\u00edrabilis",
+          "url": "https://open.spotify.com/artist/11nkqtBGx6kKdNeaT2hQYD"
+        }
+      ],
+      "date_added": "2024-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156891,
+      "name": "Lever du Soleil",
+      "url": "https://open.spotify.com/track/3Ct59fvUQpwTyaAvi4fCEL"
+    },
+    {
+      "album": {
         "name": "Liebchen",
         "url": "https://open.spotify.com/album/6ItYT8YF1qNNvbueX0lZKz"
       },
@@ -5402,6 +5420,24 @@
       "duration_ms": 129121,
       "name": "Night Light",
       "url": "https://open.spotify.com/track/7LLLc3Gxg6zRm9lKtmuCGR"
+    },
+    {
+      "album": {
+        "name": "Night Streets",
+        "url": "https://open.spotify.com/album/7Kl8tiNtQAw3qp9jFJWyJL"
+      },
+      "artists": [
+        {
+          "name": "Skaresn\u00f8",
+          "url": "https://open.spotify.com/artist/6hLr4Lg3n1F95Xmzn8ZcnA"
+        }
+      ],
+      "date_added": "2024-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143242,
+      "name": "Night Streets",
+      "url": "https://open.spotify.com/track/3OYG0OTISrtY56IloYZSXU"
     },
     {
       "album": {
@@ -6962,6 +6998,24 @@
       "duration_ms": 133250,
       "name": "Riverlight",
       "url": "https://open.spotify.com/track/3sp6FlleWKCE9mxdnHXFlU"
+    },
+    {
+      "album": {
+        "name": "Rivers Wide",
+        "url": "https://open.spotify.com/album/23SAyFDy3jUqDNArqcJ87k"
+      },
+      "artists": [
+        {
+          "name": "Hazel Adams",
+          "url": "https://open.spotify.com/artist/7k5pLfgL1ELz5X4SxuYoBK"
+        }
+      ],
+      "date_added": "2024-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177094,
+      "name": "Rivers Wide",
+      "url": "https://open.spotify.com/track/6CKxNZvRKtUSCmumhtmI6r"
     },
     {
       "album": {

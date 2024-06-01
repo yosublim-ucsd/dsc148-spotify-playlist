@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "Fresh Latin pop on the rise. Cover: Tiago PZK",
+  "description": "Fresh Latin pop on the rise. Cover: Sen Senra & Aitana",
   "name": "el nuevo pop",
   "tracks": [
     {
@@ -1386,6 +1386,24 @@
       "duration_ms": 199138,
       "name": "Bendita",
       "url": "https://open.spotify.com/track/3vDP0LdVBqGhKvz2nyMRXS"
+    },
+    {
+      "album": {
+        "name": "las cartas pendientes",
+        "url": "https://open.spotify.com/album/3wALfCDPs8EfeZXDHZr9U0"
+      },
+      "artists": [
+        {
+          "name": "CLEMENTE",
+          "url": "https://open.spotify.com/artist/4TDHTrq8xN1oKR2TFnBgez"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223298,
+      "name": "besos guardados",
+      "url": "https://open.spotify.com/track/2E4L8ANqLb0t31soN5Q3Ha"
     },
     {
       "album": {
@@ -4611,6 +4629,24 @@
     },
     {
       "album": {
+        "name": "Meraki",
+        "url": "https://open.spotify.com/album/3l11vMVyJbnMiW0u4g01s5"
+      },
+      "artists": [
+        {
+          "name": "Ana Isabelle",
+          "url": "https://open.spotify.com/artist/69vrWFbPlmkfQjMKojkeqG"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183494,
+      "name": "Fruta",
+      "url": "https://open.spotify.com/track/5Esz3DUyatyxURTtdX9IQx"
+    },
+    {
+      "album": {
         "name": "Fr\u00eda",
         "url": "https://open.spotify.com/album/77OtfyQRt7k1nPFa9FqqlJ"
       },
@@ -5036,6 +5072,28 @@
       "duration_ms": 170133,
       "name": "hasta la luna y de regreso",
       "url": "https://open.spotify.com/track/6Z6px53TMyEHaJKeRHYaH3"
+    },
+    {
+      "album": {
+        "name": "Hermosa Casualidad",
+        "url": "https://open.spotify.com/album/2MvYDDD4PwJZHKZM7YyvZj"
+      },
+      "artists": [
+        {
+          "name": "Sen Senra",
+          "url": "https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq"
+        },
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205779,
+      "name": "Hermosa Casualidad",
+      "url": "https://open.spotify.com/track/2dtxMxo4srf1VXy6fPkadI"
     },
     {
       "album": {
@@ -6638,7 +6696,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 165760,
       "name": "Me Arriesgo Contigo",
       "url": "https://open.spotify.com/track/0O4ZJKR2QDLGrBZYuIgdtI"
@@ -6798,7 +6856,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 172125,
       "name": "Me Lo Merezco",
       "url": "https://open.spotify.com/track/0vXKNdPKnNqojeHM696Q88"
@@ -7270,7 +7328,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 186373,
       "name": "mimos",
       "url": "https://open.spotify.com/track/38KlXktvy7bu2cQULM3Thf"
@@ -7878,7 +7936,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 181588,
       "name": "No Est\u00e1s",
       "url": "https://open.spotify.com/track/7j9eKuQVUAm4I878E3n2eA"
@@ -7974,6 +8032,24 @@
       "duration_ms": 162149,
       "name": "No Me Controles",
       "url": "https://open.spotify.com/track/4G83XIKqqzv9ofGZs47SmF"
+    },
+    {
+      "album": {
+        "name": "no puedo seguir siendo as\u00ed",
+        "url": "https://open.spotify.com/album/6B1hMSoU5GGyVqJpv8pgaS"
+      },
+      "artists": [
+        {
+          "name": "Andry Kiddos",
+          "url": "https://open.spotify.com/artist/3mXFyGsGwiXIybo2Sr4EG2"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138360,
+      "name": "no puedo seguir siendo as\u00ed",
+      "url": "https://open.spotify.com/track/179XyidlaMSxDMV92Z0bz3"
     },
     {
       "album": {
@@ -8906,7 +8982,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 137693,
       "name": "Pasado Ma\u00f1ana",
       "url": "https://open.spotify.com/track/1gUf12HGllfBJdGlM7Vk04"
@@ -9276,6 +9352,24 @@
       "duration_ms": 134659,
       "name": "PobreDiablo - Interlude",
       "url": "https://open.spotify.com/track/6FHySSMAlWOPH2TbzKEzRS"
+    },
+    {
+      "album": {
+        "name": "Poco A Poco",
+        "url": "https://open.spotify.com/album/1eMxYPZxOFhKKXmXp2JXDr"
+      },
+      "artists": [
+        {
+          "name": "Beruti",
+          "url": "https://open.spotify.com/artist/4Ozcco9RkNmJtg7qkCy8zI"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188458,
+      "name": "Poco A Poco",
+      "url": "https://open.spotify.com/track/17PNScmIfgnuToGVq5zM6U"
     },
     {
       "album": {
@@ -11053,6 +11147,24 @@
     },
     {
       "album": {
+        "name": "Take 5",
+        "url": "https://open.spotify.com/album/6ygG8SCLwe9uylqQfNCyhv"
+      },
+      "artists": [
+        {
+          "name": "SERGIO",
+          "url": "https://open.spotify.com/artist/3594w71yTTwjb1RDEfZ4O4"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147835,
+      "name": "Take 5",
+      "url": "https://open.spotify.com/track/4Ut9HHMszZPbWFrEOX8cso"
+    },
+    {
+      "album": {
         "name": "Tal Vez",
         "url": "https://open.spotify.com/album/7pdEfZI6mGWqdwJCxzP0YB"
       },
@@ -12541,6 +12653,24 @@
     },
     {
       "album": {
+        "name": "EL NI\u00d1O DE LOS CORAZONES",
+        "url": "https://open.spotify.com/album/18LQTOkENbFCtBfcmYUV3i"
+      },
+      "artists": [
+        {
+          "name": "legallyrxx",
+          "url": "https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113454,
+      "name": "X QUE ERES TAN MAMONA",
+      "url": "https://open.spotify.com/track/3v7SQ7oCKad2DMIrVrDJPU"
+    },
+    {
+      "album": {
         "name": "x ti (Remix)",
         "url": "https://open.spotify.com/album/0dzEd2FKyKzQLaVQ95NlvW"
       },
@@ -12658,7 +12788,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 196013,
       "name": "Ya Te Super\u00e9",
       "url": "https://open.spotify.com/track/498xY5uDt2X4DPxMXGE2qO"
@@ -12756,7 +12886,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 183870,
       "name": "ZENDAYA",
       "url": "https://open.spotify.com/track/5vix081v4bfDgmFQlX64vS"

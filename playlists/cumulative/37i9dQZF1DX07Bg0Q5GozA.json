@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-29",
-  "description": "New music off the beaten track. Cover: KANTEREIT",
+  "description": "New music off the beaten track. Cover: Romy",
   "name": "OFF POP",
   "tracks": [
     {
@@ -618,6 +618,24 @@
       "duration_ms": 207800,
       "name": "Always",
       "url": "https://open.spotify.com/track/5uHgKIUzqrpRt10p1crJma"
+    },
+    {
+      "album": {
+        "name": "Always Forever",
+        "url": "https://open.spotify.com/album/65otcCeyfEPtdY4DZMgPtF"
+      },
+      "artists": [
+        {
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185160,
+      "name": "Always Forever",
+      "url": "https://open.spotify.com/track/2kSeF6yZz3wLFchfnX0xfO"
     },
     {
       "album": {
@@ -1689,6 +1707,24 @@
     },
     {
       "album": {
+        "name": "Cactus Water",
+        "url": "https://open.spotify.com/album/0Hig8AAHnlRhJx6yIKdbQR"
+      },
+      "artists": [
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204240,
+      "name": "Cactus Water",
+      "url": "https://open.spotify.com/track/4mSnIJwKtvmhZHRzBItBQ6"
+    },
+    {
+      "album": {
         "name": "Calvinklein",
         "url": "https://open.spotify.com/album/6B7g0TJzHTbLPruJ8abzfP"
       },
@@ -2287,6 +2323,32 @@
     },
     {
       "album": {
+        "name": "Contact High",
+        "url": "https://open.spotify.com/album/0k4IKWG6ACOV5V1llFIafr"
+      },
+      "artists": [
+        {
+          "name": "Metronomy",
+          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
+        },
+        {
+          "name": "Faux Real",
+          "url": "https://open.spotify.com/artist/0853SMh8o0PpHpSTDHttsO"
+        },
+        {
+          "name": "Miki",
+          "url": "https://open.spotify.com/artist/55Dacc2jL4tgb6Af23NlF6"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183321,
+      "name": "Contact High",
+      "url": "https://open.spotify.com/track/4MwubKmGFxTUG8tyDik3Ux"
+    },
+    {
+      "album": {
         "name": "Control",
         "url": "https://open.spotify.com/album/0ZD1iNiEoNbj0Yw63TvGrq"
       },
@@ -2430,7 +2492,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 221670,
       "name": "Creatures in Heaven",
       "url": "https://open.spotify.com/track/1e7EdcxkUPFZWfuY4VI3rh"
@@ -2780,6 +2842,24 @@
       "duration_ms": 254791,
       "name": "Deadbeat Gospel",
       "url": "https://open.spotify.com/track/3pSkRsuZv57a1yCxJPiBiT"
+    },
+    {
+      "album": {
+        "name": "Death & Romance",
+        "url": "https://open.spotify.com/album/51g8P7ai5xyj970iIdmMFz"
+      },
+      "artists": [
+        {
+          "name": "Magdalena Bay",
+          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314733,
+      "name": "Death & Romance",
+      "url": "https://open.spotify.com/track/5jnlJbBK53L6Nd3ox8T0ot"
     },
     {
       "album": {
@@ -3924,7 +4004,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 240390,
       "name": "Everything I Want",
       "url": "https://open.spotify.com/track/5Y88uQ5oRzv3x5m7mimCO0"
@@ -4374,7 +4454,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 206240,
       "name": "Fine",
       "url": "https://open.spotify.com/track/1tCkS9oiXu9gvSbv759DKy"
@@ -6124,7 +6204,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 346255,
       "name": "I Forget - Richard X's Ihmisliigatyyli Remix",
       "url": "https://open.spotify.com/track/1NaAATQvwsSdIy6CdHo8iT"
@@ -6196,7 +6276,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 215789,
       "name": "I Missed You Too",
       "url": "https://open.spotify.com/track/4o2c5swMPdirnnahplyswy"
@@ -6272,7 +6352,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 125650,
       "name": "I WOZ HOME",
       "url": "https://open.spotify.com/track/3CHUA6wInWJtRStWosd0am"
@@ -7911,6 +7991,24 @@
     },
     {
       "album": {
+        "name": "Lost Child",
+        "url": "https://open.spotify.com/album/7MKtYdBzKnkQcDh1mQW0PA"
+      },
+      "artists": [
+        {
+          "name": "Julie Pavon",
+          "url": "https://open.spotify.com/artist/3hFqGO0iOFkOfVWR0ydcHs"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187500,
+      "name": "Lost Child",
+      "url": "https://open.spotify.com/track/5Au9Kra41nLUQfH6cWUdp3"
+    },
+    {
+      "album": {
         "name": "Lost in Life (Roosevelt Remix)",
         "url": "https://open.spotify.com/album/2GwF8p9eQQDFNnApTsPwrB"
       },
@@ -7930,6 +8028,24 @@
       "duration_ms": 238546,
       "name": "Lost in Life - Roosevelt Remix",
       "url": "https://open.spotify.com/track/3f4baxfV0dQPAiXXOCqM9O"
+    },
+    {
+      "album": {
+        "name": "Lost In Space",
+        "url": "https://open.spotify.com/album/02lrMtGj1XXii9azaaBtPl"
+      },
+      "artists": [
+        {
+          "name": "Foster The People",
+          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258939,
+      "name": "Lost In Space",
+      "url": "https://open.spotify.com/track/1PIBxfR4k67snh0hUSgzPs"
     },
     {
       "album": {
@@ -8762,7 +8878,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 248760,
       "name": "MOMENT",
       "url": "https://open.spotify.com/track/343aNgdgt5aAPa2cfaZt4C"
@@ -9089,6 +9205,28 @@
     },
     {
       "album": {
+        "name": "Musica (CC:DISCO! Dub)",
+        "url": "https://open.spotify.com/album/5MLv9qTYPzHwHQPbpgEo07"
+      },
+      "artists": [
+        {
+          "name": "Mildlife",
+          "url": "https://open.spotify.com/artist/1lsJmnN90u3KBvF3tGEWr3"
+        },
+        {
+          "name": "CC:DISCO!",
+          "url": "https://open.spotify.com/artist/37fxVoFAMzet5CiiDg7SL7"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384129,
+      "name": "Musica - CC:DISCO! Dub",
+      "url": "https://open.spotify.com/track/23390xshKa4zbbdMefCzIG"
+    },
+    {
+      "album": {
         "name": "Mustang",
         "url": "https://open.spotify.com/album/5TbZYxVjfV7v8nDlgzyU11"
       },
@@ -9340,7 +9478,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 167270,
       "name": "Nice Town - Original",
       "url": "https://open.spotify.com/track/4dFAznjc12DSXHqofBCPXH"
@@ -9557,6 +9695,24 @@
     },
     {
       "album": {
+        "name": "Nothing Perfect",
+        "url": "https://open.spotify.com/album/4YGu4oVqQQpYhZx25BZwpE"
+      },
+      "artists": [
+        {
+          "name": "nimino",
+          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165245,
+      "name": "Nothing Perfect",
+      "url": "https://open.spotify.com/track/6mQuPZ0b3YF53flZe0YBns"
+    },
+    {
+      "album": {
         "name": "Now Or Never",
         "url": "https://open.spotify.com/album/4YKUIhAo0WvlE2qKkCvMUh"
       },
@@ -9684,7 +9840,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 171882,
       "name": "Oceans",
       "url": "https://open.spotify.com/track/1wCM1ubIBrRPSQvFzGHqV7"
@@ -10052,7 +10208,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 310946,
       "name": "Palace In My Head - Fred Falke Remix",
       "url": "https://open.spotify.com/track/6NLXQtGnssNEpZMa35juxf"
@@ -11454,6 +11610,24 @@
       "duration_ms": 181240,
       "name": "She's On My Mind",
       "url": "https://open.spotify.com/track/4heve4ydl1u6V3AD4moZq9"
+    },
+    {
+      "album": {
+        "name": "She\u2019s Gone, Dance On",
+        "url": "https://open.spotify.com/album/4klc9KJJVpA7fwJJT1duGq"
+      },
+      "artists": [
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226773,
+      "name": "She\u2019s Gone, Dance On",
+      "url": "https://open.spotify.com/track/29I9dv9Nq704w0Oc5yFGsR"
     },
     {
       "album": {
@@ -14718,6 +14892,24 @@
       "duration_ms": 275922,
       "name": "White Walls",
       "url": "https://open.spotify.com/track/4ufmFZIkDvgOKRoVC7CmuK"
+    },
+    {
+      "album": {
+        "name": "Who Did You Touch?",
+        "url": "https://open.spotify.com/album/4XBvrhmXpxJBV87B1Oh0a7"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208732,
+      "name": "Who Did You Touch?",
+      "url": "https://open.spotify.com/track/3YngBnCS5hVTrF0fu2EYGG"
     },
     {
       "album": {

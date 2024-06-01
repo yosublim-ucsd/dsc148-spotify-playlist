@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Le meilleur du rap fran\u00e7ais version cloud. Photo : USKY",
+  "description": "Le meilleur du rap fran\u00e7ais version cloud. Photo : Zamdane",
   "name": "Cloud Rap",
   "tracks": [
     {
@@ -190,7 +190,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 256000,
       "name": "2ECOND",
       "url": "https://open.spotify.com/track/2t6hlxN2lH505pPRrKNeFW"
@@ -226,7 +226,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 161146,
       "name": "7",
       "url": "https://open.spotify.com/track/74ybaViAxhYYyOwwJ74Ht6"
@@ -2505,6 +2505,24 @@
     },
     {
       "album": {
+        "name": "Focus",
+        "url": "https://open.spotify.com/album/0Jc77F9R985vFoFdOvsGWv"
+      },
+      "artists": [
+        {
+          "name": "F430",
+          "url": "https://open.spotify.com/artist/11ajgggOI6hGjR8CF53mhG"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195303,
+      "name": "Focus #2",
+      "url": "https://open.spotify.com/track/7n0AIbbs7pV2N46u2CVfVI"
+    },
+    {
+      "album": {
         "name": "Follow me",
         "url": "https://open.spotify.com/album/3xR9aS1Ofxxjvm4iNGT1s4"
       },
@@ -2672,7 +2690,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 224782,
       "name": "Go Mode",
       "url": "https://open.spotify.com/track/7MX9uRrHcyORpE2JXJpfUa"
@@ -4376,7 +4394,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 136172,
       "name": "MANIFIC",
       "url": "https://open.spotify.com/track/7f6XGcLhUUKyqOdYTAojWf"
@@ -4434,6 +4452,24 @@
       "duration_ms": 139218,
       "name": "mayday",
       "url": "https://open.spotify.com/track/6Ax8LuViU7B5YrJBX8V8oe"
+    },
+    {
+      "album": {
+        "name": "Birthday Saison",
+        "url": "https://open.spotify.com/album/2BNuUlEpbte2Jl9YFcvQym"
+      },
+      "artists": [
+        {
+          "name": "zonmai",
+          "url": "https://open.spotify.com/artist/690TcJftS8JgJI5iEsYEcU"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166230,
+      "name": "MBK",
+      "url": "https://open.spotify.com/track/7DX6YyPd39LPiWQMlSaFdg"
     },
     {
       "album": {
@@ -5226,6 +5262,28 @@
       "duration_ms": 148571,
       "name": "PAS DE CE MONDE",
       "url": "https://open.spotify.com/track/3zGuHTIdqFnrNVkyE2YR1d"
+    },
+    {
+      "album": {
+        "name": "L'aube d'un nouveau jour",
+        "url": "https://open.spotify.com/album/5FZVjIZoYfNxAl3XBqDqh3"
+      },
+      "artists": [
+        {
+          "name": "Yuzmv",
+          "url": "https://open.spotify.com/artist/1cYA2rnKwpVYe9iVH3Djjm"
+        },
+        {
+          "name": "Arzel",
+          "url": "https://open.spotify.com/artist/1d75JyJ5GoOgPYF4p61sdX"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195809,
+      "name": "Perdants magnifiques",
+      "url": "https://open.spotify.com/track/3nKBUKJiHCFNtcRZ1pPuqS"
     },
     {
       "album": {
@@ -7322,6 +7380,24 @@
       "duration_ms": 192120,
       "name": "\u00c2mes perdues",
       "url": "https://open.spotify.com/track/7zUgId6sQBSyaaBXbbiIf3"
+    },
+    {
+      "album": {
+        "name": "Le plus beau des monstres",
+        "url": "https://open.spotify.com/album/6U7iOnlnzNjQN7GwoI5un6"
+      },
+      "artists": [
+        {
+          "name": "Surprise",
+          "url": "https://open.spotify.com/artist/0qvSqrreqXO98OunCDZN9r"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "\u00c7a donne pas envie",
+      "url": "https://open.spotify.com/track/0NqUKviaU5ACy1QO1SzE5g"
     },
     {
       "album": {

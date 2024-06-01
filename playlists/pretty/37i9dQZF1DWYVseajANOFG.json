@@ -1,13 +1,33 @@
 {
-  "description": "As\u00ed suena la m\u00fasica urbana de Panam\u00e1 hoy. Foto: BARBEL",
-  "num_followers": 114628,
+  "description": "As\u00ed suena la m\u00fasica urbana de Panam\u00e1 hoy. Foto: Boza, Elena Rose",
+  "num_followers": 114773,
   "original_name": "Flow Panam\u00e1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zk+NywAAAADvSbugpzTUbBqFkqZtBMeh",
+  "snapshot_id": "ZllLQAAAAABxqo7iZo2tGjPbaSkYed9a",
   "tracks": [
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "Orion",
+        "url": "https://open.spotify.com/album/2FWRFIH8Agbw8JGG4hbdG6"
+      },
+      "artists": [
+        {
+          "name": "Boza",
+          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
+        },
+        {
+          "name": "Elena Rose",
+          "url": "https://open.spotify.com/artist/0myouxHnBRuZn02np89VJd"
+        }
+      ],
+      "duration_ms": 240964,
+      "name": "Orion",
+      "url": "https://open.spotify.com/track/5pVJ3IlnpIorU44oXizzG5"
+    },
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
@@ -49,40 +69,24 @@
       "url": "https://open.spotify.com/track/4lFnfbRhGSpTm17XKGcXs6"
     },
     {
-      "added_at": "2024-05-10 04:00:00",
+      "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "SLOW MOTION",
-        "url": "https://open.spotify.com/album/29YQaCZ5Us1mWUqBCDoga9"
+        "name": "Peleo con muchos monstruos",
+        "url": "https://open.spotify.com/album/4m25Oc3qRZl0c4OyhAK8Oo"
       },
       "artists": [
         {
-          "name": "Jorkan",
-          "url": "https://open.spotify.com/artist/7LCgsRll55YeMXV0LGYYCm"
-        }
-      ],
-      "duration_ms": 148235,
-      "name": "SLOW MOTION",
-      "url": "https://open.spotify.com/track/39bC00z54m8bYpAXHbLR3U"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Welcome To Reality (2024 Remastered Version)",
-        "url": "https://open.spotify.com/album/5XvB1Xf2QtvTy8fKOsRoUs"
-      },
-      "artists": [
-        {
-          "name": "El Doble K",
-          "url": "https://open.spotify.com/artist/4isHbp1LrcVnarUj7o6N6I"
+          "name": "Pash",
+          "url": "https://open.spotify.com/artist/6iOnQUuxAqtZ2fnVOrNq4s"
         },
         {
-          "name": "Rik",
-          "url": "https://open.spotify.com/artist/3fx9NeQCytxm0fzefBOqlh"
+          "name": "Eiby",
+          "url": "https://open.spotify.com/artist/09hiuib0jApNPaf9sDXlSn"
         }
       ],
-      "duration_ms": 232874,
-      "name": "Welcome To Reality - 2024 Remastered Version",
-      "url": "https://open.spotify.com/track/5Dpn5nrzFh9pnLwE3VvW3A"
+      "duration_ms": 181714,
+      "name": "Peleo con muchos monstruos",
+      "url": "https://open.spotify.com/track/7bN1jrJDC0Qvk3yGWjaP4J"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -113,30 +117,6 @@
       "url": "https://open.spotify.com/track/5h4mgbGijQ2CXMNuF4c4rW"
     },
     {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
-        "name": "Mosca",
-        "url": "https://open.spotify.com/album/47CftaM8innYI4ubP4E8ou"
-      },
-      "artists": [
-        {
-          "name": "Fulo El Yeyo",
-          "url": "https://open.spotify.com/artist/0YUrJpMVgqTxD8UnfPRKEh"
-        },
-        {
-          "name": "El Charri",
-          "url": "https://open.spotify.com/artist/5qTqU3wq4x1DonsVsi60Iy"
-        },
-        {
-          "name": "Aldair Productions",
-          "url": "https://open.spotify.com/artist/6WFulj4XIc6vkUDXGaDvbN"
-        }
-      ],
-      "duration_ms": 169639,
-      "name": "Mosca",
-      "url": "https://open.spotify.com/track/2T9N67bVvCl6VZ8KsW9QCF"
-    },
-    {
       "added_at": "2024-02-02 05:00:00",
       "album": {
         "name": "Tu Chacal",
@@ -159,6 +139,26 @@
       "duration_ms": 171812,
       "name": "Tu Chacal",
       "url": "https://open.spotify.com/track/5IWsYLhoYS1kTaMh2bVnhz"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "TITI",
+        "url": "https://open.spotify.com/album/7H26CGe2Aom4hk3RucV8vU"
+      },
+      "artists": [
+        {
+          "name": "Valentino GRM",
+          "url": "https://open.spotify.com/artist/71DQO8pgnTwS3lNCq0cDcr"
+        },
+        {
+          "name": "Yemil",
+          "url": "https://open.spotify.com/artist/7g4cPtKxNx146qdaY90TG4"
+        }
+      ],
+      "duration_ms": 187402,
+      "name": "TITI",
+      "url": "https://open.spotify.com/track/4dmK0F5E0jVMUPgY5tMkI3"
     },
     {
       "added_at": "2024-02-15 17:30:32",
@@ -193,32 +193,28 @@
       "url": "https://open.spotify.com/track/1KHVAiWGHWQW3Q6FBW8fjl"
     },
     {
-      "added_at": "2024-05-17 04:00:00",
+      "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "SIN CULPA",
-        "url": "https://open.spotify.com/album/3XNi6X9s6ZfMBg31sKlhso"
+        "name": "Baby",
+        "url": "https://open.spotify.com/album/2IQKdDMm3Z6JPXVeQNp72C"
       },
       "artists": [
         {
-          "name": "Danny Yash",
-          "url": "https://open.spotify.com/artist/3tULsHfYJH7joHTmn5vLNn"
+          "name": "Astronazzy",
+          "url": "https://open.spotify.com/artist/1Zdv4uoJU8TLTPh4g1NQiQ"
         },
         {
-          "name": "K4G",
-          "url": "https://open.spotify.com/artist/7iE1RkAmNySaonnYrV8lmU"
+          "name": "EL10",
+          "url": "https://open.spotify.com/artist/7e8YXF5rSEnlf9yxWhHeCo"
         },
         {
-          "name": "Faster",
-          "url": "https://open.spotify.com/artist/7HhjjbbHFmD12RKvEiguP8"
-        },
-        {
-          "name": "Boza",
-          "url": "https://open.spotify.com/artist/7tag1nf67aRgl95Et6IDhj"
+          "name": "Monster",
+          "url": "https://open.spotify.com/artist/7g5ywTNboidtPjVRrvGkCa"
         }
       ],
-      "duration_ms": 226416,
-      "name": "SIN CULPA",
-      "url": "https://open.spotify.com/track/4602D8eTkeoNWZF4NCassf"
+      "duration_ms": 202173,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/66jCeJbCo4Z6EwAPXO6fa6"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -281,20 +277,20 @@
       "url": "https://open.spotify.com/track/1a49mR9cbwbgpEIZ1Wh20y"
     },
     {
-      "added_at": "2024-05-17 04:00:00",
+      "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "BRONCA",
-        "url": "https://open.spotify.com/album/4GIHkifdtpc91L1MM6AXVv"
+        "name": "Como Vos",
+        "url": "https://open.spotify.com/album/7D46AI8AOrOP32ZNMrcjJS"
       },
       "artists": [
         {
-          "name": "Farah",
-          "url": "https://open.spotify.com/artist/499MeLMskp0GHYO1587gZK"
+          "name": "Kabliz",
+          "url": "https://open.spotify.com/artist/0wGBm2CPjVcX983nxL0iTy"
         }
       ],
-      "duration_ms": 145500,
-      "name": "BRONCA",
-      "url": "https://open.spotify.com/track/0ELNA7mkruGJKjMbEpY0cC"
+      "duration_ms": 163404,
+      "name": "Como Vos",
+      "url": "https://open.spotify.com/track/7J2f499kfvc5rPn8QLmg8W"
     },
     {
       "added_at": "2024-02-02 05:00:00",

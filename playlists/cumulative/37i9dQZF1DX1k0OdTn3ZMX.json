@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-15",
-  "description": "n\u00fc-metal revival is happening here and now with Nonpoint.",
+  "description": "n\u00fc-metal revival is happening here and now with Ocean Grove.",
   "name": "new n\u00fc",
   "tracks": [
     {
@@ -332,7 +332,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 150968,
       "name": "bleach",
       "url": "https://open.spotify.com/track/10p7btclpQF5LIyWSIgeCo"
@@ -989,6 +989,24 @@
     },
     {
       "album": {
+        "name": "FLY AWAY",
+        "url": "https://open.spotify.com/album/7v3QQTTbPLDoUZ9lUhVbLd"
+      },
+      "artists": [
+        {
+          "name": "Ocean Grove",
+          "url": "https://open.spotify.com/artist/0AlnGjlLLXglk9hnwErYDU"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161407,
+      "name": "FLY AWAY",
+      "url": "https://open.spotify.com/track/38yKm4HLvDFhg5NK20bFV1"
+    },
+    {
+      "album": {
         "name": "The Algorithm",
         "url": "https://open.spotify.com/album/4K3EGyXF7wdfaR4fGPlOXg"
       },
@@ -1278,7 +1296,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-06",
+      "date_removed": null,
       "duration_ms": 188557,
       "name": "Kaneda",
       "url": "https://open.spotify.com/track/40CtKggBylHY7G3yUBYPyU"
@@ -1592,7 +1610,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 241854,
       "name": "No Way Out",
       "url": "https://open.spotify.com/track/6YfWZraEqW5CDfGGlo69sa"
@@ -1636,6 +1654,24 @@
       "duration_ms": 226874,
       "name": "One Chance",
       "url": "https://open.spotify.com/track/49daGksZza7w4YQPn7aeRV"
+    },
+    {
+      "album": {
+        "name": "One Foot In The Grave",
+        "url": "https://open.spotify.com/album/1WMolNCGsDhGvhD0Nd0phw"
+      },
+      "artists": [
+        {
+          "name": "Kittie",
+          "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222153,
+      "name": "One Foot In The Grave",
+      "url": "https://open.spotify.com/track/54fPJ9UDx68KkayeuskyAJ"
     },
     {
       "album": {
@@ -1840,7 +1876,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 236476,
       "name": "Push",
       "url": "https://open.spotify.com/track/0rFc5oSEYXS1oUAMZOwMHg"

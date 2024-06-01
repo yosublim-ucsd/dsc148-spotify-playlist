@@ -4,7 +4,7 @@
 
 > A blend of new songs and artists in the soul space\. Cover: FKJ
 
-431 songs - 1 day 1 hr 28 min
+432 songs - 1 day 1 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Coney Island](https://open.spotify.com/track/15Ya2a4p4WLbZ3HLICeZrh) | [Bathe](https://open.spotify.com/artist/3BBN1P1JNw0sSdYEdBkOZK) | [Bicoastal: B\-Sides](https://open.spotify.com/album/0yJE5hjeOZ80XVdsTXfvhn) | 3:37 | 2024-05-16 |  |
 | [Coolest Things \(feat\. Ari Lennox\)](https://open.spotify.com/track/2vG3GYjzeOsu9VUQ7Ft9bl) | [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Superghetto](https://open.spotify.com/album/5pwzhZiiGhHgQOUJKbzYuI) | 3:28 | 2022-04-08 | 2023-04-07 |
 | [Copy & Paste Interlude](https://open.spotify.com/track/4Pq1hdbm1GrjBeh46BqFjO) | [IAMNOBODI](https://open.spotify.com/artist/2DLlb2Se6eF0mMTYffyAcn), [Emmavie](https://open.spotify.com/artist/30SZetOBMEael27tboxz7f) | [Copy & Paste Interlude](https://open.spotify.com/album/40WuuDpNMKy5GB2CUQO2Xx) | 2:49 | 2021-12-16 | 2022-04-29 |
+| [Cotton Wool](https://open.spotify.com/track/6qLpvNC53zSzKRBC3H2ayz) | [Joseph Lawrence](https://open.spotify.com/artist/69XFaEPeBh41fbWxQMD8X4) | [Dream, Forever](https://open.spotify.com/album/4fVrPpUvcsP2Yf3YX5aZsh) | 2:51 | 2024-05-31 |  |
 | [Crazy \(DuDuDu\)](https://open.spotify.com/track/3vPku6d0AIu3U2b4HOcKjd) | [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g), [KAEDI](https://open.spotify.com/artist/0HNQ9Df6RUMiQHIq7KxLf1) | [Crazy \(DuDuDu\)](https://open.spotify.com/album/4lUDOpOQpworctVvTKS0Vn) | 3:24 | 2023-12-08 |  |
 | [Crystal Tears](https://open.spotify.com/track/4z6YXURKvs98NXUlVGyevf) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Crystal Tears](https://open.spotify.com/album/5EQiMkO4WpYpk8zPG8hrTb) | 3:59 | 2024-03-14 |  |
 | [Cycle](https://open.spotify.com/track/56Uah45lBpN5CcUtksDv8o) | [Strama](https://open.spotify.com/artist/09PM8Vw3f7uJySKt1KZLk0) | [Cycle](https://open.spotify.com/album/35bEP7iJX3JJhRdG5jWuvT) | 3:09 | 2022-04-08 | 2022-07-07 |
@@ -102,7 +103,7 @@
 | [Dingaling](https://open.spotify.com/track/1upqTfjNfblLHKqasQAPc0) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [Dingaling](https://open.spotify.com/album/5aMRGlhrRsaVUIL25FRYsJ) | 3:20 | 2021-12-16 | 2022-10-15 |
 | [Don’t Count Me In](https://open.spotify.com/track/2k8tbt4jY1Nl5nY5CL7Heg) | [.multibeat](https://open.spotify.com/artist/4QQM0xwh18KQeE0CrnSqyj), [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn) | [Don’t Count Me In](https://open.spotify.com/album/38nOb3gb5ohG3WtRMZ32ZW) | 3:18 | 2024-01-17 |  |
 | [Downright](https://open.spotify.com/track/030k1bb2qwKTsBxPskfkB1) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR) | [Downright](https://open.spotify.com/album/5avhqr0GessrsdBSr82FIE) | 2:57 | 2022-05-19 | 2022-10-15 |
-| [DREAMIN'](https://open.spotify.com/track/36EJBK8P9jFTpvMyxJPaJZ) | [Noah Slee](https://open.spotify.com/artist/2inX1svE5swPuIBIJdrFyo), [Sorvina](https://open.spotify.com/artist/4V2qsPwa4YBmNW53v4rC1P), [NanaBcool](https://open.spotify.com/artist/3I1oZvnUZuHgJXSeNUy6Dq) | [DREAMIN'](https://open.spotify.com/album/0VJby3FhUkYMi7DV5ouJAx) | 2:33 | 2024-05-23 |  |
+| [DREAMIN'](https://open.spotify.com/track/36EJBK8P9jFTpvMyxJPaJZ) | [Noah Slee](https://open.spotify.com/artist/2cIJS8OfarjYImYw0GVPVL), [Sorvina](https://open.spotify.com/artist/4V2qsPwa4YBmNW53v4rC1P), [NanaBcool](https://open.spotify.com/artist/3I1oZvnUZuHgJXSeNUy6Dq) | [DREAMIN'](https://open.spotify.com/album/0VJby3FhUkYMi7DV5ouJAx) | 2:33 | 2024-05-23 |  |
 | [Ease Up](https://open.spotify.com/track/4ykxlLzlR2B7OhpkPBMhUW) | [Jean Deaux](https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Most Wanted \(Deluxe\)](https://open.spotify.com/album/46fxxm1oHMPzR51GElXrAt) | 3:41 | 2022-06-16 | 2023-02-18 |
 | [Eating out](https://open.spotify.com/track/3HPJLLqf4qdKm6xbXiW979) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR), [Rae Khalil](https://open.spotify.com/artist/7cIx4IDh0zLqXBxuNSqFNq) | [Eating out](https://open.spotify.com/album/3biafmyFPcKBz7DY2hfKys) | 2:53 | 2024-01-18 |  |
 | [Ebbs and Flows](https://open.spotify.com/track/7fv831b61zLwfA1d6Vp17f) | [Aaron Taylor](https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7) | [Ebbs and Flows](https://open.spotify.com/album/6ymZzUwgOwGaevvamG568v) | 3:19 | 2022-10-28 | 2024-01-18 |
@@ -152,7 +153,7 @@
 | [Got My Back](https://open.spotify.com/track/5x3v1Td2EkrUJfscZdb6zJ) | [RIMON](https://open.spotify.com/artist/4DtUsfaVQBhypuwYmobdSm), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [I Shine, U Shine](https://open.spotify.com/album/0d7p7ZqUrprI71laQ7Dvlr) | 3:24 | 2021-12-16 | 2022-02-11 |
 | [Green Tea Ice Cream](https://open.spotify.com/track/7wkYFmBhGwnB5XODsHJO02) | [Linda Diaz](https://open.spotify.com/artist/0GyNf8GO6wlbCrReIREot3) | [Green Tea Ice Cream](https://open.spotify.com/album/1mq3FB2BtW1rVJkvu5NSNO) | 3:51 | 2021-12-16 | 2022-03-11 |
 | [Grounded](https://open.spotify.com/track/3Fy2uMZm0H6WbWhkXGjbmJ) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Grounded](https://open.spotify.com/album/4kOpSbxzI6UDsFeDlLKhfq) | 1:29 | 2021-12-16 | 2022-01-26 |
-| [HANGING WITH YOU](https://open.spotify.com/track/2Fj4zjw9tV9NY1wWq0bAKN) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt) | [HANGING WITH YOU](https://open.spotify.com/album/5HDraXX5eNcpYzNcyVyykH) | 3:50 | 2023-08-15 |  |
+| [HANGING WITH YOU](https://open.spotify.com/track/2Fj4zjw9tV9NY1wWq0bAKN) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt) | [HANGING WITH YOU](https://open.spotify.com/album/5HDraXX5eNcpYzNcyVyykH) | 3:50 | 2023-08-15 | 2024-06-01 |
 | [Happy Hour \(feat\. T\-Pain\)](https://open.spotify.com/track/39O9qxLezqqrmre1TPGRVu) | [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Superghetto](https://open.spotify.com/album/5pwzhZiiGhHgQOUJKbzYuI) | 4:08 | 2022-04-08 | 2022-07-07 |
 | [Heal](https://open.spotify.com/track/4UndAnl9tL4hHiYOuufIJk) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR) | [Heal](https://open.spotify.com/album/3vnXX5XQdwyGS79vZKIKfh) | 4:16 | 2022-09-22 | 2023-10-12 |
 | [Heat of the Moon](https://open.spotify.com/track/7GmSvY6pk87MO2GaMnXLLN) | [ELIZA](https://open.spotify.com/artist/0PgYKqH7ohfAm9LFgWjpl8) | [Heat of the Moon](https://open.spotify.com/album/6XSrcNSa2Bnl4vkWROSF0e) | 3:25 | 2022-10-28 | 2023-12-12 |

@@ -170,7 +170,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 138000,
       "name": "A 30",
       "url": "https://open.spotify.com/track/3oCCsxd8aFmJzjHhGHT6qZ"
@@ -728,7 +728,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 151186,
       "name": "Bailar",
       "url": "https://open.spotify.com/track/2DuBOUMZMowLdngW9tbLBx"
@@ -1230,7 +1230,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 144040,
       "name": "Cara De Q",
       "url": "https://open.spotify.com/track/4oUupKOJFy5blYAsV9BZ0g"
@@ -3995,6 +3995,28 @@
     },
     {
       "album": {
+        "name": "Envenenao",
+        "url": "https://open.spotify.com/album/3ww7KDDQ1lQQyuvNGHszNY"
+      },
+      "artists": [
+        {
+          "name": "Papera",
+          "url": "https://open.spotify.com/artist/0L7AJNWmGtSjzASON8eTDW"
+        },
+        {
+          "name": "Chucky73",
+          "url": "https://open.spotify.com/artist/5IwRo4xhRz5JM2y5IXHjcU"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125387,
+      "name": "Envenenao",
+      "url": "https://open.spotify.com/track/57WxIK1nE2SL9t2edmCNRB"
+    },
+    {
+      "album": {
         "name": "Esa Malondra",
         "url": "https://open.spotify.com/album/2JKNjEpPqoN9MQE2S5mqsY"
       },
@@ -4306,6 +4328,32 @@
       "duration_ms": 137586,
       "name": "Gass Pure",
       "url": "https://open.spotify.com/track/5BaCZw0v3csyxDvs7ogXfK"
+    },
+    {
+      "album": {
+        "name": "Giguiri Popo",
+        "url": "https://open.spotify.com/album/6H5XK2m2PLFYX7Q12bkcZg"
+      },
+      "artists": [
+        {
+          "name": "Young Capo",
+          "url": "https://open.spotify.com/artist/6d47mdtpFjn6VtljRMw0vC"
+        },
+        {
+          "name": "Angel Dior",
+          "url": "https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI"
+        },
+        {
+          "name": "Dilon Baby",
+          "url": "https://open.spotify.com/artist/4ZIaiuKxYK6A6JwvvwqXoN"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166452,
+      "name": "Giguiri Popo",
+      "url": "https://open.spotify.com/track/31H9Vt4Tb4oPpqU0pwrU42"
     },
     {
       "album": {
@@ -6024,7 +6072,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 195840,
       "name": "LLENO DE ODIO",
       "url": "https://open.spotify.com/track/2FA2AhJhKyubqOJPJcqAhU"
@@ -7189,6 +7237,24 @@
     },
     {
       "album": {
+        "name": "Meneito",
+        "url": "https://open.spotify.com/album/3Wu3ozEx0pxQU6xYsg7PEH"
+      },
+      "artists": [
+        {
+          "name": "Jey One",
+          "url": "https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116363,
+      "name": "Meneito",
+      "url": "https://open.spotify.com/track/39ayhbnPMQrfzSroEBfPmx"
+    },
+    {
+      "album": {
         "name": "Menor (Official Remix)",
         "url": "https://open.spotify.com/album/3C4hsNgfBR3AVuOKlWwX2e"
       },
@@ -7365,6 +7431,28 @@
     },
     {
       "album": {
+        "name": "MI LEGADO 70M x 58",
+        "url": "https://open.spotify.com/album/1NZ0wjwDtcny2ilGG5l2qS"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Chael Produciendo",
+          "url": "https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181124,
+      "name": "MI LEGADO 70M x 58",
+      "url": "https://open.spotify.com/track/0cboLcpDfJ9DjHPdC8e1c3"
+    },
+    {
+      "album": {
         "name": "Exito, Vol 1",
         "url": "https://open.spotify.com/album/3ZrQLEdE1eL42Z4IRYcfai"
       },
@@ -7472,6 +7560,32 @@
       "duration_ms": 125338,
       "name": "Molly Crippy",
       "url": "https://open.spotify.com/track/4lI10mVIrbJh5TAMf2F1QP"
+    },
+    {
+      "album": {
+        "name": "MORDERTE Y LAMBERTE",
+        "url": "https://open.spotify.com/album/2gmsu4Aq4UKA5CUeTmEt17"
+      },
+      "artists": [
+        {
+          "name": "Jey One",
+          "url": "https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw"
+        },
+        {
+          "name": "La Perversa",
+          "url": "https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo"
+        },
+        {
+          "name": "OG DETRUYELO",
+          "url": "https://open.spotify.com/artist/3gPb5oQZHqLolM6gP0IBli"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134062,
+      "name": "MORDERTE Y LAMBERTE",
+      "url": "https://open.spotify.com/track/4JiP7Vf95WaeFuhvwKmAkp"
     },
     {
       "album": {
@@ -8114,7 +8228,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 106421,
       "name": "Ojos De Colores",
       "url": "https://open.spotify.com/track/4y6AJfoPAGkxkDiGMFU45P"
@@ -12472,7 +12586,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 152715,
       "name": "Trakas Belico",
       "url": "https://open.spotify.com/track/5aSevcoVohlQUvVyF7NKbC"
@@ -12988,6 +13102,28 @@
       "duration_ms": 125543,
       "name": "Una Clen Clen",
       "url": "https://open.spotify.com/track/7L50cnzNKCbhqXu5U1aO6q"
+    },
+    {
+      "album": {
+        "name": "UNA GALLETA (En Vivo)",
+        "url": "https://open.spotify.com/album/3ybpcIBg7mgFvXQhd0ovqA"
+      },
+      "artists": [
+        {
+          "name": "DJ Patio",
+          "url": "https://open.spotify.com/artist/5w7Goklg0o1gkiclyM3uyA"
+        },
+        {
+          "name": "Braulio Fogon",
+          "url": "https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138109,
+      "name": "UNA GALLETA - En Vivo",
+      "url": "https://open.spotify.com/track/2cC4waL89iKHlMKF6fwtL5"
     },
     {
       "album": {

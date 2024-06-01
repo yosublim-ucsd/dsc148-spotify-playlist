@@ -307,6 +307,24 @@
     },
     {
       "album": {
+        "name": "Always Forever",
+        "url": "https://open.spotify.com/album/65otcCeyfEPtdY4DZMgPtF"
+      },
+      "artists": [
+        {
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185160,
+      "name": "Always Forever",
+      "url": "https://open.spotify.com/track/2kSeF6yZz3wLFchfnX0xfO"
+    },
+    {
+      "album": {
         "name": "AMA",
         "url": "https://open.spotify.com/album/5YjPVazlA5oBaWvOfUIVfb"
       },
@@ -384,6 +402,28 @@
       "duration_ms": 154354,
       "name": "Around",
       "url": "https://open.spotify.com/track/6CcZcnxlBHriWvABmO0cyI"
+    },
+    {
+      "album": {
+        "name": "Astra",
+        "url": "https://open.spotify.com/album/6URu3zeYOlrVHeDmY1pPlf"
+      },
+      "artists": [
+        {
+          "name": "Sasha",
+          "url": "https://open.spotify.com/artist/6u4jLGLPuarS3i2XWHVxoS"
+        },
+        {
+          "name": "Super Flu",
+          "url": "https://open.spotify.com/artist/1iZiG82D4w7FLHvOUUj4zW"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358281,
+      "name": "Astra - Extended",
+      "url": "https://open.spotify.com/track/2Gmr2z2j7FTdeiwQ6eUuru"
     },
     {
       "album": {
@@ -1120,7 +1160,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 215273,
       "name": "Cyber Suit Suna",
       "url": "https://open.spotify.com/track/74bOJCBmI8QcWl3Q9E3A7j"
@@ -2574,7 +2614,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 354000,
       "name": "Hold Me",
       "url": "https://open.spotify.com/track/4bGsaRWzpJqww8VvNnaN8J"
@@ -2596,7 +2636,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 357500,
       "name": "Hold On - Festival Piano Mix - Extended Mix",
       "url": "https://open.spotify.com/track/4mj9sr1awjWCmhYgGjgt4i"
@@ -2650,7 +2690,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 326500,
       "name": "Horizon - Extended Mix",
       "url": "https://open.spotify.com/track/3X6cmwGMYsTN3MBZ7pspi7"
@@ -2766,6 +2806,24 @@
       "duration_ms": 403716,
       "name": "Huge Organ",
       "url": "https://open.spotify.com/track/0zP9e41aqAToTcN8Ioh9FS"
+    },
+    {
+      "album": {
+        "name": "Hyperdrive",
+        "url": "https://open.spotify.com/album/5sOOQ3UyIhHftNt1Aj7j2D"
+      },
+      "artists": [
+        {
+          "name": "Enamour",
+          "url": "https://open.spotify.com/artist/6D1PUSzHf2Z4jTFIdhjJoO"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 427223,
+      "name": "Hyperdrive",
+      "url": "https://open.spotify.com/track/5J81VXV583BuFcK9PldZML"
     },
     {
       "album": {
@@ -3248,7 +3306,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 174996,
       "name": "Just The Kinda Feeling - Nicky Elisabeth Remix",
       "url": "https://open.spotify.com/track/6bZHIYoZn2Lz8sOGZCthYQ"
@@ -3310,6 +3368,32 @@
       "duration_ms": 562301,
       "name": "Lady Science - NYC Sunrise",
       "url": "https://open.spotify.com/track/6cnfseLPZpaPq53XYw6NIv"
+    },
+    {
+      "album": {
+        "name": "Last Night (Anyma x Layton Giordani Remix)",
+        "url": "https://open.spotify.com/album/001JSP4fD2dw3KA95XFxOa"
+      },
+      "artists": [
+        {
+          "name": "Loofy",
+          "url": "https://open.spotify.com/artist/6zx3vuOK841XDu7XFozhFv"
+        },
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        },
+        {
+          "name": "Layton Giordani",
+          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256743,
+      "name": "Last Night - Anyma x Layton Giordani Remix",
+      "url": "https://open.spotify.com/track/22hOKPKTAegLoLJKM33K4a"
     },
     {
       "album": {
@@ -4388,7 +4472,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 474937,
       "name": "Oxygen - Lexicon Avenue Remix",
       "url": "https://open.spotify.com/track/2zHvUABtmKluDFfWPHwxEx"
@@ -4751,6 +4835,36 @@
     },
     {
       "album": {
+        "name": "Raw (Tony Romera Remix)",
+        "url": "https://open.spotify.com/album/05RVsgf3zkK6pcTHFmoNkZ"
+      },
+      "artists": [
+        {
+          "name": "Julio Navas",
+          "url": "https://open.spotify.com/artist/1xTuChuImQkqK7A0aGaZqr"
+        },
+        {
+          "name": "Gustavo Bravetti",
+          "url": "https://open.spotify.com/artist/3COgt6jQqmGpT8vM79C7R9"
+        },
+        {
+          "name": "David Amo",
+          "url": "https://open.spotify.com/artist/6hnD17Gw6ohwryCf3D2AwD"
+        },
+        {
+          "name": "Tony Romera",
+          "url": "https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300000,
+      "name": "Raw - Tony Romera Extended Mix",
+      "url": "https://open.spotify.com/track/0VoT2Cf8VgPLZmLBtQQpJX"
+    },
+    {
+      "album": {
         "name": "Reach - The Ultimate Remixes",
         "url": "https://open.spotify.com/album/2IXb90cY3iKreoOI2AukhR"
       },
@@ -4908,7 +5022,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 347975,
       "name": "Regency",
       "url": "https://open.spotify.com/track/0dhPUNuC2lAiA6IRkebvD9"
@@ -5365,6 +5479,36 @@
     },
     {
       "album": {
+        "name": "Electronic Generations",
+        "url": "https://open.spotify.com/album/15XrNU8AkmvwmGkoi6sLSs"
+      },
+      "artists": [
+        {
+          "name": "Carl Cox",
+          "url": "https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS"
+        },
+        {
+          "name": "Fatboy Slim",
+          "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
+        },
+        {
+          "name": "Dan Diamond",
+          "url": "https://open.spotify.com/artist/2MXl3PpdGGUqQNgfboIImS"
+        },
+        {
+          "name": "LF SYSTEM",
+          "url": "https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183423,
+      "name": "Speed Trials On Acid (feat. Dan Diamond) (LF SYSTEM Remix)",
+      "url": "https://open.spotify.com/track/6z5LHZZWFKN7M5kGJ6RbHq"
+    },
+    {
+      "album": {
         "name": "Lanes EP",
         "url": "https://open.spotify.com/album/5S3RXvDtsb3RQiPwIVE9Wj"
       },
@@ -5384,6 +5528,24 @@
       "duration_ms": 344754,
       "name": "Splendor - Extended Mix",
       "url": "https://open.spotify.com/track/45UHM5mKHWdUuetCRCZkND"
+    },
+    {
+      "album": {
+        "name": "Starwave",
+        "url": "https://open.spotify.com/album/4lytT0OVqWxA61RJzRe9Jf"
+      },
+      "artists": [
+        {
+          "name": "Estiva",
+          "url": "https://open.spotify.com/artist/1ltDgA6tV4utKM6y1BOYIE"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372101,
+      "name": "Starwave - Extended Mix",
+      "url": "https://open.spotify.com/track/6rp6aaU6p6bgjZSe0ZWbDK"
     },
     {
       "album": {
@@ -6045,6 +6207,28 @@
     },
     {
       "album": {
+        "name": "Tuxedo Park",
+        "url": "https://open.spotify.com/album/42QDpb6P5BAzzg6kawSuZE"
+      },
+      "artists": [
+        {
+          "name": "Simon Doty",
+          "url": "https://open.spotify.com/artist/0NznnEmGCRqungT5a57GG3"
+        },
+        {
+          "name": "My Friend",
+          "url": "https://open.spotify.com/artist/1hg70WTHwGUQ7XDbjy3szw"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251370,
+      "name": "Tuxedo Park",
+      "url": "https://open.spotify.com/track/5OVZy3WmkSh8iyoq9mf65u"
+    },
+    {
+      "album": {
         "name": "Rave Love",
         "url": "https://open.spotify.com/album/00SQzuli4WlaMnCAXkWvdL"
       },
@@ -6630,7 +6814,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 274351,
       "name": "Your Intent - Live from The Poetry Club, Glasgow",
       "url": "https://open.spotify.com/track/2uIOAcbBXOqQoulrbiHCD5"

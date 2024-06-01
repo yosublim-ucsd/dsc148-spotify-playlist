@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX57hHpm3vGiU.md) - [plain]
 
 > Respira y medita con los sonidos de este ancestral instrumento.
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,203 likes - 88 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,409 likes - 88 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX57hHpm3vGiU.md) - [plain]
 | 18 | [Lamrim](https://open.spotify.com/track/0x8k5gECEEFCJV5x29S8z3) | [Dakpa Nepali](https://open.spotify.com/artist/6ehZfyyber5F5KyAUtlYob) | [Dakpa Nepali](https://open.spotify.com/album/0Dg7fosaqmafdKYLWiDp0m) | 5:08 |
 | 19 | [Two Buddhas](https://open.spotify.com/track/5nswj67iqjMehDWatDDd1v) | [Xumantra](https://open.spotify.com/artist/0VEyOGSIOChZJa2Di3auGm) | [Singing Bowls](https://open.spotify.com/album/15k2UpQBzV2oHMIlYfBAFl) | 5:25 |
 | 20 | [Pure Tibetan Bowls](https://open.spotify.com/track/6VFGpJganjH9ktLwEsrHFu) | [Mido Gupta](https://open.spotify.com/artist/5gGcNiVa7VMb9sPxKB03Pq) | [Pure Tibetan Bowls](https://open.spotify.com/album/3gullPZFVVZoRZjJwP2RZ7) | 2:58 |
-| 21 | [Crystal Bowl Soundbath](https://open.spotify.com/track/4RK7ebcJcY5b71aGYiF9FS) | [The Forest Escape](https://open.spotify.com/artist/63nWC8U7RxoOnCLl3b6AK4) | [Crystal Bowl Tranquility](https://open.spotify.com/album/2eOJnGIAQA6NkUUDdE4NWQ) | 3:29 |
+| 21 | [Crystal Bowl Soundbath](https://open.spotify.com/track/4RK7ebcJcY5b71aGYiF9FS) | [Willow Drift](https://open.spotify.com/artist/2HWEeg2dzDuXcK0tD8nBfI) | [Crystal Bowl Tranquility](https://open.spotify.com/album/2eOJnGIAQA6NkUUDdE4NWQ) | 3:29 |
 | 22 | [Healing Mantra](https://open.spotify.com/track/4qNzM8Q6hYbm2bN0Q7lBOc) | [Tibetan Singing Bowl Sounds](https://open.spotify.com/artist/4JwZIdOOQe0KsFr5AENBUR) | [Healing Mantra](https://open.spotify.com/album/2r0rAXvotCBnCcvAlI3LCG) | 3:44 |
 | 23 | [Chakra \- 340 Hz \- Soundbath](https://open.spotify.com/track/3kUzKgZ7n5SzGbMe2VVw1V) | [Chakra Shack](https://open.spotify.com/artist/3SeXI5wCsQRDEoReZONV4d) | [Crystal Bowl Chakras](https://open.spotify.com/album/03bi3Pw2YKjAzFNAY0lbaM) | 2:10 |
 | 24 | [Bowl \- Tibetan ringing](https://open.spotify.com/track/39AoIjoQi8fRuh0OBWh6Bz) | [Mido Gupta](https://open.spotify.com/artist/5gGcNiVa7VMb9sPxKB03Pq) | [Pure Tibetan Bowls](https://open.spotify.com/album/3gullPZFVVZoRZjJwP2RZ7) | 3:02 |
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX57hHpm3vGiU.md) - [plain]
 | 27 | [Immortal Grounds \(Tibetan Bowls\)](https://open.spotify.com/track/6YnrlA0CTrkrjLVToXK0Eq) | [Relaxing Tibetan Singing Bowls](https://open.spotify.com/artist/7eWhSlk1SPRRFkt9l6QE7R) | [Immortal Grounds \(Tibetan Bowls\)](https://open.spotify.com/album/7mNJ2OhKnOiIuOAa61YzAb) | 2:53 |
 | 28 | [Crystal Bowl 310 Hz](https://open.spotify.com/track/177Z1WYwEvOKm6uDVYOPT4) | [Pedro Caceres](https://open.spotify.com/artist/61YOovGWdnYImyV9dgnaMA) | [Crystal Bowl 310 Hz](https://open.spotify.com/album/4yIicYVSlrQdsibqXxgGIr) | 2:30 |
 | 29 | [Aum Meditate](https://open.spotify.com/track/4w3TPh10uapmoxwbfgt6D6) | [Bah Zen](https://open.spotify.com/artist/6WOLPTN3uKvcpJUYHkRb6k) | [Positive Thinking](https://open.spotify.com/album/2lMNGjVYdKvRG5DosyhjOi) | 2:22 |
-| 30 | [Tibetan Bowls](https://open.spotify.com/track/3IaD5xs67Tpw3cNpWIf4WD) | [The Forest Escape](https://open.spotify.com/artist/63nWC8U7RxoOnCLl3b6AK4) | [Tibetan Bowls](https://open.spotify.com/album/7HFa56kymErwhHiIMuRZfT) | 2:57 |
+| 30 | [Tibetan Bowls](https://open.spotify.com/track/3IaD5xs67Tpw3cNpWIf4WD) | [Willow Drift](https://open.spotify.com/artist/2HWEeg2dzDuXcK0tD8nBfI) | [Tibetan Bowls](https://open.spotify.com/album/7HFa56kymErwhHiIMuRZfT) | 2:57 |
 | 31 | [Spiritual Sounds](https://open.spotify.com/track/5erkedXCeiXSOfm6wEY08i) | [Kayce Laine](https://open.spotify.com/artist/7cFbIyFpJivCMZjpiy3yBb) | [Spiritual Sounds](https://open.spotify.com/album/7v9NZZBD7LTDNygTnTIgkT) | 4:20 |
 | 32 | [Zen Tibetan Singing Bowls III](https://open.spotify.com/track/1t1JpR9dFGkoPaPemHT6My) | [Tibetan Singing Bowl Sounds](https://open.spotify.com/artist/4JwZIdOOQe0KsFr5AENBUR) | [Zen Tibetan Singing Bowls](https://open.spotify.com/album/7fzlNnPVTaxRJSTnoo5UzM) | 4:26 |
 | 33 | [Lucid Cavern](https://open.spotify.com/track/38OIr42vBZBz6NGr39ZLvl) | [Harlan Silverman](https://open.spotify.com/artist/6RR7uINKmGclSu0zHBC7mU) | [Lucid Cavern](https://open.spotify.com/album/0MkerzKkZt57oGyDtverSE) | 3:29 |

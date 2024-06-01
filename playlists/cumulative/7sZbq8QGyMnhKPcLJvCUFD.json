@@ -8219,6 +8219,24 @@
     },
     {
       "album": {
+        "name": "Pushing On",
+        "url": "https://open.spotify.com/album/1nzC7RjhJACSYcI7KCqenG"
+      },
+      "artists": [
+        {
+          "name": "RIOT",
+          "url": "https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "Pushing On",
+      "url": "https://open.spotify.com/track/2eK7XCveaHytVpdCdzVwtp"
+    },
+    {
+      "album": {
         "name": "Radio",
         "url": "https://open.spotify.com/album/0f9uwxp1EHKSRyijI0dDLW"
       },
@@ -8286,6 +8304,28 @@
       "duration_ms": 180689,
       "name": "Reason",
       "url": "https://open.spotify.com/track/1Oq4IQYV4Yte1KdemEspf2"
+    },
+    {
+      "album": {
+        "name": "Red Lights",
+        "url": "https://open.spotify.com/album/3BKsLBIC7u8iMGlVmK6hM5"
+      },
+      "artists": [
+        {
+          "name": "Cafe Disko",
+          "url": "https://open.spotify.com/artist/7x6KEmSwlWNo0d628uyi7W"
+        },
+        {
+          "name": "Ella Rosa",
+          "url": "https://open.spotify.com/artist/1qHw9CyK6GsvipKuY7J70F"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198923,
+      "name": "Red Lights",
+      "url": "https://open.spotify.com/track/2FhCYRpXmc0wMNaXnVozNh"
     },
     {
       "album": {

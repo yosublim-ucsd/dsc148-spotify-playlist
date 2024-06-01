@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5WOedGxnA81idBhEPfRzgl">Bonnie Mckee</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-123 songs - 7 hr 28 min
+124 songs - 7 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [In My Foreign \(feat\. Ty Dolla $ign, Lil Yachty, Nicky Jam & French Montana\)](https://open.spotify.com/track/1ZX8uNsvwzdDoszb0UCBnM) | [The Americanos](https://open.spotify.com/artist/4XxgN35ZzxIrzUH9Fz8e1y), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [In My Foreign \(feat\. Ty Dolla $ign, Lil Yachty, Nicky Jam & French Montana\)](https://open.spotify.com/album/4DZb3yX9PFxtIzgWgfhTck) | 3:37 | 2024-02-27 |  |
 | [Inside Out](https://open.spotify.com/track/1MXmaCZEtfPrCbtYjJIbzl) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Femme Fatale \(Deluxe Version\)](https://open.spotify.com/album/0oFBaXLFsUVa2gEmJf4FcJ) | 3:38 | 2024-02-27 |  |
 | [January](https://open.spotify.com/track/4Vc6f3K8mXoMwZDICJPPAw) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Trouble](https://open.spotify.com/album/70SkODkeESUeqcfDoRtw7S) | 4:07 | 2024-02-27 |  |
+| [Jenny's Got a Boyfriend](https://open.spotify.com/track/7Eo5lYaWdWryD6uhZT7aZb) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Jenny's Got a Boyfriend](https://open.spotify.com/album/0A2n5x2LuzK2wX8YvO0JaA) | 3:13 | 2024-05-31 |  |
 | [Kick Us Out](https://open.spotify.com/track/3h8cs808NAb6YZHtqZW7IR) | [Hyper Crush](https://open.spotify.com/artist/2OHNfsJ6k7pJI3eRxv2dSF) | [Kick Us Out](https://open.spotify.com/album/18n4EfWfNiwhJeQInmEN38) | 3:29 | 2024-02-27 |  |
 | [Kiss the Sky](https://open.spotify.com/track/0LiEC0RZvGaUISWv7lYsJL) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Kiss the Sky](https://open.spotify.com/album/1PslxdbL4bn2GLzjBpjyrR) | 3:42 | 2024-02-27 |  |
 | [Last Friday Night \(T.G.I.F.\)](https://open.spotify.com/track/3avYqdwHKEq8beXbeWCKqJ) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream](https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1) | 3:50 | 2024-02-27 |  |

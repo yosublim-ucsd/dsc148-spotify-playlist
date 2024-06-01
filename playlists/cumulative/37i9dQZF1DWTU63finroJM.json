@@ -5115,6 +5115,24 @@
     },
     {
       "album": {
+        "name": "Daredevil",
+        "url": "https://open.spotify.com/album/1eLoAa0EpSIq1QhDUeEgaa"
+      },
+      "artists": [
+        {
+          "name": "Naomi Lareine",
+          "url": "https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153883,
+      "name": "Daredevil",
+      "url": "https://open.spotify.com/track/1edoaqKUVDzWNs4flkvNPw"
+    },
+    {
+      "album": {
         "name": "Das Sch\u00f6nste",
         "url": "https://open.spotify.com/album/0dfp3yQuCLIew36PHgcpI1"
       },
@@ -7834,7 +7852,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 216249,
       "name": "Full 180",
       "url": "https://open.spotify.com/track/62UNeZ8qIJ4INYevYoQadG"
@@ -8560,7 +8578,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 178331,
       "name": "grips",
       "url": "https://open.spotify.com/track/3OdyOQKTsqiUs25V1aXUsR"
@@ -13032,7 +13050,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 179889,
       "name": "Love Lost",
       "url": "https://open.spotify.com/track/6AP8Ttpx7tCVd8EqflkkR0"
@@ -13166,6 +13184,24 @@
       "duration_ms": 214000,
       "name": "Luka Yang Kurindu",
       "url": "https://open.spotify.com/track/0v7phHdROHvzpqTYeUQqtw"
+    },
+    {
+      "album": {
+        "name": "Lungs",
+        "url": "https://open.spotify.com/album/2kI0bFy7s7H5bvLpPZTxzJ"
+      },
+      "artists": [
+        {
+          "name": "Ruti",
+          "url": "https://open.spotify.com/artist/5vQr71zjhOUi0RPPeQE6bE"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237632,
+      "name": "Lungs",
+      "url": "https://open.spotify.com/track/0UiS217Jk2oDxfDnOIrOwb"
     },
     {
       "album": {
@@ -13652,6 +13688,28 @@
       "duration_ms": 155318,
       "name": "Me Ense\u00f1aste",
       "url": "https://open.spotify.com/track/5C8kcTmoswivovtqO0D3RN"
+    },
+    {
+      "album": {
+        "name": "L\u00edngua",
+        "url": "https://open.spotify.com/album/1G2WJnStYm1BbmCSRuriUN"
+      },
+      "artists": [
+        {
+          "name": "Barro",
+          "url": "https://open.spotify.com/artist/49Ymz7hkosffibefJioODe"
+        },
+        {
+          "name": "Marley no Beat",
+          "url": "https://open.spotify.com/artist/1LYVhCzrcczttykOd4ukkH"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187026,
+      "name": "Me Ter",
+      "url": "https://open.spotify.com/track/3wSOnJ6XtkOGlJcKR2vDIw"
     },
     {
       "album": {
@@ -15874,7 +15932,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 145348,
       "name": "notte vodka",
       "url": "https://open.spotify.com/track/7w6K5uvRrZHdHNgQt5lSXN"
@@ -16744,6 +16802,24 @@
       "duration_ms": 98544,
       "name": "Pain",
       "url": "https://open.spotify.com/track/7CIERzyqIwLVKGp00YbHRO"
+    },
+    {
+      "album": {
+        "name": "Paku Durjana",
+        "url": "https://open.spotify.com/album/6WqYQYvMxCFou2gVnk7B4E"
+      },
+      "artists": [
+        {
+          "name": "CO\u00cbX",
+          "url": "https://open.spotify.com/artist/5Ia90P1tKtsgewYwo24Jxr"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204923,
+      "name": "Paku Durjana",
+      "url": "https://open.spotify.com/track/5vbqoD5GJOqWVqE4KFvnzZ"
     },
     {
       "album": {
@@ -18876,6 +18952,28 @@
       "duration_ms": 210000,
       "name": "Safe",
       "url": "https://open.spotify.com/track/1ZK2qvM0yDoj7sonoEWiG5"
+    },
+    {
+      "album": {
+        "name": "SAH (Acoustic Version)",
+        "url": "https://open.spotify.com/album/30D0nzroAeNHica06GaB1P"
+      },
+      "artists": [
+        {
+          "name": "Sarah Suhairi",
+          "url": "https://open.spotify.com/artist/4cp5lD2rybf8yNVDEKy7Nh"
+        },
+        {
+          "name": "Alfie Zumi",
+          "url": "https://open.spotify.com/artist/4SkJ6iSvBXWjEzLEY4BmVV"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229450,
+      "name": "SAH - Acoustic Version",
+      "url": "https://open.spotify.com/track/15E37jzTXmjIrF2r3eNYDD"
     },
     {
       "album": {
@@ -22302,7 +22400,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 235850,
       "name": "Two Cents",
       "url": "https://open.spotify.com/track/6hqJupJkVQmwHzOYeeO7fE"
@@ -22924,7 +23022,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 181504,
       "name": "violence'66",
       "url": "https://open.spotify.com/track/4hn32lVKaO7sL631XTQbv9"
@@ -23220,7 +23318,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 190129,
       "name": "We Are The River",
       "url": "https://open.spotify.com/track/3FZqWp03yzNcYqXICOiT2c"
@@ -23606,7 +23704,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-28",
+      "date_removed": null,
       "duration_ms": 140000,
       "name": "who's he gonna take home",
       "url": "https://open.spotify.com/track/6RmC8PwJ4qwVM1d6j2hfn2"
@@ -24134,6 +24232,24 @@
       "duration_ms": 194558,
       "name": "Young",
       "url": "https://open.spotify.com/track/4Ujidgwz5Y4lfXuCPwSYqN"
+    },
+    {
+      "album": {
+        "name": "your house, my house",
+        "url": "https://open.spotify.com/album/5QIRhIGOw9GnmVtoYnsRTM"
+      },
+      "artists": [
+        {
+          "name": "philine",
+          "url": "https://open.spotify.com/artist/5VyGPIz23xzQUyXocTxAvL"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194158,
+      "name": "your house, my house",
+      "url": "https://open.spotify.com/track/3dS3l0OmExgoXx9gYloCyN"
     },
     {
       "album": {

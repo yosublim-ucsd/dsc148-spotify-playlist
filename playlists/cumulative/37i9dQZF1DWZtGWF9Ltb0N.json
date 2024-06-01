@@ -328,7 +328,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 354357,
       "name": "Ange",
       "url": "https://open.spotify.com/track/4TvmFIi8lcfZBnuU9omTYN"
@@ -3189,6 +3189,24 @@
     },
     {
       "album": {
+        "name": "FROM DARKNESS",
+        "url": "https://open.spotify.com/album/6bT6Jab0G44yTVuKSNthvc"
+      },
+      "artists": [
+        {
+          "name": "Deathpact",
+          "url": "https://open.spotify.com/artist/09C3CKFxKEw1n1Z7kvT3jb"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288000,
+      "name": "FATE",
+      "url": "https://open.spotify.com/track/0pCU13PjrLBP9cC1AsqHQS"
+    },
+    {
+      "album": {
         "name": "Outside",
         "url": "https://open.spotify.com/album/39iB005ObCj7G7YejBPZJD"
       },
@@ -3688,7 +3706,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 187500,
       "name": "Get Down",
       "url": "https://open.spotify.com/track/2I6YaJFUsvyUQUNdjSGCLU"
@@ -4068,7 +4086,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 286920,
       "name": "Hamburg",
       "url": "https://open.spotify.com/track/1PrWnI0jAiSLWhqcLbWo8t"
@@ -6629,6 +6647,24 @@
     },
     {
       "album": {
+        "name": "NEED SOME",
+        "url": "https://open.spotify.com/album/0JzfdOpOjFcdoiP8UIoGfi"
+      },
+      "artists": [
+        {
+          "name": "Tsimba",
+          "url": "https://open.spotify.com/artist/2oyQAB31BN7QLPUBNpLg88"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174857,
+      "name": "NEED SOME",
+      "url": "https://open.spotify.com/track/5quo3xI25MYfu88V5Yxq0R"
+    },
+    {
+      "album": {
         "name": "Vibrations",
         "url": "https://open.spotify.com/album/34E1kgCm1PZ6y0jdyGVXtc"
       },
@@ -7392,7 +7428,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 260571,
       "name": "Poppitt",
       "url": "https://open.spotify.com/track/2hax08kBT3ObIkCCsZBjzL"
@@ -7765,7 +7801,7 @@
     },
     {
       "album": {
-        "name": "Push",
+        "name": "Push (feat. OFFAIAH)",
         "url": "https://open.spotify.com/album/3GSEVlHrbrQbKSP4ozWzx8"
       },
       "artists": [
@@ -7782,19 +7818,19 @@
           "url": "https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN"
         },
         {
-          "name": "contra",
-          "url": "https://open.spotify.com/artist/5VYRcaryFLFZnA5HvnRHFi"
-        },
-        {
           "name": "OFFAIAH",
           "url": "https://open.spotify.com/artist/2E1NFr5AeEGUJkLUUsWCAO"
+        },
+        {
+          "name": "contra",
+          "url": "https://open.spotify.com/artist/5VYRcaryFLFZnA5HvnRHFi"
         }
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 185244,
-      "name": "Push",
+      "name": "Push (feat. OFFAIAH)",
       "url": "https://open.spotify.com/track/29OFLlrrfKIEVwbVMTjBYe"
     },
     {
@@ -8395,6 +8431,28 @@
     },
     {
       "album": {
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/0KEFZnJoHiHzywPl5bP71Y"
+      },
+      "artists": [
+        {
+          "name": "VCTRE",
+          "url": "https://open.spotify.com/artist/45B2tXcwmZXjfCbK6c3oqu"
+        },
+        {
+          "name": "OkayJake",
+          "url": "https://open.spotify.com/artist/1inEarlQOFZ2KWNnQDHqo3"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Rise",
+      "url": "https://open.spotify.com/track/5ljP4kya9X4nHhcuhQ3A60"
+    },
+    {
+      "album": {
         "name": "Roots - EP",
         "url": "https://open.spotify.com/album/1wLirC220sMgkHxPrwN3M2"
       },
@@ -8472,6 +8530,28 @@
       "duration_ms": 190728,
       "name": "Rude Gyal",
       "url": "https://open.spotify.com/track/1oBhvIDddwBZ9LfaySy7Zl"
+    },
+    {
+      "album": {
+        "name": "Ruffneck",
+        "url": "https://open.spotify.com/album/266vU1sTez2M31BgOIYEhL"
+      },
+      "artists": [
+        {
+          "name": "Om Unit",
+          "url": "https://open.spotify.com/artist/3rblB9Pm51uKd9uYPVPB7B"
+        },
+        {
+          "name": "James Bangura",
+          "url": "https://open.spotify.com/artist/7939stjhhD9rNBMg0HvQ4o"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258953,
+      "name": "Ruffneck",
+      "url": "https://open.spotify.com/track/2IdA9NR0QVKYDWKQZObq0s"
     },
     {
       "album": {
@@ -10308,7 +10388,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-22",
+      "date_removed": null,
       "duration_ms": 252351,
       "name": "TEK",
       "url": "https://open.spotify.com/track/3tezEIT5xK3CW8fjlSy4ak"
@@ -11224,7 +11304,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 296250,
       "name": "Voices in the Wall",
       "url": "https://open.spotify.com/track/3Jh5bcDIKfzGOngSzk0GEP"

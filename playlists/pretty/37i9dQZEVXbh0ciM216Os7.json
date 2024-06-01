@@ -6,10 +6,266 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAACUQ7Byx/yGqJv5PMRWSgFz",
+  "snapshot_id": "AAAAAAAAAAB+7JmElX77AZt3IQrNoiFb",
   "tracks": [
     {
-      "added_at": "2024-05-24 04:00:00",
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "No Face",
+        "url": "https://open.spotify.com/album/3L82FRbY7B5tk0CZDED1pi"
+      },
+      "artists": [
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 275750,
+      "name": "No Face",
+      "url": "https://open.spotify.com/track/4C397XtpxJdRNCEmVav0gX"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "Traust (Live)",
+        "url": "https://open.spotify.com/album/0HrNpK2Cxxl17TOXkwj1t2"
+      },
+      "artists": [
+        {
+          "name": "Heilung",
+          "url": "https://open.spotify.com/artist/7sTKZr30LqC928DZ5P9mNQ"
+        }
+      ],
+      "duration_ms": 580722,
+      "name": "Traust - Live",
+      "url": "https://open.spotify.com/track/1KRWjl4EgcxSQf18rlPtJG"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "Naked And Alive",
+        "url": "https://open.spotify.com/album/6mPCKnNWmqzIhuLAwuCfQe"
+      },
+      "artists": [
+        {
+          "name": "Milky Chance",
+          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
+        }
+      ],
+      "duration_ms": 207669,
+      "name": "Naked And Alive",
+      "url": "https://open.spotify.com/track/5ivyL3WEFCo0IfivYC0FOF"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "Houdini",
+        "url": "https://open.spotify.com/album/6Xuu2z00jxRPZei4IJ9neK"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "duration_ms": 227239,
+      "name": "Houdini",
+      "url": "https://open.spotify.com/track/2HYFX63wP3otVIvopRS99Z"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "Nourish a Thug",
+        "url": "https://open.spotify.com/album/0pWoAGpfVZgxORd9lsCmeI"
+      },
+      "artists": [
+        {
+          "name": "Action Bronson",
+          "url": "https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ"
+        }
+      ],
+      "duration_ms": 165225,
+      "name": "Nourish a Thug",
+      "url": "https://open.spotify.com/track/3a3IVG5G7EH6w2mAyxNIOV"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "places to be",
+        "url": "https://open.spotify.com/album/0M0iJGLagLtI4LlooOiiNZ"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "CHIKA",
+          "url": "https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8"
+        }
+      ],
+      "duration_ms": 226677,
+      "name": "places to be",
+      "url": "https://open.spotify.com/track/561pBFcFL2Pwb9HPO9tU8J"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "What You Need (Cold Cut Mix)",
+        "url": "https://open.spotify.com/album/7Dh1yUVdjE97evqSoSqGlF"
+      },
+      "artists": [
+        {
+          "name": "INXS",
+          "url": "https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv"
+        },
+        {
+          "name": "Coldcut",
+          "url": "https://open.spotify.com/artist/5wnhqlZzXIq8aO9awQO2ND"
+        }
+      ],
+      "duration_ms": 392746,
+      "name": "What You Need - Cold Cut Mix",
+      "url": "https://open.spotify.com/track/0iOxcC26oaeYkWk0FqGEim"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "Drippy Drop",
+        "url": "https://open.spotify.com/album/5wmw6bMDGzXvhNXyGPCSHC"
+      },
+      "artists": [
+        {
+          "name": "Tech N9ne Collabos",
+          "url": "https://open.spotify.com/artist/4UOlRVifrFdQHW9qu5ep8t"
+        },
+        {
+          "name": "Tech N9ne",
+          "url": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
+        },
+        {
+          "name": "Skatterman & Snug Brim",
+          "url": "https://open.spotify.com/artist/18UXMAe8MYg68DcC7qynaT"
+        }
+      ],
+      "duration_ms": 237483,
+      "name": "Drippy Drop",
+      "url": "https://open.spotify.com/track/4oEI2mD2s80Enl3BLqLOZj"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "And Yet Still",
+        "url": "https://open.spotify.com/album/2Btpzgvr0nAfQpoPnsr17C"
+      },
+      "artists": [
+        {
+          "name": "Oddisee",
+          "url": "https://open.spotify.com/artist/72tRiBHei5G9M8it4h4sfC"
+        }
+      ],
+      "duration_ms": 182056,
+      "name": "Had To Improve",
+      "url": "https://open.spotify.com/track/4nfaVOhJqGl2E9CgDVeJU2"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "WU-HA",
+        "url": "https://open.spotify.com/album/4BzHVDOjaw0BVPjpxHErYK"
+      },
+      "artists": [
+        {
+          "name": "Optimystic",
+          "url": "https://open.spotify.com/artist/0TWuCOdiUkECiQ0G6zz44M"
+        },
+        {
+          "name": "Lord Vladagus",
+          "url": "https://open.spotify.com/artist/1o7CTDdfnKYRbs6MRt9MvT"
+        },
+        {
+          "name": "Inspectah Deck",
+          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
+        },
+        {
+          "name": "SickFlo",
+          "url": "https://open.spotify.com/artist/7yJZJPQyv1jin7c81fVa4z"
+        },
+        {
+          "name": "Strictly D.T",
+          "url": "https://open.spotify.com/artist/0N7FuEALzJCIF7tGQkrttf"
+        }
+      ],
+      "duration_ms": 272727,
+      "name": "WU-HA",
+      "url": "https://open.spotify.com/track/46LHAZEgO7cimtGsFtRBJH"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "Mississippi Half-Step Uptown Toodeloo (Live at University of Nevada, Reno, NV, 5/12/74)",
+        "url": "https://open.spotify.com/album/6rtaawoZtYmEPI4IUrjGkT"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "duration_ms": 478471,
+      "name": "Mississippi Half-Step Uptown Toodeloo - Live at University of Nevada, Reno, NV, 5/12/74",
+      "url": "https://open.spotify.com/track/7vVfk9d94hKWjIKuyTxEHO"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "Mid Spiral: Growth",
+        "url": "https://open.spotify.com/album/5CqumIo51QeCiboYgpxpN8"
+      },
+      "artists": [
+        {
+          "name": "BADBADNOTGOOD",
+          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
+        }
+      ],
+      "duration_ms": 333881,
+      "name": "Celestial Hands",
+      "url": "https://open.spotify.com/track/4HOVerAo4A7ipCQJix9fIp"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "Fight For Love",
+        "url": "https://open.spotify.com/album/09rUxAJMutrAki1KQra5m1"
+      },
+      "artists": [
+        {
+          "name": "Grafh",
+          "url": "https://open.spotify.com/artist/4rKPpij2gIDKsZsfjCfk1U"
+        },
+        {
+          "name": "38 Spesh",
+          "url": "https://open.spotify.com/artist/32cT1WQRSDg4xsReG7eqyT"
+        },
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        }
+      ],
+      "duration_ms": 176551,
+      "name": "Fight For Love",
+      "url": "https://open.spotify.com/track/6Dq8TlPc2kJwZoh2q2zZeo"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
       "album": {
         "name": "Perfume Of The Timeless",
         "url": "https://open.spotify.com/album/2lzs5KtWl3eovh9AMdWwCt"
@@ -25,27 +281,7 @@
       "url": "https://open.spotify.com/track/2XXXvrIkEBtR3LlbfJExpJ"
     },
     {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "RATATATA",
-        "url": "https://open.spotify.com/album/4DccXktGbSRsgUoBvH8EN7"
-      },
-      "artists": [
-        {
-          "name": "BABYMETAL",
-          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
-        },
-        {
-          "name": "Electric Callboy",
-          "url": "https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc"
-        }
-      ],
-      "duration_ms": 216428,
-      "name": "RATATATA",
-      "url": "https://open.spotify.com/track/14WYmNQWvR2TTWoRp8t9Ml"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
+      "added_at": "2024-05-31 04:00:00",
       "album": {
         "name": "Leo Metal, Vol. 46",
         "url": "https://open.spotify.com/album/3ffTfWGBjtpCOcm8YFTn6S"
@@ -61,7 +297,7 @@
       "url": "https://open.spotify.com/track/4Jl3HbjBXlnSpWZCbgUIsq"
     },
     {
-      "added_at": "2024-05-24 04:00:00",
+      "added_at": "2024-05-31 04:00:00",
       "album": {
         "name": "DND (It\u2019s Not Personal) - A COLORS SHOW",
         "url": "https://open.spotify.com/album/0mXQq8b0ovLxhT9TrGIgIP"
@@ -81,7 +317,7 @@
       "url": "https://open.spotify.com/track/0uhXqLoDPvsNpdgmmVpFFg"
     },
     {
-      "added_at": "2024-05-24 04:00:00",
+      "added_at": "2024-05-31 04:00:00",
       "album": {
         "name": "Oblivion",
         "url": "https://open.spotify.com/album/6EEjJ6CtxuWLGW34oQkFXv"
@@ -97,27 +333,7 @@
       "url": "https://open.spotify.com/track/6HvnPZNXaiaOzHldLAiOfE"
     },
     {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "Evil Eye / Get A Grip",
-        "url": "https://open.spotify.com/album/0DItQKhgUwLv6oWRcUeskz"
-      },
-      "artists": [
-        {
-          "name": "Black Sabbath",
-          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
-        },
-        {
-          "name": "Tony Iommi",
-          "url": "https://open.spotify.com/artist/7iA7uWUkWLpapsaaqmzRQV"
-        }
-      ],
-      "duration_ms": 241773,
-      "name": "Get a Grip - 2024 Tony Iommi Remix",
-      "url": "https://open.spotify.com/track/3nyCzsxkBLSJ7gltRb36Sb"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
+      "added_at": "2024-05-31 04:00:00",
       "album": {
         "name": "Fearless Movement",
         "url": "https://open.spotify.com/album/0Jy18n9qpKS4RyDYmaPpdL"
@@ -145,31 +361,27 @@
       "url": "https://open.spotify.com/track/5yRerSW4IIbninr1JDXfvi"
     },
     {
-      "added_at": "2024-05-24 04:00:00",
+      "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "Wang Tang",
-        "url": "https://open.spotify.com/album/6NY3YUltynfGoMGL8t5Mb2"
+        "name": "wasted time re-mix",
+        "url": "https://open.spotify.com/album/67EFBkdaaq4kJ9gUUYgRXe"
       },
       "artists": [
         {
-          "name": "D.O.M of Dnd",
-          "url": "https://open.spotify.com/artist/6J5VuFIm5Yvy3o5LJKMnBm"
+          "name": "white grouse",
+          "url": "https://open.spotify.com/artist/7pIv06qOhU2S6qfbAZn5KV"
         },
         {
-          "name": "Inspectah Deck",
-          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
-        },
-        {
-          "name": "Bronze Nazareth",
-          "url": "https://open.spotify.com/artist/4VhYUWpDsLraUG6Sd8g9TF"
+          "name": "Ol' Dirty Bastard",
+          "url": "https://open.spotify.com/artist/50NoVNy9GU1lCrDV8iGpyu"
         }
       ],
-      "duration_ms": 166301,
-      "name": "Erectah Deck",
-      "url": "https://open.spotify.com/track/6wrCRloYUpj7ooJy1lddk2"
+      "duration_ms": 139468,
+      "name": "wasted time re-mix",
+      "url": "https://open.spotify.com/track/09vOW9W5lC9O7tQZ73YtR5"
     },
     {
-      "added_at": "2024-05-24 04:00:00",
+      "added_at": "2024-05-31 04:00:00",
       "album": {
         "name": "DREAMS",
         "url": "https://open.spotify.com/album/4CHv4PNbumbSkExOJ0bBOV"
@@ -193,46 +405,10 @@
       "url": "https://open.spotify.com/track/1w657XmpiKVz3p99BFMkNr"
     },
     {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "wasted time re-mix",
-        "url": "https://open.spotify.com/album/67EFBkdaaq4kJ9gUUYgRXe"
-      },
-      "artists": [
-        {
-          "name": "white grouse",
-          "url": "https://open.spotify.com/artist/7pIv06qOhU2S6qfbAZn5KV"
-        },
-        {
-          "name": "Ol' Dirty Bastard",
-          "url": "https://open.spotify.com/artist/50NoVNy9GU1lCrDV8iGpyu"
-        }
-      ],
-      "duration_ms": 139468,
-      "name": "wasted time re-mix",
-      "url": "https://open.spotify.com/track/09vOW9W5lC9O7tQZ73YtR5"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "Burn for You (Extended Remix)",
-        "url": "https://open.spotify.com/album/0SMzwGfocvgE2AhwudkhFe"
-      },
-      "artists": [
-        {
-          "name": "INXS",
-          "url": "https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv"
-        }
-      ],
-      "duration_ms": 368240,
-      "name": "Burn for You - Extended Remix",
-      "url": "https://open.spotify.com/track/6ZbVB0IaTWxNndZu2VIgGJ"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
+      "added_at": "2024-05-31 04:00:00",
       "album": {
         "name": "North Vol. 2",
-        "url": "https://open.spotify.com/album/29ViDgMA62axNx2WOABMjG"
+        "url": "https://open.spotify.com/album/2Z61tp4ZUgz1yWrstgqmJM"
       },
       "artists": [
         {
@@ -244,12 +420,12 @@
           "url": "https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ"
         }
       ],
-      "duration_ms": 159166,
+      "duration_ms": 159159,
       "name": "Peace",
-      "url": "https://open.spotify.com/track/60gKxdKtL9VIRhr3ENddBp"
+      "url": "https://open.spotify.com/track/4kdPe5uJLR6UHalCpdX7Ug"
     },
     {
-      "added_at": "2024-05-24 04:00:00",
+      "added_at": "2024-05-31 04:00:00",
       "album": {
         "name": "Like This",
         "url": "https://open.spotify.com/album/7l1XFL2D3OCSksIhejkPHv"
@@ -273,7 +449,7 @@
       "url": "https://open.spotify.com/track/6zdHznovk52eXvTf9yL3QL"
     },
     {
-      "added_at": "2024-05-24 04:00:00",
+      "added_at": "2024-05-31 04:00:00",
       "album": {
         "name": "One (feat. James Hetfield & Robert Trujillo)",
         "url": "https://open.spotify.com/album/3sfPyXkIL27yCmt22kM2rd"
@@ -297,7 +473,7 @@
       "url": "https://open.spotify.com/track/6vY1R7oFD9ppJAfyAZfxRI"
     },
     {
-      "added_at": "2024-05-24 04:00:00",
+      "added_at": "2024-05-31 04:00:00",
       "album": {
         "name": "Grounded",
         "url": "https://open.spotify.com/album/0ZidxETSzhXyT7pZV2CZ7q"
@@ -313,7 +489,7 @@
       "url": "https://open.spotify.com/track/2nsnyuimK758VKC7CAKG2k"
     },
     {
-      "added_at": "2024-05-24 04:00:00",
+      "added_at": "2024-05-31 04:00:00",
       "album": {
         "name": "Atavista",
         "url": "https://open.spotify.com/album/692R05mxz7V6eOFoj5PMlQ"
@@ -333,7 +509,7 @@
       "url": "https://open.spotify.com/track/0hYh0vcM53aRbksX7ZcpOI"
     },
     {
-      "added_at": "2024-05-24 04:00:00",
+      "added_at": "2024-05-31 04:00:00",
       "album": {
         "name": "Together",
         "url": "https://open.spotify.com/album/5HgjPTY2Sw4yEHrZIl2TWf"
@@ -353,39 +529,7 @@
       "url": "https://open.spotify.com/track/57pOyrIbZjxLqRbME7haSW"
     },
     {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "FromHere (feat. Snoop Dogg & October London)",
-        "url": "https://open.spotify.com/album/7aFWGuepWqTGZneBnfahBZ"
-      },
-      "artists": [
-        {
-          "name": "NxWorries",
-          "url": "https://open.spotify.com/artist/6PEMFpe3PTOksdV4ZXUpbE"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        },
-        {
-          "name": "Knxwledge",
-          "url": "https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        },
-        {
-          "name": "October London",
-          "url": "https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t"
-        }
-      ],
-      "duration_ms": 241511,
-      "name": "FromHere (feat. Snoop Dogg & October London)",
-      "url": "https://open.spotify.com/track/1kJK2dkXbMw8yOMFEuJUm7"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
+      "added_at": "2024-05-31 04:00:00",
       "album": {
         "name": "Please Don't Cry",
         "url": "https://open.spotify.com/album/4qpuHdwINuEp8DfHsEM1yt"
@@ -405,7 +549,7 @@
       "url": "https://open.spotify.com/track/37I1T0ypcJJXareD7KgcfV"
     },
     {
-      "added_at": "2024-05-24 04:00:00",
+      "added_at": "2024-05-31 04:00:00",
       "album": {
         "name": "Rx",
         "url": "https://open.spotify.com/album/5vegvIWwKcdSc8gYfirlgx"
@@ -425,43 +569,7 @@
       "url": "https://open.spotify.com/track/2KE3Ukz2maas53WCtYIvCE"
     },
     {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "Pair Of Hammers",
-        "url": "https://open.spotify.com/album/3x2nnUuUhnQJaSESvRUFQm"
-      },
-      "artists": [
-        {
-          "name": "Ghostface Killah",
-          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
-        },
-        {
-          "name": "Method Man",
-          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
-        }
-      ],
-      "duration_ms": 156136,
-      "name": "Pair Of Hammers",
-      "url": "https://open.spotify.com/track/45gkHRnetn0FJWLB6rFtv1"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "Mid Spiral: Chaos",
-        "url": "https://open.spotify.com/album/4jSXr6It6ARLX8iDOHbwaJ"
-      },
-      "artists": [
-        {
-          "name": "BADBADNOTGOOD",
-          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
-        }
-      ],
-      "duration_ms": 188761,
-      "name": "Last Laugh",
-      "url": "https://open.spotify.com/track/307ZBrMJEoKG6khQpX0g4N"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
+      "added_at": "2024-05-31 04:00:00",
       "album": {
         "name": "where is your pride?",
         "url": "https://open.spotify.com/album/7cB7OeVAjXnDlNFzSP1lIl"
@@ -481,7 +589,7 @@
       "url": "https://open.spotify.com/track/4oeUEps9lJueoPlVDwTwFq"
     },
     {
-      "added_at": "2024-05-24 04:00:00",
+      "added_at": "2024-05-31 04:00:00",
       "album": {
         "name": "Absolution (Live at the Forum / 2023)",
         "url": "https://open.spotify.com/album/5YOmO8pYe4AD3KKBtZAz89"
@@ -497,27 +605,7 @@
       "url": "https://open.spotify.com/track/5AvtHfUUjQ8tAgd26ZgR7y"
     },
     {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "Set The Tone (Guns & Roses)",
-        "url": "https://open.spotify.com/album/4KUIIO52OLcKyV6wCbbtEc"
-      },
-      "artists": [
-        {
-          "name": "Ghostface Killah",
-          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
-        },
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 275750,
-      "name": "No Face",
-      "url": "https://open.spotify.com/track/1Xevt8UUzfEm17ewfSdsiF"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
+      "added_at": "2024-05-31 04:00:00",
       "album": {
         "name": "Gin & Juice (Another Shot From Dr. Dre)",
         "url": "https://open.spotify.com/album/5bZGe1ridqExnz4HccFnXX"
@@ -537,7 +625,7 @@
       "url": "https://open.spotify.com/track/2uBBQN14uvkiol1EcPTo50"
     },
     {
-      "added_at": "2024-05-24 04:00:00",
+      "added_at": "2024-05-31 04:00:00",
       "album": {
         "name": "HE KNOWS (feat. Lil Nas X)",
         "url": "https://open.spotify.com/album/5lFg9dwFRS88AOY22qwki2"
@@ -557,23 +645,7 @@
       "url": "https://open.spotify.com/track/6G53gri09h5KXRegSCcWy9"
     },
     {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "Ship of Fools (Live at University of Nevada, Reno, NV, 5/12/74)",
-        "url": "https://open.spotify.com/album/3xpzDCDc3xbxds8j1YaqH7"
-      },
-      "artists": [
-        {
-          "name": "Grateful Dead",
-          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
-        }
-      ],
-      "duration_ms": 375853,
-      "name": "Ship of Fools - Live at University of Nevada, Reno, NV, 5/12/74",
-      "url": "https://open.spotify.com/track/64BahXhOSEBLlwQymfa4S9"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
+      "added_at": "2024-05-31 04:00:00",
       "album": {
         "name": "My Year",
         "url": "https://open.spotify.com/album/0Gt6nUt5yUD3I92B94tlAX"
@@ -605,7 +677,7 @@
       "url": "https://open.spotify.com/track/11V0MfxII1ZmRatxtz0OyD"
     },
     {
-      "added_at": "2024-05-24 04:00:00",
+      "added_at": "2024-05-31 04:00:00",
       "album": {
         "name": "Set The Tone (Guns & Roses)",
         "url": "https://open.spotify.com/album/4KUIIO52OLcKyV6wCbbtEc"
@@ -629,7 +701,7 @@
       "url": "https://open.spotify.com/track/2UGyOB1uHT8j5oYuy62HuA"
     },
     {
-      "added_at": "2024-05-24 04:00:00",
+      "added_at": "2024-05-31 04:00:00",
       "album": {
         "name": "Tales from the Loop (Solo Piano Version)",
         "url": "https://open.spotify.com/album/3n4efY5eK4rqFgcnMeV9OO"
@@ -649,7 +721,7 @@
       "url": "https://open.spotify.com/track/1ONCLg6E9KVWkIovF1QYNU"
     },
     {
-      "added_at": "2024-05-24 04:00:00",
+      "added_at": "2024-05-31 04:00:00",
       "album": {
         "name": "Dusk (Holy Fawn Remix)",
         "url": "https://open.spotify.com/album/4kof4X07rNltIo8zNLXhEX"
@@ -669,7 +741,7 @@
       "url": "https://open.spotify.com/track/7ysgFjbinXWVACKXuwctAU"
     },
     {
-      "added_at": "2024-05-24 04:00:00",
+      "added_at": "2024-05-31 04:00:00",
       "album": {
         "name": "TATAR Warrior (Live At Glastonbury)",
         "url": "https://open.spotify.com/album/3Cu3BKRTJDl60RWmcFMEjP"
@@ -685,39 +757,7 @@
       "url": "https://open.spotify.com/track/5lWXz92dZub9MRyEZvnzSY"
     },
     {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "Boomer Rang",
-        "url": "https://open.spotify.com/album/1uiP6NwEsXavVWZuw2bzFH"
-      },
-      "artists": [
-        {
-          "name": "Tech N9ne Collabos",
-          "url": "https://open.spotify.com/artist/4UOlRVifrFdQHW9qu5ep8t"
-        },
-        {
-          "name": "Tech N9ne",
-          "url": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
-        },
-        {
-          "name": "Stevie Stone",
-          "url": "https://open.spotify.com/artist/2IvPBSC4CgNLYC1GHEAxcN"
-        },
-        {
-          "name": "K.A.A.N.",
-          "url": "https://open.spotify.com/artist/6WSTevYt4rGwm8QPKQr7dU"
-        },
-        {
-          "name": "Ubi",
-          "url": "https://open.spotify.com/artist/4JlhSpr8xRBKD9lC74i7ZD"
-        }
-      ],
-      "duration_ms": 285122,
-      "name": "Boomer Rang",
-      "url": "https://open.spotify.com/track/0E9M1YDzuSKcjEqcJza3YU"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
+      "added_at": "2024-05-31 04:00:00",
       "album": {
         "name": "Higher",
         "url": "https://open.spotify.com/album/5ncydmjMons3VV3AIP9SHe"
@@ -745,7 +785,7 @@
       "url": "https://open.spotify.com/track/6f5I8yAEaJCx1UmvOg8a1c"
     },
     {
-      "added_at": "2024-05-24 04:00:00",
+      "added_at": "2024-05-31 04:00:00",
       "album": {
         "name": "Fruition",
         "url": "https://open.spotify.com/album/6rVqbqPIeGoy4yDY7iWuFL"
@@ -765,7 +805,7 @@
       "url": "https://open.spotify.com/track/0VvJEdl9I8dNpYw2Kxl2PL"
     },
     {
-      "added_at": "2024-05-24 04:00:00",
+      "added_at": "2024-05-31 04:00:00",
       "album": {
         "name": "You Took the Blue",
         "url": "https://open.spotify.com/album/58RIGSSgx6LLxYLa1gd18j"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-02",
-  "description": "The home of rage rap. Cover: Hardrock",
+  "description": "The home of rage rap. Cover: Homixide Gang",
   "name": "RAGE",
   "tracks": [
     {
@@ -552,7 +552,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 118000,
       "name": "HI-VOLTAGE",
       "url": "https://open.spotify.com/track/1pq17iFsWxlcUMK3kHrCAr"
@@ -606,7 +606,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 198096,
       "name": "i suppose'",
       "url": "https://open.spotify.com/track/3gcWCQg7hbMzBj1NzYsHhE"
@@ -718,7 +718,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 172878,
       "name": "KING TUT",
       "url": "https://open.spotify.com/track/5o3hsfebCXZUBb5OzsFqyK"
@@ -902,7 +902,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 103783,
       "name": "MBGB2",
       "url": "https://open.spotify.com/track/5NJ4s5Daq5RUNmtNdjQrRv"
@@ -1359,6 +1359,28 @@
     },
     {
       "album": {
+        "name": "i5u5we5",
+        "url": "https://open.spotify.com/album/6VQw51JISwFViXaj3K7u9d"
+      },
+      "artists": [
+        {
+          "name": "Homixide Gang",
+          "url": "https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222985,
+      "name": "SIDE EFFExT (feat. Lil Yachty)",
+      "url": "https://open.spotify.com/track/0zin6HNAYX04mXsWjpUkIk"
+    },
+    {
+      "album": {
         "name": "Whole Lotta Red",
         "url": "https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR"
       },
@@ -1482,7 +1504,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 148115,
       "name": "Strike (Holster)",
       "url": "https://open.spotify.com/track/7iTTWHbr4tAlsRJN4m4bay"
@@ -1714,7 +1736,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 176361,
       "name": "WISH I COULD TELL YOU",
       "url": "https://open.spotify.com/track/7mAIh2cjeAXId5k6j74mCj"

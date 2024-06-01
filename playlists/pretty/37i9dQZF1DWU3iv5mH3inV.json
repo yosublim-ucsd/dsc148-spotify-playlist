@@ -1,12 +1,12 @@
 {
   "description": "El Dembow que est\u00e1 subiendo. Foto: Bb trickz",
-  "num_followers": 109376,
+  "num_followers": 109804,
   "original_name": "Rep\u00fablica Dembow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zk98LAAAAADHFlWamGYL6NV1nAs8jVZc",
+  "snapshot_id": "Zli//gAAAAAVC5vk2WfFH9eH1KTU/hKc",
   "tracks": [
     {
       "added_at": "2024-05-09 17:08:56",
@@ -45,6 +45,114 @@
       "url": "https://open.spotify.com/track/6HjooscdDxnbZ169Y47gAF"
     },
     {
+      "added_at": "2024-05-09 17:08:56",
+      "album": {
+        "name": "J\u00e1lale alv",
+        "url": "https://open.spotify.com/album/2fg0Ah2oDL1ne1zECvOdPY"
+      },
+      "artists": [
+        {
+          "name": "Bb trickz",
+          "url": "https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA"
+        },
+        {
+          "name": "Kevin AMF",
+          "url": "https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu"
+        }
+      ],
+      "duration_ms": 109866,
+      "name": "J\u00e1lale alv",
+      "url": "https://open.spotify.com/track/57uiO4cG6bK5yq51BJTvyE"
+    },
+    {
+      "added_at": "2024-05-30 18:05:50",
+      "album": {
+        "name": "Envenenao",
+        "url": "https://open.spotify.com/album/3ww7KDDQ1lQQyuvNGHszNY"
+      },
+      "artists": [
+        {
+          "name": "Papera",
+          "url": "https://open.spotify.com/artist/0L7AJNWmGtSjzASON8eTDW"
+        },
+        {
+          "name": "Chucky73",
+          "url": "https://open.spotify.com/artist/5IwRo4xhRz5JM2y5IXHjcU"
+        }
+      ],
+      "duration_ms": 125387,
+      "name": "Envenenao",
+      "url": "https://open.spotify.com/track/57WxIK1nE2SL9t2edmCNRB"
+    },
+    {
+      "added_at": "2024-04-25 20:33:26",
+      "album": {
+        "name": "Che Che",
+        "url": "https://open.spotify.com/album/2nidUL9BkkQL6TsHN5JGwS"
+      },
+      "artists": [
+        {
+          "name": "Chimbala",
+          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
+        }
+      ],
+      "duration_ms": 140874,
+      "name": "Che Che",
+      "url": "https://open.spotify.com/track/7ESqP17DjGLx7j8fm0Gp2L"
+    },
+    {
+      "added_at": "2024-04-03 20:10:24",
+      "album": {
+        "name": "Entone",
+        "url": "https://open.spotify.com/album/6OoM9afwahIrEG2N3LNJAB"
+      },
+      "artists": [
+        {
+          "name": "Flow 28",
+          "url": "https://open.spotify.com/artist/7cBlyZwtKHes30iMefd0qC"
+        }
+      ],
+      "duration_ms": 102722,
+      "name": "Entone",
+      "url": "https://open.spotify.com/track/5dkVCKoLV0uR1ihoPCXgKN"
+    },
+    {
+      "added_at": "2024-04-11 20:48:43",
+      "album": {
+        "name": "Me Arregle (El loco)",
+        "url": "https://open.spotify.com/album/3s231XSay5ko3W5psvQhrW"
+      },
+      "artists": [
+        {
+          "name": "Bulin 47",
+          "url": "https://open.spotify.com/artist/4J0m1OquRGY8HYHxMocXfy"
+        }
+      ],
+      "duration_ms": 169660,
+      "name": "Me Arregle - El loco",
+      "url": "https://open.spotify.com/track/1bIpH9PBr9OBI3Ek6RtuNl"
+    },
+    {
+      "added_at": "2024-05-02 15:24:48",
+      "album": {
+        "name": "Ma Buena",
+        "url": "https://open.spotify.com/album/5TBoLfHDZneDC1MqavM5s6"
+      },
+      "artists": [
+        {
+          "name": "Yaisel LM",
+          "url": "https://open.spotify.com/artist/2PxnKk0fTNgMzm5pY6tINL"
+        },
+        {
+          "name": "B One El Productor De Oro",
+          "url": "https://open.spotify.com/artist/5dZ2dElcI4y3ADZvqERISZ"
+        }
+      ],
+      "duration_ms": 152653,
+      "name": "Ma Buena",
+      "url": "https://open.spotify.com/track/21HDTbRS49Oy3tWKg3JDAB"
+    },
+    {
       "added_at": "2024-05-02 15:24:48",
       "album": {
         "name": "NEW AIR'S",
@@ -59,6 +167,22 @@
       "duration_ms": 108413,
       "name": "PA' QUE BAILES",
       "url": "https://open.spotify.com/track/2t6MAiKwBnsXV6os21BBet"
+    },
+    {
+      "added_at": "2024-05-30 18:05:50",
+      "album": {
+        "name": "Meneito",
+        "url": "https://open.spotify.com/album/3Wu3ozEx0pxQU6xYsg7PEH"
+      },
+      "artists": [
+        {
+          "name": "Jey One",
+          "url": "https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw"
+        }
+      ],
+      "duration_ms": 116363,
+      "name": "Meneito",
+      "url": "https://open.spotify.com/track/39ayhbnPMQrfzSroEBfPmx"
     },
     {
       "added_at": "2024-05-23 17:26:04",
@@ -83,26 +207,6 @@
       "duration_ms": 185365,
       "name": "Dominguito",
       "url": "https://open.spotify.com/track/5QcwrMLWShJEleFfffobvV"
-    },
-    {
-      "added_at": "2024-05-09 17:08:56",
-      "album": {
-        "name": "J\u00e1lale alv",
-        "url": "https://open.spotify.com/album/2fg0Ah2oDL1ne1zECvOdPY"
-      },
-      "artists": [
-        {
-          "name": "Bb trickz",
-          "url": "https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA"
-        },
-        {
-          "name": "Kevin AMF",
-          "url": "https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu"
-        }
-      ],
-      "duration_ms": 109866,
-      "name": "J\u00e1lale alv",
-      "url": "https://open.spotify.com/track/57uiO4cG6bK5yq51BJTvyE"
     },
     {
       "added_at": "2024-05-16 13:53:07",
@@ -173,36 +277,24 @@
       "url": "https://open.spotify.com/track/2FtPkgXoWkAEDkFGxvTwFH"
     },
     {
-      "added_at": "2024-04-25 20:33:26",
+      "added_at": "2024-05-30 18:05:50",
       "album": {
-        "name": "Cara De Q",
-        "url": "https://open.spotify.com/album/6AvznJjWEIwmrXZgyDjQy8"
+        "name": "MI LEGADO 70M x 58",
+        "url": "https://open.spotify.com/album/1NZ0wjwDtcny2ilGG5l2qS"
       },
       "artists": [
         {
-          "name": "Donaty",
-          "url": "https://open.spotify.com/artist/2dHbjVgpO3NvzY8D7yZvji"
-        }
-      ],
-      "duration_ms": 144040,
-      "name": "Cara De Q",
-      "url": "https://open.spotify.com/track/4oUupKOJFy5blYAsV9BZ0g"
-    },
-    {
-      "added_at": "2024-05-16 13:53:07",
-      "album": {
-        "name": "Ojos De Colores",
-        "url": "https://open.spotify.com/album/79zcfIYFRNSwwvuw4LiBta"
-      },
-      "artists": [
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
         {
-          "name": "Flow 28",
-          "url": "https://open.spotify.com/artist/7cBlyZwtKHes30iMefd0qC"
+          "name": "Chael Produciendo",
+          "url": "https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e"
         }
       ],
-      "duration_ms": 106421,
-      "name": "Ojos De Colores",
-      "url": "https://open.spotify.com/track/4y6AJfoPAGkxkDiGMFU45P"
+      "duration_ms": 181124,
+      "name": "MI LEGADO 70M x 58",
+      "url": "https://open.spotify.com/track/0cboLcpDfJ9DjHPdC8e1c3"
     },
     {
       "added_at": "2024-05-23 17:26:04",
@@ -233,6 +325,30 @@
       "url": "https://open.spotify.com/track/7avLdI6b6Yf7XNusIdgWy3"
     },
     {
+      "added_at": "2024-02-08 22:40:39",
+      "album": {
+        "name": "Hoy Si",
+        "url": "https://open.spotify.com/album/0mjCzgtlh0uduQTNKLeqBs"
+      },
+      "artists": [
+        {
+          "name": "La Perversa",
+          "url": "https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo"
+        },
+        {
+          "name": "Lomiiel",
+          "url": "https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo"
+        },
+        {
+          "name": "OG DETRUYELO",
+          "url": "https://open.spotify.com/artist/3gPb5oQZHqLolM6gP0IBli"
+        }
+      ],
+      "duration_ms": 124285,
+      "name": "Hoy Si",
+      "url": "https://open.spotify.com/track/0psfsyaZP1MNEBiTSeTM9N"
+    },
+    {
       "added_at": "2024-02-15 15:29:53",
       "album": {
         "name": "Pitoleo",
@@ -253,20 +369,28 @@
       "url": "https://open.spotify.com/track/5zEElpWMDT4RddUueH27Hi"
     },
     {
-      "added_at": "2024-05-16 13:53:07",
+      "added_at": "2024-05-30 18:05:50",
       "album": {
-        "name": "A 30",
-        "url": "https://open.spotify.com/album/5Huqv5KYQM9i298ddFpS6R"
+        "name": "Giguiri Popo",
+        "url": "https://open.spotify.com/album/6H5XK2m2PLFYX7Q12bkcZg"
       },
       "artists": [
         {
-          "name": "Onguito Wa",
-          "url": "https://open.spotify.com/artist/5gIa74oRT4LLG0AioLVn6F"
+          "name": "Young Capo",
+          "url": "https://open.spotify.com/artist/6d47mdtpFjn6VtljRMw0vC"
+        },
+        {
+          "name": "Angel Dior",
+          "url": "https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI"
+        },
+        {
+          "name": "Dilon Baby",
+          "url": "https://open.spotify.com/artist/4ZIaiuKxYK6A6JwvvwqXoN"
         }
       ],
-      "duration_ms": 138000,
-      "name": "A 30",
-      "url": "https://open.spotify.com/track/3oCCsxd8aFmJzjHhGHT6qZ"
+      "duration_ms": 166452,
+      "name": "Giguiri Popo",
+      "url": "https://open.spotify.com/track/31H9Vt4Tb4oPpqU0pwrU42"
     },
     {
       "added_at": "2024-05-23 17:26:04",
@@ -287,54 +411,6 @@
       "duration_ms": 97772,
       "name": "Cual Para",
       "url": "https://open.spotify.com/track/1Y28Ql2uCRWKnb1IrvPfMM"
-    },
-    {
-      "added_at": "2024-04-25 20:33:26",
-      "album": {
-        "name": "Che Che",
-        "url": "https://open.spotify.com/album/2nidUL9BkkQL6TsHN5JGwS"
-      },
-      "artists": [
-        {
-          "name": "Chimbala",
-          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
-        }
-      ],
-      "duration_ms": 140874,
-      "name": "Che Che",
-      "url": "https://open.spotify.com/track/7ESqP17DjGLx7j8fm0Gp2L"
-    },
-    {
-      "added_at": "2024-04-03 20:10:24",
-      "album": {
-        "name": "Entone",
-        "url": "https://open.spotify.com/album/6OoM9afwahIrEG2N3LNJAB"
-      },
-      "artists": [
-        {
-          "name": "Flow 28",
-          "url": "https://open.spotify.com/artist/7cBlyZwtKHes30iMefd0qC"
-        }
-      ],
-      "duration_ms": 102722,
-      "name": "Entone",
-      "url": "https://open.spotify.com/track/5dkVCKoLV0uR1ihoPCXgKN"
-    },
-    {
-      "added_at": "2024-04-11 20:48:43",
-      "album": {
-        "name": "Me Arregle (El loco)",
-        "url": "https://open.spotify.com/album/3s231XSay5ko3W5psvQhrW"
-      },
-      "artists": [
-        {
-          "name": "Bulin 47",
-          "url": "https://open.spotify.com/artist/4J0m1OquRGY8HYHxMocXfy"
-        }
-      ],
-      "duration_ms": 169660,
-      "name": "Me Arregle - El loco",
-      "url": "https://open.spotify.com/track/1bIpH9PBr9OBI3Ek6RtuNl"
     },
     {
       "added_at": "2024-05-23 17:26:04",
@@ -377,24 +453,28 @@
       "url": "https://open.spotify.com/track/4BpdzdVk4o33Xn6nMObhxD"
     },
     {
-      "added_at": "2024-05-02 15:24:48",
+      "added_at": "2024-05-30 18:05:50",
       "album": {
-        "name": "Ma Buena",
-        "url": "https://open.spotify.com/album/5TBoLfHDZneDC1MqavM5s6"
+        "name": "MORDERTE Y LAMBERTE",
+        "url": "https://open.spotify.com/album/2gmsu4Aq4UKA5CUeTmEt17"
       },
       "artists": [
         {
-          "name": "Yaisel LM",
-          "url": "https://open.spotify.com/artist/2PxnKk0fTNgMzm5pY6tINL"
+          "name": "Jey One",
+          "url": "https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw"
         },
         {
-          "name": "B One El Productor De Oro",
-          "url": "https://open.spotify.com/artist/5dZ2dElcI4y3ADZvqERISZ"
+          "name": "La Perversa",
+          "url": "https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo"
+        },
+        {
+          "name": "OG DETRUYELO",
+          "url": "https://open.spotify.com/artist/3gPb5oQZHqLolM6gP0IBli"
         }
       ],
-      "duration_ms": 152653,
-      "name": "Ma Buena",
-      "url": "https://open.spotify.com/track/21HDTbRS49Oy3tWKg3JDAB"
+      "duration_ms": 134062,
+      "name": "MORDERTE Y LAMBERTE",
+      "url": "https://open.spotify.com/track/4JiP7Vf95WaeFuhvwKmAkp"
     },
     {
       "added_at": "2024-04-25 20:33:26",
@@ -421,26 +501,6 @@
       "url": "https://open.spotify.com/track/74E2L10UCNdtKbm3Ykecds"
     },
     {
-      "added_at": "2024-05-16 13:53:07",
-      "album": {
-        "name": "Bailar",
-        "url": "https://open.spotify.com/album/0WeZGkKjUfmY0QgSqUaZL9"
-      },
-      "artists": [
-        {
-          "name": "El Mayor Clasico",
-          "url": "https://open.spotify.com/artist/5sZ0LIk7BJLJquEUUt5rJj"
-        },
-        {
-          "name": "PV Aparataje",
-          "url": "https://open.spotify.com/artist/1PrPa8zf5xW14VSJRgrCE4"
-        }
-      ],
-      "duration_ms": 151186,
-      "name": "Bailar",
-      "url": "https://open.spotify.com/track/2DuBOUMZMowLdngW9tbLBx"
-    },
-    {
       "added_at": "2024-05-09 17:08:56",
       "album": {
         "name": "Que Se Cuide",
@@ -465,20 +525,24 @@
       "url": "https://open.spotify.com/track/22jhscHs2DoVqKG5vKJytQ"
     },
     {
-      "added_at": "2024-05-16 13:53:07",
+      "added_at": "2024-05-30 18:05:50",
       "album": {
-        "name": "LLENO DE ODIO",
-        "url": "https://open.spotify.com/album/3IXdbLGtVIdweMQM3ZzLvS"
+        "name": "UNA GALLETA (En Vivo)",
+        "url": "https://open.spotify.com/album/3ybpcIBg7mgFvXQhd0ovqA"
       },
       "artists": [
         {
-          "name": "Gatillero 23",
-          "url": "https://open.spotify.com/artist/5ArjD2zzwnPVWvho8uSj8k"
+          "name": "DJ Patio",
+          "url": "https://open.spotify.com/artist/5w7Goklg0o1gkiclyM3uyA"
+        },
+        {
+          "name": "Braulio Fogon",
+          "url": "https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9"
         }
       ],
-      "duration_ms": 195840,
-      "name": "LLENO DE ODIO",
-      "url": "https://open.spotify.com/track/2FA2AhJhKyubqOJPJcqAhU"
+      "duration_ms": 138109,
+      "name": "UNA GALLETA - En Vivo",
+      "url": "https://open.spotify.com/track/2cC4waL89iKHlMKF6fwtL5"
     },
     {
       "added_at": "2024-04-25 20:33:26",
@@ -495,46 +559,6 @@
       "duration_ms": 137388,
       "name": "Tuve Q Pre\u00f1ate",
       "url": "https://open.spotify.com/track/1xdJpRudz1A7X5oDi6sGQb"
-    },
-    {
-      "added_at": "2024-05-16 13:53:07",
-      "album": {
-        "name": "Trakas Belico",
-        "url": "https://open.spotify.com/album/1DsEIRuqKVBpZSCvfLZfpx"
-      },
-      "artists": [
-        {
-          "name": "Gerry Garcia",
-          "url": "https://open.spotify.com/artist/3JBqGOnpdinzeD7sSMyiU4"
-        }
-      ],
-      "duration_ms": 152715,
-      "name": "Trakas Belico",
-      "url": "https://open.spotify.com/track/5aSevcoVohlQUvVyF7NKbC"
-    },
-    {
-      "added_at": "2024-02-08 22:40:39",
-      "album": {
-        "name": "Hoy Si",
-        "url": "https://open.spotify.com/album/0mjCzgtlh0uduQTNKLeqBs"
-      },
-      "artists": [
-        {
-          "name": "La Perversa",
-          "url": "https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo"
-        },
-        {
-          "name": "Lomiiel",
-          "url": "https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo"
-        },
-        {
-          "name": "OG DETRUYELO",
-          "url": "https://open.spotify.com/artist/3gPb5oQZHqLolM6gP0IBli"
-        }
-      ],
-      "duration_ms": 124285,
-      "name": "Hoy Si",
-      "url": "https://open.spotify.com/track/0psfsyaZP1MNEBiTSeTM9N"
     },
     {
       "added_at": "2024-05-09 17:08:56",

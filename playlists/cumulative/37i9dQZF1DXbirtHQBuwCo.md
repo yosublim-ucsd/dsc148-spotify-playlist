@@ -4,7 +4,7 @@
 
 > Enjoy trendy & chill Korean R&B music\. \(Cover: Jay Park\)
 
-699 songs - 1 day 13 hr 25 min
+700 songs - 1 day 13 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -391,7 +391,7 @@
 | [Make A Fool](https://open.spotify.com/track/6IGrg58iOTyvFEHokceSzr) | [Claire Hau](https://open.spotify.com/artist/3mhfsEXzcPMT1WP4s6XqCS), [KEYMAKER](https://open.spotify.com/artist/1x42PttDj7QKjjqLrDPY2t) | [Make A Fool](https://open.spotify.com/album/0XovgqsvuleWy2SzXwN3y0) | 3:39 | 2022-12-08 | 2023-01-11 |
 | [Make Me Happy](https://open.spotify.com/track/6ry670EtSALRt1yd0W0wca) | [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [WHEE](https://open.spotify.com/album/4BLxIwHfv87WeOQ9A4sm9E) | 3:17 | 2022-04-19 | 2023-05-05 |
 | [Make the Move \(feat\. pH\-1\)](https://open.spotify.com/track/3JxRNkoNmAcPgnA5HSnKiz) | [Soovi](https://open.spotify.com/artist/0YM7bNxtt0VzccYf1UG2G8), [pH\-1](https://open.spotify.com/artist/2hfyKzh49rXQLmPhBKfcH9) | [Make the Move](https://open.spotify.com/album/39kE7BbrzccyYdw9W5dCWf) | 2:57 | 2022-04-19 | 2022-07-02 |
-| [Make Up \(Feat\. Crush\)](https://open.spotify.com/track/19zsSUEuJNzNA6eqInqyF9) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Sun And Moon](https://open.spotify.com/album/0AsQlY5YENtlvd8SLnrSxX) | 3:27 | 2022-04-19 |  |
+| [Make Up \(Feat\. Crush\)](https://open.spotify.com/track/19zsSUEuJNzNA6eqInqyF9) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Sun And Moon](https://open.spotify.com/album/0AsQlY5YENtlvd8SLnrSxX) | 3:27 | 2022-04-19 | 2024-06-01 |
 | [Mars](https://open.spotify.com/track/2FZKBbotZtXLQyedIV965w) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [BLOSSOM \- THE 3RD MINI ALBUM](https://open.spotify.com/album/6ZlXpA35FslDym9FIKaygk) | 3:07 | 2024-05-09 |  |
 | [Matter of Taste \(feat\. Paloalto\)](https://open.spotify.com/track/0U4U1RdFuj6TzzQdbUtYkB) | [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n), [Paloalto](https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv) | [Riddle](https://open.spotify.com/album/37jhqfjnQFN5ObACGJkdUv) | 2:50 | 2022-05-11 | 2022-07-19 |
 | [Maybe It’s Not Our Fault](https://open.spotify.com/track/2xxAW1kGFSVCDdRVoryX8R) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Our Love is Great](https://open.spotify.com/album/6o7uJmwJP40A8lllMXk8MW) | 3:53 | 2022-06-03 | 2022-06-21 |
@@ -588,6 +588,7 @@
 | [Summer In Love](https://open.spotify.com/track/2GWN9DZzufK8Yo1ahtqZIm) | [SAAY](https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18), [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [Summer In Love](https://open.spotify.com/album/6TcySjFEFk3pilszcwNwBA) | 3:55 | 2022-06-18 | 2022-07-05 |
 | [Sunny](https://open.spotify.com/track/1ncOOwpA56YHuulS9xIl62) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) | [Sunny](https://open.spotify.com/album/7GUc2PaCVEcqs1MnWBFav9) | 5:03 | 2022-05-11 | 2022-07-02 |
 | [SUNSET WITH YOU](https://open.spotify.com/track/7AOtWjLx5SaKVVGzberZ7i) | [Def.](https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58) | [LOVE.](https://open.spotify.com/album/4gpG6Fw9MP4Le9phEdtdYU) | 3:23 | 2022-04-19 | 2022-07-29 |
+| [Swear](https://open.spotify.com/track/3Zr7XljDMsjanXYIIjZMXp) | [Huh](https://open.spotify.com/artist/30AghIfoMJrMo1YqoUkEMM) | [Swear](https://open.spotify.com/album/3vNYAR6SdAeKcQGgOPTyY2) | 2:57 | 2024-05-30 |  |
 | [Sweet](https://open.spotify.com/track/5FAUwmHyCfhB04I4hhc7DV) | [Xydo](https://open.spotify.com/artist/0vcbn6MqAvgM8Gh6wh8d6X) | [Sweet](https://open.spotify.com/album/4rjYcvl3RNOvcEXGWkmZGX) | 3:04 | 2023-02-21 | 2023-03-08 |
 | [Swoosh \(feat\. DUT2\)](https://open.spotify.com/track/6AVagUXzjPGjXGaqHilS9Q) | [oceanfromtheblue](https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a), [DUT2](https://open.spotify.com/artist/4YCMBr9I1zesFyMMyoc4pX) | [NEWRNBERA](https://open.spotify.com/album/7CcYqPAWRlyOA5oXBOi8Zi) | 3:05 | 2023-08-17 | 2023-08-23 |
 | [T.T.T \(Tell The Truth\) \(Feat\. Moon Sujin, NONE\)](https://open.spotify.com/track/63SD3RfeR1qMmYTmEBd1F4) | [BUMKEY](https://open.spotify.com/artist/3vhZuZdMksbnJwoE3AwpXq), [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du), [NONE](https://open.spotify.com/artist/03EV1JpYOKlc2jSXj0TQrM) | [T.T.T \(Tell The Truth\)](https://open.spotify.com/album/0yp3elCpF7Goy4DEw7dTfL) | 3:15 | 2023-03-31 | 2023-04-18 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "Este Flow tiene otro Flow. Foto: FloyyMenor.",
+  "description": "Este Flow tiene otro Flow. Foto: Jere Klein.",
   "name": "Reggaet\u00f3n Chileno",
   "tracks": [
     {
@@ -1451,7 +1451,7 @@
         },
         {
           "name": "Dani Flow",
-          "url": "https://open.spotify.com/artist/0Y5fvbFYGpskZqqXa3tCep"
+          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
         },
         {
           "name": "LIT killah",
@@ -3020,6 +3020,44 @@
       "duration_ms": 187822,
       "name": "Corte Europeo",
       "url": "https://open.spotify.com/track/16LsfNJwEykQ2DP5qPYOXD"
+    },
+    {
+      "album": {
+        "name": "Corte Gangster",
+        "url": "https://open.spotify.com/album/2JgsvGAwKpcORrrlWNqPax"
+      },
+      "artists": [
+        {
+          "name": "Sayian Jimmy",
+          "url": "https://open.spotify.com/artist/3ZfYo6sKskRv0wOyrZZdAj"
+        },
+        {
+          "name": "Salastkbron",
+          "url": "https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r"
+        },
+        {
+          "name": "Lolo OG",
+          "url": "https://open.spotify.com/artist/1HAO6fqdAGX5CiWxBvhiyv"
+        },
+        {
+          "name": "Omar Varela",
+          "url": "https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU"
+        },
+        {
+          "name": "QuixSmell",
+          "url": "https://open.spotify.com/artist/0MrBxgZbiw0uUO3NUqWFKp"
+        },
+        {
+          "name": "Nysix Music",
+          "url": "https://open.spotify.com/artist/5v0eLOwGUJuH1lvPSzw0xD"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233845,
+      "name": "Corte Gangster",
+      "url": "https://open.spotify.com/track/5IZsaDvrsmMJKgbNHyJpc2"
     },
     {
       "album": {
@@ -4844,6 +4882,32 @@
       "duration_ms": 185483,
       "name": "Extra\u00f1o",
       "url": "https://open.spotify.com/track/1dtshNfCOXGeW6AyfnWyED"
+    },
+    {
+      "album": {
+        "name": "FAMOSA",
+        "url": "https://open.spotify.com/album/3vcZDhuDxPGtUNIutctO9Q"
+      },
+      "artists": [
+        {
+          "name": "KYA",
+          "url": "https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP"
+        },
+        {
+          "name": "Akatumamy",
+          "url": "https://open.spotify.com/artist/38DOU02BQmlcooCqxr3aSd"
+        },
+        {
+          "name": "Nass G",
+          "url": "https://open.spotify.com/artist/4HVaguMub30IBWNwP1k6WF"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "FAMOSA",
+      "url": "https://open.spotify.com/track/0OPNy6nWFwiMN9Sm4gsQTe"
     },
     {
       "album": {
@@ -9843,6 +9907,28 @@
     },
     {
       "album": {
+        "name": "Moja",
+        "url": "https://open.spotify.com/album/324uxXPq4HsfU6BJeu39Nb"
+      },
+      "artists": [
+        {
+          "name": "Z Jocker",
+          "url": "https://open.spotify.com/artist/6IaOUkLKnYH0q8Vm2AdhQ5"
+        },
+        {
+          "name": "Chiko Alfa",
+          "url": "https://open.spotify.com/artist/6fDFw5ZF2hKa52oH1enbks"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188235,
+      "name": "Moja",
+      "url": "https://open.spotify.com/track/31yq8dOiQXjKsXxZLLly6D"
+    },
+    {
+      "album": {
         "name": "MONEYMAN (feat. Galee Galee & ITHAN NY)",
         "url": "https://open.spotify.com/album/61eCWJwRCTUDmtbkNxc3tU"
       },
@@ -10119,6 +10205,32 @@
     },
     {
       "album": {
+        "name": "ARES KLEIN",
+        "url": "https://open.spotify.com/album/4XVIEmQkAh94hMVod4yh3k"
+      },
+      "artists": [
+        {
+          "name": "Jere Klein",
+          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
+        },
+        {
+          "name": "Lucky Brown",
+          "url": "https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM"
+        },
+        {
+          "name": "Adan La Amenaza",
+          "url": "https://open.spotify.com/artist/0dQUkvpKTvHbsTxXKcIN0S"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146250,
+      "name": "MUJER FINA",
+      "url": "https://open.spotify.com/track/3yLoXi85lSf04T3hL1EJI4"
+    },
+    {
+      "album": {
         "name": "Mujeriego",
         "url": "https://open.spotify.com/album/0pZhWMSDItIQUt2kRHdpwR"
       },
@@ -10244,7 +10356,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 188041,
       "name": "NADIE TEKITA",
       "url": "https://open.spotify.com/track/0RJim16pYKHkx9L8H01FVZ"
@@ -10262,7 +10374,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 139428,
       "name": "Naipe",
       "url": "https://open.spotify.com/track/6HdezDOdd1VIPeR5LzXGzz"
@@ -10416,7 +10528,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 211612,
       "name": "No Busquemos Culpable",
       "url": "https://open.spotify.com/track/3tGnu5Lj7VDnwu0yTE6aFH"
@@ -11696,7 +11808,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 159157,
       "name": "PASE LO Q PASE",
       "url": "https://open.spotify.com/track/6nYcPsP2pygU96kGD7SxLv"
@@ -12638,6 +12750,28 @@
       "duration_ms": 228624,
       "name": "QUE CHIMBA",
       "url": "https://open.spotify.com/track/58T1ibLrNWyHvYqxtntsyA"
+    },
+    {
+      "album": {
+        "name": "EL TIBUR\u00d3N",
+        "url": "https://open.spotify.com/album/44MDlLPFwSdNNACGyOlfW3"
+      },
+      "artists": [
+        {
+          "name": "Rvfv",
+          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
+        },
+        {
+          "name": "Julianno Sosa",
+          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "QUE DIR\u00c1S",
+      "url": "https://open.spotify.com/track/03HhriyCSGGNWPZ9dX2NDg"
     },
     {
       "album": {
@@ -14069,7 +14203,7 @@
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 156020,
+      "duration_ms": 156000,
       "name": "SI NO ES CONTIGO",
       "url": "https://open.spotify.com/track/5Uptvz6j1sjDKxidAcnH2L"
     },
@@ -16108,7 +16242,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 209302,
       "name": "Tu Mirada",
       "url": "https://open.spotify.com/track/4eJ51mnF7wr2Ngee93HSUq"

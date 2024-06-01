@@ -1,29 +1,13 @@
 {
   "description": "Future K-Pop hits! Cover: TREASURE",
-  "num_followers": 807737,
+  "num_followers": 808063,
   "original_name": "K-Pop Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlWlJAAAAAAxaOAe67vRfbV9Bd7sYMPV",
+  "snapshot_id": "ZlkqxgAAAACdW1WF4fD6p+n5iQg9KGj7",
   "tracks": [
-    {
-      "added_at": "2024-05-28 09:34:28",
-      "album": {
-        "name": "KING KONG",
-        "url": "https://open.spotify.com/album/43R91w6pa9rmQVPVjcPFTT"
-      },
-      "artists": [
-        {
-          "name": "TREASURE",
-          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
-        }
-      ],
-      "duration_ms": 196221,
-      "name": "KING KONG",
-      "url": "https://open.spotify.com/track/0gZenxCArrqlFm4lLXevTq"
-    },
     {
       "added_at": "2024-05-28 09:34:28",
       "album": {
@@ -43,6 +27,38 @@
     {
       "added_at": "2024-05-28 09:34:28",
       "album": {
+        "name": "KING KONG",
+        "url": "https://open.spotify.com/album/43R91w6pa9rmQVPVjcPFTT"
+      },
+      "artists": [
+        {
+          "name": "TREASURE",
+          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
+        }
+      ],
+      "duration_ms": 196221,
+      "name": "KING KONG",
+      "url": "https://open.spotify.com/track/0gZenxCArrqlFm4lLXevTq"
+    },
+    {
+      "added_at": "2024-05-31 01:41:26",
+      "album": {
+        "name": "DOOR - The 4th Mini Album",
+        "url": "https://open.spotify.com/album/57tUagZl5Lg8x2fogKCzjA"
+      },
+      "artists": [
+        {
+          "name": "CHEN",
+          "url": "https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq"
+        }
+      ],
+      "duration_ms": 244280,
+      "name": "Empty",
+      "url": "https://open.spotify.com/track/15sqqtN3pxdFqYnVxKPHt9"
+    },
+    {
+      "added_at": "2024-05-28 09:34:28",
+      "album": {
         "name": "Tasty",
         "url": "https://open.spotify.com/album/2vM9UGFDKGVtBujM4i280d"
       },
@@ -55,6 +71,26 @@
       "duration_ms": 131240,
       "name": "Tasty",
       "url": "https://open.spotify.com/track/7CRxtUYdaNwgUICPi2iScL"
+    },
+    {
+      "added_at": "2024-05-31 01:41:26",
+      "album": {
+        "name": "Jay Park Season 2",
+        "url": "https://open.spotify.com/album/0MazhZi5jQbkueKX52rkaR"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "NATTY",
+          "url": "https://open.spotify.com/artist/1Y3klzPXyHrinIk3tQ20Se"
+        }
+      ],
+      "duration_ms": 230499,
+      "name": "Taxi Blurr (Feat. NATTY of KISS OF LIFE)",
+      "url": "https://open.spotify.com/track/5IY8i6WnkqvmRnIrF4lqDx"
     },
     {
       "added_at": "2024-05-28 09:34:28",
@@ -543,22 +579,6 @@
     {
       "added_at": "2024-05-28 09:34:28",
       "album": {
-        "name": "Renegade - The 1st Single",
-        "url": "https://open.spotify.com/album/0JTKRqDGKIDhtoCfqRyJf6"
-      },
-      "artists": [
-        {
-          "name": "LUCAS",
-          "url": "https://open.spotify.com/artist/6S3tOdgtc5qz16hwmMjEBN"
-        }
-      ],
-      "duration_ms": 193698,
-      "name": "Renegade",
-      "url": "https://open.spotify.com/track/6qmGitkEMN6TVM5Cc25W47"
-    },
-    {
-      "added_at": "2024-05-28 09:34:28",
-      "album": {
         "name": "2",
         "url": "https://open.spotify.com/album/0mC9MXPddkzggVsOXh5gd3"
       },
@@ -655,22 +675,6 @@
       "duration_ms": 212600,
       "name": "Beautiful Ashes",
       "url": "https://open.spotify.com/track/3SLhntsE0KgkioZHs7l4ol"
-    },
-    {
-      "added_at": "2024-05-28 09:34:28",
-      "album": {
-        "name": "BATTER UP",
-        "url": "https://open.spotify.com/album/2CSQuvvt3XHLDX36O3nRv7"
-      },
-      "artists": [
-        {
-          "name": "BABYMONSTER",
-          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
-        }
-      ],
-      "duration_ms": 188179,
-      "name": "BATTER UP",
-      "url": "https://open.spotify.com/track/3VBj0lzjmhTzVFPEDOjNCG"
     },
     {
       "added_at": "2024-05-28 09:34:28",

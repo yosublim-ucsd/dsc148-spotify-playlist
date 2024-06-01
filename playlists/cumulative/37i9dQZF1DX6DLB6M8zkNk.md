@@ -4,7 +4,7 @@
 
 > POV: you're the main character in a romance novel.
 
-70 songs - 4 hr 17 min
+71 songs - 4 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [leaves and trees](https://open.spotify.com/track/7zFGjpozrCWREmakIErLxx) | [Rachel Portman](https://open.spotify.com/artist/1joFZGTRER78nUsWtgHCHR) | [leaves and trees](https://open.spotify.com/album/7F3CyaNx0b18PxiajqfyjS) | 5:58 | 2022-10-07 | 2022-11-13 |
 | [Material Girl](https://open.spotify.com/track/4p7na6NSU0F7lMOhx9kg9k) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ) | [Bridgerton Season Two \(Covers from the Netflix Series\)](https://open.spotify.com/album/63xx2KhCMtdl2ks3txobZF) | 4:04 | 2022-03-29 | 2022-07-09 |
 | [MOONGLADE in Jet Black](https://open.spotify.com/track/4WOAF20NzYuD8ftfANhuog) | [Julie Cooper](https://open.spotify.com/artist/3Orwjks4n4xieFN72XQDQa), [Joby Burgess](https://open.spotify.com/artist/3jNNxhqxHJws22fYew1EC2), [Her Ensemble](https://open.spotify.com/artist/60LMcgWPaQLRwx8dZicM3z), [Camilla Pay](https://open.spotify.com/artist/7yWnwEs8QVQL4cHlbPvwkG), [Oculus Ensemble](https://open.spotify.com/artist/5ztcfnJe9BZtxFnnEIBvYW), [Jessica Cottis](https://open.spotify.com/artist/47Slf02gu2TPZk3H1UbQJT) | [Julie Cooper: Oculus](https://open.spotify.com/album/0K3k8wYtwcI5F68FSQAgaG) | 5:05 | 2024-02-09 |  |
+| [Movement, Before All Flowers \- Edit](https://open.spotify.com/track/0v9LuPahZH8PHN86gxRHTU) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [Movement, Before All Flowers](https://open.spotify.com/album/1HrFsljwk4wUHrPPOGkSbN) | 3:39 | 2024-05-31 |  |
 | [My Father's Favourite](https://open.spotify.com/track/0LrA0EtiJsr4tDHIGw82OW) | [Patrick Doyle](https://open.spotify.com/artist/1W42coQfIlt6btgqpfJWYQ), [Tony Hymas](https://open.spotify.com/artist/6A479xP05787vKnE5MtLSG), [Robert Ziegler](https://open.spotify.com/artist/6c3mMiMnHQtu4mGWN87CFx) | [Sense & Sensibility \- Original Motion Picture Soundtrack](https://open.spotify.com/album/5cdzYLI2HbFMJsqyt028Gq) | 5:27 | 2022-02-14 |  |
 | [New Start \- From BBC Series "North & South"](https://open.spotify.com/track/50MGKn5CGI8es0itdbs851) | [Martin Phipps](https://open.spotify.com/artist/5ukRxzaJiJLe6khkJeIHOn) | [The Aftermath \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4xqXGJJjt1fyaJzHnpoqF9) | 3:41 | 2022-02-14 |  |
 | [Opening](https://open.spotify.com/track/0x1rnXl24iJl8xZFMkoyNv) | [Craig Armstrong](https://open.spotify.com/artist/526q7RxT5KA1VGeQ5GMSHO) | [Far from the Madding Crowd \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4J9mOsvXXsEy7ocReEwBBP) | 4:39 | 2022-02-14 |  |

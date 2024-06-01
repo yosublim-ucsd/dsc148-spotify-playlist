@@ -2,7 +2,7 @@
 
 ### [La Hit Liste](https://open.spotify.com/playlist/37i9dQZF1DX7LjobXS2hzX)
 
-> Voici les hits du moment\. Photo: Charlotte Cardin
+> Voici les hits du moment\. Photo: Post Malone, Morgan Wallen
 
 410 songs - 21 hr 34 min
 

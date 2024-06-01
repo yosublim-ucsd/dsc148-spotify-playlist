@@ -1485,7 +1485,7 @@
     },
     {
       "album": {
-        "name": "Energy ('05 Remix)",
+        "name": "Energy (Ewan McVicar '05 Remix)",
         "url": "https://open.spotify.com/album/2wRRQ3sFAFiNzKUFxGms8R"
       },
       "artists": [
@@ -1494,19 +1494,19 @@
           "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
         },
         {
-          "name": "Ewan McVicar",
-          "url": "https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH"
-        },
-        {
           "name": "DRAMA",
           "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
+        },
+        {
+          "name": "Ewan McVicar",
+          "url": "https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH"
         }
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 279875,
-      "name": "Energy - '05 Remix",
+      "name": "Energy - Ewan McVicar '05 Remix",
       "url": "https://open.spotify.com/track/3f6u2nwY2wgW8yq9Ith9P0"
     },
     {

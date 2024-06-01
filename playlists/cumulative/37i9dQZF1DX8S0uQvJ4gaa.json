@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "New music discovery is what we're about. Try it on for size. Cover: Tucker Wetmore",
+  "description": "New music discovery is what we're about. Try it on for size. Cover: Kameron Marlowe",
   "name": "New Boots",
   "tracks": [
     {
@@ -2372,7 +2372,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 180787,
       "name": "Bad Decisions",
       "url": "https://open.spotify.com/track/4iFTt3rRRytIkFO5VGCD8v"
@@ -2676,7 +2676,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 163894,
       "name": "Beautiful As You",
       "url": "https://open.spotify.com/track/2ObBVRY8a2lnAkNG62u9eC"
@@ -3375,6 +3375,24 @@
     },
     {
       "album": {
+        "name": "Big Blue Sky",
+        "url": "https://open.spotify.com/album/1aMW2Y4WugbGDfo5annKZw"
+      },
+      "artists": [
+        {
+          "name": "Jackson Dean",
+          "url": "https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251701,
+      "name": "Big Blue Sky",
+      "url": "https://open.spotify.com/track/3vQUQWdhChkh4LTxfqHs0O"
+    },
+    {
+      "album": {
         "name": "Big, Big Plans",
         "url": "https://open.spotify.com/album/7xVbpLEzt8IQn82IBSMPzu"
       },
@@ -3531,7 +3549,7 @@
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 158173,
+      "duration_ms": 159600,
       "name": "Blonde",
       "url": "https://open.spotify.com/track/3OyDQE1kQawm1xGhVc4uiR"
     },
@@ -3710,7 +3728,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 252080,
       "name": "Born",
       "url": "https://open.spotify.com/track/4WqPljx2MjzICrxJjnuiZB"
@@ -4294,6 +4312,24 @@
       "duration_ms": 170266,
       "name": "Bridesmaids",
       "url": "https://open.spotify.com/track/6qrJ2kxNvGey8ZEWii5teB"
+    },
+    {
+      "album": {
+        "name": "Keepin' The Lights On",
+        "url": "https://open.spotify.com/album/1vcPPMVBjcmmP7yK9XWJzf"
+      },
+      "artists": [
+        {
+          "name": "Kameron Marlowe",
+          "url": "https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191573,
+      "name": "Broke Down in a Truck",
+      "url": "https://open.spotify.com/track/3Fr6baj9NFS3f2qVF9w4ND"
     },
     {
       "album": {
@@ -5250,7 +5286,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 184173,
       "name": "Chevrolet (feat. Jelly Roll)",
       "url": "https://open.spotify.com/track/7FKAVg9SA7QYLxdVRLnKjd"
@@ -6558,7 +6594,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 211466,
       "name": "Damn Good Day To Leave",
       "url": "https://open.spotify.com/track/68kxxoYgSw8HnZMUDn2slR"
@@ -6684,7 +6720,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 231653,
       "name": "Dance Like No One\u2019s Watching",
       "url": "https://open.spotify.com/track/5FpEdufuunZqzyQbyetevf"
@@ -7504,6 +7540,28 @@
       "duration_ms": 190510,
       "name": "Dirt Roads And Jesus",
       "url": "https://open.spotify.com/track/0rAsn40XCigrz7XZNxV2pr"
+    },
+    {
+      "album": {
+        "name": "Dirt Roads Dirt",
+        "url": "https://open.spotify.com/album/0tKoOX9A1wNP2yxwihUlej"
+      },
+      "artists": [
+        {
+          "name": "Noah Hicks",
+          "url": "https://open.spotify.com/artist/32KwPw06eWXhBWBYFE2BvO"
+        },
+        {
+          "name": "Justin Moore",
+          "url": "https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192233,
+      "name": "Dirt Roads Dirt",
+      "url": "https://open.spotify.com/track/1tQG3cYnIDXlrdFPmpt0HZ"
     },
     {
       "album": {
@@ -18011,6 +18069,24 @@
     },
     {
       "album": {
+        "name": "Just To Say We Did",
+        "url": "https://open.spotify.com/album/5BJeHSoN3NyGr3WGk4urF0"
+      },
+      "artists": [
+        {
+          "name": "Kenny Chesney",
+          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155573,
+      "name": "Just To Say We Did",
+      "url": "https://open.spotify.com/track/3xq1nVP7GdWKaWsv0oZ4lT"
+    },
+    {
+      "album": {
         "name": "Keep It Simple",
         "url": "https://open.spotify.com/album/4he0QjOxLNLiDaOuVBLOMC"
       },
@@ -20722,7 +20798,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 164802,
       "name": "Matchmaker",
       "url": "https://open.spotify.com/track/1RJVjtwF6vfw0CF1HIHrlY"
@@ -21953,6 +22029,28 @@
     },
     {
       "album": {
+        "name": "Where I've Been, Isn't Where I'm Going",
+        "url": "https://open.spotify.com/album/0DLvFVIfwt3OHdK9kGeEM3"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        },
+        {
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236012,
+      "name": "My Fault (feat. Noah Cyrus)",
+      "url": "https://open.spotify.com/track/3T3sbHYwPvhTCfEeUtvbMF"
+    },
+    {
+      "album": {
         "name": "My First Beer",
         "url": "https://open.spotify.com/album/2FP7RsGlEdRVre3MfUHQOA"
       },
@@ -22627,6 +22725,24 @@
     },
     {
       "album": {
+        "name": "Never Left Me (From Twisters: The Album)",
+        "url": "https://open.spotify.com/album/7g8sRyHTnJBUuDb5VkzBP9"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191657,
+      "name": "Never Left Me (From Twisters: The Album)",
+      "url": "https://open.spotify.com/track/3IuBfjh6U8r2K0a5sP8Lvf"
+    },
+    {
+      "album": {
         "name": "Never Mine",
         "url": "https://open.spotify.com/album/0NVtxdYBHQerKSwjMSdSzS"
       },
@@ -22820,6 +22936,24 @@
       "duration_ms": 260439,
       "name": "New Boots (Pts. 1 & 2)",
       "url": "https://open.spotify.com/track/6YtCK20X07ftXeG7ukTXUV"
+    },
+    {
+      "album": {
+        "name": "New Me",
+        "url": "https://open.spotify.com/album/6iGj13T3EKBX8OSMrHBd5x"
+      },
+      "artists": [
+        {
+          "name": "Josh Ross",
+          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173203,
+      "name": "New Me",
+      "url": "https://open.spotify.com/track/5ZSbOZAsbOWi7DNfpO1vqG"
     },
     {
       "album": {
@@ -27090,6 +27224,24 @@
       "duration_ms": 177720,
       "name": "Sad Ass Country Song",
       "url": "https://open.spotify.com/track/3nn7clyurm04ygyjoRlBy6"
+    },
+    {
+      "album": {
+        "name": "Sad Girl Summer",
+        "url": "https://open.spotify.com/album/5tRiNa7N3ILmcbx0EFaSse"
+      },
+      "artists": [
+        {
+          "name": "Maddie & Tae",
+          "url": "https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178307,
+      "name": "Sad Girl Summer",
+      "url": "https://open.spotify.com/track/5KnhMcUwUatvRHzIXQEVOG"
     },
     {
       "album": {
@@ -31836,7 +31988,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 187880,
       "name": "The Devil I Know",
       "url": "https://open.spotify.com/track/6Ser4pIAKEoXok7eDJPRK7"
@@ -36286,7 +36438,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 133016,
       "name": "Whiskey Blues",
       "url": "https://open.spotify.com/track/0mVYqxsm3ReFqAuxG9Orrk"
@@ -37334,6 +37486,24 @@
       "duration_ms": 224986,
       "name": "Without You",
       "url": "https://open.spotify.com/track/34slXA5D75T5S0dwYYRd4J"
+    },
+    {
+      "album": {
+        "name": "Life With You",
+        "url": "https://open.spotify.com/album/2jNNssMjXZvOSUonhIjpn9"
+      },
+      "artists": [
+        {
+          "name": "Kelsey Hart",
+          "url": "https://open.spotify.com/artist/1WKwvWRG8MdHAwHsSv9lXb"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198373,
+      "name": "Without You In It",
+      "url": "https://open.spotify.com/track/7Ii5blW1RHgdljAxYkQDI6"
     },
     {
       "album": {

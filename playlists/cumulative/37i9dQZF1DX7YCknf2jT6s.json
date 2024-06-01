@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "New jazz for open minds. Cover: Julius Rodriguez",
+  "description": "New jazz for open minds. Cover: Lakecia Benjamin",
   "name": "State of Jazz",
   "tracks": [
     {
@@ -3693,6 +3693,24 @@
     },
     {
       "album": {
+        "name": "Joy Machine",
+        "url": "https://open.spotify.com/album/21yZgiyW6174TObtXc1MoG"
+      },
+      "artists": [
+        {
+          "name": "Dizraeli",
+          "url": "https://open.spotify.com/artist/3xjNFu3aAWJie7LQzDoYNa"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244120,
+      "name": "Blessed Love",
+      "url": "https://open.spotify.com/track/6pSHeOzu96EdyVRaqfWkge"
+    },
+    {
+      "album": {
         "name": "Blood Calls Blood",
         "url": "https://open.spotify.com/album/4DCZuJX3YAkJwsSirNLtbC"
       },
@@ -4066,6 +4084,32 @@
       "duration_ms": 298440,
       "name": "Bokeh",
       "url": "https://open.spotify.com/track/5h83KOuHLKWdNNSw6p9Byi"
+    },
+    {
+      "album": {
+        "name": "Night Reign",
+        "url": "https://open.spotify.com/album/2JdE3ilolUGhsNkW1oQfvf"
+      },
+      "artists": [
+        {
+          "name": "Arooj Aftab",
+          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        },
+        {
+          "name": "Moor Mother",
+          "url": "https://open.spotify.com/artist/4kANxfLenUobb7t5fHSrgA"
+        },
+        {
+          "name": "Joel Ross",
+          "url": "https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 374783,
+      "name": "Bolo Na (feat. Moor Mother, Joel Ross)",
+      "url": "https://open.spotify.com/track/4FQAxshBZidR2if07k021H"
     },
     {
       "album": {
@@ -4510,7 +4554,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 162555,
       "name": "Canceled Plans",
       "url": "https://open.spotify.com/track/6AoEut8ZDkb3M250iib0RR"
@@ -4682,6 +4726,28 @@
       "duration_ms": 304322,
       "name": "Catalysts",
       "url": "https://open.spotify.com/track/28GOtvGqY0OJXQLbaIRGzx"
+    },
+    {
+      "album": {
+        "name": "Brasil",
+        "url": "https://open.spotify.com/album/2IzVFjRnKrR6rFVqOLUtw7"
+      },
+      "artists": [
+        {
+          "name": "Lee Ritenour",
+          "url": "https://open.spotify.com/artist/1nDqTUspmq8IXhcEZT93iq"
+        },
+        {
+          "name": "Dave Grusin",
+          "url": "https://open.spotify.com/artist/0SPkat5bgfP5wo2kbqZIwu"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200240,
+      "name": "Catavento",
+      "url": "https://open.spotify.com/track/3i3cubvpUpy3rCfMQ4WK74"
     },
     {
       "album": {
@@ -5712,6 +5778,32 @@
       "duration_ms": 444830,
       "name": "Could We but See",
       "url": "https://open.spotify.com/track/1sytnDQJBIII1uNIiXkj87"
+    },
+    {
+      "album": {
+        "name": "Courage",
+        "url": "https://open.spotify.com/album/0NzPU1kszNvsOKQyvZt5Q0"
+      },
+      "artists": [
+        {
+          "name": "Avishai Cohen",
+          "url": "https://open.spotify.com/artist/5wu05jGsVMAFHYMYHqCB9l"
+        },
+        {
+          "name": "Roni Kaspi",
+          "url": "https://open.spotify.com/artist/12mubYgIHWEtjzaEi41bv9"
+        },
+        {
+          "name": "Guy Moskovich",
+          "url": "https://open.spotify.com/artist/3ayMZIWae6YcKu9kdj0pVK"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208155,
+      "name": "Courage",
+      "url": "https://open.spotify.com/track/2i6pMDJd8lcKpD6gOOnEsl"
     },
     {
       "album": {
@@ -9574,7 +9666,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 217151,
       "name": "Fried Bananas",
       "url": "https://open.spotify.com/track/5G7Y4WmAmniUopDRdbO8NJ"
@@ -10021,6 +10113,24 @@
     },
     {
       "album": {
+        "name": "Ghazal",
+        "url": "https://open.spotify.com/album/5LwLt6ywbA7woGTCN5Bydt"
+      },
+      "artists": [
+        {
+          "name": "Mike Casey",
+          "url": "https://open.spotify.com/artist/33KVH120xKsKhJncJcaoe2"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 408304,
+      "name": "Ghazal",
+      "url": "https://open.spotify.com/track/7zRGdpUTomkLwbBPE9FyZQ"
+    },
+    {
+      "album": {
         "name": "In The Before: Live at The Side Door",
         "url": "https://open.spotify.com/album/5SfAuw6EjGMGQr1K021Ae1"
       },
@@ -10430,7 +10540,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 104458,
       "name": "Got that?",
       "url": "https://open.spotify.com/track/3hlHFttlQkeQFNka58JINT"
@@ -12237,6 +12347,32 @@
     },
     {
       "album": {
+        "name": "Impulse",
+        "url": "https://open.spotify.com/album/2tZUClIYjgDMRNRSaqXngA"
+      },
+      "artists": [
+        {
+          "name": "Nathan-Paul",
+          "url": "https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB"
+        },
+        {
+          "name": "TyC",
+          "url": "https://open.spotify.com/artist/2VjJ70ddXIbIGaeR5h35Ry"
+        },
+        {
+          "name": "Gabe Jones",
+          "url": "https://open.spotify.com/artist/7nPkG77EHzAvH5VjGOk9EP"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259444,
+      "name": "Impulse",
+      "url": "https://open.spotify.com/track/3MxGr232aSJIzlObNN5Kw7"
+    },
+    {
+      "album": {
         "name": "In Contemplation of Clair\u2019s Scent",
         "url": "https://open.spotify.com/album/5WzvJZurKSZfBZZjundIzb"
       },
@@ -12392,6 +12528,28 @@
       "duration_ms": 303719,
       "name": "Incantation",
       "url": "https://open.spotify.com/track/1WahURQKRJs4ZNzvxOUahp"
+    },
+    {
+      "album": {
+        "name": "COLLAB",
+        "url": "https://open.spotify.com/album/6l2OobOiqSGC2964kUXgOA"
+      },
+      "artists": [
+        {
+          "name": "Hamilton De Holanda",
+          "url": "https://open.spotify.com/artist/5Bn4jYRlfMfbxVwfPDGeL8"
+        },
+        {
+          "name": "Gonzalo Rubalcaba",
+          "url": "https://open.spotify.com/artist/0qEGZBnqUgcVlTE7EEjR2F"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 466092,
+      "name": "Incompatibilidade de G\u00eanios - Instrumental",
+      "url": "https://open.spotify.com/track/0mWfwwDMAKq9jZhgCt06M9"
     },
     {
       "album": {
@@ -13680,7 +13838,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 140293,
       "name": "Kintsugi",
       "url": "https://open.spotify.com/track/5Y3LPCsFsh9XbgS0iV0xyu"
@@ -17362,7 +17520,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 247127,
       "name": "Never Gonna Leave",
       "url": "https://open.spotify.com/track/1unwiOTWvgRuUglEP0Uuso"
@@ -18122,7 +18280,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 618441,
       "name": "O.D.",
       "url": "https://open.spotify.com/track/2vUZLxMxd99KvyGkFQIRbQ"
@@ -19677,6 +19835,36 @@
     },
     {
       "album": {
+        "name": "Phoenix Reimagined / Let Go",
+        "url": "https://open.spotify.com/album/1XHRU0PxMC6GDYng4NT6Wb"
+      },
+      "artists": [
+        {
+          "name": "Lakecia Benjamin",
+          "url": "https://open.spotify.com/artist/6hvjxbUASJd6bHds2Teaul"
+        },
+        {
+          "name": "Randy Brecker",
+          "url": "https://open.spotify.com/artist/3Rsba5XTDhxUyjK4sn1wBj"
+        },
+        {
+          "name": "John Scofield",
+          "url": "https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK"
+        },
+        {
+          "name": "Jeff \"Tain\" Watts",
+          "url": "https://open.spotify.com/artist/0hZXvDnljkma4aThiBMQ6h"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 439533,
+      "name": "Phoenix Reimagined - Live",
+      "url": "https://open.spotify.com/track/4a0oJvZQ48WvvZvKuEZVBJ"
+    },
+    {
+      "album": {
         "name": "Piece of Mind",
         "url": "https://open.spotify.com/album/7tuIHvQNLrzizQXlh34KPq"
       },
@@ -20012,6 +20200,40 @@
       "duration_ms": 213150,
       "name": "Pra voc\u00ea, Ilza - Hermeto Pascoal & Grupo",
       "url": "https://open.spotify.com/track/7xtdk0DZ8FYgbw0HcHVHyi"
+    },
+    {
+      "album": {
+        "name": "Praise",
+        "url": "https://open.spotify.com/album/5gx73QhgLCAQW68yMkf3kl"
+      },
+      "artists": [
+        {
+          "name": "Anthony Branker",
+          "url": "https://open.spotify.com/artist/0VCgLs1q4XfvlCl4TQ8SG6"
+        },
+        {
+          "name": "Imagine",
+          "url": "https://open.spotify.com/artist/0ajeO3Uh8ffXQmkTRV64sM"
+        },
+        {
+          "name": "Donny McCaslin",
+          "url": "https://open.spotify.com/artist/1CS1JV6wZUIf5hbsWoiH1M"
+        },
+        {
+          "name": "Philip Dizack",
+          "url": "https://open.spotify.com/artist/2nJbrvWs3yqrNhHFOIuiFx"
+        },
+        {
+          "name": "Rudy Royston",
+          "url": "https://open.spotify.com/artist/0ILg6S11FRLlqKHKOfTJyY"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361777,
+      "name": "Praise",
+      "url": "https://open.spotify.com/track/3RghShBe2XrNRSyOPNF4Hs"
     },
     {
       "album": {
@@ -20670,6 +20892,36 @@
       "duration_ms": 313311,
       "name": "Raat Ki Rani",
       "url": "https://open.spotify.com/track/5bYvn1VEE4f4kjug81vwmE"
+    },
+    {
+      "album": {
+        "name": "RACKS",
+        "url": "https://open.spotify.com/album/4AXsTQyFATqG7y5EWvIvGj"
+      },
+      "artists": [
+        {
+          "name": "Greg Spero",
+          "url": "https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd"
+        },
+        {
+          "name": "Stixx Taylor",
+          "url": "https://open.spotify.com/artist/2eMTWZLa7eqnNsp71eM6Tg"
+        },
+        {
+          "name": "Joe Cleveland",
+          "url": "https://open.spotify.com/artist/1OREq1cp67WA7bvs7v1Ogg"
+        },
+        {
+          "name": "Dominique Xavier",
+          "url": "https://open.spotify.com/artist/08pNXT13jLN3ri7eT6pRuv"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192717,
+      "name": "RACKS",
+      "url": "https://open.spotify.com/track/6jgkTE7jGCHikzpjrl4OSV"
     },
     {
       "album": {
@@ -24214,7 +24466,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 426280,
       "name": "Stone Flower",
       "url": "https://open.spotify.com/track/3dzYiSkFi3PCTVnwv7sL3w"
@@ -25652,7 +25904,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 379447,
       "name": "The Beauty of Everyday Life",
       "url": "https://open.spotify.com/track/0XgHKvz23DMGWJfjz0JHAG"
@@ -28012,7 +28264,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 237205,
       "name": "Triptyque",
       "url": "https://open.spotify.com/track/23qDKLLjRPFyB8AHw6Zjd3"
@@ -28884,7 +29136,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 246437,
       "name": "Vale la Pena",
       "url": "https://open.spotify.com/track/5kbX87ieKKlyPfGFHdmouC"
@@ -29052,6 +29304,28 @@
       "duration_ms": 518557,
       "name": "Virgo (feat. Brandee Younger, Julius Rodriguez)",
       "url": "https://open.spotify.com/track/6sN7bFaMaaIU986NPHqlor"
+    },
+    {
+      "album": {
+        "name": "Vita",
+        "url": "https://open.spotify.com/album/4xmzTrlhKyVx4kJDynClhQ"
+      },
+      "artists": [
+        {
+          "name": "Snazzback",
+          "url": "https://open.spotify.com/artist/3bD0qDLbGmvMvbaP8vHr9e"
+        },
+        {
+          "name": "Nah Eeto",
+          "url": "https://open.spotify.com/artist/0eKY0x7zqfCOfiFR8YHEdV"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172782,
+      "name": "Vita",
+      "url": "https://open.spotify.com/track/1YPkJ8YxFYPbtHD6uCaSnG"
     },
     {
       "album": {
@@ -29838,7 +30112,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 307007,
       "name": "Whiskey",
       "url": "https://open.spotify.com/track/0fwQ9azMBpJHQ8pzDl9I9i"
@@ -31088,7 +31362,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 181000,
       "name": "\u3046\u308b\u661f\u3084\u3064\u3089\u306e\u30c6\u30fc\u30de(\u30e9\u30e0\u306e\u30e9\u30d6\u30bd\u30f3\u30b0)",
       "url": "https://open.spotify.com/track/7FmUK7lmhHZ4QWG5rLSplO"
@@ -31222,6 +31496,24 @@
       "duration_ms": 232000,
       "name": "\u5bb5\u5bb5\u96ea\u82b1",
       "url": "https://open.spotify.com/track/6iIxRqJjExIvewfqpOX8Bf"
+    },
+    {
+      "album": {
+        "name": "\u661f\u306e\u6d77\u306b\u7720\u308b\u5b9d\u77f3\u7bb1",
+        "url": "https://open.spotify.com/album/6X09lzYJoQ9C2NFiNQ2JNQ"
+      },
+      "artists": [
+        {
+          "name": "H ZETTRIO",
+          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "\u661f\u306e\u6d77\u306b\u7720\u308b\u5b9d\u77f3\u7bb1",
+      "url": "https://open.spotify.com/track/6cEYcSgw0cNwF5uCOgNBLU"
     },
     {
       "album": {

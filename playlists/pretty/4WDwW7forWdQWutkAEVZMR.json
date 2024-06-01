@@ -1,15 +1,147 @@
 {
-  "description": "Your go-to playlist for this week's hottest music featuring Bring Me The Horizon, Miley Cyrus, and more! Cover: Bring Me The Horizon",
+  "description": "Your go-to playlist for this week's hottest music featuring TREASURE, Miley Cyrus, and more! Cover: TREASURE",
   "num_followers": 8024,
   "original_name": "Columbia Records: Weekly Mix",
   "owner": {
     "name": "Columbia Records",
     "url": "https://open.spotify.com/user/columbiarecords_us"
   },
-  "snapshot_id": "AAAbcuFCE3wS874y7sOW0FQW7OjJlcvp",
+  "snapshot_id": "AAAbhdHC7Tf4r6N4FekfnQP0zmxwURKg",
   "tracks": [
     {
-      "added_at": "2024-05-24 04:59:50",
+      "added_at": "2024-05-31 15:58:17",
+      "album": {
+        "name": "KING KONG",
+        "url": "https://open.spotify.com/album/6CtujV9zK1giRw4KuCG1UD"
+      },
+      "artists": [
+        {
+          "name": "TREASURE",
+          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
+        }
+      ],
+      "duration_ms": 196221,
+      "name": "KING KONG",
+      "url": "https://open.spotify.com/track/4ZcAPS5AXNBI6aH8OMjCDF"
+    },
+    {
+      "added_at": "2024-05-31 15:58:17",
+      "album": {
+        "name": "Angels In The Sky",
+        "url": "https://open.spotify.com/album/41VlriZ3G48XNHYmoWqYSW"
+      },
+      "artists": [
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        }
+      ],
+      "duration_ms": 162210,
+      "name": "Angels In The Sky",
+      "url": "https://open.spotify.com/track/5quU0IUtPut7sZZlQ2kK54"
+    },
+    {
+      "added_at": "2024-05-31 15:58:17",
+      "album": {
+        "name": "Valedictorian [Deluxe]",
+        "url": "https://open.spotify.com/album/0HklW0u2UIH4rurxX6ML8q"
+      },
+      "artists": [
+        {
+          "name": "ian",
+          "url": "https://open.spotify.com/artist/23hzc59PkIUau13dqXx5Ef"
+        }
+      ],
+      "duration_ms": 137158,
+      "name": "Magic Johnson",
+      "url": "https://open.spotify.com/track/2qttu4WQD8xQZ9DBXdp4L5"
+    },
+    {
+      "added_at": "2024-05-31 15:58:17",
+      "album": {
+        "name": "TIED UP",
+        "url": "https://open.spotify.com/album/5ynQ4yVCht4g8b3dBn2CwG"
+      },
+      "artists": [
+        {
+          "name": "Clinton Kane",
+          "url": "https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P"
+        }
+      ],
+      "duration_ms": 143102,
+      "name": "TIED UP",
+      "url": "https://open.spotify.com/track/0D0sp36etAe94NBYV9N2Il"
+    },
+    {
+      "added_at": "2024-05-31 15:58:17",
+      "album": {
+        "name": "LAY UP",
+        "url": "https://open.spotify.com/album/3R0pXQrTfkcoMlyVINpoAV"
+      },
+      "artists": [
+        {
+          "name": "Cochise",
+          "url": "https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx"
+        }
+      ],
+      "duration_ms": 162315,
+      "name": "LAY UP",
+      "url": "https://open.spotify.com/track/76My5QFcDYRPsg6uL7vPIf"
+    },
+    {
+      "added_at": "2024-05-31 15:58:17",
+      "album": {
+        "name": "NO DEAL",
+        "url": "https://open.spotify.com/album/0qMv0sIYMoeDc2KY5K2WXl"
+      },
+      "artists": [
+        {
+          "name": "Dylan Cotrone",
+          "url": "https://open.spotify.com/artist/7cOcm6mkMpyylbKqBpk8hU"
+        }
+      ],
+      "duration_ms": 150927,
+      "name": "NO DEAL",
+      "url": "https://open.spotify.com/track/0QYlXTPd1h0HzQtrzQKufd"
+    },
+    {
+      "added_at": "2024-05-31 15:58:17",
+      "album": {
+        "name": "Mad At Me (feat. Lil Tony Official)",
+        "url": "https://open.spotify.com/album/6MivTxCU5y2RWgGxz18Cr0"
+      },
+      "artists": [
+        {
+          "name": "Glokk40Spaz",
+          "url": "https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W"
+        },
+        {
+          "name": "Lil Tony Official",
+          "url": "https://open.spotify.com/artist/4ix2z6eBWQ6MeihaX04mB6"
+        }
+      ],
+      "duration_ms": 136700,
+      "name": "Mad At Me (feat. Lil Tony Official)",
+      "url": "https://open.spotify.com/track/5r4Yov7itu9I0Ybx7ScoG0"
+    },
+    {
+      "added_at": "2024-05-31 15:58:17",
+      "album": {
+        "name": "Dirt On Us",
+        "url": "https://open.spotify.com/album/6tvUq3lJ1nVe3taTIREnDS"
+      },
+      "artists": [
+        {
+          "name": "Alli Walker",
+          "url": "https://open.spotify.com/artist/7nspbN0Rr5jTKLOqJoUnPj"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "Dirt On Us",
+      "url": "https://open.spotify.com/track/1gv7dH35aQjmfvdrSzphws"
+    },
+    {
+      "added_at": "2024-05-31 15:58:17",
       "album": {
         "name": "POST HUMAN: NeX GEn",
         "url": "https://open.spotify.com/album/1k7OXnGQPV4zF3seDwRroD"
@@ -25,7 +157,7 @@
       "url": "https://open.spotify.com/track/7g4hIeYVk3h5qQXb9RLeXP"
     },
     {
-      "added_at": "2024-05-24 05:00:07",
+      "added_at": "2024-05-31 15:58:17",
       "album": {
         "name": "BAND4BAND (feat. Lil Baby)",
         "url": "https://open.spotify.com/album/4AzPr5SUpNF553eC1d3aRy"
@@ -45,7 +177,7 @@
       "url": "https://open.spotify.com/track/7iabz12vAuVQYyekFIWJxD"
     },
     {
-      "added_at": "2024-05-24 05:00:18",
+      "added_at": "2024-05-31 15:58:17",
       "album": {
         "name": "DARK",
         "url": "https://open.spotify.com/album/5hcEXufQsdqSx8Ik7oXXEm"
@@ -61,7 +193,7 @@
       "url": "https://open.spotify.com/track/1qlsoHIuuOsrm1qGENz4RM"
     },
     {
-      "added_at": "2024-05-24 05:00:32",
+      "added_at": "2024-05-31 15:58:17",
       "album": {
         "name": "QUIET COMPANY",
         "url": "https://open.spotify.com/album/30KjoTkl4xcROFA5PGVapI"
@@ -77,7 +209,7 @@
       "url": "https://open.spotify.com/track/35PVngoOf0GRd6t3nyaYkm"
     },
     {
-      "added_at": "2024-05-24 05:00:48",
+      "added_at": "2024-05-31 15:58:17",
       "album": {
         "name": "What Do You Believe In?",
         "url": "https://open.spotify.com/album/63c9Ujs0fkzuFi6OkDG7cP"
@@ -93,27 +225,7 @@
       "url": "https://open.spotify.com/track/2j5YYik2gA3Z7FgH3NiybN"
     },
     {
-      "added_at": "2024-05-24 05:01:04",
-      "album": {
-        "name": "Wildlife (feat. Sleepy Hallow)",
-        "url": "https://open.spotify.com/album/6NRSyW6U2CGW7eedBPyB3f"
-      },
-      "artists": [
-        {
-          "name": "Scorey",
-          "url": "https://open.spotify.com/artist/0X3nsc84A9qlFilmlWNwQb"
-        },
-        {
-          "name": "Sleepy Hallow",
-          "url": "https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV"
-        }
-      ],
-      "duration_ms": 173233,
-      "name": "Wildlife (feat. Sleepy Hallow)",
-      "url": "https://open.spotify.com/track/350eBNxmi87YdMxQvauyUQ"
-    },
-    {
-      "added_at": "2024-05-24 05:01:19",
+      "added_at": "2024-05-31 15:58:17",
       "album": {
         "name": "A Real Man",
         "url": "https://open.spotify.com/album/46Hx2WVHRs07MDXGVgzdD1"
@@ -129,59 +241,7 @@
       "url": "https://open.spotify.com/track/00SU9JMELyhWF2Kn6KQRc7"
     },
     {
-      "added_at": "2024-05-24 05:01:32",
-      "album": {
-        "name": "Soon",
-        "url": "https://open.spotify.com/album/22uGI5GA7iyFkry32zZT7t"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Sterling",
-          "url": "https://open.spotify.com/artist/2TX3RFFIqwzwDjFMJN4nV9"
-        }
-      ],
-      "duration_ms": 155675,
-      "name": "Soon",
-      "url": "https://open.spotify.com/track/3J0LxopRLLyLxOVOLouZMr"
-    },
-    {
-      "added_at": "2024-05-24 05:01:47",
-      "album": {
-        "name": "3vil Reflection",
-        "url": "https://open.spotify.com/album/17DbwNYaf8YjmLXSwiKG3M"
-      },
-      "artists": [
-        {
-          "name": "Glokk40Spaz",
-          "url": "https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W"
-        },
-        {
-          "name": "OsamaSon",
-          "url": "https://open.spotify.com/artist/0uj6QiPsPfK8ywLC7uwBE1"
-        }
-      ],
-      "duration_ms": 136281,
-      "name": "Movie",
-      "url": "https://open.spotify.com/track/56nMxD5Hz0gI2E1lDmC0kk"
-    },
-    {
-      "added_at": "2024-05-24 05:02:01",
-      "album": {
-        "name": "Hard To See",
-        "url": "https://open.spotify.com/album/0RkVJHDQpePIHNuViSKQpI"
-      },
-      "artists": [
-        {
-          "name": "Swavy",
-          "url": "https://open.spotify.com/artist/6CHTgEfOTvm5flR5Cpzw0I"
-        }
-      ],
-      "duration_ms": 177230,
-      "name": "Hard To See",
-      "url": "https://open.spotify.com/track/43MPwMnVPoGj3AIItvxdRl"
-    },
-    {
-      "added_at": "2024-05-17 05:17:34",
+      "added_at": "2024-05-31 15:58:17",
       "album": {
         "name": "Sweet Dreams",
         "url": "https://open.spotify.com/album/733zbDkHarKvnvoJkouK34"
@@ -197,7 +257,7 @@
       "url": "https://open.spotify.com/track/2PgjJ90q1zETqCX68dxgyd"
     },
     {
-      "added_at": "2024-05-17 05:18:12",
+      "added_at": "2024-05-31 15:58:17",
       "album": {
         "name": "Valedictorian",
         "url": "https://open.spotify.com/album/0HTo6u0rhojf1LLVLd9r5x"
@@ -213,7 +273,7 @@
       "url": "https://open.spotify.com/track/74mCnk2QnSTiirhkxxpRNP"
     },
     {
-      "added_at": "2024-05-13 19:56:22",
+      "added_at": "2024-05-31 15:58:17",
       "album": {
         "name": "No Hard Feelings",
         "url": "https://open.spotify.com/album/6zbTpuaPUXU6jRn6RJ0W6K"
@@ -229,7 +289,7 @@
       "url": "https://open.spotify.com/track/0Wz5dUk7mkYv57W81E5T7u"
     },
     {
-      "added_at": "2024-05-13 19:56:22",
+      "added_at": "2024-05-31 15:58:17",
       "album": {
         "name": "COWBOY CARTER",
         "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
@@ -249,7 +309,7 @@
       "url": "https://open.spotify.com/track/1UP7PXne1lIYZB5G5aiRGL"
     },
     {
-      "added_at": "2024-05-13 19:56:22",
+      "added_at": "2024-05-31 15:58:17",
       "album": {
         "name": "Unheard",
         "url": "https://open.spotify.com/album/1KZC0cX0qq6hodR9YVgh9F"
@@ -265,7 +325,7 @@
       "url": "https://open.spotify.com/track/4IadxL6BUymXlh8RCJJu7T"
     },
     {
-      "added_at": "2024-05-13 19:56:22",
+      "added_at": "2024-05-31 15:58:17",
       "album": {
         "name": "Indifferent",
         "url": "https://open.spotify.com/album/7nKCQbT5TOu7AAug3vlRLM"
@@ -281,7 +341,7 @@
       "url": "https://open.spotify.com/track/4WtllVoPahHbtOGnLvS8Wk"
     },
     {
-      "added_at": "2024-05-13 19:56:22",
+      "added_at": "2024-05-31 15:58:17",
       "album": {
         "name": "Karma",
         "url": "https://open.spotify.com/album/0XSC4BVMGrT5ewWnpIcwak"
@@ -297,7 +357,7 @@
       "url": "https://open.spotify.com/track/2uqxsofWmgRT0ekghgy3ln"
     },
     {
-      "added_at": "2024-05-13 19:56:22",
+      "added_at": "2024-05-31 15:58:17",
       "album": {
         "name": "Damn Near Normal",
         "url": "https://open.spotify.com/album/3lhyhLiN82xxpLH85BCGz7"
@@ -313,7 +373,7 @@
       "url": "https://open.spotify.com/track/56eB13MUQGCQhsKn8tNP9x"
     },
     {
-      "added_at": "2024-05-13 19:56:22",
+      "added_at": "2024-05-31 15:58:17",
       "album": {
         "name": "Cold",
         "url": "https://open.spotify.com/album/6dSayYt3E6jPTp66PcXsrI"
@@ -329,7 +389,7 @@
       "url": "https://open.spotify.com/track/3yTxDUuueSjhtsK1ea3Lbp"
     },
     {
-      "added_at": "2024-05-13 19:56:22",
+      "added_at": "2024-05-31 15:58:17",
       "album": {
         "name": "SPINE",
         "url": "https://open.spotify.com/album/0Cid17L0G17hI9bmEuR5G2"
@@ -345,7 +405,7 @@
       "url": "https://open.spotify.com/track/6Stz1dIY7OD61gU7SdVR22"
     },
     {
-      "added_at": "2024-05-13 19:56:22",
+      "added_at": "2024-05-31 15:58:17",
       "album": {
         "name": "Careful What You Wish For (the doctor said to)",
         "url": "https://open.spotify.com/album/3rmfOGqqTeqDhwxPMNELz8"
@@ -361,7 +421,7 @@
       "url": "https://open.spotify.com/track/1Tob6YkutQ6jjWKzLO4gkr"
     },
     {
-      "added_at": "2024-05-13 19:56:22",
+      "added_at": "2024-05-31 15:58:17",
       "album": {
         "name": "Your Love (Diplo Remix)",
         "url": "https://open.spotify.com/album/7F4BBbbkJKAa0xxGKpzcvV"
@@ -381,7 +441,7 @@
       "url": "https://open.spotify.com/track/4R3BIyY00WxYVZOmgrFp1Y"
     },
     {
-      "added_at": "2024-05-13 19:56:22",
+      "added_at": "2024-05-31 15:58:17",
       "album": {
         "name": "IVE SWITCH",
         "url": "https://open.spotify.com/album/7z61DsZtWO2S4nC5xd0b9p"
@@ -397,7 +457,7 @@
       "url": "https://open.spotify.com/track/4gOwpU4kMZZNDWkoHYUj1Z"
     },
     {
-      "added_at": "2024-05-13 19:56:22",
+      "added_at": "2024-05-31 15:58:17",
       "album": {
         "name": "GOOD AS YOU",
         "url": "https://open.spotify.com/album/4yfCVv9SfcDILYDYwEVirh"
@@ -413,7 +473,7 @@
       "url": "https://open.spotify.com/track/1nic0oEInWjHWGS8OGHhpr"
     },
     {
-      "added_at": "2024-05-13 19:56:22",
+      "added_at": "2024-05-31 15:58:17",
       "album": {
         "name": "You Need Me Now? (feat. Sabrina Carpenter)",
         "url": "https://open.spotify.com/album/26H0jinpdi0RSrZq90fNMF"
@@ -433,7 +493,7 @@
       "url": "https://open.spotify.com/track/3zPGZBbZEGqu7eY7R0NkqI"
     },
     {
-      "added_at": "2024-05-13 19:56:22",
+      "added_at": "2024-05-31 15:58:17",
       "album": {
         "name": "Vision Remix (feat. Chl\u00f6e)",
         "url": "https://open.spotify.com/album/1cdHnVkU4QloSiH06bI8pA"
@@ -453,7 +513,7 @@
       "url": "https://open.spotify.com/track/43ZEiGYEJ5vcmjlBwanwyW"
     },
     {
-      "added_at": "2024-05-13 19:56:22",
+      "added_at": "2024-05-31 15:58:17",
       "album": {
         "name": "Evergreen (feat. Ilsey)",
         "url": "https://open.spotify.com/album/4UADiMaIhp97xjobxzamyJ"
@@ -473,7 +533,7 @@
       "url": "https://open.spotify.com/track/05CX3lk010anf94Wq3NBIa"
     },
     {
-      "added_at": "2024-05-13 19:56:22",
+      "added_at": "2024-05-31 15:58:17",
       "album": {
         "name": "COWBOY CARTER",
         "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
@@ -489,7 +549,7 @@
       "url": "https://open.spotify.com/track/7wLShogStyDeZvL0a6daN5"
     },
     {
-      "added_at": "2024-05-13 19:56:22",
+      "added_at": "2024-05-31 15:58:17",
       "album": {
         "name": "Boy Bye",
         "url": "https://open.spotify.com/album/5Z3LNuIi0IWLJCnIn4OkdG"
@@ -505,7 +565,7 @@
       "url": "https://open.spotify.com/track/4vZqE8iZ1wYFqlmeOB72nh"
     },
     {
-      "added_at": "2024-05-13 19:56:22",
+      "added_at": "2024-05-31 15:58:17",
       "album": {
         "name": "Forget About Us",
         "url": "https://open.spotify.com/album/6POYLvI2aROBdhnJCKw2DD"
@@ -521,7 +581,7 @@
       "url": "https://open.spotify.com/track/3wmnP7CY38ajyGfZUZ6vce"
     },
     {
-      "added_at": "2024-05-13 19:56:22",
+      "added_at": "2024-05-31 15:58:17",
       "album": {
         "name": "beat up car",
         "url": "https://open.spotify.com/album/4SOi9qG5Lv1vDedaGGQlwu"
@@ -537,7 +597,7 @@
       "url": "https://open.spotify.com/track/7FBsCEfKsrj5hbcn5PZDyP"
     },
     {
-      "added_at": "2024-05-13 19:56:22",
+      "added_at": "2024-05-31 15:58:17",
       "album": {
         "name": "Only God Was Above Us",
         "url": "https://open.spotify.com/album/1W04wu2W4OIcuiNc5AMB3y"
@@ -553,7 +613,7 @@
       "url": "https://open.spotify.com/track/0NiaHPlgDp7081zSqXuULS"
     },
     {
-      "added_at": "2024-05-13 19:56:22",
+      "added_at": "2024-05-31 15:58:17",
       "album": {
         "name": "Doctor (Work It Out) [feat. Miley Cyrus]",
         "url": "https://open.spotify.com/album/2kJunH6dfHcjJa0lxZbRKr"
@@ -573,7 +633,7 @@
       "url": "https://open.spotify.com/track/4f9wNNZET9wH7eMBgONd3d"
     },
     {
-      "added_at": "2024-05-13 19:56:22",
+      "added_at": "2024-05-31 15:58:17",
       "album": {
         "name": "I Will",
         "url": "https://open.spotify.com/album/17YWNPXw7xDsLqC6ES3Ysj"
@@ -589,7 +649,7 @@
       "url": "https://open.spotify.com/track/27sKtH0PZpASkN8H3ZJOQf"
     },
     {
-      "added_at": "2024-05-13 19:56:22",
+      "added_at": "2024-05-31 15:58:17",
       "album": {
         "name": "Dancing with Myself",
         "url": "https://open.spotify.com/album/2qVBhf1Xsqm806dtsPXb0F"
@@ -605,7 +665,7 @@
       "url": "https://open.spotify.com/track/5Ds6UPLXf9wRe1ly0N8o7o"
     },
     {
-      "added_at": "2024-05-13 19:56:22",
+      "added_at": "2024-05-31 15:58:17",
       "album": {
         "name": "Turn the Lights Back On",
         "url": "https://open.spotify.com/album/4csPGLYTb7kt85U377UCuC"
@@ -621,7 +681,7 @@
       "url": "https://open.spotify.com/track/1KTemUlHzS0SvVtTjY1NTw"
     },
     {
-      "added_at": "2024-05-13 19:56:22",
+      "added_at": "2024-05-31 15:58:17",
       "album": {
         "name": "Airplane Tickets",
         "url": "https://open.spotify.com/album/6xEpW40GaWcE663h7cA3Ws"
@@ -645,7 +705,7 @@
       "url": "https://open.spotify.com/track/2v1FKs8SR6tYEYREKM6MNN"
     },
     {
-      "added_at": "2024-05-13 19:56:22",
+      "added_at": "2024-05-31 15:58:17",
       "album": {
         "name": "BLEED",
         "url": "https://open.spotify.com/album/1rmqaos4sc4N5cSqe1ytiZ"

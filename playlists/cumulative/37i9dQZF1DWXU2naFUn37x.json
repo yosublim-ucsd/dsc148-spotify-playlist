@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Solo il meglio dello street rap italiano. Cover: Shiva",
+  "description": "Solo il meglio dello street rap italiano. Cover: Baby Gang",
   "name": "Street Culto",
   "tracks": [
     {
@@ -1186,7 +1186,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 180000,
       "name": "BAD BITCH (feat. Niky Savage)",
       "url": "https://open.spotify.com/track/25m72KhnYc55RqyvE2bydZ"
@@ -3327,6 +3327,28 @@
     },
     {
       "album": {
+        "name": "DO YOU RINGO (feat. Don Pero)",
+        "url": "https://open.spotify.com/album/5WoVwg9eq5XM8JYSggvEi0"
+      },
+      "artists": [
+        {
+          "name": "Bello Figo",
+          "url": "https://open.spotify.com/artist/59rqdbDiB9oXuZggah1syh"
+        },
+        {
+          "name": "Don Pero",
+          "url": "https://open.spotify.com/artist/2KLafS2cc489GVGuYm5aE2"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206616,
+      "name": "DO YOU RINGO (feat. Don Pero)",
+      "url": "https://open.spotify.com/track/7tXS3GFgQg880jnVgjV6l9"
+    },
+    {
+      "album": {
         "name": "Botox",
         "url": "https://open.spotify.com/album/1CjtjrWyjx2eT5OejciTVr"
       },
@@ -3498,6 +3520,24 @@
       "duration_ms": 176218,
       "name": "Drouba",
       "url": "https://open.spotify.com/track/0cU27Hge710bbX3BzDi4Io"
+    },
+    {
+      "album": {
+        "name": "Dry",
+        "url": "https://open.spotify.com/album/3xSzEtFrV2UqBhgNANpor1"
+      },
+      "artists": [
+        {
+          "name": "Zefe",
+          "url": "https://open.spotify.com/artist/3yNjXWi2WswJfuBZSouJRH"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157346,
+      "name": "Dry",
+      "url": "https://open.spotify.com/track/4zUPjjI82V3JlnHfMt2w6v"
     },
     {
       "album": {
@@ -5581,6 +5621,24 @@
     },
     {
       "album": {
+        "name": "KILL AU MIC",
+        "url": "https://open.spotify.com/album/4TOPISag2zNvXTVN0voCoo"
+      },
+      "artists": [
+        {
+          "name": "Nabi",
+          "url": "https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155323,
+      "name": "KILL AU MIC",
+      "url": "https://open.spotify.com/track/6QqG5u7yw2wHVWpiqJVmLm"
+    },
+    {
+      "album": {
         "name": "La Divina Commedia (Deluxe)",
         "url": "https://open.spotify.com/album/21A98jXqZkeJNNv8fcFTaD"
       },
@@ -6870,7 +6928,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 185041,
       "name": "Milly (feat. Sfera Ebbasta)",
       "url": "https://open.spotify.com/track/0ksqA7waEGNDkGkmRz0Gwj"
@@ -9037,6 +9095,28 @@
     },
     {
       "album": {
+        "name": "Regionale (feat. Disme)",
+        "url": "https://open.spotify.com/album/41AVJvVTeRc0yK3iJkZrZ8"
+      },
+      "artists": [
+        {
+          "name": "22simba",
+          "url": "https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7"
+        },
+        {
+          "name": "Disme",
+          "url": "https://open.spotify.com/artist/0CXnO9kUawdDjzToSqCC3p"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152992,
+      "name": "Regionale (feat. Disme)",
+      "url": "https://open.spotify.com/track/4P8Jdoeq2JvtZJXJnqW5B8"
+    },
+    {
+      "album": {
         "name": "Responsabile (feat. Nerissima Serpe)",
         "url": "https://open.spotify.com/album/7tyFbNorSj6F0n9zUl25hO"
       },
@@ -9174,6 +9254,32 @@
       "duration_ms": 163823,
       "name": "Rotto",
       "url": "https://open.spotify.com/track/5qfriBxu82O0SlUc3ilMqJ"
+    },
+    {
+      "album": {
+        "name": "CAPO DELLA JERSEY",
+        "url": "https://open.spotify.com/album/0MLAg2GbEnu5DB5mQE6Oa1"
+      },
+      "artists": [
+        {
+          "name": "Mikush",
+          "url": "https://open.spotify.com/artist/3eBlbhY21Q1L6xwbVMCQa1"
+        },
+        {
+          "name": "Timon",
+          "url": "https://open.spotify.com/artist/4pQprwhppwLQDnYkXVNCHp"
+        },
+        {
+          "name": "Paky",
+          "url": "https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148852,
+      "name": "ROZZANO JERSEY (feat. Paky)",
+      "url": "https://open.spotify.com/track/6NGePboJSoe60i9s3MTngC"
     },
     {
       "album": {
@@ -10866,8 +10972,8 @@
           "url": "https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO"
         },
         {
-          "name": "FT kings",
-          "url": "https://open.spotify.com/artist/2jq6rrOegUcrh5evVOfqnK"
+          "name": "FT Kings",
+          "url": "https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq"
         }
       ],
       "date_added": "2024-05-16",
@@ -11483,6 +11589,28 @@
     },
     {
       "album": {
+        "name": "BALORDO (Deluxe)",
+        "url": "https://open.spotify.com/album/7uHUZgUJnxloRFB2prwMQB"
+      },
+      "artists": [
+        {
+          "name": "Sacky",
+          "url": "https://open.spotify.com/artist/1sybJwRGo9WiiqcZLzzAbS"
+        },
+        {
+          "name": "Neima Ezza",
+          "url": "https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175614,
+      "name": "VORREI (feat. Neima Ezza)",
+      "url": "https://open.spotify.com/track/0dtyvuccg5VBKvrz8J90PL"
+    },
+    {
+      "album": {
         "name": "V\u00e9rit\u00e9",
         "url": "https://open.spotify.com/album/3G6ekX43dDTjzjPbO50N5m"
       },
@@ -11538,6 +11666,28 @@
       "duration_ms": 140571,
       "name": "Walkie Talkie",
       "url": "https://open.spotify.com/track/34PkzeCZ8fZj9jBMMV1gqa"
+    },
+    {
+      "album": {
+        "name": "Walkie Talkie (Red Bull 64 Bars)",
+        "url": "https://open.spotify.com/album/5HxgBRU0RWJkF2x1m69CyY"
+      },
+      "artists": [
+        {
+          "name": "Rhove",
+          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
+        },
+        {
+          "name": "Madfingerz",
+          "url": "https://open.spotify.com/artist/4VmOlyJsnQB93ZIGMO2XWo"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156444,
+      "name": "Walkie Talkie (Red Bull 64 Bars)",
+      "url": "https://open.spotify.com/track/1qlbKS6AW1AzuA0DV2UdwR"
     },
     {
       "album": {

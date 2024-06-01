@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWN1IuaY8rd.md) - [plain]
 
 > Enjoy the world of “Black Clover”! 魔法帝を目指す少年たちの物語を歴代OP/ED、サントラ曲でお楽しみください。© 田畠裕基／集英社・テレビ東京・ブラッククローバー製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,911 likes - 40 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,084 likes - 40 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWN1IuaY8rd.md) - [plain]
 | 3 | [BEAUTIFUL](https://open.spotify.com/track/2qTBVFldq01eNa40hin4FV) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [BEAUTIFUL](https://open.spotify.com/album/3Z5BxpuPKqQzLWuPl2OnMG) | 3:50 |
 | 4 | [永遠に光れ \(Everlasting Shine\)](https://open.spotify.com/track/3zLCX1TGMpsA67cW2pq6ut) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [DRAMA](https://open.spotify.com/album/74nwjBBoKHQOP6DDs71Zwf) | 3:11 |
 | 5 | [アンサー](https://open.spotify.com/track/0ud4VAfTH1AOb904kWOTzJ) | [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4) | [花と解答](https://open.spotify.com/album/1JavH0LMoyFjKlTUKl7mA7) | 3:51 |
-| 6 | [Black Catcher](https://open.spotify.com/track/5RXmLhscstsdvWPN0XtUa0) | [ VK Blanka](https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d) | [Black Catcher](https://open.spotify.com/album/55JDu3ogkzlmUKgJt3nSd3) | 3:15 |
+| 6 | [Black Catcher](https://open.spotify.com/track/5RXmLhscstsdvWPN0XtUa0) | [VK Blanka](https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d) | [Black Catcher](https://open.spotify.com/album/55JDu3ogkzlmUKgJt3nSd3) | 3:15 |
 | 7 | [New Page](https://open.spotify.com/track/2gApWgkuisXedOcS9Tligs) | [INTERSECTION](https://open.spotify.com/artist/5yzLjgtXt52UUcOO0y88ma) | [New Page](https://open.spotify.com/album/3IqJDQ3RL9oV6a91m9FCZE) | 4:30 |
 | 8 | [人生は戦場だ \- Prod.by ats\-](https://open.spotify.com/track/3unpJWhOgxh0ayjWOTnydA) | [安斉かれん](https://open.spotify.com/artist/69hIxBVhw5zdCXv01W3Mbd) | [人生は戦場だ \(Prod.by ats\-\)](https://open.spotify.com/album/3fwXcwPrZVClE3lLXpUBcH) | 4:24 |
 | 9 | [RiGHT NOW](https://open.spotify.com/track/1mK1HDtie9WU6DAw3VAC4r) | [EMPiRE](https://open.spotify.com/artist/1APhKAeROy02DedkHnbrXb) | [RiGHT NOW](https://open.spotify.com/album/3CDr5PP8emblEqbOdfcCtE) | 3:32 |
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWN1IuaY8rd.md) - [plain]
 | 16 | [PAiNT it BLACK](https://open.spotify.com/track/4S3aU06ISAWFb0hIdZ4WL8) | [BiSH](https://open.spotify.com/artist/0ebinq3ZTOQAJNag4sBTJj) | [PAiNT it BLACK](https://open.spotify.com/album/397tzAaw1SrdHdfzwfFX8Q) | 3:50 |
 | 17 | [不退転 \- アスタのテーマ](https://open.spotify.com/track/79KnY1LVBsQ5Z28btG5Beu) | [関美奈子](https://open.spotify.com/artist/4hzUKfpdzsxgI6xUFe6cT9) | [ブラッククローバー ミュージックコレクションvol.1](https://open.spotify.com/album/4sVjv2SxDjhjN9G1TbgLP4) | 1:53 |
 | 18 | [Amazing Dreams](https://open.spotify.com/track/3XkODQB4J2EQIOVKIhXp56) | [SWANKY DANK](https://open.spotify.com/artist/4l96NtYOUSEKXTUxsyKxtt) | [Amazing Dreams](https://open.spotify.com/album/2RRu7VV3TPkZXUOg8sSs7i) | 4:18 |
-| 19 | [Black Rover](https://open.spotify.com/track/0OGw7V8wAI6OsZIQ12JkTP) | [ VK Blanka](https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d) | [wizard](https://open.spotify.com/album/5WiacWoGjt3yMoK8vtQ0tz) | 3:29 |
+| 19 | [Black Rover](https://open.spotify.com/track/0OGw7V8wAI6OsZIQ12JkTP) | [VK Blanka](https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d) | [wizard](https://open.spotify.com/album/5WiacWoGjt3yMoK8vtQ0tz) | 3:29 |
 | 20 | [Black to the dreamlight](https://open.spotify.com/track/3lsNKlSXqfctHBNFGOLVTE) | [EMPiRE](https://open.spotify.com/artist/1APhKAeROy02DedkHnbrXb) | [THE EMPiRE STRiKES START!!](https://open.spotify.com/album/2qDXBi8VyuTID8Q8ALI0BK) | 5:46 |
 | 21 | [おかえり](https://open.spotify.com/track/2wbsecy8tvh4TbRwsQALjI) | [関美奈子](https://open.spotify.com/artist/4hzUKfpdzsxgI6xUFe6cT9) | [ブラッククローバー ミュージックコレクションvol.1](https://open.spotify.com/album/4sVjv2SxDjhjN9G1TbgLP4) | 2:47 |
 | 22 | [Guess Who Is Back](https://open.spotify.com/track/4lBliLm5ufCBNPlCzpvrQB) | [Kumi Koda](https://open.spotify.com/artist/2mGYHril2LuZodRtTX06BC) | [DNA](https://open.spotify.com/album/6clP6HKzALC37Aoas4zX8B) | 3:26 |

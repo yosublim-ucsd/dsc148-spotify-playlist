@@ -4,7 +4,7 @@
 
 > Funky & groovy tunes for poolside chilling.
 
-349 songs - 20 hr 48 min
+351 songs - 20 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Breeze \- Remix](https://open.spotify.com/track/2orDjs0U3dgK0anh6M7QAd) | [Kay Slice](https://open.spotify.com/artist/1mPNT5YwLcCKfjdTwOfSC8), [Bora](https://open.spotify.com/artist/5jedSTtBRn1JoOsIop4A6t) | [Breeze \(Remix\)](https://open.spotify.com/album/7K9N5hcPwPmEjhYZHhqA45) | 2:43 | 2022-09-09 | 2024-05-10 |
 | [Burning Up](https://open.spotify.com/track/1ZCtCHRB0FG0khp20Oq4hh) | [Joshua Henry](https://open.spotify.com/artist/2WHbNs4WT5ZN7rbjDqbyEE) | [Burning Up](https://open.spotify.com/album/0apr7K3amwjcyrTeRA2fKV) | 3:18 | 2024-04-10 |  |
 | [But, I'm Tied](https://open.spotify.com/track/416qwFAr8F4MJ7PzEJB1xy) | [Joshua J](https://open.spotify.com/artist/2AZupS7RiLA0sh5uzwsr2l) | [But, I'm Tied](https://open.spotify.com/album/5OJiEIOVS1vJiLDW7oRpvo) | 2:30 | 2022-09-09 |  |
+| [Cactus Water](https://open.spotify.com/track/4mSnIJwKtvmhZHRzBItBQ6) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Cactus Water](https://open.spotify.com/album/0Hig8AAHnlRhJx6yIKdbQR) | 3:24 | 2024-05-31 |  |
 | [Californication \(Feels Like I'm Falling In Love\)](https://open.spotify.com/track/16xOOeiaf3Hn5Rpn4l9QIY) | [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc) | [Lush Life](https://open.spotify.com/album/4Z3clJrBFpORXTaP6D5t2v) | 3:00 | 2023-12-08 | 2024-04-19 |
 | [Californication \(Feels Like I'm Falling In Love\)](https://open.spotify.com/track/3J2k1thSgkkd3BOZSZPEuW) | [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc) | [Californication \(Feels Like I'm Falling In Love\)](https://open.spotify.com/album/1OY6knghBPwPAdfh0AoIQe) | 3:00 | 2022-09-09 |  |
 | [Call Me](https://open.spotify.com/track/0DMIyfegCv93GER37aHR4E) | [TESSEL](https://open.spotify.com/artist/4Q4DrlJOGIGwIq0OvPd69A) | [Call Me](https://open.spotify.com/album/2EAoeBk0yH5I6kVMaXJCV0) | 3:18 | 2022-10-27 | 2024-05-10 |
@@ -351,6 +352,7 @@
 | [What Do You Say \(Move It Baby\)](https://open.spotify.com/track/1Yd7meWF4xNR13vys5IpUh) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [PJ](https://open.spotify.com/artist/4O36cq71Cq7NazopFLBMmb) | [A Beautiful Revolution \(Pt 1\)](https://open.spotify.com/album/1ox4vPb5vQvWwATPX8RTZh) | 4:02 | 2022-09-09 | 2023-10-05 |
 | [When It All Falls Down](https://open.spotify.com/track/3lvj20MikepdxKpadT7mBF) | [Selah Sue](https://open.spotify.com/artist/5Oc4knEQaid8K7AFqO5lHu) | [Persona \(Deluxe\)](https://open.spotify.com/album/6DBFehDJdkqSMBdoIl9YaB) | 2:27 | 2024-01-18 |  |
 | [When It's Over](https://open.spotify.com/track/2ucmSB9k1pRlzmiEcZctiy) | [Stirmouth](https://open.spotify.com/artist/46VqMlFxczG8TFPHAFnC4W) | [When It's Over](https://open.spotify.com/album/3xVQrC9JZJiUF6EHVkLVbr) | 2:33 | 2024-03-21 |  |
+| [Without You](https://open.spotify.com/track/0r8vxCY5ZP9Q49FJBzwdH0) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [For All Time](https://open.spotify.com/album/4U6jJK40mq3OXnvgjFqukJ) | 2:26 | 2024-05-31 |  |
 | [Workin' All Day](https://open.spotify.com/track/1R5dbZKMJyoBziVfDV76dU) | [LAZA](https://open.spotify.com/artist/6pdDxUY3ffYATztOUou9lq) | [Reflections EP](https://open.spotify.com/album/2KU6x6XydX45h8tfaPDVff) | 5:58 | 2022-12-05 | 2024-03-21 |
 | [You 2 Thank](https://open.spotify.com/track/0r73aRdmx8uVeUzL6yYzSC) | [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [You 2 Thank](https://open.spotify.com/album/770NPIetbye6vd31ZDuG09) | 2:44 | 2023-12-08 |  |
 | [Young Hearts](https://open.spotify.com/track/6EvN0yVTeZDOp7Ltuea2uo) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Young Hearts](https://open.spotify.com/album/3CyqH3gtPaREjTbtLnPDAk) | 2:39 | 2023-01-12 | 2024-01-23 |

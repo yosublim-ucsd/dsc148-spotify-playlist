@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-15",
-  "description": "Boss music for boss people. Cover: Corella",
+  "description": "Boss music for boss people. Cover: Dutch Criminal Record",
   "name": "Proper Belters",
   "tracks": [
     {
@@ -124,7 +124,7 @@
       ],
       "date_added": "2024-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 228881,
       "name": "All You'll Ever Be",
       "url": "https://open.spotify.com/track/55EIz1KqJdfTqZ5lZFNKGX"
@@ -268,7 +268,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 221389,
       "name": "Baggio",
       "url": "https://open.spotify.com/track/56xBkDSJfpuWbQfRs9gVxw"
@@ -661,6 +661,24 @@
     },
     {
       "album": {
+        "name": "Cartwheels",
+        "url": "https://open.spotify.com/album/08plypKSnTYVYtGUSSMxUN"
+      },
+      "artists": [
+        {
+          "name": "Soft Launch",
+          "url": "https://open.spotify.com/artist/4hq1lrK8XlrErNZ3xs3586"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124013,
+      "name": "Cartwheels",
+      "url": "https://open.spotify.com/track/3tHyJBRSh4B8zwxmDNPVbf"
+    },
+    {
+      "album": {
         "name": "Cavalryman",
         "url": "https://open.spotify.com/album/1DtKTmCjirkrY5hvcObsGt"
       },
@@ -874,6 +892,24 @@
       "duration_ms": 206557,
       "name": "City Streets",
       "url": "https://open.spotify.com/track/6zcW5iHtkhBEuzpTLEit16"
+    },
+    {
+      "album": {
+        "name": "Close Call",
+        "url": "https://open.spotify.com/album/2TL6nCxuLh7aW6bVUtKr50"
+      },
+      "artists": [
+        {
+          "name": "Gurriers",
+          "url": "https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163826,
+      "name": "Close Call",
+      "url": "https://open.spotify.com/track/5qwCtK5w9yoc19ZvlWw4zY"
     },
     {
       "album": {
@@ -1486,7 +1522,7 @@
       ],
       "date_added": "2023-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 225087,
       "name": "Fickle Fran (feat. Billy Bragg)",
       "url": "https://open.spotify.com/track/0mX9xhRMwmx6qvqRzHLXlj"
@@ -1522,7 +1558,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 258889,
       "name": "Fly Away",
       "url": "https://open.spotify.com/track/42ryTZsxvCHyo5fYsnt7cD"
@@ -1652,6 +1688,24 @@
       "duration_ms": 254379,
       "name": "Full Round Table",
       "url": "https://open.spotify.com/track/2mX022csmPILfLhGGwctqn"
+    },
+    {
+      "album": {
+        "name": "Gaslight",
+        "url": "https://open.spotify.com/album/6Trkgc0inzePZjY1R6flBi"
+      },
+      "artists": [
+        {
+          "name": "Dutch Criminal Record",
+          "url": "https://open.spotify.com/artist/5h6KJPKB8cSVJTWZhKAZoT"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207538,
+      "name": "Gaslight",
+      "url": "https://open.spotify.com/track/0Ow0xBXS5g4q7vYvdcZIqi"
     },
     {
       "album": {
@@ -1846,7 +1900,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 197485,
       "name": "Happy Cars",
       "url": "https://open.spotify.com/track/00yseVGAUk5VMh9OD4BSRv"
@@ -2206,7 +2260,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 141265,
       "name": "I Let Go",
       "url": "https://open.spotify.com/track/6gJkGHGvqikDZbsQXUo2Id"
@@ -2880,7 +2934,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 174829,
       "name": "little victories",
       "url": "https://open.spotify.com/track/18YO4r2xH4uayIv4qKwsTl"
@@ -3046,6 +3100,24 @@
       "duration_ms": 177433,
       "name": "MESSED UP KIDS",
       "url": "https://open.spotify.com/track/5WyEcYikAbxOcNW4TSvVgP"
+    },
+    {
+      "album": {
+        "name": "Midas",
+        "url": "https://open.spotify.com/album/09kwvU6IzvXzqZhmIqjT2R"
+      },
+      "artists": [
+        {
+          "name": "Wunderhorse",
+          "url": "https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138506,
+      "name": "Midas",
+      "url": "https://open.spotify.com/track/2FhyTzw49NtYw29JEFvdu2"
     },
     {
       "album": {
@@ -3391,6 +3463,24 @@
     },
     {
       "album": {
+        "name": "You Can't Put A Price On Fun",
+        "url": "https://open.spotify.com/album/3ypNothOPxns9O8DIJubYb"
+      },
+      "artists": [
+        {
+          "name": "Chloe Slater",
+          "url": "https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200449,
+      "name": "Price On Fun",
+      "url": "https://open.spotify.com/track/3RVdfN1q7TMQKywRmtfhdD"
+    },
+    {
+      "album": {
         "name": "Propaganda",
         "url": "https://open.spotify.com/album/4DypGkmzZGw3chFK6Zh3Pr"
       },
@@ -3424,6 +3514,24 @@
       "duration_ms": 195767,
       "name": "Puppy",
       "url": "https://open.spotify.com/track/6lKPZsX33G9uTJ3mDU3pVB"
+    },
+    {
+      "album": {
+        "name": "Quality Pints",
+        "url": "https://open.spotify.com/album/6xDXc50MhkzkXi3rEDlocd"
+      },
+      "artists": [
+        {
+          "name": "The Bug Club",
+          "url": "https://open.spotify.com/artist/7eiTMbuHYUPjrAMjIhAVDB"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138760,
+      "name": "Quality Pints",
+      "url": "https://open.spotify.com/track/2gzR9HTEv8wOiaOuJcYwsS"
     },
     {
       "album": {
@@ -3679,6 +3787,24 @@
     },
     {
       "album": {
+        "name": "Sinner",
+        "url": "https://open.spotify.com/album/7bP6iLlQ2LkW7tnq2Q1vxt"
+      },
+      "artists": [
+        {
+          "name": "The Last Dinner Party",
+          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176707,
+      "name": "Sinner",
+      "url": "https://open.spotify.com/track/4fBEzQfcHgiSQFOF6gXasu"
+    },
+    {
+      "album": {
         "name": "Do It Differently",
         "url": "https://open.spotify.com/album/5mi8hQT8Y4RbfSu8l6zaws"
       },
@@ -3762,7 +3888,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 199513,
       "name": "somebody to talk about",
       "url": "https://open.spotify.com/track/5yzPeajLIddrlWJeD7HAuz"
@@ -3805,6 +3931,24 @@
     },
     {
       "album": {
+        "name": "Speak Up",
+        "url": "https://open.spotify.com/album/6AkqY69DtCP20y2yd6YmZG"
+      },
+      "artists": [
+        {
+          "name": "The Coronas",
+          "url": "https://open.spotify.com/artist/2tppd6KkhK4ULAd217Ecq1"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216676,
+      "name": "Speak Up",
+      "url": "https://open.spotify.com/track/7HY1G4kU9fqjjlHJIMgbCt"
+    },
+    {
+      "album": {
         "name": "Spirit Folio",
         "url": "https://open.spotify.com/album/6qAUxmEqxdEYpYTmlNkqN4"
       },
@@ -3816,7 +3960,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 244838,
       "name": "Spirit Folio",
       "url": "https://open.spotify.com/track/6N2yszPeZBE2SAhZEgKIjH"
@@ -3863,6 +4007,24 @@
     },
     {
       "album": {
+        "name": "Miracle",
+        "url": "https://open.spotify.com/album/7DkhdPN2rSpYG0tXqDljIh"
+      },
+      "artists": [
+        {
+          "name": "Tors",
+          "url": "https://open.spotify.com/artist/41dCbpok7A4uyNqbo3VVZ0"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224200,
+      "name": "Still Life",
+      "url": "https://open.spotify.com/track/3Rmo63pS3ZAM03dJ9lVErM"
+    },
+    {
+      "album": {
         "name": "Stray",
         "url": "https://open.spotify.com/album/3CCIKTCVsvEzgrU8L7sCj8"
       },
@@ -3896,6 +4058,24 @@
       "duration_ms": 191635,
       "name": "Talk of the Town - Radio Edit",
       "url": "https://open.spotify.com/track/0OQAreS9Acr21Py2yr0hNb"
+    },
+    {
+      "album": {
+        "name": "Tambourine",
+        "url": "https://open.spotify.com/album/3HWlAxC2VYpfcmN04wquzp"
+      },
+      "artists": [
+        {
+          "name": "86TVs",
+          "url": "https://open.spotify.com/artist/6jKNhOt3ygu1yvmEEVacTx"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118835,
+      "name": "Tambourine",
+      "url": "https://open.spotify.com/track/0gOZ3G7IB5asVtRBnQgTSY"
     },
     {
       "album": {
@@ -4277,6 +4457,24 @@
     },
     {
       "album": {
+        "name": "Two Times Over",
+        "url": "https://open.spotify.com/album/37SVjv8XeK8M8tkL8tUAP3"
+      },
+      "artists": [
+        {
+          "name": "Delights",
+          "url": "https://open.spotify.com/artist/5QWPjk0d98lRw8sdVkYN0S"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241316,
+      "name": "Two Times Over",
+      "url": "https://open.spotify.com/track/7jHAUcPHqpVL3lQoRGN5sP"
+    },
+    {
+      "album": {
         "name": "Universal Credit",
         "url": "https://open.spotify.com/album/5GBhIOSB3AQRXWfjkNJcXa"
       },
@@ -4306,7 +4504,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 183262,
       "name": "Unreal",
       "url": "https://open.spotify.com/track/1TsuSjYjmJpfk6vQ8Ul1Eh"
@@ -4324,7 +4522,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 160996,
       "name": "Up in the Air",
       "url": "https://open.spotify.com/track/1sBIJ6xCgg0uDzTd9M9u5u"
@@ -4540,7 +4738,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 251012,
       "name": "What I Need",
       "url": "https://open.spotify.com/track/2FiV08wbbr1flVkPKKnbYn"
@@ -4688,6 +4886,24 @@
       "duration_ms": 230994,
       "name": "You Change with the Seasons",
       "url": "https://open.spotify.com/track/0nAb06osEKEOyKJs0KBT4m"
+    },
+    {
+      "album": {
+        "name": "Zombieland",
+        "url": "https://open.spotify.com/album/3y2aZQXBnAjAc94EhlbdJD"
+      },
+      "artists": [
+        {
+          "name": "Jake Bugg",
+          "url": "https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162932,
+      "name": "Zombieland",
+      "url": "https://open.spotify.com/track/0OyV9F4yAdZLaNzSO53kUI"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWWjDnew1mOxr"

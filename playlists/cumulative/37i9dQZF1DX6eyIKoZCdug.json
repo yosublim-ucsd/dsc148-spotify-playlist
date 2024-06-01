@@ -335,6 +335,24 @@
     },
     {
       "album": {
+        "name": "ATALAKOU / TORERO",
+        "url": "https://open.spotify.com/album/1ahkJyO4CfYhM4wJHW7jDx"
+      },
+      "artists": [
+        {
+          "name": "AM\u00c9M\u00c9",
+          "url": "https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209523,
+      "name": "ATALAKOU",
+      "url": "https://open.spotify.com/track/1b3MYLeqwxGwUCeWc3WtSZ"
+    },
+    {
+      "album": {
         "name": "AWA",
         "url": "https://open.spotify.com/album/28e7SX68Y9jGYw8Pbj0AIe"
       },
@@ -586,6 +604,28 @@
       "duration_ms": 286956,
       "name": "Burn and Fall",
       "url": "https://open.spotify.com/track/1P4vizVN5y4hYn3Nvo6ya6"
+    },
+    {
+      "album": {
+        "name": "Call Me",
+        "url": "https://open.spotify.com/album/2FLZAOMNzYokZZXfxUO6Kt"
+      },
+      "artists": [
+        {
+          "name": "Venessa Jackson",
+          "url": "https://open.spotify.com/artist/6JDjuDf9o67pNcq97V6fhy"
+        },
+        {
+          "name": "Saint Evo",
+          "url": "https://open.spotify.com/artist/08dNTAMCiCM61JnSslHFCE"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 456000,
+      "name": "Call Me",
+      "url": "https://open.spotify.com/track/0CznHbi50Y4QidvnD3p32o"
     },
     {
       "album": {
@@ -2219,6 +2259,28 @@
     },
     {
       "album": {
+        "name": "Mbali",
+        "url": "https://open.spotify.com/album/6AVg8bUVh4LZsI7H2tV3e4"
+      },
+      "artists": [
+        {
+          "name": "Blanka Mazimela",
+          "url": "https://open.spotify.com/artist/5FgjaJZKmTjnJyfvE3UU2C"
+        },
+        {
+          "name": "MBAL'YESIZWE",
+          "url": "https://open.spotify.com/artist/4IXntJvtyYdc7zVsggGoPU"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 436661,
+      "name": "Mbali",
+      "url": "https://open.spotify.com/track/0pwSE8755YcJXjlYrgUI5y"
+    },
+    {
+      "album": {
         "name": "Mina Nawe",
         "url": "https://open.spotify.com/album/6vzPgfVVWTRHPCDfBWekGY"
       },
@@ -2382,7 +2444,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 195714,
       "name": "Mwaki - Major Lazer Remix",
       "url": "https://open.spotify.com/track/0c6dw8qe0mNA2sMETrDUl9"
@@ -2416,6 +2478,40 @@
       "duration_ms": 450000,
       "name": "Mystery Lady - Scorpion Kings Remix",
       "url": "https://open.spotify.com/track/0nx8uE4jpVqMF2kIRWW98W"
+    },
+    {
+      "album": {
+        "name": "Nazo (Dr Feel Remix)",
+        "url": "https://open.spotify.com/album/4z09pdW97eetV2HHgdLtpK"
+      },
+      "artists": [
+        {
+          "name": "Megatronic",
+          "url": "https://open.spotify.com/artist/3aU6ncVBmlnA8TtCXDwJKZ"
+        },
+        {
+          "name": "VenusRaps",
+          "url": "https://open.spotify.com/artist/3GZOYqox0oGHqmLQVijPye"
+        },
+        {
+          "name": "Zimkitha",
+          "url": "https://open.spotify.com/artist/6A7lXry2Pg5fOttzmjqpDy"
+        },
+        {
+          "name": "Dommenica Fossati",
+          "url": "https://open.spotify.com/artist/6WyEYItKsmkWbJb3VVsL8x"
+        },
+        {
+          "name": "Dr Feel",
+          "url": "https://open.spotify.com/artist/20OBylFJKe5WtQzqO32Xxq"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 402000,
+      "name": "Nazo - Dr Feel Remix",
+      "url": "https://open.spotify.com/track/57UAmRs9eE3hS3dMiGdjRU"
     },
     {
       "album": {
@@ -3811,6 +3907,24 @@
     },
     {
       "album": {
+        "name": "Udokotela",
+        "url": "https://open.spotify.com/album/5EzeLxe63DgICodZ1jsjPz"
+      },
+      "artists": [
+        {
+          "name": "Muzari",
+          "url": "https://open.spotify.com/artist/5CKFDmOK1dzIqjxSoSyi6Y"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322429,
+      "name": "Udokotela",
+      "url": "https://open.spotify.com/track/2hF8zj1pgjlzENfzqztU4b"
+    },
+    {
+      "album": {
         "name": "Nande 2.0",
         "url": "https://open.spotify.com/album/4Z7cviz5RPiOFwke0SQ8NH"
       },
@@ -3886,6 +4000,40 @@
       "duration_ms": 352041,
       "name": "Umuthi (The Cure)",
       "url": "https://open.spotify.com/track/7CSBTqNRFaRo09Gwz6fkro"
+    },
+    {
+      "album": {
+        "name": "Usemindawonye",
+        "url": "https://open.spotify.com/album/3xQsL0si2XFnuq0sSmWuTb"
+      },
+      "artists": [
+        {
+          "name": "Korie Minors",
+          "url": "https://open.spotify.com/artist/4JGMHb5qsvTSGJlijyWBLc"
+        },
+        {
+          "name": "Lizwi",
+          "url": "https://open.spotify.com/artist/70PnxFjOBPqfF4CZSt3A3X"
+        },
+        {
+          "name": "DJ 84",
+          "url": "https://open.spotify.com/artist/18FxQBT0taD8Fs7JNcBVH4"
+        },
+        {
+          "name": "Shona SA",
+          "url": "https://open.spotify.com/artist/2JrL1KzeVKLTNLSzxBtfvk"
+        },
+        {
+          "name": "Native P.",
+          "url": "https://open.spotify.com/artist/5L3T44EFiAzvsqmpFMFhSr"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347530,
+      "name": "Usemindawonye",
+      "url": "https://open.spotify.com/track/4teW3ZNwOtJAPl0526lmT4"
     },
     {
       "album": {
@@ -4126,10 +4274,36 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 460165,
       "name": "Wafika",
       "url": "https://open.spotify.com/track/350Ynu23fpxHOVgVmof5WN"
+    },
+    {
+      "album": {
+        "name": "We Are One",
+        "url": "https://open.spotify.com/album/763zGyld94FrYq7GxZsWiO"
+      },
+      "artists": [
+        {
+          "name": "Dr Feel",
+          "url": "https://open.spotify.com/artist/20OBylFJKe5WtQzqO32Xxq"
+        },
+        {
+          "name": "RedRo8se",
+          "url": "https://open.spotify.com/artist/3nznSr9nwQXz5EIskZkPiR"
+        },
+        {
+          "name": "FabYo Gomez",
+          "url": "https://open.spotify.com/artist/3AuUO1PjzGz5OREqJjRiex"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157360,
+      "name": "We Are One",
+      "url": "https://open.spotify.com/track/0osksFbz98MXqscHdrNiff"
     },
     {
       "album": {

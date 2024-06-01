@@ -4,7 +4,7 @@
 
 > Down\-tempo and easy listening music\. Cover: Teddy Swims
 
-781 songs - 1 day 17 hr 57 min
+783 songs - 1 day 18 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [Can't Stop This Party](https://open.spotify.com/track/1FP2jE6moLiHoNUaWTUyJc) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [Can't Stop This Party](https://open.spotify.com/album/6nG0PLR5YgP7tHYKfwhiOI) | 3:42 | 2022-03-25 |  |
 | [Can’t Help Myself](https://open.spotify.com/track/6zvvWWxsMIhEYLMTRcWHfc) | [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [Can’t Help Myself](https://open.spotify.com/album/2eA02NTgjx7GKkU5yhgRIV) | 3:37 | 2020-10-09 |  |
 | [Care For You](https://open.spotify.com/track/2CBtdZVcpSwaxOcLUi1AGo) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Care For You](https://open.spotify.com/album/4ENFZsf6OIKxck9I6gUwrk) | 2:36 | 2020-10-16 |  |
+| [Carry You Home](https://open.spotify.com/track/4uzKAj0mIyYmyhsRRyPXaQ) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Carry You Home](https://open.spotify.com/album/42eRSINaWEzBXj7aqTB2cu) | 2:46 | 2024-05-31 |  |
 | [Casual](https://open.spotify.com/track/2Sz0dtmOCTxbHbnlK0S2eK) | [Thomston](https://open.spotify.com/artist/0VQKssIfRKfSd7IfW3JIP1) | [Casual / Middle Name](https://open.spotify.com/album/6UTnGeYgeZX3B13Gsz2OUO) | 3:04 | 2019-09-06 | 2021-05-12 |
 | [Champagne Affection](https://open.spotify.com/track/5reUpAmA1f62EVf5jRHbwP) | [Client Liaison](https://open.spotify.com/artist/5TjlxSJvfrD5I2PWaEh4jZ) | [Champagne Affection](https://open.spotify.com/album/4b4UT70OLamcHX91Om0F4O) | 3:48 | 2019-12-02 | 2021-05-12 |
 | [chance](https://open.spotify.com/track/6I1Q5mSAvXveekghOaTUoR) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [Chance](https://open.spotify.com/album/5asOQyea3S0k6bgt2nTK9Y) | 3:19 | 2021-06-05 |  |
@@ -187,6 +188,7 @@
 | [Drunk Talk](https://open.spotify.com/track/36FYP4AmrrnRi5ytvPMyGB) | [Jack Gray](https://open.spotify.com/artist/0LvfDU74rGXrEGVWqW9rCw) | [Drunk Talk](https://open.spotify.com/album/7cwmLDx2MjQiTGFRvbYXzj) | 3:29 | 2019-08-27\* | 2019-11-11 |
 | [Dum Dum Dum \- Stripped Down Remix](https://open.spotify.com/track/6cngLez2baDrhqmijvZt69) | [Tvilling](https://open.spotify.com/artist/2AX5R5SIikV7NGMOZupAGm) | [Dum Dum Dum \(Stripped Down Remix\)](https://open.spotify.com/album/41nEpQq5Sff1nt5nOCxTeP) | 2:59 | 2020-12-18 | 2021-05-12 |
 | [dumbass](https://open.spotify.com/track/61vyrw41EkR5koGRjKMFkz) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [dumbass](https://open.spotify.com/album/5eYuByaxRTwzGPoW7rEiiP) | 2:42 | 2020-01-31 | 2020-05-19 |
+| [Echo](https://open.spotify.com/track/3SH1vOTwgg5Ma1NhHaXvrA) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:29 | 2024-05-31 |  |
 | [Edith](https://open.spotify.com/track/4NKi0W95HaJJPjHzM6iZJK) | [Maddie Medley](https://open.spotify.com/artist/03JEWIBjHgE7jGqQZvG7k3) | [Coming Of Age pt\. 1](https://open.spotify.com/album/2QXM0eteTUsJ42k6T9fEEy) | 3:39 | 2020-04-03 | 2020-05-19 |
 | [Elvis Song](https://open.spotify.com/track/6MWH5jDoS1wpMPz8CwuC3N) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [You Signed Up For This](https://open.spotify.com/album/1X1EZB1hCoymZ9gU8JKv86) | 3:10 | 2021-08-27 |  |
 | [Emotion](https://open.spotify.com/track/28dSLj1n6swhs5WhTG4fJ8) | [Emma Bunton](https://open.spotify.com/artist/2AEEnr6Le5zHzBwpnlZSmq) | [My Happy Place](https://open.spotify.com/album/3SZ3cbYeS9O8edtb6OEUgg) | 3:38 | 2019-08-27\* | 2019-11-11 |
@@ -677,7 +679,7 @@
 | [The Bat Song](https://open.spotify.com/track/23RGWHqiObr6yE3lvgQLx0) | [Thelma Plum](https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC) | [Meanjin EP](https://open.spotify.com/album/6k4k7bEh9AWCDAGqVZyzFF) | 2:41 | 2022-08-12 |  |
 | [The Book of You & I](https://open.spotify.com/track/6goVVcwzy7RtZdytF5XADW) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [The Book of You & I](https://open.spotify.com/album/3xHrlh93xHHP1c5zYiaUad) | 3:27 | 2020-03-20 | 2021-05-12 |
 | [The Brown Snake](https://open.spotify.com/track/1n9rCSKrSfoytMF2AkC1CU) | [Thelma Plum](https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC) | [Meanjin EP](https://open.spotify.com/album/6k4k7bEh9AWCDAGqVZyzFF) | 3:15 | 2022-08-12 |  |
-| [The Craving \(single version\)](https://open.spotify.com/track/0S7lkKStHgfgjgwSFOvRNA) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [The Craving \(single version\)](https://open.spotify.com/album/7K7eWZNR5t9UBlrN2ltzLI) | 2:53 | 2024-05-22 |  |
+| [The Craving \- single version](https://open.spotify.com/track/0S7lkKStHgfgjgwSFOvRNA) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [The Craving](https://open.spotify.com/album/7K7eWZNR5t9UBlrN2ltzLI) | 2:53 | 2024-05-22 |  |
 | [The Door](https://open.spotify.com/track/3dj4wgM3cPeuLwMNHDuBon) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1\)](https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB) | 3:32 | 2024-05-15 |  |
 | [The Heights](https://open.spotify.com/track/0Bp1hCBkBhqrFqumpNoqkX) | [Thomston](https://open.spotify.com/artist/0VQKssIfRKfSd7IfW3JIP1) | [The Heights](https://open.spotify.com/album/1bdlo1pbTsWFURvrYc130d) | 3:19 | 2019-08-27\* | 2019-11-11 |
 | [The Joker And The Queen \(feat\. Taylor Swift\)](https://open.spotify.com/track/6N1K5OVVCopBjGViHs2IvP) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Joker And The Queen \(feat\. Taylor Swift\)](https://open.spotify.com/album/0vkAczpFKCazPKaoLtnBr0) | 3:05 | 2022-02-11 |  |

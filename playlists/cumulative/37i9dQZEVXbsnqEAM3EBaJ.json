@@ -85,6 +85,24 @@
     },
     {
       "album": {
+        "name": "Sound of the Crowd - Greatest Hits Live in Concert",
+        "url": "https://open.spotify.com/album/7lXqvRFxM03tnV45Ihfe4V"
+      },
+      "artists": [
+        {
+          "name": "The Human League",
+          "url": "https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271306,
+      "name": "(Keep Feeling) Fascination (Live)",
+      "url": "https://open.spotify.com/track/0hxZNmMvWFBfydJwv7h7Ys"
+    },
+    {
+      "album": {
         "name": "(O) rdinary [Synthwave Edition]",
         "url": "https://open.spotify.com/album/6uJm20KmWYCDi4fTLV8SXD"
       },
@@ -1573,6 +1591,24 @@
     },
     {
       "album": {
+        "name": "Am\u00e9rica",
+        "url": "https://open.spotify.com/album/5zjHPacngqwkp75XzNZrrZ"
+      },
+      "artists": [
+        {
+          "name": "Silvio Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348340,
+      "name": "Am\u00e9rica",
+      "url": "https://open.spotify.com/track/1fR1roNCRxQdbWJBovo6es"
+    },
+    {
+      "album": {
         "name": "An Arrow In The Wall",
         "url": "https://open.spotify.com/album/3lpSUYsMgtrhNEjsPfCfsz"
       },
@@ -2806,7 +2842,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 229253,
       "name": "Being Boiled",
       "url": "https://open.spotify.com/track/2yMjKoqxWE5DLnaC9BUAdu"
@@ -3488,6 +3524,24 @@
       "duration_ms": 229713,
       "name": "Born Under a Bad Sign",
       "url": "https://open.spotify.com/track/522tcgMzZbXPIgOXh8yLtr"
+    },
+    {
+      "album": {
+        "name": "Break My Fall (Acoustic)",
+        "url": "https://open.spotify.com/album/7ld4FZEVngjv2ZY9Sn3WPR"
+      },
+      "artists": [
+        {
+          "name": "Dead by April",
+          "url": "https://open.spotify.com/artist/2otRZcOVNcmdkZ5nEoogy6"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181593,
+      "name": "Break My Fall - Acoustic",
+      "url": "https://open.spotify.com/track/2gr8Hw021sj4yOgQcH7NHv"
     },
     {
       "album": {
@@ -8147,6 +8201,24 @@
     },
     {
       "album": {
+        "name": "Feedback",
+        "url": "https://open.spotify.com/album/6OwSZ83UAtFcYuWbrYuafP"
+      },
+      "artists": [
+        {
+          "name": "A Day To Remember",
+          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152963,
+      "name": "Feedback",
+      "url": "https://open.spotify.com/track/4rpw43XrPiHKER3nSL2vZH"
+    },
+    {
+      "album": {
         "name": "Feel The Motion",
         "url": "https://open.spotify.com/album/084sz1LkKQST8ZAji6NJH1"
       },
@@ -9074,7 +9146,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 241773,
       "name": "Get a Grip",
       "url": "https://open.spotify.com/track/2tGrdc5Hryxq2dIiSS1egV"
@@ -12123,6 +12195,32 @@
     },
     {
       "album": {
+        "name": "C\u00e1ntico Lluvioso: La Premonici\u00f3n de la Naturaleza Ante un Rumbo Desconocido",
+        "url": "https://open.spotify.com/album/2AKmX9koHH14XT8YYulaml"
+      },
+      "artists": [
+        {
+          "name": "Sol y Lluvia",
+          "url": "https://open.spotify.com/artist/6iGoMyoSIjyTxbCRyHREtI"
+        },
+        {
+          "name": "Lluvia Relajante",
+          "url": "https://open.spotify.com/artist/23wO0bYxC7ScKWqSs3B1xF"
+        },
+        {
+          "name": "Sonidos De Truenos y Lluvia",
+          "url": "https://open.spotify.com/artist/6xTTIh4uHGvswk0mUi9GJ4"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108946,
+      "name": "Imagination Annex",
+      "url": "https://open.spotify.com/track/01T0dmvX0KTnSc4xug0VEP"
+    },
+    {
+      "album": {
         "name": "Imagine A Man (Live At Wembley, UK / 2019)",
         "url": "https://open.spotify.com/album/4czqeo8Tx9OGcVmfkbItyq"
       },
@@ -13783,6 +13881,24 @@
     },
     {
       "album": {
+        "name": "King Of Pain (Demo)",
+        "url": "https://open.spotify.com/album/01eQ5d9ozwnYAdAFVzPo7z"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254053,
+      "name": "King Of Pain - Demo",
+      "url": "https://open.spotify.com/track/3zygIi9BmfAo6ORqJlfyqv"
+    },
+    {
+      "album": {
         "name": "Greatest Hits (Deluxe)",
         "url": "https://open.spotify.com/album/5Z3bU10WcD9JOt98mui7DC"
       },
@@ -13964,7 +14080,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 268211,
       "name": "La Banquina de Alg\u00fan Lado",
       "url": "https://open.spotify.com/track/5TtB4MPzZAbyY45qn7Vo5E"
@@ -14065,6 +14181,24 @@
     },
     {
       "album": {
+        "name": "I Can't Explain (Trident Studios Version)",
+        "url": "https://open.spotify.com/album/7hYVT6L9DPdUCpOKAnguYo"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207131,
+      "name": "Lady Stardust - Alternative Version - Take 1",
+      "url": "https://open.spotify.com/track/3M2C9hQ6Cx1zi0ov1mjwxX"
+    },
+    {
+      "album": {
         "name": "Lady Stardust (Alternative Version - Take 1)",
         "url": "https://open.spotify.com/album/59ZyeJB3fDJu35cfRK0Bbm"
       },
@@ -14076,7 +14210,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 207131,
       "name": "Lady Stardust - Alternative Version - Take 1",
       "url": "https://open.spotify.com/track/6D4DDG0bTiCaC4x8EBvkSi"
@@ -14886,7 +15020,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 145262,
       "name": "Literal Wisdom",
       "url": "https://open.spotify.com/track/0UBd65RGAfaNotJi3WhgxH"
@@ -16432,6 +16566,24 @@
       "duration_ms": 194959,
       "name": "Modern Love",
       "url": "https://open.spotify.com/track/4Qjv4VFulw2xS9P5EVLvOp"
+    },
+    {
+      "album": {
+        "name": "Let The Canary Sing",
+        "url": "https://open.spotify.com/album/7IN7x4CD7oDfkhOf3RisGR"
+      },
+      "artists": [
+        {
+          "name": "Cyndi Lauper",
+          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273059,
+      "name": "Money Changes Everything - Live at Irvine Meadows Amphitheater, Laguna Hills, CA - 09/22/1984 - Let The Canary Sing Edit",
+      "url": "https://open.spotify.com/track/2ywYZp3rMpCIwLcj5YdjH8"
     },
     {
       "album": {
@@ -19957,6 +20109,28 @@
     },
     {
       "album": {
+        "name": "Chabuco Tango",
+        "url": "https://open.spotify.com/album/0BMBTesXi4eduzURLsPxHl"
+      },
+      "artists": [
+        {
+          "name": "Chabuco",
+          "url": "https://open.spotify.com/artist/7iVnPo1i10De0UGQz5eDsl"
+        },
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202132,
+      "name": "P\u00e9talo de sal",
+      "url": "https://open.spotify.com/track/3whw0s4PXsfBIYOhW9erXX"
+    },
+    {
+      "album": {
         "name": "P\u00e9talo de sal",
         "url": "https://open.spotify.com/album/47rjAhbKvYLWneD4xLp6c5"
       },
@@ -19972,7 +20146,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 202132,
       "name": "P\u00e9talo de sal",
       "url": "https://open.spotify.com/track/4v60Go3RguqbsNxZbag2mK"
@@ -20056,7 +20230,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 289317,
       "name": "Quer\u00eda Saber",
       "url": "https://open.spotify.com/track/50bvIAriO4MoPhQUiUDdsR"
@@ -26079,6 +26253,24 @@
     },
     {
       "album": {
+        "name": "Rancid",
+        "url": "https://open.spotify.com/album/4ptHCnj9ZvHibMqdPFx5Bt"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97024,
+      "name": "The Sentence",
+      "url": "https://open.spotify.com/track/25Dri4NJ7U5yrRUPZBMDlv"
+    },
+    {
+      "album": {
         "name": "The Serpent and the King",
         "url": "https://open.spotify.com/album/53T5pDi25DmqJiQgHdinBq"
       },
@@ -28638,7 +28830,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 145324,
       "name": "Wasteland - orchestral",
       "url": "https://open.spotify.com/track/36wIxrvx8BXA0g2cv1TXyz"

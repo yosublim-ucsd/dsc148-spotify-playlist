@@ -4,7 +4,7 @@
 
 > Contemplate the universe in a bottle of friendly colored magma.
 
-620 songs - 2 day 7 hr 55 min
+621 songs - 2 day 7 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -339,7 +339,7 @@
 | [Memory Arc](https://open.spotify.com/track/0SDh7AAKlUSzzzXfuB1aVw) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Persona](https://open.spotify.com/album/1BI2mpiBt99NlNvLka4QhG) | 2:13 | 2021-10-20 | 2024-04-19 |
 | [Memory Arc](https://open.spotify.com/track/74EnBZX68SMjd6rTylcpPe) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Persona](https://open.spotify.com/album/4ciNhQuziH6TtbRbDaHicN) | 2:13 | 2021-10-20 | 2022-07-29 |
 | [Memory Training Gamma](https://open.spotify.com/track/7FqzKYClGACfIYBRvm3zWS) | [Isotopic Dreams](https://open.spotify.com/artist/7Bz1z7lm6ikWw8tECu67a8) | [Binaural Brainwaves Gamma](https://open.spotify.com/album/590xwIqVQdmbaiH59TDI9N) | 3:18 | 2021-10-20 |  |
-| [Meridian](https://open.spotify.com/track/3oJTvs1FLdka2ogLkXoQNb) | [Joanne Forman](https://open.spotify.com/artist/1KpISDZpqZArxpPqDxGR4S) | [Cave Vaults of the Moon](https://open.spotify.com/album/1VLJuqs7iwhsPvGZOyvB49) | 2:58 | 2021-10-20 |  |
+| [Meridian](https://open.spotify.com/track/3oJTvs1FLdka2ogLkXoQNb) | [Joanne Forman](https://open.spotify.com/artist/1KpISDZpqZArxpPqDxGR4S) | [Cave Vaults of the Moon](https://open.spotify.com/album/1VLJuqs7iwhsPvGZOyvB49) | 2:58 | 2021-10-20 | 2024-06-01 |
 | [Mexico \(una pirámide al revés\)](https://open.spotify.com/track/63J4sJXJ3FZAH6I5wlZVv8) | [Maria Usbeck](https://open.spotify.com/artist/16pdeeyke2dzEJXSj0MPft) | [S&S Presents: Dreams](https://open.spotify.com/album/6GSkekvuFxgPhTRNCYeADr) | 2:57 | 2021-10-20 | 2022-06-20 |
 | [Microtronics 20](https://open.spotify.com/track/1AmWCQ6yHUOnWb0wKwhzaa) | [Broadcast](https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU) | [Microtronics \- Volumes 1 & 2](https://open.spotify.com/album/3nk4c7gVqXNGzkCiVvpLQx) | 1:35 | 2022-03-18 | 2024-04-19 |
 | [Microtronics 20](https://open.spotify.com/track/7wj3TuI2wAzwHDWkp0bCVr) | [Broadcast](https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU) | [Microtronics \- Volumes 1 & 2](https://open.spotify.com/album/5P4pg6W3wwI04pstGDQJ8O) | 1:35 | 2022-03-18 | 2023-02-03 |
@@ -459,6 +459,7 @@
 | [Silence](https://open.spotify.com/track/4hDzsyjdmMSA89mHQNgHdO) | [Wind Speaks](https://open.spotify.com/artist/06S55ZKieUgI9zFKhJVKsY) | [Silence](https://open.spotify.com/album/3SS8Pj4KizsVF4d4nHvXOo) | 3:00 | 2021-10-20 | 2022-07-29 |
 | [Silencio y Amancer](https://open.spotify.com/track/1A9iQiTMgYoc8Qky2dTDSe) | [Dyb](https://open.spotify.com/artist/2XaoeOBIkNSE1V4DeGueLn) | [Al Margen de los Sueños](https://open.spotify.com/album/2s2AevR8DMOgSr1VwFSFAX) | 4:16 | 2022-12-21 | 2023-02-16 |
 | [Silent Memories](https://open.spotify.com/track/3hzfIU0PEGUcUSHViCUybF) | [Calm Shores](https://open.spotify.com/artist/1RY93GxZnarHejky7O46dB) | [Fall Of A Raindrop](https://open.spotify.com/album/3MO1X0bSHAOzy0FuzP44tm) | 4:11 | 2021-10-20 | 2022-04-21 |
+| [Silenzio Solare](https://open.spotify.com/track/6bHQyX0G9QEjpna830dvBt) | [Fera](https://open.spotify.com/artist/0RCFF3ElmHRKsaMmHXE3h7) | [Silenzio Solare](https://open.spotify.com/album/0RS06bmkOLmoTIgHqmyn00) | 3:03 | 2024-05-29 |  |
 | [Silver Plane](https://open.spotify.com/track/2ffRK4ffNcvjH3GL0Ay1Io) | [Akureyri](https://open.spotify.com/artist/3kWtgQ5akmWPNq4OCzOyc6) | [Silver Plane](https://open.spotify.com/album/44N6krf8Sg39WkGF4brhMG) | 3:15 | 2021-10-20 | 2022-07-29 |
 | [Silver Plane](https://open.spotify.com/track/6LDotez7zfYGnGFTGCncky) | [Akureyri](https://open.spotify.com/artist/3kWtgQ5akmWPNq4OCzOyc6) | [Silver Plane](https://open.spotify.com/album/5nfMRvJRu7fhF9O83sRFdS) | 3:15 | 2021-10-20 | 2022-09-05 |
 | [SLEEP](https://open.spotify.com/track/4hNzwEykt9DWUiU7KRf6Pr) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Green](https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl) | 6:25 | 2021-10-20 |  |

@@ -1737,6 +1737,28 @@
     },
     {
       "album": {
+        "name": "Mad Women",
+        "url": "https://open.spotify.com/album/2b0ocQYRy5WEkmgqsPd7EP"
+      },
+      "artists": [
+        {
+          "name": "SKAAR",
+          "url": "https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ"
+        },
+        {
+          "name": "Ane Brun",
+          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189257,
+      "name": "What Are You Scared Of?",
+      "url": "https://open.spotify.com/track/6ayFG1MWAlpobQFpQLaozq"
+    },
+    {
+      "album": {
         "name": "\u00c4lskar",
         "url": "https://open.spotify.com/album/7hnwD5fSafzPIxpkbbO8Dk"
       },
@@ -1752,6 +1774,28 @@
       "duration_ms": 201826,
       "name": "When You Lose Someone",
       "url": "https://open.spotify.com/track/1CAZgVyNgA9pR4e6GHALhq"
+    },
+    {
+      "album": {
+        "name": "ORIGIN",
+        "url": "https://open.spotify.com/album/3WNr0X7Ke2gbAALJe7OluG"
+      },
+      "artists": [
+        {
+          "name": "Frank Walker",
+          "url": "https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq"
+        },
+        {
+          "name": "Crooked Bangs",
+          "url": "https://open.spotify.com/artist/4gkZO2kbnE03K8xGmZ2DJu"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236863,
+      "name": "White Horses (feat. Crooked Bangs)",
+      "url": "https://open.spotify.com/track/5un6PotHxYF298PlqoYqPI"
     },
     {
       "album": {

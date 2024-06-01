@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "tranquilo e calmo, no flow. Foto: Krawk\n",
+  "description": "tranquilo e calmo, no flow. Foto: Junior Lord\n",
   "name": "tamo flex",
   "tracks": [
     {
@@ -372,7 +372,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 158740,
       "name": "5 STAR",
       "url": "https://open.spotify.com/track/5OShJm40L8YRqPoDzkL5eB"
@@ -2480,7 +2480,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 107462,
       "name": "Bruddas",
       "url": "https://open.spotify.com/track/66TzAgLgFsoIRC7KZh6mf2"
@@ -2510,7 +2510,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 178909,
       "name": "B\u00fassola",
       "url": "https://open.spotify.com/track/1SukhnOHG4OKTLuYXcbgiZ"
@@ -3952,7 +3952,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 125897,
       "name": "De Base Eu To Tranquil\u00e3o - Speed",
       "url": "https://open.spotify.com/track/2JlUIOnEPmKYcZEy6TWLe7"
@@ -3978,7 +3978,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 160000,
       "name": "De Lala - Spotify Singles",
       "url": "https://open.spotify.com/track/7xLxkTNVdoe7MMO7DduPed"
@@ -5623,6 +5623,28 @@
     },
     {
       "album": {
+        "name": "Expectativas",
+        "url": "https://open.spotify.com/album/5NDxzeuOI9uKltLLfL0usH"
+      },
+      "artists": [
+        {
+          "name": "Galgo de Su\u00e9ter",
+          "url": "https://open.spotify.com/artist/4L0Md59GS5f4RIiu4JiDun"
+        },
+        {
+          "name": "Choice",
+          "url": "https://open.spotify.com/artist/4kqedTxyE5EDJWLLplYXpu"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Expectativas",
+      "url": "https://open.spotify.com/track/3dDqGWjV8yTrGD2TvLFLTV"
+    },
+    {
+      "album": {
         "name": "Faixa Rosa",
         "url": "https://open.spotify.com/album/4t17G8FjoT4cr5u7k7BXAd"
       },
@@ -5848,7 +5870,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 104186,
       "name": "Fato",
       "url": "https://open.spotify.com/track/4LYOHMVNY33bLe0SHVNdBg"
@@ -5900,7 +5922,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 148363,
       "name": "Fauna Brasileira",
       "url": "https://open.spotify.com/track/4PCYb27X4F5yedyBrXfwfi"
@@ -9308,7 +9330,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 210461,
       "name": "Mini Saia",
       "url": "https://open.spotify.com/track/09sUNzy7IX6z9FOWjk2Tmo"
@@ -10344,7 +10366,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 187500,
       "name": "N\u00e3o Precisa Fingir",
       "url": "https://open.spotify.com/track/1wzBGs0ZzOm3Go3QUdKqya"
@@ -10920,6 +10942,28 @@
       "duration_ms": 163221,
       "name": "Ontem",
       "url": "https://open.spotify.com/track/4ub33dXwwV4pSLMsfy8wqv"
+    },
+    {
+      "album": {
+        "name": "Orgulhosa Demais",
+        "url": "https://open.spotify.com/album/1bEHO8t7ohh0ZDum2OJohQ"
+      },
+      "artists": [
+        {
+          "name": "Sarah Lo",
+          "url": "https://open.spotify.com/artist/5De537HKRtsLqmYmhEPlb5"
+        },
+        {
+          "name": "Mc Robs",
+          "url": "https://open.spotify.com/artist/5jysNZ8I6vAiNTsFbrIj1K"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "Orgulhosa Demais",
+      "url": "https://open.spotify.com/track/5kPalC1MDIWVrpqmoBADze"
     },
     {
       "album": {
@@ -12220,7 +12264,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 161095,
       "name": "Pr\u00e9via",
       "url": "https://open.spotify.com/track/04Wtbm7UsIem0Axth7QIhp"
@@ -12600,7 +12644,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 141354,
       "name": "Quest\u00e3o de Tempo",
       "url": "https://open.spotify.com/track/5I00EvVvfFLhVr6jkBlRPf"
@@ -13375,6 +13419,28 @@
     },
     {
       "album": {
+        "name": "Sem Pressa",
+        "url": "https://open.spotify.com/album/12y14plhCJ75zZLwvefNfp"
+      },
+      "artists": [
+        {
+          "name": "Mazza MC",
+          "url": "https://open.spotify.com/artist/4GfUW3n4XnAyNlnFAiYTD1"
+        },
+        {
+          "name": "Caio Passos",
+          "url": "https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Sem Pressa",
+      "url": "https://open.spotify.com/track/1k7mXSUBwfqHGMNXpZfF68"
+    },
+    {
+      "album": {
         "name": "Sem Roteiro",
         "url": "https://open.spotify.com/album/1oCglryXjtrhK3kGkcPWie"
       },
@@ -13823,6 +13889,28 @@
     },
     {
       "album": {
+        "name": "Start",
+        "url": "https://open.spotify.com/album/1WNmC0yI9S4ipnyeeTiitf"
+      },
+      "artists": [
+        {
+          "name": "Junior Lord",
+          "url": "https://open.spotify.com/artist/6rFkZxhheU9l1nODgZm4SP"
+        },
+        {
+          "name": "Go Dassisti",
+          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195121,
+      "name": "Start",
+      "url": "https://open.spotify.com/track/6qB23xPbQGowuLpkXlH3O6"
+    },
+    {
+      "album": {
         "name": "Suco de Maracuj\u00e1",
         "url": "https://open.spotify.com/album/4yTQTTLzRcxhfL6Tk4rBsU"
       },
@@ -13886,7 +13974,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 178983,
       "name": "Superficial",
       "url": "https://open.spotify.com/track/1e0gwbwYDglB5jDzACIxzj"

@@ -2,7 +2,7 @@
 
 ### [Éxitos Paraguay](https://open.spotify.com/playlist/37i9dQZF1DX15N77UE8GEz)
 
-> ¡Escucha los éxitos de hoy!<br/>Foto: Tiago PZK y Ke Personajes.
+> ¡Escucha los éxitos de hoy!<br/>Foto: Grupo Frontera y Maluma.
 
 101 songs - 5 hr 29 min
 

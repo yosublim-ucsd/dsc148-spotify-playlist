@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Only the hottest South African rap from the streets. \nCover:  <a href=\"https://open.spotify.com/artist/1q4Av58diNwZtD01vPUoH5?si=jBHPSzfmR1m0Vg4fmqjH5w\">DJ Slique</a>",
+  "description": "Only the hottest South African rap from the streets. \nCover:  <a href=\"https://open.spotify.com/artist/30WlMKuvwN6RrMeLARZeqk?si=vG13OAToSjS0uck-599WaA\">Yanga Chief</a>",
   "name": "Mzansi Raps",
   "tracks": [
     {
@@ -2490,6 +2490,24 @@
       "duration_ms": 92928,
       "name": "bums & sex freestyle",
       "url": "https://open.spotify.com/track/4cOtG2ob763lqmZKHkP03Y"
+    },
+    {
+      "album": {
+        "name": "Burlesque",
+        "url": "https://open.spotify.com/album/52c22cwdGOfJhN0VsWfpzA"
+      },
+      "artists": [
+        {
+          "name": "Ason",
+          "url": "https://open.spotify.com/artist/3I1qHxOUgI1EeWBKhU6pCa"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182005,
+      "name": "Burlesque",
+      "url": "https://open.spotify.com/track/1XjXdjZMUZkhMxV2YohsfW"
     },
     {
       "album": {
@@ -5121,6 +5139,28 @@
     },
     {
       "album": {
+        "name": "CELESTIAL BLUES 2",
+        "url": "https://open.spotify.com/album/2QvH0gR4Mczx0kw6pZsGic"
+      },
+      "artists": [
+        {
+          "name": "NOTBENJAMIN",
+          "url": "https://open.spotify.com/artist/303bUa4VDUe6fAPIM5vzvN"
+        },
+        {
+          "name": "BENJAMIN",
+          "url": "https://open.spotify.com/artist/5vGBEOddwhwgvzoHIbl1ji"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196056,
+      "name": "GALAXY GALLERY (feat. BENJAMIN)",
+      "url": "https://open.spotify.com/track/7GtnJtpBoOfbRw1AwBMx05"
+    },
+    {
+      "album": {
         "name": "Gameplay",
         "url": "https://open.spotify.com/album/4lztN49NSwzerYm6S4EvV7"
       },
@@ -5434,6 +5474,32 @@
       "duration_ms": 167860,
       "name": "Godbody",
       "url": "https://open.spotify.com/track/47mab0NNKdxWd7cJWbFW7J"
+    },
+    {
+      "album": {
+        "name": "THANK GOD FOR THE SUN",
+        "url": "https://open.spotify.com/album/2bsEx0B5XsrmBrQCx0DEue"
+      },
+      "artists": [
+        {
+          "name": "ZRi.",
+          "url": "https://open.spotify.com/artist/0qEbCUh26COfNR2uiNsh4N"
+        },
+        {
+          "name": "The Big Hash",
+          "url": "https://open.spotify.com/artist/4NR8j34QrjVEIAqUP43SwL"
+        },
+        {
+          "name": "Steveisfrench",
+          "url": "https://open.spotify.com/artist/7hp0SnWWlw5OsqNbDQvmbB"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185454,
+      "name": "GODS TIMING",
+      "url": "https://open.spotify.com/track/0NMYAGETitlHa3Jo0LLJRu"
     },
     {
       "album": {
@@ -5752,6 +5818,28 @@
       "duration_ms": 71525,
       "name": "Gulag Activity",
       "url": "https://open.spotify.com/track/7qscO6bMvRpaUdHAusAo6m"
+    },
+    {
+      "album": {
+        "name": "Imvelaphi",
+        "url": "https://open.spotify.com/album/6Ey7WJyXa1YlzPw4DOV8lo"
+      },
+      "artists": [
+        {
+          "name": "Yanga Chief",
+          "url": "https://open.spotify.com/artist/30WlMKuvwN6RrMeLARZeqk"
+        },
+        {
+          "name": "Kwesta",
+          "url": "https://open.spotify.com/artist/3Px6IenueysHsgCQf9xFVr"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188936,
+      "name": "Guluva (feat. Kwesta)",
+      "url": "https://open.spotify.com/track/0DXtoLvvPkIQu9CirJN4UE"
     },
     {
       "album": {

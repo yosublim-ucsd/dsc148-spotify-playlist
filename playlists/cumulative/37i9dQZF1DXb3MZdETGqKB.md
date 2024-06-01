@@ -4,7 +4,7 @@
 
 > All new, all blues\. Cover: Judith Hill
 
-295 songs - 17 hr 25 min
+296 songs - 17 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,7 +110,7 @@
 | [Hey Gringo](https://open.spotify.com/track/4aPeeN8IYOCMNBGI0p7169) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Surface Sounds](https://open.spotify.com/album/1ZuNUNl8jvYmW4w1lR2CW3) | 4:44 | 2021-04-23 | 2022-05-07 |
 | [Hill Country Love](https://open.spotify.com/track/0UPU7pocbCGSLol1h2T87L) | [Cedric Burnside](https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc) | [Hill Country Love](https://open.spotify.com/album/7MEKlnWzs60JzsxIvhxjon) | 3:04 | 2024-01-12 |  |
 | [Hits Like Lightning](https://open.spotify.com/track/2LqmcwGSsTg7D97UMr0u0s) | [Foreign Affairs](https://open.spotify.com/artist/3lKfbaqRTWrGrrjwNG4dqR) | [Hits Like Lightning](https://open.spotify.com/album/3OU9uPVaZH8WIXW2lCFd45) | 2:42 | 2022-04-08 | 2024-02-17 |
-| [Hole in my Pocket](https://open.spotify.com/track/4oh43xqoxC717eB5JNZwt1) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Hole in my Pocket](https://open.spotify.com/album/27QYUwNoXfRVlLw7x8FOQ4) | 4:18 | 2023-02-13 |  |
+| [Hole in my Pocket](https://open.spotify.com/track/4oh43xqoxC717eB5JNZwt1) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Hole in my Pocket](https://open.spotify.com/album/27QYUwNoXfRVlLw7x8FOQ4) | 4:18 | 2023-02-13 | 2024-06-01 |
 | [Horizons](https://open.spotify.com/track/11QOYYPPQoYKAlOYDs6Foy) | [Jesse Roper](https://open.spotify.com/artist/0YnrslYN9hfy5ZRCQUjMMt) | [Horizons](https://open.spotify.com/album/48xIyVPW1JMDszgWRvA7YP) | 2:37 | 2021-03-26 | 2022-03-26 |
 | [Howl For Me Daddy](https://open.spotify.com/track/3Gze7X3OVJ0Ulgea8n6Zqo) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F), [Tarriona 'Tank' Ball](https://open.spotify.com/artist/5XcCraRoLy8cGR4zLJ2JGN), [Terence Blanchard](https://open.spotify.com/artist/7IbO8NvxclKsk7WTOZ42bv) | [One Night In Miami..\. \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1i3pkaGXNV3kdn54InaVHF) | 2:25 | 2021-02-05 | 2022-03-26 |
 | [I Feel The Love](https://open.spotify.com/track/67eYI9jbt7DZQgKfo7A2Kg) | [The Heavy](https://open.spotify.com/artist/0bZCak2tcRMY1dzEIuwF42) | [I Feel The Love](https://open.spotify.com/album/0MPJo2L3RIXShVMtBkZTMS) | 2:59 | 2023-02-17 |  |
@@ -121,6 +121,7 @@
 | [I've Got To Use My Imagination](https://open.spotify.com/track/2kChTanSYKMIRwE4rvHS4a) | [Marc Broussard](https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe) | [I've Got To Use My Imagination](https://open.spotify.com/album/7DFRVqlqE7AntflxrFCdIe) | 5:05 | 2023-02-13 | 2023-04-09 |
 | [Ice Cream Man](https://open.spotify.com/track/0Xg38XEeI0xRYODGTuFH55) | [8 Ball Aitken](https://open.spotify.com/artist/1LLlMQFnYUd7M9H7dYLR78) | [Ice Cream Man](https://open.spotify.com/album/0jz9kjRqQ0Xx9uNpUE3WoJ) | 3:29 | 2021-02-05 | 2022-03-26 |
 | [If I Die](https://open.spotify.com/track/2qvaNzPEW25IuKwrM4hNOU) | [Maggie Koerner](https://open.spotify.com/artist/0I21YuJNE9DbkOcacgbQoe) | [The Bartholomew Songs](https://open.spotify.com/album/24cBWx1hlT9GUBZBOJjcal) | 3:52 | 2022-03-25 | 2024-02-14 |
+| [If This Is Love](https://open.spotify.com/track/3bqGwopBDXVjRFfQpByCxH) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [If This Is Love](https://open.spotify.com/album/5pisgCaspnGCLM6i3ERVLh) | 3:01 | 2024-05-31 |  |
 | [If You're Gonna Leave Me](https://open.spotify.com/track/1o5m2tSsrzqLyJf6qfmSrO) | [Connor Selby](https://open.spotify.com/artist/4UDgyOm8Xpbxqid8l427Mc) | [If You're Gonna Leave Me](https://open.spotify.com/album/3yfkg9em3SCAygQPfoORh1) | 5:32 | 2021-05-21 | 2022-05-07 |
 | [In The Water](https://open.spotify.com/track/0RiY8zC9nRkLJmjyWL90Or) | [Flipsyde](https://open.spotify.com/artist/6S9rh06VCCIYEvYMFnVMVN) | [In The Water](https://open.spotify.com/album/5KYbUkIW8rj1anUazzefDx) | 3:38 | 2021-09-03 | 2023-05-06 |
 | [In This Life](https://open.spotify.com/track/2l9mFi4CmqaEgoctmgDi3j) | [Re:um](https://open.spotify.com/artist/6gLleDsNwfehG7vWuK2zQe) | [In This Life](https://open.spotify.com/album/7IrRODokoRs3nnChiZWNRt) | 2:50 | 2024-02-16 |  |

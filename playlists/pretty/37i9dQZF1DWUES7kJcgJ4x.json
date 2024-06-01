@@ -1,6 +1,6 @@
 {
   "description": "Modernas, rebeldes y divertidas, \u00a1As\u00ed son ellas!",
-  "num_followers": 16067,
+  "num_followers": 16089,
   "original_name": "\u00a1Chicas Ye-y\u00e9!",
   "owner": {
     "name": "Spotify",
@@ -479,22 +479,6 @@
     {
       "added_at": "2021-01-18 18:58:11",
       "album": {
-        "name": "Swinging Mademoiselles",
-        "url": "https://open.spotify.com/album/7CkK9z6Cd7xH2Yz0cOPnnb"
-      },
-      "artists": [
-        {
-          "name": "Stella",
-          "url": "https://open.spotify.com/artist/0ZPDnYMSbQCDhIZ3KTkhTA"
-        }
-      ],
-      "duration_ms": 173906,
-      "name": "Pourquoi Pas Moi",
-      "url": "https://open.spotify.com/track/40PaVbkEZY0sz6m4P4NdfH"
-    },
-    {
-      "added_at": "2021-01-18 18:58:11",
-      "album": {
         "name": "Born Losers (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2O0v7b7SRw2YH2vRjaLVKx"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 107906,
       "name": "The Born Loser's Theme",
       "url": "https://open.spotify.com/track/2K89nNrayOqbAWDlTwxsd4"
+    },
+    {
+      "added_at": "2021-01-18 18:58:11",
+      "album": {
+        "name": "Swinging Mademoiselles",
+        "url": "https://open.spotify.com/album/7CkK9z6Cd7xH2Yz0cOPnnb"
+      },
+      "artists": [
+        {
+          "name": "Stella",
+          "url": "https://open.spotify.com/artist/0ZPDnYMSbQCDhIZ3KTkhTA"
+        }
+      ],
+      "duration_ms": 173906,
+      "name": "Pourquoi Pas Moi",
+      "url": "https://open.spotify.com/track/40PaVbkEZY0sz6m4P4NdfH"
     },
     {
       "added_at": "2021-01-18 18:58:11",
@@ -600,9 +600,9 @@
           "url": "https://open.spotify.com/artist/6nKqt1nbSBEq3iUXD1Xgz8"
         }
       ],
-      "duration_ms": 132760,
-      "name": "Ya Ya Twist - Ya Ya",
-      "url": "https://open.spotify.com/track/6CBPkkXeYqTyngmRfdQR4C"
+      "duration_ms": 185400,
+      "name": "Downtown",
+      "url": "https://open.spotify.com/track/4AK7JaKbg3LLVszqndBXOF"
     },
     {
       "added_at": "2021-01-18 18:58:11",
@@ -732,9 +732,9 @@
           "url": "https://open.spotify.com/artist/6nKqt1nbSBEq3iUXD1Xgz8"
         }
       ],
-      "duration_ms": 185400,
-      "name": "Downtown",
-      "url": "https://open.spotify.com/track/4AK7JaKbg3LLVszqndBXOF"
+      "duration_ms": 132760,
+      "name": "Ya Ya Twist - Ya Ya",
+      "url": "https://open.spotify.com/track/6CBPkkXeYqTyngmRfdQR4C"
     },
     {
       "added_at": "2021-01-18 18:58:11",

@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "1001",
+        "url": "https://open.spotify.com/album/2exikjsZSsVaKDtuMiztlP"
+      },
+      "artists": [
+        {
+          "name": "Ori\u00f3n",
+          "url": "https://open.spotify.com/artist/1QOKIsJjvDd9sHkSj96fI3"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204133,
+      "name": "1001",
+      "url": "https://open.spotify.com/track/495Lanv4CyxgmALM9II8b1"
+    },
+    {
+      "album": {
         "name": "1990",
         "url": "https://open.spotify.com/album/6y8BQ6Ba9N4FArTZOY1Kcq"
       },
@@ -2634,7 +2652,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 214456,
       "name": "estupefacientes",
       "url": "https://open.spotify.com/track/7mSibHik6n6bjNAI27CWb5"
@@ -2796,7 +2814,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 188354,
       "name": "Fondos Insuficientes",
       "url": "https://open.spotify.com/track/4d6FEORoxOEGOooIHATM0g"
@@ -2872,7 +2890,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 210824,
       "name": "Fuera de Control",
       "url": "https://open.spotify.com/track/22KvARMRAQ0i0F28lDUkTl"
@@ -4872,6 +4890,24 @@
       "duration_ms": 236758,
       "name": "Miedo",
       "url": "https://open.spotify.com/track/05UGQrcv8Aq4eYweOr1iPw"
+    },
+    {
+      "album": {
+        "name": "Mirando al techo - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/5gdeUHHlTOoHacuDfAf0jP"
+      },
+      "artists": [
+        {
+          "name": "Alizzz",
+          "url": "https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213152,
+      "name": "Mirando al techo - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/5y9Xi59ZyLx42gmjX0IYbm"
     },
     {
       "album": {
@@ -8392,6 +8428,28 @@
       "duration_ms": 244800,
       "name": "\u00bfQui\u00e9n Cuida al Pueblo?",
       "url": "https://open.spotify.com/track/640dyQsLPdiLI4vY16mq3D"
+    },
+    {
+      "album": {
+        "name": "\u00bfQu\u00e9 vas a saber?",
+        "url": "https://open.spotify.com/album/33IFiDbkayObVb36TdCV6l"
+      },
+      "artists": [
+        {
+          "name": "Love of Lesbian",
+          "url": "https://open.spotify.com/artist/6VCoG3MG7ZKRxDjaYOvtrF"
+        },
+        {
+          "name": "Amaral",
+          "url": "https://open.spotify.com/artist/4OkeTQCk0fvX6VBYpOOxDi"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251093,
+      "name": "\u00bfQu\u00e9 vas a saber?",
+      "url": "https://open.spotify.com/track/38V0tYzvhjYghBvlES5oef"
     },
     {
       "album": {

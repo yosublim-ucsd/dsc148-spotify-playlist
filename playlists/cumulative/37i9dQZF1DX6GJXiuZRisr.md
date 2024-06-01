@@ -4,7 +4,7 @@
 
 > Progressive <a href="spotify:genre:edm\_dance">house</a> music for the late night highway.
 
-494 songs - 1 day 10 hr 54 min
+495 songs - 1 day 10 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -408,7 +408,7 @@
 | [Take Me There](https://open.spotify.com/track/2EeNjDGRMgtFfDbwqVVKbs) | [Spada](https://open.spotify.com/artist/2hPCF7VDHhihvNdobslOHw) | [Take Me There](https://open.spotify.com/album/67c9idGRZEMdOXjWhbhLcj) | 3:08 | 2022-03-04 | 2022-07-29 |
 | [Take Me Up](https://open.spotify.com/track/1lY2Uhz2R15ks7kqDc0tGD) | [PALASTIC](https://open.spotify.com/artist/6OFZSmtxDquMkX2XZJSN6y) | [Take Me Up](https://open.spotify.com/album/7os08OWk7r3JfGw78VXMNh) | 2:27 | 2023-07-14 | 2023-09-30 |
 | [Tantrum](https://open.spotify.com/track/4CMsK9RIEcJEUwUkSvmBxQ) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Tantrum](https://open.spotify.com/album/2xnR6OX1P3XleZQUbT7MCF) | 3:49 | 2021-10-01 | 2023-05-20 |
-| [Tell Me Who You Are](https://open.spotify.com/track/5DOiLmt1qnKmGABK6fDsEL) | [Morgin Madison](https://open.spotify.com/artist/1WrO4cGKIG6EgYqyHNReej), [Ryan Lucian](https://open.spotify.com/artist/3G0LbPtRVV7lsCEJ4RDChX), [Jas.](https://open.spotify.com/artist/3ueCEKtgkcjy2YxGPjCobz) | [Tell Me Who You Are](https://open.spotify.com/album/672adEy4YmFkeZ32AIBgJn) | 3:43 | 2024-05-17 |  |
+| [Tell Me Who You Are](https://open.spotify.com/track/5DOiLmt1qnKmGABK6fDsEL) | [Morgin Madison](https://open.spotify.com/artist/1WrO4cGKIG6EgYqyHNReej), [Ryan Lucian](https://open.spotify.com/artist/3G0LbPtRVV7lsCEJ4RDChX), [Jas.](https://open.spotify.com/artist/3ueCEKtgkcjy2YxGPjCobz) | [Tell Me Who You Are](https://open.spotify.com/album/672adEy4YmFkeZ32AIBgJn) | 3:43 | 2024-05-17 | 2024-06-01 |
 | [Tell Me Why \- MEDUZA Remix](https://open.spotify.com/track/7jrMFjEq0t09f7m3HnnWXl) | [Supermode](https://open.spotify.com/artist/7urnl0uH1w3NCoErxw7AUK), [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu) | [Tell Me Why \(MEDUZA Remix\)](https://open.spotify.com/album/6CTjQWx50yUs4wNu95cnlM) | 2:51 | 2022-09-30 |  |
 | [Temper Temper \(feat\. ONR\)](https://open.spotify.com/track/4muUXLYIrhCXtFsPogjIcn) | [Sander van Doorn](https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz), [ONR](https://open.spotify.com/artist/1BGDL6ycDCoa3STlZtCnHi) | [Temper Temper \(feat\. ONR\)](https://open.spotify.com/album/78cHKcaJ2agjy5arczangj) | 3:33 | 2021-05-07 | 2023-05-06 |
 | [That Feeling](https://open.spotify.com/track/2A0i0EbPhPPQB1DijycJ27) | [Jackarta](https://open.spotify.com/artist/5kknK5Imix5mqqafSAxg7d) | [That Feeling](https://open.spotify.com/album/3rK4b6PnEFmch3KMyu54yK) | 3:51 | 2021-12-17 | 2022-07-27 |
@@ -476,6 +476,7 @@
 | [Vommuli](https://open.spotify.com/track/0P3Sfu8JGonAXzPyjAf6RU) | [EDX](https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6) | [Vommuli](https://open.spotify.com/album/4UPeZ2BiTHtX5sQ2XhURQL) | 3:52 | 2021-08-20 | 2022-12-24 |
 | [Voye](https://open.spotify.com/track/54GMmWJvKU8o1BrGB1NaqO) | [Enamour](https://open.spotify.com/artist/6D1PUSzHf2Z4jTFIdhjJoO) | [Voye/Culture Is Chaos](https://open.spotify.com/album/5SGkJqdh31fCP50j2boyrv) | 4:34 | 2021-05-07 | 2022-04-17 |
 | [Waiting For You](https://open.spotify.com/track/67cSFn3SLBoKqGW20bswdw) | [Anabel Englund](https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c), [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Waiting For You](https://open.spotify.com/album/6nNwHKu6VPH8XNSoLXOyGg) | 3:45 | 2021-07-30 | 2022-08-15 |
+| [Want You](https://open.spotify.com/track/0RmSH4q2Sf3BJsijHanCgj) | [Dezko](https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD) | [Want You](https://open.spotify.com/album/2kj2Acb0PsgCk15XroFslc) | 3:58 | 2024-05-31 |  |
 | [Warehouse](https://open.spotify.com/track/2wER3gVMMIWPusxOjoWlcQ) | [Oliver Smith](https://open.spotify.com/artist/2Npo4Cfm48M2uKlvxiXMic) | [Warehouse](https://open.spotify.com/album/5nMBgawIQbyTWNeQ5HVXxK) | 4:06 | 2021-05-07 | 2022-08-15 |
 | [Warrior](https://open.spotify.com/track/5cjbk2qAP4pWvntOySll30) | [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp) | [Warrior](https://open.spotify.com/album/6Ajxy3TSyqd7mZJI4QELXl) | 3:25 | 2024-04-26 | 2024-05-25 |
 | [Waves of the Soul](https://open.spotify.com/track/3pIFT7NY5IjtUoLlD1kWOt) | [Massane](https://open.spotify.com/artist/0cjvrTtv350Ls87eGY80iz) | [Waves of the Soul](https://open.spotify.com/album/3j0ZhOcH3kccfgsVKUa7mL) | 3:32 | 2022-06-03 | 2022-07-29 |

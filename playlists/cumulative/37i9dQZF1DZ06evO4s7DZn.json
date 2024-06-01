@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-02",
-  "description": "This Is Banda Rafaga. Los temas esenciales, todos en una lista.",
+  "description": "This is Banda Rafaga. The essential tracks, all in one playlist.",
   "name": "This Is Banda Rafaga",
   "tracks": [
     {
@@ -1154,10 +1154,28 @@
       ],
       "date_added": "2022-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 207625,
       "name": "Mi Ultima Parranda - En Vivo",
       "url": "https://open.spotify.com/track/3QyfrvlB1OGCHsFeOAgglU"
+    },
+    {
+      "album": {
+        "name": "Al Ataque",
+        "url": "https://open.spotify.com/album/3CEKMRCbGdxOnCohDapTcv"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2024-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211406,
+      "name": "Mi \u00daltima Parranda",
+      "url": "https://open.spotify.com/track/3FCdny607s4cotns5zJ5SE"
     },
     {
       "album": {

@@ -113,6 +113,24 @@
     },
     {
       "album": {
+        "name": "3",
+        "url": "https://open.spotify.com/album/2Esif7qCtdu8GaxVeLbMqN"
+      },
+      "artists": [
+        {
+          "name": "Sweet California",
+          "url": "https://open.spotify.com/artist/0D48D7HFC7NtWKftvsDIXq"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196360,
+      "name": "Broke",
+      "url": "https://open.spotify.com/track/7nn5HRBngi7LTst0dDxVTt"
+    },
+    {
+      "album": {
         "name": "Summer EDM Pop",
         "url": "https://open.spotify.com/album/7w2wgSDixtsRQuEEFkzTKy"
       },

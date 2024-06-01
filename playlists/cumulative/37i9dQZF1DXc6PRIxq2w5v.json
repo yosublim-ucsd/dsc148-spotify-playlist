@@ -943,6 +943,24 @@
     },
     {
       "album": {
+        "name": "Bra\u00e7o Forte",
+        "url": "https://open.spotify.com/album/3yJlUXevXnAMhtdxLmJl4X"
+      },
+      "artists": [
+        {
+          "name": "Big Asher",
+          "url": "https://open.spotify.com/artist/65ADuZ2uq8b2110UIBwCcU"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168112,
+      "name": "Bra\u00e7o Forte",
+      "url": "https://open.spotify.com/track/4rFV6vZRBeot4BBEz4TbZk"
+    },
+    {
+      "album": {
         "name": "B\u00edblia no Jeans",
         "url": "https://open.spotify.com/album/1p3FBw3lyxNsvspB0k1xjb"
       },
@@ -2572,7 +2590,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 244500,
       "name": "Eu Te Amo",
       "url": "https://open.spotify.com/track/5Ck8Dr84bu5E4jCOUe9nGm"
@@ -3654,7 +3672,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 200816,
       "name": "J\u00e1 Agrade\u00e7o",
       "url": "https://open.spotify.com/track/6uPPNDcBGCQoeThIEdtJsL"
@@ -4141,6 +4159,32 @@
     },
     {
       "album": {
+        "name": "Mclaren",
+        "url": "https://open.spotify.com/album/6U592VFq5obsMaoih8OC8U"
+      },
+      "artists": [
+        {
+          "name": "LEVII MC",
+          "url": "https://open.spotify.com/artist/0dazB8YxD1WqflS4ipqG8v"
+        },
+        {
+          "name": "Trindade Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+        },
+        {
+          "name": "Love Funk",
+          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158797,
+      "name": "Mclaren",
+      "url": "https://open.spotify.com/track/6RWE0OWD52VIiWMZmSIdie"
+    },
+    {
+      "album": {
         "name": "Me Deixou Forte",
         "url": "https://open.spotify.com/album/3mBjCMB5t6X6FU6K1sm5Va"
       },
@@ -4514,7 +4558,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 157741,
       "name": "Meu Sonho",
       "url": "https://open.spotify.com/track/1dGxOpMQknNgkD5d9BCObF"
@@ -5380,6 +5424,24 @@
       "duration_ms": 161701,
       "name": "Paracetamol (Divisa de Fogo)",
       "url": "https://open.spotify.com/track/5uazbSDG1BgLf8EMJypfNq"
+    },
+    {
+      "album": {
+        "name": "Passagem",
+        "url": "https://open.spotify.com/album/1P6P9IhePoLevwv7QVS60k"
+      },
+      "artists": [
+        {
+          "name": "CAIQ",
+          "url": "https://open.spotify.com/artist/1KWpZUdDFZt8GXdU5Uza3z"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154325,
+      "name": "Passagem",
+      "url": "https://open.spotify.com/track/3mpbhUnMsSxR6QWO8nJW5A"
     },
     {
       "album": {

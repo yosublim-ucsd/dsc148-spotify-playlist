@@ -1,6 +1,6 @@
 {
   "description": "Take a world tour on the club floor. \nCover: DJ Swisha",
-  "num_followers": 31312,
+  "num_followers": 31323,
   "original_name": "Global Club Music",
   "owner": {
     "name": "Spotify",
@@ -587,26 +587,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "nasty",
-        "url": "https://open.spotify.com/album/40wjGbffx3oRJRRhbvDyYN"
-      },
-      "artists": [
-        {
-          "name": "Princesa Alba",
-          "url": "https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3"
-        },
-        {
-          "name": "Ms Nina",
-          "url": "https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ"
-        }
-      ],
-      "duration_ms": 175505,
-      "name": "nasty",
-      "url": "https://open.spotify.com/track/3mD5eYWsXfGJOeBA9cSWMa"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Dark City Beneath The Beat (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3uzH6PmVioHRyKmBcJFELQ"
       },
@@ -627,6 +607,26 @@
       "duration_ms": 162919,
       "name": "Roll Call (feat. TT The Artist & Mighty Mark)",
       "url": "https://open.spotify.com/track/0CqO3pjpupPRniIQIqfDDC"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "nasty",
+        "url": "https://open.spotify.com/album/40wjGbffx3oRJRRhbvDyYN"
+      },
+      "artists": [
+        {
+          "name": "Princesa Alba",
+          "url": "https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3"
+        },
+        {
+          "name": "Ms Nina",
+          "url": "https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ"
+        }
+      ],
+      "duration_ms": 175505,
+      "name": "nasty",
+      "url": "https://open.spotify.com/track/3mD5eYWsXfGJOeBA9cSWMa"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -751,6 +751,26 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "Arriba",
+        "url": "https://open.spotify.com/album/2X5FDyB4cH7pBeoXjbgM1L"
+      },
+      "artists": [
+        {
+          "name": "DJ Sliink",
+          "url": "https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk"
+        },
+        {
+          "name": "Spence Lee",
+          "url": "https://open.spotify.com/artist/14an7ScQuhM34iovTS6CNa"
+        }
+      ],
+      "duration_ms": 139701,
+      "name": "Arriba",
+      "url": "https://open.spotify.com/track/52ELmtQHttLnmaSc6xv4zd"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "Squad Up",
         "url": "https://open.spotify.com/album/1S2JXFkTAuO1OYBF1uvwvj"
       },
@@ -771,26 +791,6 @@
       "duration_ms": 166285,
       "name": "Squad Up",
       "url": "https://open.spotify.com/track/1MNSnH2vMRV12gDZTGwFNN"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Arriba",
-        "url": "https://open.spotify.com/album/2X5FDyB4cH7pBeoXjbgM1L"
-      },
-      "artists": [
-        {
-          "name": "DJ Sliink",
-          "url": "https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk"
-        },
-        {
-          "name": "Spence Lee",
-          "url": "https://open.spotify.com/artist/14an7ScQuhM34iovTS6CNa"
-        }
-      ],
-      "duration_ms": 139701,
-      "name": "Arriba",
-      "url": "https://open.spotify.com/track/52ELmtQHttLnmaSc6xv4zd"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1343,26 +1343,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "The Floor Is Ours",
-        "url": "https://open.spotify.com/album/2elNjgpGtg7wOBytKwswH1"
-      },
-      "artists": [
-        {
-          "name": "Mighty Mark",
-          "url": "https://open.spotify.com/artist/1ZOrj4AfBAHarzErIezwhM"
-        },
-        {
-          "name": "Rodney Hollywood",
-          "url": "https://open.spotify.com/artist/2RyjqNp5fTdWENGR0vRTVv"
-        }
-      ],
-      "duration_ms": 209090,
-      "name": "The Floor Is Ours",
-      "url": "https://open.spotify.com/track/767s2E491pxVbvHhaKsmZU"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Blessed More Blessed (Dance Remixes)",
         "url": "https://open.spotify.com/album/1hGXMvwkZUCtD74eVowCMk"
       },
@@ -1383,18 +1363,22 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Wash Yo Handz",
-        "url": "https://open.spotify.com/album/6NyZuJXVfaw3yg6jh8rjkY"
+        "name": "The Floor Is Ours",
+        "url": "https://open.spotify.com/album/2elNjgpGtg7wOBytKwswH1"
       },
       "artists": [
         {
-          "name": "DJ Class",
-          "url": "https://open.spotify.com/artist/7hbhhKxV5iT4C9kQMEW507"
+          "name": "Mighty Mark",
+          "url": "https://open.spotify.com/artist/1ZOrj4AfBAHarzErIezwhM"
+        },
+        {
+          "name": "Rodney Hollywood",
+          "url": "https://open.spotify.com/artist/2RyjqNp5fTdWENGR0vRTVv"
         }
       ],
-      "duration_ms": 118282,
-      "name": "Wash Yo Handz",
-      "url": "https://open.spotify.com/track/0r1zuvTrYEXOSYw6vv2zZB"
+      "duration_ms": 209090,
+      "name": "The Floor Is Ours",
+      "url": "https://open.spotify.com/track/767s2E491pxVbvHhaKsmZU"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1439,6 +1423,22 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "Wash Yo Handz",
+        "url": "https://open.spotify.com/album/6NyZuJXVfaw3yg6jh8rjkY"
+      },
+      "artists": [
+        {
+          "name": "DJ Class",
+          "url": "https://open.spotify.com/artist/7hbhhKxV5iT4C9kQMEW507"
+        }
+      ],
+      "duration_ms": 118282,
+      "name": "Wash Yo Handz",
+      "url": "https://open.spotify.com/track/0r1zuvTrYEXOSYw6vv2zZB"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "Sub Zero",
         "url": "https://open.spotify.com/album/6e2IsVAatL9zzIaXJNTGSd"
       },
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Bubbly",
-        "url": "https://open.spotify.com/album/4tgYqNxOWopZY3jZNf42OI"
-      },
-      "artists": [
-        {
-          "name": "DJ Manny",
-          "url": "https://open.spotify.com/artist/5whJkWAzwCYfeetVpUJKn7"
-        }
-      ],
-      "duration_ms": 169146,
-      "name": "Bubbly",
-      "url": "https://open.spotify.com/track/21WEswbNVT85ni62l9WFqw"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Money Mouth",
         "url": "https://open.spotify.com/album/691hEcaZox9DpOhMnzRa4o"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 129348,
       "name": "Money Mouth",
       "url": "https://open.spotify.com/track/0G6rvTge4OQ8DYaOntvqFd"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Bubbly",
+        "url": "https://open.spotify.com/album/4tgYqNxOWopZY3jZNf42OI"
+      },
+      "artists": [
+        {
+          "name": "DJ Manny",
+          "url": "https://open.spotify.com/artist/5whJkWAzwCYfeetVpUJKn7"
+        }
+      ],
+      "duration_ms": 169146,
+      "name": "Bubbly",
+      "url": "https://open.spotify.com/track/21WEswbNVT85ni62l9WFqw"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1647,26 +1647,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Nights Into Mornings EP",
-        "url": "https://open.spotify.com/album/6wgYPnFPjoD178hdY6cvea"
-      },
-      "artists": [
-        {
-          "name": "CalvoMusic",
-          "url": "https://open.spotify.com/artist/2bq46AC8MbKxNRve4AKEEo"
-        },
-        {
-          "name": "DJ Glo 410",
-          "url": "https://open.spotify.com/artist/6czHYf2hTNoxQYXlQTijWM"
-        }
-      ],
-      "duration_ms": 202439,
-      "name": "Ga$ton Rasta",
-      "url": "https://open.spotify.com/track/6YBiXXECi9ePcN6hToOpU1"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "BADBOI",
         "url": "https://open.spotify.com/album/1vpixBHNGprGXBkLsQofuN"
       },
@@ -1683,6 +1663,26 @@
       "duration_ms": 196535,
       "name": "BADBOI",
       "url": "https://open.spotify.com/track/1pKk7nVh4fGjI8k6t20PmX"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Nights Into Mornings EP",
+        "url": "https://open.spotify.com/album/6wgYPnFPjoD178hdY6cvea"
+      },
+      "artists": [
+        {
+          "name": "CalvoMusic",
+          "url": "https://open.spotify.com/artist/2bq46AC8MbKxNRve4AKEEo"
+        },
+        {
+          "name": "DJ Glo 410",
+          "url": "https://open.spotify.com/artist/6czHYf2hTNoxQYXlQTijWM"
+        }
+      ],
+      "duration_ms": 202439,
+      "name": "Ga$ton Rasta",
+      "url": "https://open.spotify.com/track/6YBiXXECi9ePcN6hToOpU1"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1759,22 +1759,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Another Chance (SBF17)",
-        "url": "https://open.spotify.com/album/7ddsu7Hd6aRxDYG0KTYIy9"
-      },
-      "artists": [
-        {
-          "name": "DJ Earl",
-          "url": "https://open.spotify.com/artist/3Y6Xd3ZOlhkroMrz1Bmo0Y"
-        }
-      ],
-      "duration_ms": 183345,
-      "name": "Another Chance - SBF17",
-      "url": "https://open.spotify.com/track/1XHBrciEOk88g5toN30LNS"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Let Me Catch My Breath (Baltimega Remix)",
         "url": "https://open.spotify.com/album/318sp40nw0rYQapfTwUz0Z"
       },
@@ -1795,22 +1779,18 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Bedroom DJ Remixes",
-        "url": "https://open.spotify.com/album/4dlycoHbcrvJS5nLvUf2fS"
+        "name": "Another Chance (SBF17)",
+        "url": "https://open.spotify.com/album/7ddsu7Hd6aRxDYG0KTYIy9"
       },
       "artists": [
         {
-          "name": "Tomu DJ",
-          "url": "https://open.spotify.com/artist/3IkZulWyXacENlNykgnmwh"
-        },
-        {
-          "name": "So Drove",
-          "url": "https://open.spotify.com/artist/1wnkxdBk9u11unJmShBLFe"
+          "name": "DJ Earl",
+          "url": "https://open.spotify.com/artist/3Y6Xd3ZOlhkroMrz1Bmo0Y"
         }
       ],
-      "duration_ms": 168827,
-      "name": "Bedroom DJ - So Drove's Reefer Mix",
-      "url": "https://open.spotify.com/track/6RqVgeyPhiV42dtTYSGzQT"
+      "duration_ms": 183345,
+      "name": "Another Chance - SBF17",
+      "url": "https://open.spotify.com/track/1XHBrciEOk88g5toN30LNS"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1843,6 +1823,26 @@
       "duration_ms": 348000,
       "name": "Something Else",
       "url": "https://open.spotify.com/track/1QfBG4EMitoLtVy1796F8A"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Bedroom DJ Remixes",
+        "url": "https://open.spotify.com/album/4dlycoHbcrvJS5nLvUf2fS"
+      },
+      "artists": [
+        {
+          "name": "Tomu DJ",
+          "url": "https://open.spotify.com/artist/3IkZulWyXacENlNykgnmwh"
+        },
+        {
+          "name": "So Drove",
+          "url": "https://open.spotify.com/artist/1wnkxdBk9u11unJmShBLFe"
+        }
+      ],
+      "duration_ms": 168827,
+      "name": "Bedroom DJ - So Drove's Reefer Mix",
+      "url": "https://open.spotify.com/track/6RqVgeyPhiV42dtTYSGzQT"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1915,22 +1915,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "DELETE",
-        "url": "https://open.spotify.com/album/5HZJ7eDbjIaCvs8YVpnsp6"
-      },
-      "artists": [
-        {
-          "name": "Jubilee",
-          "url": "https://open.spotify.com/artist/2J0nrQnGGAgPlgQz4hj7iK"
-        }
-      ],
-      "duration_ms": 376888,
-      "name": "DELETE",
-      "url": "https://open.spotify.com/track/09vJDWdKEkO92JmpbIw6FE"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "FIJI WATER",
         "url": "https://open.spotify.com/album/1BS1edClr1Bo0pdBTq8zuk"
       },
@@ -1947,6 +1931,42 @@
       "duration_ms": 136615,
       "name": "FIJI WATER",
       "url": "https://open.spotify.com/track/4YHwBlm1YVZ8pgMVlYAx9k"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "DELETE",
+        "url": "https://open.spotify.com/album/5HZJ7eDbjIaCvs8YVpnsp6"
+      },
+      "artists": [
+        {
+          "name": "Jubilee",
+          "url": "https://open.spotify.com/artist/2J0nrQnGGAgPlgQz4hj7iK"
+        }
+      ],
+      "duration_ms": 376888,
+      "name": "DELETE",
+      "url": "https://open.spotify.com/track/09vJDWdKEkO92JmpbIw6FE"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "I Am In Love",
+        "url": "https://open.spotify.com/album/3eJWtTvfnKFb0lax8imgZS"
+      },
+      "artists": [
+        {
+          "name": "FARRAH",
+          "url": "https://open.spotify.com/artist/4R862i0Bp6ESVOKauKCviF"
+        },
+        {
+          "name": "DIALYUP",
+          "url": "https://open.spotify.com/artist/31kpdqeO4EBxFxzlpAA5Fb"
+        }
+      ],
+      "duration_ms": 173142,
+      "name": "I Am In Love",
+      "url": "https://open.spotify.com/track/3fNYguDH58u3AWRvS0cnj3"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1979,26 +1999,6 @@
       "duration_ms": 342481,
       "name": "TEMPRANO",
       "url": "https://open.spotify.com/track/67m4RmEnCwnnvDwFMkKH0N"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "I Am In Love",
-        "url": "https://open.spotify.com/album/3eJWtTvfnKFb0lax8imgZS"
-      },
-      "artists": [
-        {
-          "name": "FARRAH",
-          "url": "https://open.spotify.com/artist/4R862i0Bp6ESVOKauKCviF"
-        },
-        {
-          "name": "DIALYUP",
-          "url": "https://open.spotify.com/artist/31kpdqeO4EBxFxzlpAA5Fb"
-        }
-      ],
-      "duration_ms": 173142,
-      "name": "I Am In Love",
-      "url": "https://open.spotify.com/track/3fNYguDH58u3AWRvS0cnj3"
     },
     {
       "added_at": "2024-01-26 05:00:00",

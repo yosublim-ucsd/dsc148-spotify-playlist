@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Proudly South African Christian and Gospel music. Cover: \"<a href=https://open.spotify.com/artist/6Hmj1Zk3LCAFn8xvujto6O?si=9ekddFvAQ16ZB-bvtUzxLg>SbuNoah</a>",
+  "description": "Proudly South African Christian and Gospel music. Cover: \"<a href=https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W?si=t46aO0dvRdmAn7mro6qF6Q>Joyous Celebration</a>",
   "name": "Sunday Praise",
   "tracks": [
     {
@@ -90,6 +90,24 @@
       "duration_ms": 577213,
       "name": "Alikho Igama Medley - Live",
       "url": "https://open.spotify.com/track/0PUEg4WnXAvDRrAf8UH2kP"
+    },
+    {
+      "album": {
+        "name": "Joyous Celebration 28 (Live at Durban Icc)",
+        "url": "https://open.spotify.com/album/0kORCJYTN3LuO0z1HFycAU"
+      },
+      "artists": [
+        {
+          "name": "Joyous Celebration",
+          "url": "https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 709453,
+      "name": "Alikho Lelifana Nalo (Live at Durban Icc)",
+      "url": "https://open.spotify.com/track/2X9oiGVIqrF019oprZixGy"
     },
     {
       "album": {
@@ -386,6 +404,42 @@
       "duration_ms": 526653,
       "name": "Because of Jesus",
       "url": "https://open.spotify.com/track/7zddQIafkMLWDpnEw7r7y8"
+    },
+    {
+      "album": {
+        "name": "Joyous Celebration 28 (Live at Durban Icc)",
+        "url": "https://open.spotify.com/album/0kORCJYTN3LuO0z1HFycAU"
+      },
+      "artists": [
+        {
+          "name": "Joyous Celebration",
+          "url": "https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 561120,
+      "name": "Behlanziwe (Live at Durban Icc)",
+      "url": "https://open.spotify.com/track/7Ljt4HzZt0LkDYZf6Xbk7N"
+    },
+    {
+      "album": {
+        "name": "Joyous Celebration 28 (Live at Durban Icc)",
+        "url": "https://open.spotify.com/album/0kORCJYTN3LuO0z1HFycAU"
+      },
+      "artists": [
+        {
+          "name": "Joyous Celebration",
+          "url": "https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319706,
+      "name": "Bekani Ithemba (Live at Durban Icc)",
+      "url": "https://open.spotify.com/track/29MyBruOwJ76Kv9B5Xftrw"
     },
     {
       "album": {
@@ -1918,6 +1972,24 @@
       "duration_ms": 261825,
       "name": "Judgement Day",
       "url": "https://open.spotify.com/track/3QUgyfxDE3PeRUpF0naBqr"
+    },
+    {
+      "album": {
+        "name": "Thobekile",
+        "url": "https://open.spotify.com/album/5f5t7Nqs1RwHBD8w8j6KKF"
+      },
+      "artists": [
+        {
+          "name": "Thobekile",
+          "url": "https://open.spotify.com/artist/33RHB2uEq3urURGwHRw01o"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262866,
+      "name": "Just Like A Tree",
+      "url": "https://open.spotify.com/track/2ZWav7R2tEyJrXcY1VYXAD"
     },
     {
       "album": {
@@ -4814,6 +4886,32 @@
       "duration_ms": 343052,
       "name": "Vuma",
       "url": "https://open.spotify.com/track/6JY4EnkudR3Si4OJQcHGmz"
+    },
+    {
+      "album": {
+        "name": "Live at Mbombela Civic Center",
+        "url": "https://open.spotify.com/album/3TfAfDiEQtB4jAYldKCcvz"
+      },
+      "artists": [
+        {
+          "name": "Sipho Makhabane",
+          "url": "https://open.spotify.com/artist/5sFc16mtmgH8IiVYtJ2rF2"
+        },
+        {
+          "name": "Omega Khunou",
+          "url": "https://open.spotify.com/artist/5kiRFLzxYedX55EwwIDuj3"
+        },
+        {
+          "name": "Blessing",
+          "url": "https://open.spotify.com/artist/2I1dtkDbtKuLOP1caefRCP"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359394,
+      "name": "Vuma Moya Wami (feat. Omega Khunou & Blessing)",
+      "url": "https://open.spotify.com/track/0VR2xjrewH2UIB1LVfDdF6"
     },
     {
       "album": {

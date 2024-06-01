@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "All live, all jazz. Cover: John Coltrane & Eric Dolphy",
+  "description": "All live, all jazz. Cover: Nat King Cole",
   "name": "Jazz Live & Loud",
   "tracks": [
     {
@@ -1126,7 +1126,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 1022093,
       "name": "If I Were A Bell - Live at the Plugged Nickel, Chicago, IL (1st Set) - December 22, 1965",
       "url": "https://open.spotify.com/track/49cHo96zu4M7q5IvAXRRUY"
@@ -1574,7 +1574,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 602691,
       "name": "Ms. Angelou - Live",
       "url": "https://open.spotify.com/track/2aSiGeZ9qoYgdASyvzmOLl"
@@ -2531,6 +2531,24 @@
     },
     {
       "album": {
+        "name": "Unforgettable (Live at the Blue Note Chicago)",
+        "url": "https://open.spotify.com/album/2LtEbjL44Iq7YaZvIcFYIG"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224640,
+      "name": "Unforgettable - Live at the Blue Note Chicago",
+      "url": "https://open.spotify.com/track/2nAvXvEj9VqOHCBJnhMmoH"
+    },
+    {
+      "album": {
         "name": "Universal Gratitude (Trio - Live)",
         "url": "https://open.spotify.com/album/16SnKeimPpAsiEbXKtKnOY"
       },
@@ -2582,6 +2600,24 @@
       "duration_ms": 822154,
       "name": "Variations of a Bloodline - Live",
       "url": "https://open.spotify.com/track/2usSemKhVAcu6JUcM9UkTB"
+    },
+    {
+      "album": {
+        "name": "Live At The Blue Note Chicago",
+        "url": "https://open.spotify.com/album/2V1zyQVnrgnvxSngoARNcS"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127986,
+      "name": "Walkin' My Baby Back Home - Live at the Blue Note Chicago",
+      "url": "https://open.spotify.com/track/0LrkGhiOu55op9d3U8R9W1"
     },
     {
       "album": {

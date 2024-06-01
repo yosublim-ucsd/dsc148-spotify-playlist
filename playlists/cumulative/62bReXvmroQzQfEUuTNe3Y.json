@@ -1928,7 +1928,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 255750,
       "name": "Erase",
       "url": "https://open.spotify.com/track/28nIucnxLluv67DXZSbyRt"
@@ -6506,6 +6506,28 @@
       "duration_ms": 183650,
       "name": "Running Away",
       "url": "https://open.spotify.com/track/4w9VvLlJlJ1ZBGXOkBu0UC"
+    },
+    {
+      "album": {
+        "name": "Running Back to You",
+        "url": "https://open.spotify.com/album/7kIX9RgTqJEU02AL3B9g0Z"
+      },
+      "artists": [
+        {
+          "name": "Astrality",
+          "url": "https://open.spotify.com/artist/6KGv020mJkIjQH5YPDSBcZ"
+        },
+        {
+          "name": "Miggy Dela Rosa",
+          "url": "https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148306,
+      "name": "Running Back to You",
+      "url": "https://open.spotify.com/track/12VCcXBvOlraAB1G7DAWH6"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Viva o rock nacional! Ou\u00e7a o melhor do rock brasileiro. Foto: Black Pantera",
+  "description": "Viva o rock nacional! Ou\u00e7a o melhor do rock brasileiro. Foto: Ananda, DAY LIMNS",
   "name": "P\u00e1tria Rock",
   "tracks": [
     {
@@ -352,7 +352,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 62956,
       "name": "A V\u00e9ia do Zap",
       "url": "https://open.spotify.com/track/5lIpVsXx6Hw429gbJ2XGyD"
@@ -3162,7 +3162,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 369866,
       "name": "Fire - Ao Vivo",
       "url": "https://open.spotify.com/track/4A9tYqvuZKoYWjtGY5udru"
@@ -4797,6 +4797,24 @@
     },
     {
       "album": {
+        "name": "Minha Mulher (Demo Aa 2002)",
+        "url": "https://open.spotify.com/album/3mwUKuY9J1GlhiEMJNwlNw"
+      },
+      "artists": [
+        {
+          "name": "Comunidade Nin-jitsu",
+          "url": "https://open.spotify.com/artist/46Jgh80vLc36SBFi9UXpcg"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200670,
+      "name": "Minha Mulher (Demo Aa 2002)",
+      "url": "https://open.spotify.com/track/4FF04gTcWUXNme7g5FEEhp"
+    },
+    {
+      "album": {
         "name": "Muito Al\u00e9m",
         "url": "https://open.spotify.com/album/1FYjcxWp3R3dmBhjtjV3vo"
       },
@@ -5410,6 +5428,28 @@
       "duration_ms": 186947,
       "name": "N\u00e3o Sou Poeta",
       "url": "https://open.spotify.com/track/6mo20XLvNQkFmO5Cfl654N"
+    },
+    {
+      "album": {
+        "name": "N\u00e3o te quero mais (Marte)",
+        "url": "https://open.spotify.com/album/6A1jGleeIH2RtjqU1k3hGX"
+      },
+      "artists": [
+        {
+          "name": "Ananda",
+          "url": "https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5"
+        },
+        {
+          "name": "DAY LIMNS",
+          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202978,
+      "name": "N\u00e3o te quero mais (Marte)",
+      "url": "https://open.spotify.com/track/2F7JJHOoEX23uSpyClSoH3"
     },
     {
       "album": {
@@ -6606,7 +6646,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 351517,
       "name": "Primeiros Erros",
       "url": "https://open.spotify.com/track/7FWkuxnRVX16pkVmxtO2Lt"
@@ -7480,6 +7520,24 @@
       "duration_ms": 152023,
       "name": "Sexo Animal",
       "url": "https://open.spotify.com/track/3Ori3rp369Md0VHHtIOx2k"
+    },
+    {
+      "album": {
+        "name": "s\u00e9ance: sombra",
+        "url": "https://open.spotify.com/album/2r6BzV4RsoSqFVLSQXpbyl"
+      },
+      "artists": [
+        {
+          "name": "Mayra",
+          "url": "https://open.spotify.com/artist/3XSWVsSggcTo6Bv8pcDqnt"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175609,
+      "name": "sil\u00eancio",
+      "url": "https://open.spotify.com/track/4SJDdyGOGz35pPjBPQc2fW"
     },
     {
       "album": {

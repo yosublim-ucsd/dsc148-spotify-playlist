@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVS1LdzBKmob.md) - [plain]
 
 > Crystal singing bowls, frequencies and gongs to lift you up and transcend.
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,768 likes - 84 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,290 likes - 84 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVS1LdzBKmob.md) - [plain]
 | 4 | [Dream Fountain](https://open.spotify.com/track/3mJS7piKK2rjjJsodqDge2) | [Everlights](https://open.spotify.com/artist/000HQdx4eaeWmI51PZmeMZ) | [Dream Fountain](https://open.spotify.com/album/2SLsIU2EdI4yDwFk2ypT22) | 2:38 |
 | 5 | [Bathing in Sound Bowls](https://open.spotify.com/track/3nAaKu83XNXyd3QzZmIIJ5) | [Larrek](https://open.spotify.com/artist/6VFekblOut967g4jD8w46E) | [Bathing in Sound Bowls](https://open.spotify.com/album/3jF4K2BvsF0JNtcDqK5H1O) | 3:12 |
 | 6 | [The Source](https://open.spotify.com/track/69dyjWjzidXTs5ZfqrGG3Q) | [Zen Atlas](https://open.spotify.com/artist/6KjzMG22RTsrSCmy71Ok0N) | [The Source](https://open.spotify.com/album/7yZ7HGhnGWTHuXk8zJngrL) | 2:44 |
-| 7 | [Whispering Winter \- Sound Bath](https://open.spotify.com/track/08jB2g1DIVm96wQjywyNGb) | [The Forest Escape](https://open.spotify.com/artist/63nWC8U7RxoOnCLl3b6AK4) | [Whispering Winter](https://open.spotify.com/album/7wLCNTB7J063lWRwYMjjGC) | 3:00 |
+| 7 | [Whispering Winter \- Sound Bath](https://open.spotify.com/track/08jB2g1DIVm96wQjywyNGb) | [Willow Drift](https://open.spotify.com/artist/2HWEeg2dzDuXcK0tD8nBfI) | [Whispering Winter](https://open.spotify.com/album/7wLCNTB7J063lWRwYMjjGC) | 3:00 |
 | 8 | [Treetop Whisperer](https://open.spotify.com/track/3UiDIUA8MIxeAlHKQSVi6k) | [Beyond Observable](https://open.spotify.com/artist/1U6qKU6BSASFb54OOKP3bq) | [Treetop Whisperer](https://open.spotify.com/album/0M8YvEoSYX5WXvk29XApUN) | 3:09 |
 | 9 | [Āryāṣṭāṅgamārga / The Noble Eightfold Path](https://open.spotify.com/track/1q4Fpfl0YYEjhCL2YZrR2c) | [RE:LX](https://open.spotify.com/artist/58iF9cZ4AQvPmZgkhTa92u) | [Viṣṇu](https://open.spotify.com/album/41plsw5zfGv5DH5DGBCbDY) | 3:16 |
 | 10 | [Soul Elevation](https://open.spotify.com/track/5Pfn4dkyAIJoFz9ulqAkc5) | [Natura Relax](https://open.spotify.com/artist/084iu69ZxshixVfB7rcRg7), [Enchanted Sounds](https://open.spotify.com/artist/2c6l8ejTfqwvp2G2YAzq9M) | [Hang Drum Meditation](https://open.spotify.com/album/3cxLTdp6xaC6OG3iC16rZn) | 1:15 |

@@ -420,7 +420,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 400000,
       "name": "Afraid to shoot into the eyes of a stranger in a strange land",
       "url": "https://open.spotify.com/track/3MJJyNISd2cOCGCDsd57dG"
@@ -1618,7 +1618,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 277186,
       "name": "Blood Of The Elves",
       "url": "https://open.spotify.com/track/5yxBjLv4Zh3VLp4kSvoZyG"
@@ -2292,7 +2292,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 302392,
       "name": "Chelsea Smile",
       "url": "https://open.spotify.com/track/0uq2rghwRwU7kUUkDew2gG"
@@ -3140,6 +3140,24 @@
       "duration_ms": 228272,
       "name": "Darkbloom",
       "url": "https://open.spotify.com/track/3flxPmOcA1rm7rKsZLfnD9"
+    },
+    {
+      "album": {
+        "name": "Darkest Hour",
+        "url": "https://open.spotify.com/album/6b70Uf4v6jiTPGjLaJN4LC"
+      },
+      "artists": [
+        {
+          "name": "Axel Rudi Pell",
+          "url": "https://open.spotify.com/artist/7dWw3TXxNe2aEhng9vVRNl"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331602,
+      "name": "Darkest Hour",
+      "url": "https://open.spotify.com/track/7ybnH1YldJRE2lVyQAl4Tn"
     },
     {
       "album": {
@@ -5183,6 +5201,28 @@
     },
     {
       "album": {
+        "name": "Evil Eye / Get a Grip",
+        "url": "https://open.spotify.com/album/0lPpOFL64VeHLt2wx1E2RF"
+      },
+      "artists": [
+        {
+          "name": "Black Sabbath",
+          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+        },
+        {
+          "name": "Tony Iommi",
+          "url": "https://open.spotify.com/artist/7iA7uWUkWLpapsaaqmzRQV"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241773,
+      "name": "Get a Grip",
+      "url": "https://open.spotify.com/track/2tGrdc5Hryxq2dIiSS1egV"
+    },
+    {
+      "album": {
         "name": "Get in the Ring",
         "url": "https://open.spotify.com/album/4SZ83KkAeVrEazPQhWfaMP"
       },
@@ -6356,7 +6396,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 276653,
       "name": "Hungry and Angry",
       "url": "https://open.spotify.com/track/57PT761NIApIzfORTkmwWU"
@@ -6774,6 +6814,24 @@
       "duration_ms": 347742,
       "name": "Icon of Sin",
       "url": "https://open.spotify.com/track/5g64OWLbV0DFtLGCxOFmAo"
+    },
+    {
+      "album": {
+        "name": "Idle Hands",
+        "url": "https://open.spotify.com/album/4cGGbyTuQsDv2CnGyqGKHU"
+      },
+      "artists": [
+        {
+          "name": "Kerry King",
+          "url": "https://open.spotify.com/artist/6r1McS7CU46TsVEh1ckGuH"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224411,
+      "name": "Idle Hands",
+      "url": "https://open.spotify.com/track/3R0OvTDCFbarllFOnzKRWg"
     },
     {
       "album": {
@@ -9629,6 +9687,24 @@
     },
     {
       "album": {
+        "name": "One Foot In The Grave",
+        "url": "https://open.spotify.com/album/1WMolNCGsDhGvhD0Nd0phw"
+      },
+      "artists": [
+        {
+          "name": "Kittie",
+          "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222153,
+      "name": "One Foot In The Grave",
+      "url": "https://open.spotify.com/track/54fPJ9UDx68KkayeuskyAJ"
+    },
+    {
+      "album": {
         "name": "Steelfactory",
         "url": "https://open.spotify.com/album/5wQcC9Wbwalmy7fz7IekQP"
       },
@@ -12186,7 +12262,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 346053,
       "name": "Son of Vengeance",
       "url": "https://open.spotify.com/track/0fNSEGMYMcJpQIcLpUq9FT"
@@ -15984,6 +16060,24 @@
       "duration_ms": 285315,
       "name": "Yen",
       "url": "https://open.spotify.com/track/3jlGZP70KYqw0fjjDNoOe0"
+    },
+    {
+      "album": {
+        "name": "Hordes Of Chaos (Remastered 2024)",
+        "url": "https://open.spotify.com/album/6qHox2Ez3uxzQKbqSuuizT"
+      },
+      "artists": [
+        {
+          "name": "Kreator",
+          "url": "https://open.spotify.com/artist/3BM0EaYmkKWuPmmHFUTQHv"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 71551,
+      "name": "You Are The Government - Remastered 2024",
+      "url": "https://open.spotify.com/track/51O7fsnL8G1gn56U11XRS7"
     },
     {
       "album": {

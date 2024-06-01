@@ -1,6 +1,6 @@
 {
   "description": "Raw, sentimental feels.",
-  "num_followers": 447779,
+  "num_followers": 447867,
   "original_name": "sad lofi",
   "owner": {
     "name": "Spotify",
@@ -43,22 +43,6 @@
     {
       "added_at": "2024-05-13 12:58:04",
       "album": {
-        "name": "Memories & Notes",
-        "url": "https://open.spotify.com/album/3EeK9doDTJjMcpLw7gDQbt"
-      },
-      "artists": [
-        {
-          "name": "Juliette",
-          "url": "https://open.spotify.com/artist/2A9ozO2R5liuK6dMrhJwnQ"
-        }
-      ],
-      "duration_ms": 113357,
-      "name": "Memories & Notes",
-      "url": "https://open.spotify.com/track/0LJeA9BFfwRfsOTxzhWzCF"
-    },
-    {
-      "added_at": "2024-05-13 12:58:04",
-      "album": {
         "name": "Lose Traction",
         "url": "https://open.spotify.com/album/2AhbbB9ew0PQJrgPq77iKb"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 110433,
       "name": "Lose Traction",
       "url": "https://open.spotify.com/track/7o60oOsQGf3tpFrU2r6vVX"
+    },
+    {
+      "added_at": "2024-05-13 12:58:04",
+      "album": {
+        "name": "Memories & Notes",
+        "url": "https://open.spotify.com/album/3EeK9doDTJjMcpLw7gDQbt"
+      },
+      "artists": [
+        {
+          "name": "Juliette",
+          "url": "https://open.spotify.com/artist/2A9ozO2R5liuK6dMrhJwnQ"
+        }
+      ],
+      "duration_ms": 113357,
+      "name": "Memories & Notes",
+      "url": "https://open.spotify.com/track/0LJeA9BFfwRfsOTxzhWzCF"
     },
     {
       "added_at": "2024-05-13 12:58:04",
@@ -107,22 +107,6 @@
     {
       "added_at": "2024-05-13 12:58:04",
       "album": {
-        "name": "kyoto dreams",
-        "url": "https://open.spotify.com/album/3msbu1P8p3H5umoFgmosLT"
-      },
-      "artists": [
-        {
-          "name": "WAIIFUU",
-          "url": "https://open.spotify.com/artist/4HW4cjXaCVyNsbxUjyikIY"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "kyoto dreams",
-      "url": "https://open.spotify.com/track/7EzZ5GTsVwWApFLJyv6znP"
-    },
-    {
-      "added_at": "2024-05-13 12:58:04",
-      "album": {
         "name": "Call It A Night",
         "url": "https://open.spotify.com/album/1Xr2BvONEbJF8jKapfbg8O"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 141000,
       "name": "Call It A Night",
       "url": "https://open.spotify.com/track/4T7oDgtpVj7mvGseuU7nyA"
+    },
+    {
+      "added_at": "2024-05-13 12:58:04",
+      "album": {
+        "name": "kyoto dreams",
+        "url": "https://open.spotify.com/album/3msbu1P8p3H5umoFgmosLT"
+      },
+      "artists": [
+        {
+          "name": "WAIIFUU",
+          "url": "https://open.spotify.com/artist/4HW4cjXaCVyNsbxUjyikIY"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "kyoto dreams",
+      "url": "https://open.spotify.com/track/7EzZ5GTsVwWApFLJyv6znP"
     },
     {
       "added_at": "2024-05-13 12:58:04",
@@ -479,6 +479,22 @@
     {
       "added_at": "2024-05-13 12:58:04",
       "album": {
+        "name": "The Long Way Home",
+        "url": "https://open.spotify.com/album/2iOjpAiBlEo4sdgH18LN2b"
+      },
+      "artists": [
+        {
+          "name": "Nova Complex",
+          "url": "https://open.spotify.com/artist/6l4dM3CsVSbKjo8KjaKMbj"
+        }
+      ],
+      "duration_ms": 150955,
+      "name": "The Long Way Home",
+      "url": "https://open.spotify.com/track/79MrXgKiUaVxK8BrAmWN2n"
+    },
+    {
+      "added_at": "2024-05-13 12:58:04",
+      "album": {
         "name": "Dreemin'",
         "url": "https://open.spotify.com/album/44WEHjidINWRXTcjHP9mF0"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 107027,
       "name": "Hydra",
       "url": "https://open.spotify.com/track/3rWFeNkAIxfHy0MvHdzvAj"
-    },
-    {
-      "added_at": "2024-05-13 12:58:04",
-      "album": {
-        "name": "The Long Way Home",
-        "url": "https://open.spotify.com/album/2iOjpAiBlEo4sdgH18LN2b"
-      },
-      "artists": [
-        {
-          "name": "Nova Complex",
-          "url": "https://open.spotify.com/artist/6l4dM3CsVSbKjo8KjaKMbj"
-        }
-      ],
-      "duration_ms": 150955,
-      "name": "The Long Way Home",
-      "url": "https://open.spotify.com/track/79MrXgKiUaVxK8BrAmWN2n"
     },
     {
       "added_at": "2024-05-13 12:58:04",
@@ -575,22 +575,6 @@
     {
       "added_at": "2024-05-13 12:58:04",
       "album": {
-        "name": "clear blue atmosphere",
-        "url": "https://open.spotify.com/album/3x02MVIYzOPc6t6Mi6annZ"
-      },
-      "artists": [
-        {
-          "name": "Touristique",
-          "url": "https://open.spotify.com/artist/11rQUKWqk3opiirceuJVV2"
-        }
-      ],
-      "duration_ms": 140109,
-      "name": "clear blue atmosphere",
-      "url": "https://open.spotify.com/track/6s31znJTzvn34nJiPfBbHp"
-    },
-    {
-      "added_at": "2024-05-13 12:58:04",
-      "album": {
         "name": "soul",
         "url": "https://open.spotify.com/album/4uQ6ul2x84hfo75G4hl7EW"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 215713,
       "name": "memory",
       "url": "https://open.spotify.com/track/3kp7TJruKzJUlr3entkFZ2"
+    },
+    {
+      "added_at": "2024-05-13 12:58:04",
+      "album": {
+        "name": "clear blue atmosphere",
+        "url": "https://open.spotify.com/album/3x02MVIYzOPc6t6Mi6annZ"
+      },
+      "artists": [
+        {
+          "name": "Touristique",
+          "url": "https://open.spotify.com/artist/11rQUKWqk3opiirceuJVV2"
+        }
+      ],
+      "duration_ms": 140109,
+      "name": "clear blue atmosphere",
+      "url": "https://open.spotify.com/track/6s31znJTzvn34nJiPfBbHp"
     },
     {
       "added_at": "2024-05-13 12:58:04",
@@ -675,6 +675,22 @@
     {
       "added_at": "2024-05-13 12:58:04",
       "album": {
+        "name": "No I'm Not",
+        "url": "https://open.spotify.com/album/2Zya2z365pr9vclFnyZ0jh"
+      },
+      "artists": [
+        {
+          "name": "Imfinenow",
+          "url": "https://open.spotify.com/artist/4VegDdugwCSdbyoHdObFEy"
+        }
+      ],
+      "duration_ms": 117196,
+      "name": "No I'm Not",
+      "url": "https://open.spotify.com/track/2QE6nuYctAHddZOupghtms"
+    },
+    {
+      "added_at": "2024-05-13 12:58:04",
+      "album": {
         "name": "Snow Rose",
         "url": "https://open.spotify.com/album/3RQQK5575LOEB9MS6UgNt9"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 191707,
       "name": "Anything Like Her (feat. Tiffi)",
       "url": "https://open.spotify.com/track/1naqrWNoxyi6PEXz3NOXW0"
-    },
-    {
-      "added_at": "2024-05-13 12:58:04",
-      "album": {
-        "name": "No I'm Not",
-        "url": "https://open.spotify.com/album/2Zya2z365pr9vclFnyZ0jh"
-      },
-      "artists": [
-        {
-          "name": "Imfinenow",
-          "url": "https://open.spotify.com/artist/4VegDdugwCSdbyoHdObFEy"
-        }
-      ],
-      "duration_ms": 117196,
-      "name": "No I'm Not",
-      "url": "https://open.spotify.com/track/2QE6nuYctAHddZOupghtms"
     },
     {
       "added_at": "2024-05-13 12:58:04",
@@ -791,22 +791,6 @@
     {
       "added_at": "2024-05-13 12:58:04",
       "album": {
-        "name": "Adomania",
-        "url": "https://open.spotify.com/album/2MjfX0GYyRsVUdqHtGZP7D"
-      },
-      "artists": [
-        {
-          "name": "Toonorth",
-          "url": "https://open.spotify.com/artist/5cnRXRa8otbppSiXvfdmo3"
-        }
-      ],
-      "duration_ms": 90201,
-      "name": "Woozy",
-      "url": "https://open.spotify.com/track/15yOoJ6KjB2945Nuzhdtey"
-    },
-    {
-      "added_at": "2024-05-13 12:58:04",
-      "album": {
         "name": "diary 2018",
         "url": "https://open.spotify.com/album/4G6jljdW4ExppmD5dxfGHA"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 124974,
       "name": "dreary",
       "url": "https://open.spotify.com/track/1vepEjDDLAY1bNyxupZ4Ae"
+    },
+    {
+      "added_at": "2024-05-13 12:58:04",
+      "album": {
+        "name": "Adomania",
+        "url": "https://open.spotify.com/album/2MjfX0GYyRsVUdqHtGZP7D"
+      },
+      "artists": [
+        {
+          "name": "Toonorth",
+          "url": "https://open.spotify.com/artist/5cnRXRa8otbppSiXvfdmo3"
+        }
+      ],
+      "duration_ms": 90201,
+      "name": "Woozy",
+      "url": "https://open.spotify.com/track/15yOoJ6KjB2945Nuzhdtey"
     },
     {
       "added_at": "2024-05-13 12:58:04",

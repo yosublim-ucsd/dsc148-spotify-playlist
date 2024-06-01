@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Le meilleur du hip-hop qu\u00e9b\u00e9cois. Photo: TJ DTS",
+  "description": "Le meilleur du hip-hop qu\u00e9b\u00e9cois. Photo: Rymz",
   "name": "Rap qu\u00e9b",
   "tracks": [
     {
@@ -605,6 +605,28 @@
     },
     {
       "album": {
+        "name": "Airplane Mode",
+        "url": "https://open.spotify.com/album/1zfKztw7sjKoIe1UGFYjQw"
+      },
+      "artists": [
+        {
+          "name": "Misa",
+          "url": "https://open.spotify.com/artist/3KMRfMxNGZlob5zfIwwnMT"
+        },
+        {
+          "name": "Wartty",
+          "url": "https://open.spotify.com/artist/40nlgzBhZkXa6Ty9mig1Ns"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Airplane Mode",
+      "url": "https://open.spotify.com/track/1Joc2elHCiPE8MOfXDxdLd"
+    },
+    {
+      "album": {
         "name": "Allo c\u2019est qui?",
         "url": "https://open.spotify.com/album/4QBGKhrngSOqtwohuYVHgz"
       },
@@ -748,6 +770,24 @@
       "duration_ms": 193714,
       "name": "Ange de la mort",
       "url": "https://open.spotify.com/track/30Dn5bDh5M00zRpy5L1VJj"
+    },
+    {
+      "album": {
+        "name": "Le cheval blanc de Napol\u00e9on",
+        "url": "https://open.spotify.com/album/3ZoWSR9Fay4WzDRgemaC00"
+      },
+      "artists": [
+        {
+          "name": "Lary Kidd",
+          "url": "https://open.spotify.com/artist/1dHfOiwJsDtNzIIrsQgXtX"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179560,
+      "name": "Angle obtus",
+      "url": "https://open.spotify.com/track/1nKh1iLM6TSPdacLG2dCel"
     },
     {
       "album": {
@@ -1186,6 +1226,24 @@
       "duration_ms": 179200,
       "name": "Bandz",
       "url": "https://open.spotify.com/track/2rlEaQFrTtQ0f0PaYWl9A2"
+    },
+    {
+      "album": {
+        "name": "Bang",
+        "url": "https://open.spotify.com/album/2RFXO4vDJzbIp8zHw2YuIV"
+      },
+      "artists": [
+        {
+          "name": "Rymz",
+          "url": "https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227211,
+      "name": "Bang",
+      "url": "https://open.spotify.com/track/1Cam8hAddVp0uNaUMhUxXD"
     },
     {
       "album": {
@@ -2574,7 +2632,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 203322,
       "name": "Chien Mang\u00e9 Chien",
       "url": "https://open.spotify.com/track/2i0fBPihCnAu4c48PFdgvv"
@@ -3408,7 +3466,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 145000,
       "name": "Dehors",
       "url": "https://open.spotify.com/track/3hVBSzqIMOz5HERbVccKS4"
@@ -4418,7 +4476,7 @@
       ],
       "date_added": "2023-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 168318,
       "name": "Faucheuse",
       "url": "https://open.spotify.com/track/66VGZlm05d0M5glTZEdrga"
@@ -7924,7 +7982,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 232760,
       "name": "Moishes Riopelle",
       "url": "https://open.spotify.com/track/0YWWxtubocRe3nb4tXuDDw"
@@ -9362,6 +9420,28 @@
       "duration_ms": 178725,
       "name": "Partout",
       "url": "https://open.spotify.com/track/6dmmoMqEp0CDLiOZ2zZqbu"
+    },
+    {
+      "album": {
+        "name": "Pas l'choix",
+        "url": "https://open.spotify.com/album/6vGigTydEdJ4VjRYeim48h"
+      },
+      "artists": [
+        {
+          "name": "Gutta192",
+          "url": "https://open.spotify.com/artist/6xkNjwIRwqWMSw8ARQcppe"
+        },
+        {
+          "name": "Wawa EGK",
+          "url": "https://open.spotify.com/artist/2QkUFGd1PxHozycS2MotJ3"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252923,
+      "name": "Pas l'choix",
+      "url": "https://open.spotify.com/track/0hOq01qqFw0iiye2b9nzCS"
     },
     {
       "album": {
@@ -11716,7 +11796,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 142572,
       "name": "TAL",
       "url": "https://open.spotify.com/track/60J1RvTQlV1axnObvO2Uk7"
@@ -12926,6 +13006,24 @@
       "duration_ms": 187776,
       "name": "Wasabi",
       "url": "https://open.spotify.com/track/5OXFw7wT8P6Su13CoYVRSf"
+    },
+    {
+      "album": {
+        "name": "Way Too Long",
+        "url": "https://open.spotify.com/album/1mby3xq3SFGEeTSojPrsVH"
+      },
+      "artists": [
+        {
+          "name": "Sarahm\u00e9e",
+          "url": "https://open.spotify.com/artist/7icPanI4wjZVQCkvaUMWLX"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183821,
+      "name": "Way Too Long",
+      "url": "https://open.spotify.com/track/7Iz74b76qfdNOBOyVegHv2"
     },
     {
       "album": {

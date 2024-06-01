@@ -2,16 +2,18 @@
 
 ### [Armada Today](https://open.spotify.com/playlist/3PCZEuLpGKpsEHeaQ6cKEN)
 
-> The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \| Cover: Joris Delacroix
+> The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \| Cover: Armin van Buuren &amp; Chef'Special
 
-1,047 songs - 2 day 8 hr 3 min
+1,050 songs - 2 day 8 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| ['90s Memories](https://open.spotify.com/track/02G2O8L8R4yQvwzq4YsfsY) | [Nick Schilder](https://open.spotify.com/artist/4pbY2GIsT2jDoVxKqNQcpu) | ['90s Memories](https://open.spotify.com/album/610Ry2yUCsM9lgpZVcDPIA) | 2:26 | 2024-05-30 |  |
 | [1998 \- Victor Ruiz Remix](https://open.spotify.com/track/3LwquNfvB0eYXYB5HOtpnk) | [Binary Finary](https://open.spotify.com/artist/5suoHSdDiYsjikHNVdYYKe), [Victor Ruiz](https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z) | [Armada Music \- 20 Years \(Remixed\)](https://open.spotify.com/album/4OD3z2wuOlBanqCItlGtsb) | 4:12 | 2023-12-07 |  |
 | [21](https://open.spotify.com/track/3ZoLqdyYnMNIYi4iMTD17u) | [Audien](https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE), [Jason Ross](https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150) | [21](https://open.spotify.com/album/09wrAjWGZP8kWnJroh5Etq) | 3:37 | 2024-01-26 |  |
 | [3 Haselnüsse](https://open.spotify.com/track/6z0zac5O6Xn57EdKyvBuCE) | [Jaques Raupé](https://open.spotify.com/artist/7BPiWKbeuWueq4qGMz3A0T), [Felix Harrer](https://open.spotify.com/artist/7DDyntOmWbEgkGoIUaTxEp) | [3 Haselnüsse](https://open.spotify.com/album/3A8cavLgl2sr02yNDfKAVY) | 2:28 | 2023-12-17 |  |
 | [365](https://open.spotify.com/track/7eVAA9ikV898NbgVvAiDRI) | [NIIKO X SWAE](https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz) | [365](https://open.spotify.com/album/186DZjn5F0GLzttFamNjQq) | 2:23 | 2024-04-11 |  |
+| [5 Mins Of Acid](https://open.spotify.com/track/6NLvW45mqeoctfNA2YmPMr) | [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS) | [slash 010 \- 5 Mins Of Acid](https://open.spotify.com/album/6pRDiTc1Sc31lLpITNIh0j) | 5:00 | 2024-05-30 |  |
 | [A&S](https://open.spotify.com/track/4joJLer0vBve2ME4A0YU2i) | [Ridney](https://open.spotify.com/artist/5UmoeWk7RM3v9w1DUL4XUD), [Roisto](https://open.spotify.com/artist/0zkoIIaqJT7WP0rly4rOMk) | [A&S](https://open.spotify.com/album/7HmhPt7zhLiokEArwbMSJL) | 3:20 | 2023-12-07 |  |
 | [About The Weekend](https://open.spotify.com/track/3lEoFMhMMRYuRUkU24HiOM) | [GoldFish](https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7), [Sakhile Moleshe](https://open.spotify.com/artist/6pldHWtyWbWZUi5lBqrZpB) | [If Summer Was A Sound](https://open.spotify.com/album/3XfgIeHgOAfAeQz5qBXIzh) | 3:00 | 2023-12-07 | 2024-04-05 |
 | [Access \- Joris Voorn Remix](https://open.spotify.com/track/4vJJUd72zS9Ak5AmK4BBFk) | [DJ Misjah](https://open.spotify.com/artist/3GKyfn5Iyo8i5TxoV9jPms), [DJ Tim](https://open.spotify.com/artist/04VoCQzRyRw8P2jo52hqja), [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU) | [Access \(Joris Voorn Remix\)](https://open.spotify.com/album/36usuR6K7daeDyCeQg7f5R) | 3:10 | 2023-05-25 | 2023-08-01 |
@@ -476,6 +478,7 @@
 | [La Playa](https://open.spotify.com/track/1W1GlXELMT9LM9bFZ5EAlf) | [GoldFish](https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7), [LUISAH](https://open.spotify.com/artist/2jbmRtqNLORtXQWb8s9RFG) | [Ibiza 2023 \- Armada Music](https://open.spotify.com/album/08t2nRgDFFGc8qZq3NntAg) | 3:32 | 2023-07-31 | 2023-12-14 |
 | [La Playa](https://open.spotify.com/track/5W0DBnF4KbWbyrKiioUP41) | [GoldFish](https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7), [LUISAH](https://open.spotify.com/artist/2jbmRtqNLORtXQWb8s9RFG) | [La Playa](https://open.spotify.com/album/1EZogjxmesbePlL8Ap6Rjc) | 3:32 | 2023-06-01 | 2023-08-01 |
 | [Lalo's Theme Song](https://open.spotify.com/track/6FVQNFaTfSxvqnCI0gq14W) | [George Feely](https://open.spotify.com/artist/754g9H1CJLzlgTmMZTFC81) | [Lalo's Theme Song](https://open.spotify.com/album/7F3uXtZ36akR5XruK3FhDb) | 3:09 | 2023-02-09 | 2023-03-03 |
+| [Larger Than Life](https://open.spotify.com/track/18W9I2wA2gvfzpo4Oqc04O) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Chef'Special](https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3) | [Larger Than Life](https://open.spotify.com/album/7lzfAlDx8WeHENV6CDhHVG) | 2:55 | 2024-05-30 |  |
 | [Laroc](https://open.spotify.com/track/022a1XbhELRTggfqhJezpT) | [Scorz](https://open.spotify.com/artist/2WSmz7fObdRrG8ZTXz7kcn), [Silvio Soul](https://open.spotify.com/artist/37HzkmPYDZbgjgB9Ont3TE) | [Laroc](https://open.spotify.com/album/37xwxU6hRcA47A2f5leklz) | 3:23 | 2022-12-08 | 2023-01-06 |
 | [Latching Onto You \- T.U.R.F\. & Tensnake Noir Mix](https://open.spotify.com/track/14Jxde0UjdtbmRVuz4HJ4A) | [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq), [Nazzereene](https://open.spotify.com/artist/3juwo4sTF5okJNvCfQpArZ), [T.U.R.F.](https://open.spotify.com/artist/6sKG2ZnKVbH5kiCtWUwEVo) | [L.A\. Noir](https://open.spotify.com/album/1jKmCmE82FvDJFIub9Afzc) | 3:16 | 2022-06-09 | 2022-07-01 |
 | [Lay Low](https://open.spotify.com/track/0zKbDrEXKpnExhGQRe9dxt) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Lay Low](https://open.spotify.com/album/0EYKSXXTsON8ZA95BuCoXn) | 2:33 | 2023-01-19 | 2023-05-05 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-11",
-  "description": "T\u00fcrkiye'nin en s\u0131k\u0131 \u00e7alma listesi. Kapak: ElMusto",
+  "description": "T\u00fcrkiye'nin en s\u0131k\u0131 \u00e7alma listesi. Kapak: Organize x Astral",
   "name": "NKVT",
   "tracks": [
     {
@@ -949,6 +949,24 @@
     },
     {
       "album": {
+        "name": "BEN\u0130MS\u0130N",
+        "url": "https://open.spotify.com/album/6qMJN3UZFYWEGfN64C0LVq"
+      },
+      "artists": [
+        {
+          "name": "Murda",
+          "url": "https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160025,
+      "name": "BEN\u0130MS\u0130N",
+      "url": "https://open.spotify.com/track/0wIFigZkGmivwhAkrCAz09"
+    },
+    {
+      "album": {
         "name": "SIR",
         "url": "https://open.spotify.com/album/7l1gVxwITzFt0YE4gqLVyk"
       },
@@ -1616,6 +1634,24 @@
       "duration_ms": 163404,
       "name": "De\u011filim Bi A\u015f\u0131k",
       "url": "https://open.spotify.com/track/0zjiGvCYPHDT7OT4HIv5kp"
+    },
+    {
+      "album": {
+        "name": "Dilden Dile",
+        "url": "https://open.spotify.com/album/60X4XyKOlu9SliLzjElmGB"
+      },
+      "artists": [
+        {
+          "name": "Sansar Salvo",
+          "url": "https://open.spotify.com/artist/6hxb4rGrYXtrAZbUK7uzt9"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217289,
+      "name": "Dilden Dile",
+      "url": "https://open.spotify.com/track/2gEzY9A4cQIOGsOM9xODKF"
     },
     {
       "album": {
@@ -3001,6 +3037,28 @@
     },
     {
       "album": {
+        "name": "The World is Yours",
+        "url": "https://open.spotify.com/album/49uDkFve9sxXZZWywtq00f"
+      },
+      "artists": [
+        {
+          "name": "Organize",
+          "url": "https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3"
+        },
+        {
+          "name": "Astral",
+          "url": "https://open.spotify.com/artist/3IF4aFcrT6HPmovQFSFLwF"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118274,
+      "name": "IstanbuL",
+      "url": "https://open.spotify.com/track/4kL9OgH9eGLWRERkUSH5RZ"
+    },
+    {
+      "album": {
         "name": "\u0130lle de Sen",
         "url": "https://open.spotify.com/album/6U2CPuKLntRSRrSUPR4DES"
       },
@@ -3599,6 +3657,46 @@
     },
     {
       "album": {
+        "name": "Kimler Gelmi\u015f",
+        "url": "https://open.spotify.com/album/434v3QmLFWEO6tul6tLCbw"
+      },
+      "artists": [
+        {
+          "name": "Tefo",
+          "url": "https://open.spotify.com/artist/5bKfDewWHUg0VqXqRX1low"
+        },
+        {
+          "name": "Seko",
+          "url": "https://open.spotify.com/artist/5ExPDJ7ouyX5oURLZ7VcAh"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128108,
+      "name": "Kimler Gelmi\u015f",
+      "url": "https://open.spotify.com/track/1hTGDVYNtZ5PEnJtawJz2o"
+    },
+    {
+      "album": {
+        "name": "King of Rap",
+        "url": "https://open.spotify.com/album/6b60t1x47eZhkbb2KEF44q"
+      },
+      "artists": [
+        {
+          "name": "Patron",
+          "url": "https://open.spotify.com/artist/2r8iLFeSTuOiZualHmSXxS"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221298,
+      "name": "King of Rap",
+      "url": "https://open.spotify.com/track/3wbVrnev0g71xcrpQhzfRw"
+    },
+    {
+      "album": {
         "name": "KOCAMAN",
         "url": "https://open.spotify.com/album/2qx4y7tqoZSbgKwMFnkC4o"
       },
@@ -3694,7 +3792,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 141473,
       "name": "Korkmasan",
       "url": "https://open.spotify.com/track/4bVWnUmckay9Ek0HB05cCS"
@@ -3716,7 +3814,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 286961,
       "name": "Koyu Siyah",
       "url": "https://open.spotify.com/track/4RaUr30Wsaw3y2sSHjl9QM"
@@ -3990,7 +4088,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 129966,
       "name": "LANNISTER",
       "url": "https://open.spotify.com/track/3kahv1hGB5bOr5blQMguOx"
@@ -4556,7 +4654,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 196285,
       "name": "M\u00fcmk\u00fcnse",
       "url": "https://open.spotify.com/track/1LYVm4xK4dAoBNd4IDs5Wa"
@@ -5867,6 +5965,24 @@
     },
     {
       "album": {
+        "name": "ummak apt.",
+        "url": "https://open.spotify.com/album/6tECQeZNViwCKMnr9glZF3"
+      },
+      "artists": [
+        {
+          "name": "Yung Ouzo",
+          "url": "https://open.spotify.com/artist/3VooEK5HkkcSc4Tv7FCBzb"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163298,
+      "name": "sen iste <3",
+      "url": "https://open.spotify.com/track/5OyAIjpULqe26T058n2AFf"
+    },
+    {
+      "album": {
         "name": "Bi Taksi \u00c7a\u011f\u0131r\u0131n",
         "url": "https://open.spotify.com/album/5tJWGF02xJbtZb0iJ5rzKn"
       },
@@ -5970,6 +6086,28 @@
       "duration_ms": 122000,
       "name": "SENIN UGRUNA",
       "url": "https://open.spotify.com/track/5flH7FY4ledAQboO5a0XQ5"
+    },
+    {
+      "album": {
+        "name": "Senin Y\u00fcz\u00fcnden",
+        "url": "https://open.spotify.com/album/6DDJbeIc0r9H1z1NpQRmMi"
+      },
+      "artists": [
+        {
+          "name": "Etki",
+          "url": "https://open.spotify.com/artist/2eHCB9X3BalOW2a3zjYJeg"
+        },
+        {
+          "name": "Batuflex",
+          "url": "https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162499,
+      "name": "Senin Y\u00fcz\u00fcnden",
+      "url": "https://open.spotify.com/track/2IEVhvv5LOFnsz6FQl7Wr3"
     },
     {
       "album": {
@@ -6228,7 +6366,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 157021,
       "name": "SULU SULU",
       "url": "https://open.spotify.com/track/0dsfzzMxipPjIzSg2Zal7w"
@@ -6846,7 +6984,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 172150,
       "name": "WOW",
       "url": "https://open.spotify.com/track/3L7K5kazMNFbZrYk6jCWKB"

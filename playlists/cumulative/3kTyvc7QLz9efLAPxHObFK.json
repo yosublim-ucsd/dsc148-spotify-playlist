@@ -5115,6 +5115,32 @@
     },
     {
       "album": {
+        "name": "Crunch",
+        "url": "https://open.spotify.com/album/6Ik9MjMnvXaI5y7IBCgQSg"
+      },
+      "artists": [
+        {
+          "name": "TNT",
+          "url": "https://open.spotify.com/artist/1CqOLQmjzVWXQTiIN5Wucs"
+        },
+        {
+          "name": "Technoboy",
+          "url": "https://open.spotify.com/artist/37jL2LnGjAkadOCszr8v7C"
+        },
+        {
+          "name": "Tuneboy",
+          "url": "https://open.spotify.com/artist/3mZnhzeAyjpFhO3cIepzBr"
+        }
+      ],
+      "date_added": "2024-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179188,
+      "name": "Crunch",
+      "url": "https://open.spotify.com/track/67ERjTGEze2g1UVNCog2Je"
+    },
+    {
+      "album": {
         "name": "Crying",
         "url": "https://open.spotify.com/album/29mF3Lfm9DWqif80BYbWGF"
       },
@@ -7108,6 +7134,28 @@
       "duration_ms": 139066,
       "name": "ElektraWave",
       "url": "https://open.spotify.com/track/3JhzSXcPe9EH76bENsBsYC"
+    },
+    {
+      "album": {
+        "name": "elevate our mind",
+        "url": "https://open.spotify.com/album/6ncFLe2YJwFCrEftvLYKpo"
+      },
+      "artists": [
+        {
+          "name": "Atmozfears",
+          "url": "https://open.spotify.com/artist/0MBGxwmCdXdO26ojaNcT64"
+        },
+        {
+          "name": "RE-PULZE",
+          "url": "https://open.spotify.com/artist/5YR9VKJNA2pGS1Ic4I2vmd"
+        }
+      ],
+      "date_added": "2024-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196552,
+      "name": "elevate our mind",
+      "url": "https://open.spotify.com/track/0sav1CL1qLvUnmh7C1dePM"
     },
     {
       "album": {
@@ -10876,6 +10924,24 @@
       "duration_ms": 176000,
       "name": "Hard 2 The Core",
       "url": "https://open.spotify.com/track/0SHuuJh45TfuSIkRl2kHX5"
+    },
+    {
+      "album": {
+        "name": "Hard and Cheerful 2024 Edit",
+        "url": "https://open.spotify.com/album/2JvzkLesfJkPv5VC579gsQ"
+      },
+      "artists": [
+        {
+          "name": "Maissouille",
+          "url": "https://open.spotify.com/artist/1aQbGaag8KEI8kKtY37UQU"
+        }
+      ],
+      "date_added": "2024-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249405,
+      "name": "Hard and Cheerful 2024 Edit",
+      "url": "https://open.spotify.com/track/5wWGPhAgVAjfc1aEgSMkoY"
     },
     {
       "album": {

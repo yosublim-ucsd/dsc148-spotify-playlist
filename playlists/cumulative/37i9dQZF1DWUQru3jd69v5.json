@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "La nuova generazione del rap italiano. Aggiornata ogni venerd\u00ec. 8blevrai in cover.",
+  "description": "La nuova generazione del rap italiano. Aggiornata ogni venerd\u00ec. Diss Gacha in cover.",
   "name": "Raptopia",
   "tracks": [
     {
@@ -2678,7 +2678,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 153543,
       "name": "BIBLIOTECA (feat. Nerissima Serpe)",
       "url": "https://open.spotify.com/track/0MQUTRdqQexyOW8PlkVG32"
@@ -3544,7 +3544,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 142156,
       "name": "BUGIE (prod. 2nd Roof)",
       "url": "https://open.spotify.com/track/4bT69rREWHEheKHomaCwid"
@@ -5070,7 +5070,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 154449,
       "name": "Come Sempre (feat. Harmann & MBOSS)",
       "url": "https://open.spotify.com/track/1OCuHow0d6AtcQiZm8R4FZ"
@@ -7309,6 +7309,24 @@
     },
     {
       "album": {
+        "name": "FAKE IT",
+        "url": "https://open.spotify.com/album/6GPKvmmYisqiN88SvYFkqY"
+      },
+      "artists": [
+        {
+          "name": "Silnyya",
+          "url": "https://open.spotify.com/artist/0MTV1wG5r8M1hTexjolpA5"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149336,
+      "name": "FAKE IT",
+      "url": "https://open.spotify.com/track/5XsnaiW0xQhfUK1ZgocZsx"
+    },
+    {
+      "album": {
         "name": "FAKE LOV3",
         "url": "https://open.spotify.com/album/4XQ4VYfyLFf45J37xKNoyn"
       },
@@ -8394,6 +8412,32 @@
       "duration_ms": 173068,
       "name": "GAS",
       "url": "https://open.spotify.com/track/2Waj6VDsOn8BbVwb7UanAT"
+    },
+    {
+      "album": {
+        "name": "GAS",
+        "url": "https://open.spotify.com/album/272OajDwr17InniWwa7BHj"
+      },
+      "artists": [
+        {
+          "name": "Kid Lost",
+          "url": "https://open.spotify.com/artist/4oGlqM93JwM3Bx5X0wvLTu"
+        },
+        {
+          "name": "Taxi B",
+          "url": "https://open.spotify.com/artist/5FkcU4BVzPptuB6AjobZIL"
+        },
+        {
+          "name": "G-Lex",
+          "url": "https://open.spotify.com/artist/34aOrKPSv2YwgiR6pLVK2Y"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "GAS",
+      "url": "https://open.spotify.com/track/1vm8Lzx4Hd6vOKF5Q6GCXa"
     },
     {
       "album": {
@@ -10225,6 +10269,28 @@
     },
     {
       "album": {
+        "name": "Isolamento Di Gruppo",
+        "url": "https://open.spotify.com/album/0WxNhe7IRznAEeqgclmjlP"
+      },
+      "artists": [
+        {
+          "name": "22simba",
+          "url": "https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7"
+        },
+        {
+          "name": "N\u00e9za",
+          "url": "https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168977,
+      "name": "Io e Te (feat. N\u00e9za)",
+      "url": "https://open.spotify.com/track/1xA7UTMMWgHQbkVKtDS7ds"
+    },
+    {
+      "album": {
         "name": "IO SONO SOLO",
         "url": "https://open.spotify.com/album/2e4JgSA98CKcASIpiOk5eZ"
       },
@@ -11521,6 +11587,28 @@
     },
     {
       "album": {
+        "name": "Northside Melodies",
+        "url": "https://open.spotify.com/album/3UOgCV3tWykMlgP0LG33eX"
+      },
+      "artists": [
+        {
+          "name": "Glocky",
+          "url": "https://open.spotify.com/artist/6frLp49xcNeQN6QYYrbSw7"
+        },
+        {
+          "name": "Low-Red",
+          "url": "https://open.spotify.com/artist/6iE4D1r501drzd1fyM6z9N"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138352,
+      "name": "Landing (feat. Low-Red)",
+      "url": "https://open.spotify.com/track/5BAGDRm7iSlnMCgbMFJm0C"
+    },
+    {
+      "album": {
         "name": "Lavapiatti",
         "url": "https://open.spotify.com/album/2XcORakF3XPhhzVjOVuuYT"
       },
@@ -12499,6 +12587,28 @@
     },
     {
       "album": {
+        "name": "Maluna",
+        "url": "https://open.spotify.com/album/4cKQ5z1Ss4ELXweb3Pdqlo"
+      },
+      "artists": [
+        {
+          "name": "Philip",
+          "url": "https://open.spotify.com/artist/0rq5wppHKGTFcdl8da5ODZ"
+        },
+        {
+          "name": "Neza",
+          "url": "https://open.spotify.com/artist/5P0yIpO0Chwcsh46xx4rWZ"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196475,
+      "name": "Maluna",
+      "url": "https://open.spotify.com/track/1Jm5ANvZQNxMxTY2Xwd91T"
+    },
+    {
+      "album": {
         "name": "Mama no Mama",
         "url": "https://open.spotify.com/album/4HSakr3CridIAzSZHmZtOy"
       },
@@ -13274,7 +13384,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 138359,
       "name": "MEGL SI TE NE VAI",
       "url": "https://open.spotify.com/track/2JZzFtd3VZxAK20ClppIWC"
@@ -13766,6 +13876,32 @@
       "duration_ms": 147500,
       "name": "Mission",
       "url": "https://open.spotify.com/track/0R03LI0Gkxi9FO7G9Y8g1B"
+    },
+    {
+      "album": {
+        "name": "Cultura Italiana Pt.1",
+        "url": "https://open.spotify.com/album/5uNUfyRRg7WrbviPwQVrge"
+      },
+      "artists": [
+        {
+          "name": "Diss Gacha",
+          "url": "https://open.spotify.com/artist/4TKF8KSK6bgHgszFxu5xzu"
+        },
+        {
+          "name": "Sala",
+          "url": "https://open.spotify.com/artist/3JgYm8oVvcrFpJBUNIonqM"
+        },
+        {
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152783,
+      "name": "Mississippi Drive (feat. Wiz Khalifa)",
+      "url": "https://open.spotify.com/track/0H3Y78oMfwkjyJe2hDGdB1"
     },
     {
       "album": {
@@ -14370,7 +14506,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 130526,
       "name": "MVP",
       "url": "https://open.spotify.com/track/0Nojgk52ObYMvHlPQ4wq37"
@@ -18055,6 +18191,24 @@
     },
     {
       "album": {
+        "name": "Respiro",
+        "url": "https://open.spotify.com/album/45ZXo91lK7a6x2lylI6siL"
+      },
+      "artists": [
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155200,
+      "name": "Respiro",
+      "url": "https://open.spotify.com/track/31ePh9rOTkIERrloY8BUUc"
+    },
+    {
+      "album": {
         "name": "Responsabile (feat. Nerissima Serpe)",
         "url": "https://open.spotify.com/album/7tyFbNorSj6F0n9zUl25hO"
       },
@@ -18880,7 +19034,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 193153,
       "name": "SANGUE (Feat. Ketama126 & Side Baby)",
       "url": "https://open.spotify.com/track/62xMX9BkLqempQw9JlQc1l"
@@ -20224,7 +20378,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 136556,
       "name": "STATIC",
       "url": "https://open.spotify.com/track/7yTbKTjjiFRgnWNOaqhRvn"
@@ -20670,7 +20824,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 201500,
       "name": "SUPERMARIO",
       "url": "https://open.spotify.com/track/2wZxrS864gsfTcMyF6Op5f"
@@ -20916,6 +21070,36 @@
       "duration_ms": 168019,
       "name": "Talento Sprecato",
       "url": "https://open.spotify.com/track/6EXLapjgbPbRwrafmfmR4C"
+    },
+    {
+      "album": {
+        "name": "CAPO DELLA JERSEY",
+        "url": "https://open.spotify.com/album/0MLAg2GbEnu5DB5mQE6Oa1"
+      },
+      "artists": [
+        {
+          "name": "Mikush",
+          "url": "https://open.spotify.com/artist/3eBlbhY21Q1L6xwbVMCQa1"
+        },
+        {
+          "name": "Timon",
+          "url": "https://open.spotify.com/artist/4pQprwhppwLQDnYkXVNCHp"
+        },
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+        },
+        {
+          "name": "RRARI DAL TACCO",
+          "url": "https://open.spotify.com/artist/30fnIb0InCgAp2IPY17nqd"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130164,
+      "name": "TARANTELLA (feat. Kid Yugi & RRARI DAL TACCO)",
+      "url": "https://open.spotify.com/track/5K0u93zeFEfNC2Om1p4CCk"
     },
     {
       "album": {
@@ -22408,7 +22592,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 129740,
       "name": "Vallette",
       "url": "https://open.spotify.com/track/6MDzzFisscLOVQyd0qwhMl"
@@ -22772,6 +22956,24 @@
       "duration_ms": 171672,
       "name": "Vita",
       "url": "https://open.spotify.com/track/7unxZsFlo58iTbnxkoJ8lk"
+    },
+    {
+      "album": {
+        "name": "Vita Diversa",
+        "url": "https://open.spotify.com/album/7pDRCUQSkFfpvE1blKelXX"
+      },
+      "artists": [
+        {
+          "name": "BIG P",
+          "url": "https://open.spotify.com/artist/1a0E2OojvY4bOw0SfYN768"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149840,
+      "name": "Vita Diversa",
+      "url": "https://open.spotify.com/track/2X7jLMQn3bfT3KvsrsrLiO"
     },
     {
       "album": {

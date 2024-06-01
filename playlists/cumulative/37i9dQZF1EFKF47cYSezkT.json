@@ -515,6 +515,24 @@
     },
     {
       "album": {
+        "name": "Armageddon - The 1st Album",
+        "url": "https://open.spotify.com/album/058hCti9Bupb5CJc6bd3VB"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159133,
+      "name": "Live My Life",
+      "url": "https://open.spotify.com/track/3ybJERCKs3Jf3aT7xU1Vs4"
+    },
+    {
+      "album": {
         "name": "Lose Somebody",
         "url": "https://open.spotify.com/album/7cTNrDpINUiWiXPDAuftJf"
       },

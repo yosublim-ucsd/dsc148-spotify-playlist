@@ -4,7 +4,7 @@
 
 > The freshest tech house &amp; techno music \| Submit via Instagram: @subshiftmusic
 
-1,829 songs - 4 day 7 hr 44 min
+1,830 songs - 4 day 7 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,7 +120,7 @@
 | [BAMBAERA](https://open.spotify.com/track/7ziZXtKZ1zSoLnpUKOtcrv) | [MIZAK](https://open.spotify.com/artist/3jDPRJm3fQLCP9BHvt04k7) | [BAMBAERA](https://open.spotify.com/album/6kd3IvfLFn6xFAoYV23ZA9) | 3:16 | 2024-05-01 | 2024-05-21 |
 | [Bamboleo](https://open.spotify.com/track/3oV6BW7m5S4SDfWNC2okT5) | [Dave Winnel](https://open.spotify.com/artist/1K80Wcuuo13i28cVd68mxm) | [Bamboleo](https://open.spotify.com/album/2A98x1rFHHdj1fuPAaluvC) | 3:00 | 2023-02-10 | 2023-02-18 |
 | [Bamboo Spice](https://open.spotify.com/track/0ACp1nQwmJwxQSxO7QxDEu) | [Ben Miller](https://open.spotify.com/artist/5FP6tGL9Y1HspSXjgtzJZd) | [Bamboo Spice](https://open.spotify.com/album/1PjO9mqKKEP5O2yMjmOBvs) | 3:38 | 2022-10-28 | 2022-11-06 |
-| [Bandit \- Club Mix](https://open.spotify.com/track/6ovzIhWfOcUwYRlobZvJ06) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd) | [Bandit \(Club Mix\)](https://open.spotify.com/album/1edPdWHVtyAiaihO0UvDWS) | 2:59 | 2024-05-28 |  |
+| [Bandit \- Club Mix](https://open.spotify.com/track/6ovzIhWfOcUwYRlobZvJ06) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd) | [Bandit \(Club Mix\)](https://open.spotify.com/album/1edPdWHVtyAiaihO0UvDWS) | 2:48 | 2024-05-28 |  |
 | [Bandolera](https://open.spotify.com/track/5BUtAl3nJcZk80jmeML74L) | [Errow](https://open.spotify.com/artist/6mu1yidzlzSt0FIUjrdoF0) | [Bandolera](https://open.spotify.com/album/0PI845urKXOxP15ShukdzC) | 3:45 | 2024-04-05 | 2024-05-21 |
 | [BANG](https://open.spotify.com/track/66jEwAo6W5qtgKgD9FQ2BM) | [Housewife](https://open.spotify.com/artist/2R4ZG5VkLXR87FkJGX5Jrd), [Haylee Wood](https://open.spotify.com/artist/7o9KqAZV369uKQOCJkb4aR) | [BANG](https://open.spotify.com/album/4GQ89vv9BIJFblAejWFgAC) | 4:10 | 2023-08-04 | 2023-08-12 |
 | [Barbarian](https://open.spotify.com/track/0bpIW9LLpTJNxHZZVNtOJm) | [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY), [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS) | [Barbarian](https://open.spotify.com/album/5T2FBNcTJH9iiXqNNYIO0n) | 3:25 | 2023-12-29 | 2024-01-06 |
@@ -554,6 +554,7 @@
 | [Fool For Love \- Chris Lake Edit](https://open.spotify.com/track/6H8ddHe7Bpbiy5Gp7lVlBe) | [Harry Romero](https://open.spotify.com/artist/36AJmodiIrwV9U3QOiLMYM), [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Leo Wood](https://open.spotify.com/artist/58vAPzbpMZAVTHWA1KT68B) | [Fool For Love \(Chris Lake Edit\)](https://open.spotify.com/album/4kCcxdrbnQUJmWjvYoYVRf) | 3:59 | 2023-06-30 | 2023-07-16 |
 | [Footsteps In The Dark](https://open.spotify.com/track/1WToidzLI7Fx6TwBuJCsWU) | [Sosa UK](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5), [Prok & Fitch](https://open.spotify.com/artist/62akbR2hpk0ArA98zOYNys) | [Dance Lapse](https://open.spotify.com/album/2b4NPwke84IRf676LoKaVZ) | 6:10 | 2022-11-05 | 2022-11-12 |
 | [For The Love](https://open.spotify.com/track/2k39D7dz6yQyuaii2NXF6l) | [R3WIRE](https://open.spotify.com/artist/7fWHxqQznKDOJeJofEjDcn), [NuKey](https://open.spotify.com/artist/2tmve58Sh3f0WZN76W30x3) | [For The Love](https://open.spotify.com/album/33kl34JwEFnI604hUcvBDr) | 3:13 | 2024-05-20 |  |
+| [Forbidden Fantasy](https://open.spotify.com/track/6cx9nqGCcaBVYh3hIJ5xrB) | [Becking](https://open.spotify.com/artist/70M2AZExSkmV2udJPl3RcU), [ON\_1](https://open.spotify.com/artist/1yga9Ci8sD6gpO5Vf1AN86), [Silver Nova](https://open.spotify.com/artist/4XwPIngUXeKAjEWx6YJqW3) | [Forbidden Fantasy](https://open.spotify.com/album/5f8FjvRBF4GNmaH1Cdmghk) | 5:54 | 2024-05-31 |  |
 | [Four Four](https://open.spotify.com/track/71tIjRert4OXlSklXFKHkc) | [Houseium](https://open.spotify.com/artist/7nLII53mP3tGEh5B5Hx83o) | [Four Four](https://open.spotify.com/album/5ZaVAbbOPcLbkioly5mQB2) | 2:53 | 2022-07-29 | 2022-08-06 |
 | [FREAK](https://open.spotify.com/track/69jJswow87ytCEShY9Us03) | [TOBEHONEST](https://open.spotify.com/artist/5aE4f6qwsXT5hACySkxJQo) | [FREAK](https://open.spotify.com/album/1LErFLxUfJ69GSWgAQbBXq) | 2:38 | 2024-05-01 | 2024-05-21 |
 | [Freak In The Weekend](https://open.spotify.com/track/6DePSYDCW0ujpW5cUEVqoM) | [BURNR](https://open.spotify.com/artist/7bi8ABpXgK2DpE5nRaWdZ5) | [Freak In The Weekend](https://open.spotify.com/album/5nLLM6BAWl88JPwlGcVMjo) | 2:52 | 2024-02-24 | 2024-03-16 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVG2wQBfGuGj.md) - [plain]
 
 > Surrender to the chill of the White Island with these laid\-back house and nu\-disco groovers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,478 likes - 205 songs - 10 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,199 likes - 205 songs - 10 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVG2wQBfGuGj.md) - [plain]
 | 22 | [Cap Martin](https://open.spotify.com/track/3RQyVYIlFL1q3mSP18CwMG) | [Alta Piana](https://open.spotify.com/artist/3M2f6pxSmhtK2u6Qh7U6Z4) | [Cap Martin](https://open.spotify.com/album/4wnWbqu7ENe0H3b2w7FJSK) | 2:18 |
 | 23 | [Aerobic Float](https://open.spotify.com/track/4aP3t84CNic7OwGoZsatmR) | [Kris Karrey](https://open.spotify.com/artist/200b6fuQRBe2Ra2k6d0lJI) | [Aerobic Float](https://open.spotify.com/album/7BtLc8zsfXIjCrjjDPu2pp) | 3:13 |
 | 24 | [Blinking Floor](https://open.spotify.com/track/2bmJl6YB8DkDOD6XQpKmc9) | [spring gang](https://open.spotify.com/artist/5MwxRYT0ZWOpQQBPktD0Rf) | [Blinking Floor](https://open.spotify.com/album/0MoM280Dkta6Et0q8SxNiZ) | 3:31 |
-| 25 | [Under The Impression](https://open.spotify.com/track/0kdhJpAOgHfD95FbpPhFOv) | [The Pleasure Principle](https://open.spotify.com/artist/2P9Z65sQszXemqiA6s71es) | [Under The Impression](https://open.spotify.com/album/6cBX1LMi0RAXQfksMIw586) | 2:47 |
-| 26 | [Let It Ride](https://open.spotify.com/track/2r3NQbibPInZjT1VxAOrFh) | [bonaira](https://open.spotify.com/artist/0DSl0jXUEASDzduwv7VOgQ) | [Let It Ride](https://open.spotify.com/album/1smvijwgTKDpqpagdamITk) | 2:04 |
+| 25 | [Let It Ride](https://open.spotify.com/track/2r3NQbibPInZjT1VxAOrFh) | [bonaira](https://open.spotify.com/artist/0DSl0jXUEASDzduwv7VOgQ) | [Let It Ride](https://open.spotify.com/album/1smvijwgTKDpqpagdamITk) | 2:04 |
+| 26 | [Under The Impression](https://open.spotify.com/track/0kdhJpAOgHfD95FbpPhFOv) | [The Pleasure Principle](https://open.spotify.com/artist/2P9Z65sQszXemqiA6s71es) | [Under The Impression](https://open.spotify.com/album/6cBX1LMi0RAXQfksMIw586) | 2:47 |
 | 27 | [SoHo](https://open.spotify.com/track/3cKaYYc6998KpaDoxjUumR) | [Mode Donna](https://open.spotify.com/artist/4EVClNgwLk38PorSOhui9R) | [SoHo](https://open.spotify.com/album/3dZBiHAg8DsRtljFIcPTfe) | 2:56 |
 | 28 | [Sunny Side Up](https://open.spotify.com/track/7s5RvJ2tWZHw2c09ft9Gvq) | [LE OBAL](https://open.spotify.com/artist/3L04IscPrn4iwZ4WaDO6QL) | [Sunny Side Up](https://open.spotify.com/album/0Bcj1W4MDQmv5M5BCPILxn) | 2:21 |
 | 29 | [Sparkling](https://open.spotify.com/track/0zinWIi33Y0HY9FzAjoQP7) | [Reese Straut](https://open.spotify.com/artist/7aAhTDn0TyolcU68PAYULR) | [Sparkling](https://open.spotify.com/album/4CTAiLbbQkgMrSrcijELPH) | 2:05 |
@@ -214,4 +214,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVG2wQBfGuGj.md) - [plain]
 | 204 | [Natural High](https://open.spotify.com/track/0MipaVV2aqz544mFEehXaB) | [Brendon Moeller](https://open.spotify.com/artist/3V3T5haMWZGfFxqVsAB9oB) | [Cygnus A](https://open.spotify.com/album/0YH8iHF3YgylIRIdlL6bGV) | 4:58 |
 | 205 | [Paloma](https://open.spotify.com/track/549JBVNjLZt5BN6qfphBbQ) | [Folta Tres](https://open.spotify.com/artist/1iLaFy9DHbJz1Bmc19mSoe) | [Paloma](https://open.spotify.com/album/04mofxzUHsD7zVCAKzbpWu) | 2:37 |
 
-Snapshot ID: `Zj/i7QAAAAAZt/GodtGSgxYnr+9L6N10`
+Snapshot ID: `ZljevQAAAAAAA6tOAo9mxE0ylC7EjvKo`

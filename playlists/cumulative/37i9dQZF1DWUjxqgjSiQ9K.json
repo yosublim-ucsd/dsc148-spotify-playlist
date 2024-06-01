@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica. Foto: <a href=\"spotify:artist:4VMYDCV2IEDYJArk749S6m\">Daddy Yankee</a>",
+  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica. Foto: <a href=\"spotify:artist:39PYJNgoQuBHjE6LEn3ZdE\">Ingrid Rosario</a>",
   "name": "\u00c9xitos Cristianos",
   "tracks": [
     {
@@ -470,7 +470,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 210148,
       "name": "Agua Bendita",
       "url": "https://open.spotify.com/track/4V7GYSaTVhulizZ0a3dwFV"
@@ -656,7 +656,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 250000,
       "name": "Aleluya",
       "url": "https://open.spotify.com/track/49pWfGhPqDuqK81qPbObx3"
@@ -780,7 +780,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 333520,
       "name": "Algo Nuevo",
       "url": "https://open.spotify.com/track/4FzAvQx5KkEG5NQ9unlQ5b"
@@ -1910,7 +1910,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 186919,
       "name": "Cerquita",
       "url": "https://open.spotify.com/track/12628DpsVMr8lYYKM0DKUl"
@@ -2090,7 +2090,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 197426,
       "name": "Comuni\u00f3n",
       "url": "https://open.spotify.com/track/7pSt0qyCuUK6ZXREKa4SxF"
@@ -2558,7 +2558,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 315230,
       "name": "Creemos Que lo Har\u00e1s - En Vivo",
       "url": "https://open.spotify.com/track/76EyNAWIvfKT0098KnbSAI"
@@ -2856,7 +2856,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 203195,
       "name": "Danza",
       "url": "https://open.spotify.com/track/2mp5lKkx5EP7fPlynWlpjP"
@@ -4475,6 +4475,28 @@
     },
     {
       "album": {
+        "name": "Escondido En Tu Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/3RrhGt58gRjkYHyIVHjK6f"
+      },
+      "artists": [
+        {
+          "name": "Linaje Escogido Guatemala",
+          "url": "https://open.spotify.com/artist/1YZxzGvZOqmMwSNq8DdQ9l"
+        },
+        {
+          "name": "Fernel Monroy",
+          "url": "https://open.spotify.com/artist/1o3WRYsnZllUekoxNdSAoG"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289500,
+      "name": "Escondido En Tu Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/27ZzynWmhtvS6W1lVwXR2J"
+    },
+    {
+      "album": {
         "name": "Cuatro De Mil Canciones (En Vivo)",
         "url": "https://open.spotify.com/album/575hskopo7G2nAaIGjRlQz"
       },
@@ -4676,6 +4698,28 @@
       "duration_ms": 159508,
       "name": "ETERNOS",
       "url": "https://open.spotify.com/track/4vV0X2mXpAzJtQYSReDhsO"
+    },
+    {
+      "album": {
+        "name": "Fan #1",
+        "url": "https://open.spotify.com/album/7zP7xJ4dHLgP9JzjuRJY3I"
+      },
+      "artists": [
+        {
+          "name": "Gocho",
+          "url": "https://open.spotify.com/artist/1E2ZsvpZKP4qMPNARv36W5"
+        },
+        {
+          "name": "Madiel Lara",
+          "url": "https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191320,
+      "name": "Fan #1",
+      "url": "https://open.spotify.com/track/4GE93uPcN1pjpkpxFOARK4"
     },
     {
       "album": {
@@ -5082,7 +5126,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 309120,
       "name": "Gracias",
       "url": "https://open.spotify.com/track/4PZo0ezNvqrwv4KB27m7cM"
@@ -5144,6 +5188,28 @@
       "duration_ms": 184547,
       "name": "Grande Como El Cielo",
       "url": "https://open.spotify.com/track/40NxV30GjlEjNK52Z40Dnq"
+    },
+    {
+      "album": {
+        "name": "Grandes Ligas",
+        "url": "https://open.spotify.com/album/44dfu5buvjhYwS9gzAMfTM"
+      },
+      "artists": [
+        {
+          "name": "CRYS",
+          "url": "https://open.spotify.com/artist/7uZO1ri6Y9Wlv7cDoOOUDI"
+        },
+        {
+          "name": "OTHO",
+          "url": "https://open.spotify.com/artist/7dl0oqKOC3S8n5uwQqmVLM"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184253,
+      "name": "Grandes Ligas",
+      "url": "https://open.spotify.com/track/07RYMdXt83GpueHvDM2ZCD"
     },
     {
       "album": {
@@ -5545,6 +5611,32 @@
     },
     {
       "album": {
+        "name": "H\u00e1blanos",
+        "url": "https://open.spotify.com/album/6f87tATHVba8OsepisZdOB"
+      },
+      "artists": [
+        {
+          "name": "ECCOS",
+          "url": "https://open.spotify.com/artist/6OnDxasjEMPIRrazHkH61l"
+        },
+        {
+          "name": "Steven Richards",
+          "url": "https://open.spotify.com/artist/7nV5z8aBZuot66MlL143o4"
+        },
+        {
+          "name": "Lluvia Richards",
+          "url": "https://open.spotify.com/artist/3kcszo6x9oxggpewnHZheB"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272201,
+      "name": "H\u00e1blanos",
+      "url": "https://open.spotify.com/track/3jQlXO4PaRX57HALW4VReC"
+    },
+    {
+      "album": {
         "name": "Il\u00f3gico",
         "url": "https://open.spotify.com/album/0D95KEMVwtZsLrAT19YDA2"
       },
@@ -5666,7 +5758,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 189000,
       "name": "Isla del Encanto",
       "url": "https://open.spotify.com/track/4i90a4xXMqAOxcacd6G6Yx"
@@ -6730,7 +6822,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 207141,
       "name": "Me Rend\u00ed",
       "url": "https://open.spotify.com/track/31QmCF7GTYtm2da7dY8L68"
@@ -6914,7 +7006,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 153111,
       "name": "Mi Dios",
       "url": "https://open.spotify.com/track/38eCF3e9p6t5gdI7yekbLe"
@@ -8563,6 +8655,28 @@
     },
     {
       "album": {
+        "name": "Proclamo Cristo",
+        "url": "https://open.spotify.com/album/7c5hqe1voVcdFz8KMXMKHG"
+      },
+      "artists": [
+        {
+          "name": "Coalo Zamorano",
+          "url": "https://open.spotify.com/artist/1EIEV6r6Jr6BQIzwZJdf5b"
+        },
+        {
+          "name": "Rebeca Zamorano",
+          "url": "https://open.spotify.com/artist/0VYpDFB2cAlvfacFCFvADL"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306771,
+      "name": "Proclamo Cristo",
+      "url": "https://open.spotify.com/track/2CtAhPG8IClIFftimmppBN"
+    },
+    {
+      "album": {
         "name": "Profundo (Live Session)",
         "url": "https://open.spotify.com/album/2QFZ8Rewug93bLevYxyYal"
       },
@@ -9922,7 +10036,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 257142,
       "name": "Sonido de Libertad",
       "url": "https://open.spotify.com/track/6xoJen47pjnpW4VJxttKF9"
@@ -9998,7 +10112,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 175398,
       "name": "ST\u00dcSSY",
       "url": "https://open.spotify.com/track/4u6hy75THfPE4j8Z16r3bd"
@@ -10096,7 +10210,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 233521,
       "name": "Superpoderes",
       "url": "https://open.spotify.com/track/2iYbQogIZK1KkeF1gdAH6o"
@@ -11944,7 +12058,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 515314,
       "name": "Yo Soy Tu Amado",
       "url": "https://open.spotify.com/track/30NS04CDhzMIsn44oKPthN"

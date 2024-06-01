@@ -2,9 +2,9 @@
 
 ### [Esquenta Sertanejo](https://open.spotify.com/playlist/37i9dQZF1DXdSjVZQzv2tl)
 
-> O melhor do sertanejo em uma só playlist! Foto: Felipe & Rodrigo
+> O melhor do sertanejo em uma só playlist! Foto: Simone Mendes
 
-220 songs - 10 hr 24 min
+221 songs - 10 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [Ela e Ela](https://open.spotify.com/track/5Yu1AOnIzC1tWRJ4U0uW7u) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Chaaama](https://open.spotify.com/album/32Db0Wp1YHCpQW7GBqQbRU) | 2:48 | 2021-12-31 | 2022-10-15 |
 | [Elevador \- Ao Vivo](https://open.spotify.com/track/2pidGuLSSVZPcbzE5QA1Ux) | [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl) | [Original \(Ao Vivo\)](https://open.spotify.com/album/6F99dp0PeGXKnzV7zQdipO) | 2:35 | 2023-06-16 |  |
 | [Elevador \- Ao Vivo](https://open.spotify.com/track/20yfr4F5QmZ5V3Cu1Rx4Kp) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Raiz \(Ao Vivo\)](https://open.spotify.com/album/5SClWm6m0wwcS3hb766KBg) | 2:47 | 2022-07-29 | 2022-11-11 |
-| [ENTRA NA DEFENDER](https://open.spotify.com/track/6P1mkNAmgihFwFRBhpaev3) | [Luan Pereira](https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl), [Mc Daniel](https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy) | [ENTRA NA DEFENDER](https://open.spotify.com/album/3QqoDKJiiYzJhlwhpcszsO) | 2:54 | 2024-03-29 |  |
+| [ENTRA NA DEFENDER](https://open.spotify.com/track/6P1mkNAmgihFwFRBhpaev3) | [Luan Pereira](https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl), [Mc Daniel](https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy) | [ENTRA NA DEFENDER](https://open.spotify.com/album/3QqoDKJiiYzJhlwhpcszsO) | 2:54 | 2024-03-29 | 2024-06-01 |
 | [Equivocada \- Ao Vivo](https://open.spotify.com/track/1Jhkk1FIV7tMH9CZATjxrf) | [Traia Véia](https://open.spotify.com/artist/0FMBXfGasuAjdpsCs7zgju), [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Equivocada \(Ao Vivo\)](https://open.spotify.com/album/1DtqMgoWe5pdqFUuk5Bh6n) | 3:27 | 2024-03-29 |  |
 | [Erro do Ficante \- Ao Vivo No Casa Filtr](https://open.spotify.com/track/4nDOZT5fC3sUxP7UgjEd57) | [Marcos & Belutti](https://open.spotify.com/artist/0NsJZ5PMjqghGDuMzY7CuT), [Zé Vaqueiro](https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt) | [Erro do Ficante \(Ao Vivo No Casa Filtr\)](https://open.spotify.com/album/21wcJSlfv1KBvNYRIPtx0G) | 2:45 | 2022-01-21 | 2022-02-05 |
 | [Erro Gostoso \- Ao Vivo](https://open.spotify.com/track/51pxwIxDVCbFHW8oyJFQXD) | [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [Cintilante \(Ao Vivo\)](https://open.spotify.com/album/3XDhhtRxHceSxoCJwVPwWK) | 2:58 | 2023-02-15 | 2024-03-30 |
@@ -161,7 +161,7 @@
 | [Não Pega Ninguém Ainda \(Ao Vivo\)](https://open.spotify.com/track/2LEV3lTRxKqLBfmt5BWkLj) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Não Pega Ninguém Ainda \(Ao Vivo\)](https://open.spotify.com/album/74QtfHHV8sXA7CUKzRHfk2) | 2:55 | 2022-06-14 | 2022-09-10 |
 | [Não Recomendo \- Ao Vivo](https://open.spotify.com/track/4ssTFuVeNJG8py5dr2P2pV) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Não Recomendo \(Ao Vivo\)](https://open.spotify.com/album/38P68ZCxri4SUQXSK15CxW) | 2:21 | 2023-12-08 |  |
 | [Não Sei o Que Lá](https://open.spotify.com/track/7graPn87bYFxTLNnRnFDMZ) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Não Sei o Que Lá](https://open.spotify.com/album/2XNMZxBXu26RGAwL3524Ye) | 2:49 | 2021-12-31 | 2023-07-29 |
-| [Não Sei Se Tô Solteiro \- Ao Vivo](https://open.spotify.com/track/7AaXqLqmrZtRmOr5tIjn8D) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Não Sei Se Tô Solteiro \(Ao Vivo\)](https://open.spotify.com/album/0u8okX97LClxTnqU6192gA) | 2:53 | 2024-04-19 |  |
+| [Não Sei Se Tô Solteiro \- Ao Vivo](https://open.spotify.com/track/7AaXqLqmrZtRmOr5tIjn8D) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Não Sei Se Tô Solteiro \(Ao Vivo\)](https://open.spotify.com/album/0u8okX97LClxTnqU6192gA) | 2:53 | 2024-04-19 | 2024-06-01 |
 | [Não Vitalício \(Nunca Mais\) \- Ao Vivo](https://open.spotify.com/track/4sqpSDnTrbS8v7RMNCUyqS) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr), [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP) | [Não Vitalício \(Nunca Mais\) \[Ao Vivo\]](https://open.spotify.com/album/32W4niZLdaaIWUMBf4yGmB) | 2:49 | 2023-02-10 | 2024-03-09 |
 | [O Destino](https://open.spotify.com/track/0iEaFZq4pD3p5HyJZelAGq) | [Luiza Martins](https://open.spotify.com/artist/5Ywgqsa6t5yNiD1wgQuw43) | [A culpa é do meu SIGNO](https://open.spotify.com/album/7JjEHekB15sJmSy23SO0Cd) | 2:50 | 2024-02-23 | 2024-04-13 |
 | [O Ex da Sua Vida](https://open.spotify.com/track/17Gh6E6eRfAAw7sCgmnkFc) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Falando de Amor, Vol\. 2](https://open.spotify.com/album/4AmYNtcUeuaLZfQo5uDTKh) | 2:59 | 2021-12-31 | 2022-01-08 |
@@ -208,6 +208,7 @@
 | [Todo Mundo Menos Você](https://open.spotify.com/track/6H1OZfzhdwK4lmaPnOLJ0b) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Festa das Patroas 35%](https://open.spotify.com/album/50wAyDdWCMpPnG3lzWUChj) | 3:26 | 2021-12-31 | 2022-09-03 |
 | [Todo Seu \- Ao Vivo](https://open.spotify.com/track/546dFmvwFGBY7MJOkV5ctq) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Todo Seu \(Ao Vivo\)](https://open.spotify.com/album/6tcIk5cJCa6xNtRUuTTBVB) | 2:51 | 2022-05-13 | 2023-08-19 |
 | [Torce o Olho \- Ao Vivo](https://open.spotify.com/track/6PXyRQ9Q0eNlLGsI6GxiYX) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN), [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl) | [Torce o Olho \(Ao Vivo\)](https://open.spotify.com/album/4iDEMrwkGMQ6LpdbdTnLGy) | 2:47 | 2023-12-08 |  |
+| [Trauma \- Ao Vivo](https://open.spotify.com/track/0aGBJDgysbTnnE27oYkx0N) | [Ícaro e Gilmar](https://open.spotify.com/artist/6Wlvsn3IPHiZwAv02lB5eC) | [Nunca Deixe De Sonhar \(Ao Vivo\)](https://open.spotify.com/album/2JJPrtXxSCtd2LBdHb5lrK) | 2:31 | 2024-05-31 |  |
 | [Traumatizei \- Ao Vivo Em Brasília](https://open.spotify.com/track/0JIYoXtJfORxI6gRpHv6ZW) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [To Be \(Ao Vivo Em Brasília EP1\)](https://open.spotify.com/album/7Gg88I2AY86RasStaV0rWW) | 2:52 | 2023-02-10 | 2023-11-18 |
 | [Troca](https://open.spotify.com/track/6HV630GY0GT3RN2efFRmbP) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Tudo Em Paz](https://open.spotify.com/album/57h6WHDjwNGIs5NMeKYEoL) | 2:51 | 2021-12-31 | 2022-04-29 |
 | [Troca de Calçada](https://open.spotify.com/track/4AAIAVjSyiq1N7SXKkwXZe) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Troca de Calçada](https://open.spotify.com/album/4CwfuAMrV2zwnoOzJtuI1k) | 3:23 | 2021-12-31 | 2023-02-11 |

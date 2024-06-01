@@ -1,13 +1,45 @@
 {
   "description": "late night vibes \u2013 notifications off.",
-  "num_followers": 107516,
+  "num_followers": 107973,
   "original_name": "DND.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkbWQAAAAAC1ee5GlIaTWl8tmGmaNmQm",
+  "snapshot_id": "Zll9oAAAAACPrew3i0I1C2rDf859YIWt",
   "tracks": [
+    {
+      "added_at": "2024-03-29 04:50:46",
+      "album": {
+        "name": "That's Tough",
+        "url": "https://open.spotify.com/album/32sftiKKnCDLyLa0g72K2V"
+      },
+      "artists": [
+        {
+          "name": "Leo Waters",
+          "url": "https://open.spotify.com/artist/3ZIvVs9CoUB4YkYTwG36eX"
+        }
+      ],
+      "duration_ms": 144657,
+      "name": "That's Tough",
+      "url": "https://open.spotify.com/track/2usPqK1pQdIxR0v1kzNard"
+    },
+    {
+      "added_at": "2024-05-31 07:34:56",
+      "album": {
+        "name": "Like We Wrote",
+        "url": "https://open.spotify.com/album/2iLcNlQLxFzkWB8VxiJZpo"
+      },
+      "artists": [
+        {
+          "name": "Lithe",
+          "url": "https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6"
+        }
+      ],
+      "duration_ms": 118709,
+      "name": "Like We Wrote",
+      "url": "https://open.spotify.com/track/5kH4MnZQN9Ce4gaBquKInu"
+    },
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
@@ -315,22 +347,6 @@
       "duration_ms": 140606,
       "name": "FLORIDA BABY",
       "url": "https://open.spotify.com/track/722k2gLamerL9i7bTlGJrm"
-    },
-    {
-      "added_at": "2024-03-29 04:50:46",
-      "album": {
-        "name": "That's Tough",
-        "url": "https://open.spotify.com/album/32sftiKKnCDLyLa0g72K2V"
-      },
-      "artists": [
-        {
-          "name": "Leo Waters",
-          "url": "https://open.spotify.com/artist/3ZIvVs9CoUB4YkYTwG36eX"
-        }
-      ],
-      "duration_ms": 144657,
-      "name": "That's Tough",
-      "url": "https://open.spotify.com/track/2usPqK1pQdIxR0v1kzNard"
     },
     {
       "added_at": "2024-03-08 13:15:12",

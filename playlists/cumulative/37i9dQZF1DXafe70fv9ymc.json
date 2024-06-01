@@ -358,7 +358,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 222000,
       "name": "Down",
       "url": "https://open.spotify.com/track/2nYGKBTVBTyEU319Oo7lJr"
@@ -612,7 +612,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 183586,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/1OOZ7HK33XptwtvGuKmb5s"
@@ -794,7 +794,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 228518,
       "name": "Let Me",
       "url": "https://open.spotify.com/track/7jbR0coXoqygIfc6OFW8ly"
@@ -1285,6 +1285,24 @@
     },
     {
       "album": {
+        "name": "Temptation",
+        "url": "https://open.spotify.com/album/23cOEXHFZ7zDqZBd9fRSyY"
+      },
+      "artists": [
+        {
+          "name": "Nnashe",
+          "url": "https://open.spotify.com/artist/5o0lTomGzanpzoNLZg7mDu"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142080,
+      "name": "Temptation",
+      "url": "https://open.spotify.com/track/3fQNGqh3o9uPfzHyJmFaSs"
+    },
+    {
+      "album": {
         "name": "Tempted",
         "url": "https://open.spotify.com/album/5KefTVJlpmOtVTp9xnp1Yi"
       },
@@ -1352,6 +1370,50 @@
       "duration_ms": 238000,
       "name": "Tides",
       "url": "https://open.spotify.com/track/6GWbylTtbLetG7vfl4tlkI"
+    },
+    {
+      "album": {
+        "name": "Toxic Trends",
+        "url": "https://open.spotify.com/album/0V3g6AqzVtFF7OFQSdqRrL"
+      },
+      "artists": [
+        {
+          "name": "Mikhal\u00e9 Jones",
+          "url": "https://open.spotify.com/artist/7wVeyV9zIt2SBQlJ9DPuwf"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212238,
+      "name": "Toxic Trends",
+      "url": "https://open.spotify.com/track/1pPquaWmcvzLtO0nffSsLV"
+    },
+    {
+      "album": {
+        "name": "Virgin Denim",
+        "url": "https://open.spotify.com/album/3ET9072AROvw8sqz1Ar2uS"
+      },
+      "artists": [
+        {
+          "name": "Turunesh",
+          "url": "https://open.spotify.com/artist/7jsrAZ7VOhvG48hjxVaIkv"
+        },
+        {
+          "name": "Karun",
+          "url": "https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC"
+        },
+        {
+          "name": "mau from nowhere",
+          "url": "https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190684,
+      "name": "Virgin Denim",
+      "url": "https://open.spotify.com/track/69g0enFvUbtdKi5e84frgc"
     },
     {
       "album": {

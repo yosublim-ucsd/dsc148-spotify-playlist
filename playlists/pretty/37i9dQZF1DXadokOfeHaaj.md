@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadokOfeHaaj.md) - [plain]
 
 > The best new indie dance music\. Cover: Vintage Culture
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,925 likes - 89 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,949 likes - 89 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadokOfeHaaj.md) - [plain]
 | 34 | [Right Here](https://open.spotify.com/track/3apc7XUBxJQjIBgM5TsN6y) | [Anna Lunoe](https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D), [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Right Here](https://open.spotify.com/album/0ZpVzaA4krJNRu7Kduh1PZ) | 3:11 |
 | 35 | [Valentine](https://open.spotify.com/track/6b57FDNY52AlFJa81vTijE) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Valentine](https://open.spotify.com/album/06PMmkzppZU6YSZVQbHpzy) | 3:49 |
 | 36 | [repeat to fade](https://open.spotify.com/track/4AddhPZvZZgZDS41YH4Q8k) | [bad tuner](https://open.spotify.com/artist/6a5fdBQLjJqoSGN5gythKm), [Pollena](https://open.spotify.com/artist/6jLF65ZDRDiQCnTvs7O7CF) | [repeat to fade](https://open.spotify.com/album/1e1rX5fl19FjR9jubh7ymg) | 2:54 |
-| 37 | [The House \(System Olympia Remix\)](https://open.spotify.com/track/5DDfMsa7k05cJDCtAPaDJb) | [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg), [System Olympia](https://open.spotify.com/artist/2qtARFvBzCjOuGbXFAF0iX) | [The House \(System Olympia Remix\)](https://open.spotify.com/album/3x2HrFHyqi6tNXkxZKkRhW) | 6:42 |
+| 37 | [The House \(System Olympia Remix\)](https://open.spotify.com/track/5DDfMsa7k05cJDCtAPaDJb) | [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg), [System Olympia](https://open.spotify.com/artist/2qtARFvBzCjOuGbXFAF0iX) | [The House \(System Olympia Remix\)](https://open.spotify.com/album/3x2HrFHyqi6tNXkxZKkRhW) | 6:46 |
 | 38 | [Coming Back To Me Good](https://open.spotify.com/track/3ffFwRkfTvWJ0sXNYQcUZS) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [Coming Back To Me Good](https://open.spotify.com/album/50qGjQfFPahaiJBDdVS8hE) | 2:49 |
 | 39 | [Roller Coaster](https://open.spotify.com/track/6xwGsyTxtrClNf1hN8idvg) | [Brijean](https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb) | [Roller Coaster](https://open.spotify.com/album/6runm41hpgMzMSzA6S7u5a) | 3:00 |
 | 40 | [TR Smooth](https://open.spotify.com/track/6NV9a8WK4MvuJZg6VSu2KD) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb) | [L'Ecstasy](https://open.spotify.com/album/5gHsDs3ofg8qejWBcIGtJv) | 3:42 |

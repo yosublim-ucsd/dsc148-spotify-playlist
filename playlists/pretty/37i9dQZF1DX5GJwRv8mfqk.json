@@ -1,6 +1,6 @@
 {
   "description": "\u00a1A la antig\u00fcita, chiquitita! Las canciones escritas e interpretadas por Ed\u00e9n Mu\u00f1oz \ud83e\udd20",
-  "num_followers": 118208,
+  "num_followers": 118436,
   "original_name": "Cancionero Ed\u00e9n Mu\u00f1oz",
   "owner": {
     "name": "Spotify",
@@ -891,22 +891,6 @@
     {
       "added_at": "2022-05-25 16:50:02",
       "album": {
-        "name": "Siendo Franco",
-        "url": "https://open.spotify.com/album/08FstJ62XKEuL012P8jI6t"
-      },
-      "artists": [
-        {
-          "name": "Jary Franco",
-          "url": "https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6"
-        }
-      ],
-      "duration_ms": 210573,
-      "name": "D\u00edgale",
-      "url": "https://open.spotify.com/track/1V2U6e2YEFRGPBhIErpUPp"
-    },
-    {
-      "added_at": "2022-05-25 16:50:02",
-      "album": {
         "name": "El Heredero Mayor",
         "url": "https://open.spotify.com/album/2X1Tw06QtYHmbVPwgvwAok"
       },
@@ -919,22 +903,6 @@
       "duration_ms": 179514,
       "name": "Tambi\u00e9n T\u00fa Te Equivocas",
       "url": "https://open.spotify.com/track/1Nk84MlFkQmlri26uc0Tzg"
-    },
-    {
-      "added_at": "2022-05-25 16:50:02",
-      "album": {
-        "name": "La Casa Invita",
-        "url": "https://open.spotify.com/album/7Hf1kRkgZA47DrA0Mimg5W"
-      },
-      "artists": [
-        {
-          "name": "Los Del Arroyo",
-          "url": "https://open.spotify.com/artist/43mTldLHocYpIrVrGuY4e4"
-        }
-      ],
-      "duration_ms": 199533,
-      "name": "Ya Estuvo Bueno",
-      "url": "https://open.spotify.com/track/7a6ms6F6JzoRYtCQFntLdd"
     },
     {
       "added_at": "2022-05-25 16:50:02",
@@ -955,6 +923,38 @@
     {
       "added_at": "2022-05-25 16:50:02",
       "album": {
+        "name": "Siendo Franco",
+        "url": "https://open.spotify.com/album/08FstJ62XKEuL012P8jI6t"
+      },
+      "artists": [
+        {
+          "name": "Jary Franco",
+          "url": "https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6"
+        }
+      ],
+      "duration_ms": 210573,
+      "name": "D\u00edgale",
+      "url": "https://open.spotify.com/track/1V2U6e2YEFRGPBhIErpUPp"
+    },
+    {
+      "added_at": "2022-05-25 16:50:02",
+      "album": {
+        "name": "La Casa Invita",
+        "url": "https://open.spotify.com/album/7Hf1kRkgZA47DrA0Mimg5W"
+      },
+      "artists": [
+        {
+          "name": "Los Del Arroyo",
+          "url": "https://open.spotify.com/artist/43mTldLHocYpIrVrGuY4e4"
+        }
+      ],
+      "duration_ms": 199533,
+      "name": "Ya Estuvo Bueno",
+      "url": "https://open.spotify.com/track/7a6ms6F6JzoRYtCQFntLdd"
+    },
+    {
+      "added_at": "2022-05-25 16:50:02",
+      "album": {
         "name": "Desde El Estudio Andaluz Music",
         "url": "https://open.spotify.com/album/2Apw3yxOCr55zyWDJB3PGs"
       },
@@ -967,22 +967,6 @@
       "duration_ms": 194040,
       "name": "Y Qu\u00e9 Les Vamos A Decir - Desde El Estudio Andaluz Music",
       "url": "https://open.spotify.com/track/2v7W1uaUgBES0FvNkCkCqf"
-    },
-    {
-      "added_at": "2022-05-25 16:50:02",
-      "album": {
-        "name": "Seguimos Sumando",
-        "url": "https://open.spotify.com/album/7G8SUIcg4K4Rx55r2fuMGk"
-      },
-      "artists": [
-        {
-          "name": "Hijos De Barron",
-          "url": "https://open.spotify.com/artist/32YGQsNtuwyobFFnn8ikpe"
-        }
-      ],
-      "duration_ms": 274800,
-      "name": "Los Narcoplaticantes",
-      "url": "https://open.spotify.com/track/7K1DHCLtIfAnm07wxVnNOI"
     },
     {
       "added_at": "2022-05-25 16:50:02",
@@ -1003,6 +987,22 @@
     {
       "added_at": "2022-05-25 16:50:02",
       "album": {
+        "name": "Seguimos Sumando",
+        "url": "https://open.spotify.com/album/7G8SUIcg4K4Rx55r2fuMGk"
+      },
+      "artists": [
+        {
+          "name": "Hijos De Barron",
+          "url": "https://open.spotify.com/artist/32YGQsNtuwyobFFnn8ikpe"
+        }
+      ],
+      "duration_ms": 274800,
+      "name": "Los Narcoplaticantes",
+      "url": "https://open.spotify.com/track/7K1DHCLtIfAnm07wxVnNOI"
+    },
+    {
+      "added_at": "2022-05-25 16:50:02",
+      "album": {
         "name": "Estoy Listo",
         "url": "https://open.spotify.com/album/5lSADxVWOeGenxC6XQtUpf"
       },
@@ -1019,34 +1019,38 @@
     {
       "added_at": "2022-05-25 16:50:02",
       "album": {
-        "name": "Por Si Te Interesa",
-        "url": "https://open.spotify.com/album/4WUwb4qI2fqQnGPzBWQS3Q"
-      },
-      "artists": [
-        {
-          "name": "Los Del Arroyo",
-          "url": "https://open.spotify.com/artist/43mTldLHocYpIrVrGuY4e4"
-        }
-      ],
-      "duration_ms": 164053,
-      "name": "Por Si Te Interesa",
-      "url": "https://open.spotify.com/track/6ny9xzVbdqDut4TPjyXnKB"
-    },
-    {
-      "added_at": "2022-05-25 16:50:02",
-      "album": {
-        "name": "El Anticuado",
-        "url": "https://open.spotify.com/album/19JnLRfaf1P5U9qVNJn9jj"
+        "name": "Tus Desprecios",
+        "url": "https://open.spotify.com/album/3si2q6g6Mw94o5wsftqXH6"
       },
       "artists": [
         {
           "name": "Pepe Aguilar",
           "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        },
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
         }
       ],
-      "duration_ms": 244727,
-      "name": "El Anticuado",
-      "url": "https://open.spotify.com/track/4ZO4lNK6uR8okn2q6Tl8FR"
+      "duration_ms": 142819,
+      "name": "Tus Desprecios",
+      "url": "https://open.spotify.com/track/6gyPojQkJawXsMryAeu5Se"
+    },
+    {
+      "added_at": "2022-05-25 16:50:02",
+      "album": {
+        "name": "Con Todo Incluido",
+        "url": "https://open.spotify.com/album/2izHnHlQEWkSCTEEqXEktH"
+      },
+      "artists": [
+        {
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+        }
+      ],
+      "duration_ms": 139320,
+      "name": "Con Todo Incluido",
+      "url": "https://open.spotify.com/track/7wn6BpxyFpu7SApkSE6QKE"
     },
     {
       "added_at": "2022-05-25 16:50:02",
@@ -1067,18 +1071,18 @@
     {
       "added_at": "2022-05-25 16:50:02",
       "album": {
-        "name": "Con Todo Incluido",
-        "url": "https://open.spotify.com/album/2izHnHlQEWkSCTEEqXEktH"
+        "name": "Por Si Te Interesa",
+        "url": "https://open.spotify.com/album/4WUwb4qI2fqQnGPzBWQS3Q"
       },
       "artists": [
         {
-          "name": "La Adictiva",
-          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+          "name": "Los Del Arroyo",
+          "url": "https://open.spotify.com/artist/43mTldLHocYpIrVrGuY4e4"
         }
       ],
-      "duration_ms": 139320,
-      "name": "Con Todo Incluido",
-      "url": "https://open.spotify.com/track/7wn6BpxyFpu7SApkSE6QKE"
+      "duration_ms": 164053,
+      "name": "Por Si Te Interesa",
+      "url": "https://open.spotify.com/track/6ny9xzVbdqDut4TPjyXnKB"
     },
     {
       "added_at": "2022-05-25 16:50:02",
@@ -1167,22 +1171,18 @@
     {
       "added_at": "2022-05-25 16:50:02",
       "album": {
-        "name": "Tus Desprecios",
-        "url": "https://open.spotify.com/album/3si2q6g6Mw94o5wsftqXH6"
+        "name": "El Anticuado",
+        "url": "https://open.spotify.com/album/19JnLRfaf1P5U9qVNJn9jj"
       },
       "artists": [
         {
           "name": "Pepe Aguilar",
           "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        },
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
         }
       ],
-      "duration_ms": 142819,
-      "name": "Tus Desprecios",
-      "url": "https://open.spotify.com/track/6gyPojQkJawXsMryAeu5Se"
+      "duration_ms": 244727,
+      "name": "El Anticuado",
+      "url": "https://open.spotify.com/track/4ZO4lNK6uR8okn2q6Tl8FR"
     },
     {
       "added_at": "2022-05-25 16:50:02",

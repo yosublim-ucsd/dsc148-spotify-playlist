@@ -2,9 +2,9 @@
 
 ### [VOLUME](https://open.spotify.com/playlist/37i9dQZF1DWWJOmJ7nRx0C)
 
-> The very best new rock songs\. Turn it  ⬆️ Cover: <b>Lenny Kravitz</b>
+> The very best new rock songs\. Turn it  ⬆️ Cover: <b>A Day To Remember</b>
 
-1,175 songs - 2 day 22 hr 17 min
+1,176 songs - 2 day 22 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -374,6 +374,7 @@
 | [Fear Of The Dawn](https://open.spotify.com/track/4v6soAl2R4sJB6Iyt2aiHw) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Love Is Selfish](https://open.spotify.com/album/3sYkBlospe8hXvJxeNUfdN) | 2:02 | 2022-02-11 | 2022-04-23 |
 | [Fear the Sun](https://open.spotify.com/track/2MOk3NNDzsEnNllOlzAhSK) | [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [Fear the Sun](https://open.spotify.com/album/5hJVy5PfgPrVRbX8sREhKx) | 2:46 | 2022-09-23 | 2023-02-04 |
 | [Feast Of Fire](https://open.spotify.com/track/4iJg7QdhqLHwfYOmYHqU9z) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Feast Of Fire](https://open.spotify.com/album/0Wv1dffJbn76Vsh4CWeoOq) | 4:18 | 2021-08-13 | 2022-05-14 |
+| [Feedback](https://open.spotify.com/track/4rpw43XrPiHKER3nSL2vZH) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Feedback](https://open.spotify.com/album/6OwSZ83UAtFcYuWbrYuafP) | 2:32 | 2024-05-31 |  |
 | [Fence](https://open.spotify.com/track/6gQmCGUYq9Xql5rlShqUXj) | [Sevendust](https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2) | [Fence](https://open.spotify.com/album/7kTY68ysd8P6LOZe3TybbD) | 3:37 | 2023-04-14 | 2023-07-15 |
 | [Fever Dream](https://open.spotify.com/track/56nQ0EwaDX0X1TFGrDVC0b) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [Fever Dream](https://open.spotify.com/album/69QGJEAqtvEQ9hjwCCaPQk) | 5:06 | 2022-07-15 | 2023-01-06 |
 | [Fight Alone](https://open.spotify.com/track/3zMFgPNhMu2Em1E4HvNcqw) | [Motive Black](https://open.spotify.com/artist/1cCTbyI3umMlxOoqjt7uDw) | [Fight Alone](https://open.spotify.com/album/6C1DNopbfI128o0pc2iahx) | 3:40 | 2022-09-30 | 2022-12-03 |
@@ -717,7 +718,7 @@
 | [Nothing Ever After](https://open.spotify.com/track/2foma3XC28Wk4Fcthqu7lk) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl) | [ILLENIUM](https://open.spotify.com/album/0ValflNlWce21wm5PlwV60) | 3:55 | 2023-04-28 | 2023-08-26 |
 | [NOTHINGNESS](https://open.spotify.com/track/0QRK0E7CwPfw1ON6kIGfNX) | [ROMES](https://open.spotify.com/artist/4b3MzzOReTrle64Pxc1r9g) | [NOTHINGNESS](https://open.spotify.com/album/26VIcq9CQqqGixCH7y56Pb) | 3:14 | 2023-10-06 | 2023-11-18 |
 | [NOTHINGNESS](https://open.spotify.com/track/1aSBGwV7KTJQhkyQ86TmXQ) | [ROMES](https://open.spotify.com/artist/4b3MzzOReTrle64Pxc1r9g) | [NOTHINGNESS](https://open.spotify.com/album/52xz4kyfRQtTdreXxWRJG1) | 3:14 | 2023-11-17 | 2023-12-02 |
-| [Novocaine](https://open.spotify.com/track/4JJpEYYamr363Kbc4zdw1h) | [Too Close To Touch](https://open.spotify.com/artist/2XziUthG3Ug3eiWuE5KRsp), [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [For Keeps](https://open.spotify.com/album/2vhDs4vI5ngRZCLW0a82yj) | 4:55 | 2024-03-22 |  |
+| [Novocaine](https://open.spotify.com/track/4JJpEYYamr363Kbc4zdw1h) | [Too Close To Touch](https://open.spotify.com/artist/2XziUthG3Ug3eiWuE5KRsp), [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [For Keeps](https://open.spotify.com/album/2vhDs4vI5ngRZCLW0a82yj) | 4:55 | 2024-03-22 | 2024-06-01 |
 | [Nowhere To Go But Everywhere](https://open.spotify.com/track/0XT3u4dsfUh4A9EhH2FzoO) | [Bush](https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa) | [Nowhere To Go But Everywhere](https://open.spotify.com/album/2Ptp2BvVc7YsdSL3YXBWNu) | 4:03 | 2023-11-10 | 2024-03-02 |
 | [Numb](https://open.spotify.com/track/2rzoY8Gzj9iC0jPwPRQgZP) | [Sleep Theory](https://open.spotify.com/artist/26eBHxdouBH2KB7P6Oi9HN) | [Paper Hearts](https://open.spotify.com/album/4di62gnBZPDefkKwMBLXPb) | 3:35 | 2023-09-29 | 2024-03-09 |
 | [Numb](https://open.spotify.com/track/3huUzljK6ZcZ22XUvubeC0) | [Sleep Theory](https://open.spotify.com/artist/26eBHxdouBH2KB7P6Oi9HN) | [Numb](https://open.spotify.com/album/6QHccEtF5S0WqUsraPvziw) | 3:35 | 2023-07-18 | 2023-09-30 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 
 > The magical world map! Play it in shuffle ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,533 likes - 1,192 songs - 3 day 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,633 likes - 1,192 songs - 3 day 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -876,7 +876,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 866 | [Got This Happy Feeling](https://open.spotify.com/track/7lNq8ipohFGO4zhvbh8jzI) | [Ghetto Brothers](https://open.spotify.com/artist/6M6ULJ0HhZ7BArUaVS5mqQ) | [Power Fuerza](https://open.spotify.com/album/2FyPhYU7wHYvtWCdRZXOWp) | 4:36 |
 | 867 | [President Kennedy](https://open.spotify.com/track/6pYG4bir8uVcM6jvNRpT6o) | [Roland Alphonso](https://open.spotify.com/artist/3AxcTqkr4hkBaUEU7J4mSn) | [Studio One Ska](https://open.spotify.com/album/3O9n9gyAdlqhlm2bZqkxVu) | 2:52 |
 | 868 | [Afro Disco Beat](https://open.spotify.com/track/0tzvR9hZYdOBveJlgVz6Sy) | [Tony Allen](https://open.spotify.com/artist/6JpZEemWmunccsrHXFUOgi), [Africa 70](https://open.spotify.com/artist/7kYstKl5Wka7rDtdFlvbNz) | [Racubah \(A Collection of Modern Afro Rhythms\)](https://open.spotify.com/album/1G9VuNrWXkCmcbUBUwdkFQ) | 11:56 |
-| 869 | [Çilli](https://open.spotify.com/track/0tIUkzQP9STnupIpzcQBt3) | [Lale Belkıs](https://open.spotify.com/artist/6WkIJVBk1eCUTKR0YG0sdK) | [En İyileriyle Lale Belkıs](https://open.spotify.com/album/6ErTNGc6pFgh2P6YfxJsNC) | 3:46 |
+| 869 | [Çilli](https://open.spotify.com/track/0tIUkzQP9STnupIpzcQBt3) | [Lale Belkıs](https://open.spotify.com/artist/6WkIJVBk1eCUTKR0YG0sdK) | [En İyileriyle Lale Belkıs](https://open.spotify.com/album/6ErTNGc6pFgh2P6YfxJsNC) | 3:29 |
 | 870 | [Crying Time](https://open.spotify.com/track/6Jp7navCluJ6vWlw7xiLST) | [Monguito Santamaria](https://open.spotify.com/artist/4F7OD66JSrIoPu0f0vJnBT) | [Blackout](https://open.spotify.com/album/6koDrvFY9DRuVhbZgq79LV) | 2:52 |
 | 871 | [มาดามดิงดอง](https://open.spotify.com/track/4P1OjQTybctDhi6SRlPI7Q) | [จีรพันธ์ วีระพงษ์](https://open.spotify.com/artist/7vo4nH4GFq4M9vKPRVZ6K3) | [รวมฮิตลูกทุ่งพันล้าน ชุด 1](https://open.spotify.com/album/7IySSWsDkYgwGuhw8CUncy) | 3:48 |
 | 872 | [Free Blow \- Dub Version](https://open.spotify.com/track/2cRqHTpr7R5DGQDGd3Piip) | [Tony Benn Feghaly](https://open.spotify.com/artist/3NLXh9hJU9g6FchaERWQUE) | [Habibi Funk: An Eclectic Selection of Music from the Arab World \(Part 2\) \(Habibi Funk 015\)](https://open.spotify.com/album/0PkKIo93pKAnqpo0mi5yb1) | 5:11 |

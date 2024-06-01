@@ -1,13 +1,29 @@
 {
   "description": "A different shade of the blues. Cover: Dan Auerbach",
-  "num_followers": 52297,
+  "num_followers": 52399,
   "original_name": "Alt-Blue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zf0CfAAAAABkUerDPDodj5fDs/bI7+9J",
+  "snapshot_id": "ZllLQAAAAAC5mFuPeblBqbpKPURVqcpe",
   "tracks": [
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "Somebody to Love (Trust)",
+        "url": "https://open.spotify.com/album/4V9uqHkiHQfMpt8gYDaGWg"
+      },
+      "artists": [
+        {
+          "name": "The Deadbeat Cousins",
+          "url": "https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40"
+        }
+      ],
+      "duration_ms": 182480,
+      "name": "Somebody to Love (Trust)",
+      "url": "https://open.spotify.com/track/7otWVTT2kHVAKkToJJaOJn"
+    },
     {
       "added_at": "2024-03-22 04:01:00",
       "album": {
@@ -27,22 +43,6 @@
       "duration_ms": 148863,
       "name": "Girl On Girl",
       "url": "https://open.spotify.com/track/3uRtKGMu9MI3TFKatO6FEw"
-    },
-    {
-      "added_at": "2024-01-26 05:01:00",
-      "album": {
-        "name": "Get By (Good Enough)",
-        "url": "https://open.spotify.com/album/1cjS4Dg6yv2uUD2YqgEYyZ"
-      },
-      "artists": [
-        {
-          "name": "The Deadbeat Cousins",
-          "url": "https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40"
-        }
-      ],
-      "duration_ms": 203048,
-      "name": "Get By (Good Enough)",
-      "url": "https://open.spotify.com/track/0PwobOQQPY75G5PeuoAdQs"
     },
     {
       "added_at": "2024-01-19 05:01:00",

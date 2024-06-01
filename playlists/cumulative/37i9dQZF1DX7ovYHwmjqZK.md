@@ -4,7 +4,7 @@
 
 > Bossa Nova e MPB como acompanhamento / Bossa y música brasileña para todo momento.
 
-141 songs - 8 hr 25 min
+142 songs - 8 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Chuvas De Verão \- Remastered 2006](https://open.spotify.com/track/3qhFhiaQrfkejwjSFqjfmR) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Caetano Veloso \- 1969](https://open.spotify.com/album/1piwOhCQ92jysdChq3IRz9) | 2:48 | 2021-11-26 | 2024-04-19 |
 | [Cláudia](https://open.spotify.com/track/6kWTVslk9c1Vm7LCqwnssP) | [Antonio Adolfo](https://open.spotify.com/artist/41ZdHyHrzKwE6Y8dtDQ1Q9), [Leila Pinheiro](https://open.spotify.com/artist/4YBLaoTWDgIwBB6Y61Y6Nb) | [Vamos Partir Pro Mundo \- a Música de Antonio Adolfo e Tibério Gaspar](https://open.spotify.com/album/7cUhVVnTCLut3xdKKRkCFa) | 3:24 | 2021-11-26 |  |
 | [Coisa No\. 10](https://open.spotify.com/track/7HqQRraGY6iHIjgxwFdjaA) | [Moacir Santos](https://open.spotify.com/artist/74Hj9zxTTcTgjv3Kh0PozZ) | [Ouro Negro](https://open.spotify.com/album/6JE3031cYqjRrfi1rYwEJV) | 3:03 | 2023-03-17 | 2024-04-19 |
-| [Coisa Nº 10](https://open.spotify.com/track/7IDT1CPTBq6B8zpgbqVZYG) | [Moacir Santos](https://open.spotify.com/artist/74Hj9zxTTcTgjv3Kh0PozZ) | [Ouro Negro](https://open.spotify.com/album/1WrpDqFJbBpmo85pLhwkUK) | 3:03 | 2024-03-08 |  |
+| [Coisa Nº 10](https://open.spotify.com/track/7IDT1CPTBq6B8zpgbqVZYG) | [Moacir Santos](https://open.spotify.com/artist/74Hj9zxTTcTgjv3Kh0PozZ) | [Ouro Negro](https://open.spotify.com/album/1WrpDqFJbBpmo85pLhwkUK) | 3:03 | 2024-03-08 | 2024-06-01 |
 | [Compro o Vento](https://open.spotify.com/track/1Ihq48VjNlON6ZbAlOderq) | [Eliza Meireles](https://open.spotify.com/artist/7jfxSuNVObDzGcmTO9keuV) | [O Samba, a Roseira e o Vento](https://open.spotify.com/album/1zVeyQapR2zvcR9xqTMemg) | 2:53 | 2021-11-26 |  |
 | [Cris](https://open.spotify.com/track/2tyj2m04JFJQmJolMfSzXU) | [Hamleto Stamato](https://open.spotify.com/artist/7EqWQMcDQbK4mtYb1pgmeI) | [Autoral](https://open.spotify.com/album/4QuWHriFgdVwmnOwwtNl0s) | 4:00 | 2021-11-26 |  |
 | [Depressa a Vida Passa](https://open.spotify.com/track/4CEYFrHQhdutercm6HahHo) | [Renato Braz](https://open.spotify.com/artist/69urXE3DptYZDfblOG15D5) | [Depressa a Vida Passa](https://open.spotify.com/album/1lDrbSt52KH4mRi4U3HvRH) | 4:53 | 2021-11-26 | 2024-02-16 |
@@ -134,6 +134,7 @@
 | [Um Caso Perdido](https://open.spotify.com/track/4iRdzybP9SgiBqFrdRjVg6) | [Zé Renato](https://open.spotify.com/artist/4qKsdS2IGIfnj00bQRP2mL) | [O Amor é um Segredo Zé Renato canta Paulinho da Viola](https://open.spotify.com/album/7Mk4XTh9NVPd9mJMIW9v7e) | 2:52 | 2021-11-26 | 2024-04-19 |
 | [Um Caso Perdido](https://open.spotify.com/track/5IAoNNSqOtbApvFarcAXSq) | [Zé Renato](https://open.spotify.com/artist/4qKsdS2IGIfnj00bQRP2mL) | [O Amor é um Segredo \- Zé Renato Canta Paulinho da Viola](https://open.spotify.com/album/0jdtilr4ow2LiQXW0A6ecm) | 2:52 | 2021-11-26 |  |
 | [Um Dia No Mar](https://open.spotify.com/track/1EZYeNyXTPKOVAP7Vn9wCi) | [Claudio Fonseca Quartet](https://open.spotify.com/artist/3cxnRW4ENZ1c41HbbXy8Bf) | [Um Dia No Mar](https://open.spotify.com/album/4QrobV7gNlPPVdJ6MY8Y2U) | 2:41 | 2021-11-26 |  |
+| [Vaga\-Lumes](https://open.spotify.com/track/4tmiDNIEre4ltERgyXkhBK) | [Tainá](https://open.spotify.com/artist/0XXftdqBugbSuMCYFiisaC), [Tiago Nacarato](https://open.spotify.com/artist/3mwYj8Nb9VZbAnLpli7l8X) | [Vaga\-Lumes](https://open.spotify.com/album/76FPkGP3zOyO3RasfgG3aw) | 3:01 | 2024-05-31 |  |
 | [Vaidoso](https://open.spotify.com/track/30wH1ebVpN4yCfXqEbNhMG) | [Ramiro Pinheiro](https://open.spotify.com/artist/3OXQ3e6cnm6HYisXCRpPRV), [Alvar Monfort](https://open.spotify.com/artist/5tgFZn6lbPjBQ2lWuiuRxm) | [Vaidoso](https://open.spotify.com/album/1c8sfO9ugBr4SHYChqewTC) | 3:00 | 2021-11-26 | 2024-04-19 |
 | [Vaidoso](https://open.spotify.com/track/5k2NFQf8v2foh5Kwkk7zVg) | [Ramiro Pinheiro](https://open.spotify.com/artist/3OXQ3e6cnm6HYisXCRpPRV), [Alvar Monfort](https://open.spotify.com/artist/5tgFZn6lbPjBQ2lWuiuRxm) | [Vaidoso](https://open.spotify.com/album/2YnXefeX040GxF3fE7Y8Ly) | 3:00 | 2021-11-26 |  |
 | [Veja Bem Meu Bem](https://open.spotify.com/track/293QQHlGCVFmWoS2YMbjot) | [Daniela Soledade](https://open.spotify.com/artist/1uFhayw4wNDAA8kTsl5ACl), [Yves Dharamraj](https://open.spotify.com/artist/7KcNnfR1aLjOj9EFbRe63W) | [Veja Bem Meu Bem \(Single\)](https://open.spotify.com/album/395WtO1KY2VMx5NVcilT1R) | 5:22 | 2021-11-26 |  |

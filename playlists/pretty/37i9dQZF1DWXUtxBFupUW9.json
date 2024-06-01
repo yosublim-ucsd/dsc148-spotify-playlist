@@ -1,6 +1,6 @@
 {
   "description": "Exercise together with uplifting soul music.",
-  "num_followers": 322813,
+  "num_followers": 323087,
   "original_name": "Soul Workout",
   "owner": {
     "name": "Spotify",
@@ -539,22 +539,6 @@
     {
       "added_at": "2024-01-16 15:12:14",
       "album": {
-        "name": "Signed, Sealed And Delivered",
-        "url": "https://open.spotify.com/album/54ootLtDyMZFr9obtWQvvO"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 199506,
-      "name": "We Can Work It Out",
-      "url": "https://open.spotify.com/track/41q8ZiB3LZl4HRmmzUTIo4"
-    },
-    {
-      "added_at": "2024-01-16 15:12:14",
-      "album": {
         "name": "Swing Low",
         "url": "https://open.spotify.com/album/40y4Rm3Oum1bQlzIxZpVPq"
       },
@@ -603,6 +587,22 @@
     {
       "added_at": "2024-01-16 15:12:14",
       "album": {
+        "name": "Signed, Sealed And Delivered",
+        "url": "https://open.spotify.com/album/54ootLtDyMZFr9obtWQvvO"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 199506,
+      "name": "We Can Work It Out",
+      "url": "https://open.spotify.com/track/41q8ZiB3LZl4HRmmzUTIo4"
+    },
+    {
+      "added_at": "2024-01-16 15:12:14",
+      "album": {
         "name": "Soul Manifesto: 1964-1970",
         "url": "https://open.spotify.com/album/0JwIILToCGqGm6jElmWRHZ"
       },
@@ -615,22 +615,6 @@
       "duration_ms": 141000,
       "name": "Hard to Handle",
       "url": "https://open.spotify.com/track/3AW8RH8wosGLxd6ZojTGBe"
-    },
-    {
-      "added_at": "2024-01-16 15:12:14",
-      "album": {
-        "name": "Up-Tight Everything's Alright",
-        "url": "https://open.spotify.com/album/79jRgkYwwfQjxkB1qd5mAP"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 175066,
-      "name": "Uptight (Everything's Alright)",
-      "url": "https://open.spotify.com/track/5q5q7yDHiVkBnaivsda4TN"
     },
     {
       "added_at": "2024-01-16 15:12:14",
@@ -667,6 +651,22 @@
     {
       "added_at": "2024-01-16 15:12:14",
       "album": {
+        "name": "Living In America",
+        "url": "https://open.spotify.com/album/0kY1Tg931A8dkaLmJve8ec"
+      },
+      "artists": [
+        {
+          "name": "James Brown",
+          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
+        }
+      ],
+      "duration_ms": 248533,
+      "name": "Living in America",
+      "url": "https://open.spotify.com/track/0T1OrvV6bOQVL2vSQiDn6W"
+    },
+    {
+      "added_at": "2024-01-16 15:12:14",
+      "album": {
         "name": "The Best of Sister Sledge (1973-1985)",
         "url": "https://open.spotify.com/album/4L1Astvd0LwOkF49jQ2Uyt"
       },
@@ -683,18 +683,18 @@
     {
       "added_at": "2024-01-16 15:12:14",
       "album": {
-        "name": "Living In America",
-        "url": "https://open.spotify.com/album/0kY1Tg931A8dkaLmJve8ec"
+        "name": "Up-Tight Everything's Alright",
+        "url": "https://open.spotify.com/album/79jRgkYwwfQjxkB1qd5mAP"
       },
       "artists": [
         {
-          "name": "James Brown",
-          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
         }
       ],
-      "duration_ms": 248533,
-      "name": "Living in America",
-      "url": "https://open.spotify.com/track/0T1OrvV6bOQVL2vSQiDn6W"
+      "duration_ms": 175066,
+      "name": "Uptight (Everything's Alright)",
+      "url": "https://open.spotify.com/track/5q5q7yDHiVkBnaivsda4TN"
     },
     {
       "added_at": "2024-01-16 15:12:14",

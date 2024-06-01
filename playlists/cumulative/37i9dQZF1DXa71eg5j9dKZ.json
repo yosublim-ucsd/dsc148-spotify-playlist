@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-11-24",
-  "description": "The home for alternative electronic music. Cover: LP Giobbi",
+  "description": "The home for alternative electronic music. Cover: Disclosure",
   "name": "Altar",
   "tracks": [
     {
@@ -4919,7 +4919,7 @@
     },
     {
       "album": {
-        "name": "Energy ('05 Remix)",
+        "name": "Energy (Ewan McVicar '05 Remix)",
         "url": "https://open.spotify.com/album/2wRRQ3sFAFiNzKUFxGms8R"
       },
       "artists": [
@@ -4928,19 +4928,19 @@
           "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
         },
         {
-          "name": "Ewan McVicar",
-          "url": "https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH"
-        },
-        {
           "name": "DRAMA",
           "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
+        },
+        {
+          "name": "Ewan McVicar",
+          "url": "https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH"
         }
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 279875,
-      "name": "Energy - '05 Remix",
+      "name": "Energy - Ewan McVicar '05 Remix",
       "url": "https://open.spotify.com/track/3f6u2nwY2wgW8yq9Ith9P0"
     },
     {
@@ -9054,7 +9054,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 192512,
       "name": "Just Over - Franky Wah Remix",
       "url": "https://open.spotify.com/track/0rxXB8gFoCBKribWsODgsu"
@@ -11348,7 +11348,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 215736,
       "name": "My Only Love",
       "url": "https://open.spotify.com/track/2tqZV9H8uOP1bPK6WRrCLO"
@@ -11548,7 +11548,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 189270,
       "name": "Never Ever Ever (feat. shiv)",
       "url": "https://open.spotify.com/track/2dbnNetIFWLA7q7Fb9QcVk"
@@ -11744,6 +11744,24 @@
       "duration_ms": 200708,
       "name": "Ninetynine",
       "url": "https://open.spotify.com/track/1Ly3K26YPGfRc802bd8jsn"
+    },
+    {
+      "album": {
+        "name": "No Better Than Chance",
+        "url": "https://open.spotify.com/album/5Ofxr1HjwLJLG0ruXiJGpu"
+      },
+      "artists": [
+        {
+          "name": "The Streets",
+          "url": "https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216838,
+      "name": "No Better Than Chance",
+      "url": "https://open.spotify.com/track/5MzodeYdjEzCxTj9L3A12W"
     },
     {
       "album": {
@@ -12883,6 +12901,32 @@
     },
     {
       "album": {
+        "name": "places to be",
+        "url": "https://open.spotify.com/album/0M0iJGLagLtI4LlooOiiNZ"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "CHIKA",
+          "url": "https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226677,
+      "name": "places to be",
+      "url": "https://open.spotify.com/track/561pBFcFL2Pwb9HPO9tU8J"
+    },
+    {
+      "album": {
         "name": "plan A",
         "url": "https://open.spotify.com/album/7mrgH9ktRzdpEn31NB8I8x"
       },
@@ -13231,7 +13275,7 @@
     },
     {
       "album": {
-        "name": "Push",
+        "name": "Push (feat. OFFAIAH)",
         "url": "https://open.spotify.com/album/3GSEVlHrbrQbKSP4ozWzx8"
       },
       "artists": [
@@ -13248,19 +13292,19 @@
           "url": "https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN"
         },
         {
-          "name": "contra",
-          "url": "https://open.spotify.com/artist/5VYRcaryFLFZnA5HvnRHFi"
-        },
-        {
           "name": "OFFAIAH",
           "url": "https://open.spotify.com/artist/2E1NFr5AeEGUJkLUUsWCAO"
+        },
+        {
+          "name": "contra",
+          "url": "https://open.spotify.com/artist/5VYRcaryFLFZnA5HvnRHFi"
         }
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 185244,
-      "name": "Push",
+      "name": "Push (feat. OFFAIAH)",
       "url": "https://open.spotify.com/track/29OFLlrrfKIEVwbVMTjBYe"
     },
     {
@@ -14826,6 +14870,24 @@
       "duration_ms": 331957,
       "name": "She Gives U",
       "url": "https://open.spotify.com/track/4O0ZhoIxA7xovHZ9RSbI9E"
+    },
+    {
+      "album": {
+        "name": "She\u2019s Gone, Dance On",
+        "url": "https://open.spotify.com/album/4klc9KJJVpA7fwJJT1duGq"
+      },
+      "artists": [
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226773,
+      "name": "She\u2019s Gone, Dance On",
+      "url": "https://open.spotify.com/track/29I9dv9Nq704w0Oc5yFGsR"
     },
     {
       "album": {

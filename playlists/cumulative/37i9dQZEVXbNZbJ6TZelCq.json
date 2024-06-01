@@ -1268,7 +1268,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-29",
+      "date_removed": null,
       "duration_ms": 163636,
       "name": "Ale Ale",
       "url": "https://open.spotify.com/track/5hTdrujbmAaNS1PW2ahIgK"
@@ -3072,7 +3072,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-26",
+      "date_removed": null,
       "duration_ms": 180304,
       "name": "Beautiful Things",
       "url": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii"
@@ -5545,6 +5545,32 @@
     },
     {
       "album": {
+        "name": "CHEEKY",
+        "url": "https://open.spotify.com/album/7Iq7Yv2N2z9gBsHlvJtKRz"
+      },
+      "artists": [
+        {
+          "name": "Babasha",
+          "url": "https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl"
+        },
+        {
+          "name": "Hermenotis",
+          "url": "https://open.spotify.com/artist/2gsfcRIhobOWGaJffgwnH9"
+        },
+        {
+          "name": "Ministerul Manelelor",
+          "url": "https://open.spotify.com/artist/1QFgyLmmyAZTPn707dbQT7"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134787,
+      "name": "CHEEKY",
+      "url": "https://open.spotify.com/track/7k3if0qnazNcZEOd0J4LpZ"
+    },
+    {
+      "album": {
         "name": "Cheia Inimii Mele",
         "url": "https://open.spotify.com/album/1EypAuFtdVHKGb2too9Psf"
       },
@@ -5578,7 +5604,7 @@
       ],
       "date_added": "2024-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 192000,
       "name": "CHERIE DEVILLE",
       "url": "https://open.spotify.com/track/3kqABUodHMpnCa4Egs4ZgD"
@@ -9004,7 +9030,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-29",
+      "date_removed": null,
       "duration_ms": 129000,
       "name": "Emirate",
       "url": "https://open.spotify.com/track/65uHYuqIZqueZNG6DbpSJi"
@@ -20008,7 +20034,7 @@
       ],
       "date_added": "2024-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 160000,
       "name": "NOSE CANDY",
       "url": "https://open.spotify.com/track/33REY2newQn4YrbkjaURPi"
@@ -20248,7 +20274,7 @@
       ],
       "date_added": "2024-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 220884,
       "name": "NU TE MAI V\u0102D",
       "url": "https://open.spotify.com/track/0n6pjhfaEOBNeaPpjj6zPK"
@@ -27096,7 +27122,7 @@
       ],
       "date_added": "2024-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 141582,
       "name": "SPRITZ",
       "url": "https://open.spotify.com/track/4sumjNX3hb6dZXx3WAxEy4"

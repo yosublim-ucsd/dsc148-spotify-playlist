@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "Rhyme Elite Artist League \u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b\u0e02\u0e2d\u0e07\u0e08\u0e23\u0e34\u0e07 \u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b R.E.A.L.",
+  "description": "Rhyme Elite Artist League \u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b\u0e02\u0e2d\u0e07\u0e08\u0e23\u0e34\u0e07 \u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b R.E.A.L. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Ben Bizzy",
   "name": "\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b R.E.A.L. ",
   "tracks": [
     {
@@ -1174,7 +1174,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 229500,
       "name": "HEY HEY (feat. \u0e2d\u0e32\u0e20\u0e32\u0e1e\u0e23 \u0e19\u0e04\u0e23\u0e2a\u0e27\u0e23\u0e23\u0e04\u0e4c)",
       "url": "https://open.spotify.com/track/2TJTtCcuOikQ0jSKrtswHI"
@@ -1462,7 +1462,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 182821,
       "name": "I KNOW",
       "url": "https://open.spotify.com/track/0dBmRt2LECv4o1e9wbTyZH"
@@ -2575,6 +2575,24 @@
     },
     {
       "album": {
+        "name": "One Day",
+        "url": "https://open.spotify.com/album/3jVjKSg3PSdq1shyMIa9Rz"
+      },
+      "artists": [
+        {
+          "name": "Ben Bizzy",
+          "url": "https://open.spotify.com/artist/7IFeTLxFc5Qn00yznSbNO6"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135724,
+      "name": "One Day",
+      "url": "https://open.spotify.com/track/4JjsTrUcrLM8OGuJjjfXKk"
+    },
+    {
+      "album": {
         "name": "Panda",
         "url": "https://open.spotify.com/album/0vj7tKmyu6jVhyK2X13IvZ"
       },
@@ -3039,6 +3057,28 @@
     },
     {
       "album": {
+        "name": "SKYLINE",
+        "url": "https://open.spotify.com/album/6ecz8WYaKvvSZNr4LOOmyq"
+      },
+      "artists": [
+        {
+          "name": "BlackHeart",
+          "url": "https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV"
+        },
+        {
+          "name": "LAZYLOXY",
+          "url": "https://open.spotify.com/artist/5w5u1DluuMvsS9o02rqWO5"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232000,
+      "name": "SKYLINE",
+      "url": "https://open.spotify.com/track/4BdyVcjoNWqCOaAGirRsf0"
+    },
+    {
+      "album": {
         "name": "Skyline",
         "url": "https://open.spotify.com/album/4CpVQtmTgRxDqRZEqpFSgt"
       },
@@ -3084,7 +3124,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 180000,
       "name": "Slide",
       "url": "https://open.spotify.com/track/4T9Tq92gf8oRRm7jokHszR"
@@ -3987,6 +4027,36 @@
     },
     {
       "album": {
+        "name": "\u0e02\u0e2d\u0e2a\u0e31\u0e01\u0e17\u0e35",
+        "url": "https://open.spotify.com/album/4WJUsT31kSdgklvb15vSky"
+      },
+      "artists": [
+        {
+          "name": "MQT Squad",
+          "url": "https://open.spotify.com/artist/7MhFtit9ul3ufsMwtUwiif"
+        },
+        {
+          "name": "DIAMOND MQT",
+          "url": "https://open.spotify.com/artist/0O6y1pr1YIKq65c6N3sI9c"
+        },
+        {
+          "name": "FATBOII MQT",
+          "url": "https://open.spotify.com/artist/6zYoXxdjJH6n2DFQtr3i9O"
+        },
+        {
+          "name": "SURIYA MQT",
+          "url": "https://open.spotify.com/artist/47VCMoQZJ0SycPle77t12P"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238332,
+      "name": "\u0e02\u0e2d\u0e2a\u0e31\u0e01\u0e17\u0e35",
+      "url": "https://open.spotify.com/track/5i5phIWFygOD0Cpsc64Lui"
+    },
+    {
+      "album": {
         "name": "URMAN",
         "url": "https://open.spotify.com/album/5m5nxgIvm1W9Cp5FYoYayd"
       },
@@ -4260,7 +4330,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 168014,
       "name": "\u0e04\u0e38\u0e13\u0e1c\u0e39\u0e49\u0e2b\u0e0d\u0e34\u0e07",
       "url": "https://open.spotify.com/track/4Tg8uFnZ1fF9Zgixzg7Qv8"
@@ -8454,6 +8524,28 @@
       "duration_ms": 151428,
       "name": "\u0e44\u0e21\u0e48\u0e23\u0e31\u0e01\u0e01\u0e47\u0e15\u0e32\u0e21\u0e43\u0e08",
       "url": "https://open.spotify.com/track/3dBqpSG0pWzgoYRj80jsLw"
+    },
+    {
+      "album": {
+        "name": "\u0e44\u0e21\u0e48\u0e23\u0e39\u0e49\u0e2a\u0e36\u0e01",
+        "url": "https://open.spotify.com/album/5IggPuH7gXM1bdKEP1KFkZ"
+      },
+      "artists": [
+        {
+          "name": "NINJA",
+          "url": "https://open.spotify.com/artist/2nVepyt8a78fnzBWwsemtw"
+        },
+        {
+          "name": "DAW",
+          "url": "https://open.spotify.com/artist/3GcRmAFjv0E4SaisYqJHyp"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186605,
+      "name": "\u0e44\u0e21\u0e48\u0e23\u0e39\u0e49\u0e2a\u0e36\u0e01",
+      "url": "https://open.spotify.com/track/5kLO6iMxOxBpUKYBew11VW"
     },
     {
       "album": {

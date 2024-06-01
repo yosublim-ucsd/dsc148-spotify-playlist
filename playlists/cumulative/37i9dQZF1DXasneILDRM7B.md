@@ -2,7 +2,7 @@
 
 ### [Pure Pop Punk](https://open.spotify.com/playlist/37i9dQZF1DXasneILDRM7B)
 
-> Please stand for your personal anthems\. Cover: Paramore
+> Please stand for your personal anthems\. Cover: blink\-182
 
 376 songs - 20 hr 43 min
 

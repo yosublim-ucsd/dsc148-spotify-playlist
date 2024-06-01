@@ -1067,6 +1067,24 @@
     },
     {
       "album": {
+        "name": "Bisou",
+        "url": "https://open.spotify.com/album/1rT7CsCPZHqqjL8Cd7vM27"
+      },
+      "artists": [
+        {
+          "name": "Elov Trus",
+          "url": "https://open.spotify.com/artist/3C9En1lNXIal0tCZVbKxtv"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158736,
+      "name": "Bisou",
+      "url": "https://open.spotify.com/track/7FSeGQHfvKITyvGTIr1zBD"
+    },
+    {
+      "album": {
         "name": "Das Freundliche Monster",
         "url": "https://open.spotify.com/album/167K8pRyBOUiDfZyv5Zwe8"
       },
@@ -2342,6 +2360,24 @@
       "duration_ms": 90000,
       "name": "Dreamland Promenade",
       "url": "https://open.spotify.com/track/03Qc20BWJ7ivcl3LMLEIeN"
+    },
+    {
+      "album": {
+        "name": "Dreams Of The Night",
+        "url": "https://open.spotify.com/album/2PDHAugy1c8jSLLxwWHTQz"
+      },
+      "artists": [
+        {
+          "name": "Isaac Tira",
+          "url": "https://open.spotify.com/artist/36itJVdaUkayBbmezbbDo7"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123900,
+      "name": "Dreams Of The Night",
+      "url": "https://open.spotify.com/track/0zdhDS1mIBjxOh2p7DB9Tb"
     },
     {
       "album": {
@@ -6039,6 +6075,24 @@
     },
     {
       "album": {
+        "name": "Mr Cucumber",
+        "url": "https://open.spotify.com/album/5jz367s391OH7mFctHuY0M"
+      },
+      "artists": [
+        {
+          "name": "Ani Ander",
+          "url": "https://open.spotify.com/artist/4tgweMpFuTmUl1mXLTgb4W"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155874,
+      "name": "Mr Cucumber",
+      "url": "https://open.spotify.com/track/4jMUeelEdgsEm0XKUzpR41"
+    },
+    {
+      "album": {
         "name": "Humpty Dumpty",
         "url": "https://open.spotify.com/album/692KzLCdujMItymDhBpQvV"
       },
@@ -7335,6 +7389,24 @@
     },
     {
       "album": {
+        "name": "Rainbow dream",
+        "url": "https://open.spotify.com/album/4iN0KOkULPtGoK1uPndsF9"
+      },
+      "artists": [
+        {
+          "name": "Juno Erikson",
+          "url": "https://open.spotify.com/artist/7I6yDSz0uj0fzj28dGELNC"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95750,
+      "name": "Rainbow dream",
+      "url": "https://open.spotify.com/track/1Yfb2ARH13IZ6GJrWceltb"
+    },
+    {
+      "album": {
         "name": "Rainbow Sky",
         "url": "https://open.spotify.com/album/3e9Nts6SRxn1htmBr06L3n"
       },
@@ -7674,6 +7746,24 @@
       "duration_ms": 184180,
       "name": "Ruth",
       "url": "https://open.spotify.com/track/1hqsp7bsJe26RN1Q5tpEG5"
+    },
+    {
+      "album": {
+        "name": "Safe Dreams",
+        "url": "https://open.spotify.com/album/4bynjmrlCiPgtAITDIL8yF"
+      },
+      "artists": [
+        {
+          "name": "Myl\u00e8ne Longet",
+          "url": "https://open.spotify.com/artist/382jmpzU6DNH9bpzr0nYky"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124984,
+      "name": "Safe Dreams",
+      "url": "https://open.spotify.com/track/1HZ3heObvXEVLNtitZSgf4"
     },
     {
       "album": {
@@ -10842,6 +10932,24 @@
       "duration_ms": 92624,
       "name": "With You, I'm Home",
       "url": "https://open.spotify.com/track/1z9gqMvaO501KwkXVFc03U"
+    },
+    {
+      "album": {
+        "name": "Wonderland",
+        "url": "https://open.spotify.com/album/57WLtjKQMWOstSPfGypXrE"
+      },
+      "artists": [
+        {
+          "name": "Nerseh Soul",
+          "url": "https://open.spotify.com/artist/3F1T3ei9hUjYpSTdNjfQYI"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143779,
+      "name": "Wonderland",
+      "url": "https://open.spotify.com/track/1ld8m1HHXHopfkQ8MxL1LN"
     },
     {
       "album": {

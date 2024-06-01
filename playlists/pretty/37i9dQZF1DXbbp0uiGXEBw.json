@@ -1,13 +1,29 @@
 {
-  "description": "C\u00f9ng t\u00f4n vinh t\u00e0i n\u0103ng v\u00e0 \u00e2m nh\u1ea1c c\u1ee7a nh\u1eefng n\u1eef ngh\u1ec7 s\u0129 Vi\u1ec7t. \u1ea2nh b\u00eca: LUNAS",
-  "num_followers": 27739,
+  "description": "C\u00f9ng t\u00f4n vinh t\u00e0i n\u0103ng v\u00e0 \u00e2m nh\u1ea1c c\u1ee7a nh\u1eefng n\u1eef ngh\u1ec7 s\u0129 Vi\u1ec7t. \u1ea2nh b\u00eca: b\u00e9 sau n\u00e0y tr\u1edf th\u00e0nh diva",
+  "num_followers": 27750,
   "original_name": "EQUAL Vietnam",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkwFsgAAAACr9pEL2eV16c/PBcTNXiEI",
+  "snapshot_id": "ZliwkAAAAACtmpcFnhG+LpuVHYvvU64S",
   "tracks": [
+    {
+      "added_at": "2024-05-30 17:00:00",
+      "album": {
+        "name": "Nh\u1eefng Con S\u00f4ng Ng\u00f3n Tay",
+        "url": "https://open.spotify.com/album/3zUHCTqYHkBQEtgxILYgW4"
+      },
+      "artists": [
+        {
+          "name": "H\u00e0 Tr\u1ea7n",
+          "url": "https://open.spotify.com/artist/37cUqDVdpydDd8VtNlCLuk"
+        }
+      ],
+      "duration_ms": 309527,
+      "name": "Nh\u1eefng Con S\u00f4ng Ng\u00f3n Tay",
+      "url": "https://open.spotify.com/track/1fHAmpj6iqMJVikRKzq1OE"
+    },
     {
       "added_at": "2024-05-20 13:27:49",
       "album": {
@@ -103,38 +119,6 @@
       "duration_ms": 180500,
       "name": "\u0111en \u0111\u00e1 kh\u00f4ng \u0111\u01b0\u1eddng",
       "url": "https://open.spotify.com/track/3clfEGdaeSmWM6pDekmZ2G"
-    },
-    {
-      "added_at": "2024-04-30 17:00:00",
-      "album": {
-        "name": "Mashup: Hoa N\u1edf Kh\u00f4ng M\u00e0u & B\u00f4ng Hoa \u0110\u1eb9p Nh\u1ea5t",
-        "url": "https://open.spotify.com/album/7pAK1iJrMvvPfZmjGRjddp"
-      },
-      "artists": [
-        {
-          "name": "Thu Ph\u01b0\u01a1ng",
-          "url": "https://open.spotify.com/artist/3LsIDqxwDjcEKbK3D1IrDk"
-        },
-        {
-          "name": "Huy\u1ec1n Baby",
-          "url": "https://open.spotify.com/artist/5bMwwJZX9bBFAMTbqIHig7"
-        },
-        {
-          "name": "Trang Ph\u00e1p",
-          "url": "https://open.spotify.com/artist/3Ovt66opVihLuIvPhlceI6"
-        },
-        {
-          "name": "Ninh D\u01b0\u01a1ng Lan Ng\u1ecdc",
-          "url": "https://open.spotify.com/artist/1XO2u0sx6W0yNLUYZmPPmq"
-        },
-        {
-          "name": "Di\u1ec7u Nhi",
-          "url": "https://open.spotify.com/artist/2mpSmbp35mvG7ig3cg1jEj"
-        }
-      ],
-      "duration_ms": 285260,
-      "name": "Mashup: Hoa N\u1edf Kh\u00f4ng M\u00e0u & B\u00f4ng Hoa \u0110\u1eb9p Nh\u1ea5t",
-      "url": "https://open.spotify.com/track/7lTWTesY1sXVIYjJaCoyIy"
     },
     {
       "added_at": "2024-04-30 17:00:00",

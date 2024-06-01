@@ -4,7 +4,7 @@
 
 > From slack\-key masters to songwriting royals, Native Hawaiians have been behind the isles' most memorable music.
 
-94 songs - 5 hr 57 min
+96 songs - 6 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Haleakala Hula](https://open.spotify.com/track/5op9hoVsdz26naItLYuwMb) | [Uluwehi Guerrero](https://open.spotify.com/artist/7bZEhAbKw58nj7f7dxISjd) | [Uluwehi Sings Na Mele Hula Aloha](https://open.spotify.com/album/6c8VrZiE7YDNRjpa7ciSGe) | 2:35 | 2022-05-02 | 2023-12-16 |
 | [Hanalei I Ka Pilimoe](https://open.spotify.com/track/16AgooUpw2xG8OQqGepEJZ) | [Kalani Pe'a](https://open.spotify.com/artist/2dn7TmEojNdgWeRhbO15hg) | [E Walea](https://open.spotify.com/album/5lm1nmjm0NWth85dImVdgt) | 3:09 | 2022-05-02 | 2024-04-27 |
 | [Hawai'i '78 Introduction](https://open.spotify.com/track/6DynsXxu5oaCgkt4lXutoM) | [Israel Kamakawiwo'ole](https://open.spotify.com/artist/4ogvuDRerGhZfSf7TtzHlr) | [Facing Future](https://open.spotify.com/album/0pquf1NcG9FdiypBPwICu9) | 5:05 | 2022-05-02 |  |
-| [Heha Waipiʻo](https://open.spotify.com/track/1bbdAdeUtBuQagkXg6VFXh) | [Keauhou](https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq) | [I Leʻa](https://open.spotify.com/album/71Kc8flnHzCQw1ci7WkiKb) | 2:36 | 2022-08-26 |  |
+| [Heha Waipiʻo](https://open.spotify.com/track/1bbdAdeUtBuQagkXg6VFXh) | [Keauhou](https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq) | [I Leʻa](https://open.spotify.com/album/71Kc8flnHzCQw1ci7WkiKb) | 2:36 | 2022-08-26 | 2024-06-01 |
 | [Hi'ilawe](https://open.spotify.com/track/7qTlRtGYNd9emAr8eB6xLk) | [Gabby Pahinui](https://open.spotify.com/artist/2Ju4D1DqBETuLI2hAsoqHu) | [Pure Gabby](https://open.spotify.com/album/2Ta9PRl0lN9Bz2SDttccd1) | 4:08 | 2022-05-02 |  |
 | [Hilo Hula](https://open.spotify.com/track/2XctnPVkwBKFcRWf0QGaGF) | [Uluwehi Guerrero](https://open.spotify.com/artist/7bZEhAbKw58nj7f7dxISjd) | [Hawaiian Island Breeze](https://open.spotify.com/album/2rOCJTDQKbDSxYWG930bMb) | 2:31 | 2022-05-02 | 2023-12-16 |
 | [Home](https://open.spotify.com/track/2HvDdnIM3gzROq4jZ0t2ha) | [Jay.Keyz](https://open.spotify.com/artist/735Dj0ds517E8X1uPiJ35s) | [Home](https://open.spotify.com/album/2S6Y4khGh8zG8RVVvBAcP6) | 3:56 | 2023-08-23 |  |
@@ -45,7 +45,7 @@
 | [Ka Makani Ka'ili Aloha](https://open.spotify.com/track/1PixVvyOPz9LWBJAVUnVfP) | [Gabby Pahinui](https://open.spotify.com/artist/2Ju4D1DqBETuLI2hAsoqHu) | [Gabby](https://open.spotify.com/album/3L1Dl7Nd63jKDQ3eTWfzkQ) | 2:53 | 2022-05-02 |  |
 | [Ka Uluwehi O Ke Kai](https://open.spotify.com/track/2rM6AcX6kgljFsVYSplNdW) | [Edith Kanaka'ole](https://open.spotify.com/artist/3GXiLen9s3pxDqeCYUiYdo), [Don McDiarmid, Jr.](https://open.spotify.com/artist/0CHzW9ItbXe4NgyhJH6Scp) | [Don McDiarmid, Jr\. Presents: Hula Records' Hits!](https://open.spotify.com/album/5p86JG9vj4i2Ie35S3ZFPg) | 5:00 | 2022-05-02 |  |
 | [Kaua'I Beauty](https://open.spotify.com/track/4ZATv5J2rmfnj3mta0qBAe) | [Gabby Pahinui](https://open.spotify.com/artist/2Ju4D1DqBETuLI2hAsoqHu) | [Rabbit Island Music Festival](https://open.spotify.com/album/6lINMX2Lg6bcCmZKw69OXQ) | 3:29 | 2022-05-02 |  |
-| [Kawaikini](https://open.spotify.com/track/1a2UimgBeSAHzTECBo2iya) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Kimie Miner](https://open.spotify.com/artist/0WqR2IuhhxLCTryPSvFv61) | [Kawaikini](https://open.spotify.com/album/1KBUkJGGdMwPRrRcO2FWs9) | 4:30 | 2023-09-01 |  |
+| [Kawaikini](https://open.spotify.com/track/1a2UimgBeSAHzTECBo2iya) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Kimie Miner](https://open.spotify.com/artist/0WqR2IuhhxLCTryPSvFv61) | [Kawaikini](https://open.spotify.com/album/1KBUkJGGdMwPRrRcO2FWs9) | 4:30 | 2023-09-01 | 2024-06-01 |
 | [Kawohikukapulani](https://open.spotify.com/track/169se8C2wnc9nSEspeNsag) | [Robi Kahakalau](https://open.spotify.com/artist/1qXPmO8voLWvytAkh7ffuP) | [Robi Calling](https://open.spotify.com/album/0TFTUwSIwkNZigONKD5ovm) | 2:36 | 2022-05-02 |  |
 | [Ke Kuko E Ka Manawa](https://open.spotify.com/track/0MmoH7CeEX43zEYfI2YHxd) | [Natalie Ai Kamauu](https://open.spotify.com/artist/2xNjvgxtzsBxo3iAyrxGux) | [Eia](https://open.spotify.com/album/3TVoC0p4iQP3aFSE4yaADG) | 3:22 | 2022-05-02 |  |
 | [Ku'u Lei Awapuhi](https://open.spotify.com/track/2l0zhAFbn7mELo8sCXbXcT) | [Hapa](https://open.spotify.com/artist/3w0M90LteiOnPZkklwQPqZ) | [HAPA](https://open.spotify.com/album/5WIrLJC5sC3AQvLzoMh1De) | 4:38 | 2022-05-02 |  |
@@ -89,6 +89,7 @@
 | [Starting All Over Again \- Acoustic Sessions](https://open.spotify.com/track/2FOMDrCQG2YVYbwBdqJ5M5) | [Iam Tongi](https://open.spotify.com/artist/4HRMz0O4zNGfvgpDWYNiS3) | [Starting All Over Again \(Acoustic Sessions\)](https://open.spotify.com/album/6eDLJL9ucaRjCbjHKjMcVi) | 4:27 | 2023-09-15 |  |
 | [Sweet Ka Makani, Ke Kaiaulu](https://open.spotify.com/track/3OvWegDoaNxfgyMya5OcI2) | [Lim Family](https://open.spotify.com/artist/0nO5vVfEwDuz1KXJUnEC7O) | [Hula! Big Island Style](https://open.spotify.com/album/51Npcu6wgTkBQpq3IMFRWw) | 3:20 | 2022-05-02 |  |
 | [The Hukilau Song](https://open.spotify.com/track/563Zc7T3deOuITfis5zubv) | [Don Ho](https://open.spotify.com/artist/3Ew1ynSmASX9Uec5FzBYrL) | [Music & Highlights: Aloha to the World](https://open.spotify.com/album/22sgQvWRghWgFowVZLqBDm) | 2:14 | 2022-05-02 |  |
+| [Travelin' Soldier](https://open.spotify.com/track/0hWkRKNdOjpHYmvbvSY9Nv) | [Maoli](https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA) | [Travelin' Soldier](https://open.spotify.com/album/2Np0YVg1kIaB5Ljyvv9yj1) | 5:32 | 2024-05-31 |  |
 | [Wahine 'Ilikea](https://open.spotify.com/track/5CRB3UF0vLmQqb3VwNsZC0) | [Dennis Kamakahi](https://open.spotify.com/artist/2Ntbsut1zuMvsXBTDGj18Y) | [Hawaiian Slack Key Guitar Masters, Vol\. 2](https://open.spotify.com/album/5qXmNWu8kCLrce2EkbkPrr) | 4:28 | 2022-10-14 | 2022-11-14 |
 | [Wahine 'Ilikea](https://open.spotify.com/track/5W8F4fS064ny8IxyXvgUtp) | [Dennis Kamakahi](https://open.spotify.com/artist/2Ntbsut1zuMvsXBTDGj18Y) | [Pua'ena "Glow Brightly"](https://open.spotify.com/album/2RVLxKj9LQNp8PqCAXlSi6) | 4:29 | 2022-05-02 | 2024-01-14 |
 | [Wahine 'Ilikea](https://open.spotify.com/track/7ctTIxYYyYYQ58pzkRrYiR) | [Dennis Kamakahi](https://open.spotify.com/artist/2Ntbsut1zuMvsXBTDGj18Y) | [Pua'ena "Glow Brightly"](https://open.spotify.com/album/14qTaMf1Vf32iELPpl8RZp) | 4:29 | 2023-12-15 | 2024-04-19 |
@@ -99,6 +100,7 @@
 | [Whee Ha Swing](https://open.spotify.com/track/6tZkisNMGuSuaH6WTylYPi) | [Ledward Kaapana](https://open.spotify.com/artist/4rbuIw9Fa3U8yCZuK2Ig1K) | [Hawaiian Slack Key Guitar Masters: Instrumental Collection, Vol\. 1](https://open.spotify.com/album/2EOjWFzzACQ0Q21rlTNu56) | 2:31 | 2022-05-02 | 2024-01-14 |
 | [Whee Ha Swing](https://open.spotify.com/track/1ECsI8Z2IhCKpLZbsEe5iw) | [Ledward Kaapana](https://open.spotify.com/artist/4rbuIw9Fa3U8yCZuK2Ig1K) | [Hawaiian Slack Key Guitar Masters, Vol\. 1](https://open.spotify.com/album/53hJB0xPGms7KJxRZsWE0I) | 2:37 | 2022-05-02 |  |
 | [When I Think About You](https://open.spotify.com/track/60Mv9DQI1mxjaSpfwTJHQZ) | [Ho'onu'a](https://open.spotify.com/artist/7fNv44w4jZllwDLtLMxvup) | [Feel Good Island Music](https://open.spotify.com/album/4bRTEB4bs4fn408VdimJEN) | 3:01 | 2023-08-23 |  |
+| [Who's That Girl?](https://open.spotify.com/track/1LxsogwbSBZBcQAiN94oUA) | [Josh Tatofi](https://open.spotify.com/artist/5hlcYSbfgsN5kwxz0v70OJ) | [Who's That Girl?](https://open.spotify.com/album/1llK6Wl2Vt5pdPOpmQIcgI) | 3:58 | 2024-05-31 |  |
 | [Why Kiki?](https://open.spotify.com/track/4PXmBGMfDzosaAVrS1Mjio) | [Iam Tongi](https://open.spotify.com/artist/4HRMz0O4zNGfvgpDWYNiS3) | [Why Kiki?](https://open.spotify.com/album/2XQAcE5Yb5FgOwuUroex59) | 2:39 | 2024-04-22 |  |
 | [You Ku'uipo](https://open.spotify.com/track/3VnRQ8M9wksw8cTXTXoxOw) | [Willie K](https://open.spotify.com/artist/2RzwqtC6CQeZUDXWz6wzlV) | [The Uncle In Me Volume 1](https://open.spotify.com/album/4U9VLjuXnFynCYvlH5xqYM) | 4:44 | 2022-05-02 |  |
 | [Ūlili E \(feat\. David Kamakahi\)](https://open.spotify.com/track/2QzWe2SeKCft3DWKO7DuBS) | [Dennis Kamakahi](https://open.spotify.com/artist/2Ntbsut1zuMvsXBTDGj18Y), [David Kamakahi](https://open.spotify.com/artist/5802fcyYOOyqi780xWf2VK) | ['Ohana](https://open.spotify.com/album/3gqr13mGk87I6YVstdFl82) | 4:17 | 2023-12-15 | 2024-04-19 |

@@ -4,7 +4,7 @@
 
 > Listen to Arab women, at full volume\. Cover: Aseel Hameem
 
-668 songs - 1 day 14 hr 25 min
+669 songs - 1 day 14 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,7 @@
 | [Aref Leh](https://open.spotify.com/track/1X6eDYF6lQiUdoDUxk1h9U) | [May Abd El Aziz](https://open.spotify.com/artist/390rlknQEfIDTkwe87Fl7j) | [Aref Leh](https://open.spotify.com/album/2pmzX3NRSAlXLymwLpn95x) | 3:30 | 2021-12-23 | 2022-02-27 |
 | [Argaalo Tany](https://open.spotify.com/track/3JjzaCzQMnhTyxr3PXwZP8) | [Bassma Atta](https://open.spotify.com/artist/0kYSjEPqFB08F7EP4Q1qgC) | [Argaalo Tany](https://open.spotify.com/album/5TtWODmnLMexwu9Fj8viaV) | 5:17 | 2021-12-30 | 2022-02-25 |
 | [Ashagtak](https://open.spotify.com/track/6zQ0pSIDb21ZYBu3VAroEO) | [Razan Ramzi](https://open.spotify.com/artist/3QeEcwuZhmhcghCmY06d1q) | [Ashagtak](https://open.spotify.com/album/7ckLl4DVDPzcPVhrnrAnoe) | 2:17 | 2021-12-23 | 2022-02-28 |
-| [Ashtakou Li Wajhika](https://open.spotify.com/track/7EjcCQH0yjIiGlB1uZ63gV) | [Rima Yussef](https://open.spotify.com/artist/44AnhJxSH9AE3b6KpO5rZl) | [Ashtakou Li Wajhika](https://open.spotify.com/album/5Y6479pfO4KsRMpb0HhKwa) | 3:36 | 2024-01-11 |  |
+| [Ashtakou Li Wajhika](https://open.spotify.com/track/7EjcCQH0yjIiGlB1uZ63gV) | [Rima Yussef](https://open.spotify.com/artist/44AnhJxSH9AE3b6KpO5rZl) | [Ashtakou Li Wajhika](https://open.spotify.com/album/5Y6479pfO4KsRMpb0HhKwa) | 3:36 | 2024-01-11 | 2024-06-01 |
 | [Ask the Birds in Cairo](https://open.spotify.com/track/0smhfpWtRIvkZfmSHtlqFP) | [Felukah](https://open.spotify.com/artist/0nmukaO2zzwRPEevPJph1F), [MC Bolbol](https://open.spotify.com/artist/2pvO2XJbzr9F3kzPwPsZW3) | [Citadel](https://open.spotify.com/album/5R5Y42WWQaGI2ZLl9AUkeo) | 3:47 | 2021-12-30 | 2022-02-26 |
 | [Asli Barri](https://open.spotify.com/track/03KTLf6CPbn53mvq96zybI) | [Maysa Daw](https://open.spotify.com/artist/3oCd1GdkMu8peoq2r9ceI6), [Lina Makoul](https://open.spotify.com/artist/5jWJzXicyDE4CwlOR3omk7), [Nancy Hawa](https://open.spotify.com/artist/6dFTgftg5qijJnLBRPqWUd), [Noel Kharman](https://open.spotify.com/artist/76G2QPGz4HBmhn0D3vr9UL), [Yusor Hamed](https://open.spotify.com/artist/6ed5NBGyvev1Q2JzDIS47x) | [Asli Barri](https://open.spotify.com/album/5fnQD9hhQa40g4Bk1xFdsX) | 3:32 | 2021-12-23 | 2022-03-02 |
 | [Atoul](https://open.spotify.com/track/2nxNsJ9Lve8edydwY8oL5b) | [zeyne](https://open.spotify.com/artist/4yuZxu7joQOFtplpMAsxlf) | [Atoul](https://open.spotify.com/album/7uR9bmwan77bo430VOvIzX) | 2:42 | 2022-03-03 | 2023-05-13 |
@@ -544,6 +544,7 @@
 | [أنا مش صوتك](https://open.spotify.com/track/2so4YlyW2pJ2hpkB8mDca3) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [أنا مش صوتك](https://open.spotify.com/album/1iU9abXK45PvgLdKkU2axL) | 3:07 | 2024-03-08 | 2024-04-19 |
 | [أناكوندا](https://open.spotify.com/track/1XWBr66ODYX70TMRFvqVqc) | [Perrie](https://open.spotify.com/artist/63S7oUGviUcivzyqrmiy78) | [أناكوندا](https://open.spotify.com/album/4CRITjhIkefit5B9J1HCEq) | 3:16 | 2021-12-23 | 2022-02-26 |
 | [أنساك](https://open.spotify.com/track/7Kt2dIB6IvPUs2qSdPRw8X) | [Layla Rina](https://open.spotify.com/artist/1T6zSTnrsGeN5HwgwcGTnt) | [أنساك](https://open.spotify.com/album/1FjKSu7MPy5dDQrA7FpFbn) | 3:52 | 2021-12-30 | 2022-03-01 |
+| [أيام](https://open.spotify.com/track/5274F6rwUOrHb7OUs5l3K3) | [Huda Al Fahad](https://open.spotify.com/artist/1n9uot3AWMGrSa8i9OGj4a) | [أيام](https://open.spotify.com/album/0P4aDQhzHXIfiofCbdTd1t) | 3:37 | 2024-05-29 |  |
 | [إجمدي](https://open.spotify.com/track/56bavY4NOpLZ8usVJp1PmZ) | [Shaza](https://open.spotify.com/artist/1EfSs3W0Qb8i6Rbw60nv5b) | [إجمدي](https://open.spotify.com/album/75JEt9SVbFyVYv3oaYuUVV) | 2:41 | 2023-10-02 | 2023-11-18 |
 | [إكشف](https://open.spotify.com/track/5VUx0VtxOY7NeM8j0WgBGN) | [Ayten Amer](https://open.spotify.com/artist/3bUeg0maVIE0EnHJcsfyZE) | [إكشف](https://open.spotify.com/album/2XArlbaa3p0modU9dsoHYJ) | 3:32 | 2023-09-14 | 2023-12-09 |
 | [اتكشفت الحكاية](https://open.spotify.com/track/11BPPYdEkXxPHnWrucDY7g) | [Mai Mostafa](https://open.spotify.com/artist/30anNvRIZmx6agpOWolWRI) | [اتكشفت الحكاية](https://open.spotify.com/album/6YSLdGbtjZFEDGXB6HQcRZ) | 3:16 | 2023-09-14 | 2023-12-09 |

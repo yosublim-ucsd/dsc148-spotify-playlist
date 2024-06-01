@@ -192,7 +192,7 @@
       ],
       "date_added": "2024-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 247619,
       "name": "Badd",
       "url": "https://open.spotify.com/track/1Pfbotjg9CDpq5GlJykKVW"
@@ -1280,7 +1280,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-17",
+      "date_removed": null,
       "duration_ms": 230476,
       "name": "Problem",
       "url": "https://open.spotify.com/track/4E9enYOmhzIld9ezlik57W"
@@ -1320,7 +1320,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 238110,
       "name": "Rotate",
       "url": "https://open.spotify.com/track/1xpBxE9fYN4J9GEpuJsvwH"
@@ -1502,6 +1502,28 @@
       "duration_ms": 227441,
       "name": "The One",
       "url": "https://open.spotify.com/track/2csADrGfCpIF81Ce8cD6UO"
+    },
+    {
+      "album": {
+        "name": "Throw",
+        "url": "https://open.spotify.com/album/75Sjbw8A8AjROPxwwmXj2S"
+      },
+      "artists": [
+        {
+          "name": "CYMN",
+          "url": "https://open.spotify.com/artist/1WJ5N2Ld3BdB4y0bEvCuRO"
+        },
+        {
+          "name": "Qlank",
+          "url": "https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y"
+        }
+      ],
+      "date_added": "2024-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207400,
+      "name": "Throw",
+      "url": "https://open.spotify.com/track/4GvcCsMyw6xED02iZrYZTf"
     },
     {
       "album": {

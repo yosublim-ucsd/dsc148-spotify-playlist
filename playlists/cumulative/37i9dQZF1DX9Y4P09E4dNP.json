@@ -1081,6 +1081,24 @@
     },
     {
       "album": {
+        "name": "Behind The Scene",
+        "url": "https://open.spotify.com/album/07PfhFkWFIYJagOsULigKd"
+      },
+      "artists": [
+        {
+          "name": "Jay Bahd",
+          "url": "https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158122,
+      "name": "Demon",
+      "url": "https://open.spotify.com/track/0EY1axEzO8zhLkgAIpes5b"
+    },
+    {
+      "album": {
         "name": "Ghana Old School HipLife Essentials",
         "url": "https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG"
       },
@@ -2119,6 +2137,24 @@
     },
     {
       "album": {
+        "name": "MY STORY",
+        "url": "https://open.spotify.com/album/5j0aGzyIav244lIvycbjVI"
+      },
+      "artists": [
+        {
+          "name": "Medikal",
+          "url": "https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147939,
+      "name": "MY STORY",
+      "url": "https://open.spotify.com/track/4B4RmY7fkH6HnUM4bXBo1r"
+    },
+    {
+      "album": {
         "name": "Ghana Old School HipLife Essentials",
         "url": "https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG"
       },
@@ -2402,7 +2438,7 @@
       ],
       "date_added": "2024-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 236000,
       "name": "Odo Bi Ye Bad",
       "url": "https://open.spotify.com/track/0vKCeI0yetwp5BfBNihg3o"
@@ -3092,7 +3128,7 @@
       ],
       "date_added": "2024-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 188411,
       "name": "SOMETHING",
       "url": "https://open.spotify.com/track/1s2FsIDYlX6nhQ6UXF4V2w"

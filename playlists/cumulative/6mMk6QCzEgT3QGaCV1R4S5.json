@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-14",
-  "description": "Get moving on the dancefloor with some big room beats! Cover: Young Bombs",
+  "description": "Get moving on the dancefloor with some big room beats! Cover: Frank Walker &amp; Tyler Shaw",
   "name": "Dancefloor Beats",
   "tracks": [
     {
@@ -218,7 +218,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 151702,
       "name": "Better Off (Alone, Pt. III)",
       "url": "https://open.spotify.com/track/1P7hMSbpJOQy58eC78qx7s"
@@ -926,7 +926,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 174773,
       "name": "I Love Rock 'N' Roll - Frank Walker Remix",
       "url": "https://open.spotify.com/track/3ng7yqLmNBFIP58g8QSkQl"
@@ -1110,6 +1110,28 @@
       "duration_ms": 227796,
       "name": "Kiss Me Hard",
       "url": "https://open.spotify.com/track/52sAVkP0ZuRzXbihUIsNCH"
+    },
+    {
+      "album": {
+        "name": "Larger Than Life",
+        "url": "https://open.spotify.com/album/4lWuS2YNiLaGFQb4dBUqSG"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Chef'Special",
+          "url": "https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175546,
+      "name": "Larger Than Life",
+      "url": "https://open.spotify.com/track/15cHiBhHy9pDBUZV1qGKR5"
     },
     {
       "album": {
@@ -2332,6 +2354,28 @@
       "duration_ms": 192631,
       "name": "Willing To Let You Go (feat. Anella Herim & Abby Anderson)",
       "url": "https://open.spotify.com/track/1ZZaOAx86pHrZR7Kb0RbKM"
+    },
+    {
+      "album": {
+        "name": "Without You (with HAYLA)",
+        "url": "https://open.spotify.com/album/41OLKYtwOINYu55eAMBdhk"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "HAYLA",
+          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263879,
+      "name": "Without You (with HAYLA)",
+      "url": "https://open.spotify.com/track/5KW4qNLjWeh7rMbxCfg89N"
     },
     {
       "album": {

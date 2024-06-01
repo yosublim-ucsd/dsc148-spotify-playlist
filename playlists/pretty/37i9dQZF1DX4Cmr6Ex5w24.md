@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Cmr6Ex5w24.md) - [plain]
 
 > Revisit the retro Rahman
 
-[Spotify](https://open.spotify.com/user/spotify) - 300,758 likes - 75 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 300,953 likes - 75 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Cmr6Ex5w24.md) - [plain]
 | 66 | [En Veettu Thottathil](https://open.spotify.com/track/3mRb10pErMGcLNepfuCV2j) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8), [Sujatha](https://open.spotify.com/artist/2JEjaa7hWhE1BbL3OcoeFR) | [Gentleman](https://open.spotify.com/album/6e97t01pmASFo2XJFkJtOC) | 4:03 |
 | 67 | [Thoda Thoda](https://open.spotify.com/track/5SRqt66Dhv4yvKbvGbHQsF) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8), [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH) | [Indira](https://open.spotify.com/album/4FvIXi65kuBXwRh94eXBBh) | 5:08 |
 | 68 | [Nila Kaaigiradhu](https://open.spotify.com/track/4xZqoLPxeIUItAiF16H6Ve) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu) | [Indira](https://open.spotify.com/album/4FvIXi65kuBXwRh94eXBBh) | 4:15 |
-| 69 | [Odakaara](https://open.spotify.com/track/5cVGeRF155LSm6QDML2RlY) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8), [Sirkazhi G\. Sivachidambaram](https://open.spotify.com/artist/2qiqvIseQQw7vvb8STzQEA) | [Indira](https://open.spotify.com/album/4FvIXi65kuBXwRh94eXBBh) | 4:21 |
-| 70 | [Enna Vilai](https://open.spotify.com/track/1Fg7iPvC0uugUZAjKfN3Wz) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Unni Menon](https://open.spotify.com/artist/1EYD74wB45dOQXt27hh144) | [Kadhalar Dhinam](https://open.spotify.com/album/6lomyyBX6OCYGNKutQBbhZ) | 5:55 |
+| 69 | [Enna Vilai](https://open.spotify.com/track/1Fg7iPvC0uugUZAjKfN3Wz) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Unni Menon](https://open.spotify.com/artist/1EYD74wB45dOQXt27hh144) | [Kadhalar Dhinam](https://open.spotify.com/album/6lomyyBX6OCYGNKutQBbhZ) | 5:55 |
+| 70 | [Odakaara](https://open.spotify.com/track/5cVGeRF155LSm6QDML2RlY) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8), [Sirkazhi G\. Sivachidambaram](https://open.spotify.com/artist/2qiqvIseQQw7vvb8STzQEA) | [Indira](https://open.spotify.com/album/4FvIXi65kuBXwRh94eXBBh) | 4:21 |
 | 71 | [Vennilave Vennilave Vinnai](https://open.spotify.com/track/1Q3oZnMXBy55s8uFJmR1bE) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu), [Sadhana Sargam](https://open.spotify.com/artist/1HGMG8RHvcu1mfdM9MeTek) | [Minsara Kanavu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0lu9EJwZFYWUogxPtptP3N) | 5:51 |
 | 72 | [Roja Roja](https://open.spotify.com/track/6QleOhmbHLwcyB0vOm1uwb) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Unnikrishnan](https://open.spotify.com/artist/0mV4UQ0gHg59AAUtg968pX) | [Kadhalar Dhinam](https://open.spotify.com/album/6lomyyBX6OCYGNKutQBbhZ) | 5:47 |
 | 73 | [Thanga Thamari Magale](https://open.spotify.com/track/3UBL5FEA4JgMHj2z94fLSW) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8) | [Minsara Kanavu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0lu9EJwZFYWUogxPtptP3N) | 5:02 |

@@ -389,6 +389,32 @@
     },
     {
       "album": {
+        "name": "Al Pie del Ca\u00f1\u00f3n",
+        "url": "https://open.spotify.com/album/2Rw9G4hnlqk6mOGkYjKhkC"
+      },
+      "artists": [
+        {
+          "name": "Zenobia",
+          "url": "https://open.spotify.com/artist/4O7u6U3eHpMq6YeOWsmutH"
+        },
+        {
+          "name": "Quini G\u00f3mez",
+          "url": "https://open.spotify.com/artist/3BC8xQU9aFIaQIjJTHozyX"
+        },
+        {
+          "name": "Benito Kamelas",
+          "url": "https://open.spotify.com/artist/6pds73TcYgdgd1UOBWHRqn"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258101,
+      "name": "Al Pie del Ca\u00f1\u00f3n",
+      "url": "https://open.spotify.com/track/4EOherFHDWn6veJCpomzrV"
+    },
+    {
+      "album": {
         "name": "Alaska",
         "url": "https://open.spotify.com/album/4okxJTqEzEQdyS682cvCKr"
       },
@@ -676,7 +702,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 230779,
       "name": "Aviones Plateados - En Directo",
       "url": "https://open.spotify.com/track/2fqKBa80qJ7yhucBwLXZF5"
@@ -954,7 +980,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 226539,
       "name": "Cada vez duele menos",
       "url": "https://open.spotify.com/track/5lSYmIvz1g7hUtEqLdnQrK"
@@ -2890,7 +2916,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 238426,
       "name": "En alg\u00fan lugar (feat. Santi Balmes & V\u00edctor Cabezuelo)",
       "url": "https://open.spotify.com/track/2nL8UGrQoCfbZTtWfmmoqe"
@@ -3687,6 +3713,24 @@
     },
     {
       "album": {
+        "name": "El Cantante",
+        "url": "https://open.spotify.com/album/6ABpN7mRcyrXXC587LaBJW"
+      },
+      "artists": [
+        {
+          "name": "Pole.",
+          "url": "https://open.spotify.com/artist/7D62OQfwvslnxJn9DkZm2F"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169857,
+      "name": "Jugadora",
+      "url": "https://open.spotify.com/track/3dkkjfO6Ljul67LJg1H327"
+    },
+    {
+      "album": {
         "name": "Hay mucho Rock & Roll- Resumen",
         "url": "https://open.spotify.com/album/0JbOeNFwRRzFZva6WYwQnC"
       },
@@ -4280,6 +4324,28 @@
       "duration_ms": 244890,
       "name": "Letras Absurdas",
       "url": "https://open.spotify.com/track/5wOxmAdbz3ihLAiHxxX7ts"
+    },
+    {
+      "album": {
+        "name": "Llor\u00f3n",
+        "url": "https://open.spotify.com/album/1thKyYUvfZsEmONb3n8Wqz"
+      },
+      "artists": [
+        {
+          "name": "Andrea Buenavista",
+          "url": "https://open.spotify.com/artist/2V9QbUdBxfYCfkjvDePoRU"
+        },
+        {
+          "name": "Usted",
+          "url": "https://open.spotify.com/artist/4eCXIvZLqWk7ivGXuUgECa"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193130,
+      "name": "Llor\u00f3n",
+      "url": "https://open.spotify.com/track/4XJkCr8zfwNGNXMEjrACDJ"
     },
     {
       "album": {
@@ -5315,6 +5381,24 @@
     },
     {
       "album": {
+        "name": "No Me Gusta Conducir",
+        "url": "https://open.spotify.com/album/20WEXzdTZEibWECXYvWzU5"
+      },
+      "artists": [
+        {
+          "name": "Luis Carrillo",
+          "url": "https://open.spotify.com/artist/0ZSHJBv0OtASJEtM4VBESg"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180650,
+      "name": "No Me Gusta Conducir",
+      "url": "https://open.spotify.com/track/2nEdNloA4GhrVBvh2oEXaq"
+    },
+    {
+      "album": {
         "name": "No pasar\u00e1n",
         "url": "https://open.spotify.com/album/0ujCMP1AojVi5qdzcNYZlf"
       },
@@ -6206,7 +6290,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 299977,
       "name": "Rey del Glam",
       "url": "https://open.spotify.com/track/7tWHQ6cmZ1Li3g1OdlHWz1"
@@ -7054,7 +7138,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 313106,
       "name": "Tirar de recuerdos",
       "url": "https://open.spotify.com/track/64cO1QQmMWrmmjD6Yw9WV3"
@@ -7492,6 +7576,24 @@
       "duration_ms": 360240,
       "name": "Vallecas 1996",
       "url": "https://open.spotify.com/track/100JxlaUb7HyA8C43GtxcU"
+    },
+    {
+      "album": {
+        "name": "Vende tu coraz\u00f3n",
+        "url": "https://open.spotify.com/album/70fylocxMCHyE5OTQLHbz0"
+      },
+      "artists": [
+        {
+          "name": "Doctor Explosion",
+          "url": "https://open.spotify.com/artist/2VzZ1D51z8PEXsAgAwlQ3q"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136494,
+      "name": "Vende tu coraz\u00f3n",
+      "url": "https://open.spotify.com/track/6UsL31NTuPGvwS0lXeyyEI"
     },
     {
       "album": {

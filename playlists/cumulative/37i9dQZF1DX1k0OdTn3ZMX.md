@@ -2,9 +2,9 @@
 
 ### [new nü](https://open.spotify.com/playlist/37i9dQZF1DX1k0OdTn3ZMX)
 
-> nü\-metal revival is happening here and now with Nonpoint.
+> nü\-metal revival is happening here and now with Ocean Grove.
 
-154 songs - 8 hr 53 min
+156 songs - 9 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Billy Knows Jamie](https://open.spotify.com/track/6fXeuZAQ00BjrOxFtoFS9S) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [10,000 gecs](https://open.spotify.com/album/2XS5McKf3zdJWpcZ4OkZPZ) | 2:43 | 2023-11-17 | 2024-01-13 |
 | [Black Star](https://open.spotify.com/track/5Fbdx8HTneMfmLHoDwU8dz) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Project Regeneration, Vol\. 2](https://open.spotify.com/album/0vOqG6qLoZ7JPJ3vfRuajk) | 4:00 | 2024-01-26 |  |
 | [BLACK\_WAVE](https://open.spotify.com/track/5rYoxMOnrq09FDTgkS1dMU) | [Moodring](https://open.spotify.com/artist/75gi4UlMiDGTClCgtZVpH0) | [YOUR LIGHT FADES AWAY](https://open.spotify.com/album/5lVjXfwzpCEldp3eNDFWCj) | 3:06 | 2023-09-13 | 2024-02-17 |
-| [bleach](https://open.spotify.com/track/10p7btclpQF5LIyWSIgeCo) | [deer death](https://open.spotify.com/artist/17QFJD1kvdfFzwZPMd6uCg), [richmnkey](https://open.spotify.com/artist/1712GqWB0yvGPksAfyDy2h) | [bleach](https://open.spotify.com/album/2RY8Nkew8QDjivWpADWlDZ) | 2:30 | 2024-05-03 |  |
+| [bleach](https://open.spotify.com/track/10p7btclpQF5LIyWSIgeCo) | [deer death](https://open.spotify.com/artist/17QFJD1kvdfFzwZPMd6uCg), [richmnkey](https://open.spotify.com/artist/1712GqWB0yvGPksAfyDy2h) | [bleach](https://open.spotify.com/album/2RY8Nkew8QDjivWpADWlDZ) | 2:30 | 2024-05-03 | 2024-06-01 |
 | [Blood Moon](https://open.spotify.com/track/3rr9GJ6muRNyo2zWOEeiTk) | [Sunfall](https://open.spotify.com/artist/740XnUGK1y8DMyMZSgRjVN) | [Blood Moon](https://open.spotify.com/album/1RoFmafk2NEWi5723E4PTd) | 4:16 | 2024-05-24 |  |
 | [Boiler](https://open.spotify.com/track/1vcoASbSH4zdZnVc6A3Uo9) | [BOSKAT](https://open.spotify.com/artist/2umfUKK66d4e91qGyVZ5yi), [Rudeboy](https://open.spotify.com/artist/4zPWhRwcFsAKDMsdvPSKjv) | [Boiler](https://open.spotify.com/album/3QRPe7VXaCFc8slgk9GtRR) | 2:55 | 2024-01-12 |  |
 | [Break My Fall](https://open.spotify.com/track/1UpwPq2h2xCmOsCIwFYmz3) | [Dead by April](https://open.spotify.com/artist/2otRZcOVNcmdkZ5nEoogy6), [Samuel Ericsson](https://open.spotify.com/artist/6atTe9Lf4xvmWJ3ZdG4A4L) | [Break My Fall](https://open.spotify.com/album/1SwIFHVJtunGpDylAM2ieB) | 3:32 | 2023-11-24 | 2024-01-27 |
@@ -60,6 +60,7 @@
 | [FAVOURITE SONG](https://open.spotify.com/track/2LoB1NRjAo8EPqwEn6fjDm) | [Taproot](https://open.spotify.com/artist/319rafipfKvd4cqaOwWIvA), [Elias Soriano](https://open.spotify.com/artist/2KBA0T3p9wkQ7nAHCVHavd) | [FAVOURITE SONG](https://open.spotify.com/album/2rbpMLrrlCMxAuGetCxq7K) | 3:34 | 2023-09-13 | 2023-10-07 |
 | [Feed Them To The Wolves](https://open.spotify.com/track/67edfnqe1CBj0hk8Ya9wD4) | [Sicksense](https://open.spotify.com/artist/7bVyQW5pkc3aF5Rq03ZQxc), [Vicky Psarakis](https://open.spotify.com/artist/6wgfKETz8TigbBqevjeAwZ) | [Fools Tomorrow](https://open.spotify.com/album/1SzBtNNSVGA7qa010TFXTX) | 4:05 | 2024-02-02 |  |
 | [Feeling Fine](https://open.spotify.com/track/4dfaO9NHF8bqZKftENZssf) | [DREGG](https://open.spotify.com/artist/3jPUAhZngU2sEwsDm7Um6B) | [The DREGGmusic Mixtape](https://open.spotify.com/album/6Bdic8kP9fHguB8nEpeEpm) | 3:32 | 2023-09-13 | 2023-09-23 |
+| [FLY AWAY](https://open.spotify.com/track/38yKm4HLvDFhg5NK20bFV1) | [Ocean Grove](https://open.spotify.com/artist/0AlnGjlLLXglk9hnwErYDU) | [FLY AWAY](https://open.spotify.com/album/7v3QQTTbPLDoUZ9lUhVbLd) | 2:41 | 2024-05-31 |  |
 | [For the Beaten](https://open.spotify.com/track/33QuKSmC3xJISItWeGuPWc) | [Filter](https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C) | [The Algorithm](https://open.spotify.com/album/4K3EGyXF7wdfaR4fGPlOXg) | 3:38 | 2023-09-13 | 2023-11-18 |
 | [FR33K](https://open.spotify.com/track/1yto0d4mniW3a58qiOQZ2S) | [Gnarlah](https://open.spotify.com/artist/5PWdH4Kq3yHxP0CwaDFBB4) | [FR33K](https://open.spotify.com/album/6Vd7IA4uDGtYBgsOJlztjc) | 2:59 | 2024-03-29 | 2024-04-19 |
 | [Fractured](https://open.spotify.com/track/4c66tmKsdmvNENPo54oDny) | [Graphic Nature](https://open.spotify.com/artist/0QUcDHMfwBsMAufKXbzhkH) | [Fractured](https://open.spotify.com/album/70CjNkRxogynvPUn3pJgya) | 3:42 | 2023-11-24 | 2024-05-18 |
@@ -75,7 +76,7 @@
 | [I'm Not Right](https://open.spotify.com/track/3mtwzP9E05Ad8sJCvrnRvK) | [Tetrarch](https://open.spotify.com/artist/5e43m4iYsZF54tHcJNAVU2) | [Unstable](https://open.spotify.com/album/5CeWYs97NFdLiydGVFBtFz) | 3:46 | 2023-09-13 |  |
 | [It All Comes Down](https://open.spotify.com/track/6LtwJPYUY7NTrN6HxytepY) | [Kaosis](https://open.spotify.com/artist/1G5YCahIziZdTa1YQkVSu7), [DJ Lethal](https://open.spotify.com/artist/2ajHgsmpiyhXrx3JoigTO2), [SID](https://open.spotify.com/artist/0lXoanKv5FWNS0o73XTGgP) | [It All Comes Down](https://open.spotify.com/album/0TDbRYQYhtWJeXdNxNWoj8) | 4:54 | 2024-02-09 | 2024-03-02 |
 | [John](https://open.spotify.com/track/1ygGepA71OGb6xNaEEZY1C) | [Jeris Johnson](https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq) | [John](https://open.spotify.com/album/4wNEoTLKONCgk8Ahdieo6I) | 3:56 | 2024-03-08 |  |
-| [Kaneda](https://open.spotify.com/track/40CtKggBylHY7G3yUBYPyU) | [Smash Hit Combo](https://open.spotify.com/artist/7n9ZfBhbU4NJNSHNZWl76a) | [Kaneda](https://open.spotify.com/album/5td63N8Cvw2nCZ7HfV5OK3) | 3:08 | 2024-02-09 | 2024-04-06 |
+| [Kaneda](https://open.spotify.com/track/40CtKggBylHY7G3yUBYPyU) | [Smash Hit Combo](https://open.spotify.com/artist/7n9ZfBhbU4NJNSHNZWl76a) | [Kaneda](https://open.spotify.com/album/5td63N8Cvw2nCZ7HfV5OK3) | 3:08 | 2024-02-09 |  |
 | [Kill Me](https://open.spotify.com/track/2KtmPuGbIHDGMZN16x9LG9) | [Zero 9:36](https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0) | [Kill Me](https://open.spotify.com/album/0gyB2i9eqGckT6G3hGPeOf) | 1:48 | 2024-04-05 | 2024-04-19 |
 | [Kill The Noise](https://open.spotify.com/track/2DyDyOW1hRYFFaMhBCAHJ9) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Ego Trip](https://open.spotify.com/album/5OSVAtytFqdJwIJpD3gGEJ) | 3:08 | 2023-09-13 | 2024-02-03 |
 | [KILLING ALCHEMY](https://open.spotify.com/track/6iBg24cfz07gnXYvHygmBo) | [UnityTX](https://open.spotify.com/artist/3uPce3TKw7cjheMNhuhNs9) | [Ferality](https://open.spotify.com/album/5TRazGLWI1r9hL3XsQ1feB) | 3:44 | 2023-09-13 | 2023-09-23 |
@@ -92,9 +93,10 @@
 | [Modern Error](https://open.spotify.com/track/3VHTWAPeU9RNnCCCeJRipL) | [Defects](https://open.spotify.com/artist/1GcIqiLEyWGgVdglxShjZ3) | [Modern Error](https://open.spotify.com/album/1spLAp5HnKomU3UgbsgYz8) | 4:29 | 2024-03-29 |  |
 | [Nightmare](https://open.spotify.com/track/5c3fIHmLHmL4iaqUuqBPHo) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [Blackout](https://open.spotify.com/album/2JvaxDiBaKADQ3Fb9SvEZF) | 3:07 | 2023-09-13 | 2024-05-25 |
 | [No One Else To Blame](https://open.spotify.com/track/1LAUa3m7ncdsdzC6e0WtJ1) | [Taproot](https://open.spotify.com/artist/319rafipfKvd4cqaOwWIvA) | [SC\\SSRS](https://open.spotify.com/album/3KtkgdjSTdTzkHdYQ0cglt) | 4:40 | 2023-09-29 | 2023-11-11 |
-| [No Way Out](https://open.spotify.com/track/6YfWZraEqW5CDfGGlo69sa) | [\(Hed\) P.E.](https://open.spotify.com/artist/0xIChbcTsuYLueN1oEsX9v) | [DETOX](https://open.spotify.com/album/1DLMfaroYM5VJpEdimgzHu) | 4:01 | 2023-12-15 |  |
+| [No Way Out](https://open.spotify.com/track/6YfWZraEqW5CDfGGlo69sa) | [\(Hed\) P.E.](https://open.spotify.com/artist/0xIChbcTsuYLueN1oEsX9v) | [DETOX](https://open.spotify.com/album/1DLMfaroYM5VJpEdimgzHu) | 4:01 | 2023-12-15 | 2024-06-01 |
 | [Old School Sound](https://open.spotify.com/track/3ozOUkF7LFjtE8nx9CR5ih) | [BLACKGOLD](https://open.spotify.com/artist/3IWxZuMgQKWrNn1S20D1qa), [Hyro The Hero](https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm) | [Old School Sound](https://open.spotify.com/album/7F8m6iLwPnmMZWYhoCDvzm) | 3:31 | 2023-12-15 | 2024-03-30 |
 | [One Chance](https://open.spotify.com/track/49daGksZza7w4YQPn7aeRV) | [BLACKGOLD](https://open.spotify.com/artist/3IWxZuMgQKWrNn1S20D1qa) | [One Chance](https://open.spotify.com/album/2MheuKWB6STo8lJ2zyi1nC) | 3:46 | 2024-04-05 | 2024-05-11 |
+| [One Foot In The Grave](https://open.spotify.com/track/54fPJ9UDx68KkayeuskyAJ) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [One Foot In The Grave](https://open.spotify.com/album/1WMolNCGsDhGvhD0Nd0phw) | 3:42 | 2024-05-31 |  |
 | [One Foot In The Grave \(feat\. Aaron Pauley of Of Mice & Men\)](https://open.spotify.com/track/3HFD33d1GOur9PQswfVeaP) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX), [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA), [Aaron Pauley](https://open.spotify.com/artist/6xbMbFrQZYm4BtqPQEwhu5) | [One Foot In The Grave \(feat\. Aaron Pauley of Of Mice & Men\)](https://open.spotify.com/album/2UtZm0xthYxvZdvjuNJqh7) | 3:28 | 2024-04-19 |  |
 | [Operator](https://open.spotify.com/track/5p1bCl7HEcsst4eF48z0Bm) | [Profiler](https://open.spotify.com/artist/3rIfGORYIxh2aBVnThX8Lo) | [Operator](https://open.spotify.com/album/2Im99EnQocuboPDHectxjS) | 2:43 | 2024-02-02 | 2024-02-17 |
 | [Out Of Style](https://open.spotify.com/track/06nmwVr0Ev16QnVXsQXSf1) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [STILL SUCKS](https://open.spotify.com/album/2lZ9RqGnGXH8gtH3DK02tJ) | 3:22 | 2023-10-13 | 2024-04-19 |
@@ -104,7 +106,7 @@
 | [Pink Push\-Up Bra](https://open.spotify.com/track/6QbpIejpFu4dpnyHdGJ0fX) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4) | [Pink Push\-Up Bra](https://open.spotify.com/album/5vormAy9yNKoLQ6yHsEldX) | 2:12 | 2023-09-22 | 2023-09-30 |
 | [PLAYING FAVORITES](https://open.spotify.com/track/5tX2K6XrciEGZeMPEyNA0t) | [UnityTX](https://open.spotify.com/artist/3uPce3TKw7cjheMNhuhNs9) | [Playing Favorites](https://open.spotify.com/album/4CNimXIiD2DvMpHHUxPepY) | 3:39 | 2024-04-12 | 2024-04-19 |
 | [Psychopath \(feat\. Joe Bad\)](https://open.spotify.com/track/0xbDLHfn1F4FGNExKmNEpR) | [Body Count](https://open.spotify.com/artist/5KCph1z3jaSwhtwPzoYp6i), [Joe Bad](https://open.spotify.com/artist/1GI7k8gduzXUlQrnH3Aizp) | [Psychopath \(feat\. Joe Bad\)](https://open.spotify.com/album/5qrhkfZ4OYytIfpglXgihZ) | 3:19 | 2024-05-17 |  |
-| [Push](https://open.spotify.com/track/0rFc5oSEYXS1oUAMZOwMHg) | [Silent Vice](https://open.spotify.com/artist/5MCUjqJTNFcvvAZsuVmUFT) | [Push](https://open.spotify.com/album/1NRQveipkyJm0myrLWHsLG) | 3:56 | 2024-04-05 |  |
+| [Push](https://open.spotify.com/track/0rFc5oSEYXS1oUAMZOwMHg) | [Silent Vice](https://open.spotify.com/artist/5MCUjqJTNFcvvAZsuVmUFT) | [Push](https://open.spotify.com/album/1NRQveipkyJm0myrLWHsLG) | 3:56 | 2024-04-05 | 2024-06-01 |
 | [Qué Linda](https://open.spotify.com/track/6aIihWCXDxues6MiGrM3rX) | [Vondré](https://open.spotify.com/artist/11uh9MySOy1TkjknybWRom) | [Qué Linda](https://open.spotify.com/album/5ld8B0HseNBSGQiJyDAON5) | 2:45 | 2024-04-19 | 2024-05-18 |
 | [QWERTY](https://open.spotify.com/track/4XyH7K2OWCkpABzPU18B2B) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Papercuts](https://open.spotify.com/album/1xyqxAgu1JMOQe9AdRTNSl) | 3:21 | 2024-04-12 |  |
 | [Radio](https://open.spotify.com/track/6NYptQ5KJyMEz8Mm5IpI6W) | [Julien\-K](https://open.spotify.com/artist/6a82pdlhS6SsAq7HDUSZKN) | [Radio](https://open.spotify.com/album/02MYjSgDrcWxZknZAujBUq) | 4:44 | 2023-09-13 | 2023-10-28 |

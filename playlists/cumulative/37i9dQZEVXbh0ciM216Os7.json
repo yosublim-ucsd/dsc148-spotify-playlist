@@ -3288,7 +3288,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 285122,
       "name": "Boomer Rang",
       "url": "https://open.spotify.com/track/0E9M1YDzuSKcjEqcJza3YU"
@@ -3836,7 +3836,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 368240,
       "name": "Burn for You - Extended Remix",
       "url": "https://open.spotify.com/track/6ZbVB0IaTWxNndZu2VIgGJ"
@@ -4310,6 +4310,24 @@
       "duration_ms": 493400,
       "name": "Catfish Blues - Live at The Hollywood Bowl, Hollywood, CA - August 18, 1967",
       "url": "https://open.spotify.com/track/267hVJUi029ovd5X6rqTo1"
+    },
+    {
+      "album": {
+        "name": "Mid Spiral: Growth",
+        "url": "https://open.spotify.com/album/5CqumIo51QeCiboYgpxpN8"
+      },
+      "artists": [
+        {
+          "name": "BADBADNOTGOOD",
+          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333881,
+      "name": "Celestial Hands",
+      "url": "https://open.spotify.com/track/4HOVerAo4A7ipCQJix9fIp"
     },
     {
       "album": {
@@ -7151,6 +7169,32 @@
     },
     {
       "album": {
+        "name": "Drippy Drop",
+        "url": "https://open.spotify.com/album/5wmw6bMDGzXvhNXyGPCSHC"
+      },
+      "artists": [
+        {
+          "name": "Tech N9ne Collabos",
+          "url": "https://open.spotify.com/artist/4UOlRVifrFdQHW9qu5ep8t"
+        },
+        {
+          "name": "Tech N9ne",
+          "url": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
+        },
+        {
+          "name": "Skatterman & Snug Brim",
+          "url": "https://open.spotify.com/artist/18UXMAe8MYg68DcC7qynaT"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237483,
+      "name": "Drippy Drop",
+      "url": "https://open.spotify.com/track/4oEI2mD2s80Enl3BLqLOZj"
+    },
+    {
+      "album": {
         "name": "Drug Trade (feat. Black Thought)",
         "url": "https://open.spotify.com/album/6SkiUm0RUqcxSNltLkk8AY"
       },
@@ -7692,7 +7736,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 166301,
       "name": "Erectah Deck",
       "url": "https://open.spotify.com/track/6wrCRloYUpj7ooJy1lddk2"
@@ -8556,6 +8600,32 @@
       "duration_ms": 189500,
       "name": "FIESTA",
       "url": "https://open.spotify.com/track/48juEfmXe0vq0FT5GRecCi"
+    },
+    {
+      "album": {
+        "name": "Fight For Love",
+        "url": "https://open.spotify.com/album/09rUxAJMutrAki1KQra5m1"
+      },
+      "artists": [
+        {
+          "name": "Grafh",
+          "url": "https://open.spotify.com/artist/4rKPpij2gIDKsZsfjCfk1U"
+        },
+        {
+          "name": "38 Spesh",
+          "url": "https://open.spotify.com/artist/32cT1WQRSDg4xsReG7eqyT"
+        },
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176551,
+      "name": "Fight For Love",
+      "url": "https://open.spotify.com/track/6Dq8TlPc2kJwZoh2q2zZeo"
     },
     {
       "album": {
@@ -9540,7 +9610,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 241511,
       "name": "FromHere (feat. Snoop Dogg & October London)",
       "url": "https://open.spotify.com/track/1kJK2dkXbMw8yOMFEuJUm7"
@@ -9946,7 +10016,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 241773,
       "name": "Get a Grip - 2024 Tony Iommi Remix",
       "url": "https://open.spotify.com/track/3nyCzsxkBLSJ7gltRb36Sb"
@@ -10638,6 +10708,24 @@
       "duration_ms": 194272,
       "name": "Gugle",
       "url": "https://open.spotify.com/track/2Nf1D46vyEZYNbuCx0Y4iD"
+    },
+    {
+      "album": {
+        "name": "And Yet Still",
+        "url": "https://open.spotify.com/album/2Btpzgvr0nAfQpoPnsr17C"
+      },
+      "artists": [
+        {
+          "name": "Oddisee",
+          "url": "https://open.spotify.com/artist/72tRiBHei5G9M8it4h4sfC"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182056,
+      "name": "Had To Improve",
+      "url": "https://open.spotify.com/track/4nfaVOhJqGl2E9CgDVeJU2"
     },
     {
       "album": {
@@ -11764,6 +11852,24 @@
       "duration_ms": 60719,
       "name": "hotline (edit)",
       "url": "https://open.spotify.com/track/0WFryfbNKPXVtVQlz5dZ8H"
+    },
+    {
+      "album": {
+        "name": "Houdini",
+        "url": "https://open.spotify.com/album/6Xuu2z00jxRPZei4IJ9neK"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227239,
+      "name": "Houdini",
+      "url": "https://open.spotify.com/track/2HYFX63wP3otVIvopRS99Z"
     },
     {
       "album": {
@@ -14554,7 +14660,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 188761,
       "name": "Last Laugh",
       "url": "https://open.spotify.com/track/307ZBrMJEoKG6khQpX0g4N"
@@ -16937,6 +17043,24 @@
     },
     {
       "album": {
+        "name": "Mississippi Half-Step Uptown Toodeloo (Live at University of Nevada, Reno, NV, 5/12/74)",
+        "url": "https://open.spotify.com/album/6rtaawoZtYmEPI4IUrjGkT"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 478471,
+      "name": "Mississippi Half-Step Uptown Toodeloo - Live at University of Nevada, Reno, NV, 5/12/74",
+      "url": "https://open.spotify.com/track/7vVfk9d94hKWjIKuyTxEHO"
+    },
+    {
+      "album": {
         "name": "Modern Day Miracle",
         "url": "https://open.spotify.com/album/3Hgr5iTzcifd9TibgdsSsm"
       },
@@ -17837,6 +17961,24 @@
     },
     {
       "album": {
+        "name": "Naked And Alive",
+        "url": "https://open.spotify.com/album/6mPCKnNWmqzIhuLAwuCfQe"
+      },
+      "artists": [
+        {
+          "name": "Milky Chance",
+          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207669,
+      "name": "Naked And Alive",
+      "url": "https://open.spotify.com/track/5ivyL3WEFCo0IfivYC0FOF"
+    },
+    {
+      "album": {
         "name": "Napalm (Freestyle) [Mixtape Version]",
         "url": "https://open.spotify.com/album/4rLeJ2U52jeMBQstlO1jVW"
       },
@@ -18196,10 +18338,32 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 275750,
       "name": "No Face",
       "url": "https://open.spotify.com/track/1Xevt8UUzfEm17ewfSdsiF"
+    },
+    {
+      "album": {
+        "name": "No Face",
+        "url": "https://open.spotify.com/album/3L82FRbY7B5tk0CZDED1pi"
+      },
+      "artists": [
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275750,
+      "name": "No Face",
+      "url": "https://open.spotify.com/track/4C397XtpxJdRNCEmVav0gX"
     },
     {
       "album": {
@@ -18486,6 +18650,24 @@
       "duration_ms": 211894,
       "name": "Notorious",
       "url": "https://open.spotify.com/track/2j5J8ywEvdkXIPL8bjzaOz"
+    },
+    {
+      "album": {
+        "name": "Nourish a Thug",
+        "url": "https://open.spotify.com/album/0pWoAGpfVZgxORd9lsCmeI"
+      },
+      "artists": [
+        {
+          "name": "Action Bronson",
+          "url": "https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165225,
+      "name": "Nourish a Thug",
+      "url": "https://open.spotify.com/track/3a3IVG5G7EH6w2mAyxNIOV"
     },
     {
       "album": {
@@ -19678,7 +19860,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 156136,
       "name": "Pair Of Hammers",
       "url": "https://open.spotify.com/track/45gkHRnetn0FJWLB6rFtv1"
@@ -19854,6 +20036,28 @@
     {
       "album": {
         "name": "North Vol. 2",
+        "url": "https://open.spotify.com/album/2Z61tp4ZUgz1yWrstgqmJM"
+      },
+      "artists": [
+        {
+          "name": "Sango",
+          "url": "https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg"
+        },
+        {
+          "name": "GoldLink",
+          "url": "https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159159,
+      "name": "Peace",
+      "url": "https://open.spotify.com/track/4kdPe5uJLR6UHalCpdX7Ug"
+    },
+    {
+      "album": {
+        "name": "North Vol. 2",
         "url": "https://open.spotify.com/album/29ViDgMA62axNx2WOABMjG"
       },
       "artists": [
@@ -19868,7 +20072,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 159166,
       "name": "Peace",
       "url": "https://open.spotify.com/track/60gKxdKtL9VIRhr3ENddBp"
@@ -20246,6 +20450,32 @@
       "duration_ms": 138270,
       "name": "Pierre-feuille",
       "url": "https://open.spotify.com/track/44vnhlt0FqQUE1zW2n22A6"
+    },
+    {
+      "album": {
+        "name": "places to be",
+        "url": "https://open.spotify.com/album/0M0iJGLagLtI4LlooOiiNZ"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "CHIKA",
+          "url": "https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226677,
+      "name": "places to be",
+      "url": "https://open.spotify.com/track/561pBFcFL2Pwb9HPO9tU8J"
     },
     {
       "album": {
@@ -21230,7 +21460,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 216428,
       "name": "RATATATA",
       "url": "https://open.spotify.com/track/14WYmNQWvR2TTWoRp8t9Ml"
@@ -23004,7 +23234,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 375853,
       "name": "Ship of Fools - Live at University of Nevada, Reno, NV, 5/12/74",
       "url": "https://open.spotify.com/track/64BahXhOSEBLlwQymfa4S9"
@@ -27607,6 +27837,24 @@
     },
     {
       "album": {
+        "name": "Traust (Live)",
+        "url": "https://open.spotify.com/album/0HrNpK2Cxxl17TOXkwj1t2"
+      },
+      "artists": [
+        {
+          "name": "Heilung",
+          "url": "https://open.spotify.com/artist/7sTKZr30LqC928DZ5P9mNQ"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 580722,
+      "name": "Traust - Live",
+      "url": "https://open.spotify.com/track/1KRWjl4EgcxSQf18rlPtJG"
+    },
+    {
+      "album": {
         "name": "Tree House",
         "url": "https://open.spotify.com/album/191OQbivDSqVZV55R6adU5"
       },
@@ -29357,6 +29605,28 @@
     },
     {
       "album": {
+        "name": "What You Need (Cold Cut Mix)",
+        "url": "https://open.spotify.com/album/7Dh1yUVdjE97evqSoSqGlF"
+      },
+      "artists": [
+        {
+          "name": "INXS",
+          "url": "https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv"
+        },
+        {
+          "name": "Coldcut",
+          "url": "https://open.spotify.com/artist/5wnhqlZzXIq8aO9awQO2ND"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 392746,
+      "name": "What You Need - Cold Cut Mix",
+      "url": "https://open.spotify.com/track/0iOxcC26oaeYkWk0FqGEim"
+    },
+    {
+      "album": {
         "name": "What're We Doing Here",
         "url": "https://open.spotify.com/album/0di1rlD8Afel1VLF06lRxK"
       },
@@ -30290,6 +30560,40 @@
       "duration_ms": 188160,
       "name": "Wu Holocron",
       "url": "https://open.spotify.com/track/1uGTc59Higw0XZ9vUHedGN"
+    },
+    {
+      "album": {
+        "name": "WU-HA",
+        "url": "https://open.spotify.com/album/4BzHVDOjaw0BVPjpxHErYK"
+      },
+      "artists": [
+        {
+          "name": "Optimystic",
+          "url": "https://open.spotify.com/artist/0TWuCOdiUkECiQ0G6zz44M"
+        },
+        {
+          "name": "Lord Vladagus",
+          "url": "https://open.spotify.com/artist/1o7CTDdfnKYRbs6MRt9MvT"
+        },
+        {
+          "name": "Inspectah Deck",
+          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
+        },
+        {
+          "name": "SickFlo",
+          "url": "https://open.spotify.com/artist/7yJZJPQyv1jin7c81fVa4z"
+        },
+        {
+          "name": "Strictly D.T",
+          "url": "https://open.spotify.com/artist/0N7FuEALzJCIF7tGQkrttf"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272727,
+      "name": "WU-HA",
+      "url": "https://open.spotify.com/track/46LHAZEgO7cimtGsFtRBJH"
     },
     {
       "album": {

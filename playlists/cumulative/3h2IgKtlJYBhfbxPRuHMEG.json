@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-14",
-  "description": "The best EDM, Trap, Electronic, Drum&amp;Bass. Cover: IMANU",
+  "description": "The best EDM, Trap, Electronic, Drum&amp;Bass. Cover: Holly",
   "name": "Bass Drop",
   "tracks": [
     {
@@ -1392,6 +1392,24 @@
       "duration_ms": 174906,
       "name": "ID1",
       "url": "https://open.spotify.com/track/6B2iGXREq0qb0N5thBN279"
+    },
+    {
+      "album": {
+        "name": "IF YOU JUST A PUNK",
+        "url": "https://open.spotify.com/album/6MzGJovzK9noVUf7lHfUqD"
+      },
+      "artists": [
+        {
+          "name": "Holly",
+          "url": "https://open.spotify.com/artist/65stAzefvkwLeulY8215Zo"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161760,
+      "name": "IF YOU JUST A PUNK",
+      "url": "https://open.spotify.com/track/3nNLXUWa47wFoICvbDC1jb"
     },
     {
       "album": {

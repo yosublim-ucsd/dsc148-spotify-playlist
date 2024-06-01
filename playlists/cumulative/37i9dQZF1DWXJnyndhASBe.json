@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: Young Igi",
+  "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili \ud83d\udc76 Cover: Young(er) Leosia, bambi",
   "name": "RAP GENERACJA",
   "tracks": [
     {
@@ -418,6 +418,24 @@
       "duration_ms": 139300,
       "name": "AEZAKMI",
       "url": "https://open.spotify.com/track/3X5SUT9V4oT3ToYQ8t6Yjf"
+    },
+    {
+      "album": {
+        "name": "AGENT47",
+        "url": "https://open.spotify.com/album/382ayEY0B2AN3aqgB7Vywj"
+      },
+      "artists": [
+        {
+          "name": "Oki",
+          "url": "https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167035,
+      "name": "AGENT47",
+      "url": "https://open.spotify.com/track/1mcULyU8iC9nmqkzcw5nAI"
     },
     {
       "album": {
@@ -938,7 +956,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 160000,
       "name": "BOOMBOO",
       "url": "https://open.spotify.com/track/4uENLDm1ig23LmYH0yVDec"
@@ -1563,6 +1581,28 @@
     },
     {
       "album": {
+        "name": "Def Jam World Tour: BUCHAREST",
+        "url": "https://open.spotify.com/album/4zIYYLqFLmvZiGX5PiYZJu"
+      },
+      "artists": [
+        {
+          "name": "Rusina",
+          "url": "https://open.spotify.com/artist/5QQGdYIcd5A2PRcG42eNdQ"
+        },
+        {
+          "name": "Def Jam World Tour",
+          "url": "https://open.spotify.com/artist/1PFMCqDezh9wVkmmWZlv16"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133565,
+      "name": "Consequence - Def Jam World Tour",
+      "url": "https://open.spotify.com/track/6vcBgASjOZknY1PxmwbodN"
+    },
+    {
+      "album": {
         "name": "CBW MIXTAPE 2",
         "url": "https://open.spotify.com/album/3z7j6jyjDomdDmGXkkQm5c"
       },
@@ -1692,7 +1732,7 @@
       ],
       "date_added": "2024-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 93176,
       "name": "CRYSTAL",
       "url": "https://open.spotify.com/track/02jCA3cXpjmVkq20fXdFpb"
@@ -2338,6 +2378,28 @@
       "duration_ms": 126514,
       "name": "Freestyle",
       "url": "https://open.spotify.com/track/21edHwVjnKC1X2QLjpp5Oi"
+    },
+    {
+      "album": {
+        "name": "FURIA",
+        "url": "https://open.spotify.com/album/1RYDpQVFBBZr4DnFKhqopN"
+      },
+      "artists": [
+        {
+          "name": "Kinny Zimmer",
+          "url": "https://open.spotify.com/artist/19zuiWthJYU6FCqnV4mJYC"
+        },
+        {
+          "name": "Kaptur",
+          "url": "https://open.spotify.com/artist/4NJA8jbfxc4daVM2wi9ybd"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149142,
+      "name": "FURIA",
+      "url": "https://open.spotify.com/track/0X8uPkS0dWIWASjK6dFTLr"
     },
     {
       "album": {
@@ -3284,7 +3346,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 147828,
       "name": "KAUCJA",
       "url": "https://open.spotify.com/track/2c5z5bn4FlP1oMfVbIHuq6"
@@ -5077,6 +5139,36 @@
     },
     {
       "album": {
+        "name": "FREE AGENT",
+        "url": "https://open.spotify.com/album/1Shvu0oUTSFDOcKvwWdlYo"
+      },
+      "artists": [
+        {
+          "name": "Beteo",
+          "url": "https://open.spotify.com/artist/0kh9Gvy9lGZsq84x7I37DC"
+        },
+        {
+          "name": "bambi",
+          "url": "https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk"
+        },
+        {
+          "name": "Lot808",
+          "url": "https://open.spotify.com/artist/2aNeuKW2ShJIZpLrYsZ3yW"
+        },
+        {
+          "name": "Deemz",
+          "url": "https://open.spotify.com/artist/3gm9b6AeMf2eGQTLashkDt"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153400,
+      "name": "ON THE BLOCK",
+      "url": "https://open.spotify.com/track/4EhoDKYSHeU2yOboSCo6a9"
+    },
+    {
+      "album": {
         "name": "OPIUM!",
         "url": "https://open.spotify.com/album/2EgwS6mpTUMqkMBB3PxQg8"
       },
@@ -5793,6 +5885,32 @@
     },
     {
       "album": {
+        "name": "Pusty pok\u00f3j, ale p\u0142yty diamentowe",
+        "url": "https://open.spotify.com/album/7ID3CADe6uYjfqHwvCE99N"
+      },
+      "artists": [
+        {
+          "name": "Kubi Producent",
+          "url": "https://open.spotify.com/artist/0WDJa0qnagyOnMaiD26wht"
+        },
+        {
+          "name": "Szpaku",
+          "url": "https://open.spotify.com/artist/0Wi2fADbhwXlPUWxBmzo99"
+        },
+        {
+          "name": "Tulia",
+          "url": "https://open.spotify.com/artist/6w79TLiOorVtyvGHMUrOo0"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193561,
+      "name": "Pusty pok\u00f3j, ale p\u0142yty diamentowe",
+      "url": "https://open.spotify.com/track/6dB3ZhCxLHIVU1EoVv5SnF"
+    },
+    {
+      "album": {
         "name": "P\u00f3\u0142 na p\u00f3\u0142",
         "url": "https://open.spotify.com/album/1stHVQaEoGA91wGezjYv0n"
       },
@@ -6096,7 +6214,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 175777,
       "name": "S. D. A.",
       "url": "https://open.spotify.com/track/611rJoIIRmKksfBh8sTqBz"
@@ -6444,7 +6562,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 147692,
       "name": "Spadaj\u0105ca gwiazda",
       "url": "https://open.spotify.com/track/2nN0xNZJv4JcTE3coGPVhA"
@@ -7149,6 +7267,28 @@
     },
     {
       "album": {
+        "name": "W TYM SZALE\u0143STWIE JEST METODA",
+        "url": "https://open.spotify.com/album/0LAktjfVu6zZJKHhpt2Yz4"
+      },
+      "artists": [
+        {
+          "name": "Fukaj",
+          "url": "https://open.spotify.com/artist/3bS0MLzGAoO6lLUy7gguHY"
+        },
+        {
+          "name": "charlie moncler",
+          "url": "https://open.spotify.com/artist/37Pprth5H294i7rSnIkVVV"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156164,
+      "name": "W TYM SZALE\u0143STWIE JEST METODA",
+      "url": "https://open.spotify.com/track/1iwzyg6DPTStQUGPzzCEjs"
+    },
+    {
+      "album": {
         "name": "Walczyk",
         "url": "https://open.spotify.com/album/13GgywExvb1wcbmQpTWJqc"
       },
@@ -7183,7 +7323,7 @@
     },
     {
       "album": {
-        "name": "WHITE BEATLES",
+        "name": "DUCH + WHITE BEATLES",
         "url": "https://open.spotify.com/album/5ejNfM4ZhXuwF1o0doxXYp"
       },
       "artists": [
@@ -7564,7 +7704,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 184982,
       "name": "Zawsze chcia\u0142em",
       "url": "https://open.spotify.com/track/3AmVHFyIPCDYkqzYTfizOt"

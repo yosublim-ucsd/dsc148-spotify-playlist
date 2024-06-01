@@ -785,6 +785,24 @@
     },
     {
       "album": {
+        "name": "Ami sta ok",
+        "url": "https://open.spotify.com/album/4nygd6arCScHn3DyRMXeEt"
+      },
+      "artists": [
+        {
+          "name": "DreNaz",
+          "url": "https://open.spotify.com/artist/5urWzy2mamyT5sMTE5H00O"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164475,
+      "name": "Ami sta ok",
+      "url": "https://open.spotify.com/track/0cGOtm4qU6f4LjC058yMxj"
+    },
+    {
+      "album": {
         "name": "Anan\u00e1s",
         "url": "https://open.spotify.com/album/5MjlR3MAEEhMzwkyWGBLIj"
       },
@@ -1296,6 +1314,28 @@
       "duration_ms": 210618,
       "name": "Bandidas",
       "url": "https://open.spotify.com/track/6MEZbtP3lg3mHnE9LzZn4S"
+    },
+    {
+      "album": {
+        "name": "Bang Bang",
+        "url": "https://open.spotify.com/album/4xpVGxaPk6XEMFqNMwMeH2"
+      },
+      "artists": [
+        {
+          "name": "Phoenix Rdc",
+          "url": "https://open.spotify.com/artist/5L3JOH0e3PcOrHKVMXrFna"
+        },
+        {
+          "name": "LEO2745",
+          "url": "https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212321,
+      "name": "Bang Bang",
+      "url": "https://open.spotify.com/track/7vmGmNjmGD7hNdzVTk1jnD"
     },
     {
       "album": {
@@ -3578,7 +3618,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 140109,
       "name": "Esta N\u00e3o \u00e9 a Tua Hist\u00f3ria, Mas Podia Ser",
       "url": "https://open.spotify.com/track/7hMxLBIKXMBuj4Quz5Goq7"
@@ -4096,7 +4136,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 246945,
       "name": "FIM do NADA",
       "url": "https://open.spotify.com/track/4QTYp7oIjHLyRNVjyIPTFQ"
@@ -5088,7 +5128,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 153600,
       "name": "In\u00e9rcia",
       "url": "https://open.spotify.com/track/3mXJ9Nkm6IrCXQcZbniVsA"
@@ -5610,6 +5650,24 @@
       "duration_ms": 214530,
       "name": "Lingerie",
       "url": "https://open.spotify.com/track/2Cq6yIgdyyaDmY7pvnADVP"
+    },
+    {
+      "album": {
+        "name": "Priceless",
+        "url": "https://open.spotify.com/album/7yYTfAq087THV6jKKbUSvf"
+      },
+      "artists": [
+        {
+          "name": "Instinto 26",
+          "url": "https://open.spotify.com/artist/0XrDy5XUWRVcD4O8sSyzEV"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209708,
+      "name": "Loko Loko",
+      "url": "https://open.spotify.com/track/5H3HOVGluYwAntdrrHJrc0"
     },
     {
       "album": {
@@ -6983,6 +7041,32 @@
     },
     {
       "album": {
+        "name": "Ningu\u00e9m Entende Nada",
+        "url": "https://open.spotify.com/album/2OIxd2V2LTFqqu7JL9a9US"
+      },
+      "artists": [
+        {
+          "name": "Mizzy Miles",
+          "url": "https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I"
+        },
+        {
+          "name": "Teto",
+          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
+        },
+        {
+          "name": "MC PH",
+          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Ningu\u00e9m Entende Nada",
+      "url": "https://open.spotify.com/track/7cmCX8M8z9GZerCgVG1dyU"
+    },
+    {
+      "album": {
         "name": "Nirvana",
         "url": "https://open.spotify.com/album/6iVnhMtEQAuG6EpErY879Q"
       },
@@ -7162,7 +7246,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 245000,
       "name": "Notas de 100",
       "url": "https://open.spotify.com/track/2GGzUIG3rIQj4rveCtocrY"

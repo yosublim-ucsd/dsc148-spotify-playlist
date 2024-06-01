@@ -1730,7 +1730,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 183456,
       "name": "Love Anyway",
       "url": "https://open.spotify.com/track/0swFW9sHhCVS892gh8ec2L"
@@ -2892,6 +2892,24 @@
       "duration_ms": 154200,
       "name": "Take Me Back",
       "url": "https://open.spotify.com/track/3CiZBMNMkRm8CzPD4ZLM6C"
+    },
+    {
+      "album": {
+        "name": "Tell Me What You Want from Me (Acoustic)",
+        "url": "https://open.spotify.com/album/2nzIJQNWRRKp1w4fJBbCrJ"
+      },
+      "artists": [
+        {
+          "name": "Good Old War",
+          "url": "https://open.spotify.com/artist/33szNKNcVX8x0jl8X7hxHL"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215493,
+      "name": "Tell Me What You Want from Me - Acoustic",
+      "url": "https://open.spotify.com/track/5d6oKXvKIYBF0CThg58v5a"
     },
     {
       "album": {

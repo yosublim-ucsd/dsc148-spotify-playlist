@@ -3097,6 +3097,36 @@
     },
     {
       "album": {
+        "name": "DISCOVER THE MAYHEM (Official REBiRTH Festival 2024 Anthem)",
+        "url": "https://open.spotify.com/album/2KsPJDWa8KnaFlkQu4wnEN"
+      },
+      "artists": [
+        {
+          "name": "Sickmode",
+          "url": "https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW"
+        },
+        {
+          "name": "Mish",
+          "url": "https://open.spotify.com/artist/65kwwmTEJIlKRldGhmUM0b"
+        },
+        {
+          "name": "MC Livid",
+          "url": "https://open.spotify.com/artist/3GvnEADrxf9LST8avbLuMe"
+        },
+        {
+          "name": "Mark Vayne",
+          "url": "https://open.spotify.com/artist/0ISUKgiBjQ63VbyoIHfD3F"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238875,
+      "name": "DISCOVER THE MAYHEM (Official REBiRTH Festival 2024 Anthem)",
+      "url": "https://open.spotify.com/track/1Wv5JiJLCJL8xZ5PNH1IEB"
+    },
+    {
+      "album": {
         "name": "A New Dawn",
         "url": "https://open.spotify.com/album/6rLCvkI1WfZ0j4X5QRCYy4"
       },
@@ -9268,7 +9298,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 241548,
       "name": "No Paradise",
       "url": "https://open.spotify.com/track/0N4QGYBSaeRwmo4pxuEG0x"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The best classic and new sounds from South African Rock. Cover: <a href=\"https://open.spotify.com/artist/4FvIuLbPat5vSttuzmM7VE?si=JYtPHoRASdO2CzgkhyN3sQ\">VOLK</a>",
+  "description": "The best classic and new sounds from South African Rock. Cover: <a href=\"https://open.spotify.com/artist/2AT751CV7Ass28MqGa0CCG\">Vancoet</a>",
   "name": "SA Rock ",
   "tracks": [
     {
@@ -3068,7 +3068,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 187626,
       "name": "Good Life",
       "url": "https://open.spotify.com/track/4nZNhweRT6VJWd0XYeEzBQ"
@@ -8232,6 +8232,24 @@
       "duration_ms": 276667,
       "name": "Vodka and Smoke",
       "url": "https://open.spotify.com/track/514tQtj7uyLHMn2yGgJkmj"
+    },
+    {
+      "album": {
+        "name": "Voel Jy Dit?",
+        "url": "https://open.spotify.com/album/0woO4IsAbmDoxLE2INCuE7"
+      },
+      "artists": [
+        {
+          "name": "Vancoet",
+          "url": "https://open.spotify.com/artist/2AT751CV7Ass28MqGa0CCG"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171823,
+      "name": "Voel Jy Dit?",
+      "url": "https://open.spotify.com/track/6PHxsiho5eloCFvuYseB7Y"
     },
     {
       "album": {

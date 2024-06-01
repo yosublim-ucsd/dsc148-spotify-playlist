@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "Latinoam\u00e9rica baila al ritmo de Caleb Calloway, Yandel y Ryan Castro.",
+  "description": "Latinoam\u00e9rica baila al ritmo de Kenia Os y El Malilla.",
   "name": "El Ritmo",
   "tracks": [
     {
@@ -3404,7 +3404,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 188553,
       "name": "Carta a tu Novio",
       "url": "https://open.spotify.com/track/4iiv6RoA6ilBfIu5qjbWXu"
@@ -3958,7 +3958,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 170322,
       "name": "Cochinadas",
       "url": "https://open.spotify.com/track/4RT7qqEVp1YTol9JVx6BtC"
@@ -6316,7 +6316,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 180613,
       "name": "El Pin",
       "url": "https://open.spotify.com/track/0yr5n9BiA7QoibcCx7eJj8"
@@ -6744,7 +6744,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 157413,
       "name": "En Las Buenas y En Las Malas",
       "url": "https://open.spotify.com/track/5gWkxqIv20eagfDWUeok2N"
@@ -16373,6 +16373,28 @@
     },
     {
       "album": {
+        "name": "SATA",
+        "url": "https://open.spotify.com/album/4VVBYVVNe7JMNfq7Pmixet"
+      },
+      "artists": [
+        {
+          "name": "Taiko",
+          "url": "https://open.spotify.com/artist/7E8zK1i1TAXxBVRpeMfOqM"
+        },
+        {
+          "name": "Kidd Voodoo",
+          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151770,
+      "name": "SATA",
+      "url": "https://open.spotify.com/track/27fLzQp6M5PWXOAJsXjHoY"
+    },
+    {
+      "album": {
         "name": "Reinsertado",
         "url": "https://open.spotify.com/album/6h5tdNdOnnFL6zbeMeeqdk"
       },
@@ -19041,6 +19063,28 @@
     },
     {
       "album": {
+        "name": "Un Bezito",
+        "url": "https://open.spotify.com/album/73ak0lB4a1hE6glj88jp9b"
+      },
+      "artists": [
+        {
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        },
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156734,
+      "name": "Un Bezito",
+      "url": "https://open.spotify.com/track/1SQfMaCmPULmazsql39NTb"
+    },
+    {
+      "album": {
         "name": "ESTRELLA",
         "url": "https://open.spotify.com/album/0SoJvPHbKVhvmVJOp3kzp3"
       },
@@ -19290,6 +19334,32 @@
       "duration_ms": 186000,
       "name": "VENTE CONMIGO",
       "url": "https://open.spotify.com/track/4zzyCocu8LZVqctOGSfVKz"
+    },
+    {
+      "album": {
+        "name": "VERACRUZ (GPI)",
+        "url": "https://open.spotify.com/album/1Kt9ooVeFVCmpzeo7IkhyC"
+      },
+      "artists": [
+        {
+          "name": "Uzielito Mix",
+          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
+        },
+        {
+          "name": "KEVIN ROLDAN",
+          "url": "https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO"
+        },
+        {
+          "name": "Mauro Dembow",
+          "url": "https://open.spotify.com/artist/0YMgAVpGRw5rTCBCC1YufD"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87422,
+      "name": "VERACRUZ (GPI)",
+      "url": "https://open.spotify.com/track/0loHU9t2R14XqF3QIiZQMf"
     },
     {
       "album": {
@@ -19692,6 +19762,32 @@
       "duration_ms": 198163,
       "name": "Vuela",
       "url": "https://open.spotify.com/track/5atvVaX7LAya8JS7acZJz6"
+    },
+    {
+      "album": {
+        "name": "Vuelve",
+        "url": "https://open.spotify.com/album/4GXonDm60Et2ZRfTLxZMmB"
+      },
+      "artists": [
+        {
+          "name": "Yng Lvcas",
+          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
+        },
+        {
+          "name": "OMRIZY",
+          "url": "https://open.spotify.com/artist/1i6jHPx9zBD46NJaB16aX0"
+        },
+        {
+          "name": "D-Rok 5 Starr",
+          "url": "https://open.spotify.com/artist/71IcU5PAfg8QPZqZso7bV8"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193255,
+      "name": "Vuelue",
+      "url": "https://open.spotify.com/track/19UoErxcGaXQiMUC1oToYu"
     },
     {
       "album": {

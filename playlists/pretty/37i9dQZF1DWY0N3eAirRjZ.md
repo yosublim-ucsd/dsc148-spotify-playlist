@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0N3eAirRjZ.md) - [plain]
 
 > From slack\-key masters to songwriting royals, Native Hawaiians have been behind the isles' most memorable music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,348 likes - 65 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,670 likes - 65 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,16 +15,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0N3eAirRjZ.md) - [plain]
 | 5 | [Feel the Sunshine](https://open.spotify.com/track/6ExZ4vG23GsUgAATjdPxwg) | [Kolohe Kai](https://open.spotify.com/artist/3Je8tRazTtqZxGkbeJDGL8), [HIRIE](https://open.spotify.com/artist/0HYbyzzhI44iTHvYnf1nOs) | [Hazel Eyes](https://open.spotify.com/album/5UW0VIeQ1cgfXJxGqddBm1) | 2:58 |
 | 6 | [Stand By Me \(Drew Forever\)](https://open.spotify.com/track/4Ua8dhnL9mKAZ78etjdOHX) | [Common Kings](https://open.spotify.com/artist/4j0qbafzqnGf4ARF8tY4VL) | [Stand By Me \(Drew Forever\)](https://open.spotify.com/album/6AsVMB0zcOvHvGc3INNY44) | 3:14 |
 | 7 | [Starting All Over Again \- Acoustic Sessions](https://open.spotify.com/track/2FOMDrCQG2YVYbwBdqJ5M5) | [Iam Tongi](https://open.spotify.com/artist/4HRMz0O4zNGfvgpDWYNiS3) | [Starting All Over Again \(Acoustic Sessions\)](https://open.spotify.com/album/6eDLJL9ucaRjCbjHKjMcVi) | 4:27 |
-| 8 | [Heha Waipiʻo](https://open.spotify.com/track/1bbdAdeUtBuQagkXg6VFXh) | [Keauhou](https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq) | [I Leʻa](https://open.spotify.com/album/71Kc8flnHzCQw1ci7WkiKb) | 2:36 |
-| 9 | [Fire Up Di Roses \(with The Green, Common Kings & Fiji\)](https://open.spotify.com/track/3Y9kBavkO9sD8K7QZki0se) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [The Green](https://open.spotify.com/artist/5RkXaPxdZ8L7ERNgDZXlKh), [Common Kings](https://open.spotify.com/artist/4j0qbafzqnGf4ARF8tY4VL), [Fiji](https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ) | [Fire Up Di Roses \(with The Green, Common Kings & Fiji\)](https://open.spotify.com/album/5mo5nalgXTB1DSfAtSK93e) | 3:56 |
-| 10 | [Funny Talk \(with Fiji\)](https://open.spotify.com/track/2uwBFfhuVSgDVc7IWj2qe6) | [Maoli](https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA), [Fiji](https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ) | [Funny Talk](https://open.spotify.com/album/4YvX9t3HLTFnomTnOj5QOa) | 2:57 |
-| 11 | [Masese](https://open.spotify.com/track/6hs4GGBUTETtNC41YAdKQJ) | [Kapena](https://open.spotify.com/artist/5ApzCoihjAuHAfGVoVqv61) | [Destinations](https://open.spotify.com/album/6ZoPZ5dkmEhZSuWgIT2NIV) | 3:34 |
-| 12 | [Grateful](https://open.spotify.com/track/5xDPMfQN0WRA4Mj1nW6lNP) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Grateful](https://open.spotify.com/album/4zEDYMnxbEW93SZXUDQq6Q) | 3:40 |
+| 8 | [Fire Up Di Roses \(with The Green, Common Kings & Fiji\)](https://open.spotify.com/track/3Y9kBavkO9sD8K7QZki0se) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [The Green](https://open.spotify.com/artist/5RkXaPxdZ8L7ERNgDZXlKh), [Common Kings](https://open.spotify.com/artist/4j0qbafzqnGf4ARF8tY4VL), [Fiji](https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ) | [Fire Up Di Roses \(with The Green, Common Kings & Fiji\)](https://open.spotify.com/album/5mo5nalgXTB1DSfAtSK93e) | 3:56 |
+| 9 | [Funny Talk \(with Fiji\)](https://open.spotify.com/track/2uwBFfhuVSgDVc7IWj2qe6) | [Maoli](https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA), [Fiji](https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ) | [Funny Talk](https://open.spotify.com/album/4YvX9t3HLTFnomTnOj5QOa) | 2:57 |
+| 10 | [Masese](https://open.spotify.com/track/6hs4GGBUTETtNC41YAdKQJ) | [Kapena](https://open.spotify.com/artist/5ApzCoihjAuHAfGVoVqv61) | [Destinations](https://open.spotify.com/album/6ZoPZ5dkmEhZSuWgIT2NIV) | 3:34 |
+| 11 | [Grateful](https://open.spotify.com/track/5xDPMfQN0WRA4Mj1nW6lNP) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Grateful](https://open.spotify.com/album/4zEDYMnxbEW93SZXUDQq6Q) | 3:40 |
+| 12 | [Travelin' Soldier](https://open.spotify.com/track/0hWkRKNdOjpHYmvbvSY9Nv) | [Maoli](https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA) | [Travelin' Soldier](https://open.spotify.com/album/2Np0YVg1kIaB5Ljyvv9yj1) | 5:32 |
 | 13 | [Round n Round \(feat\. Pepper & Kaleo Wassman\)](https://open.spotify.com/track/3KksVkdOTp4Gb7At5uXLeX) | [Vana Liya](https://open.spotify.com/artist/12GfQaPLWcOztNYsVL5wIV), [Kaleo Wassman](https://open.spotify.com/artist/2v9vuieSJyhpLpXNafGYqc), [Pepper](https://open.spotify.com/artist/1YK8JdPbiaMSnf4hrlBkGT) | [Round n Round](https://open.spotify.com/album/4A8MJ9St5BebDStA4brBXZ) | 4:56 |
 | 14 | [Lover Tonight](https://open.spotify.com/track/3TQm7m9rIQI7C5A5p78aG2) | [The Green](https://open.spotify.com/artist/5RkXaPxdZ8L7ERNgDZXlKh) | [Summertime EP](https://open.spotify.com/album/1gGlsw6KLGCvC3lMaNMWW9) | 4:09 |
 | 15 | [Hawai'i '78 Introduction](https://open.spotify.com/track/6DynsXxu5oaCgkt4lXutoM) | [Israel Kamakawiwo'ole](https://open.spotify.com/artist/4ogvuDRerGhZfSf7TtzHlr) | [Facing Future](https://open.spotify.com/album/0pquf1NcG9FdiypBPwICu9) | 5:05 |
 | 16 | [Prisoner of Love](https://open.spotify.com/track/0DF1Vus2YUnfnLdsqekXBZ) | [Josh Tatofi](https://open.spotify.com/artist/5hlcYSbfgsN5kwxz0v70OJ) | [Prisoner of Love](https://open.spotify.com/album/5kDBvjhGj56MWI1hjG6PCk) | 4:20 |
-| 17 | [Kawaikini](https://open.spotify.com/track/1a2UimgBeSAHzTECBo2iya) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Kimie Miner](https://open.spotify.com/artist/0WqR2IuhhxLCTryPSvFv61) | [Kawaikini](https://open.spotify.com/album/1KBUkJGGdMwPRrRcO2FWs9) | 4:30 |
+| 17 | [Who's That Girl?](https://open.spotify.com/track/1LxsogwbSBZBcQAiN94oUA) | [Josh Tatofi](https://open.spotify.com/artist/5hlcYSbfgsN5kwxz0v70OJ) | [Who's That Girl?](https://open.spotify.com/album/1llK6Wl2Vt5pdPOpmQIcgI) | 3:58 |
 | 18 | [Moonlight Lady](https://open.spotify.com/track/1HOMw6a7ywU1AiFMIS7FcV) | [Gabby Pahinui](https://open.spotify.com/artist/2Ju4D1DqBETuLI2hAsoqHu) | [Gabby Pahinui Hawaiian Band, Vol\. 1](https://open.spotify.com/album/2mAXdR3BgOOvQCmRKsLecw) | 4:23 |
 | 19 | [Ipo Lei Manu](https://open.spotify.com/track/5WyLpJPhodJDTTgtJEbq71) | [Cyril Pahinui](https://open.spotify.com/artist/7wsc0FqwFJpSWeSjuBMBJ5) | [6 & 12 String Slack Key](https://open.spotify.com/album/5v62N5kiseJw91NvmVt0S5) | 5:13 |
 | 20 | [Wahine 'Ilikea](https://open.spotify.com/track/1MtfC9i9HHG6DCXClvbwxw) | [Dennis Kamakahi](https://open.spotify.com/artist/2Ntbsut1zuMvsXBTDGj18Y) | [Pua'ena](https://open.spotify.com/album/6l3VoFEh7GUOELXRtaHMHk) | 4:29 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0N3eAirRjZ.md) - [plain]
 | 64 | [Whee Ha Swing](https://open.spotify.com/track/1ECsI8Z2IhCKpLZbsEe5iw) | [Ledward Kaapana](https://open.spotify.com/artist/4rbuIw9Fa3U8yCZuK2Ig1K) | [Hawaiian Slack Key Guitar Masters, Vol\. 1](https://open.spotify.com/album/53hJB0xPGms7KJxRZsWE0I) | 2:37 |
 | 65 | [Honolulu City Lights](https://open.spotify.com/track/7p7wUyiSlKhbBj6a4W5JQJ) | [Keola & Kapono Beamer](https://open.spotify.com/artist/3EzISrY4SedvUU2QWGaH4f) | [Honolulu City Lights](https://open.spotify.com/album/30Gr4mOBobnQqhMAVVmhS3) | 3:23 |
 
-Snapshot ID: `ZlAQwAAAAADKxalYiWC8OjeWlJeyc+Ml`
+Snapshot ID: `ZllLQAAAAABZhexTLIEEs9e3ywfifuMF`

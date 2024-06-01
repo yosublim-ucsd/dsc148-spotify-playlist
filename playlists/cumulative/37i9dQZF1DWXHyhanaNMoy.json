@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-19",
-  "description": "Motion & good vibes! Cover: Kleine John & DJ DYLVN",
+  "description": "Ready voor PINK SUMMER! Cover: Frenna",
   "name": "La Vida Loca",
   "tracks": [
     {
@@ -1654,7 +1654,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 151082,
       "name": "Badman Anthem",
       "url": "https://open.spotify.com/track/3gj3pZMPOX6ME3Y8BctIT3"
@@ -2066,7 +2066,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 132272,
       "name": "Beetje Fout (feat. Yssi SB)",
       "url": "https://open.spotify.com/track/5l4UcCjgarB4LvLuXQ2RlN"
@@ -3344,6 +3344,28 @@
       "duration_ms": 160579,
       "name": "Bottles",
       "url": "https://open.spotify.com/track/331ZKCTgF27kBC2W5vmRmV"
+    },
+    {
+      "album": {
+        "name": "Boucan (feat. Franglish)",
+        "url": "https://open.spotify.com/album/6SHZjDJD8769qn7l5kGp4r"
+      },
+      "artists": [
+        {
+          "name": "KeBlack",
+          "url": "https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86"
+        },
+        {
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171216,
+      "name": "Boucan (feat. Franglish)",
+      "url": "https://open.spotify.com/track/6jElwivDtkQUv9QFGrdN26"
     },
     {
       "album": {
@@ -6400,7 +6422,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 172800,
       "name": "FEELIN U (feat. Jmani)",
       "url": "https://open.spotify.com/track/7q6HU528yPaRuXEFsCuJ32"
@@ -9361,6 +9383,28 @@
     },
     {
       "album": {
+        "name": "Jij Bent Het",
+        "url": "https://open.spotify.com/album/3fa5PRokqVLjVg98LAJASp"
+      },
+      "artists": [
+        {
+          "name": "Kish",
+          "url": "https://open.spotify.com/artist/2gVFsWpxGngHu7qbYbj8Ci"
+        },
+        {
+          "name": "2mochh",
+          "url": "https://open.spotify.com/artist/0Rco3YiEW2pB9JGHeVhLJk"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148085,
+      "name": "Jij Bent Het",
+      "url": "https://open.spotify.com/track/2n8tEYDOkHJnHhu3DdKjKk"
+    },
+    {
+      "album": {
         "name": "Jini",
         "url": "https://open.spotify.com/album/2rOM0s7rEyzdhGgnKUb81u"
       },
@@ -9542,7 +9586,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 147071,
       "name": "Jump",
       "url": "https://open.spotify.com/track/6XpEm7VJ7TZxZTawH8BCSW"
@@ -10298,6 +10342,24 @@
       "duration_ms": 136842,
       "name": "Lagos",
       "url": "https://open.spotify.com/track/6U4CdtoVCMKf4IWmzuwdJl"
+    },
+    {
+      "album": {
+        "name": "Laisse Tomber",
+        "url": "https://open.spotify.com/album/20jWza11L5iUfZjchs8JW4"
+      },
+      "artists": [
+        {
+          "name": "Hulk Van JMF",
+          "url": "https://open.spotify.com/artist/2D2Wm1oAJrDRzXVzxkyBOE"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137533,
+      "name": "Laisse Tomber",
+      "url": "https://open.spotify.com/track/03rYPudz35ckybOHBjULcs"
     },
     {
       "album": {
@@ -11304,6 +11366,24 @@
       "duration_ms": 191827,
       "name": "Love - Nigeria Version",
       "url": "https://open.spotify.com/track/54YbT22Ajdjy56jBXlg1zC"
+    },
+    {
+      "album": {
+        "name": "Love = Scary",
+        "url": "https://open.spotify.com/album/34mLUrlEQ8vjRYyDAXT4A8"
+      },
+      "artists": [
+        {
+          "name": "Jonna Fraser",
+          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147090,
+      "name": "Love = Scary",
+      "url": "https://open.spotify.com/track/39gFgXRPPZjv8HebmbT6rW"
     },
     {
       "album": {
@@ -12644,7 +12724,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 144356,
       "name": "MOTC (feat. Menga & Stylez)",
       "url": "https://open.spotify.com/track/1K5eGqraDCjooLajVQBKpl"
@@ -16963,6 +17043,32 @@
     },
     {
       "album": {
+        "name": "Sidung & Slay",
+        "url": "https://open.spotify.com/album/6lfTEteHuIohpTomwWjuYN"
+      },
+      "artists": [
+        {
+          "name": "Its Natascha",
+          "url": "https://open.spotify.com/artist/6r5nslEUXZRMW9qpxKvxV6"
+        },
+        {
+          "name": "Iamroyston",
+          "url": "https://open.spotify.com/artist/2LJ7EXcNlX7Vdtd83Nrk2i"
+        },
+        {
+          "name": "Fernandez",
+          "url": "https://open.spotify.com/artist/2Lx8uvkJwO86Mmh72z10pR"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143593,
+      "name": "Sidung & Slay",
+      "url": "https://open.spotify.com/track/3WJ38AKbw4WyVTVZlVDPce"
+    },
+    {
+      "album": {
         "name": "Sigegige",
         "url": "https://open.spotify.com/album/5vXwgFWrrItrmcaEYRyLku"
       },
@@ -18889,6 +18995,32 @@
     },
     {
       "album": {
+        "name": "Tokkoh",
+        "url": "https://open.spotify.com/album/4cefem5W4JJcEB9n813UXI"
+      },
+      "artists": [
+        {
+          "name": "Diaz & Bruno",
+          "url": "https://open.spotify.com/artist/6FGZPlL2dhssxgQlpb7I7W"
+        },
+        {
+          "name": "Adje",
+          "url": "https://open.spotify.com/artist/5erZiBCKPxe9FaTiXHO00m"
+        },
+        {
+          "name": "Poke",
+          "url": "https://open.spotify.com/artist/0hgX6slgQFj1QpjpKHbcK1"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Tokkoh",
+      "url": "https://open.spotify.com/track/1EbdHMrk9t9WbEdEvIYQzK"
+    },
+    {
+      "album": {
         "name": "Toko dombi",
         "url": "https://open.spotify.com/album/75HvvhWytuljxPOc6Asj2i"
       },
@@ -19402,7 +19534,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 174433,
       "name": "Tuesday",
       "url": "https://open.spotify.com/track/7zPOZujiZy4q0RYIx7mKKh"
@@ -20634,7 +20766,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 186600,
       "name": "Wat Wil Je Doen",
       "url": "https://open.spotify.com/track/2HZF5L0RtUN4a8WsWZWblq"
@@ -20740,6 +20872,24 @@
       "duration_ms": 176400,
       "name": "Wauw!",
       "url": "https://open.spotify.com/track/61Y9ByBwqsq42l8JOrcGxS"
+    },
+    {
+      "album": {
+        "name": "Wayeh",
+        "url": "https://open.spotify.com/album/4DvrgdEh0hGPDxR02sNkUV"
+      },
+      "artists": [
+        {
+          "name": "THEODORT",
+          "url": "https://open.spotify.com/artist/6q87j1F6EtUxjlvkJNknFp"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150733,
+      "name": "Wayeh",
+      "url": "https://open.spotify.com/track/037wIgLisUOMSRfLRrB38O"
     },
     {
       "album": {

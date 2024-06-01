@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-20",
-  "description": "Descubre los nuevos \u00e1lbumes de M\u00fasica Mexicana. Hit shuffle for a mixed listening experience. Cover: Alejandro Fern\u00e1ndez  ",
+  "description": "Descubre los nuevos \u00e1lbumes de M\u00fasica Mexicana. Hit shuffle for a mixed listening experience. Cover: Chiquis ",
   "name": "New M\u00fasica Mexicana Albums",
   "tracks": [
     {
@@ -573,6 +573,24 @@
     },
     {
       "album": {
+        "name": "Aqu\u00ed Mando Yo",
+        "url": "https://open.spotify.com/album/3Hn6SB2nMJulWtrRdr5Bnk"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216333,
+      "name": "Aqu\u00ed Mando Yo",
+      "url": "https://open.spotify.com/track/777fe7EyoQ7vatcRRHbTmO"
+    },
+    {
+      "album": {
         "name": "Arriba Las Manos",
         "url": "https://open.spotify.com/album/2SdiLZLXiB5vsRiQKn06T8"
       },
@@ -813,6 +831,24 @@
     },
     {
       "album": {
+        "name": "Boca Chueca, Vol. 1",
+        "url": "https://open.spotify.com/album/5wkYyTtAUS2Wi6pHYpdsSU"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171382,
+      "name": "Beb\u00e9 no cambies t\u00fa",
+      "url": "https://open.spotify.com/track/26OpmSF2NBuNokJhqrbQnE"
+    },
+    {
+      "album": {
         "name": "La Casa Siempre Gana",
         "url": "https://open.spotify.com/album/31oOPZAiF6li1JmSWR5HJC"
       },
@@ -912,6 +948,24 @@
       "duration_ms": 206519,
       "name": "Bien Positivo",
       "url": "https://open.spotify.com/track/1lQgN0kr8AntTAz67a2ng8"
+    },
+    {
+      "album": {
+        "name": "Diamantes",
+        "url": "https://open.spotify.com/album/6gcSXc3n22hPhaBI94F9Ap"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158160,
+      "name": "Bienvenida De Soltera",
+      "url": "https://open.spotify.com/track/3cDwKmgiVP5acuMi62z3Ig"
     },
     {
       "album": {
@@ -1115,6 +1169,42 @@
     },
     {
       "album": {
+        "name": "Diamantes",
+        "url": "https://open.spotify.com/album/6gcSXc3n22hPhaBI94F9Ap"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189586,
+      "name": "Brindaremos Por \u00c9l",
+      "url": "https://open.spotify.com/track/4xH6VqehWB9nVz8SebSYUP"
+    },
+    {
+      "album": {
+        "name": "TRASTORNADO",
+        "url": "https://open.spotify.com/album/7matknZ02Ot3hWqoZlIknR"
+      },
+      "artists": [
+        {
+          "name": "Michelle Maciel",
+          "url": "https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "BUCHI FINA",
+      "url": "https://open.spotify.com/track/2vXubcxymOvvFusenQRKHw"
+    },
+    {
+      "album": {
         "name": "Buena Suerte",
         "url": "https://open.spotify.com/album/1mpRBVz9p8tRlZKgU9WGzK"
       },
@@ -1236,6 +1326,24 @@
       "duration_ms": 162940,
       "name": "CanC\u00fan",
       "url": "https://open.spotify.com/track/4TODvg36tMlw75g316NE1m"
+    },
+    {
+      "album": {
+        "name": "11:11",
+        "url": "https://open.spotify.com/album/73R07liv03EzBgRffDvazu"
+      },
+      "artists": [
+        {
+          "name": "Sucesi\u00f3n M",
+          "url": "https://open.spotify.com/artist/2Cxqiw8iTT18OMjlq033V6"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224372,
+      "name": "Cari\u00f1osa",
+      "url": "https://open.spotify.com/track/0DZ1OwO2dLjZqRk5acYfax"
     },
     {
       "album": {
@@ -1854,6 +1962,24 @@
       "duration_ms": 181082,
       "name": "Despues De Ti",
       "url": "https://open.spotify.com/track/58LoSwhJWU06chdylaNmFp"
+    },
+    {
+      "album": {
+        "name": "Boca Chueca, Vol. 1",
+        "url": "https://open.spotify.com/album/5wkYyTtAUS2Wi6pHYpdsSU"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231375,
+      "name": "Desp\u00eddase bien",
+      "url": "https://open.spotify.com/track/1llaUCfG1g5WzKt6JafYyk"
     },
     {
       "album": {
@@ -3049,6 +3175,24 @@
     },
     {
       "album": {
+        "name": "Resiliencia",
+        "url": "https://open.spotify.com/album/5JlfkaYprQ3oDcaRtBOz4w"
+      },
+      "artists": [
+        {
+          "name": "Grupo Los de la O",
+          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186154,
+      "name": "Estado Natural",
+      "url": "https://open.spotify.com/track/5KXiq5PZndbpUXX0Mqm9Du"
+    },
+    {
+      "album": {
         "name": "Paso Fino",
         "url": "https://open.spotify.com/album/02CC6Z2uIGm248DgXALu5b"
       },
@@ -3411,6 +3555,24 @@
     },
     {
       "album": {
+        "name": "Hazme Un Paro",
+        "url": "https://open.spotify.com/album/14iysF9jjJkPbdaSHsxEuu"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173320,
+      "name": "Hazme Un Paro",
+      "url": "https://open.spotify.com/track/4y9ch60iZnVqykCNhIkihi"
+    },
+    {
+      "album": {
         "name": "Soy Sagitario",
         "url": "https://open.spotify.com/album/2PVs0MBr8H5mGoTbwzXu60"
       },
@@ -3538,6 +3700,24 @@
       "duration_ms": 178575,
       "name": "Inolvidable",
       "url": "https://open.spotify.com/track/65KYsmbRY9PgXbM1rpfNMQ"
+    },
+    {
+      "album": {
+        "name": "THE GOAT",
+        "url": "https://open.spotify.com/album/3hmlgJRuR8ax8QLHvKs8Eb"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124166,
+      "name": "Intro: THE GOAT",
+      "url": "https://open.spotify.com/track/7s0YftbAtOPmkyWKjq6HA0"
     },
     {
       "album": {
@@ -4077,6 +4257,28 @@
     },
     {
       "album": {
+        "name": "THE GOAT",
+        "url": "https://open.spotify.com/album/3hmlgJRuR8ax8QLHvKs8Eb"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "Angel Cervantes",
+          "url": "https://open.spotify.com/artist/3cbOif2nNznwEiNw9Ty8NJ"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195608,
+      "name": "La Sand\u00eda",
+      "url": "https://open.spotify.com/track/4qIa4rPS4QCFJPcyumlSv1"
+    },
+    {
+      "album": {
         "name": "Entre Amigos",
         "url": "https://open.spotify.com/album/7v1XFpws6JNWe5fwOC8vPZ"
       },
@@ -4136,6 +4338,24 @@
       "duration_ms": 177813,
       "name": "La T\u00f3xica",
       "url": "https://open.spotify.com/track/6iNS7Co2kw6yhsioGKLMEP"
+    },
+    {
+      "album": {
+        "name": "Aqu\u00ed Mando Yo",
+        "url": "https://open.spotify.com/album/0UT6sSqUR1QMQ7a1vt9ROP"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228626,
+      "name": "La \u00daltima Y Nos Vamos",
+      "url": "https://open.spotify.com/track/0WqFq0vPpCTNxM6OPCYYwI"
     },
     {
       "album": {
@@ -5002,6 +5222,24 @@
       "duration_ms": 133522,
       "name": "Me Enamor\u00e9 De Sinaloa",
       "url": "https://open.spotify.com/track/7kjWgdYIpunRnxv3tUTDGD"
+    },
+    {
+      "album": {
+        "name": "Resiliencia",
+        "url": "https://open.spotify.com/album/5JlfkaYprQ3oDcaRtBOz4w"
+      },
+      "artists": [
+        {
+          "name": "Grupo Los de la O",
+          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147114,
+      "name": "Me Forjo Uno",
+      "url": "https://open.spotify.com/track/44ukok1XxhW2iyDewq4C9N"
     },
     {
       "album": {
@@ -6169,6 +6407,42 @@
     },
     {
       "album": {
+        "name": "Boca Chueca, Vol. 1",
+        "url": "https://open.spotify.com/album/5wkYyTtAUS2Wi6pHYpdsSU"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196551,
+      "name": "Otra vez",
+      "url": "https://open.spotify.com/track/5ayBbdkJqR4HNueyongutW"
+    },
+    {
+      "album": {
+        "name": "11:11",
+        "url": "https://open.spotify.com/album/73R07liv03EzBgRffDvazu"
+      },
+      "artists": [
+        {
+          "name": "Sucesi\u00f3n M",
+          "url": "https://open.spotify.com/artist/2Cxqiw8iTT18OMjlq033V6"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178354,
+      "name": "Otra Vez",
+      "url": "https://open.spotify.com/track/0bNT2FIF5vlvooLIZW8uxu"
+    },
+    {
+      "album": {
         "name": "$AD BOYZ 4 LIFE II",
         "url": "https://open.spotify.com/album/7Lv6VzSqIz1sAssK2JUskG"
       },
@@ -6729,6 +7003,28 @@
     },
     {
       "album": {
+        "name": "QPTP",
+        "url": "https://open.spotify.com/album/18dwo21fkS7TglV0L9lF6r"
+      },
+      "artists": [
+        {
+          "name": "Michelle Maciel",
+          "url": "https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6"
+        },
+        {
+          "name": "Yahritza Y Su Esencia",
+          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149810,
+      "name": "QPTP",
+      "url": "https://open.spotify.com/track/4QwuMUb4t18E83ZbDAEdQV"
+    },
+    {
+      "album": {
         "name": "CHSM El Higado!",
         "url": "https://open.spotify.com/album/3VbpI9PvaAPstho7ce8umB"
       },
@@ -6870,6 +7166,28 @@
       "duration_ms": 153053,
       "name": "Que Seas Mi Mam\u00e1",
       "url": "https://open.spotify.com/track/6coUm2oqAt8jLiG1RNeDVI"
+    },
+    {
+      "album": {
+        "name": "TRASTORNADO",
+        "url": "https://open.spotify.com/album/7matknZ02Ot3hWqoZlIknR"
+      },
+      "artists": [
+        {
+          "name": "Michelle Maciel",
+          "url": "https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6"
+        },
+        {
+          "name": "Adriel Favela",
+          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173906,
+      "name": "QUE TRISTE NO?",
+      "url": "https://open.spotify.com/track/23fllmoslh5anJCV2Z9Klr"
     },
     {
       "album": {
@@ -7033,6 +7351,24 @@
     },
     {
       "album": {
+        "name": "11:11",
+        "url": "https://open.spotify.com/album/73R07liv03EzBgRffDvazu"
+      },
+      "artists": [
+        {
+          "name": "Sucesi\u00f3n M",
+          "url": "https://open.spotify.com/artist/2Cxqiw8iTT18OMjlq033V6"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200866,
+      "name": "Respeta El Flow",
+      "url": "https://open.spotify.com/track/6TFFeNcpxvcNuT8VB9IuvD"
+    },
+    {
+      "album": {
         "name": "Tributo Al Amo De La Banda",
         "url": "https://open.spotify.com/album/1sluShk7MxxjFsfo2y0Bfk"
       },
@@ -7154,6 +7490,24 @@
       "duration_ms": 179050,
       "name": "Sabe Lo Que Trae",
       "url": "https://open.spotify.com/track/7z3FyYTEEof8nK8adxlI2Z"
+    },
+    {
+      "album": {
+        "name": "Resiliencia",
+        "url": "https://open.spotify.com/album/5JlfkaYprQ3oDcaRtBOz4w"
+      },
+      "artists": [
+        {
+          "name": "Grupo Los de la O",
+          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171808,
+      "name": "Sacando Cuentas",
+      "url": "https://open.spotify.com/track/77YlSpnsy6SoUABVTGcghD"
     },
     {
       "album": {
@@ -7998,6 +8352,24 @@
       "duration_ms": 175871,
       "name": "Todo Se Va",
       "url": "https://open.spotify.com/track/1pnwE5OgoJ5ovacjbfg4bf"
+    },
+    {
+      "album": {
+        "name": "THE GOAT",
+        "url": "https://open.spotify.com/album/3hmlgJRuR8ax8QLHvKs8Eb"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155076,
+      "name": "Torai",
+      "url": "https://open.spotify.com/track/3pqEJlyY1HOdYIq5GHB4bp"
     },
     {
       "album": {

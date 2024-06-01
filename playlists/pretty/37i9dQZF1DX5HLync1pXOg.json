@@ -1,13 +1,161 @@
 {
-  "description": "The official playlist for We Are Lady Parts featuring all the original music from the show plus tracks from killer bands and artists. Streaming now!",
-  "num_followers": 8388,
+  "description": "In our Villain Era. We Are Lady Parts Season 2 is streaming now on Peacock in the US and Channel 4 in the UK!",
+  "num_followers": 8466,
   "original_name": "We Are Lady Parts",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZIsPxgAAAADytf/qfxq0LDAiCMhSIqGd",
+  "snapshot_id": "ZlnesAAAAACUlnXGaR2w1Wi4Q6dU3W8D",
   "tracks": [
+    {
+      "added_at": "2024-05-31 14:29:04",
+      "album": {
+        "name": "We Are Lady Parts (Music From The Original Series - Seasons 1 & 2)",
+        "url": "https://open.spotify.com/album/1maQuX5TLOHaphyAS3VNxd"
+      },
+      "artists": [
+        {
+          "name": "Lady Parts",
+          "url": "https://open.spotify.com/artist/7iUhEcWsFbgmPnxVE0ryxh"
+        }
+      ],
+      "duration_ms": 170016,
+      "name": "Villain Era",
+      "url": "https://open.spotify.com/track/5fd3nvTgHPxlrNQcy7LRJo"
+    },
+    {
+      "added_at": "2024-05-31 14:29:04",
+      "album": {
+        "name": "We Are Lady Parts (Music From The Original Series - Seasons 1 & 2)",
+        "url": "https://open.spotify.com/album/1maQuX5TLOHaphyAS3VNxd"
+      },
+      "artists": [
+        {
+          "name": "Second Wife",
+          "url": "https://open.spotify.com/artist/7E4HBoLT0n0VtGtiigfHCD"
+        }
+      ],
+      "duration_ms": 105324,
+      "name": "Bashir With The Good Beard",
+      "url": "https://open.spotify.com/track/4goJBeqtOJlHN0TsGHXemR"
+    },
+    {
+      "added_at": "2024-05-31 14:29:04",
+      "album": {
+        "name": "We Are Lady Parts (Music From The Original Series - Seasons 1 & 2)",
+        "url": "https://open.spotify.com/album/1maQuX5TLOHaphyAS3VNxd"
+      },
+      "artists": [
+        {
+          "name": "Lady Parts",
+          "url": "https://open.spotify.com/artist/7iUhEcWsFbgmPnxVE0ryxh"
+        }
+      ],
+      "duration_ms": 114940,
+      "name": "Malala Made Me Do It",
+      "url": "https://open.spotify.com/track/3iOprepulSuzUUGx3QRqP2"
+    },
+    {
+      "added_at": "2024-05-31 14:29:04",
+      "album": {
+        "name": "We Are Lady Parts (Music From The Original Series - Seasons 1 & 2)",
+        "url": "https://open.spotify.com/album/1maQuX5TLOHaphyAS3VNxd"
+      },
+      "artists": [
+        {
+          "name": "Lady Parts",
+          "url": "https://open.spotify.com/artist/7iUhEcWsFbgmPnxVE0ryxh"
+        }
+      ],
+      "duration_ms": 170023,
+      "name": "Oops!...I Did It Again",
+      "url": "https://open.spotify.com/track/46sQE3KuvY2Ijc7OkyHPz1"
+    },
+    {
+      "added_at": "2024-05-31 14:29:04",
+      "album": {
+        "name": "We Are Lady Parts (Music From The Original Series - Seasons 1 & 2)",
+        "url": "https://open.spotify.com/album/1maQuX5TLOHaphyAS3VNxd"
+      },
+      "artists": [
+        {
+          "name": "Faith Omole",
+          "url": "https://open.spotify.com/artist/12Jbzcytu8b8ny0lH0DrLm"
+        }
+      ],
+      "duration_ms": 126770,
+      "name": "Don't Let Me Be Misunderstood",
+      "url": "https://open.spotify.com/track/42pnf71ieLHOHdtCJ0CB3H"
+    },
+    {
+      "added_at": "2024-05-31 14:29:04",
+      "album": {
+        "name": "We Are Lady Parts (Music From The Original Series - Seasons 1 & 2)",
+        "url": "https://open.spotify.com/album/1maQuX5TLOHaphyAS3VNxd"
+      },
+      "artists": [
+        {
+          "name": "Lady Parts",
+          "url": "https://open.spotify.com/artist/7iUhEcWsFbgmPnxVE0ryxh"
+        }
+      ],
+      "duration_ms": 147273,
+      "name": "Glass Ceiling Feeling",
+      "url": "https://open.spotify.com/track/6HyGUC3e3TTfTIpzuwL3at"
+    },
+    {
+      "added_at": "2024-05-31 14:29:04",
+      "album": {
+        "name": "We Are Lady Parts (Music From The Original Series - Seasons 1 & 2)",
+        "url": "https://open.spotify.com/album/1maQuX5TLOHaphyAS3VNxd"
+      },
+      "artists": [
+        {
+          "name": "Elaha Soroor",
+          "url": "https://open.spotify.com/artist/3mQ5qiX3jHtEVFMq86xn53"
+        },
+        {
+          "name": "Shez Manzoor",
+          "url": "https://open.spotify.com/artist/7jfhzMSwMKC1rKxaJtosl2"
+        },
+        {
+          "name": "Haleemah X",
+          "url": "https://open.spotify.com/artist/1vWfq3MOH2kw1ZMqWqLA6g"
+        },
+        {
+          "name": "Lauriem Mompelat",
+          "url": "https://open.spotify.com/artist/1NCFeJPIiA2xlj88Ce6xlK"
+        },
+        {
+          "name": "Rasha Nahas",
+          "url": "https://open.spotify.com/artist/6kA597KeEKoghJHvQ92RYO"
+        },
+        {
+          "name": "Sai",
+          "url": "https://open.spotify.com/artist/0Wdj8Hevtm7FNFRQ6woJNX"
+        }
+      ],
+      "duration_ms": 236669,
+      "name": "Jama Narenji, The Undeniable & Nbeed",
+      "url": "https://open.spotify.com/track/5Ci2OKV00uh9qzpVWrtWSj"
+    },
+    {
+      "added_at": "2024-05-31 14:29:04",
+      "album": {
+        "name": "We Are Lady Parts (Music From The Original Series - Seasons 1 & 2)",
+        "url": "https://open.spotify.com/album/1maQuX5TLOHaphyAS3VNxd"
+      },
+      "artists": [
+        {
+          "name": "Lady Parts",
+          "url": "https://open.spotify.com/artist/7iUhEcWsFbgmPnxVE0ryxh"
+        }
+      ],
+      "duration_ms": 157497,
+      "name": "The Reason",
+      "url": "https://open.spotify.com/track/6pq38qUl9F59nc6Z8BhkHE"
+    },
     {
       "added_at": "2021-08-05 23:00:00",
       "album": {

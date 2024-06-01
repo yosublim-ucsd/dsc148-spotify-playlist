@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1T2fEo0ROQ2.md) - [plain]
 
 > Relaxing and salutary ambient music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 397,357 likes - 217 songs - 10 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 397,616 likes - 217 songs - 10 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -226,4 +226,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1T2fEo0ROQ2.md) - [plain]
 | 216 | [Suivez\-moi](https://open.spotify.com/track/1iUWhhQqt3vCxrMCZluokP) | [Charmaine D'Avis](https://open.spotify.com/artist/62nJsaKqTjBj5aHPE1RyqZ) | [Suivez\-moi](https://open.spotify.com/album/56Ic0KB997WaLyYWoDRu09) | 3:20 |
 | 217 | [Do We Really Know](https://open.spotify.com/track/4jIjpoq9FcHzJowwFBPYbg) | [Auxelia](https://open.spotify.com/artist/3IH62hlsEFxT7wDV7Sr3sj) | [Do We Really Know](https://open.spotify.com/album/0LRCtNt8B7iIolAz6y2Gxx) | 2:55 |
 
-Snapshot ID: `ZkPPSAAAAAD+VaIZHJ5pml9Q7pv32mxC`
+Snapshot ID: `Zli4qQAAAAB78CpS+pR5SK9xEu+NUqid`

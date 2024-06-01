@@ -1,12 +1,12 @@
 {
-  "description": "The cream of today's Country crop. Cover: Bailey Zimmerman",
-  "num_followers": 390009,
+  "description": "The cream of today's Country crop. Cover: Casey Barnes",
+  "num_followers": 390512,
   "original_name": "Fresh Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlATMwAAAADTWRUmgNivfGLhN9IKVhVu",
+  "snapshot_id": "ZliGYAAAAAB2h7fZpsZkpDdHRAADI8aq",
   "tracks": [
     {
       "added_at": "2024-05-24 04:10:27",
@@ -25,20 +25,56 @@
       "url": "https://open.spotify.com/track/4ZJ4vzLQekI0WntDbanNC7"
     },
     {
-      "added_at": "2024-05-24 04:10:27",
+      "added_at": "2024-05-30 14:00:00",
       "album": {
-        "name": "Ain't No Love In Oklahoma (From Twisters: The Album)",
-        "url": "https://open.spotify.com/album/7x1eLsPizad7dHnqCGQODx"
+        "name": "Never Left Me (From Twisters: The Album)",
+        "url": "https://open.spotify.com/album/7g8sRyHTnJBUuDb5VkzBP9"
       },
       "artists": [
         {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
         }
       ],
-      "duration_ms": 210950,
-      "name": "Ain't No Love In Oklahoma (From Twisters: The Album)",
-      "url": "https://open.spotify.com/track/6GG4yyk3UATdBfTHVgI8PB"
+      "duration_ms": 191657,
+      "name": "Never Left Me (From Twisters: The Album)",
+      "url": "https://open.spotify.com/track/3IuBfjh6U8r2K0a5sP8Lvf"
+    },
+    {
+      "added_at": "2024-05-30 14:00:00",
+      "album": {
+        "name": "Where I've Been, Isn't Where I'm Going",
+        "url": "https://open.spotify.com/album/0DLvFVIfwt3OHdK9kGeEM3"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        },
+        {
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+        }
+      ],
+      "duration_ms": 236012,
+      "name": "My Fault (feat. Noah Cyrus)",
+      "url": "https://open.spotify.com/track/3T3sbHYwPvhTCfEeUtvbMF"
+    },
+    {
+      "added_at": "2024-05-30 14:00:00",
+      "album": {
+        "name": "Mayday",
+        "url": "https://open.spotify.com/album/4XeQBxN9Kl4zcKE4mvYONx"
+      },
+      "artists": [
+        {
+          "name": "Casey Barnes",
+          "url": "https://open.spotify.com/artist/1WN3NClJsEUzhRjTLSpt60"
+        }
+      ],
+      "duration_ms": 165573,
+      "name": "Ain't No Better Buddy Than A Beer",
+      "url": "https://open.spotify.com/track/3kWQXNycSncL5bJfB6Z9zU"
     },
     {
       "added_at": "2024-05-24 04:10:27",
@@ -93,20 +129,20 @@
       "url": "https://open.spotify.com/track/6w7OpHp3Y3ByHzmfQXYCRN"
     },
     {
-      "added_at": "2024-05-24 04:10:27",
+      "added_at": "2024-05-30 14:00:00",
       "album": {
-        "name": "Can't Just Be Me",
-        "url": "https://open.spotify.com/album/7yV8AyLdPAquTjQ27qETI3"
+        "name": "New Me",
+        "url": "https://open.spotify.com/album/6iGj13T3EKBX8OSMrHBd5x"
       },
       "artists": [
         {
-          "name": "Vincent Mason",
-          "url": "https://open.spotify.com/artist/6QJ5CE7ujPr7oZCURhFZVS"
+          "name": "Josh Ross",
+          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
         }
       ],
-      "duration_ms": 197482,
-      "name": "Really Don't Love Me",
-      "url": "https://open.spotify.com/track/3m9mWLjQ7kkTZhzlc1OvTy"
+      "duration_ms": 173203,
+      "name": "New Me",
+      "url": "https://open.spotify.com/track/5ZSbOZAsbOWi7DNfpO1vqG"
     },
     {
       "added_at": "2024-05-24 04:10:27",
@@ -131,6 +167,38 @@
     {
       "added_at": "2024-05-24 04:10:27",
       "album": {
+        "name": "Ain't No Love In Oklahoma (From Twisters: The Album)",
+        "url": "https://open.spotify.com/album/7x1eLsPizad7dHnqCGQODx"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 210950,
+      "name": "Ain't No Love In Oklahoma (From Twisters: The Album)",
+      "url": "https://open.spotify.com/track/6GG4yyk3UATdBfTHVgI8PB"
+    },
+    {
+      "added_at": "2024-05-30 14:00:00",
+      "album": {
+        "name": "Sad Girl Summer",
+        "url": "https://open.spotify.com/album/5tRiNa7N3ILmcbx0EFaSse"
+      },
+      "artists": [
+        {
+          "name": "Maddie & Tae",
+          "url": "https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y"
+        }
+      ],
+      "duration_ms": 178307,
+      "name": "Sad Girl Summer",
+      "url": "https://open.spotify.com/track/5KnhMcUwUatvRHzIXQEVOG"
+    },
+    {
+      "added_at": "2024-05-24 04:10:27",
+      "album": {
         "name": "Through the Smoke",
         "url": "https://open.spotify.com/album/5rQ9bj7fCon5qGgve7QmzL"
       },
@@ -143,6 +211,22 @@
       "duration_ms": 196410,
       "name": "Wish I Never Felt",
       "url": "https://open.spotify.com/track/5Rhs0uawH5KuifdWtphGN2"
+    },
+    {
+      "added_at": "2024-05-30 14:00:00",
+      "album": {
+        "name": "Never Not Thinking",
+        "url": "https://open.spotify.com/album/4PCl9RyFYtdHzudU7gbOS1"
+      },
+      "artists": [
+        {
+          "name": "Alex Mather",
+          "url": "https://open.spotify.com/artist/5MtAaF6q3qHVfXfoUdBokw"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Never Not Thinking",
+      "url": "https://open.spotify.com/track/4E7UZAK0iJOwKWP8V92ZwW"
     },
     {
       "added_at": "2024-05-24 04:10:27",
@@ -163,18 +247,18 @@
     {
       "added_at": "2024-05-24 04:10:27",
       "album": {
-        "name": "Bruce County",
-        "url": "https://open.spotify.com/album/2LtmmDRoH27B1li1RRWYvp"
+        "name": "Can't Just Be Me",
+        "url": "https://open.spotify.com/album/7yV8AyLdPAquTjQ27qETI3"
       },
       "artists": [
         {
-          "name": "Owen Riegling",
-          "url": "https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu"
+          "name": "Vincent Mason",
+          "url": "https://open.spotify.com/artist/6QJ5CE7ujPr7oZCURhFZVS"
         }
       ],
-      "duration_ms": 224693,
-      "name": "Moonshines",
-      "url": "https://open.spotify.com/track/6OOVF3wtJ6Qj2fPPHcuzj5"
+      "duration_ms": 197482,
+      "name": "Really Don't Love Me",
+      "url": "https://open.spotify.com/track/3m9mWLjQ7kkTZhzlc1OvTy"
     },
     {
       "added_at": "2024-05-24 04:10:27",
@@ -193,20 +277,20 @@
       "url": "https://open.spotify.com/track/7uWM2ITKJdXGA6jjv50N0V"
     },
     {
-      "added_at": "2024-05-24 04:10:27",
+      "added_at": "2024-05-30 14:00:00",
       "album": {
-        "name": "A Bar Song (Tipsy)",
-        "url": "https://open.spotify.com/album/6egBeCLeGITzGSo5VyRjwZ"
+        "name": "Who You Did It With",
+        "url": "https://open.spotify.com/album/0fnNnH6wRaL8ih5rRra7Wj"
       },
       "artists": [
         {
-          "name": "Shaboozey",
-          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+          "name": "Max Jackson",
+          "url": "https://open.spotify.com/artist/6uxoiISyynknybWW6SQrTe"
         }
       ],
-      "duration_ms": 171291,
-      "name": "A Bar Song (Tipsy)",
-      "url": "https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf"
+      "duration_ms": 213000,
+      "name": "Who You Did It With",
+      "url": "https://open.spotify.com/track/3XnEch29DpBSD0YLGIzNP4"
     },
     {
       "added_at": "2024-05-24 04:10:27",
@@ -227,18 +311,34 @@
     {
       "added_at": "2024-05-24 04:10:27",
       "album": {
-        "name": "Locked Up",
-        "url": "https://open.spotify.com/album/1uZrgmt2depCIzzN0FxfIv"
+        "name": "Bruce County",
+        "url": "https://open.spotify.com/album/2LtmmDRoH27B1li1RRWYvp"
       },
       "artists": [
         {
-          "name": "Sam Hunt",
-          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
+          "name": "Owen Riegling",
+          "url": "https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu"
         }
       ],
-      "duration_ms": 214293,
-      "name": "Country House",
-      "url": "https://open.spotify.com/track/2DOxC6AdXlSeUrsgWKuX4X"
+      "duration_ms": 224693,
+      "name": "Moonshines",
+      "url": "https://open.spotify.com/track/6OOVF3wtJ6Qj2fPPHcuzj5"
+    },
+    {
+      "added_at": "2024-05-24 04:10:27",
+      "album": {
+        "name": "A Bar Song (Tipsy)",
+        "url": "https://open.spotify.com/album/6egBeCLeGITzGSo5VyRjwZ"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        }
+      ],
+      "duration_ms": 171291,
+      "name": "A Bar Song (Tipsy)",
+      "url": "https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf"
     },
     {
       "added_at": "2024-05-24 04:10:27",
@@ -263,6 +363,22 @@
     {
       "added_at": "2024-05-24 04:10:27",
       "album": {
+        "name": "Locked Up",
+        "url": "https://open.spotify.com/album/1uZrgmt2depCIzzN0FxfIv"
+      },
+      "artists": [
+        {
+          "name": "Sam Hunt",
+          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
+        }
+      ],
+      "duration_ms": 214293,
+      "name": "Country House",
+      "url": "https://open.spotify.com/track/2DOxC6AdXlSeUrsgWKuX4X"
+    },
+    {
+      "added_at": "2024-05-24 04:10:27",
+      "album": {
         "name": "Cold",
         "url": "https://open.spotify.com/album/6dSayYt3E6jPTp66PcXsrI"
       },
@@ -279,18 +395,34 @@
     {
       "added_at": "2024-05-24 04:10:27",
       "album": {
-        "name": "Real Good Cookin'",
-        "url": "https://open.spotify.com/album/4nCAdiW5a0XBGWRIpT0YEb"
+        "name": "Beautiful As You",
+        "url": "https://open.spotify.com/album/4vxNYdHwi4uGsgYDHlKLVG"
       },
       "artists": [
         {
-          "name": "Sweet Talk",
-          "url": "https://open.spotify.com/artist/6ZsvU0pOzv89XZ1FoBeSSi"
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
         }
       ],
-      "duration_ms": 211308,
-      "name": "Real Good Cookin'",
-      "url": "https://open.spotify.com/track/0Cm54OFxMpEjPCV8JoEGwZ"
+      "duration_ms": 163894,
+      "name": "Beautiful As You",
+      "url": "https://open.spotify.com/track/2ObBVRY8a2lnAkNG62u9eC"
+    },
+    {
+      "added_at": "2024-05-30 14:00:00",
+      "album": {
+        "name": "The Border",
+        "url": "https://open.spotify.com/album/6CHMRZ6vYXMvxRSC3acmFr"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 165306,
+      "name": "Kiss Me When You're Through",
+      "url": "https://open.spotify.com/track/72Z9rtqBAHGUGWkFu2DCnD"
     },
     {
       "added_at": "2024-05-24 04:10:27",
@@ -311,18 +443,18 @@
     {
       "added_at": "2024-05-24 04:10:27",
       "album": {
-        "name": "Beautiful As You",
-        "url": "https://open.spotify.com/album/4vxNYdHwi4uGsgYDHlKLVG"
+        "name": "Real Good Cookin'",
+        "url": "https://open.spotify.com/album/4nCAdiW5a0XBGWRIpT0YEb"
       },
       "artists": [
         {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+          "name": "Sweet Talk",
+          "url": "https://open.spotify.com/artist/6ZsvU0pOzv89XZ1FoBeSSi"
         }
       ],
-      "duration_ms": 163894,
-      "name": "Beautiful As You",
-      "url": "https://open.spotify.com/track/2ObBVRY8a2lnAkNG62u9eC"
+      "duration_ms": 211308,
+      "name": "Real Good Cookin'",
+      "url": "https://open.spotify.com/track/0Cm54OFxMpEjPCV8JoEGwZ"
     },
     {
       "added_at": "2024-05-24 04:10:27",
@@ -345,28 +477,12 @@
         },
         {
           "name": "Sarah Buckley",
-          "url": "https://open.spotify.com/artist/4o667HY6kn53qcgzJnjups"
+          "url": "https://open.spotify.com/artist/0Saq6SAvU4Zs7vV6XiBSho"
         }
       ],
       "duration_ms": 154564,
       "name": "Country Music Never Made More Sense",
       "url": "https://open.spotify.com/track/4XBwvFgIb6BkuSDwYHzLpg"
-    },
-    {
-      "added_at": "2024-05-24 04:10:27",
-      "album": {
-        "name": "The Avett Brothers",
-        "url": "https://open.spotify.com/album/3Z7vd5JXLArFxYz8PxT6Py"
-      },
-      "artists": [
-        {
-          "name": "The Avett Brothers",
-          "url": "https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q"
-        }
-      ],
-      "duration_ms": 187733,
-      "name": "Orion's Belt",
-      "url": "https://open.spotify.com/track/2k6rccSqgz95TpE7gaZuVj"
     },
     {
       "added_at": "2024-05-24 04:10:27",
@@ -383,6 +499,38 @@
       "duration_ms": 172551,
       "name": "Fiddle in the Band",
       "url": "https://open.spotify.com/track/5hkViySAjn0tMhLocH7ukQ"
+    },
+    {
+      "added_at": "2024-05-30 14:00:00",
+      "album": {
+        "name": "Love from Me",
+        "url": "https://open.spotify.com/album/3gY6tTnNsDuCNTrPoA5Lfw"
+      },
+      "artists": [
+        {
+          "name": "Nathan May",
+          "url": "https://open.spotify.com/artist/1MSZWYELfRVbVsRH9I8HdT"
+        }
+      ],
+      "duration_ms": 246733,
+      "name": "Love from Me",
+      "url": "https://open.spotify.com/track/3tWy2cmlXAVRHDLeP2a1Td"
+    },
+    {
+      "added_at": "2024-05-24 04:10:27",
+      "album": {
+        "name": "The Avett Brothers",
+        "url": "https://open.spotify.com/album/3Z7vd5JXLArFxYz8PxT6Py"
+      },
+      "artists": [
+        {
+          "name": "The Avett Brothers",
+          "url": "https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q"
+        }
+      ],
+      "duration_ms": 187733,
+      "name": "Orion's Belt",
+      "url": "https://open.spotify.com/track/2k6rccSqgz95TpE7gaZuVj"
     },
     {
       "added_at": "2024-05-24 04:10:27",
@@ -927,22 +1075,6 @@
     {
       "added_at": "2024-05-24 04:10:27",
       "album": {
-        "name": "White Horse",
-        "url": "https://open.spotify.com/album/5yeOXz3vHyMv8ySLEcCya7"
-      },
-      "artists": [
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        }
-      ],
-      "duration_ms": 267893,
-      "name": "White Horse",
-      "url": "https://open.spotify.com/track/7MSWxMumjz6lHj7oRApNbg"
-    },
-    {
-      "added_at": "2024-05-24 04:10:27",
-      "album": {
         "name": "Zach Bryan",
         "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
       },
@@ -971,22 +1103,6 @@
       "duration_ms": 177313,
       "name": "Complicated",
       "url": "https://open.spotify.com/track/3GtjS01mYbI1FGUr9xy29d"
-    },
-    {
-      "added_at": "2024-05-24 04:10:27",
-      "album": {
-        "name": "Ain\u2019t Thinkin\u2019 Bout You",
-        "url": "https://open.spotify.com/album/5uiGWVQ4E7oDrfUKkpb3Fj"
-      },
-      "artists": [
-        {
-          "name": "Greylan James",
-          "url": "https://open.spotify.com/artist/0obiwW8UEpyliJ4xhXqrra"
-        }
-      ],
-      "duration_ms": 150261,
-      "name": "Ain\u2019t Thinkin\u2019 Bout You",
-      "url": "https://open.spotify.com/track/7dmA9608TJjycVFNBeLtQZ"
     },
     {
       "added_at": "2024-05-24 04:10:27",
@@ -1095,22 +1211,6 @@
     {
       "added_at": "2024-05-24 04:10:27",
       "album": {
-        "name": "$10 Cowboy",
-        "url": "https://open.spotify.com/album/29H8rVCQG9uXLiT9hlH5za"
-      },
-      "artists": [
-        {
-          "name": "Charley Crockett",
-          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
-        }
-      ],
-      "duration_ms": 203295,
-      "name": "America",
-      "url": "https://open.spotify.com/track/63LVOsdT7bB52kCzNLsEPn"
-    },
-    {
-      "added_at": "2024-05-24 04:10:27",
-      "album": {
         "name": "I Ain't A Cowgirl",
         "url": "https://open.spotify.com/album/7vQmGhj7VW4TM4YeBN1nRW"
       },
@@ -1123,22 +1223,6 @@
       "duration_ms": 181148,
       "name": "I Ain't A Cowgirl",
       "url": "https://open.spotify.com/track/6TjRLpByCtpmatpCoFV9Na"
-    },
-    {
-      "added_at": "2024-05-24 04:10:27",
-      "album": {
-        "name": "Young, Dumb & Wild",
-        "url": "https://open.spotify.com/album/2EoVN0G04GgBVH1s1bXsPR"
-      },
-      "artists": [
-        {
-          "name": "Andy Golledge",
-          "url": "https://open.spotify.com/artist/74S6Bn5KTUQMqlVOVlTVxh"
-        }
-      ],
-      "duration_ms": 316778,
-      "name": "Siren",
-      "url": "https://open.spotify.com/track/0qNtQH5ocN5Md4DoqVU0JS"
     },
     {
       "added_at": "2024-05-24 04:10:27",
@@ -1207,22 +1291,6 @@
     {
       "added_at": "2024-05-24 04:10:27",
       "album": {
-        "name": "Leather",
-        "url": "https://open.spotify.com/album/5CLwcVp4tfZqwxHLr77dnY"
-      },
-      "artists": [
-        {
-          "name": "Cody Johnson",
-          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
-        }
-      ],
-      "duration_ms": 193986,
-      "name": "Leather",
-      "url": "https://open.spotify.com/track/5Z4RdNOVrxle5k7rHeaROb"
-    },
-    {
-      "added_at": "2024-05-24 04:10:27",
-      "album": {
         "name": "Everything",
         "url": "https://open.spotify.com/album/4InMmBXbvnfYt2fXckBIax"
       },
@@ -1235,42 +1303,6 @@
       "duration_ms": 158175,
       "name": "Everything",
       "url": "https://open.spotify.com/track/045YT1MAfeRSbtAxA2Vkyo"
-    },
-    {
-      "added_at": "2024-05-24 04:10:27",
-      "album": {
-        "name": "Matching Tattoos",
-        "url": "https://open.spotify.com/album/1mlkMoZYsAX8tvNnodHDFC"
-      },
-      "artists": [
-        {
-          "name": "Josh Ross",
-          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
-        }
-      ],
-      "duration_ms": 180181,
-      "name": "Matching Tattoos",
-      "url": "https://open.spotify.com/track/6Q0oVfhe6qYiwv6VNHhEAd"
-    },
-    {
-      "added_at": "2024-05-24 04:10:27",
-      "album": {
-        "name": "Zach Bryan",
-        "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        },
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 227195,
-      "name": "I Remember Everything (feat. Kacey Musgraves)",
-      "url": "https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG"
     },
     {
       "added_at": "2024-05-24 04:10:27",
@@ -1439,22 +1471,6 @@
     {
       "added_at": "2024-05-24 04:10:27",
       "album": {
-        "name": "Mayday",
-        "url": "https://open.spotify.com/album/0inaA4ttyipWBUij1V6Zq0"
-      },
-      "artists": [
-        {
-          "name": "Casey Barnes",
-          "url": "https://open.spotify.com/artist/1WN3NClJsEUzhRjTLSpt60"
-        }
-      ],
-      "duration_ms": 144735,
-      "name": "Mayday",
-      "url": "https://open.spotify.com/track/6xVpluBhiL9wMnNDy8FtzG"
-    },
-    {
-      "added_at": "2024-05-24 04:10:27",
-      "album": {
         "name": "NASHVILLE, TENNESSEE",
         "url": "https://open.spotify.com/album/4aD7IAPv6OlCGoYWrUJZ3K"
       },
@@ -1471,38 +1487,6 @@
       "duration_ms": 214708,
       "name": "I Went To College / I Went To Jail (feat. Jelly Roll)",
       "url": "https://open.spotify.com/track/7kKdZ6PNaVD4aqsA9jvnyv"
-    },
-    {
-      "added_at": "2024-05-24 04:10:27",
-      "album": {
-        "name": "Good News Sold",
-        "url": "https://open.spotify.com/album/0z3clvkLiQYa5q6bIcrODQ"
-      },
-      "artists": [
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        }
-      ],
-      "duration_ms": 203432,
-      "name": "Good News Sold",
-      "url": "https://open.spotify.com/track/2nK23mwuUUiJTx9efT9Lvb"
-    },
-    {
-      "added_at": "2024-05-24 04:10:27",
-      "album": {
-        "name": "Rich Men North of Richmond",
-        "url": "https://open.spotify.com/album/02X1cQOUcwYPxgFfqHeitI"
-      },
-      "artists": [
-        {
-          "name": "Oliver Anthony Music",
-          "url": "https://open.spotify.com/artist/6IkfE2JyVoKwBZXvuytKX3"
-        }
-      ],
-      "duration_ms": 187244,
-      "name": "Rich Men North of Richmond",
-      "url": "https://open.spotify.com/track/78Du4CMFgnhdlG33gblkiP"
     },
     {
       "added_at": "2024-05-24 04:10:27",

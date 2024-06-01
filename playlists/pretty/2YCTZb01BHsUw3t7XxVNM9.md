@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2YCTZb01BHsUw3t7XxVNM9.md) - [plain]
 
 > Western orientated Hardcore Music by Japanese Artists
 
-[Alice.SE](https://open.spotify.com/user/megustager) - 549 likes - 480 songs - 1 day 9 hr 31 min
+[Alice.SE](https://open.spotify.com/user/megustager) - 548 likes - 481 songs - 1 day 9 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -488,5 +488,6 @@ pretty - [cumulative](/playlists/cumulative/2YCTZb01BHsUw3t7XxVNM9.md) - [plain]
 | 478 | [Onyx](https://open.spotify.com/track/0VFgNc0WQzyHsrc3rmB0Pk) | [CANVAS](https://open.spotify.com/artist/4V7fWmLL91fiikyB9wEGdM), [Quimar](https://open.spotify.com/artist/6ZMSG6b8MEzGNaAFnzurRb), [RoughSketch](https://open.spotify.com/artist/0lYM4mCc6IhbmfGYpeNCyO) | [CRYSTAL BREATH](https://open.spotify.com/album/67dTbBe4yJrgLLDPMWwVsC) | 4:04 |
 | 479 | [Poem](https://open.spotify.com/track/6NSXJWewDoDWQnPG3hJimi) | [CANVAS](https://open.spotify.com/artist/4V7fWmLL91fiikyB9wEGdM), [RoughSketch](https://open.spotify.com/artist/0lYM4mCc6IhbmfGYpeNCyO), [Quimar](https://open.spotify.com/artist/6ZMSG6b8MEzGNaAFnzurRb) | [CARMINA](https://open.spotify.com/album/1J52fJBK6sV7nz1FXQ7dIQ) | 4:12 |
 | 480 | [Your Impression Is Mine](https://open.spotify.com/track/7jqaW54t0IJel6AL48p37h) | [RoughSketch](https://open.spotify.com/artist/0lYM4mCc6IhbmfGYpeNCyO) | [Your Impression Is Mine](https://open.spotify.com/album/1l5Q0fn975RQLhz6tcp4So) | 3:50 |
+| 481 | [This MUSIC](https://open.spotify.com/track/1kHIcjvUVJHZzkDMTq1chO) | [DJ Myosuke](https://open.spotify.com/artist/0GsEX8wr2fhu19PIwQh1oG) | [This MUSIC](https://open.spotify.com/album/2ovhGLU3Nl9njlrhAWh3Ez) | 3:10 |
 
-Snapshot ID: `AAACPnkywkbiCOk1SQUjV20gChh2P57g`
+Snapshot ID: `AAACP/oh+Shp4WkA0cwYcrwimnadsJWv`

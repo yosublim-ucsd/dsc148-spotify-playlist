@@ -4,7 +4,7 @@
 
 > Turnt mode means bangers only – Featuring Nardo Wick, Lil Tjay, Polo G &amp; more\. \| Hip\-Hop Hip Hop Rap Rappers Pre\-game Lit Pre game Pregame HipHop \| Cover: 21 Lil Harold
 
-496 songs - 23 hr 20 min
+498 songs - 23 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Bag Talk](https://open.spotify.com/track/6Y95jrYOOWDkh7uO6PSDBT) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Bag Talk](https://open.spotify.com/album/3jDmDOYQ3fN2XDqO9euRD5) | 2:27 | 2022-10-28 | 2024-02-24 |
 | [Balance \(feat\. Skillibeng\)](https://open.spotify.com/track/6DWsAyAZdQe478O3vQyvmK) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Balance \(feat\. Skillibeng\)](https://open.spotify.com/album/75liolcLZGv2M5gobKgFWk) | 3:23 | 2024-02-23 |  |
 | [ball w/o you](https://open.spotify.com/track/4UW4GsTVETXP2mzXfMT2iC) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [i am > i was \(Deluxe\)](https://open.spotify.com/album/6guJZpZ52v4MrJKIH7tASl) | 3:15 | 2024-02-23 |  |
+| [BAND4BAND \(feat\. Lil Baby\)](https://open.spotify.com/track/7iabz12vAuVQYyekFIWJxD) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [BAND4BAND \(feat\. Lil Baby\)](https://open.spotify.com/album/4AzPr5SUpNF553eC1d3aRy) | 2:20 | 2024-05-31 |  |
 | [Bang The Bus](https://open.spotify.com/track/3HJ8qcX2TGkpZB2hE2oxhr) | [Maxo Kream](https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv) | [Bang The Bus](https://open.spotify.com/album/5hMTZQ9sh9Zuc7rq5GO4PE) | 2:56 | 2024-02-23 |  |
 | [Bank Account](https://open.spotify.com/track/5eqK0tbzUPo2SoeZsov04s) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Issa Album](https://open.spotify.com/album/4skCiJhVVSKrDOBtoFbsxU) | 3:40 | 2024-02-23 |  |
 | [Barely Holdin' On](https://open.spotify.com/track/7kSBvPr9it26XjylB5LJkx) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Barely Holdin' On](https://open.spotify.com/album/7A9wYUkASCE7q4z0kGPGEA) | 2:53 | 2023-08-18 | 2024-05-11 |
@@ -200,6 +201,7 @@
 | [Grown Man](https://open.spotify.com/track/5VKG8ary0JW6iKemhmznzS) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Southside](https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN) | [Grown Man](https://open.spotify.com/album/282shVOXRHSfBqexKhADTN) | 1:46 | 2023-03-31 | 2024-02-24 |
 | [gun smoke](https://open.spotify.com/track/1VXVS7GZN9yfbzaWcWq2eo) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [i am > i was \(Deluxe\)](https://open.spotify.com/album/6guJZpZ52v4MrJKIH7tASl) | 2:47 | 2024-01-19 | 2024-02-24 |
 | [HE HE](https://open.spotify.com/track/6EYuyAZwkczXFjySjHzI5R) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx) | [NO ONE'S NICE TO ME](https://open.spotify.com/album/5YvgvpgACOjrJHe7LFqJhc) | 2:31 | 2024-02-23 |  |
+| [Help Me](https://open.spotify.com/track/487JCvAXVblflZyDJn3fSp) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi) | [Help Me](https://open.spotify.com/album/01JuX8fEX5ACudymzCB3O3) | 3:01 | 2024-05-31 |  |
 | [Here I Come](https://open.spotify.com/track/24JTap3Y2LHb3icc5iIkNj) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB) | [Here I Come](https://open.spotify.com/album/5yEN89IGBwa3y0tP2qWAnK) | 1:48 | 2022-11-18 | 2024-02-24 |
 | [Hereditary](https://open.spotify.com/track/2o4WQuvNngbgJhuffKICR4) | [Teflon Zay](https://open.spotify.com/artist/3AFIv9mCacdqjnxIebQhbS) | [Hereditary](https://open.spotify.com/album/0Qvtiu3TAfa82aSfGfuUDZ) | 2:42 | 2023-04-28 | 2024-02-24 |
 | [Hey Baby \(Drop It to the Floor\) \(feat\. T\-Pain\)](https://open.spotify.com/track/3rfhI32Il2hVRKDkuGeeen) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Planet Pit \(Deluxe Version\)](https://open.spotify.com/album/4rG0MhkU6UojACJxkMHIXB) | 3:54 | 2023-07-28 | 2024-02-24 |

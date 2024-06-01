@@ -4,7 +4,7 @@
 
 > Uptempo instrumental hip hop beats.
 
-916 songs - 1 day 11 hr 37 min
+918 songs - 1 day 11 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -228,7 +228,7 @@
 | [Fandango](https://open.spotify.com/track/69Q3BvKjpIeCJkCcvPxs7R) | [MAGICMINT](https://open.spotify.com/artist/7j9F86nfXHaXafSysyXi2w) | [Fandango](https://open.spotify.com/album/4cZZmm6GTU65XQGffLWeaS) | 2:07 | 2022-04-15 |  |
 | [Far East](https://open.spotify.com/track/6PQdebTH2xQn4mURkNP4IU) | [Darren Spice](https://open.spotify.com/artist/6DR7b1QU9VjGiJlBEAtkvT) | [Far East](https://open.spotify.com/album/0FTsRS7Jn5xpr3evrJpPsV) | 2:04 | 2023-10-13 |  |
 | [Fata Morgana](https://open.spotify.com/track/4jp6nKSAlXekExPEsuD6PL) | [Lynde](https://open.spotify.com/artist/6TstGTgiRM3jW0LaUeG61d), [Carabide](https://open.spotify.com/artist/0wNoA8QqgWPT80bU8sVrJS) | [Fata Morgana](https://open.spotify.com/album/14BqjcqldN7FhDeYaQe5Oy) | 1:46 | 2022-05-13 | 2023-10-13 |
-| [Feel It](https://open.spotify.com/track/5v5dGnAsmO0S2K06Rjf8DH) | [Ionized Beats Inc.](https://open.spotify.com/artist/5aa7iCxQ4ZZGlSBaSe9bXf) | [Feel It](https://open.spotify.com/album/6jUCDE1rASYEcpc1k42kUp) | 2:11 | 2024-03-22 |  |
+| [Feel It](https://open.spotify.com/track/5v5dGnAsmO0S2K06Rjf8DH) | [Ionized Beats Inc.](https://open.spotify.com/artist/5aa7iCxQ4ZZGlSBaSe9bXf) | [Feel It](https://open.spotify.com/album/6jUCDE1rASYEcpc1k42kUp) | 2:11 | 2024-03-22 | 2024-06-01 |
 | [Feel Something](https://open.spotify.com/track/3zSfNWdoWlvKylST7NXs1Y) | [Korey Wade](https://open.spotify.com/artist/5EMhnsc8XoFAR7Cpb8TjPv), [Brunch Collect](https://open.spotify.com/artist/0kAzoeOzrlScAtTLUy613u) | [Feel Something](https://open.spotify.com/album/36z0xfW0euKDfGCfcbmDFy) | 2:02 | 2022-12-16 | 2023-11-24 |
 | [Feelin'](https://open.spotify.com/track/3CTAJlaC50aDkUUmZtewWp) | [Konteks](https://open.spotify.com/artist/38lJ5B9ZBk3zsRKEf3oG2R) | [Feelin'](https://open.spotify.com/album/0OiKNfuaINRWoMkEBH8VhT) | 2:23 | 2022-05-13 | 2023-11-17 |
 | [Fine Wine](https://open.spotify.com/track/5amlvBPMvmgPxxcJhkpXHN) | [Arlos](https://open.spotify.com/artist/5PU5cwPems7pVldrGo4Bs5) | [Street Lights](https://open.spotify.com/album/0TeWAJONgq6SVHVd6KtwIb) | 2:53 | 2022-04-15 | 2022-09-03 |
@@ -334,6 +334,7 @@
 | [I loff you](https://open.spotify.com/track/7yfaO25yXHqLsQVZuAP214) | [IzaBeats](https://open.spotify.com/artist/4DtFzX8vn47Rdc5c4fHcEk) | [I loff you](https://open.spotify.com/album/08YlwEjC8omTL6IM2rpvAp) | 1:56 | 2022-04-15 | 2023-10-06 |
 | [I'm Out](https://open.spotify.com/track/50oE6KjOO1CrikNQ7DTlS1) | [Glass Globe](https://open.spotify.com/artist/0crpGDMvXANXQ6wyjkcDzu) | [Home Alone](https://open.spotify.com/album/1BcrJRI3FXOpFqxUUeoXeN) | 2:02 | 2022-04-15 | 2023-07-20 |
 | [I.](https://open.spotify.com/track/6A5EYxkV7gzZv3PW96u3Jf) | [Seb Zillner](https://open.spotify.com/artist/7JbVYHCk4gezX4sZTFW50x), [A N T I T H E S I S](https://open.spotify.com/artist/1sbuH2QadilkAzCOOrjHuf) | [I.](https://open.spotify.com/album/0vBKiSgFfpnnAD37wjuicI) | 2:07 | 2022-04-22 | 2022-12-10 |
+| [IAH](https://open.spotify.com/track/1N9Bw73tG0owhecdbSTENt) | [Jaeden Camstra](https://open.spotify.com/artist/1xOgtDBKnZvSLAgCVSOmNH) | [Shanghai 2004](https://open.spotify.com/album/38iWAh9jYsGlOYpqsG82lA) | 1:28 | 2024-05-29 |  |
 | [If You Want Me To Stay](https://open.spotify.com/track/6ppxI6qxTQnyJlpoBoDdBA) | [Lofitic](https://open.spotify.com/artist/6oBQKbykqoZPrX8ebzX8ZM) | [If You Want Me To Stay](https://open.spotify.com/album/2axBvm9VWTwYhCGXa7Iq3J) | 2:19 | 2022-04-22 | 2023-10-13 |
 | [Ilene](https://open.spotify.com/track/0Y5hAGvfwXoQnjWEd90ju2) | [Blutone](https://open.spotify.com/artist/6C3HjDxIciOd8XvkEnNamY) | [Sharingan](https://open.spotify.com/album/5ISSZnA4V8C7eCia0WIhsY) | 2:09 | 2022-04-15 |  |
 | [Illjazz](https://open.spotify.com/track/6Nf3WJHF1ZCya9gwD55NwD) | [Lamar Azul](https://open.spotify.com/artist/3dW0pC8Ra3zhpntjvBbD34) | [Illjazz](https://open.spotify.com/album/3zh3LrNpLIKuNr2aI5FCsS) | 2:27 | 2022-12-16 | 2023-09-22 |
@@ -653,7 +654,7 @@
 | [Salty Spears](https://open.spotify.com/track/6ZmBhY7KvNRg7ohYNyIgCK) | [Pickle Bits](https://open.spotify.com/artist/2KOou75brQkBcUrNhPtC1s) | [Salty Spears](https://open.spotify.com/album/1yVbF1CJghhfNg5ROV8ceF) | 2:16 | 2023-11-24 |  |
 | [Samurai](https://open.spotify.com/track/2AXqiVRL9dhZ47IDPiGR6H) | [Mr OCB](https://open.spotify.com/artist/1RorScxoqHkBchQcufPdTl) | [Samurai](https://open.spotify.com/album/02SYmFC9xbKeUG1IBwPxSc) | 2:40 | 2022-04-15 | 2022-06-17 |
 | [Sand Dunes](https://open.spotify.com/track/0eRz1q2Wl8UpKDl45UiZZQ) | [The Precocious Birds](https://open.spotify.com/artist/5oLT0V8Xp31OtLkLvUH07U) | [Good Morning](https://open.spotify.com/album/0VnIOAwK9IyAsNc1HXqEHs) | 3:21 | 2022-04-15 | 2022-05-20 |
-| [sandcastles](https://open.spotify.com/track/2J0Rj3cOl6EfTGI5D0FA6p) | [Blueor](https://open.spotify.com/artist/6K6SjptdGOH6RrL9ggstwY), [ZARG](https://open.spotify.com/artist/40PThXuHI1P1mrSb6MPD3z), [CHG](https://open.spotify.com/artist/19wrYTgQ1HpOBX5cjB58tl) | [sandcastles](https://open.spotify.com/album/1LN7ORFTpSy9ZpnsflxqPN) | 1:45 | 2022-08-12 |  |
+| [sandcastles](https://open.spotify.com/track/2J0Rj3cOl6EfTGI5D0FA6p) | [Blueor](https://open.spotify.com/artist/6K6SjptdGOH6RrL9ggstwY), [ZARG](https://open.spotify.com/artist/40PThXuHI1P1mrSb6MPD3z), [CHG](https://open.spotify.com/artist/19wrYTgQ1HpOBX5cjB58tl) | [sandcastles](https://open.spotify.com/album/1LN7ORFTpSy9ZpnsflxqPN) | 1:45 | 2022-08-12 | 2024-06-01 |
 | [Sandhamn](https://open.spotify.com/track/77ZSl1MSbASVgW5DOGCMN9) | [Rosemary beats](https://open.spotify.com/artist/1W56U3ujxXcEVxnavW4vJ8) | [Sandhamn](https://open.spotify.com/album/3rYpgmBjwPUtHKTntCFHvX) | 2:50 | 2022-09-09 | 2024-05-28 |
 | [Saturation](https://open.spotify.com/track/1zyNkrQFVLwjl1Jg4MZHuK) | [Luc Delvaux](https://open.spotify.com/artist/0TtVPA9JL5p8Yqr7guSEn0) | [Saturation](https://open.spotify.com/album/5d0Imi2PYaZIhzFe6Sn4CN) | 1:52 | 2022-04-15 | 2022-10-29 |
 | [Saturday Afternoon](https://open.spotify.com/track/5GSoiFJwXZY3DfPDkVHwS6) | [Sweet Oscar](https://open.spotify.com/artist/7hwWfUVrKczeyLavJykzzL), [soave lofi](https://open.spotify.com/artist/0QuTX3mzksvtwoQru6tiF8) | [Back Alley Conversations](https://open.spotify.com/album/4JetmNvKwzrCbsIKyliwPp) | 2:01 | 2022-04-15 | 2022-06-10 |
@@ -868,6 +869,7 @@
 | [volaplano](https://open.spotify.com/track/3BUng8CnQavbNL9uDbUe4M) | [Atiø](https://open.spotify.com/artist/5KNCtLgN5682p529MZ2N3n) | [volaplano](https://open.spotify.com/album/1glAViCRZ1n24UHHQ7Lk6t) | 1:47 | 2022-07-08 | 2022-12-10 |
 | [Voluptus](https://open.spotify.com/track/5qK78cZFZkgLhJLs8sEnO9) | [Blue Zombie](https://open.spotify.com/artist/0mDo37vCl8CEDEIhuBMr6x) | [Week Line](https://open.spotify.com/album/5SFXZFbi6A8VIFgd6wZror) | 1:49 | 2022-04-15 |  |
 | [Vueltas](https://open.spotify.com/track/1eVE0xK0vChhI2Ey8vEN0s) | [Sam Cross](https://open.spotify.com/artist/4RY9rfaEmLMXM3RaVC4HLd), [Kebyn Moon](https://open.spotify.com/artist/1RdlOYPsbV6HIoQaoKmYlV) | [Vueltas](https://open.spotify.com/album/0GnzcCxFuBmx7VWXnHbLUK) | 1:55 | 2022-09-23 | 2023-11-17 |
+| [Vulkán](https://open.spotify.com/track/1HmRdmNEXUJtxQ0Sw2Sa1d) | [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds) | [Vulkán](https://open.spotify.com/album/2BAcDgcs2TDG41gXVkpjg9) | 1:33 | 2024-05-29 |  |
 | [Wait For Spring](https://open.spotify.com/track/65RlTv8r06C7Jm5sDMbyu4) | [Fya Playce](https://open.spotify.com/artist/7M7ryKqUcnn2r0F08gYuxr) | [Wait For Spring](https://open.spotify.com/album/7hg2K3g4W5nenATGKbzlHx) | 2:09 | 2023-10-06 |  |
 | [Wake up early](https://open.spotify.com/track/70ILhZLYGwOdy89qcgukNt) | [MC](https://open.spotify.com/artist/0DyoPw1p8N3GheQzvjt7x5) | [Wake up early](https://open.spotify.com/album/6cuwMMluBEGhHasOPbWl7k) | 2:20 | 2022-12-23 | 2023-12-08 |
 | [wandsworth park](https://open.spotify.com/track/4fWFGd70ErhNWIr3B1caod) | [flowtide](https://open.spotify.com/artist/1krCmhhTo8H7k8YxKoKpbv) | [wandsworth park](https://open.spotify.com/album/3uTFiBnVfCwU8mOaPtpqOb) | 1:47 | 2022-04-15 |  |

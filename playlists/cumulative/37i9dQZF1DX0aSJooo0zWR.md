@@ -4,7 +4,7 @@
 
 > Electrified jazz, complex beats and virtuoso playing\. Cover: Chick Corea
 
-166 songs - 16 hr 1 min
+167 songs - 16 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,7 @@
 | [Heather Grey \(BK Gritty\)](https://open.spotify.com/track/7x5Dul8CyNveFqG8j9p9LZ) | [NIKARA presents Black Wall Street](https://open.spotify.com/artist/3aKINS5KI279EKkNpHcMng), [Kenny Barron](https://open.spotify.com/artist/3LvX4UVIfEjsQVqrbBToQ3) | [NIKARA presents Black Wall Street](https://open.spotify.com/album/1ajCBcWKmPE52w4d0h0AhL) | 6:06 | 2021-11-12 |  |
 | [Hell's Bells](https://open.spotify.com/track/0DKvzig7rwfWTZ0gvb0Zfx) | [Bill Bruford](https://open.spotify.com/artist/1359ogdBoLfQGxKfUDfWaz) | [Master Strokes 1978\-1985](https://open.spotify.com/album/7dpEiWIjnz5K2RzOx6qIBl) | 3:34 | 2021-02-12 |  |
 | [Hullo Bolinas](https://open.spotify.com/track/6YxmY8tjb6nY0FPPYRjVFT) | [John Scofield](https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK), [Steve Swallow](https://open.spotify.com/artist/6mrjnfLYDl91oh10EIeKPV), [Bill Stewart](https://open.spotify.com/artist/6g23EYtQQXDz44soLZMS39) | [Hullo Bolinas](https://open.spotify.com/album/6bpFnGUbzA6UPdAtSTvw7T) | 4:11 | 2021-02-12 |  |
-| [Hunting Heads](https://open.spotify.com/track/5euz3r8UPd1b8YYstR3nDH) | [David Garfield](https://open.spotify.com/artist/3RPnyf7t9phTwwSzQgaZYb) | [Hunting Heads](https://open.spotify.com/album/3gkJk5kJkI9YPzAWtJP16E) | 7:02 | 2021-04-09 |  |
+| [Hunting Heads](https://open.spotify.com/track/5euz3r8UPd1b8YYstR3nDH) | [David Garfield](https://open.spotify.com/artist/3RPnyf7t9phTwwSzQgaZYb) | [Hunting Heads](https://open.spotify.com/album/3gkJk5kJkI9YPzAWtJP16E) | 7:02 | 2021-04-09 | 2024-06-01 |
 | [I Promise](https://open.spotify.com/track/3ZdtrWDu1HzzkOahFCVfbe) | [Ragawerk](https://open.spotify.com/artist/2JOH11zxXs5tmCroqDJgON), [Max Clouth](https://open.spotify.com/artist/7EHVLFAxz7VPpkyUqEt4y1) | [I Promise](https://open.spotify.com/album/1jfSnPmMMZWWK7BfTlEByQ) | 5:44 | 2022-08-12 |  |
 | [jiriki](https://open.spotify.com/track/63vIR3Bp9BiTuXqUTC64UM) | [Sokoband](https://open.spotify.com/artist/5AYESF2HxMlU0oMbhLOsmL) | [Sokoband](https://open.spotify.com/album/5NNkK4LPAccGITR29de0Zv) | 7:46 | 2021-02-12 |  |
 | [Jiriki](https://open.spotify.com/track/1sNuGiLGslnsJH0OqkTFyQ) | [Sokoband](https://open.spotify.com/artist/5AYESF2HxMlU0oMbhLOsmL), [Michael Sokolowski](https://open.spotify.com/artist/2CBMmC4HvGyoyXupTdRuNB), [Houston Ross](https://open.spotify.com/artist/5aplJ2wkOSmrr8ivOkvpGd), [Nir Z](https://open.spotify.com/artist/2qpwI9vixGXXmBQSpRhkgQ), [Steve Kimock](https://open.spotify.com/artist/24FikupxPEJvKoYu4MT92j), [Tim Reynolds](https://open.spotify.com/artist/7rvkQK7ZqO34sKsWEXjz3R) | [Sokoband](https://open.spotify.com/album/4yuh8xTs6GnhTLrjZ99hKb) | 7:46 | 2021-02-12 | 2024-04-19 |
@@ -116,6 +116,7 @@
 | [Nightfall](https://open.spotify.com/track/1KN1CFHNrWN7JzqeTtZobc) | [Mezzoforte](https://open.spotify.com/artist/53LlrTpfGrdZS8QyBUxrVs) | [Forward Motion](https://open.spotify.com/album/0HkcEF6u07liq5rG2llwRl) | 4:45 | 2021-02-12 |  |
 | [Nightfall](https://open.spotify.com/track/3x8WXagG37ONFz857YbeFe) | [Mezzoforte](https://open.spotify.com/artist/53LlrTpfGrdZS8QyBUxrVs) | [Forward Motion](https://open.spotify.com/album/6vAEljyy7bkYUYG5RYahVe) | 4:45 | 2021-02-12 | 2024-04-19 |
 | [Nuclear Burn](https://open.spotify.com/track/0aVwclUm2FsksllwpJRlaX) | [Brand X](https://open.spotify.com/artist/4DngluvBNHm2Q0rLW1yEqy) | [Unorthodox Behaviour](https://open.spotify.com/album/269fg0y6CZLjYoWgTiIad0) | 6:23 | 2021-02-12 |  |
+| [On the Edge](https://open.spotify.com/track/0I3MIGecXf6V65zpN6wFNX) | [Morgan\-Husband\-Feraud](https://open.spotify.com/artist/1OYWXZqZx03e8MOaG9EcNI) | [Morgan\|Husband\|Feraud: A Soul in Time](https://open.spotify.com/album/2aeRt6ildxq2MqvYaxQAjN) | 5:57 | 2024-05-31 |  |
 | [Once In A Lifetime](https://open.spotify.com/track/0grIjIErlVS7mukVwRPdt3) | [Vital Information](https://open.spotify.com/artist/3Yj6O9bVZeLkjr6tbbjY0f) | [Where We Come From](https://open.spotify.com/album/2CLIyBYocgzglmnG5BkD7r) | 10:43 | 2021-02-12 |  |
 | [Once in a Lifetime](https://open.spotify.com/track/3UQY3fQfBBGAXXca09ZZSG) | [Vital Information](https://open.spotify.com/artist/3Yj6O9bVZeLkjr6tbbjY0f) | [Where We Come From](https://open.spotify.com/album/3EKESvGjA7ebERa5rv0A6w) | 10:43 | 2023-08-14 | 2024-04-19 |
 | [One Day](https://open.spotify.com/track/1QJuEcbNibz1gw7YL96xwn) | [Yellowjackets](https://open.spotify.com/artist/1zHPRenzLeI2vhT7nlR6Mq), [WDR Big Band](https://open.spotify.com/artist/5oldzkZrHypxJpr1ri05Fu) | [Jackets XL](https://open.spotify.com/album/3OeeKfK9hNDe57rF9FVI7u) | 6:32 | 2021-02-12 | 2023-08-15 |

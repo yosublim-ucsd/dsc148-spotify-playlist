@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "The coldest sounds in hip-hop, coming out of Canada. Cover: SadBoi",
+  "description": "The coldest sounds in hip-hop, coming out of Canada. Cover: Jessie Reyez & Big Sean",
   "name": "Northern Bars",
   "tracks": [
     {
@@ -296,6 +296,32 @@
       "duration_ms": 128000,
       "name": "24FRAMES",
       "url": "https://open.spotify.com/track/59MZLqS2vl8qxz11Kr5pM6"
+    },
+    {
+      "album": {
+        "name": "25 Bricks",
+        "url": "https://open.spotify.com/album/0GwIf7bKlu0zPL30oeQS5U"
+      },
+      "artists": [
+        {
+          "name": "Tona",
+          "url": "https://open.spotify.com/artist/6q8LiFdCehhaItyNf5yHSN"
+        },
+        {
+          "name": "Asun Eastwood",
+          "url": "https://open.spotify.com/artist/49q2aDR2KWUnAQlXz1d9k2"
+        },
+        {
+          "name": "Rvlr Magz",
+          "url": "https://open.spotify.com/artist/7teV8lDpDED8JKPLfMrHLN"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238846,
+      "name": "25 Bricks",
+      "url": "https://open.spotify.com/track/7tCGcmVVa6Stx6VUo6FePs"
     },
     {
       "album": {
@@ -2134,7 +2160,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 109879,
       "name": "Babe Ruth",
       "url": "https://open.spotify.com/track/7nIXIgN0lx8YsEx6UbL0ue"
@@ -3254,7 +3280,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 211984,
       "name": "Big Piranhas",
       "url": "https://open.spotify.com/track/10wwTjzJ9tv6f9aJFkcmuY"
@@ -4832,7 +4858,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 185312,
       "name": "Champions",
       "url": "https://open.spotify.com/track/6olD9vxnf4n3NtRUP6jscT"
@@ -5954,6 +5980,24 @@
       "duration_ms": 169704,
       "name": "D.W.M",
       "url": "https://open.spotify.com/track/4Q2WTrni2tQqUYIiOhY83g"
+    },
+    {
+      "album": {
+        "name": "DaLouIsBack",
+        "url": "https://open.spotify.com/album/3hikpXw8GNMNLXt7AE3P9U"
+      },
+      "artists": [
+        {
+          "name": "Lou Phelps",
+          "url": "https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157201,
+      "name": "DaLouIsBack",
+      "url": "https://open.spotify.com/track/5jafVvuIwlLw0cOpqysPg8"
     },
     {
       "album": {
@@ -9344,7 +9388,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 122416,
       "name": "FR33ZING",
       "url": "https://open.spotify.com/track/6ewQpZk8Trp0b7MWqaegc6"
@@ -13667,6 +13711,28 @@
     },
     {
       "album": {
+        "name": "KALEIDOSCOPE (feat. Travis Thompson)",
+        "url": "https://open.spotify.com/album/01tOQrm12lW4OXCHuPsGEO"
+      },
+      "artists": [
+        {
+          "name": "Snotty Nose Rez Kids",
+          "url": "https://open.spotify.com/artist/16T3el1CEjX49qFA7UT2n5"
+        },
+        {
+          "name": "Travis Thompson",
+          "url": "https://open.spotify.com/artist/6WZfEqqsYujHTUDuNd5Lbc"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233267,
+      "name": "KALEIDOSCOPE (feat. Travis Thompson)",
+      "url": "https://open.spotify.com/track/3eSElYs735MuCi85mRzItQ"
+    },
+    {
+      "album": {
         "name": "Karma (Feet Cold)",
         "url": "https://open.spotify.com/album/4kex77M3Znlj3za5099jfR"
       },
@@ -13864,7 +13930,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 132771,
       "name": "Khutti",
       "url": "https://open.spotify.com/track/3Jd1yxcUQLdfBJcsxFtYzj"
@@ -15501,6 +15567,32 @@
     },
     {
       "album": {
+        "name": "M.I.A",
+        "url": "https://open.spotify.com/album/2pPkjMsmsw144Il11DvPAs"
+      },
+      "artists": [
+        {
+          "name": "AR Paisley",
+          "url": "https://open.spotify.com/artist/4CqzwlyoNSvoGeMk7NiMhd"
+        },
+        {
+          "name": "Ali Gatie",
+          "url": "https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T"
+        },
+        {
+          "name": "Jay Trak",
+          "url": "https://open.spotify.com/artist/47SaOSOqcrxSJNZUuqpLuu"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128337,
+      "name": "M.I.A",
+      "url": "https://open.spotify.com/track/4r7pq14ALrNSXTdIDNj0D0"
+    },
+    {
+      "album": {
         "name": "MACHINERY",
         "url": "https://open.spotify.com/album/2ioNPoNMzgUjEZFBiOUtVU"
       },
@@ -15800,6 +15892,32 @@
       "duration_ms": 191278,
       "name": "Making It Count",
       "url": "https://open.spotify.com/track/5Ka6Poj4OML0qtuUjS0dYW"
+    },
+    {
+      "album": {
+        "name": "96 Miles From Bethlehem",
+        "url": "https://open.spotify.com/album/5HsenIoBRibaDNJr1g5ekb"
+      },
+      "artists": [
+        {
+          "name": "Belly",
+          "url": "https://open.spotify.com/artist/0FOWNUFHPnMy0vOw1siGqi"
+        },
+        {
+          "name": "Elyanna",
+          "url": "https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g"
+        },
+        {
+          "name": "MC Abdul",
+          "url": "https://open.spotify.com/artist/2gr50NWFuNsweefgZzVb2E"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208608,
+      "name": "Maktub",
+      "url": "https://open.spotify.com/track/5TtFmWqvNyf8PzYZWd8zmQ"
     },
     {
       "album": {
@@ -16716,6 +16834,36 @@
       "duration_ms": 87030,
       "name": "More Plays",
       "url": "https://open.spotify.com/track/6dXAFJ9aOTWoGMWV8Ur8fv"
+    },
+    {
+      "album": {
+        "name": "Perdu in Peru",
+        "url": "https://open.spotify.com/album/4FVHGcaBppCbn7AmAUSkK6"
+      },
+      "artists": [
+        {
+          "name": "CHUNG",
+          "url": "https://open.spotify.com/artist/3JaOZg9OeS0sOnwz9MtvOe"
+        },
+        {
+          "name": "perutheproducer",
+          "url": "https://open.spotify.com/artist/7HZgGgNEM5zlE19qV12YWK"
+        },
+        {
+          "name": "UZA",
+          "url": "https://open.spotify.com/artist/3yeSAlkAYcOAEctpmDnGSB"
+        },
+        {
+          "name": "Santana Fox",
+          "url": "https://open.spotify.com/artist/3Vf419jAcwcs2SQPPtf9ga"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178604,
+      "name": "More Than a Lova",
+      "url": "https://open.spotify.com/track/3t2cCAri8L6w5pH4OlhqQf"
     },
     {
       "album": {
@@ -21451,6 +21599,24 @@
     },
     {
       "album": {
+        "name": "REAPER",
+        "url": "https://open.spotify.com/album/0QBVLVwvWOuOh43Xa6ulWR"
+      },
+      "artists": [
+        {
+          "name": "KILLY",
+          "url": "https://open.spotify.com/artist/0gCGZZ1Ibo5QsOnll977PD"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148778,
+      "name": "REAPER",
+      "url": "https://open.spotify.com/track/2o5IL92ydsnoWAIdKafhw3"
+    },
+    {
+      "album": {
         "name": "Rebound",
         "url": "https://open.spotify.com/album/2pKzO7f0BMcqyUIHdiwkvF"
       },
@@ -23078,7 +23244,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 134945,
       "name": "Seeing Stars",
       "url": "https://open.spotify.com/track/48DMQ9Ty03yR3v11S2fV8A"
@@ -23274,7 +23440,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 179568,
       "name": "SHINE (with SiR)",
       "url": "https://open.spotify.com/track/79cQ8BxtYKsb8nAp8LfcZB"
@@ -23456,6 +23622,28 @@
       "duration_ms": 195100,
       "name": "SHROOMIN",
       "url": "https://open.spotify.com/track/3W3hwB9tQrfuPQZsQeh5MN"
+    },
+    {
+      "album": {
+        "name": "SHUT UP (feat. Big Sean)",
+        "url": "https://open.spotify.com/album/0HJkeNGduh6GjotFc7JiVy"
+      },
+      "artists": [
+        {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        },
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143120,
+      "name": "SHUT UP (feat. Big Sean)",
+      "url": "https://open.spotify.com/track/3qfvE0wc0N6Rhu8pnW6Tss"
     },
     {
       "album": {
@@ -25088,7 +25276,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 153070,
       "name": "Supply & Demand",
       "url": "https://open.spotify.com/track/6kxQ5mO8YEIRLcIHJKWWcU"

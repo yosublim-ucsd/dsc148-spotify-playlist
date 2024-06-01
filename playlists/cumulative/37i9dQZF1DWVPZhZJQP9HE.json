@@ -2409,6 +2409,28 @@
     },
     {
       "album": {
+        "name": "Flowla Povom (Rerelease)",
+        "url": "https://open.spotify.com/album/4x7j4qp4Fwu7uAFyOwAxWc"
+      },
+      "artists": [
+        {
+          "name": "Vetti Payan Venkat",
+          "url": "https://open.spotify.com/artist/6ZeZplJoeBHwk1MwpIj18e"
+        },
+        {
+          "name": "Santhosh Arumugam",
+          "url": "https://open.spotify.com/artist/3arPP9VYEaY6BV2Ekw3McO"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236800,
+      "name": "Flowla Povom (Rerelease)",
+      "url": "https://open.spotify.com/track/1W7bqk1ugI4pAf86WwQ1Na"
+    },
+    {
+      "album": {
         "name": "Gandhari (Tamil)",
         "url": "https://open.spotify.com/album/0xlkH2wMrUW0Xzy09fE6bo"
       },
@@ -3154,7 +3176,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 356917,
       "name": "Iru Manam",
       "url": "https://open.spotify.com/track/40iXnqTO0GMjqvOkymdgJt"
@@ -6440,7 +6462,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 173831,
       "name": "Nambathey",
       "url": "https://open.spotify.com/track/46LeIMhRc7LVMd4dgo6GDR"
@@ -6934,6 +6956,32 @@
       "duration_ms": 178624,
       "name": "Neram Varum",
       "url": "https://open.spotify.com/track/5uGTmAoGUufR6L6a4dmmTS"
+    },
+    {
+      "album": {
+        "name": "Nerukki Nerukki",
+        "url": "https://open.spotify.com/album/0WFwihUhzu1pdbSz14lkMY"
+      },
+      "artists": [
+        {
+          "name": "Vibin R",
+          "url": "https://open.spotify.com/artist/0OulX4ldeTcToneJjxEF91"
+        },
+        {
+          "name": "Adithya RK",
+          "url": "https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm"
+        },
+        {
+          "name": "Vignesh Ramakrishna",
+          "url": "https://open.spotify.com/artist/5hMqWI3uRKI3hVaSVjgBvu"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240300,
+      "name": "Nerukki Nerukki",
+      "url": "https://open.spotify.com/track/3yuUQ3PRY1qf3OiMfds7al"
     },
     {
       "album": {
@@ -9794,7 +9842,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 330731,
       "name": "Thamarai Poovilum",
       "url": "https://open.spotify.com/track/1Rs4zHwr6JWFyHKj0ucv4K"
@@ -10342,7 +10390,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 265250,
       "name": "Ulaa",
       "url": "https://open.spotify.com/track/1xmwh2Q8tPaj7qWCRwP0ej"
@@ -10726,7 +10774,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 289608,
       "name": "Vaa En Uyire",
       "url": "https://open.spotify.com/track/4ENAMXXs65X9nBZeJNWDo7"
@@ -11260,7 +11308,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 202085,
       "name": "Vengai Penne",
       "url": "https://open.spotify.com/track/5l2kfVTuAkV7Fh3e98XmeT"

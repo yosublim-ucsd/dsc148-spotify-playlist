@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Mu\u00e9vete al ritmo de las Cumbias! \nCover: Nicki Nicole",
-  "num_followers": 272544,
+  "num_followers": 272594,
   "original_name": "Super Cumbias",
   "owner": {
     "name": "Spotify",
@@ -67,6 +67,26 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
+        "name": "JUGANDO A QUE NO PASA NADA",
+        "url": "https://open.spotify.com/album/4j58S9wNTTLgllMslsSMhk"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 209492,
+      "name": "POR QU\u00c9 SER\u00c1",
+      "url": "https://open.spotify.com/track/7cXGHxIoogqDTvbuLj0dsO"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
         "name": "Las Mujeres Ya No Lloran",
         "url": "https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA"
       },
@@ -83,26 +103,6 @@
       "duration_ms": 168896,
       "name": "(Entre Par\u00e9ntesis)",
       "url": "https://open.spotify.com/track/68viiGZoRbLCjsy5xD4VrU"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "un x100to",
-        "url": "https://open.spotify.com/album/7aGzSSUD8S6IhPCsZSiuMT"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 194563,
-      "name": "un x100to",
-      "url": "https://open.spotify.com/track/6pD0ufEQq0xdHSsRbg9LBK"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -207,8 +207,8 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "JUGANDO A QUE NO PASA NADA",
-        "url": "https://open.spotify.com/album/4j58S9wNTTLgllMslsSMhk"
+        "name": "un x100to",
+        "url": "https://open.spotify.com/album/7aGzSSUD8S6IhPCsZSiuMT"
       },
       "artists": [
         {
@@ -216,13 +216,13 @@
           "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
         },
         {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 209492,
-      "name": "POR QU\u00c9 SER\u00c1",
-      "url": "https://open.spotify.com/track/7cXGHxIoogqDTvbuLj0dsO"
+      "duration_ms": 194563,
+      "name": "un x100to",
+      "url": "https://open.spotify.com/track/6pD0ufEQq0xdHSsRbg9LBK"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -267,22 +267,6 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
-        "url": "https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 154374,
-      "name": "MI EX TEN\u00cdA RAZ\u00d3N",
-      "url": "https://open.spotify.com/track/7mLPSkAJraASgNk6ywyTkp"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
         "name": "Princesa",
         "url": "https://open.spotify.com/album/6c9OpYLQ5un43FUvQELOlR"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 151486,
       "name": "Princesa",
       "url": "https://open.spotify.com/track/1JhGcvVRdJoteIf56GkGwf"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
+        "url": "https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 154374,
+      "name": "MI EX TEN\u00cdA RAZ\u00d3N",
+      "url": "https://open.spotify.com/track/7mLPSkAJraASgNk6ywyTkp"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -459,18 +459,18 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Cumbia Buena",
-        "url": "https://open.spotify.com/album/2hKZd4cGeRpBrO8R8YegAB"
+        "name": "24/7",
+        "url": "https://open.spotify.com/album/352LrVMlDficyblK9e7Olr"
       },
       "artists": [
         {
-          "name": "Grupo la Cumbia",
-          "url": "https://open.spotify.com/artist/4pInEVYnkBM7SjkcNrS33s"
+          "name": "De Parranda",
+          "url": "https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi"
         }
       ],
-      "duration_ms": 213791,
-      "name": "Cumbia Buena",
-      "url": "https://open.spotify.com/track/74pSi4Ukm4geJABToCxGgr"
+      "duration_ms": 210932,
+      "name": "24/7",
+      "url": "https://open.spotify.com/track/02hdaX3rWzdjZL6uqBZNhG"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -495,18 +495,18 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "24/7",
-        "url": "https://open.spotify.com/album/352LrVMlDficyblK9e7Olr"
+        "name": "Cumbia Buena",
+        "url": "https://open.spotify.com/album/2hKZd4cGeRpBrO8R8YegAB"
       },
       "artists": [
         {
-          "name": "De Parranda",
-          "url": "https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi"
+          "name": "Grupo la Cumbia",
+          "url": "https://open.spotify.com/artist/4pInEVYnkBM7SjkcNrS33s"
         }
       ],
-      "duration_ms": 210932,
-      "name": "24/7",
-      "url": "https://open.spotify.com/track/02hdaX3rWzdjZL6uqBZNhG"
+      "duration_ms": 213791,
+      "name": "Cumbia Buena",
+      "url": "https://open.spotify.com/track/74pSi4Ukm4geJABToCxGgr"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -743,6 +743,22 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
+        "name": "Formas De Amor",
+        "url": "https://open.spotify.com/album/4iKuVimtqToaPTNFpPhvaH"
+      },
+      "artists": [
+        {
+          "name": "Grupo Klaz Y Keroz",
+          "url": "https://open.spotify.com/artist/2qGvIoLAh7vSsUWSNOi3pC"
+        }
+      ],
+      "duration_ms": 247786,
+      "name": "Suave Y Tierno",
+      "url": "https://open.spotify.com/track/1boomhGAEyfVaMiODGyate"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
         "name": "Asi Fue (Todos los Cumbieros con las manos en el aire)",
         "url": "https://open.spotify.com/album/1jnDr8K9IxgrZM94g6fXD1"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 194638,
       "name": "Asi Fue (Todos los Cumbieros con las manos en el aire)",
       "url": "https://open.spotify.com/track/1TqVbvwPmESLvgkueeJI4V"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Formas De Amor",
-        "url": "https://open.spotify.com/album/4iKuVimtqToaPTNFpPhvaH"
-      },
-      "artists": [
-        {
-          "name": "Grupo Klaz Y Keroz",
-          "url": "https://open.spotify.com/artist/2qGvIoLAh7vSsUWSNOi3pC"
-        }
-      ],
-      "duration_ms": 247786,
-      "name": "Suave Y Tierno",
-      "url": "https://open.spotify.com/track/1boomhGAEyfVaMiODGyate"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Tuyo Siempre",
-        "url": "https://open.spotify.com/album/5iWCGpIviT851tliidHWm7"
-      },
-      "artists": [
-        {
-          "name": "La T y La M",
-          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
-        }
-      ],
-      "duration_ms": 173887,
-      "name": "Tuyo Siempre",
-      "url": "https://open.spotify.com/track/1FQjnCLBH6QF0FBmLIlr8m"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
         "name": "El Disco de Oro para Equipos de Sonido, Vol 1",
         "url": "https://open.spotify.com/album/507MCqVlAqYU3vMxDqT5YT"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 199447,
       "name": "Cumbia de los Pobres",
       "url": "https://open.spotify.com/track/4IZX9MfsGtRDLtRoIedm8Z"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "Tuyo Siempre",
+        "url": "https://open.spotify.com/album/5iWCGpIviT851tliidHWm7"
+      },
+      "artists": [
+        {
+          "name": "La T y La M",
+          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
+        }
+      ],
+      "duration_ms": 173887,
+      "name": "Tuyo Siempre",
+      "url": "https://open.spotify.com/track/1FQjnCLBH6QF0FBmLIlr8m"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -943,22 +943,6 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "COMO TE LLAMAS",
-        "url": "https://open.spotify.com/album/32eUPU9W0UD3ADcu28HwQW"
-      },
-      "artists": [
-        {
-          "name": "Roze Oficial",
-          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
-        }
-      ],
-      "duration_ms": 158570,
-      "name": "COMO TE LLAMAS",
-      "url": "https://open.spotify.com/track/1RMIuLirLVncPn4ljyOUv3"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
         "name": "Eras Tu",
         "url": "https://open.spotify.com/album/7r8FGGeBs2UtyDkdfUkN9n"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 217000,
       "name": "Eras Tu",
       "url": "https://open.spotify.com/track/4e0VWtGHbwVRC33HL35pRD"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "COMO TE LLAMAS",
+        "url": "https://open.spotify.com/album/32eUPU9W0UD3ADcu28HwQW"
+      },
+      "artists": [
+        {
+          "name": "Roze Oficial",
+          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
+        }
+      ],
+      "duration_ms": 158570,
+      "name": "COMO TE LLAMAS",
+      "url": "https://open.spotify.com/track/1RMIuLirLVncPn4ljyOUv3"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -991,26 +991,6 @@
       "duration_ms": 161214,
       "name": "Cu\u00e9ntale",
       "url": "https://open.spotify.com/track/6K7r6PQYIfGgLZRWnJjVOL"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Se Agradece",
-        "url": "https://open.spotify.com/album/3qOtTVQrOweneiMPwaRme2"
-      },
-      "artists": [
-        {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
-        },
-        {
-          "name": "Chico Trujillo",
-          "url": "https://open.spotify.com/artist/6Hs8U0JO2nacXFG4kp15Co"
-        }
-      ],
-      "duration_ms": 221211,
-      "name": "Se Agradece",
-      "url": "https://open.spotify.com/track/5zOxGBR8fT1a7P58vkKTCs"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -1043,6 +1023,26 @@
       "duration_ms": 215901,
       "name": "Otra Vez",
       "url": "https://open.spotify.com/track/5Ebpu6uUHX2yANHzgefOmt"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "Se Agradece",
+        "url": "https://open.spotify.com/album/3qOtTVQrOweneiMPwaRme2"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        },
+        {
+          "name": "Chico Trujillo",
+          "url": "https://open.spotify.com/artist/6Hs8U0JO2nacXFG4kp15Co"
+        }
+      ],
+      "duration_ms": 221211,
+      "name": "Se Agradece",
+      "url": "https://open.spotify.com/track/5zOxGBR8fT1a7P58vkKTCs"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -1147,22 +1147,22 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Cumbia Del Clavi",
-        "url": "https://open.spotify.com/album/4ICPECk52pvNK0J0nvVPYY"
+        "name": "Mi Historia Entre Tus Dedos",
+        "url": "https://open.spotify.com/album/5Dso9GcL2HzHbt5s35t5vs"
       },
       "artists": [
         {
-          "name": "Los Morales",
-          "url": "https://open.spotify.com/artist/6ApQFyQipz7e35stMrNG4h"
+          "name": "Nico Mattioli",
+          "url": "https://open.spotify.com/artist/6WVAHhEnELJ0NI11yZu9j1"
         },
         {
-          "name": "El Clavijas",
-          "url": "https://open.spotify.com/artist/10t2ZueXTVRNzyjd7tOXTQ"
+          "name": "Leo Mattioli",
+          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
         }
       ],
-      "duration_ms": 169738,
-      "name": "Cumbia Del Clavi",
-      "url": "https://open.spotify.com/track/7H5t2fboweenWJMXeNGRVu"
+      "duration_ms": 295526,
+      "name": "Mi Historia Entre Tus Dedos",
+      "url": "https://open.spotify.com/track/0NK3UhMD7kNwOfuoL0jk8R"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -1179,6 +1179,26 @@
       "duration_ms": 196667,
       "name": "No me llames m\u00e1s",
       "url": "https://open.spotify.com/track/1P6GdZP0fBY4CRoYXG3r7b"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "Cumbia Del Clavi",
+        "url": "https://open.spotify.com/album/4ICPECk52pvNK0J0nvVPYY"
+      },
+      "artists": [
+        {
+          "name": "Los Morales",
+          "url": "https://open.spotify.com/artist/6ApQFyQipz7e35stMrNG4h"
+        },
+        {
+          "name": "El Clavijas",
+          "url": "https://open.spotify.com/artist/10t2ZueXTVRNzyjd7tOXTQ"
+        }
+      ],
+      "duration_ms": 169738,
+      "name": "Cumbia Del Clavi",
+      "url": "https://open.spotify.com/track/7H5t2fboweenWJMXeNGRVu"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -1211,22 +1231,18 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Mi Historia Entre Tus Dedos",
-        "url": "https://open.spotify.com/album/5Dso9GcL2HzHbt5s35t5vs"
+        "name": "Por Encima de Todos",
+        "url": "https://open.spotify.com/album/3oU1cOrdFNJayzA9kY70DG"
       },
       "artists": [
         {
-          "name": "Nico Mattioli",
-          "url": "https://open.spotify.com/artist/6WVAHhEnELJ0NI11yZu9j1"
-        },
-        {
-          "name": "Leo Mattioli",
-          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
+          "name": "Sensacion Latina",
+          "url": "https://open.spotify.com/artist/0t4U97R9dS4uYMAvlb7J1e"
         }
       ],
-      "duration_ms": 295526,
-      "name": "Mi Historia Entre Tus Dedos",
-      "url": "https://open.spotify.com/track/0NK3UhMD7kNwOfuoL0jk8R"
+      "duration_ms": 316004,
+      "name": "Las Palmitas del Ecuador",
+      "url": "https://open.spotify.com/track/6xUqaIld9T5BlqkhVD6C3C"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -1251,18 +1267,22 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Por Encima de Todos",
-        "url": "https://open.spotify.com/album/3oU1cOrdFNJayzA9kY70DG"
+        "name": "Ser\u00e1",
+        "url": "https://open.spotify.com/album/6zUJ9NMTQ9mGThgPH6lF4f"
       },
       "artists": [
         {
-          "name": "Sensacion Latina",
-          "url": "https://open.spotify.com/artist/0t4U97R9dS4uYMAvlb7J1e"
+          "name": "Peipper",
+          "url": "https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs"
+        },
+        {
+          "name": "DJ Tao",
+          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
         }
       ],
-      "duration_ms": 316004,
-      "name": "Las Palmitas del Ecuador",
-      "url": "https://open.spotify.com/track/6xUqaIld9T5BlqkhVD6C3C"
+      "duration_ms": 157058,
+      "name": "Ser\u00e1",
+      "url": "https://open.spotify.com/track/3ivQpS9JxcZ9wewc0aXoDH"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -1291,22 +1311,22 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Ser\u00e1",
-        "url": "https://open.spotify.com/album/6zUJ9NMTQ9mGThgPH6lF4f"
+        "name": "Quiere Volver",
+        "url": "https://open.spotify.com/album/03bIhPXPEvVlGgOfDY4EZ2"
       },
       "artists": [
         {
-          "name": "Peipper",
-          "url": "https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs"
+          "name": "Diel Paris",
+          "url": "https://open.spotify.com/artist/2sp0CxickfFJun08JtXgiA"
         },
         {
-          "name": "DJ Tao",
-          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
+          "name": "Jorgito Barrionuevo",
+          "url": "https://open.spotify.com/artist/192E8ptSuYPT0rgJRyImNH"
         }
       ],
-      "duration_ms": 157058,
-      "name": "Ser\u00e1",
-      "url": "https://open.spotify.com/track/3ivQpS9JxcZ9wewc0aXoDH"
+      "duration_ms": 139008,
+      "name": "Quiere Volver",
+      "url": "https://open.spotify.com/track/44fA5XdSQrJa9ah8YI6a57"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -1331,26 +1351,6 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Quiere Volver",
-        "url": "https://open.spotify.com/album/03bIhPXPEvVlGgOfDY4EZ2"
-      },
-      "artists": [
-        {
-          "name": "Diel Paris",
-          "url": "https://open.spotify.com/artist/2sp0CxickfFJun08JtXgiA"
-        },
-        {
-          "name": "Jorgito Barrionuevo",
-          "url": "https://open.spotify.com/artist/192E8ptSuYPT0rgJRyImNH"
-        }
-      ],
-      "duration_ms": 139008,
-      "name": "Quiere Volver",
-      "url": "https://open.spotify.com/track/44fA5XdSQrJa9ah8YI6a57"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
         "name": "El Mariachi Llor\u00f3",
         "url": "https://open.spotify.com/album/26l59cDC5dNqIVxTgRDPuM"
       },
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "M\u00e1scara (Soundtrack de la Pel\u00edcula \u201cEL HALC\u00d3N\")",
-        "url": "https://open.spotify.com/album/4ss2BW6S7DpHIrYbcm9fWh"
-      },
-      "artists": [
-        {
-          "name": "Fany y sus Tropicales",
-          "url": "https://open.spotify.com/artist/6rzdQptvODu9LGopgGv393"
-        }
-      ],
-      "duration_ms": 191162,
-      "name": "M\u00e1scara (Soundtrack de la Pel\u00edcula \u201cEL HALC\u00d3N\")",
-      "url": "https://open.spotify.com/track/0EpNfDwNgFUEdHvJ5jSgby"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
         "name": "Iguales",
         "url": "https://open.spotify.com/album/6ubQKMBtEDxSwknbijo3Sw"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 139058,
       "name": "Iguales",
       "url": "https://open.spotify.com/track/4CxNBZdTMXYpSRXVAPSkuq"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "M\u00e1scara (Soundtrack de la Pel\u00edcula \u201cEL HALC\u00d3N\")",
+        "url": "https://open.spotify.com/album/4ss2BW6S7DpHIrYbcm9fWh"
+      },
+      "artists": [
+        {
+          "name": "Fany y sus Tropicales",
+          "url": "https://open.spotify.com/artist/6rzdQptvODu9LGopgGv393"
+        }
+      ],
+      "duration_ms": 191162,
+      "name": "M\u00e1scara (Soundtrack de la Pel\u00edcula \u201cEL HALC\u00d3N\")",
+      "url": "https://open.spotify.com/track/0EpNfDwNgFUEdHvJ5jSgby"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Besar Tu Piel (Con Buenos Aires) [En Vivo]",
-        "url": "https://open.spotify.com/album/4l63VeyYTk3AQg7d3EVsHx"
-      },
-      "artists": [
-        {
-          "name": "Rayito Colombiano",
-          "url": "https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn"
-        }
-      ],
-      "duration_ms": 192500,
-      "name": "Besar Tu Piel (Con Buenos Aires) - En Vivo",
-      "url": "https://open.spotify.com/track/4Vq5kQseWne9B8Mu9lO2aD"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
         "name": "Adoro",
         "url": "https://open.spotify.com/album/5j4gCXvNTkOlYblzmA7eYR"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 210350,
       "name": "Adoro",
       "url": "https://open.spotify.com/track/10DXxZz4pj3Y3kNrutKbB8"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "Besar Tu Piel (Con Buenos Aires) [En Vivo]",
+        "url": "https://open.spotify.com/album/4l63VeyYTk3AQg7d3EVsHx"
+      },
+      "artists": [
+        {
+          "name": "Rayito Colombiano",
+          "url": "https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn"
+        }
+      ],
+      "duration_ms": 192500,
+      "name": "Besar Tu Piel (Con Buenos Aires) - En Vivo",
+      "url": "https://open.spotify.com/track/4Vq5kQseWne9B8Mu9lO2aD"
     },
     {
       "added_at": "2024-05-17 04:00:00",

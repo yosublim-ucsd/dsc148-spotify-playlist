@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "\nThe biggest Amapiano singles making waves in South Africa and the world. Cover:  <a href=\"https://open.spotify.com/artist/5fds40CKwV1XZgn3IH89Gd?si=gVq2P2H-QYewoh9F2CRyzA\">ShaunMusiq & Ftears</a>, <a href=\"https://open.spotify.com/artist/6egY1uh8HjHy6TrD0qmQNN?si=OdzGr6WJSAGe_7KNZdLf5Q\">Myztro</a>, <a href=\"https://open.spotify.com/artist/3S4T8XtipStwl34odXn1YS?si=UM0D_2jgQP-b3iOniLwRGA\">Scotts Maphuma</a>",
+  "description": "\nThe biggest Amapiano singles making waves in South Africa and the world. Cover:  <a href=\"https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4?si=YUDOPkZ7RqqGI52emgJrQw\">Tyler ICU</a>, <a href=\"https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi?si=_mlH0dbTSayC_q1KptXtSA\">DJ Maphorisa</a>",
   "name": "AMAPIANO grooves",
   "tracks": [
     {
@@ -596,6 +596,44 @@
       "duration_ms": 416321,
       "name": "Abalele",
       "url": "https://open.spotify.com/track/2qxgejJTaZIHNSHDD22Uhl"
+    },
+    {
+      "album": {
+        "name": "Abantu",
+        "url": "https://open.spotify.com/album/2Fux4hg8PSdMpzM3wL3gx7"
+      },
+      "artists": [
+        {
+          "name": "Piano City",
+          "url": "https://open.spotify.com/artist/2i8xdaZHfJpzLWJB0f7g28"
+        },
+        {
+          "name": "Marlode & Owams",
+          "url": "https://open.spotify.com/artist/3SvH5xQsfneCQ1rPf2DwPm"
+        },
+        {
+          "name": "Major League Djz",
+          "url": "https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb"
+        },
+        {
+          "name": "LeeMcKrazy",
+          "url": "https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg"
+        },
+        {
+          "name": "Zee Nxumalo",
+          "url": "https://open.spotify.com/artist/5m5lgddffBHA2pv0m5E2Ro"
+        },
+        {
+          "name": "FLUXX",
+          "url": "https://open.spotify.com/artist/3EBIij4PVtSFD8aoKa4Hwf"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 412035,
+      "name": "Abantu",
+      "url": "https://open.spotify.com/track/3e15GNIqY3yr238yECUb7e"
     },
     {
       "album": {
@@ -6960,7 +6998,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 346348,
       "name": "E'kseni (feat. Da Muziqal Chef, Thabza Tee & Lastborn Diroba)",
       "url": "https://open.spotify.com/track/7EYy4U3lfCzK70xLWhwJAk"
@@ -12504,7 +12542,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 364302,
       "name": "Iskhathi",
       "url": "https://open.spotify.com/track/2tLjKAFyOoXUyApDEuq5C6"
@@ -12530,7 +12568,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 477368,
       "name": "Isomiso (feat. Zain SA)",
       "url": "https://open.spotify.com/track/0TNPzB8tgnQ3ZRwWnwVrOS"
@@ -15663,6 +15701,40 @@
     },
     {
       "album": {
+        "name": "La Way (feat. Khalil Harrison, Tumelo ZA & Tyler ICU)",
+        "url": "https://open.spotify.com/album/1elMbD9K5XdayYz8tDQcBu"
+      },
+      "artists": [
+        {
+          "name": "DJ Mohamed x D2mza",
+          "url": "https://open.spotify.com/artist/1n6IHIwgZkh4vS1WdGrbm0"
+        },
+        {
+          "name": "Ceeka RSA",
+          "url": "https://open.spotify.com/artist/5DuhT9Ix9p7qvE42w9liWY"
+        },
+        {
+          "name": "Khalil Harrison",
+          "url": "https://open.spotify.com/artist/2zq3Zm57y4TxZRbMZ05CGp"
+        },
+        {
+          "name": "Tumelo ZA",
+          "url": "https://open.spotify.com/artist/0otHoOftKIkR0fXCJMzhUD"
+        },
+        {
+          "name": "Tyler ICU",
+          "url": "https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361592,
+      "name": "La Way (feat. Khalil Harrison, Tumelo ZA & Tyler ICU)",
+      "url": "https://open.spotify.com/track/6jYD9lkIqmMWvOHbsG3N0o"
+    },
+    {
+      "album": {
         "name": "Laba Te",
         "url": "https://open.spotify.com/album/590Aci9w3gK6xxL0wEPYQW"
       },
@@ -17136,6 +17208,48 @@
       "duration_ms": 385753,
       "name": "Mangena",
       "url": "https://open.spotify.com/track/3mnyw63E4y4UUOZFd2hWWp"
+    },
+    {
+      "album": {
+        "name": "Manzi Nte (feat. Masterpiece YVK, Ceeka RSA, M.J, Silas Africa & Alxapo)",
+        "url": "https://open.spotify.com/album/3FFhGEtxLrk7T6sAadIoUg"
+      },
+      "artists": [
+        {
+          "name": "Tyler ICU",
+          "url": "https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4"
+        },
+        {
+          "name": "DJ Maphorisa",
+          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
+        },
+        {
+          "name": "Masterpiece YVK",
+          "url": "https://open.spotify.com/artist/5wVRDS1b9ZMXN6VKEl8f9b"
+        },
+        {
+          "name": "Ceeka RSA",
+          "url": "https://open.spotify.com/artist/5DuhT9Ix9p7qvE42w9liWY"
+        },
+        {
+          "name": "M.J",
+          "url": "https://open.spotify.com/artist/7bbakrxOYa3yL8DDzjU98P"
+        },
+        {
+          "name": "Silas Africa",
+          "url": "https://open.spotify.com/artist/2m0tIjDO5ludphgMpEviTP"
+        },
+        {
+          "name": "Al xapo",
+          "url": "https://open.spotify.com/artist/6vIKxXxsfpL8tAmjP0eCwY"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 443556,
+      "name": "Manzi Nte (feat. Masterpiece YVK, Ceeka RSA, M.J, Silas Africa & Alxapo)",
+      "url": "https://open.spotify.com/track/4GxZKOak4mz6VmMJUmO4Is"
     },
     {
       "album": {

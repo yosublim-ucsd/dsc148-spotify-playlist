@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Pek6YVkLnC.md) - [plain]
 
 > P fkn R\. Esto llega al choliiiii\. Cover: Jovaan & JEYYFF
 
-[Spotify](https://open.spotify.com/user/spotify) - 299,065 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 299,076 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Pek6YVkLnC.md) - [plain]
 | 7 | [Tommy John](https://open.spotify.com/track/2lRUU3ITueZpRl0PBhMHDb) | [AloSofia](https://open.spotify.com/artist/5Q6CBqo1uJlO4qbw7MD875), [Remers](https://open.spotify.com/artist/5bVgn8ImAnQDIB1NjxfSvb) | [Tommy John](https://open.spotify.com/album/0k4XOeS7hRH1OgCOi4zu3W) | 3:07 |
 | 8 | [Rómpela](https://open.spotify.com/track/6racd8xVWuVWrZw8MZuctV) | [Fiamma](https://open.spotify.com/artist/4wOu4vVTBMgHkts7CQJhZb) | [Rómpela](https://open.spotify.com/album/3MNhodNbMyYzPbTvUVZmY6) | 2:47 |
 | 9 | [Mini Van](https://open.spotify.com/track/44EDvLaqyDOrViTGE5lMQ9) | [lil joujou](https://open.spotify.com/artist/6UhGN5pVzgbBYjpqkxKM5F), [Slayter](https://open.spotify.com/artist/44cW3xznP61BXbu0e7fgxn), [Midnvght](https://open.spotify.com/artist/2f0j8IhXgOli2Ub2amAiUZ) | [Mini Van](https://open.spotify.com/album/2tAB5fiRV9LdNGuxGPe8m9) | 3:22 |
-| 10 | [Typing](https://open.spotify.com/track/2AyYL7Lw5b96VDXxqSwy9o) | [Yannc](https://open.spotify.com/artist/3rqKgkODmiyDdimpz5D3y1), [Full Harmony](https://open.spotify.com/artist/05zdv8cIoFjW1CLROPsqkE), [lil joujou](https://open.spotify.com/artist/6UhGN5pVzgbBYjpqkxKM5F), [Moffa](https://open.spotify.com/artist/2lcWprkQW6ehqKep82rWnC), [DIA](https://open.spotify.com/artist/7xVUa8mqwCgdu4mQn3geCY), [J Abdiel](https://open.spotify.com/artist/17SY5q1CMOZJBRuPcKWwPI) | [Typing](https://open.spotify.com/album/4mQPCVJ1vgvQ6iyUdwBAFm) | 3:43 |
+| 10 | [Typing](https://open.spotify.com/track/2AyYL7Lw5b96VDXxqSwy9o) | [Full Harmony](https://open.spotify.com/artist/05zdv8cIoFjW1CLROPsqkE), [lil joujou](https://open.spotify.com/artist/6UhGN5pVzgbBYjpqkxKM5F), [Moffa](https://open.spotify.com/artist/2lcWprkQW6ehqKep82rWnC), [DIA](https://open.spotify.com/artist/7xVUa8mqwCgdu4mQn3geCY), [J Abdiel](https://open.spotify.com/artist/17SY5q1CMOZJBRuPcKWwPI), [Yannc](https://open.spotify.com/artist/3rqKgkODmiyDdimpz5D3y1) | [Typing](https://open.spotify.com/album/4mQPCVJ1vgvQ6iyUdwBAFm) | 3:43 |
 | 11 | [MUSA \(feat\. Espano\)](https://open.spotify.com/track/5TJvrRVnpIgFy1FnE3ir4y) | [Rojas On The Beat](https://open.spotify.com/artist/48yQpzWYzshNnJ2bmruUS5), [Jey Blessing](https://open.spotify.com/artist/1MVP5iQH6wMKZuOn41UHOB), [D Tenox](https://open.spotify.com/artist/4gG1oCXDiIy90Jxpv0C4Cd), [Espano](https://open.spotify.com/artist/2nltuI3fbXK0RbX9PVcQT9) | [MUSA \(feat\. Espano\)](https://open.spotify.com/album/3WqCQK1KAxsoBdfwjgwdFc) | 3:45 |
 | 12 | [SHOFAR](https://open.spotify.com/track/68lSedap260kbjpvdvF7Tp) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [K4G](https://open.spotify.com/artist/7iE1RkAmNySaonnYrV8lmU) | [CVRBON VRMOR \[C\_DE: G\_D.O.N.\]](https://open.spotify.com/album/3zaBxuBf9zSlxZ20ZRHXXE) | 4:08 |
 | 13 | [VIENES?](https://open.spotify.com/track/5xaM0GEVgl21EKn7AtsFVI) | [CARLIÁN](https://open.spotify.com/artist/75Ix62cxoDdvrQr5sC8ala), [Heartgaze](https://open.spotify.com/artist/6r5C5m57jRSpf2xE16ofxH) | [VIENES?](https://open.spotify.com/album/0lMF1b8fMVrL5toe8tk0DZ) | 3:16 |

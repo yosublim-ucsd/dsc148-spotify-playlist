@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Rap napoletano e il meglio della scena campana. Geolier in cover, el pibe de oro \ud83d\udc99",
+  "description": "Rap napoletano e il meglio della scena campana. Kid Lost in cover.",
   "name": "Int 'o Rione",
   "tracks": [
     {
@@ -56,7 +56,7 @@
       ],
       "date_added": "2022-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 178586,
       "name": "0 In Tasca",
       "url": "https://open.spotify.com/track/6TTX5dhUU8hyyrOADiy1KZ"
@@ -1929,6 +1929,32 @@
     },
     {
       "album": {
+        "name": "GAS",
+        "url": "https://open.spotify.com/album/272OajDwr17InniWwa7BHj"
+      },
+      "artists": [
+        {
+          "name": "Kid Lost",
+          "url": "https://open.spotify.com/artist/4oGlqM93JwM3Bx5X0wvLTu"
+        },
+        {
+          "name": "Taxi B",
+          "url": "https://open.spotify.com/artist/5FkcU4BVzPptuB6AjobZIL"
+        },
+        {
+          "name": "G-Lex",
+          "url": "https://open.spotify.com/artist/34aOrKPSv2YwgiR6pLVK2Y"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "GAS",
+      "url": "https://open.spotify.com/track/1vm8Lzx4Hd6vOKF5Q6GCXa"
+    },
+    {
+      "album": {
         "name": "Gelosa",
         "url": "https://open.spotify.com/album/4DqWLszRz3xqOVKwYtQrop"
       },
@@ -2302,7 +2328,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 187881,
       "name": "I P\u2019 ME, TU P\u2019 TE",
       "url": "https://open.spotify.com/track/3j1453KrdHjw7y4gnBj7nF"
@@ -2510,7 +2536,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 179310,
       "name": "INT\u2019A BUFERA",
       "url": "https://open.spotify.com/track/216N9ie9uV2Mg9dCy6h5Wa"
@@ -2638,6 +2664,24 @@
       "duration_ms": 151386,
       "name": "KRIRM",
       "url": "https://open.spotify.com/track/0PupYO4b4ZA8tdihwNCUo9"
+    },
+    {
+      "album": {
+        "name": "KTM",
+        "url": "https://open.spotify.com/album/4OXvM9sRNnZSAYDOnnCsjl"
+      },
+      "artists": [
+        {
+          "name": "Hosawa",
+          "url": "https://open.spotify.com/artist/0CA0vPSeG4YNObQrpfUq8H"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111081,
+      "name": "KTM",
+      "url": "https://open.spotify.com/track/5mKbRYOpe6yqXW7SbqXB12"
     },
     {
       "album": {

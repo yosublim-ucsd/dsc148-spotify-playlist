@@ -3660,7 +3660,7 @@
       ],
       "date_added": "2024-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 149495,
       "name": "Herztausch",
       "url": "https://open.spotify.com/track/6k2cbSiYwuHtsiqScrrp3J"
@@ -3906,7 +3906,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-29",
+      "date_removed": null,
       "duration_ms": 142514,
       "name": "i like the way you kiss me",
       "url": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"
@@ -4142,7 +4142,7 @@
       ],
       "date_added": "2024-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 165775,
       "name": "Imagine",
       "url": "https://open.spotify.com/track/6IcsbETuviVu6UTiBTcxY4"
@@ -4266,6 +4266,46 @@
       "duration_ms": 235885,
       "name": "I\u2019d Rather Overdose",
       "url": "https://open.spotify.com/track/17UNijHcIMuz5ik2UKeCjK"
+    },
+    {
+      "album": {
+        "name": "MUDBLOOD",
+        "url": "https://open.spotify.com/album/1oFOkozpZrvDWg9h7bL2Y8"
+      },
+      "artists": [
+        {
+          "name": "CMH",
+          "url": "https://open.spotify.com/artist/4t8lDh2zuWn1d9cyJQkESe"
+        },
+        {
+          "name": "Joost",
+          "url": "https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134144,
+      "name": "jackass",
+      "url": "https://open.spotify.com/track/4YudWFElI1fvs8cHgbzslh"
+    },
+    {
+      "album": {
+        "name": "JADED",
+        "url": "https://open.spotify.com/album/6tWVN38ZDvDSVzjvRy1nX7"
+      },
+      "artists": [
+        {
+          "name": "Fordo",
+          "url": "https://open.spotify.com/artist/56MVymJsDkkMOkpmlzbvqa"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184827,
+      "name": "JADED",
+      "url": "https://open.spotify.com/track/6vEqz5Tdyas7mrWuMiAmWm"
     },
     {
       "album": {
@@ -4644,6 +4684,24 @@
       "duration_ms": 139919,
       "name": "K\u00fcssen",
       "url": "https://open.spotify.com/track/2FbTZrdW0KGqH7TOdZRHiP"
+    },
+    {
+      "album": {
+        "name": "L'Amour Toujours",
+        "url": "https://open.spotify.com/album/61hGQNFwmqGHXm5eeMkd4d"
+      },
+      "artists": [
+        {
+          "name": "Gigi D'Agostino",
+          "url": "https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242053,
+      "name": "L'Amour Toujours",
+      "url": "https://open.spotify.com/track/52LJ3hyknOijCrE5gCD0rE"
     },
     {
       "album": {
@@ -5903,6 +5961,28 @@
     },
     {
       "album": {
+        "name": "CDBBY",
+        "url": "https://open.spotify.com/album/0SEQeYUggPqPEdYvA9r5LJ"
+      },
+      "artists": [
+        {
+          "name": "bachelorbby",
+          "url": "https://open.spotify.com/artist/7kG6T55t0pO4hdI0x9ox5v"
+        },
+        {
+          "name": "JasperCD",
+          "url": "https://open.spotify.com/artist/0kIBoTuRSpgFyLY00Ll7id"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166200,
+      "name": "Nicht Verdient",
+      "url": "https://open.spotify.com/track/1Sq6SRDMIL6cwFRRM1Bibb"
+    },
+    {
+      "album": {
         "name": "Nicht Verdient",
         "url": "https://open.spotify.com/album/3evHSw1bvYx4PW1AHyU4yX"
       },
@@ -5918,7 +5998,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 166200,
       "name": "Nicht Verdient",
       "url": "https://open.spotify.com/track/5m4roY1knNmLgdQm2hASbV"
@@ -6192,7 +6272,7 @@
       ],
       "date_added": "2024-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-29",
+      "date_removed": null,
       "duration_ms": 149976,
       "name": "Oberteil",
       "url": "https://open.spotify.com/track/6wujgYJX36mC0rtOdzEcAK"
@@ -6300,7 +6380,7 @@
       ],
       "date_added": "2024-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 144000,
       "name": "one of wun",
       "url": "https://open.spotify.com/track/4Na2HfNSr58chvfX69fy36"
@@ -6410,7 +6490,7 @@
       ],
       "date_added": "2024-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 143606,
       "name": "Patadas de Ahogado",
       "url": "https://open.spotify.com/track/5WpK2rX7IOn5MqKIwwB1r4"
@@ -8044,7 +8124,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 137473,
       "name": "T.N.T. - Techno Remix",
       "url": "https://open.spotify.com/track/6l514NhnJZJgHgYFeimsWs"

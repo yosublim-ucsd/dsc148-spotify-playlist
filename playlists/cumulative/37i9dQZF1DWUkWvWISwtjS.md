@@ -4,7 +4,7 @@
 
 > Coloque a bota e o chápeu que hoje o trabalho vai render!
 
-143 songs - 7 hr 9 min
+144 songs - 7 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [Ele Não Tem](https://open.spotify.com/track/1JHvLQWHUoYuapwQikeDuD) | [Jonas Esticado](https://open.spotify.com/artist/22jNvLBrXGKr4CcV2tw8Ag), [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Ele Não Tem](https://open.spotify.com/album/1H3osN9EmZy0a8DGV27hXy) | 3:32 | 2023-10-13 |  |
 | [Ele É Ele, Eu Sou Eu](https://open.spotify.com/track/2vPRrOaM3zvPwrOHoIPjcF) | [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa), [Os Barões Da Pisadinha](https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5) | [Safadão Amplificado](https://open.spotify.com/album/4I44En3hzwqNsyvNrV0gEG) | 2:35 | 2023-10-13 | 2024-04-19 |
 | [Espelho Meu \- Ao Vivo](https://open.spotify.com/track/5vAH9kwRajhfewbqBczqwJ) | [Henrique & Diego](https://open.spotify.com/artist/1D6vAeVUcgMbSx80IA3Zun) | [Espelho Meu \(Ao Vivo\)](https://open.spotify.com/album/3KM4EBZiYYhusvKoOgAZBC) | 2:41 | 2023-10-13 |  |
-| [Esquece de Me Esquecer](https://open.spotify.com/track/1NXeltgzjQeiC4hbf2XNVr) | [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu), [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Esquece de Me Esquecer](https://open.spotify.com/album/4Cv439w6zA8dOOFcPVggMv) | 3:00 | 2023-10-13 |  |
+| [Esquece de Me Esquecer](https://open.spotify.com/track/1NXeltgzjQeiC4hbf2XNVr) | [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu), [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Esquece de Me Esquecer](https://open.spotify.com/album/4Cv439w6zA8dOOFcPVggMv) | 3:00 | 2023-10-13 | 2024-06-01 |
 | [Estrelinha](https://open.spotify.com/track/6hFU1qqclbJkyA7gPuUNDS) | [Di Paullo & Paulino](https://open.spotify.com/artist/1e5A3rWcqk9WfLjeg5T3dI), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Estrelinha](https://open.spotify.com/album/3r3WEUzmwBtgKqWtNxssu1) | 3:27 | 2023-10-13 |  |
 | [Eu Era](https://open.spotify.com/track/09hQbo0PphvZ7y3ZZK9AJw) | [Marcos & Belutti](https://open.spotify.com/artist/0NsJZ5PMjqghGDuMzY7CuT) | [Eu Era](https://open.spotify.com/album/4vQ19EdJVj7sS6JvKGlq0K) | 3:31 | 2023-10-13 |  |
 | [Fala Comigo \- Ao Vivo](https://open.spotify.com/track/56F3ngwk3a42aLY0o5QgBF) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [O Embaixador \- The Legacy \(Ao Vivo\)](https://open.spotify.com/album/78YLa6QF2hX4A0QIX80QGy) | 2:20 | 2023-10-13 |  |
@@ -89,6 +89,7 @@
 | [Muié brava](https://open.spotify.com/track/0ysTJCguBamXVvxwR1BNzE) | [Loubet](https://open.spotify.com/artist/6DtpcJP3QBgHfte3eKzUCI) | [Muié Brava](https://open.spotify.com/album/2CxiqbhzoS3ZxqiJapoVA5) | 3:21 | 2023-10-13 |  |
 | [Muié, Chapéu e Butina \- Ao Vivo](https://open.spotify.com/track/1ZB3pjR7MdkIBbBzz4Fg9C) | [Loubet](https://open.spotify.com/artist/6DtpcJP3QBgHfte3eKzUCI) | [Made in Roça \(Ao Vivo\)](https://open.spotify.com/album/3rRfJJYjeoqranLMo1udIU) | 3:07 | 2023-10-13 |  |
 | [Mulher Maravilha \- Ao Vivo](https://open.spotify.com/track/2cbMXc0P5s271VwZOUk1Gb) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Esquece o Mundo Lá Fora \(Ao Vivo\) \- Deluxe](https://open.spotify.com/album/0wQ5Sn6RU4yL6WpeiWSaBN) | 2:37 | 2023-10-13 |  |
+| [Mundo de Ilusões \- Ao Vivo](https://open.spotify.com/track/3UxbT06Mz8aTJbHYYIxwkI) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Mundo de Ilusões \(Ao Vivo\)](https://open.spotify.com/album/15Mfvr76GKsxj0Bw4FEwFi) | 3:05 | 2023-10-13 |  |
 | [My Baby](https://open.spotify.com/track/6N46P4y6dlnrtAWWCaHu7O) | [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu), [Naiara Azevedo](https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l), [Furacão Love](https://open.spotify.com/artist/35udcF82bFL8EzsDlWWcsr) | [My Baby](https://open.spotify.com/album/2YWSmJ37zzqKI9gqjwDJ0L) | 2:26 | 2023-10-13 |  |
 | [Na Conta da Loucura](https://open.spotify.com/track/4uDtYKBYx6ucXktl0p6vMu) | [Bruno & Marrone](https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV) | [Na Conta da Loucura](https://open.spotify.com/album/1a4IghNswBIY8FlWFu32hF) | 2:45 | 2023-10-13 |  |
 | [Namorada Reserva \- Ao Vivo](https://open.spotify.com/track/5GHA824FwkHeBl5u1T6kLj) | [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl) | [No Pelo Em Campo Grande \(ao Vivo\)](https://open.spotify.com/album/2Kk36Wo3Ie2fAHwleHygie) | 2:56 | 2023-10-13 |  |

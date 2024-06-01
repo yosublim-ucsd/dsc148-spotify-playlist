@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 
 > 
 
-[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 16 likes - 1,412 songs - 3 day 5 hr 20 min
+[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 16 likes - 1,415 songs - 3 day 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1420,5 +1420,8 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 | 1410 | [Accuse Me](https://open.spotify.com/track/65alkOSTvEyyJHy8cXkMNQ) | [Sparkz](https://open.spotify.com/artist/0kXJAI2hR2vdzVHsu9OLka) | [Into The Summer Vol\. 2](https://open.spotify.com/album/15Go8avFuIedSr9PSo1xYA) | 2:16 |
 | 1411 | [Greater Than The Galaxy](https://open.spotify.com/track/06H4jInd8TsixykD2Tc5Pm) | [Odium](https://open.spotify.com/artist/6J2T1atTrazMhACALYdA5Q), [annxious](https://open.spotify.com/artist/7BHuR017oGOoVOufUqT8ld) | [Greater Than The Galaxy](https://open.spotify.com/album/0xRBvCmQ2wNRKvgVBpuSJG) | 1:59 |
 | 1412 | [Really Like You](https://open.spotify.com/track/07AYvrfqNUDrKr7FfBCdUR) | [Eufeion](https://open.spotify.com/artist/7ykuX8JwiitjBbIMlGVH0B), [24/7 Hardcore](https://open.spotify.com/artist/13HaJU1EgDEuPrJO6XgiFu) | [Really Like You](https://open.spotify.com/album/5eV0Ve0PKrL7X7L8XEce9Q) | 3:19 |
+| 1413 | [elevate our mind](https://open.spotify.com/track/0sav1CL1qLvUnmh7C1dePM) | [Atmozfears](https://open.spotify.com/artist/0MBGxwmCdXdO26ojaNcT64), [RE\-PULZE](https://open.spotify.com/artist/5YR9VKJNA2pGS1Ic4I2vmd) | [elevate our mind](https://open.spotify.com/album/6ncFLe2YJwFCrEftvLYKpo) | 3:16 |
+| 1414 | [Crunch](https://open.spotify.com/track/67ERjTGEze2g1UVNCog2Je) | [TNT](https://open.spotify.com/artist/1CqOLQmjzVWXQTiIN5Wucs), [Technoboy](https://open.spotify.com/artist/37jL2LnGjAkadOCszr8v7C), [Tuneboy](https://open.spotify.com/artist/3mZnhzeAyjpFhO3cIepzBr) | [Crunch](https://open.spotify.com/album/6Ik9MjMnvXaI5y7IBCgQSg) | 2:59 |
+| 1415 | [Hard and Cheerful 2024 Edit](https://open.spotify.com/track/5wWGPhAgVAjfc1aEgSMkoY) | [Maissouille](https://open.spotify.com/artist/1aQbGaag8KEI8kKtY37UQU) | [Hard and Cheerful 2024 Edit](https://open.spotify.com/album/2JvzkLesfJkPv5VC579gsQ) | 4:09 |
 
-Snapshot ID: `AAAFsGOxOByPtdCWoruobLuDuUQgmvzi`
+Snapshot ID: `AAAFs/FsYNGHRhkHLFw53kDH5T/zv/8J`

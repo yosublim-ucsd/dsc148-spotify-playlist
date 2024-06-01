@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-30",
-  "description": "Rapping into your hearts from the alleys of Mumbai. Cover- The Siege",
+  "description": "Rapping into your hearts from the alleys of Mumbai. Cover- Yashraj",
   "name": "Bambai Bantai",
   "tracks": [
     {
@@ -1063,6 +1063,28 @@
     },
     {
       "album": {
+        "name": "GABBAR",
+        "url": "https://open.spotify.com/album/6kGiUi378xy9rAPZGRzBnu"
+      },
+      "artists": [
+        {
+          "name": "Yashraj",
+          "url": "https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST"
+        },
+        {
+          "name": "PUNA",
+          "url": "https://open.spotify.com/artist/6xxZ5ygLggYl3EXuzDezvo"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241535,
+      "name": "GABBAR",
+      "url": "https://open.spotify.com/track/4OBkPKd0iA6GY0oNqhjg6v"
+    },
+    {
+      "album": {
         "name": "Gangster Shit 1st",
         "url": "https://open.spotify.com/album/2EASVa2mSXZs7KERC2D8zp"
       },
@@ -1992,7 +2014,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 165245,
       "name": "Numb",
       "url": "https://open.spotify.com/track/0Yfz0JBHTThQFDK4h5gFhQ"

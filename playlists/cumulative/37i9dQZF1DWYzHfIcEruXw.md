@@ -10,7 +10,7 @@
 |---|---|---|---|---|---|
 | [adrenaline!!!](https://open.spotify.com/track/10Yk9WbT2840l1NK5RWvkq) | [TrySail](https://open.spotify.com/artist/3YmAt9U9INQwxAwfgMVfKD) | [TAILWIND](https://open.spotify.com/album/6aQawPPAZQ83W5Iy5E702F) | 4:34 | 2021-12-21 | 2024-04-19 |
 | [adrenaline!!!](https://open.spotify.com/track/1InmP0qrPm6NgRdRmeMbwI) | [TrySail](https://open.spotify.com/artist/3YmAt9U9INQwxAwfgMVfKD) | [TAILWIND](https://open.spotify.com/album/0JwVYCw3rL7IMIKtV7nc0e) | 4:34 | 2021-12-21 |  |
-| [Black Rover](https://open.spotify.com/track/0OGw7V8wAI6OsZIQ12JkTP) | [ VK Blanka](https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d) | [wizard](https://open.spotify.com/album/5WiacWoGjt3yMoK8vtQ0tz) | 3:29 | 2021-12-21 |  |
+| [Black Rover](https://open.spotify.com/track/0OGw7V8wAI6OsZIQ12JkTP) | [VK Blanka](https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d) | [wizard](https://open.spotify.com/album/5WiacWoGjt3yMoK8vtQ0tz) | 3:29 | 2021-12-21 |  |
 | [Brave Shine](https://open.spotify.com/track/46YSff2Rq1ZtN1YVk5cwbZ) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [DAWN](https://open.spotify.com/album/7EHV2huu8yHAsPjzgmUjka) | 3:53 | 2021-12-21 | 2024-04-19 |
 | [Brave Shine](https://open.spotify.com/track/5FD8hfeNHqXqRxaGSxMr4p) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [DAWN](https://open.spotify.com/album/2fRyWvN5Rq4FRmae80RzF7) | 3:53 | 2021-12-21 |  |
 | [Brave Shine](https://open.spotify.com/track/5CchV8Rh5s2sJ377bUP52Y) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Brave Shine](https://open.spotify.com/album/284IHmODFtKRCwM3WRnwOW) | 3:53 | 2022-09-15 | 2022-11-13 |

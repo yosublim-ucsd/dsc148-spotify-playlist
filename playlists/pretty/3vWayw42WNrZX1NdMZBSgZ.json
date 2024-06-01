@@ -1,13 +1,37 @@
 {
-  "description": "The perfect mix of the latest pop hits! Follow this playlist and play Camilo &amp; Carin Leon &quot;Una Vida Pasada,&quot; Nicki Nicole &quot;Ojos Verdes,&quot;  Sky Rompiendo &amp; Rauw Alejandro  &quot;Espectacular&quot;, Reik &quot;Baja California&quot;, Shakira &amp; Cardi B &quot;Punter\u00eda,&quot;  Cover: Camilo",
-  "num_followers": 53812,
+  "description": "The perfect mix of the latest pop hits! Follow this playlist and play Camilo &amp; Carin Leon &quot;Una Vida Pasada,&quot; Nicki Nicole &quot;Ojos Verdes,&quot;  Sky Rompiendo &amp; Rauw Alejandro  &quot;Espectacular&quot;, Shakira &amp; Cardi B &quot;Punter\u00eda,&quot;  Cover: Luck Ra x KHEA x Maluma",
+  "num_followers": 53810,
   "original_name": "Pop Latin Hits",
   "owner": {
     "name": "Filtr Latino",
     "url": "https://open.spotify.com/user/toplatino"
   },
-  "snapshot_id": "AAARgeYriIV2k70G9MkrtaHzeQYeCBhW",
+  "snapshot_id": "AAARiZSCcdc3vMz5lYvBZDevWT45uXUo",
   "tracks": [
+    {
+      "added_at": "2024-05-31 04:18:39",
+      "album": {
+        "name": "HOLA PERDIDA REMIX",
+        "url": "https://open.spotify.com/album/5s4gYQChmlp8YwoNj3Vwi2"
+      },
+      "artists": [
+        {
+          "name": "Luck Ra",
+          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        }
+      ],
+      "duration_ms": 201030,
+      "name": "HOLA PERDIDA REMIX",
+      "url": "https://open.spotify.com/track/2FqTbwiogEVvZnkarPf5BV"
+    },
     {
       "added_at": "2024-04-05 12:19:17",
       "album": {
@@ -45,6 +69,46 @@
       "url": "https://open.spotify.com/track/2SaRD7OpQ2A9ZeCOntar0g"
     },
     {
+      "added_at": "2024-05-31 12:12:16",
+      "album": {
+        "name": "Cafecito",
+        "url": "https://open.spotify.com/album/22APOaVCt7C6TsWH3XB3Sl"
+      },
+      "artists": [
+        {
+          "name": "Gordo",
+          "url": "https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc"
+        },
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        },
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "duration_ms": 154710,
+      "name": "Cafecito",
+      "url": "https://open.spotify.com/track/0Jx0wecBc4647J4QMdmsY1"
+    },
+    {
+      "added_at": "2024-05-31 20:21:57",
+      "album": {
+        "name": "FRANCISCO",
+        "url": "https://open.spotify.com/album/1GY1TKnZp8ITZI3ZNVeCXw"
+      },
+      "artists": [
+        {
+          "name": "Neeus",
+          "url": "https://open.spotify.com/artist/4OMnvxQdSJeobzinrEjTpO"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "No Import\u00f3",
+      "url": "https://open.spotify.com/track/5f85eyVFDkF2REjrJJvhxh"
+    },
+    {
       "added_at": "2024-05-17 04:57:00",
       "album": {
         "name": "DARUMAS",
@@ -59,6 +123,46 @@
       "duration_ms": 186908,
       "name": "Mago",
       "url": "https://open.spotify.com/track/0Q4oppQ566CUYqfPhbkQB9"
+    },
+    {
+      "added_at": "2024-05-31 12:49:57",
+      "album": {
+        "name": "EL PANTALON (RUMBAS)",
+        "url": "https://open.spotify.com/album/0TtfzOFvZu1xudp1Of4uRa"
+      },
+      "artists": [
+        {
+          "name": "Omar Montes",
+          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
+        },
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        },
+        {
+          "name": "Las Chuches",
+          "url": "https://open.spotify.com/artist/4Orj5NmOg4wuREX0dzsyjR"
+        }
+      ],
+      "duration_ms": 193066,
+      "name": "EL PANTALON - RUMBAS",
+      "url": "https://open.spotify.com/track/5tt2V5NfowSz690MCLBlKO"
+    },
+    {
+      "added_at": "2024-05-31 12:55:33",
+      "album": {
+        "name": "Posdata:",
+        "url": "https://open.spotify.com/album/0oBnKQ2chigdzlJkUuVBYk"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 169162,
+      "name": "Posdata:",
+      "url": "https://open.spotify.com/track/1dqZaWGQf8CaHNIEi3e0D9"
     },
     {
       "added_at": "2024-04-25 00:18:05",
@@ -199,6 +303,30 @@
       "duration_ms": 295000,
       "name": "Enredadera",
       "url": "https://open.spotify.com/track/2VcrkGRHNbftgUZpqChlCD"
+    },
+    {
+      "added_at": "2024-05-29 16:37:50",
+      "album": {
+        "name": "Prometo Olvidarte (feat. Arturo Sandoval)",
+        "url": "https://open.spotify.com/album/52RlrzgKdtBB9fmH7wp1uP"
+      },
+      "artists": [
+        {
+          "name": "Yotuel",
+          "url": "https://open.spotify.com/artist/3IzFiozYX6N0Qoz0drX8w8"
+        },
+        {
+          "name": "Mala Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ"
+        },
+        {
+          "name": "Arturo Sandoval",
+          "url": "https://open.spotify.com/artist/0MGQZNEMaEICyku3cSDrnJ"
+        }
+      ],
+      "duration_ms": 231172,
+      "name": "Prometo Olvidarte (feat. Arturo Sandoval)",
+      "url": "https://open.spotify.com/track/2gsaK1tR1q3PzJgFlooQXC"
     },
     {
       "added_at": "2024-05-09 00:14:25",
@@ -505,7 +633,7 @@
         }
       ],
       "duration_ms": 170301,
-      "name": "Una Canci\u00f3n de Amor Para la Pulga",
+      "name": "Una Canci\u00f3n de Amor para La Pulga",
       "url": "https://open.spotify.com/track/773PYkiPCYQOYIXeaROEyv"
     },
     {

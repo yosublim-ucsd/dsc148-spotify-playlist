@@ -1,13 +1,29 @@
 {
   "description": "The jam scene is alive and well. Cover: SunSquabi",
-  "num_followers": 31140,
+  "num_followers": 31218,
   "original_name": "Modern Jam Band",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlAQwAAAAABkr8hRPnwE+1XAhkFlqWub",
+  "snapshot_id": "ZllLQAAAAADFA6zxPt2J18xew19/czD1",
   "tracks": [
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "My Mans Was a Funky Cat",
+        "url": "https://open.spotify.com/album/5Psv09dk1wPIoiPTUz5F4s"
+      },
+      "artists": [
+        {
+          "name": "Kendall Street Company",
+          "url": "https://open.spotify.com/artist/6AKT0nNWeP4Eb7ntkeBOj9"
+        }
+      ],
+      "duration_ms": 269495,
+      "name": "My Mans Was a Funky Cat",
+      "url": "https://open.spotify.com/track/7yvrKIBMBgPwbBWmb6ZO9K"
+    },
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
@@ -151,22 +167,6 @@
       "duration_ms": 289057,
       "name": "Give It What You Can",
       "url": "https://open.spotify.com/track/5rdV2FwCetBCDvu4oVYXdG"
-    },
-    {
-      "added_at": "2024-04-26 04:01:00",
-      "album": {
-        "name": "Mister Funky Daddy",
-        "url": "https://open.spotify.com/album/1n3DXIyRmvuv5RQ7G4EhdF"
-      },
-      "artists": [
-        {
-          "name": "Kendall Street Company",
-          "url": "https://open.spotify.com/artist/6AKT0nNWeP4Eb7ntkeBOj9"
-        }
-      ],
-      "duration_ms": 149581,
-      "name": "Mister Funky Daddy",
-      "url": "https://open.spotify.com/track/0ZShF0uFfkoQThIySmDd5l"
     },
     {
       "added_at": "2024-04-26 04:01:00",

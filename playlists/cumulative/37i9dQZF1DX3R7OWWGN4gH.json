@@ -2362,14 +2362,6 @@
       },
       "artists": [
         {
-          "name": "Andrew Underberg",
-          "url": "https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay"
-        },
-        {
-          "name": "Sam Haft",
-          "url": "https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8"
-        },
-        {
           "name": "Jeremy Jordan",
           "url": "https://open.spotify.com/artist/0vKWxtht5v5MoAu4DID0Ub"
         },
@@ -2384,6 +2376,14 @@
         {
           "name": "Kimiko Glenn",
           "url": "https://open.spotify.com/artist/6lU0XGyOn94aBZno3H9WpA"
+        },
+        {
+          "name": "Andrew Underberg",
+          "url": "https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay"
+        },
+        {
+          "name": "Sam Haft",
+          "url": "https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8"
         }
       ],
       "date_added": "2024-02-22",

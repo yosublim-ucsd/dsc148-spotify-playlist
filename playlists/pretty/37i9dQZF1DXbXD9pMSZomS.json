@@ -1,6 +1,6 @@
 {
   "description": "Distorted and rough around the edges.",
-  "num_followers": 464000,
+  "num_followers": 464218,
   "original_name": "Lo-Fi House",
   "owner": {
     "name": "Spotify",
@@ -291,22 +291,6 @@
     {
       "added_at": "2024-05-10 14:35:21",
       "album": {
-        "name": "Brasil",
-        "url": "https://open.spotify.com/album/6ZMy4Xs6u1k9x5Fm7oRcrI"
-      },
-      "artists": [
-        {
-          "name": "blnkspc_",
-          "url": "https://open.spotify.com/artist/3hZaebXqrD5crmyMP2x1qa"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "Brasil",
-      "url": "https://open.spotify.com/track/5A6P4j1vzChOHQj7rdZndJ"
-    },
-    {
-      "added_at": "2024-05-10 14:35:21",
-      "album": {
         "name": "Ocean Drift",
         "url": "https://open.spotify.com/album/4WX97pFfrHMvW1nORbpPF2"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 136666,
       "name": "Ocean Drift",
       "url": "https://open.spotify.com/track/1vBZaWEUbwo3bUfyrI5VRb"
+    },
+    {
+      "added_at": "2024-05-10 14:35:21",
+      "album": {
+        "name": "Brasil",
+        "url": "https://open.spotify.com/album/6ZMy4Xs6u1k9x5Fm7oRcrI"
+      },
+      "artists": [
+        {
+          "name": "blnkspc_",
+          "url": "https://open.spotify.com/artist/3hZaebXqrD5crmyMP2x1qa"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "Brasil",
+      "url": "https://open.spotify.com/track/5A6P4j1vzChOHQj7rdZndJ"
     },
     {
       "added_at": "2024-05-10 14:35:21",
@@ -339,22 +339,6 @@
     {
       "added_at": "2024-05-10 14:35:21",
       "album": {
-        "name": "Pup Slushy",
-        "url": "https://open.spotify.com/album/407R4waIBdW2CZewg2RAUP"
-      },
-      "artists": [
-        {
-          "name": "Loverground",
-          "url": "https://open.spotify.com/artist/3SvoerawAn5RAZ2N9osc3z"
-        }
-      ],
-      "duration_ms": 329462,
-      "name": "Pup Slushy",
-      "url": "https://open.spotify.com/track/1DPZj1aBYDjY3245z0Ri8K"
-    },
-    {
-      "added_at": "2024-05-10 14:35:21",
-      "album": {
         "name": "Kindzmarauli",
         "url": "https://open.spotify.com/album/0AdLfkXRS6rp9XSQxzB5Co"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 256695,
       "name": "Random Places",
       "url": "https://open.spotify.com/track/6c67MF8KIGhNkQGlNw9yuQ"
+    },
+    {
+      "added_at": "2024-05-10 14:35:21",
+      "album": {
+        "name": "Pup Slushy",
+        "url": "https://open.spotify.com/album/407R4waIBdW2CZewg2RAUP"
+      },
+      "artists": [
+        {
+          "name": "Loverground",
+          "url": "https://open.spotify.com/artist/3SvoerawAn5RAZ2N9osc3z"
+        }
+      ],
+      "duration_ms": 329462,
+      "name": "Pup Slushy",
+      "url": "https://open.spotify.com/track/1DPZj1aBYDjY3245z0Ri8K"
     },
     {
       "added_at": "2024-05-10 14:35:21",
@@ -411,22 +411,6 @@
     {
       "added_at": "2024-05-10 14:35:21",
       "album": {
-        "name": "No Borders",
-        "url": "https://open.spotify.com/album/5EdhvTsSyDz8OuiuyULLyK"
-      },
-      "artists": [
-        {
-          "name": "Living Room",
-          "url": "https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK"
-        }
-      ],
-      "duration_ms": 161400,
-      "name": "No Borders",
-      "url": "https://open.spotify.com/track/3gnVC0NahYmLwXOf42uaF1"
-    },
-    {
-      "added_at": "2024-05-10 14:35:21",
-      "album": {
         "name": "Closer To The Essence",
         "url": "https://open.spotify.com/album/0xwag0OCVGtybK0Y744oxX"
       },
@@ -443,18 +427,18 @@
     {
       "added_at": "2024-05-10 14:35:21",
       "album": {
-        "name": "199X",
-        "url": "https://open.spotify.com/album/3P8J6rHmSgyeq3lJF0ijIF"
+        "name": "No Borders",
+        "url": "https://open.spotify.com/album/5EdhvTsSyDz8OuiuyULLyK"
       },
       "artists": [
         {
-          "name": "Phil from Hav\u00eaa",
-          "url": "https://open.spotify.com/artist/5gyMIFkh865zZG52zrjgKM"
+          "name": "Living Room",
+          "url": "https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK"
         }
       ],
-      "duration_ms": 213333,
-      "name": "199X",
-      "url": "https://open.spotify.com/track/2K3GOGsD0FEKMkqyK8uTbP"
+      "duration_ms": 161400,
+      "name": "No Borders",
+      "url": "https://open.spotify.com/track/3gnVC0NahYmLwXOf42uaF1"
     },
     {
       "added_at": "2024-05-10 14:35:21",
@@ -479,18 +463,18 @@
     {
       "added_at": "2024-05-10 14:35:21",
       "album": {
-        "name": "We Should Chill On The Windowsill More",
-        "url": "https://open.spotify.com/album/0j49Rsgfpn2Q7RBQpZDssK"
+        "name": "199X",
+        "url": "https://open.spotify.com/album/3P8J6rHmSgyeq3lJF0ijIF"
       },
       "artists": [
         {
-          "name": "Loz Goddard",
-          "url": "https://open.spotify.com/artist/21NJRdO9lCxZWCkA9NGE7j"
+          "name": "Phil from Hav\u00eaa",
+          "url": "https://open.spotify.com/artist/5gyMIFkh865zZG52zrjgKM"
         }
       ],
-      "duration_ms": 326129,
-      "name": "Far From Home",
-      "url": "https://open.spotify.com/track/4i3Y42G0Um2iDVKb7XBRT9"
+      "duration_ms": 213333,
+      "name": "199X",
+      "url": "https://open.spotify.com/track/2K3GOGsD0FEKMkqyK8uTbP"
     },
     {
       "added_at": "2024-05-10 14:35:21",
@@ -507,6 +491,22 @@
       "duration_ms": 282857,
       "name": "The Sinner",
       "url": "https://open.spotify.com/track/2deVIYB1WgGyp3GCOIbctT"
+    },
+    {
+      "added_at": "2024-05-10 14:35:21",
+      "album": {
+        "name": "We Should Chill On The Windowsill More",
+        "url": "https://open.spotify.com/album/0j49Rsgfpn2Q7RBQpZDssK"
+      },
+      "artists": [
+        {
+          "name": "Loz Goddard",
+          "url": "https://open.spotify.com/artist/21NJRdO9lCxZWCkA9NGE7j"
+        }
+      ],
+      "duration_ms": 326129,
+      "name": "Far From Home",
+      "url": "https://open.spotify.com/track/4i3Y42G0Um2iDVKb7XBRT9"
     },
     {
       "added_at": "2024-05-10 14:35:21",
@@ -543,22 +543,6 @@
     {
       "added_at": "2024-05-10 14:35:21",
       "album": {
-        "name": "Alone Together",
-        "url": "https://open.spotify.com/album/6EUF2ofzBAtVWQW2fUWzsN"
-      },
-      "artists": [
-        {
-          "name": "Viken Arman",
-          "url": "https://open.spotify.com/artist/1xQVwAdSzsF8DO76NsZpMK"
-        }
-      ],
-      "duration_ms": 164878,
-      "name": "You With Me",
-      "url": "https://open.spotify.com/track/4MgyEN8kWjh6ARc67pjcLL"
-    },
-    {
-      "added_at": "2024-05-10 14:35:21",
-      "album": {
         "name": "Social Distancing EP",
         "url": "https://open.spotify.com/album/1mnDwYfAQVVMecB2OdDgob"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 312304,
       "name": "Amy",
       "url": "https://open.spotify.com/track/6v657gccnxfQLFJmfTQhjc"
+    },
+    {
+      "added_at": "2024-05-10 14:35:21",
+      "album": {
+        "name": "Alone Together",
+        "url": "https://open.spotify.com/album/6EUF2ofzBAtVWQW2fUWzsN"
+      },
+      "artists": [
+        {
+          "name": "Viken Arman",
+          "url": "https://open.spotify.com/artist/1xQVwAdSzsF8DO76NsZpMK"
+        }
+      ],
+      "duration_ms": 164878,
+      "name": "You With Me",
+      "url": "https://open.spotify.com/track/4MgyEN8kWjh6ARc67pjcLL"
     },
     {
       "added_at": "2024-05-10 14:35:21",
@@ -607,6 +607,22 @@
     {
       "added_at": "2024-05-10 14:35:21",
       "album": {
+        "name": "Polar Circle",
+        "url": "https://open.spotify.com/album/4X5z40sunDktW8g0axnzdB"
+      },
+      "artists": [
+        {
+          "name": "Ekfat",
+          "url": "https://open.spotify.com/artist/6kprXciGZ5AQ8TtoDPFFVc"
+        }
+      ],
+      "duration_ms": 117660,
+      "name": "Polar Circle",
+      "url": "https://open.spotify.com/track/477kMIDTYHO44W23L9GUhQ"
+    },
+    {
+      "added_at": "2024-05-10 14:35:21",
+      "album": {
         "name": "Everytime (Girls of the Internet Remix)",
         "url": "https://open.spotify.com/album/00tUn0L1LYxlimWjRsk97P"
       },
@@ -627,22 +643,6 @@
     {
       "added_at": "2024-05-10 14:35:21",
       "album": {
-        "name": "Polar Circle",
-        "url": "https://open.spotify.com/album/4X5z40sunDktW8g0axnzdB"
-      },
-      "artists": [
-        {
-          "name": "Ekfat",
-          "url": "https://open.spotify.com/artist/6kprXciGZ5AQ8TtoDPFFVc"
-        }
-      ],
-      "duration_ms": 117660,
-      "name": "Polar Circle",
-      "url": "https://open.spotify.com/track/477kMIDTYHO44W23L9GUhQ"
-    },
-    {
-      "added_at": "2024-05-10 14:35:21",
-      "album": {
         "name": "Passeggiata",
         "url": "https://open.spotify.com/album/56YPnlO2w75XGTWwKVy4VI"
       },
@@ -655,22 +655,6 @@
       "duration_ms": 135529,
       "name": "Tavolo",
       "url": "https://open.spotify.com/track/6O67qWawHI9BysecIhpdJj"
-    },
-    {
-      "added_at": "2024-05-10 14:35:21",
-      "album": {
-        "name": "Mind's Eye",
-        "url": "https://open.spotify.com/album/0V7YCgKiVWctiHpxc4Hmv1"
-      },
-      "artists": [
-        {
-          "name": "Hugo Mari",
-          "url": "https://open.spotify.com/artist/6BmSO09b1cngqE8X2SEygU"
-        }
-      ],
-      "duration_ms": 381662,
-      "name": "Kokiri Forest",
-      "url": "https://open.spotify.com/track/6vhVeoN1qJNJfdiIJAK4A9"
     },
     {
       "added_at": "2024-05-10 14:35:21",
@@ -703,6 +687,22 @@
       "duration_ms": 208000,
       "name": "Carefree",
       "url": "https://open.spotify.com/track/2Z93jIyx7k6fvTYDIbZJiO"
+    },
+    {
+      "added_at": "2024-05-10 14:35:21",
+      "album": {
+        "name": "Mind's Eye",
+        "url": "https://open.spotify.com/album/0V7YCgKiVWctiHpxc4Hmv1"
+      },
+      "artists": [
+        {
+          "name": "Hugo Mari",
+          "url": "https://open.spotify.com/artist/6BmSO09b1cngqE8X2SEygU"
+        }
+      ],
+      "duration_ms": 381662,
+      "name": "Kokiri Forest",
+      "url": "https://open.spotify.com/track/6vhVeoN1qJNJfdiIJAK4A9"
     },
     {
       "added_at": "2024-05-10 14:35:21",
@@ -755,18 +755,18 @@
     {
       "added_at": "2024-05-10 14:35:21",
       "album": {
-        "name": "Mellow Mornings",
-        "url": "https://open.spotify.com/album/6t4sfAMZKZ3ik8VqhruGvc"
+        "name": "Beats On Boat: Made in M",
+        "url": "https://open.spotify.com/album/5iJcyU0qYmTn6M5jnEr2yS"
       },
       "artists": [
         {
-          "name": "Shopan",
-          "url": "https://open.spotify.com/artist/2XHa2Sy9IYid9hnQ2YmtGl"
+          "name": "Made in M",
+          "url": "https://open.spotify.com/artist/5schXx0Ys4N52iU7On2j4c"
         }
       ],
-      "duration_ms": 154814,
-      "name": "Mellow Mornings",
-      "url": "https://open.spotify.com/track/4e316PpOtDD3WQE3t6Eqcp"
+      "duration_ms": 339130,
+      "name": "Flightmode On",
+      "url": "https://open.spotify.com/track/7guDKEbsm74iyFwdc4Wtdy"
     },
     {
       "added_at": "2024-05-10 14:35:21",
@@ -791,38 +791,18 @@
     {
       "added_at": "2024-05-10 14:35:21",
       "album": {
-        "name": "Beats On Boat: Made in M",
-        "url": "https://open.spotify.com/album/5iJcyU0qYmTn6M5jnEr2yS"
+        "name": "Mellow Mornings",
+        "url": "https://open.spotify.com/album/6t4sfAMZKZ3ik8VqhruGvc"
       },
       "artists": [
         {
-          "name": "Made in M",
-          "url": "https://open.spotify.com/artist/5schXx0Ys4N52iU7On2j4c"
+          "name": "Shopan",
+          "url": "https://open.spotify.com/artist/2XHa2Sy9IYid9hnQ2YmtGl"
         }
       ],
-      "duration_ms": 339130,
-      "name": "Flightmode On",
-      "url": "https://open.spotify.com/track/7guDKEbsm74iyFwdc4Wtdy"
-    },
-    {
-      "added_at": "2024-05-10 14:35:21",
-      "album": {
-        "name": "Be Free",
-        "url": "https://open.spotify.com/album/6feqNecN7VPp8Th36yMDeJ"
-      },
-      "artists": [
-        {
-          "name": "J Boogie's Dubtronic Science",
-          "url": "https://open.spotify.com/artist/2rvTQk7vgdGgo7rgbpQccv"
-        },
-        {
-          "name": "Carlos Araiza",
-          "url": "https://open.spotify.com/artist/0RSWrUebnvbFC1IdV5J06y"
-        }
-      ],
-      "duration_ms": 349560,
-      "name": "Be Free",
-      "url": "https://open.spotify.com/track/6lrKGHqI1tWcLob2F9UzWQ"
+      "duration_ms": 154814,
+      "name": "Mellow Mornings",
+      "url": "https://open.spotify.com/track/4e316PpOtDD3WQE3t6Eqcp"
     },
     {
       "added_at": "2024-05-10 14:35:21",
@@ -843,34 +823,6 @@
     {
       "added_at": "2024-05-10 14:35:21",
       "album": {
-        "name": "Moon II Remixes Pt. II",
-        "url": "https://open.spotify.com/album/7xlT3P0bDwaphbAUhIYYpD"
-      },
-      "artists": [
-        {
-          "name": "Iron Curtis",
-          "url": "https://open.spotify.com/artist/3SxSMKGboN9d8DxDRIB7pH"
-        },
-        {
-          "name": "Johannes Albert",
-          "url": "https://open.spotify.com/artist/5FMcKm7A4LRwIJnkzuKZFt"
-        },
-        {
-          "name": "Lisa Toh",
-          "url": "https://open.spotify.com/artist/17oFlDwJ5mU3pfbUxArTCO"
-        },
-        {
-          "name": "Erdbeerschnitzel",
-          "url": "https://open.spotify.com/artist/36VqKnfwNzccEtS4eiFkMx"
-        }
-      ],
-      "duration_ms": 277567,
-      "name": "Nektar Leftie MIX - Erdbeerschnitzel Remix",
-      "url": "https://open.spotify.com/track/5yHjIzK4HlP9pmnpTyKiyQ"
-    },
-    {
-      "added_at": "2024-05-10 14:35:21",
-      "album": {
         "name": "Everytime EP",
         "url": "https://open.spotify.com/album/1sv2bbVxs3BcuAl9ixkysw"
       },
@@ -883,6 +835,26 @@
       "duration_ms": 308269,
       "name": "Everytime",
       "url": "https://open.spotify.com/track/3DRkEQPkREzvk8ETaKCkf9"
+    },
+    {
+      "added_at": "2024-05-10 14:35:21",
+      "album": {
+        "name": "Be Free",
+        "url": "https://open.spotify.com/album/6feqNecN7VPp8Th36yMDeJ"
+      },
+      "artists": [
+        {
+          "name": "J Boogie's Dubtronic Science",
+          "url": "https://open.spotify.com/artist/2rvTQk7vgdGgo7rgbpQccv"
+        },
+        {
+          "name": "Carlos Araiza",
+          "url": "https://open.spotify.com/artist/0RSWrUebnvbFC1IdV5J06y"
+        }
+      ],
+      "duration_ms": 349560,
+      "name": "Be Free",
+      "url": "https://open.spotify.com/track/6lrKGHqI1tWcLob2F9UzWQ"
     },
     {
       "added_at": "2024-05-10 14:35:21",
@@ -919,6 +891,34 @@
     {
       "added_at": "2024-05-10 14:35:21",
       "album": {
+        "name": "Moon II Remixes Pt. II",
+        "url": "https://open.spotify.com/album/7xlT3P0bDwaphbAUhIYYpD"
+      },
+      "artists": [
+        {
+          "name": "Iron Curtis",
+          "url": "https://open.spotify.com/artist/3SxSMKGboN9d8DxDRIB7pH"
+        },
+        {
+          "name": "Johannes Albert",
+          "url": "https://open.spotify.com/artist/5FMcKm7A4LRwIJnkzuKZFt"
+        },
+        {
+          "name": "Lisa Toh",
+          "url": "https://open.spotify.com/artist/17oFlDwJ5mU3pfbUxArTCO"
+        },
+        {
+          "name": "Erdbeerschnitzel",
+          "url": "https://open.spotify.com/artist/36VqKnfwNzccEtS4eiFkMx"
+        }
+      ],
+      "duration_ms": 277567,
+      "name": "Nektar Leftie MIX - Erdbeerschnitzel Remix",
+      "url": "https://open.spotify.com/track/5yHjIzK4HlP9pmnpTyKiyQ"
+    },
+    {
+      "added_at": "2024-05-10 14:35:21",
+      "album": {
         "name": "Deep Love",
         "url": "https://open.spotify.com/album/3UX31DU0KJ1nrCOnmuEDzs"
       },
@@ -935,26 +935,6 @@
       "duration_ms": 314000,
       "name": "Deep Love",
       "url": "https://open.spotify.com/track/6nV2F340l20xyzxhoyWKx8"
-    },
-    {
-      "added_at": "2024-05-10 14:35:21",
-      "album": {
-        "name": "Forgiveness",
-        "url": "https://open.spotify.com/album/1MmarqecvxwzaaQQHSdutV"
-      },
-      "artists": [
-        {
-          "name": "Tour-Maubourg",
-          "url": "https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su"
-        },
-        {
-          "name": "AOC Records",
-          "url": "https://open.spotify.com/artist/6eoHnakjWcosB8baPzr7Gy"
-        }
-      ],
-      "duration_ms": 289941,
-      "name": "Forgiveness",
-      "url": "https://open.spotify.com/track/1G9e9FPyVPDjKsRPMX7nYH"
     },
     {
       "added_at": "2024-05-10 14:35:21",
@@ -991,22 +971,22 @@
     {
       "added_at": "2024-05-10 14:35:21",
       "album": {
-        "name": "Flutes of Gold",
-        "url": "https://open.spotify.com/album/2z4JbfOQxmzY2SjcKA4ATD"
+        "name": "Forgiveness",
+        "url": "https://open.spotify.com/album/1MmarqecvxwzaaQQHSdutV"
       },
       "artists": [
         {
-          "name": "Felipe Gordon",
-          "url": "https://open.spotify.com/artist/7rQKvsWUOJgXmInx2JuaXj"
+          "name": "Tour-Maubourg",
+          "url": "https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su"
         },
         {
-          "name": "Toro Moratto",
-          "url": "https://open.spotify.com/artist/394p0JVHuJ3UxHpJbsTp0H"
+          "name": "AOC Records",
+          "url": "https://open.spotify.com/artist/6eoHnakjWcosB8baPzr7Gy"
         }
       ],
-      "duration_ms": 422278,
-      "name": "Flutes of Gold",
-      "url": "https://open.spotify.com/track/0JMbvSbbfNiK5NAk22i46M"
+      "duration_ms": 289941,
+      "name": "Forgiveness",
+      "url": "https://open.spotify.com/track/1G9e9FPyVPDjKsRPMX7nYH"
     },
     {
       "added_at": "2024-05-10 14:35:21",
@@ -1023,6 +1003,26 @@
       "duration_ms": 460800,
       "name": "Another Day",
       "url": "https://open.spotify.com/track/4HxxVwV18v5yIzHtmgBlfB"
+    },
+    {
+      "added_at": "2024-05-10 14:35:21",
+      "album": {
+        "name": "Flutes of Gold",
+        "url": "https://open.spotify.com/album/2z4JbfOQxmzY2SjcKA4ATD"
+      },
+      "artists": [
+        {
+          "name": "Felipe Gordon",
+          "url": "https://open.spotify.com/artist/7rQKvsWUOJgXmInx2JuaXj"
+        },
+        {
+          "name": "Toro Moratto",
+          "url": "https://open.spotify.com/artist/394p0JVHuJ3UxHpJbsTp0H"
+        }
+      ],
+      "duration_ms": 422278,
+      "name": "Flutes of Gold",
+      "url": "https://open.spotify.com/track/0JMbvSbbfNiK5NAk22i46M"
     }
   ],
   "unique_name": "Lo-Fi House",

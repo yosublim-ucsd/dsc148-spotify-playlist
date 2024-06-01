@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-09-17",
-  "description": "This is: Nick Drake. \u041d\u0430\u0439\u2011\u0437\u043d\u0430\u0447\u0438\u043c\u0438\u0442\u0435 \u0437\u0430\u043f\u0438\u0441\u0438, \u0432\u0441\u0438\u0447\u043a\u0438 \u0432 \u0435\u0434\u0438\u043d \u043f\u043b\u0435\u0439\u043b\u0438\u0441\u0442.",
-  "name": "This Is: Nick Drake",
+  "description": "This is Nick Drake. Todos os maiores hits em uma s\u00f3 playlist.",
+  "name": "This Is Nick Drake",
   "tracks": [
     {
       "album": {
@@ -86,6 +86,24 @@
       "duration_ms": 115960,
       "name": "All My Trials",
       "url": "https://open.spotify.com/track/7nTkGz7kHuDZ6frHXk2HEQ"
+    },
+    {
+      "album": {
+        "name": "Bryter Layter",
+        "url": "https://open.spotify.com/album/0B2E1w5T7PEbZIctZnnt9K"
+      },
+      "artists": [
+        {
+          "name": "Nick Drake",
+          "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
+        }
+      ],
+      "date_added": "2024-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283333,
+      "name": "At The Chime Of A City Clock",
+      "url": "https://open.spotify.com/track/2pcFLtTZRBbYYgXZzExUo8"
     },
     {
       "album": {
@@ -774,7 +792,7 @@
       ],
       "date_added": "2024-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 231906,
       "name": "Man In A Shed",
       "url": "https://open.spotify.com/track/7rDJymAeuDbAKmRO07dGHS"
@@ -882,7 +900,7 @@
       ],
       "date_added": "2024-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 223722,
       "name": "Northern Sky",
       "url": "https://open.spotify.com/track/7pdmBld4yW3WIUkrxHyb5r"
@@ -1062,7 +1080,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-29",
+      "date_removed": null,
       "duration_ms": 245013,
       "name": "Saturday Sun",
       "url": "https://open.spotify.com/track/1drLQNS9D5z9lBP4DbtO2R"

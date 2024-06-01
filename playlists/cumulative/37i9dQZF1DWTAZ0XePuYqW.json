@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-08-19",
-  "description": "That's that big energy. Cover: KAYTRANADA",
+  "description": "That's that big energy. Cover: Lay Bankz",
   "name": "Bounce",
   "tracks": [
     {
@@ -682,7 +682,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 128000,
       "name": "Barbie",
       "url": "https://open.spotify.com/track/0wnZP5KJSJ8xmTJmmjOqwr"
@@ -1641,6 +1641,24 @@
     },
     {
       "album": {
+        "name": "DJ Got Me",
+        "url": "https://open.spotify.com/album/0M8nZTO9KJ0x06YJPshuMZ"
+      },
+      "artists": [
+        {
+          "name": "Maeta",
+          "url": "https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135228,
+      "name": "DJ Got Me",
+      "url": "https://open.spotify.com/track/5lFcDZXn5dXeAimwkpNP6s"
+    },
+    {
+      "album": {
         "name": "Do Dat Baby",
         "url": "https://open.spotify.com/album/2qvRboRK59jvKqYS0MMyi0"
       },
@@ -2308,7 +2326,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 146972,
       "name": "GEEKALEEK (feat. Cash Kidd) [Spotify OUTSIDE Version]",
       "url": "https://open.spotify.com/track/2PRuqeZxJNYdnSdPym47kF"
@@ -2498,7 +2516,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 138100,
       "name": "Give It To 'Em",
       "url": "https://open.spotify.com/track/7gb39FeCydnNWREnqs6guo"
@@ -2833,6 +2851,24 @@
     },
     {
       "album": {
+        "name": "Hot Honey",
+        "url": "https://open.spotify.com/album/6jRGHMzuPV5oSphIusq9IL"
+      },
+      "artists": [
+        {
+          "name": "LION BABE",
+          "url": "https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "Hot Honey",
+      "url": "https://open.spotify.com/track/2zq9JzV4REqw574jN2yyEH"
+    },
+    {
+      "album": {
         "name": "Dancehall Riddim: Rush",
         "url": "https://open.spotify.com/album/0fLKkhsA6XpMtCoW5QZyOA"
       },
@@ -3006,7 +3042,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 137704,
       "name": "In My Bag",
       "url": "https://open.spotify.com/track/7Fa4P7koWXkVs5ZUIWvAD3"
@@ -3108,6 +3144,32 @@
       "duration_ms": 171428,
       "name": "Jersey",
       "url": "https://open.spotify.com/track/0bzAIaIHmILyOOiP0nQGMj"
+    },
+    {
+      "album": {
+        "name": "Jordan 1s (Effy Rework)",
+        "url": "https://open.spotify.com/album/6mv6SyHksCO4Pnq4IxXFps"
+      },
+      "artists": [
+        {
+          "name": "Vv Pete",
+          "url": "https://open.spotify.com/artist/66IkoRt5JAg88LCnPuyxXr"
+        },
+        {
+          "name": "UTILITY",
+          "url": "https://open.spotify.com/artist/07SL7uPXhqtBGz0Pqljjgi"
+        },
+        {
+          "name": "Effy",
+          "url": "https://open.spotify.com/artist/19SX00qkAvpVQroAka9GI0"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219577,
+      "name": "Jordan 1s - Effy Rework",
+      "url": "https://open.spotify.com/track/1PsmJW9eYuXY7zRtYxRzMI"
     },
     {
       "album": {
@@ -3718,10 +3780,36 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 195666,
       "name": "Mashallah",
       "url": "https://open.spotify.com/track/6IzSh3p8d9LaZemZi7FP6o"
+    },
+    {
+      "album": {
+        "name": "ME ME ME",
+        "url": "https://open.spotify.com/album/0suOHgmSujZSBz15LuSK0h"
+      },
+      "artists": [
+        {
+          "name": "Earlly Mac",
+          "url": "https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ"
+        },
+        {
+          "name": "Slum Village",
+          "url": "https://open.spotify.com/artist/1020a42xVklY6c56imNcaa"
+        },
+        {
+          "name": "DeJ Loaf",
+          "url": "https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205573,
+      "name": "ME ME ME",
+      "url": "https://open.spotify.com/track/1F7OFUS5sYUcIeyi32lq2y"
     },
     {
       "album": {
@@ -5804,7 +5892,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 124444,
       "name": "Tell Ur Girlfriend",
       "url": "https://open.spotify.com/track/3lMzT16MjAKKXF7pSZn13B"
@@ -6583,6 +6671,46 @@
     },
     {
       "album": {
+        "name": "Work Ya Body",
+        "url": "https://open.spotify.com/album/5u3KAwMNkeq7VkQQlhOAN7"
+      },
+      "artists": [
+        {
+          "name": "Mighty Mark",
+          "url": "https://open.spotify.com/artist/1ZOrj4AfBAHarzErIezwhM"
+        },
+        {
+          "name": "Cakes da Killa",
+          "url": "https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192727,
+      "name": "Work Ya Body",
+      "url": "https://open.spotify.com/track/0kIgzYzdpYUtSkyy4NlCva"
+    },
+    {
+      "album": {
+        "name": "After 7",
+        "url": "https://open.spotify.com/album/3jMiuPdLcZ3svm5u2hSmnj"
+      },
+      "artists": [
+        {
+          "name": "Lay Bankz",
+          "url": "https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155000,
+      "name": "WOULD YOU?",
+      "url": "https://open.spotify.com/track/4375FaARAe3R3PMzdIdtKS"
+    },
+    {
+      "album": {
         "name": "Woza",
         "url": "https://open.spotify.com/album/4bVvfapu2O5kd1KxUpvef9"
       },
@@ -6796,7 +6924,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 225693,
       "name": "ZOOM",
       "url": "https://open.spotify.com/track/5BrX72zkxJaowRZwgM8wyB"

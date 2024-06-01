@@ -2255,6 +2255,24 @@
     },
     {
       "album": {
+        "name": "In My Boat",
+        "url": "https://open.spotify.com/album/0OqAGymq91dbQM4zQagCFL"
+      },
+      "artists": [
+        {
+          "name": "Elliot Gordon",
+          "url": "https://open.spotify.com/artist/57vFl2LNxCx1EPf2cqMe2a"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82000,
+      "name": "In My Boat",
+      "url": "https://open.spotify.com/track/0mC9TvIZIbKv13zKhRl2Rk"
+    },
+    {
+      "album": {
         "name": "It's So Dark",
         "url": "https://open.spotify.com/album/4Zj4uCUzd7w4AP7miOrg4f"
       },
@@ -3152,6 +3170,24 @@
       "duration_ms": 83382,
       "name": "One Two Three",
       "url": "https://open.spotify.com/track/6xzTftimykDDWxCKVzICLC"
+    },
+    {
+      "album": {
+        "name": "Our Lullaby",
+        "url": "https://open.spotify.com/album/1QtAggZ1k9EXY0G98OPJdl"
+      },
+      "artists": [
+        {
+          "name": "Jim WInce",
+          "url": "https://open.spotify.com/artist/7Jr1tryBYAsWD0LeTwr1LF"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116946,
+      "name": "Our Lullaby",
+      "url": "https://open.spotify.com/track/1rtRG7Qbx0aa0DGuKudGEs"
     },
     {
       "album": {
@@ -4145,6 +4181,24 @@
     },
     {
       "album": {
+        "name": "Teddys Dream",
+        "url": "https://open.spotify.com/album/3DY60qm4d2xbrS8c3wrZzA"
+      },
+      "artists": [
+        {
+          "name": "Jana Smith",
+          "url": "https://open.spotify.com/artist/5FzBu7hUNL3F2cA92hqfBp"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79979,
+      "name": "Teddys Dream",
+      "url": "https://open.spotify.com/track/4yAXm981wdQVYAynH6zMZD"
+    },
+    {
+      "album": {
         "name": "Teeny Tiny Fortress",
         "url": "https://open.spotify.com/album/3IMKliBe95wlMROqgquHC3"
       },
@@ -4646,6 +4700,24 @@
       "duration_ms": 54250,
       "name": "Twinkle twinkle little star",
       "url": "https://open.spotify.com/track/0GpjHdTg8HUBqqjjbuyRZx"
+    },
+    {
+      "album": {
+        "name": "Twinkling",
+        "url": "https://open.spotify.com/album/2jh3QC6S8bl2RoovsQ93YF"
+      },
+      "artists": [
+        {
+          "name": "Etne Ski\u00f6ld",
+          "url": "https://open.spotify.com/artist/2hBTCIkNqbHQYTDIhxDfJD"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89822,
+      "name": "Twinkling",
+      "url": "https://open.spotify.com/track/4KqTwbHgsdTJcbjPUi1NSw"
     },
     {
       "album": {

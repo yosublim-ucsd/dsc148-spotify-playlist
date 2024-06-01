@@ -2,9 +2,9 @@
 
 ### [Indie Argentina](https://open.spotify.com/playlist/37i9dQZF1DWV8ttjhONFA1)
 
-> El nuevo sonido argentino lo encontrás acá\. Foto: Paz Carrara.
+> El nuevo sonido argentino lo encontrás acá\. Foto: Clara Cava.
 
-193 songs - 10 hr 42 min
+195 songs - 10 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,20 +139,21 @@
 | [Papito Barloa](https://open.spotify.com/track/6ZNkAcje0hYiuSPL5oklE1) | [Gauchito Club](https://open.spotify.com/artist/58gIcdW6E0jd0846aI1sVj) | [Papito Barloa](https://open.spotify.com/album/6XdDsxZReYWAWGrxotjkGx) | 3:14 | 2023-12-15 | 2024-04-06 |
 | [PARA VERTE](https://open.spotify.com/track/0oJM0jSk8WjPIuOkHA1OB0) | [CATALINA](https://open.spotify.com/artist/6pfrUyP2ZvxxoUcnkglXn2) | [INFRUTESCENCIA](https://open.spotify.com/album/1odlnV35gC6mB26BJ4Q8fm) | 2:19 | 2023-12-15 | 2024-01-20 |
 | [Patagónicos](https://open.spotify.com/track/5NfH9COWPnpgquEWWnrvsr) | [Ine Güemes](https://open.spotify.com/artist/6eT4EH9YSy7e4y1EY1XibR) | [Qué Nos Mantiene Despiertos](https://open.spotify.com/album/376DNPl0ELW1rNHzR2faxY) | 3:28 | 2024-02-23 | 2024-04-06 |
-| [Pelo Suelto](https://open.spotify.com/track/1qNxLFVArTx1apjahvwbgR) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy), [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Pelo Suelto](https://open.spotify.com/album/5GMwzpHmzwPY1qcd2psoYt) | 3:24 | 2023-12-15 |  |
+| [Pelo Suelto](https://open.spotify.com/track/1qNxLFVArTx1apjahvwbgR) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy), [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Pelo Suelto](https://open.spotify.com/album/5GMwzpHmzwPY1qcd2psoYt) | 3:24 | 2023-12-15 | 2024-06-01 |
 | [PELÍCULA](https://open.spotify.com/track/77A3xEknQEC8hPgGVnXycm) | [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi), [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [PELÍCULA](https://open.spotify.com/album/6lT06CuWfp72mTbXZsnN9L) | 2:58 | 2023-12-22 | 2024-04-27 |
 | [pensando en ti](https://open.spotify.com/track/3G6Mo5GUWdzPZdsmdU4juo) | [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW) | [pensando en ti](https://open.spotify.com/album/6bLJ9EbgSDl3rksxqhQfg9) | 3:17 | 2023-12-15 |  |
 | [Perdido En Ti](https://open.spotify.com/track/6n8rPrjpEcRfMlCzh3hif9) | [Joaquín Vitola](https://open.spotify.com/artist/4GHo23JMbtceTkGJdnEaXd) | [Perdido En Ti](https://open.spotify.com/album/7nxX89zp68duswD5BF5Bqn) | 3:08 | 2023-12-15 | 2024-03-02 |
 | [Perdón](https://open.spotify.com/track/2Dt9XzdTyfHjQlz7aAraor) | [Paz Carrara](https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg) | [Perdón](https://open.spotify.com/album/26H0Ji3Lr8GUXdUBfphCZu) | 3:42 | 2023-12-15 |  |
 | [Playita](https://open.spotify.com/track/3zUBGvGynrXKx1sKzTre98) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [Sueño Cítrico \(El Día Después\)](https://open.spotify.com/album/1c92815dElLk9cEKctEvEv) | 2:51 | 2023-12-15 |  |
 | [Policía](https://open.spotify.com/track/0pDooPTaMUaDQfnBdbPdYo) | [1915](https://open.spotify.com/artist/4jwnlVc9Lj5vMkL32978d1) | [Bandera](https://open.spotify.com/album/318AKHHgLilno4gE3AiEAA) | 3:54 | 2024-04-05 |  |
+| [Politoxic](https://open.spotify.com/track/3XQAOtYo8XqqRg6M7UlauT) | [Francisca y Los Exploradores](https://open.spotify.com/artist/2axDF0woEL8GYIoW93gPPf), [Marcos French](https://open.spotify.com/artist/22kjElNe2hsztOI6ORleRc) | [Politoxic](https://open.spotify.com/album/4zA2cKqs6GDQhvNVo6SgMY) | 3:17 | 2024-05-31 |  |
 | [Político o Rolling Stone](https://open.spotify.com/track/4c30sAt9qwApsKflh7aKcO) | [Galean](https://open.spotify.com/artist/3usCwS0jcb6SFJe3ZPiFA8), [El príncipe idiota](https://open.spotify.com/artist/5xEgsOYkENDU9TRoKMWW3u) | [Político o Rolling Stone](https://open.spotify.com/album/1tVa6RRL4alQsyRpw21gR1) | 4:06 | 2024-04-26 |  |
 | [Por qué te quiero tanto?](https://open.spotify.com/track/5gTFFnnIds7moFhePvYToE) | [Paz Carrara](https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg) | [Por qué te quiero tanto?](https://open.spotify.com/album/2zzOpbnXDcj9myQf76Fcih) | 3:51 | 2023-12-15 | 2024-02-17 |
 | [Porcelana](https://open.spotify.com/track/7xp6FaOnH8qUY2Jm83qKzs) | [FLORIAN](https://open.spotify.com/artist/6C3bLjpIfVoapHjMfpYAy2) | [Porcelana](https://open.spotify.com/album/0N9YsGgRS8xRzgBH9GpNav) | 3:08 | 2024-03-15 | 2024-05-25 |
 | [Porque](https://open.spotify.com/track/50mMnSKjwWAvkL3OwUiVhS) | [Juku Ares](https://open.spotify.com/artist/02WiMWJUw1eRS0d2tEJauw) | [Quemarropa](https://open.spotify.com/album/5EOlfoHmwgfn6N5Vz74ss9) | 3:00 | 2023-12-15 | 2024-04-06 |
 | [Primer encuentro](https://open.spotify.com/track/4emJgbXvVStk13TJOQ3xWV) | [Paz Carrara](https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg), [Gauchito Club](https://open.spotify.com/artist/58gIcdW6E0jd0846aI1sVj) | [Primer encuentro](https://open.spotify.com/album/6LHPL2nlo5M8tx5Eyc0nXm) | 4:06 | 2024-03-22 |  |
 | [Primer Recreo](https://open.spotify.com/track/144KMvLxNA4nPWS40u0WMS) | [Gauchito Club](https://open.spotify.com/artist/58gIcdW6E0jd0846aI1sVj), [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [Primer Recreo](https://open.spotify.com/album/1s1j0WlzBE2XL2A2WGpuor) | 3:55 | 2023-12-15 | 2024-05-18 |
-| [Protagonista](https://open.spotify.com/track/4Aoz42A3p0N9fReZrIezJ5) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Azul Es Donde Siempre Estoy](https://open.spotify.com/album/77Vk3uswiePwToPS6yUz1M) | 2:53 | 2023-12-15 |  |
+| [Protagonista](https://open.spotify.com/track/4Aoz42A3p0N9fReZrIezJ5) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Azul Es Donde Siempre Estoy](https://open.spotify.com/album/77Vk3uswiePwToPS6yUz1M) | 2:53 | 2023-12-15 | 2024-06-01 |
 | [Que Placer](https://open.spotify.com/track/2SS9GnNMqb1ciYOSWLXNAL) | [La Gente del Bien](https://open.spotify.com/artist/0M7YLSxwvd6kNKHbH8eQUw) | [Locomotora](https://open.spotify.com/album/5EGcEvMUKQS4cnJFhlYvvf) | 3:05 | 2023-12-15 | 2024-04-06 |
 | [Quereme Siempre](https://open.spotify.com/track/5eT8Why2mqdiI73Os1BLk9) | [Zenon Pereyra](https://open.spotify.com/artist/73lBjMjlN5WczHNWLIIVee) | [Quereme Siempre](https://open.spotify.com/album/0n1LW0iPsFVtNd4DFkIuED) | 2:57 | 2023-12-15 | 2024-03-16 |
 | [Resaca](https://open.spotify.com/track/1vgwKBxFV0KRoKlEq2fqkk) | [1915](https://open.spotify.com/artist/4jwnlVc9Lj5vMkL32978d1) | [Resaca](https://open.spotify.com/album/0kXhUyBXTjElgrkGStIVMr) | 3:22 | 2024-02-23 | 2024-04-27 |
@@ -199,6 +200,7 @@
 | [Viento helado](https://open.spotify.com/track/6esfymnhduFli5Sy1rRb3z) | [Rocco Posca](https://open.spotify.com/artist/1d7BLhorBcreW8Zs9SxHcd) | [Viento helado](https://open.spotify.com/album/11C8gOlm6EB8DXXZS1RkY2) | 2:23 | 2024-03-08 |  |
 | [Visa Gold Miami](https://open.spotify.com/track/0Pd4u4TF4v3xsUK6ziOamg) | [Francisca y Los Exploradores](https://open.spotify.com/artist/2axDF0woEL8GYIoW93gPPf), [Lauta](https://open.spotify.com/artist/5ELYwDwhy00ecTXhfsKWci), [Tote](https://open.spotify.com/artist/4JvhKLSrtJy7jAWYaatd64) | [Visa Gold Miami](https://open.spotify.com/album/4RP1zedrA6lKoiOku9W7mw) | 3:01 | 2023-12-15 | 2024-03-16 |
 | [Y vos decís que me gustás](https://open.spotify.com/track/39Zdm7as5HOcbIkvIQBqLD) | [Manu Martínez](https://open.spotify.com/artist/37P2y0CGo3jIcG0QIIJQfS), [Anyi](https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD) | [Y vos decís que me gustás](https://open.spotify.com/album/56CQFLi5i54v0mgfbzrV4q) | 2:33 | 2023-12-15 | 2024-03-02 |
+| [ya está, ya fue :\(](https://open.spotify.com/track/6VyAoyV8ZTH7LGCrrlfNoA) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [ya está, ya fue :\(](https://open.spotify.com/album/6fvSV5TC6POgSYhMvZAqkV) | 3:05 | 2024-05-31 |  |
 | [Ya fue](https://open.spotify.com/track/1RsAoqvtT8Uqsg2HUejHeG) | [Santi Celli](https://open.spotify.com/artist/3zoMlg6gx6K4NcGE15qtCF), [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [Ya fue](https://open.spotify.com/album/3UAdbKKyU8bflHX2vlQcGf) | 3:06 | 2023-12-15 | 2024-02-17 |
 | [Óxido](https://open.spotify.com/track/0EL6TLGSGVInCuTlFQesWD) | [Peces Raros](https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9) | [Óxido](https://open.spotify.com/album/5WqBhwKHsjcQyImgRtHt59) | 2:54 | 2023-12-15 |  |
 

@@ -1109,6 +1109,24 @@
     },
     {
       "album": {
+        "name": "Helem Geffey",
+        "url": "https://open.spotify.com/album/1V23wqZu0pJmJ3TANpCycg"
+      },
+      "artists": [
+        {
+          "name": "Mahmoud Al Turky",
+          "url": "https://open.spotify.com/artist/1GVRoyErxhZGdvmOKGO7W7"
+        }
+      ],
+      "date_added": "2024-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194018,
+      "name": "Helem Geffey",
+      "url": "https://open.spotify.com/track/2F48MRUip6OrIEs2vJ0QVA"
+    },
+    {
+      "album": {
         "name": "Helo Hal Shuur",
         "url": "https://open.spotify.com/album/7JHeEldInEzQ2mWDDYeCWv"
       },

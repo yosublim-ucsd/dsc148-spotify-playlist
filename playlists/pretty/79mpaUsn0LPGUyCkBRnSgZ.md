@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 497 songs - 1 day 8 hr 41 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 498 songs - 1 day 8 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -491,19 +491,20 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 481 | [do u c](https://open.spotify.com/track/6nAmgIbPY6NdjWAWtOu7lz) | [Blu](https://open.spotify.com/artist/1KeJhR0ENFviw187pD4LPT) | [abc](https://open.spotify.com/album/6FtMqIlKhwju50LBpFXs20) | 0:35 |
 | 482 | [Silent Resolve](https://open.spotify.com/track/5TFjulUVozhg2upoFmbblV) | [Circa](https://open.spotify.com/artist/0NWAtptwHV1dlKCTTcNHly) | [Valley of the Windmill](https://open.spotify.com/album/3MndV3Q7I9Nxdy8rpl0jqp) | 14:41 |
 | 483 | [Beautiful Seven](https://open.spotify.com/track/3LIOzrflkzUxW5GFeBCkXx) | [Osibisa](https://open.spotify.com/artist/12X85dtebfc7JTZ8iMBT2o) | [Woyaya](https://open.spotify.com/album/72hcKrMgA7vVJLAOAKW8c2) | 6:46 |
-| 484 | [Singing Winds, Crying Beasts](https://open.spotify.com/track/0vBCQeiEKRy6eJmrf5zz4H) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [Abraxas](https://open.spotify.com/album/1CHUXwuge9A7L2KiA3vnR6) | 4:50 |
-| 485 | [Nappy Heads](https://open.spotify.com/track/5ZOsm73xqrZPJBBtv4aGpS) | [Fugees](https://open.spotify.com/artist/2WKdxPFRD7IqZvlIAvhMgY) | [Blunted On Reality](https://open.spotify.com/album/0SHdsrvo4oGJiUlYLaqCcu) | 4:29 |
-| 486 | [Close Your Eyes and Swing](https://open.spotify.com/track/3YLGWFX2FfHIVV7EJvRlrn) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [Dark Times](https://open.spotify.com/album/30BFY5VHii4PyWqkTubUWX) | 0:31 |
-| 487 | [CORLEONE](https://open.spotify.com/track/5VrKDJsD0VhIfjZxCEUXOI) | [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [GRASA](https://open.spotify.com/album/2ab0PTJ5OG7I6YfSqpDFZv) | 2:28 |
-| 488 | [Chutney](https://open.spotify.com/track/66wVaiPKHWIx2g4oMQ7ic1) | [Mandrill](https://open.spotify.com/artist/6RWnslEkqboHbDg0OUabe5) | [Mandrill](https://open.spotify.com/album/4bD8UUx1VGPsWbSAtfEWgX) | 3:05 |
-| 489 | [Right People, Wrong Place](https://open.spotify.com/track/2ftb45L7iXYwp0WoTEuslG) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Right Place, Wrong Person](https://open.spotify.com/album/512dQp7hBbDDurodCqSw5I) | 1:57 |
-| 490 | [Fingertips \(Intro\)](https://open.spotify.com/track/3ZPSyQ3TxrZ5O5lJPw0wVx) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT) | [Floorspace](https://open.spotify.com/album/0zJkFKoviOWGLmT5mvWhWC) | 1:56 |
-| 491 | [Ape Sounds Opening](https://open.spotify.com/track/1XuIxhSfZs0NBJVv1z2K6t) | [Nigo](https://open.spotify.com/artist/2rAnv6brcXaglLZBB4XXEn) | [Ape Sounds](https://open.spotify.com/album/3R65oX0hqHdZMLc1fwtcV1) | 0:25 |
-| 492 | [Silence Is Loud](https://open.spotify.com/track/2FlY3tYbBDOExnLhjUZxlc) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Silence Is Loud](https://open.spotify.com/album/7aIsJRcf04ZeFiU1Fa70Cq) | 2:37 |
-| 493 | [My Golden Years](https://open.spotify.com/track/0BikNVR79txZhmczhZE68l) | [The Lemon Twigs](https://open.spotify.com/artist/7eYZSXnQVCODCVmTV8Hk2T) | [A Dream Is All We Know](https://open.spotify.com/album/3ZEIxul2SC2AslVuGZGO68) | 3:13 |
-| 494 | [Tell Me Who You Are Today](https://open.spotify.com/track/1tB6SUQaXIUU4CprvNPwsT) | [Beth Gibbons](https://open.spotify.com/artist/6Lt6KFXX3P0v6vfrynQAMo) | [Lives Outgrown](https://open.spotify.com/album/0YC5MWwUmsTpJrRumtBdZA) | 3:55 |
-| 495 | [Blue Hum](https://open.spotify.com/track/3JhF07uRMLR09xc1g20EfA) | [Iglooghost](https://open.spotify.com/artist/7LCDnUQYE07fnKbo46SVLB) | [Tidal Memory Exo](https://open.spotify.com/album/7CQp27clxVYy6Ou6jXht6g) | 1:52 |
-| 496 | [PARANOIA INTRO](https://open.spotify.com/track/5cXQjDLQbbuQqJBRKvJqjW) | [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [Cold Visions](https://open.spotify.com/album/5fjDXtY8tws1sbPFHw34pL) | 1:10 |
-| 497 | [Coda](https://open.spotify.com/track/2QlGj7JaBv2jggcK99kPKQ) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3), [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [Psykos](https://open.spotify.com/album/6aLnXrlksffrrHRb6ktBF9) | 2:35 |
+| 484 | [Nappy Heads](https://open.spotify.com/track/5ZOsm73xqrZPJBBtv4aGpS) | [Fugees](https://open.spotify.com/artist/2WKdxPFRD7IqZvlIAvhMgY) | [Blunted On Reality](https://open.spotify.com/album/0SHdsrvo4oGJiUlYLaqCcu) | 4:29 |
+| 485 | [Close Your Eyes and Swing](https://open.spotify.com/track/3YLGWFX2FfHIVV7EJvRlrn) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [Dark Times](https://open.spotify.com/album/30BFY5VHii4PyWqkTubUWX) | 0:31 |
+| 486 | [CORLEONE](https://open.spotify.com/track/5VrKDJsD0VhIfjZxCEUXOI) | [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [GRASA](https://open.spotify.com/album/2ab0PTJ5OG7I6YfSqpDFZv) | 2:28 |
+| 487 | [Chutney](https://open.spotify.com/track/66wVaiPKHWIx2g4oMQ7ic1) | [Mandrill](https://open.spotify.com/artist/6RWnslEkqboHbDg0OUabe5) | [Mandrill](https://open.spotify.com/album/4bD8UUx1VGPsWbSAtfEWgX) | 3:05 |
+| 488 | [Right People, Wrong Place](https://open.spotify.com/track/2ftb45L7iXYwp0WoTEuslG) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Right Place, Wrong Person](https://open.spotify.com/album/512dQp7hBbDDurodCqSw5I) | 1:57 |
+| 489 | [Fingertips \(Intro\)](https://open.spotify.com/track/3ZPSyQ3TxrZ5O5lJPw0wVx) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT) | [Floorspace](https://open.spotify.com/album/0zJkFKoviOWGLmT5mvWhWC) | 1:56 |
+| 490 | [Ape Sounds Opening](https://open.spotify.com/track/1XuIxhSfZs0NBJVv1z2K6t) | [Nigo](https://open.spotify.com/artist/2rAnv6brcXaglLZBB4XXEn) | [Ape Sounds](https://open.spotify.com/album/3R65oX0hqHdZMLc1fwtcV1) | 0:25 |
+| 491 | [Silence Is Loud](https://open.spotify.com/track/2FlY3tYbBDOExnLhjUZxlc) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Silence Is Loud](https://open.spotify.com/album/7aIsJRcf04ZeFiU1Fa70Cq) | 2:37 |
+| 492 | [My Golden Years](https://open.spotify.com/track/0BikNVR79txZhmczhZE68l) | [The Lemon Twigs](https://open.spotify.com/artist/7eYZSXnQVCODCVmTV8Hk2T) | [A Dream Is All We Know](https://open.spotify.com/album/3ZEIxul2SC2AslVuGZGO68) | 3:13 |
+| 493 | [Tell Me Who You Are Today](https://open.spotify.com/track/1tB6SUQaXIUU4CprvNPwsT) | [Beth Gibbons](https://open.spotify.com/artist/6Lt6KFXX3P0v6vfrynQAMo) | [Lives Outgrown](https://open.spotify.com/album/0YC5MWwUmsTpJrRumtBdZA) | 3:55 |
+| 494 | [Blue Hum](https://open.spotify.com/track/3JhF07uRMLR09xc1g20EfA) | [Iglooghost](https://open.spotify.com/artist/7LCDnUQYE07fnKbo46SVLB) | [Tidal Memory Exo](https://open.spotify.com/album/7CQp27clxVYy6Ou6jXht6g) | 1:52 |
+| 495 | [PARANOIA INTRO](https://open.spotify.com/track/5cXQjDLQbbuQqJBRKvJqjW) | [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [Cold Visions](https://open.spotify.com/album/5fjDXtY8tws1sbPFHw34pL) | 1:10 |
+| 496 | [Coda](https://open.spotify.com/track/2QlGj7JaBv2jggcK99kPKQ) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3), [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [Psykos](https://open.spotify.com/album/6aLnXrlksffrrHRb6ktBF9) | 2:35 |
+| 497 | [The Best Ever Death Metal Band in Denton](https://open.spotify.com/track/4AtUqjDgRO2S3jBzAjRvh7) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [All Hail West Texas \(Remastered\)](https://open.spotify.com/album/3yreM49ULtR2xW4fSENo3K) | 2:36 |
+| 498 | [Arithmophobia](https://open.spotify.com/track/2gOfUuZ0FMpFVvCsjy0omI) | [Animals As Leaders](https://open.spotify.com/artist/65C6Unk7nhg2aCnVuAPMo8) | [The Madness Of Many](https://open.spotify.com/album/4Xm2aSISFdqLoJJACkZFUl) | 6:01 |
 
-Snapshot ID: `AAAGAOeCeXjhkm02QaTZpDxjYl7kP5q8`
+Snapshot ID: `AAAGA+v3AhzOe4Ve2odKSznBWcrImJwp`

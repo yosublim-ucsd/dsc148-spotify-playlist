@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSmYGAKTUJn.md) - [plain]
 
 > John Mulaney's 50 most beloved tracks\. Welcome to <a href="spotify:genre:0JQ5IMCbQBLz83ugJwU5zb">mixtape</a>, a curator's playground.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,220 likes - 50 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,349 likes - 50 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSmYGAKTUJn.md) - [plain]
 | 36 | [Fingers in the Wind](https://open.spotify.com/track/3yYSloOdPt9f2yJ7jnGiPo) | [Rahsaan Roland Kirk](https://open.spotify.com/artist/7De2eIqeHTw091YeAkkYXV) | [The Inflated Tear](https://open.spotify.com/album/5xduKf7XKIvw4JV3fHcItg) | 4:18 |
 | 37 | [Part 1](https://open.spotify.com/track/0zTjbVtn3RUOzuyA4n0mtR) | [Philip Glass](https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC), [Philip Glass Ensemble](https://open.spotify.com/artist/3d8ZNJ7en7Rf9cnI9U8gbp) | [Philip Glass: Music In 12 Parts](https://open.spotify.com/album/6bhlTPe9Od4aZXw2Xy0jnX) | 18:15 |
 | 38 | [Sentimental Lady](https://open.spotify.com/track/478thMMvYGris8eJPcDRoq) | [Bob Welch](https://open.spotify.com/artist/0reZZVbAPxgX1Rqj6XbWj3) | [French Kiss](https://open.spotify.com/album/5YQsoNZvxTZKqsJ2Y7fQjJ) | 2:58 |
-| 39 | [Last Train \- Remastered Version](https://open.spotify.com/track/1zFkWtm4zmjB4O3qAokRBX) | [Allen Toussaint](https://open.spotify.com/artist/63aP18bg2ABSOqSNQcAMNy) | [Southern Nights](https://open.spotify.com/album/4x1gp0YZRosiMcM0f1WGls) | 3:01 |
+| 39 | [Last Train \- 2003 Remaster](https://open.spotify.com/track/1zFkWtm4zmjB4O3qAokRBX) | [Allen Toussaint](https://open.spotify.com/artist/63aP18bg2ABSOqSNQcAMNy) | [Southern Nights](https://open.spotify.com/album/4x1gp0YZRosiMcM0f1WGls) | 3:01 |
 | 40 | [Runnin' Away \- Single Version](https://open.spotify.com/track/0yMhprf2FVbT9Aew8DPbkm) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [There's A Riot Goin' On \(Expanded Edition\)](https://open.spotify.com/album/0ihYToxMgYcuHuxOKjGQKO) | 2:57 |
 | 41 | [Always Crashing in the Same Car \- 2017 Remaster](https://open.spotify.com/track/73HwMEPCCCEqKFYONpOxe9) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Low \(2017 Remaster\)](https://open.spotify.com/album/2de6LD7eOW8zrlorbS28na) | 3:35 |
 | 42 | [Leading a Double Life](https://open.spotify.com/track/4WSmRF5mB8yT7dyRsdMw4P) | ["Blue" Gene Tyranny](https://open.spotify.com/artist/46iG2LQSecSEFH5L9qhvSY) | [Out of the Blue \(40th Anniversary Remaster\)](https://open.spotify.com/album/6Cn6Oz11PAN0PvyCyZnnkW) | 8:20 |

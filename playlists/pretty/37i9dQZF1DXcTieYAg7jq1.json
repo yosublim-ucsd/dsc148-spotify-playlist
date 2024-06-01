@@ -1,13 +1,29 @@
 {
   "description": "Featuring that new vintage. Cover: Lake Street Dive",
-  "num_followers": 413662,
+  "num_followers": 413712,
   "original_name": "Retro Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zj5UoAAAAAC7hyrOjK/aWB2tcdc9+nBe",
+  "snapshot_id": "ZllLQAAAAACudr5N3gH8XwyM2R4Sdbmj",
   "tracks": [
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "Speed of Light",
+        "url": "https://open.spotify.com/album/2QYOMAjVLhjshBsPvU0xhW"
+      },
+      "artists": [
+        {
+          "name": "Dhruv",
+          "url": "https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb"
+        }
+      ],
+      "duration_ms": 207400,
+      "name": "Speed of Light",
+      "url": "https://open.spotify.com/track/4X3a6cE8mRHHVKkqLDSK3m"
+    },
     {
       "added_at": "2024-05-10 17:08:48",
       "album": {
@@ -112,7 +128,7 @@
           "url": "https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE"
         }
       ],
-      "duration_ms": 228113,
+      "duration_ms": 227200,
       "name": "Guy I Used To Be",
       "url": "https://open.spotify.com/track/4dmNWxKKw0Me0uzgE7WIGT"
     },
@@ -1187,22 +1203,6 @@
       "duration_ms": 210461,
       "name": "BREATH",
       "url": "https://open.spotify.com/track/5WyzABu6GZCC4au3PqPxFC"
-    },
-    {
-      "added_at": "2022-05-27 21:16:50",
-      "album": {
-        "name": "The Mess",
-        "url": "https://open.spotify.com/album/1cjJ60QJJAQCDkj3u06kxU"
-      },
-      "artists": [
-        {
-          "name": "Violet Crime",
-          "url": "https://open.spotify.com/artist/0uoRAXJYHJ7003T0t0NbX4"
-        }
-      ],
-      "duration_ms": 215799,
-      "name": "The Mess",
-      "url": "https://open.spotify.com/track/4PZLI3AGhdUE0CX7KUnjNi"
     },
     {
       "added_at": "2022-06-03 04:01:00",

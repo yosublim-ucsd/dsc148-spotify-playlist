@@ -4,7 +4,7 @@
 
 > Just chill the F\*\*\* out to our mix of relaxing hits\. Tune in for tracks from Billie Eilish, Olivia Rodrigo, Taylor Swift and many many more! <a href="https://lnk.to/EndOfYearSaleOS">All these hits available to buy on vinyl here!</a> Chill Pop \| Relaxing Pop \| Chill Vibes \| Lazy Sundays \| Chilled Mix
 
-673 songs - 1 day 13 hr 31 min
+674 songs - 1 day 13 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -600,6 +600,7 @@
 | [Time Capsule](https://open.spotify.com/track/6ZGS2Yrg21HadSMmshXyzf) | [Cult Of Venus](https://open.spotify.com/artist/2gBkcjCYEKisBVDaWyWY1W) | [Time Capsule](https://open.spotify.com/album/1vWbtZaVKqBdMnee0QX5Zi) | 3:39 | 2023-10-30 | 2023-11-09 |
 | [Time Machine](https://open.spotify.com/track/4Fkf0tYc8tD0BeS7k20AAa) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Time Machine](https://open.spotify.com/album/4jAN28tuuWdvDsX5HzPXbv) | 3:39 | 2022-06-06 | 2022-06-27 |
 | [Time Will Fly](https://open.spotify.com/track/3iLczn6rof3Fl0C0x4075J) | [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [Time Will Fly](https://open.spotify.com/album/6XJvhvhwxVusNnIanbDpG6) | 2:31 | 2023-06-12 | 2023-10-31 |
+| [To Be Alright](https://open.spotify.com/track/5E0mDkJAiKziakTFbCjaaT) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [To Be Alright](https://open.spotify.com/album/5Ss70sGKkEU6rHOYSRsO3A) | 4:05 | 2024-05-31 |  |
 | [To Learn](https://open.spotify.com/track/63a0svve0p3CIiGx9a9DTy) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [To Learn](https://open.spotify.com/album/5k6lsjpZK4l4J9oMQmBR1l) | 2:17 | 2023-05-22 | 2023-06-26 |
 | [To The Forager](https://open.spotify.com/track/0KyybjLDZOQ0OTZQDiHIC7) | [Tom Rosenthal](https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB) | [To The Forager](https://open.spotify.com/album/5qAB8sFKt5CrCjCRBqRcgg) | 2:37 | 2022-11-21 | 2022-12-13 |
 | [Too Sweet](https://open.spotify.com/track/4IadxL6BUymXlh8RCJJu7T) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unheard](https://open.spotify.com/album/1KZC0cX0qq6hodR9YVgh9F) | 4:11 | 2024-04-15 |  |

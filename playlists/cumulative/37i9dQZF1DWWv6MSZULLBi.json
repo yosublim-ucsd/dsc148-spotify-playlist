@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-14",
-  "description": "A laid-back trip in the folk scene. Cover: Leif Vollebekk",
+  "description": "A laid-back trip in the folk scene. Cover: hey, nothing",
   "name": "Folk & Friends",
   "tracks": [
     {
@@ -239,6 +239,24 @@
     },
     {
       "album": {
+        "name": "Night Reign",
+        "url": "https://open.spotify.com/album/2JdE3ilolUGhsNkW1oQfvf"
+      },
+      "artists": [
+        {
+          "name": "Arooj Aftab",
+          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345765,
+      "name": "Aey Nehin",
+      "url": "https://open.spotify.com/track/7xFvweaPGFCrpQGqsSVKnk"
+    },
+    {
+      "album": {
         "name": "Afraid",
         "url": "https://open.spotify.com/album/5XEB2cwnwp8SFSmHgql9yV"
       },
@@ -268,7 +286,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 184648,
       "name": "After a While",
       "url": "https://open.spotify.com/track/0JYGgU278Yz2b3jx0Pzobq"
@@ -550,6 +568,24 @@
       "duration_ms": 310037,
       "name": "Along The Mountain Road",
       "url": "https://open.spotify.com/track/6TVW5i43p21luN4n1UQu7c"
+    },
+    {
+      "album": {
+        "name": "Wanderer",
+        "url": "https://open.spotify.com/album/2Y5kYCHgBYxsMmxnivRAHO"
+      },
+      "artists": [
+        {
+          "name": "Ruth Moody",
+          "url": "https://open.spotify.com/artist/5iewRwJ5wPnA2sj6QDRXsn"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220655,
+      "name": "Already Free",
+      "url": "https://open.spotify.com/track/7Msg47rWb1hqADwXQrQQnB"
     },
     {
       "album": {
@@ -1573,6 +1609,24 @@
     },
     {
       "album": {
+        "name": "Bridge Back to Me (Acoustic)",
+        "url": "https://open.spotify.com/album/0TVdCyrVFP1Iyu8n7od5u4"
+      },
+      "artists": [
+        {
+          "name": "Alex Nicol",
+          "url": "https://open.spotify.com/artist/7MlkcMZ5n9BgU5wNgYcNvu"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166506,
+      "name": "Bridge Back to Me - Acoustic",
+      "url": "https://open.spotify.com/track/7hCgoPQ1R2A1vUYNPeqBzJ"
+    },
+    {
+      "album": {
         "name": "Bright Green Vibrant Gray",
         "url": "https://open.spotify.com/album/6nZGvx9KlQsM23CTuqIMEO"
       },
@@ -2548,6 +2602,28 @@
       "duration_ms": 218186,
       "name": "Corduroy",
       "url": "https://open.spotify.com/track/6QhZtK9nfaUBDILHPvAlC6"
+    },
+    {
+      "album": {
+        "name": "Corner of the Universe",
+        "url": "https://open.spotify.com/album/6Ysafd8kqETpLQSyjHmU0C"
+      },
+      "artists": [
+        {
+          "name": "Jon Bryant",
+          "url": "https://open.spotify.com/artist/2gzH4rGNFJeNg13yv2uI4L"
+        },
+        {
+          "name": "Bre Kennedy",
+          "url": "https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181790,
+      "name": "Corner of the Universe",
+      "url": "https://open.spotify.com/track/6v4DcukmP18C44snCH5Iz3"
     },
     {
       "album": {
@@ -5263,6 +5339,24 @@
     },
     {
       "album": {
+        "name": "gut health",
+        "url": "https://open.spotify.com/album/0fHoOMkM8YOuSlPWNOvjnP"
+      },
+      "artists": [
+        {
+          "name": "Pem",
+          "url": "https://open.spotify.com/artist/6JVlf8HzDtyI2xPxq4WIHs"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243469,
+      "name": "gut health",
+      "url": "https://open.spotify.com/track/6sDD5wCAJIGjCqPlPwSOck"
+    },
+    {
+      "album": {
         "name": "Hadsel",
         "url": "https://open.spotify.com/album/1jhgsccCbT1WXtmGUuZvIA"
       },
@@ -6536,7 +6630,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 254866,
       "name": "I Told You So",
       "url": "https://open.spotify.com/track/1Patip73Sq1xQw7GGwSFtw"
@@ -6558,7 +6652,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 234130,
       "name": "I Wanna Die in LA",
       "url": "https://open.spotify.com/track/2IfxaJmBbfK013XRQ5pjx1"
@@ -6962,6 +7056,24 @@
       "duration_ms": 187491,
       "name": "Instant Cash for Gold",
       "url": "https://open.spotify.com/track/5KAiIOtmYxJlW6fIkgWWsH"
+    },
+    {
+      "album": {
+        "name": "Isabel",
+        "url": "https://open.spotify.com/album/1oWYUffIbjIZGXVFt58ONS"
+      },
+      "artists": [
+        {
+          "name": "Josh Sahunta",
+          "url": "https://open.spotify.com/artist/37aXAbBndtjTPR4aUKumLV"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198857,
+      "name": "Isabel",
+      "url": "https://open.spotify.com/track/7n1GYc6Ucx6dCSJ0dQBRhZ"
     },
     {
       "album": {
@@ -7879,6 +7991,24 @@
     },
     {
       "album": {
+        "name": "Lifeline",
+        "url": "https://open.spotify.com/album/2878AXAVVxRpftI4g2Kjh2"
+      },
+      "artists": [
+        {
+          "name": "Ryan Harris",
+          "url": "https://open.spotify.com/artist/38Cj253ij4uQ7Rce6tArIG"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138123,
+      "name": "Lifeline",
+      "url": "https://open.spotify.com/track/37Gqg6D070Ahztf2RaDXBb"
+    },
+    {
+      "album": {
         "name": "Light in Me",
         "url": "https://open.spotify.com/album/7Dvwbd49vsYVL1oPezhsDp"
       },
@@ -8298,6 +8428,28 @@
       "duration_ms": 239708,
       "name": "Love Wouldn't Take Me Back",
       "url": "https://open.spotify.com/track/5a4XN7YQHhgFN2Dbcu28od"
+    },
+    {
+      "album": {
+        "name": "Lover of Creation",
+        "url": "https://open.spotify.com/album/7DcLxSFcbYDGUG0Oro3hbu"
+      },
+      "artists": [
+        {
+          "name": "Aistis",
+          "url": "https://open.spotify.com/artist/1NIVmyi3ACEHxwmBRAlipR"
+        },
+        {
+          "name": "Freida Mari",
+          "url": "https://open.spotify.com/artist/5RqPuMbbZResDnQbhyFIae"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256722,
+      "name": "Lover of Creation",
+      "url": "https://open.spotify.com/track/3dv1uWmmP9GrYlv07OQtDs"
     },
     {
       "album": {
@@ -9084,6 +9236,24 @@
       "duration_ms": 231636,
       "name": "Nature Song For The Time Being",
       "url": "https://open.spotify.com/track/72HNZVAFnutuwYfOAwu78z"
+    },
+    {
+      "album": {
+        "name": "Needle",
+        "url": "https://open.spotify.com/album/4jrsd75mN1gzkx0y0ePMQz"
+      },
+      "artists": [
+        {
+          "name": "Jordan Klassen",
+          "url": "https://open.spotify.com/artist/70QS2gTlkKW2rNjlmMBNp8"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203629,
+      "name": "Needle",
+      "url": "https://open.spotify.com/track/3pGiuOxzaR0IP4PgzAaK12"
     },
     {
       "album": {
@@ -10730,7 +10900,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 237915,
       "name": "Questions, Chaos & Faith",
       "url": "https://open.spotify.com/track/7dwszn3bUo9ozTx5SjRzZa"
@@ -10784,7 +10954,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 169306,
       "name": "Rainy Day Janey",
       "url": "https://open.spotify.com/track/3hpCyUwZ0Y3uAlrkpXXkt7"
@@ -10990,7 +11160,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 217490,
       "name": "Rise",
       "url": "https://open.spotify.com/track/4nNsuMl8aD9hJBf5z5SPOP"
@@ -11448,7 +11618,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 159636,
       "name": "Scared To Start",
       "url": "https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn"
@@ -13324,7 +13494,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 183706,
       "name": "The Yellow Mile",
       "url": "https://open.spotify.com/track/6n0yMfgOjGM4GzUNHE1gVu"
@@ -13486,7 +13656,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 168901,
       "name": "This Dream",
       "url": "https://open.spotify.com/track/3jB9nTHnlKDZ4mNnwYC1qg"
@@ -13978,6 +14148,24 @@
       "duration_ms": 303781,
       "name": "Twenty Twenty",
       "url": "https://open.spotify.com/track/3PwNuvZHqvkflzOQkDyBuA"
+    },
+    {
+      "album": {
+        "name": "Wildewoman (The New Recordings)",
+        "url": "https://open.spotify.com/album/1P7unPTFBGp4th1t6FmWoq"
+      },
+      "artists": [
+        {
+          "name": "Lucius",
+          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275626,
+      "name": "Two of Us on the Run (The New Recording)",
+      "url": "https://open.spotify.com/track/5q6MO3EA35GwqGkwqDqfw5"
     },
     {
       "album": {
@@ -15010,7 +15198,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 264926,
       "name": "White Lies, White Jesus And You",
       "url": "https://open.spotify.com/track/6gWgHGxCrROeP19EzkD7rs"

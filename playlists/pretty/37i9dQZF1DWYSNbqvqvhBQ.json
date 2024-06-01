@@ -1,13 +1,29 @@
 {
-  "description": "Luister naar nieuwe songs en hits van dit moment! Cover: FRIDAY",
-  "num_followers": 105207,
+  "description": "Luister naar nieuwe songs en hits van dit moment! Cover: Imagine Dragons",
+  "num_followers": 105211,
   "original_name": "Stay Tuned!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlBhPwAAAACfZn8y0cApYMaRveW6iCYG",
+  "snapshot_id": "Zlj24AAAAADllteomS1vh7/E+QDdLxkN",
   "tracks": [
+    {
+      "added_at": "2024-05-24 09:43:27",
+      "album": {
+        "name": "Nice to Meet You",
+        "url": "https://open.spotify.com/album/72DMNLy4QTiAK5hxjnV7GH"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 190760,
+      "name": "Nice to Meet You",
+      "url": "https://open.spotify.com/track/7sxb5C2mE0l5xfSL9M2hxQ"
+    },
     {
       "added_at": "2024-05-24 09:43:27",
       "album": {
@@ -23,6 +39,22 @@
       "duration_ms": 192182,
       "name": "Beggin\u2019",
       "url": "https://open.spotify.com/track/6N5dl7B1c2KoJ6sH0Izfcm"
+    },
+    {
+      "added_at": "2024-05-24 09:43:27",
+      "album": {
+        "name": "What Do You Believe In?",
+        "url": "https://open.spotify.com/album/63c9Ujs0fkzuFi6OkDG7cP"
+      },
+      "artists": [
+        {
+          "name": "Rag'n'Bone Man",
+          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
+        }
+      ],
+      "duration_ms": 190474,
+      "name": "What Do You Believe In?",
+      "url": "https://open.spotify.com/track/2j5YYik2gA3Z7FgH3NiybN"
     },
     {
       "added_at": "2024-05-24 09:43:27",
@@ -63,22 +95,6 @@
     {
       "added_at": "2024-05-24 09:43:27",
       "album": {
-        "name": "What Do You Believe In?",
-        "url": "https://open.spotify.com/album/63c9Ujs0fkzuFi6OkDG7cP"
-      },
-      "artists": [
-        {
-          "name": "Rag'n'Bone Man",
-          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
-        }
-      ],
-      "duration_ms": 190474,
-      "name": "What Do You Believe In?",
-      "url": "https://open.spotify.com/track/2j5YYik2gA3Z7FgH3NiybN"
-    },
-    {
-      "added_at": "2024-05-24 09:43:27",
-      "album": {
         "name": "I've Tried Everything But Therapy (Part 1.5)",
         "url": "https://open.spotify.com/album/3egFmnuKrjoMAlqCfdw7KH"
       },
@@ -91,22 +107,6 @@
       "duration_ms": 192317,
       "name": "Hammer to the Heart",
       "url": "https://open.spotify.com/track/0IdwfnHFfyb7zc7GFs75QQ"
-    },
-    {
-      "added_at": "2024-05-24 09:43:27",
-      "album": {
-        "name": "Nice to Meet You",
-        "url": "https://open.spotify.com/album/72DMNLy4QTiAK5hxjnV7GH"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        }
-      ],
-      "duration_ms": 190760,
-      "name": "Nice to Meet You",
-      "url": "https://open.spotify.com/track/7sxb5C2mE0l5xfSL9M2hxQ"
     },
     {
       "added_at": "2024-05-24 09:43:27",
@@ -141,6 +141,22 @@
       "url": "https://open.spotify.com/track/5IvjnaCpuvgOZ8aBmnk3AK"
     },
     {
+      "added_at": "2024-05-30 22:00:00",
+      "album": {
+        "name": "Nearness of You",
+        "url": "https://open.spotify.com/album/69hePKG2dE7jrvHuMsCz3X"
+      },
+      "artists": [
+        {
+          "name": "Sevens",
+          "url": "https://open.spotify.com/artist/16TJwfQFZXTDDkPwG1FOzd"
+        }
+      ],
+      "duration_ms": 252216,
+      "name": "Nearness of You",
+      "url": "https://open.spotify.com/track/2G6U94s65dWkZPj7dr9vJ1"
+    },
+    {
       "added_at": "2024-05-24 09:43:27",
       "album": {
         "name": "Good To You",
@@ -173,20 +189,20 @@
       "url": "https://open.spotify.com/track/3Vr3zh0r7ALn8VLqCiRR10"
     },
     {
-      "added_at": "2024-05-24 09:43:27",
+      "added_at": "2024-05-30 22:00:00",
       "album": {
-        "name": "Something Better",
-        "url": "https://open.spotify.com/album/19ynUn8XBbyJEhspOGhNrB"
+        "name": "The Craving",
+        "url": "https://open.spotify.com/album/7K7eWZNR5t9UBlrN2ltzLI"
       },
       "artists": [
         {
-          "name": "GoldFord",
-          "url": "https://open.spotify.com/artist/4I2QW85rkIhCRRZt1kuBqS"
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
         }
       ],
-      "duration_ms": 211095,
-      "name": "Something Better",
-      "url": "https://open.spotify.com/track/1pOT0avfCCTWJhreZjoHFm"
+      "duration_ms": 173866,
+      "name": "The Craving - single version",
+      "url": "https://open.spotify.com/track/0S7lkKStHgfgjgwSFOvRNA"
     },
     {
       "added_at": "2024-05-24 09:43:27",
@@ -251,6 +267,22 @@
       "duration_ms": 183878,
       "name": "The Albatross",
       "url": "https://open.spotify.com/track/4EF6IyONolQy0bIQXm2EmX"
+    },
+    {
+      "added_at": "2024-05-24 09:43:27",
+      "album": {
+        "name": "Something Better",
+        "url": "https://open.spotify.com/album/19ynUn8XBbyJEhspOGhNrB"
+      },
+      "artists": [
+        {
+          "name": "GoldFord",
+          "url": "https://open.spotify.com/artist/4I2QW85rkIhCRRZt1kuBqS"
+        }
+      ],
+      "duration_ms": 211095,
+      "name": "Something Better",
+      "url": "https://open.spotify.com/track/1pOT0avfCCTWJhreZjoHFm"
     },
     {
       "added_at": "2024-05-24 09:43:27",
@@ -783,22 +815,6 @@
     {
       "added_at": "2024-05-24 09:43:27",
       "album": {
-        "name": "Something About It",
-        "url": "https://open.spotify.com/album/3J89YUZ9n0PZKs0wcVvwqd"
-      },
-      "artists": [
-        {
-          "name": "FRIDAY",
-          "url": "https://open.spotify.com/artist/1nzhkCvUySFs0Fsj57qXYX"
-        }
-      ],
-      "duration_ms": 200435,
-      "name": "Something About It",
-      "url": "https://open.spotify.com/track/6YNCKtSjrRBmeJglRNK6Yn"
-    },
-    {
-      "added_at": "2024-05-24 09:43:27",
-      "album": {
         "name": "Will You Remember",
         "url": "https://open.spotify.com/album/0moBXENvUaHNqnWBMMsqHf"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 186721,
       "name": "heat",
       "url": "https://open.spotify.com/track/0qB6vfLUW11bMGjz8SHvtt"
-    },
-    {
-      "added_at": "2024-05-24 09:43:27",
-      "album": {
-        "name": "Turn the Lights Back On",
-        "url": "https://open.spotify.com/album/4csPGLYTb7kt85U377UCuC"
-      },
-      "artists": [
-        {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
-        }
-      ],
-      "duration_ms": 238939,
-      "name": "Turn the Lights Back On",
-      "url": "https://open.spotify.com/track/1KTemUlHzS0SvVtTjY1NTw"
     },
     {
       "added_at": "2024-05-24 09:43:27",

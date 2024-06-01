@@ -1,13 +1,37 @@
 {
-  "description": "The best and latest rock and alternative. Cover: Imagine Dragons",
+  "description": "The best and latest rock and alternative. Cover: OMBIIGIZI",
   "num_followers": 9950,
   "original_name": "New Rock Music",
   "owner": {
     "name": "Digster Canada",
     "url": "https://open.spotify.com/user/digsterca"
   },
-  "snapshot_id": "AAAbVsqirp/SKGMdhP5qZVYEA3Az0x77",
+  "snapshot_id": "AAAbWrB+9mZVFmCHmvBgrt/LzlQVPwQT",
   "tracks": [
+    {
+      "added_at": "2024-05-31 13:35:02",
+      "album": {
+        "name": "Connecting",
+        "url": "https://open.spotify.com/album/5j72g77DDbeDQa10Kbn9HW"
+      },
+      "artists": [
+        {
+          "name": "OMBIIGIZI",
+          "url": "https://open.spotify.com/artist/6M9etLgzbkyne0y9cvxGAG"
+        },
+        {
+          "name": "Status/Non-Status",
+          "url": "https://open.spotify.com/artist/65pJYjbDd7S7gBObWEfIdK"
+        },
+        {
+          "name": "Zoon",
+          "url": "https://open.spotify.com/artist/1kGt1OwoeqO8aaTBB3TfiC"
+        }
+      ],
+      "duration_ms": 222636,
+      "name": "Connecting",
+      "url": "https://open.spotify.com/track/1FFO1ljkHXcYSqALUA8JrI"
+    },
     {
       "added_at": "2024-05-24 17:26:35",
       "album": {
@@ -1307,6 +1331,22 @@
       "duration_ms": 184607,
       "name": "Landmine",
       "url": "https://open.spotify.com/track/4YjTwBC1T231kB5AEOK8vf"
+    },
+    {
+      "added_at": "2024-05-31 14:19:32",
+      "album": {
+        "name": "JIM BOB",
+        "url": "https://open.spotify.com/album/1iaeDfvi0vLhu4uLCC4BLE"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 221795,
+      "name": "JIM BOB",
+      "url": "https://open.spotify.com/track/1ntaXOGOU4Oha1mEKfshtK"
     }
   ],
   "unique_name": "New Rock Music",

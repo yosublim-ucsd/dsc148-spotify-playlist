@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "No need to wait!  Experience today's best Worship music right here, right now. Cover:  Steven Malcom & Sanctus Real",
+  "description": "No need to wait!  Experience today's best Worship music right here, right now. Cover:  <a href=\"spotify:artist:0289SkqAn0iOohwm0pIHv3\">Pat Barrett</a>",
   "name": "WorshipNow",
   "tracks": [
     {
@@ -259,6 +259,24 @@
     },
     {
       "album": {
+        "name": "Adoration Song",
+        "url": "https://open.spotify.com/album/3rC9iYD4evszbXpzFoC0si"
+      },
+      "artists": [
+        {
+          "name": "Mark & Sarah Tillman",
+          "url": "https://open.spotify.com/artist/4GdeUL15baI90obDfYOvqX"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275955,
+      "name": "Adoration Song",
+      "url": "https://open.spotify.com/track/4g4PYXN1KQVE4NMFuZuPZa"
+    },
+    {
+      "album": {
         "name": "God Is Good! (Live)",
         "url": "https://open.spotify.com/album/4qZwzswmv5lNwLftPcVNBH"
       },
@@ -384,7 +402,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 218576,
       "name": "All Yours (Radio Edit) (feat. Anthony Brown)",
       "url": "https://open.spotify.com/track/7HPnlHRVAX3uNGkd7zTqlr"
@@ -2467,6 +2485,58 @@
     },
     {
       "album": {
+        "name": "Daily Bread",
+        "url": "https://open.spotify.com/album/62eGFqSWE09BYp6lyI2XxG"
+      },
+      "artists": [
+        {
+          "name": "Pat Barrett",
+          "url": "https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3"
+        },
+        {
+          "name": "Kari Jobe",
+          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 385842,
+      "name": "Daily Bread",
+      "url": "https://open.spotify.com/track/01XPEwK0kYQOHQEENQ94wZ"
+    },
+    {
+      "album": {
+        "name": "Day for Singing",
+        "url": "https://open.spotify.com/album/6ouC5uHTCzX5sHM8dyWYD7"
+      },
+      "artists": [
+        {
+          "name": "Mission House",
+          "url": "https://open.spotify.com/artist/1kfAQBrI7qZInqadGFtW8C"
+        },
+        {
+          "name": "Jess Ray",
+          "url": "https://open.spotify.com/artist/7pPNHLzwbrHYlCMTftK3A3"
+        },
+        {
+          "name": "Taylor Leonhardt",
+          "url": "https://open.spotify.com/artist/1OUylyH2arsswxRe6dOz3i"
+        },
+        {
+          "name": "Cecily",
+          "url": "https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341200,
+      "name": "Day For Singing - Live",
+      "url": "https://open.spotify.com/track/1YXCgMrPlgmdSeaP2WT1jQ"
+    },
+    {
+      "album": {
         "name": "Death Is Hollow",
         "url": "https://open.spotify.com/album/5Ti4NcO8efw0WohpUXgPJg"
       },
@@ -3988,6 +4058,28 @@
       "duration_ms": 295051,
       "name": "Here In Your Presence - Reimagined",
       "url": "https://open.spotify.com/track/55kdVwHvienF5al8VOPaq9"
+    },
+    {
+      "album": {
+        "name": "Highest One",
+        "url": "https://open.spotify.com/album/5GayCFNegvwSjU3piW8MdV"
+      },
+      "artists": [
+        {
+          "name": "Thrive Worship",
+          "url": "https://open.spotify.com/artist/76mPLB1kgBIInKSrvuEb72"
+        },
+        {
+          "name": "Bryan & Katie Torwalt",
+          "url": "https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 441746,
+      "name": "Highest One - Live",
+      "url": "https://open.spotify.com/track/0pvbLvGMwQwgVJCo3J8Eza"
     },
     {
       "album": {
@@ -6412,7 +6504,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 146086,
       "name": "LION",
       "url": "https://open.spotify.com/track/0bvIItgMfpZ5kR3Bb9ye6h"
@@ -9156,7 +9248,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 252013,
       "name": "Shelter",
       "url": "https://open.spotify.com/track/2i46KYvDeKGU0Gsc9WEV5C"
@@ -9222,7 +9314,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 387777,
       "name": "Show Me Your Ways",
       "url": "https://open.spotify.com/track/0izRgQi5DUGHIQB2EweMWh"
@@ -9636,7 +9728,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 323384,
       "name": "SUNDAY IS COMING \u2022 HOMETOWN VERSION",
       "url": "https://open.spotify.com/track/1DzECx2H9rUGUPclh8OxAn"
@@ -11942,6 +12034,28 @@
       "duration_ms": 510057,
       "name": "Wind and Waves - Live",
       "url": "https://open.spotify.com/track/55eZmwsHhxdBiv9Z8CVRY5"
+    },
+    {
+      "album": {
+        "name": "Wind of Love (feat. Maryanne J. George)",
+        "url": "https://open.spotify.com/album/2EKty7oqwWZCLHRrJ1Ei5J"
+      },
+      "artists": [
+        {
+          "name": "Joe L Barnes",
+          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
+        },
+        {
+          "name": "Maryanne J. George",
+          "url": "https://open.spotify.com/artist/4nMPNmeygaudrlnaoEjpf3"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 472857,
+      "name": "Wind of Love (feat. Maryanne J. George)",
+      "url": "https://open.spotify.com/track/4W2WJEEzNzM5ELYRh0ek5l"
     },
     {
       "album": {

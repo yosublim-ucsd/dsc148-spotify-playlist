@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-20",
-  "description": "East Africa queens in their music bag. Cover: Winnie Nwagi",
+  "description": "East Africa queens in their music bag. Cover: Turunesh",
   "name": "Malkia",
   "tracks": [
     {
@@ -592,7 +592,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 252500,
       "name": "Home",
       "url": "https://open.spotify.com/track/10xrx94SPkwD7Kf3ynXCED"
@@ -928,7 +928,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 258750,
       "name": "Love Ballad No. 3",
       "url": "https://open.spotify.com/track/3GjD1VmMDQRBI85fRZyrvC"
@@ -946,7 +946,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 220943,
       "name": "Love So Hard",
       "url": "https://open.spotify.com/track/0wziWY68BtP0cCoysabecJ"
@@ -1435,6 +1435,28 @@
     },
     {
       "album": {
+        "name": "Ode to the Lovers (Remix)",
+        "url": "https://open.spotify.com/album/6J785OewERpK1KcxMWK8LB"
+      },
+      "artists": [
+        {
+          "name": "Faith Kimani",
+          "url": "https://open.spotify.com/artist/3B5MbmvxoqmqByCtU4temj"
+        },
+        {
+          "name": "PrayzzZ",
+          "url": "https://open.spotify.com/artist/5Ni78B29oJO7nKxaT89BL6"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Ode to the Lovers - Remix",
+      "url": "https://open.spotify.com/track/7dZQSYvu059lRlXbLDFKxP"
+    },
+    {
+      "album": {
         "name": "Omutima",
         "url": "https://open.spotify.com/album/61wC1nlhsMQeNVSCDEZDhY"
       },
@@ -1754,6 +1776,24 @@
       "duration_ms": 250666,
       "name": "Praises to Mama",
       "url": "https://open.spotify.com/track/2zLlJmbsJfec7NX7cUjlpY"
+    },
+    {
+      "album": {
+        "name": "TAKE ONE",
+        "url": "https://open.spotify.com/album/6Khcp9V99TSaKTsS2Qnq5D"
+      },
+      "artists": [
+        {
+          "name": "Joy Njokey",
+          "url": "https://open.spotify.com/artist/3x7LsqjnxJg6m2hjarASBF"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192104,
+      "name": "Ra(Mna)fiki",
+      "url": "https://open.spotify.com/track/3xjATULksJEFygp6yZHXmt"
     },
     {
       "album": {
@@ -2320,6 +2360,32 @@
       "duration_ms": 216666,
       "name": "Utaniua",
       "url": "https://open.spotify.com/track/7DuHELJeETVPQsRfjHHJoh"
+    },
+    {
+      "album": {
+        "name": "Virgin Denim",
+        "url": "https://open.spotify.com/album/3ET9072AROvw8sqz1Ar2uS"
+      },
+      "artists": [
+        {
+          "name": "Turunesh",
+          "url": "https://open.spotify.com/artist/7jsrAZ7VOhvG48hjxVaIkv"
+        },
+        {
+          "name": "Karun",
+          "url": "https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC"
+        },
+        {
+          "name": "mau from nowhere",
+          "url": "https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190684,
+      "name": "Virgin Denim",
+      "url": "https://open.spotify.com/track/69g0enFvUbtdKi5e84frgc"
     },
     {
       "album": {

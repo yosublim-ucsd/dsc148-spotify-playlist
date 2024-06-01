@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 
 > Rap from hell\. Cover: $uicideboy$
 
-[Spotify](https://open.spotify.com/user/spotify) - 586,021 likes - 110 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 586,200 likes - 110 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 | 39 | [snakes](https://open.spotify.com/track/2d7R3uf4J0RlM2iHI5RttN) | [lilbubblegum](https://open.spotify.com/artist/5FF8xJSW4qUVU8bk79KYLT), [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R) | [snakes](https://open.spotify.com/album/50w3jJypacgY733uBdP6BV) | 2:36 |
 | 40 | [DESIRE](https://open.spotify.com/track/25sabs7iC9eESyOpf0b6CY) | [LITTLE 4N](https://open.spotify.com/artist/66sdClSxeLEamPlKTQcrbd) | [DESIRE](https://open.spotify.com/album/4HRlH8H0ujyz46QqdEBI51) | 2:21 |
 | 41 | [0% \(feat\. ZillaKami\)](https://open.spotify.com/track/23kiail6YXSTnS2gPCGv8D) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO), [ZillaKami](https://open.spotify.com/artist/4G1zP5i0r57g1c1CxrPhfM) | [0% \(feat\. ZillaKami\)](https://open.spotify.com/album/6zwelZygwFIsSOhx16QaJc) | 2:12 |
-| 42 | [+44 SMOKE](https://open.spotify.com/track/3OP0mGH2yViz32As5VZgWW) | [BVDLVD](https://open.spotify.com/artist/1BhfikyrtSTch1r9upYGlS), [Synsy](https://open.spotify.com/artist/0OlLU0DwJ0kdd6LS5sTi49), [PROP](https://open.spotify.com/artist/0i6afccJI8mJKOrX3OFZvp) | [+44 SMOKE](https://open.spotify.com/album/6Helf1VezDpPcy7n4vtgm4) | 2:37 |
+| 42 | [+44 SMOKE](https://open.spotify.com/track/3OP0mGH2yViz32As5VZgWW) | [BVDLVD](https://open.spotify.com/artist/1BhfikyrtSTch1r9upYGlS), [Synsy](https://open.spotify.com/artist/0OlLU0DwJ0kdd6LS5sTi49) | [+44 SMOKE](https://open.spotify.com/album/6Helf1VezDpPcy7n4vtgm4) | 2:37 |
 | 43 | [maserati slick](https://open.spotify.com/track/3pE08q8PvdFDikPA5oMToS) | [Scrim](https://open.spotify.com/artist/5VKvqCyBxqbaXUp8eK0aUy) | [lonely boy](https://open.spotify.com/album/6KPDJJLnlulWdsy5pENApB) | 2:23 |
 | 44 | [Memoirs of a Gorilla](https://open.spotify.com/track/32B4HyegZNlYIWhENs8FcZ) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0), [Getter](https://open.spotify.com/artist/3QryVD03gGZOLQQXjy3EoA) | [Radical $uicide](https://open.spotify.com/album/1W7VBnHCvLa2cG9yWZT52t) | 2:02 |
 | 45 | [Frank Miller \(Kill Again\)](https://open.spotify.com/track/7HZl2VrEC0wODesG5W5q0o) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [Frank Miller \(Kill Again\) / I'm So Glad](https://open.spotify.com/album/39hIwDeKCBkErqbUJ7Q5pJ) | 2:11 |

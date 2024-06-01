@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: アイラヴミー
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,539 likes - 80 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,598 likes - 80 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 15 | [ハイパーメルト](https://open.spotify.com/track/6CF2mQLUft0qCeT99nQzqc) | [東京真中](https://open.spotify.com/artist/1XpZKw5ml9resg2tXiAk7K) | [ハイパーメルト](https://open.spotify.com/album/570wFV10N30k9bZvL5VOYd) | 3:04 |
 | 16 | [desert.](https://open.spotify.com/track/2Gj7UhEf0eAiyZuFVApcOl) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t) | [desert.](https://open.spotify.com/album/7lN4mNizrnLV4WiiCM5AL3) | 2:41 |
 | 17 | [Noblesse Oblige](https://open.spotify.com/track/4dh15muLIK8e23vdNSLAS2) | [Uilou](https://open.spotify.com/artist/3CdEu2bSpVDTmpSMWqFKCL) | [Noblesse Oblige](https://open.spotify.com/album/3v9WfDc3DqVw9y5WwiS2Y5) | 1:39 |
-| 18 | [THIS IS JAPANESE GIRL](https://open.spotify.com/track/5psoHRZLny713ndQc6X9up) | [Seiko Oomori](https://open.spotify.com/artist/24YRwiUM8Lj1bamuYNbeEr) | [THIS IS JAPANESE GIRL](https://open.spotify.com/album/2f3N06aYmjaeAZAppZfsgJ) | 3:20 |
+| 18 | [THIS IS JAPANESE GIRL](https://open.spotify.com/track/5psoHRZLny713ndQc6X9up) | [Seiko Oomori](https://open.spotify.com/artist/24YRwiUM8Lj1bamuYNbeEr), [Shinichi Osawa](https://open.spotify.com/artist/0s9KIyjWtFcsRdKtMECxFp) | [THIS IS JAPANESE GIRL](https://open.spotify.com/album/2f3N06aYmjaeAZAppZfsgJ) | 3:20 |
 | 19 | [The Light](https://open.spotify.com/track/6Jf6l54ftlk6rvk14v0kma) | [Perfume](https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr) | [The Light](https://open.spotify.com/album/3S3qjC95LDdkcmZ8G0w7Tt) | 3:35 |
 | 20 | [＃ズッ友](https://open.spotify.com/track/15rdcsQ5IZ4cuuJbsf8hGb) | [EMO Beats Lab](https://open.spotify.com/artist/4CdOXjE2KkDODnVmIhuh8e), [PERO PERO CANDY](https://open.spotify.com/artist/65IgJxxqOVBTo2foADY2Hl) | [＃ズッ友](https://open.spotify.com/album/3fHfgBcxd9NYFBllUuG3Wp) | 2:38 |
 | 21 | [最上級にかわいいの！](https://open.spotify.com/track/7fFBfuxC7655shASul0fKG) | [Cho Tokimeki Sendenbu](https://open.spotify.com/artist/02hwDSWEF0JdOgdIBw1gRT) | [最上級にかわいいの！ \(Special Edition\)](https://open.spotify.com/album/0mELQK45dzalnOwE4LJLrC) | 3:09 |

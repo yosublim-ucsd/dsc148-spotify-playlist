@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "This is Brian Eno. Todos os maiores hits em uma s\u00f3 playlist.",
+  "description": "This is Brian Eno. The essential tracks, all in one playlist.",
   "name": "This Is Brian Eno",
   "tracks": [
     {
@@ -324,7 +324,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 389133,
       "name": "An Arc Of Doves - Remastered 2004",
       "url": "https://open.spotify.com/track/244AfRQzVwSOzkkRHGPWge"
@@ -1042,7 +1042,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 426533,
       "name": "First Light - Remastered 2004",
       "url": "https://open.spotify.com/track/0r4FEHukFd50r43uTuYmHY"
@@ -1474,7 +1474,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-29",
+      "date_removed": null,
       "duration_ms": 173933,
       "name": "Iris",
       "url": "https://open.spotify.com/track/5gFsbxI10eCm40nP6GapHi"
@@ -1590,7 +1590,7 @@
       ],
       "date_added": "2023-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-29",
+      "date_removed": null,
       "duration_ms": 284133,
       "name": "Lay My Love",
       "url": "https://open.spotify.com/track/1i75wN1NJ6oaWeVZPK2A03"
@@ -2024,7 +2024,7 @@
       ],
       "date_added": "2023-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 143133,
       "name": "Pause",
       "url": "https://open.spotify.com/track/0RLkIJSQ2gMSZNhesO44Cx"
@@ -2174,7 +2174,7 @@
       ],
       "date_added": "2023-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-20",
+      "date_removed": null,
       "duration_ms": 163887,
       "name": "Safety",
       "url": "https://open.spotify.com/track/3uaiTyek2p1XDe9xwIQBJz"
@@ -2576,7 +2576,7 @@
       ],
       "date_added": "2022-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-28",
+      "date_removed": null,
       "duration_ms": 89813,
       "name": "Steal Away - Remastered 2004",
       "url": "https://open.spotify.com/track/5tAb6fBqO5zgUKlhqMyxfr"
@@ -2708,7 +2708,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-29",
+      "date_removed": null,
       "duration_ms": 133706,
       "name": "The Chill Air - Remastered 2004",
       "url": "https://open.spotify.com/track/1ijeMou08IoCT7ZhjPvu42"
@@ -2774,7 +2774,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 253893,
       "name": "The Plateaux Of Mirror - Remastered 2004",
       "url": "https://open.spotify.com/track/75Q2oWlmhsTiM9KTbjyduU"
@@ -3268,7 +3268,7 @@
       ],
       "date_added": "2024-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-29",
+      "date_removed": null,
       "duration_ms": 238240,
       "name": "Wind In Lonely Fences - Remastered 2004",
       "url": "https://open.spotify.com/track/31aECKjYHYUwWApiOaLLU2"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The biggest house bangers popping off in the UK, let's go! Fatboy Slim",
+  "description": "The biggest house bangers popping off in the UK, let's go! MK",
   "name": "UK House Music",
   "tracks": [
     {
@@ -4241,7 +4241,7 @@
     },
     {
       "album": {
-        "name": "Energy ('05 Remix)",
+        "name": "Energy (Ewan McVicar '05 Remix)",
         "url": "https://open.spotify.com/album/2wRRQ3sFAFiNzKUFxGms8R"
       },
       "artists": [
@@ -4250,19 +4250,19 @@
           "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
         },
         {
-          "name": "Ewan McVicar",
-          "url": "https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH"
-        },
-        {
           "name": "DRAMA",
           "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
+        },
+        {
+          "name": "Ewan McVicar",
+          "url": "https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH"
         }
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 279875,
-      "name": "Energy - '05 Remix",
+      "name": "Energy - Ewan McVicar '05 Remix",
       "url": "https://open.spotify.com/track/3f6u2nwY2wgW8yq9Ith9P0"
     },
     {
@@ -4452,7 +4452,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 208333,
       "name": "Everybody's Dancing",
       "url": "https://open.spotify.com/track/6srGYkDeeInw4iOPR06k1X"
@@ -6364,7 +6364,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 227096,
       "name": "Hide U",
       "url": "https://open.spotify.com/track/6t66VoimUkuQLb2b00Z09Z"
@@ -7358,6 +7358,28 @@
       "duration_ms": 167441,
       "name": "In Your Soul",
       "url": "https://open.spotify.com/track/1PLK0a89BzJ4KA0TyOlz9D"
+    },
+    {
+      "album": {
+        "name": "Incanto",
+        "url": "https://open.spotify.com/album/1l0jv9dUNX0HN7E9078Opp"
+      },
+      "artists": [
+        {
+          "name": "Ryan Arnold",
+          "url": "https://open.spotify.com/artist/2DiJzuvmindWKRL3uBD9o7"
+        },
+        {
+          "name": "Raffa Fl",
+          "url": "https://open.spotify.com/artist/0j4dGWeyGGE4GvrAzdZIZ5"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186562,
+      "name": "Incanto",
+      "url": "https://open.spotify.com/track/2YU7qOVWn3LgCxmch4PSGp"
     },
     {
       "album": {
@@ -11329,6 +11351,28 @@
     },
     {
       "album": {
+        "name": "PICK UP THE PHONE (feat. Nate Dogg)",
+        "url": "https://open.spotify.com/album/7gRGY7lnuazLB3axrV5yWE"
+      },
+      "artists": [
+        {
+          "name": "PAWSA",
+          "url": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
+        },
+        {
+          "name": "Nate Dogg",
+          "url": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224124,
+      "name": "PICK UP THE PHONE (feat. Nate Dogg)",
+      "url": "https://open.spotify.com/track/6o0gJtOgimGamRBTS80H5g"
+    },
+    {
+      "album": {
         "name": "Pilka",
         "url": "https://open.spotify.com/album/6vcCrI7MtwIgGvrCxvIXQf"
       },
@@ -12344,7 +12388,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 228026,
       "name": "Rising High",
       "url": "https://open.spotify.com/track/57k1kWRJSLUsj8HXpAZnOD"
@@ -12924,6 +12968,28 @@
       "duration_ms": 197052,
       "name": "Shanti - Edit",
       "url": "https://open.spotify.com/track/1szTQ7E8JdftUCEN2ByuUP"
+    },
+    {
+      "album": {
+        "name": "She's In The Club (feat. Asal)",
+        "url": "https://open.spotify.com/album/7wJPiNFf6AThWb0Sh0ar2C"
+      },
+      "artists": [
+        {
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+        },
+        {
+          "name": "Asal",
+          "url": "https://open.spotify.com/artist/5gOMN9Yb70XQjnYrhyZ9Yj"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188011,
+      "name": "She's In The Club (feat. Asal)",
+      "url": "https://open.spotify.com/track/7BhjlfNllL8h50DLl5Cd4r"
     },
     {
       "album": {
@@ -16112,7 +16178,7 @@
       ],
       "date_added": "2024-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-17",
+      "date_removed": null,
       "duration_ms": 198019,
       "name": "Waiting For Tonight",
       "url": "https://open.spotify.com/track/75ckdfW23NPWGDMSjdUFBv"

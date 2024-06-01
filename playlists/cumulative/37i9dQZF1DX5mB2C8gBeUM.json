@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Country gone wild! You never know what you're gonna get. Cover: Kane Brown and Marshmello",
+  "description": "Country gone wild! You never know what you're gonna get. Cover: Beyonc\u00e9",
   "name": "Wild Country",
   "tracks": [
     {
@@ -1168,6 +1168,28 @@
       "duration_ms": 151272,
       "name": "Bourbon In Barrels",
       "url": "https://open.spotify.com/track/3tMdzDTUhQbBH7pTqP4Oik"
+    },
+    {
+      "album": {
+        "name": "Boys Back Home (feat. Yung Gravy)",
+        "url": "https://open.spotify.com/album/1JWfURhjrmyhPC77K8qrGk"
+      },
+      "artists": [
+        {
+          "name": "Dylan Marlowe",
+          "url": "https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax"
+        },
+        {
+          "name": "Yung Gravy",
+          "url": "https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ"
+        }
+      ],
+      "date_added": "2024-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180392,
+      "name": "Boys Back Home (feat. Yung Gravy)",
+      "url": "https://open.spotify.com/track/2O5z9a7kvDvDQL0G6Aj3oV"
     },
     {
       "album": {
@@ -8074,6 +8096,24 @@
       "duration_ms": 167006,
       "name": "W+W",
       "url": "https://open.spotify.com/track/57Feadv9wz81gOtQFVsdH3"
+    },
+    {
+      "album": {
+        "name": "Warning Shot",
+        "url": "https://open.spotify.com/album/0eAplhXz5jR1wCFDEb7pr8"
+      },
+      "artists": [
+        {
+          "name": "charlieonnafriday",
+          "url": "https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA"
+        }
+      ],
+      "date_added": "2024-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145851,
+      "name": "Warning Shot",
+      "url": "https://open.spotify.com/track/2mZihLDNHZHIed3uFgv4yh"
     },
     {
       "album": {

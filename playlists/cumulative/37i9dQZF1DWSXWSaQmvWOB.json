@@ -486,7 +486,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 199014,
       "name": "Ain't It Funny",
       "url": "https://open.spotify.com/track/6GMl3oOdnulFmgiLpoPXLu"
@@ -624,6 +624,24 @@
       "duration_ms": 152500,
       "name": "All Good",
       "url": "https://open.spotify.com/track/32pVxiyqfsKKoZMEyF9WDn"
+    },
+    {
+      "album": {
+        "name": "All I Need (The Gemini Song)",
+        "url": "https://open.spotify.com/album/71uGvbeHGdF2LIPCIVqYLF"
+      },
+      "artists": [
+        {
+          "name": "Avery*Sunshine",
+          "url": "https://open.spotify.com/artist/4yMxdaUoKCalQPX9BMeeFf"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251586,
+      "name": "All I Need (The Gemini Song)",
+      "url": "https://open.spotify.com/track/212aM3sCb6fAeqUnYiLr61"
     },
     {
       "album": {
@@ -1024,6 +1042,24 @@
       "duration_ms": 209482,
       "name": "Back On 74",
       "url": "https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO"
+    },
+    {
+      "album": {
+        "name": "Back To Me",
+        "url": "https://open.spotify.com/album/3sBfcY0O7MGHSNZrXZwHum"
+      },
+      "artists": [
+        {
+          "name": "Raquel Rodriguez",
+          "url": "https://open.spotify.com/artist/7CPwAwFBnruFlDqUQCrM1Q"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193955,
+      "name": "Back To Me",
+      "url": "https://open.spotify.com/track/7GFkfewfhNv5ghA7M2040q"
     },
     {
       "album": {
@@ -2204,7 +2240,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 249656,
       "name": "Can't Afford Therapy",
       "url": "https://open.spotify.com/track/6urArILLJCAMySnR4RA92s"
@@ -3895,6 +3931,24 @@
     },
     {
       "album": {
+        "name": "Enchant\u00e9",
+        "url": "https://open.spotify.com/album/563FrJ2AfhKQj1nqYCISaM"
+      },
+      "artists": [
+        {
+          "name": "Tim Atlas",
+          "url": "https://open.spotify.com/artist/3CiuXDKttPUT0tWGHicFUH"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162600,
+      "name": "Enchant\u00e9",
+      "url": "https://open.spotify.com/track/10wbN21d8FXT0cFIaCw1yV"
+    },
+    {
+      "album": {
         "name": "Untidy Soul",
         "url": "https://open.spotify.com/album/7u5uWlp5UV9mdr7Rokotod"
       },
@@ -4186,7 +4240,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 170479,
       "name": "Everything\u2019s Beautiful",
       "url": "https://open.spotify.com/track/3HkLJLoUHQbKwjn3krWvpg"
@@ -4208,6 +4262,28 @@
       "duration_ms": 286253,
       "name": "Explore",
       "url": "https://open.spotify.com/track/15fow3n2T8cgsPH9FBItjL"
+    },
+    {
+      "album": {
+        "name": "Fade (feat. KIRBY)",
+        "url": "https://open.spotify.com/album/2np1sUdwyKLUGAe1NFs4uL"
+      },
+      "artists": [
+        {
+          "name": "Samm Henshaw",
+          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
+        },
+        {
+          "name": "KIRBY",
+          "url": "https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208896,
+      "name": "Fade (feat. KIRBY)",
+      "url": "https://open.spotify.com/track/4JIQyyCvJnUcRTYxKBB4LU"
     },
     {
       "album": {
@@ -4292,7 +4368,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 215392,
       "name": "Favorite Thing to Do",
       "url": "https://open.spotify.com/track/2CvrLqKWl77sjcg608A1xW"
@@ -4611,20 +4687,24 @@
     },
     {
       "album": {
-        "name": "Fist Bump (Radio Edit)",
+        "name": "Fist Bump (feat. Free Nationals) (Radio Edit)",
         "url": "https://open.spotify.com/album/2KKfaCj1zRMDHuCa2fmlZa"
       },
       "artists": [
         {
           "name": "Durand Bernarr",
           "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        },
+        {
+          "name": "Free Nationals",
+          "url": "https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj"
         }
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 213000,
-      "name": "Fist Bump - Radio Edit",
+      "name": "Fist Bump (feat. Free Nationals) - Radio Edit",
       "url": "https://open.spotify.com/track/5El5mxXJzfYYr0PM61xrvn"
     },
     {
@@ -4644,6 +4724,28 @@
       "duration_ms": 213728,
       "name": "Flashing Lights",
       "url": "https://open.spotify.com/track/1sK3qSrr5cbVBbFobG2Gjh"
+    },
+    {
+      "album": {
+        "name": "Flatlining - Shamis Remix",
+        "url": "https://open.spotify.com/album/6AlwUsiyWlD7j6zdMSQMSO"
+      },
+      "artists": [
+        {
+          "name": "Rilan & The Bombardiers",
+          "url": "https://open.spotify.com/artist/1yawxcvEJTTtsz2aX3yruE"
+        },
+        {
+          "name": "Shamis",
+          "url": "https://open.spotify.com/artist/6zJSQoZfurX2beU3qbe717"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324000,
+      "name": "Flatlining - Shamis Remix",
+      "url": "https://open.spotify.com/track/07AeQ6h4PTbh3m8Fx89u6i"
     },
     {
       "album": {
@@ -6340,7 +6442,7 @@
       ],
       "date_added": "2024-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 208760,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/2Wr8VlaALAoCINplD16qwh"
@@ -6787,7 +6889,29 @@
     },
     {
       "album": {
-        "name": "I Feel The Same",
+        "name": "I don't want it any other way",
+        "url": "https://open.spotify.com/album/0AsVAFIVQ7sTVn4Sb6lmRX"
+      },
+      "artists": [
+        {
+          "name": "The Pulitzers",
+          "url": "https://open.spotify.com/artist/5Dx8w28qru2T4PQL3yivRL"
+        },
+        {
+          "name": "Omar",
+          "url": "https://open.spotify.com/artist/0BzTIDnFI4pvhy7vVNd41Z"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280369,
+      "name": "I don't want it any other way",
+      "url": "https://open.spotify.com/track/4WkFqFqm934Qm0RUWSjZWE"
+    },
+    {
+      "album": {
+        "name": "I Feel the Same",
         "url": "https://open.spotify.com/album/3zwgXxn3hxMKh7Cbbor2j2"
       },
       "artists": [
@@ -6800,7 +6924,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 247895,
-      "name": "I Feel The Same",
+      "name": "I Feel the Same",
       "url": "https://open.spotify.com/track/3g5USVPXT64avOIty1eJEO"
     },
     {
@@ -8857,6 +8981,24 @@
     },
     {
       "album": {
+        "name": "Love Heart Cheat Code",
+        "url": "https://open.spotify.com/album/3TsAZSV9r6h0w4S5fxS2qX"
+      },
+      "artists": [
+        {
+          "name": "Hiatus Kaiyote",
+          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273291,
+      "name": "Love Heart Cheat Code",
+      "url": "https://open.spotify.com/track/0ewpVF33opGsxPJlLRflWX"
+    },
+    {
+      "album": {
         "name": "Love I Need",
         "url": "https://open.spotify.com/album/6E1VdzlwG13cctmM64eVAM"
       },
@@ -9368,7 +9510,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 196200,
       "name": "Man of the Hour",
       "url": "https://open.spotify.com/track/2Uz6eflEfqMJj2wuKKs8HM"
@@ -9750,6 +9892,28 @@
       "duration_ms": 123141,
       "name": "Molly",
       "url": "https://open.spotify.com/track/3x3b6gLfASQ3oKMC5tM6Wf"
+    },
+    {
+      "album": {
+        "name": "Mood For You",
+        "url": "https://open.spotify.com/album/7tTUyw3Tmd3PWNSwtaaZjv"
+      },
+      "artists": [
+        {
+          "name": "Lalah Hathaway",
+          "url": "https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo"
+        },
+        {
+          "name": "MC Lyte",
+          "url": "https://open.spotify.com/artist/2ZbWlThDW0qSbI3hinpl0w"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235186,
+      "name": "Mood For You",
+      "url": "https://open.spotify.com/track/4n66AIKTLwt0ljPFrKCc4n"
     },
     {
       "album": {
@@ -11748,7 +11912,7 @@
       ],
       "date_added": "2024-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 290693,
       "name": "Planet Nine",
       "url": "https://open.spotify.com/track/7fVt2s9EQVuqxTaB4UscpI"
@@ -12344,7 +12508,7 @@
       ],
       "date_added": "2024-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 139764,
       "name": "Reverence",
       "url": "https://open.spotify.com/track/5HsDGaUBBBWBCpIjpHuB2T"
@@ -13304,6 +13468,24 @@
       "duration_ms": 192724,
       "name": "Silver Lining",
       "url": "https://open.spotify.com/track/2lNiHTqGXMDqL1fYtzJJo8"
+    },
+    {
+      "album": {
+        "name": "Silver Tongue",
+        "url": "https://open.spotify.com/album/6kzadEspZVh3DAFv5BnulS"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262741,
+      "name": "Silver Tongue",
+      "url": "https://open.spotify.com/track/0Qxsuh1NoCMWDYVfC49XRE"
     },
     {
       "album": {
@@ -17166,7 +17348,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 146293,
       "name": "Without You",
       "url": "https://open.spotify.com/track/0r8vxCY5ZP9Q49FJBzwdH0"

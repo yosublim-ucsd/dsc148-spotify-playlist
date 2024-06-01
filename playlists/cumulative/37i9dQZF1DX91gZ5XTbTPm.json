@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "The Midwest is always on time. Cover: Chief Keef",
+  "description": "The Midwest is always on time. Cover: Sexyy Red",
   "name": "CST",
   "tracks": [
     {
@@ -1018,6 +1018,24 @@
       "duration_ms": 103917,
       "name": "And 1",
       "url": "https://open.spotify.com/track/65EE4FlaDSppyOrJCodYsC"
+    },
+    {
+      "album": {
+        "name": "Angels In The Sky",
+        "url": "https://open.spotify.com/album/41VlriZ3G48XNHYmoWqYSW"
+      },
+      "artists": [
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162210,
+      "name": "Angels In The Sky",
+      "url": "https://open.spotify.com/track/5quU0IUtPut7sZZlQ2kK54"
     },
     {
       "album": {
@@ -2452,7 +2470,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 101799,
       "name": "BTA Freestyle",
       "url": "https://open.spotify.com/track/0uOHe91wN2tcB7eTcmuFtI"
@@ -2756,7 +2774,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 78419,
       "name": "Case Dismissed",
       "url": "https://open.spotify.com/track/21Snj1BjgpX3eeSCudzqAI"
@@ -3273,6 +3291,24 @@
     },
     {
       "album": {
+        "name": "2 Faced, Pt. 2",
+        "url": "https://open.spotify.com/album/20WBtyZuLSGHtzJ02ZsY4p"
+      },
+      "artists": [
+        {
+          "name": "LUCKI",
+          "url": "https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146933,
+      "name": "Courtesy Of",
+      "url": "https://open.spotify.com/track/3IkmOqvFO5yM1D5rjGn701"
+    },
+    {
+      "album": {
         "name": "Crash Out",
         "url": "https://open.spotify.com/album/2C1OiqSN5IXX9BQyojVT6Z"
       },
@@ -3474,7 +3510,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 156656,
       "name": "DEVIL TO ATLANTA",
       "url": "https://open.spotify.com/track/6TTDF18Rqe5NsduseeLMyJ"
@@ -3876,7 +3912,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 157297,
       "name": "Elegant",
       "url": "https://open.spotify.com/track/5urtbbacJkW1vfkwidsR8V"
@@ -4176,6 +4212,28 @@
       "duration_ms": 234047,
       "name": "Fashion Week",
       "url": "https://open.spotify.com/track/4FjuYI27ToM2hATy6NsJv0"
+    },
+    {
+      "album": {
+        "name": "FASHO",
+        "url": "https://open.spotify.com/album/3czDNbQY3T12tazXEzn5JQ"
+      },
+      "artists": [
+        {
+          "name": "HotBlock Jmoe",
+          "url": "https://open.spotify.com/artist/1GiFhQeBgRig35WbBjvtb1"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165407,
+      "name": "FASHO",
+      "url": "https://open.spotify.com/track/3nRF4GMXhR76qgxNNdVMbB"
     },
     {
       "album": {
@@ -5294,7 +5352,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 171864,
       "name": "GOMD",
       "url": "https://open.spotify.com/track/1wabjSijwiHbAKhCiDlLEu"
@@ -5436,7 +5494,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 153198,
       "name": "Gorgeous",
       "url": "https://open.spotify.com/track/5e2jIB5KT9kmTDCBzAmvQr"
@@ -5538,7 +5596,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 303000,
       "name": "Grape Trees (feat. Sexyy Red)",
       "url": "https://open.spotify.com/track/7tE46absMtSeWvESGkNXDl"
@@ -5982,7 +6040,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 189746,
       "name": "head.rap (ft. Madison McFerrin, Ogi, Jordan Ward)",
       "url": "https://open.spotify.com/track/5RlDYfphEpQaft5JDQfQko"
@@ -6422,6 +6480,24 @@
       "duration_ms": 162858,
       "name": "I Deserve (w/ NOS.)",
       "url": "https://open.spotify.com/track/4SqPtAd2irUOyLoLcOFtkl"
+    },
+    {
+      "album": {
+        "name": "I Did It",
+        "url": "https://open.spotify.com/album/6dhNzxb7PZ6CfY5rGBI1QZ"
+      },
+      "artists": [
+        {
+          "name": "1up Tee",
+          "url": "https://open.spotify.com/artist/1yqmgJoPnWJO0pxbZvxvCX"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91076,
+      "name": "I Did It",
+      "url": "https://open.spotify.com/track/2MJhqFTUvDko02kknVHYFA"
     },
     {
       "album": {
@@ -6964,6 +7040,28 @@
       "duration_ms": 130098,
       "name": "In Person (With OG Parker feat. Tyga)",
       "url": "https://open.spotify.com/track/0GYi1PEjtCPfXHPGnvs5ON"
+    },
+    {
+      "album": {
+        "name": "In the Air",
+        "url": "https://open.spotify.com/album/1lyapQpLw6QQUdVabtLog8"
+      },
+      "artists": [
+        {
+          "name": "KrispyLife Kidd",
+          "url": "https://open.spotify.com/artist/0nsO60VA1qoO308e9cYEPR"
+        },
+        {
+          "name": "Cash Kidd",
+          "url": "https://open.spotify.com/artist/26qmuJTgE3g67pPClBQ3Iu"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117282,
+      "name": "In the Air",
+      "url": "https://open.spotify.com/track/2wscXin4STWT1Tjo9ye8pe"
     },
     {
       "album": {
@@ -8358,6 +8456,28 @@
       "duration_ms": 201849,
       "name": "LOYALTY",
       "url": "https://open.spotify.com/track/1pziOYOAf9miJYxKneNcOB"
+    },
+    {
+      "album": {
+        "name": "ERROR 404",
+        "url": "https://open.spotify.com/album/33X7CmFuM7WuVyTho420ZG"
+      },
+      "artists": [
+        {
+          "name": "Nasaan",
+          "url": "https://open.spotify.com/artist/6qbCuiHIWsiQxNhqXgc7mz"
+        },
+        {
+          "name": "Babytron",
+          "url": "https://open.spotify.com/artist/3CZBIUkUIsjvLnVclMIlHa"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136492,
+      "name": "LUNCHROOM FREESTYLE (feat. Babytron)",
+      "url": "https://open.spotify.com/track/0IdnpPAGtYbUH3TWHR9Egn"
     },
     {
       "album": {
@@ -10637,6 +10757,24 @@
     },
     {
       "album": {
+        "name": "Pop Yo Shit",
+        "url": "https://open.spotify.com/album/1R1PlEdUQi7TSPfWXOVSGU"
+      },
+      "artists": [
+        {
+          "name": "Veeze",
+          "url": "https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147804,
+      "name": "Pop Yo Shit",
+      "url": "https://open.spotify.com/track/7zlbWcAnL2pIGsGhRswUgK"
+    },
+    {
+      "album": {
         "name": "PORSCHE TOPLESS",
         "url": "https://open.spotify.com/album/63fDdZN9I2Q55bwmwbUMYn"
       },
@@ -11979,6 +12117,28 @@
     },
     {
       "album": {
+        "name": "See Us",
+        "url": "https://open.spotify.com/album/6SM23HeU5L6nBBgezvc0q8"
+      },
+      "artists": [
+        {
+          "name": "BlakeIANA",
+          "url": "https://open.spotify.com/artist/7gq41QBlN40T3GDQ0wEbYS"
+        },
+        {
+          "name": "Skilla Baby",
+          "url": "https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130909,
+      "name": "See Us",
+      "url": "https://open.spotify.com/track/04FBRDqyjccu1VVKZKULa1"
+    },
+    {
+      "album": {
         "name": "SentRock",
         "url": "https://open.spotify.com/album/6FS38anvDEjBwNAOKfFPro"
       },
@@ -12246,6 +12406,24 @@
       "duration_ms": 176588,
       "name": "Shordie (with Gunna)",
       "url": "https://open.spotify.com/track/6H6ZtVp6DymejLOJLdRzOI"
+    },
+    {
+      "album": {
+        "name": "Show Dat",
+        "url": "https://open.spotify.com/album/7kPevCgsZgnDAkcZu324Go"
+      },
+      "artists": [
+        {
+          "name": "FendiDa Rappa",
+          "url": "https://open.spotify.com/artist/7oXyXDUyxRjYXWC5L5EuGy"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172392,
+      "name": "Show Dat",
+      "url": "https://open.spotify.com/track/3YnjEF9USwZuycc7CWTgbE"
     },
     {
       "album": {
@@ -14756,7 +14934,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 225132,
       "name": "U My Everything (feat. Drake)",
       "url": "https://open.spotify.com/track/1TgStpMGTflN84asKJ8VU3"

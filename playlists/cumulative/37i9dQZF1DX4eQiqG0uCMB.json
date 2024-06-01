@@ -1096,7 +1096,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 163709,
       "name": "Contraband",
       "url": "https://open.spotify.com/track/2XWEtuwV02B9L4UNQ2wf9W"
@@ -1148,6 +1148,24 @@
       "duration_ms": 156774,
       "name": "Cruel Love",
       "url": "https://open.spotify.com/track/2z4Im0b5lCgNwLHshx2vkW"
+    },
+    {
+      "album": {
+        "name": "Crystal Clear",
+        "url": "https://open.spotify.com/album/5zk4AWOTF9x08lQCCeCE7a"
+      },
+      "artists": [
+        {
+          "name": "Adam Srae",
+          "url": "https://open.spotify.com/artist/3QxhXJxbonsOqLObAIuKAE"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162953,
+      "name": "Crystal Clear",
+      "url": "https://open.spotify.com/track/126XUMPWUjPx2iRVhkaSjo"
     },
     {
       "album": {
@@ -2033,6 +2051,24 @@
     },
     {
       "album": {
+        "name": "Goodbye",
+        "url": "https://open.spotify.com/album/7oRp7brhtfxdTTBnrOxWYr"
+      },
+      "artists": [
+        {
+          "name": "Papa",
+          "url": "https://open.spotify.com/artist/3yhUYybUxwJn1or7zHXWHy"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181379,
+      "name": "Goodbye",
+      "url": "https://open.spotify.com/track/1FWBWamlW273N39e1qQYO5"
+    },
+    {
+      "album": {
         "name": "GRA GRA",
         "url": "https://open.spotify.com/album/76ZizCnJx5OGlsUvcUUBKp"
       },
@@ -2698,7 +2734,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 228518,
       "name": "Let Me",
       "url": "https://open.spotify.com/track/7jbR0coXoqygIfc6OFW8ly"
@@ -3376,7 +3412,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 178579,
       "name": "MOTO",
       "url": "https://open.spotify.com/track/1b83195i03SMUa1VWto8Z5"
@@ -4012,6 +4048,24 @@
       "duration_ms": 172256,
       "name": "Peru - Acoustic",
       "url": "https://open.spotify.com/track/6RAFf0mJ498F0GzrFZ1ZsS"
+    },
+    {
+      "album": {
+        "name": "Phases",
+        "url": "https://open.spotify.com/album/14ITjU7AhfyWsBCeUqqElH"
+      },
+      "artists": [
+        {
+          "name": "Xenia Manasseh",
+          "url": "https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204413,
+      "name": "Phases",
+      "url": "https://open.spotify.com/track/1AspvEDeHVWJY0X7pkdldi"
     },
     {
       "album": {
@@ -4930,7 +4984,7 @@
       ],
       "date_added": "2023-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 149481,
       "name": "Sweet Tea (Aduke)",
       "url": "https://open.spotify.com/track/1L7mOi50c91uzwkmeUhClS"
@@ -5816,6 +5870,28 @@
       "duration_ms": 163298,
       "name": "You",
       "url": "https://open.spotify.com/track/7rMLmoVArHiGk9xnWZ1uCs"
+    },
+    {
+      "album": {
+        "name": "Happy 2 Be Alive",
+        "url": "https://open.spotify.com/album/3jXkhOEyaDn7grFbTJ9QQ1"
+      },
+      "artists": [
+        {
+          "name": "Ricky Tyler",
+          "url": "https://open.spotify.com/artist/6eDg95U7HWOonWTaVdhATA"
+        },
+        {
+          "name": "PLXYGRND",
+          "url": "https://open.spotify.com/artist/50PvUnXVMTdV9KRCcbxFMp"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181871,
+      "name": "You Were Mine",
+      "url": "https://open.spotify.com/track/3QpTafVsUG8UWFDHfJ18Q4"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX4eQiqG0uCMB"

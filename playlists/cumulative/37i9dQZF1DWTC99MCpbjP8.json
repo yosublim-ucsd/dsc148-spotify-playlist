@@ -1341,6 +1341,24 @@
     },
     {
       "album": {
+        "name": "Campanula",
+        "url": "https://open.spotify.com/album/6gqgoR8RcAmkTLXF7E0z2q"
+      },
+      "artists": [
+        {
+          "name": "Hidden Nat\u00far",
+          "url": "https://open.spotify.com/artist/1r3WsPkeb5nKMaRza1SBX3"
+        }
+      ],
+      "date_added": "2024-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185794,
+      "name": "Campanula",
+      "url": "https://open.spotify.com/track/7y0HN6kd7tx0mU7ZVCPLco"
+    },
+    {
+      "album": {
         "name": "Candles",
         "url": "https://open.spotify.com/album/1eQlINbY8VmjpT2nmQm6Nn"
       },

@@ -4,7 +4,7 @@
 
 > Sau này bé lấy 🥖 của mẹ đi cưa ghệ
 
-165 songs - 9 hr 31 min
+166 songs - 9 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,7 @@
 | [Hai Thằng Bịp](https://open.spotify.com/track/41mz9gDQLtdaQE02SJsdhS) | [RZ Mas](https://open.spotify.com/artist/39UJlviUwzZGZrA8DiQy31), [24k.Right](https://open.spotify.com/artist/0hUr8xEtATxbq2OTiJFAP0) | [Hai Thằng Bịp](https://open.spotify.com/album/1TmlpxqYkDzs8TasWPsMrB) | 2:57 | 2023-11-23 | 2023-11-27 |
 | [Hoa Kiều](https://open.spotify.com/track/1p9kfCk3IbjioLhVQxCyib) | [Trung Tâm Băng Đĩa Lậu Hải Ngoại](https://open.spotify.com/artist/53hbIxngriO3apa2SXrS29) | [Hoa Kiều](https://open.spotify.com/album/2Fwe7zdPjBtT7YryfYuXW5) | 4:18 | 2023-10-19 | 2023-10-31 |
 | [Hà Nội \(ft\. VSTRA\)](https://open.spotify.com/track/0SLhB9JLM4Ksz1XdwK3aQD) | [Obito](https://open.spotify.com/artist/0ZbgKh0FgPYeFP38nVaEGp), [VSTRA](https://open.spotify.com/artist/2aMo0CYbTieTisS0BlWc59), [Shiki](https://open.spotify.com/artist/3hRnvEdu1iPyB6EzMBbuZq) | [Đánh Đổi](https://open.spotify.com/album/5NODJ4FZWvaLLiFd554kLI) | 2:45 | 2023-10-19 |  |
-| [Hẹn Gặp Em Dưới Ánh Trăng](https://open.spotify.com/track/0s7RyyUlQfd8mnnboHe18n) | [MANBO](https://open.spotify.com/artist/2rKtPYcwYmevNcaqzJOwvf), [HIEUTHUHAI](https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY), [HURRYKNG](https://open.spotify.com/artist/5ulyphh5uJrH4Gb1JpSMkV) | [Hẹn Gặp Em Dưới Ánh Trăng](https://open.spotify.com/album/19nGMLMd8gjMQwgh2aYmsx) | 3:42 | 2024-03-22 |  |
+| [Hẹn Gặp Em Dưới Ánh Trăng](https://open.spotify.com/track/0s7RyyUlQfd8mnnboHe18n) | [MANBO](https://open.spotify.com/artist/2rKtPYcwYmevNcaqzJOwvf), [HIEUTHUHAI](https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY), [HURRYKNG](https://open.spotify.com/artist/5ulyphh5uJrH4Gb1JpSMkV) | [Hẹn Gặp Em Dưới Ánh Trăng](https://open.spotify.com/album/19nGMLMd8gjMQwgh2aYmsx) | 3:42 | 2024-03-22 | 2024-06-01 |
 | [Hồng không gai](https://open.spotify.com/track/3PJbFJImi0QMxDCUKFBfbU) | [Winno](https://open.spotify.com/artist/23UOCFmQtFKvx2mFufMoJB), [SpideyBoy](https://open.spotify.com/artist/3unhO6qR1h6msBm7QSUdPF) | [TO LOVE AND BE LOVED](https://open.spotify.com/album/195fx2E1Yyz5UEiw7mBNuJ) | 3:44 | 2024-05-07 | 2024-05-21 |
 | [IDOOMYTHANG](https://open.spotify.com/track/7kveMI8XwHJTpdQa4oF7yL) | [THANHDRAW](https://open.spotify.com/artist/3IX4Pb7ZXycI23PamK8ng8) | [IDOOMYTHANG](https://open.spotify.com/album/3H7Z2Z9rhP6DLEdk8QrOIl) | 2:14 | 2023-12-07 | 2023-12-11 |
 | [Khi Mà](https://open.spotify.com/track/0Lf0ydJp4nbcEkYgPtIUuD) | [Ronboogz](https://open.spotify.com/artist/0dBcEvEklr1jx4uZuhFX5e) | [Khi Mà](https://open.spotify.com/album/0vFLTL5SnRlmmdwjQTwHa0) | 3:48 | 2024-03-22 | 2024-05-21 |
@@ -130,6 +130,7 @@
 | [So Close](https://open.spotify.com/track/4UxaMIzEAHLGmNeLoutSaL) | [Binz](https://open.spotify.com/artist/2nSO7JYDbJrYbJmP39qUzj), [Phương Ly](https://open.spotify.com/artist/5Kh0ta0UY4uJ4g2CIdq9V9) | [So Close](https://open.spotify.com/album/2JfqJ783KDwUriEeMOxWhx) | 3:19 | 2023-12-24 | 2024-01-06 |
 | [SS SWAG](https://open.spotify.com/track/3JzzDhLizpLrBmNxglvmpd) | [SPACESPEAKERS](https://open.spotify.com/artist/23jUmiOyAG9Dzq6Ayp9LUG) | [SS SWAG](https://open.spotify.com/album/0mQiOnrmJqyuwqbt1wx3U1) | 3:18 | 2023-12-07 | 2023-12-11 |
 | [SUNDAY HIPHOP CYPHER](https://open.spotify.com/track/3q9N2v6fXZFLdTrXS6v8Ma) | [16 Typh](https://open.spotify.com/artist/5U1dINFKjJlYNOSdMrHlRh), [16 BrT](https://open.spotify.com/artist/4jIoCS5bJr2TQ2SIbSPnwR), [Lil Wuyn](https://open.spotify.com/artist/3Wj34lTDJnPp70u4YCl4jz), [R.I.C](https://open.spotify.com/artist/53eTc0Nlir9E3ezMBekpsU) | [SUNDAY HIPHOP CYPHER](https://open.spotify.com/album/5zbmwF8UNv4ZZVHj3Dy5NS) | 2:55 | 2023-12-11 | 2023-12-16 |
+| [Sài Gòn ơi](https://open.spotify.com/track/5BE96iX1TLgVHFDJPcKpkp) | [Obito](https://open.spotify.com/artist/0ZbgKh0FgPYeFP38nVaEGp), [Shiki](https://open.spotify.com/artist/3hRnvEdu1iPyB6EzMBbuZq) | [Đánh Đổi](https://open.spotify.com/album/5NODJ4FZWvaLLiFd554kLI) | 3:08 | 2024-05-23 |  |
 | [Sá Xị Chương Dương](https://open.spotify.com/track/6K4Bzwf1Zl07n3C9myO35P) | [Cam](https://open.spotify.com/artist/4IiJbbRn328Zxw8mtHb7bo) | [Sá Xị Chương Dương](https://open.spotify.com/album/64Ws2OwRhwTqiKkITCMtYd) | 1:41 | 2023-12-11 | 2023-12-22 |
 | [Tay To](https://open.spotify.com/track/41aMYNen9G7uUbqLfV65cF) | [Rapital](https://open.spotify.com/artist/0wqus4nTxIoJvLZLwBt8Df), [RPT MCK](https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL), [Phongkhin](https://open.spotify.com/artist/7qHgn5ADOzPBlcWcXfM6iA) | [Rapitalove](https://open.spotify.com/album/3ULu7EK5sl1zUdx2r7D15E) | 2:45 | 2023-10-19 | 2023-12-25 |
 | [Tell the kids i love them \(ft\. Shiki\)](https://open.spotify.com/track/2UtFCtiSoc30GJ4MUcHDKr) | [Obito](https://open.spotify.com/artist/0ZbgKh0FgPYeFP38nVaEGp), [Shiki](https://open.spotify.com/artist/3hRnvEdu1iPyB6EzMBbuZq) | [Đánh Đổi](https://open.spotify.com/album/5NODJ4FZWvaLLiFd554kLI) | 3:44 | 2023-10-19 |  |

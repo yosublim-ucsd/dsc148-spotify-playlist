@@ -4,7 +4,7 @@
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every Tuesday and Friday!
 
-307 songs - 14 hr 50 min
+309 songs - 14 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Automatic](https://open.spotify.com/track/3KmfcNPQ8PtYZEdo0JFgNw) | [Wolfgang Gartner](https://open.spotify.com/artist/3534yWWzmxx8NbKVoNolsK) | [Automatic](https://open.spotify.com/album/63E9zyXGEyMZPNJGNnCS1V) | 3:33 | 2024-02-09 |  |
 | [Back To Us](https://open.spotify.com/track/590T9WalvUZudNgVVXZE0W) | [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb), [Friendzone](https://open.spotify.com/artist/71wgN1CedM2DoHelVrI87x) | [Back To Us](https://open.spotify.com/album/6aHmUKJNaOystRL2r9Wwd3) | 2:54 | 2023-08-11 |  |
 | [Back To Us \- Acoustic Mix](https://open.spotify.com/track/6uVua5Di40zCSyT07zdPRA) | [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb), [Friendzone](https://open.spotify.com/artist/71wgN1CedM2DoHelVrI87x) | [Back To Us \(Acoustic Mix\)](https://open.spotify.com/album/1W2Mb3YgdjJcWCV7HxhFtk) | 3:02 | 2024-03-08 |  |
+| [BAD](https://open.spotify.com/track/79rtchRTWKO4AjVKzIAgMy) | [Cheyenne Giles](https://open.spotify.com/artist/2FoyDZAnGzikijRdXrocmj), [ALRT](https://open.spotify.com/artist/4XH5qVwKcWRS0Z6tr85exf) | [BAD](https://open.spotify.com/album/6BjhnTo2M4j5u5wDZEJzwN) | 2:53 | 2024-05-31 |  |
 | [Bad For U](https://open.spotify.com/track/6QSJ6YykdSXSXIXEIyXDjz) | [Chemical Surf](https://open.spotify.com/artist/7LgAW1ZiEd8f3HtCMGFaGx), [Mevil](https://open.spotify.com/artist/1gEv29AYdZDyZxaEZEz1xW), [Enigmix](https://open.spotify.com/artist/4t60Tdbrh9XXcIUVShQbZL) | [Bad For U](https://open.spotify.com/album/5rF6MSD64uT4ylAjpukdXW) | 2:37 | 2023-04-07 |  |
 | [Bad Guy](https://open.spotify.com/track/2SJzfY2pZSzgAn3gQZMVJJ) | [T\-Mass](https://open.spotify.com/artist/0M3cZtjQZ8fz3Hbw1A4CwF), [Staarz](https://open.spotify.com/artist/0bb1EZkY7SlcGKU9e5T9DL) | [Bad Guy](https://open.spotify.com/album/67WchHfNYcPA0jv7mvkgqW) | 3:14 | 2023-08-09 |  |
 | [Badman Calling \(feat\. XO Man\)](https://open.spotify.com/track/45qNoMn5mhess62JeqGM6v) | [Saint Punk](https://open.spotify.com/artist/0oad1RRAiN1UpaOWbIB0EW), [Xo Man](https://open.spotify.com/artist/5FY5CvkIgbORCgqPr1FsMG) | [Badman Calling \(feat\. XO Man\)](https://open.spotify.com/album/6BFUj811bQcvESYVevPKPy) | 2:42 | 2024-03-29 |  |
@@ -217,6 +218,7 @@
 | [Osaka Psycho](https://open.spotify.com/track/4al48UReBtAEGNK48WLPCR) | [SWAGE](https://open.spotify.com/artist/4AX69F3L6j5N4wZFUaXYdc) | [Osaka Psycho](https://open.spotify.com/album/5gANRMe0nkkXIBhQ4d3ptr) | 3:44 | 2022-12-20 | 2023-03-25 |
 | [Out Of Love](https://open.spotify.com/track/5jRIWngYH11xuX2HjQwacj) | [Snavs](https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM) | [Out Of Love](https://open.spotify.com/album/2C61LqHVFz12uEJDRdBZUZ) | 2:34 | 2023-08-25 |  |
 | [Own The Night](https://open.spotify.com/track/73yiAXig9qPlUYYAQGTT8F) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb) | [Own The Night](https://open.spotify.com/album/7C5kxq9EAe1TeyT0fMiOB3) | 3:00 | 2022-05-06 | 2023-01-21 |
+| [Pa Pa Pa \(feat\. MC Maromba\)](https://open.spotify.com/track/5FLAWwDuIq8bYZ80uWzgQ4) | [Henry Fong](https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH), [Mc Maromba](https://open.spotify.com/artist/3o3p6fGYftm6nJpS6YJ11Q), [KAORU](https://open.spotify.com/artist/3eDtd9oQyjD2OuMNgVHOag) | [Pa Pa Pa \(feat\. MC Maromba\)](https://open.spotify.com/album/7epfRuG2KTrdbUrVUGyMhR) | 2:19 | 2024-05-31 |  |
 | [Papi Pistola](https://open.spotify.com/track/38AGL5sCrFYfbnvZF4DvcG) | [Andrekza](https://open.spotify.com/artist/7K2ZrWY8iteGlM7G4V9B0s) | [DISCOTEKEO](https://open.spotify.com/album/3M1mMhYdhu9vjPgv5JXQ27) | 2:26 | 2023-08-11 |  |
 | [Para Ti \(feat\. YAWNS\)](https://open.spotify.com/track/09Fth0vWobNAsmzCJo2Lve) | [La Favi](https://open.spotify.com/artist/5lnsY88L4HEVxNUMCefego), [YAWNS](https://open.spotify.com/artist/7v2lRIAhCsWVstXkyATQHD) | [Para Ti](https://open.spotify.com/album/48asWtGeUdrvyLjixjfmQy) | 2:48 | 2023-02-17 | 2023-04-09 |
 | [Patience \(feat\. Kayla Rose\)](https://open.spotify.com/track/4SiaZNahXQ9oTzPPTxZaox) | [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U), [Kayla Rose](https://open.spotify.com/artist/36xsrPKnUIN1ZCSlO5Xnqk) | [Patience \(feat\. Kayla Rose\)](https://open.spotify.com/album/53ai1YrajGquql1qDvB6d7) | 3:40 | 2022-05-06 | 2022-09-20 |

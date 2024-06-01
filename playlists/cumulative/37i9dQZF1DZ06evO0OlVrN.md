@@ -2,7 +2,7 @@
 
 ### [This Is Los Relampagos Del Norte](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0OlVrN)
 
-> This Is Los Relampagos Del Norte\. Todas as faixas essenciais numa única playlist.
+> This is Los Relampagos Del Norte\. The essential tracks, all in one playlist.
 
 79 songs - 4 hr 2 min
 

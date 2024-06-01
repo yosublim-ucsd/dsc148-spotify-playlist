@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-30",
-  "description": "Lo m\u00e1s potente del rock argentino, y algunos invitados de lujo. Foto: Cruzando El Charco",
+  "description": "Lo m\u00e1s potente del rock argentino, y algunos invitados de lujo. Foto: Los Piojos",
   "name": "Rock Argentino",
   "tracks": [
     {
@@ -111,6 +111,24 @@
     },
     {
       "album": {
+        "name": "Abrazame",
+        "url": "https://open.spotify.com/album/5IvA88O5F7qYHaIG0Aj052"
+      },
+      "artists": [
+        {
+          "name": "El Plan De La Mariposa",
+          "url": "https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268196,
+      "name": "Abrazame",
+      "url": "https://open.spotify.com/track/6Y4GA1qG0x17RR9tPfA6st"
+    },
+    {
+      "album": {
         "name": "Las Ligas Menores",
         "url": "https://open.spotify.com/album/3uo5La74eGmsUeXJdRRO3g"
       },
@@ -184,7 +202,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 219716,
       "name": "All\u00ed Donde Sol\u00edamos Gritar",
       "url": "https://open.spotify.com/track/6wBASLUGaAzhBh5q0iu6VR"
@@ -784,7 +802,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 162322,
       "name": "Con Vos",
       "url": "https://open.spotify.com/track/5DNRryBkStHmqKtwigXZFR"
@@ -2324,7 +2342,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 239653,
       "name": "Irreal",
       "url": "https://open.spotify.com/track/1TuKZVqyNu0wrbgEghVNSh"
@@ -3150,7 +3168,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 214853,
       "name": "Mago",
       "url": "https://open.spotify.com/track/1MJFpwxCbB5IvkwNnr0m2V"
@@ -3810,6 +3828,24 @@
       "duration_ms": 148106,
       "name": "Otras Puertas Otros Mundos",
       "url": "https://open.spotify.com/track/39p5pfqX8AJlnmI1jw2dzF"
+    },
+    {
+      "album": {
+        "name": "Ritual Piojoso (En Vivo en River Plate)",
+        "url": "https://open.spotify.com/album/7v7UBXatukF69a99XWjjX6"
+      },
+      "artists": [
+        {
+          "name": "Los Piojos",
+          "url": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284048,
+      "name": "Pac\u00edfico",
+      "url": "https://open.spotify.com/track/4YDACzNhZTeo9YvYC533SP"
     },
     {
       "album": {
@@ -5070,6 +5106,24 @@
       "duration_ms": 238809,
       "name": "V\u00edctimas",
       "url": "https://open.spotify.com/track/4FeOc23B21fz3Z1pLnnKo6"
+    },
+    {
+      "album": {
+        "name": "Xtrapolar",
+        "url": "https://open.spotify.com/album/4u1jbZPF6zGnOAJaaLOW1h"
+      },
+      "artists": [
+        {
+          "name": "Usted Se\u00f1alemelo",
+          "url": "https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183592,
+      "name": "X siempre",
+      "url": "https://open.spotify.com/track/1rC15GTy1lsjfoJcXmGqvB"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6ZdaKEG7LCXZGLiHuZuJgZ">Missy Elliott</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-372 songs - 1 day 0 hr 5 min
+374 songs - 1 day 0 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -206,6 +206,7 @@
 | [Level Up](https://open.spotify.com/track/40VqYKBAJP901tpuq6WMt7) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [Beauty Marks](https://open.spotify.com/album/5rJuc8VCoqz1L3SmUscLkw) | 3:24 | 2023-12-30 |  |
 | [Lick Shots](https://open.spotify.com/track/4TnIpa8I85Y4bMQVriqzDA) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Miss E..\. So Addictive](https://open.spotify.com/album/20t54K6C80QQH7vbcpfJcP) | 3:50 | 2023-12-30 |  |
 | [Like What \(Freestyle\)](https://open.spotify.com/track/3ytbtkmMnkfwMrBi32a7FD) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Like What \(Freestyle\)](https://open.spotify.com/album/5lkEeOxdNc0SYt91lz7miv) | 2:16 | 2024-04-13 |  |
+| [Like What \(Freestyle\) \- Instrumental](https://open.spotify.com/track/26qKDCBu9jJBkHZKS8qRVF) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Like What \(Freestyle\) \[Instrumental\]](https://open.spotify.com/album/4D7s8roJiQr8BvAmKnEpyl) | 2:16 | 2024-05-31 |  |
 | [Living the Life \(feat\. Snoop Dogg, Ludacris, Faith Evans, Cheri Dennis & Bobby V\)](https://open.spotify.com/track/78A5pMXZaqVMS3mpSddsVW) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb), [Bobby V.](https://open.spotify.com/artist/4HgF4KnohByNElYid7iCNb), [Cheri Dennis](https://open.spotify.com/artist/15U1prrFKwSBJamlMNuVW5), [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn), [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Duets: The Final Chapter](https://open.spotify.com/album/2M6rjUsC2T3KJ8Ku2uTTQG) | 4:28 | 2023-12-30 |  |
 | [Lobby](https://open.spotify.com/track/17UMDTqVeX3SqvgKr8kSmF) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Versions of Me \(Deluxe\)](https://open.spotify.com/album/7mJHNN7NNnPBofreezMbef) | 2:37 | 2023-12-30 |  |
 | [Long Distance Love](https://open.spotify.com/track/2bN3FAY3OuKExfl1METaLG) | [Tamia](https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in) | [A Nu Day](https://open.spotify.com/album/4cYOUdfGAj9E2IOCWTo3ZM) | 4:44 | 2023-12-30 |  |
@@ -379,6 +380,7 @@
 | [X\-tasy](https://open.spotify.com/track/42HITOYxpawI341VRujoV5) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Miss E..\. So Addictive](https://open.spotify.com/album/20t54K6C80QQH7vbcpfJcP) | 3:35 | 2023-12-30 |  |
 | [Ya Blind \(feat\. Eightball & Jazze Pha\)](https://open.spotify.com/track/5Ox8MOyrUqE2g5gAWewMXU) | [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V), [8Ball](https://open.spotify.com/artist/6B16XZWuJ9VERn7pXxCIda), [Jazze Pha](https://open.spotify.com/artist/1QkusyyiLCVP97x3TADKV9) | [Loyalty & Betrayal](https://open.spotify.com/album/784nKusPmRJVER8qZh5SGq) | 4:28 | 2023-12-30 |  |
 | [You Don't Know](https://open.spotify.com/track/0yiJtNpgvH33PtjR5xVnb4) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Lil' Mo](https://open.spotify.com/artist/5wBDD4FNJvob5fAGkAIQ92) | [Da Real World](https://open.spotify.com/album/47QQsqlgvkxme4jrh5QQ4i) | 4:48 | 2023-12-30 |  |
+| [You Wish \(with Missy Elliott & Kaliii\) – Remix](https://open.spotify.com/track/1bUhj0j6akbGxinxsVe6PR) | [Flyana Boss](https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [You Wish \(with Missy Elliott & Kaliii\) – Remix](https://open.spotify.com/album/5VUeDa4FENhqT8o2fuFdjK) | 2:37 | 2024-05-31 |  |
 | [You Won't See Me Tonight \(feat\. Aaliyah\)](https://open.spotify.com/track/3hUIzwlu5u8qBQK9iyAKOR) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Aaliyah](https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4) | [I Am...](https://open.spotify.com/album/4UhEjfIRx4tE1XRY21vwNa) | 4:22 | 2023-12-30 |  |
 
 \*This playlist was first scraped on 2023-12-31. Prior content cannot be recovered.

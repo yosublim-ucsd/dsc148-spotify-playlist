@@ -754,7 +754,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 155191,
       "name": "Autumn nocturne",
       "url": "https://open.spotify.com/track/7GzCb29gghRInEd8bUHgLt"
@@ -1834,7 +1834,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 285374,
       "name": "Dedicated To You",
       "url": "https://open.spotify.com/track/47k5XrHgnwF7yMRUALGOyt"
@@ -2741,6 +2741,24 @@
     },
     {
       "album": {
+        "name": "For your eyes only",
+        "url": "https://open.spotify.com/album/49iigL1ehQHfmCcRvtQnol"
+      },
+      "artists": [
+        {
+          "name": "Stefan Scholz",
+          "url": "https://open.spotify.com/artist/4VmbEmPe7idiK1hjtCODVy"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176074,
+      "name": "For your eyes only",
+      "url": "https://open.spotify.com/track/5DXLvGJu1F2vOkkwjAqRWq"
+    },
+    {
+      "album": {
         "name": "Forever and Always",
         "url": "https://open.spotify.com/album/6ha8KeCDoqfGwzrJs4KfMV"
       },
@@ -3562,7 +3580,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 273000,
       "name": "I Left My Heart In San Francisco",
       "url": "https://open.spotify.com/track/0qMhdJjFV0VVu7atzy3VXd"
@@ -6082,7 +6100,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 237410,
       "name": "Night And Day",
       "url": "https://open.spotify.com/track/3zd6DRIYrcH8OIn4fcim8k"
@@ -6100,7 +6118,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 171250,
       "name": "Night Mood",
       "url": "https://open.spotify.com/track/1zQJVpcXpaXJRETpADpD5f"
@@ -6395,6 +6413,24 @@
     },
     {
       "album": {
+        "name": "Once Upon a Time in Stockholm",
+        "url": "https://open.spotify.com/album/5x4v2sxf36pw8LTxPl0UMX"
+      },
+      "artists": [
+        {
+          "name": "Franz Gordon",
+          "url": "https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172674,
+      "name": "Once upon a Time in Stockholm",
+      "url": "https://open.spotify.com/track/4fum2PuR9suDOwhcBlSiH7"
+    },
+    {
+      "album": {
         "name": "One Day We'll Find Our Way",
         "url": "https://open.spotify.com/album/3tSFilzfu3rrcY1BfPfm3x"
       },
@@ -6572,6 +6608,24 @@
       "duration_ms": 196250,
       "name": "P.S. I Love You",
       "url": "https://open.spotify.com/track/2pmeZ067WnFhjPc6zZS3xy"
+    },
+    {
+      "album": {
+        "name": "Passione Ardente",
+        "url": "https://open.spotify.com/album/4xPf1DLXZTalssqdoy7ejW"
+      },
+      "artists": [
+        {
+          "name": "Hveiti Brauo",
+          "url": "https://open.spotify.com/artist/2O2JMN24QaUJRR2UlnjULK"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143518,
+      "name": "Passione Ardente",
+      "url": "https://open.spotify.com/track/6SH5OjH0hsNSw3ytoghIGw"
     },
     {
       "album": {
@@ -7360,7 +7414,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 236876,
       "name": "Si nous vivons",
       "url": "https://open.spotify.com/track/5vtgdFd6HsxfCZaVfGElRP"
@@ -7400,6 +7454,24 @@
       "duration_ms": 150450,
       "name": "Silent Embrace",
       "url": "https://open.spotify.com/track/5Xj4kCc0Y44LYNTjmWDKLz"
+    },
+    {
+      "album": {
+        "name": "Silent Strands",
+        "url": "https://open.spotify.com/album/0y3CA8LtMdRbYpTXaGvQYI"
+      },
+      "artists": [
+        {
+          "name": "Graydon Poole",
+          "url": "https://open.spotify.com/artist/3CXnbwsLsa3i13StMUzT37"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196193,
+      "name": "Silent Strands",
+      "url": "https://open.spotify.com/track/6gzaGQR5bW8u4vEFQT6n6x"
     },
     {
       "album": {
@@ -8534,6 +8606,24 @@
       "duration_ms": 188540,
       "name": "The Last Show",
       "url": "https://open.spotify.com/track/6qqU4X4ylPPSvGr4z38bh5"
+    },
+    {
+      "album": {
+        "name": "The lost years",
+        "url": "https://open.spotify.com/album/4uoLU4eldwB7uWJXJZLnzM"
+      },
+      "artists": [
+        {
+          "name": "Leah Lambert",
+          "url": "https://open.spotify.com/artist/6VFXRWtRRS8jLEs1ISJXs4"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195533,
+      "name": "The lost years",
+      "url": "https://open.spotify.com/track/04JRbiVqdlIfiPSYhTQULz"
     },
     {
       "album": {

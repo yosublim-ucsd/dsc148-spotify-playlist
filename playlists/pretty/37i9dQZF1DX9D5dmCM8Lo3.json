@@ -1,6 +1,6 @@
 {
   "description": "would you like to save before closing?",
-  "num_followers": 227896,
+  "num_followers": 228153,
   "original_name": "webcore",
   "owner": {
     "name": "Spotify",
@@ -307,18 +307,18 @@
     {
       "added_at": "2023-07-18 20:06:10",
       "album": {
-        "name": "Computer Afterlife",
-        "url": "https://open.spotify.com/album/2qBP6U0pDwugygIrzLhksq"
+        "name": "Enchanted Instrumentals and Whispers",
+        "url": "https://open.spotify.com/album/4JLZmlctwzJ6wnrkc3pu7N"
       },
       "artists": [
         {
-          "name": "Infinity Frequencies",
-          "url": "https://open.spotify.com/artist/6XcJCz7dqlBOyZ0b57SyQp"
+          "name": "Windows 96",
+          "url": "https://open.spotify.com/artist/65XcfOOaVxbZnNlz40DK7i"
         }
       ],
-      "duration_ms": 86428,
-      "name": "Implanted Memories",
-      "url": "https://open.spotify.com/track/7BPvdT4CMMC2Q4tw1Y4CQs"
+      "duration_ms": 256188,
+      "name": "Deep Swim",
+      "url": "https://open.spotify.com/track/4dphZi2G4KizVeWWbPMzHZ"
     },
     {
       "added_at": "2023-07-18 20:06:10",
@@ -339,18 +339,18 @@
     {
       "added_at": "2023-07-18 20:06:10",
       "album": {
-        "name": "Enchanted Instrumentals and Whispers",
-        "url": "https://open.spotify.com/album/4JLZmlctwzJ6wnrkc3pu7N"
+        "name": "Computer Afterlife",
+        "url": "https://open.spotify.com/album/2qBP6U0pDwugygIrzLhksq"
       },
       "artists": [
         {
-          "name": "Windows 96",
-          "url": "https://open.spotify.com/artist/65XcfOOaVxbZnNlz40DK7i"
+          "name": "Infinity Frequencies",
+          "url": "https://open.spotify.com/artist/6XcJCz7dqlBOyZ0b57SyQp"
         }
       ],
-      "duration_ms": 256188,
-      "name": "Deep Swim",
-      "url": "https://open.spotify.com/track/4dphZi2G4KizVeWWbPMzHZ"
+      "duration_ms": 86428,
+      "name": "Implanted Memories",
+      "url": "https://open.spotify.com/track/7BPvdT4CMMC2Q4tw1Y4CQs"
     },
     {
       "added_at": "2023-07-18 20:06:10",
@@ -419,6 +419,22 @@
     {
       "added_at": "2023-07-18 20:06:10",
       "album": {
+        "name": "Between Two Worlds",
+        "url": "https://open.spotify.com/album/03nyYzVw4m1cM2EG0vk6hP"
+      },
+      "artists": [
+        {
+          "name": "Infinity Frequencies",
+          "url": "https://open.spotify.com/artist/6XcJCz7dqlBOyZ0b57SyQp"
+        }
+      ],
+      "duration_ms": 89640,
+      "name": "The descent",
+      "url": "https://open.spotify.com/track/1kFU28jcVv35zbTWkzFtjV"
+    },
+    {
+      "added_at": "2023-07-18 20:06:10",
+      "album": {
         "name": "Aether",
         "url": "https://open.spotify.com/album/2FeYIfCmI3kGAJt1SAdTpV"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 77588,
       "name": "Reduplicate",
       "url": "https://open.spotify.com/track/64PKCSw5Jg7grMo9MnlFoO"
-    },
-    {
-      "added_at": "2023-07-18 20:06:10",
-      "album": {
-        "name": "Velocity: Design: Comfort.",
-        "url": "https://open.spotify.com/album/0eUUQ4rly8Q8PyJPWLgde2"
-      },
-      "artists": [
-        {
-          "name": "Sweet Trip",
-          "url": "https://open.spotify.com/artist/5NtMqQLCzdVvL7F8vFp3zM"
-        }
-      ],
-      "duration_ms": 346306,
-      "name": "Pro: Lov: Ad",
-      "url": "https://open.spotify.com/track/7rR1msZYCT2MlrssnJMYgw"
     },
     {
       "added_at": "2023-07-18 20:06:10",
@@ -467,18 +467,18 @@
     {
       "added_at": "2023-07-18 20:06:10",
       "album": {
-        "name": "Between Two Worlds",
-        "url": "https://open.spotify.com/album/03nyYzVw4m1cM2EG0vk6hP"
+        "name": "Velocity: Design: Comfort.",
+        "url": "https://open.spotify.com/album/0eUUQ4rly8Q8PyJPWLgde2"
       },
       "artists": [
         {
-          "name": "Infinity Frequencies",
-          "url": "https://open.spotify.com/artist/6XcJCz7dqlBOyZ0b57SyQp"
+          "name": "Sweet Trip",
+          "url": "https://open.spotify.com/artist/5NtMqQLCzdVvL7F8vFp3zM"
         }
       ],
-      "duration_ms": 89640,
-      "name": "The descent",
-      "url": "https://open.spotify.com/track/1kFU28jcVv35zbTWkzFtjV"
+      "duration_ms": 346306,
+      "name": "Pro: Lov: Ad",
+      "url": "https://open.spotify.com/track/7rR1msZYCT2MlrssnJMYgw"
     },
     {
       "added_at": "2023-07-18 20:06:10",
@@ -643,22 +643,6 @@
     {
       "added_at": "2023-07-18 20:06:10",
       "album": {
-        "name": "morrigan",
-        "url": "https://open.spotify.com/album/2Xd2awJcKvh1HKpIKJqVm3"
-      },
-      "artists": [
-        {
-          "name": "siouxxie sixxsta",
-          "url": "https://open.spotify.com/artist/0OO76E5lRfeyBI3fkA73Dr"
-        }
-      ],
-      "duration_ms": 142839,
-      "name": "morrigan",
-      "url": "https://open.spotify.com/track/2zWzQh571g7vTJh2ODmdh1"
-    },
-    {
-      "added_at": "2023-07-18 20:06:10",
-      "album": {
         "name": "Zapper",
         "url": "https://open.spotify.com/album/2kowSCEZhZnup8Qd57WJQ7"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 241411,
       "name": "NEKOMATA'97",
       "url": "https://open.spotify.com/track/0RoEXhqNvT3uxrM7opZp2I"
+    },
+    {
+      "added_at": "2023-07-18 20:06:10",
+      "album": {
+        "name": "morrigan",
+        "url": "https://open.spotify.com/album/2Xd2awJcKvh1HKpIKJqVm3"
+      },
+      "artists": [
+        {
+          "name": "siouxxie sixxsta",
+          "url": "https://open.spotify.com/artist/0OO76E5lRfeyBI3fkA73Dr"
+        }
+      ],
+      "duration_ms": 142839,
+      "name": "morrigan",
+      "url": "https://open.spotify.com/track/2zWzQh571g7vTJh2ODmdh1"
     },
     {
       "added_at": "2023-07-18 20:06:10",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-07-18 20:06:10",
       "album": {
-        "name": "dreamcore",
-        "url": "https://open.spotify.com/album/6MVQrtpuPCEVRTVZ2KMRSE"
-      },
-      "artists": [
-        {
-          "name": "Yandere",
-          "url": "https://open.spotify.com/artist/6Lr7JHaaQ4wLOWtNmOIOcr"
-        }
-      ],
-      "duration_ms": 100310,
-      "name": "dreamcore",
-      "url": "https://open.spotify.com/track/6dGzyNtHjwhhHgLlRn4igt"
-    },
-    {
-      "added_at": "2023-07-18 20:06:10",
-      "album": {
         "name": "Prince of the Cyber Rave",
         "url": "https://open.spotify.com/album/223R6xxwBU1NfAG0DU04ZV"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 190126,
       "name": "Spirit Gun",
       "url": "https://open.spotify.com/track/3SiHPV0ls0kkJM7L2KKSl8"
+    },
+    {
+      "added_at": "2023-07-18 20:06:10",
+      "album": {
+        "name": "dreamcore",
+        "url": "https://open.spotify.com/album/6MVQrtpuPCEVRTVZ2KMRSE"
+      },
+      "artists": [
+        {
+          "name": "Yandere",
+          "url": "https://open.spotify.com/artist/6Lr7JHaaQ4wLOWtNmOIOcr"
+        }
+      ],
+      "duration_ms": 100310,
+      "name": "dreamcore",
+      "url": "https://open.spotify.com/track/6dGzyNtHjwhhHgLlRn4igt"
     }
   ],
   "unique_name": "webcore",

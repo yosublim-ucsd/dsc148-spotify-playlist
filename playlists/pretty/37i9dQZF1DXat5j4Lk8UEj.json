@@ -1,6 +1,6 @@
 {
   "description": "A mix of electric roots rock and folk-infused alternative. Cover: Nathaniel Rateliff & the Night Sweats",
-  "num_followers": 488235,
+  "num_followers": 488258,
   "original_name": "Folk Rock Favorites",
   "owner": {
     "name": "Spotify",
@@ -383,22 +383,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "reason to live",
-        "url": "https://open.spotify.com/album/1uep2c3fsOsD6mcxFijBZP"
-      },
-      "artists": [
-        {
-          "name": "mehro",
-          "url": "https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7"
-        }
-      ],
-      "duration_ms": 150577,
-      "name": "reason to live",
-      "url": "https://open.spotify.com/track/2s8bnU55x1cRJPijY9mRC9"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "Not Dead Yet",
         "url": "https://open.spotify.com/album/044x9ycjGCrCHA6TcjaK8w"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 209493,
       "name": "Everyone's A Winner",
       "url": "https://open.spotify.com/track/0Gf2hEQEVBcwgy40JyO9LK"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "reason to live",
+        "url": "https://open.spotify.com/album/1uep2c3fsOsD6mcxFijBZP"
+      },
+      "artists": [
+        {
+          "name": "mehro",
+          "url": "https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7"
+        }
+      ],
+      "duration_ms": 150577,
+      "name": "reason to live",
+      "url": "https://open.spotify.com/track/2s8bnU55x1cRJPijY9mRC9"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -855,6 +855,22 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
+        "name": "Set the World on Fire",
+        "url": "https://open.spotify.com/album/7C6GRyldUPFVCh4QfoqNiP"
+      },
+      "artists": [
+        {
+          "name": "Early Morning Rebel",
+          "url": "https://open.spotify.com/artist/0EY2klOFCGNWO2gc3k9AhQ"
+        }
+      ],
+      "duration_ms": 165531,
+      "name": "Set the World on Fire",
+      "url": "https://open.spotify.com/track/5mbcjmw6eqXlSSRHGxEjkG"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
         "name": "Signs of Life",
         "url": "https://open.spotify.com/album/4MOkPB90s3AsnbjNmGJ5x2"
       },
@@ -887,18 +903,18 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Set the World on Fire",
-        "url": "https://open.spotify.com/album/7C6GRyldUPFVCh4QfoqNiP"
+        "name": "Galacticana",
+        "url": "https://open.spotify.com/album/7qGW8JjT3nz4MC4x3daSZg"
       },
       "artists": [
         {
-          "name": "Early Morning Rebel",
-          "url": "https://open.spotify.com/artist/0EY2klOFCGNWO2gc3k9AhQ"
+          "name": "Strand of Oaks",
+          "url": "https://open.spotify.com/artist/0t4oHObO3FImWvIhMimaSL"
         }
       ],
-      "duration_ms": 165531,
-      "name": "Set the World on Fire",
-      "url": "https://open.spotify.com/track/5mbcjmw6eqXlSSRHGxEjkG"
+      "duration_ms": 240733,
+      "name": "Galacticana",
+      "url": "https://open.spotify.com/track/73xmoTyIsGhr2zevMYqa71"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -919,22 +935,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Galacticana",
-        "url": "https://open.spotify.com/album/7qGW8JjT3nz4MC4x3daSZg"
-      },
-      "artists": [
-        {
-          "name": "Strand of Oaks",
-          "url": "https://open.spotify.com/artist/0t4oHObO3FImWvIhMimaSL"
-        }
-      ],
-      "duration_ms": 240733,
-      "name": "Galacticana",
-      "url": "https://open.spotify.com/track/73xmoTyIsGhr2zevMYqa71"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "Statues in the Garden (Arras)",
         "url": "https://open.spotify.com/album/4Cf7oXjw0tqlDEdAqqOlLM"
       },
@@ -947,22 +947,6 @@
       "duration_ms": 236678,
       "name": "Statues in the Garden (Arras)",
       "url": "https://open.spotify.com/track/14BcEAdv3OkOXYjGIk7jTZ"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "One",
-        "url": "https://open.spotify.com/album/0gfT2lXIBkjYHUYqQwLGqm"
-      },
-      "artists": [
-        {
-          "name": "Birdtalker",
-          "url": "https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt"
-        }
-      ],
-      "duration_ms": 219320,
-      "name": "Looking for Love",
-      "url": "https://open.spotify.com/track/3s3NKsV3p6hCAh23j1H4W7"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -983,6 +967,22 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
+        "name": "One",
+        "url": "https://open.spotify.com/album/0gfT2lXIBkjYHUYqQwLGqm"
+      },
+      "artists": [
+        {
+          "name": "Birdtalker",
+          "url": "https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt"
+        }
+      ],
+      "duration_ms": 219320,
+      "name": "Looking for Love",
+      "url": "https://open.spotify.com/track/3s3NKsV3p6hCAh23j1H4W7"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
         "name": "Tried to Tell You",
         "url": "https://open.spotify.com/album/0xB1XJxNIddjYUrelC1Vm4"
       },
@@ -999,22 +999,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Heroes",
-        "url": "https://open.spotify.com/album/7817F6Nn9C1XdQmENndiks"
-      },
-      "artists": [
-        {
-          "name": "Natalie Hemby",
-          "url": "https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw"
-        }
-      ],
-      "duration_ms": 193897,
-      "name": "Heroes",
-      "url": "https://open.spotify.com/track/1FudW4lBMbxG1BVP7Ko1DT"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "Cool Jam/Good For You",
         "url": "https://open.spotify.com/album/6vmdjFe8QexVakjOEbtMdY"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 206013,
       "name": "Cool Jam",
       "url": "https://open.spotify.com/track/20kSLZz8XyhV6ocOyrLU8B"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Heroes",
+        "url": "https://open.spotify.com/album/7817F6Nn9C1XdQmENndiks"
+      },
+      "artists": [
+        {
+          "name": "Natalie Hemby",
+          "url": "https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw"
+        }
+      ],
+      "duration_ms": 193897,
+      "name": "Heroes",
+      "url": "https://open.spotify.com/track/1FudW4lBMbxG1BVP7Ko1DT"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
+        "name": "Aquatic Flowers",
+        "url": "https://open.spotify.com/album/47NZrIYd31OR7PJQioOkWV"
+      },
+      "artists": [
+        {
+          "name": "Tristen",
+          "url": "https://open.spotify.com/artist/136eH4t69aKT2UuS36z3Qo"
+        }
+      ],
+      "duration_ms": 228720,
+      "name": "Complex",
+      "url": "https://open.spotify.com/track/61H97kuKIpi6kJQRnUEIlh"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
         "name": "Home Truths",
         "url": "https://open.spotify.com/album/0gxKWK1zDO0RPD35aab8I7"
       },
@@ -1123,22 +1139,6 @@
       "duration_ms": 257826,
       "name": "Expectations",
       "url": "https://open.spotify.com/track/52Ckvs2feGZc9GI77kBfWq"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "Aquatic Flowers",
-        "url": "https://open.spotify.com/album/47NZrIYd31OR7PJQioOkWV"
-      },
-      "artists": [
-        {
-          "name": "Tristen",
-          "url": "https://open.spotify.com/artist/136eH4t69aKT2UuS36z3Qo"
-        }
-      ],
-      "duration_ms": 228720,
-      "name": "Complex",
-      "url": "https://open.spotify.com/track/61H97kuKIpi6kJQRnUEIlh"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Get Down",
-        "url": "https://open.spotify.com/album/4li8nEW2egUoMBzWkKbHHQ"
-      },
-      "artists": [
-        {
-          "name": "Susto",
-          "url": "https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt"
-        }
-      ],
-      "duration_ms": 151515,
-      "name": "Get Down",
-      "url": "https://open.spotify.com/track/5NFHQLN5tdjkTdUBkNGDEo"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "Good Luck With Whatever",
         "url": "https://open.spotify.com/album/3esEgXmUs1zjBVqijbZ6RQ"
       },
@@ -1243,22 +1227,6 @@
       "duration_ms": 196893,
       "name": "Free As We Wanna Be",
       "url": "https://open.spotify.com/track/3k1nDv6HGBC8k45KM5SF2T"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "Oh Dear Brother",
-        "url": "https://open.spotify.com/album/3Pue2ojjST8Vq2m8y2EppZ"
-      },
-      "artists": [
-        {
-          "name": "Howard",
-          "url": "https://open.spotify.com/artist/7kfaJkEGQmDhceMYvn9Ax5"
-        }
-      ],
-      "duration_ms": 238306,
-      "name": "Oh Dear Brother",
-      "url": "https://open.spotify.com/track/27TIWKzBDkahxcjKUmthdw"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1279,6 +1247,22 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
+        "name": "Oh Dear Brother",
+        "url": "https://open.spotify.com/album/3Pue2ojjST8Vq2m8y2EppZ"
+      },
+      "artists": [
+        {
+          "name": "Howard",
+          "url": "https://open.spotify.com/artist/7kfaJkEGQmDhceMYvn9Ax5"
+        }
+      ],
+      "duration_ms": 238306,
+      "name": "Oh Dear Brother",
+      "url": "https://open.spotify.com/track/27TIWKzBDkahxcjKUmthdw"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
         "name": "The World We Built",
         "url": "https://open.spotify.com/album/3Z7jF3AHU6lNKkqDFYCern"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 183786,
       "name": "Only Songs (Radio Edit)",
       "url": "https://open.spotify.com/track/6oToe0shcqyTZ00Hgdl9ZB"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Get Down",
+        "url": "https://open.spotify.com/album/4li8nEW2egUoMBzWkKbHHQ"
+      },
+      "artists": [
+        {
+          "name": "Susto",
+          "url": "https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt"
+        }
+      ],
+      "duration_ms": 151515,
+      "name": "Get Down",
+      "url": "https://open.spotify.com/track/5NFHQLN5tdjkTdUBkNGDEo"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Officer of Love",
-        "url": "https://open.spotify.com/album/7JQPBE6v0PxayunYaJ0CiT"
-      },
-      "artists": [
-        {
-          "name": "Caamp",
-          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
-        }
-      ],
-      "duration_ms": 239805,
-      "name": "Officer of Love",
-      "url": "https://open.spotify.com/track/4KhBvLbRr58rHPF24bdL9Q"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "Difference Of Opinion",
         "url": "https://open.spotify.com/album/3wf7IxOIpJKiXbGC8qbntI"
       },
@@ -1507,22 +1491,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Lifted",
-        "url": "https://open.spotify.com/album/4bKSp2BMGakhm0wEEZ3Ovq"
-      },
-      "artists": [
-        {
-          "name": "Israel Nash",
-          "url": "https://open.spotify.com/artist/5skM4jc4QoEpHiWWl6OoW7"
-        }
-      ],
-      "duration_ms": 235263,
-      "name": "Lucky Ones",
-      "url": "https://open.spotify.com/track/4Bggim4UBtfueGEfGeSequ"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "The Wire",
         "url": "https://open.spotify.com/album/7fZmMsAMHliG6Jx0fDohiK"
       },
@@ -1535,6 +1503,38 @@
       "duration_ms": 176890,
       "name": "The Wire",
       "url": "https://open.spotify.com/track/1yvcIA5Gv4079BWuaZfDvA"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Officer of Love",
+        "url": "https://open.spotify.com/album/7JQPBE6v0PxayunYaJ0CiT"
+      },
+      "artists": [
+        {
+          "name": "Caamp",
+          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
+        }
+      ],
+      "duration_ms": 239805,
+      "name": "Officer of Love",
+      "url": "https://open.spotify.com/track/4KhBvLbRr58rHPF24bdL9Q"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Lifted",
+        "url": "https://open.spotify.com/album/4bKSp2BMGakhm0wEEZ3Ovq"
+      },
+      "artists": [
+        {
+          "name": "Israel Nash",
+          "url": "https://open.spotify.com/artist/5skM4jc4QoEpHiWWl6OoW7"
+        }
+      ],
+      "duration_ms": 235263,
+      "name": "Lucky Ones",
+      "url": "https://open.spotify.com/track/4Bggim4UBtfueGEfGeSequ"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Ten Years of It",
-        "url": "https://open.spotify.com/album/66dNqDHM40nEgoj6NS02qA"
-      },
-      "artists": [
-        {
-          "name": "Ian O'Neil",
-          "url": "https://open.spotify.com/artist/3zAC2h398XqegpW0bfeIiX"
-        }
-      ],
-      "duration_ms": 209480,
-      "name": "The Offer",
-      "url": "https://open.spotify.com/track/21MrTvTBPnBM1ssyzMR1KK"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "Circles",
         "url": "https://open.spotify.com/album/0Lnu3IpqBS3BW8EhiOL9iC"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 175485,
       "name": "Joni",
       "url": "https://open.spotify.com/track/37MV1pyLP9V5E3KnuumoCL"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Ten Years of It",
+        "url": "https://open.spotify.com/album/66dNqDHM40nEgoj6NS02qA"
+      },
+      "artists": [
+        {
+          "name": "Ian O'Neil",
+          "url": "https://open.spotify.com/artist/3zAC2h398XqegpW0bfeIiX"
+        }
+      ],
+      "duration_ms": 209480,
+      "name": "The Offer",
+      "url": "https://open.spotify.com/track/21MrTvTBPnBM1ssyzMR1KK"
     }
   ],
   "unique_name": "Folk Rock Favorites",

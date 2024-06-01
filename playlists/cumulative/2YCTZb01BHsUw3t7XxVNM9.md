@@ -4,7 +4,7 @@
 
 > Western orientated Hardcore Music by Japanese Artists
 
-480 songs - 1 day 9 hr 31 min
+481 songs - 1 day 9 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -437,6 +437,7 @@
 | [The Vital Factor](https://open.spotify.com/track/2YzzlX1BXFOKVGn57D4kp4) | [Militack](https://open.spotify.com/artist/2M3bgGjf4ZsL6faoyeiEu7) | [Invitation to the Fallen 2](https://open.spotify.com/album/2v5vnkf70VSNJjfKCn1btL) | 4:19 | 2020-10-16 |  |
 | [The Way to Schiphol](https://open.spotify.com/track/50wQViKq76WeCJj6xB0ZjW) | [RoughSketch](https://open.spotify.com/artist/0lYM4mCc6IhbmfGYpeNCyO) | [OPEN WORLD EP](https://open.spotify.com/album/2rwM4z3zhZyTrLbApKNnwI) | 3:43 | 2020-09-18 |  |
 | [This is Trance](https://open.spotify.com/track/17KGqRIak3Eae2wsRAab14) | [RoughSketch](https://open.spotify.com/artist/0lYM4mCc6IhbmfGYpeNCyO) | [Satellite Queen](https://open.spotify.com/album/1x6iZTwQy3K9cMAIFXwzk1) | 4:09 | 2019-06-01 |  |
+| [This MUSIC](https://open.spotify.com/track/1kHIcjvUVJHZzkDMTq1chO) | [DJ Myosuke](https://open.spotify.com/artist/0GsEX8wr2fhu19PIwQh1oG) | [This MUSIC](https://open.spotify.com/album/2ovhGLU3Nl9njlrhAWh3Ez) | 3:10 | 2024-05-31 |  |
 | [Thor](https://open.spotify.com/track/36ybUgiYMdth6or5uVYA02) | [Gram](https://open.spotify.com/artist/27Y8ucj3Ev56vnIRSSMik9) | [Odin](https://open.spotify.com/album/5WGuI5FFhhc5vdi8foTNqa) | 2:38 | 2020-04-07 |  |
 | [THREE LEGGED CROW \(OFFICIAL NEED FOR RESISTANCE 6 ANTHEM\)](https://open.spotify.com/track/16Q8JVfdLSaOTNzmJRQc4f) | [TOKYO BURST PROJECT](https://open.spotify.com/artist/6as4D9YMg3oARLBH6GYhT7), [RoughSketch](https://open.spotify.com/artist/0lYM4mCc6IhbmfGYpeNCyO) | [THREE LEGGED CROW \(OFFICIAL NEED FOR RESISTANCE 6 ANTHEM\)](https://open.spotify.com/album/6f5JJETz0fuVtZmDn4DlA0) | 4:40 | 2020-04-07 |  |
 | [Thrudgelmir](https://open.spotify.com/track/6o0lY0Y85oLslMwfdOCgOh) | [Team Grimoire](https://open.spotify.com/artist/3JL2xJoZQDP7NjNiEmVpfa) | [Thrudgelmir](https://open.spotify.com/album/2jSClzT7IRaMjix7qDlYYT) | 4:00 | 2020-11-17 |  |

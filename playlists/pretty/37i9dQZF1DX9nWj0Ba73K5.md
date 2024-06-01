@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9nWj0Ba73K5.md) - [plain]
 
 > Featuring the 'Noteable' songwriters who create your favorite songs\. Cover: Nicolle Galyon
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,730 likes - 224 songs - 13 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,780 likes - 224 songs - 13 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9nWj0Ba73K5.md) - [plain]
 | 8 | [This Town Still Talks About You](https://open.spotify.com/track/7yPmspgKN5MPOVlyAWFtsa) | [Natalie Hemby](https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw) | [Puxico](https://open.spotify.com/album/24wTPEb0rJiR9RdVBv9EQA) | 4:28 |
 | 9 | [T\-Shirt](https://open.spotify.com/track/5AAHiCmdVSl83vJVXRCbf0) | [AIMP Nashville](https://open.spotify.com/artist/1ZErafHGtMZeSem9789LMo), [Shane McAnally](https://open.spotify.com/artist/0DxKYZItTwmdZYicUhm05C) | [2016 Nominees \- Original Songwriter Demos](https://open.spotify.com/album/2rfAtTubp83YShEfKUBrKb) | 3:21 |
 | 10 | [New Wings](https://open.spotify.com/track/5S74K9DFZmkMYhr32h7Ica) | [Alyssa Bonagura](https://open.spotify.com/artist/31P1IMaJH0mI1pvB9jATHB) | [New Wings](https://open.spotify.com/album/2KejjW4UZgG4LejGToYi9S) | 3:28 |
-| 11 | [Carrying Your Love with Me \(Demo\)](https://open.spotify.com/track/5YHfOYvLIx3YCprzirRuWq) | [Original Demos](https://open.spotify.com/artist/1fmZZUwkxbqJHhKVutRvcT), [Jeff Stevens](https://open.spotify.com/artist/7scMFqCQcUeP9vW1qf1mV8), [Steve Bogard](https://open.spotify.com/artist/5GBMuPKboGi5rNDAqonFbI) | [Straight to the Heart](https://open.spotify.com/album/0Bva4h6lgCqVXRxzAshOvj) | 3:37 |
+| 11 | [Carrying Your Love with Me \(Demo\)](https://open.spotify.com/track/5YHfOYvLIx3YCprzirRuWq) | [Original Demos](https://open.spotify.com/artist/1jQhNAxaUOKGUT01OmmIW8), [Jeff Stevens](https://open.spotify.com/artist/7scMFqCQcUeP9vW1qf1mV8), [Steve Bogard](https://open.spotify.com/artist/5GBMuPKboGi5rNDAqonFbI) | [Straight to the Heart](https://open.spotify.com/album/0Bva4h6lgCqVXRxzAshOvj) | 3:37 |
 | 12 | [Happy Children](https://open.spotify.com/track/4Fn2Ijd0qvHgXZNX2fkvXb) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl) | [Happy Children](https://open.spotify.com/album/4ZexsPQNXsn1b8Pwg4HO1o) | 4:11 |
 | 13 | [Same Team](https://open.spotify.com/track/7knjkn9qkKM6VyekFQMYW0) | [Josh Kerr](https://open.spotify.com/artist/7tnICxEQkOML369POsUizq) | [Same Team](https://open.spotify.com/album/1tyfPdNSvHpE8jgxlCfENs) | 2:54 |
 | 14 | [Dear Insecurity \(feat\. Brandi Carlile\)](https://open.spotify.com/track/73pCLjhGOv4J7IpAPj4D84) | [Brandy Clark](https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Brandy Clark](https://open.spotify.com/album/6O2KuP5ggSI341L4yufEhg) | 4:36 |

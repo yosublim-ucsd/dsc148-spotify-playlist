@@ -4,7 +4,7 @@
 
 > Chill to these laid\-back classical covers.
 
-209 songs - 12 hr 0 min
+210 songs - 12 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [In the Backseat](https://open.spotify.com/track/3zGQHvq4qqRa77Mst3RF8f) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs Arcade Fire's Funeral](https://open.spotify.com/album/1h9qdv1DW59qUFj4kNx3qY) | 5:31 | 2022-11-18 | 2022-11-26 |
 | [Intentions](https://open.spotify.com/track/4foUpkmdBE9IGKMgWvx3rD) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs the Hits of 2020](https://open.spotify.com/album/0F5JNuFJ9AcZnKdNRjWFeN) | 3:31 | 2022-11-18 | 2022-11-26 |
 | [Iris \(arr\. piano\)](https://open.spotify.com/track/4Z1xN1J50aIn1kqDmy0RNG) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Iris \(arr\. piano\)](https://open.spotify.com/album/4bzdOlm7AWqvF4DFfJq6x9) | 2:36 | 2021-11-25 |  |
+| [It Must Have Been Love](https://open.spotify.com/track/1rXAaJN6UHf7eTqX5dyTai) | [Lucie Jean](https://open.spotify.com/artist/5jEOVhrMJqGw6notBTGuKn) | [It Must Have Been Love](https://open.spotify.com/album/6yBaEmEaHtjCwhtGTfJcOJ) | 4:11 | 2024-05-29 |  |
 | [Just Like Heaven](https://open.spotify.com/track/1FoV6wB83NNrTQyDWXf2lB) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs the Cure](https://open.spotify.com/album/61kwUPXYy2ZUEIPBttwxvl) | 3:02 | 2022-11-18 | 2022-11-26 |
 | [Just The Way You Are](https://open.spotify.com/track/2hkgfwHDrYXjyngrgC79ko) | [Sebastian Hart](https://open.spotify.com/artist/2bfs0PuQgUN1peYHx6onKk) | [Just The Way You Are](https://open.spotify.com/album/4wKLnQ1N88dKJ6mcSAhOKq) | 3:28 | 2023-04-04 | 2024-03-20 |
 | [Kiss From a Rose](https://open.spotify.com/track/3cEDAxI3xPhb829MlH1VJi) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Geek Wedding Forever, Vol\. 3](https://open.spotify.com/album/7HeIpr2afiUilGq9acQx5u) | 4:47 | 2022-11-18 | 2022-11-26 |

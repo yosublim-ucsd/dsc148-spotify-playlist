@@ -1437,6 +1437,32 @@
     },
     {
       "album": {
+        "name": "mynameisnt",
+        "url": "https://open.spotify.com/album/39lJVLDmWXvpB0cscmj5g8"
+      },
+      "artists": [
+        {
+          "name": "mynameisntjmack",
+          "url": "https://open.spotify.com/artist/7HY1ISUuRotG01FVu0PKWh"
+        },
+        {
+          "name": "Wakai",
+          "url": "https://open.spotify.com/artist/5id04zWscpprjAk5py8fkx"
+        },
+        {
+          "name": "Tommy Richman",
+          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178554,
+      "name": "aslongas (feat. Wakai & Tommy Richman)",
+      "url": "https://open.spotify.com/track/11JrrH9QkN2WbUMpuNEWO9"
+    },
+    {
+      "album": {
         "name": "At the Light",
         "url": "https://open.spotify.com/album/3qWnJNcMeeAgweZKVf75eK"
       },
@@ -1760,7 +1786,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 162580,
       "name": "BBE",
       "url": "https://open.spotify.com/track/1C4sXv58De3qibMjjPyNaB"
@@ -2396,7 +2422,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 129962,
       "name": "BLESSD",
       "url": "https://open.spotify.com/track/2smWbI3Y73Jyw7bXA5Bq86"
@@ -4287,6 +4313,32 @@
     },
     {
       "album": {
+        "name": "Daylight",
+        "url": "https://open.spotify.com/album/1luRfnNDvf6dpIRDlWjk7O"
+      },
+      "artists": [
+        {
+          "name": "Lancey Foux",
+          "url": "https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11"
+        },
+        {
+          "name": "Teezo Touchdown",
+          "url": "https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36"
+        },
+        {
+          "name": "Cash Cobain",
+          "url": "https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229610,
+      "name": "Daylight",
+      "url": "https://open.spotify.com/track/3HPMlKfHRUCfHiPHSLn2tf"
+    },
+    {
+      "album": {
         "name": "Bag Talk",
         "url": "https://open.spotify.com/album/2Mor7I9qz1agtqKtidfl7Y"
       },
@@ -5335,6 +5387,24 @@
     },
     {
       "album": {
+        "name": "empty without you",
+        "url": "https://open.spotify.com/album/3igDtDHBC1p2zQHRrDQwtf"
+      },
+      "artists": [
+        {
+          "name": "nobigdyl.",
+          "url": "https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154288,
+      "name": "empty without you",
+      "url": "https://open.spotify.com/track/5NlsX6KtB2gVn7UDiv2tx6"
+    },
+    {
+      "album": {
         "name": "EVERY DOG HAS ITS DAY",
         "url": "https://open.spotify.com/album/6bAxzhIGK9goBP49UnvbEj"
       },
@@ -5736,6 +5806,32 @@
       "duration_ms": 213034,
       "name": "Fear (Single Version)",
       "url": "https://open.spotify.com/track/5l8xSMTnEhOXOO3Y4CWD9M"
+    },
+    {
+      "album": {
+        "name": "mynameisnt",
+        "url": "https://open.spotify.com/album/39lJVLDmWXvpB0cscmj5g8"
+      },
+      "artists": [
+        {
+          "name": "mynameisntjmack",
+          "url": "https://open.spotify.com/artist/7HY1ISUuRotG01FVu0PKWh"
+        },
+        {
+          "name": "Wiseboy Jeremy",
+          "url": "https://open.spotify.com/artist/5ZQZ8mF4XRy12gc0SyFb0V"
+        },
+        {
+          "name": "Lord Sko",
+          "url": "https://open.spotify.com/artist/4okQpk1QkE8PGtiwyakP4h"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200322,
+      "name": "feathers/therapy 2 (feat. Lord Sko & Wiseboy Jeremy)",
+      "url": "https://open.spotify.com/track/5A1zg0hwRvGyBE4KirbljD"
     },
     {
       "album": {
@@ -6815,7 +6911,7 @@
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 175120,
+      "duration_ms": 182844,
       "name": "GOATED",
       "url": "https://open.spotify.com/track/3Z4RvoEgCtreDHrk4i4S0F"
     },
@@ -8771,6 +8867,24 @@
     },
     {
       "album": {
+        "name": "ERROR 404",
+        "url": "https://open.spotify.com/album/33X7CmFuM7WuVyTho420ZG"
+      },
+      "artists": [
+        {
+          "name": "Nasaan",
+          "url": "https://open.spotify.com/artist/6qbCuiHIWsiQxNhqXgc7mz"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171876,
+      "name": "IT\u2019S GIVING...LEO",
+      "url": "https://open.spotify.com/track/2jitcPfnTwXrsPwdKGUKft"
+    },
+    {
+      "album": {
         "name": "KEVLAR MONEY BAGS",
         "url": "https://open.spotify.com/album/1zw6CTbNWXZNdHaQjRHsF2"
       },
@@ -8980,6 +9094,28 @@
       "duration_ms": 127921,
       "name": "Jungle",
       "url": "https://open.spotify.com/track/76anofjGblYvXoOmXBAAy8"
+    },
+    {
+      "album": {
+        "name": "KALEIDOSCOPE (feat. Travis Thompson)",
+        "url": "https://open.spotify.com/album/01tOQrm12lW4OXCHuPsGEO"
+      },
+      "artists": [
+        {
+          "name": "Snotty Nose Rez Kids",
+          "url": "https://open.spotify.com/artist/16T3el1CEjX49qFA7UT2n5"
+        },
+        {
+          "name": "Travis Thompson",
+          "url": "https://open.spotify.com/artist/6WZfEqqsYujHTUDuNd5Lbc"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233267,
+      "name": "KALEIDOSCOPE (feat. Travis Thompson)",
+      "url": "https://open.spotify.com/track/3eSElYs735MuCi85mRzItQ"
     },
     {
       "album": {
@@ -9612,7 +9748,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 103836,
       "name": "Lets Go Crazy",
       "url": "https://open.spotify.com/track/2obmNTgEVv9V26rz3yu9ia"
@@ -9820,7 +9956,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 226551,
       "name": "Little Foot Big Foot",
       "url": "https://open.spotify.com/track/6rW3mLtDPEzJ00X3ubG6Mv"
@@ -10322,6 +10458,28 @@
       "duration_ms": 138312,
       "name": "LUMBERJACK",
       "url": "https://open.spotify.com/track/64v1g2HcPumBz2Wd1rT56b"
+    },
+    {
+      "album": {
+        "name": "ERROR 404",
+        "url": "https://open.spotify.com/album/33X7CmFuM7WuVyTho420ZG"
+      },
+      "artists": [
+        {
+          "name": "Nasaan",
+          "url": "https://open.spotify.com/artist/6qbCuiHIWsiQxNhqXgc7mz"
+        },
+        {
+          "name": "Babytron",
+          "url": "https://open.spotify.com/artist/3CZBIUkUIsjvLnVclMIlHa"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136492,
+      "name": "LUNCHROOM FREESTYLE (feat. Babytron)",
+      "url": "https://open.spotify.com/track/0IdnpPAGtYbUH3TWHR9Egn"
     },
     {
       "album": {
@@ -12926,7 +13084,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 194282,
       "name": "POINT ME TO IT (feat. Lil Yachty, Camo!)",
       "url": "https://open.spotify.com/track/594MueE2n17NeaZYiGdhYP"
@@ -13972,7 +14130,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 164861,
       "name": "Right On Time",
       "url": "https://open.spotify.com/track/336aFLXsJPNTl2EIPUBMsQ"
@@ -14208,7 +14366,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 186000,
       "name": "ROWDYRUFFBOYZ",
       "url": "https://open.spotify.com/track/10qReVRMSdZdak3allFD6M"
@@ -14838,6 +14996,28 @@
       "duration_ms": 132244,
       "name": "Sick Baby",
       "url": "https://open.spotify.com/track/18Cbvb1J1RTv48xNWMuCyf"
+    },
+    {
+      "album": {
+        "name": "i5u5we5",
+        "url": "https://open.spotify.com/album/6VQw51JISwFViXaj3K7u9d"
+      },
+      "artists": [
+        {
+          "name": "Homixide Gang",
+          "url": "https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222985,
+      "name": "SIDE EFFExT (feat. Lil Yachty)",
+      "url": "https://open.spotify.com/track/0zin6HNAYX04mXsWjpUkIk"
     },
     {
       "album": {
@@ -17522,7 +17702,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 184633,
       "name": "Us Vs. Them",
       "url": "https://open.spotify.com/track/3cmdqMDc0Fj4TgPeyDOYTM"

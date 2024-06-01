@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-17",
-  "description": "This Is Sum 41. Los temas esenciales, todos en una lista.",
+  "description": "This is Sum 41. The essential tracks, all in one playlist.",
   "name": "This Is Sum 41",
   "tracks": [
     {
@@ -304,7 +304,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-29",
+      "date_removed": null,
       "duration_ms": 178266,
       "name": "Fat Lip",
       "url": "https://open.spotify.com/track/4KacUpvbA3Mfo05gttTjhN"
@@ -776,7 +776,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 103280,
       "name": "Pain For Pleasure",
       "url": "https://open.spotify.com/track/4VtSO2QcHikRASfuNi7JOM"
@@ -1212,7 +1212,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 194133,
       "name": "Underclass Hero",
       "url": "https://open.spotify.com/track/6dXizHF3KbmdvOgvMAhnQC"
@@ -1356,7 +1356,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 291360,
       "name": "With Me",
       "url": "https://open.spotify.com/track/1OTvWduKQV0MQd2gnGM9He"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-28",
-  "description": "\u2728giovane\u2728pop\u2728z\u2728 Cover: Mida",
+  "description": "\u2728giovane\u2728pop\u2728z\u2728 Cover: Holden",
   "name": "GENERAZIONE Z",
   "tracks": [
     {
@@ -78,6 +78,24 @@
       "duration_ms": 186000,
       "name": "26 modi",
       "url": "https://open.spotify.com/track/3E7QmXDtooIiTwERTy9mQU"
+    },
+    {
+      "album": {
+        "name": "30\u00baC",
+        "url": "https://open.spotify.com/album/66o9NYg61y0te154pzWWth"
+      },
+      "artists": [
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142615,
+      "name": "30\u00baC",
+      "url": "https://open.spotify.com/track/5eyL6waluu7hXrRrWewBFU"
     },
     {
       "album": {
@@ -566,7 +584,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 154533,
       "name": "Antiproiettile",
       "url": "https://open.spotify.com/track/1RwgqtkCbCWafDa6NFnd1m"
@@ -1269,6 +1287,24 @@
     },
     {
       "album": {
+        "name": "DIMENTICARE IL MONDO",
+        "url": "https://open.spotify.com/album/6JbEkpxrc8ThVu6BRHJM6n"
+      },
+      "artists": [
+        {
+          "name": "Nashley",
+          "url": "https://open.spotify.com/artist/5RiGhrEoM1SBjZoY25lCfe"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168391,
+      "name": "Cattivi ragazzi per bene",
+      "url": "https://open.spotify.com/track/6Rscz9jgGiI6A3lc7XNRZK"
+    },
+    {
+      "album": {
         "name": "Cause Perse",
         "url": "https://open.spotify.com/album/3aJU4Ey5gJcUOIWwwG40ix"
       },
@@ -1573,6 +1609,24 @@
     },
     {
       "album": {
+        "name": "Come l'Italia e l'America",
+        "url": "https://open.spotify.com/album/1x7TOON5RFwhDHcMY3AjBv"
+      },
+      "artists": [
+        {
+          "name": "Bipolar",
+          "url": "https://open.spotify.com/artist/36CoTQmA5QgZvVpG81y1di"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Come l'Italia e l'America",
+      "url": "https://open.spotify.com/track/4KSby5Kv4rxDB2SS3SFaE7"
+    },
+    {
+      "album": {
         "name": "Come Marilyn",
         "url": "https://open.spotify.com/album/6lqeWrraxv3mCVWytlzBT0"
       },
@@ -1760,6 +1814,24 @@
       "duration_ms": 219774,
       "name": "Creatura bellissima",
       "url": "https://open.spotify.com/track/0X8RXxTg4p2Uxn1QMaPaqR"
+    },
+    {
+      "album": {
+        "name": "pok\u00e9 melodrama",
+        "url": "https://open.spotify.com/album/2wTktpdvwoQdSYVhw54Lbz"
+      },
+      "artists": [
+        {
+          "name": "Angelina Mango",
+          "url": "https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152722,
+      "name": "crush",
+      "url": "https://open.spotify.com/track/0evHbtc2spfyNIODfG7Cxa"
     },
     {
       "album": {
@@ -1956,6 +2028,28 @@
       "duration_ms": 192120,
       "name": "DIAMANTI GREZZI",
       "url": "https://open.spotify.com/track/3To8zpX92dTdhtORefjgyV"
+    },
+    {
+      "album": {
+        "name": "pok\u00e9 melodrama",
+        "url": "https://open.spotify.com/album/2wTktpdvwoQdSYVhw54Lbz"
+      },
+      "artists": [
+        {
+          "name": "Angelina Mango",
+          "url": "https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f"
+        },
+        {
+          "name": "Bresh",
+          "url": "https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185608,
+      "name": "diamoci una tregua (feat. Bresh)",
+      "url": "https://open.spotify.com/track/2QkbQPAVPxkek0BZYVW4LH"
     },
     {
       "album": {
@@ -2180,7 +2274,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 197142,
       "name": "DUE ALTALENE",
       "url": "https://open.spotify.com/track/6m4z69VDQ7zB2JQzTeWNom"
@@ -3558,7 +3652,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 189124,
       "name": "la noia",
       "url": "https://open.spotify.com/track/49R1F3rIdSzuPk7AcHi6d1"
@@ -3584,7 +3678,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 142714,
       "name": "La Notte Vola - RMX (feat. Lorella Cuccarini)",
       "url": "https://open.spotify.com/track/6wzhvovM1fT42S71JLZpNv"
@@ -4679,6 +4773,24 @@
     },
     {
       "album": {
+        "name": "NON HO VOGLIA",
+        "url": "https://open.spotify.com/album/2hLTmkDyQXffcytdsMKgaC"
+      },
+      "artists": [
+        {
+          "name": "Matteo Paolillo",
+          "url": "https://open.spotify.com/artist/1bzx15Bv1ioIaewP85ad5J"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173538,
+      "name": "NON HO VOGLIA",
+      "url": "https://open.spotify.com/track/3c0qarnOZIcni6K3o4wJsn"
+    },
+    {
+      "album": {
         "name": "La mia stanza (Deluxe)",
         "url": "https://open.spotify.com/album/11N2afr57Zc4Zz9ntU3w7Q"
       },
@@ -5404,7 +5516,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 187461,
       "name": "PARTE DI ME",
       "url": "https://open.spotify.com/track/5Q6Et6BStxlPl2Vv1bhJGD"
@@ -5771,7 +5883,7 @@
     },
     {
       "album": {
-        "name": "Primo al Mondo",
+        "name": "PRIMO AL MONDO",
         "url": "https://open.spotify.com/album/4x7hMG2FWRHEvI8bWnURB2"
       },
       "artists": [
@@ -5784,7 +5896,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 186902,
-      "name": "Primo al Mondo",
+      "name": "PRIMO AL MONDO",
       "url": "https://open.spotify.com/track/2mo05Hp6Vym4rLhwisNAh4"
     },
     {
@@ -5915,6 +6027,24 @@
     },
     {
       "album": {
+        "name": "quasi nuda",
+        "url": "https://open.spotify.com/album/7zQ1TolEtgUbGMOAZpp1Vn"
+      },
+      "artists": [
+        {
+          "name": "centomilacarie",
+          "url": "https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165709,
+      "name": "quasi nuda",
+      "url": "https://open.spotify.com/track/317eSzpK6SiEUiqTtke6Jk"
+    },
+    {
+      "album": {
         "name": "QUE PASA",
         "url": "https://open.spotify.com/album/01ArVSSw3tnedf4s7RFNio"
       },
@@ -6002,6 +6132,24 @@
       "duration_ms": 134302,
       "name": "RED",
       "url": "https://open.spotify.com/track/0jwm30oXN08kVO9JwqrCPL"
+    },
+    {
+      "album": {
+        "name": "Respiro",
+        "url": "https://open.spotify.com/album/45ZXo91lK7a6x2lylI6siL"
+      },
+      "artists": [
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155200,
+      "name": "Respiro",
+      "url": "https://open.spotify.com/track/31ePh9rOTkIERrloY8BUUc"
     },
     {
       "album": {
@@ -6683,6 +6831,28 @@
     },
     {
       "album": {
+        "name": "SPAZZATURA",
+        "url": "https://open.spotify.com/album/70wjp9z48HRgGssIKlrmzC"
+      },
+      "artists": [
+        {
+          "name": "PRINCIPE",
+          "url": "https://open.spotify.com/artist/4HMDZbjY9Z61hRXh4ggzPH"
+        },
+        {
+          "name": "Simone Panetti",
+          "url": "https://open.spotify.com/artist/4lajcWQSiNMQ4b76eevJ5f"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183400,
+      "name": "SPAZZATURA",
+      "url": "https://open.spotify.com/track/3aXhGOFc8XRsUoxdlftnsj"
+    },
+    {
+      "album": {
         "name": "spero ti ci strozzi",
         "url": "https://open.spotify.com/album/4lvFDCOwH3l37sKGlRVYdv"
       },
@@ -6894,6 +7064,24 @@
       "duration_ms": 195000,
       "name": "SUPEREROI",
       "url": "https://open.spotify.com/track/1nND6VDerwJxLaUwVVCp28"
+    },
+    {
+      "album": {
+        "name": "TAKE THAT",
+        "url": "https://open.spotify.com/album/54d21v6KBpRK2Ogd2ezPuh"
+      },
+      "artists": [
+        {
+          "name": "Leo Gassmann",
+          "url": "https://open.spotify.com/artist/5i0snp4GKBLiFsAZAwuJ5b"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157565,
+      "name": "TAKE THAT",
+      "url": "https://open.spotify.com/track/5233Et7TevpTcv9vbNPqGY"
     },
     {
       "album": {
@@ -7386,6 +7574,32 @@
       "duration_ms": 127000,
       "name": "Un po' di te",
       "url": "https://open.spotify.com/track/7l20UfYfWQDfElcp1rvkjd"
+    },
+    {
+      "album": {
+        "name": "UN'ALTRA NOTTE",
+        "url": "https://open.spotify.com/album/2p7i6zg9IXX2pKsTA8GNX1"
+      },
+      "artists": [
+        {
+          "name": "Pepe",
+          "url": "https://open.spotify.com/artist/4KVkkOO0DSrpPzla5vEnsE"
+        },
+        {
+          "name": "Keynoise",
+          "url": "https://open.spotify.com/artist/6gXD6pjT4eFa8sdYOISCXL"
+        },
+        {
+          "name": "Arum Flowers",
+          "url": "https://open.spotify.com/artist/6xeuy9aPzpmF26yefmPjhu"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165600,
+      "name": "UN'ALTRA NOTTE",
+      "url": "https://open.spotify.com/track/2i8ekyE2fOjBcYv7ONy5UY"
     },
     {
       "album": {

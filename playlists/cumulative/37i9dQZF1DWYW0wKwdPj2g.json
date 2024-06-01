@@ -479,6 +479,24 @@
     },
     {
       "album": {
+        "name": "FRESH FIRE (LIVE)",
+        "url": "https://open.spotify.com/album/1DiDnNc3mQqPu4lUDDU0gw"
+      },
+      "artists": [
+        {
+          "name": "Ruke Gure",
+          "url": "https://open.spotify.com/artist/3kJycPCLqMjSCHGEjvMUlz"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 403613,
+      "name": "FRESH FIRE - LIVE",
+      "url": "https://open.spotify.com/track/7sDMSbBoYKZBu5BGwtJWAP"
+    },
+    {
+      "album": {
         "name": "Goliathi (Live at Goshen City Church 2023)",
         "url": "https://open.spotify.com/album/3tprEY7g0ha2s23TvgIsy2"
       },
@@ -1514,6 +1532,24 @@
       "duration_ms": 349973,
       "name": "Yesu Wena UnguMhlobo - Live",
       "url": "https://open.spotify.com/track/3j3Jn0bcG8rzliG4vHBYCa"
+    },
+    {
+      "album": {
+        "name": "You Are Good (Live)",
+        "url": "https://open.spotify.com/album/0eOUqWmOTdPZ8fxnhedGhP"
+      },
+      "artists": [
+        {
+          "name": "Pastor Courage",
+          "url": "https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274573,
+      "name": "You Are Good (Live)",
+      "url": "https://open.spotify.com/track/0QxBzysFWqcmyIZtJM2B3s"
     },
     {
       "album": {

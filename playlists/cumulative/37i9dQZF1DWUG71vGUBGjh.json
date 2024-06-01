@@ -2531,6 +2531,24 @@
     },
     {
       "album": {
+        "name": "Alive and Well - Recorded in Paris",
+        "url": "https://open.spotify.com/album/5sShluwFAJshVIjwhMvmmW"
+      },
+      "artists": [
+        {
+          "name": "Soft Machine",
+          "url": "https://open.spotify.com/artist/5A0MH7JfEBEMySevsmauds"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 497626,
+      "name": "Soft Space",
+      "url": "https://open.spotify.com/track/7N0GNjGDywjaR0Ns91PiAv"
+    },
+    {
+      "album": {
         "name": "Song of the Second Moon",
         "url": "https://open.spotify.com/album/5dBwLiLUoJf84L8awVQVrv"
       },

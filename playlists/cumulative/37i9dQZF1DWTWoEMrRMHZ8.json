@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "As belas novidades da MPB. Foto: Mericia",
+  "description": "As belas novidades da MPB. Foto: Melly",
   "name": "Divina MPB",
   "tracks": [
     {
@@ -803,6 +803,24 @@
     },
     {
       "album": {
+        "name": "Mar dos desejos",
+        "url": "https://open.spotify.com/album/7t0rgbtuvmEb8s4ep1gnHC"
+      },
+      "artists": [
+        {
+          "name": "Lucas Mamede",
+          "url": "https://open.spotify.com/artist/6pbg3DywWNPejXsXkx3iKD"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222101,
+      "name": "Amanh\u00e3 talvez",
+      "url": "https://open.spotify.com/track/3PncaZwjzGlIIP4x7U86vy"
+    },
+    {
+      "album": {
         "name": "Amar de Novo",
         "url": "https://open.spotify.com/album/7ptCUbRpVPjlOj4peciGKX"
       },
@@ -1290,7 +1308,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 159683,
       "name": "As Solid\u00f5es",
       "url": "https://open.spotify.com/track/7iqA3zeTLdSCTRgdse2fIw"
@@ -2149,6 +2167,24 @@
     },
     {
       "album": {
+        "name": "Amar\u00edssima",
+        "url": "https://open.spotify.com/album/73nud0IihzSauCk6AfYbLN"
+      },
+      "artists": [
+        {
+          "name": "Melly",
+          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201962,
+      "name": "Cacau",
+      "url": "https://open.spotify.com/track/71k9Yzhra50zpdh3ypzdYA"
+    },
+    {
+      "album": {
         "name": "Cais",
         "url": "https://open.spotify.com/album/2X55OfvXSptynsrQWYq9Oz"
       },
@@ -2984,7 +3020,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 162402,
       "name": "como anda vc?",
       "url": "https://open.spotify.com/track/1UjTUHboHZ5g5Ar54hw5Fa"
@@ -3176,6 +3212,28 @@
       "duration_ms": 285354,
       "name": "Cora\u00e7\u00e3o Bifurcado",
       "url": "https://open.spotify.com/track/6innA5Ls7neN8eJaQAuB6e"
+    },
+    {
+      "album": {
+        "name": "O Amor e Suas Vari\u00e1veis",
+        "url": "https://open.spotify.com/album/4WG4wPpHPf5aJFolnzCCRn"
+      },
+      "artists": [
+        {
+          "name": "Agnes Nunes",
+          "url": "https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw"
+        },
+        {
+          "name": "Mariana Froes",
+          "url": "https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196110,
+      "name": "Cora\u00e7\u00e3o Marru\u00e1",
+      "url": "https://open.spotify.com/track/66r0hgaeMw64dPebjGldX3"
     },
     {
       "album": {
@@ -3394,6 +3452,24 @@
       "duration_ms": 230441,
       "name": "De: Terra; Para: Humanidade",
       "url": "https://open.spotify.com/track/1n6VdycCDCT3LkTvVJF0vK"
+    },
+    {
+      "album": {
+        "name": "Olho D'\u00c1gua",
+        "url": "https://open.spotify.com/album/7fCIDiLSw43YDw7suMRqkb"
+      },
+      "artists": [
+        {
+          "name": "Mariana Volker",
+          "url": "https://open.spotify.com/artist/0L8NDdn0V7vaqvUyibKLmq"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188064,
+      "name": "Deleita",
+      "url": "https://open.spotify.com/track/6BZGnPjuZTH8znxY7Zp0my"
     },
     {
       "album": {
@@ -4488,6 +4564,24 @@
       "duration_ms": 245015,
       "name": "Eternos Ver\u00f5es",
       "url": "https://open.spotify.com/track/6Sz2Nx3KMpdx2bHKjTXx24"
+    },
+    {
+      "album": {
+        "name": "Eu Ainda Acredito no Amor",
+        "url": "https://open.spotify.com/album/0GpetWCC44T1VxRHqeCKB2"
+      },
+      "artists": [
+        {
+          "name": "Carolina Andrade",
+          "url": "https://open.spotify.com/artist/4wKdZWqP2LmpEU6a1Q876q"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147154,
+      "name": "Eu Ainda Acredito no Amor",
+      "url": "https://open.spotify.com/track/1ytuH7ETjrdU5sV2C4YcVE"
     },
     {
       "album": {
@@ -6687,6 +6781,28 @@
     },
     {
       "album": {
+        "name": "ME SURPREENDA",
+        "url": "https://open.spotify.com/album/74YffXxNm2i84YVvc5R4X4"
+      },
+      "artists": [
+        {
+          "name": "Roberta Campos",
+          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
+        },
+        {
+          "name": "George Israel",
+          "url": "https://open.spotify.com/artist/2z7Zy2gyTP3vyTJK52jK0T"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212454,
+      "name": "ME SURPREENDA",
+      "url": "https://open.spotify.com/track/19rG9ASlDA0deMhYyGBb5K"
+    },
+    {
+      "album": {
         "name": "\u00c1urea Martins e Jo\u00e3o Senise Celebram Sinatra & Jobim",
         "url": "https://open.spotify.com/album/0EfJaMIyZdwDmqmQ968t1b"
       },
@@ -7912,7 +8028,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 230772,
       "name": "N\u00e3o Te Largo, N\u00e3o Te Troco - Ac\u00fastico",
       "url": "https://open.spotify.com/track/20oATguIKxxfwp1h9MlNGZ"
@@ -7934,7 +8050,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 179843,
       "name": "N\u00e3o Tem Lua",
       "url": "https://open.spotify.com/track/4yV6L8Ow55gGYWrHvPbbrc"
@@ -10642,7 +10758,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 207240,
       "name": "Redescobrir",
       "url": "https://open.spotify.com/track/5reRLMr3vjzCCpZZmZ63eC"
@@ -11562,7 +11678,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 272469,
       "name": "sentimento blues - PP sessions - Ao Vivo",
       "url": "https://open.spotify.com/track/0teSCqkAu773AAo2G5MVII"
@@ -12796,7 +12912,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 177674,
       "name": "Transborda",
       "url": "https://open.spotify.com/track/3YyiXT3hT1SgyrO7sJESE4"
@@ -13330,6 +13446,28 @@
       "duration_ms": 158956,
       "name": "Uma Dose, um Caf\u00e9",
       "url": "https://open.spotify.com/track/0b1nzJMdlkq2sUEu68mtB1"
+    },
+    {
+      "album": {
+        "name": "Vaga-Lumes",
+        "url": "https://open.spotify.com/album/76FPkGP3zOyO3RasfgG3aw"
+      },
+      "artists": [
+        {
+          "name": "Tain\u00e1",
+          "url": "https://open.spotify.com/artist/0XXftdqBugbSuMCYFiisaC"
+        },
+        {
+          "name": "Tiago Nacarato",
+          "url": "https://open.spotify.com/artist/3mwYj8Nb9VZbAnLpli7l8X"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181226,
+      "name": "Vaga-Lumes",
+      "url": "https://open.spotify.com/track/4tmiDNIEre4ltERgyXkhBK"
     },
     {
       "album": {

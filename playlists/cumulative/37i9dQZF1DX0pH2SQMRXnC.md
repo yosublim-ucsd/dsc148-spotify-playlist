@@ -4,7 +4,7 @@
 
 > Only the biggest Hardstyle tracks!
 
-717 songs - 1 day 17 hr 14 min
+718 songs - 1 day 17 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,7 @@
 | [Different](https://open.spotify.com/track/5V36Ex7BD1FIidVCKVSKdm) | [Audiotricz](https://open.spotify.com/artist/52I8HbScEEvgwiiSDaM7gP), [E\-Life](https://open.spotify.com/artist/4EnzLaY6syM2lVhfMRolW2) | [Different](https://open.spotify.com/album/4b8STLNNgp6prFuru4NnZF) | 3:50 | 2021-12-16 | 2022-07-27 |
 | [Dirty Money](https://open.spotify.com/track/1I4jKdWVIbCGJKtJBva2fe) | [Dany Bpm](https://open.spotify.com/artist/3E6p5In4n4lbmS6oVipW8R), [Haaradak](https://open.spotify.com/artist/1xG49yuBUoOuJfuTOROGfr) | [Dirty Money](https://open.spotify.com/album/1zmpt4KQ7ePMwy1CQrX6Qq) | 3:52 | 2021-12-16 | 2022-07-29 |
 | [Discover](https://open.spotify.com/track/6kAkda1mvbIr1J6gE5YMMy) | [Averion](https://open.spotify.com/artist/4VTEnHIcc06TeHoqeKvQEK), [Luxtreme](https://open.spotify.com/artist/7Gs7ELP6TZK3IxiQunEtYf) | [Discover](https://open.spotify.com/album/5rFBMI5yQKf2LawlXBoZYt) | 3:35 | 2021-12-16 | 2022-07-22 |
+| [DISCOVER THE MAYHEM \(Official REBiRTH Festival 2024 Anthem\)](https://open.spotify.com/track/1Wv5JiJLCJL8xZ5PNH1IEB) | [Sickmode](https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW), [Mish](https://open.spotify.com/artist/65kwwmTEJIlKRldGhmUM0b), [MC Livid](https://open.spotify.com/artist/3GvnEADrxf9LST8avbLuMe), [Mark Vayne](https://open.spotify.com/artist/0ISUKgiBjQ63VbyoIHfD3F) | [DISCOVER THE MAYHEM \(Official REBiRTH Festival 2024 Anthem\)](https://open.spotify.com/album/2KsPJDWa8KnaFlkQu4wnEN) | 3:58 | 2024-05-31 |  |
 | [Distance](https://open.spotify.com/track/3cL8EVouwRoKs9JYYcZePy) | [Audiotricz](https://open.spotify.com/artist/52I8HbScEEvgwiiSDaM7gP), [Nino Lucarelli](https://open.spotify.com/artist/2Z6k8JBzhJPPRIAyKaUEJZ) | [A New Dawn](https://open.spotify.com/album/6rLCvkI1WfZ0j4X5QRCYy4) | 3:44 | 2021-12-16 | 2022-10-01 |
 | [DLMD](https://open.spotify.com/track/2d9EgBM9F09IkEG8t9T6L8) | [Darren Styles](https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm), [TNT](https://open.spotify.com/artist/1CqOLQmjzVWXQTiIN5Wucs), [Technoboy](https://open.spotify.com/artist/37jL2LnGjAkadOCszr8v7C), [Tuneboy](https://open.spotify.com/artist/3mZnhzeAyjpFhO3cIepzBr) | [DLMD](https://open.spotify.com/album/5Rc0OTFEFeXDBd2GvMRJkx) | 2:40 | 2021-12-16 |  |
 | [Do Whatcha Say](https://open.spotify.com/track/5svlaUpNdfC4P4wO1snObR) | [Mark With a K](https://open.spotify.com/artist/4OPaH4YIqua9DUnI7t0fOQ) | [Do Whatcha Say](https://open.spotify.com/album/4HX4ooRkEjEbaRDvx0beVq) | 2:44 | 2024-01-18 |  |
@@ -436,7 +437,7 @@
 | [No Guts No Glory \(Defqon.1 Anthem 2015\) \- Edit Version](https://open.spotify.com/track/5niWktDYrgqE6FbStUkeDS) | [Ran\-D](https://open.spotify.com/artist/7IeovKzVkfcG9mIJGNzTcT), [Skits Vicious](https://open.spotify.com/artist/6wagDejDLL6ujxepmXcj9m) | [No Guts No Glory \(Defqon.1 Anthem 2015\)](https://open.spotify.com/album/7qCywPCmgkThjMMuvJXWfJ) | 5:58 | 2022-06-12 | 2022-06-27 |
 | [No No No](https://open.spotify.com/track/0vgyr6vnAEJQhlmkPVuoOE) | [Dr Phunk](https://open.spotify.com/artist/1naX4fxuRaDFlj9tGfIUZk) | [No No No](https://open.spotify.com/album/48gjcJd24Bp7tZ2QChRZzp) | 2:48 | 2021-12-16 | 2022-07-29 |
 | [No One Can Stop Us Now](https://open.spotify.com/track/5YjqaxkS4NLVlzMQVFjez8) | [Headhunterz](https://open.spotify.com/artist/6C0KWmCdqrLU2LzzWBPbOy), [Wildstylez](https://open.spotify.com/artist/0wr85NuJuAYZsRzP1lJgiV), [Noisecontrollers](https://open.spotify.com/artist/6qJ61DomA73g7jQEKESw9Z) | [The Return Of Headhunterz](https://open.spotify.com/album/6cPSD583Rf7B8ZoIZ2bbEH) | 3:49 | 2022-03-24 | 2022-06-06 |
-| [No Paradise](https://open.spotify.com/track/0N4QGYBSaeRwmo4pxuEG0x) | [Warface](https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs) | [No Paradise](https://open.spotify.com/album/6hq96WXyeVwi6UpYMaATa9) | 4:01 | 2021-12-16 |  |
+| [No Paradise](https://open.spotify.com/track/0N4QGYBSaeRwmo4pxuEG0x) | [Warface](https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs) | [No Paradise](https://open.spotify.com/album/6hq96WXyeVwi6UpYMaATa9) | 4:01 | 2021-12-16 | 2024-06-01 |
 | [No Reality](https://open.spotify.com/track/7yUiYmIPh1UtRxfbrvFYxq) | [Stormerz](https://open.spotify.com/artist/4FSHCrSzZlOrwOMmEInVwf) | [No Reality](https://open.spotify.com/album/5Bz2trhpTom60ByTi9HlqT) | 3:05 | 2022-03-24 | 2022-04-21 |
 | [No Regret](https://open.spotify.com/track/5sfsiONdOGcThDKPugDl5S) | [Dillytek](https://open.spotify.com/artist/7jyPELo8anRil0femQikVJ) | [No Regret](https://open.spotify.com/album/30xRgPea8hF3U166uEQIi9) | 4:05 | 2022-03-24 | 2022-04-21 |
 | [No Retaliation](https://open.spotify.com/track/6N1NycLCUdSMWLM6ucXjP2) | [Radical Redemption](https://open.spotify.com/artist/3Ij56hbjOTHq8RgutQwfxC), [Nolz](https://open.spotify.com/artist/6kudMw2A0xOBJHpW8VNaDA) | [No Retaliation, Pt\. 1: The Solo's](https://open.spotify.com/album/1wTbNgkQexxRJSzbSV2IeC) | 3:44 | 2024-02-07 |  |

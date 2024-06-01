@@ -2,12 +2,13 @@
 
 ### [karakter.](https://open.spotify.com/playlist/37i9dQZF1DXa6nwj9J2RnE)
 
-> edgy muziek met een rand uit eigen land\. cover: Sammie Sedano
+> edgy muziek met een rand uit eigen land\. cover: Sef & Abel
 
-133 songs - 7 hr 21 min
+136 songs - 7 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [2 SCHORPIOENEN](https://open.spotify.com/track/18jXrwLtijGhDIu3pykVTu) | [Abel](https://open.spotify.com/artist/0JRVrJQNnlSl10wEsioxOJ), [Sef](https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0) | [2 SCHORPIOENEN / MENSEN ZOALS WIJ](https://open.spotify.com/album/1LOXaDwD16CU5WVcrcDD9t) | 0:56 | 2024-05-31 |  |
 | [220](https://open.spotify.com/track/6XOjW4o65uMwEhQTreISpU) | [Shadi](https://open.spotify.com/artist/6KRiktIvEommt5qfwLOxBz) | [220](https://open.spotify.com/album/3WH90hL7AUK8lbPsQ4yTYp) | 3:47 | 2023-02-23 | 2023-03-18 |
 | [24/7](https://open.spotify.com/track/37E6beg4rfSVrJh5XHTad7) | [FLORA](https://open.spotify.com/artist/3QroRhBWtyB95SWJ7kyj5W) | [24/7](https://open.spotify.com/album/6rD5BrQ8q6A1Uw9aIoRgMt) | 3:13 | 2023-08-24 |  |
 | [Adult](https://open.spotify.com/track/63XfIeYZsChaaky8oIXmE4) | [ALLY](https://open.spotify.com/artist/5j43yWfooo7jnxBQqBgDIY) | [Adult](https://open.spotify.com/album/78OTuh1gO0a8Y1nPMOVps2) | 4:02 | 2023-02-23 | 2023-03-18 |
@@ -38,7 +39,7 @@
 | [eventjes verliefd](https://open.spotify.com/track/795QtrTw8oPj6A3r37VRLk) | [Rijnbaart](https://open.spotify.com/artist/5Ce0Qxr0GqePcWjwx7VZPd) | [Maankind](https://open.spotify.com/album/14ScUgJJXyRXGLvgHmXxBm) | 2:28 | 2024-04-25 |  |
 | [excuses](https://open.spotify.com/track/1rB3CxWVX9GlNIfLoIuLXb) | [stay away from dante!](https://open.spotify.com/artist/5y47Otq6VIrBjaLR7Zl8nd) | [excuses](https://open.spotify.com/album/3WS0r3RjStJi2DIYioq6QW) | 5:46 | 2023-04-27 |  |
 | [Fair Play](https://open.spotify.com/track/0PVLMa9RI4EFDE4NXsglvM) | [Veya](https://open.spotify.com/artist/1BmOO49fZVNsNhWIW1l6nU) | [Fair Play](https://open.spotify.com/album/3j48ZkBE3HqHByil4s4xQE) | 3:04 | 2023-02-23 | 2023-09-01 |
-| [Fijn](https://open.spotify.com/track/1mLQsmHuMO2VMSTWfek8br) | [Meis](https://open.spotify.com/artist/5F2t3lvOUglnG8ZqUUWDKW) | [Fijn](https://open.spotify.com/album/37Pd4LM2hK8qXkRyEod4ue) | 3:40 | 2023-11-09 |  |
+| [Fijn](https://open.spotify.com/track/1mLQsmHuMO2VMSTWfek8br) | [Meis](https://open.spotify.com/artist/5F2t3lvOUglnG8ZqUUWDKW) | [Fijn](https://open.spotify.com/album/37Pd4LM2hK8qXkRyEod4ue) | 3:40 | 2023-11-09 | 2024-06-01 |
 | [For Good](https://open.spotify.com/track/2yjaGTM6j1aOW3OXmEbvsy) | [ALLY](https://open.spotify.com/artist/5j43yWfooo7jnxBQqBgDIY) | [With You In The Room](https://open.spotify.com/album/2aN4RGXYEXSAtC92ePD7JD) | 3:04 | 2023-02-23 | 2023-04-01 |
 | [Forever](https://open.spotify.com/track/6mWi1D3usqO9JSFTqZWUuZ) | [YVES](https://open.spotify.com/artist/4QjFiRcZUcXUppYUR29MuQ), [Winne](https://open.spotify.com/artist/5cMMheSnLhCt0YdwFkp3R9) | [GODSPEED](https://open.spotify.com/album/5PznlTVFdnmXyp34K4iJjI) | 3:06 | 2023-02-23 | 2024-05-10 |
 | [Glas](https://open.spotify.com/track/70T7J9cUIvTuoB4K82zsPf) | [Sammie Sedano](https://open.spotify.com/artist/2Rp1LwYCaBLDB36uurFDYT) | [Glas](https://open.spotify.com/album/0loodexikCgWDHbTLqNyZM) | 4:41 | 2024-04-25 |  |
@@ -47,11 +48,12 @@
 | [Guitar Guy](https://open.spotify.com/track/2PN5wHMSWg8U6Ord2lfwU7) | [Mayer Malik](https://open.spotify.com/artist/0WMRcmW4gPPbnJOR6XJXmc), [Boaz van de Beatz](https://open.spotify.com/artist/7Gl7G1JK7feTWHy1YJExfw) | [Guitar Guy](https://open.spotify.com/album/1dW4MSpzSFrVPUQZ46WT6T) | 3:24 | 2023-02-23 | 2023-05-10 |
 | [Hard Work](https://open.spotify.com/track/5erRk2eskp3Ns8pfOEtbxq) | [Anuka](https://open.spotify.com/artist/4tp1pUIwgLWIIIIOo1yPYp) | [Hard Work](https://open.spotify.com/album/5iCijpR8CvLw1ftF7M71k1) | 2:35 | 2023-02-23 | 2023-05-12 |
 | [Heimwee](https://open.spotify.com/track/6DvGnoj1obKohgqvrdy53r) | [Eefje de Visser](https://open.spotify.com/artist/33KABng8GO42ojFJVcABxQ) | [Heimwee](https://open.spotify.com/album/2bPEPy5vcX1GoBShp2xblg) | 3:34 | 2024-02-15 | 2024-05-18 |
-| [I Don't Care Tonight](https://open.spotify.com/track/6kZwi3zqzCwVejpjYfIaOa) | [Misha Wong](https://open.spotify.com/artist/53awYKecnsSi0dogUvlVv0) | [I Don't Care Tonight](https://open.spotify.com/album/4WZaOHiKK6GLGimpLPHZC3) | 3:48 | 2023-05-26 |  |
+| [I Don't Care Tonight](https://open.spotify.com/track/6kZwi3zqzCwVejpjYfIaOa) | [Misha Wong](https://open.spotify.com/artist/53awYKecnsSi0dogUvlVv0) | [I Don't Care Tonight](https://open.spotify.com/album/4WZaOHiKK6GLGimpLPHZC3) | 3:48 | 2023-05-26 | 2024-06-01 |
 | [I Don't Know Why](https://open.spotify.com/track/0eh7RLHWRTKozBQVebazyB) | [Repiet](https://open.spotify.com/artist/5fDx43KRyr21vME3lLxmxY), [Jobsen](https://open.spotify.com/artist/1nXpJ4oZgB8PlKvQ3DFkaH), [Julia Kleijn](https://open.spotify.com/artist/6iOYJDZYumYVmzxPbyfg5W) | [I Don't Know Why](https://open.spotify.com/album/2l4DnWUZwezkK6n40YI1UY) | 2:48 | 2023-02-23 | 2023-07-27 |
 | [I Don't Know Why](https://open.spotify.com/track/2aAdRmDXH07MGLmyd37xIp) | [Repiet](https://open.spotify.com/artist/5fDx43KRyr21vME3lLxmxY), [Jobsen](https://open.spotify.com/artist/1nXpJ4oZgB8PlKvQ3DFkaH), [Julia Kleijn](https://open.spotify.com/artist/6iOYJDZYumYVmzxPbyfg5W) | [I Don't Know Why](https://open.spotify.com/album/1Dqh45Fe2oprowuhSOFSmb) | 2:48 | 2023-06-23 | 2024-03-29 |
 | [I Found](https://open.spotify.com/track/7BqGd98KWC3b5GGx1wEQ2V) | [Faint Louis](https://open.spotify.com/artist/6noj0RSKEQhY8LtQBeCmfz), [Subtle Static](https://open.spotify.com/artist/5YFASQmAPmWw2eMVnU84aL) | [I Found](https://open.spotify.com/album/450H51CyucEN9AHiIrTUHp) | 3:52 | 2023-02-23 | 2023-10-13 |
 | [I Wish I Knew](https://open.spotify.com/track/1JDWUdfpi7lEm39hTuEuh0) | [Faint Louis](https://open.spotify.com/artist/6noj0RSKEQhY8LtQBeCmfz), [Eve Jones](https://open.spotify.com/artist/0HtGEZuGr7pnIgySImmPh2) | [I Wish I Knew](https://open.spotify.com/album/1eKElfchc2K5pjz0JkH6b8) | 2:47 | 2023-05-30 |  |
+| [Ik Geloof In Ons](https://open.spotify.com/track/2r0qqqYJW7eMhAUaDMSKmH) | [Amèl](https://open.spotify.com/artist/2dl0KJ2w556Fc4IdSqyECG) | [Ik Geloof In Ons](https://open.spotify.com/album/6wGDNiaxQTLoENHVDdOKzk) | 2:10 | 2024-05-31 |  |
 | [Ik Kijk Soms Naar Jou](https://open.spotify.com/track/7jBqqJNT5aOCkuyvrd7scH) | [Mula B](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi) | [Ik Kijk Soms Naar Jou](https://open.spotify.com/album/3GjyYmdr4NyQStCXM3iyWx) | 3:02 | 2023-11-01 |  |
 | [Imaginary Friend](https://open.spotify.com/track/7f7GnNw5gENI7Rpq45Ft5R) | [Mickie](https://open.spotify.com/artist/1fhrWRji66FUx7jES5tMJX) | [First Boy In Space](https://open.spotify.com/album/3DhyZK51vn05p2kAfjzIDF) | 3:40 | 2023-02-23 | 2023-05-26 |
 | [In Between](https://open.spotify.com/track/4eckDYgci1yENJ2uQHce4k) | [Sheila and The Kit](https://open.spotify.com/artist/3EYBjavx2VfeoBhQjwMz74) | [In Between](https://open.spotify.com/album/7qB5fb3CM75F2SEtVNriYT) | 3:47 | 2023-02-23 | 2023-06-09 |
@@ -77,6 +79,7 @@
 | [Marathon I](https://open.spotify.com/track/5VBT9JcgyoBvM7Uau4X57d) | [Jacht](https://open.spotify.com/artist/6idnmcf67erjR8vE9qLIoO) | [Marathon I](https://open.spotify.com/album/4bvQPPSsD0iGIjqf1OYEu5) | 2:11 | 2023-05-25 |  |
 | [Mayhem \(feat\. Naaz\)](https://open.spotify.com/track/5bwPnJFIx1DdkycTgmtRTM) | [Pete Philly & Perquisite](https://open.spotify.com/artist/4XOAS1Q62GWP67HMX7ASk3), [Pete Philly](https://open.spotify.com/artist/0DD1CBUI4ypYSqvKUyjNoO), [Perquisite](https://open.spotify.com/artist/1jYPZvaIkl6LoRFFcXeJa2), [Naaz](https://open.spotify.com/artist/736HGQRGr9rjG4VmmSpkz8) | [Mayhem \(feat\. Naaz\)](https://open.spotify.com/album/7iEPz4WQ618rjOYC5QYy96) | 3:24 | 2024-01-29 |  |
 | [MEISJE IN WIT](https://open.spotify.com/track/4HQBvGxtBz3R0C7gcUsVH0) | [ANNE](https://open.spotify.com/artist/7f3A2xHxiA9Zl8fIhdOoeS) | [MEISJE IN WIT](https://open.spotify.com/album/53Qe59ywnVMSrmOo9ofV3U) | 2:22 | 2023-03-31 | 2024-05-18 |
+| [MENSEN \(ZOALS WIJ\)](https://open.spotify.com/track/70kKaMHh92fiWfElpJSMLj) | [Abel](https://open.spotify.com/artist/0JRVrJQNnlSl10wEsioxOJ), [Sef](https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0) | [2 SCHORPIOENEN / MENSEN ZOALS WIJ](https://open.spotify.com/album/1LOXaDwD16CU5WVcrcDD9t) | 3:12 | 2024-05-31 |  |
 | [met de tijd](https://open.spotify.com/track/2AqLfjC2r4jBJZ95MqyUGa) | [Sandor Dayala](https://open.spotify.com/artist/34h516CVwMVPYFkeSLSW69), [TJ](https://open.spotify.com/artist/2keg5CqgRIEtw0VUYU7TLu) | [met de tijd](https://open.spotify.com/album/59XkvhOOonvoAZkgnHYCSg) | 2:38 | 2023-12-01 |  |
 | [No Control](https://open.spotify.com/track/0iLvu7hCQfd5gt5pdd3hj2) | [Lilian Hak](https://open.spotify.com/artist/3h5PRBvE4jKVjXZq1cqMqH) | [No Control](https://open.spotify.com/album/04LCjxpQJP69yCB5ZPMHvz) | 2:54 | 2024-05-09 |  |
 | [Nog Steeds Dezelfde](https://open.spotify.com/track/0F4hPNXDZHw79Vxxxklcl6) | [Willem Ardui](https://open.spotify.com/artist/1Erb9tjg91Er5fXHWHUmyY), [Willem](https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds) | [Nog Steeds Dezelfde](https://open.spotify.com/album/2BJ4ZpdRnUagLr4xRfNgmQ) | 3:39 | 2023-09-22 |  |
@@ -90,7 +93,7 @@
 | [round and round](https://open.spotify.com/track/4trRNTD2vikuHOb0mJPWXe) | [DEHAZE](https://open.spotify.com/artist/3lFS8jJTgqYqETcnc8rpF4) | [round and round](https://open.spotify.com/album/0jkKfyJLmkKmCGYoo4GA7c) | 3:22 | 2024-03-28 |  |
 | [Same Room](https://open.spotify.com/track/50tVoG8Nxgm306HKSiwYZV) | [Ferdous](https://open.spotify.com/artist/1ihKKcrzAd68ftS7adfOtM) | [UI](https://open.spotify.com/album/27cG0rL8gIm1yQekB8ibjL) | 3:22 | 2023-02-23 | 2024-02-03 |
 | [Same Room](https://open.spotify.com/track/7JKcsNXSjFVKtA6YT7BNGZ) | [Ferdous](https://open.spotify.com/artist/1ihKKcrzAd68ftS7adfOtM) | [Cool Party](https://open.spotify.com/album/1G0VH29venEyfSgCtMddwo) | 3:22 | 2024-01-29 | 2024-03-08 |
-| [Scheef](https://open.spotify.com/track/2vMHhWv9bIS2IpVcwALlKZ) | [THYRZA](https://open.spotify.com/artist/6Y0fFuFrEgAyOD2eIMwUX5) | [Scheef](https://open.spotify.com/album/3KwnniiGH4XmOs5FQgIoSp) | 3:16 | 2023-05-25 |  |
+| [Scheef](https://open.spotify.com/track/2vMHhWv9bIS2IpVcwALlKZ) | [THYRZA](https://open.spotify.com/artist/6Y0fFuFrEgAyOD2eIMwUX5) | [Scheef](https://open.spotify.com/album/3KwnniiGH4XmOs5FQgIoSp) | 3:16 | 2023-05-25 | 2024-06-01 |
 | [Scherpe Knuffels](https://open.spotify.com/track/6617xQW6elVgqDInCMI1wu) | [NAVARONE COLE](https://open.spotify.com/artist/1G3G1fCNjBgR3OwTmj2QHb) | [Scherpe Knuffels](https://open.spotify.com/album/0anx93DQrlfeKHUrghM61f) | 2:40 | 2023-11-17 |  |
 | [Seaside](https://open.spotify.com/track/7qNXY0nLhMoaNINklgqeWf) | [sor](https://open.spotify.com/artist/267wBt3XfmW3kdOC0JCtcO) | [Bae Doven No\. 1](https://open.spotify.com/album/6BMIKnnkgFymPqYSW9GxHH) | 2:50 | 2023-02-23 | 2023-06-09 |
 | [Sepia](https://open.spotify.com/track/4OnJJB3lwl1fnPGrDQlbzy) | [Chagall](https://open.spotify.com/artist/2C03b65xMyNtDDbyBnuPGH) | [Unlocked](https://open.spotify.com/album/3saGtz3MzM4dWtHT2t11uj) | 3:27 | 2023-09-22 |  |

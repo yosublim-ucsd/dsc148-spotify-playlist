@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-11-05",
-  "description": "This is Def Leppard. Todos os maiores hits em uma s\u00f3 playlist.",
+  "description": "This is Def Leppard. The essential tracks, all in one playlist.",
   "name": "This Is Def Leppard",
   "tracks": [
     {
@@ -328,7 +328,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-29",
+      "date_removed": null,
       "duration_ms": 199520,
       "name": "Fire It Up",
       "url": "https://open.spotify.com/track/1iFbbuxwxIKdXVaTU1737K"
@@ -1104,7 +1104,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 239727,
       "name": "Promises",
       "url": "https://open.spotify.com/track/4GbVDG1NFH1kzqCHRCFj5D"

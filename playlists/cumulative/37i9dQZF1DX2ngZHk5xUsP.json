@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-26",
-  "description": "Temukan musisi kesayanganmu dari berbagai penjuru Jawa Barat. Cover: Rossa",
+  "description": "Temukan musisi kesayanganmu dari berbagai penjuru Jawa Barat. Cover: Juicy Luicy",
   "name": "Suara Dari Jawa Barat",
   "tracks": [
     {
@@ -576,6 +576,24 @@
       "duration_ms": 194594,
       "name": "Gadog (Feat. Edo Wallad)",
       "url": "https://open.spotify.com/track/5c3Ym8TiEBm4UiwRB0HMgg"
+    },
+    {
+      "album": {
+        "name": "HAHAHA",
+        "url": "https://open.spotify.com/album/32KsXDdSdv8lJFKwt1cSEI"
+      },
+      "artists": [
+        {
+          "name": "Juicy Luicy",
+          "url": "https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193959,
+      "name": "HAHAHA",
+      "url": "https://open.spotify.com/track/0coPXOjcMS7mhizONlReis"
     },
     {
       "album": {
@@ -1312,6 +1330,24 @@
       "duration_ms": 180860,
       "name": "Segar",
       "url": "https://open.spotify.com/track/23SH0rxlb47odl9HHmufOr"
+    },
+    {
+      "album": {
+        "name": "Sejauh Dua Benua",
+        "url": "https://open.spotify.com/album/54ItApQYalhDEjpXE0iumY"
+      },
+      "artists": [
+        {
+          "name": "Kahitna",
+          "url": "https://open.spotify.com/artist/2WhoMc7XqIzVXWbQqSoqe7"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225633,
+      "name": "Sejauh Dua Benua",
+      "url": "https://open.spotify.com/track/4k91MisM6AJZHLS4lSceOY"
     },
     {
       "album": {

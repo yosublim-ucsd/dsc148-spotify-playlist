@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdeoRwG5yUKg.md) - [plain]
 
 > Soulful, bluesy ballads\. Cover: The War and Treaty
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,264 likes - 100 songs - 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,388 likes - 100 songs - 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Weight of the World](https://open.spotify.com/track/1rV2EKQbWZMr4y7BXB0iEO) | [Texas Hill](https://open.spotify.com/artist/2Yl1rRB2mi1HPnXAuy9jqq) | [Weight of the World](https://open.spotify.com/album/1OXjOFCV8hg3VcCX5ggp3C) | 4:19 |
+| 1 | [Weight of the World](https://open.spotify.com/track/1rV2EKQbWZMr4y7BXB0iEO) | [Texas Hill](https://open.spotify.com/artist/2Yl1rRB2mi1HPnXAuy9jqq), [Adam Wakefield](https://open.spotify.com/artist/6vVB9hUpiPCp5SWAYwSzUt) | [Weight of the World](https://open.spotify.com/album/1OXjOFCV8hg3VcCX5ggp3C) | 4:19 |
 | 2 | [Jordan](https://open.spotify.com/track/69XVjPC0IHe4N87lVCgjAT) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU), [Redtenbacher's Funkestra](https://open.spotify.com/artist/1oYScdotTIXO74h10l8ISA) | [Jordan](https://open.spotify.com/album/1ZeucgZuXgsLMM7Bm5wXGO) | 5:01 |
 | 3 | [Right By Your Side](https://open.spotify.com/track/0bI84E3wbmzIX2ANurP4vR) | [Danielle Nicole](https://open.spotify.com/artist/34mu675oQQ5ZNuK1soZrIn) | [The Love You Bleed](https://open.spotify.com/album/6gOCWFIXmBEy1c34AqahMo) | 4:19 |
 | 4 | [Alone With My Thoughts](https://open.spotify.com/track/45nBiCH0KOZxBGGSgjlLLK) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Visions](https://open.spotify.com/album/59Gsd0DGxyhKyuHkhCV4Hq) | 4:14 |

@@ -3136,7 +3136,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 223666,
       "name": "BUZZKILL",
       "url": "https://open.spotify.com/track/0FMPAxvToIRKA137icsIZi"
@@ -3554,7 +3554,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 183858,
       "name": "changin'",
       "url": "https://open.spotify.com/track/2Y4MM1A7fKnPdWaqP8yVhK"
@@ -5442,7 +5442,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 193291,
       "name": "Did you hear me think about it (Been on my mind)",
       "url": "https://open.spotify.com/track/3iiAiW4n4pwp8Crk4aH3yq"
@@ -6602,6 +6602,24 @@
       "duration_ms": 167178,
       "name": "endless questions",
       "url": "https://open.spotify.com/track/6K0xzSgP4YOTBL6kZIhuwM"
+    },
+    {
+      "album": {
+        "name": "Endless thoughts of you",
+        "url": "https://open.spotify.com/album/6c8bNEWFHtLcjVXq4MaqDF"
+      },
+      "artists": [
+        {
+          "name": "BORNSTAR",
+          "url": "https://open.spotify.com/artist/0TdTF5zoPQcUfUBnLVfoQG"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142615,
+      "name": "Endless thoughts of you",
+      "url": "https://open.spotify.com/track/70QhKK8wJ5ajT3vnSVK2YB"
     },
     {
       "album": {
@@ -9014,7 +9032,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 283509,
       "name": "head",
       "url": "https://open.spotify.com/track/461LG2Z8SsMOpBkysUC3M8"
@@ -9732,6 +9750,24 @@
       "duration_ms": 241920,
       "name": "Honey Understand",
       "url": "https://open.spotify.com/track/1FnqKOwkmTClK22zr3kWuH"
+    },
+    {
+      "album": {
+        "name": "Honeycrash",
+        "url": "https://open.spotify.com/album/65c74y1vN6hMca1Zs4hkVo"
+      },
+      "artists": [
+        {
+          "name": "SASAMI",
+          "url": "https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188979,
+      "name": "Honeycrash",
+      "url": "https://open.spotify.com/track/49MS1LeGxzcG9LOvpzhAQr"
     },
     {
       "album": {
@@ -10526,7 +10562,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 248428,
       "name": "I'd Hate Me Too",
       "url": "https://open.spotify.com/track/1Rxx5MHJv03Qzt7sZUKGoO"
@@ -11575,6 +11611,24 @@
     },
     {
       "album": {
+        "name": "Lapse",
+        "url": "https://open.spotify.com/album/0yVXpZlLkbX7SimNNFF3v3"
+      },
+      "artists": [
+        {
+          "name": "Idaho",
+          "url": "https://open.spotify.com/artist/5lQ9ygSr6WMqXYsG00nNNY"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212736,
+      "name": "Kamikaze",
+      "url": "https://open.spotify.com/track/2zjA1RGvkCcR1j1raXcQgW"
+    },
+    {
+      "album": {
         "name": "Kato",
         "url": "https://open.spotify.com/album/5u26Oeh7KvSFVkv3BaBusy"
       },
@@ -12458,7 +12512,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 223481,
       "name": "Lindo Lindo",
       "url": "https://open.spotify.com/track/3Hvva8vE6RffJZRozTBJ9r"
@@ -12890,7 +12944,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 242000,
       "name": "lover's spit plays in the background",
       "url": "https://open.spotify.com/track/5S4mmPMYsszspSn1tnLx9E"
@@ -20006,7 +20060,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 250539,
       "name": "The Ransom",
       "url": "https://open.spotify.com/track/3iQcTLzH1Cp6iQjtFWco34"

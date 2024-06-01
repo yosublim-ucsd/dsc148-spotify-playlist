@@ -3031,6 +3031,28 @@
     },
     {
       "album": {
+        "name": "Shimmer (From \"Disney Jr. Music: Ariel\")",
+        "url": "https://open.spotify.com/album/4aHPr4DFKLBTN0CPIHVHFC"
+      },
+      "artists": [
+        {
+          "name": "Ariel - Cast",
+          "url": "https://open.spotify.com/artist/55tVyQMqlv8vuCM8pveXLk"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96083,
+      "name": "Shimmer - From \"Disney Jr. Music: Ariel\"",
+      "url": "https://open.spotify.com/track/1rng6RlsQo2JGwsqMezkRh"
+    },
+    {
+      "album": {
         "name": "Disney Junior Music: Fancy Nancy",
         "url": "https://open.spotify.com/album/1mMKPPInoqT49MtSQYZK5N"
       },

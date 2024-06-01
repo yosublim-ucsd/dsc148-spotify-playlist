@@ -1,12 +1,12 @@
 {
   "description": "This is Finch. The essential tracks, all in one playlist.",
-  "num_followers": 2897,
+  "num_followers": 2902,
   "original_name": "This Is Finch",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlPNAAAAAADVH2YDy2L915/AbcTBaquS",
+  "snapshot_id": "ZlfBgAAAAABC3K3RalQbFYE1DYJqAreL",
   "tracks": [
     {
       "added_at": null,
@@ -123,8 +123,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Feel The Motion",
-        "url": "https://open.spotify.com/album/084sz1LkKQST8ZAji6NJH1"
+        "name": "What It Is To Burn - X",
+        "url": "https://open.spotify.com/album/4ALniGhYDI8jEtn6IGgcae"
       },
       "artists": [
         {
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
         }
       ],
-      "duration_ms": 176757,
-      "name": "Feel The Motion",
-      "url": "https://open.spotify.com/track/0LfvApIKeeoWXaVzpqAmoU"
+      "duration_ms": 225408,
+      "name": "Worms Of The Earth - Live",
+      "url": "https://open.spotify.com/track/63FbVZGQ6pbUnoa6s3oVP7"
     },
     {
       "added_at": null,
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
         }
       ],
-      "duration_ms": 264533,
-      "name": "Insomniatic Meat",
-      "url": "https://open.spotify.com/track/61mGDyF9irzSjSDUwIh5CM"
+      "duration_ms": 279133,
+      "name": "Bitemarks And Bloodstains",
+      "url": "https://open.spotify.com/track/4vojoAgXcYu8NZQpYfaOYD"
     },
     {
       "added_at": null,
@@ -187,8 +187,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "What It Is To Burn - X",
-        "url": "https://open.spotify.com/album/4ALniGhYDI8jEtn6IGgcae"
+        "name": "Brown Acid - The Fifth Trip",
+        "url": "https://open.spotify.com/album/6IvPFgrPyhVO6b14WYsJ3K"
       },
       "artists": [
         {
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
         }
       ],
-      "duration_ms": 225408,
-      "name": "Worms Of The Earth - Live",
-      "url": "https://open.spotify.com/track/63FbVZGQ6pbUnoa6s3oVP7"
+      "duration_ms": 250213,
+      "name": "Nothing In The Sun",
+      "url": "https://open.spotify.com/track/45SlvOkZXPoJBimxJIaHX8"
     },
     {
       "added_at": null,
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
         }
       ],
-      "duration_ms": 279133,
-      "name": "Bitemarks And Bloodstains",
-      "url": "https://open.spotify.com/track/4vojoAgXcYu8NZQpYfaOYD"
+      "duration_ms": 264533,
+      "name": "Insomniatic Meat",
+      "url": "https://open.spotify.com/track/61mGDyF9irzSjSDUwIh5CM"
     },
     {
       "added_at": null,
@@ -251,8 +251,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Brown Acid - The Fifth Trip",
-        "url": "https://open.spotify.com/album/6IvPFgrPyhVO6b14WYsJ3K"
+        "name": "Drive Thru Records Greatest Hits (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2ay5rabzbG767VisgmqY1w"
       },
       "artists": [
         {
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
         }
       ],
-      "duration_ms": 250213,
-      "name": "Nothing In The Sun",
-      "url": "https://open.spotify.com/track/45SlvOkZXPoJBimxJIaHX8"
+      "duration_ms": 157693,
+      "name": "Spanish Fly (Bonus Track)",
+      "url": "https://open.spotify.com/track/45OlksQZ1y4JmFmnIIZJI9"
     },
     {
       "added_at": null,
@@ -315,18 +315,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Drive Thru Records Greatest Hits (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2ay5rabzbG767VisgmqY1w"
+        "name": "Love My Vol.9",
+        "url": "https://open.spotify.com/album/0FKj3jBjNh8GZ0vMIwMwPh"
       },
       "artists": [
+        {
+          "name": "Ralphie",
+          "url": "https://open.spotify.com/artist/2IDvsIFKUFVeRV4mTtKDGz"
+        },
         {
           "name": "Finch",
           "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
         }
       ],
-      "duration_ms": 157693,
-      "name": "Spanish Fly (Bonus Track)",
-      "url": "https://open.spotify.com/track/45OlksQZ1y4JmFmnIIZJI9"
+      "duration_ms": 345600,
+      "name": "Pre World - Main Floor House Mix",
+      "url": "https://open.spotify.com/track/66ZKOcvJDUL2H7BtXv7Xm6"
     },
     {
       "added_at": null,
@@ -375,26 +379,6 @@
       "duration_ms": 218746,
       "name": "Picasso Trigger",
       "url": "https://open.spotify.com/track/3BfMK2bpqF9w4r24FGwzJk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Love My Vol.9",
-        "url": "https://open.spotify.com/album/0FKj3jBjNh8GZ0vMIwMwPh"
-      },
-      "artists": [
-        {
-          "name": "Ralphie",
-          "url": "https://open.spotify.com/artist/2IDvsIFKUFVeRV4mTtKDGz"
-        },
-        {
-          "name": "Finch",
-          "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
-        }
-      ],
-      "duration_ms": 345600,
-      "name": "Pre World - Main Floor House Mix",
-      "url": "https://open.spotify.com/track/66ZKOcvJDUL2H7BtXv7Xm6"
     }
   ],
   "unique_name": "This Is Finch",

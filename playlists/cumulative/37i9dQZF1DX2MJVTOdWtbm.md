@@ -2,7 +2,7 @@
 
 ### [Latin R&B](https://open.spotify.com/playlist/37i9dQZF1DX2MJVTOdWtbm)
 
-> The home of Latin R&B\. La casa del R&B Latino\. Cover: Svarez & Cruz Cafuné
+> The home of Latin R&B\. La casa del R&B Latino\. Cover: VALÉ
 
 417 songs - 21 hr 43 min
 

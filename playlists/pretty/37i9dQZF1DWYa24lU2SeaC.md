@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYa24lU2SeaC.md) - [plain]
 
 > Chantez sur tous vos titres Disney préférés tels que La Reine des neiges, Encanto: la fantastique famille Madrigal, Wish: Asha et la bonne étoile, Vaiana: la légende du bout du monde, Tarzan, Aladdin, Élémentaire, Mulan, Le Roi lion et bien d'autres encore!
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,809 likes - 90 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,983 likes - 90 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYa24lU2SeaC.md) - [plain]
 | 89 | [Heigh\-Ho! \- De "Blanche Neige et les Septs Nains"/Bande Originale Française du Film](https://open.spotify.com/track/2rKmPMazCwiNGAR7RU3vFz) | [Jean\-Claude Donda](https://open.spotify.com/artist/5BhhCbGvQl1PRQQHtFRZbR), [Gérard Rinaldi](https://open.spotify.com/artist/1MBUiD2DMxcJFyooGAgbwY), [Michel Mella](https://open.spotify.com/artist/35fkmjrcGuYbA7sKavl0Kr), [Bernard Alane](https://open.spotify.com/artist/6erIniMquTM6dIgiYbIeeZ), [Jean\-Loup Horwitz](https://open.spotify.com/artist/1CNb9sd2SXhnEq29QRHBkE) | [Blanche Neige et les Septs Nains](https://open.spotify.com/album/0zxZvGCjP1MnLIDiyblWR0) | 2:46 |
 | 90 | [If Only](https://open.spotify.com/track/1mRBJdpIgc3jZH8C3cN2WV) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Descendants \(Original TV Movie Soundtrack\)](https://open.spotify.com/album/6notdj85QIGeqR1zKqT3Oh) | 3:49 |
 
-Snapshot ID: `ZjP6YAAAAABnD/cO0dCTYwm0xO3auMFZ`
+Snapshot ID: `Zlnu2QAAAABn5ckN2Ja+pNJr3i34R9+m`

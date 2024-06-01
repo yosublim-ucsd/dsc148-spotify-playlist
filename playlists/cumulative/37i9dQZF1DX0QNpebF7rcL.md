@@ -4,7 +4,7 @@
 
 > The best in blues right now\. Cover: Toronzo Cannon
 
-381 songs - 1 day 1 hr 33 min
+382 songs - 1 day 1 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -265,6 +265,7 @@
 | [Rooster](https://open.spotify.com/track/28A4wvtJNrfEUJ1OvKadpk) | [JJ Grey & Mofro](https://open.spotify.com/artist/1Jl8u1U1GtBlwocZK5LWZv) | [Rooster](https://open.spotify.com/album/7htHDHnkAKQAJgDMTRhKgM) | 4:51 | 2023-12-01 |  |
 | [Root City](https://open.spotify.com/track/047ghmBqV2962LxO24aUm9) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [Root City](https://open.spotify.com/album/3TnwdCTnQXlR3adEsOLoob) | 2:52 | 2021-04-30 | 2022-02-26 |
 | [Runaway Train](https://open.spotify.com/track/0p0F9JbSXgllWzOAIeje7Y) | [Judith Hill](https://open.spotify.com/artist/04ka9403wgTxmWFMY1PD5t) | [Runaway Train](https://open.spotify.com/album/6TylTdm2xJghIX9o9sBp1Y) | 4:15 | 2023-09-15 |  |
+| [Running Away](https://open.spotify.com/track/6hGu0MWwR53eJbHCAZgWii) | [Julian Taylor](https://open.spotify.com/artist/35k2toFgs8gru6GMPChzo6) | [Running Away](https://open.spotify.com/album/33lwlkjQC8xLyI4W7YgCTI) | 4:54 | 2024-05-31 |  |
 | [Safari](https://open.spotify.com/track/5YuW3UCKDynB2gL9GTp7NS) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [Safari](https://open.spotify.com/album/0LoxXyl0BZ2H4iJBvnzwvW) | 5:48 | 2023-01-13 | 2023-03-11 |
 | [Sand Castles](https://open.spotify.com/track/01aamSYYax8Av0aHdsFkop) | [Rehab](https://open.spotify.com/artist/1qh1aHXy7LRcb7eyriuJTS) | [Sand Castles](https://open.spotify.com/album/2jxO3hbH29uTJiGWx7BOpr) | 3:16 | 2022-02-25 | 2023-12-02 |
 | [Save It For The Next Fool](https://open.spotify.com/track/4U9jHh7OSiDErr0OTW2FzO) | [Coco Montoya](https://open.spotify.com/artist/5nU57S2m2i7gWujCtGKmAb) | [Writing On The Wall](https://open.spotify.com/album/3g8mmWEgsQs1H15zMnxTKX) | 4:19 | 2023-09-01 |  |
@@ -297,7 +298,7 @@
 | [Still The World Goes Round](https://open.spotify.com/track/6NC8TahwAZKURe6EolCBOv) | [Sass Jordan](https://open.spotify.com/artist/5s2RlLSGQMDvvQcv3dYtAB) | [Bitches Blues](https://open.spotify.com/album/1Dm1iro6Z5Hjv6USdF2NXY) | 4:01 | 2022-06-03 |  |
 | [Stones](https://open.spotify.com/track/3WCu21jYrADpRuoPcQ7onA) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Stones](https://open.spotify.com/album/1kcBgQaYOSCO8G2D6Kk8KT) | 3:25 | 2021-12-10 | 2022-02-26 |
 | [Stop Draggin' That Chain Around](https://open.spotify.com/track/2J1fKycjwpQvxJHQMcyOoL) | [John Primer](https://open.spotify.com/artist/1CePnHlc38UfIQovWgyzKP) | [The Real Deal](https://open.spotify.com/album/1aI7k455fkWA6fKq0UrUGV) | 4:14 | 2021-12-10 | 2023-08-19 |
-| [Stranger](https://open.spotify.com/track/2GvrLxJHY2SKitGQueKcj2) | [Edgar Winter](https://open.spotify.com/artist/3UNrI3SG1l2ezKikxQ2zuk), [Michael McDonald](https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy), [Joe Walsh](https://open.spotify.com/artist/5bDxAyJiTYBat1YnFJhvEK), [Ringo Starr](https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8) | [Brother Johnny](https://open.spotify.com/album/4xRZx0cl1NVIG2oDtACbpa) | 4:06 | 2022-04-15 |  |
+| [Stranger](https://open.spotify.com/track/2GvrLxJHY2SKitGQueKcj2) | [Edgar Winter](https://open.spotify.com/artist/3UNrI3SG1l2ezKikxQ2zuk), [Michael McDonald](https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy), [Joe Walsh](https://open.spotify.com/artist/5bDxAyJiTYBat1YnFJhvEK), [Ringo Starr](https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8) | [Brother Johnny](https://open.spotify.com/album/4xRZx0cl1NVIG2oDtACbpa) | 4:06 | 2022-04-15 | 2024-06-01 |
 | [Strong as Steel](https://open.spotify.com/track/2zurVB1sxDSgt2EdGjaICS) | [Janiva Magness](https://open.spotify.com/artist/3igRFmvurYBLvQ4aYliwXg) | [Strong as Steel](https://open.spotify.com/album/0BCEBQ4oMiqVuVqhP9QrbA) | 4:09 | 2022-05-20 |  |
 | [Struggle for Grace](https://open.spotify.com/track/4HmUiFK5bCcKR188c63FIJ) | [Kirk Fletcher](https://open.spotify.com/artist/77wBCkU4gTMCceSWHtWjxq) | [My Blues Pathway](https://open.spotify.com/album/0zCpvm0o4ZWiBPDDW9Laxz) | 5:13 | 2020-12-14 | 2022-02-26 |
 | [Sunshine City](https://open.spotify.com/track/4PpF9xvXBP5kH7IOBPkwBf) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Sunshine City](https://open.spotify.com/album/1MxTTpJSDtNjni0SF5zIMt) | 4:17 | 2021-10-15 | 2022-02-26 |

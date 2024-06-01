@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 
 > The freshest tech house &amp; techno music \| Submit via Instagram: @subshiftmusic
 
-[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 10,404 likes - 47 songs - 2 hr 30 min
+[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 10,458 likes - 48 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Bandit \- Club Mix](https://open.spotify.com/track/6ovzIhWfOcUwYRlobZvJ06) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd) | [Bandit \(Club Mix\)](https://open.spotify.com/album/1edPdWHVtyAiaihO0UvDWS) | 2:59 |
+| 1 | [Bandit \- Club Mix](https://open.spotify.com/track/6ovzIhWfOcUwYRlobZvJ06) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd) | [Bandit \(Club Mix\)](https://open.spotify.com/album/1edPdWHVtyAiaihO0UvDWS) | 2:48 |
 | 2 | [On Again](https://open.spotify.com/track/5vASuVQkngtFoCOczem52V) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [On Again](https://open.spotify.com/album/7nvs25pVNGNgouWAm1Kb86) | 3:48 |
 | 3 | [EYAH \(You'll Be Alright\)](https://open.spotify.com/track/2TE1Pr3iaDJdWvGSfMm3TS) | [Westend](https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu), [Tudor](https://open.spotify.com/artist/6YPmhC6xckfcUiw4undxAb), [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF) | [EYAH \(You'll Be Alright\)](https://open.spotify.com/album/3ZFctsaDV84rcejIEOHhOv) | 2:55 |
 | 4 | [Lemonade](https://open.spotify.com/track/6Jxua6Khy8ULDUl1kk6g4o) | [Deeper Purpose](https://open.spotify.com/artist/10Bo1ofGMWr6hFD7OM7W7r) | [Lemonade](https://open.spotify.com/album/31f0UtcyDi6Q0oJRzQNeKC) | 3:04 |
@@ -55,5 +55,6 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 | 45 | [Bell Hoppa](https://open.spotify.com/track/3ZCgx0fzTZQuGHYdpnTnh7) | [Zack Darza](https://open.spotify.com/artist/1lTlUGVbQ7f7NQ5vHeg6xm) | [Bell Hoppa](https://open.spotify.com/album/0CCMb4oGSFcRlSWgS7TA7M) | 3:19 |
 | 46 | [BK Warehouse](https://open.spotify.com/track/13YV06ESsCZe2DRTyohV9p) | [Kamino](https://open.spotify.com/artist/6XYhu7HPIJ47SY98bY1Hnx), [TyriqueOrDie](https://open.spotify.com/artist/6IyH7Och2DBHZAEBH9t9dE) | [BK Warehouse](https://open.spotify.com/album/7rNF5GNRVxJHslSHcSBhmd) | 3:26 |
 | 47 | [It's Strange](https://open.spotify.com/track/0V3ssu48VOqr1WwkPOD4Yt) | [Azzecca](https://open.spotify.com/artist/2k5DY2QDU3kBi5DX7OQlWj) | [It’s Strange](https://open.spotify.com/album/4PdIH020EAwcbah7q92WsG) | 3:32 |
+| 48 | [Forbidden Fantasy](https://open.spotify.com/track/6cx9nqGCcaBVYh3hIJ5xrB) | [Becking](https://open.spotify.com/artist/70M2AZExSkmV2udJPl3RcU), [ON\_1](https://open.spotify.com/artist/1yga9Ci8sD6gpO5Vf1AN86), [Silver Nova](https://open.spotify.com/artist/4XwPIngUXeKAjEWx6YJqW3) | [Forbidden Fantasy](https://open.spotify.com/album/5f8FjvRBF4GNmaH1Cdmghk) | 5:54 |
 
-Snapshot ID: `AAAiNtGUJPJ0PMNYwjsgS1vmIBGrudOe`
+Snapshot ID: `AAAiN96WHIu2DHpw7SuJotSx13JzMKfa`

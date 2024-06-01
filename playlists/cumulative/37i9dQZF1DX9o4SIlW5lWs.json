@@ -718,7 +718,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 206346,
       "name": "Boquita de Caramelo",
       "url": "https://open.spotify.com/track/1BQ0w7Dhgo9BeUeq0zfM1a"
@@ -1096,6 +1096,28 @@
       "duration_ms": 167026,
       "name": "Como una Pelota",
       "url": "https://open.spotify.com/track/0breWXQSP2vFZw2VQHeSnH"
+    },
+    {
+      "album": {
+        "name": "Como yo Nadie te ha Amado",
+        "url": "https://open.spotify.com/album/6eZ7rMGllsjKgdssljPHXL"
+      },
+      "artists": [
+        {
+          "name": "Daniel Cardozo",
+          "url": "https://open.spotify.com/artist/3Mr0TsHv8DUbDBMEFW2L9T"
+        },
+        {
+          "name": "Juli\u00e1n Bruno",
+          "url": "https://open.spotify.com/artist/4GiUBU5qC374SE66G2wYY2"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168012,
+      "name": "Como yo Nadie te ha Amado",
+      "url": "https://open.spotify.com/track/7de5MsRdGAMPTFigekSonr"
     },
     {
       "album": {
@@ -3142,7 +3164,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 199268,
       "name": "Hoy Quiero Verte",
       "url": "https://open.spotify.com/track/6KejUDGAYcKwvs0EXkQLxg"
@@ -3737,6 +3759,28 @@
     },
     {
       "album": {
+        "name": "Luna Dile",
+        "url": "https://open.spotify.com/album/5dKURWrnl3ZQEzDRCZto2X"
+      },
+      "artists": [
+        {
+          "name": "Sound De Barrio",
+          "url": "https://open.spotify.com/artist/6jz0DkcaOtGlaNOA67rzIU"
+        },
+        {
+          "name": "Magoman",
+          "url": "https://open.spotify.com/artist/17SbOgrrSKZHSTi3zEDNWc"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Luna Dile",
+      "url": "https://open.spotify.com/track/4agfq1JqDmRz2V4IeEutab"
+    },
+    {
+      "album": {
         "name": "Luz Sin Gravedad",
         "url": "https://open.spotify.com/album/1O06nulAGaUblPmn1z4GsJ"
       },
@@ -4002,7 +4046,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 197775,
       "name": "Me Va Mejor Con el Alcohol",
       "url": "https://open.spotify.com/track/7oVzsPGAInbnmnATWtOm37"
@@ -5670,6 +5714,28 @@
       "duration_ms": 219093,
       "name": "Quitame Ese Hombre",
       "url": "https://open.spotify.com/track/6laZGHZ4p75Vb1DAJ1DE9D"
+    },
+    {
+      "album": {
+        "name": "Quizas",
+        "url": "https://open.spotify.com/album/4TOG0O4lhvuQmDIDPQmktD"
+      },
+      "artists": [
+        {
+          "name": "Damas Gratis",
+          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
+        },
+        {
+          "name": "Camila Mercado",
+          "url": "https://open.spotify.com/artist/7IFvVz7KWte5biHbFmIJfl"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249712,
+      "name": "Quizas",
+      "url": "https://open.spotify.com/track/04CHU4rx7T5zznuwAlMeRz"
     },
     {
       "album": {

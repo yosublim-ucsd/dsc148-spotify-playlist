@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Chillout to the coolest Korean folk/acoustic tunes. (Cover:\bDarin(\ub2e4\ub9b0)) \uac10\ubbf8\ub86d\uace0 \ubd80\ub4dc\ub7ec\uc6b4 \ud55c\uad6d \ud3ec\ud06c/\uc5b4\ucfe0\uc2a4\ud2f1 \uc74c\uc545\uacfc \ud568\uaed8\ud558\uc138\uc694.",
+  "description": "Chillout to the coolest Korean folk/acoustic tunes. (Cover:\bJeon Jin Hee(\uc804\uc9c4\ud76c)) \uac10\ubbf8\ub86d\uace0 \ubd80\ub4dc\ub7ec\uc6b4 \ud55c\uad6d \ud3ec\ud06c/\uc5b4\ucfe0\uc2a4\ud2f1 \uc74c\uc545\uacfc \ud568\uaed8\ud558\uc138\uc694.",
   "name": "K-Folk/Acoustic",
   "tracks": [
     {
@@ -2126,7 +2126,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 241859,
       "name": "First Confession",
       "url": "https://open.spotify.com/track/449Oc8OI6gPZo8FFuCEYO2"
@@ -3910,6 +3910,24 @@
       "duration_ms": 218000,
       "name": "Just thinking about you",
       "url": "https://open.spotify.com/track/1ew4EemwjPuSsCuj1ezEfB"
+    },
+    {
+      "album": {
+        "name": "Just two like friends (Come travel with me, Mom? X Kwak Jin Eon) (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3UKYmcy742I9QAZ8aC9XY4"
+      },
+      "artists": [
+        {
+          "name": "Kwak Jin Eon",
+          "url": "https://open.spotify.com/artist/4xQ4GjBomHvTRL1GO624zd"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292613,
+      "name": "Just two like friends (Come travel with me, Mom? X Kwak Jin Eon) (Original Soundtrack)",
+      "url": "https://open.spotify.com/track/0Rw01MTWw2086rLqNLwxG2"
     },
     {
       "album": {
@@ -5793,6 +5811,24 @@
     },
     {
       "album": {
+        "name": "RAINING",
+        "url": "https://open.spotify.com/album/23E6A6rqAHwel3ug39DwQx"
+      },
+      "artists": [
+        {
+          "name": "Jeon Jin Hee",
+          "url": "https://open.spotify.com/artist/7MnWezV00qoqnc9aeG0gxg"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280507,
+      "name": "RAINING",
+      "url": "https://open.spotify.com/track/423tVeKOEyAnYZoUg6mAwG"
+    },
+    {
+      "album": {
         "name": "Rewind : Blossom Side A",
         "url": "https://open.spotify.com/album/4YZ9E6yT1aAJguVIi8KBN8"
       },
@@ -6668,7 +6704,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 257471,
       "name": "STAR",
       "url": "https://open.spotify.com/track/0DZ2mMWPkgDwWBnH6gtsQW"

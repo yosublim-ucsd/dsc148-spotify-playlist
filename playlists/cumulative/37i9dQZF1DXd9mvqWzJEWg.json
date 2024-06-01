@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "It's not just about the music, it's about the culture. Cover: \n<a href=\"https://open.spotify.com/artist/3G1GDW2fFw536QyuZODfch?si=NGWTyGHRSlik5iXPsgF0QQ\">Lelowhatsgood</a>",
+  "description": "It's not just about the music, it's about the culture. Cover: \n<a href=\"https://open.spotify.com/artist/4kF0844GqqOkj7bvFTlW6E?si=sX1T3GUtRo-m_D9FuXmljA\">Surreal Sessions</a>",
   "name": "GQOM Power House",
   "tracks": [
     {
@@ -739,6 +739,28 @@
     },
     {
       "album": {
+        "name": "Dhalsim (Rotterdam Sghubu)",
+        "url": "https://open.spotify.com/album/2UDpvZmJo0igItcpOjNGAg"
+      },
+      "artists": [
+        {
+          "name": "Surreal Sessions",
+          "url": "https://open.spotify.com/artist/4kF0844GqqOkj7bvFTlW6E"
+        },
+        {
+          "name": "De Schuurman",
+          "url": "https://open.spotify.com/artist/4PiQEwBGt6N4Hlblsia5N4"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273447,
+      "name": "Dhalsim - Rotterdam Sghubu",
+      "url": "https://open.spotify.com/track/1UCzeMyAYC0FPxqHQi2znV"
+    },
+    {
+      "album": {
         "name": "Green Light",
         "url": "https://open.spotify.com/album/6wc5kA4Opm6zkyoSAXjQTt"
       },
@@ -1008,7 +1030,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 371200,
       "name": "Frequency 99",
       "url": "https://open.spotify.com/track/1aSaZw4Kq4rn19t5ddeTxP"
@@ -1216,7 +1238,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 339083,
       "name": "Home Coming",
       "url": "https://open.spotify.com/track/6iBdg8inuT94xLgvlUIisb"
@@ -1344,7 +1366,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 334493,
       "name": "Imali",
       "url": "https://open.spotify.com/track/4u0RKHQuHzEiXySDbRYy1B"
@@ -1488,7 +1510,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 333877,
       "name": "iNumber Number",
       "url": "https://open.spotify.com/track/7wcy1BbA5JtRyV3wleeNIX"
@@ -2432,7 +2454,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 326754,
       "name": "Nsimbi",
       "url": "https://open.spotify.com/track/17bC5ZzVgHLuQwo3n16AjL"
@@ -3197,6 +3219,24 @@
     },
     {
       "album": {
+        "name": "Skuta",
+        "url": "https://open.spotify.com/album/6ezXzucGsajEXUumeFVWDL"
+      },
+      "artists": [
+        {
+          "name": "Vanger Boyz",
+          "url": "https://open.spotify.com/artist/5vj6LEVQMJqSLVHBTIyVOx"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336535,
+      "name": "Skuta",
+      "url": "https://open.spotify.com/track/1dKFNGAVWW8DpYX6sqqjox"
+    },
+    {
+      "album": {
         "name": "Meeting With The King",
         "url": "https://open.spotify.com/album/66ZkSQI3roUFYVDYy5kp9e"
       },
@@ -3327,6 +3367,28 @@
     },
     {
       "album": {
+        "name": "The End Is Near EP",
+        "url": "https://open.spotify.com/album/6h5FFPtEfRIrkzG3lujb6J"
+      },
+      "artists": [
+        {
+          "name": "Wes Lee",
+          "url": "https://open.spotify.com/artist/5jX2NDv1nyXv0FCEP3gqwR"
+        },
+        {
+          "name": "Omagoqa",
+          "url": "https://open.spotify.com/artist/4caV3BYVSNygGiFFOvQgUy"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254210,
+      "name": "Susa",
+      "url": "https://open.spotify.com/track/1zLkx0V1cSpQWM9AvEbfGh"
+    },
+    {
+      "album": {
         "name": "Road Trip",
         "url": "https://open.spotify.com/album/5AzXeukxvO8Wb1vMMY4v58"
       },
@@ -3386,7 +3448,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 317862,
       "name": "The Howl",
       "url": "https://open.spotify.com/track/3gKptquYKagXYsHqI0tVOj"
@@ -3434,7 +3496,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 341106,
       "name": "This is Too Much",
       "url": "https://open.spotify.com/track/30qRb82NJDdYyTm5xucjqC"

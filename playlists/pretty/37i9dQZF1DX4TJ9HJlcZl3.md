@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TJ9HJlcZl3.md) - [plain]
 
 > Still yachting\. Cover: Yacht Rock Revue
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,221 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,517 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Tropical Illusion](https://open.spotify.com/track/0ox6C5vyLLOY7o6tkv04X6) | [Yacht Rock Revue](https://open.spotify.com/artist/5vJbbFDnRQql9BtSgR9vZH) | [Tropical Illusion / Passengers](https://open.spotify.com/album/5heyrwO90ALCOD40rQOKAy) | 3:47 |
 | 2 | [Way Back](https://open.spotify.com/track/4uSf06Z9BYP2v85OcCaGho) | [John Splithoff](https://open.spotify.com/artist/7A2x4Urpc4VKF1pb7qnNqD) | [Way Back](https://open.spotify.com/album/7BEQqff2dgbMVD9eIiLBJu) | 3:39 |
-| 3 | [Guy I Used To Be](https://open.spotify.com/track/4dmNWxKKw0Me0uzgE7WIGT) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) | [Guy I Used To Be](https://open.spotify.com/album/4clPOxIV3bm5XheafZ24b7) | 3:48 |
+| 3 | [Guy I Used To Be](https://open.spotify.com/track/4dmNWxKKw0Me0uzgE7WIGT) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) | [Guy I Used To Be](https://open.spotify.com/album/4clPOxIV3bm5XheafZ24b7) | 3:47 |
 | 4 | [Cheeky](https://open.spotify.com/track/5L3KNSPWZmL9DLyP1pdXBT) | [Albert Posis](https://open.spotify.com/artist/4bNOdxc26omK0xR7FPucJn), [Patrick Hizon](https://open.spotify.com/artist/7sH3l8uRghf9V149Gnu63X) | [Cheeky](https://open.spotify.com/album/25CyID8DgntGUEhcfK4kUk) | 2:39 |
 | 5 | [San Francisco Street](https://open.spotify.com/track/5pjWzUc1tVcewUTdDJd6Ce) | [Sun Rai](https://open.spotify.com/artist/6UOV42aOSJ5YrbYzLIfLwr) | [Pocket Music](https://open.spotify.com/album/5Y7du83uUhCUXobupkRCjN) | 4:26 |
 | 6 | [Peach Optimo](https://open.spotify.com/track/3RNLKLJyNYLh9t6ojhxN7B) | [Brainstory](https://open.spotify.com/artist/0EqBE2VOwsHgSOrjsQCs5j) | [Peach Optimo](https://open.spotify.com/album/3Thk2OpOq4xLIg3Qmetarj) | 2:50 |

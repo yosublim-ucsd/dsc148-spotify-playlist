@@ -4,7 +4,7 @@
 
 > Soft instrumental lullabies for the little ones.
 
-1,000 songs - 1 day 5 hr 37 min
+1,004 songs - 1 day 5 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -231,6 +231,7 @@
 | [Dreamland's Song](https://open.spotify.com/track/6ruIhWb5MUGmahxV1fa4wY) | [Becca Lopez](https://open.spotify.com/artist/2mRiC2nopm5eEUJASCovKj) | [Dreamland's Song](https://open.spotify.com/album/6jKdF5s4iemCCfwaGA1AT5) | 1:31 | 2023-08-10 |  |
 | [Dreams Of Roses](https://open.spotify.com/track/1o8xy2ywk1uUCLLa3igv5r) | [Natalie Park](https://open.spotify.com/artist/5xBhqnVsDaIWI16jfjV8An) | [Dreams Of Roses](https://open.spotify.com/album/6EjIX0f3QPUZpHRWKWZMBS) | 1:35 | 2021-11-08 | 2022-09-24 |
 | [Dreams Of Spring](https://open.spotify.com/track/3XJXBc9hvWrN5E9h36jO6l) | [Karen Elf](https://open.spotify.com/artist/5RWEVr9QGQJrCXyVxMJD48) | [Softly Spoken](https://open.spotify.com/album/2GCwj6sVXuuYXUsuEe6XQ4) | 3:53 | 2021-11-08 | 2022-10-29 |
+| [Dreams Of The Night](https://open.spotify.com/track/0zdhDS1mIBjxOh2p7DB9Tb) | [Isaac Tira](https://open.spotify.com/artist/36itJVdaUkayBbmezbbDo7) | [Dreams Of The Night](https://open.spotify.com/album/2PDHAugy1c8jSLLxwWHTQz) | 2:03 | 2024-05-31 |  |
 | [Dreams of Us](https://open.spotify.com/track/20Fpq9gEh0oOPNapG27Ihv) | [Blossom Fischer](https://open.spotify.com/artist/54aAZVUQRxUU4thvslyFjz) | [Dreams of Us](https://open.spotify.com/album/7vtj7hTrxhTMYOB9KV3u6w) | 1:52 | 2023-03-17 |  |
 | [Dreamscape](https://open.spotify.com/track/3xr80E2YijvMBXXZVk3Xds) | [Vera Boye](https://open.spotify.com/artist/0N60MVY1TWov2PjfpcDNH1) | [Dreamscape](https://open.spotify.com/album/0zajkqibzIYQI3N00afUr2) | 2:12 | 2023-02-17 | 2024-05-04 |
 | [Dreamswing](https://open.spotify.com/track/44xSmkzDCWN8oJxrCB8pCM) | [Vincent Lundborg](https://open.spotify.com/artist/30nuHxknx89pxWn3jaKp5A) | [Dreamswing](https://open.spotify.com/album/7BDShI8oQkJ6J8Sdq266qp) | 1:58 | 2024-01-05 |  |
@@ -556,6 +557,7 @@
 | [Mother's Lullaby](https://open.spotify.com/track/24wJorV1SF4AfPPCI7k97q) | [Rodge Osbourne](https://open.spotify.com/artist/5gNid2jy8JT7GFkyxMjIBz) | [Mother's Lullaby](https://open.spotify.com/album/0xb3MeTSfQUc55BVLDXhoi) | 1:03 | 2023-02-17 |  |
 | [Mother's Waltz](https://open.spotify.com/track/7186LEkov9fIXeZlJwP8Nj) | [Theodor Ros](https://open.spotify.com/artist/1Jx5dszOj8eO3NpRI0K59S) | [Mother's Waltz](https://open.spotify.com/album/1n9x0IjxN4hWtOqtp19HLZ) | 1:55 | 2021-11-08 | 2023-01-27 |
 | [Mozart's Lullaby](https://open.spotify.com/track/4XHfiySp1vcvnJHx8TDI97) | [Jenn Higgins](https://open.spotify.com/artist/1osOMrNNhLsHInJWbS6ejR) | [Mozart's Lullaby](https://open.spotify.com/album/5h1gmYwV2i7fY5dCaAv1h8) | 2:45 | 2024-04-05 |  |
+| [Mr Cucumber](https://open.spotify.com/track/4jMUeelEdgsEm0XKUzpR41) | [Ani Ander](https://open.spotify.com/artist/4tgweMpFuTmUl1mXLTgb4W) | [Mr Cucumber](https://open.spotify.com/album/5jz367s391OH7mFctHuY0M) | 2:35 | 2024-05-31 |  |
 | [Mr\. Cat](https://open.spotify.com/track/4eIZdb7KkPKcXhmWimNTE1) | [Jesse Birkman](https://open.spotify.com/artist/5TJ2Xx7poTZRmfEWmsZZhH) | [Mr\. Cat](https://open.spotify.com/album/2wzOOWuEcaYrpkLQWX3bMy) | 2:00 | 2021-11-08 | 2024-04-05 |
 | [Mrs Frog's Daydream](https://open.spotify.com/track/3QnjauHkZ71ZupNKuSGcxC) | [Francine Reveur](https://open.spotify.com/artist/2Cy1U663G5b7w3j3CUNgiQ) | [Mrs Frog's Daydream](https://open.spotify.com/album/2iZtihUu4yn7SvXotNqxHr) | 1:42 | 2023-04-07 |  |
 | [Music Box Lullaby](https://open.spotify.com/track/5HbV5B2J1KUMz12alitSOs) | [Etne Skiöld](https://open.spotify.com/artist/2hBTCIkNqbHQYTDIhxDfJD) | [Music Box Lullaby](https://open.spotify.com/album/37hUsmquAJn11X32hNKQ0N) | 1:25 | 2024-03-01 |  |
@@ -824,6 +826,7 @@
 | [Take Me Out to the Ballgame](https://open.spotify.com/track/7zg3AH81GeAQWov5dNLTtI) | [The Sleepy Guitar](https://open.spotify.com/artist/3Dyk5VGJ21XhhypsaeMjYO) | [Guitar Lullabies](https://open.spotify.com/album/3kZzS9BJtaRcshaIa1wqwr) | 2:17 | 2021-11-08 | 2023-01-06 |
 | [Takk for i dag](https://open.spotify.com/track/3HER5Z79EqP5jrbAhnpFRm) | [Love Haugen](https://open.spotify.com/artist/4NsGWqS4NvkK8fWRW3d6GL) | [Takk for i dag](https://open.spotify.com/album/2gg0y9rLtLg3JHAHMA2Q1v) | 1:23 | 2022-10-28 | 2023-06-03 |
 | [Teddy Bear](https://open.spotify.com/track/5VZ6CpuKkrgVfQ65i2963o) | [Rennie Stoltz](https://open.spotify.com/artist/0rQJK4fjWXU3Rk9Oee6GQc) | [Teddy Bear](https://open.spotify.com/album/1LVv9eTEFERZ7aN28air3G) | 1:39 | 2023-08-10 |  |
+| [Teddys Dream](https://open.spotify.com/track/4yAXm981wdQVYAynH6zMZD) | [Jana Smith](https://open.spotify.com/artist/5FzBu7hUNL3F2cA92hqfBp) | [Teddys Dream](https://open.spotify.com/album/3DY60qm4d2xbrS8c3wrZzA) | 1:19 | 2024-05-31 |  |
 | [Teeny Tiny Baby Birds](https://open.spotify.com/track/6DRSLmkTqHGodtNfRUQmiu) | [Jasper Sylvaire](https://open.spotify.com/artist/0ni1Eptecat3ntWCUmvSBC) | [Teeny Tiny Baby Birds](https://open.spotify.com/album/6y0oN1tnfkvaq7gp5Sm9bL) | 1:27 | 2024-01-19 |  |
 | [Teeny Tiny Fortress](https://open.spotify.com/track/1sYRJMBcaS5TIfelrS4MXE) | [Laila Walton](https://open.spotify.com/artist/6JuIEojmY6muknH6pXp4ZR) | [Teeny Tiny Fortress](https://open.spotify.com/album/3IMKliBe95wlMROqgquHC3) | 1:27 | 2022-10-07 | 2023-03-18 |
 | [Tenderness](https://open.spotify.com/track/33L2dpLJ77q2QoSAlFYEfy) | [Mamiko Amano](https://open.spotify.com/artist/0enAr4QKvIM9RwSI075C58) | [Tenderness](https://open.spotify.com/album/59m1u1lvpLt392J2EqP6sF) | 1:59 | 2022-08-11 | 2024-04-05 |
@@ -889,6 +892,7 @@
 | [Three Jolly Fishermen](https://open.spotify.com/track/43F86Pd7zjLtyPx3pxD02P) | [Kim Savege](https://open.spotify.com/artist/2UdEGunC9lK2FrpV4Rf1gZ) | [Three Jolly Fishermen](https://open.spotify.com/album/52LqGrg4oRQmr6skk5RIuV) | 1:18 | 2024-02-09 |  |
 | [Three little cats](https://open.spotify.com/track/4U8Wd1xF2vwZjc8p6XQnyy) | [Tony Delvin](https://open.spotify.com/artist/2PeMIKslHDxZGDTOlOoCIh) | [Three little cats](https://open.spotify.com/album/1TkptoHSTe9vrQyiZLBSjR) | 1:25 | 2024-03-22 |  |
 | [Three Little Foxes](https://open.spotify.com/track/7B3obFgv2Rw688A1nusXik) | [Laurel Hoh](https://open.spotify.com/artist/08SzjkwPk23BWqKL6LMHMj) | [Three Little Foxes](https://open.spotify.com/album/6p67dI1tgVy6xAGpvvkxfb) | 1:53 | 2023-05-12 |  |
+| [Thula Sana](https://open.spotify.com/track/6TXKYktrM8ntxG7UAlqoIO) | [Hampus I Backen](https://open.spotify.com/artist/7eh8uR2SdD0SSgIMaNOAHT) | [Thula Sana](https://open.spotify.com/album/2d6Nq5Jmw8JFAZnwtnKQDG) | 2:43 | 2024-05-31 |  |
 | [Tickle Monster](https://open.spotify.com/track/2TrJ2NAlb0JvrTC6mfNUFX) | [Shannon Brodeur](https://open.spotify.com/artist/2sSHvINyUf6iYNWr1ZCau0) | [Tickle Monster](https://open.spotify.com/album/6Mn5rAB0StSw1NjEoMBgDT) | 1:27 | 2021-11-08 | 2023-03-18 |
 | [Time To Go To Bed](https://open.spotify.com/track/20i09L7h245MkOJbcu00PC) | [Cecilia Ness](https://open.spotify.com/artist/6FJsBO9iw7CuXvNkLh73o2) | [Time To Go To Bed](https://open.spotify.com/album/5Q2H9KiBUMh4yRRUMncYVg) | 1:03 | 2021-11-08 | 2022-10-29 |
 | [Time to say good night](https://open.spotify.com/track/2qYL484kH1dSW80lw0IfqC) | [Myrna Maguire](https://open.spotify.com/artist/0Hfs99lRGuzu8SRwQ0qWrB) | [Time to say good night](https://open.spotify.com/album/0W7CtKDGmjiOCUi4xlqWBj) | 2:21 | 2021-11-08 | 2024-04-05 |

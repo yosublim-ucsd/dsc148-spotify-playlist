@@ -1,13 +1,29 @@
 {
   "description": "The best in blues right now. Cover: Toronzo Cannon",
-  "num_followers": 57023,
+  "num_followers": 57146,
   "original_name": "Got Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlAQwAAAAAB2Zk066poHhyC3KOfrIQbe",
+  "snapshot_id": "ZllLQAAAAAAQw2byDZKozWrZU8Lq6klv",
   "tracks": [
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "Running Away",
+        "url": "https://open.spotify.com/album/33lwlkjQC8xLyI4W7YgCTI"
+      },
+      "artists": [
+        {
+          "name": "Julian Taylor",
+          "url": "https://open.spotify.com/artist/35k2toFgs8gru6GMPChzo6"
+        }
+      ],
+      "duration_ms": 294960,
+      "name": "Running Away",
+      "url": "https://open.spotify.com/track/6hGu0MWwR53eJbHCAZgWii"
+    },
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
@@ -1695,34 +1711,6 @@
       "duration_ms": 155336,
       "name": "Stagger Lee",
       "url": "https://open.spotify.com/track/64H0CzxFjc1Dz3F3E1oWi5"
-    },
-    {
-      "added_at": "2022-04-15 04:02:00",
-      "album": {
-        "name": "Brother Johnny",
-        "url": "https://open.spotify.com/album/4xRZx0cl1NVIG2oDtACbpa"
-      },
-      "artists": [
-        {
-          "name": "Edgar Winter",
-          "url": "https://open.spotify.com/artist/3UNrI3SG1l2ezKikxQ2zuk"
-        },
-        {
-          "name": "Michael McDonald",
-          "url": "https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy"
-        },
-        {
-          "name": "Joe Walsh",
-          "url": "https://open.spotify.com/artist/5bDxAyJiTYBat1YnFJhvEK"
-        },
-        {
-          "name": "Ringo Starr",
-          "url": "https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8"
-        }
-      ],
-      "duration_ms": 246826,
-      "name": "Stranger",
-      "url": "https://open.spotify.com/track/2GvrLxJHY2SKitGQueKcj2"
     },
     {
       "added_at": "2022-04-05 19:11:05",

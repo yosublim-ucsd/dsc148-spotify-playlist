@@ -4,7 +4,7 @@
 
 > Dendang Dangdut teratas\. Cover: Abi Rafdi
 
-174 songs - 13 hr 32 min
+175 songs - 13 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Bahagia Pada Waktunya](https://open.spotify.com/track/4VdPv2wNafmltiIUQ2Ozju) | [Aldo Jm](https://open.spotify.com/artist/5xSJF52xAPQzfWiueorurd), [Rara Salsabila](https://open.spotify.com/artist/1GBLYFM6sriYtTwtd4s4Ls) | [Bahagia Pada Waktunya](https://open.spotify.com/album/5CAgKCqYH22qUh3q1G7ITV) | 5:49 | 2023-08-03 |  |
 | [Balungan Kere](https://open.spotify.com/track/7kmkGZEE6KSciuxQYDcKTV) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [PUSAKARYA](https://open.spotify.com/album/3bFsqB0xYs8nAkcw2R1vwq) | 5:07 | 2021-08-23 | 2022-10-14 |
 | [Benci Kusangka Sayang \- \(Live Ska Reggae\)](https://open.spotify.com/track/2VMIERDmzhzJzs85OzeE1H) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Benci Kusangka Sayang \(Live Ska Reggae\)](https://open.spotify.com/album/6ZLsFmsuXMaBeDp7PJXMHE) | 5:32 | 2024-04-18 |  |
+| [Berkali Kali](https://open.spotify.com/track/7IdldNjrbzAkIqbNTxdIkG) | [Selfi Yamma](https://open.spotify.com/artist/6EnWjs5UyF9P3HMs9vhL2p) | [Berkali Kali](https://open.spotify.com/album/50SA5Tv7HcZFazNSX4EANu) | 6:27 | 2024-05-30 |  |
 | [Bersama Bukan Maumu \- Live At Ska Reggae](https://open.spotify.com/track/6hi2tlD0MUqJARWtlv2863) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Bersama Bukan Maumu \(Live At Ska Reggae\)](https://open.spotify.com/album/1iWujizBKnwUWwSyojZIzJ) | 4:59 | 2023-12-14 | 2024-03-15 |
 | [Bertauhid](https://open.spotify.com/track/2pQ6I2NzRL0dsGc3D5Im5F) | [Sridevi DA5](https://open.spotify.com/artist/7KM65RnfkPrC4zzLoKuQ0s), [Eby DA5](https://open.spotify.com/artist/3di1pESdZfMHYO406ck1oy), [Afan DA5](https://open.spotify.com/artist/60jQVcXcjnlcFmXPkHEbfB) | [Bertauhid](https://open.spotify.com/album/70GKblOZsbv191FHhGOHsk) | 3:17 | 2023-03-13 |  |
 | [Bertepuk Sebelah Tangan](https://open.spotify.com/track/76IJq5eOqctxtHGyuEwF5Y) | [Gamma1](https://open.spotify.com/artist/4c4TlVWGSvRk1mBfZdYsnX), [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Bertepuk Sebelah Tangan](https://open.spotify.com/album/5A02IkD5iJF61AkW368oHI) | 3:14 | 2021-08-23 | 2023-06-30 |

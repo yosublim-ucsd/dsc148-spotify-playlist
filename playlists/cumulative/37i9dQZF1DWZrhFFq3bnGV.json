@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-09",
-  "description": "Terbuai dengan musik Jazz dari negeri sendiri. Cover: dillasarah",
+  "description": "Terbuai dengan musik Jazz dari negeri sendiri. Cover: Natasya Elvira",
   "name": "Jazz Anak Negeri",
   "tracks": [
     {
@@ -402,7 +402,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 176368,
       "name": "Asawari",
       "url": "https://open.spotify.com/track/6HWga9JFQbfbUA14FbIQ1l"
@@ -490,7 +490,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 262976,
       "name": "Bankai",
       "url": "https://open.spotify.com/track/2zccWGvXDgSNfM2h0VnR5m"
@@ -1610,7 +1610,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 213433,
       "name": "House of Blues",
       "url": "https://open.spotify.com/track/1jtwwarLqjm7wZk5FaGUYX"
@@ -2147,6 +2147,28 @@
     },
     {
       "album": {
+        "name": "Life Is Good",
+        "url": "https://open.spotify.com/album/31UgRFCQms3Oqtr2UTi8HB"
+      },
+      "artists": [
+        {
+          "name": "Jordy Waelauruw",
+          "url": "https://open.spotify.com/artist/3oECPG2Aqe2bo0LrcSJQ0H"
+        },
+        {
+          "name": "Tricia Anggoman",
+          "url": "https://open.spotify.com/artist/0ddcmx5t9oz2G6B4xPvCIC"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264523,
+      "name": "Life Is Good",
+      "url": "https://open.spotify.com/track/0G7ZgoA6iHgwdIAx8fv0Qb"
+    },
+    {
+      "album": {
         "name": "Bloomingtale",
         "url": "https://open.spotify.com/album/3DWiN5mfUN65FX3UJ4M4v3"
       },
@@ -2544,6 +2566,24 @@
       "duration_ms": 282062,
       "name": "Never Asked For",
       "url": "https://open.spotify.com/track/09VyrDoKfZPyihWVobpqIh"
+    },
+    {
+      "album": {
+        "name": "Cherish in Samba",
+        "url": "https://open.spotify.com/album/4NsGUUs73KDI5ugeFyppzQ"
+      },
+      "artists": [
+        {
+          "name": "Cresensia Naibaho",
+          "url": "https://open.spotify.com/artist/2F0SWxOlxawQl2DiguXpCm"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183082,
+      "name": "Noodle",
+      "url": "https://open.spotify.com/track/0skPOaR1KzICWLqhzTJoOA"
     },
     {
       "album": {
@@ -3079,6 +3119,28 @@
     },
     {
       "album": {
+        "name": "Sembilan",
+        "url": "https://open.spotify.com/album/38iZSG6AUGr2zqvAPC7za6"
+      },
+      "artists": [
+        {
+          "name": "Natasya Elvira",
+          "url": "https://open.spotify.com/artist/6lNWlJEtPCkkWE6P17fUIw"
+        },
+        {
+          "name": "Societeit de Harmonie",
+          "url": "https://open.spotify.com/artist/1KH1jCwChcxJG9GKUUfCt9"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173289,
+      "name": "Sembilan",
+      "url": "https://open.spotify.com/track/2h53cB2OyARIKR0QcY5VE4"
+    },
+    {
+      "album": {
         "name": "Senandung Saja",
         "url": "https://open.spotify.com/album/0Hgko728r60VRnLaOoJfIh"
       },
@@ -3170,6 +3232,28 @@
       "duration_ms": 234000,
       "name": "Seumpama",
       "url": "https://open.spotify.com/track/0IXgRbsg9XkWlTB0L9UbUI"
+    },
+    {
+      "album": {
+        "name": "Sign of Love",
+        "url": "https://open.spotify.com/album/2HNChhmOY2HldqTW1lwh2g"
+      },
+      "artists": [
+        {
+          "name": "Barry Likumahuwa",
+          "url": "https://open.spotify.com/artist/2AdFUyPR5XxpgOI6QYfVDz"
+        },
+        {
+          "name": "The Rhythm Service",
+          "url": "https://open.spotify.com/artist/4E9QPvg1uafJ5yak7f5019"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204900,
+      "name": "Sign of Love",
+      "url": "https://open.spotify.com/track/6e2VzhU88re1jusfK8UeHp"
     },
     {
       "album": {
@@ -3672,6 +3756,28 @@
       "duration_ms": 197701,
       "name": "Waktuku Hampa",
       "url": "https://open.spotify.com/track/38JbxxHkbG6DXOpygjIxpK"
+    },
+    {
+      "album": {
+        "name": "Wanna Do",
+        "url": "https://open.spotify.com/album/09xopQN6jbRdCZdgywTJ10"
+      },
+      "artists": [
+        {
+          "name": "Jordy Waelauruw",
+          "url": "https://open.spotify.com/artist/3oECPG2Aqe2bo0LrcSJQ0H"
+        },
+        {
+          "name": "Farrel Hilal",
+          "url": "https://open.spotify.com/artist/1J8zqQ7mkAaYY9jDBwu0Np"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197219,
+      "name": "Wanna Do",
+      "url": "https://open.spotify.com/track/5orukLs2BbGTNROGzqviF1"
     },
     {
       "album": {

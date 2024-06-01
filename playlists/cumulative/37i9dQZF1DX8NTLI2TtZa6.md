@@ -4,7 +4,7 @@
 
 > Get\. It\. Done\. Focus\-enhancing piano music to keep you motivated during your study session.
 
-513 songs - 21 hr 58 min
+516 songs - 22 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -246,6 +246,7 @@
 | [Les mots](https://open.spotify.com/track/0KCHUInxtCsvyMP51FbpIv) | [Mírabilis](https://open.spotify.com/artist/11nkqtBGx6kKdNeaT2hQYD) | [Les mots](https://open.spotify.com/album/2kTguPsPBlP4vxONM6FUUh) | 1:57 | 2023-04-03 | 2023-08-22 |
 | [Les yeux](https://open.spotify.com/track/3Hse4yS1QfDHzq7lVEwarD) | [Massimo Pavoni](https://open.spotify.com/artist/7f7ACBPPCHUj6Bi1x0gLqr) | [Les yeux](https://open.spotify.com/album/7nb8BHc3PIAZxK6hRlzR3i) | 2:17 | 2023-02-14 |  |
 | [Letter To A Friend](https://open.spotify.com/track/1MoOc8rH7o4TPY5bYKRA7J) | [Robert Gromotka](https://open.spotify.com/artist/3O0m1fz3mncIqJ2JmHIbH6), [Chiharu Bley Violoncello](https://open.spotify.com/artist/0xYJZq8dcOaFvjIGnMvFHT) | [Letter to a Friend](https://open.spotify.com/album/1a7VHDhOVM54tcTsrpsqNM) | 3:04 | 2023-01-09 | 2024-03-20 |
+| [Lever du Soleil](https://open.spotify.com/track/3Ct59fvUQpwTyaAvi4fCEL) | [Mírabilis](https://open.spotify.com/artist/11nkqtBGx6kKdNeaT2hQYD) | [Lever du Soleil](https://open.spotify.com/album/4vuAjANHzQMGIJu9fN4c3q) | 2:36 | 2024-05-29 |  |
 | [Liebchen](https://open.spotify.com/track/79QW41lC878sIbPCfHbUSC) | [Teide](https://open.spotify.com/artist/31JZooajAUmQZAX2j6fPZ5) | [Liebchen](https://open.spotify.com/album/6ItYT8YF1qNNvbueX0lZKz) | 2:43 | 2023-09-26 |  |
 | [Life Unfolding](https://open.spotify.com/track/2Giy2LFS5WAlI092sozZPl) | [San Fiore](https://open.spotify.com/artist/2dVta8IapeaopXnWcmKUSm) | [Life Unfolding](https://open.spotify.com/album/0TgicuXFyvuNHkSbYWR7fU) | 2:18 | 2024-03-04 |  |
 | [Lionheart](https://open.spotify.com/track/65a1ng2xAbaRbYWsq9H2MH) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Lionheart](https://open.spotify.com/album/3O26r0jhu5oE0ITWbQJdnX) | 3:29 | 2021-12-07 | 2022-04-15 |
@@ -306,6 +307,7 @@
 | [Naoko](https://open.spotify.com/track/4uImsVwiffjf75VY8NStFN) | [Lucas Forch](https://open.spotify.com/artist/13gyOR6KA3pA8MIuWW2Pcm) | [Naoko](https://open.spotify.com/album/6DiCLO32Rf6Lksf2pw2wKH) | 3:04 | 2021-12-07 | 2022-05-28 |
 | [Nebelschleier](https://open.spotify.com/track/6GsRRJRItgJZSFT1USSH1A) | [Torsten Friedrich](https://open.spotify.com/artist/4iE9nQEjk0R2eebGwY5Uyj) | [Das Rosenblatt](https://open.spotify.com/album/3cn9ZaAr8dW2oBrBu898me) | 3:11 | 2022-02-01 |  |
 | [Night Light](https://open.spotify.com/track/7LLLc3Gxg6zRm9lKtmuCGR) | [Jonathan Beaujean](https://open.spotify.com/artist/02L0LCjnSfGqoP3dBRNxei) | [Night Light](https://open.spotify.com/album/6NOESzKosiokfmEwXfZOnX) | 2:09 | 2021-12-07 | 2023-01-27 |
+| [Night Streets](https://open.spotify.com/track/3OYG0OTISrtY56IloYZSXU) | [Skaresnø](https://open.spotify.com/artist/6hLr4Lg3n1F95Xmzn8ZcnA) | [Night Streets](https://open.spotify.com/album/7Kl8tiNtQAw3qp9jFJWyJL) | 2:23 | 2024-05-29 |  |
 | [Nightbloom](https://open.spotify.com/track/7s7Ls7wTmiyogFLL9q6xyj) | [Ren Lockhart](https://open.spotify.com/artist/2o6Pj478mXZrEZbEFnAbXp) | [Nightbloom](https://open.spotify.com/album/3OXDiQnyOjR4Sl5g2beTBz) | 2:35 | 2024-03-19 |  |
 | [Ninon](https://open.spotify.com/track/0FqRaf2LQqj2kf1Xn1VjYQ) | [Waltzin](https://open.spotify.com/artist/5nkwKrd8YZXi7uMgEppmxh) | [Ninon](https://open.spotify.com/album/3gEUPFAVJ5lw0Qq7k6bOdK) | 2:24 | 2023-08-14 |  |
 | [Ninon](https://open.spotify.com/track/15fml3MbQnKQcalTwB7Ng4) | [Waltzin](https://open.spotify.com/artist/5nkwKrd8YZXi7uMgEppmxh) | [Le Bonaparte](https://open.spotify.com/album/27kl5RfGzVfT9q8CffrN72) | 2:24 | 2023-10-23 | 2023-11-29 |
@@ -392,6 +394,7 @@
 | [Ripples](https://open.spotify.com/track/3xE0JN7dBupo1lrr6WvZSl) | [Sean Oban](https://open.spotify.com/artist/32LreS7UHEG3COCJzy826n) | [Ripples](https://open.spotify.com/album/67aW2j0JJHUh72ixyNytgg) | 2:12 | 2021-12-07 | 2023-04-19 |
 | [River Running Free](https://open.spotify.com/track/2qCzkyUdNWxGY0lQh0jp8F) | [Miriam Raye](https://open.spotify.com/artist/3zpg5vjPLd2G5hQGaCuTS2) | [River Running Free](https://open.spotify.com/album/0BQOiGn059PbJJtbi6VwGU) | 2:16 | 2021-12-07 |  |
 | [Riverlight](https://open.spotify.com/track/3sp6FlleWKCE9mxdnHXFlU) | [Garreth Broke](https://open.spotify.com/artist/2VfNXBb3vlgXHEzQci1btx) | [Riverlight](https://open.spotify.com/album/2wWyVXM1gackIofNnlxWdP) | 2:13 | 2022-04-01 | 2023-10-05 |
+| [Rivers Wide](https://open.spotify.com/track/6CKxNZvRKtUSCmumhtmI6r) | [Hazel Adams](https://open.spotify.com/artist/7k5pLfgL1ELz5X4SxuYoBK) | [Rivers Wide](https://open.spotify.com/album/23SAyFDy3jUqDNArqcJ87k) | 2:57 | 2024-05-29 |  |
 | [Rose](https://open.spotify.com/track/1J4at1zyBzfGjCPjZi7xF8) | [Marcin Starosta](https://open.spotify.com/artist/3zXWrdKJkoFzMsPsw51Nzw) | [Rose](https://open.spotify.com/album/1kjF5lhvENXPVodNLCz4Ba) | 3:06 | 2022-07-19 |  |
 | [Round Corners](https://open.spotify.com/track/5Xihr5cDsWzZoAXDYXIyQT) | [Gino Carbone](https://open.spotify.com/artist/6GHpZni4assd8ljmgjhMix) | [Round Corners](https://open.spotify.com/album/2nSqjcfvtIkeqzscccMkZr) | 2:26 | 2021-12-07 | 2023-05-04 |
 | [Sailing](https://open.spotify.com/track/3BzjuaHgLpJPbJCSoriHbq) | [Tankeflukt](https://open.spotify.com/artist/5AlAiT9n6MGUG2Lron7jB1) | [Sailing](https://open.spotify.com/album/4w1hpzfnRa9pxmxamHwbiP) | 2:32 | 2023-08-14 |  |

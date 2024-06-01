@@ -1,6 +1,6 @@
 {
   "description": "Music that created modern indie as we know it. Cover: Yeah Yeah Yeahs",
-  "num_followers": 483057,
+  "num_followers": 483644,
   "original_name": "The 2000s Indie Scene",
   "owner": {
     "name": "Spotify",
@@ -379,22 +379,6 @@
     {
       "added_at": "2023-01-18 01:04:44",
       "album": {
-        "name": "Starfucker",
-        "url": "https://open.spotify.com/album/4mBSeOEiQ4WgDaCnydb0tZ"
-      },
-      "artists": [
-        {
-          "name": "STRFKR",
-          "url": "https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU"
-        }
-      ],
-      "duration_ms": 173693,
-      "name": "Rawnald Gregory Erickson the Second",
-      "url": "https://open.spotify.com/track/4j4pPKE3xAblPIbhxScC1j"
-    },
-    {
-      "added_at": "2023-01-18 01:04:44",
-      "album": {
         "name": "Funeral",
         "url": "https://open.spotify.com/album/6ZB8qaR9JNuS0Q0bG1nbcH"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 335333,
       "name": "Wake Up",
       "url": "https://open.spotify.com/track/6Hmj7SrLRbreLVfVS7mV1S"
+    },
+    {
+      "added_at": "2023-01-18 01:04:44",
+      "album": {
+        "name": "Starfucker",
+        "url": "https://open.spotify.com/album/4mBSeOEiQ4WgDaCnydb0tZ"
+      },
+      "artists": [
+        {
+          "name": "STRFKR",
+          "url": "https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU"
+        }
+      ],
+      "duration_ms": 173693,
+      "name": "Rawnald Gregory Erickson the Second",
+      "url": "https://open.spotify.com/track/4j4pPKE3xAblPIbhxScC1j"
     },
     {
       "added_at": "2023-01-18 01:04:44",
@@ -615,22 +615,6 @@
     {
       "added_at": "2023-01-18 01:04:44",
       "album": {
-        "name": "It's Blitz!",
-        "url": "https://open.spotify.com/album/4dBMwYZJ84lj8HRTdL8Toj"
-      },
-      "artists": [
-        {
-          "name": "Yeah Yeah Yeahs",
-          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
-        }
-      ],
-      "duration_ms": 221000,
-      "name": "Heads Will Roll",
-      "url": "https://open.spotify.com/track/4WiIscpBgQFm5qIyjoH7M4"
-    },
-    {
-      "added_at": "2023-01-18 01:04:44",
-      "album": {
         "name": "Santigold",
         "url": "https://open.spotify.com/album/4yATru0hY3VgRHSreswbGj"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 240040,
       "name": "White Flag",
       "url": "https://open.spotify.com/track/4kbz7rHVbyjKasuuqelccQ"
+    },
+    {
+      "added_at": "2023-01-18 01:04:44",
+      "album": {
+        "name": "It's Blitz!",
+        "url": "https://open.spotify.com/album/4dBMwYZJ84lj8HRTdL8Toj"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "duration_ms": 221000,
+      "name": "Heads Will Roll",
+      "url": "https://open.spotify.com/track/4WiIscpBgQFm5qIyjoH7M4"
     },
     {
       "added_at": "2023-01-18 01:04:44",
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-01-18 01:04:44",
       "album": {
-        "name": "Scissor Sisters",
-        "url": "https://open.spotify.com/album/65Fllu4vQdZQOh6id0YwIM"
-      },
-      "artists": [
-        {
-          "name": "Scissor Sisters",
-          "url": "https://open.spotify.com/artist/3Y10boYzeuFCJ4Qgp53w6o"
-        }
-      ],
-      "duration_ms": 271906,
-      "name": "Take Your Mama",
-      "url": "https://open.spotify.com/track/0LAfANg75hYiV1IAEP3vY6"
-    },
-    {
-      "added_at": "2023-01-18 01:04:44",
-      "album": {
         "name": "The Bravery",
         "url": "https://open.spotify.com/album/3GNa5HhqzUlonZoLGYC8vb"
       },
@@ -727,18 +711,18 @@
     {
       "added_at": "2023-01-18 01:04:44",
       "album": {
-        "name": "Show Your Bones",
-        "url": "https://open.spotify.com/album/4vILeh9sgKiDXnyL2pHCiz"
+        "name": "Scissor Sisters",
+        "url": "https://open.spotify.com/album/65Fllu4vQdZQOh6id0YwIM"
       },
       "artists": [
         {
-          "name": "Yeah Yeah Yeahs",
-          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+          "name": "Scissor Sisters",
+          "url": "https://open.spotify.com/artist/3Y10boYzeuFCJ4Qgp53w6o"
         }
       ],
-      "duration_ms": 187133,
-      "name": "Gold Lion",
-      "url": "https://open.spotify.com/track/6ttg1sxtU12beFZkjoc6j5"
+      "duration_ms": 271906,
+      "name": "Take Your Mama",
+      "url": "https://open.spotify.com/track/0LAfANg75hYiV1IAEP3vY6"
     },
     {
       "added_at": "2023-01-18 01:04:44",
@@ -823,6 +807,22 @@
     {
       "added_at": "2023-01-18 01:04:44",
       "album": {
+        "name": "Show Your Bones",
+        "url": "https://open.spotify.com/album/4vILeh9sgKiDXnyL2pHCiz"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "duration_ms": 187133,
+      "name": "Gold Lion",
+      "url": "https://open.spotify.com/track/6ttg1sxtU12beFZkjoc6j5"
+    },
+    {
+      "added_at": "2023-01-18 01:04:44",
+      "album": {
         "name": "The Moon & Antarctica",
         "url": "https://open.spotify.com/album/5SbcupirEParczvqqyUPXL"
       },
@@ -855,22 +855,6 @@
     {
       "added_at": "2023-01-18 01:04:44",
       "album": {
-        "name": "A Good Day",
-        "url": "https://open.spotify.com/album/2y8fiUO036vTYKHM2gNSuW"
-      },
-      "artists": [
-        {
-          "name": "Priscilla Ahn",
-          "url": "https://open.spotify.com/artist/5oU0tZlItLctcLOQPS3mCy"
-        }
-      ],
-      "duration_ms": 211240,
-      "name": "Dream",
-      "url": "https://open.spotify.com/track/0ngtyvPUKR4YTtkVKvZP02"
-    },
-    {
-      "added_at": "2023-01-18 01:04:44",
-      "album": {
         "name": "Let It Die",
         "url": "https://open.spotify.com/album/1dukVxiix2ckr6CMs1T1zI"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 224506,
       "name": "Mushaboom",
       "url": "https://open.spotify.com/track/66olzBxCgKlpFRB1LKH5pO"
+    },
+    {
+      "added_at": "2023-01-18 01:04:44",
+      "album": {
+        "name": "A Good Day",
+        "url": "https://open.spotify.com/album/2y8fiUO036vTYKHM2gNSuW"
+      },
+      "artists": [
+        {
+          "name": "Priscilla Ahn",
+          "url": "https://open.spotify.com/artist/5oU0tZlItLctcLOQPS3mCy"
+        }
+      ],
+      "duration_ms": 211240,
+      "name": "Dream",
+      "url": "https://open.spotify.com/track/0ngtyvPUKR4YTtkVKvZP02"
     },
     {
       "added_at": "2023-01-18 01:04:44",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2023-01-18 01:04:44",
       "album": {
-        "name": "Miike Snow (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/60qoUhwjHanuH4uO7ik4r5"
-      },
-      "artists": [
-        {
-          "name": "Miike Snow",
-          "url": "https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J"
-        }
-      ],
-      "duration_ms": 236240,
-      "name": "Cult Logic",
-      "url": "https://open.spotify.com/track/1vlXU4TwppxOYXd50pQWzJ"
-    },
-    {
-      "added_at": "2023-01-18 01:04:44",
-      "album": {
         "name": "Set Yourself On Fire",
         "url": "https://open.spotify.com/album/68jZlA38aXlAaPRSzckdX0"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 256053,
       "name": "Your Ex-Lover Is Dead",
       "url": "https://open.spotify.com/track/5oSSFX46m6u3UFLoouLlTw"
+    },
+    {
+      "added_at": "2023-01-18 01:04:44",
+      "album": {
+        "name": "Miike Snow (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/60qoUhwjHanuH4uO7ik4r5"
+      },
+      "artists": [
+        {
+          "name": "Miike Snow",
+          "url": "https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J"
+        }
+      ],
+      "duration_ms": 236240,
+      "name": "Cult Logic",
+      "url": "https://open.spotify.com/track/1vlXU4TwppxOYXd50pQWzJ"
     },
     {
       "added_at": "2023-01-18 01:04:44",
@@ -1129,22 +1129,6 @@
       "url": "https://open.spotify.com/track/5fIGsUTmNIfJLZhqCd4D5h"
     },
     {
-      "added_at": "2023-01-18 01:04:44",
-      "album": {
-        "name": "Two Suns",
-        "url": "https://open.spotify.com/album/7cj1dERc5yhFBqtxlRYGSe"
-      },
-      "artists": [
-        {
-          "name": "Bat For Lashes",
-          "url": "https://open.spotify.com/artist/6l77PmL5iuEEcYjGl8K6s7"
-        }
-      ],
-      "duration_ms": 251120,
-      "name": "Daniel",
-      "url": "https://open.spotify.com/track/5VvsZvy1mwx4teyvI7O9rs"
-    },
-    {
       "added_at": "2023-03-04 05:35:09",
       "album": {
         "name": "Sha Sha",
@@ -1171,6 +1155,22 @@
       "duration_ms": 231200,
       "name": "Wasted & Ready",
       "url": "https://open.spotify.com/track/1yYWwkCW5kk5ZLRbxxqY4u"
+    },
+    {
+      "added_at": "2023-01-18 01:04:44",
+      "album": {
+        "name": "Two Suns",
+        "url": "https://open.spotify.com/album/7cj1dERc5yhFBqtxlRYGSe"
+      },
+      "artists": [
+        {
+          "name": "Bat For Lashes",
+          "url": "https://open.spotify.com/artist/6l77PmL5iuEEcYjGl8K6s7"
+        }
+      ],
+      "duration_ms": 251120,
+      "name": "Daniel",
+      "url": "https://open.spotify.com/track/5VvsZvy1mwx4teyvI7O9rs"
     },
     {
       "added_at": "2023-01-18 01:04:44",

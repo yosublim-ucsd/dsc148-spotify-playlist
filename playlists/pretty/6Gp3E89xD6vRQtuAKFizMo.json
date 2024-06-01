@@ -1,13 +1,57 @@
 {
   "description": "Brand new music from Steve Aoki\u2019s Dim Mak Records, updated every Tuesday and Friday!",
-  "num_followers": 44231,
+  "num_followers": 44224,
   "original_name": "Dim Mak New Releases",
   "owner": {
     "name": "Dim Mak Records",
     "url": "https://open.spotify.com/user/dimmakrecords"
   },
-  "snapshot_id": "AAAZY9egbSJvG21nNTCmYDPSAxxyGdQd",
+  "snapshot_id": "AAAZZSuz+b0YIwE9PPQM8ZfY90QMggfb",
   "tracks": [
+    {
+      "added_at": "2024-05-31 17:24:03",
+      "album": {
+        "name": "Pa Pa Pa (feat. MC Maromba)",
+        "url": "https://open.spotify.com/album/7epfRuG2KTrdbUrVUGyMhR"
+      },
+      "artists": [
+        {
+          "name": "Henry Fong",
+          "url": "https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH"
+        },
+        {
+          "name": "Mc Maromba",
+          "url": "https://open.spotify.com/artist/3o3p6fGYftm6nJpS6YJ11Q"
+        },
+        {
+          "name": "KAORU",
+          "url": "https://open.spotify.com/artist/3eDtd9oQyjD2OuMNgVHOag"
+        }
+      ],
+      "duration_ms": 139687,
+      "name": "Pa Pa Pa (feat. MC Maromba)",
+      "url": "https://open.spotify.com/track/5FLAWwDuIq8bYZ80uWzgQ4"
+    },
+    {
+      "added_at": "2024-05-31 17:24:29",
+      "album": {
+        "name": "BAD",
+        "url": "https://open.spotify.com/album/6BjhnTo2M4j5u5wDZEJzwN"
+      },
+      "artists": [
+        {
+          "name": "Cheyenne Giles",
+          "url": "https://open.spotify.com/artist/2FoyDZAnGzikijRdXrocmj"
+        },
+        {
+          "name": "ALRT",
+          "url": "https://open.spotify.com/artist/4XH5qVwKcWRS0Z6tr85exf"
+        }
+      ],
+      "duration_ms": 173571,
+      "name": "BAD",
+      "url": "https://open.spotify.com/track/79rtchRTWKO4AjVKzIAgMy"
+    },
     {
       "added_at": "2024-05-28 17:02:28",
       "album": {

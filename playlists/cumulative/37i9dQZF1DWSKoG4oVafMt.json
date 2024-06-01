@@ -4308,7 +4308,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 190676,
       "name": "Feelings (Pop)",
       "url": "https://open.spotify.com/track/0zgYDCKKTVIczmMrMIc20k"
@@ -6054,7 +6054,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 156800,
       "name": "Ishq Mohobbat",
       "url": "https://open.spotify.com/track/32ubUB7dKjWQ3lWdOtE2mk"
@@ -7643,6 +7643,28 @@
     },
     {
       "album": {
+        "name": "Khokhe",
+        "url": "https://open.spotify.com/album/5VJOK0k6L7nLzX9UtwwCCa"
+      },
+      "artists": [
+        {
+          "name": "Mankirt Aulakh",
+          "url": "https://open.spotify.com/artist/3uHUKCspaCzAab9A3LlGAr"
+        },
+        {
+          "name": "Simar Kaur",
+          "url": "https://open.spotify.com/artist/5yI5MjFLwQwfP24OxchqN1"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203392,
+      "name": "Khokhe",
+      "url": "https://open.spotify.com/track/4GErNkWRhtRXFCfAz7aTY5"
+    },
+    {
+      "album": {
         "name": "Khoon Peendi",
         "url": "https://open.spotify.com/album/7A0QuOnpRPzEAyb1KjjX0c"
       },
@@ -8082,6 +8104,24 @@
       "duration_ms": 169032,
       "name": "Kuwait Wala Koka",
       "url": "https://open.spotify.com/track/6rqCGWzwW10e370MIA4lWW"
+    },
+    {
+      "album": {
+        "name": "Chobar",
+        "url": "https://open.spotify.com/album/0PYDvpixI39fPsmBAs3FC6"
+      },
+      "artists": [
+        {
+          "name": "Arjan Dhillon",
+          "url": "https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211725,
+      "name": "Kuz Saal",
+      "url": "https://open.spotify.com/track/1BYU8apJNRON3uV6eY2Ryo"
     },
     {
       "album": {
@@ -12898,7 +12938,7 @@
       ],
       "date_added": "2024-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 137455,
       "name": "ROLL WITH ME",
       "url": "https://open.spotify.com/track/2OpVASAdLg3TP46OSKsYVH"
@@ -15712,7 +15752,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 187058,
       "name": "Tere Piche Soniye",
       "url": "https://open.spotify.com/track/5OY3gJ2eckEmm9ANsQ3WMb"
@@ -16304,6 +16344,32 @@
       "duration_ms": 158000,
       "name": "Tu Jo Mileya",
       "url": "https://open.spotify.com/track/7uVpBwBqSwuhSDF8HcH9Qz"
+    },
+    {
+      "album": {
+        "name": "Tu Juliet Jatt Di ( From \"Jatt & Juliet 3\")",
+        "url": "https://open.spotify.com/album/6SgKeQDMRzq0noM0FSaPP6"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        },
+        {
+          "name": "Bunny",
+          "url": "https://open.spotify.com/artist/0Or6EukLg1g2fTl08fPz2o"
+        },
+        {
+          "name": "Sagar",
+          "url": "https://open.spotify.com/artist/1uY9B9QroF5K8wPyeEO1QN"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205823,
+      "name": "Tu Juliet Jatt Di ( From \"Jatt & Juliet 3\")",
+      "url": "https://open.spotify.com/track/2FRSsjZloHsmBF60bCoPrQ"
     },
     {
       "album": {
@@ -17268,7 +17334,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 122399,
       "name": "With You",
       "url": "https://open.spotify.com/track/2TgqSZcQ5TcLjY3RfDXToN"

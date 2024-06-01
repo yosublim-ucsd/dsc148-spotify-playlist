@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Leaders of the new school...Alternative R&B. Cover: Ravyn Lenae",
+  "description": "Leaders of the new school...Alternative R&B. Cover: Dua Saleh & Serpentwithfeet",
   "name": "Vanguard",
   "tracks": [
     {
@@ -754,7 +754,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 172360,
       "name": "Again?",
       "url": "https://open.spotify.com/track/6curW2n7DOSwwff4UjELPH"
@@ -3884,7 +3884,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 156573,
       "name": "Cherry Picking",
       "url": "https://open.spotify.com/track/4VeI6MsMozpQkLmCI87Bbf"
@@ -7420,7 +7420,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 177600,
       "name": "FWT",
       "url": "https://open.spotify.com/track/1SYt4DjJdoSs7W4fB6aLKd"
@@ -11317,6 +11317,28 @@
     },
     {
       "album": {
+        "name": "LET U LEAD (with Billy Lemos)",
+        "url": "https://open.spotify.com/album/3qm24mQwYYo7GFGZanPgwc"
+      },
+      "artists": [
+        {
+          "name": "Noah Guy",
+          "url": "https://open.spotify.com/artist/0Cj5PLNNGVOsXUig1ic4s5"
+        },
+        {
+          "name": "Billy Lemos",
+          "url": "https://open.spotify.com/artist/7ebBg3BuRFa2satTcY8whC"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150857,
+      "name": "LET U LEAD (with Billy Lemos)",
+      "url": "https://open.spotify.com/track/5rp6f6CiXVjpZ09u0BHeeN"
+    },
+    {
+      "album": {
         "name": "Let's Get It On",
         "url": "https://open.spotify.com/album/0SIOOlb2yxgd3pQW1vYVhf"
       },
@@ -11808,6 +11830,24 @@
       "duration_ms": 150000,
       "name": "LOVE FOR YAH",
       "url": "https://open.spotify.com/track/04LlU1JuheF9ROhxK9VG3u"
+    },
+    {
+      "album": {
+        "name": "Love Heart Cheat Code",
+        "url": "https://open.spotify.com/album/3TsAZSV9r6h0w4S5fxS2qX"
+      },
+      "artists": [
+        {
+          "name": "Hiatus Kaiyote",
+          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273291,
+      "name": "Love Heart Cheat Code",
+      "url": "https://open.spotify.com/track/0ewpVF33opGsxPJlLRflWX"
     },
     {
       "album": {
@@ -18021,6 +18061,24 @@
     },
     {
       "album": {
+        "name": "Space & Time",
+        "url": "https://open.spotify.com/album/6BErFc50lbkXHxnMBZfu4l"
+      },
+      "artists": [
+        {
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183980,
+      "name": "Space & Time",
+      "url": "https://open.spotify.com/track/00cxdB8HetV2MWlkDRNBdX"
+    },
+    {
+      "album": {
         "name": "sPaCe (528hz) / Coolest Girl In California",
         "url": "https://open.spotify.com/album/6p6IFdRzEhIz5hE190x4sR"
       },
@@ -20784,7 +20842,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 215730,
       "name": "U A Star (feat. Mereba)",
       "url": "https://open.spotify.com/track/1KRvtRhh9m6XfWOUCUQscH"
@@ -21002,6 +21060,28 @@
       "duration_ms": 96806,
       "name": "Unless",
       "url": "https://open.spotify.com/track/2K6Qg2lX5mUb11no6S5Ma0"
+    },
+    {
+      "album": {
+        "name": "unruly",
+        "url": "https://open.spotify.com/album/30qNUbkHpnFRNd8x8sYWNT"
+      },
+      "artists": [
+        {
+          "name": "Dua Saleh",
+          "url": "https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB"
+        },
+        {
+          "name": "serpentwithfeet",
+          "url": "https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144446,
+      "name": "unruly",
+      "url": "https://open.spotify.com/track/2bTrWTnaLwQ5WVnUzS2X46"
     },
     {
       "album": {

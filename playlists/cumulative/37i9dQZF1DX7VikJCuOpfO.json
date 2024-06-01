@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-23",
-  "description": "Lo nuevo y lo mejor en el estilo mariachi. Cover: Pepe Aguilar",
+  "description": "Lo nuevo y lo mejor en el estilo mariachi. Cover: Panter B\u00e9lico",
   "name": "Mariachi 2024",
   "tracks": [
     {
@@ -998,7 +998,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 177053,
       "name": "Con Tu Recuerdo",
       "url": "https://open.spotify.com/track/4VUt0lvEPcNk9bZ3sDwROc"
@@ -1103,24 +1103,6 @@
     },
     {
       "album": {
-        "name": "Pal Barrio",
-        "url": "https://open.spotify.com/album/46xNfM1aWM4aiBjzNKE2l0"
-      },
-      "artists": [
-        {
-          "name": "Jessi Uribe",
-          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
-        }
-      ],
-      "date_added": "2024-05-24",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 185118,
-      "name": "Cuando El Amor Se Va",
-      "url": "https://open.spotify.com/track/5HddAXF1qqPsUGjPWBjXkM"
-    },
-    {
-      "album": {
         "name": "A Mis 80's",
         "url": "https://open.spotify.com/album/4vuUKI0vh73BF4F85R6dFh"
       },
@@ -1136,6 +1118,24 @@
       "duration_ms": 180529,
       "name": "Cuando Me Digas",
       "url": "https://open.spotify.com/track/2Ry1ma0GI7iRVe2je575HS"
+    },
+    {
+      "album": {
+        "name": "Pal Barrio",
+        "url": "https://open.spotify.com/album/46xNfM1aWM4aiBjzNKE2l0"
+      },
+      "artists": [
+        {
+          "name": "Jessi Uribe",
+          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185118,
+      "name": "Cuando Un Amor Se Va",
+      "url": "https://open.spotify.com/track/5HddAXF1qqPsUGjPWBjXkM"
     },
     {
       "album": {
@@ -2646,7 +2646,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-25",
+      "date_removed": null,
       "duration_ms": 185213,
       "name": "Inexperto En Olvidarte",
       "url": "https://open.spotify.com/track/1WvNTYRxyodbQ4NPmO9jKZ"
@@ -3212,7 +3212,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 174480,
       "name": "La \u00daltima Y Nos Vamos",
       "url": "https://open.spotify.com/track/6B1bkwG0hs97UYDspOCaF6"
@@ -6532,6 +6532,24 @@
       "duration_ms": 224920,
       "name": "Te Lo Pido por Favor",
       "url": "https://open.spotify.com/track/2fmuXxdvdPoMp9ZlLK2tkn"
+    },
+    {
+      "album": {
+        "name": "El Mexicano",
+        "url": "https://open.spotify.com/album/4ELsblwZ6Dh4jEGbmI6NMl"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194452,
+      "name": "Te Presento A Mi Amante",
+      "url": "https://open.spotify.com/track/4qMZpEnZDoRfgmSklKFGjh"
     },
     {
       "album": {

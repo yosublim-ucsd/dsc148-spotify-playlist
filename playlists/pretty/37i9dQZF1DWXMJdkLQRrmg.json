@@ -1,6 +1,6 @@
 {
   "description": "Rock unplugged. ",
-  "num_followers": 334347,
+  "num_followers": 334503,
   "original_name": "Stripped Down",
   "owner": {
     "name": "Spotify",
@@ -563,22 +563,6 @@
     {
       "added_at": "2024-01-16 15:01:27",
       "album": {
-        "name": "Use Me",
-        "url": "https://open.spotify.com/album/40J4xZREcFpeJVnXDXntvk"
-      },
-      "artists": [
-        {
-          "name": "PVRIS",
-          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
-        }
-      ],
-      "duration_ms": 229466,
-      "name": "Loveless",
-      "url": "https://open.spotify.com/track/3XujDGA7LqWSHNQ0PaE7X0"
-    },
-    {
-      "added_at": "2024-01-16 15:01:27",
-      "album": {
         "name": "Simulation Theory (Super Deluxe)",
         "url": "https://open.spotify.com/album/5OZgDtx180ZZPMpm36J2zC"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 226333,
       "name": "Something Human (Acoustic)",
       "url": "https://open.spotify.com/track/1D2ISRyHAs9QBHIWVQIbgM"
+    },
+    {
+      "added_at": "2024-01-16 15:01:27",
+      "album": {
+        "name": "Use Me",
+        "url": "https://open.spotify.com/album/40J4xZREcFpeJVnXDXntvk"
+      },
+      "artists": [
+        {
+          "name": "PVRIS",
+          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
+        }
+      ],
+      "duration_ms": 229466,
+      "name": "Loveless",
+      "url": "https://open.spotify.com/track/3XujDGA7LqWSHNQ0PaE7X0"
     },
     {
       "added_at": "2024-01-16 15:01:27",
@@ -711,22 +711,6 @@
     {
       "added_at": "2024-01-16 15:01:27",
       "album": {
-        "name": "Acoustic",
-        "url": "https://open.spotify.com/album/33oxbqzo7poSO2IbSMqrPS"
-      },
-      "artists": [
-        {
-          "name": "PVRIS",
-          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
-        }
-      ],
-      "duration_ms": 225099,
-      "name": "Waking up (Acoustic)",
-      "url": "https://open.spotify.com/track/4Zv8db41aWJTqOMkyid0uC"
-    },
-    {
-      "added_at": "2024-01-16 15:01:27",
-      "album": {
         "name": "Hard To Be Alone",
         "url": "https://open.spotify.com/album/17YtufgEFZfCK0qhSZ2K14"
       },
@@ -739,22 +723,6 @@
       "duration_ms": 182053,
       "name": "Hard To Be Alone",
       "url": "https://open.spotify.com/track/14NNdJ03Vt6QfrY99FpmE5"
-    },
-    {
-      "added_at": "2024-01-16 15:01:27",
-      "album": {
-        "name": "Can You Hear Me (Acoustic)",
-        "url": "https://open.spotify.com/album/1kIxjFijXTHj2iWviH4HkR"
-      },
-      "artists": [
-        {
-          "name": "Korn",
-          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
-        }
-      ],
-      "duration_ms": 174125,
-      "name": "Can You Hear Me - Acoustic",
-      "url": "https://open.spotify.com/track/1G05yZ8DZmh8V0pm58XsqZ"
     },
     {
       "added_at": "2024-01-16 15:01:27",
@@ -783,18 +751,34 @@
     {
       "added_at": "2024-01-16 15:01:27",
       "album": {
-        "name": "Behind Your Walls",
-        "url": "https://open.spotify.com/album/071cCoc1WosvNgGdke7JRZ"
+        "name": "Acoustic",
+        "url": "https://open.spotify.com/album/33oxbqzo7poSO2IbSMqrPS"
       },
       "artists": [
         {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+          "name": "PVRIS",
+          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
         }
       ],
-      "duration_ms": 201186,
-      "name": "Behind Your Walls - Acoustic",
-      "url": "https://open.spotify.com/track/6j64GT8KPQE1AaLkjXNyMV"
+      "duration_ms": 225099,
+      "name": "Waking up (Acoustic)",
+      "url": "https://open.spotify.com/track/4Zv8db41aWJTqOMkyid0uC"
+    },
+    {
+      "added_at": "2024-01-16 15:01:27",
+      "album": {
+        "name": "Can You Hear Me (Acoustic)",
+        "url": "https://open.spotify.com/album/1kIxjFijXTHj2iWviH4HkR"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "duration_ms": 174125,
+      "name": "Can You Hear Me - Acoustic",
+      "url": "https://open.spotify.com/track/1G05yZ8DZmh8V0pm58XsqZ"
     },
     {
       "added_at": "2024-01-16 15:01:27",
@@ -811,6 +795,22 @@
       "duration_ms": 176765,
       "name": "abcdefu (chill)",
       "url": "https://open.spotify.com/track/6tH1lxPcQConWuvlh85yFT"
+    },
+    {
+      "added_at": "2024-01-16 15:01:27",
+      "album": {
+        "name": "Behind Your Walls",
+        "url": "https://open.spotify.com/album/071cCoc1WosvNgGdke7JRZ"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 201186,
+      "name": "Behind Your Walls - Acoustic",
+      "url": "https://open.spotify.com/track/6j64GT8KPQE1AaLkjXNyMV"
     },
     {
       "added_at": "2024-01-16 15:01:27",

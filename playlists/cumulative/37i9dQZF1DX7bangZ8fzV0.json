@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Net die beste Afrikaanse musiek. Omslag: <a href=\"https://open.spotify.com/artist/2w5KXwbkeiYOaxT3Wq9iwj?si=1qDS4-9uR2iR7QLsfpQc6A\">Danny Smoke</a> ",
+  "description": "Net die beste Afrikaanse musiek. Omslag: <a href=\"https://open.spotify.com/artist/2RJteaG1GUmH9lQVczVkpp?si=LDocmcOaSjmwHGY1vCdePQ\">Demi Lee Moore</a> ",
   "name": "Afrikaanse Hits",
   "tracks": [
     {
@@ -990,7 +990,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 212941,
       "name": "Ek Wonder",
       "url": "https://open.spotify.com/track/7d1dnWCYBxIkLHYkxjF6Yd"
@@ -1871,6 +1871,24 @@
     },
     {
       "album": {
+        "name": "Koebaai aan my Hart",
+        "url": "https://open.spotify.com/album/2JGaK4g5pR1tUmZw9txNnX"
+      },
+      "artists": [
+        {
+          "name": "Wilma Van Heerden",
+          "url": "https://open.spotify.com/artist/0vnlEBfwofHzCHw2sI7VmP"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222231,
+      "name": "Koebaai aan my Hart",
+      "url": "https://open.spotify.com/track/2rbsZ5fHjq81NpqWIPNMKj"
+    },
+    {
+      "album": {
         "name": "Lei My Na Die Water",
         "url": "https://open.spotify.com/album/30Y6Kmoq8Kz5Ua9JHnbVgQ"
       },
@@ -2562,6 +2580,24 @@
       "duration_ms": 173250,
       "name": "Net Een Keer",
       "url": "https://open.spotify.com/track/71tkxqyBp1FnQYMI9R2NQY"
+    },
+    {
+      "album": {
+        "name": "Net Myne",
+        "url": "https://open.spotify.com/album/5NALlrlbVlzuMcjLK29zR0"
+      },
+      "artists": [
+        {
+          "name": "Demi Lee Moore",
+          "url": "https://open.spotify.com/artist/2RJteaG1GUmH9lQVczVkpp"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182896,
+      "name": "Net Myne",
+      "url": "https://open.spotify.com/track/6PdtHsCB9kopQGKLcHjpwM"
     },
     {
       "album": {
@@ -3710,7 +3746,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 203834,
       "name": "Verlore Seun",
       "url": "https://open.spotify.com/track/14FXSq2GesUVBYb9A7BPaI"

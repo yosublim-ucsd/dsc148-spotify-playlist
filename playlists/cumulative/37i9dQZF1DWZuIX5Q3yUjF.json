@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Il meglio dell'R&B italiano. Cover: Heartman",
+  "description": "Il meglio dell'R&B italiano. Cover: Tho\u00e9",
   "name": "anima R&B",
   "tracks": [
     {
@@ -2331,6 +2331,24 @@
     },
     {
       "album": {
+        "name": "crescere",
+        "url": "https://open.spotify.com/album/5W9xHuEXCqIZMBEPJWCxrC"
+      },
+      "artists": [
+        {
+          "name": "miele",
+          "url": "https://open.spotify.com/artist/1fV44jgoWdnw2eB2zYGIyw"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175124,
+      "name": "crescere",
+      "url": "https://open.spotify.com/track/5xkbGSNVcNOoqS44rV79nx"
+    },
+    {
+      "album": {
         "name": "Femmena",
         "url": "https://open.spotify.com/album/17ajfy4eN09VgTbCwWULHH"
       },
@@ -2346,7 +2364,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 221932,
       "name": "Crireme",
       "url": "https://open.spotify.com/track/2nbTvYJ5cEpiQWhiNXAZMV"
@@ -3934,6 +3952,42 @@
       "duration_ms": 184000,
       "name": "GALATTICO",
       "url": "https://open.spotify.com/track/2ubrXzljPjsnbufW0uiwD5"
+    },
+    {
+      "album": {
+        "name": "Game Over",
+        "url": "https://open.spotify.com/album/7JDbqS1lenkORKdiPsfFMu"
+      },
+      "artists": [
+        {
+          "name": "panetto",
+          "url": "https://open.spotify.com/artist/3FEI4Afdz6Q5ujtld5hEnx"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177723,
+      "name": "Game Over",
+      "url": "https://open.spotify.com/track/1UvidmTdCoLM1gUB4INwWs"
+    },
+    {
+      "album": {
+        "name": "gang up",
+        "url": "https://open.spotify.com/album/4A61mMzA5Npr1oDKiD7cjJ"
+      },
+      "artists": [
+        {
+          "name": "Quest",
+          "url": "https://open.spotify.com/artist/6YcGvxHA0U5ILR7jN00ePw"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159212,
+      "name": "gang up",
+      "url": "https://open.spotify.com/track/3uLiTbSCsloFd9PZhmOIOL"
     },
     {
       "album": {
@@ -6826,7 +6880,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 180205,
       "name": "Nisciuna Colpa",
       "url": "https://open.spotify.com/track/1yzchdUGKCyD7FRtI63Taq"
@@ -8472,7 +8526,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 185788,
       "name": "Regina",
       "url": "https://open.spotify.com/track/2pIx4VWz2epzH426RfNgt9"
@@ -9345,6 +9399,24 @@
     },
     {
       "album": {
+        "name": "Senza Finale",
+        "url": "https://open.spotify.com/album/3GMy6UByOe8Xuq7AgZtipB"
+      },
+      "artists": [
+        {
+          "name": "Bianelle",
+          "url": "https://open.spotify.com/artist/2uvoTUiaosj4rLtBePKp5g"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185077,
+      "name": "Senza Finale",
+      "url": "https://open.spotify.com/track/2VitXF1SEYx95J7bi9XZHU"
+    },
+    {
+      "album": {
         "name": "Senza Te",
         "url": "https://open.spotify.com/album/3GmzaEJniZOLhoQCKoJYdP"
       },
@@ -9714,7 +9786,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 193959,
       "name": "Solo un uomo",
       "url": "https://open.spotify.com/track/2ppFjS9GeZs9DLZQM6Zuhf"

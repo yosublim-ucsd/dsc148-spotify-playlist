@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DWVovIX1fs8PH.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVovIX1fs8PH) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVovIX1fs8PH)
 
-### [The Lion King](https://open.spotify.com/playlist/37i9dQZF1DWVovIX1fs8PH)
+### [The Lion King Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DWVovIX1fs8PH)
 
-> The official playlist for Disney’s The Lion King.
+> From "Circle of Life" to "Hakuna Matata", listen to all the songs from The Lion King, all in one place.
 
 90 songs - 5 hr 32 min
 

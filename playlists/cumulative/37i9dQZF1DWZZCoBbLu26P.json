@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Queens everywhere - givin' us life. Cover: Tia Kofi",
+  "description": "Queens everywhere - givin' us life. ",
   "name": "Fierce",
   "tracks": [
     {
@@ -154,7 +154,7 @@
       ],
       "date_added": "2021-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 185274,
       "name": "All This Body (feat. Alaska Thunderfuck & Ginger Minj)",
       "url": "https://open.spotify.com/track/1IuS4gHhXVHaw67f6UitRt"
@@ -213,6 +213,28 @@
     },
     {
       "album": {
+        "name": "Arrogant",
+        "url": "https://open.spotify.com/album/00pmG07qlKUF2GB28EwLrc"
+      },
+      "artists": [
+        {
+          "name": "DJ Mitch Ferrino",
+          "url": "https://open.spotify.com/artist/2nkkdrHs13Onop9WadmkUK"
+        },
+        {
+          "name": "Tamisha Iman",
+          "url": "https://open.spotify.com/artist/6hrrcYYzghli8qayZzHzoy"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222159,
+      "name": "Arrogant",
+      "url": "https://open.spotify.com/track/6MmI4fwcClbnQJeIvtmJPm"
+    },
+    {
+      "album": {
         "name": "Battle Axe",
         "url": "https://open.spotify.com/album/6nSoW9z50cHNMa4yYxVcpc"
       },
@@ -224,7 +246,7 @@
       ],
       "date_added": "2021-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 176000,
       "name": "Battle Axe",
       "url": "https://open.spotify.com/track/0eOcjwlU6EA4KPBwYTUAVx"
@@ -246,6 +268,24 @@
       "duration_ms": 176000,
       "name": "Battle Axe",
       "url": "https://open.spotify.com/track/7IxAYz6J4aqU0DkU0q3pGZ"
+    },
+    {
+      "album": {
+        "name": "Unapologetically",
+        "url": "https://open.spotify.com/album/7C2zKok0wu806UhS2qC8R8"
+      },
+      "artists": [
+        {
+          "name": "Mon\u00e9t X Change",
+          "url": "https://open.spotify.com/artist/3XiIfBzhVYaADoU54bFm2w"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176643,
+      "name": "Beyonc\u00e9",
+      "url": "https://open.spotify.com/track/6AJwO8TbYoWaFDhA48qRbu"
     },
     {
       "album": {
@@ -450,7 +490,7 @@
       ],
       "date_added": "2021-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 246506,
       "name": "Call My Life",
       "url": "https://open.spotify.com/track/7biy6dfLU3CPSkhIYl3aDj"
@@ -580,7 +620,7 @@
       ],
       "date_added": "2021-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 178626,
       "name": "Cover Girl",
       "url": "https://open.spotify.com/track/7jman10UPhzhtOOqZLjSsh"
@@ -656,6 +696,24 @@
       "duration_ms": 195474,
       "name": "Drag Den",
       "url": "https://open.spotify.com/track/3OcG8HWvhRJnX6GxRPNlIL"
+    },
+    {
+      "album": {
+        "name": "Drag Queens Save The World",
+        "url": "https://open.spotify.com/album/4yGRY0QNULbFwjaO2qFKiC"
+      },
+      "artists": [
+        {
+          "name": "The Cast of RuPaul\u2019s Drag Race All Stars",
+          "url": "https://open.spotify.com/artist/43QrDIsjLl95HTrkICOxzS"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244651,
+      "name": "Drag Queens Save The World",
+      "url": "https://open.spotify.com/track/5EBGjPzJvCjObtDcYHPR20"
     },
     {
       "album": {
@@ -830,7 +888,7 @@
       ],
       "date_added": "2021-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 194105,
       "name": "God Save This Queen",
       "url": "https://open.spotify.com/track/1gb9WC6HVuokoVc4a3UgeK"
@@ -888,6 +946,24 @@
       "duration_ms": 169614,
       "name": "Gummy Bear",
       "url": "https://open.spotify.com/track/4UrPEMYcZyFdgHqboEByoS"
+    },
+    {
+      "album": {
+        "name": "Trixie Mattel: Moving Parts (The Acoustic Soundtrack)",
+        "url": "https://open.spotify.com/album/5Vcfkp2blCZRjJ7sjuVe1r"
+      },
+      "artists": [
+        {
+          "name": "Trixie Mattel",
+          "url": "https://open.spotify.com/artist/33hAj1SghVYxDAxZxNDcyc"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139626,
+      "name": "Heavy Crown",
+      "url": "https://open.spotify.com/track/5v2ByxOB3Q9p5DsAndtuO2"
     },
     {
       "album": {
@@ -992,7 +1068,7 @@
       ],
       "date_added": "2021-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 222833,
       "name": "I Adore U",
       "url": "https://open.spotify.com/track/3OJ34PxLlQZX8l6Ku0tyTF"
@@ -1032,7 +1108,7 @@
       ],
       "date_added": "2021-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 252125,
       "name": "I Call Shade",
       "url": "https://open.spotify.com/track/0onOgyilmAulciekLCqCM8"
@@ -1076,7 +1152,7 @@
       ],
       "date_added": "2021-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 215714,
       "name": "I Don't Give a Fuck (feat. Sharon Needles)",
       "url": "https://open.spotify.com/track/4Pq6Irdd2bE9DRleZJjaik"
@@ -1164,7 +1240,7 @@
       ],
       "date_added": "2021-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 232316,
       "name": "I Look Fuckin Cool (feat. Alaska Thunderfuck)",
       "url": "https://open.spotify.com/track/7yw6CspnXzSqxmXj4TxmJd"
@@ -1247,6 +1323,24 @@
     },
     {
       "album": {
+        "name": "It's Chocolate",
+        "url": "https://open.spotify.com/album/7kg8LjngDFhg6s1LqPlaNF"
+      },
+      "artists": [
+        {
+          "name": "LaLa Ri",
+          "url": "https://open.spotify.com/artist/5sOIZhuDe7GzTTdJMVLmNz"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159718,
+      "name": "It's Chocolate",
+      "url": "https://open.spotify.com/track/4J3THSWqN2TfLrsjefOk89"
+    },
+    {
+      "album": {
         "name": "Full Coverage Vol. 1",
         "url": "https://open.spotify.com/album/6MGtowaFObe80ZFTm0zYn2"
       },
@@ -1262,7 +1356,7 @@
       ],
       "date_added": "2021-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 157099,
       "name": "Jackson (feat. Orville Peck)",
       "url": "https://open.spotify.com/track/1dUnjl4wJgJKM6BfXjqwTD"
@@ -1350,7 +1444,7 @@
       ],
       "date_added": "2021-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 204253,
       "name": "Kai Kai (feat. Ana Matronic & Alaska Thunderfuck)",
       "url": "https://open.spotify.com/track/6USvKsRGsInSYYvL5hqD2V"
@@ -1386,7 +1480,7 @@
       ],
       "date_added": "2021-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 200680,
       "name": "London",
       "url": "https://open.spotify.com/track/1XoOdlKTaLhg4RouORhowS"
@@ -1785,6 +1879,24 @@
     },
     {
       "album": {
+        "name": "The Rise and Fall of a Midwest Princess",
+        "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258034,
+      "name": "Pink Pony Club",
+      "url": "https://open.spotify.com/track/1k2pQc5i348DCHwbn5KTdc"
+    },
+    {
+      "album": {
         "name": "Pray for Love",
         "url": "https://open.spotify.com/album/66CHixhq5wWkHHhsGJ3wpl"
       },
@@ -1818,7 +1930,7 @@
       ],
       "date_added": "2021-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 235106,
       "name": "Pray for Love - Formation Remix",
       "url": "https://open.spotify.com/track/3DKL9xzJ6wltVgFsrRdhjz"
@@ -1862,7 +1974,7 @@
       ],
       "date_added": "2021-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 140242,
       "name": "Pretty Girl Anthem (feat. Peppermint)",
       "url": "https://open.spotify.com/track/79qxlakBDfZNf9gNeFJa7n"
@@ -1982,7 +2094,7 @@
       ],
       "date_added": "2021-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 200249,
       "name": "Rubber Doll",
       "url": "https://open.spotify.com/track/7Bpqv11PexJbK6f0LlDqsJ"
@@ -2040,6 +2152,24 @@
       "duration_ms": 168666,
       "name": "Satellite",
       "url": "https://open.spotify.com/track/3KwLphYunPNCGwsCkr9OCq"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1wbnnz5PKjCVkUZBBDHetm"
+      },
+      "artists": [
+        {
+          "name": "Trixie Mattel",
+          "url": "https://open.spotify.com/artist/33hAj1SghVYxDAxZxNDcyc"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "Shadow - Spotify Singles",
+      "url": "https://open.spotify.com/track/6gGUDB4bS7FhhtGVmjADGr"
     },
     {
       "album": {
@@ -2246,7 +2376,7 @@
       ],
       "date_added": "2021-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 239933,
       "name": "Supermodel (You Better Work)",
       "url": "https://open.spotify.com/track/7tvMOBSGPAl4Gyiq6fdiRd"
@@ -2688,7 +2818,7 @@
       ],
       "date_added": "2021-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 158222,
       "name": "Wrong Bitch",
       "url": "https://open.spotify.com/track/3eOYEYe2VUsiOSCW53OiZv"

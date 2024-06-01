@@ -2,7 +2,7 @@
 
 ### [Rap Motivazionale](https://open.spotify.com/playlist/37i9dQZF1DWYBofUhpgE88)
 
-> Atalanta, l'Europa League è tua 🏆 Rap per non smettere mai di crederci 💪🏋️🏃‍♀ Ademola Lookman in cover.
+> Rap per non smettere mai di crederci 🏆 💪🏋️🏃‍♀ Ademola Lookman in cover.
 
 199 songs - 11 hr 3 min
 

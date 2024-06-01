@@ -4,7 +4,7 @@
 
 > Explore the inner worlds floating in the imagination of experimental Ambient music producers.
 
-329 songs - 1 day 4 hr 37 min
+330 songs - 1 day 4 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [Endless Filament](https://open.spotify.com/track/2ST4AaDsvY9D15iZSJuMXj) | [Fia Fiell](https://open.spotify.com/artist/4C8lEDj85NWxS4MNCpyp9e) | [Endless Filament](https://open.spotify.com/album/1pgBqtipj2AI0o07ugj5rl) | 15:37 | 2022-08-31 |  |
 | [Equivalent 7](https://open.spotify.com/track/2INERy7ISuQM07gKwjEVos) | [Loscil](https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK), [Secret Pyramid](https://open.spotify.com/artist/1a4TAz1A8cp9SRNhOPXBM0) | [Equivalents](https://open.spotify.com/album/6U30ugActrLoDvKgESHFQs) | 6:50 | 2021-10-06 |  |
 | [Eudaimonia](https://open.spotify.com/track/783O4qVbGgKUFJ3h4e0rBa) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c), [Lowell Brams](https://open.spotify.com/artist/1hCuN7zeXgcoLq6Ys1UOe4) | [Aporia](https://open.spotify.com/album/5gWWMy8wggZzv84wbLuQPT) | 2:19 | 2021-10-06 | 2022-07-26 |
+| [Even Stars Explode](https://open.spotify.com/track/39BZWNlhye6ywVK486XCxp) | [Singleton](https://open.spotify.com/artist/21JuplSnwK51Cp5olrc7q8) | [Even Stars Explode](https://open.spotify.com/album/5BdZD5rHgKuAdOUO6Q4iOu) | 3:31 | 2024-05-30 |  |
 | [Everyone is Far Away](https://open.spotify.com/track/4fmMywOoOP53r34yowvadz) | [Tapes and Topographies](https://open.spotify.com/artist/6rmx6yRqggZxsha4WKns43) | [Amplitudes](https://open.spotify.com/album/41je9hrZffgF9mq47cGiMk) | 5:28 | 2022-01-14 |  |
 | [EveryWhen \- Bonus Track](https://open.spotify.com/track/0H8AcdcDVy6ZvuiOliNTD7) | [Hammock](https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1) | [EveryWhen \(Bonus Track\)](https://open.spotify.com/album/1l2Zp9sLR4Y2aLrzBhhv43) | 4:37 | 2021-10-06 | 2022-07-28 |
 | [EveryWhen \- Bonus Track](https://open.spotify.com/track/2HGeIYpOrU9u5UR9Z98mx9) | [Hammock](https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1) | [Longest Year \(2020\)](https://open.spotify.com/album/3FKwVYsfaB2XWO4anB4LeC) | 4:37 | 2023-04-21 | 2024-04-19 |
@@ -234,7 +235,7 @@
 | [Return Forever](https://open.spotify.com/track/3S2TaFyKQ03FAoBE75ikkK) | [Innere Tueren](https://open.spotify.com/artist/7mVDs9l7aRtmHrnE4T768y) | [Return Forever](https://open.spotify.com/album/01zA9wGdao7OUKN9Ce2lyT) | 4:41 | 2021-10-06 |  |
 | [Reverse Culture Music](https://open.spotify.com/track/1H5F2CscHZSaiLMzZWWDSh) | [Steve Hauschildt](https://open.spotify.com/artist/2L00vHmYcwC9OlsEv6M5UO) | [Nonlin](https://open.spotify.com/album/3TkzTDlRwpaEgXzLK7MsL3) | 6:09 | 2021-10-06 | 2022-07-29 |
 | [Reverse Culture Music](https://open.spotify.com/track/31Wl8j2L7CUPXjyQ4QCFfK) | [Steve Hauschildt](https://open.spotify.com/artist/2L00vHmYcwC9OlsEv6M5UO) | [Nonlin](https://open.spotify.com/album/1HG66ZvnAjtbKyWoXvBLTn) | 6:09 | 2021-10-06 | 2024-04-19 |
-| [Rise](https://open.spotify.com/track/71DKAvZJ4eDrFdtqGfxALd) | [Edgar Mondragón](https://open.spotify.com/artist/5I0dT5ftsahh9CXCvwWS0D) | [Inner Rage](https://open.spotify.com/album/3k7kOAsZhqLlIO0pouLde8) | 6:14 | 2022-09-27 |  |
+| [Rise](https://open.spotify.com/track/71DKAvZJ4eDrFdtqGfxALd) | [Edgar Mondragón](https://open.spotify.com/artist/5I0dT5ftsahh9CXCvwWS0D) | [Inner Rage](https://open.spotify.com/album/3k7kOAsZhqLlIO0pouLde8) | 6:14 | 2022-09-27 | 2024-06-01 |
 | [Roaming](https://open.spotify.com/track/5q8EX29mKKA3epupwlxR64) | [Photay](https://open.spotify.com/artist/1MSxOmIt7uYgvPydd1tU8F) | [Roaming](https://open.spotify.com/album/6Ks5xAWcNa0hEfhdGriVI9) | 4:50 | 2021-10-06 | 2024-05-13 |
 | [Rooftop](https://open.spotify.com/track/3iwhnEIa8SILkNd1j2PWG3) | [Tujiko Noriko](https://open.spotify.com/artist/7n9eKttEekbKaDErD29u7l) | [Kuro \(OST\)](https://open.spotify.com/album/7gLMFIEGokaYtPBKRCYSjG) | 4:45 | 2021-10-06 | 2024-02-26 |
 | [Rooftop](https://open.spotify.com/track/5NNOsJUUr9FMAjbR0OrW2z) | [Tujiko Noriko](https://open.spotify.com/artist/7n9eKttEekbKaDErD29u7l) | [Kuro \(OST\)](https://open.spotify.com/album/19T8jn8CL3WTkwT71g9Hmg) | 4:45 | 2021-10-06 | 2022-07-27 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: Mollie Collins x Jamezy x Ruth Royall",
+  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: Kryder",
   "name": "Spinnin' Records Brand New",
   "tracks": [
     {
@@ -222,7 +222,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 163189,
       "name": "33 Max Verstappen (Dj Ren\u00e9 Abrego Mexico Remix)",
       "url": "https://open.spotify.com/track/0ZM7l1RhuyjeXgi8D5qJBd"
@@ -1232,6 +1232,28 @@
       "duration_ms": 167619,
       "name": "Ambush",
       "url": "https://open.spotify.com/track/3MjhqvELJKX433TQS2zsQF"
+    },
+    {
+      "album": {
+        "name": "AMEN",
+        "url": "https://open.spotify.com/album/6HBGVaSGhLZQVT5no3HQK9"
+      },
+      "artists": [
+        {
+          "name": "ASHER SWISSA",
+          "url": "https://open.spotify.com/artist/4ZLrfqX4cxTrthF8AILMAM"
+        },
+        {
+          "name": "Y do I",
+          "url": "https://open.spotify.com/artist/4GVWch4tEmNGIx9gAWrnex"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270720,
+      "name": "AMEN",
+      "url": "https://open.spotify.com/track/7DBEWi8wCOKiZbXP52yPFo"
     },
     {
       "album": {
@@ -4491,6 +4513,32 @@
     },
     {
       "album": {
+        "name": "Click Click Click",
+        "url": "https://open.spotify.com/album/5Zvp6MgsmxCHWNB4G7WbVl"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Hedex",
+          "url": "https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t"
+        },
+        {
+          "name": "Basslayerz",
+          "url": "https://open.spotify.com/artist/3jBkpEV3zrHLO6r2iKZeew"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167600,
+      "name": "Click Click Click",
+      "url": "https://open.spotify.com/track/5E1XI3JnHOoSEcY2hYnbhj"
+    },
+    {
+      "album": {
         "name": "CLIMAX",
         "url": "https://open.spotify.com/album/06Lx8lS8EqNzl4tWIdHhSh"
       },
@@ -5566,6 +5614,32 @@
       "duration_ms": 329165,
       "name": "Dance Is The Answer (feat. Raja Ram)",
       "url": "https://open.spotify.com/track/56rqKeuhAVv2E6RK5BifIS"
+    },
+    {
+      "album": {
+        "name": "Dance To The Beat (Pitchin')",
+        "url": "https://open.spotify.com/album/53GJ4zDB6gG6jm61tCO7aJ"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
+        {
+          "name": "Just_us",
+          "url": "https://open.spotify.com/artist/0iPzFfhXb2ilEodYsMoUX4"
+        },
+        {
+          "name": "Hi-Gate",
+          "url": "https://open.spotify.com/artist/3b2xWHAlRoTooJKEnhc2cv"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161029,
+      "name": "Dance To The Beat (Pitchin')",
+      "url": "https://open.spotify.com/track/5swGONEYPfI5mEG7clVsRj"
     },
     {
       "album": {
@@ -6704,7 +6778,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 169087,
       "name": "Don\u2019t Let The Rain",
       "url": "https://open.spotify.com/track/3JySlQB4F2htZrQ0hnEf4H"
@@ -8099,6 +8173,24 @@
     },
     {
       "album": {
+        "name": "Fade Till Sunrise (Club Mix)",
+        "url": "https://open.spotify.com/album/7LtzKiFkOnIdJzwZAGHF1o"
+      },
+      "artists": [
+        {
+          "name": "Kryder",
+          "url": "https://open.spotify.com/artist/1xfLBmx0n8DQri9HxJsq9O"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179769,
+      "name": "Fade Till Sunrise (Club Mix)",
+      "url": "https://open.spotify.com/track/6TLMvGmFGS1V7cnuQ6pVmS"
+    },
+    {
+      "album": {
         "name": "Fading",
         "url": "https://open.spotify.com/album/2h7InYG0fvKPS6mhg3FejV"
       },
@@ -8666,6 +8758,24 @@
       "duration_ms": 154560,
       "name": "Feel The Same (feat. Jordan Grace) - Alternative Mix",
       "url": "https://open.spotify.com/track/7oIRkPpm2PwTniDA85qOky"
+    },
+    {
+      "album": {
+        "name": "Feel What You Want",
+        "url": "https://open.spotify.com/album/6K9mw4QPwpsvj8hmj5ITjv"
+      },
+      "artists": [
+        {
+          "name": "Floris van Oranje",
+          "url": "https://open.spotify.com/artist/6WrQtpzvML5W3b8ZvqMZ2o"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154015,
+      "name": "Feel What You Want",
+      "url": "https://open.spotify.com/track/38TvZjyie683nvVIxR0mDi"
     },
     {
       "album": {
@@ -9824,7 +9934,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 165909,
       "name": "Get Busy - Odd Mob Club Mix",
       "url": "https://open.spotify.com/track/76UVi3tz2rpTOPtvstIoK2"
@@ -11744,6 +11854,28 @@
       "duration_ms": 155076,
       "name": "I Got Lost In Berlin",
       "url": "https://open.spotify.com/track/3LpQssJbl7b65Jl4BDDI3d"
+    },
+    {
+      "album": {
+        "name": "I Got To Move",
+        "url": "https://open.spotify.com/album/6ni5No6JAyiCgLwWWrloeb"
+      },
+      "artists": [
+        {
+          "name": "Piero Pirupa",
+          "url": "https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB"
+        },
+        {
+          "name": "Marco Lys",
+          "url": "https://open.spotify.com/artist/5WiohqjMNs7MtChjoHE9D1"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176250,
+      "name": "I Got To Move",
+      "url": "https://open.spotify.com/track/615byThVUrcnzb9trhe7yy"
     },
     {
       "album": {
@@ -13730,6 +13862,32 @@
       "duration_ms": 155714,
       "name": "Kill Me",
       "url": "https://open.spotify.com/track/3pUliSgTWnfJnqHdjYGflL"
+    },
+    {
+      "album": {
+        "name": "Kill The Vibe",
+        "url": "https://open.spotify.com/album/3RajPAonNivFPajGSnsh42"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "MORTEN",
+          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
+        },
+        {
+          "name": "Prophecy",
+          "url": "https://open.spotify.com/artist/03O6WINYmDJRCE2EUFaykv"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166917,
+      "name": "Kill The Vibe",
+      "url": "https://open.spotify.com/track/4Mw1vqYfDWL2d8dJLWFYQp"
     },
     {
       "album": {
@@ -16484,7 +16642,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 236129,
       "name": "Make It Loud",
       "url": "https://open.spotify.com/track/4lXEBALFOZ9cxp3NgSWDhN"
@@ -24597,6 +24755,28 @@
     },
     {
       "album": {
+        "name": "Stumblin' In (NewEra Remix)",
+        "url": "https://open.spotify.com/album/4WtfRKnIItcvmZzBIpj72q"
+      },
+      "artists": [
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        },
+        {
+          "name": "NewEra",
+          "url": "https://open.spotify.com/artist/4QLa9DWZEpFrBhNG5UWXF1"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174374,
+      "name": "Stumblin\u2019 In (NewEra Remix)",
+      "url": "https://open.spotify.com/track/5Kfpk5v9agDddawbERjbiu"
+    },
+    {
+      "album": {
         "name": "Suave",
         "url": "https://open.spotify.com/album/6liQP8Z2oGupwYcM8V5y6o"
       },
@@ -25260,7 +25440,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 182709,
       "name": "Take Me Away (feat. 4 Strings)",
       "url": "https://open.spotify.com/track/6uwZTxW1wBkWNSAqd1noW8"
@@ -27908,7 +28088,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 195768,
       "name": "VIKINGS (Hey Ho)",
       "url": "https://open.spotify.com/track/6IT0imWqG8TkVQhyMZEVm7"

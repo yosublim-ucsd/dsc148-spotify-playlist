@@ -2,9 +2,9 @@
 
 ### [K\-Folk/Acoustic](https://open.spotify.com/playlist/37i9dQZF1DX1wdZM1FEz79)
 
-> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover:Darin\(다린\)\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
+> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover:Jeon Jin Hee\(전진희\)\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
 
-503 songs - 1 day 5 hr 58 min
+505 songs - 1 day 6 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,7 +121,7 @@
 | [farewell](https://open.spotify.com/track/5hA75OHYKyPHy4kgeweYdN) | [kennytheking](https://open.spotify.com/artist/4693A2I2TyU25cJJLJXgYS) | [farewell](https://open.spotify.com/album/3eTH3qFWitLWTLh8iRNrOd) | 2:39 | 2023-02-14 | 2023-02-25 |
 | [Fine](https://open.spotify.com/track/4QaqH8QPjz88z79Vo8tpEc) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [Fine](https://open.spotify.com/album/2KKDysbROKOvoGMokZADLZ) | 4:11 | 2022-02-18 | 2022-04-20 |
 | [Fine](https://open.spotify.com/track/6CdUgvL597jWmW4w8P5kHs) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [My Voice \- The 1st Album](https://open.spotify.com/album/6DlCl3hBP1Gwhn0tgitGfN) | 3:29 | 2021-12-10 |  |
-| [First Confession](https://open.spotify.com/track/449Oc8OI6gPZo8FFuCEYO2) | [Norwegian Wood](https://open.spotify.com/artist/2Uvrls9HlspsRUtW6mp4Q3), [Eunbyeol](https://open.spotify.com/artist/6w4yTmsjdEcvc2nKuQo6gJ) | [First Confession](https://open.spotify.com/album/13AOgIWiuBJCMvAyBWW9SU) | 4:01 | 2024-05-10 |  |
+| [First Confession](https://open.spotify.com/track/449Oc8OI6gPZo8FFuCEYO2) | [Norwegian Wood](https://open.spotify.com/artist/2Uvrls9HlspsRUtW6mp4Q3), [Eunbyeol](https://open.spotify.com/artist/6w4yTmsjdEcvc2nKuQo6gJ) | [First Confession](https://open.spotify.com/album/13AOgIWiuBJCMvAyBWW9SU) | 4:01 | 2024-05-10 | 2024-06-01 |
 | [First dance](https://open.spotify.com/track/6f7r1qCJBPZo5NubaKPipP) | [PERC%NT](https://open.spotify.com/artist/0cjZuJ13yFVPa5Nn0YUTbx) | [OVERHAUL](https://open.spotify.com/album/2knl4OxinpGhYjUstyDXmB) | 3:43 | 2022-03-31 | 2022-04-18 |
 | [Flashback](https://open.spotify.com/track/48IH46gTbuyXsL5EjtRHxo) | [권결](https://open.spotify.com/artist/0jy3BB8xJVu7fuBeD9OolD) | [Flashback](https://open.spotify.com/album/5ZOFISUwly1UlG4k0dBL7i) | 2:40 | 2022-03-31 | 2022-04-16 |
 | [For a Long Time 오래도록 반짝이게](https://open.spotify.com/track/1iyrKf79eBRdPoxQ1zawzu) | [saevom](https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca), [Jeong Yubin](https://open.spotify.com/artist/3hTlITCaMAJYlwQpcUv1hl) | [The End of The Summer 새봄, 04 소품집 \`여름녘\`](https://open.spotify.com/album/0pgphJHEePy829QEVesrXs) | 4:03 | 2021-12-10 | 2022-07-29 |
@@ -218,6 +218,7 @@
 | [Just 10 centimeters](https://open.spotify.com/track/4FKmrrI6y8REWoCyV5tAhY) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Just 10 centimeters](https://open.spotify.com/album/5tu1i1zZVNP5aZ7UNrAviL) | 3:15 | 2022-09-27 |  |
 | [Just another breakup song \(with Yun DDanDDan of 2016\)](https://open.spotify.com/track/7rTVQk8fang6utPONH93NV) | [Yun DDanDDan](https://open.spotify.com/artist/0fnx3yyvXH5E0UATpygzzt) | [Old Pieces](https://open.spotify.com/album/4xzSvcmwdc0CHsRh3vPBJT) | 3:50 | 2022-06-09 | 2022-06-14 |
 | [Just thinking about you](https://open.spotify.com/track/1ew4EemwjPuSsCuj1ezEfB) | [Vanilla Acoustic](https://open.spotify.com/artist/57xPD2CfuwxN6Ld7rf2iLG) | [Just thinking about you](https://open.spotify.com/album/5Svdk66Dvkf51EyVQCIf5u) | 3:38 | 2021-12-10 | 2022-07-24 |
+| [Just two like friends \(Come travel with me, Mom? X Kwak Jin Eon\) \(Original Soundtrack\)](https://open.spotify.com/track/0Rw01MTWw2086rLqNLwxG2) | [Kwak Jin Eon](https://open.spotify.com/artist/4xQ4GjBomHvTRL1GO624zd) | [Just two like friends \(Come travel with me, Mom? X Kwak Jin Eon\) \(Original Soundtrack\)](https://open.spotify.com/album/3UKYmcy742I9QAZ8aC9XY4) | 4:52 | 2024-05-30 |  |
 | [KeeB Going](https://open.spotify.com/track/06BqqEcWYMAw2KexwfjSNW) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [KeeB Going](https://open.spotify.com/album/2lSRYdUmYfIP6mDZVI3AFb) | 1:47 | 2022-11-11 | 2022-11-21 |
 | [Keep This Moment](https://open.spotify.com/track/0ykk20f023G61Ds0IeF4KB) | [JINHO](https://open.spotify.com/artist/3hFLEV38JDeNr3L0HIkeG0) | [Keep This Moment \(From "Going to You at a Speed of 493km" \[Original Soundtrack\]\), Pt.4](https://open.spotify.com/album/5j7JmzdgWs2VSyGLod2VKs) | 3:20 | 2022-05-13 | 2022-05-31 |
 | [Kim Cheolsu Story](https://open.spotify.com/track/48mBeNB9eRSxbPn9bDIcyn) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [Kim Cheolsu Story](https://open.spotify.com/album/7hvLtgOO2CbZkEhrsjjlC2) | 4:08 | 2022-01-13 |  |
@@ -318,6 +319,7 @@
 | [Quince Tree](https://open.spotify.com/track/3GRm8zn22TL98gEZTweXRu) | [Yozoh](https://open.spotify.com/artist/2Y6RMrspOMXAYSD4U57qS7) | [Quince Tree](https://open.spotify.com/album/24fa0DG8OcGW2U9A0V2vbF) | 3:07 | 2022-03-31 | 2022-04-20 |
 | [Rain \(feat\. JINKYUNG\)](https://open.spotify.com/track/3YeliQKcFNLDt9JzmxA11b) | [Illanc](https://open.spotify.com/artist/32gNSbC3pqODMrMWmkphRL), [JINKYUNG](https://open.spotify.com/artist/6PBSrMKOcL8L8YkZlZC3ne) | [Rain](https://open.spotify.com/album/1Dv0QgPO6rZ8MUPjDAuexT) | 3:38 | 2022-07-04 | 2022-08-10 |
 | [Rain In The Night](https://open.spotify.com/track/3ISTUp8tjTZxDQyhwMQbP5) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [B\_ye](https://open.spotify.com/album/7JKxvinZqgB6w5X7ck8Wwk) | 4:01 | 2021-12-10 | 2022-06-21 |
+| [RAINING](https://open.spotify.com/track/423tVeKOEyAnYZoUg6mAwG) | [Jeon Jin Hee](https://open.spotify.com/artist/7MnWezV00qoqnc9aeG0gxg) | [RAINING](https://open.spotify.com/album/23E6A6rqAHwel3ug39DwQx) | 4:40 | 2024-05-30 |  |
 | [Rainy Street](https://open.spotify.com/track/2oA6RCfKss1JWAQlEI6t4L) | [Yu Seung Woo](https://open.spotify.com/artist/5ZSPRYslMYdwfwkKNcmBJf) | [Rewind : Blossom Side A](https://open.spotify.com/album/4YZ9E6yT1aAJguVIi8KBN8) | 4:20 | 2022-01-13 | 2022-04-18 |
 | [Real Love \- Acoustic Version](https://open.spotify.com/track/3PnRVS7NR14WdvCTXLSFFB) | [Henry](https://open.spotify.com/artist/1sjw4xq2pAWy5Vdgba5QAt) | [Real Love \(Acoustic Version\)](https://open.spotify.com/album/5qTqvyDsmConcKddcZna13) | 3:03 | 2022-03-31 | 2022-04-20 |
 | [Reason \(Vocal by Kim Seonho\)](https://open.spotify.com/track/1qDpiJRazdFxAfFZIVWy12) | [Epitone Project](https://open.spotify.com/artist/0RLe3YEakXpt0FEXyFtwgN) | [Reason \(Vocal by Kim Seonho\)](https://open.spotify.com/album/5MnLSMaZmIPQf6oMyUiGas) | 3:37 | 2021-12-10 | 2022-08-13 |
@@ -364,7 +366,7 @@
 | [Spring in September](https://open.spotify.com/track/5PkgKQxZ73NxGaKdWrAUNg) | [Ulala Session](https://open.spotify.com/artist/2EFJSNZzGSfLXMfAaxbK2A) | [Spring in September](https://open.spotify.com/album/6iZSNXjixRDZ6owQkOM37K) | 3:43 | 2022-03-31 | 2022-04-11 |
 | [Spring Love \(feat\. Ahin\)](https://open.spotify.com/track/6yfBZ5lr40Ckhas4fAD1r2) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ), [Ahin](https://open.spotify.com/artist/5JNaIRLfD6BwSR0R6jfT6B) | [Spring Love \(feat\. Ahin\)](https://open.spotify.com/album/1rbVqD8VBB5U0pJN5wdLLM) | 3:32 | 2022-03-31 | 2022-04-19 |
 | [Spring With You \(feat\. 20 Years of Age\)](https://open.spotify.com/track/6x2NxClyNFYyxfzr7Accjn) | [Vanilla Acoustic](https://open.spotify.com/artist/57xPD2CfuwxN6Ld7rf2iLG), [20 Years of Age](https://open.spotify.com/artist/0KaZcu3pEVHfYOnB62eLFp) | [Fit Me](https://open.spotify.com/album/7nGDmQqfUlVvXnmJF4Aid9) | 3:47 | 2022-04-12 | 2022-04-14 |
-| [STAR](https://open.spotify.com/track/0DZ2mMWPkgDwWBnH6gtsQW) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [Our Blues, Pt\. 8 \(Original Television Soundtrack\)](https://open.spotify.com/album/7HGYMEqDL4pBarAVmpQDho) | 4:17 | 2022-06-20 |  |
+| [STAR](https://open.spotify.com/track/0DZ2mMWPkgDwWBnH6gtsQW) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [Our Blues, Pt\. 8 \(Original Television Soundtrack\)](https://open.spotify.com/album/7HGYMEqDL4pBarAVmpQDho) | 4:17 | 2022-06-20 | 2024-06-01 |
 | [Starlight](https://open.spotify.com/track/05ho1OFzZj2yGMcEGPKtCF) | [92914](https://open.spotify.com/artist/0Zoe6ljAJo85rggnN6OaOF) | [Starlight](https://open.spotify.com/album/7hhddpXpVkzeJBgR4zkis2) | 4:33 | 2021-12-10 | 2022-07-21 |
 | [Starlight](https://open.spotify.com/track/3zqS0EHUWTE9BDU3hf2aRd) | [92914](https://open.spotify.com/artist/0Zoe6ljAJo85rggnN6OaOF) | [Starlight](https://open.spotify.com/album/1NBKHWgypm4yyAbz6PyZEG) | 4:33 | 2022-07-08 | 2023-09-03 |
 | [Starlight](https://open.spotify.com/track/6gxVNoinjJVVpGryxillDN) | [92914](https://open.spotify.com/artist/0Zoe6ljAJo85rggnN6OaOF) | [Starlight](https://open.spotify.com/album/62JssOJCHZampb4T15GkP8) | 4:33 | 2023-09-19 | 2024-04-04 |

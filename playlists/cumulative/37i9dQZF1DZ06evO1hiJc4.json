@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-19",
-  "description": "This Is Labrinth. Los temas esenciales, todos en una lista.",
+  "description": "This is Labrinth. The essential tracks, all in one playlist.",
   "name": "This Is Labrinth",
   "tracks": [
     {
@@ -188,7 +188,7 @@
       ],
       "date_added": "2024-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 272789,
       "name": "Blood",
       "url": "https://open.spotify.com/track/0CZTaVSntZY58fdKS52WAb"
@@ -459,6 +459,36 @@
     },
     {
       "album": {
+        "name": "It's Almost Dry",
+        "url": "https://open.spotify.com/album/6o38CdD7CUlZDCFhjZYLDH"
+      },
+      "artists": [
+        {
+          "name": "Pusha T",
+          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+        },
+        {
+          "name": "No Malice",
+          "url": "https://open.spotify.com/artist/4P4gZvRYiVpvtCkmd37jRM"
+        },
+        {
+          "name": "Clipse",
+          "url": "https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2"
+        },
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "date_added": "2024-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261907,
+      "name": "I Pray For You (feat. Labrinth & MALICE)",
+      "url": "https://open.spotify.com/track/7HsG7U7aQhafXqa41dBxlK"
+    },
+    {
+      "album": {
         "name": "Incredible (feat. Labrinth)",
         "url": "https://open.spotify.com/album/5ZoC2lrruEGZJCKppgOYoV"
       },
@@ -684,7 +714,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 284271,
       "name": "Love Goes (feat. Labrinth)",
       "url": "https://open.spotify.com/track/5aRlRDvXRuP81qEzKTXQvM"
@@ -922,7 +952,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-28",
+      "date_removed": null,
       "duration_ms": 189920,
       "name": "Same Team (feat. Stefflon Don)",
       "url": "https://open.spotify.com/track/7Db4ViXHhXYznDDRdfX2VB"

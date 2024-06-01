@@ -4,7 +4,7 @@
 
 > Pop de los mejores artistas colombianos\. ¡Dale play! Foto: Bacilos
 
-209 songs - 11 hr 6 min
+210 songs - 11 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Cuánto Me Duele](https://open.spotify.com/track/2sqYGwxcC33aD3rh35hlOK) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Cuánto Me Duele](https://open.spotify.com/album/2JptMMyCWEp3DlNRdVYKwo) | 3:53 | 2024-02-16 | 2024-04-19 |
 | [Cámara Lenta](https://open.spotify.com/track/2Ur0FiCEof5GoKsZDR9eyR) | [César Pinzón](https://open.spotify.com/artist/6WmcwbAC7wUcuPzXzxxcG6) | [Cámara Lenta](https://open.spotify.com/album/3NXbBQrzVnzHfBKhwcm1Nl) | 3:15 | 2023-02-17 | 2023-03-18 |
 | [Cómo Dónde y Cuándo](https://open.spotify.com/track/40Ccxt7rKCXiViGQKPPACR) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Las Mujeres Ya No Lloran](https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA) | 2:59 | 2024-05-03 |  |
-| [Dejarlos Entrar](https://open.spotify.com/track/5CesWiJGZ2pHlNYik6FBHz) | [Antonia Jones](https://open.spotify.com/artist/5k51uvP0VIISXtITjGNRLL) | [Antonia Jones](https://open.spotify.com/album/5gcE6WCcD8zCfXvttpqwZt) | 3:03 | 2024-04-19 |  |
+| [Dejarlos Entrar](https://open.spotify.com/track/5CesWiJGZ2pHlNYik6FBHz) | [Antonia Jones](https://open.spotify.com/artist/5k51uvP0VIISXtITjGNRLL) | [Antonia Jones](https://open.spotify.com/album/5gcE6WCcD8zCfXvttpqwZt) | 3:03 | 2024-04-19 | 2024-06-01 |
 | [Demasiado Lejos](https://open.spotify.com/track/5ssfE8stObAdewUXpSdG2I) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Demasiado Lejos](https://open.spotify.com/album/6ffoY6voawepJR0R8xIyQA) | 2:59 | 2023-10-27 | 2024-04-13 |
 | [Desde Hola](https://open.spotify.com/track/0oQfmHrqjn3kQM1mlIf3lY) | [Maca & Gero](https://open.spotify.com/artist/6u8guISpLd1Al1exxE6BtV) | [Desde Hola](https://open.spotify.com/album/2YqHcXxyejgWVXRmPoDIXf) | 3:11 | 2023-11-10 |  |
 | [Después de la Tormenta](https://open.spotify.com/track/4ivDHA6dgIlrit7blIR1hm) | [Santiago Cruz](https://open.spotify.com/artist/5ClJtuiNlr83ua45Dvpcf7) | [Después de la Tormenta](https://open.spotify.com/album/7brGiRbMHwI4ZuhmXKxuyy) | 3:25 | 2023-02-17 | 2023-03-10 |
@@ -63,6 +63,7 @@
 | [El Gran Teatro](https://open.spotify.com/track/2n9rHWOVp9Dyy64MNPH3Sf) | [Santiago Cruz](https://open.spotify.com/artist/5ClJtuiNlr83ua45Dvpcf7), [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6) | [Nueve](https://open.spotify.com/album/7EnM4Hxe911FnoxbHlfADy) | 3:53 | 2023-02-17 | 2023-04-29 |
 | [El Mismo Lugar](https://open.spotify.com/track/1XPMT2vZddFZAKrxSWyRBN) | [Manú](https://open.spotify.com/artist/3iyr6xJPyHx8ptqqzMHDVE) | [El Mismo Lugar](https://open.spotify.com/album/5TwX9RNm1X9N7pur94b7i6) | 2:38 | 2023-11-10 | 2024-02-17 |
 | [El Parrandero \(Masters en Parranda\)](https://open.spotify.com/track/3x4mGFoZa9rrPLCiQuRMWx) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr), [Sin Animo De Lucro](https://open.spotify.com/artist/1cyEMpyEQatd4xre5reEcR), [JBot & Tuti](https://open.spotify.com/artist/5jxVsaFreexOv9fypQsdEX) | [El Parrandero \(Masters en Parranda\)](https://open.spotify.com/album/4Jh6GEK8oIqVfFFRejbrFx) | 3:03 | 2023-02-17 |  |
+| [El Truco](https://open.spotify.com/track/4pbCHj8TU4TRS9mfRMsyWC) | [Duplat](https://open.spotify.com/artist/74Bgwc5zD9KyNHiMqy2QJO), [Santiago Cruz](https://open.spotify.com/artist/5ClJtuiNlr83ua45Dvpcf7) | [El Truco](https://open.spotify.com/album/3QeXGmXBACpr8eNfEPa9Mu) | 4:35 | 2024-05-31 |  |
 | [En Qué Planeta](https://open.spotify.com/track/4oEfPKL5ccBOR0wQhhpNX0) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [En Qué Planeta](https://open.spotify.com/album/5aCkxf8INZurAEDGBDk6Ur) | 2:52 | 2023-02-17 | 2023-09-09 |
 | [Encima De Mil](https://open.spotify.com/track/0X4XlUuu07vrEjSnIqrqLJ) | [Alejandro Santamaria](https://open.spotify.com/artist/7HXJp9OMIL5tdwZYleuBvy), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Encima De Mil](https://open.spotify.com/album/3TrLRkrcbxYZ0AINiu399E) | 3:09 | 2023-02-17 | 2024-05-17 |
 | [Energía Bacana](https://open.spotify.com/track/72O5JOfMVbbJVYD9DOCWMi) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Energía Bacana](https://open.spotify.com/album/2brG72G6JbbYbVM0lxuFTq) | 2:27 | 2023-11-03 |  |

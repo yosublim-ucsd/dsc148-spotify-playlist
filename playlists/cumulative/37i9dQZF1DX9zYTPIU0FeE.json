@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Journey through the exciting and innovative sounds of South African Jazz. Cover: <a href=\"https://open.spotify.com/artist/6W8K5VbMD7qZq60OeFgcFn?si=HO4FdZudQayyy1hYLsBTZA\">Herbie Tsoaeli</a>",
+  "description": "Journey through the exciting and innovative sounds of South African Jazz. Cover: <a href=\"https://open.spotify.com/artist/21Vw6haIClrf19wKkA68on?si=ce0_G90pR7mdITQnky4OlA\">Linda Sikhakhane</a>",
   "name": "Jazz NXT",
   "tracks": [
     {
@@ -1557,6 +1557,24 @@
     },
     {
       "album": {
+        "name": "Inkehli",
+        "url": "https://open.spotify.com/album/5HSsIxH98Ic7Mw0k12cmSm"
+      },
+      "artists": [
+        {
+          "name": "Linda Sikhakhane",
+          "url": "https://open.spotify.com/artist/21Vw6haIClrf19wKkA68on"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 413864,
+      "name": "Inkehli",
+      "url": "https://open.spotify.com/track/2sCSm8uWxprJbkwqk4roTs"
+    },
+    {
+      "album": {
         "name": "Umnikelo",
         "url": "https://open.spotify.com/album/7AFHOhItwamZalv57itrhZ"
       },
@@ -2040,7 +2058,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 365945,
       "name": "Libations: Omnyama",
       "url": "https://open.spotify.com/track/6Bd3QTwgistsqEXT5NfQ7d"
@@ -2152,6 +2170,24 @@
       "duration_ms": 288226,
       "name": "Mabaphile",
       "url": "https://open.spotify.com/track/041J8KXn8xjhQCcgfBQWsR"
+    },
+    {
+      "album": {
+        "name": "MaBrrrrrrrrr",
+        "url": "https://open.spotify.com/album/3RW0JPlmVfKYSXZEvg3ICs"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Jiyane Tree-O",
+          "url": "https://open.spotify.com/artist/4OKERbN3Zv7ZLU8XfINKBH"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296678,
+      "name": "MaBrrrrrrrrr",
+      "url": "https://open.spotify.com/track/0k6nNPe8JO0P2Z9ndX3IeZ"
     },
     {
       "album": {
@@ -3404,7 +3440,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 351773,
       "name": "Sunset (in California)",
       "url": "https://open.spotify.com/track/18imU79HqM0KmVm7bc1Z9H"

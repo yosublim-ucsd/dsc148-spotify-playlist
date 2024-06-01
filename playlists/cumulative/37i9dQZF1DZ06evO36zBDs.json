@@ -765,6 +765,24 @@
     },
     {
       "album": {
+        "name": "Iris",
+        "url": "https://open.spotify.com/album/5EoIMhQciDeHOfHhGSNq4T"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "date_added": "2024-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218106,
+      "name": "Wonder Night",
+      "url": "https://open.spotify.com/track/1mJtB1WTcJHphoPnJU1vwi"
+    },
+    {
+      "album": {
         "name": "\u306f\u3044\u304b\u3089\u3055\u3093\u304c\u901a\u308b",
         "url": "https://open.spotify.com/album/0dca4QVNK34ZVjcive1X1y"
       },
@@ -1216,7 +1234,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 187333,
       "name": "\u30bf\u30c3\u30c1",
       "url": "https://open.spotify.com/track/6FnQ5TUNu8DJxKJDwYeFJR"
@@ -1504,7 +1522,7 @@
       ],
       "date_added": "2022-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 279640,
       "name": "\u5fd8\u308c\u3066\u3082\u3044\u3044\u3088",
       "url": "https://open.spotify.com/track/4BbNUcHFb4ijbX1RYFDaU7"
@@ -1598,6 +1616,24 @@
       "duration_ms": 284346,
       "name": "\u660e\u65e5\u3001\u6625\u304c\u6765\u305f\u3089",
       "url": "https://open.spotify.com/track/28E0uOrw97kb28l1lqSuWk"
+    },
+    {
+      "album": {
+        "name": "Iris",
+        "url": "https://open.spotify.com/album/5EoIMhQciDeHOfHhGSNq4T"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "date_added": "2024-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242426,
+      "name": "\u672a\u6765\u822a\u8def",
+      "url": "https://open.spotify.com/track/331BiE6TuMyXIS1scMjPR9"
     },
     {
       "album": {

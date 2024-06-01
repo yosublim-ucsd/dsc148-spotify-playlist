@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Photo : GIMS x DYSTINCT",
+  "description": "Photo : Hamza x Kore",
   "name": "Best Life",
   "tracks": [
     {
@@ -220,6 +220,24 @@
       "duration_ms": 187157,
       "name": "Blue",
       "url": "https://open.spotify.com/track/74Sbxr7GNTQM8RyPEmp9Nq"
+    },
+    {
+      "album": {
+        "name": "Boba Fett",
+        "url": "https://open.spotify.com/album/7pulrmXWBkLyVPxYsWiJDa"
+      },
+      "artists": [
+        {
+          "name": "Lhiroyd",
+          "url": "https://open.spotify.com/artist/30ISUZ5Xkto4CyeClftpG8"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142018,
+      "name": "Boba Fett",
+      "url": "https://open.spotify.com/track/0OWpt66m9ca6Az6j4Y6org"
     },
     {
       "album": {
@@ -721,6 +739,24 @@
     },
     {
       "album": {
+        "name": "Mon \u00c2me - Summer Vibes",
+        "url": "https://open.spotify.com/album/4eGCU3guNX8aXnMVov0ZRS"
+      },
+      "artists": [
+        {
+          "name": "Lyna Mahyem",
+          "url": "https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179933,
+      "name": "Full",
+      "url": "https://open.spotify.com/track/1Bjh8hsHQZYjLQGW1b2sCR"
+    },
+    {
+      "album": {
         "name": "Guadalajara",
         "url": "https://open.spotify.com/album/4ORZW3jfpRuUYC7hg3IBKf"
       },
@@ -878,7 +914,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 175465,
       "name": "Khemem",
       "url": "https://open.spotify.com/track/1KcVcJuQEnUQoQ8IzjsdKV"
@@ -1108,7 +1144,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 179897,
       "name": "Ma beaut\u00e9",
       "url": "https://open.spotify.com/track/56ybIzUpbqWYdyzvcEggxo"
@@ -1316,7 +1352,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 190986,
       "name": "Noche",
       "url": "https://open.spotify.com/track/2OFjQrosVRVFY2nVxrFvBG"
@@ -1870,7 +1906,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 194049,
       "name": "Sakina",
       "url": "https://open.spotify.com/track/0GOS11A3ETbua6u0YsqDQ9"
@@ -2089,6 +2125,32 @@
     },
     {
       "album": {
+        "name": "Malcom",
+        "url": "https://open.spotify.com/album/0WuVSt5wBpyAmidXb7AN1e"
+      },
+      "artists": [
+        {
+          "name": "Zed",
+          "url": "https://open.spotify.com/artist/4reog9Hn84AuUWvGX5a2Yq"
+        },
+        {
+          "name": "Zola",
+          "url": "https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4"
+        },
+        {
+          "name": "Kore",
+          "url": "https://open.spotify.com/artist/78Die3Gb8yaElTmGCa7m7N"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149579,
+      "name": "S\u00fcle",
+      "url": "https://open.spotify.com/track/3hefq4rDF5ixBGNlbpOORL"
+    },
+    {
+      "album": {
         "name": "T'as capt\u00e9 (feat. Bryan Mg)",
         "url": "https://open.spotify.com/album/1sluSODxoTSXYJbLJVl4uB"
       },
@@ -2188,6 +2250,24 @@
       "duration_ms": 165353,
       "name": "Tiki Taka",
       "url": "https://open.spotify.com/track/0K55ldOka1q2n10pRLSTvs"
+    },
+    {
+      "album": {
+        "name": "Tout g\u00e2ch\u00e9",
+        "url": "https://open.spotify.com/album/2Rev1BAh4FMZNxcQbsdlj7"
+      },
+      "artists": [
+        {
+          "name": "Leto",
+          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150029,
+      "name": "Tout g\u00e2ch\u00e9",
+      "url": "https://open.spotify.com/track/2U8Rdlgi2r3KDp7Bc4e33s"
     },
     {
       "album": {

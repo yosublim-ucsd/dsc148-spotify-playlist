@@ -507,6 +507,28 @@
     },
     {
       "album": {
+        "name": "LONEWOLF",
+        "url": "https://open.spotify.com/album/6dDq4MNO1T4Gvllo2urL8A"
+      },
+      "artists": [
+        {
+          "name": "MadMan",
+          "url": "https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX"
+        },
+        {
+          "name": "thasup",
+          "url": "https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171060,
+      "name": "Bruce Wayne (feat. thasup)",
+      "url": "https://open.spotify.com/track/5mnX1xQIhIMztkuxBchRwr"
+    },
+    {
+      "album": {
         "name": "Teoria Del Contrario Mixtape Vol. 2",
         "url": "https://open.spotify.com/album/0IAX2njGSfQczvl5oN5ZLx"
       },
@@ -1632,7 +1654,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 162893,
       "name": "INCUBI",
       "url": "https://open.spotify.com/track/04Jt7tpjw9z0OugNDAZxnk"
@@ -2586,7 +2608,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 190568,
       "name": "Nel male e nel bene (feat. Massimo Pericolo)",
       "url": "https://open.spotify.com/track/0gpmaIaAS74HHiCoO462xj"
@@ -2833,6 +2855,24 @@
     },
     {
       "album": {
+        "name": "LONEWOLF",
+        "url": "https://open.spotify.com/album/6dDq4MNO1T4Gvllo2urL8A"
+      },
+      "artists": [
+        {
+          "name": "MadMan",
+          "url": "https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202791,
+      "name": "Perdono / Dylan Dog",
+      "url": "https://open.spotify.com/track/1yMA9O7QsBKQO5ZaGLf5oF"
+    },
+    {
+      "album": {
         "name": "Players Club '23 (Knights of the Posse) (feat. Nerissima Serpe, Artie 5ive, Tony Boy, Papa V, Low Red, Digital Astro & Kid Yugi)",
         "url": "https://open.spotify.com/album/1Df8xOZdbcPDUdOPsTrEVC"
       },
@@ -3056,6 +3096,32 @@
       "duration_ms": 152903,
       "name": "R2R",
       "url": "https://open.spotify.com/track/1qytWBYyu7eNVwoA2AIeko"
+    },
+    {
+      "album": {
+        "name": "CVLT - HELLRAISERS",
+        "url": "https://open.spotify.com/album/5QpNXrDu68PAmxEXYDSePw"
+      },
+      "artists": [
+        {
+          "name": "Salmo",
+          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+        },
+        {
+          "name": "Noyz Narcos",
+          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
+        },
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213269,
+      "name": "RAP MONEY (feat. Gu\u00e8)",
+      "url": "https://open.spotify.com/track/4KyZqiE5MDR7gZNThBWjg0"
     },
     {
       "album": {

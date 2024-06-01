@@ -1749,6 +1749,24 @@
     },
     {
       "album": {
+        "name": "Back Seat Driver",
+        "url": "https://open.spotify.com/album/3FAQ7kvLvOTR4N8iThevUK"
+      },
+      "artists": [
+        {
+          "name": "Velvet Groove",
+          "url": "https://open.spotify.com/artist/48LGJPZrYDxU9i6tKtakia"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180854,
+      "name": "Back Seat Driver",
+      "url": "https://open.spotify.com/track/15QMDN87HTKuwTPv7UcXPI"
+    },
+    {
+      "album": {
         "name": "Back When",
         "url": "https://open.spotify.com/album/5lcGVCFjiFNizsufqs1D0h"
       },
@@ -2736,6 +2754,24 @@
       "duration_ms": 218938,
       "name": "Catching Up With Time",
       "url": "https://open.spotify.com/track/1hLmsNcZK82o1sevUpqD9u"
+    },
+    {
+      "album": {
+        "name": "Cave of the Crystals",
+        "url": "https://open.spotify.com/album/6OTMyelIkd8rnNrR7bgzBB"
+      },
+      "artists": [
+        {
+          "name": "Irvin Smith Group",
+          "url": "https://open.spotify.com/artist/4SL7KeObcdWbpCRzEKlhCJ"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249022,
+      "name": "Cave of the Crystals",
+      "url": "https://open.spotify.com/track/7xy39H1NbRO6LZzeQ9Kjur"
     },
     {
       "album": {
@@ -5056,7 +5092,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 188355,
       "name": "For Theodora",
       "url": "https://open.spotify.com/track/782yLVaT5RonpqxonaqbNu"
@@ -6215,6 +6251,24 @@
     },
     {
       "album": {
+        "name": "Hush of Dawn",
+        "url": "https://open.spotify.com/album/1aNlMzhxcpkEKeNGUeQm6d"
+      },
+      "artists": [
+        {
+          "name": "Greydon Park Band",
+          "url": "https://open.spotify.com/artist/6pZIC4vzuNxdwy8hJSq29S"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150091,
+      "name": "Hush of Dawn",
+      "url": "https://open.spotify.com/track/5SWxseJy6QzD3bgIdHhA0I"
+    },
+    {
+      "album": {
         "name": "I awake",
         "url": "https://open.spotify.com/album/1H478Tq3lKuqWtTdzhLa8q"
       },
@@ -7223,6 +7277,24 @@
     },
     {
       "album": {
+        "name": "In Our Garden",
+        "url": "https://open.spotify.com/album/6hgpmv5kOrGaRDMQIBENtu"
+      },
+      "artists": [
+        {
+          "name": "The Groove Trio",
+          "url": "https://open.spotify.com/artist/4vmN5DgVFk2GDBHDu1ZJeb"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193895,
+      "name": "In Our Garden",
+      "url": "https://open.spotify.com/track/2XGgHEJiDP7qkH8LZOmMNG"
+    },
+    {
+      "album": {
         "name": "In Space And Time",
         "url": "https://open.spotify.com/album/6bye45GDWXbdltU1GRSP7g"
       },
@@ -7432,7 +7504,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 251001,
       "name": "Infinite Love",
       "url": "https://open.spotify.com/track/05TyTjyZ4mouBU8W4hSY5s"
@@ -8404,7 +8476,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 254864,
       "name": "Last Time We Kissed",
       "url": "https://open.spotify.com/track/2VKyHhj7QFTyxqOwyde1rS"
@@ -9304,7 +9376,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 171448,
       "name": "Lots of It",
       "url": "https://open.spotify.com/track/6s06FedC1pdyLQ9LmUX2oP"
@@ -9470,6 +9542,24 @@
       "duration_ms": 217674,
       "name": "Love's Declaration",
       "url": "https://open.spotify.com/track/1Af92SAPa18SSvdcdjJ0xB"
+    },
+    {
+      "album": {
+        "name": "Loved By You",
+        "url": "https://open.spotify.com/album/3NtUpVgi16hd5bvTCLgPbB"
+      },
+      "artists": [
+        {
+          "name": "Dorothy Lee",
+          "url": "https://open.spotify.com/artist/3o48LBxfAf2DslosQYX6Ud"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221536,
+      "name": "Loved By You",
+      "url": "https://open.spotify.com/track/7CvX3yYhl5Fzet8DpGbn8x"
     },
     {
       "album": {
@@ -9718,7 +9808,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 217798,
       "name": "Maybe We'll Meet Again",
       "url": "https://open.spotify.com/track/2ghcpXt1t7oQfHcF5hUBP2"
@@ -13563,6 +13653,24 @@
     },
     {
       "album": {
+        "name": "Sound Of Absence",
+        "url": "https://open.spotify.com/album/4BdhnKPxfPRveQXAqkiwzw"
+      },
+      "artists": [
+        {
+          "name": "Odo Lefebvre",
+          "url": "https://open.spotify.com/artist/7lLtsVLpDbuhSvr5UE6HIU"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186675,
+      "name": "Sound Of Absence",
+      "url": "https://open.spotify.com/track/0uVq57CNdVgoBgNJz7vg8c"
+    },
+    {
+      "album": {
         "name": "South Valley Park",
         "url": "https://open.spotify.com/album/75Xh4ArRbt72Jy27GCF2FD"
       },
@@ -14420,7 +14528,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 159572,
       "name": "That's When We'll Part",
       "url": "https://open.spotify.com/track/4GlTpFacX7Vgz0J1vMnKki"
@@ -16008,7 +16116,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 163852,
       "name": "Twilight Tango",
       "url": "https://open.spotify.com/track/28OvNaGWpPXguj3JrP7j6y"

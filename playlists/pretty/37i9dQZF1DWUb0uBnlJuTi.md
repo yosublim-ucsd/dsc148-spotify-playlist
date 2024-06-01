@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 
 > Jazz\. But funky\. Cover: Sly5thAve
 
-[Spotify](https://open.spotify.com/user/spotify) - 342,534 likes - 200 songs - 15 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 342,870 likes - 200 songs - 15 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 | 10 | [Cincy Kid](https://open.spotify.com/track/5dEYKPx9UaRZsmeYGVNPmU) | [Huntertones](https://open.spotify.com/artist/3tv8xMO0AkcqN9Th8KHyGd) | [Cincy Kid](https://open.spotify.com/album/50sB8VrdMPW41rCyE2n8B1) | 3:44 |
 | 11 | [Gentle Thoughts](https://open.spotify.com/track/1QW7UMRftBD5tPs0Q3ODff) | [cosmic collective](https://open.spotify.com/artist/6ereX9sq3PEIBLASJA8YEW), [DJ PRAWN](https://open.spotify.com/artist/4jPW4kWsgb8VvOnkEofr5x), [Trey Tarzia](https://open.spotify.com/artist/2KRPe190bgjDaiDUsbtt4R), [DJ Harrison](https://open.spotify.com/artist/6gU7qtF5B31WwdgkNwF1XK) | [Gentle Thoughts](https://open.spotify.com/album/2T3hEDmiyPBZSxbU12vFOf) | 8:11 |
 | 12 | [Rare Groove](https://open.spotify.com/track/4Cc9CxBFDRIbzRhp2mldMz) | [Ari Joshua](https://open.spotify.com/artist/3C9Z1YhnRr08CKRSZ7nEuV), [Grant Schroff](https://open.spotify.com/artist/5uxQLRiqpsaOO2WYT85Fii), [Skerik](https://open.spotify.com/artist/00uSjAOZMB626Y0W2ij3Md), [Delvon Lamarr](https://open.spotify.com/artist/02eerWTQGpKteeEReGfGXR) | [Rare Groove](https://open.spotify.com/album/2KenMRteWWP6tr3nVS6BS0) | 4:07 |
-| 13 | [I Feel The Same](https://open.spotify.com/track/3g5USVPXT64avOIty1eJEO) | [Myles Sanko](https://open.spotify.com/artist/0EeY17gAdOJIBjNrpi6q1G) | [I Feel The Same](https://open.spotify.com/album/3zwgXxn3hxMKh7Cbbor2j2) | 4:07 |
+| 13 | [I Feel the Same](https://open.spotify.com/track/3g5USVPXT64avOIty1eJEO) | [Myles Sanko](https://open.spotify.com/artist/0EeY17gAdOJIBjNrpi6q1G) | [I Feel the Same](https://open.spotify.com/album/3zwgXxn3hxMKh7Cbbor2j2) | 4:07 |
 | 14 | [Bowser](https://open.spotify.com/track/5iMVjpcTyW38r3q7lWgevd) | [Anika Nilles](https://open.spotify.com/artist/0IF3ewdvS7h9Wu3gDgV3fi) | [Bowser](https://open.spotify.com/album/05ctf1p6VEWIRhuugjjVko) | 3:34 |
 | 15 | [Where’s Danny?](https://open.spotify.com/track/2WyPy28diXETSlcNSIc6At) | [Ghost\-Note](https://open.spotify.com/artist/55BOGnEb0pUuAgbxAwwbKV) | [Where’s Danny?](https://open.spotify.com/album/0dao4XjiVYGQmNBn0omY4S) | 3:04 |
 | 16 | [Local Reptile Convention](https://open.spotify.com/track/5mcq01EGzFTFvuHMUpn3Fj) | [PRNDL](https://open.spotify.com/artist/7lSHLl0pD4rZ1vrBZ0yVPU), [Sam.ro.chelle](https://open.spotify.com/artist/7cGnvFkneRjpP65YbPvmDw) | [Local Reptile Convention](https://open.spotify.com/album/1JVRkKMuPNn4YkXiC2YZ55) | 3:01 |

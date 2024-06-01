@@ -4,7 +4,7 @@
 
 > Um pouco de folk, jazz e MPB para acordar com o pé na estrada.
 
-424 songs - 1 day 1 hr 8 min
+426 songs - 1 day 1 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [Blue Moon](https://open.spotify.com/track/4gNErDjikE9QUQvkkqoB1S) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Morning Phase](https://open.spotify.com/album/2Qx7dgA5VjX8JDQaXVxzHu) | 4:02 | 2022-10-14 | 2023-10-07 |
 | [Bones](https://open.spotify.com/track/4Twrw5ITmINc8akSEe979c) | [Feliz](https://open.spotify.com/artist/3Kgb1mPd8ZiYrCKqLw6Wvh) | [Dreams and Airplanes](https://open.spotify.com/album/6Ad3RaB9WT6U6W81lWM21g) | 3:05 | 2021-12-24 | 2022-06-25 |
 | [Brigadeiro](https://open.spotify.com/track/7gyyV6gDCX2ORt8jCcTlvi) | [Mira](https://open.spotify.com/artist/66c0QYupOFnMOiTXzHQbcH) | [Brigadeiro](https://open.spotify.com/album/4A1hlTcYv5LdjJ13ctr8Gl) | 3:14 | 2021-12-24 | 2022-04-10 |
-| [Budapest](https://open.spotify.com/track/48gsLPdOUEDjr7P8Wvykne) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Did You Hear the Rain?](https://open.spotify.com/album/17a7gzqcZt6SjXRQVoXN6M) | 3:22 | 2022-03-25 |  |
+| [Budapest](https://open.spotify.com/track/48gsLPdOUEDjr7P8Wvykne) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Did You Hear the Rain?](https://open.spotify.com/album/17a7gzqcZt6SjXRQVoXN6M) | 3:22 | 2022-03-25 | 2024-06-01 |
 | [Cabelo De Anjo](https://open.spotify.com/track/4QWsMXZ60waQmBBduGM2ci) | [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ), [Lulu Santos](https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1) | [Eu Feat\. Você](https://open.spotify.com/album/2miEOiHroQ1WgUPdS1TPk7) | 3:34 | 2021-12-24 |  |
 | [CACHOEIRA](https://open.spotify.com/track/57l9vK3s0roL97GOIvbrbw) | [Hugo Branquinho](https://open.spotify.com/artist/1G7RC4anhU2mNCDNV0l8rs) | [CACHOEIRA](https://open.spotify.com/album/0oJqL5pvSwYGmpgZLH3gn3) | 3:40 | 2021-12-24 | 2022-07-26 |
 | [Cadeira](https://open.spotify.com/track/2oowCBcEoGGtlUmCps0AU1) | [Luan Costa](https://open.spotify.com/artist/31TjzIHki6R3FzCCmVe8JL) | [Cadeira](https://open.spotify.com/album/276vH7fABlU1z6fVFbStOJ) | 3:10 | 2022-03-25 | 2022-04-13 |
@@ -123,6 +123,7 @@
 | [Drive All Night](https://open.spotify.com/track/0T1O4bDZ4Zl85rUGroe4LX) | [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [LP1](https://open.spotify.com/album/6RgWPUWAUksjuB1yqWEEyb) | 5:05 | 2022-03-25 | 2022-04-16 |
 | [Elo](https://open.spotify.com/track/0ieQVijx2su3EexZRxoriA) | [Chapéu de Palha](https://open.spotify.com/artist/14WMxy5IQph8kM1kcrwCcu) | [Cais](https://open.spotify.com/album/6wCle6ZgoAQcpmMuRCO21h) | 3:29 | 2021-12-24 | 2022-07-23 |
 | [Encantos Mil](https://open.spotify.com/track/58V27gOu67oPUHDFMKu28f) | [Mericia](https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS) | [Encantos Mil](https://open.spotify.com/album/2nXesv3OqUatWUViOpmSoq) | 2:48 | 2024-02-23 |  |
+| [End of Beginning](https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 2:39 | 2024-05-30 |  |
 | [Enquanto](https://open.spotify.com/track/5r18JRKA7qH6Vl6MSINCn9) | [Cidrais](https://open.spotify.com/artist/5QYAoZeTdLdRkiECvhZ5VE) | [Enquanto](https://open.spotify.com/album/7MZRN9NJekWq9jPl7DCXaf) | 2:53 | 2022-02-18 | 2022-07-25 |
 | [Entre](https://open.spotify.com/track/1OtVYzbyHjpPcVW5v20xTF) | [VEIGA](https://open.spotify.com/artist/3uW1Rs9bE57BG8nmicYtxM) | [Entre](https://open.spotify.com/album/4CW2H3YJKOzvAwzErJTJ7a) | 3:54 | 2021-12-24 | 2022-04-18 |
 | [Era amor](https://open.spotify.com/track/0rgr6gKFx3GCLdfEh1SxYi) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH) | [Era amor](https://open.spotify.com/album/0jVBFyc0QvbSdzZo9CC8Bd) | 3:19 | 2023-04-28 | 2024-04-15 |
@@ -362,6 +363,7 @@
 | [Society](https://open.spotify.com/track/3bHhUEOTIbezeZ856R0BX5) | [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh) | [Into The Wild \(Music For The Motion Picture\)](https://open.spotify.com/album/13xlpKbai3GGoMSr75lOeX) | 3:56 | 2022-07-04 | 2024-04-19 |
 | [Solamento](https://open.spotify.com/track/5dtVGvYTO7r9wPtmse04Hl) | [Tuyo](https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj) | [Pra Doer](https://open.spotify.com/album/0uLTUkUC8dpt0sRF2BZ9nt) | 3:54 | 2022-03-25 | 2022-04-08 |
 | [Some Lazy Days](https://open.spotify.com/track/6IzIxuegLDSdebVCsHIciW) | [Cícero](https://open.spotify.com/artist/6a5wUPC879Kyfw0aXxVatB) | [Cosmo](https://open.spotify.com/album/5WAzHbc9I1cM61IC6ORoHv) | 2:58 | 2021-12-24 | 2022-04-19 |
+| [Some Type Of Skin \- Acoustic](https://open.spotify.com/track/6kEMItz2lrqO5XGQSrujga) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [Some Type Of Skin \(Acoustic\)](https://open.spotify.com/album/19jiJygNvv9TwWLjIc7xNr) | 3:20 | 2024-05-30 |  |
 | [Something to Believe In \- Live Acoustic](https://open.spotify.com/track/6j0OqIhUxvOgGPTXxNj124) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [Something to Believe In \(Live Acoustic\)](https://open.spotify.com/album/7jVFivHz6EeB2Ywx9wUG6j) | 3:44 | 2022-03-25 | 2022-04-21 |
 | [Space & Time](https://open.spotify.com/track/0UF2tfwzIgYT1nw8EEoPkd) | [Rafael Witt](https://open.spotify.com/artist/3MKdDfOZF0Simyf5JWXpg3) | [Space & Time](https://open.spotify.com/album/6A8cfnHoYihiXnPNdheurz) | 4:16 | 2021-12-24 | 2022-07-27 |
 | [Staring at the Wall](https://open.spotify.com/track/1vaE2g2ECAPiSDve8ApSGm) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Staring at the Wall](https://open.spotify.com/album/5tknEZvydcc1zkg5CWOcym) | 4:31 | 2024-03-08 |  |
@@ -405,7 +407,7 @@
 | [Um Pescador](https://open.spotify.com/track/5DBVaJ9xCQ5cyRV02s0IF9) | [Os Fugitivos](https://open.spotify.com/artist/0JCwkTQqtgVQXBRxwEloEg) | [Um Pescador](https://open.spotify.com/album/0wWTuO6mnmsc1vhol4Gugn) | 3:49 | 2023-10-13 | 2023-10-21 |
 | [Um Pouco Mais](https://open.spotify.com/track/0E1ZqVJQeRembqvvniCS7E) | [Bruna Magalhães](https://open.spotify.com/artist/108y6vREhgAIvgvm1Cq54p) | [Bruna Magalhães](https://open.spotify.com/album/4EgPhNp6NjZ7Q7Wt8tvvPf) | 3:01 | 2021-12-24 | 2022-06-08 |
 | [Um Tanto](https://open.spotify.com/track/1BQhXbN8AzvHQrS7SvH58x) | [Suricato](https://open.spotify.com/artist/35j8oMehl8Q9mLnVmkVqMC) | [Sol\-Te](https://open.spotify.com/album/3wk0JZQ0eTP1rpiAlMpuV6) | 3:37 | 2021-12-24 | 2022-07-29 |
-| [Unconditional](https://open.spotify.com/track/6s4zenGcbyP5D9v9YATbmX) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [Wake Up Now](https://open.spotify.com/album/19YrX17syzkT6UZKLPpok4) | 3:44 | 2022-03-25 |  |
+| [Unconditional](https://open.spotify.com/track/6s4zenGcbyP5D9v9YATbmX) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [Wake Up Now](https://open.spotify.com/album/19YrX17syzkT6UZKLPpok4) | 3:44 | 2022-03-25 | 2024-06-01 |
 | [Vai Atrás Da Vida Que Ela Te Espera](https://open.spotify.com/track/0QVpFZo7en9BEos1TQlwz1) | [Zé Ibarra](https://open.spotify.com/artist/52GmrK0buOOvHo7Kk20O4U) | [Vai Atrás Da Vida Que Ela Te Espera](https://open.spotify.com/album/7Kj71cQBVCcqQtoJo1lce1) | 4:36 | 2021-12-24 | 2022-07-22 |
 | [Vapor](https://open.spotify.com/track/0kteOf15gjOAWtyOwLFBL8) | [Victor Mus](https://open.spotify.com/artist/2chMd942hjEdCQWYDGVIXw) | [Vapor](https://open.spotify.com/album/2DnIPRQ4tOhHOoPDFbE3PQ) | 3:53 | 2021-12-24 | 2022-07-25 |
 | [VEJA BABY \- Versão Alternativa](https://open.spotify.com/track/3GCvBFyQNf5HE4UIni7euC) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD), [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [VEJA BABY \(Versão Alternativa\)](https://open.spotify.com/album/22PDkm4FLzUxArqoFKKYnQ) | 3:22 | 2022-03-25 | 2022-11-13 |

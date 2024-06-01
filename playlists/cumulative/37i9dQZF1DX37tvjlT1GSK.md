@@ -4,7 +4,7 @@
 
 > Románticas, rancheras y bravías, las mejores canciones sierreñas\. Cuatro de Oro en portada.
 
-425 songs - 22 hr 23 min
+426 songs - 22 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,7 +111,7 @@
 | [Duro Le Chingamos](https://open.spotify.com/track/3QmhokuGV0SJeVExRiVybT) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Duro Le Chingamos](https://open.spotify.com/album/3fyvcS54kHLuEpxwG3d2UV) | 2:27 | 2023-03-17 | 2023-12-02 |
 | [Déjame Ser](https://open.spotify.com/track/281MU4q1qidG9gUNj2FZsf) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Déjame Ser](https://open.spotify.com/album/3WPHKzqx1q136JTnQ9Q7xz) | 3:08 | 2023-02-13 | 2023-05-30 |
 | [Déjenla Que Sea Feliz](https://open.spotify.com/track/0Js77UpzQj50fJLYvEVUXH) | [Chacho Y Su Vagancia](https://open.spotify.com/artist/4Amw1TvsWkH2pWxZHF8pk6) | [Déjenla Que Sea Feliz](https://open.spotify.com/album/0lFXVyddx801x6GVdtxBF3) | 2:55 | 2023-08-04 |  |
-| [Díganle A Mi Ex](https://open.spotify.com/track/3DGiTIEZWuOXRHei5UTgHf) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Díganle A Mi Ex](https://open.spotify.com/album/1bUFT404T1SsM8vX4L6Mqi) | 3:00 | 2023-05-24 |  |
+| [Díganle A Mi Ex](https://open.spotify.com/track/3DGiTIEZWuOXRHei5UTgHf) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Díganle A Mi Ex](https://open.spotify.com/album/1bUFT404T1SsM8vX4L6Mqi) | 3:00 | 2023-05-24 | 2024-06-01 |
 | [Ebrio de Amor](https://open.spotify.com/track/63hJExblfUaDnJMZpRGhto) | [Julio Caesar](https://open.spotify.com/artist/2Sr1WpVyOrlqgy294KkR6K) | [Ebrio de Amor](https://open.spotify.com/album/5hMXEiyUTFXqlK5VdSb21l) | 2:05 | 2024-05-24 |  |
 | [Efecto Al Corazon](https://open.spotify.com/track/467uh81a8AkjzFd77ly5M0) | [Proximo Nivel](https://open.spotify.com/artist/3aEa0X3wMYErFrys1jgV94) | [Noches De Verano](https://open.spotify.com/album/25FCfNQGfRwwAVCOfIm9yy) | 2:38 | 2023-01-20 | 2023-12-02 |
 | [El 48 100k](https://open.spotify.com/track/4FNXVJlR2SWgLnWzIGkEGK) | [Nuevo Armamento](https://open.spotify.com/artist/4o79cu081HcLofFuq2eKy8) | [El 48 100k](https://open.spotify.com/album/4a7tinJzbB87g2qp8KWCxX) | 3:34 | 2022-08-05 | 2022-09-24 |
@@ -177,6 +177,7 @@
 | [From La Finikera](https://open.spotify.com/track/0ya66ZjAYqkP3nQWhXe9Xc) | [Las Marías](https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w) | [De La Finikera](https://open.spotify.com/album/7fksSbYuu7VSTp33FSojv3) | 3:14 | 2022-04-15 | 2022-08-18 |
 | [Fruta Prohibida](https://open.spotify.com/track/39MVkJ39r1JoBUPVQnlTfa) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [En Vivo Con Tololoche Vol\. 3](https://open.spotify.com/album/6EW70R9qB26IFFg4vXjcx9) | 2:48 | 2023-12-15 | 2024-02-24 |
 | [Fuera De Servicio](https://open.spotify.com/track/2252ukIJHzlAv9VuJLjY53) | [Hugo Cesar](https://open.spotify.com/artist/3U67RcLV2FxtknAMdsnGuq), [Humilde Imperio](https://open.spotify.com/artist/58QNGapT6WC2fGWXvUuRqa) | [Fuera De Servicio x El Padre de Toda La Bola](https://open.spotify.com/album/2xsXCc4xPoR2QKMyBcsnke) | 2:58 | 2022-07-01 | 2022-07-29 |
+| [Fuga](https://open.spotify.com/track/7k7b44karQPhmPTTU7qA1S) | [CUERNO](https://open.spotify.com/artist/6WfZ64HOR7tT0nGmxKQ7Hq) | [Fuga](https://open.spotify.com/album/2Olbr4iTFt9DQkPYLfTbb6) | 3:15 | 2024-05-24 |  |
 | [Gente Corriente \- En Vivo](https://open.spotify.com/track/3dy01NchIH3wWN2EJP3HTa) | [Cuatro De Oro](https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9) | [Seguimos Dejando Marca \(En Vivo\)](https://open.spotify.com/album/2Jcr40zW9fKWCsMgB7Ov2k) | 2:27 | 2023-01-27 |  |
 | [Gente Del Flaco \(En Vivo\)](https://open.spotify.com/track/1nW1RDf642yzi44mOMd4pM) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Gente Del Flaco \(En Vivo\)](https://open.spotify.com/album/5xXahZGlUcDx4oYEsAiBjg) | 2:40 | 2022-07-01 | 2023-01-21 |
 | [GPI](https://open.spotify.com/track/2kDAwCfoTqKQePz2ZZEGdm) | [Kevin Ortiz](https://open.spotify.com/artist/5Pb066owdc1LPXDf6Xs8Rm), [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6) | [GPI](https://open.spotify.com/album/0zpMM4CQ8CDMxga0oHXrus) | 2:43 | 2023-09-15 | 2024-01-14 |

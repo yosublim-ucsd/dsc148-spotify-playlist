@@ -1,12 +1,12 @@
 {
   "description": "A sonic wonderland of mesmerizing tunes...",
-  "num_followers": 74425,
+  "num_followers": 74429,
   "original_name": "Kaleidoscope",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlaHNgAAAAC21DUZq4zSCf5BbTV3LvBs",
+  "snapshot_id": "ZlpOLAAAAABjNxkn/w3rJwYxm4Kjovw3",
   "tracks": [
     {
       "added_at": "2024-05-23 01:08:56",
@@ -57,6 +57,22 @@
       "url": "https://open.spotify.com/track/2fAqFthuQMx8GLYZ7STM7x"
     },
     {
+      "added_at": "2024-05-30 01:37:24",
+      "album": {
+        "name": "stick of gum",
+        "url": "https://open.spotify.com/album/6PNhTNKOapN967ioSFJQkS"
+      },
+      "artists": [
+        {
+          "name": "Nemahsis",
+          "url": "https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f"
+        }
+      ],
+      "duration_ms": 148400,
+      "name": "stick of gum",
+      "url": "https://open.spotify.com/track/7DvOMvKBZESff6Etf0v9MY"
+    },
+    {
       "added_at": "2024-05-20 20:31:10",
       "album": {
         "name": "AMAMA",
@@ -89,20 +105,76 @@
       "url": "https://open.spotify.com/track/49uLH3xvQLd4I4pCQacGH8"
     },
     {
-      "added_at": "2024-04-15 18:26:20",
+      "added_at": "2024-05-30 23:13:13",
       "album": {
-        "name": "Three",
-        "url": "https://open.spotify.com/album/7mpTSR6E855VhdCeoPgpCF"
+        "name": "Genius of Love",
+        "url": "https://open.spotify.com/album/7ATVtKtlDE1cxauGVsZvSv"
       },
       "artists": [
         {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+          "name": "Toro y Moi",
+          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
+        },
+        {
+          "name": "Brijean",
+          "url": "https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb"
         }
       ],
-      "duration_ms": 368770,
-      "name": "Daydream Repeat",
-      "url": "https://open.spotify.com/track/3jBAlJcUMJKwRgTuGiLFGX"
+      "duration_ms": 205000,
+      "name": "Genius of Love",
+      "url": "https://open.spotify.com/track/0UMfconu33lpuioJ696nKv"
+    },
+    {
+      "added_at": "2024-05-31 15:49:32",
+      "album": {
+        "name": "Workin' On It",
+        "url": "https://open.spotify.com/album/4KD7VxzKwT2hNNNyEuk9I8"
+      },
+      "artists": [
+        {
+          "name": "Brijean",
+          "url": "https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb"
+        }
+      ],
+      "duration_ms": 215823,
+      "name": "Workin\u2019 On It",
+      "url": "https://open.spotify.com/track/75hfAGu7iaC3hFSnyAwBUx"
+    },
+    {
+      "added_at": "2024-05-31 22:24:44",
+      "album": {
+        "name": "Danza Maril\u00f9 (feat. Fabiana Martone)",
+        "url": "https://open.spotify.com/album/7orjo51zaXJFjbpVy2qWjf"
+      },
+      "artists": [
+        {
+          "name": "L'Imp\u00e9ratrice",
+          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
+        },
+        {
+          "name": "Fabiana Martone",
+          "url": "https://open.spotify.com/artist/0HmuQ7f7dXY5W6wK4rA8j1"
+        }
+      ],
+      "duration_ms": 244075,
+      "name": "Danza Maril\u00f9 (feat. Fabiana Martone)",
+      "url": "https://open.spotify.com/track/6JZOZWEpu1hcTCz28rnQwJ"
+    },
+    {
+      "added_at": "2024-05-30 23:41:11",
+      "album": {
+        "name": "Here in the Pitch",
+        "url": "https://open.spotify.com/album/7hUAyfpXkSE2JT5gOORZO0"
+      },
+      "artists": [
+        {
+          "name": "Jessica Pratt",
+          "url": "https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh"
+        }
+      ],
+      "duration_ms": 205413,
+      "name": "Get Your Head Out",
+      "url": "https://open.spotify.com/track/6W6J3cFFQmrAMErlHJPzDJ"
     },
     {
       "added_at": "2024-05-29 01:39:02",
@@ -181,6 +253,22 @@
       "url": "https://open.spotify.com/track/60PgbKqLoj6DCASnxEgZ7F"
     },
     {
+      "added_at": "2024-05-31 00:18:03",
+      "album": {
+        "name": "Pull the Rope",
+        "url": "https://open.spotify.com/album/3wjRvLacBAnnIi08sQwsZS"
+      },
+      "artists": [
+        {
+          "name": "Ibibio Sound Machine",
+          "url": "https://open.spotify.com/artist/4J6CnIqPEtWYn3la2YYj2c"
+        }
+      ],
+      "duration_ms": 216240,
+      "name": "Political Incorrect",
+      "url": "https://open.spotify.com/track/4MBJzFfLTkg6KDfvANj3xs"
+    },
+    {
       "added_at": "2024-04-15 18:26:20",
       "album": {
         "name": "Pandora",
@@ -195,6 +283,22 @@
       "duration_ms": 220192,
       "name": "See you soon",
       "url": "https://open.spotify.com/track/5TMGf0iNjOVLOgBf9vgq2O"
+    },
+    {
+      "added_at": "2024-05-30 01:37:24",
+      "album": {
+        "name": "EL VIAJE",
+        "url": "https://open.spotify.com/album/1QdRZ2LRVYGWxhlZC50OUv"
+      },
+      "artists": [
+        {
+          "name": "Una Canci\u00f3n Bonita",
+          "url": "https://open.spotify.com/artist/3hLAnFsw8LnNJ9FDXSCCP7"
+        }
+      ],
+      "duration_ms": 210789,
+      "name": "EL VIAJE",
+      "url": "https://open.spotify.com/track/2Gf5W273JIWOX0MVF2TGpA"
     },
     {
       "added_at": "2024-04-22 19:37:46",
@@ -219,6 +323,38 @@
       "duration_ms": 257273,
       "name": "Get Real - Sounds Right Mix (feat. NATURE)",
       "url": "https://open.spotify.com/track/0WzoCNIiEUEHi4IfVifu1Y"
+    },
+    {
+      "added_at": "2024-05-30 02:38:29",
+      "album": {
+        "name": "Hombre & Mujer",
+        "url": "https://open.spotify.com/album/5N99QdKVuRRtXYW5vI4CTo"
+      },
+      "artists": [
+        {
+          "name": "RONCO",
+          "url": "https://open.spotify.com/artist/3xbpuptPAr87U4lZxvV2nM"
+        }
+      ],
+      "duration_ms": 147546,
+      "name": "Hombre & Mujer",
+      "url": "https://open.spotify.com/track/4nljAfW4umAABmGEroh8VD"
+    },
+    {
+      "added_at": "2024-05-31 00:32:42",
+      "album": {
+        "name": "Only God Was Above Us",
+        "url": "https://open.spotify.com/album/1W04wu2W4OIcuiNc5AMB3y"
+      },
+      "artists": [
+        {
+          "name": "Vampire Weekend",
+          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+        }
+      ],
+      "duration_ms": 251466,
+      "name": "Pravda",
+      "url": "https://open.spotify.com/track/1vfG5VaQQzr7x7gCbVyQFF"
     },
     {
       "added_at": "2024-01-23 03:56:17",
@@ -561,6 +697,22 @@
       "url": "https://open.spotify.com/track/6fUo4GlD0FbvXNTylA4o68"
     },
     {
+      "added_at": "2024-04-15 18:26:20",
+      "album": {
+        "name": "Three",
+        "url": "https://open.spotify.com/album/7mpTSR6E855VhdCeoPgpCF"
+      },
+      "artists": [
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        }
+      ],
+      "duration_ms": 368770,
+      "name": "Daydream Repeat",
+      "url": "https://open.spotify.com/track/3jBAlJcUMJKwRgTuGiLFGX"
+    },
+    {
       "added_at": "2023-05-24 06:00:00",
       "album": {
         "name": "Bola Oro",
@@ -575,38 +727,6 @@
       "duration_ms": 245245,
       "name": "Bola Oro",
       "url": "https://open.spotify.com/track/7nPafRuFaZo7QxN1j1rpyJ"
-    },
-    {
-      "added_at": "2024-02-02 05:29:14",
-      "album": {
-        "name": "Extinct but Still Alive",
-        "url": "https://open.spotify.com/album/14I6Gw5HhfOCyDE3Jo9qMu"
-      },
-      "artists": [
-        {
-          "name": "Mama Longhorn",
-          "url": "https://open.spotify.com/artist/52yqArRZhaFqgHfKw1dADh"
-        }
-      ],
-      "duration_ms": 366000,
-      "name": "Rowing High Rowing Low",
-      "url": "https://open.spotify.com/track/0aWLipAcgGmCqDD2pQsCUp"
-    },
-    {
-      "added_at": "2024-01-03 18:34:06",
-      "album": {
-        "name": "Hard To Love",
-        "url": "https://open.spotify.com/album/0js8jOahyQcDzhAV1xpdnd"
-      },
-      "artists": [
-        {
-          "name": "Better Joy",
-          "url": "https://open.spotify.com/artist/4ERGM46KkPIw35YncC6PGL"
-        }
-      ],
-      "duration_ms": 168095,
-      "name": "Hard To Love",
-      "url": "https://open.spotify.com/track/5ZydsKomR0uijruih5pVZ0"
     },
     {
       "added_at": "2024-01-18 21:30:54",
@@ -677,46 +797,6 @@
       "url": "https://open.spotify.com/track/2qUNrUbCYoUE6MsOR3tTD1"
     },
     {
-      "added_at": "2024-02-02 05:29:14",
-      "album": {
-        "name": "Lost and found",
-        "url": "https://open.spotify.com/album/4V5EXwlVZyDgqx5RHLik1z"
-      },
-      "artists": [
-        {
-          "name": "Isaac Delusion",
-          "url": "https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG"
-        },
-        {
-          "name": "LUCASV",
-          "url": "https://open.spotify.com/artist/4wuJEvClymsGVYXCP00JZB"
-        }
-      ],
-      "duration_ms": 182400,
-      "name": "Let her go",
-      "url": "https://open.spotify.com/track/3U3ylRKG62HecdbWV0Nm7D"
-    },
-    {
-      "added_at": "2024-01-03 19:21:01",
-      "album": {
-        "name": "Calling For You",
-        "url": "https://open.spotify.com/album/5d0hLlk0kKwzBkiF0Ch4lV"
-      },
-      "artists": [
-        {
-          "name": "Venjent",
-          "url": "https://open.spotify.com/artist/7xu08SujAqLp7BGinS96vd"
-        },
-        {
-          "name": "Oktae",
-          "url": "https://open.spotify.com/artist/4PxFr57PZWOCVJ5HkJyaoD"
-        }
-      ],
-      "duration_ms": 221250,
-      "name": "Calling For You",
-      "url": "https://open.spotify.com/track/5AvbixdcGe6TOwfte5lB3A"
-    },
-    {
       "added_at": "2024-02-02 06:06:03",
       "album": {
         "name": "Take What's Given",
@@ -731,22 +811,6 @@
       "duration_ms": 174257,
       "name": "Take What's Given",
       "url": "https://open.spotify.com/track/1QHAegssMExNfItsAaUJiY"
-    },
-    {
-      "added_at": "2023-09-04 02:16:32",
-      "album": {
-        "name": "Blackoak",
-        "url": "https://open.spotify.com/album/2ulcLtfovYkJyt8frpO6R9"
-      },
-      "artists": [
-        {
-          "name": "Maribou State",
-          "url": "https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg"
-        }
-      ],
-      "duration_ms": 288613,
-      "name": "Blackoak",
-      "url": "https://open.spotify.com/track/1iJL69P6zSF5lGf961kC18"
     },
     {
       "added_at": "2024-05-03 06:00:00",
@@ -779,22 +843,6 @@
       "duration_ms": 265920,
       "name": "The Turning Ground",
       "url": "https://open.spotify.com/track/78O1YBhuqh6HOQC6u9ad8w"
-    },
-    {
-      "added_at": "2024-04-15 18:26:20",
-      "album": {
-        "name": "Love in Constant Spectacle",
-        "url": "https://open.spotify.com/album/7JQueQibvRMgQ6gHRpUOpd"
-      },
-      "artists": [
-        {
-          "name": "Jane Weaver",
-          "url": "https://open.spotify.com/artist/1UrfmsMDKHSYXj7SaPjyWL"
-        }
-      ],
-      "duration_ms": 257226,
-      "name": "Love in Constant Spectacle",
-      "url": "https://open.spotify.com/track/15EzGKqgmv2DJqrZ64tWM3"
     },
     {
       "added_at": "2024-04-23 00:30:14",
@@ -831,58 +879,6 @@
       "duration_ms": 159054,
       "name": "Follow The Light",
       "url": "https://open.spotify.com/track/17076c3jEyuTYHYnMN6P1G"
-    },
-    {
-      "added_at": "2024-04-15 18:26:20",
-      "album": {
-        "name": "Vallahi Yok / Kirik Cam",
-        "url": "https://open.spotify.com/album/5nAQCUYTxmLIvBSdrmOjSf"
-      },
-      "artists": [
-        {
-          "name": "Altin G\u00fcn",
-          "url": "https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT"
-        }
-      ],
-      "duration_ms": 277810,
-      "name": "Vallahi Yok",
-      "url": "https://open.spotify.com/track/5z9vETzqw2MYykOvfwXYWx"
-    },
-    {
-      "added_at": "2024-04-23 00:49:31",
-      "album": {
-        "name": "OH WAH (feat. NATURE)",
-        "url": "https://open.spotify.com/album/7C4qLhAxl253pi66yzQQW1"
-      },
-      "artists": [
-        {
-          "name": "Blinky Bill",
-          "url": "https://open.spotify.com/artist/3knnBcRO5nzDS1GOFhU1ba"
-        },
-        {
-          "name": "NATURE",
-          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
-        }
-      ],
-      "duration_ms": 205485,
-      "name": "OH WAH (feat. NATURE)",
-      "url": "https://open.spotify.com/track/19u8EywWlAPVj1cvoWHX4I"
-    },
-    {
-      "added_at": "2024-04-15 23:38:37",
-      "album": {
-        "name": "My Fun",
-        "url": "https://open.spotify.com/album/2obv9kAuyDBzo5jTwAOHob"
-      },
-      "artists": [
-        {
-          "name": "Suki Waterhouse",
-          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
-        }
-      ],
-      "duration_ms": 162291,
-      "name": "My Fun",
-      "url": "https://open.spotify.com/track/306xT15GTuDs3NyopIANrh"
     }
   ],
   "unique_name": "Kaleidoscope",

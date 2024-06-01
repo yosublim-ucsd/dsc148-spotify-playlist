@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The fresh & hottest K-Hip hop tracks. (Cover: YANGHONGWON(\uc591\ud64d\uc6d0))",
+  "description": "The fresh & hottest K-Hip hop tracks. (Cover: UNEDUCATED KID)",
   "name": "KrOWN",
   "tracks": [
     {
@@ -12405,7 +12405,7 @@
     },
     {
       "album": {
-        "name": "Jealousyvalhalla",
+        "name": "JEALOUSYVALHALLA",
         "url": "https://open.spotify.com/album/3ueZQ3a7zXCt4neaJnZX0w"
       },
       "artists": [
@@ -12417,8 +12417,8 @@
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 148186,
-      "name": "Jealousyvalhalla",
+      "duration_ms": 148200,
+      "name": "JEALOUSYVALHALLA",
       "url": "https://open.spotify.com/track/53pgU100GX5E2EDp50eIvZ"
     },
     {
@@ -18391,6 +18391,28 @@
     },
     {
       "album": {
+        "name": "Leaked",
+        "url": "https://open.spotify.com/album/1uOrFHu2eyTopftJxUEs0g"
+      },
+      "artists": [
+        {
+          "name": "Street Baby",
+          "url": "https://open.spotify.com/artist/0tGMuT9HxXQzAEZK9Prlim"
+        },
+        {
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148080,
+      "name": "pain (Feat. Leellamarz)",
+      "url": "https://open.spotify.com/track/3Nf9yBKwJxjKk2hO6OK7jx"
+    },
+    {
+      "album": {
         "name": "23'F/W",
         "url": "https://open.spotify.com/album/6UtcxHBH0FxoDpQvLTjb0B"
       },
@@ -23229,6 +23251,24 @@
     },
     {
       "album": {
+        "name": "Swear",
+        "url": "https://open.spotify.com/album/3vNYAR6SdAeKcQGgOPTyY2"
+      },
+      "artists": [
+        {
+          "name": "Huh",
+          "url": "https://open.spotify.com/artist/30AghIfoMJrMo1YqoUkEMM"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177226,
+      "name": "Swear",
+      "url": "https://open.spotify.com/track/3Zr7XljDMsjanXYIIjZMXp"
+    },
+    {
+      "album": {
         "name": "SWEAT (Prod. JINBO)",
         "url": "https://open.spotify.com/album/03CQAHup6CK4xOLGYJoI2M"
       },
@@ -24056,6 +24096,24 @@
       "duration_ms": 248834,
       "name": "The Masquerade",
       "url": "https://open.spotify.com/track/4Tahw1YkBZdfzMeCjgjRkE"
+    },
+    {
+      "album": {
+        "name": "THE NICE FREESTYLE",
+        "url": "https://open.spotify.com/album/5zTGDCsfu2yTf8NA2OXHfl"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Paige",
+          "url": "https://open.spotify.com/artist/0lb59tIBwWrDfP6X956pkK"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209626,
+      "name": "THE NICE FREESTYLE",
+      "url": "https://open.spotify.com/track/4zXBEMN4LdPPwnAytHrxi2"
     },
     {
       "album": {

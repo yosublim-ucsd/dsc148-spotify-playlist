@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Global crossovers by/with Arab artists. Cover: Elyanna",
+  "description": "Global crossovers by/with Arab artists. Cover: Belly",
   "name": "Arab X",
   "tracks": [
     {
@@ -521,6 +521,28 @@
     },
     {
       "album": {
+        "name": "96 Miles From Bethlehem",
+        "url": "https://open.spotify.com/album/5n7u0Fwf8gE54F9rwPrz2O"
+      },
+      "artists": [
+        {
+          "name": "Belly",
+          "url": "https://open.spotify.com/artist/0FOWNUFHPnMy0vOw1siGqi"
+        },
+        {
+          "name": "Saint Levant",
+          "url": "https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155173,
+      "name": "Baroudeh",
+      "url": "https://open.spotify.com/track/2YtYdhCh20iGSkI6oHHhor"
+    },
+    {
+      "album": {
         "name": "Batwanes Beek",
         "url": "https://open.spotify.com/album/4YxeCQ6xwltgmLZQyLwVVe"
       },
@@ -874,6 +896,28 @@
       "duration_ms": 204156,
       "name": "Can't Let You Go",
       "url": "https://open.spotify.com/track/5RfrZ5Lgr3fdtgnvhh3va8"
+    },
+    {
+      "album": {
+        "name": "96 Miles From Bethlehem",
+        "url": "https://open.spotify.com/album/5n7u0Fwf8gE54F9rwPrz2O"
+      },
+      "artists": [
+        {
+          "name": "Belly",
+          "url": "https://open.spotify.com/artist/0FOWNUFHPnMy0vOw1siGqi"
+        },
+        {
+          "name": "Ibrahim Maalouf",
+          "url": "https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121065,
+      "name": "Carry Me",
+      "url": "https://open.spotify.com/track/51B37dUlRPgpQMqTEbw2fB"
     },
     {
       "album": {
@@ -2268,7 +2312,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 200787,
       "name": "Good Torture (with Elyanna)",
       "url": "https://open.spotify.com/track/3s29qreJr2KU7BFSiDtw0U"
@@ -3487,6 +3531,32 @@
     },
     {
       "album": {
+        "name": "96 Miles From Bethlehem",
+        "url": "https://open.spotify.com/album/5n7u0Fwf8gE54F9rwPrz2O"
+      },
+      "artists": [
+        {
+          "name": "Belly",
+          "url": "https://open.spotify.com/artist/0FOWNUFHPnMy0vOw1siGqi"
+        },
+        {
+          "name": "Elyanna",
+          "url": "https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g"
+        },
+        {
+          "name": "MC Abdul",
+          "url": "https://open.spotify.com/artist/2gr50NWFuNsweefgZzVb2E"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208608,
+      "name": "Maktub",
+      "url": "https://open.spotify.com/track/7kdHCa0m0ZycuAELmeyMB4"
+    },
+    {
+      "album": {
         "name": "Cheb Khaled, Double Best, 25 titres originaux remasteris\u00e9s",
         "url": "https://open.spotify.com/album/6aPxtI5Sxk0MANK9O8XsG0"
       },
@@ -3792,7 +3862,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 175375,
       "name": "Nails",
       "url": "https://open.spotify.com/track/1li7Wh7pzMhBwMRjCUXlXV"
@@ -3832,7 +3902,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 170366,
       "name": "Nasty Remix ft Saint Levant",
       "url": "https://open.spotify.com/track/6ONNprntoihbrQMFkNUPlO"
@@ -4122,7 +4192,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 85999,
       "name": "Olive Branch (Ghosn Zeytoun)",
       "url": "https://open.spotify.com/track/0Qs69EhCYkND29GsGEp9uD"
@@ -4634,7 +4704,7 @@
       ],
       "date_added": "2023-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 306257,
       "name": "Reckless",
       "url": "https://open.spotify.com/track/6DQcmJrSZCH9nCtLtilcXP"

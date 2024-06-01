@@ -319,6 +319,24 @@
     },
     {
       "album": {
+        "name": "A Golden Hue",
+        "url": "https://open.spotify.com/album/3kTxzI9MZSEBWccFriUQif"
+      },
+      "artists": [
+        {
+          "name": "Trio Rosa",
+          "url": "https://open.spotify.com/artist/74qiJSjWdILIXAVQ99np5q"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215208,
+      "name": "A Golden Hue",
+      "url": "https://open.spotify.com/track/3FjdR6CyPczqpQi6hG8tLp"
+    },
+    {
+      "album": {
         "name": "A Knock On The Door",
         "url": "https://open.spotify.com/album/0q2peKbZDl0x0NuIn7UZ7F"
       },
@@ -838,6 +856,24 @@
       "duration_ms": 162000,
       "name": "After You've Gone",
       "url": "https://open.spotify.com/track/7If1cSPSy5zpDFxNTYzHRs"
+    },
+    {
+      "album": {
+        "name": "Again Tomorrow",
+        "url": "https://open.spotify.com/album/7pWZSISFYh2VZ1ODE5fWBi"
+      },
+      "artists": [
+        {
+          "name": "Gottfried Barber Trio",
+          "url": "https://open.spotify.com/artist/1QO8UVy5AHBqOWgHWEYywf"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223437,
+      "name": "Again Tomorrow",
+      "url": "https://open.spotify.com/track/68b9Tqgqh5Jlh3rLqRi1E3"
     },
     {
       "album": {
@@ -3065,6 +3101,24 @@
     },
     {
       "album": {
+        "name": "Cave of the Crystals",
+        "url": "https://open.spotify.com/album/6OTMyelIkd8rnNrR7bgzBB"
+      },
+      "artists": [
+        {
+          "name": "Irvin Smith Group",
+          "url": "https://open.spotify.com/artist/4SL7KeObcdWbpCRzEKlhCJ"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249022,
+      "name": "Cave of the Crystals",
+      "url": "https://open.spotify.com/track/7xy39H1NbRO6LZzeQ9Kjur"
+    },
+    {
+      "album": {
         "name": "Central Park West",
         "url": "https://open.spotify.com/album/1Xd4fshsUde1v2UWCLLLMa"
       },
@@ -3238,7 +3292,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 303924,
       "name": "Chelsea Bridge",
       "url": "https://open.spotify.com/track/5GCBRCB2SVSNOu7k38ix5r"
@@ -4518,6 +4572,24 @@
       "duration_ms": 197253,
       "name": "Dreams About Change",
       "url": "https://open.spotify.com/track/1TPGqUM9ZzAfAv9FP4PtQN"
+    },
+    {
+      "album": {
+        "name": "Dreamscapes",
+        "url": "https://open.spotify.com/album/0CbMbB7SB4hEgDtac81p51"
+      },
+      "artists": [
+        {
+          "name": "Lee Davis",
+          "url": "https://open.spotify.com/artist/4GTZfDMmFwiIThMu6b39qp"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287250,
+      "name": "Dreamscapes",
+      "url": "https://open.spotify.com/track/0v4v8RhQHU5dXr6XjHpGBa"
     },
     {
       "album": {
@@ -6051,6 +6123,24 @@
     },
     {
       "album": {
+        "name": "Friday Afternoon",
+        "url": "https://open.spotify.com/album/1sowMEQg7SoVaqGsuwq2GX"
+      },
+      "artists": [
+        {
+          "name": "Trio Del Norte",
+          "url": "https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372149,
+      "name": "Friday Afternoon",
+      "url": "https://open.spotify.com/track/1jilxm4NFTfMko4DUgVt7F"
+    },
+    {
+      "album": {
         "name": "From My Perspective",
         "url": "https://open.spotify.com/album/6CY77pDMz6tioKGrK6aGaz"
       },
@@ -6880,7 +6970,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 275959,
       "name": "Hometown Again",
       "url": "https://open.spotify.com/track/5ElOUNrMJQYJu9VmTivrAn"
@@ -10638,7 +10728,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 206464,
       "name": "Lost and Found",
       "url": "https://open.spotify.com/track/09YX8Z46RPayTuUF2Gmtiw"
@@ -12472,7 +12562,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 297750,
       "name": "My Mistake",
       "url": "https://open.spotify.com/track/4CZOjvslnn4eNkcQC0Ubvw"
@@ -13408,7 +13498,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 267250,
       "name": "Old Folks",
       "url": "https://open.spotify.com/track/27Vadyfurx3OlIwjhFaBNT"
@@ -15562,7 +15652,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 229751,
       "name": "Since You Left Me",
       "url": "https://open.spotify.com/track/3d4PWG3P1FU0CGiBu0fZRV"
@@ -16250,6 +16340,24 @@
       "duration_ms": 230088,
       "name": "Soulful Stroll",
       "url": "https://open.spotify.com/track/5p5ia2SufA5Tl9FUjHDUky"
+    },
+    {
+      "album": {
+        "name": "Sound Of Absence",
+        "url": "https://open.spotify.com/album/4BdhnKPxfPRveQXAqkiwzw"
+      },
+      "artists": [
+        {
+          "name": "Odo Lefebvre",
+          "url": "https://open.spotify.com/artist/7lLtsVLpDbuhSvr5UE6HIU"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186675,
+      "name": "Sound Of Absence",
+      "url": "https://open.spotify.com/track/0uVq57CNdVgoBgNJz7vg8c"
     },
     {
       "album": {
@@ -17326,7 +17434,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 159572,
       "name": "That's When We'll Part",
       "url": "https://open.spotify.com/track/4GlTpFacX7Vgz0J1vMnKki"
@@ -17546,6 +17654,24 @@
       "duration_ms": 338132,
       "name": "The End Of A Love Affair",
       "url": "https://open.spotify.com/track/6wcsA3k0UzI0aFdwigs79C"
+    },
+    {
+      "album": {
+        "name": "The End of The Road",
+        "url": "https://open.spotify.com/album/5mBvOXL8kluX3ZwgUgP1v9"
+      },
+      "artists": [
+        {
+          "name": "Berliner Luft Quartet",
+          "url": "https://open.spotify.com/artist/1Vm18CZL9fZi0Bk6byWBOl"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237883,
+      "name": "The End of The Road",
+      "url": "https://open.spotify.com/track/0Zt3JaQG7Bz8fVZgkyJC9K"
     },
     {
       "album": {
@@ -18442,7 +18568,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 245681,
       "name": "Things To Look Forward To",
       "url": "https://open.spotify.com/track/6pGvG8RMWD19UTLDPf5Gei"
@@ -18860,7 +18986,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 203603,
       "name": "To See a Flower",
       "url": "https://open.spotify.com/track/5wQ0V1GJByFSa74FqYBADD"

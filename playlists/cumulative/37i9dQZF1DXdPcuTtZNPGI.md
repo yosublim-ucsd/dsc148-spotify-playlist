@@ -4,7 +4,7 @@
 
 > 多彩なボカロPの作品に生命を吹き込み、変幻自在なボーカルの表現力で世間を席巻中の新世代女性シンガー、Adoのオールタイム・ベスト。The essential tracks of Ado, all in one playlist.
 
-128 songs - 8 hr 44 min
+129 songs - 8 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Liner Voice+ Ado「狂言」](https://open.spotify.com/episode/2Smx3XvRVuNqjJLbed4du2) | [Liner Voice+](https://open.spotify.com/show/78s9JnT4Kp3Uv1tU4DSGWP) | [Liner Voice+](https://open.spotify.com/show/78s9JnT4Kp3Uv1tU4DSGWP) | 1:03:16 | 2022-10-09 | 2023-01-20 |
 | [Love ka?](https://open.spotify.com/track/1HVKbxwcF6VeP7n9CBzO9k) | [HiiragiKirai](https://open.spotify.com/artist/2GRRmz1dTswdlbdmpsveqK), [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Love ka?](https://open.spotify.com/album/60kWJEUezrtiM3czq7ubDI) | 3:05 | 2022-10-09 | 2024-04-19 |
 | [Lucky Bruto](https://open.spotify.com/track/5PxHyC1Wdth4CxlMsBSklO) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Kyougen](https://open.spotify.com/album/4muEF5biWb506ZojGMfHb7) | 3:29 | 2022-10-09 | 2024-04-19 |
+| [MIRROR](https://open.spotify.com/track/0NtfH5RUt4V3Vzh18Wuc23) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [MIRROR](https://open.spotify.com/album/4bIo5w5xKztinGjv11NoOQ) | 2:58 | 2024-05-30 |  |
 | [missing](https://open.spotify.com/track/5COfkrLpT6t2fHliXbc3tl) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [missing](https://open.spotify.com/album/6fxRUp0yEHIE79usuBfVaM) | 3:09 | 2022-10-09 | 2024-04-19 |
 | [Motherland](https://open.spotify.com/track/4mNbJClAJtuwVnBIRlMYJB) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Kyougen](https://open.spotify.com/album/4muEF5biWb506ZojGMfHb7) | 4:20 | 2022-10-09 | 2024-04-19 |
 | [Odo](https://open.spotify.com/track/37bNBNB332HXbSy6079cws) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Kyougen](https://open.spotify.com/album/4muEF5biWb506ZojGMfHb7) | 3:30 | 2022-10-09 | 2024-04-19 |

@@ -333,6 +333,24 @@
     },
     {
       "album": {
+        "name": "Two Star & The Dream Police",
+        "url": "https://open.spotify.com/album/6DlLdXBGCsSDPOV8R2pCl7"
+      },
+      "artists": [
+        {
+          "name": "Mk.gee",
+          "url": "https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166179,
+      "name": "Are You Looking Up",
+      "url": "https://open.spotify.com/track/1sWYVBg7ix2WAq43J9nY7E"
+    },
+    {
+      "album": {
         "name": "Asleep Among Endives",
         "url": "https://open.spotify.com/album/4UOBqsp4uZxpE6hsgjLz0b"
       },
@@ -2224,7 +2242,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 233617,
       "name": "I Knew You Were Trouble - Spotify Singles",
       "url": "https://open.spotify.com/track/30QYxvXOJZhGBF6DvpNb8w"
@@ -3100,6 +3118,24 @@
       "duration_ms": 269084,
       "name": "Muse",
       "url": "https://open.spotify.com/track/0XPi8CPAu3uznDyctGO4b3"
+    },
+    {
+      "album": {
+        "name": "Museum of My Mess",
+        "url": "https://open.spotify.com/album/51Go2HZjagXnQTOTN3ZXeJ"
+      },
+      "artists": [
+        {
+          "name": "mindfreakkk",
+          "url": "https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269048,
+      "name": "Museum of My Mess",
+      "url": "https://open.spotify.com/track/30beBjOCmvuAed4eT872rt"
     },
     {
       "album": {
@@ -4320,7 +4356,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 216000,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/2rOCJ6DFcSUd4HqiRZj7wP"
@@ -4556,7 +4592,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 159635,
       "name": "the man",
       "url": "https://open.spotify.com/track/6OTVvKhi3Wb16TEiQEokrs"
@@ -4738,6 +4774,28 @@
       "duration_ms": 183045,
       "name": "Tragic Magic - Dream Version",
       "url": "https://open.spotify.com/track/6qF62tssDqn4EZ3FnBAa9q"
+    },
+    {
+      "album": {
+        "name": "Two Bodies In A Bed",
+        "url": "https://open.spotify.com/album/6OhMuYVcOhx9CBdBUaxx1L"
+      },
+      "artists": [
+        {
+          "name": "CECI",
+          "url": "https://open.spotify.com/artist/5EyGexfSUi8oGjOmZSD5HG"
+        },
+        {
+          "name": "Mimi",
+          "url": "https://open.spotify.com/artist/1L2ghKGdjCxlemka3gOyif"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221000,
+      "name": "Two Bodies In A Bed",
+      "url": "https://open.spotify.com/track/2hPJCYwsZ8Os6Om0loYkmE"
     },
     {
       "album": {

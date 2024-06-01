@@ -283,6 +283,24 @@
     },
     {
       "album": {
+        "name": "Berkali Kali",
+        "url": "https://open.spotify.com/album/50SA5Tv7HcZFazNSX4EANu"
+      },
+      "artists": [
+        {
+          "name": "Selfi Yamma",
+          "url": "https://open.spotify.com/artist/6EnWjs5UyF9P3HMs9vhL2p"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 387555,
+      "name": "Berkali Kali",
+      "url": "https://open.spotify.com/track/7IdldNjrbzAkIqbNTxdIkG"
+    },
+    {
+      "album": {
         "name": "Bersama Bukan Maumu (Live At Ska Reggae)",
         "url": "https://open.spotify.com/album/1iWujizBKnwUWwSyojZIzJ"
       },

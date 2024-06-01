@@ -4,7 +4,7 @@
 
 > This fun, upbeat playlist will help get you up and ready to start your day!
 
-448 songs - 1 day 0 hr 56 min
+450 songs - 1 day 1 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Artichoke](https://open.spotify.com/track/4KLdyKhs8sFlDdQPMAzWif) | [Mathien](https://open.spotify.com/artist/0vXy3lcUbZxuQtOaIEww4D), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN), [Eitan Bernstein](https://open.spotify.com/artist/57c1G1JfgEHIWPSu8wED14) | [Artichoke](https://open.spotify.com/album/1DdT8ZkXpypodT0jxvIzSg) | 3:34 | 2022-03-18 | 2022-07-29 |
 | [Ashamed](https://open.spotify.com/track/1bZmbsNqOkfvGGAikytuW2) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Friends](https://open.spotify.com/album/3yuV4GeplvzBIiYGhQp2nd) | 3:24 | 2021-09-21 | 2022-10-13 |
 | [Ashamed](https://open.spotify.com/track/6V5dtTAY64G0bIzQAdxuEl) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Friends](https://open.spotify.com/album/1G3k89T6eKqTXU9qbDqmr6) | 3:24 | 2021-09-21 | 2023-02-18 |
+| [Ask & You Shall Receive](https://open.spotify.com/track/4zB5pU3cwGiC6Fcz5qtfUe) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Ask & You Shall Receive](https://open.spotify.com/album/5htBDYVAOjfBHgquMxExL8) | 3:19 | 2024-05-31 |  |
 | [Attention](https://open.spotify.com/track/6uChhWADrxd7q0hsEiqETC) | [Senpu](https://open.spotify.com/artist/2utKMTsyw0yoHczz98ORLU), [ROMderful](https://open.spotify.com/artist/3Aum3IcJEKuGsWVPBZnvyU) | [Attention](https://open.spotify.com/album/7Jb7g6FxH2xlwsDsuxJkBb) | 3:21 | 2021-04-30 | 2022-04-17 |
 | [Attitude](https://open.spotify.com/track/2XRk6BH2GZWgA5LJz2ctTD) | [Alex Newell](https://open.spotify.com/artist/2vGaSKEDFsVPBgcnGxqlBN) | [Attitude](https://open.spotify.com/album/3QivixV0Zt47etyNARuXvC) | 2:55 | 2022-01-21 | 2024-01-20 |
 | [Audrey Tell Me](https://open.spotify.com/track/2rzLMSlgENndN9bZ3QKnJv) | [Juice](https://open.spotify.com/artist/0Rq1n6pHHHUQwXnCO8IF4E) | [Audrey Tell Me](https://open.spotify.com/album/69G3oxGRFtROcqCTygtKy4) | 4:14 | 2020-11-13 | 2022-03-26 |
@@ -174,11 +175,12 @@
 | [Good People](https://open.spotify.com/track/7M7wlgmhKhfZq7UN4U8wmC) | [MF Robots](https://open.spotify.com/artist/3gfBx0SvMGdMQ2ZsjPvIV4) | [Good People](https://open.spotify.com/album/0dQZJuZgNrYh05kZEItogF) | 4:01 | 2021-09-21 | 2022-06-16 |
 | [Good Time](https://open.spotify.com/track/4UiovBMIFb0EwICzNzvh0h) | [Anthony Ramos](https://open.spotify.com/artist/660YptcR0hNHJ8iEr1qcse) | [Good Time](https://open.spotify.com/album/3CkPs129sbs0ZHfKYELc7V) | 2:46 | 2022-05-13 | 2023-09-16 |
 | [Goodnightmare](https://open.spotify.com/track/4tUV3qVS1tIT5K2vbwo7Kh) | [Fake Fake](https://open.spotify.com/artist/43nxlJkq1IwAYVZtTWo5kv) | [Goodnightmare](https://open.spotify.com/album/7bVIynTZaUMnXaPydLxksb) | 3:29 | 2020-11-13 | 2022-02-09 |
+| [GPS](https://open.spotify.com/track/0lYSxo9HT7zcTVqNjKDNVW) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [En Route](https://open.spotify.com/album/6oMGF1OHuuRjQWKn1HXrU5) | 3:56 | 2024-05-31 |  |
 | [Grammy](https://open.spotify.com/track/34wtPgiGEIbKHuyfleN84N) | [AJ Smith](https://open.spotify.com/artist/7FzUl96rK3TB1HVeVNw973) | [Grammy](https://open.spotify.com/album/6i1rWhvp7GAF9w5pP5dQh6) | 2:23 | 2022-02-04 | 2024-02-10 |
 | [GROW](https://open.spotify.com/track/7woolpK48x0OF0neZScxgo) | [Malika Tirolien](https://open.spotify.com/artist/0ikYn0NEcQ8rC64TA3Rh4N) | [GROW](https://open.spotify.com/album/4X3uGMrO2XLpBaGegC4ldQ) | 5:02 | 2021-09-21 | 2022-04-19 |
 | [GUCCI BAG](https://open.spotify.com/track/08G63QA6FMXwaABEN6syRb) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [GUCCI BAG](https://open.spotify.com/album/2uglKnENyDI1cz6PxM37dY) | 2:14 | 2022-04-29 |  |
 | [GUCCI BAG](https://open.spotify.com/track/6i2aECSESETukg3mdWUTBP) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [LOVE IN STEREO](https://open.spotify.com/album/2YyHBng4US9HBUJKpICmny) | 2:14 | 2022-05-06 | 2024-04-19 |
-| [Guy I Used To Be](https://open.spotify.com/track/4dmNWxKKw0Me0uzgE7WIGT) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) | [Guy I Used To Be](https://open.spotify.com/album/4clPOxIV3bm5XheafZ24b7) | 3:48 | 2024-04-05 |  |
+| [Guy I Used To Be](https://open.spotify.com/track/4dmNWxKKw0Me0uzgE7WIGT) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) | [Guy I Used To Be](https://open.spotify.com/album/4clPOxIV3bm5XheafZ24b7) | 3:47 | 2024-04-05 |  |
 | [Happy Days](https://open.spotify.com/track/1u8BiP9APkwKjtVb9L1z50) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Happy Days](https://open.spotify.com/album/7vOFsagJ42zKDY8mDR0krm) | 3:51 | 2020-11-13 | 2022-03-21 |
 | [head up in the clouds](https://open.spotify.com/track/58ARvD7EyLhMS2kbB1UAXQ) | [GARDENA](https://open.spotify.com/artist/0HjFA96a8v0dDyN58HGhrB), [Sajan Nauriyal](https://open.spotify.com/artist/2gJudBgAFdkmKegrBl0yT6) | [head up in the clouds](https://open.spotify.com/album/3U6Xy6GcypfSSm8AOYT3jH) | 4:32 | 2023-09-15 |  |
 | [HELLA BOY CRAZY](https://open.spotify.com/track/6MGXeJPWlv3enSLaIz2egy) | [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu) | [HELLA BOY CRAZY](https://open.spotify.com/album/1qdVwpG3yeKWXT36RhLZ26) | 2:14 | 2024-05-24 |  |
@@ -259,12 +261,12 @@
 | [Movin' Nowhere](https://open.spotify.com/track/4XyL6Cadk1bBXWREirnS73) | [Ian Santillano](https://open.spotify.com/artist/2dXwRDSHl1AmQuX73h8omy) | [Movin' Nowhere](https://open.spotify.com/album/7pHcGqCRiK9o9iewDsgvkk) | 4:19 | 2022-03-25 | 2022-07-29 |
 | [Musta Been a Ghost](https://open.spotify.com/track/0AZTpwagcDe4nH0mPcnYhS) | [Próxima Parada](https://open.spotify.com/artist/43cM1JWUzdfkZCi7rjkPnz) | [Kind Reminder](https://open.spotify.com/album/2wdKzhxmZ97uz1YA0m9Ogc) | 3:40 | 2022-12-16 | 2023-03-04 |
 | [My Bad](https://open.spotify.com/track/5ql22UbzPOJrDSjVeTvX6E) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [My Bad](https://open.spotify.com/album/7KNGS1OOy0u8NHQxY553D7) | 2:57 | 2021-02-05 | 2022-10-01 |
-| [MY BEST!](https://open.spotify.com/track/7LTAVYf8CmgGqaI1ynOSbg) | [Caleb Hawley](https://open.spotify.com/artist/5GF3JcY2h0SUPkDlo7ByCB) | [MY BEST!](https://open.spotify.com/album/1bhFAysJcmTSSTItooIW0M) | 3:19 | 2022-08-08 |  |
+| [MY BEST!](https://open.spotify.com/track/7LTAVYf8CmgGqaI1ynOSbg) | [Caleb Hawley](https://open.spotify.com/artist/5GF3JcY2h0SUPkDlo7ByCB) | [MY BEST!](https://open.spotify.com/album/1bhFAysJcmTSSTItooIW0M) | 3:19 | 2022-08-08 | 2024-06-01 |
 | [My Shade My Color](https://open.spotify.com/track/5IGzKMRnUUWAaxP0GxHLVW) | [Liquid Spirits](https://open.spotify.com/artist/1Mpk8lMyFVI8UOe4MivsJJ) | [My Shade My Color](https://open.spotify.com/album/705VoW6yvKnTtuAcpVDxqB) | 3:20 | 2021-09-21 | 2022-05-25 |
 | [My Tribe](https://open.spotify.com/track/3uBU35tiEfq9nstHLauSHU) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [My Tribe](https://open.spotify.com/album/4PErex6T8qV3kP7cYOQzU0) | 3:03 | 2022-08-12 |  |
 | [My Wave](https://open.spotify.com/track/12spArvPaLxK6deo7ikvnZ) | [Sara James](https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV) | [My Wave](https://open.spotify.com/album/4qbZPeJPVHASszWzkoS8hf) | 2:31 | 2022-06-03 | 2023-03-18 |
 | [N.U.T.S](https://open.spotify.com/track/6T7sYe6XUjynzSamUDHaGm) | [Ian Isiah](https://open.spotify.com/artist/0ldPEI4BOt8w3oBG9zhEPI) | [N.U.T.S](https://open.spotify.com/album/2fkmVIjIOCPwjnKeCuspwO) | 2:47 | 2021-05-14 | 2022-04-21 |
-| [Never Gonna Not Dance Again](https://open.spotify.com/track/6sZo5nJIsFWXefRCCexpx0) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Never Gonna Not Dance Again](https://open.spotify.com/album/6MCHSjoEVriUjWE6LERAaR) | 3:45 | 2022-11-04 |  |
+| [Never Gonna Not Dance Again](https://open.spotify.com/track/6sZo5nJIsFWXefRCCexpx0) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Never Gonna Not Dance Again](https://open.spotify.com/album/6MCHSjoEVriUjWE6LERAaR) | 3:45 | 2022-11-04 | 2024-06-01 |
 | [Never Seen You Dance](https://open.spotify.com/track/5mdOo5OClzyz4kgdiek8Pu) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Never Seen You Dance](https://open.spotify.com/album/73VzHaRZwnn6YkkfCYFGh6) | 4:48 | 2022-07-29 | 2023-03-18 |
 | [Next Spot](https://open.spotify.com/track/2oGcLgE0gF1UTepHw9K69G) | [Cait Harris](https://open.spotify.com/artist/1mE23Pc6sUgdxyAj0zCjp0), [Pell](https://open.spotify.com/artist/2O2dI9lY9PnWtAa4OlrgMi) | [Next Spot](https://open.spotify.com/album/3LmuU8alSmfmMp1FJDtE4p) | 3:36 | 2021-10-01 | 2022-07-28 |
 | [Nick Of Time](https://open.spotify.com/track/1SdkSIyVEBu8o9ZsJnTJqO) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [Nick Of Time](https://open.spotify.com/album/4SArFlFDyqFOzmlNFS5fDX) | 4:10 | 2022-07-18 | 2023-02-18 |

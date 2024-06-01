@@ -1,12 +1,12 @@
 {
-  "description": "This is: Nick Drake. \u041d\u0430\u0439\u2011\u0437\u043d\u0430\u0447\u0438\u043c\u0438\u0442\u0435 \u0437\u0430\u043f\u0438\u0441\u0438, \u0432\u0441\u0438\u0447\u043a\u0438 \u0432 \u0435\u0434\u0438\u043d \u043f\u043b\u0435\u0439\u043b\u0438\u0441\u0442.",
-  "num_followers": 52080,
-  "original_name": "This Is: Nick Drake",
+  "description": "This is Nick Drake. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 52110,
+  "original_name": "This Is Nick Drake",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlPNAAAAAADRhjC8hmlx21bXTb5ieAEd",
+  "snapshot_id": "ZlfBgAAAAACQIDgl+hA3uHEFI/e6WlyP",
   "tracks": [
     {
       "added_at": null,
@@ -27,22 +27,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bryter Layter",
-        "url": "https://open.spotify.com/album/0B2E1w5T7PEbZIctZnnt9K"
-      },
-      "artists": [
-        {
-          "name": "Nick Drake",
-          "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
-        }
-      ],
-      "duration_ms": 223722,
-      "name": "Northern Sky",
-      "url": "https://open.spotify.com/track/7pdmBld4yW3WIUkrxHyb5r"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Five Leaves Left",
         "url": "https://open.spotify.com/album/7IpcJbVxLLEfW0KXB7ndE2"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 146026,
       "name": "Day Is Done",
       "url": "https://open.spotify.com/track/66790TBuwlIrGxWWTVc6yl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bryter Layter",
+        "url": "https://open.spotify.com/album/0B2E1w5T7PEbZIctZnnt9K"
+      },
+      "artists": [
+        {
+          "name": "Nick Drake",
+          "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
+        }
+      ],
+      "duration_ms": 289687,
+      "name": "One Of These Things First",
+      "url": "https://open.spotify.com/track/6wuekNiL0KqFbvfdwuequN"
     },
     {
       "added_at": null,
@@ -91,22 +91,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bryter Layter",
-        "url": "https://open.spotify.com/album/0B2E1w5T7PEbZIctZnnt9K"
-      },
-      "artists": [
-        {
-          "name": "Nick Drake",
-          "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
-        }
-      ],
-      "duration_ms": 289687,
-      "name": "One Of These Things First",
-      "url": "https://open.spotify.com/track/6wuekNiL0KqFbvfdwuequN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Five Leaves Left",
         "url": "https://open.spotify.com/album/7IpcJbVxLLEfW0KXB7ndE2"
       },
@@ -116,9 +100,25 @@
           "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
         }
       ],
-      "duration_ms": 258680,
-      "name": "River Man",
-      "url": "https://open.spotify.com/track/3Uh7rAb7F0XGVpEEDwfH1k"
+      "duration_ms": 245013,
+      "name": "Saturday Sun",
+      "url": "https://open.spotify.com/track/1drLQNS9D5z9lBP4DbtO2R"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bryter Layter",
+        "url": "https://open.spotify.com/album/0B2E1w5T7PEbZIctZnnt9K"
+      },
+      "artists": [
+        {
+          "name": "Nick Drake",
+          "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
+        }
+      ],
+      "duration_ms": 225291,
+      "name": "Hazey Jane II",
+      "url": "https://open.spotify.com/track/7lDnXMcGYeGnku3H84JlQh"
     },
     {
       "added_at": null,
@@ -155,22 +155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bryter Layter",
-        "url": "https://open.spotify.com/album/0B2E1w5T7PEbZIctZnnt9K"
-      },
-      "artists": [
-        {
-          "name": "Nick Drake",
-          "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
-        }
-      ],
-      "duration_ms": 225291,
-      "name": "Hazey Jane II",
-      "url": "https://open.spotify.com/track/7lDnXMcGYeGnku3H84JlQh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Five Leaves Left",
         "url": "https://open.spotify.com/album/7IpcJbVxLLEfW0KXB7ndE2"
       },
@@ -180,9 +164,25 @@
           "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
         }
       ],
-      "duration_ms": 284986,
-      "name": "' Cello Song",
-      "url": "https://open.spotify.com/track/42yexCY4dCftowtAZXuAIj"
+      "duration_ms": 258680,
+      "name": "River Man",
+      "url": "https://open.spotify.com/track/3Uh7rAb7F0XGVpEEDwfH1k"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bryter Layter",
+        "url": "https://open.spotify.com/album/0B2E1w5T7PEbZIctZnnt9K"
+      },
+      "artists": [
+        {
+          "name": "Nick Drake",
+          "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
+        }
+      ],
+      "duration_ms": 92986,
+      "name": "Introduction",
+      "url": "https://open.spotify.com/track/2JLxaBGEmZSvK1tCcOjpO8"
     },
     {
       "added_at": null,
@@ -219,22 +219,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bryter Layter",
-        "url": "https://open.spotify.com/album/0B2E1w5T7PEbZIctZnnt9K"
-      },
-      "artists": [
-        {
-          "name": "Nick Drake",
-          "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
-        }
-      ],
-      "duration_ms": 92986,
-      "name": "Introduction",
-      "url": "https://open.spotify.com/track/2JLxaBGEmZSvK1tCcOjpO8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Five Leaves Left",
         "url": "https://open.spotify.com/album/7IpcJbVxLLEfW0KXB7ndE2"
       },
@@ -244,9 +228,9 @@
           "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
         }
       ],
-      "duration_ms": 264613,
-      "name": "Time Has Told Me",
-      "url": "https://open.spotify.com/track/20FLGZPgMHXlU0VpQ0HpxN"
+      "duration_ms": 284986,
+      "name": "' Cello Song",
+      "url": "https://open.spotify.com/track/42yexCY4dCftowtAZXuAIj"
     },
     {
       "added_at": null,
@@ -263,22 +247,6 @@
       "duration_ms": 157813,
       "name": "Rider On The Wheel",
       "url": "https://open.spotify.com/track/4jLxvHa0g3kZV24TuUyOMB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pink Moon",
-        "url": "https://open.spotify.com/album/5mwOo1zikswhmfHvtqVSXg"
-      },
-      "artists": [
-        {
-          "name": "Nick Drake",
-          "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
-        }
-      ],
-      "duration_ms": 234475,
-      "name": "Things Behind The Sun",
-      "url": "https://open.spotify.com/track/2s89qv9maW8RMCoaxtvNtn"
     },
     {
       "added_at": null,
@@ -303,6 +271,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pink Moon",
+        "url": "https://open.spotify.com/album/5mwOo1zikswhmfHvtqVSXg"
+      },
+      "artists": [
+        {
+          "name": "Nick Drake",
+          "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
+        }
+      ],
+      "duration_ms": 234475,
+      "name": "Things Behind The Sun",
+      "url": "https://open.spotify.com/track/2s89qv9maW8RMCoaxtvNtn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Five Leaves Left",
         "url": "https://open.spotify.com/album/7IpcJbVxLLEfW0KXB7ndE2"
       },
@@ -312,9 +296,9 @@
           "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
         }
       ],
-      "duration_ms": 372626,
-      "name": "Three Hours",
-      "url": "https://open.spotify.com/track/3Mc00D5lLah9WAn62rDKrH"
+      "duration_ms": 264613,
+      "name": "Time Has Told Me",
+      "url": "https://open.spotify.com/track/20FLGZPgMHXlU0VpQ0HpxN"
     },
     {
       "added_at": null,
@@ -335,22 +319,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pink Moon",
-        "url": "https://open.spotify.com/album/5mwOo1zikswhmfHvtqVSXg"
-      },
-      "artists": [
-        {
-          "name": "Nick Drake",
-          "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
-        }
-      ],
-      "duration_ms": 81850,
-      "name": "Horn",
-      "url": "https://open.spotify.com/track/4A1t2K9lsLZWb5oHAtT9xs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Made To Love Magic",
         "url": "https://open.spotify.com/album/0nHa7yhIyuYgRL6msr9dJR"
       },
@@ -367,6 +335,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pink Moon",
+        "url": "https://open.spotify.com/album/5mwOo1zikswhmfHvtqVSXg"
+      },
+      "artists": [
+        {
+          "name": "Nick Drake",
+          "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
+        }
+      ],
+      "duration_ms": 81850,
+      "name": "Horn",
+      "url": "https://open.spotify.com/track/4A1t2K9lsLZWb5oHAtT9xs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Five Leaves Left",
         "url": "https://open.spotify.com/album/7IpcJbVxLLEfW0KXB7ndE2"
       },
@@ -376,9 +360,9 @@
           "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
         }
       ],
-      "duration_ms": 231906,
-      "name": "Man In A Shed",
-      "url": "https://open.spotify.com/track/7rDJymAeuDbAKmRO07dGHS"
+      "duration_ms": 372626,
+      "name": "Three Hours",
+      "url": "https://open.spotify.com/track/3Mc00D5lLah9WAn62rDKrH"
     },
     {
       "added_at": null,
@@ -399,22 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bryter Layter",
-        "url": "https://open.spotify.com/album/0B2E1w5T7PEbZIctZnnt9K"
-      },
-      "artists": [
-        {
-          "name": "Nick Drake",
-          "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
-        }
-      ],
-      "duration_ms": 268354,
-      "name": "Hazey Jane I",
-      "url": "https://open.spotify.com/track/0HheBKrZSsUVyjhUbA3Viu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Made To Love Magic",
         "url": "https://open.spotify.com/album/0nHa7yhIyuYgRL6msr9dJR"
       },
@@ -427,6 +395,22 @@
       "duration_ms": 203986,
       "name": "Hanging On A Star",
       "url": "https://open.spotify.com/track/3lpkLZfD2RJltSaAGgmoxb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bryter Layter",
+        "url": "https://open.spotify.com/album/0B2E1w5T7PEbZIctZnnt9K"
+      },
+      "artists": [
+        {
+          "name": "Nick Drake",
+          "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
+        }
+      ],
+      "duration_ms": 268354,
+      "name": "Hazey Jane I",
+      "url": "https://open.spotify.com/track/0HheBKrZSsUVyjhUbA3Viu"
     },
     {
       "added_at": null,
@@ -463,6 +447,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Made To Love Magic",
+        "url": "https://open.spotify.com/album/0nHa7yhIyuYgRL6msr9dJR"
+      },
+      "artists": [
+        {
+          "name": "Nick Drake",
+          "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
+        }
+      ],
+      "duration_ms": 183493,
+      "name": "Joey",
+      "url": "https://open.spotify.com/track/5LpXrjVkXNFXIzoj5Mf5gw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bryter Layter",
+        "url": "https://open.spotify.com/album/0B2E1w5T7PEbZIctZnnt9K"
+      },
+      "artists": [
+        {
+          "name": "Nick Drake",
+          "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
+        }
+      ],
+      "duration_ms": 283333,
+      "name": "At The Chime Of A City Clock",
+      "url": "https://open.spotify.com/track/2pcFLtTZRBbYYgXZzExUo8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Beyond All Reasonable Doubt",
         "url": "https://open.spotify.com/album/4xQxAwjX8qceJNktf58itw"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 199762,
       "name": "Fly",
       "url": "https://open.spotify.com/track/2laHHuyz8Pt5syFk7aXP5R"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Made To Love Magic",
-        "url": "https://open.spotify.com/album/0nHa7yhIyuYgRL6msr9dJR"
-      },
-      "artists": [
-        {
-          "name": "Nick Drake",
-          "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
-        }
-      ],
-      "duration_ms": 183493,
-      "name": "Joey",
-      "url": "https://open.spotify.com/track/5LpXrjVkXNFXIzoj5Mf5gw"
     },
     {
       "added_at": null,
@@ -529,6 +529,6 @@
       "url": "https://open.spotify.com/track/1ORNDo58BSH2uP0nNXJTT1"
     }
   ],
-  "unique_name": "This Is: Nick Drake",
+  "unique_name": "This Is Nick Drake",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO33j7fa"
 }

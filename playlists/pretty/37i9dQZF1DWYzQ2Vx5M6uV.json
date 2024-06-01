@@ -1,6 +1,6 @@
 {
   "description": "Bringing you the hottest collaborations between Afro & Latin artists. Cover: Rvssian, Ayra Starr & Rauw Alejandro ",
-  "num_followers": 114890,
+  "num_followers": 114921,
   "original_name": "Afro Ritmo",
   "owner": {
     "name": "Spotify",
@@ -831,22 +831,6 @@
     {
       "added_at": "2024-05-06 17:24:48",
       "album": {
-        "name": "Boyfriend",
-        "url": "https://open.spotify.com/album/3emQmkPrhepRzfm4eR7D8D"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        }
-      ],
-      "duration_ms": 176320,
-      "name": "Jeje de Whine",
-      "url": "https://open.spotify.com/track/3IKW5FVGMa3a45ZNHc6jxy"
-    },
-    {
-      "added_at": "2024-05-06 17:24:48",
-      "album": {
         "name": "Posa",
         "url": "https://open.spotify.com/album/2pt4yzywteOWyobOMyRN7n"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 206585,
       "name": "Posa",
       "url": "https://open.spotify.com/track/3fcIZ1K25xOEAwePGagbN8"
+    },
+    {
+      "added_at": "2024-05-06 17:24:48",
+      "album": {
+        "name": "Boyfriend",
+        "url": "https://open.spotify.com/album/3emQmkPrhepRzfm4eR7D8D"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 176320,
+      "name": "Jeje de Whine",
+      "url": "https://open.spotify.com/track/3IKW5FVGMa3a45ZNHc6jxy"
     },
     {
       "added_at": "2024-05-06 17:24:48",
@@ -1411,6 +1411,30 @@
     {
       "added_at": "2024-05-06 17:24:48",
       "album": {
+        "name": "Certainly",
+        "url": "https://open.spotify.com/album/2jcdTpJpZSeMF14FlLerQ1"
+      },
+      "artists": [
+        {
+          "name": "SKN The Divine",
+          "url": "https://open.spotify.com/artist/02f7L2f2zIZ7TSP7WCQAJK"
+        },
+        {
+          "name": "Anni3",
+          "url": "https://open.spotify.com/artist/1SVYYGAAaNV3UBoMO889b2"
+        },
+        {
+          "name": "Joe On The Beat",
+          "url": "https://open.spotify.com/artist/2stlNmSzpsNsSD3hpjDdfF"
+        }
+      ],
+      "duration_ms": 133323,
+      "name": "Certainly",
+      "url": "https://open.spotify.com/track/4nNACvnffnDaOm7YeXcyGB"
+    },
+    {
+      "added_at": "2024-05-06 17:24:48",
+      "album": {
         "name": "Nightshift",
         "url": "https://open.spotify.com/album/4giogCe206BY2QoMoqS1Vw"
       },
@@ -1447,26 +1471,6 @@
       "duration_ms": 196139,
       "name": "LOML (feat. Olamide)",
       "url": "https://open.spotify.com/track/0FZlLFD2yQLxVD4IoiQMFm"
-    },
-    {
-      "added_at": "2024-05-06 17:24:48",
-      "album": {
-        "name": "ARENA",
-        "url": "https://open.spotify.com/album/2ypwm0uqa0yT100p8kVWq4"
-      },
-      "artists": [
-        {
-          "name": "Dylan Fuentes",
-          "url": "https://open.spotify.com/artist/4Wcscw7z9AAE6y7qWdIAin"
-        },
-        {
-          "name": "Daramola",
-          "url": "https://open.spotify.com/artist/36qm7VRfBdnnJRBS1fd0mA"
-        }
-      ],
-      "duration_ms": 261702,
-      "name": "designer (with Daramola)",
-      "url": "https://open.spotify.com/track/7cyUsEK6wnG7YLkTIdjYJ9"
     }
   ],
   "unique_name": "Afro Ritmo",

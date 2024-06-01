@@ -1,12 +1,12 @@
 {
   "description": "Los \u00e9xitos del Dembow. Portada: Jey One",
-  "num_followers": 478964,
+  "num_followers": 481616,
   "original_name": "Dembow Pegao",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zk+iEQAAAADh8fzdvcpHWaI/apg6LTCt",
+  "snapshot_id": "ZljPbQAAAAB5ev7Fgtx1EB2Yzy+Hc3Ws",
   "tracks": [
     {
       "added_at": "2024-04-11 23:04:36",
@@ -23,6 +23,26 @@
       "duration_ms": 105836,
       "name": "HAY LUPITA",
       "url": "https://open.spotify.com/track/1ciCd4tjOBZMu3CcXkOAed"
+    },
+    {
+      "added_at": "2024-05-29 17:43:56",
+      "album": {
+        "name": "Soy la M\u00e1s Mala de Espa\u00f1a",
+        "url": "https://open.spotify.com/album/2wHGo3HUPrd1hlvWOCqlZM"
+      },
+      "artists": [
+        {
+          "name": "Bb trickz",
+          "url": "https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA"
+        },
+        {
+          "name": "Bryant LR",
+          "url": "https://open.spotify.com/artist/73uwZQQfha8JhNvBqVW1DL"
+        }
+      ],
+      "duration_ms": 110683,
+      "name": "Soy la M\u00e1s Mala de Espa\u00f1a",
+      "url": "https://open.spotify.com/track/17xJgs1Qeg1u5VnpJbNq3M"
     },
     {
       "added_at": "2024-01-04 17:55:03",
@@ -85,6 +105,26 @@
       "url": "https://open.spotify.com/track/7f0S484NNC0QAdM7HwRGBX"
     },
     {
+      "added_at": "2024-05-30 19:11:41",
+      "album": {
+        "name": "Envenenao",
+        "url": "https://open.spotify.com/album/3ww7KDDQ1lQQyuvNGHszNY"
+      },
+      "artists": [
+        {
+          "name": "Papera",
+          "url": "https://open.spotify.com/artist/0L7AJNWmGtSjzASON8eTDW"
+        },
+        {
+          "name": "Chucky73",
+          "url": "https://open.spotify.com/artist/5IwRo4xhRz5JM2y5IXHjcU"
+        }
+      ],
+      "duration_ms": 125387,
+      "name": "Envenenao",
+      "url": "https://open.spotify.com/track/57WxIK1nE2SL9t2edmCNRB"
+    },
+    {
       "added_at": "2024-03-14 21:07:32",
       "album": {
         "name": "Sobalo",
@@ -107,6 +147,26 @@
       "duration_ms": 116683,
       "name": "Sobalo",
       "url": "https://open.spotify.com/track/5Zy0g1WbeA3JM3INpYWoyN"
+    },
+    {
+      "added_at": "2024-05-29 17:43:56",
+      "album": {
+        "name": "J\u00e1lale alv",
+        "url": "https://open.spotify.com/album/2fg0Ah2oDL1ne1zECvOdPY"
+      },
+      "artists": [
+        {
+          "name": "Bb trickz",
+          "url": "https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA"
+        },
+        {
+          "name": "Kevin AMF",
+          "url": "https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu"
+        }
+      ],
+      "duration_ms": 109866,
+      "name": "J\u00e1lale alv",
+      "url": "https://open.spotify.com/track/57uiO4cG6bK5yq51BJTvyE"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -581,38 +641,6 @@
       "url": "https://open.spotify.com/track/1IHWl5LamUGEuP4ozKQSXZ"
     },
     {
-      "added_at": "2023-12-13 22:43:07",
-      "album": {
-        "name": "Lindo De Verdad",
-        "url": "https://open.spotify.com/album/3G5dp0db9qxsV05YfkrkGX"
-      },
-      "artists": [
-        {
-          "name": "Donaty",
-          "url": "https://open.spotify.com/artist/2dHbjVgpO3NvzY8D7yZvji"
-        }
-      ],
-      "duration_ms": 140387,
-      "name": "Lindo De Verdad",
-      "url": "https://open.spotify.com/track/175j7VZSSSQIMA0TDncqXU"
-    },
-    {
-      "added_at": "2024-02-15 17:14:55",
-      "album": {
-        "name": "Van 3 D\u00eda",
-        "url": "https://open.spotify.com/album/6ast2TToWEm7stjuQ1Qyqg"
-      },
-      "artists": [
-        {
-          "name": "Mestizo Is Back",
-          "url": "https://open.spotify.com/artist/5DbHAUWNEMwhEUSC4UwcKH"
-        }
-      ],
-      "duration_ms": 135360,
-      "name": "Van 3 D\u00eda",
-      "url": "https://open.spotify.com/track/6JEc3AZdPqI9srmmmILjk8"
-    },
-    {
       "added_at": "2024-02-01 23:43:50",
       "album": {
         "name": "Agu\u00e1ntala",
@@ -627,26 +655,6 @@
       "duration_ms": 144672,
       "name": "Agu\u00e1ntala",
       "url": "https://open.spotify.com/track/0yTv8zIpgEdmqvPAteE2OY"
-    },
-    {
-      "added_at": "2023-12-07 22:11:57",
-      "album": {
-        "name": "Cua Cua",
-        "url": "https://open.spotify.com/album/1QfFufG7nY7NDRgeNdReXh"
-      },
-      "artists": [
-        {
-          "name": "J Daly",
-          "url": "https://open.spotify.com/artist/1x4jnSZBeWl577gBo6Gb13"
-        },
-        {
-          "name": "Pio el titoki",
-          "url": "https://open.spotify.com/artist/2yIqmykK6KOTqpqg0kLS6y"
-        }
-      ],
-      "duration_ms": 118412,
-      "name": "Cua Cua",
-      "url": "https://open.spotify.com/track/3Kvulmj8KcGhbnOhqHFEht"
     },
     {
       "added_at": "2023-10-13 04:00:00",

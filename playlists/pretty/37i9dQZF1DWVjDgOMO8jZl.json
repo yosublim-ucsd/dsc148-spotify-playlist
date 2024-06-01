@@ -1,31 +1,63 @@
 {
-  "description": "Scopri i 6 artisti emergenti su cui scommettiamo quest'anno: Coca Puma, okgiorgio, Tony Boy, Sally Cruz, centomilacarie, STE!",
-  "num_followers": 23703,
+  "description": "Tony Boy in cover di RADAR Italia, la playlist dedicata agli artisti che Spotify ha scelto come emergenti dell'anno. ",
+  "num_followers": 23711,
   "original_name": "RADAR Italia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZieG3AAAAAChvpV/Xi63cnygYamsW7wa",
+  "snapshot_id": "Zlj3HAAAAAA0mQ3IJSEWHz0RUJOyCtDr",
   "tracks": [
     {
-      "added_at": "2024-04-23 10:01:00",
+      "added_at": "2024-05-30 22:01:00",
       "album": {
-        "name": "ok :/",
-        "url": "https://open.spotify.com/album/7JMRoCMELpRyMhzj8XAkmt"
+        "name": "Respiro",
+        "url": "https://open.spotify.com/album/45ZXo91lK7a6x2lylI6siL"
       },
       "artists": [
         {
-          "name": "okgiorgio",
-          "url": "https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg"
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
         }
       ],
-      "duration_ms": 172000,
-      "name": "ok :/",
-      "url": "https://open.spotify.com/track/04ui4a5OFflkrFJ5qXExdY"
+      "duration_ms": 155200,
+      "name": "Respiro",
+      "url": "https://open.spotify.com/track/31ePh9rOTkIERrloY8BUUc"
     },
     {
-      "added_at": "2024-04-23 10:01:00",
+      "added_at": "2024-05-30 22:01:00",
+      "album": {
+        "name": "quasi nuda",
+        "url": "https://open.spotify.com/album/7zQ1TolEtgUbGMOAZpp1Vn"
+      },
+      "artists": [
+        {
+          "name": "centomilacarie",
+          "url": "https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa"
+        }
+      ],
+      "duration_ms": 165709,
+      "name": "quasi nuda",
+      "url": "https://open.spotify.com/track/317eSzpK6SiEUiqTtke6Jk"
+    },
+    {
+      "added_at": "2024-05-30 22:01:00",
+      "album": {
+        "name": "Panorama Olivia",
+        "url": "https://open.spotify.com/album/2hvDI1bWYpIxgMH9oFWl8t"
+      },
+      "artists": [
+        {
+          "name": "Coca Puma",
+          "url": "https://open.spotify.com/artist/1ByonnOisC5Owt0tfsyzGc"
+        }
+      ],
+      "duration_ms": 182896,
+      "name": "Tardi",
+      "url": "https://open.spotify.com/track/6UhdHdR5y1xXBhOwYwzA0d"
+    },
+    {
+      "added_at": "2024-05-30 22:01:00",
       "album": {
         "name": "LA NOTTE (feat. thasup)",
         "url": "https://open.spotify.com/album/7KPWHITXB44PYMY7ZdzRDN"
@@ -49,55 +81,23 @@
       "url": "https://open.spotify.com/track/2Rgnz1zbNus9eaTYd3DcEe"
     },
     {
-      "added_at": "2024-04-23 10:01:00",
+      "added_at": "2024-05-30 22:01:00",
       "album": {
-        "name": "Leanin'",
-        "url": "https://open.spotify.com/album/1ebja9z4FBEivqqCYEqega"
+        "name": "ok :/",
+        "url": "https://open.spotify.com/album/7JMRoCMELpRyMhzj8XAkmt"
       },
       "artists": [
         {
-          "name": "Tony Boy",
-          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+          "name": "okgiorgio",
+          "url": "https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg"
         }
       ],
-      "duration_ms": 146285,
-      "name": "Leanin'",
-      "url": "https://open.spotify.com/track/2oQeSFEOYr7JEWhOx9uPHH"
+      "duration_ms": 172000,
+      "name": "ok :/",
+      "url": "https://open.spotify.com/track/04ui4a5OFflkrFJ5qXExdY"
     },
     {
-      "added_at": "2024-04-23 10:01:00",
-      "album": {
-        "name": "notte vodka",
-        "url": "https://open.spotify.com/album/13jKhdRkvOzf7yzfRkuReL"
-      },
-      "artists": [
-        {
-          "name": "centomilacarie",
-          "url": "https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa"
-        }
-      ],
-      "duration_ms": 145348,
-      "name": "notte vodka",
-      "url": "https://open.spotify.com/track/7w6K5uvRrZHdHNgQt5lSXN"
-    },
-    {
-      "added_at": "2024-04-23 10:01:00",
-      "album": {
-        "name": "Panorama Olivia",
-        "url": "https://open.spotify.com/album/2hvDI1bWYpIxgMH9oFWl8t"
-      },
-      "artists": [
-        {
-          "name": "Coca Puma",
-          "url": "https://open.spotify.com/artist/1ByonnOisC5Owt0tfsyzGc"
-        }
-      ],
-      "duration_ms": 182896,
-      "name": "Tardi",
-      "url": "https://open.spotify.com/track/6UhdHdR5y1xXBhOwYwzA0d"
-    },
-    {
-      "added_at": "2024-04-23 10:01:00",
+      "added_at": "2024-05-30 22:01:00",
       "album": {
         "name": "MA COME SI FA",
         "url": "https://open.spotify.com/album/4YwdSpryGk4Ciu2fqc3OdL"
@@ -117,7 +117,7 @@
       "url": "https://open.spotify.com/track/0NWiNpldKNulxKaVSOToBB"
     },
     {
-      "added_at": "2024-04-23 10:01:00",
+      "added_at": "2024-05-30 22:01:00",
       "album": {
         "name": "ok",
         "url": "https://open.spotify.com/album/1w7C8fTWGQu5QhHdS5B7pi"
@@ -133,7 +133,39 @@
       "url": "https://open.spotify.com/track/1bcDVX5XacuPzujRos1C3T"
     },
     {
-      "added_at": "2024-04-23 10:01:00",
+      "added_at": "2024-05-30 22:01:00",
+      "album": {
+        "name": "Leanin'",
+        "url": "https://open.spotify.com/album/1ebja9z4FBEivqqCYEqega"
+      },
+      "artists": [
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        }
+      ],
+      "duration_ms": 146285,
+      "name": "Leanin'",
+      "url": "https://open.spotify.com/track/2oQeSFEOYr7JEWhOx9uPHH"
+    },
+    {
+      "added_at": "2024-05-30 22:01:00",
+      "album": {
+        "name": "notte vodka",
+        "url": "https://open.spotify.com/album/13jKhdRkvOzf7yzfRkuReL"
+      },
+      "artists": [
+        {
+          "name": "centomilacarie",
+          "url": "https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa"
+        }
+      ],
+      "duration_ms": 145348,
+      "name": "notte vodka",
+      "url": "https://open.spotify.com/track/7w6K5uvRrZHdHNgQt5lSXN"
+    },
+    {
+      "added_at": "2024-05-30 22:01:00",
       "album": {
         "name": "1 2 3",
         "url": "https://open.spotify.com/album/49ZvUcbaT42V16avQQNJQx"
@@ -153,7 +185,7 @@
       "url": "https://open.spotify.com/track/0qcq82wOBXvOnSngbddfgb"
     },
     {
-      "added_at": "2024-04-23 10:01:00",
+      "added_at": "2024-05-30 22:01:00",
       "album": {
         "name": "NOSTALGIA (export)",
         "url": "https://open.spotify.com/album/7nrBxtq6TJ5xs3D9G0R7ue"
@@ -169,7 +201,7 @@
       "url": "https://open.spotify.com/track/4D6ywGtQxlezNqqRwJQDnb"
     },
     {
-      "added_at": "2024-04-23 10:01:00",
+      "added_at": "2024-05-30 22:01:00",
       "album": {
         "name": "dove non posso guardare",
         "url": "https://open.spotify.com/album/0gdCbk9bYB24atLxIHuak1"
@@ -189,7 +221,7 @@
       "url": "https://open.spotify.com/track/1n0P0etFhPJqCKz6oK3zEw"
     },
     {
-      "added_at": "2024-04-23 10:01:00",
+      "added_at": "2024-05-30 22:01:00",
       "album": {
         "name": "Panorama Olivia",
         "url": "https://open.spotify.com/album/2hvDI1bWYpIxgMH9oFWl8t"
@@ -205,7 +237,7 @@
       "url": "https://open.spotify.com/track/4KOpgmof0r6RJEOWUgU9Kl"
     },
     {
-      "added_at": "2024-04-23 10:01:00",
+      "added_at": "2024-05-30 22:01:00",
       "album": {
         "name": "CATENE",
         "url": "https://open.spotify.com/album/5cu1didsjiJlzmKOYNCiju"
@@ -221,7 +253,7 @@
       "url": "https://open.spotify.com/track/1Ro7tQgsq9qcoDdr1npPwA"
     },
     {
-      "added_at": "2024-04-23 10:01:00",
+      "added_at": "2024-05-30 22:01:00",
       "album": {
         "name": "ok",
         "url": "https://open.spotify.com/album/1w7C8fTWGQu5QhHdS5B7pi"
@@ -237,7 +269,7 @@
       "url": "https://open.spotify.com/track/4h38UzD3z7bWMafhrdM7xW"
     },
     {
-      "added_at": "2024-04-23 10:01:00",
+      "added_at": "2024-05-30 22:01:00",
       "album": {
         "name": "CONFESSIONE",
         "url": "https://open.spotify.com/album/0cDiwdOYaCtEc97xbdAxPH"
@@ -257,7 +289,7 @@
       "url": "https://open.spotify.com/track/3EeD2efm5Tiv63Mb0qWluH"
     },
     {
-      "added_at": "2024-04-23 10:01:00",
+      "added_at": "2024-05-30 22:01:00",
       "album": {
         "name": "Umile",
         "url": "https://open.spotify.com/album/1ewXxOuO1Oi9F8Wan0gEi9"
@@ -277,7 +309,7 @@
       "url": "https://open.spotify.com/track/1r5WCFulDtvAdCNmJfH1wA"
     },
     {
-      "added_at": "2024-04-23 10:01:00",
+      "added_at": "2024-05-30 22:01:00",
       "album": {
         "name": "strappami la pelle a morsi",
         "url": "https://open.spotify.com/album/5QF6qF4rFdxpwpSoj8HANB"
@@ -293,7 +325,7 @@
       "url": "https://open.spotify.com/track/6q8se4AGDOyU6hsnDTpWE9"
     },
     {
-      "added_at": "2024-04-23 10:01:00",
+      "added_at": "2024-05-30 22:01:00",
       "album": {
         "name": "Panorama Olivia",
         "url": "https://open.spotify.com/album/2hvDI1bWYpIxgMH9oFWl8t"
@@ -309,7 +341,7 @@
       "url": "https://open.spotify.com/track/7IYqWbceazrqnNhLaIt9Ig"
     },
     {
-      "added_at": "2024-04-23 10:01:00",
+      "added_at": "2024-05-30 22:01:00",
       "album": {
         "name": "T'aggio vuluto bene",
         "url": "https://open.spotify.com/album/0JFgZQDWr2NSXQ5vlU7vpe"

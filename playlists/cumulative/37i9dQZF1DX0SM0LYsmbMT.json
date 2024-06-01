@@ -2992,7 +2992,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 115875,
       "name": "Amnesia",
       "url": "https://open.spotify.com/track/3HbAR7ZxhLZjlBN84UaitM"
@@ -8727,6 +8727,28 @@
     },
     {
       "album": {
+        "name": "boomarang",
+        "url": "https://open.spotify.com/album/1zCwPjUeeT2aFj9kjLDKe7"
+      },
+      "artists": [
+        {
+          "name": "Enluv",
+          "url": "https://open.spotify.com/artist/5g8EUiiIZDqp2xd9eUUHin"
+        },
+        {
+          "name": "c e c e l i e",
+          "url": "https://open.spotify.com/artist/4QvPq5gns3HmrXPy67CciX"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147586,
+      "name": "boomarang",
+      "url": "https://open.spotify.com/track/3pjHLvtQuD7fbnMVrroPdr"
+    },
+    {
+      "album": {
         "name": "Boreal",
         "url": "https://open.spotify.com/album/0Y2wem1kHX7RXOQn11595y"
       },
@@ -11420,6 +11442,28 @@
       "duration_ms": 146341,
       "name": "Casablanca",
       "url": "https://open.spotify.com/track/5YQxSoa9DJvbRz49X9BTc8"
+    },
+    {
+      "album": {
+        "name": "Cashew",
+        "url": "https://open.spotify.com/album/3BEc8zu0BjzuRSAd3kTD8Z"
+      },
+      "artists": [
+        {
+          "name": "gknister",
+          "url": "https://open.spotify.com/artist/0fR068DfY5exvbuRLEV0t7"
+        },
+        {
+          "name": "Beats for Trees",
+          "url": "https://open.spotify.com/artist/3fMYtQwkblUGOAto35b82Y"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115999,
+      "name": "Cashew",
+      "url": "https://open.spotify.com/track/4HzSpJS4lAh37vCV2pwQCm"
     },
     {
       "album": {
@@ -14256,6 +14300,24 @@
       "duration_ms": 132500,
       "name": "Cold Outside",
       "url": "https://open.spotify.com/track/5MnNq7lsCNklRGHTCuAIwr"
+    },
+    {
+      "album": {
+        "name": "Cold Reflection",
+        "url": "https://open.spotify.com/album/2xoMj1TUi85e6U4aXXeFWm"
+      },
+      "artists": [
+        {
+          "name": "Dosi",
+          "url": "https://open.spotify.com/artist/5p2HHGakKOJCICf9fnfnQ9"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162077,
+      "name": "Cold Reflection",
+      "url": "https://open.spotify.com/track/0aZjSaKKElXl4NwNWM8Fji"
     },
     {
       "album": {
@@ -17578,7 +17640,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 88488,
       "name": "Diamonds",
       "url": "https://open.spotify.com/track/1okldfwpJARuGRbjxp8uZC"
@@ -19410,7 +19472,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 153103,
       "name": "Drop Out",
       "url": "https://open.spotify.com/track/0Cw1nI3L84StxVXuZylvWW"
@@ -26596,7 +26658,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 126000,
       "name": "Glimmer",
       "url": "https://open.spotify.com/track/5Fzb2yPF8OZcxBYTCt9aa0"
@@ -27566,6 +27628,24 @@
       "duration_ms": 165933,
       "name": "Good Morning",
       "url": "https://open.spotify.com/track/6kC8ai0O06mARQHn8dcGDc"
+    },
+    {
+      "album": {
+        "name": "Good Only Knows",
+        "url": "https://open.spotify.com/album/5v2wZ2ioro1BKR19D7vMEV"
+      },
+      "artists": [
+        {
+          "name": "AHNAMUSICA",
+          "url": "https://open.spotify.com/artist/2QONtzTPgMymeO5VVQ4w3h"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123882,
+      "name": "Good Only Knows",
+      "url": "https://open.spotify.com/track/3AfzarIgPSbvtit3Lj0HRJ"
     },
     {
       "album": {
@@ -30226,6 +30306,28 @@
       "duration_ms": 105903,
       "name": "Higher",
       "url": "https://open.spotify.com/track/5vee7TEioh9MxJ1cJ5QRgR"
+    },
+    {
+      "album": {
+        "name": "Highkey",
+        "url": "https://open.spotify.com/album/7ry9cOcoDcsbWGcHmgnVN4"
+      },
+      "artists": [
+        {
+          "name": "Zmeyev",
+          "url": "https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL"
+        },
+        {
+          "name": "Screen Jazzmaster",
+          "url": "https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152195,
+      "name": "Highkey",
+      "url": "https://open.spotify.com/track/3FEgYzxBc4QM5fygfEBoL0"
     },
     {
       "album": {
@@ -35758,7 +35860,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-25",
+      "date_removed": null,
       "duration_ms": 89610,
       "name": "Jugallo",
       "url": "https://open.spotify.com/track/7MVJfTdUVlJFANqedc2ExD"
@@ -41668,7 +41770,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 93157,
       "name": "Lovebites",
       "url": "https://open.spotify.com/track/4Qil9aFPFjPxo4kUcL7Zym"
@@ -46204,7 +46306,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 127407,
       "name": "Moonseed",
       "url": "https://open.spotify.com/track/07byV6gYIrGnMCFePaouvY"
@@ -48738,7 +48840,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-29",
+      "date_removed": null,
       "duration_ms": 88421,
       "name": "New Sneakers",
       "url": "https://open.spotify.com/track/5enJFKY7H1neRxwbvhtPOg"
@@ -49072,7 +49174,7 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 130909,
       "name": "Night Glow",
       "url": "https://open.spotify.com/track/5T4DXigQcFAVQloNzuYjU3"
@@ -49524,7 +49626,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 183608,
       "name": "Nightly Passage",
       "url": "https://open.spotify.com/track/59CddiNf7XCd5EZ88lrwod"
@@ -49546,7 +49648,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 138705,
       "name": "Nightmare",
       "url": "https://open.spotify.com/track/6winapAWCOXBzQAAGWjiDq"
@@ -51648,7 +51750,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 99740,
       "name": "On The Rocks",
       "url": "https://open.spotify.com/track/48IOGXZiQIyM64Co7UpjUh"
@@ -56762,7 +56864,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 105600,
       "name": "pure imagination",
       "url": "https://open.spotify.com/track/726gCzISSJwPW89Z4IX4oN"
@@ -62984,7 +63086,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-23",
+      "date_removed": null,
       "duration_ms": 91602,
       "name": "Silk Road",
       "url": "https://open.spotify.com/track/3KALn61dWjJp7Acazw0Ccf"
@@ -66496,7 +66598,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-28",
+      "date_removed": null,
       "duration_ms": 150646,
       "name": "Spring",
       "url": "https://open.spotify.com/track/2ETNAXWeEKrJeYK8Rrr5lr"
@@ -68212,6 +68314,24 @@
       "duration_ms": 105365,
       "name": "Suede Mocassins",
       "url": "https://open.spotify.com/track/4919jSCNszr2rWACmArACG"
+    },
+    {
+      "album": {
+        "name": "Sugar and Limes",
+        "url": "https://open.spotify.com/album/6fkcjaoetZx2JIfCteRb3H"
+      },
+      "artists": [
+        {
+          "name": "Guzimi",
+          "url": "https://open.spotify.com/artist/06va0DUwCMldLprkelDwcA"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 80000,
+      "name": "Sugar and Limes",
+      "url": "https://open.spotify.com/track/7BuCLpGoOcXwXbbZwojxCs"
     },
     {
       "album": {
@@ -71660,6 +71780,24 @@
       "duration_ms": 152592,
       "name": "Taproot",
       "url": "https://open.spotify.com/track/0M9s15GFz78rNi2t5Lgv7L"
+    },
+    {
+      "album": {
+        "name": "Targa",
+        "url": "https://open.spotify.com/album/7IDya817iVQjLTTjM13wRE"
+      },
+      "artists": [
+        {
+          "name": "Sandy Mental",
+          "url": "https://open.spotify.com/artist/1TIM4mSeLlFajoWxR0GDK3"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124024,
+      "name": "Targa",
+      "url": "https://open.spotify.com/track/7DRk4leuSMGMAWzG7hNvxb"
     },
     {
       "album": {
@@ -80301,6 +80439,24 @@
     },
     {
       "album": {
+        "name": "What Do You Want",
+        "url": "https://open.spotify.com/album/4B1eeTMScCXiAEDCCxXjwh"
+      },
+      "artists": [
+        {
+          "name": "Oilix",
+          "url": "https://open.spotify.com/artist/5hXOmfSG0AUYWd2ipat82x"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151428,
+      "name": "What Do You Want",
+      "url": "https://open.spotify.com/track/0vMuWEESkdyIzI0KqbQoBA"
+    },
+    {
+      "album": {
         "name": "What Do You Want (Don Philippe Remix)",
         "url": "https://open.spotify.com/album/7yR6INsFe8Yutpweb0qsPz"
       },
@@ -81328,7 +81484,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 133536,
       "name": "Wildflowers",
       "url": "https://open.spotify.com/track/4YL6UaHAPGBEwU7L8HaXDU"

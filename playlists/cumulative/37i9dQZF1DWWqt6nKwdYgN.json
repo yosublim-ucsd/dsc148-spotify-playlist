@@ -390,7 +390,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 156250,
       "name": "Actitud",
       "url": "https://open.spotify.com/track/7xxXLNEkBqQ0mVgZAXIHi6"
@@ -584,7 +584,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 179000,
       "name": "AIR",
       "url": "https://open.spotify.com/track/7b2KA967TDuGlZX3hL6Xs0"
@@ -4313,6 +4313,32 @@
     },
     {
       "album": {
+        "name": "FAMOSA",
+        "url": "https://open.spotify.com/album/3vcZDhuDxPGtUNIutctO9Q"
+      },
+      "artists": [
+        {
+          "name": "KYA",
+          "url": "https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP"
+        },
+        {
+          "name": "Akatumamy",
+          "url": "https://open.spotify.com/artist/38DOU02BQmlcooCqxr3aSd"
+        },
+        {
+          "name": "Nass G",
+          "url": "https://open.spotify.com/artist/4HVaguMub30IBWNwP1k6WF"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "FAMOSA",
+      "url": "https://open.spotify.com/track/0OPNy6nWFwiMN9Sm4gsQTe"
+    },
+    {
+      "album": {
         "name": "Felicidad",
         "url": "https://open.spotify.com/album/6PqA2Img8NMCaTbR2nzUDt"
       },
@@ -4446,7 +4472,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 202142,
       "name": "Flow Con Chile",
       "url": "https://open.spotify.com/track/33loMBQRY4NoftPVpi5tXP"
@@ -5348,7 +5374,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 221746,
       "name": "Keep Control",
       "url": "https://open.spotify.com/track/3yXnBn9Vtxkrym10ammSrv"
@@ -5683,6 +5709,32 @@
     },
     {
       "album": {
+        "name": "La Fuente",
+        "url": "https://open.spotify.com/album/2zXIcPrU2UF0McYhgInyaK"
+      },
+      "artists": [
+        {
+          "name": "Anyone/Cualkiera",
+          "url": "https://open.spotify.com/artist/1mVVNTPZrLkxfnB7Wc1Xh1"
+        },
+        {
+          "name": "Vic Deal",
+          "url": "https://open.spotify.com/artist/0NcNqG01boinOKgb7ImmEJ"
+        },
+        {
+          "name": "Ignorancia Sofisticada",
+          "url": "https://open.spotify.com/artist/2VqPCXF4QWaR9Xto4xN4YX"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167127,
+      "name": "La Fuente",
+      "url": "https://open.spotify.com/track/3ysOIJAqg29lkdRAKAelAZ"
+    },
+    {
+      "album": {
         "name": "La Gangsta",
         "url": "https://open.spotify.com/album/5LinuS1Upb1B51fuUm3v8l"
       },
@@ -5762,6 +5814,24 @@
       "duration_ms": 237453,
       "name": "La Hora Es\u2026",
       "url": "https://open.spotify.com/track/31to9V2JYareFfkoLQsEd6"
+    },
+    {
+      "album": {
+        "name": "La Laif",
+        "url": "https://open.spotify.com/album/6BqhuS0nwbKStk4xTjzr4v"
+      },
+      "artists": [
+        {
+          "name": "Solitario Mondragon",
+          "url": "https://open.spotify.com/artist/4KXpp5lz2MakNFcTszi2B9"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227571,
+      "name": "La Laif",
+      "url": "https://open.spotify.com/track/7uItIg7h3ahTcTM670Z0pl"
     },
     {
       "album": {
@@ -6644,7 +6714,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 267558,
       "name": "Lucifer",
       "url": "https://open.spotify.com/track/3E3jX1CLJ9rMViuLr1hNB3"
@@ -6738,7 +6808,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 159750,
       "name": "L\u00c1SER",
       "url": "https://open.spotify.com/track/0qyxjdZPV2wnt4XfCfANhC"
@@ -6834,7 +6904,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 184799,
       "name": "Mala",
       "url": "https://open.spotify.com/track/6ddKkBixwvyJdr5OHG3vVx"
@@ -7078,6 +7148,24 @@
       "duration_ms": 166829,
       "name": "MARIO 64",
       "url": "https://open.spotify.com/track/7HHZ1PwYclcfdc8Nn3aJAn"
+    },
+    {
+      "album": {
+        "name": "Martes 13",
+        "url": "https://open.spotify.com/album/6SfMocOzm1gU9EkfQYYTV8"
+      },
+      "artists": [
+        {
+          "name": "Homer El Mero Mero",
+          "url": "https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156322,
+      "name": "Martes 13",
+      "url": "https://open.spotify.com/track/1cNk3FjSc4aQEcR94laLhg"
     },
     {
       "album": {
@@ -7894,6 +7982,32 @@
       "duration_ms": 226909,
       "name": "M\u00fasica",
       "url": "https://open.spotify.com/track/0RbdczHMXMIYzQEKfj4M7Y"
+    },
+    {
+      "album": {
+        "name": "M\u00fasica Primero",
+        "url": "https://open.spotify.com/album/6EsPvTvsmritXq7iOHfo9a"
+      },
+      "artists": [
+        {
+          "name": "Skool 77",
+          "url": "https://open.spotify.com/artist/1XrrYgyQChyeEcHCG6AByX"
+        },
+        {
+          "name": "Zaheed Santana",
+          "url": "https://open.spotify.com/artist/4U6A7XTrz6J9D7FKHvkCMQ"
+        },
+        {
+          "name": "Dj Soncker",
+          "url": "https://open.spotify.com/artist/7qJOD7i1B5a4ougXSwN78m"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230313,
+      "name": "M\u00fasica Primero",
+      "url": "https://open.spotify.com/track/6W5g2tnzSC4g5dOnXnS12t"
     },
     {
       "album": {
@@ -9093,6 +9207,32 @@
     },
     {
       "album": {
+        "name": "Parlante",
+        "url": "https://open.spotify.com/album/3alCeWkJMPizFI5bO70mw3"
+      },
+      "artists": [
+        {
+          "name": "Al2 El Aldeano",
+          "url": "https://open.spotify.com/artist/6lYSDSFhJyUV6CtNix2fBA"
+        },
+        {
+          "name": "Valles T",
+          "url": "https://open.spotify.com/artist/2h5NjKTy7y3blBMgsNusrt"
+        },
+        {
+          "name": "Raymond Daniel",
+          "url": "https://open.spotify.com/artist/033jXqXsPX6VM4DNx6F0tB"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261311,
+      "name": "Parlante",
+      "url": "https://open.spotify.com/track/0NLbyORu1l5SNT0ZNDOU6L"
+    },
+    {
+      "album": {
         "name": "PASAR EL ROLO",
         "url": "https://open.spotify.com/album/6BaTUVSblCrSozjzwQIBkb"
       },
@@ -10085,6 +10225,24 @@
     },
     {
       "album": {
+        "name": "Remakia",
+        "url": "https://open.spotify.com/album/4MI0nOimReCzR7Zszqy5lH"
+      },
+      "artists": [
+        {
+          "name": "Mamborap",
+          "url": "https://open.spotify.com/artist/1R4SZjsnu91VWf5BhkKdH0"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174086,
+      "name": "Remakia",
+      "url": "https://open.spotify.com/track/27uIJiTu7mxvbnpwyGHUUR"
+    },
+    {
+      "album": {
         "name": "REMEMBAH",
         "url": "https://open.spotify.com/album/7FpOYLTCAPfsk9MQqCoHgR"
       },
@@ -10442,7 +10600,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 195240,
       "name": "SENSOU",
       "url": "https://open.spotify.com/track/4Kd8F1bIzXqAcyesoAOlUO"
@@ -11038,6 +11196,28 @@
       "duration_ms": 208695,
       "name": "TARIMA",
       "url": "https://open.spotify.com/track/5VuXSFDNXr9NNWk1NrVNdy"
+    },
+    {
+      "album": {
+        "name": "Sideral",
+        "url": "https://open.spotify.com/album/3xcboZ4sXClPniEFbaEW9M"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Gabanna",
+          "url": "https://open.spotify.com/artist/7oOAUwR8fKK27pEAKdt0mm"
+        },
+        {
+          "name": "Lupita's Friends",
+          "url": "https://open.spotify.com/artist/7gGKjAXKRyDUhSUhFDIaAW"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189486,
+      "name": "Tasmania",
+      "url": "https://open.spotify.com/track/3jWwj6JjV0eugSmGBBLCPL"
     },
     {
       "album": {
@@ -12118,7 +12298,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 208166,
       "name": "Vuelve a escucharnos",
       "url": "https://open.spotify.com/track/0E7WuWV8NTPH2VtDgl2Bcd"
@@ -12232,6 +12412,28 @@
       "duration_ms": 229395,
       "name": "Ya Te Solt\u00e9",
       "url": "https://open.spotify.com/track/40cHXCflLI04RYm5WFbvLR"
+    },
+    {
+      "album": {
+        "name": "You Know",
+        "url": "https://open.spotify.com/album/5aign2FhwyRkicO7SO0Xrq"
+      },
+      "artists": [
+        {
+          "name": "Pielroja",
+          "url": "https://open.spotify.com/artist/1g58TQnLHp7eOEnYXfa63k"
+        },
+        {
+          "name": "Alka Produce",
+          "url": "https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180906,
+      "name": "You Know",
+      "url": "https://open.spotify.com/track/5XH4xq8TTe9yRoldMjyDlh"
     },
     {
       "album": {

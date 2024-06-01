@@ -1074,7 +1074,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 180905,
       "name": "Esquece de Me Esquecer",
       "url": "https://open.spotify.com/track/1NXeltgzjQeiC4hbf2XNVr"
@@ -1552,6 +1552,24 @@
       "duration_ms": 157460,
       "name": "Mulher Maravilha - Ao Vivo",
       "url": "https://open.spotify.com/track/2cbMXc0P5s271VwZOUk1Gb"
+    },
+    {
+      "album": {
+        "name": "Mundo de Ilus\u00f5es (Ao Vivo)",
+        "url": "https://open.spotify.com/album/15Mfvr76GKsxj0Bw4FEwFi"
+      },
+      "artists": [
+        {
+          "name": "Gusttavo Lima",
+          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185781,
+      "name": "Mundo de Ilus\u00f5es - Ao Vivo",
+      "url": "https://open.spotify.com/track/3UxbT06Mz8aTJbHYYIxwkI"
     },
     {
       "album": {

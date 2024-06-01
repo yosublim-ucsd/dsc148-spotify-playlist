@@ -1,15 +1,43 @@
 {
-  "description": "Altijd fris in Fresh Hits. Cover: Bizzey",
-  "num_followers": 26389,
+  "description": "Altijd fris in Fresh Hits. Cover: Cristian D",
+  "num_followers": 26426,
   "original_name": "Fresh Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zk+8YAAAAAA0+YfW5SkkOSFOItg9PQOx",
+  "snapshot_id": "Zlj3HAAAAAA++3GMFT14Pa7xu162gIFH",
   "tracks": [
     {
-      "added_at": "2024-05-23 22:00:00",
+      "added_at": "2024-05-30 22:01:00",
+      "album": {
+        "name": "Love Doesn't Exist",
+        "url": "https://open.spotify.com/album/6oGtt0Qwgq6rmLmMHydKDs"
+      },
+      "artists": [
+        {
+          "name": "Cristian D",
+          "url": "https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4"
+        },
+        {
+          "name": "ADF Samski",
+          "url": "https://open.spotify.com/artist/5qeFPM2PZUCzcpkY4e4RC8"
+        },
+        {
+          "name": "Lil Kleine",
+          "url": "https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT"
+        },
+        {
+          "name": "$hirak",
+          "url": "https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2"
+        }
+      ],
+      "duration_ms": 149507,
+      "name": "Anna",
+      "url": "https://open.spotify.com/track/0rYjHLCDkqtfzCiQqIqPGa"
+    },
+    {
+      "added_at": "2024-05-30 22:01:00",
       "album": {
         "name": "Zin In De Zomer Man",
         "url": "https://open.spotify.com/album/6Gkcya6VzCPstK4IcPBoiv"
@@ -25,7 +53,7 @@
       "url": "https://open.spotify.com/track/6vIdMFb41Jdej53GSNPlQs"
     },
     {
-      "added_at": "2024-05-23 22:00:00",
+      "added_at": "2024-05-30 22:01:00",
       "album": {
         "name": "HIT ME HARD AND SOFT",
         "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
@@ -41,23 +69,23 @@
       "url": "https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj"
     },
     {
-      "added_at": "2024-05-23 22:00:00",
+      "added_at": "2024-05-30 22:01:00",
       "album": {
-        "name": "Sex",
-        "url": "https://open.spotify.com/album/5j1V29MfouuZsRNMPhTzyY"
+        "name": "Parler Fran\u00e7ais",
+        "url": "https://open.spotify.com/album/0HpUDKGmUBuvEA3AyaMqRh"
       },
       "artists": [
         {
-          "name": "Goldband",
-          "url": "https://open.spotify.com/artist/6mS5GeFyhea6w9OKo8PO3p"
+          "name": "Claude",
+          "url": "https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom"
         }
       ],
-      "duration_ms": 231894,
-      "name": "Sex",
-      "url": "https://open.spotify.com/track/1hG3BvlHR6qaCzq2m7CPHH"
+      "duration_ms": 154400,
+      "name": "Parler Fran\u00e7ais",
+      "url": "https://open.spotify.com/track/0gfHldycqvlnoxGwTPu52Z"
     },
     {
-      "added_at": "2024-05-23 22:00:00",
+      "added_at": "2024-05-30 22:01:00",
       "album": {
         "name": "Mockingbird",
         "url": "https://open.spotify.com/album/22dOSFgcI8e3gJbHpG5gYg"
@@ -81,7 +109,23 @@
       "url": "https://open.spotify.com/track/2x4JC9TxW2LACuuxbsncfG"
     },
     {
-      "added_at": "2024-05-23 22:00:00",
+      "added_at": "2024-05-30 22:01:00",
+      "album": {
+        "name": "Terug In De Tijd",
+        "url": "https://open.spotify.com/album/54hRAA81BH7x1af3X7ackS"
+      },
+      "artists": [
+        {
+          "name": "Yves Berendse",
+          "url": "https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F"
+        }
+      ],
+      "duration_ms": 187357,
+      "name": "Terug In De Tijd",
+      "url": "https://open.spotify.com/track/0vrKBjEBQAVn3sdhIXmpHE"
+    },
+    {
+      "added_at": "2024-05-30 22:01:00",
       "album": {
         "name": "Samen (Niet Alleen)",
         "url": "https://open.spotify.com/album/68hXkfVxsDWyBj7DDtz8Vg"
@@ -101,7 +145,7 @@
       "url": "https://open.spotify.com/track/0lDTAuwGNLvOiavYF9GmFe"
     },
     {
-      "added_at": "2024-05-23 22:00:00",
+      "added_at": "2024-05-30 22:01:00",
       "album": {
         "name": "SPIDER",
         "url": "https://open.spotify.com/album/5stpXgOAVPkVA7WDPB4IZf"
@@ -121,7 +165,7 @@
       "url": "https://open.spotify.com/track/2fFTn0f94EopgZyfSGQuyK"
     },
     {
-      "added_at": "2024-05-23 22:00:00",
+      "added_at": "2024-05-30 22:01:00",
       "album": {
         "name": "Love Me JeJe",
         "url": "https://open.spotify.com/album/0DSIfkfmDDNRbB87Xk0ipd"
@@ -137,151 +181,7 @@
       "url": "https://open.spotify.com/track/47hsUYxvbTlBAN3sP9dEOd"
     },
     {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
-        "name": "Stargazing",
-        "url": "https://open.spotify.com/album/3VNxRarx9HUI5w7DHv0TBj"
-      },
-      "artists": [
-        {
-          "name": "Myles Smith",
-          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
-        }
-      ],
-      "duration_ms": 172533,
-      "name": "Stargazing",
-      "url": "https://open.spotify.com/track/3Vr3zh0r7ALn8VLqCiRR10"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
-        "name": "All the Things She Said",
-        "url": "https://open.spotify.com/album/6GxNLOlFGgl6J3cvLGN81l"
-      },
-      "artists": [
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        },
-        {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
-        },
-        {
-          "name": "KOPPY",
-          "url": "https://open.spotify.com/artist/5SfqIMwBJ7wD419vvb33mO"
-        }
-      ],
-      "duration_ms": 165299,
-      "name": "All the Things She Said",
-      "url": "https://open.spotify.com/track/6FxRH7N7Q86i6aixaSYYzx"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
-        "name": "Stiekem \u201824",
-        "url": "https://open.spotify.com/album/7qSfiZ1AVuuOci1fjEXMQr"
-      },
-      "artists": [
-        {
-          "name": "Zo\u00eb Tauran",
-          "url": "https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi"
-        },
-        {
-          "name": "Jonna Fraser",
-          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
-        }
-      ],
-      "duration_ms": 188956,
-      "name": "Stiekem \u201824",
-      "url": "https://open.spotify.com/track/1FdncxahefhSPAE1npIMCk"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
-        "name": "Doe Maar",
-        "url": "https://open.spotify.com/album/0jw6ieOuuks0vMYStBr1yY"
-      },
-      "artists": [
-        {
-          "name": "Antoon",
-          "url": "https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG"
-        }
-      ],
-      "duration_ms": 150674,
-      "name": "Doe Maar",
-      "url": "https://open.spotify.com/track/2oCFzEd9T5Tz9PWsINhaQ5"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
-        "name": "Overvloed",
-        "url": "https://open.spotify.com/album/3wnMD2qWzqoUD7xbF5k8Ft"
-      },
-      "artists": [
-        {
-          "name": "Genna",
-          "url": "https://open.spotify.com/artist/2qXV33vUIb0D4YygTg7FCT"
-        },
-        {
-          "name": "Jiri11",
-          "url": "https://open.spotify.com/artist/6RxMqY900Xpza3Kh9j86Mn"
-        }
-      ],
-      "duration_ms": 149333,
-      "name": "Overvloed",
-      "url": "https://open.spotify.com/track/47RYk8TI6alMop74nycFDF"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
-        "name": "A Bar Song (Tipsy)",
-        "url": "https://open.spotify.com/album/6egBeCLeGITzGSo5VyRjwZ"
-      },
-      "artists": [
-        {
-          "name": "Shaboozey",
-          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
-        }
-      ],
-      "duration_ms": 171291,
-      "name": "A Bar Song (Tipsy)",
-      "url": "https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
-        "name": "HIT ME HARD AND SOFT",
-        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 179586,
-      "name": "LUNCH",
-      "url": "https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
-        "name": "Desire",
-        "url": "https://open.spotify.com/album/0Dh59MYnNmPWhcjLZvKQwb"
-      },
-      "artists": [
-        {
-          "name": "Ronnie Flex",
-          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
-        }
-      ],
-      "duration_ms": 140188,
-      "name": "Desire",
-      "url": "https://open.spotify.com/track/0NZjYegFmcAKsoAXWzdDUr"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
+      "added_at": "2024-05-30 22:01:00",
       "album": {
         "name": "Love Doesn't Exist",
         "url": "https://open.spotify.com/album/3exY6FK1Go4fkHxtsmjFgm"
@@ -305,7 +205,167 @@
       "url": "https://open.spotify.com/track/4xch4brbJFbXhKry8CPDUS"
     },
     {
-      "added_at": "2024-05-23 22:00:00",
+      "added_at": "2024-05-30 22:01:00",
+      "album": {
+        "name": "Stargazing",
+        "url": "https://open.spotify.com/album/3VNxRarx9HUI5w7DHv0TBj"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "duration_ms": 172533,
+      "name": "Stargazing",
+      "url": "https://open.spotify.com/track/3Vr3zh0r7ALn8VLqCiRR10"
+    },
+    {
+      "added_at": "2024-05-30 22:01:00",
+      "album": {
+        "name": "All the Things She Said",
+        "url": "https://open.spotify.com/album/6GxNLOlFGgl6J3cvLGN81l"
+      },
+      "artists": [
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "KOPPY",
+          "url": "https://open.spotify.com/artist/5SfqIMwBJ7wD419vvb33mO"
+        }
+      ],
+      "duration_ms": 165299,
+      "name": "All the Things She Said",
+      "url": "https://open.spotify.com/track/6FxRH7N7Q86i6aixaSYYzx"
+    },
+    {
+      "added_at": "2024-05-30 22:01:00",
+      "album": {
+        "name": "Sex",
+        "url": "https://open.spotify.com/album/5j1V29MfouuZsRNMPhTzyY"
+      },
+      "artists": [
+        {
+          "name": "Goldband",
+          "url": "https://open.spotify.com/artist/6mS5GeFyhea6w9OKo8PO3p"
+        }
+      ],
+      "duration_ms": 231894,
+      "name": "Sex",
+      "url": "https://open.spotify.com/track/1hG3BvlHR6qaCzq2m7CPHH"
+    },
+    {
+      "added_at": "2024-05-30 22:01:00",
+      "album": {
+        "name": "Stiekem \u201824",
+        "url": "https://open.spotify.com/album/7qSfiZ1AVuuOci1fjEXMQr"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00eb Tauran",
+          "url": "https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi"
+        },
+        {
+          "name": "Jonna Fraser",
+          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
+        }
+      ],
+      "duration_ms": 188956,
+      "name": "Stiekem \u201824",
+      "url": "https://open.spotify.com/track/1FdncxahefhSPAE1npIMCk"
+    },
+    {
+      "added_at": "2024-05-30 22:01:00",
+      "album": {
+        "name": "Doe Maar",
+        "url": "https://open.spotify.com/album/0jw6ieOuuks0vMYStBr1yY"
+      },
+      "artists": [
+        {
+          "name": "Antoon",
+          "url": "https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG"
+        }
+      ],
+      "duration_ms": 150674,
+      "name": "Doe Maar",
+      "url": "https://open.spotify.com/track/2oCFzEd9T5Tz9PWsINhaQ5"
+    },
+    {
+      "added_at": "2024-05-30 22:01:00",
+      "album": {
+        "name": "Overvloed",
+        "url": "https://open.spotify.com/album/3wnMD2qWzqoUD7xbF5k8Ft"
+      },
+      "artists": [
+        {
+          "name": "Genna",
+          "url": "https://open.spotify.com/artist/2qXV33vUIb0D4YygTg7FCT"
+        },
+        {
+          "name": "Jiri11",
+          "url": "https://open.spotify.com/artist/6RxMqY900Xpza3Kh9j86Mn"
+        }
+      ],
+      "duration_ms": 149333,
+      "name": "Overvloed",
+      "url": "https://open.spotify.com/track/47RYk8TI6alMop74nycFDF"
+    },
+    {
+      "added_at": "2024-05-30 22:01:00",
+      "album": {
+        "name": "A Bar Song (Tipsy)",
+        "url": "https://open.spotify.com/album/6egBeCLeGITzGSo5VyRjwZ"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        }
+      ],
+      "duration_ms": 171291,
+      "name": "A Bar Song (Tipsy)",
+      "url": "https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf"
+    },
+    {
+      "added_at": "2024-05-30 22:01:00",
+      "album": {
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 179586,
+      "name": "LUNCH",
+      "url": "https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE"
+    },
+    {
+      "added_at": "2024-05-30 22:01:00",
+      "album": {
+        "name": "Desire",
+        "url": "https://open.spotify.com/album/0Dh59MYnNmPWhcjLZvKQwb"
+      },
+      "artists": [
+        {
+          "name": "Ronnie Flex",
+          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
+        }
+      ],
+      "duration_ms": 140188,
+      "name": "Desire",
+      "url": "https://open.spotify.com/track/0NZjYegFmcAKsoAXWzdDUr"
+    },
+    {
+      "added_at": "2024-05-30 22:01:00",
       "album": {
         "name": "MILLION DOLLAR BABY",
         "url": "https://open.spotify.com/album/52TwRwdTUMtkpglbOE5IRz"
@@ -321,7 +381,7 @@
       "url": "https://open.spotify.com/track/7fzHQizxTqy8wTXwlrgPQQ"
     },
     {
-      "added_at": "2024-05-23 22:00:00",
+      "added_at": "2024-05-30 22:01:00",
       "album": {
         "name": "Gata Only",
         "url": "https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM"
@@ -341,7 +401,7 @@
       "url": "https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6"
     },
     {
-      "added_at": "2024-05-23 22:00:00",
+      "added_at": "2024-05-30 22:01:00",
       "album": {
         "name": "Hoop Dat Jij Me Mist",
         "url": "https://open.spotify.com/album/5gSRTpBHgyTkZf2o7podFj"
@@ -357,7 +417,7 @@
       "url": "https://open.spotify.com/track/0cQQnKPMD3ZgfGapcgO4cv"
     },
     {
-      "added_at": "2024-05-23 22:00:00",
+      "added_at": "2024-05-30 22:01:00",
       "album": {
         "name": "Festival",
         "url": "https://open.spotify.com/album/4oxdUH6eGKuQWF2H4vcHF5"
@@ -385,7 +445,7 @@
       "url": "https://open.spotify.com/track/7Jvfgj6mmATe6hq7dSdseM"
     },
     {
-      "added_at": "2024-05-23 22:00:00",
+      "added_at": "2024-05-30 22:01:00",
       "album": {
         "name": "The Code",
         "url": "https://open.spotify.com/album/30euLVaktPWmngBsGDUYdA"
@@ -401,7 +461,7 @@
       "url": "https://open.spotify.com/track/1EjIXKhNHI00ZLMRpS8iz8"
     },
     {
-      "added_at": "2024-05-23 22:00:00",
+      "added_at": "2024-05-30 22:01:00",
       "album": {
         "name": "Not Like Us",
         "url": "https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ"
@@ -417,7 +477,7 @@
       "url": "https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3"
     },
     {
-      "added_at": "2024-05-23 22:00:00",
+      "added_at": "2024-05-30 22:01:00",
       "album": {
         "name": "Honey Boy (feat. Nile Rodgers & Shenseea)",
         "url": "https://open.spotify.com/album/0xyf39pFfwPDJYHCIAxjVF"
@@ -445,7 +505,7 @@
       "url": "https://open.spotify.com/track/1xIhiVVntsudPMTRFoODyo"
     },
     {
-      "added_at": "2024-05-23 22:00:00",
+      "added_at": "2024-05-30 22:01:00",
       "album": {
         "name": "Op De Zeeweg",
         "url": "https://open.spotify.com/album/73Znb9DymBPQLBEKFDf1M7"
@@ -461,7 +521,7 @@
       "url": "https://open.spotify.com/track/4JOblmRHWzKGEhbyUybJjs"
     },
     {
-      "added_at": "2024-05-23 22:00:00",
+      "added_at": "2024-05-30 22:01:00",
       "album": {
         "name": "These Words",
         "url": "https://open.spotify.com/album/3boWgDZHAI5tHYwdLuMuwq"
@@ -481,7 +541,7 @@
       "url": "https://open.spotify.com/track/7leW1Dmvs9A4oDh9i5Qwpz"
     },
     {
-      "added_at": "2024-05-23 22:00:00",
+      "added_at": "2024-05-30 22:01:00",
       "album": {
         "name": "Love Doesn't Exist",
         "url": "https://open.spotify.com/album/0DHt2wzzyU2VHGLDjlAuVs"
@@ -505,7 +565,7 @@
       "url": "https://open.spotify.com/track/5alGFMfqBYoo1ifkYblVDb"
     },
     {
-      "added_at": "2024-05-23 22:00:00",
+      "added_at": "2024-05-30 22:01:00",
       "album": {
         "name": "Queen Of My Castle",
         "url": "https://open.spotify.com/album/5g6FHRdXl51AAOmlJaHfk9"
@@ -525,7 +585,7 @@
       "url": "https://open.spotify.com/track/5AkKovjix5SPXurPaV1p69"
     },
     {
-      "added_at": "2024-05-23 22:00:00",
+      "added_at": "2024-05-30 22:01:00",
       "album": {
         "name": "Praise Break",
         "url": "https://open.spotify.com/album/1vPsTpxHJSTZnidXFr70he"
@@ -541,7 +601,7 @@
       "url": "https://open.spotify.com/track/2bGaYqwsyiy0tq8ZqHel7M"
     },
     {
-      "added_at": "2024-05-23 22:00:00",
+      "added_at": "2024-05-30 22:01:00",
       "album": {
         "name": "In My Bones",
         "url": "https://open.spotify.com/album/1KIJzQIjSlJaSQZ9qLf1kB"
@@ -561,7 +621,7 @@
       "url": "https://open.spotify.com/track/1dcK8O2qEq7E34o4ImQEco"
     },
     {
-      "added_at": "2024-05-23 22:00:00",
+      "added_at": "2024-05-30 22:01:00",
       "album": {
         "name": "Out Of This World",
         "url": "https://open.spotify.com/album/5p2GDQbQredqK1R8jv89Or"
@@ -581,7 +641,7 @@
       "url": "https://open.spotify.com/track/63a1huPGwNTMBXIkpIjr8X"
     },
     {
-      "added_at": "2024-05-23 22:00:00",
+      "added_at": "2024-05-30 22:01:00",
       "album": {
         "name": "Op De Zeeweg",
         "url": "https://open.spotify.com/album/5H1MieYnriQEUrLSvpdWMK"
@@ -597,7 +657,7 @@
       "url": "https://open.spotify.com/track/29w2gzyFS8FUuBrG3DeHxW"
     },
     {
-      "added_at": "2024-05-23 22:00:00",
+      "added_at": "2024-05-30 22:01:00",
       "album": {
         "name": "Monster",
         "url": "https://open.spotify.com/album/4XQN9sq92HwyTj476FMzYz"
@@ -617,7 +677,7 @@
       "url": "https://open.spotify.com/track/0oWN1xuaWUrx8QGiYqxAs9"
     },
     {
-      "added_at": "2024-05-23 22:00:00",
+      "added_at": "2024-05-30 22:01:00",
       "album": {
         "name": "Everyday",
         "url": "https://open.spotify.com/album/4atn1aHLq3H0jxE5kJs2S7"
@@ -633,7 +693,7 @@
       "url": "https://open.spotify.com/track/2yskKhqtDAHJ73obmJh8tf"
     },
     {
-      "added_at": "2024-05-23 22:00:00",
+      "added_at": "2024-05-30 22:01:00",
       "album": {
         "name": "Radical Optimism",
         "url": "https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc"
@@ -649,43 +709,7 @@
       "url": "https://open.spotify.com/track/7b6sWLSnbZhSIeqNGrJ4py"
     },
     {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
-        "name": "GuGu",
-        "url": "https://open.spotify.com/album/1skMUlyCkVrvaAmkhBGb1T"
-      },
-      "artists": [
-        {
-          "name": "Mensa",
-          "url": "https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC"
-        },
-        {
-          "name": "SRNO",
-          "url": "https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q"
-        }
-      ],
-      "duration_ms": 90115,
-      "name": "GuGu",
-      "url": "https://open.spotify.com/track/4EIup0G510mGZl4ZQKzAdl"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
-        "name": "Dromers Slapen Niet",
-        "url": "https://open.spotify.com/album/7hD0o6qizBV3vivCFNHvqD"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00ebl Domingos",
-          "url": "https://open.spotify.com/artist/5LzkF8ZUuxdSg8BCEwrosb"
-        }
-      ],
-      "duration_ms": 142062,
-      "name": "Stick To Your Ways",
-      "url": "https://open.spotify.com/track/3YU5kaYun2AdIII0AqFJRN"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
+      "added_at": "2024-05-30 22:01:00",
       "album": {
         "name": "Done With Me",
         "url": "https://open.spotify.com/album/3O0i0NCY5Cm1r3gJJPWc8a"
@@ -705,27 +729,7 @@
       "url": "https://open.spotify.com/track/1oTWwkoxxqAqdMSCRwuStJ"
     },
     {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
-        "name": "Gezichten EP",
-        "url": "https://open.spotify.com/album/3jBDb7CmEwRl7TLE54Tfct"
-      },
-      "artists": [
-        {
-          "name": "Antoon",
-          "url": "https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG"
-        },
-        {
-          "name": "Kevin",
-          "url": "https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1"
-        }
-      ],
-      "duration_ms": 130173,
-      "name": "Gezichten",
-      "url": "https://open.spotify.com/track/55dawM1LFdFkQepYdEuidp"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
+      "added_at": "2024-05-30 22:01:00",
       "album": {
         "name": "Un Chance",
         "url": "https://open.spotify.com/album/7D6eElKu2eb6Tf73bnYESd"
@@ -741,7 +745,7 @@
       "url": "https://open.spotify.com/track/2r1MMDskd8NazaS6EgIhy8"
     },
     {
-      "added_at": "2024-05-23 22:00:00",
+      "added_at": "2024-05-30 22:01:00",
       "album": {
         "name": "Studie Uit",
         "url": "https://open.spotify.com/album/4SwDKB3YuJ1qJyqYLsYiBe"

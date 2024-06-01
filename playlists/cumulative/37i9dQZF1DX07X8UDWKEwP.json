@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Lo nuevo del mundo tropical. Cover: Camilo",
+  "description": "Lo nuevo del mundo tropical. Cover: Olga Ta\u00f1\u00f3n & Christian Alicea",
   "name": "el nuevo tropical",
   "tracks": [
     {
@@ -52,7 +52,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 210967,
       "name": "100 Suspiros",
       "url": "https://open.spotify.com/track/0yiCnQ65sTPbDIthfuEwAf"
@@ -150,6 +150,24 @@
       "duration_ms": 225422,
       "name": "A Partir De Hoy",
       "url": "https://open.spotify.com/track/4qlnsZUoAbvpjgpStiKIcH"
+    },
+    {
+      "album": {
+        "name": "Salsa de Ahora",
+        "url": "https://open.spotify.com/album/0rDfZe2pBSxsmlBvJNwMBU"
+      },
+      "artists": [
+        {
+          "name": "Motiff",
+          "url": "https://open.spotify.com/artist/5yjh35rXozitS6KLyjicLj"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170980,
+      "name": "Abran Paso",
+      "url": "https://open.spotify.com/track/59hKpkfpPBL7DcEHq2R5W9"
     },
     {
       "album": {
@@ -584,6 +602,24 @@
       "duration_ms": 200510,
       "name": "atravesao",
       "url": "https://open.spotify.com/track/00HU2RYUeBcOVJPbdOtdJ2"
+    },
+    {
+      "album": {
+        "name": "La Luna Sobre el Mar Caribe",
+        "url": "https://open.spotify.com/album/5JMLuT8O209Glc9o6aGkf6"
+      },
+      "artists": [
+        {
+          "name": "Daniel Santacruz",
+          "url": "https://open.spotify.com/artist/4tLUnrSgMM7tT0zVs3wX61"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195938,
+      "name": "Atr\u00e9vete a un #Tbt",
+      "url": "https://open.spotify.com/track/47NsRHpErV9F69SN4QxcjF"
     },
     {
       "album": {
@@ -2610,7 +2646,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 227347,
       "name": "El Rey de la Kumbia",
       "url": "https://open.spotify.com/track/7oSjiHocGhbWhlTu9CN6zh"
@@ -3387,6 +3423,32 @@
     },
     {
       "album": {
+        "name": "HOLA PERDIDA REMIX",
+        "url": "https://open.spotify.com/album/5s4gYQChmlp8YwoNj3Vwi2"
+      },
+      "artists": [
+        {
+          "name": "Luck Ra",
+          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201030,
+      "name": "HOLA PERDIDA REMIX",
+      "url": "https://open.spotify.com/track/2FqTbwiogEVvZnkarPf5BV"
+    },
+    {
+      "album": {
         "name": "Hoy en Dia",
         "url": "https://open.spotify.com/album/6LaKlyiwH8L2DH49eGXBgu"
       },
@@ -3770,6 +3832,24 @@
       "duration_ms": 200000,
       "name": "La Despedida",
       "url": "https://open.spotify.com/track/4sjYsP0tIZi34SDVUzTHyk"
+    },
+    {
+      "album": {
+        "name": "La Diabla",
+        "url": "https://open.spotify.com/album/6JbWo2DIqSGyDaGHBHqCxj"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Lares",
+          "url": "https://open.spotify.com/artist/5NC4sxfhlMUwOHtAqSWgRA"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174773,
+      "name": "La Diabla",
+      "url": "https://open.spotify.com/track/7aw6eLZJluqUUgHIjGjooc"
     },
     {
       "album": {
@@ -5754,7 +5834,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 235346,
       "name": "Pa' Qu\u00e9 Me Invitan",
       "url": "https://open.spotify.com/track/75FlJHeMvMcA0AD19Forj8"
@@ -6106,7 +6186,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 189375,
       "name": "Pi\u00f1a Colada",
       "url": "https://open.spotify.com/track/07n2nBfbBGVpVLcbElqTOy"
@@ -6840,7 +6920,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 221453,
       "name": "Se Agradece",
       "url": "https://open.spotify.com/track/0twUC3IFj8wtMUZVr7CLWM"
@@ -7350,7 +7430,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 274000,
       "name": "SNDA",
       "url": "https://open.spotify.com/track/0ZVqhn9lLVVj0tcGSVjw3i"
@@ -8192,6 +8272,46 @@
       "duration_ms": 158120,
       "name": "Vallenato Apretao",
       "url": "https://open.spotify.com/track/35iMl0FlgdxgOycezlyrPz"
+    },
+    {
+      "album": {
+        "name": "As\u00ed Yo Soy",
+        "url": "https://open.spotify.com/album/3QsT7gI4ZFuCYzMC4KLdxh"
+      },
+      "artists": [
+        {
+          "name": "Olga Ta\u00f1\u00f3n",
+          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
+        },
+        {
+          "name": "Christian Alicea",
+          "url": "https://open.spotify.com/artist/7e3WPrCLa3zHg6Er0lq7mp"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166754,
+      "name": "Vamos A Ser Feliz",
+      "url": "https://open.spotify.com/track/2HA4mVPCF0e8G66KNnmw6L"
+    },
+    {
+      "album": {
+        "name": "Casagemas",
+        "url": "https://open.spotify.com/album/5tUWJ8CEcSx55oKlEfY8RH"
+      },
+      "artists": [
+        {
+          "name": "Pinto Picasso",
+          "url": "https://open.spotify.com/artist/40DtWCtcmCd6GH8vKrDaJs"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290107,
+      "name": "Vanidad",
+      "url": "https://open.spotify.com/track/1QlJSCz5vDDsvbDovwcVlV"
     },
     {
       "album": {

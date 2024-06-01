@@ -1212,7 +1212,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 158400,
       "name": "Coming Back",
       "url": "https://open.spotify.com/track/0sx0yFSdEWeSPl0iXmNHJ2"
@@ -1574,7 +1574,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 160000,
       "name": "Echoes",
       "url": "https://open.spotify.com/track/6xIjK78uVVlATFBj9Wn4RL"
@@ -1632,7 +1632,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 195000,
       "name": "Everest (Stay)",
       "url": "https://open.spotify.com/track/4wD3DmMlIaAEffdLMyVIrq"
@@ -1799,6 +1799,24 @@
     },
     {
       "album": {
+        "name": "Find Me",
+        "url": "https://open.spotify.com/album/6hbFLgtg6vbqO5aHMeRIZM"
+      },
+      "artists": [
+        {
+          "name": "Bad Friends",
+          "url": "https://open.spotify.com/artist/0zeexLEoXoUJpKmx0PXta8"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164880,
+      "name": "Find Me",
+      "url": "https://open.spotify.com/track/3cwkKqFlevUfwMSwDhnyc4"
+    },
+    {
+      "album": {
         "name": "Foolproof (Andhim Remix)",
         "url": "https://open.spotify.com/album/3nu9PnxWH2pz3CN62Syal3"
       },
@@ -1866,6 +1884,24 @@
       "duration_ms": 152610,
       "name": "Forever In My Mind",
       "url": "https://open.spotify.com/track/6R0nFHrfq2iCJ1yeWn5IGB"
+    },
+    {
+      "album": {
+        "name": "forgive u",
+        "url": "https://open.spotify.com/album/2c5kGOhmdX3tjruhULza1r"
+      },
+      "artists": [
+        {
+          "name": "ROSA",
+          "url": "https://open.spotify.com/artist/4vNDe5ikZWdqMnQMc5Sj8g"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199384,
+      "name": "forgive u",
+      "url": "https://open.spotify.com/track/0YpOYlsdk1ZWlFrcatiQBd"
     },
     {
       "album": {
@@ -2562,6 +2598,24 @@
       "duration_ms": 247831,
       "name": "How Could I Ever (feat. Shungudzo)",
       "url": "https://open.spotify.com/track/1vq1KgeHuDaS3qyhwfpF0P"
+    },
+    {
+      "album": {
+        "name": "kidsgonemad!",
+        "url": "https://open.spotify.com/album/2rMP8tQaoWn14zQM2zUOzG"
+      },
+      "artists": [
+        {
+          "name": "ISOxo",
+          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241714,
+      "name": "how2fly",
+      "url": "https://open.spotify.com/track/2fga4JgHuq91W9HiTfo9GC"
     },
     {
       "album": {
@@ -3976,7 +4030,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-18",
+      "date_removed": null,
       "duration_ms": 314389,
       "name": "Next to Me",
       "url": "https://open.spotify.com/track/0sDL6c7BZGffS71ICuJqF4"
@@ -5824,7 +5878,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 221538,
       "name": "Teardrops",
       "url": "https://open.spotify.com/track/5MgK46SeLyGkhtb81v38Ks"
@@ -6577,6 +6631,32 @@
     },
     {
       "album": {
+        "name": "Waterfalls",
+        "url": "https://open.spotify.com/album/4s5ejJQU3vZrTvkSrxkg9Z"
+      },
+      "artists": [
+        {
+          "name": "Disco Fries",
+          "url": "https://open.spotify.com/artist/7G7KvDCLdVG0Ok511Iqc9U"
+        },
+        {
+          "name": "JAYEM",
+          "url": "https://open.spotify.com/artist/4tWO1xn8RaWclA2yINpRcE"
+        },
+        {
+          "name": "Alix Robson",
+          "url": "https://open.spotify.com/artist/79GdQ9zaVZKtAIe5XSItbT"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175890,
+      "name": "Waterfalls",
+      "url": "https://open.spotify.com/track/4tiaMmPqG2k7kz00812fSS"
+    },
+    {
+      "album": {
         "name": "Waterslides",
         "url": "https://open.spotify.com/album/5U1HyVpo9zeSC8K8LhHx4i"
       },
@@ -6698,7 +6778,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 144724,
       "name": "When Did You Know?",
       "url": "https://open.spotify.com/track/3YCqzGoLy0mVos7Xso2OLl"

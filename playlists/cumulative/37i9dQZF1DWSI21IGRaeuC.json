@@ -1685,6 +1685,24 @@
     },
     {
       "album": {
+        "name": "Follow Me",
+        "url": "https://open.spotify.com/album/4WvVSOcxkJLk56Rkn2sKyN"
+      },
+      "artists": [
+        {
+          "name": "Silvie Loto",
+          "url": "https://open.spotify.com/artist/79pt77aQRjnLUoKOGUi7Um"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308636,
+      "name": "Follow Me",
+      "url": "https://open.spotify.com/track/5FLeEuEPsnTadO4jbKb34E"
+    },
+    {
+      "album": {
         "name": "Free / Love Me",
         "url": "https://open.spotify.com/album/7tlGEEHcWktB2dgYH1CzEB"
       },
@@ -1766,7 +1784,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 138750,
       "name": "Fuego",
       "url": "https://open.spotify.com/track/2JK0WG92P4bHOxRtWgWt6i"
@@ -1914,6 +1932,24 @@
       "duration_ms": 271886,
       "name": "Get Down",
       "url": "https://open.spotify.com/track/3ENcnIB39ek39fUNaXX7ns"
+    },
+    {
+      "album": {
+        "name": "Right On Time EP",
+        "url": "https://open.spotify.com/album/3Tdl9S3IooKKvjBhu0oLtQ"
+      },
+      "artists": [
+        {
+          "name": "Andrew Azara",
+          "url": "https://open.spotify.com/artist/3bzPkW85khy7WXG6IdIk2A"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 387195,
+      "name": "Get It Up",
+      "url": "https://open.spotify.com/track/0VYSW5QieD3cuP4jxvIDu4"
     },
     {
       "album": {
@@ -2729,6 +2765,24 @@
     },
     {
       "album": {
+        "name": "Lemme Talk To Ya",
+        "url": "https://open.spotify.com/album/7paGDyrAtcTe2IXoodc2M2"
+      },
+      "artists": [
+        {
+          "name": "Ben Rau",
+          "url": "https://open.spotify.com/artist/1TnMHkjDz4jm8H8QxnyAAC"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211383,
+      "name": "Lemme Talk To Ya",
+      "url": "https://open.spotify.com/track/2xr0yLfUFBxoTWAQpMkcbf"
+    },
+    {
+      "album": {
         "name": "Lemonade",
         "url": "https://open.spotify.com/album/31f0UtcyDi6Q0oJRzQNeKC"
       },
@@ -2740,7 +2794,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 184186,
       "name": "Lemonade",
       "url": "https://open.spotify.com/track/6Jxua6Khy8ULDUl1kk6g4o"
@@ -3759,6 +3813,24 @@
     },
     {
       "album": {
+        "name": "Perfectly Ordinary People",
+        "url": "https://open.spotify.com/album/1v8h5mgnj2KsEsQ69L5AJ3"
+      },
+      "artists": [
+        {
+          "name": "Andf\u00f8lk",
+          "url": "https://open.spotify.com/artist/5cBaXhK9HFIEtpBmmEbh68"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316231,
+      "name": "Perfectly Ordinary People",
+      "url": "https://open.spotify.com/track/6qLMfABUZYbtJFkNBVdlp6"
+    },
+    {
+      "album": {
         "name": "Persefone EP",
         "url": "https://open.spotify.com/album/2ripLUy3pKcxCiA3Va7NX3"
       },
@@ -3912,7 +3984,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 240000,
       "name": "Pronosticos Cachito",
       "url": "https://open.spotify.com/track/3lBQvzsycvySqg739cOGew"
@@ -4896,7 +4968,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 360307,
       "name": "State Of Mind",
       "url": "https://open.spotify.com/track/03dP1ijjvXxl3OrrKrFw3a"
@@ -5145,6 +5217,28 @@
     },
     {
       "album": {
+        "name": "Swing Mind",
+        "url": "https://open.spotify.com/album/59SZ5UUQmkbHgVzvP28B11"
+      },
+      "artists": [
+        {
+          "name": "Surrender Discipline",
+          "url": "https://open.spotify.com/artist/3NQf4Rr8iXLQx3sYqOsMhu"
+        },
+        {
+          "name": "Fedo",
+          "url": "https://open.spotify.com/artist/5BZ40hL81IBefMagu8zxts"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 448000,
+      "name": "Swing Mind - Fedo Remix",
+      "url": "https://open.spotify.com/track/6qwYhIR4XyH51ZTyPYNkVs"
+    },
+    {
+      "album": {
         "name": "Take",
         "url": "https://open.spotify.com/album/0v8VQooN6egDZnTMjGSGU5"
       },
@@ -5276,7 +5370,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 215642,
       "name": "Targa - Logic1000 Remix",
       "url": "https://open.spotify.com/track/6Q9RgcT8pB3USUFjG9MY9s"

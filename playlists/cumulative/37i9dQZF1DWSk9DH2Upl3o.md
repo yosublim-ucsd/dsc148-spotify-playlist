@@ -4,7 +4,7 @@
 
 > The jam scene is alive and well\. Cover: SunSquabi
 
-196 songs - 18 hr 21 min
+197 songs - 18 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,12 +117,13 @@
 | [Madman's Eyes](https://open.spotify.com/track/3f9SxWf7WYKaYywYYejfk1) | [Dave Matthews Band](https://open.spotify.com/artist/2TI7qyDE0QfyOlnbtfDo7L) | [Madman's Eyes](https://open.spotify.com/album/1Y8TRP3ChXq8q45QT65ecf) | 4:48 | 2023-01-27 | 2023-05-20 |
 | [Make That Booty Clap \(Must Be Jelly\)](https://open.spotify.com/track/0uzRJgu1yEtDgzffzo4PyN) | [Taylor Scott Band](https://open.spotify.com/artist/5XVKB8kFnLX5NLNMEwvIBe) | [Sorry, Kids](https://open.spotify.com/album/2RkP7plWT7JDYYNnoINWJp) | 4:19 | 2024-04-19 |  |
 | [Mcmansion](https://open.spotify.com/track/3bFDEWT2lFhBMM6cxcBEGY) | [The Trichomes](https://open.spotify.com/artist/0Z7aFWvcTx8NhWRUfTInfz) | [Jazz Cabbage Soiree](https://open.spotify.com/album/1eBGpVUNZptUK32L7YG2XO) | 7:51 | 2022-06-23 |  |
-| [Mister Funky Daddy](https://open.spotify.com/track/0ZShF0uFfkoQThIySmDd5l) | [Kendall Street Company](https://open.spotify.com/artist/6AKT0nNWeP4Eb7ntkeBOj9) | [Mister Funky Daddy](https://open.spotify.com/album/1n3DXIyRmvuv5RQ7G4EhdF) | 2:29 | 2024-04-26 |  |
+| [Mister Funky Daddy](https://open.spotify.com/track/0ZShF0uFfkoQThIySmDd5l) | [Kendall Street Company](https://open.spotify.com/artist/6AKT0nNWeP4Eb7ntkeBOj9) | [Mister Funky Daddy](https://open.spotify.com/album/1n3DXIyRmvuv5RQ7G4EhdF) | 2:29 | 2024-04-26 | 2024-06-01 |
 | [Mokuba](https://open.spotify.com/track/58Ge6PmTc9PfP0mK5GC8Mk) | [TAUK](https://open.spotify.com/artist/6qauwCj8W2mTcDGbyDGo6O) | [Collisions](https://open.spotify.com/album/0Hzx5qahFYpoxFlNz0iHrK) | 5:27 | 2022-06-23 | 2024-05-04 |
 | [Mountain Song](https://open.spotify.com/track/03onfUgdnPT4p2XoxUdH95) | [Space Owl](https://open.spotify.com/artist/5BSAR7n5jEDO6XUBodH7qG), [Ari Joshua](https://open.spotify.com/artist/3C9Z1YhnRr08CKRSZ7nEuV), [Bob Lovelace](https://open.spotify.com/artist/6VFjf95afawayBKTfJFkyT), [John Ewing](https://open.spotify.com/artist/2LpxqQxZZQyq6Ycp9t1HJf), [David Appelbaum](https://open.spotify.com/artist/65sIM68yHAbuFn8cZztqnP) | [Mountain Song](https://open.spotify.com/album/4A4ovKPnaakHcRxksFMFMi) | 6:56 | 2023-06-23 |  |
 | [Movin On](https://open.spotify.com/track/12Ba6mKHtXygjTcUp4aGfH) | [Mungion](https://open.spotify.com/artist/4qIgyXFMEaFl3HmABtjNfK) | [Movin On](https://open.spotify.com/album/7BsxRZOWTBTevA6Pm0JmQy) | 6:18 | 2023-03-31 | 2023-07-08 |
 | [Mr\. Scientist](https://open.spotify.com/track/4873MdwrLRw2FuAddS0h3F) | [The Magic Beans](https://open.spotify.com/artist/6v39xVS6Vpmnun982EF8XH) | [Casino Cabaret](https://open.spotify.com/album/2Y7VfgO3VkHuZHgTfmbHco) | 7:28 | 2022-06-23 |  |
 | [Mucho](https://open.spotify.com/track/6RGXvExPr2zOTSfqqpRqx2) | [Dopapod](https://open.spotify.com/artist/6ur6SxSBdRLBgehOIT2iwX) | [Megagem](https://open.spotify.com/album/37NK8Dp8ms7so7FqzhopCm) | 6:33 | 2022-06-23 | 2023-06-17 |
+| [My Mans Was a Funky Cat](https://open.spotify.com/track/7yvrKIBMBgPwbBWmb6ZO9K) | [Kendall Street Company](https://open.spotify.com/artist/6AKT0nNWeP4Eb7ntkeBOj9) | [My Mans Was a Funky Cat](https://open.spotify.com/album/5Psv09dk1wPIoiPTUz5F4s) | 4:29 | 2024-05-31 |  |
 | [Myrtle](https://open.spotify.com/track/3w58LambC0n9cuwxJ0wuXW) | [Mungion](https://open.spotify.com/artist/4qIgyXFMEaFl3HmABtjNfK) | [Scary Blankets](https://open.spotify.com/album/0yYqSumt1RNjNJDnt1OnHh) | 9:18 | 2022-06-23 | 2023-06-03 |
 | [New Eyes](https://open.spotify.com/track/0iZyxYvHPplB3GTkfyXnkQ) | [Cbdb](https://open.spotify.com/artist/0Rt9ML8x5r1DFhSPAJhbwr) | [Joyfunk Is Dead](https://open.spotify.com/album/0SPbrfi5dOmewfhS0Ec2N7) | 2:53 | 2022-06-23 | 2023-05-06 |
 | [Not Just a Word](https://open.spotify.com/track/0h0VOIqGeMkGsho6OS9nkh) | [Papadosio](https://open.spotify.com/artist/22nCgEikczPLtGfDdpRroh) | [Not Just a Word](https://open.spotify.com/album/7bt6AjNv93TydZQbb6mqW1) | 5:38 | 2022-08-26 | 2023-06-03 |

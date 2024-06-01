@@ -4,7 +4,7 @@
 
 > 
 
-1,413 songs - 3 day 5 hr 24 min
+1,416 songs - 3 day 5 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -259,6 +259,7 @@
 | [Cross The Line](https://open.spotify.com/track/0J8fSvuZKVUbggaUgiHtNp) | [Dither](https://open.spotify.com/artist/2CTPZndAY5BwdgHk8AX0B7) | [The Wreckoning](https://open.spotify.com/album/18Mnzx0terGHSvFhPyzaCB) | 3:30 | 2023-07-16 |  |
 | [CrossFire](https://open.spotify.com/track/3NmnT8Vj2cyagwkFyKIULQ) | [USAO](https://open.spotify.com/artist/25iPl8VJFDu38JMFF6uMXI) | [CrossFire](https://open.spotify.com/album/0DQPHQwaNiI9yXYIkiX8MF) | 2:25 | 2023-10-26 |  |
 | [Cruel Place](https://open.spotify.com/track/2JxhJ7cNsLRyZSCxqhnm77) | [Technikore](https://open.spotify.com/artist/45mQUJrPyctvf2IhkVE0ym) | [Cruel Place](https://open.spotify.com/album/2cpzPtcXMQQdfsb3iG6Cod) | 3:38 | 2023-11-20 |  |
+| [Crunch](https://open.spotify.com/track/67ERjTGEze2g1UVNCog2Je) | [TNT](https://open.spotify.com/artist/1CqOLQmjzVWXQTiIN5Wucs), [Technoboy](https://open.spotify.com/artist/37jL2LnGjAkadOCszr8v7C), [Tuneboy](https://open.spotify.com/artist/3mZnhzeAyjpFhO3cIepzBr) | [Crunch](https://open.spotify.com/album/6Ik9MjMnvXaI5y7IBCgQSg) | 2:59 | 2024-05-29 |  |
 | [Crying](https://open.spotify.com/track/5yGWXj4E3V0Fik6zEkLkvs) | [Matduke](https://open.spotify.com/artist/2iTdqBeEWz0QriMt81o9CN) | [Crying](https://open.spotify.com/album/29mF3Lfm9DWqif80BYbWGF) | 4:37 | 2022-08-22 |  |
 | [Cthugha](https://open.spotify.com/track/5MNLgtuEF9mMaYvyzgW943) | [USAO](https://open.spotify.com/artist/25iPl8VJFDu38JMFF6uMXI) | [Cthugha](https://open.spotify.com/album/0LIYml6yhXCgbkIVt6e7xk) | 2:35 | 2022-08-11 |  |
 | [Cupid \- Hardstyle Mix](https://open.spotify.com/track/179bBZ35CMHbuYbFXdahL5) | [Inquisitive](https://open.spotify.com/artist/6K4XQXfV7Gill2ULeRu6fw), [Shirina](https://open.spotify.com/artist/7kCdcgzkZC4E78Xgv3Re8I) | [Cupid \(Hardstyle Mix\)](https://open.spotify.com/album/6YxqKLRphopiR3IlirRPZS) | 2:07 | 2023-11-13 |  |
@@ -355,6 +356,7 @@
 | [Edge of Infinity](https://open.spotify.com/track/1PHbbNUTkC46KEEculOwNZ) | [Chaos Project](https://open.spotify.com/artist/31yN9ocbPndhIWUxTIQArT) | [New Age Of Rave](https://open.spotify.com/album/22fTTNJUT1KNs7I1XJKS6k) | 3:22 | 2023-09-11 |  |
 | [Edison](https://open.spotify.com/track/7obK6GuQBRXK9agu8sfyrz) | [Korsakoff](https://open.spotify.com/artist/1rWaCpcmmjycvD00Kf6YyE), [Partyraiser](https://open.spotify.com/artist/39cgo5SPJygKIlIcrwkd73) | [Edison](https://open.spotify.com/album/0rBsDGrsCkRE7cs2Z0A845) | 4:24 | 2022-09-09 |  |
 | [ElektraWave](https://open.spotify.com/track/3JhzSXcPe9EH76bENsBsYC) | [Vasto](https://open.spotify.com/artist/35l9BKzdhvLy5HOC50NECa) | [ElektraWave](https://open.spotify.com/album/29I2xhfBPyvI5lAM6sPOZs) | 2:19 | 2024-05-23 |  |
+| [elevate our mind](https://open.spotify.com/track/0sav1CL1qLvUnmh7C1dePM) | [Atmozfears](https://open.spotify.com/artist/0MBGxwmCdXdO26ojaNcT64), [RE\-PULZE](https://open.spotify.com/artist/5YR9VKJNA2pGS1Ic4I2vmd) | [elevate our mind](https://open.spotify.com/album/6ncFLe2YJwFCrEftvLYKpo) | 3:16 | 2024-05-29 |  |
 | [Emma & Ewig](https://open.spotify.com/track/7BnUxw4a0oKseJRgsn6hQp) | [Raket One](https://open.spotify.com/artist/3WiX1u4IpVintfUX7Qze06), [Actek](https://open.spotify.com/artist/2iElooMfZXTC3kkoNz9tRN), [Emmi B](https://open.spotify.com/artist/0P0nLI61ZMfQzGRcIrCSXq) | [Emma & Ewig](https://open.spotify.com/album/2F1WiVxXMFDH20yOcymo2t) | 2:39 | 2024-05-03 |  |
 | [EMOTIONAL DAMAGE](https://open.spotify.com/track/3fluNnI6d5ElDwpDl5ZbHz) | [Chaotic Hostility](https://open.spotify.com/artist/12XFFT7c5VUYdNzJODHOLn), [Soulblast](https://open.spotify.com/artist/3f6KorUYJp7dxTAJpgqKiY) | [EMOTIONAL DAMAGE](https://open.spotify.com/album/2GYiasPSPso20L5WoJYMYw) | 2:37 | 2023-10-19 |  |
 | [Empty Promises](https://open.spotify.com/track/7lfHS7cz2P8B9LxUJyXKvR) | [Technikore](https://open.spotify.com/artist/45mQUJrPyctvf2IhkVE0ym), [Arkiida](https://open.spotify.com/artist/3krw0I7tGVNLc4q5oJMnwP) | [Empty Promises](https://open.spotify.com/album/0NPHJsCYDFZqp91OPJu3MM) | 3:50 | 2022-02-17 |  |
@@ -537,6 +539,7 @@
 | [Hallucin8](https://open.spotify.com/track/3Joto9tBAWwMH7ZJcc12Gk) | [Mind Compressor](https://open.spotify.com/artist/04K4XkeDWVLIilcHHAAJ9n), [Antenora](https://open.spotify.com/artist/72SQfmyjszuSw1SNoNWpvz) | [Hallucin8](https://open.spotify.com/album/0Y86mWehTSHloLiKT0wtIo) | 2:57 | 2024-04-19 |  |
 | [Hallucinate](https://open.spotify.com/track/5byappNwH0EEjPqmh6NMtU) | [Luminite](https://open.spotify.com/artist/56uBktjCLyONyLAgE7VBq1) | [Hallucinate](https://open.spotify.com/album/1AP57nFJb3dlPJSWWb17wN) | 2:20 | 2024-04-26 |  |
 | [Hard 2 The Core](https://open.spotify.com/track/0SHuuJh45TfuSIkRl2kHX5) | [Restrained](https://open.spotify.com/artist/2ym6Gwn7qNzgiAm6VA3nsV) | [Hard 2 The Core](https://open.spotify.com/album/0a7UPxBDJTJk5VZl5BRrvZ) | 2:56 | 2023-05-12 |  |
+| [Hard and Cheerful 2024 Edit](https://open.spotify.com/track/5wWGPhAgVAjfc1aEgSMkoY) | [Maissouille](https://open.spotify.com/artist/1aQbGaag8KEI8kKtY37UQU) | [Hard and Cheerful 2024 Edit](https://open.spotify.com/album/2JvzkLesfJkPv5VC579gsQ) | 4:09 | 2024-05-29 |  |
 | [Hard Pounding \- Radio Edit](https://open.spotify.com/track/2xv7HQHi3NV5TqyVPBAgco) | [Zatox](https://open.spotify.com/artist/27Z5l2Kfy1IaYZMg5INWqO), [D Noizer](https://open.spotify.com/artist/1cofRSH6vY5s9xOHc0NBHU) | [Hard Pounding](https://open.spotify.com/album/79XnwCb2lT7bZ4A83RhH4j) | 3:06 | 2024-04-13 |  |
 | [Hard uit me plaat](https://open.spotify.com/track/6AtTrmYEkzJ8uMUj8J8Vmt) | [Nosferatu](https://open.spotify.com/artist/0S6b11xqvO6XOWZSukSjiY), [Never Surrender](https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6), [Brutaal](https://open.spotify.com/artist/2L75XehpwmdRiCRtT8ctiU) | [Demonic Playgrounds](https://open.spotify.com/album/23jLMFzSBYcGYrdu1f85NC) | 2:42 | 2022-09-06 |  |
 | [HARD\-COREMATA \- HVS ver.](https://open.spotify.com/track/1pj171RxCE6ZaW4dTVIBXy) | [Kobaryo](https://open.spotify.com/artist/1Y81Ch90opScfpMfN17lZb), [Matatabi Sound System](https://open.spotify.com/artist/2psvrZAUoHkWuM5KZAbwc5), [DJ NECOJITA](https://open.spotify.com/artist/5SWIqvJVbXytqkRg5ste4h), [Shinonome Interface](https://open.spotify.com/artist/1cYzRgYVdxIwCjYBYAh8U7), [blaxervant](https://open.spotify.com/artist/35iNXVtX6Joy1aRqgo7BaN) | [HiTNEX ViRTUAL SHiFTERZ](https://open.spotify.com/album/0ETNfFWDHqLq48n52CDFAg) | 3:09 | 2024-05-13 |  |

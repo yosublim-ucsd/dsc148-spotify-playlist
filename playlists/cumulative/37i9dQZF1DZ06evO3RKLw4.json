@@ -88,7 +88,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 251260,
       "name": "Arrested in Shanghai",
       "url": "https://open.spotify.com/track/3eMpWrJhO6XsiOanQTDpax"
@@ -110,6 +110,24 @@
       "duration_ms": 132026,
       "name": "Back Where I Belong",
       "url": "https://open.spotify.com/track/6dWFLuPwTUWTkF42fXlBIt"
+    },
+    {
+      "album": {
+        "name": "Rancid",
+        "url": "https://open.spotify.com/album/4ptHCnj9ZvHibMqdPFx5Bt"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "date_added": "2024-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176627,
+      "name": "Battering Ram",
+      "url": "https://open.spotify.com/track/3PlJ7ukrQ36VkC5M8f1BHi"
     },
     {
       "album": {
@@ -430,7 +448,7 @@
       ],
       "date_added": "2024-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 74213,
       "name": "Endrina",
       "url": "https://open.spotify.com/track/6WWcprIFKb9XErXU9jtcRZ"
@@ -600,6 +618,24 @@
       "duration_ms": 191666,
       "name": "I Wanna Riot",
       "url": "https://open.spotify.com/track/3prgCqodybVT758HNY2SXW"
+    },
+    {
+      "album": {
+        "name": "Rancid",
+        "url": "https://open.spotify.com/album/4ptHCnj9ZvHibMqdPFx5Bt"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "date_added": "2024-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165056,
+      "name": "I'm Not The Only One",
+      "url": "https://open.spotify.com/track/0hQsjOwKenWlkf1ND67pfn"
     },
     {
       "album": {

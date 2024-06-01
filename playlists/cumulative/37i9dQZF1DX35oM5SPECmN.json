@@ -1436,7 +1436,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 231813,
       "name": "Highway Queen",
       "url": "https://open.spotify.com/track/1HSK85Escjg7ClgwgnMI0G"
@@ -3062,6 +3062,24 @@
       "duration_ms": 197120,
       "name": "Time's Always Leaving",
       "url": "https://open.spotify.com/track/4TXiPzOZanpYIUXuNwHzlZ"
+    },
+    {
+      "album": {
+        "name": "Trick of the Light",
+        "url": "https://open.spotify.com/album/1XkOugHWzS4qMn1hhVvt8B"
+      },
+      "artists": [
+        {
+          "name": "Tom Speight",
+          "url": "https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185332,
+      "name": "Trick of the Light",
+      "url": "https://open.spotify.com/track/25kJoCMDcH4cKgS5sYpu1S"
     },
     {
       "album": {

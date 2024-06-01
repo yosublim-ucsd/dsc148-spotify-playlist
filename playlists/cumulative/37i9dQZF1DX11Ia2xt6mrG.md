@@ -4,7 +4,7 @@
 
 > Descubre lo más fresco de la electrónica mexicana\. Jayrick en portada.
 
-293 songs - 16 hr 23 min
+294 songs - 16 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,13 +153,14 @@
 | [MARCIANO](https://open.spotify.com/track/7FyTcAV3bjDTMMsOY1X1RF) | [FLAKO STIK](https://open.spotify.com/artist/2ltTl7JjDstSA7QcXCn5ff) | [LA RUTA X MEXICO, Vol\. 1](https://open.spotify.com/album/38xTcKPmTBt1vAq8vNXh0S) | 4:00 | 2024-04-12 |  |
 | [Masala](https://open.spotify.com/track/7CZZthcEreu2RddkmekTm5) | [Nitro Fun](https://open.spotify.com/artist/4XU5f8nGiPMr6eetud6epC) | [Masala](https://open.spotify.com/album/6WtVRdSDwevHuUDiFcEhCp) | 3:02 | 2022-07-28 | 2022-11-14 |
 | [MASERATI](https://open.spotify.com/track/7nHocPrvEi7mGoguftmCt0) | [LEX](https://open.spotify.com/artist/7e9fkXTW7DlRaBOPoiaKCV) | [MASERATI](https://open.spotify.com/album/2vuyDqJLFKQIfGS0n4Zu3q) | 3:45 | 2023-09-12 |  |
-| [Me Caes Muy Bien](https://open.spotify.com/track/6kTCDfKw1X01COdmKM89v0) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Me Caes Muy Bien](https://open.spotify.com/album/4AYdIA4uoXMxyTfJkdxjSH) | 3:44 | 2024-05-24 |  |
+| [Me Caes Muy Bien](https://open.spotify.com/track/6kTCDfKw1X01COdmKM89v0) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Me Caes Muy Bien](https://open.spotify.com/album/4AYdIA4uoXMxyTfJkdxjSH) | 3:44 | 2024-05-24 | 2024-06-01 |
 | [Melancolía](https://open.spotify.com/track/13toPIz9TQco3lZSdnj3oH) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb), [Ácido Pantera](https://open.spotify.com/artist/1K3pfb1RjXkPG9mFRgqZxW) | [Melancolía](https://open.spotify.com/album/24guuOvrp5IVK4pB5gn3B9) | 3:42 | 2022-05-06 |  |
 | [Mexican Superstar](https://open.spotify.com/track/71twNlaatmLS7noNHrjNlZ) | [Nortec: Bostich + Fussible](https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg) | [Mexican Superstar](https://open.spotify.com/album/4lSJuFFlo7MEKtpLCBXW14) | 3:57 | 2022-05-06 | 2023-03-25 |
 | [Mi Amor](https://open.spotify.com/track/1eA6VJPzWaqTcOqzXdxYAN) | [Bsno](https://open.spotify.com/artist/1ou0Yboh9yJJHRt2bxxz29), [Keep It Dope](https://open.spotify.com/artist/638zBnRaMj32pQn3C2Q18y), [Priscila](https://open.spotify.com/artist/48wvp5MbVxUwAyF9BdiqdX) | [Mi Amor](https://open.spotify.com/album/4mQSYNviTSOjMHxQ0cazal) | 3:31 | 2022-05-06 |  |
 | [Miko](https://open.spotify.com/track/4Hlpz3m5MiPtMGeu8n0Kk2) | [Skal](https://open.spotify.com/artist/1dOypTWNlXPsEZnXjDybSX), [W\. Corona](https://open.spotify.com/artist/2wqy0ojBEcx7OvHezdGDXQ) | [Miko](https://open.spotify.com/album/3vHHGqNwZZWDj9fsQQtRwe) | 4:29 | 2024-05-17 | 2024-05-25 |
 | [Mira Bien](https://open.spotify.com/track/0MBhNioCkdEUAusgm0FATa) | [Tonga Conga](https://open.spotify.com/artist/2p0241roffcxojfJcnmvsU), [Mula](https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE) | [Mira Bien](https://open.spotify.com/album/09TCMzRYLVe74o9uoEywaU) | 3:27 | 2022-05-06 | 2023-03-25 |
 | [Mistake](https://open.spotify.com/track/7l636KtnTBB2UvAPzAKEWs) | [JOKA](https://open.spotify.com/artist/0hqZ4OJ9p2YC3xnxYnE3SV) | [Mistake](https://open.spotify.com/album/0dch9Ac7ijGh5uGL3Q5p0T) | 3:12 | 2022-05-06 | 2023-10-21 |
+| [MONALISA](https://open.spotify.com/track/5p7GGHY8nlhoZTneRCDTGl) | [Bzars](https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9), [Luciana](https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV), [Jowell](https://open.spotify.com/artist/6TASDj2ogOKQptnxgEvrcP), [Marcos Jungle](https://open.spotify.com/artist/7oeLV4ub5YkgYp8rlpvsIX) | [MONALISA](https://open.spotify.com/album/0lALIOeMBBAcI313AwVdEF) | 3:12 | 2024-05-31 |  |
 | [Monologue \- Theus Mago Remix](https://open.spotify.com/track/22Mwt82DrUoq7EeYW8ezUd) | [Nelin](https://open.spotify.com/artist/7xWUHPWSc4a2ca3uzT6TId), [Theus Mago](https://open.spotify.com/artist/5AmmljbTOeKJcfoTd6QCd3) | [Monologue \(Theus Mago Remix\)](https://open.spotify.com/album/6W3q3cLEalZqgWf4ZnSEG0) | 6:13 | 2022-06-17 | 2022-07-26 |
 | [Montañas Y Sal \- Remix](https://open.spotify.com/track/7sJk3J8j2rabo95RuurYD1) | [Boca Paila](https://open.spotify.com/artist/6SuLt6BrVQ6ue1C0qRbhX6), [Superflat](https://open.spotify.com/artist/5b4stUHH8NXrg63fgtzbT0) | [Montañas Y Sal \(Remix\)](https://open.spotify.com/album/27JWxPhgQ86ZMibdmUtN1L) | 3:15 | 2023-01-07 | 2023-03-04 |
 | [Morenito](https://open.spotify.com/track/6etTt33N7wYwtDfuaqgthc) | [Chile](https://open.spotify.com/artist/0BnmjviyW0BAR2kK67AOPQ), [Mystic Natives](https://open.spotify.com/artist/0jltTJpT4TwfWBNDb393BY), [Aynes](https://open.spotify.com/artist/0WByZEwRntV98feeVnccWG) | [Morenito](https://open.spotify.com/album/5DYHkNfYvVuSJxjGSg0ptA) | 3:10 | 2022-05-06 | 2023-03-25 |

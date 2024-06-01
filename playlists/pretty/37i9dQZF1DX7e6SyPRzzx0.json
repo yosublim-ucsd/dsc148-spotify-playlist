@@ -1,13 +1,49 @@
 {
-  "description": "The home of rage rap. Cover: Hardrock",
-  "num_followers": 61594,
+  "description": "The home of rage rap. Cover: Homixide Gang",
+  "num_followers": 62211,
   "original_name": "RAGE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkPQmwAAAADhIyDN8+B+W8/DnAo3oHAj",
+  "snapshot_id": "ZlpDGgAAAACacthrOm7Xmywl4tC26yU0",
   "tracks": [
+    {
+      "added_at": "2024-05-31 20:10:02",
+      "album": {
+        "name": "i5u5we5",
+        "url": "https://open.spotify.com/album/6VQw51JISwFViXaj3K7u9d"
+      },
+      "artists": [
+        {
+          "name": "Homixide Gang",
+          "url": "https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "duration_ms": 222985,
+      "name": "SIDE EFFExT (feat. Lil Yachty)",
+      "url": "https://open.spotify.com/track/0zin6HNAYX04mXsWjpUkIk"
+    },
+    {
+      "added_at": "2024-04-26 05:00:00",
+      "album": {
+        "name": "overseas",
+        "url": "https://open.spotify.com/album/0FRicF4BU62Z0OUMZw9l8U"
+      },
+      "artists": [
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "duration_ms": 141031,
+      "name": "overseas",
+      "url": "https://open.spotify.com/track/7ovB5FvDwq1g7AG9ICYaNY"
+    },
     {
       "added_at": "2024-05-14 20:59:07",
       "album": {
@@ -25,22 +61,6 @@
       "url": "https://open.spotify.com/track/1Anuaxs4UTPM1tufZJbqZz"
     },
     {
-      "added_at": "2024-04-26 05:00:00",
-      "album": {
-        "name": "My Gift To You",
-        "url": "https://open.spotify.com/album/1W0y4bejq95XTfTsj5vy2o"
-      },
-      "artists": [
-        {
-          "name": "Hardrock",
-          "url": "https://open.spotify.com/artist/1EM110Ljwqga6grZH2Dym3"
-        }
-      ],
-      "duration_ms": 161396,
-      "name": "ST PATRICK'S DAY",
-      "url": "https://open.spotify.com/track/6pE5yAkavXwdIB0jxBAesJ"
-    },
-    {
       "added_at": "2024-05-14 20:59:07",
       "album": {
         "name": "Headrush",
@@ -55,6 +75,22 @@
       "duration_ms": 170886,
       "name": "Headrush",
       "url": "https://open.spotify.com/track/6DO3EWwZc2wBBS2wJgl4fs"
+    },
+    {
+      "added_at": "2024-04-26 05:00:00",
+      "album": {
+        "name": "My Gift To You",
+        "url": "https://open.spotify.com/album/1W0y4bejq95XTfTsj5vy2o"
+      },
+      "artists": [
+        {
+          "name": "Hardrock",
+          "url": "https://open.spotify.com/artist/1EM110Ljwqga6grZH2Dym3"
+        }
+      ],
+      "duration_ms": 161396,
+      "name": "ST PATRICK'S DAY",
+      "url": "https://open.spotify.com/track/6pE5yAkavXwdIB0jxBAesJ"
     },
     {
       "added_at": "2024-05-14 20:59:07",
@@ -199,22 +235,6 @@
     {
       "added_at": "2024-04-26 05:00:00",
       "album": {
-        "name": "overseas",
-        "url": "https://open.spotify.com/album/0FRicF4BU62Z0OUMZw9l8U"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "duration_ms": 141031,
-      "name": "overseas",
-      "url": "https://open.spotify.com/track/7ovB5FvDwq1g7AG9ICYaNY"
-    },
-    {
-      "added_at": "2024-04-26 05:00:00",
-      "album": {
         "name": "Figure It Out",
         "url": "https://open.spotify.com/album/09heES0I3XMjwyxm1stQig"
       },
@@ -243,22 +263,6 @@
       "duration_ms": 156910,
       "name": "Shibuya",
       "url": "https://open.spotify.com/track/3Nv0VdYEBn1B2wxCJK2VV2"
-    },
-    {
-      "added_at": "2024-04-26 05:00:00",
-      "album": {
-        "name": "HI-VOLTAGE",
-        "url": "https://open.spotify.com/album/07c7CJkXRPhZq1DQFe3ubf"
-      },
-      "artists": [
-        {
-          "name": "Homixide Gang",
-          "url": "https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU"
-        }
-      ],
-      "duration_ms": 118000,
-      "name": "HI-VOLTAGE",
-      "url": "https://open.spotify.com/track/1pq17iFsWxlcUMK3kHrCAr"
     },
     {
       "added_at": "2024-04-26 05:00:00",
@@ -515,22 +519,6 @@
       "duration_ms": 236883,
       "name": "Miss The Rage",
       "url": "https://open.spotify.com/track/5n4FTCMefvyKUjeWumdaWv"
-    },
-    {
-      "added_at": "2024-04-26 05:00:00",
-      "album": {
-        "name": "KING TUT",
-        "url": "https://open.spotify.com/album/77nZkr98snqK9S5KN7gxiA"
-      },
-      "artists": [
-        {
-          "name": "Hardrock",
-          "url": "https://open.spotify.com/artist/1EM110Ljwqga6grZH2Dym3"
-        }
-      ],
-      "duration_ms": 172878,
-      "name": "KING TUT",
-      "url": "https://open.spotify.com/track/5o3hsfebCXZUBb5OzsFqyK"
     },
     {
       "added_at": "2024-04-26 05:00:00",
@@ -867,58 +855,6 @@
     {
       "added_at": "2024-04-26 05:00:00",
       "album": {
-        "name": "searching for klarity",
-        "url": "https://open.spotify.com/album/220lwYHC2mt97anoKSMFj2"
-      },
-      "artists": [
-        {
-          "name": "Destin Laurel",
-          "url": "https://open.spotify.com/artist/33hj9n9Y19jGhXk8m7ezKR"
-        }
-      ],
-      "duration_ms": 198096,
-      "name": "i suppose'",
-      "url": "https://open.spotify.com/track/3gcWCQg7hbMzBj1NzYsHhE"
-    },
-    {
-      "added_at": "2024-04-26 05:00:00",
-      "album": {
-        "name": "GO+",
-        "url": "https://open.spotify.com/album/3bBREOGR2MXC5kNkxg3Lsw"
-      },
-      "artists": [
-        {
-          "name": "SoFaygo",
-          "url": "https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby"
-        },
-        {
-          "name": "DD Osama",
-          "url": "https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM"
-        }
-      ],
-      "duration_ms": 176361,
-      "name": "WISH I COULD TELL YOU",
-      "url": "https://open.spotify.com/track/7mAIh2cjeAXId5k6j74mCj"
-    },
-    {
-      "added_at": "2024-04-26 05:00:00",
-      "album": {
-        "name": "MBGB2",
-        "url": "https://open.spotify.com/album/0R9ZaxhsU6Qtb5KrTJ4g6t"
-      },
-      "artists": [
-        {
-          "name": "Fourfive",
-          "url": "https://open.spotify.com/artist/2Iwoy31N647ZAX06wPbcGg"
-        }
-      ],
-      "duration_ms": 103783,
-      "name": "MBGB2",
-      "url": "https://open.spotify.com/track/5NJ4s5Daq5RUNmtNdjQrRv"
-    },
-    {
-      "added_at": "2024-04-26 05:00:00",
-      "album": {
         "name": "Snotty World (Deluxe)",
         "url": "https://open.spotify.com/album/5Fy36L5DnmGWWmAQsq4Ido"
       },
@@ -967,22 +903,6 @@
       "duration_ms": 124093,
       "name": "Vamp Anthem",
       "url": "https://open.spotify.com/track/4CzhtKifG867Lu5DNQVBSA"
-    },
-    {
-      "added_at": "2024-04-26 05:00:00",
-      "album": {
-        "name": "Strike (Holster)",
-        "url": "https://open.spotify.com/album/1v3fDc2dJvSEKOd3hOSjAH"
-      },
-      "artists": [
-        {
-          "name": "Lil Yachty",
-          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
-        }
-      ],
-      "duration_ms": 148115,
-      "name": "Strike (Holster)",
-      "url": "https://open.spotify.com/track/7iTTWHbr4tAlsRJN4m4bay"
     }
   ],
   "unique_name": "RAGE",

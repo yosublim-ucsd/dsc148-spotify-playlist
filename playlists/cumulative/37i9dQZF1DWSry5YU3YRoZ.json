@@ -251,6 +251,24 @@
     },
     {
       "album": {
+        "name": "Eternal Love",
+        "url": "https://open.spotify.com/album/38qRFQwc5MIYG21UXr8OaO"
+      },
+      "artists": [
+        {
+          "name": "Kwon Byul",
+          "url": "https://open.spotify.com/artist/7eyQCTwADNiqsq3QgAwJHe"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149500,
+      "name": "Eternal Love",
+      "url": "https://open.spotify.com/track/0hJFG25hI8EpNPHavVVlDZ"
+    },
+    {
+      "album": {
         "name": "Eternal return",
         "url": "https://open.spotify.com/album/2Ja2kwTKcN1ANA6qk0TVbt"
       },
@@ -836,7 +854,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 247793,
       "name": "Mindless",
       "url": "https://open.spotify.com/track/7wKSQwBzevrfI4nsSNGnuM"

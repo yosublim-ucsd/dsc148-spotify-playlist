@@ -61,6 +61,28 @@
     },
     {
       "album": {
+        "name": "Better Together (From \"Better Together: A Pixar Pals Celebration!\")",
+        "url": "https://open.spotify.com/album/4193bpWUUD8TiYWKSg0szD"
+      },
+      "artists": [
+        {
+          "name": "Matt from Middle School",
+          "url": "https://open.spotify.com/artist/46fLGtPanLY0STB13RIJTm"
+        },
+        {
+          "name": "Norelle",
+          "url": "https://open.spotify.com/artist/5B08rGb3FZKEEhNdsyQV8T"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154760,
+      "name": "Better Together - From \"Better Together: A Pixar Pals Celebration!\"",
+      "url": "https://open.spotify.com/track/6LTUn6f3HCjZoXMmtPSaWz"
+    },
+    {
+      "album": {
         "name": "Finding Nemo (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2kJpuz9FOqX5riMjGwihhY"
       },
@@ -72,7 +94,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 266600,
       "name": "Beyond The Sea",
       "url": "https://open.spotify.com/track/2fjRInUmwqLhgvW9hQtbo6"
@@ -90,7 +112,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 267562,
       "name": "Beyond the Sea",
       "url": "https://open.spotify.com/track/0zaAUrSvMYrBGcLcmWKcxy"
@@ -223,6 +245,32 @@
     },
     {
       "album": {
+        "name": "Don't Fight the Rhythm! (From \"Disneyland Resort's Pixar Pals Playtime Party\")",
+        "url": "https://open.spotify.com/album/2Hs7U0rI4ITjlt5CzomTW5"
+      },
+      "artists": [
+        {
+          "name": "Brandon Rogers",
+          "url": "https://open.spotify.com/artist/7srpB9KpvRiJMkJIbIk6fy"
+        },
+        {
+          "name": "Rhett Fisher",
+          "url": "https://open.spotify.com/artist/0Uc7yCZJgJilU0md9yyhhA"
+        },
+        {
+          "name": "Devin Hoffman",
+          "url": "https://open.spotify.com/artist/3Rg7OiUyC9WwwbcgZzfwqb"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190890,
+      "name": "Don't Fight the Rhythm! - From \"Disneyland Resort's Pixar Pals Playtime Party\"",
+      "url": "https://open.spotify.com/track/3QhIwMB5eIul4JzFGVTlCn"
+    },
+    {
+      "album": {
         "name": "Rated PG",
         "url": "https://open.spotify.com/album/2r2ARjGkLgHq9FaZW1ytzO"
       },
@@ -238,7 +286,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 358646,
       "name": "Down to Earth (feat. Soweto Gospel Choir)",
       "url": "https://open.spotify.com/track/6QGWsMkxSv2l3Ae3jlsENi"
@@ -260,7 +308,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 357973,
       "name": "Down to Earth - From \"WALL-E\"/Soundtrack Version",
       "url": "https://open.spotify.com/track/3RcTV0VBkSwzHNMghOmRbm"
@@ -296,7 +344,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 62400,
       "name": "EVE",
       "url": "https://open.spotify.com/track/2SGW2reRU2ZvIinJAhAogC"
@@ -314,7 +362,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 62400,
       "name": "EVE - From \"WALL-E\"/Score",
       "url": "https://open.spotify.com/track/3ypMbDmBzhI4hTugVJSA58"
@@ -600,7 +648,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 346493,
       "name": "Lava",
       "url": "https://open.spotify.com/track/0wqeaDeaKq14IuQESPqBEJ"
@@ -626,7 +674,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 346492,
       "name": "Lava - From \"Lava\"",
       "url": "https://open.spotify.com/track/3wjIKFGs7AdI5WlIv3bbcr"
@@ -670,7 +718,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 225986,
       "name": "Learn Me Right",
       "url": "https://open.spotify.com/track/7JWIKtAToWqvAl1qlpsjlC"
@@ -692,7 +740,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 225986,
       "name": "Learn Me Right - From \"Brave\"/Soundtrack",
       "url": "https://open.spotify.com/track/4TYdTJchjCamQAcYyRL7KE"
@@ -1168,7 +1216,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 170933,
       "name": "Route 66",
       "url": "https://open.spotify.com/track/0LGF5lHk51Xa0BCJsWXrJv"
@@ -1186,7 +1234,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 171413,
       "name": "Route 66",
       "url": "https://open.spotify.com/track/6TXnGAr6DLVYshIrMeP0lZ"
@@ -1260,7 +1308,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 192506,
       "name": "Steal The Show",
       "url": "https://open.spotify.com/track/0SccFtYdj75y6lL2OW10Cf"
@@ -1278,7 +1326,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 191779,
       "name": "Steal The Show - From \"Elemental\"",
       "url": "https://open.spotify.com/track/6R5fYCySNHrqo4Og6O1ppn"
@@ -1504,7 +1552,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 119986,
       "name": "Wall-E",
       "url": "https://open.spotify.com/track/5GAE12gkdsWnscaoXxCDdq"
@@ -1522,7 +1570,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 119986,
       "name": "Wall-E - From \"WALL-E\"/Score",
       "url": "https://open.spotify.com/track/5h8X9sIEMqO6Wi0OHGL01M"
@@ -1540,7 +1588,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 242746,
       "name": "We Belong Together",
       "url": "https://open.spotify.com/track/2m1mYan1nvOMORlb12q2Y9"
@@ -1558,7 +1606,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 242746,
       "name": "We Belong Together",
       "url": "https://open.spotify.com/track/3fazam52RUALaUhR6cDadU"
@@ -1594,7 +1642,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 185240,
       "name": "When She Loved Me",
       "url": "https://open.spotify.com/track/6lMh9k54E4mxbGBMkSwYhT"
@@ -1612,7 +1660,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 183440,
       "name": "When She Loved Me - From \"Toy Story 2\" / Soundtrack Version",
       "url": "https://open.spotify.com/track/780W6YW5HFANQLR77Owern"

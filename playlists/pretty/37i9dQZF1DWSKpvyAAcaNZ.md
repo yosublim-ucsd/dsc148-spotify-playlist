@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKpvyAAcaNZ.md) - [plain]
 
 > It's edgy, innovative, and rooted in soul, folk, Americana, and of course, the blues\. Cover: Gary Clark Jr.
 
-[Spotify](https://open.spotify.com/user/spotify) - 635,497 likes - 150 songs - 9 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 635,621 likes - 150 songs - 9 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKpvyAAcaNZ.md) - [plain]
 | 24 | [Rooster](https://open.spotify.com/track/28A4wvtJNrfEUJ1OvKadpk) | [JJ Grey & Mofro](https://open.spotify.com/artist/1Jl8u1U1GtBlwocZK5LWZv) | [Rooster](https://open.spotify.com/album/7htHDHnkAKQAJgDMTRhKgM) | 4:51 |
 | 25 | [Trouble](https://open.spotify.com/track/02OxBW5LOc4PAjf0dj1buK) | [Miko Marks](https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs), [The Resurrectors](https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5) | [Trouble](https://open.spotify.com/album/7gi6AMVZhuRCjqLfSl4kOd) | 4:03 |
 | 26 | [Breathing Bullets \- US Radio Mix](https://open.spotify.com/track/3afn6c2nBmPqogKrYO06qd) | [Owen Campbell](https://open.spotify.com/artist/3euYobDxHiDFZFGnVu23qe) | [Breathing Bullets \(US Radio Mix\)](https://open.spotify.com/album/3Kb4S90XjZF8qekzIc2Wbq) | 3:46 |
-| 27 | [Weight of the World](https://open.spotify.com/track/1rV2EKQbWZMr4y7BXB0iEO) | [Texas Hill](https://open.spotify.com/artist/2Yl1rRB2mi1HPnXAuy9jqq) | [Weight of the World](https://open.spotify.com/album/1OXjOFCV8hg3VcCX5ggp3C) | 4:19 |
+| 27 | [Weight of the World](https://open.spotify.com/track/1rV2EKQbWZMr4y7BXB0iEO) | [Texas Hill](https://open.spotify.com/artist/2Yl1rRB2mi1HPnXAuy9jqq), [Adam Wakefield](https://open.spotify.com/artist/6vVB9hUpiPCp5SWAYwSzUt) | [Weight of the World](https://open.spotify.com/album/1OXjOFCV8hg3VcCX5ggp3C) | 4:19 |
 | 28 | [How Long](https://open.spotify.com/track/3Y01uxGrWEnR9U78AUSwr5) | [Vanessa Amorosi](https://open.spotify.com/artist/5M0fvL9GMc2zTuIIQwresj) | [How Long](https://open.spotify.com/album/0ssN0rucOvi8W4Sy2inv6a) | 3:59 |
 | 29 | [London Bridge](https://open.spotify.com/track/0YVdyrXXHLyCEoFxTgE1Lu) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [London Bridge](https://open.spotify.com/album/37xa3r7oMfJic7uDuvxzXa) | 5:27 |
 | 30 | [Let It Slide](https://open.spotify.com/track/7Hs5OmNf7BqPEnwVA9tRFr) | [Matt Andersen](https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5) | [The Big Bottle of Joy](https://open.spotify.com/album/22OpQW9aiVdxXlzYm4wZE4) | 3:34 |

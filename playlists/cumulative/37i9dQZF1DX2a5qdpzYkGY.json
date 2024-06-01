@@ -713,6 +713,24 @@
     },
     {
       "album": {
+        "name": "The Dream of Delphi",
+        "url": "https://open.spotify.com/album/4Z3IO9jsrSAxdTluJGZerG"
+      },
+      "artists": [
+        {
+          "name": "Bat For Lashes",
+          "url": "https://open.spotify.com/artist/6l77PmL5iuEEcYjGl8K6s7"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120840,
+      "name": "Breaking Up",
+      "url": "https://open.spotify.com/track/2Lcby5YdSYsXp9G6Cx5TzI"
+    },
+    {
+      "album": {
         "name": "Brooklyn Sundown",
         "url": "https://open.spotify.com/album/3w4zTZPjIuRoSOHT8ZD8RM"
       },
@@ -1704,7 +1722,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 313600,
       "name": "Francis K.",
       "url": "https://open.spotify.com/track/7EIlPzBmqzRRUdriseY4XP"
@@ -2192,7 +2210,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 376306,
       "name": "III",
       "url": "https://open.spotify.com/track/53t36WpigyJBFRFy3jrygw"
@@ -3052,6 +3070,24 @@
       "duration_ms": 509882,
       "name": "Moabit",
       "url": "https://open.spotify.com/track/4hCRPlRaCcEbeNLZoxnZV1"
+    },
+    {
+      "album": {
+        "name": "Hyperdrama",
+        "url": "https://open.spotify.com/album/6ooBxhsOVedpX4zPTCyL86"
+      },
+      "artists": [
+        {
+          "name": "Justice",
+          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120453,
+      "name": "Moonlight Rendez-vous",
+      "url": "https://open.spotify.com/track/48cyBWVdq8n5sZ6G8qghOJ"
     },
     {
       "album": {

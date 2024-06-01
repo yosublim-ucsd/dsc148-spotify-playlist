@@ -404,16 +404,16 @@
       },
       "artists": [
         {
+          "name": "Daphne Rubin-Vega",
+          "url": "https://open.spotify.com/artist/0WJ95VwySC8v8HR504J5vR"
+        },
+        {
           "name": "Andrew Underberg",
           "url": "https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay"
         },
         {
           "name": "Sam Haft",
           "url": "https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8"
-        },
-        {
-          "name": "Daphne Rubin-Vega",
-          "url": "https://open.spotify.com/artist/0WJ95VwySC8v8HR504J5vR"
         }
       ],
       "duration_ms": 90305,

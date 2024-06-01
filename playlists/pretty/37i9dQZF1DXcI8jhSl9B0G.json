@@ -1,6 +1,6 @@
 {
   "description": "Tunes for sun drenched days and balmy nights.",
-  "num_followers": 75211,
+  "num_followers": 75203,
   "original_name": "Summer Daze",
   "owner": {
     "name": "Spotify",
@@ -431,22 +431,6 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "Where'd You Go",
-        "url": "https://open.spotify.com/album/0uPrxaVmWUXacWJ5M9bssq"
-      },
-      "artists": [
-        {
-          "name": "Jordy Maxwell",
-          "url": "https://open.spotify.com/artist/32adQJGzuFZNh9fBQXhisb"
-        }
-      ],
-      "duration_ms": 219479,
-      "name": "Where'd You Go",
-      "url": "https://open.spotify.com/track/7CJRMDgbPB02eBBpKUD7D0"
-    },
-    {
-      "added_at": "2023-11-30 13:00:00",
-      "album": {
         "name": "Feel Like Clarity",
         "url": "https://open.spotify.com/album/5Eb9IjtZ2mTqg7yX6vh8Sk"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 184342,
       "name": "Mid Sentence",
       "url": "https://open.spotify.com/track/5z78SPUoa0zZcb1uWbwPMH"
+    },
+    {
+      "added_at": "2023-11-30 13:00:00",
+      "album": {
+        "name": "Where'd You Go",
+        "url": "https://open.spotify.com/album/0uPrxaVmWUXacWJ5M9bssq"
+      },
+      "artists": [
+        {
+          "name": "Jordy Maxwell",
+          "url": "https://open.spotify.com/artist/32adQJGzuFZNh9fBQXhisb"
+        }
+      ],
+      "duration_ms": 219479,
+      "name": "Where'd You Go",
+      "url": "https://open.spotify.com/track/7CJRMDgbPB02eBBpKUD7D0"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -531,6 +531,22 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
+        "name": "The Water & The Rough",
+        "url": "https://open.spotify.com/album/1gw5CZBYqPIwYAe3BUfSKL"
+      },
+      "artists": [
+        {
+          "name": "Riley Pearce",
+          "url": "https://open.spotify.com/artist/0A3HlWZGV8WrCcqxKM2neg"
+        }
+      ],
+      "duration_ms": 216476,
+      "name": "8 Hour Drive",
+      "url": "https://open.spotify.com/track/4HB7zl4UghBqyX84KkY0Gs"
+    },
+    {
+      "added_at": "2023-11-30 13:00:00",
+      "album": {
         "name": "In Our Own Sweet Time",
         "url": "https://open.spotify.com/album/1JDD38K8LBQbCmVw0pZTIK"
       },
@@ -547,18 +563,18 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "The Water & The Rough",
-        "url": "https://open.spotify.com/album/1gw5CZBYqPIwYAe3BUfSKL"
+        "name": "In Between",
+        "url": "https://open.spotify.com/album/1qjSdvNNmUPF9MBYe4gezU"
       },
       "artists": [
         {
-          "name": "Riley Pearce",
-          "url": "https://open.spotify.com/artist/0A3HlWZGV8WrCcqxKM2neg"
+          "name": "Nick Cunningham",
+          "url": "https://open.spotify.com/artist/61lzv3WIqOcGbgAdI0QqXt"
         }
       ],
-      "duration_ms": 216476,
-      "name": "8 Hour Drive",
-      "url": "https://open.spotify.com/track/4HB7zl4UghBqyX84KkY0Gs"
+      "duration_ms": 238174,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/7jVxFSofsmJaJytScnXydF"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -595,34 +611,18 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "In Between",
-        "url": "https://open.spotify.com/album/1qjSdvNNmUPF9MBYe4gezU"
+        "name": "To Enjoy is the Only Thing",
+        "url": "https://open.spotify.com/album/0TyGoqeYSQepO17jg08VvK"
       },
       "artists": [
         {
-          "name": "Nick Cunningham",
-          "url": "https://open.spotify.com/artist/61lzv3WIqOcGbgAdI0QqXt"
+          "name": "Maple Glider",
+          "url": "https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk"
         }
       ],
-      "duration_ms": 238174,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/7jVxFSofsmJaJytScnXydF"
-    },
-    {
-      "added_at": "2023-11-30 13:00:00",
-      "album": {
-        "name": "Smile At The Party",
-        "url": "https://open.spotify.com/album/4zCDxfU1VLsXp8mCRTlBO7"
-      },
-      "artists": [
-        {
-          "name": "The Happiest Kind of Sad",
-          "url": "https://open.spotify.com/artist/6Pv3lH3WAj3SC3a5ansh6q"
-        }
-      ],
-      "duration_ms": 266709,
-      "name": "Smile At The Party",
-      "url": "https://open.spotify.com/track/3cMd8PtCloqArDY3drMqq8"
+      "duration_ms": 257160,
+      "name": "Friend",
+      "url": "https://open.spotify.com/track/1O00a7AxVVYayBmZyM48S1"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -643,18 +643,18 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "To Enjoy is the Only Thing",
-        "url": "https://open.spotify.com/album/0TyGoqeYSQepO17jg08VvK"
+        "name": "Smile At The Party",
+        "url": "https://open.spotify.com/album/4zCDxfU1VLsXp8mCRTlBO7"
       },
       "artists": [
         {
-          "name": "Maple Glider",
-          "url": "https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk"
+          "name": "The Happiest Kind of Sad",
+          "url": "https://open.spotify.com/artist/6Pv3lH3WAj3SC3a5ansh6q"
         }
       ],
-      "duration_ms": 257160,
-      "name": "Friend",
-      "url": "https://open.spotify.com/track/1O00a7AxVVYayBmZyM48S1"
+      "duration_ms": 266709,
+      "name": "Smile At The Party",
+      "url": "https://open.spotify.com/track/3cMd8PtCloqArDY3drMqq8"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "Love Shack",
-        "url": "https://open.spotify.com/album/2zJN6bhIPoTUviXdNslg8C"
-      },
-      "artists": [
-        {
-          "name": "Luke Morris",
-          "url": "https://open.spotify.com/artist/79i6PErg0CppXj9tpcxdOi"
-        }
-      ],
-      "duration_ms": 249489,
-      "name": "Love Shack",
-      "url": "https://open.spotify.com/track/2zbuLLg1jSNhHVEBVlwcgG"
-    },
-    {
-      "added_at": "2023-11-30 13:00:00",
-      "album": {
         "name": "Roses",
         "url": "https://open.spotify.com/album/6hrJk6bOTnQ6dbD7WKcVoq"
       },
@@ -759,18 +743,18 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/2sX4r8NdgrNtHGT25Q82OZ"
+        "name": "Love Shack",
+        "url": "https://open.spotify.com/album/2zJN6bhIPoTUviXdNslg8C"
       },
       "artists": [
         {
-          "name": "Sam Heselwood",
-          "url": "https://open.spotify.com/artist/3NWsg1qe0HyufJEhf1KoI6"
+          "name": "Luke Morris",
+          "url": "https://open.spotify.com/artist/79i6PErg0CppXj9tpcxdOi"
         }
       ],
-      "duration_ms": 252000,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/3jLSMjgrvUXqohD1lPHELt"
+      "duration_ms": 249489,
+      "name": "Love Shack",
+      "url": "https://open.spotify.com/track/2zbuLLg1jSNhHVEBVlwcgG"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -787,6 +771,22 @@
       "duration_ms": 258053,
       "name": "Carry You With Me",
       "url": "https://open.spotify.com/track/2zwWemTFAsXkKZYa1MFvRF"
+    },
+    {
+      "added_at": "2023-11-30 13:00:00",
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/2sX4r8NdgrNtHGT25Q82OZ"
+      },
+      "artists": [
+        {
+          "name": "Sam Heselwood",
+          "url": "https://open.spotify.com/artist/3NWsg1qe0HyufJEhf1KoI6"
+        }
+      ],
+      "duration_ms": 252000,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/3jLSMjgrvUXqohD1lPHELt"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -859,6 +859,22 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
+        "name": "The Race",
+        "url": "https://open.spotify.com/album/460LhAQP66yaem9mxq6yhW"
+      },
+      "artists": [
+        {
+          "name": "Make The Moon",
+          "url": "https://open.spotify.com/artist/76i6rj2RihHAsdPAjURx1M"
+        }
+      ],
+      "duration_ms": 205999,
+      "name": "The Race",
+      "url": "https://open.spotify.com/track/2qhnDybSlDXwynRtTY2zfi"
+    },
+    {
+      "added_at": "2023-11-30 13:00:00",
+      "album": {
         "name": "Morning Light",
         "url": "https://open.spotify.com/album/78DnLLGhKsf0jgegmqSja9"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 223560,
       "name": "Midnight Moon",
       "url": "https://open.spotify.com/track/3w56FHzu728d0WHnoG6yr1"
-    },
-    {
-      "added_at": "2023-11-30 13:00:00",
-      "album": {
-        "name": "The Race",
-        "url": "https://open.spotify.com/album/460LhAQP66yaem9mxq6yhW"
-      },
-      "artists": [
-        {
-          "name": "Make The Moon",
-          "url": "https://open.spotify.com/artist/76i6rj2RihHAsdPAjURx1M"
-        }
-      ],
-      "duration_ms": 205999,
-      "name": "The Race",
-      "url": "https://open.spotify.com/track/2qhnDybSlDXwynRtTY2zfi"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -959,22 +959,6 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "Where the Light Is",
-        "url": "https://open.spotify.com/album/62pnlxU9dGUedDyMd8fBej"
-      },
-      "artists": [
-        {
-          "name": "Dusty Boots",
-          "url": "https://open.spotify.com/artist/4f7aac6rSCC2VopLH049zY"
-        }
-      ],
-      "duration_ms": 215147,
-      "name": "Where the Light Is",
-      "url": "https://open.spotify.com/track/7HBwtTY2VgeZvOSltQzsi2"
-    },
-    {
-      "added_at": "2023-11-30 13:00:00",
-      "album": {
         "name": "Dawn Sounds",
         "url": "https://open.spotify.com/album/7ALdGmLbeUMefFYnSbSuo2"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 199207,
       "name": "Go, Try, Fall",
       "url": "https://open.spotify.com/track/3guPptXi3aQLsvqQ2n7lB0"
+    },
+    {
+      "added_at": "2023-11-30 13:00:00",
+      "album": {
+        "name": "The Winner Takes It All",
+        "url": "https://open.spotify.com/album/4CBJ50kqiFjnrnw0meoSJU"
+      },
+      "artists": [
+        {
+          "name": "Didirri",
+          "url": "https://open.spotify.com/artist/01lbqGTSuT9Jr3gMwiF3Xw"
+        }
+      ],
+      "duration_ms": 319798,
+      "name": "The Winner Takes It All",
+      "url": "https://open.spotify.com/track/7uH8x4BeKXG3ivXFecFzhv"
     }
   ],
   "unique_name": "Summer Daze",

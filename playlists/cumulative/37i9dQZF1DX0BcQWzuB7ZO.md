@@ -2,7 +2,7 @@
 
 ### [Dance Hits](https://open.spotify.com/playlist/37i9dQZF1DX0BcQWzuB7ZO)
 
-> All the <a href="spotify:genre:edm\_dance">big ones</a> with Kygo & Zak Abel
+> All the <a href="spotify:genre:edm\_dance">big ones</a> with David Guetta & OneRepublic
 
 382 songs - 20 hr 0 min
 

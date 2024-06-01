@@ -3330,7 +3330,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 204444,
       "name": "Hello,goodbye - cassette tape ver",
       "url": "https://open.spotify.com/track/6kAS1aLFGo9RmAflJCNvJc"
@@ -5347,6 +5347,24 @@
     },
     {
       "album": {
+        "name": "Museum of My Mess",
+        "url": "https://open.spotify.com/album/51Go2HZjagXnQTOTN3ZXeJ"
+      },
+      "artists": [
+        {
+          "name": "mindfreakkk",
+          "url": "https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269048,
+      "name": "Museum of My Mess",
+      "url": "https://open.spotify.com/track/30beBjOCmvuAed4eT872rt"
+    },
+    {
+      "album": {
         "name": "WELL DONE",
         "url": "https://open.spotify.com/album/3ZYrXylEYlFvr3HDv1wJqJ"
       },
@@ -5358,7 +5376,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 159617,
       "name": "My Dear",
       "url": "https://open.spotify.com/track/38dyoMgDMotr4qX8qlL17j"
@@ -7058,6 +7076,24 @@
       "duration_ms": 160493,
       "name": "Sunny day",
       "url": "https://open.spotify.com/track/12UQIJePnGeLmpVReYpG2w"
+    },
+    {
+      "album": {
+        "name": "Swarm",
+        "url": "https://open.spotify.com/album/0oo0gUri4GeCoRm4YIHRko"
+      },
+      "artists": [
+        {
+          "name": "Sycco",
+          "url": "https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162639,
+      "name": "Swarm",
+      "url": "https://open.spotify.com/track/1UcsKMDTZksX9AeVIQVL7j"
     },
     {
       "album": {
@@ -9081,6 +9117,24 @@
     },
     {
       "album": {
+        "name": "SUKIMASWITCH 20th Anniversary Tribute Album\u300e\u307f\u3093\u306a\u306e\u30b9\u30ad\u30de\u30b9\u30a4\u30c3\u30c1\u300f",
+        "url": "https://open.spotify.com/album/5sVfcsT0j9S6Um1TG2PQKw"
+      },
+      "artists": [
+        {
+          "name": "tonun",
+          "url": "https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142546,
+      "name": "\u30c7\u30b6\u30a4\u30ca\u30fc\u30ba\u30de\u30f3\u30b7\u30e7\u30f3",
+      "url": "https://open.spotify.com/track/0f6tHt4AjDkpbLHS3lnu1a"
+    },
+    {
+      "album": {
         "name": "\u30c9\u30ed\u30c3\u30d7\u306a\u671d",
         "url": "https://open.spotify.com/album/3LVnhqOSV1xdCo5RezLkAf"
       },
@@ -9500,7 +9554,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 316280,
       "name": "\u541b\u306e\u96a3",
       "url": "https://open.spotify.com/track/71DbWOpzCisKYVvOJiQNrm"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain]
 
 > Musica per un aperitivo di gran classe selezionata dal re della disco italiana, Pino D'Angiò 🕺
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,400 likes - 50 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 245,869 likes - 50 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain]
 | 49 | [FUNKY LADY](https://open.spotify.com/track/0Q9E8mLUdeLRyYdpWun2iY) | [Pino D'Angiò](https://open.spotify.com/artist/1uXGmHao7MMRBwCCncmyB6), [Bobby Soul](https://open.spotify.com/artist/6GEKhpwxiRESLIxGkpXGPw) | [THE NEW ALBUM](https://open.spotify.com/album/6gpCbZAzg4dsaFRvYXxj4M) | 4:11 |
 | 50 | [Sex Machine](https://open.spotify.com/track/2xTv6Qqa8BhbdHr3Z3Cs6s) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [Los Grandes Del Rock,Vol.2](https://open.spotify.com/album/6mlApYsq8pF9ulkZ22gLYC) | 6:40 |
 
-Snapshot ID: `Zkp2nAAAAAAbpdW4AM7fRQMH0klj7alq`
+Snapshot ID: `Zlbe1gAAAADAIwgkQATRn+EHIYweKRsh`

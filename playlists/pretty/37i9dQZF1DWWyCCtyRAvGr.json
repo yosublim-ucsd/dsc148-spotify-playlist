@@ -1,6 +1,6 @@
 {
   "description": "A relaxing evening with a smooth glass never sounded so good. Hit play and let the room fill with some of the classics.",
-  "num_followers": 177500,
+  "num_followers": 177720,
   "original_name": "Blues on the Rocks",
   "owner": {
     "name": "Spotify",
@@ -243,6 +243,30 @@
     {
       "added_at": "2024-05-28 18:29:55",
       "album": {
+        "name": "You Can't Lose What You Ain't Never Had",
+        "url": "https://open.spotify.com/album/3Jqjl8E2mtMf0IlrxuriRQ"
+      },
+      "artists": [
+        {
+          "name": "Magic Slim",
+          "url": "https://open.spotify.com/artist/0uDA9BcTnKIPpNcZX6ZY3x"
+        },
+        {
+          "name": "Nick Holt",
+          "url": "https://open.spotify.com/artist/33vrw08zWB0fcGP8sGFWCo"
+        },
+        {
+          "name": "The Teardrops",
+          "url": "https://open.spotify.com/artist/4sCjplymm6JRWbieiNWhto"
+        }
+      ],
+      "duration_ms": 433360,
+      "name": "How Unlucky Can One Man Be",
+      "url": "https://open.spotify.com/track/5MULjaj5Xzjd2pyvUK8rRM"
+    },
+    {
+      "added_at": "2024-05-28 18:29:55",
+      "album": {
         "name": "Hooker 'N Heat",
         "url": "https://open.spotify.com/album/0D0s7xWS9xH5x2PXO4fVw3"
       },
@@ -279,26 +303,18 @@
     {
       "added_at": "2024-05-28 18:29:55",
       "album": {
-        "name": "You Can't Lose What You Ain't Never Had",
-        "url": "https://open.spotify.com/album/3Jqjl8E2mtMf0IlrxuriRQ"
+        "name": "Paris Blues",
+        "url": "https://open.spotify.com/album/7qotTIEVC9DQ78NAFX03nT"
       },
       "artists": [
         {
-          "name": "Magic Slim",
-          "url": "https://open.spotify.com/artist/0uDA9BcTnKIPpNcZX6ZY3x"
-        },
-        {
-          "name": "Nick Holt",
-          "url": "https://open.spotify.com/artist/33vrw08zWB0fcGP8sGFWCo"
-        },
-        {
-          "name": "The Teardrops",
-          "url": "https://open.spotify.com/artist/4sCjplymm6JRWbieiNWhto"
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
         }
       ],
-      "duration_ms": 433360,
-      "name": "How Unlucky Can One Man Be",
-      "url": "https://open.spotify.com/track/5MULjaj5Xzjd2pyvUK8rRM"
+      "duration_ms": 353585,
+      "name": "Paris Blues",
+      "url": "https://open.spotify.com/track/2IkcVcdtodOvOVQIucS2jj"
     },
     {
       "added_at": "2024-05-28 18:29:55",
@@ -315,22 +331,6 @@
       "duration_ms": 428680,
       "name": "Purple",
       "url": "https://open.spotify.com/track/510i2lQvSKIgFXVrq2Dg5Y"
-    },
-    {
-      "added_at": "2024-05-28 18:29:55",
-      "album": {
-        "name": "Paris Blues",
-        "url": "https://open.spotify.com/album/7qotTIEVC9DQ78NAFX03nT"
-      },
-      "artists": [
-        {
-          "name": "The Doors",
-          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
-        }
-      ],
-      "duration_ms": 353585,
-      "name": "Paris Blues",
-      "url": "https://open.spotify.com/track/2IkcVcdtodOvOVQIucS2jj"
     },
     {
       "added_at": "2024-05-28 18:29:55",
@@ -403,22 +403,6 @@
     {
       "added_at": "2024-05-28 18:29:55",
       "album": {
-        "name": "His Best: The Electric B.B. King (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5mdl9vCNEXZl1EbRdHMRW4"
-      },
-      "artists": [
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        }
-      ],
-      "duration_ms": 309373,
-      "name": "Don't Answer The Door",
-      "url": "https://open.spotify.com/track/5JIsQC6ObGhzzRHMdEPMdV"
-    },
-    {
-      "added_at": "2024-05-28 18:29:55",
-      "album": {
         "name": "Poet Of the Blues (Mojo Workin'- Blues For The Next Generation)",
         "url": "https://open.spotify.com/album/5kOOtdwY3JI17osYqWEbnD"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 295466,
       "name": "Spoonful",
       "url": "https://open.spotify.com/track/6c2qCpSjexlM9HYg9TnFFt"
+    },
+    {
+      "added_at": "2024-05-28 18:29:55",
+      "album": {
+        "name": "His Best: The Electric B.B. King (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5mdl9vCNEXZl1EbRdHMRW4"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "duration_ms": 309373,
+      "name": "Don't Answer The Door",
+      "url": "https://open.spotify.com/track/5JIsQC6ObGhzzRHMdEPMdV"
     },
     {
       "added_at": "2024-05-28 18:29:55",
@@ -467,22 +467,6 @@
     {
       "added_at": "2024-05-28 18:29:55",
       "album": {
-        "name": "Man Of My Word",
-        "url": "https://open.spotify.com/album/4fVYzIe9KW1V53DdnYThd5"
-      },
-      "artists": [
-        {
-          "name": "Johnny Adams",
-          "url": "https://open.spotify.com/artist/24qtJegdRiX2TPRvPN6rzk"
-        }
-      ],
-      "duration_ms": 280360,
-      "name": "This Time I'm Gone For Good",
-      "url": "https://open.spotify.com/track/2K0M6aAOj5dAMDnDu5VW18"
-    },
-    {
-      "added_at": "2024-05-28 18:29:55",
-      "album": {
         "name": "T-Bone Blues",
         "url": "https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 167000,
       "name": "Papa Ain't Salty",
       "url": "https://open.spotify.com/track/1OGh5aeiGiNvuD37LiNN99"
+    },
+    {
+      "added_at": "2024-05-28 18:29:55",
+      "album": {
+        "name": "Man Of My Word",
+        "url": "https://open.spotify.com/album/4fVYzIe9KW1V53DdnYThd5"
+      },
+      "artists": [
+        {
+          "name": "Johnny Adams",
+          "url": "https://open.spotify.com/artist/24qtJegdRiX2TPRvPN6rzk"
+        }
+      ],
+      "duration_ms": 280360,
+      "name": "This Time I'm Gone For Good",
+      "url": "https://open.spotify.com/track/2K0M6aAOj5dAMDnDu5VW18"
     },
     {
       "added_at": "2024-05-28 18:29:55",
@@ -611,22 +611,6 @@
     {
       "added_at": "2024-05-28 18:29:55",
       "album": {
-        "name": "Fragments - Time Out of Mind Sessions (1996-1997): The Bootleg Series, Vol. 17",
-        "url": "https://open.spotify.com/album/145Jtm8B3iZcxttgY9Y5NJ"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 214320,
-      "name": "Dirt Road Blues - 2022 Remix",
-      "url": "https://open.spotify.com/track/6QEmvsAYHNRZ5D7lyq6Nvf"
-    },
-    {
-      "added_at": "2024-05-28 18:29:55",
-      "album": {
         "name": "Eric Clapton",
         "url": "https://open.spotify.com/album/3taJF5jtfoJZ3zDKJBu5zG"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 625293,
       "name": "Blues In \"A\"",
       "url": "https://open.spotify.com/track/6qXGPlkW4paWUiKUai43Mj"
+    },
+    {
+      "added_at": "2024-05-28 18:29:55",
+      "album": {
+        "name": "Fragments - Time Out of Mind Sessions (1996-1997): The Bootleg Series, Vol. 17",
+        "url": "https://open.spotify.com/album/145Jtm8B3iZcxttgY9Y5NJ"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 214320,
+      "name": "Dirt Road Blues - 2022 Remix",
+      "url": "https://open.spotify.com/track/6QEmvsAYHNRZ5D7lyq6Nvf"
     },
     {
       "added_at": "2024-05-28 18:29:55",
@@ -711,22 +711,6 @@
     {
       "added_at": "2024-05-28 18:29:55",
       "album": {
-        "name": "Fleetwood Mac",
-        "url": "https://open.spotify.com/album/4gJDG1h0eFxWeYIVJsT8ks"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 175106,
-      "name": "I Loved Another Woman",
-      "url": "https://open.spotify.com/track/5Lh4aGwVSl2bBR4W5mBr9V"
-    },
-    {
-      "added_at": "2024-05-28 18:29:55",
-      "album": {
         "name": "Mourning In The Morning",
         "url": "https://open.spotify.com/album/39zS4QvdYkdcoa7VzG7KHe"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 341173,
       "name": "Gambler's Blues",
       "url": "https://open.spotify.com/track/3hLxjGBGvO1VF3p6BMPn8x"
+    },
+    {
+      "added_at": "2024-05-28 18:29:55",
+      "album": {
+        "name": "Fleetwood Mac",
+        "url": "https://open.spotify.com/album/4gJDG1h0eFxWeYIVJsT8ks"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 175106,
+      "name": "I Loved Another Woman",
+      "url": "https://open.spotify.com/track/5Lh4aGwVSl2bBR4W5mBr9V"
     },
     {
       "added_at": "2024-05-28 18:29:55",
@@ -799,18 +799,18 @@
     {
       "added_at": "2024-05-28 18:29:55",
       "album": {
-        "name": "English Rose",
-        "url": "https://open.spotify.com/album/6UQyg4DOgAGfKnjSciPKBe"
+        "name": "Double Trouble",
+        "url": "https://open.spotify.com/album/3jM3xqyJos5CEXCrdO1hQf"
       },
       "artists": [
         {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+          "name": "Otis Rush",
+          "url": "https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP"
         }
       ],
-      "duration_ms": 278253,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/08uXaXe243pD2BPI5uB3JM"
+      "duration_ms": 157813,
+      "name": "All Your Love (I Miss Loving)",
+      "url": "https://open.spotify.com/track/6NEnXMaCfk0dg2BnuObxX7"
     },
     {
       "added_at": "2024-05-28 18:29:55",
@@ -831,22 +831,6 @@
     {
       "added_at": "2024-05-28 18:29:55",
       "album": {
-        "name": "Heavy Load Blues (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2ZzQyza1rGp1AXsZ2SINRZ"
-      },
-      "artists": [
-        {
-          "name": "Gov't Mule",
-          "url": "https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708"
-        }
-      ],
-      "duration_ms": 258680,
-      "name": "You Know My Love",
-      "url": "https://open.spotify.com/track/4ZHmUh8uIxHzAIeBdPg6mB"
-    },
-    {
-      "added_at": "2024-05-28 18:29:55",
-      "album": {
         "name": "Sailin' Shoes",
         "url": "https://open.spotify.com/album/7uFbv3TYfv44PcjTphXekt"
       },
@@ -863,18 +847,34 @@
     {
       "added_at": "2024-05-28 18:29:55",
       "album": {
-        "name": "Double Trouble",
-        "url": "https://open.spotify.com/album/3jM3xqyJos5CEXCrdO1hQf"
+        "name": "Heavy Load Blues (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2ZzQyza1rGp1AXsZ2SINRZ"
       },
       "artists": [
         {
-          "name": "Otis Rush",
-          "url": "https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP"
+          "name": "Gov't Mule",
+          "url": "https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708"
         }
       ],
-      "duration_ms": 157813,
-      "name": "All Your Love (I Miss Loving)",
-      "url": "https://open.spotify.com/track/6NEnXMaCfk0dg2BnuObxX7"
+      "duration_ms": 258680,
+      "name": "You Know My Love",
+      "url": "https://open.spotify.com/track/4ZHmUh8uIxHzAIeBdPg6mB"
+    },
+    {
+      "added_at": "2024-05-28 18:29:55",
+      "album": {
+        "name": "English Rose",
+        "url": "https://open.spotify.com/album/6UQyg4DOgAGfKnjSciPKBe"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 278253,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/08uXaXe243pD2BPI5uB3JM"
     },
     {
       "added_at": "2024-05-28 18:29:55",
@@ -895,22 +895,6 @@
     {
       "added_at": "2024-05-28 18:29:55",
       "album": {
-        "name": "Savoy",
-        "url": "https://open.spotify.com/album/6CSit6rVjX6qqPrwHCaWdF"
-      },
-      "artists": [
-        {
-          "name": "Taj Mahal",
-          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
-        }
-      ],
-      "duration_ms": 212200,
-      "name": "Caldonia",
-      "url": "https://open.spotify.com/track/3JhhFy0eBmSqNOegoaIUff"
-    },
-    {
-      "added_at": "2024-05-28 18:29:55",
-      "album": {
         "name": "Your Lies",
         "url": "https://open.spotify.com/album/1c9emJLzeTRuws8ov0S7JB"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 193130,
       "name": "Your Lies",
       "url": "https://open.spotify.com/track/33ic6QylSASWCW3LI6qvqH"
+    },
+    {
+      "added_at": "2024-05-28 18:29:55",
+      "album": {
+        "name": "Savoy",
+        "url": "https://open.spotify.com/album/6CSit6rVjX6qqPrwHCaWdF"
+      },
+      "artists": [
+        {
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
+        }
+      ],
+      "duration_ms": 212200,
+      "name": "Caldonia",
+      "url": "https://open.spotify.com/track/3JhhFy0eBmSqNOegoaIUff"
     },
     {
       "added_at": "2024-05-28 18:29:55",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2024-05-28 18:29:55",
       "album": {
-        "name": "Love on the Rocks",
-        "url": "https://open.spotify.com/album/1GMBZjGm9SylBHR9VgtIJA"
-      },
-      "artists": [
-        {
-          "name": "Lauren Anderson",
-          "url": "https://open.spotify.com/artist/3AoeCSG1zkka1T0WO3dPUJ"
-        }
-      ],
-      "duration_ms": 222826,
-      "name": "Love on the Rocks",
-      "url": "https://open.spotify.com/track/06naKf1yua8cwigjhWtOSz"
-    },
-    {
-      "added_at": "2024-05-28 18:29:55",
-      "album": {
         "name": "Mississippi Son",
         "url": "https://open.spotify.com/album/2AipA2HCjjgiM7A77vnXxf"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 186493,
       "name": "Drifting From Town To Town",
       "url": "https://open.spotify.com/track/0DjSBXNU6jGMxsnrGdxw0i"
+    },
+    {
+      "added_at": "2024-05-28 18:29:55",
+      "album": {
+        "name": "Love on the Rocks",
+        "url": "https://open.spotify.com/album/1GMBZjGm9SylBHR9VgtIJA"
+      },
+      "artists": [
+        {
+          "name": "Lauren Anderson",
+          "url": "https://open.spotify.com/artist/3AoeCSG1zkka1T0WO3dPUJ"
+        }
+      ],
+      "duration_ms": 222826,
+      "name": "Love on the Rocks",
+      "url": "https://open.spotify.com/track/06naKf1yua8cwigjhWtOSz"
     },
     {
       "added_at": "2024-05-28 18:29:55",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2024-05-28 18:29:55",
       "album": {
-        "name": "Outdated Emotion",
-        "url": "https://open.spotify.com/album/2ZmQvtqYsWVFPDrG1ssz7z"
-      },
-      "artists": [
-        {
-          "name": "Delbert McClinton",
-          "url": "https://open.spotify.com/artist/3Ri72CuuQSCLLkDRJgniFU"
-        }
-      ],
-      "duration_ms": 146397,
-      "name": "Connecticut Blues",
-      "url": "https://open.spotify.com/track/3iQxKD67vxkRxUWHEXqGRg"
-    },
-    {
-      "added_at": "2024-05-28 18:29:55",
-      "album": {
         "name": "Hiding Place",
         "url": "https://open.spotify.com/album/7dcq4XdSEHjdkNkRokWx5D"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 443160,
       "name": "Hiding Place",
       "url": "https://open.spotify.com/track/1W6xHj8Ic4p1QienSgdaFU"
+    },
+    {
+      "added_at": "2024-05-28 18:29:55",
+      "album": {
+        "name": "Outdated Emotion",
+        "url": "https://open.spotify.com/album/2ZmQvtqYsWVFPDrG1ssz7z"
+      },
+      "artists": [
+        {
+          "name": "Delbert McClinton",
+          "url": "https://open.spotify.com/artist/3Ri72CuuQSCLLkDRJgniFU"
+        }
+      ],
+      "duration_ms": 146397,
+      "name": "Connecticut Blues",
+      "url": "https://open.spotify.com/track/3iQxKD67vxkRxUWHEXqGRg"
     },
     {
       "added_at": "2024-05-28 18:29:55",
@@ -1251,18 +1251,18 @@
     {
       "added_at": "2024-05-28 18:29:55",
       "album": {
-        "name": "Big Town Playboy",
-        "url": "https://open.spotify.com/album/7EqusbcNeJfpCn5SW2vmOi"
+        "name": "Crackdown",
+        "url": "https://open.spotify.com/album/5ikMOG2XXGBIZrsccTOUhL"
       },
       "artists": [
         {
-          "name": "Eddie Taylor",
-          "url": "https://open.spotify.com/artist/0jr3aWcRKkO3LqX09eWbot"
+          "name": "GA-20",
+          "url": "https://open.spotify.com/artist/5lg8xPLWMK8R3EfQlKA5bT"
         }
       ],
-      "duration_ms": 179931,
-      "name": "Big Town Playboy",
-      "url": "https://open.spotify.com/track/46UJ5i1A99706FL2khLqhx"
+      "duration_ms": 178436,
+      "name": "Gone For Good",
+      "url": "https://open.spotify.com/track/4DfTU1lBVwrQvFLnpBbXLF"
     },
     {
       "added_at": "2024-05-28 18:29:55",
@@ -1283,18 +1283,18 @@
     {
       "added_at": "2024-05-28 18:29:55",
       "album": {
-        "name": "Crackdown",
-        "url": "https://open.spotify.com/album/5ikMOG2XXGBIZrsccTOUhL"
+        "name": "Big Town Playboy",
+        "url": "https://open.spotify.com/album/7EqusbcNeJfpCn5SW2vmOi"
       },
       "artists": [
         {
-          "name": "GA-20",
-          "url": "https://open.spotify.com/artist/5lg8xPLWMK8R3EfQlKA5bT"
+          "name": "Eddie Taylor",
+          "url": "https://open.spotify.com/artist/0jr3aWcRKkO3LqX09eWbot"
         }
       ],
-      "duration_ms": 178436,
-      "name": "Gone For Good",
-      "url": "https://open.spotify.com/track/4DfTU1lBVwrQvFLnpBbXLF"
+      "duration_ms": 179931,
+      "name": "Big Town Playboy",
+      "url": "https://open.spotify.com/track/46UJ5i1A99706FL2khLqhx"
     },
     {
       "added_at": "2024-05-28 18:29:55",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2024-05-28 18:29:55",
       "album": {
-        "name": "The Beat Goes On",
-        "url": "https://open.spotify.com/album/1TdmKLX23FMtGlGSUHPNfZ"
-      },
-      "artists": [
-        {
-          "name": "Sean Taylor",
-          "url": "https://open.spotify.com/artist/5pFt8rEenDE1WplnmYzpqe"
-        }
-      ],
-      "duration_ms": 153276,
-      "name": "Back on the Road",
-      "url": "https://open.spotify.com/track/1a9N4JApwl11TSBz5iBAKc"
-    },
-    {
-      "added_at": "2024-05-28 18:29:55",
-      "album": {
         "name": "Chicago/The Blues/Today!",
         "url": "https://open.spotify.com/album/2j6hPbEmlTI0DmvLFZbzgw"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 262720,
       "name": "Come on in This House",
       "url": "https://open.spotify.com/track/7odSShAbnTVHUub96z2deF"
+    },
+    {
+      "added_at": "2024-05-28 18:29:55",
+      "album": {
+        "name": "The Beat Goes On",
+        "url": "https://open.spotify.com/album/1TdmKLX23FMtGlGSUHPNfZ"
+      },
+      "artists": [
+        {
+          "name": "Sean Taylor",
+          "url": "https://open.spotify.com/artist/5pFt8rEenDE1WplnmYzpqe"
+        }
+      ],
+      "duration_ms": 153276,
+      "name": "Back on the Road",
+      "url": "https://open.spotify.com/track/1a9N4JApwl11TSBz5iBAKc"
     },
     {
       "added_at": "2024-05-28 18:29:55",

@@ -4,7 +4,7 @@
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Kaitlin Butts
 
-623 songs - 1 day 13 hr 8 min
+624 songs - 1 day 13 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Better Than Your Memory](https://open.spotify.com/track/7cwFLQokUMwJUQUD9hbRxd) | [Hayden Haddock](https://open.spotify.com/artist/5p0bBvnrdTP0HeZWLIZJQL) | [Better Than Your Memory](https://open.spotify.com/album/1K3iUoIoymF8cmm1hrpsga) | 3:05 | 2022-02-04 | 2023-09-30 |
 | [Between You and Me](https://open.spotify.com/track/4BmyAiwMBMBrT8wMHcy6Ru) | [Palmer Anthony](https://open.spotify.com/artist/412iPDYOYPA2pcGgdlLh5s) | [Between You and Me](https://open.spotify.com/album/0OthJUlWhQIcq1Dj9qKAIG) | 3:47 | 2022-04-22 | 2022-05-28 |
 | [Big Show](https://open.spotify.com/track/56Poamxoy82xKJmBdqDWkd) | [Lane Smith](https://open.spotify.com/artist/2NAFBYpHLQhucaNUoUI3g2) | [Lane Smith \- Volume One](https://open.spotify.com/album/2SKCew9A9YSio2hUFjadW1) | 3:21 | 2021-12-17 | 2022-03-19 |
+| [Big Wide Open](https://open.spotify.com/track/1SsadgOE1rru44D5JF9t4E) | [Red Shahan](https://open.spotify.com/artist/5DPP8EALeVGnupgVjlWOwJ) | [Loose Funky Texas Junky](https://open.spotify.com/album/36ZZqLdtCy8MzCl08LuEo4) | 4:19 | 2024-05-31 |  |
 | [Bigger Than Texas \(Acoustic\)](https://open.spotify.com/track/5Dl4entYlkGPbKJFL3yrva) | [Taylor Tumlinson](https://open.spotify.com/artist/2qY2krsaIOF7H8SUEVYiBn) | [Bigger Than Texas \(Acoustic\)](https://open.spotify.com/album/4ENCMX5nehWshFu23EkNvJ) | 4:26 | 2021-12-17 | 2022-07-29 |
 | [Bird in a Cage](https://open.spotify.com/track/35ck3r2qYcU6NZxbAgxaLF) | [Jacob Bryant](https://open.spotify.com/artist/53Pdb9rdy3SWEzBtyKk1om) | [Bird in a Cage](https://open.spotify.com/album/6iUmd2lTyZZfgEIvZAAHzI) | 3:18 | 2023-09-22 | 2023-10-14 |
 | [Bless Her Heart](https://open.spotify.com/track/6QIwqG7Alb9todpZfh5Zep) | [Jenna Paulette](https://open.spotify.com/artist/6wCypaPtud9fC2djKw9PDX) | [Bless Her Heart](https://open.spotify.com/album/1l1wBvJ9aDaCKssXNDxMWF) | 2:59 | 2021-12-17 | 2022-07-10 |
@@ -276,7 +277,7 @@
 | [I Find a Reason](https://open.spotify.com/track/4IAupLMiDKB5zRplJfHA3R) | [David Adam Byrnes](https://open.spotify.com/artist/1A4vcbjzJ0M1wbuCqEY6cU) | [I Find a Reason](https://open.spotify.com/album/5yWWYAO6oUH2oFJRVIslnN) | 3:24 | 2021-12-17 | 2022-03-19 |
 | [I Found Trouble](https://open.spotify.com/track/54WSRFGDv7lWCcZnAA1m3M) | [Teague Brothers Band](https://open.spotify.com/artist/79kA7zyNoaWwAmpf21p7vH) | [I Found Trouble](https://open.spotify.com/album/036hxRgtHzDUCtTzGt5Z6A) | 3:07 | 2021-12-17 | 2022-07-25 |
 | [I Got Game](https://open.spotify.com/track/4L380F6X8jQMzJGfcXnKTU) | [Nate Burnham](https://open.spotify.com/artist/0kdKIeJVJPraaKPgWjfjDf) | [I Got Game](https://open.spotify.com/album/6rrqcJxn566iuFFvF5LsSM) | 3:04 | 2021-12-17 | 2022-03-19 |
-| [I Just Killed A Man](https://open.spotify.com/track/7D9H7ROCXakc9PDf9PJZwG) | [Catie Offerman](https://open.spotify.com/artist/5uB8p8cO6UniAn2rnOsaXT) | [I Just Killed A Man](https://open.spotify.com/album/128clheSrjkaaJLnYe4ykz) | 3:32 | 2023-04-21 |  |
+| [I Just Killed A Man](https://open.spotify.com/track/7D9H7ROCXakc9PDf9PJZwG) | [Catie Offerman](https://open.spotify.com/artist/5uB8p8cO6UniAn2rnOsaXT) | [I Just Killed A Man](https://open.spotify.com/album/128clheSrjkaaJLnYe4ykz) | 3:32 | 2023-04-21 | 2024-06-01 |
 | [I Just Want You](https://open.spotify.com/track/1saE5pulEvPKbcWyRX6stQ) | [Chad Cooke Band](https://open.spotify.com/artist/7BFmW9uJ3wCZmZxpr03u0H) | [FREE](https://open.spotify.com/album/3rSKjvRVAGtNE038X3pjXb) | 3:44 | 2022-11-18 | 2023-06-23 |
 | [I Just Want You](https://open.spotify.com/track/2RAuxKLHNvjn9fBRJVTGqi) | [Chad Cooke Band](https://open.spotify.com/artist/7BFmW9uJ3wCZmZxpr03u0H) | [I Just Want You](https://open.spotify.com/album/7cdDtUoGbIgVDEkFaS3rA6) | 3:44 | 2022-01-28 | 2022-11-06 |
 | [I Will Find You](https://open.spotify.com/track/05KJqisYJmofxTbwY5qWWM) | [Walt Wilkins](https://open.spotify.com/artist/7ibIGIariNNiQyafUQ6Oqg), [Tip Jar](https://open.spotify.com/artist/0efqZTMypVgrLzEb7syIOT) | [I Will Find You](https://open.spotify.com/album/2n5ktGzFUxyj8zOogB0929) | 3:24 | 2021-12-31 | 2022-03-19 |

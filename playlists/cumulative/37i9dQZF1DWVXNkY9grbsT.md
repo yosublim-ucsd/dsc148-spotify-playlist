@@ -2,7 +2,7 @@
 
 ### [Electronic X](https://open.spotify.com/playlist/37i9dQZF1DWVXNkY9grbsT)
 
-> Genre\-defying artists pushing boundaries in electronic ambient music\. Cover: JakoJako
+> Genre\-defying artists pushing boundaries in electronic ambient music.
 
 380 songs - 1 day 8 hr 0 min
 

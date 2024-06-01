@@ -4,7 +4,7 @@
 
 > Podcasts you need to have on your RADAR: Big Small Talk with Hannah Ferguson and Sarah Jane Adams.
 
-43 songs - 1 day 13 hr 52 min
+45 songs - 1 day 15 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [14 \| Fit and Firing ft\. Connor Rogers](https://open.spotify.com/episode/4wHd9b9TSvkvbrohLvlMbu) | [Goes Alright](https://open.spotify.com/show/1MtrNAs7qBUXqGv1LX5goD) | [Goes Alright](https://open.spotify.com/show/1MtrNAs7qBUXqGv1LX5goD) | 46:16 | 2022-07-21 | 2023-01-20 |
 | [Alone But Not Lonely](https://open.spotify.com/episode/1qfnRn70wfKwc3GoVR19ww) | [GIRL CODE](https://open.spotify.com/show/0Az9bdwsVeYcOhm2FMhnlX) | [GIRL CODE](https://open.spotify.com/show/0Az9bdwsVeYcOhm2FMhnlX) | 33:15 | 2022-07-21 | 2023-01-20 |
 | [Baby Reindeer, Bieber Pregnancy & \#BlockOut2024](https://open.spotify.com/episode/55vnwfaBDBakUtIQnsoxtU) | [Big Small Talk](https://open.spotify.com/show/73sgbEhXdXbFqKZoc1zgqk) | [Big Small Talk](https://open.spotify.com/album/73sgbEhXdXbFqKZoc1zgqk) | 56:55 | 2024-05-15 |  |
+| [Billie Eilish Disses Taylor Swift, Ozempic & News Corp’s Chat GPT deal](https://open.spotify.com/episode/40x1UoiJjPk7pz1W64GrJC) | [Big Small Talk](https://open.spotify.com/show/73sgbEhXdXbFqKZoc1zgqk) | [Big Small Talk](https://open.spotify.com/album/73sgbEhXdXbFqKZoc1zgqk) | 46:56 | 2024-05-30 |  |
 | [Channel Seven, JK Rowling & Rebel Wilson's Memoir](https://open.spotify.com/episode/7puwd9TW2COcoDJRaqXkUB) | [Big Small Talk](https://open.spotify.com/show/73sgbEhXdXbFqKZoc1zgqk) | [Big Small Talk](https://open.spotify.com/album/73sgbEhXdXbFqKZoc1zgqk) | 1:00:50 | 2024-04-30 |  |
 | [Episode 114: Joan of Arc, the Saviour of France](https://open.spotify.com/episode/7aZ4UHNYzApJUOxoSdObzZ) | [Half\-Arsed History](https://open.spotify.com/show/1lKUxhXQys01cUobsYmjR0) | [Half\-Arsed History](https://open.spotify.com/album/1lKUxhXQys01cUobsYmjR0) | 49:37 | 2023-10-04 | 2024-05-01 |
 | [Episode 139: The History of the Toilet](https://open.spotify.com/episode/0cA8tTUPxrLJq0vPswmbzJ) | [Half\-Arsed History](https://open.spotify.com/show/1lKUxhXQys01cUobsYmjR0) | [Half\-Arsed History](https://open.spotify.com/album/1lKUxhXQys01cUobsYmjR0) | 56:02 | 2023-10-04 | 2024-05-01 |
@@ -51,5 +52,6 @@
 | [They Don't Sleep In The Same Bed? 😬](https://open.spotify.com/episode/2dibjBZEFuj0Tt0qcufMBL) | [We Don't Have Time For This](https://open.spotify.com/show/1kGC1I1xEJiom7tqRLUKnJ) | [We Don't Have Time For This](https://open.spotify.com/album/1kGC1I1xEJiom7tqRLUKnJ) | 41:27 | 2023-10-04 | 2024-05-01 |
 | [Time To Reset & Refocus](https://open.spotify.com/episode/1xt6WyZwoYHaBEW0Zwq4oA) | [GIRL CODE](https://open.spotify.com/show/0Az9bdwsVeYcOhm2FMhnlX) | [GIRL CODE](https://open.spotify.com/show/0Az9bdwsVeYcOhm2FMhnlX) | 45:16 | 2022-06-27 | 2023-01-20 |
 | [Weinstein, Drake vs Kendrick & Trump](https://open.spotify.com/episode/1H8Sbxk8pxicdQUTVYDYfc) | [Big Small Talk](https://open.spotify.com/show/73sgbEhXdXbFqKZoc1zgqk) | [Big Small Talk](https://open.spotify.com/album/73sgbEhXdXbFqKZoc1zgqk) | 56:29 | 2024-04-30 |  |
+| [Whistleblower Jailed, Budget & Australian Fashion Week](https://open.spotify.com/episode/6Yz76VEplXQ7siLtfXCM0V) | [Big Small Talk](https://open.spotify.com/show/73sgbEhXdXbFqKZoc1zgqk) | [Big Small Talk](https://open.spotify.com/album/73sgbEhXdXbFqKZoc1zgqk) | 55:37 | 2024-05-30 |  |
 
 \*This playlist was first scraped on 2022-09-17. Prior content cannot be recovered.

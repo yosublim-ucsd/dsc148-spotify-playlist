@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Fuego y Pasi\u00f3n. Pasi\u00f3n Cordobesa, pasi\u00f3n Argentina. \nFoto: Valentino Merlo & Q' Lokura.",
+  "description": "Fuego y Pasi\u00f3n. Pasi\u00f3n Cordobesa, pasi\u00f3n Argentina. \nFoto: Valentina Marquez.",
   "name": "100% Cuarteto",
   "tracks": [
     {
@@ -342,7 +342,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 233184,
       "name": "Algo M\u00e1s / Az\u00facar Amargo",
       "url": "https://open.spotify.com/track/1OHDQiWQQaQHtJboLbrgti"
@@ -1840,7 +1840,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-27",
+      "date_removed": null,
       "duration_ms": 387552,
       "name": "De Quien Es la Culpa / Como Lo Hacias Con El",
       "url": "https://open.spotify.com/track/0GWrX4qSvHTnpWLhHRRrZi"
@@ -1898,6 +1898,28 @@
       "duration_ms": 204601,
       "name": "Desordenada",
       "url": "https://open.spotify.com/track/4xpDz9jAnK1YNtokl15AxJ"
+    },
+    {
+      "album": {
+        "name": "Despacio",
+        "url": "https://open.spotify.com/album/5VP2UhFpMWXYgPt6h0XoRx"
+      },
+      "artists": [
+        {
+          "name": "Valentina Marquez",
+          "url": "https://open.spotify.com/artist/3O5RpnQurugPG3Btl8UBPC"
+        },
+        {
+          "name": "Simon Aguirre",
+          "url": "https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186461,
+      "name": "Despacio",
+      "url": "https://open.spotify.com/track/6YzNwxDMTOa98d8Leb7lOx"
     },
     {
       "album": {
@@ -2923,6 +2945,32 @@
     },
     {
       "album": {
+        "name": "HOLA PERDIDA REMIX",
+        "url": "https://open.spotify.com/album/5s4gYQChmlp8YwoNj3Vwi2"
+      },
+      "artists": [
+        {
+          "name": "Luck Ra",
+          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201030,
+      "name": "HOLA PERDIDA REMIX",
+      "url": "https://open.spotify.com/track/2FqTbwiogEVvZnkarPf5BV"
+    },
+    {
+      "album": {
         "name": "Homenaje a Walter Romero (Session Live #1)",
         "url": "https://open.spotify.com/album/26WnmErlKWQYKrKBwVyJxM"
       },
@@ -3508,7 +3556,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 126802,
       "name": "La Original",
       "url": "https://open.spotify.com/track/3rwwYhKLxeIOJxddjizjMX"
@@ -6441,6 +6489,28 @@
     },
     {
       "album": {
+        "name": "Qu\u00e9 Bonito (en vivo Luna Park)",
+        "url": "https://open.spotify.com/album/3UVCcXjNO7PnnvZAoZVR0O"
+      },
+      "artists": [
+        {
+          "name": "Banda XXI",
+          "url": "https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo"
+        },
+        {
+          "name": "Miguel Alejandro",
+          "url": "https://open.spotify.com/artist/0d2A861NEFqVpEogrYewVJ"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155913,
+      "name": "Qu\u00e9 Bonito (en vivo Luna Park)",
+      "url": "https://open.spotify.com/track/00VddhKPOxqdUzyO7sVtfV"
+    },
+    {
+      "album": {
         "name": "Qu\u00e9 Se Siente",
         "url": "https://open.spotify.com/album/3MdKZToIbpXYiQbzrvCBpG"
       },
@@ -7196,7 +7266,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 152524,
       "name": "Te Felicito",
       "url": "https://open.spotify.com/track/2fFCL1cbivwt9v9jerCgmf"
@@ -8502,7 +8572,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 204000,
       "name": "Ya No Vuelvas (Versi\u00f3n Cuarteto)",
       "url": "https://open.spotify.com/track/6jRZ33ifS5VOTMwmPxhPhN"

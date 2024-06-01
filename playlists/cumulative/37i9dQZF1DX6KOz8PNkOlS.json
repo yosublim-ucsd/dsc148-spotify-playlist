@@ -320,7 +320,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 207535,
       "name": "Black Light",
       "url": "https://open.spotify.com/track/0HIoqptSi0bei1EkpZ9FNT"
@@ -864,7 +864,7 @@
       ],
       "date_added": "2022-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-28",
+      "date_removed": null,
       "duration_ms": 197763,
       "name": "Fallaway",
       "url": "https://open.spotify.com/track/0x0I35jX48pVLSV7Fljiqd"
@@ -998,6 +998,24 @@
       "duration_ms": 241080,
       "name": "Fragile",
       "url": "https://open.spotify.com/track/608wYP5XWenLz8cOSYjX7X"
+    },
+    {
+      "album": {
+        "name": "Here in the Pitch",
+        "url": "https://open.spotify.com/album/7hUAyfpXkSE2JT5gOORZO0"
+      },
+      "artists": [
+        {
+          "name": "Jessica Pratt",
+          "url": "https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205413,
+      "name": "Get Your Head Out",
+      "url": "https://open.spotify.com/track/6W6J3cFFQmrAMErlHJPzDJ"
     },
     {
       "album": {
@@ -1338,7 +1356,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 331746,
       "name": "I'm Dancing",
       "url": "https://open.spotify.com/track/7gGObhepvI410Fys1avsdp"

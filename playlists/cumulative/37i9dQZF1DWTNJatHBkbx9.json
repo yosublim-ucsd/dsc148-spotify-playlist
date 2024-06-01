@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-05-14",
-  "description": "From the alternative scene in Ghana. Cover: SUPERJAZZCLUB",
+  "description": "From the alternative scene in Ghana. Cover: Y'AKOTO",
   "name": "Alt. Ghana",
   "tracks": [
     {
@@ -218,7 +218,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 201818,
       "name": "Blue Jeans",
       "url": "https://open.spotify.com/track/5hDjWc5A1zOonjMrikQpuQ"
@@ -274,6 +274,28 @@
       "duration_ms": 182250,
       "name": "CALENDAR (with Moliy)",
       "url": "https://open.spotify.com/track/604gUD6KPH4SuIPREK1RZD"
+    },
+    {
+      "album": {
+        "name": "Care for Me",
+        "url": "https://open.spotify.com/album/7h4TcEGnVxb2LcnVsnLFwF"
+      },
+      "artists": [
+        {
+          "name": "Moffy",
+          "url": "https://open.spotify.com/artist/3kimFDAjJ9z2uZuOhl4mK9"
+        },
+        {
+          "name": "Loise",
+          "url": "https://open.spotify.com/artist/6S34Jo3KlPo37Sx49teOHG"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122352,
+      "name": "Care for Me",
+      "url": "https://open.spotify.com/track/05eSoMEib8nD2HLaMRi5Qx"
     },
     {
       "album": {
@@ -426,7 +448,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 127763,
       "name": "Gbonyo Party",
       "url": "https://open.spotify.com/track/74UDz0eNWuVPowvxAo9qTk"
@@ -590,6 +612,24 @@
       "duration_ms": 165500,
       "name": "Jolie",
       "url": "https://open.spotify.com/track/2BqNhy0Fc6VZk6TfQu5DDY"
+    },
+    {
+      "album": {
+        "name": "Just Breathe",
+        "url": "https://open.spotify.com/album/32dEuOayJMbdk4EbGWsPcs"
+      },
+      "artists": [
+        {
+          "name": "Robin-Huws",
+          "url": "https://open.spotify.com/artist/1RcO4pGVPhNqj44hJL8bjA"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195537,
+      "name": "Just Breathe",
+      "url": "https://open.spotify.com/track/4TScWOVUA0ae8vN4OynnPJ"
     },
     {
       "album": {
@@ -761,6 +801,24 @@
     },
     {
       "album": {
+        "name": "Nobody",
+        "url": "https://open.spotify.com/album/4FTBxW8fSHSZwHg69DbWso"
+      },
+      "artists": [
+        {
+          "name": "Titi Owusu",
+          "url": "https://open.spotify.com/artist/1zFAZYHVVh6hgb0q6dVaVV"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160823,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/5qecyCoEoIhKUf47iT67qA"
+    },
+    {
+      "album": {
         "name": "Not Yet",
         "url": "https://open.spotify.com/album/6SDFshZ7AQfrahxEFaaxeD"
       },
@@ -867,6 +925,32 @@
     },
     {
       "album": {
+        "name": "PAIN DAIRIES",
+        "url": "https://open.spotify.com/album/4oYjflAodhMmzXXBCbxFU2"
+      },
+      "artists": [
+        {
+          "name": "ACE ILLY",
+          "url": "https://open.spotify.com/artist/4WgGQaorBvGbsZqOKXk9Wj"
+        },
+        {
+          "name": "Essumann",
+          "url": "https://open.spotify.com/artist/5bIgrR7520MmcNA4gMGPc1"
+        },
+        {
+          "name": "Kojo Trilla",
+          "url": "https://open.spotify.com/artist/7mmtBuQzPDjAzgiyYFJO55"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179777,
+      "name": "PAIN DIARIES",
+      "url": "https://open.spotify.com/track/7xvfAfqdSPrTkz8zWGKvkR"
+    },
+    {
+      "album": {
         "name": "Party Pooper",
         "url": "https://open.spotify.com/album/51ZolHWaY2WRNxUdMXmZ86"
       },
@@ -948,10 +1032,32 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 168179,
       "name": "Prayed Up",
       "url": "https://open.spotify.com/track/2NnTgv3KgB4YhbFzxHuK4q"
+    },
+    {
+      "album": {
+        "name": "Prayer (Live)",
+        "url": "https://open.spotify.com/album/1eXgEtovqYHW2jbv3WXRqn"
+      },
+      "artists": [
+        {
+          "name": "Ayisi",
+          "url": "https://open.spotify.com/artist/1MGX3ZU8JMwM05waT6BBvU"
+        },
+        {
+          "name": "Nkyinkyim Band",
+          "url": "https://open.spotify.com/artist/1qoUQEmRFGuO84lrxksaE1"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186486,
+      "name": "Prayer - Live",
+      "url": "https://open.spotify.com/track/7xosA2c0k6mBhqnghpA4au"
     },
     {
       "album": {
@@ -1046,7 +1152,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 132127,
       "name": "Rhythms and Blues",
       "url": "https://open.spotify.com/track/0a3rLv5MLUxKJjSWPsYYIy"
@@ -1064,7 +1170,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 176704,
       "name": "Sexy Depression",
       "url": "https://open.spotify.com/track/4rxRHC2KKFuW5pdpwHrQlu"
@@ -1086,6 +1192,24 @@
       "duration_ms": 171685,
       "name": "Shameless",
       "url": "https://open.spotify.com/track/32CXAexi7NfqCVwqcv1EQo"
+    },
+    {
+      "album": {
+        "name": "Silver Lining",
+        "url": "https://open.spotify.com/album/6Ow2LB1hUicQBaQ3mgkgJm"
+      },
+      "artists": [
+        {
+          "name": "Y'akoto",
+          "url": "https://open.spotify.com/artist/2JehOBriwVSalkeqL3noMM"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173603,
+      "name": "Silver Lining",
+      "url": "https://open.spotify.com/track/4mRI3XA0lzqmdrI7SFawFs"
     },
     {
       "album": {
@@ -1118,7 +1242,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 121198,
       "name": "Special Ting",
       "url": "https://open.spotify.com/track/0ffu2K1gzPsyQGxUwy0OPZ"

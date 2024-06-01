@@ -183,6 +183,32 @@
     },
     {
       "album": {
+        "name": "3la Wara2a",
+        "url": "https://open.spotify.com/album/419f6PDJdRxfmCFBaTHwND"
+      },
+      "artists": [
+        {
+          "name": "Mared",
+          "url": "https://open.spotify.com/artist/3L9d0CszrLEIR0mCG2eTkV"
+        },
+        {
+          "name": "Nubi",
+          "url": "https://open.spotify.com/artist/4ov2ncahZ4b7oLCds5fre8"
+        },
+        {
+          "name": "Big Moe",
+          "url": "https://open.spotify.com/artist/6sBqHpSlcT0xxekqD15BTn"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172961,
+      "name": "3la Wara2a",
+      "url": "https://open.spotify.com/track/20KrweTJAU2y90iMkj78Lk"
+    },
+    {
+      "album": {
         "name": "3latol",
         "url": "https://open.spotify.com/album/4dMol51wkB8izKa8Z9AlOx"
       },

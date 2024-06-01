@@ -1,6 +1,6 @@
 {
   "description": "to the people who look at the stars and wish \ud83e\uddda\u200d\u2640\ufe0f Lana Del Rey",
-  "num_followers": 14478,
+  "num_followers": 14501,
   "original_name": "Faerie Core",
   "owner": {
     "name": "Spotify",
@@ -375,26 +375,6 @@
     {
       "added_at": "2024-05-07 00:40:46",
       "album": {
-        "name": "snowfall (Sped Up)",
-        "url": "https://open.spotify.com/album/5zcMc4yNr5oWoF67bNpX6g"
-      },
-      "artists": [
-        {
-          "name": "\u00d8neheart",
-          "url": "https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X"
-        },
-        {
-          "name": "reidenshi",
-          "url": "https://open.spotify.com/artist/6SdlxyPsQ3B0yYncFmDULP"
-        }
-      ],
-      "duration_ms": 110580,
-      "name": "snowfall (Sped Up)",
-      "url": "https://open.spotify.com/track/2kU3tL5BVXkFLefXLy8pBi"
-    },
-    {
-      "added_at": "2024-05-07 00:40:46",
-      "album": {
         "name": "Dear Wormwood",
         "url": "https://open.spotify.com/album/6wYIs564dOi2lOT9bGYPLK"
       },
@@ -423,6 +403,26 @@
       "duration_ms": 252880,
       "name": "invisible string",
       "url": "https://open.spotify.com/track/6VsvKPJ4xjVNKpI8VVZ3SV"
+    },
+    {
+      "added_at": "2024-05-07 00:40:46",
+      "album": {
+        "name": "snowfall (Sped Up)",
+        "url": "https://open.spotify.com/album/5zcMc4yNr5oWoF67bNpX6g"
+      },
+      "artists": [
+        {
+          "name": "\u00d8neheart",
+          "url": "https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X"
+        },
+        {
+          "name": "reidenshi",
+          "url": "https://open.spotify.com/artist/6SdlxyPsQ3B0yYncFmDULP"
+        }
+      ],
+      "duration_ms": 110580,
+      "name": "snowfall (Sped Up)",
+      "url": "https://open.spotify.com/track/2kU3tL5BVXkFLefXLy8pBi"
     },
     {
       "added_at": "2024-05-07 00:40:46",
@@ -879,22 +879,6 @@
     {
       "added_at": "2024-05-07 00:40:46",
       "album": {
-        "name": "Just Another Diamond Day",
-        "url": "https://open.spotify.com/album/6BjFznpsyrxCFMpp3hzlD2"
-      },
-      "artists": [
-        {
-          "name": "Vashti Bunyan",
-          "url": "https://open.spotify.com/artist/4chuPfKtATDZvbRLExsTp2"
-        }
-      ],
-      "duration_ms": 135453,
-      "name": "I'd Like To Walk Around In Your Mind",
-      "url": "https://open.spotify.com/track/6bqB7idfAnJVisSMQA1mZQ"
-    },
-    {
-      "added_at": "2024-05-07 00:40:46",
-      "album": {
         "name": "Barrow",
         "url": "https://open.spotify.com/album/6IXODAifKEyJazakNSQB4V"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 398851,
       "name": "Sodus",
       "url": "https://open.spotify.com/track/1cyRoWGazsa8Vr5qlDfvPP"
+    },
+    {
+      "added_at": "2024-05-07 00:40:46",
+      "album": {
+        "name": "Just Another Diamond Day",
+        "url": "https://open.spotify.com/album/6BjFznpsyrxCFMpp3hzlD2"
+      },
+      "artists": [
+        {
+          "name": "Vashti Bunyan",
+          "url": "https://open.spotify.com/artist/4chuPfKtATDZvbRLExsTp2"
+        }
+      ],
+      "duration_ms": 135453,
+      "name": "I'd Like To Walk Around In Your Mind",
+      "url": "https://open.spotify.com/track/6bqB7idfAnJVisSMQA1mZQ"
     },
     {
       "added_at": "2024-05-07 00:40:46",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2024-05-07 00:40:46",
       "album": {
-        "name": "Five Leaves Left",
-        "url": "https://open.spotify.com/album/7IpcJbVxLLEfW0KXB7ndE2"
-      },
-      "artists": [
-        {
-          "name": "Nick Drake",
-          "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
-        }
-      ],
-      "duration_ms": 258680,
-      "name": "River Man",
-      "url": "https://open.spotify.com/track/3Uh7rAb7F0XGVpEEDwfH1k"
-    },
-    {
-      "added_at": "2024-05-07 00:40:46",
-      "album": {
         "name": "It'll End In Tears (Remastered)",
         "url": "https://open.spotify.com/album/5gMiiXVgUFVUIHKXC57a0j"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 211093,
       "name": "Song To The Siren - Remastered",
       "url": "https://open.spotify.com/track/26uVYNtKahTAcZMDWiuBnt"
+    },
+    {
+      "added_at": "2024-05-07 00:40:46",
+      "album": {
+        "name": "Five Leaves Left",
+        "url": "https://open.spotify.com/album/7IpcJbVxLLEfW0KXB7ndE2"
+      },
+      "artists": [
+        {
+          "name": "Nick Drake",
+          "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
+        }
+      ],
+      "duration_ms": 258680,
+      "name": "River Man",
+      "url": "https://open.spotify.com/track/3Uh7rAb7F0XGVpEEDwfH1k"
     },
     {
       "added_at": "2024-05-07 00:40:46",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2024-05-07 00:40:46",
       "album": {
-        "name": "Slow Day",
-        "url": "https://open.spotify.com/album/0yNQyK4joAmwj8XNawKaQo"
-      },
-      "artists": [
-        {
-          "name": "Franz Gordon",
-          "url": "https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g"
-        }
-      ],
-      "duration_ms": 209464,
-      "name": "Airy-Fairy Heart",
-      "url": "https://open.spotify.com/track/6YYv6hemXnF3GCYtMv8Gkh"
-    },
-    {
-      "added_at": "2024-05-07 00:40:46",
-      "album": {
         "name": "In the Wind",
         "url": "https://open.spotify.com/album/18mso9k7h5CuhwZjeJDaoW"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 108571,
       "name": "In Your Dreams",
       "url": "https://open.spotify.com/track/5TdDevaXlEl6EEaMNStiVk"
+    },
+    {
+      "added_at": "2024-05-07 00:40:46",
+      "album": {
+        "name": "Slow Day",
+        "url": "https://open.spotify.com/album/0yNQyK4joAmwj8XNawKaQo"
+      },
+      "artists": [
+        {
+          "name": "Franz Gordon",
+          "url": "https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g"
+        }
+      ],
+      "duration_ms": 209464,
+      "name": "Airy-Fairy Heart",
+      "url": "https://open.spotify.com/track/6YYv6hemXnF3GCYtMv8Gkh"
     }
   ],
   "unique_name": "Faerie Core",

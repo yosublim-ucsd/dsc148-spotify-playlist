@@ -628,7 +628,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-25",
+      "date_removed": null,
       "duration_ms": 168000,
       "name": "Bender",
       "url": "https://open.spotify.com/track/6dvErRnYpGdS2wGXameNij"
@@ -804,7 +804,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 151232,
       "name": "Blocked Up",
       "url": "https://open.spotify.com/track/0NEvAF25ReDYyBfh2NwZ7V"
@@ -1861,6 +1861,24 @@
     },
     {
       "album": {
+        "name": "DIMENSIONS",
+        "url": "https://open.spotify.com/album/6oWwk2twiHE14qLrxOSmyS"
+      },
+      "artists": [
+        {
+          "name": "FrostTop",
+          "url": "https://open.spotify.com/artist/6T9vLiLn2HpWHNaaEajGB4"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155200,
+      "name": "DIMENSIONS",
+      "url": "https://open.spotify.com/track/4msDV8woKgp0ZeF16NcEdU"
+    },
+    {
+      "album": {
         "name": "DIY",
         "url": "https://open.spotify.com/album/7CURbqdBFzwEBVN6Hk8h6F"
       },
@@ -2588,7 +2606,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 242769,
       "name": "Fake Love",
       "url": "https://open.spotify.com/track/3V01lo0H5LgRRjbJBpkGEE"
@@ -2628,7 +2646,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 242400,
       "name": "Farrda - Visages Remix",
       "url": "https://open.spotify.com/track/4WP6u90c3ygryF4NYIobGZ"
@@ -3555,6 +3573,28 @@
     },
     {
       "album": {
+        "name": "definitely not trap",
+        "url": "https://open.spotify.com/album/635AhI1h8sPSRnhlaak6BG"
+      },
+      "artists": [
+        {
+          "name": "as\u00e1u",
+          "url": "https://open.spotify.com/artist/4lNObJySHIKhPZdfGtZgE0"
+        },
+        {
+          "name": "Golden Child",
+          "url": "https://open.spotify.com/artist/2LXnlHvRvGIIR8wegJfTVR"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145116,
+      "name": "hardcore",
+      "url": "https://open.spotify.com/track/3QiUwncYrc6BfP5VSXH6e2"
+    },
+    {
+      "album": {
         "name": "Harlem Shake",
         "url": "https://open.spotify.com/album/5H0yFEG5FT0tccZRSdNvVU"
       },
@@ -3708,7 +3748,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 188312,
       "name": "Hi-Jack",
       "url": "https://open.spotify.com/track/6Osa28ML4Fl9lkztLorLVT"
@@ -4579,6 +4619,24 @@
     },
     {
       "album": {
+        "name": "JUSTWANNA",
+        "url": "https://open.spotify.com/album/5MQfIn2aqrT75fyA0tWrLZ"
+      },
+      "artists": [
+        {
+          "name": "BLVZE",
+          "url": "https://open.spotify.com/artist/2FAwXIzmUIwtmYsUb5V1i2"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "JUSTWANNA",
+      "url": "https://open.spotify.com/track/5RJWNiO3z6OsReIFZ2pVLs"
+    },
+    {
+      "album": {
         "name": "Starman",
         "url": "https://open.spotify.com/album/1ICtb6Z2tf7ZgVZy9VTp8Z"
       },
@@ -4988,6 +5046,28 @@
       "duration_ms": 256500,
       "name": "Lone Wolf",
       "url": "https://open.spotify.com/track/76I3PmbGZazzNlEwlp1y85"
+    },
+    {
+      "album": {
+        "name": "LONESUM",
+        "url": "https://open.spotify.com/album/2WH0ugu7j4bRskcIM6vpgM"
+      },
+      "artists": [
+        {
+          "name": "Shadient",
+          "url": "https://open.spotify.com/artist/6ADRET3UXTOmGBjjO67fNd"
+        },
+        {
+          "name": "nikko",
+          "url": "https://open.spotify.com/artist/5fEybpxnFCsR5r5UeyEFiq"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241681,
+      "name": "LONESUM",
+      "url": "https://open.spotify.com/track/1fBXuxv3zwdJHiFPolGZYe"
     },
     {
       "album": {
@@ -6166,7 +6246,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 123600,
       "name": "oh ah",
       "url": "https://open.spotify.com/track/31fAQ8MjS5r3hgIQMx17Pn"
@@ -6785,6 +6865,28 @@
     },
     {
       "album": {
+        "name": "Reload",
+        "url": "https://open.spotify.com/album/6xJwWFF0cvfYJZb37gOSDd"
+      },
+      "artists": [
+        {
+          "name": "Stooki Sound",
+          "url": "https://open.spotify.com/artist/6ky7h0ow6NQgAnsoN2AB7h"
+        },
+        {
+          "name": "Farrah Fawx",
+          "url": "https://open.spotify.com/artist/5xcBwfNxf3WXLFZcNhu2Cy"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190638,
+      "name": "Reload",
+      "url": "https://open.spotify.com/track/462nXB3AdPiQ61cbPE1hvG"
+    },
+    {
+      "album": {
         "name": "Remember 01",
         "url": "https://open.spotify.com/album/2snP3VAdPPSFNoxWx89l4L"
       },
@@ -6906,7 +7008,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 120508,
       "name": "ROUND AFTER ROUND",
       "url": "https://open.spotify.com/track/1C4kWP8ni5B043m2E0Sk1y"
@@ -7649,6 +7751,28 @@
     },
     {
       "album": {
+        "name": "STAR",
+        "url": "https://open.spotify.com/album/2jpkVxhoglMcYGcOHUK0Mt"
+      },
+      "artists": [
+        {
+          "name": "ROSSY",
+          "url": "https://open.spotify.com/artist/4wJ7gER76tRe6yTO87KySS"
+        },
+        {
+          "name": "Princess Superstar",
+          "url": "https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161600,
+      "name": "STAR",
+      "url": "https://open.spotify.com/track/1OpTjMoIfQqUjwsnw9sfcX"
+    },
+    {
+      "album": {
         "name": "We Are Deadbeats (Vol. 4)",
         "url": "https://open.spotify.com/album/0M5oUKrfgJtfZUKdFsC4VZ"
       },
@@ -8201,6 +8325,24 @@
     },
     {
       "album": {
+        "name": "The Rhythm",
+        "url": "https://open.spotify.com/album/3EGqYHIkt1tIrXTbP4Y9dg"
+      },
+      "artists": [
+        {
+          "name": "Martron",
+          "url": "https://open.spotify.com/artist/25Amc1hdYDyPHAeprRXCgx"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124600,
+      "name": "The Rhythm",
+      "url": "https://open.spotify.com/track/3OMlrlmSVQ2HRGWi2pnrPu"
+    },
+    {
+      "album": {
         "name": "Thief (Flux Pavilion Remix)",
         "url": "https://open.spotify.com/album/4kFd3dIqukGfolHILzWddZ"
       },
@@ -8566,7 +8708,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 200000,
       "name": "Tried It All",
       "url": "https://open.spotify.com/track/4Bx6xOt1SNKt4dzG6WIxKD"
@@ -8862,7 +9004,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 198620,
       "name": "Unravel",
       "url": "https://open.spotify.com/track/1Znaz0Gu7sfHQHP0vDGG5V"
@@ -9104,6 +9246,24 @@
       "duration_ms": 154616,
       "name": "WARDOGZ",
       "url": "https://open.spotify.com/track/6BSPfADBMriOIJmiNnc6mC"
+    },
+    {
+      "album": {
+        "name": "FLASH",
+        "url": "https://open.spotify.com/album/62wovOE6hpDM60KNznqK8L"
+      },
+      "artists": [
+        {
+          "name": "Squired",
+          "url": "https://open.spotify.com/artist/23Ud9TI3CpiqMUY6tBZEb6"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141000,
+      "name": "Watch Me Take It",
+      "url": "https://open.spotify.com/track/3di8gtp6wVCk6qbfhlwA4l"
     },
     {
       "album": {
@@ -9374,7 +9534,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-01",
       "duration_ms": 219718,
       "name": "Your Lovin'",
       "url": "https://open.spotify.com/track/3awHSnJDVnHm3cNCLI9sOf"

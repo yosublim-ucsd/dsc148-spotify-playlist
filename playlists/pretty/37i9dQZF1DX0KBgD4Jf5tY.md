@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 
 > Il meglio della musica indipendente italiana, aggiornata il terzo mercoledì di ogni mese\. Cover: <a href="spotify:artist:016AD2neE2X7e0ChuREr4o">Santamarea</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,430 likes - 60 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,438 likes - 60 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 | 14 | [SUPERMARIO](https://open.spotify.com/track/2wZxrS864gsfTcMyF6Op5f) | [Luchino Luce](https://open.spotify.com/artist/6wqUUpbLC6kOWt6FAMzDnH) | [SUPERMARIO](https://open.spotify.com/album/4OltihcQ9anqIVS4zrCURv) | 3:21 |
 | 15 | [Annegare](https://open.spotify.com/track/1tRiIxEcYdMYvyHHp7vQKM) | [jiojio](https://open.spotify.com/artist/5af5HLW8lfAgK2ocZKwgrp) | [Annegare](https://open.spotify.com/album/3r95jiwOQ9Xnym5m7BPCGT) | 2:32 |
 | 16 | [Appeso](https://open.spotify.com/track/7oQ5HBhVM1u5qsoyPkenGh) | [tellynonpiangere](https://open.spotify.com/artist/2n8rCH14DAnaBWMdkfj9hv) | [Appeso](https://open.spotify.com/album/3NcnHCFnHCbZcUO6bglpqn) | 2:05 |
-| 17 | [andateaffnculotutti](https://open.spotify.com/track/17TBj8gZYSBGSeoD9TBKpo) | [bhadmari](https://open.spotify.com/artist/22byg3Xzd14XU81AgdRvOG) | [TUTTOSBAGLIATO](https://open.spotify.com/album/74x1PwNA0C6CrMb74PhSd6) | 2:37 |
+| 17 | [andateafanculotutti](https://open.spotify.com/track/17TBj8gZYSBGSeoD9TBKpo) | [bhadmari](https://open.spotify.com/artist/22byg3Xzd14XU81AgdRvOG) | [TUTTOSBAGLIATO](https://open.spotify.com/album/74x1PwNA0C6CrMb74PhSd6) | 2:37 |
 | 18 | [CRISTALLIDE](https://open.spotify.com/track/7aMEvNX9fjkn7wPxEBNruB) | [MANTIS](https://open.spotify.com/artist/2B9UBUaerwqqf0y1cAKKkQ), [xx.buio](https://open.spotify.com/artist/79fm1bknXIjgvx5kMmzOm6) | [CRISTALLIDE](https://open.spotify.com/album/7e1GfmR4DB5J5TCCfYoGhG) | 3:06 |
 | 19 | [Non ti scusare \(Anna\)](https://open.spotify.com/track/2DjQsMws5zgO7PYXK8pLmb) | [Schiuma](https://open.spotify.com/artist/3HjRoFEZwL58GYiXQ0KNlD) | [Non ti scusare \(Anna\)](https://open.spotify.com/album/4Wf4LUGWsaEgREyJGDOo78) | 3:01 |
 | 20 | [CORE 'N GALERA](https://open.spotify.com/track/3Pj83i3eBuszdUSLmrz0D6) | [VISCARDI](https://open.spotify.com/artist/22dHXO4PwHpTyzfsVCWKlX), [Giada De Prisco](https://open.spotify.com/artist/4FnGClu85ET5xFRwfvePxI) | [CORE 'N GALERA](https://open.spotify.com/album/6s1EfNVu3QentGFZizdbVR) | 2:28 |
