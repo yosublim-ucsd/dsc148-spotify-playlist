@@ -557,6 +557,24 @@
     },
     {
       "album": {
+        "name": "act n' chill",
+        "url": "https://open.spotify.com/album/7MOhCxNRgpZL1TPpFX6od1"
+      },
+      "artists": [
+        {
+          "name": "HPY DAYZ",
+          "url": "https://open.spotify.com/artist/4kPDMyPezfKjzjK2q7IeWP"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "act n' chill",
+      "url": "https://open.spotify.com/track/1Q4eNqqua4EeURDyCA0sbE"
+    },
+    {
+      "album": {
         "name": "Acting Out",
         "url": "https://open.spotify.com/album/7imrc1FLahS1gK1xw9zQp9"
       },
@@ -8307,6 +8325,24 @@
     },
     {
       "album": {
+        "name": "Do not forget",
+        "url": "https://open.spotify.com/album/3uPT9OLRvCXlKGTSnviWgd"
+      },
+      "artists": [
+        {
+          "name": "Perry Goldfish",
+          "url": "https://open.spotify.com/artist/4lom5jgcjrLwLQLmdi4gQZ"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173538,
+      "name": "Do not forget",
+      "url": "https://open.spotify.com/track/1rUtzvQGTNYap9gPlEg1Er"
+    },
+    {
+      "album": {
         "name": "Do or Donut",
         "url": "https://open.spotify.com/album/1cjxiu1kPo7IKpiGkcXmPr"
       },
@@ -11386,7 +11422,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-02",
       "duration_ms": 160109,
       "name": "Follow the maze",
       "url": "https://open.spotify.com/track/2cqoll9mqMTlaJRIgoK3ko"
@@ -19321,6 +19357,28 @@
     },
     {
       "album": {
+        "name": "Matcha",
+        "url": "https://open.spotify.com/album/2BqsfiOuHmaRdp10PIpT5q"
+      },
+      "artists": [
+        {
+          "name": "Yawuh",
+          "url": "https://open.spotify.com/artist/5dFzAFmO3MGNTFcAApR6UR"
+        },
+        {
+          "name": "Koralle",
+          "url": "https://open.spotify.com/artist/3OW3qK7Wl9ESAGLvjVOw2h"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143145,
+      "name": "Matcha",
+      "url": "https://open.spotify.com/track/7M9vscwYkaJkTInBY2y6jv"
+    },
+    {
+      "album": {
         "name": "matcha latte",
         "url": "https://open.spotify.com/album/3rfSyh5x2FO3eqyoC4tohR"
       },
@@ -20132,7 +20190,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-02",
       "duration_ms": 171880,
       "name": "Mir\u00f3",
       "url": "https://open.spotify.com/track/5HbtorjBQ9pgeKI88WS6k1"
@@ -23910,7 +23968,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-02",
       "duration_ms": 138624,
       "name": "Park Life",
       "url": "https://open.spotify.com/track/6TrmKrBHA1UcepoLAoCa7A"
@@ -25636,7 +25694,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-02",
       "duration_ms": 138688,
       "name": "raft",
       "url": "https://open.spotify.com/track/4vBLwo8KRVOnq0J3tnJZaL"
@@ -25846,6 +25904,24 @@
       "duration_ms": 136719,
       "name": "Ramen Shop",
       "url": "https://open.spotify.com/track/09WM6BLZBVEpa2WAbByp5k"
+    },
+    {
+      "album": {
+        "name": "random thoughts",
+        "url": "https://open.spotify.com/album/1Ci3Z0UfK2ehgnpudw86x4"
+      },
+      "artists": [
+        {
+          "name": "softclouds",
+          "url": "https://open.spotify.com/artist/4rjXInANFMCQfAzadFAi4d"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135000,
+      "name": "random thoughts",
+      "url": "https://open.spotify.com/track/4bGIc2nxevxRU6FQ22L1mC"
     },
     {
       "album": {
@@ -30553,6 +30629,24 @@
     },
     {
       "album": {
+        "name": "sunbed",
+        "url": "https://open.spotify.com/album/4wwoExOEBwsdlcjYHgXePG"
+      },
+      "artists": [
+        {
+          "name": "Parelo",
+          "url": "https://open.spotify.com/artist/5x2rKBeovdxVizxphumkD0"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125875,
+      "name": "sunbed",
+      "url": "https://open.spotify.com/track/2pGDKCGHfj4b4UPOaRtMcq"
+    },
+    {
+      "album": {
         "name": "Sunburn (Remix)",
         "url": "https://open.spotify.com/album/5dgqvaimpNv9MePu6nHlFS"
       },
@@ -30858,6 +30952,24 @@
       "duration_ms": 126000,
       "name": "Sunny Memories",
       "url": "https://open.spotify.com/track/6SPFqeX7xcrFal3grZB46o"
+    },
+    {
+      "album": {
+        "name": "Sunny Side",
+        "url": "https://open.spotify.com/album/3qhjESGg47HWA4vcRdS8TZ"
+      },
+      "artists": [
+        {
+          "name": "ninetytwo.",
+          "url": "https://open.spotify.com/artist/1Yzx8FiVWsNloEWaBpXk7V"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118651,
+      "name": "Sunny Side",
+      "url": "https://open.spotify.com/track/50IYpgJ4swioyNFfti9M6l"
     },
     {
       "album": {
@@ -31552,7 +31664,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-02",
       "duration_ms": 132000,
       "name": "Takeabreakalready",
       "url": "https://open.spotify.com/track/4VoR1xfGqYRUKPajzDsNwc"
@@ -36664,7 +36776,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-02",
       "duration_ms": 105903,
       "name": "Zlatan",
       "url": "https://open.spotify.com/track/2KXPb5Q3UQYFx6kmJesS2F"

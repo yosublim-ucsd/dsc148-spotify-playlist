@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 
 > Descubre los nuevos álbumes del 2024\. Hit shuffle for a mixed listening experience\. Cover: legallyrxx
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,088 likes - 371 songs - 19 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,096 likes - 371 songs - 19 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,9 +22,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 | 12 | [Fkn Mentiroso](https://open.spotify.com/track/7KsWmc9QUJo8f9dQlOAqI0) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Hotel Caracas](https://open.spotify.com/album/5ZH7IdEga8gne83NYz8nsS) | 2:19 |
 | 13 | [Te Amé Temprano](https://open.spotify.com/track/0lWowR8X67uvdZLAOpVcTa) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [IRENE ALEJANDRA](https://open.spotify.com/album/1EtK1Zju9gAMz9uoQ0q9rb) | 3:37 |
 | 14 | [Los Domingos La Paso Solita](https://open.spotify.com/track/5u2Xd6Qx1lwpoxCj378nUz) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [IRENE ALEJANDRA](https://open.spotify.com/album/1EtK1Zju9gAMz9uoQ0q9rb) | 3:19 |
-| 15 | [Avísame](https://open.spotify.com/track/05SIgsBrUqHgK09TLg0B3O) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [IRENE ALEJANDRA](https://open.spotify.com/album/1EtK1Zju9gAMz9uoQ0q9rb) | 3:11 |
+| 15 | [Avísame](https://open.spotify.com/track/05SIgsBrUqHgK09TLg0B3O) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [IRENE ALEJANDRA](https://open.spotify.com/album/1EtK1Zju9gAMz9uoQ0q9rb) | 3:14 |
 | 16 | [Promesas](https://open.spotify.com/track/7iTGE2CQbdwOgJcZ1Kxt34) | [AQUIHAYAQUIHAY](https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i) | [Ojalá Estuvieras Aquí](https://open.spotify.com/album/0dHNLqZYLQOXAJ6dBpajdu) | 2:36 |
-| 17 | [Sin Ti No Hay Yo](https://open.spotify.com/track/3cp3qhxUCOw1P3YJ3EAYOU) | [AQUIHAYAQUIHAY](https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i) | [Ojalá Estuvieras Aquí](https://open.spotify.com/album/0dHNLqZYLQOXAJ6dBpajdu) | 2:47 |
+| 17 | [Sin Ti No Hay Yo](https://open.spotify.com/track/3cp3qhxUCOw1P3YJ3EAYOU) | [AQUIHAYAQUIHAY](https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i) | [Ojalá Estuvieras Aquí](https://open.spotify.com/album/0dHNLqZYLQOXAJ6dBpajdu) | 2:46 |
 | 18 | [Ojalá Estuvieras Aquí \- Heartbreaker](https://open.spotify.com/track/3pB0VIwKWF0l7nfxLj5Ewf) | [AQUIHAYAQUIHAY](https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i) | [Ojalá Estuvieras Aquí](https://open.spotify.com/album/0dHNLqZYLQOXAJ6dBpajdu) | 3:40 |
 | 19 | [Padre Nuestro](https://open.spotify.com/track/71SOLOEgjtbVkuSmmL3TtI) | [Draco Rosa](https://open.spotify.com/artist/4Vo7jk7sjpIFMk14dedex5) | [Reflejos de Lo Eterno](https://open.spotify.com/album/1H83qbfi02zo43uG3qwXJO) | 4:38 |
 | 20 | [Me Gustas Tú](https://open.spotify.com/track/54Oulv7LkUWBFlOIXZJP0m) | [Draco Rosa](https://open.spotify.com/artist/4Vo7jk7sjpIFMk14dedex5) | [Reflejos de Lo Eterno](https://open.spotify.com/album/1H83qbfi02zo43uG3qwXJO) | 3:46 |

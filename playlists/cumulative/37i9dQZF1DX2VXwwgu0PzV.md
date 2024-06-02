@@ -4,7 +4,7 @@
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover:   <a href=https://open.spotify.com/artist/1qDxmgIV0aTR4QGRL4zXWM?si=Y0029Mr2TJasZrOYr\-N60g>Nolly</a>
 
-695 songs - 1 day 15 hr 49 min
+696 songs - 1 day 15 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,6 +153,7 @@
 | [Desire](https://open.spotify.com/track/38hOrmc7D0YqWZ2QYdxgK2) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Emandiong](https://open.spotify.com/artist/5Vvh5iDYvPE6EHhUZbgpBs) | [Desire](https://open.spotify.com/album/2QPzJrnYkpPBU4kCD15Hcw) | 3:24 | 2023-06-30 |  |
 | [Desire Pt\. 2](https://open.spotify.com/track/4KyLwJ8ozG534aCtba71qO) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Caleb Gordon](https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41) | [Desire Pt\. 2](https://open.spotify.com/album/3sR1BpjFiSiBYIakNA09Ne) | 2:40 | 2023-07-07 | 2023-08-18 |
 | [Devotion](https://open.spotify.com/track/1K18rK11klBImZNILVXOiH) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Jenge](https://open.spotify.com/artist/7u3MaCiypw3nu7mhEvFtdT), [Asha Elia](https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S) | [Devotion](https://open.spotify.com/album/6VQFhI9PQFcpzgkcH6bioA) | 2:45 | 2023-06-30 | 2023-07-07 |
+| [Devotion](https://open.spotify.com/track/6ey6UQnRFCF4Oxmy0FCw9a) | [World Famous Abraham](https://open.spotify.com/artist/69h1nC45WQBZumPNRfWh5V), [Pastor Emmanuel Iren](https://open.spotify.com/artist/1Ge81wiDXhRxTHVE1pdHyw), [Danielle D](https://open.spotify.com/artist/5cStR0nOui9rkeIJarFE5O) | [Devotion](https://open.spotify.com/album/0fFHIUgHnZqhZcfWhsApky) | 3:02 | 2024-06-01 |  |
 | [Dey Play](https://open.spotify.com/track/7ahQayCflONbnl4uD1qjHk) | [TBabz](https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V), [Naffymar](https://open.spotify.com/artist/31XHZpkBidKYdb27RBePrr), [Protek Illasheva](https://open.spotify.com/artist/5E8DCdcnM0P7tHQP9CjXcP), [Derry Hans](https://open.spotify.com/artist/6OcDjc4E6BZgxojhEQcG6R) | [Dey Play](https://open.spotify.com/album/5OeAMGQdbFMoCzAn06D1LO) | 2:49 | 2023-05-19 | 2023-06-02 |
 | [DITFK \(Do it for the King\)](https://open.spotify.com/track/0RhDNxkypORUcETtRzpM3O) | [Shadrach SBS](https://open.spotify.com/artist/2eKjftX5gKorRAzO2ECBtb), [Kidd Lee](https://open.spotify.com/artist/0M120oS8JMyuyba6YoweKS) | [DITFK \(Do it for the King\)](https://open.spotify.com/album/3VQb6OLg5lq1Y7PZotxKrN) | 1:31 | 2023-11-24 | 2023-12-01 |
 | [DNA](https://open.spotify.com/track/2yfc79Ai0LwFSFokyEdoVT) | [Benjamin Israel](https://open.spotify.com/artist/5qGo4F4KRcg0fBmJBD2Ubq) | [DNA](https://open.spotify.com/album/4uA9c80POUZ6RsdQuI6Kie) | 5:21 | 2024-04-19 | 2024-05-24 |

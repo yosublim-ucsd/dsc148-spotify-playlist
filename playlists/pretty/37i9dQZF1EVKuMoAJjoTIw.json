@@ -1,12 +1,12 @@
 {
-  "description": "<a href=spotify:playlist:37i9dQZF1EIZ1HkjHHzYzZ>Billie Eilish</a>, <a href=spotify:playlist:37i9dQZF1EIZFSv8zffo2I>Arctic Monkeys</a>, <a href=spotify:playlist:37i9dQZF1EIZP1kY6rcyaY>Mitski</a> and more",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIZ1HkjHHzYzZ>Billie Eilish</a> \u0648<a href=spotify:playlist:37i9dQZF1EIZFSv8zffo2I>Arctic Monkeys</a> \u0648<a href=spotify:playlist:37i9dQZF1EIZP1kY6rcyaY>Mitski</a> \u0648\u0627\u0644\u0645\u0632\u064a\u062f",
   "num_followers": 0,
-  "original_name": "Moody Mix",
+  "original_name": "\u0645\u064a\u0643\u0633 \u0645\u0648\u0633\u064a\u0642\u0649 \u062d\u0632\u064a\u0646\u0629",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAAAZ0uSHZ5QWKTKdZn0H4CT/",
+  "snapshot_id": "AAAAAAAAAABsxj8aSIDp+1O0oy4jExyi",
   "tracks": [
     {
       "added_at": null,
@@ -821,6 +821,6 @@
       "url": "https://open.spotify.com/track/7t3Xdbufg7q2onVsR8RBdY"
     }
   ],
-  "unique_name": "Moody Mix",
+  "unique_name": "\u0645\u064a\u0643\u0633 \u0645\u0648\u0633\u064a\u0642\u0649 \u062d\u0632\u064a\u0646\u0629",
   "url": "https://open.spotify.com/playlist/37i9dQZF1EVKuMoAJjoTIw"
 }

@@ -646,6 +646,24 @@
     {
       "album": {
         "name": "4M Imbicou",
+        "url": "https://open.spotify.com/album/5xYkEO9PhAtXBKpj3UcGO8"
+      },
+      "artists": [
+        {
+          "name": "Santea2",
+          "url": "https://open.spotify.com/artist/1m0xG8stRNnvyrKxnSrbOz"
+        }
+      ],
+      "date_added": "2024-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90071,
+      "name": "4M Imbicou",
+      "url": "https://open.spotify.com/track/3IIjiCUq9OwvLZBaGsphoI"
+    },
+    {
+      "album": {
+        "name": "4M Imbicou",
         "url": "https://open.spotify.com/album/0j1QHX490tY9wPLiBGm2vD"
       },
       "artists": [
@@ -12502,7 +12520,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-26",
+      "date_removed": null,
       "duration_ms": 112153,
       "name": "Diga N\u00e3o ao Job",
       "url": "https://open.spotify.com/track/0G99TcXaDOiIm33hGXnxEs"
@@ -12666,7 +12684,7 @@
       ],
       "date_added": "2024-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-02",
       "duration_ms": 150616,
       "name": "Disk P@#$%&!",
       "url": "https://open.spotify.com/track/6X8aYB2eFCge9jpkgjecPR"
@@ -29802,7 +29820,7 @@
       ],
       "date_added": "2024-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-02",
       "duration_ms": 148615,
       "name": "MTG E QUANDO CHEGA A NOITE",
       "url": "https://open.spotify.com/track/2ItaXascJmBRXYonCED095"
@@ -30010,6 +30028,10 @@
         {
           "name": "Mc Leozin",
           "url": "https://open.spotify.com/artist/6mKwmTMzDrye9elc8JWiw3"
+        },
+        {
+          "name": "MC G15",
+          "url": "https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6"
         }
       ],
       "date_added": "2024-05-28",
@@ -35787,6 +35809,28 @@
     },
     {
       "album": {
+        "name": "channel ORANGE",
+        "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
+      },
+      "artists": [
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        },
+        {
+          "name": "Andr\u00e9 3000",
+          "url": "https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6"
+        }
+      ],
+      "date_added": "2024-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268813,
+      "name": "Pink Matter",
+      "url": "https://open.spotify.com/track/1fOkmYW3ZFkkjIdOZSf596"
+    },
+    {
+      "album": {
         "name": "Pink Venom",
         "url": "https://open.spotify.com/album/3dZBZnDa3z20uEVnxR38M1"
       },
@@ -38180,7 +38224,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-02",
       "duration_ms": 210649,
       "name": "Quer ou N\u00e3o Quer?",
       "url": "https://open.spotify.com/track/6P3pUqOjoXYxsYEeqdHriP"

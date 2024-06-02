@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XgesiUXnsq.md) - [plain]
 
 > Damn son, where'd ya find this?
 
-[Spotify](https://open.spotify.com/user/spotify) - 295,296 likes - 99 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 295,371 likes - 99 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XgesiUXnsq.md) - [plain]
 | 18 | [THE SAMURAI'S MONOLOGUE.](https://open.spotify.com/track/2T3eL2nVjkbdVOVbVi84Fj) | [jev.](https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF) | [THE SAMURAI'S MONOLOGUE.](https://open.spotify.com/album/4HAGH15IhcCaqgHotxfoKk) | 2:10 |
 | 19 | [WEARY](https://open.spotify.com/track/2ZZbZZmUVqgdKLJdiOXmwp) | [Machinedrum](https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4), [Jesse Boykins III](https://open.spotify.com/artist/7N3L5HZxQqxWSfhrrTNI29), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [WEARY](https://open.spotify.com/album/6TwZUO3jqcX5SGJlh1FLXQ) | 2:18 |
 | 20 | [A.D.H.D](https://open.spotify.com/track/2Fw5S2gaOSZzdN5dFoC2dj) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Section.80](https://open.spotify.com/album/1bkN9nIkkCnXeG4yitVS1J) | 3:35 |
-| 21 | [25 Bricks](https://open.spotify.com/track/7tCGcmVVa6Stx6VUo6FePs) | [Tona](https://open.spotify.com/artist/6q8LiFdCehhaItyNf5yHSN), [Asun Eastwood](https://open.spotify.com/artist/49q2aDR2KWUnAQlXz1d9k2), [Rvlr Magz](https://open.spotify.com/artist/7teV8lDpDED8JKPLfMrHLN) | [25 Bricks](https://open.spotify.com/album/0GwIf7bKlu0zPL30oeQS5U) | 3:58 |
+| 21 | [25 Bricks](https://open.spotify.com/track/7tCGcmVVa6Stx6VUo6FePs) | [Tona](https://open.spotify.com/artist/6q8LiFdCehhaItyNf5yHSN), [Asun Eastwood](https://open.spotify.com/artist/09QIFPDIbCHAbChPOkQae9), [Rvlr Magz](https://open.spotify.com/artist/2UIa4vOV6icoZNqeugaLIv) | [25 Bricks](https://open.spotify.com/album/0GwIf7bKlu0zPL30oeQS5U) | 3:58 |
 | 22 | [Mercedez](https://open.spotify.com/track/0wlckRqDjrNoD78B3frNrN) | [Troy Ave](https://open.spotify.com/artist/3cvKNz7BwIY404XtZ5tpUW) | [Mercedez](https://open.spotify.com/album/5RKlFF38uJeUOTYcGMmXLo) | 1:54 |
 | 23 | [That's All, That's It](https://open.spotify.com/track/3rbiKvmWjsDcuEobPjVOuY) | [Danny Miles](https://open.spotify.com/artist/4gKUbrpi04oVG9zEGaAuxi), [Shad](https://open.spotify.com/artist/15lOM8PWY9pXQoURZwSZlK) | [That's All, That's It](https://open.spotify.com/album/1oalRkbONNcLrFFN7jDfvG) | 2:49 |
 | 24 | [Acknowledge](https://open.spotify.com/track/23RJg00mFONjIqYML6mtsE) | [Masta Ace](https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv) | [Disposable Arts](https://open.spotify.com/album/6oBCrRVCWpqR4YpNIqQRlN) | 4:13 |

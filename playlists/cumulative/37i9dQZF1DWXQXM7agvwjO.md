@@ -4,7 +4,7 @@
 
 > Hottest indie sounds & the best new tracks from Asia\. cover: Michael Kaneko  \(Japan\)
 
-1,332 songs - 3 day 8 hr 17 min
+1,333 songs - 3 day 8 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -196,7 +196,7 @@
 | [Cerita Bahaya](https://open.spotify.com/track/3vudXFZo78HISE8sA9Lwo3) | [Goodnight Electric](https://open.spotify.com/artist/01mXW5OUPBFLlEDcYwD3zE) | [Cerita Bahaya](https://open.spotify.com/album/0qJbdOQddkmhalfruJob47) | 5:15 | 2022-07-07 | 2022-09-23 |
 | [Chances](https://open.spotify.com/track/7nXsY5j0SJoANUJ6NtmXFe) | [FUAD](https://open.spotify.com/artist/0sFxcrZPKTFoOL4LCAL7NW) | [Dispositions](https://open.spotify.com/album/46hd6Aj37dUTCVHPERBWGt) | 3:13 | 2022-08-18 | 2022-08-26 |
 | [Changes](https://open.spotify.com/track/2hfvgjrLurakx7qltP75KO) | [The Candle Light Children](https://open.spotify.com/artist/59PyMbVTNW1JNa6aCHGFGW) | [Pastor Pedro & The Candle Light Children, Vol\. 01](https://open.spotify.com/album/0YTOYMjzjsoGvJcUkIra4s) | 4:58 | 2022-05-26 | 2022-07-01 |
-| [Chaos Calls](https://open.spotify.com/track/55EhodVkxmBissqZ02fgKX) | [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [Chaos Calls](https://open.spotify.com/album/7qImfA3la1vAndVk8kuarB) | 3:56 | 2022-08-11 |  |
+| [Chaos Calls](https://open.spotify.com/track/55EhodVkxmBissqZ02fgKX) | [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [Chaos Calls](https://open.spotify.com/album/7qImfA3la1vAndVk8kuarB) | 3:56 | 2022-08-11 | 2024-06-02 |
 | [cheeze](https://open.spotify.com/track/61lc9FK6RvPaU8YgeKf2NE) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj), [Andrew Kang](https://open.spotify.com/artist/3LkRCEpMB7txHe7F203CgZ) | [cheeze](https://open.spotify.com/album/6rtrPG0ubNp6cBPR8pYuFf) | 2:38 | 2022-03-24 | 2023-07-13 |
 | [CHELSEA](https://open.spotify.com/track/1DTFAX3tGh7Ir8WeHKA36i) | [She Her Her Hers](https://open.spotify.com/artist/3Th9UyipOGp08husDe0Era) | [CHELSEA](https://open.spotify.com/album/2lJVa505accbQtDWLPIKa7) | 3:31 | 2023-10-19 | 2023-11-10 |
 | [Chemistry](https://open.spotify.com/track/4exaC757D7BBmexDDC3day) | [Jean Seizure](https://open.spotify.com/artist/2XI2CpdL1MtHXIt0rxa7mS) | [Chemistry](https://open.spotify.com/album/2JaUPjJ0TmNRQQA0zt1ivT) | 3:32 | 2022-07-07 | 2022-08-26 |
@@ -758,6 +758,7 @@
 | [Night Swimming](https://open.spotify.com/track/7JQ6yZiZmfyIdiZ5aL5p78) | [sunwashere](https://open.spotify.com/artist/408sQkmdCQ2kgy09KLocTx) | [Night Swimming](https://open.spotify.com/album/67rmIVW6JACPQc6FU7zIG5) | 4:09 | 2022-07-07 | 2022-07-29 |
 | [Nile](https://open.spotify.com/track/4NRK7OK4mInutst8FLenG2) | [xiexie](https://open.spotify.com/artist/2DyQQPH4aNO84GVSIoHdkV) | [Nile](https://open.spotify.com/album/31rjNDoXEfzXMWFE1AfNWG) | 4:12 | 2024-04-25 | 2024-05-24 |
 | [No Camera](https://open.spotify.com/track/0OOHnflCfcWQvb1ENnU3TU) | [SOMAOTA](https://open.spotify.com/artist/7iDt6acAAE3tr0bfHM5h3O), [DUCK HOUSE](https://open.spotify.com/artist/0ELl1ezauBmVn8nA3GdDJT) | [Lost Humanity](https://open.spotify.com/album/7BtGOVpYZMEyqiPpLqgPEP) | 3:38 | 2024-04-18 | 2024-04-26 |
+| [No Cares Era](https://open.spotify.com/track/1dI9QSKVCt4uXHzGVuBRLa) | [Valentina Ploy](https://open.spotify.com/artist/4RnzpVhMevUeU16FlV4e3e) | [No Cares Era](https://open.spotify.com/album/5FZpZ3glnOilS48UA4C5aB) | 3:20 | 2024-05-30 |  |
 | [No One](https://open.spotify.com/track/0qbZA3IPjeb8lBZ4SZtEHd) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc), [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [No One](https://open.spotify.com/album/2h2DQrNPw1aDsuy8xO1GZY) | 2:37 | 2022-12-02 | 2023-04-01 |
 | [NO PAIN](https://open.spotify.com/track/01d3IKaDzqxP50zPZnAkT9) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [NO PAIN](https://open.spotify.com/album/0PU7zuIyFTemauVmePGD95) | 3:39 | 2022-08-25 | 2022-10-14 |
 | [NO PAIN](https://open.spotify.com/track/4Tz8G2vbDj5GF3FDBC2Pnd) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [POWER ANDRE 99](https://open.spotify.com/album/6Knnr9SwfB0kyFoMa4rNQ1) | 3:41 | 2024-03-08 |  |

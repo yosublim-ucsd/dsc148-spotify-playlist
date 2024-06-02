@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 
 > The best new pop music by independent artists and labels\. Cover: Norah Hendriks Artwork by Paola Saliby
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,771 likes - 107 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,789 likes - 107 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 | 59 | [Red Sleeves](https://open.spotify.com/track/1Qqdue32M5hZRxrqXtPCbu) | [MAIH](https://open.spotify.com/artist/5LqSpFsPhYIT2TjfE0y4zI) | [Red Sleeves](https://open.spotify.com/album/6cIihd51u6nEiMslbVYROm) | 3:09 |
 | 60 | [Pretty](https://open.spotify.com/track/7jkLkvAvKIftqUsR4fU6wL) | [Maggie Ries](https://open.spotify.com/artist/07n13C6YYI7HZbMmrV1ON4) | [Pretty](https://open.spotify.com/album/4etUDQRuWlkbZpGUvGayPe) | 2:16 |
 | 61 | [Only Like A Woman Can](https://open.spotify.com/track/6RXwegAIYne5TgA7Vf6A5n) | [Lily Papas](https://open.spotify.com/artist/2LDsVxtrG9fVXTNaL9oJNi) | [Only Like A Woman Can](https://open.spotify.com/album/7HPYbwTJxyeDg6ldeI0YII) | 3:38 |
-| 62 | [Understatement](https://open.spotify.com/track/57jENaZ0ZEqxIRwEDCm63R) | [Maryon](https://open.spotify.com/artist/7AtbuRokFnPshEZ6muoDWV) | [Understatement](https://open.spotify.com/album/2dmcrQEI5C8AVNTdrcAaNw) | 2:31 |
+| 62 | [Understatement](https://open.spotify.com/track/57jENaZ0ZEqxIRwEDCm63R) | [Maryon King](https://open.spotify.com/artist/7AtbuRokFnPshEZ6muoDWV) | [Understatement](https://open.spotify.com/album/2dmcrQEI5C8AVNTdrcAaNw) | 2:31 |
 | 63 | [homesafe](https://open.spotify.com/track/7e98b6waQfERo4LvxLBhmW) | [VIBI](https://open.spotify.com/artist/5WXBhs4qvg2LSdklOaZCAl) | [homesafe](https://open.spotify.com/album/4Ro0WlwVoDM1IxXRurXrRn) | 3:05 |
 | 64 | [Fired](https://open.spotify.com/track/3pswST6FEbW1HKR5AQiXm6) | [Libby Whitehouse](https://open.spotify.com/artist/0myPBTBG3ODlKVBEf5OSBe) | [Fired](https://open.spotify.com/album/7rn0KhYtCySANpEwwc00a6) | 2:38 |
 | 65 | [Eulogy](https://open.spotify.com/track/0OWyJzSLWlM3WZhl7IfYc6) | [Ayesha Madon](https://open.spotify.com/artist/4VnDOpK4rdMBMihlIt6Uxr) | [Eulogy](https://open.spotify.com/album/00jDeAf7t2dmbMKtxEniMA) | 3:32 |

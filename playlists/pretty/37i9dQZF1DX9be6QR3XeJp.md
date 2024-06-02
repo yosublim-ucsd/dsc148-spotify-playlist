@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain]
 
 > Discover your new favourite artists from UK&IE\. Cover: Siobhán Winifred
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,462 likes - 189 songs - 10 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,466 likes - 189 songs - 10 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

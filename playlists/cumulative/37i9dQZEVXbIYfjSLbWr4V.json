@@ -45,6 +45,24 @@
     },
     {
       "album": {
+        "name": "AMMO",
+        "url": "https://open.spotify.com/album/2eeSi3aA8CFBvzzgE8bN5Z"
+      },
+      "artists": [
+        {
+          "name": "FRIENDLY THUG 52 NGG",
+          "url": "https://open.spotify.com/artist/5xtbUYHaOycg6HIi10EZdV"
+        }
+      ],
+      "date_added": "2024-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112941,
+      "name": "AMMO",
+      "url": "https://open.spotify.com/track/1ck5jWKV1chAEdtPHZHl9b"
+    },
+    {
+      "album": {
         "name": "BALLOUT",
         "url": "https://open.spotify.com/album/2KOuGPFQLMMI3UXZc7jMWB"
       },
@@ -210,7 +228,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-01",
+      "date_removed": null,
       "duration_ms": 110638,
       "name": "CRANKI",
       "url": "https://open.spotify.com/track/1dwuA3034avUaHBlIOUSlg"
@@ -894,7 +912,7 @@
       ],
       "date_added": "2024-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-27",
+      "date_removed": null,
       "duration_ms": 108068,
       "name": "Never Broke Again",
       "url": "https://open.spotify.com/track/21LIoC4ZxT3F8xq9gidNbX"
@@ -1170,6 +1188,24 @@
       "duration_ms": 171640,
       "name": "Stress",
       "url": "https://open.spotify.com/track/3Dt7z7R0wCfSYqU5oqSpN2"
+    },
+    {
+      "album": {
+        "name": "Daydream",
+        "url": "https://open.spotify.com/album/3z417GZz3Blz83BSyaniDb"
+      },
+      "artists": [
+        {
+          "name": "DIMA SP",
+          "url": "https://open.spotify.com/artist/3V2y7WZiaDdH0lBDAXou8d"
+        }
+      ],
+      "date_added": "2024-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134464,
+      "name": "Take me back",
+      "url": "https://open.spotify.com/track/7qG5XXyjO6CPeYOiriZ4Qb"
     },
     {
       "album": {
@@ -1756,7 +1792,7 @@
       ],
       "date_added": "2024-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-02",
       "duration_ms": 166133,
       "name": "\u0417\u0430\u043d\u043e\u0432\u043e",
       "url": "https://open.spotify.com/track/2CgaV8P0xBKABylaWcjkZy"
@@ -2250,7 +2286,7 @@
       ],
       "date_added": "2024-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-02",
       "duration_ms": 217607,
       "name": "\u041c\u043e\u043d\u043e\u043f\u043e\u043b\u0438\u044f",
       "url": "https://open.spotify.com/track/2A2ltYcfg98g2oUkW1Xl86"
@@ -2478,7 +2514,7 @@
       ],
       "date_added": "2024-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-02",
       "duration_ms": 177280,
       "name": "\u041e\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u043b\u043e\u0441\u044c",
       "url": "https://open.spotify.com/track/6ZW9z8Lzm3xCBRj3UBnuCO"
@@ -3122,7 +3158,7 @@
       ],
       "date_added": "2024-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-28",
+      "date_removed": null,
       "duration_ms": 125538,
       "name": "\u0422\u041e\u041b\u041f\u042b \u041a\u0420\u0418\u0427\u0410\u0422",
       "url": "https://open.spotify.com/track/3mcw4dkjfzj5B4Ago9NSmN"
@@ -3288,7 +3324,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-02",
       "duration_ms": 89879,
       "name": "\u0444\u0435\u043d\u0438\u0431\u0443\u0442 2.0",
       "url": "https://open.spotify.com/track/4YfWMQ0M3FYOh71etUTmO7"
@@ -3462,7 +3498,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-02",
       "duration_ms": 133475,
       "name": "\u0427\u0435\u0442\u044b\u0440\u0435 \u0442\u0440\u0438\u0434\u0446\u0430\u0442\u044c",
       "url": "https://open.spotify.com/track/4GBfKfnvmcTcNrlJcV4OLV"

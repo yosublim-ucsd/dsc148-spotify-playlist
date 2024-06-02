@@ -2,7 +2,7 @@
 
 ### [This Is Chalino Sanchez](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4qNX20)
 
-> This Is Chalino Sanchez\. Los temas esenciales, todos en una lista.
+> This Is Chalino Sanchez\. Sus mejores éxitos, todos en una playlist.
 
 51 songs - 2 hr 46 min
 

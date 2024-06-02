@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6pIqJXrWHth17iGoiK0mPz">Justin Tranter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-500 songs - 1 day 3 hr 29 min
+501 songs - 1 day 3 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -317,6 +317,7 @@
 | [My Rules](https://open.spotify.com/track/3WjEuK8hRX3u13eTxZXhMK) | [Jadagrace](https://open.spotify.com/artist/6fmhVXwUMitRwDRCJVIxmA) | [My Rules](https://open.spotify.com/album/0pryFF1ovjtrxuvclVIQ0Y) | 3:03 | 2024-02-27 |  |
 | [Naked](https://open.spotify.com/track/1Jajkjm81BVqptjRBoJcAn) | [DNCE](https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz) | [DNCE](https://open.spotify.com/album/3Wv4X8OA65pGpFzBkuUgAh) | 3:56 | 2024-02-27 |  |
 | [Naked](https://open.spotify.com/track/4VSvjR5WAonJiPtf8uZx94) | [Sofia Morales](https://open.spotify.com/artist/4E5zwzJVeJ0wrHL3fVNtnD) | [Finest Tech House Music](https://open.spotify.com/album/3dU0d9LaFa8JUwvU3OUiZy) | 4:11 | 2024-02-27 |  |
+| [NANi](https://open.spotify.com/track/6utUO9goGEtilKe2tmfNJH) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [NANi](https://open.spotify.com/album/5L1hH3Wj0WenhPzJaQa4Sc) | 2:34 | 2024-06-01 |  |
 | [Naomi](https://open.spotify.com/track/5wO44FhJyX7wWUgwRjqSK1) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Good Thing \(Deluxe\)](https://open.spotify.com/album/15UQ2i9tFgP1VL24O3aBvM) | 3:50 | 2024-02-27 |  |
 | [Natural](https://open.spotify.com/track/2FY7b99s15jUprqC0M5NCT) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Origins \(Deluxe\)](https://open.spotify.com/album/3JfSxDfmwS5OeHPwLSkrfr) | 3:09 | 2024-02-27 |  |
 | [Naughty](https://open.spotify.com/track/01yvNfAsGivvyyN0sv3lSH) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [This Is What The Truth Feels Like](https://open.spotify.com/album/2es3eRI3drhe6WKdCuHjGM) | 3:07 | 2024-02-27 |  |

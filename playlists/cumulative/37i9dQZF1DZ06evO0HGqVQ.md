@@ -2,7 +2,7 @@
 
 ### [This Is Los inquietos del vallenato](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0HGqVQ)
 
-> This is Los inquietos del vallenato\. Todos os maiores hits em uma só playlist.
+> This is Los inquietos del vallenato\. The essential tracks, all in one playlist.
 
 37 songs - 2 hr 52 min
 

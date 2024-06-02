@@ -1,12 +1,12 @@
 {
   "description": "It's the witching hours. ",
-  "num_followers": 132948,
+  "num_followers": 132939,
   "original_name": "Protect Your Energy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zf2eGAAAAABnU3nszDZrhEmMPztr6+AQ",
+  "snapshot_id": "ZltPPAAAAADu0NFwbx7pgEFfXsKpiwvf",
   "tracks": [
     {
       "added_at": "2024-03-22 15:04:56",
@@ -989,6 +989,22 @@
       "url": "https://open.spotify.com/track/7EWDXdu3BzLLCuAGrAx4RT"
     },
     {
+      "added_at": "2024-06-01 16:41:32",
+      "album": {
+        "name": "Common Blue",
+        "url": "https://open.spotify.com/album/2eA9i4PruYA1J16gpAFgra"
+      },
+      "artists": [
+        {
+          "name": "Warpaint",
+          "url": "https://open.spotify.com/artist/3AmgGrYHXqgbmZ2yKoIVzO"
+        }
+      ],
+      "duration_ms": 231023,
+      "name": "Common Blue",
+      "url": "https://open.spotify.com/track/4ywML3rFjamKeKg1GE689X"
+    },
+    {
       "added_at": "2024-03-22 15:04:56",
       "album": {
         "name": "Philharmonics",
@@ -1107,22 +1123,6 @@
     {
       "added_at": "2024-03-22 15:04:56",
       "album": {
-        "name": "So My Darling",
-        "url": "https://open.spotify.com/album/1U269hAxxYxkknYfpeCVku"
-      },
-      "artists": [
-        {
-          "name": "Rachel Chinouriri",
-          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
-        }
-      ],
-      "duration_ms": 269914,
-      "name": "So My Darling",
-      "url": "https://open.spotify.com/track/1kEF6o2puIB1U9aYgqh4xc"
-    },
-    {
-      "added_at": "2024-03-22 15:04:56",
-      "album": {
         "name": "Remind Me Tomorrow",
         "url": "https://open.spotify.com/album/4bfvR9TMwCm2tzXpboLH3t"
       },
@@ -1135,6 +1135,22 @@
       "duration_ms": 314080,
       "name": "Jupiter 4",
       "url": "https://open.spotify.com/track/74n118P9h9Sz2AwDSc3f8N"
+    },
+    {
+      "added_at": "2024-03-22 15:04:56",
+      "album": {
+        "name": "So My Darling",
+        "url": "https://open.spotify.com/album/1U269hAxxYxkknYfpeCVku"
+      },
+      "artists": [
+        {
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+        }
+      ],
+      "duration_ms": 269914,
+      "name": "So My Darling",
+      "url": "https://open.spotify.com/track/1kEF6o2puIB1U9aYgqh4xc"
     },
     {
       "added_at": "2024-03-22 15:04:56",
@@ -1155,18 +1171,34 @@
     {
       "added_at": "2024-03-22 15:04:56",
       "album": {
-        "name": "Hey u x",
-        "url": "https://open.spotify.com/album/4KKRAmQ0ksj32l7mrgLOcF"
+        "name": "Colour Green",
+        "url": "https://open.spotify.com/album/1lf3rLmrO0ObMieg4YqEuB"
       },
       "artists": [
         {
-          "name": "BENEE",
-          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
+          "name": "Sibylle Baier",
+          "url": "https://open.spotify.com/artist/2ckfYpz65ZueWZa2dB6yXC"
         }
       ],
-      "duration_ms": 231700,
-      "name": "Happen To Me",
-      "url": "https://open.spotify.com/track/4Kjo34blxmLG5HNUKEvHRM"
+      "duration_ms": 146626,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/2JIVtls9Jf9nAosUbFzbyw"
+    },
+    {
+      "added_at": "2024-06-01 16:41:32",
+      "album": {
+        "name": "Lost Changes",
+        "url": "https://open.spotify.com/album/0InZsj14Zayf3eC7auh4aJ"
+      },
+      "artists": [
+        {
+          "name": "Beth Gibbons",
+          "url": "https://open.spotify.com/artist/6Lt6KFXX3P0v6vfrynQAMo"
+        }
+      ],
+      "duration_ms": 341933,
+      "name": "Lost Changes",
+      "url": "https://open.spotify.com/track/77tzZpDAF4lZGQN10R2i61"
     },
     {
       "added_at": "2024-03-22 15:04:56",
@@ -1183,6 +1215,22 @@
       "duration_ms": 311626,
       "name": "Rivers In Your Mouth",
       "url": "https://open.spotify.com/track/4Uru57SoQpHBacQVhfcpdC"
+    },
+    {
+      "added_at": "2024-03-22 15:04:56",
+      "album": {
+        "name": "Hey u x",
+        "url": "https://open.spotify.com/album/4KKRAmQ0ksj32l7mrgLOcF"
+      },
+      "artists": [
+        {
+          "name": "BENEE",
+          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
+        }
+      ],
+      "duration_ms": 231700,
+      "name": "Happen To Me",
+      "url": "https://open.spotify.com/track/4Kjo34blxmLG5HNUKEvHRM"
     },
     {
       "added_at": "2024-03-22 15:04:56",
@@ -1223,22 +1271,6 @@
     {
       "added_at": "2024-03-22 15:04:56",
       "album": {
-        "name": "Colour Green",
-        "url": "https://open.spotify.com/album/1lf3rLmrO0ObMieg4YqEuB"
-      },
-      "artists": [
-        {
-          "name": "Sibylle Baier",
-          "url": "https://open.spotify.com/artist/2ckfYpz65ZueWZa2dB6yXC"
-        }
-      ],
-      "duration_ms": 146626,
-      "name": "Tonight",
-      "url": "https://open.spotify.com/track/2JIVtls9Jf9nAosUbFzbyw"
-    },
-    {
-      "added_at": "2024-03-22 15:04:56",
-      "album": {
         "name": "Blessings",
         "url": "https://open.spotify.com/album/2DsCVzaFJ8N5VXZwkOsk5e"
       },
@@ -1267,38 +1299,6 @@
       "duration_ms": 251080,
       "name": "If You Ever Did Believe",
       "url": "https://open.spotify.com/track/5CQmmcGVX9L0NOOkLR6uve"
-    },
-    {
-      "added_at": "2024-03-22 15:04:56",
-      "album": {
-        "name": "Same Old Energy",
-        "url": "https://open.spotify.com/album/6omiQi8kZwpEznvECFHDj0"
-      },
-      "artists": [
-        {
-          "name": "Kiki Rockwell",
-          "url": "https://open.spotify.com/artist/5HuKMWteBRI09tWyKeQE1F"
-        }
-      ],
-      "duration_ms": 208693,
-      "name": "Same Old Energy",
-      "url": "https://open.spotify.com/track/7qkfs7TdDhaZ9l4YUf2UeU"
-    },
-    {
-      "added_at": "2024-03-22 15:04:56",
-      "album": {
-        "name": "On Your Own Love Again",
-        "url": "https://open.spotify.com/album/4plpT2Idnip2akI8c9LQP7"
-      },
-      "artists": [
-        {
-          "name": "Jessica Pratt",
-          "url": "https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh"
-        }
-      ],
-      "duration_ms": 220293,
-      "name": "Moon Dude",
-      "url": "https://open.spotify.com/track/54u8a2GJiN2Via9l3xtP6S"
     }
   ],
   "unique_name": "Protect Your Energy",

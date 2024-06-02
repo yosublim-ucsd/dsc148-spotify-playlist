@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPkWIRD16c8.md) - [plain]
 
 > Have a fantastic road trip with upbeat songs from your favorite Christian artists!
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,261 likes - 75 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,393 likes - 75 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPkWIRD16c8.md) - [plain]
 | 64 | [Never Let Me Down](https://open.spotify.com/track/1R1TTzq1Z8fP12zgTT1j0V) | [Mosaic MSC](https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b) | [Never Let Me Down](https://open.spotify.com/album/3AdMAdfuTFgfbZk7cSasV9) | 3:56 |
 | 65 | [I Will Fear No More](https://open.spotify.com/track/6X4tVbY0j4wowtONB4Wtnf) | [The Afters](https://open.spotify.com/artist/1Q9nxD19emMUTTWtFi7jZc) | [Fear No More](https://open.spotify.com/album/4LWmVkuA2s7n3q3UiIlsFf) | 3:22 |
 | 66 | [Won't Be Moved](https://open.spotify.com/track/5qhtdHmxEtZSEM1H7rn8Mj) | [Gene Moore](https://open.spotify.com/artist/5Jx60tG2VWnk1g3aDHDGs6) | [Tunnel Vision](https://open.spotify.com/album/36OUmfH7fvxdjJL1Zhkr8v) | 2:59 |
-| 67 | [Come As You Are](https://open.spotify.com/track/2eYm67Yrt9RGuvSXTbPUd2) | [David Leonard](https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE) | [The Wait](https://open.spotify.com/album/69YX5aF5IQ7Wg0lVhCoK0w) | 4:32 |
-| 68 | [Won't Let Go](https://open.spotify.com/track/2LDslUaUIvhF0eJPLqKqzM) | [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe) | [Won't Let Go](https://open.spotify.com/album/3Pdqow3QbgnjafVf7tPf46) | 3:56 |
+| 67 | [Won't Let Go](https://open.spotify.com/track/2LDslUaUIvhF0eJPLqKqzM) | [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe) | [Won't Let Go](https://open.spotify.com/album/3Pdqow3QbgnjafVf7tPf46) | 3:56 |
+| 68 | [Come As You Are](https://open.spotify.com/track/2eYm67Yrt9RGuvSXTbPUd2) | [David Leonard](https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE) | [The Wait](https://open.spotify.com/album/69YX5aF5IQ7Wg0lVhCoK0w) | 4:32 |
 | 69 | [Your Spirit](https://open.spotify.com/track/4CcZQ9H6RB0qF62VLMM9Ex) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [Heart\. Passion\. Pursuit\. \(Deluxe\)](https://open.spotify.com/album/7BQ2sFd1DNrETEw8xXPUHG) | 7:51 |
 | 70 | [Almost Home](https://open.spotify.com/track/5CjYgLyRgiIGiS9fQAyWaH) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [Almost Home](https://open.spotify.com/album/0JNbn5gGkdaRIjaZ54UyCG) | 4:12 |
 | 71 | [Enough](https://open.spotify.com/track/3YmPKB2cXJ9e0ZuZUx2Yw2) | [Social Club Misfits](https://open.spotify.com/artist/0wnsM0ziqToBwQeEbH0akL), [Austin French](https://open.spotify.com/artist/5m8b1Ofn4kNkzRV84GopBU) | [DOOM.](https://open.spotify.com/album/6UEuRE7E2uyxKzMh9jIya5) | 3:13 |

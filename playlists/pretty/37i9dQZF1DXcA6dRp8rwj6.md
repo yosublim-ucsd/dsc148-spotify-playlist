@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: DABOYWAY\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 440,312 likes - 121 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 440,303 likes - 121 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 | 10 | [Deja Vu \(feat\. DJ Drama\)](https://open.spotify.com/track/1hDtQHr9OveHVpE4RlvM9G) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG) | [Deja Vu \(feat\. DJ Drama\)](https://open.spotify.com/album/2UoHIfIrdKTAsbS9dcB72k) | 3:21 |
 | 11 | [Survivor’s Remorse](https://open.spotify.com/track/4Xg53MegsZ6MRIbZ2kE6Eh) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Survivor’s Remorse](https://open.spotify.com/album/1vLOjsLCZT2mO1hqYS940W) | 2:36 |
 | 12 | [Men Like Flowers Too](https://open.spotify.com/track/3wsCHr8jXkDszpSPcd7i5k) | [Danial Bogers](https://open.spotify.com/artist/0XxGdPB0f99TZN9ddwdrfN) | [Men Like Flowers Too](https://open.spotify.com/album/7HZzuurQw8RcFiRGlx6mDS) | 3:19 |
-| 13 | [25 Bricks](https://open.spotify.com/track/7tCGcmVVa6Stx6VUo6FePs) | [Tona](https://open.spotify.com/artist/6q8LiFdCehhaItyNf5yHSN), [Asun Eastwood](https://open.spotify.com/artist/49q2aDR2KWUnAQlXz1d9k2), [Rvlr Magz](https://open.spotify.com/artist/7teV8lDpDED8JKPLfMrHLN) | [25 Bricks](https://open.spotify.com/album/0GwIf7bKlu0zPL30oeQS5U) | 3:58 |
+| 13 | [25 Bricks](https://open.spotify.com/track/7tCGcmVVa6Stx6VUo6FePs) | [Tona](https://open.spotify.com/artist/6q8LiFdCehhaItyNf5yHSN), [Asun Eastwood](https://open.spotify.com/artist/09QIFPDIbCHAbChPOkQae9), [Rvlr Magz](https://open.spotify.com/artist/2UIa4vOV6icoZNqeugaLIv) | [25 Bricks](https://open.spotify.com/album/0GwIf7bKlu0zPL30oeQS5U) | 3:58 |
 | 14 | [timezones](https://open.spotify.com/track/0LiWOWo7RXmmWy6RMLZrFZ) | [karan](https://open.spotify.com/artist/6QJpQL2sOAE4yKLSHFyjy8) | [timezones](https://open.spotify.com/album/4Kq8tS6e0AplUcR3ZZFEp7) | 2:40 |
 | 15 | [CAN'T STOP ME NOW](https://open.spotify.com/track/0sM6emDe2mTrPOlGLQV3lF) | [SLOE JACK](https://open.spotify.com/artist/6LxNb1YrbYYSpIFQAfxUQ1) | [CAN'T STOP ME NOW](https://open.spotify.com/album/6fQKBnr5hnxTQmKUE5IKjs) | 2:06 |
 | 16 | [What For](https://open.spotify.com/track/1niSmXAqAJ5i7TX7kkui6k) | [Jelex](https://open.spotify.com/artist/6dhwyJ9zxV1cstuPoRv06s), [Jaswed](https://open.spotify.com/artist/715OWN4ZsuFHrgWEhUeCIS), [PLR](https://open.spotify.com/artist/0Q3pMsABEP19xGAUZ1WZuY) | [What For](https://open.spotify.com/album/6Kttw6LqYvkbao4VIjp8dA) | 2:11 |

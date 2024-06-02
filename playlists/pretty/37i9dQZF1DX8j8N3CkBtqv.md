@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 
 > Naye Indie gaano ka khazana! Cover\- Aditya Bhardwaj
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,344 likes - 75 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,340 likes - 75 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Duh](https://open.spotify.com/track/4T9MEzjgBKJrpbK8l9BfbP) | [Aditya Bhardwaj](https://open.spotify.com/artist/4LZrB16vINsCHc28cE6oQo) | [Duh](https://open.spotify.com/album/13y7aIzDp0EDnrdqv8AdBd) | 3:37 |
 | 2 | [When We Feel Young \- Nature Tapes](https://open.spotify.com/track/7D3Ye9VMbfDXU78FtR3pFt) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [Nature Tapes, Vol\. 1](https://open.spotify.com/album/3JxsX5nmbAn0lMrOcD5gPA) | 5:04 |
 | 3 | [Dil Ki Sun](https://open.spotify.com/track/7v00ixDSFXf7HcqzD1ZK6M) | [SidB](https://open.spotify.com/artist/1y6bxUL1fVTzt3YSVBf0FG), [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN) | [Dil Ki Sun](https://open.spotify.com/album/3rTpYFI0QgbDBr7eYvgk55) | 2:31 |
-| 4 | [Jaane De](https://open.spotify.com/track/435ZpMDOMhgTovMiG7HW0y) | [Samahita Narang](https://open.spotify.com/artist/4EBQpbs8lhMmXp1ZLNAQl4), [Susmit Sen](https://open.spotify.com/artist/05dWvaSp7ABuXclHkVPi5s) | [Jaane De](https://open.spotify.com/album/4wSMbb9803Lo5jNuhUjG9p) | 4:00 |
+| 4 | [Jaane De](https://open.spotify.com/track/435ZpMDOMhgTovMiG7HW0y) | [Samahita Narang](https://open.spotify.com/artist/4EBQpbs8lhMmXp1ZLNAQl4), [Susmit Sen](https://open.spotify.com/artist/58LkfM2jJseHdp9Iz5hWxx) | [Jaane De](https://open.spotify.com/album/4wSMbb9803Lo5jNuhUjG9p) | 4:00 |
 | 5 | [Dheere Chal](https://open.spotify.com/track/0GPOE5IFsmlmCYAuPiSeY4) | [Trishita Recs](https://open.spotify.com/artist/4lB0A51UgKHZ00Uhuta9K4) | [Dheere Chal](https://open.spotify.com/album/22WI7NjG4HmI9Qn72UKbNJ) | 3:50 |
 | 6 | [Bhare Naina](https://open.spotify.com/track/64Axru3p8cCiqIC2Cwi1Tj) | [Khayaal](https://open.spotify.com/artist/5Kfjxy64QteoXxlMjjNU48) | [Bhare Naina](https://open.spotify.com/album/0tY5LWUa04hAoyBCc4VydW) | 2:43 |
 | 7 | [nadaaniyan](https://open.spotify.com/track/3bmsaFp11I9pbicxzlStf3) | [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo) | [nadaaniyan](https://open.spotify.com/album/5iB4wggqDR2cQSduJGBfUy) | 2:51 |

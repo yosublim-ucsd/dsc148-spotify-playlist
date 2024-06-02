@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 
 > Türkiye'nin en sıkı çalma listesi\. Kapak: Organize x Astral
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,346,823 likes - 50 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,347,016 likes - 50 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [SAGOLUYORUM \(BIG TERORISTA\)](https://open.spotify.com/track/4bbndwPQlPaEQQGmXPPkTw) | [Jeff Redd](https://open.spotify.com/artist/6xqA7u7TxHUYJp6Ww1XgNx) | [SAGOLUYORUM \(BIG TERORISTA\)](https://open.spotify.com/album/45kuj3np55rmLNWTvm4cA9) | 1:35 |
-| 2 | [IstanbuL](https://open.spotify.com/track/4kL9OgH9eGLWRERkUSH5RZ) | [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3), [Astral](https://open.spotify.com/artist/3IF4aFcrT6HPmovQFSFLwF) | [The World is Yours](https://open.spotify.com/album/49uDkFve9sxXZZWywtq00f) | 1:58 |
+| 2 | [IstanbuL](https://open.spotify.com/track/4kL9OgH9eGLWRERkUSH5RZ) | [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3), [Astral](https://open.spotify.com/artist/7g6rPQyaKLwHpM6JB4lByD) | [The World is Yours](https://open.spotify.com/album/49uDkFve9sxXZZWywtq00f) | 1:58 |
 | 3 | [Dale Don Dale](https://open.spotify.com/track/1f9X5YDmXDxyIwhzB06JJd) | [ElMusto](https://open.spotify.com/artist/1Tjaa3WWIVU00kfZ8Dvpcl) | [Dale Don Dale](https://open.spotify.com/album/4vrNgKR0CTcHMHrb8io0nV) | 1:58 |
 | 4 | [Damlarsın](https://open.spotify.com/track/0pFL8GjwSssk4uLBQafhAn) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [Damlarsın](https://open.spotify.com/album/1HbQWs7ClzwFt5AmEgH8r2) | 2:25 |
 | 5 | [Senin Yüzünden](https://open.spotify.com/track/2IEVhvv5LOFnsz6FQl7Wr3) | [Etki](https://open.spotify.com/artist/2eHCB9X3BalOW2a3zjYJeg), [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2) | [Senin Yüzünden](https://open.spotify.com/album/6DDJbeIc0r9H1z1NpQRmMi) | 2:42 |

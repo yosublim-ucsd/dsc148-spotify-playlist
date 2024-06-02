@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2szZf2.md) - [plain]
 
 ### [This Is Mc Dricka](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2szZf2)
 
-> This is Mc Dricka\. Todos os maiores hits em uma só playlist.
+> This is Mc Dricka\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,529 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,531 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2szZf2.md) - [plain]
 | 49 | [JÁ ERA TARDE](https://open.spotify.com/track/7C4JFAkLIoy7aWroEOy60X) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q), [MC Rick](https://open.spotify.com/artist/1mvpEXClANunyiHFtAXCxt), [Dj Juninho da Espanha](https://open.spotify.com/artist/7v3YsPZy6l4QPJQ8RqnfZ4), [Ariel Donato](https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ) | [CORO COM COÇA](https://open.spotify.com/album/1mJUlfDXB7F62HqNsvJ9f8) | 2:57 |
 | 50 | [Bh no Topo 2](https://open.spotify.com/track/5I81jhsQaycXS0qS8bvLHc) | [MC Saci](https://open.spotify.com/artist/0kj68SnX4WCXwveyBbRX8p), [Mc Vitera](https://open.spotify.com/artist/5mr05eYTzL2oMCHdrezu5d), [MC Braian](https://open.spotify.com/artist/1eQZtSbuI8HDvaA2dtPzF1), [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q), [Mc Laranjinha](https://open.spotify.com/artist/1JJq541frMPfUIQiUoVrnp) | [Bh no Topo 2](https://open.spotify.com/album/6xn79ltvd8322T69fIS6OA) | 3:09 |
 
-Snapshot ID: `ZlfBgAAAAABjAsHFioEVCR6usYfBJlSY`
+Snapshot ID: `ZlfBgAAAAABMxR+oSZBBKFtEXGOVkIk+`

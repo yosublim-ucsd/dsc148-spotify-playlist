@@ -1401,6 +1401,24 @@
     },
     {
       "album": {
+        "name": "These Walls",
+        "url": "https://open.spotify.com/album/5TPfVNdAXfxElxxAyUEghA"
+      },
+      "artists": [
+        {
+          "name": "Good Girls Inc.",
+          "url": "https://open.spotify.com/artist/7lShJZDCaM15sDfIE3DOjA"
+        }
+      ],
+      "date_added": "2024-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218960,
+      "name": "These Walls",
+      "url": "https://open.spotify.com/track/12C5qiBuevbn6fjWgPLspN"
+    },
+    {
+      "album": {
         "name": "Glitch Princess",
         "url": "https://open.spotify.com/album/6jBRjtrgSlOvQvrSdtQa8Q"
       },

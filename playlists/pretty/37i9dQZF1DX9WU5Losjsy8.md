@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WU5Losjsy8.md) - [plain]
 
 > ist nur einmal im Jahr!
 
-[Spotify](https://open.spotify.com/user/spotify) - 410,178 likes - 80 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 410,257 likes - 80 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WU5Losjsy8.md) - [plain]
 | 55 | [Mallemoment](https://open.spotify.com/track/14QtgrVvs1os2TMvpTbQZH) | [Stefan Stürmer](https://open.spotify.com/artist/6jvJeMzlBK7kW5LQUePR6q) | [Mallemoment](https://open.spotify.com/album/2lJXNJMUVFKYCBSzcJDQyW) | 2:49 |
 | 56 | [Kabinenparty](https://open.spotify.com/track/4TUtbQyNMmitAOXIsAMhLn) | [MartinBepunkt](https://open.spotify.com/artist/67SeoU54DvDpkDDXtWEoOc), [Nils\_Gucki](https://open.spotify.com/artist/0IKHmPWMEtjcERBTOo34GF), [MAKZ 38](https://open.spotify.com/artist/3G3KqIib0FNSVpjDl9NhAF) | [Kabinenparty](https://open.spotify.com/album/2aP4tzkye6IAAW0h3wJfV5) | 2:22 |
 | 57 | [Ich bleib hier](https://open.spotify.com/track/7vcCXaCkdWuoAxUvB9uQRj) | [Mia Julia](https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4), [Mütze Katze](https://open.spotify.com/artist/1NIZkVWOktJ496divSh7cF) | [Ich bleib hier](https://open.spotify.com/album/2whxURNncAj78xYqErLbFP) | 2:42 |
-| 58 | [BIERBAUCH🍺](https://open.spotify.com/track/58AhzC7faLBXUFyu9XQQwo) | [Andi schiebt anders](https://open.spotify.com/artist/0Q0sIZyJbKnxvo5Vt7SsqC) | [BIERBAUCH🍺](https://open.spotify.com/album/5xjoCoZ8l3Bot75FwbGwEO) | 2:06 |
-| 59 | [FiNCHiBOY](https://open.spotify.com/track/4ipRnhSMOaVeLCCo5sPY9K) | [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD) | [Finchi's Love Tape](https://open.spotify.com/album/2XTORm9FlIAjLcTqrguBhM) | 2:50 |
+| 58 | [FiNCHiBOY](https://open.spotify.com/track/4ipRnhSMOaVeLCCo5sPY9K) | [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD) | [Finchi's Love Tape](https://open.spotify.com/album/2XTORm9FlIAjLcTqrguBhM) | 2:50 |
+| 59 | [BIERBAUCH🍺](https://open.spotify.com/track/58AhzC7faLBXUFyu9XQQwo) | [Andi schiebt anders](https://open.spotify.com/artist/0Q0sIZyJbKnxvo5Vt7SsqC) | [BIERBAUCH🍺](https://open.spotify.com/album/5xjoCoZ8l3Bot75FwbGwEO) | 2:06 |
 | 60 | [Sweet Caroline \- Party Remix](https://open.spotify.com/track/3HTgmcqR7nYtD7EmJ4hOLi) | [DJ Ötzi](https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr) | [Sweet Caroline \(Party Remix\)](https://open.spotify.com/album/78jbUvstAhkEUAwzuiKr93) | 3:26 |
 | 61 | [Du bist mein Glück](https://open.spotify.com/track/1yA8eLTcwmsDlS1bdVAli0) | [Matthias Reim](https://open.spotify.com/artist/3fgh28NoU2ArVdUdymvnf3) | [Du Bist Mein Glück](https://open.spotify.com/album/0JMSxzYXXyIVDlm7xSUUbp) | 3:36 |
 | 62 | [Mehr Promille als IQ](https://open.spotify.com/track/3Kjs4D4ml9pLRxZr0KcJoU) | [Mickie Krause](https://open.spotify.com/artist/0cXE2SrE0M4Vn7F2NVzG6q) | [Mehr Promille als IQ](https://open.spotify.com/album/5ush4anvGhOx30W7BTOOyD) | 3:31 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WU5Losjsy8.md) - [plain]
 | 74 | [Ich schieß mich weg](https://open.spotify.com/track/72ZWod6JckJuSZ4BeyEqPU) | [Isi Glück](https://open.spotify.com/artist/6rCSN5ZYcBpBWIY2GEiKdQ), [Micha von der Rampe](https://open.spotify.com/artist/4hch8p1Mfo8MwyA5J6Vi9w) | [Ich schieß mich weg](https://open.spotify.com/album/1nkb9GbsadB9rE1vonRmXg) | 2:07 |
 | 75 | [Abenteuerland](https://open.spotify.com/track/748pbjnFM9TVwQhDT3LC4N) | [Pur](https://open.spotify.com/artist/175a900UJkfGsIGcvUDaEx) | [Hits Pur \- 20 Jahre Eine Band \(Fan Edition\)](https://open.spotify.com/album/6go7rUd1OUcrNMHlToIgAO) | 4:40 |
 | 76 | [Freitag, Samstag](https://open.spotify.com/track/35WEFAhw47XLju1gu40cjT) | [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD) | [Freitag, Samstag](https://open.spotify.com/album/2vdeMLYYKkx1kp0J9ggsBL) | 2:36 |
-| 77 | [Felicità \- Stereoact Remix](https://open.spotify.com/track/0e78YaDsbQxnfbQWofzBrH) | [Stereoact](https://open.spotify.com/artist/6dXL3SnQlCGX9LCUAyin6a), [Al Bano](https://open.spotify.com/artist/2gpELJDuhOQi1DPcI0VFvw) | [Felicità \(Stereoact Remix\)](https://open.spotify.com/album/2FWtL7RNtw2bPUo5MM5XBG) | 2:28 |
-| 78 | [Klempner Klaus](https://open.spotify.com/track/0LStK5S9hM7tmi8X7TItkY) | [GABBY](https://open.spotify.com/artist/7gM9yfQR9QrXqnHmeIkhbI), [Anstandslos & Durchgeknallt](https://open.spotify.com/artist/5R8zS6ofKclznKk3ffudoO) | [Klempner Klaus](https://open.spotify.com/album/4ZUCnOcTeLaz8XAKhl1zTL) | 2:35 |
+| 77 | [Klempner Klaus](https://open.spotify.com/track/0LStK5S9hM7tmi8X7TItkY) | [GABBY](https://open.spotify.com/artist/7gM9yfQR9QrXqnHmeIkhbI), [Anstandslos & Durchgeknallt](https://open.spotify.com/artist/5R8zS6ofKclznKk3ffudoO) | [Klempner Klaus](https://open.spotify.com/album/4ZUCnOcTeLaz8XAKhl1zTL) | 2:35 |
+| 78 | [Felicità \- Stereoact Remix](https://open.spotify.com/track/0e78YaDsbQxnfbQWofzBrH) | [Stereoact](https://open.spotify.com/artist/6dXL3SnQlCGX9LCUAyin6a), [Al Bano](https://open.spotify.com/artist/2gpELJDuhOQi1DPcI0VFvw) | [Felicità \(Stereoact Remix\)](https://open.spotify.com/album/2FWtL7RNtw2bPUo5MM5XBG) | 2:28 |
 | 79 | [Hoch die Hände Wochenende](https://open.spotify.com/track/3ndmKMdYgiU8TbNjOx1weG) | [HBz](https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ), [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD), [Fäaschtbänkler](https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX) | [Hoch die Hände Wochenende](https://open.spotify.com/album/4L7ct8MkMn8XeNKdmQKetZ) | 2:54 |
 | 80 | [Wenn Du Bock hast \(kannst Du Dir noch'n Korn abholen\)](https://open.spotify.com/track/46D0UOocYv3GhGMemELnLD) | [MaxUhu](https://open.spotify.com/artist/2H9x61CC4ane71CxHsBA5V), [Bangermin](https://open.spotify.com/artist/2vB5ZWcBm1uV4bQhUT27ZQ) | [Wenn Du Bock hast \(kannst Du Dir noch'n Korn abholen\)](https://open.spotify.com/album/3W5Lgeupld5gcJvP3MKiJd) | 3:21 |
 

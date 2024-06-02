@@ -101,6 +101,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 91 | [whodunit](https://open.spotify.com/track/49cb92ZJ2tnDfuCk2MQY8c) | [GLAY](https://open.spotify.com/artist/00AFbqxvdDK6T1D6MQZ9c1), [JAY \(ENHYPEN\)](https://open.spotify.com/artist/1dxyDekkPqYVKpC7iW71zJ) | [whodunit\-GLAY×JAY\(ENHYPEN\) / シェア](https://open.spotify.com/album/6OUrzJ4VSAniXdYYujS6gz) | 4:27 |
 | 92 | [Daydreams](https://open.spotify.com/track/51lACgMujfk4XYOgQ7iNc5) | [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb) | [Daydreams](https://open.spotify.com/album/4njWvo2B5vDghHpShpiWF8) | 3:36 |
 | 93 | [Hush](https://open.spotify.com/track/4L6CcNShN9p1sYbXob1yYn) | [Annisya](https://open.spotify.com/artist/1PELt1dPoZyGYKgV6KWBkA) | [Hush](https://open.spotify.com/album/54Fd94bm66PcrqaqUBnZOk) | 2:43 |
-| 94 | [into you](https://open.spotify.com/track/3VLqM6AK5hlMklETMtcs0X) | [satellite](https://open.spotify.com/artist/4dfF3ecNllyZMpEUmhv4F0) | [into you](https://open.spotify.com/album/68TlLMRJVbuPbU0mNrhQ3G) | 3:57 |
+| 94 | [into you](https://open.spotify.com/track/3VLqM6AK5hlMklETMtcs0X) | [satellite.](https://open.spotify.com/artist/58qX06UZpmeiapyjskI8sn) | [into you](https://open.spotify.com/album/68TlLMRJVbuPbU0mNrhQ3G) | 3:57 |
 
 Snapshot ID: `ZlllEAAAAADpyhNhGwMPvf9gOfbUcdoB`

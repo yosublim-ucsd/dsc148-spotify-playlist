@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > Nieuw deze week \- Nouveautés de la semaine\. Cover: Oscar and the Wolf
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,142 likes - 90 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,150 likes - 90 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 17 | [Summer Dream Of Love](https://open.spotify.com/track/0MVE9HTEIXWG7igtwzcoUM) | [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [Darren Styles](https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm) | [Summer Dream Of Love](https://open.spotify.com/album/2YDuCid6amS8XgedMk0Mxt) | 2:10 |
 | 18 | [Caroline \(i should’ve known better\)](https://open.spotify.com/track/6iUWx0rsWeFZoOjl9CMJ62) | [Gos Rosling](https://open.spotify.com/artist/2zJha56ZWbPFutom5jySwf) | [Caroline \(i should’ve known better\)](https://open.spotify.com/album/7akMIKWLQ83YzA6G4DYefd) | 4:07 |
 | 19 | [Carry You Home](https://open.spotify.com/track/4uzKAj0mIyYmyhsRRyPXaQ) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Carry You Home](https://open.spotify.com/album/42eRSINaWEzBXj7aqTB2cu) | 2:46 |
-| 20 | [2024](https://open.spotify.com/track/1O6iEADvkiCleJqv5Dd4Vq) | [JAZZ BRAK](https://open.spotify.com/artist/2tRYjTylYjQaBWdn0MA54U) | [2024](https://open.spotify.com/album/2IchW0FDEC8kVQ2n9G7RJd) | 4:04 |
+| 20 | [2024](https://open.spotify.com/track/1O6iEADvkiCleJqv5Dd4Vq) | [JAZZ BRAK](https://open.spotify.com/artist/2tRYjTylYjQaBWdn0MA54U), [STAB](https://open.spotify.com/artist/0VqT41UItslhMX2q16fq9l) | [2024](https://open.spotify.com/album/2IchW0FDEC8kVQ2n9G7RJd) | 4:04 |
 | 21 | [THE MAGIC](https://open.spotify.com/track/73YVXu5U1wM8115gLcw7OL) | [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM), [Sofiane Pamart](https://open.spotify.com/artist/4RB2EEsmLhQTOSVQQpDzNg), [Romuald](https://open.spotify.com/artist/43MFF1y8czFwbjB8kf24oG) | [THE MAGIC](https://open.spotify.com/album/2b4PBn4YqXxm5ZCvVwtwOn) | 2:26 |
 | 22 | [Without You \(with HAYLA\)](https://open.spotify.com/track/5KW4qNLjWeh7rMbxCfg89N) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [HAYLA](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Without You \(with HAYLA\)](https://open.spotify.com/album/41OLKYtwOINYu55eAMBdhk) | 4:23 |
 | 23 | [Ask & You Shall Receive](https://open.spotify.com/track/4zB5pU3cwGiC6Fcz5qtfUe) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Ask & You Shall Receive](https://open.spotify.com/album/5htBDYVAOjfBHgquMxExL8) | 3:19 |
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 85 | [What If You're The Love of My Life?](https://open.spotify.com/track/2rNp14nmgJc4IK0FajIzGn) | [Chloe Adams](https://open.spotify.com/artist/4B1bjBU8CLkIBTYTRklo2u) | [What If You're The Love of My Life?](https://open.spotify.com/album/3gHdoNyalsBcrZ4QSJAmuc) | 2:08 |
 | 86 | [Terril](https://open.spotify.com/track/2SsnPdIWcCjOsH10CNs0Zn) | [Cellini](https://open.spotify.com/artist/5wFiSr66v5LC5Lt8MF06n3), [Simo Lagnawi](https://open.spotify.com/artist/5nL4NhY55Mr65tdAHvK0WK) | [Terril](https://open.spotify.com/album/7CrRNz1FfU2iS723uy2NF1) | 4:07 |
 | 87 | [Love Heart Cheat Code](https://open.spotify.com/track/0ewpVF33opGsxPJlLRflWX) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Love Heart Cheat Code](https://open.spotify.com/album/3TsAZSV9r6h0w4S5fxS2qX) | 4:33 |
-| 88 | [Feed You To My Dog](https://open.spotify.com/track/6tQnoOU4mMgx5mMiDFXJlR) | [GUNMOLL](https://open.spotify.com/artist/58JjVQf1svduEYcR9y3jba) | [Feed You To My Dog](https://open.spotify.com/album/5AvylfOCnLhdTzNzXXU4UU) | 3:30 |
+| 88 | [Feed You To My Dog](https://open.spotify.com/track/6tQnoOU4mMgx5mMiDFXJlR) | [GUNMOLL](https://open.spotify.com/artist/58JjVQf1svduEYcR9y3jba) | [Feed You To My Dog](https://open.spotify.com/album/5AvylfOCnLhdTzNzXXU4UU) | 3:16 |
 | 89 | [Frogs](https://open.spotify.com/track/39irRnySrRADgui9AVTqdx) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Frogs](https://open.spotify.com/album/7vANyFbcIVAprU6bilb72I) | 4:34 |
 | 90 | [All for Love](https://open.spotify.com/track/1uY5hVJoMZjq6bTRhokkjW) | [Bilal](https://open.spotify.com/artist/4jCbgl5Dmt3uOh8WRQfpPs), [?uestlove](https://open.spotify.com/artist/1h2OVSKRdJHnVqyCKqCLkf), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Burniss Travis](https://open.spotify.com/artist/4Y4dR3x2kFHqIEJJ7SaH9c) | [All for Love](https://open.spotify.com/album/0HsRlNgQyqMG96FaB3DHfT) | 6:12 |
 

@@ -1,12 +1,12 @@
 {
   "description": "This is Simon & Garfunkel. The essential tracks, all in one playlist.",
-  "num_followers": 328994,
+  "num_followers": 329040,
   "original_name": "This Is Simon & Garfunkel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlfBgAAAAAAzAdPyaUNjwPtLrlFbBoZX",
+  "snapshot_id": "ZlkTAAAAAABjr8e+gjgaRng8Beb8Z9tU",
   "tracks": [
     {
       "added_at": null,
@@ -539,8 +539,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bookends",
-        "url": "https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2"
+        "name": "Live 1969",
+        "url": "https://open.spotify.com/album/1agP6sAeWsH8Pgm8WrVtdl"
       },
       "artists": [
         {
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
         }
       ],
-      "duration_ms": 155373,
-      "name": "Old Friends",
-      "url": "https://open.spotify.com/track/7vJRHZP1PuNwjUcoCsWlul"
+      "duration_ms": 191066,
+      "name": "That Silver-Haired Daddy of Mine - Live at Long Beach Arena, Long Beach, CA - November 1969",
+      "url": "https://open.spotify.com/track/4aBIXNKJ5SvyTaZLhnisnw"
     },
     {
       "added_at": null,
@@ -571,8 +571,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live 1969",
-        "url": "https://open.spotify.com/album/1agP6sAeWsH8Pgm8WrVtdl"
+        "name": "Bookends",
+        "url": "https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2"
       },
       "artists": [
         {
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
         }
       ],
-      "duration_ms": 191066,
-      "name": "That Silver-Haired Daddy of Mine - Live at Long Beach Arena, Long Beach, CA - November 1969",
-      "url": "https://open.spotify.com/track/4aBIXNKJ5SvyTaZLhnisnw"
+      "duration_ms": 155373,
+      "name": "Old Friends",
+      "url": "https://open.spotify.com/track/7vJRHZP1PuNwjUcoCsWlul"
     },
     {
       "added_at": null,

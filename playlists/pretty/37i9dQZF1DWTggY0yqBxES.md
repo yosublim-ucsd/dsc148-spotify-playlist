@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 
 > New, leftfield, and for the real hip\-hop stans! Cover: AG Club
 
-[Spotify](https://open.spotify.com/user/spotify) - 945,004 likes - 100 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 945,006 likes - 100 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 | 8 | [Barry](https://open.spotify.com/track/3z5hvnhC1rksnJNKR7rvqX) | [AG Club](https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c) | [WE'RE ALL BRODIES\*](https://open.spotify.com/album/6vIfYqKIvseLIBU7e1E34c) | 2:16 |
 | 9 | [Out The Way](https://open.spotify.com/track/2amwhV87lPg4RXhS1eXkpz) | [Dear Silas](https://open.spotify.com/artist/4C6vnglzmsWszcdp5WaX6O) | [601 DEGREEZ](https://open.spotify.com/album/7tVFEAcU6vIaSYrLWXYLbP) | 2:25 |
 | 10 | [girls like drugs](https://open.spotify.com/track/0eXkUXr4wJ3Orruk8S1cpW) | [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq) | [girls like drugs](https://open.spotify.com/album/2xowbFbsPQ5UY05US7AJS9) | 2:54 |
-| 11 | [LUNCHROOM FREESTYLE \(feat\. Babytron\)](https://open.spotify.com/track/0IdnpPAGtYbUH3TWHR9Egn) | [Nasaan](https://open.spotify.com/artist/6qbCuiHIWsiQxNhqXgc7mz), [Babytron](https://open.spotify.com/artist/3CZBIUkUIsjvLnVclMIlHa) | [ERROR 404](https://open.spotify.com/album/33X7CmFuM7WuVyTho420ZG) | 2:16 |
+| 11 | [LUNCHROOM FREESTYLE \(feat\. BabyTron\)](https://open.spotify.com/track/0IdnpPAGtYbUH3TWHR9Egn) | [Nasaan](https://open.spotify.com/artist/6qbCuiHIWsiQxNhqXgc7mz), [Babytron](https://open.spotify.com/artist/3CZBIUkUIsjvLnVclMIlHa) | [ERROR 404](https://open.spotify.com/album/33X7CmFuM7WuVyTho420ZG) | 2:16 |
 | 12 | [Shut Shit Down](https://open.spotify.com/track/7rIfWHDoTPLNtTtkorbs3h) | [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI), [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [Shut Shit Down](https://open.spotify.com/album/74HGGYuCtUANyifLwRIZhQ) | 2:42 |
 | 13 | [Falling](https://open.spotify.com/track/5cF4gR8WHnHgkPFSD6hdC2) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER) | [Falling](https://open.spotify.com/album/7FGCBxUHVOvJUEWTwLCA9c) | 2:23 |
 | 14 | [pradaponcho](https://open.spotify.com/track/6Y4JejQ1typSpsBYcbwVbZ) | [Blvck Svm](https://open.spotify.com/artist/7gwpZPmZHIx4B2uLl6uimj), [Pilotkid](https://open.spotify.com/artist/286FnZHn1jC2EwmR0HtCkG) | [jetsvm](https://open.spotify.com/album/6ywL1IfJGesqLYEZDjFFw9) | 2:42 |

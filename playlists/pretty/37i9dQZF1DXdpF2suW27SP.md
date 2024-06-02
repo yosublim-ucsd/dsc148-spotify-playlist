@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 
 > Plutonio entra na zona.
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,008 likes - 75 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,048 likes - 75 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Acordar](https://open.spotify.com/track/1M7pnSHpd4i5xFE2nUGq2W) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [Acordar](https://open.spotify.com/album/1tWREZzrDTdmy0ADiiI18b) | 3:17 |
-| 2 | [Ninguém Entende Nada](https://open.spotify.com/track/7cmCX8M8z9GZerCgVG1dyU) | [Mizzy Miles](https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I), [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo), [MC PH](https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5) | [Ninguém Entende Nada](https://open.spotify.com/album/2OIxd2V2LTFqqu7JL9a9US) | 3:12 |
+| 2 | [Ninguém Entende Nada](https://open.spotify.com/track/7cmCX8M8z9GZerCgVG1dyU) | [Mizzy Miles](https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I), [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo), [MC PH](https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5) | [Ninguém Entende Nada](https://open.spotify.com/album/2OIxd2V2LTFqqu7JL9a9US) | 3:16 |
 | 3 | [Priceless](https://open.spotify.com/track/0IsDXIzleU032NLdaKG0o2) | [Instinto 26](https://open.spotify.com/artist/0XrDy5XUWRVcD4O8sSyzEV), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Priceless](https://open.spotify.com/album/2amag4wp9qpVP8RXKLBCfb) | 3:32 |
 | 4 | [Bang Bang](https://open.spotify.com/track/7vmGmNjmGD7hNdzVTk1jnD) | [Phoenix Rdc](https://open.spotify.com/artist/5L3JOH0e3PcOrHKVMXrFna), [LEO2745](https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx) | [Bang Bang](https://open.spotify.com/album/4xpVGxaPk6XEMFqNMwMeH2) | 3:32 |
 | 5 | [Pai Nosso](https://open.spotify.com/track/2Wt9Xg5ANi2brf6MMFZCVG) | [Prodigio](https://open.spotify.com/artist/0Zsw8N0usCdHtEtFtwZKg5), [C4 Pedro](https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao), [Dji Tafinha](https://open.spotify.com/artist/3VGB73iYdHZ7T3jjgucrYS) | [Pai Nosso](https://open.spotify.com/album/78919XqfT2YtPVZt6CloJs) | 4:24 |

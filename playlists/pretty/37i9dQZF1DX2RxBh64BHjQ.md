@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:2R0CFyeMDiRbfkhkIMbyl1">Cash Cobain</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,757,078 likes - 99 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,757,231 likes - 99 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 12 | [Mr Pot Scraper](https://open.spotify.com/track/6PmqCt2fO80OojY5eGS2X3) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc) | [Mr Pot Scraper](https://open.spotify.com/album/4yhIfYT0AYm9hGHZxvttaZ) | 2:25 |
 | 13 | [Magic Johnson](https://open.spotify.com/track/2qttu4WQD8xQZ9DBXdp4L5) | [ian](https://open.spotify.com/artist/23hzc59PkIUau13dqXx5Ef) | [Valedictorian \[Deluxe\]](https://open.spotify.com/album/0HklW0u2UIH4rurxX6ML8q) | 2:17 |
 | 14 | [Homebody](https://open.spotify.com/track/4pcgOnRhCaNBOz5e0xcyWg) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [4GOD II \(Deluxe\)](https://open.spotify.com/album/6nKbzw2rIciCleGWUui9Mw) | 2:01 |
-| 15 | [LUNCHROOM FREESTYLE \(feat\. Babytron\)](https://open.spotify.com/track/0IdnpPAGtYbUH3TWHR9Egn) | [Nasaan](https://open.spotify.com/artist/6qbCuiHIWsiQxNhqXgc7mz), [Babytron](https://open.spotify.com/artist/3CZBIUkUIsjvLnVclMIlHa) | [ERROR 404](https://open.spotify.com/album/33X7CmFuM7WuVyTho420ZG) | 2:16 |
+| 15 | [LUNCHROOM FREESTYLE \(feat\. BabyTron\)](https://open.spotify.com/track/0IdnpPAGtYbUH3TWHR9Egn) | [Nasaan](https://open.spotify.com/artist/6qbCuiHIWsiQxNhqXgc7mz), [Babytron](https://open.spotify.com/artist/3CZBIUkUIsjvLnVclMIlHa) | [ERROR 404](https://open.spotify.com/album/33X7CmFuM7WuVyTho420ZG) | 2:16 |
 | 16 | [Yeah Glo!](https://open.spotify.com/track/0SdBkFh6u5IHIXqlBu0NyI) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Yeah Glo!](https://open.spotify.com/album/4C6tr5dhwjMXTLkWL86Rqa) | 2:22 |
 | 17 | [Courtesy Of](https://open.spotify.com/track/3IkmOqvFO5yM1D5rjGn701) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [2 Faced, Pt\. 2](https://open.spotify.com/album/20WBtyZuLSGHtzJ02ZsY4p) | 2:26 |
 | 18 | [Bad Bitty](https://open.spotify.com/track/3hDGP1FyivTChULeeVWkH6) | [J.P.](https://open.spotify.com/artist/6ygDlIilHZqielxxkvmIVH) | [Bad Bitty](https://open.spotify.com/album/2ACyT17aP97swSJO9wDjvd) | 1:42 |

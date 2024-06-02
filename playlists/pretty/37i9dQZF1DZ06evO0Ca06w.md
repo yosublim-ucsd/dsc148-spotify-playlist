@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Ca06w.md) - [plain]
 
 > This is Miriam Makeba\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,068 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,067 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Ca06w.md) - [plain]
 | 49 | [Mbube](https://open.spotify.com/track/5arMcy1mhCAPd3zGzx3uJJ) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Miriam Makeba](https://open.spotify.com/album/1x0hxEsfIUX7NR2ovzDY8n) | 3:19 |
 | 50 | [Intandane](https://open.spotify.com/track/2xlI9keTknyVI9DHMJt6yL) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Love Tastes Like Strawberries](https://open.spotify.com/album/7eTqtgal5V0HwxS2J87Vmc) | 2:26 |
 
-Snapshot ID: `ZlfBgAAAAADThHY/rxx9PlqVE56GJceS`
+Snapshot ID: `ZlkTAAAAAAC0kv2Fc+ORf7ydgpQSl0sj`

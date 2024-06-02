@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: Jonna Fraser
 
-[Spotify](https://open.spotify.com/user/spotify) - 261,067 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 261,089 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,7 +104,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 94 | [Getaway](https://open.spotify.com/track/4GUSxRTGJe1nzfadp9dA7V) | [Danny Kuttner](https://open.spotify.com/artist/7JQoDD1lpEKouUMyh9yIFH), [Roy Reemy](https://open.spotify.com/artist/7oRZxDEJe5QKE3yWJxAOP0) | [Getaway](https://open.spotify.com/album/1CjEqOxmsaPtlm3aVp1tKU) | 3:10 |
 | 95 | [Per Ongeluk Verliefd](https://open.spotify.com/track/0KYlSyEchSuHkbrtVxZ6Ch) | [JOB](https://open.spotify.com/artist/5sSYwtZlYFqpTnHjjxxEXB) | [Per Ongeluk Verliefd](https://open.spotify.com/album/6WKgBHm6gfXfqT0OUrMAfE) | 2:53 |
 | 96 | [Zomer](https://open.spotify.com/track/4LWSh6ywiwlEpPytH5bstM) | [Flaire](https://open.spotify.com/artist/24prX5FxY9YygEvM0AkXOH) | [Zomer](https://open.spotify.com/album/3To7NyeKEzquC5ufnuQNWV) | 3:38 |
-| 97 | [Feed You To My Dog](https://open.spotify.com/track/6tQnoOU4mMgx5mMiDFXJlR) | [GUNMOLL](https://open.spotify.com/artist/58JjVQf1svduEYcR9y3jba) | [Feed You To My Dog](https://open.spotify.com/album/5AvylfOCnLhdTzNzXXU4UU) | 3:30 |
+| 97 | [Feed You To My Dog](https://open.spotify.com/track/6tQnoOU4mMgx5mMiDFXJlR) | [GUNMOLL](https://open.spotify.com/artist/58JjVQf1svduEYcR9y3jba) | [Feed You To My Dog](https://open.spotify.com/album/5AvylfOCnLhdTzNzXXU4UU) | 3:16 |
 | 98 | [All for Love](https://open.spotify.com/track/1uY5hVJoMZjq6bTRhokkjW) | [Bilal](https://open.spotify.com/artist/4jCbgl5Dmt3uOh8WRQfpPs), [?uestlove](https://open.spotify.com/artist/1h2OVSKRdJHnVqyCKqCLkf), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Burniss Travis](https://open.spotify.com/artist/4Y4dR3x2kFHqIEJJ7SaH9c) | [All for Love](https://open.spotify.com/album/0HsRlNgQyqMG96FaB3DHfT) | 6:12 |
 | 99 | [Frogs](https://open.spotify.com/track/39irRnySrRADgui9AVTqdx) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Frogs](https://open.spotify.com/album/7vANyFbcIVAprU6bilb72I) | 4:34 |
 | 100 | [Elderflower](https://open.spotify.com/track/6oVPWnKlzdypo7G21DYlk3) | [Cocobolo](https://open.spotify.com/artist/2KL4LWA8Ed7B5SscFbaLsu) | [Elderflower](https://open.spotify.com/album/2yLJe0AJmWg9RsPTJSs5Gp) | 4:14 |

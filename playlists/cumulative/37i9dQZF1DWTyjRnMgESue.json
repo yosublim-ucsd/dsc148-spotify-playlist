@@ -909,6 +909,24 @@
     },
     {
       "album": {
+        "name": "Honeymind",
+        "url": "https://open.spotify.com/album/4m6z4j8iS3wqv0kY9lmsDC"
+      },
+      "artists": [
+        {
+          "name": "Ben Platt",
+          "url": "https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251053,
+      "name": "Before I Knew You",
+      "url": "https://open.spotify.com/track/3qR4a0OJETm6ptX1coBQ2g"
+    },
+    {
+      "album": {
         "name": "Before You Let Me Go",
         "url": "https://open.spotify.com/album/1W9yQ05UVOZDwT6u5DrnEs"
       },
@@ -9386,7 +9404,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-02",
       "duration_ms": 252152,
       "name": "yeti",
       "url": "https://open.spotify.com/track/4dT8XbhKwQez5lxYCKq0L5"

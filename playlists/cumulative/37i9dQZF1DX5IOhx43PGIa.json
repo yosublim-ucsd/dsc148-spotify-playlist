@@ -7620,7 +7620,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-02",
       "duration_ms": 187162,
       "name": "Lately I",
       "url": "https://open.spotify.com/track/0gLFMd2AWX4C0KIipkixxj"
@@ -14058,6 +14058,28 @@
       "duration_ms": 173624,
       "name": "treat your friends",
       "url": "https://open.spotify.com/track/0lyxM7QX5gEIn600SxaS7i"
+    },
+    {
+      "album": {
+        "name": "TRIBAL",
+        "url": "https://open.spotify.com/album/0IVgBIkEeVAARxWIVaFmV4"
+      },
+      "artists": [
+        {
+          "name": "8RO8",
+          "url": "https://open.spotify.com/artist/5LTQDaq9tqtYv4tvXwbYD8"
+        },
+        {
+          "name": "Juws",
+          "url": "https://open.spotify.com/artist/53xeEBZ8oXkA7iSQOT1Bbm"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "TRIBAL",
+      "url": "https://open.spotify.com/track/3MddmE2BeMcsWPdSBcByVl"
     },
     {
       "album": {

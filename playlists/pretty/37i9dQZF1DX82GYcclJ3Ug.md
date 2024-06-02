@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules\. No boundaries\. The best new alternative tracks\. Cover: Phantogram
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,112,597 likes - 132 songs - 7 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,112,680 likes - 132 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,7 +115,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 | 105 | [F\*ck My Life Up Again](https://open.spotify.com/track/0Jw0GvrJl8QIvY28wjAkdY) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Mood Swings](https://open.spotify.com/album/7sVfGWfXF2C97KvHHw3Voa) | 4:18 |
 | 106 | [Flagstaff](https://open.spotify.com/track/0PXl1N2xmZxbayBQOljH4u) | [Ax and the Hatchetmen](https://open.spotify.com/artist/5WJCUSIw2Td5IEfa3LXCo9) | [Flagstaff](https://open.spotify.com/album/7bpAsA4g2GY2xZDXCOMRNM) | 2:47 |
 | 107 | [America In Your 20's](https://open.spotify.com/track/4TxUOw5JClsIauZYgAQsat) | [Winnetka Bowling League](https://open.spotify.com/artist/4ug3P1K8BaCdJXROrqHqhu) | [Sha La La](https://open.spotify.com/album/61uQGdOrAk6lzwmCZAjf2k) | 3:28 |
-| 108 | [Noone's Ever Kissed You](https://open.spotify.com/track/3bqFoUhoet6YhQa8iV5wO3) | [Winnetka Bowling League](https://open.spotify.com/artist/4ug3P1K8BaCdJXROrqHqhu) | [Sha La La](https://open.spotify.com/album/61uQGdOrAk6lzwmCZAjf2k) | 2:49 |
+| 108 | [No One’s Ever Kissed You](https://open.spotify.com/track/3bqFoUhoet6YhQa8iV5wO3) | [Winnetka Bowling League](https://open.spotify.com/artist/4ug3P1K8BaCdJXROrqHqhu) | [Sha La La](https://open.spotify.com/album/61uQGdOrAk6lzwmCZAjf2k) | 2:49 |
 | 109 | [Honeycrash](https://open.spotify.com/track/49MS1LeGxzcG9LOvpzhAQr) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Honeycrash](https://open.spotify.com/album/65c74y1vN6hMca1Zs4hkVo) | 3:08 |
 | 110 | [One Of The Pack](https://open.spotify.com/track/79QWntL6utGA8UWExmcmCn) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Heaven](https://open.spotify.com/album/1N1hcETSwMi13yU30szzpD) | 3:17 |
 | 111 | [LOVEBITES](https://open.spotify.com/track/5Qmabe5M68D39yD3ie9dum) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43) | [LOVEBITES](https://open.spotify.com/album/4gHjIxAYsDLd6gAWcwNod7) | 3:32 |

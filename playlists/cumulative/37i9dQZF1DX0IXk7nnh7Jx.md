@@ -4,7 +4,7 @@
 
 > Celebrate the spirit of independence by listening to the best songs from faith\-based indie artists\.  Cover: <a href="spotify:artist:19TPpTWkgX13Qc2stbqVoP">Terrian</a>
 
-526 songs - 1 day 7 hr 13 min
+527 songs - 1 day 7 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [A New Thing](https://open.spotify.com/track/1lzFtxdNGEUf3mWeqb6aBi) | [Madison Ryann Ward](https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI) | [A New Thing](https://open.spotify.com/album/5e2Kuvl2v660idmQZMzXVz) | 3:37 | 2023-04-21 |  |
 | [A Way For Us](https://open.spotify.com/track/4tkNhyuG4WHv6aakY5HU8J) | [Jordan St\. Cyr](https://open.spotify.com/artist/4RbkVdTJEHZEfppvxBD6Il) | [A Way For Us](https://open.spotify.com/album/7JsaHljx1p4GA1cnRGvRH0) | 3:19 | 2024-01-26 |  |
 | [Adoration](https://open.spotify.com/track/4JEZLVhxcUs3LDJlShOVKc) | [Hyper Fenton](https://open.spotify.com/artist/2q5QIs6iibW6xyHZZRSeh2), [Moflo Music](https://open.spotify.com/artist/6MPy3PayvN8uNYA8Wm3Z4a) | [Adoration](https://open.spotify.com/album/66aPP7iMWgeSRJ6mx0hKYI) | 1:53 | 2023-02-19 | 2023-11-04 |
+| [afraid of the dark](https://open.spotify.com/track/3ag8G7Wh4xrYdeA1UhyLHR) | [Xander Sallows](https://open.spotify.com/artist/1qkNJ1IgevMh0GG9rMEh8F) | [afraid of the dark](https://open.spotify.com/album/7DuDtgnu2VzuNJW4P8Hxzs) | 2:34 | 2024-05-10 |  |
 | [Against The Cosmic Powers](https://open.spotify.com/track/1vIfI3Oy2OvXG3KWkSWBHy) | [Jaisua](https://open.spotify.com/artist/7u5RAgXZgtZJ7yINfxdUc5), [EmanuelDaProphet](https://open.spotify.com/artist/5P0vV6Fw0YTdumAPZSkkuC) | [Against The Cosmic Powers](https://open.spotify.com/album/0bCphzyujUHkBHvzNAsmG4) | 2:41 | 2023-12-01 | 2024-01-27 |
 | [ALL MY LIFE](https://open.spotify.com/track/44HijDTWOym4XWqEFQD28Y) | [Jordan May](https://open.spotify.com/artist/0lx6baQe1oEBLm8jkDWI8v) | [Greater Is He](https://open.spotify.com/album/3Ah5hEwBGRZy0uBfzm5jMv) | 3:00 | 2023-12-01 |  |
 | [All the Way Back](https://open.spotify.com/track/7IVb5aC9nepiHr4BlwLPtN) | [Calah Mikal](https://open.spotify.com/artist/2c2Y05pVIabK1AT1zfsH0h), [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [All the Way Back](https://open.spotify.com/album/461UGIq9xPPZnqmnFzfV5k) | 4:21 | 2023-04-21 |  |
@@ -65,7 +66,7 @@
 | [Candlelight](https://open.spotify.com/track/3aIEDekEyK5BOOoLuJNo4C) | [Praise Lubangu](https://open.spotify.com/artist/4HhRKQggbwOvVNliPn1OsQ), [IMRSQD](https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc) | [Candlelight](https://open.spotify.com/album/5TaylRZLl8LZJ9SAccvHQe) | 3:54 | 2024-01-26 |  |
 | [Captive](https://open.spotify.com/track/2f3EkdJtuokX2L85cK0yOz) | [Clemency](https://open.spotify.com/artist/5fuNHncNSPS8kNTSDzxlvJ) | [Captive](https://open.spotify.com/album/1xo0esdUHZWjuVzInMGm27) | 3:03 | 2020-12-18 | 2022-06-23 |
 | [Captured \- with Trulah](https://open.spotify.com/track/2E0HUOrgjtVfMYCeKw9ZoQ) | [Isla Vista Worship](https://open.spotify.com/artist/6SPi7yJRY3SAhwhUlFFsNB), [Mark Barlow](https://open.spotify.com/artist/6hR5fuwetYvTHfea4EwHvl), [Trulah](https://open.spotify.com/artist/7yUqjhujjMXv4QHq59Q9wR) | [Captured \(with Trulah\)](https://open.spotify.com/album/4tk3i1oLFGMjC9shHslFTp) | 5:12 | 2023-04-21 |  |
-| [Carried](https://open.spotify.com/track/71lnfcnHCy52jc4Fk3nBzd) | [Ethan C\. Davis](https://open.spotify.com/artist/34vEpj4qI07ROyQSkw41II), [Isla Vista Worship](https://open.spotify.com/artist/6SPi7yJRY3SAhwhUlFFsNB) | [Carried](https://open.spotify.com/album/7FF2D1VZ0HzV0MdXvphF1v) | 2:17 | 2023-04-07 |  |
+| [Carried](https://open.spotify.com/track/71lnfcnHCy52jc4Fk3nBzd) | [Ethan C\. Davis](https://open.spotify.com/artist/34vEpj4qI07ROyQSkw41II), [Isla Vista Worship](https://open.spotify.com/artist/6SPi7yJRY3SAhwhUlFFsNB) | [Carried](https://open.spotify.com/album/7FF2D1VZ0HzV0MdXvphF1v) | 2:17 | 2023-04-07 | 2024-06-02 |
 | [cast \(get better\)](https://open.spotify.com/track/57ujX4LPYjK8kPkSLiBwl7) | [OM53](https://open.spotify.com/artist/2n2zrJvvOxdEIdumy0FrwA) | [cast \(get better\)](https://open.spotify.com/album/2SKthw3FGVjNnFgBfiaTF7) | 2:57 | 2023-02-19 | 2023-08-05 |
 | [Celebrate](https://open.spotify.com/track/3MRPHk7P4vaj6N67sv3bWX) | [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd) | [Celebrate](https://open.spotify.com/album/41bEnEoEp9UDZmBVdULSZE) | 2:55 | 2023-11-03 |  |
 | [Changes \- Guitarmix](https://open.spotify.com/track/1lq3tG50UFLWpmbFostGPS) | [Shirlvin Desir](https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y) | [Changes \(Guitarmix\)](https://open.spotify.com/album/4etzZKMzM0fhK5oyrnHyxo) | 2:30 | 2023-02-19 | 2023-03-18 |

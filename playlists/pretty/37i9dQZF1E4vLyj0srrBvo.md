@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4vLyj0srrBvo.md) - [plain](/playlists/plain/37i9dQZF1E4vLyj0srrBvo) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1E4vLyj0srrBvo)
 
-### [Grimes 电台](https://open.spotify.com/playlist/37i9dQZF1E4vLyj0srrBvo)
+### [Grimes Radio](https://open.spotify.com/playlist/37i9dQZF1E4vLyj0srrBvo)
 
-> 包含 FKA twigs, Crystal Castles, Purity Ring 等艺人的作品
+> With FKA twigs, Crystal Castles, Purity Ring and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,445 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,466 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4vLyj0srrBvo.md) - [plain]
 | 49 | [人為機器 \(Humans Become Machines\)](https://open.spotify.com/track/6J1w3mHuDmRseT5u00hh9h) | [潘PAN](https://open.spotify.com/artist/3gRbjzXPan9DOBEMmTjxVo), [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Humans Become Machines](https://open.spotify.com/album/4lanKmC6sMfR05ylkMGaJi) | 2:26 |
 | 50 | [Insomniac](https://open.spotify.com/track/2klj0StczYde6WUHBJo5F6) | [Memo Boy](https://open.spotify.com/artist/2jwC7uml6QVgLBfx1Hbtek), [Chakra Efendi](https://open.spotify.com/artist/3pFSlKAoVnaEycgIcPDctw) | [Songs & Demos 2015\-2017](https://open.spotify.com/album/0a0ftVkZr4K1QoOXcZF0V1) | 3:32 |
 
-Snapshot ID: `Zlrh2gAAAABFMYEg1UBV7U03ah9QawRM`
+Snapshot ID: `ZlvGGAAAAADQwTmvxzYFV23EUhwJGpm8`

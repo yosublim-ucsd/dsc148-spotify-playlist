@@ -2,7 +2,7 @@
 
 ### [RAP GENERACJA](https://open.spotify.com/playlist/37i9dQZF1DWXJnyndhASBe)
 
-> Największe rapowe kawałki w tej chwili 👶 Cover: Young\(er\) Leosia, bambi
+> Największe rapowe kawałki w tej chwili\. Cover: Young Leosia, bambi
 
 324 songs - 15 hr 13 min
 

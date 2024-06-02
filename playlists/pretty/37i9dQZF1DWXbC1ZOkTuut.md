@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbC1ZOkTuut.md) - [plain]
 
 > Descubre los nuevos álbumes de Música Mexicana\. Hit shuffle for a mixed listening experience\. Cover: Chiquis
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,538 likes - 168 songs - 8 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,545 likes - 168 songs - 8 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -2,7 +2,7 @@
 
 ### [This Is Mi Banda El Mexicano](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0pMfpd)
 
-> This Is Mi Banda El Mexicano\. Les seves cançons imprescindibles en una llista de reproducció.
+> This is Mi Banda El Mexicano\. The essential tracks, all in one playlist.
 
 61 songs - 3 hr 39 min
 

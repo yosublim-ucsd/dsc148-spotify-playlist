@@ -1,6 +1,6 @@
 {
   "description": "Hol dir dein Lieblingscaf\u00e9 nach Hause.",
-  "num_followers": 731861,
+  "num_followers": 731881,
   "original_name": "Kaffeehausmusik",
   "owner": {
     "name": "Spotify",
@@ -367,22 +367,6 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "Bathing Beach",
-        "url": "https://open.spotify.com/album/4vGuMdwnxc6X8izbVS6MTN"
-      },
-      "artists": [
-        {
-          "name": "Novo Amor",
-          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
-        }
-      ],
-      "duration_ms": 228164,
-      "name": "Colourway",
-      "url": "https://open.spotify.com/track/2oa53bhiNPCz2CGh26AYxi"
-    },
-    {
-      "added_at": "2024-04-24 06:24:42",
-      "album": {
         "name": "Young Blood (Acoustic)",
         "url": "https://open.spotify.com/album/6S5IUKVISP7NycmxpuPr9v"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 200613,
       "name": "Young Blood - Acoustic",
       "url": "https://open.spotify.com/track/6QPqf4WqwZkxM68bGipzvP"
+    },
+    {
+      "added_at": "2024-04-24 06:24:42",
+      "album": {
+        "name": "Bathing Beach",
+        "url": "https://open.spotify.com/album/4vGuMdwnxc6X8izbVS6MTN"
+      },
+      "artists": [
+        {
+          "name": "Novo Amor",
+          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
+        }
+      ],
+      "duration_ms": 228164,
+      "name": "Colourway",
+      "url": "https://open.spotify.com/track/2oa53bhiNPCz2CGh26AYxi"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -463,22 +463,6 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "Stop All the World Now (Special Edition)",
-        "url": "https://open.spotify.com/album/5OmZitvmVXYsjEXkTD3P6Y"
-      },
-      "artists": [
-        {
-          "name": "Howie Day",
-          "url": "https://open.spotify.com/artist/0ekbDNE2eOq8QiaXM34wer"
-        }
-      ],
-      "duration_ms": 277000,
-      "name": "Collide - Acoustic Version",
-      "url": "https://open.spotify.com/track/5rwq6R0Uq0BngM3rdmCeNg"
-    },
-    {
-      "added_at": "2024-04-24 06:24:42",
-      "album": {
         "name": "Already Gone",
         "url": "https://open.spotify.com/album/0qOy9NpS6fADbXb0ViXNtE"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 300499,
       "name": "Into The Sun - EP Version",
       "url": "https://open.spotify.com/track/4gFakkHz0RjUrbf9Ufilb7"
+    },
+    {
+      "added_at": "2024-04-24 06:24:42",
+      "album": {
+        "name": "Stop All the World Now (Special Edition)",
+        "url": "https://open.spotify.com/album/5OmZitvmVXYsjEXkTD3P6Y"
+      },
+      "artists": [
+        {
+          "name": "Howie Day",
+          "url": "https://open.spotify.com/artist/0ekbDNE2eOq8QiaXM34wer"
+        }
+      ],
+      "duration_ms": 277000,
+      "name": "Collide - Acoustic Version",
+      "url": "https://open.spotify.com/track/5rwq6R0Uq0BngM3rdmCeNg"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -563,22 +563,6 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "Cleopatra",
-        "url": "https://open.spotify.com/album/5y1YWb4OONEGbxZQLRNUwO"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 160097,
-      "name": "Ophelia",
-      "url": "https://open.spotify.com/track/5NORWMFC27ywGSZxi8uquP"
-    },
-    {
-      "added_at": "2024-04-24 06:24:42",
-      "album": {
         "name": "XO",
         "url": "https://open.spotify.com/album/1zOxlHQGGV6EH7n4OIFTyh"
       },
@@ -595,18 +579,18 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "Dream Your Life Away",
-        "url": "https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg"
+        "name": "Cleopatra",
+        "url": "https://open.spotify.com/album/5y1YWb4OONEGbxZQLRNUwO"
       },
       "artists": [
         {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
         }
       ],
-      "duration_ms": 230506,
-      "name": "Georgia",
-      "url": "https://open.spotify.com/track/6Fha6tXHkL3r9m9nNqQG8p"
+      "duration_ms": 160097,
+      "name": "Ophelia",
+      "url": "https://open.spotify.com/track/5NORWMFC27ywGSZxi8uquP"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -623,6 +607,22 @@
       "duration_ms": 251440,
       "name": "Arms Of A Woman",
       "url": "https://open.spotify.com/track/37pK088xTo1ZpR3y23wsFk"
+    },
+    {
+      "added_at": "2024-04-24 06:24:42",
+      "album": {
+        "name": "Dream Your Life Away",
+        "url": "https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 230506,
+      "name": "Georgia",
+      "url": "https://open.spotify.com/track/6Fha6tXHkL3r9m9nNqQG8p"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "Songs for the Drunk and Broken Hearted (Deluxe)",
-        "url": "https://open.spotify.com/album/1cD1OsXdX1czUNujNuJGzJ"
-      },
-      "artists": [
-        {
-          "name": "Passenger",
-          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
-        }
-      ],
-      "duration_ms": 201720,
-      "name": "Sword from the Stone",
-      "url": "https://open.spotify.com/track/32PwKptR5PhpP4Gxv8Lvps"
-    },
-    {
-      "added_at": "2024-04-24 06:24:42",
-      "album": {
         "name": "Bavarian Fruit Bread",
         "url": "https://open.spotify.com/album/7JAh6mfXLsGojvj9a4fnDT"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 294066,
       "name": "Suzanne",
       "url": "https://open.spotify.com/track/0K9iwmos5IKhO7kK4sQJwl"
+    },
+    {
+      "added_at": "2024-04-24 06:24:42",
+      "album": {
+        "name": "Songs for the Drunk and Broken Hearted (Deluxe)",
+        "url": "https://open.spotify.com/album/1cD1OsXdX1czUNujNuJGzJ"
+      },
+      "artists": [
+        {
+          "name": "Passenger",
+          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
+        }
+      ],
+      "duration_ms": 201720,
+      "name": "Sword from the Stone",
+      "url": "https://open.spotify.com/track/32PwKptR5PhpP4Gxv8Lvps"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "Alone, Together",
-        "url": "https://open.spotify.com/album/0rjKAJNRVVFIzCF8mYLPCZ"
-      },
-      "artists": [
-        {
-          "name": "Daniel Pearson",
-          "url": "https://open.spotify.com/artist/0yll2u1E5eqktJyKri1PNm"
-        }
-      ],
-      "duration_ms": 180994,
-      "name": "Come Back Around",
-      "url": "https://open.spotify.com/track/7G89TqdJ9lZIv4toGuxjAr"
-    },
-    {
-      "added_at": "2024-04-24 06:24:42",
-      "album": {
         "name": "Build Me Up From Bones",
         "url": "https://open.spotify.com/album/3WgIxB4vFl8i5ZHCypubIK"
       },
@@ -1199,22 +1183,6 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "Teenage Dirtbag",
-        "url": "https://open.spotify.com/album/6csWPrRMyZDT3DRu7QOodg"
-      },
-      "artists": [
-        {
-          "name": "Walk off the Earth",
-          "url": "https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX"
-        }
-      ],
-      "duration_ms": 199200,
-      "name": "Teenage Dirtbag",
-      "url": "https://open.spotify.com/track/6nWh37Xjbph0Zr0dTJGZ2p"
-    },
-    {
-      "added_at": "2024-04-24 06:24:42",
-      "album": {
         "name": "Simple Song",
         "url": "https://open.spotify.com/album/7cIbon1lg6X8cb2dQnNj2u"
       },
@@ -1227,6 +1195,38 @@
       "duration_ms": 228480,
       "name": "Simple Song",
       "url": "https://open.spotify.com/track/1Ne8Bps9vPxCmmSetoJSBd"
+    },
+    {
+      "added_at": "2024-04-24 06:24:42",
+      "album": {
+        "name": "Alone, Together",
+        "url": "https://open.spotify.com/album/0rjKAJNRVVFIzCF8mYLPCZ"
+      },
+      "artists": [
+        {
+          "name": "Daniel Pearson",
+          "url": "https://open.spotify.com/artist/0yll2u1E5eqktJyKri1PNm"
+        }
+      ],
+      "duration_ms": 180994,
+      "name": "Come Back Around",
+      "url": "https://open.spotify.com/track/7G89TqdJ9lZIv4toGuxjAr"
+    },
+    {
+      "added_at": "2024-04-24 06:24:42",
+      "album": {
+        "name": "Teenage Dirtbag",
+        "url": "https://open.spotify.com/album/6csWPrRMyZDT3DRu7QOodg"
+      },
+      "artists": [
+        {
+          "name": "Walk off the Earth",
+          "url": "https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX"
+        }
+      ],
+      "duration_ms": 199200,
+      "name": "Teenage Dirtbag",
+      "url": "https://open.spotify.com/track/6nWh37Xjbph0Zr0dTJGZ2p"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "The Only",
-        "url": "https://open.spotify.com/album/2oMZSDIcBFvhqoVsByTfvb"
-      },
-      "artists": [
-        {
-          "name": "Sasha Alex Sloan",
-          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
-        }
-      ],
-      "duration_ms": 217167,
-      "name": "The Only",
-      "url": "https://open.spotify.com/track/4VrUT6GeeSRz6MB8tWJSHM"
-    },
-    {
-      "added_at": "2024-04-24 06:24:42",
-      "album": {
         "name": "The Only Thing Worth Fighting For (From The HBO Series True Detective)",
         "url": "https://open.spotify.com/album/00NfXHt45nh1NYwYNwL4ob"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 196613,
       "name": "The Only Thing Worth Fighting For - From The HBO Series True Detective",
       "url": "https://open.spotify.com/track/1s99Qkm5GtZ1ufweMDOfzQ"
+    },
+    {
+      "added_at": "2024-04-24 06:24:42",
+      "album": {
+        "name": "The Only",
+        "url": "https://open.spotify.com/album/2oMZSDIcBFvhqoVsByTfvb"
+      },
+      "artists": [
+        {
+          "name": "Sasha Alex Sloan",
+          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
+        }
+      ],
+      "duration_ms": 217167,
+      "name": "The Only",
+      "url": "https://open.spotify.com/track/4VrUT6GeeSRz6MB8tWJSHM"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "Wilderness (Akustik Edition)",
-        "url": "https://open.spotify.com/album/4OuwhyYh5BvuWcNFbyuPnu"
-      },
-      "artists": [
-        {
-          "name": "Hundreds",
-          "url": "https://open.spotify.com/artist/7mTyxMGqsoIl6ofVdtjfux"
-        }
-      ],
-      "duration_ms": 192441,
-      "name": "Flume - Bon Iver Cover",
-      "url": "https://open.spotify.com/track/0ssg58w7Rbp3pWFQqRGrPM"
-    },
-    {
-      "added_at": "2024-04-24 06:24:42",
-      "album": {
         "name": "Teardrop (Bundle)",
         "url": "https://open.spotify.com/album/1lasLiI29mPcLhoaDzI5qV"
       },
@@ -1507,18 +1491,18 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "What If We Never Forget",
-        "url": "https://open.spotify.com/album/6u7QPxWQ9UUm8DRZWAIRUP"
+        "name": "Wilderness (Akustik Edition)",
+        "url": "https://open.spotify.com/album/4OuwhyYh5BvuWcNFbyuPnu"
       },
       "artists": [
         {
-          "name": "AVEC",
-          "url": "https://open.spotify.com/artist/6N8vbhxZ0CYJHd8WGJ9Snf"
+          "name": "Hundreds",
+          "url": "https://open.spotify.com/artist/7mTyxMGqsoIl6ofVdtjfux"
         }
       ],
-      "duration_ms": 173585,
-      "name": "Dead",
-      "url": "https://open.spotify.com/track/6hmfvoVTNKsev2whMLjRjQ"
+      "duration_ms": 192441,
+      "name": "Flume - Bon Iver Cover",
+      "url": "https://open.spotify.com/track/0ssg58w7Rbp3pWFQqRGrPM"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -1535,6 +1519,22 @@
       "duration_ms": 327469,
       "name": "London Bridge",
       "url": "https://open.spotify.com/track/5dRy520QssuzpqsPOVrgJF"
+    },
+    {
+      "added_at": "2024-04-24 06:24:42",
+      "album": {
+        "name": "What If We Never Forget",
+        "url": "https://open.spotify.com/album/6u7QPxWQ9UUm8DRZWAIRUP"
+      },
+      "artists": [
+        {
+          "name": "AVEC",
+          "url": "https://open.spotify.com/artist/6N8vbhxZ0CYJHd8WGJ9Snf"
+        }
+      ],
+      "duration_ms": 173585,
+      "name": "Dead",
+      "url": "https://open.spotify.com/track/6hmfvoVTNKsev2whMLjRjQ"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/0mkUbYiN1ECBGabxm70DeM"
-      },
-      "artists": [
-        {
-          "name": "JORIS",
-          "url": "https://open.spotify.com/artist/7BKePXVmQRgnkbGcrFX1G4"
-        }
-      ],
-      "duration_ms": 314600,
-      "name": "Bis ans Ende der Welt - Live from Spotify Berlin",
-      "url": "https://open.spotify.com/track/0egwOcbUz6RfbTHKASdf2W"
-    },
-    {
-      "added_at": "2024-04-24 06:24:42",
-      "album": {
         "name": "Still",
         "url": "https://open.spotify.com/album/361LO5zSguzbNCQsOOEOd6"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 203673,
       "name": "Still",
       "url": "https://open.spotify.com/track/6HbXjawbH9bTwsCXAZgpDc"
+    },
+    {
+      "added_at": "2024-04-24 06:24:42",
+      "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/0mkUbYiN1ECBGabxm70DeM"
+      },
+      "artists": [
+        {
+          "name": "JORIS",
+          "url": "https://open.spotify.com/artist/7BKePXVmQRgnkbGcrFX1G4"
+        }
+      ],
+      "duration_ms": 314600,
+      "name": "Bis ans Ende der Welt - Live from Spotify Berlin",
+      "url": "https://open.spotify.com/track/0egwOcbUz6RfbTHKASdf2W"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "With You - A Sweet Little Love Song Demo",
-        "url": "https://open.spotify.com/album/3lQhFqO6d6t4FULaRHSAJJ"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 154573,
-      "name": "With You - A Sweet Little Love Song Demo",
-      "url": "https://open.spotify.com/track/1RbhQxFFJM7QNKALY5JebS"
-    },
-    {
-      "added_at": "2024-04-24 06:24:42",
-      "album": {
         "name": "Home Is Where the Heart Hurts (From \" About a Girl \" ) [Radio Version]",
         "url": "https://open.spotify.com/album/4KZNUgrWdQ79z093g5leev"
       },
@@ -1751,6 +1735,22 @@
       "duration_ms": 211838,
       "name": "Home Is Where the Heart Hurts (From \" About a Girl \" ) - Radio Version",
       "url": "https://open.spotify.com/track/40BtgHQcQf7TRy6atS76lD"
+    },
+    {
+      "added_at": "2024-04-24 06:24:42",
+      "album": {
+        "name": "With You - A Sweet Little Love Song Demo",
+        "url": "https://open.spotify.com/album/3lQhFqO6d6t4FULaRHSAJJ"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 154573,
+      "name": "With You - A Sweet Little Love Song Demo",
+      "url": "https://open.spotify.com/track/1RbhQxFFJM7QNKALY5JebS"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -1915,22 +1915,6 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "Happy",
-        "url": "https://open.spotify.com/album/2xn1MSovWrPuWBTLSJEfMx"
-      },
-      "artists": [
-        {
-          "name": "Joy Denalane",
-          "url": "https://open.spotify.com/artist/5vP3nmsaGrondXXS5BvrSH"
-        }
-      ],
-      "duration_ms": 177600,
-      "name": "Happy",
-      "url": "https://open.spotify.com/track/3D3Xg0DCUoQPEkJCvjtsgw"
-    },
-    {
-      "added_at": "2024-04-24 06:24:42",
-      "album": {
         "name": "Acoustic",
         "url": "https://open.spotify.com/album/6bbGk2B5atqLsu3SyLAGEk"
       },
@@ -1947,18 +1931,18 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "Vagrant",
-        "url": "https://open.spotify.com/album/0mmyG4fcLY3jwMyTxc2R54"
+        "name": "Happy",
+        "url": "https://open.spotify.com/album/2xn1MSovWrPuWBTLSJEfMx"
       },
       "artists": [
         {
-          "name": "RILEY MOORE",
-          "url": "https://open.spotify.com/artist/4Cj5zXNiBErBVIOFFtWz86"
+          "name": "Joy Denalane",
+          "url": "https://open.spotify.com/artist/5vP3nmsaGrondXXS5BvrSH"
         }
       ],
-      "duration_ms": 245824,
-      "name": "Pancakes and M&M's",
-      "url": "https://open.spotify.com/track/0yHhh772JCw4tIZHyfwYj2"
+      "duration_ms": 177600,
+      "name": "Happy",
+      "url": "https://open.spotify.com/track/3D3Xg0DCUoQPEkJCvjtsgw"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -1975,6 +1959,22 @@
       "duration_ms": 249882,
       "name": "Breakeven",
       "url": "https://open.spotify.com/track/7eD0gs77mhlYRiTRI7IFf6"
+    },
+    {
+      "added_at": "2024-04-24 06:24:42",
+      "album": {
+        "name": "Vagrant",
+        "url": "https://open.spotify.com/album/0mmyG4fcLY3jwMyTxc2R54"
+      },
+      "artists": [
+        {
+          "name": "RILEY MOORE",
+          "url": "https://open.spotify.com/artist/4Cj5zXNiBErBVIOFFtWz86"
+        }
+      ],
+      "duration_ms": 245824,
+      "name": "Pancakes and M&M's",
+      "url": "https://open.spotify.com/track/0yHhh772JCw4tIZHyfwYj2"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -2043,22 +2043,6 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "No Fixed Abode",
-        "url": "https://open.spotify.com/album/75L4noRttyCn9pLojFp2IF"
-      },
-      "artists": [
-        {
-          "name": "Mitch James",
-          "url": "https://open.spotify.com/artist/65oocmSeB6z75kHwrZo1le"
-        }
-      ],
-      "duration_ms": 204081,
-      "name": "No Fixed Abode",
-      "url": "https://open.spotify.com/track/2kzWnWUUsn3o44PbOzFSjc"
-    },
-    {
-      "added_at": "2024-04-24 06:24:42",
-      "album": {
         "name": "Wounded",
         "url": "https://open.spotify.com/album/0H56Qf5t1at58tNu6M2xtx"
       },
@@ -2071,6 +2055,22 @@
       "duration_ms": 182698,
       "name": "Wounded",
       "url": "https://open.spotify.com/track/10bsIOqye17izduOx8aQD5"
+    },
+    {
+      "added_at": "2024-04-24 06:24:42",
+      "album": {
+        "name": "No Fixed Abode",
+        "url": "https://open.spotify.com/album/75L4noRttyCn9pLojFp2IF"
+      },
+      "artists": [
+        {
+          "name": "Mitch James",
+          "url": "https://open.spotify.com/artist/65oocmSeB6z75kHwrZo1le"
+        }
+      ],
+      "duration_ms": 204081,
+      "name": "No Fixed Abode",
+      "url": "https://open.spotify.com/track/2kzWnWUUsn3o44PbOzFSjc"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -2347,22 +2347,6 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "One Eyed Love",
-        "url": "https://open.spotify.com/album/2mhApVdjZQHGvcebR9pdOV"
-      },
-      "artists": [
-        {
-          "name": "ME + MARIE",
-          "url": "https://open.spotify.com/artist/10F6QWhKms2ET0Ptjdk31k"
-        }
-      ],
-      "duration_ms": 243506,
-      "name": "Where's Your Soul",
-      "url": "https://open.spotify.com/track/0IACKZaeCAQFs6EgLZvtZQ"
-    },
-    {
-      "added_at": "2024-04-24 06:24:42",
-      "album": {
         "name": "The Reason Is You",
         "url": "https://open.spotify.com/album/7lvURucj2ZEFzXZJuLL8nt"
       },
@@ -2375,6 +2359,22 @@
       "duration_ms": 260809,
       "name": "The Reason Is You",
       "url": "https://open.spotify.com/track/1kbBZy4O9zMs7l7w8sDjol"
+    },
+    {
+      "added_at": "2024-04-24 06:24:42",
+      "album": {
+        "name": "One Eyed Love",
+        "url": "https://open.spotify.com/album/2mhApVdjZQHGvcebR9pdOV"
+      },
+      "artists": [
+        {
+          "name": "ME + MARIE",
+          "url": "https://open.spotify.com/artist/10F6QWhKms2ET0Ptjdk31k"
+        }
+      ],
+      "duration_ms": 243506,
+      "name": "Where's Your Soul",
+      "url": "https://open.spotify.com/track/0IACKZaeCAQFs6EgLZvtZQ"
     },
     {
       "added_at": "2024-04-24 06:24:42",

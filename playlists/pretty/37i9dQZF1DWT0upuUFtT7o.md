@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 
 > The best new indie tracks from independent artists & labels\. Cover: Mitchy
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,046 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,095 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 | 83 | [Sedona](https://open.spotify.com/track/0PbKuaLSKdSy7AsGpOi0er) | [Riley Whittaker](https://open.spotify.com/artist/01M042tT419btz6wpqGoZE) | [Sedona](https://open.spotify.com/album/2BjXEWXaQHHmpzPJD6IQ74) | 3:24 |
 | 84 | [Somebody New](https://open.spotify.com/track/1u4RBJArUMeEXHic7VqWjv) | [Jana Mila](https://open.spotify.com/artist/1roi4E4kE3vXaKxQ2n5aKB) | [Somebody New](https://open.spotify.com/album/1esmSMTOShTTI0OqG3rsnO) | 2:52 |
 | 85 | [laundry detergent](https://open.spotify.com/track/1pB8PSQShsmbOlsBGKwSnJ) | [Lexie Carroll](https://open.spotify.com/artist/0j3JsMUkjmRIqTi1xQ5dp0) | [laundry detergent](https://open.spotify.com/album/0gMy51MYjFPXUqkfHYrAFo) | 2:58 |
-| 86 | [Icy Windy Sky](https://open.spotify.com/track/66U7274Oapr417BNqeQLoS) | [Ugly \(UK\)](https://open.spotify.com/artist/5V1vRp27m0PLepQehI2tnf) | [Twice Around The Sun](https://open.spotify.com/album/3wzMjiyIQ2zDv3suwSHxpp) | 6:48 |
+| 86 | [Icy Windy Sky](https://open.spotify.com/track/66U7274Oapr417BNqeQLoS) | [Ugly](https://open.spotify.com/artist/6Ax1Au8Lj8zfgdb7hp6TUT) | [Twice Around the Sun](https://open.spotify.com/album/3wzMjiyIQ2zDv3suwSHxpp) | 6:48 |
 | 87 | [miss you again](https://open.spotify.com/track/69gvoLX5h17LZVb8PhFkO0) | [Sam Worley](https://open.spotify.com/artist/1XIE58AteyxPkzXjLbcIYt), [Surfliner](https://open.spotify.com/artist/6cUFVnJuI30MsRmv0EVC4y) | [miss you again](https://open.spotify.com/album/4wPU2yOsZ6JpOfP4lBHksd) | 4:32 |
 | 88 | [fair](https://open.spotify.com/track/2pQoTEXycAOQEfZRei7fmC) | [dog eyes](https://open.spotify.com/artist/4LfvbRzg2KRaJbr5Nw2yOc) | [fair](https://open.spotify.com/album/6DiW98ZoKsnnx0IerRi2Q0) | 2:26 |
 | 89 | [Daydream](https://open.spotify.com/track/0ltdxjSWkeE4cmU2kRxzi1) | [Valeria Stoica](https://open.spotify.com/artist/1U0dn9EFyhTfKS4xvFrUSR) | [Daydream](https://open.spotify.com/album/572P9V0PZpvCp9FOM4wK6T) | 2:39 |

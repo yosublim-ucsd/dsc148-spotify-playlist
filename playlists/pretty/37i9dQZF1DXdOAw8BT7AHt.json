@@ -1,6 +1,6 @@
 {
   "description": "The best in modern punk rock music. Cover: Amyl & The Sniffers ",
-  "num_followers": 447022,
+  "num_followers": 447005,
   "original_name": "Today's Punk",
   "owner": {
     "name": "Spotify",
@@ -303,6 +303,22 @@
     {
       "added_at": "2024-05-31 12:31:01",
       "album": {
+        "name": "uncooked",
+        "url": "https://open.spotify.com/album/7hDxtcZ7hxARwvA699UUc0"
+      },
+      "artists": [
+        {
+          "name": "Four Year Strong",
+          "url": "https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn"
+        }
+      ],
+      "duration_ms": 194400,
+      "name": "uncooked",
+      "url": "https://open.spotify.com/track/4jIwJ0CAWO4poBAtgRT0Lr"
+    },
+    {
+      "added_at": "2024-05-31 12:31:01",
+      "album": {
         "name": "Half Album",
         "url": "https://open.spotify.com/album/6TabKLBAyynahNuuxaKGOD"
       },
@@ -367,22 +383,6 @@
     {
       "added_at": "2024-05-31 12:31:01",
       "album": {
-        "name": "uncooked",
-        "url": "https://open.spotify.com/album/7hDxtcZ7hxARwvA699UUc0"
-      },
-      "artists": [
-        {
-          "name": "Four Year Strong",
-          "url": "https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn"
-        }
-      ],
-      "duration_ms": 194400,
-      "name": "uncooked",
-      "url": "https://open.spotify.com/track/4jIwJ0CAWO4poBAtgRT0Lr"
-    },
-    {
-      "added_at": "2024-05-31 12:31:01",
-      "album": {
         "name": "\u2026Is Committed",
         "url": "https://open.spotify.com/album/18vdykeYJ7P2DTvRgKq64R"
       },
@@ -399,22 +399,6 @@
     {
       "added_at": "2024-05-31 12:31:01",
       "album": {
-        "name": "GROWING UP ON THE INTERNET",
-        "url": "https://open.spotify.com/album/6aFJQtL04OsqLPKVzGjqC8"
-      },
-      "artists": [
-        {
-          "name": "NOAHFINNCE",
-          "url": "https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM"
-        }
-      ],
-      "duration_ms": 199866,
-      "name": "GROWING UP ON THE INTERNET",
-      "url": "https://open.spotify.com/track/2JEdblWbXROMy0otLQL5UL"
-    },
-    {
-      "added_at": "2024-05-31 12:31:01",
-      "album": {
         "name": "The Mosaic",
         "url": "https://open.spotify.com/album/4VDyL1ptJ0KhgiaLvMjmtW"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 213387,
       "name": "Final Words",
       "url": "https://open.spotify.com/track/1CZpEkQIsrMTBoEfJZsCU8"
+    },
+    {
+      "added_at": "2024-05-31 12:31:01",
+      "album": {
+        "name": "GROWING UP ON THE INTERNET",
+        "url": "https://open.spotify.com/album/6aFJQtL04OsqLPKVzGjqC8"
+      },
+      "artists": [
+        {
+          "name": "NOAHFINNCE",
+          "url": "https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM"
+        }
+      ],
+      "duration_ms": 199866,
+      "name": "GROWING UP ON THE INTERNET",
+      "url": "https://open.spotify.com/track/2JEdblWbXROMy0otLQL5UL"
     },
     {
       "added_at": "2024-05-31 12:31:01",
@@ -479,6 +479,22 @@
     {
       "added_at": "2024-05-31 12:31:01",
       "album": {
+        "name": "Found a Job",
+        "url": "https://open.spotify.com/album/2Og3RBFo4N89O90dYQctX7"
+      },
+      "artists": [
+        {
+          "name": "The Linda Lindas",
+          "url": "https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5"
+        }
+      ],
+      "duration_ms": 252133,
+      "name": "Found a Job",
+      "url": "https://open.spotify.com/track/2nm6tAe3rTXi7gDaYtgms6"
+    },
+    {
+      "added_at": "2024-05-31 12:31:01",
+      "album": {
         "name": "God Speed (feat. WARGASM (UK))",
         "url": "https://open.spotify.com/album/0mu1GjpR57D8aStHJyyboQ"
       },
@@ -499,22 +515,6 @@
     {
       "added_at": "2024-05-31 12:31:01",
       "album": {
-        "name": "Found a Job",
-        "url": "https://open.spotify.com/album/2Og3RBFo4N89O90dYQctX7"
-      },
-      "artists": [
-        {
-          "name": "The Linda Lindas",
-          "url": "https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5"
-        }
-      ],
-      "duration_ms": 252133,
-      "name": "Found a Job",
-      "url": "https://open.spotify.com/track/2nm6tAe3rTXi7gDaYtgms6"
-    },
-    {
-      "added_at": "2024-05-31 12:31:01",
-      "album": {
         "name": "God's Country",
         "url": "https://open.spotify.com/album/4ymxAnpNkFo2spUPzjouAR"
       },
@@ -527,6 +527,22 @@
       "duration_ms": 135541,
       "name": "God's Country",
       "url": "https://open.spotify.com/track/4UccUaOQ6lU7kAffOVgz1d"
+    },
+    {
+      "added_at": "2024-05-31 12:31:01",
+      "album": {
+        "name": "Elster Stares the Desert Down",
+        "url": "https://open.spotify.com/album/3LehnIMiP8l21O4P7ZFlr3"
+      },
+      "artists": [
+        {
+          "name": "La Dispute",
+          "url": "https://open.spotify.com/artist/7lQKE6HaKQcCsgLRMhsh5W"
+        }
+      ],
+      "duration_ms": 221347,
+      "name": "Elster Stares the Desert Down",
+      "url": "https://open.spotify.com/track/4k8niudrwjId0AvxxhqJVb"
     },
     {
       "added_at": "2024-05-31 12:31:01",
@@ -547,6 +563,22 @@
     {
       "added_at": "2024-05-31 12:31:01",
       "album": {
+        "name": "3 DAY HEADACHE",
+        "url": "https://open.spotify.com/album/499mEC3ZLcprlNXqgHMZEK"
+      },
+      "artists": [
+        {
+          "name": "NOAHFINNCE",
+          "url": "https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM"
+        }
+      ],
+      "duration_ms": 114284,
+      "name": "3 DAY HEADACHE",
+      "url": "https://open.spotify.com/track/5u4MPbgZPmajC5vVf1O5xb"
+    },
+    {
+      "added_at": "2024-05-31 12:31:01",
+      "album": {
         "name": "LOSER",
         "url": "https://open.spotify.com/album/6stziyO40ovFZGQN71pB67"
       },
@@ -563,18 +595,18 @@
     {
       "added_at": "2024-05-31 12:31:01",
       "album": {
-        "name": "3 DAY HEADACHE",
-        "url": "https://open.spotify.com/album/499mEC3ZLcprlNXqgHMZEK"
+        "name": "The Twits",
+        "url": "https://open.spotify.com/album/4E6TSZ1yHQ29TRvp8GiPv0"
       },
       "artists": [
         {
-          "name": "NOAHFINNCE",
-          "url": "https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM"
+          "name": "bar italia",
+          "url": "https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY"
         }
       ],
-      "duration_ms": 114284,
-      "name": "3 DAY HEADACHE",
-      "url": "https://open.spotify.com/track/5u4MPbgZPmajC5vVf1O5xb"
+      "duration_ms": 174521,
+      "name": "worlds greatest emoter",
+      "url": "https://open.spotify.com/track/1eUnBxdddaPlWDVqVjC8bO"
     },
     {
       "added_at": "2024-05-31 12:31:01",
@@ -595,18 +627,18 @@
     {
       "added_at": "2024-05-31 12:31:01",
       "album": {
-        "name": "The Twits",
-        "url": "https://open.spotify.com/album/4E6TSZ1yHQ29TRvp8GiPv0"
+        "name": "You're My Medicine",
+        "url": "https://open.spotify.com/album/3DuCbWlWRyCwqctRcICOiZ"
       },
       "artists": [
         {
-          "name": "bar italia",
-          "url": "https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY"
+          "name": "Greywind",
+          "url": "https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4"
         }
       ],
-      "duration_ms": 174521,
-      "name": "worlds greatest emoter",
-      "url": "https://open.spotify.com/track/1eUnBxdddaPlWDVqVjC8bO"
+      "duration_ms": 192682,
+      "name": "You're My Medicine",
+      "url": "https://open.spotify.com/track/1gXk7JzeRTPJn9ugLErbNb"
     },
     {
       "added_at": "2024-05-31 12:31:01",
@@ -643,22 +675,6 @@
       "duration_ms": 184934,
       "name": "Girls!",
       "url": "https://open.spotify.com/track/6mzLKnoN7tFpSa2sZ1ypfx"
-    },
-    {
-      "added_at": "2024-05-31 12:31:01",
-      "album": {
-        "name": "You're My Medicine",
-        "url": "https://open.spotify.com/album/3DuCbWlWRyCwqctRcICOiZ"
-      },
-      "artists": [
-        {
-          "name": "Greywind",
-          "url": "https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4"
-        }
-      ],
-      "duration_ms": 192682,
-      "name": "You're My Medicine",
-      "url": "https://open.spotify.com/track/1gXk7JzeRTPJn9ugLErbNb"
     },
     {
       "added_at": "2024-05-31 12:31:01",
@@ -759,6 +775,22 @@
     {
       "added_at": "2024-05-31 12:31:01",
       "album": {
+        "name": "Antidote",
+        "url": "https://open.spotify.com/album/5BtsIlGeClmz7o8B4aq6MK"
+      },
+      "artists": [
+        {
+          "name": "Greywind",
+          "url": "https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4"
+        }
+      ],
+      "duration_ms": 165393,
+      "name": "Antidote",
+      "url": "https://open.spotify.com/track/207bcqHODbUfxAsyhi1fkR"
+    },
+    {
+      "added_at": "2024-05-31 12:31:01",
+      "album": {
         "name": "Cold World",
         "url": "https://open.spotify.com/album/3puZVzk32SvGkXZd7P4FXI"
       },
@@ -791,22 +823,6 @@
       "duration_ms": 179684,
       "name": "When We Were Young (feat. Jaret Reddick of Bowling For Soup)",
       "url": "https://open.spotify.com/track/5Ia75Gb9IdPKsAuU7v93PL"
-    },
-    {
-      "added_at": "2024-05-31 12:31:01",
-      "album": {
-        "name": "Antidote",
-        "url": "https://open.spotify.com/album/5BtsIlGeClmz7o8B4aq6MK"
-      },
-      "artists": [
-        {
-          "name": "Greywind",
-          "url": "https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4"
-        }
-      ],
-      "duration_ms": 165393,
-      "name": "Antidote",
-      "url": "https://open.spotify.com/track/207bcqHODbUfxAsyhi1fkR"
     },
     {
       "added_at": "2024-05-31 12:31:01",
@@ -891,6 +907,22 @@
     {
       "added_at": "2024-05-31 12:31:01",
       "album": {
+        "name": "Call A Doctor",
+        "url": "https://open.spotify.com/album/60BvLrCIHyg11qbV8m9MK6"
+      },
+      "artists": [
+        {
+          "name": "Girl and Girl",
+          "url": "https://open.spotify.com/artist/6tRT8DibGiNSkXViROkIBn"
+        }
+      ],
+      "duration_ms": 309184,
+      "name": "Call A Doctor",
+      "url": "https://open.spotify.com/track/5J8NNFnkQI2YjUcE0o2PLT"
+    },
+    {
+      "added_at": "2024-05-31 12:31:01",
+      "album": {
         "name": "Lately",
         "url": "https://open.spotify.com/album/7HbR9q2DAVOJuQleC222Q0"
       },
@@ -923,22 +955,6 @@
     {
       "added_at": "2024-05-31 12:31:01",
       "album": {
-        "name": "Menace/Burn Forever",
-        "url": "https://open.spotify.com/album/5gBse4SykL0eYCMdqTDCGt"
-      },
-      "artists": [
-        {
-          "name": "Hot Water Music",
-          "url": "https://open.spotify.com/artist/4dmaYARGTCpChLhHBdr3ff"
-        }
-      ],
-      "duration_ms": 205227,
-      "name": "Menace",
-      "url": "https://open.spotify.com/track/5wkska9Au4AdhnZjEf3nOR"
-    },
-    {
-      "added_at": "2024-05-31 12:31:01",
-      "album": {
         "name": "TANGK",
         "url": "https://open.spotify.com/album/6JBHYSMp3KYqiTTjmn26BU"
       },
@@ -955,6 +971,22 @@
     {
       "added_at": "2024-05-31 12:31:01",
       "album": {
+        "name": "Menace/Burn Forever",
+        "url": "https://open.spotify.com/album/5gBse4SykL0eYCMdqTDCGt"
+      },
+      "artists": [
+        {
+          "name": "Hot Water Music",
+          "url": "https://open.spotify.com/artist/4dmaYARGTCpChLhHBdr3ff"
+        }
+      ],
+      "duration_ms": 205227,
+      "name": "Menace",
+      "url": "https://open.spotify.com/track/5wkska9Au4AdhnZjEf3nOR"
+    },
+    {
+      "added_at": "2024-05-31 12:31:01",
+      "album": {
         "name": "So Cold",
         "url": "https://open.spotify.com/album/0LM6iYcA8RxgcHwR0J4yN8"
       },
@@ -967,22 +999,6 @@
       "duration_ms": 221465,
       "name": "So Cold",
       "url": "https://open.spotify.com/track/3dTlvE1QJ0UaZ1imdtA0Ot"
-    },
-    {
-      "added_at": "2024-05-31 12:31:01",
-      "album": {
-        "name": "Call A Doctor",
-        "url": "https://open.spotify.com/album/60BvLrCIHyg11qbV8m9MK6"
-      },
-      "artists": [
-        {
-          "name": "Girl and Girl",
-          "url": "https://open.spotify.com/artist/6tRT8DibGiNSkXViROkIBn"
-        }
-      ],
-      "duration_ms": 309184,
-      "name": "Call A Doctor",
-      "url": "https://open.spotify.com/track/5J8NNFnkQI2YjUcE0o2PLT"
     },
     {
       "added_at": "2024-05-31 12:31:01",
@@ -1151,6 +1167,22 @@
     {
       "added_at": "2024-05-31 12:31:01",
       "album": {
+        "name": "Sink Or Swim",
+        "url": "https://open.spotify.com/album/3aTuERruHynGl1FD2f5psx"
+      },
+      "artists": [
+        {
+          "name": "SNAYX",
+          "url": "https://open.spotify.com/artist/4kQgsrHUSc9IjuwWP30gf0"
+        }
+      ],
+      "duration_ms": 192080,
+      "name": "Sink Or Swim",
+      "url": "https://open.spotify.com/track/00FSOP3RZcF20UK4t6wKQt"
+    },
+    {
+      "added_at": "2024-05-31 12:31:01",
+      "album": {
         "name": "Pay Me",
         "url": "https://open.spotify.com/album/4RAWQKHKrfaideVpNFHEFn"
       },
@@ -1183,18 +1215,18 @@
     {
       "added_at": "2024-05-31 12:31:01",
       "album": {
-        "name": "Sink Or Swim",
-        "url": "https://open.spotify.com/album/3aTuERruHynGl1FD2f5psx"
+        "name": "Intermittent Fast Living",
+        "url": "https://open.spotify.com/album/1wifE04zBHfpwv5qHO9zth"
       },
       "artists": [
         {
-          "name": "SNAYX",
-          "url": "https://open.spotify.com/artist/4kQgsrHUSc9IjuwWP30gf0"
+          "name": "PET NEEDS",
+          "url": "https://open.spotify.com/artist/5bBMfsANUM0cj5h5MjEdxP"
         }
       ],
-      "duration_ms": 192080,
-      "name": "Sink Or Swim",
-      "url": "https://open.spotify.com/track/00FSOP3RZcF20UK4t6wKQt"
+      "duration_ms": 167840,
+      "name": "Separation Anxiety",
+      "url": "https://open.spotify.com/track/3VtXw3Nbbeuh97cJaZWRR5"
     },
     {
       "added_at": "2024-05-31 12:31:01",
@@ -1215,18 +1247,34 @@
     {
       "added_at": "2024-05-31 12:31:01",
       "album": {
-        "name": "Intermittent Fast Living",
-        "url": "https://open.spotify.com/album/1wifE04zBHfpwv5qHO9zth"
+        "name": "Make It Better",
+        "url": "https://open.spotify.com/album/6Oetu9iNsFuYBEpbjxMcfs"
       },
       "artists": [
         {
-          "name": "PET NEEDS",
-          "url": "https://open.spotify.com/artist/5bBMfsANUM0cj5h5MjEdxP"
+          "name": "Bad News First",
+          "url": "https://open.spotify.com/artist/2F6guYRc5ODHYeBG8PGiDq"
         }
       ],
-      "duration_ms": 167840,
-      "name": "Separation Anxiety",
-      "url": "https://open.spotify.com/track/3VtXw3Nbbeuh97cJaZWRR5"
+      "duration_ms": 180603,
+      "name": "Make It Better",
+      "url": "https://open.spotify.com/track/0H01TjxaPIWLx7Wx0Nfli8"
+    },
+    {
+      "added_at": "2024-05-31 12:31:01",
+      "album": {
+        "name": "Still Nervous",
+        "url": "https://open.spotify.com/album/6PWrD6nfaFP8DEJNCvz9Eh"
+      },
+      "artists": [
+        {
+          "name": "Bad Nerves",
+          "url": "https://open.spotify.com/artist/7IPyXY4ZHkuvQY1ny8TnMQ"
+        }
+      ],
+      "duration_ms": 148106,
+      "name": "You've Got The Nerve",
+      "url": "https://open.spotify.com/track/4D27D0dO71irY4ngdUvsjJ"
     },
     {
       "added_at": "2024-05-31 12:31:01",
@@ -1259,54 +1307,6 @@
       "duration_ms": 216618,
       "name": "Cuts Like A Knife",
       "url": "https://open.spotify.com/track/3pUqK7qA2p51M1of9KiIrp"
-    },
-    {
-      "added_at": "2024-05-31 12:31:01",
-      "album": {
-        "name": "All Comes Down to This",
-        "url": "https://open.spotify.com/album/3gVokvQ6Kp8QwnpYrbzrb4"
-      },
-      "artists": [
-        {
-          "name": "A Certain Ratio",
-          "url": "https://open.spotify.com/artist/2vygNfdnPBXah21ZrqhxYk"
-        }
-      ],
-      "duration_ms": 152546,
-      "name": "All Comes Down to This",
-      "url": "https://open.spotify.com/track/4gs4otFPRCU02x9MsSSNoN"
-    },
-    {
-      "added_at": "2024-05-31 12:31:01",
-      "album": {
-        "name": "Make It Better",
-        "url": "https://open.spotify.com/album/6Oetu9iNsFuYBEpbjxMcfs"
-      },
-      "artists": [
-        {
-          "name": "Bad News First",
-          "url": "https://open.spotify.com/artist/2F6guYRc5ODHYeBG8PGiDq"
-        }
-      ],
-      "duration_ms": 180603,
-      "name": "Make It Better",
-      "url": "https://open.spotify.com/track/0H01TjxaPIWLx7Wx0Nfli8"
-    },
-    {
-      "added_at": "2024-05-31 12:31:01",
-      "album": {
-        "name": "Mother",
-        "url": "https://open.spotify.com/album/6cRN2Vw5Qm4D2uZCLeC0e1"
-      },
-      "artists": [
-        {
-          "name": "THICK",
-          "url": "https://open.spotify.com/artist/3y6q4JBOyyoETYPw1yHYli"
-        }
-      ],
-      "duration_ms": 211368,
-      "name": "Mother",
-      "url": "https://open.spotify.com/track/0BvOMi7N7YtGdafAH2AsWm"
     }
   ],
   "unique_name": "Today's Punk",

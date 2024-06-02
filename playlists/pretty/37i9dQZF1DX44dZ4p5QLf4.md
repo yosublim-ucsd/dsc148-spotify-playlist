@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 
 > A blend of new songs and artists in the soul space\. Cover: FKJ
 
-[Spotify](https://open.spotify.com/user/spotify) - 481,202 likes - 80 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 481,214 likes - 80 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 | 4 | [Home](https://open.spotify.com/track/0zo3jZ7I0wMugFsqgN1zQp) | [LULU.](https://open.spotify.com/artist/65hPbr4xlxQ3jLfAqKv0Ch) | [Dear Disorientated Soul](https://open.spotify.com/album/67zBPvAcphmzJxuYPpyeUQ) | 2:16 |
 | 5 | [U & I](https://open.spotify.com/track/4jBSQcXXIgmJF0ngkSbPCH) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z), [Darius](https://open.spotify.com/artist/5vfEaoOBcK0Lzr07WN8KaK), [WAYNE SNOW](https://open.spotify.com/artist/4f44GWlEQdXaWl8gQ9sPBC), [Crayon](https://open.spotify.com/artist/1byiL1WtteUjvqT6GhlEfh), [The NightBirds](https://open.spotify.com/artist/5y3PKV2Jacq5FBub8joiNJ) | [HOUSE OF GROOVE](https://open.spotify.com/album/0SAEMNzphsLut3Z5OZlmAo) | 3:36 |
 | 6 | [LET U LEAD \(with Billy Lemos\)](https://open.spotify.com/track/5rp6f6CiXVjpZ09u0BHeeN) | [Noah Guy](https://open.spotify.com/artist/0Cj5PLNNGVOsXUig1ic4s5), [Billy Lemos](https://open.spotify.com/artist/7ebBg3BuRFa2satTcY8whC) | [LET U LEAD \(with Billy Lemos\)](https://open.spotify.com/album/3qm24mQwYYo7GFGZanPgwc) | 2:30 |
-| 7 | [DREAMIN'](https://open.spotify.com/track/36EJBK8P9jFTpvMyxJPaJZ) | [Noah Slee](https://open.spotify.com/artist/2cIJS8OfarjYImYw0GVPVL), [Sorvina](https://open.spotify.com/artist/4V2qsPwa4YBmNW53v4rC1P), [NanaBcool](https://open.spotify.com/artist/3I1oZvnUZuHgJXSeNUy6Dq) | [DREAMIN'](https://open.spotify.com/album/0VJby3FhUkYMi7DV5ouJAx) | 2:33 |
+| 7 | [DREAMIN'](https://open.spotify.com/track/36EJBK8P9jFTpvMyxJPaJZ) | [Noah Slee](https://open.spotify.com/artist/2inX1svE5swPuIBIJdrFyo), [Sorvina](https://open.spotify.com/artist/4V2qsPwa4YBmNW53v4rC1P), [NanaBcool](https://open.spotify.com/artist/3I1oZvnUZuHgJXSeNUy6Dq) | [DREAMIN'](https://open.spotify.com/album/0VJby3FhUkYMi7DV5ouJAx) | 2:33 |
 | 8 | [Cotton Wool](https://open.spotify.com/track/6qLpvNC53zSzKRBC3H2ayz) | [Joseph Lawrence](https://open.spotify.com/artist/69XFaEPeBh41fbWxQMD8X4) | [Dream, Forever](https://open.spotify.com/album/4fVrPpUvcsP2Yf3YX5aZsh) | 2:51 |
 | 9 | [Pluto](https://open.spotify.com/track/0GdWI9k2h0PzW6x2kAhXeI) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Pluto](https://open.spotify.com/album/2mwjp35FHpj726XhNWOOen) | 3:33 |
 | 10 | [Missing Me](https://open.spotify.com/track/0MVsZJICj2iMFCzDPWbjAk) | [Sophie Faith](https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh) | [Missing Me](https://open.spotify.com/album/78A3guqOdVjh266qoxmcOT) | 3:00 |

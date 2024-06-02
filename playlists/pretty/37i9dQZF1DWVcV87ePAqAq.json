@@ -1,6 +1,6 @@
 {
   "description": "Flaket kommer studsa!",
-  "num_followers": 365969,
+  "num_followers": 365936,
   "original_name": "Studentfest!",
   "owner": {
     "name": "Spotify",
@@ -939,18 +939,22 @@
     {
       "added_at": "2024-05-29 09:50:10",
       "album": {
-        "name": "Leva/D\u00f6",
-        "url": "https://open.spotify.com/album/2fvPVTfcUKVgvsr4f2aU4X"
+        "name": "Summer Dreaming",
+        "url": "https://open.spotify.com/album/1utYmp79N55k5BY0X3tv4R"
       },
       "artists": [
         {
-          "name": "Albatraoz",
-          "url": "https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x"
+          "name": "Bingo Players",
+          "url": "https://open.spotify.com/artist/1pbHrVayIcVpHI9z97u4bK"
+        },
+        {
+          "name": "Pure Shores",
+          "url": "https://open.spotify.com/artist/42CdKQR7lo8cgIyufa0DQr"
         }
       ],
-      "duration_ms": 152105,
-      "name": "Leva/D\u00f6",
-      "url": "https://open.spotify.com/track/2DpoXMqHG88yjwZZEcoqzM"
+      "duration_ms": 182867,
+      "name": "Summer Dreaming",
+      "url": "https://open.spotify.com/track/5tJjs0KFkVzMWCXZGu10G8"
     },
     {
       "added_at": "2024-05-29 09:50:10",
@@ -971,6 +975,22 @@
       "duration_ms": 142304,
       "name": "VOI TILL MIN FUCKBOI",
       "url": "https://open.spotify.com/track/7MVDhCrcjzdEdZbOkZa2XV"
+    },
+    {
+      "added_at": "2024-05-29 09:50:10",
+      "album": {
+        "name": "Leva/D\u00f6",
+        "url": "https://open.spotify.com/album/2fvPVTfcUKVgvsr4f2aU4X"
+      },
+      "artists": [
+        {
+          "name": "Albatraoz",
+          "url": "https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x"
+        }
+      ],
+      "duration_ms": 152105,
+      "name": "Leva/D\u00f6",
+      "url": "https://open.spotify.com/track/2DpoXMqHG88yjwZZEcoqzM"
     },
     {
       "added_at": "2024-05-29 09:50:10",
@@ -1011,26 +1031,6 @@
       "duration_ms": 150501,
       "name": "K\u00f6r Ba' K\u00f6r",
       "url": "https://open.spotify.com/track/6Mxe947VeRmLuH6L1GBb9i"
-    },
-    {
-      "added_at": "2024-05-29 09:50:10",
-      "album": {
-        "name": "Summer Dreaming",
-        "url": "https://open.spotify.com/album/1utYmp79N55k5BY0X3tv4R"
-      },
-      "artists": [
-        {
-          "name": "Bingo Players",
-          "url": "https://open.spotify.com/artist/1pbHrVayIcVpHI9z97u4bK"
-        },
-        {
-          "name": "Pure Shores",
-          "url": "https://open.spotify.com/artist/42CdKQR7lo8cgIyufa0DQr"
-        }
-      ],
-      "duration_ms": 182867,
-      "name": "Summer Dreaming",
-      "url": "https://open.spotify.com/track/5tJjs0KFkVzMWCXZGu10G8"
     },
     {
       "added_at": "2024-05-29 09:50:10",
@@ -1095,18 +1095,22 @@
     {
       "added_at": "2024-05-29 09:50:10",
       "album": {
-        "name": "Vad b\u00e4nkar du?",
-        "url": "https://open.spotify.com/album/5WO3CjAea8nJIB0CLJNOuv"
+        "name": "Soffa fr\u00e5n IKEA",
+        "url": "https://open.spotify.com/album/3PlZa86ePY7OisgM0jWjoa"
       },
       "artists": [
         {
-          "name": "Gunilla Persson",
-          "url": "https://open.spotify.com/artist/5w05coq5piPottWOoVVaWE"
+          "name": "Ringnes-Ronny",
+          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
+        },
+        {
+          "name": "Elov & Beny",
+          "url": "https://open.spotify.com/artist/4uAXlCewJdAu44uAHehKfd"
         }
       ],
-      "duration_ms": 167998,
-      "name": "Vad b\u00e4nkar du?",
-      "url": "https://open.spotify.com/track/1WqkGK7x1AgrdZbitbfhrW"
+      "duration_ms": 149499,
+      "name": "Soffa fr\u00e5n IKEA",
+      "url": "https://open.spotify.com/track/31hIfKm7C5TroLqa2Lubap"
     },
     {
       "added_at": "2024-05-29 09:50:10",
@@ -1127,22 +1131,18 @@
     {
       "added_at": "2024-05-29 09:50:10",
       "album": {
-        "name": "Soffa fr\u00e5n IKEA",
-        "url": "https://open.spotify.com/album/3PlZa86ePY7OisgM0jWjoa"
+        "name": "Vad b\u00e4nkar du?",
+        "url": "https://open.spotify.com/album/5WO3CjAea8nJIB0CLJNOuv"
       },
       "artists": [
         {
-          "name": "Ringnes-Ronny",
-          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
-        },
-        {
-          "name": "Elov & Beny",
-          "url": "https://open.spotify.com/artist/4uAXlCewJdAu44uAHehKfd"
+          "name": "Gunilla Persson",
+          "url": "https://open.spotify.com/artist/5w05coq5piPottWOoVVaWE"
         }
       ],
-      "duration_ms": 149499,
-      "name": "Soffa fr\u00e5n IKEA",
-      "url": "https://open.spotify.com/track/31hIfKm7C5TroLqa2Lubap"
+      "duration_ms": 167998,
+      "name": "Vad b\u00e4nkar du?",
+      "url": "https://open.spotify.com/track/1WqkGK7x1AgrdZbitbfhrW"
     },
     {
       "added_at": "2024-05-29 09:50:10",
@@ -1207,6 +1207,26 @@
     {
       "added_at": "2024-05-29 09:50:10",
       "album": {
+        "name": "STUDENTEN (Hardstyle)",
+        "url": "https://open.spotify.com/album/6tTkUSg03Lw33ex4QiFWL3"
+      },
+      "artists": [
+        {
+          "name": "Crille",
+          "url": "https://open.spotify.com/artist/40HMc5TsB4jkjnSlDK0V9Z"
+        },
+        {
+          "name": "Skurk3n",
+          "url": "https://open.spotify.com/artist/1HUodyPt48DvzRQZksaOQW"
+        }
+      ],
+      "duration_ms": 132800,
+      "name": "STUDENTEN (Hardstyle)",
+      "url": "https://open.spotify.com/track/6cF987x2ZnFvAyArOeOrOD"
+    },
+    {
+      "added_at": "2024-05-29 09:50:10",
+      "album": {
         "name": "Fest i v\u00e5ra l\u00e4nder",
         "url": "https://open.spotify.com/album/3NlgO6EYJpa6KKxFfb6TkG"
       },
@@ -1231,38 +1251,18 @@
     {
       "added_at": "2024-05-29 09:50:10",
       "album": {
-        "name": "STUDENTEN (Hardstyle)",
-        "url": "https://open.spotify.com/album/6tTkUSg03Lw33ex4QiFWL3"
+        "name": "Bella Festa",
+        "url": "https://open.spotify.com/album/6aLUITxk36ysZN4b0We6cE"
       },
       "artists": [
         {
-          "name": "Crille",
-          "url": "https://open.spotify.com/artist/40HMc5TsB4jkjnSlDK0V9Z"
-        },
-        {
-          "name": "Skurk3n",
-          "url": "https://open.spotify.com/artist/1HUodyPt48DvzRQZksaOQW"
+          "name": "De Vet Du",
+          "url": "https://open.spotify.com/artist/7iW0o1suit8xY24m9M5L0u"
         }
       ],
-      "duration_ms": 132800,
-      "name": "STUDENTEN (Hardstyle)",
-      "url": "https://open.spotify.com/track/6cF987x2ZnFvAyArOeOrOD"
-    },
-    {
-      "added_at": "2024-05-29 09:50:10",
-      "album": {
-        "name": "Alcohol",
-        "url": "https://open.spotify.com/album/6BhvNYJ2HaxIDrVIYyWKnn"
-      },
-      "artists": [
-        {
-          "name": "Flamingoz",
-          "url": "https://open.spotify.com/artist/4hwEhYAJJmsXyRkuhzQ0IL"
-        }
-      ],
-      "duration_ms": 165029,
-      "name": "Alcohol",
-      "url": "https://open.spotify.com/track/1iUXBxsHTHuByOXz2AX7ZK"
+      "duration_ms": 117494,
+      "name": "Bella Festa",
+      "url": "https://open.spotify.com/track/7uvG84wfF2XbvEiKajw3eZ"
     },
     {
       "added_at": "2024-05-29 09:50:10",
@@ -1287,42 +1287,38 @@
     {
       "added_at": "2024-05-29 09:50:10",
       "album": {
-        "name": "Mwaki (Timmy Trumpet Remix)",
-        "url": "https://open.spotify.com/album/3lSaV7UGZKKTBxhZEluKDk"
+        "name": "Alcohol",
+        "url": "https://open.spotify.com/album/6BhvNYJ2HaxIDrVIYyWKnn"
       },
       "artists": [
         {
-          "name": "Zerb",
-          "url": "https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy"
-        },
-        {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
-        },
-        {
-          "name": "Sofiya Nzau",
-          "url": "https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3"
+          "name": "Flamingoz",
+          "url": "https://open.spotify.com/artist/4hwEhYAJJmsXyRkuhzQ0IL"
         }
       ],
-      "duration_ms": 177230,
-      "name": "Mwaki - Timmy Trumpet Remix",
-      "url": "https://open.spotify.com/track/7z50UJZ28IIBkmyLR1oKCd"
+      "duration_ms": 165029,
+      "name": "Alcohol",
+      "url": "https://open.spotify.com/track/1iUXBxsHTHuByOXz2AX7ZK"
     },
     {
       "added_at": "2024-05-29 09:50:10",
       "album": {
-        "name": "Bella Festa",
-        "url": "https://open.spotify.com/album/6aLUITxk36ysZN4b0We6cE"
+        "name": "Om du var min",
+        "url": "https://open.spotify.com/album/5iaCqxVddsqcWvonadClWp"
       },
       "artists": [
         {
-          "name": "De Vet Du",
-          "url": "https://open.spotify.com/artist/7iW0o1suit8xY24m9M5L0u"
+          "name": "J.O.X",
+          "url": "https://open.spotify.com/artist/1MF8pP2ATm53GpUJ9xIaS9"
+        },
+        {
+          "name": "EMMY",
+          "url": "https://open.spotify.com/artist/4rrI3dKjmTOzRZvOwOWOlu"
         }
       ],
-      "duration_ms": 117494,
-      "name": "Bella Festa",
-      "url": "https://open.spotify.com/track/7uvG84wfF2XbvEiKajw3eZ"
+      "duration_ms": 158896,
+      "name": "Om du var min",
+      "url": "https://open.spotify.com/track/520OGfBzjjGqVLO52KPvvC"
     },
     {
       "added_at": "2024-05-29 09:50:10",
@@ -1347,22 +1343,26 @@
     {
       "added_at": "2024-05-29 09:50:10",
       "album": {
-        "name": "Om du var min",
-        "url": "https://open.spotify.com/album/5iaCqxVddsqcWvonadClWp"
+        "name": "Mwaki (Timmy Trumpet Remix)",
+        "url": "https://open.spotify.com/album/3lSaV7UGZKKTBxhZEluKDk"
       },
       "artists": [
         {
-          "name": "J.O.X",
-          "url": "https://open.spotify.com/artist/1MF8pP2ATm53GpUJ9xIaS9"
+          "name": "Zerb",
+          "url": "https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy"
         },
         {
-          "name": "EMMY",
-          "url": "https://open.spotify.com/artist/4rrI3dKjmTOzRZvOwOWOlu"
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "Sofiya Nzau",
+          "url": "https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3"
         }
       ],
-      "duration_ms": 158896,
-      "name": "Om du var min",
-      "url": "https://open.spotify.com/track/520OGfBzjjGqVLO52KPvvC"
+      "duration_ms": 177230,
+      "name": "Mwaki - Timmy Trumpet Remix",
+      "url": "https://open.spotify.com/track/7z50UJZ28IIBkmyLR1oKCd"
     },
     {
       "added_at": "2024-05-29 09:50:10",

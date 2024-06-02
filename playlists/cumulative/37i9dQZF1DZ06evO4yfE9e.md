@@ -2,7 +2,7 @@
 
 ### [This Is bludnymph](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4yfE9e)
 
-> This is: bludnymph\. Alle wichtigen Tracks in einer Playlist.
+> This is bludnymph\. أغانٍ رائعة في قائمة أغانٍ واحدة.
 
 23 songs - 58 min 25 sec
 

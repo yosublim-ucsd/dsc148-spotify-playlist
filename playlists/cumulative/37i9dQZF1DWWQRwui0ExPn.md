@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-6,802 songs - 10 day 17 hr 50 min
+6,803 songs - 10 day 17 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1294,7 +1294,7 @@
 | [Corner Store Snacks](https://open.spotify.com/track/7taBGYW3aZiGQb6HTtHSyq) | [Lola](https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT), [Bluewerks](https://open.spotify.com/artist/4ELcaEK7UaF0mUoodoVBfn) | [Corner Store Snacks](https://open.spotify.com/album/7LPhUkYAYP6hGdpqL2ebAD) | 2:17 | 2023-12-15 |  |
 | [cornern](https://open.spotify.com/track/6zw41lIJBVge6QrmDXSLSg) | [Grmmr.126](https://open.spotify.com/artist/5I9DfXCEBU6PwpWqnySRYK) | [cornern](https://open.spotify.com/album/4sOy24MrvRUXCrKOTdIMbw) | 1:41 | 2022-03-19 | 2022-08-19 |
 | [Cornerstone](https://open.spotify.com/track/7AhuBIZcgICxPKWHGWPvRU) | [RINZ.](https://open.spotify.com/artist/1qc48l4N7tBU8sMOuIAa82) | [Cornerstone](https://open.spotify.com/album/63uMc211thP27HfNYHzXtP) | 2:32 | 2023-02-07 | 2023-05-04 |
-| [Corona](https://open.spotify.com/track/1qGMSeUzKB6eUgIKe7e7Tp) | [Lito Akari](https://open.spotify.com/artist/4ATIy1cxe2gE276vbRv2Hu) | [Corona](https://open.spotify.com/album/21BSTYsjKIYbF0P2tKKljp) | 1:58 | 2024-05-10 |  |
+| [Corona](https://open.spotify.com/track/1qGMSeUzKB6eUgIKe7e7Tp) | [Lito Akari](https://open.spotify.com/artist/4ATIy1cxe2gE276vbRv2Hu) | [Corona](https://open.spotify.com/album/21BSTYsjKIYbF0P2tKKljp) | 1:58 | 2024-05-10 | 2024-06-02 |
 | [Cosmic](https://open.spotify.com/track/5rc0u4BTW7VjzKshxjpxTL) | [Drxnk](https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC), [blndspot](https://open.spotify.com/artist/4YYlHGxwQoGgtikHADECAn) | [Cosmic](https://open.spotify.com/album/1p4QOCEGG1sF4w5tYkBUAR) | 2:19 | 2022-02-25 | 2022-07-29 |
 | [Cosmic](https://open.spotify.com/track/728T7WR1qCPLGvog2ak4bv) | [love\_eight](https://open.spotify.com/artist/2cCbtvKbNfKnKuMfEeyvJE) | [Cosmic](https://open.spotify.com/album/6JzHt9BdyxwocZv8BgxtW6) | 2:17 | 2023-04-05 | 2023-11-11 |
 | [Cosmic Dawn](https://open.spotify.com/track/61cQIznMOBEohUxkNTdOi5) | [Banks](https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU), [Matchbox Youth](https://open.spotify.com/artist/16DVV7qn9iqu3g4QECcyRr), [Layandar](https://open.spotify.com/artist/3SE9JR8Ors7GGbUWHYjgsv) | [Cosmic Dawn](https://open.spotify.com/album/3ChNGkmRnPvj37tBzSZBAQ) | 2:30 | 2021-10-20 | 2022-04-24 |
@@ -4763,6 +4763,7 @@
 | [Rambla Sur](https://open.spotify.com/track/551ubGqMQ6PR2c4LLyBuc5) | [Los Bosques](https://open.spotify.com/artist/49Pl9Au4UinKf0RVdBycOG) | [Rambla Sur](https://open.spotify.com/album/4JeF8hBzxcmjgYGn9RMb8X) | 2:26 | 2022-05-27 | 2022-09-16 |
 | [Ramen Bowl](https://open.spotify.com/track/57TRzXPmITAw2vsTTBtlQ2) | [Yles](https://open.spotify.com/artist/6xuhrq8QZxXqXRz5XKxwaG), [Garo](https://open.spotify.com/artist/2mDy8qGRydJwedzm47Ciqr), [Kristoffer Eikrem](https://open.spotify.com/artist/2TxDDfPwhWPoKJKhEcnv3h) | [Ramen Bowl](https://open.spotify.com/album/6cZKEpgeyghqWBgHo31Fe5) | 2:09 | 2023-06-14 | 2023-10-06 |
 | [Random Memories](https://open.spotify.com/track/17XeeEW91AI79y5nCrSEJt) | [Eclips3](https://open.spotify.com/artist/6ivJbFCNcqWHdxM9y83LV9) | [Random Memories](https://open.spotify.com/album/2xY85mbgCbs9KCqA7wczr0) | 2:05 | 2022-08-12 | 2022-12-24 |
+| [random thoughts](https://open.spotify.com/track/4bGIc2nxevxRU6FQ22L1mC) | [softclouds](https://open.spotify.com/artist/4rjXInANFMCQfAzadFAi4d) | [random thoughts](https://open.spotify.com/album/1Ci3Z0UfK2ehgnpudw86x4) | 2:15 | 2024-05-31 |  |
 | [Ranshima Beach](https://open.spotify.com/track/5McV3umrgvBKCtJWVD2O6I) | [Pueblo Vista](https://open.spotify.com/artist/1p03eo7FG5sXEMs3lGFEwb) | [Train to Sapporo](https://open.spotify.com/album/5xoMdf6CPl8YCqpks2QCeo) | 1:55 | 2021-08-28 | 2022-04-08 |
 | [Rasheed](https://open.spotify.com/track/7w53AFGUt9Jft6ewcHsv6c) | [Okvsho](https://open.spotify.com/artist/30b8dNhkUcfPVsDbwyXlC9) | [Orange Wine](https://open.spotify.com/album/1gicsfJ56kJVSNoxKskESl) | 3:26 | 2021-11-05 | 2022-05-27 |
 | [Raspberry Dream](https://open.spotify.com/track/4q1l8M4ArsxQyWOrIVSahI) | [SamuW](https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio), [Burrito Eats](https://open.spotify.com/artist/1htKvrPWdVTogycYChaLVT), [Mendeville](https://open.spotify.com/artist/3oul9NF2i2QuhpMzxEWoHD) | [Raspberry Dream](https://open.spotify.com/album/4RRAE5O6XuC0apEJdD6wvX) | 2:35 | 2022-02-25 | 2022-07-29 |

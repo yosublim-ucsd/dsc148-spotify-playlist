@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu\. Cover: ORKID
 
-1,377 songs - 2 day 23 hr 43 min
+1,379 songs - 2 day 23 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -244,7 +244,7 @@
 | [Det var då, det var det](https://open.spotify.com/track/7iR7p8Gop4fQz1bjyOIkla) | [Sveavägen](https://open.spotify.com/artist/4rvYitP1XmElnNQyQPEw9g) | [Det var då, det var det](https://open.spotify.com/album/3KNWjo9bMW6leyuOUFSWo6) | 3:09 | 2021-12-16 | 2022-01-14 |
 | [Det var ju du & jag \- Radio Edit](https://open.spotify.com/track/53tkrNm9WV1NlTaZ1OsVQk) | [Linda Sundblad](https://open.spotify.com/artist/28WJiPB1WvNQzMLwM5Hb7G) | [Det var ju du & jag \(Radio Edit\)](https://open.spotify.com/album/51Eo92qpXc2U34OzcoDNi2) | 3:25 | 2024-04-11 | 2024-05-10 |
 | [Det är nog aldrig för sent för oss två](https://open.spotify.com/track/06oh2gh4AXIapbn0UeHXad) | [Thomas Stenström](https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7) | [Det är nog aldrig för sent för oss två](https://open.spotify.com/album/5U6Z8kuGYsb9RHNRM6Q7cp) | 3:33 | 2021-12-16 | 2022-03-11 |
-| [Det är så här livet känns](https://open.spotify.com/track/3aGqlCd2W5iRBhKPortpbP) | [Tomas Rimeika](https://open.spotify.com/artist/6gDITTUXRJ4mb0fhiOcyyz), [Ellinor Skagegård](https://open.spotify.com/artist/5pEFpC5JQdFCO4w9jOzLji) | [Det är så här livet känns](https://open.spotify.com/album/5qcgQqJgxseCqe3Ytt4X4S) | 3:58 | 2024-05-30 |  |
+| [Det är så här livet känns](https://open.spotify.com/track/3aGqlCd2W5iRBhKPortpbP) | [Tomas Rimeika](https://open.spotify.com/artist/6gDITTUXRJ4mb0fhiOcyyz), [Ellinor Skagegård](https://open.spotify.com/artist/5pEFpC5JQdFCO4w9jOzLji) | [Det är så här livet känns](https://open.spotify.com/album/5qcgQqJgxseCqe3Ytt4X4S) | 3:58 | 2024-05-30 | 2024-06-02 |
 | [DEVIL](https://open.spotify.com/track/2XPnzZU93OyQlyAqEf8UPG) | [DREAMDNVR](https://open.spotify.com/artist/3ZyMt4ZzT5TWAFKvm0UxYb) | [DEVIL](https://open.spotify.com/album/6HOOTUts12Z7zQSzy9y7nD) | 2:35 | 2022-03-24 | 2022-09-16 |
 | [Diamond In Disguise](https://open.spotify.com/track/20ft4UOx6MwK7ojJullMur) | [Carl Storm](https://open.spotify.com/artist/06wZ6err8NOnJK992dWO5i) | [Diamond In Disguise](https://open.spotify.com/album/32X7oe07ien987VTjuvmf9) | 2:56 | 2022-03-10 | 2022-04-21 |
 | [Didn’t Know Shit \- Spotify Studio It's Hits Recording](https://open.spotify.com/track/60jrv0KF1Uy5upBN8VTUZN) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x), [JC Stewart](https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv), [Kina](https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF) | [Didn’t Know Shit \- Spotify Studio It's Hits Recording](https://open.spotify.com/album/6MGDXlKW5AMEduAezjbQ5f) | 3:33 | 2021-12-16 | 2022-04-02 |
@@ -981,6 +981,7 @@
 | [Sad boy](https://open.spotify.com/track/4PkP9bwUUDOy616Ve9qEid) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2) | [Sad boy](https://open.spotify.com/album/1zo36S5mDeSWKWF47P7a8U) | 2:41 | 2021-12-16 | 2022-03-09 |
 | [Safe](https://open.spotify.com/track/5YWHPx3STBbT1b5Xfn7hGU) | [IONA](https://open.spotify.com/artist/2kkw1G9LvKwNcEOl4CFu8r) | [Safe](https://open.spotify.com/album/47aEkdMv1yTwN6MRJ3LuBl) | 3:07 | 2022-03-10 | 2022-05-30 |
 | [Safety Lines](https://open.spotify.com/track/324ZhICCs6FW3cGag9dcgg) | [Dead People](https://open.spotify.com/artist/6v6B8vOBZOHBwRtfhB4MM9) | [Safety Lines](https://open.spotify.com/album/4beGjjFosk130hWy8tOgVv) | 3:45 | 2021-12-16 | 2022-03-05 |
+| [Sagor](https://open.spotify.com/track/0o0CPrW2DAKQ8C85ErOu1d) | [UPPENBARA](https://open.spotify.com/artist/43blp0I6QmWnZmDW7yW9E7) | [Sagor](https://open.spotify.com/album/36ZqWtQK4ReRCcXXrWWD5F) | 2:02 | 2024-05-30 |  |
 | [Said and Done](https://open.spotify.com/track/3jnMhpFIw1rtQh43XnNUxs) | [Johnning](https://open.spotify.com/artist/1yPdXrLhRc50YbwiwCr1uN) | [Said and Done](https://open.spotify.com/album/3fcb8NFdFLts2fxvFOzSSm) | 2:54 | 2022-04-07 | 2022-04-20 |
 | [Saknar inte dig](https://open.spotify.com/track/41YY53HdPEnmqu7qlDEp0Y) | [ALMEA](https://open.spotify.com/artist/0CtuSYu3T2MyMqfSoWThwW) | [Saknar inte dig](https://open.spotify.com/album/7xHtg244xpRLKbGeAspT72) | 2:38 | 2022-04-22 | 2023-03-12 |
 | [SAKNAR ORD](https://open.spotify.com/track/6qtoQiHn7V6F54s90dcSzL) | [LEON GABOR](https://open.spotify.com/artist/7t9GOZGoeEdcwF5QlUyT9k) | [SAKNAR ORD](https://open.spotify.com/album/5MIcN6w6kxUlfqwvg2SyUV) | 3:08 | 2022-05-05 | 2022-06-24 |
@@ -990,7 +991,7 @@
 | [Same Thing](https://open.spotify.com/track/5eqQVbVNz41UuUaEdt5Dga) | [YADAYADA](https://open.spotify.com/artist/0kOSwbgw1yE3Sunf3F7F0t) | [Same Thing](https://open.spotify.com/album/1CDqizYMYd2dIyNBrXbXNz) | 3:03 | 2022-03-10 | 2022-04-20 |
 | [Samma gamla vanliga](https://open.spotify.com/track/4wGFTaengFG4o6nYZAK1Xg) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt) | [AREA 36](https://open.spotify.com/album/5TtnZy1zAuJPcveJgGoHpP) | 2:09 | 2022-05-12 | 2023-10-06 |
 | [Samma säng](https://open.spotify.com/track/5yFdISVlABQqdLHOuJ0CpN) | [Anton Kyldahl](https://open.spotify.com/artist/4Xq9iwUmfiz0nAwhF9B1pD), [SIV](https://open.spotify.com/artist/7g1jXjtNKxyfZ2grW439rY) | [Samma säng](https://open.spotify.com/album/7gxoCqM92zDNiIykuLp2ky) | 2:43 | 2022-05-12 | 2022-07-26 |
-| [Samma vatten](https://open.spotify.com/track/3Y6tEqHNTRKydslZIB5lBB) | [Hanna Holter](https://open.spotify.com/artist/6GIY6X7ZWwBWXxzbLQpz3d) | [Samma vatten](https://open.spotify.com/album/5GygQ9n807O3GoXyZqolUh) | 2:56 | 2024-05-23 |  |
+| [Samma vatten](https://open.spotify.com/track/3Y6tEqHNTRKydslZIB5lBB) | [Hanna Holter](https://open.spotify.com/artist/6GIY6X7ZWwBWXxzbLQpz3d) | [Samma vatten](https://open.spotify.com/album/5GygQ9n807O3GoXyZqolUh) | 2:56 | 2024-05-23 | 2024-06-02 |
 | [Sand i min hand](https://open.spotify.com/track/29WNvfSgvZJq3ye2hBf4tu) | [Alex Järvi](https://open.spotify.com/artist/1J0C99LuAwjCC6IQOmJEDE) | [Sand i min hand](https://open.spotify.com/album/42Y2lawW7l7fUdzEUvefcQ) | 3:12 | 2023-05-25 | 2023-10-20 |
 | [Santiago](https://open.spotify.com/track/2H4wjqbzWgCKEPPdk9tPqQ) | [GAMMAL](https://open.spotify.com/artist/3O6DpqAKwn7L1KS9s9x0w5) | [Santiago](https://open.spotify.com/album/1WaSYY1PuUo1SteFBJSSJc) | 2:58 | 2022-05-12 | 2022-12-24 |
 | [Sarah](https://open.spotify.com/track/21xzvjoTUhKV2QYyIGDo8J) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [En gång i tiden](https://open.spotify.com/album/4shw3FqZjRgJinMpCBfNCr) | 3:13 | 2021-12-16 | 2022-03-11 |
@@ -1220,6 +1221,7 @@
 | [Together](https://open.spotify.com/track/1Z5LUX0cHKI6V3aAQ9AfNQ) | [Vilhelm Buchaus](https://open.spotify.com/artist/1WqdwYhwSMzVexRFkOtcwl) | [Together](https://open.spotify.com/album/4NuQmXyWmVWl7vaFtWSp81) | 2:59 | 2023-12-08 | 2024-03-08 |
 | [Tombola 94](https://open.spotify.com/track/7prx9AfJPjvOMPhmuzgXKI) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI) | [Dina Ögon](https://open.spotify.com/album/1fO48uPVulHutVi6MeDTxF) | 3:57 | 2023-04-01 | 2023-10-20 |
 | [Too Kind](https://open.spotify.com/track/5EbEsJFurAUO2WrMjr5ppZ) | [demekech](https://open.spotify.com/artist/1N6JyEBD4tbmqfLkXPP93l) | [Too Kind](https://open.spotify.com/album/5VCfwebiNPDB2Zgi4rSvbH) | 2:54 | 2024-01-25 | 2024-01-28 |
+| [Torka dina tårar](https://open.spotify.com/track/1J1IL6aC8k8q64ecwOUlSw) | [Kåren](https://open.spotify.com/artist/2mDX5SCZQKUZvvMCwqst3r) | [Torka dina tårar](https://open.spotify.com/album/2GK7kCZljQxjGzDSnlq91N) | 3:12 | 2024-05-30 |  |
 | [Touch Yourself](https://open.spotify.com/track/4ycqkyaLSmck669TSsYwqf) | [Lou Elliotte](https://open.spotify.com/artist/03UTtO2Zq2GKk4gQRY9zq6) | [Best You've Ever Had](https://open.spotify.com/album/0BpjvQJqOL7eXISjVFdRVe) | 2:58 | 2021-12-16 | 2022-04-02 |
 | [Toxic Som Mig](https://open.spotify.com/track/7mWsekctZ2EtxDIc29diPv) | [Naod](https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1) | [Toxic Som Mig](https://open.spotify.com/album/5BDR0gDGqKPw2dECdSiCRX) | 2:31 | 2024-01-11 | 2024-03-15 |
 | [Tracksuit Pants](https://open.spotify.com/track/7HeuUU0RhWiBDslwL8Py6z) | [Lou Elliotte](https://open.spotify.com/artist/03UTtO2Zq2GKk4gQRY9zq6) | [Tracksuit Pants](https://open.spotify.com/album/6ShzJzQ6B0DFHZZkKG4y6G) | 2:59 | 2023-09-21 | 2024-01-19 |

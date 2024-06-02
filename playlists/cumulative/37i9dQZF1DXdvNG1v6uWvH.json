@@ -3847,6 +3847,24 @@
     },
     {
       "album": {
+        "name": "For the Light",
+        "url": "https://open.spotify.com/album/0KtWy6RDfG1rC0P2VrtA7d"
+      },
+      "artists": [
+        {
+          "name": "ILMA",
+          "url": "https://open.spotify.com/artist/28HUvCNgo5vgvf8Sm6wxfs"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198292,
+      "name": "For the Light",
+      "url": "https://open.spotify.com/track/4857iYh3EAlCUuGKRB11YY"
+    },
+    {
+      "album": {
         "name": "Forbidden Fruit",
         "url": "https://open.spotify.com/album/1259gMBnBGDuCkAlLcJEyj"
       },
@@ -4548,7 +4566,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-02",
       "duration_ms": 279300,
       "name": "HAPPY BOY",
       "url": "https://open.spotify.com/track/1HoZPsL7cGyERSoYIWR2Ly"
@@ -5220,6 +5238,24 @@
       "duration_ms": 141764,
       "name": "Hot Girl Summer (feat. Amara)",
       "url": "https://open.spotify.com/track/1JnBJ0HxKhcgeFCIp1efGp"
+    },
+    {
+      "album": {
+        "name": "Houdini",
+        "url": "https://open.spotify.com/album/6Xuu2z00jxRPZei4IJ9neK"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227239,
+      "name": "Houdini",
+      "url": "https://open.spotify.com/track/2HYFX63wP3otVIvopRS99Z"
     },
     {
       "album": {
@@ -6560,7 +6596,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-02",
       "duration_ms": 175546,
       "name": "Larger Than Life",
       "url": "https://open.spotify.com/track/1ClFh6NVjnfcbwyg8v5rhl"
@@ -6950,6 +6986,24 @@
       "duration_ms": 166913,
       "name": "Lose My Breath",
       "url": "https://open.spotify.com/track/1eB1JymprhH8QTLA8m1AsB"
+    },
+    {
+      "album": {
+        "name": "Lost Child",
+        "url": "https://open.spotify.com/album/7MKtYdBzKnkQcDh1mQW0PA"
+      },
+      "artists": [
+        {
+          "name": "Julie Pavon",
+          "url": "https://open.spotify.com/artist/3hFqGO0iOFkOfVWR0ydcHs"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187500,
+      "name": "Lost Child",
+      "url": "https://open.spotify.com/track/5Au9Kra41nLUQfH6cWUdp3"
     },
     {
       "album": {
@@ -8171,6 +8225,24 @@
     },
     {
       "album": {
+        "name": "Next 2 U",
+        "url": "https://open.spotify.com/album/5AkuoilPAkKfzfm2nIF7KA"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161801,
+      "name": "Next 2 U",
+      "url": "https://open.spotify.com/track/3qV20sy8VPyt5R8aminfhA"
+    },
+    {
+      "album": {
         "name": "Nice to Meet You",
         "url": "https://open.spotify.com/album/72DMNLy4QTiAK5hxjnV7GH"
       },
@@ -8243,6 +8315,24 @@
     },
     {
       "album": {
+        "name": "Sha La La",
+        "url": "https://open.spotify.com/album/61uQGdOrAk6lzwmCZAjf2k"
+      },
+      "artists": [
+        {
+          "name": "Winnetka Bowling League",
+          "url": "https://open.spotify.com/artist/4ug3P1K8BaCdJXROrqHqhu"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169386,
+      "name": "No One\u2019s Ever Kissed You",
+      "url": "https://open.spotify.com/track/3bqFoUhoet6YhQa8iV5wO3"
+    },
+    {
+      "album": {
         "name": "No Problems",
         "url": "https://open.spotify.com/album/3LZ6BvkB5SLs7PeyRyS89u"
       },
@@ -8312,24 +8402,6 @@
       "duration_ms": 180451,
       "name": "Nocturna",
       "url": "https://open.spotify.com/track/7jAxkOFMNcUIPjPIhSf24d"
-    },
-    {
-      "album": {
-        "name": "Sha La La",
-        "url": "https://open.spotify.com/album/61uQGdOrAk6lzwmCZAjf2k"
-      },
-      "artists": [
-        {
-          "name": "Winnetka Bowling League",
-          "url": "https://open.spotify.com/artist/4ug3P1K8BaCdJXROrqHqhu"
-        }
-      ],
-      "date_added": "2024-05-31",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 169386,
-      "name": "Noone's Ever Kissed You",
-      "url": "https://open.spotify.com/track/3bqFoUhoet6YhQa8iV5wO3"
     },
     {
       "album": {
@@ -11224,7 +11296,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-02",
       "duration_ms": 152955,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/45uQ4E5u8iLUKbuPPmqDr8"
@@ -11472,7 +11544,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-02",
       "duration_ms": 197678,
       "name": "The One",
       "url": "https://open.spotify.com/track/6hRFf9TeQ78H3s7q8yN4Tg"

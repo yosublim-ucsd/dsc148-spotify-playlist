@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover:  Jolene Marie
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,471 likes - 103 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,476 likes - 103 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

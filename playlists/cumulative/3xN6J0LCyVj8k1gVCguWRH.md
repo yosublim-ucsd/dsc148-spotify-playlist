@@ -4,7 +4,7 @@
 
 > What Will the 2024 Song of the Summer Be!? Find out with the perfect soundtrack for the sweatiest season! A predicttion playlist that also Includes Summer 2023 edition &amp; bonus tracks.
 
-3,397 songs - 8 day 0 hr 29 min
+3,398 songs - 8 day 0 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1236,6 +1236,7 @@
 | [Groovin Alone](https://open.spotify.com/track/20bd1ugc6E8Nu99kljqpPZ) | [Sadies Sloth](https://open.spotify.com/artist/4TdNld7p8dHpIPqzLXujbZ) | [Groovin Alone](https://open.spotify.com/album/7DEImfxGRyjrzceTFpno0R) | 3:46 | 2023-04-01 | 2023-04-23 |
 | [Guantanamera \(feat\. Ms\. Lauryn Hill, Celia Cruz & Jeni Fujita\)](https://open.spotify.com/track/6g5ov3aSDUvvDkQKIcmZQI) | [Wyclef Jean](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe), [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [Jeni Fujita](https://open.spotify.com/artist/4jispKkgFHkoH9imP874K2) | [Wyclef Jean presents The Carnival featuring Refugee Allstars \(feat\. Refugee All Stars\)](https://open.spotify.com/album/0JMmTZJ26G0QekIeSpcplU) | 4:30 | 2022-07-26 | 2024-04-30 |
 | [Gumbo Nights](https://open.spotify.com/track/2qW7TFuS4Ilz9xWylYvKFc) | [Gumbo on Wax](https://open.spotify.com/artist/18QsWeobZeDiceXPfAOv2C) | [Gumbo Nights](https://open.spotify.com/album/1UpMD7NMQzk5eulKjoFaD7) | 2:06 | 2022-12-02 | 2022-12-24 |
+| [Guy Next Door](https://open.spotify.com/track/52tfvT6wAmGsmJHQdrVpZn) | [Belles](https://open.spotify.com/artist/09v2CdpT8TVxY6nn6zLnGd) | [Guy Next Door](https://open.spotify.com/album/5D64tffO6EyavgR0X7a1VY) | 3:43 | 2024-06-01 |  |
 | [Hace Calor](https://open.spotify.com/track/4rHonGCjoqsUUvsdPvwRI7) | [Sebastian Jaramillo](https://open.spotify.com/artist/1gAzUE1AN0yRSBOqWANrQf) | [Hace Calor](https://open.spotify.com/album/44syB3GecTTDbqTYAfp9nr) | 2:44 | 2024-03-10 | 2024-03-18 |
 | [Hacer café](https://open.spotify.com/track/11SL91oltizqkEbM0wGrXy) | [Ramón Betancor](https://open.spotify.com/artist/31CKqxPOF5gZ3UB6UoHDX6) | [Lenguajes del instinto](https://open.spotify.com/album/7J8A6zlLdsxwXOaMGwciRk) | 4:23 | 2023-07-14 | 2023-07-29 |
 | [Hagia Sophia \- Demo Version](https://open.spotify.com/track/4yhD06Hr2Qm02KojAS0KqB) | [Demo](https://open.spotify.com/artist/224Fi9M0ii3XYIvr5IysAe) | [Hagia Sophia \(Demo Version\)](https://open.spotify.com/album/2RPr3hO0J2lMn4iiiFDg1C) | 3:52 | 2020-11-06 | 2020-11-27 |
@@ -1969,7 +1970,7 @@
 | [Moonlit Creek Two](https://open.spotify.com/track/7Ite9usWGhLeunAggsoL56) | [Kid Travis](https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk) | [Moonlit Creek Two](https://open.spotify.com/album/7KNKS26LoPl7LVqOYSnHmH) | 3:16 | 2021-08-25 | 2021-09-10 |
 | [Moonsong](https://open.spotify.com/track/3ZPlcGpdSm22p6bpwFdz2y) | [Honeymack](https://open.spotify.com/artist/4mLki6d5YG5tXOwbt6TRdL) | [Moonsong](https://open.spotify.com/album/4KJbJ0qUTYFR6ABwLvXn31) | 3:45 | 2022-04-29 | 2022-05-16 |
 | [More](https://open.spotify.com/track/0aMTAop3aUtZDVXXAvzpko) | [Jonathan Blake Salazar](https://open.spotify.com/artist/2GNRRGxCWqkjAadPQ57QuU) | [More](https://open.spotify.com/album/5MpUVdZvyk9zUgd2rqEiuz) | 3:12 | 2023-03-28 | 2023-04-23 |
-| [More Life](https://open.spotify.com/track/5trVsRcyVGZoUvx93Sgk9M) | [The Planetoids](https://open.spotify.com/artist/01lK8t2cYqYfRherW82aHm), [Wandile Mbambeni](https://open.spotify.com/artist/772EiD9fOEPeZc2E8dC0nX) | [Johannesburg](https://open.spotify.com/album/4qtJL0AXrjZlt7Z71BstnT) | 3:17 | 2024-05-21 |  |
+| [More Life](https://open.spotify.com/track/5trVsRcyVGZoUvx93Sgk9M) | [The Planetoids](https://open.spotify.com/artist/01lK8t2cYqYfRherW82aHm), [Wandile Mbambeni](https://open.spotify.com/artist/772EiD9fOEPeZc2E8dC0nX) | [Johannesburg](https://open.spotify.com/album/4qtJL0AXrjZlt7Z71BstnT) | 3:17 | 2024-05-21 | 2024-06-02 |
 | [More of the Same](https://open.spotify.com/track/6qyzRjH6fK6P76DdxyXEZl) | [ØZWALD](https://open.spotify.com/artist/7pwk3M6iETEiAFLwqkgLrk) | [More of the Same](https://open.spotify.com/album/5QVFD34CrJHv6e6THdiBid) | 3:12 | 2021-12-11 | 2022-01-07 |
 | [More of You](https://open.spotify.com/track/0nsofcXSqxPcXXrqeY4TeT) | [Chaise](https://open.spotify.com/artist/0cDDDfHYuslpe1CoOeMmib) | [More of You](https://open.spotify.com/album/29j9jh8N2SezEXDGCQmI6n) | 4:03 | 2022-01-07 | 2022-01-23 |
 | [More Than Lovers](https://open.spotify.com/track/2m99x6RSOJjIaO3h6odEyW) | [Hykay](https://open.spotify.com/artist/0ui2p3tryZSVhl4zelHIAi) | [More Than Lovers](https://open.spotify.com/album/1ncO9OdU9B0dFpqzjfg5Oj) | 2:53 | 2023-03-04 | 2023-03-29 |

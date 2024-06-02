@@ -4,7 +4,7 @@
 
 > Just wanna Praise the Lord and chill\. Here is a perfect one! Cover:   <a href=https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta?si=3x3BAh3kQXyTOSk5xEU93A>Noël Mio</a>
 
-274 songs - 16 hr 32 min
+276 songs - 16 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Day By Day](https://open.spotify.com/track/33ztFxjys2xXQZBn0upbeE) | [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [Day By Day](https://open.spotify.com/album/5O1tpz2vdJXhGnFIwSzU9Z) | 2:52 | 2023-10-20 |  |
 | [Deepest Warmest Love](https://open.spotify.com/track/3bWBl5a7hxPErtphOQDYM4) | [Churemi](https://open.spotify.com/artist/70HahwExpgNFLm3YKUkiiO) | [Deepest Warmest Love](https://open.spotify.com/album/0gTUSVXY0m7MHn2kRsHng2) | 3:25 | 2024-04-12 |  |
 | [Desire](https://open.spotify.com/track/38hOrmc7D0YqWZ2QYdxgK2) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Emandiong](https://open.spotify.com/artist/5Vvh5iDYvPE6EHhUZbgpBs) | [Desire](https://open.spotify.com/album/2QPzJrnYkpPBU4kCD15Hcw) | 3:24 | 2023-10-20 |  |
+| [Devotion](https://open.spotify.com/track/6ey6UQnRFCF4Oxmy0FCw9a) | [World Famous Abraham](https://open.spotify.com/artist/69h1nC45WQBZumPNRfWh5V), [Pastor Emmanuel Iren](https://open.spotify.com/artist/1Ge81wiDXhRxTHVE1pdHyw), [Danielle D](https://open.spotify.com/artist/5cStR0nOui9rkeIJarFE5O) | [Devotion](https://open.spotify.com/album/0fFHIUgHnZqhZcfWhsApky) | 3:02 | 2024-06-01 |  |
 | [DNA](https://open.spotify.com/track/2yfc79Ai0LwFSFokyEdoVT) | [Benjamin Israel](https://open.spotify.com/artist/5qGo4F4KRcg0fBmJBD2Ubq) | [DNA](https://open.spotify.com/album/4uA9c80POUZ6RsdQuI6Kie) | 5:21 | 2024-04-19 |  |
 | [Do You Know Jesus?](https://open.spotify.com/track/2cZuuJ61c7qSct57or0h9Y) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Pillar YRR](https://open.spotify.com/artist/62jRIwQ6eUifptPOGRBHqd), [Lekan Salamii](https://open.spotify.com/artist/2S8pBLSlvmEiRPl2SMPfPB) | [Do You Know Jesus?](https://open.spotify.com/album/7hhYpFCgnlJaSsbuVPHxQq) | 2:35 | 2023-11-24 | 2024-01-26 |
 | [Doh Doh Doh](https://open.spotify.com/track/2lMZGnSWKU9LxUjO5EThrw) | [nina shezz](https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8), [Ife](https://open.spotify.com/artist/3n5NBohiciKgl7Y8i4AeyK) | [Doh Doh Doh](https://open.spotify.com/album/5rH09ZUv3nstdF2LtbPvvN) | 2:33 | 2023-11-03 |  |
@@ -76,6 +77,7 @@
 | [Eagles](https://open.spotify.com/track/0vANfTcrIRMIb0Zgt8cidA) | [Kojo Dave](https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce), [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [Eagles](https://open.spotify.com/album/2huKs1pju9CSInbq9WFAiW) | 2:26 | 2024-03-15 |  |
 | [Easy](https://open.spotify.com/track/4VBagSXFy5qzMvDd3RWbeZ) | [Reubie the Artist](https://open.spotify.com/artist/2CpHiduRy3bVW44ODZ8Wzg), [Tim](https://open.spotify.com/artist/42GNCDUR5O6qp9zEw72zLE) | [Easy](https://open.spotify.com/album/0spXZewYIJPSqmPTRB151Q) | 3:17 | 2024-04-19 |  |
 | [Eazy](https://open.spotify.com/track/6vaoPNq2lJZ6DzRZZAS21G) | [Phontera](https://open.spotify.com/artist/71Vn1EeivhPQ4vl4XGOHLm) | [Eazy](https://open.spotify.com/album/3d0RkuEYcmCwMVMEcSlBVV) | 2:15 | 2023-10-20 | 2024-01-12 |
+| [Echoes Of Love](https://open.spotify.com/track/5Soqtv37Gb1ROUIAVCfOeW) | [Aremmic](https://open.spotify.com/artist/7BT40oP5mx0gTwoR8KmbCN) | [Echoes Of Love](https://open.spotify.com/album/1mUh5G47foAbuBVgVmbDzt) | 3:31 | 2024-06-01 |  |
 | [EL GIBOR](https://open.spotify.com/track/6FfG8FIsrsDqMjvFY9bTno) | [Nuelzo](https://open.spotify.com/artist/6CPuXxiR9CqQ0d2irmAlnR), [Echow Clay](https://open.spotify.com/artist/6L3FtVc42qiH1J9PUtdUDu) | [EL GIBOR](https://open.spotify.com/album/03vsdpnVy3jTMRcduHDMEh) | 2:19 | 2024-03-21 |  |
 | [El Roi](https://open.spotify.com/track/3RdKxgOgfAgxie976HrBPy) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC) | [El Roi](https://open.spotify.com/album/2kdI0MtVhnJ8QKDTLdtMTG) | 2:48 | 2024-05-03 |  |
 | [Elijah Level \(with Limoblaze\)](https://open.spotify.com/track/1yEuEyMs30kbMfyEWlEk8h) | [Gaise Baba](https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [Elijah Level \(with Limoblaze\)](https://open.spotify.com/album/6FT3RodFpDNE4R4cAhb5O9) | 2:53 | 2023-11-10 |  |

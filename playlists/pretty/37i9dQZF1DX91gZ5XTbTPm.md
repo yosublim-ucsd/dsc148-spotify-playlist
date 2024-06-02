@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91gZ5XTbTPm.md) - [plain]
 
 > The Midwest is always on time\. Cover: Sexyy Red
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,756 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,802 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91gZ5XTbTPm.md) - [plain]
 | 8 | [Sexyy Love Money \(feat\. VonOff1700\)](https://open.spotify.com/track/0wrhW3tAAt7w9Y09CazT16) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [VonOff1700](https://open.spotify.com/artist/47UhY4DqayBiq2gp43WOcZ) | [In Sexyy We Trust](https://open.spotify.com/album/5PmtX9B5vNa4uaiXQVn4Gx) | 2:44 |
 | 9 | [Wock N Red](https://open.spotify.com/track/1aTqmtFNinvLcosIriC8lA) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [Wock N Red](https://open.spotify.com/album/2pBaG0rquEzCXDXyF56S6f) | 3:18 |
 | 10 | [From That Way](https://open.spotify.com/track/7EnHTtFwTtXoQ4ZRae8tY7) | [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1) | [From That Way](https://open.spotify.com/album/6UKhM2YEeUmC8z9vV5bU8A) | 3:00 |
-| 11 | [LUNCHROOM FREESTYLE \(feat\. Babytron\)](https://open.spotify.com/track/0IdnpPAGtYbUH3TWHR9Egn) | [Nasaan](https://open.spotify.com/artist/6qbCuiHIWsiQxNhqXgc7mz), [Babytron](https://open.spotify.com/artist/3CZBIUkUIsjvLnVclMIlHa) | [ERROR 404](https://open.spotify.com/album/33X7CmFuM7WuVyTho420ZG) | 2:16 |
+| 11 | [LUNCHROOM FREESTYLE \(feat\. BabyTron\)](https://open.spotify.com/track/0IdnpPAGtYbUH3TWHR9Egn) | [Nasaan](https://open.spotify.com/artist/6qbCuiHIWsiQxNhqXgc7mz), [Babytron](https://open.spotify.com/artist/3CZBIUkUIsjvLnVclMIlHa) | [ERROR 404](https://open.spotify.com/album/33X7CmFuM7WuVyTho420ZG) | 2:16 |
 | 12 | [Kentucky Love](https://open.spotify.com/track/7v21UEJI0U8v99dggzZjQm) | [Bfb Da Packman](https://open.spotify.com/artist/3C1bStPNVIPmGIrORT5OlF), [Babyfxce E](https://open.spotify.com/artist/7a8ZndeHGrkS7xIM8060Xw), [KrispyLife Kidd](https://open.spotify.com/artist/0nsO60VA1qoO308e9cYEPR) | [Kentucky Love](https://open.spotify.com/album/2kh30VwYJ7fwfoEszdMOg0) | 3:51 |
 | 13 | [Opps On Deck](https://open.spotify.com/track/7tEZ2SJzxEpfVXkIPHj8zl) | [VonOff1700](https://open.spotify.com/artist/47UhY4DqayBiq2gp43WOcZ) | [\#FreeMyHoodFuckYoHood](https://open.spotify.com/album/7wlu5wQlVFvT4emQsSZAlQ) | 1:42 |
 | 14 | [Get It Sexyy](https://open.spotify.com/track/2MjXWroB9wlTG2kqv3avfS) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Get It Sexyy](https://open.spotify.com/album/3ahxhuhmGJiN0CWLOff9Sw) | 2:28 |

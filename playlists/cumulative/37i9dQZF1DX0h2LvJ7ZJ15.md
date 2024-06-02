@@ -4,7 +4,7 @@
 
 > slowed, reverbed, chopped and screwed.
 
-241 songs - 13 hr 26 min
+242 songs - 13 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Bad Habits \- slowed + reverb](https://open.spotify.com/track/3XMA9wnsUcfHw0cPUye5Rm) | [No2Pencil](https://open.spotify.com/artist/20DC1aiFjxdo2DtT5x8DCV) | [Bad Habits](https://open.spotify.com/album/4RRWSD4q8OKju452y80gGv) | 3:11 | 2022-05-06 | 2022-05-18 |
 | [BAIXO \- slowed](https://open.spotify.com/track/4fQVSW5Vg8EZu0lOqzEdji) | [xxanteria](https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp) | [NO GOING BACK](https://open.spotify.com/album/7pv0piZjVlLEIYUXEQKX6x) | 2:18 | 2023-12-08 |  |
 | [Bananza \(Belly Dancer\) \- Slowed](https://open.spotify.com/track/5lEx9Oo3tMyP85ppH43Uar) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [xxtristanxo](https://open.spotify.com/artist/4kBCXTJBl1aY9pDHONsjfr), [Slowed Radio](https://open.spotify.com/artist/7zmcKgBZSbMxqzqFe6Ac5k) | [Bananza \(Belly Dancer\) \[Remixes\]](https://open.spotify.com/album/4oMLAtWY28kQydDGxnrZxj) | 2:33 | 2022-01-28 | 2023-12-09 |
+| [BASSLINE \- SLOWED](https://open.spotify.com/track/3KpuvLHfzkUl2T7ARb5SUP) | [PXRKX](https://open.spotify.com/artist/5sj3P8OH8O5aVmey1C2mf4), [Shadow \- Plus](https://open.spotify.com/artist/6LYUNVm4A6yGEYYxmaOSsc) | [BASSLINE](https://open.spotify.com/album/7AmJYPuvIFdqLKcnhtIfNK) | 2:10 | 2024-05-24 |  |
 | [beauty bomb \(slowed + reverbed\)](https://open.spotify.com/track/53NzMfJ0LsqG4myQp28ETk) | [blyden](https://open.spotify.com/artist/12WLoG3DW0U7FXw62FZeZ9) | [beauty bomb \(slowed + reverbed\)](https://open.spotify.com/album/2x3qHX6OXT0HC7WFX6MjpA) | 1:00 | 2022-01-05 | 2022-02-22 |
 | [Bent \- slowed + reverb](https://open.spotify.com/track/6ZqFoM0KMHDGiXwojXDqot) | [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU), [Jenn Carter](https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM), [TaTa](https://open.spotify.com/artist/43s6uFZrdusv7ggmDSpO41) | [Bent \(Pack\)](https://open.spotify.com/album/5RTw6vQXTIXkB9fP6Aheu7) | 3:03 | 2023-12-14 | 2024-04-06 |
 | [Best Day of My Life \- Slowed + Reverb](https://open.spotify.com/track/5XTEmMEGgjtm48sNftvPuM) | [Santino Le Saint](https://open.spotify.com/artist/49WBtnIs3VA1tHR7jQG1F6) | [Beautiful Disaster \(Slowed + Reverb\)](https://open.spotify.com/album/4JphWMpLDBZwmUmjjpRT2s) | 3:54 | 2023-09-21 | 2023-12-09 |
@@ -139,7 +140,7 @@
 | [Kerosene \- Slowed](https://open.spotify.com/track/2weO22kObPnyX1jKQStb40) | [fam0uz](https://open.spotify.com/artist/5L9XA5GDsOOKNZfeOO8lmo) | [Kerosene \(Slowed\)](https://open.spotify.com/album/1mAU33mqJDs4eekzZAQZvf) | 2:22 | 2024-01-05 | 2024-04-19 |
 | [Kerosene \- Slowed](https://open.spotify.com/track/3BOQDjSv5ANlwvK97WDSyK) | [fam0uz](https://open.spotify.com/artist/5L9XA5GDsOOKNZfeOO8lmo) | [Kerosene \(Slowed\)](https://open.spotify.com/album/6tiGvKDEPIPBW0LeGXnNQX) | 2:22 | 2023-12-08 | 2024-01-13 |
 | [Kick Back \- slowed and reverbed](https://open.spotify.com/track/5hrV1NiNUBXbIpuIDizwcG) | [LOTU$](https://open.spotify.com/artist/3kI4cAfrm8ij3ZEUfpXtTU), [Chicage](https://open.spotify.com/artist/3ifSLh9XOq2zWejn95G5KR) | [purple paradise](https://open.spotify.com/album/5n2IrCB1vEhvYiufcXxXxm) | 3:26 | 2022-01-05 | 2023-12-09 |
-| [Killshot \- Slowed + Reverb](https://open.spotify.com/track/6pdyvJQkPkwo2WoDH7tFHO) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Killshot \(Slowed + Reverb\)](https://open.spotify.com/album/4Ey0ngdLf4iXL84gdv0zjA) | 4:38 | 2021-10-01 |  |
+| [Killshot \- Slowed + Reverb](https://open.spotify.com/track/6pdyvJQkPkwo2WoDH7tFHO) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Killshot \(Slowed + Reverb\)](https://open.spotify.com/album/4Ey0ngdLf4iXL84gdv0zjA) | 4:38 | 2021-10-01 | 2024-06-02 |
 | [LEFT RIGHT \- Slowed](https://open.spotify.com/track/4YMOED32VTJr8woSeQxvZM) | [Bktherula](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK) | [LEFT RIGHT \(Slowed\)](https://open.spotify.com/album/0HwvROOXn0C9CaVvTCkyG3) | 1:32 | 2021-10-01 | 2022-04-16 |
 | [Limbo \- ChopNotSlop Remix](https://open.spotify.com/track/5r0X4MhcC7KjN2NQeonWlC) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F), [OG Ron C](https://open.spotify.com/artist/2LQF8AgyQUgLfquM92Rx8N) | [Freddie's Inferno \- The Slow Descent](https://open.spotify.com/album/69LXu03hHWw4zOaZwi7Zv2) | 3:07 | 2022-12-09 | 2023-12-09 |
 | [Limbo \- Ghost Slowed](https://open.spotify.com/track/6gHMPnovJioJRT5tvBAj5w) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F), [OG Ron C](https://open.spotify.com/artist/2LQF8AgyQUgLfquM92Rx8N) | [Freddie's Inferno \- Ghost Slowed](https://open.spotify.com/album/4Sc3qZCPGp2QXFcxYA8Mn2) | 3:03 | 2022-12-16 |  |

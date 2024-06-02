@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUakt2wHhaeT.md) - [plain]
 
 > The best songs from the new shows and the buzziest hits\. Cover: Original Cast of Illinoise
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,674 likes - 42 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,670 likes - 42 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Chicago](https://open.spotify.com/track/7aaQQCNoksyfd1fZAeG4Pa) | [Elijah Lyons](https://open.spotify.com/artist/0NlaUhKUnvT7ix1cMiE7PU), [Original Cast of Illinoise: A New Musical](https://open.spotify.com/artist/60YCQIxNBYpPLVhEvCy8Mr) | [Illinoise: A New Musical \(Original Cast Recording\)](https://open.spotify.com/album/7bELJsLJfeTYzgtVsQiwUa) | 5:45 |
+| 1 | [Chicago](https://open.spotify.com/track/7aaQQCNoksyfd1fZAeG4Pa) | [Elijah Lyons](https://open.spotify.com/artist/3mNGrNlQWwUMXeVH6erp17), [Original Cast of Illinoise: A New Musical](https://open.spotify.com/artist/60YCQIxNBYpPLVhEvCy8Mr) | [Illinoise: A New Musical \(Original Cast Recording\)](https://open.spotify.com/album/7bELJsLJfeTYzgtVsQiwUa) | 5:45 |
 | 2 | [My Days](https://open.spotify.com/track/3xHktpSiOvB1UxJzXxh0lU) | [Joy Woods](https://open.spotify.com/artist/4ANaCMgO8VHtP89pRV46pW) | [The Notebook \(Original Broadway Cast Recording\)](https://open.spotify.com/album/63ujCmTJYeJBkHI3pPg7La) | 3:42 |
 | 3 | [No One \(From the New Broadway Musical "Hell's Kitchen"\)](https://open.spotify.com/track/2olxF7NN4aArCeNSUsw2vO) | [Shoshana Bean](https://open.spotify.com/artist/3f6n3RzZESaZnpoKit0Sk5), [Maleah Joi Moon](https://open.spotify.com/artist/0sBeQc6bmrPBEIrlovSjGM), [Hell’s Kitchen Cast](https://open.spotify.com/artist/1UZgOd2KYLgCnC46IZcqvt) | [No One \(From the New Broadway Musical "Hell's Kitchen"\)](https://open.spotify.com/album/7AZCaDixctGbJL1E35urmu) | 4:38 |
 | 4 | [Stay Gold](https://open.spotify.com/track/6QMYeuubL00KcXBXxS5Zhn) | [Sky Lakota\-Lynch](https://open.spotify.com/artist/6tXiikauT8deFqOGJ9RCeI), [Brody Grant](https://open.spotify.com/artist/4dxMGpSWxE0B2ySAvab6dj), [Original Broadway Cast of The Outsiders \- A New Musical](https://open.spotify.com/artist/2FOqIyiI7Ss7sQGBtDZF5w) | [The Outsiders \- A New Musical \(Original Broadway Cast Recording\)](https://open.spotify.com/album/67tJ9sRxyaLcj7QQzt1wPk) | 4:09 |

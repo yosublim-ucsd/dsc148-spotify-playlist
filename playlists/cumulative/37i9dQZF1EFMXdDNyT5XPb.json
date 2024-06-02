@@ -755,6 +755,24 @@
     },
     {
       "album": {
+        "name": "I Wish I Was",
+        "url": "https://open.spotify.com/album/722G4OU32T7nebuJJm3vqo"
+      },
+      "artists": [
+        {
+          "name": "The Stickmen Project",
+          "url": "https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY"
+        }
+      ],
+      "date_added": "2024-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204016,
+      "name": "I Wish I Was",
+      "url": "https://open.spotify.com/track/37gvCv1XpbCfG3Acjqf6ew"
+    },
+    {
+      "album": {
         "name": "I Would",
         "url": "https://open.spotify.com/album/37VisWjdFZUOuWuqAAe466"
       },

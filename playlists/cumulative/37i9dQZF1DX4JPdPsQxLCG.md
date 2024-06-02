@@ -4,7 +4,7 @@
 
 > Epic tunes for the open road.
 
-438 songs - 1 day 4 hr 11 min
+439 songs - 1 day 4 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,7 +112,7 @@
 | [Eat My Brain](https://open.spotify.com/track/2oUASWffEKd5cfoqTpQK86) | [Odds](https://open.spotify.com/artist/1MVQ4bbrG5VdRyozjajZQp) | [Good Weird Feeling](https://open.spotify.com/album/4Ov3XdAlqU8tqWCOwJ1WQq) | 4:26 | 2022-05-02 | 2022-07-29 |
 | [Echo Beach](https://open.spotify.com/track/08gcSzRD66Dc7z3x6yigol) | [Martha and the Muffins](https://open.spotify.com/artist/5nWbdgU2jcFSbrPV7EAoLK) | [80\-Regine del Pop](https://open.spotify.com/album/69POGM6ZPfBNMNvxgUys87) | 3:34 | 2022-09-13 | 2024-03-22 |
 | [Echo Beach](https://open.spotify.com/track/49wHCjiu34kM3VRgumQ1tJ) | [Martha and the Muffins](https://open.spotify.com/artist/5nWbdgU2jcFSbrPV7EAoLK) | [Metro Music](https://open.spotify.com/album/3XyR0jp0zJGjhLJjnltNaX) | 3:39 | 2022-05-02 | 2023-03-02 |
-| [Eckhaus Latta](https://open.spotify.com/track/6eREarnGP0ESQPQAtzx66p) | [Maddie Jay](https://open.spotify.com/artist/0eelrX0AcylGwVNf1HW77h) | [Eckhaus Latta](https://open.spotify.com/album/581K715k3W1jz1LqgmOKKz) | 2:49 | 2024-04-19 |  |
+| [Eckhaus Latta](https://open.spotify.com/track/6eREarnGP0ESQPQAtzx66p) | [Maddie Jay](https://open.spotify.com/artist/0eelrX0AcylGwVNf1HW77h) | [Eckhaus Latta](https://open.spotify.com/album/581K715k3W1jz1LqgmOKKz) | 2:49 | 2024-04-19 | 2024-06-02 |
 | [Electric Pow Wow Drum](https://open.spotify.com/track/5e8v4ibmsMHxHLALe5KaiZ) | [The Halluci Nation](https://open.spotify.com/artist/2jlWF9ltd8UtoaqW0PxY4z) | [A Tribe Called Red](https://open.spotify.com/album/1FYVy6b5R41tMIAhWS6fXJ) | 3:39 | 2022-05-02 | 2024-04-19 |
 | [Enough Is Enough](https://open.spotify.com/track/2N6UO8dx5jlTJSZqHXowFy) | [April Wine](https://open.spotify.com/artist/1JHzh1ETQTMoFb2CgncnTL) | [Power Play](https://open.spotify.com/album/0j0ilztsHKBGYUskQJWyeX) | 4:04 | 2022-05-02 | 2022-07-29 |
 | [Everybody Knows](https://open.spotify.com/track/60s0QWaOZ2UTzqdIHBCt3x) | [Leonard Cohen](https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV) | [I'm Your Man](https://open.spotify.com/album/3gUw30X6A7WEGcRdv1nFr9) | 5:34 | 2022-05-02 | 2023-05-19 |
@@ -240,6 +240,7 @@
 | [My Town](https://open.spotify.com/track/36oSzy6uztrVglG0swtduH) | [Glass Tiger](https://open.spotify.com/artist/53RaPTbZOx2mBoZD6LLWIv) | [Simple Mission](https://open.spotify.com/album/75Bv72IjO9tkBIFdSqu0xT) | 4:49 | 2022-05-02 | 2022-07-29 |
 | [Never Surrender](https://open.spotify.com/track/5U5p472hgeXUKvh0d8RL4K) | [Corey Hart](https://open.spotify.com/artist/0smy8yDrRoI4CnhpOuthg0) | [Boy In The Box](https://open.spotify.com/album/5WrZRRqfnVPr9EbNSqG0cN) | 4:55 | 2022-05-02 | 2023-05-19 |
 | [New Girl Now](https://open.spotify.com/track/1grnSNpTAe14gjtqfArZan) | [Honeymoon Suite](https://open.spotify.com/artist/7kFyhQTV7cbd3iSYW2yt1Q) | [Honeymoon Suite](https://open.spotify.com/album/30S6ZGFNC9KcUZeOqxuq3n) | 3:36 | 2022-05-02 | 2023-05-19 |
+| [New Me](https://open.spotify.com/track/5ZSbOZAsbOWi7DNfpO1vqG) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [New Me](https://open.spotify.com/album/6iGj13T3EKBX8OSMrHBd5x) | 2:53 | 2024-05-31 |  |
 | [New Orleans Is Sinking](https://open.spotify.com/track/6v4pemwpkW7msCbBtSJf15) | [The Tragically Hip](https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0) | [Up To Here](https://open.spotify.com/album/4gmKiB0dtmPWjzbDM5N7Jv) | 4:17 | 2022-05-02 | 2024-04-19 |
 | [Night To Remember](https://open.spotify.com/track/0BJgFxiNchIhnvPCY3h2bv) | [Prism](https://open.spotify.com/artist/5LRNWnDWFkMtRmlxtYdW3I) | [Armageddon](https://open.spotify.com/album/3uvSqaKfDcpQyOAEg8dtiT) | 5:51 | 2022-05-02 | 2022-06-04 |
 | [No Man's Land](https://open.spotify.com/track/3bGmPRMOBQLIOUYfhEeWle) | [Greg Keelor](https://open.spotify.com/artist/1uY1yygywc5FqBISxIGHRE) | [Aphrodite Rose](https://open.spotify.com/album/2QHGgQEhiVyuD8BaKZVHj9) | 3:34 | 2023-10-06 | 2023-10-14 |

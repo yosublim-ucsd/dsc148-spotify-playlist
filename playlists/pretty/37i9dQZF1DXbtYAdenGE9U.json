@@ -1,6 +1,6 @@
 {
   "description": "Lasers, lights & euphoric beats - all your favorite trance anthems!",
-  "num_followers": 571761,
+  "num_followers": 572102,
   "original_name": "Trance Classics",
   "owner": {
     "name": "Spotify",
@@ -519,6 +519,22 @@
     {
       "added_at": "2023-08-11 10:02:57",
       "album": {
+        "name": "Time To Burn 2010",
+        "url": "https://open.spotify.com/album/3sWQLBfrq0mYSddH3ChTku"
+      },
+      "artists": [
+        {
+          "name": "Storm",
+          "url": "https://open.spotify.com/artist/2Hn7EcVTYF7TTCaELHrqy0"
+        }
+      ],
+      "duration_ms": 175160,
+      "name": "Time to Burn - Radio Edit",
+      "url": "https://open.spotify.com/track/0IaOAo13NTYVSWuAy5OGRC"
+    },
+    {
+      "added_at": "2023-08-11 10:02:57",
+      "album": {
         "name": "Greece 2000",
         "url": "https://open.spotify.com/album/0Kldrxo1zjpUc07YQGea9n"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 219000,
       "name": "Greece 2000 - Edit",
       "url": "https://open.spotify.com/track/3JxBHvOkVvgZTtQ9shl4fI"
-    },
-    {
-      "added_at": "2023-08-11 10:02:57",
-      "album": {
-        "name": "Time To Burn 2010",
-        "url": "https://open.spotify.com/album/3sWQLBfrq0mYSddH3ChTku"
-      },
-      "artists": [
-        {
-          "name": "Storm",
-          "url": "https://open.spotify.com/artist/2Hn7EcVTYF7TTCaELHrqy0"
-        }
-      ],
-      "duration_ms": 175160,
-      "name": "Time to Burn - Radio Edit",
-      "url": "https://open.spotify.com/track/0IaOAo13NTYVSWuAy5OGRC"
     },
     {
       "added_at": "2023-08-11 10:02:57",

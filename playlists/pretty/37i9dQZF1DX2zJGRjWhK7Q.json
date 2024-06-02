@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor de los '70. Foto: Ismael Rivera",
-  "num_followers": 195848,
+  "num_followers": 195919,
   "original_name": "Salsa: Los '70",
   "owner": {
     "name": "Spotify",
@@ -111,22 +111,6 @@
     {
       "added_at": "2024-03-19 14:38:10",
       "album": {
-        "name": "Salsas Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/5TZ0b6WVre1uW94NxmI4WP"
-      },
-      "artists": [
-        {
-          "name": "Cuco Valoy",
-          "url": "https://open.spotify.com/artist/0RdKPjwSwfx6jqqdgkyGmE"
-        }
-      ],
-      "duration_ms": 260075,
-      "name": "Juliana",
-      "url": "https://open.spotify.com/track/4HORNZa8fdeg2pjJBm51Zz"
-    },
-    {
-      "added_at": "2024-03-19 14:38:10",
-      "album": {
         "name": "Ponte Duro The Fania All Stars Story",
         "url": "https://open.spotify.com/album/4934XFQ9ZYdoK3R42MEwcv"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 437933,
       "name": "Anacaona",
       "url": "https://open.spotify.com/track/7wYjQQeClyDQAug88iyMco"
+    },
+    {
+      "added_at": "2024-03-19 14:38:10",
+      "album": {
+        "name": "Salsas Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/5TZ0b6WVre1uW94NxmI4WP"
+      },
+      "artists": [
+        {
+          "name": "Cuco Valoy",
+          "url": "https://open.spotify.com/artist/0RdKPjwSwfx6jqqdgkyGmE"
+        }
+      ],
+      "duration_ms": 260075,
+      "name": "Juliana",
+      "url": "https://open.spotify.com/track/4HORNZa8fdeg2pjJBm51Zz"
     },
     {
       "added_at": "2024-03-19 14:38:10",

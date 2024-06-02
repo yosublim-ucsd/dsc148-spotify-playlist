@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 
 ### [RAP GENERACJA](https://open.spotify.com/playlist/37i9dQZF1DWXJnyndhASBe)
 
-> Największe rapowe kawałki w tej chwili 👶 Cover: Young\(er\) Leosia, bambi
+> Największe rapowe kawałki w tej chwili\. Cover: Young Leosia, bambi
 
-[Spotify](https://open.spotify.com/user/spotify) - 520,406 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 520,664 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 | 49 | [ŁAPIE OKAZJE](https://open.spotify.com/track/4jzXf1IkczgPBCeyKCyaEe) | [Guzior](https://open.spotify.com/artist/7uWyXPJ04ihdQdYGGw3xVV) | [ŁAPIE OKAZJE](https://open.spotify.com/album/3vGoBFKgORhfspM2AT10Qr) | 3:13 |
 | 50 | [Death note](https://open.spotify.com/track/13mgRmDwkyfsgG78YyEDLc) | [Chivas](https://open.spotify.com/artist/1fZAAHNWdSM5gqbi9o5iEA) | [Deathcore](https://open.spotify.com/album/5pEyFfIh3cruUMhecU4G9i) | 2:42 |
 
-Snapshot ID: `ZlpIYAAAAABGzUQv9LkYevIKZFub+27J`
+Snapshot ID: `ZluZ4AAAAACHA5TYsNOSYz7Qy68Cbyez`

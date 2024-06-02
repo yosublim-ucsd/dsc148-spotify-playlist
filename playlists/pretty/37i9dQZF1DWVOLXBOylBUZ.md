@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOLXBOylBUZ.md) - [plain]
 
 > Latinoamérica baila al ritmo de Kenia Os y El Malilla.
 
-[Spotify](https://open.spotify.com/user/spotify) - 513,224 likes - 100 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 513,237 likes - 100 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOLXBOylBUZ.md) - [plain]
 | 11 | [SATA](https://open.spotify.com/track/27fLzQp6M5PWXOAJsXjHoY) | [Taiko](https://open.spotify.com/artist/7E8zK1i1TAXxBVRpeMfOqM), [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4) | [SATA](https://open.spotify.com/album/4VVBYVVNe7JMNfq7Pmixet) | 2:31 |
 | 12 | [DEJALO](https://open.spotify.com/track/53D7pcm0U1NmVYYRvgdEdD) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE), [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD) | [BlessDeluxury](https://open.spotify.com/album/0MkMu019XCFwwuL1ftHKmQ) | 3:15 |
 | 13 | [YO KIERO](https://open.spotify.com/track/6r8mkvOm0kK5ACFOuvCezk) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr), [Alan Dazmel](https://open.spotify.com/artist/3C1SUHXW7THF8hkOP7Rekm) | [YO KIERO](https://open.spotify.com/album/2xV0w1VjhgbjUoZzUMUN0R) | 2:32 |
-| 14 | [Vuelue](https://open.spotify.com/track/19UoErxcGaXQiMUC1oToYu) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y), [OMRIZY](https://open.spotify.com/artist/1i6jHPx9zBD46NJaB16aX0), [D\-Rok 5 Starr](https://open.spotify.com/artist/71IcU5PAfg8QPZqZso7bV8) | [Vuelve](https://open.spotify.com/album/4GXonDm60Et2ZRfTLxZMmB) | 3:13 |
+| 14 | [Vuelve](https://open.spotify.com/track/19UoErxcGaXQiMUC1oToYu) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y), [OMRIZY](https://open.spotify.com/artist/1i6jHPx9zBD46NJaB16aX0), [D\-Rok 5 Starr](https://open.spotify.com/artist/71IcU5PAfg8QPZqZso7bV8) | [Vuelve](https://open.spotify.com/album/4GXonDm60Et2ZRfTLxZMmB) | 3:13 |
 | 15 | [MIONCA](https://open.spotify.com/track/3UxRvZWhEfSJmNDsbEjKOY) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11) | [MIONCA](https://open.spotify.com/album/3jjWzpGtGBUoMEDduwVvrB) | 3:06 |
 | 16 | [MAMI](https://open.spotify.com/track/1hZVLlcJK9FJ9FLIrUJsCY) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Ñejo](https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o) | [BlessDeluxury](https://open.spotify.com/album/0MkMu019XCFwwuL1ftHKmQ) | 3:28 |
 | 17 | [Ganas](https://open.spotify.com/track/4f5Bw7pvjyCW5mEeyyoKve) | [Maikel Delacalle](https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV) | [Ganas](https://open.spotify.com/album/2atbau8pIwRzcTvSUT7TGu) | 3:57 |

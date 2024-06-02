@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > The Marías's <a href="spotify:album:03guxdOi12XJbnvxvxbpwG">Submarine</a> is here
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,148,310 likes - 130 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,148,408 likes - 130 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

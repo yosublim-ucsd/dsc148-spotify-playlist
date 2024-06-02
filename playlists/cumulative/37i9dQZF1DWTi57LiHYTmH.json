@@ -916,7 +916,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-02",
       "duration_ms": 171397,
       "name": "Being",
       "url": "https://open.spotify.com/track/0lsFPRlqL6UCTUKERiFxWJ"
@@ -2918,6 +2918,24 @@
       "duration_ms": 301400,
       "name": "Montero: Adagio (After Bach's Violin Concerto No. 2, BWV 1042)",
       "url": "https://open.spotify.com/track/1v3gGmcneK1QzYyBFiBXG0"
+    },
+    {
+      "album": {
+        "name": "Movement, Before All Flowers",
+        "url": "https://open.spotify.com/album/1HrFsljwk4wUHrPPOGkSbN"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219477,
+      "name": "Movement, Before All Flowers - Edit",
+      "url": "https://open.spotify.com/track/0v9LuPahZH8PHN86gxRHTU"
     },
     {
       "album": {

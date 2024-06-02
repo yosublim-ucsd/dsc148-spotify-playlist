@@ -1,6 +1,6 @@
 {
   "description": "Enjoy this deep and meditative list  alone or with a friend and a good cup of coffee.",
-  "num_followers": 61026,
+  "num_followers": 61021,
   "original_name": "The Good Cup",
   "owner": {
     "name": "Spotify",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Fireflies",
-        "url": "https://open.spotify.com/album/62ny7DQoGyrutzOk3etAO4"
-      },
-      "artists": [
-        {
-          "name": "Audrey Marie",
-          "url": "https://open.spotify.com/artist/5CMtW6hgiE5LKpoyEbDbnU"
-        }
-      ],
-      "duration_ms": 237466,
-      "name": "Fireflies",
-      "url": "https://open.spotify.com/track/66BhbODw8yjztQlBkBZJur"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "The Grunewald Church Session",
         "url": "https://open.spotify.com/album/6oLX7bPI80ncEhjsb997KY"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 418995,
       "name": "Without Shelter",
       "url": "https://open.spotify.com/track/0mdBzoEiRNM2CFOuCmbUsb"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Fireflies",
+        "url": "https://open.spotify.com/album/62ny7DQoGyrutzOk3etAO4"
+      },
+      "artists": [
+        {
+          "name": "Audrey Marie",
+          "url": "https://open.spotify.com/artist/5CMtW6hgiE5LKpoyEbDbnU"
+        }
+      ],
+      "duration_ms": 237466,
+      "name": "Fireflies",
+      "url": "https://open.spotify.com/track/66BhbODw8yjztQlBkBZJur"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
+        "name": "Velveteen",
+        "url": "https://open.spotify.com/album/5VjY0h9wEbhKYaYuk3QXnO"
+      },
+      "artists": [
+        {
+          "name": "Christa Wells",
+          "url": "https://open.spotify.com/artist/3gCNiuPNPiAA5UQSgb8Uby"
+        }
+      ],
+      "duration_ms": 237481,
+      "name": "Velveteen",
+      "url": "https://open.spotify.com/track/4EqMffOPYDDgXlwPgYgbUy"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
         "name": "What You Paid For",
         "url": "https://open.spotify.com/album/35LPGmmn5mSgLjTVC3mkgw"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 249608,
       "name": "What You Paid For",
       "url": "https://open.spotify.com/track/3HT2NQ1t7PdZTNodCVC5Dv"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
-        "name": "Velveteen",
-        "url": "https://open.spotify.com/album/5VjY0h9wEbhKYaYuk3QXnO"
-      },
-      "artists": [
-        {
-          "name": "Christa Wells",
-          "url": "https://open.spotify.com/artist/3gCNiuPNPiAA5UQSgb8Uby"
-        }
-      ],
-      "duration_ms": 237481,
-      "name": "Velveteen",
-      "url": "https://open.spotify.com/track/4EqMffOPYDDgXlwPgYgbUy"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1267,8 +1267,8 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Anchor",
-        "url": "https://open.spotify.com/album/2SIHwdpJ51catH3G1vNLGG"
+        "name": "One Thing",
+        "url": "https://open.spotify.com/album/6X3dptuKSAda4W5zhUJutg"
       },
       "artists": [
         {
@@ -1276,13 +1276,13 @@
           "url": "https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh"
         },
         {
-          "name": "Madison Nightingale",
-          "url": "https://open.spotify.com/artist/7rtM8hShcn3uvAJrXapFSq"
+          "name": "Taylor Goertzen",
+          "url": "https://open.spotify.com/artist/3qsSL0u4vEMCMgKKHNRmt9"
         }
       ],
-      "duration_ms": 301909,
-      "name": "Anchor",
-      "url": "https://open.spotify.com/track/2kDS6kwrjR2QDOj5RF52xj"
+      "duration_ms": 188586,
+      "name": "One Thing",
+      "url": "https://open.spotify.com/track/37DdH0CAgdoNPYAKExmgfc"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Faith Fall",
-        "url": "https://open.spotify.com/album/1XGzyIA05w1nyRg2MK2qy9"
-      },
-      "artists": [
-        {
-          "name": "LOVKN",
-          "url": "https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc"
-        }
-      ],
-      "duration_ms": 258292,
-      "name": "Faith Fall - pensive piano",
-      "url": "https://open.spotify.com/track/2WbFoLk3VvAPhh0WZcXYMr"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Nothing Else",
         "url": "https://open.spotify.com/album/3qTycMB7VucF8cIv2ZbVu4"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 264332,
       "name": "Nothing Else",
       "url": "https://open.spotify.com/track/41FnfKYB6m3uQSAzPC7Jfc"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Faith Fall",
+        "url": "https://open.spotify.com/album/1XGzyIA05w1nyRg2MK2qy9"
+      },
+      "artists": [
+        {
+          "name": "LOVKN",
+          "url": "https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc"
+        }
+      ],
+      "duration_ms": 258292,
+      "name": "Faith Fall - pensive piano",
+      "url": "https://open.spotify.com/track/2WbFoLk3VvAPhh0WZcXYMr"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1443,8 +1443,8 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "One Thing",
-        "url": "https://open.spotify.com/album/6X3dptuKSAda4W5zhUJutg"
+        "name": "Anchor",
+        "url": "https://open.spotify.com/album/2SIHwdpJ51catH3G1vNLGG"
       },
       "artists": [
         {
@@ -1452,13 +1452,13 @@
           "url": "https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh"
         },
         {
-          "name": "Taylor Goertzen",
-          "url": "https://open.spotify.com/artist/3qsSL0u4vEMCMgKKHNRmt9"
+          "name": "Madison Nightingale",
+          "url": "https://open.spotify.com/artist/7rtM8hShcn3uvAJrXapFSq"
         }
       ],
-      "duration_ms": 188586,
-      "name": "One Thing",
-      "url": "https://open.spotify.com/track/37DdH0CAgdoNPYAKExmgfc"
+      "duration_ms": 301909,
+      "name": "Anchor",
+      "url": "https://open.spotify.com/track/2kDS6kwrjR2QDOj5RF52xj"
     },
     {
       "added_at": "2023-07-28 04:02:00",

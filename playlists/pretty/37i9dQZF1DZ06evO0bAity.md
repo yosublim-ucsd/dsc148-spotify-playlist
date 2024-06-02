@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0bAity.md) - [plain]
 
 ### [This Is DZ Deathrays](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0bAity)
 
-> This is DZ Deathrays\. The essential tracks, all in one playlist.
+> This is DZ Deathrays\. Track\-track unggulan, semuanya dalam satu playlist.
 
 [Spotify](https://open.spotify.com/user/spotify) - 1,222 likes - 43 songs - 2 hr 17 min
 
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0bAity.md) - [plain]
 | 42 | [The Mess Up](https://open.spotify.com/track/2l1DgrC0PobfxiFwtN8BEo) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Ruined My Life](https://open.spotify.com/album/6DmNm4kgQ8ImBla8OvEahZ) | 3:39 |
 | 43 | [Cops / Capacity](https://open.spotify.com/track/1yqmcfHazwWohYFsI7pSnP) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Bloodstreams](https://open.spotify.com/album/5CrFxu32NCoavIYGKZRcuQ) | 2:52 |
 
-Snapshot ID: `ZlfBgAAAAAB/yvHaKcMgMJ/7oMu8CWdk`
+Snapshot ID: `ZlfBgAAAAAAS99rzr+r8kO+77UHNlDdz`

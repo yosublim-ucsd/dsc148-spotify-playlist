@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xeFWM.md) - [plain]
 
 > This is Bastille\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 212,926 likes - 51 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,931 likes - 51 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xeFWM.md) - [plain]
 | 50 | [Divide](https://open.spotify.com/track/3hwGJn49kUbDP2gIgXHPKE) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Doom Days](https://open.spotify.com/album/2QzbL1DICo4xZnWr8Sw4fF) | 3:52 |
 | 51 | [Bite Down \(Bastille Vs\. HAIM\)](https://open.spotify.com/track/5FE8wW6YIKHFtSlbGLhYKB) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc), [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [VS\. \(Other People’s Heartache, Pt\. III\)](https://open.spotify.com/album/1YXsPGQingGkJZLA8uuQNL) | 2:59 |
 
-Snapshot ID: `ZlfBgAAAAAD/m9+Q6GBqdIejd0ante/e`
+Snapshot ID: `ZlkTAAAAAADvaOBor7d3J4tRTKQWIXkm`

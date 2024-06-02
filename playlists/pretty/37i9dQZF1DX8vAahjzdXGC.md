@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: MALIQ & D'Essentials
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,715 likes - 112 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,736 likes - 112 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,6 +119,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 109 | [Daydreams](https://open.spotify.com/track/51lACgMujfk4XYOgQ7iNc5) | [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb) | [Daydreams](https://open.spotify.com/album/4njWvo2B5vDghHpShpiWF8) | 3:36 |
 | 110 | [What A Tragedy](https://open.spotify.com/track/1BCqvzNMzVcAHjPMyLmaG7) | [lewloh](https://open.spotify.com/artist/31TM5zBknJ7ZInbxnR0rlX) | [What A Tragedy](https://open.spotify.com/album/7IcKLUrYiNXMwIEV7viqcJ) | 2:26 |
 | 111 | [Alone in This Universe](https://open.spotify.com/track/37HW6U2qjlvsMYjismB2qs) | [The Peachskins](https://open.spotify.com/artist/6slLx3tKNbSTpbAkkikwzd) | [Alone in This Universe](https://open.spotify.com/album/5W9wd7wfNARsDrqIGowSwW) | 3:09 |
-| 112 | [into you](https://open.spotify.com/track/3VLqM6AK5hlMklETMtcs0X) | [satellite](https://open.spotify.com/artist/4dfF3ecNllyZMpEUmhv4F0) | [into you](https://open.spotify.com/album/68TlLMRJVbuPbU0mNrhQ3G) | 3:57 |
+| 112 | [into you](https://open.spotify.com/track/3VLqM6AK5hlMklETMtcs0X) | [satellite.](https://open.spotify.com/artist/58qX06UZpmeiapyjskI8sn) | [into you](https://open.spotify.com/album/68TlLMRJVbuPbU0mNrhQ3G) | 3:57 |
 
 Snapshot ID: `ZliwkAAAAABf9Sp7TsBe8G9Oc34z4si4`

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLrNDPW5co2.md) - [plain]
 
 ### [Club Resistance](https://open.spotify.com/playlist/37i9dQZF1DWTLrNDPW5co2)
 
-> Catz n' Dogz celebrate pride month by guest curating Club Resistance with a selection of LGBTQIA+ dance & electronic artists!
+> Catz 'n Dogz celebrate pride month with their guest curation takeover of Club Resistance!
 
-[Spotify](https://open.spotify.com/user/spotify) - 241,475 likes - 90 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 241,578 likes - 90 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLrNDPW5co2.md) - [plain]
 | 89 | [Celestial Sodomy](https://open.spotify.com/track/1WqXDdzkMhoD4LK3xk2oV1) | [Izzy Camina](https://open.spotify.com/artist/1bEvuUxdYlGYGq5WvDAE1u) | [Celestial Sodomy](https://open.spotify.com/album/5eKRxFeuq5nAdoJTLf8NJv) | 3:20 |
 | 90 | [Obliterate](https://open.spotify.com/track/12bWYZA94k9TyxAVQ5aBQ5) | [Lupa J](https://open.spotify.com/artist/1yvTsFefUSbLoOimc1vMZJ) | [To Breathe Underwater](https://open.spotify.com/album/2lL7bjuc1QrmCYFuJb1fng) | 3:33 |
 
-Snapshot ID: `ZlqcwAAAAADpF4r7WRxOkv+0NhzQo1Ve`
+Snapshot ID: `ZluuYwAAAACj9g9jx+EG5bj0OqkYP4/1`

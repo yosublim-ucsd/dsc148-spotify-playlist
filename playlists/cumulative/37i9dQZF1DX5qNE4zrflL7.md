@@ -2,7 +2,7 @@
 
 ### [Alternative 60s](https://open.spotify.com/playlist/37i9dQZF1DX5qNE4zrflL7)
 
-> The songs that influenced everything that has happened since\. Cover: Jimi Hendrix
+> The songs that influenced everything that has happened since\. Cover: The Rolling Stones
 
 159 songs - 8 hr 30 min
 

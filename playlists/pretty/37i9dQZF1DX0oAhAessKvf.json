@@ -1,6 +1,6 @@
 {
   "description": "La calle temblaba con los primeros pasos del reggaet\u00f3n. Foto: El General",
-  "num_followers": 117541,
+  "num_followers": 117567,
   "original_name": "Reggaeton: El Inicio",
   "owner": {
     "name": "Spotify",
@@ -779,6 +779,22 @@
     {
       "added_at": "2024-03-25 13:06:06",
       "album": {
+        "name": "Reggaeton BC",
+        "url": "https://open.spotify.com/album/3GwevLTFFZYTh9Np2z5mYE"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "duration_ms": 335346,
+      "name": "El Marciano - Cocoman",
+      "url": "https://open.spotify.com/track/2WMt2WhT943HFwH6Cy7wax"
+    },
+    {
+      "added_at": "2024-03-25 13:06:06",
+      "album": {
         "name": "A Mover el Culo Con el Chombo",
         "url": "https://open.spotify.com/album/0dGcHWlzgWsN4bMc4DXq9Y"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 190693,
       "name": "Bailando",
       "url": "https://open.spotify.com/track/4NQg9QGJbJFRW7HjAsYu0z"
-    },
-    {
-      "added_at": "2024-03-25 13:06:06",
-      "album": {
-        "name": "Reggaeton BC",
-        "url": "https://open.spotify.com/album/3GwevLTFFZYTh9Np2z5mYE"
-      },
-      "artists": [
-        {
-          "name": "Various Artists",
-          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
-        }
-      ],
-      "duration_ms": 335346,
-      "name": "El Marciano - Cocoman",
-      "url": "https://open.spotify.com/track/2WMt2WhT943HFwH6Cy7wax"
     },
     {
       "added_at": "2024-03-25 13:06:06",
@@ -971,22 +971,18 @@
     {
       "added_at": "2024-03-25 13:06:06",
       "album": {
-        "name": "A Mover el Culo Con el Chombo",
-        "url": "https://open.spotify.com/album/0dGcHWlzgWsN4bMc4DXq9Y"
+        "name": "Dancehall Reggaespanol",
+        "url": "https://open.spotify.com/album/5VMm5Yt3XMbwv8nH9S3RMS"
       },
       "artists": [
         {
-          "name": "El Chombo",
-          "url": "https://open.spotify.com/artist/6iSZjc4kOoKZKiBXK5HbwD"
-        },
-        {
-          "name": "Jimmy Bad Boy",
-          "url": "https://open.spotify.com/artist/5KQIqm4ZbWSfcrWuzGBI9r"
+          "name": "Fab 5",
+          "url": "https://open.spotify.com/artist/0DDgjT7RPQzMNltbHKyitV"
         }
       ],
-      "duration_ms": 190589,
-      "name": "Luna y Estrellas",
-      "url": "https://open.spotify.com/track/2srDyKCj9JJ0Iwvwdl8xj8"
+      "duration_ms": 247040,
+      "name": "Mini Mini",
+      "url": "https://open.spotify.com/track/6L6UChY96xAMQnAmWafHpp"
     },
     {
       "added_at": "2024-03-25 13:06:06",
@@ -1007,18 +1003,22 @@
     {
       "added_at": "2024-03-25 13:06:06",
       "album": {
-        "name": "Dancehall Reggaespanol",
-        "url": "https://open.spotify.com/album/5VMm5Yt3XMbwv8nH9S3RMS"
+        "name": "A Mover el Culo Con el Chombo",
+        "url": "https://open.spotify.com/album/0dGcHWlzgWsN4bMc4DXq9Y"
       },
       "artists": [
         {
-          "name": "Fab 5",
-          "url": "https://open.spotify.com/artist/0DDgjT7RPQzMNltbHKyitV"
+          "name": "El Chombo",
+          "url": "https://open.spotify.com/artist/6iSZjc4kOoKZKiBXK5HbwD"
+        },
+        {
+          "name": "Jimmy Bad Boy",
+          "url": "https://open.spotify.com/artist/5KQIqm4ZbWSfcrWuzGBI9r"
         }
       ],
-      "duration_ms": 247040,
-      "name": "Mini Mini",
-      "url": "https://open.spotify.com/track/6L6UChY96xAMQnAmWafHpp"
+      "duration_ms": 190589,
+      "name": "Luna y Estrellas",
+      "url": "https://open.spotify.com/track/2srDyKCj9JJ0Iwvwdl8xj8"
     },
     {
       "added_at": "2024-03-25 13:06:06",

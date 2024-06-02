@@ -1,6 +1,6 @@
 {
   "description": "Lo que necesita cualquier verbena veraniega.",
-  "num_followers": 342383,
+  "num_followers": 342405,
   "original_name": "Cl\u00e1sicos del Verano",
   "owner": {
     "name": "Spotify",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "2000 Grandes Exitos",
-        "url": "https://open.spotify.com/album/4dqiQqmKsYhgmrocMXhogw"
-      },
-      "artists": [
-        {
-          "name": "Chocolate",
-          "url": "https://open.spotify.com/artist/4e3lv5qRgFpdILdEOHchbn"
-        }
-      ],
-      "duration_ms": 231080,
-      "name": "Mayonesa",
-      "url": "https://open.spotify.com/track/5Qjx4obghhfhsh6DiUwpNM"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
         "name": "Sabrina",
         "url": "https://open.spotify.com/album/2VlucjjwY5zQCdnyzPU75v"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 234812,
       "name": "Boys - Summertime Love",
       "url": "https://open.spotify.com/track/1uI848raFaNWwe9HjHpjQ5"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
+        "name": "2000 Grandes Exitos",
+        "url": "https://open.spotify.com/album/4dqiQqmKsYhgmrocMXhogw"
+      },
+      "artists": [
+        {
+          "name": "Chocolate",
+          "url": "https://open.spotify.com/artist/4e3lv5qRgFpdILdEOHchbn"
+        }
+      ],
+      "duration_ms": 231080,
+      "name": "Mayonesa",
+      "url": "https://open.spotify.com/track/5Qjx4obghhfhsh6DiUwpNM"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -1787,6 +1787,22 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
+        "name": "Paulina",
+        "url": "https://open.spotify.com/album/64M45unRUhuzlOYth6w5HB"
+      },
+      "artists": [
+        {
+          "name": "Paulina Rubio",
+          "url": "https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS"
+        }
+      ],
+      "duration_ms": 254773,
+      "name": "Y Yo Sigo Aqui - Spanglish",
+      "url": "https://open.spotify.com/track/2Ma2f8jV8VKMJoAcnCvZ8h"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
         "name": "SEX AND LOVE",
         "url": "https://open.spotify.com/album/5eTnO99fDE0hr87EMSTi8w"
       },
@@ -1807,22 +1823,6 @@
       "duration_ms": 243413,
       "name": "Bailando - Spanish Version",
       "url": "https://open.spotify.com/track/0bEA0mMgXheXnahvIbIQfg"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
-        "name": "Paulina",
-        "url": "https://open.spotify.com/album/64M45unRUhuzlOYth6w5HB"
-      },
-      "artists": [
-        {
-          "name": "Paulina Rubio",
-          "url": "https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS"
-        }
-      ],
-      "duration_ms": 254773,
-      "name": "Y Yo Sigo Aqui - Spanglish",
-      "url": "https://open.spotify.com/track/2Ma2f8jV8VKMJoAcnCvZ8h"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -2075,22 +2075,6 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "Yo Quiero Bailar",
-        "url": "https://open.spotify.com/album/1Z3oRjE6kaIhj9GS0IFwxF"
-      },
-      "artists": [
-        {
-          "name": "Sonia Y Selena",
-          "url": "https://open.spotify.com/artist/0wWRxCuyckZOJQVEGqE1f8"
-        }
-      ],
-      "duration_ms": 213066,
-      "name": "Yo Quiero Bailar",
-      "url": "https://open.spotify.com/track/4rFCPjKfgbEeNvs1Ku4nbd"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
         "name": "Papi Chulo... Te Traigo El Mmmm",
         "url": "https://open.spotify.com/album/2PXmGyRtObJ5jdRjkaovZs"
       },
@@ -2103,6 +2087,22 @@
       "duration_ms": 180466,
       "name": "Papi Chulo... Te Traigo El Mmmm - Radio Version",
       "url": "https://open.spotify.com/track/6PRv5QDR843SgVpk4IqEit"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
+        "name": "Yo Quiero Bailar",
+        "url": "https://open.spotify.com/album/1Z3oRjE6kaIhj9GS0IFwxF"
+      },
+      "artists": [
+        {
+          "name": "Sonia Y Selena",
+          "url": "https://open.spotify.com/artist/0wWRxCuyckZOJQVEGqE1f8"
+        }
+      ],
+      "duration_ms": 213066,
+      "name": "Yo Quiero Bailar",
+      "url": "https://open.spotify.com/track/4rFCPjKfgbEeNvs1Ku4nbd"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -2175,22 +2175,6 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "El Virao",
-        "url": "https://open.spotify.com/album/33yE3j2Pd10Qa23sWW9bNe"
-      },
-      "artists": [
-        {
-          "name": "Los Cantantes",
-          "url": "https://open.spotify.com/artist/1OK49IC8PfUPbAtQRv2ryh"
-        }
-      ],
-      "duration_ms": 292800,
-      "name": "El Venao",
-      "url": "https://open.spotify.com/track/66y4liRr8Orq45N0I6VRAP"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
         "name": "Ayer Y Hoy",
         "url": "https://open.spotify.com/album/6Q8IfiJa5VOCfjVAaZW8RW"
       },
@@ -2203,6 +2187,22 @@
       "duration_ms": 175506,
       "name": "Eva Maria",
       "url": "https://open.spotify.com/track/5fc3XWSpJo6jTlbjnhGOJQ"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
+        "name": "El Virao",
+        "url": "https://open.spotify.com/album/33yE3j2Pd10Qa23sWW9bNe"
+      },
+      "artists": [
+        {
+          "name": "Los Cantantes",
+          "url": "https://open.spotify.com/artist/1OK49IC8PfUPbAtQRv2ryh"
+        }
+      ],
+      "duration_ms": 292800,
+      "name": "El Venao",
+      "url": "https://open.spotify.com/track/66y4liRr8Orq45N0I6VRAP"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -2255,22 +2255,6 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "La Luna y el Toro (Made In Spain)",
-        "url": "https://open.spotify.com/album/6K9PyNTelZbYHxplIMoq10"
-      },
-      "artists": [
-        {
-          "name": "El Matador",
-          "url": "https://open.spotify.com/artist/6ErWALskhNtDPw3dYDtHjG"
-        }
-      ],
-      "duration_ms": 267386,
-      "name": "La Luna y el Toro",
-      "url": "https://open.spotify.com/track/2fow2c3MQ5qlj0AzzTqktt"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
         "name": "La Cucaracha",
         "url": "https://open.spotify.com/album/52RyozzM58iDLzgKyxuOZ1"
       },
@@ -2283,6 +2267,22 @@
       "duration_ms": 244500,
       "name": "La Cucaracha",
       "url": "https://open.spotify.com/track/3VBnhEvPBkH5nUMCtAGpv7"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
+        "name": "La Luna y el Toro (Made In Spain)",
+        "url": "https://open.spotify.com/album/6K9PyNTelZbYHxplIMoq10"
+      },
+      "artists": [
+        {
+          "name": "El Matador",
+          "url": "https://open.spotify.com/artist/6ErWALskhNtDPw3dYDtHjG"
+        }
+      ],
+      "duration_ms": 267386,
+      "name": "La Luna y el Toro",
+      "url": "https://open.spotify.com/track/2fow2c3MQ5qlj0AzzTqktt"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -2475,22 +2475,6 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "Bailar Latino",
-        "url": "https://open.spotify.com/album/5J1UTyfayM4b0CTboDnxJu"
-      },
-      "artists": [
-        {
-          "name": "Los Morenos",
-          "url": "https://open.spotify.com/artist/2SrP1bTX9nzMieef8S7Sy7"
-        }
-      ],
-      "duration_ms": 238840,
-      "name": "Sigue al Lider (Follow The Leader)",
-      "url": "https://open.spotify.com/track/7iAs0nbcBa4sfPLH8NIe1c"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
         "name": "Los N\u00ba1 De 40 Principales 2010",
         "url": "https://open.spotify.com/album/5PIoj4o0tZSIQjoS46BeLD"
       },
@@ -2507,6 +2491,22 @@
       "duration_ms": 202560,
       "name": "Waka Waka (Esto es Africa) (feat. Freshlyground)",
       "url": "https://open.spotify.com/track/2AbysJuxNuYJnSgbJ5F0vT"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
+        "name": "Bailar Latino",
+        "url": "https://open.spotify.com/album/5J1UTyfayM4b0CTboDnxJu"
+      },
+      "artists": [
+        {
+          "name": "Los Morenos",
+          "url": "https://open.spotify.com/artist/2SrP1bTX9nzMieef8S7Sy7"
+        }
+      ],
+      "duration_ms": 238840,
+      "name": "Sigue al Lider (Follow The Leader)",
+      "url": "https://open.spotify.com/track/7iAs0nbcBa4sfPLH8NIe1c"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -2543,22 +2543,6 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "Lo Mejor De Los Payos",
-        "url": "https://open.spotify.com/album/5tQa4jvBXDzlaB7ebZb0UG"
-      },
-      "artists": [
-        {
-          "name": "Los Payos",
-          "url": "https://open.spotify.com/artist/1ONcwA5aZxzgOelWDmQ51X"
-        }
-      ],
-      "duration_ms": 199466,
-      "name": "Mar\u00eda Isabel",
-      "url": "https://open.spotify.com/track/6y1b0YZufCb63Mnv3fnlBY"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
         "name": "Lo Mejor De Viceversa",
         "url": "https://open.spotify.com/album/6mbQGg061o7PBBnb68rvZD"
       },
@@ -2571,6 +2555,22 @@
       "duration_ms": 257720,
       "name": "Ella (Tu Piel Morena)",
       "url": "https://open.spotify.com/track/2DAeRk6J5C1Zu8iy32sUPf"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
+        "name": "Lo Mejor De Los Payos",
+        "url": "https://open.spotify.com/album/5tQa4jvBXDzlaB7ebZb0UG"
+      },
+      "artists": [
+        {
+          "name": "Los Payos",
+          "url": "https://open.spotify.com/artist/1ONcwA5aZxzgOelWDmQ51X"
+        }
+      ],
+      "duration_ms": 199466,
+      "name": "Mar\u00eda Isabel",
+      "url": "https://open.spotify.com/track/6y1b0YZufCb63Mnv3fnlBY"
     }
   ],
   "unique_name": "Cl\u00e1sicos del Verano",

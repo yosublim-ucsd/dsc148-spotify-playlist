@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Glória Groove, Luisa Sonza com Kayblack, Ana Castela e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,912,080 likes - 71 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,912,181 likes - 71 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 22 | [Não Vou Te Iludir](https://open.spotify.com/track/1P69qUcDsqpkhJp2GcT2Fd) | [MC TH DA SERRA](https://open.spotify.com/artist/4OKS4k4lBy2KOeftVHJDXu), [Dj Scar](https://open.spotify.com/artist/4TU81hdJFiCuzvaPsajuUo), [Mc Dudu Sk](https://open.spotify.com/artist/1CKLOLezvcRuPRzOiGvxS1) | [Não Vou Te Iludir](https://open.spotify.com/album/0Gmo9Nou1crOaLoddCDnIg) | 2:17 |
 | 23 | [Longe do Fim](https://open.spotify.com/track/6X4ntr6n9t16zy47pZRe03) | [NOG](https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS), [Triz](https://open.spotify.com/artist/4ACGdFl6mPI3lntaYef1gc), [Toledo](https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30) | [Longe do Fim](https://open.spotify.com/album/7xLloQRD5GqWvyC2joeyAH) | 2:31 |
 | 24 | [Bandida](https://open.spotify.com/track/20Bue8isWFXYXjxVcLKJZH) | [Senndy](https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3), [Salve Crazy](https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [Bandida](https://open.spotify.com/album/5rPUr8CQYik6Qxi3Rr8VFN) | 2:04 |
-| 25 | [Ninguém Entende Nada](https://open.spotify.com/track/7cmCX8M8z9GZerCgVG1dyU) | [Mizzy Miles](https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I), [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo), [MC PH](https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5) | [Ninguém Entende Nada](https://open.spotify.com/album/2OIxd2V2LTFqqu7JL9a9US) | 3:12 |
+| 25 | [Ninguém Entende Nada](https://open.spotify.com/track/7cmCX8M8z9GZerCgVG1dyU) | [Mizzy Miles](https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I), [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo), [MC PH](https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5) | [Ninguém Entende Nada](https://open.spotify.com/album/2OIxd2V2LTFqqu7JL9a9US) | 3:16 |
 | 26 | [Ta Enganando A Cliente](https://open.spotify.com/track/4YPYDrccRMnTZXF4jg7C8u) | [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q), [DJ S2K](https://open.spotify.com/artist/0TXO7KlBZ3P4XMNnVrghEX) | [Ta Enganando A Cliente](https://open.spotify.com/album/7k5mdqVpws1Jh2Fz5fIYxI) | 2:38 |
 | 27 | [Without You \(with HAYLA\)](https://open.spotify.com/track/5KW4qNLjWeh7rMbxCfg89N) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [HAYLA](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Without You \(with HAYLA\)](https://open.spotify.com/album/41OLKYtwOINYu55eAMBdhk) | 4:23 |
 | 28 | [OMG](https://open.spotify.com/track/5EfJsHmAPhnzQB4L6wz5FT) | [Leigh\-Anne](https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy) | [No Hard Feelings](https://open.spotify.com/album/2RSNvfNgodiGerFWq3ETci) | 2:13 |

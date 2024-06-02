@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Felix Herbst, Carla Ahad
 
-[Spotify](https://open.spotify.com/user/spotify) - 424,574 likes - 75 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 424,646 likes - 75 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 12 | [dein lieblingstrack](https://open.spotify.com/track/4vctVGIIfvMl1EBBA1vdvL) | [Kasi](https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw), [antonius](https://open.spotify.com/artist/5w3u2cHM1H7URZVsLiCxqi) | [dein lieblingstrack](https://open.spotify.com/album/27YAl1nce5BTysZsqw8x4M) | 2:24 |
 | 13 | [Tanz](https://open.spotify.com/track/5XwP6iVIosNHDJpjGCALcW) | [Ivo Martin](https://open.spotify.com/artist/4bId6MR2fskVKIeCSEmktg) | [Tanz](https://open.spotify.com/album/4KuFPRX0QIIDDkAhr2J2nr) | 2:44 |
 | 14 | [10 vor 10](https://open.spotify.com/track/37TJfrw9teASpsQeoWupq5) | [fiio](https://open.spotify.com/artist/5ry3g4hY2cILXJqqXIUIqZ) | [10 vor 10](https://open.spotify.com/album/5fEamjUSG4mSuaCXPbCBfe) | 2:38 |
-| 15 | [Was bleibt](https://open.spotify.com/track/49DZRUXxxRObftT4MMRPem) | [SIND](https://open.spotify.com/artist/7vTMiWoEUt3NEcGUtghAMi) | [Was bleibt](https://open.spotify.com/album/6tfUiF9NQw81aLKVnMdhI4) | 3:06 |
+| 15 | [Was Bleibt](https://open.spotify.com/track/49DZRUXxxRObftT4MMRPem) | [SIND](https://open.spotify.com/artist/7vTMiWoEUt3NEcGUtghAMi) | [Was Bleibt](https://open.spotify.com/album/6tfUiF9NQw81aLKVnMdhI4) | 3:06 |
 | 16 | [lauf](https://open.spotify.com/track/2BoFXyQK51mh6C9lUQd8Ok) | [TJARK](https://open.spotify.com/artist/2B4IGE6llHgdQsc4kqI5zF) | [lauf](https://open.spotify.com/album/7qVoIKsmBemsKvxDitsvWr) | 3:32 |
 | 17 | [dunkelblau](https://open.spotify.com/track/6ycvSaEKJHGXZeQpJ4LM1H) | [ELA](https://open.spotify.com/artist/4L3QRSecSDcMsyJ6AuDcqb) | [dunkelblau](https://open.spotify.com/album/6zDZIqezaQ7QB6dos1WLpm) | 3:20 |
 | 18 | [dede don don dede don dede don](https://open.spotify.com/track/50pM4sNi8kIAek5pzfE4xh) | [Dominik Hartz](https://open.spotify.com/artist/5UkjZuL8QQccOXbUWoREdI) | [dede don don dede don dede don](https://open.spotify.com/album/2kkZqyorUaYtAPTATQC2sf) | 2:19 |

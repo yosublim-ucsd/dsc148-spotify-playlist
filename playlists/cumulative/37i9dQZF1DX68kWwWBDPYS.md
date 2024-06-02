@@ -9,7 +9,7 @@
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [100 Km](https://open.spotify.com/track/3cLSJJSmuwUEid0zXm21Uv) | [KNYA](https://open.spotify.com/artist/5OOwdQqnYQSdypLCSQ3Kvz) | [100 Km](https://open.spotify.com/album/2zIihrTQoRPiqYfOq760vY) | 2:13 | 2023-12-08 |  |
-| [309](https://open.spotify.com/track/1oIraT61b04Xd9K92KvwV3) | [Andru](https://open.spotify.com/artist/3oOQ670Uw0UyVnmj9XM58W) | [309](https://open.spotify.com/album/3ajXi0OL6QOjX3wyCMCHFI) | 4:33 | 2024-05-31 |  |
+| [309](https://open.spotify.com/track/1oIraT61b04Xd9K92KvwV3) | [Andru](https://open.spotify.com/artist/3oOQ670Uw0UyVnmj9XM58W) | [309](https://open.spotify.com/album/3ajXi0OL6QOjX3wyCMCHFI) | 4:27 | 2024-05-31 |  |
 | [80's](https://open.spotify.com/track/1SzFUihB1muYUkQOb41fbx) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A) | [80's](https://open.spotify.com/album/0dLBUX8WEaabSqpkAFnQES) | 3:33 | 2023-07-21 | 2023-12-09 |
 | [A Diamond In Ashes](https://open.spotify.com/track/31Y7GTUiLoNZK3TcQIrzu8) | [Valentina Moretti](https://open.spotify.com/artist/1smi39GfJBKzbFCPwogmRS) | [A Diamond In Ashes](https://open.spotify.com/album/5erzaRQqc1tFjqAwzfjrzF) | 3:18 | 2023-07-21 | 2023-09-02 |
 | [A Simple Vista](https://open.spotify.com/track/59WBdqea9FTzB09z4vhhl1) | [Tyna Ros](https://open.spotify.com/artist/0UISs14imd71l4ruoL2XPT), [Espumas y Terciopelo](https://open.spotify.com/artist/7cKg7NNt62h4Dq9twH3JOd) | [A Simple Vista](https://open.spotify.com/album/4MmPT0gnE81KHZepPsQUIP) | 3:27 | 2023-07-21 | 2023-09-27 |

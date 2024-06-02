@@ -1,6 +1,6 @@
 {
   "description": "Os hits e novos nomes do pop dividindo o mesmo palco!  / Foto: Jovem Dionisio",
-  "num_followers": 371324,
+  "num_followers": 371335,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
@@ -415,22 +415,6 @@
     {
       "added_at": "2024-05-31 03:00:00",
       "album": {
-        "name": "Pede Pra Eu Ficar (Listen To Your Heart)",
-        "url": "https://open.spotify.com/album/6ruTaJyyvcDhUJCMChPfuW"
-      },
-      "artists": [
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 192421,
-      "name": "Pede Pra Eu Ficar (Listen To Your Heart)",
-      "url": "https://open.spotify.com/track/5niYBuEDe07PWTkAWC1HnZ"
-    },
-    {
-      "added_at": "2024-05-31 03:00:00",
-      "album": {
         "name": "REVERSA [in]ato",
         "url": "https://open.spotify.com/album/6N8AgBQAGm79BZLojct5J7"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 220000,
       "name": "real valor",
       "url": "https://open.spotify.com/track/78wYB2vQHXCGW5UwKlFlob"
+    },
+    {
+      "added_at": "2024-05-31 03:00:00",
+      "album": {
+        "name": "Pede Pra Eu Ficar (Listen To Your Heart)",
+        "url": "https://open.spotify.com/album/6ruTaJyyvcDhUJCMChPfuW"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 192421,
+      "name": "Pede Pra Eu Ficar (Listen To Your Heart)",
+      "url": "https://open.spotify.com/track/5niYBuEDe07PWTkAWC1HnZ"
     },
     {
       "added_at": "2024-05-31 03:00:00",
@@ -607,26 +607,6 @@
     {
       "added_at": "2024-05-31 03:00:00",
       "album": {
-        "name": "Quase N\u00e3o Namoro",
-        "url": "https://open.spotify.com/album/2yg5pbW47YD4HVQ34cgfkC"
-      },
-      "artists": [
-        {
-          "name": "Juliette",
-          "url": "https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec"
-        },
-        {
-          "name": "Marina Sena",
-          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
-        }
-      ],
-      "duration_ms": 135456,
-      "name": "Quase N\u00e3o Namoro",
-      "url": "https://open.spotify.com/track/6eWx9pOK1JkIhUjeVmGYJr"
-    },
-    {
-      "added_at": "2024-05-31 03:00:00",
-      "album": {
         "name": "Minha Arte",
         "url": "https://open.spotify.com/album/7iccFIRTCqegLpHgfXPMVt"
       },
@@ -647,6 +627,26 @@
       "duration_ms": 223912,
       "name": "Minha Arte",
       "url": "https://open.spotify.com/track/2INiIszCU5fQt8SFR3SBTQ"
+    },
+    {
+      "added_at": "2024-05-31 03:00:00",
+      "album": {
+        "name": "Quase N\u00e3o Namoro",
+        "url": "https://open.spotify.com/album/2yg5pbW47YD4HVQ34cgfkC"
+      },
+      "artists": [
+        {
+          "name": "Juliette",
+          "url": "https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec"
+        },
+        {
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+        }
+      ],
+      "duration_ms": 135456,
+      "name": "Quase N\u00e3o Namoro",
+      "url": "https://open.spotify.com/track/6eWx9pOK1JkIhUjeVmGYJr"
     },
     {
       "added_at": "2024-05-31 03:00:00",
@@ -911,6 +911,22 @@
     {
       "added_at": "2024-05-31 03:00:00",
       "album": {
+        "name": "Somewhere Only We Know",
+        "url": "https://open.spotify.com/album/3SSjCIMccH0zOtznuS3hyU"
+      },
+      "artists": [
+        {
+          "name": "Carol Biazin",
+          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
+        }
+      ],
+      "duration_ms": 149302,
+      "name": "Somewhere Only We Know",
+      "url": "https://open.spotify.com/track/3O4HxUk3JbhY0nut3RFjaF"
+    },
+    {
+      "added_at": "2024-05-31 03:00:00",
+      "album": {
         "name": "Olhar HD",
         "url": "https://open.spotify.com/album/5eAdKrXdGOxJEMmL1gucTv"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 167741,
       "name": "OLHAR HD",
       "url": "https://open.spotify.com/track/0MKn146xdKs9Gnwtkfl0fB"
-    },
-    {
-      "added_at": "2024-05-31 03:00:00",
-      "album": {
-        "name": "Somewhere Only We Know",
-        "url": "https://open.spotify.com/album/3SSjCIMccH0zOtznuS3hyU"
-      },
-      "artists": [
-        {
-          "name": "Carol Biazin",
-          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
-        }
-      ],
-      "duration_ms": 149302,
-      "name": "Somewhere Only We Know",
-      "url": "https://open.spotify.com/track/3O4HxUk3JbhY0nut3RFjaF"
     },
     {
       "added_at": "2024-05-31 03:00:00",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2024-05-31 03:00:00",
       "album": {
-        "name": "Doce Desejo",
-        "url": "https://open.spotify.com/album/4JzQuAXdVXTJ6Il8AsHeGP"
-      },
-      "artists": [
-        {
-          "name": "Lou Garcia",
-          "url": "https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov"
-        }
-      ],
-      "duration_ms": 175800,
-      "name": "Doce Desejo",
-      "url": "https://open.spotify.com/track/3CcP7KUiVSnuI3MEtRarkS"
-    },
-    {
-      "added_at": "2024-05-31 03:00:00",
-      "album": {
         "name": "Nem Sei Fingir",
         "url": "https://open.spotify.com/album/0DDKZ9qObSoNiA4qAkuiEh"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 176640,
       "name": "Nem Sei Fingir",
       "url": "https://open.spotify.com/track/4G9gWLcVflZjv56Fp8SKnP"
+    },
+    {
+      "added_at": "2024-05-31 03:00:00",
+      "album": {
+        "name": "Doce Desejo",
+        "url": "https://open.spotify.com/album/4JzQuAXdVXTJ6Il8AsHeGP"
+      },
+      "artists": [
+        {
+          "name": "Lou Garcia",
+          "url": "https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov"
+        }
+      ],
+      "duration_ms": 175800,
+      "name": "Doce Desejo",
+      "url": "https://open.spotify.com/track/3CcP7KUiVSnuI3MEtRarkS"
     },
     {
       "added_at": "2024-05-31 03:00:00",
@@ -1523,6 +1523,22 @@
     {
       "added_at": "2024-05-31 03:00:00",
       "album": {
+        "name": "Vai Vai Vai",
+        "url": "https://open.spotify.com/album/4EoRDi6vtNYNHSt5I6PxEk"
+      },
+      "artists": [
+        {
+          "name": "CORA",
+          "url": "https://open.spotify.com/artist/2qy3VPlMGKCe25BNET0vdp"
+        }
+      ],
+      "duration_ms": 164640,
+      "name": "Vai Vai Vai",
+      "url": "https://open.spotify.com/track/6DrXs83U3jKRtAOwoveDbO"
+    },
+    {
+      "added_at": "2024-05-31 03:00:00",
+      "album": {
         "name": "Boom",
         "url": "https://open.spotify.com/album/3GvbxHizeLdikCDuDJ29LB"
       },
@@ -1539,38 +1555,6 @@
       "duration_ms": 131076,
       "name": "Boom",
       "url": "https://open.spotify.com/track/42A4y8cnvDMh18i22aXQH7"
-    },
-    {
-      "added_at": "2024-05-31 03:00:00",
-      "album": {
-        "name": "Campo De Morango",
-        "url": "https://open.spotify.com/album/4HsyzmEw3gKCS1fFfHjccT"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 76248,
-      "name": "Campo De Morango",
-      "url": "https://open.spotify.com/track/4T88uzmAghjSBhABSz7jcB"
-    },
-    {
-      "added_at": "2024-05-31 03:00:00",
-      "album": {
-        "name": "Tudo Pra Amar Voc\u00ea",
-        "url": "https://open.spotify.com/album/1neVMQB6q1Roh1Voz9dfDA"
-      },
-      "artists": [
-        {
-          "name": "Marina Sena",
-          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "Tudo Pra Amar Voc\u00ea",
-      "url": "https://open.spotify.com/track/2lDhKzEXHU14HRRAKja3ba"
     },
     {
       "added_at": "2024-05-31 03:00:00",
@@ -1595,6 +1579,22 @@
     {
       "added_at": "2024-05-31 03:00:00",
       "album": {
+        "name": "Campo De Morango",
+        "url": "https://open.spotify.com/album/4HsyzmEw3gKCS1fFfHjccT"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 76248,
+      "name": "Campo De Morango",
+      "url": "https://open.spotify.com/track/4T88uzmAghjSBhABSz7jcB"
+    },
+    {
+      "added_at": "2024-05-31 03:00:00",
+      "album": {
         "name": "Afropaty",
         "url": "https://open.spotify.com/album/5fOaa75x89O1eBzazgjGu7"
       },
@@ -1615,18 +1615,18 @@
     {
       "added_at": "2024-05-31 03:00:00",
       "album": {
-        "name": "Vai Vai Vai",
-        "url": "https://open.spotify.com/album/4EoRDi6vtNYNHSt5I6PxEk"
+        "name": "Tudo Pra Amar Voc\u00ea",
+        "url": "https://open.spotify.com/album/1neVMQB6q1Roh1Voz9dfDA"
       },
       "artists": [
         {
-          "name": "CORA",
-          "url": "https://open.spotify.com/artist/2qy3VPlMGKCe25BNET0vdp"
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
         }
       ],
-      "duration_ms": 164640,
-      "name": "Vai Vai Vai",
-      "url": "https://open.spotify.com/track/6DrXs83U3jKRtAOwoveDbO"
+      "duration_ms": 175000,
+      "name": "Tudo Pra Amar Voc\u00ea",
+      "url": "https://open.spotify.com/track/2lDhKzEXHU14HRRAKja3ba"
     },
     {
       "added_at": "2024-05-31 03:00:00",

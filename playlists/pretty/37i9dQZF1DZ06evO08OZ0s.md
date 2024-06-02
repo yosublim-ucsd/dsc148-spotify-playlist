@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO08OZ0s.md) - [plain]
 
 ### [This Is Kelli\-Leigh](https://open.spotify.com/playlist/37i9dQZF1DZ06evO08OZ0s)
 
-> This is Kelli\-Leigh\. The essential tracks, all in one playlist.
+> This Is Kelli\-Leigh\. Los temas esenciales, todos en una lista.
 
 [Spotify](https://open.spotify.com/user/spotify) - 620 likes - 50 songs - 2 hr 31 min
 
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO08OZ0s.md) - [plain]
 | 49 | [Love & Devotion](https://open.spotify.com/track/3R60MeWYg7kRr5hNA8mlu9) | [Jenaux](https://open.spotify.com/artist/4pWvD2wQ6paqieVN9bE8yv), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [Love & Devotion](https://open.spotify.com/album/3JrJsej825b2dqp0qtJGlY) | 4:10 |
 | 50 | [Can't Get Enough](https://open.spotify.com/track/4djqpTZnGhzeYG4i37gOMl) | [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [Can't Get Enough](https://open.spotify.com/album/3mcWIkdKwTxf9if1CG7Uj6) | 2:19 |
 
-Snapshot ID: `ZlfBgAAAAACu5QDCvxoGsOiPZWLnK5O1`
+Snapshot ID: `ZlfBgAAAAAAy6U3FjAB5ihENqogWPwVm`

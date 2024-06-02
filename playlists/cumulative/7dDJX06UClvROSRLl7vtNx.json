@@ -6529,6 +6529,32 @@
     },
     {
       "album": {
+        "name": "Smell The Roses",
+        "url": "https://open.spotify.com/album/6vVIdug5q8YayFDgKOx3MG"
+      },
+      "artists": [
+        {
+          "name": "Survol",
+          "url": "https://open.spotify.com/artist/3NGnHk3VEx1z4Yihzzc6Ou"
+        },
+        {
+          "name": "outset island",
+          "url": "https://open.spotify.com/artist/1Yq11FlV5GeYdKzHutWv3X"
+        },
+        {
+          "name": "Gavriel",
+          "url": "https://open.spotify.com/artist/4uZYkecG20FolZDNjrB2US"
+        }
+      ],
+      "date_added": "2024-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162580,
+      "name": "Smell The Roses (feat. Gavriel)",
+      "url": "https://open.spotify.com/track/7nQ74Lp7FvDTCzmP4CXzpy"
+    },
+    {
+      "album": {
         "name": "Smile Again",
         "url": "https://open.spotify.com/album/6NEWWH4PLY1AyS6VahHYmx"
       },

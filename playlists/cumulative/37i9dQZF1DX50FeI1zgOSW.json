@@ -693,6 +693,28 @@
     },
     {
       "album": {
+        "name": "Cosmic Kaadhal (From \"Nodigalal Naam Karaiya\")",
+        "url": "https://open.spotify.com/album/6uw6DurUUI2IWb7BfDKm3M"
+      },
+      "artists": [
+        {
+          "name": "MK Mohan Kumar",
+          "url": "https://open.spotify.com/artist/2GrAC4fHqBDMYt8YYIPJqr"
+        },
+        {
+          "name": "Koshy Cherry",
+          "url": "https://open.spotify.com/artist/5pjikLyNeEqtPjplLlLsgf"
+        }
+      ],
+      "date_added": "2024-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170017,
+      "name": "Cosmic Kaadhal (From \"Nodigalal Naam Karaiya\")",
+      "url": "https://open.spotify.com/track/7urPC6bNYLfTZk56JEBECA"
+    },
+    {
+      "album": {
         "name": "Crushu Ponnu",
         "url": "https://open.spotify.com/album/221xzfAS0aodo5AAkYo1RQ"
       },
@@ -4032,7 +4054,7 @@
       ],
       "date_added": "2024-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-02",
       "duration_ms": 215942,
       "name": "Paavai",
       "url": "https://open.spotify.com/track/0Dy51XHPjIcOuVsCgFbtNF"

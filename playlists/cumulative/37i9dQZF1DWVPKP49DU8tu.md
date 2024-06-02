@@ -4,7 +4,7 @@
 
 > Solo hit da cantare \(anche fuori dalla doccia\).
 
-400 songs - 23 hr 22 min
+401 songs - 23 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,6 +201,7 @@
 | [La Bebe \- Remix](https://open.spotify.com/track/2UW7JaomAMuX9pZrjVpHAU) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [La Bebe \(Remix\)](https://open.spotify.com/album/6aBVGuOUEuX18rHxyDWbti) | 3:54 | 2023-06-09 | 2023-08-19 |
 | [LA CANZONE NOSTRA ⟁ \(con BLANCO & Salmo\)](https://open.spotify.com/track/0aQi1JGO1oKWEmKGfvf8TF) | [MACE](https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1), [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH), [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [LA CANZONE NOSTRA ⟁ \(con BLANCO & Salmo\)](https://open.spotify.com/album/2w5HWooasQeHJC4lYspeG3) | 3:57 | 2022-05-05 | 2022-07-29 |
 | [La Cintura](https://open.spotify.com/track/19MBk3PbNFE36wqIqkMq9H) | [Alvaro Soler](https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe) | [La Cintura](https://open.spotify.com/album/5Ao1r4qOUoRBUSPovTbKR9) | 3:25 | 2022-05-05 | 2022-07-29 |
+| [LA CODA DEL DIAVOLO \(con ELODIE\)](https://open.spotify.com/track/6oYcyS6salzWI1ysjEScFh) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3), [Elodie](https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY) | [TAXI DRIVER](https://open.spotify.com/album/4D04TN7Kw7Bq98kfDjUmgh) | 3:08 | 2024-05-22 |  |
 | [La genesi del tuo colore](https://open.spotify.com/track/0HyDNYQmQ3obfA81D3y9tG) | [Irama](https://open.spotify.com/artist/5iot8OPcosJN9nCl7I5SdK) | [La genesi del tuo colore](https://open.spotify.com/album/7eIyCeIG5Y0v4Be4mhV2vu) | 3:48 | 2022-05-05 | 2022-07-29 |
 | [La hit dell'estate](https://open.spotify.com/track/443cnFF139Ql85enXOTWEu) | [Shade](https://open.spotify.com/artist/1xqolkIzTFMmqgCuD48WNt) | [La hit dell'estate](https://open.spotify.com/album/55gbWLyj5lth87P4pUZM7Q) | 3:08 | 2022-05-05 | 2022-07-29 |
 | [La Luna e la Gatta \(feat\. Tommaso Paradiso, Jovanotti, Calcutta\)](https://open.spotify.com/track/0swoHiwTazywpoqiKDUtGQ) | [Takagi & Ketra](https://open.spotify.com/artist/76UCIJTB0jcJvBaL0CdIqx), [Tommaso Paradiso](https://open.spotify.com/artist/47z0zz9ZMCn9GBiPRTn5Bc), [Jovanotti](https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi), [Calcutta ](https://open.spotify.com/artist/582KhTHEVOONNQLmQ5612r) | [La Luna e la Gatta \(feat\. Tommaso Paradiso, Jovanotti, Calcutta\)](https://open.spotify.com/album/2GX44F0dhxdToigi4nnMAe) | 3:11 | 2022-05-05 | 2022-07-29 |
@@ -268,7 +269,7 @@
 | [Onda Alta](https://open.spotify.com/track/586qiIWHIkjYnfwnIAFY38) | [Dargen D'Amico](https://open.spotify.com/artist/7muPB2GhV0sEg2K1Fgj0Xm) | [Onda Alta](https://open.spotify.com/album/0VXxWeYHwVAP2HiOBG5Evx) | 3:34 | 2024-03-27 |  |
 | [Ostia Lido](https://open.spotify.com/track/2J9TGb5CRT4omfAgnKmXn5) | [J\-AX](https://open.spotify.com/artist/2iK8weavvfS2xJCmzNzNE5) | [Ostia Lido](https://open.spotify.com/album/0Tph6OXMMLC4oVAAi0h4Py) | 2:52 | 2022-05-05 | 2022-07-29 |
 | [Paloma \(feat\. Anitta\)](https://open.spotify.com/track/0HFkCSXRTUHCYJ148PdD0v) | [Fred De Palma](https://open.spotify.com/artist/0QrUbsrL5imqntAfDl8i7q), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Paloma \(feat\. Anitta\)](https://open.spotify.com/album/5Fbm6ol0DhVbsBeRsr2fYw) | 2:21 | 2022-05-05 | 2022-07-29 |
-| [Pazza](https://open.spotify.com/track/1MwyUklCSLF8heoph2ttFe) | [Loredana Bertè](https://open.spotify.com/artist/2XpUprTohaksHpVjUtTvlx) | [Pazza](https://open.spotify.com/album/3IGUYanHxdk5DX7aB8e3lv) | 2:48 | 2024-03-27 |  |
+| [Pazza](https://open.spotify.com/track/1MwyUklCSLF8heoph2ttFe) | [Loredana Bertè](https://open.spotify.com/artist/2XpUprTohaksHpVjUtTvlx) | [Pazza](https://open.spotify.com/album/3IGUYanHxdk5DX7aB8e3lv) | 2:48 | 2024-03-27 | 2024-06-02 |
 | [Pensare Male \(con Elodie\)](https://open.spotify.com/track/0vUhEAJIaTGqBJfDsOZoNt) | [The Kolors](https://open.spotify.com/artist/72A0Z8q8NiochyK9gUHpCR), [Elodie](https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY) | [Pensare Male \(con Elodie\)](https://open.spotify.com/album/4K8RcA1mnKbJqOUwdvY1iQ) | 3:29 | 2022-05-05 | 2022-07-28 |
 | [Per sentirmi vivo](https://open.spotify.com/track/20v9X8TV0AgwNGFT71OX3w) | [Fasma](https://open.spotify.com/artist/1hM06YHQ635cZwwUbn7dpk), [GG](https://open.spotify.com/artist/0kbBijEWCi7FWrBpnpOcHd) | [Io sono Fasma](https://open.spotify.com/album/2Abr7wXyapnBuCMHYw4QMM) | 2:57 | 2022-05-05 | 2022-07-25 |
 | [Per Un Milione](https://open.spotify.com/track/4QkibOQBBrpdsCgZBpSlgQ) | [Boomdabash](https://open.spotify.com/artist/4mAsWDGLUIEdo6imU77WG6) | [Per Un Milione](https://open.spotify.com/album/2hMifnfGsH7W1cPNR8G8sH) | 2:54 | 2022-05-05 | 2022-07-29 |

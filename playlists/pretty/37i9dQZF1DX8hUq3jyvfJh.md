@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Escute Céu e mais mulheres no volume máximo! Co\-curadoria com Céu
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,244 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,252 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 35 | [Bala Com Bala](https://open.spotify.com/track/1iOBCjc1IekAWnemXHuc4M) | [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8) | [Elis](https://open.spotify.com/album/3NOxICud3CE6svBnR9WqC7) | 3:11 |
 | 36 | [Eu Sou a Casa](https://open.spotify.com/track/3DbUOQdjOTSSontnZNuyI1) | [Nina Oliveira](https://open.spotify.com/artist/5VCRm5ymb1B8lybUhaDIN1), [Bruna Black](https://open.spotify.com/artist/4XT8kTR1AgQzXS7ggdYPDX) | [Eu Sou a Casa](https://open.spotify.com/album/5Jvm4gKikiJ53GnRXXqDHG) | 3:10 |
 | 37 | [Quem Tem Carinho Me Leva](https://open.spotify.com/track/1ESJExenEgsyXYG78253Ye) | [Geovana](https://open.spotify.com/artist/3oWSIlB1wq6fZf3olazy7v) | [Quem Tem Carinho Me Leva](https://open.spotify.com/album/0wtZxaaJBXJf4OxPkgGwzK) | 3:07 |
-| 38 | [Ensacado](https://open.spotify.com/track/6OZNbdubAFtK8exjxez1QN) | [Cátia de França](https://open.spotify.com/artist/0Pn49e9KBqcekfXpSAGgAM) | [Vinte Palavras ao Redor do Sol](https://open.spotify.com/album/1ZBQq9OK0WC1Ti35wLNhgi) | 4:25 |
-| 39 | [Homenagem](https://open.spotify.com/track/3GUmaaKKRa0lSBaT7erGiQ) | [Luiza Lian](https://open.spotify.com/artist/0mqrSBamArf14pPZE2Q9kW) | [7 Estrelas \| quem arrancou o céu?](https://open.spotify.com/album/5H0hV0QPHpbj1WQaz857Y7) | 3:26 |
-| 40 | [Caminhando em ré](https://open.spotify.com/track/4sbGVnjf5GhbLJG1TchwfE) | [THAMI](https://open.spotify.com/artist/6fupiyOvfbI12eijANkwZL) | [Caminhando em ré](https://open.spotify.com/album/5tHRftAF5hGN6JrEETqAO2) | 3:05 |
+| 38 | [Caminhando em ré](https://open.spotify.com/track/4sbGVnjf5GhbLJG1TchwfE) | [THAMI](https://open.spotify.com/artist/6fupiyOvfbI12eijANkwZL) | [Caminhando em ré](https://open.spotify.com/album/5tHRftAF5hGN6JrEETqAO2) | 3:05 |
+| 39 | [Ensacado](https://open.spotify.com/track/6OZNbdubAFtK8exjxez1QN) | [Cátia de França](https://open.spotify.com/artist/0Pn49e9KBqcekfXpSAGgAM) | [Vinte Palavras ao Redor do Sol](https://open.spotify.com/album/1ZBQq9OK0WC1Ti35wLNhgi) | 4:25 |
+| 40 | [Homenagem](https://open.spotify.com/track/3GUmaaKKRa0lSBaT7erGiQ) | [Luiza Lian](https://open.spotify.com/artist/0mqrSBamArf14pPZE2Q9kW) | [7 Estrelas \| quem arrancou o céu?](https://open.spotify.com/album/5H0hV0QPHpbj1WQaz857Y7) | 3:26 |
 | 41 | [Biquinin de Onça](https://open.spotify.com/track/0dPfD2ku9zrfZUmpuwCLoM) | [Liza Lou](https://open.spotify.com/artist/1cJ8ZMi37OSQUMRbqWGKu2) | [SAL](https://open.spotify.com/album/7CCsE1TycTsyIKsB4Uac4l) | 2:05 |
 | 42 | [Fantasmas de Nós](https://open.spotify.com/track/4G0kxdE8SQsQbTScG02kWY) | [bia balugani](https://open.spotify.com/artist/1UPnWfEg8eRQB38APaumd1) | [Fantasmas de Nós](https://open.spotify.com/album/4RoNIzFfgHwJyvbmF5lZKm) | 3:46 |
 | 43 | [Me Perco](https://open.spotify.com/track/2GvwdrYIM0YsZ4vWliRWWW) | [Mercenarias](https://open.spotify.com/artist/21h33BkqOcNTY1b4qbEG6e) | [Cadê as Armas?](https://open.spotify.com/album/3P23uQhBbnpm8Y7mbfxc1A) | 1:20 |

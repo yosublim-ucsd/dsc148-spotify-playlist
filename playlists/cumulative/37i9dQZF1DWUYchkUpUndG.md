@@ -4,7 +4,7 @@
 
 > For all the new African Gospel Releases this week\. Cover:   <a href=https://open.spotify.com/artist/2nSP3Ap7hxf4m4o5F5RXVj?si=2lCWVecURV2QKJ6ZYYzMEQ>Uche Agu</a>
 
-2,761 songs - 8 day 8 hr 1 min
+2,763 songs - 8 day 8 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -502,6 +502,7 @@
 | [Desire](https://open.spotify.com/track/0RoWGi6fnbel58x5x4MEA5) | [Giliane](https://open.spotify.com/artist/0AIbV1McNkyTqs0Zt0QI7t), [Spillz Ochai](https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q), [K3ndrick](https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5) | [Desire](https://open.spotify.com/album/1o7hoWzHSxlYiKK051M0jd) | 2:30 | 2024-05-10 | 2024-05-24 |
 | [Desire Pt\. 2](https://open.spotify.com/track/4KyLwJ8ozG534aCtba71qO) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Caleb Gordon](https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41) | [Desire Pt\. 2](https://open.spotify.com/album/3sR1BpjFiSiBYIakNA09Ne) | 2:40 | 2023-07-07 | 2023-07-21 |
 | [Devotion](https://open.spotify.com/track/1K18rK11klBImZNILVXOiH) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Jenge](https://open.spotify.com/artist/7u3MaCiypw3nu7mhEvFtdT), [Asha Elia](https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S) | [Devotion](https://open.spotify.com/album/6VQFhI9PQFcpzgkcH6bioA) | 2:45 | 2023-06-30 | 2023-07-14 |
+| [Devotion](https://open.spotify.com/track/6ey6UQnRFCF4Oxmy0FCw9a) | [World Famous Abraham](https://open.spotify.com/artist/69h1nC45WQBZumPNRfWh5V), [Pastor Emmanuel Iren](https://open.spotify.com/artist/1Ge81wiDXhRxTHVE1pdHyw), [Danielle D](https://open.spotify.com/artist/5cStR0nOui9rkeIJarFE5O) | [Devotion](https://open.spotify.com/album/0fFHIUgHnZqhZcfWhsApky) | 3:02 | 2024-06-01 |  |
 | [Diamant](https://open.spotify.com/track/38Eb7bpsTlG6MJ45XLXKAo) | [Isaac M](https://open.spotify.com/artist/3vyQ5qr9ke8gRA2VqQtg26) | [Diamant](https://open.spotify.com/album/5MjLBaWtjwapJ17WVNnWUX) | 2:58 | 2024-03-22 | 2024-04-05 |
 | [Die Een Wat Ek Liefhet](https://open.spotify.com/track/4bNu09KaKRYXcOj5Ehd1Nl) | [RICHELLE GRANT](https://open.spotify.com/artist/5ngimDhvnW2WdAOASWoP9H) | [Die Een Wat Ek Liefhet](https://open.spotify.com/album/0TmmdquKZCcoGHAbNFLRjn) | 4:52 | 2023-07-14 | 2023-07-21 |
 | [Die Empty](https://open.spotify.com/track/7reD7fahtXie1nns7myRDj) | [Geo Musiwa](https://open.spotify.com/artist/4LuXTovCGYwbeZQCx15PxW), [Suffix](https://open.spotify.com/artist/7vnxU9gFgrVnQ9BBxHw60s) | [Die Empty](https://open.spotify.com/album/3jaiygH3eXbS8YeSXz1Mwo) | 2:59 | 2023-11-24 | 2023-12-01 |
@@ -577,6 +578,7 @@
 | [EBUBEDIKE](https://open.spotify.com/track/4PO63DTjskwJ0uss1o3UPq) | [Kris Grant](https://open.spotify.com/artist/3ohMd9D8nMYIxHbV9eS0AQ) | [EBUBEDIKE](https://open.spotify.com/album/5e8Kqz7vNetrliLdqiFOEX) | 2:55 | 2023-11-10 | 2023-11-17 |
 | [EBUBEDIKE \- Sped Up](https://open.spotify.com/track/2OlqSQEzbIDAOnJrJKUzF7) | [Kris Grant](https://open.spotify.com/artist/3ohMd9D8nMYIxHbV9eS0AQ) | [EBUBEDIKE \(Sped Up\)](https://open.spotify.com/album/52yfBKYVEDHiLic2Xfv7nX) | 2:05 | 2023-12-22 | 2024-01-05 |
 | [Echo Of Our Love](https://open.spotify.com/track/7HByuIpTOo8KgoYGOM7Uaz) | [Iryne Rock](https://open.spotify.com/artist/0lZBllAgaDbRiaQnNJJFLe) | [Echo Of Our Love](https://open.spotify.com/album/4WkAxkEBvBhVMzrrCvDNVC) | 3:02 | 2023-08-04 | 2023-08-18 |
+| [Echoes Of Love](https://open.spotify.com/track/5Soqtv37Gb1ROUIAVCfOeW) | [Aremmic](https://open.spotify.com/artist/7BT40oP5mx0gTwoR8KmbCN) | [Echoes Of Love](https://open.spotify.com/album/1mUh5G47foAbuBVgVmbDzt) | 3:31 | 2024-06-01 |  |
 | [eight28](https://open.spotify.com/track/0ouc0SW4iAMjJAAI8PL8Nu) | [Arnold de Wet](https://open.spotify.com/artist/7maSsKGnUoRwDEnFSjzcMn) | [eight28](https://open.spotify.com/album/7cxfgj4IE4pkJPxwma7C3L) | 4:44 | 2023-09-08 | 2023-09-22 |
 | [Ekele](https://open.spotify.com/track/07HEg1ViWpLqSX1DlqS6gx) | [iProsper](https://open.spotify.com/artist/3SXxxnnPG2tvxQUCD3y7IY), [MUNACHi4u](https://open.spotify.com/artist/6xOOLSoOB6VI4n6X5pexao) | [Ekele](https://open.spotify.com/album/0oomCBKSqaclDlBXLbM2zj) | 4:30 | 2023-12-15 | 2023-12-30 |
 | [Ekom](https://open.spotify.com/track/61p8uthz8BhKSBJiREHjub) | [John Bassey](https://open.spotify.com/artist/4EC6nvQ29XRTVNiKoHESOb), [Peterson Okopi](https://open.spotify.com/artist/4ouEwOfx8SDXXkTdQCPnOz) | [Ekom](https://open.spotify.com/album/17ZWBQA8hroUOWs1GeZ73X) | 5:03 | 2023-09-08 | 2023-09-22 |

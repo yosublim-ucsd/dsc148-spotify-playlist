@@ -4,7 +4,7 @@
 
 > Plutonio entra na zona.
 
-557 songs - 1 day 5 hr 49 min
+557 songs - 1 day 5 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -348,7 +348,7 @@
 | [NARRATIVA](https://open.spotify.com/track/71CVtVEjK6GabQINOori0o) | [Jimmy P](https://open.spotify.com/artist/0Odg6UKDVyJQruefzF19FU) | [NARRATIVA](https://open.spotify.com/album/5J64x57j5IlPX5ewqHpgLk) | 2:56 | 2022-12-09 | 2023-01-13 |
 | [NASTY](https://open.spotify.com/track/09882XP1lt5VQwc2I9i9Pf) | [LEO2745](https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx) | [NASTY](https://open.spotify.com/album/5z6BbFaxfgfEJDXDT3ps4Q) | 3:07 | 2023-02-17 | 2023-10-01 |
 | [Nha Primero Amor](https://open.spotify.com/track/3GCHMMMA3vFtqqlFp2skQk) | [Rapaz 100 Juiz](https://open.spotify.com/artist/3lWv4xqCdJgw3CmFkwnTt5), [SOS MUCCI](https://open.spotify.com/artist/21ocGsKFd81lXPoObBFoCU), [Dareal General](https://open.spotify.com/artist/7itE86R6ishEmuNJjHevRg) | [Nha Primero Amor](https://open.spotify.com/album/4IxGXXvpUhv94oKwl5ddj0) | 3:33 | 2023-06-01 | 2023-06-23 |
-| [Ninguém Entende Nada](https://open.spotify.com/track/7cmCX8M8z9GZerCgVG1dyU) | [Mizzy Miles](https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I), [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo), [MC PH](https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5) | [Ninguém Entende Nada](https://open.spotify.com/album/2OIxd2V2LTFqqu7JL9a9US) | 3:12 | 2024-05-30 |  |
+| [Ninguém Entende Nada](https://open.spotify.com/track/7cmCX8M8z9GZerCgVG1dyU) | [Mizzy Miles](https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I), [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo), [MC PH](https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5) | [Ninguém Entende Nada](https://open.spotify.com/album/2OIxd2V2LTFqqu7JL9a9US) | 3:16 | 2024-05-30 |  |
 | [Nirvana](https://open.spotify.com/track/1d9WnUOwgcnigchwI7pMPu) | [LON3R JOHNY](https://open.spotify.com/artist/1fV7Au7ymGP3uhDV1TfjSd) | [Nirvana](https://open.spotify.com/album/6iVnhMtEQAuG6EpErY879Q) | 2:03 | 2023-11-10 | 2024-01-12 |
 | [No Drama](https://open.spotify.com/track/4MzZQpsCzJuI1rdjCED46m) | [Rafa G](https://open.spotify.com/artist/0soQA1h9MhiA0NphWUecWi) | [No Drama](https://open.spotify.com/album/6pPUeGfOikyUNmljDlkyzX) | 2:28 | 2024-02-09 | 2024-03-01 |
 | [NO HOOK](https://open.spotify.com/track/6NuOeNQyeHFrd5j5xbUrND) | [XROOTZ](https://open.spotify.com/artist/0ZDuMqcz7YEc0sJDijQmEb), [Pdb Rootsz](https://open.spotify.com/artist/5ZZ3OOLz82P0QUcbPpne4u), [Freesesh](https://open.spotify.com/artist/3VVV1LXTiAx0kDszn9rOlH) | [NO HOOK](https://open.spotify.com/album/6qgqWwdMq93AXFFaXQxcsE) | 3:45 | 2024-01-19 | 2024-02-09 |

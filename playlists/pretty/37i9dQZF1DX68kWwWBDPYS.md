@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX68kWwWBDPYS.md) - [plain]
 
 > puros morrxs haciendo música chida\. Mía Salinas en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 249,944 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 249,934 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX68kWwWBDPYS.md) - [plain]
 | 2 | [CARDIO](https://open.spotify.com/track/5iqIWY7nfKVQQMfydhuBT0) | [Alexia Mariel](https://open.spotify.com/artist/6SDSKrIIGibHeQGx8s9Yyn), [Barovier](https://open.spotify.com/artist/4R1nd0QT6rtLh6KKWKXeQh) | [CARDIO](https://open.spotify.com/album/07yFwMDQW8uDu48chfn9mq) | 2:26 |
 | 3 | [Idiota](https://open.spotify.com/track/0obiVvoMb80sR2oWDtJLOD) | [Jacinto](https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj) | [Idiota](https://open.spotify.com/album/2Ijg105iAPEqjlgt7H7cC7) | 2:11 |
 | 4 | [Me Dejó en Buzón](https://open.spotify.com/track/1reJ1AtC7LuXg9uK0YmQsc) | [Azul de Viena](https://open.spotify.com/artist/2Ie8P8WAdI3FMvEuWS52pQ), [Valdo Rodriguez](https://open.spotify.com/artist/4h949lAuNvDdg5UKXPA6x4) | [Me Dejó en Buzón](https://open.spotify.com/album/5Z3EwgGmj9VSL2YKVfZ3f9) | 3:51 |
-| 5 | [309](https://open.spotify.com/track/1oIraT61b04Xd9K92KvwV3) | [Andru](https://open.spotify.com/artist/3oOQ670Uw0UyVnmj9XM58W) | [309](https://open.spotify.com/album/3ajXi0OL6QOjX3wyCMCHFI) | 4:33 |
+| 5 | [309](https://open.spotify.com/track/1oIraT61b04Xd9K92KvwV3) | [Andru](https://open.spotify.com/artist/3oOQ670Uw0UyVnmj9XM58W) | [309](https://open.spotify.com/album/3ajXi0OL6QOjX3wyCMCHFI) | 4:27 |
 | 6 | [Soy](https://open.spotify.com/track/3ILJACdliRYuUYu6kvnqtq) | [Sous\-Sol](https://open.spotify.com/artist/6npvMAuRzmnkSxIlxwdG0T), [Majo Puente](https://open.spotify.com/artist/1pyvvzBs5rAleQc3hKyMte) | [Soy](https://open.spotify.com/album/2LjhxpZW8vFdZgKZ0v9IKY) | 2:39 |
 | 7 | [quiero estar contigo](https://open.spotify.com/track/6SXWPe4uImrVzE4jcB8nnd) | [Wuicho kun](https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E), [Gonzalo Ávila](https://open.spotify.com/artist/4PuwS1TZc8ybMnXxgUIOn6) | [quiero estar contigo](https://open.spotify.com/album/7rnkMAuBAjIrYp9wPJJeVD) | 3:36 |
 | 8 | [Niño Regañado](https://open.spotify.com/track/3NXuOQFjWRQNOxTPz6DeA7) | [George Rhoads](https://open.spotify.com/artist/0UMwp0Y8VxfNpdMALNnd5y) | [Perfumes](https://open.spotify.com/album/4vr2ydZFM9bBZALUef2ASi) | 2:45 |

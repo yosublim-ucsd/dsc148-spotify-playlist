@@ -1,6 +1,6 @@
 {
   "description": "Sad songs 4 sad days.",
-  "num_followers": 1757376,
+  "num_followers": 1757362,
   "original_name": "sad latino",
   "owner": {
     "name": "Spotify",
@@ -183,18 +183,22 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "un mech\u00f3n de pelo",
-        "url": "https://open.spotify.com/album/3wOG84RkmoSoeN3LKkxXga"
+        "name": "Extra\u00f1\u00e1ndote",
+        "url": "https://open.spotify.com/album/5wyMJ9XYRHetHFcu8tOowP"
       },
       "artists": [
         {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+          "name": "Zhamira Zambrano",
+          "url": "https://open.spotify.com/artist/2IdDxiUkjLI0WfypRO1Rh3"
+        },
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
         }
       ],
-      "duration_ms": 190649,
-      "name": "pa",
-      "url": "https://open.spotify.com/track/490e7PHsxkzMot8qCO36Bt"
+      "duration_ms": 183157,
+      "name": "Extra\u00f1\u00e1ndote",
+      "url": "https://open.spotify.com/track/6pTKWN96v1dpEaBMzDYlww"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -215,22 +219,18 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "Extra\u00f1\u00e1ndote",
-        "url": "https://open.spotify.com/album/5wyMJ9XYRHetHFcu8tOowP"
+        "name": "un mech\u00f3n de pelo",
+        "url": "https://open.spotify.com/album/3wOG84RkmoSoeN3LKkxXga"
       },
       "artists": [
         {
-          "name": "Zhamira Zambrano",
-          "url": "https://open.spotify.com/artist/2IdDxiUkjLI0WfypRO1Rh3"
-        },
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
         }
       ],
-      "duration_ms": 183157,
-      "name": "Extra\u00f1\u00e1ndote",
-      "url": "https://open.spotify.com/track/6pTKWN96v1dpEaBMzDYlww"
+      "duration_ms": 190649,
+      "name": "pa",
+      "url": "https://open.spotify.com/track/490e7PHsxkzMot8qCO36Bt"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -827,18 +827,18 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "DESASTRE",
-        "url": "https://open.spotify.com/album/3O0R0OFOqeC5yG7B0OVHWB"
+        "name": "tus manias",
+        "url": "https://open.spotify.com/album/4GY58zCDUjHq9H0QrUI39T"
       },
       "artists": [
         {
-          "name": "Ivana",
-          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
+          "name": "mafalda cardenal",
+          "url": "https://open.spotify.com/artist/1AsstJ8Cf7uQX92weRmZRz"
         }
       ],
-      "duration_ms": 222187,
-      "name": "DESASTRE",
-      "url": "https://open.spotify.com/track/6GUKOpUYvQtgHoCpcTmhWk"
+      "duration_ms": 199000,
+      "name": "tus manias",
+      "url": "https://open.spotify.com/track/5GSYRjrn12Wdh1V38b8hVR"
     }
   ],
   "unique_name": "sad latino",

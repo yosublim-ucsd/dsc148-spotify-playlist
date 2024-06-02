@@ -2077,6 +2077,24 @@
     },
     {
       "album": {
+        "name": "Moonlight In Vermont",
+        "url": "https://open.spotify.com/album/4Wldh9Q4ECOwN0CeLrk9mg"
+      },
+      "artists": [
+        {
+          "name": "John Lee",
+          "url": "https://open.spotify.com/artist/2bLlwzmY1YcEVFuVEfaUmN"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203754,
+      "name": "Moonlight In Vermont",
+      "url": "https://open.spotify.com/track/6yWlAhcnlVq9VThnWaMvkK"
+    },
+    {
+      "album": {
         "name": "A Ballad Moment",
         "url": "https://open.spotify.com/album/4BZYDP8KgpeIXAmvcj2Tyl"
       },
@@ -3256,7 +3274,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-02",
       "duration_ms": 327642,
       "name": "Sweet Smile",
       "url": "https://open.spotify.com/track/6io9TUXA4dff0Lh0eHpW6c"

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Las canciones que pon\u00edan a bailar a todo M\u00e9xico!",
-  "num_followers": 156434,
+  "num_followers": 156456,
   "original_name": "Los 60 M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -47,22 +47,6 @@
     {
       "added_at": "2020-03-18 04:18:26",
       "album": {
-        "name": "Rock - Lo Mejor De Los Locos Del Ritmo - Pioneros Del Rock En M\u00e9xico",
-        "url": "https://open.spotify.com/album/6hjdFdFkgLdMucS7yAghxK"
-      },
-      "artists": [
-        {
-          "name": "Los Locos Del Ritmo",
-          "url": "https://open.spotify.com/artist/2jPG2QeccDfdNbOdGrjBwO"
-        }
-      ],
-      "duration_ms": 114800,
-      "name": "El Rock De La C\u00e1rcel",
-      "url": "https://open.spotify.com/track/43ciCW4nNa2x17L8Ts3Csf"
-    },
-    {
-      "added_at": "2020-03-18 04:18:26",
-      "album": {
         "name": "Discos Del Mill\u00f3n",
         "url": "https://open.spotify.com/album/6UdmTdJKNARrt4QGRURZ8k"
       },
@@ -75,6 +59,22 @@
       "duration_ms": 162906,
       "name": "Creo Estar So\u00f1ando",
       "url": "https://open.spotify.com/track/76k8SMT9ALvTijx3EQiJP0"
+    },
+    {
+      "added_at": "2020-03-18 04:18:26",
+      "album": {
+        "name": "Rock - Lo Mejor De Los Locos Del Ritmo - Pioneros Del Rock En M\u00e9xico",
+        "url": "https://open.spotify.com/album/6hjdFdFkgLdMucS7yAghxK"
+      },
+      "artists": [
+        {
+          "name": "Los Locos Del Ritmo",
+          "url": "https://open.spotify.com/artist/2jPG2QeccDfdNbOdGrjBwO"
+        }
+      ],
+      "duration_ms": 114800,
+      "name": "El Rock De La C\u00e1rcel",
+      "url": "https://open.spotify.com/track/43ciCW4nNa2x17L8Ts3Csf"
     },
     {
       "added_at": "2020-03-18 04:18:26",
@@ -143,22 +143,6 @@
     {
       "added_at": "2020-03-18 04:18:26",
       "album": {
-        "name": "Los Grandes \u00c9xitos Del Rock & Roll (En Espa\u00f1ol) Vol. 2",
-        "url": "https://open.spotify.com/album/0tM7TEe6JjVrrbEOLYXh7j"
-      },
-      "artists": [
-        {
-          "name": "Los Juniors",
-          "url": "https://open.spotify.com/artist/56UFFBf8lm4RJbpaXY6PAf"
-        }
-      ],
-      "duration_ms": 127525,
-      "name": "Chica Alborotada",
-      "url": "https://open.spotify.com/track/3b9ICYLGk3brPCarHbih8a"
-    },
-    {
-      "added_at": "2020-03-18 04:18:26",
-      "album": {
         "name": "Discos Del Mill\u00f3n",
         "url": "https://open.spotify.com/album/6UdmTdJKNARrt4QGRURZ8k"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 176493,
       "name": "Lagrimas De Cristal",
       "url": "https://open.spotify.com/track/16UEXcWy0r21FNGDxiMbgv"
+    },
+    {
+      "added_at": "2020-03-18 04:18:26",
+      "album": {
+        "name": "Los Grandes \u00c9xitos Del Rock & Roll (En Espa\u00f1ol) Vol. 2",
+        "url": "https://open.spotify.com/album/0tM7TEe6JjVrrbEOLYXh7j"
+      },
+      "artists": [
+        {
+          "name": "Los Juniors",
+          "url": "https://open.spotify.com/artist/56UFFBf8lm4RJbpaXY6PAf"
+        }
+      ],
+      "duration_ms": 127525,
+      "name": "Chica Alborotada",
+      "url": "https://open.spotify.com/track/3b9ICYLGk3brPCarHbih8a"
     },
     {
       "added_at": "2020-03-18 04:18:26",

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAAB+7JmElX77AZt3IQrNoiFb",
+  "snapshot_id": "AAAAAAAAAACSAjTLf4iMkCW198fQm0KZ",
   "tracks": [
     {
       "added_at": "2024-05-31 04:00:00",
@@ -95,30 +95,6 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "places to be",
-        "url": "https://open.spotify.com/album/0M0iJGLagLtI4LlooOiiNZ"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        },
-        {
-          "name": "CHIKA",
-          "url": "https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8"
-        }
-      ],
-      "duration_ms": 226677,
-      "name": "places to be",
-      "url": "https://open.spotify.com/track/561pBFcFL2Pwb9HPO9tU8J"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
         "name": "What You Need (Cold Cut Mix)",
         "url": "https://open.spotify.com/album/7Dh1yUVdjE97evqSoSqGlF"
       },
@@ -159,6 +135,30 @@
       "duration_ms": 237483,
       "name": "Drippy Drop",
       "url": "https://open.spotify.com/track/4oEI2mD2s80Enl3BLqLOZj"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "places to be",
+        "url": "https://open.spotify.com/album/0M0iJGLagLtI4LlooOiiNZ"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "CHIKA",
+          "url": "https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8"
+        }
+      ],
+      "duration_ms": 226677,
+      "name": "places to be",
+      "url": "https://open.spotify.com/track/561pBFcFL2Pwb9HPO9tU8J"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -223,6 +223,30 @@
       "duration_ms": 478471,
       "name": "Mississippi Half-Step Uptown Toodeloo - Live at University of Nevada, Reno, NV, 5/12/74",
       "url": "https://open.spotify.com/track/7vVfk9d94hKWjIKuyTxEHO"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "Talk Is Cheap",
+        "url": "https://open.spotify.com/album/6CU3JMOQpcV38Wi2ajZZZE"
+      },
+      "artists": [
+        {
+          "name": "Doss",
+          "url": "https://open.spotify.com/artist/1uq28uGTtw8EiOJbXR64qf"
+        },
+        {
+          "name": "Wax",
+          "url": "https://open.spotify.com/artist/36kzCQhGfJzrLuZzrHweNV"
+        },
+        {
+          "name": "Mike Squires",
+          "url": "https://open.spotify.com/artist/59Q1RHoClIRbIUlf29cFsY"
+        }
+      ],
+      "duration_ms": 112546,
+      "name": "Talk Is Cheap",
+      "url": "https://open.spotify.com/track/5VoKHZaGCkkbnSvwM0plA9"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -292,9 +316,9 @@
           "url": "https://open.spotify.com/artist/5KWOCu1saEHAhPiLKlOLIy"
         }
       ],
-      "duration_ms": 244503,
-      "name": "Sweet Home Alabama (Metal Version)",
-      "url": "https://open.spotify.com/track/4Jl3HbjBXlnSpWZCbgUIsq"
+      "duration_ms": 216631,
+      "name": "Jag trodde \u00e4nglarna fanns (Metal Version)",
+      "url": "https://open.spotify.com/track/2OO9LtdSJ1LNosegGQF8pJ"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -331,34 +355,6 @@
       "duration_ms": 363863,
       "name": "Oblivion",
       "url": "https://open.spotify.com/track/6HvnPZNXaiaOzHldLAiOfE"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
-        "name": "Fearless Movement",
-        "url": "https://open.spotify.com/album/0Jy18n9qpKS4RyDYmaPpdL"
-      },
-      "artists": [
-        {
-          "name": "Kamasi Washington",
-          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
-        },
-        {
-          "name": "Thundercat",
-          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
-        },
-        {
-          "name": "Taj Austin",
-          "url": "https://open.spotify.com/artist/1V9w9vndioDaZwRWnBXxJG"
-        },
-        {
-          "name": "Ras Austin",
-          "url": "https://open.spotify.com/artist/0j17jmhkSXsE9GwjuYoLNC"
-        }
-      ],
-      "duration_ms": 466296,
-      "name": "Asha The First",
-      "url": "https://open.spotify.com/track/5yRerSW4IIbninr1JDXfvi"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -408,7 +404,7 @@
       "added_at": "2024-05-31 04:00:00",
       "album": {
         "name": "North Vol. 2",
-        "url": "https://open.spotify.com/album/2Z61tp4ZUgz1yWrstgqmJM"
+        "url": "https://open.spotify.com/album/29ViDgMA62axNx2WOABMjG"
       },
       "artists": [
         {
@@ -420,9 +416,9 @@
           "url": "https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ"
         }
       ],
-      "duration_ms": 159159,
+      "duration_ms": 159166,
       "name": "Peace",
-      "url": "https://open.spotify.com/track/4kdPe5uJLR6UHalCpdX7Ug"
+      "url": "https://open.spotify.com/track/60gKxdKtL9VIRhr3ENddBp"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -531,26 +527,6 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "Please Don't Cry",
-        "url": "https://open.spotify.com/album/4qpuHdwINuEp8DfHsEM1yt"
-      },
-      "artists": [
-        {
-          "name": "Rapsody",
-          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
-        },
-        {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
-        }
-      ],
-      "duration_ms": 213566,
-      "name": "3:AM (feat. Erykah Badu)",
-      "url": "https://open.spotify.com/track/37I1T0ypcJJXareD7KgcfV"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
         "name": "Rx",
         "url": "https://open.spotify.com/album/5vegvIWwKcdSc8gYfirlgx"
       },
@@ -587,42 +563,6 @@
       "duration_ms": 218666,
       "name": "where is your pride?",
       "url": "https://open.spotify.com/track/4oeUEps9lJueoPlVDwTwFq"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
-        "name": "Absolution (Live at the Forum / 2023)",
-        "url": "https://open.spotify.com/album/5YOmO8pYe4AD3KKBtZAz89"
-      },
-      "artists": [
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 308127,
-      "name": "Absolution - Live at the Forum / 2023",
-      "url": "https://open.spotify.com/track/5AvtHfUUjQ8tAgd26ZgR7y"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
-        "name": "Gin & Juice (Another Shot From Dr. Dre)",
-        "url": "https://open.spotify.com/album/5bZGe1ridqExnz4HccFnXX"
-      },
-      "artists": [
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        },
-        {
-          "name": "Dr. Dre",
-          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
-        }
-      ],
-      "duration_ms": 180026,
-      "name": "Gin & Juice - Another Shot From Dr. Dre",
-      "url": "https://open.spotify.com/track/2uBBQN14uvkiol1EcPTo50"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -719,106 +659,6 @@
       "duration_ms": 150662,
       "name": "Walk to School",
       "url": "https://open.spotify.com/track/1ONCLg6E9KVWkIovF1QYNU"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
-        "name": "Dusk (Holy Fawn Remix)",
-        "url": "https://open.spotify.com/album/4kof4X07rNltIo8zNLXhEX"
-      },
-      "artists": [
-        {
-          "name": "Design Flaw",
-          "url": "https://open.spotify.com/artist/6xSVzGS2RodgoHalroptkV"
-        },
-        {
-          "name": "Holy Fawn",
-          "url": "https://open.spotify.com/artist/13rS3lCWshTVt6HsCNjvBI"
-        }
-      ],
-      "duration_ms": 310599,
-      "name": "Dusk (Holy Fawn Remix)",
-      "url": "https://open.spotify.com/track/7ysgFjbinXWVACKXuwctAU"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
-        "name": "TATAR Warrior (Live At Glastonbury)",
-        "url": "https://open.spotify.com/album/3Cu3BKRTJDl60RWmcFMEjP"
-      },
-      "artists": [
-        {
-          "name": "The HU",
-          "url": "https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc"
-        }
-      ],
-      "duration_ms": 295062,
-      "name": "TATAR Warrior - Live at Glastonbury",
-      "url": "https://open.spotify.com/track/5lWXz92dZub9MRyEZvnzSY"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
-        "name": "Higher",
-        "url": "https://open.spotify.com/album/5ncydmjMons3VV3AIP9SHe"
-      },
-      "artists": [
-        {
-          "name": "Eric Krasno",
-          "url": "https://open.spotify.com/artist/6tQIsqw6DrDfdoPwOrOD6k"
-        },
-        {
-          "name": "Wax",
-          "url": "https://open.spotify.com/artist/36kzCQhGfJzrLuZzrHweNV"
-        },
-        {
-          "name": "Talib Kweli",
-          "url": "https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y"
-        },
-        {
-          "name": "Nigel Hall",
-          "url": "https://open.spotify.com/artist/04HwdlOSZ8Rnmp4D3vyjI2"
-        }
-      ],
-      "duration_ms": 218573,
-      "name": "Higher",
-      "url": "https://open.spotify.com/track/6f5I8yAEaJCx1UmvOg8a1c"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
-        "name": "Fruition",
-        "url": "https://open.spotify.com/album/6rVqbqPIeGoy4yDY7iWuFL"
-      },
-      "artists": [
-        {
-          "name": "Isaac Winemiller",
-          "url": "https://open.spotify.com/artist/2o3Ce1WxVQUKyQcMSgvJfh"
-        },
-        {
-          "name": "Josh Augustin",
-          "url": "https://open.spotify.com/artist/2dYrni0Ip1lY2KYPzwCCVW"
-        }
-      ],
-      "duration_ms": 222623,
-      "name": "Fruition",
-      "url": "https://open.spotify.com/track/0VvJEdl9I8dNpYw2Kxl2PL"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
-        "name": "You Took the Blue",
-        "url": "https://open.spotify.com/album/58RIGSSgx6LLxYLa1gd18j"
-      },
-      "artists": [
-        {
-          "name": "Elly Cooke",
-          "url": "https://open.spotify.com/artist/5DqNmryn6SyOwDjfSbwOGe"
-        }
-      ],
-      "duration_ms": 153658,
-      "name": "You Took the Blue",
-      "url": "https://open.spotify.com/track/0hGgiToy3sfGkAi95INQyF"
     }
   ],
   "unique_name": "Release Radar (@ajcooke94)",

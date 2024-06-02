@@ -4479,6 +4479,24 @@
     },
     {
       "album": {
+        "name": "Superman",
+        "url": "https://open.spotify.com/album/5Rhcjg2AVjkAHV6VPD2xux"
+      },
+      "artists": [
+        {
+          "name": "Edu Schmidt",
+          "url": "https://open.spotify.com/artist/7kNLKJ3eUza4CwbzgNes9W"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219117,
+      "name": "Superman",
+      "url": "https://open.spotify.com/track/2bjZVdbKirAuoARSGjb6Iy"
+    },
+    {
+      "album": {
         "name": "Sur Vigente",
         "url": "https://open.spotify.com/album/6GV5oNdTZmTpaD4D4HhzES"
       },

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > De nieuwste Nederlandse pop! Cover: QUIQUE
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,612 likes - 70 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,617 likes - 70 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Liefde Doet Pijn](https://open.spotify.com/track/0dz6WOXIwroUc8fJs2DX3h) | [QUIQUE](https://open.spotify.com/artist/44IF5iKnm06JFziiLsHpyJ) | [El Colombolandés](https://open.spotify.com/album/5kpYP9HhhizwdRuWI3cVR9) | 3:34 |
-| 2 | [Ik Wil Dat Je Liegt](https://open.spotify.com/track/6ifKXZTqAuLA35TGCVuGBU) | [Hannah Mae](https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG), [MAKSIM](https://open.spotify.com/artist/5ncHUtKhiVsHlugFN0DCDl) | [Ik Wil Dat Je Liegt](https://open.spotify.com/album/5OpBG7QnV8Frg31RrAvjYV) | 2:54 |
-| 3 | [Cabrio](https://open.spotify.com/track/248Ymld7H87hYWNFQjgj1m) | [Jasha Rudge](https://open.spotify.com/artist/4viTemJKI4Rl9OzQJ8iGVL) | [Cabrio](https://open.spotify.com/album/79KnDx5OhASjv5kskHRbRv) | 2:09 |
+| 2 | [Cabrio](https://open.spotify.com/track/248Ymld7H87hYWNFQjgj1m) | [Jasha Rudge](https://open.spotify.com/artist/4viTemJKI4Rl9OzQJ8iGVL) | [Cabrio](https://open.spotify.com/album/79KnDx5OhASjv5kskHRbRv) | 2:09 |
+| 3 | [Ik Wil Dat Je Liegt](https://open.spotify.com/track/6ifKXZTqAuLA35TGCVuGBU) | [Hannah Mae](https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG), [MAKSIM](https://open.spotify.com/artist/5ncHUtKhiVsHlugFN0DCDl) | [Ik Wil Dat Je Liegt](https://open.spotify.com/album/5OpBG7QnV8Frg31RrAvjYV) | 2:54 |
 | 4 | [Verleden Tijd](https://open.spotify.com/track/7FR89ZwB3ilNeUMsz1P80O) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Verleden Tijd](https://open.spotify.com/album/1jhy8byW2VtIarRBzAyoOC) | 2:56 |
 | 5 | [Dansen Met Je Dochter](https://open.spotify.com/track/13CT0XZzjTfHwp8BDGcMt3) | [Matheu](https://open.spotify.com/artist/5GKUHOGaoXmhdsDzuyFnAM) | [Dansen Met Je Dochter](https://open.spotify.com/album/2Bep7dx4HCLATfDOv48gfC) | 2:35 |
 | 6 | [Dansen Om Het Vuur](https://open.spotify.com/track/6m28vQjkw7kfEagXmJRI6Y) | [Diggy Dex](https://open.spotify.com/artist/4XQhU3S4TyPkiPIsSu2hmA), [Typhoon](https://open.spotify.com/artist/6kBlEsdNeNW2qnmW56xDhx) | [Dansen Om Het Vuur](https://open.spotify.com/album/2DL4ovMwpyC3hxQKGqCFxF) | 3:10 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 69 | [Incognito](https://open.spotify.com/track/2ec9C3JxRSpZDk8vnBM6VX) | [TOMMY](https://open.spotify.com/artist/6UrqENU5uLgpXCx5a4SRKM) | [Incognito](https://open.spotify.com/album/3c7BaxiV0tzo4VfYaiZXYP) | 2:10 |
 | 70 | [Tweeling](https://open.spotify.com/track/0K6NoPuA8DDFTduY5301rV) | [Stenfert](https://open.spotify.com/artist/7nfwBKWMnPY7FJZQwh1wq8) | [Tweeling](https://open.spotify.com/album/2SoOLLKqw2N5JUXn0UGsaX) | 2:30 |
 
-Snapshot ID: `Zlj24AAAAAC52Gly/4GQQ6TG3dYf1ljo`
+Snapshot ID: `ZltpLwAAAADwYH/vbKFSEX5v3bhO9cLI`

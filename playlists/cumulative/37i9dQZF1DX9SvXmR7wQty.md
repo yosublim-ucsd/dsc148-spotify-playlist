@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Sarahmée
 
-2,569 songs - 5 day 17 hr 12 min
+2,570 songs - 5 day 17 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2287,7 +2287,7 @@
 | [Tipatshimushtunan](https://open.spotify.com/track/1KZZIDJ4DyS4dnhPyXdOw0) | [Matiu](https://open.spotify.com/artist/7JVJdPJ0ScYb84upENbZCE), [Allan Nabinacaboo](https://open.spotify.com/artist/18oZ6SjjkZ57N1kZZ6u2hT) | [Tipatshimushtunan](https://open.spotify.com/album/6N3926ij2Mfo7hZF41Rlca) | 3:40 | 2022-07-01 | 2022-07-23 |
 | [Tit'souite](https://open.spotify.com/track/7ApiyLZOAueIeptD8rebbW) | [Benny Adam](https://open.spotify.com/artist/31Gbv2WFzy6QX0X6DkGiHA), [NAYRA](https://open.spotify.com/artist/1hNiaDCXQvVRhVSJHsaDmZ) | [Tit'souite](https://open.spotify.com/album/775aLAglg7wbZxaGCYP7wb) | 3:09 | 2023-07-14 | 2023-07-22 |
 | [Toi](https://open.spotify.com/track/1g2NGyu1fL7B5RipZgmFNY) | [Slimane](https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz) | [Toi](https://open.spotify.com/album/5JQodTDUxGraUtOXeYwIpV) | 3:11 | 2022-08-26 | 2022-09-10 |
-| [Toi & Moi](https://open.spotify.com/track/2oMSuuGg4HlLsWrDR1Bhtu) | [Gaëlle](https://open.spotify.com/artist/1uN3byO6WUB2dSDg6XpsEw), [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7) | [Toi & Moi](https://open.spotify.com/album/1ZOY0RIkEEp9KPasfdQTvU) | 2:42 | 2024-05-24 |  |
+| [Toi & Moi](https://open.spotify.com/track/2oMSuuGg4HlLsWrDR1Bhtu) | [Gaëlle](https://open.spotify.com/artist/1uN3byO6WUB2dSDg6XpsEw), [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7) | [Toi & Moi](https://open.spotify.com/album/1ZOY0RIkEEp9KPasfdQTvU) | 2:42 | 2024-05-24 | 2024-06-02 |
 | [Toi & moi](https://open.spotify.com/track/4C9bUSwqwVZ8eu2jsnctm6) | [Mok Saib](https://open.spotify.com/artist/6jcvupTBm6vk5SMEEVpvSW), [Zaho](https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o) | [Toi & moi](https://open.spotify.com/album/4qAOLbreEqTtzFgcGePfZL) | 3:10 | 2022-03-18 | 2022-04-02 |
 | [Told Ya](https://open.spotify.com/track/4dOZyyaAa0CoxerKPYFdoT) | [Joe Rocca](https://open.spotify.com/artist/02nyUoWQbKuMviHAb3PSmi), [Dead Obies](https://open.spotify.com/artist/6pcIfv5iZnVQgUNcKp8lGA) | [Hybride](https://open.spotify.com/album/4xRBp5enf96QOYsRVUcm3K) | 3:18 | 2024-05-24 | 2024-06-01 |
 | [tombeau](https://open.spotify.com/track/5dSPiSs9A6jOHluVuL5i9r) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [tombeau](https://open.spotify.com/album/657xhlrFfq3PAhaB7SDXUa) | 2:47 | 2022-06-10 | 2022-06-18 |
@@ -2315,6 +2315,7 @@
 | [Tout doux](https://open.spotify.com/track/1X55r1DFedNYWpkc5NwfVe) | [Claude Bégin](https://open.spotify.com/artist/4eAuoiborBxqHdhL2J5N1t) | [Tout doux](https://open.spotify.com/album/668UFdQxinrbBe3PByRj6n) | 3:06 | 2023-09-08 | 2023-09-16 |
 | [Tout est différent \- High Klassified Remix](https://open.spotify.com/track/0jaLH8lylo9niUbdozxaLo) | [Caracol](https://open.spotify.com/artist/7q7gMpTUdEVOombfNjJSLa), [High Klassified](https://open.spotify.com/artist/4V5f0tr4dGBGUvW5HsR22O) | [Tout est différent \(High Klassified Remix\)](https://open.spotify.com/album/1RfjOWNowpTWmB73luBPM8) | 2:47 | 2022-02-25 | 2022-03-12 |
 | [Tout est parfait](https://open.spotify.com/track/0ZJKrCCgePFz5obWfJqHh7) | [Thaïs](https://open.spotify.com/artist/6lliiJ1S813r1V4koJsGFh) | [Tout est parfait](https://open.spotify.com/album/741zAnDJPbroIfVD2MrGvQ) | 3:07 | 2022-10-07 | 2022-10-22 |
+| [Tout gâché](https://open.spotify.com/track/2U8Rdlgi2r3KDp7Bc4e33s) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [Tout gâché](https://open.spotify.com/album/2Rev1BAh4FMZNxcQbsdlj7) | 2:30 | 2024-05-31 |  |
 | [Tout ira mieux demain](https://open.spotify.com/track/1m4itVNI3P6yGSA3Ptni9P) | [Hervé](https://open.spotify.com/artist/3mNXGOPYzxYiGxttEvJ9hx) | [Intérieur Vie](https://open.spotify.com/album/3mnH4p3JR7XSuQoQGmbMnx) | 3:30 | 2023-03-24 | 2023-04-09 |
 | [Tout le monde](https://open.spotify.com/track/59NiurbrD7BnSkkTBRiqif) | [Jay](https://open.spotify.com/artist/4KZEdNPtF2AdijUD02qPoj), [Mélodie\-Jade](https://open.spotify.com/artist/1TdEVPQUOtvEypnIOeSjDK) | [La Voix 2023](https://open.spotify.com/album/1LtGxOzpH5yYf9jIb7JpfX) | 3:29 | 2023-03-17 | 2023-04-15 |
 | [Tout le monde a raison](https://open.spotify.com/track/5Rm2XSJvhHdx7remj1ZUNQ) | [Raccoon](https://open.spotify.com/artist/7nzgBxjw2Co88MGWjMnl4c), [Lounaire](https://open.spotify.com/artist/6S5hi1MwIrqeZ1tHW5GL6F) | [Tout le monde a raison](https://open.spotify.com/album/5XjJEfwC3ybxsdqfNuB0o3) | 3:39 | 2022-05-13 | 2022-05-28 |

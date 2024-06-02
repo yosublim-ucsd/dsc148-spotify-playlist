@@ -2,7 +2,7 @@
 
 ### [Club Resistance](https://open.spotify.com/playlist/37i9dQZF1DWTLrNDPW5co2)
 
-> Catz n' Dogz celebrate pride month by guest curating Club Resistance with a selection of LGBTQIA+ dance & electronic artists!
+> Catz 'n Dogz celebrate pride month with their guest curation takeover of Club Resistance!
 
 201 songs - 14 hr 0 min
 
